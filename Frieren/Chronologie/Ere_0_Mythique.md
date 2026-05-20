@@ -2,7 +2,7 @@
 
 - univers : Sousou no Frieren (hybride)
 - dossier : Chronologie
-- sources : ENCYCLO_CHRONOLOGIE Section 1
+- sources : ENCYCLO_CHRONOLOGIE E2 Section 1
 - version : W1
 - bible rattachee : BIBLE_LORE_FRIEREN (a lier au build)
 
