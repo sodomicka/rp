@@ -100,16 +100,6 @@ Ce fichier regroupe les mages secondaires de l'arc d'Aeusserst qui ne justifient
 - Rang : candidats a l'examen. Peu documentes.
 - Role dans l'arc : mentionnes parmi les candidats. Pas de capacites ni de personnalite developpees dans le canon anime/manga. Remplissage du roster des 57 candidats.
 
----
-
-## Falsch
-
-- Nom : Falsch (« faux / incorrect » en allemand).
-- Espece : humain.
-- Rang : mage de premiere classe (examinateur, pas candidat).
-- Personnalite : peu developpee. Present aux cotes de Sense et Genau lors de l'introduction de l'examen.
-- Capacites : excelle en combat rapproche, comme Sense, du fait de la nature de sa magie (non precisee). Sense le cite comme reference.
-- Role dans l'arc : figurant parmi les examinateurs. Observe les epreuves sans intervention directe.
 
 ---
 
@@ -125,7 +115,6 @@ Ce fichier regroupe les mages secondaires de l'arc d'Aeusserst qui ne justifient
 | Duenste | 5e+ classe | 17e (Edel, Blei) | Feu (basique) | Echoue 3e epreuve | Figurant |
 | Ton | inconnu | inconnu | inconnue | inconnu | Roster |
 | Laenge | inconnu | inconnu | inconnue | inconnu | Roster |
-| Falsch | 1ere classe | — (examinateur) | Combat rapproche | — | Figurant examinateur |
 
 ---
 
