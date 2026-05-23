@@ -4,7 +4,7 @@ Ce fichier definit la forme, les regles de construction et le gabarit du `CODEX_
 Il sert de reference unique en mode CODEX BUILD.
 Le modele doit produire un CODEX factuel, compact, autosuffisant, sans narration.
 
-Emplacement : `Config/SPEC_CODEX.md` sur le depot GitHub.
+Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_CODEX_v7_0.md`.
 Consultation : fetchee au premier CODEX BUILD d'un thread (V1 sous Instructions Wiki, V2+ sous Instructions RP). Pour les builds suivants dans le meme thread, la version fetchee reste en contexte.
 
 ---

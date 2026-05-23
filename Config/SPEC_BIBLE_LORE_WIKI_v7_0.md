@@ -7,7 +7,7 @@ Ce fichier definit la forme, les regles de construction et le gabarit du systeme
 
 Le modele doit produire des documents factuels, structures, sans narration, sans interpretation non balisee.
 
-Emplacement : `Config/SPEC_BIBLE_LORE_WIKI.md` sur le depot GitHub.
+Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_WIKI_v7_0.md`.
 Consultation : fetchee au premier BIBLE BUILD. Entre deux builds, la BIBLE elle-meme sert de reference — ses sections vides conservent le gabarit de cette spec pour que le MJ n'ait plus a la refetcher.
 
 ---
@@ -100,7 +100,7 @@ Fichier unique, lu en integralite par le MJ a chaque tour.
 Chaque section a un identifiant stable (`§B0`, `§B1`...).
 
 ### BIBLE auto-portante
-Les sections pas encore remplies conservent le gabarit de la SPEC (lignes de structure, champs, format). Ainsi le MJ sait quoi remplir au prochain build sans refetcher la SPEC. La BIBLE livrée n'a jamais de section vide sans structure.
+Les sections pas encore remplies conservent le gabarit de la SPEC (lignes de structure, champs, format). Ainsi le MJ sait quoi remplir au prochain build sans refetcher la SPEC. La BIBLE livree n'a jamais de section vide sans structure.
 
 ### Sections (ordre fixe, toutes optionnelles sauf §B0, §B1, §B9)
 
@@ -112,10 +112,10 @@ Les sections pas encore remplies conservent le gabarit de la SPEC (lignes de str
 - date de build : <AAAA-MM-JJ>
 - bible_version : B<N>
 - wiki_base : <URL racine du WIKI GitHub>
-  Format : `https://github.com/<pseudo>/<repo>/blob/main/<Univers>/`
+  Format : `https://github.com/sodomicka/rp/blob/main/<Univers>/`
   Toutes les URLs WIKI de §B9 se construisent par concatenation : wiki_base + chemin relatif.
 - parties_base : <URL racine de Parties/ GitHub pour le RP en cours>
-  Format : `https://github.com/<pseudo>/<repo>/blob/main/Parties/<Univers>/Partie<n>/`
+  Format : `https://github.com/sodomicka/rp/blob/main/Parties/<Univers>/Partie<n>/`
   Toutes les URLs Parties de §B9 se construisent par concatenation : parties_base + chemin relatif.
 - pages wiki rattachees :
   - <Dossier> — <description courte> (<N> pages)
@@ -326,11 +326,10 @@ Le joueur fournit :
 1. L'univers cible.
 2. Le focus narratif (ere, arc, faction, region).
 3. Les sources : fichiers joints et/ou URL a fetcher.
-4. Son pseudo GitHub et le nom du repo (pour construire wiki_base et parties_base).
-5. La liste des dossiers/pages souhaitees (ou "a determiner ensemble").
+4. La liste des dossiers/pages souhaitees (ou "a determiner ensemble").
 
 ### Fetch de la SPEC
-Au premier BIBLE BUILD (aucune BIBLE existante), le MJ fetche `Config/SPEC_BIBLE_LORE_WIKI.md` depuis le depot GitHub. Si la SPEC n'est pas encore sur le depot (tout premier build, rien n'existe), le joueur la fournit en fichier joint ou dans le chat pour ce premier thread. Apres ce premier build, la SPEC est uploadee dans Config/ et tout passe en fetch.
+Au premier BIBLE BUILD (aucune BIBLE existante), le MJ fetche `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_WIKI_v7_0.md`. Si la SPEC n'est pas encore sur le depot (tout premier build, rien n'existe), le joueur la fournit en fichier joint ou dans le chat pour ce premier thread. Apres ce premier build, la SPEC est uploadee dans Config/ et tout passe en fetch.
 
 Pour les builds suivants, la BIBLE elle-meme sert de reference (gabarit integre dans les sections vides). Le fetch de la SPEC n'est necessaire que si le MJ a besoin de verifier une regle de construction.
 
@@ -439,10 +438,10 @@ Le joueur uploade les fichiers mis a jour sur le depot GitHub.
 
 ### Structure du depot
 ```
-<repo>/
+sodomicka/rp/
   Config/
-    SPEC_CODEX.md
-    SPEC_BIBLE_LORE_WIKI.md
+    SPEC_CODEX_v7_0.md
+    SPEC_BIBLE_LORE_WIKI_v7_0.md
   <Univers>/
     <Dossier_thematique>/
       <Page>.md
@@ -467,7 +466,7 @@ Le joueur uploade les fichiers mis a jour sur le depot GitHub.
 ### URL de consultation
 Toute page WIKI est accessible a : `wiki_base` + `<Dossier>/<Page>.md`.
 Toute page Parties/ est accessible a : `parties_base` + `<Dossier>/<Page>.md`.
-Toute SPEC est accessible a : `https://github.com/<pseudo>/<repo>/blob/main/Config/<fichier>.md`.
+Toute SPEC est accessible a : `https://github.com/sodomicka/rp/blob/main/Config/<fichier>.md`.
 
 ### Visibilite
 Le depot doit etre PUBLIC pour que fetch fonctionne sans token.
@@ -497,8 +496,8 @@ Le depot doit etre PUBLIC pour que fetch fonctionne sans token.
 - sources primaires :
 - date de build : <AAAA-MM-JJ>
 - bible_version : B<N>
-- wiki_base : `https://github.com/<pseudo>/<repo>/blob/main/<Univers>/`
-- parties_base : `https://github.com/<pseudo>/<repo>/blob/main/Parties/<Univers>/Partie<n>/`
+- wiki_base : `https://github.com/sodomicka/rp/blob/main/<Univers>/`
+- parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/<Univers>/Partie<n>/`
 - pages wiki rattachees :
   - <Dossier> — <description courte> (<N> pages)
 
