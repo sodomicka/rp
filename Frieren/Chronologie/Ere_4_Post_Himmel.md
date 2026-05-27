@@ -10,7 +10,7 @@
 
 | Date | Evenement | Detail | Certitude |
 |---|---|---|---|
-| An 50 | Reunion des meteores | le groupe se retrouve 50 ans apres la victoire pour revoir les meteores de l'Ere. Himmel meurt peu apres | canon |
+| An 60 | Reunion des meteores | le groupe se retrouve 50 ans apres la victoire pour revoir les meteores de l'Ere. Himmel meurt peu apres | canon |
 | An ~70 | Frieren arrive chez Heiter | Fern a 9 ans. Frieren commence a la former | canon |
 | An ~74 | Mort de Heiter | Fern a 13 ans, mage a part entiere. Depart avec Frieren | canon |
 | An ~77 | Qual libere et tue | foret de Grosse. Frieren et Fern | canon |
