@@ -10,16 +10,17 @@
 
 ---
 
-## Etape 26 — Territoire de la Compagnie Norm (pret)
+## Etape 26 — Graf Dach (epee et pret)
 
-- **Lieu** : Norm Company Territory — territoire fortifie du Plateau Nord.
-- **Type** : territoire commercial/militaire.
-- **Periode estimee** : An ~7.
-- **Statut** : canon (le Hero Party passe par le territoire Norm et recoit un pret de Lord Norm).
+- **Lieu** : Territoire de Graf Dach — domaine feodal du Plateau Nord.
+- **Type** : domaine noble depuis peu. territoire commercial/militaire.
+- **Periode estimee** : An ~7-8.
+- **Statut** : canon (le Hero Party recoit la demande du seigneur Norm de recuperer son epee. Le groupe recupere l'epee volée de Graf Dach par un demon, puis le Hero Party recoit un pret de Lord Norm).
 - **Evenements** :
   - Le groupe arrive au territoire de la Compagnie Norm sur le Plateau Nord.
-  - Lord Norm, fondateur de la Compagnie, leur accorde un pret genereux pour financer la suite du voyage.
-  - Schein parle de la fierte comme seule faiblesse des rares emotions que les demons possedent. Moment de lore demoniaque devant un public humain.
+  - Un demon a vole l'epee hereditaire de Graf Dach. Lord Norm les engage.
+  - Schein parle de la fierte comme seule faiblesse des rares emotions que les demons possedent. L'epee etait d'abord aux demons, quand ils la recuperent ils commettent des massacres par fierte. Moment de lore demoniaque devant un public humain.
+  - Le groupe la recupere. Lord Norm leur accorde un pret genereux, bien plus que la recompense, pour financer la suite du voyage.
 - **Personnages impliques** : Lord Norm, Himmel, Schein, groupe.
 - **Role de Schein** : revelation lore. Schein partage une verite sur les demons depuis l'interieur — la fierte (mana = dignite, cf. BIBLE §B1) est la seule faille emotionnelle des demons. Ce n'est pas de l'empathie — c'est de l'orgueil, le seul sentiment que l'espece possede naturellement. Information precieuse pour des humains qui combattent des demons.
 - **Tchekhov** : —
@@ -27,24 +28,7 @@
 
 ---
 
-## Etape 27 — Graf Dach (epee et recompense)
-
-- **Lieu** : Territoire de Graf Dach — domaine feodal du Plateau Nord.
-- **Type** : domaine noble.
-- **Periode estimee** : An ~7-8.
-- **Statut** : canon (le Hero Party recupere l'epee volée de Graf Dach par un demon).
-- **Evenements** :
-  - Un demon a vole l'epee hereditaire de Graf Dach.
-  - Le groupe la recupere. Graf Dach offre une recompense monetaire.
-  - Himmel conserve l'argent — il a un plan pour cet argent (etape suivante : Gehen).
-- **Personnages impliques** : Graf Dach, Himmel, groupe.
-- **Role de Schein** : participation au combat de recuperation. Un demon qui tue un demon pour rendre une epee a un noble humain — l'ironie n'echappe a personne.
-- **Tchekhov** : —
-- **Notes** : Canon confirme. L'argent de Dach est celui que Himmel donne a Gehen au Canyon de Tor. Les deux evenements sont lies narrativement. Fiche Graf Dach a creer.
-
----
-
-## Etape 28 — Lac Korridor
+## Etape 27 — Lac Korridor
 
 - **Lieu** : Lac Korridor — lac du Plateau Nord, seul point de passage vers le haut plateau.
 - **Type** : lac / point de passage.
@@ -60,7 +44,7 @@
 
 ---
 
-## Etape 29 — Grand Canyon de Tor (Gehen)
+## Etape 28 — Grand Canyon de Tor (Gehen)
 
 - **Lieu** : Great Tor Canyon — canyon de 3 kilometres de profondeur, Plateau Nord.
 - **Type** : canyon, pont en construction.
@@ -79,7 +63,7 @@
 
 ---
 
-## Etape 30 — Forets enneigees et villages
+## Etape 29 — Forets enneigees et villages
 
 - **Lieu** : Haut Plateau Nord — forets enneigees, villages epars, territoire demoniaque.
 - **Type** : zone de progression.
@@ -96,7 +80,7 @@
 
 ---
 
-## Etape 31 — Monument de la Deesse (embuscade, ~An 7)
+## Etape 30 — Monument de la Deesse (embuscade, ~An 7)
 
 - **Lieu** : Monument de la Deesse — lieu sacre, Plateau Nord.
 - **Type** : site sacre / champ de bataille.
@@ -123,7 +107,7 @@
 
 ---
 
-## Etape 32 — Affrontement contre Grausam (Schein en retrait)
+## Etape 31 — Affrontement contre Grausam (Schein en retrait)
 
 - **Lieu** : Plateau Nord, localisation non precisee.
 - **Type** : champ de bataille.
@@ -142,7 +126,7 @@
 
 ---
 
-## Etape 33 — Escouade lourde de demons
+## Etape 32 — Escouade lourde de demons
 
 - **Lieu** : Approches d'Ende, Plateau Nord.
 - **Type** : champ de bataille.
@@ -158,7 +142,7 @@
 
 ---
 
-## Etape 34 — Chateau du Roi des Demons (An 10)
+## Etape 33 — Chateau du Roi des Demons (An 10)
 
 - **Lieu** : Demon King's Castle — Ende, extreme nord du continent.
 - **Type** : forteresse / siege du Roi des Demons.

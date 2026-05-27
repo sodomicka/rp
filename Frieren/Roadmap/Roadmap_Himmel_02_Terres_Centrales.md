@@ -159,7 +159,7 @@
 - **Evenements** :
   - Tempete de neige. Premiere exposition du groupe au froid des hauteurs.
   - Frieren frigorifiee.
-  - Schein dans son element — habitue a Ende, region arctique ou il a passe son millenaire de torture.
+  - Schein dans son element — habitue a Ende, region arctique ou il a passe son demi millenaire de torture.
   - Contraste comique et tendre entre les deux.
 - **Personnages impliques** : Schein, Frieren, groupe.
 - **Role de Schein** : inversion des roles. Pour une fois, c'est Schein qui est a l'aise et Frieren qui souffre. Moment de legerete qui humanise leur relation aux yeux du groupe.

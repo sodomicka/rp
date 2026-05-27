@@ -3,7 +3,7 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Roadmap
 - segment : Traversee des Terres du Nord
-- periode : An ~3-7
+- periode : An ~5-7
 - sources : BIBLE_LORE B5, CODEX V5, canon anime S1-S2, decisions joueur OOC
 - version : W1
 - bible rattachee : BIBLE_LORE_FRIEREN B5
@@ -14,7 +14,7 @@
 
 - **Lieu** : Schwer Mountains — chaine montagneuse, frontiere Central Lands / Northern Lands.
 - **Type** : montagnes, lieu canonique lie a l'epee du heros.
-- **Periode estimee** : An ~3-4.
+- **Periode estimee** : An ~5.
 - **Statut** : canon. A verifier pour les details specifiques de l'evenement.
 - **Evenements** :
   - Passage par les montagnes de Schwer.
@@ -30,7 +30,7 @@
 
 - **Lieu** : Laub — foret dense des Northern Lands.
 - **Type** : foret.
-- **Periode estimee** : An ~4.
+- **Periode estimee** : An ~5.
 - **Statut** : invention (evenement). Canon (lieu).
 - **Evenements** :
   - Traversee d'une foret dense. Quelques monstres a eliminer.
@@ -46,7 +46,7 @@
 
 - **Lieu** : Appetit — village des Northern Lands, zone nord-ouest.
 - **Type** : village.
-- **Periode estimee** : An ~4.
+- **Periode estimee** : An ~5.
 - **Statut** : invention (evenement).
 - **Evenements** :
   - Village calme. Repos merite apres la deception de Schwer.
@@ -61,7 +61,7 @@
 
 - **Lieu** : Raad — foret dense des Northern Lands.
 - **Type** : foret.
-- **Periode estimee** : An ~4-5.
+- **Periode estimee** : An ~5.
 - **Statut** : invention (evenement). Canon (lieu).
 - **Evenements** :
   - Foret dense, monstres plus nombreux qu'a Laub.
@@ -93,7 +93,7 @@
 
 - **Lieu** : Bande — foret des Northern Lands, entre Alt et Offen.
 - **Type** : foret.
-- **Periode estimee** : An ~5.
+- **Periode estimee** : An ~5-6.
 - **Statut** : invention (evenement).
 - **Evenements** :
   - Gros contrat passe a Granat pour se debarrasser d'un monstre.
@@ -109,7 +109,7 @@
 
 - **Lieu** : Offen — village en region enneigee, territoire de Boese.
 - **Type** : village / territoire d'un Sage de la Destruction.
-- **Periode estimee** : An ~5-6 (avant An 7 — condition de mort de Boese).
+- **Periode estimee** : An ~6 (avant An 7 — condition de mort de Boese).
 - **Statut** : divergence (duel de Schein). Canon (mort de Boese par le Groupe des Heros, attribution publique a Himmel).
 - **Evenements** :
   - Le groupe entre dans le secteur de Boese l'Immortel, Sage de la Destruction.
