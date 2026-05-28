@@ -2,9 +2,9 @@
 
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
-- sources : ENCYCLO_PERSONNAGES Section 3
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN (a lier au build)
+- sources : ENCYCLO_PERSONNAGES Section 3, canon wiki (fandom), decisions joueur OOC
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B11
 
 ## Identite
 
@@ -13,7 +13,7 @@
 - Age a sa mort : ~5 700 ans. Apparence : ~32 ans apparents a sa mort (plateau de vieillissement : 5 000+ = +1/siecle).
 - Apparence : armure complete, deux cornes. Espadon.
 - Role : souverain absolu du Royaume Demon. Biologiste-souverain. Siege a Ende, qui verrouille l'acces a Aureole.
-- Mort : An 0. Deux lames, un seul coup — Epee du Heros (Himmel) + Epee de Lumiere conjuree (Schein). Prophetie de Schlacht accomplie.
+- Mort : An 10. Deux lames, un seul coup — Epee du Heros (Himmel) + Epee de Lumiere conjuree (Schein). Prophetie de Schlacht accomplie.
 
 ## Personnalite
 
@@ -44,9 +44,9 @@ Objectif : coexistence par evolution forcee de l'humanite. Methode : massacres c
 
 **Post-exil (~990 av.).** Le Roi scelle le bras gauche de Schein. Envoie des chasseurs, mais sait que seuls certains Sages seraient de taille. Pour lui, Schein est une experience ratee — mais les donnees sont collectees. Il part du principe que Schein reviendra un jour le supplier, pas le tuer.
 
-**Predictions de Schlacht.** Le Roi a ignore la premiere prediction (« le garder causera ta chute »). Quand Schein devient le demon tueur de demons, le Roi recalibre : les autres predictions de Schlacht passent de bruit de fond a donnees fiables. D'ou l'ordre de surveiller le Monument de la Deesse ~7 ans avant sa mort — prediction de Schlacht prise au serieux apres que l'exil a prouve la fiabilite du devin.
+**Predictions de Schlacht.** Le Roi a ignore la premiere prediction (« le garder causera ta chute »). Quand Schein devient le demon tueur de demons, le Roi recalibre : les autres predictions de Schlacht passent de bruit de fond a donnees fiables. D'ou l'ordre de surveiller le Monument de la Deesse ~3 ans avant l'interference (~An 4-5) — prediction de Schlacht prise au serieux apres que l'exil a prouve la fiabilite du devin.
 
-**Combat final (An 0).** Le Roi reconnait Schein en le voyant a Ende. Pas de surprise fatale — la superiorite d'un groupe uni face a un Roi esseule. Le Roi rappelle a Schein qu'il est une « experience ratee ». Deux lames, un seul coup. La solitude du sommet contre la force du lien. La prophetie de Schlacht s'accomplit.
+**Combat final (An 10).** Le Roi reconnait Schein en le voyant a Ende. Pas de surprise fatale — la superiorite d'un groupe uni face a un Roi esseule. Le Roi rappelle a Schein qu'il est une « experience ratee ». Deux lames, un seul coup. La solitude du sommet contre la force du lien. La prophetie de Schlacht s'accomplit.
 
 ## Relations autres
 

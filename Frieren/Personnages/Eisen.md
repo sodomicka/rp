@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : Heiter_Et_Eisen W1 (scission), canon anime S1-S2, Frieren Wiki, decisions joueur
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B3
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B11
 
 ---
 
@@ -12,7 +12,7 @@
 
 - Nom : Eisen (« fer » en allemand).
 - Espece : nain.
-- Age : ~250 ans a An 0. ~310 ans a la mort de Himmel (An 60). En fin de vie — commence a faiblir physiquement.
+- Age : ~250 ans a An 0. ~315 ans a la mort de Himmel (An 65). En fin de vie — commence a faiblir physiquement.
 - Apparence : petit, carrure massive, barbe longue brun pale qui couvre la majeure partie du visage. Casque a deux cornes courtes avec garde-nez, cape rouge longue, armure d'epaules, tunique brune. En vieillissant, perd de la masse musculaire — les bras surtout.
 - Arme : hache a double tranchant.
 - Role : guerrier du Groupe des Heros.
@@ -39,7 +39,7 @@ Repute « plus fort guerrier humain » par plusieurs combattants de haut niveau,
 
 Apprenti post-quete : Stark. Dur avec lui par peur de son potentiel immense, pas par cruaute. Correspond avec Heiter par lettres jusqu'a la mort du pretre.
 
-Refuse de continuer a voyager avec Frieren apres la quete — estime etre trop vieux pour l'aventure.
+S'installe a Bredt apres la separation du groupe (An 15). Estime etre trop vieux pour l'aventure.
 
 ---
 
@@ -48,13 +48,13 @@ Refuse de continuer a voyager avec Frieren apres la quete — estime etre trop v
 - Robustesse naturelle de nain : saute de falaises sans se blesser, resistance aux poisons, endurant.
 - Style de combat centre sur la hache a double tranchant. Pas de magie.
 - Force brute exceptionnelle, mais sa vraie puissance vient du travail d'equipe. Le Groupe des Heros fonctionne en synergie — Eisen seul n'est pas un tueur de Sages.
-- En fin de vie (~310 ans), la masse musculaire diminue. Il le sait et s'arrete.
+- En fin de vie (~315 ans), la masse musculaire diminue. Il le sait et s'arrete.
 
 ### Power-scaling
 
 | Tier | Position |
 |---|---|
-| B+ | Eisen (prime, An 0-10). Au niveau des generaux et des Revoltes. La synergie de groupe le hisse au-dessus de son tier individuel — le Groupe des Heros echoue contre Aura la premiere fois, mais triomphe du Roi a cinq. |
+| B+ | Eisen (prime, An 0-10). Au niveau des generaux et des Revoltes. La synergie de groupe le hisse au-dessus de son tier individuel — le Groupe des Heros blesse Aura lors de l'escarmouche a Graf Granat (An ~5, elle fuit), et triomphe du Roi a cinq. |
 
 ---
 
@@ -86,7 +86,7 @@ Miroir thematique : Eisen survit parce qu'il a peur. Schein a echoue contre le R
 
 - **Himmel** : respect profond. Himmel l'a pousse a profiter du voyage. Eisen le suit par conviction, pas par obligation.
 - **Heiter** : amitie durable. Couronnes de fleurs, lettres post-quete, influence mutuelle sur la foi et le pragmatisme. Le lien le plus tendre d'Eisen.
-- **Frieren** : camarade de longue date. Refuse de voyager avec elle apres la quete — lucidite sur son propre declin.
+- **Frieren** : camarade de longue date. Refuse de voyager avec elle apres An 65 — lucidite sur son propre declin.
 - **Schein** : cf. section dediee ci-dessus.
 - **Stark** : apprenti post-quete. Eisen voit en lui un potentiel qui le depasse et qui l'effraie — d'ou une durete qui ressemble a de la cruaute mais qui est de la protection.
 

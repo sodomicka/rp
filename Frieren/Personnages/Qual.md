@@ -2,9 +2,9 @@
 
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
-- sources : ENCYCLO_PERSONNAGES Section 10
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN (a lier au build)
+- sources : ENCYCLO_PERSONNAGES Section 10, canon wiki (fandom), decisions joueur OOC
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B11
 
 ## Identite
 
@@ -12,9 +12,10 @@
 - Espece : demon.
 - Age : inconnu, probablement 5 000+ ans (titre d'« ancien », apparence monstrueuse).
 - Role : createur du Zoltraak, le premier sort de percee capable de traverser toutes les defenses humaines de son epoque.
-- Puissance : tellement puissant que le Groupe de Himmel ne peut que le sceller, pas le tuer. Frieren ne le tue que ~77 ans apres la mort du Roi grace aux progres de la magie humaine.
+- Puissance : tellement puissant que le Groupe de Himmel ne peut que le sceller, pas le tuer. Frieren ne le tue que ~67 ans plus tard (~An 77) grace aux progres de la magie humaine.
 - Malediction de decomposition d'une puissance extreme.
 - Apparence plus monstrueuse que la plupart des demons — variation individuelle et/ou grand age.
+- Scelle An ~3 (foret de Grosse). Tue An ~77 (Frieren et Fern).
 
 ## Rapport avec Schein
 

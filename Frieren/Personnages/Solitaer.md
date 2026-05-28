@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : canon wiki (fandom), TV Tropes, decisions joueur OOC
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B3
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B11
 
 ## Identite
 
@@ -14,7 +14,7 @@
 - Apparence : petite, mince, cheveux turquoise longs et coupes de facon inegale (depassent le torse), yeux verts, cornes tres petites depassant juste au-dessus du front (separent la frange). Pendentif tubulaire en collier. Robe jaune a deux pans avec sous-couche blanche, bracelets aux deux mains, sandales a rubans. Plus tard : meme tenue avec cardigan orange par-dessus.
 - Role : chercheuse obsessionnelle, specialiste de la biologie et de la psychologie humaines. Seul demon a posseder un habitat fixe hors Ende (un chantier naval humain reconverti). Collectionne des specimens (squelettes de requin et d'orque). Directement liee au Roi des Demons, qui lui a enseigne la theorie de l'evolution convergente.
 - Personnalite : excentrique, recluse, decontractee en surface. Demon canon classique (pas d'empathie reelle). Frieren la considere comme la demone qui comprend le mieux la psychologie humaine — ce qui la rend redoutable en manipulation et jeux mentaux. Contrairement a Macht, elle ne cherche pas a ressentir les emotions humaines : elle les etudie avec la distance clinique d'un predateur qui observe sa proie. Pragmatique envers son espece : considere la guerre du Roi comme improductive et un gaspillage de vies demoniaques, mais agit pour la survie des demons quand elle le juge necessaire.
-- Mort : arc de Weise (~An 88). Tuee par Fern. Frieren dissipe Diagoldze en plein combat contre Solitaer, faisant confiance a Fern pour la finir avec un Zoltraak concentre. Solitaer n'anticipe pas cette cooperation humaine — les demons ne savent pas se coordonner comme les humains et ne peuvent pas concevoir que leurs ennemis le fassent.
+- Mort : arc de Weise (~An 81). Tuee par Fern. Frieren dissipe Diagoldze en plein combat contre Solitaer, faisant confiance a Fern pour la finir avec un Zoltraak concentre. Solitaer n'anticipe pas cette cooperation humaine — les demons ne savent pas se coordonner comme les humains et ne peuvent pas concevoir que leurs ennemis le fassent.
 
 ## Capacites
 
@@ -39,11 +39,13 @@
 
 **Le paradoxe Solitaer/Schein.** Solitaer a explique a Macht que les demons ne pourront jamais comprendre les emotions humaines — que leur apparence et leur langage ne sont que des outils de predation, et qu'essayer de comprendre l'autre est aussi vain que de se demander ce que ressent un insecte en vol. Schein invalide cette certitude par son existence meme. Solitaer n'a jamais resolu ce paradoxe. Contrairement a Macht, elle ne cherche pas a le resoudre — elle l'observe et le classe, sans remettre en cause son modele.
 
-**Apres l'exil.** Aucun contact. Schein est un demon tueur de demons, Solitaer evite les ennuis. S'ils s'etaient croises, la dynamique aurait ete complexe : Solitaer est trop pragmatique pour l'affronter sans raison, trop curieuse pour le fuir, et trop lucide pour croire qu'il la laisserait l'observer en paix.
+**Apres l'exil.** Aucun contact direct jusqu'a l'arc du Monument (~An 7). Schein est un demon tueur de demons, Solitaer evite les ennuis.
+
+**Arc du Monument (~An 7).** [DIVERGENCE RP] Schein est present avec le Groupe des Heros. Apres le combat, il demande d'epargner Solitaer — dette passee, elle etait l'un des rares demons a ne pas etre hostile envers lui au chateau. Solitaer ordonne la retraite. Elle survit.
 
 **Fait notable.** Solitaer est classee Generale dans la hierarchie du Royaume Demon — rang de facto impose a tous les demons majeurs, qu'ils l'exercent ou non. Les demons qui refusent le systeme sont traques par l'executeur (Schein durant son service). Solitaer a survecu, ce qui implique soit qu'elle a accepte le titre sans l'exercer, soit que sa puissance rendait la traque trop couteuse.
 
-## Arc de Weise (~An 88)
+## Arc de Weise (~An 81)
 
 Canon preserve.
 
@@ -53,23 +55,23 @@ Canon preserve.
 
 ## Arc du Monument de la Deesse (~An 7)
 
-Canon preserve.
+Canon preserve, avec divergence (Schein present, Solitaer epargnee).
 
 **Contexte.** Sept ans apres le depart du Groupe des Heros, le Roi des Demons detecte une interference spatio-temporelle. Solitaer traque la source jusqu'au Monument de la Deesse et comprend que Frieren a ete envoyee dans le passe.
 
 **Organisation.** Solitaer recrute trois Grands Demons : Grausam le Miraculeux (Sage, magie mentale), Rivale, et Tot. Plan : Grausam vole les souvenirs du futur de Frieren, puis ils l'eliminent. Tot refuse de risquer sa vie et part. Les trois restants attaquent le Groupe des Heros.
 
-**Combat.** Rivale affronte Eisen. Solitaer couvre avec ses lames a distance. Grausam lance Ansehelschella (illusion de reve — Himmel et Frieren se mariant). Heiter resiste grace a la Grace Divine. Himmel, encore prisonnier de l'illusion, se bat avec ses autres sens, tranche le bras de Grausam, brise le sort, puis localise Solitaer par la trajectoire de ses lames.
+**Combat.** Rivale affronte Eisen. Solitaer couvre avec ses lames a distance. Grausam lance Ansehelschella (illusion de reve — Himmel et Frieren se mariant). Heiter resiste grace a la Grace Divine. Himmel, prisonnier de l'illusion, se bat avec ses autres sens, tranche le bras de Grausam, brise le sort, puis localise Solitaer par la trajectoire de ses lames.
 
 **Issue.** Frieren retourne dans le present via le Monument. Solitaer ordonne la retraite. Grausam a recupere des bribes de souvenirs de Frieren — consequences non entierement revelees. Solitaer note que la magie de la Deesse reste l'ennemi le plus redoutable des demons.
 
 ## Relations
 
 - **Roi des Demons** : directement liee a lui. Il lui a enseigne la theorie de l'evolution convergente. Elle respecte son intellect mais considere sa guerre comme un gaspillage.
-- **Schein** : curiosite de chercheuse au chateau. Anomalie qui invalide son modele theorique. Pas de contact apres l'exil.
+- **Schein** : curiosite de chercheuse au chateau. Anomalie qui invalide son modele theorique. Epargnee par Schein a l'arc du Monument (~An 7) — dette passee.
 - **Macht** : connaissance de longue date, collaboration a Weise. Les deux demons ne se coordonnent pas bien — limite structurelle de l'espece.
 - **Frieren** : adversaire principale a Weise. Solitaer la considere comme le sujet d'etude ultime — une mage alignee sur les humains capable de la defier. Tuee par la cooperation Frieren/Fern qu'elle n'a pas su anticiper.
-- **Fern** : interest scientifique pendant le combat. La sous-estime. C'est Fern qui porte le coup fatal.
+- **Fern** : interet scientifique pendant le combat. La sous-estime. C'est Fern qui porte le coup fatal.
 - **Grausam** : collaboration lors de l'arc du Monument. Solitaer dirige, Grausam execute. Relation fonctionnelle.
 - **Tot** : recrutee par Solitaer pour l'arc du Monument. Refuse de participer au combat.
 
