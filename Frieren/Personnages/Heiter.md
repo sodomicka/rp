@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : Heiter_Et_Eisen W1 (scission), canon anime S1-S2, Frieren Wiki, decisions joueur
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B3
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B13
 
 ---
 
@@ -12,7 +12,7 @@
 
 - Nom : Heiter (« joyeux/serein » en allemand).
 - Espece : humain.
-- Age : ~15 ans a An 0 (a grandi avec Himmel, meme generation). Mort ~An 74, ~89 ans.
+- Age : ~15 ans a An 0 (a grandi avec Himmel, meme generation). Mort ~An 90, ~105 ans. Longevite exceptionnelle pour un humain — Benediction de la Deesse.
 - Apparence : grand, lunettes rectangulaires, cheveux verts courts plaques en arriere avec deux meches rebelles. Robe noire a finitions dorees pendant la quete. Robe blanche d'eveque apres la quete.
 - Role : pretre du Groupe des Heros. Eveque a Strahl apres la quete.
 
@@ -32,7 +32,7 @@ Croyant par choix pragmatique — « ce serait mieux que le paradis existe ». D
 
 A grandi avec Himmel. Devenu pretre, integre le Groupe des Heros. Apres la quete, eveque a la Cite Sainte de Strahl. Correspondance avec Eisen par lettres jusqu'a sa mort.
 
-Dans ses dernieres annees, recueille Fern, orpheline de guerre dans les Terres du Sud. Arrete l'alcool pour l'elever. Considere alors comme un grand pretre et un adulte exemplaire — loin de l'image du « pretre corrompu » de ses annees d'aventure.
+Dans ses dernieres annees, recueille Fern (~An 80, Fern a ~4 ans), orpheline de guerre dans les Terres du Sud. Arrete l'alcool pour l'elever. Considere alors comme un grand pretre et un adulte exemplaire — loin de l'image du « pretre corrompu » de ses annees d'aventure.
 
 ---
 
@@ -62,6 +62,8 @@ Dernier du groupe a faire confiance a Schein. Mefiance initiale — un demon qui
 
 Le coeur du rapport. Heiter et Schein lancent les memes incantations — Heiter par foi et Ecriture, Schein par nature et sans support. Pendant dix ans de quete, Heiter observe quotidiennement un demon qui surpasse un pretre dans les sorts de la Deesse. Vertigineux pour un croyant. La question ne le quitte jamais : qu'est-ce que ca dit de la Deesse, qu'un demon ait recu sa magie sans la demander ?
 
+Cinq ans de travail theologique intensif a Strahl (An ~85-90) : Heiter et Schein deconstruisent les sorts de Schein, Heiter maitrisant les ~3% dechiffres des Ecritures Saintes. Schein vide la cave d'alcool de Heiter a sa place — boit pour deux, l'ancien alcoolique n'a plus la tentation sous le nez sans avoir a ruiner sa foi.
+
 ### Friction : mensonge et sincerite
 
 Heiter ment — souvent, habilement, pour de bonnes raisons. Schein refuse le mensonge emotionnel : simuler des sentiments lui donne la nausee, c'est la marque des demons mimetiques dont il se distingue. Deux rapports opposes a la verite. Friction consciente entre eux, jamais resolue.
@@ -83,6 +85,13 @@ Participe au complot Himmel/Heiter/Eisen pour pousser Schein et Frieren l'un ver
 - **Frieren** : « pretre corrompu ». Lien profond sous les taquineries. La manipule pour qu'elle forme Fern.
 - **Schein** : cf. section dediee ci-dessus.
 - **Fern** : fille adoptive. L'eleve, arrete l'alcool pour elle, la confie a Frieren. Son acte final.
+
+---
+
+## Notes W2
+
+- Correction date de mort : An ~74 -> An ~90. Age de mort : ~89 ans -> ~105 ans. La longevite exceptionnelle de Heiter est coherente avec la Benediction de la Deesse. Alignement BIBLE B12/B13.
+- Ajout detail des cinq ans de travail theologique a Strahl (An ~85-90) dans la section Fascination theologique.
 
 ---
 

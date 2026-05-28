@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : canon anime S1-S2, Frieren Wiki, decisions joueur
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B3
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B13
 
 ---
 
@@ -12,7 +12,7 @@
 
 - Nom : Stark (« fort » en allemand).
 - Espece : humain.
-- Age : ne ~An 56. 18 ans pendant le voyage avec Frieren. Rejoint le groupe apres la mort de Heiter (~An 74).
+- Age : ne ~An 76. ~17 ans quand il rejoint le groupe (~An 93).
 - Apparence : cheveux rouges vifs, noirs au sommet du crane. Cicatrice en travers du front et de l'oeil gauche — recue d'Eisen. Yeux legerement etroits, air vaguement « voyou » selon Fern, en pratique presque toujours une expression inquiete ou paniquee. Grand, musculature dense heritee de l'entrainement d'Eisen.
 - Arme : hache (meme style qu'Eisen).
 - Role : guerrier, avant-garde du groupe de Frieren post-Himmel.
@@ -33,11 +33,11 @@ Immature par rapport a Fern — moins discipline, plus impulsif. Fern fait la me
 
 Originaire d'un village guerrier de la region de Klee. Frere aine : Stoltz — fierte du village, entrainait Stark, lui cuisinait un steak hache a chaque anniversaire en secret (tradition guerriere pour honorer celui qui s'est donne a fond).
 
-Village attaque par des demons. Stark a fui. Stoltz est reste et est mort. Stark est le seul survivant. La honte de cette fuite le definit.
+Village attaque par des demons (~An 84-86). Stark a fui. Stoltz est reste et est mort. Stark est le seul survivant. La honte de cette fuite le definit.
 
-Eisen le recueille, le forme a la hache, l'eleve. Brouille ulterieure : Eisen frappe Stark, Stark part en colere. Raison reelle du coup — Eisen a eu peur de la force de Stark, son corps a bouge tout seul. Ni l'un ni l'autre ne s'en est remis avant que Frieren ne vienne chercher un avant-garde.
+Eisen le recueille, le forme a la hache, l'eleve. Brouille ulterieure (~An 90) : Eisen frappe Stark, Stark part en colere. Raison reelle du coup — Eisen a eu peur de la force de Stark, son corps a bouge tout seul. Ni l'un ni l'autre ne s'en est remis avant que Frieren ne vienne chercher un avant-garde.
 
-Rejoint le groupe de Frieren a la demande d'Eisen (~An 74). Tue un Dragon Solaire d'un seul coup de hache pour prouver sa valeur — sans savoir que Frieren n'avait pas prevu d'intervenir.
+Stark arrive au village du Canyon de Riegel apres la brouille. S'interpose face au Dragon Solaire, s'installe comme protecteur pendant ~3 ans. Rejoint le groupe de Frieren (~An 93) : tue le Dragon Solaire d'un seul coup de hache pour prouver sa valeur — sans savoir que Frieren n'avait pas prevu d'intervenir.
 
 ---
 
@@ -72,6 +72,14 @@ Stark arrive donc dans le groupe avec une image precise : un demon surpuissant, 
 
 Le village de Stark a ete detruit par des demons. Stoltz est mort en les combattant. Et Stark rejoint un groupe ou un demon est deja installe. La difference avec Eisen : Eisen a eu dix ans de quete pour construire sa confiance en Schein. Stark herite de la conclusion sans le chemin. Il fait confiance a Eisen — c'est le seul pont.
 
+### Le test de Schein
+
+Au Canyon de Riegel (~An 93), Schein ne touche pas au Dragon Solaire. Il laisse sa proie a Stark, comme Eisen plantait sa hache pour signaler un duel. Il teste celui qui va proteger Fern. Stark retrouve en Schein le demon dont Eisen lui a parle pendant des annees.
+
+### Cadeaux
+
+Schein ne rate jamais un anniversaire. Des cadeaux utiles, voues a servir : des lanieres de rechange pour le manche de la hache de Stark, une echarpe d'hiver, une paire de bottes. Un etre qui n'a jamais rien possede montre l'affection par l'utile.
+
 ---
 
 ## Relations
@@ -81,6 +89,13 @@ Le village de Stark a ete detruit par des demons. Stoltz est mort en les combatt
 - **Frieren** : met sa vie entre ses mains en tant qu'avant-garde. Confiance acquise.
 - **Schein** : cf. section dediee ci-dessus.
 - **Stoltz** : frere aine mort. Fierte du village, croyait en Stark. Son absence definit Stark autant que sa presence l'a forme.
+
+---
+
+## Notes W2
+
+- Correction naissance : An ~56 -> An ~76. Toutes les dates cascadees : recrutement An ~74 -> An ~93, brouille Eisen An ~74 -> An ~90, destruction village An ~64-66 -> An ~84-86. Alignement BIBLE B12/B13.
+- Enrichissement rapport Schein : ajout sections « Le test de Schein » (Dragon Solaire) et « Cadeaux » (anniversaires, utilitaire).
 
 ---
 
