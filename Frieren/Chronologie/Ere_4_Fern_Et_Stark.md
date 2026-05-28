@@ -2,17 +2,17 @@
 
 - univers : Sousou no Frieren (hybride)
 - dossier : Chronologie
-- sources : BIBLE_LORE B11, Chronologie/Ere_3_Himmel W2, canon anime S1-S2, Frieren Wiki (fandom), decisions joueur OOC 2026-05-28
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B11 (dates recalibrees : +15-16 ans sur tout le bloc post-Himmel, cf. notes)
+- sources : BIBLE_LORE B12, Chronologie/Ere_3_Himmel W2, canon anime S1-S2, Frieren Wiki (fandom), decisions joueur OOC 2026-05-28
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B12
 
 ## Convention
 
-An 0 = depart de la hutte (debut de la quete de Himmel). L'Ere 3 se termine a An 15 (separation du groupe apres la nuit des etoiles filantes). L'Ere 4 couvre le demi-siecle de paix, la perte des compagnons humains, et la formation du nouveau groupe jusqu'a Aeusserst.
+An 0 = depart de la hutte (debut de la quete de Himmel). L'Ere 3 se termine a An 15 (separation du groupe apres la nuit des etoiles filantes). L'Ere 4 couvre le demi-siecle de paix, la perte des compagnons humains, la formation du nouveau groupe, et le voyage jusqu'a Aeusserst.
 
 ## Recalibrage des dates post-Himmel
 
-Les dates de la BIBLE B11 pour l'ere post-Himmel (An ~70 visite Heiter, An ~74 mort Heiter, An ~77 Qual, An ~78 Aura, An ~81 Aeusserst) etaient erronees — elles comprimaient l'ecart canon de 20 ans entre la mort de Himmel et la visite a Heiter. Le canon etablit :
+Les dates de la BIBLE B11 pour l'ere post-Himmel etaient erronees — elles comprimaient l'ecart canon de 20 ans entre la mort de Himmel et la visite a Heiter. Le canon etablit :
 - Mort de Himmel + 20 ans = visite a Heiter
 - Sejour chez Heiter = ~5 ans
 - Mort de Heiter + quelques mois = Qual, puis Stark, puis Aura, puis remontee vers Aeusserst
@@ -24,7 +24,7 @@ Nouvelles dates (An 0 = depart hutte) :
 - An ~92 : Qual
 - An ~93 : Stark
 - An ~94 : Aura / Graf Granat
-- An ~97 : Aeusserst [estimation — a affiner selon les etapes intermediaires]
+- An ~97 : Aeusserst
 
 Naissances recalibrees :
 - Fern : An ~76 (9 ans a l'arrivee de Frieren chez Heiter, ~14 ans a la mort de Heiter)
@@ -52,26 +52,37 @@ Naissances recalibrees :
 | An ~90 | Brouille Eisen/Stark (arriere-plan) | Eisen frappe Stark (peur de sa force), Stark part en colere. Arrive au village du Canyon de Riegel, s'interpose face au Dragon Solaire. S'installe au village ~3 ans avant l'arrivee de Frieren | canon |
 | An ~90 | Mort de Heiter | Frieren dechiffre le grimoire — pas de sorts d'immortalite. Heiter revele la ruse. Veut que Frieren parte avec Fern ce soir. Frieren pleure, lui dit de faire des souvenirs avec Fern plutot que de la chasser (canon preserve). Schein en retrait — sa presence valide le choix, Fern rejoint un duo. Heiter meurt satisfait, entoure. Schein ne le pleure pas — il le sait aupres de la Deesse, conviction nee de ses discussions avec Serie (~890-740 av.), meme si Serie est restee floue sur sa contemporaneite avec la phase mortelle de la Deesse. Frieren verse de l'alcool sur la tombe | canon + divergence RP |
 | An ~90-91 | Depart de Strahl | Frieren, Schein et Fern (~14 ans). Remontee vers le nord par la meme route que la quete de Himmel | canon + divergence RP |
-| An ~91-92 | Passage par Bredt (Eisen) | Eisen, tres age. Refuse de voyager — lucide sur son declin. Oriente le groupe vers Stark, son apprenti, installe dans un village du Canyon de Riegel. Schein et Eisen se retrouvent — le nain qui couvrait son flanc gauche est en fin de vie. Notes de Flamme : Eisen mentionne un grimoire protege cache dans les ruines du Bassin Voll, contenant le recit de la visite de Flamme a Aureole. Solidifie la destination du groupe | canon + divergence RP |
+| An ~91 | Granz — hivernage | Le trio arrive a Granz, ville cotiere sur la peninsule, deja visitee durant la quete de Himmel (An ~3-4). Meme job de nettoyage — epaves et monstres du detroit. Avec deux mages talentueuses (Frieren + Fern), le travail est plus rapide que la premiere fois. Callback : durant la quete, Schein et Frieren avaient manque le lever de soleil en trainant au lit. Cette fois, ils arrivent a temps — aides par le fait que le lit ne leur sert plus seulement a dormir. Phase d'ajustement post-Heiter : Fern apprend le rythme du voyage a trois | canon (ville cotiere hivernale) + divergence RP (callback, relation Schein/Frieren) |
 | An ~92 | Qual libere et tue (foret de Groesse) | Le sceau de Frieren (pose An ~3) arrive en fin de vie apres ~89 ans — Frieren le savait, c'est son sort. Descellement volontaire. Qual se reveille, salue Frieren. Voit Schein — son ancien disciple, le Traitre, voyageant avec des humains. Apprend la mort du Roi. Schein lui propose une alternative : vivre comme lui, renoncer aux massacres, se contenter de proies non intelligentes. Qual refuse. Schein se retire : « tu mourras honorablement face a la femme que j'aime et la disciple qu'elle forme ». Combat Frieren + Fern : Fern bloque Zoltraak (devenu magie ordinaire apres 80+ ans de retro-ingenierie humaine), Frieren tue Qual avec son propre sort. Canon preserve | canon + divergence RP |
+| An ~92 | Passage par Bredt (Eisen) | Eisen, tres age. Refuse de voyager — lucide sur son declin. Oriente le groupe vers Stark, son apprenti, installe dans un village du Canyon de Riegel. Schein et Eisen se retrouvent — le nain qui couvrait son flanc gauche est en fin de vie. Notes de Flamme : Eisen mentionne un grimoire protege cache dans les ruines du Bassin Voll, contenant le recit de la visite de Flamme a Aureole. Solidifie la destination du groupe | canon + divergence RP |
+| An ~92 | Einsam (region de Wille) | Le groupe traverse une foret embrumee. L'Einsam — monstre mimetique qui prend la forme de l'etre qui manque le plus a ses proies — isole chaque membre dans la brume. Fern voit Heiter age. Frieren s'attend a voir Flamme, mais c'est Himmel qui apparait — elle realise qu'elle a change. Le fantome d'Himmel lui sourit et lui dit de tirer, exactement ce que le vrai Himmel aurait dit. Frieren lance un Zoltraak, dissipe la brume. Fern detruit l'Einsam immediatement — net, propre, sans bavure. Schein est fige depuis le debut. L'Einsam est sa proie ideale : un etre tres sensible qui porte une tres longue peine. Sous la brume, Serie lui est apparue — pas une morte, mais la perte qui le devore. 832 ans de silence, l'amour qu'il a abandonne, la culpabilite, l'indecision. Les filles le retrouvent a genoux, tete baissee, en sanglots silencieux, a bout de souffle. Frieren ne voit pas le fantome de Serie (deja dissipe). Le soir, confidence sur l'oreiller : Schein admet qu'il les aime toutes les deux, mais differemment | canon (Einsam, Fern/Frieren) + divergence RP (Schein, Serie, confidence) |
 | An ~93 | Stark recrute (Canyon de Riegel) | Frieren, Schein et Fern arrivent au canyon pour un grimoire dans le nid du Dragon Solaire. Echouent d'abord. Village de Stark — installe depuis ~3 ans, protecteur paralyse par la peur du dragon. Schein ne touche pas au dragon : il laisse sa proie a Stark, comme Eisen plantait sa hache pour signaler un duel. Il teste celui qui va proteger Fern. Stark s'entraine la nuit (fend une falaise), accepte le combat, tue le dragon d'un seul coup. Rejoint le groupe. Retrouve en Schein le demon dont Eisen lui a parle pendant des annees — « il fait confiance a Eisen, c'est le seul pont » | canon + divergence RP |
+| An ~93 | Waal — cite fortifiee | Le groupe passe par la cite fortifiee de Waal, pres des Canyons de Bakur. Lockdown de deux ans a cause d'une recrudescence de monstres. Le groupe obtient l'autorisation speciale de traverser vers les Terres du Nord. Nettoyage de l'eboulement sur la Grande Route d'Eng. Festival de Liberation dans la ville voisine, en l'honneur des exploits du Groupe des Heros | canon + divergence RP (details en roadmap) |
 | An ~94 | Aura tuee (Graf Granat) | Le groupe arrive a Graf Granat. Aura la Guillotine assiege la ville avec son armee de morts-vivants. Schein reste en ville — il ne fait pas l'honneur a cette Sage de se deplacer. Trop jeune, aucun grief personnel, juste sa letalite. Il observe Fern et Stark combattre les demons subalternes, teste ses « disciples ». Frieren affronte Aura seule, retourne les Ecailles d'Obeissance (mana de Frieren ecrase celui d'Aura). Aura forcee de se decapiter. Ironie : Aura avait peur de Schein — elle aurait du avoir peur de l'elfe. Le groupe retrouve la statue du passage precedent (An ~5), cinquieme silhouette a capuche | canon + divergence RP |
-| An ~94-97 | Remontee vers Aeusserst | [A COMPLETER — meme route que la quete de Himmel : etapes entre Graf Granat et Aeusserst. Cf. Roadmap/Roadmap_Himmel_03 etapes 19-24. Inclut potentiellement : rencontres canoniques sur la route (Kraft, Einsam, Sein?), lieux revisites, evenements a definir. Le groupe est desormais a quatre : Frieren, Schein, Fern, Stark] |
-| An ~97 | Aeusserst — examen de mage de premiere classe | [A COMPLETER — point de bifurcation majeur : Schein reste avec Frieren (canon) ou retourne avec Serie (OC). Retrouvailles Serie/Schein. Tchekhov du triangle amoureux] |
+| An ~94 | Kraft — six mois d'hiver | Le groupe rencontre Kraft, moine elfe (~1 700+ ans), aux frontieres du domaine de Granat. Tempete hivernale, six mois bloques ensemble. Dans le canon, Kraft discute longevite et foi avec Frieren — deux elfes confrontes a la meme crise existentielle. Dans le RP, Schein devient l'interlocuteur theologique principal. Kraft a choisi la foi pour donner un sens a son eternite. Schein est ne avec la magie de la Deesse sans la comprendre — il s'interesse a la foi pour se comprendre lui-meme. Miroir inverse : le croyant par choix face au porteur de grace par nature. Six mois de debats, Schein seul capable de bouger dans le froid (habitue a Ende). Frieren, Fern et Stark confines | canon (Kraft, duree, lieu) + divergence RP (Schein interlocuteur principal) |
+| An ~94-95 | Sein recrute | Sein, pretre humain. Boit, fume, joue, drague les femmes mures — « pretre corrompu ». Guerisseur et exorciste extremement competent. Cherche son ami Gorilla Warrior, parti une decennie plus tot. Frieren le sauve d'un marecage, son frere le pousse a partir. Rejoint le groupe. Dynamique modifiee par rapport au canon : Frieren est en couple, sexuellement active, avec l'aura d'une femme de 1 300 ans dans un corps d'apparence jeune — le decalage entre apparence et maturite entre dans le radar de Sein, attire par les femmes mures | canon + divergence RP (dynamique Sein/Frieren modifiee, details en roadmap) |
+| An ~95 | Anniversaire de Fern | Stark oublie l'anniversaire de Fern. Sein le conseille. Stark offre un bracelet a motif de lotus en miroir — symbole d'amour eternel — sans le savoir. Sein identifie le motif a voix haute. Stark gene. Schein percute : il a offert la bague de lotus a Frieren a Aeusserst (An ~7, Himmel lui avait montre sans en reveler le sens) sans savoir ce qu'il donnait. Le declic se fait — il comprend enfin la portee de son geste. Detail : Schein ne rate jamais un anniversaire. Ses cadeaux sont utiles, voues a servir : une paire de bottes, une echarpe d'hiver, des lanieres de rechange pour le manche de la hache de Stark. Un etre qui n'a jamais rien possede montre l'amour par l'utile. La seule fois ou il offre quelque chose de symbolique, c'est par accident | canon (bracelet, Sein, Stark) + divergence RP (bague de lotus, cadeaux de Schein) |
+| An ~95-96 | Malediction du sommeil | Le groupe affronte une malediction de sommeil dans un village, puis accepte une mission d'un noble local | canon + divergence RP (details en roadmap) |
+| An ~95-96 | Vorig — Lord Orden | Cite fortifiee a mi-chemin entre Granat et Aeusserst. Le fils aine de Lord Orden (Wirt) a ete tue par des demons. Orden inspecte Stark et le recrute pour un service | canon + divergence RP (details en roadmap) |
+| An ~96 | Depart de Sein | Sein apprend que Gorilla Warrior se dirige vers une autre direction. Il quitte le groupe pour le rejoindre | canon + divergence RP (details en roadmap) |
+| An ~96 | Fievre de Fern (montagnes d'Offen) | Fern tombe malade. Frieren et Stark cherchent les herbes necessaires d'apres les notes de Sein | canon + divergence RP (details en roadmap) |
+| An ~97 | Arrivee a Aeusserst | Le groupe arrive dans la cite de la magie. Frieren et Fern se preparent a l'examen de mage de premiere classe (requis pour traverser le Plateau Nord). Retrouvailles Serie/Schein — premiere rencontre en 832 ans (rupture ~740 av. An 0). Point de bifurcation majeur : le triangle Frieren/Schein/Serie se cristallise. L'examen, les retrouvailles et leurs consequences relevent de l'Ere 5 | canon (examen, cite) + divergence RP (retrouvailles Serie/Schein, triangle) |
 
 ## Tchekhov touches durant l'ere
 
-- Empathie de Schein — mort de Himmel (comprendre et perdre quand meme), Heiter (complicite silencieuse, cave, theologie), Qual (offrir une alternative, refusee), Stark (laisser sa proie, test de guerrier), Aura (mepris — ne pas se deplacer)
-- Peur d'aimer — mort de Himmel (la douleur de l'attachement), vingt ans de hutte (bulle), Heiter (pousser Frieren vers ses amis), Fern (s'attacher a une humaine mortelle, encore)
-- Magie de lumiere — travail theologique avec Heiter (~3% vs nature divine), Qual (variante blanche face au createur du Zoltraak)
+- Empathie de Schein — mort de Himmel (comprendre et perdre quand meme), Heiter (complicite silencieuse, cave, theologie), Einsam (prostration, sanglots — l'etre le plus sensible est la proie ideale), Qual (offrir une alternative, refusee), Stark (laisser sa proie, test de guerrier), Aura (mepris — ne pas se deplacer), Kraft (debats theologiques, foi comme miroir de soi), Sein (anniversaires, cadeaux utiles)
+- Peur d'aimer — mort de Himmel (la douleur de l'attachement), vingt ans de hutte (bulle), Heiter (pousser Frieren vers ses amis), Fern (s'attacher a une humaine mortelle, encore), Einsam (Serie sous la brume — 832 ans de culpabilite, aveu sur l'oreiller : il les aime toutes les deux), Aeusserst (retrouvailles Serie, le triangle explose)
+- Magie de lumiere — travail theologique avec Heiter (~3% vs nature divine), Qual (variante blanche face au createur du Zoltraak), Kraft (la grace portee vs la grace choisie)
+- Bague de lotus — anniversaire de Fern : Sein identifie le lotus sur le bracelet de Stark, Schein percute ce qu'il a offert a Frieren sans le savoir
 - Journal de Himmel — Himmel mort, le journal existe quelque part. Localisation inconnue
 - Corne de Dragon des Ombres — recuperee chez Himmel (An 65), alchimie pour Schein
 
 ## Notes
 
 - Les dates de l'Ere Mythique et de l'Ere du Roi sont inchangees. Le recalibrage ne concerne que le bloc post-Himmel (An 65+).
-- Les dates estimees pour les etapes entre Granat et Aeusserst (An ~94-97) sont provisoires et seront affinees lors de la construction de cette section.
-- L'Ere 4 s'arrete aux portes d'Aeusserst. L'examen et la suite (Weise, Aureole) relevent des Eres 5a/5b.
+- Les dates estimees pour les etapes entre Granat et Aeusserst (An ~94-97) sont provisoires et seront affinees lors de la construction des roadmaps.
+- L'Ere 4 se termine a l'arrivee a Aeusserst. Le choix de Schein (Frieren ou Serie, demon libre ou roi) et ses consequences relevent des Eres 5a/5b.
+- Correction W2 : reordonnancement de la sequence post-Heiter (Granz avant Qual, Bredt apres Qual — alignement geographique avec la Roadmap Himmel 02). Ajout de Granz, Einsam, Waal, Kraft, Sein, anniversaire de Fern, malediction du sommeil, Vorig, depart de Sein, fievre de Fern, arrivee a Aeusserst.
 
 ---
 
