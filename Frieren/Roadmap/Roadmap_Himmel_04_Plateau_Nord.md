@@ -4,9 +4,9 @@
 - dossier : Roadmap
 - segment : Plateau Nord et assaut final
 - periode : An ~7-10
-- sources : BIBLE_LORE B5, CODEX V5, canon anime S1-S2, decisions joueur OOC
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B5
+- sources : BIBLE_LORE B11, canon anime S1-S2, decisions joueur OOC
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B11
 
 ---
 
@@ -15,7 +15,7 @@
 - **Lieu** : Territoire de Graf Dach — domaine feodal du Plateau Nord.
 - **Type** : domaine noble depuis peu. territoire commercial/militaire.
 - **Periode estimee** : An ~7-8.
-- **Statut** : canon (le Hero Party recoit la demande du seigneur Norm de recuperer son epee. Le groupe recupere l'epee volée de Graf Dach par un demon, puis le Hero Party recoit un pret de Lord Norm).
+- **Statut** : canon (le Hero Party recoit la demande du seigneur Norm de recuperer son epee. Le groupe recupere l'epee volee de Graf Dach par un demon, puis le Hero Party recoit un pret de Lord Norm).
 - **Evenements** :
   - Le groupe arrive au territoire de la Compagnie Norm sur le Plateau Nord.
   - Un demon a vole l'epee hereditaire de Graf Dach. Lord Norm les engage.
@@ -24,7 +24,7 @@
 - **Personnages impliques** : Lord Norm, Himmel, Schein, groupe.
 - **Role de Schein** : revelation lore. Schein partage une verite sur les demons depuis l'interieur — la fierte (mana = dignite, cf. BIBLE §B1) est la seule faille emotionnelle des demons. Ce n'est pas de l'empathie — c'est de l'orgueil, le seul sentiment que l'espece possede naturellement. Information precieuse pour des humains qui combattent des demons.
 - **Tchekhov** : —
-- **Notes** : Canon confirme : Lord Norm a soutenu le Hero Party par un pret. Ce pret genere une dette que Frieren rembourse ~30 ans apres la mort de Himmel (ère Fern, canon S2). Fiche Norm a creer. Le Norm actuel (ere Fern) est le petit-fils du fondateur.
+- **Notes** : Canon confirme : Lord Norm a soutenu le Hero Party par un pret. Ce pret genere une dette que Frieren rembourse ~15 ans apres la mort de Himmel (ere Fern, canon S2). Fiche Norm a creer. Le Norm actuel (ere Fern) est le petit-fils du fondateur.
 
 ---
 
@@ -59,7 +59,7 @@
 - **Role de Schein** : temoin d'un acte de foi dans le futur. Himmel investit dans quelque chose qu'il ne verra jamais. Pour un demon millenaire, c'est un acte incomprehensible et profondement humain. Miroir : Schein a passe un millenaire a survivre, Himmel depense ses dernieres ressources pour ceux qui viendront apres lui.
 - **Tchekhov** :
   - Empathie de Schein — comprehension d'une vertu humaine que les demons ne peuvent pas concevoir : l'altruisme a long terme.
-- **Notes** : Canon integral. Le pont sera termine 200 ans plus tard. Frieren y retourne avec Fern et Stark ~30 ans apres la mort de Himmel — Gehen a termine le pont, les gens sont venus l'aider, un village s'est reconstruit. Himmel avait raison. Fiche Gehen a creer.
+- **Notes** : Canon integral. Le pont sera termine 200 ans plus tard. Frieren y retourne avec Fern et Stark ~15 ans apres la mort de Himmel — Gehen a a peine commence, les gens sont venus l'aider, un village commence a se reconstruire. Himmel avait raison. Fiche Gehen a creer.
 
 ---
 
@@ -84,7 +84,7 @@
 
 - **Lieu** : Monument de la Deesse — lieu sacre, Plateau Nord.
 - **Type** : site sacre / champ de bataille.
-- **Periode estimee** : An ~7 (note : placement chronologique — cet evenement peut se situer avant les etapes 28-30 sur le plan temporel, le numerotage suit l'ordre geographique du tracé).
+- **Periode estimee** : An ~7 (note : placement chronologique — cet evenement peut se situer avant les etapes 28-30 sur le plan temporel, le numerotage suit l'ordre geographique du trace).
 - **Statut** : canon (arc du Monument). Divergence (role de Schein, Solitaer epargnee).
 - **Evenements** :
   - Le Roi des Demons detecte une interference spatio-temporelle au Monument de la Deesse.
@@ -99,11 +99,11 @@
   - Grausam a recupere des bribes de souvenirs de Frieren-du-futur : moments de douceur avec Flamme et avec Schein.
   - Frieren retourne dans le present via le Monument.
 - **Personnages impliques** : Frieren (presente + future), Himmel, Heiter, Eisen, Schein, Solitaer, Grausam, Rivale, Zart.
-- **Role de Schein** : deux roles distincts. Combattant pendant l'embuscade. Negociateur apres — il epargne Solitaer, acte de misericorde envers un demon, en contradiction avec son statut de chasseur de demons. Ce geste est coherent avec son empathie mais cree une tension : Solitaer survivra et affrontera Frieren a Weise (~An 88), ou Fern la tuera.
+- **Role de Schein** : deux roles distincts. Combattant pendant l'embuscade. Negociateur apres — il epargne Solitaer, acte de misericorde envers un demon, en contradiction avec son statut de chasseur de demons. Ce geste est coherent avec son empathie mais cree une tension : Solitaer survivra et affrontera Frieren a Weise (~An 81), ou Fern la tuera.
 - **Tchekhov** :
   - Empathie de Schein — epargner un demon par gratitude, malgre le danger futur.
   - Magie de lumiere dans un demon — Frieren-du-futur possede des souvenirs de Schein, recuperes partiellement par Grausam.
-- **Notes** : Arc du Monument canon preserve avec ajout divergent (Schein present, Solitaer epargnee). La clemence de Schein envers Solitaer a des consequences : Solitaer brise la barriere de Weise ~An 88, menant a la mort de Macht. Fiche Solitaer : « si Schein et Solitaer s'etaient croises, la dynamique aurait ete complexe » — ici, ils se croisent. A mettre a jour.
+- **Notes** : Arc du Monument canon preserve avec ajout divergent (Schein present, Solitaer epargnee). La clemence de Schein envers Solitaer a des consequences : Solitaer brise la barriere de Weise ~An 81, menant a la mort de Macht. Fiche Solitaer : rapport mis a jour (epargnee par Schein, dette passee).
 
 ---
 
@@ -121,7 +121,7 @@
 - **Personnages impliques** : Grausam, Schein, Himmel, Frieren, Eisen, Heiter.
 - **Role de Schein** : meme retrait que face a Qual (etape 7). Mais la reaction du mourant est differente. Qual aurait qualifie cette retenue de faiblesse. Grausam remercie. La gratitude d'un demon mimetique est-elle reelle ? Schein ne le saura jamais. Cf. Personnages/Grausam.
 - **Tchekhov** :
-  - Empathie de Schein — respect d'un lien passe, meme ambigü, meme potentiellement illusoire.
+  - Empathie de Schein — respect d'un lien passe, meme ambigu, meme potentiellement illusoire.
 - **Notes** : Troisieme retrait de Schein face a un demon personnel (Qual, Boese en duel, Grausam en retrait). Pattern narratif : Schein ne peut pas tuer ceux qui l'ont forme, meme quand il le devrait.
 
 ---
@@ -138,7 +138,7 @@
 - **Personnages impliques** : groupe, demons (non nommes).
 - **Role de Schein** : en premiere ligne. Un demon qui tue des demons pour atteindre son pere. L'ironie atteint son paroxysme.
 - **Tchekhov** : —
-- **Notes** : Etape de montée en tension avant le climax. A detailler lors du RP.
+- **Notes** : Etape de montee en tension avant le climax. A detailler lors du RP.
 
 ---
 
@@ -162,7 +162,7 @@
   - « Merci, pere. » — dernier usage ? Silence ? Changement de formule ? Le marqueur de la relation Schein/Roi trouve ici sa resolution ou sa transformation.
   - Empathie de Schein — il tue par necessite, avec tout le poids emotionnel d'un fils face a un pere-bourreau.
   - Bague de lotus — Schein combat avec la bague au doigt, offerte a Frieren mais symboliquement presente.
-- **Notes** : Moment climactique du RP pour l'ere Himmel. Le detail du combat (tactique, deroulement, dernieres paroles) sera joue en narration, pas pre-ecrit ici. La roadmap pose le cadre, pas la scene. Cf. Personnages/Roi_Des_Demons, BIBLE §B3, CODEX Roadmap « Ere Himmel ».
+- **Notes** : Moment climactique du RP pour l'ere Himmel. Le detail du combat (tactique, deroulement, dernieres paroles) sera joue en narration, pas pre-ecrit ici. La roadmap pose le cadre, pas la scene. Cf. Personnages/Roi_Des_Demons, BIBLE §B3.
 
 ---
 

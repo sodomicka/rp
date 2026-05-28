@@ -3,10 +3,10 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Roadmap
 - segment : Traversee des Terres Centrales
-- periode : An ~1-3
-- sources : BIBLE_LORE B5, CODEX V5, canon anime S1-S2, decisions joueur OOC
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B5
+- periode : An ~1-5
+- sources : BIBLE_LORE B11, canon anime S1-S2, decisions joueur OOC
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B11
 
 ---
 
@@ -57,7 +57,7 @@
 - **Statut** : canon (scellement de Qual ~An 3). Divergence (role de Schein).
 - **Evenements** :
   - Le Groupe des Heros localise Qual, le Sage Ancien de la Corruption, createur du Zoltraak.
-  - Combat et scellement de Qual. Qual est scelle, pas tue (il sera libere et tue ~An 87 par Frieren).
+  - Combat et scellement de Qual. Qual est scelle, pas tue (il sera libere et tue ~An 77 par Frieren et Fern).
   - Schein ne combat pas. Par respect pour l'un de ses mentors. Meme reflexe que plus tard face a Grausam.
 - **Personnages impliques** : Qual, Frieren, Himmel, Eisen, Heiter, Schein.
 - **Role de Schein** : retrait delibere. Qual lui a enseigne le Zoltraak — Schein a produit la variante blanche, plus rapide que Qual a le lancer. Combattre son mentor serait une trahison de la dette. Ce retrait revele la hierarchie de valeurs de Schein : la loyaute envers ceux qui l'ont aide prime sur l'efficacite tactique. Cf. Personnages/Qual.
@@ -97,7 +97,7 @@
 - **Personnages impliques** : Eisen, groupe.
 - **Role de Schein** : temoin. La declaration d'Eisen est un rappel de la mortalite — le nain pense deja a sa retraite. Schein, qui vivra des millenaires, entend un compagnon planifier la fin.
 - **Tchekhov** : —
-- **Notes** : Foreshadowing de la fin de vie d'Eisen (BIBLE §B5 : ~310 ans a la mort de Himmel, en fin de vie). Thematique de la longevite. Cf. Personnages/Eisen.
+- **Notes** : Foreshadowing de la fin de vie d'Eisen (BIBLE §B5 : ~315 ans a la mort de Himmel An 65, en fin de vie). Thematique de la longevite. Cf. Personnages/Eisen.
 
 ---
 
@@ -142,7 +142,7 @@
   - Le Groupe des Heros arrive pres du domaine de Graf Granat.
   - Escarmouche avec Aura la Guillotine et son armee de morts-vivants.
   - Himmel blesse Aura. Elle fuit et se cache.
-  - Aura ne reapparaitra qu'apres la mort de Himmel (~An 88, arc canon Frieren/Fern).
+  - Aura ne reapparaitra qu'apres la mort de Himmel (~An 78, arc canon Frieren/Fern).
 - **Personnages impliques** : Himmel, Frieren, Schein, Eisen, Heiter, Aura.
 - **Role de Schein** : BIBLE §B5 Aura : « peur de Schein, humiliee par sa passivite lors du combat contre Frieren ». Schein ne s'implique pas activement dans le combat contre Aura — c'est Himmel et Frieren qui portent le coup. La passivite de Schein est une humiliation supplementaire pour Aura (un demon qui ne daigne meme pas la combattre). Cf. Personnages/Aura.
 - **Tchekhov** : —

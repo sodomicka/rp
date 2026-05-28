@@ -4,9 +4,9 @@
 - dossier : Roadmap
 - segment : Traversee des Terres du Nord
 - periode : An ~5-7
-- sources : BIBLE_LORE B5, CODEX V5, canon anime S1-S2, decisions joueur OOC
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B5
+- sources : BIBLE_LORE B11, canon anime S1-S2, decisions joueur OOC
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B11
 
 ---
 
@@ -109,7 +109,7 @@
 
 - **Lieu** : Offen — village en region enneigee, territoire de Boese.
 - **Type** : village / territoire d'un Sage de la Destruction.
-- **Periode estimee** : An ~6 (avant An 7 — condition de mort de Boese).
+- **Periode estimee** : An ~6.
 - **Statut** : divergence (duel de Schein). Canon (mort de Boese par le Groupe des Heros, attribution publique a Himmel).
 - **Evenements** :
   - Le groupe entre dans le secteur de Boese l'Immortel, Sage de la Destruction.
@@ -209,7 +209,7 @@
   - Peur d'aimer de Schein — confrontee directement. Il ne la surmonte pas — il est deborde.
   - Journal de Himmel — Himmel consigne cet episode. Preuve future.
   - Empathie de Schein — les trois compagnons mortels agissent par affection sincere envers Schein et Frieren.
-- **Notes** : BIBLE §B6 confirme : « Passage du Groupe des Heros pendant la quete (revelation amoureuse Schein/Frieren). Retrouvailles Serie/Schein An ~91 (Tchekhov). » La revelation amoureuse a lieu pendant la quete, les retrouvailles avec Serie 80 ans plus tard. Cf. Personnages/Himmel (charmeur taquin, bague de lotus), Personnages/Eisen (matchmaking), Personnages/Heiter (matchmaking).
+- **Notes** : BIBLE §B6 confirme : « Passage du Groupe des Heros pendant la quete (revelation amoureuse Schein/Frieren). Retrouvailles Serie/Schein An ~81 (Tchekhov). » La revelation amoureuse a lieu pendant la quete, les retrouvailles avec Serie ~74 ans plus tard. Cf. Personnages/Himmel (charmeur taquin, bague de lotus), Personnages/Eisen (matchmaking), Personnages/Heiter (matchmaking).
 
 ---
 
