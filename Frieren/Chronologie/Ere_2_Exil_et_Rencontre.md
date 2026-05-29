@@ -26,7 +26,7 @@
 | ~590-510 | Chasse en commun | ~80 ans de guerilla contre les demons. Constat : tuer des demons mineurs ne change rien | DIVERGENCE RP |
 | ~510 | Installation dans la hutte | foret des Terres Centrales. Frieren herboriste et sorciere des villages alentour. Schein gere les demons seul pour epargner les voisins | DIVERGENCE RP |
 | ~510-10 | Cinq siecles de hutte | Frieren ne combat plus de demons. Schein fait le menage seul. Attente d'une opportunite | DIVERGENCE RP |
-| ~51 | Visite du Heros du Sud | arrive dans la hutte. Vision du futur parfaite — pas de surprise face a Schein. Demande a Frieren de le rejoindre. Elle refuse | canon + DIVERGENCE RP |
+| ~51 | Visite du Heros du Sud | arrive dans la hutte. Vision du futur parfaite - pas de surprise face a Schein. Demande a Frieren de le rejoindre. Elle refuse | canon + DIVERGENCE RP |
 | ~50 | Mort du Heros du Sud | tue Schlacht + 3 Sages dans un 8v1. Tombe. Signal : le chemin se degage | canon |
 
 ---
