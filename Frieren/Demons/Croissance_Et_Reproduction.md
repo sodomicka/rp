@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Demons
 - sources : ENCYCLO_DEMONS Sections 3 + 4
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN (a lier au build)
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B13
 
 ## Modele de vieillissement a plateau
 
@@ -19,12 +19,12 @@ Le plateau explique pourquoi les elfes et demons puissants paraissent tous jeune
 
 ## Ages de reference derives
 
-- Schein au point de depart du RP (<100 ans) : ~10-11 ans apparents.
+- Schein au point de depart du RP (~100 ans) : ~14-15 ans apparents.
 - Frieren au massacre de son village / rencontre Flamme (~300 ans) : ~15 ans apparents.
 - Solitaer au present du canon (~2 400 ans) : ~20 ans apparents.
 - Macht au present du canon (~2 300 ans) : ~19-20 ans apparents.
 - Serie au present du canon (~3 500 ans) : ~22 ans apparents.
-- Roi des Demons a sa rencontre avec Schein (~3 700 ans) : ~22-23 ans apparents.
+- Roi des Demons a sa rencontre avec Schein (~4 200 ans) : ~23 ans apparents.
 - Roi des Demons a l'exil de Schein (~4 700 ans) : ~24 ans apparents.
 - Roi des Demons a sa mort (~5 700 ans) : ~32 ans apparents.
 - Qual : age inconnu, titre de « sage ancien » (kenro) et apparence monstrueuse suggerent 5 000+ ans. Variation individuelle, pas seulement vieillissement.
@@ -45,7 +45,7 @@ Le plateau explique pourquoi les elfes et demons puissants paraissent tous jeune
 
 ## Hybridation
 
-Hybridation demon-elfe : biologiquement possible. Inconnue de tous — demons comme elfes. [DIVERGENCE RP — Tchekhov pour Schein/Frieren]
+Hybridation demon-elfe : biologiquement possible. Inconnue de tous — demons comme elfes. [DIVERGENCE RP — Tchekhov pour Schein/Frieren et Schein/Serie]
 
 ---
 
