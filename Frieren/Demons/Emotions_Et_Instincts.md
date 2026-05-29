@@ -10,7 +10,7 @@
 
 - Rage.
 - Peur (instinct de survie).
-- Orgueil (moteur de la hierarchie, cause de mort frequente — cf. Aura).
+- Orgueil (moteur de la hierarchie, cause de mort frequente - cf. Aura).
 - Instinct de tuer / faim non-physique : pulsion soulagee par le meurtre d'humains, pas par la consommation de chair animale. Manger est secondaire au meurtre.
 
 ## Emotions absentes
@@ -36,7 +36,7 @@ L'utilisation intensive de sa magie lumineuse provoque un retour de flamme insti
 - Soin majeur ou sort offensif a pleine puissance = etat bestial de surprotection violente, territorial, dirige vers quiconque approche, y compris la personne soignee.
 - Duree proportionnelle a l'effort.
 
-Ce cout mecanique limite volontairement l'utilisation de sa pleine puissance — il se bat en dessous de son niveau pour proteger ses allies de lui-meme.
+Ce cout mecanique limite volontairement l'utilisation de sa pleine puissance - il se bat en dessous de son niveau pour proteger ses allies de lui-meme.
 
 ---
 

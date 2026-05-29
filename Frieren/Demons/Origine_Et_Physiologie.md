@@ -8,7 +8,7 @@
 
 ## Origine de l'espece
 
-Les demons descendent d'une espece de monstres innommes capables de crier a l'aide pour attirer leurs proies. Evolution progressive vers une forme humanoide pour mieux tromper. Flamme les a nommes « monstres articules ».
+Les demons descendent d'une espece de monstres innommes capables de crier a l'aide pour attirer leurs proies. Evolution progressive vers une forme humanoide pour mieux tromper. Flamme les a nommes " monstres articules ".
 
 Ils existent depuis l'Ere Mythique. Durant cette ere, leur super predation etait contenue par la Deesse de la Creation, qui les surpassait. Son ascension a un plan immateriel a libere les demons de leur seul contre-pouvoir. Cf. Theologie/Deesse_Verite_Et_Legende.
 
