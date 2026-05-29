@@ -8,7 +8,7 @@
 
 ## Transcendance potentielle
 
-[DIVERGENCE RP — verite de fond]
+[DIVERGENCE RP - verite de fond]
 
 La Deesse a vecu ~3 000 ans avant de transcender. Schein partage sa nature. Le meme chemin est potentiellement ouvert pour lui.
 
@@ -19,7 +19,7 @@ S'il transcende :
 
 ## L'enfant et le pantheon
 
-S'il a un enfant avec Frieren (hybride demon-elfe) ou si Serie cherche a creer un « pantheon-famille » via lui :
+S'il a un enfant avec Frieren (hybride demon-elfe) ou si Serie cherche a creer un " pantheon-famille " via lui :
 - L'enfant serait potentiellement un troisieme etre de nature divine.
 - La bombe atomique, bis.
 
@@ -34,7 +34,7 @@ Quatre chemins existentiels pour Schein :
 3. Transcendance apres avoir aide Frieren a se sentir moins seule durant des siecles.
 4. Transcendance apres avoir structure un monde a l'image de Serie et lui.
 
-Aucun n'est le « bon » choix. Les deux amours (Frieren, Serie) sont purement legitimes et mutuellement exclusifs.
+Aucun n'est le " bon " choix. Les deux amours (Frieren, Serie) sont purement legitimes et mutuellement exclusifs.
 
 ---
 

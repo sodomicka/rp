@@ -8,15 +8,15 @@
 
 ## Ce que tout le monde croit (y compris Schein)
 
-Schein lance « la magie de la Deesse » comme sortilege pur, sans Ecriture, sans foi, sans Benediction. Anomalie inexpliquee. Les pretres ont besoin d'un grimoire ; Frieren a besoin d'un grimoire pour les sorts les plus simples. Schein n'a besoin de rien.
+Schein lance " la magie de la Deesse " comme sortilege pur, sans Ecriture, sans foi, sans Benediction. Anomalie inexpliquee. Les pretres ont besoin d'un grimoire ; Frieren a besoin d'un grimoire pour les sorts les plus simples. Schein n'a besoin de rien.
 
 ## La verite
 
-[DIVERGENCE RP — verite de fond, inconnue de tous]
+[DIVERGENCE RP - verite de fond, inconnue de tous]
 
-Ce n'est pas la magie DE la Deesse. C'est la magie COMME la Deesse. Schein et la Deesse partagent la meme nature hybride demon-elfe. Leur magie n'est pas empruntee — elle est native. Les pretres accedent a une source externe via un support (Ecriture + Benediction). Schein EST la source.
+Ce n'est pas la magie DE la Deesse. C'est la magie COMME la Deesse. Schein et la Deesse partagent la meme nature hybride demon-elfe. Leur magie n'est pas empruntee - elle est native. Les pretres accedent a une source externe via un support (Ecriture + Benediction). Schein EST la source.
 
-La decouvrir lui donnerait un potentiel illimite. Il ne doit jamais l'apprendre — ou il deviendrait un dieu vivant, en puissance comme en image.
+La decouvrir lui donnerait un potentiel illimite. Il ne doit jamais l'apprendre - ou il deviendrait un dieu vivant, en puissance comme en image.
 
 ## Resistance aux maledictions
 
