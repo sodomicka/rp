@@ -1,4 +1,4 @@
-# Frieren — Rapport avec Schein
+# Frieren - Rapport avec Schein
 
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
@@ -10,7 +10,7 @@
 
 ## Massacre
 
-Frieren (~300 ans) affronte Schein dans les ruines de son village. Elle lui arrache la main. Il ne l'acheve pas. Premier contact — dans le sang.
+Frieren (~300 ans) affronte Schein dans les ruines de son village. Elle lui arrache la main. Il ne l'acheve pas. Premier contact - dans le sang.
 
 ## Reputation
 
@@ -30,11 +30,11 @@ Pendant les siecles suivants, Frieren entend parler du demon tueur de demons. Fl
 
 ## Ere Himmel
 
-Himmel recrute Frieren ~10 av. An 0. Schein accepte de se joindre. Frieren est deja acquise a Schein — 500 ans de hutte. Pendant la quete, Himmel comprend que le coeur de Frieren est pris — pas par lui, mais par Schein. Il passe le flambeau avec maturite et heroisme, et avec Heiter et Eisen, fait en sorte que les deux comprennent leurs sentiments. Schein et Frieren se mettent ensemble a Aeusserst pendant la quete.
+Himmel recrute Frieren ~10 av. An 0. Schein accepte de se joindre. Frieren est deja acquise a Schein - 500 ans de hutte. Pendant la quete, Himmel comprend que le coeur de Frieren est pris - pas par lui, mais par Schein. Il passe le flambeau avec maturite et heroisme, et avec Heiter et Eisen, fait en sorte que les deux comprennent leurs sentiments. Schein et Frieren se mettent ensemble a Aeusserst pendant la quete.
 
 ## Apres la victoire
 
-La mort de Himmel (An 50) frappe Frieren : elle pleure l'homme qui lui a donne ce qu'elle n'aurait jamais su prendre seule. La gratitude inexprimee remplace l'amour manque du canon. Meme lecon : « j'aurais du mieux comprendre les humains, a leur echelle. »
+La mort de Himmel (An 50) frappe Frieren : elle pleure l'homme qui lui a donne ce qu'elle n'aurait jamais su prendre seule. La gratitude inexprimee remplace l'amour manque du canon. Meme lecon : " j'aurais du mieux comprendre les humains, a leur echelle. "
 
 ## Aeusserst (An ~81)
 

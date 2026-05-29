@@ -25,11 +25,11 @@
 
 [DIVERGENCE RP]
 
-Le Heros du Sud visite la hutte ~51 av. An 0. Schein et Frieren vivent ensemble depuis ~460 ans a ce stade (compagnons, pas encore couple). Le Heros ne bronche pas en trouvant un demon — sa vision du futur lui a deja montre tout ce qu'il devait savoir. Pas de surprise, pas de peur. Calme.
+Le Heros du Sud visite la hutte ~51 av. An 0. Schein et Frieren vivent ensemble depuis ~460 ans a ce stade (compagnons, pas encore couple). Le Heros ne bronche pas en trouvant un demon - sa vision du futur lui a deja montre tout ce qu'il devait savoir. Pas de surprise, pas de peur. Calme.
 
 C'est peut-etre la premiere fois qu'un humain regarde Schein sans peur, sans calcul, sans fascination morbide. Juste de la reconnaissance.
 
-Sa promesse — « je tracerai le chemin » — s'adresse aux deux. Il sait qu'ils attendront dans la hutte que le chemin soit ouvert.
+Sa promesse - " je tracerai le chemin " - s'adresse aux deux. Il sait qu'ils attendront dans la hutte que le chemin soit ouvert.
 
 Sa mort (~50 av. An 0) est le signal : Schlacht mort, 3 Sages en moins, 4 restants. Le chemin vers le Roi est degage.
 
