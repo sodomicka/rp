@@ -3,7 +3,7 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : canon wiki (fandom, villains wiki), TV Tropes, decisions joueur OOC
-- version : W1
+- version : W2
 - bible rattachee : BIBLE_LORE_FRIEREN B2
 
 ## Identite
@@ -12,7 +12,7 @@
 - Espece : demon.
 - Age : indetermine. Ancien - assez pour avoir servi le Roi depuis l'unification de l'espece [INCERTAIN].
 - Apparence : capuchonne, cheveux clairs, paire de longues cornes montantes courbees vers l'interieur. Tenue de mage avec epaulieres.
-- Role : double casquette - membre des Sept Sages de la Destruction ET confident du Roi des Demons. Le seul etre que le Roi consulte. Relaie les ordres du Roi, coordonne les Sages.
+- Role : Conseiller du Roi des Demons - position unique au-dessus du Prince et des Sept Sages (cf. Demons/Hierarchie_Et_Territoire). N'est PAS un des Sept Sages. Le seul etre que le Roi consulte. Relaie les ordres du Roi, coordonne les Sages.
 - Personnalite : pose, maitre de lui. Interet inhabituel pour le maintien de relations avec les autres demons - atypique pour l'espece. Manipulateur strategique, pas par cruaute mais par calcul millenaire.
 - Mort : ~50 av. An 0. Mutuellement tue avec le Heros du Sud lors de la bataille contre les Sept Sages.
 
