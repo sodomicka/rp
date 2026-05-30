@@ -1,8 +1,6 @@
 # Sommaire - Frieren
 
-- univers : Sousou no Frieren (hybride)
 - version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B15
 
 ## WIKI
 
