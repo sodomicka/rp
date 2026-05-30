@@ -3,7 +3,7 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Demons
 - sources : ENCYCLO_DEMONS Sections 3 + 4
-- version : W2
+- version : W3
 - bible rattachee : BIBLE_LORE_FRIEREN B13
 
 ## Modele de vieillissement a plateau
@@ -19,7 +19,7 @@ Le plateau explique pourquoi les elfes et demons puissants paraissent tous jeune
 
 ## Ages de reference derives
 
-- Schein au point de depart du RP (~100 ans) : ~14-15 ans apparents.
+- Schein a l'adoption par le Roi (~100 ans) : ~14-15 ans apparents.
 - Frieren au massacre de son village / rencontre Flamme (~300 ans) : ~15 ans apparents.
 - Solitaer au present du canon (~2 400 ans) : ~20 ans apparents.
 - Macht au present du canon (~2 300 ans) : ~19-20 ans apparents.
