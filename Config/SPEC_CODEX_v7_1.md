@@ -314,10 +314,4 @@ Matrice d'information : qui sait quoi MAINTENANT dans le RP.
 ### Ironie dramatique active
 - <situation> : <ce que le joueur sait mais pas le PNJ X>
 
----
-
-## Journal de version
-- V1 — <AAAA-MM-JJ> — creation, plafond 35000 car.
-- V<N> — <AAAA-MM-JJ> — <motif>.
-
 FIN_CODEX_V<N>
