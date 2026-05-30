@@ -3,7 +3,7 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Theologie
 - sources : ENCYCLO_THEOLOGIE Section 1
-- version : W1
+- version : W2
 - bible rattachee : BIBLE_LORE_FRIEREN (a lier au build)
 
 ## Ce que le monde croit
@@ -24,6 +24,8 @@ Elle a vecu ~3 000 ans avant de transcender sa nature mortelle. Durant sa vie :
 - Elle a transcende - quittant le plan materiel pour un plan immateriel.
 
 Son ascension a libere les demons de leur seul garde-fou, leur permettant de devenir les super predateurs dominants du continent.
+
+Chronologie des Ecritures : creees durant l'Ere Mythique, avant le depart de la Deesse. Leur diffusion large et l'organisation de la foi par l'Eglise sont plus tardives - ~1 500 ans avant An 0.
 
 ## Pourquoi le secret a tenu
 
