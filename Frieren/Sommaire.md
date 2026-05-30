@@ -1,12 +1,12 @@
 # Sommaire - Frieren
 
-- version : W2
+- version : W3
 
 ## WIKI
 
 ### Theologie/
 Description : theologie - Deesse de la Creation (nature reelle), systemes magiques, Aureole, magie divine de Schein, chemins existentiels.
-- Deesse_Verite_Et_Legende.md - nature reelle de la Deesse (hybride demon-elfe), croyance publique, raisons du secret
+- Deesse_Verite_Et_Legende.md - nature reelle de la Deesse (hybride demon-elfe), croyance publique, raisons du secret, chronologie des Ecritures (creation Ere Mythique / diffusion ~1 500 av.)
 - Systemes_Magiques.md - magie humaine, magie de la Deesse, magie demoniaque/maledictions, lien structurel Deesse-maledictions
 - Aureole.md - nature (frontiere entre plans), localisation (Ende), faits canon, role RP, tableau croyants/sceptiques
 - Schein_Magie_Divine.md - perception vs verite (magie COMME la Deesse, pas DE), resistance maledictions, suppression de mana
