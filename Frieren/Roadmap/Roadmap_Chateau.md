@@ -5,7 +5,7 @@
 - segment : Ere du Chateau
 - periode : ~1 490 a ~990 av. An 0 (~500 ans)
 - sources : BIBLE_LORE B7, Personnages/Roi_Des_Demons, Personnages/Schlacht, Personnages/Grausam, Personnages/Qual, Personnages/Boese, Personnages/Macht, Personnages/Solitaer, Personnages/Basalt_Porphyr_Gabbro, Demons/Societe_Et_Plan_Du_Roi, Demons/Hierarchie_Et_Territoire, Demons/Emotions_Et_Instincts, Chronologie/Ere_1_Roi_des_Demons, decisions joueur OOC
-- version : W1
+- version : W2
 - bible rattachee : BIBLE_LORE_FRIEREN B7
 
 ## Synthese
@@ -151,7 +151,7 @@
 
 ---
 
-## Bloc 3 - Apogee du prince (~1 300-1 100 av. An 0)
+## Bloc 3 - Apogee du prince (~1 300-991 av. An 0)
 
 ### Etape 3.1 - Demons mineurs executes au chateau
 
@@ -184,7 +184,7 @@
 - **Tchekhov** :
  - Contrecoup bestial - premiere detonation majeure. Schein comprend qu'il doit se limiter pour ne pas tuer ses propres allies.
 
-### Etape 3.3 - Tortures observees par les Sages
+### Etape 3.3 - Tortures observees par l'elite du Royaume
 
 - **Lieu** : Palais d'Ende.
 - **Type** : scenes de caractere, exploration des PNJ.
@@ -226,13 +226,13 @@
 
 ---
 
-## Bloc 4 - Cellule (~1 100-1 099 av. An 0, 1 an)
+## Bloc 4 - Cellule (~991-990 av. An 0, 1 an)
 
 ### Etape 4.1 - Les 365 tortures
 
 - **Lieu** : Palais d'Ende - cellule.
 - **Type** : scene de brisure, pacing tres lent (snapshots sur 1 an).
-- **Periode estimee** : 1 an. Date exacte indeterminee.
+- **Periode estimee** : ~991-990 av. An 0, 1 an. Jour 364 = ~990 av. (cf. BIBLE SB8).
 - **Statut** : divergence RP.
 - **Evenements** :
  - Un an de cellule. 365 tortures physiques uniques - une par jour, jamais la meme.
@@ -240,8 +240,6 @@
  - Les yeux dores de Schein ternissent en gris au fil des mois. La lumiere s'eteint.
  - Basalt assiste a certaines seances et s'en delecte. Porphyr et Gabbro sont absents.
  - Le 364e jour, Schein dit " Merci, pere. " pour la derniere fois. Le 365e - la journee de terreur pure - il ne le dit pas. Il ne le dira plus jamais avant la mort du Roi, mille ans plus tard.
- - Les yeux dores de Schein ternissent en gris au fil des mois. La lumiere s'eteint.
- - Basalt assiste a certaines seances et s'en delecte. Porphyr et Gabbro sont absents.
 - **Personnages impliques** : Schein, Roi des Demons, Basalt (observateur occasionnel).
 - **Role de Schein** : il se brise. Pas completement - une fine braise reste. Mais les yeux gris sont la preuve visible.
 - **Tchekhov** :
@@ -275,16 +273,15 @@
 - **Statut** : divergence RP (details), canon pour le massacre et la rencontre Frieren.
 - **Evenements** :
  - Le Roi ordonne le massacre du village elfe. Le genocide des elfes est un protocole en cours - seule espece rivale en longevite et savoir magique.
- - Basalt mene l'assaut avec l'escouade. 230 victimes.
- - Basalt meurt au combat, tue par Frieren (~300 ans, ~15 apparents).
- - Schein arrive sur les lieux. Il trouve son lieutenant mort et une enfant elfe survivante - la derniere.
- - Face a Frieren, la fine braise d'humanite qui restait en Schein apres la cellule trouve un visage.
- - Main gauche de Schein detruite par Frieren. Reveil de l'empathie - ce qui etait eteint se rallume.
+ - L'escouade se partage le village sous le commandement de Schein : les quatre demons (Schein, Basalt, Porphyr, Gabbro) se chargent chacun d'une portion. Schein massacre la sienne - vide, brise par un an de cellule et creuse par la semaine de confort. 230 victimes au total.
+ - Frieren (~300 ans, ~15 apparents) abat Basalt. La perturbation de mana de sa chute attire Schein vers cette partie du village.
+ - Frieren se defend et detruit la main gauche de Schein.
+ - C'est la peur de mourir de l'enfant elfe - la preuve qu'une proie a des sentiments - qui fait remonter ceux de Schein. L'empathie enfouie se rallume : pas une braise qui a tenu seule, une braise que Frieren ranime.
 - **Personnages impliques** : Schein, Basalt (mort), Porphyr, Gabbro, Frieren (~300 ans), elfes (massacres).
-- **Role de Schein** : le pivot. Tout ce qui precede menait a ce moment. La brisure n'a pas fonctionne - la braise survit. Schein refuse le massacre.
+- **Role de Schein** : le pivot. Tout ce qui precede menait a ce moment. La brisure A fonctionne - Schein massacre, vide. Ce qui la defait n'est pas une resistance interne : c'est Frieren. Sa peur de mourir rallume l'empathie que le Roi croyait eteinte.
 - **Tchekhov** :
- - Empathie de Schein - detonation. La braise devient flamme.
- - Peur d'aimer - premiere rencontre avec Frieren. Le lien nait dans la violence.
+ - Empathie de Schein - detonation. C'est la peur d'une proie qui ranime ce que la torture avait eteint.
+ - Peur d'aimer - premiere rencontre avec Frieren. Le lien nait dans la violence. Frieren acquiert ici la meme legitimite fondatrice que Serie plus tard : socle du futur dilemme d'Aeusserst.
 - **Notes** : Frieren est recueillie par Flamme (~25 ans) peu apres. Schein ne croise pas Flamme.
 
 ### Etape 5.3 - Execution de Porphyr et Gabbro, tentative de coup
@@ -297,7 +294,7 @@
  - Schein revient a Ende. Il exige le trone - un duel pour la souverainete.
  - Le Roi execute Porphyr et Gabbro d'un seul sort, sous les yeux de Schein. Derniere tentative de brisure : tuer les derniers subordonnes du prince pour le vider.
  - Ca ne brise pas - ca enrage. Le Roi voulait du desespoir, il recolte de la rage.
- - Defaite ecrasante de Schein. Le Roi est au sommet absolu de sa puissance - un demon de ~100 ans contre un souverain de ~5 200 ans.
+ - Defaite ecrasante de Schein. Le Roi est au sommet absolu de sa puissance - un prince de ~600 ans contre un souverain de ~4 700 ans.
  - Le Roi scelle le bras gauche de Schein (deja detruit par Frieren). Le sceau empeche regeneration et soin, permanent tant que le Roi vit.
  - Schein fuit grace a sa vitesse superieure. Le Roi envoie des chasseurs mais sait que seuls certains Sages seraient de taille.
  - Pour le Roi, Schein est une experience ratee - mais les donnees sont collectees.
@@ -306,7 +303,7 @@
 - **Tchekhov** :
  - " Merci, pere. " - absent. Le silence tient. Mille ans plus tard, a la mort du Roi, Schein le dira une derniere fois.
  - Prediction de Schlacht - confirmee en cours. Schein massacre des demons, tente le trone. La vision de Schlacht se realise etape par etape.
-- **Notes** : age de Schein au moment du coup : ~600 ans (~15-16 apparents). Le Roi a ~5 200 ans. L'ecart de puissance est abyssal. La victoire du Roi n'est pas un exploit - c'est une evidence. La prophetie de Schlacht ne parle pas de ce combat, mais de la chute finale, mille ans plus tard.
+- **Notes** : age de Schein au moment du coup : ~600 ans (~15-16 apparents). Le Roi a ~4 700 ans (~5 700 a sa mort An 10, moins le millenaire qui separe le coup de la mort). L'ecart de puissance est abyssal. La victoire du Roi n'est pas un exploit - c'est une evidence. La prophetie de Schlacht ne parle pas de ce combat, mais de la chute finale, mille ans plus tard.
 
 ---
 
