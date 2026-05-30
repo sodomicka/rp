@@ -1,6 +1,6 @@
 # Sommaire - Frieren
 
-- version : W1
+- version : W2
 
 ## WIKI
 
@@ -44,7 +44,7 @@ Description : fiches personnages cles et rapports detailles avec Schein.
 - Aura.md - identite, Ecailles d'Obeissance, rapport Schein, arc du Graf Granat
 - Boese.md - identite, magie de barriere, rapport Schein, duel pendant la quete
 - Grausam.md - identite, magie mentale, rapport Schein (mentor), arc du Monument, mort
-- Basalt_Porphyr_Gabbro.md - escouade de l'Executeur [DIVERGENCE RP] : Basalt (lieutenant, denonciation, massacre village elfe), Porphyr (discret, execute par le Roi), Gabbro (discret, execute par le Roi)
+- Basalt_Porphyr_Gabbro.md - escouade de l'Executeur [DIVERGENCE RP] : Basalt (lieutenant, denonciation, seconde Schein lors du massacre du village elfe), Porphyr (discret, execute par le Roi), Gabbro (discret, execute par le Roi)
 - Sense.md - identite, magie capillaire, pacifisme, rapport Schein (presentee par Serie, canon preserve)
 - Genau.md - identite, examinateur 1ere epreuve, rapport Schein (froideur professionnelle)
 - Lernen.md - identite, golems, premier mage 1ere classe, rapport Schein (fascination prudente)
@@ -59,16 +59,6 @@ Description : fiches personnages cles et rapports detailles avec Schein.
 - Falsch_Frei_Burg.md - trois mages de premiere classe, assets de Serie : Falsch (ombre, examinateur 3e epreuve), Frei (ancien partenaire de Genau, tue par Divin Revolte), Burg (defense, tue par Uebel)
 - Sein.md - [A CREER] identite, pretre "corrompu", guerisseur/exorciste, Gorilla Warrior, rapport Schein (dynamique modifiee), voyage avec le groupe (~An 94-96)
 
-### Chronologie/
-Description : timeline detaillee de l'Ere Mythique a l'ere post-Himmel, toutes divergences integrees.
-- Ere_0_Mythique.md - Ere Mythique (dates indeterminees) : Deesse, ascension, unification demons, Serie, Ecritures
-- Ere_1_Roi_des_Demons.md - Ere du Roi (~1 590-990 av.) : naissance Schein, tortures, Flamme, massacre elfe, exil
-- Ere_2_Exil_et_Rencontre.md - Exil et rencontre Frieren (~990-10 av.) : Serie, rupture, guerison bras dore, guerilla, hutte, Heros du Sud
-- Ere_3_Himmel.md - Ere Himmel (An 0-15) : recrutement, Qual, batailles, Ende, mort du Roi, voyage retour, etoiles filantes, separation
-- Ere_4_Fern_Et_Stark.md - Ere Fern et Stark (An 15 a An ~97) : hutte, mort Himmel (An 65), Heiter (An ~85-90), Granz (An ~91), Qual (An ~92), Bredt/Eisen (An ~92), Einsam (An ~92), Stark (An ~93), Waal (An ~93), Aura (An ~94), Kraft (An ~94), Sein (~An 94-96), anniversaire Fern (An ~95), route vers Aeusserst, arrivee Aeusserst (An ~97). [W2]
-- Ere_5a_Frieren_2.md - [A CREER]
-- Ere_5b_Serie_2.md - [A CREER]
-
 ### Roadmap/
 Description : itineraires detailles du voyage, etape par etape. Lieux, evenements, roles de Schein, Tchekhov, statuts (canon/divergence/invention). Communs a tous les RP de l'univers.
 - Roadmap_Chateau.md - Ere du Chateau (~1 490-990 av.) : adoption, formation, tortures, massacre village elfe, tentative de coup, exil
@@ -78,7 +68,7 @@ Description : itineraires detailles du voyage, etape par etape. Lieux, evenement
 - Roadmap_Frieren.md - Ere Frieren (~590-An 0) : chasse en duo, constat du village detruit, installation hutte, cinq siecles de quotidien (convergence, rituels, vieux couple non nomme), visite du Heros du Sud, attente de Himmel
 - Roadmap_Himmel_01_Formation.md - Zusammen -> Capitale Royale (An 0, formation du groupe)
 - Roadmap_Himmel_02_Terres_Centrales.md - Strahl -> Decke (An ~1-3, traversee des Terres Centrales)
-- Roadmap_Himmel_03_Terres_Du_Nord.md - Schwer -> Ausserst (An ~3-7, Terres du Nord, Boese tue, revelation amoureuse)
+- Roadmap_Himmel_03_Terres_Du_Nord.md - Schwer -> Aeusserst (An ~3-7, Terres du Nord, Boese tue, revelation amoureuse)
 - Roadmap_Himmel_04_Plateau_Nord.md - Norm -> Chateau du Roi (An ~7-10, Plateau Nord, Grausam tue, combat final)
 - Roadmap_Ere4_Granat_Aeusserst.md - [A CREER] Granz -> Aeusserst (An ~91-97, toutes etapes entre Heiter et Aeusserst)
 
