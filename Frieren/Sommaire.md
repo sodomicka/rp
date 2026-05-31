@@ -1,6 +1,6 @@
 # Sommaire - Frieren
 
-- version : W7
+- version : W8
 
 ## WIKI
 
@@ -77,6 +77,7 @@ Description : itineraires detailles du voyage, etape par etape. Lieux, evenement
 - Roadmap_Ere_Calme.md - La parenthese et les adieux (An 15-89) : hutte, mort de Himmel, Strahl/Heiter, mort de Heiter
 - Roadmap_Fern_Stark_01_Terres_Centrales.md - Remontee des Terres Centrales (An ~90-93) : Groesse(Qual) -> Granz -> Bredt(Eisen) -> Wille(Einsam) -> Riegel(Stark) -> Waal
 - Roadmap_Fern_Stark_02_Terres_Du_Nord.md - Terres du Nord jusqu'a Aeusserst (An ~94-96) : Granat(Aura) -> Decke(Kraft) -> Schwer -> Appetit -> Alt(Sein) -> Raad -> Bande -> sommeil -> Rohr -> Offen -> Vorig -> Aeusserst
+- Roadmap_Aeusserst.md - Aeusserst, la croisee des chemins (An 96, Ere 5) : examen de premiere classe (3 epreuves en spectateur), retrouvailles Serie/Schein (836 ans), confrontation du triangle, bifurcation 5a (reste avec Frieren -> Roadmap_Frieren_2) / 5b (se remet avec Serie -> Roadmap_Serie_2)
 
 ## PARTIES (Partie1)
 
