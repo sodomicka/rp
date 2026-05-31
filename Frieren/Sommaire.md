@@ -1,6 +1,6 @@
 # Sommaire - Frieren
 
-- version : W3
+- version : W6
 
 ## WIKI
 
@@ -58,6 +58,9 @@ Description : fiches personnages cles et rapports detailles avec Schein.
 - Mages_Mineurs_Aeusserst.md - Laufen, Ehre, Scharf, Edel, Blei, Duenste, Ton, Laenge
 - Falsch_Frei_Burg.md - trois mages de premiere classe, assets de Serie : Falsch (ombre, examinateur 3e epreuve), Frei (ancien partenaire de Genau, tue par Divin Revolte), Burg (defense, tue par Uebel)
 - Sein.md - [A CREER] identite, pretre "corrompu", guerisseur/exorciste, Gorilla Warrior, rapport Schein (dynamique modifiee), voyage avec le groupe (~An 94-96)
+- Voll.md - nain gardien de Klar (~400 ans), promesse a sa femme humaine, ami de Frieren, rapport Schein (miroir longevite/deuil : Serie et Frieren)
+- Gehen.md - nain batisseur du pont du Canyon de Tor (200 ans), village detruit, rapport Schein (devouement a l'avenir, echo du retournement contre les siens)
+- Norm.md - marchand-seigneur, lignee Norm / Graf Dach [DIVERGENCE RP - FUSION], pret + epee hereditaire, rapport Schein (lore fierte demoniaque)
 
 ### Roadmap/
 Description : itineraires detailles du voyage, etape par etape. Lieux, evenements, roles de Schein, Tchekhov, statuts (canon/divergence/invention). Communs a tous les RP de l'univers.
@@ -67,9 +70,10 @@ Description : itineraires detailles du voyage, etape par etape. Lieux, evenement
 - Roadmap_Solitaire.md - Ere solitaire (~740-590 av.) : guerilla par amour pour Serie, village gentil / village brule, retour definitif a la vulgarite, rencontre Frieren, guerison bras dore
 - Roadmap_Frieren.md - Ere Frieren (~590-An 0) : chasse en duo, constat du village detruit, installation hutte, cinq siecles de quotidien (convergence, rituels, vieux couple non nomme), visite du Heros du Sud, attente de Himmel
 - Roadmap_Himmel_01_Formation.md - Zusammen -> Capitale Royale (An 0, formation du groupe)
-- Roadmap_Himmel_02_Terres_Centrales.md - Strahl -> Decke (An ~1-3, traversee des Terres Centrales)
-- Roadmap_Himmel_03_Terres_Du_Nord.md - Schwer -> Aeusserst (An ~3-7, Terres du Nord, Boese tue, revelation amoureuse)
+- Roadmap_Himmel_02_Terres_Centrales.md - Strahl -> Decke (An ~1-5, traversee des Terres Centrales)
+- Roadmap_Himmel_03_Terres_Du_Nord.md - Schwer -> Aeusserst (An ~5-7, Terres du Nord, Boese tue, revelation amoureuse)
 - Roadmap_Himmel_04_Plateau_Nord.md - Norm -> Chateau du Roi (An ~7-10, Plateau Nord, Grausam tue, combat final)
+- Roadmap_Himmel_05_Retour.md - Chateau -> Hutte (An 10-15, voyage retour et separation du groupe)
 - Roadmap_Ere4_Granat_Aeusserst.md - [A CREER] Granz -> Aeusserst (An ~91-97, toutes etapes entre Heiter et Aeusserst)
 
 ## PARTIES (Partie1)
