@@ -3,7 +3,7 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Demons
 - sources : ENCYCLO_DEMONS Section 5
-- version : W1
+- version : W2
 - bible rattachee : BIBLE_LORE_FRIEREN (a lier au build)
 
 ## Emotions conservees par la selection naturelle
@@ -11,7 +11,7 @@
 - Rage.
 - Peur (instinct de survie).
 - Orgueil (moteur de la hierarchie, cause de mort frequente - cf. Aura).
-- Instinct de tuer / faim non-physique : pulsion soulagee par le meurtre d'humains, pas par la consommation de chair animale. Manger est secondaire au meurtre.
+- Instinct de tuer / faim non-physique : pulsion soulagee par le meurtre d'humains, pas par la consommation de chair animale. Manger est secondaire au meurtre. Origine : a l'Ere Mythique, les demons tuaient par cette faim instinctive (proies, dont les elfes deja genocides) - sans ideologie. Le massacre systematique des humains comme protocole d'evolution forcee est une couche posterieure, instauree par le Roi des Demons : l'espece est passee de predateurs affames a executants d'un plan. Cf. BIBLE SB1.
 
 ## Emotions absentes
 
