@@ -56,7 +56,7 @@ Description : fiches personnages cles et rapports detailles avec Schein.
 - Richter.md - identite, Bargland (terre), boutique, rapport Schein (canon preserve)
 - Kanne_Et_Lawine.md - identites, eau/glace, synergie, rapport Schein (canon preserve)
 - Mages_Mineurs_Aeusserst.md - Laufen, Ehre, Scharf, Edel, Blei, Duenste, Ton, Laenge
-- Falsch_Frei_Burg.md - trois mages de premiere classe, assets de Serie : Falsch (ombre, examinateur 3e epreuve), Frei (ancien partenaire de Genau, tue par Divin Revolte), Burg (defense, tue par Uebel)
+- Falsch_Frei_Burg.md - trois mages de premiere classe, assets de Serie : Falsch (ombre, examinateur 3e epreuve), Frei (ancien partenaire de Genau, tue par Revolte le Divin), Burg (defense, tue par Uebel)
 - Sein.md - identite, pretre "corrompu" et mediateur, guerisseur/exorciste (Benediction, Trois Lances, immunite Fleur de Confusion), Gorilla Warrior, lien Heiter (surnom "Pretre Bouc", lignee clericale), rapport Schein (rivalite jouee + foi), scaling B, voyage ~An 94-95
 - Voll.md - nain gardien de Klar (~400 ans), promesse a sa femme humaine, ami de Frieren, rapport Schein (miroir longevite/deuil : Serie et Frieren)
 - Gehen.md - nain batisseur du pont du Canyon de Tor (200 ans), village detruit, rapport Schein (devouement a l'avenir, echo du retournement contre les siens)
@@ -68,7 +68,7 @@ Description : itineraires detailles du voyage, etape par etape. Lieux, evenement
 - Roadmap_Exil_Solo.md - Ere de l'Exil solitaire (~990-890 av.) : fuite, guerilla d'usure, vengeur trop tardif, villages massacres, reputation (le Traitre / le Demon de Lumiere)
 - Roadmap_Serie.md - Ere Serie (~890-740 av.) : rencontre, apprivoisement maladroit, 150 ans de couple conflictuel, suppression de mana, village elfe de Serie, rupture
 - Roadmap_Solitaire.md - Ere solitaire (~740-590 av.) : guerilla par amour pour Serie, village gentil / village brule, retour definitif a la vulgarite, rencontre Frieren, guerison bras dore
-- Roadmap_Frieren.md - Ere Frieren (~590-An 0) : chasse en duo, constat du village detruit, installation hutte, cinq siecles de quotidien (convergence, rituels, vieux couple non nomme), visite du Heros du Sud, attente de Himmel
+- Roadmap_Frieren_01_Chasse_Hutte.md - Ere Frieren (~590-An 0) : chasse en duo, constat du village detruit, installation hutte, cinq siecles de quotidien (convergence, rituels, vieux couple non nomme), visite du Heros du Sud, attente de Himmel
 - Roadmap_Himmel_01_Formation.md - Zusammen -> Capitale Royale (An 0, formation du groupe)
 - Roadmap_Himmel_02_Terres_Centrales.md - Strahl -> Decke (An ~1-5, traversee des Terres Centrales)
 - Roadmap_Himmel_03_Terres_Du_Nord.md - Schwer -> Aeusserst (An ~5-7, Terres du Nord, Boese tue, revelation amoureuse)
@@ -77,7 +77,9 @@ Description : itineraires detailles du voyage, etape par etape. Lieux, evenement
 - Roadmap_Ere_Calme.md - La parenthese et les adieux (An 15-89) : hutte, mort de Himmel, Strahl/Heiter, mort de Heiter
 - Roadmap_Fern_Stark_01_Terres_Centrales.md - Remontee des Terres Centrales (An ~90-93) : Groesse(Qual) -> Granz -> Bredt(Eisen) -> Wille(Einsam) -> Riegel(Stark) -> Waal
 - Roadmap_Fern_Stark_02_Terres_Du_Nord.md - Terres du Nord jusqu'a Aeusserst (An ~94-96) : Granat(Aura) -> Decke(Kraft) -> Schwer -> Appetit -> Alt(Sein) -> Raad -> Bande -> sommeil -> Rohr -> Offen -> Vorig -> Aeusserst
-- Roadmap_Aeusserst.md - Aeusserst, la croisee des chemins (An 96, Ere 5) : examen de premiere classe (3 epreuves en spectateur), retrouvailles Serie/Schein (836 ans), confrontation du triangle, bifurcation 5a (reste avec Frieren -> Roadmap_Frieren_2) / 5b (se remet avec Serie -> Roadmap_Serie_2)
+- Roadmap_Aeusserst.md - Aeusserst, la croisee des chemins (An 96, Ere 5) : examen de premiere classe (3 epreuves en spectateur), retrouvailles Serie/Schein (836 ans), confrontation du triangle, bifurcation 5a (reste avec Frieren -> Roadmap_Frieren_02_Plateau_Nord) / 5b (se remet avec Serie -> Roadmap_Serie_2)
+- Roadmap_Frieren_02_Plateau_Nord.md - Plateau Nord post-Aeusserst (An ~96-97, Ere 5, branche 5a) : sortie d'Aeusserst -> Graf Dach (dette de Himmel rendue) -> Lac Korridor -> Tor (Gehen) -> Fabel -> Rufen (Revolte le Divin) -> seuil de Weise
+- Roadmap_Frieren_03_Terres_Dorees.md - Golden Land et Monument de la Deesse (An ~98, Ere 5, branche 5a) : Weise (Macht, Solitaer, Denken), Diagoldze dissipee, Monument de la Deesse comme seuil d'Aureole
 
 ## PARTIES (Partie1)
 
