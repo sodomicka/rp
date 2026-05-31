@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : canon wiki (fandom), TV Tropes, decisions joueur OOC
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B2
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B21
 
 ## Identite
 
@@ -14,7 +14,7 @@
 - Apparence : allure aristocratique, manteau long qu'il transmute en epee doree au combat. Fumeur (cigarettes).
 - Role : le plus puissant des Sept Sages de la Destruction. Controle un secteur des Terres du Nord.
 - Personnalite : deteste le conflit. Contraint par Schlacht a participer aux operations. Interet sincere (pour un demon) pour les emotions humaines - cherche a comprendre la culpabilite, l'amitie, le deuil. N'y parviendra jamais. Ce desir de comprehension le rapproche thematiquement de Schein, a la difference que Schein ressent reellement et que Macht ne fait qu'observer.
-- Mort : arc de Weise (~An 88). Tue par Denken, son ancien eleve humain, pendant que Frieren dissipe Diagoldze sur toute la region.
+- Mort : arc de Weise (~An 98). Tue par Denken, son ancien eleve humain, pendant que Frieren dissipe Diagoldze sur toute la region.
 
 ## Capacites
 
@@ -48,7 +48,7 @@ Canon preserve dans ses grandes lignes.
 
 **La destruction de Weise.** Macht transforme la cite et tous ses habitants en or. Echec de son experience - il n'a pas ressenti la culpabilite qu'il esperait. Serie arrive pour le tuer, mais Lernen (apprenti de Serie) la supplie de le sceller a la place pour chercher un remede a Diagoldze. Macht est scelle dans Weise.
 
-**Combat final (~An 88).** Frieren analyse les souvenirs de Macht pendant deux mois, developpe un sort de negation de Diagoldze. Denken affronte Macht en duel. Frieren dissipe Diagoldze sur toute la region - Macht, distrait par la vue de Weise redevenant pierre, baisse sa garde. Denken porte le coup fatal. Solitaer, qui combattait Frieren en parallele, est tuee par Fern.
+**Combat final (~An 98).** Frieren analyse les souvenirs de Macht pendant deux mois, developpe un sort de negation de Diagoldze. Denken affronte Macht en duel. Frieren dissipe Diagoldze sur toute la region - Macht, distrait par la vue de Weise redevenant pierre, baisse sa garde. Denken porte le coup fatal. Solitaer, qui combattait Frieren en parallele, est tuee par Fern.
 
 **Derniers instants.** Macht retourne aupres de Gluck (encore en or au moment du coup), s'agenouille, allume une derniere cigarette. Gluck est restaure, dit a Denken de finir. Denken declare un match nul par respect pour son ancien maitre.
 

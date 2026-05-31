@@ -3,14 +3,14 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : decisions joueur OOC
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B7
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B23
 
 ## Presentation
 
 Ce fichier regroupe les trois demons formant l'escouade de l'Executeur - l'unite de traque des deserteurs du Royaume Demon, placee sous le commandement direct de Schein. Les trois portent des noms de roches volcaniques, reflet de leur nature brute et de leur fonction destructrice.
 
-L'escouade est une cellule reduite. Trois membres, pas davantage - les demons ne forment pas de groupes organises au-dela du strict necessaire. Basalt est le lieutenant, Porphyr et Gabbro les deux bras. Tous trois operent exclusivement dans les Terres du Nord, sous ordre du Roi transmis via Schein.
+L'escouade est une cellule reduite. Trois membres, pas davantage - les demons ne forment pas de groupes organises au-dela du strict necessaire. Basalt est le lieutenant, Porphyr et Gabbro les deux bras. Tous trois operent ordinairement dans les Terres du Nord, sous ordre du Roi transmis via Schein. Le massacre de Bluete (~990 av.) fait exception : le Roi les depeche en Terres Centrales, vers un gros village elfe qu'il avait volontairement laisse intact, dans le seul but de briser Schein.
 
 Les trois demons ont approximativement le meme age que le prince (~600 ans a leur mort). Tous trois portent une armure lourde avec casque integral, dont seules les cornes depassent - trois silhouettes massives et interchangeables a distance, identifiables uniquement par la forme de leurs cornes.
 
@@ -28,7 +28,7 @@ Classes par ordre d'importance narrative decroissante.
 - Apparence : armure lourde de chevalier, casque integral. Cornes temporales de boeuf, epaisses et courbes, depassant du casque. Stature imposante.
 - Role : lieutenant de l'escouade de l'Executeur. Subordonne direct de Schein. Mene les operations de terrain quand Schein ne peut ou ne veut pas frapper lui-meme.
 - Personnalite : brutal, sanguinaire, discipline. Le demon le plus fiable de l'escouade - pas par loyaute personnelle envers le prince, mais par obeissance structurelle. Quand la hierarchie exige un choix entre le prince et le Roi, Basalt choisit le Roi sans hesiter. Ce n'est pas de la trahison - c'est la regle absolue du Royaume.
-- Mort : ~990 av. An 0. Tue par Frieren (~300 ans, ~15 apparents) lors du massacre du village elfe. L'escouade se partage le village sous le commandement de Schein ; Basalt mene sa portion de l'assaut (230 victimes au total). Quand Frieren l'abat, la perturbation de mana attire Schein - et la peur de mourir de l'enfant elfe rallume ce que la cellule avait enfoui.
+- Mort : ~990 av. An 0. Tue par Frieren (~300 ans, ~15 apparents) lors du massacre de Bluete (village elfe des Terres Centrales). L'escouade se partage le village sous le commandement de Schein ; Basalt mene sa portion de l'assaut (230 victimes au total). Quand Frieren l'abat, la perturbation de mana attire Schein - et la peur de mourir de l'enfant elfe rallume ce que la cellule avait enfoui.
 
 ## Capacites
 
@@ -45,7 +45,7 @@ Classes par ordre d'importance narrative decroissante.
 
 **Les tortures.** Consequence directe de la denonciation : le Roi lance la torture ultime. Un an de cellule, 365 tortures physiques uniques, un jour de terreur pure. Basalt assiste a certaines seances - et s'en delecte. Observer le prince souffrir n'est pas de la rebellion ; c'est du divertissement. Le mepris d'un subalterne qui sait que son chef est casse et que le Roi le casse davantage.
 
-**Le massacre.** Sur ordre du Roi transmis via Schein, l'escouade massacre le village elfe : les quatre demons se partagent les lieux, chacun sa portion. Schein y participe, vide, brise par un an de cellule et creuse par la semaine de confort. 230 victimes. Basalt meurt face a Frieren enfant ; la chute de son mana attire Schein. La main gauche de Schein saute sous la defense de Frieren - et c'est la peur de mourir de la petite elfe, preuve qu'une proie a des sentiments, qui fait remonter les siens. Ce n'est pas la braise qui a survecu seule : c'est Frieren qui la rallume.
+**Le massacre.** Sur ordre du Roi transmis via Schein, l'escouade massacre Bluete, gros village elfe des Terres Centrales que le Roi avait volontairement epargne jusque-la (expedition exceptionnelle, hors de leur secteur du Nord, pour briser Schein) : les quatre demons se partagent les lieux, chacun sa portion. Schein y participe, vide, brise par un an de cellule et creuse par la semaine de confort. 230 victimes. Basalt meurt face a Frieren enfant ; la chute de son mana attire Schein. La main gauche de Schein saute sous la defense de Frieren - et c'est la peur de mourir de la petite elfe, preuve qu'une proie a des sentiments, qui fait remonter les siens. Ce n'est pas la braise qui a survecu seule : c'est Frieren qui la rallume.
 
 ## Relations
 

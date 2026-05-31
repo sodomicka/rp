@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : canon wiki (fandom), TV Tropes, decisions joueur OOC
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B11
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B21
 
 ## Identite
 
@@ -14,7 +14,7 @@
 - Apparence : petite, mince, cheveux turquoise longs et coupes de facon inegale (depassent le torse), yeux verts, cornes tres petites depassant juste au-dessus du front (separent la frange). Pendentif tubulaire en collier. Robe jaune a deux pans avec sous-couche blanche, bracelets aux deux mains, sandales a rubans. Plus tard : meme tenue avec cardigan orange par-dessus.
 - Role : chercheuse obsessionnelle, specialiste de la biologie et de la psychologie humaines. Seul demon a posseder un habitat fixe hors Ende (un chantier naval humain reconverti). Collectionne des specimens (squelettes de requin et d'orque). Directement liee au Roi des Demons, qui lui a enseigne la theorie de l'evolution convergente.
 - Personnalite : excentrique, recluse, decontractee en surface. Demon canon classique (pas d'empathie reelle). Frieren la considere comme la demone qui comprend le mieux la psychologie humaine - ce qui la rend redoutable en manipulation et jeux mentaux. Contrairement a Macht, elle ne cherche pas a ressentir les emotions humaines : elle les etudie avec la distance clinique d'un predateur qui observe sa proie. Pragmatique envers son espece : considere la guerre du Roi comme improductive et un gaspillage de vies demoniaques, mais agit pour la survie des demons quand elle le juge necessaire.
-- Mort : arc de Weise (~An 81). Tuee par Fern. Frieren dissipe Diagoldze en plein combat contre Solitaer, faisant confiance a Fern pour la finir avec un Zoltraak concentre. Solitaer n'anticipe pas cette cooperation humaine - les demons ne savent pas se coordonner comme les humains et ne peuvent pas concevoir que leurs ennemis le fassent.
+- Mort : arc de Weise (~An 98). Tuee par Fern. Frieren dissipe Diagoldze en plein combat contre Solitaer, faisant confiance a Fern pour la finir avec un Zoltraak concentre. Solitaer n'anticipe pas cette cooperation humaine - les demons ne savent pas se coordonner comme les humains et ne peuvent pas concevoir que leurs ennemis le fassent.
 
 ## Capacites
 
@@ -45,7 +45,7 @@
 
 **Fait notable.** Solitaer est classee Generale dans la hierarchie du Royaume Demon - rang de facto impose a tous les demons majeurs, qu'ils l'exercent ou non. Les demons qui refusent le systeme sont traques par l'executeur (Schein durant son service). Solitaer a survecu, ce qui implique soit qu'elle a accepte le titre sans l'exercer, soit que sa puissance rendait la traque trop couteuse.
 
-## Arc de Weise (~An 81)
+## Arc de Weise (~An 98)
 
 Canon preserve.
 
