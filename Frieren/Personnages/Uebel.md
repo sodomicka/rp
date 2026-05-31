@@ -45,7 +45,7 @@ Le coeur de toute sa magie. Sa visualisation ignore la logique et repose sur l'i
 
 [DIVERGENCE RP]
 
-**Contexte.** Uebel est candidate a l'examen de premiere classe (~An 91). Elle est encore mage de troisieme classe a cette epoque - elle n'est pas presentee a Schein par Serie. Elle le croise comme spectateur pendant les epreuves.
+**Contexte.** Uebel est candidate a l'examen de premiere classe (~An 96). Elle est encore mage de troisieme classe a cette epoque - elle n'est pas presentee a Schein par Serie. Elle le croise comme spectateur pendant les epreuves.
 
 **Attraction instinctive.** Le miroir inverse. Uebel est une tueuse qui tire du plaisir de l'acte, mais dont la mecanique magique repose sur l'empathie sincere. Schein est un demon dote d'empathie sincere, mais hante par une faim de tuer permanente qu'il combat depuis un millenaire. Deux faces d'une meme piece tordue.
 

@@ -44,7 +44,7 @@ Observe avant d'agir, identifie les faiblesses, ne s'engage qu'avec un avantage 
 
 [DIVERGENCE RP]
 
-Canon preserve. Land croise Schein comme spectateur pendant l'examen (~An 91). Pas d'interaction directe notable. Sa nature mefiente et son refus systematique de l'engagement font de lui le candidat le moins susceptible de s'interesser a une anomalie demoniaque - il observe, enregistre, et passe son chemin.
+Canon preserve. Land croise Schein comme spectateur pendant l'examen (~An 96). Pas d'interaction directe notable. Sa nature mefiente et son refus systematique de l'engagement font de lui le candidat le moins susceptible de s'interesser a une anomalie demoniaque - il observe, enregistre, et passe son chemin.
 
 ## Relations
 

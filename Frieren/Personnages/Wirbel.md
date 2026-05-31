@@ -45,7 +45,7 @@ Vision de soldat, pas de duelliste. Analyse les faiblesses ennemies, adapte sa s
 
 [DIVERGENCE RP]
 
-**Contexte.** Wirbel est candidat a l'examen de premiere classe (~An 91). Encore mage de deuxieme classe, il n'est pas presente a Schein par Serie. Il le croise comme spectateur pendant les epreuves.
+**Contexte.** Wirbel est candidat a l'examen de premiere classe (~An 96). Encore mage de deuxieme classe, il n'est pas presente a Schein par Serie. Il le croise comme spectateur pendant les epreuves.
 
 **Mefiance pragmatique.** Un demon reste un demon. Wirbel a passe sa carriere dans le Corps de Magie du Nord a en tuer. L'approbation de Serie ne pese pas assez pour effacer des annees de cadavres de camarades. Pas d'hostilite ouverte - il n'est pas idiot, Serie est Serie - mais la main reste pres du baton, le regard ne quitte jamais le demon.
 

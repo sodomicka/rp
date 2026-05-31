@@ -61,7 +61,7 @@ Ensemble, elles contournent leur faiblesse commune : Kanne fournit l'eau, Lawine
 
 [DIVERGENCE RP]
 
-Canon preserve. Kanne et Lawine croisent Schein comme spectateur pendant l'examen (~An 91). Pas d'interaction directe notable. En tant que troisieme classe et candidates echouees (Serie pour Kanne, donjon pour Lawine), elles n'ont pas acces au cercle de Serie ou Schein evolue.
+Canon preserve. Kanne et Lawine croisent Schein comme spectateur pendant l'examen (~An 96). Pas d'interaction directe notable. En tant que troisieme classe et candidates echouees (Serie pour Kanne, donjon pour Lawine), elles n'ont pas acces au cercle de Serie ou Schein evolue.
 
 ## Relations
 

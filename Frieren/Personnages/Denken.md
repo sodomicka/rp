@@ -56,7 +56,7 @@ Pret a se battre a mains nues si la magie est epuisee - le fait lors de la premi
 
 [DIVERGENCE RP]
 
-**Contexte.** Denken est candidat a l'examen de premiere classe (~An 91). Encore mage de deuxieme classe, il n'est pas presente a Schein par Serie. Il le croise comme spectateur pendant les epreuves.
+**Contexte.** Denken est candidat a l'examen de premiere classe (~An 96). Encore mage de deuxieme classe, il n'est pas presente a Schein par Serie. Il le croise comme spectateur pendant les epreuves.
 
 **Connexion via Macht.** Denken est l'ancien apprenti de Macht - le demon dont la Diagoldze a transforme le bras droit de Frieren en or (~600 av. An 0), et que Schein a gueri (~590 av.). Macht avait egalement manifeste de la curiosite envers Schein au chateau d'Ende avant son exil.
 

@@ -41,7 +41,7 @@ Vulnerable aux mages manipulant l'eau : l'eau destabilise et contourne la terre.
 
 [DIVERGENCE RP]
 
-Canon preserve. Richter croise Schein comme spectateur pendant l'examen (~An 91). Pas d'interaction directe notable. En tant que candidat ayant echoue a la troisieme epreuve, il n'est pas introduit dans le cercle de Serie. Sa posture pessimiste et distante le rend peu susceptible de s'engager avec une anomalie demoniaque de son propre chef.
+Canon preserve. Richter croise Schein comme spectateur pendant l'examen (~An 96). Pas d'interaction directe notable. En tant que candidat ayant echoue a la troisieme epreuve, il n'est pas introduit dans le cercle de Serie. Sa posture pessimiste et distante le rend peu susceptible de s'engager avec une anomalie demoniaque de son propre chef.
 
 ## Relations
 

@@ -27,7 +27,7 @@ Classes par ordre d'importance narrative decroissante.
 
 ### Rapport avec Schein [DIVERGENCE RP]
 
-**Aeusserst (~An 91).** Falsch est present quand Serie introduit Schein aupres de ses examinateurs (Genau, Sense, Lernen, Falsch). C'est le plus observable des quatre - il analyse Schein comme il analyse tout le monde, pousse ses lunettes, note mentalement le mana aberrant, la signature mi-mage mi-pretre, les cornes. Il ne dit rien de deplace. Il obeit a Serie.
+**Aeusserst (~An 96).** Falsch est present quand Serie introduit Schein aupres de ses examinateurs (Genau, Sense, Lernen, Falsch). C'est le plus observable des quatre - il analyse Schein comme il analyse tout le monde, pousse ses lunettes, note mentalement le mana aberrant, la signature mi-mage mi-pretre, les cornes. Il ne dit rien de deplace. Il obeit a Serie.
 
 **Fonction narrative.** Falsch est la vitrine ambulante de Serie. Competent, fiable, polyvalent, discipline - exactement ce que Serie veut montrer a Schein : " regarde ce que mes mages valent, regarde ce que j'ai construit pendant que tu chassais seul dans les forets ". Serie n'a pas besoin de le dire explicitement ; la qualite de Falsch parle d'elle-meme. Et Falsch, fidele a son nom, incarne la facade parfaite : tout a l'air impeccable en surface, la complexite est en dessous.
 
@@ -76,7 +76,7 @@ Aucun rapport direct. Frei est mort avant Aeusserst, probablement sans avoir jam
 - Apparence : portait la Cape Inamovible en permanence, couvrant son corps jusqu'aux yeux.
 - Personnalite : peu developpee dans le canon. Confiance absolue en sa defense - n'avait jamais ete blesse depuis sa promotion premiere classe. Sense le decrivait comme un mage extraordinairement doue. Son epreuve consistait a le faire reculer d'un pas - condition volontairement impossible pour la quasi-totalite des candidats.
 - Capacites : magie defensive - creation d'artefacts defensifs (Cape Inamovible). La cape etait impregnee de tant de sorts qu'elle rendait son porteur quasi invulnerable a toute attaque magique conventionnelle. Aucune magie classique ne pouvait la traverser.
-- Mort : tue par Uebel lors d'un examen de deuxieme classe (~An 89). Reelseiden a ignore les proprietes defensives de la cape et l'a tranche en deux. Uebel a ete disqualifiee pour avoir viole la regle interdisant de tuer pendant l'examen - mais la facilite avec laquelle elle a neutralise un mage de premiere classe est devenue une legende dans l'Association.
+- Mort : tue par Uebel lors d'un examen de deuxieme classe (~An 94). Reelseiden a ignore les proprietes defensives de la cape et l'a tranche en deux. Uebel a ete disqualifiee pour avoir viole la regle interdisant de tuer pendant l'examen - mais la facilite avec laquelle elle a neutralise un mage de premiere classe est devenue une legende dans l'Association.
 - Tier de puissance : B+ (premiere classe, defense exceptionnelle, attaque non evaluee).
 
 ### Rapport avec Schein [DIVERGENCE RP]
@@ -101,7 +101,7 @@ Aucun rapport direct. Burg est un personnage posthume dont la mort precede Aeuss
 |---|---|---|---|---|
 | Falsch | 1ere classe, examinateur 3e epreuve | Ombre, transformation, surveillance | Vivant | Vitrine de Serie - competence, fidelite, facade |
 | Frei | 1ere classe, partenaire de Genau | Inconnue (profil defensif-altruiste) | Mort (Divin Revolte) | Miroir posthume - naivete qui tue vs. naivete qui survit |
-| Burg | 1ere classe, examinateur 2e classe | Defense (Cape Inamovible) | Mort (Uebel, ~An 89) | Puissance et limites de l'Association |
+| Burg | 1ere classe, examinateur 2e classe | Defense (Cape Inamovible) | Mort (Uebel, ~An 94) | Puissance et limites de l'Association |
 
 ---
 

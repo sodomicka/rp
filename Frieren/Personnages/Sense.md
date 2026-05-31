@@ -17,7 +17,7 @@
 
 ## Backstory
 
-Peu documentee. Sense est une figure etablie de l'Association Continentale de Magie au moment de l'examen (~An 91). Elle a encadre plusieurs sessions d'examen de premiere classe - aucun candidat n'avait jamais reussi sous sa supervision avant la promotion de Frieren. Deux ans avant l'examen de premiere classe, elle etait observatrice lors de l'examen de deuxieme classe ou Uebel a tue l'examinateur Burg en le tranchant a travers sa cape immobile.
+Peu documentee. Sense est une figure etablie de l'Association Continentale de Magie au moment de l'examen (~An 96). Elle a encadre plusieurs sessions d'examen de premiere classe - aucun candidat n'avait jamais reussi sous sa supervision avant la promotion de Frieren. Deux ans avant l'examen de premiere classe, elle etait observatrice lors de l'examen de deuxieme classe ou Uebel a tue l'examinateur Burg en le tranchant a travers sa cape immobile.
 
 Possede un sort permettant de dormir paisiblement apres avoir tue quelqu'un - ce qui implique que la violence lui cause insomnie et culpabilite, malgre sa competence au combat.
 
@@ -52,7 +52,7 @@ Vulnerable face a la magie de visualisation pure d'Uebel : les cheveux sont " fa
 
 **Contexte.** L'Association Continentale de Magie n'existe pas pendant la quete des Heros (~An 0-10). Sense n'a aucun rapport avec Schein durant cette periode.
 
-**Aeusserst (~An 91).** Serie presente Schein a ses mages de premiere classe - dont Sense, Genau et Lernen - avant le debut des epreuves. Motif officiel : un demon n'a pas sa place dans un examen de magie humaine. Motif reel : Serie veut garder Schein pres d'elle, le reconquerir, et lui montrer ce qu'elle a bati - un ordre de mages solides. Schein assiste aux epreuves en tant que spectateur aux cotes de Serie.
+**Aeusserst (~An 96).** Serie presente Schein a ses mages de premiere classe - dont Sense, Genau et Lernen - avant le debut des epreuves. Motif officiel : un demon n'a pas sa place dans un examen de magie humaine. Motif reel : Serie veut garder Schein pres d'elle, le reconquerir, et lui montrer ce qu'elle a bati - un ordre de mages solides. Schein assiste aux epreuves en tant que spectateur aux cotes de Serie.
 
 Sense observe Schein sans interaction directe notable. Canon preserve pour le reste de son arc.
 

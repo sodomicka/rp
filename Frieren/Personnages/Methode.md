@@ -45,7 +45,7 @@ Serie l'envoie en mission sur le Plateau Nord des sa promotion - signe de confia
 
 [DIVERGENCE RP]
 
-**Contexte.** Methode est candidate a l'examen de premiere classe (~An 91). Encore mage de deuxieme classe, elle n'est pas presentee a Schein par Serie avant les epreuves. Elle le croise comme spectateur pendant l'examen.
+**Contexte.** Methode est candidate a l'examen de premiere classe (~An 96). Encore mage de deuxieme classe, elle n'est pas presentee a Schein par Serie avant les epreuves. Elle le croise comme spectateur pendant l'examen.
 
 **Double resonance.** Le rapport de Methode avec Schein s'articule sur deux axes simultanes :
 

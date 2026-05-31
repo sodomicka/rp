@@ -48,7 +48,7 @@ A immediatement identifie que Frieren supprimait son mana lors de leur premiere 
 
 **Contexte.** L'Association Continentale de Magie n'existe pas pendant la quete des Heros (~An 0-10). Lernen n'a aucun rapport avec Schein durant cette periode.
 
-**Aeusserst (~An 91).** Serie presente Schein a ses mages de premiere classe - dont Lernen, Sense et Genau - avant le debut des epreuves. En tant que plus ancien apprenti de Serie, Lernen est aux premieres loges de la dynamique entre elle et Schein.
+**Aeusserst (~An 96).** Serie presente Schein a ses mages de premiere classe - dont Lernen, Sense et Genau - avant le debut des epreuves. En tant que plus ancien apprenti de Serie, Lernen est aux premieres loges de la dynamique entre elle et Schein.
 
 Sa reaction : une fascination prudente. L'ingenieur magique en lui capte l'anomalie - un demon dont la signature de mana ne correspond a rien de connu, a mi-chemin entre mage et pretre. Lernen analyse, observe, enregistre. Pas d'hostilite, pas de chaleur non plus : la curiosite methodique d'un homme qui a passe sa vie a etudier la magie sous toutes ses formes et qui reconnait, dans Schein, un probleme fascinant qu'aucune theorie existante ne resout.
 

@@ -37,7 +37,7 @@ Peu detaillees dans le canon au-dela de son statut de premiere classe et de son 
 
 **Contexte.** L'Association Continentale de Magie n'existe pas pendant la quete des Heros (~An 0-10). Genau n'a aucun rapport avec Schein durant cette periode.
 
-**Aeusserst (~An 91).** Serie presente Schein a ses mages de premiere classe - dont Genau, Sense et Lernen - avant le debut des epreuves. Genau reagit avec une froideur professionnelle. Il obeit a Serie sans friction ouverte : si Serie dit que ce demon est la, ce demon est la. Pas de discussion.
+**Aeusserst (~An 96).** Serie presente Schein a ses mages de premiere classe - dont Genau, Sense et Lernen - avant le debut des epreuves. Genau reagit avec une froideur professionnelle. Il obeit a Serie sans friction ouverte : si Serie dit que ce demon est la, ce demon est la. Pas de discussion.
 
 Sous la surface, la situation est chargee. Genau a passe sa carriere dans un cadre ou les demons sont des ennemis a eliminer, et sa propre ville sera detruite par eux. Mais sa discipline l'emporte sur toute reaction emotionnelle visible. Le volcan reste sous le permafrost.
 
