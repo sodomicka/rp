@@ -1,22 +1,22 @@
 # Sommaire - Frieren
 
-- version : W8
+- version : W10
 
 ## WIKI
 
 ### Theologie/
 Description : theologie - Deesse de la Creation (nature reelle), systemes magiques, Aureole, magie divine de Schein, chemins existentiels.
-- Deesse_Verite_Et_Legende.md - nature reelle de la Deesse (hybride demon-elfe), croyance publique, raisons du secret, chronologie des Ecritures (creation Ere Mythique / diffusion ~1 500 av.)
+- Deesse_Verite_Et_Legende.md - nature reelle de la Deesse (hybride demon-elfe), mecanisme de l'hybride (amour->corps physique->elfe / degout->corps de mana->demon), origines de la Deesse et de Schein, filtre de survie des anomalies emotives, croyance publique, raisons du secret, chronologie des Ecritures
 - Systemes_Magiques.md - magie humaine, magie de la Deesse, magie demoniaque/maledictions, lien structurel Deesse-maledictions
-- Aureole.md - nature (frontiere entre plans), localisation (Ende), faits canon, role RP, tableau croyants/sceptiques
+- Aureole.md - nature (frontiere entre plans), localisation (Ende), faits canon, communion (qui voit qui), revelation de la Deesse a Schein, role RP, tableau croyants/sceptiques
 - Schein_Magie_Divine.md - perception vs verite (magie COMME la Deesse, pas DE), resistance maledictions, suppression de mana
-- Epee_De_Damocles.md - transcendance potentielle, enfant hybride, quatre chemins existentiels
+- Epee_De_Damocles.md - transcendance potentielle, conditions de l'ascension (hybride + mana surhumain), pouvoirs du dieu (omniscient/omnipotent/sans intervention), enfant hybride, deux chemins de la branche Frieren
 
 ### Demons/
 Description : espece demoniaque - biologie, societe, hierarchie, magie, plan du Roi des Demons.
 - Origine_Et_Physiologie.md - evolution depuis monstres mimetiques, apparence, cornes, mana, coeur, desintegration
 - Croissance_Et_Reproduction.md - modele de vieillissement a plateau, ages de reference, reproduction, hybridation
-- Emotions_Et_Instincts.md - emotions conservees/absentes, Schein exception, contrecoup bestial
+- Emotions_Et_Instincts.md - emotions conservees/absentes, Schein exception connue et vivante, anomalies emotives perdues (filtre de survie), contrecoup bestial
 - Langage.md - communication vs manipulation, trois registres de Schein
 - Rapport_A_La_Magie.md - affinite, specialisation, mana=dignite, Zoltraak, rigidite, instinct de fuite
 - Hierarchie_Et_Territoire.md - Roi > Schlacht > Prince > Sages > Generaux > Chefs > Mineurs, Ende, secteurs
@@ -38,6 +38,7 @@ Description : fiches personnages cles et rapports detailles avec Schein.
 - Heiter.md - identite, personnalite, capacites, backstory, rapport Schein (fascination theologique, friction mensonge/sincerite, alcool, matchmaking)
 - Fern.md - identite, personnalite, capacites, backstory, rapport Schein (confiance par osmose)
 - Stark.md - identite, personnalite, capacites, backstory, rapport Schein (heritage d'Eisen, village detruit)
+- Stoltz.md - grand frere de Stark, plus puissant guerrier de Klee, sacrifice pour la fuite de Stark, rapport Schein (jamais croise, retrouvailles posthumes a Aureole)
 - Kraft.md - identite, personnalite, capacites, backstory, rencontres canon, rapport Schein (canon preserve, RP)
 - Qual.md - identite, mentor Zoltraak, clemence/lachete, Ere Mythique
 - Solitaer.md - identite, capacites, rapport Schein, arc de Weise, arc du Monument
@@ -80,6 +81,7 @@ Description : itineraires detailles du voyage, etape par etape. Lieux, evenement
 - Roadmap_Aeusserst.md - Aeusserst, la croisee des chemins (An 96, Ere 5) : examen de premiere classe (3 epreuves en spectateur), retrouvailles Serie/Schein (836 ans), confrontation du triangle, bifurcation 5a (reste avec Frieren -> Roadmap_Frieren_02_Plateau_Nord) / 5b (se remet avec Serie -> Roadmap_Serie_2)
 - Roadmap_Frieren_02_Plateau_Nord.md - Plateau Nord post-Aeusserst (An ~96-97, Ere 5, branche 5a) : sortie d'Aeusserst -> Graf Dach (dette de Himmel rendue) -> Lac Korridor -> Tor (Gehen) -> Fabel -> Rufen (Revolte le Divin) -> seuil de Weise
 - Roadmap_Frieren_03_Terres_Dorees.md - Golden Land et Monument de la Deesse (An ~98, Ere 5, branche 5a) : Weise (Macht, Solitaer, Denken), Diagoldze dissipee, Monument de la Deesse comme seuil d'Aureole
+- Roadmap_Frieren_04_Aureole.md - Ende et Aureole (An ~98-99, Ere 5, branche 5a, terminus) : traversee des terres mortes -> Chateau du Roi (confrontation contemplative au passe, recit de la chute aux heritiers Fern/Stark) -> seuil d'Aureole (l'appel) -> communion avec les morts (Flamme, Himmel, Heiter, Stoltz, Heros du Sud) -> revelation de la Deesse (nature hybride partagee) -> choix binaire (refuser sa nature de dieu / accepter l'ascension). Fin ouverte : arret possible, ou impro sans roadmap.
 
 ## PARTIES (Partie1)
 
