@@ -5,7 +5,7 @@
 - segment : Traversee des Terres du Nord jusqu'a Aeusserst
 - periode : An ~94 - An 96
 - sources : BIBLE_LORE B22, Chronologie/Ere_4_Fern_Et_Stark (local, W2), Roadmap Himmel_02-05, canon anime S1-S2 + Timeline fandom (arc Travels to Aeusserst, "29 ans apres Himmel"), decisions joueur OOC 2026-05-31
-- version : W3
+- version : W4
 - bible rattachee : BIBLE_LORE_FRIEREN B22
 
 ---
@@ -222,7 +222,7 @@
 - **Tchekhov** :
  - Peur d'aimer - DETONATION imminente (triangle Serie/Frieren).
  - Bague de lotus - Schein retrouve Serie le symbole en tete.
- - Nature de Schein - Serie pourra theoriser l'hybridation, jamais confirmer (BIBLE SB8).
+ - Nature de Schein - Serie pourra pressentir que Schein est " comme la Deesse ", jamais comprendre l'hybridation ni la confirmer (BIBLE SB8).
 - **Notes** : FIN de l'Ere 4. Silence Serie/Schein = 740 + 96 = 836 ans (decision B : An 96 garde, ~2 ans de battement assume depuis l'arc Schwer An 94). Arc de Weise = ~An 98 (Ere 5). Balise Himmel_03 etape 25 resolue : retrouvailles Serie = An 96.
 
 ---
