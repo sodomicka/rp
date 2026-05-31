@@ -97,7 +97,7 @@
  - Empathie de Schein / peur d'aimer - le Heros du Sud, premier humain a l'accueillir avec reconnaissance, prefigure Himmel.
  - Vision du futur du Heros du Sud - il savait deja tout de Schein a la hutte et n'en a rien dit de plus. Ce qu'il a vu de l'avenir de Schein reste scelle avec lui.
  - Longevite et memoire - qui une ville choisit d'immortaliser, qui le monde oublie. Miroir de la mort future de Himmel (An 65) et de l'effacement des heros.
-- **Notes** : Canon ch. 63 : Fabel garde la statue du Heros du Sud, polie par des habitants reconnaissants ; le Groupe de Frieren (ere Fern) y revient ~29 ans apres la mort de Himmel (Ere 4). Fabel est donc un lieu a deux passages : aller ici, retour en Ere 4. Parallele assume avec la statue de Schein a Waal (Etape 11, Himmel_02) : une ville qui immortalise un autre que Himmel. Cf. Personnages/Heros_Du_Sud + SB5. -> SB6 : ajouter Fabel (absent).
+- **Notes** : Canon ch. 63 : Fabel garde la statue du Heros du Sud, polie par des habitants reconnaissants ; le Groupe de Frieren (ere Fern) y revient post-Aeusserst (Ere 5, An ~97 ; cf. Roadmap_Frieren_02_Plateau_Nord etape 5). Fabel est donc un lieu a deux passages : aller ici (ere Himmel), retour en Ere 5. Parallele assume avec la statue de Schein a Waal (Etape 11, Himmel_02) : une ville qui immortalise un autre que Himmel. Cf. Personnages/Heros_Du_Sud + SB5 + SB6.
 
 ---
 
