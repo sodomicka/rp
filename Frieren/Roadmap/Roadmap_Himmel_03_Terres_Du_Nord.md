@@ -4,25 +4,33 @@
 - dossier : Roadmap
 - segment : Traversee des Terres du Nord
 - periode : An ~5-7
-- sources : BIBLE_LORE B11, canon anime S1-S2, decisions joueur OOC
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B11
+- sources : BIBLE_LORE B18, canon anime S1-S2, decisions joueur OOC
+- version : W4
+- bible rattachee : BIBLE_LORE_FRIEREN B18
 
 ---
 
-## Etape 14 - Montagnes de Schwer (epee du heros)
+## Etape 14 - Montagnes de Schwer (Village de l'Epee)
 
-- **Lieu** : Schwer Mountains - chaine montagneuse, frontiere Central Lands / Northern Lands.
-- **Type** : montagnes, lieu canonique lie a l'epee du heros.
+- **Lieu** : Schwer Mountains - chaine montagneuse, frontiere Central Lands / Northern Lands. Abrite le Village de l'Epee, au fond du massif.
+- **Type** : montagnes ; sanctuaire de la Deesse sur terre sainte.
 - **Periode estimee** : An ~5.
-- **Statut** : canon. A verifier pour les details specifiques de l'evenement.
+- **Statut** : canon (echec de Himmel a l'Epee du Heros, secret garde, voeu de Frieren). Divergence (echo de la Deesse percu par Schein, discussion theologique, refus d'approcher la lame).
 - **Evenements** :
- - Passage par les montagnes de Schwer.
- - Evenement lie a l'epee du heros. Dans le canon, Himmel n'a jamais pu tirer la vraie epee du rocher (BIBLE SB7). L'episode dans les montagnes de Schwer est a confirmer contre le canon.
-- **Personnages impliques** : Himmel, groupe.
-- **Role de Schein** : [A DEVELOPPER selon le canon de l'episode].
-- **Tchekhov** : -
-- **Notes** : Le joueur a note " voir canon ". Necessite une verification canon detaillee pour preciser l'evenement. Cf. BIBLE SB7 : " Epee du Heros (replique) - offerte a Himmel enfant par un marchand qu'il a sauve. Himmel n'a jamais pu tirer la vraie du rocher. "
+ - Le groupe atteint le Village de l'Epee, sur la route du nord. Le sanctuaire abrite l'Epee du Heros plantee dans un rocher, don de la Deesse de la Creation : selon la legende, seul le vrai heros peut la retirer.
+ - Himmel essaie, echoue. Le groupe et la grand-mere du 49e chef conviennent de garder l'echec secret pour ne pas ecorner la legende. Frieren promet de revenir periodiquement eliminer les monstres attires par le sanctuaire.
+ - Schein et Heiter percoivent un echo de la Deesse en foulant la terre sainte. Cela ouvre une discussion theologique entre eux.
+ - Schein apprend a Heiter un sort de la Deesse inconnu du clerge : il dissipe temporairement le sommeil. (Le meme sort reapparaitra chez Sein, des decennies plus tard.)
+ - En echange, Heiter transmet a Schein la theologie clericale de la Deesse - dont la legende de l'ascension : une elfe si puissante qu'elle serait devenue dieu. Theorie batie sur son physique d'elfe ; le clerge ignore l'hybridite.
+ - Himmel supplie Schein d'essayer la lame. Schein refuse. Heiter juge que ce serait un blaspheme - la Deesse pourrait s'en prendre a un demon qui approche sa lame. Schein reste prudent et ne s'en approche pas.
+- **Personnages impliques** : Schein, Heiter, Himmel, Frieren, Eisen, chef du Village de l'Epee (49e, jeune) et sa grand-mere (du temps de la quete).
+- **Role de Schein** : double resonance. Le sanctuaire le reconnait sans que personne ne comprenne pourquoi - premier signe physique que sa nature touche au divin. Il enseigne un sort que le clerge n'a pas : l'ecart 70% vs 3% rendu concret. Et il refuse l'epee - prudence affichee, ou instinct sourd qu'il ne doit pas savoir ce qui arriverait s'il la touchait.
+- **Tchekhov** :
+ - Sort anti-sommeil de la Deesse - PLANTE ici (Schein -> Heiter). Payoff : le meme sort chez Sein sur la route d'Aeusserst (~An 95-96, malediction du sommeil).
+ - Magie de lumiere / nature divine de Schein - l'echo de la Deesse sur terre sainte est une preuve physique de plus, jamais expliquee.
+ - Nature de Schein (hybride) - Heiter decrit la Deesse comme une elfe devenue dieu ; personne ne fait le lien avec le demon a cote de lui, hybride comme elle. Ironie dramatique maximale.
+ - Potentiel de transcendance - l'epee " que seul le vrai heros tire " reste non approchee. Mine laissee intacte.
+- **Notes** : Distinguer la THEORIE clericale (elfe devenue dieu, basee sur le physique) de la VERITE de la Bible (la Deesse premiere hybride demon-elfe, cf. SB1). Heiter transmet la theorie, pas la verite ; ni lui ni Schein ne savent. La replique de Himmel : cf. SB7 (Epee du Heros, offerte par un colporteur, jamais pu tirer la vraie). La " deception de Schwer " (Etape 16) = cet echec de Himmel. Le combat contre les monstres du sanctuaire suit la regle du contrecoup (SB1) : cibles legitimes, debride = pas de dette.
 
 ---
 
@@ -53,7 +61,7 @@
 - **Personnages impliques** : groupe.
 - **Role de Schein** : repos. Moment de respiration.
 - **Tchekhov** : -
-- **Notes** : La " deception de Schwer " implique un echec ou une desillusion lors de l'etape precedente. A lier au detail canon de l'epee.
+- **Notes** : La " deception de Schwer " = l'echec de Himmel a tirer l'Epee du Heros (Etape 14, canon).
 
 ---
 
@@ -107,13 +115,13 @@
 
 ## Etape 20 - Offen (Boese - duel de Schein)
 
-- **Lieu** : Offen - village en region enneigee, territoire de Boese.
+- **Lieu** : Offen - village au pied des Montagnes d'Offen, region enneigee, territoire de Boese.
 - **Type** : village / territoire d'un Sage de la Destruction.
 - **Periode estimee** : An ~6.
 - **Statut** : divergence (duel de Schein). Canon (mort de Boese par le Groupe des Heros, attribution publique a Himmel).
 - **Evenements** :
  - Le groupe entre dans le secteur de Boese l'Immortel, Sage de la Destruction.
- - Schein demande un duel personnel. Des siecles de mepris au chateau a solder - Boese considerait l'empathie de Schein comme une faiblesse, une honte pour l'espece.
+ - Schein demande un duel personnel. Des siecles de mepris au chateau a solder - Boese considerait l'empathie de Schein comme une faiblesse, une honte pour l'espece, et se delectait de ses larmes et de ses " Merci, pere. " lors des tortures qu'il observait. Le duel est la reponse de Schein : prouver qu'il n'est pas faible a celui qui jouissait de sa douleur.
  - Boese accepte par certitude de gagner. Magie de barriere contre Zoltraak blanc.
  - Schein contourne la barriere : le Zoltraak blanc consume la chair demoniaque depuis le point d'impact. La barriere protege de l'exterieur, pas de l'interieur.
  - Victoire de Schein. Mort de Boese.
@@ -123,7 +131,7 @@
 - **Tchekhov** :
  - Empathie de Schein - il tue par necessite, pas par plaisir. Le duel est motive par la justice, pas la cruaute.
  - Peur d'aimer - il attribue la victoire a Himmel. Il refuse d'etre vu, meme dans la gloire.
-- **Notes** : Cf. Personnages/Boese. Le duel Schein/Boese est un des moments cles de la quete. La dynamique barriere vs. Zoltraak blanc est tactiquement coherente : Boese est un tank (survit a tout de l'exterieur) mais le Zoltraak blanc attaque la chair demoniaque elle-meme. Power-scaling : Schein (A) vs. Boese (A+, bas de gamme des Sages). Schein gagne parce que le matchup est favorable, pas parce qu'il est plus puissant.
+- **Notes** : Cf. Personnages/Boese. Le duel Schein/Boese est un des moments cles de la quete. La dynamique barriere vs. Zoltraak blanc est tactiquement coherente : Boese est un tank (survit a tout de l'exterieur) mais le Zoltraak blanc attaque la chair demoniaque elle-meme. Power-scaling : Schein (A) vs. Boese (A+, bas de gamme des Sages). Schein gagne parce que le matchup est favorable, pas parce qu'il est plus puissant. Note canon : dans le manga, la barriere de Boese cede a la force physique (un heros/guerrier exceptionnel l'ebreche) et c'est le Groupe des Heros qui le tue, en moins de 7 ans de quete. Ici, Schein le tue seul via le Zoltraak blanc ; Himmel et Eisen n'ebrechent pas la barriere. La victoire est publiquement attribuee a Himmel - en interne, c'est un duel solo de Schein.
 
 ---
 
@@ -168,7 +176,7 @@
 - **Periode estimee** : An ~6.
 - **Statut** : invention (evenement). Canon (lieu).
 - **Evenements** :
- - Relais avant Ausserst. Derniere grande cite avant l'examen.
+ - Relais avant Aeusserst. Derniere grande cite avant l'examen.
 - **Personnages impliques** : groupe.
 - **Role de Schein** : mineur. Preparation.
 - **Tchekhov** : -
@@ -178,12 +186,12 @@
 
 ## Etape 24 - Kuhl
 
-- **Lieu** : Kuhl - foret des Northern Lands, ouest, avant Ausserst.
+- **Lieu** : Kuhl - foret des Northern Lands, ouest, avant Aeusserst.
 - **Type** : foret.
 - **Periode estimee** : An ~6-7.
 - **Statut** : invention (evenement).
 - **Evenements** :
- - Foret calme. Derniere etape avant Ausserst.
+ - Foret calme. Derniere etape avant Aeusserst.
 - **Personnages impliques** : groupe.
 - **Role de Schein** : mineur. Calme avant la tempete emotionnelle.
 - **Tchekhov** : -
@@ -191,14 +199,14 @@
 
 ---
 
-## Etape 25 - Ausserst (revelation amoureuse)
+## Etape 25 - Aeusserst (revelation amoureuse)
 
-- **Lieu** : Ausserst - cite de l'examen de mage de premiere classe.
+- **Lieu** : Aeusserst - cite de l'examen de mage de premiere classe.
 - **Type** : cite majeure.
 - **Periode estimee** : An ~7.
 - **Statut** : divergence (revelation amoureuse Schein/Frieren pendant la quete de Himmel).
 - **Evenements** :
- - Passage du Groupe des Heros a Ausserst.
+ - Passage du Groupe des Heros a Aeusserst.
  - Schein et Frieren comprennent leurs sentiments, pousses par les trois autres (Himmel, Heiter, Eisen).
  - Himmel orchestre, Heiter pousse, Eisen couvre le flanc.
  - La bague de lotus : Himmel montre a Schein une bague sur un marche, sans lui en reveler le sens (amour eternel). Schein l'offre a Frieren sans savoir ce qu'il donne. Declaration d'amour involontaire.
@@ -209,7 +217,7 @@
  - Peur d'aimer de Schein - confrontee directement. Il ne la surmonte pas - il est deborde.
  - Journal de Himmel - Himmel consigne cet episode. Preuve future.
  - Empathie de Schein - les trois compagnons mortels agissent par affection sincere envers Schein et Frieren.
-- **Notes** : BIBLE SB6 confirme : " Passage du Groupe des Heros pendant la quete (revelation amoureuse Schein/Frieren). Retrouvailles Serie/Schein An ~81 (Tchekhov). " La revelation amoureuse a lieu pendant la quete, les retrouvailles avec Serie ~74 ans plus tard. Cf. Personnages/Himmel (charmeur taquin, bague de lotus), Personnages/Eisen (matchmaking), Personnages/Heiter (matchmaking).
+- **Notes** : La revelation amoureuse a lieu pendant la quete (cote aller). Les retrouvailles Serie/Schein a Aeusserst surviennent bien plus tard, cote retour - date post-Himmel a recaler : [A REMPLACER - DATE POST HIMMEL]. Cf. Personnages/Himmel (charmeur taquin, bague de lotus), Personnages/Eisen (matchmaking), Personnages/Heiter (matchmaking).
 
 ---
 

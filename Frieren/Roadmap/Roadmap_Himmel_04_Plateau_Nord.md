@@ -4,27 +4,27 @@
 - dossier : Roadmap
 - segment : Plateau Nord et assaut final
 - periode : An ~7-10
-- sources : BIBLE_LORE B11, canon anime S1-S2, decisions joueur OOC
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B11
+- sources : BIBLE_LORE B18, canon anime S1-S2, decisions joueur OOC
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B18
 
 ---
 
-## Etape 26 - Graf Dach (epee et pret)
+## Etape 26 - Domaine de Graf Dach (epee hereditaire, pret de Norm)
 
-- **Lieu** : Territoire de Graf Dach - domaine feodal du Plateau Nord.
-- **Type** : domaine noble depuis peu. territoire commercial/militaire.
+- **Lieu** : Domaine de Graf Dach - Plateau Nord. Fonde par Lord Norm, marchand-explorateur arrive avec sa compagnie marchande et devenu seigneur des lieux.
+- **Type** : domaine feodal recent, a vocation commerciale et militaire.
 - **Periode estimee** : An ~7-8.
-- **Statut** : canon (le Hero Party recoit la demande du seigneur Norm de recuperer son epee. Le groupe recupere l'epee volee de Graf Dach par un demon, puis le Hero Party recoit un pret de Lord Norm).
+- **Statut** : canon (epee hereditaire volee a recuperer, pret accorde par Norm).
 - **Evenements** :
- - Le groupe arrive au territoire de la Compagnie Norm sur le Plateau Nord.
- - Un demon a vole l'epee hereditaire de Graf Dach. Lord Norm les engage.
- - Schein parle de la fierte comme seule faiblesse des rares emotions que les demons possedent. L'epee etait d'abord aux demons, quand ils la recuperent ils commettent des massacres par fierte. Moment de lore demoniaque devant un public humain.
- - Le groupe la recupere. Lord Norm leur accorde un pret genereux, bien plus que la recompense, pour financer la suite du voyage.
-- **Personnages impliques** : Lord Norm, Himmel, Schein, groupe.
-- **Role de Schein** : revelation lore. Schein partage une verite sur les demons depuis l'interieur - la fierte (mana = dignite, cf. BIBLE SB1) est la seule faille emotionnelle des demons. Ce n'est pas de l'empathie - c'est de l'orgueil, le seul sentiment que l'espece possede naturellement. Information precieuse pour des humains qui combattent des demons.
+ - Le groupe arrive au domaine de Graf Dach. Lord Norm, ancien marchand-explorateur, l'a fonde en s'y etablissant avec sa compagnie ; il en est le seigneur.
+ - Un demon a vole l'epee hereditaire de sa maison. Norm engage le groupe pour la recuperer.
+ - Schein parle de la fierte comme seule faille emotionnelle des demons : l'epee fut d'abord aux demons, et ils massacrent par orgueil pour la reprendre. Lore demoniaque livre depuis l'interieur, devant un public humain.
+ - Le groupe recupere l'epee. Norm accorde au Groupe des Heros une recompense et un pret genereux, bien au-dela de la prime, pour financer la suite du voyage. (Cet argent financera plus tard le pont de Gehen, cf. Etape 28.)
+- **Personnages impliques** : Lord Norm, Himmel, Schein, Frieren, Eisen, Heiter.
+- **Role de Schein** : revelation lore. Schein livre une verite sur les demons vue de l'interieur - la fierte (mana = dignite, cf. SB1) est la seule faille emotionnelle de l'espece. Pas de l'empathie : de l'orgueil, le seul sentiment que les demons possedent nativement. Information precieuse pour des humains qui les combattent.
 - **Tchekhov** : -
-- **Notes** : Canon confirme : Lord Norm a soutenu le Hero Party par un pret. Ce pret genere une dette que Frieren rembourse ~15 ans apres la mort de Himmel (ere Fern, canon S2). Fiche Norm a creer. Le Norm actuel (ere Fern) est le petit-fils du fondateur.
+- **Notes** : Fusion Norm / Graf Dach : Norm est le marchand-explorateur fondateur du domaine de Graf Dach, et son seigneur. L'epee hereditaire, la recompense et le pret viennent donc de la meme maison ; c'est aussi son argent qui finance le pont de Gehen (Etape 28). Le pret genere une dette que Frieren rembourse aupres du petit-fils de Norm pendant l'ere Fern (canon S2). Fiche Norm a creer. -> SB6 : fusionner les entrees " Compagnie Norm " et " Graf Dach ".
 
 ---
 
@@ -59,7 +59,7 @@
 - **Role de Schein** : temoin d'un acte de foi dans le futur. Himmel investit dans quelque chose qu'il ne verra jamais. Pour un demon millenaire, c'est un acte incomprehensible et profondement humain. Miroir : Schein a passe un millenaire a survivre, Himmel depense ses dernieres ressources pour ceux qui viendront apres lui.
 - **Tchekhov** :
  - Empathie de Schein - comprehension d'une vertu humaine que les demons ne peuvent pas concevoir : l'altruisme a long terme.
-- **Notes** : Canon integral. Le pont sera termine 200 ans plus tard. Frieren y retourne avec Fern et Stark ~15 ans apres la mort de Himmel - Gehen a a peine commence, les gens sont venus l'aider, un village commence a se reconstruire. Himmel avait raison. Fiche Gehen a creer.
+- **Notes** : Canon integral. Le pont sera termine 200 ans plus tard. Frieren y retourne avec Fern et Stark [A REMPLACER - DATE POST HIMMEL] - Gehen a a peine commence, les gens sont venus l'aider, un village commence a se reconstruire. Himmel avait raison. Fiche Gehen a creer.
 
 ---
 
@@ -80,11 +80,32 @@
 
 ---
 
-## Etape 30 - Monument de la Deesse (embuscade, ~An 7)
+## Etape 30 - Fabel (statue du Heros du Sud)
+
+- **Lieu** : Fabel - village du Plateau Nord, Terres du Nord.
+- **Type** : village.
+- **Periode estimee** : An ~8-9.
+- **Statut** : canon (Fabel garde la statue du Heros du Sud). Divergence (Schein present, souvenir direct de la hutte).
+- **Evenements** :
+ - Le groupe traverse Fabel. Une statue de bronze y trone : celle du Heros du Sud, pas de Himmel. Les habitants l'entretiennent et perpetuent sa memoire.
+ - Himmel se tient devant une ville qui immortalise un autre heros que lui - precisement celui qui avait predit sa venue a Frieren. Il n'en prend aucun ombrage.
+ - Frieren raconte les exploits du Heros du Sud : avoir aneanti seul les troupes de premiere ligne du Roi en un an, puis, dans un 8 contre 1 (Schlacht et les 7 Sages), tue Schlacht et 3 Sages avant de tomber.
+ - Elle raconte aussi sa visite a la hutte (~51 av.) : sa vision parfaite du futur lui avait deja tout montre, il n'a pas bronche devant Schein, l'a regarde sans peur ni fascination - juste de la reconnaissance. Sa promesse " je tracerai le chemin " s'adressait aux deux. Schein s'en souvient directement.
+- **Personnages impliques** : Schein, Frieren, Himmel, Heiter, Eisen, habitants de Fabel (non nommes). [Heros du Sud : mort ~50 av., statue seulement.]
+- **Role de Schein** : memoire et reconnaissance. Le premier humain a l'avoir regarde sans peur est mort en heros, et une ville l'immortalise. Schein, demon, se tient devant le monument d'un homme qui a tue des demons (Sages) - et qui pourtant l'avait accepte, lui, sans un mot de trop. Resonance directe avec ce que Himmel est en train de devenir pour lui.
+- **Tchekhov** :
+ - Empathie de Schein / peur d'aimer - le Heros du Sud, premier humain a l'accueillir avec reconnaissance, prefigure Himmel.
+ - Vision du futur du Heros du Sud - il savait deja tout de Schein a la hutte et n'en a rien dit de plus. Ce qu'il a vu de l'avenir de Schein reste scelle avec lui.
+ - Longevite et memoire - qui une ville choisit d'immortaliser, qui le monde oublie. Miroir de la mort future de Himmel (An 65) et de l'effacement des heros.
+- **Notes** : Canon ch. 63 : Fabel garde la statue du Heros du Sud, polie par des habitants reconnaissants ; le Groupe de Frieren (ere Fern) y revient ~29 ans apres la mort de Himmel (Ere 4). Fabel est donc un lieu a deux passages : aller ici, retour en Ere 4. Parallele assume avec la statue de Schein a Waal (Etape 11, Himmel_02) : une ville qui immortalise un autre que Himmel. Cf. Personnages/Heros_Du_Sud + SB5. -> SB6 : ajouter Fabel (absent).
+
+---
+
+## Etape 31 - Monument de la Deesse (embuscade, ~An 7)
 
 - **Lieu** : Monument de la Deesse - lieu sacre, Plateau Nord.
 - **Type** : site sacre / champ de bataille.
-- **Periode estimee** : An ~7 (note : placement chronologique - cet evenement peut se situer avant les etapes 28-30 sur le plan temporel, le numerotage suit l'ordre geographique du trace).
+- **Periode estimee** : An ~7 (note : placement chronologique - cet evenement peut se situer avant les etapes 27-30 sur le plan temporel, le numerotage suit l'ordre geographique du trace).
 - **Statut** : canon (arc du Monument). Divergence (role de Schein, Solitaer epargnee).
 - **Evenements** :
  - Le Roi des Demons detecte une interference spatio-temporelle au Monument de la Deesse.
@@ -99,15 +120,15 @@
  - Grausam a recupere des bribes de souvenirs de Frieren-du-futur : moments de douceur avec Flamme et avec Schein.
  - Frieren retourne dans le present via le Monument.
 - **Personnages impliques** : Frieren (presente + future), Himmel, Heiter, Eisen, Schein, Solitaer, Grausam, Rivale, Zart.
-- **Role de Schein** : deux roles distincts. Combattant pendant l'embuscade. Negociateur apres - il epargne Solitaer, acte de misericorde envers un demon, en contradiction avec son statut de chasseur de demons. Ce geste est coherent avec son empathie mais cree une tension : Solitaer survivra et affrontera Frieren a Weise (~An 81), ou Fern la tuera.
+- **Role de Schein** : deux roles distincts. Combattant pendant l'embuscade. Negociateur apres - il epargne Solitaer, acte de misericorde envers un demon, en contradiction avec son statut de chasseur de demons. Ce geste est coherent avec son empathie mais cree une tension : Solitaer survivra et affrontera Frieren a Weise ([A REMPLACER - WEISE POST HIMMEL]), ou Fern la tuera.
 - **Tchekhov** :
  - Empathie de Schein - epargner un demon par gratitude, malgre le danger futur.
  - Magie de lumiere dans un demon - Frieren-du-futur possede des souvenirs de Schein, recuperes partiellement par Grausam.
-- **Notes** : Arc du Monument canon preserve avec ajout divergent (Schein present, Solitaer epargnee). La clemence de Schein envers Solitaer a des consequences : Solitaer brise la barriere de Weise ~An 81, menant a la mort de Macht. Fiche Solitaer : rapport mis a jour (epargnee par Schein, dette passee).
+- **Notes** : Arc du Monument canon preserve avec ajout divergent (Schein present, Solitaer epargnee). La clemence de Schein envers Solitaer a des consequences : Solitaer brise la barriere de Weise [A REMPLACER - WEISE POST HIMMEL], menant a la mort de Macht. Fiche Solitaer : rapport mis a jour (epargnee par Schein, dette passee).
 
 ---
 
-## Etape 31 - Affrontement contre Grausam (Schein en retrait)
+## Etape 32 - Affrontement contre Grausam (Schein en retrait)
 
 - **Lieu** : Plateau Nord, localisation non precisee.
 - **Type** : champ de bataille.
@@ -126,7 +147,7 @@
 
 ---
 
-## Etape 32 - Escouade lourde de demons
+## Etape 33 - Escouade lourde de demons
 
 - **Lieu** : Approches d'Ende, Plateau Nord.
 - **Type** : champ de bataille.
@@ -142,7 +163,7 @@
 
 ---
 
-## Etape 33 - Chateau du Roi des Demons (An 10)
+## Etape 34 - Chateau du Roi des Demons (An 10)
 
 - **Lieu** : Demon King's Castle - Ende, extreme nord du continent.
 - **Type** : forteresse / siege du Roi des Demons.
@@ -161,7 +182,7 @@
  - Prediction de Schlacht - realisee. Schein provoque la chute du Roi, exactement comme predit.
  - " Merci, pere. " - dernier usage ? Silence ? Changement de formule ? Le marqueur de la relation Schein/Roi trouve ici sa resolution ou sa transformation.
  - Empathie de Schein - il tue par necessite, avec tout le poids emotionnel d'un fils face a un pere-bourreau.
- - Bague de lotus - Schein combat avec la bague au doigt, offerte a Frieren mais symboliquement presente.
+ - Bague de lotus - Frieren porte la bague depuis le premier passage a Aeusserst, symbole de leur union, symboliquement presente dans le combat.
 - **Notes** : Moment climactique du RP pour l'ere Himmel. Le detail du combat (tactique, deroulement, dernieres paroles) sera joue en narration, pas pre-ecrit ici. La roadmap pose le cadre, pas la scene. Cf. Personnages/Roi_Des_Demons, BIBLE SB3.
 
 ---

@@ -4,9 +4,9 @@
 - dossier : Roadmap
 - segment : Traversee des Terres Centrales
 - periode : An ~1-5
-- sources : BIBLE_LORE B11, canon anime S1-S2, decisions joueur OOC
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B11
+- sources : BIBLE_LORE B18, canon anime S1-S2, decisions joueur OOC
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B18
 
 ---
 
@@ -49,15 +49,15 @@
 
 ---
 
-## Etape 7 - Grosse Forest (scellement de Qual)
+## Etape 7 - Groesse Forest (scellement de Qual)
 
-- **Lieu** : Grosse Forest - foret dense, centre-est des Central Lands. Site de scellement de Qual.
+- **Lieu** : Groesse Forest - foret dense, centre-est des Central Lands. Site de scellement de Qual.
 - **Type** : foret, lieu de combat majeur.
 - **Periode estimee** : An ~3.
 - **Statut** : canon (scellement de Qual ~An 3). Divergence (role de Schein).
 - **Evenements** :
  - Le Groupe des Heros localise Qual, le Sage Ancien de la Corruption, createur du Zoltraak.
- - Combat et scellement de Qual. Qual est scelle, pas tue (il sera libere et tue ~An 77 par Frieren et Fern).
+ - Combat et scellement de Qual. Qual est scelle, pas tue (il sera libere et tue ~An 92 par Frieren et Fern).
  - Schein ne combat pas. Par respect pour l'un de ses mentors. Meme reflexe que plus tard face a Grausam.
 - **Personnages impliques** : Qual, Frieren, Himmel, Eisen, Heiter, Schein.
 - **Role de Schein** : retrait delibere. Qual lui a enseigne le Zoltraak - Schein a produit la variante blanche, plus rapide que Qual a le lancer. Combattre son mentor serait une trahison de la dette. Ce retrait revele la hierarchie de valeurs de Schein : la loyaute envers ceux qui l'ont aide prime sur l'efficacite tactique. Cf. Personnages/Qual.
@@ -119,16 +119,23 @@
 
 ## Etape 11 - Waal
 
-- **Lieu** : Waal - cite fortifiee des Central Lands.
-- **Type** : cite fortifiee.
+- **Lieu** : Waal - cite fortifiee des Central Lands, pres des Canyons de Bakur.
+- **Type** : cite fortifiee, place forte militaire.
 - **Periode estimee** : An ~4-5.
-- **Statut** : invention. Role a definir.
+- **Statut** : invention (evenement). Canon (lieu).
 - **Evenements** :
- - [A DEVELOPPER] - le joueur a note " role a definir ". Etape structurelle sur le trajet.
-- **Personnages impliques** : groupe.
-- **Role de Schein** : [A DEVELOPPER].
-- **Tchekhov** : -
-- **Notes** : Waal est un lieu canon visible sur la carte. L'evenement qui s'y deroule est a definir par le joueur.
+ - A l'entree, la garnison impose a Schein une interdiction d'utiliser sa magie dans l'enceinte. Mefiance d'une place forte face a un demon - meme reflexe que Grun et la Capitale, durci par le contexte de garnison. Schein s'y plie : il bride deja sa nature depuis plus d'un an de voyage, l'interdiction ne fait que s'ajouter.
+ - Pendant le sejour, Waal est prise d'assaut par une horde de demons.
+ - Schein se debride totalement. L'ego de demon refoule depuis des mois trouve une sortie : il dechaine sa puissance sans aucune mesure, sur des cibles legitimes.
+ - Il porte la victoire quasi seul. Debridage total sur ennemi legitime = aucune retenue emmagasinee = aucun contrecoup bestial. La violence sort entierement, rien ne stocke.
+ - La cite le celebre. Pour une fois, Schein est vu en heros - non par une institution, mais par toute la population.
+- **Personnages impliques** : Schein, Himmel, Frieren, Heiter, Eisen, garnison et habitants de Waal (non nommes), demons assaillants (non nommes).
+- **Role de Schein** : exutoire. L'autolimitation qu'il s'impose d'habitude pour proteger ses allies est ici levee sans risque : la horde absorbe toute sa violence, l'ennemi est legitime. Premier et unique contexte ou il peut etre pleinement un demon de guerre sans danger pour les siens ni dette a payer. L'ironie : c'est en cessant de se brider qu'il devient inoffensif pour son groupe.
+- **Tchekhov** :
+ - Contrecoup bestial - illustration de la regle clarifiee (cf. SB1) : c'est la mesure qui coute, pas la puissance. Le bridage emmagasine la faim de tuer ; le debridage total sur cible legitime ne produit aucun contrecoup.
+ - Statue de Schein / " seul demon gentil " - PLANTE ici. Waal est la seule cite a eriger une statue de Schein (et non de Himmel) et a perpetuer la connaissance d'un demon bienveillant. Payoff au re-passage en Ere 4 (~An 93) - NON traite dans ce roadmap.
+ - Peur d'aimer / empathie de Schein - il intervient par besoin de proteger une ville qui le rejetait encore la veille.
+- **Notes** : Registres separes a tenir pour eviter le doublon - Strahl (Etape 5) = reconnaissance clericale que Schein REFUSE (il ne veut pas etre mentionne, pour ne pas banaliser l'idee d'un gentil demon) ; Waal = liesse populaire qu'il SUBIT sans pouvoir l'empecher. Noeud tragique : il fuit l'image, une ville reconnaissante la lui grave dessus. Parallele canon : Fabel garde la statue du Heros du Sud et non celle de Himmel (ch. 63) - meme idee d'une cite qui immortalise un autre que Himmel. La statue de Waal montre Schein seul et a visage decouvert ; contraste avec la statue de groupe de Graf Granat (retour), ou il n'est qu'une silhouette encapuchonnee. La clarification du contrecoup est a verrouiller en SB1 et a propager au patch de fin d'ere.
 
 ---
 
@@ -142,17 +149,17 @@
  - Le Groupe des Heros arrive pres du domaine de Graf Granat.
  - Escarmouche avec Aura la Guillotine et son armee de morts-vivants.
  - Himmel blesse Aura. Elle fuit et se cache.
- - Aura ne reapparaitra qu'apres la mort de Himmel (~An 78, arc canon Frieren/Fern).
+ - Aura ne reapparaitra qu'apres la mort de Himmel (~An 94, arc canon Frieren/Fern).
 - **Personnages impliques** : Himmel, Frieren, Schein, Eisen, Heiter, Aura.
 - **Role de Schein** : BIBLE SB5 Aura : " peur de Schein, humiliee par sa passivite lors du combat contre Frieren ". Schein ne s'implique pas activement dans le combat contre Aura - c'est Himmel et Frieren qui portent le coup. La passivite de Schein est une humiliation supplementaire pour Aura (un demon qui ne daigne meme pas la combattre). Cf. Personnages/Aura.
 - **Tchekhov** : -
-- **Notes** : Evenement canon confirme. Apres la defaite, Aura entre en guerre prolongee contre le domaine. La mort du fils de Graf Granat survient ~10 ans avant l'arrivee de Frieren/Fern (~An 78). Tout cela est post-Himmel.
+- **Notes** : Evenement canon confirme. Apres la defaite, Aura entre en guerre prolongee contre le domaine. La mort du fils de Graf Granat survient ~10 ans avant l'arrivee de Frieren/Fern (~An 94). Tout cela est post-Himmel.
 
 ---
 
 ## Etape 13 - Decke
 
-- **Lieu** : Decke - region/ville des Central Lands, au nord de Vaal, frontiere avec les Terres du Nord.
+- **Lieu** : Decke - region/ville des Central Lands, au nord de Waal, frontiere avec les Terres du Nord.
 - **Type** : region montagneuse/enneigee.
 - **Periode estimee** : An ~5.
 - **Statut** : invention (evenement). Canon (lieu).
