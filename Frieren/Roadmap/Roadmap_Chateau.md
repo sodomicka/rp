@@ -5,15 +5,15 @@
 - segment : Ere du Chateau
 - periode : ~1 490 a ~990 av. An 0 (~500 ans)
 - sources : BIBLE_LORE B7, Personnages/Roi_Des_Demons, Personnages/Schlacht, Personnages/Grausam, Personnages/Qual, Personnages/Boese, Personnages/Macht, Personnages/Solitaer, Personnages/Basalt_Porphyr_Gabbro, Demons/Societe_Et_Plan_Du_Roi, Demons/Hierarchie_Et_Territoire, Demons/Emotions_Et_Instincts, Chronologie/Ere_1_Roi_des_Demons, decisions joueur OOC
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B7
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B23
 
 ## Synthese
 
 - **Theme** : formation et destruction - Schein forge par le Roi, puis brise, puis expulse.
 - **Fil d'evolution de Schein** : enfant anomal -> prince-arme -> executeur -> sujet d'experience -> debris -> rage -> exil.
 - **Pacing** : lent. Snapshots par decennie ou demi-siecle. 5 blocs, chacun contenant plusieurs etapes jouables.
-- **Bascule vers l'ere suivante** : massacre du village elfe, tentative de coup, sceau du bras, fuite.
+- **Bascule vers l'ere suivante** : massacre de Bluete, tentative de coup, sceau du bras, fuite.
 
 ---
 
@@ -265,14 +265,14 @@
 - **Tchekhov** :
  - " Merci, pere. " - absent. Le Roi constate que meme la tendresse simulee ne ramene pas le rituel. La brisure est plus profonde que prevu - ou differente de ce qu'il imaginait.
 
-### Etape 5.2 - Massacre du village elfe
+### Etape 5.2 - Massacre de Bluete
 
-- **Lieu** : village elfe - localisation indeterminee, Terres Centrales probablement.
+- **Lieu** : Bluete - village elfe des Terres Centrales.
 - **Type** : mission, evenement majeur, point de rupture.
 - **Periode estimee** : ~990 av. An 0, fin de la semaine de confort.
 - **Statut** : divergence RP (details), canon pour le massacre et la rencontre Frieren.
 - **Evenements** :
- - Le Roi ordonne le massacre du village elfe. Le genocide des elfes est un protocole en cours - seule espece rivale en longevite et savoir magique.
+ - Le Roi ordonne le massacre de Bluete. Le genocide des elfes est un protocole en cours, mais ce village - gros, ancien, volontairement epargne jusque-la - est garde en reserve et employe comme arme pour briser Schein. Les elfes : seule espece rivale en longevite et savoir magique.
  - L'escouade se partage le village sous le commandement de Schein : les quatre demons (Schein, Basalt, Porphyr, Gabbro) se chargent chacun d'une portion. Schein massacre la sienne - vide, brise par un an de cellule et creuse par la semaine de confort. 230 victimes au total.
  - Frieren (~300 ans, ~15 apparents) abat Basalt. La perturbation de mana de sa chute attire Schein vers cette partie du village.
  - Frieren se defend et detruit la main gauche de Schein.

@@ -5,8 +5,8 @@
 - segment : Plateau Nord et assaut final
 - periode : An ~7-10
 - sources : BIBLE_LORE B18, canon anime S1-S2, decisions joueur OOC
-- version : W3
-- bible rattachee : BIBLE_LORE_FRIEREN B18
+- version : W4
+- bible rattachee : BIBLE_LORE_FRIEREN B21
 
 ---
 
@@ -59,7 +59,7 @@
 - **Role de Schein** : temoin d'un acte de foi dans le futur. Himmel investit dans quelque chose qu'il ne verra jamais. Pour un demon millenaire, c'est un acte incomprehensible et profondement humain. Miroir : Schein a passe un millenaire a survivre, Himmel depense ses dernieres ressources pour ceux qui viendront apres lui.
 - **Tchekhov** :
  - Empathie de Schein - comprehension d'une vertu humaine que les demons ne peuvent pas concevoir : l'altruisme a long terme.
-- **Notes** : Canon integral. Le pont sera termine 200 ans plus tard. Frieren y retourne avec Fern et Stark [A REMPLACER - DATE POST HIMMEL] - Gehen a a peine commence, les gens sont venus l'aider, un village commence a se reconstruire. Himmel avait raison. Fiche Gehen a creer.
+- **Notes** : Canon integral. Le pont sera termine 200 ans plus tard. Frieren y retourne avec Fern et Stark (Ere 5, post-Aeusserst, date a definir) - Gehen a a peine commence, les gens sont venus l'aider, un village commence a se reconstruire. Himmel avait raison. Fiche Gehen a creer.
 
 ---
 
@@ -120,11 +120,11 @@
  - Grausam a recupere des bribes de souvenirs de Frieren-du-futur : moments de douceur avec Flamme et avec Schein.
  - Frieren retourne dans le present via le Monument.
 - **Personnages impliques** : Frieren (presente + future), Himmel, Heiter, Eisen, Schein, Solitaer, Grausam, Rivale, Zart.
-- **Role de Schein** : deux roles distincts. Combattant pendant l'embuscade. Negociateur apres - il epargne Solitaer, acte de misericorde envers un demon, en contradiction avec son statut de chasseur de demons. Ce geste est coherent avec son empathie mais cree une tension : Solitaer survivra et affrontera Frieren a Weise ([A REMPLACER - WEISE POST HIMMEL]), ou Fern la tuera.
+- **Role de Schein** : deux roles distincts. Combattant pendant l'embuscade. Negociateur apres - il epargne Solitaer, acte de misericorde envers un demon, en contradiction avec son statut de chasseur de demons. Ce geste est coherent avec son empathie mais cree une tension : Solitaer survivra et affrontera Frieren a Weise (~An 98), ou Fern la tuera.
 - **Tchekhov** :
  - Empathie de Schein - epargner un demon par gratitude, malgre le danger futur.
  - Magie de lumiere dans un demon - Frieren-du-futur possede des souvenirs de Schein, recuperes partiellement par Grausam.
-- **Notes** : Arc du Monument canon preserve avec ajout divergent (Schein present, Solitaer epargnee). La clemence de Schein envers Solitaer a des consequences : Solitaer brise la barriere de Weise [A REMPLACER - WEISE POST HIMMEL], menant a la mort de Macht. Fiche Solitaer : rapport mis a jour (epargnee par Schein, dette passee).
+- **Notes** : Arc du Monument canon preserve avec ajout divergent (Schein present, Solitaer epargnee). La clemence de Schein envers Solitaer a des consequences : Solitaer brise la barriere de Weise ~An 98, menant a la mort de Macht. Fiche Solitaer : rapport mis a jour (epargnee par Schein, dette passee).
 
 ---
 

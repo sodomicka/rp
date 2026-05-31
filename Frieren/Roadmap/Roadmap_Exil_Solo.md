@@ -5,8 +5,8 @@
 - segment : Ere de l'Exil solo
 - periode : ~990 a ~890 av. An 0 (~100 ans)
 - sources : BIBLE_LORE B8, Chronologie/Ere_2_Exil_et_Rencontre, Personnages/Serie_Rapport_Schein, Personnages/Frieren_Rapport_Schein, Demons/Emotions_Et_Instincts, Roadmap/Roadmap_Chateau (transition), decisions joueur OOC
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B8
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B23
 
 ## Synthese
 
@@ -78,7 +78,7 @@ Aucun contact non-violent pendant toute l'ere. Les survivants qu'il sauve sont t
 - **Evenements** :
  - Schein capte l'odeur du sang humain. Il suit la piste.
  - Il arrive sur un village en cours de massacre par des demons mineurs. Carnage en cours.
- - Flash du village elfe - il se revoit dans les demons qui massacrent. L'escouade, Basalt a la tete de l'assaut, les 230 morts. Il voit son propre passe dans le spectacle.
+ - Flash de Bluete - il se revoit dans les demons qui massacrent. L'escouade qu'il menait, Basalt le secondant, les 230 morts. Il voit son propre passe dans le spectacle.
  - Il intervient. Pas par compassion pure - par haine de ce qu'il a ete. Les deux pulsions (haine de l'ancien lui + empathie pour les victimes) pointent dans la meme direction. Il demolit les demons.
  - Premier contrecoup bestial en liberte. Sans allies a proteger, le risque est different : c'est lui qui perd le controle pour lui-meme. La rage du contrecoup se mele a la rage de la memoire.
  - Quelques survivants. Terrifies. Un demon vient de tuer des demons sous leurs yeux - et il grogne, les yeux vides, un bras mort, couvert de mana ennemie qui se desintegre. Ils fuient.

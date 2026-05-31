@@ -5,8 +5,8 @@
 - segment : Traversee des Terres du Nord
 - periode : An ~5-7
 - sources : BIBLE_LORE B18, canon anime S1-S2, decisions joueur OOC
-- version : W4
-- bible rattachee : BIBLE_LORE_FRIEREN B18
+- version : W6
+- bible rattachee : BIBLE_LORE_FRIEREN B22
 
 ---
 
@@ -23,7 +23,7 @@
  - Schein apprend a Heiter un sort de la Deesse inconnu du clerge : il dissipe temporairement le sommeil. (Le meme sort reapparaitra chez Sein, des decennies plus tard.)
  - En echange, Heiter transmet a Schein la theologie clericale de la Deesse - dont la legende de l'ascension : une elfe si puissante qu'elle serait devenue dieu. Theorie batie sur son physique d'elfe ; le clerge ignore l'hybridite.
  - Himmel supplie Schein d'essayer la lame. Schein refuse. Heiter juge que ce serait un blaspheme - la Deesse pourrait s'en prendre a un demon qui approche sa lame. Schein reste prudent et ne s'en approche pas.
-- **Personnages impliques** : Schein, Heiter, Himmel, Frieren, Eisen, chef du Village de l'Epee (49e, jeune) et sa grand-mere (du temps de la quete).
+- **Personnages impliques** : Schein, Heiter, Himmel, Frieren, Eisen, la grand-mere du (futur) 49e chef - cheffe du village au temps de la quete (le 49e chef, encore enfant, accueillera Frieren a la revisite Ere 4).
 - **Role de Schein** : double resonance. Le sanctuaire le reconnait sans que personne ne comprenne pourquoi - premier signe physique que sa nature touche au divin. Il enseigne un sort que le clerge n'a pas : l'ecart 70% vs 3% rendu concret. Et il refuse l'epee - prudence affichee, ou instinct sourd qu'il ne doit pas savoir ce qui arriverait s'il la touchait.
 - **Tchekhov** :
  - Sort anti-sommeil de la Deesse - PLANTE ici (Schein -> Heiter). Payoff : le meme sort chez Sein sur la route d'Aeusserst (~An 95-96, malediction du sommeil).
@@ -217,7 +217,7 @@
  - Peur d'aimer de Schein - confrontee directement. Il ne la surmonte pas - il est deborde.
  - Journal de Himmel - Himmel consigne cet episode. Preuve future.
  - Empathie de Schein - les trois compagnons mortels agissent par affection sincere envers Schein et Frieren.
-- **Notes** : La revelation amoureuse a lieu pendant la quete (cote aller). Les retrouvailles Serie/Schein a Aeusserst surviennent bien plus tard, cote retour - date post-Himmel a recaler : [A REMPLACER - DATE POST HIMMEL]. Cf. Personnages/Himmel (charmeur taquin, bague de lotus), Personnages/Eisen (matchmaking), Personnages/Heiter (matchmaking).
+- **Notes** : La revelation amoureuse a lieu pendant la quete (cote aller). Les retrouvailles Serie/Schein a Aeusserst surviennent bien plus tard, cote retour - date post-Himmel : An 96 (cf. Roadmap_Fern_Stark_02 etape 24, Ere 4). Cf. Personnages/Himmel (charmeur taquin, bague de lotus), Personnages/Eisen (matchmaking), Personnages/Heiter (matchmaking).
 
 ---
 
