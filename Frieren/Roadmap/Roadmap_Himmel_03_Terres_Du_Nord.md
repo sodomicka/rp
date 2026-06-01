@@ -5,8 +5,8 @@
 - segment : Traversee des Terres du Nord
 - periode : An ~5-7
 - sources : BIBLE_LORE B18, canon anime S1-S2, decisions joueur OOC
-- version : W6
-- bible rattachee : BIBLE_LORE_FRIEREN B22
+- version : W7
+- bible rattachee : BIBLE_LORE_FRIEREN B28
 
 ---
 
@@ -209,7 +209,7 @@
  - Passage du Groupe des Heros a Aeusserst.
  - Schein et Frieren comprennent leurs sentiments, pousses par les trois autres (Himmel, Heiter, Eisen).
  - Himmel orchestre, Heiter pousse, Eisen couvre le flanc.
- - La bague de lotus : Himmel montre a Schein une bague sur un marche, sans lui en reveler le sens (amour eternel). Schein l'offre a Frieren sans savoir ce qu'il donne. Declaration d'amour involontaire.
+ - La bague de lotus : Himmel montre a Schein une bague sur un marche et lui dit de l'offrir a Frieren, sans lui en reveler le sens (amour eternel). Schein l'offre a Frieren sans savoir ce qu'il donne. Declaration d'amour involontaire.
 - **Personnages impliques** : Schein, Frieren, Himmel, Heiter, Eisen.
 - **Role de Schein** : bascule emotionnelle. Apres des siecles de peur d'aimer, Schein est pousse par ses compagnons vers ce qu'il refuse de nommer. La bague de lotus est le point de rupture - un geste d'amour qu'il fait sans le savoir, orchestre par Himmel qui a tout compris.
 - **Tchekhov** :

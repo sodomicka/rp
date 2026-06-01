@@ -5,8 +5,8 @@
 - segment : Traversee des Terres du Nord jusqu'a Aeusserst
 - periode : An ~94 - An 96
 - sources : BIBLE_LORE B22, Chronologie/Ere_4_Fern_Et_Stark (local, W2), Roadmap Himmel_02-05, canon anime S1-S2 + Timeline fandom (arc Travels to Aeusserst, "29 ans apres Himmel"), decisions joueur OOC 2026-05-31
-- version : W4
-- bible rattachee : BIBLE_LORE_FRIEREN B22
+- version : W5
+- bible rattachee : BIBLE_LORE_FRIEREN B28
 
 ---
 
@@ -111,10 +111,10 @@
 - **Statut** : canon (18 ans de Fern, bracelet, Sein conseille, Stark gene). Divergence RP (bague de lotus, cadeaux de Schein).
 - **Evenements** :
  - Le groupe fete les 18 ans de Fern. Stark a oublie ; Sein le conseille. Stark offre un bracelet a motif de lotus en miroir - symbole d'amour eternel - sans le savoir. Sein identifie le motif. Stark gene.
- - Schein percute : il a offert la bague de lotus a Frieren a Aeusserst (An ~7) sans savoir ce qu'il donnait. Le declic se fait.
+ - Schein percute : il a offert la bague de lotus a Frieren a Aeusserst (An ~7) sans savoir ce qu'il donnait. Frieren percute en meme temps ce qu'elle a recu. Le declic se fait pour les deux.
  - Detail : Schein ne rate jamais un anniversaire. Ses cadeaux sont utiles (bottes, echarpe, lanieres de hache). Un etre qui n'a jamais rien possede montre l'amour par l'utile. La seule fois ou il offre du symbolique, c'est par accident.
 - **Personnages impliques** : Fern, Stark, Sein, Schein, Frieren.
-- **Role de Schein** : detonation du Tchekhov bague de lotus. ~88 ans apres l'avoir offerte, il comprend ce qu'il a donne a Frieren.
+- **Role de Schein** : detonation du Tchekhov bague de lotus. ~88 ans apres l'avoir offerte, lui et Frieren comprennent en meme temps ce qu'ils se sont echange.
 - **Tchekhov** :
  - Bague de lotus - DETONATION (plantee a Aeusserst aller, Himmel_03 etape 25).
  - Peur d'aimer - le geste d'amour involontaire devient conscient.

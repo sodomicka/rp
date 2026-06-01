@@ -4,9 +4,9 @@
 - dossier : Roadmap
 - segment : Plateau Nord - traversee post-examen et Revolte le Divin
 - periode : An ~96-97 (Ere 5)
-- sources : BIBLE_LORE B25, Roadmap_Aeusserst (etape 5a, entree), Roadmap_Himmel_04_Plateau_Nord (calque geographique, etapes 26-30), Personnages/ (Norm, Gehen, Heros_Du_Sud, Genau, Methode, Falsch_Frei_Burg pour Frei, Stark, Fern), canon anime S1-S2 + manga (arcs Continued Northern Travels et Divine Revolte / Revolte le Divin), decisions joueur OOC 2026-05-31
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B25
+- sources : BIBLE_LORE B28, Roadmap_Aeusserst (etape 5a, entree), Roadmap_Himmel_04_Plateau_Nord (calque geographique, etapes 26-30), Personnages/ (Norm, Gehen, Heros_Du_Sud, Genau, Methode, Falsch_Frei_Burg pour Frei, Stark, Fern), canon anime S1-S2 + manga (arcs Continued Northern Travels et Divine Revolte / Revolte le Divin), decisions joueur OOC 2026-05-31
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B28
 
 ---
 
@@ -61,19 +61,23 @@ Coupe : ce segment s'arrete a l'entree de Weise (la cite doree apparait). La sui
 
 ---
 
-## Etape 3 - Lac Korridor (la patience)
+## Etape 3 - Lac Korridor (la patience et le journal de Himmel)
 
-- **Lieu** : Lac Korridor - lac du Plateau Nord, point de passage vers le haut plateau.
-- **Type** : lac / point de passage ; pause.
+- **Lieu** : Lac Korridor - plus grand lac des Terres du Nord, point de passage vers le haut plateau ; ville-port marchande sur la rive sud, monastere abandonne sur une ile au milieu du lac.
+- **Type** : lac / point de passage ; pause forcee ; revisite memorielle.
 - **Periode estimee** : An ~96.
-- **Statut** : canon (lieu, point de passage oblige). Invention (evenement de pause).
+- **Statut** : canon (point de passage oblige ; quete du traversier pour recuperer le memoire de Himmel dans le monastere de l'ile, ch.78). Divergence (Schein present).
 - **Evenements** :
- - Le groupe attend le bateau. Seul moyen de franchir vers le haut plateau.
- - Pause forcee dans la remontee. Moment de respiration entre la dette rendue et le canyon a venir.
-- **Personnages impliques** : groupe.
-- **Role de Schein** : patience contrainte. Le predateur millenaire bloque par un horaire de traversier - contraste comique ou contemplatif, au choix de la narration.
-- **Tchekhov** : -
-- **Notes** : Calque de Himmel_04 etape 27. Lieu canon, evenement a colorer en RP.
+ - Le groupe est bloque a la ville-port par une tempete qui interdit la traversee. Attente de plusieurs mois.
+ - La tempete passee, ils ne peuvent pas payer le passeur. En echange du passage, celui-ci leur demande de retrouver le memoire perdu de Himmel, dit abandonne dans un monastere protege par une barriere sur une ile du lac.
+ - Sur l'ile, Frieren dissipe la barriere. Dans la bibliotheque du monastere : une statue de Himmel, son journal pose sur le piedestal. Frieren reconnait l'ecriture de Himmel et le recupere.
+ - Le journal n'est pas un recit de batailles : il consigne le quotidien trivial du groupe. C'est, pour la branche Frieren, le document qui prouve par ecrit qu'un demon faisait partie du groupe (cf. SB7/SB8) - Himmel a couche sur le papier Schein comme un membre a part entiere.
+- **Personnages impliques** : Schein, Frieren, Fern, Stark, le passeur (non nomme).
+- **Role de Schein** : confronte a la preuve ecrite de son appartenance. L'efface de l'Histoire (cf. Granat, capuche ; Waal) se decouvre inscrit, en creux, dans le journal intime du heros. La patience du predateur bloque par un horaire de traversier cede a un beat de reconnaissance.
+- **Tchekhov** :
+ - Journal de Himmel - DETONATION. Plante a An 0 (Himmel commence a ecrire) ; detone ici (decouverte post-mortem).
+ - Empathie de Schein / peur d'aimer - Schein y lit qu'il fut aime comme un compagnon, pas tolere comme une arme.
+- **Notes** : Beat canon (ch.78 / S2E9). Calque de Himmel_04 etape 27. Integre en W2 (comblement du trou Journal, BIBLE B28). Fiche : Personnages/Himmel.
 
 ---
 

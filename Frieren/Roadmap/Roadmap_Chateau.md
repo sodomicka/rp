@@ -5,8 +5,8 @@
 - segment : Ere du Chateau
 - periode : ~1 490 a ~990 av. An 0 (~500 ans)
 - sources : BIBLE_LORE B7, Personnages/Roi_Des_Demons, Personnages/Schlacht, Personnages/Grausam, Personnages/Qual, Personnages/Boese, Personnages/Macht, Personnages/Solitaer, Personnages/Basalt_Porphyr_Gabbro, Demons/Societe_Et_Plan_Du_Roi, Demons/Hierarchie_Et_Territoire, Demons/Emotions_Et_Instincts, Chronologie/Ere_1_Roi_des_Demons, decisions joueur OOC
-- version : W3
-- bible rattachee : BIBLE_LORE_FRIEREN B23
+- version : W4
+- bible rattachee : BIBLE_LORE_FRIEREN B28
 
 ## Synthese
 
@@ -21,7 +21,7 @@
 
 ### Etape 1.1 - Decouverte au temple
 
-- **Lieu** : Temple de la Deesse - localisation non precisee.
+- **Lieu** : Temple de la Deesse - Plateau Nord, partie sud (bien au sud d'Ende) ; temple sans nom ou des humains tentent de vivre par intermittence.
 - **Type** : temple, scene d'ouverture.
 - **Periode estimee** : ~1 490 av. An 0. Schein a ~100 ans (~10 apparents).
 - **Statut** : divergence RP.
