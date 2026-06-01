@@ -1,6 +1,6 @@
 # Sommaire - Frieren
 
-- version : W13
+- version : W14
 
 ## WIKI
 
@@ -46,7 +46,7 @@ Description : fiches personnages cles et rapports detailles avec Schein.
 - Boese.md - identite, magie de barriere, rapport Schein, duel pendant la quete
 - Grausam.md - identite, magie mentale, rapport Schein (mentor), arc du Monument, mort
 - Basalt_Porphyr_Gabbro.md - escouade de l'Executeur [DIVERGENCE RP] : Basalt (lieutenant, denonciation, seconde Schein lors du massacre du village elfe), Porphyr (discret, execute par le Roi), Gabbro (discret, execute par le Roi)
-- Revolte_Le_Divin.md - general demon quadri-arme de l'arc Revolte le Divin (canon), Epees Divines Trancheuses, subjugation a Rufen (Ere 5), divergences RP par branche (recul de Schein 5a / execution par Schein 5b), sbires (Hemmung, Solide, Yun, Trueb), mort dans les deux branches
+- Revolte_Le_Divin.md - general demon quadri-arme de l'arc Revolte le Divin (canon), Epees Divines Trancheuses, subjugation a Rufen (Ere 5), divergences RP par branche (recul de Schein 5a / execution par Schein 5b), sbires (Hemmung, Solide, Jung), mort dans les deux branches
 - Sense.md - identite, magie capillaire, pacifisme, rapport Schein (presentee par Serie, canon preserve)
 - Genau.md - identite, examinateur 1ere epreuve, rapport Schein (froideur professionnelle)
 - Lernen.md - identite, golems, premier mage 1ere classe, rapport Schein (fascination prudente)
@@ -58,7 +58,7 @@ Description : fiches personnages cles et rapports detailles avec Schein.
 - Richter.md - identite, Bargland (terre), boutique, rapport Schein (canon preserve)
 - Kanne_Et_Lawine.md - identites, eau/glace, synergie, rapport Schein (canon preserve)
 - Mages_Mineurs_Aeusserst.md - Laufen, Ehre, Scharf, Edel, Blei, Duenste, Ton, Laenge
-- Falsch_Frei_Burg.md - trois mages de premiere classe, assets de Serie : Falsch (ombre, examinateur 3e epreuve), Frei (ancien partenaire de Genau, tue par Revolte le Divin), Burg (defense, tue par Uebel)
+- Falsch_Frei_Burg.md - trois mages de premiere classe, assets de Serie : Falsch (ombre, examinateur 3e epreuve), Frei (ancien partenaire de Genau, tue par Revolte le Divin via l'enfant-leurre Jung), Burg (defense, tue par Uebel)
 - Sein.md - identite, pretre "corrompu" et mediateur, guerisseur/exorciste (Benediction, Trois Lances, immunite Fleur de Confusion), Gorilla Warrior, lien Heiter (surnom "Pretre Bouc", lignee clericale), rapport Schein (rivalite jouee + foi), scaling B, voyage ~An 94-95
 - Voll.md - nain gardien de Klar (~400 ans), promesse a sa femme humaine, ami de Frieren, rapport Schein (miroir longevite/deuil : Serie et Frieren)
 - Gehen.md - nain batisseur du pont du Canyon de Tor (200 ans), village detruit, rapport Schein (devouement a l'avenir, echo du retournement contre les siens)
@@ -80,10 +80,10 @@ Description : itineraires detailles du voyage, etape par etape. Lieux, evenement
 - Roadmap_Fern_Stark_01_Terres_Centrales.md - Remontee des Terres Centrales (An ~90-93) : Groesse(Qual) -> Granz -> Bredt(Eisen) -> Wille(Einsam) -> Riegel(Stark) -> Waal
 - Roadmap_Fern_Stark_02_Terres_Du_Nord.md - Terres du Nord jusqu'a Aeusserst (An ~94-96) : Granat(Aura) -> Decke(Kraft) -> Schwer -> Appetit -> Alt(Sein) -> Raad -> Bande -> sommeil -> Rohr -> Offen -> Vorig -> Aeusserst
 - Roadmap_Aeusserst.md - Aeusserst, la croisee des chemins (An 96, Ere 5) : examen de premiere classe (3 epreuves en spectateur), retrouvailles Serie/Schein (836 ans), confrontation du triangle, bifurcation 5a (reste avec Frieren -> Roadmap_Frieren_02_Plateau_Nord) / 5b (se remet avec Serie -> Roadmap_Serie_02_Planification_Du_Regne)
-- Roadmap_Frieren_02_Plateau_Nord.md - Plateau Nord post-Aeusserst (An ~96-97, Ere 5, branche 5a) : sortie d'Aeusserst -> Graf Dach (dette de Himmel rendue) -> Lac Korridor (monastere de l'ile, journal de Himmel) -> Tor (Gehen) -> Fabel -> Rufen (Revolte le Divin, sbire de la brume Trueb) -> seuil de Weise
+- Roadmap_Frieren_02_Plateau_Nord.md - Plateau Nord post-Aeusserst (An ~96-97, Ere 5, branche 5a) : sortie d'Aeusserst -> Graf Dach (dette de Himmel rendue) -> Lac Korridor (monastere de l'ile, journal de Himmel) -> Tor (Gehen) -> Fabel -> Rufen (Revolte le Divin, sbire de la brume Hemmung, enfant-leurre Jung) -> seuil de Weise
 - Roadmap_Frieren_03_Terres_Dorees.md - Golden Land et Monument de la Deesse (An ~98, Ere 5, branche 5a) : Weise (Macht, Solitaer, Denken), Diagoldze dissipee, Monument de la Deesse comme seuil d'Aureole
 - Roadmap_Frieren_04_Aureole.md - Ende et Aureole (An ~98-99, Ere 5, branche 5a, terminus) : traversee des terres mortes -> Chateau du Roi (confrontation contemplative au passe, recit de la chute aux heritiers Fern/Stark) -> seuil d'Aureole (l'appel) -> communion avec les morts (Flamme, Himmel, Heiter, Stoltz, Heros du Sud) -> revelation de la Deesse (nature hybride partagee) -> choix binaire (refuser sa nature de dieu / accepter l'ascension). Fin ouverte : arret possible, ou impro sans roadmap.
-- Roadmap_Serie_02_Planification_Du_Regne.md - Ere souveraine (An 96+, Ere 5, branche 5b) : reconstruction du couple et projet (achever le plan du Roi par la voie douce) -> ralliement des elites humaines (mages de premiere classe) -> Revolte le Divin (Rufen, les deux groupes reunis une derniere fois, sbire de la brume Trueb, Frei survit) -> dernier adieu a Frieren + ralliement des elites demoniaques (Macht desclelle et Solitaer rallies aux Terres Dorees ; bouclage de Frieren au Monument) -> le regne prend forme (Ende reconstruit, masse ralliee, humanite avenir de la magie) -> intuition de Serie et Solitaer, appel d'Aureole
+- Roadmap_Serie_02_Planification_Du_Regne.md - Ere souveraine (An 96+, Ere 5, branche 5b) : reconstruction du couple et projet (achever le plan du Roi par la voie douce) -> ralliement des elites humaines (mages de premiere classe) -> Revolte le Divin (Rufen, les deux groupes reunis une derniere fois, sbire de la brume Hemmung, Frei survit) -> dernier adieu a Frieren + ralliement des elites demoniaques (Macht desclelle et Solitaer rallies aux Terres Dorees ; bouclage de Frieren au Monument) -> le regne prend forme (Ende reconstruit, masse ralliee, humanite avenir de la magie) -> intuition de Serie et Solitaer, appel d'Aureole
 - Roadmap_Serie_03_Aureole.md - Aureole (An ~98+, Ere 5, branche 5b, terminus) : montee vers Aureole -> communion avec les morts (eleves de Serie et Flamme, Heros du Sud, le Roi qui adoube Schein heritier - " Merci, Fils ", reconnaissance de legitimite sans emotion ; pelerinages differes de Denken/Uebel) -> revelation de la Deesse (identique a la branche Frieren) -> choix binaire recolore (rester mortel et regner / ascender et guerir l'espece - le dilemme Reine vs Peuple). Fin ouverte.
 
 ## PARTIES (Partie1)
