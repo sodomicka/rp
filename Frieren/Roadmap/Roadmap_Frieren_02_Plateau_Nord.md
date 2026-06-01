@@ -123,7 +123,7 @@ Coupe : ce segment s'arrete a l'entree de Weise (la cite doree apparait). La sui
 - **Evenements** :
  - L'Association envoie le groupe sur un village de la Region de Rufen attaque par un demon. Sur place, le groupe tombe sur Genau et Methode, deja depeches par Serie pour la meme subjugation.
  - La ville natale de Genau a ete detruite par les demons. Il pretend ne rien ressentir, mais Frieren et Methode detectent une intention meurtriere d'une intensite remarquable sous la facade. Le volcan sous le permafrost.
- - L'adversaire : Revolte le Divin - demon general, mi-humanoide mi-serpent, deux paires de bras maniant quatre epees. C'est le demon qui, des annees plus tot, a tue Frei (l'ancien partenaire de Genau) en utilisant un enfant comme leurre demoniaque pour exploiter sa gentillesse. Genau revient affronter le meurtrier de son partenaire.
+ - L'adversaire : Revolte le Divin - demon general, mi-humanoide mi-serpent, deux paires de bras maniant quatre epees. C'est le demon qui, plus tot durant la campagne du Nord (post-Aeusserst), a tue Frei (le partenaire de Genau) en utilisant un enfant comme leurre demoniaque pour exploiter sa gentillesse. Genau revient affronter le meurtrier de son partenaire.
  - Le piege de l'enfant-leurre revient : Genau manque de reproduire l'erreur fatale de Frei. Beat central de bouclage - la croyance de Genau ("la gentillesse tue") mise a l'epreuve face au demon meme qui la lui a enseignee.
  - Combat eclate dans les forets :
  -- Stark et Genau prennent Revolte. Stark porte le coup decisif - aboutissement de son potentiel, et payoff du conseil de Schein (cf. Tchekhov).
@@ -131,14 +131,14 @@ Coupe : ce segment s'arrete a l'entree de Weise (la cite doree apparait). La sui
  -- Frieren et Schein font face a un autre demon. Schein lui laisse le combat et regarde son elfe cogner. Ce n'est pas du bridage sous tension (il ne canalise pas en se retenant) : il est detendu, amoureux, admiratif - donc aucune dette de contrecoup (cf. SB1).
  -- Methode assure le support : detection de mana, restriction, et sa magie de la Deesse (revelee dans cet arc). Sa detection fine capte la signature anormale de Schein - un mana a mi-chemin entre demon et divin.
  - Methode, sur la base de sa magie de la Deesse, tente de rejoindre le groupe de Frieren. Frieren decline.
-- **Personnages impliques** : Schein, Frieren, Fern, Stark, Genau, Methode, Revolte le Divin, demon de la brume [INCERTAIN]. [Frei : mort avant Aeusserst, evoque seulement.]
+- **Personnages impliques** : Schein, Frieren, Fern, Stark, Genau, Methode, Revolte le Divin, demon de la brume [INCERTAIN]. [Frei : mort plus tot durant la campagne du Nord (branche Frieren), evoque seulement.]
 - **Role de Schein** : recul affectif. Il a la puissance de regler l'affaire ; il choisit de s'effacer pour laisser Frieren combattre et pour coacher Stark. Son retrait ici n'est ni pedagogique froid ni contraint - il est amoureux pour Frieren, transmetteur pour Stark. Et il observe Methode capter ce qu'il ne sait pas etre : sa propre nature divine.
 - **Tchekhov** :
  - Conseil de Schein a Stark - DETONATION. En branche 5a, Schein est present : il transmet a Stark, en direct durant l'arc (et non en adieux comme dans la branche 5b), la maniere de combattre les demons. Stark l'applique pour abattre Revolte. (Plant pose en Roadmap_Aeusserst 5b ; en 5a il se joue live.)
  - Peur d'aimer - le recul de Schein devant le combat de Frieren est un acte d'amour, pas de tactique.
  - Magie de lumiere / nature divine - Methode (magie de la Deesse) capte la signature mi-divine de Schein. Graine effleuree, non resolue.
  - Empathie de Schein - le bouclage de Genau (la gentillesse qui tue / qui survit) resonne avec le parcours de Schein, miroir inverse de Frei (cf. Notes).
-- **Notes** : Canon Divine Revolte. Revolte = nom allemand conserve ; arc nomme "Revolte le Divin". Frei : miroir posthume de Schein (naivete qui tue vs naivete qui survit) - Frei n'a pas survecu a sa naivete, Schein si ; cf. Personnages/Falsch_Frei_Burg + Genau. Le refus de Methode : motif canon "Sein encore membre" incompatible avec le depart de Sein ~An 95 [INCERTAIN] - rebasable sur "groupe complet". Demon de la brume : nom et nature precise non sourcees [INCERTAIN]. Fiches : Personnages/Genau, Methode, Falsch_Frei_Burg, Stark, Fern.
+- **Notes** : Canon Divine Revolte. Revolte = nom allemand conserve ; arc nomme "Revolte le Divin". Frei : vivant a Aeusserst, mort plus tot durant la campagne du Nord (post-divergence, branche Frieren) ; miroir de Schein (naivete qui tue vs naivete qui survit) - Frei n'y survit pas, Schein si ; branche Serie : Frei survit (cf. Roadmap_Serie_02 etape 3) ; cf. Personnages/Falsch_Frei_Burg + Genau. Le refus de Methode : motif canon "Sein encore membre" incompatible avec le depart de Sein ~An 95 [INCERTAIN] - rebasable sur "groupe complet". Demon de la brume : nom et nature precise non sourcees [INCERTAIN]. Fiches : Personnages/Genau, Methode, Falsch_Frei_Burg, Stark, Fern.
 
 ---
 

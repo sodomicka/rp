@@ -20,7 +20,7 @@ Deux points de decision produisent quatre fins (cf. Theologie/Epee_De_Damocles) 
 
 Les deux branches d'Aeusserst menent a Aureole. La presente Roadmap couvre l'arrivee, les trois epreuves vues en spectateur (dispositif de projection magique de Serie), la confrontation finale, puis bifurque en deux sorties exclusives :
 - 5a (branche canon) : Schein reste avec Frieren -> suite dans Roadmap_Frieren_02_Plateau_Nord.
-- 5b (branche divergente) : Schein se remet avec Serie -> suite dans Roadmap_Serie_2.
+- 5b (branche divergente) : Schein se remet avec Serie -> suite dans Roadmap_Serie_02_Planification_Du_Regne.
 
 L'examen de premiere classe est canoniquement l'arc de Frieren et Fern. Schein n'est pas candidat (demon, magie de la Deesse native + specialisation demoniaque, fierte incompatible avec la magie humaine). Il assiste aux epreuves en spectateur aux cotes de Serie, par projection magique. Le detail des candidats un par un se joue en narration (fetch des fiches Personnages au moment voulu) ; cette Roadmap pose les beats et les noms, pas le script.
 
@@ -168,9 +168,9 @@ Verrou pose : l'intuition de Serie sur la nature de Schein (le pressentiment qu'
  - Choix final (point 1/2) - RESOLU cote Aeusserst : Serie. L'ascension reste ouverte (Aureole).
  - Bague de lotus - PAYOFF : Frieren la rend a Schein.
  - Peur d'aimer - Schein a choisi, et le choix est un deuil inflige.
- - Nature de Schein - graine TOUJOURS VERROUILLEE ici. L'intuition de Serie ne s'allume PAS dans ce segment (decision joueur : plus tard, pas maintenant ; il n'a pas besoin de ca). A rouvrir dans Roadmap_Serie_2.
+ - Nature de Schein - graine TOUJOURS VERROUILLEE ici. L'intuition de Serie ne s'allume PAS dans ce segment (decision joueur : plus tard, pas maintenant ; il n'a pas besoin de ca). A rouvrir dans Roadmap_Serie_02_Planification_Du_Regne.
  - Conseil de Schein a Stark - PLANT : la maniere de combattre les demons servira a Stark face a Revolte.
-- **Notes** : SORTIE -> Roadmap_Serie_2 (a batir : heritage du Royaume Demon, cote souverain, puis vers Aureole). Revolte = nom allemand conserve ; arc nomme 'Revolte le Divin'. Frei (ancien partenaire de Genau) tue par Revolte AVANT Aeusserst ; Revolte abattu lors de la subjugation post-Aeusserst (Genau + Stark, cf. Roadmap_Frieren_02_Plateau_Nord etape 6) - le conseil de Schein a Stark s'inscrit dans ce fil. Rupture Frieren = impact RP majeur a archiver (Parties/). Intuition de Serie = reservee, ne pas allumer ici.
+- **Notes** : SORTIE -> Roadmap_Serie_02_Planification_Du_Regne (heritage du Royaume Demon, cote souverain, puis vers Aureole via Roadmap_Serie_03). Revolte = nom allemand conserve ; arc nomme 'Revolte le Divin'. Frei (partenaire de Genau) est vivant a Aeusserst ; sa mort est post-Aeusserst (branche Frieren) - il survit en branche Serie. Revolte abattu lors de la subjugation post-Aeusserst (cf. Roadmap_Frieren_02 etape 6 pour 5a ; Roadmap_Serie_02 etape 3 pour 5b) - le conseil de Schein a Stark s'inscrit dans ce fil. Rupture Frieren = impact RP majeur a archiver (Parties/). Intuition de Serie = reservee, ne pas allumer ici ; rouverte dans Roadmap_Serie_02.
 
 ---
 
@@ -178,8 +178,8 @@ Verrou pose : l'intuition de Serie sur la nature de Schein (le pressentiment qu'
 
 - **Entree** : Roadmap_Fern_Stark_02 etape 26 (arrivee a Aeusserst, fin de l'Ere 4).
 - **Sortie 5a** : Roadmap_Frieren_02_Plateau_Nord (branche canon : Plateau Nord et Revolte le Divin), puis Roadmap_Frieren_03_Terres_Dorees (Weise, Monument), puis Roadmap_Frieren_04_Aureole.
-- **Sortie 5b** : Roadmap_Serie_2 (branche divergente, heritage du Royaume puis Aureole).
-- **Point de decision suivant** : Aureole - ascension ou rester. Traite en segment branche par branche (Roadmap_Frieren_04_Aureole cote 5a ; segment equivalent cote 5b), et non en noeud commun. Cf. Theologie/Epee_De_Damocles, BIBLE SB8.
+- **Sortie 5b** : Roadmap_Serie_02_Planification_Du_Regne (ere souveraine), puis Roadmap_Serie_03_Aureole (terminus).
+- **Point de decision suivant** : Aureole - ascension ou rester. Traite en segment branche par branche (Roadmap_Frieren_04_Aureole cote 5a ; Roadmap_Serie_03_Aureole cote 5b), et non en noeud commun. Cf. Theologie/Epee_De_Damocles, BIBLE SB8.
 
 ---
 

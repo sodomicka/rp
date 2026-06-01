@@ -291,7 +291,7 @@
 - **Periode estimee** : ~990 av. An 0, peu apres le massacre.
 - **Statut** : divergence RP.
 - **Evenements** :
- - Schein revient a Ende. Il exige le trone - un duel pour la souverainete.
+ - Schein revient a Ende. Il exige le trone - un duel pour la souverainete. Le moteur n'est pas la seule rage : c'est son degout des massacres. Renverser le Roi pour achever autrement son plan de coexistence - regner sans le genocide. A ~600 ans, ce n'est pas un programme cisele (cf. Solitaer, bien plus tard) mais une aspiration : il ne hait pas son espece, il hait ce que son pere en a fait. La rage et la vision se confondent.
  - Le Roi execute Porphyr et Gabbro d'un seul sort, sous les yeux de Schein. Derniere tentative de brisure : tuer les derniers subordonnes du prince pour le vider.
  - Ca ne brise pas - ca enrage. Le Roi voulait du desespoir, il recolte de la rage.
  - Defaite ecrasante de Schein. Le Roi est au sommet absolu de sa puissance - un prince de ~600 ans contre un souverain de ~4 700 ans.
@@ -299,7 +299,7 @@
  - Schein fuit grace a sa vitesse superieure. Le Roi envoie des chasseurs mais sait que seuls certains Sages seraient de taille.
  - Pour le Roi, Schein est une experience ratee - mais les donnees sont collectees.
 - **Personnages impliques** : Schein, Roi des Demons, Porphyr (mort), Gabbro (mort).
-- **Role de Schein** : rage pure. Il perd tout - l'escouade, le bras, le chateau, le titre. Il ne gagne qu'une chose : sa liberte.
+- **Role de Schein** : rage et vision confondues. Le degout des massacres arme le coup ; la rage le porte. Il perd tout - l'escouade, le bras, le chateau, le titre. Il ne gagne qu'une chose : sa liberte. (L'aspiration ecrasee ici - achever la coexistence sans le sang - ressurgira huit siecles plus tard, formee en projet par Serie. Cf. Roadmap_Serie_02_Planification_Du_Regne.)
 - **Tchekhov** :
  - " Merci, pere. " - absent. Le silence tient. Mille ans plus tard, a la mort du Roi, Schein le dira une derniere fois.
  - Prediction de Schlacht - confirmee en cours. Schein massacre des demons, tente le trone. La vision de Schlacht se realise etape par etape.

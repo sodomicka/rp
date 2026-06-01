@@ -18,7 +18,7 @@ Trois verrous de cadrage avant tout :
 
 1. Ce segment ne se conclut PAS sur une fin fermee. Il pose la revelation, puis le choix binaire (refuser sa nature de dieu / accepter l'ascension), et s'arrete la. La suite appartient au joueur : soit il tranche un chemin comme fin du RP, soit il improvise au-dela sans roadmap. Les chemins eux-memes ne sont pas ecrits ici (cf. Theologie/Epee_De_Damocles pour leur cadre).
 
-2. Branche Frieren uniquement. Schein est reste avec Frieren a Aeusserst ; Serie poursuit sa vie de son cote et ne reapparait pas. Les deux chemins lies a Serie (conquete, pantheon-famille) vivent dans une branche separee - cf. Roadmap_Serie_0x. Seuls deux chemins existent ici.
+2. Branche Frieren uniquement. Schein est reste avec Frieren a Aeusserst ; Serie poursuit sa vie de son cote et ne reapparait pas. Les chemins lies a Serie (regne, salut de l'espece) vivent dans une branche separee - cf. Roadmap_Serie_02_Planification_Du_Regne et Roadmap_Serie_03_Aureole. Seuls deux chemins existent ici.
 
 3. Aucun combat majeur. Les grands demons sont tous morts (Sept Sages liquides, Solitaer a Weise, Revolte a Rufen, le Roi An 10). Il ne reste que des mineurs errants. Ce segment est contemplatif et intime, pas martial. Le Chateau ne donne lieu a aucun defoulement (deja purge a l'aller An 10 et au retour An 10-15 - cf. Himmel_04 et Himmel_05) : pas de contrecoup bestial a jouer ici.
 
@@ -165,7 +165,7 @@ Le mouvement thematique du segment : deux sites consecutifs revelent les deux mo
 - **Sortie** : aucune. Terminus de la branche Frieren. Fin ouverte - le joueur tranche ou improvise.
 - **Cadre lore de la fin** : Theologie/Aureole (communion + revelation), Deesse_Verite_Et_Legende (mecanisme et origines), Epee_De_Damocles (conditions, pouvoirs, deux chemins).
 - **Recits raccordes (non rejoues)** : Roadmap_Himmel_04 (combat final, chute du Roi An 10), Roadmap_Himmel_05 (Chateau revisite et defoulement An 10-15).
-- **Branche alternative** : Roadmap_Serie_0x (si Schein avait choisi Serie a Aeusserst - les deux chemins Serie y vivent).
+- **Branche alternative** : Roadmap_Serie_03_Aureole (terminus de la branche Serie, si Schein avait choisi Serie a Aeusserst ; ere souveraine en Roadmap_Serie_02_Planification_Du_Regne).
 
 ---
 
