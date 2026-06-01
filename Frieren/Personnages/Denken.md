@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : canon wiki (fandom), Heroes Wiki, Anibase, decisions joueur OOC
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B3
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B29
 
 ## Identite
 
@@ -43,8 +43,8 @@ Denken maitrise un large eventail de sorts offensifs enchaines - assez pour impr
 - Lumieres du Jugement : Catastravia - sort offensif puissant a longue portee.
 - Sorts de feu, sorts elementaires multiples - repertoire etendu d'un mage ayant etudie la magie toute sa vie.
 
-### Mystil'zla
-Sort de renversement de malediction obtenu comme privilege de premiere classe (le sort offert par Serie). Permet de contrer la Diagoldze de Macht. Essentiel dans la confrontation finale contre Macht dans le Golden Land.
+### Mistilziela
+Sort de renversement de malediction obtenu comme privilege de premiere classe (le sort offert par Serie - c'est le contre-malediction de l'Ere Mythique qu'elle maitrise, cf. Serie_Fiche). Permet de contrer la Diagoldze de Macht. Essentiel dans la confrontation finale contre Macht dans le Golden Land.
 
 ### Detection de mana
 Talent remarquable. Seul membre de son groupe a detecter les traces infimes de mana dans l'eau laissees par Kanne lors de la premiere epreuve. Identifie la strategie de Frieren avant ses coequipiers.
@@ -68,7 +68,7 @@ Portee : non resolue. Le rapport Denken/Schein est un echo du rapport Denken/Mac
 
 ## Relations
 
-**Macht.** Maitre. Denken a appris la magie sous sa tutelle quand Macht servait la famille Glueck. Une relation teintee d'affection reelle et de trahison - Macht a detruit la ville ou vivait la femme de Denken. L'arc de Weise est la resolution de cette dette : Denken obtient Mystil'zla et participe a la confrontation finale contre Macht.
+**Macht.** Maitre. Denken a appris la magie sous sa tutelle quand Macht servait la famille Glueck. Une relation teintee d'affection reelle et de trahison - Macht a detruit la ville ou vivait la femme de Denken. L'arc de Weise est la resolution de cette dette : Denken obtient Mistilziela et participe a la confrontation finale contre Macht (branche Frieren ; en branche Serie, Macht est desscelle et rallie au lieu d'etre tue - cf. Macht.md, Roadmap_Serie_02).
 
 **Lektuere.** Epouse. Morte de sa fragilite physique avant que Denken puisse accumuler assez de pouvoir pour la sauver. Le deuil definit toute la seconde moitie de sa vie. Sa motivation pour l'examen = retourner sur sa tombe.
 
@@ -81,6 +81,14 @@ Portee : non resolue. Le rapport Denken/Schein est un echo du rapport Denken/Mac
 **Frieren.** Adversaire puis alliee. Defaite lors de la premiere epreuve (basic offensive magic a bout portant). Partage la meme philosophie sur la magie. Apres l'examen, remercie Frieren et Fern. Coopere avec le groupe de Frieren dans l'arc de Weise.
 
 **Serie.** Examinatrice. Serie est impressionnee par la vigueur que Denken conserve malgre son age - elle voit en lui la meme passion qu'il avait jeune. Le fait reussir sur cette base.
+
+---
+
+## Notes W2
+
+- Graphie du contre-malediction de Serie unifiee : " Mystil'zla " -> " Mistilziela " (graphie unique fixee en B29, alignee sur Serie_Fiche et Macht.md ; le sort est celui de l'Ere Mythique que Serie distribue comme privilege).
+- Asymetrie de branche signalee dans la relation Macht (mort branche Frieren / rallie branche Serie).
+- En-tete recale B3 -> B29.
 
 ---
 
