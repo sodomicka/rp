@@ -59,7 +59,7 @@ Repartition du triumvirat fondateur, a tenir tout le segment : Serie oeuvre au n
 - **Evenements** :
  - Les mages de premiere classe fraichement diplomes sont presentes au projet. Serie est leur fondatrice et leur maitre pour plusieurs ; son autorite porte. Le couple millenaire expose la mission : la coexistence, l'avenir de la magie humaine, la fin des massacres.
  - Les reactions se separent en trois nappes :
- -- Sceptiques : Wirbel (la magie est un outil pour tuer et survivre - il se mefie d'un projet porte par un demon, meme regicide), Lernen (ingenieur prudent, l'anomalie de mana de Schein le derange autant qu'elle le fascine).
+ -- Sceptiques : Wirbel (la magie est un outil pour tuer et survivre - un demon reste un demon ; l'aval de Serie n'efface pas des annees de cadavres de camarades, la main reste pres du baton) et Lernen (conservateur des methodes de Serie, son plus ancien disciple ; voir son maitre se ranger derriere un demon regicide le deconcerte - le revirement contredit tout ce qu'elle lui a enseigne. Sceptique au depart, a voir ce que le RP en fait).
  -- Enthousiastes : Denken (ancien apprenti de Macht, il voit un sens a la coexistence), Methode (dualite mage-pretresse, double resonance avec Schein), Uebel (le tueur qui ne veut pas l'etre - elle adore le plan par attraction instinctive pour Schein, miroir d'elle-meme).
  -- La plupart : ils suivent deux etres millenaires qui semblent mieux renseignes qu'eux. Pas d'adhesion ideologique - du pragmatisme et de la deference.
  - Les detecteurs fins (Methode, Lernen, Denken) captent la signature anormale de Schein - un mana a mi-chemin entre demon et divin. Personne ne sait le nommer.
