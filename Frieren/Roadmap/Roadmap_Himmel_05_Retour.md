@@ -4,8 +4,8 @@
 - dossier : Roadmap
 - segment : Voyage retour et separation du groupe
 - periode : An 10-15
-- sources : BIBLE_LORE B18, canon anime S1-S2, decisions joueur OOC
-- version : W1
+- sources : BIBLE_LORE B18, canon anime S1-S2, decisions joueur OOC, maj contrecoup B31 (Etape 35)
+- version : W2
 - bible rattachee : BIBLE_LORE_FRIEREN B18
 
 ---
@@ -24,7 +24,7 @@
 - **Personnages impliques** : Schein (seul pour le defoulement), le groupe (parti devant).
 - **Role de Schein** : exorcisme. La crise n'est tournee ni contre des allies (partis) ni contre des ennemis (le Roi est mort) - elle se decharge sur les pierres, sur le passe. Detruire physiquement le lieu de son trauma. Le bras libere apres un millenaire ajoute au deferlement.
 - **Tchekhov** :
- - Contrecoup bestial - detonation majeure de la regle (cf. SB1) : la plus longue accumulation (dix ans de bridage) produit la plus grosse crise. Ici, aucune cible legitime ne reste : la dette explose sur le decor.
+ - Contrecoup bestial - detonation majeure de la regle (cf. SB1, plante a Roadmap_Himmel_04 Etape 34) : la frustration de s'etre bride au combat contre l'etre qu'il hait le plus produit la plus grosse crise. Le Roi mort et parti en particules de mana, il ne reste aucun ennemi pour absorber la violence : deja en crise, Schein se defoule sur ce qui reste de sa haine - le chateau, temoin du demi-millenaire de torture qu'il y a subi.
  - " Merci, pere. " - le lieu de l'adoption et des tortures rase de ses mains. Cf. Himmel_04 Etape 34, SB8.
 - **Notes** : Pendant inverse de Waal (Himmel_02 Etape 11) : la, debridage sur cibles legitimes = aucune dette ; ici, la dette accumulee de dix ans de mesure explose enfin, faute d'ennemi, sur les murs. Les deux faces de la regle SB1.
 

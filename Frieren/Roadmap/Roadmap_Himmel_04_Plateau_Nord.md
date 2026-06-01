@@ -4,8 +4,8 @@
 - dossier : Roadmap
 - segment : Plateau Nord et assaut final
 - periode : An ~7-10
-- sources : BIBLE_LORE B18, canon anime S1-S2, decisions joueur OOC
-- version : W4
+- sources : BIBLE_LORE B18, canon anime S1-S2, decisions joueur OOC, ajout contrecoup B31 (Etape 34)
+- version : W5
 - bible rattachee : BIBLE_LORE_FRIEREN B21
 
 ---
@@ -183,6 +183,7 @@
  - " Merci, pere. " - dernier usage ? Silence ? Changement de formule ? Le marqueur de la relation Schein/Roi trouve ici sa resolution ou sa transformation.
  - Empathie de Schein - il tue par necessite, avec tout le poids emotionnel d'un fils face a un pere-bourreau.
  - Bague de lotus - Frieren porte la bague depuis le premier passage a Aeusserst, symbole de leur union, symboliquement presente dans le combat.
+ - Contrecoup bestial - pic d'accumulation : Schein canalise sa magie la plus intense contre un S+ tier tout en se bridant pour epargner ses quatre allies presents dans la melee. C'est la mesure, pas la puissance, qui charge la dette ; detonation au defoulement (cf. Roadmap_Himmel_05 Etape 35, SB1).
 - **Notes** : Moment climactique du RP pour l'ere Himmel. Le detail du combat (tactique, deroulement, dernieres paroles) sera joue en narration, pas pre-ecrit ici. La roadmap pose le cadre, pas la scene. Cf. Personnages/Roi_Des_Demons, BIBLE SB3.
 
 ---
