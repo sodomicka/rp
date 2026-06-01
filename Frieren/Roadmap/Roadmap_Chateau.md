@@ -5,8 +5,8 @@
 - segment : Ere du Chateau
 - periode : ~1 490 a ~990 av. An 0 (~500 ans)
 - sources : BIBLE_LORE B7, Personnages/Roi_Des_Demons, Personnages/Schlacht, Personnages/Grausam, Personnages/Qual, Personnages/Boese, Personnages/Macht, Personnages/Solitaer, Personnages/Basalt_Porphyr_Gabbro, Demons/Societe_Et_Plan_Du_Roi, Demons/Hierarchie_Et_Territoire, Demons/Emotions_Et_Instincts, BIBLE_LORE SB3 (chronologie), decisions joueur OOC
-- version : W4
-- bible rattachee : BIBLE_LORE_FRIEREN B28
+- version : W5
+- bible rattachee : BIBLE_LORE_FRIEREN B29
 
 ## Synthese
 
@@ -74,7 +74,7 @@
 - **Periode estimee** : ~1 490 av. An 0, premiers mois.
 - **Statut** : divergence RP.
 - **Evenements** :
- - Schlacht propose de nommer Schein prince. Logique : si le Roi tombe un jour, autant preparer la succession.
+ - Schlacht propose de nommer Schein prince. Logique : si le Roi tombe un jour, autant preparer la succession. C'est le pari profond de Schlacht sur Schein comme avenir de l'espece - rendu visible (cf. Schlacht.md).
  - Le Roi accepte et detourne le titre en levier de torture : la reconnaissance paternelle comme outil de manipulation.
  - Deux usages du meme titre, deux logiques incompatibles - Schlacht prepare la survie de l'espece, le Roi fabrique une arme.
 - **Personnages impliques** : Schlacht, Roi des Demons, Schein.
@@ -192,12 +192,12 @@
 - **Statut** : divergence RP.
 - **Evenements** :
  - Le Roi inflige des tortures a Schein en presence d'un temoin different a chaque fois.
- - Les tortures sont entrees dans la phase sadique - pretextes absurds, le Roi etudie la souffrance.
+ - Les tortures sont entrees dans la phase sadique - pretextes absurdes, le Roi etudie la souffrance.
  - Les Sages viennent par curiosite - et pour certains, un plaisir a peine dissimule. Chacun observe et reagit selon sa nature :
  - **Schlacht** - observe en silence. Calcule. Chaque seance confirme sa prediction. Le prince se brise, et le Roi se brisera en le brisant. Pas de curiosite morbide - de la resignation strategique.
  - **Grausam** - reaction illisible. Peut-etre de la gene, peut-etre de la curiosite clinique, peut-etre rien. Le demon le plus menteur ne donne aucune prise. Venu par interet ou sur ordre de Schlacht ? Impossible a trancher.
  - **Qual** - clinique, avec une pointe de sadisme technique. Observe la resistance physique de Schein comme il observerait un sort en cours de test. S'interesse a la facon dont le Zoltraak blanc reagit sous la douleur - le createur etudie sa creature.
- - **Solitaer** - chercheuse. Curiosite scientifique devant l'anomalie. Un demon qui souffre et ne se ferme pas invalide son modele d'evolution convergente. Une donnee qu'elle ne peut pas integrer. Elle prend des notes mentales.
+ - **Solitaer** - chercheuse. Curiosite scientifique devant l'anomalie. Un demon qui souffre et ne se ferme pas invalide son modele d'evolution convergente. Une donnee qu'elle ne peut pas integrer. Elle prend des notes mentales. (Meme angle mort que Schlacht : ni l'un ni l'autre ne devine que c'est la nature divine de Schein qui dejoue leurs grilles - cf. Schlacht.md, Solitaer.md.)
  - **Macht** - de passage a Ende. Curiosite sincere qui ressemble presque a de l'inconfort. Macht s'interesse aux emotions humaines - voir un demon en eprouver le confronte a ses propres questions sans lui offrir de reponse.
  - **Boese** - mepris ouvert, tinte d'un sadisme simple. Les emotions sont une faiblesse, le prince est un jouet casse, et le spectacle confirme tout ce que Boese pense. Pour lui, la seule question est : pourquoi le Roi ne l'ecrase-t-il pas ?
 - **Personnages impliques** : Schein, Roi des Demons, Schlacht, Grausam, Qual, Solitaer, Macht, Boese (un par seance).
@@ -235,16 +235,16 @@
 - **Periode estimee** : ~991-990 av. An 0, 1 an. Jour 364 = ~990 av. (cf. BIBLE SB8).
 - **Statut** : divergence RP.
 - **Evenements** :
- - Un an de cellule. 365 tortures physiques uniques - une par jour, jamais la meme.
+ - Un an de cellule, 365 jours. Les 364 premieres journees : une torture physique unique chacune, jamais la meme. La 365e : une torture purement psychologique - une journee entiere a attendre une douleur qui ne viendra pas, terreur pure. La methode du chercheur pousse jusqu'a son terme : meme l'absence de douleur devient un instrument.
  - Le Roi etudie la douleur comme un protocole de recherche. Chaque methode est documentee, chaque reaction mesuree.
  - Les yeux dores de Schein ternissent en gris au fil des mois. La lumiere s'eteint.
  - Basalt assiste a certaines seances et s'en delecte. Porphyr et Gabbro sont absents.
- - Le 364e jour, Schein dit " Merci, pere. " pour la derniere fois. Le 365e - la journee de terreur pure - il ne le dit pas. Il ne le dira plus jamais avant la mort du Roi, mille ans plus tard.
+ - Le 364e jour, Schein dit " Merci, pere. " pour la derniere fois. Le 365e - la journee de terreur pure, l'attente qui ne debouche sur rien - il ne le dit pas. Il ne le dira plus jamais avant la mort du Roi, mille ans plus tard.
 - **Personnages impliques** : Schein, Roi des Demons, Basalt (observateur occasionnel).
 - **Role de Schein** : il se brise. Pas completement - une fine braise reste. Mais les yeux gris sont la preuve visible.
 - **Tchekhov** :
  - " Merci, pere. " - le 364e jour est le dernier. Le rituel se rompt definitivement. Schein ne le prononcera plus avant la mort du Roi (An 10) - mille ans de silence. Quand il le dira a nouveau, ce sera le dernier mot adresse a son pere mourant.
-- **Notes** : le nombre de 365 est un choix du Roi - un par jour, un an pile. Methodologie de chercheur, pas improvisation.
+- **Notes** : le decompte est un choix du Roi - 365 jours pleins, un an pile : 364 tortures physiques + une 365e purement psychologique (l'attente terrifiee). Methodologie de chercheur, pas improvisation. (Decompte aligne B29 ; cf. SB8, Personnages/Roi_Des_Demons, Personnages/Basalt_Porphyr_Gabbro.)
 
 ---
 
@@ -272,7 +272,7 @@
 - **Periode estimee** : ~990 av. An 0, fin de la semaine de confort.
 - **Statut** : divergence RP (details), canon pour le massacre et la rencontre Frieren.
 - **Evenements** :
- - Le Roi ordonne le massacre de Bluete. Le genocide des elfes est un protocole en cours, mais ce village - gros, ancien, volontairement epargne jusque-la - est garde en reserve et employe comme arme pour briser Schein. Les elfes : seule espece rivale en longevite et savoir magique.
+ - Le Roi ordonne le massacre de Bluete. Le genocide des elfes est un protocole en cours (lance des l'Ere Mythique), mais ce village - gros, ancien, volontairement epargne jusque-la - est garde en reserve et employe comme arme pour briser Schein. Les elfes : seule espece rivale en longevite et savoir magique. (Expedition exceptionnelle, hors du secteur Nord habituel de l'escouade ; cf. Roi_Des_Demons, Basalt_Porphyr_Gabbro, SB6.)
  - L'escouade se partage le village sous le commandement de Schein : les quatre demons (Schein, Basalt, Porphyr, Gabbro) se chargent chacun d'une portion. Schein massacre la sienne - vide, brise par un an de cellule et creuse par la semaine de confort. 230 victimes au total.
  - Frieren (~300 ans, ~15 apparents) abat Basalt. La perturbation de mana de sa chute attire Schein vers cette partie du village.
  - Frieren se defend et detruit la main gauche de Schein.
@@ -282,7 +282,7 @@
 - **Tchekhov** :
  - Empathie de Schein - detonation. C'est la peur d'une proie qui ranime ce que la torture avait eteint.
  - Peur d'aimer - premiere rencontre avec Frieren. Le lien nait dans la violence. Frieren acquiert ici la meme legitimite fondatrice que Serie plus tard : socle du futur dilemme d'Aeusserst.
-- **Notes** : Frieren est recueillie par Flamme (~25 ans) peu apres. Schein ne croise pas Flamme.
+- **Notes** : Frieren est recueillie par Flamme (~25 ans, nee ~1 015 av.) peu apres. Schein ne croise pas Flamme.
 
 ### Etape 5.3 - Execution de Porphyr et Gabbro, tentative de coup
 
