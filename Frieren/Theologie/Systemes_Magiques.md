@@ -2,9 +2,9 @@
 
 - univers : Sousou no Frieren (hybride)
 - dossier : Theologie
-- sources : ENCYCLO_THEOLOGIE Section 2
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN (a lier au build)
+- sources : ENCYCLO_THEOLOGIE Section 2, lie a B32 (verification P4, contenu verifie inchange)
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B32
 
 ## Magie humaine
 
