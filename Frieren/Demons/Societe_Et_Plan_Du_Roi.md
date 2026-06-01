@@ -18,7 +18,7 @@
 
 **Pas de concept familial.** Pas de couples durables. Pas de liens parentaux au-dela de l'elevage minimal (mere/enfant jusqu'au premier meurtre). Pas de notion de romance.
 
-**Population stable.** Super predateurs, longevite massive, mortalite juvenile faible. Pas de declin demographique. Le projet du Roi n'est pas compensatoire mais structurel.
+**Population stable sous le Roi.** Super predateurs, longevite massive, mortalite juvenile faible. Pas de declin demographique tant que le Roi vit et ordonne le repeuplement. Le projet du Roi n'est pas compensatoire mais structurel. [DIVERGENCE RP] Apres la chute du Roi (An 10), la donne s'inverse : plus d'ordre de repeuplement, attrition des Sages et generaux (Heros du Sud, Groupe des Heros, puis Aura / Macht / Solitaer / Revolte en Ere 4-5), et progres magique humain qui finira par avoir raison des mineurs eux-memes. L'espece entre en declin - condamnee sur deux fronts. C'est ce qui fait du regne de la branche Serie un sauvetage, non une simple ambition. Cf. SB1, Roadmap_Serie_02_Planification_Du_Regne.
 
 ## Le plan du Roi des Demons
 
