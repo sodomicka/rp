@@ -19,6 +19,8 @@
 
 Traits inhabituels pour un demon selon Solitaer (comme Schlacht et Macht), mais partageant la nature inescapable de l'espece. A impose l'ordre parmi les demons - espece individualiste par nature. Desirait la coexistence avec les humains, comme Macht. Biologiste-souverain : a developpe la theorie de l'evolution convergente, partagee avec Solitaer. Les massacres sont un protocole de recherche : pousser l'humanite dans ses retranchements, observer, forcer l'evolution vers une forme capable de coexister avec les demons. Paradoxe fondamental : veut coexister mais son instinct demoniaque rend le meurtre si intrinseque qu'il ne peut pas concevoir " ne pas tuer " comme une option. Meme paradoxe que Macht a Weise.
 
+[DIVERGENCE RP - branche Serie] Le Roi ne ressent rien, et cela ne change pas, meme a Aureole. Mais a Aureole (Roadmap_Serie_03), face a Macht et Solitaer, il constate froidement l'aboutissement de son plan - la coexistence, atteinte par Schein via la voie douce, autrement que lui mais atteinte. Il accorde alors a Schein un "Merci, Fils" qui n'est pas une emotion mais un adoubement : pendant 500 ans, " fils " etait un levier de manipulation vide de sens ; ici, pour la premiere fois, le mot signifie successeur. Le predecesseur reconnait l'heritier et lui accorde la legitimite absolue qui manquait a son regne. C'est branche-specifique : cote Frieren, Schein a refuse l'heritage, l'adoubement n'a donc pas lieu - ni merite ni desire ; l'An 10 et son " Merci, pere " y suffisent a clore le trauma.
+
 ## Capacites
 
 - Mana massif - sommet absolu de la hierarchie demoniaque.
