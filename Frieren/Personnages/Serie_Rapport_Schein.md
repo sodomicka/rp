@@ -26,9 +26,9 @@
 
 **Reaction de Serie.** Devastee. Incomprehension sincere : dans sa logique, sa position est inattaquable. Le premier etre a qui elle a donne son amour en 3 000 ans la quitte. Confuse - la guerre est un fait, pas une opinion. Et Schein n'a qu'a tourner la page. Elle ne comprend pas que sa blessure n'est pas un probleme a resoudre mais une identite.
 
-**Silence (~740 av. a An ~81).** Zero contact. Schein a dit " pas tant que mon pere vivra ". Serie respecte cette limite. ~820 ans de silence. Le Roi meurt a An 0, mais Serie ne se manifeste pas immediatement. Elle attend Aeusserst.
+**Silence (~740 av. a An 96).** Zero contact. Schein a dit " pas tant que mon pere vivra ". Serie respecte cette limite. ~836 ans de silence. Le Roi meurt a An 10, mais Serie ne se manifeste pas immediatement. Elle attend Aeusserst.
 
-**Tchekhov : Aeusserst (An ~81).** Serie a fonde l'Association ~50 ans apres la mort du Roi. Elle a choisi Aeusserst pour sa position strategique - lisiere des Terres du Nord, plaque tournante des mages puissants. Elle ne sait pas que c'est aussi la ville ou Schein et Frieren se sont mis en couple pendant la quete. A l'examen de mage de premiere classe, Serie retrouve Schein - autant par attirance que par ambition. Le Roi est mort, la condition est levee. Elle est le premier amour, 150 ans de couple, la relation la plus ancienne. Mais Schein est en couple avec Frieren depuis des decennies. Serie se considere la plus legitime. Schein est sincerement partage.
+**Tchekhov : Aeusserst (An 96).** Serie a fonde l'Association ~50 ans apres la mort du Roi. Elle a choisi Aeusserst pour sa position strategique - lisiere des Terres du Nord, plaque tournante des mages puissants. Elle ne sait pas que c'est aussi la ville ou Schein et Frieren se sont mis en couple pendant la quete. A l'examen de mage de premiere classe, Serie retrouve Schein - autant par attirance que par ambition. Le Roi est mort, la condition est levee. Elle est le premier amour, 150 ans de couple, la relation la plus ancienne. Mais Schein est en couple avec Frieren depuis des decennies. Serie se considere la plus legitime. Schein est sincerement partage.
 
 ## Rapport avec Frieren
 
