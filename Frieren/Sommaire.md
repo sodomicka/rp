@@ -1,6 +1,6 @@
 # Sommaire - Frieren
 
-- version : W11
+- version : W12
 
 ## WIKI
 
@@ -39,13 +39,14 @@ Description : fiches personnages cles et rapports detailles avec Schein.
 - Fern.md - identite, personnalite, capacites, backstory, rapport Schein (confiance par osmose)
 - Stark.md - identite, personnalite, capacites, backstory, rapport Schein (heritage d'Eisen, village detruit)
 - Stoltz.md - grand frere de Stark, plus puissant guerrier de Klee, sacrifice pour la fuite de Stark, rapport Schein (jamais croise, retrouvailles posthumes a Aureole)
-- Kraft.md - identite, personnalite, capacites, backstory, rencontres canon, rapport Schein (canon preserve, RP)
+- Kraft.md - identite, personnalite, capacites, backstory, rencontres canon, rapport Schein (six mois d'hiver a Decke, grace portee vs grace choisie)
 - Qual.md - identite, mentor Zoltraak, clemence/lachete, Ere Mythique
-- Solitaer.md - identite, capacites, rapport Schein, arc de Weise, arc du Monument
+- Solitaer.md - identite, capacites, rapport Schein, arc de Weise, arc du Monument, conseillere du regne (branche Serie)
 - Aura.md - identite, Ecailles d'Obeissance, rapport Schein, arc du Graf Granat
 - Boese.md - identite, magie de barriere, rapport Schein, duel pendant la quete
 - Grausam.md - identite, magie mentale, rapport Schein (mentor), arc du Monument, mort
 - Basalt_Porphyr_Gabbro.md - escouade de l'Executeur [DIVERGENCE RP] : Basalt (lieutenant, denonciation, seconde Schein lors du massacre du village elfe), Porphyr (discret, execute par le Roi), Gabbro (discret, execute par le Roi)
+- Revolte_Le_Divin.md - general demon quadri-arme de l'arc Revolte le Divin (canon), Epees Divines Trancheuses, subjugation a Rufen (Ere 5), divergences RP par branche (recul de Schein 5a / execution par Schein 5b), sbires (Hemmung, Solide, Yun, Trueb), mort dans les deux branches
 - Sense.md - identite, magie capillaire, pacifisme, rapport Schein (presentee par Serie, canon preserve)
 - Genau.md - identite, examinateur 1ere epreuve, rapport Schein (froideur professionnelle)
 - Lernen.md - identite, golems, premier mage 1ere classe, rapport Schein (fascination prudente)
@@ -53,7 +54,7 @@ Description : fiches personnages cles et rapports detailles avec Schein.
 - Wirbel.md - identite, Sorganeil, Corps du Nord, rapport Schein (mefiance pragmatique)
 - Methode.md - identite, restriction/hypnose, magie de la Deesse, rapport Schein (connexion theologique + curiosite affectueuse)
 - Land.md - identite, clones, rapport Schein (canon preserve)
-- Denken.md - identite, Mage Imperial, apprenti de Macht, Mystil'zla, rapport Schein (connexion via Macht)
+- Denken.md - identite, Mage Imperial, apprenti de Macht, Mistilziela, rapport Schein (connexion via Macht)
 - Richter.md - identite, Bargland (terre), boutique, rapport Schein (canon preserve)
 - Kanne_Et_Lawine.md - identites, eau/glace, synergie, rapport Schein (canon preserve)
 - Mages_Mineurs_Aeusserst.md - Laufen, Ehre, Scharf, Edel, Blei, Duenste, Ton, Laenge
