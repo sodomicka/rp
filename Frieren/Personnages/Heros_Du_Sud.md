@@ -3,14 +3,14 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : ENCYCLO_PERSONNAGES Section 5
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN (a lier au build)
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B29
 
 ## Identite
 
 - Nom : inconnu. Titre : Heros du Sud.
 - Espece : humain.
-- Age a sa mort : inconnu.
+- Age a sa mort : ~36 ans (ne ~86 av. An 0, mort ~50 av. An 0).
 - Role : considere comme le plus fort heros de l'humanite, plus fort que Himmel.
 - Puissance : magie de vision du futur parfaite. Savait qu'il allait mourir.
 - Exploits : a aneanti seul les troupes de premiere ligne du Roi des Demons en un an. Lors d'un 8 contre 1 (Schlacht + 7 Sages au complet), a tue Schlacht et 3 Sages avant de tomber.

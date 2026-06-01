@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : Heiter_Et_Eisen W1 (scission), canon anime S1-S2, Frieren Wiki, decisions joueur
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B13
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B29
 
 ---
 
@@ -12,7 +12,7 @@
 
 - Nom : Heiter (" joyeux/serein " en allemand).
 - Espece : humain.
-- Age : ~15 ans a An 0 (a grandi avec Himmel, meme generation). Mort ~An 90, ~105 ans. Longevite exceptionnelle pour un humain - Benediction de la Deesse.
+- Age : ~15 ans a An 0 (a grandi avec Himmel, meme generation). Mort ~An 89, ~104 ans. Longevite exceptionnelle pour un humain - Benediction de la Deesse.
 - Apparence : grand, lunettes rectangulaires, cheveux verts courts plaques en arriere avec deux meches rebelles. Robe noire a finitions dorees pendant la quete. Robe blanche d'eveque apres la quete.
 - Role : pretre du Groupe des Heros. Eveque a Strahl apres la quete.
 
@@ -88,10 +88,10 @@ Participe au complot Himmel/Heiter/Eisen pour pousser Schein et Frieren l'un ver
 
 ---
 
-## Notes W2
+## Notes W3
 
-- Correction date de mort : An ~74 -> An ~90. Age de mort : ~89 ans -> ~105 ans. La longevite exceptionnelle de Heiter est coherente avec la Benediction de la Deesse. Alignement BIBLE B12/B13.
-- Ajout detail des cinq ans de travail theologique a Strahl (An ~85-90) dans la section Fascination theologique.
+- Date de mort alignee sur la BIBLE : An ~89, age ~104 ans (recalage B29 ; la fiche W2 avait surcorrige a An ~90 / ~105). La longevite exceptionnelle de Heiter reste coherente avec la Benediction de la Deesse.
+- Travail theologique de cinq ans a Strahl (An ~85-90) conserve.
 
 ---
 

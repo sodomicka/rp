@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : ENCYCLO_PERSONNAGES Section 3, canon wiki (fandom), decisions joueur OOC
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B11
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B29
 
 ## Identite
 
@@ -30,7 +30,7 @@ Traits inhabituels pour un demon selon Solitaer (comme Schlacht et Macht), mais 
 
 ## Le plan du Roi
 
-Objectif : coexistence par evolution forcee de l'humanite. Methode : massacres comme protocole de recherche. Consequences : sphere d'influence de l'humanite reduite d'un tiers. Genocide des elfes ordonne ~990 av. An 0 (espece rivale en longevite et savoir magique). Cf. Demons/Societe_Et_Plan_Du_Roi.
+Objectif : coexistence par evolution forcee de l'humanite. Methode : massacres comme protocole de recherche. Consequences : sphere d'influence de l'humanite reduite d'un tiers. Le genocide des elfes est un protocole ancien, lance des l'Ere Mythique (les elfes : seule espece rivale en longevite et savoir magique). En ~990 av. An 0, le Roi depeche l'escouade de l'Executeur contre Bluete - gros village elfe des Terres Centrales volontairement epargne jusque-la et garde en reserve, employe comme arme pour briser Schein (expedition exceptionnelle, hors du secteur Nord habituel de l'escouade). Cf. Demons/Societe_Et_Plan_Du_Roi, SB6.
 
 ## Rapport avec Schein
 
@@ -40,7 +40,7 @@ Objectif : coexistence par evolution forcee de l'humanite. Methode : massacres c
 
 **Titre de Prince.** Pas par affection (le Roi ne ressent rien). Outil de manipulation : la reconnaissance paternelle est le levier pour infliger les pires tortures sans perdre l'allegeance.
 
-**500 ans de tortures (~1 490-990 av.).** Trois phases : pedagogique (premiers siecles - erreurs d'executeur, " soigne-toi fils "), sadique (~2 siecles - pretextes absurdes, le Roi etudie la souffrance), cellule (1 an - 365 tortures physiques uniques + 1 jour de terreur pure, yeux dores ternis en gris, " Merci pere " absent pour la premiere fois). Les tortures sont autant un protocole experimental (jusqu'ou l'empathie resiste-t-elle ?) qu'une tentative de fabrication d'arme. Schein est le specimen le plus precieux du Roi - un demon qui a accompli spontanement ce que le Roi tente de provoquer chez les humains.
+**500 ans de tortures (~1 490-990 av.).** Trois phases : pedagogique (premiers siecles - erreurs d'executeur, " soigne-toi fils "), sadique (~2 siecles - pretextes absurdes, le Roi etudie la souffrance), cellule (1 an, 365 jours : 364 tortures physiques uniques - une par jour, jamais la meme - puis une 365e purement psychologique : une journee entiere a attendre une douleur qui ne vient jamais, terreur pure ; les yeux dores ternissent en gris ; ce 365e jour, le " Merci pere " est absent pour la premiere fois). Les tortures sont autant un protocole experimental (jusqu'ou l'empathie resiste-t-elle ?) qu'une tentative de fabrication d'arme. Schein est le specimen le plus precieux du Roi - un demon qui a accompli spontanement ce que le Roi tente de provoquer chez les humains.
 
 **Semaine de confort.** Le Roi simule l'amour paternel. Preparation psychologique avant le massacre du village elfe.
 

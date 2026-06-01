@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : ENCYCLO_PERSONNAGES Section 2 (rapport Schein + rapport Frieren)
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN (a lier au build)
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B29
 
 ## Rapport avec Schein
 

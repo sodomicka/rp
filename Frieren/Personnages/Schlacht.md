@@ -3,14 +3,14 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : canon wiki (fandom, villains wiki), TV Tropes, decisions joueur OOC
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B2
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B29
 
 ## Identite
 
 - Nom : Schlacht (" bataille/carnage " en allemand). Titre : Schlacht l'Omniscient.
 - Espece : demon.
-- Age : indetermine. Ancien - assez pour avoir servi le Roi depuis l'unification de l'espece [INCERTAIN].
+- Age : ~2 300 ans a sa mort (~50 av. An 0). Sert le Roi depuis longtemps - assez ancien pour avoir accompagne l'unification de l'espece. Apparence : plateau de vieillissement (~20-25 apparents, cf. SB1).
 - Apparence : capuchonne, cheveux clairs, paire de longues cornes montantes courbees vers l'interieur. Tenue de mage avec epaulieres.
 - Role : Conseiller du Roi des Demons - position unique au-dessus du Prince et des Sept Sages (cf. Demons/Hierarchie_Et_Territoire). N'est PAS un des Sept Sages. Le seul etre que le Roi consulte. Relaie les ordres du Roi, coordonne les Sages.
 - Personnalite : pose, maitre de lui. Interet inhabituel pour le maintien de relations avec les autres demons - atypique pour l'espece. Manipulateur strategique, pas par cruaute mais par calcul millenaire.
@@ -60,7 +60,8 @@ Ses manoeuvres connues :
 - Le titre de prince pour Schein : succession preparee.
 - L'effacement des souvenirs de Macht : proteger les informations strategiques de Frieren.
 - Le rassemblement des Sages contre le Heros du Sud : sacrifice calcule pour reduire la menace humaine, meme au prix de sa propre vie et de celle de trois Sages.
-- [INCERTAIN] D'autres preparations non encore revelees. Un devin qui voit mille ans ne planifie pas que trois coups.
+
+Son pari le plus profond, c'est Schein lui-meme. Voyant que le Roi balaie ses avertissements, Schlacht mise sur le prince comme avenir de l'espece - le titre de prince (cf. Roadmap_Chateau bloc 1.4) est ce pari rendu visible : preparer un successeur plutot que laisser l'espece sans tete. Ironie absolue : il investit sur la seule anomalie que sa prescience ne peut pas lire. Schein lui apparait flou dans ses visions, sans qu'il devine que c'est la nature divine du prince qui brouille l'image. Le devin qui voit mille ans fonde son meilleur calcul sur un angle mort - et ne saura jamais pourquoi.
 
 ## Miroir thematique
 
@@ -71,11 +72,11 @@ Difference structurelle pour le RP : le Heros du Sud visite Schein et Frieren da
 ## Relations
 
 - **Roi des Demons** : relation fonctionnelle. Le seul etre que le Roi consulte. Le Roi ignore sa prediction sur Schein, puis recalibre sa confiance apres l'exil - les predictions de Schlacht passent de bruit de fond a donnees fiables.
-- **Schein** : respect calculateur. Tente de renforcer la loyaute pour changer la vision. Echoue. A initie le titre de prince comme plan de succession.
+- **Schein** : respect calculateur. Tente de renforcer la loyaute pour changer la vision. Echoue. A initie le titre de prince comme plan de succession - son pari sur l'avenir de l'espece, mise sur la piece qu'il ne peut pas lire.
 - **Macht** : le force regulierement a participer a ses plans. Relation de dominance par la menace et le levier strategique.
 - **Heros du Sud** : miroir, contrepartie, adversaire final. Mutuellement tues.
 - **Grausam** : outil - utilise comme levier contre Macht et comme effaceur de souvenirs.
-- **Solitaer** : [INCERTAIN] - relation non etablie.
+- **Solitaer** : pair dans le cercle intellectuel du Roi. Elle le classe parmi les rares demons atypiques (avec le Roi et Macht, cf. Roi_Des_Demons). Tous deux ont observe Schein au chateau (seances de torture, Roadmap_Chateau 3.3) - deux analystes du meme specimen, prescience strategique contre modele d'evolution convergente, et le MEME angle mort sur Schein (ni la prescience ni le modele ne le percent ; la nature divine cachee echappe aux deux). Divergence latente : Solitaer juge la guerre du Roi un gaspillage, Schlacht l'orchestre pour la survie de l'espece. Miroir generationnel : en branche Serie, Solitaer occupera pour Schein roi la fonction que Schlacht tenait pour le Roi - conseillere du trone, mais pour un fils qui ecoute, la ou Schlacht servait un pere qui l'ignorait.
 
 ---
 

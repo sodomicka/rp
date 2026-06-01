@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : ENCYCLO_PERSONNAGES Section 1 (rapport avec Schein)
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN (a lier au build)
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B29
 
 [DIVERGENCE RP]
 
@@ -30,13 +30,13 @@ Pendant les siecles suivants, Frieren entend parler du demon tueur de demons. Fl
 
 ## Ere Himmel
 
-Himmel recrute Frieren ~10 av. An 0. Schein accepte de se joindre. Frieren est deja acquise a Schein - 500 ans de hutte. Pendant la quete, Himmel comprend que le coeur de Frieren est pris - pas par lui, mais par Schein. Il passe le flambeau avec maturite et heroisme, et avec Heiter et Eisen, fait en sorte que les deux comprennent leurs sentiments. Schein et Frieren se mettent ensemble a Aeusserst pendant la quete.
+Himmel recrute Frieren a An 0. Schein accepte de se joindre. Frieren est deja acquise a Schein - 500 ans de hutte. Pendant la quete, Himmel comprend que le coeur de Frieren est pris - pas par lui, mais par Schein. Il passe le flambeau avec maturite et heroisme, et avec Heiter et Eisen, fait en sorte que les deux comprennent leurs sentiments. Schein et Frieren se mettent ensemble a Aeusserst pendant la quete.
 
 ## Apres la victoire
 
-La mort de Himmel (An 50) frappe Frieren : elle pleure l'homme qui lui a donne ce qu'elle n'aurait jamais su prendre seule. La gratitude inexprimee remplace l'amour manque du canon. Meme lecon : " j'aurais du mieux comprendre les humains, a leur echelle. "
+La mort de Himmel (An 65) frappe Frieren : elle pleure l'homme qui lui a donne ce qu'elle n'aurait jamais su prendre seule. La gratitude inexprimee remplace l'amour manque du canon. Meme lecon : " j'aurais du mieux comprendre les humains, a leur echelle. "
 
-## Aeusserst (An ~81)
+## Aeusserst (An 96)
 
 La ville ou Schein et Frieren se sont trouves devient le terrain des retrouvailles avec Serie. Triangle charge : Serie revient reclamer ce qu'elle considere sien, Frieren veut garder ce qui est deja sien. Chacune voit en Schein la seule fois ou elle a aime sans penser aux affres du temps.
 

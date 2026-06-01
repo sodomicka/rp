@@ -3,14 +3,14 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : ENCYCLO_PERSONNAGES Section 4
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN (a lier au build)
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B29
 
 ## Identite
 
 - Nom : Flamme. Titre : Grande Mage.
 - Espece : humaine.
-- Age a sa mort : ~50+ ans (meurt ~950 av. An 0).
+- Age a sa mort : ~85 ans (nee ~1 015 av. An 0, morte ~930 av. An 0).
 - Role : apprentie de Serie. Maitre de Frieren. A lance le mouvement de retro-ingenierie de la magie demoniaque ~1 000 ans avant la mort du Roi. A nomme les demons " monstres articules ".
 - Puissance : a enseigne a Frieren la suppression de mana. A voyage jusqu'a Aureole et parle avec ses anciens camarades. A plante les graines d'un arbre millenaire pour proteger ses notes. Champ de fleurs - sort favori, enseigne a Frieren.
 - Personnalite canon : irresponsable selon Frieren, mais visionnaire. A predit que Frieren ferait une erreur qu'elle regretterait. Qualifie Serie de " va-t-en-guerre ".

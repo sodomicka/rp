@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : ENCYCLO_PERSONNAGES Section 2 (identite, personnalite, capacites, rapport Flamme)
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN (a lier au build)
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B29
 
 ## Identite
 
@@ -32,7 +32,7 @@ Pragmatique, transactionnelle, froide en surface (trait elfique). Tres juste dan
 
 ## Rapport avec Flamme
 
-Serie a eleve Flamme enfant (" sur un coup de tete " selon elle). Confiance profonde malgre des visions du monde opposees. Flamme la qualifie de va-t-en-guerre. ~950 av. An 0 : Frieren apporte le testament de Flamme a Serie - devenir instructrice de mages. Serie dechire le testament. ~1 000 ans plus tard, Serie fonde l'Association Continentale de Magie - compromis : former l'elite, pas tout le monde. Organise la troisieme epreuve de l'examen dans un champ de fleurs de Flamme. Dit " inutile ", " coup de tete ", " non " - ses actes disent le contraire un millenaire apres. Meme pattern elfique que Frieren avec Himmel : l'amour qu'on ne nomme pas.
+Serie a eleve Flamme enfant (" sur un coup de tete " selon elle). Confiance profonde malgre des visions du monde opposees. Flamme la qualifie de va-t-en-guerre. ~930 av. An 0 : Frieren apporte le testament de Flamme a Serie - devenir instructrice de mages. Serie dechire le testament. ~1 000 ans plus tard, Serie fonde l'Association Continentale de Magie - compromis : former l'elite, pas tout le monde. Organise la troisieme epreuve de l'examen dans un champ de fleurs de Flamme. Dit " inutile ", " coup de tete ", " non " - ses actes disent le contraire un millenaire apres. Meme pattern elfique que Frieren avec Himmel : l'amour qu'on ne nomme pas.
 
 ---
 

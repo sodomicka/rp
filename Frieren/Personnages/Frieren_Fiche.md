@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : ENCYCLO_PERSONNAGES Section 1 (identite, personnalite, capacites, limites, backstory)
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN (a lier au build)
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B29
 
 ## Identite
 
@@ -43,9 +43,9 @@ Nonchalante, distante, mysterieuse pour ses pairs. Sens du temps radicalement di
 
 ## Backstory
 
-Nee et elevee dans un village elfique non nomme. Deja la plus puissante du village. ~990 av. An 0 : le village est detruit par les forces du Roi des Demons. Basalt le Trone, un general subordonne de Schein, mene l'assaut. C'est Schein lui-meme qui fait face a Frieren enfant (~300 ans, ~15 apparents). Frieren lui arrache la main gauche. L'hesitation de Schein face a cette enfant elfe ultra douee est la premiere felure - il ne l'acheve pas.
+Nee et elevee a Bluete, village elfe des Terres Centrales (cf. SB6). Deja la plus puissante du village. ~990 av. An 0 : le village est detruit par les forces du Roi des Demons. Basalt le Trone, lieutenant de l'escouade de l'Executeur (subordonne direct de Schein), mene l'assaut. C'est Schein lui-meme qui fait face a Frieren enfant (~300 ans, ~15 apparents). Frieren lui arrache la main gauche. L'hesitation de Schein face a cette enfant elfe ultra douee est la premiere felure - il ne l'acheve pas.
 
-Flamme arrive trop tard pour sauver le village, acheve les derniers demons, recueille Frieren. Trois demons plus puissants que Basalt sont envoyes traquer les elfes - Flamme les detruit en revelant son mana masque. Moment fondateur de l'enseignement de la suppression de mana a vie. Flamme predit les futurs problemes de Frieren (incapacite a comprendre les humains) et prepare des guides un millenaire a l'avance. Flamme amene Frieren rencontrer Serie. Flamme meurt ~950 av. An 0 - Frieren fait pousser un champ de fleurs sur sa tombe (dernier souhait). Frieren part en aventure solo pendant des siecles.
+Flamme arrive trop tard pour sauver le village, acheve les derniers demons, recueille Frieren. Trois demons plus puissants que Basalt sont envoyes traquer les elfes - Flamme les detruit en revelant son mana masque. Moment fondateur de l'enseignement de la suppression de mana a vie. Flamme predit les futurs problemes de Frieren (incapacite a comprendre les humains) et prepare des guides un millenaire a l'avance. Flamme amene Frieren rencontrer Serie. Flamme meurt ~930 av. An 0 (~85 ans) - Frieren fait pousser un champ de fleurs sur sa tombe (dernier souhait). Frieren part en aventure solo pendant des siecles.
 
 L'hesitation de Schein au village est la premiere felure dans le raisonnement de Flamme et de Frieren : elles admettront une exception a la regle " tous les demons mentent " en apprenant qu'un demon massacre les siens.
 

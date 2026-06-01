@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : ENCYCLO_PERSONNAGES Section 6, canon wiki (fandom), decisions joueur OOC
-- version : W4
-- bible rattachee : BIBLE_LORE_FRIEREN B28
+- version : W5
+- bible rattachee : BIBLE_LORE_FRIEREN B29
 
 ## Identite
 
@@ -57,7 +57,7 @@ Le prix d'une vie. Et la lecon : Himmel a eu tort sur le demon-enfant - mais rai
 
 **La bague de lotus.** Sur un marche, Schein ne sait pas quoi offrir a Frieren. Himmel lui montre la bague de lotus - symbole d'amour eternel - et lui dit de l'offrir a Frieren. Schein l'achete sans en connaitre le sens. Himmel garde le secret. Le demon offre a Frieren l'equivalent d'une demande en mariage sans le savoir, et l'humain ephemere est celui qui a rendu ca possible.
 
-**Ausserst.** Pendant la quete, le groupe passe par Ausserst. C'est la que Schein et Frieren comprennent leur amour. [Le groupe y repassera des decennies plus tard, sur les traces de Himmel - Ausserst An ~81 : retrouvailles Serie/Schein, cf. Personnages/Serie_Rapport_Schein.]
+**Aeusserst.** Pendant la quete, le groupe passe par Aeusserst. C'est la que Schein et Frieren comprennent leur amour. [Le groupe y repassera des decennies plus tard, sur les traces de Himmel - Aeusserst An 96 : retrouvailles Serie/Schein, cf. Personnages/Serie_Rapport_Schein.]
 
 **Renoncement.** Himmel comprend que le coeur de Frieren est pris - pas par lui, mais par Schein. Ce n'est pas de la defaite, c'est de la comprehension. Frieren a besoin de quelqu'un de sa longevite. Avec Heiter et Eisen, Himmel fait en sorte que le demon et l'elfe comprennent leurs sentiments. Des amis qui creent un couple issu de non-dits.
 

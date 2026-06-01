@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : decisions joueur OOC
-- version : W3
-- bible rattachee : BIBLE_LORE_FRIEREN B23
+- version : W4
+- bible rattachee : BIBLE_LORE_FRIEREN B29
 
 ## Presentation
 
@@ -43,7 +43,7 @@ Classes par ordre d'importance narrative decroissante.
 
 **La denonciation.** Lors d'une mission de traque, un deserteur echappe a la vigilance de Schein - la peur de mourir l'a rendu fute, il s'est bien cache. Basalt retrouve le fuyard et le ramene. Puis il denonce Schein aupres du Roi : le prince a laisse echapper une cible. Basalt ne fait pas ca par malice. Il fait ca parce que l'allegiance au Roi prime sur la loyaute au chef d'escouade. La regle absolue du Royaume, appliquee sans etats d'ame.
 
-**Les tortures.** Consequence directe de la denonciation : le Roi lance la torture ultime. Un an de cellule, 365 tortures physiques uniques, un jour de terreur pure. Basalt assiste a certaines seances - et s'en delecte. Observer le prince souffrir n'est pas de la rebellion ; c'est du divertissement. Le mepris d'un subalterne qui sait que son chef est casse et que le Roi le casse davantage.
+**Les tortures.** Consequence directe de la denonciation : le Roi lance la torture ultime. Un an de cellule, 365 jours : 364 tortures physiques uniques, puis un 365e jour d'attente terrifiee - une douleur annoncee qui ne vient jamais. Basalt assiste a certaines seances - et s'en delecte. Observer le prince souffrir n'est pas de la rebellion ; c'est du divertissement. Le mepris d'un subalterne qui sait que son chef est casse et que le Roi le casse davantage.
 
 **Le massacre.** Sur ordre du Roi transmis via Schein, l'escouade massacre Bluete, gros village elfe des Terres Centrales que le Roi avait volontairement epargne jusque-la (expedition exceptionnelle, hors de leur secteur du Nord, pour briser Schein) : les quatre demons se partagent les lieux, chacun sa portion. Schein y participe, vide, brise par un an de cellule et creuse par la semaine de confort. 230 victimes. Basalt meurt face a Frieren enfant ; la chute de son mana attire Schein. La main gauche de Schein saute sous la defense de Frieren - et c'est la peur de mourir de la petite elfe, preuve qu'une proie a des sentiments, qui fait remonter les siens. Ce n'est pas la braise qui a survecu seule : c'est Frieren qui la rallume.
 
