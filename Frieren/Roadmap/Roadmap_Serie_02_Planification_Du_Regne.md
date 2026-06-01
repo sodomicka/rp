@@ -4,9 +4,9 @@
 - dossier : Roadmap
 - segment : Ere souveraine - reconstruction du couple, ralliement des elites humaines et demoniaques, fondation du regne (branche 5b)
 - periode : An 96 a An 96+ (Ere 5, branche 5b ; ouverture sur quelques decennies en snapshots)
-- sources : BIBLE_LORE B26, Roadmap_Aeusserst (etape 5b, entree), Roadmap_Frieren_02_Plateau_Nord (calque Revolte), Roadmap_Frieren_03_Terres_Dorees (calque Weise), Roadmap_Serie_01_Premier_Contact (ere passee), Personnages/ (Serie_Rapport_Schein, Macht, Solitaer, Denken, Methode, Wirbel, Lernen, Uebel, Genau, Sense, Falsch_Frei_Burg, Stark, Fern, Frieren_Fiche), Demons/ (Hierarchie_Et_Territoire, Societe_Et_Plan_Du_Roi, Emotions_Et_Instincts), Theologie/Epee_De_Damocles, canon anime S2 + manga (Divine Revolte, Golden Land, Goddess's Monument), decisions worldbuilder 2026-06-01
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B26
+- sources : BIBLE_LORE B30, Roadmap_Aeusserst (etape 5b, entree), Roadmap_Frieren_02_Plateau_Nord (calque Revolte), Roadmap_Frieren_03_Terres_Dorees (calque Weise), Roadmap_Serie_01_Premier_Contact (ere passee), Personnages/ (Serie_Rapport_Schein, Macht, Solitaer, Denken, Methode, Wirbel, Lernen, Uebel, Genau, Sense, Falsch_Frei_Burg, Stark, Fern, Frieren_Fiche), Demons/ (Hierarchie_Et_Territoire, Societe_Et_Plan_Du_Roi, Emotions_Et_Instincts), Theologie/Epee_De_Damocles, canon anime S2 + manga (Divine Revolte, Golden Land, Goddess's Monument), decisions worldbuilder 2026-06-01
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B30
 
 ---
 
@@ -80,23 +80,23 @@ Repartition du triumvirat fondateur, a tenir tout le segment : Serie oeuvre au n
 - **Evenements** :
  - Serie et Schein remontent vers le Nord pour le rallier, accompagnes de leurs mages de premiere classe disponibles : Uebel, Denken, Genau, Frei, Lernen, Sense. La premiere rencontre importante du regne est Revolte le Divin.
  - Reconvergence inattendue : le groupe de Frieren (Frieren, Fern, Stark), qui poursuit sa route au Nord depuis Aeusserst, croise le contingent de Serie sur la meme subjugation. Le destin recolle les deux groupes une derniere fois, apres l'adieu deja echange a Aeusserst.
- - L'adversaire : Revolte le Divin - demon general, mi-humanoide mi-serpent, deux paires de bras, quatre Epees Divines Trancheuses. Avec lui, deux sbires (le demon de la brume et un second general).
+ - L'adversaire : Revolte le Divin - demon general, mi-humanoide mi-serpent, deux paires de bras, quatre Epees Divines Trancheuses. Avec lui, ses sbires : Hemmung (le demon de la brume), Solide (le demon de la foret) et Jung (l'enfant-leurre).
  - Substitution de casting (par rapport au calque canon 5a, ou Genau et Methode tiennent ces roles) :
  -- Schein prend le slot de Genau : il se place avec Stark face a Revolte. (Genau est present dans le contingent, mais son binome Frei est vivant - il n'a pas de mort a venger ; c'est Schein qui mene la confrontation.)
  -- Serie prend le slot de Methode (la representante de l'Association), mais combat : elle rejoint Frieren et Fern en foret.
  -- Les autres mages (Uebel, Denken, Lernen, Sense, Genau, Frei) portent secours aux villages voisins et tiennent les sbires.
- - Le piege de l'enfant-leurre se presente - Revolte exploite la gentillesse comme une faille. Mais Frei, vivant, n'y laisse pas la vie : le contingent est trop nombreux, personne n'est isole.
- - Revolte refuse l'autorite de Schein, ses deux sbires aussi. Pose la regle du regne : on rallie les volontaires, on broie ceux qui refusent. Les trois demons sont demolis par les deux groupes heterogenes.
+ - Le piege de l'enfant-leurre se presente - Jung, deguisee en fillette, vise le binome qui tient Revolte : Schein et Stark, misant sur l'instinct de protection. Il fait long feu : un demon ne s'y trompe pas (Schein), Stark est couvert, et le contingent est trop nombreux pour isoler quiconque. Frei, vivant, n'y laisse pas la vie.
+ - Revolte refuse l'autorite de Schein, ses sbires aussi. Pose la regle du regne : on rallie les volontaires, on broie ceux qui refusent. Les demons sont demolis par les deux groupes heterogenes.
  - Schein applique avec Stark le conseil donne aux adieux d'Aeusserst (la maniere de combattre les demons) - detonation du plant. Stark prouve sa valeur ; Schein le couvre et acheve.
  - Methode (cote contingent) et les detecteurs captent de nouveau la signature mi-divine de Schein.
-- **Personnages impliques** : Schein, Serie, Frieren, Fern, Stark, Genau, Frei, Uebel, Denken, Lernen, Sense, Revolte le Divin, demon de la brume [nom INCERTAIN], second general.
+- **Personnages impliques** : Schein, Serie, Frieren, Fern, Stark, Genau, Frei, Uebel, Denken, Lernen, Sense, Revolte le Divin, Hemmung (la brume), Solide (la foret), Jung (l'enfant-leurre).
 - **Role de Schein** : roi en campagne. Il offre la soumission a un general demon, essuie un refus, et tranche - le premier acte de souverainete par le fer. Et il combat aux cotes de Stark une derniere fois, transmetteur jusqu'au bout, sous le regard du groupe qu'il quitte.
 - **Tchekhov** :
  - Conseil de Schein a Stark - DETONATION. Plant pose en Roadmap_Aeusserst 5b (adieux) ; il se joue ici. Stark l'applique pour aider a abattre Revolte.
  - Magie de lumiere / nature divine - Methode et les detecteurs captent la signature mi-divine (graine non resolue).
  - Empathie de Schein - le piege de l'enfant-leurre (la gentillesse comme faille) resonne avec le parcours de Schein.
  - Peur d'aimer - les deux groupes reunis une derniere fois ; Schein combat sous le regard de Frieren, qu'il a quittee.
-- **Notes** : Canon Divine Revolte (Rufen, demon general quadri-armes, demon de la brume, enfant-leurre). Substitution Schein/Genau et Serie/Methode = divergence RP. Frei survit ici (post-divergence ; cote Frieren 5a il tombe - cf. propagation Falsch_Frei_Burg + Genau + Frieren_02 etape 6). Le canon place le binome de Genau mort en backstory ; pour le RP, sa mort est repositionnee post-Aeusserst (Frei vivant a l'examen). Demon de la brume : nom precis non source [INCERTAIN]. Cf. Personnages/Genau, Falsch_Frei_Burg, Stark, Methode.
+- **Notes** : Canon Divine Revolte (Rufen, demon general quadri-armes, demon de la brume, enfant-leurre). Substitution Schein/Genau et Serie/Methode = divergence RP. Frei survit ici (post-divergence ; cote Frieren 5a il tombe - cf. propagation Falsch_Frei_Burg + Genau + Frieren_02 etape 6). Le canon place le binome de Genau mort en backstory ; pour le RP, sa mort est repositionnee post-Aeusserst (Frei vivant a l'examen). [B30 : Trueb supprime ; la brume = Hemmung (sbire canon) ; Yun -> Jung (graphie maison) ; Jung vise Schein et Stark en 5b.] Cf. Personnages/Revolte_Le_Divin, Genau, Falsch_Frei_Burg, Stark, Methode.
 
 ---
 
@@ -109,7 +109,7 @@ Repartition du triumvirat fondateur, a tenir tout le segment : Serie oeuvre au n
 - **Evenements** :
  - Le vrai dernier adieu. Apres Revolte, Serie et Schein font leurs adieux definitifs au groupe qui avait accompagne Schein - Frieren, Fern, Stark. Ils ne se reverront plus. Frieren, Fern et Stark poursuivent leur route ; Serie, Schein et Denken partent vers les Terres Dorees.
  - Weise. La cite et sa region sont figees dans l'or - la Diagoldze de Macht, dernier Sage, scelle depuis des decennies (Serie etait venue le tuer ; Lernen l'avait suppliee de le sceller pour chercher un remede).
- - Le descellement et la restauration. Denken (Mystil'zla), Serie (renvoi de maledictions) et Schein (magie native, le seul a avoir defait la Diagoldze sur le bras de Frieren ~590 av.) ont chacun de quoi rompre l'or. Ils descellent Macht, et restaurent tout - la cite, Gluck, les habitants. La restauration EST la premiere demonstration publique de la voie douce : defaire l'or au lieu de le laisser, rendre la vie au lieu de la figer.
+ - Le descellement et la restauration. Denken (Mistilziela), Serie (renvoi de maledictions) et Schein (magie native, le seul a avoir defait la Diagoldze sur le bras de Frieren ~590 av.) ont chacun de quoi rompre l'or. Ils descellent Macht, et restaurent tout - la cite, Gluck, les habitants. La restauration EST la premiere demonstration publique de la voie douce : defaire l'or au lieu de le laisser, rendre la vie au lieu de la figer.
  - Macht ploie. Pas par peur : par reconnaissance de souverainete. Voir Schein rompre l'or que lui-meme ne sait pas inverser, c'est voir un roi. Le reflexe de fuite, chez un demon assez curieux pour le depasser, se retourne en deference : le tueur de demons a l'etoffe d'un roi dans sa cruaute envers son propre peuple. Macht - qui deteste le conflit, sans ambition de pouvoir - rejoint la caution ralliee du regne.
  - Solitaer rejoint. Alignee d'avance (elle jugeait deja la guerre du Roi un gaspillage), portee par sa dette (Schein l'a fait epargner au Monument ~An 7) et par sa fascination (Schein est le paradoxe vivant qu'elle n'a jamais resolu). Elle est nettement plus puissante que Schein et le sait : elle ne se soumet pas, elle adhere a un plan qui fonctionne. Elle devient l'architecte du regne au nom des demons.
  - Le rapport de Solitaer. Elle raconte avoir observe le groupe humain et que Frieren a atteint, avant eux, le Monument de la Deesse.
