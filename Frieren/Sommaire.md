@@ -1,6 +1,6 @@
 # Sommaire - Frieren
 
-- version : W15
+- version : W16
 
 ## WIKI
 
