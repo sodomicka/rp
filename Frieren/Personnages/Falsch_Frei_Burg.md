@@ -50,12 +50,12 @@ Classes par ordre d'importance narrative decroissante.
 - Apparence : non detaillee dans le canon.
 - Personnalite : sincere, chaleureux, naif, trop amical - l'oppose exact de Genau. Dote d'un talent reel mais d'une confiance en la bonte qui le rendait vulnerable. Serie le considerait comme trop gentil pour survivre au Plateau Nord. Genau le qualifiait de heros.
 - Capacites : non detaillees dans le canon. Premiere classe, donc puissant par definition, mais sa specialisation reste inconnue. Son approche du combat privilegiait la protection d'autrui sur sa propre survie - un profil defensif-altruiste.
-- Mort : tue par Revolte le Divin en protegeant un enfant qui etait un leurre demoniaque. La meme ruse que Genau faillira reproduire des annees plus tard lors de la subjugation du meme demon. Serie, devant le cercueil, avait note que sa gentillesse etait la cause directe de sa mort. Genau avait repondu qu'il avait eu " une fin magnifique ".
+- Statut : vivant a Aeusserst (~An 96), mage de premiere classe en activite. [DIVERGENCE RP - correction de timing] Sa mort n'est PAS anterieure a Aeusserst : il est envoye au Nord apres l'examen. Branche Frieren (5a) : il tombe durant la campagne du Nord, tue par Revolte le Divin en protegeant un enfant-leurre demoniaque ; Genau le voit tomber et, au rematch de Rufen (~An 97), venge sa mort (les deux sont vrais - il voit ET il venge). Serie, devant le cercueil, note que sa gentillesse fut la cause directe de sa mort ; Genau repond qu'il a eu " une fin magnifique ". Branche Serie (5b) : Serie envoie tout le contingent, pas le seul binome Genau+Frei ; Frei n'est jamais isole, il survit. Cf. Roadmap_Frieren_02_Plateau_Nord etape 6 et Roadmap_Serie_02_Planification_Du_Regne etape 3.
 - Tier de puissance : B+ (premiere classe).
 
 ### Rapport avec Schein [DIVERGENCE RP]
 
-Aucun rapport direct. Frei est mort avant Aeusserst, probablement sans avoir jamais entendu parler de Schein.
+Aucun rapport direct dans la branche Frieren (il y meurt durant la campagne du Nord). Dans la branche Serie, Frei survit et sert sous le regne parmi les mages de premiere classe rallies, mais sans rapport autonome avec Schein (sa pertinence passe par Serie).
 
 **Fonction narrative.** Frei est un argument posthume. Serie peut evoquer la perte d'un mage de premiere classe comme preuve de la dangerosite du monde qu'elle structure - et, par extension, de la valeur de ce qu'elle a bati. La naivete de Frei fonctionne aussi comme miroir inverse de Schein : un humain trop bon pour ce monde, face a un demon trop bon pour son espece. La difference : Schein a survecu a sa naivete. Frei, non.
 
@@ -100,7 +100,7 @@ Aucun rapport direct. Burg est un personnage posthume dont la mort precede Aeuss
 | Nom | Rang | Magie / Specialite | Statut | Fonction narrative (RP) |
 |---|---|---|---|---|
 | Falsch | 1ere classe, examinateur 3e epreuve | Ombre, transformation, surveillance | Vivant | Vitrine de Serie - competence, fidelite, facade |
-| Frei | 1ere classe, partenaire de Genau | Inconnue (profil defensif-altruiste) | Mort (Revolte le Divin) | Miroir posthume - naivete qui tue vs. naivete qui survit |
+| Frei | 1ere classe, partenaire de Genau | Inconnue (profil defensif-altruiste) | Mort cote Frieren / vivant cote Serie | Miroir - naivete qui tue vs. naivete qui survit |
 | Burg | 1ere classe, examinateur 2e classe | Defense (Cape Inamovible) | Mort (Uebel, ~An 94) | Puissance et limites de l'Association |
 
 ---

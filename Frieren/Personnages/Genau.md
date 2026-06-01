@@ -43,7 +43,7 @@ Sous la surface, la situation est chargee. Genau a passe sa carriere dans un cad
 
 ## Relations
 
-**Frei.** Ancien partenaire de mission. Premiere classe, naif, doue, trop gentil. Tue par le Divin Revolte en protegeant un leurre demoniaque. Leur binome fonctionnait sur le meme schema que celui de Genau et Methode - un cynique avec un idealiste. La mort de Frei est l'evenement fondateur de la carapace de Genau. Cf. Personnages/Falsch_Frei_Burg.
+**Frei.** Partenaire de mission. Premiere classe, naif, doue, trop gentil. Vivant a Aeusserst ; envoye au Nord apres l'examen. Branche Frieren : tue par le Divin Revolte en protegeant un leurre demoniaque - sa mort cimente la carapace de Genau (la gentillesse tue). Branche Serie : il survit (contingent renforce), et la carapace de Genau n'a pas ce deuil pour fondation. Leur binome fonctionnait sur le meme schema que celui de Genau et Methode - un cynique avec un idealiste. Cf. Personnages/Falsch_Frei_Burg.
 
 **Sense.** Collegue examinatrice. Supervise la premiere epreuve avec elle. Sense le critique pour la mortalite de son epreuve ; Genau balaie la critique sans emotion apparente.
 
