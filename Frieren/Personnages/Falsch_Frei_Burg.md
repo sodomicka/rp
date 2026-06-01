@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : canon wiki (fandom), TV Tropes, decisions joueur OOC
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B4
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B30
 
 ## Presentation
 
@@ -16,7 +16,7 @@ Classes par ordre d'importance narrative decroissante.
 
 ## Falsch
 
-- Nom : Falsch (" faux / inexact " en allemand).
+- Nom : Falsch ("faux / inexact" en allemand).
 - Espece : humain.
 - Age : adulte. Apparence stricte.
 - Rang : mage de premiere classe, examinateur de la troisieme epreuve a Aeusserst. Apprenti de Serie.
@@ -29,7 +29,7 @@ Classes par ordre d'importance narrative decroissante.
 
 **Aeusserst (~An 96).** Falsch est present quand Serie introduit Schein aupres de ses examinateurs (Genau, Sense, Lernen, Falsch). C'est le plus observable des quatre - il analyse Schein comme il analyse tout le monde, pousse ses lunettes, note mentalement le mana aberrant, la signature mi-mage mi-pretre, les cornes. Il ne dit rien de deplace. Il obeit a Serie.
 
-**Fonction narrative.** Falsch est la vitrine ambulante de Serie. Competent, fiable, polyvalent, discipline - exactement ce que Serie veut montrer a Schein : " regarde ce que mes mages valent, regarde ce que j'ai construit pendant que tu chassais seul dans les forets ". Serie n'a pas besoin de le dire explicitement ; la qualite de Falsch parle d'elle-meme. Et Falsch, fidele a son nom, incarne la facade parfaite : tout a l'air impeccable en surface, la complexite est en dessous.
+**Fonction narrative.** Falsch est la vitrine ambulante de Serie. Competent, fiable, polyvalent, discipline - exactement ce que Serie veut montrer a Schein : "regarde ce que mes mages valent, regarde ce que j'ai construit pendant que tu chassais seul dans les forets". Serie n'a pas besoin de le dire explicitement ; la qualite de Falsch parle d'elle-meme. Et Falsch, fidele a son nom, incarne la facade parfaite : tout a l'air impeccable en surface, la complexite est en dessous.
 
 ### Relations
 
@@ -43,14 +43,14 @@ Classes par ordre d'importance narrative decroissante.
 
 ## Frei
 
-- Nom : Frei (" libre " en allemand). [DIVERGENCE RP - non nomme dans le canon.]
+- Nom : Frei ("libre" en allemand). [DIVERGENCE RP - non nomme dans le canon.]
 - Espece : humain.
 - Age : adulte.
 - Rang : mage de premiere classe. Ancien partenaire de Genau pour les missions de l'Association.
 - Apparence : non detaillee dans le canon.
 - Personnalite : sincere, chaleureux, naif, trop amical - l'oppose exact de Genau. Dote d'un talent reel mais d'une confiance en la bonte qui le rendait vulnerable. Serie le considerait comme trop gentil pour survivre au Plateau Nord. Genau le qualifiait de heros.
 - Capacites : non detaillees dans le canon. Premiere classe, donc puissant par definition, mais sa specialisation reste inconnue. Son approche du combat privilegiait la protection d'autrui sur sa propre survie - un profil defensif-altruiste.
-- Statut : vivant a Aeusserst (~An 96), mage de premiere classe en activite. [DIVERGENCE RP - correction de timing] Sa mort n'est PAS anterieure a Aeusserst : il est envoye au Nord apres l'examen. Branche Frieren (5a) : il tombe durant la campagne du Nord, tue par Revolte le Divin en protegeant un enfant-leurre demoniaque ; Genau le voit tomber et, au rematch de Rufen (~An 97), venge sa mort (les deux sont vrais - il voit ET il venge). Serie, devant le cercueil, note que sa gentillesse fut la cause directe de sa mort ; Genau repond qu'il a eu " une fin magnifique ". Branche Serie (5b) : Serie envoie tout le contingent, pas le seul binome Genau+Frei ; Frei n'est jamais isole, il survit. Cf. Roadmap_Frieren_02_Plateau_Nord etape 6 et Roadmap_Serie_02_Planification_Du_Regne etape 3.
+- Statut : vivant a Aeusserst (~An 96), mage de premiere classe en activite. [DIVERGENCE RP - correction de timing] Sa mort n'est PAS anterieure a Aeusserst : il est envoye au Nord apres l'examen. Branche Frieren (5a) : il tombe durant la campagne du Nord, tue par Revolte le Divin - il s'est porte au secours de ce qu'il croyait etre un enfant en detresse, en realite Jung, l'enfant-leurre demoniaque de Revolte, et a paye sa gentillesse de sa vie ; Genau le voit tomber et, au rematch de Rufen (~An 97), venge sa mort (les deux sont vrais - il voit ET il venge). Serie, devant le cercueil, note que sa gentillesse fut la cause directe de sa mort ; Genau repond qu'il a eu "une fin magnifique". Branche Serie (5b) : Serie envoie tout le contingent, pas le seul binome Genau+Frei ; Frei n'est jamais isole, le piege de Jung fait long feu, il survit. Cf. Roadmap_Frieren_02_Plateau_Nord etape 6 et Roadmap_Serie_02_Planification_Du_Regne etape 3.
 - Tier de puissance : B+ (premiere classe).
 
 ### Rapport avec Schein [DIVERGENCE RP]
@@ -69,7 +69,7 @@ Aucun rapport direct dans la branche Frieren (il y meurt durant la campagne du N
 
 ## Burg
 
-- Nom : Burg (" forteresse " en allemand).
+- Nom : Burg ("forteresse" en allemand).
 - Espece : humain.
 - Age : adulte.
 - Rang : mage de premiere classe. Specialiste defensif. Examinateur d'un examen de deuxieme classe.
@@ -87,7 +87,7 @@ Aucun rapport direct. Burg est un personnage posthume dont la mort precede Aeuss
 
 ### Relations
 
-**Sense.** Collegue de premiere classe. C'est Sense qui le decrit comme " extraordinairement doue ".
+**Sense.** Collegue de premiere classe. C'est Sense qui le decrit comme "extraordinairement doue".
 
 **Uebel.** Son executrice involontaire. La facilite de sa mort a forge la reputation d'Uebel et contribue a sa mystique - une candidate qui tue un examinateur premiere classe sans effort.
 
@@ -100,7 +100,7 @@ Aucun rapport direct. Burg est un personnage posthume dont la mort precede Aeuss
 | Nom | Rang | Magie / Specialite | Statut | Fonction narrative (RP) |
 |---|---|---|---|---|
 | Falsch | 1ere classe, examinateur 3e epreuve | Ombre, transformation, surveillance | Vivant | Vitrine de Serie - competence, fidelite, facade |
-| Frei | 1ere classe, partenaire de Genau | Inconnue (profil defensif-altruiste) | Mort cote Frieren / vivant cote Serie | Miroir - naivete qui tue vs. naivete qui survit |
+| Frei | 1ere classe, partenaire de Genau | Inconnue (profil defensif-altruiste) | Mort cote Frieren (Jung) / vivant cote Serie | Miroir - naivete qui tue vs. naivete qui survit |
 | Burg | 1ere classe, examinateur 2e classe | Defense (Cape Inamovible) | Mort (Uebel, ~An 94) | Puissance et limites de l'Association |
 
 ---
