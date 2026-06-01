@@ -17,6 +17,8 @@
 
 ## Backstory
 
+Enfant, Uebel regardait souvent sa grande soeur coudre, fascinee par la facon dont les ciseaux glissaient et tranchaient le tissu, et par le son qu'ils faisaient. De la nait sa visualisation fondatrice : le tissu est " fait pour etre coupe ". Cette experience d'enfance irrigue toute sa magie - c'est elle qui lui permet plus tard de trancher la Cape Inamovible de Burg comme un simple tissu, ou les cheveux du clone de Sense. Sa grande soeur a depuis disparu ; Uebel cherchera une magie capable de la retrouver (ou d'en retrouver les restes), indice d'un sort tragique ayant frappe sa famille. (canon)
+
 Avant l'examen de premiere classe, Uebel participe a l'examen de deuxieme classe. L'epreuve demande aux candidats de forcer l'examinateur Burg a reculer d'un pas alors qu'il porte sa cape immobile renforcee par de la magie defensive. Uebel le tranche a travers la cape, le tuant. Elle est disqualifiee pour avoir enfreint la regle " pas de meurtre ", mais Sense lui demande d'expliquer comment elle a reussi a couper a travers les enchantements. Uebel repond que le tissu est " fait pour etre coupe " - une visualisation qui defie la logique. Sense comprend a cet instant que la capacite de visualisation d'Uebel est au niveau d'un genie.
 
 ## Personnalite
