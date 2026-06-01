@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : ENCYCLO_PERSONNAGES Section 6, canon wiki (fandom), decisions joueur OOC
-- version : W3
-- bible rattachee : BIBLE_LORE_FRIEREN B11
+- version : W4
+- bible rattachee : BIBLE_LORE_FRIEREN B28
 
 ## Identite
 
@@ -55,7 +55,7 @@ Le prix d'une vie. Et la lecon : Himmel a eu tort sur le demon-enfant - mais rai
 
 **Himmel charmeur.** Drague Frieren par jeu, jamais par ambition. S'amuse de la jalousie de Schein, le pousse a assumer ce que le demon ne sait pas nommer. Genereux dans son role de non-rival.
 
-**La bague de lotus.** Sur un marche, Schein ne sait pas quoi offrir a Frieren. Himmel lui montre la bague de lotus - symbole d'amour eternel. Schein l'achete sans en connaitre le sens. Himmel garde le secret. Le demon offre a Frieren l'equivalent d'une demande en mariage sans le savoir, et l'humain ephemere est celui qui a rendu ca possible.
+**La bague de lotus.** Sur un marche, Schein ne sait pas quoi offrir a Frieren. Himmel lui montre la bague de lotus - symbole d'amour eternel - et lui dit de l'offrir a Frieren. Schein l'achete sans en connaitre le sens. Himmel garde le secret. Le demon offre a Frieren l'equivalent d'une demande en mariage sans le savoir, et l'humain ephemere est celui qui a rendu ca possible.
 
 **Ausserst.** Pendant la quete, le groupe passe par Ausserst. C'est la que Schein et Frieren comprennent leur amour. [Le groupe y repassera des decennies plus tard, sur les traces de Himmel - Ausserst An ~81 : retrouvailles Serie/Schein, cf. Personnages/Serie_Rapport_Schein.]
 
@@ -83,7 +83,7 @@ Le prix d'une vie. Et la lecon : Himmel a eu tort sur le demon-enfant - mais rai
 
 An 10 : victoire sur le Roi. Le groupe voyage ensemble pendant cinq ans sur la route du retour, meme itineraire en sens inverse. An 15 : nuit des etoiles filantes a la Capitale Royale, derniere reunion au complet. Separation : Himmel et Heiter financent l'orphelinat de Zusammen, puis Heiter part pour Strahl et Himmel pour la Capitale. Eisen s'installe a Bredt. Schein et Frieren retournent a la hutte.
 
-Himmel reste actif. Aventurier, parcourt le continent, fait eriger ses statues - pour que Frieren et Schein ne portent pas seuls la memoire du groupe. Tient un journal de voyage pendant la quete, notant le quotidien et les choses triviales. Schein y figure. Ce journal est un des rares documents post-mortem prouvant qu'un demon faisait partie du groupe.
+Himmel reste actif. Aventurier, parcourt le continent, fait eriger ses statues - pour que Frieren et Schein ne portent pas seuls la memoire du groupe. Tient un journal de voyage pendant la quete, notant le quotidien et les choses triviales. Schein y figure. Ce journal est un des rares documents post-mortem prouvant qu'un demon faisait partie du groupe. Apres la mort de Himmel, il est conserve dans le monastere abandonne de l'ile du lac Korridor (sous sa statue, derriere une barriere) ; Frieren le recupere a la traversee post-Aeusserst (Ere 5).
 
 An 65 : Frieren a besoin de la Corne de Dragon de l'Ombre que Himmel conserve. Occasion de reunir le groupe. Dernier voyage ensemble pour observer la pluie de meteores d'Era (une fois tous les cinquante ans - la deuxieme, cinquante ans apres An 15), au point de vue que Frieren avait promis. Himmel observe les etoiles, remercie Frieren. Heureux d'un dernier voyage avec tout le groupe.
 
