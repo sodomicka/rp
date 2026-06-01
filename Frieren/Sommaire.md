@@ -1,6 +1,6 @@
 # Sommaire - Frieren
 
-- version : W14
+- version : W15
 
 ## WIKI
 
@@ -58,7 +58,7 @@ Description : fiches personnages cles et rapports detailles avec Schein.
 - Richter.md - identite, Bargland (terre), boutique, rapport Schein (canon preserve)
 - Kanne_Et_Lawine.md - identites, eau/glace, synergie, rapport Schein (canon preserve)
 - Mages_Mineurs_Aeusserst.md - Laufen, Ehre, Scharf, Edel, Blei, Duenste, Ton, Laenge
-- Falsch_Frei_Burg.md - trois mages de premiere classe, assets de Serie : Falsch (ombre, examinateur 3e epreuve), Frei (ancien partenaire de Genau, tue par Revolte le Divin via l'enfant-leurre Jung), Burg (defense, tue par Uebel)
+- Falsch_Frei_Burg.md - trois mages de premiere classe, assets de Serie : Falsch (ombre, examinateur 3e epreuve), Frei (ancien partenaire de Genau, mort branche Frieren via le leurre Jung / vivant branche Serie), Burg (defense, tue par Uebel)
 - Sein.md - identite, pretre "corrompu" et mediateur, guerisseur/exorciste (Benediction, Trois Lances, immunite Fleur de Confusion), Gorilla Warrior, lien Heiter (surnom "Pretre Bouc", lignee clericale), rapport Schein (rivalite jouee + foi), scaling B, voyage ~An 94-95
 - Voll.md - nain gardien de Klar (~400 ans), promesse a sa femme humaine, ami de Frieren, rapport Schein (miroir longevite/deuil : Serie et Frieren)
 - Gehen.md - nain batisseur du pont du Canyon de Tor (200 ans), village detruit, rapport Schein (devouement a l'avenir, echo du retournement contre les siens)
