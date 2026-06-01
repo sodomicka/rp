@@ -4,7 +4,7 @@
 - dossier : Roadmap
 - segment : Ere du Chateau
 - periode : ~1 490 a ~990 av. An 0 (~500 ans)
-- sources : BIBLE_LORE B7, Personnages/Roi_Des_Demons, Personnages/Schlacht, Personnages/Grausam, Personnages/Qual, Personnages/Boese, Personnages/Macht, Personnages/Solitaer, Personnages/Basalt_Porphyr_Gabbro, Demons/Societe_Et_Plan_Du_Roi, Demons/Hierarchie_Et_Territoire, Demons/Emotions_Et_Instincts, Chronologie/Ere_1_Roi_des_Demons, decisions joueur OOC
+- sources : BIBLE_LORE B7, Personnages/Roi_Des_Demons, Personnages/Schlacht, Personnages/Grausam, Personnages/Qual, Personnages/Boese, Personnages/Macht, Personnages/Solitaer, Personnages/Basalt_Porphyr_Gabbro, Demons/Societe_Et_Plan_Du_Roi, Demons/Hierarchie_Et_Territoire, Demons/Emotions_Et_Instincts, BIBLE_LORE SB3 (chronologie), decisions joueur OOC
 - version : W4
 - bible rattachee : BIBLE_LORE_FRIEREN B28
 
@@ -313,7 +313,7 @@ Schein s'enfuit dans les Terres du Nord avec un seul bras fonctionnel, sans esco
 
 Il ne reviendra pas supplier. Il reviendra tuer.
 
-Ere suivante : Exil solo (~990 a ~890 av. An 0). Cf. PLAN_DE_BUILD, Phase 1, Ere 2.
+Ere suivante : Exil solo (~990 a ~890 av. An 0). Cf. Roadmap_Exil_Solo.
 
 ---
 

@@ -4,7 +4,7 @@
 - dossier : Roadmap
 - segment : Ere Serie
 - periode : ~890 a ~740 av. An 0 (~150 ans)
-- sources : BIBLE_LORE B8, Chronologie/Ere_2_Exil_et_Rencontre, Personnages/Serie_Fiche, Personnages/Serie_Rapport_Schein, Personnages/Frieren_Rapport_Schein, Theologie/Schein_Magie_Divine, Demons/Emotions_Et_Instincts, Demons/Rapport_A_La_Magie, Roadmap/Roadmap_Exil_Solo (transition), decisions joueur OOC
+- sources : BIBLE_LORE B8, BIBLE_LORE SB3 (chronologie), Personnages/Serie_Fiche, Personnages/Serie_Rapport_Schein, Personnages/Frieren_Rapport_Schein, Theologie/Schein_Magie_Divine, Demons/Emotions_Et_Instincts, Demons/Rapport_A_La_Magie, Roadmap/Roadmap_Exil_Solo (transition), decisions joueur OOC
 - version : W1
 - bible rattachee : BIBLE_LORE_FRIEREN B8
 
@@ -53,7 +53,7 @@ Domination mutuelle, rapport de force permanent transpose dans l'intimite. Vulne
  - Elle a lu ses traces. Elle sait que les dernieres le menent vers ce village. Elle le devance et attend. Le plan : le regarder se battre pour l'evaluer. Curiosite de collectionneuse, interet strategique - un demon exile, ancien prince, maitrisant la magie de la Deesse sans support. La piece geopolitique la plus fascinante du continent.
  - Schein arrive, guide par l'odeur du sang. Trop tard pour les humains - schema habituel. A temps pour demolir un general demon et ses troupes. Carnage rapide, efficace. Serie observe.
  - Ce qu'elle n'avait pas prevu : le coup de foudre. Elle etait venue evaluer une arme, elle trouve une ame soeur. Un demon manchot aux yeux gris qui se bat avec une rage froide et une lumiere qui n'a pas d'equivalent connu. Puissance, fragilite, anomalie - tout ce qui fascine Serie, condense dans un seul etre qui partage son horizon temporel.
- - Schein la voit. Elle ne fuit pas. Elle ne recule pas. Elle ne le regarde pas comme un cobaye (le Roi), un spectacle (les Sages), ou un monstre (les humains). Premiere personne en mille ans d'existence a ne pas reculer.
+ - Schein la voit. Elle ne fuit pas. Elle ne recule pas. Elle ne le regarde pas comme un cobaye (le Roi), un spectacle (les Sages), ou un monstre (les humains). Premiere personne en sept siecles d'existence a ne pas reculer.
  - Coup de foudre reciproque. Le silence est assourdissant et interminable.
 - **Personnages impliques** : Schein, Serie (~2 600 ans), general demon (tue), troupes demoniaques (tuees).
 - **Role de Schein** : le mecanisme rencontre un regard. Cent ans de vide trouvent un visage qui ne recule pas.
@@ -181,12 +181,12 @@ Domination mutuelle, rapport de force permanent transpose dans l'intimite. Vulne
 - **Evenements** :
  - Derniere phrase de Schein avant le depart : " je t'aime, mais je ne peux pas t'aimer dans un monde ou mon pere vit. " Aveu d'amour formule comme un adieu.
  - Serie est devastee. Incomprehension sincere : dans sa logique, sa position est inattaquable. La guerre est un fait, pas une opinion. Le premier etre a qui elle a donne son amour en 3 000 ans la quitte, et elle ne comprend pas pourquoi. La blessure de Schein n'est pas un probleme a resoudre - c'est une identite. Mais elle ne le sait pas.
- - Schein pose une condition implicite : pas tant que mon pere vivra. Serie respectera cette limite. ~820 ans de silence commencent.
+ - Schein pose une condition implicite : pas tant que mon pere vivra. Serie respectera cette limite. ~836 ans de silence commencent.
  - Les sorts de Schein qu'elle a appris - Zoltraak blanc, soins, purification - deviennent des reliques. La magie intime d'un couple devenue souvenir.
 - **Personnages impliques** : Schein, Serie.
 - **Role de Schein** : il perd tout a nouveau. Pas comme a Ende (rage, violence, fuite) - cette fois, c'est un depart choisi, formule, lucide. Et infiniment plus douloureux.
 - **Tchekhov** :
- - Serie et le pantheon-famille - le silence commence. 820 ans plus tard, a Aeusserst, Serie reviendra. La condition sera levee (le Roi est mort). La question : est-ce que 150 ans de premier amour pesent plus lourd que 500 ans de hutte ?
+ - Serie et le pantheon-famille - le silence commence. 836 ans plus tard, a Aeusserst, Serie reviendra. La condition sera levee (le Roi est mort). La question : est-ce que 150 ans de premier amour pesent plus lourd que 500 ans de hutte ?
 
 ---
 
@@ -198,7 +198,7 @@ La guerilla reprend. Plus efficace qu'avant (mana supprime, detection affutee), 
 
 Il ne fera pas le premier pas, cette fois. Mais il ne fuira pas non plus.
 
-Ere suivante : Ere solitaire (~740 a ~590 av. An 0). Cf. PLAN_DE_BUILD, Phase 1, Ere 4.
+Ere suivante : Ere solitaire (~740 a ~590 av. An 0). Cf. Roadmap_Chasse_Solo.
 
 ---
 

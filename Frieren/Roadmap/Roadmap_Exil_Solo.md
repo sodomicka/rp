@@ -4,7 +4,7 @@
 - dossier : Roadmap
 - segment : Ere de l'Exil solo
 - periode : ~990 a ~890 av. An 0 (~100 ans)
-- sources : BIBLE_LORE B8, Chronologie/Ere_2_Exil_et_Rencontre, Personnages/Serie_Rapport_Schein, Personnages/Frieren_Rapport_Schein, Demons/Emotions_Et_Instincts, Roadmap/Roadmap_Chateau (transition), decisions joueur OOC
+- sources : BIBLE_LORE B8, BIBLE_LORE SB3 (chronologie), Personnages/Serie_Rapport_Schein, Personnages/Frieren_Rapport_Schein, Demons/Emotions_Et_Instincts, Roadmap/Roadmap_Chateau (transition), decisions joueur OOC
 - version : W2
 - bible rattachee : BIBLE_LORE_FRIEREN B23
 
@@ -18,7 +18,7 @@
 
 ### Geographie
 
-Schein erre dans les marges entre les Terres du Nord et les Terres Centrales. Il reste dans les zones ou les demons sont presents mais evite les sept secteurs controles par les Sages - il a compris ses limites face au Roi (~5 200 ans), il ne va pas provoquer des Sages a ~2 000-3 000 ans avec un seul bras. Son territoire de chasse : les interstices, les frontieres floues, les marges du Royaume. Suffisamment au Nord pour que les demons soient frequents, suffisamment en marge pour ne pas croiser les gros poissons.
+Schein erre dans les marges entre les Terres du Nord et les Terres Centrales. Il reste dans les zones ou les demons sont presents mais evite les sept secteurs controles par les Sages - il a compris ses limites face au Roi (~4 700 ans), il ne va pas provoquer des Sages a ~2 000-3 000 ans avec un seul bras. Son territoire de chasse : les interstices, les frontieres floues, les marges du Royaume. Suffisamment au Nord pour que les demons soient frequents, suffisamment en marge pour ne pas croiser les gros poissons.
 
 ### Reputation
 
@@ -49,7 +49,7 @@ Aucun contact non-violent pendant toute l'ere. Les survivants qu'il sauve sont t
 - **Personnages impliques** : Schein seul. Chasseurs demoniaques (ephemeres, semes).
 - **Role de Schein** : debris en mouvement. Rage residuelle de la defaite, deuil de Porphyr et Gabbro, bras mort, solitude totale.
 - **Tchekhov** : -
-- **Notes** : Schein a ~600 ans (~16-17 apparents). Le Roi a ~5 200 ans. L'ecart de puissance rendait la defaite inevitable - la fuite est la seule victoire possible.
+- **Notes** : Schein a ~600 ans (~16-17 apparents). Le Roi a ~4 700 ans. L'ecart de puissance rendait la defaite inevitable - la fuite est la seule victoire possible.
 
 ### Etape 1.2 - Apprendre a survivre seul
 
@@ -191,7 +191,7 @@ Les villages ne sont pas tous identiques - chaque snapshot offre une variation (
 - **Personnages impliques** : Schein seul.
 - **Role de Schein** : le mecanisme se declenche une derniere fois. Ce qu'il trouvera au bout de la course changera tout - mais il ne le sait pas encore.
 - **Tchekhov** : -
-- **Notes** : la scene du village et la rencontre avec Serie appartiennent a l'ere suivante. Cf. Roadmap_Serie, Bloc 1.
+- **Notes** : la scene du village et la rencontre avec Serie appartiennent a l'ere suivante. Cf. Roadmap_Serie_01_Premier_Contact, Bloc 1.
 
 ---
 
@@ -199,7 +199,7 @@ Les villages ne sont pas tous identiques - chaque snapshot offre une variation (
 
 Schein court vers un village en feu. Meme schema qu'une centaine de fois. Cette fois, quelqu'un le regarde.
 
-Ere suivante : Ere Serie (~890 a ~740 av. An 0). Cf. PLAN_DE_BUILD, Phase 1, Ere 3.
+Ere suivante : Ere Serie (~890 a ~740 av. An 0). Cf. Roadmap_Serie_01_Premier_Contact.
 
 ---
 

@@ -3,7 +3,7 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Roadmap
 - segment : Aureole - la communion, la revelation et le choix (terminus de la branche Serie)
-- periode : An ~98+ (Ere 5, branche 5b ; apres la fondation du regne)
+- periode : An ~98+ (Ere 5, branche 5b ; apres la fondation du regne - soit plusieurs decennies apres Aeusserst An 96, cf. Roadmap_Serie_02 etape 5)
 - sources : BIBLE_LORE B26, Roadmap_Serie_02_Planification_Du_Regne (entree), Roadmap_Frieren_04_Aureole (calque de la communion et de la revelation), Theologie/ (Aureole, Deesse_Verite_Et_Legende, Epee_De_Damocles), Personnages/ (Serie_Rapport_Schein, Flamme, Heros_Du_Sud, Roi_Des_Demons, Macht, Solitaer, Denken, Uebel), decisions worldbuilder 2026-06-01
 - version : W1
 - bible rattachee : BIBLE_LORE_FRIEREN B26

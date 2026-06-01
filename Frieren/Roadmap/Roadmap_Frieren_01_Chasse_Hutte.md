@@ -4,7 +4,7 @@
 - dossier : Roadmap
 - segment : Ere Frieren
 - periode : ~590 av. a An 0 (~590 ans)
-- sources : BIBLE_LORE B9, Chronologie/Ere_2_Exil_et_Rencontre, Personnages/Frieren_Fiche, Personnages/Frieren_Rapport_Schein, Personnages/Heros_Du_Sud, Roadmap/Roadmap_Solitaire (transition), decisions joueur OOC
+- sources : BIBLE_LORE B9, BIBLE_LORE SB3 (chronologie), Personnages/Frieren_Fiche, Personnages/Frieren_Rapport_Schein, Personnages/Heros_Du_Sud, Roadmap/Roadmap_Chasse_Solo (transition), decisions joueur OOC
 - version : W1
 - bible rattachee : BIBLE_LORE_FRIEREN B9
 

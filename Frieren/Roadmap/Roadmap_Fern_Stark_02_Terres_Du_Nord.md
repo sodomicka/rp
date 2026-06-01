@@ -99,7 +99,7 @@
 - **Role de Schein** : observateur vigilant et amuse. Surtout : Sein et lui partagent une figure - Heiter. Sein l'a connu enfant et l'admire ; Schein a vecu quatre ans a ses cotes et deconstruit sa magie avec lui. Lien indirect Schein/Sein via le meme mort aime. (Frieren note que Fern voit Heiter en Sein - canon.)
 - **Tchekhov** :
  - Empathie de Schein - lecture d'un nouveau type d'humain (la foi imparfaite mais sincere).
-- **Notes** : RACCORD CONFIRME canon (Timeline : Sein recrute pres d'Alt Woods = etape 18 Himmel_03). Lien Heiter/Sein = canon (Heiter/Synopsis : inspection a Alt, symbole sacre au frere, surnom " Pretre Bouc ", statues des heros oublies montrees a Sein et Gorilla - dont Kraft le Moine). Fiche Sein a creer (BIBLE SB5).
+- **Notes** : RACCORD CONFIRME canon (Timeline : Sein recrute pres d'Alt Woods = etape 17 Himmel_03). Lien Heiter/Sein = canon (Heiter/Synopsis : inspection a Alt, symbole sacre au frere, surnom " Pretre Bouc ", statues des heros oublies montrees a Sein et Gorilla - dont Kraft le Moine). Fiche Sein a creer (BIBLE SB5).
 
 ---
 
@@ -114,12 +114,12 @@
  - Schein percute : il a offert la bague de lotus a Frieren a Aeusserst (An ~7) sans savoir ce qu'il donnait. Frieren percute en meme temps ce qu'elle a recu. Le declic se fait pour les deux.
  - Detail : Schein ne rate jamais un anniversaire. Ses cadeaux sont utiles (bottes, echarpe, lanieres de hache). Un etre qui n'a jamais rien possede montre l'amour par l'utile. La seule fois ou il offre du symbolique, c'est par accident.
 - **Personnages impliques** : Fern, Stark, Sein, Schein, Frieren.
-- **Role de Schein** : detonation du Tchekhov bague de lotus. ~88 ans apres l'avoir offerte, lui et Frieren comprennent en meme temps ce qu'ils se sont echange.
+- **Role de Schein** : detonation du Tchekhov bague de lotus. ~87 ans apres l'avoir offerte, lui et Frieren comprennent en meme temps ce qu'ils se sont echange.
 - **Tchekhov** :
  - Bague de lotus - DETONATION (plantee a Aeusserst aller, Himmel_03 etape 25).
  - Peur d'aimer - le geste d'amour involontaire devient conscient.
  - Empathie de Schein - l'amour par l'utile.
-- **Notes** : Canon (Timeline : "Fern's 18th birthday in the Raad Region"). Fern nee ~An 76 -> 18 ans en An ~94 (et non 19 : correction post-decouverte canon). Raad = etape 17 Himmel_03. Bague de lotus : BIBLE SB7/SB8.
+- **Notes** : Canon (Timeline : "Fern's 18th birthday in the Raad Region"). Fern nee ~An 76 -> 18 ans en An ~94 (et non 19 : correction post-decouverte canon). Raad = etape 18 Himmel_03. Bague de lotus : BIBLE SB7/SB8.
 
 ---
 
@@ -169,7 +169,7 @@
 - **Role de Schein** : adieu a un compagnon de courte duree. Sein repart vers son ami - le choix de l'attachement, que Schein comprend mieux que personne.
 - **Tchekhov** :
  - Empathie de Schein - comprendre le depart vers un ami.
-- **Notes** : Canon (Timeline : "Warrior Gorilla left to Tur ... near the Rohr Road"). Rohr = etape 21 Himmel_03. Les notes de Sein serviront a l'etape suivante (Offen).
+- **Notes** : Canon (Timeline : "Warrior Gorilla left to Tur ... near the Rohr Road"). Rohr = etape 20 Himmel_03. Les notes de Sein serviront a l'etape suivante (Offen).
 
 ---
 
@@ -181,12 +181,12 @@
 - **Statut** : canon (fievre de Fern, herbes). Divergence RP (resonance avec le duel de Boese).
 - **Evenements** :
  - Fern tombe malade. Frieren et Stark cherchent les herbes d'apres les notes laissees par Sein.
- - Offen est l'ancien territoire de Boese, que Schein avait tue en duel a l'aller (Himmel_03 etape 20). Schein reste au chevet de Fern.
+ - Offen est l'ancien territoire de Boese, que Schein avait tue en duel a l'aller (Himmel_03 etape 21). Schein reste au chevet de Fern.
 - **Personnages impliques** : Fern (malade), Frieren, Stark, Schein.
 - **Role de Schein** : garde-malade. Le lieu d'un meurtre cathartique est devenu, 90 ans plus tard, celui ou il veille une enfant fievreuse.
 - **Tchekhov** :
  - Empathie de Schein - veiller Fern.
-- **Notes** : Meme lieu que le duel Schein/Boese a l'aller (Himmel_03 etape 20 ; BIBLE SB6). ORDRE : Offen AVANT Vorig (decision B, alignement Himmel_03 etapes 20 puis 23). Herbes via les notes de Sein.
+- **Notes** : Meme lieu que le duel Schein/Boese a l'aller (Himmel_03 etape 21 ; BIBLE SB6). ORDRE : Offen AVANT Vorig (decision B, alignement Himmel_03 etapes 21 puis 23). Herbes via les notes de Sein.
 
 ---
 

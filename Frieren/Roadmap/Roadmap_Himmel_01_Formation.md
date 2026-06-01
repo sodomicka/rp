@@ -4,7 +4,7 @@
 - dossier : Roadmap
 - segment : Formation du groupe
 - periode : An 0 (premiers mois)
-- sources : BIBLE_LORE B5, CODEX V5, canon anime S1-S2, decisions joueur OOC
+- sources : BIBLE_LORE B5, canon anime S1-S2, decisions joueur OOC
 - version : W1
 - bible rattachee : BIBLE_LORE_FRIEREN B5
 
@@ -43,6 +43,7 @@
 - **Tchekhov** :
  - Empathie de Schein - Himmel le voit tel qu'il est, pas comme une menace.
  - Peur d'aimer - Schein accepte de s'integrer a un groupe malgre sa mefiance.
+ - Journal de Himmel - PLANTE (An 0) : des la formation du groupe, Himmel commence a tenir son journal de voyage, ou Schein figure comme un membre a part entiere. Cf. SB7 (Journal de Himmel) et SB8 (plant An 0). Payoff : decouverte post-mortem au monastere du lac Korridor (Ere 5).
 - **Notes** : Himmel connait deja l'episode du demon-enfant (canon : un village avait recueilli un demon enfant, Himmel a laisse faire, le demon a tue le chef du village, Himmel a du le tuer). Son acceptation de Schein est un choix delibere, pas de la naivete. Cf. Personnages/Himmel.
 
 ---

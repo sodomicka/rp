@@ -30,7 +30,7 @@
  - Magie de lumiere / nature divine de Schein - l'echo de la Deesse sur terre sainte est une preuve physique de plus, jamais expliquee.
  - Nature de Schein (hybride) - Heiter decrit la Deesse comme une elfe devenue dieu ; personne ne fait le lien avec le demon a cote de lui, hybride comme elle. Ironie dramatique maximale.
  - Potentiel de transcendance - l'epee " que seul le vrai heros tire " reste non approchee. Mine laissee intacte.
-- **Notes** : Distinguer la THEORIE clericale (elfe devenue dieu, basee sur le physique) de la VERITE de la Bible (la Deesse premiere hybride demon-elfe, cf. SB1). Heiter transmet la theorie, pas la verite ; ni lui ni Schein ne savent. La replique de Himmel : cf. SB7 (Epee du Heros, offerte par un colporteur, jamais pu tirer la vraie). La " deception de Schwer " (Etape 16) = cet echec de Himmel. Le combat contre les monstres du sanctuaire suit la regle du contrecoup (SB1) : cibles legitimes, debride = pas de dette.
+- **Notes** : Distinguer la THEORIE clericale (elfe devenue dieu, basee sur le physique) de la VERITE de la Bible (la Deesse premiere hybride demon-elfe, cf. SB1). Heiter transmet la theorie, pas la verite ; ni lui ni Schein ne savent. La replique de Himmel : cf. SB7 (Epee du Heros, offerte par un colporteur, jamais pu tirer la vraie). La " deception de Schwer " (Etape 14) = cet echec de Himmel. Le combat contre les monstres du sanctuaire suit la regle du contrecoup (SB1) : cibles legitimes, debride = pas de dette.
 
 ---
 
@@ -65,23 +65,7 @@
 
 ---
 
-## Etape 17 - Raad
-
-- **Lieu** : Raad - foret dense des Northern Lands.
-- **Type** : foret.
-- **Periode estimee** : An ~5.
-- **Statut** : invention (evenement). Canon (lieu).
-- **Evenements** :
- - Foret dense, monstres plus nombreux qu'a Laub.
- - Montee en difficulte progressive sur le trajet nord.
-- **Personnages impliques** : groupe.
-- **Role de Schein** : combat. Les monstres des Terres du Nord sont plus puissants - le groupe se rode.
-- **Tchekhov** : -
-- **Notes** : -
-
----
-
-## Etape 18 - Alt
+## Etape 17 - Alt
 
 - **Lieu** : Alt - foret marecageuse des Northern Lands.
 - **Type** : foret/marecage.
@@ -92,6 +76,22 @@
  - Ambiance oppressante mais sans combat majeur.
 - **Personnages impliques** : groupe.
 - **Role de Schein** : mineur. Traversee.
+- **Tchekhov** : -
+- **Notes** : -
+
+---
+
+## Etape 18 - Raad
+
+- **Lieu** : Raad - foret dense des Northern Lands.
+- **Type** : foret.
+- **Periode estimee** : An ~5.
+- **Statut** : invention (evenement). Canon (lieu).
+- **Evenements** :
+ - Foret dense, monstres plus nombreux qu'a Laub.
+ - Montee en difficulte progressive sur le trajet nord.
+- **Personnages impliques** : groupe.
+- **Role de Schein** : combat. Les monstres des Terres du Nord sont plus puissants - le groupe se rode.
 - **Tchekhov** : -
 - **Notes** : -
 
@@ -113,7 +113,22 @@
 
 ---
 
-## Etape 20 - Offen (Boese - duel de Schein)
+## Etape 20 - Rohr
+
+- **Lieu** : Rohr - village des Northern Lands.
+- **Type** : village.
+- **Periode estimee** : An ~6.
+- **Statut** : invention (evenement).
+- **Evenements** :
+ - Lieu calme. Repos apres la mort de Boese.
+- **Personnages impliques** : groupe.
+- **Role de Schein** : decompression. Tuer un Sage, meme un ennemi personnel, laisse des traces.
+- **Tchekhov** : -
+- **Notes** : -
+
+---
+
+## Etape 21 - Offen (Boese - duel de Schein)
 
 - **Lieu** : Offen - village au pied des Montagnes d'Offen, region enneigee, territoire de Boese.
 - **Type** : village / territoire d'un Sage de la Destruction.
@@ -132,21 +147,6 @@
  - Empathie de Schein - il tue par necessite, pas par plaisir. Le duel est motive par la justice, pas la cruaute.
  - Peur d'aimer - il attribue la victoire a Himmel. Il refuse d'etre vu, meme dans la gloire.
 - **Notes** : Cf. Personnages/Boese. Le duel Schein/Boese est un des moments cles de la quete. La dynamique barriere vs. Zoltraak blanc est tactiquement coherente : Boese est un tank (survit a tout de l'exterieur) mais le Zoltraak blanc attaque la chair demoniaque elle-meme. Power-scaling : Schein (A) vs. Boese (A+, bas de gamme des Sages). Schein gagne parce que le matchup est favorable, pas parce qu'il est plus puissant. Note canon : dans le manga, la barriere de Boese cede a la force physique (un heros/guerrier exceptionnel l'ebreche) et c'est le Groupe des Heros qui le tue, en moins de 7 ans de quete. Ici, Schein le tue seul via le Zoltraak blanc ; Himmel et Eisen n'ebrechent pas la barriere. La victoire est publiquement attribuee a Himmel - en interne, c'est un duel solo de Schein.
-
----
-
-## Etape 21 - Rohr
-
-- **Lieu** : Rohr - village des Northern Lands.
-- **Type** : village.
-- **Periode estimee** : An ~6.
-- **Statut** : invention (evenement).
-- **Evenements** :
- - Lieu calme. Repos apres la mort de Boese.
-- **Personnages impliques** : groupe.
-- **Role de Schein** : decompression. Tuer un Sage, meme un ennemi personnel, laisse des traces.
-- **Tchekhov** : -
-- **Notes** : -
 
 ---
 
@@ -217,7 +217,7 @@
  - Peur d'aimer de Schein - confrontee directement. Il ne la surmonte pas - il est deborde.
  - Journal de Himmel - Himmel consigne cet episode. Preuve future.
  - Empathie de Schein - les trois compagnons mortels agissent par affection sincere envers Schein et Frieren.
-- **Notes** : La revelation amoureuse a lieu pendant la quete (cote aller). Les retrouvailles Serie/Schein a Aeusserst surviennent bien plus tard, cote retour - date post-Himmel : An 96 (cf. Roadmap_Fern_Stark_02 etape 24, Ere 4). Cf. Personnages/Himmel (charmeur taquin, bague de lotus), Personnages/Eisen (matchmaking), Personnages/Heiter (matchmaking).
+- **Notes** : La revelation amoureuse a lieu pendant la quete (cote aller). Les retrouvailles Serie/Schein a Aeusserst surviennent bien plus tard, cote retour - date post-Himmel : An 96 (cf. Roadmap_Fern_Stark_02 etape 26, Ere 4). Cf. Personnages/Himmel (charmeur taquin, bague de lotus), Personnages/Eisen (matchmaking), Personnages/Heiter (matchmaking).
 
 ---
 

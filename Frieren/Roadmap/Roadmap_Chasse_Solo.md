@@ -4,7 +4,7 @@
 - dossier : Roadmap
 - segment : Ere solitaire
 - periode : ~740 a ~590 av. An 0 (~150 ans)
-- sources : BIBLE_LORE B8, Chronologie/Ere_2_Exil_et_Rencontre, Personnages/Serie_Rapport_Schein, Personnages/Frieren_Rapport_Schein, Personnages/Frieren_Fiche, Personnages/Macht, Theologie/Schein_Magie_Divine, Demons/Emotions_Et_Instincts, Demons/Rapport_A_La_Magie, Roadmap/Roadmap_Serie_01_Premier_Contact (transition), decisions joueur OOC
+- sources : BIBLE_LORE B8, BIBLE_LORE SB3 (chronologie), Personnages/Serie_Rapport_Schein, Personnages/Frieren_Rapport_Schein, Personnages/Frieren_Fiche, Personnages/Macht, Theologie/Schein_Magie_Divine, Demons/Emotions_Et_Instincts, Demons/Rapport_A_La_Magie, Roadmap/Roadmap_Serie_01_Premier_Contact (transition), decisions joueur OOC
 - version : W1
 - bible rattachee : BIBLE_LORE_FRIEREN B8
 
@@ -140,7 +140,7 @@ Ce choix est definitif. Il tiendra jusqu'a Himmel - et au-dela.
 - **Personnages impliques** : Frieren, Macht (hors scene).
 - **Role de Schein** : absent. L'evenement pose la condition de la rencontre.
 - **Tchekhov** : -
-- **Notes** : Frieren a ~690 ans (~17 apparents). Macht a ~1 700 ans. L'ecart de puissance est enorme.
+- **Notes** : Frieren a ~690 ans (~17 apparents). Macht a ~1 600 ans. L'ecart de puissance est enorme.
 
 ### Etape 4.2 - La rencontre
 
@@ -171,7 +171,7 @@ Schein et Frieren partent ensemble. Pas un couple, pas des amis - deux chasseurs
 
 Il ne le sait pas encore, mais il ne sera plus jamais seul.
 
-Ere suivante : Ere Frieren pre-hutte (~590 a ~510 av. An 0). Cf. PLAN_DE_BUILD, Phase 1, Ere 5.
+Ere suivante : Ere Frieren pre-hutte (~590 a ~510 av. An 0). Cf. Roadmap_Frieren_01_Chasse_Hutte.
 
 ---
 

@@ -57,7 +57,7 @@
 - **Statut** : canon (scellement de Qual ~An 3). Divergence (role de Schein).
 - **Evenements** :
  - Le Groupe des Heros localise Qual, le Sage Ancien de la Corruption, createur du Zoltraak.
- - Combat et scellement de Qual. Qual est scelle, pas tue (il sera libere et tue ~An 92 par Frieren et Fern).
+ - Combat et scellement de Qual. Qual est scelle, pas tue (il sera libere et tue ~An 90 par Frieren et Fern).
  - Schein ne combat pas. Par respect pour l'un de ses mentors. Meme reflexe que plus tard face a Grausam.
 - **Personnages impliques** : Qual, Frieren, Himmel, Eisen, Heiter, Schein.
 - **Role de Schein** : retrait delibere. Qual lui a enseigne le Zoltraak - Schein a produit la variante blanche, plus rapide que Qual a le lancer. Combattre son mentor serait une trahison de la dette. Ce retrait revele la hierarchie de valeurs de Schein : la loyaute envers ceux qui l'ont aide prime sur l'efficacite tactique. Cf. Personnages/Qual.
