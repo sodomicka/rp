@@ -2,9 +2,9 @@
 
 - univers : Sousou no Frieren (hybride)
 - dossier : Demons
-- sources : ENCYCLO_DEMONS Section 5, decisions worldbuilder 2026-05-31 (anomalies emotives perdues)
-- version : W3
-- bible rattachee : BIBLE_LORE_FRIEREN B26
+- sources : ENCYCLO_DEMONS Section 5, decisions worldbuilder 2026-05-31 (anomalies emotives perdues), correction B32 (contrecoup bestial resynchronise sur SB1)
+- version : W4
+- bible rattachee : BIBLE_LORE_FRIEREN B32
 
 ## Emotions conservees par la selection naturelle
 
@@ -38,13 +38,11 @@ Deux filtres effacent ces anomalies du monde connu : la mortalite (mourir avant 
 
 [DIVERGENCE RP]
 
-L'utilisation intensive de sa magie lumineuse provoque un retour de flamme instinctif : la faim de tuer s'intensifie proportionnellement a la puissance du sort.
+Ce n'est pas la puissance du sort qui coute, c'est le bridage. Quand Schein canalise une magie intense tout en retenant sa violence de demon, la faim de tuer s'accumule sans exutoire et explose ensuite en etat bestial - surprotection violente, territorialite envers quiconque approche, y compris la personne soignee. L'intensite et la duree de la crise sont proportionnelles a ce qu'il a emmagasine.
 
-- Soin leger = un frisson et un regard trop dur.
-- Soin majeur ou sort offensif a pleine puissance = etat bestial de surprotection violente, territorial, dirige vers quiconque approche, y compris la personne soignee.
-- Duree proportionnelle a l'effort.
+A l'inverse, un dechainement total et sans retenue sur des cibles legitimes ne produit aucun contrecoup : rien n'est mis en reserve, la violence sort entierement. C'est donc la mesure qui cree la dette, pas la puissance.
 
-Ce cout mecanique limite volontairement l'utilisation de sa pleine puissance - il se bat en dessous de son niveau pour proteger ses allies de lui-meme.
+Schein se bride volontairement pour proteger ses allies - et c'est precisement ce bridage qui le rend dangereux a retardement. Illustrations : Waal (la garnison lui interdit pourtant sa magie ; une horde de demons attaque, il se debride totalement et porte la victoire quasi seul - cibles legitimes, donc aucune dette, Roadmap_Himmel_02 Etape 11) ; et le Chateau du Roi, ou la dette atteint son maximum. Pendant le combat final contre le Roi (S+ tier), Schein canalise sa magie la plus intense tout en se bridant pour ne pas emporter ses quatre allies presents dans la melee : accumulation maximale (Roadmap_Himmel_04 Etape 34). Le Roi mort et les allies partis devant, un millenaire de trauma explose sur les murs faute de cible - le defoulement (Roadmap_Himmel_05 Etape 35).
 
 ---
 

@@ -2,9 +2,9 @@
 
 - univers : Sousou no Frieren (hybride)
 - dossier : Demons
-- sources : ENCYCLO_DEMONS Sections 10 + 11
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN (a lier au build)
+- sources : ENCYCLO_DEMONS Sections 10 + 11, lie a B32 (verification P4, contenu verifie inchange)
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B32
 
 ## Mode de vie
 

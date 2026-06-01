@@ -2,9 +2,9 @@
 
 - univers : Sousou no Frieren (hybride)
 - dossier : Demons
-- sources : ENCYCLO_DEMONS Section 7
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN (a lier au build)
+- sources : ENCYCLO_DEMONS Section 7, correction B32 (instinct de fuite resynchronise sur SB1, post-B27)
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B32
 
 ## Affinite naturelle exceptionnelle
 
@@ -42,9 +42,11 @@ Les demons ne s'adaptent pas. Perfectionnent leur sort unique pendant des millen
 
 [DIVERGENCE RP]
 
-Les demons faibles fuient quand ils sentent la signature de mana de Schein. En surface : reaction de puissance brute. En profondeur : reflexe de l'espece grave dans le mana depuis l'Ere Mythique - les demons qui ont survecu a la Deesse ont transmis un avantage selectif : fuir cette signature specifique.
+Les demons faibles fuient quand ils sentent la signature de mana de Schein. Le mecanisme est relatif a la force : un demon qui se sait plus faible fuit, un demon plus puissant ne fuit pas. Son mana est unique et sacre, et reconnaitre le tueur de demons - signature devenue symbole du massacre des leurs - declenche la fuite. C'est de la reconnaissance plus de la survie, pas un reflexe d'espece inconscient.
 
-Aucun demon vivant n'en a conscience. Seuls les vestiges de l'Ere Mythique (Roi, Schlacht, Qual) pourraient reconnaitre la nature reelle de cette magie - et meme eux n'y voient qu'une elfe qui a transcende, pas une hybride.
+Les demons plus puissants que lui (Macht, Solitaer) ne fuient pas, et ils le savent.
+
+Seuls les vestiges de l'Ere Mythique (Roi, Schlacht, Qual) pourraient reconnaitre la nature reelle de cette magie - et meme eux n'y voient qu'une elfe qui a transcende, pas une hybride.
 
 ---
 
