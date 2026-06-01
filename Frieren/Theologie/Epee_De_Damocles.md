@@ -41,7 +41,7 @@ La bombe atomique, bis - mais une bombe qui doit encore etre amorcee. Personne n
 
 ## Les deux chemins (branche Frieren)
 
-A Aeusserst (An 96), le RP a bifurque. Cette page ne porte que la branche Frieren : Schein est reste avec elle, Serie poursuit sa vie de son cote, ils ne se recroiseront plus. Les chemins lies a Serie (vie de conquete, pantheon-famille) vivent dans la branche separee - cf. Roadmap_Serie_0x. Ils ne sont pas disponibles ici.
+A Aeusserst (An 96), le RP a bifurque. Cette section porte la branche Frieren : Schein est reste avec elle, Serie poursuit sa vie de son cote, ils ne se recroiseront plus. Les chemins lies a Serie (regne, salut de l'espece) sont traites plus bas (cf. Roadmap_Serie_03_Aureole).
 
 Au seuil d'Aureole, la revelation de sa nature place Schein devant un choix binaire :
 
@@ -49,6 +49,18 @@ Au seuil d'Aureole, la revelation de sa nature place Schein devant un choix bina
 2. Accepter l'ascension. Devenir dieu vivant, puis transcender. Il gagne le pouvoir d'agir sur tout - au prix de ne plus jamais toucher rien. Omnipotent et absent. Sa derniere chance d'un role actif dans un monde ou il a choisi la tranquillite - mais il doit quitter les vivants, Frieren comprise, pour peser sur leur vie.
 
 Aucun des deux n'est le " bon " choix. Present mais impuissant, ou tout-puissant mais absent : aucune sortie ne garde les deux. Les deux fins sont purement legitimes et mutuellement exclusives.
+
+---
+
+## Les deux chemins (branche Serie)
+
+A Aeusserst, si Schein s'est remis avec Serie (branche 5b), le terminus se joue aussi a Aureole - mais le binaire est recolore par le regne (cf. Roadmap_Serie_03_Aureole). La revelation de nature est identique (hybride, deux conditions, potentiel divin) ; le choix oppose la Reine au Peuple :
+
+1. Rester mortel et regner. Schein garde Serie, le trone, sa presence. Mais l'espece reste sous la laisse de la voie douce non aboutie : une faim jamais guerie, tenue par la peur et le bridage. Regner pour sauver son peuple, et l'opprimer pour le sauver. Une vie pleine, un royaume, un amour ; un peuple jamais libre de sa faim.
+
+2. Accepter l'ascension. Devenir dieu vivant, puis transcender, et reecrire la nature demoniaque : guerir l'espece pour de bon, achever le plan du Roi jusqu'au bout. Au prix de tout quitter - les vivants, le trone, Serie. Omnipotent et absent.
+
+Le dilemme : sa Reine ou son Peuple. Et Serie est perdue a son tour - elle refuse d'etre la reine qui opprime le peuple qu'elle voulait sauver, mais elle l'aime. Comme cote Frieren, aucune sortie ne garde tout. Les deux fins sont entieres, legitimes, mutuellement exclusives. Chaque choix est legitime.
 
 ---
 
