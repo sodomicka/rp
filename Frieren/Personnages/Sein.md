@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : canon anime S1-S2 + Sein/Synopsis et Heiter/Synopsis (fandom), BIBLE_LORE B24, Chronologie/Ere_4_Fern_Et_Stark, Roadmap Fern_Stark_02, decisions joueur OOC 2026-05-31
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B24
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B31
 
 ---
 
@@ -14,7 +14,7 @@
 - Espece : humain.
 - Age : fin de la vingtaine a debut de la trentaine (~26-32 ans) a son recrutement (~An 94).
 - Apparence : homme d'age moyen, yeux verts, courte barbe au menton (bouc), longs cheveux bruns souvent noues en queue basse.
-- Role : pretre guerisseur et exorciste. Quatrieme membre temporaire du Groupe de Frieren (~An 94 a ~An 95-96).
+- Role : pretre guerisseur et exorciste. Quatrieme membre temporaire du Groupe de Frieren (~An 94 a ~An 95).
 
 ---
 
@@ -100,7 +100,14 @@ Face a la malediction du sommeil (Fleur de Confusion), Sein porte un sort de la 
 - Fiche creee (etait [A CREER] dans SB5 et le Sommaire).
 - Canon integre : origine Alt, frere pretre, Gorilla Warrior, surnom donne par Heiter, Benediction de la Deesse, Trois Lances de la Deesse, immunite a la Fleur de Confusion, age ~26-32, role de mediateur, Fern voit Heiter en lui.
 - DIVERGENCE RP : dynamique Sein/Frieren (Frieren en couple, sexualite avec Schein) -> rivalite jouee avec Schein et complicite sur la foi ; lien Heiter -> Sein pour le sort anti-sommeil.
-- Statut : vivant. Rejoint le groupe ~An 94 (pres d'Alt), le quitte ~An 95-96 (Gorilla parti vers Tur). Scaling : B (contextuel, cf. Heiter).
+- Statut : vivant. Rejoint le groupe ~An 94 (pres d'Alt), le quitte ~An 95 (Gorilla parti vers Tur). Scaling : B (contextuel, cf. Heiter).
+
+---
+
+## Notes W2
+
+- Depart de Sein uniformise : " ~An 95-96 " -> " ~An 95 " (SB3 fait autorite : ligne An ~95 " depart de Sein "). Deux occurrences corrigees (ligne Role + Notes W1).
+- En-tete recale B24 -> B31.
 
 ---
 

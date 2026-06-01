@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : canon anime S1-S2, Frieren Wiki, decisions joueur
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B13
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B31
 
 ---
 
@@ -12,7 +12,7 @@
 
 - Nom : Fern (" lointain " en allemand).
 - Espece : humaine.
-- Age : nee ~An 76. ~9 ans quand Frieren arrive chez Heiter (~An 85). ~14 ans a la mort de Heiter, depart avec Frieren (~An 90). ~21 ans a Aeusserst (~An 97).
+- Age : nee ~An 76. ~9 ans quand Frieren arrive chez Heiter (~An 85). ~13 ans a la mort de Heiter, depart avec Frieren (~An 89). ~20 ans a Aeusserst (An 96).
 - Apparence : grande (depasse Frieren des l'adolescence), cheveux longs violets, yeux violets. Robe noire avec robe blanche en dessous. Baton en bois decore de fils de fer et cordes violettes.
 - Role : mage, apprentie de Frieren, deuteragoniste du voyage post-Himmel.
 
@@ -30,11 +30,11 @@ Stoique, mais s'enerve facilement quand les choses ne vont pas comme prevu. Suit
 
 Orpheline de guerre des Terres du Sud. Parents morts. Sauvee d'une tentative de suicide - saut d'une falaise - par Heiter, qui la recueille et l'eleve (~An 80, Fern a ~4 ans). Heiter lui enseigne la magie pour qu'elle puisse vivre seule.
 
-A ~9 ans, rencontre Frieren et Schein venus rendre visite a Heiter (~An 85). C'est elle qui les guide jusqu'a la maison. Cinq ans de formation par Frieren. Observe pendant cette periode la complicite entre Heiter et Schein (travail theologique, alcool, foi). Foi absolue en Heiter, transferee a Schein par osmose - malgre son village detruit par des demons, elle n'a jamais peur de lui.
+A ~9 ans, rencontre Frieren et Schein venus rendre visite a Heiter (~An 85). C'est elle qui les guide jusqu'a la maison. Quatre ans de formation par Frieren. Observe pendant cette periode la complicite entre Heiter et Schein (travail theologique, alcool, foi). Foi absolue en Heiter, transferee a Schein par osmose - malgre son village detruit par des demons, elle n'a jamais peur de lui.
 
-A ~14 ans, apres la mort de Heiter (~An 90), part avec Frieren et Schein pour le voyage vers le nord.
+A ~13 ans, apres la mort de Heiter (~An 89), part avec Frieren et Schein pour le voyage vers le nord.
 
-Passe de mage de 3e classe a 1re classe lors de l'examen d'Aeusserst (~An 97).
+Passe de mage de 3e classe a 1re classe lors de l'examen d'Aeusserst (An 96).
 
 ---
 
@@ -60,7 +60,7 @@ Passe de mage de 3e classe a 1re classe lors de l'examen d'Aeusserst (~An 97).
 
 Fern grandit aux cotes de Schein. Il est deja la quand Frieren la prend comme apprentie. L'attachement se construit par osmose - pas de revelation choc ni de crise de confiance. Ce qu'elle voit : la confiance aveugle du vieil Heiter envers un demon, et l'amour de Frieren pour lui - Frieren, qui n'est une nullite en emotions qu'avec tous les autres. Si ces deux-la lui font confiance, c'est que la question ne se pose pas.
 
-Cinq ans de cohabitation a Strahl (An ~85-90) : Fern observe la complicite Heiter/Schein au quotidien - theologie, alcool, discussions de fond. Quand Schein vide la cave pour proteger Heiter de la tentation, Fern voit un demon qui protege un vieil homme de lui-meme. Ce genre de geste construit une confiance qui ne se discute plus.
+Quatre ans de cohabitation a Strahl (An ~85-89) : Fern observe la complicite Heiter/Schein au quotidien - theologie, alcool, discussions de fond. Quand Schein vide la cave pour proteger Heiter de la tentation, Fern voit un demon qui protege un vieil homme de lui-meme. Ce genre de geste construit une confiance qui ne se discute plus.
 
 ---
 
@@ -78,6 +78,13 @@ Cinq ans de cohabitation a Strahl (An ~85-90) : Fern observe la complicite Heite
 
 - Correction naissance : An ~61 -> An ~76. Toutes les dates cascadees : arrivee Frieren An ~70 -> An ~85, mort Heiter An ~74 -> An ~90, Aeusserst An ~81 -> An ~97. Alignement BIBLE B12/B13.
 - Enrichissement backstory : ajout detail des cinq ans a Strahl avec Schein present, confiance par osmose.
+
+---
+
+## Notes W3
+
+- Resync sur le recalibrage B21/B29 (la fiche etait restee sur les valeurs B13). Mort de Heiter An ~90 -> An ~89 (Fern 14 -> 13 ans) ; Aeusserst An ~97 -> An 96 (Fern 21 -> ~20 ans, age canon) ; cohabitation a Strahl " cinq ans / An ~85-90 " -> " quatre ans / An ~85-89 " (idem formation par Frieren). Les notes W2 sont conservees comme trace historique des valeurs B13.
+- En-tete recale B13 -> B31.
 
 ---
 

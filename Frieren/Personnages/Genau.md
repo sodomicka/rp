@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : canon wiki (fandom), TV Tropes, decisions joueur OOC
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B5
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B31
 
 ## Identite
 
@@ -19,7 +19,7 @@
 
 Originaire d'une ville qui sera massacree par des demons apres l'examen. Envoye par Serie avec Methode pour la mission de subjugation dans la Region de Rufen, ou il decouvre la destruction de sa ville natale. Pretend ne ressentir aucune tristesse - mais Frieren et Methode detectent une intention meurtriere d'une intensite remarquable, trahissant la verite sous la facade.
 
-Son ancien partenaire de mission, Frei, etait un mage de premiere classe sincere, naif et doue - l'oppose exact de Genau. Frei a ete tue par le Divin Revolte en protegeant un enfant qui etait un leurre demoniaque. Serie a note que sa gentillesse etait la cause directe de sa mort. Genau l'a qualifie de " heros " et dit qu'il avait eu " une fin magnifique ". Cette perte a cimente la carapace de Genau et sa croyance que la gentillesse tue. Cf. Personnages/Falsch_Frei_Burg.
+Son ancien partenaire de mission, Frei, etait un mage de premiere classe sincere, naif et doue - l'oppose exact de Genau. Frei a ete tue par Revolte le Divin en protegeant un enfant qui etait un leurre demoniaque. Serie a note que sa gentillesse etait la cause directe de sa mort. Genau l'a qualifie de " heros " et dit qu'il avait eu " une fin magnifique ". Cette perte a cimente la carapace de Genau et sa croyance que la gentillesse tue. Cf. Personnages/Falsch_Frei_Burg.
 
 ## Personnalite
 
@@ -43,7 +43,7 @@ Sous la surface, la situation est chargee. Genau a passe sa carriere dans un cad
 
 ## Relations
 
-**Frei.** Partenaire de mission. Premiere classe, naif, doue, trop gentil. Vivant a Aeusserst ; envoye au Nord apres l'examen. Branche Frieren : tue par le Divin Revolte en protegeant un leurre demoniaque - sa mort cimente la carapace de Genau (la gentillesse tue). Branche Serie : il survit (contingent renforce), et la carapace de Genau n'a pas ce deuil pour fondation. Leur binome fonctionnait sur le meme schema que celui de Genau et Methode - un cynique avec un idealiste. Cf. Personnages/Falsch_Frei_Burg.
+**Frei.** Partenaire de mission. Premiere classe, naif, doue, trop gentil. Vivant a Aeusserst ; envoye au Nord apres l'examen. Branche Frieren : tue par Revolte le Divin en protegeant un leurre demoniaque - sa mort cimente la carapace de Genau (la gentillesse tue). Branche Serie : il survit (contingent renforce), et la carapace de Genau n'a pas ce deuil pour fondation. Leur binome fonctionnait sur le meme schema que celui de Genau et Methode - un cynique avec un idealiste. Cf. Personnages/Falsch_Frei_Burg.
 
 **Sense.** Collegue examinatrice. Supervise la premiere epreuve avec elle. Sense le critique pour la mortalite de son epreuve ; Genau balaie la critique sans emotion apparente.
 
@@ -52,6 +52,13 @@ Sous la surface, la situation est chargee. Genau a passe sa carriere dans un cad
 **Serie.** Superieure hierarchique. Croyance absolue en sa puissance. Accepte sans discussion ses decisions, y compris la presentation de Schein.
 
 **Frieren.** Refuse de croire qu'elle puisse briser la barriere de Serie jusqu'a ce qu'elle le fasse. Reconnait son nom comme celui de la mage elfe du Groupe des Heros. Lui et le groupe de Frieren cooperent pendant la mission de subjugation dans la Region de Rufen.
+
+---
+
+## Notes W3
+
+- Coquille de nommage corrigee : " le Divin Revolte " -> " Revolte le Divin " (x2 : Backstory + Relations/Frei). Graphie unique alignee sur SB5 et Revolte_Le_Divin.md.
+- En-tete recale B5 -> B31.
 
 ---
 
