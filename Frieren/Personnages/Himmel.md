@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : ENCYCLO_PERSONNAGES Section 6, canon wiki (fandom), decisions joueur OOC
-- version : W5
-- bible rattachee : BIBLE_LORE_FRIEREN B29
+- version : W6
+- bible rattachee : BIBLE_LORE_FRIEREN B35
 
 ## Identite
 
@@ -61,11 +61,11 @@ Le prix d'une vie. Et la lecon : Himmel a eu tort sur le demon-enfant - mais rai
 
 **Renoncement.** Himmel comprend que le coeur de Frieren est pris - pas par lui, mais par Schein. Ce n'est pas de la defaite, c'est de la comprehension. Frieren a besoin de quelqu'un de sa longevite. Avec Heiter et Eisen, Himmel fait en sorte que le demon et l'elfe comprennent leurs sentiments. Des amis qui creent un couple issu de non-dits.
 
-**Qual.** Schein refuse le combat par egard pour son ancien maitre de Zoltraak. Qual nommera cette clemence " lachete ". Qual est scelle, pas tue - la scene canon Frieren/Fern 80 ans apres reste intacte.
+**Qual.** Schein refuse le combat par egard pour son ancien maitre de Zoltraak. Qual nommera cette clemence " lachete ". Qual est scelle, pas tue - la scene canon Frieren/Fern ~87 ans apres reste intacte.
 
 **Ende - mort du Roi.** Deux lames, un seul coup. L'Epee du Heros (replique) et l'Epee de Lumiere conjuree par Schein. Himmel l'humain ephemere et Schein le fils dechu, ensemble. La prophetie de Schlacht s'accomplit.
 
-**Effacement.** Schein refuse d'apparaitre sur les statues du groupe autrement que comme une silhouette sous capuche, un bras manquant, sans cornes. Reconnaissable pour ceux qui etaient la, anonyme pour les generations futures. Il ne se cache pas - il refuse de donner aux humains un modele de " gentil demon " que les vrais predateurs mimetiques pourraient exploiter. Le temps fait le reste : les generations passent, la silhouette devient un mystere, puis un oubli.
+**Effacement.** Schein refuse de poser pour la posterite. Sur la seule statue de groupe ou un seigneur exige sa presence (Graf Granat, au retour), il garde sa capuche : une silhouette encapuchonnee aux cotes de Himmel, Frieren, Heiter et Eisen, dont on ne devine que les quatre cornes, qui deforment le tissu en quatre pointes. Reconnaissable pour ceux qui etaient la, anonyme pour les generations futures. Il ne se cache pas - il refuse de donner aux humains, sur un monument durable, un modele de " gentil demon " que les vrais predateurs mimetiques pourraient exploiter. Le temps fait le reste : les generations passent, la silhouette devient un mystere, puis un oubli. La seule exception est Waal, la ville qu'il a sauvee quasi seul - et il ne l'a pas choisie (cf. " Les statues ").
 
 **Apres la victoire.** Schein reste a Ende plusieurs semaines - recuperation du contrecoup bestial lie a la liberation de son bras scelle et au combat final. Rejoint le groupe pour le voyage retour. Observe la pluie d'etoiles filantes avec eux a la Capitale (An 15).
 
@@ -85,7 +85,7 @@ An 10 : victoire sur le Roi. Le groupe voyage ensemble pendant cinq ans sur la r
 
 Himmel reste actif. Aventurier, parcourt le continent, fait eriger ses statues - pour que Frieren et Schein ne portent pas seuls la memoire du groupe. Tient un journal de voyage pendant la quete, notant le quotidien et les choses triviales. Schein y figure. Ce journal est un des rares documents post-mortem prouvant qu'un demon faisait partie du groupe. Apres la mort de Himmel, il est conserve dans le monastere abandonne de l'ile du lac Korridor (sous sa statue, derriere une barriere) ; Frieren le recupere a la traversee post-Aeusserst (Ere 5).
 
-An 65 : Frieren a besoin de la Corne de Dragon de l'Ombre que Himmel conserve. Occasion de reunir le groupe. Dernier voyage ensemble pour observer la pluie de meteores d'Era (une fois tous les cinquante ans - la deuxieme, cinquante ans apres An 15), au point de vue que Frieren avait promis. Himmel observe les etoiles, remercie Frieren. Heureux d'un dernier voyage avec tout le groupe.
+An 65 : Frieren a besoin de la Corne de Dragon des Ombres que Himmel conserve. Occasion de reunir le groupe. Dernier voyage ensemble pour observer la pluie de meteores d'Era (une fois tous les cinquante ans - la deuxieme, cinquante ans apres An 15), au point de vue que Frieren avait promis. Himmel observe les etoiles, remercie Frieren. Heureux d'un dernier voyage avec tout le groupe.
 
 Mort de vieillesse peu apres. Funerailles a la capitale royale. Sa mort est le catalyseur du voyage de Frieren vers Aureole - revoir les morts, comprendre les humains, comprendre le temps.
 
@@ -93,7 +93,16 @@ Mort de vieillesse peu apres. Funerailles a la capitale royale. Sa mort est le c
 
 Plus de cent statues sur le continent. Vanite en surface - Himmel doutait qu'une statue puisse reproduire son eclat. En profondeur : un acte d'amour. Les statues sont des ancres physiques pour que la memoire du groupe survive au-dela des vies humaines. Pour que Frieren et Schein, qui vivront des millenaires, ne soient pas les seuls a se souvenir.
 
-Schein y figure comme une silhouette sous capuche, un bras, sans cornes.
+L'immense majorite de ces statues represente Himmel seul. Schein ne figure que sur deux d'entre elles, aux deux extremes de sa logique d'effacement :
+
+- **Graf Granat (statue de groupe, ~An 12-13).** Granat exige sa presence ; Schein n'accepte que sous capuche. Une silhouette encapuchonnee, quatre cornes a peine devinees deformant le tissu en quatre pointes - assez pour ceux qui savent, illisible pour les autres. La trace concedee a contrecoeur : exister sur le monument, mais sans visage. (Schein pose en personne au retour, son bras gauche deja regenere depuis la chute du Roi.)
+- **Waal (statue solo, ~An 13).** L'exception, et il ne l'a pas choisie. Waal est la seule cite a eriger une statue de Schein lui-meme - lui seul, a visage decouvert, ses quatre cornes parfaitement visibles. Detail fige par l'histoire : la statue est concue des l'aller (~An 4-5), quand des artistes le croquent sur le vif ; a cette epoque son bras gauche est encore scelle et absent (le sceau ne se brisera qu'a la mort du Roi, An 10). La statue le represente donc manchot - tel qu'il etait quand il a sauve la ville - alors meme qu'a l'inauguration (au retour, An ~13) son bras est deja regenere. Pas un culte (contrairement a la reconnaissance discrete du clerge de Strahl) : la liesse populaire de la ville qu'il a sauvee quasi seul, qui lui grave dessus l'image qu'il fuit partout ailleurs. Noeud tragique : il refuse de devenir un modele de " gentil demon " pour la posterite, et c'est une ville reconnaissante qui l'y fige a visage nu, en sauveur manchot.
+
+## Notes W6
+
+- Correction P2-01 (passe 2) : suppression de l'erreur " sans cornes ". Modele a deux statues etabli - Granat (groupe, encapuchonne, quatre cornes entrevues deformant le tissu, pose en personne au retour, bras regenere) et Waal (solo, visage decouvert, quatre cornes visibles, manchot). Cf. Roadmap_Himmel_02 Etape 11 (conception/plant), Roadmap_Himmel_05 Etapes 40-41 (payoff), SB3, SB6. Pluriel resserre : la centaine de statues sont des Himmel-solo ; Schein ne figure que sur deux. Le bras manquant de la statue de Waal est canon-coherent : elle est croquee a l'aller (~An 4-5), quand le bras gauche scelle est encore absent (sceau brise An 10) - elle fige le sauveur manchot, meme si le bras est regenere a l'inauguration (~An 13).
+- Correction P2-02 (passe 2) : graphie de l'artefact unifiee sur SB7 - " Corne de Dragon des Ombres " (la fiche disait " de l'Ombre "). Conforme a Roadmap_Ere_Calme.
+- Correction P2-04 (passe 2) : ecart de Qual aligne - la scene canon Frieren/Fern intervient ~87 ans apres le scellement (An ~3 -> An ~90), non 80 ; conforme a Qual.md.
 
 ---
 
