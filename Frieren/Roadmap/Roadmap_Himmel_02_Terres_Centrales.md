@@ -5,8 +5,8 @@
 - segment : Traversee des Terres Centrales
 - periode : An ~1-5
 - sources : BIBLE_LORE B18, canon anime S1-S2, decisions joueur OOC
-- version : W3
-- bible rattachee : BIBLE_LORE_FRIEREN B18
+- version : W4
+- bible rattachee : BIBLE_LORE_FRIEREN B35
 
 ---
 
@@ -129,11 +129,12 @@
  - Schein se debride totalement. L'ego de demon refoule depuis des mois trouve une sortie : il dechaine sa puissance sans aucune mesure, sur des cibles legitimes.
  - Il porte la victoire quasi seul. Debridage total sur ennemi legitime = aucune retenue emmagasinee = aucun contrecoup bestial. La violence sort entierement, rien ne stocke.
  - La cite le celebre. Pour une fois, Schein est vu en heros - non par une institution, mais par toute la population.
+ - Marques par le sauvetage, les habitants decident de lui eriger une statue. Schein etant de passage, des artistes le croquent sur le vif : visage decouvert, quatre cornes, et le bras gauche manquant (le sceau du Roi ne se brisera qu'a An 10). La statue, taillee d'apres ces croquis, le figera donc manchot ; elle sera erigee pendant la quete et devoilee a leur retour (cf. Roadmap_Himmel_05 Etape 41).
 - **Personnages impliques** : Schein, Himmel, Frieren, Heiter, Eisen, garnison et habitants de Waal (non nommes), demons assaillants (non nommes).
 - **Role de Schein** : exutoire. L'autolimitation qu'il s'impose d'habitude pour proteger ses allies est ici levee sans risque : la horde absorbe toute sa violence, l'ennemi est legitime. Premier et unique contexte ou il peut etre pleinement un demon de guerre sans danger pour les siens ni dette a payer. L'ironie : c'est en cessant de se brider qu'il devient inoffensif pour son groupe.
 - **Tchekhov** :
  - Contrecoup bestial - illustration de la regle clarifiee (cf. SB1) : c'est la mesure qui coute, pas la puissance. Le bridage emmagasine la faim de tuer ; le debridage total sur cible legitime ne produit aucun contrecoup.
- - Statue de Schein / " seul demon gentil " - PLANTE ici. Waal est la seule cite a eriger une statue de Schein (et non de Himmel) et a perpetuer la connaissance d'un demon bienveillant. Payoff au re-passage en Ere 4 (~An 93) - NON traite dans ce roadmap.
+ - Statue de Schein / " seul demon gentil " - PLANTE ici (sauvetage + conception : les artistes croquent Schein, bras gauche encore manquant). Waal est la seule cite a eriger une statue de Schein (et non de Himmel) et a perpetuer la connaissance d'un demon bienveillant. Payoff au RETOUR (~An 13, Roadmap_Himmel_05 Etape 41 : statue devoilee, Schein seul a visage decouvert et manchot, tel qu'a l'aller) ; echo tardif en Ere 4 (~An 93, la statue persiste) - NON traites dans ce roadmap.
  - Peur d'aimer / empathie de Schein - il intervient par besoin de proteger une ville qui le rejetait encore la veille.
 - **Notes** : Registres separes a tenir pour eviter le doublon - Strahl (Etape 5) = reconnaissance clericale que Schein REFUSE (il ne veut pas etre mentionne, pour ne pas banaliser l'idee d'un gentil demon) ; Waal = liesse populaire qu'il SUBIT sans pouvoir l'empecher. Noeud tragique : il fuit l'image, une ville reconnaissante la lui grave dessus. Parallele canon : Fabel garde la statue du Heros du Sud et non celle de Himmel (ch. 63) - meme idee d'une cite qui immortalise un autre que Himmel. La statue de Waal montre Schein seul et a visage decouvert ; contraste avec la statue de groupe de Graf Granat (retour), ou il n'est qu'une silhouette encapuchonnee. La clarification du contrecoup est a verrouiller en SB1 et a propager au patch de fin d'ere.
 

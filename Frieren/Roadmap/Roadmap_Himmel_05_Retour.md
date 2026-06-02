@@ -5,8 +5,8 @@
 - segment : Voyage retour et separation du groupe
 - periode : An 10-15
 - sources : BIBLE_LORE B18, canon anime S1-S2, decisions joueur OOC, maj contrecoup B31 (Etape 35)
-- version : W3
-- bible rattachee : BIBLE_LORE_FRIEREN B34
+- version : W4
+- bible rattachee : BIBLE_LORE_FRIEREN B35
 
 ---
 
@@ -123,7 +123,7 @@
 - **Statut** : divergence RP. Payoff du plant de l'aller.
 - **Evenements** :
  - Le groupe repasse a Waal, la cite que Schein a sauvee quasi seul a l'aller (Himmel_02 Etape 11).
- - Heure de gloire quasi personnelle : Waal est la seule cite a celebrer Schein lui-meme. Une statue de lui y est erigee - lui seul, a visage decouvert.
+ - Heure de gloire quasi personnelle : Waal est la seule cite a celebrer Schein lui-meme. La statue de lui - commandee des l'aller (Himmel_02 Etape 11, ou des artistes l'avaient croque alors que son bras gauche scelle etait encore absent) et achevee pendant la quete - est devoilee a leur retour : lui seul, a visage decouvert, ses quatre cornes parfaitement visibles, et un seul bras (figeant le sauveur tel qu'a l'aller, alors meme que son bras est regenere depuis la chute du Roi).
  - Les habitants perpetuent la memoire du seul demon bienveillant. Pas un culte (cf. Strahl) : une gratitude populaire qui se transmet.
 - **Personnages impliques** : Schein, groupe, habitants de Waal.
 - **Role de Schein** : la reconnaissance qu'il fuit partout ailleurs, ici il la subit pleinement - et c'est la seule ville au monde a la lui accorder a visage decouvert.
