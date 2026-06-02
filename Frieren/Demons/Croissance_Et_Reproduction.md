@@ -2,9 +2,9 @@
 
 - univers : Sousou no Frieren (hybride)
 - dossier : Demons
-- sources : ENCYCLO_DEMONS Sections 3 + 4
-- version : W3
-- bible rattachee : BIBLE_LORE_FRIEREN B13
+- sources : ENCYCLO_DEMONS Sections 3 + 4, correction B37 (modele nain ajoute, decision worldbuilder)
+- version : W4
+- bible rattachee : BIBLE_LORE_FRIEREN B37
 
 ## Modele de vieillissement a plateau
 
@@ -16,6 +16,10 @@ Meme rythme de croissance que les elfes :
 - Esperance de vie maximale : ~13 000 ans (~105 ans apparents). Cause de mort naturelle : mana trop instable pour maintenir le demon en vie (equivalent elfique : degenerescence cellulaire).
 
 Le plateau explique pourquoi les elfes et demons puissants paraissent tous jeunes : Frieren (~1 500 ans), Serie (~3 500 ans), Aura (~500+ ans) sont tous dans la fourchette 15-25 apparents. Le vieillissement visible ne commence qu'apres 5 000 ans.
+
+## Variante : les nains
+
+Les nains ne suivent PAS le plateau elfe/demon. Leur modele : vieillissement au rythme humain de la naissance a ~50 ans (apparence calee sur l'age reel), puis plateau tardif et vieillissement tres lent jusqu'a un plafond de ~400 ans (parfois davantage). Pas de jeunesse eternelle figee : un nain au plateau a l'allure d'un humain d'age mur, et le declin marque - senescence pouvant aller jusqu'a l'alteration mentale - ne frappe qu'en toute fin de course, pres du plafond. Eisen (~315 ans, age et ralenti) et Voll (~400 ans, au plafond, la senilite le gagne) illustrent les deux bornes. Cf. SB1.
 
 ## Ages de reference derives
 

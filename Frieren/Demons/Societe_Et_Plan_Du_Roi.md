@@ -2,9 +2,9 @@
 
 - univers : Sousou no Frieren (hybride)
 - dossier : Demons
-- sources : ENCYCLO_DEMONS Sections 10 + 11, lie a B32 (verification P4, contenu verifie inchange)
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B32
+- sources : ENCYCLO_DEMONS Sections 10 + 11, lie a B32 (verification P4), correction B37 (genocide elfique recadre en deux temps)
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B37
 
 ## Mode de vie
 
@@ -26,7 +26,7 @@
 
 **Methode** : evolution forcee de l'humanite. Le Roi est un biologiste-souverain. Il a developpe la theorie de l'evolution convergente (partagee avec Solitaer). Les massacres systematiques sont un protocole de recherche : pousser l'humanite dans ses retranchements pour observer ses reactions, comprendre son fonctionnement, forcer son evolution vers une forme capable de coexister avec les demons.
 
-**Consequences** : sphere d'influence de l'humanite reduite d'un tiers. Genocide des elfes ordonne ~1000 ans avant Himmel (raison probable : seule espece rivale en longevite et accumulation de savoir magique).
+**Consequences** : sphere d'influence de l'humanite reduite d'un tiers. Genocide des elfes : espece deja decimee par la predation instinctive depuis l'Ere Mythique (cf. SB1) ; le Roi en ordonne l'achevement systematique ~1000 ans avant Himmel (raison probable : seule espece rivale en longevite et accumulation de savoir magique). A cette date il ne reste plus qu'une poignee d'elfes - d'ou des operations ponctuelles et exceptionnelles comme le massacre de Bluete (~990 av).
 
 **Le paradoxe fondamental** : le Roi veut coexister mais son instinct demoniaque rend le meurtre si intrinseque qu'il ne peut pas concevoir " ne pas tuer " comme une option. Meme paradoxe que Macht a Weise. La coexistence vue par un demon passe necessairement par la violence - ils n'ont pas l'outillage emotionnel pour imaginer une autre voie.
 

@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Demons
 - sources : ENCYCLO_DEMONS Sections 1 + 2
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN (a lier au build)
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B37
 
 ## Origine de l'espece
 

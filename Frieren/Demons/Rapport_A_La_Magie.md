@@ -2,9 +2,9 @@
 
 - univers : Sousou no Frieren (hybride)
 - dossier : Demons
-- sources : ENCYCLO_DEMONS Section 7, correction B32 (instinct de fuite resynchronise sur SB1, post-B27)
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B32
+- sources : ENCYCLO_DEMONS Section 7, correction B32 (instinct de fuite resynchronise sur SB1, post-B27), correction B37 (assouplissement " seuls les vestiges " + clause de ralliement)
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B37
 
 ## Affinite naturelle exceptionnelle
 
@@ -44,9 +44,9 @@ Les demons ne s'adaptent pas. Perfectionnent leur sort unique pendant des millen
 
 Les demons faibles fuient quand ils sentent la signature de mana de Schein. Le mecanisme est relatif a la force : un demon qui se sait plus faible fuit, un demon plus puissant ne fuit pas. Son mana est unique et sacre, et reconnaitre le tueur de demons - signature devenue symbole du massacre des leurs - declenche la fuite. C'est de la reconnaissance plus de la survie, pas un reflexe d'espece inconscient.
 
-Les demons plus puissants que lui (Macht, Solitaer) ne fuient pas, et ils le savent.
+Les demons plus puissants que lui (Macht, Solitaer) ne fuient pas, et ils le savent. Cas particulier d'un regne : si le mana de Schein se fond a celui d'un Sage rallie sous une banniere legitime, la lecture s'inverse - la signature du tueur de demons, mariee a une autorite reconnue, devient un signal de ralliement plutot que de fuite (cf. Roadmap_Serie_02_Planification_Du_Regne).
 
-Seuls les vestiges de l'Ere Mythique (Roi, Schlacht, Qual) pourraient reconnaitre la nature reelle de cette magie - et meme eux n'y voient qu'une elfe qui a transcende, pas une hybride.
+Seuls les vestiges de l'Ere Mythique (Roi, Schlacht, Qual) ont la memoire directe de la Deesse vivante - et meme eux n'y voient qu'une elfe qui a transcende, pas une hybride. Serie et Solitaer, bien plus jeunes, atteignent par d'autres voies (les sorts de Schein appris durant les 150 ans pour l'une, la lecture de la structure de son mana pour l'autre) une meme intuition troublante - " comme la Deesse " - sans jamais acceder au concept d'hybridation. Personne, vestige ou non, ne reconstitue la verite. Cf. SB8 (intuition divine), Serie_Rapport_Schein, Solitaer.
 
 ---
 
