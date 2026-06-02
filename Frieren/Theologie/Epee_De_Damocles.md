@@ -4,7 +4,7 @@
 - dossier : Theologie
 - sources : ENCYCLO_THEOLOGIE Section 5, decisions worldbuilder 2026-05-31 (conditions et pouvoirs de l'ascension, resserrage branche Frieren)
 - version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B26
+- bible rattachee : BIBLE_LORE_FRIEREN B37
 
 ## Transcendance potentielle
 

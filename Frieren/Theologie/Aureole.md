@@ -4,7 +4,7 @@
 - dossier : Theologie
 - sources : ENCYCLO_THEOLOGIE Section 3 + Section 6, decisions worldbuilder 2026-05-31 (revelation au seuil)
 - version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B26
+- bible rattachee : BIBLE_LORE_FRIEREN B37
 
 ## Nature
 

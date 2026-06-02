@@ -4,7 +4,7 @@
 - dossier : Theologie
 - sources : ENCYCLO_THEOLOGIE Section 1, decisions worldbuilder 2026-05-31 (mecanisme de gestation, origines Schein/Deesse)
 - version : W3
-- bible rattachee : BIBLE_LORE_FRIEREN B26
+- bible rattachee : BIBLE_LORE_FRIEREN B37
 
 ## Ce que le monde croit
 
