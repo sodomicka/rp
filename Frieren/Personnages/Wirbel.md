@@ -3,14 +3,14 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : canon wiki (fandom), Anibase, TV Tropes, decisions joueur OOC
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B3
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B36
 
 ## Identite
 
 - Nom : Wirbel (" tourbillon / vortex " en allemand).
 - Espece : humain.
-- Age : jeune adulte.
+- Age : ~33-34 ans (jeune adulte).
 - Role : capitaine du Corps de Magie du Nord. Mage de deuxieme classe au debut de l'examen, promu premiere classe apres l'examen d'Aeusserst. Considere par Serie comme le mage le plus oriente combat parmi les deuxiemes classes.
 - Apparence : allure de delinquant, sourire moqueur et mince, regard calcule. Donne une impression de brute decontractee - en realite, calme et constamment sur ses gardes.
 - Tier de puissance : B+ (niveau generaux / Eisen prime).
@@ -64,6 +64,13 @@ Pas de reconnaissance miroir comme avec Uebel. La ou Uebel sent un tueur qui ne 
 **Frieren.** Discussion post-examen sur la nature de la magie et du meurtre. Deux etres dont la magie est une arme et qui cherchent un sens au-dela.
 
 **Serie.** Superieure. Le considere comme le mage le plus oriente combat parmi les deuxiemes classes - un jugement que Wirbel porte sans orgueil.
+
+---
+
+## Notes W2
+
+- P3.2-05 : age precise " jeune adulte " -> " ~33-34 ans ", aligne sur SB5.
+- En-tete recale B3 -> B36.
 
 ---
 
