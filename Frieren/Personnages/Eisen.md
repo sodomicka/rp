@@ -3,8 +3,8 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : Heiter_Et_Eisen W1 (scission), canon anime S1-S2, Frieren Wiki, decisions joueur
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B11
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B37
 
 ---
 
@@ -12,7 +12,7 @@
 
 - Nom : Eisen (" fer " en allemand).
 - Espece : nain.
-- Age : ~250 ans a An 0. ~315 ans a la mort de Himmel (An 65). En fin de vie - commence a faiblir physiquement.
+- Age : ~250 ans a An 0. ~315 ans a la mort de Himmel (An 65). Age et ralenti - commence a faiblir physiquement (perte de masse musculaire), mais loin du plafond naturel des nains (~400 ans, cf. SB1) ; le declin marque ne viendra qu'en toute fin de vie.
 - Apparence : petit, carrure massive, barbe longue brun pale qui couvre la majeure partie du visage. Casque a deux cornes courtes avec garde-nez, cape rouge longue, armure d'epaules, tunique brune. En vieillissant, perd de la masse musculaire - les bras surtout.
 - Arme : hache a double tranchant.
 - Role : guerrier du Groupe des Heros.
@@ -48,7 +48,7 @@ S'installe a Bredt apres la separation du groupe (An 15). Estime etre trop vieux
 - Robustesse naturelle de nain : saute de falaises sans se blesser, resistance aux poisons, endurant.
 - Style de combat centre sur la hache a double tranchant. Pas de magie.
 - Force brute exceptionnelle, mais sa vraie puissance vient du travail d'equipe. Le Groupe des Heros fonctionne en synergie - Eisen seul n'est pas un tueur de Sages.
-- En fin de vie (~315 ans), la masse musculaire diminue. Il le sait et s'arrete.
+- Age et ralenti (~315 ans), la masse musculaire diminue. Il le sait et s'arrete - il s'estime trop vieux pour l'aventure, sans etre pour autant au bout de sa vie.
 
 ### Power-scaling
 

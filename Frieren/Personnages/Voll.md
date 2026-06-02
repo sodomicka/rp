@@ -3,14 +3,14 @@
 - univers : Sousou no Frieren (hybride)
 - dossier : Personnages
 - sources : canon anime S1-S2 (ch. 33), Frieren Wiki, decisions joueur OOC
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B36
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B37
 
 ## Identite
 
 - Nom : Voll (le Vieux Voll).
 - Espece : nain.
-- Age : pres de 400 ans (esperance de vie naine ~400 ans, parfois davantage - cf. SB1). En bout de course : contrairement aux elfes et demons, les nains n'ont pas de plateau d'apparence ; ils vieillissent visiblement et declinent en fin de vie (senescence pouvant aller jusqu'a l'alteration mentale).
+- Age : pres de 400 ans (esperance de vie naine ~400 ans, parfois davantage - cf. SB1). Au plafond, donc reellement en bout de course : les nains ont un plateau tardif (rythme humain jusqu'a ~50 ans, puis vieillissement tres lent), et le declin marque - senescence pouvant aller jusqu'a l'alteration mentale - ne frappe qu'en toute fin de vie. Voll y est : ~400 ans, le plafond, la senilite le gagne.
 - Role : guerrier-gardien d'un village de la region de Klar.
 - Puissance : guerrier aguerri, epee, recourt volontiers aux ruses et aux coups bas. Redoutable malgre l'age. Power-scaling : C+ (bon guerrier, nettement sous l'elite demoniaque ; reference interne : sous Eisen en pleine forme).
 - Particularite : les villageois le tiennent pour une divinite gardienne. La senilite le gagne ; en post-Himmel (~An 94), la folie le guette - il converse encore normalement avec Frieren mais peine avec les villageois.
@@ -40,9 +40,13 @@ Au retour (Himmel_05), celebration : Voll fete la victoire avec le groupe, Eisen
 
 ## Notes W2
 
-- P3.2-01 : esperance de vie naine corrigee " ~300 ans " -> " ~400 ans, parfois davantage ", alignee sur le modele nain de SB1 (repris en B34). Ajout du declin sans plateau d'apparence (senescence -> alteration mentale).
+- P3.2-01 : esperance de vie naine corrigee " ~300 ans " -> " ~400 ans, parfois davantage ", alignee sur le modele nain de SB1 (repris en B34).
 - P3.2-02 : propagation B34 soldee - folie qui le guette en post-Himmel (~An 94) explicitee dans Identite et raccordee a la ligne Ere 4 des faits canon.
 - En-tete recale B20 -> B36.
+
+## Notes W3
+
+- B37 (modele nain revise, decision worldbuilder) : l'ancienne formule " pas de plateau d'apparence " (W2 / P3.2-01) est defaite. Les nains ONT un plateau, mais tardif : vieillissement humain jusqu'a ~50 ans, plateau, puis derive tres lente ; le declin marque ne survient qu'au plafond (~400). Voll, a ~400 ans, reste en fin de vie / senilite - caracterisation inchangee sur le fond, seul le cadre du modele change. En-tete B36 -> B37.
 
 ---
 
