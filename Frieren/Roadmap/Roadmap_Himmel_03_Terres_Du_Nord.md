@@ -5,8 +5,8 @@
 - segment : Traversee des Terres du Nord
 - periode : An ~5-7
 - sources : BIBLE_LORE B18, canon anime S1-S2, decisions joueur OOC
-- version : W7
-- bible rattachee : BIBLE_LORE_FRIEREN B28
+- version : W8
+- bible rattachee : BIBLE_LORE_FRIEREN B34
 
 ---
 
@@ -18,12 +18,12 @@
 - **Statut** : canon (echec de Himmel a l'Epee du Heros, secret garde, voeu de Frieren). Divergence (echo de la Deesse percu par Schein, discussion theologique, refus d'approcher la lame).
 - **Evenements** :
  - Le groupe atteint le Village de l'Epee, sur la route du nord. Le sanctuaire abrite l'Epee du Heros plantee dans un rocher, don de la Deesse de la Creation : selon la legende, seul le vrai heros peut la retirer.
- - Himmel essaie, echoue. Le groupe et la grand-mere du 49e chef conviennent de garder l'echec secret pour ne pas ecorner la legende. Frieren promet de revenir periodiquement eliminer les monstres attires par le sanctuaire.
+ - Himmel essaie, echoue. Le groupe et la grand-mere de la 49e cheffe conviennent de garder l'echec secret pour ne pas ecorner la legende. Frieren promet de revenir periodiquement eliminer les monstres attires par le sanctuaire.
  - Schein et Heiter percoivent un echo de la Deesse en foulant la terre sainte. Cela ouvre une discussion theologique entre eux.
  - Schein apprend a Heiter un sort de la Deesse inconnu du clerge : il dissipe temporairement le sommeil. (Le meme sort reapparaitra chez Sein, des decennies plus tard.)
  - En echange, Heiter transmet a Schein la theologie clericale de la Deesse - dont la legende de l'ascension : une elfe si puissante qu'elle serait devenue dieu. Theorie batie sur son physique d'elfe ; le clerge ignore l'hybridite.
  - Himmel supplie Schein d'essayer la lame. Schein refuse. Heiter juge que ce serait un blaspheme - la Deesse pourrait s'en prendre a un demon qui approche sa lame. Schein reste prudent et ne s'en approche pas.
-- **Personnages impliques** : Schein, Heiter, Himmel, Frieren, Eisen, la grand-mere du (futur) 49e chef - cheffe du village au temps de la quete (le 49e chef, encore enfant, accueillera Frieren a la revisite Ere 4).
+- **Personnages impliques** : Schein, Heiter, Himmel, Frieren, Eisen, la grand-mere de la (future) 49e cheffe - cheffe du village au temps de la quete (la 49e cheffe, encore enfant, accueillera Frieren a la revisite Ere 4).
 - **Role de Schein** : double resonance. Le sanctuaire le reconnait sans que personne ne comprenne pourquoi - premier signe physique que sa nature touche au divin. Il enseigne un sort que le clerge n'a pas : l'ecart 70% vs 3% rendu concret. Et il refuse l'epee - prudence affichee, ou instinct sourd qu'il ne doit pas savoir ce qui arriverait s'il la touchait.
 - **Tchekhov** :
  - Sort anti-sommeil de la Deesse - PLANTE ici (Schein -> Heiter). Payoff : le meme sort chez Sein sur la route d'Aeusserst (~An 95-96, malediction du sommeil).
@@ -72,7 +72,7 @@
 - **Periode estimee** : An ~5.
 - **Statut** : invention (evenement). Canon (lieu).
 - **Evenements** :
- - Foret marecageuse, plus calme que Raad.
+ - Foret marecageuse, calme.
  - Ambiance oppressante mais sans combat majeur.
 - **Personnages impliques** : groupe.
 - **Role de Schein** : mineur. Traversee.
@@ -218,6 +218,12 @@
  - Journal de Himmel - Himmel consigne cet episode. Preuve future.
  - Empathie de Schein - les trois compagnons mortels agissent par affection sincere envers Schein et Frieren.
 - **Notes** : La revelation amoureuse a lieu pendant la quete (cote aller). Les retrouvailles Serie/Schein a Aeusserst surviennent bien plus tard, cote retour - date post-Himmel : An 96 (cf. Roadmap_Fern_Stark_02 etape 26, Ere 4). Cf. Personnages/Himmel (charmeur taquin, bague de lotus), Personnages/Eisen (matchmaking), Personnages/Heiter (matchmaking).
+
+---
+
+## Notes W8
+
+- Passe 2 Partie 1 (P1-08, P1-18) : Etape 14 - "49e chef" feminise en "49e cheffe" (conforme SB3 et Fern_Stark_02). Etape 17 (Alt) - "plus calme que Raad" corrige en "calme" (Raad n'est traverse qu'a l'etape suivante). En-tete recale B28 -> B34.
 
 ---
 

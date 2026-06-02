@@ -5,8 +5,8 @@
 - segment : Ere de l'Exil solo
 - periode : ~990 a ~890 av. An 0 (~100 ans)
 - sources : BIBLE_LORE B8, BIBLE_LORE SB3 (chronologie), Personnages/Serie_Rapport_Schein, Personnages/Frieren_Rapport_Schein, Demons/Emotions_Et_Instincts, Roadmap/Roadmap_Chateau (transition), decisions joueur OOC
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B23
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B34
 
 ## Synthese
 
@@ -171,7 +171,7 @@ Les villages ne sont pas tous identiques - chaque snapshot offre une variation (
 - **Periode estimee** : ~910-895 av. An 0.
 - **Statut** : divergence RP.
 - **Evenements** :
- - Un siecle de guerilla solitaire a produit un etre fonctionnel mais vide. Schein tue des demons, mange des animaux, bouge, dort. Pas de conversation depuis cent ans - a part des menaces grognes a des humains terrifies et des insultes crachez a des demons mourants.
+ - Un siecle de guerilla solitaire a produit un etre fonctionnel mais vide. Schein tue des demons, mange des animaux, bouge, dort. Pas de conversation depuis cent ans - a part des menaces grognes a des humains terrifies et des insultes crachees a des demons mourants.
  - Le bras gauche est toujours mort. Les yeux sont toujours gris. La maladresse initiale a disparu - il s'est adapte au combat a un bras, c'est devenu naturel. Mais l'adaptation physique masque la fossilisation interieure.
  - La reputation est installee sur les deux circuits. Cote demon : " le Traitre " est un nom connu des demons des marges, mais les Sages ne le considerent pas comme une menace (un prince de ~700 ans, manchot, seul - pas une priorite). Cote humain : " le Demon de Lumiere " est une legende fragmentaire, pas une certitude.
  - Schein est pret a etre trouve - non pas qu'il le sache, mais parce que cent ans de solitude ont creuse un vide que la guerilla ne comble pas. L'objectif strategique tient, l'identite s'effrite.
@@ -200,6 +200,12 @@ Les villages ne sont pas tous identiques - chaque snapshot offre une variation (
 Schein court vers un village en feu. Meme schema qu'une centaine de fois. Cette fois, quelqu'un le regarde.
 
 Ere suivante : Ere Serie (~890 a ~740 av. An 0). Cf. Roadmap_Serie_01_Premier_Contact.
+
+---
+
+## Notes W3
+
+- Passe 2 Partie 1 (P1-16) : coquille Etape 4.1 "crachez" -> "crachees". En-tete recale B23 -> B34.
 
 ---
 

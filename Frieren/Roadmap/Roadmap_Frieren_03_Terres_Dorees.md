@@ -5,8 +5,8 @@
 - segment : Golden Land (Weise) et Monument de la Deesse - seuil d'Aureole
 - periode : An ~98 (Ere 5)
 - sources : BIBLE_LORE B25, Roadmap_Frieren_02_Plateau_Nord (entree), Roadmap_Himmel_04_Plateau_Nord (etape 31, Monument versant passe), Personnages/ (Macht, Solitaer, Denken, Lernen, Fern, Stark), Theologie/Aureole, Theologie/Epee_De_Damocles, canon anime S2 + manga (arcs The Golden Land et Goddess's Monument), decisions joueur OOC 2026-05-31
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B25
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B34
 
 ---
 
@@ -35,7 +35,7 @@ Le segment se cloture sur le Monument de la Deesse - versant present de l'arc Go
  - Le groupe penetre dans la region doree. Cite et habitants figes dans un or indestructible ; le mana de Macht reste invisible, ce qui rend l'absence de signature profondement derangeante pour les mages.
  - Retrouvailles avec Denken, le mage imperial age croise a l'examen d'Aeusserst, desormais premiere classe. C'est sa ville natale ; il est revenu y mourir, sur la tombe de sa femme Lektuere. Lernen, son vieil ami, a organise l'expedition - une dette d'amitie qu'il rembourse.
  - Macht est scelle dans Weise depuis des decennies : Serie etait venue le tuer apres la transmutation, mais Lernen l'avait suppliee de le sceller a la place, le temps de chercher un remede a la Diagoldze.
- - Denken a obtenu, comme privilege de premiere classe, le sort Mystil'zla - un renversement de malediction capable de contrer la Diagoldze. Il est venu solder sa dette envers son ancien maitre demon.
+ - Denken a obtenu, comme privilege de premiere classe, le sort Mistilziela - un renversement de malediction capable de contrer la Diagoldze. Il est venu solder sa dette envers son ancien maitre demon.
 - **Personnages impliques** : Schein, Frieren, Fern, Stark, Denken, Lernen.
 - **Role de Schein** : l'anomalie qui a deja vaincu cette malediction. Sa seule presence pose une question muette pour quiconque connait l'histoire du bras dore de Frieren - et Denken la connait. Mais Schein ne peut pas reproduire a l'echelle de Weise ce qu'il a fait sur un bras.
 - **Tchekhov** :
@@ -70,7 +70,7 @@ Le segment se cloture sur le Monument de la Deesse - versant present de l'arc Go
 - **Statut** : canon (Frieren analyse Macht et developpe le contre ; Denken affronte Macht ; Frieren affronte Solitaer ; Fern et Stark blesses par Solitaer). Divergence (role de Schein en marge des deux duels).
 - **Evenements** :
  - Frieren analyse les souvenirs de Macht pendant deux mois et developpe un sort de negation de la Diagoldze a l'echelle de la region - ce que personne d'autre ne pouvait faire.
- - Denken affronte Macht en duel. Diagoldze neutralisee, Macht se bat a armes improvisees en or et sorts humains basiques ; Denken, premiere classe age, le tient en combat rapproche, Mystil'zla en appui.
+ - Denken affronte Macht en duel. Diagoldze neutralisee, Macht se bat a armes improvisees en or et sorts humains basiques ; Denken, premiere classe age, le tient en combat rapproche, Mistilziela en appui.
  - Frieren affronte Solitaer en duel de longue duree : Mana Strike, lames de mana, guerre psychologique. Solitaer blesse gravement Fern et Stark, puis enferme Frieren dans une impasse d'attrition. Frieren copie Mana Strike par retro-ingenierie pendant le combat.
  - Schein opere en marge des deux duels - les roles centraux sont distribues (Denken, Frieren, et Fern pour le coup final), et Macht comme Solitaer le surclassent. Son perimetre : neutraliser les renforts et demons mineurs, proteger les habitants au fur et a mesure qu'ils sont restaures, et tenir un face-a-face avec Solitaer (la dette du Monument) sans pour autant lui porter le coup - qui revient a Fern.
  - C'est ici que se pose la question du contrecoup : si Schein se bride en canalisant (retenir sa violence pour ne pas voler les duels d'autrui), il accumule une dette bestiale qui explosera apres ; s'il se defoule sans retenue sur les demons mineurs legitimes, rien n'est mis en reserve. Le dosage de son intervention determine la facture (cf. SB1) - point a jouer en narration.
@@ -130,6 +130,12 @@ Le segment se cloture sur le Monument de la Deesse - versant present de l'arc Go
 - **Sortie** : Roadmap_Frieren_04_Aureole (la revelation - segment a batir). Ce segment ouvre sur Aureole, il ne conclut pas.
 - **Versant passe du Monument** : Roadmap_Himmel_04_Plateau_Nord etape 31 (a raccorder, pas a reecrire).
 - **Cadre de la fin** : Theologie/Aureole (contenu de la revelation) et Theologie/Epee_De_Damocles (le second point de decision : ascension ou rester).
+
+---
+
+## Notes W2
+
+- Passe 2 Partie 1 (P1-19) : graphie de la contre-malediction de Serie uniformisee "Mistilziela" (x2, etapes 1 et 3 ; etait "Mystil'zla"), conforme au standard B29 (SB5, Serie_02, Denken.md). En-tete recale B25 -> B34.
 
 ---
 

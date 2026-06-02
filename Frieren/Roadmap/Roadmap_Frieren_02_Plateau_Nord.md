@@ -5,8 +5,8 @@
 - segment : Plateau Nord - traversee post-examen et Revolte le Divin
 - periode : An ~96-97 (Ere 5)
 - sources : BIBLE_LORE B30, Roadmap_Aeusserst (etape 5a, entree), Roadmap_Himmel_04_Plateau_Nord (calque geographique, etapes 26-30), Personnages/ (Norm, Gehen, Heros_Du_Sud, Genau, Methode, Falsch_Frei_Burg pour Frei, Revolte_Le_Divin, Stark, Fern), canon anime S1-S2 + manga (arcs Continued Northern Travels et Divine Revolte / Revolte le Divin), decisions joueur OOC 2026-05-31
-- version : W4
-- bible rattachee : BIBLE_LORE_FRIEREN B30
+- version : W5
+- bible rattachee : BIBLE_LORE_FRIEREN B34
 
 ---
 
@@ -142,7 +142,7 @@ Coupe : ce segment s'arrete a l'entree de Weise (la cite doree apparait). La sui
  - Peur d'aimer - le recul de Schein devant le combat de Frieren est un acte d'amour, pas de tactique.
  - Magie de lumiere / nature divine - Methode (magie de la Deesse) capte la signature mi-divine de Schein. Graine effleuree, non resolue.
  - Empathie de Schein - le bouclage de Genau (la gentillesse qui tue / qui survit) resonne avec le parcours de Schein, miroir inverse de Frei (cf. Notes).
-- **Notes** : Canon Divine Revolte. Revolte = nom allemand conserve ; arc nomme "Revolte le Divin". Sbires canon : Hemmung (brume), Solide (foret), Jung (enfant-leurre ; = Yun, graphie maison). [B30 : Trueb supprime - artefact RP hors canon ; la brume revient a Hemmung, sbire canon.] Repartition 5a : Fern vs Hemmung, Frieren+Schein vs Solide, Stark+Genau vs Revolte, Jung = le piege (Methode en support, divergence du duo canon Methode/Solide). Frei : vivant a Aeusserst, mort plus tot durant la campagne du Nord (post-divergence, branche Frieren) tue par Revolte via le piege de Jung ; miroir de Schein (naivete qui tue vs naivete qui survit) - Frei n'y survit pas, Schein si ; branche Serie : Frei survit (cf. Roadmap_Serie_02 etape 3) ; cf. Personnages/Falsch_Frei_Burg + Genau. Le refus de Methode : motif canon "Sein encore membre" incompatible avec le depart de Sein ~An 95 [INCERTAIN] - rebasable sur "groupe complet". Fiches : Personnages/Genau, Methode, Falsch_Frei_Burg, Revolte_Le_Divin, Stark, Fern.
+- **Notes** : Canon Divine Revolte. Revolte = nom allemand conserve ; arc nomme "Revolte le Divin". Sbires canon : Hemmung (brume), Solide (foret), Jung (enfant-leurre ; = Yun, graphie maison). [B30 : Trueb supprime - artefact RP hors canon ; la brume revient a Hemmung, sbire canon.] Repartition 5a : Fern vs Hemmung, Frieren+Schein vs Solide, Stark+Genau vs Revolte, Jung = le piege (Methode en support, divergence du duo canon Methode/Solide). Frei : vivant a Aeusserst, mort plus tot durant la campagne du Nord (post-divergence, branche Frieren) tue par Revolte via le piege de Jung ; miroir de Schein (naivete qui tue vs naivete qui survit) - Frei n'y survit pas, Schein si ; branche Serie : Frei survit (cf. Roadmap_Serie_02 etape 3) ; cf. Personnages/Falsch_Frei_Burg + Genau. Le refus de Methode : le motif canon "Sein encore membre" est sans objet - Sein a quitte le groupe depuis ~An 95 (cf. etape 23, SB3). Refus rebase sur le groupe complet (Frieren, Schein, Fern, Stark). [INCERTAIN resolu - decision worldbuilder]. Fiches : Personnages/Genau, Methode, Falsch_Frei_Burg, Revolte_Le_Divin, Stark, Fern.
 
 ---
 
@@ -168,6 +168,12 @@ Coupe : ce segment s'arrete a l'entree de Weise (la cite doree apparait). La sui
 - **Entree** : Roadmap_Aeusserst etape 5a (branche canon : Schein reste avec Frieren, reconstruction du couple, exutoire de chasse sur le Plateau Nord).
 - **Sortie** : Roadmap_Frieren_03_Terres_Dorees (Golden Land et Monument de la Deesse).
 - **Calque geographique** : Roadmap_Himmel_04_Plateau_Nord (etapes 26-30, voyage aller) - chaque revisite de ce segment est un payoff differe de Himmel_04.
+
+---
+
+## Notes W5
+
+- [INCERTAIN] de l'etape 6 (refus de Methode) resolu (passe 2 Partie 1, decision worldbuilder) : Sein ayant quitte le groupe depuis ~An 95, le motif canon "Sein encore membre" est sans objet ; le refus de Frieren est rebase sur le groupe complet (Frieren, Schein, Fern, Stark). En-tete recale B30 -> B34.
 
 ---
 

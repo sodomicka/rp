@@ -5,8 +5,8 @@
 - segment : Ere solitaire
 - periode : ~740 a ~590 av. An 0 (~150 ans)
 - sources : BIBLE_LORE B8, BIBLE_LORE SB3 (chronologie), Personnages/Serie_Rapport_Schein, Personnages/Frieren_Rapport_Schein, Personnages/Frieren_Fiche, Personnages/Macht, Theologie/Schein_Magie_Divine, Demons/Emotions_Et_Instincts, Demons/Rapport_A_La_Magie, Roadmap/Roadmap_Serie_01_Premier_Contact (transition), decisions joueur OOC
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B8
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B34
 
 ## Synthese
 
@@ -62,7 +62,7 @@ Ce choix est definitif. Il tiendra jusqu'a Himmel - et au-dela.
 - **Evenements** :
  - Changement fondamental : Schein arrive a temps. La detection demoniaque lui permet de reperer les attaques en cours ou imminentes. La suppression de mana le rend invisible jusqu'au dernier moment. Les villages sont sauves.
  - Il dialogue mieux avec les humains - 150 ans avec Serie lui ont appris a communiquer avec les especes non-demoniaques. Il sait moduler son approche.
- - Il reste vulguaire, hostile, effrayant. Choix delibere : les humains doivent continuer a craindre les demons. Un sauveur aimable serait un piege - les predateurs mimetiques exploiteraient le precedent.
+ - Il reste vulgaire, hostile, effrayant. Choix delibere : les humains doivent continuer a craindre les demons. Un sauveur aimable serait un piege - les predateurs mimetiques exploiteraient le precedent.
  - Reputation cote humain : le Demon de Lumiere passe de legende fragmentaire a figure connue dans les marges. Il sauve des villages, mais les survivants le decrivent comme un monstre - exactement ce qu'il veut.
 - **Personnages impliques** : Schein, demons traques (ephemeres), villageois sauves (ephemeres).
 - **Role de Schein** : paradoxe ambulant. Sauveur qui terrorise ceux qu'il sauve. Plus efficace que jamais, plus seul par choix.
@@ -79,7 +79,7 @@ Ce choix est definitif. Il tiendra jusqu'a Himmel - et au-dela.
 - **Periode estimee** : ~700 av. An 0. Date approximative.
 - **Statut** : divergence RP.
 - **Evenements** :
- - Un village ou Schein arrive a temps, sauve les habitants, et - pour la premiere fois - se montre gentil. Pas vulguaire, pas hostile. Aimable.
+ - Un village ou Schein arrive a temps, sauve les habitants, et - pour la premiere fois - se montre gentil. Pas vulgaire, pas hostile. Aimable.
  - Le precedent de Serie joue : avec elle, il avait appris a ne pas mentir ni manipuler tout en etant agreable. La vulgarite etait sa facon de prouver sa sincerite aux demons. Mais avec les humains, il essaie la version douce.
  - Ca marche. Les villageois voient un demon gentil. Ils l'acceptent, ou du moins ne fuient pas. Premier contact humain non-violent reussi depuis Serie.
  - Schein quitte le village avec quelque chose qui ressemble a de l'espoir. Un demon peut etre bon, et les humains peuvent le voir.
@@ -91,7 +91,7 @@ Ce choix est definitif. Il tiendra jusqu'a Himmel - et au-dela.
 ### Etape 2.2 - Le village brule
 
 - **Lieu** : meme village, quelques annees plus tard.
-- **Type** : evenement marquant, pivotdefinitif.
+- **Type** : evenement marquant, pivot definitif.
 - **Periode estimee** : quelques annees apres l'etape 2.1.
 - **Statut** : divergence RP.
 - **Evenements** :
@@ -172,6 +172,12 @@ Schein et Frieren partent ensemble. Pas un couple, pas des amis - deux chasseurs
 Il ne le sait pas encore, mais il ne sera plus jamais seul.
 
 Ere suivante : Ere Frieren pre-hutte (~590 a ~510 av. An 0). Cf. Roadmap_Frieren_01_Chasse_Hutte.
+
+---
+
+## Notes W2
+
+- Passe 2 Partie 1 (P1-16) : coquilles - Etape 2.2 "pivotdefinitif" -> "pivot definitif" ; "vulguaire" -> "vulgaire" (toutes occurrences). En-tete recale B8 -> B34.
 
 ---
 

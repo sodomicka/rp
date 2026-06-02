@@ -5,8 +5,8 @@
 - segment : Voyage retour et separation du groupe
 - periode : An 10-15
 - sources : BIBLE_LORE B18, canon anime S1-S2, decisions joueur OOC, maj contrecoup B31 (Etape 35)
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B18
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B34
 
 ---
 
@@ -58,7 +58,7 @@
 - **Personnages impliques** : Lord Norm, groupe.
 - **Role de Schein** : recu en heros la ou, a l'aller, il n'etait que l'anomalie demoniaque toleree. Mesure du chemin parcouru.
 - **Tchekhov** : -
-- **Notes** : Raccord Himmel_04 Etape 26 (fusion Norm / Graf Dach). Dette remboursee en Ere 4 (date post-Himmel a recaler).
+- **Notes** : Raccord Himmel_04 Etape 26 (fusion Norm / Graf Dach). Dette remboursee en ere Fern (~An 96, cf. Roadmap_Frieren_02 etape 2).
 
 ---
 
@@ -76,7 +76,7 @@
 - **Tchekhov** :
  - Bague de lotus - Frieren la porte depuis l'aller ; Aeusserst en est le berceau.
  - Peur d'aimer de Schein - depassee ; le lieu en temoigne.
-- **Notes** : Raccord Himmel_03 Etape 25 (revelation amoureuse aller). Les retrouvailles avec Serie a Aeusserst sont un evenement DISTINCT et bien plus tardif (Ere 4, date post-Himmel a recaler - [A REMPLACER - DATE POST HIMMEL]).
+- **Notes** : Raccord Himmel_03 Etape 25 (revelation amoureuse aller). Les retrouvailles avec Serie a Aeusserst sont un evenement DISTINCT et bien plus tardif (Aeusserst An 96, cf. Roadmap_Fern_Stark_02 etape 26 / Roadmap_Aeusserst).
 
 ---
 
@@ -218,6 +218,12 @@
 - **Tchekhov** :
  - Peur d'aimer / longevite - cinquante ans de hutte avant la mort de Himmel (An 65). Le bonheur a duree determinee.
 - **Notes** : Raccord SB3 (An 15-65 : cinquante ans de paix a la hutte ; An 65 mort de Himmel). Zusammen = village natal de Himmel et Heiter (SB6). Bredt = retraite d'Eisen (SB6, Himmel_02 Etape 9).
+
+---
+
+## Notes W3
+
+- Passe 2 Partie 1 (P1-15) : placeholder de date supprime. Etape 38 - retrouvailles Serie/Schein recalees sur Aeusserst An 96 (cf. Roadmap_Fern_Stark_02 etape 26, balise Himmel_03 etape 25). Etape 37 - dette Norm recalee sur l'ere Fern (~An 96, Roadmap_Frieren_02 etape 2). En-tete recale B18 -> B34.
 
 ---
 

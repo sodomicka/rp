@@ -5,8 +5,8 @@
 - segment : Ere du Chateau
 - periode : ~1 490 a ~990 av. An 0 (~500 ans)
 - sources : BIBLE_LORE B7, Personnages/Roi_Des_Demons, Personnages/Schlacht, Personnages/Grausam, Personnages/Qual, Personnages/Boese, Personnages/Macht, Personnages/Solitaer, Personnages/Basalt_Porphyr_Gabbro, Demons/Societe_Et_Plan_Du_Roi, Demons/Hierarchie_Et_Territoire, Demons/Emotions_Et_Instincts, BIBLE_LORE SB3 (chronologie), decisions joueur OOC
-- version : W5
-- bible rattachee : BIBLE_LORE_FRIEREN B29
+- version : W6
+- bible rattachee : BIBLE_LORE_FRIEREN B34
 
 ## Synthese
 
@@ -209,7 +209,7 @@
 ### Etape 3.4 - Le fuyard et la denonciation
 
 - **Lieu** : Terres du Nord (mission), puis Palais d'Ende (denonciation).
-- **Type** : mission de traque, pivotevt majeur.
+- **Type** : mission de traque, pivot, evenement majeur.
 - **Periode estimee** : fin du bloc 3, transition vers le bloc 4.
 - **Statut** : divergence RP.
 - **Evenements** :
@@ -314,6 +314,12 @@ Schein s'enfuit dans les Terres du Nord avec un seul bras fonctionnel, sans esco
 Il ne reviendra pas supplier. Il reviendra tuer.
 
 Ere suivante : Exil solo (~990 a ~890 av. An 0). Cf. Roadmap_Exil_Solo.
+
+---
+
+## Notes W6
+
+- Passe 2 Partie 1 (P1-16) : coquille Etape 3.4 "pivotevt" -> "pivot, evenement". En-tete recale B29 -> B34.
 
 ---
 
