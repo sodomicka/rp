@@ -23,7 +23,7 @@
 
 - **Lieu** : Temple de la Deesse - Plateau Nord, partie sud (bien au sud d'Ende) ; temple sans nom ou des humains tentent de vivre par intermittence.
 - **Type** : temple, scene d'ouverture.
-- **Periode estimee** : ~1 490 av. An 0. Schein a ~100 ans (~10 apparents).
+- **Periode estimee** : ~1 490 av. An 0. Schein a ~100 ans (~14 apparents).
 - **Statut** : divergence RP.
 - **Evenements** :
  - Schein enfant (~100 ans) tue trois pretres avec de la lumiere pure - sa magie divine native, brute, non maitrisee. Il pleure.
