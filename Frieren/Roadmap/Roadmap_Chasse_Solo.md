@@ -5,8 +5,8 @@
 - segment : Ere solitaire
 - periode : ~740 a ~590 av. An 0 (~150 ans)
 - sources : BIBLE_LORE B8, BIBLE_LORE SB3 (chronologie), Personnages/Serie_Rapport_Schein, Personnages/Frieren_Rapport_Schein, Personnages/Frieren_Fiche, Personnages/Macht, Theologie/Schein_Magie_Divine, Demons/Emotions_Et_Instincts, Demons/Rapport_A_La_Magie, Roadmap/Roadmap_Serie_01_Premier_Contact (transition), decisions joueur OOC
-- version : W2
-- bible rattachee : BIBLE_LORE_FRIEREN B34
+- version : W3
+- bible rattachee : BIBLE_LORE_FRIEREN B39
 
 ## Synthese
 
@@ -140,7 +140,7 @@ Ce choix est definitif. Il tiendra jusqu'a Himmel - et au-dela.
 - **Personnages impliques** : Frieren, Macht (hors scene).
 - **Role de Schein** : absent. L'evenement pose la condition de la rencontre.
 - **Tchekhov** : -
-- **Notes** : Frieren a ~690 ans (~17 apparents). Macht a ~1 600 ans. L'ecart de puissance est enorme.
+- **Notes** : Frieren a ~690 ans (~18 apparents). Macht a ~1 600 ans. L'ecart de puissance est enorme.
 
 ### Etape 4.2 - La rencontre
 
@@ -156,7 +156,7 @@ Ce choix est definitif. Il tiendra jusqu'a Himmel - et au-dela.
  - La vulgarite de Schein acheve de la convaincre. Un demon qui manipule ne parle pas comme ca. La grossierete est la seule preuve de sincerite qu'un predateur mimetique ne peut pas imiter. Ironie : le comportement qu'il a adopte pour terroriser les humains est exactement ce qui convainc Frieren.
  - Schein guerit le bras dore de Frieren par sa maitrise de la magie divine. La Diagoldze de Macht est une malediction - la magie divine de Schein est la seule capable de la dissiper. Alliance fondee sur un acte de soin, pas de parole.
  - Pas de coup de foudre. Frieren n'a pas encore la maturite emotionnelle - elle n'a regrette que Flamme, elle ne sait pas encore ce qu'elle rate avec les gens qui passent. Schein ne veut plus de l'amour tant que son pere vit. L'alliance est pragmatique, pas sentimentale.
-- **Personnages impliques** : Schein (~1 000 ans, ~18-19 apparents), Frieren (~700 ans, ~17 apparents).
+- **Personnages impliques** : Schein (~1 000 ans, ~18-19 apparents), Frieren (~700 ans, ~18 apparents).
 - **Role de Schein** : il guerit l'elfe qu'il a epargnee 400 ans plus tot. L'acte de soin fonde une alliance qui deviendra, sans qu'il le sache, le centre de sa vie.
 - **Tchekhov** :
  - Peur d'aimer - pas de coup de coeur, pas d'ouverture emotionnelle. La condition " pas tant que mon pere vit " tient. Ce qui se construit ici est plus lent, plus profond, et plus durable que le coup de foudre avec Serie.
@@ -178,6 +178,12 @@ Ere suivante : Ere Frieren pre-hutte (~590 a ~510 av. An 0). Cf. Roadmap_Frieren
 ## Notes W2
 
 - Passe 2 Partie 1 (P1-16) : coquilles - Etape 2.2 "pivotdefinitif" -> "pivot definitif" ; "vulguaire" -> "vulgaire" (toutes occurrences). En-tete recale B8 -> B34.
+
+---
+
+## Notes W3
+
+- Revision courbe age->apparence (decision worldbuilder, B39) : Frieren (~690 ans) et Frieren (~700 ans) 17->18 apparents ; Schein (~1 000 ans) inchange (18-19, valeur stricte comprise dedans). Aligne sur Demons/Croissance_Et_Reproduction. En-tete recale B34 -> B39.
 
 ---
 

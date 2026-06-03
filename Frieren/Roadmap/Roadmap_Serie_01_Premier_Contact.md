@@ -5,13 +5,13 @@
 - segment : Ere Serie
 - periode : ~890 a ~740 av. An 0 (~150 ans)
 - sources : BIBLE_LORE B8, BIBLE_LORE SB3 (chronologie), Personnages/Serie_Fiche, Personnages/Serie_Rapport_Schein, Personnages/Frieren_Rapport_Schein, Theologie/Schein_Magie_Divine, Demons/Emotions_Et_Instincts, Demons/Rapport_A_La_Magie, Roadmap/Roadmap_Exil_Solo (transition), decisions joueur OOC
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B8
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B39
 
 ## Synthese
 
 - **Theme** : premier amour, premier apprentissage non-violent, premiere trahison.
-- **Fil d'evolution de Schein** : vengeur petrifie -> adolescent amoureux -> guerrier-amant -> debris a nouveau.
+- **Fil d'evolution de Schein** : vengeur petrifie -> jeune adulte amoureux -> guerrier-amant -> debris a nouveau.
 - **Concept central** : deux monstres d'arrogance, deux gamins devant l'amour. Dynamique conflictuelle et egalitaire - au lit, au combat, au quotidien. Premier eveil de libido pour les deux. L'amour est aussi intense que la guerre. Et c'est l'ignorance de l'amour qui les detruira : 150 ans sans que ni l'un ni l'autre ne comprenne vraiment ce que l'autre porte.
 - **Pacing** : lent. Snapshots sur un siecle et demi. 4 blocs, chacun contenant plusieurs etapes jouables.
 - **Bascule vers l'ere suivante** : Serie rompt involontairement le couple en revelant qu'elle partage le meme calcul que le Roi.
@@ -199,6 +199,12 @@ La guerilla reprend. Plus efficace qu'avant (mana supprime, detection affutee), 
 Il ne fera pas le premier pas, cette fois. Mais il ne fuira pas non plus.
 
 Ere suivante : Ere solitaire (~740 a ~590 av. An 0). Cf. Roadmap_Chasse_Solo.
+
+---
+
+## Notes W2
+
+- Revision courbe age->apparence (decision worldbuilder, B39) : aucun age apparent chiffre a corriger ; fil d'evolution "adolescent amoureux" -> "jeune adulte amoureux" (Schein ~18 apparents pendant l'ere Serie). En-tete recale B8 -> B39.
 
 ---
 

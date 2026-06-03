@@ -5,8 +5,8 @@
 - segment : Ere de l'Exil solo
 - periode : ~990 a ~890 av. An 0 (~100 ans)
 - sources : BIBLE_LORE B8, BIBLE_LORE SB3 (chronologie), Personnages/Serie_Rapport_Schein, Personnages/Frieren_Rapport_Schein, Demons/Emotions_Et_Instincts, Roadmap/Roadmap_Chateau (transition), decisions joueur OOC
-- version : W3
-- bible rattachee : BIBLE_LORE_FRIEREN B34
+- version : W4
+- bible rattachee : BIBLE_LORE_FRIEREN B39
 
 ## Synthese
 
@@ -49,7 +49,7 @@ Aucun contact non-violent pendant toute l'ere. Les survivants qu'il sauve sont t
 - **Personnages impliques** : Schein seul. Chasseurs demoniaques (ephemeres, semes).
 - **Role de Schein** : debris en mouvement. Rage residuelle de la defaite, deuil de Porphyr et Gabbro, bras mort, solitude totale.
 - **Tchekhov** : -
-- **Notes** : Schein a ~600 ans (~16-17 apparents). Le Roi a ~4 700 ans. L'ecart de puissance rendait la defaite inevitable - la fuite est la seule victoire possible.
+- **Notes** : Schein a ~600 ans (~18 apparents). Le Roi a ~4 700 ans. L'ecart de puissance rendait la defaite inevitable - la fuite est la seule victoire possible.
 
 ### Etape 1.2 - Apprendre a survivre seul
 
@@ -206,6 +206,12 @@ Ere suivante : Ere Serie (~890 a ~740 av. An 0). Cf. Roadmap_Serie_01_Premier_Co
 ## Notes W3
 
 - Passe 2 Partie 1 (P1-16) : coquille Etape 4.1 "crachez" -> "crachees". En-tete recale B23 -> B34.
+
+---
+
+## Notes W4
+
+- Revision courbe age->apparence (decision worldbuilder, B39) : Schein en fuite (~600 ans) 16-17->18 apparents. Aligne sur Demons/Croissance_Et_Reproduction. En-tete recale B34 -> B39.
 
 ---
 

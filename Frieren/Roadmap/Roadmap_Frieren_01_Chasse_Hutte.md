@@ -5,8 +5,8 @@
 - segment : Ere Frieren
 - periode : ~590 av. a An 0 (~590 ans)
 - sources : BIBLE_LORE B9, BIBLE_LORE SB3 (chronologie), Personnages/Frieren_Fiche, Personnages/Frieren_Rapport_Schein, Personnages/Heros_Du_Sud, Roadmap/Roadmap_Chasse_Solo (transition), decisions joueur OOC
-- version : W1
-- bible rattachee : BIBLE_LORE_FRIEREN B9
+- version : W2
+- bible rattachee : BIBLE_LORE_FRIEREN B39
 
 ## Synthese
 
@@ -38,7 +38,7 @@ Ere Frieren (~590-An 0) : duo de chasseurs puis ermites. L'objectif reste le Roi
  - L'objectif de Schein est inchange : affaiblir le Royaume, tuer le Roi a terme. Frieren deteste les demons a cause de ce qu'ils ont fait a son village - mais elle apprend progressivement a pardonner a Schein ce qu'il est. Lui les deteste a cause de son pere et de son passe.
  - Le duo est complementaire. Schein : Zoltraak blanc, detection demoniaque, suppression de mana (branche demoniaque), vitesse, regeneration (bras gauche toujours scelle). Frieren : Zoltraak retro-ingenierie, suppression de mana (branche Flamme), reserve de mana enorme, analyse magique, arsenal de sorts varies.
  - Mode operatoire : elimination systematique de demons sur le territoire. Pas de la flanerie - de l'extermination de nuisible, comme Schein faisait avec Serie, mais cette fois avec un objectif final clair.
-- **Personnages impliques** : Schein (~1 000-1 080 ans, ~18-19 apparents), Frieren (~700-780 ans, ~17 apparents).
+- **Personnages impliques** : Schein (~1 000-1 080 ans, ~18-19 apparents), Frieren (~700-780 ans, ~18 apparents).
 - **Role de Schein** : chasseur avec un but. Il veut batir un monde ou le Roi est mort - pour Serie, encore, meme s'il ne la reverra pas tant que son pere vit.
 - **Tchekhov** :
  - Peur d'aimer - la condition " pas tant que mon pere vit " tient. L'alliance avec Frieren est strictement operationnelle. Pas d'ouverture emotionnelle.
@@ -166,7 +166,7 @@ Ere Frieren (~590-An 0) : duo de chasseurs puis ermites. L'objectif reste le Roi
  - Il leur revele son secret : il voit le futur. Dans un an, il mourra au Plateau Nord face a Schlacht et aux Sept Sages. Un jeune heros viendra bientot trouver Frieren, et ensemble, ils vaincront le Roi.
  - Il s'adresse aux deux : " Tuer le Roi amenera une paix relative, ca ne tuera pas tous les demons. Mais tant de vies seront sauvees que cette quete sera la plus grande dont une vie d'homme soit capable. "
  - Il demande a Frieren de transmettre son message a ce heros : " Moi, le plus grand heros de l'humanite, le Heros du Sud, je promets de tracer le chemin vers l'avenir - meme si mes exploits sont oublies par l'histoire. "
-- **Personnages impliques** : Schein (~1 540 ans, ~19 apparents), Frieren (~1 240 ans, ~18 apparents), Heros du Sud (~35 ans).
+- **Personnages impliques** : Schein (~1 540 ans, ~20 apparents), Frieren (~1 240 ans, ~19 apparents), Heros du Sud (~35 ans).
 - **Role de Schein** : temoin. Cinq siecles d'attente, et un humain de 35 ans debarque avec la certitude que le chemin va s'ouvrir. Le premier espoir concret. La prophetie de Schlacht - la chute du Roi causee par Schein - entre en phase d'execution.
 - **Tchekhov** :
  - Prediction de Schlacht - le chemin se degage. Un humain a vu ce que Schlacht avait vu : Schein face au Roi.
@@ -196,6 +196,12 @@ Ere Frieren (~590-An 0) : duo de chasseurs puis ermites. L'objectif reste le Roi
 Himmel arrive a la hutte (An 0). Deux lames, un seul coup, dans dix ans.
 
 Ere suivante : Quete de Himmel (An 0 a An 10). Cf. Roadmap/Roadmap_Himmel_01_Formation.
+
+---
+
+## Notes W2
+
+- Revision courbe age->apparence (decision worldbuilder, B39) : Frieren (~700-780 ans) 17->18, Frieren (~1 240 ans) 18->19, Schein (~1 540 ans) 19->20 apparents ; Schein (~1 000-1 080 ans) inchange (18-19). Aligne sur Demons/Croissance_Et_Reproduction. En-tete recale B9 -> B39.
 
 ---
 

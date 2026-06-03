@@ -5,8 +5,8 @@
 - segment : Ere du Chateau
 - periode : ~1 490 a ~990 av. An 0 (~500 ans)
 - sources : BIBLE_LORE B7, Personnages/Roi_Des_Demons, Personnages/Schlacht, Personnages/Grausam, Personnages/Qual, Personnages/Boese, Personnages/Macht, Personnages/Solitaer, Personnages/Basalt_Porphyr_Gabbro, Demons/Societe_Et_Plan_Du_Roi, Demons/Hierarchie_Et_Territoire, Demons/Emotions_Et_Instincts, BIBLE_LORE SB3 (chronologie), decisions joueur OOC
-- version : W6
-- bible rattachee : BIBLE_LORE_FRIEREN B34
+- version : W7
+- bible rattachee : BIBLE_LORE_FRIEREN B39
 
 ## Synthese
 
@@ -23,7 +23,7 @@
 
 - **Lieu** : Temple de la Deesse - Plateau Nord, partie sud (bien au sud d'Ende) ; temple sans nom ou des humains tentent de vivre par intermittence.
 - **Type** : temple, scene d'ouverture.
-- **Periode estimee** : ~1 490 av. An 0. Schein a ~100 ans (~14 apparents).
+- **Periode estimee** : ~1 490 av. An 0. Schein a ~100 ans (~12 apparents).
 - **Statut** : divergence RP.
 - **Evenements** :
  - Schein enfant (~100 ans) tue trois pretres avec de la lumiere pure - sa magie divine native, brute, non maitrisee. Il pleure.
@@ -303,7 +303,7 @@
 - **Tchekhov** :
  - " Merci, pere. " - absent. Le silence tient. Mille ans plus tard, a la mort du Roi, Schein le dira une derniere fois.
  - Prediction de Schlacht - confirmee en cours. Schein massacre des demons, tente le trone. La vision de Schlacht se realise etape par etape.
-- **Notes** : age de Schein au moment du coup : ~600 ans (~15-16 apparents). Le Roi a ~4 700 ans (~5 700 a sa mort An 10, moins le millenaire qui separe le coup de la mort). L'ecart de puissance est abyssal. La victoire du Roi n'est pas un exploit - c'est une evidence. La prophetie de Schlacht ne parle pas de ce combat, mais de la chute finale, mille ans plus tard.
+- **Notes** : age de Schein au moment du coup : ~600 ans (~18 apparents). Le Roi a ~4 700 ans (~5 700 a sa mort An 10, moins le millenaire qui separe le coup de la mort). L'ecart de puissance est abyssal. La victoire du Roi n'est pas un exploit - c'est une evidence. La prophetie de Schlacht ne parle pas de ce combat, mais de la chute finale, mille ans plus tard.
 
 ---
 
@@ -320,6 +320,12 @@ Ere suivante : Exil solo (~990 a ~890 av. An 0). Cf. Roadmap_Exil_Solo.
 ## Notes W6
 
 - Passe 2 Partie 1 (P1-16) : coquille Etape 3.4 "pivotevt" -> "pivot, evenement". En-tete recale B29 -> B34.
+
+---
+
+## Notes W7
+
+- Revision courbe age->apparence (decision worldbuilder, B39) : Schein a l'adoption (~100 ans) 14->12 apparents, Schein au coup (~600 ans) 15-16->18 apparents. Aligne sur Demons/Croissance_Et_Reproduction. En-tete recale B34 -> B39.
 
 ---
 
