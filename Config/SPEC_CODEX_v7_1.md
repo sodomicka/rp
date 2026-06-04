@@ -1,5 +1,7 @@
 # SPEC_CODEX v7.1
 
+<!-- rev. interne : sortie de build a 3 livrables obligatoires (4ter) + versionnage [Vn] des tampons. Numero de version inchange (7.1), changement mineur. -->
+
 Ce fichier definit la forme, les regles de construction et le gabarit du `CODEX_NARRATIF_vX.md`.
 Il sert de reference unique en mode CODEX BUILD.
 Le modele doit produire un CODEX factuel, compact, autosuffisant, sans narration.
@@ -21,7 +23,8 @@ Consultation : fetchee au premier CODEX BUILD d'un thread (V1 sous Instructions 
   - Francais : accents retires dans les fichiers ; reaccentues en narration (cf. instructions).
   - Japonais / coreen : romanisation ASCII (Hepburn sans macron ; romanisation revisee). Kanji et hangul jamais ecrits : romanisation + glose du sens si mot porteur, pas un nom propre.
 - Ingestion : un nom fetche en forme accentuee est converti en ASCII a l'ecriture, jamais reinjecte accentue dans un fichier ni la narration. Pour interroger le canon, requeter la forme d'origine accentuee (meilleur rappel).
-- Le CODEX est un fichier unique structure en CORE + 7 ANNEXES balisees. Ce n'est PAS une collection de fichiers separes.
+- Le CODEX est un fichier unique structure en CORE + 7 ANNEXES balisees. Ce n'est PAS une collection de fichiers separes (mais le BUILD produit aussi, a cote, la memoire refroidie et le Tn — cf. 4ter).
+- VERSIONNAGE DES TAMPONS : les OOC actifs (§5) et interdits accumules (§6) sont tamponnes par version de CODEX `[V<n>]`, jamais par date. V<n> = la version du CODEX sous laquelle l'entree a ete posee. Le champ "date reelle de derniere mise a jour" des metadonnees garde une date calendaire (tracabilite du build), mais aucune entree interne n'est datee.
 
 ## 2. Principe redactionnel
 - Dense > exhaustif.
@@ -100,13 +103,24 @@ Chaque fait n'apparait qu'une seule fois dans tout le systeme. Emplacement canon
 - Evenement clos sans consequence -> compression ANNEXE_CHRONO archive.
 - Divergence lore formalisee dans la BIBLE lors d'un BIBLE BUILD -> suppression de l'ANNEXE_LORE, renvoi `cf. BIBLE`.
 
-## 4ter. Triage au build RP
-En fin de thread RP, le CODEX BUILD inclut une etape de triage :
-1. Identifier les faits, PNJ, arcs et CHRONO qui ne sont plus pertinents pour l'arc a venir.
-2. Les exporter en fichiers .md separes (archivage dans Parties/).
-3. Les indexer dans le CODEX via pointeur (`cf. PARTIES <dossier>/<page>.md`) pour fetch futur si redevenu pertinent.
-4. Consulter la roadmap de l'arc a venir pour orienter le CODEX vers la suite.
-5. Le CODEX resultant est autosuffisant sur la continuite (ou on en est, ou on va) mais renvoie a BIBLE/WIKI/Parties pour le lore et le passe.
+## 4ter. Sortie de build RP (TROIS LIVRABLES OBLIGATOIRES)
+Tout CODEX BUILD de fin de thread RP produit SYSTEMATIQUEMENT trois fichiers. Aucun n'est conditionnel.
+
+1. CODEX_NARRATIF_vN.md — la memoire CHAUDE. Ecrase la version precedente. Etat courant, PNJ en scene, divergences fraiches, Tchekhov (etat), CHRONO de session. Autosuffisant sur la continuite (ou on en est, ou on va), renvoie a BIBLE/WIKI/Parties pour le lore et le passe.
+
+2. La memoire REFROIDIE — fichiers .md dans Parties/ pour ce qui sort durablement de scene a l'arc a venir (PNJ qui disparaissent, factions dissoutes, lieux quittes, arcs clos). Exemple type : tous les demons apres l'exil. Indexes dans le CODEX via pointeur `cf. PARTIES <dossier>/<page>.md`. Un fichier par entite ou groupe coherent qui refroidit ; on ECRASE si l'entite refroidit davantage, on n'empile pas. Si rien ne refroidit a ce build, produire une note explicite "memoire refroidie : rien a sortir ce thread" (le livrable existe, meme vide).
+
+3. Tn — l'archive NARRATIVE du thread, destinee surtout au joueur. Recit condense des battements joues (un fichier FIGE par thread, jamais reecrit). Nommage : `T<n>_<arc>.md` dans Parties/<Univers>/Partie<p>/Suivi/. Empile (T1, T2, T3...). Indexe dans le CODEX ANNEXE_CHRONO via `cf. PARTIES Suivi/T<n>_<arc>.md`.
+
+Procedure de triage (alimente les livrables 2 et 3) :
+a. Identifier les faits, PNJ, arcs et CHRONO qui ne sont plus pertinents pour l'arc a venir -> memoire refroidie (livrable 2).
+b. Condenser les battements du thread -> Tn (livrable 3).
+c. Consulter la roadmap de l'arc a venir pour orienter le CODEX (livrable 1) vers la suite.
+
+Convention de nommage Parties/ :
+- Fiche vivante du protagoniste : `Suivi/<Nom>.md` (ECRASEE a chaque mise a jour ; snapshot vivant, PAS lue obligatoirement en ouverture de thread — le CODEX §3 porte l'etat de jeu).
+- Archives de thread : `Suivi/T<n>_<arc>.md` (FIGEES, empilees).
+- Memoire refroidie thematique : `Suivi/<sujet>.md` ou sous-dossier dedie (ECRASEE quand le sujet refroidit davantage).
 
 ## 5. Architecture modulaire
 
@@ -169,6 +183,7 @@ Avant de livrer le CODEX, verifier silencieusement :
 - protagoniste: <nom>
 - date in-world de reprise: <date>
 - date reelle de derniere mise a jour: <AAAA-MM-JJ>
+  note: les tampons OOC (§5) et interdits (§6) utilisent [V<n>], pas la date.
 - codex_version: V<N>
 - plafond: 35 000 car.
 - bible_lore: <nom du fichier BIBLE_LORE si presente, sinon "aucune">
@@ -209,11 +224,11 @@ Fiche complete : cf. WIKI ou Parties/ <dossier>/<fiche>.md
 - Prochaine bascule amorcee :
 
 ### §5 OOC actifs
-- `[AAAA-MM-JJ] — <enonce ecrasant le CODEX ou le canon> | sections impactees`
+- `[V<n>] — <enonce ecrasant le CODEX ou le canon> | sections impactees`  (V<n> = version du CODEX sous laquelle le thread a ete joue ; remplace l'ancien tampon date)
 
 ### §6 Interdits accumules
 Pieges identifies en session, non reintroduits dans les CODEX suivants.
-- `[AAAA-MM-JJ] — <interdit 1>`
+- `[V<n>] — <interdit 1>`
 
 ### §7 #SITES_REF
 | Source | URL | Usage |
