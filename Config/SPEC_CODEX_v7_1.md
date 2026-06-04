@@ -81,7 +81,7 @@ Chaque fait n'apparait qu'une seule fois dans tout le systeme. Emplacement canon
 - Qui sait quoi maintenant -> ANNEXE_SAVOIRS
 
 ### Hors du CODEX
-- Identite, capacites, limites, backstory du protagoniste -> WIKI (Parties/) — le CODEX §3 ne garde qu'un pointeur + etat courant
+- Identite, capacites, limites, backstory du protagoniste -> BIBLE/WIKI (lore statique) ; l'etat courant + les valeurs/tics vivent dans le CODEX §3 (source unique). Pas de fiche Suivi/<Nom>.md maintenue.
 - Definitions des fils Tchekhov (condition, consequence) -> BIBLE §B8 ou WIKI
 - Lore canon dans le perimetre du focus -> BIBLE / WIKI
 - Divergences lore etablies et formalisees -> BIBLE §B1/§B3 ou WIKI
@@ -118,9 +118,9 @@ b. Condenser les battements du thread -> Tn (livrable 3).
 c. Consulter la roadmap de l'arc a venir pour orienter le CODEX (livrable 1) vers la suite.
 
 Convention de nommage Parties/ :
-- Fiche vivante du protagoniste : `Suivi/<Nom>.md` (ECRASEE a chaque mise a jour ; snapshot vivant, PAS lue obligatoirement en ouverture de thread — le CODEX §3 porte l'etat de jeu).
 - Archives de thread : `Suivi/T<n>_<arc>.md` (FIGEES, empilees).
 - Memoire refroidie thematique : `Suivi/<sujet>.md` ou sous-dossier dedie (ECRASEE quand le sujet refroidit davantage).
+- PAS de fiche protagoniste separee : l'etat du protagoniste vit dans le CODEX CORE §3 (source unique vivante). La fiche prota n'est NI un livrable de build NI maintenue.
 
 ## 5. Architecture modulaire
 
@@ -198,7 +198,7 @@ Avant de livrer le CODEX, verifier silencieusement :
 - <ligne 5>
 
 ### §3 Protagoniste — etat courant
-Fiche complete : cf. WIKI ou Parties/ <dossier>/<fiche>.md
+Source unique et vivante de l'etat protagoniste : ICI (CODEX §3). Lore statique (backstory, capacites detaillees) : cf. BIBLE/WIKI. Pas de fiche prota separee.
 
 - Nom / alias :
 - Nature corporelle : <corps propre | conscience hote | possession | symbiote | autre>
