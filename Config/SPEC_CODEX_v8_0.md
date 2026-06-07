@@ -19,7 +19,7 @@ Consultation : fetchee au premier CODEX BUILD d'un thread (V1 sous Instructions 
 - Si une information est absente, floue ou contradictoire : `[INCERTAIN]`.
 - Le CODEX est redige SANS ACCENT (diacritiques retires des lettres ; symboles § et — conserves).
 - Diacritiques : translitteration ASCII fixe, jamais suppression brute (le caractere accentue disparait au transfert mobile ; l'ASCII survit).
-  - Allemand : u-trema -> u ; o-trema -> oe ; a-trema -> ae ; eszett -> ss (Ubel, Groesse, Solitaer).
+  - Allemand : u-trema -> u ; o-trema -> oe ; a-trema -> ae ; eszett -> ss (ex. Ubung, schoen, Maedchen, Strasse).
   - Francais : accents retires dans les fichiers ; reaccentues en narration (cf. instructions).
   - Japonais / coreen : romanisation ASCII (Hepburn sans macron ; romanisation revisee). Kanji et hangul jamais ecrits : romanisation + glose du sens si mot porteur, pas un nom propre.
 - Ingestion : un nom fetche en forme accentuee est converti en ASCII a l'ecriture, jamais reinjecte accentue dans un fichier ni la narration. Pour interroger le canon, requeter la forme d'origine accentuee (meilleur rappel).
@@ -113,7 +113,7 @@ Tout CODEX BUILD de fin de thread RP produit SYSTEMATIQUEMENT trois fichiers. Au
 
 1. CODEX_NARRATIF_vN.md — la memoire CHAUDE. Ecrase la version precedente. Etat courant, PNJ en scene, divergences fraiches, Tchekhov (etat), CHRONO de session. Autosuffisant sur la continuite (ou on en est, ou on va), renvoie a BIBLE/WIKI/Parties pour le lore et le passe.
 
-2. La memoire REFROIDIE — fichiers .md dans Parties/ pour ce qui sort durablement de scene a l'arc a venir (PNJ qui disparaissent, factions dissoutes, lieux quittes, arcs clos). Exemple type : tous les demons apres l'exil. Indexes dans le CODEX via pointeur `cf. PARTIES <dossier>/<page>.md`. Un fichier par entite ou groupe coherent qui refroidit ; on ECRASE si l'entite refroidit davantage, on n'empile pas. Si rien ne refroidit a ce build, produire une note explicite "memoire refroidie : rien a sortir ce thread" (le livrable existe, meme vide).
+2. La memoire REFROIDIE — fichiers .md dans Parties/ pour ce qui sort durablement de scene a l'arc a venir (PNJ qui disparaissent, factions dissoutes, lieux quittes, arcs clos). Exemple type : une faction ou un groupe de PNJ qui sort durablement de scene. Indexes dans le CODEX via pointeur `cf. PARTIES <dossier>/<page>.md`. Un fichier par entite ou groupe coherent qui refroidit ; on ECRASE si l'entite refroidit davantage, on n'empile pas. Si rien ne refroidit a ce build, produire une note explicite "memoire refroidie : rien a sortir ce thread" (le livrable existe, meme vide).
 
 3. Tn — l'archive NARRATIVE du thread, destinee surtout au joueur. Recit condense des battements joues (un fichier FIGE par thread, jamais reecrit). Nommage : `T<n>_<arc>.md` dans Parties/<Univers>/Partie<p>/Suivi/. Empile (T1, T2, T3...). Indexe dans le CODEX ANNEXE_CHRONO via `cf. PARTIES Suivi/T<n>_<arc>.md`.
 

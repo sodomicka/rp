@@ -69,7 +69,7 @@ Le CODEX ANNEXE_CHRONO > Arcs pointe vers la page Roadmap concernee via `roadmap
 - Phrases > 25 mots interdites.
 - Redaction ASCII STRICTE (diacritiques retires des lettres ET tout caractere non-ASCII converti), meme regle que le CODEX et que l'INSTRUCTION S3.4 :
   - Symboles : signe section U+00A7 -> "S" (donc SB0..SB9) ; tiret cadratin U+2014 -> "-" ; guillemets U+00AB / U+00BB -> guillemet droit " ; fleche U+2192 -> -> ; apostrophe courbe U+2019 -> apostrophe droite '.
-  - Allemand : u-trema -> u ; o-trema -> oe ; a-trema -> ae ; eszett -> ss (Ubel, Groesse, Solitaer).
+  - Allemand : u-trema -> u ; o-trema -> oe ; a-trema -> ae ; eszett -> ss (ex. Ubung, schoen, Maedchen, Strasse).
   - Francais : accents retires dans les fichiers ; reaccentues en narration.
   - Japonais / coreen : romanisation ASCII ; kanji et hangul jamais ecrits (romanisation + glose si mot porteur).
   - Verification avant chaque sortie : grep -nP '[^\x00-\x7F]' sur le fichier genere doit revenir vide. Regle de portee : tout fichier .md est en ASCII strict (BIBLE_LORE, pages WIKI, fichiers Parties/, SPEC, instructions) ; les fichiers non-.md sont libres.
