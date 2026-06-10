@@ -1,8 +1,8 @@
 # Nisha Zenin - fiche protagoniste
 
-- version : W3
+- version : W5
 - routage : JJK/Personnages/Nisha/Nisha.md
-- note : instance jouee du protagoniste, rapatriee de Parties/Suivi et fusionnee avec le recap capacites. Placement decide par le worldbuilder (l'instance vit ici). [DIVERGENCE RP de placement]
+- note : instance jouee du protagoniste, rapatriee de Parties/Suivi. Placement decide par le worldbuilder (l'instance vit ici). [DIVERGENCE RP de placement]
 - certitude globale : [DIVERGENCE RP] integrale (OC)
 
 ## Identite
@@ -13,28 +13,8 @@
 - Hote scellee de la calamite Eien (cf. Entites/Eien).
 
 ## Capacites
-
-### Chronostase - sort inne (mutation du Sort de Projection Zenin)
-- Le sien, vrai sort Zenin. Fonctionne au contact.
-- Mecanique : figer un objet ; le charger en energie potentielle (energie maudite) ; lui donner un vecteur en le frappant (tres couteux en calories) ; rompre la stase - l'energie potentielle devient cinetique et l'objet est propulse a une vitesse folle.
-- Role en synergie : elle fige et propulse les projectiles.
-
-### Chronokinesie - acces via Eien
-- Pouvoir d'Eien, plus ancien et polyvalent (cf. Entites/Eien).
-- Controle du flux temporel : accelerer, ralentir, dilater.
-- Applications : accelerer corps et esprit ou un objet ; dilater sa perception (lire un livre en quelques minutes) ; expedier un cours deja maitrise.
-- Role en synergie : elle accelere. Complementaire de la Chronostase.
-
-### Domaines (deux dans un corps, modele Sukuna / Yuji)
-- Le Temps Infini : domaine de Nisha, issu de la seule Chronostase. Dedans, plus besoin de toucher pour figer, accelerer, ralentir ou propulser. Inversion du temps sur son corps = RCT absolu (elle peut de-arracher un membre). La sphere apparait 1/24 de seconde, un flash - exactement une image de la Projection Zenin (24 images/seconde) : la logique-cadre du clan irrigue son domaine. C'est elle qui inspirera a Gojo le nom de son propre domaine (Sphere de l'Espace Infini) : elle a son territoire avant lui. Empruntable par Eien si la calamite pilote le corps (precedent canon Yuta / Gojo).
-- Le Jardin des Eres Mortes : domaine d'Eien (cf. Entites/Eien). Verrouille par l'ego d'Eien : elle ne le cede jamais a l'hote, meme dominee. Nisha ne peut PAS le deployer ; il ne s'ouvre que si Eien reprend le dessus.
-- Contres (canon) : infaillibilite des sorts en domaine, domaine simple, confrontation de domaines. Pas omnipotente.
-
-### Couts, limites et economie
-- Chronostase : tres couteuse (energie maudite + calories), d'ou une faim chronique - elle mange comme cinq.
-- Acceleration : risque de se blesser en s'accelerant trop.
-- Trois ponctions simultanees sur sa reserve : un filament constant pour mater Eien ; la Chronostase ; sa demi-part du pool gemellaire. Elle tient grace a un pool de base monstrueux et au transfert d'urgence avec Naoya.
-- Chiffrage exact (cout, frequence du domaine, seuils d'acceleration) : a formaliser au CODEX S3a ; cette fiche en tient lieu de source en attendant.
+- Resume : sort inne Chronostase (geler / charger / propulser au contact) ; Chronokinesie empruntee a Eien (controle du flux temporel) ; deux domaines (le Temps Infini, sien ; le Jardin des Eres Mortes, verrouille par Eien, qu'elle ne peut pas deployer).
+- Detail complet (mecaniques, domaines, couts et economie) : cf. Personnages/Nisha/Nisha_Capacites. Chiffrage au CODEX S3a.
 
 ## Backstory
 - 1989 : Eien, lisant l'energie occulte des jumeaux in utero, juge celle de Nisha la plus singuliere et l'investit comme vaisseau (cf. Entites/Eien). Choix orchestre de longue date par les architectes.
@@ -42,10 +22,12 @@
 - 1994 (4 ans) : Eien se revele a Nisha. Les premiers pouvoirs que la jumelle demontre sont ceux du fleau (Chronokinesie) ; le clan y voit une energie de fleau, pas le sang Zenin, et conteste sa legitimite. Naobito manque de la renier.
 - Retournement : la Chronostase emerge a cote du pouvoir de fleau - deux sorts complementaires -, vrai sort Zenin (mutation de la Projection, ou l'heritage de Naobito pese le plus), et surtout Nisha DOMINE le fleau. Interet des trois patriarches ; Naobito en fera sa plus belle creation.
 - 1998 (8 ans) : premiere extension de territoire, instable mais reelle.
+- 2000 (10 ans) : exclue du Hei parce que femme ; refuse de s'abaisser a l'unite Kukuru. Mene des lors des missions de niveau pro, accompagnee d'un membre confirme du Hei (Jinichi, Naobito, Ogi ou Chojuro, jamais le meme) present pour la forme et la legalite - c'est elle qui fait tout le travail.
 - 2002 (12 ans) : territoire parfait. Nisha atteint Special 1 - le plafond d'un membre de clan autonome, le vrai Special lui restant ferme. Une douzaine d'annees d'avance sur Naoya, qui n'aura ce rang qu'adulte.
-- 12-16 ans : preferee de Naobito au detriment de Naoya. Les jumeaux detestent cette mise en concurrence : ils se vivent comme un seul etre.
-- Quotidien : entrainement intensif (la puissance se merite dans la sueur et le sang) ; faim demesuree (cout de la Chronostase) ; humiliation des cousines Maki et Mai ; crainte moqueuse de Toji, croise enfant.
-- 2006 (16 ans) : envoyee a Tokyo, promue vrai Special.
+- 12-16 ans : preferee de Naobito au detriment de Naoya. La preference frustre Naoya mais la symbiose ne se fissure pas - Nisha le reconforte, ils se vivent comme un seul etre.
+- Quotidien : entrainement intensif (la puissance se merite dans la sueur et le sang) ; faim demesuree (cout de la Chronostase) ; moqueries envers Toji, croise enfant (parti du clan en 2001). L'humiliation de Maki et Mai ne demarre que courant 2005 (distraction lors des retours au domaine).
+- 2005 (15 ans) : le conseil (Naobito preside, Ogi seconde, Jinichi taciturne) l'envoie en ambassadrice a Tokyo (1e annee) et Naoya en cursus a Kyoto avec Ranta - separation imposee, sans choix laisse aux jumeaux.
+- 2006 (16 ans) : promue vrai Special en 2e annee, en meme temps que Gojo et Geto (arc Receptacle d'Etoile).
 
 ## Entourage clanique
 - Naobito : pere, 26e chef. cf. Personnages/Nisha/Naobito.
@@ -53,7 +35,7 @@
 - Ogi : oncle, pere de Maki et Mai. cf. Personnages/Nisha/Ogi.
 - Jinichi : cousin, frere aine de Toji, chef du Hei en 2006 et maitre d'armes des jumeaux. cf. Personnages/Nisha/Jinichi.
 - Toji : cousin renie, l'anomalie du clan ; les jumeaux le raillent a deux, sans idolatrie. cf. Personnages/Nisha/Toji.
-- Ranta : membre loyal du Hei. cf. Personnages/Nisha/Ranta.
+- Ranta : membre loyal du Hei ; rencontre Naoya des 10 ans et le suivra a Kyoto. cf. Personnages/Nisha/Ranta.
 - Maki et Mai : cousines (nees 2002), meprisees par les jumeaux. cf. Personnages/Nisha/Femmes_Zenin.
 - Le Hei : cf. Personnages/Nisha/Hei.
 
@@ -61,7 +43,7 @@
 - Montrer que les Zenin ont plus fort que l'atout des Gojo (vrai avant l'eveil de Satoru contre Toji ; la tendance s'inverse apres).
 - Alliance matrimoniale avec les Gojo via Satoru a charmer.
 - Ne pas legitimer les femmes a Kyoto en n'y gardant pas une femme forte.
-- Separer les jumeaux, trop puissants ensemble (motif d'Ogi).
+- Separer les jumeaux, trop puissants ensemble : Nisha a Tokyo, Naoya a Kyoto (motif d'Ogi).
 - Etendre l'influence Zenin sur Tokyo, territoire Gojo.
 
 ## Personnalite
@@ -87,6 +69,7 @@
 - Eien et le plan millenaire : cf. Entites/Eien et BIBLE.
 
 ## Renvois
+- Capacites detaillees : cf. Personnages/Nisha/Nisha_Capacites.
 - Partage gemellaire, resonance, transfert d'urgence, clause de mort : cf. Systemes/Jumelage.
 - Grades : cf. Systemes/Grades.
 - Chiffrage des capacites : a formaliser au CODEX S3a.

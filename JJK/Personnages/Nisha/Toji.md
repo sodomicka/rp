@@ -1,6 +1,6 @@
 # Toji Fushiguro - fiche personnage
 
-- version : W1
+- version : W2
 - routage : JJK/Personnages/Nisha/Toji.md
 - certitude globale : socle canon etabli, rapport aux jumeaux en [DIVERGENCE RP]
 
@@ -14,6 +14,7 @@
 ## Au clan, avant son depart (canon)
 - L'anomalie du clan Zenin : la grosse brute sans energie, traitee comme de la merde par une famille qui ne juge que la technique.
 - Envoye dans la salle aux fleaux pour y mourir - il en ressort vivant. Le clan le meprise sans jamais pouvoir le briser.
+- Quitte le clan en 2001 [DIVERGENCE RP] : assez tot pour tenter une vie normale (mariage, naissance de Megumi) avant de sombrer dans l'assassinat. Les jumeaux, alors enfants, l'ont donc cotoye et raille jusque-la.
 
 ## Le Tueur d'Exorcistes (canon)
 - Parti du clan, devenu un assassin redoute : le "Tueur d'Exorcistes".
@@ -27,7 +28,7 @@
 - C'est l'eveil-eclipse : Nisha au sommet jusqu'a cet instant, depassee apres (cf. Mysteres et Tchekhov, BIBLE).
 
 ## Rapport aux jumeaux [DIVERGENCE RP]
-- Avant 2006, les jumeaux voient en Toji l'anomalie du clan : fort, oui, mais pas exceptionnel.
+- Avant son depart (jusqu'en 2001), les jumeaux voient en Toji l'anomalie du clan : fort, oui, mais pas exceptionnel.
 - Naoya seul en serait terrifie ; a deux, c'est la moquerie qui sort - chacun surencherit pour humilier la brute sans energie.
 - Du respect pour sa force, jamais d'idolatrie - et ca ne les empeche pas de le rabaisser, gamins.
 - La vraie mesure de son calibre leur tombera dessus en douche froide quand Toji fera chuter Gojo (2006). Suite : roadmap (post-rentree a Tokyo).
@@ -36,7 +37,7 @@
 - Destin 2018 (hors ancrage) : brievement ressuscite par Kenjaku via un objet maudit, il se reprend en reconnaissant Megumi et se donne la mort. Roadmap.
 - Restriction Celeste (mecanique, et son retour chez Maki) : cf. Systemes/Jumelage et Clans/Zenin.
 - Megumi, futur enjeu d'heritage du clan : cf. roadmap et fiche Naobito (testament).
-- Jinichi (frere) : cf. fiche Jinichi (a venir).
+- Jinichi (frere) : cf. fiche Jinichi.
 - Reaction de Nisha a l'affaire 2006 : roadmap.
 
 ---

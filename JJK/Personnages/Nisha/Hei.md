@@ -1,12 +1,13 @@
 # Le Hei - fiche unite
 
-- version : W1
+- version : W2
 - routage : JJK/Personnages/Nisha/Hei.md
 - certitude globale : structure canon etablie ; hierarchie et coloration des membres en [DIVERGENCE RP]
 
 ## Nature
 - Unite d'elite du clan Zenin : ses sorciers les plus forts, de niveau semi-Grade 1 a Grade 1 (Special 1), operant hors du systeme scolaire.
 - Le sommet de la pyramide combattante du clan. Vue institutionnelle : cf. Clans/Zenin.
+- Admission jeune possible pour un prodige : Naoya et Ranta y entrent des 10 ans (2000). Le rang de Naoya l'exclut de toute facon du Kukuru ; Ranta, repere par Jinichi, va ou on l'envoie.
 
 ## Commandement
 - En 2006 : dirige par Jinichi Zenin.
@@ -23,7 +24,7 @@
 
 ## Chojuro Zenin (couvert ici, pas de fiche dediee)
 - L'exact oppose de Ranta : arrogant, toujours a donner son avis, alors qu'il n'a aucune legitimite hormis son age avance. [DIVERGENCE RP]
-- Au canon : il combat au corps-a-corps, jusqu'au coup de pied retourne, appuye sur des constructs de pierre (mains et bras geants) ; tue par Maki au Massacre. [INCERTAIN sur l'attribution exacte de la technique de pierre]
+- Sort inne de pierre : il fait pousser des piliers de pierre et les articule (mains et bras geants, structures mouvantes). Son combat mele ces constructs et le corps-a-corps, jusqu'au coup de pied retourne. Tue par Maki au Massacre.
 
 ## Le triangle de la parole et de la legitimite [DIVERGENCE RP]
 - Jinichi : legitime (l'etoffe d'un chef) mais muet, par honte de son frere Toji.
