@@ -1,6 +1,6 @@
 # Jumelage (partage gemellaire)
 
-- version : W1
+- version : W2
 
 ## Principe canon
 - En jujutsu, des jumeaux sont traites comme une seule ame : un pool unique de potentiel et d'energie maudite, divise entre les deux corps.
@@ -17,9 +17,10 @@
 - Choix assume contre le canon (ou Mai detient l'essentiel), pour ne pas faire des filles d'Ogi des ratees intrinseques.
 
 ## Clause de mort [DIVERGENCE RP]
-- A la mort d'un jumeau, le partage se brise : le defunt part avec SA contribution, pas avec une moitie forfaitaire.
-- Maki (contribution proche de zero) : a la mort de Mai, tout ce que Mai a fourni degage, Maki tombe a zero. Reste coherent avec le canon.
-- Naoya et Nisha : a la mort de Naoya, Nisha recupere le surplus qu'elle lui cedait au-dela de sa moitie. La mort de Nisha ferait l'inverse (Naoya degonfle).
+- A la mort d'un jumeau, le partage se brise : le defunt part avec SA contribution, pas avec une moitie forfaitaire. Seul, le survivant ne fait plus la moyenne avec son jumeau - il gonfle ou degonfle selon son apport propre.
+- Maki (contribution proche de zero) : a la mort de Mai, tout ce que Mai a fourni degage, Maki tombe a zero et atteint la Restriction complete (niveau Toji). Reste coherent avec le canon.
+- Mai (detentrice de l'energie) : a la mort de Maki, elle recupere la part qu'elle alimentait presque seule et que le partage lui retranchait - son energie maudite double.
+- Naoya et Nisha : a la mort de Naoya, Nisha recupere le surplus qu'elle lui cedait au-dela de sa moitie (elle se renforce un peu). La mort de Nisha ferait l'inverse : prive du boost de sa jumelle, Naoya degonfle a sa puissance canon.
 
 ## Cas Naoya et Nisha Zenin [DIVERGENCE RP]
 - Deux reserves enormes a la base ; Nisha un peu plus, donc perdante au moyennage, Naoya gagnant grace a sa jumelle.
