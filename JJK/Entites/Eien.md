@@ -1,6 +1,6 @@
 # Eien
 
-- version : W2
+- version : W3
 
 ## Nature
 - Calamite (fleau). Humaine a l'origine, devenue fleau il y a si longtemps qu'elle ignore si son premier corps etait homme ou femme. Indifferent pour elle.
@@ -19,8 +19,8 @@
 - Plus ancienne et plus polyvalente que la Chronostase portable de son hote actuel (cf. Nisha).
 
 ## Territoire interieur de dialogue
-- Espace mental ou Eien et son hote se parlent en face a face (canon Sukuna / Yuji). Distinct du domaine projete.
-- Decor non fixe (espace neutre, ou habille du Jardin) : a trancher. [INCERTAIN]
+- Espace mental ou Eien et son hote se parlent en face a face (canon Sukuna / Yuji). Distinct du domaine projete, mais habille du meme decor.
+- Decor : le Jardin des Eres Mortes (cf. ci-dessous). C'est dans ce paysage que se tiennent les echanges Eien-hote.
 - Eien s'y est revelee a Nisha a 4 ans (1994 ; cf. SB3 et Nisha).
 
 ## Domaine : le Jardin des Eres Mortes
