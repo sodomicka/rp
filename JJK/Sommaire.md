@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W4
+- version : W6
 
 ## WIKI
 
@@ -8,7 +8,7 @@
 
 ### Entites/
 Description : calamites et entites du lore profond.
-- Eien.md (W2) - calamite millenaire, Chronokinesie, Jardin des Eres Mortes, domaines en etat domine, vaisseau choisi in utero, scellee en Nisha.
+- Eien.md (W3) - calamite millenaire, Chronokinesie, Jardin des Eres Mortes, domaines en etat domine, vaisseau choisi in utero, scellee en Nisha.
 
 ### Clans/
 Description : les grandes familles d'exorcistes.
@@ -16,24 +16,25 @@ Description : les grandes familles d'exorcistes.
 
 ### Personnages/Nisha/
 Description : la protagoniste et son entourage (canon + relation a elle).
-- Nisha.md (W3) - protagoniste : identite, capacites, backstory, entourage, Eien.
-- Naoya.md (W1) - jumeau : Projection, symbiose gemellaire, possessivite, brimades.
+- Nisha.md (W5) - protagoniste : identite, backstory, entourage, Eien (capacites separees).
+- Nisha_Capacites.md (W1) - capacites de Nisha : Chronostase, Chronokinesie via Eien, les deux Domaines, couts et economie.
+- Naoya.md (W2) - jumeau : Projection, symbiose gemellaire, Hei des 10 ans, cursus Kyoto avec Ranta, brimades.
 - Naobito.md (W1) - pere, 26e chef : enfants-armes, Nisha sacree, mariage Gojo.
 - Ogi.md (W1) - oncle aigri : Blazing Courage, respect/haine des jumeaux, honte de ses filles.
-- Toji.md (W1) - cousin renie : Restriction Celeste, Tueur d'Exorcistes, ancrage 2006.
+- Toji.md (W2) - cousin renie : Restriction Celeste, Tueur d'Exorcistes, ancrage 2006.
 - Jinichi.md (W1) - cousin, frere aine de Toji : Missile Fists, chef du Hei en 2006, efface par honte.
 - Ranta.md (W1) - Hei, orphelin loyal : Regard paralysant, l'exception gentille mais soumise.
-- Hei.md (W1) - unite d'elite : nature, hierarchie complete, Chojuro, unite Kukuru.
+- Hei.md (W2) - unite d'elite : nature, hierarchie complete, Chojuro (sort de pierre), unite Kukuru.
 - Femmes_Zenin.md (W2) - condition feminine du clan : castes, mariage-monnaie, exception Nisha.
 
 ### Systemes/
 Description : regles de pouvoir du monde.
 - Grades.md (W1) - echelle des grades, Special 1 et Special.
-- Jumelage.md (W1) - partage gemellaire, divergences RP, clause de mort.
+- Jumelage.md (W2) - partage gemellaire, divergences RP, clause de mort.
 
 ### Roadmap/Nisha/
 Description : itineraires par arc, perspective de Nisha.
-- (a venir)
+- Roadmap_Intro.md (W1) - intro jouable : enfance Zenin au Kansai (1990) jusqu'a la convocation de 2005 (Nisha a Tokyo, Naoya a Kyoto).
 
 ## PARTIES (Partie1)
 
