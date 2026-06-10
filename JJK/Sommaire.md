@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W3
+- version : W4
 
 ## WIKI
 
@@ -8,7 +8,7 @@
 
 ### Entites/
 Description : calamites et entites du lore profond.
-- Eien.md (W1) - calamite millenaire, Chronokinesie, amante de Kenjaku, scellee en Nisha.
+- Eien.md (W2) - calamite millenaire, Chronokinesie, Jardin des Eres Mortes, domaines en etat domine, vaisseau choisi in utero, scellee en Nisha.
 
 ### Clans/
 Description : les grandes familles d'exorcistes.
@@ -16,7 +16,7 @@ Description : les grandes familles d'exorcistes.
 
 ### Personnages/Nisha/
 Description : la protagoniste et son entourage (canon + relation a elle).
-- Nisha.md (W2) - protagoniste : identite, capacites (fusion du recap), backstory, entourage, Eien.
+- Nisha.md (W3) - protagoniste : identite, capacites, backstory, entourage, Eien.
 - Naoya.md (W1) - jumeau : Projection, symbiose gemellaire, possessivite, brimades.
 - Naobito.md (W1) - pere, 26e chef : enfants-armes, Nisha sacree, mariage Gojo.
 - Ogi.md (W1) - oncle aigri : Blazing Courage, respect/haine des jumeaux, honte de ses filles.
@@ -24,7 +24,7 @@ Description : la protagoniste et son entourage (canon + relation a elle).
 - Jinichi.md (W1) - cousin, frere aine de Toji : Missile Fists, chef du Hei en 2006, efface par honte.
 - Ranta.md (W1) - Hei, orphelin loyal : Regard paralysant, l'exception gentille mais soumise.
 - Hei.md (W1) - unite d'elite : nature, hierarchie complete, Chojuro, unite Kukuru.
-- Femmes_Zenin.md (W1) - condition feminine du clan : castes, mariage-monnaie, exception Nisha.
+- Femmes_Zenin.md (W2) - condition feminine du clan : castes, mariage-monnaie, exception Nisha.
 
 ### Systemes/
 Description : regles de pouvoir du monde.
