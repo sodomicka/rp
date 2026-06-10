@@ -1,6 +1,6 @@
 # Nisha Zenin - fiche protagoniste
 
-- version : W2
+- version : W3
 - routage : JJK/Personnages/Nisha/Nisha.md
 - note : instance jouee du protagoniste, rapatriee de Parties/Suivi et fusionnee avec le recap capacites. Placement decide par le worldbuilder (l'instance vit ici). [DIVERGENCE RP de placement]
 - certitude globale : [DIVERGENCE RP] integrale (OC)
@@ -26,8 +26,8 @@
 - Role en synergie : elle accelere. Complementaire de la Chronostase.
 
 ### Domaines (deux dans un corps, modele Sukuna / Yuji)
-- Le Temps Infini : domaine de Nisha, issu de la seule Chronostase. Dedans, plus besoin de toucher pour figer, accelerer, ralentir ou propulser. Inversion du temps sur son corps = RCT absolu (elle peut de-arracher un membre). La sphere apparait 1/24 de seconde, un flash - exactement une image de la Projection Zenin (24 images/seconde) : la logique-cadre du clan irrigue son domaine. C'est elle qui inspirera a Gojo le nom de son propre domaine (Sphere de l'Espace Infini) : elle a son territoire avant lui.
-- Le Jardin des Eres Mortes : domaine d'Eien, issu de la Chronokinesie ; Eien y maitrise la Chronostase comme apogee de son art. Deploiement en etat domine : question ouverte (cf. Entites/Eien).
+- Le Temps Infini : domaine de Nisha, issu de la seule Chronostase. Dedans, plus besoin de toucher pour figer, accelerer, ralentir ou propulser. Inversion du temps sur son corps = RCT absolu (elle peut de-arracher un membre). La sphere apparait 1/24 de seconde, un flash - exactement une image de la Projection Zenin (24 images/seconde) : la logique-cadre du clan irrigue son domaine. C'est elle qui inspirera a Gojo le nom de son propre domaine (Sphere de l'Espace Infini) : elle a son territoire avant lui. Empruntable par Eien si la calamite pilote le corps (precedent canon Yuta / Gojo).
+- Le Jardin des Eres Mortes : domaine d'Eien (cf. Entites/Eien). Verrouille par l'ego d'Eien : elle ne le cede jamais a l'hote, meme dominee. Nisha ne peut PAS le deployer ; il ne s'ouvre que si Eien reprend le dessus.
 - Contres (canon) : infaillibilite des sorts en domaine, domaine simple, confrontation de domaines. Pas omnipotente.
 
 ### Couts, limites et economie
@@ -37,9 +37,10 @@
 - Chiffrage exact (cout, frequence du domaine, seuils d'acceleration) : a formaliser au CODEX S3a ; cette fiche en tient lieu de source en attendant.
 
 ## Backstory
+- 1989 : Eien, lisant l'energie occulte des jumeaux in utero, juge celle de Nisha la plus singuliere et l'investit comme vaisseau (cf. Entites/Eien). Choix orchestre de longue date par les architectes.
 - 30 jan 1990 : naissance des jumeaux. Naoya pose en heritier, Nisha destinee a le servir : asymetrie imposee des le berceau.
-- 1994 (4 ans) : eveil d'Eien. Le clan conteste la legitimite de Nisha (sa force semble venir d'un fleau, pas du sang Zenin) ; Naobito manque de la renier.
-- Retournement : Naoya developpe la Projection, Nisha revele deux sorts complementaires - et surtout elle DOMINE le fleau, sa puissance etant un vrai sort Zenin. Interet des trois patriarches ; Naobito en fera sa plus belle creation.
+- 1994 (4 ans) : Eien se revele a Nisha. Les premiers pouvoirs que la jumelle demontre sont ceux du fleau (Chronokinesie) ; le clan y voit une energie de fleau, pas le sang Zenin, et conteste sa legitimite. Naobito manque de la renier.
+- Retournement : la Chronostase emerge a cote du pouvoir de fleau - deux sorts complementaires -, vrai sort Zenin (mutation de la Projection, ou l'heritage de Naobito pese le plus), et surtout Nisha DOMINE le fleau. Interet des trois patriarches ; Naobito en fera sa plus belle creation.
 - 1998 (8 ans) : premiere extension de territoire, instable mais reelle.
 - 2002 (12 ans) : territoire parfait. Nisha atteint Special 1 - le plafond d'un membre de clan autonome, le vrai Special lui restant ferme. Une douzaine d'annees d'avance sur Naoya, qui n'aura ce rang qu'adulte.
 - 12-16 ans : preferee de Naobito au detriment de Naoya. Les jumeaux detestent cette mise en concurrence : ils se vivent comme un seul etre.
@@ -74,7 +75,9 @@
 
 ## Rapport a Eien
 - Eien : calamite plus ancienne que Sukuna, scellee en Nisha. Modele Sukuna / Yuji inverse : le vaisseau domine la calamite.
+- Investie in utero (1989), Eien s'est revelee a Nisha a 4 ans (1994) dans leur territoire interieur de dialogue.
 - Nisha mate Eien via un filament d'energie constant ; Eien reste spectatrice consentante tant que l'hote demeure distrayant et puissant.
+- Risque : croiser Kenjaku pourrait declencher chez Eien de quoi ecraser momentanement Nisha - la calamite accederait alors a ses deux domaines (cf. SB8 et Entites/Eien).
 - Detail de l'entite et du plan millenaire : cf. Entites/Eien.
 
 ## Divergences canon [DIVERGENCE RP]

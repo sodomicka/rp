@@ -1,8 +1,6 @@
 # Les femmes du clan Zenin - fiche thematique
 
-- version : W1
-- routage : JJK/Personnages/Nisha/Femmes_Zenin.md
-- certitude globale : misogynie clanique etablie (cf. Clans/Zenin) ; castes feminines et cas concrets en [DIVERGENCE RP]
+- version : W2
 
 ## Cadre
 - Le clan Zenin est profondement, generationnellement misogyne (cf. Clans/Zenin). Une femme n'y vaut que par son utilite : son sort, son ventre, ou son service.
@@ -20,7 +18,7 @@ Hors exception, deux voies, et deux seulement :
 
 ## Les femmes venues de l'exterieur
 Deux castes, selon ce pour quoi on les fait venir :
-- Les porteuses d'elite (tresor temporaire) : choisies pour des capacites occultes compatibles avec un membre important, elles portent l'enfant sans quitter le domaine, protegees comme un bien precieux, puis congediees apres l'accouchement. Leur depart est tenu pour un privilege : pouvoir disparaitre du clan en est un. Cas : la mere des jumeaux, retenue pour sa compatibilite occulte avec Naobito (cela prolonge Naobito-le-forgeron - il a choisi jusqu'au ventre qui porterait ses prodiges). Elle est partie apres la naissance ; les jumeaux grandissent sans mere.
+- Les porteuses d'elite (tresor temporaire) : choisies pour des capacites occultes compatibles avec un membre important, elles portent l'enfant sans quitter le domaine, protegees comme un bien precieux, puis congediees apres l'accouchement. Leur depart est tenu pour un privilege : pouvoir disparaitre du clan en est un. Cas : la mere des jumeaux, retenue pour sa compatibilite occulte avec Naobito (cela prolonge Naobito-le-forgeron - il a choisi jusqu'au ventre qui porterait ses prodiges). Elle est partie apres la naissance ; les jumeaux grandissent sans mere. Ce que le clan ignore : ce choix n'est pas un instinct clanique mais une piece posee de longue date (depuis Heian) par les architectes Eien-Kenjaku, qui visaient cette lignee et ce vaisseau. cf. Entites/Eien. [DIVERGENCE RP]
 - Les integrees (servitude a vie) : venues rejoindre le clan, elles donnent un enfant a un homme Zenin, puis servent le clan jusqu'au bout. Cas : la mere de Maki et Mai.
 
 ## L'exception : Nisha
