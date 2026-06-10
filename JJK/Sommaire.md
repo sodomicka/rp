@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W6
+- version : W10
 
 ## WIKI
 
@@ -12,7 +12,9 @@ Description : calamites et entites du lore profond.
 
 ### Clans/
 Description : les grandes familles d'exorcistes.
-- Zenin.md (W2) - clan Zenin en 2006 : membres, Hei, misogynie, Sort de Projection.
+- Zenin.md (W3) - clan Zenin : nature, blason et tenues ceremonielles, Hei, membres, misogynie, Sort de Projection.
+- Kamo.md (W2) - clan Kamo : Manipulation du Sang, purete du sang, blason (enso + goutte), tenues, passe le plus sombre (Noritoshi/Kenjaku).
+- Gojo.md (W1) - clan Gojo : Pouvoir de l'Infini, Six Yeux, clan-coquille (Satoru seul), blason (cercle + six disques a tomoe), ancetre Michizane, branche Okkotsu, paradoxe de l'unique fleuron.
 
 ### Personnages/Nisha/
 Description : la protagoniste et son entourage (canon + relation a elle).
