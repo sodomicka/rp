@@ -1,6 +1,6 @@
 # Eien
 
-- version : W3
+- version : W4
 
 ## Nature
 - Calamite (fleau). Humaine a l'origine, devenue fleau il y a si longtemps qu'elle ignore si son premier corps etait homme ou femme. Indifferent pour elle.
@@ -19,7 +19,7 @@
 - Plus ancienne et plus polyvalente que la Chronostase portable de son hote actuel (cf. Nisha).
 
 ## Territoire interieur de dialogue
-- Espace mental ou Eien et son hote se parlent en face a face (canon Sukuna / Yuji). Distinct du domaine projete, mais habille du meme decor.
+- Espace mental ou Eien et son hote se parlent en face a face (canon Sukuna / Yuji). Principe general : le for interieur EST le domaine - une extension de territoire impose au monde exterieur le monde interieur de son porteur. Le Jardin est la face interieure d'Eien ; le domaine projete, la meme chose imposee dehors. Miroir chez l'hote : le for interieur de Nisha est la Sphere du Temps Infini (cf. Personnages/Nisha/Nisha_Capacites).
 - Decor : le Jardin des Eres Mortes (cf. ci-dessous). C'est dans ce paysage que se tiennent les echanges Eien-hote.
 - Eien s'y est revelee a Nisha a 4 ans (1994 ; cf. SB3 et Nisha).
 
