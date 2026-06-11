@@ -1,6 +1,6 @@
 # Naoya Zenin - fiche personnage
 
-- version : W2
+- version : W3
 - routage : JJK/Personnages/Nisha/Naoya.md
 - certitude globale : socle canon etabli, surcouche fraternelle en [DIVERGENCE RP]
 
@@ -38,6 +38,13 @@
   - Naoya devient fou de rage quand Naobito manque de renier Nisha (a l'eveil d'Eien).
   - Nisha s'enerve surtout contre ses PROPRES privileges - le grade et le territoire qu'elle a et que Naoya n'a pas - au point de menacer de raser une partie du domaine familial.
 - Tokyo et le mariage Gojo : quand Ogi, Jinichi et Naobito decident que Nisha ira a Tokyo charmer Satoru, les deux sont prets a tout casser - elle ne veut pas partir, lui ne veut pas qu'elle parte. Le clan impose sans leur laisser le choix : elle part a Tokyo, lui en cursus a Kyoto avec Ranta, en 2005. Et quand Nisha se resigne a charmer puis epouser Gojo - adherant elle-meme a la logique du mariage d'alliance, du moment qu'on ne la dit pas faible -, Naoya sombre dans une jalousie et une colere folles. Ce qui le brise n'est pas la decision du clan, mais que sa moitie accepte d'appartenir a un autre.
+
+## Tradition du 30 janvier (anniversaire commun) [DIVERGENCE RP]
+- Les jumeaux sont nes le meme jour. Le clan ne fete pas cet anniversaire - les Zenin ne connaissent que la transaction et le statut concede : ils recompensent, ils n'offrent jamais rien, et la tendresse leur est etrangere.
+- Les jumeaux retournent cette logique : faute de cadeaux du clan, ils se dedient mutuellement la journee, dans le seul langage que les Zenin respectent - le travail.
+- Naoya passe la journee a cuisiner pour sa soeur (il connait ses gouts par coeur ; portions de cinq pour sa faim demesuree). Nisha, elle, aiguise les lames de Naoya et recoud ses tenues de combat.
+- Corvee ingrate pour n'importe qui d'autre ; pour eux, une journee entiere vouee a l'autre - de la devotion deguisee en tache.
+- Rite recurrent (chaque 30 janvier), pas un evenement ponctuel. Mis en scene a l'ouverture de Roadmap_2e_Annee (30 jan 2006, puis rejoue le 30 jan 2007).
 
 ## Autres relations
 - Toji Fushiguro, le cousin renie : avant 2006, les jumeaux le voient comme l'anomalie du clan - fort, oui, mais pas exceptionnel. Naoya seul en serait terrifie ; a deux, c'est la moquerie qui sort, chacun surencherissant pour humilier la brute sans energie. Du respect pour sa force, jamais de l'idolatrie - et ca ne les empeche pas de le rabaisser, gamins. La vraie mesure de son calibre leur tombera dessus en douche froide quand Toji fera chuter Gojo en 2006. cf. Personnages/Nisha/Toji ; suite en roadmap.
