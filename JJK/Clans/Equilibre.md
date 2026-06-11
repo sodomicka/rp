@@ -1,6 +1,6 @@
 # Equilibre - relations entre les trois grandes familles
 
-- version : W3
+- version : W4
 - routage : JJK/Clans/Equilibre.md
 - objet : la relation bilaterale de chaque paire de grandes familles (Gojo/Zenin, Gojo/Kamo, Zenin/Kamo), et leur position dans la gouvernance du jujutsu.
 - certitude globale : socle canon etabli (Gosanke, factions, balance, destin des maisons) ; surcouche RP (manoeuvres, mariage, garde de Megumi, postures envers Tengen, filiation des lignees, intermariages) en [DIVERGENCE RP] / [INTERPRETATION]
@@ -16,7 +16,7 @@
 
 ### Postures envers Tengen
 - Tengen : sorcier immortel dont la barriere protege le monde sorcier (et abrite le cadavre de Sukuna, cf. BIBLE SB6). Sa survie repose sur une fusion periodique avec un Receptacle d'Etoile.
-- Zenin : Tengen est une necessite genante. Sans lui, le clan aurait plus de travail - donc plus d'argent et d'influence ; mais ils reconnaissent son utilite et ne la contestent pas. Posture tiede, interessee. Consequence en 2006 : le clan ne juge pas l'asset Nisha digne d'etre risque sur une mission qui sert d'abord Tengen - elle sera sommee de rester au lycee avec Shoko pendant la mission du Receptacle d'Etoile (cf. paire Gojo/Zenin, trajectoire future). [DIVERGENCE RP]
+- Zenin : indifference pure. Que Tengen protege l'humanite (statu quo) ou qu'il transcende et la lache (plus de fleaux, donc plus de travail, d'argent et d'influence pour le clan), les deux issues leur conviennent egalement - ils ne contestent pas son utilite, ils s'en fichent. Consequence en 2006 : pas question de risquer l'asset Nisha sur une mission qui ne sert que Tengen - elle sera sommee de rester au lycee avec Shoko pendant la mission du Receptacle d'Etoile (cf. paire Gojo/Zenin, trajectoire future). [DIVERGENCE RP]
 - Gojo : plus reconnaissants envers Tengen. Ils demanderont au jeune heritier (Satoru) de livrer le Receptacle d'Etoile a la fusion sans en prendre pitie - le devoir avant le sentiment. [DIVERGENCE RP]
 - Kamo : protecteurs et reverencieux envers Tengen. Mieux que quiconque, ils connaissent le danger des fleaux hors de controle (cf. les Peintures de Mort, leur propre honte) : Tengen, rempart contre le chaos, leur est sacre. Reserve : Tengen est a Tokyo, les Kamo a Kyoto - une reverence a distance. [DIVERGENCE RP]
 
@@ -41,7 +41,7 @@ La paire la plus chargee des trois.
 - Satoru : oblivieux. Il ignore tout du plan, tombe pour Nisha sans savoir qu'il est une cible. Le clan-coquille n'a donc pas de "politique Zenin" coherente : une moitie (les anciens) hesite, l'autre (l'atout) ne sait meme pas qu'il y a une partie en cours.
 
 ### Trajectoire future (hors arc)
-- Couche Toji (2006) : Toji Fushiguro, Zenin de naissance et renie, faille presque mortellement puis se fait tuer par Satoru (un Gojo) durant l'arc du Receptacle d'Etoile. Du sang neuf verse entre les deux maisons - un Zenin de naissance mort de la main d'un Gojo. cf. Personnages/Nisha/Toji.
+- Couche Toji (2006) : Toji Fushiguro, Zenin de naissance et renie, faille presque mortellement puis se fait tuer par Satoru (un Gojo) durant l'arc du Receptacle d'Etoile. Objectivement un Zenin de naissance mort de la main d'un Gojo - mais cote clan, ca ne pese RIEN : un dechet renie, un cabot enrage qu'on avait jete et qu'un Gojo a acheve. Aucun deuil (Jinichi, son frere, le honnit depuis l'enfance), aucune vengeance : la mort de Toji n'alourdit pas reellement le contentieux Gojo/Zenin. cf. Personnages/Nisha/Toji, Jinichi. [DIVERGENCE RP]
 - Mission du Receptacle d'Etoile (2006) : les postures envers Tengen separent les deux maisons sur la mission. Les Zenin gardent Nisha a l'ecart (au lycee, avec Shoko) ; les Gojo envoient Satoru livrer le receptacle sans pitie. C'est aussi sur cette mission, dont son clan l'a ecartee, que Satoru se transcende et depasse Nisha : la dedaigner lui coute son avance (raccord Tchekhov Eveil-eclipse, cf. BIBLE SB8).
 - Garde de Megumi : noeud de la paire. Megumi Fushiguro, fils de Toji, porteur des Dix Ombres (apogee revendiquee des Zenin), a ete vendu au clan par son pere. Les Gojo veulent le proteger des Zenin ; les Zenin veulent le recuperer comme heritier legitime. Nisha tranche par un entre-deux : jeune couple avec Satoru (17 ans, vers 2007), ils prennent une maison a Saitama et adoptent Megumi et sa demi-soeur Tsumiki (en bas age). L'heritier reste ainsi sous la surveillance d'une Zenin, sans etre jete aux loups du clan. La garde du futur sommet Zenin echoit a l'union des deux maisons ennemies. [DIVERGENCE RP majeure]
 - Convergence 2018 : ironie du plan des architectes - l'apogee Zenin (Megumi, Dix Ombres) se retrouve dans le camp de Gojo, eleve par le couple Nisha-Satoru. Et le clan Zenin, lui, finit par s'auto-detruire (Maki, apres Shibuya, massacre la maison entiere - cf. canon). Les deux apogees convergent ; la maison Zenin, elle, n'y survit pas.
