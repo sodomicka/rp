@@ -1,6 +1,6 @@
 # Clan Zenin
 
-- version : W3
+- version : W4
 
 ## Nature
 - Une des trois grandes familles d'exorcistes, avec les Gojo et les Kamo.
@@ -8,6 +8,13 @@
 - Traditionaliste, elitiste, profondement misogyne : meprise les membres sans sort puissant, en particulier les femmes. Misogynie generationnelle, anterieure aux generations actuelles. Detail : cf. Personnages/Nisha/Femmes_Zenin.
 - Sort herite signature : le Sort de Projection (24 images/seconde, gel au contact).
 - Apogee revendiquee a l'ere moderne : les Dix Ombres, portees par Megumi Fushiguro (sang Zenin), sort convoite par le clan.
+
+## Gouvernance - le conseil (les trois patriarches)
+- L'instance dirigeante du clan, aussi nommee "les trois patriarches" : trois hommes qui tranchent sans appel.
+- Naobito Zenin - 26e chef du clan, preside. detail : cf. Personnages/Nisha/Naobito.
+- Ogi Zenin - frere cadet de Naobito, seconde. detail : cf. Personnages/Nisha/Ogi.
+- Jinichi Zenin - frere aine de Toji, plus age que les jumeaux ; chef du Hei en 2006 ; taciturne au conseil. detail : cf. Personnages/Nisha/Jinichi.
+- Le conseil statue aux moments-cles du destin des jumeaux : present au reveil d'Eien (1994), il impose la convocation de 2005 (Nisha a Tokyo, Naoya a Kyoto) sans laisser le choix.
 
 ## Heraldique - le blason
 - Mon : une fleur a dix petales larges, violet/mauve sur fond gris fonce, le coeur en soleil noir rayonnant.

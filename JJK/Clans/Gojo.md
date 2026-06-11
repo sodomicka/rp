@@ -1,6 +1,6 @@
 # Clan Gojo
 
-- version : W1
+- version : W2
 - routage : JJK/Clans/Gojo.md
 - certitude globale : socle canon etabli (technique, Six Yeux, ancetre Michizane, inimitie Zenin) ; surcouche RP (lecture du blason, anciens, branche Okkotsu) en [DIVERGENCE RP]
 
@@ -39,7 +39,7 @@
 ## Renvois
 - Inimitie historique avec les Zenin : a l'ere Edo, le chef Gojo (Six Yeux + Infini) et le chef Zenin (Dix Ombres) se sont entretues devant l'aristocratie - rancune jamais soldee entre les deux maisons. Pont avec l'alliance matrimoniale ci-dessous.
 - Alliance matrimoniale Zenin-Gojo : manoeuvre unilaterale et secrete cote Zenin (charmer Satoru). Les Gojo l'ignorent - aucun acteur Gojo a la table. cf. BIBLE SB5 et Personnages/Nisha/Naobito.
-- Equilibre entre les trois maisons : a traiter dans un thread dedie. [a definir]
+- Equilibre entre les trois maisons : cf. Clans/Equilibre (les trois paires remplies).
 - Mecanique fine du Pouvoir de l'Infini et du Six Yeux : [a definir].
 - Convergence des apogees claniques (2018), plan Eien-Kenjaku : cf. BIBLE SB1/SB3 et Entites/Eien.
 
