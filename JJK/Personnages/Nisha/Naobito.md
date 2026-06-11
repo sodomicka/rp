@@ -1,13 +1,13 @@
 # Naobito Zenin - fiche personnage
 
-- version : W1
+- version : W2
 - routage : JJK/Personnages/Nisha/Naobito.md
 - certitude globale : socle canon etabli, rapport aux enfants et a Nisha en [DIVERGENCE RP]
 
 ## Identite
 - Nom : Naobito Zenin (Zen'in Naobito).
 - Role : 26e chef du clan Zenin. Rang Special 1 (Grade 1 ; cf. Systemes/Grades).
-- Filiation : pere de Naoya et de Nisha [DIVERGENCE RP], plus des aines plus ages.
+- Filiation : pere de Naoya et de Nisha [DIVERGENCE RP], plus trois aines plus ages (les freres aines des jumeaux ; cf. Personnages/Nisha/Hei).
 - Sort : Sort de Projection, qu'il transmet a Naoya (cf. Personnages/Nisha/Naoya et Clans/Zenin).
 - Etat a l'ouverture (2006) : chef regnant, au domaine Zenin (Kansai).
 
@@ -49,7 +49,7 @@
 - Sort de Projection detaille : cf. Personnages/Nisha/Naoya, Clans/Zenin.
 - Niveau et identite du fleau : cf. Entites/Eien (Naobito n'en connait que le niveau).
 - Partage gemellaire des jumeaux : cf. Systemes/Jumelage.
-- Genealogie exacte Toji / Jinichi (liens au chef) : a trancher a leurs fiches.
+- Genealogie Toji / Jinichi : fils du frere aine defunt de Naobito et Ogi, donc neveux du chef et cousins des jumeaux. cf. Personnages/Nisha/Jinichi et Personnages/Nisha/Toji.
 - Instance jouee de Nisha : cf. Parties Partie1.
 
 ---

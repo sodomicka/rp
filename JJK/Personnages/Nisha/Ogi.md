@@ -1,6 +1,6 @@
 # Ogi Zenin - fiche personnage
 
-- version : W1
+- version : W2
 - routage : JJK/Personnages/Nisha/Ogi.md
 - certitude globale : socle canon etabli, rapport aux jumeaux et a Nisha en [DIVERGENCE RP]
 
@@ -40,9 +40,9 @@
 ## Fils ouverts et renvois
 - Destin (2018, hors ancrage) : il tente d'executer ses deux filles, jetees dans une fosse de fleaux du clan ; apres le sacrifice de Mai et l'eveil complet de Maki, il est tranche net, tete et epee. Roadmap.
 - Role dans la purge du clan : il en est le declencheur. A deplier en roadmap (plus tard).
-- Maki, Mai et la condition des femmes du clan : cf. fiche dediee (a venir).
-- Toji et la Restriction Celeste : cf. fiche Toji (a venir).
-- Le Hei : cf. Clans/Zenin et fiche Hei (a venir).
+- Maki, Mai et la condition des femmes du clan : cf. Personnages/Nisha/Femmes_Zenin ; fiches individuelles Maki et Mai a venir.
+- Toji et la Restriction Celeste : cf. Personnages/Nisha/Toji.
+- Le Hei : cf. Clans/Zenin et Personnages/Nisha/Hei.
 - Jumeaux : cf. Personnages/Nisha/Naoya et instance Nisha (Parties).
 
 ---

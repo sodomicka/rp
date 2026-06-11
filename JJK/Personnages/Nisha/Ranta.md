@@ -1,6 +1,6 @@
 # Ranta Zenin - fiche personnage
 
-- version : W1
+- version : W2
 - routage : JJK/Personnages/Nisha/Ranta.md
 - certitude globale : socle canon etabli ; origine, parcours et coloration en [DIVERGENCE RP]
 
@@ -28,7 +28,7 @@
 
 ## Destin et renvois
 - Destin (2018, hors ancrage) : au Massacre du clan par Maki, il sacrifie son corps pour la paralyser et permettre a Jinichi de frapper ; Maki rompt la prise, le backlash lui ravage les yeux, et il meurt le sourire aux levres, son devoir accompli. Roadmap.
-- Le Hei (hierarchie complete) : cf. fiche Hei (a venir).
+- Le Hei (hierarchie complete) : cf. Personnages/Nisha/Hei.
 - Jumeaux : cf. Personnages/Nisha/Naoya et instance Nisha (Parties).
 - Allie potentiel ou non des jumelles : roadmap.
 

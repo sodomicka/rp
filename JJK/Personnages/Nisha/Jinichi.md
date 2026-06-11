@@ -1,6 +1,6 @@
 # Jinichi Zenin - fiche personnage
 
-- version : W1
+- version : W2
 - routage : JJK/Personnages/Nisha/Jinichi.md
 - certitude globale : socle canon etabli (perso peu developpe), caractere et rapport aux jumeaux en [DIVERGENCE RP]
 
@@ -31,9 +31,9 @@
 - Tokyo ou Kyoto, il s'en moque. Mais l'idee que la manoeuvre serve a remettre les Gojo a leur place lui plait : fierte de clan, pas ambition territoriale.
 
 ## Fils ouverts et renvois
-- Destin (2018, hors ancrage) : au Massacre du clan par Maki, Ranta le paralyse pour qu'il porte le coup fatal ; Maki rompt la paralysie et le decapite sans une egratignure, puis jette sa tete dans une mare. Roadmap.
+- Destin (2018, hors ancrage) : au Massacre du clan par Maki, Ranta paralyse Maki pour que Jinichi porte le coup fatal ; Maki rompt la paralysie et le decapite sans une egratignure, puis jette sa tete dans une mare. Roadmap.
 - Toji (frere) : cf. Personnages/Nisha/Toji.
-- Le Hei : cf. Clans/Zenin et fiche Hei (a venir).
+- Le Hei : cf. Clans/Zenin et Personnages/Nisha/Hei.
 - Jumeaux : cf. Personnages/Nisha/Naoya et instance Nisha (Parties).
 
 ---
