@@ -1,6 +1,6 @@
 # Nisha Zenin - fiche protagoniste
 
-- version : W5
+- version : W6
 - routage : JJK/Personnages/Nisha/Nisha.md
 - note : instance jouee du protagoniste, rapatriee de Parties/Suivi. Placement decide par le worldbuilder (l'instance vit ici). [DIVERGENCE RP de placement]
 - certitude globale : [DIVERGENCE RP] integrale (OC)
@@ -9,7 +9,7 @@
 - Nom : Nisha Zenin (Zen'in Nisha).
 - Naissance : 30 janvier 1990 ; jumelle de Naoya, nee le meme jour.
 - Clan : Zenin, l'une des trois grandes familles.
-- Statut a l'ouverture (2006) : 16 ans, 2e annee a Tokyo Jujutsu High, classe de Gojo, Geto et Shoko. Promue vrai Special en meme temps que Gojo et Geto.
+- Statut a l'ouverture (2006) : 16 ans, 2e annee a Tokyo Jujutsu High, classe de Gojo, Geto et Shoko. Promue vrai Special des l'automne 2005 (1e annee), avec Gojo et Geto. En couple avec Satoru Gojo depuis le 1er janvier 2006.
 - Hote scellee de la calamite Eien (cf. Entites/Eien).
 
 ## Capacites
@@ -27,7 +27,10 @@
 - 12-16 ans : preferee de Naobito au detriment de Naoya. La preference frustre Naoya mais la symbiose ne se fissure pas - Nisha le reconforte, ils se vivent comme un seul etre.
 - Quotidien : entrainement intensif (la puissance se merite dans la sueur et le sang) ; faim demesuree (cout de la Chronostase) ; moqueries envers Toji, croise enfant (parti du clan en 2001). L'humiliation de Maki et Mai ne demarre que courant 2005 (distraction lors des retours au domaine).
 - 2005 (15 ans) : le conseil (Naobito preside, Ogi seconde, Jinichi taciturne) l'envoie en ambassadrice a Tokyo (1e annee) et Naoya en cursus a Kyoto avec Ranta - separation imposee, sans choix laisse aux jumeaux.
-- 2006 (16 ans) : promue vrai Special en 2e annee, en meme temps que Gojo et Geto (arc Receptacle d'Etoile).
+- avril 2005 - mars 2006 : 1e annee a Tokyo (cf. Roadmap/Nisha/Roadmap_1e_Annee) : quatuor avec Gojo, Geto et Shoko ; rivalite puis attachement pour Satoru ; victoire sur lui a la competition inter-lycees (ete) ; appels du soir quotidiens a Naoya.
+- automne 2005 (15 ans) : promue vrai Special en 1e annee, avec Gojo et Geto (evaluation a Kyoto face aux fleaux Heian de la reserve Zenin).
+- 1er janvier 2006 : couple officiel avec Satoru Gojo (declaration en soiree de promo a quatre). La manoeuvre matrimoniale a abouti en sentiments vrais.
+- 2006 (16 ans) : 2e annee a Tokyo (arc Receptacle d'Etoile).
 
 ## Entourage clanique
 - Naobito : pere, 26e chef. cf. Personnages/Nisha/Naobito.
@@ -41,7 +44,7 @@
 
 ## Le plan clanique derriere Tokyo
 - Montrer que les Zenin ont plus fort que l'atout des Gojo (vrai avant l'eveil de Satoru contre Toji ; la tendance s'inverse apres).
-- Alliance matrimoniale avec les Gojo via Satoru a charmer.
+- Alliance matrimoniale avec les Gojo via Satoru a charmer - aboutie le 1er janvier 2006, et au-dela du plan : les sentiments de Nisha sont vrais.
 - Ne pas legitimer les femmes a Kyoto en n'y gardant pas une femme forte.
 - Separer les jumeaux, trop puissants ensemble : Nisha a Tokyo, Naoya a Kyoto (motif d'Ogi).
 - Etendre l'influence Zenin sur Tokyo, territoire Gojo.
@@ -66,12 +69,15 @@
 - Nisha n'existe pas au canon : OC, jumelle inventee de Naoya.
 - Jumeaux nes le 30 jan 1990 : meme cohorte scolaire que Gojo ; decale l'age canon de Naoya.
 - Partage gemellaire pose en 50/50 strict (canon : Mai detient l'essentiel de l'energie).
+- Promotion Special en 1e annee (automne 2005) pour Nisha, Gojo et Geto : avance le timing canon implicite.
+- Couple Nisha-Satoru (1 jan 2006) : inexistant au canon.
 - Eien et le plan millenaire : cf. Entites/Eien et BIBLE.
 
 ## Renvois
 - Capacites detaillees : cf. Personnages/Nisha/Nisha_Capacites.
 - Partage gemellaire, resonance, transfert d'urgence, clause de mort : cf. Systemes/Jumelage.
 - Grades : cf. Systemes/Grades.
+- Itineraire 1e annee : cf. Roadmap/Nisha/Roadmap_1e_Annee.
 - Chiffrage des capacites : a formaliser au CODEX S3a.
 
 ---
