@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W10
+- version : W16
 
 ## WIKI
 
@@ -15,10 +15,11 @@ Description : les grandes familles d'exorcistes.
 - Zenin.md (W3) - clan Zenin : nature, blason et tenues ceremonielles, Hei, membres, misogynie, Sort de Projection.
 - Kamo.md (W2) - clan Kamo : Manipulation du Sang, purete du sang, blason (enso + goutte), tenues, passe le plus sombre (Noritoshi/Kenjaku).
 - Gojo.md (W1) - clan Gojo : Pouvoir de l'Infini, Six Yeux, clan-coquille (Satoru seul), blason (cercle + six disques a tomoe), ancetre Michizane, branche Okkotsu, paradoxe de l'unique fleuron.
+- Equilibre.md (W3) - relations entre les trois grandes familles, les trois paires remplies : cadre Gosanke + filiation (esprits vengeurs) + postures Tengen ; Gojo/Zenin (rancune Edo, mariage preventif, garde de Megumi) ; Gojo/Kamo (indifference, le miracle attendu) ; Zenin/Kamo (Kamo dans la lumiere / Zenin dans l'ombre, intermariages, Gakuganji ciment).
 
 ### Personnages/Nisha/
-Description : la protagoniste et son entourage (canon + relation a elle).
-- Nisha.md (W5) - protagoniste : identite, backstory, entourage, Eien (capacites separees).
+Description : la protagoniste et son entourage - canon et relation a elle (clan Zenin, promo de Tokyo, autorites scolaires).
+- Nisha.md (W6) - protagoniste : identite, backstory (1e annee a Tokyo, Special automne 2005, couple avec Satoru), entourage, Eien (capacites separees).
 - Nisha_Capacites.md (W1) - capacites de Nisha : Chronostase, Chronokinesie via Eien, les deux Domaines, couts et economie.
 - Naoya.md (W2) - jumeau : Projection, symbiose gemellaire, Hei des 10 ans, cursus Kyoto avec Ranta, brimades.
 - Naobito.md (W1) - pere, 26e chef : enfants-armes, Nisha sacree, mariage Gojo.
@@ -28,6 +29,11 @@ Description : la protagoniste et son entourage (canon + relation a elle).
 - Ranta.md (W1) - Hei, orphelin loyal : Regard paralysant, l'exception gentille mais soumise.
 - Hei.md (W2) - unite d'elite : nature, hierarchie complete, Chojuro (sort de pierre), unite Kukuru.
 - Femmes_Zenin.md (W2) - condition feminine du clan : castes, mariage-monnaie, exception Nisha.
+- Satoru.md (W1) - rival, cible matrimoniale puis amant : l'homme (perso), scaling 2005, trajectoire amoureuse. Maison : cf. Clans/Gojo.
+- Suguru.md (W1) - l'ideal d'avant la chute : Manipulation des Esprits Maudits, joutes elitisme/bienveillance avec Nisha, fils de profanes.
+- Shoko.md (W1) - la soigneuse : RCT, flegme caustique, amitie de longue date avec Nisha, "chacun son confident".
+- Yaga.md (W1) - professeur principal : cadavres maudits, exaspere en stereo (Nisha/Satoru), graine Panda (scellement transmis par Nisha).
+- Gakuganji.md (W2) - principal de Kyoto, haute instance conservatrice : guitare/ondes, arbitre neutre et ciment du bloc Zenin-Kamo, respect mutuel avec Nisha, investit les heritiers trad.
 
 ### Systemes/
 Description : regles de pouvoir du monde.
@@ -37,6 +43,7 @@ Description : regles de pouvoir du monde.
 ### Roadmap/Nisha/
 Description : itineraires par arc, perspective de Nisha.
 - Roadmap_Intro.md (W1) - intro jouable : enfance Zenin au Kansai (1990) jusqu'a la convocation de 2005 (Nisha a Tokyo, Naoya a Kyoto).
+- Roadmap_1e_Annee.md (W1) - 1e annee a Tokyo (avril 2005 - mars 2006), annee calme hors canon : rentree, le quatuor, competition inter-lycees, promotion Special (automne 2005), couple Nisha-Satoru au nouvel an.
 
 ## PARTIES (Partie1)
 
