@@ -1,9 +1,9 @@
 # Roadmap_1e_Annee
 
 - statut : a venir
-- version : W1
+- version : W2
 - routage : JJK/Roadmap/Nisha/Roadmap_1e_Annee.md
-- periode : annee scolaire avril 2005 -> mars 2006 (1e annee a Tokyo). Annee calme, hors canon.
+- periode : avril 2005 -> 1er janvier 2006 (1e annee a Tokyo, jusqu'a la declaration). Annee calme, hors canon.
 
 ## Conditions de depart
 
@@ -39,7 +39,7 @@
 - Serment de Naoya plante : briser Satoru a la premiere souffrance de Nisha, meme involontaire.
 - Graine Panda plantee : les bases de scellement transmises a Yaga (conception en 2011).
 - Quatuor au sommet de son amitie ; rivalite Nisha-Satoru intacte, elle devant globalement, lui devant en destruction pure.
-- Bascule vers la 2e annee (avril 2006) -> route vers l'arc du Receptacle d'Etoile (Eveil-eclipse en detonation).
+- Bascule vers Roadmap_2e_Annee (ouverture le 30 janvier 2006, anniversaire des jumeaux) -> arc du Receptacle d'Etoile (Eveil-eclipse en detonation).
 
 ---
 FIN_WIKI_ROADMAP_1E_ANNEE
