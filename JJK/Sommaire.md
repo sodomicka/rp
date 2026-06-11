@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W18
+- version : W19
 
 ## WIKI
 
@@ -44,7 +44,8 @@ Description : regles de pouvoir du monde.
 Description : itineraires par arc, perspective de Nisha.
 - Roadmap_Intro.md (W1) - intro jouable : enfance Zenin au Kansai (1990) jusqu'a la convocation de 2005 (Nisha a Tokyo, Naoya a Kyoto).
 - Roadmap_1e_Annee.md (W2) - 1e annee a Tokyo (avril 2005 - 1er janvier 2006), annee calme hors canon : rentree, le quatuor, competition inter-lycees, promotion Special (automne 2005), couple Nisha-Satoru au nouvel an.
-- Roadmap_2e_Annee.md (W1) - de l'anniversaire des 16 ans (30 jan 2006) au seuil de l'adoption (fev 2007) : arc canon du Receptacle d'Etoile (Hidden Inventory, plein ete 2006), Eveil-eclipse en detonation, bandeau et ancrage de Satoru, fissure de Geto, decision d'adoption.
+- Roadmap_2e_Annee.md (W2) - de l'anniversaire des 16 ans (30 jan 2006) au seuil de l'adoption (fev 2007) : arc canon du Receptacle d'Etoile (Hidden Inventory, plein ete 2006), Eveil-eclipse en detonation, bandeau et ancrage de Satoru, fissure de Geto, conversation Toji et conception du plan Maki (automne 2006), decision d'adoption.
+- Roadmap_La_Longue_Partie.md (W1) - de l'adoption (fev 2007) au lendemain du rendez-vous avec Kenjaku (fin 2015), cinq arcs : foyer de Saitama et defection de Geto (2007) ; arc calme 2008-2013 (vocation de profs, Okaruto Shinbun, Panda) ; extraction de Maki (2014) ; noces (2015) ; ultimatum Kenjaku-Eien, vente de Satoru, avortement secret (endpoint 2015).
 
 ## PARTIES (Partie1)
 
