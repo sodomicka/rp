@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W29
+- version : W30
 
 ## WIKI
 
@@ -44,6 +44,8 @@ Description : la protagoniste et son entourage - canon et relation a elle (clan 
 - Todo.md (W1) - Aoi Todo : 2e annee Kyoto 2017 (3e en 2018), seul eleve grade 1, Boogie Woogie, disciple de Yuki ; pousse Grade 1 par Nisha ; triangle des mentors Nisha/Yuki (active) ; voit Nisha en modele a l'egal de Yuki.
 - Noritoshi.md (W1) - Noritoshi Kamo le jeune : 2e annee Kyoto 2017 (3e en 2018), semi-grade 1, heritier Kamo, Manipulation du Sang ; groome en patriarche par Nisha, noeud du nom avec l'ancetre Meiji (corps de Kenjaku, pere de Choso), apogee Kamo formee a l'insu (plan des architectes), miroir inverse de Megumi.
 - Momo.md (W1) - Momo Nishimiya : 2e annee Kyoto 2017 (3e en 2018), semi-grade 2, Manipulation d'Outil (balai, Kamaitachi), support et reconnaissance, devote a Mai ; formee a l'effacement par Nisha, grief feminin retourne en cadeau.
+- Miwa.md (W2) - Kasumi Miwa : 1e annee Kyoto 2017 (2e en 2018), Grade 3, pas de technique innee (New Shadow Style : Domaine Simple + Batto), support specialise ; hors clan, exorcise pour l'alimentaire, admiration du couple Gojo-Nisha, arc d'acceptation par Nisha (rejet -> epreuve dans Le Temps Infini -> attachement), fil a sens unique avec Mechamaru.
+- Mechamaru.md (W1) - Kokichi Muta (Mechamaru) : 1e annee Kyoto 2017 (2e en 2018), Manipulation de Pantins (Ultimate Mechamaru, Mode Absolu), Restriction Celeste extreme (inverse de Toji/Maki) ; taupe de la faction Kenjaku-Mahito, discussions sur la restriction avec Nisha (miroir Maki) -> presque-non-trahison [TCHEKHOV], amoureux de Miwa jamais rencontree, mort a Shibuya 2018 (staging roadmap).
 - Yuta.md (W1) - Yuta Okkotsu : 1e annee Tokyo 2017 (2e en 2018, exil africain), humain grade special, Rika la Reine des Fleaux (sous-section), Copie, branche Okkotsu (parent de Satoru) hors-plan ; projet de Satoru puis protege du couple, copie la Chronokinesie de Nisha (pas la balistique), miroir Eien refuse.
 - Toge.md (W1) - Toge Inumaki : 1e annee Tokyo 2017 (2e en 2018), semi-grade 1, clan Inumaki, Parole Maudite (onigiri, recul gorge) ; 3e du trio Maki-Toge-Panda avant Yuta, pote des gamins de Nisha, comic relief utile ; sort compare a Ranta, aparte Eien (Inumaki-Zenin, spec non confirmee).
 - Kirara.md (W1) - Kirara Hoshi : eleve Tokyo (2e annee 2017-2018), Love Rendezvous (attraction stellaire, Croix du Sud), genre volontairement ambigu (iel ; range en femme par la grille Nisha), Classe 4 plafonnee (double illisibilite sort + genre), suit Hakari apres sa suspension (Gachinko Fight Club), coequipiere inter-lycee 2017.
