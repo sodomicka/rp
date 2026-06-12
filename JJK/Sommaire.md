@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W25
+- version : W28
 
 ## WIKI
 
@@ -20,9 +20,9 @@ Description : les grandes familles d'exorcistes.
 - Equilibre.md (W4) - relations entre les trois grandes familles, les trois paires remplies : cadre Gosanke + filiation (esprits vengeurs) + postures Tengen (Zenin indifferents) ; Gojo/Zenin (rancune Edo, mariage preventif, mort de Toji sans poids, garde de Megumi) ; Gojo/Kamo (indifference, le miracle attendu) ; Zenin/Kamo (Kamo dans la lumiere / Zenin dans l'ombre, intermariages, Gakuganji ciment).
 
 ### Personnages/Nisha/
-Description : la protagoniste et son entourage - canon et relation a elle (clan Zenin, promo de Tokyo, autorites scolaires).
+Description : la protagoniste et son entourage - canon et relation a elle (clan Zenin, promo de Tokyo, autorites scolaires, eleves de Kyoto).
 - Nisha.md (W6) - protagoniste : identite, backstory (1e annee a Tokyo, Special automne 2005, couple avec Satoru), entourage, Eien (capacites separees).
-- Nisha_Capacites.md (W3) - capacites de Nisha : Chronostase, Chronokinesie via Eien, les deux Domaines (Le Temps Infini eprouve au duel Yorozu), couts et economie, rang #2 derriere Gojo et combo gemellaire.
+- Nisha_Capacites.md (W4) - capacites de Nisha : Chronostase, Chronokinesie via Eien, les deux Domaines (Le Temps Infini eprouve au duel Yorozu), couts et economie, rang #2 derriere Gojo et combo gemellaire.
 - Naoya.md (W3) - jumeau : Projection, symbiose gemellaire, Hei des 10 ans, cursus Kyoto avec Ranta, brimades, tradition du 30 janvier.
 - Naobito.md (W2) - pere, 26e chef : enfants-armes, Nisha sacree, mariage Gojo.
 - Ogi.md (W2) - oncle aigri : Blazing Courage, respect/haine des jumeaux, honte de ses filles.
@@ -41,6 +41,11 @@ Description : la protagoniste et son entourage - canon et relation a elle (clan 
 - Yaga.md (W1) - professeur principal : cadavres maudits, exaspere en stereo (Nisha/Satoru), graine Panda (scellement transmis par Nisha).
 - Panda.md (W1) - cadavre maudit a mutation brusque, trois noyaux (Panda/Gorille/Triceratops), co-concu par Nisha (noyaux figes en Chronostase) et Yaga, Triceratops ne tolere que Yaga et Nisha, banc commun avec Maki, carte Gakuganji.
 - Gakuganji.md (W2) - principal de Kyoto, haute instance conservatrice : guitare/ondes, arbitre neutre et ciment du bloc Zenin-Kamo, respect mutuel avec Nisha, investit les heritiers trad.
+- Todo.md (W1) - Aoi Todo : 2e annee Kyoto 2017 (3e en 2018), seul eleve grade 1, Boogie Woogie, disciple de Yuki ; pousse Grade 1 par Nisha ; triangle des mentors Nisha/Yuki (active) ; voit Nisha en modele a l'egal de Yuki.
+- Noritoshi.md (W1) - Noritoshi Kamo le jeune : 2e annee Kyoto 2017 (3e en 2018), semi-grade 1, heritier Kamo, Manipulation du Sang ; groome en patriarche par Nisha, noeud du nom avec l'ancetre Meiji (corps de Kenjaku, pere de Choso), apogee Kamo formee a l'insu (plan des architectes), miroir inverse de Megumi.
+- Momo.md (W1) - Momo Nishimiya : 2e annee Kyoto 2017 (3e en 2018), semi-grade 2, Manipulation d'Outil (balai, Kamaitachi), support et reconnaissance, devote a Mai ; formee a l'effacement par Nisha, grief feminin retourne en cadeau.
+- Yuta.md (W1) - Yuta Okkotsu : 1e annee Tokyo 2017 (2e en 2018, exil africain), humain grade special, Rika la Reine des Fleaux (sous-section), Copie, branche Okkotsu (parent de Satoru) hors-plan ; projet de Satoru puis protege du couple, copie la Chronokinesie de Nisha (pas la balistique), miroir Eien refuse.
+- Toge.md (W1) - Toge Inumaki : 1e annee Tokyo 2017 (2e en 2018), semi-grade 1, clan Inumaki, Parole Maudite (onigiri, recul gorge) ; 3e du trio Maki-Toge-Panda avant Yuta, pote des gamins de Nisha, comic relief utile ; sort compare a Ranta, aparte Eien (Inumaki-Zenin, spec non confirmee).
 - Megumi.md (W1) - Dix Ombres, vendu par Toji puis adopte (fev 2007), eleve a la mecanique du clan sans les valeurs, verite Toji a 10 ans, desinteresse de la politique clanique.
 - Tsumiki.md (W2) - profane eveillee qui voit l'occulte (lunettes de Maki, 2010), blog Okaruto Shinbun, ex-vaisseau dormant de Yorozu (marque Kenjaku, Eien se tait) purge par le duel dans Le Temps Infini (fin 2015), vraie fille du couple desormais libre.
 
