@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W20
+- version : W22
 
 ## WIKI
 
@@ -8,7 +8,9 @@
 
 ### Entites/
 Description : calamites et entites du lore profond.
-- Eien.md (W4) - calamite millenaire, Chronokinesie, Jardin des Eres Mortes, domaines en etat domine, vaisseau choisi in utero, scellee en Nisha.
+- Eien.md (W5) - calamite millenaire, Chronokinesie, Jardin des Eres Mortes, domaines en etat domine, vaisseau choisi in utero, scellee en Nisha ; mere de Choso via le corps Nanao (Meiji).
+- Kenjaku.md (W1) - parasite millenaire (echange de cervelle), amant et co-architecte d'Eien (amour symetrique), corps Noritoshi Kamo a Meiji, neuf Peintures de Mort (neuf meres / un pere), rendez-vous punitif de 2015, corps de Geto en 2017.
+- Yorozu.md (W1) - sorciere Heian (Construction), obsession fanatique a sens unique pour Sukuna (miroir sombre du couple Eien-Kenjaku), graine dormante dans Tsumiki, detonation Yorozu vers Sukuna-dans-Yuji laissee ouverte.
 
 ### Clans/
 Description : les grandes familles d'exorcistes.
@@ -29,11 +31,18 @@ Description : la protagoniste et son entourage - canon et relation a elle (clan 
 - Ranta.md (W2) - Hei, orphelin loyal : Regard paralysant, l'exception gentille mais soumise.
 - Hei.md (W2) - unite d'elite : nature, hierarchie complete, Chojuro (sort de pierre), unite Kukuru.
 - Femmes_Zenin.md (W2) - condition feminine du clan : castes, mariage-monnaie, exception Nisha.
-- Satoru.md (W3) - rival, cible matrimoniale puis amant : l'homme (perso), scaling 2005 et post-Toji 2006, debat vitesse/compression, bandeau et ancrage humain, trajectoire amoureuse. Maison : cf. Clans/Gojo.
-- Suguru.md (W2) - l'ideal d'avant la chute : Manipulation des Esprits Maudits, joutes elitisme/bienveillance avec Nisha, fils de profanes, bascule post-Riko (ete 2006).
+- Maki.md (W1) - Restriction Celeste partielle, refuge des deux jumeaux, extraction 2014, pupille du couple et 2e grande soeur de Megumi, complot des quatre jumeaux, pari 0/100.
+- Mai.md (W1) - Construction (revolver), forgee par Naoya a Kyoto, adhesion clanique en exception cachee, froid reconciliable avec Maki, complot des quatre jumeaux, equipe de Kyoto.
+- Satoru.md (W4) - rival, cible matrimoniale puis amant : l'homme (perso), scaling 2005 et post-Toji 2006, debat vitesse/compression, bandeau et ancrage humain, trajectoire amoureuse, avertissement Riko (relai post-Toji). Maison : cf. Clans/Gojo.
+- Suguru.md (W3) - l'ideal d'avant la chute : Manipulation des Esprits Maudits, joutes elitisme/bienveillance avec Nisha, fils de profanes, avertissement Riko ignore (premier fil de la fissure), bascule post-Riko (ete 2006).
+- Riko.md (W1) - Receptacle d'Etoile (canon + Kuroi integree), Nisha benchee sur l'arc, avertissement aux deux duos (ne pas s'attacher), vue seulement en cadavre.
+- Yuki.md (W1) - seule Special hors des prodiges de Yaga, Etoile Enragee / Garuda, ancienne Receptacle d'Etoile, mentor de Todo, opposition philosophique a Nisha (faille du systeme vs briser le systeme).
 - Shoko.md (W1) - la soigneuse : RCT, flegme caustique, amitie de longue date avec Nisha, "chacun son confident".
 - Yaga.md (W1) - professeur principal : cadavres maudits, exaspere en stereo (Nisha/Satoru), graine Panda (scellement transmis par Nisha).
+- Panda.md (W1) - cadavre maudit a mutation brusque, trois noyaux (Panda/Gorille/Triceratops), co-concu par Nisha (noyaux figes en Chronostase) et Yaga, Triceratops ne tolere que Yaga et Nisha, banc commun avec Maki, carte Gakuganji.
 - Gakuganji.md (W2) - principal de Kyoto, haute instance conservatrice : guitare/ondes, arbitre neutre et ciment du bloc Zenin-Kamo, respect mutuel avec Nisha, investit les heritiers trad.
+- Megumi.md (W1) - Dix Ombres, vendu par Toji puis adopte (fev 2007), eleve a la mecanique du clan sans les valeurs, verite Toji a 10 ans, desinteresse de la politique clanique.
+- Tsumiki.md (W1) - profane eveillee qui voit l'occulte (lunettes de Maki, 2010), blog Okaruto Shinbun, vaisseau dormant de Yorozu (marque Kenjaku, Eien se tait), duel possible dans Le Temps Infini, vraie fille du couple.
 
 ### Systemes/
 Description : regles de pouvoir du monde.
