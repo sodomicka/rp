@@ -1,6 +1,6 @@
 # Les femmes du clan Zenin - fiche thematique
 
-- version : W2
+- version : W3
 
 ## Cadre
 - Le clan Zenin est profondement, generationnellement misogyne (cf. Clans/Zenin). Une femme n'y vaut que par son utilite : son sort, son ventre, ou son service.
@@ -28,6 +28,12 @@ Deux castes, selon ce pour quoi on les fait venir :
 ## Le contraste central
 - Nisha adoree (la forte) face a Maki et Mai meprisees (les ratees). Trois femmes Zenin, deux destins opposes, une seule regle : la force, rien d'autre.
 - Maki est releguee a l'unite Kukuru ; le detail complet est reserve a sa fiche (autre thread).
+
+## L'endgame des quatre jumeaux : de la misogynie a l'elitisme [DIVERGENCE RP]
+- Re-lecture post-Toji (ete 2006) : frolant la mort face a Toji, Nisha comprend que Maki et Mai ne sont pas des ratees mais des sabotees - jamais autorisees a la symbiose, leur partage gemellaire impose en fardeau (cf. Systemes/Jumelage, pari 0/100). Le defaut n'est pas dans les filles, il est dans le clan.
+- Le projet : les deux paires de jumeaux (Naoya/Nisha et Maki/Mai) preparent un coup d'Etat contre les patriarches (cf. Maki, Mai) pour installer un autre ordre.
+- L'ordre vise : non un darwinisme qui jette les faibles, mais une meritocratie PATERNALISTE. Les forts dirigent et protegent les faibles du clan, qui gardent moins de droits. Le rang se merite (fin du favoritisme et du nepotisme) ; l'ordre abrite au lieu d'ecraser. Plus de misogynie en tant que telle : juste un axe fort/faible, le sexe hors sujet.
+- Le grain de sel : l'ordre devient sexe-aveugle, mais les psychismes ne suivent pas au meme rythme. Naoya suspend son apriori par conviction (il forge Mai malgre le reflexe) ; Nisha et Mai gardent le prejuge perso (femme = faible jusqu'a preuve du contraire), tout en portant un projet qui le contredit. cf. Personnages/Nisha/Nisha, Personnages/Nisha/Naoya, Personnages/Nisha/Mai.
 
 ## Renvois
 - Misogynie institutionnelle du clan : cf. Clans/Zenin.

@@ -1,6 +1,6 @@
 # Naoya Zenin - fiche personnage
 
-- version : W3
+- version : W4
 - routage : JJK/Personnages/Nisha/Naoya.md
 - certitude globale : socle canon etabli, surcouche fraternelle en [DIVERGENCE RP]
 
@@ -22,6 +22,7 @@
 ## Caractere
 - Ego demesure, arrogance, mepris affiche de toute faiblesse, elitisme clanique pur jus.
 - Misogynie reelle mais d'un cran SOUS le canon, et assortie d'une exception totale : Nisha. [DIVERGENCE RP] Paradoxe assume - c'est la femme qui durcit la regle misogyne (Nisha, plus misogyne que lui), l'homme qui l'assouplit.
+- Reflexe contre conviction, post-Toji (ete 2006) [DIVERGENCE RP] : l'apriori sexue reste, reflexe d'education jamais desappris (comme chez Nisha) - mais il ne le gouverne plus. Sa conviction commande ses actes : ralliant la meritocratie paternaliste du projet des jumeaux (les forts dirigent et protegent, le rang se merite, cf. Femmes_Zenin), il FORGE Mai malgre l'apriori, pas en son absence. La ou Nisha suspend le reflexe par affection (ses gosses, Tsumiki), Naoya le suspend par conviction. La voix reste crue et arrogante ; il ne classe juste plus "femme" comme une faiblesse par defaut.
 - Ambition : se tient pour le seul successeur legitime du clan.
 
 ## Relation a Nisha (le coeur de la fiche) [DIVERGENCE RP]
@@ -58,6 +59,7 @@
 - Avec Nisha, il fait payer cher les deux jumelles "ratees".
 - Le pire : projeter des graviers a la Chronostase - pas de quoi blesser, juste de quoi laisser des bleus.
 - Le quotidien : bousculades, insultes en parlant d'elles a la troisieme personne devant elles, et le rappel a Ogi qu'il a tire le pire lot quand Naobito, lui, sortait deux prodiges.
+- Bascule post-Toji (automne 2006) : le mepris des jumelles vire en instrumentalisation protectrice. Comprenant qu'elles n'etaient pas faibles mais sabotees, les jumeaux decident de les forger pour renverser le clan (cf. Caractere, et complot in Personnages/Nisha/Maki, Mai).
 
 ## Fils ouverts et renvois
 - Destin : POSSIBILITE OUVERTE, a trancher en roadmap. Canon : Naoya meurt durant la purge du clan Zenin, tue par Maki une fois sa Restriction Celeste devenue complete a la mort de Mai, puis revient en esprit maudit avant d'etre exorcise. RP : le fil "s'assurer les jumelles" (porte par Nisha) vise a faire survivre les deux jumeaux a cette purge ; rien n'est grave, la purge elle-meme reste conditionnelle. cf. Roadmap/Nisha/Roadmap_Intro (et suite a venir) ou Parties Decisions.

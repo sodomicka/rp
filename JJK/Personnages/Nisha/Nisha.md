@@ -1,6 +1,6 @@
 # Nisha Zenin - fiche protagoniste
 
-- version : W6
+- version : W7
 - routage : JJK/Personnages/Nisha/Nisha.md
 - note : instance jouee du protagoniste, rapatriee de Parties/Suivi. Placement decide par le worldbuilder (l'instance vit ici). [DIVERGENCE RP de placement]
 - certitude globale : [DIVERGENCE RP] integrale (OC)
@@ -50,8 +50,11 @@
 - Etendre l'influence Zenin sur Tokyo, territoire Gojo.
 
 ## Personnalite
-- Conservatrice, elitiste, misogyne. Elle meprise la faiblesse, qu'elle juge surrepresentee chez les femmes exorcistes.
-- Elle se vit comme l'exception qui confirme la regle : les femmes sont faibles, pas elle. Aucune contradiction ressentie - elle est la preuve vivante.
+- Conservatrice, elitiste, misogyne. Le mepris vise la faiblesse, et surtout son imposture - le faible qui se pretend fort.
+- La misogynie est un reflexe sexue herite de l'education Zenin : femme = faible jusqu'a preuve du contraire, dans un milieu reste tres masculin. Reflexe partage avec Naoya (cf. Naoya), mais plus profond et plus investi chez elle - son statut d'exception a besoin du repoussoir. Elle se vit comme l'exception qui confirme la regle : les femmes sont faibles, pas elle. Aucune contradiction ressentie.
+- Reflexe REFUTABLE : une forte prouvee y echappe en bloc. Femmes qu'elle tient pour fortes - Maki et Mai (juste la mauvaise disposition en 0/100, pas une tare de fond), ses eleves (ses gosses : elle veut y voir le bon), et les exorcistes Shoko, Mei Mei, Utahime, Yuki Tsukumo. Mais dans les faits, seules Yuki, Maki, Mai et Mei Mei depassent le simple soutien - d'ou la persistance du prejuge par defaut.
+- L'override AFFECTIF : avec les siens, le prejuge tombe net. Cle de voute, Tsumiki - profane sans pouvoir, donc "faible" au sens le plus strict de sa grille, et protegee absolue. Tsumiki n'est meme pas du clan : au domaine, elle vient en fille du foyer Gojo, Nisha en bouclier face au vieux clan. L'amour est hors du registre comptable de la puissance, exactement comme son propre statut d'exception. [DIVERGENCE RP] cf. Personnages/Nisha/Tsumiki.
+- Vision du pouvoir, post-Toji (ete 2006, cf. Roadmap/Nisha/Roadmap_2e_Annee) : frolant la mort face a Toji, elle comprend que les jumelles n'etaient pas faibles mais sabotees (symbiose jamais permise, partage en fardeau). Le reflexe perso demeure, mais sa vision se cristallise avec Naoya - non un darwinisme qui jette les faibles, mais une meritocratie PATERNALISTE : les forts dirigent et protegent les faibles du clan, qui gardent moins de droits ; le rang se merite (fin du nepotisme), l'ordre abrite. C'est l'endgame que les quatre jumeaux visent en renversant les patriarches. cf. Personnages/Nisha/Femmes_Zenin.
 
 ## Lien avec Naoya
 - Adoration mutuelle, zero jalousie. Naoya meprise les femmes du clan, sauf elle.

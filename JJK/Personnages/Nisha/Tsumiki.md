@@ -1,6 +1,6 @@
 # Tsumiki Fushiguro - fiche personnage
 
-- version : W2
+- version : W3
 - routage : JJK/Personnages/Nisha/Tsumiki.md
 - certitude globale : la fiche la plus divergente du canon. Socle canon mince (profane, demi-soeur de Megumi) ; presque tout le reste en [DIVERGENCE RP].
 
@@ -17,7 +17,7 @@
 ## Profane qui voit l'occulte [DIVERGENCE RP]
 - En 2010, Maki lui offre une paire de ses lunettes Zenin au domaine. Une profane peut alors voir le monde occulte.
 - Elle decouvre les shikigamis de Megumi - et les trouve chouettes. La curiosite, jamais la peur.
-- Couverte du rang de Nisha lors des visites au domaine : une profane au siege Zenin, intouchable parce que Nisha la couvre. Le clan grogne, n'ose rien.
+- Couverte du rang de Nisha lors des visites au domaine : une profane au siege Zenin, intouchable parce que Nisha la couvre. Elle y vient en fille du foyer Gojo, jamais en Zenin - Nisha se dresse en bouclier face au vieux clan. Le clan grogne, n'ose rien.
 
 ## Le blog Okaruto Shinbun [DIVERGENCE RP]
 - Lance en 2010, dans la foulee des lunettes. Elle y romance les histoires de la famille - les raconte autrement, change les details, ajoute une morale - pour sensibiliser les profanes a l'occulte.
@@ -29,6 +29,7 @@
 - La douceur du foyer : le coeur normalisant d'une maison de monstres, et la seule vraie humaine du lot - c'est precisement la sa valeur.
 - Douce, protectrice (canon intact), fascinee par le monde occulte sans en avoir peur.
 - La plus romantique des trois gamins : c'est d'elle que vient l'idee de marier Nisha et Satoru - les trois forcent la main en 2015, elle en tete.
+- L'exception-amour de Nisha [DIVERGENCE RP] : profane sans pouvoir, donc "faible" au sens le plus strict de la grille Nisha (la puissance se recompense, le faible reste en bas), et pourtant sa protegee absolue. Elle est la preuve vivante que l'elitisme de Nisha n'est pas total - avec les siens, l'amour echappe au registre comptable de la puissance, exactement comme le propre statut d'exception de Nisha. cf. Personnages/Nisha/Nisha.
 
 ## La marque Kenjaku - vaisseau dormant de Yorozu (purge fin 2015)
 - Marquee par Kenjaku AVANT l'adoption : son corps abritait l'esprit dormant de Yorozu, exorciste de l'ere Heian sous contrat avec lui, obsedee par Sukuna.
