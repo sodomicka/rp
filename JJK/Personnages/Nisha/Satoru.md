@@ -1,6 +1,6 @@
 # Satoru Gojo - rival, cible, amant
 
-- version : W3
+- version : W4
 - routage : JJK/Personnages/Nisha/Satoru.md
 - note : fiche de l'HOMME. La maison (lignee, Six Yeux, Infini, heraldique, ancetre Michizane, paradoxe du fleuron) vit en Clans/Gojo - non duplique ici.
 - certitude globale : socle canon etabli (capacites, personnalite, trajectoire) ; relation a Nisha et scaling en [DIVERGENCE RP]
@@ -51,13 +51,14 @@
 - Cout relationnel de cette vigilance : elle appelle moins souvent Naoya, et le couple, tout tourne vers l'etat de Satoru puis vers les enfants a venir, ne voit pas Suguru sombrer (cf. Roadmap_2e_Annee, etapes 8-9).
 
 ## Futur connu (canon, hors arc)
-- 2006 : s'eveille contre Toji Fushiguro, devient le plus fort (arc desormais cadre par Roadmap_2e_Annee). Echec de la mission Receptacle d'Etoile (mort de Riko). Rupture consommee avec les anciens Gojo, puis defection de Geto qu'il devra affronter.
+- 2006 : s'eveille contre Toji Fushiguro, devient le plus fort (arc desormais cadre par Roadmap_2e_Annee). Echec de la mission Receptacle d'Etoile (mort de Riko) - avant l'arc, Nisha les avait prevenus, lui et Suguru, de ne pas s'attacher a Riko (entite cosmique, ressource pour Tengen, pas une fillette a sauver) ; benchee sur l'affaire, elle n'y participe pas, et c'est Satoru qui lui relaiera tout apres la mort de Toji (cf. Personnages/Nisha/Riko). [DIVERGENCE RP] Rupture consommee avec les anciens Gojo, puis defection de Geto qu'il devra affronter.
 - 2018 : porte le sort a l'apogee du clan lors de la convergence (plan Eien-Kenjaku, BIBLE SB1/SB3).
 
 ## Renvois
 - La maison Gojo (Six Yeux, Infini, lignee, blason) : cf. Clans/Gojo.
 - Itineraire des annees : cf. Roadmap/Nisha/Roadmap_1e_Annee et Roadmap_2e_Annee.
 - Suguru (l'autre moitie du duo) : cf. Personnages/Nisha/Suguru.
+- Riko (Receptacle d'Etoile, avertissement) : cf. Personnages/Nisha/Riko.
 - Cout calorique de la Chronostase, vitesse et acceleration de Nisha : cf. Personnages/Nisha/Nisha_Capacites.
 
 ---
