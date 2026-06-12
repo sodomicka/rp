@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W24
+- version : W25
 
 ## WIKI
 
@@ -55,7 +55,7 @@ Description : itineraires par arc, perspective de Nisha.
 - Roadmap_1e_Annee.md (W3) - 1e annee a Tokyo (avril 2005 - 1er janvier 2006), annee calme hors canon : rentree, le quatuor, competition inter-lycees, promotion Special (automne 2005), couple Nisha-Satoru au nouvel an.
 - Roadmap_2e_Annee.md (W3) - de l'anniversaire des 16 ans (30 jan 2006) au seuil de l'adoption (fev 2007) : arc canon du Receptacle d'Etoile (Hidden Inventory, plein ete 2006), Eveil-eclipse en detonation, bandeau et ancrage de Satoru, fissure de Geto, conversation Toji et conception du plan Maki (automne 2006), decision d'adoption.
 - Roadmap_La_Longue_Partie.md (W2) - de l'adoption (fev 2007) au lendemain du rendez-vous avec Kenjaku (fin 2015), cinq arcs : foyer de Saitama et defection de Geto (2007) ; arc calme 2008-2013 (vocation de profs, Okaruto Shinbun, Panda) ; extraction de Maki (2014) ; noces (2015) ; ultimatum Kenjaku-Eien, vente de Satoru, avortement secret (endpoint 2015).
-- Roadmap_Guerison.md (W1) - du lendemain de la confession (fin 2015) a la veille de la rentree 2018, quatre arcs : duel Yorozu dans Le Temps Infini et delivrance de Tsumiki (fin 2015) ; reconstruction et conseils Construction a Mai (2016) ; annee a Kyoto 2017 (rentree des 2e annees Todo-Noritoshi-Momo, inter-lycee edition 2017, quotidien) ; Nuit des Cent Demons sur le front de Kyoto et Nisha pilier de Satoru (dec 2017), seuil du canon (endpoint mars 2018).
+- Roadmap_Guerison.md (W2) - du lendemain de la confession (fin 2015) a la veille de la rentree 2018, quatre arcs : duel Yorozu dans Le Temps Infini et delivrance de Tsumiki (fin 2015) ; reconstruction et conseils Construction a Mai (2016) ; annee a Kyoto 2017 (rentree des 2e annees Todo-Noritoshi-Momo, inter-lycee edition 2017 a plateau de prodiges 6 contre 6 supervise par le couple Special car Yuta porte encore Rika, quotidien) ; Nuit des Cent Demons sur le front de Kyoto, methode clanique sans prisonnier et Nisha pilier de Satoru (dec 2017), seuil du canon avec suspension de Hakari (endpoint mars 2018).
 
 ## PARTIES (Partie1)
 
