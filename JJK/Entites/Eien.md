@@ -1,6 +1,6 @@
 # Eien
 
-- version : W4
+- version : W5
 
 ## Nature
 - Calamite (fleau). Humaine a l'origine, devenue fleau il y a si longtemps qu'elle ignore si son premier corps etait homme ou femme. Indifferent pour elle.
@@ -49,7 +49,7 @@
 - Detail structurel du plan : cf. BIBLE SB1.
 
 ## Histoire (corps marquants) [DIVERGENCE RP]
-- Ere Meiji : Eien habite le corps connu comme Nanao Kamo, secretaire de Noritoshi Kamo (alors Kenjaku). Kenjaku la met enceinte des foetus des Peintures de Mort (cursed womb, neuf phases). Greffe sur un trou canon : la mere des Peintures de Mort, dont le canon dit les archives detruites.
+- Ere Meiji : Eien habite le corps connu comme Nanao Kamo, secretaire de Noritoshi Kamo (alors Kenjaku). Kenjaku l'engrosse de Choso, l'aine des neuf Peintures de Mort. Divergence RP : les neuf wombs ont neuf meres et un seul pere (Kenjaku) - Eien-Nanao ne porte que Choso, pas les neuf. Greffe sur un trou canon : le canon dit les archives de la mere detruites, donc le RP en fait Eien-Nanao, mere de Choso.
 - Mere des jumeaux : choix orchestre depuis Heian, pas hasard. Le plan visait la lignee Zenin ; Eien savait quelle pretendante serait l'uterus ideal pour Naobito. La compatibilite occulte que le clan croit avoir flairee est une piece posee par les architectes.
 - 1989 : lisant l'energie occulte des jumeaux in utero, Eien juge celle de Nisha plus singuliere que celle de Naoya (rapportee a Naobito) et investit Nisha.
 
