@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W28
+- version : W29
 
 ## WIKI
 
@@ -21,16 +21,16 @@ Description : les grandes familles d'exorcistes.
 
 ### Personnages/Nisha/
 Description : la protagoniste et son entourage - canon et relation a elle (clan Zenin, promo de Tokyo, autorites scolaires, eleves de Kyoto).
-- Nisha.md (W6) - protagoniste : identite, backstory (1e annee a Tokyo, Special automne 2005, couple avec Satoru), entourage, Eien (capacites separees).
+- Nisha.md (W7) - protagoniste : identite, backstory (1e annee a Tokyo, Special automne 2005, couple avec Satoru), entourage, Eien (capacites separees), modele de misogynie consolide (reflexe sexue refutable, override affectif, vision meritocratie paternaliste post-Toji).
 - Nisha_Capacites.md (W4) - capacites de Nisha : Chronostase, Chronokinesie via Eien, les deux Domaines (Le Temps Infini eprouve au duel Yorozu), couts et economie, rang #2 derriere Gojo et combo gemellaire.
-- Naoya.md (W3) - jumeau : Projection, symbiose gemellaire, Hei des 10 ans, cursus Kyoto avec Ranta, brimades, tradition du 30 janvier.
+- Naoya.md (W4) - jumeau : Projection, symbiose gemellaire, Hei des 10 ans, cursus Kyoto avec Ranta, brimades puis bascule protectrice post-Toji, reflexe misogyne vs conviction (forge Mai malgre l'apriori), tradition du 30 janvier.
 - Naobito.md (W2) - pere, 26e chef : enfants-armes, Nisha sacree, mariage Gojo.
 - Ogi.md (W2) - oncle aigri : Blazing Courage, respect/haine des jumeaux, honte de ses filles.
 - Toji.md (W2) - cousin renie : Restriction Celeste, Tueur d'Exorcistes, ancrage 2006.
 - Jinichi.md (W2) - cousin, frere aine de Toji : Missile Fists, chef du Hei en 2006, efface par honte.
 - Ranta.md (W2) - Hei, orphelin loyal : Regard paralysant, l'exception gentille mais soumise.
 - Hei.md (W2) - unite d'elite : nature, hierarchie complete, Chojuro (sort de pierre), unite Kukuru.
-- Femmes_Zenin.md (W2) - condition feminine du clan : castes, mariage-monnaie, exception Nisha.
+- Femmes_Zenin.md (W3) - condition feminine du clan : castes, mariage-monnaie, exception Nisha, endgame des quatre jumeaux (de la misogynie a la meritocratie paternaliste).
 - Maki.md (W1) - Restriction Celeste partielle, refuge des deux jumeaux, extraction 2014, pupille du couple et 2e grande soeur de Megumi, complot des quatre jumeaux, pari 0/100.
 - Mai.md (W1) - Construction (revolver), forgee par Naoya a Kyoto, adhesion clanique en exception cachee, froid reconciliable avec Maki, complot des quatre jumeaux, equipe de Kyoto.
 - Satoru.md (W4) - rival, cible matrimoniale puis amant : l'homme (perso), scaling 2005 et post-Toji 2006, debat vitesse/compression, bandeau et ancrage humain, trajectoire amoureuse, avertissement Riko (relai post-Toji). Maison : cf. Clans/Gojo.
@@ -46,8 +46,10 @@ Description : la protagoniste et son entourage - canon et relation a elle (clan 
 - Momo.md (W1) - Momo Nishimiya : 2e annee Kyoto 2017 (3e en 2018), semi-grade 2, Manipulation d'Outil (balai, Kamaitachi), support et reconnaissance, devote a Mai ; formee a l'effacement par Nisha, grief feminin retourne en cadeau.
 - Yuta.md (W1) - Yuta Okkotsu : 1e annee Tokyo 2017 (2e en 2018, exil africain), humain grade special, Rika la Reine des Fleaux (sous-section), Copie, branche Okkotsu (parent de Satoru) hors-plan ; projet de Satoru puis protege du couple, copie la Chronokinesie de Nisha (pas la balistique), miroir Eien refuse.
 - Toge.md (W1) - Toge Inumaki : 1e annee Tokyo 2017 (2e en 2018), semi-grade 1, clan Inumaki, Parole Maudite (onigiri, recul gorge) ; 3e du trio Maki-Toge-Panda avant Yuta, pote des gamins de Nisha, comic relief utile ; sort compare a Ranta, aparte Eien (Inumaki-Zenin, spec non confirmee).
+- Kirara.md (W1) - Kirara Hoshi : eleve Tokyo (2e annee 2017-2018), Love Rendezvous (attraction stellaire, Croix du Sud), genre volontairement ambigu (iel ; range en femme par la grille Nisha), Classe 4 plafonnee (double illisibilite sort + genre), suit Hakari apres sa suspension (Gachinko Fight Club), coequipiere inter-lycee 2017.
+- Kinji.md (W1) - Kinji Hakari : eleve Tokyo (2e annee 2017-2018), Private Pure Love Train, domaine Idle Death Gamble (jackpot 1/239 -> 4 min 11 illimite + RCT auto), Classe Speciale selon Satoru / officiel Classe 1 puis retire, suspendu mars 2018 (doyen Kamo tabasse), futur rival cite par Gojo, posture retributive de Nisha.
 - Megumi.md (W1) - Dix Ombres, vendu par Toji puis adopte (fev 2007), eleve a la mecanique du clan sans les valeurs, verite Toji a 10 ans, desinteresse de la politique clanique.
-- Tsumiki.md (W2) - profane eveillee qui voit l'occulte (lunettes de Maki, 2010), blog Okaruto Shinbun, ex-vaisseau dormant de Yorozu (marque Kenjaku, Eien se tait) purge par le duel dans Le Temps Infini (fin 2015), vraie fille du couple desormais libre.
+- Tsumiki.md (W3) - profane eveillee qui voit l'occulte (lunettes de Maki, 2010), blog Okaruto Shinbun, exception-amour absolue de Nisha (fille du foyer Gojo, hors grille), ex-vaisseau dormant de Yorozu (marque Kenjaku, Eien se tait) purge par le duel dans Le Temps Infini (fin 2015), vraie fille du couple desormais libre.
 
 ### Systemes/
 Description : regles de pouvoir du monde.
