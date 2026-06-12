@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W22
+- version : W24
 
 ## WIKI
 
@@ -10,7 +10,7 @@
 Description : calamites et entites du lore profond.
 - Eien.md (W5) - calamite millenaire, Chronokinesie, Jardin des Eres Mortes, domaines en etat domine, vaisseau choisi in utero, scellee en Nisha ; mere de Choso via le corps Nanao (Meiji).
 - Kenjaku.md (W1) - parasite millenaire (echange de cervelle), amant et co-architecte d'Eien (amour symetrique), corps Noritoshi Kamo a Meiji, neuf Peintures de Mort (neuf meres / un pere), rendez-vous punitif de 2015, corps de Geto en 2017.
-- Yorozu.md (W1) - sorciere Heian (Construction), obsession fanatique a sens unique pour Sukuna (miroir sombre du couple Eien-Kenjaku), graine dormante dans Tsumiki, detonation Yorozu vers Sukuna-dans-Yuji laissee ouverte.
+- Yorozu.md (W2) - sorciere Heian (Construction), obsession fanatique a sens unique pour Sukuna (miroir sombre du couple Eien-Kenjaku), jadis graine dormante dans Tsumiki, EXTERMINEE par Nisha dans Le Temps Infini (fin 2015) ; graine Eien->Sukuna armee (revelation a Sukuna en 2018).
 
 ### Clans/
 Description : les grandes familles d'exorcistes.
@@ -22,7 +22,7 @@ Description : les grandes familles d'exorcistes.
 ### Personnages/Nisha/
 Description : la protagoniste et son entourage - canon et relation a elle (clan Zenin, promo de Tokyo, autorites scolaires).
 - Nisha.md (W6) - protagoniste : identite, backstory (1e annee a Tokyo, Special automne 2005, couple avec Satoru), entourage, Eien (capacites separees).
-- Nisha_Capacites.md (W2) - capacites de Nisha : Chronostase, Chronokinesie via Eien, les deux Domaines, couts et economie.
+- Nisha_Capacites.md (W3) - capacites de Nisha : Chronostase, Chronokinesie via Eien, les deux Domaines (Le Temps Infini eprouve au duel Yorozu), couts et economie, rang #2 derriere Gojo et combo gemellaire.
 - Naoya.md (W3) - jumeau : Projection, symbiose gemellaire, Hei des 10 ans, cursus Kyoto avec Ranta, brimades, tradition du 30 janvier.
 - Naobito.md (W2) - pere, 26e chef : enfants-armes, Nisha sacree, mariage Gojo.
 - Ogi.md (W2) - oncle aigri : Blazing Courage, respect/haine des jumeaux, honte de ses filles.
@@ -42,7 +42,7 @@ Description : la protagoniste et son entourage - canon et relation a elle (clan 
 - Panda.md (W1) - cadavre maudit a mutation brusque, trois noyaux (Panda/Gorille/Triceratops), co-concu par Nisha (noyaux figes en Chronostase) et Yaga, Triceratops ne tolere que Yaga et Nisha, banc commun avec Maki, carte Gakuganji.
 - Gakuganji.md (W2) - principal de Kyoto, haute instance conservatrice : guitare/ondes, arbitre neutre et ciment du bloc Zenin-Kamo, respect mutuel avec Nisha, investit les heritiers trad.
 - Megumi.md (W1) - Dix Ombres, vendu par Toji puis adopte (fev 2007), eleve a la mecanique du clan sans les valeurs, verite Toji a 10 ans, desinteresse de la politique clanique.
-- Tsumiki.md (W1) - profane eveillee qui voit l'occulte (lunettes de Maki, 2010), blog Okaruto Shinbun, vaisseau dormant de Yorozu (marque Kenjaku, Eien se tait), duel possible dans Le Temps Infini, vraie fille du couple.
+- Tsumiki.md (W2) - profane eveillee qui voit l'occulte (lunettes de Maki, 2010), blog Okaruto Shinbun, ex-vaisseau dormant de Yorozu (marque Kenjaku, Eien se tait) purge par le duel dans Le Temps Infini (fin 2015), vraie fille du couple desormais libre.
 
 ### Systemes/
 Description : regles de pouvoir du monde.
@@ -55,6 +55,7 @@ Description : itineraires par arc, perspective de Nisha.
 - Roadmap_1e_Annee.md (W3) - 1e annee a Tokyo (avril 2005 - 1er janvier 2006), annee calme hors canon : rentree, le quatuor, competition inter-lycees, promotion Special (automne 2005), couple Nisha-Satoru au nouvel an.
 - Roadmap_2e_Annee.md (W3) - de l'anniversaire des 16 ans (30 jan 2006) au seuil de l'adoption (fev 2007) : arc canon du Receptacle d'Etoile (Hidden Inventory, plein ete 2006), Eveil-eclipse en detonation, bandeau et ancrage de Satoru, fissure de Geto, conversation Toji et conception du plan Maki (automne 2006), decision d'adoption.
 - Roadmap_La_Longue_Partie.md (W2) - de l'adoption (fev 2007) au lendemain du rendez-vous avec Kenjaku (fin 2015), cinq arcs : foyer de Saitama et defection de Geto (2007) ; arc calme 2008-2013 (vocation de profs, Okaruto Shinbun, Panda) ; extraction de Maki (2014) ; noces (2015) ; ultimatum Kenjaku-Eien, vente de Satoru, avortement secret (endpoint 2015).
+- Roadmap_Guerison.md (W1) - du lendemain de la confession (fin 2015) a la veille de la rentree 2018, quatre arcs : duel Yorozu dans Le Temps Infini et delivrance de Tsumiki (fin 2015) ; reconstruction et conseils Construction a Mai (2016) ; annee a Kyoto 2017 (rentree des 2e annees Todo-Noritoshi-Momo, inter-lycee edition 2017, quotidien) ; Nuit des Cent Demons sur le front de Kyoto et Nisha pilier de Satoru (dec 2017), seuil du canon (endpoint mars 2018).
 
 ## PARTIES (Partie1)
 
