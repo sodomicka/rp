@@ -283,9 +283,11 @@ FIN_WIKI_ROADMAP_<ARC>
 
 ### Gabarit Fiche d'arc
 
-Les fiches d'arc vivent dans `{Univers}/Fiches_Arc/<Prota>/`, par perspective de prota, comme les roadmaps. Une fiche par arc. C'est un DOCUMENT DE JEU PERMANENT : le MJ la charge une fois a l'ouverture de thread (cf. Instructions RP S4) et elle reste en contexte tout le thread, contrairement aux fiches d'entites fetchees a la demande.
+Les fiches d'arc vivent dans `{Univers}/Fiches_Arc/<Prota>/`, par perspective de prota, comme les roadmaps. C'est un DOCUMENT DE JEU PERMANENT : le MJ la charge une fois a l'ouverture de thread (cf. Instructions RP S4) et elle reste en contexte tout le thread, contrairement aux fiches d'entites fetchees a la demande.
 
-Principe directeur : la roadmap dit OU on va (jalons, futur compris) ; la fiche d'arc dit QUI/QUOI est en scene AU DEPART de l'arc, et seulement au depart. Elle reunit en un seul document le casting que le MJ devait sinon fetcher entite par entite, MAIS tronque a la frontiere de l'arc.
+GRANULARITE (regle ferme). Une ROADMAP couvre une saga / un gros bloc d'itineraire et se decompose en ETAPES. L'unite-arc, c'est l'ETAPE : UNE etape de roadmap = UN arc = UNE fiche d'arc. Pas de regroupement d'etapes, pas de decoupage a arbitrer - le decoupage est deja porte par la segmentation de la roadmap. Une roadmap de N etapes produit donc N fiches d'arc (le compte total peut etre eleve, c'est attendu et voulu).
+
+Principe directeur : la roadmap dit OU on va (jalons de toute la saga, futur compris) ; la fiche d'arc est une MINI-BIBLE AUTOSUFFISANTE de l'etape - elle reunit TOUT ce qu'il faut pour jouer cette etape sans rouvrir la grosse BIBLE (source de confusion en jeu) : le casting en scene AU DEPART de l'etape, plus le lore d'arc condense (les points de BIBLE / fiches strictement pertinents pour cette etape, reformules court). Elle remplace a la fois le fetch entite-par-entite ET la lecture de la BIBLE en narration. MAIS elle reste tronquee a la frontiere de l'etape (cf. regle de troncature).
 
 REGLE DE TRONCATURE (le coeur de la fiche). Chaque entite est decrite dans l'etat ou elle se trouve A L'OUVERTURE de l'arc - jamais d'apres :
 - Etat, relations, position, savoir : tels qu'ils sont au premier battement jouable de l'arc.
@@ -297,7 +299,7 @@ IRONIE STRUCTURELLE vs PREFIGURATION SPECIFIQUE (distinction a ne pas confondre)
 - La PREFIGURATION SPECIFIQUE en prose ("ce qu'il ne comprendra que des siecles plus tard", un evenement futur annonce dans le recit) est une FUITE. C'est elle que la troncature coupe.
 - Test : un fait sert l'ironie connue du JOUEUR (CODEX) -> garder cote CODEX. Un fait dit au MJ ce qui arrivera PLUS TARD dans l'arc -> roadmap, hors fiche d'arc.
 
-Budget : meme contrainte que les autres pages WIKI (500-2000 tokens). Si le casting d'un arc deborde, scinder (ex. `Fiches_Arc/<Prota>/<Arc>_partie1.md`).
+Budget : la fiche d'arc est l'EXCEPTION au plafond des pages WIKI. Comme c'est le SEUL document de lore charge a l'ouverture (la BIBLE n'est plus lue en jeu), elle a le droit d'etre lourde : aussi courte que possible, aussi longue que necessaire pour etre autosuffisante sur l'etape. Pas de plafond serre type 500-2000 tokens. Reste oriente "ce qu'il faut pour jouer l'etape" : on rapatrie le lore PERTINENT, condense (pas d'extraits integraux de la BIBLE), jamais du remplissage. Si une etape est vraiment massive, scinder (ex. `Fiches_Arc/<Prota>/<Arc>_partie1.md`).
 
 ```
 # Fiche_Arc_<Arc>
@@ -310,6 +312,12 @@ Budget : meme contrainte que les autres pages WIKI (500-2000 tokens). Si le cast
 - Lieu(x) de depart : <ou commence l'arc>
 - Situation initiale : <etat du monde au premier battement, sans rien annoncer de la suite>
 - Echelle temporelle de l'arc : <duree totale, ex. ~190 ans - cale l'ecoulement par defaut, cf. roadmap colonne Duree>
+
+## Lore d'arc condense (mini-bible)
+Le lore strictement necessaire pour jouer cette etape sans rouvrir la grosse BIBLE. Condense, reformule court (pas d'extraits integraux). Borne a l'ouverture de l'etape : un point de lore qui ne se REVELE qu'au cours de l'etape n'a pas sa place ici (cf. troncature).
+- Contexte de l'etape : <ce qui s'est passe avant, l'enjeu de cette etape, ce qui amene les personnages la - vu depuis l'ouverture>
+- Lore pertinent : <regles du monde, systemes, faits d'univers que le MJ doit avoir en tete pour CETTE etape - condense des sections BIBLE / fiches concernees, reformule>
+- Enjeux et fils chauds : <Tchekhov actifs a l'ouverture (etat initial seul), savoirs / ironies en jeu - sans annoncer leur aboutissement>
 
 ## PNJ presents ou evoques a l'ouverture
 Pour chaque PNJ : etat A L'OUVERTURE uniquement.
