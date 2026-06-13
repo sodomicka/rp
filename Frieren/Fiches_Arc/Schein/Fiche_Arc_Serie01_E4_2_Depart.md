@@ -1,0 +1,44 @@
+# Fiche_Arc_Serie01_E4_2_Depart
+
+- version : W1
+- roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_01_Premier_Contact.md
+- frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
+- arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie01_E4_1_Aveu_Question.md
+- arc suivant : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chasse_E1_1_Depart_Resolution.md
+
+## Cadre d'ouverture
+- Lieu(x) de depart : meme lieu que l'Etape 4.1 - campement, meme nuit ou lendemain matin.
+- Situation initiale : la scene de l'Etape 4.1 vient d'avoir lieu. La tension est maximum. Schein est dans l'etat qui suit sa menace. La separation est imminente mais pas encore actee a l'ouverture.
+- Echelle temporelle de l'arc : ~740 av. An 0, quelques heures apres l'Etape 4.1.
+
+## Lore d'arc condense (mini-bible)
+- Contexte de l'etape : l'aveu de Serie a revele le miroir : le meme calcul que le Roi, formule par la femme aimee. 150 ans de premier amour arrivent a leur point de rupture. Schein doit partir ou rester dans un monde ou son amour et son ennemi partagent le meme raisonnement.
+- Lore pertinent :
+  - Arsenal de Schein acquis aupres de Serie : suppression de mana (branche demoniaque), detection de mana demoniaque, dissimulation, sorts de reparation d'equipement. Ces acquisitions sont definitives et portables.
+  - Sorts de Schein appris par Serie : Zoltraak blanc, soins, purification hors des 3% des Ecritures. Ces sorts resteront chez Serie apres le depart.
+  - La condition posee : \" pas tant que mon pere vivra \". Fonction : limite posee a Serie. Fonction parallele : promesse que Schein se fait a lui-meme.
+  - Serie : devastee, incomprehension sincere. Sa position lui semble inattaquable. Elle ne comprend pas que la blessure de Schein est une identite, pas un probleme a resoudre.
+  - Schein a ~1 040 ans, ~18 apparents. ~836 ans de silence commencent apres ce moment.
+  - Roi des Demons (evoque) : le Roi vit encore. La condition ne peut pas etre levee. La guerilla reprend, solitaire.
+- Enjeux et fils chauds :
+  - Peur d'aimer (Tchekhov, detonation en cours) : premier amour brise. Etat a l'ouverture : la separation n'est pas encore accomplie - la scene est dans l'entre-deux.
+  - Serie et le pantheon-famille (Tchekhov actif) : les sorts de Schein qu'elle a appris deviennent des reliques a compter du depart. Etat initial : elle les possede, la rupture n'est pas encore consommee.
+
+## PNJ presents ou evoques a l'ouverture
+- Serie - compagne de 150 ans, en etat de choc | couple qui se brise | devastee, incomprehension sincere | cf. WIKI Personnages/Serie_Fiche.md et Personnages/Serie_Rapport_Schein.md
+- Roi des Demons (evoque, absent) - cible ultime dont la mort leverait la condition | cf. WIKI Personnages/Roi_Des_Demons.md
+
+## Lieux de l'arc
+- Meme campement que l'Etape 4.1 | pas de fiche WIKI distincte
+
+## Objets presents ou evoques
+- Sorts acquis de Serie (dans le corps de Schein) - suppression de mana, detection, dissimulation, reparation | portables, acquis definitivement | pas de fiche WIKI
+
+## Notes de frontiere
+- La phrase exacte du depart de Schein -> roadmap.
+- La reaction de Serie apres le depart -> roadmap.
+- Le silence de 836 ans qui suit -> Roadmap_Chasse_Solo.
+- Ce que les sorts de Schein deviendront pour Serie (reliques) -> roadmap.
+
+---
+FIN_WIKI_FICHE_ARC_SERIE01_E4_2_DEPART
