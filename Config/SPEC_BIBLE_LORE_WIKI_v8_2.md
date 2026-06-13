@@ -11,7 +11,7 @@ Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_
 Revision 2026-05-29 : regle d'encodage = tout fichier .md en ASCII strict, le reste libre (decision worldbuilder). S4 reecrite en consequence ; identifiants de section ecrits SB0..SB9 ; signe section U+00A7 -> S, tiret cadratin U+2014 -> -.
 Revision v8.0 (changements majeurs) : regle de placement neutre/perspective par precedent (S7) ; frontiere univers/partie (instance jouee hors BIBLE/WIKI, entite y figure si lore - canon ou OC promu) ; hierarchie BIBLE/WIKI par scope ; roadmaps par perspective `Roadmap/<Prota>/` ; metadonnees SB0 allegees (focus/scope/date retires) ; versions par page dans le Sommaire ; plus de `cf. PARTIES` cote BIBLE.
 Revision v8.1 : portee ASCII corrigee (tous les .md du systeme, CODEX compris ; les instructions .txt restent accentuees) ; section 10 reduite aux invariants + renvoi vers Instructions RP (fin des regles de narration dupliquees qui desynchronisaient en silence : invention prudente sur fetch echoue, budget 2-3 vs 3) ; note Sommaire (pages refroidies creees par CODEX BUILD indexees au prochain BIBLE BUILD seulement ; entre-temps l'index Refroidi du CODEX fait foi) ; references Config en v8_1.
-Revision v8.2 (chantier archi) : nouveau livrable WIKI = FICHE D'ARC, document de jeu permanent charge une fois a l'ouverture de thread et tronque a la FRONTIERE de l'arc (etat des entites tel qu'il est a l'ouverture, rien d'apres - anti-prefiguration). Vit dans `{Univers}/Fiches_Arc/<Prota>/`, par perspective de prota, comme les roadmaps. Buildee en mode Wiki (sous-mode dedie), apres les roadmaps, avant le CODEX V1. Porte la DUREE CHIFFREE par bloc jouable (correctif ellipse : chaque bloc de roadmap porte son echelle temporelle reelle, ex. "~190 ans", pour caler la vitesse du temps sur l'arc). Distinction maintenue entre ironie structurelle (vit dans le CODEX, conservee) et prefiguration specifique (la fiche tronquee empeche le MJ d'en savoir trop). Gabarit Roadmap etendu d'une colonne duree. Sommaire et SB9 etendus au dossier Fiches_Arc. References Config en v8_2.
+Revision v8.2 (chantier archi) : nouveau livrable WIKI = FICHE D'ARC, document de jeu permanent charge une fois a l'ouverture de thread et tronque a la FRONTIERE de l'arc (etat des entites tel qu'il est a l'ouverture, rien d'apres - anti-prefiguration). Vit dans `{Univers}/Fiches_Arc/<Prota>/`, par perspective de prota, comme les roadmaps. Buildee en mode Wiki (sous-mode dedie), apres les roadmaps, avant le CODEX V1. Porte la DUREE CHIFFREE par bloc jouable (correctif ellipse : chaque bloc de roadmap porte son echelle temporelle reelle, ex. "~190 ans", pour caler la vitesse du temps sur l'arc). Distinction maintenue entre ironie structurelle (vit dans le CODEX, conservee) et prefiguration specifique (la fiche tronquee empeche le MJ d'en savoir trop). Gabarit Roadmap etendu d'une colonne duree. Sommaire et SB9 etendus au dossier Fiches_Arc. NAVIGATION (sous-revision archi) : la fiche d'arc est une MINI-BIBLE AUTOSUFFISANTE (casting + lieux + objets + lore d'arc condense) qui remplace en jeu le fetch entite-par-entite ET la lecture de la grosse BIBLE ; granularite ferme (une etape de roadmap = un arc = une fiche). Elle porte `arc precedent` / `arc suivant` (chainage local de proche en proche, bifurcation = un pointeur suivant par sortie). Les ROADMAPS sortent de l'index Sommaire : sources de BUILD seulement, jamais fetchees en jeu (futur de la saga). La MEMOIRE LONGUE du chemin parcouru vit dans le CODEX ANNEXE_CHRONO (Fil des arcs) + Parties/Archives (note ANTI-AMNESIE, section 3). References Config en v8_2.
 Consultation : fetchee au premier BIBLE BUILD. Entre deux builds, la BIBLE elle-meme sert de reference - ses sections vides conservent le gabarit de cette spec pour que le MJ n'ait plus a la refetcher.
 
 ---
@@ -52,12 +52,14 @@ CODEX (vivant, memoire chaude de session)
         |-> Decisions/ (bifurcations prises dans ce RP)
 ```
 
-Le CODEX ANNEXE_CHRONO > Arcs pointe vers la page Roadmap concernee via `roadmap: cf. WIKI Roadmap/<Prota>/<page>.md` et vers la fiche d'arc via `fiche_arc: cf. WIKI Fiches_Arc/<Prota>/<page>.md`. La roadmap et la fiche d'arc sont par perspective de prota ; les decisions specifiques a un RP sont tracees dans `Parties/{Univers}/Partie<n>/Decisions/`.
+Le CODEX ANNEXE_CHRONO pointe vers la fiche d'arc COURANTE via `fiche_arc: cf. WIKI Fiches_Arc/<Prota>/<page>.md`, et tient le FIL LONG des arcs traverses (suite ordonnee des arcs deja joues -> arc courant -> arc suivant prevu) : c'est lui, pas la roadmap, qui porte la memoire du chemin parcouru en jeu. Le renvoi `roadmap: cf. WIKI Roadmap/<Prota>/<page>.md` ne sert qu'au BUILD (creer la fiche d'arc) et n'est PAS fetche en narration. La fiche d'arc et la roadmap sont par perspective de prota ; les decisions specifiques a un RP sont tracees dans `Parties/{Univers}/Partie<n>/Decisions/`, et le passe joue archive dans `Parties/{Univers}/Partie<n>/Archives/`.
 
 ### Roadmap, fiche d'arc, CODEX : trois roles distincts
-- ROADMAP (`Roadmap/<Prota>/`) : l'ITINERAIRE - les jalons jouables dans l'ordre, conditions d'avancement, bifurcations. Couvre tout l'arc, futur compris. Ressource de build et de cadrage MJ ; en narration, fetchee a l'ouverture mais ne se lit pas comme un script de prose.
-- FICHE D'ARC (`Fiches_Arc/<Prota>/`) : le CASTING tronque - PNJ, lieux, objets de l'arc, decrits dans l'etat ou ils sont A L'OUVERTURE de l'arc, rien d'apres. Document de jeu permanent : charge une fois a l'ouverture de thread, reste tout le thread. La troncature a la frontiere empeche le MJ de prefigurer le futur en prose.
-- CODEX (ANNEXE_CHRONO) : l'ETAT D'ARC vivant - jalon courant, prochain jalon, statut. Reinjecte en tete chaque tour (immunite lost-in-the-middle). C'est le CODEX, pas la roadmap enfouie, qui tient ou on en est.
+- ROADMAP (`Roadmap/<Prota>/`) : l'ITINERAIRE de toute la saga - les jalons jouables dans l'ordre, conditions d'avancement, bifurcations, futur compris. SOURCE DE BUILD UNIQUEMENT : matiere premiere des fiches d'arc (une etape = une fiche), lue en mode Wiki en listant le dossier. NON indexee au Sommaire, JAMAIS fetchee en narration (le MJ qui lirait le futur de la saga prefigurerait en prose). Reste au repo comme reference de construction.
+- FICHE D'ARC (`Fiches_Arc/<Prota>/`) : la MINI-BIBLE AUTOSUFFISANTE de l'etape - casting + lieux + objets + lore d'arc condense, tout decrit dans l'etat ou il est A L'OUVERTURE de l'arc, rien d'apres. Document de jeu permanent : charge une fois a l'ouverture de thread, reste tout le thread ; remplace en jeu le fetch entite-par-entite ET la lecture de la grosse BIBLE. Maillon de navigation : porte `arc precedent` / `arc suivant` (chainage local de proche en proche, sans index global). La troncature a la frontiere empeche le MJ de prefigurer le futur en prose.
+- CODEX (ANNEXE_CHRONO) : l'ETAT D'ARC vivant ET LE FIL LONG - jalon courant, prochain jalon, statut, PLUS la suite ordonnee des arcs deja traverses (memoire du chemin parcouru). Reinjecte en tete chaque tour (immunite lost-in-the-middle). C'est le CODEX - pas la roadmap (futur prevu, hors jeu), pas la fiche d'arc (qui ignore le passe) - qui tient ou on en est ET d'ou l'on vient. Le detail archive du passe joue (scenes closes) vit dans Parties/Archives, fetchable a la demande.
+
+> ANTI-AMNESIE (v8.2). En jeu on ne consulte ni la grosse BIBLE ni les roadmaps. La memoire de l'histoire ne repose donc PAS sur ces deux sources mais sur deux autres, par horizon : (a) MEMOIRE LONGUE / coherence du chemin -> CODEX ANNEXE_CHRONO (fil ordonne des arcs traverses) + Parties/Archives (detail des scenes closes, fetch a la demande) ; (b) ARC COURANT -> la fiche d'arc chargee. La roadmap decrit le FUTUR PREVU, pas le PASSE VECU : ce n'est pas un substitut de memoire. Si un fait de fond profond manque vraiment et n'est ni en CODEX, ni en fiche, ni en Archives -> fetch cible Parties/Archives ou, en dernier recours hors jeu, la BIBLE complete.
 
 ### Flux de resolution d'un fait lore
 1. CODEX (divergence fraiche du RP ?) -> si oui, utiliser.
@@ -307,6 +309,10 @@ Budget : la fiche d'arc est l'EXCEPTION au plafond des pages WIKI. Comme c'est l
 - version : W<N>
 - roadmap liee : cf. WIKI Roadmap/<Prota>/Roadmap_<Arc>.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
+- arc precedent : cf. WIKI Fiches_Arc/<Prota>/Fiche_Arc_<ArcPrecedent>.md   (ou "aucun - premier arc")
+- arc suivant : cf. WIKI Fiches_Arc/<Prota>/Fiche_Arc_<ArcSuivant>.md   (ou "aucun - fin ouverte / dernier arc")
+
+> CHAINAGE LOCAL (v8.2). Les champs `arc precedent` / `arc suivant` font de chaque fiche un maillon : la navigation entre arcs se fait DE PROCHE EN PROCHE par ces pointeurs, sans repasser par un index global des roadmaps (les roadmaps ne sont plus indexees au Sommaire en jeu - cf. note Roadmap du Sommaire). BIFURCATION : si l'arc debouche sur plusieurs suites (ex. branche canon vs branche divergente), lister UN pointeur `arc suivant` par sortie, chacun annote de sa condition (ex. "si <condition A> -> Fiche_Arc_<X>.md ; si <condition B> -> Fiche_Arc_<Y>.md"). FIN OUVERTE : `arc suivant : aucun`. La MEMOIRE du chemin deja parcouru ne vit PAS ici (la fiche ignore le passe joue) : elle vit dans le CODEX ANNEXE_CHRONO (fil long des arcs traverses) et dans Parties/Archives - cf. section 3, trois roles.
 
 ## Cadre d'ouverture
 - Lieu(x) de depart : <ou commence l'arc>
@@ -353,13 +359,11 @@ FIN_WIKI_FICHE_ARC_<ARC>
 Description : <contenu du dossier en 1 ligne>
 - <Page>.md (W<N>) - <description courte du contenu>
 
-### Roadmap/<Prota>/
-Description : itineraires par arc, par PERSPECTIVE de prota (un sous-dossier par prota joue).
-- Roadmap_<Arc>.md (W<N>) - <description courte>
-
 ### Fiches_Arc/<Prota>/
-Description : fiches de narration par arc (casting tronque a la frontiere de l'arc), par PERSPECTIVE de prota. Chargees une fois a l'ouverture de thread.
+Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par PERSPECTIVE de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs `arc precedent` / `arc suivant` de chaque fiche), pas par un index des roadmaps.
 - Fiche_Arc_<Arc>.md (W<N>) - <description courte>
+
+> ROADMAPS NON INDEXEES EN JEU (v8.2). Le dossier `Roadmap/<Prota>/` n'est PLUS liste au Sommaire. Les roadmaps restent physiquement au repo - ce sont des SOURCES DE BUILD (matiere premiere des fiches d'arc), lues en mode Wiki en listant directement le dossier `Roadmap/<Prota>/` (cf. ACCES GITHUB), jamais via le Sommaire. En jeu (RP), le MJ ne fetch jamais de roadmap : il navigue d'arc en arc par les fiches, et tient le fil long via le CODEX ANNEXE_CHRONO. Indexer les roadmaps au Sommaire les ferait croire fetchables en narration et alourdirait l'index sans usage de jeu - on les en sort donc volontairement.
 
 ## PARTIES (Partie<n>)
 

@@ -2,7 +2,7 @@
 
 <!-- rev. v8.0 (changements majeurs et exhaustifs) : section Capacites dediee S3a (anti-boucle) ; S3a/S3b invariants/courant + description physique + resume de backstory ; regle de promotion ; test de saillance ; decouplage des versions (pointeur souple) ; frontiere univers/partie (instance jouee -> CODEX+Parties ; entite -> BIBLE/WIKI si lore). Le 7.x etait un stress-test ; le 8.0 acte ces invariants. -->
 <!-- rev. v8.1 : ASCII total (S-notation, fin de l'exemption signe-section/cadratin) ; metadonnee taille au build (le signal d'archivage devient une lecture, plus une estimation) ; livrable 3 renomme Memoire_{Univers}_<n> (destine au joueur, hors repo, hors budget, aucun cf.) ; index Refroidi PERMANENT dans ANNEXE_CHRONO (substitut du Sommaire pour Parties/ entre deux BIBLE BUILDs) ; audit 1 rescope aux sources en contexte ; arbitrage promotion vs unicite ; purge des interdits inertes (S6) ; CORE porte a 8 000 (S3a n'est plus un pointeur) ; retrait du vestige 'V2+ sous Instructions RP' ; collision T<n> resolue (Tour n en CHRONO). -->
-<!-- rev. v8.2 (chantier archi) : ANNEXE_CHRONO > Arcs porte desormais l'ETAT D'ARC (jalon courant + prochain jalon, deja present) ET un renvoi fiche_arc: cf. WIKI Fiches_Arc/<Prota>/<page>.md a cote du renvoi roadmap. La fiche d'arc est un document de jeu permanent (buildee au WIKI BUILD, fetchee une fois a l'ouverture de thread, tronquee a la frontiere de l'arc) : le CODEX y renvoie, il ne la regenere pas. Aligne sur Instructions RP v8.2 (S4 fetch refondu : casting charge a l'ouverture via la fiche d'arc, fetch live sur trou objectif seulement) et SPEC_BIBLE_LORE_WIKI v8.2 (gabarit Fiche d'arc). -->
+<!-- rev. v8.2 (chantier archi) : ANNEXE_CHRONO porte (1) l'ETAT D'ARC courant (jalon courant + prochain jalon) avec renvoi fiche_arc: cf. WIKI Fiches_Arc/<Prota>/<page>.md ; (2) le FIL DES ARCS - suite ordonnee des arcs traverses (memoire longue / anti-amnesie : en jeu on ne lit ni la grosse BIBLE ni les roadmaps, donc ce fil + Parties/Archives sont le substitut de memoire). La fiche d'arc est une mini-bible autosuffisante, document de jeu permanent (buildee au WIKI BUILD, fetchee une fois a l'ouverture, tronquee a la frontiere) : le CODEX y renvoie, il ne la regenere pas. Le renvoi roadmap: est marque (build) : source de creation des fiches, JAMAIS fetche en narration (futur de la saga -> risque de prefiguration). Aligne sur Instructions RP v8.2 (S4 : fiche d'arc a l'ouverture, plus de fetch roadmap en jeu, fetch live sur trou objectif seulement) et SPEC_BIBLE_LORE_WIKI v8.2 (gabarit Fiche d'arc avec arc precedent/suivant, Sommaire sans roadmaps, note ANTI-AMNESIE). -->
 
 Ce fichier definit la forme, les regles de construction et le gabarit du `CODEX_NARRATIF_vX.md`.
 Il sert de reference unique en mode CODEX BUILD.
@@ -304,10 +304,17 @@ Vide = sain.
 ### Threads anterieurs (une ligne par arc resolu)
 - <arc resolu>
 
-### Arcs
-`Arc - enjeu | jalon courant | prochain jalon | statut | roadmap: cf. WIKI Roadmap/<Prota>/<page>.md | fiche_arc: cf. WIKI Fiches_Arc/<Prota>/<page>.md`
-- <arc> - <enjeu> | <jalon> | <prochain> | <ouvert/suspendu/clos> | roadmap: cf. WIKI Roadmap/<Prota>/<page>.md | fiche_arc: cf. WIKI Fiches_Arc/<Prota>/<page>.md
-- L'etat d'arc (jalon courant / prochain jalon) est tenu A JOUR ici au fil du thread ; la fiche d'arc, elle, est figee a l'ouverture (cf. SPEC_BIBLE_LORE_WIKI, gabarit Fiche d'arc). Le renvoi fiche_arc: pointe la page fetchee une fois a l'ouverture.
+### Fil des arcs (memoire longue - anti-amnesie)
+La suite ORDONNEE des arcs traverses dans ce RP, du premier joue jusqu'a l'arc courant, puis l'arc suivant prevu. C'est ICI que vit la memoire du chemin parcouru : en jeu on ne lit ni la grosse BIBLE ni les roadmaps, donc ce fil est le substitut de memoire pour la coherence de fond (cf. SPEC_BIBLE_LORE_WIKI, note ANTI-AMNESIE). Une ligne par arc, dans l'ordre de jeu.
+`<#> - <Arc> : <issue / etat 1 ligne> (detail clos : cf. PARTIES Archives/<page>.md si archive)`
+- 1 - <Arc1> : <issue>
+- 2 - <Arc2> : <issue>
+- ... -> arc courant (cf. section Arcs ci-dessous) -> arc suivant prevu : <Arc suivant>
+
+### Arcs (etat courant)
+`Arc - enjeu | jalon courant | prochain jalon | statut | fiche_arc: cf. WIKI Fiches_Arc/<Prota>/<page>.md | (build) roadmap: cf. WIKI Roadmap/<Prota>/<page>.md`
+- <arc> - <enjeu> | <jalon> | <prochain> | <ouvert/suspendu/clos> | fiche_arc: cf. WIKI Fiches_Arc/<Prota>/<page>.md | (build) roadmap: cf. WIKI Roadmap/<Prota>/<page>.md
+- L'etat d'arc (jalon courant / prochain jalon) est tenu A JOUR ici au fil du thread ; la fiche d'arc, elle, est figee a l'ouverture (cf. SPEC_BIBLE_LORE_WIKI, gabarit Fiche d'arc). Le renvoi fiche_arc: pointe la page fetchee une fois a l'ouverture. Le renvoi roadmap: est marque (build) : il ne sert qu'a (re)construire une fiche d'arc en mode Wiki, JAMAIS au fetch en narration (la roadmap porte le futur de la saga -> risque de prefiguration).
 
 ### Refroidi (index PERMANENT - survit au test de saillance)
 `<entite ou groupe> -> cf. PARTIES <dossier>/<page>.md`
