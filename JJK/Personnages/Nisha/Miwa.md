@@ -1,6 +1,6 @@
 # Kasumi Miwa - fiche personnage
 
-- version : W2
+- version : W3
 - routage : JJK/Personnages/Nisha/Miwa.md
 - certitude globale : socle canon etabli ; redirections RP (admiration du couple, arc d'acceptation par Nisha, role Cent Demons) en [DIVERGENCE RP]
 
@@ -25,7 +25,7 @@
 ## Admiration du couple et arc d'acceptation [DIVERGENCE RP]
 - Le canon lui prete une idolatrie pour Gojo ; le RP la redirige en admiration sincere pour LE COUPLE Gojo-Nisha. Avoir Nisha comme professeur, c'etait son reve.
 - Douche froide a l'arrivee : Nisha demande a Gakuganji de la degager. Elle ne veut pas s'attacher a "un dechet pareil" - precisement parce qu'elle sait qu'elle s'attacherait, et s'en protege.
-- Utahime la fait flechir. Deux leviers : ce que Miwa a fait a la Nuit des Cent Demons (cf. Jalons), et un retournement de l'argument de l'argent - Mei Mei aussi exorcise pour l'argent, sauf que Mei Mei batit une fortune quand Kasumi, elle, ne fait que survivre.
+- Utahime la fait flechir. Deux leviers : ce que Miwa a fait a la Nuit des Cent Demons - elle a sauve la vie d'Utahime (cf. Jalons) - et un retournement de l'argument de l'argent : Mei Mei aussi exorcise pour l'argent, sauf que Mei Mei batit une fortune quand Kasumi, elle, ne fait que survivre.
 - L'epreuve : Nisha l'ecrase dans Le Temps Infini (son domaine non-letal, supportable par une quasi-profane - le Jardin etant celui d'Eien). Miwa tente son Domaine Simple en contre-mesure. Elle echoue - mais Nisha l'accepte pour la bravoure du geste.
 - Suite : Nisha s'attache pour de bon. Relation mentor-eleve tendre, l'une des plus douces de toute sa classe.
 
@@ -35,13 +35,13 @@
 
 ## Jalons
 - 2017 : 1e annee a Kyoto Jujutsu High ; une des six de l'equipe Kyoto a l'inter-lycee (plateau de prodiges 6 contre 6).
-- 24 dec 2017, Nuit des Cent Demons : 1e annee deployee sous les ordres d'Utahime pour boucler le perimetre (avec Mechamaru ; Mai, elle, accompagne Naoya). Bonne reactivite face a des fleaux qui fondent sur le groupe de 1e annees, en synergie avec Mechamaru qui la couvre (il carbonise les fleaux-mouches qui l'embusquent) - fait vante par Utahime, qui le ressortira pour plaider sa cause aupres de Nisha.
+- 24 dec 2017, Nuit des Cent Demons : 1e annee deployee sous les ordres d'Utahime pour boucler le perimetre (avec Mechamaru ; Mai, elle, accompagne Naoya). Utahime, isolee, affronte seule un fleau de Classe 1 et frole la mort - Miwa et Mechamaru la sauvent in extremis (Batto de Miwa, Mechamaru qui carbonise les fleaux-mouches d'embuscade). C'est de la qu'Utahime tient sa cicatrice. Fait d'armes capital : Utahime le brandira pour plaider la cause de Miwa aupres de Nisha - litteralement, cette gamine lui a sauve la vie.
 - 2018 : 2e annee ; passe sous l'aile de Nisha. Arc d'acceptation (rejet -> epreuve -> attachement).
 
 ## Fils ouverts et renvois
 - Maki impitoyable (2018) : le beat canon "Maki lui prend son sabre sans effort" est redirige vers 2018, a jouer en roadmap. CONDITIONNEL.
-- Fil Mechamaru : sentiments du garcon, lien a distance jamais incarne (il meurt avant de la rencontrer), bonne synergie au combat aux Cent Demons - cf. Personnages/Nisha/Mechamaru.
-- Utahime et Mei Mei : collegues profs, renvois a venir (Lot E) - Utahime pivot de l'arc d'acceptation, Mei Mei point de comparaison sur l'argent.
+- Fil Mechamaru : sentiments du garcon, lien a distance jamais incarne (il meurt avant de la rencontrer), synergie au combat aux Cent Demons ou ils sauvent Utahime ensemble - cf. Personnages/Nisha/Mechamaru.
+- Utahime (pivot de l'arc d'acceptation, sauvee par Miwa et Mechamaru aux Cent Demons, d'ou sa cicatrice) : cf. Personnages/Nisha/Utahime. Mei Mei (point de comparaison sur l'argent) : cf. Personnages/Nisha/MeiMei.
 - Modele de misogynie de Nisha applique a une faible hors clan : cf. Personnages/Nisha/Nisha, Personnages/Nisha/Femmes_Zenin, Personnages/Nisha/Momo (template support).
 
 ---
