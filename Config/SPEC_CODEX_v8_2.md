@@ -2,7 +2,7 @@
 
 <!-- rev. v8.0 (changements majeurs et exhaustifs) : section Capacites dediee S3a (anti-boucle) ; S3a/S3b invariants/courant + description physique + resume de backstory ; regle de promotion ; test de saillance ; decouplage des versions (pointeur souple) ; frontiere univers/partie (instance jouee -> CODEX+Parties ; entite -> BIBLE/WIKI si lore). Le 7.x etait un stress-test ; le 8.0 acte ces invariants. -->
 <!-- rev. v8.1 : ASCII total (S-notation, fin de l'exemption signe-section/cadratin) ; metadonnee taille au build (le signal d'archivage devient une lecture, plus une estimation) ; livrable 3 renomme Memoire_{Univers}_<n> (destine au joueur, hors repo, hors budget, aucun cf.) ; index Refroidi PERMANENT dans ANNEXE_CHRONO (substitut du Sommaire pour Parties/ entre deux BIBLE BUILDs) ; audit 1 rescope aux sources en contexte ; arbitrage promotion vs unicite ; purge des interdits inertes (S6) ; CORE porte a 8 000 (S3a n'est plus un pointeur) ; retrait du vestige 'V2+ sous Instructions RP' ; collision T<n> resolue (Tour n en CHRONO). -->
-<!-- rev. v8.2 (chantier archi) : ANNEXE_CHRONO porte (1) l'ETAT D'ARC courant (jalon courant + prochain jalon) avec renvoi fiche_arc: cf. WIKI Fiches_Arc/<Prota>/<page>.md ; (2) le FIL DES ARCS - suite ordonnee des arcs traverses (memoire longue / anti-amnesie : en jeu on ne lit ni la grosse BIBLE ni les roadmaps, donc ce fil + Parties/Archives sont le substitut de memoire). La fiche d'arc est une mini-bible autosuffisante, document de jeu permanent (buildee au WIKI BUILD, fetchee une fois a l'ouverture, tronquee a la frontiere) : le CODEX y renvoie, il ne la regenere pas. Le renvoi roadmap: est marque (build) : source de creation des fiches, JAMAIS fetche en narration (futur de la saga -> risque de prefiguration). Aligne sur Instructions RP v8.2 (S4 : fiche d'arc a l'ouverture, plus de fetch roadmap en jeu, fetch live sur trou objectif seulement) et SPEC_BIBLE_LORE_WIKI v8.2 (gabarit Fiche d'arc avec arc precedent/suivant, Sommaire sans roadmaps, note ANTI-AMNESIE). -->
+<!-- rev. v8.2 (chantier archi) : ANNEXE_CHRONO porte (1) l'ETAT D'ARC courant (jalon courant + prochain jalon) avec renvoi fiche_arc: cf. WIKI Fiches_Arc/<Prota>/<page>.md ; (2) le FIL DES ARCS - suite ordonnee des arcs traverses (memoire longue / anti-amnesie : en jeu on ne lit ni la grosse BIBLE ni les roadmaps, donc ce fil + Parties/Archives sont le substitut de memoire). La fiche d'arc est une mini-bible autosuffisante, document de jeu permanent (buildee au WIKI BUILD, fetchee une fois a l'ouverture, tronquee a la frontiere) : le CODEX y renvoie, il ne la regenere pas. Le renvoi roadmap: est marque (build) : source de creation des fiches, JAMAIS fetche en narration (futur de la saga -> risque de prefiguration). Aligne sur Instructions RP v8.2 (S4 : fiche d'arc a l'ouverture, plus de fetch roadmap en jeu, fetch live sur trou objectif seulement) et SPEC_BIBLE_LORE_WIKI v8.2 (gabarit Fiche d'arc avec arc precedent/suivant, Sommaire sans roadmaps, note ANTI-AMNESIE). PLAFOND porte a 45 000 car (11 000 stable / 34 000 cumulatif ; signal d'archivage a 80% = 36 000) : la BIBLE n'occupant plus le budget de projet en jeu, le CODEX recupere de la marge. Contrainte de cohabitation CODEX + BIBLE (<= 100 000) RETIREE : le CODEX V1 se build a la fin des instructions Wiki, BIBLE deja retiree, les deux ne coexistent jamais dans les fichiers de projet. -->
 
 Ce fichier definit la forme, les regles de construction et le gabarit du `CODEX_NARRATIF_vX.md`.
 Il sert de reference unique en mode CODEX BUILD.
@@ -46,8 +46,8 @@ Consultation : fetchee au premier CODEX BUILD (V1 sous Instructions Wiki ; V2+ d
 ## 3. Budget
 
 ### Plafond
-- Plafond dur : CODEX <= 35 000 caracteres.
-- Contrainte globale : CODEX + BIBLE_LORE <= 100 000 caracteres (seuil RAG des fichiers de projet). Garantie par construction : 35 000 (CODEX) + 55 000 (BIBLE) = 90 000, marge 10 000.
+- Plafond dur : CODEX <= 45 000 caracteres.
+- Plus de contrainte de cohabitation CODEX + BIBLE (v8.2). Le CODEX V1 se build A LA FIN des instructions Wiki, une fois la BIBLE deja RETIREE des fichiers de projet (bascule jeu, regle tout-ou-rien) : CODEX et BIBLE ne sont jamais charges simultanement dans les fichiers de projet. L'ancien plafond commun (CODEX + BIBLE_LORE <= 100 000, seuil RAG) ne decrivait plus aucune situation reelle et est retire. En jeu, seul le CODEX (45 000 max) + la fiche d'arc courante occupent le budget de projet.
 - Verification au build : `wc -m` (caracteres, locale UTF-8) sur le fichier genere.
 - Depassement : signaler, proposer des compressions par gain decroissant (caracteres recuperes + ce qu'on perd), le joueur tranche. Compresser, jamais supprimer l'information utile sans validation.
 
@@ -58,14 +58,15 @@ Sections stables (plafonds fixes) :
 - ANNEXE_STYLE : max 2 000 caracteres.
 - ANNEXE_LORE (buffer divergences fraiches) : max 1 000 caracteres.
 - Total stable : max 11 000 caracteres.
+- Total CODEX (stable + cumulatif) : max 45 000 caracteres.
 
-Sections cumulatives (solde = 24 000 caracteres) :
+Sections cumulatives (solde = 34 000 caracteres) :
 - ANNEXE_PNJ + ANNEXE_CHRONO + ANNEXE_INVENTAIRE + ANNEXE_TCHEKHOV + ANNEXE_SAVOIRS.
 - Repartition libre entre elles selon les besoins du RP.
 
 ### Signal d'archivage
 - La taille mesuree au build (wc -m) est ECRITE dans la metadonnee `taille au build` (S1). En narration, le signal est une LECTURE de cette metadonnee, jamais une estimation du modele.
-- Le CODEX etant statique pendant un thread, le signal s'evalue UNE FOIS, a l'ouverture : si taille au build >= 80% du plafond (28 000 car) -> `[ARCHIVAGE SUGGERE - CODEX a X% du plafond. Compresser CHRONO et/ou archiver dans Parties/.]`
+- Le CODEX etant statique pendant un thread, le signal s'evalue UNE FOIS, a l'ouverture : si taille au build >= 80% du plafond (45 000 car, soit 36 000 car) -> `[ARCHIVAGE SUGGERE - CODEX a X% du plafond. Compresser CHRONO et/ou archiver dans Parties/.]`
 - Le joueur decide. Le MJ ne force pas.
 
 ## 4. Regle d'unicite des faits
@@ -166,7 +167,7 @@ Convention de nommage Parties/ :
 ## 7. Audit de compression
 Avant de livrer le CODEX, verifier silencieusement :
 1. Chaque fait n'apparait qu'une fois dans les sources EN CONTEXTE (CODEX, BIBLE, narration brute, instructions). Pour WIKI/Parties (pages non chargees) : spot-check via Sommaire / index Refroidi sur les seuls faits SUSPECTS de doublon - aucune pretention a verifier exhaustivement des pages absentes du contexte.
-2. Le plafond 35 000 car est respecte (11 000 stable / 24 000 cumulatif), taille mesuree au wc -m et REPORTEE dans la metadonnee `taille au build` ; grep -nP '[^\x00-\x7F]' revient vide.
+2. Le plafond 45 000 car est respecte (11 000 stable / 34 000 cumulatif), taille mesuree au wc -m et REPORTEE dans la metadonnee `taille au build` ; grep -nP '[^\x00-\x7F]' revient vide.
 3. Les sections ne se repetent pas.
 4. Le texte reste exploitable sans thread externe.
 5. Tout doute est marque `[INCERTAIN]`.
@@ -196,7 +197,7 @@ Avant de livrer le CODEX, verifier silencieusement :
 - date reelle de derniere mise a jour: <AAAA-MM-JJ>
   note: les tampons OOC (S5) et interdits (S6) utilisent [V<n>], pas la date.
 - codex_version: V<N>
-- plafond: 35 000 car.
+- plafond: 45 000 car.
 - taille au build: <wc -m> car. (<X>% du plafond)
 - bible_lore: <nom du fichier BIBLE_LORE si presente, sinon "aucune"> (sans numero de version)
 - dernier sync BIBLE: <B<x> si BIBLE presente, advisory non bloquant ; sinon "n/a">

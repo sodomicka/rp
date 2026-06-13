@@ -96,7 +96,7 @@ Chaque fait porte implicitement le niveau "etabli" sauf balisage contraire :
 ## 5. BIBLE_LORE - Budget
 
 Plafond dur : 55 000 caracteres.
-Contrainte globale : CODEX + BIBLE_LORE <= 100 000 caracteres (seuil RAG des fichiers de projet). Garantie par construction : 55 000 (BIBLE) + 35 000 (CODEX) = 90 000, marge 10 000.
+Plus de contrainte de cohabitation CODEX + BIBLE (v8.2) : le CODEX V1 se build a la fin des instructions Wiki, une fois la BIBLE retiree des fichiers de projet (bascule jeu, tout-ou-rien). BIBLE et CODEX ne sont jamais charges simultanement ; l'ancien plafond commun (<= 100 000, seuil RAG) est retire. La BIBLE garde son plafond propre de 55 000 caracteres pour la phase build.
 Verification au build : `wc -m` (caracteres, locale UTF-8) sur le fichier genere. Depassement : signaler, proposer des compressions par gain decroissant (caracteres recuperes + ce qu'on perd), le worldbuilder tranche. Compresser, jamais supprimer l'information utile sans validation.
 
 Repartition indicative (guide, pas plafonds rigides par section) :
