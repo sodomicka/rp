@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W1
+- version : W2
 
 ## Identite
 - Nom : Nisha Zenin. OC. Protagoniste.
@@ -49,13 +49,14 @@
 - Resonance de combat : ensemble et en symbiose, ils depassent la somme de leurs puissances. Forgee a l'entrainement depuis l'enfance.
 
 ## Eien (parasite) - relation a Nisha
-Fiche propre d'Eien : a venir (squelette du monde, autre thread). Ici, seul son rapport a Nisha.
-- Eien : fleau Grade Special millenaire (OC), compagne de Kenjaku.
+Fiche propre d'Eien : cf. WIKI Personnages/Eien.md. Ici, seul son rapport a Nisha.
+- Eien : fleau Grade Special millenaire (OC), amante de Kenjaku.
 - Mode operatoire : marque une femme enceinte, s'implante dans le foetus, le gorge d'energie occulte pour le rendre viable, se revele comme "amie" a 4 ans, offre la Chronokinesie, puis ecrase la conscience de l'hote a 10 ans pour user du sort a pleine puissance.
 - Avec Nisha : l'hote a domine le parasite. Putsch tente en 2000 (10 ans), echoue. Nisha = geoliere. Eien = passagere consciente, matee, qui fait profil bas et complote en silence. Schema Sukuna/Yuji inverse.
+- Regle de bascule : Eien ne peut PAS prendre le controle de force. Elle le pourrait si Nisha baissait sa garde (par amour). Faille latente, non exploitee a ce stade.
 - Communication : Nisha et Eien se parlent en se projetant spirituellement dans le territoire d'Eien, le Jardin des Eres Mortes.
 - Regle hote/parasite (canon) : Nisha ne deploiera jamais le Jardin en combat (un hote n'accede pas au domaine de son parasite). Le Jardin reste l'espace interieur de dialogue.
-- Ironie centrale : la forme ultime de la Chronokinesie d'Eien (le gel) est exactement la Chronostase native de Nisha. Eien n'atteint qu'en territoire, et seulement si elle controlait le corps, ce que Nisha porte nativement et en entier. Hote parfaite, inexploitable a jamais.
+- Ironie centrale : la forme ultime de la Chronokinesie d'Eien (le gel) est exactement la Chronostase native de Nisha. Eien n'y atteint qu'en territoire, et seulement si elle controlait le corps, ce que Nisha porte nativement et en entier. Hote parfaite, inexploitable DE FORCE.
 
 ## Naoya - relation a Nisha
 Fiche propre de Naoya : a venir (autre thread). Ici, seul son rapport a Nisha.
@@ -109,8 +110,8 @@ Apportees par le conseil Zenin (Naobito, Jinichi, Ogi).
 
 ## Notes de frontiere (reporte hors de ce build)
 - Backstory COMPLETE detaillee + instance jouee : a venir en Parties/JJK/Partie1/Suivi/ + CODEX (setup / V1).
-- Fiches propres d'Eien, Naoya, Kenjaku : autre thread (squelette du monde).
-- Cosmogonie du couple Eien/Kenjaku, origine des trois familles : autre thread.
+- Fiches propres d'Eien et Kenjaku : cf. WIKI Personnages/. Fiche de Naoya : a venir (autre thread).
+- Cosmogonie du couple, origine des trois familles : cf. WIKI Cosmogonie/Trois_Esprits.md.
 - Mecanique des territoires (justification du domaine a 8 ans, raison de la crainte d'Eien) : autre thread.
 - Gojo mort en 2018 = canon ; impact d'une Nisha numero 2 a ses cotes = point ouvert, a trancher plus tard.
 
