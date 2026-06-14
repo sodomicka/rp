@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Power-scaling
 
-- version : W1
+- version : W2
 
 ## Unite
 - Unite de puissance de l'univers = le doigt de Sukuna.
@@ -59,31 +59,55 @@ Le label de grade sature vite ; au-dela, c'est le nombre de doigts qui discrimin
 | 7-8 | Special | 1 |
 | 9+ | Special | Special |
 
-Note : Grade Special 1 (rang elite Zenin, hors Jujutsu High) est un palier administratif, pas une marche de puissance distincte sur cette echelle.
+Note : Grade Special 1 (rang elite des grandes familles, hors Jujutsu High - le fourre-tout pour Special et Grade 1 des clans) est un palier administratif, pas une marche de puissance distincte sur cette echelle.
 
 ## Reperes chiffres
 | Entite | Doigts | Puissance (%) | Note |
 |---|---|---|---|
+| Soldats du Hei (Ranta, Chojuro, Nobuaki) | ~5 | ~7.44 | [DIVERGENCE RP] Semi-Grade 1, plancher du Hei |
+| Ogi | 7 | 11.33 | [DIVERGENCE RP] Grade 1, pilier du Hei |
+| Naoya (lycee) | 8 | 14.09 | [DIVERGENCE RP] |
+| Jinichi | 10 | 21.41 | [DIVERGENCE RP] pilier du Hei |
 | Gojo (pre-Toji) | 12 | 31.30 | avant sa transcendance (2006) |
+| Naobito | 12 | 31.30 | [DIVERGENCE RP] patriarche, Grade Special 1 |
 | Geto (lycee) | 12 | 31.30 | 2005-2007 |
+| Jogo | 13 | 37.26 | canon : prend Naobito de vitesse, one-shot a Shibuya |
 | Nisha (lycee) | 13 | 37.26 | [DIVERGENCE RP] numero 1 mondiale ~2005-2006 |
-| Toji | 17 | 68.44 | canon, hors-clan invisible |
+| Naoya (adulte) | 14 | 43.94 | [DIVERGENCE RP] |
+| Toji | 17 | 68.44 | canon, hors-clan invisible, hors classement (non reconnu exorciste) |
 | Geto (gourou, 2015) | 17-18 | 68-78 | vrai Geto vivant |
 | Nisha (adulte) | 18 | 78.15 | [DIVERGENCE RP] |
-| Maki (adulte, 0% energie occulte) | 18 | 78.15 | voie Toji (vide), miroir de Nisha (trop-plein) |
 | Sukuna (complet) | 20 | 100.00 | reference de l'echelle |
 | Gojo (post-Toji) | 23 | 139.07 | apogee atteinte tres tot, plafond |
 
+Symbiose Nisha-Naoya : etat de combat a deux (2 contre 1), hors du classement individuel. 17 doigts (68 %) au lycee, 24 (~154 %) adulte - depasse la somme des deux (effet de resonance) et franchit transitoirement le Sukuna brut.
+
+## Partage gemellaire (Maki / Mai)
+Le pool gemellaire des jumelles d'Ogi se repartit le long d'un curseur a somme constante (les parts des deux totalisent 100 %). Chaque repartition fixe la puissance des deux :
+
+| Repartition | Maki | Mai |
+|---|---|---|
+| Maki 50 / Mai 50 | 6 | 1 |
+| Maki 40 / Mai 60 | 8 | 8 |
+| Maki 25 / Mai 75 | 12 | 12 |
+| Maki 0 / Mai 100 | 18 | 18 |
+
+- Pour Maki (Restriction Celeste physique), MOINS d'energie occulte = PLUS de puissance : a 0 % elle atteint le corps de monstre, voie Toji (18). A l'etat de base (50/50) elle est bridee a 6, et plafonnee Grade 4 par blocage politique du clan.
+- Pour Mai (sort de Construction), c'est l'inverse : plus d'energie occulte = plus de puissance ; a 100 % elle culmine a 18. A l'etat de base, Mai = 1 doigt (Semi-Grade 2).
+- Mecanique du curseur (declencheurs des bascules, enjeux narratifs) -> roadmap.
+
 ## Plafond mondial
-Gojo post-Toji (23 doigts / 139 %) n'est depasse que par trois etres, dans des conditions particulieres :
+Gojo post-Toji (23 doigts / 139 %) n'est depasse, en 1 contre 1, que par trois etres, dans des conditions particulieres :
 - Sukuna dans Megumi a 20 doigts sur 20 (receptacle parfait).
 - Yuta dans le corps de Satoru adulte.
 - Yuji adulte.
 
 ## Notes de certitude
-- Reperes Nisha : [DIVERGENCE RP] (OC).
+- Reperes Nisha, Naobito, Naoya, Jinichi, Ogi, soldats du Hei : [DIVERGENCE RP] (OC ou lecture worldbuilder).
+- Partage gemellaire Maki/Mai : [DIVERGENCE RP], table fournie par le worldbuilder ; mecanique du curseur -> roadmap.
+- Jogo : canon (estimation ~8 doigts en lecture lineaire = 40 %, relue ~13 doigts sur la courbe non lineaire).
 - Geto 2015 : vrai Geto. Kenjaku occupe son corps a partir de fin 2017 (donc "Geto 2015" = le vrai, vivant).
-- Gojo, Toji, Maki, Sukuna : lecture worldbuilder, coherente avec le canon.
+- Gojo, Toji, Maki (a 0 %), Sukuna : lecture worldbuilder, coherente avec le canon.
 
 ---
 
