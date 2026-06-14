@@ -1,14 +1,20 @@
 # Sommaire - JJK
 
-- version : W1
+- version : W3
 
 ## WIKI
 
 > Chaque entree porte la version (W<N>) de la page. Un ecart avec le W<N> ecrit dans la page signale une copie perimee (canari, non bloquant).
 
+### Cosmogonie/
+Description : cosmogonie fondatrice du monde.
+- Trois_Esprits.md (W2) - les trois esprits vengeurs (onryo) = premiers fleaux, fondation des trois familles, greffes inter-clans, pacte avec Sukuna, origine de la Restriction Celeste.
+
 ### Personnages/
 Description : fiches personnages du monde.
-- Nisha.md (W1) - fiche noyau de Nisha Zenin (OC, protagoniste, jumelle de Naoya).
+- Nisha.md (W2) - fiche noyau de Nisha Zenin (OC, protagoniste, jumelle de Naoya).
+- Eien.md (W1) - fiche noyau d'Eien (OC, fleau Grade Special, parasite de Nisha, co-architecte avec Kenjaku).
+- Kenjaku.md (W1) - fiche noyau de Kenjaku (canon + RP : origine Kamo, amant et co-architecte d'Eien).
 
 ### Power_Scaling/
 Description : systeme de puissance de l'univers.
