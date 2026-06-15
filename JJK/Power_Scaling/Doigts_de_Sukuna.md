@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Power-scaling
 
-- version : W2
+- version : W3
 
 ## Unite
 - Unite de puissance de l'univers = le doigt de Sukuna.
@@ -64,9 +64,16 @@ Note : Grade Special 1 (rang elite des grandes familles, hors Jujutsu High - le 
 ## Reperes chiffres
 | Entite | Doigts | Puissance (%) | Note |
 |---|---|---|---|
+| Utahime (2005) | 4 | 6.24 | [DIVERGENCE RP] Grade 2, lecture soutien, hors-axe combat |
 | Soldats du Hei (Ranta, Chojuro, Nobuaki) | ~5 | ~7.44 | [DIVERGENCE RP] Semi-Grade 1, plancher du Hei |
+| Shoko | 5 | 7.44 | [DIVERGENCE RP vs canon] Semi-Grade 1 a vie, lecture soin + reserve, hors-axe combat |
+| Mei Mei (2005) | 5 | 7.44 | [DIVERGENCE RP] Semi-Grade 1, etudiante de 3e annee a Kyoto |
+| Utahime (post-2008) | 5 | 7.44 | [DIVERGENCE RP] Semi-Grade 1, lecture soutien, hors-axe combat |
 | Ogi | 7 | 11.33 | [DIVERGENCE RP] Grade 1, pilier du Hei |
+| Yaga | 7 | 11.33 | [DIVERGENCE RP] Grade 1, seuil du Special par le savoir-faire (creation d'une ame autonome), pas la puissance |
+| Mei Mei (post-2008) | 7 | 11.33 | [DIVERGENCE RP] Grade 1, niveau Yaga / Ogi |
 | Naoya (lycee) | 8 | 14.09 | [DIVERGENCE RP] |
+| Gakuganji | 9 | 17.44 | [DIVERGENCE RP] Grade Special 1 (hors-grading des ecoles), plus fort que Yaga |
 | Jinichi | 10 | 21.41 | [DIVERGENCE RP] pilier du Hei |
 | Gojo (pre-Toji) | 12 | 31.30 | avant sa transcendance (2006) |
 | Naobito | 12 | 31.30 | [DIVERGENCE RP] patriarche, Grade Special 1 |
@@ -104,6 +111,7 @@ Gojo post-Toji (23 doigts / 139 %) n'est depasse, en 1 contre 1, que par trois e
 
 ## Notes de certitude
 - Reperes Nisha, Naobito, Naoya, Jinichi, Ogi, soldats du Hei : [DIVERGENCE RP] (OC ou lecture worldbuilder).
+- Reperes Shoko, Yaga, Gakuganji, Mei Mei, Utahime : [DIVERGENCE RP], cales sur leurs fiches noyau. Mei Mei et Utahime evoluent post-2008 (Mei Mei 5 -> 7 ; Utahime 4 -> 5). Shoko et Utahime se lisent en soutien / soin, hors-axe combat.
 - Partage gemellaire Maki/Mai : [DIVERGENCE RP], table fournie par le worldbuilder ; mecanique du curseur -> roadmap.
 - Jogo : canon (estimation ~8 doigts en lecture lineaire = 40 %, relue ~13 doigts sur la courbe non lineaire).
 - Geto 2015 : vrai Geto. Kenjaku occupe son corps a partir de fin 2017 (donc "Geto 2015" = le vrai, vivant).
