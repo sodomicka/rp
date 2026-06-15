@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W8
+- version : W9
 
 ## WIKI
 
@@ -48,7 +48,7 @@ Description : fiches personnages du monde.
 Description : systeme de puissance de l'univers.
 - Doigts_de_Sukuna.md (W3) - unite "doigt de Sukuna", formule non lineaire, bareme de grade, reperes chiffres.
 
-> ROADMAPS NON INDEXEES EN JEU (v8.2). Aucune roadmap pour l'instant. Quand elles existeront, elles resteront hors de cet index (sources de build seulement, jamais fetchees en narration).
+> ROADMAPS NON INDEXEES EN JEU (v8.2). Dossier Roadmap/Nisha/ amorce (Passe 2 en cours) : Roadmap_A0 (prologue 1990-2005). Les roadmaps restent hors de cet index - sources de build seulement, jamais fetchees en narration.
 
 > JOURNAL DE CONCEPTION. _Implications.md (a la racine JJK/) : document de travail des passes en spirale, jamais fetche en narration.
 

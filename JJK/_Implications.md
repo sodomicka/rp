@@ -1,6 +1,6 @@
 # _Implications
 
-- version : W4
+- version : W5
 
 Journal de conception (passes en spirale). Document de TRAVAIL : jamais fetche en narration. On y consigne, au fil de la Passe 2 (roadmaps) et de la decouverte, chaque fait qu'une fiche devra porter, pour integration groupee a la Passe 3 (reconciliation). On ne fait PAS d'aller-retour fiche par fiche : on empile ici, on integre par lots.
 
@@ -17,6 +17,9 @@ Format : `<entite/lieu> | <arc ou contexte> | <fait que la fiche doit porter> | 
 - Nisha | atemporel | porte une misogynie conditionnee par le clan Zenin (lecture de Mei Mei : symptome du clan, pas d'elle-meme) | a integrer (fiche Nisha)
 - Ranta | atemporel | le plus gentil des Zenin nommes ; manque d'agressivite, d'arrogance et de fierte (ce qui rebute le conservateur Gakuganji) | a integrer (fiche Ranta, enrichir W1)
 - Utahime / Nisha / Satoru | lycee (avant 2008) | Nisha croit Utahime sa rivale aupres de Satoru ; Utahime et Satoru ne font que s'amuser de la situation (malentendu a sens unique, cote Nisha) | a integrer (fiches Nisha, Utahime, Satoru)
+- Naobito | A0 (prologue) | depart de Toji du clan a preciser a 2000 : aligner la fiche Naobito (qui le laisse [IMPLICITE] "milieu/fin annees 90") sur la fiche Toji (qui porte deja 2000) | a integrer (fiche Naobito)
+- Naoya | A0 (prologue) | integre le Hei en 2000, declenche en voyant Nisha partir en freelance (symbiose : si elle a des missions, lui aussi) ; consequence : le Hei refuse d'affronter LES JUMEAUX (Nisha + Naoya en 2 contre 1) pour ne pas se faire humilier par deux gamins | a integrer (fiche Naoya ; mentionner aussi le refus du Hei en Clan_Zenin)
+- Nisha | A0 (prologue) / atemporel | subit une education de servante VECUE jusqu'a 8 ans (1990-1998), pas seulement "planifiee" ; le territoire a 8 ans (1998) clot ce statut et la fait favorite | a integrer (fiche Nisha)
 
 ---
 
