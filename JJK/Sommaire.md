@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W6
+- version : W7
 
 ## WIKI
 
@@ -16,6 +16,9 @@ Description : factions et groupes du monde.
 - Clan_Gojo.md (W1) - clan Gojo : ethos (culte du guerrier parfait, "Le pouvoir sait se montrer quand les temps l'exigent"), gouvernance (conseil d'anciens sous l'autorite du guerrier parfait), branches (Sugawara/Gojo, Fujiwara/Okkotsu), place de Satoru, liens inter-clans.
 - Clan_Kamo.md (W1) - clan Kamo : ethos (purete du sang, "La purete n'a pas de prix"), sort elu + succession, gouvernance (chef et emissaires), Noritoshi (heritier illegitime), branches/greffes (Six Yeux, Peintures Mortes, Itadori, Muta), Restriction Celeste (type inverse, Mechamaru).
 - Hautes_Instances.md (W1) - les hautes instances : sommet conservateur sans visage au-dessus des ecoles, 10 membres (5/ecole : 3 clans + 2 independants), Gakuganji seul visage public.
+- Ecole_Tokyo.md (W1) - ecole de Tokyo : centre de formation (exorcistes + assistant managers), derive des hautes instances et de Tengen, turf Gojo ; corps enseignant et promotions sur deux epoques (2005-2008 et 2016-2018+) ; pole le plus ouvert.
+- Ecole_Kyoto.md (W1) - ecole de Kyoto : ecole soeur, turf Kamo+Zenin, pole conservateur ; corps enseignant et promotions sur deux epoques ; Nisha et Mei Mei enseignantes (divergence), Akari Nitta ancienne eleve.
+- Tournoi.md (W1) - tournoi inter-ecoles (Kyoto Goodwill Event) : echange annuel entre les deux ecoles, format canon (J1 equipe en zone infestee, J2 individuel en arene, hote alterne) ; role narratif -> roadmap.
 
 ### Personnages/
 Description : fiches personnages du monde.
