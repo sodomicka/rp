@@ -1,8 +1,6 @@
 # Hautes Instances
 
-- version : W1
-
-Page = faction du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4.
+- version : W2
 
 ## Nature
 - Canon : le sommet conservateur et sans visage de la societe du jujutsu - elles emettent les ordres (executions comprises), pesent en politique, et sont adossees aux trois grandes familles. Elles tronent AU-DESSUS des deux ecoles : les ecoles en derivent (gouvernance), comme elles derivent de Tengen (barrieres). Cf. Personnages/Tengen.md.
@@ -14,6 +12,10 @@ Page = faction du monde. Faits canon non balises (niveau etabli) ; couche RP bal
 - Total : six representants de clan (deux par famille) + quatre independants.
 - Seul visage public du groupe sur toute la periode de jeu (2005-2018+) : Gakuganji, l'un des independants cote Kyoto. Tokyo ne s'exprime que derriere ses paravents (communiques, intermediaires).
 
+## Grade des membres [DIVERGENCE RP]
+- Tous les membres des hautes instances sont Grade Special 1 (rang hors Jujutsu High, elite des grandes familles ; cf. BIBLE SB1 et Power_Scaling/Doigts_de_Sukuna.md). C'est un palier administratif d'elite, pas une marche de puissance fixe : il dit le rang, pas le nombre de doigts.
+- Coherent avec Gakuganji (Grade Special 1, 9 doigts) et avec la nature de bras politique de la caste : les sieges sont armes par l'elite des trois familles.
+
 ## Rapport aux clans
 - [DIVERGENCE RP] Les trois grandes familles arment six des dix sieges : les hautes instances sont donc le BRAS POLITIQUE COMMUN de la caste (Gojo, Kamo, Zenin), pas un contre-pouvoir. Le siege Kamo est tenu par un emissaire (echo de la gouvernance Kamo). Les Zenin de Naobito et Ogi y sont proches de Gakuganji (cf. cinq raisons du transfert de Nisha, Personnages/Nisha.md).
 
@@ -23,6 +25,7 @@ Page = faction du monde. Faits canon non balises (niveau etabli) ; couche RP bal
 ## Pointeurs
 - Pilier des barrieres (Tengen) dont depend la securite des ecoles : cf. Personnages/Tengen.md.
 - Clans qui les arment : cf. Factions/Clan_Gojo.md, Clan_Kamo.md, Clan_Zenin.md.
+- Grade et echelle : cf. Power_Scaling/Doigts_de_Sukuna.md.
 
 ---
 
