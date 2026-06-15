@@ -249,6 +249,27 @@ Pas de gabarit impose sauf pour les Roadmaps (cf. gabarit ci-dessous). Obligatio
 3. Contenu structure en sections si pertinent.
 4. Pas de contenu narratif (sauf pages transcript = verbatim).
 
+### Trajectoire datee (gabarit fiche d'entite)
+Troisieme strate de toute fiche perso/lieu/objet. Decrit le DEVENIR DATE de l'entite APRES le point de depart. N'existe que dans la fiche pleine ({Univers}/). INTERDITE dans la fiche d'arc.
+Regles :
+- Forme telegraphique, une ligne par evenement. Pas de prose ; le detail narratif vit dans la roadmap.
+- ALIMENTATION A CHAUD : une entree est ajoutee UNIQUEMENT apres avoir roadmappe l'arc qui la produit. Jamais d'anticipation.
+- CANON PAR DEFAUT, neutre, reutilisable entre parties (comme roadmaps et fiches d'arc).
+- OVERRIDE PAR PARTIES/ : quand une partie diverge, le delta va en Parties/{Univers}/Partie<n>/ et SURCLASSE cette strate pour la partie concernee (routage S7 inchange).
+- CONSOLIDATION : les pointeurs dates jadis en Notes de frontiere (mort canon, eveil, depart...) migrent ici sous forme datee ; Notes de frontiere ne garde que les renvois non dates et les hors-perimetre.
+- PLAFOND : <N> entrees max par fiche [A FIXER PAR LE WORLDBUILDER] ; au-dela, compresser ou deporter en roadmap, depassement signale jamais compresse seul.
+Gabarit :
+```
+## Trajectoire datee
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| <date> | <evenement telegraphique> | <ce qui change : grade, doigts, sort debloque, statut, relation> |
+```
+Exemple de FORMAT (illustratif, NE PAS inscrire tel quel) :
+```
+| 2006 | Affrontement de Toji, eveil | passe a 23 doigts ; debloque Rouge, Violet, Extension de Territoire |
+```
+
 ### Gabarit Roadmap
 
 Les roadmaps vivent dans `{Univers}/Roadmap/<Prota>/`. Elles decrivent les itineraires par arc, par perspective de prota. Les decisions prises dans un RP donne sont tracees dans `Parties/{Univers}/Partie<n>/Decisions/`.
