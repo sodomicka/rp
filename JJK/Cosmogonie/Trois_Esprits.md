@@ -1,11 +1,11 @@
 # Trois Esprits Vengeurs
 
-- version : W2
+- version : W4
 
 Page = cosmogonie fondatrice du RP (divergence racine). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB1.
 
 ## Origine commune
-- [DIVERGENCE RP] Les trois grands onryo du Japon - Sugawara no Michizane, Taira no Masakado, l'empereur Sutoku (Sutoku-tenno) - sont les PREMIERS esprits vengeurs : anciens noms des fleaux, nes de la noirceur de l'humanite a une ere millenaire.
+- [DIVERGENCE RP] Les trois grands onryo du Japon - Sugawara no Michizane, Taira no Masakado, l'empereur Sutoku (Sutoku-tenno) - sont les PREMIERS esprits vengeurs : anciens noms des fleaux, nes de la noirceur de l'humanite. Ancres a la periode YAMATO, a la fondation meme du Japon : primordiaux, anterieurs a tout le reste (les figures historiques homonymes sont Heian ; la cosmogonie les mythologise en esprits bien plus anciens). L'exorcisme nait d'EUX : rien de sorcier ne leur est anterieur. (Contrainte de coherence : Eien et Kenjaku tirent leur parasitisme et leur longevite des lignees issues des onryo - ils ne peuvent donc pas leur preexister ; ils emergeront de ces lignees plus tard, a l'ere millenaire.)
 - [DIVERGENCE RP] Gardant un residu d'humanite, chacun a beni un humain en lui cedant son sort. Naissent les trois premiers exorcistes du Japon, qui prennent le nom de la source de leur pouvoir comme nom de clan (Sugawara, Masakado, Sutoku).
 - [DIVERGENCE RP] Les sorts se transmettent ensuite par la descendance, mutent, se croisent. Le couple architecte (Eien + Kenjaku) oriente conservation, croisements et mutations. Les familles finissent par les perpetuer d'elles-memes (echanges matrimoniaux : purete des lignees sans consanguinite).
 - Canon : Michizane est l'ancetre commun de Satoru Gojo et de Yuta Okkotsu (JJK 0). Le manga ne dit rien des familles de Masakado et Sutoku - vide comble ici.
@@ -34,6 +34,14 @@ Page = cosmogonie fondatrice du RP (divergence racine). Faits canon non balises 
 - [DIVERGENCE RP] Experiences Meiji : les Peintures Mortes sont concues par Kenjaku-dans-Noritoshi. Le foetus de Choso est concu avec Eien-dans-Nanao (hote Kamo d'Eien a l'ere Meiji). (Canon : Peintures Mortes creees par Kenjaku dans le corps de Noritoshi Kamo ; Choso en est issu.)
 - [DIVERGENCE RP] Une branche Kamo douee pour s'adapter a tout hote est ISOLEE par Kenjaku - preservee, pas engendree - afin de garder le trait pur. Naissance du clan Itadori : receptacle pour Sukuna (-> Yuji), qui s'ignore etre un clan.
 
+## Tengen - le quatrieme esprit (reste de chair)
+- [DIVERGENCE RP] Tengen n'appartient PAS a la structure des trois onryo : c'est un QUATRIEME esprit vengeur, independant, et reste de CHAIR (jamais devenu pur fleau desincarne - son Immortalite le garde corporel). Il ascende APRES les trois onryo (l'exorcisme existait deja).
+- [DIVERGENCE RP] Kenjaku a ete temoin de son ascension - et y a meme contribue. Des siecles plus tard, c'est le FRUIT de cette experience qu'il convoite pour batir le monde parfait du couple avec Eien : le Merger.
+- Canon (technique) : Immortalite - empeche la mort naturelle, pas le vieillissement ; reset tous les ~500 ans par fusion avec un Receptacle d'Etoile, faute de quoi Tengen evolue, perd sa volonte et peut devenir ennemi de l'humanite.
+- Canon (role) : pilier non combattant ; ses barrieres soutiennent les ecoles et celles des auxiliaires. Maitrise des barrieres superieure meme a celle de Kenjaku.
+- [DIVERGENCE RP vs canon] Le canon fait de Tengen le fondateur (ere Nara) du jujutsu ; ici, posterieur aux onryo. Divergence assumee.
+- Detail et noeud de 2006 : cf. Personnages/Tengen.md.
+
 ## Greffes inter-clans
 - [DIVERGENCE RP] Six Yeux : d'un clan mineur ex-Sutoku -> greffe sur les Gojo.
 - [DIVERGENCE RP] Dix Ombres : d'un clan ex-Sugawara -> greffe sur les Zenin.
@@ -41,9 +49,13 @@ Page = cosmogonie fondatrice du RP (divergence racine). Faits canon non balises 
 
 ## Restriction Celeste
 - [DIVERGENCE RP] N'est pas un sort. Resulte de la presence simultanee de DEUX dons de clans dans une configuration genetique rare et incompatible (produit du brassage inter-familles). Tous les melanges ne la causent pas, sinon tout le monde serait restreint ; seules de tres rares configurations.
-- [DIVERGENCE RP] Effet : neutralise l'energie occulte et la manifestation des sorts. Type physique : corps surhumain, energie a zero (Toji, Maki). Type inverse : corps sacrifie, reservoir massif et specialise (Mechamaru, rattache aux Kamo - "un Gojo qui a perdu a la loterie").
+- [DIVERGENCE RP] Effet : neutralise la manifestation des sorts. Le TYPE suit le don primordial DOMINANT du croisement. En cas d'egalite stricte : nouvelle loterie, le don gagnant est tire au hasard.
+  - Don dominant TEMPS (Masakado/Zenin) -> type PHYSIQUE : corps surhumain, energie occulte a zero, cecite occulte (revers du zero d'energie). (Toji, Maki.)
+  - Don dominant LIENS/SANG (Sutoku/Kamo) -> type INVERSE : corps sacrifie, reservoir massif et specialise d'energie occulte (intensite ET portee). (Mechamaru - "un Gojo qui a perdu a la loterie".)
+  - Don dominant ESPACE (Michizane/Gojo) -> type FOCALISE [nom provisoire] : corps normal et viable, energie occulte au maximum (comme l'inverse) mais AUCUNE portee ; pleine perception occulte (pas de cecite). Combattant de corps-a-corps ultime : coups charges et "rayons noirs" (Black Flash) devastateurs.
+- [DIVERGENCE RP] Mechamaru (Kokichi Muta) : croisement pere Muta (branche tertiaire Kamo, sang) x mere Zenin qui s'ignorait Zenin (temps) ; sang dominant -> type inverse. Sans parent profane (deux parents sorciers). Cf. Factions/Clan_Kamo.md.
 - Comble un vide canon : le manga pose la Restriction Celeste (Toji a zero, Maki incomplete jusqu'a la mort de Mai) mais n'en donne jamais la cause.
-- A fixer en fiches perso (build ulterieur) : mere Gojo/Kamo de Toji ; parente Jinichi/Toji ; Mechamaru sans parent profane.
+- A fixer en fiches perso (build ulterieur) : mere Gojo/Kamo de Toji ; parente Jinichi/Toji. (Mechamaru : refermee, cf. ci-dessus.)
 
 ## Architectes
 - [DIVERGENCE RP] Eien et Kenjaku (couple) = forgeurs des lignees : benediction relayee, croisements, mutations, scellements. Eien : OC, lignee Masakado/temps ; hote Meiji = Nanao Kamo. Kenjaku : issu des Kamo, parasitisme par transfert de cerveau. Fiches : cf. Personnages/Eien.md et Personnages/Kenjaku.md.
