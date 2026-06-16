@@ -1,6 +1,6 @@
 # Tournoi inter-ecoles (Kyoto Goodwill Event)
 
-- version : W1
+- version : W2
 
 Page = institution inter-ecoles. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4.
 
@@ -16,6 +16,7 @@ Page = institution inter-ecoles. Faits canon non balises (niveau etabli) ; couch
 
 ## Etat au point de depart (2005)
 - L'echange se tient durant la scolarite de la generation ainee (2005-2008). Editions precises et enjeux narratifs -> roadmap.
+- [DIVERGENCE RP] Premiere edition jouee de la saga : 2005, hote Kyoto. Detail (affiches, deroule, resultat) -> Roadmap A1 (etape A1_3). L'hote alterne ensuite.
 
 ## Place dans le focus
 - Terrain de confrontation reglee entre les promotions des deux ecoles, donc entre les poles conservateur (Kyoto) et ouvert (Tokyo). Usage dramatique -> roadmap.
