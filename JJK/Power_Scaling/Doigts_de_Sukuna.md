@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Power-scaling
 
-- version : W3
+- version : W4
 
 ## Unite
 - Unite de puissance de l'univers = le doigt de Sukuna.
@@ -72,22 +72,56 @@ Note : Grade Special 1 (rang elite des grandes familles, hors Jujutsu High - le 
 | Ogi | 7 | 11.33 | [DIVERGENCE RP] Grade 1, pilier du Hei |
 | Yaga | 7 | 11.33 | [DIVERGENCE RP] Grade 1, seuil du Special par le savoir-faire (creation d'une ame autonome), pas la puissance |
 | Mei Mei (post-2008) | 7 | 11.33 | [DIVERGENCE RP] Grade 1, niveau Yaga / Ogi |
-| Naoya (lycee) | 8 | 14.09 | [DIVERGENCE RP] |
+| Naoya (2005) | 8 | 14.09 | [DIVERGENCE RP] -> courbe A2 (10/11/12), 14 adulte ; cf. Courbes A2 |
 | Gakuganji | 9 | 17.44 | [DIVERGENCE RP] Grade Special 1 (hors-grading des ecoles), plus fort que Yaga |
 | Jinichi | 10 | 21.41 | [DIVERGENCE RP] pilier du Hei |
-| Gojo (pre-Toji) | 12 | 31.30 | avant sa transcendance (2006) |
+| Gojo (2005, pre-Toji) | 12 | 31.30 | -> 14 en 2006 puis 23 a l'eveil ; cf. Courbes A2 |
 | Naobito | 12 | 31.30 | [DIVERGENCE RP] patriarche, Grade Special 1 |
-| Geto (lycee) | 12 | 31.30 | 2005-2007 |
+| Geto (2005) | 12 | 31.30 | -> 14 (2006), 15 (2007, defection) ; cf. Courbes A2 |
 | Jogo | 13 | 37.26 | canon : prend Naobito de vitesse, one-shot a Shibuya |
-| Nisha (lycee) | 13 | 37.26 | [DIVERGENCE RP] numero 1 mondiale ~2005-2006 |
+| Nisha (2005) | 13 | 37.26 | [DIVERGENCE RP] n1 mondiale ; -> courbe A2 jusqu'a 18 ; cf. Courbes A2 |
 | Naoya (adulte) | 14 | 43.94 | [DIVERGENCE RP] |
+| Yuki Tsukumo | 15 | 51.35 | [DIVERGENCE RP] Grade Special decroche au lycee puis quitte le systeme ; hors-classement officiel (de facto n3 mondiale, jamais reconnue) |
 | Toji | 17 | 68.44 | canon, hors-clan invisible, hors classement (non reconnu exorciste) |
 | Geto (gourou, 2015) | 17-18 | 68-78 | vrai Geto vivant |
-| Nisha (adulte) | 18 | 78.15 | [DIVERGENCE RP] |
+| Nisha (adulte) | 18 | 78.15 | [DIVERGENCE RP] apogee atteinte des 2008 |
 | Sukuna (complet) | 20 | 100.00 | reference de l'echelle |
 | Gojo (post-Toji) | 23 | 139.07 | apogee atteinte tres tot, plafond |
 
-Symbiose Nisha-Naoya : etat de combat a deux (2 contre 1), hors du classement individuel. 17 doigts (68 %) au lycee, 24 (~154 %) adulte - depasse la somme des deux (effet de resonance) et franchit transitoirement le Sukuna brut.
+Assistant managers (Ijichi, Nitta, etc.) : hors-classement combat, Grade 4 symbolique (role logistique, pas de scaling de combat pertinent).
+
+## Courbes A2 (progression 2005 -> 2008)
+Les prodiges montent en continu sur l'arc A2 (pas un saut, sauf l'eveil de Gojo). Valeurs en doigts (% entre parentheses) :
+| Entite | 2005 | 2006 | 2007 | 2008 |
+|---|---|---|---|---|
+| Nisha | 13 (37.26) | 15 (51.35) | 16 (59.51) | 18 (78.15) |
+| Gojo | 12 (31.30) | 14 (43.94) pre-Toji, puis 23 (139.07) a l'eveil | 23 | 23 |
+| Geto | 12 (31.30) | 14 (43.94) | 15 (51.35), defection | - (parti) |
+| Naoya | 8 (14.09) | 10 (21.41) | 11 (26.02) | 12 (31.30) |
+- Apogees adultes (post-A2) : Nisha 18 (atteinte des 2008), Naoya 14, Gojo 23 (plafond). Geto culmine ensuite ~17-18 en gourou (2015).
+- Yuki Tsukumo : ~15 des le lycee, stable (hors-systeme).
+
+## Synergie et symbiose (combinaison de duos)
+Deux combattants de concert ne s'additionnent pas betement : leur puissance combinee suit une loi qui amplifie la somme selon deux leviers de RELATION.
+- Synergie (syn) : confiance et coordination, commune a TOUS les duos. Fraction capee a 1 (100 %).
+- Symbiose (sym) : resonance fusionnelle propre aux JUMEAUX (lien forge des l'enfance). Fraction capee a 1 ; nulle pour les non-jumeaux.
+
+Loi : P_combo = (P1 + P2) x (1 + 0.10 * syn + 0.16 * sym)   [P en %, syn/sym en fraction]
+
+- Bond nul (syn = sym = 0) : P_combo = P1 + P2 (pure somme, aucune resonance).
+- Apogee jumeaux (syn = sym = 1) : +26 % sur la somme. Apogee non-jumeaux (syn = 1, sym = 0) : +10 %. Le plafond du systeme (+26 %) est cale sur l'apogee Naoya+Nisha = 24 doigts.
+- La somme brute domine : c'est le tonnage qui pese le plus, le bond n'est que l'amplificateur.
+- Regle de pouce : un duo de jumeaux l'emporte sur un duo non-jumeau des que sa somme atteint ~87 % de celle de l'adversaire (1.10 / 1.26).
+- syn et sym ne sont PAS figes : ils dependent de la relation AU MOMENT du combat, fixes au cas par cas (matchup, enjeu, issue) -> a determiner en roadmap pour chaque duo. Acte : Mei Mei + Ui Ui = syn 100 % (foi aveugle ; Ui Ui faible, mais le bond plein leve Mei Mei de +10 %).
+
+Reperes d'apogee :
+| Duo | Type | Sommes (%) | P_combo | Doigts |
+|---|---|---|---|---|
+| Satoru + Nisha | non-jumeaux (syn 100) | 139.07 + 78.15 | 238.95 % | ~28.9 |
+| Maki + Mai (curseur 0/100) | jumelles (syn+sym 100) | 78.15 + 78.15 | 196.94 % | ~26.6 |
+| Naoya + Nisha (adulte) | jumeaux (syn+sym 100) | 43.94 + 78.15 | 153.84 % | 24.0 |
+
+Ces combos peuvent franchir le Sukuna brut (> 20 doigts / 100 %) : valeurs theoriques assumees (cf. Table).
 
 ## Partage gemellaire (Maki / Mai)
 Le pool gemellaire des jumelles d'Ogi se repartit le long d'un curseur a somme constante (les parts des deux totalisent 100 %). Chaque repartition fixe la puissance des deux :
@@ -101,6 +135,7 @@ Le pool gemellaire des jumelles d'Ogi se repartit le long d'un curseur a somme c
 
 - Pour Maki (Restriction Celeste physique), MOINS d'energie occulte = PLUS de puissance : a 0 % elle atteint le corps de monstre, voie Toji (18). A l'etat de base (50/50) elle est bridee a 6, et plafonnee Grade 4 par blocage politique du clan.
 - Pour Mai (sort de Construction), c'est l'inverse : plus d'energie occulte = plus de puissance ; a 100 % elle culmine a 18. A l'etat de base, Mai = 1 doigt (Semi-Grade 2).
+- Distinction : le curseur fixe les puissances INDIVIDUELLES ; quand les jumelles combattent EN DUO, c'est la loi synergie/symbiose ci-dessus qui combine ces individuels (symbiose, car jumelles). Apogee duo : cf. Reperes d'apogee.
 - Mecanique du curseur (declencheurs des bascules, enjeux narratifs) -> roadmap.
 
 ## Plafond mondial
@@ -108,10 +143,14 @@ Gojo post-Toji (23 doigts / 139 %) n'est depasse, en 1 contre 1, que par trois e
 - Sukuna dans Megumi a 20 doigts sur 20 (receptacle parfait).
 - Yuta dans le corps de Satoru adulte.
 - Yuji adulte.
+Note : en DUO, des combinaisons depassent 23 (Maki+Mai, Satoru+Nisha a apogee ; cf. Synergie et symbiose) - mais le plafond mondial vise le 1 contre 1.
 
 ## Notes de certitude
 - Reperes Nisha, Naobito, Naoya, Jinichi, Ogi, soldats du Hei : [DIVERGENCE RP] (OC ou lecture worldbuilder).
+- Courbes A2 (Nisha, Gojo, Geto, Naoya) : [DIVERGENCE RP], cadence de progression fournie par le worldbuilder.
 - Reperes Shoko, Yaga, Gakuganji, Mei Mei, Utahime : [DIVERGENCE RP], cales sur leurs fiches noyau. Mei Mei et Utahime evoluent post-2008 (Mei Mei 5 -> 7 ; Utahime 4 -> 5). Shoko et Utahime se lisent en soutien / soin, hors-axe combat.
+- Yuki Tsukumo, assistant managers : [DIVERGENCE RP], lecture worldbuilder.
+- Loi synergie/symbiose : [DIVERGENCE RP], calee sur les apogees fournis par le worldbuilder. Split synergie +10 % / symbiose +16 % ; le total +26 % est impose par l'apogee Naoya+Nisha = 24 doigts. syn/sym par duo fixes au cas par cas en roadmap.
 - Partage gemellaire Maki/Mai : [DIVERGENCE RP], table fournie par le worldbuilder ; mecanique du curseur -> roadmap.
 - Jogo : canon (estimation ~8 doigts en lecture lineaire = 40 %, relue ~13 doigts sur la courbe non lineaire).
 - Geto 2015 : vrai Geto. Kenjaku occupe son corps a partir de fin 2017 (donc "Geto 2015" = le vrai, vivant).
