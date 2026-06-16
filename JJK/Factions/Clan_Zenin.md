@@ -1,6 +1,6 @@
 # Clan Zenin
 
-- version : W2
+- version : W3
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 (morts, massacre du clan) -> roadmap, hors de cette page neutre.
 
@@ -38,7 +38,7 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 - Uterus : profanes pures, prises uniquement pour porter un enfant sans corrompre la lignee (le sang ne vient que du pere). Choyees comme un tresor durant la grossesse, renvoyees a la vie civile apres l'accouchement. Jamais inscrites aux registres, jamais nommees. Ex. la mere des jumeaux Nisha/Naoya et les meres des trois fils de Naobito.
 
 ## Unites de combat (hierarchie)
-- Hei : unite d'elite. Sorciers a sort inne puissant, ranges Semi-Grade 1 et au-dessus. Membres connus : Jinichi, Ogi, Chojuro, Ranta, et les trois fils de Naobito (par nepotisme - anomalie que Nisha et Naoya meprisent).
+- Hei : unite d'elite. Sorciers a sort inne puissant, ranges Semi-Grade 1 et au-dessus. Membres connus : Jinichi, Ogi, Chojuro, Ranta, Naoya (entre en 2000), et les trois fils de Naobito (par nepotisme - anomalie que Nisha et Naoya meprisent). [DIVERGENCE RP] Le Hei refuse d'affronter les jumeaux (Nisha freelance + Naoya, 2 contre 1) pour ne pas se faire humilier par deux gamins.
 - Akashi : membres dotes d'un sort inne mais classes Grade 2 ou en-dessous (sous le seuil du Hei). ~dix membres. Ex. Mai.
 - Kukuru : membres SANS sort inne (police interne du clan). Capitaine : Nobuaki Zenin.
 
