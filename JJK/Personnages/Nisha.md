@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W5
+- version : W6
 
 ## Identite
 - Nom : Nisha Zenin. OC. Protagoniste.
@@ -47,7 +47,7 @@
 - Mai faible : reduite a 50 pourcent. Maki faible : devrait etre a 0 (comme Toji) mais trainee a 50 pourcent d'une energie inutilisable, ce qui bride les deux.
 - Naoya / Nisha : resonance logee en eux. Nisha perdante : donne plus que Naoya au pool, repart avec moins que sa contribution. L'economie de ses sorts (Chronostase radine en energie occulte) compense.
 - Naoya : plus fort que dans le canon, il touche le surplus saigne par Nisha.
-- Resonance de combat : ensemble et en symbiose, ils depassent la somme de leurs puissances. Forgee a l'entrainement depuis l'enfance.
+- Resonance de combat (loi synergie/symbiose, cf. Power_Scaling/Doigts_de_Sukuna.md) : en duo, leur puissance combinee = (P_Nisha + P_Naoya) x (1 + 0.10*syn + 0.16*sym), ou syn (synergie, commune a tous les duos) et sym (symbiose, propre aux jumeaux) sont le niveau de relation du moment, chacun en fraction capee a 1. Plus une courbe figee : a leur apogee adulte (syn = sym = 100 %), Naoya + Nisha culminent a ~24 doigts, au-dessus de Satoru seul. Forgee a l'entrainement depuis l'enfance.
 
 ## Eien (parasite) - relation a Nisha
 Fiche propre d'Eien : cf. WIKI Personnages/Eien.md. Ici, seul son rapport a Nisha.

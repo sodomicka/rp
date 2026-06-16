@@ -1,8 +1,8 @@
 # Toji Fushiguro
 
-- version : W1
+- version : W2
 
-Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat = jusqu'au point de depart (2005). Devenir post-2005 -> roadmap.
+Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (TERMINAL en A2 : mort en 2006).
 
 ## Identite
 - Nom : Toji Fushiguro, ne Toji Zenin. Canon.
@@ -17,7 +17,7 @@ Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE
 ## Nature : Restriction Celeste (type physique)
 - (canon + cosmogonie) Ne avec une Restriction Celeste de type physique : energie occulte a ZERO, corps surhumain (force, vitesse, sens affutes - il percoit l'energie occulte sans en posseder). Pas de sort, pas de domaine.
 - Cause [DIVERGENCE RP] : croisement Zenin/temps x Gojo/espace, configuration rare et incompatible (cf. Cosmogonie/Trois_Esprits.md). Son frere Jinichi, meme croisement, a herite d'une technique - Toji a rafle la config restreinte.
-- Compense par une maitrise totale du corps et l'usage d'outils maudits.
+- Compense par une maitrise totale du corps et l'usage d'outils maudits. Anti-sorcier integral : neutralise les sorts en face, ce qui en fait le cauchemar des manieurs comme des porteurs de techniques.
 
 ## Grade et scaling
 - Hors classement : le monde jujutsu ne le reconnait meme pas comme exorciste (zero energie occulte). Ironie d'un monstre que le systeme ignore.
@@ -29,15 +29,21 @@ Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE
 - Pere de Megumi (ne en decembre 2002, porteur des Dix Ombres), d'une femme hors-clan.
 
 ## Relations
-- Naoya et Nisha (cousins) : [DIVERGENCE RP] gamins, ils reviennent souvent le narguer - le "chien des Zenin". La ou un enfant seul (cf. canon, Naoya) aurait ete tetanise puis souffle par sa force, a deux ils franchissent la premiere peur et surencherissent dans le mepris. En 2005 ils ne le craignent pas : comme le conseil, ils ne jugent que son energie occulte (nulle), aveugles a son potentiel reel. Repercussions -> roadmap.
+- Naoya et Nisha (cousins) : [DIVERGENCE RP] gamins, ils reviennent souvent le narguer - le "chien des Zenin". La ou un enfant seul (cf. canon, Naoya) aurait ete tetanise puis souffle par sa force, a deux ils franchissent la premiere peur et surencherissent dans le mepris. En 2005 ils ne le craignent pas : comme le conseil, ils ne jugent que son energie occulte (nulle), aveugles a son potentiel reel. Repercussions : cf. Trajectoire datee (le duel de 2006 solde ironiquement ce mepris).
 - Jinichi (frere) : lien marque par le deshonneur du sang (cf. fiche Jinichi). Toji, detache de tout, n'a que faire du clan.
 - Naobito (oncle) : son bourreau au clan (fosse aux fleaux, incitation au mepris des jumeaux).
 
+## Trajectoire datee
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| printemps 2006 (A2_3) | Recrute par Shiu Kong (intermediaire de la Time Vessel Association, qui finance la prime) pour intercepter et effacer le Receptacle d'Etoile (Riko Amanai) | contrat de l'assassin de sorciers |
+| 2006 (A2_4) | LE PIVOT TOJI. A l'approche de chez Tengen : frappe Gojo (garde relachee) et le tue - Gojo ne reviendra que par l'eveil RCT. Puis tue Riko Amanai (qui venait de choisir de vivre). Geto, pousse par la mort de Riko, l'affronte : son armee de fleaux ne suffit pas face a un anti-sorcier indetectable et surarme (Geto SANS domaine, canon) ; Toji le bat et l'EPARGNE - le tuer libererait d'un coup toute sa horde de fleaux | demontre l'ecart anti-sorcier ; Riko morte, Geto hors combat |
+| 2006 (A2_4) | DUEL contre Nisha, arrivee trop tard (hypersonique) devant chez Tengen, mission deja accomplie. Ses sorts de temps neutralises par la nature anti-sorcier de Toji, son SEUL atout est la vitesse : elle vide le collier (1re detonation des 76 billes de tungstene, kinetique pure qui contourne l'anti-sort ; cf. SB7), le manque de tres peu - mais Toji reprend le dessus en quelques dizaines de secondes. Tabassee par "le chien des Zenin", elle comprend qu'elle n'avait AUCUNE chance | collier detone ; le mepris d'enfance des jumeaux solde ironiquement |
+| 2006 (A2_4, fin) | Satoru, ressuscite et eveille, la sauve in extremis et acheve un Toji mortellement blesse. Mourant, Toji evoque Megumi, puis meurt | MORT (terminal en A2) ; Megumi nomme (graine -> ere B) |
+
 ## Notes de frontiere (hors noyau)
-- Mort en 2006 (canon : tue par Gojo lors de son eveil, arc Hidden Inventory - juste apres le point de depart) -> roadmap.
-- Vente a terme de l'information sur son fils Megumi (heritier des Dix Ombres) au clan Zenin (canon) -> roadmap.
-- Repercussions du mepris des jumeaux -> roadmap.
-- Megumi : fils de Toji, porteur des Dix Ombres ; fiche atemporelle eventuelle, hors perimetre de ce thread.
+- Detail narratif du pivot (deroule scene par scene) : -> Roadmap A2_3-A2_4.
+- Megumi (fils, porteur des Dix Ombres) : nomme par Toji mourant ; fil de l'adoption par les Zenin -> ere B (cf. conditions de cloture A2 / a construire en B1). Fiche atemporelle eventuelle, hors perimetre de ce thread.
 
 ---
 
