@@ -1,6 +1,6 @@
 # Satoru Gojo
 
-- version : W1
+- version : W2
 
 ## Identite
 - Nom : Satoru Gojo. Canon. Le guerrier parfait vivant du clan Gojo.
@@ -52,6 +52,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 
 ## Grade et scaling
 - Point de depart (2005, pre-eveil) : 12 doigts de Sukuna (~31 %). Nisha le devance alors (13 doigts).
+- A la rentree (2005) : Grade 1 (comme Geto) ; evalue au Grade Special au cours du lycee. Distinct du powerscaling (12 doigts a l'entree).
 - Eveil de 2006 (face a Toji) : transcendance -> 23 doigts (~140 %), apogee atteinte tres tot, plafond mondial. Il passe numero 1 ; Nisha passe numero 2.
 - Plafond Gojo (23) depasse en 1 contre 1 seulement par : Sukuna 20/20 dans Megumi, Yuta dans le corps de Satoru adulte, Yuji adulte.
 - Detail et reperes : cf. WIKI Power_Scaling/Doigts_de_Sukuna.md.
