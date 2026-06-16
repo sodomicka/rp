@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W4
+- version : W5
 
 ## Identite
 - Nom : Nisha Zenin. OC. Protagoniste.
@@ -54,7 +54,8 @@ Fiche propre d'Eien : cf. WIKI Personnages/Eien.md. Ici, seul son rapport a Nish
 - Eien : fleau Grade Special millenaire (OC), amante de Kenjaku.
 - Mode operatoire : marque une femme enceinte, s'implante dans le foetus, le gorge d'energie occulte pour le rendre viable, se revele comme "amie" a 4 ans, offre la Chronokinesie, puis ecrase la conscience de l'hote a 10 ans pour user du sort a pleine puissance.
 - Avec Nisha : l'hote a domine le parasite. Putsch tente en 2000 (10 ans), echoue. Nisha = geoliere. Eien = passagere consciente, matee, qui fait profil bas et complote en silence. Schema Sukuna/Yuji inverse.
-- Regle de bascule : Eien ne peut PAS prendre le controle de force. Elle le pourrait si Nisha baissait sa garde (par amour). Faille latente, non exploitee a ce stade.
+- Regle de bascule : Eien ne peut PAS prendre le controle de force. Elle le pourrait si Nisha baissait sa garde (par amour). Faille latente, non exploitee au point de depart.
+- [A2] La faille s'APPROFONDIT a l'arc Toji (2006) : Nisha a failli mourir par amour pour Satoru, et son attachement lui fait baisser durablement la garde. Eien engrange en silence (paiera ~2015+ ; cf. roadmaps ere B).
 - Communication : Nisha et Eien se parlent en se projetant spirituellement dans le territoire d'Eien, le Jardin des Eres Mortes.
 - Regle hote/parasite (canon) : Nisha ne deploiera jamais le Jardin en combat (un hote n'accede pas au domaine de son parasite). Le Jardin reste l'espace interieur de dialogue.
 - Ironie centrale : la forme ultime de la Chronokinesie d'Eien (le gel) est exactement la Chronostase native de Nisha. Eien n'y atteint qu'en territoire, et seulement si elle controlait le corps, ce que Nisha porte nativement et en entier. Hote parfaite, inexploitable DE FORCE.
@@ -75,6 +76,7 @@ Fiche propre de Naoya : a venir (autre thread). Ici, seul son rapport a Nisha.
 - Maki crache sur le systeme ; Nisha s'en fait la gardienne, car il la couronne.
 - Croyance d'enfance sincere : l'elue, la seule femme a porter un vrai prenom. [DIVERGENCE RP] Convention de nommage Zenin : un vrai prenom = reconnaissance pleine (ni servante ni uterus). Lore neuf.
 - Face a elle-meme : "moi l'exception", au-dessus des faibles.
+- Intraitable sur la ponctualite et la rigueur : un retard ou un travail bacle, c'est un mepris a ses yeux (ce qui lui fait apprecier les rares qui partagent cette exigence - cf. Nanami, Ijichi en A2).
 - Accepte d'etre monnaie d'echange matrimonial (femme = ressource pour le clan).
 - Mentalite type Maki/Yuta (canon) : l'homme qui la meritera est celui capable de la vaincre. Gojo la depasse sur quelques aspects.
 - [DIVERGENCE RP] Tres possessive de ce qu'elle considere sien. Envers Satoru, "son promis" assigne par le clan (raison 5) : possessivite a sens unique des 2005 (il l'ignore) - moteur de sa jalousie (ex. Utahime au tournoi).
@@ -91,8 +93,8 @@ Fiche propre de Naoya : a venir (autre thread). Ici, seul son rapport a Nisha.
 ## Grade et scaling
 - Pre-lycee : plafonnee Grade Special 1 (classement hors Jujutsu High, rang elite Zenin). Limite administrative, pas de puissance.
 - Au lycee (2005) : accede au classement officiel, passe vite Grade Special.
-- En doigts de Sukuna : 13 a l'entree au lycee (2005), 18 adulte. Detail et reperes : cf. WIKI Power_Scaling/Doigts_de_Sukuna.md.
-- Trajectoire : numero 1 mondiale a partir de 2005, jusqu'a la transcendance de Gojo (2006, arc Hidden Inventory). Passe ensuite numero 2.
+- En doigts de Sukuna, progression rapide et continue (pas un saut) : 13 a l'entree (2005) -> 15 en 2006 -> 16 en 2007 -> 18 a la sortie du lycee (2008). Elle apprend vite au contact de Satoru et la competition l'empeche de se faire distancer : elle atteint son apogee (18) des la fin du lycee. Detail et reperes : cf. WIKI Power_Scaling/Doigts_de_Sukuna.md.
+- Trajectoire : numero 1 mondiale a partir de 2005, jusqu'a la transcendance de Gojo (2006, arc Hidden Inventory). Passe ensuite numero 2, loin derriere lui (Gojo 23 apres son eveil ; elle 15 puis 18).
 
 ## Chronologie noyau (jusqu'au point de depart, 2005)
 | Date | Jalon |
@@ -119,13 +121,25 @@ Apportees par le conseil Zenin (Naobito, Jinichi, Ogi).
 | sept 2005 | Tournoi inter-ecoles (hote Kyoto) J1 : demonte Utahime puis frappe Satoru (son camp) sur une insulte a Naoya -> DQ ; J2 : bat Mei Mei | demontre que le lien jumeau prime sur l'ego et le promis |
 | 1 jan 2006 | Accepte Satoru (nouvel an organise par Shoko), premier baiser | couple forme ; faille d'Eien rearmee par l'attachement (latente) |
 | 30 jan 2006 | Anniversaire : recoit le collier-arsenal de Satoru | acquiert l'artefact (76 billes de tungstene, batterie cinetique pour la Chronostase ; cf. SB7) |
+| 1 avr 2006 (A2_1) | Rentree 2e annee ; croise les 1res annees (raille le naif Haibara, distingue le serieux Nanami, apprecie l'humble Ijichi) | impressions posees (detail cote fiches juniors) |
+| printemps 2006 (A2_2) | Mise a l'ecart de la mission Receptacle (HI + clan ; pretexte du rideau neglige, fond : les Zenin se moquent de Tengen) ; avertissement froid aux escortes : "Amanai = ressource, on ne s'attache pas" | hors du climax Receptacle ; pose sa doctrine de la ressource (IRONIE : Geto s'attache) |
+| printemps 2006 (A2_3) | Clouee a Tokyo, assiste Shoko (morgue/infirmerie) ; ne suit l'escorte qu'a travers les messages de Satoru | seule fenetre sur la mission = Satoru |
+| 2006 (A2_4) | Fonce quand l'energie de Satoru s'eteint ; DUEL contre Toji (seul atout : la vitesse ; vide le collier, 1re detonation des 76 billes ; le manque de peu, perd) ; Gojo eveille la sauve et acheve Toji ; elle voit le cadavre de Riko | n1 -> n2 (Gojo eveille 23, elle 15) ; double plafond le meme jour (rang + combat) ; faille d'Eien APPROFONDIE (a failli mourir par amour) |
+| 2006 (A2_5) | Aux portes de la mort, se DE-BLESSE au territoire (inversion temporelle, cout colossal, hors d'etat apres), Satoru veille | survit ; c'est d'elle que Gojo tient le nom de son domaine (Sphere de l'Espace Infini) |
+| 2006 (A2_6) | Avec Naoya, arrete la DOCTRINE SECRETE "proteger les faibles, servir les forts" ; les jumeaux se posent en seul refuge (interesse) de Maki/Mai | co-autrice d'une reforme du clan (que le conseil rejetterait) ; cultivation longtermiste des jumelles |
+| dec 2006 (A2_7) | Lance la tradition reciproque du bandeau (elle -> Satoru, en echo du collier) | rituel d'anniversaire desormais reciproque |
+| 2007 | Montee en puissance (apprentissage au contact de Satoru + competition) : 16 doigts | n2 consolidee, loin derriere Gojo (23) |
+| aout 2007 (A2_7) | GROSSES TENSIONS avec Yuki Tsukumo (croisee chez Gojo) ; la rabaisse ("...Plasma Stellaire") | inimitie posee (-> Tchekhov post-Shibuya) |
+| 2007 (A2_9) | Cafe avec Geto (les deux cyniques ecoutent le monstre sans le suivre) - beat TERMINAL de leur opposition ; puis elles alertent Satoru | opposition Nisha/Geto soldee |
+| 2007-2008 (A2_10) | S'attache aux jumelles au domaine : eveil d'un INSTINCT DE PROTECTION et d'education (PAS de maternite biologique) | graine -> ere B (Megumi, Tsumiki, Maki/Mai, ses futurs eleves) |
+| hiver 2008 (A2_11) | Diplomee -> prof a Kyoto (racines, elitisme) ; la doctrine secrete a desormais un relais dans chaque pole | n2 mondiale (Gojo 23, elle 18 - apogee atteinte) ; bascule vers l'ere B |
 
 ## Notes de frontiere (reporte hors de ce build)
 - Backstory COMPLETE detaillee + instance jouee : a venir en Parties/JJK/Partie1/Suivi/ + CODEX (setup / V1).
 - Fiches propres d'Eien et Kenjaku : cf. WIKI Personnages/. Fiche de Naoya : a venir (autre thread).
 - Cosmogonie du couple, origine des trois familles : cf. WIKI Cosmogonie/Trois_Esprits.md.
 - Mecanique des territoires (justification du domaine a 8 ans, raison de la crainte d'Eien) : autre thread.
-- Devenir post-A1 (transcendee par Gojo en 2006 -> n2 ; prof a Kyoto ~2009) -> roadmap (A2+) ; aujourd'hui en pointeurs (cf. _Implications, migration 3-strates).
+- Devenir post-A2 (ere B+) : convergence de la bascule d'Eien (failles engrangees) et de l'essor de son instinct protecteur (~2015+) ; elle forme Akari Nitta a Kyoto ; la tension avec Yuki detonera post-Shibuya (Nisha la tiendra pour responsable du desastre Geto + Kenjaku-dans-Geto). -> roadmaps ere B.
 - Gojo mort en 2018 = canon ; impact d'une Nisha numero 2 a ses cotes = point ouvert, a trancher plus tard.
 
 ---
