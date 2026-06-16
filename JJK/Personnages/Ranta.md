@@ -1,6 +1,6 @@
 # Ranta Zenin
 
-- version : W1
+- version : W2
 
 Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat = jusqu'au point de depart (2005). Devenir post-2005 -> roadmap.
 
@@ -27,6 +27,7 @@ Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE
 ## Psychologie
 - (canon) Sincere et loyal, avec une part de timidite. Le plus decent des Zenin nommes : il traite les hommes de la Kukuru avec respect, prend en charge une part de leurs corvees, y est populaire.
 - [DIVERGENCE RP] Sa loyaute aux jumeaux est totale et non critique : gentil de nature, il ne pratique pas la cruaute du clan mais ferme les yeux dessus, par gratitude d'avoir ete tire de sa branche obscure et reconnu.
+- [DIVERGENCE RP] Sa decence se lit a l'envers selon le regard. Pour un oeil moderne, c'est sa vertu - le plus humain des Zenin nommes. Pour le clan ET les hautes instances, cette meme decence est un manque d'agressivite, d'arrogance et de fierte, donc un defaut de temperament : Gakuganji, voix des hautes instances, le juge trop gentil.
 
 ## Relations
 - Naoya et Nisha : les jumeaux qu'il revere depuis 2002, devotion sans reserve. NB : Nisha n'est PAS au Hei (le Hei l'a refusee) ; le role de support de Ranta s'exerce aupres de Jinichi et Naoya. Lien resserre avec Naoya a partir de 2005 (meme promo de Kyoto ; Nisha partie a Tokyo).

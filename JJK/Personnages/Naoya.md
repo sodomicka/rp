@@ -1,6 +1,6 @@
 # Naoya Zenin
 
-- version : W1
+- version : W2
 
 Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat decrit = jusqu'au point de depart du RP (2005). Devenir post-2005 -> roadmap.
 
@@ -25,6 +25,10 @@ Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE
 - 8 doigts de Sukuna au lycee (= 14.09 %, classe de puissance Grade 1) -> 14 adulte (= 43.94 %, classe Special). Cf. Power_Scaling/Doigts_de_Sukuna.md.
 - [DIVERGENCE RP] Plus fort que dans le canon : la resonance gemellaire lui fait toucher le surplus d'energie saigne par Nisha (cf. pool gemellaire, fiche Nisha).
 - Resonance de combat avec Nisha : ensemble et en symbiose, ils depassent la somme de leurs puissances. Symbiose = 17 doigts au lycee (68 %) -> 24 adulte (~154 %). Etat de combat a deux (2 contre 1), hors du classement individuel.
+
+## Place dans le clan
+- [DIVERGENCE RP] Integre le Hei en 2000, en voyant Nisha larguer les amarres en freelance : par symbiose, si elle a des missions, lui aussi. Il convainc Naobito qu'il est pret.
+- [DIVERGENCE RP] ~2000-2005 : missions en duo avec Nisha (cadre freelance), encadrees par les anciens (Chojuro, Jinichi, Ogi, Naobito) - lui et Ranta encore trop inexperimentes pour encadrer seuls.
 
 ## Psychologie
 - (canon) Arrogant, cruel, hautain.

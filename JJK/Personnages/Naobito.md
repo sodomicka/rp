@@ -1,6 +1,6 @@
 # Naobito Zenin
 
-- version : W2
+- version : W3
 
 Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat decrit = jusqu'au point de depart du RP (2005). Devenir post-2005 -> roadmap.
 
@@ -55,7 +55,6 @@ Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE
 
 ## Notes de frontiere (hors noyau)
 - Mort a Shibuya (2018, canon : combat Dagon, one-shot par Jogo dans la foulee) : posterieure au point de depart, et le plot RP peut diverger -> roadmap, hors fiche noyau.
-- Date de depart de Toji du clan (implicite : milieu/fin des annees 90, quand les jumeaux sont en bas age) : a caler en fiche Toji (autre thread).
 - Fiches de Naoya, Jinichi, Ogi : a venir. Fondation et lignee : cf. Cosmogonie/Trois_Esprits.md et Factions/Clan_Zenin.md.
 
 ---

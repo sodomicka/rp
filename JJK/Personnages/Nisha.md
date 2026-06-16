@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W2
+- version : W3
 
 ## Identite
 - Nom : Nisha Zenin. OC. Protagoniste.
@@ -78,6 +78,7 @@ Fiche propre de Naoya : a venir (autre thread). Ici, seul son rapport a Nisha.
 
 ## Place dans le clan
 - Femme, donc pas heritiere. Mais puissance d'exception.
+- [DIVERGENCE RP] Education de servante VECUE de la naissance a 8 ans (1990-1998), pas seulement planifiee : elle l'a subie. La maitrise du territoire a 8 ans (1998) clot ce statut et la fait favorite.
 - Enfance : Naobito a failli la renier puis l'executer (son sort lu comme celui d'un fleau). Naoya l'a defendue. L'eveil de la Chronostase (aout 1994) l'a sauvee : un vrai sort Zenin a elle.
 - 2000 (10 ans) : Naobito la fait Grade Special 1. Motif : elle a mate le fleau, donc vraie Zenin, seule femme a l'etre.
 - Hei refuse : femme = pas digne (consequence de la misogynie du clan). Akashi refuse par ego (elle se sait digne du Hei).
@@ -96,7 +97,7 @@ Fiche propre de Naoya : a venir (autre thread). Ici, seul son rapport a Nisha.
 | 30 jan 1990 | Naissance des jumeaux. Naobito decu d'avoir une fille ; la planifie comme servante de Naoya. |
 | 30 jan 1994 | Eien se revele a Nisha (4 ans), offre la Chronokinesie. Naobito envisage de la renier ou de l'executer. Naoya la defend. |
 | aout 1994 | Eveil des innes : Naoya la Projection, Nisha la Chronostase. Eien commence a craindre pour sa suprematie. |
-| 1998 | Nisha etend son territoire (Sphere du Temps Infini, 8 ans). Devient favorite de Naobito. |
+| 1998 | Nisha etend son territoire (Sphere du Temps Infini, 8 ans). Fin du statut servile, devient favorite de Naobito. |
 | 2000 | Putsch d'Eien (10 ans), echoue. Nisha le sent, le dit a son pere. Faite Grade Special 1. |
 | 2005 | Scolarisee a Tokyo (Jujutsu High). Point de depart du RP jouable. |
 
