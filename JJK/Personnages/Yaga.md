@@ -1,6 +1,6 @@
 # Masamichi Yaga
 
-- version : W1
+- version : W2
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -32,6 +32,7 @@ Un sorcier = un sort inne en regle generale (canon).
 Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a Nisha.
 - [DIVERGENCE RP] Progressiste, il n'apprecie pas Nisha au depart : son arrogance et son elitisme de Zenin le herissent.
 - Mais elle ne se reduit pas a ces traits ; un respect mutuel s'installe, comme avec les autres prodiges. Etat stable = respect mutuel.
+- [DIVERGENCE RP] Son progressisme est ACTIF, pas une posture : il ne tolere pas qu'un Kyotoite traine discrimination, meurtres ou pots-de-vin sur le turf de Tokyo, quitte a se frotter aux hautes instances. Sa menace a la rentree de Nisha (agir en Kyotoite = retour a Kyoto) est SINCERE : il ne defait pas son placement politique (voulu par trois clans et les hautes instances), il borne sa CONDUITE.
 - Evolution fine -> roadmap.
 
 ## Grade et scaling
@@ -43,6 +44,11 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 |---|---|
 | pre-2005 | Histoire canon-pure (le canon en dit peu). Devient professeur a l'ecole de Tokyo. |
 | 2005 | Professeur de la promo des quatre prodiges. Grade 1, 7 doigts. Friction initiale avec Nisha. Point de depart du RP. |
+
+## Trajectoire datee
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| 1 avr 2005 | Rentree de Nisha a Tokyo : recadre sa premiere vanne misogyne (ciblee sur Shoko) et pose sa limite (agir en Kyotoite = retour a Kyoto) ; expose l'unicite de Shoko | friction initiale posee avec Nisha |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Panda (creation dotee d'une ame autonome, aboutissement de son art) : entite differee, liee a la promo 2017-2020. Le canon ne date pas sa creation [INCERTAIN] -> roadmap.

@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W3
+- version : W4
 
 ## Identite
 - Nom : Nisha Zenin. OC. Protagoniste.
@@ -13,6 +13,7 @@
 - Double feminin de Naoya : fine, grande, blonde, cheveux longs laches.
 - Musculature seche et vive, pas massive (a l'oppose de Maki).
 - Mange enormement sans prendre un gramme : contrecoup metabolique de la Chronostase + entrainement constant.
+- [DIVERGENCE RP] Se bande la poitrine (bandage compressif) : pure DE-SEXUALISATION, pas pudeur. Elle refuse d'etre vue comme une femme - elle veut etre un exorciste, point. Naoya la resume : "un exorciste avec des seins".
 
 ## Sorts (deux)
 [DIVERGENCE RP] Un sorcier = un sort inne en canon. Nisha en manie deux.
@@ -63,6 +64,7 @@ Fiche propre de Naoya : a venir (autre thread). Ici, seul son rapport a Nisha.
 - Jumeaux en symbiose parfaite. Naoya adorable avec Nisha, et avec elle seule.
 - [DIVERGENCE RP] Naoya adouci : moins misogyne, du fait d'avoir une jumelle digne. Sa logique : haine des faibles, pas des femmes. Que sa soeur soit la seule femme digne la rend unique.
 - Rituel d'anniversaire (30 janvier) : chez les Zenin, date ordinaire (un Zenin recompense, n'offre pas). Eux : Naoya cuisine pour Nisha toute la journee, Nisha forge un couteau pour Naoya. Chacun se fait serviteur de l'autre une journee = don de sa dignite. Retournement du statut servile que le clan voulait imposer a Nisha.
+- [DIVERGENCE RP] Routine matinale rituelle (les jours ou ils sont ensemble) : douche separee chacun son tour, puis tout le reste a deux - bandage, habillage, dejeuner, entrainement 1c1 jusqu'a 7h. Deux ados a demi nus qui se connaissent par coeur, AUCUNE sexualisation : ils s'arment pour la journee. Reduite aux week-ends sur deux apres le transfert (2005).
 - Nuits : futon partage, blottis l'un contre l'autre, longues discussions avant de dormir.
 - Entrainement : Jinichi les tabasse en 1 contre 2 jusqu'a ce qu'ils encaissent les unites Kukuru + Akashi entieres a deux (vers 13 ans).
 - Mariage Gojo : Naoya deteste l'idee. Pas une faille entre eux : il la tient pour son egale, elle merite le meilleur, pas d'etre un piege tendu a un Gojo. Sur ce seul point, moins misogyne que Nisha.
@@ -75,6 +77,7 @@ Fiche propre de Naoya : a venir (autre thread). Ici, seul son rapport a Nisha.
 - Face a elle-meme : "moi l'exception", au-dessus des faibles.
 - Accepte d'etre monnaie d'echange matrimonial (femme = ressource pour le clan).
 - Mentalite type Maki/Yuta (canon) : l'homme qui la meritera est celui capable de la vaincre. Gojo la depasse sur quelques aspects.
+- [DIVERGENCE RP] Tres possessive de ce qu'elle considere sien. Envers Satoru, "son promis" assigne par le clan (raison 5) : possessivite a sens unique des 2005 (il l'ignore) - moteur de sa jalousie (ex. Utahime au tournoi).
 
 ## Place dans le clan
 - Femme, donc pas heritiere. Mais puissance d'exception.
@@ -109,11 +112,20 @@ Apportees par le conseil Zenin (Naobito, Jinichi, Ogi).
 4. Roger le territoire Gojo en imposant une Zenin plus forte que le prodige Gojo indiscipline (Naobito). Kyoto est partage Kamo/Zenin, Tokyo est surtout Gojo.
 5. Arranger si possible une union Nisha-Satoru pour phagocyter le clan Gojo par mariage (les trois). Nisha comprend, Naoya deteste.
 
+## Trajectoire datee
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| 1 avr 2005 | Transfert a Tokyo (Jujutsu High), promo des quatre prodiges ; chambre au campus en semaine, domaine un week-end sur deux | quotidien jumeaux rompu ; entree au classement officiel |
+| sept 2005 | Tournoi inter-ecoles (hote Kyoto) J1 : demonte Utahime puis frappe Satoru (son camp) sur une insulte a Naoya -> DQ ; J2 : bat Mei Mei | demontre que le lien jumeau prime sur l'ego et le promis |
+| 1 jan 2006 | Accepte Satoru (nouvel an organise par Shoko), premier baiser | couple forme ; faille d'Eien rearmee par l'attachement (latente) |
+| 30 jan 2006 | Anniversaire : recoit le collier-arsenal de Satoru | acquiert l'artefact (76 billes de tungstene, batterie cinetique pour la Chronostase ; cf. SB7) |
+
 ## Notes de frontiere (reporte hors de ce build)
 - Backstory COMPLETE detaillee + instance jouee : a venir en Parties/JJK/Partie1/Suivi/ + CODEX (setup / V1).
 - Fiches propres d'Eien et Kenjaku : cf. WIKI Personnages/. Fiche de Naoya : a venir (autre thread).
 - Cosmogonie du couple, origine des trois familles : cf. WIKI Cosmogonie/Trois_Esprits.md.
 - Mecanique des territoires (justification du domaine a 8 ans, raison de la crainte d'Eien) : autre thread.
+- Devenir post-A1 (transcendee par Gojo en 2006 -> n2 ; prof a Kyoto ~2009) -> roadmap (A2+) ; aujourd'hui en pointeurs (cf. _Implications, migration 3-strates).
 - Gojo mort en 2018 = canon ; impact d'une Nisha numero 2 a ses cotes = point ouvert, a trancher plus tard.
 
 ---

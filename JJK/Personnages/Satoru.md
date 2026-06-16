@@ -1,6 +1,6 @@
 # Satoru Gojo
 
-- version : W2
+- version : W3
 
 ## Identite
 - Nom : Satoru Gojo. Canon. Le guerrier parfait vivant du clan Gojo.
@@ -63,6 +63,13 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 | 7 dec 1989 | Naissance. Le guerrier parfait du clan Gojo - porteur de l'Infini et des Six Yeux - est venu. |
 | enfance | Le clan cede a ses caprices (assez raisonnables). Il se desinteresse vite du pouvoir politique et financier. |
 | 2005 | Scolarise a Tokyo (Jujutsu High). Chef de fait du clan ; 12 doigts, avant-eveil. Point de depart du RP. |
+
+## Trajectoire datee
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| sept 2005 | Tournoi inter-ecoles (hote Kyoto) J1 : bat Mei Mei puis Ranta, elimine par Nisha (qu'il a provoquee en insultant Naoya) ; J2 : bat Naoya | decouvre que le lien jumeau de Nisha le depasse |
+| 1 jan 2006 | Se declare a Nisha (encore sous elle au classement, pre-eveil), accepte | couple forme |
+| 30 jan 2006 | Offre a Nisha le collier-arsenal (coquetterie deguisee en batterie cinetique) | -- |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Eveil de 2006 (vs Toji) et tout ce qu'il debloque (Infini passif, maitrise des Six Yeux, RCT, Violet, deploiement du domaine, 23 doigts) : etabli (cf. scaling) mais detail narratif -> roadmap.

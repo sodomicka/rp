@@ -1,6 +1,6 @@
 # Mei Mei
 
-- version : W1
+- version : W2
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -48,6 +48,11 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 |---|---|
 | pre-2005 | Naissance (non datee, canon muet). Entre a Kyoto en 2003. |
 | 2005 | 3e (derniere) annee a Kyoto. Semi-Grade 1, 5 doigts. Point de depart du RP. |
+
+## Trajectoire datee
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| sept 2005 | Tournoi inter-ecoles (hote Kyoto) J1 : eliminee par Gojo ; J2 : perd vs Nisha | -- |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Diplome 2006 -> carriere de freelance mercenaire ; passage Grade 1 (7 doigts) ; embauche comme prof a Kyoto (post-2008, sur reco de Nisha) -> roadmap / cf. Factions/Ecole_Kyoto.md.

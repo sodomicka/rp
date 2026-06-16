@@ -1,6 +1,6 @@
 # Naoya Zenin
 
-- version : W2
+- version : W3
 
 Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat decrit = jusqu'au point de depart du RP (2005). Devenir post-2005 -> roadmap.
 
@@ -42,10 +42,17 @@ Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE
 ## Relation a Nisha
 - Jumeaux en symbiose parfaite, forgee a l'entrainement depuis l'enfance. Detail cote Nisha : cf. Personnages/Nisha.md.
 - Rituel d'anniversaire (30 janvier) : Naoya cuisine pour Nisha toute la journee, Nisha lui forge un couteau. Chacun se fait serviteur de l'autre une journee - don de sa dignite, retournement du statut servile que le clan voulait imposer a Nisha.
+- [DIVERGENCE RP] Pour lui, Nisha est un exorciste, pas une femme a sexualiser : il la resume comme "un exorciste avec des seins". D'ou leur routine matinale rituelle, desexualisee (douche separee, le reste a deux jusqu'a l'entrainement 1c1) - cf. fiche Nisha.
 - Nuits : futon partage, longues discussions avant de dormir.
 
 ## Entrainement
 - Jinichi (cousin, pilier du Hei) les tabasse en 1 contre 2 jusqu'a ce qu'ils encaissent les unites Kukuru + Akashi entieres a deux (vers 13 ans).
+
+## Trajectoire datee
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| 1 avr 2005 | Nisha transferee a Tokyo : routine quotidienne des jumeaux reduite aux week-ends sur deux | separation au quotidien |
+| sept 2005 | Tournoi inter-ecoles (hote Kyoto) J1 : avec Ranta, fait tomber Geto en foret ; dernier debout -> victoire Kyoto ; J2 : obtient son duel reclame vs Satoru, perd | rival jauge ; gout d'inacheve |
 
 ## Notes de frontiere (hors noyau)
 - Devenir post-2005 (rivalite avec Megumi pour la succession ; mort et retour en fleau, canon) -> roadmap.

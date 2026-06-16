@@ -1,6 +1,6 @@
 # Suguru Geto
 
-- version : W1
+- version : W2
 
 Page = fiche personnage (noyau, etat 2005). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB5.
 
@@ -26,6 +26,11 @@ Page = fiche personnage (noyau, etat 2005). Faits canon non balises (niveau etab
 - Shoko Ieiri : camarade de promo.
 - Nisha Zenin : opposition morale sincere et assumee. [DIVERGENCE RP] Leur premier echange est un debat serieux et un peu tendu sur le sort des faibles ; Satoru desamorce, et l'opposition se mue en joutes recurrentes dont Shoko, Satoru et Yaga s'amusent. Les deux jouent de leur desaccord.
 - Triangle Nisha / Satoru / Geto : [DIVERGENCE RP] rivalite a trois, concours permanents et gueguerre d'ego qui exasperent Shoko et Yaga.
+
+## Trajectoire datee
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| sept 2005 | Tournoi inter-ecoles (hote Kyoto) J1 : tombe a deux (Naoya + Ranta) en foret ; J2 : bat Utahime | -- |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Mission Receptacle d'Etoile (2006), bascule ideologique, defection, suite et fin de Geto : -> roadmap.

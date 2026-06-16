@@ -1,6 +1,6 @@
 # Ranta Zenin
 
-- version : W2
+- version : W3
 
 Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat = jusqu'au point de depart (2005). Devenir post-2005 -> roadmap.
 
@@ -35,6 +35,11 @@ Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE
 
 ## Place dans le clan
 - Membre du Hei, profil de support tactique aupres de Jinichi et Naoya.
+
+## Trajectoire datee
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| sept 2005 | Tournoi inter-ecoles (hote Kyoto) J1 : avec Naoya, fait tomber Geto, puis elimine par Gojo ; J2 : se desiste (support, refuse d'affronter un prodige) | -- |
 
 ## Notes de frontiere (hors noyau)
 - Devenir post-2005 (combat et mort lors du massacre de Maki, par surmenage de sa technique, canon) -> roadmap.

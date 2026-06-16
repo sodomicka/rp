@@ -1,6 +1,6 @@
 # Shoko Ieiri
 
-- version : W1
+- version : W2
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -46,6 +46,12 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 |---|---|
 | ~1990 [INCERTAIN] | Naissance (date non donnee par le canon). |
 | 2005 | Scolarisee a Tokyo, promo des quatre prodiges. Semi-Grade 1, medecin du groupe. Arrivee de Nisha : friction initiale. Point de depart du RP. |
+
+## Trajectoire datee
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| sept 2005 | Tournoi inter-ecoles (hote Kyoto) : non-combattante ; soigne Utahime apres son elimination par Nisha | demonstration de son utilite (5 mois apres l'insulte de Nisha) |
+| ~1 jan 2006 | Organise le nouvel an des quatre ; couvre la declaration de Satoru | -- |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Bascule friction -> amitie avec Nisha, et evolution de la relation -> roadmap.
