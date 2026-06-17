@@ -1,6 +1,6 @@
 # _Implications
 
-- version : W10
+- version : W11
 
 Journal de conception (passes en spirale). Document de TRAVAIL : jamais fetche en narration.
 
@@ -9,69 +9,30 @@ Journal de conception (passes en spirale). Document de TRAVAIL : jamais fetche e
 Format libre : `<entite/lieu> | <arc ou contexte> | <point a verifier / doute / fait en attente / a faire>`
 
 ## Entrees
-- Kenjaku | noeud de 2006 (post-depart) | l'operation datee via la TVA (assassinat du Receptacle d'Etoile au service du Merger ; repetition du futur culte de Geto) est forward-pointee dans Kenjaku.md (Notes de frontiere). A porter en Trajectoire datee quand le noeud 2006 sera roadmappe (A2). Pas d'anticipation d'ici la.
 
-- Collier de Nisha | A1 (anniversaire 30 jan 2006) | artefact recurrent ACTE (cadeau de Satoru ; 76 billes de 5 g de tungstene pur, batterie cinetique pour la Chronostase). Integre A CHAUD dans Nisha.md (Trajectoire) et Roadmap_A1 (Tchekhov : detonation A2+, reappro par cadeau annuel ou recharge a court de billes). RESTE A FAIRE au prochain BIBLE BUILD (B9 -> B10) : entree SB7 (artefact) + SB8 Tchekhov.
+- Kenjaku | noeud 2006 (A2) | OUVERT - seule consolidation A2 pending. L'op via la TVA (assassinat du Receptacle d'Etoile au service du Merger ; repetition du futur culte de Geto) est toujours forward-pointee dans Kenjaku.md (Notes de frontiere). A2 est desormais roadmappe (Roadmap_A2 W5) -> l'op est PORTABLE en Trajectoire datee, mais pas encore portee (hors scope du thread batch-6 / B11). DECISION worldbuilder : porter (avant ou apres B11), ou laisser en Notes et traiter au fil de l'ere B. Pas d'anticipation tant que non porte.
 
-- Cadeau reciproque Nisha -> Satoru | a partir d'A2, autre thread | Nisha offrira aussi un cadeau annuel a Satoru, des A2. HORS perimetre A1 : ne rien graver avant de roadmapper A2. Simple pointeur.
+- Plafond Trajectoire datee | RESOLU | la reponse n'est pas un nombre, c'est le SPLIT PAR ERE. Convention de nommage ACTEE : noyau (ce que l'entite EST, <= point de depart) dans <Perso>.md ; Trajectoire datee post-depart (ce qu'elle DEVIENT) dans <Perso>_chrono_<Ere>.md. Ere A = 2005-2008 ; puis _B (2008+), etc. Applique a Nisha (Nisha.md noyau W7 + Nisha_chrono_A.md W1). Naoya et Satoru : a scinder au point de bascule 2008 "le moment venu", pas maintenant (plafonnent encore ~8 entrees, large). Modele narration INCHANGE : ces fichiers restent build-side, fetches a la demande, JAMAIS charges en jeu (la fiche d'arc tronquee tient le contexte). Conserve ici comme reference de convention.
 
-- Plafond Trajectoire datee | a fixer (SPEC) | la SPEC laisse le cap "<N> entrees max par fiche [A FIXER PAR LE WORLDBUILDER]" non renseigne. Entrees A1 minimales (1-4 / fiche), aucun risque a ce stade ; mais le cap doit etre fixe avant accumulation (arcs ulterieurs, entites lourdes type Nisha / Satoru). Decision du worldbuilder.
+- MIGRATION 3-STRATES | en cours, arc par arc | STATUT au B11 : ere A (2005-2008) INTEGREE pour tout le casting A1+A2 actif (verifie en cloture Passe 2). A2 porte : Satoru (eveil 2006 -> 23 doigts, passe n1 ; Satoru.md W4), Mei Mei (diplome 2006 -> freelance, Grade 1 ; W2), Geto (A2 complet ; W4), Nisha + Naoya (A2 a chaud), Toji (mort 2006 + vente conditionnelle de Megumi ; W4). PRINCIPE inchange : consolider les pointeurs "-> roadmap" (Notes de frontiere) en Trajectoire datee arc par arc, jamais avant l'arc producteur.
+  PENDING A2 (un seul) : Kenjaku, op TVA 2006 (cf. entree dediee).
+  PENDING post-A2 (NORMAL - leur arc pas encore roadmappe, restent en Notes de frontiere jusque-la) : Naobito (mort a Shibuya 2018) ; Naoya (mort + retour en fleau, rivalite de succession vs Megumi) ; Ranta (mort au massacre de Maki) ; Utahime (diplome 2007 -> Semi-Grade 1 -> prof Kyoto post-2008 ; trajectoire a verifier au passage) ; Gakuganji (execution de Yaga post-Shibuya) ; Eien (trahison / complots a partir de ~2015) ; Kenjaku (sceau de Satoru 2018).
+  CAS FACTION : le roster multi-ere d'Ecole_Kyoto (corps enseignant 2009-2018+, promos, Akari Nitta) = STRUCTUREL, reste sur la page faction (pas une Trajectoire datee perso).
 
-- Housekeeping Sommaire / BIBLE | a faire au prochain BIBLE BUILD | (1) Sommaire (W10 -> W11) : reporter les W du chantier A1 - Nisha W4, Naoya W3, Yaga W2, Satoru W3, Geto W2, Shoko W2, Ranta W3, Utahime W2, Mei Mei W2, Tournoi W2 ; + ajouter Roadmap_A1 a la note "Roadmaps non indexees" (dossier Roadmap/Nisha/). (2) BIBLE (B9 -> B10) : SB7 (collier) + SB8 Tchekhov (collier -> A2, faille d'Eien rearmee). Canari de version non bloquant d'ici la.
+- Testament de Naobito | ere B (a retravailler) | OUVERT : beats canon B-era d'Ogi (tentative d'execution de Maki/Mai ; complot anti-Megumi) + testament Naobito (Megumi chef de secours du clan si Gojo meurt/incapacite) en FRICTION avec A2 (protectorat des jumeaux sur les jumelles + adoption de Megumi par le couple Nisha/Satoru, vente annulee). A retravailler quand l'ere B sera roadmappee. Pointeurs roadmap laisses intacts dans les fiches.
 
-- MIGRATION 3-STRATES | en cours, arc par arc | STATUT : strate LIVE depuis A1 (premieres entrees ecrites pour le casting A1, fenetre 1 avr 2005 - 30 jan 2006 : Nisha, Naoya, Yaga, Satoru, Geto, Shoko, Ranta, Utahime, Mei Mei). PRINCIPE : consolider les pointeurs post-depart "-> roadmap" disperses (Notes de frontiere) en Trajectoire datee, ARC PAR ARC a mesure du roadmap, jamais avant l'arc producteur. Les pointeurs listes ci-dessous restent en Notes de frontiere jusqu'a ce que leur arc soit roadmappe (A2+).
-  INVENTAIRE des pointeurs post-A1 encore en attente (etat au chantier A0/A1) :
-  - Satoru | eveil 2006 (vs Toji) -> 23 doigts ; debloque Rouge, Violet, RCT, deploiement du domaine ; passe n1. (A2.)
-  - Nisha | transcendee par Gojo en 2006 -> passe n2 (A2) ; prof de 2e annee a Kyoto (~2009 ; aujourd'hui porte cote Ecole_Kyoto).
-  - Naobito | mort a Shibuya (2018).
-  - Naoya | mort + retour en fleau ; rivalite avec Megumi pour la succession.
-  - Toji | mort en 2006 (tue par Gojo, A2) ; vente a terme de l'info sur Megumi au clan Zenin.
-  - Ranta | mort lors du massacre de Maki (surmenage de sa technique).
-  - Mei Mei | diplome 2006 -> freelance ; passage Grade 1 (7 doigts) ; embauche prof a Kyoto (post-2008).
-  - Utahime | diplome 2007 ; passage Semi-Grade 1 ; prof de 1ere annee a Kyoto (post-2008).
-  - Gakuganji | execution de Yaga (post-Shibuya).
-  - Eien | trahison / complots (a partir de ~2015).
-  - Kenjaku | op TVA 2006 (A2) + sceau de Satoru (2018) [cf. entree ci-dessus].
-  CAS FACTION : le roster multi-ere d'Ecole_Kyoto (corps enseignant 2009-2018+, promos, Akari Nitta) est STRUCTUREL - il reste sur la page faction, ce n'est pas une Trajectoire datee perso.
-  ARBITRAGE : fiche par fiche, decision du worldbuilder (consolider tout / au fil des arcs / laisser certains pointeurs en Notes de frontiere).
-
-### Chantier A2 - ajouts roadmap (boucle serree, session courante)
-Correctifs ouverts par les ajouts du worldbuilder (etape A2_1bis + retouches A2_5/A2_6/A2_10). A traiter dans la boucle (fiches a chaud) puis au prochain BIBLE BUILD.
-
-- Roadmap_A2 | A2 (session courante) | EDITEE W3 -> W4 : + etape A2_1bis "Derniers instants calmes" (age d'or pre-Toji : cours, mission legere, week-end domaine, harcelement des cousines) ; retouches A2_5 (graine Megumi via Satoru), A2_6 (scene conseil + doctrine raillee + annonce du protectorat aux jumelles), A2_10 (plan Megumi ebauche + nego d'annulation de la vente) ; directive RESPIRATION ajoutee en Nature. A POUSSER sur le depot (remplace W3). NB : A2_1bis insere SANS renumeroter les etapes suivantes (les fiches referencent A2_4/5/6/8/9 en dur).
-
-- Conseil Zenin | A2_6 / structurel | ACTE : l'elite decisionnaire du clan = Naobito + Ogi + Jinichi (3). Comble un flou - ni la fiche faction Clan_Zenin (W3) ni la BIBLE ne definissaient le conseil (seules mentions eparses : Jinichi "membre du conseil" en SB5 ; "remaniement que le conseil rejetterait" en roadmap). A FAIRE : (a) enrichir Clan_Zenin (gouvernance : conseil = elite decisionnaire a 3) ; (b) BIBLE SB4 au prochain BIBLE BUILD.
-
-- Ogi | A2_1bis + A2_6 | ENRICHIR (fiche existe) : humilie en personne par les jumeaux sur la loterie genetique (A2_1bis), MUET (le Hei n'affronte pas les jumeaux) ; siege au conseil, RIT sous couvert de la doctrine (A2_6). S'articule avec le canon de fiche (cadet aigri qui reporte sa rancoeur sur ses filles).
-
-- Naobito | A2_6 (+ A2_1bis indirect) | ENRICHIR (fiche existe) : preside/siege au conseil, RIT de la doctrine de ses propres prodiges (le chef ne s'attendrit sur personne) ; "jackpot" de la loterie genetique dans la vanne des jumeaux (A2_1bis).
-
-- Jinichi | A2_6 | ENRICHIR (fiche existe) : siege au conseil, NE rit PAS (concede la possibilite en theorie mais juge les jumelles incapables d'egaler Toji par le bas - deni de celui qui a connu la bete). ACTER un fait neuf : Jinichi DETESTAIT Toji (jamais pose noir sur blanc ; coherent avec le deshonneur du sang).
-
-- Maki + Mai | A2_1bis + A2_6 | ENRICHIR (W3) : harcelement intense pre-refuge (3e personne, insultes "ratees / seppuku", graviers sub-soniques dans les mollets) ; revirement protectorat (A2_6, deja partiel). Verifier ce que W3 porte deja avant d'ajouter.
-
-- Toji | A2_4 / A2_5 | CORRIGER + ENRICHIR (W2) : l'entree d'inventaire ci-dessus "vente a terme de l'info sur Megumi" est IMPRECISE - c'est la vente conditionnelle de MEGUMI (l'enfant). Canon a inscrire : contrat de vente au clan Zenin, CONDITIONNEL a l'apparition d'un sort (prix ~7-8M yens, vente differee ~2-3 ans), revele a Satoru par Toji mourant (A2_4). Porter en Trajectoire datee / Notes de frontiere.
-
-- Nisha + Naoya | A2 (roadmap posee) | ALIMENTER la Trajectoire datee A CHAUD : A2_1bis (harcelement cousines + vanne Ogi), A2_6 (scene conseil + doctrine raillee + annonce protectorat + base entrainement par Naoya), A2_10 (plan Megumi Saitama + nego annulation vente). Desormais possible (l'arc est roadmappe).
-
-- Megumi | A2 -> B1 | ACTE : en A2, EBAUCHE seulement (discussion couple A2_5/A2_10 ; nego d'annulation de la vente, clan cede par mepris). Rencontre + adoption + developpement du sort (~5 ans, ~2008) -> B1. Le couple ignore Tsumiki en A2. FICHE Megumi DIFFEREE a B1 (comme les soeurs Hasaba a Shibuya).
-
-- Testament de Naobito | B (a reverifier) | PENSE-BETE hors A2 : le canon fait de Megumi le chef de secours du clan si Gojo meurt/incapacite. Ici c'est le COUPLE (pas Gojo seul) qui recupere Megumi -> le testament canon devra etre retravaille en ere B. A traiter quand B sera roadmappe.
-
-- Clan_Zenin (faction) | correctif mineur | la fiche W3 dit "Fiches perso (Naobito, Naoya, Jinichi, Ogi) : a venir" alors qu'elles existent toutes. Mettre a jour le pointeur au prochain passage sur la fiche.
-
-- Cloture Passe 2 (a verifier) | A2 vs B1 | confronter la nego Megumi (clan cede + vente annulee, A2_10) au futur : le sort de Megumi apparait ~2008 (le contrat conditionnel se serait arme) ; il est annule AVANT, donc coherent, mais a reverifier une fois B1 roadmappe.
-
-### Chantier A2 - tournoi + 2c1 (session courante, suite)
-- Goodwill Event | A2 | DECIDE : aucune edition jouee en A2 (mentionne en fil transversal Roadmap_A2 W5). 2006 (hote Kyoto, vainqueur 2005) : Kyoto REFUSE de jouer (fierte ; pas faire-valoir des prodiges de Tokyo). 2007 : annule (instabilite Tokyo post-Riko 2006 + Geto qui se delite + Satoru disqualifie d'office + morosite generale).
-- Regle d'hote Goodwill | structurel | ACTE [DIVERGENCE RP] : le VAINQUEUR de l'edition precedente heberge (PAS "alterne"). A CORRIGER : (a) fiche Tournoi W2 (dit "L'ecole hote alterne... (canon)" - le label canon etait abusif) ; (b) BIBLE SB4 ("ecole hote alternee") ; (c) Roadmap_A1 A1_3 - verifier/poser que Kyoto GAGNE 2005 (sinon la cascade des hotes est bancale). (a)(b) au prochain BIBLE BUILD.
-- Massacre Geto / mort Haibara | A2_8 | [DIVERGENCE RP] sur la DATE : canon = massacre le 23 sept 2007 ; RP = repousse a FIN 2007 (apres l'edition Goodwill de septembre, non tenue ; Yu meurt apres le tournoi). Motif : Tokyo doit etre instable AVANT le massacre (climat 2006), pas a cause de lui. Balise dans A2_8 (fait) ; a porter dans les fiches Geto/Haibara/Nanami a leur enrichissement.
-- 2c1 "Deux contre le dieu" | A2_7 (mi-2007) | ACTE : spar amical Nisha+Geto vs Satoru. Synergie Nisha+Geto = 85 % (epoque quatuor). Resultat (loi en %) : (59.51 + 51.35) x 1.085 = 120.28 % (~21.6 doigts) < Satoru 23 (139.07 %) ; l'Infini scelle. Le dieu domine meme a 2c1. Consequence perso : Nisha en ressort PLUS amoureuse (nourrit "type de mec : plus fort que moi"). Enregistre : (a) syn 85 % Nisha+Geto dans Doigts_de_Sukuna W5 [fait] ; (b) Trajectoire datee Nisha (2c1 -> + attachement Satoru), a alimenter avec le reste d'A2.
+- Cloture Passe 2 - verification differee B1 | OUVERT : confronter la nego d'annulation de la vente de Megumi (clan cede par mepris, A2_10) au sort qui apparait ~2008 (le contrat conditionnel se serait arme a ~2008-9, cf. Toji.md). Annule AVANT l'apparition du sort, donc coherent en l'etat ; a reverifier une fois B1 roadmappe.
 
 ## Archive (resolu)
-- Chantier A0 - buffer pre-v8.2 (doctrine batch) de 13 entrees solde : 12 integrees a chaud, 1 partielle (Kenjaku : part atemporelle integree, residu date -> entree ci-dessus). Aucun conflit (13 fiches confrontees).
-- Housekeeping A0 execute via BIBLE BUILD B8 -> B9 : Naoya ajoute au roster Hei en SB4 (+ refus du 2c1) ; Sommaire W9 -> W10 (7 W reportes : Clan_Zenin W3, Nisha W3, Kenjaku W2, Naobito W3, Naoya W2, Ranta W2, Satoru W2).
-- Chantier A1 (boucle serree) - integration a chaud : Roadmap_A1 (W1) posee ; fiches enrichies (Nisha W4 noyau + Trajectoire ; Naoya W3, Yaga W2 noyau + Trajectoire ; Satoru W3, Geto W2, Shoko W2, Ranta W3, Utahime W2, Mei Mei W2 Trajectoire ; Tournoi W2 touche). Ecole_Tokyo confirmee inchangee. Conflit traite : date de naissance Ranta (worldbuilder a tranche : fiche = reference, fin 1989). Housekeeping Sommaire/BIBLE differe (cf. entree dediee).
+- Chantier A2 (boucle serree) - integration a chaud SOLDEE : roadmap A2 etoffee (W5) ; 11 fiches Zenin enrichies/scindees (Ogi W2, Naobito W4, Jinichi W2, Clan_Zenin W4, Maki W4, Mai W4, Toji W4, Tournoi W3, Nisha scindee W7 + Nisha_chrono_A W1, Naoya W6) ; Conseil Zenin pose (Naobito + Ogi + Jinichi) ; fait neuf "Jinichi detestait Toji" ; regle d'hote tournoi (le vainqueur de l'edition precedente heberge) ; vente conditionnelle de Megumi (Toji). Relecture croisee : ZERO conflit (A2 de Satoru / Mei Mei / Geto verifie present en cloture).
+- Batch 6 (datation) RESOLU : mort de Haibara + massacre du village repousses a FIN 2007 (vs canon septembre 2007 - entree au village le 18 sept, rapport d'incident le 28 sept) sur Geto.md W4, Haibara.md W2, Nanami.md W2. Motif : Tokyo instable AVANT le massacre, pas a cause de lui (apres la fenetre Goodwill de septembre, edition 2007 non tenue).
+- Flags Toji RESOLUS (canon verifie) : prix = 7M yens, porte a 8 si le sort herite est l'un de ceux du clan (Dix Ombres) ; differe re-ancre sur les mots de Toji mourant en 2006 ("deux ou trois ans" -> ~2008-9, l'echeance ou le sort se manifeste). Confirme CANON (non balise). Toji.md W4.
+- Collier de Nisha RESOLU en B10 : SB7 (artefact) + SB8 Tchekhov poses.
+- Cadeau reciproque Nisha -> Satoru RESOLU : tradition du bandeau (7 dec) integree dans Satoru.md (Physique + relation Nisha + Trajectoire), reciproque du collier (30 jan).
+- Housekeeping Sommaire / BIBLE A1+A2 : execute via BIBLE BUILD B11 (ce thread) - Sommaire reindex (5 fiches non indexees + Nisha_chrono_A + bumps reels) ; SB4 (Conseil Zenin + regle d'hote tournoi) ; SB5 (5 nouvelles fiches) ; SB1 (resonance gemellaire -> loi synergie/symbiose) ; SB8 Tchekhov (Geto/Yuki, Nisha/Yuki post-Shibuya, fil Megumi, Goodwill non tenu A2).
+- Chantier A0 - buffer pre-v8.2 (doctrine batch) de 13 entrees solde : 12 integrees a chaud, 1 partielle (Kenjaku : part atemporelle integree, residu date 2006 -> cf. entree Kenjaku). Aucun conflit (13 fiches confrontees).
+- Housekeeping A0 execute via BIBLE BUILD B8 -> B9 : Naoya ajoute au roster Hei en SB4 (+ refus du 2c1) ; Sommaire W9 -> W10.
+- Chantier A1 (boucle serree) - integration a chaud : Roadmap_A1 (W1) posee ; fiches enrichies (Nisha noyau + Trajectoire ; Naoya, Yaga noyau + Trajectoire ; Satoru, Geto, Shoko, Ranta, Utahime, Mei Mei Trajectoire ; Tournoi touche). Ecole_Tokyo confirmee inchangee. Conflit traite : date de naissance Ranta (fiche = reference, fin 1989).
 
 ---
 
