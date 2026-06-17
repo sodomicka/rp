@@ -1,6 +1,6 @@
 # Clan Zenin
 
-- version : W3
+- version : W4
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 (morts, massacre du clan) -> roadmap, hors de cette page neutre.
 
@@ -28,6 +28,9 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 - Note de generation : Jinichi (1975) et Toji (1977) sont les NEVEUX de Naobito et Ogi, non leurs freres. Naoya/Nisha (1990) et Maki/Mai (2002) en sont les cousins, plus jeunes d'une a deux generations effectives.
 - Contraste d'honneur [DIVERGENCE RP] : l'aine se donne la mort par honte d'un enfant vide (Toji) ; Ogi, face a sa propre fille "taree" (Maki), la jette par calcul, sans le moindre code. Deux rapports opposes a l'honneur du sang.
 
+## Gouvernance - le conseil
+[DIVERGENCE RP] Au sommet, le clan est dirige par un CONSEIL : son elite decisionnaire, a trois tetes - le patriarche Naobito, son cadet Ogi, et leur neveu Jinichi (nomme au conseil par Naobito pour sa seule puissance). C'est lui qui tranche les decisions majeures - transferts, missions de poids, orientations de lignee (ainsi le transfert de Nisha a Tokyo en 2005). La regle cardinale "on n'offre rien chez les Zenin, on recompense" y vaut comme partout : on siege par la force, jamais par l'age ni le rang de naissance (Jinichi, d'une generation cadette, y entre pour sa puissance, pas pour son sang). Le patriarche y porte la voix preponderante.
+
 ## Convention de nommage
 - [DIVERGENCE RP] Porter un vrai prenom reconnu au sein du clan = reconnaissance pleine (ni servante ni uterus). Les non-reconnues ne sont pas nommees.
 
@@ -54,7 +57,7 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 
 ## Pointeurs
 - Fondation, greffes inter-clans, origine de la Restriction Celeste : cf. Cosmogonie/Trois_Esprits.md.
-- Fiches perso (Naobito, Naoya, Jinichi, Ogi) : a venir.
+- Fiches perso du roster Zenin : cf. Personnages/ (Naobito, Naoya, Nisha, Jinichi, Ogi, Ranta, Chojuro, Nobuaki, Maki, Mai, Toji).
 - Protagoniste : cf. Personnages/Nisha.md.
 
 ---
