@@ -1,8 +1,8 @@
 # Ogi Zenin
 
-- version : W1
+- version : W2
 
-Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat decrit = jusqu'au point de depart du RP (2005). Devenir post-2005 -> roadmap.
+Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
 ## Identite
 - Nom : Ogi Zenin. Canon.
@@ -41,9 +41,15 @@ Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE
 ## Place dans le clan
 - Pilier du Hei, membre du conseil. Co-decideur du transfert de Nisha a Tokyo en 2005 - il y voit aussi un moyen personnel et tacite de cesser d'etre humilie par son frere et les jumeaux (cf. Personnages/Nisha.md, cinq raisons).
 
+## Trajectoire datee
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| printemps 2006 (A2_1bis) | Nargue en personne par Naoya et Nisha sur la loterie genetique du clan : ses filles sont les mauvais numeros (Maki bridee + Restriction Celeste, Mai bridee), Naobito le jackpot (ses jumeaux Naoya/Nisha en symbiose). Encaisse MUET - le Hei, lui compris, ne replique jamais aux jumeaux pour ne pas se faire humilier 2 contre 1 | humiliation publique avalee en silence ; rancoeur intacte |
+| 2006, post-pivot Toji (A2_6) | Siege au conseil (avec Naobito et Jinichi) quand les jumeaux soumettent leur doctrine edulcoree ("revoir nos investissements humains"). RIT - mais sous couvert du conseil : seul, il encaissait la vanne en silence ; adosse aux trois, il se decouvre des dents. La moquerie collective scelle le secret | co-auteur du rejet qui pousse les jumeaux a appliquer la doctrine en douce |
+
 ## Notes de frontiere (hors noyau)
 - Devenir post-2005 (complot contre Megumi, tentative d'execution de Maki et Mai, mort par Maki, canon) -> roadmap.
-- Mecanique gemellaire de Maki/Mai (Restriction Celeste, pool) : cf. fiches Maki/Mai (a venir) et pool gemellaire (Personnages/Nisha.md).
+- Mecanique gemellaire de Maki/Mai (Restriction Celeste, pool) : cf. fiches Maki/Mai et pool gemellaire (Personnages/Nisha.md).
 
 ---
 

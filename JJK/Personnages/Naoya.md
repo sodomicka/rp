@@ -1,6 +1,6 @@
 # Naoya Zenin
 
-- version : W5
+- version : W6
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -53,16 +53,18 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 |---|---|---|
 | 1 avr 2005 | Nisha transferee a Tokyo : routine quotidienne des jumeaux reduite aux week-ends sur deux | separation au quotidien |
 | sept 2005 | Tournoi inter-ecoles (hote Kyoto) J1 : avec Ranta, fait tomber Geto en foret ; dernier debout -> victoire Kyoto ; J2 : obtient son duel reclame vs Satoru, perd | rival jauge ; gout d'inacheve |
+| printemps 2006 (A2_1bis) | Avec Nisha, au domaine (week-end des jumeaux reunis), harcele les cousines Maki et Mai (4 ans) : parlees a la 3e personne, "ratees", "Ogi aurait du se faire seppuku", graviers sub-soniques dans les mollets ; va narguer Ogi sur la loterie genetique (lui les mauvais numeros, Naobito le jackpot ; Ogi muet) | dernier age d'or insouciant (IRONIE : protectorat trois etapes plus loin, A2_6) |
 | 2006 (A2_5) | Apprend que Toji a failli tuer Nisha et que Satoru l'a sauvee ; fonce de Kyoto a Tokyo. Premier reflexe : REMERCIER Satoru d'avoir sauve sa moitie -> FIN DU GRIEF (il respecte le second protecteur de Nisha, malgre leurs differends) | grief Naoya/Satoru solde ; solo -> 10 doigts |
-| 2006 (A2_6) | Discussion sincere avec Nisha : Toji n'etait pas un rate ; a part eux deux en symbiose, personne n'aurait fait le poids s'il avait voulu massacrer le clan - et c'est exactement ce qui guette Maki si Mai mourait (voie Toji). Ils arretent une DOCTRINE SECRETE, remaniement du clan que le conseil rejetterait : "Proteger les faibles, servir les forts". Ils se posent en SEUL refuge des jumelles : fin du harcelement, cultivation interessee et longtermiste (Maki/Mai ont 4 ans) | co-auteur d'une reforme clandestine du clan ; refuge/cultivation des jumelles amorce ; parallele Toji/Maki arme |
+| 2006 (A2_6) | Discussion sincere avec Nisha : Toji n'etait pas un rate ; a part eux deux en symbiose, personne n'aurait contenu un Toji decide a massacrer le clan - et c'est ce qui guette Maki si Mai mourait (voie Toji). Ils arretent la DOCTRINE SECRETE "proteger les faibles, servir les forts", la SOUMETTENT au conseil sous forme edulcoree -> RAILLEE par Naobito/Ogi/Jinichi (verdict "pas d'autre Toji"), ce qui la scelle et la fait passer en clandestin. Ils annoncent leur PROTECTORAT aux jumelles (fin du harcelement) ; Naoya pose les bases d'un entrainement longtermiste (elles ont 4 ans) | co-auteur d'une reforme clandestine ; protectorat + cultivation des jumelles engages ; parallele Toji/Maki arme |
 | 2006-2008 | Routine a deux ecoles maintenue (Naoya a Kyoto, Nisha a Tokyo) : symbiose entretenue aux retrouvailles un week-end sur deux. Progression solo continue (11 en 2007, 12 en 2008) | separation au quotidien, lien tenu |
+| 2007 -> debut 2008 (A2_10) | Avec Nisha, arrete le CONCEPT d'eduquer des gosses "sur le droit chemin" (prolongement educatif de la doctrine : des puissants qui protegent, pas a la Zenin). Premier visage : Megumi - le plan concret (maison a Saitama, adoption) est porte par le couple Nisha/Satoru, la nego d'annulation de la vente conditionnelle menee par Nisha | bras educatif de la doctrine concu (-> ere B) |
 | hiver 2008 (A2_11) | Diplome de Kyoto ; prend la TETE DU HEI (post-lycee). La doctrine secrete a desormais un relais dans le clan via lui, en miroir des postes d'enseignants de Nisha (Kyoto) et Satoru (Tokyo) | chef du Hei ; solo 12 -> 14 (adulte) ; bascule vers l'ere B |
 
 ## Notes de frontiere (hors noyau)
 - Devenir post-diplome au-dela de la tete du Hei (rivalite avec Megumi pour la succession ; mort et retour en fleau, canon) -> roadmap / ere B.
 - Developpement du territoire interieur ; eventuelle fiche Naoya_adulte -> roadmap.
 - Detail narratif des beats A2 (fin du grief, doctrine secrete) -> Roadmap A2_5-A2_6 et A2_11.
-- Fiches Jinichi, Ogi : a venir. Cf. Cosmogonie/Trois_Esprits.md, Factions/Clan_Zenin.md, Personnages/Nisha.md.
+- Fiches Jinichi, Ogi : cf. Personnages/Jinichi.md, Ogi.md. Cf. aussi Cosmogonie/Trois_Esprits.md, Factions/Clan_Zenin.md, Personnages/Nisha.md.
 
 ---
 

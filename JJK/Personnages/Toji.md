@@ -1,6 +1,6 @@
 # Toji Fushiguro
 
-- version : W2
+- version : W3
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (TERMINAL en A2 : mort en 2006).
 
@@ -26,7 +26,7 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 ## Parcours (jusqu'au point de depart)
 - Meprise et maltraite par le clan tant qu'il y reste. Naobito le jette dans la fosse aux fleaux en esperant l'y voir mourir : Toji extermine les fleaux a mains nues, sans une once d'energie occulte.
 - Quitte le clan en 2000. Devient l'assassin de sorciers (Sorcerer Killer) : mercenaire, joueur invetere, etranger a la societe jujutsu et a ses codes.
-- Pere de Megumi (ne en decembre 2002, porteur des Dix Ombres), d'une femme hors-clan.
+- Pere de Megumi (ne en decembre 2002, porteur des Dix Ombres), d'une femme hors-clan. Joueur desargente, Toji a monnaye son fils au clan Zenin par un contrat de vente CONDITIONNEL : le clan ne reclame l'enfant - et n'en paie le solde (~7-8 millions de yens) - QU'A l'apparition d'un sort (les Dix Ombres, que les Zenin convoitent), livraison ainsi differee (~2-3 ans estimes). Tant qu'aucun sort ne se manifeste, le contrat dort.
 
 ## Relations
 - Naoya et Nisha (cousins) : [DIVERGENCE RP] gamins, ils reviennent souvent le narguer - le "chien des Zenin". La ou un enfant seul (cf. canon, Naoya) aurait ete tetanise puis souffle par sa force, a deux ils franchissent la premiere peur et surencherissent dans le mepris. En 2005 ils ne le craignent pas : comme le conseil, ils ne jugent que son energie occulte (nulle), aveugles a son potentiel reel. Repercussions : cf. Trajectoire datee (le duel de 2006 solde ironiquement ce mepris).
@@ -39,11 +39,11 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 | printemps 2006 (A2_3) | Recrute par Shiu Kong (intermediaire de la Time Vessel Association, qui finance la prime) pour intercepter et effacer le Receptacle d'Etoile (Riko Amanai) | contrat de l'assassin de sorciers |
 | 2006 (A2_4) | LE PIVOT TOJI. A l'approche de chez Tengen : frappe Gojo (garde relachee) et le tue - Gojo ne reviendra que par l'eveil RCT. Puis tue Riko Amanai (qui venait de choisir de vivre). Geto, pousse par la mort de Riko, l'affronte : son armee de fleaux ne suffit pas face a un anti-sorcier indetectable et surarme (Geto SANS domaine, canon) ; Toji le bat et l'EPARGNE - le tuer libererait d'un coup toute sa horde de fleaux | demontre l'ecart anti-sorcier ; Riko morte, Geto hors combat |
 | 2006 (A2_4) | DUEL contre Nisha, arrivee trop tard (hypersonique) devant chez Tengen, mission deja accomplie. Ses sorts de temps neutralises par la nature anti-sorcier de Toji, son SEUL atout est la vitesse : elle vide le collier (1re detonation des 76 billes de tungstene, kinetique pure qui contourne l'anti-sort ; cf. SB7), le manque de tres peu - mais Toji reprend le dessus en quelques dizaines de secondes. Tabassee par "le chien des Zenin", elle comprend qu'elle n'avait AUCUNE chance | collier detone ; le mepris d'enfance des jumeaux solde ironiquement |
-| 2006 (A2_4, fin) | Satoru, ressuscite et eveille, la sauve in extremis et acheve un Toji mortellement blesse. Mourant, Toji evoque Megumi, puis meurt | MORT (terminal en A2) ; Megumi nomme (graine -> ere B) |
+| 2006 (A2_4, fin) | Satoru, ressuscite et eveille, la sauve in extremis et acheve un Toji mortellement blesse. Mourant, Toji revele a Satoru l'existence de son fils Megumi ET le contrat de vente conditionnel qui le lie au clan Zenin (livrable a l'apparition d'un sort), puis meurt | MORT (terminal en A2) ; Megumi + le contrat reveles a Satoru (graine -> A2_5 / ere B) |
 
 ## Notes de frontiere (hors noyau)
 - Detail narratif du pivot (deroule scene par scene) : -> Roadmap A2_3-A2_4.
-- Megumi (fils, porteur des Dix Ombres) : nomme par Toji mourant ; fil de l'adoption par les Zenin -> ere B (cf. conditions de cloture A2 / a construire en B1). Fiche atemporelle eventuelle, hors perimetre de ce thread.
+- Megumi (fils, porteur des Dix Ombres) : revele par Toji mourant avec le contrat de vente conditionnel au clan Zenin. [DIVERGENCE RP] dans le RP, le contrat ne s'execute PAS : Nisha le fait ANNULER par le clan (A2_10, le clan cede par mepris) et le couple Nisha/Satoru adopte Megumi hors-Zenin (-> B1, avant l'apparition du sort ~2008). Fiche Megumi differee a B1. Detail -> Roadmap A2_5 / A2_10, a construire en B1.
 
 ---
 

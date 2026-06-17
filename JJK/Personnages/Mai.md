@@ -1,6 +1,6 @@
 # Mai Zenin
 
-- version : W3
+- version : W4
 
 Fiche noyau + Trajectoire datee (enrichie A2 ; arcs ulterieurs a venir). Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (detail -> roadmap).
 
@@ -29,6 +29,7 @@ Fiche noyau + Trajectoire datee (enrichie A2 ; arcs ulterieurs a venir). Canon +
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| printemps 2006 (A2_1bis) | Harcelee a 4 ans, avec Maki, par les cousins Naoya et Nisha lors d'un week-end au domaine : parlees a la 3e personne en leur presence, abreuvees de l'ordinaire atroce du clan (deception, "ratees", "Ogi aurait du se faire seppuku"), puis criblees de graviers tires en sub-sonique dans les mollets pour les bleuir (vitesse volontairement bridee - on s'amuse sans abimer l'investissement du clan) | sommet du mepris subi, juste avant le retournement |
 | 2006 (A2_6) | Le pivot des jumeaux. Naoya et Nisha, qui les harcelaient comme "faibles", arretent leur doctrine secrete "proteger les faibles, servir les forts" et se posent en SEUL refuge des jumelles : fin du harcelement, traitees en futures prodiges. Cultivation INTERESSEE et longtermiste (elles ont 4 ans) | de cible de mepris a pupille cultivee |
 | 2007 -> debut 2008 (A2_10) | Sur les week-ends au domaine, Nisha s'attache aux jumelles (graine de son instinct de protection/education -> ere B) ; entrainement reel amorce a mesure qu'elles grandissent | cultivation effective engagee |
 

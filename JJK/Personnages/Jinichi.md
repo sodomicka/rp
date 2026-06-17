@@ -1,8 +1,8 @@
 # Jinichi Zenin
 
-- version : W1
+- version : W2
 
-Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat decrit = jusqu'au point de depart du RP (2005). Devenir post-2005 -> roadmap.
+Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
 ## Identite
 - Nom : Jinichi Zenin. Canon.
@@ -28,7 +28,7 @@ Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE
 - Pragmatique loyaliste : le clan et ses valeurs passent avant tout ego. Quand il parle, c'est pour remettre quelqu'un sur le chemin etabli par le clan - quitte a contredire un superieur si l'interet du clan l'exige.
 
 ## Relations
-- Toji (frere) : lien marque par le deshonneur attache au sang ; Jinichi a "tenu" la ou Toji a "echoue" (une technique contre une Restriction), et sa force le preserve du mepris qui colle a son frere.
+- Toji (frere) : Jinichi le DETESTAIT - non par rivalite, mais parce que Toji incarnait le deshonneur du sang dont la honte a pousse leur pere au seppuku (1977, a la naissance d'un fils vide d'energie). Ce deshonneur aurait du eclabousser le frere reste ; Jinichi a "tenu" la ou Toji a "echoue" (une technique contre une Restriction), et sa droiture forcenee dans la ligne du clan est en partie une reaction a ce frere honni - sa seule force le preserve du mepris qui, sinon, colle au sang de Toji.
 - Naobito (oncle, patriarche) : le respecte ; Naobito le nomme au conseil pour sa force. Obeissance.
 - Ogi (oncle) : co-membre du conseil.
 - Naoya et Nisha (cousins) : il les entraine - les tabasse en 1 contre 2 jusqu'a ce qu'ils encaissent les unites Kukuru + Akashi entieres a deux (vers leurs 13 ans).
@@ -36,9 +36,14 @@ Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE
 ## Place dans le clan
 - Pilier du Hei et voix du clan au conseil (avec Naobito et Ogi). Co-decideur du transfert de Nisha a Tokyo en 2005 (cf. Personnages/Nisha.md).
 
+## Trajectoire datee
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| 2006, post-pivot Toji (A2_6) | Siege au conseil (avec Naobito et Ogi) quand les jumeaux soumettent leur doctrine edulcoree. NE rit PAS : concede la possibilite en theorie, mais reste certain que les jumelles (Maki/Mai) n'egaleront jamais Toji - peu importe combien il a hai son frere, c'est le deni de celui qui a connu la bete. Borne le verdict : "il n'y aura pas d'autre Toji" | sa certitude verrouille le verdict du conseil et scelle le secret des jumeaux |
+
 ## Notes de frontiere (hors noyau)
 - Devenir post-2005 (positions lors de la succession ; mort lors du massacre du clan par Maki, canon) -> roadmap.
-- Date de depart de Toji du clan : cf. fiche Toji (a venir).
+- Date de depart de Toji du clan : cf. fiche Toji.
 
 ---
 
