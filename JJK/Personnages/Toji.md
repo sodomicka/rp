@@ -1,6 +1,6 @@
 # Toji Fushiguro
 
-- version : W3
+- version : W4
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (TERMINAL en A2 : mort en 2006).
 
@@ -26,7 +26,7 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 ## Parcours (jusqu'au point de depart)
 - Meprise et maltraite par le clan tant qu'il y reste. Naobito le jette dans la fosse aux fleaux en esperant l'y voir mourir : Toji extermine les fleaux a mains nues, sans une once d'energie occulte.
 - Quitte le clan en 2000. Devient l'assassin de sorciers (Sorcerer Killer) : mercenaire, joueur invetere, etranger a la societe jujutsu et a ses codes.
-- Pere de Megumi (ne en decembre 2002, porteur des Dix Ombres), d'une femme hors-clan. Joueur desargente, Toji a monnaye son fils au clan Zenin par un contrat de vente CONDITIONNEL : le clan ne reclame l'enfant - et n'en paie le solde (~7-8 millions de yens) - QU'A l'apparition d'un sort (les Dix Ombres, que les Zenin convoitent), livraison ainsi differee (~2-3 ans estimes). Tant qu'aucun sort ne se manifeste, le contrat dort.
+- Pere de Megumi (ne en decembre 2002, porteur des Dix Ombres), d'une femme hors-clan. Joueur desargente, Toji a monnaye son fils au clan Zenin par un contrat de vente CONDITIONNEL : le clan ne reclame l'enfant - et n'en paie le prix (7 millions de yens, porte a 8 si le sort herite est l'un de ceux du clan, les Dix Ombres convoitees) - QU'A l'apparition d'un sort. Toji, mourant en 2006, l'estimera a "deux ou trois ans" (soit ~2008-9, l'echeance ou le sort se manifeste). Tant qu'aucun sort ne se montre, le contrat dort.
 
 ## Relations
 - Naoya et Nisha (cousins) : [DIVERGENCE RP] gamins, ils reviennent souvent le narguer - le "chien des Zenin". La ou un enfant seul (cf. canon, Naoya) aurait ete tetanise puis souffle par sa force, a deux ils franchissent la premiere peur et surencherissent dans le mepris. En 2005 ils ne le craignent pas : comme le conseil, ils ne jugent que son energie occulte (nulle), aveugles a son potentiel reel. Repercussions : cf. Trajectoire datee (le duel de 2006 solde ironiquement ce mepris).

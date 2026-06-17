@@ -1,6 +1,6 @@
 # Suguru Geto
 
-- version : W3
+- version : W4
 
 Page = fiche personnage : noyau (etat 2005) + Trajectoire datee (post-2005). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB5.
 
@@ -39,8 +39,10 @@ Page = fiche personnage : noyau (etat 2005) + Trajectoire datee (post-2005). Fai
 | 2006 (A2_4) | Pivot Toji : pousse par la mort de Riko (tuee par Toji apres l'abattage de Gojo), affronte Toji ; son armee de fleaux ne suffit pas face a un anti-sorcier indetectable et surarme ; battu et EPARGNE (le tuer libererait sa horde) | hors combat ; Riko morte |
 | 2006 (A2_5) | BASCULE DE CONVICTION. La liesse de la secte vouee a Tengen sur le cadavre de Riko le fait basculer INSTANTANEMENT : l'idealiste-protecteur passe exterminateur. Il n'est PAS un miroir cynique de Nisha - elle tolere les profanes comme un mal necessaire (gagne-pain), lui les veut morts : il la DEPASSE dans la monstruosite | inversion ideologique ; au-dela de Nisha |
 | 2006-2007 (A2_7) | Descente lente en toile de fond (le couple Nisha/Satoru, trop absorbe, ne la voit pas). Aout 2007 : Yuki Tsukumo lui expose DEUX facons d'empecher la naissance des fleaux ; Geto en deduit SEUL la TROISIEME - exterminer les profanes (Yuki ne la lui souffle pas) | doctrine d'extermination cristallisee |
-| 2007 (A2_8) | LES DEUX GOUTTES. Mort de Yu Haibara (qui lui avait affirme sa bonte peu avant) sur une mission a mauvais intel. LE LENDEMAIN, mission au village de montagne : il massacre 112 profanes pour sauver deux gamines (soeurs Hasaba, Nanako et Mimiko, futures filles de secte). Deux gouttes de trop -> le vase deborde | BASCULE POUR DE BON (passage a l'acte) ; recueille les soeurs Hasaba ; solo -> 15 doigts |
+| fin 2007 (A2_8) | LES DEUX GOUTTES. Mort de Yu Haibara (qui lui avait affirme sa bonte peu avant) sur une mission a mauvais intel. LE LENDEMAIN, mission au village de montagne : il massacre 112 profanes pour sauver deux gamines (soeurs Hasaba, Nanako et Mimiko, futures filles de secte). Deux gouttes de trop -> le vase deborde | BASCULE POUR DE BON (passage a l'acte) ; recueille les soeurs Hasaba ; solo -> 15 doigts |
 | fin 2007 (A2_9) | Decouvert via Yaga. Nisha + Shoko (les deux cyniques) acceptent d'entendre pourquoi - beat TERMINAL de l'opposition Nisha/Geto : elles entendent le monstre sans le suivre. Satoru, lui, refuse d'entendre, le confronte (scene de rue) mais le laisse partir, incapable de tuer son meilleur ami. Geto defecte et FONDE SA SECTE | defection consommee ; opposition Nisha/Geto soldee ; absent du diplome (hiver 2008) |
+
+[DIVERGENCE RP] Datation A2_8 : le canon situe la mort de Haibara puis le massacre du village en septembre 2007 (Geto entre au village le 18 sept ; rapport d'incident date du 28 sept). Le RP les repousse a FIN 2007 - apres la fenetre Goodwill de septembre (edition 2007 non tenue, cf. WIKI Factions/Tournoi.md) -, pour que Tokyo soit deja instable AVANT le massacre (climat post-Riko 2006) et non a cause de lui. Aligne avec Haibara A2_8 et Nanami A2_8.
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Detail narratif de la descente et de la defection : -> Roadmap A2_1 a A2_9.

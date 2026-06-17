@@ -1,6 +1,6 @@
 # Kento Nanami
 
-- version : W1
+- version : W2
 
 ## Identite
 - Kento Nanami, 1re annee a l'ecole de Tokyo en 2006 (promo 2006-2009). Sous-classe de Gojo, Geto et Shoko.
@@ -30,9 +30,10 @@
 ## Trajectoire datee (A2)
 - 1 avr 2006 (A2_1) | Rentree : il integre Tokyo avec Haibara et Ijichi, croise le quatuor d'aines ; Nisha le distingue (serieux apprecie, ponctualite admiree). | Etabli comme le pragmatique de la promo. -> roadmap A2_1.
 - printemps 2006 (A2_3) | Renfort a l'aeroport de Naha avec Haibara pendant l'escorte de Riko (canon, hors-champ POV-Nisha) ; il juge la mission inappropriee pour des 1res annees. | -> roadmap A2_3.
-- 2007 (A2_8) | Arrive trop tard sur la mission ou meurt Haibara (fleau Grade 1 mal annonce) ; Gojo reprend et termine. | Survit. Graine de desillusion plantee : la mort de son egal, traitee en routine, le degoute durablement. -> roadmap A2_8.
+- fin 2007 (A2_8) | Arrive trop tard sur la mission ou meurt Haibara (fleau Grade 1 mal annonce) ; Gojo reprend et termine. | Survit. Graine de desillusion plantee : la mort de son egal, traitee en routine, le degoute durablement. -> roadmap A2_8.
 
 ## Notes de frontiere
+- [DIVERGENCE RP] Datation A2_8 : canon = mort de Haibara en septembre 2007 (juste avant le massacre du village ; Geto entre au village le 18 sept, rapport d'incident le 28 sept). Le RP la repousse a FIN 2007 (apres la fenetre Goodwill de septembre, edition 2007 non tenue ; cf. WIKI Factions/Tournoi.md). Aligne avec Geto A2_8 et Haibara A2_8.
 - Nanami SURVIT a A2 : sa trajectoire n'est pas terminale, elle continue en ere B.
 - Post-diplome (ere B, non encore roadmappe) : il quitte le metier, ~4 ans salaryman, puis revient (le jujutsu a un sens la ou le corporate n'en a pas) ; devient Grade 1, developpe la persona "heures sup", mentor de Yuji ; meurt a Shibuya (2018). Hors-perimetre A2 ; Shibuya probablement hors-RP (Nisha absente). Detail -> roadmaps ere B.
 
