@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Power-scaling
 
-- version : W5
+- version : W6
 
 ## Unite
 - Unite de puissance de l'univers = le doigt de Sukuna.
@@ -130,7 +130,7 @@ Exemple date (2c1 "Deux contre le dieu", Roadmap A2_7, 2007) : Nisha (16 = 59.51
 ## Partage gemellaire (Maki / Mai)
 Le pool gemellaire des jumelles d'Ogi se repartit le long d'un curseur a somme constante (les parts des deux totalisent 100 %). Chaque repartition fixe la puissance des deux :
 
-| Repartition | Maki | Mai |
+| Repartition | Maki (plafond) | Mai (plafond) |
 |---|---|---|
 | Maki 50 / Mai 50 | 6 | 1 |
 | Maki 40 / Mai 60 | 8 | 8 |
@@ -140,6 +140,16 @@ Le pool gemellaire des jumelles d'Ogi se repartit le long d'un curseur a somme c
 - Pour Maki (Restriction Celeste physique), MOINS d'energie occulte = PLUS de puissance : a 0 % elle atteint le corps de monstre, voie Toji (18). A l'etat de base (50/50) elle est bridee a 6, et plafonnee Grade 4 par blocage politique du clan.
 - Pour Mai (sort de Construction), c'est l'inverse : plus d'energie occulte = plus de puissance ; a 100 % elle culmine a 18. A l'etat de base, Mai = 1 doigt (Semi-Grade 2).
 - Distinction : le curseur fixe les puissances INDIVIDUELLES ; quand les jumelles combattent EN DUO, c'est la loi synergie/symbiose ci-dessus qui combine ces individuels (symbiose, car jumelles). Apogee duo : cf. Reperes d'apogee.
+- [DIVERGENCE RP] Plafond vs exploite. La table ci-dessus donne le PLAFOND fixe par la repartition ; l'EXPLOITE est ce qui sort reellement au combat.
+  - Maki (Restriction physique) : exploite = plafond, toujours - c'est du corps, il n'y a pas de sort a maitriser. Tout glissement de curseur se traduit immediatement en puissance.
+  - Mai (sort de Construction) : exploite = plafond x maitrise. Tant qu'elle construit mal son sort, elle reste SOUS son plafond. Le curseur lui donne le reservoir ; la maitrise le convertit.
+- Trajectoire ere B (Maki / Mai) :
+  | Jalon | Repartition | Maki (= exploite) | Mai plafond | Mai exploite |
+  |---|---|---|---|---|
+  | 2008 (debut B1) | 50/50 | 6 | 1 | 1 |
+  | 2011 (pivot B1) | 40/60 | 8 | 8 | 3 |
+  | 2015 (B3, lecon Yorozu) | 40/60 | 8 | 8 | 8 |
+  Lecture : le curseur glisse UNE fois (50/50 -> 40/60 en 2011) et ne rebouge plus. En 2015, c'est la MAITRISE de Mai qui rattrape son plafond (3 -> 8, apres avoir vu Yorozu manier la Construction), pas le curseur.
 - Mecanique du curseur (declencheurs des bascules, enjeux narratifs) -> roadmap.
 
 ## Plafond mondial
