@@ -1,6 +1,6 @@
 # Masamichi Yaga
 
-- version : W2
+- version : W3
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -49,15 +49,19 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 1 avr 2005 | Rentree de Nisha a Tokyo : recadre sa premiere vanne misogyne (ciblee sur Shoko) et pose sa limite (agir en Kyotoite = retour a Kyoto) ; expose l'unicite de Shoko | friction initiale posee avec Nisha |
+| 2009 | Devient principal de l'ecole de Tokyo (cf. Factions/Ecole_Tokyo.md) | passe prof -> principal |
+| 2011 (B1) | Naissance de PANDA, son Magnum Opus. Yaga a deja trouve et harmonise les trois ames compatibles et saurait les amalgamer seul ; il appelle Nisha (sa prodige du temps) pour le LUXE du temps. Dans la Sphere du Temps Infini de Nisha, ils passent des heures subjectives (1/24e de seconde reel) : elle fige les noyaux a la Chronostase pour qu'il manie les ames avec finesse et sans la moindre precipitation. Panda nait stable. -> respect mutuel avec Nisha mue en confiance profonde (co-parentalite) ; graine T-Ames (cf. ci-dessous) | cree son chef-d'oeuvre ; lien Nisha approfondi |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
-- Panda (creation dotee d'une ame autonome, aboutissement de son art) : entite differee, liee a la promo 2017-2020. Le canon ne date pas sa creation [INCERTAIN] -> roadmap.
-- Accession au poste de principal (2009+) -> cf. Factions/Ecole_Tokyo.md.
-- Respect mutuel avec Nisha et son evolution -> roadmap.
+- Panda (creation dotee d'une ame autonome, aboutissement de son art) : NE en 2011 avec l'aide de Nisha (cf. Trajectoire datee et fiche Panda). [DIVERGENCE RP] le canon ne date pas sa creation ; ici datee 2011. Camarade de promo 2017-2020.
+- GRAINE T-Ames : le savoir de creer un etre dote d'une ame autonome est desormais PARTAGE avec Nisha (elle a co-officie a la naissance de Panda). Dans le canon, c'est ce secret qui condamne Yaga (hautes instances -> execution par Gakuganji apres Shibuya). [DIVERGENCE RP] Nisha herite du meme savoir dangereux. Detonation -> ere C. A NE PAS detoner en B.
+- Accession au poste de principal (2009) : pose en Trajectoire datee ; cf. Factions/Ecole_Tokyo.md.
+- Respect mutuel avec Nisha et son evolution (du froid initial a la co-parentalite de Panda) -> roadmap.
 
 ## Pointeurs
 - Corps enseignant et promos : cf. Factions/Ecole_Tokyo.md.
 - Eleves suivis : cf. Personnages/Satoru.md, Personnages/Nisha.md, Personnages/Geto.md, Personnages/Shoko.md.
+- Creation : cf. Personnages/Panda.md.
 - Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
 
 ---

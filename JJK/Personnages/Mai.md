@@ -1,6 +1,6 @@
 # Mai Zenin
 
-- version : W4
+- version : W5
 
 Fiche noyau + Trajectoire datee (enrichie A2 ; arcs ulterieurs a venir). Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (detail -> roadmap).
 
@@ -32,9 +32,12 @@ Fiche noyau + Trajectoire datee (enrichie A2 ; arcs ulterieurs a venir). Canon +
 | printemps 2006 (A2_1bis) | Harcelee a 4 ans, avec Maki, par les cousins Naoya et Nisha lors d'un week-end au domaine : parlees a la 3e personne en leur presence, abreuvees de l'ordinaire atroce du clan (deception, "ratees", "Ogi aurait du se faire seppuku"), puis criblees de graviers tires en sub-sonique dans les mollets pour les bleuir (vitesse volontairement bridee - on s'amuse sans abimer l'investissement du clan) | sommet du mepris subi, juste avant le retournement |
 | 2006 (A2_6) | Le pivot des jumeaux. Naoya et Nisha, qui les harcelaient comme "faibles", arretent leur doctrine secrete "proteger les faibles, servir les forts" et se posent en SEUL refuge des jumelles : fin du harcelement, traitees en futures prodiges. Cultivation INTERESSEE et longtermiste (elles ont 4 ans) | de cible de mepris a pupille cultivee |
 | 2007 -> debut 2008 (A2_10) | Sur les week-ends au domaine, Nisha s'attache aux jumelles (graine de son instinct de protection/education -> ere B) ; entrainement reel amorce a mesure qu'elles grandissent | cultivation effective engagee |
+| 2008 (B1) | Etat de depart ere B : curseur 50/50, plafond 1 / exploite 1 (Semi-Grade 2). Utilise encore mal son sort de Construction | reference de depart B1 |
+| 2011 (B1, pivot jumelles) | Le partage glisse a 40/60 en sa faveur (EO 50 % -> 60 %) : son plafond monte a 8, mais elle construit toujours mal -> exploite seulement 3. Les jumeaux passent de l'interet au respect, s'attachent. Declencheur du glissement -> roadmap | capte plus d'EO ; plafond 8 / exploite 3 |
 
 ## Notes de frontiere (hors noyau)
-- Bascules du partage gemellaire et devenir (arc canon, lien avec Maki) : -> roadmap / arcs ulterieurs.
+- Bascules du partage gemellaire et devenir au-dela de B1 (arc canon, lien avec Maki) : -> roadmap / arcs ulterieurs.
+- B3 (2015) : apres que Nisha a vu Yorozu manier la Construction, elle conseille Mai ; sa MAITRISE rattrape son plafond (exploite 3 -> 8), elle atteint le niveau de Maki. Le curseur reste a 40/60. Entree a graver a chaud quand B3 sera roadmappe. Chiffres : cf. Power_Scaling/Doigts_de_Sukuna.md (Trajectoire ere B).
 - Detail narratif du retournement A2 (harcelement -> refuge) : -> Roadmap A2_6, A2_10.
 
 ---
