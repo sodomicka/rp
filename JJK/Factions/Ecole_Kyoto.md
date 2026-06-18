@@ -1,6 +1,6 @@
 # Ecole de Kyoto
 
-- version : W1
+- version : W2
 
 Page = faction du monde (institution). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4.
 
@@ -19,9 +19,9 @@ Page = faction du monde (institution). Faits canon non balises (niveau etabli) ;
 
 ### 2009-2018+
 - Yoshinobu Gakuganji : principal.
-- Utahime Iori : professeure de premiere annee.
-- Nisha Zenin : professeure de deuxieme annee. [DIVERGENCE RP vs canon] (Nisha est un OC ; revient enseigner chez les siens apres sa scolarite a Tokyo).
-- Mei Mei : professeure de troisieme annee. [DIVERGENCE RP vs canon] (Mei Mei est une exorciste freelance dans le canon, pas une enseignante).
+- Utahime Iori : professeure de premiere annee (des 2009).
+- Nisha Zenin : professeure de deuxieme annee (des 2009). [DIVERGENCE RP vs canon] (Nisha est un OC ; revient enseigner chez les siens apres sa scolarite a Tokyo).
+- Mei Mei : professeure de troisieme annee, recrutee en 2013 (resto Utahime/Nisha/Mei Mei ; la 3e annee n'avait pas de referent attitre avant). [DIVERGENCE RP vs canon] (Mei Mei est une exorciste freelance dans le canon, pas une enseignante).
 
 ## Eleves (promotions par annee d'entree)
 Convention : "annee d'entree - annee de diplome" (cursus de trois ans).
