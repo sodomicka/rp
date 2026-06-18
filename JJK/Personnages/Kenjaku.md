@@ -1,6 +1,6 @@
 # Kenjaku
 
-- version : W2
+- version : W3
 
 Canon JJK + couche RP (origine Kamo, couple avec Eien). Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -29,6 +29,12 @@ Canon JJK + couche RP (origine Kamo, couple avec Eien). Fiche noyau (atemporel) 
 
 ## Relation a Eien
 - [DIVERGENCE RP] Amant d'Eien : amour sincere et symetrique vieux de mille ans. Partenaires d'operation ET de coeur. Cf. Personnages/Eien.md.
+- [DIVERGENCE RP] Asymetrie du couple : Kenjaku est plus puissant qu'Eien, aussi fin - et surtout LIBRE (incarne dans des vaisseaux qu'il choisit, mobile, agit de son propre chef), la ou Eien est bridee par le lien parasitaire (matee par son hote, ne peut basculer que garde baissee). En operation, Eien tient le for interieur de l'hote, Kenjaku agit dans le monde. Cette asymetrie fonde la mecanique de leurs coups (cf. Trajectoire datee, 2015).
+
+## Trajectoire datee - ere B (alimentee a chaud arc par arc)
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| 2015 (B2) | Sous un vaisseau anonyme (un fonctionnaire passe-partout, aucun soupcon), co-auteur du deal impose a Nisha possedee par Eien : il livre le moyen de debusquer Yorozu (dormante dans Tsumiki) CONTRE le "comment" mener Satoru dans la Lisiere du Supplice (-> sceau de Gojo, Shibuya 2018, ere C). [DIVERGENCE RP] Auteur de la fecondation-trauma du corps de Nisha pendant la possession - sa came a lui (le viol restant l'idee d'Eien, le moyen de briser Nisha). Foetus sans enjeu strategique, avorte par Naoya | obtient la cle du sceau de Gojo ; l'oeuvre du couple architecte avance |
 
 ## Notes de frontiere (hors de cette fiche)
 - Evenements specifiques au RP (sceau de Satoru, denouement, mort de Kenjaku) : posterieurs au point de depart -> roadmap (Passe 2), puis Parties.

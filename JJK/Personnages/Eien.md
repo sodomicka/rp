@@ -1,6 +1,6 @@
 # Eien
 
-- version : W2
+- version : W3
 
 OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokinesie). Moitie du couple architecte avec Kenjaku. Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -39,13 +39,14 @@ OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokin
 - Regle de bascule (capitale) : Eien ne peut PAS prendre le controle de force. Elle le pourrait si Nisha baissait sa garde (par amour). Faille latente, non exploitee a ce stade.
 - "Mate a Nisha" = lien parasitaire, pas romantique. L'amante d'Eien, c'est Kenjaku.
 
-## Trajectoire datee - ere B (entrees B1 ; alimentee a chaud arc par arc)
+## Trajectoire datee - ere B (entrees B1-B2 ; alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 2008 (B1) | Le couple adopte Tsumiki ; Eien reconnait sur la gamine la marque de son amant Kenjaku (piece placee a dessein, pas hasard) et JUBILE en silence, sans savoir encore ce qu'elle annonce. Nisha ignore pourquoi (graine T-Tsumiki) | confirmation que Kenjaku oeuvre dans l'entourage immediat de Nisha ; jubilation contenue |
+| 2015 (B2) | LA DETONATION. Quinze ans de patience aboutissent : la garde de Nisha tombe (bonheur conjugal post-noces), Eien BASCULE enfin, la POSSEDE et la relegue dans sa propre Sphere du Temps Infini interieure. Avec Kenjaku (libre, dans un vaisseau anonyme), elle impose le deal et fait FECONDER le corps de Nisha (le viol = SON idee, pour la BRISER ; aucun enjeu strategique sur le foetus, avorte ensuite par Naoya). Donne la base de la solution Yorozu (etendre le territoire sur Tsumiki) | a goute le controle absolu ; jubile ; faille consommee (mais l'hote reprend la main) ; rancoeur en germe autour de Yorozu (-> B3, puis T-Yorozu ere C) |
 
 ## Notes de frontiere (hors de cette fiche)
-- Trahison, complots et denouement (a partir de 2015) : posterieurs au point de depart -> roadmap (Passe 2), puis Parties.
+- Trahison, complots et denouement (a partir de 2015) : poses en Trajectoire datee a mesure que les arcs sont roadmappes (B2 fait), puis Parties.
 - Mecanique fine de projection entre fors interieurs, timing des evenements : a border en roadmap.
 
 ---

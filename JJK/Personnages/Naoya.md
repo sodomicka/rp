@@ -1,6 +1,6 @@
 # Naoya Zenin
 
-- version : W7
+- version : W8
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -33,7 +33,7 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 ## Psychologie
 - (canon) Arrogant, cruel, hautain.
 - [DIVERGENCE RP] Misogynie issue de la FORCE, pas un calque sur le clan : haine des faibles, pas des femmes. Nisha etant a ses yeux la seule femme digne, elle en devient unique. Adorable avec elle, et avec elle seule.
-- Mariage Gojo : il deteste l'idee. Ce n'est pas une faille entre les jumeaux - il la tient pour son egale, elle merite le meilleur, pas d'etre un piege matrimonial tendu a un Gojo. Sur ce seul point, moins misogyne que Nisha elle-meme.
+- Mariage Gojo : en 2005, il deteste l'idee - non par faille entre les jumeaux (il la tient pour son egale), mais parce qu'elle merite le meilleur, pas d'etre un piege matrimonial tendu a un Gojo. Sur ce seul point, moins misogyne que Nisha elle-meme. [DIVERGENCE RP] Son opposition se dissout des qu'il reconnait Satoru comme 2e protecteur de Nisha (a la mort de Toji, A2_5) : s'il apprecie l'homme et le voit aussi bon epoux que lui est bon frere, alors sa soeur est entre de bonnes mains, et l'union cesse d'etre un piege pour devenir un bien. Implicite, jamais rejoue cote A2 ; sous-tend les noces de l'ere B.
 - Mepris des trois demi-freres aines, cases au Hei par nepotisme.
 
 ## Ambition (vision adolescente, 2005)
