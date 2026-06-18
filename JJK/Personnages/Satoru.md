@@ -1,6 +1,6 @@
 # Satoru Gojo
 
-- version : W4
+- version : W5
 
 ## Identite
 - Nom : Satoru Gojo. Canon. Le guerrier parfait vivant du clan Gojo.
@@ -88,7 +88,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 - Detail narratif de l'eveil 2006 (deroule scene par scene du pivot Toji) : -> Roadmap A2_4.
 - Dynamique fine et plot du mariage Nisha-Satoru : -> roadmap / ere B.
 - Branche Fujiwara/Okkotsu et Yuta (retour de l'Infini, copie) : entite future, fiche differee -> cf. Factions/Clan_Gojo.md et Cosmogonie.
-- Vie d'enseignant et evenements post-diplome (ere B) : -> a construire en B1.
+- Trajectoire datee post-depart, ere B (vie d'enseignant, famille de Saitama, etc.) : scindee pour le poids -> cf. Personnages/Satoru_chrono_B.md (l'ere A reste ci-dessus dans cette fiche ; scission de l'ere A optionnelle).
 
 ---
 

@@ -1,13 +1,13 @@
 # Mei Mei
 
-- version : W2
+- version : W3
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
 ## Identite
 - Nom : Mei Mei. Canon. Exorciste freelance mercenaire.
 - Naissance : non donnee par le canon [INCERTAIN]. Promo Kyoto 2003-2006 : en 2005, eleve de 3e (derniere) annee.
-- Statut 2005 : etudiante de 3e annee a l'ecole de Kyoto. [DIVERGENCE RP vs canon] deviendra professeure de 3e annee a Kyoto (2009-2018+) - freelance dans le canon, pas enseignante.
+- Statut 2005 : etudiante de 3e annee a l'ecole de Kyoto. [DIVERGENCE RP vs canon] deviendra professeure de 3e annee a Kyoto (2013-2018+) - freelance dans le canon, pas enseignante.
 - Petit frere Ui Ui, fanatiquement devoue (cf. section dediee).
 
 ## Physique
@@ -27,8 +27,15 @@ Un sorcier = un sort inne en regle generale (canon).
 ## Psychologie
 - Canon : obsedee par l'argent - elle ne leve pas le petit doigt sans paiement. Calculatrice, pragmatique, amorale ; lucide et detachee.
 
-## Ui Ui - frere (tertiaire rattache)
-- Petit frere de Mei Mei, sorcier, fanatiquement devoue a elle. Personnage tertiaire rattache a cette fiche, pas de fiche propre au build actuel. Details [INCERTAIN].
+## Ui Ui - frere (tertiaire rattache, pur soutien)
+- Petit frere de Mei Mei, sorcier de Grade 1 (canon). Heredite : energie occulte exceptionnellement haute (frere d'une Grade 1), puissant sur le papier - mais jeune et non entraine, donc PAS un combattant : pur soutien de sa soeur.
+- [DIVERGENCE RP] Ne en 2006 (le canon laisse son age volontairement flou, ~12-15 a Shibuya 2018 ; ici fixe : 7 ans en 2013, 12 a Shibuya). Mois non fixe.
+- Devotion fanatique, quasi-cultuelle (canon) : se considere comme la propriete / l'outil de Mei Mei, faconne sa vie autour du fait de la servir, jubile a ses eloges, s'agace qu'on lui manque de respect. Dynamique de service et d'adoration (non sexualisee dans ce build).
+- Sort inne : Transfert Spatial (Spatial Transference, innomme longtemps - canon). Teleporte lui-meme et d'autres sur de grandes distances (medium : un drap dont il se couvre) ; tard dans le canon, deplace aussi des AMES. Active par un voeu contraignant lie a son service de Mei Mei. Maitrise par ailleurs le Domaine Simple (New Shadow Style). Le deplacement d'ames et le Domaine Simple sont des capacites canon ADULTES (montrees a Shibuya 2018) -> hors B1, ere C.
+- [DIVERGENCE RP] Statut : HORS systeme scolaire, JAMAIS eleve. Assistant attitre de sa soeur, en classe comme ailleurs - elle l'emmene partout. En cours, il s'assied toujours SUR une table au fond de la salle et regarde Mei Mei enseigner a des 3e annee (exorcistes quasi-confirmes).
+- [DIVERGENCE RP] B1 : son Transfert Spatial est encore aux BALBUTIEMENTS (enfant) ; Mei Mei l'entraine hors des cours pour affiner son talent. La synergie soeur/frere (sa teleportation mise au service des operations de Mei Mei) ne devient pleinement exploitable et complete qu'en 2017 (pointeur ; detail -> roadmaps ere B / ere C).
+- [DIVERGENCE RP] mars 2013 (7 ans) : debarque a Kyoto avec elle des son recrutement. Au resto Utahime/Nisha/Mei Mei, gamin silencieux colle a sa soeur, qui ECOUTE tout pendant que les trois plus grandes exorcistes de Kyoto parlent argent et pedagogie.
+- Pas de fiche propre : tertiaire rattache (decision worldbuilder).
 
 ## Nisha - relation
 Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a Nisha.
@@ -53,9 +60,10 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | sept 2005 | Tournoi inter-ecoles (hote Kyoto) J1 : eliminee par Gojo ; J2 : perd vs Nisha | -- |
+| mars 2013 (B1) | Resto avec Utahime et Nisha : a elles deux, elles la convainquent de prendre la 3e annee a Kyoto (perfectionnement, dernier maillon du cycle) -> devient la prof d'Akari Nitta en 2013-2014 | de freelance mercenaire a professeure de 3e annee a Kyoto ; cycle d'enseignement complete |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
-- Diplome 2006 -> carriere de freelance mercenaire ; passage Grade 1 (7 doigts) ; embauche comme prof a Kyoto (post-2008, sur reco de Nisha) -> roadmap / cf. Factions/Ecole_Kyoto.md.
+- Diplome 2006 -> carriere de freelance mercenaire ; passage Grade 1 (7 doigts, post-2008, date non fixee). Embauche a Kyoto desormais datee (mars 2013) -> cf. Trajectoire datee.
 - Evolution du lien avec Nisha (du mepris du cliche a l'estime) -> roadmap.
 
 ## Pointeurs

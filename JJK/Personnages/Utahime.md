@@ -1,6 +1,6 @@
 # Utahime Iori
 
-- version : W2
+- version : W3
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -49,6 +49,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | sept 2005 | Tournoi inter-ecoles (hote Kyoto) J1 : eliminee par Nisha (soignee par Shoko) ; J2 : forcee d'entrer (desistement de Ranta), perd vs Geto | origine du malentendu-rivalite cote Nisha (vue charmant Satoru) |
+| mars 2013 (B1) | Resto avec Nisha et Mei Mei : a deux, elles convainquent Mei Mei de prendre la 3e annee a Kyoto ; le cycle a trois maillons (Utahime 1e, Nisha 2e, Mei Mei 3e) est enfin complet | -- |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Diplome 2007 ; carriere ; passage Semi-Grade 1 ; prof de 1ere annee a Kyoto (post-2008) -> roadmap / cf. Factions/Ecole_Kyoto.md.

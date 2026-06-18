@@ -1,6 +1,6 @@
 # Naoya Zenin
 
-- version : W6
+- version : W7
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -61,7 +61,7 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 | hiver 2008 (A2_11) | Diplome de Kyoto ; prend la TETE DU HEI (post-lycee). La doctrine secrete a desormais un relais dans le clan via lui, en miroir des postes d'enseignants de Nisha (Kyoto) et Satoru (Tokyo) | chef du Hei ; solo 12 -> 14 (adulte) ; bascule vers l'ere B |
 
 ## Notes de frontiere (hors noyau)
-- Devenir post-diplome au-dela de la tete du Hei (rivalite avec Megumi pour la succession ; mort et retour en fleau, canon) -> roadmap / ere B.
+- Trajectoire datee post-depart, ere B (cultivation des jumelles, oncle adoptif, etc.) : scindee pour le poids -> cf. Personnages/Naoya_chrono_B.md (l'ere A reste ci-dessus dans cette fiche). Au-dela : rivalite Megumi/succession, mort et retour en fleau (canon) -> ere C.
 - Developpement du territoire interieur ; eventuelle fiche Naoya_adulte -> roadmap.
 - Detail narratif des beats A2 (fin du grief, doctrine secrete) -> Roadmap A2_5-A2_6 et A2_11.
 - Fiches Jinichi, Ogi : cf. Personnages/Jinichi.md, Ogi.md. Cf. aussi Cosmogonie/Trois_Esprits.md, Factions/Clan_Zenin.md, Personnages/Nisha.md.
