@@ -1,13 +1,13 @@
 # Tsukiyo
 
-- version : W1
+- version : W2
 - autre forme : cf. WIKI Personnages/Tsumiki.md (forme humaine, vie close a 21 ans)
 
 ## Identite
 - nom demon : Tsukiyo
 - nom humain : Tsumiki Tsugikuni (cf. fiche dediee)
 - espece : demone
-- rang : Lune Superieure Deux un temps, puis retrait volontaire - sans rang officiel ; en facade, seule epouse de Kokushibo
+- rang : Lune Superieure Deux un temps, puis retrait volontaire - sans rang officiel ; satellite de Kokushibo (en facade, sa seule epouse)
 - affiliation : trio dominant (Muzan, Kokushibo, Tsukiyo) ; matriarche d'une lignee de Lunes
 - demonisation : a 21 ans, ere Sengoku
 - certitude : OC [DIVERGENCE RP]
@@ -42,7 +42,7 @@ Dimensions amplifiees par la nature demoniaque :
 - abandon des membres humains au combat : ne se bat plus aux bras ni aux jambes.
 - Kekkijutsu capillaire : cheveux extensibles, prehensiles, aceres. Combat par meches-lames ; deplacement en se portant sur ses cheveux ; don de sang en se percant la jugulaire pour en imbiber une meche.
 - niveau de puissance : superieur a Doma et a Akaza en permanence ; inferieur a Kokushibo et a Muzan. La force du couple vient de leur union.
-- sang createur de Lunes : transforme un humain en demon de calibre Lune Superieure (saturation equivalente Lune Superieure Deux). Source d'une lignee de Lunes.
+- sang createur de Lunes : transforme un humain en demon de calibre Lune Superieure (saturation equivalent Lune Superieure Deux). Source d'une lignee de Lunes.
 
 ### Souffle des Tenebres (forme demoniaque)
 Souffle re-canalise par les cheveux. Le Nichirin, lame solaire, ne lui sert plus : elle n'en est plus la cible mais l'espece. Translation d'ombre quasi instantanee, la duree sensible de l'etat humain disparait.
@@ -57,13 +57,13 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 - ce constat fonde l'obsession du couple pour la guerison du soleil : une fois libres, l'eternite pour savourer la vie simple qu'ils ne savaient pas posseder. [DIVERGENCE RP]
 - co-conception du programme des Douze Kizuki avec Muzan (vivier anti-soleil). Kokushibo est la moitie du couple sans qui les idees de Tsukiyo ne pesent rien : elle concoit, il legitime, Muzan acte. [DIVERGENCE RP]
 - recruteuse de Muzan, matriarche d'une lignee de Lunes faconnees pour son compte (monnaie d'echange aupres de lui).
-- pouvoir de l'ombre : Lune Superieure Deux un temps, puis retrait volontaire. En facade, seule epouse de Kokushibo, sans rang officiel ; vrai pouvoir dissimule.
+- pouvoir de l'ombre : Lune Superieure Deux un temps, puis retrait volontaire. En facade, satellite de Kokushibo - sa seule epouse, sans rang officiel ; vrai pouvoir dissimule.
 - equilibre de la terreur a trois (Muzan, Kokushibo, Tsukiyo) : destruction mutuelle assuree, collaboration forcee. Objectif de fond du couple : la liberte hors de Muzan. [DIVERGENCE RP]
 
 ## Relations
 - Kokushibo (Michikatsu Tsugikuni) : epoux, egal, jumeau aine de Yoriichi. Amour fou et reciproque. A elle, pas a Muzan.
 - Muzan Kibutsuji : rival et allie force ; froideur clinique. Equilibre de destruction mutuelle.
-- Nakime : fille adoptive et protegee ; aussi sa creation et sa favorite.
+- Nakime : fille adoptive et protegee ; aussi sa creation et sa favorite. Satellite de Kokushibo comme elle.
 - Doma : prodige et favori ; sa creation. Lune sous son obedience (deal negocie avec Muzan).
 - Akaza : sa creation directe ; indifference, brute sans psyche distrayante a ses yeux.
 - Daki et Gyutaro : trouves humains par Doma (rabatteur), remis a Tsukiyo, tournes par elle, puis offerts a Muzan pour solder une dette. [DIVERGENCE RP - ecrase "transformes par Doma" de la B1]
@@ -72,7 +72,7 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 
 ## Trajectoire datee
 Vide a la genese (Passe 1). Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : [A FIXER PAR LE WORLDBUILDER] entrees max.
+Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
