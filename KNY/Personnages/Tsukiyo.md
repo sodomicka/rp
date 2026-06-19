@@ -66,7 +66,7 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 - Nakime : fille adoptive et protegee ; aussi sa creation et sa favorite. Satellite de Kokushibo comme elle.
 - Doma : prodige et favori ; sa creation. Lune sous son obedience (deal negocie avec Muzan).
 - Akaza : sa creation directe ; indifference, brute sans psyche distrayante a ses yeux.
-- Daki et Gyutaro : trouves humains par Doma (rabatteur), remis a Tsukiyo, tournes par elle, puis offerts a Muzan pour solder une dette. [DIVERGENCE RP - ecrase "transformes par Doma" de la B1]
+- Daki et Gyutaro : trouves humains par Doma (rabatteur), remis a Tsukiyo, tournes par elle, puis offerts a Muzan comme monnaie d'echange de vassalite - solde une part du prix de Doma (securise comme sa Lune contre d'autres Lunes promises) et sert de levier pour obtenir que Nakime aussi reponde a son sang plutot qu'a celui de Muzan.
 - Yoriichi Tsugikuni : haine froide muee en fierte apres sa mort. Cible de la Danse des Dieux de la Lune.
 - enfants humains : abandonnes au domaine Tsugikuni ; indifference, la dynastie planifiee rendue obsolete par l'eternite (cf. Tsumiki).
 
