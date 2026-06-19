@@ -1,6 +1,6 @@
 # Doma
 
-- version : W1
+- version : W2
 
 ## Identite
 - nom demon : Doma
@@ -48,6 +48,7 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - Tsukiyo (Tsumiki Tsugikuni) : sa creatrice, sa maitresse, sa deesse. Objet de l'unique sentiment de sa vie. Il existe pour lui plaire. Elle l'exploite avec une tendresse possessive, se tenant a distance divine pour preserver le levier.
 - Muzan Kibutsuji : suzerain de circonstance, servi via Tsukiyo ; aucun attachement, comme pour tout le reste.
 - Akaza : co-creation de Tsukiyo et rival de rang, qu'il a battu pour la place de Lune Superieure Deux.
+- Hantengu : souffre-douleur commun avec Akaza. Creature-jouet creee par Tsukiyo justement pour etre maltraitee par Doma et Akaza - defouloir partage des deux Lunes.
 - Nakime : reperee humaine par lui ; satellite du couple.
 - Daki et Gyutaro : trouves humains par lui, remis a Tsukiyo.
 - ses fideles : troupeau, garde-manger et antennes de rabattage ; nulle valeur a ses yeux hors de leur utilite.

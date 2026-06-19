@@ -1,6 +1,6 @@
 # Tsukiyo
 
-- version : W2
+- version : W3
 - autre forme : cf. WIKI Personnages/Tsumiki.md (forme humaine, vie close a 21 ans)
 
 ## Identite
@@ -43,6 +43,7 @@ Dimensions amplifiees par la nature demoniaque :
 - Kekkijutsu capillaire : cheveux extensibles, prehensiles, aceres. Combat par meches-lames ; deplacement en se portant sur ses cheveux ; don de sang en se percant la jugulaire pour en imbiber une meche.
 - niveau de puissance : superieur a Doma et a Akaza en permanence ; inferieur a Kokushibo et a Muzan. La force du couple vient de leur union.
 - sang createur de Lunes : transforme un humain en demon de calibre Lune Superieure (saturation equivalent Lune Superieure Deux). Source d'une lignee de Lunes.
+- acces libre a la Forteresse Dimensionnelle Infinie via Nakime, sa fille : quasi-teleportation a volonte, levier partage de la lignee (la Forteresse n'appartient pas a Muzan).
 
 ### Souffle des Tenebres (forme demoniaque)
 Souffle re-canalise par les cheveux. Le Nichirin, lame solaire, ne lui sert plus : elle n'en est plus la cible mais l'espece. Translation d'ombre quasi instantanee, la duree sensible de l'etat humain disparait.
@@ -57,6 +58,8 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 - ce constat fonde l'obsession du couple pour la guerison du soleil : une fois libres, l'eternite pour savourer la vie simple qu'ils ne savaient pas posseder. [DIVERGENCE RP]
 - co-conception du programme des Douze Kizuki avec Muzan (vivier anti-soleil). Kokushibo est la moitie du couple sans qui les idees de Tsukiyo ne pesent rien : elle concoit, il legitime, Muzan acte. [DIVERGENCE RP]
 - recruteuse de Muzan, matriarche d'une lignee de Lunes faconnees pour son compte (monnaie d'echange aupres de lui).
+- cree Hantengu, creature-jouet tournee par pure cruaute ludique, puis offerte gratuitement a Muzan (qui se l'approprie par reinjection). [DIVERGENCE RP]
+- deniche Gyokko, humain mourant, et appelle Muzan pour le tourner lui-meme : simple reperage livre au roi, hors de son propre sang. [DIVERGENCE RP]
 - pouvoir de l'ombre : Lune Superieure Deux un temps, puis retrait volontaire. En facade, satellite de Kokushibo - sa seule epouse, sans rang officiel ; vrai pouvoir dissimule.
 - equilibre de la terreur a trois (Muzan, Kokushibo, Tsukiyo) : destruction mutuelle assuree, collaboration forcee. Objectif de fond du couple : la liberte hors de Muzan. [DIVERGENCE RP]
 
@@ -66,7 +69,10 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 - Nakime : fille adoptive et protegee ; aussi sa creation et sa favorite. Satellite de Kokushibo comme elle.
 - Doma : prodige et favori ; sa creation. Lune sous son obedience (deal negocie avec Muzan).
 - Akaza : sa creation directe ; indifference, brute sans psyche distrayante a ses yeux.
+- Hantengu : sa creation-jouet, maltraitee pour le plaisir puis donnee a Muzan.
+- Gyokko : humain mourant qu'elle deniche et livre a Muzan ; tourne par le roi, pas par elle.
 - Daki et Gyutaro : trouves humains par Doma (rabatteur), remis a Tsukiyo, tournes par elle, puis offerts a Muzan comme monnaie d'echange de vassalite - solde une part du prix de Doma (securise comme sa Lune contre d'autres Lunes promises) et sert de levier pour obtenir que Nakime aussi reponde a son sang plutot qu'a celui de Muzan.
+- Tamayo : nemesis juree. Une autre demone a l'intellect surdeveloppe qui joue les egales aupres de Muzan - Tsukiyo la jalouse, a predit sa trahison, et jure de la tuer le jour ou elle reviendra abattre le roi.
 - Yoriichi Tsugikuni : haine froide muee en fierte apres sa mort. Cible de la Danse des Dieux de la Lune.
 - enfants humains : abandonnes au domaine Tsugikuni ; indifference, la dynastie planifiee rendue obsolete par l'eternite (cf. Tsumiki).
 

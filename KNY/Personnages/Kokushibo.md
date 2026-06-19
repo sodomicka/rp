@@ -1,6 +1,6 @@
 # Kokushibo
 
-- version : W1
+- version : W2
 - autre forme : cf. WIKI Personnages/Michikatsu.md (forme humaine, vie close a 24 ans)
 
 ## Identite
@@ -51,12 +51,12 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 - Yoriichi Tsugikuni : jumeau cadet ; jalousie muee, apres l'avoir tue, en lucidite (le vrai ennemi etait sa propre quete).
 - Muzan Kibutsuji : allie force. Muzan respecte sa force et sa franchise, a l'inverse de la mefiance qu'il voue a la fourbe Tsukiyo. Equilibre de destruction mutuelle.
 - Nakime : fille adoptive du couple.
-- Lunes de Tsukiyo (Doma, Akaza, Daki, Gyutaro) : creatures de son epouse ; il en est le bras et le garant de l'ordre.
+- Lunes Superieures (Doma Deux, Akaza Trois, Hantengu Quatre, Gyokko Cinq, Daki et Gyutaro Six) : creatures de son epouse pour la plupart (Gyokko excepte - simple reperage de Tsukiyo, tourne par Muzan) ; il en est le bras et le garant de l'ordre. A ses yeux, seules les Lunes Superieures comptent.
 - enfants humains : abandonnes au domaine Tsugikuni ; indifference, la dynastie planifiee rendue obsolete par l'eternite.
 
 ## Trajectoire datee
 Vide a la genese (Passe 1). Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : [A FIXER PAR LE WORLDBUILDER] entrees max.
+Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|

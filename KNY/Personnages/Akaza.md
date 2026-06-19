@@ -1,13 +1,13 @@
 # Akaza
 
-- version : W1
+- version : W2
 
 ## Identite
 - nom demon : Akaza
 - nom humain : Hakuji
 - espece : demon
 - rang : Lune Superieure Trois
-- affiliation : creation directe de Tsukiyo (lignee), mais Kizuki de Muzan - il appartient au roi, pas a Tsukiyo (contrairement aux vassaux Doma et Nakime)
+- affiliation : creation directe de Tsukiyo (lignee), mais Kizuki de Muzan - il appartient au roi, pas a Tsukiyo (contrairement aux vassaux Doma et Nakime) ; Muzan se l'est approprie en lui reinjectant son propre sang au moment ou Tsukiyo le lui a offert (reprise d'une creation de sang libre)
 - demonisation : tourne par Tsukiyo apres le massacre du dojo rival [DIVERGENCE RP - canon : transforme par Muzan]
 - certitude : canon, inflechi [DIVERGENCE RP] (createur = Tsukiyo, indifference subie, defaite contre Doma pour le rang)
 
@@ -44,15 +44,17 @@ Fanatique de la force pure, structure par une seule loi : devenir le plus fort. 
 Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - creation directe de Tsukiyo, traitee avec indifference : a ses yeux, une brute sans psyche distrayante. [DIVERGENCE RP]
 - repere sur la foi du carnage : l'odeur des dizaines de cadavres du dojo rival, massacres a mains nues, signale au couple un demon puissant en devenir. Tsukiyo le tourne. [DIVERGENCE RP]
-- Kizuki de Muzan, NON vassal de la lignee : contrairement a Doma et Nakime (a Tsukiyo, deal negocie), Akaza appartient au roi. [DIVERGENCE RP]
+- Kizuki de Muzan, NON vassal de la lignee : contrairement a Doma et Nakime (a Tsukiyo, deal negocie), Akaza appartient au roi. Muzan se l'est approprie en lui reinjectant son propre sang quand Tsukiyo le lui a offert - reprise d'une creation de sang libre, possible parce qu'il ne craint pas Akaza. [DIVERGENCE RP]
 - defaite contre Doma pour la Lune Superieure Deux -> echu a la Trois. Doma a gagne a la loyale, donne a fond pour une fois - motive par Tsukiyo, qui lui avait dit combien elle serait fiere de sa victoire. [DIVERGENCE RP]
 - Akaza refuse cette defaite et reclame une revanche perpetuelle ; Doma l'esquive systematiquement par la moquerie et un rire faux.
 - moteur de fond : etre le plus fort ; sous cela, le besoin inassouvi de plaire a Tsukiyo, retourne en rancoeur contre Doma.
 
 ## Relations
 - Tsukiyo (Tsumiki Tsugikuni) : sa creatrice, indifferente a lui. Il cherche a lui plaire, n'obtient rien : le sens unique le ronge. Il ne lui appartient pas - elle ne le revendique pas comme ses favoris.
-- Muzan Kibutsuji : son suzerain reel ; c'est a lui qu'Akaza appartient, et non a la lignee qui l'a fait.
+- Muzan Kibutsuji : son suzerain reel ; c'est a lui qu'Akaza appartient, et non a la lignee qui l'a fait. Muzan se l'est approprie en lui reinjectant son sang a l'offre de Tsukiyo.
 - Doma : co-creation de Tsukiyo, rival de rang et favori visible de la maitresse. Cible de toute la frustration d'Akaza. L'a battu a la loyale pour la Lune Superieure Deux ; Akaza nie la defaite et exige revanche, Doma repond par un rire insincere. Akaza ignore le vrai ressort du favoritisme : l'utilite, pas la force.
+- Hantengu : souffre-douleur commun avec Doma. Creature-jouet de Tsukiyo, defouloir partage des deux Lunes.
+- Tamayo (miroir, sans contact) : le seul autre demon qui POURRAIT connaitre un reveil de l'humanite, mais la sienne reste muree faute de souvenirs. S'il les retrouvait, il detesterait ce qu'il est devenu. Miroir noir de Tamayo - aucun contact entre eux, simple echo thematique (hypothese contrefactuelle ; ne pas presumer une recuperation de memoire, cf. Notes).
 - Kokushibo : moitie du couple, tres au-dessus de lui ; rapport lointain, sans lien particulier.
 - Nakime : satellite du couple ; pas de rapport notable.
 
@@ -64,7 +66,7 @@ Plafond : 15 entrees max.
 |---|---|---|
 
 ## Notes
-- certitude : canon (Akaza / Hakuji), inflechie par les divergences RP (createur = Tsukiyo et non Muzan ; indifference subie ; defaite a la loyale contre Doma et revanche perpetuelle ; appartenance a Muzan plutot qu'a la lignee).
+- certitude : canon (Akaza / Hakuji), inflechie par les divergences RP (createur = Tsukiyo et non Muzan ; indifference subie ; reprise par Muzan via reinjection ; defaite a la loyale contre Doma et revanche perpetuelle ; appartenance a Muzan plutot qu'a la lignee).
 - detail de la rencontre et du tournage (scene du massacre, couple attire par l'odeur du sang, indifference de Tsukiyo) : -> roadmap (Passe 2).
 - amnesie de la vie humaine : conforme au canon ; ici exploitee comme table rase. Sort final non encore defini (cf. SB5, a definir en Passe 2) - ne pas presumer une recuperation de memoire.
 - detail des formes du Kekkijutsu (combat martial + detection de combat) : -> WIKI Systemes (a construire).

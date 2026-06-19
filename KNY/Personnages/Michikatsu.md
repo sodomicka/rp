@@ -1,6 +1,6 @@
 # Michikatsu
 
-- version : W1
+- version : W2
 - autre forme : cf. WIKI Personnages/Kokushibo.md (forme demoniaque)
 
 ## Identite
@@ -46,7 +46,7 @@ Double couche comme sa femme, mais lui plus franc.
 
 ## Trajectoire datee
 Ligne humaine close a la demonisation (24 ans) : la suite vit dans la fiche Kokushibo. Aucune entree datee a la genese (Passe 1) ; alimentee a chaud en Passe 2 si un arc joue la periode humaine.
-Plafond : [A FIXER PAR LE WORLDBUILDER] entrees max.
+Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
