@@ -1,0 +1,35 @@
+# Roadmap_R2_Sengoku_Tsukiyo
+
+- statut : a venir
+- version : W1
+- perspective : Tsukiyo (genese demoniaque)
+- portee : ere Sengoku (XVe-XVIe s.), de la demonisation du couple a la mort de Yoriichi
+
+## Conditions de depart
+- Le couple humain vient d'offrir sa vie a Muzan dans le salon de the (cloture R1). Bonne foi prouvee (Oyakata tue, archives detruites), traque de Muzan brouillee, mort maquillee en place (a sceller).
+- Tsumiki 21 ans, Michikatsu 24 ans, a l'instant ou Muzan les eprouve. Yoriichi, jumeau de Michikatsu, a donc lui aussi 24 ans.
+- Souffle de la Lune (Michikatsu) et Souffle des Tenebres formes terrestres (Tsumiki) maitrises ; Marque portee par les deux. Danse des Dieux de la Lune PAS encore forgee (demon-only).
+- Muzan vient d'etre surpris d'avoir ete devine (cf. R1) : il se croit imprevisible depuis Yoriichi.
+- Yoriichi est vivant et le sait de tous les demons : il aurait du mourir de sa Marque a 25 ans et ne l'a pas fait. Le seul homme que Muzan ait jamais craint.
+
+## Etapes
+| # | Etape | Lieu | PNJ impliques | Tchekhov lies | Duree | Condition d'avancement |
+|---|---|---|---|---|---|---|
+| 1 | LA DEMONISATION (jouable). Ouverture a l'instant exact ou R1 se ferme : le couple a offert sa vie, Muzan - surpris d'avoir ete devine, lui qui se croit imprevisible depuis Yoriichi - les eprouve d'une dose de sang quasi mortelle. Agonie, hurlements, bascule. Naissance de Kokushibo (24 ans, Michikatsu) et de Tsukiyo (21 ans, Tsumiki) : demonises avant la sentence des 25 ans de la Marque, ils echappent tous deux a la mort qu'elle promet. Premier eveil demoniaque - sens decuples, faim, corps neufs. Kokushibo emerge avec 2 yeux ouverts, 4 fermes ; Tsukiyo sent son Souffle des Tenebres se re-canaliser par les cheveux (Kekkijutsu capillaire naissant). Le couple porte desormais le sang de Muzan : la laisse sanguine est active. | Salon de the de Muzan | Tsukiyo ; Kokushibo ; Muzan | Demonisation a 21/24 ans -> echappe a la sentence des 25 ans de la Marque ; re-canalisation des Tenebres par les cheveux (Kekkijutsu capillaire) ; Kokushibo 2 yeux ouverts / 4 fermes (il en ouvrira deux en R3, deux en R4 ; apogee en R5) ; laisse sanguine de Muzan (active, rompue seulement en R3) | ~quelques heures | Le couple acheve sa transformation et tient debout en demons sous l'autorite de Muzan. |
+| 2 | LE PREMIER FESTIN (jouable). Premiere faim de demon. Le couple ravage un village entier et en devore tous les habitants - pas un cadavre laisse. Kokushibo abandonne son vieux Nichirin de pourfendeur pour un katana de chair (Kekkijutsu). Plus tard, Yoriichi tombe sur les ruines sans corps et sur la lame abandonnee de son frere : il en conclut que Michikatsu a peri la, devore. La mort maquillee montee en R1 (lettre de fausse vengeance : Tsumiki tuee, Michikatsu parti la venger) se trouve scellee a posteriori - le frere n'est plus parti, il est mort. C'est le "village rase". | Un village (ravage) | Tsukiyo ; Kokushibo ; Yoriichi (hors scene, conclut a posteriori) | Mort maquillee scellee (village rase, Nichirin abandonne) -> Yoriichi croit le couple mort ; katana de chair de Kokushibo (acquis) | ~une nuit | Le village est devore, la lame laissee ; la fausse mort du couple est scellee aux yeux du Corps. |
+| 3 | L'ERRANCE ET LA TROUPE (jouable, [SNAPSHOTS]). Le couple suit Muzan sous controle sanguin. Des annees d'errance : le jour, on se terre dans des batisses abandonnees ; la nuit, chacun chasse seul - sauf le couple, toujours ensemble. Au fil de cette decennie, plusieurs annees apres la demonisation du couple, Muzan tourne Tamayo SOUS LES YEUX des deux epoux : encore demons frais, ils voient le roi refaire sur une autre le geste qui les a faits. Tamayo rejoint la troupe. Celle-ci finit par s'etablir a demeure dans un manoir abandonne de la foret de Shizushishonyudo (prefecture de Kyoto), planque fixe a reunion mensuelle. Sur toutes ces annees, le couple forge en secret la Danse des Dieux de la Lune (technique de couple, demon-only) dans le seul but d'abattre Yoriichi - l'anomalie vivante que les demons redoutent. | Routes ; batisses abandonnees ; manoir abandonne (foret de Shizushishonyudo, Kyoto - hub) | Tsukiyo ; Kokushibo ; Muzan ; Tamayo (tournee devant le couple) ; demons de la troupe (figurants) | Danse des Dieux de la Lune (forgee -> arme pour Yoriichi) ; Tamayo tournee devant le couple (precedent du fil Nezuko - dormant ; pre-charge l'inimitie de R3) ; laisse sanguine (toujours active) | ~une decennie [SNAPSHOTS] | Le couple maitrise la Danse ; la troupe est etablie au manoir ; Yoriichi a survecu a sa Marque (passe 25 ans) et atteint la trentaine. |
+| 4 | LE PIEGE (jouable). A une reunion mensuelle au manoir, Muzan evoque sa hantise : le pilier du Soleil, Yoriichi - vivant malgre sa Marque, le seul homme qu'il ait jamais craint. Le couple, qui a forge la Danse pour lui, propose sa tete. Pour l'attirer, ils massacrent le quartier marchand de Sasayama, a deux pas de la frontiere Hyogo/Kyoto - donc tout pres de la region du QG du Corps (Mont Kasagata, Hyogo). | Manoir abandonne (foret de Shizushishonyudo, Kyoto - reunion) ; quartier marchand de Sasayama (frontiere Hyogo/Kyoto - massacre-appat) | Tsukiyo ; Kokushibo ; Muzan ; Tamayo ; troupe | Appat pour Yoriichi (massacre de Sasayama) ; Danse des Dieux de la Lune (prete a l'emploi) | ~quelques jours | Le quartier brule ; Yoriichi est en route. |
+| 5 | LA MORT DE YORIICHI (jouable). Yoriichi accourt au massacre - l'anomalie qui aurait du mourir de sa Marque a 25 ans, toujours debout dans la trentaine, connue et redoutee des demons. Il y decouvre sa propre famille, qu'IL croyait morte (mort maquillee R1, scellee au premier festin), changee en demons : son frere jumeau et sa belle-soeur. Il frappe a pleine puissance, sans une hesitation ; sa danse du Soleil manque de les tuer. A deux, par la Danse des Dieux de la Lune, le couple finit par l'emporter. Yoriichi tombe dans la force de l'age. | Quartier marchand de Sasayama (frontiere Hyogo/Kyoto) / lieu du duel | Tsukiyo ; Kokushibo ; Yoriichi | Danse des Dieux de la Lune (payee sur Yoriichi) ; Yoriichi = exception canon a la Marque (survit au-dela de 25 ans) ; mort de Yoriichi dans la trentaine (divergence canon : vieillesse -> tue en pleine force) | ~une nuit (le combat) | Yoriichi tombe -> ferme R2, ouvre R3. |
+
+## Bifurcations
+- Aucune. Trajectoire canon-RP figee : genese demoniaque du couple, anterieure a toute partie jouee.
+
+## Conditions de cloture
+- Yoriichi est mort, vaincu en 2 contre 1 par le couple demon arme de la Danse des Dieux de la Lune.
+- A cet instant, le couple croit avoir simplement servi Muzan : la prise de conscience (egaux de Muzan, rupture des leviers, bascule vers l'obsession du soleil) N'A PAS encore eu lieu.
+- VERROU DE CALAGE : R2 ferme a l'instant de la chute de Yoriichi, AVANT que Muzan ne mesure que le couple le depasse. La rupture des deux leviers et le rang de Lune Superieure Un de Kokushibo appartiennent a R3.
+- Echelle temporelle de l'arc : ~une decennie (demonisation a 24 ans -> mort de Yoriichi vers 35 ans).
+- Enchaine sur R3 - L'Ascension du Couple.
+
+---
+FIN_WIKI_ROADMAP_R2_SENGOKU_TSUKIYO
