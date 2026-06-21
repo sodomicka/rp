@@ -62,18 +62,18 @@
 ### Identite
 - Nom : Fuoco.
 - Titre : King's Flame.
-- Nature : pantin, gardien de la Vanini Works (usine de pantins).
+- Nature : pantin, gardien de la Venigni Works (usine de pantins).
 - Coquilles transcript : "Fuco", "Froo", "Fuoko".
 
 ### Role
-- Charge initialement de garder les flammes de la Vanini Works.
+- Charge initialement de garder les flammes de la Venigni Works.
 - Evolution via la foi :
   - Note de Decart : Fuoco a commence a "obeir a autre chose que des humains, comme s'il avait developpe une foi en un dieu."
   - Ce dieu = le King of Puppets (Romeo).
   - Entend les mots de Romeo via les ondes Ergo.
   - Prend le controle de l'usine.
   - Utilise l'usine pour produire plus de pantins pour la revolte de Romeo (au lieu de la production normale).
-- Boss de la Vanini Works : P doit le combattre apres que Venigni l'envoie fermer la porte arriere.
+- Boss de la Venigni Works : P doit le combattre apres que Venigni l'envoie fermer la porte arriere.
   - Fuoco utilise le feu comme offense principale.
   - Vaincu par P.
 
@@ -82,7 +82,7 @@
 - Ergo collecte post-mort par la machine de Simon (cite explicitement dans la source post-defaite Archbishop).
 
 ### Sort
-- Vaincu par P a la Vanini Works.
+- Vaincu par P a la Venigni Works.
 
 ---
 
