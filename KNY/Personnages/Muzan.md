@@ -1,6 +1,6 @@
 # Muzan
 
-- version : W1
+- version : W2
 
 ## Identite
 - nom demon : Muzan Kibutsuji
@@ -53,11 +53,13 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - les humains : proies, et terrain de jeu nocturne sous identites multiples.
 
 ## Trajectoire datee
-Vide a la genese (Passe 1). Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
+Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
 Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| Ere Sengoku, XVe s. (R2) | Tourne le couple (les eprouve d'une dose quasi-mortelle apres avoir ete devine) | gagne Kokushibo et Tsukiyo, demons sous sa laisse (encore pions a ce stade) |
+| Ere Sengoku, XVe s. (R2) | Tourne Tamayo (sous couvert de soin) devant le couple, au fil de la decennie d'errance | gagne Tamayo, demone sous sa laisse |
 
 ## Notes
 - certitude : canon (Muzan Kibutsuji), inflechi par les divergences RP.

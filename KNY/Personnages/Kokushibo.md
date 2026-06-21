@@ -1,6 +1,6 @@
 # Kokushibo
 
-- version : W2
+- version : W3
 - autre forme : cf. WIKI Personnages/Michikatsu.md (forme humaine, vie close a 24 ans)
 
 ## Identite
@@ -55,11 +55,15 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 - enfants humains : abandonnes au domaine Tsugikuni ; indifference, la dynastie planifiee rendue obsolete par l'eternite.
 
 ## Trajectoire datee
-Vide a la genese (Passe 1). Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
+Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
 Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| Ere Sengoku, XVe s. (R2) | Demonisation a 24 ans | humain -> demon ; echappe a la sentence des 25 ans ; 2 yeux ouverts / 4 fermes (cadence : +2 en R3, +2 en R4, apogee R5) |
+| Ere Sengoku, XVe s. (R2) | Premier festin (village devore) | abandonne son Nichirin de pourfendeur pour un katana de chair ; fausse mort du couple scellee (Yoriichi les croit devores) |
+| Ere Sengoku, XVe s. (R2) | Forge avec Tsukiyo la Danse des Dieux de la Lune | technique de couple demon-only acquise (arme anti-Yoriichi) |
+| Ere Sengoku, XVe s. (R2) | Tue Yoriichi a deux avec Tsukiyo | couple au tier-Muzan EN PUISSANCE (laisse encore active, rupture = R3) ; le meurtre tranche son complexe d'inferiorite [bascule profonde = R3] |
 
 ## Notes
 - certitude : canon (Kokushibo / Michikatsu), inflechi par les divergences RP.

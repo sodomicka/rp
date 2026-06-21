@@ -1,6 +1,6 @@
 # Tsukiyo
 
-- version : W3
+- version : W4
 - autre forme : cf. WIKI Personnages/Tsumiki.md (forme humaine, vie close a 21 ans)
 
 ## Identite
@@ -77,11 +77,14 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 - enfants humains : abandonnes au domaine Tsugikuni ; indifference, la dynastie planifiee rendue obsolete par l'eternite (cf. Tsumiki).
 
 ## Trajectoire datee
-Vide a la genese (Passe 1). Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
+Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
 Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| Ere Sengoku, XVe s. (R2) | Demonisation a 21 ans (Muzan l'eprouve d'une dose quasi-mortelle) | humaine -> demone ; echappe a la sentence des 25 ans de la Marque ; Souffle des Tenebres re-canalise par les cheveux (Kekkijutsu capillaire naissant) ; laisse sanguine de Muzan ACTIVE |
+| Ere Sengoku, XVe s. (R2) | Decennie d'errance : forge avec Kokushibo la Danse des Dieux de la Lune (demon-only, anti-Yoriichi) ; voit Muzan tourner Tamayo | maitrise la Danse ; inimitie envers Tamayo pre-chargee (la voit faite demone sous ses yeux) |
+| Ere Sengoku, XVe s. (R2) | Tue Yoriichi a deux avec Kokushibo (Danse des Dieux de la Lune) | couple au tier-Muzan EN PUISSANCE (laisse encore active, rupture = R3) ; haine de Yoriichi commence a muer en fierte |
 
 ## Notes
 - certitude globale : OC [DIVERGENCE RP]. Aucun filet canon hors de cette fiche.

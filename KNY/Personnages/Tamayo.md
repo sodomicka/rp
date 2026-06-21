@@ -1,6 +1,6 @@
 # Tamayo
 
-- version : W1
+- version : W2
 
 ## Identite
 - nom demon : Tamayo
@@ -51,11 +51,12 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - le Corps des Pourfendeurs et les humains : allies de fait dans la lutte contre Muzan. [canon]
 
 ## Trajectoire datee
-Vide a la genese (Passe 1). Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
+Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
 Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| Ere Sengoku, XVe s. (R2) | Tournee par Muzan vers 19 ans (sous couvert de soigner sa maladie), devant le couple ; rejoint la troupe | humaine -> demone sous la laisse de Muzan ; massacre de sa famille sous l'emprise (jeune demone) [reveil/depart = R3] |
 
 ## Notes
 - certitude : canon (Tamayo, medecin demone affranchie de Muzan, art du sang olfactif, creatrice de Yushiro, refus de tuer), inflechi par les divergences RP (mecanisme de rupture par le village et l'enfant, cible juree du couple, rivalite avec Tsukiyo, double rupture des leviers).

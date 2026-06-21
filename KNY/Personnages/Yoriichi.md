@@ -1,6 +1,6 @@
 # Yoriichi Tsugikuni
 
-- version : W1
+- version : W2
 
 ## Identite
 - nom : Yoriichi Tsugikuni
@@ -45,11 +45,12 @@
 - Corps des Pourfendeurs : membre marginalise, craint pour sa puissance.
 
 ## Trajectoire datee
-Ligne close a sa mort (force de l'age, ere Sengoku). Yoriichi est mort bien avant le point de depart du RP (ere Taisho) : aucune entree datee, rien a faire evoluer.
+Ligne close : une seule entree, sa mort (force de l'age, fin R2). Yoriichi est mort bien avant le point de depart du RP (ere Taisho) ; aucune evolution post-mortem.
 Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| Ere Sengoku, XVe s. (R2) | Accourt au massacre-appat de Sasayama, retrouve sa famille faite demons, frappe a pleine puissance ; tombe a deux contre un sous la Danse des Dieux de la Lune | mort dans la force de l'age (~35 ans) ; ligne close |
 
 ## Notes
 - certitude : canon (Yoriichi), inflechi par la divergence RP (tue jeune par le couple au lieu de la vieillesse ; le reste conserve).
