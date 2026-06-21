@@ -33,8 +33,8 @@
 
 - Apres la transformation, Romeo retrouve graduellement ses memoires. Comprend qu'il a ete manipule.
 - Se rebelle contre Geppetto, les alchimistes et les Carcasses. Devient le King of Puppets et mene une revolte des pantins.
-- Ses "lieutenants" / meilleurs pantins : Parade Master (divertissement de foule), Scrapped Watchman / Murphy (garde de la cour de ville), Fuoco / King's Flame (gardien de la flamme de Vanini Works).
-- Fuoco entend les mots de Romeo via les ondes d'Ergo -> prend le controle de la Vanini Works factory, la fait produire plus de pantins pour la revolte au lieu de pantins standard.
+- Ses "lieutenants" / meilleurs pantins : Parade Master (divertissement de foule), Scrapped Watchman / Murphy (garde de la cour de ville), Fuoco / King's Flame (gardien de la flamme de Venigni Works).
+- Fuoco entend les mots de Romeo via les ondes d'Ergo -> prend le controle de la Venigni Works factory, la fait produire plus de pantins pour la revolte au lieu de pantins standard.
 - Romeo monte un show a l'Estella Opera House pour donner un indice a P sur ce que Geppetto fait.
 - Romeo envoie des "messagers" a P = les boss que P combat (Parade Master, Scrapped Watchman, Fuoco...). P ne comprend pas les messages (langue des ondes Ergo) avant d'obtenir le Ergo Wavelength Decoder de Venigni.
 - Romeo tend la main a P dans leur confrontation (ne veut pas se battre) : il sait que P contient l'Ergo de Carlo ("son meilleur ami est en quelque sorte en vie dans ce pantin").
@@ -80,7 +80,7 @@
 - Lea Florence Monad (mentor / figure protectrice) : Romeo est "son apprenti prefere". Arlecchino le kidnappe precisement pour se venger de Lea. Lea tient Romeo mourant dans ses bras a la fin du DLC.
 - Geppetto (manipulateur / createur de la forme pantin) : trahison fondamentale. Romeo le tient pour responsable de la Puppet Frenzy et de son instrumentalisation.
 - Arlecchino (ravisseur DLC) : kidnappe Romeo pour faire souffrir Lea. cf. Personnages/Arlecchino.md.
-- Fuoco, Parade Master, Scrapped Watchman (lieutenants) : les meilleurs pantins de Romeo dans sa revolte. Fuoco en particulier l'ecoute via les ondes Ergo et prend le controle de Vanini Works.
+- Fuoco, Parade Master, Scrapped Watchman (lieutenants) : les meilleurs pantins de Romeo dans sa revolte. Fuoco en particulier l'ecoute via les ondes Ergo et prend le controle de Venigni Works.
 
 ## Sort connu
 

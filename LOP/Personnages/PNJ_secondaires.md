@@ -250,7 +250,7 @@
 
 ### Identite
 - Nom : Decart.
-- Nature : humain (probable), manager ou technicien de la Vanini Works.
+- Nature : humain (probable), manager ou technicien de la Venigni Works.
 
 ### Role
 - Auteur d'une note documentant le comportement de Fuoco.

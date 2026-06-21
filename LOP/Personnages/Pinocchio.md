@@ -20,7 +20,7 @@
 - Premier acte decisif : mentir a l'entree de l'Hotel Krat pour se faire passer pour un humain -> premier mensonge volontaire, debut de l'eveil.
 - Tue le Mad Donkey, sauve Geppetto.
 - Parcourt Krat en combattant puppets frenzy, Carcasses, alchimistes, boss majeurs :
-  - Parade Master (entree hotel), Scrapped Watchman / Murphy (City Hall), Fuoco / King's Flame (Vanini Works).
+  - Parade Master (entree hotel), Scrapped Watchman / Murphy (City Hall), Fuoco / King's Flame (Venigni Works).
   - Archbishop Andreas (Cathedrale St Frangelico, forme mutee).
   - King of Puppets (opera, Rosa Isabel St), puis Romeo sous forme humaine separee.
   - Green Monster of the Swamp (Barren Swamp), Walker of Illusions (Workshop Tower).

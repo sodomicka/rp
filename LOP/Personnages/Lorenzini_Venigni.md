@@ -53,7 +53,7 @@
 - Les Alchimistes : commanditaires d'un vehicule special ; responsables de la degradation de l'Ergo ; complices du secret sur le meurtre de ses parents (cf. Factions/Les_Alchimistes.md).
 - Pulcinella : son majordome pantin (cf. Personnages/Pulcinella.md).
 - Pinocchio (P) : le sauve dans l'usine, lui fournit decodeur et analyses cles ; relais d'information majeur de la trame.
-- Fuoco : le King's Flame qui avait pris le controle de la Vanini Works (cf. Creatures/Boss_et_Creatures.md).
+- Fuoco : le King's Flame qui avait pris le controle de la Venigni Works (cf. Creatures/Boss_et_Creatures.md).
 
 ## Sort connu
 - Sauve par P dans l'usine et ramene sain et sauf a l'Hotel Krat avec Pulcinella.

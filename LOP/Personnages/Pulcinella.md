@@ -9,7 +9,7 @@
 - Fonction : majordome (butler) au service de l'inventeur Lorenzini Venigni.
 
 ## Role
-- Majordome personnel de Lorenzini Venigni a la Vanini Works (cf. Personnages/Lorenzini_Venigni.md, Lieux/Vanini_Works.md).
+- Majordome personnel de Lorenzini Venigni a la Venigni Works (cf. Personnages/Lorenzini_Venigni.md, Lieux/Venigni_Works.md).
 - Lors de la prise de l'usine pendant la Puppet Frenzy :
   - les stalkers censes proteger l'usine l'ont abandonnee, ainsi que Venigni ;
   - Pulcinella est parti barricader la porte arriere de l'usine, puis n'est pas revenu ;
