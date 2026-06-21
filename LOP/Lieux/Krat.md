@@ -72,7 +72,7 @@
 - Relic of Trismegistus : gouffre sous la ville, mine d'Ergo, fondement economique. Cf. Lieux/Relic_of_Trismegistus.md.
 - Hotel Krat : refuge des survivants, au-dessus de la Relic. Cf. Lieux/Hotel_Krat.md.
 - Rose Estate / Monad Charity House : refuge des notables, education. Cf. Lieux/Rose_Estate_Monad_Charity_House.md.
-- Vanini Works : usine de Lorenzini Venigni. Cf. Lieux/Vanini_Works.md.
+- Venigni Works : usine de Lorenzini Venigni. Cf. Lieux/Venigni_Works.md.
 - Grand Exhibition : showcase avorte. Cf. Lieux/Grand_Exhibition.md.
 - Quartiers detailles : cf. Lieux/Quartiers_de_Krat.md.
 - Ergo : fondement economique et energetique. Cf. Systemes/Ergo.md.
