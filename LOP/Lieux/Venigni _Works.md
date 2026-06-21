@@ -12,7 +12,7 @@
 - Fondateur : Lorenzini Venigni (fils de la famille Venigni, partenaire de Geppetto au Workshop Union).
   Genie inventif reconnu, renommee acquise des 18 ans. Son genie rend Geppetto jaloux. Cf. SB3,
   Personnages/Lorenzini_Venigni.md.
-- Productions de Vanini Works : fabrication en masse de pantins alimentes par l'Ergo. Conception et
+- Productions de Venigni Works : fabrication en masse de pantins alimentes par l'Ergo. Conception et
   production du systeme de tram de Krat. Conception du sous-marin Pistrus (batteries lead-acid, concu
   sur commande des Alchimistes et utilise pour rejoindre l'Aisle of Alchemists). Cf. SB3.
 - Degradation de l'Ergo : Venigni remarque que la qualite de l'Ergo se degrade progressivement. Il
@@ -20,7 +20,7 @@
   pour etre un hasard ; risque eleve de defauts dans les pantins ; les Alchimistes en sont responsables
   (experiences sur l'Ergo). Venigni en informe sans pouvoir stopper les Alchimistes. Cf. SB5, SB3.
 - Prise de controle par Fuoco (Puppet Frenzy) : Fuoco (King's Flame, pantin de Romeo) gardait les
-  flammes de Vanini Works. Selon la note de Decart, Fuoco a developpe une "foi" en un dieu (le King of
+  flammes de Venigni Works. Selon la note de Decart, Fuoco a developpe une "foi" en un dieu (le King of
   Puppets, Romeo). Entendant les mots de Romeo via les ondes Ergo, Fuoco prend le controle de l'usine
   pour produire davantage de pantins en renfort pour la revolte. Cf. Personnages/Boss_et_Creatures.md.
 - Venigni pris au piege : quand P arrive, Venigni est cache dans l'usine. Il croyait d'abord que P allait
@@ -34,7 +34,7 @@
   a l'Hotel Krat. Usine mise hors service. L'Ergo de Fuoco est extrait et collecte par la machine de
   Simon apres sa mort. Cf. Personnages/Boss_et_Creatures.md.
 - Derriere l'usine : apres la fermeture de l'usine, P sort par les portes arrieres -> mine -> Moonlight
-  Town. Le trajet confirme la position geographique de Vanini Works entre Elysion Boulevard et le
+  Town. Le trajet confirme la position geographique de Venigni Works entre Elysion Boulevard et le
   secteur de Moonlight Town.
 - Tram : Venigni a concu le tram de Krat. P trouve une cle de tram quelque part et utilise plus tard le
   tram pour rejoindre d'autres zones. L'Aisle of Alchemists a demande a Venigni de concevoir un
@@ -71,4 +71,4 @@
 
 ---
 
-FIN_WIKI_LIEUX_VANINI_WORKS
+FIN_WIKI_LIEUX_VENIGNI_WORKS
