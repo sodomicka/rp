@@ -1,6 +1,6 @@
 # Krat Zoo
 
-- version : W1
+- version : W2
 
 ## Nature
 
@@ -46,12 +46,12 @@
   de Lea Florence ayant marche dans ce couloir. Au carnival, P peut s'amuser. Combat contre un ennemi
   familier (faux Alidoro / Parrot ? ou autre boss recurrent). [INCERTAIN sur l'identite precise de
   l'ennemi au carnival d'apres le transcript].
-- Rosora dans le carnival : P rencontre Rosora (pantin-ami cree par Geppetto pour Carlo, vivant a la
+- Rosaura dans le carnival : P rencontre Rosaura (pantin-ami cree par Geppetto pour Carlo, vivant a la
   Rose Estate). Elle est enfermee dans une cage a oiseaux dans l'atelier de Markiona. Elle a ete liberee
   par un papillon blanc (meme papillon que celui ayant mene P au golden stargazer). Elle parle d'un
   ami precieux qui lui manque (Carlo), avec qui elle jouait a la Rose Estate. Elle revele des fragments
-  de l'enfance de Carlo (sculpture de l'arbre de Rosora change dans la timeline affectee). Cf.
-  Personnages/Rosora.md.
+  de l'enfance de Carlo (sculpture de l'arbre de Rosaura change dans la timeline affectee). Cf.
+  Personnages/Rosaura.md.
 - Monad locket au zoo : P trouve le locket de Monad au zoo (photo ensanglantee de Lea, Romeo, et une
   troisieme personne). Montrer ce locket au Tracker dans la Zelator Facility le convainc de faire
   confiance a P. Cf. Personnages/Sophia_Monad.md, Personnages/Lea_Florence_Monad.md.
@@ -81,20 +81,20 @@
 - Markiona (l'Illuminee) : seule maitresse du zoo (lettre chiffree : "Lady M"). Arch puppets. Cf.
   Personnages/Markiona.md.
 - Tyrant Predator (crocodile petrifie) : boss Savannah Experience Center. Cf. Personnages/Boss_et_Creatures.md.
-- Rosora prisonniere dans cage a oiseaux dans l'atelier de Markiona ; liberee par papillon blanc. Cf.
-  Personnages/Rosora.md.
+- Rosaura prisonniere dans cage a oiseaux dans l'atelier de Markiona ; liberee par papillon blanc. Cf.
+  Personnages/Rosaura.md.
 - Monad locket trouve ici. Cf. Personnages/Sophia_Monad.md.
 - Klaus sauve par Lea au zoo ; temoignage cle. Cf. Personnages/PNJ_secondaires.md.
 - Homme mourant au balcon donne le missing poster de Romeo. Temoignage sur Lea.
 - DLC : P voyage dans le temps ici (zoo intact = avant l'incendie). Gemini confirme le voyage temporel. Cf. SB6.
 - Arlecchino a appris a la Charity House la fondness de Lea pour Romeo -> plan de vengeance -> zoo. Cf. SB6.
-- Carving de l'arbre de Rosora change dans la timeline affectee. Cf. SB5.
+- Carving de l'arbre de Rosaura change dans la timeline affectee. Cf. SB5.
 
 ## Liens
 
 - Colonel Little : fondateur. Cf. Personnages/PNJ_secondaires.md.
 - Markiona : maitresse du zoo, boss. Cf. Personnages/Markiona.md.
-- Rosora : captive dans l'atelier de Markiona. Cf. Personnages/Rosora.md.
+- Rosaura : captive dans l'atelier de Markiona. Cf. Personnages/Rosaura.md.
 - Lea Florence Monad : traque Romeo ici. Cf. Personnages/Lea_Florence_Monad.md.
 - Arlecchino : a planifie sa vengeance depuis le zoo. Cf. Personnages/Arlecchino.md.
 - Klaus : sauve ici par Lea. Cf. Personnages/PNJ_secondaires.md.

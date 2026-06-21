@@ -1,6 +1,6 @@
 # Rose Estate / Monad Charity House
 
-- version : W1
+- version : W2
 
 ## Nature
 
@@ -20,9 +20,9 @@
   a Carlo a jouer du piano. Carlo et Romeo se lient d'amitie ici (deux garcons voulant devenir stalkers).
   Carlo offre son pendentif de remise de diplome a Romeo. Carlo, Romeo et Lea Florence jouent de la
   musique ensemble. Carlo supplie Lea de lui apprendre l'epee. Cf. Personnages/Carlo.md, SB3.
-- Rosora a la Rose Estate : Geppetto cree un pantin-ami pour Carlo (Rosora) car Carlo souhaitait un
-  frere ou une soeur. Rosora vit a la Rose Estate et jouait avec Carlo. Elle le manque. Dans la timeline
-  affectee, la sculpture de l'arbre de Rosora change. Cf. Personnages/Rosora.md.
+- Rosaura a la Rose Estate : Geppetto cree un pantin-ami pour Carlo (Rosaura) car Carlo souhaitait un
+  frere ou une soeur. Rosaura vit a la Rose Estate et jouait avec Carlo. Elle le manque. Dans la timeline
+  affectee, la sculpture de l'arbre de Rosaura change. Cf. Personnages/Rosaura.md.
 - Arm of God a la Monad Charity House / Rose Estate : l'Arm of God est initialement garde proche de
   Valentinus Monad a la Rose Estate. Valentinus confie ensuite l'Arm of God a Archbishop Andreas de la
   Cathedrale St Frangelico (peut-etre averti des intentions de Simon). Simon considere cette decision
@@ -70,7 +70,7 @@
   technician). Cf. SB4.
 - Carlo envoye ici apres mort de Camille ; Geppetto absent ; Antonia apprend le piano a Carlo. Cf. SB3, SB6.
 - Carlo + Romeo se lient ici ; tous deux aspirent a etre stalkers ; pendentif de diplome offert par Carlo. Cf. SB3.
-- Rosora y vit ; joue avec Carlo. Cf. Personnages/Rosora.md.
+- Rosaura y vit ; joue avec Carlo. Cf. Personnages/Rosaura.md.
 - Arm of God garde pres de Valentinus ici avant transfert a Andreas. Cf. Systemes/Arm_of_God.md, SB6.
 - Simon assaute : Valentinus et Isabelle Monad morts ici. Sophia capturee. Cf. SB6.
 - Refuge des notables de Krat (maladie). Personnel succombe. Alchimistes deja venus. Cf. SB6.
@@ -80,7 +80,7 @@
 - Nameless Puppet tue Lea. Geppetto reconnait P comme Carlo. P retourne dans sa timeline. Cf. SB6.
 - Acces DLC : tram (hors service) ou passage secret (cote -> phare -> shack -> estate). Cf.
   Lieux/Zelator_Facility.md.
-- Carving de l'arbre de Rosora change dans la timeline affectee. Cf. SB5.
+- Carving de l'arbre de Rosaura change dans la timeline affectee. Cf. SB5.
 
 ## Liens
 
@@ -89,7 +89,7 @@
 - Isabelle Monad : morte dans l'assaut. Cf. Personnages/Sophia_Monad.md.
 - Sophia Monad : journal ici ; capturee ici. Cf. Personnages/Sophia_Monad.md.
 - Carlo / Romeo : enfance ici. Cf. Personnages/Carlo.md, Personnages/Romeo.md.
-- Rosora : vit ici. Cf. Personnages/Rosora.md.
+- Rosaura : vit ici. Cf. Personnages/Rosaura.md.
 - Antonia : presente / apprend le piano a Carlo. Cf. Personnages/Antonia.md.
 - Arlecchino : combat final DLC dans les Rose Gardens. Cf. Personnages/Arlecchino.md.
 - Lea Florence Monad : camp pres d'ici ; meurt ici. Cf. Personnages/Lea_Florence_Monad.md.
@@ -101,7 +101,7 @@
 
 - DLC finale : Arlecchino vaincu, Lea morte (presumee), Romeo mourant, Geppetto monte avec le Nameless.
   P retourne dans sa timeline d'origine. Rose Estate ravagee (maladie, assaut alchimiste, combats). Etat
-  post-DLC dans la timeline normale : [INCERTAIN]. Dans la timeline affectee, la sculpture de Rosora a change.
+  post-DLC dans la timeline normale : [INCERTAIN]. Dans la timeline affectee, la sculpture de Rosaura a change.
 
 ---
 
