@@ -1,28 +1,35 @@
 # Antonia Cerasani
 
-- version : W1
+- version : W2
 
 ## Identite
 - Type : humaine. Proprietaire de l'Hotel Krat.
-- Etat : atteinte de la Maladie de Petrification (Petrification visible au visage).
+- Alias / coquilles transcript : "Lady Antonia", "Antonia".
 
 ## Role
-- Hote de l'Hotel Krat, refuge central de P entre les zones de Krat.
-- Figure maternelle et de repit pour P et les autres habitants du refuge.
+- Tient l'Hotel Krat, qui sert de refuge principal pour les survivants humains de la Puppet Frenzy.
+- Sophia est aussi stationnee a l'hotel, ce qui en fait le quartier general de la resistance humaine.
+- Souffre de la maladie de petrification : les ecailles rocheuses de la maladie sont visibles sur son visage.
+- Polendina, son majordome pantin a Ego eveille, l'aime et lui demande de l'aide pour trouver un antidote.
+- Pinocchio peut lui procurer un antidote, ce qui ne guerit pas completement la maladie mais limite sa douleur et lui laisse du temps.
+- Meurt en fin de partie des suites de la petrification.
+- Sa mort provoque la reinitialisation de la memoire de Polendina (voir Relations).
 
 ## Capacites
-- Aucune capacite de combat. Role de soutien et d'ancrage narratif.
+- [INCERTAIN] capacites propres en dehors de la gestion de l'hotel.
 
 ## Psychologie
-- Bienveillante, digne malgre la maladie. [INTERPRETATION].
+- [INCERTAIN] psychologie detaillee : peu de dialogue direct rapporte dans le transcript.
+- [IMPLICITE] figure bienveillante et centrale de la communaute des survivants ; sa survie est un enjeu pour Polendina et pour la stabilite de l'hotel.
 
 ## Relations
-- Polendina - pantin majordome de l'hotel qui l'aime / la sert.
-- Pinocchio - accueilli a l'Hotel Krat.
-- [INCERTAIN] autres liens familiaux.
+- Polendina - son majordome pantin a Ego ; l'aime ; sa mort cause le reset de sa memoire (Polendina choisit de redevenir pantin insensible car la douleur du deuil est insupportable).
+- Sophia - presente a l'hotel sous sa protection.
+- Pinocchio - peut lui apporter un antidote contre la petrification.
+- Hotel Krat - lieu dont elle est proprietaire et ame.
 
 ## Sort connu
-- [INCERTAIN] sort final ; condition liee a la progression de sa Petrification.
+- Meurt avant la fin du jeu des suites de la maladie de petrification (sort confirme par le transcript, lignes 919-922).
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
