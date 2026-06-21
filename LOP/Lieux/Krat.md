@@ -23,7 +23,7 @@
   produisent des pantins (puppets) en masse, alimentes par l'Ergo et lies au Grand Covenant. Les pantins
   assurent les taches quotidiennes et le maintien de l'ordre (law enforcement automatise). Les citoyens
   apprennent a apprendre la liberte que cela leur offre, meme si cela cree une imbalance sociale. Le jeune
-  Lorenzini Venigni (Vanini Works) conoit le systeme de tram et le sous-marin Pistrus. La ville planifie le
+  Lorenzini Venigni (Venigni Works) conoit le systeme de tram et le sous-marin Pistrus. La ville planifie le
   Grand Exhibition pour montrer le futur de l'automation et de l'Ergo au reste du monde.
 - Role des Old Families : les vieilles familles possedaient et dirigeaient des zones de Krat, mais leur
   pouvoir declin avec l'arrivee des Alchimistes et du Workshop Union. Certaines familles (dont la famille V)

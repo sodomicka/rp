@@ -31,13 +31,13 @@
 
 ### Nature
 - Grande avenue de Krat autrefois animee par les classes aisees de la ville. Zone residentialle/commerciale
-  de prestige. Situee entre Krat Central Station et Vanini Works / Alchemist Bridge.
+  de prestige. Situee entre Krat Central Station et Venigni Works / Alchemist Bridge.
 
 ### Faits canon
 - Transcript : "Alleian Boulevard" / "Alician Boulevard" = coquilles pour Elysion Boulevard.
   "Les rues d'Elysion Boulevard etaient autrefois animees par les gens aises de Krat." Cf. SB0.
 - Au moment du jeu : rues parsemees de pantins frenetiques, plus de vie civile.
-- L'avenue mene a l'Alchemist Bridge (transition vers Hotel Krat / Vanini Works). Cf. ci-dessous.
+- L'avenue mene a l'Alchemist Bridge (transition vers Hotel Krat / Venigni Works). Cf. ci-dessous.
 
 ---
 
@@ -69,8 +69,8 @@
   la cathedrale "n'est plus ce qu'elle etait" et que personne qui y monte n'est revenu. Elle pose une
   question a P : est-il un stalker ? Si P repond oui (salut des stalkers), elle est intriguee. Si non ou
   si P ne fait rien, il doit la combattre pour obtenir la cle. Cf. Personnages/Boss_et_Creatures.md.
-- Apres Vanini Works : P sort par les portes arrieres de l'usine, traverse une mine, arrive a Moonlight
-  Town. Enchaineant logique de la progression. Cf. Lieux/Vanini_Works.md.
+- Apres Venigni Works : P sort par les portes arrieres de l'usine, traverse une mine, arrive a Moonlight
+  Town. Enchaineant logique de la progression. Cf. Lieux/Venigni_Works.md.
 - Etat dans le jeu : Carcasses erre, cable car operationnel mais acces bloque par the Atoned. Bourg vide.
 
 ---
