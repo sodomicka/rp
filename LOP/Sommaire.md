@@ -1,6 +1,6 @@
 # Sommaire - LOP
 
-- version : W2
+- version : W3
 
 ## WIKI
 
@@ -27,6 +27,8 @@ Description : fiches noyau des personnages (canon), etat au point de depart.
 - Antonia.md (W1) - proprietaire de l'Hotel Krat ; atteinte de Petrification.
 - Polendina.md (W1) - majordome pantin a Ego eveille ; amoureux d'Antonia.
 - Eugenie.md (W1) - armuriere de l'hotel ; soeur du vrai Alidoro.
+- Lorenzini_Venigni.md (W1) - inventeur prodige de Krat ; fonde et dirige la Venigni Works ; tram et sous-marin Pistrus ; allie du Workshop / de l'Hotel.
+- Pulcinella.md (W1) - majordome pantin de Lorenzini Venigni ; disparait a la Venigni Works pendant la Frenzy, retrouve par P.
 - Adelina_et_Patricia.md (W1) - la chanteuse Adelina Corde et sa soeur Patricia (White Lady).
 - Lumakio.md (W1) - chef des Bastards ; traitre au service de Simon.
 - Veronique.md (W1) - chef des Sweepers ; piegee par les Alchimistes.
