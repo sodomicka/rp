@@ -1,6 +1,6 @@
 # Sommaire - LOP
 
-- version : W1
+- version : W2
 
 ## WIKI
 
@@ -9,18 +9,18 @@
 
 ### Personnages/
 Description : fiches noyau des personnages (canon), etat au point de depart.
-- Pinocchio.md (W1) - le pantin "P", protagoniste, cree par Geppetto a l'image de Carlo ; peut mentir.
+- Pinocchio.md (W2) - le pantin "P", protagoniste, cree par Geppetto a l'image de Carlo ; peut mentir.
 - Giuseppe_Geppetto.md (W1) - createur des pantins ; antagoniste cache (Law Zero, Puppet Frenzy).
 - Sophia_Monad.md (W1) - Listener / "Fee bleue" ; fille de Valentinus ; guide P ; prisonniere de Simon.
 - Gemini.md (W1) - grillon-lanterne ; guide permanent de P.
 - Romeo.md (W1) - King of Puppets ; ami d'enfance de Carlo ; meneur de la revolte des pantins.
-- Carlo.md (W1) - fils mort de Geppetto ; modele de Pinocchio ; moteur de l'intrigue.
-- Camille.md (W1) - epouse de Geppetto + le pantin Camil ; eveil de l'Ego ; Listener.
+- Carlo.md (W2) - fils mort de Geppetto ; modele de Pinocchio ; moteur de l'intrigue.
+- Camille.md (W2) - Camille, epouse de Geppetto ; "Camil" = le pantin-servante anime par son Ergo (une personne, deux corps) ; eveil de l'Ego ; Listener.
 - Simon_Manus.md (W1) - antagoniste principal ; alchimiste devenant Dieu Eveille.
 - Valentinus_Monad.md (W1) - fondateur des Alchimistes ; pere de Sophia ; excommunie.
 - Lea_Florence_Monad.md (W1) - Legendary Stalker ; mentor de Carlo et Romeo ; traque Arlecchino.
 - Arlecchino.md (W1) - pantin meurtrier (DLC) ; vengeance contre Lea.
-- Markiona.md (W1) - technicienne devenue alchimiste "l'Illuminee" ; maitresse du zoo (DLC).
+- Markiona.md (W2) - technicienne devenue alchimiste "l'Illuminee" ; maitresse du zoo (DLC).
 - Laxasia.md (W1) - the Complete / ex-Sister Adriana ; bras droit de Simon ; boss majeur.
 - Philip_Paracelsus.md (W1) - alias Giangio ; alchimiste cache ; fil du sequel (Dorothy).
 - Alidoro_et_Parrot.md (W1) - le vrai Alidoro / le Tracker, et l'imposteur Parrot.
@@ -32,7 +32,7 @@ Description : fiches noyau des personnages (canon), etat au point de depart.
 - Veronique.md (W1) - chef des Sweepers ; piegee par les Alchimistes.
 - Archbishop_Andreas.md (W1) - archeveque corrompu ; mute en One-Winged Angel.
 - Cecile.md (W1) - nonne meurtriere ; voleuse de l'Arm of God pour Andreas.
-- Rosora.md (W1) - pantin-amie de Carlo ; cle echappee (DLC).
+- Rosaura.md (W2) - pantin-amie de Carlo ; cle echappee (DLC).
 - Madoro.md (W1) - reporter/medic ; relais de la verite sur les Alchimistes.
 - PNJ_secondaires.md (W1) - fiche groupee (Belle, Julian/Melody, the Atoned, Klaus, Hugo, Godard, Colonel Little/Rex, Luca, Subject 826, Columbo, Dorothy, Decart).
 
@@ -49,9 +49,9 @@ Description : fiches des lieux du monde.
 - Cathedrale_St_Frangelico.md (W1) - cathedrale d'Andreas ; Arm of God.
 - Vanini_Works.md (W1) - usine de Lorenzini Venigni ; prise par Fuoco.
 - Grand_Exhibition.md (W1) - showcase jamais tenu ; drogue/elixir ; Champion Victor.
-- Krat_Zoo.md (W1) - DLC : Colonel Little, Markiona, carnival.
+- Krat_Zoo.md (W2) - DLC : Colonel Little, Markiona, carnival.
 - Zelator_Facility.md (W1) - DLC : Listener experiments ; Gold Coin Tree.
-- Rose_Estate_Monad_Charity_House.md (W1) - DLC : refuge des notables ; charity house.
+- Rose_Estate_Monad_Charity_House.md (W2) - DLC : refuge des notables ; charity house.
 - Quartiers_de_Krat.md (W1) - fiche groupee des sous-lieux (gare, boulevards, Malum, opera, Barren Swamp, Workshop Tower, etc.).
 
 ### Factions/
@@ -69,7 +69,7 @@ Description : systemes et regles du monde.
 - Puppet_Frenzy.md (W1) - revolte des pantins ; causes ; Romeo.
 - Listeners.md (W1) - ecouteurs de l'Ergo ; manipulation du temps.
 - Arm_of_God.md (W1) - relique ; Guardian ; ascension de Simon.
-- Stargazers.md (W1) - teleportation ; boucle temporelle ; golden stargazer.
+- Stargazers.md (W2) - teleportation ; boucle temporelle ; golden stargazer.
 - Gold_Coin_Tree.md (W1) - arbre issu des Listeners ; Gold Coin Fruit.
 - Humanity_System.md (W1) - mensonge, musique, P-Organ, fins.
 - Theologie_du_Star.md (W1) - le Star/ange tombe ; One-Winged Angel ; doctrine alchimique.
@@ -79,7 +79,7 @@ Description : objets et reliques narrativement significatifs.
 - Objets_et_Reliques.md (W1) - fiche groupee (P-Organ, Golden Ergo, Ergo Wavelength Decoder, Stars Chrysalis, Rose Sword, Holy Mark, Gold Coin Fruit, Monad locket, Daylight-Wreathed Horn, Ouroboros Eye, portrait de Carlo, Saintess of Mercy, pendentif de Carlo).
 
 ### Documents de travail (non fetches en narration)
-- _Table_Noms_Canon.md (W1) - table coquilles transcript -> noms canon.
+- _Table_Noms_Canon.md (W2) - table coquilles transcript -> noms canon.
 - _Implications.md (W1) - bloc de coordination (doutes, [INCERTAIN], fils du sequel).
 
 > ROADMAPS / FICHES D'ARC / CODEX : non produits a la genese (Passe 0 + Passe 1). A construire en

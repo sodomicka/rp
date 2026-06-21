@@ -1,6 +1,6 @@
 # Table des noms canon - LOP
 
-- version : W1
+- version : W2
 
 > Garde-fou anti-coquille. La source est une transcription audio truffee de fautes phonetiques.
 > Toujours utiliser la FORME CANON dans les fiches. ASCII strict.
@@ -23,7 +23,7 @@
 | Lea Florence Monad | Leia Florence Monad, Leia |
 | Romeo | Romeo |
 | Carlo | Carlo |
-| Camille | Camil (puppet maid) |
+| Camille (humaine) / Camil (pantin) | "Camil" = forme RETENUE pour le pantin (convention wiki), NE PAS la corriger ; cf. Camille.md |
 | Lorenzini Venigni | Lauren Xini Vanini, Vanini, Venini, Lauren Evenini |
 | Vanini Works | Vanini Works |
 | Pistrus | Pistrus (sea monster) |
@@ -62,7 +62,7 @@
 | Two-Faced Overseer | two-faced overseer |
 | Tyrant Predator | tyrannical predator |
 | Nameless Puppet | Nameless Puppet |
-| Rosora | Rosaura |
+| Rosaura | Rosora |
 | Godard | Godard |
 | Colonel Little | Colonel Little |
 | Rex | Rex |
