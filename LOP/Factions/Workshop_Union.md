@@ -31,13 +31,13 @@
 ### Famille Venigni
 
 - Partenaire industriel de Geppetto pour la production de masse des pantins.
-- Lorenzini Venigni (fils des Venigni) : inventeur genial des 18 ans, gere la Vanini Works depuis cet age.
+- Lorenzini Venigni (fils des Venigni) : inventeur genial des 18 ans, gere la Venigni Works depuis cet age.
   - Invente le systeme de tramway de Krat.
   - Concoite le sous-marin Pistrus (batteries plomb-acide / lead acid batteries).
   - Invente l'Ergo Wavelength Decoder (outil cle du base game : dechiffre les longueurs d'onde Ergo des pantins).
   - Genie qui rend Geppetto jaloux.
 - Parents de Lorenzini tues par Arlecchino (pantin meurtrier) ; Lorenzini, jeune adulte, tente d'acceder aux dossiers officiels sur ce meurtre -- toujours bloque par les Alchimistes et le Workshop Union (ne voulant pas que la verite soit publiee).
-- Lorenzini et sa "butler" Pulcinella (Pulsella) sont pieges dans Vanini Works pendant la Puppet Frenzy ; P les sauve.
+- Lorenzini et sa "butler" Pulcinella (Pulsella) sont pieges dans Venigni Works pendant la Puppet Frenzy ; P les sauve.
 - A l'Hotel Krat, Lorenzini travaille avec P et fournit l'Ergo Wavelength Decoder. Apprend la verite sur le meurtre de ses parents via les evenements du DLC (en reconnaissant la tenue de Lea Florence sur le personnage de P apres le DLC, il comprend que c'est la Legendary Stalker).
 - La Golden Ergo (necessaire pour alimenter le vehicule alchimique qui menera P a l'Aisle of Alchemists) est commandee par les Alchimistes a Lorenzini.
 - Lorenzini donne aussi la golden lead acid battery a P pour alimenter le transport sous-marin.
@@ -55,7 +55,7 @@
 - Lorenzini Venigni repere la degradation de l'Ergo via un rapport de son factory manager : degradation trop large pour etre un hasard -> les Alchimistes sont responsables (experiences sur l'Ergo).
 - Workshop Union et Alchimistes n'ont pas voulu publier les details du meurtre des parents de Lorenzini -> censure conjointe.
 - Pulcinella (butler de Lorenzini) va barricader la porte arriere de l'usine pendant la Frenzy ; ne revient pas -> P decouvre Fuoco qui garde le passage.
-- Fuoco (King's Flame) : pantin alloue pour garder les flammes de Vanini Works. Note de Decart : Fuoco a developpe une "foi" en un dieu (le King of Puppets) ; entendant les mots de Romeo via les ondes Ergo, prend le controle de l'usine pour produire plus de pantins pour la revolte de Romeo.
+- Fuoco (King's Flame) : pantin alloue pour garder les flammes de Venigni Works. Note de Decart : Fuoco a developpe une "foi" en un dieu (le King of Puppets) ; entendant les mots de Romeo via les ondes Ergo, prend le controle de l'usine pour produire plus de pantins pour la revolte de Romeo.
 - Geppetto creat la Saintess of Mercy statue avec / pour Camille.
 - Geppetto dispose d'un "bras" pouvant canaliser l'Ergo et controler les pantins (revele a la fin).
 
@@ -74,7 +74,7 @@
 
 - Geppetto mort (soit sacrifice volontaire, soit tue par Pinocchio selon la fin).
 - Lorenzini Venigni : sort post-credits non precise par la source.
-- Vanini Works : usine sauvagee par P (Fuoco vaincu), Lorenzini et Pulcinella exfilters vers l'Hotel Krat.
+- Venigni Works : usine sauvagee par P (Fuoco vaincu), Lorenzini et Pulcinella exfilters vers l'Hotel Krat.
 - Le Workshop Tower : detruit lors de la Battle of the Workshop Tower (shards de Crowd).
 
 ---
