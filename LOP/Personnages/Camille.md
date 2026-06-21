@@ -1,13 +1,13 @@
 # Camille
 
-- version : W1
+- version : W2
 
 ## Identite
 
-- Nom canon : Camille (epouse de Geppetto). Attention : DEUX entites portent un nom similaire dans la source :
+- Nom canon : Camille (epouse de Geppetto). UNE SEULE personne, deux corps successifs ; le wiki distingue les deux supports par une convention de nommage interne :
   1. CAMILLE (humaine) : epouse de Giuseppe Geppetto, ingenieure et alchimiste brillante. Mere de Carlo.
-  2. CAMIL (pantin) : pantin-maid dont l'Ergo est pense etre celui de Camille. Appele "Camil" dans la source pour le distinguer.
-- Coquilles transcript : "Camille" (stable pour l'humaine) / "Camil" (le pantin maid). Coquille "Camil" = orthographe distincte utilisee dans la source.
+  2. CAMIL (pantin) : le pantin-servante anime par l'Ergo de Camille. "Camil" = etiquette interne du wiki pour ce support-pantin, PAS un autre individu.
+- Convention de nommage : "Camille" = l'humaine, "Camil" = le pantin de son Ergo. NB : convention INTERNE du wiki ; la source ecrit "Camille" pour les deux (cf. doc d'interrogatoire "Camille, the secret maid puppet", Systemes/Gold_Coin_Tree.md).
 - Statut : morte avant le debut du jeu (accident lors des Listener experiments aux Zelator labs).
 - Couverture de sa mort : fausse catastrophe de paquebot (signalement indirect que Camille etait a bord).
 
@@ -20,7 +20,7 @@
 - Decede dans un accident lors des Listener experiments aux Zelator labs : "une erreur et une negligence des chercheurs a cause sa mort." L'Ordre couvre la cause reelle via un faux desastre de paquebot.
 - Valentinus Monad ecrit a Geppetto pour exprimer ses condoleances et assurer le support de l'Ordre pour les funerailles. Il souligne le "bon rapport entre le Workshop et l'Ordre".
 - Sa mort declenche le plan de resurrection de Geppetto et donc toute la trajectoire de l'intrigue principale.
-- [THEORIE source] Camille etait peut-etre enceinte a sa mort. Le dessin que Rosora donne a P (famille heureuse : Geppetto, Camille, Carlo, Rosora) semble montrer Camille enceinte. Si oui : l'enfant non-ne, porteur de capacites Listener, aurait ete transforme en Gold Coin Tree (celui que P voit dans la Zelator Facility). cf. SB5, Systemes/Gold_Coin_Tree.md.
+- [THEORIE source] Camille etait peut-etre enceinte a sa mort. Le dessin que Rosaura donne a P (famille heureuse : Geppetto, Camille, Carlo, Rosaura) semble montrer Camille enceinte. Si oui : l'enfant non-ne, porteur de capacites Listener, aurait ete transforme en Gold Coin Tree (celui que P voit dans la Zelator Facility). cf. SB5, Systemes/Gold_Coin_Tree.md.
 
 ### Camil (pantin maid / Listener)
 

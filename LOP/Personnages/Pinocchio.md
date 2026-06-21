@@ -1,6 +1,6 @@
 # Pinocchio
 
-- version : W1
+- version : W2
 
 ## Identite
 
@@ -29,7 +29,7 @@
   - Nameless Puppet (fin, si refus de donner le coeur).
 - Recupere le Golden Ergo, alimente le sous-marin Pistrus pour rejoindre l'Aisle of Alchemists.
 - DLC Overture : voyage dans le passe via le golden stargazer (Stars Chrysalis). Suit la piste de Lea Florence Monad pour retrouver Romeo. Affronte Tyrant Predator, Markiona, Veronique (boss), Two-Faced Overseer (avec le Tracker / Alidoro), Anguished Guardian of the Ruins, Lumakio (mute), Arlecchino. Aide Lea Florence a confronter Arlecchino a la Rose Estate. Temoin de la mort de Romeo et de l'arrivee de Geppetto avec le Nameless Puppet.
-- Peut alterer la timeline (DLC) : rendre le paint set a Godard (peintre aveugle), affecter le carving de l'arbre de Rosora, modifier la lettre d'Antonia (enveloppe verte, 2e page).
+- Peut alterer la timeline (DLC) : rendre le paint set a Godard (peintre aveugle), affecter le carving de l'arbre de Rosaura, modifier la lettre d'Antonia (enveloppe verte, 2e page).
 - Fin bad ending : donne son P-Organ a Geppetto -> Carlo renait, P fonctionnellement mort (corps sans coeur).
 - Fin good ending : refuse -> Geppetto declenche le Nameless Puppet -> Geppetto se sacrifie -> P detruit le Nameless.
 - Fin best ending (Real Boy) : comme la good ending + larme versee apres la mort de Geppetto + si humanite maximale (cheveux gris), place l'Ergo de Sophia dans un pantin pour lui permettre de survivre.
@@ -50,8 +50,8 @@
 - Evolution du libre arbitre : chaque choix (mensonge, aide aux PNJ, ecoute musicale) cree un ecart progressif avec le puppet code.
 - [INTERPRETATION] L'Ergo de Carlo agit comme une memoire inconsciente : P reagit aux souvenirs de Carlo (pendentif, visions sur la plage, reconnait Sophia dans les visions) avant de comprendre rationnellement.
 - Sophia observe sa progression avec surprise : "comment P peut-il depasser les limites d'un pantin ?"
-- Liens emotionnels formes au fil du jeu (Sophia, Antonia, Venigni, Rosora).
-- Capable de compassion (aider Antonia, aider Godard, aider Rosora), de deuil (reaction a la mort de Geppetto, larme finale).
+- Liens emotionnels formes au fil du jeu (Sophia, Antonia, Venigni, Rosaura).
+- Capable de compassion (aider Antonia, aider Godard, aider Rosaura), de deuil (reaction a la mort de Geppetto, larme finale).
 - A la fin best ending, la larme = marqueur de l'humanite quasi-complete. Geppetto lui-meme reconnait : "greatest puppet I ever made".
 
 ## Relations
@@ -64,7 +64,7 @@
 - Venigni / Lorenzini Venigni : lui fournit l'Ergo Wavelength Decoder et la Golden Ergo pour le sous-marin. Allie de l'hotel.
 - Antonia : proprietaire de l'Hotel Krat, malade. P peut lui obtenir un Gold Coin Fruit (via Giangio) pour soulager sa douleur. Lettre d'Antonia modifiee par les actions de P dans le passe.
 - Alidoro / le Tracker (DLC) : P le rencontre dans le passe. Alidoro lui donne le Daylight-Wreathed Horn. Remarque que le style de combat de P lui rappelle quelqu'un.
-- Rosora (pantin amie de Carlo) : P la trouve au zoo (DLC), l'aide sur le chemin de la Rose Estate, recoit de elle le dessin de famille.
+- Rosaura (pantin amie de Carlo) : P la trouve au zoo (DLC), l'aide sur le chemin de la Rose Estate, recoit de elle le dessin de famille.
 - Gemini : guide integre a P, lui parle dans son oreille (lampion), l'accompagne tout au long du jeu et du DLC. Reconnait le voyage temporel au zoo.
 
 ## Sort connu

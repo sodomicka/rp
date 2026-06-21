@@ -1,6 +1,6 @@
 # Carlo
 
-- version : W1
+- version : W2
 
 ## Identite
 
@@ -8,7 +8,7 @@
 - Coquilles transcript : "Carlo" (stable dans le transcript).
 - Nature : humain, fils de Giuseppe Geppetto et de Camille (epouse de Geppetto).
 - Statut au debut du jeu : mort (decede de la Petrification Disease avant le base game).
-- Presence dans le jeu : indirect - via l'Ergo de Carlo dans le P-Organ de P, via les visions sur la plage noire (a l'Aisle), via les memoires extraites par le Ergo Wavelength Decoder, via Rosora (DLC).
+- Presence dans le jeu : indirect - via l'Ergo de Carlo dans le P-Organ de P, via les visions sur la plage noire (a l'Aisle), via les memoires extraites par le Ergo Wavelength Decoder, via Rosaura (DLC).
 - Modele de P : Geppetto a modelise P sur l'apparence physique de Carlo.
 - Role moteur : l'integralite du plan de Geppetto (Puppet Frenzy, creation de P, manipulation de Romeo) vise uniquement a ressusciter Carlo.
 
@@ -39,11 +39,11 @@
 - Manifestations physiques dans P : cheveux qui poussent et grisonnent (Ego de Carlo qui s'eveille), reaction physique au pendentif de Romeo, visions sur la plage noire de l'Aisle (jeune Carlo abandonne, parle a Sophia, amitie avec Romeo, echec avec Lea).
 - Sophia confirme : "l'Ergo contient les memoires et la duree de vie distillee de la victime."
 
-### DLC et Rosora
+### DLC et Rosaura
 
-- Geppetto cree Rosora, pantin amie, pour Carlo (Carlo voulait peut-etre un frere ou une soeur). Rosora vit a la Rose Estate et joue avec Carlo. Ils sont representement comme une "famille heureuse" dans le dessin que Rosora donne a P.
-- Rosora decrit Carlo comme "mon precieux ami que je regrette tant" ; elle attend P/Carlo au "bout du monde quand elle partira".
-- Rosora donne a P un dessin de Geppetto, Camille, Carlo et Rosora (famille heureuse). Camille y semble possiblement enceinte -> theorie : enfant non-ne, listener, transforme en Gold Coin Tree. [THEORIE] cf. Systemes/Gold_Coin_Tree.md.
+- Geppetto cree Rosaura, pantin amie, pour Carlo (Carlo voulait peut-etre un frere ou une soeur). Rosaura vit a la Rose Estate et joue avec Carlo. Ils sont representement comme une "famille heureuse" dans le dessin que Rosaura donne a P.
+- Rosaura decrit Carlo comme "mon precieux ami que je regrette tant" ; elle attend P/Carlo au "bout du monde quand elle partira".
+- Rosaura donne a P un dessin de Geppetto, Camille, Carlo et Rosaura (famille heureuse). Camille y semble possiblement enceinte -> theorie : enfant non-ne, listener, transforme en Gold Coin Tree. [THEORIE] cf. Systemes/Gold_Coin_Tree.md.
 
 ## Psychologie
 
@@ -61,7 +61,7 @@
 - Romeo (meilleur ami) : amitie cimentee au Charity House. Pendentif de diplome offert. Romeo lui enverra des messages "de l'autre monde" via l'Ergo a P.
 - Lea Florence Monad (figure quasi-maternelle ratee) : joue de la musique avec eux, puis part. Regrette de l'avoir abandonne. Dans la timeline alteree, lui exprime sa gratitude.
 - Antonia (tutrice de facto) : lui apprend le piano, juge l'attitude de Geppetto.
-- Rosora (amie pantin cree par Geppetto) : compagne de jeu a la Rose Estate.
+- Rosaura (amie pantin cree par Geppetto) : compagne de jeu a la Rose Estate.
 - Pinocchio / P (extension de l'Ergo de Carlo) : P EST en quelque sorte Carlo - modelise sur lui, porteur de son Ergo, de ses memoires. La "reunion" de Carlo et P est le coeur de l'intrigue.
 
 ## Sort connu

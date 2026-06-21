@@ -1,10 +1,11 @@
 # Markiona
 
-- version : W1
+- version : W2
 
 ## Identite
 - Humaine (transformee / alchimiste de haut rang). Titre : l'Illuminee (the Enlightened One).
 - Coquilles transcript : "Mariona".
+- Note de nommage : "Camil" designe le pantin-servante anime par l'Ergo de Camille (l'humaine, epouse de Geppetto). Une seule personne, deux corps. cf. Personnages/Camille.md.
 - Ancienne technicienne du Workshop Union ; devenue alchimiste de haut rang et maitresse du Zoo de Krat.
 - Fondatrice de la Brotherhood of Truth.
 - Boss du DLC Overture (avec son arch puppet).
@@ -36,7 +37,7 @@
 - Le Zoo = terrain d'experimentation pour la Petrification Disease.
 - Markiona utilise ses arch puppets experimentaux pour repandre le divine elixir.
 - Ecrit a Simon pour lui dire qu'elle peut aider a repandre l'elixir dans tout Krat.
-- Evoque Rosora (pantin de Geppetto) comme "cle" de quelque chose ; Rosora est retrouvee dans une cage d'oiseau dans son atelier. La raison precise pour laquelle Rosora est la cle n'est jamais explicitee.
+- Evoque Rosaura (pantin de Geppetto) comme "cle" de quelque chose ; Rosaura est retrouvee dans une cage d'oiseau dans son atelier. La raison precise pour laquelle Rosaura est la cle n'est jamais explicitee.
 - [THEORIE] Puisqu'un amulette indique que Markiona avait un besoin de dominer les autres, il est possible qu'elle planifiait de s'emparer du controle de l'Ordre face a Simon Manus via ses arch puppets.
 
 ### DLC Overture : confrontation avec P
@@ -65,7 +66,7 @@
 - Philato (taxidermiste) : elimine par les Alchimistes ; laisse le rapport accablant cache dans la gueule de Rex.
 - Simon Manus : superieur dans l'Ordre ; lui ecrit pour proposer de repandre l'elixir dans Krat.
 - Lea Florence Monad : ancienne amie ("my sadly not departed friend" selon le message de Lea) ; la menace dans son enregistrement.
-- Rosora : pantin de Geppetto ; emprisonnee dans une cage d'oiseau dans l'atelier de Markiona ; "cle" de son plan.
+- Rosaura : pantin de Geppetto ; emprisonnee dans une cage d'oiseau dans l'atelier de Markiona ; "cle" de son plan.
 - Pinocchio (P) : affronte P dans le DLC ; tuee lors du combat.
 
 ## Sort connu
