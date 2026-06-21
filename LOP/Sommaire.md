@@ -49,7 +49,7 @@ Description : fiches des lieux du monde.
 - Relic_of_Trismegistus.md (W1) - gouffre, Crowd, mine d'Ergo.
 - Aisle_of_Alchemists_Arch_Abbey.md (W1) - ile etrangere des Alchimistes ; machine d'Ergo.
 - Cathedrale_St_Frangelico.md (W1) - cathedrale d'Andreas ; Arm of God.
-- Venigni _Works.md (W1) - usine de Lorenzini Venigni ; prise par Fuoco.
+- Venigni_Works.md (W1) - usine de Lorenzini Venigni ; prise par Fuoco.
 - Grand_Exhibition.md (W1) - showcase jamais tenu ; drogue/elixir ; Champion Victor.
 - Krat_Zoo.md (W2) - DLC : Colonel Little, Markiona, carnival.
 - Zelator_Facility.md (W1) - DLC : Listener experiments ; Gold Coin Tree.

@@ -25,7 +25,7 @@
 | Carlo | Carlo |
 | Camille (humaine) / Camil (pantin) | "Camil" = forme RETENUE pour le pantin (convention wiki), NE PAS la corriger ; cf. Camille.md |
 | Lorenzini Venigni | Lauren Xini Vanini, Vanini, Venini, Lauren Evenini |
-| Vanini Works | Vanini Works |
+| Venigni Works | Vanini Works |
 | Pistrus | Pistrus (sea monster) |
 | Arlecchino | Arino, Arleino, Arlino, Alakino |
 | Markiona | Mariona |
