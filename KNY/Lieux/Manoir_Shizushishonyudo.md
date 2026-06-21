@@ -1,6 +1,6 @@
 # Manoir abandonne de Shizushishonyudo
 
-- version : W1
+- version : W2
 
 ## Nature
 Ancien manoir de l'ere Sengoku, a l'abandon. Sans nom propre etabli : ce n'est pas un lieu, c'est une planque - la planque de Muzan. Choisi pour son isolement et son delabrement, ou personne ne vient. Batisse close, donc refuge diurne contre le soleil. [DIVERGENCE RP] (lieu OC, hors canon)
@@ -23,7 +23,7 @@ Delabre, isole, sans nom. Theatre social de la troupe et atelier du couple. Aucu
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| Ere Sengoku (XVe-XVIe s., R2) | La troupe de Muzan s'y etablit apres des annees d'errance | de batisse abandonnee a planque fixe ; devient le lieu de reunion mensuelle de la troupe |
+| Ere Sengoku (XVe s., R2) | La troupe de Muzan s'y etablit apres des annees d'errance | de batisse abandonnee a planque fixe ; devient le lieu de reunion mensuelle de la troupe |
 
 ---
 FIN_WIKI_LIEUX_MANOIR_SHIZUSHISHONYUDO
