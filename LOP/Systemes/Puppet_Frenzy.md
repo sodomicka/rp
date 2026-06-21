@@ -38,7 +38,7 @@
 
 ### Fuoco et la fabrique
 
-- Fuoco (King's Flame) = pantin affecte a la garde des flammes de Vanini Works.
+- Fuoco (King's Flame) = pantin affecte a la garde des flammes de Venigni Works.
 - Note de Decart : Fuoco a developpe une "foi" en un dieu = le King of Puppets.
 - En entendant les mots de Romeo via les ondes Ergo, Fuoco prend le controle de l'usine pour produire plus de pantins pour la revolte de Romeo.
 
@@ -56,7 +56,7 @@
 
 ### Les Messagers comme signal d'alarme non compris
 
-- "These messengers that P kept destroying were the bosses that he fought and killed. This is why during those fights they appear to say things to P, but he cannot understand them as at this point he doesn't yet have Vanini's erggo wavelength detector."
+- "These messengers that P kept destroying were the bosses that he fought and killed. This is why during those fights they appear to say things to P, but he cannot understand them as at this point he doesn't yet have Venigni's erggo wavelength detector."
 - Une fois le decoder obtenu, P comprend les wavelengths : le message de Romeo = Romeo voulait aider P, pas lui nuire.
 
 ## Faits canon
