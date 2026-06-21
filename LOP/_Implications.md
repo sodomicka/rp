@@ -1,28 +1,21 @@
-# Implications - bloc de coordination LOP
+# _Implications - LOP
 
-- version : W1
+- version : I1
+- nature : journal de coordination, DOCUMENT DE TRAVAIL. Jamais fetche en narration (cf. INSTRUCTION S4 / S7).
+- statut : Passe 1 (fiches noyau). Pas encore de roadmaps.
 
-> Bloc-notes de coordination (doutes, [INCERTAIN], points a reverifier en cloture). Non fetche en narration.
+## Dettes ouvertes (a trancher a la stabilisation)
+- SB1.3 / Ego inne par purete | BIBLE | L'Ego de Magnus nait inne par purete extreme de l'Ergo (l'intensite remplace la duree). Pose en [INTERPRETATION] sur Markiona.md et Magnus.md. A TRANCHER : monter au niveau BIBLE comme regle generale du monde, ou garder une exception propre a Magnus ?
+- SB8 / Scaling Magnus | BIBLE | Rang prodige / miracle (cour de P) valide par le worldbuilder. A INSCRIRE proprement dans le power-scaling SB8 de la BIBLE a la stabilisation.
+- Pantins de l'Arc (sous-systeme) | WIKI / lore | Typologie Danseuses / Chanteuses / Ange de l'Arc actuellement logee dans Markiona.md. Pourrait meriter sa propre page de lore, et/ou une fiche dediee pour l'Ange, si l'usage le justifie.
 
-## Doutes / points a reverifier
-- Fin "Rise of P" : non detaillee explicitement par la source au-dela de la structure generale des fins. [INCERTAIN sur les conditions precises].
-- Identite du grand Carcass de la hermit's cave (Madoro ou le hermit) : non tranchee par la source. [INCERTAIN].
-- Theorie Camille enceinte -> Gold Coin Tree de Zelator : explicitement marquee comme theorie par le narrateur. [THEORIE].
-- Theorie Paracelsus = Grandmaster de l'Ordre : "hunch" du narrateur, peu d'elements. [THEORIE].
-- Origine de l'Anguished Guardian (d'ou il vient) : non connue. [INCERTAIN].
+## Pense-betes roadmap (a traiter quand les roadmaps s'ouvrent)
+- Ange de l'Arc | sort post-mortem | Loyale a Markiona seule, sans Ego ni couche Ordre : son devenir a la mort de Markiona reste a definir en roadmap.
+- Markiona | glissement outil -> fils | Le moment ou elle comprend que Magnus est son fils (sommet emotionnel) ; remise en question ; tentative de rachat ("aider la vie apres tant avoir oeuvre pour la mort") : a deplier en roadmap.
 
-## Fils ouverts (sequel)
-- Dorothy (la "cle" suivante) ; chaussures rouges ; teaser Wizard of Oz.
-- Paracelsus et l'Ordre = cles du recit a venir.
-
-## Coquilles recurrentes a surveiller
-- "Germany" = Gemini (tres frequent). "Japetto/Jeppetto" = Geppetto. "Leia" = Lea. "erggo" = Ergo.
-
-## Etat de construction
-- Passe 0 (BIBLE_LORE_LOP, B1) : fait.
-- Passe 1 (fiches noyau, W1) : en cours.
-- Roadmaps / Fiches d'arc / CODEX : non produits a la genese (Passe 2/3 sur demande).
+## Index a mettre a jour au prochain BIBLE BUILD
+- Sommaire : ajouter Personnages/Magnus.md (nouvelle page). Referencer _Implications.md si souhaite.
 
 ---
 
-FIN_WIKI_IMPLICATIONS
+FIN_WIKI__IMPLICATIONS
