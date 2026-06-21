@@ -1,6 +1,6 @@
 # Stargazers
 
-- version : W1
+- version : W2
 
 ## Nature
 
@@ -32,14 +32,14 @@
 - En utilisant le Stars Chrysalis sur ce golden Stargazer, le Stargazer est "renew" -> P voyage dans le temps (passe).
 - Gemini comprend qu'il s'agit d'un voyage temporel quand il voit le zoo intact (alors qu'il a brule dans la timeline principale).
 - [INTERPRETATION narrateur] : les cadrans de l'Hotel Krat = indicateur de la boucle temporelle creee par ce dispositif.
-- Le papillon blanc (white butterfly) = lie au golden Stargazer ; il mene Rosora a la liberation de sa cage a la Markiona's workshop, et mene aussi P au golden Stargazer (meme papillon).
+- Le papillon blanc (white butterfly) = lie au golden Stargazer ; il mene Rosaura a la liberation de sa cage a la Markiona's workshop, et mene aussi P au golden Stargazer (meme papillon).
 
 ### Alteration de la timeline
 
 - Via le golden Stargazer, P peut alterer sa propre timeline en agissant dans le passe, sans pouvoir sauver Romeo ni Lea Florence.
 - Exemples d'alterations confirmees :
   - Godard (peintre aveugle) : P trouve son paint set a Zelator, le lui rend ; elle finit une peinture avant sa mort ; P la place a l'hotel -> presente dans la timeline affectee.
-  - Carving de l'arbre de Rosora change (relation entre Rosora et Carlo).
+  - Carving de l'arbre de Rosaura change (relation entre Rosaura et Carlo).
   - Lettre d'Antonia change (enveloppe verte, 2e page) : Antonia reconnait P comme force du bien, mentionne le massacre de la Rose Estate, dit que P peut connecter les gens et apporter de la chaleur.
 
 ## Faits canon
