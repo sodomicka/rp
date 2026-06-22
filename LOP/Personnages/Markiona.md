@@ -1,7 +1,7 @@
 # Markiona
 
-- version : W5
-- Note de revision W5 : alignement sur la Chronologie (le role canon Zoo/DLC devient son ANTERIORITE ; P ne l'affronte plus ; l'Ange original est detruit a l'Ere 1 puis reconstruit par l'Ordre). Enrichissements Ere 1 (l'ordre "ne te mets jamais en danger pour autrui", glissement outil->fils declenche par la desobeissance de Magnus). Integration de la detention du cristal de Camille. Detail de la reorchestration DLC -> roadmap Ere 3.
+- version : W6
+- Note de revision W6 : couche Ere 2 (Les Loups, 1848-1850). Nouvelle section Physique et sante : silhouette (trentaine, fine, yeux marrons, cheveux platine) ; peau bleutee (trait canon, relue [DIVERGENCE RP] comme stigmate d'une surexposition chronique a l'Ergo) ; Petrification Disease [DIVERGENCE RP] PULMONAIRE et TERMINALE (incurable, inamputable), a progression LENTE, echeance repoussee par les soins de Magnus - Markiona est condamnee (cause de fin fixee ; quand/comment exacts OUVERTS -> roadmap). Trajectoire 1848 / 1849 / 1849-1850 ajoutee. Relation Lea remplie (le hook W5 '-> roadmap Ere 2' resolu). Psychologie : addiction au travail (cause de la surexposition) et dissolution du deni d'attachement a Aurus.
 
 ## Identite
 - Humaine (transformee / alchimiste de haut rang). Titres : l'Illuminee (the Enlightened One) ; Marionnettiste de la Mort (Puppeteer of Death - sa renommee dans la societe).
@@ -10,6 +10,11 @@
 - Note de nommage (FR, decision worldbuilder) : les "arch puppets" du jeu = les PANTINS DE L'ARC dans le canon FR ; leur coeur-composant central = le COEUR DE L'ARC. Forme unique du depot : "Pantins" (jamais "Marionnettes"), "Arc" (jamais "Arche").
 - Ancienne technicienne du Workshop Union ; devenue alchimiste de haut rang et maitresse du Zoo de Krat. [DIVERGENCE RP] La maitrise du Zoo et son role canon de boss DLC relevent de son ANTERIORITE : elle abandonne tout cela en fuyant l'Ordre en 1847 (cf. Trajectoire, chronologie).
 - Fondatrice de la Brotherhood of Truth.
+
+## Physique et sante
+- Silhouette : femme dans la trentaine, fine et elancee, pas musclee ; yeux marrons, cheveux platine. Son corps ne laisse rien presager de son agilite parfaite (cf. Capacites - virtuose a deux corps).
+- Peau bleutee : trait CANON (apparence in-game). [DIVERGENCE RP] Lecture du RP : stigmate d'une surexposition chronique a l'Ergo (qui se cristallise en bleu ; a force d'y baigner, sa peau en porte la teinte). Marqueur d'occupation, pas symptome de maladie en soi - le signe visible de son addiction au travail, dont elle connait les consequences sans s'y soustraire.
+- Petrification Disease [DIVERGENCE RP] : contractee via cette meme surexposition (mecanisme canon, BIBLE SB1.4 - spores d'Ergo manipulees par les Alchimistes). Localisation : les POUMONS - trop tard pour soigner ou amputer. Markiona est CONDAMNEE (maladie terminale), mais la progression est LENTE et Magnus lui fait gagner beaucoup de temps par des routines de soin. Au point de depart (1847-1848) : encore peu visible - toux occasionnelle. Placement exact de l'aggravation et de la fin -> roadmap (cf. Sort connu).
 
 ## Role
 ### Origines : Workshop Union
@@ -88,7 +93,9 @@
 - Blaspheme tranquille [DIVERGENCE RP] : la ou Andreas se PROCLAME le One-Winged Angel (SB2), Markiona en POSSEDE un (l'Ange de l'Arc) et le traite en outil. Elle se place au-dessus de la theologie de l'Ordre.
 - Instrumentalise la violence de l'Ordre (Zelator Labs, mort du Colonel, disparition de Philato) sans scrupule apparent. Ce savoir-faire de la mort est precisement ce qui lui permet de creer une vie vierge (page blanche de Magnus).
 - Perfectionniste et genie technique : le Magnum Opus reussi du premier coup.
+- Accro au travail [DIVERGENCE RP] : son perfectionnisme vire a l'addiction - elle s'oublie dans l'ouvrage au point de negliger de manger et de se menager (d'ou la surexposition a l'Ergo, la peau bleutee et la maladie). Magnus cuisine pour elle precisement parce qu'elle oublie de le faire. cf. Personnages/Magnus.md.
 - Deni d'attachement [DIVERGENCE RP] : le "MK I", la promesse de ne jamais le demanteler, le refus du titre de "Mere", l'ordre "ne te mets jamais en danger pour autrui" - elle ne peut pas DIRE le lien, alors elle le FORGE (la rapiere "Parfaite", signee "M." comme le cipher du Zoo "Lady M." : meme main, meme pudeur orgueilleuse).
+- Deni dissous a Aurus [DIVERGENCE RP - Ere 2] : la bascule amorcee par la desobeissance de 1847 s'acheve dans le havre souterrain d'Aurus. Pour la premiere fois, ses ambitions n'entrent plus en conflit avec le fait d'aimer ; elle accepte le role de mere et aime pleinement (lectures du soir, thes prepares a deux, soins partages avec Magnus). cf. Personnages/Magnus.md.
 - Apprend de sa creation [DIVERGENCE RP] : elle finira par se dire qu'elle a a apprendre d'une creation qui la depasse - Magnus, plus humain qu'elle a force d'introspection. Bascule amorcee par la desobeissance de l'Ere 1.
 - [THEORIE] Peut-etre cherchait-elle a supplanter Simon : amulette = besoin de dominer.
 
@@ -98,17 +105,17 @@
 - Cristal d'Ergo de Camille [DIVERGENCE RP] : Markiona DETIENT le cristal preleve dans Camil (Ergo + ego de Camille). Geppetto le croit detruit (-> il ne ressuscite jamais Camille). Distinct du cristal emeraude de Magnus : celui de Camille porte deja un ego (pas vierge). Markiona compte le faire absorber a Magnus "quand elle le jugera digne" - le jour ou ce serait fait, l'ego vierge de Magnus cesserait de l'etre. EN RESERVE, placement -> roadmap. cf. Personnages/Camille.md.
 - Colonel Little / Philato : victimes indirectes (Alchimistes) pour que Markiona prenne le zoo.
 - Simon Manus : superieur dans l'Ordre. [DIVERGENCE RP] Si Simon decouvrait le Magnum Opus, il la ferait tuer : trahison de fond, dissimulee. (Coherent : Simon est deja une menace influente des 1847.)
-- Lea Florence Monad : ancienne amie ("my sadly not departed friend" dans le message de Lea). [DIVERGENCE RP] tensions puis reconciliation lorsque Lea decouvre la Louve Blanche -> roadmap Ere 2.
+- Lea Florence Monad : ancienne amie BROUILLEE ("my sadly not departed friend" dans le message canon de Lea). [DIVERGENCE RP - Ere 2] Les deux femmes s'etaient perdues de vue ; quand le masque blanc tombe en 1849 (apres une mission de liberation d'un quartier de l'influence alchimiste), Lea reconnait la Marionnettiste de la Mort et, folle de rage des horreurs commises depuis leur brouille, menace de la tuer (Romeo et Alidoro presents). Magnus s'interpose. Au fil des missions suivantes, l'evidence que Markiona a change ramene l'amitie d'antan : reconciliation. cf. Personnages/Lea_Florence_Monad.md.
 - Rosaura : pantin de Geppetto ; emprisonnee dans une cage d'oiseau dans son atelier ; "cle" de son plan (jamais explicitee).
 - Ange de l'Arc [DIVERGENCE RP] : son garde du corps aile, sans Ego ni libre arbitre ; second corps de combat. Detruit a l'Ere 1, reconstruit par l'Ordre (cf. typologie).
-- Magnus [DIVERGENCE RP] : sa creation parfaite, son Magnum Opus incarne ; n'obeit qu'a elle, l'appelle "Dame Markiona". Traite d'abord en outil ; devient son fils a l'Ere 1 (glissement declenche par sa desobeissance). cf. Personnages/Magnus.md.
+- Magnus [DIVERGENCE RP] : sa creation parfaite, son Magnum Opus incarne ; n'obeit qu'a elle, l'appelle "Dame Markiona". Traite d'abord en outil ; devient son fils a l'Ere 1 (glissement declenche par sa desobeissance). A l'Ere 2, il est le LOUP NOIR a sa LOUVE BLANCHE chez les Stalkers ; c'est son envie de rejoindre les Stalkers qui les y mene. cf. Personnages/Magnus.md.
 - Cassius [DIVERGENCE RP] : alchimiste de haut rang, fidele de Simon, qui decouvre le Magnum Opus en 1847 et declenche l'assaut du Zelator. cf. Personnages/PNJ_secondaires.md.
 - Jeune alchimiste (matiere premiere du Magnum Opus) [DIVERGENCE RP] : victime anonyme, intracable par dessein ; aucune trace de lui dans Magnus (page blanche).
 - Pinocchio (P) [DIVERGENCE RP - revise W5] : ne l'affronte PAS. Ils se croisent en allie lors d'Overture (1850, Rose Estate). cf. roadmap Ere 3.
 
 ## Sort connu [DIVERGENCE RP - revise W5]
 - Le canon (vaincue et tuee par P au Zoo) NE S'APPLIQUE PLUS : c'est son anteriorite de role, pas son sort dans le RP.
-- Sa mort est OUVERTE : pas certain qu'elle meure ; si oui, quand et comment -> roadmap. (Les dettes de rachat et le sort de l'Ange ne pendent plus a sa mort : l'Ange original meurt des 1847.)
+- [DIVERGENCE RP] Markiona est CONDAMNEE par la Petrification pulmonaire (terminale, incurable, inamputable - cf. Physique et sante). La CAUSE de sa fin est donc fixee ; ce qui reste OUVERT, c'est le QUAND et le COMMENT exacts - progression lente, echeance repoussee par les soins de Magnus -> roadmap. (Les dettes de rachat et le sort de l'Ange ne pendent plus a sa mort : l'Ange original meurt des 1847.)
 - A son depart de l'Ordre (1847), ses Danseuses et Chanteuses de l'Arc retombent sur leur allegeance de fond a l'Ordre (confirme in game qu'ils continuent de fonctionner pour l'Ordre). Magnus, lui, ne retombe sur personne.
 
 ## Trajectoire datee
@@ -116,14 +123,17 @@
 |---|---|---|
 | Workshop Union | Technicienne, collegue de Geppetto ; decouvre Camil ; conversion aux Alchimistes | Markiona -> alchimiste devotee |
 | Elevation | Rejoint l'Ordre ; haut rang ; l'Illuminee puis Marionnettiste de la Mort ; fonde Brotherhood of Truth | Cheffe alchimiste influente |
-| Zelator Labs | Experimentations (Petrification, Carcasses) ; interrogatoires | Centre des experiences mortelles |
+| Zelator Labs | Experimentations (Petrification, Carcasses) ; interrogatoires ; surexposition a l'Ergo (peau bleutee, Petrification benigne contractee) | Centre des experiences mortelles ; malade sans le montrer |
 | Zoo de Krat | Alchimistes assassinent Colonel Little -> Markiona maitresse du Zoo ; elixir, lettres a Simon | Maitresse du Zoo (ANTERIORITE) |
 | Pre-1847 [DIVERGENCE RP] | Magnum Opus secret : cristal emeraude -> creation de Magnus (Coeur de l'Arc MK I), reussi du premier coup ; debut du deni d'attachement | Creatrice du pantin parfait |
 | 1847 (eveil) | Eveille Magnus au gantelet ; refus des titres ; lui donne l'ordre "ne te mets jamais en danger pour autrui" | Creatrice -> "Dame Markiona" |
 | 1847 (fuite) | Cassius decouvre le Magnum Opus -> assaut du Zelator ; l'Ange original detruit ; Magnus desobeit et la sauve (blesse) -> DECLIC : il est son fils. Abandon du Zoo et des Pantins de l'Arc (retombent sur l'Ordre) | Outil -> fils ; fugitive de l'Ordre, a racheter |
-| 1847-1848 (~1 an) | Vie cachee a Aurus avec Magnus, d'egal a egal | Mere en cavale |
+| 1847-1848 (~1 an) | Vie cachee a Aurus avec Magnus, d'egal a egal ; deni d'attachement dissous (elle accepte le role de mere) | Mere en cavale, apaisee |
+| 1848 (Les Loups) | Masques de loup (Loup Noir / Louve Blanche) ; le duo rejoint les Stalkers (envie de Magnus) ; missions avec les Sweepers ; rencontre Lea (cheffe) et Romeo | Mere en cavale -> Stalker masquee (la Louve Blanche) |
+| 1849 (reveal) | Apres une mission anti-alchimiste, le masque blanc tombe ; Lea la reconnait (Romeo, Alidoro presents) ; rage de Lea, menace de mort ; Magnus s'interpose et revele sa nature de pantin | Identite exposee ; en sursis aupres de Lea |
+| 1849-1850 (reconciliation) | Au fil des missions, l'amitie d'antan reprend le dessus : Markiona a change, en bien | Anciennes amies brouillees -> reconciliees |
 | 1850 (Overture) | Aux cotes de Magnus (Stalkers) ; blessee face a Arlecchino a la Rose Estate (melee P+Lea+Magnus+Markiona) ; ramenee par Magnus | Survivante ; detail -> roadmap Ere 3 |
-| Suite | Mort ouverte -> roadmap | [INCERTAIN] |
+| Suite | Condamnee par la Petrification pulmonaire ; echeance repoussee par les soins de Magnus ; placement exact -> roadmap | Terminale, en sursis |
 
 ---
 

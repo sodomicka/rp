@@ -1,10 +1,11 @@
 # Veronique
 
-- version : W1
+- version : W2
+- Note de revision W2 : ajout de l'arme canon (marteau) jusque-la non renseignee ; couche Ere 2 (1848, l'incident declencheur : elle pulverise un pantin policier devenu fou, ce qui donne a Magnus l'envie de rejoindre les Stalkers). Le socle canon (cheffe Sweepers, fin DLC) est inchange.
 
 ## Identite
 - Nom : Veronique.
-- Nature : humaine, chef des Sweepers (faction stalker des ruelles de Krat).
+- Nature : humaine, cheffe des Sweepers (faction stalker des ruelles de Krat).
 - Coquilles transcript : "Veronic".
 
 ## Role
@@ -12,6 +13,7 @@
   - Sweepers : issus des alleyways de Krat ; motto "we always repay what is owed".
   - Gardent les old families ; se sentent laisses pour compte par la croissance de Krat et l'automatisation.
   - Installerent les Stargazers dans la ville (role officiel donne aux Sweepers).
+- Apparition Ere 2 (1848) [DIVERGENCE RP] : en pleine sante, cheffe respectee des Sweepers. Lors d'un vacarme dans la rue (un pantin policier vire fou), elle intervient la premiere et PULVERISE le pantin de son marteau avant qu'il ne blesse un civil. Magnus, temoin, en est fascine : c'est cet acte qui lui donne l'envie de rejoindre les Stalkers. cf. Personnages/Magnus.md, Markiona.md.
 - DLC Overture (timeline passee) :
   - Veronique et son avant-garde menes dans un piege par les Alchimistes (via Lumakio, qui collude avec Simon).
   - Capturees ; infectees avec des "strange drugs" / la Petrification Disease.
@@ -27,11 +29,13 @@
 
 ## Capacites
 - Chef de faction : autorite sur les Sweepers.
+- Arme : un MARTEAU (canon) - frappe lourde, capable de pulveriser un pantin d'un seul coup (cf. Ere 2).
 - Combat (boss DLC) : malgre l'infection, combat P dans la Zelator Facility.
 - Sabotage sacrificiel : coupe le coolant pour provoquer sa propre mort et celle de sa transformation.
 
 ## Psychologie
 - Juste et tenace : n'abandonne pas son enquete sur les trahisons internes meme au peril de sa vie.
+- Protectrice du peuple : intervient d'instinct pour epargner les civils (cf. Ere 2).
 - Resistante : essaie de s'accrocher a son humanite pendant l'infection.
 - Digne dans la mort : s'excuse, donne des instructions utiles a P, choisit sa propre fin.
 - [INTERPRETATION] Contraste direct avec Lumakio : la ou Lumakio choisit l'ambition et la trahison, Veronique choisit l'honneur jusqu'au bout.
@@ -40,8 +44,9 @@
 - Lumakio (chef des Bastards) : adversaire de faction ; trahi et infecte par lui.
 - Sweepers : sa faction ; son avant-garde est capturee avec elle.
 - P : combat comme boss ; lui donne des informations cruciales avant de mourir.
-- Lea Florence Monad : Lumakio planifiait de l'eliminer aussi ("she's a little bit stronger than Veronic").
+- Lea Florence Monad : Lumakio planifiait de l'eliminer aussi ("she's a little bit stronger than Veronic"). [DIVERGENCE RP] En Ere 2, toutes deux figures de l'union des Stalkers (Lea unificatrice, Veronique cheffe Sweepers).
 - Two-Faced Overseer : connait son existence (l'"abomination" sous le lab).
+- Magnus / Markiona [DIVERGENCE RP - Ere 2] : son heroisme (le pantin policier pulverise) est l'etincelle qui pousse le duo a rejoindre les Stalkers. Le duo fera ses premieres missions du cote des Sweepers. cf. Personnages/Magnus.md.
 
 ## Sort connu
 - Infectee (Petrification Disease / drogue alchimique).
@@ -52,6 +57,7 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | Pre-Frenzy | Cheffe des Sweepers ; installe les Stargazers | Respectee, active |
+| 1848 (Les Loups) [DIVERGENCE RP] | Pulverise un pantin policier devenu fou avant qu'il ne blesse un civil ; inspire l'entree du duo chez les Stalkers | Cheffe heroique, en vue |
 | DLC (passe) | Enquete sur les trahisons stalkers/Alchimistes | Menace pour Lumakio |
 | DLC (piege) | Piegeee par les Alchimistes (via Lumakio) ; infectee | Captive, mutee |
 | DLC (Zelator Facility) | Combat P comme boss | Vaincue |

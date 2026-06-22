@@ -1,6 +1,7 @@
 # Alidoro et Parrot
 
-- version : W1
+- version : W2
+- Note de revision W2 : couche Ere 2 (Les Loups, 1848-1850). Alidoro (le vrai) : membre de l'union des Stalkers ; role PIVOT au reveal de Markiona - il enrage d'abord (il a documente les crimes dont elle a profite), mais, le moins impulsif des trois, il est le premier a desamorcer (raisonnement : la Marionnettiste de la Mort n'aiderait jamais les Stalkers en couverture, donc Magnus ne ment pas). Parrot : encore partenaire d'Alidoro a cette periode (la trahison est posterieure). Trajectoire Alidoro Ere 2 ajoutee.
 
 > Deux personnages partageant une identite : le vrai Alidoro (alias "the Tracker") et Parrot (imposteur).
 > Traites ensemble car leur histoire est indissociable.
@@ -27,6 +28,14 @@
   4. Meurtre du gardien de phare Columbo (enferme dans sa salle au tresor pour avoir vole un lot d'elixir).
 - Quitte l'Ordre, rejoint les Sweepers, devient stalker, puis chasseur de tresor.
 - Transmet toutes ces informations au reporter Madoro pour les rendre publiques.
+
+### Union des Stalkers (Ere 2, 1848-1850) [DIVERGENCE RP]
+- Membre de l'union des Stalkers aux cotes de Lea et Romeo (cote Sweepers, dans la continuite de son parcours). cf. Factions/Les_Stalkers.md.
+- ROLE PIVOT AU REVEAL (1849) : present quand le masque de Markiona tombe. Il enrage d'abord - et a de bonnes raisons : c'est lui qui a documente les crimes de l'Ordre dont Markiona a directement profite (le meurtre du Colonel Little = exactement ce qui l'a faite maitresse du Zoo - cf. Personnages/Markiona.md).
+  - MAIS Alidoro est le moins impulsif des trois (Lea rage a chaud, Romeo suit par loyaute). En enqueteur, il raisonne vite : la Marionnettiste de la Mort n'aurait JAMAIS aide les Stalkers - meme par calcul, meme pour s'infiltrer. Donc le devouement du duo au peuple est sincere, donc Magnus ne ment pas quand il dit qu'elle a change.
+  - C'est ce raisonnement qui amorce le desamorcage de la scene (Lea se reconcilie ensuite au fil des missions). Ironie : l'homme qui a documente ses crimes est le premier a croire a sa redemption, precisement parce qu'il sait ce qu'elle etait. cf. Personnages/Lea_Florence_Monad.md, Magnus.md.
+
+### Role (suite : DLC et apres)
 - Pendant la Puppet Frenzy : presente lors de l'effondrement de la Workshop Tower.
   - Sauve Eugenie (qui y travaillait) et l'amene a Madoro (medic).
   - Perd un doigt dans l'incident.
@@ -42,20 +51,23 @@
 ### Capacites
 - Combat de haut niveau : summonne par P via le Horn, combat un boss (Two-Faced Overseer) directement.
 - Competences d'enqueteur/chasseur : capable de recueillir des preuves contre l'Ordre.
-- Connaissance intime des secrets de l'Ordre alchimique.
+- Connaissance intime des secrets de l'Ordre alchimique (dont les crimes lies a Markiona).
 
 ### Psychologie
 - Haine profonde des Alchimistes, forgee par la decouverte de leurs crimes.
 - Discret, protecteur : cache son identite pour ne pas exposer Eugenie au danger.
 - Considere quiconque est ennemi des Alchimistes comme un allie potentiel.
+- [DIVERGENCE RP - Ere 2] Le moins impulsif : raisonne avant de frapper ; capable de retourner sa propre rage quand la logique des faits l'impose (le reveal de Markiona).
 - Integriste moral : etait "furieux" quand Parrot vendit des objets sans son accord.
 
 ### Relations
 - Eugenie (sa soeur) : la surveille de loin, a risque sa vie pour la sauver, lui avait ecrit une lettre cryptee.
-- Parrot (ex-partenaire, son meurtrier) : l'a eleve comme partenaire de chasse aux tresors ; tue par lui.
+- Parrot (ex-partenaire, son meurtrier) : l'a eleve comme partenaire de chasse aux tresors ; tue par lui. [DIVERGENCE RP - Ere 2] A cette periode, Parrot est encore son partenaire vivant ; la trahison est posterieure.
 - Madoro (reporter/medic) : intermediaire pour les revelations ; ami.
 - P : rencontre dans la Zelator Facility ; lui fait confiance en voyant le locket de Monad ; allie de combat.
 - Valentinus Monad (indirectement) : meme camp anti-Simon.
+- Markiona [DIVERGENCE RP - Ere 2] : il a documente les crimes de l'Ordre dont elle a profite (Colonel Little -> maitrise du Zoo). Au reveal, il enrage puis, par raisonnement, valide la sincerite de son changement. cf. Personnages/Markiona.md.
+- Lea Florence Monad, Romeo [DIVERGENCE RP - Ere 2] : co-membres de l'union des Stalkers ; presents avec lui au reveal. cf. Personnages/Lea_Florence_Monad.md, Romeo.md.
 
 ### Sort connu
 - Tue par Parrot lors d'une dispute violente apres que Parrot vendit des objets sans accord.
@@ -68,6 +80,7 @@
 |---|---|---|
 | Passe (avant DLC) | Ex-alchimiste ; decouvre les crimes de l'Ordre | Desillusion, fuite de l'Ordre |
 | Avant Frenzy | Rejoint les Sweepers ; devient stalker puis chasseur de tresor ; transmet infos a Madoro | Article banni, en fuite |
+| 1848-1850 (Les Loups) [DIVERGENCE RP] | Membre de l'union des Stalkers ; role pivot au reveal de Markiona (enrage puis desamorce) | Stalker etabli, juge de la sincerite du duo |
 | Battle of Workshop Tower | Sauve Eugenie lors de l'effondrement ; perd un doigt | Separe de sa soeur |
 | DLC Overture (passee) | Opere comme "the Tracker" ; allie de P contre Two-Faced Overseer | Identite secrete maintenue |
 | Post-Tower (base game) | Mort : tue par Parrot dans une dispute | Identite usurpee |
@@ -83,7 +96,7 @@
 - Coquilles transcript : "Parrot" (nom exact).
 
 ### Role
-- Partenaire d'Alidoro dans la chasse aux tresors.
+- Partenaire d'Alidoro dans la chasse aux tresors. [DIVERGENCE RP - Ere 2] Deja a ses cotes durant la periode des Loups (1848-1850), bien avant la dispute fatale ; rien encore de la trahison.
 - Vend des objets sans accord d'Alidoro -> dispute violente -> tue Alidoro.
 - Prend l'identite d'Alidoro (wanted poster, reputation detruite par ses propres actes).
 - Dans le base game : opere sous l'identite "Alidoro le Tracker", marchand qui offre des armes de heros a P en echange d'objets rares.
@@ -122,6 +135,7 @@
 ### Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| 1848-1850 (Les Loups) [DIVERGENCE RP] | Partenaire d'Alidoro durant la periode des Loups (rien de la trahison encore) | Partenaire loyal en apparence |
 | Avant Frenzy | Partenaire d'Alidoro (chasse aux tresors) | Ressentiment croissant |
 | Avant/pendant Frenzy | Vend des objets ; dispute ; tue Alidoro | Meurtrier, imposteur |
 | Post-Frenzy (base game) | "Faux Alidoro" ; marchand de P a Krat | Identite usurpee active |
