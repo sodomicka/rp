@@ -1,28 +1,31 @@
 # _Implications - LOP
 
-- version : I4
+- version : I5
 - nature : journal de coordination, DOCUMENT DE TRAVAIL. Jamais fetche en narration (cf. INSTRUCTION S4 / S7).
-- statut : fin de Passe 1 (fiches noyau) + BIBLE B4 (couche RP tissee inline). Roadmaps (Passe 2) a venir.
+- statut : Passe 2 en cours (boucle serree). Ere 1 (Genese & fuite) DETAILLEE et fiches integrees a chaud. Eres 2-5 a forer.
 
-## Dettes ouvertes (a trancher a la stabilisation)
-- [RESOLU] SB1.3 / Ego inne par purete | BIBLE B4 | Tranche : EXCEPTION unique a Magnus, PAS regle generale. Le cristal de Magnus est de l'Ergo PUR jamais habite -> ego inne et vierge ; Magnus est le seul cas au monde. Grave en SB1.3 [DIVERGENCE RP]. L'eveil-par-contact reste la regle.
-- [RESOLU] SB8 / Scaling Magnus | BIBLE B4 | Tranche : Magnus au tier Protagoniste = niveau P. Grave en SB8 [DIVERGENCE RP].
-- Pantins de l'Arc (sous-systeme) | WIKI / lore | Typologie Danseuses / Chanteuses / Ange de l'Arc actuellement logee dans Markiona.md. Pourrait meriter sa propre page de lore, et/ou une fiche dediee pour l'Ange, si l'usage le justifie.
-- [RESOLU] Geppetto / "Alchimiste" en Identite | WIKI / BIBLE B4 | Tranche : il PRATIQUE l'alchimie par necessite (pour P) mais la MEPRISE ; son terrain est la mecanique pure + l'Ergo, pas la chair. Identite resserree en Geppetto W3 ; NB ajoute en SB4. Ironie gravee : il a du depecer Lea, travailler le medium qu'il abhorre.
-- [RESOLU] Geppetto / reconnaissance de P-Carlo (DLC) | WIKI | Tranche par le worldbuilder : Geppetto ne reconnait JAMAIS P durant Overture (raison causale -- il ne peut savoir qu'il fabriquera un P parfait avant de l'avoir fabrique). La reconnaissance face-a-face a la Rose Estate reste donc retiree. Distinct du present (base game), ou Geppetto sait pertinemment ce qu'est P.
-- [DIVERGENCE RP] P = chair de Lea | WIKI grave | Theorie gravee en W3 (Pinocchio) / W2 (Geppetto, Lea) : chassis mecanique + peau de Lea + Ego de Carlo + bras-leurre. La boucle bootstrap est DISSOUTE (et non assumee) par la decision n3 : P rappele avant l'arrivee de Geppetto, donc ne se voit pas porter la peau d'une Lea encore vivante. Repose sur le visuel canon observe (taches de rousseur/yeux bleus par defaut, yeux marrons en Real Boy) et sur le trou canon du bretteur sans maitre (Alidoro). A reverifier en coherence croisee a la stabilisation.
-- [DIVERGENCE RP] Cristal d'Ergo de Camille | WIKI grave / propagation a faire | Grave en Camille W4 : le cristal de Camille (Ergo + ego, preleve dans Camil) est entre les mains de Markiona, Geppetto le croit detruit (-> il ne ressuscite jamais Camille). PROPAGATION A FAIRE : Markiona.md (W4) doit porter qu'elle detient ce cristal (Tchekhov). A integrer au prochain lot touchant Markiona.
-- [RESOLU] Cristal de Camille = Coeur de l'Arc MK I ? | WIKI / lore | Tranche : NON, deux cristaux DISTINCTS. Magnus = Ergo PUR jamais habite (ego inne vierge). Camille = Ergo + ego (preleve dans Camil). Magnus reste le seul a ego inne.
+## Dettes ouvertes / resolues
+- [RESOLU] SB1.3 / Ego inne par purete | BIBLE B4 | EXCEPTION unique a Magnus. L'eveil-par-contact reste la regle.
+- [RESOLU] SB8 / Scaling Magnus | BIBLE B4 | Magnus au tier Protagoniste = niveau P.
+- [RESOLU] Geppetto / "Alchimiste" en Identite | Geppetto W3 / SB4 | Pratique l'alchimie par necessite, la meprise.
+- [RESOLU] Geppetto / reconnaissance de P-Carlo (DLC) | Geppetto ne reconnait jamais P durant Overture.
+- [RESOLU - Ere 1] Ange de l'Arc / sort post-mortem | Markiona W5 / Chronologie | L'Ange ORIGINAL est detruit en 1847 (fuite du Zelator). Les Alchimistes en reconstruisent une copie = boss du Zoo a P en 1850. Plus aucun fil ne pend a la mort de Markiona. Dette CLOSE.
+- [RESOLU - Ere 1] Glissement outil -> fils | Markiona W5 / Magnus W2 | Place et motive : DECLENCHE par la desobeissance de Magnus a l'ordre "ne te mets jamais en danger pour autrui" (fuite du Zelator, 1847). La suite (rachat) reste a deplier en roadmap.
+- [RESOLU - propagation] Cristal d'Ergo de Camille | Markiona W5 | La detention par Markiona (Ergo + ego de Camille, Geppetto le croit detruit) est desormais GRAVEE dans Markiona.md. Dette de propagation CLOSE. Le PLACEMENT de l'absorption reste en reserve (cf. pense-betes).
+- [OUVERT - Ere 3] Revision DLC de Markiona | Markiona W5 | W5 a aligne l'ACTE (role Zoo = anteriorite, P ne l'affronte plus, Ange reconstruit = boss, mort ouverte). RESTE a finaliser en forant l'Ere 3 : qui meut l'Ange reconstruit au Zoo en 1850, qui porte la cle du carnaval recuperee par P, logistique de convergence a la Rose Estate.
+- [OUVERT] Pantins de l'Arc (sous-systeme) | Typologie Danseuses / Chanteuses / Ange logee dans Markiona.md. Pourrait meriter sa propre page de lore si l'usage le justifie (l'Ange a desormais matiere de combat via l'Ere 1 ; a reevaluer).
 
-## Pense-betes roadmap (a traiter quand les roadmaps s'ouvrent)
-- Tchekhov cristal de Camille | Markiona detient le cristal (Ergo + ego de Camille) et le garde "pour le faire absorber a Magnus quand elle le jugera digne". Le jour ou l'ego vierge de Magnus recoit l'ame de Camille, il cesse d'etre vierge. Charge dramatique majeure a deployer en roadmap (Passe 2).
-- Ange de l'Arc | sort post-mortem | Loyale a Markiona seule, sans Ego ni couche Ordre : son devenir a la mort de Markiona reste a definir en roadmap.
-- Markiona | glissement outil -> fils | Le moment ou elle comprend que Magnus est son fils (sommet emotionnel) ; remise en question ; tentative de rachat ("aider la vie apres tant avoir oeuvre pour la mort") : a deplier en roadmap.
+## Pense-betes roadmap (a traiter quand les eres concernees s'ouvrent)
+- Tchekhov cristal de Camille | Le jour ou Markiona fait absorber le cristal (Ergo + ego de Camille) a Magnus, son ego vierge cesse de l'etre. Charge dramatique majeure. Placement -> roadmap (ere a determiner).
+- Mort de Markiona | OUVERTE : pas certaine qu'elle meure ; si oui, quand/comment -> roadmap.
+- Ange reconstruit | qui le meut en 1850 (l'Ordre par defaut), cle du carnaval -> roadmap Ere 3.
+- Role de Magnus dans la finale 1852 | -> roadmap Ere 5.
+- Point de depart jouable | TRANCHE : l'eveil de Magnus (1847). Tout est jouable, du premier souffle. (Note : le SETUP confirmera lieu/moment/situation initiale a la Passe 3.)
 
 ## Index - etat
-- Sommaire W4 : Magnus.md ajoute (dette resolue) ; Markiona W4 ; Pinocchio W3, Geppetto W2, Lea W2 ; page Systemes/Genies_et_Chef_D_Oeuvres.md (W1) indexee.
-- Sommaire W5 : lot Camille W3, Carlo W3, Romeo W2 (audit + propagations de ce thread).
-- BIBLE B4 + Sommaire W6 : couche RP tissee inline (SB1.3 exception Magnus, SB5 methode du diable + nature P, SB7 Magnus + miroir, SB8 Magnus niveau P, SB4 NB Geppetto, SB9 legende [DIVERGENCE RP]) ; Geppetto W3, Camille W4 ; dettes SB1.3 / SB8 / Alchimiste / cristal-question fermees.
+- Sommaire W6 puis (au prochain BIBLE BUILD) : indexer Chronologie.md (timeline globale, remplace chronologie.md) et Lieux/Aurus.md (nouveau quartier).
+- Fiches a jour Ere 1 : Magnus W2, Markiona W5, Aurus W1 (neuf), Zelator_Facility W2, PNJ_secondaires W2 (Cassius ajoute).
+- A faire au prochain BIBLE BUILD : bump Sommaire (Aurus, Chronologie, versions W2/W5), eventuellement note SB sur Aurus si juge structurel (sinon laisser au WIKI).
 
 ---
 
