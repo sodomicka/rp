@@ -1,6 +1,7 @@
 # Lea Florence Monad
 
-- version : W3
+- version : W4
+- Note de revision W4 : couche soin (decision worldbuilder). Lea est trop fiere pour parler de sa maladie ; elle l'encaisse en silence (comme Markiona et Veronique - motif des trois fieres, laisse implicite). Son binome soignant est Romeo : en plus des anti-douleurs fournis par Alidoro (canon), Romeo assure son soin au quotidien - miroir exact de Magnus aupres de Markiona. cf. Personnages/Romeo.md.
 - Note de revision W3 : couche Ere 2 (Les Loups, 1848-1850). Nouvelle section Physique et sante : Petrification localisee au bras GAUCHE (severe, manches longues + gants, anti-douleurs) - non terminale (c'est le Nameless qui la tue, pas la maladie) ; [DIVERGENCE RP] ce bras gauche inutilisable justifie que la peau prelevee pour la couche-chair de P n'ait pas de bras gauche -> P recoit le Legion Arm a gauche (cf. Personnages/Pinocchio.md). Role Ere 2 : figure unificatrice de l'union des Stalkers (masque a l'allure de gladiateur), rencontre du duo, scene du reveal (reconnaissance de Markiona, rage, Magnus s'interpose), reconciliation. Relation Markiona remplie (hook W2 resolu).
 
 ## Identite
@@ -15,6 +16,7 @@
 ## Physique et sante
 - [DIVERGENCE RP] Masque de Stalker : allure de gladiateur (lecture RP du design in-game). Comme tous les Stalkers de l'union, elle est masquee (cf. Factions/Les_Stalkers.md, convention).
 - Petrification Disease : LOCALISEE au bras GAUCHE, severe - d'ou manches longues et gants en permanence pour la dissimuler. Sous anti-douleurs (fournis par le Tracker, canon). Progression LENTE ; la maladie n'est PAS terminale chez elle (c'est le Nameless Puppet qui la tue, pas la pierre - cf. Sort connu).
+- [DIVERGENCE RP] Trop fiere pour en parler : elle l'encaisse en silence (comme Markiona et Veronique - les trois fieres de l'orbite stalker ; motif laisse IMPLICITE en prose). Son cercle de soin est restreint : Alidoro fournit la chimie (anti-douleurs), et Romeo - son second - assure le soin au quotidien. Binome soignant en miroir exact de Magnus aupres de Markiona. cf. Personnages/Romeo.md.
 - [DIVERGENCE RP] Justification du Legion Arm de P : quand Geppetto preleve la peau de Lea comme matiere premiere de la couche-chair de Pinocchio, le bras gauche petrifie est inutilisable -> P n'a pas de chair au bras gauche et recoit le Legion Arm mecanique a cet endroit. C'est ce qui cale le canon (Legion Arm = bras gauche). cf. Personnages/Pinocchio.md, Personnages/Giuseppe_Geppetto.md.
 
 ## Role
@@ -64,12 +66,12 @@
 - Valentinus Monad : pere adoptif ; lui offre la Rose Sword. Elle lui ecrit une lettre de pardon (trahison sentimentale de sa part, douleur du Monad path, fierte pour ses apprentis). Cf. Personnages/Valentinus_Monad.md.
 - Sophia Monad : soeur adoptive. Cf. Personnages/Sophia_Monad.md.
 - Carlo : enfant du Monad Charity House ; la supplie de lui apprendre l'epee ; meurt pendant son absence. Elle regrette de l'avoir abandonne.
-- Romeo : apprenti stalker vedette ; [DIVERGENCE RP - Ere 2] son second dans l'union des Stalkers (masque de Roi). La photo sanguinolente dans le locket contient Lea, Romeo et un troisieme individu. Elle cherche Romeo enleve par Arlecchino tout au long du DLC. Cf. Personnages/Romeo.md.
+- Romeo : apprenti stalker vedette ; [DIVERGENCE RP - Ere 2] son second dans l'union des Stalkers (masque de Roi) ; son binome soignant - il prend soin de sa Petrification (bras gauche) au quotidien, elle qui est trop fiere pour en parler. La photo sanguinolente dans le locket contient Lea, Romeo et un troisieme individu. Elle cherche Romeo enleve par Arlecchino tout au long du DLC. Cf. Personnages/Romeo.md.
 - Simon Manus : adversaire ; prime officieuse posee par Simon sur sa tete -> sa disparition. Cf. Personnages/Simon_Manus.md.
 - Arlecchino : ennemi jure ; l'a vaincu dans le passe (lui a retire bras et jambes) ; Arlecchino prend sa revanche via le kidnapping de Romeo. Combat final du DLC.
 - Markiona : ancienne amie BROUILLEE ("my sadly not departed friend" dans son message canon). [DIVERGENCE RP - Ere 2] Les deux s'etaient perdues de vue ; au reveal (1849), Lea reconnait la Louve Blanche, enrage et menace de la tuer pour ses horreurs passees, puis - convaincue par la logique d'Alidoro et l'utilite reelle de Markiona aupres du peuple - se reconcilie au fil des missions. cf. Personnages/Markiona.md.
 - Geppetto : relation complexe - lui dit de se debarrasser de Carlo (puis le regrette). Geppetto utilise le Nameless Puppet pour tuer Lea et recuperer le corps de Romeo. [DIVERGENCE RP] Il preleve aussi sa peau, matiere premiere de la couche chair de P ; le bras gauche petrifie est inutilisable, d'ou le Legion Arm gauche de P (cf. Physique et sante, Personnages/Pinocchio.md, Giuseppe_Geppetto.md).
-- Le Tracker (Alidoro) : lui a fourni des anti-douleurs pour supporter la maladie ; connait sa situation et son emplacement. [DIVERGENCE RP - Ere 2] Membre de l'union des Stalkers a ses cotes ; present au reveal, c'est lui qui desamorce la scene. cf. Personnages/Alidoro_et_Parrot.md.
+- Le Tracker (Alidoro) : lui a fourni des anti-douleurs pour supporter la maladie ; connait sa situation et son emplacement. [DIVERGENCE RP - Ere 2] Membre de l'union des Stalkers a ses cotes ; present au reveal, c'est lui qui desamorce la scene. Cote soin, il fournit la chimie ; le quotidien revient a Romeo. cf. Personnages/Alidoro_et_Parrot.md, Romeo.md.
 - Magnus [DIVERGENCE RP - Ere 2] : le Loup Noir, pantin a Ego du duo ; s'interpose pour defendre Markiona au reveal et revele sa propre nature. cf. Personnages/Magnus.md.
 - Klaus (marchand) : Lea l'a sauve au zoo et amene a l'hotel ; Klaus confirme a P que Lea cherchait son apprenti dans un laboratoire.
 

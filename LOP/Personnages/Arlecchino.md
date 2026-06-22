@@ -1,12 +1,14 @@
 # Arlecchino
 
-- version : W1
+- version : W2
+- Note de revision W2 : touche Ere 2-frontiere (decision worldbuilder). Ajout du moniker d'epoque "l'Artiste de sang" (surnom 1850 / DLC) et de la chronologie de nommage (Artiste de sang en 1850 -> Roi des Enigmes en 1852) : naming PERIODE-CORRECT a respecter en roadmap / codex. Note frontiere Ere 2 : fin 1850, la rumeur de son retour pres du Zoo est l'APPAT qui tire la reconnaissance solo de Romeo -> son enlevement ouvre Overture (Ere 3). Caracterise comme l'Ego-pantin dangereux ULTIME. Le gros de son role (enlevement, Rose Estate) reste detaille en Ere 3.
 
 ## Identite
 - Pantin (puppet) a Ego eveille ; serial killer. Aussi designe comme "puppet meurtrier" dans la source.
 - Coquilles transcript : "Arino", "Arleino", "Arlino", "Alakino", "Arleino".
 - L'Ergo place dans son corps de pantin est celui d'un tueur en serie humain (l'Ego du serial killer humain a ete transfere dans le corps de pantin).
-- Connu in-game comme le King of Riddles : dans le base game, il repond aux cabines telephoniques publiques et pose des devinettes a P ; resoudre les devinettes donne des Trinity Keys ouvrant des salles secretes (peut-etre reunions d'une societe secrete des 3 personnages les plus puissants de Krat).
+- [DIVERGENCE RP - chronologie de nommage] Son surnom evolue avec l'epoque : en 1850 (DLC / Ere 3) il est connu comme "l'Artiste de sang" (echo de son Magnum Opus - ses meurtres concus comme art) ; ce n'est qu'au base game (1852 / Ere 5) qu'il devient "le Roi des Enigmes". En roadmap et en jeu, employer le moniker de l'epoque (1850 = l'Artiste de sang). Comprend qui peut : le public ignore que l'Artiste de sang est le pantin que Lea a jadis reduit a un torse (crime maquille par l'Ordre et le Workshop) ; les inities - Lea la premiere - savent.
+- Connu in-game comme le King of Riddles : dans le base game (1852), il repond aux cabines telephoniques publiques et pose des devinettes a P ; resoudre les devinettes donne des Trinity Keys ouvrant des salles secretes (peut-etre reunions d'une societe secrete des 3 personnages les plus puissants de Krat).
 - Boss final du DLC Overture (deux phases).
 
 ## Role
@@ -29,6 +31,11 @@
 - Arlecchino apprend que pour incarner pleinement l'Ergo humain en soi, il faut ressembler au sujet : "appearance is key". Methode que Geppetto aurait aussi apprise (le "devil's method" mentionne dans le Madman's Journal).
 - Des membres de l'Ordre petitionnent Valentinus au sujet des experiences de Simon sur Arlecchino.
 - Arlecchino attaque et tue tous les gardes de la flotte ; s'echappe. Apprend l'affection de Lea pour son apprenti Romeo ; se rend au Zoo de Krat pour preparer sa vengeance.
+
+### Frontiere de l'Ere 2 (1850) [DIVERGENCE RP]
+- A la charniere Ere 2 -> Overture : echappe de la flotte, repare et re-membre (plus dangereux que jamais), Arlecchino rode pres du Zoo de Krat (ancien domaine alchimiste de Markiona) pour preparer sa vengeance contre Lea. Une RUMEUR court - "l'Artiste de sang est de retour".
+- Cette rumeur est un APPAT (deliberement ou de fait) : elle tire Romeo - second de Lea - en reconnaissance SOLO au Zoo. C'est la que Romeo se fait enlever (cf. DLC ci-dessous), declencheur d'Overture.
+- Cadrage de l'union des Stalkers : Arlecchino est l'Ego-pantin dangereux ULTIME - exactement le genre d'eveil que l'union traque, porte a son paroxysme (tier SB8 "tres haut"). cf. Personnages/Romeo.md, Lea_Florence_Monad.md, roadmap Ere 2 (cloture) / Ere 3.
 
 ### DLC Overture : plan de vengeance
 - Kidnappe Romeo (apprenti de Lea) pour attirer Lea dans un piege au Zoo.
@@ -78,7 +85,8 @@
 | Periode meurtriere | Tue les parents Venigni et d'autres ; torture son maitre pour obtenir la localisation de l'ile | Arlecchino -> serial killer notoire |
 | Confrontation Lea | Lea le combat et le detruit (torse sans membres) ; legende de Lea solidifiee ; crime dissimule | Arlecchino -> capture, impotent |
 | Transport Archon fleet | Simon le recupere, repare, equipe de nouveaux membres ; enferme dans le brig ; s'echappe apres avoir tue les gardes | Arlecchino -> libre et plus dangereux |
-| Plan de vengeance | Apprend l'affection de Lea pour Romeo ; va au Zoo ; kidnappe Romeo ; message a Lea | Arlecchino -> stratege de la vengeance |
+| 1850 (frontiere Ere 2) [DIVERGENCE RP] | Echappe, repare ; rode pres du Zoo ; la rumeur du retour de "l'Artiste de sang" sert d'appat | Arlecchino -> embusque, ULTIME |
+| Plan de vengeance (Overture) | Apprend l'affection de Lea pour Romeo ; kidnappe Romeo (venu en reco solo) ; message a Lea | Arlecchino -> stratege de la vengeance |
 | DLC Overture | Rose Estate ; massacre des refugies ; combat vs P (+/-Lea) ; deux phases ; vaincu | Arlecchino -> mort (vaincu) |
 | Base game (residuel) | Restes a l'Aisle ; devinettes telephoniques ; reconnaissait le costume de Lea | Arlecchino -> fragment / esprit residuel |
 
