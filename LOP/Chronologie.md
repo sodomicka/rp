@@ -1,8 +1,8 @@
 # Chronologie - Magnus (timeline globale)
 
-- version : C2
+- version : C3
 - nature : TIMELINE GLOBALE du parcours de Magnus, grosses mailles. Echafaudage de conception build-side ; les roadmaps (eres) en detaillent chaque tranche.
-- remplace : chronologie.md (C1). Fichier renomme Chronologie.md (forme du depot) ; ne garder que cette version.
+- remplace : C2 (qui remplacait chronologie.md / C1). Ne garder que cette version.
 - scope : parcours de Magnus (OC, prota du seul RP LOP), du premier souffle (1847) a la fin (chute de Manus + conclusion de Geppetto).
 - regime : canon LOP + [DIVERGENCE RP] tisse inline. Tout ce qui touche Magnus / Markiona-alliee et n'est pas marque canon = divergence assumee (cf. BIBLE SB9.1).
 - a NE PAS confondre avec BIBLE SB6 "Chronologie canon" = histoire du MONDE (Krat). Ici = parcours d'UN personnage.
@@ -21,7 +21,11 @@
 - Maitresse du Zoo de Krat (Colonel Little et Philato elimines par l'Ordre) ; Zelator Labs, experiences, Carcasses ; vecteur de l'elixir.
 - Detention du cristal d'Ergo de Camille (Ergo + ego, preleve dans Camil) ; Geppetto le croit detruit.
 - Decouverte du cristal d'Ergo emeraude (purete inedite) -> Magnum Opus SECRET au complexe Zelator (Simon la tuerait s'il savait).
+- Markiona porte DEJA la Petrification pulmonaire (terminale, lente, incurable et inamputable) : sa maladie est anterieure a la fuite, et non une consequence de l'Ere 1. cf. Fils ouverts (mort de Markiona).
 - Ces actes = les "horreurs" que la Markiona d'apres voudra racheter.
+
+## Repere monde (hors orbite de Magnus, pour calage)
+- 1843 : mort de Carlo (Petrification Disease, Monad Charity House), encore enfant, du meme age que Romeo. Hors du parcours de Magnus, mais cale la jeunesse de Romeo (jeune Stalker en 1848-1850, jeune King of Puppets en 1851). cf. Carlo.md. [DIVERGENCE RP - calendrier in-world.]
 
 ## 1847 - Genese et fuite (Ere 1) [DIVERGENCE RP]
 - Complexe Zelator, lab en pleine activite (recherches : froid, Arm of God, elixir, Petrification). Markiona y eveille Magnus au gantelet (Coeur de l'Arc MK I, cristal emeraude).
@@ -32,7 +36,7 @@
 - Fuite. Puis ~1 AN de vie cachee dans le havre souterrain d'Aurus (quartier pauvre, pecheur, terrain des Sweepers) : routine confortable, d'egal a egal.
 
 ## 1848 - Les Loups rejoignent les Stalkers (Ere 2)
-- Le duo entend parler des Stalkers ; Magnus veut les rejoindre (les Sweepers, cote peuple, lui en donnent l'envie), Markiona suit.
+- Le duo entend parler des Stalkers ; Magnus veut les rejoindre (les Sweepers, cote peuple, lui en donnent l'envie), Markiona suit. Etincelle decisive : Veronique (Sweepers) pulverise au marteau un pantin policier eveille devenu dangereux pour les passants.
 - Masques de loup confectionnes par Markiona : noir pour lui, blanc pour elle -> le LOUP NOIR (Magnus) et la LOUVE BLANCHE (Markiona).
 - Structure des Stalkers (cadrage RP) : Lea Florence, figure unificatrice, assistee de Romeo (qui porte le masque du Roi - presage de ce que Geppetto fera de lui). Trois factions internes, chacune sa methode, articulees pour aider le peuple avant 1851 :
   - SWEEPERS - ruelles, "we always repay what is owed", quartiers pauvres (canon).
@@ -42,8 +46,10 @@
 - Liens : surtout les Sweepers, le duo Lea + Romeo ; aussi Alidoro (le Limier) et le Perroquet.
 
 ## 1848-1850 - L'identite revelee
-- Lea, Romeo et Alidoro apprennent qui est le duo (la Marionnettiste de la Mort sous le masque blanc).
-- Lea <-> Markiona : tensions (anciennes amies brouillees) puis reconciliation ; on apprecie que Markiona se rende utile au peuple.
+- 1849 : le masque blanc de Markiona tombe apres une mission anti-alchimiste. Lea, Romeo et Alidoro apprennent qui est le duo (la Marionnettiste de la Mort sous le masque blanc). Magnus revele a son tour, naivement, sa nature de pantin. Alidoro desamorce (raisonnement d'enqueteur : la Marionnettiste n'aiderait jamais les Stalkers en couverture, donc Magnus ne ment pas).
+- Lea <-> Markiona : tensions (anciennes amies brouillees) puis reconciliation au fil des missions ; on apprecie que Markiona se rende utile au peuple.
+- Maladies (cadrage RP) : Markiona condamnee (Petrification pulmonaire, anterieure, lente), echeance repoussee par les soins quotidiens de Magnus. Lea porte une Petrification localisee au bras GAUCHE (non terminale) -> justifiera la prothese Legion Arm gauche de P (peau inexploitable a cet endroit ; cf. Pinocchio.md, Giuseppe_Geppetto.md). [Le motif d'un eventuel "rhyme" des maladies (Lea/Markiona/Veronique) reste hors fiche : decision worldbuilder en attente.]
+- Fin Ere 2 : Romeo part seul en reconnaissance au Zoo -> bascule vers Overture (Ere 3).
 
 ## 1850 - Overture (croisement avec P) (Ere 3) [canon reorchestre]
 - Romeo disparait en mission : enleve par Arlecchino (vengeance contre Lea). Declencheur d'Overture.
@@ -66,13 +72,13 @@
 
 ## Fils ouverts / en reserve (pour les roadmaps)
 - Cristal de Camille [reserve] : Markiona le detient (Ergo + ego de Camille) et veut le faire absorber a Magnus "quand elle le jugera digne". L'absorption met fin a l'ego vierge de Magnus (charge dramatique majeure). Placement -> roadmap.
-- Mort de Markiona [ouverte] : pas certaine ; si oui, quand et comment -> roadmap.
+- Mort de Markiona [condamnee] : CAUSE FIXEE = Petrification pulmonaire (terminale, lente, incurable, inamputable), anterieure a 1847, echeance repoussee par les soins de Magnus. Le QUAND et le COMMENT exacts -> roadmap.
 - Logistique Overture : comment P-du-futur, le duo et Lea convergent a la Rose Estate -> roadmap Ere 3.
 - Ange reconstruit (1850) : qui le meut (l'Ordre par defaut), porteur de la cle du carnaval recuperee par P -> roadmap Ere 3.
 
 ## Decoupage en eres (= roadmaps)
-1. Genese et fuite (1847) -- DETAILLEE (fiches a jour : Magnus W2, Markiona W5, Aurus W1, Zelator W2, PNJ_secondaires W2 / Cassius).
-2. Les Loups (1848-1850) -- a forer.
+1. Genese et fuite (1847) -- DETAILLEE (fiches a jour : Magnus W3, Markiona W5/W6, Aurus W1, Zelator W2, PNJ_secondaires W2 / Cassius).
+2. Les Loups (1848-1850) -- DETAILLEE (fiches a jour : Markiona W6, Les_Stalkers W2, Veronique W2, Black_Rabbit_Brotherhood W2, Lea_Florence_Monad W3, Romeo W3, Alidoro_et_Parrot W2, Magnus W3, Carlo W4). Cloture gravee le 2026-06-22.
 3. Overture (1850) -- a forer.
 4. La Frenzy (1851) -- a forer.
 5. Le reveil et la fin (1852+) -- a forer.

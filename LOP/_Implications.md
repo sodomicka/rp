@@ -1,15 +1,15 @@
 # _Implications - LOP
 
-- version : I6
+- version : I7
 - nature : journal de coordination, DOCUMENT DE TRAVAIL. Jamais fetche en narration (cf. INSTRUCTION S4 / S7).
-- statut : Passe 2 en cours (boucle serree). Ere 1 (Genese & fuite) DETAILLEE et integree. Ere 2 (Les Loups, 1848-1850) DETAILLEE, 7 fiches integrees a chaud et uploadees - SAUF la cloture (cf. section ci-dessous). Eres 3-5 a forer.
+- statut : Passe 2 en cours (boucle serree). Ere 1 (Genese & fuite) DETAILLEE et integree. Ere 2 (Les Loups, 1848-1850) DETAILLEE et CLOTUREE (cloture gravee le 2026-06-22). Prochaine etape : forer l'Ere 3 (Overture, 1850). Eres 4-5 a forer ensuite.
 
-## CLOTURE ERE 2 - A GRAVER EN OUVERTURE DU PROCHAIN THREAD
-> Integration a chaud non finie a la coupure de thread (contexte sature). A faire EN PREMIER au thread suivant, AVANT de forer l'Ere 3. Ce n'est PAS du report indefini : c'est un handoff de coupure de thread.
-- Magnus W2 -> W3 : strate Ere 2 du protagoniste (Loup Noir ; l'etincelle Veronique ; les routines de soin qui rachetent du temps a Markiona + la cuisine ; amitie avec Romeo ; reveal naif de sa nature de pantin ; profil age mental ~2 ans / savoir d'expert / corps d'athlete / naivete et ignorance des codes humains d'un enfant). Polish profond reserve au thread dedie aux persos centraux.
-- Carlo : graver la mort en 1843 (gamin, meme age que Romeo) dans Carlo.md + Chronologie.
-- Chronologie C2 -> C3 : Petrification de Markiona en anteriorite ; bascule du fil "mort de Markiona" (ouvert -> condamnee, cause fixee) ; Carlo mort en 1843 ; jalons Ere 2 en grosses mailles.
-- Propagation Legion Arm gauche : le bras gauche petrifie de Lea justifie le Legion Arm gauche de P -> a inscrire dans Pinocchio.md et Giuseppe_Geppetto.md (ne vit pour l'instant que dans Lea_Florence_Monad.md).
+## CLOTURE ERE 2 - GRAVEE (2026-06-22)
+> Le handoff de coupure de thread precedent est resolu. Les 4 items sont graves :
+- [FAIT] Magnus W2 -> W3 : strate Ere 2 (Loup Noir ; etincelle Veronique ; routines de soin + cuisine ; amitie Romeo ; reveal naif ; profil ~2 ans / savoir d'expert / corps d'athlete / naivete enfantine). Polish profond reserve au thread dedie aux persos centraux.
+- [FAIT] Carlo W3 -> W4 : mort gravee en 1843 (enfant, meme age que Romeo), dans Carlo.md + Chronologie.
+- [FAIT] Chronologie C2 -> C3 : Petrification de Markiona en anteriorite ; bascule "mort de Markiona" (ouverte -> condamnee, cause fixee) ; Carlo 1843 (repere monde) ; jalons Ere 2 en grosses mailles.
+- [FAIT] Propagation Legion Arm gauche : bras gauche petrifie de Lea -> prothese gauche de P, inscrit dans Pinocchio.md (W3 -> W4) et Giuseppe_Geppetto.md (W3 -> W4).
 
 ## Dettes ouvertes / resolues
 - [RESOLU] SB1.3 / Ego inne par purete | BIBLE B4 | EXCEPTION unique a Magnus. L'eveil-par-contact reste la regle.
@@ -32,7 +32,7 @@
 - Point de depart jouable | TRANCHE : l'eveil de Magnus (1847). (Le SETUP confirmera lieu/moment/situation initiale a la Passe 3.)
 
 ## Index - etat
-- Sommaire W6, PERIME. Au prochain BIBLE BUILD, indexer/mettre a jour : Chronologie.md (timeline globale, remplace chronologie.md), Lieux/Aurus.md (nouveau), et les versions Ere 2 : Markiona W6, Les_Stalkers W2, Veronique W2, Black_Rabbit_Brotherhood W2, Lea_Florence_Monad W3, Romeo W3, Alidoro_et_Parrot W2 (+ Magnus W3, Carlo, Chronologie C3 une fois la cloture Ere 2 gravee).
+- Sommaire W6, PERIME. Au prochain BIBLE BUILD, indexer/mettre a jour : Chronologie.md (timeline globale, ABSENTE du Sommaire), Lieux/Aurus.md (nouveau, ABSENT du Sommaire), et les versions : Markiona W6, Les_Stalkers W2, Veronique W2, Black_Rabbit_Brotherhood W2, Lea_Florence_Monad W3, Romeo W3, Alidoro_et_Parrot W2, Magnus W3, Carlo W4, Pinocchio W4, Giuseppe_Geppetto W4, Chronologie C3.
 - Cloture de Passe 2 : relecture croisee (audit de conflits inter-arcs) APRES la derniere roadmap (Ere 5). Pas avant.
 
 ---

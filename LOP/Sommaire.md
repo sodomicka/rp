@@ -1,6 +1,6 @@
 # Sommaire - LOP
 
-- version : W6
+- version : W7
 
 ## WIKI
 
@@ -9,22 +9,22 @@
 
 ### Personnages/
 Description : fiches noyau des personnages (canon), etat au point de depart.
-- Pinocchio.md (W3) - le pantin "P", protagoniste, cree par Geppetto a l'image de Carlo ; peut mentir.
-- Giuseppe_Geppetto.md (W3) - createur des pantins ; antagoniste cache (Law Zero, Puppet Frenzy).
+- Pinocchio.md (W4) - le pantin "P", protagoniste, cree par Geppetto a l'image de Carlo ; peut mentir.
+- Giuseppe_Geppetto.md (W4) - createur des pantins ; antagoniste cache (Law Zero, Puppet Frenzy).
 - Sophia_Monad.md (W1) - Listener / "Fee bleue" ; fille de Valentinus ; guide P ; prisonniere de Simon.
 - Gemini.md (W1) - grillon-lanterne ; guide permanent de P.
-- Romeo.md (W2) - King of Puppets ; ami d'enfance de Carlo ; meneur de la revolte des pantins.
-- Carlo.md (W3) - fils mort de Geppetto ; modele de Pinocchio ; moteur de l'intrigue.
+- Romeo.md (W3) - King of Puppets ; ami d'enfance de Carlo ; meneur de la revolte des pantins.
+- Carlo.md (W4) - fils mort de Geppetto ; modele de Pinocchio ; moteur de l'intrigue.
 - Camille.md (W4) - Camille, epouse de Geppetto ; "Camil" = le pantin-servante anime par son Ergo (une personne, deux corps) ; eveil de l'Ego ; Listener.
 - Simon_Manus.md (W1) - antagoniste principal ; alchimiste devenant Dieu Eveille.
 - Valentinus_Monad.md (W1) - fondateur des Alchimistes ; pere de Sophia ; excommunie.
-- Lea_Florence_Monad.md (W2) - Legendary Stalker ; mentor de Carlo et Romeo ; traque Arlecchino.
+- Lea_Florence_Monad.md (W3) - Legendary Stalker ; mentor de Carlo et Romeo ; traque Arlecchino.
 - Arlecchino.md (W1) - pantin meurtrier (DLC) ; vengeance contre Lea.
-- Markiona.md (W4) - alchimiste, la Marionnettiste de la Mort ; typologie des Pantins de l'Arc ; son Magnum Opus = Magnus.
-- Magnus.md (W1) - [OC] pantin parfait ne du Coeur de l'Arc (cristal d'Ergo emeraude), indiscernable d'un humain, Ego inne ; Magnum Opus de Markiona.
+- Markiona.md (W6) - alchimiste, la Marionnettiste de la Mort ; typologie des Pantins de l'Arc ; son Magnum Opus = Magnus.
+- Magnus.md (W3) - [OC] pantin parfait ne du Coeur de l'Arc (cristal d'Ergo emeraude), indiscernable d'un humain, Ego inne ; Magnum Opus de Markiona.
 - Laxasia.md (W1) - the Complete / ex-Sister Adriana ; bras droit de Simon ; boss majeur.
 - Philip_Paracelsus.md (W1) - alias Giangio ; alchimiste cache ; fil du sequel (Dorothy).
-- Alidoro_et_Parrot.md (W1) - le vrai Alidoro / le Tracker, et l'imposteur Parrot.
+- Alidoro_et_Parrot.md (W2) - le vrai Alidoro / le Tracker, et l'imposteur Parrot.
 - Antonia.md (W1) - proprietaire de l'Hotel Krat ; atteinte de Petrification.
 - Polendina.md (W1) - majordome pantin a Ego eveille ; amoureux d'Antonia.
 - Eugenie.md (W1) - armuriere de l'hotel ; soeur du vrai Alidoro.
@@ -32,12 +32,12 @@ Description : fiches noyau des personnages (canon), etat au point de depart.
 - Pulcinella.md (W1) - majordome pantin de Lorenzini Venigni ; disparait a la Venigni Works pendant la Frenzy, retrouve par P.
 - Adelina_et_Patricia.md (W1) - la chanteuse Adelina Corde et sa soeur Patricia (White Lady).
 - Lumakio.md (W1) - chef des Bastards ; traitre au service de Simon.
-- Veronique.md (W1) - chef des Sweepers ; piegee par les Alchimistes.
+- Veronique.md (W2) - chef des Sweepers ; piegee par les Alchimistes.
 - Archbishop_Andreas.md (W1) - archeveque corrompu ; mute en One-Winged Angel.
 - Cecile.md (W1) - nonne meurtriere ; voleuse de l'Arm of God pour Andreas.
 - Rosaura.md (W2) - pantin-amie de Carlo ; cle echappee (DLC).
 - Madoro.md (W1) - reporter/medic ; relais de la verite sur les Alchimistes.
-- PNJ_secondaires.md (W1) - fiche groupee (Belle, Julian/Melody, the Atoned, Klaus, Hugo, Godard, Colonel Little/Rex, Luca, Subject 826, Columbo, Dorothy, Decart).
+- PNJ_secondaires.md (W2) - fiche groupee (Belle, Julian/Melody, the Atoned, Klaus, Hugo, Godard, Colonel Little/Rex, Luca, Subject 826, Columbo, Dorothy, Decart).
 
 ### Creatures/
 Description : boss et creatures notables.
@@ -53,15 +53,16 @@ Description : fiches des lieux du monde.
 - Venigni_Works.md (W1) - usine de Lorenzini Venigni ; prise par Fuoco.
 - Grand_Exhibition.md (W1) - showcase jamais tenu ; drogue/elixir ; Champion Victor.
 - Krat_Zoo.md (W2) - DLC : Colonel Little, Markiona, carnival.
-- Zelator_Facility.md (W1) - DLC : Listener experiments ; Gold Coin Tree.
+- Zelator_Facility.md (W2) - DLC : Listener experiments ; Gold Coin Tree.
 - Rose_Estate_Monad_Charity_House.md (W2) - DLC : refuge des notables ; charity house.
 - Quartiers_de_Krat.md (W1) - fiche groupee des sous-lieux (gare, boulevards, Malum, opera, Barren Swamp, Workshop Tower, etc.).
+- Aurus.md (W1) - [DIVERGENCE RP] havre souterrain ou se terre le duo Magnus / Markiona apres la fuite du Zelator (1847-1848) ; quartier pauvre et pecheur, terrain des Sweepers ; jardin a aromes sous lampe a Ergo.
 
 ### Factions/
 Description : factions et groupes organises.
 - Les_Alchimistes.md (W1) - l'Ordre ; Ouroboros ; schisme Simon/Valentinus.
-- Les_Stalkers.md (W1) - Bastards vs Sweepers ; Stargazers ; Battle of the Workshop Tower.
-- Black_Rabbit_Brotherhood.md (W1) - gang de stalkers survivants ; voleurs de corps.
+- Les_Stalkers.md (W2) - Bastards vs Sweepers ; Stargazers ; Battle of the Workshop Tower.
+- Black_Rabbit_Brotherhood.md (W2) - gang de stalkers survivants ; voleurs de corps.
 - Workshop_Union.md (W1) - horlogers de Geppetto ; famille Venigni ; fabrique des pantins.
 
 ### Systemes/
@@ -84,10 +85,12 @@ Description : objets et reliques narrativement significatifs.
 
 ### Documents de travail (non fetches en narration)
 - _Table_Noms_Canon.md (W2) - table coquilles transcript -> noms canon.
-- _Implications.md (I4) - bloc de coordination (doutes, [INCERTAIN], dettes ouvertes, fils du sequel).
+- _Implications.md (I7) - bloc de coordination (doutes, [INCERTAIN], dettes ouvertes, fils du sequel).
+- Chronologie.md (C3) - timeline GLOBALE du parcours de Magnus (calendrier in-world 1847-1852), grosses mailles ; echafaudage de conception build-side, jamais fetche en narration. A NE PAS confondre avec BIBLE SB6 (chronologie du MONDE).
 
-> ROADMAPS / FICHES D'ARC / CODEX : non produits a la genese (Passe 0 + Passe 1). A construire en
-> Passe 2/3 sur demande du worldbuilder.
+> ROADMAPS (par arc) / FICHES D'ARC / CODEX : pas encore produits comme livrables dedies.
+> Statut Passe 2 (boucle serree) : Ere 1 (1847) et Ere 2 (1848-1850) DETAILLEES et CLOTUREES ; Eres 3-5 a forer.
+> L'echafaudage des eres vit dans Chronologie.md (Documents de travail) ; les Fiches_Arc/ et le CODEX viendront en Passe 3.
 
 ---
 
