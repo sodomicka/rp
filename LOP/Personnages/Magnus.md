@@ -1,6 +1,6 @@
 # Magnus
 
-- version : W3
+- version : W4
 - STATUT GLOBAL : OC (personnage original), protagoniste du seul RP LOP. Entite entierement hors jeu - [DIVERGENCE RP] de bout en bout (aucun filet canon : tout ce qui n'est pas dans cette fiche n'existe pas). Place dans {Univers}/Personnages/ par decision du worldbuilder (beaucoup de lore se batira autour de lui).
 - POINT DE DEPART JOUABLE : l'eveil de Magnus (1847, complexe Zelator). Le joueur incarne Magnus depuis son tout premier souffle. Le NOYAU ci-dessous = son etat a l'instant de l'eveil ; l'apprentissage, la fuite et l'annee a Aurus sont de la TRAJECTOIRE DATEE (post-depart).
 
@@ -22,7 +22,7 @@
 - Sommeil : dort comme un humain. Rituel : s'endort chaque soir en relisant l'inscription de sa rapiere "Parfaite" (cf. Capacites).
 - Gout personnel : raffole des thes noirs - d'abord par mimetisme de Markiona, puis par habitude et avis propre. Premiere individuation (il part d'elle pour devenir lui). A Aurus, le the noir est achete au marche du dimanche et parfume des aromes que le duo cultive dans le jardin du havre (violette, lys, rose, cassis, bergamote, framboise sous lampe a Ergo). cf. Lieux/Aurus.md.
 - Le cristal emeraude : implante dans le coeur AVANT l'assemblage final. Markiona l'active par son gantelet (plus besoin de toucher au noyau). Le demantelement serait la seule facon de changer son corps - seul le cristal subsisterait (trop rare, unique). Markiona ne le fera JAMAIS : elle le juge deja parfait.
-- Page blanche absolue : aucun residu de la matiere premiere. Markiona a manie assez de corps (morts ou vifs) pour effacer la memoire musculaire et reinitialiser le cerveau. Rien du jeune alchimiste mort ne subsiste - ni souvenir, ni reflexe, ni reminiscence.
+- Page blanche absolue : aucun residu MENTAL de la matiere premiere. Markiona a manie assez de corps (morts ou vifs) pour effacer la memoire musculaire et reinitialiser le cerveau. Rien du jeune alchimiste mort ne subsiste a l'interieur - ni souvenir, ni reflexe, ni reminiscence. Son ENVELOPPE physique, en revanche, demeure (cf. Relations, jeune alchimiste).
 
 ## Codes (statut unique)
 - N'obeit PAS au Grand Covenant (comme tous les Pantins de l'Arc).
@@ -33,8 +33,8 @@
 
 ## Capacites
 - Surhumain de naissance (force / vitesse / resistance), cf. corps - puissance demesuree a apprivoiser sous la conduite de Markiona.
-- Rapiere "Parfaite" : son arme, forgee par Markiona a son choix - lame de laiton, manche de nacre. Inscription gravee dans la lame : "La perfection est un chemin, tu en es l'arrivee. M." C'est son plus grand tresor ; il s'endort chaque soir en la relisant.
-  - [DIVERGENCE RP - ironie] L'inscription est un paradoxe (un chemin sans arrivee, declare arrivee) que le recit est voue a dementir : c'est Magnus, par l'introspection, qui depasse sa creatrice. Le "M." (Markiona) fait echo au cipher du Zoo "Lady M." - elle refuse le mot "Mere" mais le signe.
+- Rapiere "Parfaite" : son arme, forgee par Markiona a son choix - lame de laiton, manche de nacre. Inscription gravee dans la lame : "La perfection est un chemin, tu en es l'arrivee. M." C'est son plus grand tresor ; il s'endort chaque soir en la relisant. Le "M." est la signature de Markiona (un second sens - "Mere" - s'y ajoute APRES le point de depart : cf. Trajectoire datee, Aurus).
+  - [DIVERGENCE RP - ironie] L'inscription est un paradoxe (un chemin sans arrivee, declare arrivee) que le recit est voue a dementir : c'est Magnus, par l'introspection, qui depasse sa creatrice.
 - Autonomie de combat : intellect et corps lui permettent de se battre serieusement de lui-meme (a la difference de l'Ange de l'Arc, simple outil sans Ego).
 - [DIVERGENCE RP - scaling valide] Rang prodige / miracle, dans la cour de P (SB8) : indiscernable d'un humain, Ego inne, reussi du premier coup. Second occupant d'un terrain thematique (l'humanite acquise) jusque-la reserve a P.
 
@@ -47,24 +47,24 @@
 - [DIVERGENCE RP - moteur thematique] Sa quete d'humanite passe par l'introspection (la ou P, dans le jeu, l'acquiert par le mensonge). Sa croissance finit par retourner le rapport : Markiona se met a apprendre d'une creation qui la depasse.
 
 ## Relations
-- Markiona : sa creatrice. Il l'appelle "Dame Markiona" - elle a refuse Mere, Creatrice, Deesse et Maitresse, exigeant juste "Markiona", qu'il a arrondi de lui-meme. Au depart, elle le traite en outil (le MK I, voue en theorie a l'amelioration) ; le glissement vers le fils se DECLENCHE a l'Ere 1, quand Magnus desobeit a son ordre ("ne te mets jamais en danger pour autrui") pour la sauver. cf. Personnages/Markiona.md.
+- Markiona : sa creatrice. Il l'appelle "Dame Markiona" - a son eveil, il demande comment l'appeler ("Mere, Maitresse, Deesse, Creatrice ?") et elle refuse net les titres, le mot "Mere" en tete : "Certainement pas Mere. Appelle-moi Markiona." Il arrondit de lui-meme en "Dame Markiona". Au depart, elle le traite en outil (le MK I, voue en theorie a l'amelioration) ; le glissement vers le fils se DECLENCHE a l'Ere 1, et il est MUET - elle ne le declare pas quand Magnus desobeit a son ordre ("ne te mets jamais en danger pour autrui") pour la sauver ; il se lit dans le soin qu'elle porte au blesse et sa fascination qu'il ait desobei par amour. L'acceptation explicite du lien (l'offre du titre "Mere") ne vient qu'a Aurus (cf. Trajectoire datee). cf. Personnages/Markiona.md.
 - Ange de l'Arc : aucune relation. L'Ange est un outil, un pantin sans Ego ni libre arbitre ; Magnus est la perfection eveillee, et il ne voit pas en quoi les deux pourraient etre similaires. Co-creatures de Markiona, sans lien entre eux. (L'Ange original est detruit des l'Ere 1 ; cf. Markiona.md.)
-- Jeune alchimiste (matiere premiere) : le corps de Magnus fut le sien, mais rien de lui ne subsiste (page blanche). Aucun lien psychique ni memoriel.
+- Jeune alchimiste (matiere premiere) : le corps de Magnus fut le sien. Son ESPRIT est efface (page blanche : ni souvenir, ni reflexe, ni reminiscence ; aucun lien psychique ni memoriel), mais son ENVELOPPE subsiste - son visage reste reconnaissable. C'est precisement ce visage qui trahit le duo a la sortie du Zelator : Cassius reconnait les traits d'un alchimiste porte disparu (cf. Trajectoire datee 1847, Personnages/PNJ_secondaires.md / Cassius).
 - Romeo (ami - noue a l'Ere 2) : premier ami de Magnus en dehors de Markiona, rencontre chez les Stalkers (Romeo seconde Lea Florence). Complicite simple et chaleureuse ; le pantin naif s'y attache franchement. cf. Trajectoire datee (Ere 2), Personnages/Romeo.md.
 
 ## Histoire (jusqu'au point de depart)
 - Concu et assemble par Markiona dans le secret du complexe Zelator, a partir du cristal emeraude et du corps reinitialise de la matiere premiere (un jeune alchimiste anonyme).
-- POINT DE DEPART = son EVEIL a la conscience, au complexe Zelator (1847). A cet instant : ego vierge naissant, corps surhumain non maitrise, competences (sciences, combat) implantees, comportement humain PAS encore enseigne. Premier echange : il demande comment l'appeler ; Markiona refuse les titres maternels/divins -> il adopte "Dame Markiona".
+- POINT DE DEPART = son EVEIL a la conscience, au complexe Zelator (1847). A cet instant : ego vierge naissant, corps surhumain non maitrise, competences (sciences, combat) implantees, comportement humain PAS encore enseigne. Premier echange : il demande comment l'appeler - "Mere, Maitresse, Deesse, Creatrice ?" - et Markiona refuse net les titres maternels et divins : "Certainement pas Mere. Appelle-moi Markiona." -> il adopte "Dame Markiona".
 - Tout ce qui suit l'eveil (apprentissage, fuite, vie a Aurus) releve de la Trajectoire datee.
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| 1847 (eveil) | Eveil au gantelet de Markiona, complexe Zelator ; refus des titres -> "Dame Markiona" | Naissance ; ego vierge ; POINT DE DEPART jouable |
-| 1847 (~3 semaines) | Apprentissage au Zelator : Markiona lui enseigne en personne les bases du comportement humain (le reste etant implante) | De l'eveil brut a l'autonomie sociale |
-| 1847 | Cassius (alchimiste, fidele de Simon) decouvre le Magnum Opus -> assaut de tout le Zelator. L'Ange de l'Arc detruit. Magnus DESOBEIT a l'ordre "ne te mets jamais en danger pour autrui", s'interpose pour Markiona, est blesse, et tue les forces en presence | 1ere affirmation du libre arbitre sur l'ordre ; declic outil -> fils (cote Markiona) |
+| 1847 (eveil) | Eveil au gantelet de Markiona, complexe Zelator ; demande du titre, refus net de Markiona (le mot "Mere" en tete) -> "Dame Markiona" | Naissance ; ego vierge ; POINT DE DEPART jouable |
+| 1847 (~3 semaines) | Apprentissage au Zelator : Markiona lui enseigne en personne les bases du comportement humain (le reste etant implante) et l'apprivoisement du corps. Forge de la rapiere "Parfaite". Ordre "ne te mets jamais en danger pour autrui". Premiere individuation : gout du the noir | De l'eveil brut a l'autonomie sociale |
+| 1847 | A la sortie du complexe, Markiona presente Magnus comme son "nouvel assistant" ; Cassius (fidele de Simon) reconnait les traits du jeune alchimiste porte disparu (matiere premiere) -> il comprend l'heresie et sonne l'alarme. Assaut de tout le Zelator. L'Ange de l'Arc (original) detruit. Magnus DESOBEIT a l'ordre, s'interpose pour Markiona, est blesse, et tue les forces (dont Cassius) | 1ere affirmation du libre arbitre sur l'ordre ; declic MUET outil -> fils (cote Markiona) |
 | 1847 | Fuite du complexe Zelator | Fugitifs de l'Ordre |
-| 1847-1848 (~1 an) | Vie cachee dans le havre souterrain d'Aurus (quartier pauvre, pecheur) ; routine confortable, d'egal a egal | La parenthese, avant les Stalkers (Ere 2) |
+| 1847-1848 (~1 an) | Vie cachee dans le havre souterrain d'Aurus (quartier pauvre, pecheur) ; routine confortable, d'egal a egal. Apres des semaines de "Dame Markiona", Markiona lui signifie qu'il peut l'appeler "Mere" (elle accepte le lien, pour elle-meme) ; Magnus percoit la le basculement, et les deux appellations coexistent des lors ("Dame Markiona" / "Mere"). Le rituel du soir se recharge : il relit le "M." de la rapiere comme "Mere" autant que "Markiona" - second sens ACQUIS | La parenthese ; le lien noue et nomme, avant les Stalkers (Ere 2) |
 | 1848 (Ere 2) | Quitte Aurus pour rejoindre les Stalkers ; etincelle decisive cote peuple : Veronique (Sweepers) pulverise au marteau un pantin policier eveille devenu dangereux. Markiona coud les masques de loup : Magnus = le Loup Noir, Markiona = la Louve Blanche | Entree masquee chez les Stalkers |
 | 1848-1849 (Ere 2) | Missions au service du peuple aux cotes des Sweepers ; amitie avec Romeo ; au quotidien, routines de soin qui rachetent du temps sur la Petrification de Markiona, et cuisine | Ancrage social ; role de pourvoyeur et de soignant |
 | 1849 (Ere 2) | Le masque blanc de Markiona tombe apres une mission anti-alchimiste : son passe de Marionnettiste de la Mort est decouvert. Magnus revele a son tour, naivement, sa nature de pantin. Alidoro desamorce (raisonnement d'enqueteur), Lea rage puis se reconcilie au fil des missions | Identites devoilees ; place consolidee dans l'union |

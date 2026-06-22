@@ -1,6 +1,6 @@
 # PNJ Secondaires
 
-- version : W2
+- version : W3
 
 > Fiche groupee. Chaque entite = un bloc independant.
 > Personnages : Belle, Julian + Melody, the Atoned, Klaus, Hugo, Godard, Colonel Little + Rex,
@@ -212,10 +212,10 @@
 
 ### Role
 - Fidele de Simon Manus.
-- En 1847, decouvre le Magnum Opus secret de Markiona (Magnus) et y voit une heresie - une vie creee hors des voies sanctionnees de l'Ordre.
-- Declenche l'assaut de tout le Zelator contre le duo Markiona + Magnus (et l'Ange de l'Arc).
+- En 1847, a la sortie du complexe ou Markiona tente de faire passer Magnus pour son "nouvel assistant", reconnait en lui les traits d'un jeune alchimiste porte disparu des mois plus tot (un avis de disparition avait circule). Il comprend aussitot : Markiona a cree une vie hors des voies sanctionnees de l'Ordre - une heresie.
+- Sonne l'alarme et declenche l'assaut de tout le Zelator contre le duo Markiona + Magnus (et l'Ange de l'Arc).
 - Meurt dans cet assaut (tue par Magnus).
-- [INTERPRETATION / coherence] Sa loyaute a Simon presuppose Simon deja influent dans l'Ordre en 1847 - coherent avec le secret du Magnum Opus (Markiona craint deja que Simon la fasse tuer).
+- [INTERPRETATION / coherence] Connaissait le disparu de par son rang au Zelator ; sa loyaute a Simon presuppose Simon deja influent dans l'Ordre en 1847 - coherent avec le secret du Magnum Opus (Markiona craint deja que Simon la fasse tuer).
 
 ### Physique
 - Borgne de l'oeil gauche.
