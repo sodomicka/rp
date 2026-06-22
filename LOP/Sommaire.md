@@ -1,6 +1,7 @@
 # Sommaire - LOP
 
-- version : W7
+- version : W8
+- note W8 : versions a jour apres la production de Roadmap_01 (Magnus W4, Markiona W7, PNJ_secondaires W3 - Cassius ajoute a la liste groupee, il y figurait deja dans la fiche). Roadmap_01_Eveil produite et signalee plus bas (NON indexee, source de build). Chronologie reste C3 (allegement C3->C4 a venir) ; _Implications reste I7 (bump I8 a venir).
 
 ## WIKI
 
@@ -20,8 +21,8 @@ Description : fiches noyau des personnages (canon), etat au point de depart.
 - Valentinus_Monad.md (W1) - fondateur des Alchimistes ; pere de Sophia ; excommunie.
 - Lea_Florence_Monad.md (W3) - Legendary Stalker ; mentor de Carlo et Romeo ; traque Arlecchino.
 - Arlecchino.md (W1) - pantin meurtrier (DLC) ; vengeance contre Lea.
-- Markiona.md (W6) - alchimiste, la Marionnettiste de la Mort ; typologie des Pantins de l'Arc ; son Magnum Opus = Magnus.
-- Magnus.md (W3) - [OC] pantin parfait ne du Coeur de l'Arc (cristal d'Ergo emeraude), indiscernable d'un humain, Ego inne ; Magnum Opus de Markiona.
+- Markiona.md (W7) - alchimiste, la Marionnettiste de la Mort ; typologie des Pantins de l'Arc ; son Magnum Opus = Magnus.
+- Magnus.md (W4) - [OC] pantin parfait ne du Coeur de l'Arc (cristal d'Ergo emeraude), indiscernable d'un humain, Ego inne ; Magnum Opus de Markiona.
 - Laxasia.md (W1) - the Complete / ex-Sister Adriana ; bras droit de Simon ; boss majeur.
 - Philip_Paracelsus.md (W1) - alias Giangio ; alchimiste cache ; fil du sequel (Dorothy).
 - Alidoro_et_Parrot.md (W2) - le vrai Alidoro / le Tracker, et l'imposteur Parrot.
@@ -37,7 +38,7 @@ Description : fiches noyau des personnages (canon), etat au point de depart.
 - Cecile.md (W1) - nonne meurtriere ; voleuse de l'Arm of God pour Andreas.
 - Rosaura.md (W2) - pantin-amie de Carlo ; cle echappee (DLC).
 - Madoro.md (W1) - reporter/medic ; relais de la verite sur les Alchimistes.
-- PNJ_secondaires.md (W2) - fiche groupee (Belle, Julian/Melody, the Atoned, Klaus, Hugo, Godard, Colonel Little/Rex, Luca, Subject 826, Columbo, Dorothy, Decart).
+- PNJ_secondaires.md (W3) - fiche groupee (Belle, Julian/Melody, the Atoned, Klaus, Hugo, Godard, Colonel Little/Rex, Luca, Subject 826, Columbo, Dorothy, Decart, Cassius).
 
 ### Creatures/
 Description : boss et creatures notables.
@@ -88,9 +89,10 @@ Description : objets et reliques narrativement significatifs.
 - _Implications.md (I7) - bloc de coordination (doutes, [INCERTAIN], dettes ouvertes, fils du sequel).
 - Chronologie.md (C3) - timeline GLOBALE du parcours de Magnus (calendrier in-world 1847-1852), grosses mailles ; echafaudage de conception build-side, jamais fetche en narration. A NE PAS confondre avec BIBLE SB6 (chronologie du MONDE).
 
-> ROADMAPS (par arc) / FICHES D'ARC / CODEX : pas encore produits comme livrables dedies.
-> Statut Passe 2 (boucle serree) : Ere 1 (1847) et Ere 2 (1848-1850) DETAILLEES et CLOTUREES ; Eres 3-5 a forer.
-> L'echafaudage des eres vit dans Chronologie.md (Documents de travail) ; les Fiches_Arc/ et le CODEX viendront en Passe 3.
+> ROADMAPS (par arc) : Roadmap_01_Eveil (Ere 1, R1) PRODUITE. NON indexee (source de build, v8.2 : jamais fetchee en jeu ; se lit en listant LOP/Roadmap/Magnus/). Roadmap_02_Les_Loups (Ere 2) a produire ensuite.
+> FICHES D'ARC / CODEX : pas encore produits comme livrables dedies (Passe 3).
+> Statut Passe 2 (boucle serree) : Ere 1 (1847) et Ere 2 (1848-1850) DETAILLEES et CLOTUREES cote fiches ; roadmaps : Ere 1 produite, Ere 2 a produire ; Eres 3-5 a forer.
+> L'echafaudage des eres vit dans Chronologie.md (Documents de travail, C3, pas encore allegee) ; les Fiches_Arc/ et le CODEX viendront en Passe 3.
 
 ---
 
