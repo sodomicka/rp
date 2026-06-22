@@ -1,6 +1,6 @@
 # Pinocchio
 
-- version : W3
+- version : W4
 
 ## Identite
 
@@ -14,6 +14,7 @@
 - [DIVERGENCE RP] Nature physique reelle : un chassis de guerre mecanique (pantin haute performance) recouvert d'une couche de chair humaine d'emprunt. Le metal est le vrai corps, la chair est le deguisement -- voie exactement inverse de Magnus (chair vraie, renfort de metal au-dedans). cf. Systemes/Genies_et_Chef_D_Oeuvres.md.
 - [DIVERGENCE RP] Origine de la chair : peau prelevee sur Lea Florence Monad via la "methode du diable" de Geppetto (cf. Giuseppe_Geppetto.md). Visuel canon observe in-game : par defaut, P presente des taches de rousseur et des yeux bleus (signature de Lea) ; en fin Real Boy, des yeux marrons et des pommettes claires (signature de Carlo). Lecture : le visage est sculpte vers Carlo, mais la chair native est celle de Lea ; l'eveil de l'Ego de Carlo resout progressivement l'apparence vers Carlo.
 - [DIVERGENCE RP] Le bras gauche mecanique (Legion Arm) sert aussi de leurre : une prothese ostensiblement metallique qui detourne l'oeil et fait imputer au bras les micro-imperfections (grincements) du reste du corps. Un faux flagrant pour camoufler le faux total -- c'est ce qui permet a P de passer pour un stalker humain a prothese (cf. Lumakio, the Atoned, qui le prennent pour un humain en face a face).
+- [DIVERGENCE RP] Pourquoi le bras GAUCHE precisement : au bras gauche, la peau de Lea etait inexploitable -- son bras gauche etait petrifie (Petrification localisee, non terminale ; cf. Lea_Florence_Monad.md, Giuseppe_Geppetto.md). Geppetto n'a pas pu y prelever de chair viable et a remplace ce membre par la prothese mecanique. La laterite du leurre n'est donc pas un choix esthetique mais une consequence de la maladie de Lea : le cote ou la chair manquait devient le faux assume.
 
 ## Role
 

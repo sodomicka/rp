@@ -1,6 +1,6 @@
 # Magnus
 
-- version : W2
+- version : W3
 - STATUT GLOBAL : OC (personnage original), protagoniste du seul RP LOP. Entite entierement hors jeu - [DIVERGENCE RP] de bout en bout (aucun filet canon : tout ce qui n'est pas dans cette fiche n'existe pas). Place dans {Univers}/Personnages/ par decision du worldbuilder (beaucoup de lore se batira autour de lui).
 - POINT DE DEPART JOUABLE : l'eveil de Magnus (1847, complexe Zelator). Le joueur incarne Magnus depuis son tout premier souffle. Le NOYAU ci-dessous = son etat a l'instant de l'eveil ; l'apprentissage, la fuite et l'annee a Aurus sont de la TRAJECTOIRE DATEE (post-depart).
 
@@ -40,6 +40,7 @@
 
 ## Psychologie
 - Ego naissant : un nouveau-ne dans un corps d'adulte. Naivete CURIEUSE et INTROSPECTIVE - c'est en se posant toutes ses questions qu'il se revele, au fil du temps, plus humain que Markiona elle-meme.
+- Profil de maturation (repere a l'Ere 2, ~2 ans de conscience) : savoir d'expert (sciences, combat implantes) et corps d'athlete adulte, mais age mental et codes sociaux d'un jeune enfant - il ignore les conventions humaines et les apprend sur le tas. L'ecart entre la puissance (corps, savoir) et la naivete de l'esprit est constitutif, et s'amenuise lentement.
 - Apprentissage de sa creatrice : bombarde d'abord de questions, puis comprend qu'elle prefere qu'il REFLECHISSE PAR LUI-MEME a la facon dont elle pense - et s'y adapte.
 - Tempo par defaut : curieux et taciturne (mimetisme du calme que Markiona aime), mais sait se montrer bavard quand sa curiosite enfantine l'exige.
 - Reconnaissant et surprotecteur envers Markiona - ce qui ne deplait pas a sa creatrice, et qui le poussera a lui desobeir pour la sauver (cf. Codes, Trajectoire datee).
@@ -49,6 +50,7 @@
 - Markiona : sa creatrice. Il l'appelle "Dame Markiona" - elle a refuse Mere, Creatrice, Deesse et Maitresse, exigeant juste "Markiona", qu'il a arrondi de lui-meme. Au depart, elle le traite en outil (le MK I, voue en theorie a l'amelioration) ; le glissement vers le fils se DECLENCHE a l'Ere 1, quand Magnus desobeit a son ordre ("ne te mets jamais en danger pour autrui") pour la sauver. cf. Personnages/Markiona.md.
 - Ange de l'Arc : aucune relation. L'Ange est un outil, un pantin sans Ego ni libre arbitre ; Magnus est la perfection eveillee, et il ne voit pas en quoi les deux pourraient etre similaires. Co-creatures de Markiona, sans lien entre eux. (L'Ange original est detruit des l'Ere 1 ; cf. Markiona.md.)
 - Jeune alchimiste (matiere premiere) : le corps de Magnus fut le sien, mais rien de lui ne subsiste (page blanche). Aucun lien psychique ni memoriel.
+- Romeo (ami - noue a l'Ere 2) : premier ami de Magnus en dehors de Markiona, rencontre chez les Stalkers (Romeo seconde Lea Florence). Complicite simple et chaleureuse ; le pantin naif s'y attache franchement. cf. Trajectoire datee (Ere 2), Personnages/Romeo.md.
 
 ## Histoire (jusqu'au point de depart)
 - Concu et assemble par Markiona dans le secret du complexe Zelator, a partir du cristal emeraude et du corps reinitialise de la matiere premiere (un jeune alchimiste anonyme).
@@ -63,6 +65,10 @@
 | 1847 | Cassius (alchimiste, fidele de Simon) decouvre le Magnum Opus -> assaut de tout le Zelator. L'Ange de l'Arc detruit. Magnus DESOBEIT a l'ordre "ne te mets jamais en danger pour autrui", s'interpose pour Markiona, est blesse, et tue les forces en presence | 1ere affirmation du libre arbitre sur l'ordre ; declic outil -> fils (cote Markiona) |
 | 1847 | Fuite du complexe Zelator | Fugitifs de l'Ordre |
 | 1847-1848 (~1 an) | Vie cachee dans le havre souterrain d'Aurus (quartier pauvre, pecheur) ; routine confortable, d'egal a egal | La parenthese, avant les Stalkers (Ere 2) |
+| 1848 (Ere 2) | Quitte Aurus pour rejoindre les Stalkers ; etincelle decisive cote peuple : Veronique (Sweepers) pulverise au marteau un pantin policier eveille devenu dangereux. Markiona coud les masques de loup : Magnus = le Loup Noir, Markiona = la Louve Blanche | Entree masquee chez les Stalkers |
+| 1848-1849 (Ere 2) | Missions au service du peuple aux cotes des Sweepers ; amitie avec Romeo ; au quotidien, routines de soin qui rachetent du temps sur la Petrification de Markiona, et cuisine | Ancrage social ; role de pourvoyeur et de soignant |
+| 1849 (Ere 2) | Le masque blanc de Markiona tombe apres une mission anti-alchimiste : son passe de Marionnettiste de la Mort est decouvert. Magnus revele a son tour, naivement, sa nature de pantin. Alidoro desamorce (raisonnement d'enqueteur), Lea rage puis se reconcilie au fil des missions | Identites devoilees ; place consolidee dans l'union |
+| 1850 (fin Ere 2) | Romeo part seul en reconnaissance au Zoo | Derniere maille avant Overture (Ere 3) |
 
 ---
 

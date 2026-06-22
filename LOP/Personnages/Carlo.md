@@ -1,6 +1,6 @@
 # Carlo
 
-- version : W3
+- version : W4
 
 ## Identite
 
@@ -8,6 +8,7 @@
 - Coquilles transcript : "Carlo" (stable dans le transcript).
 - Nature : humain, fils de Giuseppe Geppetto et de Camille (epouse de Geppetto).
 - Statut au debut du jeu : mort (decede de la Petrification Disease avant le base game).
+- Date de mort [DIVERGENCE RP - calendrier in-world] : 1843, encore enfant, du meme age que Romeo. Le jeu ne date rien ; annee fixee par le worldbuilder (cf. Chronologie.md). Implication : positionne Romeo comme jeune chez les Stalkers (1848-1850) et jeune King of Puppets (1851).
 - Presence dans le jeu : indirect - via l'Ergo de Carlo dans le P-Organ de P, via les visions sur la plage noire (a l'Aisle), via les memoires extraites par le Ergo Wavelength Decoder, via Rosaura (DLC).
 - Modele de P : Geppetto a sculpte le VISAGE de P vers l'apparence de Carlo. [DIVERGENCE RP] La chair sous ce visage n'est pas celle de Carlo mais celle de Lea Florence Monad (cf. Personnages/Pinocchio.md) ; l'eveil de l'Ego de Carlo resout progressivement l'apparence vers Carlo (yeux marrons, pommettes claires en fin Real Boy).
 - Role moteur : l'integralite du plan de Geppetto (Puppet Frenzy, creation de P, manipulation de Romeo) vise uniquement a ressusciter Carlo.
@@ -22,7 +23,7 @@
 - Carlo offre a Romeo son pendentif de remise de diplome. Ce geste est central : c'est ce pendentif que P recupere en tuant le King of Puppets, et la reaction physique de P (l'Ergo de Carlo "se souvient") signale l'identite profonde entre P et Carlo.
 - Carlo, Romeo et Lea Florence Monad jouent de la musique ensemble.
 - Carlo supplie Lea de lui enseigner l'epee. Lea trouve sa persistence agacante (pas attendrissante). Elle dit a Geppetto de "se debarrasser de lui" et part. [DIVERGENCE RP] Carlo n'apprend donc JAMAIS l'epee -- ce qui rend la maitrise de P enigmatique, son Ego venant de Carlo. La memoire musculaire viendrait de la chair de Lea, bretteuse legendaire (indice : Alidoro trouve que le style de P "lui rappelle quelqu'un"). cf. Personnages/Pinocchio.md, Systemes/Genies_et_Chef_D_Oeuvres.md.
-- Outbreak de la Petrification Disease a la Monad Charity House -> Carlo meurt.
+- Outbreak de la Petrification Disease a la Monad Charity House -> Carlo meurt (1843 ; cf. Date de mort).
 - Lea revient a la charity house et regrette d'avoir abandonne Carlo. Dans la timeline alteree (DLC), les mots de Lea envers Carlo mort changent : elle exprime sa gratitude.
 
 ### Post-mort (tentative de resurrection)
@@ -66,7 +67,7 @@
 
 ## Sort connu
 
-- Mort : decede de la Petrification Disease a la Monad Charity House avant le base game.
+- Mort : decede de la Petrification Disease a la Monad Charity House en 1843 (encore enfant), avant le base game.
 - Tentative de resurrection 1 : echec -> Nameless Puppet (corps de Carlo, Ergo potentiellement detruit dans cette configuration).
 - Presence persistante : Ergo de Carlo dans P-Organ de P tout au long du jeu.
 - Bad ending : Carlo renait dans le corps du Nameless (via le P-Organ de P). Tue les residents de l'hotel. Repart avec Geppetto.
@@ -79,7 +80,7 @@
 | Naissance | Nait de Geppetto et Camille | Humain |
 | Mort de Camille | Abandonne par Geppetto au Monad Charity House | Orphelin de fait |
 | Charity House | Amitie avec Romeo ; piano avec Antonia ; musique avec Lea ; don du pendentif | Enfant qui grandit sans pere |
-| Outbreak | Petrification Disease a la charity house ; mort | Decede |
+| 1843 (Outbreak) | Petrification Disease a la charity house ; mort, encore enfant | Decede |
 | Post-mort (echec) | Geppetto echoue a le ressusciter -> Nameless Puppet | Ergo en danger |
 | Creation de P | Ergo de Carlo place dans P-Organ de P | Presence diffuse dans P |
 | Base game | Ego de Carlo emerge progressivement dans P (cheveux, visions, memoires) | Semi-conscient via P |

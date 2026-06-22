@@ -1,6 +1,6 @@
 # Giuseppe Geppetto
 
-- version : W3
+- version : W4
 
 ## Identite
 
@@ -18,7 +18,7 @@
 - Jaloux du genie de Lorenzini Venigni (fils de la famille Venigni) depuis les 18 ans de celui-ci.
 - Instigateur (cache) de la Puppet Frenzy : execute Law Zero ("le nom du createur est Geppetto") -> commande a Romeo de faire tuer les humains par les pantins -> recolte l'Ergo des morts pour le plan de resurrection de Carlo. cf. SB5, SB6.
 - Createur du P-Organ (coeur de pantin) et de Pinocchio (P). cf. SB5.
-- Premier usage du Nameless Puppet : envoie le Nameless tuer Lea Florence Monad pour recuperer le corps de Romeo. [DIVERGENCE RP] Il en profite pour prelever la peau de Lea, matiere premiere de la couche chair de P (cf. Pinocchio.md).
+- Premier usage du Nameless Puppet : envoie le Nameless tuer Lea Florence Monad pour recuperer le corps de Romeo. [DIVERGENCE RP] Il en profite pour prelever la peau de Lea, matiere premiere de la couche chair de P (cf. Pinocchio.md). Exception : le bras gauche de Lea, petrifie (Petrification localisee, non terminale), ne donne aucune chair exploitable ; Geppetto le remplace par une prothese mecanique (Legion Arm gauche) sur P. La maladie de Lea dicte ainsi le cote du bras-leurre.
 - Dans le base game : retrouve par P sur l'Alician Boulevard (pourchasse par le Mad Donkey). Installe son atelier dans une chambre haute de l'Hotel Krat. Guide P dans sa mission (tue le King of Puppets, va au Grand Exhibition, rejoins l'Aisle of Alchemists).
 - Kidnappe par le Black Rabbit Brotherhood (a l'instigation de Simon) depuis l'hotel ; P le retrouve a l'Aisle.
 - Confrontation finale : revele a P la verite (Carlo, P-Organ, sa manipulation). Demande le coeur de P pour ressusciter Carlo. Si P refuse : declenche le Nameless Puppet via son bras mecanique (canal d'Ergo). Se sacrifie pour empecher le Nameless de tuer P (coeur crucial pour Carlo). Tue par le Nameless.
@@ -51,7 +51,7 @@
 - Carlo (fils) : raison d'etre de tout le plan. Abandonne apres la mort de Camille, envoye au Monad Charity House, jamais visite, absent de la remise de diplome. Mais l'integralite de la Puppet Frenzy et de la creation de P vise a le faire revivre.
 - Pinocchio / P (creation) : l'appelle "fils", voit en lui un outil. Contradiction unresolved jusqu'a son sacrifice final.
 - Romeo (ami de Carlo / pantin instrumente) : accepte la proposition de Romeo de se faire transformer en pantin. Le manipule pour declencher la Frenzy. Romeo comprend la trahison, se rebelle, devient King of Puppets.
-- Lea Florence Monad : la tue via le Nameless Puppet pour recuperer le corps de Romeo. [DIVERGENCE RP] Il preleve aussi sa peau (matiere premiere de la couche chair de P). Lea aurait pu tuer Geppetto facilement malgre la maladie.
+- Lea Florence Monad : la tue via le Nameless Puppet pour recuperer le corps de Romeo. [DIVERGENCE RP] Il preleve aussi sa peau (matiere premiere de la couche chair de P) -- sauf au bras gauche, petrifie et inexploitable, remplace par la prothese Legion Arm sur P. Lea aurait pu tuer Geppetto facilement malgre la maladie.
 - Lorenzini Venigni : associe de production, mais jalousie profonde envers le genie de Venigni.
 - Antonia : echange des lettres. Antonia le juge sur son abandon de Carlo. Geppetto lui repond de facon defensive.
 - Alchimistes : collabore avec eux pour les listener experiments et le travail sur l'Ergo. Rompt avec eux une fois son plan en place.
