@@ -1,7 +1,8 @@
 # Sommaire - LOP
 
-- version : W8
-- note W8 : versions a jour apres la production de Roadmap_01 (Magnus W4, Markiona W7, PNJ_secondaires W3 - Cassius ajoute a la liste groupee, il y figurait deja dans la fiche). Roadmap_01_Eveil produite et signalee plus bas (NON indexee, source de build). Chronologie reste C3 (allegement C3->C4 a venir) ; _Implications reste I7 (bump I8 a venir).
+- version : W9
+- note W9 : bumps apres la production de Roadmap_02_Les_Loups (Ere 2). Versions a jour : Romeo W4, Lea_Florence_Monad W4, Veronique W3, Arlecchino W2 (couche soin + maladie des trois fieres + moniker periodique "l'Artiste de sang"). Roadmap_02_Les_Loups produite et signalee plus bas (NON indexee, source de build). Chronologie allegee C3 -> C4 (detail Eres 1-2 extrait vers les roadmaps). _Implications I7 -> I8 (regle transversale RP lineaire, dettes Ere 2 closes, calendrier in-world). Menage Roadmap_02 complet.
+- note W8 : versions a jour apres la production de Roadmap_01 (Magnus W4, Markiona W7, PNJ_secondaires W3 - Cassius ajoute a la liste groupee, il y figurait deja dans la fiche). Roadmap_01_Eveil produite et signalee plus bas (NON indexee, source de build).
 
 ## WIKI
 
@@ -14,13 +15,13 @@ Description : fiches noyau des personnages (canon), etat au point de depart.
 - Giuseppe_Geppetto.md (W4) - createur des pantins ; antagoniste cache (Law Zero, Puppet Frenzy).
 - Sophia_Monad.md (W1) - Listener / "Fee bleue" ; fille de Valentinus ; guide P ; prisonniere de Simon.
 - Gemini.md (W1) - grillon-lanterne ; guide permanent de P.
-- Romeo.md (W3) - King of Puppets ; ami d'enfance de Carlo ; meneur de la revolte des pantins.
+- Romeo.md (W4) - King of Puppets ; ami d'enfance de Carlo ; meneur de la revolte des pantins.
 - Carlo.md (W4) - fils mort de Geppetto ; modele de Pinocchio ; moteur de l'intrigue.
 - Camille.md (W4) - Camille, epouse de Geppetto ; "Camil" = le pantin-servante anime par son Ergo (une personne, deux corps) ; eveil de l'Ego ; Listener.
 - Simon_Manus.md (W1) - antagoniste principal ; alchimiste devenant Dieu Eveille.
 - Valentinus_Monad.md (W1) - fondateur des Alchimistes ; pere de Sophia ; excommunie.
-- Lea_Florence_Monad.md (W3) - Legendary Stalker ; mentor de Carlo et Romeo ; traque Arlecchino.
-- Arlecchino.md (W1) - pantin meurtrier (DLC) ; vengeance contre Lea.
+- Lea_Florence_Monad.md (W4) - Legendary Stalker ; mentor de Carlo et Romeo ; traque Arlecchino.
+- Arlecchino.md (W2) - pantin meurtrier (DLC) ; "l'Artiste de sang" (1850) puis "Roi des Enigmes" (1852) ; vengeance contre Lea.
 - Markiona.md (W7) - alchimiste, la Marionnettiste de la Mort ; typologie des Pantins de l'Arc ; son Magnum Opus = Magnus.
 - Magnus.md (W4) - [OC] pantin parfait ne du Coeur de l'Arc (cristal d'Ergo emeraude), indiscernable d'un humain, Ego inne ; Magnum Opus de Markiona.
 - Laxasia.md (W1) - the Complete / ex-Sister Adriana ; bras droit de Simon ; boss majeur.
@@ -33,7 +34,7 @@ Description : fiches noyau des personnages (canon), etat au point de depart.
 - Pulcinella.md (W1) - majordome pantin de Lorenzini Venigni ; disparait a la Venigni Works pendant la Frenzy, retrouve par P.
 - Adelina_et_Patricia.md (W1) - la chanteuse Adelina Corde et sa soeur Patricia (White Lady).
 - Lumakio.md (W1) - chef des Bastards ; traitre au service de Simon.
-- Veronique.md (W2) - chef des Sweepers ; piegee par les Alchimistes.
+- Veronique.md (W3) - cheffe des Sweepers ; piegee par les Alchimistes.
 - Archbishop_Andreas.md (W1) - archeveque corrompu ; mute en One-Winged Angel.
 - Cecile.md (W1) - nonne meurtriere ; voleuse de l'Arm of God pour Andreas.
 - Rosaura.md (W2) - pantin-amie de Carlo ; cle echappee (DLC).
@@ -86,13 +87,13 @@ Description : objets et reliques narrativement significatifs.
 
 ### Documents de travail (non fetches en narration)
 - _Table_Noms_Canon.md (W2) - table coquilles transcript -> noms canon.
-- _Implications.md (I7) - bloc de coordination (doutes, [INCERTAIN], dettes ouvertes, fils du sequel).
-- Chronologie.md (C3) - timeline GLOBALE du parcours de Magnus (calendrier in-world 1847-1852), grosses mailles ; echafaudage de conception build-side, jamais fetche en narration. A NE PAS confondre avec BIBLE SB6 (chronologie du MONDE).
+- _Implications.md (I8) - bloc de coordination (regles transversales, dettes, pense-betes, fils du sequel).
+- Chronologie.md (C4) - timeline GLOBALE du parcours de Magnus (calendrier in-world 1847-1852), grosses mailles ; allegee (detail Eres 1-2 -> roadmaps). Echafaudage build-side, jamais fetche en narration. A NE PAS confondre avec BIBLE SB6 (chronologie du MONDE).
 
-> ROADMAPS (par arc) : Roadmap_01_Eveil (Ere 1, R1) PRODUITE. NON indexee (source de build, v8.2 : jamais fetchee en jeu ; se lit en listant LOP/Roadmap/Magnus/). Roadmap_02_Les_Loups (Ere 2) a produire ensuite.
+> ROADMAPS (par arc) : Roadmap_01_Eveil (Ere 1, R1) et Roadmap_02_Les_Loups (Ere 2, R1) PRODUITES. NON indexees (sources de build, v8.2 : jamais fetchees en jeu ; se lisent en listant LOP/Roadmap/Magnus/). Roadmaps Eres 3-5 a produire ensuite.
 > FICHES D'ARC / CODEX : pas encore produits comme livrables dedies (Passe 3).
-> Statut Passe 2 (boucle serree) : Ere 1 (1847) et Ere 2 (1848-1850) DETAILLEES et CLOTUREES cote fiches ; roadmaps : Ere 1 produite, Ere 2 a produire ; Eres 3-5 a forer.
-> L'echafaudage des eres vit dans Chronologie.md (Documents de travail, C3, pas encore allegee) ; les Fiches_Arc/ et le CODEX viendront en Passe 3.
+> Statut Passe 2 (boucle serree) : Ere 1 (1847) et Ere 2 (1848-1850) DETAILLEES et CLOTUREES cote fiches ; roadmaps : Eres 1-2 produites ; Eres 3-5 a forer.
+> L'echafaudage des eres vit dans Chronologie.md (Documents de travail, C4, allegee : Eres 1-2 -> roadmaps) ; les Fiches_Arc/ et le CODEX viendront en Passe 3.
 
 ---
 

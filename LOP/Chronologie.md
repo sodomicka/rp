@@ -1,8 +1,9 @@
 # Chronologie - Magnus (timeline globale)
 
-- version : C3
+- version : C4
+- note C4 : allegement (decision worldbuilder). Le detail jouable des Eres 1 et 2 est EXTRAIT vers les roadmaps (Roadmap_01_Eveil, Roadmap_02_Les_Loups) ; ne restent ici que les grosses mailles + un pointeur "-> Roadmap/Magnus/..." par ere. Les Eres 3-5 gardent leur echafaudage (pas encore roadmappees). Le suivi des versions de fiches vit dans le Sommaire (plus duplique ici).
 - nature : TIMELINE GLOBALE du parcours de Magnus, grosses mailles. Echafaudage de conception build-side ; les roadmaps (eres) en detaillent chaque tranche.
-- remplace : C2 (qui remplacait chronologie.md / C1). Ne garder que cette version.
+- remplace : C3 (qui remplacait C2 / C1). Ne garder que cette version.
 - scope : parcours de Magnus (OC, prota du seul RP LOP), du premier souffle (1847) a la fin (chute de Manus + conclusion de Geppetto).
 - regime : canon LOP + [DIVERGENCE RP] tisse inline. Tout ce qui touche Magnus / Markiona-alliee et n'est pas marque canon = divergence assumee (cf. BIBLE SB9.1).
 - a NE PAS confondre avec BIBLE SB6 "Chronologie canon" = histoire du MONDE (Krat). Ici = parcours d'UN personnage.
@@ -28,28 +29,12 @@
 - 1843 : mort de Carlo (Petrification Disease, Monad Charity House), encore enfant, du meme age que Romeo. Hors du parcours de Magnus, mais cale la jeunesse de Romeo (jeune Stalker en 1848-1850, jeune King of Puppets en 1851). cf. Carlo.md. [DIVERGENCE RP - calendrier in-world.]
 
 ## 1847 - Genese et fuite (Ere 1) [DIVERGENCE RP]
-- Complexe Zelator, lab en pleine activite (recherches : froid, Arm of God, elixir, Petrification). Markiona y eveille Magnus au gantelet (Coeur de l'Arc MK I, cristal emeraude).
-- ~3 SEMAINES au Zelator : apprentissage en personne (comportement humain ; le reste implante). Refus des titres Mere/Creatrice/Deesse/Maitresse -> "Dame Markiona". Markiona lui donne l'ordre "ne te mets jamais en danger pour autrui".
-- Cassius (alchimiste, fidele de Simon, borgne, bras boostes) decouvre le Magnum Opus -> assaut de tout le Zelator (Markiona + Magnus + l'Ange).
-- L'Ange (original) est detruit. Markiona manque de se faire tuer ; Magnus DESOBEIT a l'ordre, s'interpose, est blesse a sa place, et tue les forces.
-- DECLIC outil -> fils : par libre arbitre, Magnus a prefere la proteger au prix de sa vie, contre l'ordre explicite. Markiona juge sa creation meilleure qu'elle ; il est son fils ; elle se doit de se racheter selon l'ethique de Magnus.
-- Fuite. Puis ~1 AN de vie cachee dans le havre souterrain d'Aurus (quartier pauvre, pecheur, terrain des Sweepers) : routine confortable, d'egal a egal.
+- Grosses mailles : eveil de Magnus au complexe Zelator ; apprentissage ("Dame Markiona", ordre "ne te mets jamais en danger pour autrui") ; a la sortie, Cassius reconnait le visage de la matiere premiere -> assaut, Ange original detruit ; Magnus DESOBEIT pour sauver Markiona -> declic muet outil -> fils ; fuite ; ~1 an cache a Aurus (lien mere/fils noue et nomme). Charniere : la rumeur des Stalkers atteint Aurus.
+- Detail jouable -> Roadmap/Magnus/Roadmap_01_Eveil.md (R1, 6 etapes).
 
-## 1848 - Les Loups rejoignent les Stalkers (Ere 2)
-- Le duo entend parler des Stalkers ; Magnus veut les rejoindre (les Sweepers, cote peuple, lui en donnent l'envie), Markiona suit. Etincelle decisive : Veronique (Sweepers) pulverise au marteau un pantin policier eveille devenu dangereux pour les passants.
-- Masques de loup confectionnes par Markiona : noir pour lui, blanc pour elle -> le LOUP NOIR (Magnus) et la LOUVE BLANCHE (Markiona).
-- Structure des Stalkers (cadrage RP) : Lea Florence, figure unificatrice, assistee de Romeo (qui porte le masque du Roi - presage de ce que Geppetto fera de lui). Trois factions internes, chacune sa methode, articulees pour aider le peuple avant 1851 :
-  - SWEEPERS - ruelles, "we always repay what is owed", quartiers pauvres (canon).
-  - BASTARDS - nobles, "honor or nothing", quartiers RICHES ; refusent d'aider les pauvres.
-  - ASSEMBLEE DES LAPINS NOIRS [DIVERGENCE RP] - mercenaires, aident contre paiement. Deja masques, deja nombreux. Precurseur de la Confrerie canon (cf. 1851).
-- Mois d'action : aide au peuple, negociations avec l'Assemblee, lutte contre les eveils d'Ego isoles dangereux pour les humains (pas la Frenzy de masse).
-- Liens : surtout les Sweepers, le duo Lea + Romeo ; aussi Alidoro (le Limier) et le Perroquet.
-
-## 1848-1850 - L'identite revelee
-- 1849 : le masque blanc de Markiona tombe apres une mission anti-alchimiste. Lea, Romeo et Alidoro apprennent qui est le duo (la Marionnettiste de la Mort sous le masque blanc). Magnus revele a son tour, naivement, sa nature de pantin. Alidoro desamorce (raisonnement d'enqueteur : la Marionnettiste n'aiderait jamais les Stalkers en couverture, donc Magnus ne ment pas).
-- Lea <-> Markiona : tensions (anciennes amies brouillees) puis reconciliation au fil des missions ; on apprecie que Markiona se rende utile au peuple.
-- Maladies (cadrage RP) : Markiona condamnee (Petrification pulmonaire, anterieure, lente), echeance repoussee par les soins quotidiens de Magnus. Lea porte une Petrification localisee au bras GAUCHE (non terminale) -> justifiera la prothese Legion Arm gauche de P (peau inexploitable a cet endroit ; cf. Pinocchio.md, Giuseppe_Geppetto.md). [Le motif d'un eventuel "rhyme" des maladies (Lea/Markiona/Veronique) reste hors fiche : decision worldbuilder en attente.]
-- Fin Ere 2 : Romeo part seul en reconnaissance au Zoo -> bascule vers Overture (Ere 3).
+## 1848-1850 - Les Loups (Ere 2)
+- Grosses mailles : etincelle Veronique -> le duo rejoint l'union des Stalkers sous les masques du Loup Noir / de la Louve Blanche (cote Sweepers) ; structure de l'union (Lea unificatrice, Romeo second au masque de Roi, trois factions : Sweepers / Bastards / Assemblee des Lapins Noirs) ; mois de service au peuple (eveils d'Ego ISOLES, pas la Frenzy de masse) ; amitie Magnus/Romeo et soins croises (Markiona et Lea malades, soignees chacune par son binome) ; reveal 1849 (masque blanc tombe, Lea reconnait Markiona, Magnus avoue sa nature, Alidoro desamorce) ; reconciliation Lea/Markiona ; Romeo part SEUL en reco au Zoo sur la rumeur de "l'Artiste de sang" (Arlecchino) -> bascule Overture.
+- Detail jouable -> Roadmap/Magnus/Roadmap_02_Les_Loups.md (R1, 7 etapes).
 
 ## 1850 - Overture (croisement avec P) (Ere 3) [canon reorchestre]
 - Romeo disparait en mission : enleve par Arlecchino (vengeance contre Lea). Declencheur d'Overture.
@@ -77,8 +62,8 @@
 - Ange reconstruit (1850) : qui le meut (l'Ordre par defaut), porteur de la cle du carnaval recuperee par P -> roadmap Ere 3.
 
 ## Decoupage en eres (= roadmaps)
-1. Genese et fuite (1847) -- DETAILLEE (fiches a jour : Magnus W3, Markiona W5/W6, Aurus W1, Zelator W2, PNJ_secondaires W2 / Cassius).
-2. Les Loups (1848-1850) -- DETAILLEE (fiches a jour : Markiona W6, Les_Stalkers W2, Veronique W2, Black_Rabbit_Brotherhood W2, Lea_Florence_Monad W3, Romeo W3, Alidoro_et_Parrot W2, Magnus W3, Carlo W4). Cloture gravee le 2026-06-22.
+1. Genese et fuite (1847) -- ROADMAPPEE (R1). Detail -> Roadmap_01_Eveil.md.
+2. Les Loups (1848-1850) -- ROADMAPPEE (R1). Detail -> Roadmap_02_Les_Loups.md.
 3. Overture (1850) -- a forer.
 4. La Frenzy (1851) -- a forer.
 5. Le reveil et la fin (1852+) -- a forer.
