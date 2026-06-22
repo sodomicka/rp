@@ -1,6 +1,6 @@
 # Sommaire - LOP
 
-- version : W3
+- version : W6
 
 ## WIKI
 
@@ -9,18 +9,19 @@
 
 ### Personnages/
 Description : fiches noyau des personnages (canon), etat au point de depart.
-- Pinocchio.md (W2) - le pantin "P", protagoniste, cree par Geppetto a l'image de Carlo ; peut mentir.
-- Giuseppe_Geppetto.md (W1) - createur des pantins ; antagoniste cache (Law Zero, Puppet Frenzy).
+- Pinocchio.md (W3) - le pantin "P", protagoniste, cree par Geppetto a l'image de Carlo ; peut mentir.
+- Giuseppe_Geppetto.md (W3) - createur des pantins ; antagoniste cache (Law Zero, Puppet Frenzy).
 - Sophia_Monad.md (W1) - Listener / "Fee bleue" ; fille de Valentinus ; guide P ; prisonniere de Simon.
 - Gemini.md (W1) - grillon-lanterne ; guide permanent de P.
-- Romeo.md (W1) - King of Puppets ; ami d'enfance de Carlo ; meneur de la revolte des pantins.
-- Carlo.md (W2) - fils mort de Geppetto ; modele de Pinocchio ; moteur de l'intrigue.
-- Camille.md (W2) - Camille, epouse de Geppetto ; "Camil" = le pantin-servante anime par son Ergo (une personne, deux corps) ; eveil de l'Ego ; Listener.
+- Romeo.md (W2) - King of Puppets ; ami d'enfance de Carlo ; meneur de la revolte des pantins.
+- Carlo.md (W3) - fils mort de Geppetto ; modele de Pinocchio ; moteur de l'intrigue.
+- Camille.md (W4) - Camille, epouse de Geppetto ; "Camil" = le pantin-servante anime par son Ergo (une personne, deux corps) ; eveil de l'Ego ; Listener.
 - Simon_Manus.md (W1) - antagoniste principal ; alchimiste devenant Dieu Eveille.
 - Valentinus_Monad.md (W1) - fondateur des Alchimistes ; pere de Sophia ; excommunie.
-- Lea_Florence_Monad.md (W1) - Legendary Stalker ; mentor de Carlo et Romeo ; traque Arlecchino.
+- Lea_Florence_Monad.md (W2) - Legendary Stalker ; mentor de Carlo et Romeo ; traque Arlecchino.
 - Arlecchino.md (W1) - pantin meurtrier (DLC) ; vengeance contre Lea.
-- Markiona.md (W2) - technicienne devenue alchimiste "l'Illuminee" ; maitresse du zoo (DLC).
+- Markiona.md (W4) - alchimiste, la Marionnettiste de la Mort ; typologie des Pantins de l'Arc ; son Magnum Opus = Magnus.
+- Magnus.md (W1) - [OC] pantin parfait ne du Coeur de l'Arc (cristal d'Ergo emeraude), indiscernable d'un humain, Ego inne ; Magnum Opus de Markiona.
 - Laxasia.md (W1) - the Complete / ex-Sister Adriana ; bras droit de Simon ; boss majeur.
 - Philip_Paracelsus.md (W1) - alias Giangio ; alchimiste cache ; fil du sequel (Dorothy).
 - Alidoro_et_Parrot.md (W1) - le vrai Alidoro / le Tracker, et l'imposteur Parrot.
@@ -75,6 +76,7 @@ Description : systemes et regles du monde.
 - Gold_Coin_Tree.md (W1) - arbre issu des Listeners ; Gold Coin Fruit.
 - Humanity_System.md (W1) - mensonge, musique, P-Organ, fins.
 - Theologie_du_Star.md (W1) - le Star/ange tombe ; One-Winged Angel ; doctrine alchimique.
+- Genies_et_Chef_D_Oeuvres.md (W1) - le miroir createur <-> creature (Geppetto/P vs Markiona/Magnus) ; le deuil comme moteur. [contient de la DIVERGENCE RP]
 
 ### Objets/
 Description : objets et reliques narrativement significatifs.
@@ -82,7 +84,7 @@ Description : objets et reliques narrativement significatifs.
 
 ### Documents de travail (non fetches en narration)
 - _Table_Noms_Canon.md (W2) - table coquilles transcript -> noms canon.
-- _Implications.md (W1) - bloc de coordination (doutes, [INCERTAIN], fils du sequel).
+- _Implications.md (I4) - bloc de coordination (doutes, [INCERTAIN], dettes ouvertes, fils du sequel).
 
 > ROADMAPS / FICHES D'ARC / CODEX : non produits a la genese (Passe 0 + Passe 1). A construire en
 > Passe 2/3 sur demande du worldbuilder.
