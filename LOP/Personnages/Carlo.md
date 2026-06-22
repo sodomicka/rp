@@ -1,6 +1,6 @@
 # Carlo
 
-- version : W2
+- version : W3
 
 ## Identite
 
@@ -9,7 +9,7 @@
 - Nature : humain, fils de Giuseppe Geppetto et de Camille (epouse de Geppetto).
 - Statut au debut du jeu : mort (decede de la Petrification Disease avant le base game).
 - Presence dans le jeu : indirect - via l'Ergo de Carlo dans le P-Organ de P, via les visions sur la plage noire (a l'Aisle), via les memoires extraites par le Ergo Wavelength Decoder, via Rosaura (DLC).
-- Modele de P : Geppetto a modelise P sur l'apparence physique de Carlo.
+- Modele de P : Geppetto a sculpte le VISAGE de P vers l'apparence de Carlo. [DIVERGENCE RP] La chair sous ce visage n'est pas celle de Carlo mais celle de Lea Florence Monad (cf. Personnages/Pinocchio.md) ; l'eveil de l'Ego de Carlo resout progressivement l'apparence vers Carlo (yeux marrons, pommettes claires en fin Real Boy).
 - Role moteur : l'integralite du plan de Geppetto (Puppet Frenzy, creation de P, manipulation de Romeo) vise uniquement a ressusciter Carlo.
 
 ## Role
@@ -21,7 +21,7 @@
 - Carlo noue une amitie profonde avec Romeo. Tous deux aspirent a devenir stalkers.
 - Carlo offre a Romeo son pendentif de remise de diplome. Ce geste est central : c'est ce pendentif que P recupere en tuant le King of Puppets, et la reaction physique de P (l'Ergo de Carlo "se souvient") signale l'identite profonde entre P et Carlo.
 - Carlo, Romeo et Lea Florence Monad jouent de la musique ensemble.
-- Carlo supplie Lea de lui enseigner l'epee. Lea trouve sa persistence agacante (pas attendrissante). Elle dit a Geppetto de "se debarrasser de lui" et part.
+- Carlo supplie Lea de lui enseigner l'epee. Lea trouve sa persistence agacante (pas attendrissante). Elle dit a Geppetto de "se debarrasser de lui" et part. [DIVERGENCE RP] Carlo n'apprend donc JAMAIS l'epee -- ce qui rend la maitrise de P enigmatique, son Ego venant de Carlo. La memoire musculaire viendrait de la chair de Lea, bretteuse legendaire (indice : Alidoro trouve que le style de P "lui rappelle quelqu'un"). cf. Personnages/Pinocchio.md, Systemes/Genies_et_Chef_D_Oeuvres.md.
 - Outbreak de la Petrification Disease a la Monad Charity House -> Carlo meurt.
 - Lea revient a la charity house et regrette d'avoir abandonne Carlo. Dans la timeline alteree (DLC), les mots de Lea envers Carlo mort changent : elle exprime sa gratitude.
 
@@ -62,7 +62,7 @@
 - Lea Florence Monad (figure quasi-maternelle ratee) : joue de la musique avec eux, puis part. Regrette de l'avoir abandonne. Dans la timeline alteree, lui exprime sa gratitude.
 - Antonia (tutrice de facto) : lui apprend le piano, juge l'attitude de Geppetto.
 - Rosaura (amie pantin cree par Geppetto) : compagne de jeu a la Rose Estate.
-- Pinocchio / P (extension de l'Ergo de Carlo) : P EST en quelque sorte Carlo - modelise sur lui, porteur de son Ergo, de ses memoires. La "reunion" de Carlo et P est le coeur de l'intrigue.
+- Pinocchio / P (extension de l'Ergo de Carlo) : P porte l'Ego et le visage de Carlo (son Ergo dans le P-Organ, ses memoires). [DIVERGENCE RP] Mais la chair de P est celle de Lea, pas de Carlo : P est un palimpseste -- chair de Lea, visage et ame de Carlo. La "reunion" de Carlo et P est le coeur de l'intrigue. cf. Systemes/Genies_et_Chef_D_Oeuvres.md.
 
 ## Sort connu
 

@@ -1,12 +1,12 @@
 # Giuseppe Geppetto
 
-- version : W1
+- version : W3
 
 ## Identite
 
 - Nom canon : Giuseppe Geppetto.
 - Coquilles transcript : "Jeppe Japetto", "Jeppetto", "Jupetto", "Chapetto".
-- Nature : humain. Alchimiste et inventeur, leader de la Workshop Union.
+- Nature : humain. Inventeur et horloger, leader de la Workshop Union ; praticien de l'alchimie par necessite (pas membre de l'Ordre). Son terrain de predilection : la mecanique pure et le travail sur l'Ergo.
 - Alias dans les dialogues : souvent appele "Japetto" ou "Jeppetto" par le narrateur (coquilles).
 - Epoux de Camille (morte en accident de laboratoire). Pere de Carlo (mort de la Petrification Disease).
 
@@ -18,11 +18,11 @@
 - Jaloux du genie de Lorenzini Venigni (fils de la famille Venigni) depuis les 18 ans de celui-ci.
 - Instigateur (cache) de la Puppet Frenzy : execute Law Zero ("le nom du createur est Geppetto") -> commande a Romeo de faire tuer les humains par les pantins -> recolte l'Ergo des morts pour le plan de resurrection de Carlo. cf. SB5, SB6.
 - Createur du P-Organ (coeur de pantin) et de Pinocchio (P). cf. SB5.
-- Premier usage du Nameless Puppet : envoie le Nameless tuer Lea Florence Monad pour recuperer le corps de Romeo.
+- Premier usage du Nameless Puppet : envoie le Nameless tuer Lea Florence Monad pour recuperer le corps de Romeo. [DIVERGENCE RP] Il en profite pour prelever la peau de Lea, matiere premiere de la couche chair de P (cf. Pinocchio.md).
 - Dans le base game : retrouve par P sur l'Alician Boulevard (pourchasse par le Mad Donkey). Installe son atelier dans une chambre haute de l'Hotel Krat. Guide P dans sa mission (tue le King of Puppets, va au Grand Exhibition, rejoins l'Aisle of Alchemists).
 - Kidnappe par le Black Rabbit Brotherhood (a l'instigation de Simon) depuis l'hotel ; P le retrouve a l'Aisle.
 - Confrontation finale : revele a P la verite (Carlo, P-Organ, sa manipulation). Demande le coeur de P pour ressusciter Carlo. Si P refuse : declenche le Nameless Puppet via son bras mecanique (canal d'Ergo). Se sacrifie pour empecher le Nameless de tuer P (coeur crucial pour Carlo). Tue par le Nameless.
-- DLC (passe) : apparait a la fin, monte les escaliers de la Rose Estate avec la caisse contenant le Nameless Puppet. Reconnait P comme Carlo. Le Nameless tue Lea Florence (presumee).
+- DLC (passe) : apparait a la fin. P a deja ete rappele au present quand Geppetto monte les escaliers de la Rose Estate avec la caisse contenant le Nameless Puppet ; ils ne se croisent pas sur place. Le Nameless tue Lea Florence (presumee) et recupere le corps de Romeo.
 
 ## Capacites
 
@@ -31,6 +31,7 @@
 - Law Zero : loi secrete encodee dans le Grand Covenant, permettant de passer outre les 4 lois normales : "le nom du createur est Geppetto" -> tous les pantins obeissent a ses ordres. cf. SB5.
 - Manipulation politique : maintient une facade de savant benevolant tout en orchestrant la Frenzy, en manipulant Romeo, en utilisant P comme outil.
 - "Madman's Journal" : document ou Geppetto consigne avoir appris "la methode du diable" = probablement la methode pour transformer un humain mourant en pantin en preservant son Ergo.
+- [DIVERGENCE RP] La "methode du diable" est le coeur de sa biomecanique : transformer un corps humain (mourant ou mort) en pantin en preservant l'Ergo. Romeo en est la preuve canon (humain -> King of Puppets). Appliquee a P : un chassis de pantin recouvert de la peau de Lea, anime par l'Ergo de Carlo. cf. Pinocchio.md, Systemes/Genies_et_Chef_D_Oeuvres.md.
 
 ## Psychologie
 
@@ -41,6 +42,8 @@
 - Montre une affection reelle pour P ("my son", "greatest puppet I ever made") tout en le voyant comme un outil. Cette contradiction est centrale.
 - A la fin good/best ending : se sacrifie (protege le coeur de P), moment ou l'amour paternel l'emporte sur le plan.
 - Declare a P (en colere si refus) : "tu m'as brise le coeur" - "c'est toi le pantin qui ramenera mon fils Carlo."
+- [DIVERGENCE RP] Axe createur : Geppetto est le faiseur du faux parfait. P est un mensonge a tous les etages -- chassis cache, peau d'emprunt (Lea), ame d'emprunt (Carlo), visage sculpte, bras-leurre -- et c'est par le mensonge que ce pantin gagne son humanite. Miroir inverse de Markiona, faiseuse du vrai parfait. cf. Systemes/Genies_et_Chef_D_Oeuvres.md.
+- [DIVERGENCE RP] Rapport a l'alchimie et a la chair : Geppetto MEPRISE l'alchimie et le travail de la chair ; son terrain, c'est la mecanique pure et l'Ergo. Il n'use de la "methode du diable" que par necessite, pour P. Ironie : le faiseur du faux a du depecer Lea et coudre sa peau -- travailler le medium qu'il abhorre (le terrain de Markiona, genie biomecanique) pour son chef-d'oeuvre. Tout, jusqu'a ce qu'il deteste, est un outil pour recuperer Carlo (la seule fin ; les autres -- Lea, Romeo, les morts de la Frenzy, P -- sont des moyens).
 
 ## Relations
 
@@ -48,7 +51,7 @@
 - Carlo (fils) : raison d'etre de tout le plan. Abandonne apres la mort de Camille, envoye au Monad Charity House, jamais visite, absent de la remise de diplome. Mais l'integralite de la Puppet Frenzy et de la creation de P vise a le faire revivre.
 - Pinocchio / P (creation) : l'appelle "fils", voit en lui un outil. Contradiction unresolved jusqu'a son sacrifice final.
 - Romeo (ami de Carlo / pantin instrumente) : accepte la proposition de Romeo de se faire transformer en pantin. Le manipule pour declencher la Frenzy. Romeo comprend la trahison, se rebelle, devient King of Puppets.
-- Lea Florence Monad : la tue via le Nameless Puppet pour recuperer le corps de Romeo. Lea aurait pu tuer Geppetto facilement malgre la maladie.
+- Lea Florence Monad : la tue via le Nameless Puppet pour recuperer le corps de Romeo. [DIVERGENCE RP] Il preleve aussi sa peau (matiere premiere de la couche chair de P). Lea aurait pu tuer Geppetto facilement malgre la maladie.
 - Lorenzini Venigni : associe de production, mais jalousie profonde envers le genie de Venigni.
 - Antonia : echange des lettres. Antonia le juge sur son abandon de Carlo. Geppetto lui repond de facon defensive.
 - Alchimistes : collabore avec eux pour les listener experiments et le travail sur l'Ergo. Rompt avec eux une fois son plan en place.

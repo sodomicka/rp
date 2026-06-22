@@ -1,6 +1,6 @@
 # Lea Florence Monad
 
-- version : W1
+- version : W2
 
 ## Identite
 - Humaine ; stalker legendaire de Krat. Titre : Legendary Stalker.
@@ -22,7 +22,8 @@
 - Laisse un camp pres de l'Altar of the Arm of God ; enregistrement audio de ses messages (dont sa mise en garde a Markiona).
 - Parvient a la Rose Estate (Monad Charity House) pour retrouver Romeo.
 - Combat Arlecchino avec ou sans l'aide de P (choix du joueur).
-- Tenue par Nameless Puppet (instrument de Geppetto) apres qu'Arlecchino est vaincu : Nameless tue Lea (presume). Elle sourit dans les bras de Romeo mourant, signe d'acceptation de sa fin.
+- Une fois Arlecchino vaincu, P est rappele au present avant l'arrivee de Geppetto ; Lea ne comprend pleinement qui etait P qu'apres son depart (trop tard).
+- Tenue par Nameless Puppet (instrument de Geppetto, qui arrive apres le depart de P) apres qu'Arlecchino est vaincu : Nameless tue Lea (presume). Elle sourit dans les bras de Romeo mourant, signe d'acceptation de sa fin.
 
 ### Impact sur la timeline alteree (DLC)
 - Lea ne peut etre sauvee de sa mort, mais P peut affecter des details mineurs de la timeline (cf. Personnages/Pinocchio.md pour le mecanisme global).
@@ -50,12 +51,13 @@
 - Simon Manus : adversaire ; prime officieuse posee par Simon sur sa tete -> sa disparition. Cf. Personnages/Simon_Manus.md.
 - Arlecchino : ennemi jurae ; l'a vaincu dans le passe (lui a retire bras et jambes) ; Arlecchino prend sa revanche via le kidnapping de Romeo. Combat final du DLC.
 - Markiona : amie decrite comme "sadly not departed" dans le message enregistre de Lea ("my sadly not departed friend"). Confrontation dans le DLC.
-- Geppetto : relation complexe - lui dit de se debarrasser de Carlo (puis le regrette). Geppetto utilise le Nameless Puppet pour tuer Lea et recuperer le corps de Romeo.
+- Geppetto : relation complexe - lui dit de se debarrasser de Carlo (puis le regrette). Geppetto utilise le Nameless Puppet pour tuer Lea et recuperer le corps de Romeo. [DIVERGENCE RP] Il preleve aussi sa peau, matiere premiere de la couche chair de P (cf. Personnages/Pinocchio.md, Personnages/Giuseppe_Geppetto.md).
 - Le Tracker (Alidoro) : lui a fourni des anti-douleurs pour supporter la maladie ; connait sa situation et son emplacement (cabane pres du phare).
 - Klaus (marchand) : Lea l'a sauve au zoo et amene a l'hotel ; Klaus confirme a P que Lea cherchait son apprenti dans un laboratoire.
 
 ## Sort connu
-- Fin DLC : tuee par le Nameless Puppet apres la defaite d'Arlecchino. Mort confirmee (presumee par le narrateur, Nameless l'attaque).
+- Fin DLC : tuee par le Nameless Puppet apres la defaite d'Arlecchino. Mort confirmee (presumee par le narrateur, Nameless l'attaque). P n'assiste pas a sa mort (rappele au present juste avant l'arrivee de Geppetto).
+- [DIVERGENCE RP] Sa peau est prelevee par Geppetto comme matiere premiere de la couche chair de P (cf. Personnages/Pinocchio.md, Personnages/Giuseppe_Geppetto.md).
 - Ne peut pas etre sauvee dans aucune timeline connue.
 - Dans la timeline affectee : certains detours de sa relation avec Carlo changent (gratitude remplace regret) mais l'issue finale est identique.
 - [INTERPRETATION] Possible que dans la timeline originale (sans intervention de P), Arlecchino l'ait tuee lui-meme : "he was set to complete his Magnum Opus, but never got the chance." P l'a peut-etre sauvee du meurtre par Arlecchino mais pas de la mort finale par Nameless.
@@ -68,7 +70,7 @@
 | Post-Charity House | Affronte et detruit Arlecchino (torse sans membres) ; legende solidifiee | Lea -> Legendary Stalker reconnue |
 | Pre-schisme | Clashes croissants avec Simon ; prime officieuse posee sur elle par Simon ; lettre a Valentinus | Lea -> cible de Simon, disparition officielle |
 | DLC (avant base game) | Malade de la Petrification Disease ; cherche Romeo enleve par Arlecchino ; parcours zoo -> Zelator -> cote -> Rose Estate | Lea -> mourante, en mission de sauvetage |
-| DLC : fin | Combat Arlecchino avec/sans P ; Arlecchino vaincu ; Romeo mourant ; Nameless Puppet tue Lea | Lea -> morte |
+| DLC : fin | Combat Arlecchino avec/sans P ; Arlecchino vaincu ; P rappele au present ; Geppetto arrive ; Nameless tue Lea ; [DIVERGENCE RP] sa peau prelevee pour P | Lea -> morte |
 
 ---
 

@@ -1,6 +1,6 @@
 # Pinocchio
 
-- version : W2
+- version : W3
 
 ## Identite
 
@@ -11,6 +11,9 @@
 - Modele physique : base sur l'apparence de Carlo, fils mort de Geppetto.
 - Organe central : P-Organ (coeur de pantin modifie), imbibe de l'Ergo de Carlo. cf. SB5, Systemes/Humanity_System.md.
 - Particularite unique : exempte du Grand Covenant en ce qui concerne l'interdiction de mentir ; c'est precisement sa capacite a mentir qui declenche son eveil humain. cf. SB1, SB5.
+- [DIVERGENCE RP] Nature physique reelle : un chassis de guerre mecanique (pantin haute performance) recouvert d'une couche de chair humaine d'emprunt. Le metal est le vrai corps, la chair est le deguisement -- voie exactement inverse de Magnus (chair vraie, renfort de metal au-dedans). cf. Systemes/Genies_et_Chef_D_Oeuvres.md.
+- [DIVERGENCE RP] Origine de la chair : peau prelevee sur Lea Florence Monad via la "methode du diable" de Geppetto (cf. Giuseppe_Geppetto.md). Visuel canon observe in-game : par defaut, P presente des taches de rousseur et des yeux bleus (signature de Lea) ; en fin Real Boy, des yeux marrons et des pommettes claires (signature de Carlo). Lecture : le visage est sculpte vers Carlo, mais la chair native est celle de Lea ; l'eveil de l'Ego de Carlo resout progressivement l'apparence vers Carlo.
+- [DIVERGENCE RP] Le bras gauche mecanique (Legion Arm) sert aussi de leurre : une prothese ostensiblement metallique qui detourne l'oeil et fait imputer au bras les micro-imperfections (grincements) du reste du corps. Un faux flagrant pour camoufler le faux total -- c'est ce qui permet a P de passer pour un stalker humain a prothese (cf. Lumakio, the Atoned, qui le prennent pour un humain en face a face).
 
 ## Role
 
@@ -28,7 +31,7 @@
   - Laxasia the Complete (Arch Abbey), Simon Manus / Awakened God (sommet de la tour).
   - Nameless Puppet (fin, si refus de donner le coeur).
 - Recupere le Golden Ergo, alimente le sous-marin Pistrus pour rejoindre l'Aisle of Alchemists.
-- DLC Overture : voyage dans le passe via le golden stargazer (Stars Chrysalis). Suit la piste de Lea Florence Monad pour retrouver Romeo. Affronte Tyrant Predator, Markiona, Veronique (boss), Two-Faced Overseer (avec le Tracker / Alidoro), Anguished Guardian of the Ruins, Lumakio (mute), Arlecchino. Aide Lea Florence a confronter Arlecchino a la Rose Estate. Temoin de la mort de Romeo et de l'arrivee de Geppetto avec le Nameless Puppet.
+- DLC Overture : voyage dans le passe via le golden stargazer (Stars Chrysalis). Suit la piste de Lea Florence Monad pour retrouver Romeo. Affronte Tyrant Predator, Markiona, Veronique (boss), Two-Faced Overseer (avec le Tracker / Alidoro), Anguished Guardian of the Ruins, Lumakio (mute), Arlecchino. Aide Lea Florence a confronter Arlecchino a la Rose Estate. Une fois Arlecchino vaincu, P est rappele au present (fin du voyage temporel) avant l'arrivee de Geppetto ; il n'assiste ni a la mort de Romeo, ni a celle de Lea, ni a l'arrivee du Nameless Puppet.
 - Peut alterer la timeline (DLC) : rendre le paint set a Godard (peintre aveugle), affecter le carving de l'arbre de Rosaura, modifier la lettre d'Antonia (enveloppe verte, 2e page).
 - Fin bad ending : donne son P-Organ a Geppetto -> Carlo renait, P fonctionnellement mort (corps sans coeur).
 - Fin good ending : refuse -> Geppetto declenche le Nameless Puppet -> Geppetto se sacrifie -> P detruit le Nameless.
@@ -36,13 +39,14 @@
 
 ## Capacites
 
-- Combat : corps de pantin haute performance, peut equiper arme droite (lame) + bras gauche mecanique (Legion Arm, divers modules). Mobilite elevee.
+- Combat : corps de pantin haute performance (le chassis mecanique reel ; cf. Identite pour la couche chair par-dessus), peut equiper arme droite (lame) + bras gauche mecanique (Legion Arm, divers modules). Mobilite elevee.
 - P-Organ : coeur de pantin modifie, stocke et amplifie l'Ergo accumule sur les ennemis vaincus. cf. SB5.
 - Ergo collection : l'Ergo des ennemis tues est recolte (et, en secret, aspire par la machine de Simon dans la tour).
 - Renforcement par Sophia : Sophia puise dans l'Ergo pour renforcer P en combat ; elle alimente les Stargazers qui servent de points de sauvegarde/teleportation. cf. Systemes/Listeners.md.
 - Mensonge = humanite : chaque mensonge volontaire et chaque ecoute musicale fait avancer l'Humanity System (cf. SB5, Systemes/Humanity_System.md). Effets physiques : coeur qui bat, chaleur, cheveux qui poussent et grisonnent.
 - Ergo de Carlo : l'Ergo de Carlo dans le P-Organ provoque des "memoires fantomes" (ex. reaction physique au pendentif de Romeo, reconnaissance vague de Sophia lors des visions sur la plage noire).
-- Compatibilite DLC : dans le passe, capable d'agir et de modifier des evenements sans etre reconnu comme futur P (reconnu par Lea Florence uniquement via le locket de Romeo).
+- Compatibilite DLC : dans le passe, capable d'agir et de modifier des evenements sans etre reconnu comme futur P. Lea Florence le reconnait partiellement via le locket de Romeo ; elle ne comprend pleinement qui il etait qu'apres son rappel au present (trop tard).
+- [DIVERGENCE RP] Memoire musculaire heritee : la chair de Lea (Legendary Stalker, bretteuse) porte sa memoire de combat, ce qui expliquerait la maitrise de l'epee de P alors que l'Ego de Carlo, lui, n'a jamais appris a se battre (Lea avait refuse de l'enseigner a Carlo). Indice canon : Alidoro, qui connaissait Lea, trouve que le style de combat de P "lui rappelle quelqu'un" (cf. Relations).
 
 ## Psychologie
 
@@ -60,10 +64,10 @@
 - Sophia Monad (guide / alliee) : voix qui reveille P, presente tout au long comme guide spectrale. P peut choisir de la liberer (mort) ou de la laisser souffrir. Best ending : P place l'Ergo de Sophia dans un pantin pour lui donner une vie nouvelle.
 - Carlo (source de l'Ergo / identite partielle) : P est base sur Carlo. L'Ergo de Carlo est dans son P-Organ. Les "memoires de Carlo" emergent progressivement (cheveux gris, visions sur la plage). A la fin, P est en quelque sorte Carlo renait dans un nouveau corps.
 - Romeo (messager mal compris / ami de Carlo) : Romeo tend la main a P pour ne pas se battre (sait que P porte l'Ergo de Carlo). P detruit les "messagers" de Romeo (boss) avant de comprendre leur message via le Ergo Wavelength Decoder. Apres le vrai combat, Romeo remercie P de lui avoir donne la liberte.
-- Lea Florence Monad (DLC, alliere de circonstance) : P suit sa piste dans le passe. Lea reconnait Romeo's locket. Ils combattent Arlecchino ensemble a la Rose Estate. P temoin de sa mort presumee par le Nameless.
+- Lea Florence Monad (DLC, alliere de circonstance) : P suit sa piste dans le passe. Lea reconnait le locket de Romeo. Ils combattent Arlecchino ensemble a la Rose Estate. P est rappele au present avant l'arrivee de Geppetto ; il n'assiste pas a sa mort. [DIVERGENCE RP] La peau de Lea sert de matiere premiere a la couche chair de P (cf. Identite, Giuseppe_Geppetto.md).
 - Venigni / Lorenzini Venigni : lui fournit l'Ergo Wavelength Decoder et la Golden Ergo pour le sous-marin. Allie de l'hotel.
 - Antonia : proprietaire de l'Hotel Krat, malade. P peut lui obtenir un Gold Coin Fruit (via Giangio) pour soulager sa douleur. Lettre d'Antonia modifiee par les actions de P dans le passe.
-- Alidoro / le Tracker (DLC) : P le rencontre dans le passe. Alidoro lui donne le Daylight-Wreathed Horn. Remarque que le style de combat de P lui rappelle quelqu'un.
+- Alidoro / le Tracker (DLC) : P le rencontre dans le passe. Alidoro lui donne le Daylight-Wreathed Horn. Remarque que le style de combat de P lui rappelle quelqu'un. [DIVERGENCE RP] Ce "quelqu'un" serait Lea, dont la chair compose le corps de P (cf. Capacites, Identite).
 - Rosaura (pantin amie de Carlo) : P la trouve au zoo (DLC), l'aide sur le chemin de la Rose Estate, recoit de elle le dessin de famille.
 - Gemini : guide integre a P, lui parle dans son oreille (lampion), l'accompagne tout au long du jeu et du DLC. Reconnait le voyage temporel au zoo.
 
@@ -80,7 +84,7 @@
 |---|---|---|
 | (creation) | Geppetto cree P, implante un P-Organ imbibe de l'Ergo de Carlo | Pantin inactif dans un wagon |
 | Avant le base game (DLC) | Sophia envoie un papillon bleu -> P reveille, recoit Stars Chrysalis au stargazer de l'hotel -> voyage dans le passe | Actif dans le passe ; allie de Lea Florence |
-| Passe (DLC) | Affronte Tyrant Predator, Markiona, Veronique, Two-Faced Overseer, Lumakio, Anguished Guardian, Arlecchino ; temoin de la mort de Romeo et de Lea | Retour dans sa timeline d'origine, modifiee |
+| Passe (DLC) | Affronte Tyrant Predator, Markiona, Veronique, Two-Faced Overseer, Lumakio, Anguished Guardian, Arlecchino ; rappele au present avant l'arrivee de Geppetto (n'assiste pas aux morts de Romeo et Lea) | Retour dans sa timeline d'origine, modifiee |
 | Base game (debut) | Reveille a Krat Central Station ; premier mensonge ; tue Mad Donkey | Premiere humanite acquise |
 | Base game (progression) | Parcourt Krat ; multiple choix de mensonge/verite ; ecoute musicale ; cheveux poussent et grisonnent | Humanity System en progression |
 | Base game (fin) | Tue Simon Manus ; confronte Geppetto | Bifurcation selon le choix final |

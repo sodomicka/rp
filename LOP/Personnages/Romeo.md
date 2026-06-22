@@ -1,6 +1,6 @@
 # Romeo
 
-- version : W1
+- version : W2
 
 ## Identite
 
@@ -25,7 +25,7 @@
 
 - Romeo contracte la Petrification Disease.
 - Romeo est kidnapped par Arlecchino (DLC) : Arlecchino se venge de Lea Florence en enlevant son apprenti prefere -> Romeo est emmene au zoo, puis capture par Geppetto.
-- Mourant de la maladie, Romeo accepte la proposition de Geppetto : se faire transformer en pantin capable d'heberger son Ergo en echange d'une "survie".
+- Mourant de la maladie, Romeo accepte la proposition de Geppetto : se faire transformer en pantin capable d'heberger son Ergo en echange d'une "survie". [DIVERGENCE RP] Romeo est la PREUVE CANON de la "methode du diable" de Geppetto (humain -> pantin en preservant l'Ergo) -- le procede sur lequel repose la nature de P (chassis recouvert de chair humaine). Romeo est le pantin-de-chair ASSUME (humain transforme, a decouvert) ; P en est la version CACHEE. cf. Personnages/Pinocchio.md, Systemes/Genies_et_Chef_D_Oeuvres.md.
 - Geppetto accepte mais cache son plan : utiliser Romeo pour declencher la Puppet Frenzy (Romeo blamed, pas Geppetto).
 - Geppetto execute Law Zero -> Romeo commande aux pantins de tuer les humains -> Puppet Frenzy commence -> Geppetto recolte l'Ergo des morts.
 
@@ -47,7 +47,7 @@
 - Arlecchino kidnappe Romeo (par vengeance contre Lea Florence).
 - P suit la piste de Lea Florence pour retrouver Romeo.
 - Lea Florence trouve Romeo mourant a la Rose Estate, dans ses bras. Elle reconnait le locket de Romeo sur P.
-- La fin DLC : Romeo mourant dans les bras de Lea. Geppetto monte les escaliers avec la caisse du Nameless Puppet. P se reveille dans sa timeline.
+- La fin DLC : Romeo mourant dans les bras de Lea. P est rappele au present (fin du voyage temporel) AVANT que Geppetto monte les escaliers avec la caisse du Nameless Puppet ; P ne se croise pas avec Geppetto et n'assiste pas a la suite.
 - [INTERPRETATION] Romeo est encore vivant a ce moment (agonisant) ; sa transformation en pantin intervient apres les evenements du DLC.
 
 ## Capacites
