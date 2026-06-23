@@ -1,6 +1,7 @@
 # Quartiers de Krat
 
-- version : W1
+- version : W2
+- Note de revision W2 : rename canon Lumakio -> Lumacchio (orthographe canon, Lies of P Overture). Aucun changement de fond.
 - Fiche groupee : un bloc par quartier/lieu de la ville de Krat. Cf. Lieux/Krat.md pour l'histoire
   generale de la ville.
 
@@ -164,7 +165,7 @@
 - Owl Doctor : amant d'Adelina Corde. Boss rencontre ici (au Barren Swamp). Cf.
   Personnages/Adelina_et_Patricia.md.
 - Madoro (reporter/medic) : retraite dans une grotte d'ermite pres du Barren Swamp durant l'outbreak.
-  Journal : contamine, manque d'eau, aide par un ermite. Mentionne ses amis (Lumakio malade, Sophia
+  Journal : contamine, manque d'eau, aide par un ermite. Mentionne ses amis (Lumacchio malade, Sophia
   disparue, Venigni sans espoir, H=Alidoro presume mort). Meurt ; grand carcass dans la grotte. Cf.
   Personnages/Madoro.md.
 - Etat : marais, ruines de mines, corps de pantins jetes. Tres hostile.
@@ -224,8 +225,8 @@
 - Depuis le port : P arrive au deepest site des ruines anciennes -> Anguished Guardian -> Sealed Altar
   of the Arm of God -> camp de Lea -> cote avec les epaves. Cf. SB6, Lieux/Rose_Estate_Monad_Charity_House.md.
 - DLC (cote) : epaves de la flotte alchimiste naufragee. Brig avec gardes morts = lieu de transport
-  d'Arlecchino. Lumakio surgit -> combat -> elixir alchimiste -> abomination -> mort. Cf.
-  Personnages/Lumakio.md, Personnages/Arlecchino.md.
+  d'Arlecchino. Lumacchio surgit -> combat -> elixir alchimiste -> abomination -> mort. Cf.
+  Personnages/Lumacchio.md, Personnages/Arlecchino.md.
 
 ---
 
@@ -246,7 +247,7 @@
 - Alidoro (vrai) a decouvert le meurtre de Columbo et d'autres secrets alchimistes (Colonel Little,
   disparition des taxidermistes, mineur enterre vivant) -> transmis a Madoro (reporter). Cf.
   Personnages/Alidoro_et_Parrot.md, Personnages/Madoro.md.
-- DLC : P arrive au phare depuis la cote (apres la mort de Lumakio). De la, il suit le chemin enneige
+- DLC : P arrive au phare depuis la cote (apres la mort de Lumacchio). De la, il suit le chemin enneige
   vers la shack ou se trouve Lea Florence. Vue sur la Rose Estate. Cf. Lieux/Rose_Estate_Monad_Charity_House.md.
 - Etat base game / DLC : phare abandonne, potentiellement hante par la reputation de Columbo. Passage
   vers la Rose Estate.
