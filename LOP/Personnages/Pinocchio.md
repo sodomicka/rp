@@ -1,6 +1,7 @@
 # Pinocchio
 
-- version : W4
+- version : W5
+- Note de revision W5 : rename canon Lumakio -> Lumacchio (orthographe canon, Lies of P Overture). Aucun changement de fond.
 
 ## Identite
 
@@ -13,7 +14,7 @@
 - Particularite unique : exempte du Grand Covenant en ce qui concerne l'interdiction de mentir ; c'est precisement sa capacite a mentir qui declenche son eveil humain. cf. SB1, SB5.
 - [DIVERGENCE RP] Nature physique reelle : un chassis de guerre mecanique (pantin haute performance) recouvert d'une couche de chair humaine d'emprunt. Le metal est le vrai corps, la chair est le deguisement -- voie exactement inverse de Magnus (chair vraie, renfort de metal au-dedans). cf. Systemes/Genies_et_Chef_D_Oeuvres.md.
 - [DIVERGENCE RP] Origine de la chair : peau prelevee sur Lea Florence Monad via la "methode du diable" de Geppetto (cf. Giuseppe_Geppetto.md). Visuel canon observe in-game : par defaut, P presente des taches de rousseur et des yeux bleus (signature de Lea) ; en fin Real Boy, des yeux marrons et des pommettes claires (signature de Carlo). Lecture : le visage est sculpte vers Carlo, mais la chair native est celle de Lea ; l'eveil de l'Ego de Carlo resout progressivement l'apparence vers Carlo.
-- [DIVERGENCE RP] Le bras gauche mecanique (Legion Arm) sert aussi de leurre : une prothese ostensiblement metallique qui detourne l'oeil et fait imputer au bras les micro-imperfections (grincements) du reste du corps. Un faux flagrant pour camoufler le faux total -- c'est ce qui permet a P de passer pour un stalker humain a prothese (cf. Lumakio, the Atoned, qui le prennent pour un humain en face a face).
+- [DIVERGENCE RP] Le bras gauche mecanique (Legion Arm) sert aussi de leurre : une prothese ostensiblement metallique qui detourne l'oeil et fait imputer au bras les micro-imperfections (grincements) du reste du corps. Un faux flagrant pour camoufler le faux total -- c'est ce qui permet a P de passer pour un stalker humain a prothese (cf. Lumacchio, the Atoned, qui le prennent pour un humain en face a face).
 - [DIVERGENCE RP] Pourquoi le bras GAUCHE precisement : au bras gauche, la peau de Lea etait inexploitable -- son bras gauche etait petrifie (Petrification localisee, non terminale ; cf. Lea_Florence_Monad.md, Giuseppe_Geppetto.md). Geppetto n'a pas pu y prelever de chair viable et a remplace ce membre par la prothese mecanique. La laterite du leurre n'est donc pas un choix esthetique mais une consequence de la maladie de Lea : le cote ou la chair manquait devient le faux assume.
 
 ## Role
@@ -32,7 +33,7 @@
   - Laxasia the Complete (Arch Abbey), Simon Manus / Awakened God (sommet de la tour).
   - Nameless Puppet (fin, si refus de donner le coeur).
 - Recupere le Golden Ergo, alimente le sous-marin Pistrus pour rejoindre l'Aisle of Alchemists.
-- DLC Overture : voyage dans le passe via le golden stargazer (Stars Chrysalis). Suit la piste de Lea Florence Monad pour retrouver Romeo. Affronte Tyrant Predator, Markiona, Veronique (boss), Two-Faced Overseer (avec le Tracker / Alidoro), Anguished Guardian of the Ruins, Lumakio (mute), Arlecchino. Aide Lea Florence a confronter Arlecchino a la Rose Estate. Une fois Arlecchino vaincu, P est rappele au present (fin du voyage temporel) avant l'arrivee de Geppetto ; il n'assiste ni a la mort de Romeo, ni a celle de Lea, ni a l'arrivee du Nameless Puppet.
+- DLC Overture : voyage dans le passe via le golden stargazer (Stars Chrysalis). Suit la piste de Lea Florence Monad pour retrouver Romeo. Affronte Tyrant Predator, Markiona, Veronique (boss), Two-Faced Overseer (avec le Tracker / Alidoro), Anguished Guardian of the Ruins, Lumacchio (mute), Arlecchino. Aide Lea Florence a confronter Arlecchino a la Rose Estate. Une fois Arlecchino vaincu, P est rappele au present (fin du voyage temporel) avant l'arrivee de Geppetto ; il n'assiste ni a la mort de Romeo, ni a celle de Lea, ni a l'arrivee du Nameless Puppet.
 - Peut alterer la timeline (DLC) : rendre le paint set a Godard (peintre aveugle), affecter le carving de l'arbre de Rosaura, modifier la lettre d'Antonia (enveloppe verte, 2e page).
 - Fin bad ending : donne son P-Organ a Geppetto -> Carlo renait, P fonctionnellement mort (corps sans coeur).
 - Fin good ending : refuse -> Geppetto declenche le Nameless Puppet -> Geppetto se sacrifie -> P detruit le Nameless.
@@ -85,7 +86,7 @@
 |---|---|---|
 | (creation) | Geppetto cree P, implante un P-Organ imbibe de l'Ergo de Carlo | Pantin inactif dans un wagon |
 | Avant le base game (DLC) | Sophia envoie un papillon bleu -> P reveille, recoit Stars Chrysalis au stargazer de l'hotel -> voyage dans le passe | Actif dans le passe ; allie de Lea Florence |
-| Passe (DLC) | Affronte Tyrant Predator, Markiona, Veronique, Two-Faced Overseer, Lumakio, Anguished Guardian, Arlecchino ; rappele au present avant l'arrivee de Geppetto (n'assiste pas aux morts de Romeo et Lea) | Retour dans sa timeline d'origine, modifiee |
+| Passe (DLC) | Affronte Tyrant Predator, Markiona, Veronique, Two-Faced Overseer, Lumacchio, Anguished Guardian, Arlecchino ; rappele au present avant l'arrivee de Geppetto (n'assiste pas aux morts de Romeo et Lea) | Retour dans sa timeline d'origine, modifiee |
 | Base game (debut) | Reveille a Krat Central Station ; premier mensonge ; tue Mad Donkey | Premiere humanite acquise |
 | Base game (progression) | Parcourt Krat ; multiple choix de mensonge/verite ; ecoute musicale ; cheveux poussent et grisonnent | Humanity System en progression |
 | Base game (fin) | Tue Simon Manus ; confronte Geppetto | Bifurcation selon le choix final |

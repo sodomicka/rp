@@ -1,6 +1,7 @@
 # PNJ Secondaires
 
-- version : W3
+- version : W4
+- Note de revision W4 : rename canon Lumakio -> Lumacchio (orthographe canon, Lies of P Overture). Aucun changement de fond.
 
 > Fiche groupee. Chaque entite = un bloc independant.
 > Personnages : Belle, Julian + Melody, the Atoned, Klaus, Hugo, Godard, Colonel Little + Rex,
@@ -70,7 +71,7 @@
 ### Role
 - DLC Overture (passe) : present a Hotel Krat. Sauve par Lea Florence au zoo, amene a l'hotel ; elle repart chercher son apprenti dans un laboratoire.
 - Revele a P que cette periode est anterieure a l'annulation du Grand Exhibition -> la maladie n'a pas encore touche la ville principale. Role d'oracle temporel : confirme le voyage dans le temps.
-- Base game : revele que Lumakio n'est plus a l'hotel (parti apres reception de documents).
+- Base game : revele que Lumacchio n'est plus a l'hotel (parti apres reception de documents).
 
 ### Sort connu
 - Sort non specifie au-dela de ses roles d'informateur.
