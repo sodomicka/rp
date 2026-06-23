@@ -1,6 +1,7 @@
 # Chronologie - Magnus (timeline globale)
 
-- version : C4
+- version : C5
+- note C5 : Ere 3 (Overture, 1850) passee de "a forer" a ROADMAPPEE (R1). Son echafaudage detaille est EXTRAIT vers Roadmap_03_Overture.md (meme traitement que les Eres 1-2 en C4) ; ne restent ici que les grosses mailles + pointeur. Eres 4-5 gardent leur echafaudage (pas encore roadmappees).
 - note C4 : allegement (decision worldbuilder). Le detail jouable des Eres 1 et 2 est EXTRAIT vers les roadmaps (Roadmap_01_Eveil, Roadmap_02_Les_Loups) ; ne restent ici que les grosses mailles + un pointeur "-> Roadmap/Magnus/..." par ere. Les Eres 3-5 gardent leur echafaudage (pas encore roadmappees). Le suivi des versions de fiches vit dans le Sommaire (plus duplique ici).
 - nature : TIMELINE GLOBALE du parcours de Magnus, grosses mailles. Echafaudage de conception build-side ; les roadmaps (eres) en detaillent chaque tranche.
 - remplace : C3 (qui remplacait C2 / C1). Ne garder que cette version.
@@ -10,7 +11,7 @@
 - note calendrier : les annees (1847-1852) sont le calendrier in-world choisi par le worldbuilder (le jeu n'en donne aucun). La "Belle Epoque (1871-1914)" de BIBLE SB0 est une REFERENCE ESTHETIQUE, pas le calendrier de Krat : aucune contradiction.
 - POINT DE DEPART JOUABLE : l'eveil de Magnus (1847). Le joueur incarne Magnus du premier souffle a la conclusion.
 - regle d'usage : grosses mailles. AUCUNE fiche n'est gravee depuis ce document ; le detail vit dans les roadmaps. La discipline fiches-a-chaud s'allume au forage de chaque ere.
-- date reelle : 2026-06-22
+- date reelle : 2026-06-23
 
 ## Axes de divergence fondateurs (rappel)
 - Magnus existe : OC, pantin parfait de Markiona, ego inne et vierge (cf. fiches Magnus / Markiona, BIBLE SB1.3 [DIVERGENCE RP]).
@@ -37,11 +38,8 @@
 - Detail jouable -> Roadmap/Magnus/Roadmap_02_Les_Loups.md (R1, 7 etapes).
 
 ## 1850 - Overture (croisement avec P) (Ere 3) [canon reorchestre]
-- Romeo disparait en mission : enleve par Arlecchino (vengeance contre Lea). Declencheur d'Overture.
-- Le duo mere-fils rencontre P venu du futur. P ne dit rien de leur relation a venir. (Magnus enregistre ce visage - il le reconnaitra en 1852.)
-- Rose Estate (lieu canon) : melee a quatre - P + Lea + Magnus + Markiona contre Arlecchino. Markiona blessee ; Arlecchino vaincu.
-- P est rappele a son epoque AVANT l'arrivee de Geppetto. Magnus ramene sa mere ; Lea reste veiller Romeo mourant. Apres leur depart, Geppetto arrive avec sa caisse (Nameless Puppet). La suite (mort de Lea, capture de Romeo) se joue hors du champ de Magnus - comme pour P.
-- En parallele (Ordre) : l'Ange de l'Arc reconstruit garde le Zoo et sert de boss a P. Markiona n'y est pas ; P ne l'affronte pas.
+- Grosses mailles : Romeo enleve par Arlecchino (vengeance contre Lea) declenche Overture ; le duo mere-fils croise P venu du futur (P tait leur relation a venir, Magnus enregistre ce visage - il le reconnaitra en 1852) ; melee a quatre a la Rose Estate (P + Lea + Magnus + Markiona contre Arlecchino), Markiona blessee, Arlecchino vaincu ; P rappele au present AVANT l'arrivee de Geppetto (Magnus ramene sa mere, Lea reste veiller Romeo ; la mort de Lea et la capture de Romeo se jouent hors du champ de Magnus, comme pour P) ; en parallele cote Ordre, l'Ange de l'Arc reconstruit garde le Zoo et sert de boss a P (Markiona absente, P ne l'affronte pas).
+- Detail jouable -> Roadmap/Magnus/Roadmap_03_Overture.md (R1).
 
 ## 1851 - La Puppet Frenzy (Ere 4)
 - Law Zero (Geppetto) -> Romeo transforme en King of Puppets -> Puppet Frenzy (canon).
@@ -64,7 +62,7 @@
 ## Decoupage en eres (= roadmaps)
 1. Genese et fuite (1847) -- ROADMAPPEE (R1). Detail -> Roadmap_01_Eveil.md.
 2. Les Loups (1848-1850) -- ROADMAPPEE (R1). Detail -> Roadmap_02_Les_Loups.md.
-3. Overture (1850) -- a forer.
+3. Overture (1850) -- ROADMAPPEE (R1). Detail -> Roadmap_03_Overture.md.
 4. La Frenzy (1851) -- a forer.
 5. Le reveil et la fin (1852+) -- a forer.
 

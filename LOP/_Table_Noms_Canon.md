@@ -1,6 +1,7 @@
 # Table des noms canon - LOP
 
-- version : W2
+- version : W3
+- Note de revision W3 : ligne Lumakio corrigee -> canon "Lumacchio" ; "Lumakio" (ancienne coquille de travail promue canon par erreur) et "Lumakia" passent toutes deux en coquilles transcript.
 
 > Garde-fou anti-coquille. La source est une transcription audio truffee de fautes phonetiques.
 > Toujours utiliser la FORME CANON dans les fiches. ASCII strict.
@@ -35,7 +36,7 @@
 | Giangio | Gangio, Ganjo, Danjo |
 | Alidoro / le Tracker | Alidoro, Alloro, Allidoro |
 | Parrot (faux Alidoro) | Parrot |
-| Lumakio | Lumakia |
+| Lumacchio | Lumakio, Lumakia |
 | Veronique | Veronic |
 | Klaus | Klouse, Claus |
 | Madoro | Midoro, Maduro |
