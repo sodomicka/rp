@@ -1,6 +1,7 @@
 # Markiona
 
-- version : W7
+- version : W8
+- Note de revision W8 : couche Overture (Ere 3, 1850). + Lien creation du Two-Faced Overseer (SA creation, un chef de labo ; instrument, en son absence et au service de l'Ordre, de la degenerescence des Listeners en Gold Coin Trees - horreur qu'elle n'a jamais commandee). Trajectoire Overture AFFINEE (non dupliquee) : chemin de croix en trois paliers (Zoo / Zelator / charnier Monad), fissure du "je ne regrette rien", blessure a la cuisse par Arlecchino.
 - Note de revision W7 : couche de coherence Ere 1. Precision du declencheur de l'assaut (a la sortie du Zelator, Cassius reconnait le VISAGE du jeune alchimiste disparu - la matiere premiere de Magnus). "Intracable par dessein" requalifie : personne ne cherche le disparu (sans attaches), mais son visage reste reconnaissable. Glissement outil -> fils precise comme INTERIEUR et MUET (soin du blesse + fascination de la desobeissance par amour, aucune declaration). Refus FRONTAL de "Mere" a l'eveil (dialogue) et acceptation CHOISIE a Aurus (elle s'autorise a etre mere ; nomenclature mere/fils installee). Purge de l'echo rapiere "M." / cipher du Zoo "Lady M." : ce "Lady M." est un DESTINATAIRE (l'Ordre s'adresse a Markiona), pas une signature d'elle ; section Zoo clarifiee en consequence. Le second sens "Mere" du "M." de la rapiere reste (acquis a Aurus, cote Magnus ; cf. Personnages/Magnus.md).
 - Note de revision W6 : couche Ere 2 (Les Loups, 1848-1850). Nouvelle section Physique et sante : silhouette (trentaine, fine, yeux marrons, cheveux platine) ; peau bleutee (trait canon, relue [DIVERGENCE RP] comme stigmate d'une surexposition chronique a l'Ergo) ; Petrification Disease [DIVERGENCE RP] PULMONAIRE et TERMINALE (incurable, inamputable), a progression LENTE, echeance repoussee par les soins de Magnus - Markiona est condamnee (cause de fin fixee ; quand/comment exacts OUVERTS -> roadmap). Trajectoire 1848 / 1849 / 1849-1850 ajoutee. Relation Lea remplie (le hook W5 '-> roadmap Ere 2' resolu). Psychologie : addiction au travail (cause de la surexposition) et dissolution du deni d'attachement a Aurus.
 
@@ -78,6 +79,7 @@
 ### DLC Overture (1850) : pas de confrontation avec P [DIVERGENCE RP - revise W5]
 - Markiona n'est PLUS au Zoo en 1850 : elle est fugitive de l'Ordre depuis 1847 (cf. Trajectoire). Le Zoo reste sous controle de l'Ordre.
 - P n'affronte PAS Markiona. Le boss du Zoo en 1850 est l'Ange de l'Arc RECONSTRUIT par l'Ordre (cf. typologie, SORT de l'Ange).
+- Le Two-Faced Overseer (boss canon de l'Overture) est [DIVERGENCE RP] SA creation : un chef de labo. En son absence (depuis sa fuite de 1847) et au service de l'Ordre, il est devenu l'instrument de la degenerescence des Listeners en Gold Coin Trees - une horreur qu'elle n'a JAMAIS commandee. Le decouvrir est un palier de son chemin de croix a l'Overture (cf. Trajectoire datee ; detail -> roadmap Ere 3). cf. Creatures/Boss_et_Creatures.md, Systemes/Gold_Coin_Tree.md.
 - En 1850, Markiona est aux cotes de Magnus (Stalkers - cf. roadmap Ere 2/3) ; lors des evenements d'Overture, elle est blessee face a Arlecchino dans la melee de la Rose Estate (P + Lea + Magnus + Markiona). Detail -> roadmap Ere 3.
 
 ## Capacites
@@ -133,7 +135,8 @@
 | 1848 (Les Loups) | Masques de loup (Loup Noir / Louve Blanche) ; le duo rejoint les Stalkers (envie de Magnus) ; missions avec les Sweepers ; rencontre Lea (cheffe) et Romeo | Mere en cavale -> Stalker masquee (la Louve Blanche) |
 | 1849 (reveal) | Apres une mission anti-alchimiste, le masque blanc tombe ; Lea la reconnait (Romeo, Alidoro presents) ; rage de Lea, menace de mort ; Magnus s'interpose et revele sa nature de pantin | Identite exposee ; en sursis aupres de Lea |
 | 1849-1850 (reconciliation) | Au fil des missions, l'amitie d'antan reprend le dessus : Markiona a change, en bien | Anciennes amies brouillees -> reconciliees |
-| 1850 (Overture) | Aux cotes de Magnus (Stalkers) ; blessee face a Arlecchino a la Rose Estate (melee P+Lea+Magnus+Markiona) ; ramenee par Magnus | Survivante ; detail -> roadmap Ere 3 |
+| 1850 (Overture, Ere 3) | Chemin de croix en trois paliers a travers ce qu'elle a fui : le Zoo (ses Pantins de l'Arc reprogrammes, l'Ange reforge en gardien), le complexe Zelator (ses labos, ou son Two-Faced Overseer degenere les Listeners en Gold Coin Trees - horreur non commandee), puis le charnier de la Rose Estate. Son "je ne regrette rien" se fissure | Confrontation au passe ; la facade orgueilleuse se lezarde |
+| 1850 (Rose Estate) | Melee contre Arlecchino aux cotes de P, Lea et Magnus ; Arlecchino la blesse a la cuisse avant d'etre detruit ; Magnus l'emmene a l'abri par un chemin long mais sur | Survivante, blessee ; detail -> roadmap Ere 3 |
 | Suite | Condamnee par la Petrification pulmonaire ; echeance repoussee par les soins de Magnus ; placement exact -> roadmap | Terminale, en sursis |
 
 ---

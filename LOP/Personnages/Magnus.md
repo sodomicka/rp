@@ -1,6 +1,7 @@
 # Magnus
 
-- version : W4
+- version : W5
+- note W5 : Overture (Ere 3, 1850). + Receptivite passive a l'Ergo (implication d'arc : resonance subie a l'emission d'un Listener, non-pouvoir, distincte de la projection spectrale canon de Sophia). + Trajectoire datee Ere 3 (rencontre de P, Ange de l'Arc battu en solo, vision de Sophia, Arlecchino vaincu, sortie vers la Frenzy).
 - STATUT GLOBAL : OC (personnage original), protagoniste du seul RP LOP. Entite entierement hors jeu - [DIVERGENCE RP] de bout en bout (aucun filet canon : tout ce qui n'est pas dans cette fiche n'existe pas). Place dans {Univers}/Personnages/ par decision du worldbuilder (beaucoup de lore se batira autour de lui).
 - POINT DE DEPART JOUABLE : l'eveil de Magnus (1847, complexe Zelator). Le joueur incarne Magnus depuis son tout premier souffle. Le NOYAU ci-dessous = son etat a l'instant de l'eveil ; l'apprentissage, la fuite et l'annee a Aurus sont de la TRAJECTOIRE DATEE (post-depart).
 
@@ -22,6 +23,7 @@
 - Sommeil : dort comme un humain. Rituel : s'endort chaque soir en relisant l'inscription de sa rapiere "Parfaite" (cf. Capacites).
 - Gout personnel : raffole des thes noirs - d'abord par mimetisme de Markiona, puis par habitude et avis propre. Premiere individuation (il part d'elle pour devenir lui). A Aurus, le the noir est achete au marche du dimanche et parfume des aromes que le duo cultive dans le jardin du havre (violette, lys, rose, cassis, bergamote, framboise sous lampe a Ergo). cf. Lieux/Aurus.md.
 - Le cristal emeraude : implante dans le coeur AVANT l'assemblage final. Markiona l'active par son gantelet (plus besoin de toucher au noyau). Le demantelement serait la seule facon de changer son corps - seul le cristal subsisterait (trop rare, unique). Markiona ne le fera JAMAIS : elle le juge deja parfait.
+- Receptivite passive a l'Ergo [DIVERGENCE RP - implication d'arc] : Magnus n'est PAS un Listener. Mais la purete inedite de son Ergo (le cristal) entre en RESONANCE PASSIVE avec l'emission d'un Listener actif lorsqu'il se trouve en milieu sature d'Ergo (typiquement les mines). Reception subie, jamais un pouvoir : il ne peut ni la declencher, ni la viser, ni y repondre. A DISTINGUER de la projection spectrale canon de Sophia, qui vient de la machine et survient plus tard. Premiere et seule manifestation a ce jour : la vision de Sophia aux mines d'Ergo (Overture 1850 ; cf. Trajectoire datee). Le papillon bleu est le signe de Sophia (canon).
 - Page blanche absolue : aucun residu MENTAL de la matiere premiere. Markiona a manie assez de corps (morts ou vifs) pour effacer la memoire musculaire et reinitialiser le cerveau. Rien du jeune alchimiste mort ne subsiste a l'interieur - ni souvenir, ni reflexe, ni reminiscence. Son ENVELOPPE physique, en revanche, demeure (cf. Relations, jeune alchimiste).
 
 ## Codes (statut unique)
@@ -69,6 +71,11 @@
 | 1848-1849 (Ere 2) | Missions au service du peuple aux cotes des Sweepers ; amitie avec Romeo ; au quotidien, routines de soin qui rachetent du temps sur la Petrification de Markiona, et cuisine | Ancrage social ; role de pourvoyeur et de soignant |
 | 1849 (Ere 2) | Le masque blanc de Markiona tombe apres une mission anti-alchimiste : son passe de Marionnettiste de la Mort est decouvert. Magnus revele a son tour, naivement, sa nature de pantin. Alidoro desamorce (raisonnement d'enqueteur), Lea rage puis se reconcilie au fil des missions | Identites devoilees ; place consolidee dans l'union |
 | 1850 (fin Ere 2) | Romeo part seul en reconnaissance au Zoo | Derniere maille avant Overture (Ere 3) |
+| 1850 (Ere 3, Overture) | Lea apporte trois deuils a Aurus (Romeo disparu au Zoo, domaine Monad massacre, ses generaux introuvables) ; le trio masque part pour le Krat Zoo et y croise P - un humain a bras de metal que Magnus reconnait d'emblee comme un pantin de chair. Curiosite fascinee : un autre comme lui | Entree dans l'Overture ; premiere rencontre avec P |
+| 1850 (Ere 3) | Traversee Zoo -> Zelator -> Relic -> cote en quatuor de fait avec P ; synergie de combat etonnante. Magnus affronte et detruit SEUL l'Ange de l'Arc reforge et prend la cle du carnaval sur sa carcasse | Montee en puissance ; complicite naissante avec P (presage 1852) |
+| 1850 (Ere 3, mines d'Ergo) | Premiere manifestation de sa receptivite Ergo : un papillon bleu, puis une vision de Sophia captive et de Simon lui annoncant que "sa cage l'attend". Reception subie, hors de tout controle | Receptivite Ergo revelee ; fil Sophia ouvert (vers Ere 5) |
+| 1850 (Ere 3, Rose Estate) | Domaine Monad : charnier, puis les oeuvres d'Arlecchino - Romeo mutile, exsangue, mourant. Magnus et Lea s'effondrent. Combat contre Arlecchino, qui blesse Markiona a la cuisse ; Arlecchino detruit. P repart dans l'Ergo en lancant "a bientot, mon ami" - Magnus n'y entend qu'une formule | Premier grand deuil (Romeo) ; Arlecchino vaincu ; "a bientot" non compris (paye en 1852) |
+| 1850 (fin Ere 3) | Magnus laisse Lea veiller Romeo et emmene Markiona blessee a l'abri par un chemin long mais sur. APRES leur depart, Geppetto gagne la Rose Estate (hors-champ de Magnus) | Sortie de l'Overture ; bascule vers la Frenzy (Ere 4) |
 
 ---
 

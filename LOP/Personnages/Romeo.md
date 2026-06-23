@@ -1,6 +1,7 @@
 # Romeo
 
-- version : W4
+- version : W5
+- Note de revision W5 : couche Overture (Ere 3, 1850). Detail des trois "oeuvres" macabres d'Arlecchino (manteau + broche Monad a la foire ; bras arraches + Carlo Graduation Pendant au lustre, recupere et rendu par Lea -> Tchekhov Ere 5 intact ; pose christique au domaine Monad). Nettoyage du locket (retire : la reconnaissance de P par Lea passe desormais par le combat, cf. Lea_Florence_Monad.md). Trajectoire Overture affinee, non dupliquee.
 - Note de revision W4 : couche soin + motif de la reco (decisions worldbuilder). Romeo connait la Petrification (bras gauche) de Lea et lui prodigue soins / soutien au quotidien - binome soignant en miroir de Magnus / Markiona (les deux fieres encaissent en silence ; Alidoro fournit les anti-douleurs, Romeo fait le reste). La reco au Zoo est motivee par la rumeur du retour de "l'Artiste de sang" (moniker 1850 d'Arlecchino - cf. Personnages/Arlecchino.md) ; elle est cadree comme la derniere erreur de sa vie.
 - Note de revision W3 : couche Ere 2 (Les Loups, 1848-1850). Role Ere 2 : second de Lea dans l'union des Stalkers, masque de Roi (presage), amitie avec le duo (surtout Magnus) ; au reveal, suit la colere de Lea par loyaute (elle lui a raconte Markiona ; lui ne la connait pas en personne) ; clot l'ere en partant SEUL en reconnaissance au Zoo (frontiere vers Overture). Trajectoire Ere 2 ajoutee.
 
@@ -56,8 +57,9 @@
 ### DLC Overture
 
 - Arlecchino kidnappe Romeo (par vengeance contre Lea Florence).
+- [DIVERGENCE RP] Arlecchino ne se contente pas de l'enlever : il le mutile en TROIS "oeuvres" macabres jalonnant le chemin, de la foire au domaine Monad, exposees comme la signature d'un artiste. 1re oeuvre, a la foire : le manteau ensanglante de Romeo et sa broche Monad (la bleue de feu Carlo) - l'insigne que Lea reconnait (cf. Objets/Objets_et_Reliques.md). 2e oeuvre, au lustre : les bras arraches, le Carlo Graduation Pendant serre dans une main - Lea le recupere et le LUI rend (le pendentif reste a Romeo : Tchekhov Ere 5 intact). 3e oeuvre, au domaine Monad : Romeo en pose christique sur des bras de pantin. Detail -> roadmap Ere 3.
 - P suit la piste de Lea Florence pour retrouver Romeo.
-- Lea Florence trouve Romeo mourant a la Rose Estate, dans ses bras. Elle reconnait le locket de Romeo sur P.
+- Lea Florence trouve Romeo mourant a la Rose Estate et le tient dans ses bras.
 - La fin DLC : Romeo mourant dans les bras de Lea. P est rappele au present (fin du voyage temporel) AVANT que Geppetto monte les escaliers avec la caisse du Nameless Puppet ; P ne se croise pas avec Geppetto et n'assiste pas a la suite.
 - [INTERPRETATION] Romeo est encore vivant a ce moment (agonisant) ; sa transformation en pantin intervient apres les evenements du DLC.
 
@@ -109,7 +111,7 @@
 | Jeunesse | Joue de la musique avec Carlo et Lea ; entrainement stalker | Humain, aspirant stalker |
 | 1848-1850 (Les Loups) [DIVERGENCE RP] | Second de Lea dans l'union des Stalkers (masque de Roi) ; amitie avec le duo ; suit la colere de Lea au reveal | Apprenti -> bras droit de l'union |
 | 1850 (frontiere) [DIVERGENCE RP] | Sur la rumeur du retour de "l'Artiste de sang" (Arlecchino) pres du Zoo, part SEUL en reconnaissance - sa derniere erreur | Sur le point d'etre enleve |
-| DLC (passe) | Kidnappe par Arlecchino sur ordre de vengeance ; retrouve mourant a la Rose Estate | Mourant, humain |
+| 1850 (Overture, Ere 3) [DIVERGENCE RP] | Kidnappe par Arlecchino (vengeance contre Lea), mutile en trois "oeuvres" exposees de la foire au domaine Monad ; descendu mourant, veille par Lea. Corps recupere par Geppetto APRES, hors-champ (Ere 4) | Mourant ; au seuil de la transformation |
 | Post-DLC (hors ecran) | Transforme en pantin par Geppetto ; Law Zero ; Puppet Frenzy | King of Puppets |
 | King of Puppets (base game) | Reprise de memoires ; revolte contre Geppetto ; envoie des messagers a P ; show a l'opera | Rebelle lucide |
 | Fin base game | Affronte P a l'opera ; vaincu ; mort | Libere |

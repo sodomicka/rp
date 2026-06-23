@@ -1,6 +1,7 @@
 # Lea Florence Monad
 
-- version : W4
+- version : W5
+- Note de revision W5 : couche Overture (Ere 3, 1850). Triple deuil (domaine Monad massacre / Sophia crue morte ; Veronique abattue de sa main ; Romeo mutile mourant). Reconnaissance de P par le COMBAT (remplace le locket, retire). Rose Sword remise a P EN MAINS PROPRES (divergence chaleureuse, meme resultat canon). Roles vis-a-vis de Veronique (abattue) et Lumacchio (acheve). Nettoyage du locket (l.69 : photo du trio retiree). Trajectoire Overture affinee, non dupliquee.
 - Note de revision W4 : couche soin (decision worldbuilder). Lea est trop fiere pour parler de sa maladie ; elle l'encaisse en silence (comme Markiona et Veronique - motif des trois fieres, laisse implicite). Son binome soignant est Romeo : en plus des anti-douleurs fournis par Alidoro (canon), Romeo assure son soin au quotidien - miroir exact de Magnus aupres de Markiona. cf. Personnages/Romeo.md.
 - Note de revision W3 : couche Ere 2 (Les Loups, 1848-1850). Nouvelle section Physique et sante : Petrification localisee au bras GAUCHE (severe, manches longues + gants, anti-douleurs) - non terminale (c'est le Nameless qui la tue, pas la maladie) ; [DIVERGENCE RP] ce bras gauche inutilisable justifie que la peau prelevee pour la couche-chair de P n'ait pas de bras gauche -> P recoit le Legion Arm a gauche (cf. Personnages/Pinocchio.md). Role Ere 2 : figure unificatrice de l'union des Stalkers (masque a l'allure de gladiateur), rencontre du duo, scene du reveal (reconnaissance de Markiona, rage, Magnus s'interpose), reconciliation. Relation Markiona remplie (hook W2 resolu).
 
@@ -38,9 +39,12 @@
 ### DLC Overture (1850)
 - Lea est presentee comme souffrant de la Petrification Disease (bras), sous anti-douleurs fournis par le Tracker (Alidoro). Elle cherche son apprenti Romeo, enleve par Arlecchino en representation.
 - Laisse un camp pres de l'Altar of the Arm of God ; enregistrement audio de ses messages (dont sa mise en garde a Markiona, "my sadly not departed friend").
+- [DIVERGENCE RP] En chemin, elle doit abattre Veronique DE SA MAIN : la "cure" donnee a Veronique etait une neurotoxine de Lumacchio, qui l'a rendue folle. Mourante, Veronique revele la trahison de Lumacchio et remercie Lea. (Detail -> Personnages/Veronique.md, roadmap Ere 3.)
+- [DIVERGENCE RP] Lumacchio, croise "en mission" a l'Hotel Krat, se revele traitre au service de Simon ; a la cote, il avale une fiole alchimiste et tourne a la carcasse. Battu, il meurt suppliant ; Lea l'acheve. (Detail -> Personnages/Lumacchio.md, roadmap Ere 3.)
 - Parvient a la Rose Estate (Monad Charity House) pour retrouver Romeo.
+- [DIVERGENCE RP] La Rose Estate est un charnier : le domaine Monad a ete massacre (l'assaut de Simon - Valentinus et Isabelle tues, Sophia disparue). Lea croit TOUS les siens morts, Sophia comprise. Joint a la perte de Veronique et a Romeo mutile mourant, c'est un TRIPLE deuil qui l'accable. (Le massacre = evenement canon ; cf. chronologie, Personnages/Sophia_Monad.md.)
 - Combat Arlecchino. [DIVERGENCE RP] La melee est a quatre : P + Lea + Magnus + Markiona contre Arlecchino (cf. roadmap Ere 3).
-- Une fois Arlecchino vaincu, P est rappele au present avant l'arrivee de Geppetto ; Lea ne comprend pleinement qui etait P qu'apres son depart (trop tard). [DIVERGENCE RP] Magnus ramene Markiona (blessee) ; Lea reste veiller Romeo mourant.
+- Une fois Arlecchino vaincu, P est rappele au present avant l'arrivee de Geppetto. [DIVERGENCE RP] Avant qu'il ne disparaisse, Lea lui remet la Rose Sword EN MAINS PROPRES pour le remercier (divergence chaleureuse ; meme resultat que le canon, ou P obtient l'epee autrement). [DIVERGENCE RP] Elle PRESSENT qui il est - il se bat exactement comme elle : elle SENT que P est Carlo, sans pouvoir l'expliquer, et ne le comprend pleinement qu'apres son depart (trop tard). Magnus ramene Markiona (blessee) ; Lea reste veiller Romeo mourant.
 - Tuee par Nameless Puppet (instrument de Geppetto, qui arrive apres le depart de P et de Magnus) une fois Arlecchino vaincu. Elle sourit dans les bras de Romeo mourant, signe d'acceptation de sa fin.
 
 ### Impact sur la timeline alteree (DLC)
@@ -66,7 +70,7 @@
 - Valentinus Monad : pere adoptif ; lui offre la Rose Sword. Elle lui ecrit une lettre de pardon (trahison sentimentale de sa part, douleur du Monad path, fierte pour ses apprentis). Cf. Personnages/Valentinus_Monad.md.
 - Sophia Monad : soeur adoptive. Cf. Personnages/Sophia_Monad.md.
 - Carlo : enfant du Monad Charity House ; la supplie de lui apprendre l'epee ; meurt pendant son absence. Elle regrette de l'avoir abandonne.
-- Romeo : apprenti stalker vedette ; [DIVERGENCE RP - Ere 2] son second dans l'union des Stalkers (masque de Roi) ; son binome soignant - il prend soin de sa Petrification (bras gauche) au quotidien, elle qui est trop fiere pour en parler. La photo sanguinolente dans le locket contient Lea, Romeo et un troisieme individu. Elle cherche Romeo enleve par Arlecchino tout au long du DLC. Cf. Personnages/Romeo.md.
+- Romeo : apprenti stalker vedette ; [DIVERGENCE RP - Ere 2] son second dans l'union des Stalkers (masque de Roi) ; son binome soignant - il prend soin de sa Petrification (bras gauche) au quotidien, elle qui est trop fiere pour en parler. Elle cherche Romeo enleve par Arlecchino tout au long du DLC. Cf. Personnages/Romeo.md.
 - Simon Manus : adversaire ; prime officieuse posee par Simon sur sa tete -> sa disparition. Cf. Personnages/Simon_Manus.md.
 - Arlecchino : ennemi jure ; l'a vaincu dans le passe (lui a retire bras et jambes) ; Arlecchino prend sa revanche via le kidnapping de Romeo. Combat final du DLC.
 - Markiona : ancienne amie BROUILLEE ("my sadly not departed friend" dans son message canon). [DIVERGENCE RP - Ere 2] Les deux s'etaient perdues de vue ; au reveal (1849), Lea reconnait la Louve Blanche, enrage et menace de la tuer pour ses horreurs passees, puis - convaincue par la logique d'Alidoro et l'utilite reelle de Markiona aupres du peuple - se reconcilie au fil des missions. cf. Personnages/Markiona.md.
@@ -93,8 +97,9 @@
 | 1848-1850 (Les Loups) [DIVERGENCE RP] | Figure unificatrice de l'union des Stalkers, assistee de Romeo ; rencontre et confiance avec le duo Loup Noir/Louve Blanche | Lea -> cheffe de l'union pre-Frenzy |
 | 1849 (reveal) [DIVERGENCE RP] | Le masque de Markiona tombe ; rage, menace de mort ; Magnus s'interpose ; Alidoro desamorce | Amie trahie -> en froid arme |
 | 1849-1850 (reconciliation) [DIVERGENCE RP] | Au fil des missions, l'amitie d'antan reprend : Markiona a change | Reconciliee |
-| DLC (1850, avant base game) | Malade (bras), sous anti-douleurs ; cherche Romeo enleve par Arlecchino ; parcours zoo -> Zelator -> cote -> Rose Estate | Lea -> en mission de sauvetage |
-| DLC : fin | Melee a quatre contre Arlecchino (P+Lea+Magnus+Markiona) ; Arlecchino vaincu ; P rappele ; Magnus ramene Markiona ; Nameless tue Lea ; [DIVERGENCE RP] sa peau prelevee pour P | Lea -> morte |
+| 1850 (Overture, Ere 3) [DIVERGENCE RP] | Malade (bras), sous anti-douleurs ; cherche Romeo enleve par Arlecchino ; parcours zoo -> Zelator -> cote -> Rose Estate. En chemin : abat Veronique (rendue folle par la neurotoxine de Lumacchio) et acheve Lumacchio (traitre de Simon, tourne carcasse) | En mission de sauvetage ; premieres pertes |
+| 1850 (Rose Estate, Ere 3) [DIVERGENCE RP] | Triple deuil : domaine Monad massacre (assaut de Simon - Valentinus, Isabelle morts, Sophia disparue qu'elle croit morte), Veronique, et Romeo mutile mourant. Melee a quatre contre Arlecchino (P+Lea+Magnus+Markiona) ; Arlecchino vaincu. Pressent que P est Carlo (il combat comme elle) ; lui remet la Rose Sword en mains propres ; ne comprend qu'apres son depart | Effondrement ; reconnaissance tardive de Carlo |
+| 1850 (fin Overture, Ere 3) | P rappele au present ; Magnus ramene Markiona blessee ; Lea reste veiller Romeo. Le Nameless Puppet (instrument de Geppetto, arrive apres) la tue ; elle sourit dans les bras de Romeo. [DIVERGENCE RP] Sa peau sera prelevee par Geppetto pour la couche-chair de P | Morte (par le Nameless, pas la Petrification) |
 
 ---
 

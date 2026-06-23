@@ -1,6 +1,7 @@
 # Sophia Monad
 
-- version : W1
+- version : W2
+- note W2 : couche Overture (Ere 3, 1850). Precision du timing de la capture : a l'assaut de Simon, Sophia est capturee et EMMENEE vers l'Aisle, PAS ENCORE en cage ni branchee a la machine (le branchement vient plus tard). Crue MORTE par Lea et les survivants du domaine Monad, alors qu'elle est vivante (ironie). Distinction posee : la resonance Ergo PASSIVE par laquelle Magnus la "percoit" a l'Overture (cf. Personnages/Magnus.md) est distincte de sa projection spectrale ulterieure, issue de la machine (base game).
 
 ## Identite
 
@@ -25,7 +26,7 @@
 - Temoigne du voyage de P, de son evolution humaine : "comment P peut-il depasser les limites d'un pantin ? Comment le mensonge le change-t-il ?"
 - Lore sur l'Ergo : explique a P que l'Ergo est l'essence humaine purifie, anciennement vivant, piege par la maladie. Explique l'origine des Gold Coin Trees : "creatures pathetiques creees depuis les Listeners - les larmes tristes de ceux qui sont devenus des arbres."
 - Lore petrification : decouvre que la Petrification Disease piege l'Ergo dans le corps petrife et utilise l'Ergo pour manipuler le temps (cf. journal de Sophia trouve dans sa chambre au DLC).
-- DLC (passe) : Simon tente de l'attirer au port ; elle decline (timing suspect). Simon assaut la Rose Estate -> mort de Valentinus et Isabelle -> Simon emmene Sophia a l'Aisle et la branche a la machine.
+- DLC Overture (1850) : Simon tente de l'attirer au port ; elle decline (timing suspect). Simon assaut la Rose Estate (domaine Monad) -> mort de Valentinus et Isabelle -> il CAPTURE Sophia et l'EMMENE vers l'Aisle of Alchemists. A ce stade elle n'est PAS ENCORE en cage ni branchee a la machine (le branchement vient plus tard). [DIVERGENCE RP] Lea et les survivants la croient MORTE au domaine Monad, alors qu'elle est vivante - Magnus la "percoit" captive par resonance Ergo passive (cf. Personnages/Magnus.md), distincte de la projection spectrale ulterieure (issue de la machine).
 - Best ending : si P a assez d'humanite (cheveux gris), il place l'Ergo de Sophia dans un pantin pour lui permettre de vivre.
 
 ## Capacites
@@ -73,7 +74,7 @@
 | Naissance (Listener) | Herite de l'aptitude Listener de sa mere Isabelle | Enfant de la famille Monad |
 | Childhood | Parle au jeune Carlo abandonne par Geppetto (visions sur la plage noire) | Lien affectif avec Carlo |
 | DLC (passe) | Simon tente de l'attirer au port ; elle decline | Mefiance envers Simon |
-| DLC (passe, fin) | Assaut de Simon : mort de Valentinus et Isabelle ; Simon emmene Sophia a l'Aisle | Capturee, branchee a la machine |
+| 1850 (Overture, Ere 3) | Assaut de Simon au domaine Monad : mort de Valentinus et Isabelle ; Sophia capturee et emmenee vers l'Aisle. Crue morte par Lea (vivante en fait) | Captive, PAS encore en cage ni branchee a la machine |
 | Trame base game | Projection spectrale dans tout Krat, guide P, alimente les Stargazers, rewind a chaque mort | Corps en souffrance ; ame fragmentee |
 | Confrontation finale | Demande a P la liberation | Bifurcation : mort ou survie dans pantin |
 | Best ending | P place son Ergo dans un pantin | Nouvelle vie |
