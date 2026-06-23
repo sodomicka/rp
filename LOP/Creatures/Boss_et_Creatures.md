@@ -1,12 +1,13 @@
 # Boss et Creatures
 
-- version : W1
+- version : W2
+- note W2 : ajout du bloc Ange de l'Arc reforge (Overture / Ere 3, 1850 ; [DIVERGENCE RP]). Reforge de son epave laissee a Zelator en 1847, gardien du Krat Zoo pour le compte de l'Ordre, battu par Magnus en solo.
 
 > Fiche groupee. Chaque entite = un bloc independant.
 > Entites : Parade Master, Scrapped Watchman / Murphy, Fuoco, Mad Donkey, King of Puppets,
 >            Walker of Illusions, Champion Victor, Green Monster of the Swamp,
 >            Anguished Guardian of the Ruins, Two-Faced Overseer, Tyrant Predator,
->            Nameless Puppet, Door Guardian.
+>            Ange de l'Arc reforge ([DIVERGENCE RP]), Nameless Puppet, Door Guardian.
 
 ---
 
@@ -281,6 +282,38 @@
 
 ### Sort
 - Vaincu par P.
+
+---
+
+## ANGE DE L'ARC (reforge)
+
+> [DIVERGENCE RP] Entite issue de l'OC. cf. Personnages/Markiona.md (typologie des Pantins de l'Arc),
+> Personnages/Magnus.md, Roadmap/Magnus/Roadmap_03_Overture.md (etapes 3-4).
+
+### Identite
+- Nom : Ange de l'Arc (etat reforge).
+- Nature : Pantin de l'Arc de type "ange", creation de Markiona du temps de l'Ordre. [DIVERGENCE RP]
+- Pour la nature exacte d'un Pantin de l'Arc : cf. Personnages/Markiona.md (typologie). Ne pas rededuire ici.
+
+### Role
+- Origine : l'un des Pantins de l'Arc de Markiona ; reduit a l'etat d'epave et laisse a la Zelator
+  Facility en 1847, lors de la fuite de Markiona et de l'eveil de Magnus (cf. Roadmap_01,
+  Personnages/Magnus.md, Personnages/Markiona.md).
+- Apres le depart de Markiona, l'Ordre l'a REFORGE a partir de cette epave et poste comme gardien
+  du Krat Zoo pour son propre compte. Markiona n'a plus aucune autorite sur lui (pas plus que sur les
+  Pantins de l'Arc reprogrammes qui infestent le Zoo).
+- Overture (1850, plein hiver) : trouve dans la voliere du Zoo, au bout de la serre ; il garde l'acces
+  au tunnel verrouille menant a la foire / au carnaval.
+- [DIVERGENCE RP] Magnus demande a l'affronter SEUL et le detruit. La cle du tunnel verrouille (cle du
+  carnaval) est recuperee sur sa carcasse. Canon : c'est P qui recupere la cle du carnaval ; ici, Magnus.
+
+### Lien narratif
+- Boucle un fil de l'Ere 1 : l'epave laissee a Zelator en 1847 revient en gardien reforge en 1850.
+- Sa chute en combat singulier sert de jalon a la montee en puissance de Magnus dans l'Overture
+  (synergie avec P aux abords, mais l'Ange tombe de la seule main de Magnus).
+
+### Sort
+- Detruit par Magnus seul (Overture, 1850).
 
 ---
 
