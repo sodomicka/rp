@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren02_E7_Vers_Weise
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_02_Plateau_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren02_E6_Rufen_Revolte.md
@@ -32,6 +32,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture (la Diagoldze elle-meme n'est pas un objet mais un etat du territoire).
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Apres Rufen, le groupe poursuit vers le nord. Au loin, une anomalie : une region entiere figee dans l'or. La Cite Fortifiee de Weise et tout ce qui l'entoure, transmutee par la Diagoldze du dernier Sage de la Destruction. Le groupe approche. Fin du segment Plateau Nord.
+- Role de Schein : pressentiment. Il connait la Diagoldze - il en a defait une (~590 av., le bras de Frieren). Voir une region entiere doree est d'un autre ordre de grandeur que ce qu'il a accompli sur un bras. Premiere tension vers le segment a venir.
+- Aboutissement des fils chauds : Magie de lumiere / nature divine - rappel implicite du lien de Schein avec la Diagoldze (ponctuel vs regional) ; graine active, non resolue. L'echelle regionale est une autre affaire.
+- Issue de l'etape : le groupe atteint l'approche de Weise. Le segment Plateau Nord se clos. L'entree dans les Terres Dorees et l'arc de Weise s'ouvrent.
 
 ## Notes de frontiere
 - Ce qui se passe en entrant dans la region de Weise -> Roadmap_Frieren_03_Terres_Dorees.

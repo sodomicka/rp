@@ -1,6 +1,6 @@
 # Fiche_Arc_Aeusserst_E1_Arrivee_Retrouvailles
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Aeusserst.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark02_E26_Aeusserst_Arrivee.md
@@ -39,6 +39,13 @@
 
 ## Objets presents ou evoques
 - Bague de lotus (Frieren) - portee par Frieren depuis ~89 ans ; sens connu depuis Raad ; aucun beat specifique dans cette etape.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe arrive a Aeusserst. Frieren et Fern s'inscrivent a l'examen de premiere classe. Schein tente de s'inscrire aussi. Serie intervient : un demon n'a pas sa place dans une epreuve de magie humaine - sa specialisation magique est incompatible, il serait un mauvais mage humain. Refus de candidature. Serie invite cependant Schein a observer les epreuves par projection magique depuis ses quartiers. Choc des 836 ans : premiere rencontre physique Serie/Schein depuis la rupture (~740 av. An 0). Serie attendait ce moment - elle a fonde l'Association et choisi Aeusserst en partie pour cela, la condition posee a la rupture ("pas tant que mon pere vivra") etant levee depuis la mort du Roi (An 10). Schein est perdu : il choisit de mettre sa relation avec Frieren EN PAUSE et promet qu'il ne se passera rien avec aucune des deux tant qu'il ne s'est pas decide. Debut de la guerre froide entre les deux elfes.
+- Role de Schein : seuil. 836 ans apres la rupture avec son premier amour, il retrouve Serie - juste apres avoir compris (etape 20) ce qu'il avait offert a Frieren. Il refuse de trancher a chaud : la pause est un acte de loyaute envers les deux, et c'est precisement ce qui declenche la guerre froide.
+- Aboutissement des fils chauds : Peur d'aimer - le triangle se cristallise, detonation en cours sur tout le segment. Bague de lotus - aucun beat ici, fil actif mais payoff reporte. Nature de Schein - Serie le reobserve a pleine puissance apres 836 ans, mais son intuition reste VERROUILLEE dans ce segment.
+- Issue de l'etape : Schein est refus de candidature mais integre a l'observation des epreuves. La pause est declaree. La guerre froide entre Serie et Frieren demarre. L'etape suivante commence avec le dispositif de projection installe.
 
 ## Notes de frontiere
 - La reaction precise de Schein aux retrouvailles (au-dela du choc initial) -> roadmap.

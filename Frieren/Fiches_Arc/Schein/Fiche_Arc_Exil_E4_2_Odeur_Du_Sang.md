@@ -1,6 +1,6 @@
 # Fiche_Arc_Exil_E4_2_Odeur_Du_Sang
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Exil_Solo.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Exil_E4_1_Vengeur_Petrifie.md
@@ -31,6 +31,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein capte l'odeur du sang humain. Meme reflexe qu'une centaine de fois avant. Il court. Ellipse - ce qu'il trouvera appartient a l'etape suivante.
+- Role de Schein : le mecanisme se declenche une derniere fois dans l'ere de l'Exil. Il court sans savoir que cette course-ci sera differente.
+- Aboutissement des fils chauds : aucun Tchekhov specifique ne se declenche dans cette etape. L'etape est une bascule pure - le mecanisme s'active pour la derniere fois avant la transition.
+- Issue de l'etape : Schein est en mouvement vers un village. L'ere de l'Exil solo se clot sur ce depart. Ce qu'il trouvera au bout de la course appartient a l'ere suivante.
 
 ## Notes de frontiere
 - Ce que Schein trouve au bout de la course (Serie, le village, la scene de premiere rencontre) -> ere suivante (cf. Roadmap_Serie_01_Premier_Contact, Bloc 1).

@@ -1,6 +1,6 @@
 # Fiche_Arc_Chateau_E5_2_Massacre_Bluete
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chateau.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chateau_E5_1_Semaine_Confort.md
@@ -36,6 +36,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le Roi ordonne le massacre de Bluete - village elfe gros et ancien, garde en reserve et employe comme arme pour briser Schein. L'escouade se divise : Schein, Basalt, Porphyr, Gabbro prennent chacun une portion du village. Schein massacre la sienne - vide, brise. 230 victimes au total. Frieren (~300 ans, ~15 apparents) abat Basalt dans sa portion du village. La perturbation de mana de la chute de Basalt attire Schein vers cette zone. Frieren se defend et detruit la main gauche de Schein. La peur de mourir de l'enfant elfe - preuve qu'une proie a des sentiments - fait remonter l'empathie de Schein. La braise que la cellule avait ecrasee se rallume : ce n'est pas une resistance interne, c'est Frieren qui la ranime.
+- Role de Schein : le pivot. La brisure fonctionne - il massacre, vide. Ce qui la defait n'est pas une resistance interne : c'est Frieren. Sa peur de mourir rallume ce que la torture avait eteint.
+- Aboutissement des fils chauds : Empathie de Schein - detonation. La peur d'une proie ranime ce que la torture avait comprime. Le fil explose ici. Peur d'aimer - premiere rencontre avec Frieren : le lien nait dans la violence. Ce socle est pose et actif.
+- Issue de l'etape : Basalt est mort. La main gauche de Schein est detruite. Frieren est en vie, Schein ne la poursuit pas. L'etape se clot sur ce tournant emotionnel.
 
 ## Notes de frontiere
 - La mort de Basalt (tue par Frieren) -> se produit au cours de l'etape (roadmap).

@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren03_E2_Barriere_Solitaer
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_03_Terres_Dorees.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren03_E1_Entree_Golden_Land.md
@@ -32,6 +32,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Solitaer - la Grande Demone epargnee par Schein au Monument (~An 7) - brise seule la Grande Barriere du Golden Land apres deux mois d'analyse depuis l'exterieur. Exploit que Macht lui-meme ne pouvait realiser (la barriere est une coalescence de theories magiques humaines multiples). Elle rejoint Macht dans Weise et lui propose de l'aider dans sa quete de coexistence - pour en demontrer l'impossibilite. Les deux demons ne se coordonnent pas vraiment. Pour Schein, le retour de Solitaer est un compte a regler : il avait promis de la tuer si elle s'en prenait a des humains. La condition est sur le point d'etre remplie.
+- Role de Schein : porteur d'une dette ancienne qui revient. Sa clemence d'il y a quatre-vingt-dix ans a un cout : la demone qu'il a epargnee est l'instrument de la chute de Macht et bientot une menace pour Fern et Stark.
+- Aboutissement des fils chauds : Empathie de Schein - la clemence du Monument (epargner un demon par dette) detone : Solitaer vit et agit. Le geste misericordieux a des consequences ; Tchekhov en cours de detonation, tension ouverte.
+- Issue de l'etape : la barriere est brisee, Solitaer est dans Weise avec Macht. Le face-a-face avec Schein est imminent. Les conditions du double duel de l'etape 3 sont posees.
 
 ## Notes de frontiere
 - La brisure effective de la barriere par Solitaer -> roadmap.

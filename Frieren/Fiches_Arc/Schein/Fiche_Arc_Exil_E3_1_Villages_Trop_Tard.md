@@ -1,6 +1,6 @@
 # Fiche_Arc_Exil_E3_1_Villages_Trop_Tard
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Exil_Solo.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Exil_E2_2_Objectif_Cristallise.md
@@ -33,6 +33,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Deuxieme village, troisieme, quatrieme. Le schema se repete : l'odeur du sang, la course, les ruines. Le premier avait le choc du miroir - les suivants perdent la surprise et gagnent en poids par la repetition. Schein sait ce qu'il va trouver et y va quand meme - il arrive quand meme trop tard. Les demons qu'il tue sont des mineurs ou des chefs locaux. Les rares survivants alimentent la legende du "Demon de Lumiere" - recits deformes, transmis de village en village. Cote demon, "le Traitre" devient un nom que les demons mineurs des marges redoutent, certains quittent la zone pour eviter la rencontre.
+- Role de Schein : le cycle s'installe. Pas de progression, pas de guerison - la repetition. L'impuissance n'est pas un evenement, c'est une condition.
+- Aboutissement des fils chauds : Empathie de Schein - chaque village confirme qu'il souffre de chaque echec. Un demon normal ne souffrirait pas. Le fil reste actif et douloureux.
+- Issue de l'etape : le motif village-trop-tard est installe comme routine. Les deux reputations (Demon de Lumiere / le Traitre) commencent a circuler. La repetition s'annonce comme horizon.
 
 ## Notes de frontiere
 - Les details specifiques de chaque snapshot (taille du village, nombre de demons, terrain, saison, nombre de survivants) -> a definir en jeu, variees (roadmap).

@@ -1,6 +1,6 @@
 # Fiche_Arc_Chateau_E1_2_Presentation_Roi
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chateau.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chateau_E1_1_Decouverte_Temple.md
@@ -32,6 +32,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Les demons mineurs presentent Schein au Roi dans la salle du trone du palais d'Ende. Schlacht, present, avertit immediatement le Roi : garder cet enfant causera sa chute. Le Roi ecarte l'avertissement - sa curiosite de chercheur ecrase son calcul de souverain. Il decide de garder Schein. Premier regard du biologiste sur son specimen le plus precieux.
+- Role de Schein : objet passif - il ne comprend pas ce qui se joue. Un enfant demon face a la puissance absolue du Roi.
+- Aboutissement des fils chauds : Prediction de Schlacht - plantee ici : "Le garder causera ta chute." L'avertissement est pose mais ignore par le Roi. Le fil est arme, le payoff appartient aux etapes ulterieures.
+- Issue de l'etape : le Roi decide de garder Schein au palais. Schein reste a Ende, sous la "protection" du Roi.
 
 ## Notes de frontiere
 - La decision du Roi de garder Schein -> roadmap (se revelee au cours de l'etape).

@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark02_E22_Malediction_Sommeil
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_02_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark02_E21_Bande_Combat.md
@@ -36,6 +36,13 @@
 
 ## Objets presents ou evoques
 - Fleur de Confusion - source de la malediction de sommeil ; presente dans la region du village.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe affronte la malediction de sommeil de la Fleur de Confusion dans un village des Terres du Nord. Stark, Fern et meme Frieren succombent. Sein, immunise nativement via la Benediction de la Deesse, tient bien plus longtemps. Le sort anti-sommeil de la Deesse que Schein avait enseigne a Heiter a l'aller (Himmel_03 etape 14, Schwer) reapparait : il est desormais porte par Sein, forme dans la lignee clericale de Heiter. Le groupe accepte ensuite une mission d'un noble local.
+- Role de Schein : sa magie divine native ressort indirectement - le sort qu'il a transmis a Heiter des decennies plus tot vit dans Sein.
+- Aboutissement des fils chauds : Sort anti-sommeil de la Deesse - PAYOFF (plante a Himmel_03 etape 14) : le meme sort, retrouve via la lignee Heiter -> Sein. Magie de lumiere / nature divine - transmission confirmee par Sein.
+- Issue de l'etape : La malediction est levee. La mission du noble est acceptee. Le groupe repart vers Rohr.
 
 ## Notes de frontiere
 - Les victimes specifiques de la malediction et la duree d'effet sur chacun -> roadmap.

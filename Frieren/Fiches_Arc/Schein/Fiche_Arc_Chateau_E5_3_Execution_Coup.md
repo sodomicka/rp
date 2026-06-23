@@ -1,6 +1,6 @@
 # Fiche_Arc_Chateau_E5_3_Execution_Coup
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chateau.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chateau_E5_2_Massacre_Bluete.md
@@ -34,6 +34,13 @@
 
 ## Objets presents ou evoques
 - Bras gauche de Schein - detruit par Frieren a Bluete ; non regenere a l'ouverture (regeneration non encore bloquee par le sceau, mais la main est manquante) | aucune fiche WIKI dediee
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein revient a Ende et exige le trone - un duel pour la souverainete. Le moteur : le degout des massacres autant que la rage, aspiration a regner sans genocide. Le Roi execute Porphyr et Gabbro d'un seul sort, sous les yeux de Schein - derniere tentative de brisure. Ca n'aboutit pas au desespoir : ca enrage. Defaite ecrasante de Schein (~600 ans contre ~4 700 ans - l'ecart est abyssal). Le Roi scelle le bras gauche de Schein (deja detruit par Frieren) : le sceau empeche toute regeneration et tout soin, permanent tant que le Roi vit. Schein fuit grace a sa vitesse superieure. Le Roi envoie des chasseurs mais ne mobilise pas les Sages.
+- Role de Schein : rage et vision confondues. Il perd tout - l'escouade, le bras, le chateau, le titre. Il ne gagne qu'une chose : sa liberte.
+- Aboutissement des fils chauds : "Merci, pere." - absent. Le silence tient jusqu'a la mort du Roi mille ans plus tard. Prediction de Schlacht - confirmee en cours : Schein massacre des demons, tente le trone. La vision de Schlacht se realise etape par etape.
+- Issue de l'etape : Schein est en fuite hors d'Ende. Bras gauche scelle, sans escouade, sans titre. Le Roi le considere comme une experience ratee. L'ere du Chateau se clot.
 
 ## Notes de frontiere
 - L'execution de Porphyr et Gabbro -> se produit au cours de l'etape (roadmap).

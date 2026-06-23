@@ -1,6 +1,6 @@
 # Fiche_Arc_Chateau_E1_4_Titre_Prince
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chateau.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chateau_E1_3_Premiers_Jours.md
@@ -32,6 +32,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schlacht propose de nommer Schein prince - pari sur Schein comme avenir de l'espece. Le Roi accepte et detourne le titre en levier de manipulation : la reconnaissance paternelle devient un outil de controle. Deux logiques incompatibles s'activent sur le meme titre : Schlacht prepare la survie de l'espece, le Roi fabrique une arme. Schein recoit le titre.
+- Role de Schein : il recoit un titre qu'il ne comprend pas. Pour lui, c'est de la reconnaissance. Il dit "pere" parce qu'on lui a donne un titre de fils.
+- Aboutissement des fils chauds : "Merci, pere." - le titre de prince ancre le levier emotionnel. Le reflexe de gratitude envers le Roi est pose et arme ici.
+- Issue de l'etape : Schein est officiellement prince. Le Roi dispose desormais d'un levier emotionnel direct sur lui.
 
 ## Notes de frontiere
 - L'usage que le Roi fait du titre comme levier de torture -> se revele progressivement sur des siecles (roadmap Bloc 2-4).

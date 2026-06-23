@@ -1,6 +1,6 @@
 # Fiche_Arc_Aeusserst_E2_Premiere_Epreuve_Genau
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Aeusserst.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Aeusserst_E1_Arrivee_Retrouvailles.md
@@ -46,6 +46,13 @@
 ## Objets presents ou evoques
 - Stille - oiseau sensible au mana, objet a capturer ; dans la zone d'epreuve.
 - Barriere de Serie - delimite la zone ; declaree infranchissable par Genau ; Frieren va l'analyser (detail posterier -> roadmap).
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Premiere epreuve, supervisee par Genau (Sense en collegue observatrice) : capturer un Stille en equipe de trois dans une zone delimitee par une barriere de Serie. Frieren est dans le 2e groupe (Kanne, Lawine) ; Fern dans le 4e groupe (Uebel, Land). Frieren etudie la barriere de Serie et la brise - acte de defi autant que de tactique, pour prouver qu'elle vaut Serie. La barriere brisee laisse entrer la pluie ; Kanne (magie d'eau) et Lawine (glace) renversent leur matchup et ecrasent Richter qui les dominait en terrain sec. Schein observe par projection. Il rencontre Lernen (fascination prudente : l'ingenieur capte la signature aberrante de Schein, mi-mage mi-pretre, anomalie). Puis il rencontre Sense et Genau en fin d'epreuve. Schein deplore les morts de l'epreuve - ca lui rappelle son pere. Serie le nuance : Genau assume deliberement les pertes ; Sense, en revanche, est pacifiste (son epreuve a venir ne tuera personne). Le soir, Frieren demande a Schein s'il s'est decide. Non, pas encore.
+- Role de Schein : spectateur lucide. Premier choc de valeurs : les morts de l'examen le ramenent au calcul froid du Roi. Premiere fissure dans l'argumentaire de Serie (un ordre qui assume les pertes au nom du progres).
+- Aboutissement des fils chauds : Empathie de Schein - les morts de l'epreuve le heurtent la ou un demon resterait indifferent. Magie de lumiere / nature divine - Lernen capte la signature mi-mage mi-pretre sans pouvoir la nommer : graine posee, non resolue.
+- Issue de l'etape : La premiere epreuve est terminee. Frieren a brise la barriere de Serie. Schein n'a pas encore pris sa decision. L'etape suivante s'ouvre avec la deuxieme epreuve.
 
 ## Notes de frontiere
 - La barriere de Serie brisee par Frieren et ses consequences sur l'epreuve -> roadmap.

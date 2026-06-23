@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark02_E23_Rohr_Depart_Sein
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_02_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark02_E22_Malediction_Sommeil.md
@@ -35,6 +35,13 @@
 
 ## Objets presents ou evoques
 - Notes de guerisseur de Sein - ensemble de notes medicales/magiques sur la guerison, les herbes, les soins ; laissees par Sein au groupe avant son depart ; vont servir a Offen (etape 24).
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Pres de la Rohr Road, le groupe apprend que Gorilla Warrior est parti vers Tur - direction opposee a Aeusserst. Sein quitte le groupe pour le rejoindre. Il laisse ses notes de guerisseur au groupe avant de partir.
+- Role de Schein : adieu a un compagnon de courte duree. Sein repart vers son ami - le choix de l'attachement, que Schein comprend mieux que personne.
+- Aboutissement des fils chauds : Empathie de Schein - comprendre le depart vers un ami ; le choix de Sein resonne avec ses propres attachements.
+- Issue de l'etape : Sein quitte le groupe. Le groupe repart a quatre (Frieren, Schein, Fern, Stark) vers les Montagnes d'Offen. Les notes de Sein partent avec eux.
 
 ## Notes de frontiere
 - Les adieux exacts entre Sein et chaque membre du groupe -> roadmap.

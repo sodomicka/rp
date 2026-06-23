@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren04_E2_Chateau_Du_Roi
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_04_Aureole.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren04_E1_Terres_Mortes.md
@@ -39,6 +39,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture (le Chateau est vide et en ruines).
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe entre dans le Chateau vide, en ruines. Registre contemplatif - pas de combat, pas de defoulement (deja faits en Himmel_04 et Himmel_05). Sur les lieux memes, Schein et Frieren racontent a Fern et Stark : la marche du Groupe des Heros jusqu'ici (An 10), les deux lames, le coup unique porte ensemble, la mort du Roi, le bras de Schein libere a l'instant de la chute. La part d'Eisen et de Himmel dans ce combat. Transmission directe, la ou ca s'est joue. Ce que les heritiers apprennent ici, c'est ce que Schein CROYAIT etre : le prince demon, l'executeur, le fils-specimen. Son histoire de demon. Aucun spoiler divin - la chute du Roi est son passe demoniaque, rien de plus.
+- Role de Schein : il se confronte une derniere fois a son passe, et le transmet de son plein gre a la generation qui suit. Le prince exile racontant la chute de son pere-bourreau a deux jeunes humains qui n'etaient pas nes. C'est un deuil acheve, pas une plaie ouverte. Eisen, vivant mais hors-champ (en fin de vie, retire), revit dans le recit que Stark recoit de son maitre par procuration.
+- Aboutissement des fils chauds : "Merci, pere" - rappele en recit (deja detone a An 10) ; mis en mots pour les heritiers. Prediction de Schlacht - rappelee en recit (deux lames, un seul coup - realisee). Empathie de Schein - raconter sa propre histoire de monstre a ceux qui ne le voient que comme un allie.
+- Issue de l'etape : la transmission est faite, les heritiers savent l'histoire du demon. Le groupe quitte le Chateau et reprend sa route vers Aureole (etape 3).
 
 ## Notes de frontiere
 - Le contenu precis du recit aux heritiers (quels episodes, quelles reactions) -> roadmap.

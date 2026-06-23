@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren03_E1_Entree_Golden_Land
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_03_Terres_Dorees.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren02_E7_Vers_Weise.md
@@ -38,6 +38,13 @@
 ## Objets presents ou evoques
 - Diagoldze (etat du territoire) - transmutation en or indestructible affectant toute la region ; non annulable par les pretres (3% de la magie de la Deesse).
 - Mistilziela - sort de l'Ere Mythique que Denken possede comme privilege de premiere classe ; renvoie les maledictions au lanceur ; seul contre connu a Diagoldze a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe penetre dans la region doree. Cite et habitants figes dans un or indestructible ; le mana de Macht reste invisible, derangeant pour les mages. Retrouvailles avec Denken (desormais premiere classe) et Lernen. Denken est revenu pour honorer sa dette envers son ancien maitre demon - il a obtenu comme privilege de premiere classe le sort Mistilziela, le contre a la Diagoldze. Lernen avait supplie Serie de sceller Macht au lieu de le tuer ; il a organise l'expedition pour Denken.
+- Role de Schein : l'anomalie qui a deja vaincu cette malediction. Sa seule presence pose une question muette pour quiconque connait l'histoire du bras dore de Frieren - et Denken la connait. Mais Schein ne peut pas reproduire a l'echelle de Weise ce qu'il a fait sur un bras.
+- Aboutissement des fils chauds : Magie de lumiere / nature divine - le lien Schein/Diagoldze (ponctuel vs regional) est rappele sans etre resolu ; graine active. Empathie de Schein - Macht est le miroir demoniaque de Schein (cherche a ressentir ce que Schein ressent par nature) ; fil actif.
+- Issue de l'etape : le groupe est entre dans la region de Weise, les alles sont etablis (Denken, Lernen), les conditions de l'arc sont posees. Frieren commence son analyse des souvenirs de Macht pour developper le contre regional.
 
 ## Notes de frontiere
 - L'analyse de Frieren des souvenirs de Macht (deux mois) et le contre regional qu'elle developpe -> roadmap.

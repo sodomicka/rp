@@ -1,6 +1,6 @@
 # Fiche_Arc_Chateau_E4_1_Cellule_365
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chateau.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chateau_E3_4_Fuyard_Denonciation.md
@@ -32,6 +32,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Un an de cellule, 365 jours. Les 364 premieres journees : une torture physique unique chacune, jamais la meme - le Roi documente chaque methode et mesure chaque reaction comme un protocole de recherche. La 365e journee : torture purement psychologique - attente d'une douleur qui ne vient pas, terreur pure sans contact physique. Basalt assiste a certaines seances et s'en delecte. Porphyr et Gabbro sont absents. Les yeux dores de Schein ternissent progressivement en gris au fil des mois - la lumiere s'eteint visiblement. Le 364e jour, Schein dit "Merci, pere." pour la derniere fois. Le 365e - la journee de terreur pure - il ne le dit pas.
+- Role de Schein : il se brise. Pas completement - une fine braise reste. Les yeux gris sont la preuve visible. "Merci, pere." s'eteint ici.
+- Aboutissement des fils chauds : "Merci, pere." - le 364e jour est le dernier. Le rituel se rompt definitivement a la fin de cette etape. Schein ne le prononcera plus avant la mort du Roi mille ans plus tard.
+- Issue de l'etape : un an s'acheve. Schein sort de cellule brise, yeux gris, silencieux. Le reflexe "Merci, pere." a disparu. La brisure est plus profonde que le Roi ne l'imaginait - ou differente.
 
 ## Notes de frontiere
 - Le contenu de chaque torture quotidienne (methodes specifiques) -> a jouer en jeu, sur un an (roadmap).

@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark02_E20_Raad_Anniversaire_Fern
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_02_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark02_E19_Alt_Sein_Recrute.md
@@ -36,6 +36,13 @@
 ## Objets presents ou evoques
 - Bague de lotus (Frieren, offerte par Schein ~An 7) - bague a motif de lotus en miroir, symbolisme d'amour eternel (inconnu de Schein au moment du don) ; portee par Frieren depuis ~87 ans.
 - Bracelet a motif de lotus (Stark -> Fern) - meme symbolisme, offert ici sans que Stark en sache la signification ; identification du symbole par Sein declenche le declic de Schein.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe fete les 18 ans de Fern dans la region de Raad. Stark avait oublie ; Sein le conseille. Stark offre a Fern un bracelet a motif de lotus en miroir - symbole d'amour eternel - sans le savoir. Sein identifie le motif. Stark est gene. Schein percute : il a offert la bague de lotus a Frieren a Aeusserst (~An 7, ~89 ans plus tot) sans savoir ce qu'il donnait. Frieren percute en meme temps. Le declic se fait pour les deux. Schein offre a Fern ses cadeaux habituels - utiles (bottes, echarpe). La seule fois ou il offre du symbolique, c'est par accident (bague de lotus).
+- Role de Schein : detonation du Tchekhov bague de lotus. ~87 ans apres l'avoir offerte, lui et Frieren comprennent en meme temps ce qu'ils se sont echange. Le geste d'amour involontaire devient conscient.
+- Aboutissement des fils chauds : Bague de lotus - DETONATION (plantee a Aeusserst aller, Himmel_03 etape 25) ; les deux elfes realisent simultanement le sens du don. Peur d'aimer - le geste inconscient d'amour devient conscient. Empathie de Schein - l'amour par l'utile, confirme et contraste avec le symbolique involontaire.
+- Issue de l'etape : Le declic de la bague de lotus est fait. Les 18 ans de Fern sont fetes. Le groupe repart vers Bande.
 
 ## Notes de frontiere
 - La scene precise du declic Schein/Frieren et les mots exacts echanges -> roadmap.

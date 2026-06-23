@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark02_E26_Aeusserst_Arrivee
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_02_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark02_E25_Vorig_Lord_Orden.md
@@ -37,6 +37,13 @@
 
 ## Objets presents ou evoques
 - Bague de lotus (Frieren) - bague a motif de lotus offerte par Schein ~An 7 sans connaitre le symbolisme ; portee par Frieren ; sens compris depuis Raad (etape 20).
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe arrive a Aeusserst. Frieren et Fern se preparent a l'examen de premiere classe (requis pour traverser le Plateau Nord). Serie apparait et retrouve Schein pour la premiere fois en 836 ans (rupture ~740 av. An 0). Le triangle Frieren / Schein / Serie se cristallise. L'examen proprement dit et les retrouvailles detaillees relevent de l'Ere 5 (arc Aeusserst).
+- Role de Schein : seuil. 836 ans apres la rupture, il retrouve son premier amour - juste apres avoir avoue (a Wille, FernStark01) qu'il les aime toutes les deux differemment, et compris (etape 20) ce qu'il avait offert a Frieren. Il arrive avec les deux fils tendus.
+- Aboutissement des fils chauds : Peur d'aimer - DETONATION imminente : le triangle est desormais physique, les trois protagonistes dans la meme ville. Bague de lotus - Schein retrouve Serie avec le symbole en tete. Nature de Schein - Serie peut pressentir quelque chose sans le formuler, fil verrouille ici.
+- Issue de l'etape : Fin de l'Ere 4. Le groupe est a Aeusserst. La serie des epreuves et la resolution du triangle apartient a l'arc Aeusserst (Ere 5).
 
 ## Notes de frontiere
 - Les retrouvailles Serie/Schein et leur deroulement -> Roadmap_Aeusserst.

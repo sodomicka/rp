@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren04_E4_Communion_Morts
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_04_Aureole.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren04_E3_Seuil_Aureole.md
@@ -40,6 +40,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le voile laisse apparaitre les morts qui manquent a chacun - et chacun voit aussi les morts des autres. Personne n'est seul devant ses fantomes. Frieren revoit Flamme (son maitre) et Himmel. Flamme rencontre Schein - premiere et unique rencontre (deux legendes separees par les siecles) ; elle felicite Schein et Frieren pour la chute du Roi et benit le couple post-mortem. Fern revoit Heiter ; il lui dit combien il est fier d'elle. Stark revoit Stoltz, son grand frere mort pour couvrir sa fuite lors de la destruction de Klee ; Stoltz se dit fier du guerrier qu'il est devenu - la culpabilite du survivant que Stark trainait depuis Klee se resout. Schein voit apparaitre le Heros du Sud - son unique mort personnel ; le Heros est heureux : l'avenir qu'il n'avait fait qu'entrapercevoir par sa prescience floue s'est accompli - le Roi est tombe.
+- Role de Schein : temoin et accompagnateur du deuil de tous. Il porte la peine collective (Frieren devant Himmel, Stark devant son frere, Fern devant Heiter) - et c'est precisement en accompagnant le deuil des autres qu'il s'approche de sa propre verite. Sa rencontre avec le Heros du Sud boucle son unique lien personnel parmi les morts.
+- Aboutissement des fils chauds : Empathie de Schein - sommet du Tchekhov : porter la peine de tous sans s'effondrer, l'empathie qui triomphe ; preuve vivante de sa nature non-demoniaque. Nature de Schein a Aureole - la communion est le sas immediat avant la revelation ; tension maximale.
+- Issue de l'etape : la communion s'acheve. Chaque membre a vu ses morts. La revelation de la Deesse (etape 5) peut s'ouvrir.
 
 ## Notes de frontiere
 - Ce que les morts disent exactement a chacun -> roadmap.

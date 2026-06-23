@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren01_E2_1_Hutte
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_01_Chasse_Hutte.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren01_E1_2_Village_De_Trop.md
@@ -31,6 +31,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein abat des arbres avec sa lame de lumiere, porte des rochers sur son dos avec un seul bras (le gauche scelle). Frieren assemble tout avec sa magie sans suer une goutte - poutres levitees, joints scelles, structure posee avec precision. Le contraste definit leur dynamique : lui force, elle finesse ; lui transpire et jure, elle attend. La hutte est construite.
+- Role de Schein : batisseur a un bras. La hutte est le premier lieu qu'il construit de ses mains depuis le chateau du Roi - le premier lieu qui lui appartient.
+- Aboutissement des fils chauds : (aucun Tchekhov nomme dans le bloc roadmap.) La peur d'aimer est structurellement active - la construction est un acte pragmatique, pas sentimental.
+- Issue de l'etape : la hutte est construite dans la Foret des Terres Centrales. Le couple non nomme a un lieu. L'installation est accomplie.
 
 ## Notes de frontiere
 - L'achevement de la construction de la hutte -> roadmap.

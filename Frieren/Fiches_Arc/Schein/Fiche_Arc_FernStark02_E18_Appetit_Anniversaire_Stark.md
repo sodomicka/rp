@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark02_E18_Appetit_Anniversaire_Stark
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_02_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark02_E17_Schwer_Village_Epee.md
@@ -32,6 +32,13 @@
 
 ## Objets presents ou evoques
 - Lanieres de rechange (manche de hache) - cadeau de Schein a Stark pour ses 18 ans ; utilitaires, voues a servir.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe fete les 18 ans de Stark dans la region d'Appetit. Premier des deux anniversaires de cet arc. Schein offre a Stark des lanieres de rechange pour le manche de sa hache - cadeau utile et pratique.
+- Role de Schein : il montre l'amour par l'utile. Un etre qui n'a jamais rien possede exprime l'affection par ce qui sert - lanieres de hache pour un guerrier.
+- Aboutissement des fils chauds : Empathie de Schein - les cadeaux utiles voues a servir : pattern confirme, actif.
+- Issue de l'etape : Les 18 ans de Stark sont fetes. Le groupe repart vers Alt.
 
 ## Notes de frontiere
 - Le deroulement precis de la celebration d'anniversaire -> roadmap.

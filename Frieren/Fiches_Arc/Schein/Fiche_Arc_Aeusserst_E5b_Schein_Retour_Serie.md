@@ -1,6 +1,6 @@
 # Fiche_Arc_Aeusserst_E5b_Schein_Retour_Serie
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Aeusserst.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Aeusserst_E4_Troisieme_Epreuve_Confrontation.md
@@ -46,6 +46,13 @@
 
 ## Objets presents ou evoques
 - Bague de lotus - rendue par Frieren a Schein ; le symbole part avec lui dans cette branche.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein a choisi Serie (branche divergente). Lui et Frieren retournent a l'auberge pour leur derniere nuit ensemble. Frieren retient tres mal ses larmes ; elle lui dit qu'il est un traitre, qu'il lui impose ce qu'elle a deja vecu avec Himmel et Heiter - le deuil - mais en pire, car elle a aime pour la premiere fois. Le lendemain, Schein fait ses adieux a Fern (derniers conseils sur la magie) et a Stark (conseil sur la maniere de combattre les demons - conseil qui lui servira face a Revolte). Stark ne cache pas sa tristesse. Fern est froide - elle juge que Schein a blesse Frieren de maniere irreversible. Schein retourne vers Serie. Serie jubile dans un premier temps, puis voit sa detresse. Elle passe des semaines a le reconforter : demonstrations des talents de ses mages de premiere classe, et retour de leur routine sexuelle d'il y a huit siecles.
+- Role de Schein : il a choisi le souverain et l'heritage contre l'individu libre. Le prix : infliger a Frieren le deuil qu'elle redoutait le plus - pire que Himmel et Heiter. La jubilation de Serie cede vite a un travail de reconstruction patient.
+- Aboutissement des fils chauds : Choix final (point 1/2) - RESOLU cote Aeusserst : Serie. L'ascension reste ouverte (Aureole). Bague de lotus - PAYOFF : Frieren la rend a Schein. Peur d'aimer - le choix est un deuil inflige. Conseil de Schein a Stark - PLANT : comment combattre les demons ; servira a Stark face a Revolte. Nature de Schein - graine TOUJOURS VERROUILLEE : l'intuition de Serie ne s'allume pas dans ce segment.
+- Issue de l'etape : La branche 5b s'acheve. Frieren repart sans Schein. Serie et Schein sont reunis. Schein est brise par son propre choix et Serie entreprend de le reconstruire.
 
 ## Notes de frontiere
 - Les mots exacts entre Schein et Frieren a l'auberge -> roadmap.

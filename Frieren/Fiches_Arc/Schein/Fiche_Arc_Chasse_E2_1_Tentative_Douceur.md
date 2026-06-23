@@ -1,6 +1,6 @@
 # Fiche_Arc_Chasse_E2_1_Tentative_Douceur
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chasse_Solo.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chasse_E1_2_Sauveur_Efficace.md
@@ -30,6 +30,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein sauve un village et, pour la premiere fois, se montre gentil - pas vulgaire, pas hostile. Il applique ce qu'il a appris avec Serie : la sincerite n'oblige pas a la grossierete. Les villageois voient un demon aimable ; ils l'acceptent, ne fuient pas. Premier contact humain non-violent reussi depuis Serie. Schein repart avec quelque chose qui ressemble a de l'espoir : un demon peut etre bon, et les humains peuvent le voir.
+- Role de Schein : il essaie une autre voie. Le monstre par choix tente d'etre un heros sincere - acte maximal d'empathie en acte.
+- Aboutissement des fils chauds : Empathie de Schein - sommet de l'empathie en acte : il se montre tel qu'il est, ni monstre joue ni heros joue. La tentative reussit dans cette etape. Les consequences appartiennent a l'etape suivante.
+- Issue de l'etape : le village a accepte Schein tel qu'il est. Il repart avec un espoir naissant. Le precedent de bienveillance est pose, ses consequences restent a venir.
 
 ## Notes de frontiere
 - L'acceptation des villageois et l'espoir que Schein en ressent -> roadmap.

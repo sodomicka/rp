@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark01_E10_Granz_Hivernage
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_01_Terres_Centrales.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark01_E9_Foret_Groesse.md
@@ -31,6 +31,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le trio (Frieren, Schein, Fern) arrive a Granz pour l'hivernage. Le groupe effectue le meme travail de nettoyage qu'a l'aller (epaves, monstres du detroit), mais bien plus vite avec deux mages de premier rang. Callback : a l'aller, Schein et Frieren avaient rate le lever de soleil en trainant au lit - cette fois ils arrivent a temps. Premier hivernage du nouveau trio ; Fern s'ajuste au rythme du voyage a trois.
+- Role de Schein : douceur retrouvee. Le couple, autrefois discret devant le groupe de Himmel, est desormais ouvert devant Fern. Schein aide Fern a s'habituer a la vie commune avec les deux elfes.
+- Aboutissement des fils chauds : Peur d'aimer - fil en grande partie resolu : le couple est etabli et ouvert. Le callback du lever de soleil mesure le chemin parcouru depuis l'aller (~87 ans).
+- Issue de l'etape : L'hivernage s'acheve. Le groupe repart vers Bredt a l'est, en direction d'Eisen.
 
 ## Notes de frontiere
 - Le deroulement precis de l'hivernage et les moments de groupe -> roadmap.

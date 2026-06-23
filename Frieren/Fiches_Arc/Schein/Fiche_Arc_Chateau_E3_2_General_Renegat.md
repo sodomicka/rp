@@ -1,6 +1,6 @@
 # Fiche_Arc_Chateau_E3_2_General_Renegat
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chateau.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chateau_E3_1_Demons_Executes.md
@@ -33,6 +33,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Mission plus ambitieuse : un general demon renegat, pas un simple deserteur. Confrontation difficile. Schein deploie davantage de puissance pour en venir a bout. Retour au chateau sous contrecoup bestial : Schein tue trois demons mineurs sur le chemin ou a l'arrivee - perte de controle totale. Le Roi jubile : le Zoltraak blanc detruit les ennemis, le contrecoup detruit Schein. La machine fonctionne.
+- Role de Schein : il decouvre qu'il est dangereux pour les siens. Le contrecoup n'est plus un frisson - c'est un massacre. Il ne peut plus l'ignorer.
+- Aboutissement des fils chauds : Contrecoup bestial - premiere detonation majeure. Schein comprend qu'il doit se limiter en puissance pour ne pas tuer ses propres allies. Ce constat s'ancre ici.
+- Issue de l'etape : le general renegat est elimine. Le contrecoup a fait des victimes dans les rangs propres. Schein rentre au chateau marque par cette detonation.
 
 ## Notes de frontiere
 - L'issue du combat contre le general renegat -> se revele au cours de l'etape (roadmap).

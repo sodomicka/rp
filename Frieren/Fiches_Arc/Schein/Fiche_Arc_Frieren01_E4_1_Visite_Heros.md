@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren01_E4_1_Visite_Heros
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_01_Chasse_Hutte.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren01_V3_6_Mention_Serie.md
@@ -34,6 +34,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : le Heros du Sud arrive a la hutte. Il ne bronche pas en trouvant un demon - sa vision du futur lui a tout montre. Premiere fois qu'un humain regarde Schein sans peur ni calcul : juste de la reconnaissance. Il demande a Frieren de le rejoindre pour vaincre le Roi - elle refuse ; il n'insiste pas. Il revele son secret : il voit le futur, il mourra au Plateau Nord dans un an face a Schlacht et aux Sept Sages. Un jeune heros viendra bientot trouver Frieren et ensemble ils vaincront le Roi. Il leur transmet son message : "Moi, le plus grand heros de l'humanite, le Heros du Sud, je promets de tracer le chemin vers l'avenir - meme si mes exploits sont oublies par l'histoire."
+- Role de Schein : temoin. Cinq siecles d'attente, et un humain de 35 ans debarque avec la certitude que le chemin va s'ouvrir. Le premier espoir concret.
+- Aboutissement des fils chauds : Prediction de Schlacht - le chemin se degage ; un humain a vu ce que Schlacht avait vu (Schein face au Roi) ; Tchekhov arme, non encore resolu. Peur d'aimer - l'espoir est concret, la condition "pas tant que mon pere vit" pourrait etre levee dans une vie d'homme ; Tchekhov arme, non resolu.
+- Issue de l'etape : la visite est accomplie, le message est transmis, le secret du Heros revele. L'attente reprend - le Heros part vers le Plateau Nord.
 
 ## Notes de frontiere
 - La demande du Heros a Frieren (la rejoindre) et son refus -> roadmap.

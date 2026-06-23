@@ -1,6 +1,6 @@
 # Fiche_Arc_Exil_E3_3_Village_Pire
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Exil_Solo.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Exil_E3_2_Guerilla_Usure.md
@@ -30,6 +30,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Un village ou Schein arrive et il n'y a aucun survivant - zero. Le demon responsable est deja parti. Schein traque le demon, le retrouve, le detruit. Il n'y a personne a venger pour - juste des cadavres et un tueur qui ne sait pas pourquoi il continue. Snapshot le plus bas de l'ere. La question n'est pas "pourquoi je fais ca" (objectif strategique tient) mais "pour combien de temps encore" - un siecle de solitude pese meme sur un demon de ~700 ans.
+- Role de Schein : le point le plus creux. La guerilla a un sens strategique, mais l'absence totale de lien humain - meme un survivant terrifie - vide le quotidien de toute resonance.
+- Aboutissement des fils chauds : Empathie de Schein - meme au point le plus bas, il continue. L'empathie ne s'eteint pas, meme quand elle n'a plus de destinataire.
+- Issue de l'etape : le demon est detruit. Schein repart dans la solitude. Le point le plus creux de l'ere est atteint. Un changement devient necessaire.
 
 ## Notes de frontiere
 - La traque du demon responsable et son issue -> se produit au cours de l'etape (roadmap).

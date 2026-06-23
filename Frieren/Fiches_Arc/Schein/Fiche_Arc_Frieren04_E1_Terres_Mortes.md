@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren04_E1_Terres_Mortes
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_04_Aureole.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren03_E5_Monument_Deesse.md
@@ -33,6 +33,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Frieren est revenue de son voyage dans le passe au Monument. Le groupe repart vers le nord. Traversee de la region d'Ende - l'ancien coeur du Royaume Demon, demantele. Terre morte, vestiges, silence. Plus de secteurs, plus de Sages, plus d'armee. Le groupe ne rencontre que des demons mineurs errants, sans coordination ni chef, sans menace serieuse. Le contraste est brutal pour Schein : ces terres etaient celles d'une puissance qui faisait trembler le continent, et il en reste des charognes sans tete.
+- Role de Schein : il rentre chez lui pour la derniere fois - dans un foyer qui n'existe plus. C'est le lieu de son elevage, de sa torture, de son exil. En restant avec Frieren, il a acte l'extinction de son espece ; ici il en mesure le resultat de ses propres yeux. Le dernier demon debout, traversant le cimetiere des siens.
+- Aboutissement des fils chauds : Nature de Schein a Aureole - montee en tension, approche du seuil. Empathie de Schein - deuil silencieux d'une espece qu'il a contribue a eteindre, sans regret mais sans triomphe ; fil actif.
+- Issue de l'etape : la traversee des terres mortes est achevee. Le groupe approche du Chateau du Roi (etape 2).
 
 ## Notes de frontiere
 - Ce que le groupe trouve exactement en traversant la region (details des vestiges, rencontres mineures) -> roadmap.

@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren01_E1_2_Village_De_Trop
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_01_Chasse_Hutte.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren01_E1_1_Deux_Exterminateurs.md
@@ -33,6 +33,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein et Frieren decouvrent un village qu'ils avaient protege par leur presence - detruit pendant qu'ils chassaient ailleurs. Meme mecanisme que le village brule de l'ere solitaire : la proximite visible cree un faux sentiment de securite, un demon passe a travers. Constat strategique : l'elimination locale ne change rien a la structure du Royaume. Decision : se poser, attendre qu'un heros humain soit assez fort pour les accompagner jusqu'au Roi. Choix de la Foret des Terres Centrales pour l'installation.
+- Role de Schein : le chasseur qui accepte de ranger l'arme - non par fatigue, par lucidite. L'echo du village brule rend la lecon definitive.
+- Aboutissement des fils chauds : (aucun Tchekhov nomme dans le bloc roadmap.) La peur d'aimer est structurellement active - la decision de se poser est strategique, pas sentimentale.
+- Issue de l'etape : la decision d'installation est prise. La Foret des Terres Centrales est choisie. La phase de guerilla active prend fin - la phase de la hutte commence.
 
 ## Notes de frontiere
 - La decision finale d'installation et le deplacement vers la Foret des Terres Centrales -> roadmap (Etape 2.1).

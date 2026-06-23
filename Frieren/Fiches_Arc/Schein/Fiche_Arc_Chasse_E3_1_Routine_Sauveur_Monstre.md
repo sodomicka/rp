@@ -1,6 +1,6 @@
 # Fiche_Arc_Chasse_E3_1_Routine_Sauveur_Monstre
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chasse_Solo.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chasse_E2_2_Village_Brule.md
@@ -35,6 +35,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : la guerilla continue sur ~60 ans, plus efficace que jamais. Cycle installe : detection, interception, massacre des demons, hostilite envers les humains sauves, depart. La reputation du "Demon de Lumiere" se solidifie des deux cotes - cote humain : sauveur craint autant que les demons ; cote demon : le Traitre invisible frappe sans avertissement. Le Zoltraak blanc atteint 250 ans de raffinement en conditions reelles. L'amour pour Serie reste le moteur souterrain, silencieux et mecanique.
+- Role de Schein : soldat amoureux qui fait la guerre. Efficace, froid, invisible. Le monstre par choix est devenu une seconde nature.
+- Aboutissement des fils chauds : (aucun Tchekhov nomme dans le bloc roadmap de cette etape.) La peur d'aimer tient - la condition "pas tant que mon pere vit" est le moteur sous-jacent non mentionne explicitement mais structurellement actif.
+- Issue de l'etape : la routine est a son apogee d'efficacite. Rien n'a fondamentalement change dans le systeme du Roi. L'etape se clot sans evenement rupturel - la bascule vers la rencontre avec Frieren appartient au bloc suivant.
 
 ## Notes de frontiere
 - L'evenement qui clot cette routine (rencontre avec Frieren, Bloc 4) -> roadmap.

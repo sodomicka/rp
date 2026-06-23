@@ -1,6 +1,6 @@
 # Fiche_Arc_Chasse_E4_2_Rencontre_Frieren
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chasse_Solo.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chasse_E4_1_Macht_Bras_Dore.md
@@ -35,6 +35,13 @@
 
 ## Objets presents ou evoques
 - Bras dore de Frieren - Diagoldze de Macht active, bras droit de Frieren transforme en or indestructible | appartient a Frieren | pas de fiche WIKI distincte
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein croise Frieren. Reconnaissance mutuelle : il la reconnait par les cheveux blancs et ce que Serie lui a dit ; elle le reconnait par les cornes, les cheveux blancs et la reputation du Demon de Lumiere. Premiere reaction de Frieren : agressive (reflexe face a un demon, souvenir du massacre de son village). La vulgarite de Schein la convainc de sa sincerite - un predateur mimetique ne parle pas ainsi. Schein guerit le bras dore de Frieren : la Diagoldze de Macht est une malediction, sa magie divine native est la seule capable de la dissiper. Alliance fondee sur un acte de soin, pas de parole. Pas de coup de foudre - alliance pragmatique de deux chasseurs qui se valent sur le terrain.
+- Role de Schein : il guerit l'elfe qu'il a epargnee 400 ans plus tot. Le soin fonde l'alliance.
+- Aboutissement des fils chauds : Peur d'aimer - la condition "pas tant que mon pere vit" tient ; pas d'ouverture emotionnelle. Empathie de Schein - la guerison est un acte de reparation implicite envers une elfe dont le village a ete massacre par des demons, sa propre espece. Les deux Tchekhovs sont armes, non resolus.
+- Issue de l'etape : le bras de Frieren est gueri. Une alliance pragmatique est etablie. Ils repartent ensemble - pas comme couple, comme duo de chasse.
 
 ## Notes de frontiere
 - La guerison effective du bras (resultat de la scene) -> roadmap.

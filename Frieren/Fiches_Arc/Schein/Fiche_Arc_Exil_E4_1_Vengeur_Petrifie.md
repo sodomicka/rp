@@ -1,6 +1,6 @@
 # Fiche_Arc_Exil_E4_1_Vengeur_Petrifie
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Exil_Solo.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Exil_E3_3_Village_Pire.md
@@ -33,6 +33,13 @@
 
 ## Objets presents ou evoques
 - Bras gauche scelle - toujours mort, toujours scelle ; integre dans l'identite physique de Schein | aucune fiche WIKI dediee
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Un siecle de guerilla solitaire a produit un etre fonctionnel mais vide. Schein tue des demons, mange des animaux, bouge, dort. Pas de conversation depuis cent ans - a part des menaces a des humains terrifies et des insultes a des demons mourants. Le bras gauche est toujours mort. Les yeux sont toujours gris. La maladresse initiale a disparu - le combat a un bras est devenu naturel. Deux reputations installee : "le Traitre" est connu des demons des marges mais les Sages ne le considerent pas comme une menace ; "le Demon de Lumiere" est une legende fragmentaire cote humain. Schein est pret a etre trouve - non qu'il le sache, mais cent ans de solitude ont creuse un vide que la guerilla ne comble pas.
+- Role de Schein : une arme sans fourreau. Fonctionnel, efficace, creux. Le vengeur est devenu un mecanisme.
+- Aboutissement des fils chauds : aucun Tchekhov specifique ne se declenche dans cette etape. L'etat interieur de Schein est un bilan - les fils poses anterieurement pesent dans ce vide.
+- Issue de l'etape : Schein est a la lisiere des Terres Centrales, use et vide. L'identite s'effrite sous la fonctionnalite. La prochaine rencontre sera le premier vrai changement depuis un siecle.
 
 ## Notes de frontiere
 - L'arrivee de la bascule (odeur du sang qui menera a Serie) -> etape suivante (roadmap).

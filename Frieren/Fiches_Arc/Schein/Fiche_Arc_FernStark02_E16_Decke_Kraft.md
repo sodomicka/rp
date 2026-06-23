@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark02_E16_Decke_Kraft
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_02_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark02_E15_Granat_Aura.md
@@ -35,6 +35,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe rencontre Kraft, moine elfe (~1 700+ ans), dans la region de Decke. Une tempete hivernale bloque tout le monde ensemble pendant six mois. Schein est le seul capable de se deplacer dans le froid (habitue a Ende) ; Frieren, Fern et Stark sont confines. Kraft a choisi la foi pour donner sens a son eternite. Schein, lui, est ne avec la magie de la Deesse sans la comprendre. Les deux elfes deviennent des interlocuteurs theologiques : le croyant par choix face au porteur de grace par nature.
+- Role de Schein : interlocuteur theologique principal. Il cherche dans la foi de Kraft une cle pour se comprendre - sans savoir qu'il EST la reponse (hybride comme la Deesse).
+- Aboutissement des fils chauds : Magie de lumiere / nature divine - la grace portee vs la grace choisie ; la question est posee sans etre resolue. Empathie de Schein - interet sincere pour la quete de sens d'un autre.
+- Issue de l'etape : Six mois d'hiver. La tempete se leve. Le groupe repart vers les Montagnes de Schwer.
 
 ## Notes de frontiere
 - Le deroulement des debats theologiques entre Schein et Kraft (contenu precise des echanges) -> roadmap.

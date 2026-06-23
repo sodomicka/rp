@@ -1,6 +1,6 @@
 # Fiche_Arc_Chateau_E1_3_Premiers_Jours
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chateau.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chateau_E1_2_Presentation_Roi.md
@@ -33,6 +33,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein decouvre le palais d'Ende, sa hierarchie et la vie demoniaque organisee. Grausam se manifeste comme figure d'accueil : patience, attention, gestes pedagogiques - ce qui ressemble a un pere, qu'il agisse pour le compte de Schlacht ou par sincerite. Schlacht traite Schein avec un respect calcule pour renforcer sa loyaute et modifier la vision du futur. Le Roi observe a distance, collecte des donnees sans intervenir dans l'education.
+- Role de Schein : decouverte - un enfant qui apprend les regles d'un monde qui ne fonctionne pas comme lui.
+- Aboutissement des fils chauds : Empathie de Schein - Grausam est le premier etre a lui montrer quelque chose qui ressemble a de l'affection. Ce lien precoce laisse une marque durable.
+- Issue de l'etape : Schein est installe au chateau, integre dans la structure du palais. Les figures de Grausam (figure paternelle de surface) et de Schlacht (mentor calcule) sont etablies.
 
 ## Notes de frontiere
 - La nature reelle des motivations de Grausam (sincere vs mandat de Schlacht) -> non resolu, reste ambigu tout au long de l'ere.

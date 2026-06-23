@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark02_E24_Offen_Fievre_Fern
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_02_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark02_E23_Rohr_Depart_Sein.md
@@ -35,6 +35,13 @@
 
 ## Objets presents ou evoques
 - Notes de guerisseur de Sein - laissees a Rohr (etape 23) ; servent ici pour identifier les herbes medicales contre la fievre de Fern.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Dans les Montagnes d'Offen - ancien territoire de Boese, que Schein avait tue en duel a l'aller (Himmel_03 etape 21) - Fern tombe malade. Frieren et Stark partent chercher les herbes d'apres les notes laissees par Sein. Schein reste au chevet de Fern.
+- Role de Schein : garde-malade. Le lieu d'un meurtre cathartique est devenu, 90 ans plus tard, celui ou il veille une enfant fievreuse.
+- Aboutissement des fils chauds : Empathie de Schein - veiller Fern malade sur les terres ou il a tue Boese : contraste delibere avec sa violence passee.
+- Issue de l'etape : Les herbes sont trouvees, Fern guerit. Le groupe repart vers Vorig.
 
 ## Notes de frontiere
 - L'issue de la recherche des herbes par Frieren et Stark -> roadmap.

@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren04_E3_Seuil_Aureole
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_04_Aureole.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren04_E2_Chateau_Du_Roi.md
@@ -32,6 +32,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe atteint Aureole. Ce n'est pas un paradis - c'est un point ou le voile entre les plans est si fin qu'on peut apercevoir les morts et communier avec la Deesse. Frieren la sceptique constate que le lieu deborde son cadre. Fern et Stark, croyants par influence de Heiter, sont saisis. Schein ressent l'appel de la Deesse comme aucun pretre, aucun demon, aucun elfe - la frontiere fine resonne avec sa magie native. Echo de ce qu'il a percu a Schwer et au Monument, mais d'une autre intensite. Il est, sans le savoir, chez lui. La dissonance monte : pourquoi lui ?
+- Role de Schein : accompagnateur au seuil, qui decouvre que le seuil le reconnait. Il est venu pour Frieren et c'est lui que le lieu appelle. La dissonance monte : pourquoi lui ?
+- Aboutissement des fils chauds : Magie de lumiere / nature divine - l'appel de la Deesse resonne avec sa magie native ; graine majeure juste avant la detonation. Nature de Schein a Aureole - le seuil est franchi ; la tension est a son comble.
+- Issue de l'etape : le groupe est a Aureole. La reconnaissance du voile est posee. La communion (etape 4) peut s'ouvrir.
 
 ## Notes de frontiere
 - Ce que le groupe voit et ressent en entrant dans Aureole -> roadmap.

@@ -1,6 +1,6 @@
 # Fiche_Arc_Exil_E1_1_Fuite_Ende
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Exil_Solo.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chateau_E5_3_Execution_Coup.md
@@ -33,6 +33,13 @@
 
 ## Objets presents ou evoques
 - Bras gauche scelle - bras detruit par Frieren a Bluete, desormais scelle par le Roi ; regeneration et soin bloques | localisation : appendice mort de Schein | aucune fiche WIKI dediee
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein fuit Ende grace a sa vitesse superieure. Le Roi envoie des chasseurs mais ne mobilise pas les Sages - pour lui, Schein est une experience ratee, pas une menace. Schein seme les chasseurs. Premier inventaire de l'etat physique : bras gauche scelle (pas de regeneration, pas de soin, permanent tant que le Roi vit), yeux gris (eteints depuis la cellule), corps fonctionnel mais ampute. Maladresse immediate - tout ce qui demande deux mains est a reapprendre. Il s'enfonce dans les marges loin des secteurs des Sages, sans destination : seulement l'eloignement.
+- Role de Schein : debris en mouvement. Rage residuelle de la defaite, deuil de Porphyr et Gabbro, bras mort, solitude totale.
+- Aboutissement des fils chauds : aucun Tchekhov specifique ne se declenche dans cette etape. L'etat de Schein (bras scelle, yeux gris) est l'heritage direct des fils poses dans l'ere du Chateau.
+- Issue de l'etape : Schein a distance des chasseurs et entre dans les marges des Terres du Nord. La fuite est la seule victoire possible. L'exil solo commence.
 
 ## Notes de frontiere
 - La distance effective des chasseurs et leur abandon de poursuite -> se produit au cours de l'etape (roadmap).

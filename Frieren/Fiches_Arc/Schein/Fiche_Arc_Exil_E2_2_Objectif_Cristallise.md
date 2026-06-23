@@ -1,6 +1,6 @@
 # Fiche_Arc_Exil_E2_2_Objectif_Cristallise
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Exil_Solo.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Exil_E2_1_Village_Miroir.md
@@ -31,6 +31,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : L'arme retournee : le Roi l'a forge en outil demonicide - Schein retourne cette logique contre le Royaume. Chaque demon tue affaiblit l'empire ; il ne peut pas toucher le Roi directement, il saigne les marges. L'errance devient guerilla : Schein cesse de fuir et commence a chasser. Demons mineurs, generaux isoles, deserteurs qu'il aurait autrefois traques pour le Roi - meme fonction, camps inverses. Le rythme s'installe : chasser pour manger, bouger pour ne pas etre repere par les Sages, tuer des demons pour user le Royaume.
+- Role de Schein : le debris devient guerillero. L'objectif est froid, strategique, a long terme : faire tomber le Roi. Pas aujourd'hui, pas dans un siecle - mais chaque demon mort est un pas.
+- Aboutissement des fils chauds : aucun Tchekhov specifique ne se declenche dans cette etape. La decision strategique posee ici orientera toute la guerilla qui suit.
+- Issue de l'etape : la guerilla est lancee. Schein a un objectif clair. Le mode errance est abandonne pour un mode chasse actif.
 
 ## Notes de frontiere
 - La mise en place effective du cycle de guerilla (premieres chasses actives) -> se produit au cours de l'etape et de l'etape suivante (roadmap).

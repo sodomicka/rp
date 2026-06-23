@@ -1,6 +1,6 @@
 # Fiche_Arc_EreCalme_E5_Arrivee_Heiter
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Ere_Calme.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_EreCalme_E4_Declic_Depart.md
@@ -36,6 +36,13 @@
 ## Objets presents ou evoques
 
 - Corne de Dragon des Ombres - dans la valise de Frieren | fil toujours actif
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Frieren et Schein arrivent a Strahl. Ils se perdent dans la foret - Schein refuse d'utiliser ses sens de predateur (odeur du sang, peur instinctive) ; il aime prendre son temps pour trouver un lieu. Fern (~9 ans) les guide jusqu'a la maison de Heiter. Retrouvailles de trois vieux amis. Heiter tres vieux, a arrete l'alcool pour Fern.
+- Role de Schein : il retrouve l'ami theologien de la quete. Refuser ses sens de predateur = choix d'humanite, meme quand ca lui fait perdre son chemin.
+- Aboutissement des fils chauds : Empathie de Schein - la lenteur volontaire, le refus du reflexe de chasse : Tchekhov actif.
+- Issue de l'etape : Le groupe retrouve Heiter et rencontre Fern. L'installation a Strahl commence.
 
 ## Notes de frontiere
 

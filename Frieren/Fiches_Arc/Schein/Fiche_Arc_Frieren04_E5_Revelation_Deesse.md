@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren04_E5_Revelation_Deesse
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_04_Aureole.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren04_E4_Communion_Morts.md
@@ -36,6 +36,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Pendant que Schein accompagne le deuil des autres, le voile resonne avec sa magie native et la Deesse s'adresse a LUI. Elle ne vient pas parce qu'il la cherche - elle vient parce qu'il est de sa nature, et que le lieu le reconnait. Par son omniscience de transcendee, elle connait toute son origine. Elle lui revele leur nature partagee : ils sont tous deux des hybrides demon-elfe - les deux seuls a s'etre illustres dans l'histoire connue. La difference entre eux ne vient pas du ventre porteur mais de l'etat de la gestation : elle, portee par une demone qui l'aimait -> corps physique -> elfe ; lui, porte par une elfe dans le degout (viol) -> corps de mana -> demon. L'amour fait le corps, pas le ventre. Elle precise que posseder assez de mana permet a un hybride l'ascension - deux conditions cumulees : la nature hybride (acquise) ET un mana surhumain hors de portee de tout mortel. Possibilite, pas obligation. Ce que devient un dieu : omniscient, omnipotent (capable de redefinir la realite), mais incapable d'intervenir en personne - pour peser sur les vivants, il faut quitter leur monde. Schein apprend, en un instant, ce qu'il est, d'ou il vient, et ce qu'il pourrait devenir.
+- Role de Schein : il recoit la verite qui defait le mystere de toute sa vie - pourquoi il ressentait, pourquoi les demons fuyaient devant lui, pourquoi sa magie etait differente, pourquoi le voile le reconnait. Il n'est pas une erreur de la nature demoniaque : il est la seconde occurrence d'une nature divine. La legende du Demon de Lumiere avait raison sans le savoir : sa lumiere n'etait pas DE la Deesse, elle etait COMME la Deesse.
+- Aboutissement des fils chauds : Nature de Schein a Aureole - DETONATION. Magie de lumiere / nature divine - DETONATION. Empathie de Schein - confirmee comme trait de sa nature hybride, non comme anomalie demoniaque. Potentiel de transcendance - le plafond saute : Schein sait qu'il peut devenir un dieu.
+- Issue de l'etape : la revelation est accomplie. Schein sait ce qu'il est. Le choix binaire (etape 6) peut s'ouvrir.
 
 ## Notes de frontiere
 - Le contenu exact de la revelation (ce que la Deesse dit a Schein mot a mot) -> roadmap et Theologie/.

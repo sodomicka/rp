@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark02_E25_Vorig_Lord_Orden
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_02_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark02_E24_Offen_Fievre_Fern.md
@@ -36,6 +36,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : A Vorig, derniere grande cite avant Aeusserst, le groupe decouvre qu'un mois plus tot le fils aine de Lord Orden (Wirt) a ete tue dans une melee massive contre des demons. Lord Orden inspecte Stark et le recrute pour un service.
+- Role de Schein : en retrait. Un noble en deuil d'un fils tue par des demons - Schein, demon, garde profil bas sous sa capuche.
+- Aboutissement des fils chauds : Peur d'aimer / empathie - Schein mesure le poids de ce qu'est son espece pour les humains : un deuil recent, un fils mort, un pere brise.
+- Issue de l'etape : Stark accomplit le service demande par Lord Orden. Le groupe repart vers Aeusserst.
 
 ## Notes de frontiere
 - La nature precise du service demande par Orden a Stark -> roadmap.

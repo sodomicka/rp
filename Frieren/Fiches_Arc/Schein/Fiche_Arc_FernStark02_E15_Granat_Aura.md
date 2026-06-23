@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark02_E15_Granat_Aura
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_02_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark01_E14_Waal_Festival.md
@@ -40,6 +40,13 @@
 
 ## Objets presents ou evoques
 - Ecailles d'Obeissance (Aura) - artefact magique en forme de balance doree ; vehicule l'Auserlese (sort de controle par mana superieur) ; chez Aura a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Aura la Guillotine assiege le domaine de Graf Granat avec son armee de morts-vivants. Schein reste en ville - il ne fait pas l'honneur a cette Sage de se deplacer : trop jeune, aucun grief personnel. Il observe Fern et Stark combattre les subalternes d'Aura, testant ses "disciples". Frieren affronte Aura seule et retourne les Ecailles d'Obeissance contre elle : Aura est forcee de se decapiter. Ironie : Aura avait peur de Schein - elle aurait du avoir peur de l'elfe. Le groupe retrouve aussi la statue de groupe erigee au retour de la quete de Himmel (silhouette encapuchonnee en cinquieme position).
+- Role de Schein : mepris hierarchique. Sa passivite face a Aura confirme le pattern de l'aller. Il se sert du siege comme d'un examen pour Fern et Stark plutot que d'intervenir.
+- Aboutissement des fils chauds : Empathie / role de mentor - Schein observe ses "disciples" plutot que de combattre ; acte de transmission delibere.
+- Issue de l'etape : Aura est tuee par Frieren. Le siege est leve. Le groupe repart vers le nord, vers Decke.
 
 ## Notes de frontiere
 - Le detail des combats Fern/Lugner, Stark/Linie, Frieren/Aura -> roadmap.

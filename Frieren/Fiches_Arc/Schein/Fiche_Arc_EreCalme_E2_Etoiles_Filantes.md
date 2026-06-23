@@ -1,6 +1,6 @@
 # Fiche_Arc_EreCalme_E2_Etoiles_Filantes
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Ere_Calme.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_EreCalme_E1_Parenthese.md
@@ -37,6 +37,13 @@
 ## Objets presents ou evoques
 
 - Corne de Dragon des Ombres - artefact d'alchimie | en possession de Himmel a la Capitale | localisation : chez Himmel | fil plante pour l'enseignement de l'alchimie a Schein
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein et Frieren reviennent a la Capitale pour les etoiles filantes de An 65 et pour recuperer la Corne de Dragon des Ombres chez Himmel (Frieren veut enseigner l'alchimie a Schein). Choc du vieillissement : Himmel et Heiter tres vieux, Eisen peu change. Frieren est surprise. Schein avait modelise la degradation physique intellectuellement, mais voir Himmel si diminue le fissure malgre lui - l'attachement arrive la ou il ne l'attendait pas.
+- Role de Schein : il se croyait immunise par sa nature de demon et son recul millenaire. Voir Himmel diminue le fissure malgre tout.
+- Aboutissement des fils chauds : Peur d'aimer / Empathie - la douleur de l'attachement arrive par ou il ne l'attendait pas : Tchekhov actif, ressenti direct. Corne de Dragon des Ombres - plantee ici (alchimie pour Schein, recuperee chez Himmel) : Tchekhov arme, non resolu.
+- Issue de l'etape : La Corne de Dragon des Ombres est recuperee. La reunion du groupe est vecue. Himmel et Heiter sont tres vieux.
 
 ## Notes de frontiere
 

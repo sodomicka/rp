@@ -1,6 +1,6 @@
 # Fiche_Arc_Chasse_E1_1_Depart_Resolution
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chasse_Solo.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie01_E4_2_Depart.md
@@ -33,6 +33,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein quitte Serie avec un arsenal nouveau (suppression de mana, detection demoniaque, dissimulation). La guerilla reprend, mais le moteur interne a change. Il etablit le calcul : si le Roi tombe, le Royaume s'effondre, la guerre se termine, et la question qui les a separes devient obsolete. La condition posee a Serie ("pas tant que mon pere vit") se transforme en promesse qu'il se fait a lui-meme. Le debris redevient guerrier - cette fois la solitude est choisie, pas subie.
+- Role de Schein : il repart seul, coeur brise, avec un objectif desormais double d'un visage - construire un monde ou il pourra aimer Serie sans que la guerre les oppose. Le combat reprend immediatement.
+- Aboutissement des fils chauds : Peur d'aimer - la condition "pas tant que mon pere vit" est posee et interiorisee. Elle reste active et non levee a la cloture de cette etape.
+- Issue de l'etape : Schein est reparti en guerilla solitaire, motive par l'amour plutot que par la haine. La nouvelle ere de chasse commence.
 
 ## Notes de frontiere
 - La reconstruction du mode operatoire actif -> roadmap (Etape 1.2).

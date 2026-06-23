@@ -1,6 +1,6 @@
 # Fiche_Arc_Chateau_E3_1_Demons_Executes
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chateau.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chateau_E2_4_Tortures_Pedagogiques.md
@@ -31,6 +31,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Des demons mineurs manquent de respect envers le prince. Le Roi les execute en personne - sacrifice calcule : Schein n'a rien demande, le Roi agit "pour lui". L'effet voulu est une dette emotionnelle : Schein se sent redevable envers un pere qui "le protege". Le Roi renforce ainsi le lien pere-fils factice.
+- Role de Schein : il recoit sans avoir demande. La dette s'installe - il doit davantage a un pere qui semble le proteger.
+- Aboutissement des fils chauds : "Merci, pere." - le reflexe de gratitude est desormais ancre par cet acte ostensible de protection.
+- Issue de l'etape : la dette emotionnelle est creee. Le lien pere-fils factice gagne en solidite apparente. Le Roi a consolide son levier.
 
 ## Notes de frontiere
 - L'execution effective des demons mineurs par le Roi -> se produit au cours de l'etape (roadmap).

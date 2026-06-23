@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren02_E4_Canyon_Tor
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_02_Plateau_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren02_E3_Lac_Korridor.md
@@ -32,6 +32,13 @@
 
 ## Objets presents ou evoques
 - Pont en construction - ouvrage de 200 ans ; pas encore acheve a l'ouverture ; symbole de l'acte de foi de Himmel dans l'avenir.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe revient au Grand Canyon de Tor. Le pont est a peine commence, mais des gens sont venus aider Gehen. Un village commence a se reconstruire autour du chantier. L'acte de foi de Himmel - financer un ouvrage que lui-meme ne verrait pas termine - a porte ses premiers fruits. Frieren constate, des decennies apres la mort de Himmel, que le pari sur l'avenir n'etait pas vain. Himmel avait raison.
+- Role de Schein : confronte a la vertu humaine qu'il ne peut concevoir nativement - l'altruisme a long terme. Miroir : Schein a passe un millenaire a survivre au jour le jour ; Himmel a depense ses dernieres ressources pour des generations qu'il ne rencontrerait jamais. Le chantier de Gehen est la preuve materielle que ce pari fonctionne.
+- Aboutissement des fils chauds : Empathie de Schein - payoff de l'altruisme a long terme entrevu a l'aller (Himmel_04 etape 28). Schein voit le fil de Himmel aboutir. Fil actif, nourri.
+- Issue de l'etape : la visite est accomplie, Frieren a honore la promesse de revenir. Le groupe reprend sa progression vers le nord.
 
 ## Notes de frontiere
 - L'etat exact du chantier et ce que le groupe y trouve (ce qui a avance, les gens qui aident) -> roadmap.

@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren03_E3_Double_Duel
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_03_Terres_Dorees.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren03_E2_Barriere_Solitaer.md
@@ -38,6 +38,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif propre a l'ouverture (la Diagoldze est l'etat du territoire, pas un objet).
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Frieren analyse les souvenirs de Macht pendant deux mois et developpe le sort de negation de la Diagoldze a l'echelle de la region. Les deux duels s'engagent : Denken affronte Macht (Diagoldze neutralisee, Macht se bat avec or improvise et sorts basiques - Denken le tient en combat rapproche, Mistilziela en appui). Frieren affronte Solitaer en duel long : Mana Strike, lames de mana, guerre psychologique - Solitaer blesse gravement Fern et Stark, puis installe une impasse d'attrition avec Frieren, qui copie Mana Strike par retro-ingenierie pendant le combat. Schein opere en peripherie : neutralise les renforts et demons mineurs, protege les habitants progressivement restaures, face-a-face visuel avec Solitaer sans lui porter le coup final. La tension du contrecoup se joue : bridage de Schein pour preserver les duels d'autrui peut creer une dette ; defoule sur les mineurs legitimes = zero dette.
+- Role de Schein : en peripherie par contrainte (Macht et Solitaer le surclassent). Il garde la zone et solde visuellement sa dette envers Solitaer, laisse les humains accomplir ce qui est leur arc. La mesure cree la dette (SB1) - le dosage de son intervention est le point de jeu.
+- Aboutissement des fils chauds : Contrecoup bestial - tension active, a resoudre en narration selon le bridage de Schein. Empathie de Schein - face-a-face avec la demone qu'il a epargnee jadis. Magie de lumiere / nature divine - possibilite de restauration ponctuelle d'habitants pendant que Frieren prepare le regional ; graine dosee.
+- Issue de l'etape : les duels sont en cours et arrivent a leur bascule ; Frieren s'apprete a dissiper la Diagoldze regionale et a confier le coup final sur Solitaer a Fern. Le climax (etape 4) s'ouvre.
 
 ## Notes de frontiere
 - L'issue des deux duels (mort de Macht, mort de Solitaer, ou autre) -> etape 4.

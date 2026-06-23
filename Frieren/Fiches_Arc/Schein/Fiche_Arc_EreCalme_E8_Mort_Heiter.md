@@ -1,6 +1,6 @@
 # Fiche_Arc_EreCalme_E8_Mort_Heiter
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Ere_Calme.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_EreCalme_E7_Quatre_Ans_Strahl.md
@@ -41,6 +41,13 @@
 
 - Grimoire du Sage Ewig (pretendument) - acheve par Frieren a l'ouverture | la revelation de la ruse est imminente
 - Corne de Dragon des Ombres - dans la valise de Frieren | fil toujours actif
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Frieren acheve le grimoire - pas de sorts d'immortalite. Heiter revele la ruse. Il demande a Frieren de partir avec Fern ce soir. Frieren pleure, lui dit de faire des souvenirs avec Fern plutot que de la chasser (canon preserve). Schein reste en retrait - sa presence valide le choix, Fern rejoint un duo. Heiter meurt satisfait, entoure. Schein ne le pleure pas - il le sait aupres de la Deesse, conviction nee de ses discussions avec Serie (~890-740 av.), meme si Serie est restee floue sur sa contemporaneite avec la phase mortelle de la Deesse. Frieren verse de l'alcool sur la tombe. Depart de Strahl : Frieren, Schein et Fern (13 ans), remontee vers le nord par la meme route que la quete de Himmel.
+- Role de Schein : il ne pleure pas Heiter - non par froideur, mais par conviction theologique (Heiter est aupres de la Deesse). Contraste avec son deuil de Himmel : la foi acquise change son rapport a la perte.
+- Aboutissement des fils chauds : Peur d'aimer - Fern, s'attacher a une humaine mortelle encore : Tchekhov arme, actif. Magie de lumiere / nature divine - la conviction sur la Deesse, heritee de Serie : graine active. Empathie de Schein - le retrait qui laisse la place au duo Frieren/Fern : Tchekhov actif.
+- Issue de l'etape : Heiter est mort. Frieren, Schein et Fern (13 ans) partent ensemble de Strahl. La remontee vers le nord commence. L'arc EreCalme est clos.
 
 ## Notes de frontiere
 

@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren01_V3_3_Couverture
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_01_Chasse_Hutte.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren01_V3_2_Fleurs_Printemps.md
@@ -32,6 +32,13 @@
 
 ## Objets presents ou evoques
 - Couverture (de Schein) - objet de la scene, don implicite | dans la hutte | pas de fiche WIKI
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : premier hiver dans la hutte. Schein voit Frieren trembler malgre le foyer allume. Il lui offre sa couverture en pretextant que l'hiver etait plus rude au chateau. Le lendemain matin, il est retrouve colle a la cheminee. Le mensonge ne trompe personne - mais ni l'un ni l'autre ne le releve.
+- Role de Schein : demon resistant au froid qui cede sa couverture par un demi-mensonge. La tendresse non nommee inaugure un registre qui n'existait pas entre eux.
+- Aboutissement des fils chauds : (aucun Tchekhov nomme dans le bloc roadmap.) Le geste inaugural de tendresse non nommee est accompli.
+- Issue de l'etape : la couverture a ete donnee, le mensonge accepte en silence. Le premier hiver passe.
 
 ## Notes de frontiere
 - Schein colle a la cheminee le lendemain matin -> roadmap.

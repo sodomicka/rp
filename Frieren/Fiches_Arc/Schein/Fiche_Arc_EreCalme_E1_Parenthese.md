@@ -1,6 +1,6 @@
 # Fiche_Arc_EreCalme_E1_Parenthese
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Ere_Calme.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel05_E46_Separation.md
@@ -36,6 +36,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Cinquante ans de paix apres la separation du groupe (An 15). Schein et Frieren vivent en couple a la hutte des Terres Centrales - meme schema que les cinq siecles precedents, mais en couple assume depuis Aeusserst. Deconnexion temporelle : 50 ans pour deux immortels, c'est une parenthese. En arriere-plan : Himmel vieillit a la Capitale, Heiter devient eveque a Strahl, Eisen faiblit a Bredt. Correspondances Heiter/Eisen par lettres.
+- Role de Schein : parenthese subjective. 50 ans = une semaine vecue. Il ne mesure pas que les humains, eux, sont en train de finir.
+- Aboutissement des fils chauds : Peur d'aimer - la bulle de la hutte differe l'echeance de l'attachement : Tchekhov arme, en suspens.
+- Issue de l'etape : Cinquante ans s'ecoulent. La hutte est intacte. Le monde exterieur a vieilli sans eux.
 
 ## Notes de frontiere
 

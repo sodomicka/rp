@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren01_V3_1_Cuisine
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_01_Chasse_Hutte.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren01_E2_1_Hutte.md
@@ -34,6 +34,13 @@
 
 ## Objets presents ou evoques
 - Herbes et epices de Frieren - stock d'ingredients collectes dans la foret | dans la hutte | pas de fiche WIKI
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein mange sa viande crue, Frieren carbonise la sienne - chacun juge l'autre avec condescendance tranquille pendant des mois. La curiosite l'emporte : ils echangent leurs routines. Frieren tombe malade mais admet que bleu ou saignant serait un bon compromis. Schein decouvre que les herbes de Frieren ajoutent quelque chose qu'il n'avait jamais cherche. Elle lui fait decouvrir les epices, il lui apprend a cuire sans cramer. Les siecles suivants, ils mangent pareil, cuisinant souvent ensemble.
+- Role de Schein : predateur apex converti aux epices. La convergence alimentaire est le premier signe non nomme de la constitution du couple.
+- Aboutissement des fils chauds : (aucun Tchekhov nomme dans le bloc roadmap.) La convergence alimentaire est une potentialite qui se realise dans cette etape.
+- Issue de l'etape : les deux cohabitants mangent desormais pareil. Le premier rituel commun non nomme est installe.
 
 ## Notes de frontiere
 - La curiosite qui l'emporte et les echanges de routines -> roadmap.

@@ -1,6 +1,6 @@
 # Fiche_Arc_EreCalme_E6_Ruse_Grimoire
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Ere_Calme.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_EreCalme_E5_Arrivee_Heiter.md
@@ -39,6 +39,13 @@
 
 - Grimoire du Sage Ewig (pretendument) - presente par Heiter comme plein de sorts d'immortalite | supercherie a l'ouverture | localisation : chez Heiter, Strahl
 - Corne de Dragon des Ombres - dans la valise de Frieren | fil toujours actif
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Heiter demande a Frieren de prendre Fern comme apprentie. Refus. Plan B : il invoque le grimoire du Sage Ewig, pretendument rempli de sorts d'immortalite et de resurrection. Frieren accepte de le dechiffrer (~4 ans). Schein comprend la supercherie immediatement - il apprecie que son ami pousse Frieren a s'attacher a une nouvelle humaine. Complicite silencieuse : il ne denonce pas Heiter.
+- Role de Schein : complice tacite. Il laisse faire parce qu'il sait ce qu'un attachement humain apporte a Frieren - et parce qu'il a appris ce que coute de ne pas s'attacher a temps.
+- Aboutissement des fils chauds : Peur d'aimer - pousser Frieren vers ses attaches : Tchekhov actif. Empathie de Schein - lire l'intention de Heiter et la respecter : Tchekhov actif.
+- Issue de l'etape : Frieren s'est engagee a dechiffrer le grimoire. Le sejour chez Heiter va durer ~4 ans. Fern est dans le circuit.
 
 ## Notes de frontiere
 

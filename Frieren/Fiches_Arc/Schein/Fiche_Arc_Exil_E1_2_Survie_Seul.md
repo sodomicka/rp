@@ -1,6 +1,6 @@
 # Fiche_Arc_Exil_E1_2_Survie_Seul
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Exil_Solo.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Exil_E1_1_Fuite_Ende.md
@@ -30,6 +30,13 @@
 
 ## Objets presents ou evoques
 - Bras gauche scelle - presente, mort, contenu sous le sceau du Roi | cf. etape precedente | aucune fiche WIKI dediee
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Chasse animale pour se nourrir - maladroite au debut avec un seul bras. La faim de tuer (instinct demoniaque) est permanente, mais Schein la contient : il ne tue que des demons, il mange des animaux. Adaptation progressive du combat a un seul bras : le Zoltraak blanc reste efficace (bras droit), la vitesse et le vol compensent le desequilibre physique, mais le corps-a-corps est compromis. Mouvement permanent - pas de camp fixe, pas de territoire. Il fuit plus qu'il ne chasse.
+- Role de Schein : un animal blesse qui reapprend a fonctionner. Pas de reflexion strategique - juste la survie.
+- Aboutissement des fils chauds : aucun Tchekhov specifique ne se declenche dans cette etape.
+- Issue de l'etape : Schein est fonctionnel en mode survie dans les forets des Terres du Nord. L'adaptation physique au combat a un bras est en cours mais pas encore acquise.
 
 ## Notes de frontiere
 - L'adaptation definitive du style de combat a un seul bras -> se produit progressivement sur cette etape et les suivantes (roadmap).

@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren01_V3_4_Porte_Verrouillee
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_01_Chasse_Hutte.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren01_V3_3_Couverture.md
@@ -34,6 +34,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein est parti chasser. Frieren verrouille la porte avant de dormir - habitude, pas intention. La pluie se leve. Il revient, tambourine. Elle n'entend rien. Il dort dehors, trempe. Le lendemain, elle ne comprend pas pourquoi il est de mauvaise humeur - lui ne l'explique pas. Malentendu domestique entre une elfe de ~800 ans et un demon de ~1 100 ans.
+- Role de Schein : demon de predateur apex qui dort sous la pluie sans danger physique, mais de mauvaise humeur. Sa reaction au malentendu est de mauvaise humeur sans explication, pas de colere disproportionnee.
+- Aboutissement des fils chauds : (aucun Tchekhov nomme dans le bloc roadmap.) La vignette illustre le quotidien absurde de la cohabitation.
+- Issue de l'etape : le malentendu reste non resolu, non releve, archive dans les curiosites des deux. La vie commune reprend normalement.
 
 ## Notes de frontiere
 - Schein qui dort dehors sous la pluie -> roadmap.

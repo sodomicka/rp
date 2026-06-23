@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark01_E9_Foret_Groesse
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_01_Terres_Centrales.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_EreCalme_E8_Mort_Heiter.md
@@ -35,6 +35,13 @@
 ## Objets presents ou evoques
 - Variante blanche du Zoltraak (Schein) - sort personnel derive du Zoltraak de Qual ; lumineuse, consume la chair demoniaque au point d'impact ; Schein est plus rapide a le lancer que Qual.
 - Sceau de Frieren - sort de scellement pose ~An 3, en fin de vie a l'ouverture de cette etape ; va liberer Qual au moment prevu.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le sceau de Frieren sur Qual arrive en fin de vie (~87 ans apres An ~3) et se libere. Qual se reveille et salue Frieren. Il reconnait Schein - son ancien disciple, "le Traitre" - voyageant avec des humains ; il apprend la mort du Roi. Schein lui propose une alternative : vivre comme lui, renoncer aux massacres, se contenter de proies non intelligentes. Qual refuse. Schein se retire en declarant : "tu mourras honorablement face a la femme que j'aime et la disciple qu'elle forme." Combat : Fern bloque le Zoltraak de Qual (devenu magie ordinaire apres 87 ans de retro-ingenierie humaine) ; Frieren tue Qual avec son propre sort.
+- Role de Schein : il ne combat pas son mentor - meme retrait que lors du scellement initial. Cette fois il tend une main : l'alternative qu'il a lui-meme choisie. Qual la decline, comme le Roi l'aurait declinee. Le retrait n'est plus seulement loyaute ; c'est une philosophie mise a l'epreuve et refusee.
+- Aboutissement des fils chauds : Empathie de Schein - il offre une issue a un demon-mentor au lieu de l'achever ; l'alternative est refusee, ce qui confirme l'etendue du gouffre entre Schein et le reste de son espece. Magie de lumiere - Schein se retrouve face au createur du Zoltraak dont il a produit la variante blanche ; le lineage est present mais non explicite.
+- Issue de l'etape : Qual est tue par Frieren et Fern. La confrontation avec un demon de rang Sage s'acheve sans que Schein ait eu a lever la main. Le groupe repart vers Granz.
 
 ## Notes de frontiere
 - Le deroulement du combat Frieren + Fern contre Qual -> roadmap.

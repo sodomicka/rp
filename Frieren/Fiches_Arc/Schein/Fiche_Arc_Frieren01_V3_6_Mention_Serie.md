@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren01_V3_6_Mention_Serie
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_01_Chasse_Hutte.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren01_V3_5_Mur_Explose.md
@@ -36,6 +36,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein mentionne Serie en passant - a propos de la suppression de mana ou d'un sort appris pendant leurs 150 ans ensemble. Il en parle comme d'un passe acte, referme tant que son pere vit. Frieren ressent quelque chose qu'elle ne sait pas nommer - une pointe, pas de la colere, pas de la tristesse. Elle n'a pas le vocabulaire pour identifier la jalousie. Elle classe ca dans les curiosites.
+- Role de Schein : il mentionne Serie sans dramatiser - le passe acte, referme. Il ne remarque pas la reaction de Frieren.
+- Aboutissement des fils chauds : Peur d'aimer - la condition "pas tant que mon pere vit" est rappellee ; Tchekhov actif, non resolu. Serie et le pantheon-famille - le triangle n'existe pas encore ; Frieren ne sait pas que Serie existe au-dela d'un nom ; la graine est plantee, non arrosee.
+- Issue de l'etape : Frieren a classe une emotion non nommee dans les curiosites. La mention de Serie passe sans eclat. La vie commune reprend.
 
 ## Notes de frontiere
 - La reaction interne de Frieren (une pointe non nommee, pas de la colere) -> roadmap.

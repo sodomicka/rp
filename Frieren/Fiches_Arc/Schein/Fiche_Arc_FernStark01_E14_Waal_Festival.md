@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark01_E14_Waal_Festival
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_01_Terres_Centrales.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark01_E13_Riegel_Stark_Recrute.md
@@ -39,6 +39,13 @@
 
 ## Objets presents ou evoques
 - Statue de Schein (a Waal) - seule statue solo de Schein a visage decouvert dans une ville humaine ; erigee ~An 4-5 apres l'assaut demon repousse ; gravure de "le seul demon gentil".
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe (Frieren, Schein, Fern, Stark) passe par Waal, bloquee en lockdown depuis deux ans a cause d'une recrudescence de monstres. Le groupe obtient l'autorisation speciale de traverser ; il nettoie l'eboulement sur la Grande Route d'Eng. Dans la ville voisine, un Festival de Liberation est organise en l'honneur du Groupe des Heros. Payoff : Waal est la seule cite a avoir erige une statue de Schein (et non de Himmel), en memoire de l'assaut demon repousse a l'aller (~An 4-5). Schein se retrouve face au monument qui grave son image de "seul demon gentil" dans la pierre.
+- Role de Schein : retour sur les lieux de sa seule gloire publique a visage decouvert. Ce qu'il fuit - l'image du demon gentil - est grave dans la pierre par une ville reconnaissante qu'il avait protegee alors qu'elle le rejetait.
+- Aboutissement des fils chauds : Statue de Schein / "seul demon gentil" - PAYOFF ici (plante a Himmel_02 etape 11). Peur d'aimer / empathie - il avait protege une ville qui le rejetait ; elle lui rend le geste sous la forme d'une statue solo.
+- Issue de l'etape : L'autorisation de traverser est obtenue. Le lockdown est leve. Le groupe quitte Waal vers les Terres du Nord, dans la configuration complete (Frieren, Schein, Fern, Stark).
 
 ## Notes de frontiere
 - Le deroulement de la negociation pour l'autorisation et du nettoyage de l'eboulement -> roadmap.

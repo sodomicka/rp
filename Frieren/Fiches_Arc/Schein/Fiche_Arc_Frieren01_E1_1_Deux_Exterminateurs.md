@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren01_E1_1_Deux_Exterminateurs
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_01_Chasse_Hutte.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chasse_E4_2_Rencontre_Frieren.md
@@ -34,6 +34,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein et Frieren partent ensemble apres la guerison du bras dore. Alliance pragmatique : deux tueurs de demons qui se valent. Mode operatoire d'elimination systematique sur ~80 ans - extermination de nuisible, objectif final clair (affaiblir le Royaume). Le duo est complementaire : Schein (Zoltraak blanc, detection demoniaque, suppression de mana, vitesse) + Frieren (reserve de mana enorme, analyse magique, arsenal varie). Frieren apprend progressivement a pardonner a Schein ce qu'il est - pas encore accompli en debut d'etape.
+- Role de Schein : chasseur avec un but. Il veut batir un monde ou le Roi est mort - pour Serie, encore. L'alliance reste strictement operationnelle.
+- Aboutissement des fils chauds : Peur d'aimer - la condition "pas tant que mon pere vit" tient. L'alliance avec Frieren est strictement operationnelle tout au long de cette etape, pas d'ouverture emotionnelle.
+- Issue de l'etape : ~80 ans de chasse active se concluent sans que l'objectif final soit atteint. La phase de guerilla commune prend fin sur un constat strategique qui appartient a l'etape suivante.
 
 ## Notes de frontiere
 - L'evolution du rapport Schein/Frieren sur 80 ans de chasse commune -> roadmap.

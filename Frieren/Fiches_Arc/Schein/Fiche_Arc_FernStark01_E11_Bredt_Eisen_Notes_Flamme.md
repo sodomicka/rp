@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark01_E11_Bredt_Eisen_Notes_Flamme
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_01_Terres_Centrales.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark01_E10_Granz_Hivernage.md
@@ -36,6 +36,13 @@
 
 ## Objets presents ou evoques
 - Notes de Flamme - grimoire protege cache dans les ruines du Bassin Voll ; contient le recit de la visite de Flamme a Aureole ; non encore trouve a l'ouverture de l'etape (decouverte mentionnee par Eisen pendant l'etape).
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe retrouve Eisen a Bredt, dans la retraite qu'il avait annoncee a l'aller. Eisen, tres age, refuse de voyager - lucide sur son declin. Il oriente le groupe vers Stark, son apprenti, installe dans un village du Canyon de Riegel. Dans les ruines du Bassin Voll (inclus dans la region de Bredt), Frieren decouvre les Notes de Flamme : un grimoire cache contenant le recit de la visite de Flamme a Aureole. Schein et Eisen se retrouvent - le nain qui couvrait son flanc gauche est en fin de vie.
+- Role de Schein : second adieu a un compagnon de la quete de Himmel. Eisen fut le premier a couvrir son flanc gauche - celui du bras scelle. Le voir finir prolonge le deuil entame avec Himmel.
+- Aboutissement des fils chauds : Notes de Flamme - decouverte ici (recit de la visite de Flamme a Aureole) ; Aureole se solidifie comme destination. Empathie / Peur d'aimer - encore un mortel qui s'eteint.
+- Issue de l'etape : Eisen indique Riegel et Stark. Les Notes de Flamme confirmant Aureole comme destination, le groupe repart vers le Canyon de Riegel.
 
 ## Notes de frontiere
 - La decouverte precise des Notes de Flamme et leur contenu exact -> roadmap.

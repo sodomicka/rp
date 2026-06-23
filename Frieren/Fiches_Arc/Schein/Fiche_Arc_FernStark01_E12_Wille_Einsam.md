@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark01_E12_Wille_Einsam
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_01_Terres_Centrales.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark01_E11_Bredt_Eisen_Notes_Flamme.md
@@ -37,6 +37,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe traverse une foret embrumee dans la region de Wille. L'Einsam - monstre mimetique qui prend la forme de l'etre qui manque le plus - isole chaque membre dans la brume. Fern voit Heiter age. Frieren s'attend a voir Flamme mais c'est Himmel qui apparait ; elle realise qu'elle a change. Le vrai-faux Himmel lui dit de tirer - exactement ce qu'il aurait dit - et Frieren lance un Zoltraak qui dissipe la brume. Fern detruit l'Einsam aussitot. Schein, lui, est fige depuis le debut : l'Einsam lui a montre Serie - pas une morte, mais la perte qui le devore, 832 ans de silence, l'amour abandonne, la culpabilite. Les filles le retrouvent a genoux, en sanglots silencieux, a bout de souffle. Le soir, confidence sur l'oreiller : Schein admet qu'il les aime toutes les deux, differemment.
+- Role de Schein : detonation partielle du Tchekhov peur d'aimer. 832 ans de silence remontent d'un coup. C'est la premiere fois qu'il nomme, devant Frieren, qu'il aime aussi Serie.
+- Aboutissement des fils chauds : Peur d'aimer - enrichi ici : Serie sous la brume, 832 ans de silence, aveu sur l'oreiller. Prepare le triangle d'Aeusserst. Empathie de Schein - la proie ideale d'un monstre mimetique est un etre tres sensible qui porte une tres longue peine : confirmation de sa nature non-demoniaque.
+- Issue de l'etape : L'Einsam est detruit. L'aveu est fait. Le groupe repart vers Riegel, avec le triangle desormais nomme entre Schein et Frieren.
 
 ## Notes de frontiere
 - Le deroulement precis des illusions de chaque membre du groupe -> roadmap.

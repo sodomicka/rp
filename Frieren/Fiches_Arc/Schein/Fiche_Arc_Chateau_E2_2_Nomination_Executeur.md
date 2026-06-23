@@ -1,6 +1,6 @@
 # Fiche_Arc_Chateau_E2_2_Nomination_Executeur
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chateau.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chateau_E2_1_Apprentissage_Zoltraak.md
@@ -35,6 +35,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le Roi nomme Schein executeur - traqueur des demons deserteurs du Royaume. Une escouade est formee : Basalt (lieutenant, choisi par le Roi, loyaute au Roi d'abord), Porphyr et Gabbro (bras discrets). Le role d'executeur est un double levier : chaque mission active le Zoltraak blanc (arme demonicide au service du Roi) et nourrit le contrecoup bestial (autodestruction programmee).
+- Role de Schein : il croit servir. Il ne voit pas que le role est construit pour le consumer.
+- Aboutissement des fils chauds : aucun Tchekhov specifique ne se declenche dans cette etape. Le dispositif (escouade, role d'executeur) est mis en place - les Tchekhovs s'activeront en mission.
+- Issue de l'etape : l'escouade de l'Executeur est operationnelle. Basalt est un outil du Roi plante aupres de Schein. Les missions peuvent commencer.
 
 ## Notes de frontiere
 - Les premieres missions de l'escouade -> etape suivante (roadmap).

@@ -1,6 +1,6 @@
 # Fiche_Arc_Chateau_E5_1_Semaine_Confort
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chateau.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chateau_E4_1_Cellule_365.md
@@ -29,6 +29,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Immediatement apres la cellule, le Roi simule l'amour paternel pendant une semaine : douceur, attention, presence. Preparation psychologique deliberee avant la mission suivante. Schein, brise par un an de cellule, est au plus bas de sa resistance emotionnelle - la tendresse factice s'infiltre dans les fissures. Schein ne dit pas "Merci, pere." La semaine de confort n'y change rien - le silence est desormais permanent. Le Roi constate que meme la tendresse simulee ne ramene pas le rituel.
+- Role de Schein : il veut y croire. C'est ca qui le rend vulnerable. Mais la gratitude ne franchit plus ses levres.
+- Aboutissement des fils chauds : "Merci, pere." - absent. Le Roi teste et constate que la brisure est plus profonde que prevu : le levier emotionnel verbal est casse.
+- Issue de l'etape : la semaine de confort s'acheve. Schein est psychologiquement prepare (manipule) pour la mission de Bluete. Le Roi lance la prochaine etape.
 
 ## Notes de frontiere
 - La fin de la semaine de confort et l'ordre de mission -> se produit a la fin de l'etape (roadmap).

@@ -1,6 +1,6 @@
 # Fiche_Arc_Aeusserst_E5a_Schein_Reste_Frieren
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Aeusserst.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Aeusserst_E4_Troisieme_Epreuve_Confrontation.md
@@ -43,6 +43,13 @@
 
 ## Objets presents ou evoques
 - Bague de lotus (Frieren) - gardee par Frieren ; PAYOFF du Tchekhov plante a l'aller (~An 7) ; symbole de leur couple ayant resiste.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein a choisi Frieren (branche canon). Il reste seul avec Serie apres la troisieme epreuve. Serie comprend que le temps a joue contre eux et que leur divergence sur le meurtre du Roi a trop entame la relation. Elle rationalise froidement pour masquer sa peine : les demons ont perdu en puissance, il ne reste plus que Macht comme Sage, l'espece s'eteindra de toute facon. Pas une seule larme. Elle se referme plus que jamais aux emotions - les millenaires sont un fardeau a porter seule. Les quatre heros (Frieren, Schein, Fern, Stark) repartent de la ville ; Fern est desormais diplomee de premiere classe. Schein est devaste d'avoir du choisir. Frieren n'exulte pas - elle verse une larme de compassion, se projetant a la place de Serie. Le couple se reconstruit en quelques semaines, trouvant un exutoire dans le sexe et dans la destruction sans retenue de groupes de demons du Plateau Nord.
+- Role de Schein : il a choisi l'individu libre contre le souverain. Le prix : briser son premier amour, en etant pleinement conscient de ce qu'il inflige. La destruction des demons du Plateau Nord est un exutoire au contrecoup et au deuil de Serie.
+- Aboutissement des fils chauds : Choix final (point 1/2) - RESOLU cote Aeusserst : Frieren. L'ascension reste ouverte (Aureole). Bague de lotus - PAYOFF : symbole du couple qui a resiste a l'epreuve. Frieren la garde. Peur d'aimer - Schein a choisi d'aimer malgre le deuil qu'il inflige. Contrecoup bestial - la destruction sans retenue des demons du Plateau Nord ne produit aucun contrecoup (dechainement total sur cibles legitimes, zero mesure = zero dette).
+- Issue de l'etape : La branche 5a s'acheve. Serie est brisee mais froide. Le couple Schein/Frieren est reconstruit. Le groupe repart vers le Plateau Nord.
 
 ## Notes de frontiere
 - Les mots exacts de Schein a Serie (annonce de la decision) -> roadmap.

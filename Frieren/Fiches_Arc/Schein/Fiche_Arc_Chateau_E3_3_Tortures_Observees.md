@@ -1,6 +1,6 @@
 # Fiche_Arc_Chateau_E3_3_Tortures_Observees
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chateau.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chateau_E3_2_General_Renegat.md
@@ -39,6 +39,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le Roi inflige des tortures a Schein en presence d'un temoin different a chaque seance (phase sadique, pretextes absurdes). Les Sages viennent par curiosite ou sur ordre, et observent chacun selon sa nature : Schlacht - observe en silence, calcule, resignation strategique ; Grausam - reaction illisible, gene possible ou curiosite clinique ; Qual - clinique avec sadisme technique, etudie la resistance physique et la reaction du Zoltraak blanc sous la douleur ; Solitaer - curiosite scientifique, une donnee qui invalide son modele d'evolution convergente ; Macht - curiosite sincere qui ressemble a de l'inconfort ; Boese - mepris ouvert, sadisme simple, les emotions sont une faiblesse. Chaque regard d'un Sage ajoute une couche a l'humiliation.
+- Role de Schein : il endure. Le prince est un spectacle. Chaque Sage confirme a sa maniere que son empathie ne devrait pas exister.
+- Aboutissement des fils chauds : Empathie de Schein - chaque Sage confirme par sa reaction que cette empathie est une anomalie. Le fil reste arme sans se resoudre ici.
+- Issue de l'etape : la serie de seances se conclut. Schein a endure l'humiliation publique devant toute l'elite du Royaume. L'ordre des seances et pretextes est a definir en jeu.
 
 ## Notes de frontiere
 - L'ordre des seances et le pretexte de chaque torture -> a definir en jeu (roadmap note cela explicitement).

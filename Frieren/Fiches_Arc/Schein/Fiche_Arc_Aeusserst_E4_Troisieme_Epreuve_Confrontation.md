@@ -1,6 +1,6 @@
 # Fiche_Arc_Aeusserst_E4_Troisieme_Epreuve_Confrontation
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Aeusserst.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Aeusserst_E3_Deuxieme_Epreuve_Sense.md
@@ -51,6 +51,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Trop de candidats qualifies apres l'epreuve de Sense - Serie reprend la troisieme epreuve elle-meme. Lernen cede sa place ("je ne suis pas qualifie pour tester Frieren") ; Sense accepte. Schein est convie comme second juge. Serie espere lui faire la demonstration de ce qu'elle a bati. Les candidats passent un par un - detail en narration : Denken evoque Macht et reconnait en Schein celui qui a defait la transmutation en or ; Uebel (talent de visualisation hors norme, mort de Burg) ; Methode (dualite mage/pretresse, resonance avec Schein) ; Wirbel (magie comme outil de survie) ; et les autres. Fern est reconnue comme une prodige, passe en avant-derniere. Frieren passe en dernier. C'est l'heure de la confrontation : les deux avenirs sont poses face a face - avec Frieren (flaner, vivre en individu libre) contre avec Serie (unifier le continent, devenir Roi et Reine des demons). La scission est exigee. Schein doit choisir.
+- Role de Schein : second juge et enjeu vivant. Il evalue les mages de Serie - et a travers eux, le monde qu'elle lui propose. La confrontation finale Frieren/Serie le force vers la decision mise en pause a l'etape 1.
+- Aboutissement des fils chauds : Peur d'aimer - DETONATION : le triangle ne peut plus rester suspendu. Magie de lumiere / nature divine - Denken (lien Macht) et Methode (signature mi-divine) effleurent l'anomalie sans la nommer : fils actifs, non resolus. Choix final de Schein - premier point de decision atteint : Frieren ou Serie ?
+- Issue de l'etape : La troisieme epreuve s'est deroulee avec Schein comme second juge. La confrontation Frieren/Serie a force le choix. L'etape se termine sur cette confrontation. Le CHOIX de Schein et ses consequences appartiennent aux etapes 5a ou 5b.
 
 ## Notes de frontiere
 - Le passage de chaque candidat et les decisions exactes de Serie et Schein comme juges -> narration, fetch fiches a la demande.

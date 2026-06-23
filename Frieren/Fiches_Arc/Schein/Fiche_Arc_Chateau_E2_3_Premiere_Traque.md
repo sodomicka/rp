@@ -1,6 +1,6 @@
 # Fiche_Arc_Chateau_E2_3_Premiere_Traque
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chateau.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chateau_E2_2_Nomination_Executeur.md
@@ -36,6 +36,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Premiere mission de l'escouade de l'Executeur : traquer un ou plusieurs demons deserteurs. Qual supervise l'operation en observateur, sans intervenir - le Roi veut mesurer l'arme en conditions reelles. Schein utilise le Zoltraak blanc pour la premiere fois en mission ; l'effet demonicide est confirme. Premier contrecoup bestial en situation operationnelle. Qual prend note, le Roi collecte les donnees.
+- Role de Schein : premier meurtre en mission. Premier tiraillement entre le devoir et l'empathie - tuer des demons le blesse, ce qui ne devrait pas arriver.
+- Aboutissement des fils chauds : Empathie de Schein - le meurtre en mission la reveille. Schein tue et en souffre. Le fil est confirme actif en contexte operationnel.
+- Issue de l'etape : premiere mission accomplie. Le Zoltraak blanc est valide en conditions reelles. Le contrecoup bestial est observe. Le Roi a les donnees qu'il cherchait.
 
 ## Notes de frontiere
 - Le resultat de la premiere mission (efficacite confirmee, premier contrecoup en conditions reelles) -> se revele au fil de l'etape (roadmap).

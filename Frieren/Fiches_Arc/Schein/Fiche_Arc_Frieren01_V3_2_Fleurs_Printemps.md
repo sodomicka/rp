@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren01_V3_2_Fleurs_Printemps
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_01_Chasse_Hutte.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren01_V3_1_Cuisine.md
@@ -33,6 +33,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : au premier jour du printemps, Frieren fait pousser des fleurs partout autour de la hutte et sur le toit - sort inutile, geste gratuit. Schein dit un truc vulgaire. Elle recommence l'annee suivante ; lui recommence le commentaire vulgaire. Le rituel s'installe sans etre nomme sur ~500 ans. Une annee, Frieren oublie - c'est Schein qui le lui fait remarquer, de maniere vulgaire, revelant ainsi que ca lui plait. Le rituel cesse d'etre a elle seule : il est a eux.
+- Role de Schein : reacteur vulgaire devenu gardien du rituel. Son commentaire annuel prouve que le geste gratuit de Frieren lui appartient aussi.
+- Aboutissement des fils chauds : (aucun Tchekhov nomme dans le bloc roadmap.) La naissance d'un rituel commun est accomplie dans cette etape.
+- Issue de l'etape : le rituel des fleurs du printemps est etabli et partage, meme si jamais nomme comme tel.
 
 ## Notes de frontiere
 - Le commentaire vulgaire de Schein (reaction) -> roadmap.

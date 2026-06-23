@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark02_E19_Alt_Sein_Recrute
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_02_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark02_E18_Appetit_Anniversaire_Stark.md
@@ -38,6 +38,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Pres d'Alt Woods, le groupe rencontre Sein - pretre humain qui boit, fume, joue et drague les femmes mures, mais guerisseur et exorciste tres competent. Frieren le sauve d'un marecage. Son frere le pousse a partir. Sein rejoint le groupe. Lien canon avec Heiter : enfant, Sein a croise Heiter (eveque de Strahl en tournee a Alt) ; il voue une admiration profonde a Heiter. Don naturel pour la magie de la Deesse (Benediction de la Deesse, resistance aux maledictions). Dynamique modifiee par la presence de Schein : Frieren est en couple, avec l'aura d'une femme de 1 300 ans dans un corps d'apparence jeune.
+- Role de Schein : observateur vigilant et amuse. Surtout : Sein et lui partagent une figure - Heiter. Sein l'a connu enfant et l'admire ; Schein a vecu quatre ans a ses cotes et deconstruit sa magie avec lui. Lien indirect Schein/Sein via le meme mort aime.
+- Aboutissement des fils chauds : Empathie de Schein - lecture d'un nouveau type d'humain (foi imparfaite mais sincere).
+- Issue de l'etape : Sein rejoint le groupe. Le groupe, maintenant a cinq (Frieren, Schein, Fern, Stark, Sein), repart vers Raad.
 
 ## Notes de frontiere
 - La decision de Sein de partir et le role exact du frere dans ce choix -> roadmap.

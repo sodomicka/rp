@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren02_E3_Lac_Korridor
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_02_Plateau_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren02_E2_Graf_Dach.md
@@ -36,6 +36,13 @@
 ## Objets presents ou evoques
 - Journal de Himmel - recit du quotidien du groupe pendant la quete ; localise dans le monastere de l'ile ; protege par une barriere ; pas encore trouve a l'ouverture.
 - Barriere magique du monastere - protege l'ile ; Frieren peut la dissiper.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe est bloque a la ville-port par une tempete de plusieurs mois. La tempete passee, ils ne peuvent pas payer le passeur. Celui-ci propose le marche : recuperer le memoire de Himmel abandonne dans le monastere protege de l'ile en echange du passage. Frieren dissipe la barriere du monastere. Dans la bibliotheque, ils trouvent une statue de Himmel et son journal pose sur le piedestal. Frieren reconnait l'ecriture et recupere le journal. Il ne consigne pas des batailles mais le quotidien trivial du groupe - et Schein y figure comme membre a part entiere, couche sur le papier de la main de Himmel.
+- Role de Schein : confronte a la preuve ecrite de son appartenance. L'effacement de l'Histoire (capuche, Granat, Waal) se decouvre inverse : Schein est inscrit, en creux, dans le journal intime du heros. La patience du predateur bloque par un passeur cede a un beat de reconnaissance - il est dans le livre. Il etait aime comme un compagnon, pas tolere comme une arme.
+- Aboutissement des fils chauds : Journal de Himmel - DETONATION. Plante a An 0, detone ici a la decouverte post-mortem. Empathie de Schein / Peur d'aimer - Schein y lit qu'il fut accueilli comme un compagnon ; les deux fils progressent.
+- Issue de l'etape : le journal est recupere, la traversee est payee par le marche. Le groupe traverse le lac et reprend sa progression vers le nord.
 
 ## Notes de frontiere
 - Le contenu precis du journal (ce que Himmel y a ecrit sur Schein) -> roadmap.

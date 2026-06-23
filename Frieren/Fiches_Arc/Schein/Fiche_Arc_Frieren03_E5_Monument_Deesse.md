@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren03_E5_Monument_Deesse
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_03_Terres_Dorees.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren03_E4_Resolution_Or.md
@@ -34,6 +34,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Apres Weise, le groupe atteint le Monument de la Deesse sur la route d'Ende. Frieren est projetee dans le passe - dans le corps de la Frieren de l'ere Himmel, avec ses souvenirs du futur. Son corps reste inerte au present ; Schein, Fern et Stark veillent. Frieren revient via le Monument, ayant revu dans le passe le groupe au complet et Himmel vivant. [Le versant passe de cet evenement est deja ecrit en Himmel_04 etape 31 - ne pas rejouer.] Schein, pendant la veille, ressent l'appel de la Deesse comme aucun pretre, aucun demon, aucun elfe - la frontiere fine resonne avec sa magie native. Echo de ce qu'il avait percu a Schwer, mais d'une autre intensite. Il ne comprend pas pourquoi le voile le reconnait.
+- Role de Schein : accompagnateur au seuil. Frieren plonge dans son deuil (revoir Himmel) ; Schein veille - et c'est en accompagnant le deuil d'un autre qu'il s'approche, sans le savoir, de la verite de sa propre nature. Prefiguration directe d'Aureole.
+- Aboutissement des fils chauds : Magie de lumiere / nature divine - graine majeure : l'appel de la Deesse resonne, le Monument prefigure Aureole. Nature de Schein a Aureole - seuil franchi ; la detonation appartient au segment suivant. Empathie de Schein - accompagner le deuil de Frieren progresse le fil.
+- Issue de l'etape : Frieren est revenue du Monument. Le groupe reprend sa route vers Ende et Aureole. Le seuil du segment suivant (Frieren_04) est pose.
 
 ## Notes de frontiere
 - Ce que Frieren vit dans le passe (versant passe deja ecrit en Himmel_04 etape 31 - ne pas reecrire) -> Roadmap_Himmel_04_Plateau_Nord etape 31.

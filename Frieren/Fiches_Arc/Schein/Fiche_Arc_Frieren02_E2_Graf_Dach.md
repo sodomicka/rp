@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren02_E2_Graf_Dach
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_02_Plateau_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren02_E1_Sortie_Aeusserst.md
@@ -32,6 +32,13 @@
 ## Objets presents ou evoques
 - Registres marchands de la maison Norm - archives de la dette contractee avec le Groupe des Heros a An ~7-10 ; en la possession du petit-fils ; preuve materielle de la creance.
 - Epee hereditaire de Graf Dach - epee ayant jadis appartenu a un demon notable, volee et recuperee a l'aller par le Groupe des Heros (canon double vol, cf. Personnages/Norm) ; evoquee en contexte.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe atteint le domaine de Graf Dach. Frieren presente la creance aux registres du petit-fils de Norm et rembourse la dette contractee a l'aller (~An 7-10) par Himmel en son nom. La maison Norm honore les archives sur trois generations ; le remboursement se conclut. Pour Schein, la scene est une lecon de continuite humaine : une parole donnee a un homme mort, honoree quatre-vingts ans plus tard aupres d'un descendant que nul des deux contractants n'a connu.
+- Role de Schein : temoin de la memoire longue des humains. A l'aller, il avait livre a Lord Norm le lore de la fierte demoniaque ; au retour, il voit le revers - la fidelite a une parole, qui dure plus longtemps que l'orgueil demoniaque. Il observe la scene sans intervenir directement.
+- Aboutissement des fils chauds : Empathie de Schein - le Tchekhov progresse : Schein comprend une fidelite qui se transmet par-dela la mort, concept etranger aux demons nomades sans heritage. Fil arme et actif, non resolu definitivement.
+- Issue de l'etape : la dette de Himmel est honoree, le passage au domaine se clos. Le groupe reprend sa route vers le nord.
 
 ## Notes de frontiere
 - L'issue concrete du remboursement (montant, modalites) -> roadmap.

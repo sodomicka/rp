@@ -1,6 +1,6 @@
 # Fiche_Arc_Chasse_E1_2_Sauveur_Efficace
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chasse_Solo.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chasse_E1_1_Depart_Resolution.md
@@ -32,6 +32,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein deploie le nouvel arsenal en mode solitaire etendu. La detection demoniaque lui permet d'arriver avant le massacre - les villages sont sauves, plus venges. La suppression de mana le rend invisible jusqu'au dernier moment. Il dialogue avec les humains, modulant son approche grace a 150 ans avec Serie. Il choisit deliberement de rester vulgaire et hostile : un sauveur aimable creerait un precedent exploitable par les predateurs mimetiques. La reputation du "Demon de Lumiere" passe de legende fragmentaire a figure reconnue dans les marges.
+- Role de Schein : paradoxe ambulant - sauveur qui terrorise ceux qu'il sauve. Plus efficace que jamais, plus seul par choix.
+- Aboutissement des fils chauds : Empathie de Schein - le choix de la vulgarite est actif mais pas encore ancre par une preuve catastrophique. Le paradoxe est installe, la lecon definitive appartient a l'etape suivante.
+- Issue de l'etape : le cycle est etabli (detection -> interception -> massacre des demons -> hostilite envers les survivants -> depart). La reputation locale est consolidee. Le choix de la vulgarite reste a l'etat de reflexion tactique, sans ancrage definitif.
 
 ## Notes de frontiere
 - L'evenement qui ancrera definitivement le choix de la vulgarite (le village gentil / village brule, Bloc 2) -> roadmap.

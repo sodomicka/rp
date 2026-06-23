@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren01_V3_5_Mur_Explose
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_01_Chasse_Hutte.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren01_V3_4_Porte_Verrouillee.md
@@ -34,6 +34,13 @@
 
 ## Objets presents ou evoques
 - Mur de la hutte (non encore explose a l'ouverture stricte) - en cours de reparation | dans la hutte | pas de fiche WIKI
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein repare la hutte - travail routinier (~tous les cinquante ans). Il sent le mana d'un demon qu'il a connu au chateau. Le reflexe le traverse avant la pensee. Il explose un mur et part a une vitesse folle. Frieren reste bouche bee, bras ballants, au milieu d'un chantier qui vient de doubler de volume. Il revient un moment plus tard, penaud, avec encore plus de travaux a effectuer.
+- Role de Schein : predateur dont le reflexe de combat passe avant la pensee deliberee. Penaud au retour, il effectue les reparations supplementaires.
+- Aboutissement des fils chauds : (aucun Tchekhov nomme dans le bloc roadmap.) La vignette illustre le quotidien imprevisible de cohabiter avec un demon de chasse.
+- Issue de l'etape : le mur est explose et sera repare. La hutte a survecu a cinq siecles de ce traitement.
 
 ## Notes de frontiere
 - L'explosion du mur et le depart de Schein a vitesse folle -> roadmap.

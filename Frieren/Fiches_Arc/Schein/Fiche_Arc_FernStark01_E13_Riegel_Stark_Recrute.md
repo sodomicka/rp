@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark01_E13_Riegel_Stark_Recrute
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_01_Terres_Centrales.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark01_E12_Wille_Einsam.md
@@ -36,6 +36,13 @@
 
 ## Objets presents ou evoques
 - Grimoire (non nomme) - cache dans le nid du Dragon Solaire au Canyon de Riegel ; raison de la presence du groupe ici.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Frieren, Schein et Fern arrivent au Canyon de Riegel pour recuperer un grimoire dans le nid du Dragon Solaire. Premiere tentative : echec. Ils decouvrent Stark dans un village du canyon - installe depuis ~3 ans, protecteur paralyse par la peur du dragon. Schein ne touche pas au dragon : il laisse sa proie a Stark, comme Eisen plantait sa hache pour signaler un duel. Stark s'entraine la nuit (il fend une falaise), accepte le combat, tue le dragon d'un seul coup. Il rejoint le groupe. Stark reconnait en Schein le demon dont Eisen lui a parle pendant des annees.
+- Role de Schein : il jauge le futur protecteur de Fern. Laisser la proie = transmettre, geste de mentor nain repris de la methode d'Eisen. Il cree le pont entre lui et Stark via la confiance partagee en Eisen.
+- Aboutissement des fils chauds : Empathie de Schein - laisser sa proie plutot que predation : test de guerrier, acte de transmission.
+- Issue de l'etape : Stark rejoint le groupe. Le Dragon Solaire est mort. Le groupe est desormais au complet pour la premiere fois (Frieren, Schein, Fern, Stark) et repart vers Waal.
 
 ## Notes de frontiere
 - L'entrainement nocturne de Stark (il fend une falaise), sa decision d'accepter le combat -> roadmap.

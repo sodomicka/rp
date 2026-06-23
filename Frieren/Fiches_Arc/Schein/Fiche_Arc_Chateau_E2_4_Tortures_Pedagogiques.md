@@ -1,6 +1,6 @@
 # Fiche_Arc_Chateau_E2_4_Tortures_Pedagogiques
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chateau.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chateau_E2_3_Premiere_Traque.md
@@ -31,6 +31,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Les tortures commencent : le Roi punit les "erreurs" de Schein en mission, pretextes lies aux missions d'executeur (deserteur echappe, contrecoup juge excessif, cible tuee avec "trop peu" ou "trop" de brutalite). Le Roi fabrique un cycle : mission -> erreur (reelle ou inventee) -> torture -> guerison -> mission. Schein guerit vite grace a sa magie divine native - il ne comprend pas que cette guerison rapide permet au Roi de recommencer indefiniment.
+- Role de Schein : il encaisse. Il dit "Merci, pere." Il ne sait pas encore que c'est un piege.
+- Aboutissement des fils chauds : "Merci, pere." - le rituel de gratitude s'installe et se renforce deliberement. Le Roi exploite le levier emotionnel plante au moment du titre de prince.
+- Issue de l'etape : le cycle mission-torture-guerison est etabli et tourne. Schein est engage dans cette routine sans en voir l'horizon.
 
 ## Notes de frontiere
 - Le contenu specifique de chaque session de torture de la phase pedagogique -> roadmap (a definir en jeu, sur plusieurs siecles).

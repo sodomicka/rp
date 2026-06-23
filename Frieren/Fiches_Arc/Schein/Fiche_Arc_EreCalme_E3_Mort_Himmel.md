@@ -1,6 +1,6 @@
 # Fiche_Arc_EreCalme_E3_Mort_Himmel
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Ere_Calme.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_EreCalme_E2_Etoiles_Filantes.md
@@ -41,6 +41,13 @@
 ## Objets presents ou evoques
 
 - Journal de Himmel - tenu pendant la quete, contenu quotidien et trivial, Schein y figure | localisation post-mortem inconnue a l'ouverture
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe se reforme pour une derniere aventure. Semaine de marche, Himmel nostalgique. Frieren et Schein retrouvent le rythme humain - comptage des jours, lever tot, marche. Etoiles filantes au lac : Himmel remercie pour "une merveilleuse derniere aventure". Dernier moment du groupe au complet. Peu apres, Himmel meurt paisiblement. Funerailles : Heiter officie (eveque), Himmel en tenue de heros avec son epee, entoure de fleurs. Schein en capuche (cornes mal couvertes ; le clerge est au courant, le peuple connait la silhouette des fresques). Frieren impassible, la foule critique. Schein pret a exploser - desamorce par Eisen et Heiter ("nous non plus ne pleurons pas"). Frieren pleure dehors. Schein pleure aussi, mais pas pour les memes raisons : il avait compris Himmel, il sait ce qu'il perd. Pas le regret de ne pas avoir compris - la douleur lucide d'avoir compris et de perdre quand meme. Schein et Frieren proposent a Eisen de voyager ; Eisen refuse, trop age.
+- Role de Schein : premier deuil ou il perd quelqu'un qu'il avait choisi de comprendre. La douleur lucide de l'attachement - pas le regret d'incomprehension (celui de Frieren), mais la conscience de perdre.
+- Aboutissement des fils chauds : Empathie de Schein - comprendre et perdre quand meme : Tchekhov actif, douleur pleinement vecue. Peur d'aimer - la douleur de l'attachement, confirmee dans ce deuil : Tchekhov declenche. Journal de Himmel - il existe, localisation post-mortem inconnue : graine posee.
+- Issue de l'etape : Himmel est mort et enterre. Les funerailles sont passees. Eisen ne part pas. Schein et Frieren sont seuls de retour.
 
 ## Notes de frontiere
 

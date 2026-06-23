@@ -1,6 +1,6 @@
 # Fiche_Arc_EreCalme_E4_Declic_Depart
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Ere_Calme.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_EreCalme_E3_Mort_Himmel.md
@@ -40,6 +40,13 @@
 ## Objets presents ou evoques
 
 - Corne de Dragon des Ombres - dans la valise de Frieren | recuperee chez Himmel en An 65 | fil actif pour l'enseignement de l'alchimie
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Retour a la hutte. Vingt ans de plus (An 65-85). La Corne de Dragon des Ombres est dans la valise de Frieren. En arriere-plan : naissance de Fern et Stark (~An 76) ; Heiter adopte Fern (~An 80) ; village de Stark detruit (~An 84-86, Stoltz mort, Stark seul survivant, Eisen le recueille et le forme). An ~85 : un declic concret fait realiser a Schein qu'Heiter n'est pas eternel. 20 ans pour un etre de ~1 600 ans, c'est une semaine subjective. Il pousse Frieren a aller voir Heiter pour ne pas refaire la meme erreur qu'avec Himmel.
+- Role de Schein : c'est lui qui amorce le mouvement, par empathie apprise dans le deuil de Himmel. Inversion : le demon-immortel comprend la mortalite des autres avant l'elfe.
+- Aboutissement des fils chauds : Empathie / Peur d'aimer - il agit pour epargner a Frieren un second regret : Tchekhov actif, se traduit en action.
+- Issue de l'etape : Schein a convaincu Frieren de partir voir Heiter. La route vers Strahl commence.
 
 ## Notes de frontiere
 

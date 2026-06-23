@@ -1,6 +1,6 @@
 # Fiche_Arc_Exil_E3_2_Guerilla_Usure
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Exil_Solo.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Exil_E3_1_Villages_Trop_Tard.md
@@ -31,6 +31,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Entre les villages-trop-tard, Schein chasse activement. Patrouilles demoniaques, demons en transit, groupes isoles. Quelques confrontations notables : un general demon isole (assez puissant pour poser probleme a un adversaire a un bras), des demons deserteurs (ironie - l'ancien executeur des deserteurs croise des deserteurs qui ne le connaissent pas sous ce titre). Evolution du Zoltraak blanc en conditions reelles : sans le cadre controle du chateau, la variante blanche devient plus precise et plus economique en mana - adaptation de terrain. Le contrecoup bestial reste un risque constant : sans allies, chaque combat intense est suivi d'une phase de rage aveugle qu'il doit epuiser seul.
+- Role de Schein : soldat seul en territoire ennemi. Efficace, methodique, use. La guerre d'usure use les deux camps.
+- Aboutissement des fils chauds : Contrecoup bestial - sans allies a proteger, le contrecoup n'est dangereux que pour lui-meme. Il installe le reflexe d'autolimitation qui sera crucial plus tard.
+- Issue de l'etape : des decennies de guerilla s'eclipsent. Le Royaume a saigne par les marges. Schein aussi s'est use. Le Zoltraak blanc s'est affine.
 
 ## Notes de frontiere
 - Les confrontations specifiques notables (details des adversaires) -> a definir en jeu (roadmap).

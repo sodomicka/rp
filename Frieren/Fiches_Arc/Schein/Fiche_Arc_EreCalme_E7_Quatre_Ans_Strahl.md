@@ -1,6 +1,6 @@
 # Fiche_Arc_EreCalme_E7_Quatre_Ans_Strahl
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Ere_Calme.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_EreCalme_E6_Ruse_Grimoire.md
@@ -41,6 +41,13 @@
 - Cave d'alcool de Heiter - presente a l'ouverture | Schein va la vider a la place de Heiter | instrument de la complicite
 - Corne de Dragon des Ombres - dans la valise de Frieren | fil toujours actif
 - Grimoire du Sage Ewig (pretendument) - en cours de dechiffrage par Frieren | la revelation de la ruse est future
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Frieren dechiffre le grimoire et forme Fern. Heiter et Schein menent un travail theologique intensif - deconstruction des sorts de Schein, Heiter maitrisant les ~3 pourcent dechiffres des Ecritures Saintes. Schein vide la cave d'alcool de Heiter a sa place : il boit pour deux, l'ancien alcoolique n'a plus la tentation sous le nez sans avoir a ruiner sa foi. Fern observe quatre ans de complicite entre Heiter et Schein - foi absolue en Heiter, transferee a Schein par osmose. Malgre son village detruit par des demons, elle n'a jamais peur de lui. En arriere-plan (~An 89-90) : brouille Eisen/Stark (Eisen frappe Stark, peur de sa force ; Stark part en colere) ; Stark arrive au village du Canyon de Riegel, s'installe ~3 ans avant l'arrivee de Frieren.
+- Role de Schein : interlocuteur theologique de Heiter ; figure de confiance pour Fern. Le demon que l'enfant n'a jamais craint - parce qu'elle a grandi en le voyant a cote de Heiter.
+- Aboutissement des fils chauds : Magie de lumiere - travail theologique, ~3 pourcent dechiffres vs nature divine de Schein : graine active, non resolue. Empathie de Schein - la cave d'alcool, geste pour epargner l'ami : Tchekhov actif.
+- Issue de l'etape : Quatre ans s'ecoulent. Le grimoire est presque termine. Fern a grandi de 9 a 13 ans. Heiter est tres age et approche de la fin.
 
 ## Notes de frontiere
 

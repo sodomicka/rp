@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren02_E6_Rufen_Revolte
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_02_Plateau_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren02_E5_Fabel.md
@@ -44,6 +44,13 @@
 
 ## Objets presents ou evoques
 - Epees Divines Trancheuses (Shingi no Saiken) - quatre lames forgees par magie de Revolte ; poids modulable ; cassantes si privees d'alimentation en magie.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : L'Association envoie le groupe sur Rufen ; sur place, ils tombent sur Genau et Methode deja depeches par Serie. Quatre combats se separent : Fern affronte Hemmung (le demon de la brume) dans les forets, combat coriace ; Frieren et Schein affrontent Solide (le demon de la foret) - Schein s'efface et laisse Frieren combattre ; Stark et Genau prennent Revolte - Stark porte le coup decisif, aboutissement de son potentiel, payoff du conseil de Schein donne en direct (Tchekhov). Le piege de l'enfant-leurre Jung se presente face au binome Stark/Genau : Genau manque de reproduire l'erreur fatale de Frei (la gentillesse qui tue), le beat de bouclage se joue. Methode assure le support (detection, restriction, magie de la Deesse) et capte la signature anormale de Schein - mana mi-chemin entre demon et divin. Apres le combat, Methode tente de rejoindre le groupe de Frieren ; Frieren decline.
+- Role de Schein : recul affectif. Il laisse Frieren combattre Solide - non par bridage sous tension mais par amour et admiration, detendu, aucune dette de contrecoup. En parallele, il transmet a Stark en direct le conseil de combat contre les demons - detonation live du plant. Il observe Methode capter ce qu'il ne sait pas etre : sa propre nature semi-divine.
+- Aboutissement des fils chauds : Conseil de Schein a Stark - DETONATION : Stark applique le conseil pour abattre Revolte. Peur d'aimer - l'effacement devant Frieren est un acte d'amour. Magie de lumiere / nature divine - Methode effleure l'anomalie sans la resoudre, graine active. Empathie de Schein - le bouclage de Genau (la gentillesse qui survit vs celle qui tue) resonne avec son parcours.
+- Issue de l'etape : Revolte et ses sbires sont elimines. Le groupe poursuit vers le nord. Methode n'a pas rejoint le groupe. La signature de Schein est notee par les detecteurs sans etre resolue.
 
 ## Notes de frontiere
 - L'issue des combats (qui gagne, conditions) -> roadmap.

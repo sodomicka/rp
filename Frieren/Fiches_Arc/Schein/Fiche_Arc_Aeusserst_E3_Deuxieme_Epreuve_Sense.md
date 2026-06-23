@@ -1,6 +1,6 @@
 # Fiche_Arc_Aeusserst_E3_Deuxieme_Epreuve_Sense
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Aeusserst.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Aeusserst_E2_Premiere_Epreuve_Genau.md
@@ -43,6 +43,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein retourne observer aupres de Serie. Deuxieme epreuve : Sense (pacifiste). Schein apprecie l'absence de morts - le contraste avec Genau est net. Il est fascine par Spiegel : la capacite de Sense a generer un clone aux memes capacites mais sans le doute. Schein qualifie ca de "mentalite de demon dans un corps de mage humain en argile". Il admire aussi l'audace de Land (passer l'integralite de l'examen via un clone en restant chez lui) - mais voit, comme Serie, le flux de mana qui relie le clone a l'original. Serie attaque sur l'avenir de l'espece demoniaque. Schein repond : aucun demon ne vaut la peine d'etre sauve. Serie repond que c'est un gachis et une incomprehension : les demons sont des predateurs en manque de guide qui massacrent selon les ordres du Roi, et non plus seulement par faim instinctive comme a l'Ere Mythique (etablissement lore : a l'Ere Mythique les demons tuaient par faim, le genocide ideologique des humains est posterieur, celui des elfes avait deja lieu). Le soir, Schein pose le dilemme a Frieren. Elle lui repond qu'il n'a pas a pardonner un peuple qui ne l'a jamais accepte et qui s'eteint.
+- Role de Schein : spectateur partage entre deux lectures de son espece. Serie lui propose une grille qui rend l'espece sauvable ; Frieren lui offre l'absolution. Les deux femmes argumentent leur vision du monde a travers la question demoniaque - et c'est lui l'enjeu.
+- Aboutissement des fils chauds : Empathie de Schein - rejet des morts inutiles ; admiration pour Spiegel lue en termes demoniaques. Nature de Schein - graine VERROUILLEE (Serie ne formule rien). Peur d'aimer - le triangle se joue desormais sur le terrain des idees, pas seulement des sentiments.
+- Issue de l'etape : La deuxieme epreuve est terminee (zero mort, marque de Sense). Le debat sur l'espece demoniaque est pose mais non tranche. L'etape suivante s'ouvre avec la troisieme epreuve.
 
 ## Notes de frontiere
 - Le detail des combats dans le donjon (candidat par candidat) -> narration, fetch fiches a la demande.

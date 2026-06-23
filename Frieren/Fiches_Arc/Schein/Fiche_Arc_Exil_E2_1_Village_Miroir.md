@@ -1,6 +1,6 @@
 # Fiche_Arc_Exil_E2_1_Village_Miroir
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Exil_Solo.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Exil_E1_2_Survie_Seul.md
@@ -32,6 +32,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein capte l'odeur du sang humain et suit la piste. Il arrive sur un village en cours de massacre par des demons mineurs. Flash de Bluete : il se revoit dans les demons qui massacrent - l'escouade qu'il menait, les 230 morts. Il intervient, anime par la haine de ce qu'il a ete et l'empathie pour les victimes - les deux pulsions pointent dans la meme direction. Il demolit les demons. Premier contrecoup bestial en liberte : sans allies a proteger, la rage se mele a la memoire. Quelques survivants, terrifies par un demon qui vient de tuer des demons. Ils fuient. Schein reste seul dans les ruines.
+- Role de Schein : le miroir se brise. Il comprend ce qu'il peut faire - pas sauver, mais venger. Et detruire l'infrastructure du Roi, un demon a la fois.
+- Aboutissement des fils chauds : Empathie de Schein - le massacre-miroir confirme que la braise survit. L'empathie n'a pas ete detruite par la cellule - elle a ete comprimee. Elle se dechaine ici.
+- Issue de l'etape : les demons mineurs sont elimines. Quelques survivants ont fui. Schein est seul dans les ruines, avec une direction qui commence a se dessiner.
 
 ## Notes de frontiere
 - La decision d'intervenir (et ses modalites) -> se produit au cours de l'etape (roadmap).

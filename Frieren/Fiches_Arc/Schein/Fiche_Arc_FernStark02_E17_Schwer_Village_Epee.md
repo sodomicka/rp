@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark02_E17_Schwer_Village_Epee
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_02_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark02_E16_Decke_Kraft.md
@@ -40,6 +40,13 @@
 
 ## Objets presents ou evoques
 - L'Epee du Heros - plantee dans le sanctuaire du Village de l'Epee ; selon la legende tiree par Himmel a l'aller, mais en realite jamais tiree ; Schein ne s'en approche pas.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe atteint le Village de l'Epee dans les Montagnes de Schwer. La 49e cheffe - une enfant (petite-fille de la cheffe du temps de la quete) - reproche a Frieren d'avoir tarde sur sa promesse de revenir dans un demi-siecle. Frieren tient enfin sa promesse : le groupe tue le "Lord of the Mountains" pres de la grotte. Stark raconte a Fern la legende de l'Epee du Heros - il decouvre que Himmel ne l'a jamais tiree, l'epee etant toujours plantee. Schein percoit l'echo de la Deesse sur cette terre sainte - plus fort qu'a l'aller, apres six mois de dialogue theologique avec Kraft. Il ne s'approche pas de la lame.
+- Role de Schein : l'echo de la Deesse le touche a nouveau, renforce par Kraft. La terre sainte le reconnait toujours sans que personne ne comprenne. Mine de transcendance laissee intacte.
+- Aboutissement des fils chauds : Magie de lumiere / nature divine - second echo de la Deesse sur terre sainte (apres l'aller), plus fort apres Decke. Preuve physique repetee, jamais expliquee. Potentiel de transcendance - l'Epee non approchee, Tchekhov arme.
+- Issue de l'etape : La promesse de Frieren est tenue. Le Lord of the Mountains est tue. Le groupe repart vers Appetit.
 
 ## Notes de frontiere
 - Le combat contre le Lord of the Mountains -> roadmap.

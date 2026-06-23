@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren01_E4_2_Mort_Heros
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_01_Chasse_Hutte.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren01_E4_1_Visite_Heros.md
@@ -37,6 +37,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : un an s'est ecoule depuis la visite. La nouvelle arrive a la hutte par les circuits de reputation : le Heros du Sud a aneanti les troupes de premiere ligne du Roi en un an. Au Plateau Nord, 8 contre 1 - Schlacht et les 7 Sages. Il a tue Schlacht et 3 Sages avant de tomber. Schlacht est mort - la prescience millenaire du Royaume meurt avec lui. Trois Sages elimines. Quatre restants. L'attente change de nature : ce n'est plus de la patience indefinie, c'est un compte a rebours.
+- Role de Schein : le signal qu'il attendait depuis 500 ans. Quelqu'un d'autre a commence a demolir l'edifice.
+- Aboutissement des fils chauds : Prediction de Schlacht - Schlacht meurt sans avoir pu empecher ce qu'il avait predit ; la chute du Roi par Schein est en marche ; Tchekhov avance vers detonation. Peur d'aimer - l'espoir est desormais concret et temporellement borne (~50 ans restants) ; Tchekhov actif.
+- Issue de l'etape : Schlacht mort, 3 Sages elimines, 4 restants. Le chemin vers le Roi est degage de la prescience millenaire. L'attente du jeune heros annonce commence.
 
 ## Notes de frontiere
 - La reaction interne de Schein a la nouvelle (signal attendu depuis 500 ans) -> roadmap.

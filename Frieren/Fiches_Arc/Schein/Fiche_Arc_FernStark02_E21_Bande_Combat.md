@@ -1,6 +1,6 @@
 # Fiche_Arc_FernStark02_E21_Bande_Combat
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Fern_Stark_02_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_FernStark02_E20_Raad_Anniversaire_Fern.md
@@ -33,6 +33,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe au complet (Frieren, Schein, Fern, Stark, Sein) abat un grand monstre volant dans les bois de Bande. Combat de rodage pour le groupe dans sa composition definitive.
+- Role de Schein : combat. Les Terres du Nord montent en difficulte.
+- Aboutissement des fils chauds : Aucun Tchekhov actif dans cette etape.
+- Issue de l'etape : Le monstre est abattu. Le groupe repart vers le prochain village.
 
 ## Notes de frontiere
 - Le detail du combat contre le monstre volant -> roadmap.

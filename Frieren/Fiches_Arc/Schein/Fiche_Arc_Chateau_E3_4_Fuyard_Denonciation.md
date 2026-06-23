@@ -1,6 +1,6 @@
 # Fiche_Arc_Chateau_E3_4_Fuyard_Denonciation
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chateau.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chateau_E3_3_Tortures_Observees.md
@@ -35,6 +35,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Mission de traque ordinaire. Un deserteur echappe a la vigilance de Schein - la peur de mourir l'a rendu fute, il s'est bien cache. Basalt retrouve le fuyard et le ramene. Basalt denonce Schein aupres du Roi : le prince a laisse echapper une cible. Allegiance au Roi > loyaute au chef d'escouade. Le Roi tient son pretexte : "Tu ne connais pas la peur. Je vais te l'apprendre." La denonciation de Basalt declenche directement la torture ultime.
+- Role de Schein : la fissure. L'empathie a perce l'armure - il a laisse un demon vivre. Le systeme le punit pour ca.
+- Aboutissement des fils chauds : Empathie de Schein - la clemence sanctionnee. Meme schema que plus tard avec Qual : la clemence est traitee comme lachete dans le vocabulaire demoniaque. Le fil se declenche ici sous forme de sanction directe.
+- Issue de l'etape : Basalt a trahi. Le Roi a son pretexte. La torture ultime est declenchee. Porphyr et Gabbro, presents en mission, n'ont pas denonce.
 
 ## Notes de frontiere
 - La denonciation effective de Basalt aupres du Roi -> se produit au cours de l'etape (roadmap).

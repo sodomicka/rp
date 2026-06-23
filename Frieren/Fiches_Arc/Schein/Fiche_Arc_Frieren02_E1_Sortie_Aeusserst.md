@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren02_E1_Sortie_Aeusserst
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_02_Plateau_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Aeusserst_E5a_Schein_Reste_Frieren.md
@@ -32,6 +32,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Les quatre quittent Aeusserst. Fern, fraichement diplomee premiere classe, ouvre l'acces au Plateau Nord. Sur quelques semaines de progression, Schein et Frieren se retrouvent dans l'intimite et dans la destruction sans retenue de groupes de demons mineurs du Plateau Nord. Le dechainement est total et legitime - aucune dette de contrecoup ne s'accumule (SB1 : c'est la mesure qui cree la dette, pas la violence). L'exutoire vide le deuil du choix de Serie autant que le sang demoniaque.
+- Role de Schein : convalescent par l'action. Il evacue le deuil d'avoir renonce a Serie dans ce pour quoi il est fait - tuer des demons aux cotes de la femme qu'il a choisie. Le dechainement est propre : aucun bridage, aucune retenue, zero dette.
+- Aboutissement des fils chauds : Peur d'aimer - Schein a choisi d'aimer malgre le deuil inflige ; la reconstruction sur ces semaines est le premier acte de ce choix tenu, arme et actif. Contrecoup bestial - etabli en contraste : le dechainement legitime sans bridage ne cree aucune dette, referentiel pour les etapes ulterieures ou Schein devra se retenir.
+- Issue de l'etape : le couple est reconstruit, le groupe est operationnel et progresse vers le nord. La convalescence est achevee ; l'etape suivante (domaine de Graf Dach) peut s'ouvrir.
 
 ## Notes de frontiere
 - L'evolution du deuil de Schein sur la duree de l'etape -> roadmap.

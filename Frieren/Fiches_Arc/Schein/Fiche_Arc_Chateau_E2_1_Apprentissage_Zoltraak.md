@@ -1,6 +1,6 @@
 # Fiche_Arc_Chateau_E2_1_Apprentissage_Zoltraak
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chateau.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chateau_E1_4_Titre_Prince.md
@@ -31,6 +31,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Qual enseigne le Zoltraak a Schein, sur ordre du Roi qui a repere le potentiel. Schein produit une variante blanche du sort : une lumiere qui consume la chair demoniaque depuis le point d'impact, distincte du Zoltraak standard. Le Roi recalibre son calcul : ce n'est plus un specimen curieux, c'est une arme demonicide. Ce qui fait de Schein l'outil ideal pour la fonction d'executeur - et le pretexte ideal pour le briser.
+- Role de Schein : revelation de puissance. La variante blanche n'est pas apprise - elle emerge naturellement, consequence de sa nature hybride. Il ne comprend pas l'origine de cette variante.
+- Aboutissement des fils chauds : Magie de lumiere - premiere manifestation du Zoltraak blanc. La nature divine de Schein transparait dans le sort sans que personne, pas meme Qual, ne comprenne ce qu'il observe.
+- Issue de l'etape : le Zoltraak blanc de Schein est documente. Le Roi a decide de l'employer comme executeur. La machine se met en place.
 
 ## Notes de frontiere
 - La variante blanche du Zoltraak (production par Schein) -> se revele au cours de l'etape (roadmap), pas a l'ouverture.

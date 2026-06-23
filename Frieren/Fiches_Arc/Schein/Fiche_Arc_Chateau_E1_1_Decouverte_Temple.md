@@ -1,6 +1,6 @@
 # Fiche_Arc_Chateau_E1_1_Decouverte_Temple
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chateau.md
 - frontiere : etat decrit = OUVERTURE de l'etape. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : aucun - premier arc
@@ -31,6 +31,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein enfant (~100 ans) tue trois pretres par une decharge de lumiere pure - sa magie divine native, brute, non maitrisee. Il pleure sur les corps. L'eclat de lumiere attire des demons mineurs errants. Ces demons observent une double anomalie : un demon qui emet de la lumiere et un demon qui pleure. Ils decident de l'amener au Roi.
+- Role de Schein : premier acte de violence involontaire - il n'a pas voulu tuer. Premier signe visible de l'anomalie emotive (les pleurs) et de l'anomalie magique (la lumiere). Il ne comprend pas ce qu'il est ni ce qui va se passer.
+- Aboutissement des fils chauds : Empathie de Schein - plantee ici pour la premiere fois : il pleure des morts qu'il a causes sans le vouloir. Magie de lumiere - premiere manifestation : la lumiere divine native, brute, sans controle, sans comprehension de Schein sur sa propre nature ; c'est elle qui declenche la suite (attire les demons mineurs).
+- Issue de l'etape : les demons mineurs emmenent Schein hors du temple en direction du Roi. La double anomalie (lumiere + pleurs) est repercutee vers la hierarchie du Royaume.
 
 ## Notes de frontiere
 - La decision des demons mineurs d'amener Schein au Roi -> roadmap.

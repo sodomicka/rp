@@ -1,6 +1,6 @@
 # Fiche_Arc_Chasse_E2_2_Village_Brule
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chasse_Solo.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chasse_E2_1_Tentative_Douceur.md
@@ -31,6 +31,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein repasse dans le coin - le village brule. Un demon enfant, predateur mimetique parfait, avait profite du precedent de l'etape 2.1 : les villageois avaient appris qu'un demon pouvait etre gentil, ils ont baisse la garde, le demon s'est infiltre. Tous sont morts. Schein comprend : sa douceur les a tues. Il prend la decision definitive de retourner a la vulgarite et a l'hostilite - pas par nature, par responsabilite. La grossierete protege mieux que la gentillesse.
+- Role de Schein : la lecon definitive. L'empathie en acte tue ceux qu'il veut proteger. Le monstre par choix cesse d'etre un choix tactique pour devenir une cicatrice permanente.
+- Aboutissement des fils chauds : Empathie de Schein - l'empathie ne disparait pas, elle change de forme. Proteger c'est effrayer. Ce changement est acte et definitif a la cloture de cette etape.
+- Issue de l'etape : la vulgarite de Schein est desormais une cicatrice, plus jamais un choix tactique ouvert. Ce choix ne changera plus. Le demon enfant est tue ou en fuite (statut indetermine).
 
 ## Notes de frontiere
 - La reaction interne de Schein a la decouverte -> roadmap.

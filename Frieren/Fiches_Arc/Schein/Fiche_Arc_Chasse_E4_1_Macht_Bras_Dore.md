@@ -1,6 +1,6 @@
 # Fiche_Arc_Chasse_E4_1_Macht_Bras_Dore
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Chasse_Solo.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Chasse_E3_1_Routine_Sauveur_Monstre.md
@@ -31,6 +31,13 @@
 
 ## Objets presents ou evoques
 - Bras dore de Frieren - resultat de la Diagoldze, etat actif apres le combat | en possession de Frieren | pas de fiche WIKI distincte
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Macht combat Frieren. Le bras droit de Frieren est transforme en or par la Diagoldze - la plus puissante malediction connue. Schein est absent de la scene ; il apprendra l'existence de Frieren au bras dore par les circuits de reputation.
+- Role de Schein : absent. L'evenement pose la condition de la rencontre a venir - c'est son seul role dans cette etape.
+- Aboutissement des fils chauds : (aucun Tchekhov nomme dans le bloc roadmap.) La condition de la rencontre est posee : le bras dore existe, Frieren en a besoin d'etre guerie, Schein est le seul capable de le faire.
+- Issue de l'etape : Frieren porte un bras d'or invalide. Schein l'ignore encore. L'etape se clot sur ce seul fait - la rencontre appartient a l'etape suivante.
 
 ## Notes de frontiere
 - La rencontre de Schein et Frieren (Etape 4.2) -> roadmap.
