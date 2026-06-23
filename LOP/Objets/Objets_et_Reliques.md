@@ -1,6 +1,7 @@
 # Objets et Reliques
 
-- version : W1
+- version : W2
+- note W2 : + bloc Broche Monad (insigne Monad code couleur, canon ; circulation Carlo/Romeo/Lea). - bloc Monad Locket (retire : son role de reconnaissance de Lea est supplante par le combat dans la continuite Magnus, cf. Roadmap_03_Overture etape 13 ; references a nettoyer dans Romeo.md et Lea.md au lot des trajectoires).
 
 > Fiche groupee. Un bloc par objet. Renvoie aux fiches systemes/personnages pour le lore detaille.
 
@@ -132,20 +133,20 @@
 
 ---
 
-## Monad Locket
+## Broche Monad
 
 ### Nature
-- Medaillon/locket appartenant a la famille Monad. Retrouve dans le zoo par P (DLC). Contient une photo de Lea Florence et Romeo, plus une troisieme personne.
+- Insigne de la maison Monad, frappe du sceau "M". Insigne a code couleur (chaque broche porte sa couleur).
+- Signe d'appartenance et d'affection lie a la maison Monad.
 
 ### Description / Faits canon
-- P le trouve au zoo (Krat Zoo) pendant le DLC.
-- Contient une photo ensanglantatee de Lea Florence Monad et Romeo, plus une troisieme personne (identite non precisee dans la source).
-- Quando P montre le locket au vrai Alidoro (le Tracker), il le croit et accepte d'allier ses forces a P.
-- Lea Florence, quand P lui montre le locket dans la cabane pres du phare : "How?" -- elle reconnait le locket de Romeo et comprend qui est P.
-- Valeur narrative : objet de reconnaissance et de confiance entre P, Alidoro et Lea.
+- Lea Florence Monad en offre aux deux enfants qu'elle prend sous son aile au Monad Charity House : une broche ROUGE a Romeo, une broche BLEUE a Carlo.
+- A la mort de Carlo (1843), en hommage, les broches changent de main : Lea prend la ROUGE de Romeo ; Romeo, lui, prend la BLEUE de feu Carlo.
+- Etat durable depuis : Romeo porte la BLEUE (celle de Carlo), Lea porte la ROUGE (celle de Romeo). Pour chacun, la broche devient le souvenir porte d'un autre maillon du trio.
 
 ### Liens
-- cf. Personnages/Lea_Florence_Monad.md, Personnages/Romeo.md, Personnages/Alidoro_et_Parrot.md.
+- Role narratif a l'Overture (Ere 3, 1850) : la broche de Romeo (donc la bleue de feu Carlo) sert d'indice a Lea. Detail de la scene -> Roadmap/Magnus/Roadmap_03_Overture.md (etape 5) et trajectoire de Lea (Personnages/Lea_Florence_Monad.md). Non duplique ici.
+- cf. Personnages/Lea_Florence_Monad.md, Personnages/Romeo.md, Personnages/Carlo.md.
 
 ---
 
