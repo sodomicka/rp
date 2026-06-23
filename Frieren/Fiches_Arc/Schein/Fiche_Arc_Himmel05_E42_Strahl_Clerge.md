@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel05_E42_Strahl_Clerge
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_05_Retour.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel05_E41_Waal_Gloire.md
@@ -37,6 +37,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : A Strahl, Heiter est accueilli en heros par la ville. Schein, lui, est reconnu en secret par le clerge - non comme objet d'un culte, mais comme une enigme dont les pretres connaissent desormais le potentiel (cf. la demonstration de l'aller, Himmel_02 Etape 5). Pas de nouvelle foi proclamee : les pretres gardent pour eux ce qu'ils savent de Schein.
+- Role de Schein : reconnaissance clericale discrete, a l'oppose de la liesse populaire de Waal. Le clerge sait ; le peuple ne sait pas.
+- Aboutissement des fils chauds : Magie de lumiere / nature divine - le clerge sait que son potentiel depasse le leur, sans comprendre pourquoi : graine active, non resolue.
+- Issue de l'etape : Passage a Strahl. Le clerge a note le retour de Schein. Le groupe repart.
 
 ## Notes de frontiere
 

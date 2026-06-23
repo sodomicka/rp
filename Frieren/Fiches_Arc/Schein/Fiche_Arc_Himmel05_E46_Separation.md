@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel05_E46_Separation
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_05_Retour.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel05_E45_Nuit_Etoiles.md
@@ -39,6 +39,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Himmel et Heiter financent un orphelinat a Zusammen, leur village natal. Le groupe se separe : Heiter part pour Strahl (vie ecclesiastique), Himmel pour la Capitale, Eisen s'installe a Bredt. Schein et Frieren retournent a la hutte des Terres Centrales - debut des cinquante ans de paix.
+- Role de Schein : retour a l'isolement choisi, cette fois en couple assume. La parenthese de dix ans avec des mortels se referme ; commence le compte a rebours de leurs vies.
+- Aboutissement des fils chauds : Peur d'aimer / longevite - cinquante ans de hutte avant la mort de Himmel (An 65). Le bonheur a duree determinee : Tchekhov arme, pleinement actif.
+- Issue de l'etape : Le groupe est separe. Schein et Frieren partent ensemble vers la hutte. L'ere Himmel est close. L'ere calme commence.
 
 ## Notes de frontiere
 

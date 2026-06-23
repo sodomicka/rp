@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel05_E36_Canyon_Tor_Retour
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_05_Retour.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel05_E35_Defoulement.md
@@ -36,6 +36,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe repasse au Canyon de Tor. Gehen a tout juste entame le pont des mille ans. Confirmation que l'acte de foi de Himmel (Himmel_04 Etape 28) portera ses fruits longtemps apres lui.
+- Role de Schein : il voit le debut concret de ce qu'il jugeait incomprehensible a l'aller - un humain qui investit pour des generations qu'il ne verra jamais.
+- Aboutissement des fils chauds : Pas de Tchekhov arme dans cette etape.
+- Issue de l'etape : Le groupe repasse le canyon. Le chantier de Gehen est en cours, conforme a la promesse de Himmel. La route du retour continue.
 
 ## Notes de frontiere
 

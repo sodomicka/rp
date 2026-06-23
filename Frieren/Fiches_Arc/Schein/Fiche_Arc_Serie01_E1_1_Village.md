@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie01_E1_1_Village
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_01_Premier_Contact.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Exil_E4_2_Odeur_Du_Sang.md
@@ -31,6 +31,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : un general demon et ses troupes attaquent le village. Serie, qui pistait Schein depuis un siecle, est deja sur place et observe, cachee. Schein arrive guide par l'odeur du sang - trop tard pour les humains, a temps pour demolir le general demon et ses troupes. Carnage rapide, efficace. Serie observe tout. Ce qu'elle n'avait pas prevu : le coup de foudre. Schein la voit - elle ne recule pas, ne fuit pas, ne le regarde pas comme un monstre ni un cobaye. Premiere personne en sept siecles a ne pas reculer. Coup de foudre reciproque. Le silence qui suit est assourdissant.
+- Role de Schein : le mecanisme rencontre un regard. Cent ans de vide trouvent un visage qui ne recule pas.
+- Aboutissement des fils chauds : Peur d'aimer - Serie est la premiere a regarder Schein sans peur depuis l'exil ; le coup de foudre est pose, l'apprivoisement n'a pas encore commence ; Tchekhov arme.
+- Issue de l'etape : le general demon est mort, ses troupes aussi. Schein et Serie ont echange un premier regard. La rencontre est accomplie.
 
 ## Notes de frontiere
 - Le coup de foudre mutuel, la premiere parole echangee et la reaction de Schein au regard de Serie -> roadmap.

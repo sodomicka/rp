@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel04_E30_Fabel_Statue
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_04_Plateau_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel04_E29_Forets_Enneigees.md
@@ -40,6 +40,13 @@
 ## Objets presents ou evoques
 
 - Statue de bronze du Heros du Sud (Fabel) - monument public | entretenu par les villageois | represente le Heros du Sud, pas Himmel
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe traverse Fabel. Une statue de bronze du Heros du Sud trone dans le village, entrenue par les habitants. Himmel se tient devant un monument a un autre heros - et n'en prend aucun ombrage. Frieren raconte les exploits du Heros du Sud : avoir aneanti seul les troupes de premiere ligne du Roi en un an, puis, dans un 8 contre 1 (Schlacht et les 7 Sages), tue Schlacht et 3 Sages avant de tomber. Elle raconte aussi sa visite a la hutte (~51 av.) : le Heros du Sud avait tout vu par sa vision du futur, n'a pas bronche devant Schein, l'a regarde avec reconnaissance. Sa promesse "je tracerai le chemin" s'adressait aux deux. Schein s'en souvient directement.
+- Role de Schein : memoire et reconnaissance. Le premier humain a l'avoir regarde sans peur est mort en heros. Schein, demon, se tient devant le monument d'un homme qui a tue des demons - et qui pourtant l'avait accepte sans un mot de trop. Resonance directe avec ce que Himmel est en train de devenir pour lui.
+- Aboutissement des fils chauds : Empathie de Schein / peur d'aimer - le Heros du Sud prefigure Himmel comme modele d'acceptation sans condition. Graine active. Vision du futur du Heros du Sud - ce qu'il a vu de l'avenir de Schein reste scelle avec lui : graine posee, non resolue. Longevite et memoire - miroir de la mort future de Himmel et de l'effacement des heros : graine posee.
+- Issue de l'etape : Le groupe repart de Fabel. La progression vers Ende continue.
 
 ## Notes de frontiere
 

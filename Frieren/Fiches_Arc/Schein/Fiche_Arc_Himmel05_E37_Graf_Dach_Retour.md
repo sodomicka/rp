@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel05_E37_Graf_Dach_Retour
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_05_Retour.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel05_E36_Canyon_Tor_Retour.md
@@ -35,6 +35,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe repasse au domaine de Graf Dach, cette fois en heros victorieux. Lord Norm les accueille chaleureusement. La dette du pret reste due ; elle sera remboursee bien plus tard aupres du petit-fils de Norm.
+- Role de Schein : recu en heros la ou, a l'aller, il n'etait que l'anomalie demoniaque toleree. Mesure du chemin parcouru.
+- Aboutissement des fils chauds : Pas de Tchekhov arme dans cette etape.
+- Issue de l'etape : Passage retour au domaine, accueil chaleureux. La dette de pret reste ouverte pour l'avenir. Le groupe reprend la route.
 
 ## Notes de frontiere
 

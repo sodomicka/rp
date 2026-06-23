@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie01_E2_2_Eveil
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_01_Premier_Contact.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie01_E2_1_Guerre_A_Deux.md
@@ -30,6 +30,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : premier eveil de libido pour les deux - intensite constante, exploration mutuelle. Le sexe s'installe naturellement dans la dynamique de domination mutuelle. Deux monstres d'arrogance decouvrent leurs vulnerabilites intimes. Rapport de force permanent transpose dans l'intimite. Tendresse rare mais reelle dans les interstices - chacun capable d'admettre que l'autre a raison.
+- Role de Schein : decouverte du plaisir physique, de l'intimite, du desir reciproque. Le seul demon capable de ressentir tout ca, il le decouvre avec la seule personne qui ne le craint pas.
+- Aboutissement des fils chauds : Peur d'aimer - l'intimite se construit ; l'intensite constante est etablie ; ni l'un ni l'autre n'a encore le vocabulaire pour nommer ce qui se passe.
+- Issue de l'etape : le couple est pleinement dans la dynamique intime. Les vulnerabilites specifiques ont ete decouvertes (pointe des oreilles de Serie, cornes de Schein). L'etape couvre 65 ans de cette construction.
 
 ## Notes de frontiere
 - La decouverte des vulnerabilites intimes specifiques (pointe des oreilles de Serie, cornes de Schein) -> roadmap.

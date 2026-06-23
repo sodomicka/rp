@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie02_E1_Reconstruction_Projet
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_02_Planification_Du_Regne.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Aeusserst_E5b_Schein_Retour_Serie.md
@@ -34,6 +34,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Quelques semaines de reconstruction patiente a Aeusserst - demonstrations des talents des mages de premiere classe de Serie, retour de la routine intime d'il y a huit siecles. Schein se brise redevient acteur. Le dialogue central : Serie lui expose que l'espece est condamnee sur deux fronts (tete tranchee + progres magique humain). Le projet se formule : achever le plan du Roi - la coexistence - par la voie douce, sans le massacre. Serie donne forme adulte a ce qui, chez Schein, etait une rage d'enfant depuis ~990 av. (le coup contre le Roi = degout des massacres). Schein accepte. Pas un trone : une oeuvre. La bascule du segment.
+- Role de Schein : convalescent qui retrouve un cap. Le deuil de Frieren reste une plaie ; le projet est ce qui le tient debout. Pour la premiere fois depuis le chateau, son degout des massacres a un debouche constructif au lieu d'une guerilla.
+- Aboutissement des fils chauds : Peur d'aimer - Schein a choisi et le choix est un deuil inflige ; le projet ne l'efface pas, il le porte. Contrecoup bestial - pose en cadre : sous le regne, Schein bridant sa lumiere accumulera de la dette en permanence (la mesure cree la dette, SB1) ; tension de fond plantee.
+- Issue de l'etape : Schein a accepte le projet de coexistence. La bascule du segment est actee. L'etape 2 (ralliement des mages) peut s'ouvrir.
 
 ## Notes de frontiere
 - L'acceptation formelle du projet par Schein et la bascule du segment -> roadmap.

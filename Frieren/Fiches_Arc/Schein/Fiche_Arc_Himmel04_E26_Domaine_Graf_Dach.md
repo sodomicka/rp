@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel04_E26_Domaine_Graf_Dach
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_04_Plateau_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel03_E25_Aeusserst_Revelation.md
@@ -36,6 +36,13 @@
 ## Objets presents ou evoques
 
 - Epee hereditaire de la maison Norm/Graf Dach - volee par un demon avant l'ouverture | localisation : chez le demon sur le Plateau Nord | l'epee a jadis appartenu a un demon, ce qui explique l'orgueil du voleur
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe arrive au domaine de Graf Dach. Lord Norm engage le groupe pour recuperer l'epee hereditaire de sa maison, volee par un demon. Schein expose devant le groupe un lore demoniaque vu de l'interieur : la fierte (mana = dignite) est la seule faille emotionnelle des demons, qui massacrent par orgueil pour reprendre une arme a leur mesure. Le groupe recupere l'epee. Norm accorde une recompense et un pret genereux bien au-dela de la prime.
+- Role de Schein : revelation lore. Schein livre devant un public humain une verite sur son espece - la fierte comme unique ressort emotionnel natif. Pas de l'empathie : de l'orgueil. Information precieuse pour des humains qui combattent des demons.
+- Aboutissement des fils chauds : Pas de Tchekhov arme dans cette etape.
+- Issue de l'etape : L'epee hereditaire est recuperee. Le groupe dispose d'une recompense et d'un pret de Norm pour financer la suite du voyage. La route vers Ende peut reprendre.
 
 ## Notes de frontiere
 

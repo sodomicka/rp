@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel04_E34_Chateau_Roi_Demons
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_04_Plateau_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel04_E33_Escouade_Lourde.md
@@ -45,6 +45,13 @@
 
 - Bague de lotus - portee par Frieren depuis Aeusserst (~An 7) | symbole d'union entre Schein et Frieren | offerte a l'insu de sa signification par Schein sur conseil de Himmel
 - Epee replique du Heros (Himmel) - compagnon de Himmel depuis l'enfance | probablement enterree avec lui apres sa mort | localisation : sur Himmel | fiche neutre : cf. WIKI Personnages/Himmel.md
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Arrivee au chateau du Roi des Demons a Ende - terminus de dix ans de voyage. Combat final contre le Roi des Demons (~5 700 ans, S+ tier). Deux lames, un seul coup (BIBLE SB3 : "deux lames, un seul coup. Bras libere."). Schein et Himmel portent le coup final ensemble. Le Roi est tue. Le sceau que le Roi avait pose sur le bras gauche de Schein se brise avec la mort de son createur - le bras est libere apres un millenaire de scellement. Mort du Roi = fin du Royaume Demon ; les Sages restants sont dissous ; Ende n'est plus verrouille.
+- Role de Schein : culmination de tout. Le fils tue le pere. Le cobaye detruit le chercheur. Le prince exile reprend ce qu'on lui a pris. Le bras libere est le symbole physique de la liberation.
+- Aboutissement des fils chauds : Prediction de Schlacht - realisee : Schein provoque la chute du Roi, exactement comme predit. "Merci, pere." - le rituel de gratitude trouve ici sa resolution ou sa transformation (detail de narration). Empathie de Schein - il tue par necessite, avec le poids emotionnel d'un fils face a un pere-bourreau : resolu dans cet acte. Bague de lotus - Frieren la porte ; symboliquement presente dans le combat. Contrecoup bestial - pic d'accumulation maximal : dix ans de mesure pour proteger quatre mortels ; detonation reportee a l'etape suivante.
+- Issue de l'etape : Le Roi des Demons est mort. Le Royaume Demon s'effondre. Le bras gauche de Schein est libere. Les quatre compagnons sont en vie. Le groupe peut quitter Ende.
 
 ## Notes de frontiere
 

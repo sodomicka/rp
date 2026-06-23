@@ -1,6 +1,6 @@
 # Fiche_Arc_Frieren04_E6_Choix_Final
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Frieren_04_Aureole.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren04_E5_Revelation_Deesse.md
@@ -34,6 +34,13 @@
 
 ## Objets presents ou evoques
 - Bague de lotus - symbole d'amour eternel de Himmel ; portee exacte en jeu selon le choix (cf. SB8, detonation a definir).
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : La revelation pose Schein devant un choix binaire, sans bon cote. Chemin 1 : refuser sa nature de dieu. Vie de paix avec Frieren, renoncement au pouvoir. Il garde sa presence, son corps, son amour - mais reste un spectateur d'un monde ou son espece de super-predateurs s'eteint. Role passif assume. Chemin 2 : accepter l'ascension. Devenir dieu vivant, puis transcender. Omnipotent et absent. Sa derniere chance d'un role actif - au prix de quitter les vivants, Frieren comprise. Present mais impuissant, ou tout-puissant mais absent : aucune sortie ne garde les deux. Les deux chemins sont purement legitimes et mutuellement exclusifs. La roadmap s'arrete ici, sur le choix pose. Il ne tranche pas a la place du joueur.
+- Role de Schein : celui qui choisit. Tout le RP a converge vers cet instant. La bague de lotus - symbole d'amour eternel - peut trouver ici sa pleine portee selon le chemin pris.
+- Aboutissement des fils chauds : Choix final de Schein - DETONATION (le choix est pose) ; consequence ouverte, tranchee par le joueur. Bague de lotus - portee du symbole en jeu : un amour qu'on garde (chemin 1) ou qu'on quitte en devenant dieu (chemin 2).
+- Issue de l'etape : le choix est devant Schein. La fiche ne tranche pas. Fin ouverte - terminus de la branche Frieren.
 
 ## Notes de frontiere
 - Le choix lui-meme (chemin 1 ou chemin 2) -> tranche par le joueur, hors roadmap.

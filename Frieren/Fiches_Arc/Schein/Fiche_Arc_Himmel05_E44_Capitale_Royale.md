@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel05_E44_Capitale_Royale
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_05_Retour.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel05_E43_Grun_Reconciliation.md
@@ -35,6 +35,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe revient a la Capitale Royale, vainqueur du Roi des Demons. Schein demande au Roi humain de ne pas trop en faire pour lui - il refuse les honneurs. Le Roi s'incline malgre tout devant le groupe entier.
+- Role de Schein : meme refus d'etre celebre. Mais l'inclinaison du Roi devant le groupe inclut implicitement le demon dans l'honneur rendu.
+- Aboutissement des fils chauds : Pas de Tchekhov arme dans cette etape.
+- Issue de l'etape : Le groupe est officiellement recu a la Capitale. La quete de Himmel est reconnue. La separation du groupe commence a se profiler.
 
 ## Notes de frontiere
 

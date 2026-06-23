@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel05_E35_Defoulement
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_05_Retour.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel04_E34_Chateau_Roi_Demons.md
@@ -38,6 +38,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le Roi mort, le sceau du bras gauche de Schein se brise (payoff Himmel_04 Etape 34). Schein traverse sa plus grosse crise de contrecoup bestial - dix ans de quete a se brider pour proteger quatre mortels, culminant dans le combat contre le Roi : accumulation maximale. Faute de cible vivante, la crise se decharge sur le chateau : salles de torture, salle du trone, suite luxueuse du temps de l'"adoption". Il rase le decor de plus de mille ans de trauma. Les autres partent devant. Schein les rejoint plus tard, calme, une fois la crise epuisee.
+- Role de Schein : exorcisme. La crise se decharge sur les pierres, sur le passe - ni contre des allies (partis), ni contre des ennemis (le Roi est mort). Detruire physiquement le lieu de son trauma. Le bras libere apres un millenaire participe au deferlement.
+- Aboutissement des fils chauds : Contrecoup bestial - DETONATION majeure (regle SB1, plante en Himmel_04 Etape 34) : dix ans de mesure produisent la plus grosse crise ; elle se decharge sur les murs faute d'ennemi. Resolu dans cette etape. "Merci, pere." - le lieu de l'adoption et des tortures rase de ses mains : resolution physique du rituel.
+- Issue de l'etape : La crise est passee. Le chateau est en ruines. Schein rejoint le groupe. Le retour peut commencer.
 
 ## Notes de frontiere
 

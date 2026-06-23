@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel03_E19_Bande
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_03_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel03_E18_Raad.md
@@ -33,6 +33,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : le groupe accepte un gros contrat passe a Graf Granat : se debarrasser d'un monstre dans la foret de Bande. La prime sera livrable a Offen (prochaine etape). Combat contre le monstre.
+- Role de Schein : combat. Contrat de chasseur - resonance avec son passe de chasseur de demons solitaire avant de rejoindre le groupe.
+- Aboutissement des fils chauds : aucun Tchekhov propre a cette etape.
+- Issue de l'etape : le monstre est elimine. Le contrat est honore. La prime est a recuperer a Offen.
 
 ## Notes de frontiere
 

@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel03_E20_Rohr
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_03_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel03_E19_Bande.md
@@ -40,6 +40,13 @@ Pour cette fiche, on respecte la roadmap a la lettre : Etape 20 = Rohr, decrit c
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : le groupe fait une halte a Rohr apres la mort de Boese. Lieu calme, pas de combat. Decompression collective apres un affrontement emotionnellement charge.
+- Role de Schein : decompression. Tuer un Sage qu'il connait depuis des siecles, meme un ennemi personnel, laisse des traces emotionnelles. Pas de culpabilite, mais un residuel que seule son empathie peut produire.
+- Aboutissement des fils chauds : Tchekhov "Empathie de Schein" - actif : Schein ne peut pas etre entierement indifferent a ce qu'il vient de faire. Le poids du duel personnel se resout progressivement pendant cette halte.
+- Issue de l'etape : le groupe repose a Rohr. Schein a absorbe le contrecoup emotionnel du duel. La route vers Klar (Voll) est ouverte.
 
 ## Notes de frontiere
 

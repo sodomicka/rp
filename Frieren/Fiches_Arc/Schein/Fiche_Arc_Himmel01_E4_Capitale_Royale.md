@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel01_E4_Capitale_Royale
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_01_Formation.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel01_E3_Grun.md
@@ -40,6 +40,13 @@
 ## Objets presents ou evoques
 
 - Replique de l'Epee du Heros (Himmel) - presentee implicitement comme l'arme du heros lors de la commission | localisation : sur Himmel.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : le groupe se presente au Roi pour officialiser la quete. Le Roi accorde une aide financiere maigre (dix pieces de cuivre dans le canon). La presence de Schein inquiete le pouvoir en place - un demon identifiable dans la salle du trone est une anomalie. Le Roi finance malgre ses reserves : la motivation de Himmel l'emporte. La quete est officiellement reconnue : mission de vaincre le Roi des Demons.
+- Role de Schein : premiere confrontation avec le pouvoir politique. Sa presence complique la legitimite de la quete aux yeux du Roi. Il incarne la contradiction vivante de la mission.
+- Aboutissement des fils chauds : aucun Tchekhov propre a cette etape.
+- Issue de l'etape : la quete est officialisee. Le groupe repart de la Capitale avec un mandat royal symbolique et une maigre aide financiere. La route vers les Terres Centrales est ouverte.
 
 ## Notes de frontiere
 

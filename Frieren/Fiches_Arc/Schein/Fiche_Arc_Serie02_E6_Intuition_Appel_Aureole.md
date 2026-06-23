@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie02_E6_Intuition_Appel_Aureole
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_02_Planification_Du_Regne.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie02_E5_Regne_Prend_Forme.md
@@ -37,6 +37,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : A force d'observer Schein deployer sa magie native a pleine echelle (rompre l'or, apaiser la faim, faire ployer une espece qui devrait le fuir), Serie et Solitaer convergent independamment vers la meme conclusion : il a un lien etroit avec la Deesse. Serie tient sa theorie de 150 ans d'intimite et du souvenir de sa magie ; Solitaer la tient de la structure du mana de Schein, anomalie inclassable dans son modele evolutif. Les deux femmes les plus lucides du regime se rejoignent sur cette conviction sans pouvoir la prouver. Seule la Deesse peut confirmer - seule Aureole le permet. Simultanement, Ende reconstruite ne verrouille plus Aureole ; le seuil est accessible, adjacent. Le piege latent commence a se profiler pour Serie (si Schein est un dieu vivant en puissance, son ascension resolverait tout - mais ascension = absence) - elle pressent la contradiction sans la formuler. Le pelerinage s'impose.
+- Role de Schein : celui qu'on observe sans qu'il se voie. Le roi ne sait pas ce qu'il est ; sa reine et sa conseillere le devinent presque. Il porte une nature que deux esprits distincts devinent sans pouvoir la nommer.
+- Aboutissement des fils chauds : Serie et l'intuition divine - DETONATION partielle : la theorie durcit (Serie ET Solitaer), sans confirmation possible ; la confirmation est reservee a la Deesse a Aureole. Potentiel de transcendance - le plafond approche. Nature de Schein a Aureole - la destination est en vue. Choix final de Schein - le second point de decision se dresse a l'horizon.
+- Issue de l'etape : l'intuition est durcit et partagee entre Serie et Solitaer. Ende ne verrouille plus Aureole. Le pelerinage souverain vers Aureole s'amorce - bascule vers Serie_03.
 
 ## Notes de frontiere
 - La decision formelle de partir en pelerinage vers Aureole -> roadmap (et Roadmap_Serie_03).

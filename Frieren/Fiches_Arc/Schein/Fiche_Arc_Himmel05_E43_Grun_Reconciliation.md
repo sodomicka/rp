@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel05_E43_Grun_Reconciliation
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_05_Retour.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel05_E42_Strahl_Clerge.md
@@ -36,6 +36,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le village de Grun - qui a l'aller rejetait Schein par peur (Himmel_01 Etape 3) - l'invite cette fois a sa fete. Schein reste discret, mais le contraste est total : la peur a cede.
+- Role de Schein : mesure de l'evolution sociale. Grun servait de calibration a l'aller ; au retour, le rejet s'est mue en accueil.
+- Aboutissement des fils chauds : Empathie de Schein - il ressent l'accueil la ou il avait ressenti le rejet : Tchekhov actif, payoff partiel dans ce moment.
+- Issue de l'etape : Le village celebre le groupe. La reconciliation est faite. La route vers la Capitale reprend.
 
 ## Notes de frontiere
 

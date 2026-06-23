@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel01_E3_Grun
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_01_Formation.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel01_E2_Hutte.md
@@ -40,6 +40,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : le groupe passe par le village de Grun. Les villageois reagissent a la vue de Schein - un demon aux cornes visibles voyageant avec des humains et un nain. Schein est confronte pour la premiere fois au rejet instinctif des humains ordinaires face a un demon.
+- Role de Schein : confrontation avec la realite sociale. Apres 500 ans d'isolement a la Hutte, retour au monde. La peur et la mefiance des villageois lui rappellent ce qu'il est aux yeux du monde ordinaire.
+- Aboutissement des fils chauds : Tchekhov "Empathie de Schein" - actif : il ressent le rejet, la ou un demon canon n'en aurait rien a faire. Ce rejet lui fait quelque chose.
+- Issue de l'etape : le groupe quitte Grun. Schein a subi son premier test social public - calibration pour le reste du voyage. Chaque etape ulterieure mesurera l'evolution de l'acceptation (ou du rejet) de Schein par les humains.
 
 ## Notes de frontiere
 

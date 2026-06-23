@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel03_E21_Offen_Boese
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_03_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel03_E20_Rohr.md
@@ -42,6 +42,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : le groupe entre dans le secteur de Boese l'Immortel, Sage de la Destruction. Schein demande un duel personnel - des siecles de mepris au chateau d'Ende a solder : Boese considerait son empathie comme une faiblesse et se delectait de ses larmes pendant les tortures. Boese accepte le duel, certain de gagner (barrieres considerees infranchissables). Schein contourne la barriere : le Zoltraak blanc consume la chair demoniaque depuis le point d'impact ; la barriere protege de l'exterieur, pas de l'interieur. Victoire de Schein. Mort de Boese. Schein demande que la victoire soit publiquement attribuee a Himmel.
+- Role de Schein : cathartique. Premier Sage qu'il tue personnellement. Le duel est une affirmation : l'empathie n'est pas une faiblesse. La victoire attribuee a Himmel est a la fois un choix strategique (ne pas reveler sa puissance) et un acte d'effacement (meme refus qu'a Strahl).
+- Aboutissement des fils chauds : Tchekhov "Empathie de Schein" - actif : il tue par necessite et par justice, pas par plaisir. Le duel affirme que l'empathie n'est pas une faiblesse. Tchekhov "Peur d'aimer / effacement" - actif : il refuse d'etre vu meme dans la gloire, attribution a Himmel.
+- Issue de l'etape : Boese est mort. La victoire est officiellement celle de Himmel. Schein a solde sa dette personnelle avec son passe au chateau d'Ende. Le groupe repart.
 
 ## Notes de frontiere
 

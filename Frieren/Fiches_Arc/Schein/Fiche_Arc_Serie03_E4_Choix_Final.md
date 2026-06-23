@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie03_E4_Choix_Final
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_03_Aureole.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie03_E3_Revelation_Deesse.md
@@ -37,6 +37,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : La revelation close, le choix binaire se pose - recolore par le regne. Chemin 1 : rester mortel et regner - garder Serie, le trone, son corps, sa presence, mais l'espece reste sous la laisse de la voie b : faim jamais guerie, tenue par la peur et le bridage, frustration perpetuelle. Une vie pleine, un peuple jamais libre. Chemin 2 : accepter l'ascension - accumuler le mana surhumain, devenir dieu vivant, reecrire la nature demoniaque, guerir l'espece pour de bon. Au prix de tout quitter : les vivants, le trone, Serie. Omnipotent et absent. Le dilemme est : sa Reine ou son Peuple. Serie est perdue : elle ne veut pas etre la reine qui opprime le peuple qu'elle voulait sauver, mais elle aime Schein. Elle ne peut pas trancher a sa place. Fil latent si Schein reste mortel : la laisse - tension sociale et biologique qui peut tenir des siecles ou craquer (enfant Schein/Serie impossible : Serie est elfe pure, aucune hybridation). La roadmap s'arrete sur le choix pose, sans le trancher.
+- Role de Schein : celui qui choisit. Tout le regne a converge vers cet instant. Roi present d'un peuple enchaine, ou dieu absent d'un peuple gueri. Les deux chemins sont purement legitimes et mutuellement exclusifs.
+- Aboutissement des fils chauds : Choix final de Schein -> DETONATION : le choix est pose - consequence ouverte, tranchee par le joueur. Potentiel de transcendance -> le remede a la faim du peuple est au bout de l'ascension ; le prix est Serie et la presence. Peur d'aimer -> l'amour de Serie en balance avec le salut de l'espece.
+- Issue de l'etape : Le choix est pose, non tranche. La fiche ne tranche pas. Fin ouverte - terminus de la branche Serie.
 
 ## Notes de frontiere
 - La decision effective de Schein (mortel ou ascension) -> hand-off au joueur, hors roadmap.

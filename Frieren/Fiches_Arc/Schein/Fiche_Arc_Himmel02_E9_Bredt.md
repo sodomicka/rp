@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel02_E9_Bredt
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_02_Terres_Centrales.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel02_E8_Granz.md
@@ -36,6 +36,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : traversee d'une region verdoyante et calme. Eisen declare qu'un jour il vivra ici, dans le calme de la nature. Etape sans combat.
+- Role de Schein : temoin de la declaration d'Eisen. Un compagnon mortel planifie deja sa retraite - rappel de la mortalite. Schein, qui vivra des millenaires, entend quelqu'un planifier sa fin.
+- Aboutissement des fils chauds : aucun Tchekhov propre a cette etape.
+- Issue de l'etape : le groupe traverse Bredt sans incident. La declaration d'Eisen est un foreshadowing tranquille de la finitude des compagnons mortels.
 
 ## Notes de frontiere
 

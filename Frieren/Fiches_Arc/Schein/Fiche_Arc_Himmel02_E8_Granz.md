@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel02_E8_Granz
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_02_Terres_Centrales.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel02_E7_Groesse_Forest.md
@@ -37,6 +37,13 @@
 ## Objets presents ou evoques
 
 - Journal de Himmel - sur Himmel | ce type de moment quotidien est exactement ce qu'il consigne.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : a Granz, le groupe effectue un nettoyage d'epaves liees au detroit - mission annexe typique de Himmel. Schein et Frieren manquent le leve de soleil en trainant au lit. Himmel observe et note (journal).
+- Role de Schein : moment de douceur. Premier signe visible pour le groupe que Schein et Frieren sont plus que de simples compagnons de chasse. Il se laisse aller malgre lui.
+- Aboutissement des fils chauds : Tchekhov "Peur d'aimer" - actif : la proximite avec Frieren grandit, echappant au controle de Schein. Tchekhov "Journal de Himmel" - actif : Himmel consigne probablement ce detail dans son journal.
+- Issue de l'etape : le groupe quitte Granz. Le rapport Schein/Frieren est desormais perceptible pour les autres membres. Himmel a pris note.
 
 ## Notes de frontiere
 

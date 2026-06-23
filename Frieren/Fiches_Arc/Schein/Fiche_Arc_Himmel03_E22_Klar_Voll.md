@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel03_E22_Klar_Voll
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_03_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel03_E21_Offen_Boese.md
@@ -41,6 +41,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : le groupe rencontre Voll, vieux guerrier nain, protecteur d'un village que sa femme humaine (decedee) aimait. Voll est un ami de longue date de Frieren. Himmel dit a Voll qu'il n'a pas besoin de porter sa memoire - Frieren seule le fera, parce qu'elle vivra le plus longtemps. Echange entre les deux nains, Eisen et Voll : deux rapports au temps - Eisen planifie sa retraite (Bredt), Voll s'accroche a un souvenir qui s'efface.
+- Role de Schein : temoin de la longevite vue par un nain. Voll protege un village par amour d'une morte - Schein comprend cette devotion. Miroir de sa propre relation a Frieren : rester pres de quelqu'un par amour, meme quand le monde ne comprend pas.
+- Aboutissement des fils chauds : Tchekhov "Peur d'aimer" - actif : Voll a aime une humaine et vit depuis des siecles avec son absence. Schein voit concretement ce qui l'attend s'il s'attache a un etre mortel.
+- Issue de l'etape : la rencontre avec Voll s'acheve. Le groupe repart. Schein a vu le visage de ce que la peur d'aimer cherche a eviter.
 
 ## Notes de frontiere
 

@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel05_E38_Aeusserst_Retour
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_05_Retour.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel05_E37_Graf_Dach_Retour.md
@@ -37,6 +37,13 @@
 ## Objets presents ou evoques
 
 - Bague de lotus - portee par Frieren depuis l'aller (~An 7) | symbole de leur union | offerte par Schein sans connaitre sa signification, sur conseil de Himmel
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe repasse a Aeusserst, la ou Schein et Frieren se sont avoue leurs sentiments a l'aller (Himmel_03 Etape 25). Moment d'emotion : retour sur les lieux de l'aveu, cette fois en couple assume devant le groupe.
+- Role de Schein : boucle intime. Le lieu de la bascule revisite, la peur d'aimer derriere lui.
+- Aboutissement des fils chauds : Bague de lotus - Frieren la porte depuis l'aller ; Aeusserst en est le berceau : Tchekhov actif, confirme ici. Peur d'aimer de Schein - depassee ; le lieu en temoigne : resolution confirmee.
+- Issue de l'etape : Le couple est assume devant le groupe. Le passage a Aeusserst est une boucle fermee. La route du retour continue vers le sud.
 
 ## Notes de frontiere
 

@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel05_E41_Waal_Gloire
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_05_Retour.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel05_E40_Graf_Granat_Statue.md
@@ -38,6 +38,13 @@
 ## Objets presents ou evoques
 
 - Statue de Schein (Waal) - statue solo, non encore devoilee a l'ouverture | Schein seul, visage decouvert, quatre cornes, un seul bras (manchot) | concue ~An 4-5 sur des croquis pris sur le vif a l'aller
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe repasse a Waal, la cite que Schein a sauvee quasi seul a l'aller (Himmel_02 Etape 11). La statue de Schein - commandee des l'aller et achevee pendant la quete - est devoilee : lui seul, a visage decouvert, ses quatre cornes parfaitement visibles, un seul bras (figee au moment du sauvetage, avant la liberation du bras). Les habitants perpetuent la memoire du seul demon bienveillant - pas un culte, une gratitude populaire qui se transmet.
+- Role de Schein : la reconnaissance qu'il fuit partout ailleurs, ici il la subit pleinement. La seule ville au monde a la lui accorder a visage decouvert.
+- Aboutissement des fils chauds : Statue de Schein / seul demon gentil - PAYOFF du plant de Himmel_02 Etape 11 : resolu dans cette etape. Empathie de Schein - une ville entiere temoigne qu'un demon l'a sauvee sans rien demander : confirmation en acte.
+- Issue de l'etape : La statue est devoilee. La memoire de Schein est gravee dans Waal. Le groupe repart vers le sud.
 
 ## Notes de frontiere
 

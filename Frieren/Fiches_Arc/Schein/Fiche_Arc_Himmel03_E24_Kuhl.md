@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel03_E24_Kuhl
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_03_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel03_E23_Vorig.md
@@ -38,6 +38,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture (la bague de lotus sera achetee a Aeusserst).
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : traversee de la foret de Kuhl, derniere etape avant Aeusserst. Calme. Pas de combat significatif.
+- Role de Schein : mineur. Calme avant la charge emotionnelle d'Aeusserst.
+- Aboutissement des fils chauds : aucun Tchekhov propre a cette etape.
+- Issue de l'etape : la foret de Kuhl est traversee. Aeusserst est imminente.
 
 ## Notes de frontiere
 

@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel03_E14_Schwer_Village_Epee
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_03_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel02_E13_Decke.md
@@ -47,6 +47,13 @@
 
 - Epee du Heros (plantee dans le rocher) - don presume de la Deesse | "seul le vrai heros peut la retirer" ; legende | localisation : rocher du sanctuaire du Village de l'Epee. Cf. BIBLE SB7.
 - Replique de l'Epee du Heros (Himmel) - arme personnelle de Himmel | localisation : sur Himmel.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : le groupe atteint le Village de l'Epee dans les Schwer Mountains. Himmel essaie de retirer l'Epee du Heros du rocher - il echoue. Le groupe et la cheffe du village conviennent de garder l'echec secret. Frieren promet de revenir periodiquement eliminer les monstres du sanctuaire. Schein et Heiter percoivent un echo de la Deesse en foulant la terre sainte, ce qui ouvre une discussion theologique entre eux. Schein apprend a Heiter un sort de la Deesse inconnu du clerge : dissipation temporaire du sommeil. En echange, Heiter transmet a Schein la theologie clericale de la Deesse, dont la legende de l'ascension (une elfe si puissante qu'elle serait devenue dieu). Himmel supplie Schein d'essayer la lame ; Schein refuse - prudence affichee et instinct sourd.
+- Role de Schein : double resonance. Le sanctuaire le reconnait sans que personne ne comprenne pourquoi - premier signe physique que sa nature touche au divin. Il enseigne un sort que le clerge n'a pas, rendant concret l'ecart 70% vs 3%. Et il refuse l'epee.
+- Aboutissement des fils chauds : Tchekhov "Sort anti-sommeil de la Deesse" - plante ici (Schein -> Heiter). Tchekhov "Magie de lumiere / nature divine de Schein" - l'echo de la Deesse sur terre sainte est une preuve physique supplementaire, jamais expliquee. Tchekhov "Nature de Schein (hybride)" - Heiter decrit la Deesse comme une elfe devenue dieu ; personne ne fait le lien avec le demon a cote de lui, hybride comme elle. Tchekhov "Potentiel de transcendance" - l'epee reste non approchee, mine intacte.
+- Issue de l'etape : l'echec de Himmel est garde secret. Frieren a promis de revenir. Schein et Heiter ont echange theologie contre sort. Le groupe repart vers le nord, les fils chauds theologiques armes mais non resolus.
 
 ## Notes de frontiere
 

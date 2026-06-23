@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel02_E11_Waal
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_02_Terres_Centrales.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel02_E10_Riegel.md
@@ -43,6 +43,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture (les croquis des artistes sont produits pendant l'etape, pas avant).
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : a l'entree de Waal, la garnison impose a Schein une interdiction d'utiliser sa magie dans l'enceinte - reflexe de mefiance d'une place forte. Schein accepte. Pendant le sejour, Waal est prise d'assaut par une horde de demons. Schein se debride totalement : il dechaine sa puissance sans aucune retenue sur des cibles legitimes. Il porte la victoire quasi seul. La cite le celebre - pour une fois, Schein est vu en heros par toute une population. Des artistes le croquent sur le vif : visage decouvert, quatre cornes, bras gauche manquant. Les habitants decident de lui eriger une statue (qui sera taillee d'apres ces croquis et devoilee au retour).
+- Role de Schein : exutoire total. L'autolimitation habituelle est levee sans risque - l'ennemi est legitime, la horde absorbe toute sa violence. Premier et unique contexte ou il peut etre pleinement un demon de guerre sans danger pour les siens. L'ironie : c'est en cessant de se brider qu'il devient inoffensif pour son groupe.
+- Aboutissement des fils chauds : Tchekhov "Contrecoup bestial" - illustre ici : le dechainement total sur cible legitime ne produit aucun contrecoup (le bridage emmagasine la faim de tuer ; le debridage complet la libere sans dette). Tchekhov "Statue de Schein / seul demon gentil" - plante ici : les artistes croquent Schein bras gauche manquant ; la statue sera taillee d'apres ces croquis. Tchekhov "Peur d'aimer / empathie de Schein" - actif : il intervient pour proteger une ville qui le rejetait encore la veille.
+- Issue de l'etape : Waal est sauvee. Schein est celebre par la population. La statue est commandee. Le groupe repart, Schein ayant ete pleinement lui-meme pour la premiere fois sans consequence pour les siens.
 
 ## Notes de frontiere
 

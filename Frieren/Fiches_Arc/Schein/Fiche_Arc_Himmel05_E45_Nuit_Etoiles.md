@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel05_E45_Nuit_Etoiles
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_05_Retour.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel05_E44_Capitale_Royale.md
@@ -35,6 +35,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe observe ensemble la pluie de meteores a la Capitale - premiere nuit des etoiles filantes du cycle (An 15, cycle de 50 ans). Derniere reunion du groupe au complet.
+- Role de Schein : un demon millenaire devant un cycle de 50 ans, entoure de mortels qu'il va survivre. La beaute et le deuil a venir dans le meme ciel.
+- Aboutissement des fils chauds : Peur d'aimer / longevite - il sait deja qu'il les perdra. Le cycle de 50 ans est l'horloge de leur mortalite : Tchekhov arme, pleinement conscient.
+- Issue de l'etape : La nuit des etoiles filantes est partagee. La derniere reunion du groupe est vecue. La separation est imminente.
 
 ## Notes de frontiere
 

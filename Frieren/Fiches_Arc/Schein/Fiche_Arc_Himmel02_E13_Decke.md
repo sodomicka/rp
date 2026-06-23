@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel02_E13_Decke
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_02_Terres_Centrales.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel02_E12_Graf_Granat.md
@@ -38,6 +38,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : tempete de neige. Premiere exposition du groupe au froid des hauteurs de Decke. Frieren est frigorifiee. Schein est dans son element - habitue a Ende, region arctique ou il a passe son demi-millenaire de torture. Contraste comique et tendre entre les deux.
+- Role de Schein : inversion des roles. Pour une fois, c'est lui qui est a l'aise et Frieren qui souffre. Il prend soin d'elle naturellement, sans calcul. Moment de legerete qui humanise leur relation aux yeux du groupe.
+- Aboutissement des fils chauds : Tchekhov "Peur d'aimer" - actif : Schein prend soin de Frieren spontanement, sans y reflechir.
+- Issue de l'etape : le groupe sort de Decke. Derniere etape des Terres Centrales. La frontiere avec les Terres du Nord est proche - le froid annonce la tonalite plus dure de la suite.
 
 ## Notes de frontiere
 

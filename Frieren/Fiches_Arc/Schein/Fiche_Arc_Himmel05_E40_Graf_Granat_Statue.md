@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel05_E40_Graf_Granat_Statue
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_05_Retour.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel05_E39_Voll_Klar.md
@@ -38,6 +38,13 @@
 ## Objets presents ou evoques
 
 - Monument de groupe (en cours de conception) - statue du Groupe des Heros | Schein : silhouette encapuchonnee, quatre cornes deformant le tissu | pas encore erige a l'ouverture de l'etape
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le domaine de Graf Granat erige une statue du Groupe des Heros pour les remercier (payoff de l'escarmouche contre Aura a l'aller, Himmel_02 Etape 12). Graf Granat insiste pour que Schein figure sur la statue. Schein refuse de se montrer ; compromis : il garde sa capuche, mais Granat le force a en laisser entrevoir les quatre cornes qui deforment le tissu en quatre pointes. Sur le monument, Schein est une silhouette encapuchonnee aux cotes de Himmel, Frieren, Heiter et Eisen.
+- Role de Schein : compromis entre effacement et reconnaissance. Il accepte d'exister sur le monument, mais cache. Les quatre cornes sous la capuche sont le seul indice qu'un demon a marche avec les heros.
+- Aboutissement des fils chauds : Journal de Himmel - une statue de groupe avec une silhouette demoniaque est une preuve publique supplementaire : graine active. Peur d'etre vu - Schein accepte la trace, refuse le visage : partiellement resolu (compromis accepte).
+- Issue de l'etape : La statue est erigee. Schein y figure encapuchonne. Le groupe repart.
 
 ## Notes de frontiere
 

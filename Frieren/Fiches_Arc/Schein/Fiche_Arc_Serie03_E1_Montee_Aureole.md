@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie03_E1_Montee_Aureole
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_03_Aureole.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie02_E6_Intuition_Appel_Aureole.md
@@ -35,6 +35,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe souverain (Serie, Solitaer, Macht, Schein) quitte Ende et monte vers Aureole. Pas une expedition de guerre - un pelerinage. Le chemin est accessible depuis que Ende ne verrouille plus le seuil. A l'approche, Schein ressent l'appel du lieu comme aucun demon, aucun elfe, aucun pretre - la frontiere fine resonne avec sa magie native, une magie deployee a pleine echelle pendant des decennies de regne. Le voile semble le reconnaitre. Il ne comprend pas pourquoi. Macht et Solitaer, demons millenaires, percoivent l'etrangete du lieu - le seul endroit lie a la Deesse, ancienne rivale de leur espece, que le Roi verrouillait jadis. Le groupe atteint Aureole.
+- Role de Schein : roi qui revient chez lui sans le savoir. Il vient communier et trancher une question politique (sa nature, l'avenir du regne) ; c'est lui que le lieu appelle. La dissonance monte : pourquoi lui ?
+- Aboutissement des fils chauds : Magie de lumiere / nature divine - l'appel de la Deesse resonne avec sa magie native ; graine au bord de la detonation. Nature de Schein a Aureole - le seuil est en vue. Serie et l'intuition divine - la conviction partagee de Serie et Solitaer va enfin trouver sa reponse.
+- Issue de l'etape : le groupe est a Aureole. La montee est accomplie. La communion (etape 2) peut s'ouvrir.
 
 ## Notes de frontiere
 - Ce que chacun voit une fois le seuil franchi (la communion avec les morts) -> Roadmap_Serie_03 Etape 2.

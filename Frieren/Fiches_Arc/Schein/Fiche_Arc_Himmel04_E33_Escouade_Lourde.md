@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel04_E33_Escouade_Lourde
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_04_Plateau_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel04_E32_Grausam_Retrait.md
@@ -34,6 +34,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Combat contre une escouade lourde de demons - derniere ligne de defense avant le Chateau du Roi. Le groupe est a pleine puissance, rode par dix ans de quete. L'affrontement est intense mais le groupe l'emporte.
+- Role de Schein : en premiere ligne. Un demon qui tue des demons pour atteindre son pere - l'ironie atteint son paroxysme a quelques pas d'Ende.
+- Aboutissement des fils chauds : Pas de Tchekhov arme dans cette etape.
+- Issue de l'etape : L'escouade lourde est eliminee. Le Chateau du Roi des Demons est accessible.
 
 ## Notes de frontiere
 

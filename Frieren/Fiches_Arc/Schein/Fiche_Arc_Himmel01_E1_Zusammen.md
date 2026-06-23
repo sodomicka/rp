@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel01_E1_Zusammen
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_01_Formation.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Frieren01_E4_2_Mort_Heros.md
@@ -39,6 +39,13 @@
 ## Objets presents ou evoques
 
 - Replique de l'Epee du Heros (Himmel) - epee recue d'un marchand sauve enfant ; compagnon constant de Himmel. Ce n'est pas la vraie Epee du Heros, que Himmel n'a jamais pu tirer. Localisation : sur Himmel au depart.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Himmel et Heiter quittent leur village natal de Zusammen avec l'intention de defaire le Roi des Demons. En route, ils croisent Eisen ; le courant passe immediatement entre les trois. Le groupe embryonnaire (Himmel, Heiter, Eisen) se met en marche vers la Hutte de Frieren et Schein.
+- Role de Schein : absent de cette etape. Il ne connait pas encore ces trois humains ni l'existence de la quete.
+- Aboutissement des fils chauds : aucun Tchekhov actif sur cette etape.
+- Issue de l'etape : le trio Himmel/Heiter/Eisen est forme et progresse vers la Hutte. La quete est en marche, Schein et Frieren n'ont pas encore ete contactes.
 
 ## Notes de frontiere
 

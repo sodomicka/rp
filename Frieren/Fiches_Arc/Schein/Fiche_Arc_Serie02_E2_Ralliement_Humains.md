@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie02_E2_Ralliement_Humains
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_02_Planification_Du_Regne.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie02_E1_Reconstruction_Projet.md
@@ -39,6 +39,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le couple Serie/Schein expose la mission aux mages de premiere classe fraichement diplomes : la coexistence, l'avenir de la magie humaine, la fin des massacres. Les reactions se separent en trois nappes : sceptiques (Wirbel - pragmatisme de guerre ; Lernen - deconcerte par le revirement de son maitre) ; enthousiastes (Denken, Methode, Uebel) ; la majorite suit par deference envers deux etres millenaires. Les detecteurs fins (Methode, Lernen, Denken) captent la signature anormale de Schein - mana a mi-chemin entre demon et divin - sans pouvoir la nommer.
+- Role de Schein : objet d'etude collectif et figure de proue malgre lui. Il n'a pas l'aisance politique de Serie ; il est l'argument vivant (un demon qui ressent, qui guerit, qui veut sauver). Les mages projettent sur lui leurs espoirs ou leurs mefiances.
+- Aboutissement des fils chauds : Magie de lumiere / nature divine - les mages sensibles effleurent l'anomalie sans la resoudre ; graine active, non nommee.
+- Issue de l'etape : le contingent humain est constitue - avec ses sceptiques, ses enthousiastes et sa majorite pragmatique. L'etape 3 (campagne au Nord, Revolte) peut s'ouvrir.
 
 ## Notes de frontiere
 - Les reactions individuelles detaillees de chaque mage -> roadmap.

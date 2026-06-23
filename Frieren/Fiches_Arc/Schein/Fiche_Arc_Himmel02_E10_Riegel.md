@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel02_E10_Riegel
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_02_Terres_Centrales.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel02_E9_Bredt.md
@@ -34,6 +34,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : passage dans le village calme de Riegel, pres du Riegel Canyon. Frieren remarque que le canyon serait le refuge ideal d'un dragon. Etape de transit sans incident.
+- Role de Schein : mineur. Etape de passage, aucune action significative.
+- Aboutissement des fils chauds : aucun Tchekhov propre a cette etape.
+- Issue de l'etape : le groupe traverse Riegel sans incident. La remarque de Frieren sur le dragon reste une observation en suspens.
 
 ## Notes de frontiere
 

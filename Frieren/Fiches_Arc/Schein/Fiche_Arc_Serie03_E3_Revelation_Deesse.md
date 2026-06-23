@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie03_E3_Revelation_Deesse
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_03_Aureole.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie03_E2_Communion_Morts.md
@@ -42,6 +42,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : La communion terminee, le voile resonne avec la magie native de Schein et la Deesse s'adresse a lui - elle vient parce qu'il est de sa nature, pas parce qu'il la cherche. Elle lui revele leur nature partagee : tous deux hybrides demon-elfe, les deux seuls de l'histoire connue. L'amour fait le corps, pas le ventre : portee par une demone qui l'aimait, la Deesse a un corps elfe ; Schein, porte dans le degout, a un corps de mana -> demon. L'absence de consentement a brise sa mere mais n'a rien change a QUI il est. Posseder assez de mana permet l'ascension : condition hybride (acquise) ET mana surhumain, hors de portee de tout mortel. Ce que devient un dieu : omniscient, omnipotent (peut reecrire la nature meme des demons), mais incapable d'intervenir en personne - pour peser sur les vivants, il faut quitter leur monde. Resonance souveraine : un dieu pourrait reecrire la nature demoniaque - le remede que Schein cherchait depuis la fondation du regime existe, au bout de l'ascension. Serie et Solitaer, presentes, voient leur intuition confirmee par la seule autorite qui le pouvait.
+- Role de Schein : il recoit la verite qui defait le mystere de toute sa vie - pourquoi il ressentait, pourquoi les demons fuyaient devant lui, pourquoi sa magie etait differente, pourquoi le voile le reconnait, pourquoi il pourrait guerir une espece que nul autre ne peut sauver. Il n'est pas une erreur de la nature demoniaque : il est la seconde occurrence d'une nature divine.
+- Aboutissement des fils chauds : Nature de Schein a Aureole -> DETONATION : Schein decouvre sa vraie nature hybride. Magie de lumiere / nature divine -> DETONATION : la lumiere native revelee pour ce qu'elle est - pas DE la Deesse, COMME la Deesse. Empathie de Schein -> confirmee comme trait hybride, non anomalie demoniaque isolee. Potentiel de transcendance -> plafond saute : l'ascension guerirait son peuple. Serie et l'intuition divine -> CONFIRMATION : l'intuition de Serie et Solitaer validee par la Deesse.
+- Issue de l'etape : La revelation est close. Schein sait ce qu'il est et ce qu'il pourrait devenir. Le choix se pose.
 
 ## Notes de frontiere
 - Ce que la Deesse dit exactement (contenu de la revelation) -> roadmap (lore fixe par Theologie/).

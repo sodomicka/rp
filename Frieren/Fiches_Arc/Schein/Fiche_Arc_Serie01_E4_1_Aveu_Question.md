@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie01_E4_1_Aveu_Question
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_01_Premier_Contact.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie01_E3_2_Village_Serie.md
@@ -32,6 +32,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : apres le sexe, rare moment de tendresse. Serie dit qu'ensemble, ils sont l'entite la plus puissante du continent - aveu d'amour deguise en fierte. Pour Schein, c'est une equation militaire : si on est les plus puissants, pourquoi ne pas tuer le Roi maintenant ? La question est logique, imparable. Serie ne dit pas "trop dangereux" - elle dit que la guerre a du bon : catalyseur de talents humains, moteur de l'evolution magique. Elle ne voudrait pas s'en priver. Schein reconnait le meme calcul que celui du Roi des Demons. Il menace de la tuer si elle dit un mot de plus.
+- Role de Schein : la revelation. 150 ans d'amour, et la femme qu'il aime fait le meme calcul que le pere qu'il veut tuer. Ni l'un ni l'autre n'avait compris les vraies intentions de l'autre.
+- Aboutissement des fils chauds : Peur d'aimer - detonation. Le premier amour se brise. La scene se clot sur la menace de Schein ; la rupture consommee appartient a l'etape suivante.
+- Issue de l'etape : la menace est posee, la scene suspendue. Le couple est sur le point de se briser mais la separation n'est pas encore consommee.
 
 ## Notes de frontiere
 - La formulation exacte de Serie et la reaction de Schein -> roadmap.

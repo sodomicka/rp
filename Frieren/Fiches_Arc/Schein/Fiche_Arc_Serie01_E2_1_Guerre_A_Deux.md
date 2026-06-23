@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie01_E2_1_Guerre_A_Deux
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_01_Premier_Contact.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie01_E1_2_Maladresse.md
@@ -32,6 +32,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : le vengeur solitaire devient un duo de guerre. Schein arrive a temps pour la premiere fois - la combinaison de sa vitesse et des capacites de Serie est devastatrice pour les demons des marges. Guerre pour lui, nettoyage pour elle - le desaccord de fond est la mais invisible. Les apprentis de Serie : humains ephemeres que Serie nomme apprentis, trop peu encadres, Schein se fiche d'eux. La reputation du duo circule : "le Traitre" vu avec "le Grimoire Vivant" - probleme strategique pour les demons, plus simples nuisances isolees.
+- Role de Schein : il n'est plus seul. Le cycle du vengeur est brise - ils arrivent a temps, la solitude n'existe plus. Le sens de la guerre reste personnel et militant.
+- Aboutissement des fils chauds : Peur d'aimer - le couple existe, Schein vit quelque chose qu'il n'a jamais vecu ; actif, non resolu.
+- Issue de l'etape : le duo de guerre est etabli et efficace. La reputation des deux est consolidee dans les marges. Le desaccord de fond sur la finalite de la guerre n'a pas encore ete formule.
 
 ## Notes de frontiere
 - L'evolution de la reputation du duo au fil des decennies -> roadmap.

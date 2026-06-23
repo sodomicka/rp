@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel03_E18_Raad
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_03_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel03_E17_Alt.md
@@ -34,6 +34,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : traversee d'une foret dense des Terres du Nord, monstres plus nombreux qu'a Laub. Combats. Montee en difficulte progressive sur le trajet nord.
+- Role de Schein : combat. Les monstres des Terres du Nord sont plus puissants que ceux des Terres Centrales - le groupe se rode.
+- Aboutissement des fils chauds : aucun Tchekhov propre a cette etape.
+- Issue de l'etape : la foret de Raad est traversee. Le groupe s'est rode aux monstres plus resistants du nord. La progression vers Bande continue.
 
 ## Notes de frontiere
 

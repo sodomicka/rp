@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie02_E4_Ralliement_Demoniaques
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_02_Planification_Du_Regne.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie02_E3_Rufen_Revolte.md
@@ -42,6 +42,13 @@
 ## Objets presents ou evoques
 - Bague de lotus - rendue par Frieren a Aeusserst ; en possession de Schein ; son symbole se joue hors de sa vue pour Frieren au Monument.
 - Diagoldze (etat du territoire) - transmutation en or sur toute la region de Weise ; a dissiper.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le vrai dernier adieu : apres Revolte, Serie et Schein font leurs adieux definitifs a Frieren, Fern et Stark. Les deux groupes se separent pour de bon. Serie, Schein et Denken se dirigent vers les Terres Dorees. A Weise, Denken (Mistilziela), Serie (renvoi de maledictions) et Schein (magie native) descellent ensemble Macht et restaurent la cite, Gluck et les habitants. La restauration est la premiere demonstration publique de la voie douce. Macht ploie par reconnaissance de souverainete - voir Schein rompre l'or que lui-meme ne sait pas inverser, c'est voir un roi ; le reflexe de fuite se retourne en deference. Solitaer rejoint : portee par sa dette (epargnee au Monument ~An 7) et sa fascination, elle adhere a un projet qui fonctionne (elle ne se soumet pas - elle choisit). Solitaer rapporte que Frieren est passee au Monument de la Deesse. Schein apprend le fait - jamais le contenu intime. La porte se referme.
+- Role de Schein : roi qui rassemble ses pairs. Il rend la vie a Weise (la voie douce en acte) et obtient l'allegeance des deux seuls demons plus forts que lui - non par la force, mais parce qu'ils le choisissent. Il referme, sans en connaitre le poids, la porte sur Frieren.
+- Aboutissement des fils chauds : Bague de lotus - Frieren a rendu la bague a Aeusserst ; son deuil acheve se joue hors champ pour Schein au Monument, il n'en sait rien. Magie de lumiere / nature divine - defaire la Diagoldze a l'echelle d'une region : saut d'echelle majeur qui nourrit l'intuition a venir. Peur d'aimer - la porte se ferme. Empathie de Schein - rendre la vie a une cite entiere, acte de gouvernement.
+- Issue de l'etape : Macht et Solitaer sont rallies. Weise est restauree. La separation definitive avec Frieren est consommee. Le noyau souverain est constitue ; la fondation du regne (etape 5) peut s'ouvrir.
 
 ## Notes de frontiere
 - Le descellement effectif et la restauration de Weise -> roadmap.

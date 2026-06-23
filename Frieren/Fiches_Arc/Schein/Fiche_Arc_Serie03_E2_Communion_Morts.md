@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie03_E2_Communion_Morts
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_03_Aureole.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie03_E1_Montee_Aureole.md
@@ -39,6 +39,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le voile s'ouvre - chacun voit les morts des autres, personne n'est isole. Serie revoit chacun de ses eleves perdus sur 3 000 ans - les humains ephemeres jamais pleures - et Flamme parmi eux. Flamme rencontre Schein pour la premiere et unique fois : elle le felicite pour la chute du Roi et pour la voie de coexistence qu'il a prise. Schein voit le Heros du Sud : sa prescience floue s'est accomplie, le Roi est tombe. Macht et Solitaer voient leur Roi : le Roi constate froidement que son plan aboutit par la voie douce - son fils l'accomplit autrement mais l'accomplit. Le Roi prononce "Merci, Fils" : pas de l'affection, un adoubement - le predecesseur qui reconnait l'heritier et lui accorde la legitimite. Schein accompagne le deuil collectif de tous et s'approche ainsi de sa propre verite. En differe, d'autres membres du regime feront leur pelerinage : Denken viendra voir Lektuere, Uebel viendra voir sa grande soeur.
+- Role de Schein : temoin du deuil de tous et recipiendaire de l'adoubement qu'il n'attendait pas. Il porte la peine de Serie (3 000 ans d'eleves enterres), celle de Macht et Solitaer (leur Roi), et recoit du Roi le "Merci, Fils" qui lui accorde la legitimite d'heritier - la piece qui manquait a son regne. C'est en accompagnant le deuil des autres qu'il s'approche de sa propre verite.
+- Aboutissement des fils chauds : "Merci, Fils" (Tchekhov cote Serie) -> DETONATION terminale : le cycle Pere-Fils de 500 ans se clot - le Roi accorde la legitimite d'heritier que le regne exigait (adoubement impossible cote Frieren). Empathie de Schein -> resolue : il porte la peine collective sans s'effondrer. Nature de Schein a Aureole -> avance : la communion est le sas immediat avant la revelation de la Deesse.
+- Issue de l'etape : L'adoubement est prononce. Schein a accompagne le deuil de chacun et recu la legitimite du Roi. Le groupe ressort de la communion avec les morts - la revelation de la Deesse suit.
 
 ## Notes de frontiere
 - Ce que le Roi des Demons dit exactement a Macht et Solitaer, et le "Merci, Fils" adresse a Schein -> roadmap.

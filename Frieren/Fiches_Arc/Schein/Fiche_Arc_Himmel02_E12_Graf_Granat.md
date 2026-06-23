@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel02_E12_Graf_Granat
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_02_Terres_Centrales.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel02_E11_Waal.md
@@ -40,6 +40,13 @@
 ## Objets presents ou evoques
 
 - Ecailles d'Obeissance (Aura) - artefact de balance doree, outil d'Auserlese | localisation : sur Aura.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : le groupe arrive pres du domaine de Graf Granat. Escarmouche avec Aura la Guillotine et son armee de morts-vivants. Himmel blesse Aura. Elle fuit et se cache.
+- Role de Schein : passif dans ce combat. Il ne s'implique pas activement - Himmel et Frieren portent le coup. La passivite de Schein est une humiliation supplementaire pour Aura : un demon qui ne daigne meme pas la combattre.
+- Aboutissement des fils chauds : aucun Tchekhov propre a cette etape.
+- Issue de l'etape : Aura est blessee et en fuite. Elle ne reapparaitra pas pendant la quete. Le groupe repart du domaine de Graf Granat.
 
 ## Notes de frontiere
 

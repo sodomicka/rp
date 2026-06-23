@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel02_E6_Warm
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_02_Terres_Centrales.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel02_E5_Strahl.md
@@ -35,6 +35,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : a Warm, Schein est expose pour la premiere fois au materialisme et a l'avarice humaine. Il decouvre des humains qui s'entretuent pour de l'or. Contraste avec sa propre relation a la richesse : il n'a jamais rien possede. Degout marque.
+- Role de Schein : decouverte des defauts humains au-dela du rejet. A Grun, les humains le rejetaient par peur. A Warm, ils ne le rejettent pas - ils sont simplement cupides entre eux. Nuance dans sa vision de l'humanite : le probleme n'est pas la peur du demon, c'est la nature humaine elle-meme.
+- Aboutissement des fils chauds : Tchekhov "Empathie de Schein" - actif : il ressent du degout, emotion morale complexe. Un demon canon ne jugerait pas l'avarice.
+- Issue de l'etape : le groupe quitte Warm. Schein a affine sa lecture de l'humanite - elle n'est pas seulement effrayee, elle est aussi corrompue par ses propres passions.
 
 ## Notes de frontiere
 

@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel03_E25_Aeusserst_Revelation
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_03_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel03_E24_Kuhl.md
@@ -44,6 +44,13 @@
 
 - Bague de lotus - bijou symbolisant l'amour eternel (culture humaine/elfique) | localisation au debut de l'etape : sur le marche d'Aeusserst, pas encore achetee | Schein l'achettera sur indication de Himmel et l'offrira a Frieren sans en connaitre le sens.
 - Journal de Himmel - sur Himmel | cet episode y sera consigne.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : passage du Groupe des Heros a Aeusserst. Himmel, Heiter et Eisen orchestrent : ils poussent Schein et Frieren a comprendre et nommer leurs sentiments. Himmel montre a Schein une bague de lotus sur un marche et lui dit de l'offrir a Frieren, sans lui en reveler le sens (amour eternel). Schein offre la bague sans savoir ce qu'il donne - declaration d'amour involontaire. Frieren recoit.
+- Role de Schein : bascule emotionnelle. Apres des siecles de peur d'aimer, il est pousse par ses compagnons vers ce qu'il refuse de nommer. La bague de lotus est le point de rupture - un geste d'amour qu'il fait sans le savoir, orchestre par Himmel qui a tout compris. Il ne surmonte pas sa peur - il est deborde.
+- Aboutissement des fils chauds : Tchekhov "Bague de lotus" - plante ici : declaration involontaire, Schein offre sans savoir. Tchekhov "Peur d'aimer" - confrontee directement : Schein est deborde, pas vainqueur. Tchekhov "Journal de Himmel" - actif : Himmel consigne cet episode. Tchekhov "Empathie de Schein" - actif : les trois compagnons mortels agissent par affection sincere envers Schein et Frieren.
+- Issue de l'etape : Schein et Frieren ont compris leurs sentiments, pousses de l'exterieur. La bague de lotus a ete offerte. Le groupe repart d'Aeusserst, les fils emotionnels armes mais non resolus pour Schein.
 
 ## Notes de frontiere
 

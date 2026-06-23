@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel04_E31_Monument_Deesse
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_04_Plateau_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel04_E30_Fabel_Statue.md
@@ -46,6 +46,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le Roi des Demons detecte une interference spatio-temporelle au Monument de la Deesse. Solitaer traque la source et organise une embuscade avec Grausam et Rivale (Tot refuse et part). Frieren de l'ere Fern est projetee dans le corps de la Frieren de l'ere Himmel, avec ses souvenirs du futur. Zart attaque en premier - teleporte Frieren dans le ciel ; elle riposte avec des sorts du futur et elimine Zart. Grausam lance Ansehelschella sur Himmel, Heiter et Frieren. Heiter resiste grace a la Grace Divine. Himmel, pris dans l'illusion, combat a l'aveugle - tranche le bras de Grausam, brise le sort, localise Solitaer par la trajectoire de ses lames. Solitaer ordonne la retraite. Schein demande d'epargner Solitaer : dette passee (elle etait l'un des rares demons non hostile envers lui au chateau) ; il promet de la tuer plus tard si elle s'en prend a des humains. Grausam a recupere des bribes de souvenirs de Frieren-du-futur (moments de douceur avec Flamme et Schein). Frieren retourne dans le present via le Monument.
+- Role de Schein : deux roles distincts. Combattant pendant l'embuscade. Negociateur apres - il epargne Solitaer par gratitude envers un lien passe, en contradiction avec son statut de chasseur de demons.
+- Aboutissement des fils chauds : Empathie de Schein - epargner un demon par gratitude, malgre le danger futur : Tchekhov arme, payoff reporte. Magie de lumiere dans un demon - Frieren-du-futur porte des souvenirs de Schein, recuperes partiellement par Grausam : graine posee.
+- Issue de l'etape : L'embuscade est repoussee. Grausam a perdu un bras. Solitaer s'est retiree, epargnee par Schein. Frieren est de retour dans son present. Le groupe peut repartir.
 
 ## Notes de frontiere
 

@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie01_E3_1_Suppression_Mana
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_01_Premier_Contact.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie01_E2_2_Eveil.md
@@ -31,6 +31,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Serie enseigne a Schein la suppression de mana - branche demoniaque. Acte de confiance exceptionnel : cacher son mana est impensable pour un demon (mana = dignite). Schein accepte parce que la dissimulation sert la chasse. En retour, Schein enseigne le Zoltraak blanc, des sorts de soin et de purification hors des 3% des Ecritures. Serie etudie la structure unique de son mana sans en comprendre la portee reelle - elle catalogue sans savoir qu'elle catalogue le mana d'un etre divin potentiel.
+- Role de Schein : il s'arme et il donne. L'echange est bilateral pour la premiere fois - pas un eleve, un partenaire. L'acceptation de nier son mana devant Serie est un acte de confiance totale.
+- Aboutissement des fils chauds : Serie et le pantheon-famille - les sorts et le mana que Serie apprend ici deviendront des reliques apres la rupture ; elle les possede maintenant sans en comprendre la portee. Empathie de Schein - l'acceptation de nier son mana est un acte de confiance unique.
+- Issue de l'etape : Schein a acquis la suppression de mana, la detection demoniaque, la dissimulation. Serie a acquis le Zoltraak blanc, des sorts de soin, et a catalogue le mana de Schein. L'arsenal des deux est complete.
 
 ## Notes de frontiere
 - L'acquisition effective de la suppression de mana par Schein (resultat de l'enseignement) -> roadmap.

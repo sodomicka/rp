@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel02_E5_Strahl
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_02_Terres_Centrales.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel01_E4_Capitale_Royale.md
@@ -40,6 +40,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : a Strahl, les hautes instances de l'Eglise de la Deesse demandent a Schein une demonstration de sa magie. Resultat : les meilleurs pretres humains maitrisent ~3% des sorts de la Deesse ; Schein en possede ~70% de l'eventail. L'ecart est ecrasant. Les pretres ne comprennent pas l'origine de cette puissance dans un demon - ils constatent sans expliquer. Ils craignent qu'un culte se developpe autour de Schein. Schein les rassure en refusant toute mention publique : il ne veut pas banaliser l'idee d'un "gentil demon".
+- Role de Schein : revelation de l'etendue de sa puissance divine devant des experts ecclesiastiques. Premier moment ou la question "pourquoi un demon possede-t-il la magie de la Deesse ?" est posee a voix haute, sans reponse. Il choisit l'effacement.
+- Aboutissement des fils chauds : Tchekhov "Magie de lumiere dans un demon" - arme ici : la question est posee publiquement devant le clerge, sans etre resolue. Tchekhov "Empathie de Schein" - actif : son refus d'etre celebre est une preuve supplementaire de sincerite.
+- Issue de l'etape : le groupe quitte Strahl. L'Eglise a observe l'ecart de puissance et garde le silence. La nature de Schein reste inexpliquee. Heiter a observe avec fascination theologique.
 
 ## Notes de frontiere
 

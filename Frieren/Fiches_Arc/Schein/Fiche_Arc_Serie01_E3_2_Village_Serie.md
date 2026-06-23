@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie01_E3_2_Village_Serie
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_01_Premier_Contact.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie01_E3_1_Suppression_Mana.md
@@ -31,6 +31,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Serie emmene Schein dans un lieu qu'elle n'a jamais montre a personne : son propre village elfe a flanc de falaise, creuse dans la roche face a la mer - architecture raffinee, detruit par les demons avant la naissance de Schein. Elle a survecu seule par sa puissance. Elle lui confie ce secret sans hesitation - la confiance est absolue. Schein voit ce que les demons ont fait avant lui, avant le Roi. Il apprend que le massacre n'est pas un programme politique - c'est un instinct d'espece. Tuer le Roi ne changera pas la nature des demons.
+- Role de Schein : il recoit le secret le plus profond de Serie. Et il apprend une limite de son combat : tuer le Roi ne suffira pas a arreter les massacres.
+- Aboutissement des fils chauds : Empathie de Schein - le village de Serie est la preuve que l'empathie de Schein est une anomalie, pas un symptome ; les demons massacrent les elfes depuis avant sa naissance. Tchekhov avance.
+- Issue de l'etape : Schein a appris la limite de son combat. Le village de Serie est revele et partage. La confiance dans le couple est a son sommet.
 
 ## Notes de frontiere
 - Ce que Schein apprend ici sur les limites de son combat contre le Roi (la predation est inscrite dans l'espece) -> roadmap.

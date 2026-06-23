@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel02_E7_Groesse_Forest
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_02_Terres_Centrales.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel02_E6_Warm.md
@@ -42,6 +42,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : le groupe localise Qual, le Sage Ancien de la Corruption, createur du Zoltraak, dans la Groesse Forest. Combat suivi du scellement de Qual - il est scelle, pas tue. Schein ne combat pas : Qual lui a enseigne le Zoltraak par le passe, et combattre son mentor serait une trahison de la dette.
+- Role de Schein : retrait delibere du combat. La loyaute envers ceux qui l'ont aide prime sur l'efficacite tactique. Ce retrait revele la hierarchie de valeurs de Schein - la dette passee envers un mentor, meme ennemi, est intangible.
+- Aboutissement des fils chauds : Tchekhov "Empathie de Schein" - actif : le respect d'un lien passe, meme envers un demon, meme envers un ennemi.
+- Issue de l'etape : Qual est scelle dans la Groesse Forest. Le groupe repart. Schein n'a pas leve la main sur son mentor. La dette est honoree.
 
 ## Notes de frontiere
 

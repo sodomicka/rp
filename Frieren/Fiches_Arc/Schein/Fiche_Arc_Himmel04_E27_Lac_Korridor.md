@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel04_E27_Lac_Korridor
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_04_Plateau_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel04_E26_Domaine_Graf_Dach.md
@@ -31,6 +31,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe atteint le Lac Korridor, seul point de passage vers le haut plateau. Aucun bateau disponible : attente forcee. Pause subie dans la progression vers Ende.
+- Role de Schein : patience forcee. Un demon predateur bloque par un lac et l'absence d'un bateau - contraste comique ou contemplatif avec son mode operatoire habituel.
+- Aboutissement des fils chauds : Pas de Tchekhov arme dans cette etape.
+- Issue de l'etape : Le groupe traverse le lac une fois le bateau disponible. La progression vers le haut plateau reprend.
 
 ## Notes de frontiere
 

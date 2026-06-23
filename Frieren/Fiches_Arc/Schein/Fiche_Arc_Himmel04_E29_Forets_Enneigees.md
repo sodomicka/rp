@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel04_E29_Forets_Enneigees
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_04_Plateau_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel04_E28_Canyon_Tor_Gehen.md
@@ -33,6 +33,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe progresse a travers les nombreuses forets enneigees et villages du haut plateau entre le Canyon de Tor et Ende. Les monstres et demons sont de plus en plus puissants a mesure que le groupe approche du territoire du Roi. Progression difficile mais le groupe reste fonctionnel.
+- Role de Schein : en territoire familier. Les Terres du Nord proches d'Ende sont son ancien terrain de vie. Ses instincts de predateur et sa connaissance du terrain deviennent des atouts tactiques pour le groupe.
+- Aboutissement des fils chauds : Pas de Tchekhov arme dans cette etape.
+- Issue de l'etape : Le groupe traverse la zone de forets enneigees. La resistance demoniaque croit. Ende se rapproche.
 
 ## Notes de frontiere
 

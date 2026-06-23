@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel05_E39_Voll_Klar
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_05_Retour.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel05_E38_Aeusserst_Retour.md
@@ -36,6 +36,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe repasse chez Voll a Klar. Celebration de la victoire. Le vieux nain et Eisen - deux rapports au temps - fetent ensemble la fin de la quete.
+- Role de Schein : il revoit le nain qui protege un village par amour d'une morte. Lui retourne bientot a la hutte, avec Frieren bien vivante. Contraste tenu.
+- Aboutissement des fils chauds : Pas de Tchekhov arme dans cette etape.
+- Issue de l'etape : Celebration a Klar. La route du retour reprend.
 
 ## Notes de frontiere
 

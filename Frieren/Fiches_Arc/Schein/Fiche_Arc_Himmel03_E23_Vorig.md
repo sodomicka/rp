@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel03_E23_Vorig
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_03_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel03_E22_Klar_Voll.md
@@ -33,6 +33,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : le groupe fait etape a Vorig, derniere grande cite fortifiee avant Aeusserst. Relais de preparation. Etape sans incident notable.
+- Role de Schein : mineur. Preparation a l'approche d'Aeusserst.
+- Aboutissement des fils chauds : aucun Tchekhov propre a cette etape.
+- Issue de l'etape : le groupe quitte Vorig, approvisionne et repose. Aeusserst est la prochaine etape.
 
 ## Notes de frontiere
 

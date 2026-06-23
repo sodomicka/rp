@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie01_E4_2_Depart
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_01_Premier_Contact.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie01_E4_1_Aveu_Question.md
@@ -33,6 +33,13 @@
 
 ## Objets presents ou evoques
 - Sorts acquis de Serie (dans le corps de Schein) - suppression de mana, detection, dissimulation, reparation | portables, acquis definitivement | pas de fiche WIKI
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Schein formule son adieu : "je t'aime, mais je ne peux pas t'aimer dans un monde ou mon pere vit." Aveu d'amour formule comme un depart lucide. Serie est devastee - incomprehension sincere : dans sa logique, sa position est inattaquable. Le premier etre a qui elle a donne son amour en 3 000 ans la quitte sans qu'elle comprenne pourquoi. Schein pose la condition implicite : pas tant que son pere vivra. Serie respectera cette limite. ~836 ans de silence commencent. Les sorts de Schein qu'elle a appris deviennent des reliques.
+- Role de Schein : il perd tout a nouveau. Pas comme a Ende (rage, violence, fuite) - cette fois, un depart choisi, formule, lucide. Et infiniment plus douloureux.
+- Aboutissement des fils chauds : Peur d'aimer - le premier amour est brise ; la condition posee est la limite operative pour les 836 ans suivants ; detonation accomplie. Serie et le pantheon-famille - le silence commence ; les sorts de Schein deviennent reliques chez Serie.
+- Issue de l'etape : Schein est reparti seul. La condition "pas tant que mon pere vivra" est posee et acceptee par Serie. 836 ans de silence commencent.
 
 ## Notes de frontiere
 - La phrase exacte du depart de Schein -> roadmap.

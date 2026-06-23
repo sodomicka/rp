@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel01_E2_Hutte
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_01_Formation.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel01_E1_Zusammen.md
@@ -43,6 +43,13 @@
 ## Objets presents ou evoques
 
 - Journal de Himmel - carnet de voyage commence a cette etape (An 0) | Himmel note le quotidien, les choses triviales, Schein y figure. Localisation : sur Himmel pendant la quete.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Himmel arrive a la Hutte pour recruter Frieren. Schein est present - premier contact avec des humains inconnus (hors Frieren) depuis des siecles. Himmel accepte Schein d'emblee, choix delibere et informe (il connait l'episode du demon-enfant). Schein, galvanise par le precedent du Heros du Sud (~50 av. An 0) qui a prouve que la prophetie fonctionne, accepte de se joindre a la quete. Le Journal de Himmel est commence des cette etape : Schein y figure comme membre a part entiere.
+- Role de Schein : il accepte de s'integrer au groupe malgre sa mefiance des relations. Premier test de confiance immediat avec Himmel - et Himmel le reussit en ne voyant pas Schein comme une menace.
+- Aboutissement des fils chauds : Tchekhov "Empathie de Schein" - arme ici : Himmel le voit tel qu'il est, pas comme une menace ; Schein ressent ce que ca fait d'etre accepte sans condition. Tchekhov "Peur d'aimer" - arme ici : Schein accepte de s'integrer malgre sa mefiance. Tchekhov "Journal de Himmel" - plante ici (An 0) : Himmel commence le journal, Schein y figure.
+- Issue de l'etape : le groupe complet (Himmel, Heiter, Eisen, Frieren, Schein) est forme a la Hutte. La quete peut commencer.
 
 ## Notes de frontiere
 

@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie02_E3_Rufen_Revolte
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_02_Planification_Du_Regne.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie02_E2_Ralliement_Humains.md
@@ -47,6 +47,13 @@
 
 ## Objets presents ou evoques
 - Epees Divines Trancheuses - quatre lames de Revolte, poids modulable ; cassantes si privees de magie.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Serie et Schein remontent vers le Nord avec le contingent (Uebel, Denken, Genau, Frei, Lernen, Sense). Reconvergence inattendue : le groupe de Frieren (Frieren, Fern, Stark) croise le contingent de Serie sur la meme subjugation de Revolte le Divin. Repartition des combats en branche 5b : Schein prend le slot de Genau et se place avec Stark face a Revolte ; Serie rejoint Frieren et Fern en foret contre Solide et Hemmung ; les autres mages du contingent portent secours aux villages voisins et tiennent les sbires. Le piege de l'enfant-leurre Jung vise Schein et Stark - fait long feu (un demon ne s'y trompe pas, le contingent trop nombreux pour isoler). Revolte refuse l'autorite de Schein. Reglee etablie : on rallie les volontaires, on broie ceux qui refusent. Schein et Stark appliquent le conseil donne aux adieux d'Aeusserst - Tchekhov, detonation. Les deux groupes reunis demolissent Revolte et ses sbires. Methode et les detecteurs captent de nouveau la signature mi-divine de Schein. Frei survit (divergence branche 5b : Jung vise Schein, pas Frei).
+- Role de Schein : roi en campagne. Il offre la soumission a un general demon, essuie un refus, et tranche - premier acte de souverainete par le fer. Il combat aux cotes de Stark une derniere fois, transmetteur jusqu'au bout, sous le regard du groupe qu'il quitte.
+- Aboutissement des fils chauds : Conseil de Schein a Stark - DETONATION : plant pose aux adieux d'Aeusserst, Stark l'applique pour aider a abattre Revolte. Magie de lumiere / nature divine - graine captee par les detecteurs, non resolue. Empathie de Schein - le piege de l'enfant-leurre (la gentillesse comme faille) resonne. Peur d'aimer - les deux groupes reunis une derniere fois ; Schein combat sous le regard de Frieren.
+- Issue de l'etape : Revolte et ses sbires sont elimines. Frei est vivant. Le vrai dernier adieu aux groupes de Frieren/Fern/Stark s'approche (etape 4).
 
 ## Notes de frontiere
 - L'issue des combats -> roadmap.

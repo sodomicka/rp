@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie02_E5_Regne_Prend_Forme
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_02_Planification_Du_Regne.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie02_E4_Ralliement_Demoniaques.md
@@ -39,6 +39,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats (en snapshots sur plusieurs decennies) : Serie et Schein reconstruisent le chateau du Roi a Ende, rupture assumee avec le mode de vie nomade demoniaque - un point fixe, un trone, une capitale. Ende reconstruite cesse de verrouiller Aureole ; le seuil sacre s'ouvre. Ralliement de la masse : le mana mele de Macht (Sage) et de Schein (anomalie) forme une banniere lisible - cascade hierarchique (Macht -> generaux -> chefs -> mineurs). La faim est geree, non guerie (voie b) : Schein se nourrit d'animaux, sa lumiere native apaise partiellement la faim des siens - une laisse, pas un remede. Frustration sourde des demons soumis. Schein bride sa lumiere en permanence pour proteger ses sujets, donc accumule du contrecoup (SB1). Snapshots : premiers villages ou demons et humains ne s'entretuent pas ; resistances des deux bords ; Solitaer architecte du regime cote demons. L'Association structure et forme l'humanite.
+- Role de Schein : roi entre deux mondes. Present, puissant, aime - mais geolier de la faim des siens, dangereux pour eux par son propre bridage. Il accomplit le plan du Roi sans le sang, et decouvre que la paix coute une vigilance de chaque instant.
+- Aboutissement des fils chauds : Magie de lumiere / nature divine - le mana mele opere a l'echelle d'un peuple ; graine majeure active. Contrecoup bestial - le bridage permanent accumule la dette ; tension de fond active. Empathie de Schein - gouverner par l'empathie une espece sans empathie. Choix final de Schein - le dilemme commence a se charger : la laisse ne guerit rien, seul un dieu reecrirait la nature demoniaque.
+- Issue de l'etape : le regne est fonde et debout. Ende est capitale, les Sages et la masse sont rallies, la coexistence tient sous laisse. La question de la nature de Schein commence a s'imposer (etape 6).
 
 ## Notes de frontiere
 - L'etat d'avancement du chateau d'Ende au fil des decennies -> roadmap.

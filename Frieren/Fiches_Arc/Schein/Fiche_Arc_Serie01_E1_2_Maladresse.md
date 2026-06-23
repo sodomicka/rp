@@ -1,6 +1,6 @@
 # Fiche_Arc_Serie01_E1_2_Maladresse
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Serie_01_Premier_Contact.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Serie01_E1_1_Village.md
@@ -30,6 +30,13 @@
 
 ## Objets presents ou evoques
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : deux millenaires qui sont des gamins devant l'amour. Ils se draguent comme des manches - lui ne sait pas quoi faire d'un regard qui ne recule pas, elle ne sait pas quoi faire d'un etre qui ne mourra pas trop vite. La timidite cede a l'arrogance naturelle des deux : la competition et les provocations s'installent avant le couple. Premier contact physique, premier eveil de libido pour les deux - decouverte mutuelle, maladroite, intense. Schein se confie totalement, sans filtre : le millenaire de tortures, le massacre du village elfe, Frieren enfant, la main arrachee, le coup contre le Roi. Serie ecoute.
+- Role de Schein : le petrifie degele. Timidite, maladresse, arrogance - tout ce qui etait comprime par un siecle de solitude explose en vrac. Transparence totale.
+- Aboutissement des fils chauds : Empathie de Schein - Serie est la premiere a recevoir sa transparence totale ; le demon qui ne ment jamais se confie pour la premiere fois ; Tchekhov avance. Peur d'aimer - l'apprivoisement est en cours, les deux savent l'enjeu, ce qui les rend maladroits.
+- Issue de l'etape : le couple n'est pas encore formalise mais l'apprivoisement est accompli. Les confidences de Schein ont ete livrees. La dynamique de competition amoureuse est installee.
 
 ## Notes de frontiere
 - Le premier contact physique, le premier eveil de libido en acte -> roadmap.

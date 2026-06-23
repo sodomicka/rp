@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel03_E15_Laub
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_03_Terres_Du_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel03_E14_Schwer_Village_Epee.md
@@ -32,6 +32,13 @@
 ## Objets presents ou evoques
 
 - Aucun objet narrativement significatif a l'ouverture.
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : traversee d'une foret dense des Terres du Nord. Quelques monstres elimines. Etape de transition, rythme de voyage.
+- Role de Schein : mineur. Combat de routine.
+- Aboutissement des fils chauds : aucun Tchekhov propre a cette etape.
+- Issue de l'etape : la foret de Laub est traversee sans incident majeur. Le groupe avance vers le nord. La densite de monstres augmente progressivement.
 
 ## Notes de frontiere
 

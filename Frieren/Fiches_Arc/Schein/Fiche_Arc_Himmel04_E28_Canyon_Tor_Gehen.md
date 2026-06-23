@@ -1,6 +1,6 @@
 # Fiche_Arc_Himmel04_E28_Canyon_Tor_Gehen
 
-- version : W1
+- version : W4
 - roadmap liee : cf. WIKI Roadmap/Schein/Roadmap_Himmel_04_Plateau_Nord.md
 - frontiere : etat decrit = OUVERTURE de l'arc. Rien d'ulterieur (cf. SPEC regle de troncature).
 - arc precedent : cf. WIKI Fiches_Arc/Schein/Fiche_Arc_Himmel04_E27_Lac_Korridor.md
@@ -37,6 +37,13 @@
 ## Objets presents ou evoques
 
 - Recompense de Graf Dach - fonds obtenus a l'Etape 26 chez Lord Norm | en possession du groupe a l'ouverture | localisation : sur Himmel
+
+## Deroule de l'etape
+Ce qui se joue durant cette etape, du debut a la fin de l'etape. Borne a la frontiere de l'etape : rien des etapes suivantes.
+- Beats : Le groupe arrive au Grand Canyon de Tor - 3 km de profondeur, vents violents, infranchissable. Ils trouvent Gehen, nain dont le village a ete detruit par des demons, qui construit un pont pour permettre le passage aux soldats futurs. Gehen manque de fonds. Himmel lui donne la recompense de Graf Dach. Gehen hesite : Himmel sera mort avant la fin du chantier (~200 ans). Himmel insiste : Frieren recuperera la recompense en son nom. Il demande a Gehen un pont qui tienne mille ans, pour les generations futures et ses compagnons millenaires.
+- Role de Schein : temoin d'un acte de foi dans le futur. Himmel investit dans quelque chose qu'il ne verra jamais. Pour un demon millenaire habitue a survivre seul, cet altruisme a long terme est une vertu humaine incomprehensible et fascinante. Miroir : Schein a passe un millenaire a survivre ; Himmel depense ses dernieres ressources pour ceux qui viendront apres lui.
+- Aboutissement des fils chauds : Empathie de Schein - comprehension d'une vertu humaine que les demons ne peuvent pas concevoir : l'altruisme a long terme. Graine posee, non resolue dans cette etape.
+- Issue de l'etape : Le canyon est contourne ou le passage est trouve. Le chantier de Gehen est lance, finance par Himmel. La route vers Ende continue.
 
 ## Notes de frontiere
 
