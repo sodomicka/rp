@@ -1,6 +1,7 @@
 # Les Stalkers
 
-- version : W2
+- version : W3
+- Note de revision W3 : rename canon Lumakio -> Lumacchio (orthographe canon, Lies of P Overture ; "Lumakio" etait une coquille de travail). Propage a toutes les mentions + au cross-ref Personnages/Lumacchio.md. Aucun changement de fond.
 - Note de revision W2 : ajout de la structure pre-Frenzy [DIVERGENCE RP - Ere 2] (l'union des Stalkers sous Lea Florence, 1848-1850, avant la decimation) ; convention des masques ; entree des Loups (Magnus/Markiona) via les Sweepers ; pointeur Assemblee des Lapins Noirs -> Black_Rabbit_Brotherhood. Le socle canon (Bastards/Sweepers, Battle of the Workshop Tower, post-effondrement) est inchange.
 
 ## Nature
@@ -15,7 +16,7 @@
 - Convention : tous les Stalkers portent un masque. Lea = allure de gladiateur (lecture RP du design) ; Romeo = le Roi ; le duo OC Magnus/Markiona = le LOUP NOIR et la LOUVE BLANCHE (masques de cuir teinte et de fourrure noire/blanche, cousus par Markiona).
 - Trois factions internes, chacune sa methode, articulees pour aider le peuple avant 1851 :
   - SWEEPERS (ruelles, "we always repay what is owed", canon) : la voie cote peuple ; c'est par eux que le duo entre (l'heroisme de Veronique face a un pantin devenu fou donne a Magnus l'envie de rejoindre - cf. Personnages/Veronique.md).
-  - BASTARDS (nobles, "honor or nothing", canon) : operent dans les quartiers riches, refusent d'aider les pauvres ; allies de fond aux Alchimistes (cf. Lumakio). Source de friction interne au sein de l'union.
+  - BASTARDS (nobles, "honor or nothing", canon) : operent dans les quartiers riches, refusent d'aider les pauvres ; allies de fond aux Alchimistes (cf. Lumacchio). Source de friction interne au sein de l'union.
   - ASSEMBLEE DES LAPINS NOIRS [DIVERGENCE RP] : mercenaires masques (aide contre paiement), deja nombreux. On NEGOCIE avec eux ; ils ne sont pas aux ordres de Lea. Precurseur direct de la Confrerie des Lapins Noirs du base game (cf. Factions/Black_Rabbit_Brotherhood.md, section origine).
 - Activite de l'ere : aide au peuple, missions de liberation de quartiers sous influence alchimiste, et lutte contre les eveils d'Ego ISOLES devenus dangereux pour les humains (pas la Frenzy de masse, qui n'arrive qu'en 1851).
 - Note [DIVERGENCE RP] : les Stalkers ont une haine de fond des pantins (cf. Faits canon). Magnus, pantin a Ego revele en 1849, est accepte comme l'EXCEPTION - la preuve vivante qu'un Ego de pantin peut etre bon, l'inverse de ce qu'ils traquent. cf. Personnages/Magnus.md.
@@ -30,11 +31,11 @@
 
 ### Les Bastards
 
-- Issus de nobles familles. Leader : Lumakio (charismatique, ambitieux).
+- Issus de nobles familles. Leader : Lumacchio (charismatique, ambitieux).
 - Motto : "honor or nothing".
 - Ne trouvant pas leur place parmi les old families, s'allient aux Alchimistes avec l'espoir d'un meilleur avenir.
 - Employes comme gardes des Alchimistes et de leur workshop.
-- Lumakio : dit avant sa mort qu'il a ete force de choisir un camp lors des conflits internes de l'Ordre (Simon vs Valentinus) et a choisi Simon, attire par la soif de pouvoir et d'immortalite.
+- Lumacchio : dit avant sa mort qu'il a ete force de choisir un camp lors des conflits internes de l'Ordre (Simon vs Valentinus) et a choisi Simon, attire par la soif de pouvoir et d'immortalite.
 - Red Fox (Claudia) : bastard stalker, issue de la maison Wolf. La famille Wolf finance la construction des labs alchimiques avec d'autres familles. D'autres familles nobles veulent connaitre les details de ces labs (les Zelator labs sous l'Hotel Krat).
 
 ### Les Sweepers
@@ -77,8 +78,8 @@
 - Owl Doctor = amant d'Adelina, boss au Barren Swamp, implique de facto dans la sousculture stalker.
 - Alidoro (vrai) = ex-alchimiste desillusionne qui rejoint les Sweepers et devient stalker-chasseur. Decouvre les crimes des Alchimistes. Transmet l'info au reporter Madoro -> Madoro suspendu, article banni, Alidoro en fuite. Surveille Eugenie (sa soeur) de loin depuis le "country of the morning".
 - Parrot = partenaire d'Alidoro qui le tue dans une dispute (apres avoir vendu des objets), vole son identite. Le "faux Alidoro" du base game.
-- Madoro (reporter/medecin) a pour amis Lumakio, Sophia, Venigni, et Alidoro. Journal de Madoro : contamination, manque d'eau. Memo final (timeline affectee) : seul regret = son ami Lumakio et sa trahison.
-- Lumakio (DLC) : a l'Hotel Krat dans le passe, allegiance aux Alchimistes, complice de Simon. Informe Veronique et son vanguard du piege. Boit l'elixir des Alchimistes (pretendu "recompense") -> infection, transformation en abomination. Vaincu ; supplie P de l'epargner ; meurt quand meme.
+- Madoro (reporter/medecin) a pour amis Lumacchio, Sophia, Venigni, et Alidoro. Journal de Madoro : contamination, manque d'eau. Memo final (timeline affectee) : seul regret = son ami Lumacchio et sa trahison.
+- Lumacchio (DLC) : a l'Hotel Krat dans le passe, allegiance aux Alchimistes, complice de Simon. Informe Veronique et son vanguard du piege. Boit l'elixir des Alchimistes (pretendu "recompense") -> infection, transformation en abomination. Vaincu ; supplie P de l'epargner ; meurt quand meme.
 
 ## Liens
 
@@ -86,7 +87,7 @@
 - Workshop Union / Geppetto : lieu de la Battle (cf. Factions/Workshop_Union.md).
 - Stargazers : installation par les Sweepers (cf. Systemes/Stargazers.md).
 - Alidoro et Parrot (cf. Personnages/Alidoro_et_Parrot.md).
-- Lumakio, Veronique (cf. Personnages/Lumakio.md, Veronique.md).
+- Lumacchio, Veronique (cf. Personnages/Lumacchio.md, Veronique.md).
 - Red Fox, Black Cat (cf. Personnages/PNJ_secondaires.md ou fiches dediees).
 - Lea Florence Monad : Legendary Stalker, adoptee par la famille Monad ; [DIVERGENCE RP] figure unificatrice de l'union pre-Frenzy (Ere 2) (cf. Personnages/Lea_Florence_Monad.md).
 - Magnus / Markiona [DIVERGENCE RP] : les Loups (Loup Noir / Louve Blanche), OC du RP ; rejoignent l'union via les Sweepers en 1848 (cf. Personnages/Magnus.md, Markiona.md).
@@ -94,7 +95,7 @@
 ## Sort connu / Etat
 
 - Factions stalkers pratiquement annihilees apres la Battle of the Workshop Tower.
-- Lumakio mort (DLC, quelle que soit la decision de P).
+- Lumacchio mort (DLC, quelle que soit la decision de P).
 - Veronique morte (DLC, infectee et transformee en boss).
 - Mad Donkey vaincu par P (debut du base game).
 - Red Fox et Black Cat : sort incertain selon les choix de P.

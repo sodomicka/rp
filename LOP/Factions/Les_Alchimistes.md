@@ -1,6 +1,7 @@
 # Les Alchimistes
 
-- version : W1
+- version : W2
+- Note de revision W2 : rename canon Lumakio -> Lumacchio (orthographe canon, Lies of P Overture). Aucun changement de fond.
 
 ## Nature
 
@@ -50,7 +51,7 @@
 - Alchimistes corrompent Archbishop Andreas avec une grosse donation en echange de terres (~30 ans avant le jeu).
 - Alchimistes accusent des crimes : meurtre du Colonel Little, disparition de taxidermistes via le zoo, ensevelissement vivant d'un mineur humain avec un pantin dans un tunnel (decouverte des ruines anciennes), meurtre du gardien du phare Columbo (vole des biens de l'Ordre).
 - La famille Wolf (Red Fox = Claudia est une bastard stalker de cette maison) finance la construction des labs alchimiques. La famille V aide a eliminer des ouvriers de construction dans la Relic of Trismegistus (valeur de la mine).
-- Elixir = arme de manipulation : promesse de recompense a Lumakio (chef des Bastards) -> en realite infection -> transformation en abomination.
+- Elixir = arme de manipulation : promesse de recompense a Lumacchio (chef des Bastards) -> en realite infection -> transformation en abomination.
 
 ### Pistrus books et excommunication de Valentinus
 
