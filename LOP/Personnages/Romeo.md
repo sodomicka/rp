@@ -1,6 +1,7 @@
 # Romeo
 
-- version : W5
+- version : W6
+- Note de revision W6 : couche masque + physique [DIVERGENCE RP - convention des Stalkers]. Le masque de Roi precise : plaque FACIALE de fer rivete, ouverture aux yeux seulement, COURONNE DE DOIGTS DE PANTIN cloues (nez et bouche du render = decor, ECARTES). Pas de couleur d'identite. Physique ajoute (blond platine mi-long, traits fins). Arme Ere 2 ajoutee : la FAUX. cf. Factions/Les_Stalkers.md. Aucun changement de fond.
 - Note de revision W5 : couche Overture (Ere 3, 1850). Detail des trois "oeuvres" macabres d'Arlecchino (manteau + broche Monad a la foire ; bras arraches + Carlo Graduation Pendant au lustre, recupere et rendu par Lea -> Tchekhov Ere 5 intact ; pose christique au domaine Monad). Nettoyage du locket (retire : la reconnaissance de P par Lea passe desormais par le combat, cf. Lea_Florence_Monad.md). Trajectoire Overture affinee, non dupliquee.
 - Note de revision W4 : couche soin + motif de la reco (decisions worldbuilder). Romeo connait la Petrification (bras gauche) de Lea et lui prodigue soins / soutien au quotidien - binome soignant en miroir de Magnus / Markiona (les deux fieres encaissent en silence ; Alidoro fournit les anti-douleurs, Romeo fait le reste). La reco au Zoo est motivee par la rumeur du retour de "l'Artiste de sang" (moniker 1850 d'Arlecchino - cf. Personnages/Arlecchino.md) ; elle est cadree comme la derniere erreur de sa vie.
 - Note de revision W3 : couche Ere 2 (Les Loups, 1848-1850). Role Ere 2 : second de Lea dans l'union des Stalkers, masque de Roi (presage), amitie avec le duo (surtout Magnus) ; au reveal, suit la colere de Lea par loyaute (elle lui a raconte Markiona ; lui ne la connait pas en personne) ; clot l'ere en partant SEUL en reconnaissance au Zoo (frontiere vers Overture). Trajectoire Ere 2 ajoutee.
@@ -14,6 +15,8 @@
 - Titre ennemi : King of Puppets (et son predecessor : Romeo sous forme humaine emerge de la machine apres le boss fight principal).
 - Lien familial / sentimental : orphelin (ou fils de famille ordinaire, pas precise). Meilleur ami de Carlo.
 - Age : jeune adulte en 1850 (~16-20 ans). cf. Personnages/Carlo.md (Carlo, du meme age, mort vers 1843).
+- [DIVERGENCE RP] Physique : cheveux blond platine mi-longs, traits fins.
+- [DIVERGENCE RP] Masque de Stalker (Ere 2) : le ROI - AUCUNE couleur d'identite (ni animal ni couleur). cf. Factions/Les_Stalkers.md (convention) ; design detaille dans la section Union des Stalkers.
 
 ## Role
 
@@ -26,7 +29,7 @@
 - Romeo tente de s'entrainner a l'epee ; Carlo supplie Lea de les enseigner tous les deux.
 
 ### Union des Stalkers (Ere 2, 1848-1850) [DIVERGENCE RP]
-- Apprenti vedette devenu le SECOND de Lea Florence dans l'union des Stalkers d'avant la chute ; porte un masque de ROI (presage ironique de ce que Geppetto fera de lui - le King of Puppets ; l'ironie vit cote CODEX, pas en prose de jeu).
+- Apprenti vedette devenu le SECOND de Lea Florence dans l'union des Stalkers d'avant la chute ; porte un masque de ROI (presage ironique de ce que Geppetto fera de lui - le King of Puppets ; l'ironie vit cote CODEX, pas en prose de jeu). [DIVERGENCE RP] Design : plaque FACIALE de fer rivete, ouverture aux yeux seulement, surmontee d'une COURONNE DE DOIGTS DE PANTIN cloues - couronne par les mains de ceux qu'il commandera, declaration d'intention macabre vissee sur le front. Aucune couleur d'identite (cf. Factions/Les_Stalkers.md).
 - Participe a l'aide au peuple et a la coordination des trois factions aux cotes de Lea (cf. Factions/Les_Stalkers.md).
 - Noue une amitie avec le duo Loup Noir / Louve Blanche, en particulier avec Magnus (cf. Personnages/Magnus.md).
 - [DIVERGENCE RP - soin] Connait la Petrification (bras gauche) de Lea et lui prodigue soins et soutien au quotidien - binome soignant en miroir exact de Magnus aupres de Markiona. Les deux femmes sont trop fieres pour en parler ; Alidoro fournit les anti-douleurs (canon), Romeo assure le reste. cf. Personnages/Lea_Florence_Monad.md.
@@ -64,6 +67,11 @@
 - [INTERPRETATION] Romeo est encore vivant a ce moment (agonisant) ; sa transformation en pantin intervient apres les evenements du DLC.
 
 ## Capacites
+
+### Romeo stalker (forme humaine, Ere 2) [DIVERGENCE RP]
+
+- Arme : la FAUX - second de Lea, combattant aguerri de l'union des Stalkers.
+- Apprenti vedette de Lea Florence (la Stalker Legendaire) ; entraine a l'epee dans l'enfance, devenu redoutable au sein de l'union.
 
 ### Forme King of Puppets (boss)
 

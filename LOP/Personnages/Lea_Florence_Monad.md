@@ -1,6 +1,7 @@
 # Lea Florence Monad
 
-- version : W5
+- version : W6
+- Note de revision W6 : couche masque + physique [DIVERGENCE RP - convention des Stalkers, decision worldbuilder]. Masque precise : heaume dore a haute plume grise, visiere a grille, gravures en spirales ("allure de gladiateur" requalifiee en lecture du DESIGN, pas un titre - son moniker reste "la Stalker Legendaire") ; aucune couleur d'identite. Physique ajoute (auburn, yeux verts, traits fins, peau pale) + embleme rose Monad. PETRIFICATION RECADREE (decision worldbuilder) : pas seulement le bras gauche mais le FLANC GAUCHE - bras gauche severe (cache) + une marque de pierre visible SOUS L'OEIL GAUCHE. Le reste (lente, non terminale, justification du Legion Arm) inchange. cf. Factions/Les_Stalkers.md.
 - Note de revision W5 : couche Overture (Ere 3, 1850). Triple deuil (domaine Monad massacre / Sophia crue morte ; Veronique abattue de sa main ; Romeo mutile mourant). Reconnaissance de P par le COMBAT (remplace le locket, retire). Rose Sword remise a P EN MAINS PROPRES (divergence chaleureuse, meme resultat canon). Roles vis-a-vis de Veronique (abattue) et Lumacchio (acheve). Nettoyage du locket (l.69 : photo du trio retiree). Trajectoire Overture affinee, non dupliquee.
 - Note de revision W4 : couche soin (decision worldbuilder). Lea est trop fiere pour parler de sa maladie ; elle l'encaisse en silence (comme Markiona et Veronique - motif des trois fieres, laisse implicite). Son binome soignant est Romeo : en plus des anti-douleurs fournis par Alidoro (canon), Romeo assure son soin au quotidien - miroir exact de Magnus aupres de Markiona. cf. Personnages/Romeo.md.
 - Note de revision W3 : couche Ere 2 (Les Loups, 1848-1850). Nouvelle section Physique et sante : Petrification localisee au bras GAUCHE (severe, manches longues + gants, anti-douleurs) - non terminale (c'est le Nameless qui la tue, pas la maladie) ; [DIVERGENCE RP] ce bras gauche inutilisable justifie que la peau prelevee pour la couche-chair de P n'ait pas de bras gauche -> P recoit le Legion Arm a gauche (cf. Personnages/Pinocchio.md). Role Ere 2 : figure unificatrice de l'union des Stalkers (masque a l'allure de gladiateur), rencontre du duo, scene du reveal (reconnaissance de Markiona, rage, Magnus s'interpose), reconciliation. Relation Markiona remplie (hook W2 resolu).
@@ -15,9 +16,10 @@
 - Possede la Rose Sword, epee offerte par Valentinus.
 
 ## Physique et sante
-- [DIVERGENCE RP] Masque de Stalker : allure de gladiateur (lecture RP du design in-game). Comme tous les Stalkers de l'union, elle est masquee (cf. Factions/Les_Stalkers.md, convention).
-- Petrification Disease : LOCALISEE au bras GAUCHE, severe - d'ou manches longues et gants en permanence pour la dissimuler. Sous anti-douleurs (fournis par le Tracker, canon). Progression LENTE ; la maladie n'est PAS terminale chez elle (c'est le Nameless Puppet qui la tue, pas la pierre - cf. Sort connu).
-- [DIVERGENCE RP] Trop fiere pour en parler : elle l'encaisse en silence (comme Markiona et Veronique - les trois fieres de l'orbite stalker ; motif laisse IMPLICITE en prose). Son cercle de soin est restreint : Alidoro fournit la chimie (anti-douleurs), et Romeo - son second - assure le soin au quotidien. Binome soignant en miroir exact de Magnus aupres de Markiona. cf. Personnages/Romeo.md.
+- [DIVERGENCE RP] Masque de Stalker : heaume dore a haute plume grise, visiere a grille, gravures en spirales (triskeles) - allure romaine / gladiateur (lecture du DESIGN, PAS un titre : son moniker reste "la Stalker Legendaire", sans animal ni couleur). Comme tous les Stalkers de l'union, elle est masquee (cf. Factions/Les_Stalkers.md, convention).
+- [DIVERGENCE RP] Apparence : cheveux auburn, raie au milieu ; yeux verts ; traits fins ; peau pale. Porte sur la poitrine une rose rouge a "M" dore - embleme de la maison Monad (a rapprocher de la Rose Sword, de la Rose Estate et de ses calling cards en petales ; distinct de la Broche Monad bleue de Romeo). [INCERTAIN - classement exact de l'objet (sceau perso / variante de broche) non encore tranche, a ficher eventuellement dans Objets_et_Reliques.]
+- Petrification Disease : concentree sur le FLANC GAUCHE. Le bras GAUCHE est severement petrifie - d'ou manches longues et gants en permanence pour le dissimuler ; s'y ajoute une MARQUE de pierre visible sous l'OEIL GAUCHE (le seul foyer qu'elle ne peut pas cacher). Sous anti-douleurs (fournis par le Tracker, canon). Progression LENTE ; la maladie n'est PAS terminale chez elle (c'est le Nameless Puppet qui la tue, pas la pierre - cf. Sort connu).
+- [DIVERGENCE RP] Trop fiere pour en parler : elle l'encaisse en silence (comme Markiona et Veronique - les trois fieres de l'orbite stalker ; motif laisse IMPLICITE en prose). La fierte porte sur le SILENCE, pas sur la dissimulation totale : le bras, elle le cache ; la marque sous l'oeil, elle la porte sans un mot, sans jamais quemander de pitie. Son cercle de soin est restreint : Alidoro fournit la chimie (anti-douleurs), et Romeo - son second - assure le soin au quotidien. Binome soignant en miroir exact de Magnus aupres de Markiona. cf. Personnages/Romeo.md.
 - [DIVERGENCE RP] Justification du Legion Arm de P : quand Geppetto preleve la peau de Lea comme matiere premiere de la couche-chair de Pinocchio, le bras gauche petrifie est inutilisable -> P n'a pas de chair au bras gauche et recoit le Legion Arm mecanique a cet endroit. C'est ce qui cale le canon (Legion Arm = bras gauche). cf. Personnages/Pinocchio.md, Personnages/Giuseppe_Geppetto.md.
 
 ## Role
@@ -53,7 +55,7 @@
 
 ## Capacites
 - Stalker elite : combat melee a l'epee, niveau hors-normes (peut tuer Geppetto facilement meme malade, selon le narrateur).
-- Rose Sword : epee signature offerte par Valentinus ; arme de combat principal.
+- Rose Sword : epee signature offerte par Valentinus ; arme de combat principal. [DIVERGENCE RP] Forme : epee COURBE (sabre), garde doree filigranee, fusee et garde rouges. Remise a P en mains propres a la fin d'Overture (cf. Role / DLC). cf. Objets/Objets_et_Reliques.md.
 - Expertise en assassination/tracking (calling cards, petales).
 - Maitrise du travail de terrain (camps, trackers, zones dangereuses).
 - Enseignante (Romeo son apprenti vedette).

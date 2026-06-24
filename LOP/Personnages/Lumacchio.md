@@ -1,12 +1,19 @@
 # Lumacchio
 
-- version : W2
+- version : W3
+- note W3 : couche masque [DIVERGENCE RP - convention des Stalkers]. Moniker l'Escargot Dore, couleur or ; nouvelle section Physique et allure ; arme ajoutee (parapluie-canne a lame). cf. Factions/Les_Stalkers.md (grille masques). Aucun changement de fond au role / a la fin.
 - note W2 : nom corrige en LUMACCHIO (orthographe canon, Lies of P Overture ; "Lumakio" etait une forme de travail erronee, longtemps retenue dans ce wiki). Couche Overture (Ere 3, 1850). [DIVERGENCE RP - continuite Magnus] Reorchestration de sa fin : battu par le groupe, il meurt suppliant et est ACHEVE par Lea (canon : vaincu par P, mort dans tous les cas - conserve comme anteriorite supplantee). Mutation par l'elixir alignee sur le terme canon CARCASSE.
 
 ## Identite
 - Nom : Lumacchio.
 - Nature : humain, chef des Bastards (faction stalker des nobles familles).
+- [DIVERGENCE RP] Masque de Stalker : l'ESCARGOT DORE - couleur d'identite OR. cf. Factions/Les_Stalkers.md (convention).
 - Coquilles transcript / formes erronees : "Lumakio" (forme de travail longtemps retenue a tort dans ce wiki), "Lumakia", "Lakio". Nom canon : Lumacchio.
+
+## Physique et allure [DIVERGENCE RP]
+- Masque : plaque doree plate sur le visage, surmontee d'un cimier en spirale d'escargot au front, prolonge d'une volute en corne. D'ou le moniker l'Escargot Dore.
+- Tenue : long manteau de brocart dore a boutons dores, col et parements en chale de laine creme. Broche turquoise au col (seul eclat froid de la silhouette). Gants et souliers blancs.
+- Lecture du moniker : le chef des Bastards drape dans son "honor or nothing", qui finira recroqueville dans sa coquille a boire l'elixir de Simon - le gasteropode lui colle a la carapace. (Ironie cote CODEX, pas en prose.)
 
 ## Role
 - Chef de la faction Bastards des stalkers ; cf. SB4 pour la doctrine des Bastards.
@@ -38,6 +45,7 @@
 
 ## Capacites
 - Chef de faction : autorite sur les Bastards.
+- Arme : [DIVERGENCE RP] un parapluie-canne dissimulant une lame (une fine lame sort de la pointe) - arme de duelliste deguisee en accessoire de gentilhomme, raccord avec son allure raffinee.
 - Combat (boss DLC) : capable de se transformer apres ingestion de l'elixir alchimique (mutation/abomination).
 - Sens tactique : a orchestrer le piegeage de Veronique et planifie l'elimination de Lea.
 

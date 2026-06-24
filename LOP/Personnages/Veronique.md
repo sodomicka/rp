@@ -1,6 +1,7 @@
 # Veronique
 
-- version : W4
+- version : W5
+- Note de revision W5 : couche masque [DIVERGENCE RP - convention des Stalkers]. Moniker le Mouton Bleu, couleur bleu (accent d'identite, pas dominante) ; allure ajoutee (masque a gaz + cornes de belier, armure DIY) ; marteau precise (genere des flammes, bricole). cf. Factions/Les_Stalkers.md. Aucun changement de fond.
 - Note de revision W4 : couche Overture (Ere 3, 1850). Le "remede" empoisonne attribue a LUMACCHIO (neurotoxine). [DIVERGENCE RP - continuite Magnus] Reorchestration de sa mort : devenue folle, elle est abattue par LEA (et non par P / le coolant - canon conserve comme anteriorite supplantee) ; mourante, elle revele la trahison de Lumacchio et remercie Lea. Rename Lumakio -> Lumacchio (orthographe canon, cf. Lies of P Overture). Trajectoire affinee, non dupliquee.
 - Note de revision W3 : couche maladie (decision worldbuilder, motif implicite des trois fieres de l'orbite stalker). Veronique porte DEJA une Petrification lente en 1848, cachee par fierte - "en pleine sante" devient "en apparente bonne sante". Clarification de sa fin : ce qui la tue VITE au DLC n'est pas cette maladie lente, mais le "remede" alchimiste = poison experimental qui la fait virer folle en peu de temps. Deux vecteurs distincts.
 - Note de revision W2 : ajout de l'arme canon (marteau) jusque-la non renseignee ; couche Ere 2 (1848, l'incident declencheur : elle pulverise un pantin policier devenu fou, ce qui donne a Magnus l'envie de rejoindre les Stalkers). Le socle canon (cheffe Sweepers, fin DLC) est inchange.
@@ -8,9 +9,11 @@
 ## Identite
 - Nom : Veronique.
 - Nature : humaine, cheffe des Sweepers (faction stalker des ruelles de Krat).
+- [DIVERGENCE RP] Masque de Stalker : le MOUTON BLEU - couleur d'identite BLEU. cf. Factions/Les_Stalkers.md (convention).
 - Coquilles transcript : "Veronic".
 
 ## Physique et sante
+- [DIVERGENCE RP] Allure : masque a gaz a grosses lunettes rondes, surmonte de CORNES DE BELIER (d'ou le moniker le Mouton Bleu - le belier qui charge en tete de la harde des laisses-pour-compte). Armure DIY lourde et depareillee, pur salvage : plastron de tole, epauliere a pointes d'un cote, avant-bras mismatch (l'un bande, l'autre en resille + mitaine). Le bleu est un ACCENT d'identite (tissu de l'avant-bras), pas une dominante : la silhouette est surtout terre, crasse et metal. Le ferrailleur fait roi des ruelles.
 - [DIVERGENCE RP] Petrification lente : Veronique porte une Petrification a progression lente des l'Ere 2 (1848), qu'elle DISSIMULE par fierte - comme Markiona et Lea, les trois fieres de l'orbite stalker encaissent leur pierre en silence (motif laisse IMPLICITE, jamais nomme en prose - decision worldbuilder). En 1848 elle parait donc en pleine sante, mais la maladie couve.
 - Deux vecteurs distincts : cette Petrification lente n'est PAS ce qui la tue. Au DLC (cf. Sort connu), les Alchimistes lui administrent un "remede" qui est en fait une NEUROTOXINE arrangee par Lumacchio : c'est elle qui la fait basculer dans la folie / mutation en TRES peu de temps. La maladie lente est la texture ; la neurotoxine rapide est la cause de mort.
 
@@ -36,7 +39,7 @@
 
 ## Capacites
 - Chef de faction : autorite sur les Sweepers.
-- Arme : un MARTEAU (canon) - frappe lourde, capable de pulveriser un pantin d'un seul coup (cf. Ere 2).
+- Arme : un MARTEAU (canon) - frappe lourde, capable de pulveriser un pantin d'un seul coup (cf. Ere 2). [DIVERGENCE RP] Piece bricolee a partir d'elements industriels, a deux extremites (tete a manometre/cadran visible, manche coude), capable de GENERER DES FLAMMES via son mecanisme improvise. Arme 100% recuperation, raccord avec son armure DIY.
 - Combat (boss DLC) : malgre l'infection, combat P dans la Zelator Facility.
 - Sabotage sacrificiel : coupe le coolant pour provoquer sa propre mort et celle de sa transformation.
 
