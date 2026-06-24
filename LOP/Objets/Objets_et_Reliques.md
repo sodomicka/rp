@@ -1,6 +1,7 @@
 # Objets et Reliques
 
-- version : W2
+- version : W3
+- note W3 : Broche Monad - precision de forme (insigne en forme de rose, "M" dore au coeur) ; resout #2 (l'embleme rose de Lea = la Broche Monad ROUGE, cf. Personnages/Lea_Florence_Monad.md).
 - note W2 : + bloc Broche Monad (insigne Monad code couleur, canon ; circulation Carlo/Romeo/Lea). - bloc Monad Locket (retire : son role de reconnaissance de Lea est supplante par le combat dans la continuite Magnus, cf. Roadmap_03_Overture etape 13 ; references a nettoyer dans Romeo.md et Lea.md au lot des trajectoires).
 
 > Fiche groupee. Un bloc par objet. Renvoie aux fiches systemes/personnages pour le lore detaille.
@@ -137,6 +138,7 @@
 
 ### Nature
 - Insigne de la maison Monad, frappe du sceau "M". Insigne a code couleur (chaque broche porte sa couleur).
+- Forme : insigne en forme de rose, le "M" dore en son coeur.
 - Signe d'appartenance et d'affection lie a la maison Monad.
 
 ### Description / Faits canon
