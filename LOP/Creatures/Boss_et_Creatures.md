@@ -1,10 +1,11 @@
 # Boss et Creatures
 
-- version : W2
+- version : W3
+- note W3 : retrait du bloc Mad Donkey (repositionne en ALLIE de Magnus [DIVERGENCE RP] ; vit desormais dans Personnages/PNJ_secondaires.md, sans pointeur ici).
 - note W2 : ajout du bloc Ange de l'Arc reforge (Overture / Ere 3, 1850 ; [DIVERGENCE RP]). Reforge de son epave laissee a Zelator en 1847, gardien du Krat Zoo pour le compte de l'Ordre, battu par Magnus en solo.
 
 > Fiche groupee. Chaque entite = un bloc independant.
-> Entites : Parade Master, Scrapped Watchman / Murphy, Fuoco, Mad Donkey, King of Puppets,
+> Entites : Parade Master, Scrapped Watchman / Murphy, Fuoco, King of Puppets,
 >            Walker of Illusions, Champion Victor, Green Monster of the Swamp,
 >            Anguished Guardian of the Ruins, Two-Faced Overseer, Tyrant Predator,
 >            Ange de l'Arc reforge ([DIVERGENCE RP]), Nameless Puppet, Door Guardian.
@@ -84,29 +85,6 @@
 
 ### Sort
 - Vaincu par P a la Venigni Works.
-
----
-
-## MAD DONKEY
-
-### Identite
-- Nom : Mad Donkey.
-- Nature : humain, stalker (faction Sweepers).
-
-### Role
-- Membre des Sweepers.
-- Parmi les stalkers qui ont chasse Geppetto a travers Krat, le croyant responsable de la Puppet Frenzy.
-- Sa poursuite de Geppetto empeche Geppetto d'acceder a P au Krat Central Station.
-- Quand P approche l'hotel : le Mad Donkey est la, furieux contre P car P protege Geppetto.
-- Boss de la sequence d'entree a l'hotel : combat P -> vaincu.
-  - Sa mort permet a P de sauver Geppetto.
-
-### Lien narratif
-- Incarne la reaction des survivants humains contre Geppetto.
-- Directement responsable (sans le vouloir) du fait que Sophia doit envoyer un papillon bleu pour activer P (Geppetto ne peut pas atteindre P).
-
-### Sort
-- Vaincu et tue par P devant l'hotel.
 
 ---
 
