@@ -1,6 +1,7 @@
 # Les Stalkers
 
-- version : W3
+- version : W4
+- Note de revision W4 : formalisation de la convention des masques [DIVERGENCE RP] - nouvelle sous-section "Masques et couleurs des Stalkers" (grille du roster verrouille : Magnus, Markiona, Lumacchio, Veronique, Romeo, Lea). Monikers neufs : Lumacchio = l'Escargot Dore (or), Veronique = le Mouton Bleu (bleu). Lea : "allure de gladiateur" requalifiee (design, pas titre) en "la Stalker Legendaire". Reste du roster (Red Fox, Black Cat, Lapins Noirs, fournee base-game) a assigner. Armes et physiques -> fiches perso. Aucun changement au socle canon.
 - Note de revision W3 : rename canon Lumakio -> Lumacchio (orthographe canon, Lies of P Overture ; "Lumakio" etait une coquille de travail). Propage a toutes les mentions + au cross-ref Personnages/Lumacchio.md. Aucun changement de fond.
 - Note de revision W2 : ajout de la structure pre-Frenzy [DIVERGENCE RP - Ere 2] (l'union des Stalkers sous Lea Florence, 1848-1850, avant la decimation) ; convention des masques ; entree des Loups (Magnus/Markiona) via les Sweepers ; pointeur Assemblee des Lapins Noirs -> Black_Rabbit_Brotherhood. Le socle canon (Bastards/Sweepers, Battle of the Workshop Tower, post-effondrement) est inchange.
 
@@ -13,13 +14,30 @@
 
 - Cadrage RP, 1848-1850, AVANT la Battle of the Workshop Tower qui disloque tout (cf. section dediee plus bas). A cette periode, les factions ne sont pas encore decimees : elles fonctionnent en coalition.
 - Figure unificatrice : Lea Florence Monad, la Stalker legendaire (cf. Personnages/Lea_Florence_Monad.md), assistee de Romeo (qui porte un masque de Roi - cf. Personnages/Romeo.md).
-- Convention : tous les Stalkers portent un masque. Lea = allure de gladiateur (lecture RP du design) ; Romeo = le Roi ; le duo OC Magnus/Markiona = le LOUP NOIR et la LOUVE BLANCHE (masques de cuir teinte et de fourrure noire/blanche, cousus par Markiona).
+- Convention : tous les Stalkers portent un masque (detail complet -> sous-section "Masques et couleurs des Stalkers" ci-dessous). Les masques des Loups sont en cuir teinte et fourrure noire/blanche, cousus par Markiona.
 - Trois factions internes, chacune sa methode, articulees pour aider le peuple avant 1851 :
   - SWEEPERS (ruelles, "we always repay what is owed", canon) : la voie cote peuple ; c'est par eux que le duo entre (l'heroisme de Veronique face a un pantin devenu fou donne a Magnus l'envie de rejoindre - cf. Personnages/Veronique.md).
   - BASTARDS (nobles, "honor or nothing", canon) : operent dans les quartiers riches, refusent d'aider les pauvres ; allies de fond aux Alchimistes (cf. Lumacchio). Source de friction interne au sein de l'union.
   - ASSEMBLEE DES LAPINS NOIRS [DIVERGENCE RP] : mercenaires masques (aide contre paiement), deja nombreux. On NEGOCIE avec eux ; ils ne sont pas aux ordres de Lea. Precurseur direct de la Confrerie des Lapins Noirs du base game (cf. Factions/Black_Rabbit_Brotherhood.md, section origine).
 - Activite de l'ere : aide au peuple, missions de liberation de quartiers sous influence alchimiste, et lutte contre les eveils d'Ego ISOLES devenus dangereux pour les humains (pas la Frenzy de masse, qui n'arrive qu'en 1851).
 - Note [DIVERGENCE RP] : les Stalkers ont une haine de fond des pantins (cf. Faits canon). Magnus, pantin a Ego revele en 1849, est accepte comme l'EXCEPTION - la preuve vivante qu'un Ego de pantin peut etre bon, l'inverse de ce qu'ils traquent. cf. Personnages/Magnus.md.
+
+### Masques et couleurs des Stalkers [DIVERGENCE RP]
+
+- Identite heraldique de l'union (Ere 2) etendue toutes epoques : chaque Stalker porte un masque, parfois double d'une couleur.
+- REGLE (au cas par cas, pas de grille rigide - le canon n'en pose aucune) : tantot animal + couleur, tantot code de faction, tantot couleur seule, tantot ni l'un ni l'autre. Les repetitions de couleur sont permises (le noir revient).
+- Routage : le masque et la couleur vivent ICI (identite de faction) ; l'arme et le physique vivent dans la fiche perso.
+
+| Stalker | Masque / moniker | Couleur | Renvoi arme + physique |
+|---|---|---|---|
+| Magnus | le Loup Noir (cuir teinte + fourrure noire, cousu par Markiona) | noir | cf. Personnages/Magnus.md |
+| Markiona | la Louve Blanche (cuir + fourrure blanche) | blanc | cf. Personnages/Markiona.md |
+| Lumacchio | l'Escargot Dore (masque dore plat, cimier escargot + volute en corne) | or | cf. Personnages/Lumacchio.md |
+| Veronique | le Mouton Bleu (masque a gaz + cornes de belier) | bleu | cf. Personnages/Veronique.md |
+| Romeo | le Roi (masque facial de fer, ouverture aux yeux, couronne de doigts de pantin) | aucune | cf. Personnages/Romeo.md |
+| Lea | la Stalker Legendaire (heaume dore a plume, visiere a grille ; allure romaine/gladiateur = design, pas titre) | aucune | cf. Personnages/Lea_Florence_Monad.md |
+
+- RESTE A ASSIGNER (toutes epoques) : Red Fox / Claudia (piste : la Renarde Rouge, rouge), Black Cat (piste : le Chat Noir, noir), l'Assemblee des Lapins Noirs (piste : masques de lapin, noir, collectif), et la fournee base-game (Mad Donkey, Owl Doctor, Patricia / White Lady, the Atoned). [INCERTAIN - non encore tranche par le worldbuilder.]
 
 ## Description / Histoire
 
