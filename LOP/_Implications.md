@@ -1,6 +1,6 @@
 # _Implications - LOP
 
-- version : I8
+- version : I9
 - nature : journal de coordination, DOCUMENT DE TRAVAIL. Jamais fetche en narration (cf. INSTRUCTION S4 / S7).
 - statut : Passe 2 en cours (boucle serree). Eres 1 (Genese & fuite) et 2 (Les Loups, 1848-1850) DETAILLEES et ROADMAPPEES. Prochaine etape : forer l'Ere 3 (Overture, 1850). Eres 4-5 a forer ensuite. Relecture croisee de cloture : APRES la derniere roadmap (Ere 5).
 
@@ -42,6 +42,13 @@
 - Zone vide Ere 1 | motif de la sortie du Zelator (etape 3 de Roadmap_01) non fixe ; non bloquant, en attente.
 - Zone vide Ere 2 | pourquoi Romeo va SEUL au Zoo : laisse a l'initiative tragique (sa derniere erreur) ; non bloquant.
 - Point de depart jouable | TRANCHE : l'eveil de Magnus (1847). (Le SETUP confirmera lieu/moment/situation initiale a la Passe 3.)
+
+## Peaufinage Stalkers - masques & couleurs (grave 2026-06-23)
+> Pause peaufinage de la Passe 2 : assignation masque + couleur a tout le roster Stalkers, puis gravure.
+- [FAIT] Fiches gravees : Les_Stalkers W5, Black_Rabbit_Brotherhood W3, Les_Hiboux W2 (ex-Adelina_et_Patricia, renommee : le cercle d'Adelina = la Dame Blanche + le Chouette Medecin), PNJ_secondaires W5, Boss_et_Creatures W3, Objets_et_Reliques W3, Lea_Florence_Monad W7, Sommaire W11.
+- [PENSE-BETE] Ane fou (Mad Donkey) : repositionne en ALLIE de Magnus [DIVERGENCE RP] (retire de Boss_et_Creatures, rapatrie dans PNJ_secondaires) ; son role en 1852 diverge du canon (ou il finit mini-boss tue par P) -> A CALER avec les roadmaps Eres 4-5 (non encore produites). Ne pas inventer ce role d'ici la. cf. Personnages/PNJ_secondaires.md (W5).
+- [PENSE-BETE] la Redemptee (ex-the Atoned) : faction SWEEPER posee en DEDUCTION (le canon ne l'affirme pas noir sur blanc) ; a confirmer ou corriger si une source contredit. cf. Personnages/PNJ_secondaires.md (W5).
+- [A FAIRE - SIGNALE] Ce journal traine un etat PRE-Ere 3 : les sections "- statut" (en tete) et "## Index - etat" (en bas) disent encore "Ere 3 = prochaine etape" et "Sommaire W9", alors que l'Ere 3 a ete roadmappee/cloturee cote fiches et que le Sommaire est a W11. Refresh de cloture du journal a planifier (hors de ce lot de gravure Stalkers).
 
 ## Index - etat
 - Sommaire W9, a jour : Roadmap_02 signalee (non indexee), Chronologie C4, _Implications I8, bumps Veronique W3 / Romeo W4 / Lea W4 / Arlecchino W2.
