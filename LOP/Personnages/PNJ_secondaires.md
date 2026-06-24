@@ -1,11 +1,12 @@
 # PNJ Secondaires
 
-- version : W4
+- version : W5
+- Note de revision W5 : + bloc Ane fou / Mad Donkey (Stalker Sweeper retire de Creatures/Boss_et_Creatures.md, repositionne en allie de Magnus [DIVERGENCE RP]). Enrichissement de la Redemptee (ex- "la Pleureuse") : masque, tenue, arme, faction Sweeper [DEDUCTION]. Renommage interne "the Atoned (la Pleureuse)" -> "la Redemptee (the Atoned)".
 - Note de revision W4 : rename canon Lumakio -> Lumacchio (orthographe canon, Lies of P Overture). Aucun changement de fond.
 
 > Fiche groupee. Chaque entite = un bloc independant.
-> Personnages : Belle, Julian + Melody, the Atoned, Klaus, Hugo, Godard, Colonel Little + Rex,
->               Luca, Subject 826, Columbo, Dorothy, Decart, Cassius.
+> Personnages : Belle, Julian + Melody, la Redemptee, Ane fou, Klaus, Hugo, Godard,
+>               Colonel Little + Rex, Luca, Subject 826, Columbo, Dorothy, Decart, Cassius.
 
 ---
 
@@ -44,21 +45,49 @@
 
 ---
 
-## THE ATONED (la Pleureuse)
+## LA REDEMPTEE (the Atoned)
 
 ### Identite
-- Nom/titre : the Atoned. Nature : humaine.
+- Nom/titre : la Redemptee ("the Atoned" ; "Redemptee" = neologisme assume comme nom propre stylise). Nature : humaine, Stalker.
+- Faction : Sweeper [DEDUCTION - non explicite dans le canon].
 - Lieu : cable car menant a la Cathedrale St Frangelico (Moonlight Town).
+
+### Masque, tenue et arme
+- Masque de CHIEN (matin, longues oreilles tombantes) ; aucune couleur d'identite (bas du roster recup). cf. Factions/Les_Stalkers.md (grille).
+- Manteau de cuir rapiece.
+- Arme : pioche hydraulique.
 
 ### Role
 - Gardienne du cable car vers la cathedrale.
 - Avertit P que la cathedrale n'est plus le sanctuaire qu'elle etait.
 - Choix de P : "nothing" (verite froide) -> elle combat P, P obtient la cle en la battant ; "yes" + salut des stalkers -> elle est intriguee, reconnait un stalker, laisse passer.
-- Arriere-plan : guidait des refugies vers la cathedrale ; apres leur mort (cathedrale surenvahie de Carcasses), culpabilite immense ; se renomme "the Atoned" pour expier.
-- Troisieme type de stalker rencontre par P (avec the White Lady et the Owl Doctor).
+- Arriere-plan : guidait des refugies vers la cathedrale ; apres leur mort (cathedrale surenvahie de Carcasses), culpabilite immense ; se renomme "la Redemptee" pour expier.
+- Troisieme type de Stalker rencontre par P (avec la Dame Blanche et le Chouette Medecin).
 
 ### Sort connu
 - Meurt en combattant P si P dit la verite. Sort dans les autres cas non specifie.
+
+---
+
+## ANE FOU (Mad Donkey)
+
+### Identite
+- Nom/titre : l'Ane fou ("Mad Donkey"). Nature : humain, Stalker (faction Sweepers).
+- Masque d'ane (longues oreilles) ; aucune couleur d'identite (bas du roster recup). cf. Factions/Les_Stalkers.md (grille).
+- Gueux en lambeaux (allure de Sweeper).
+- Arme : epee-scie improvisee.
+
+### Role (canon)
+- Membre des Sweepers, obsede par Geppetto : il le tient pour responsable de la Puppet Frenzy et le pourchasse a travers Krat.
+- Dans le base game, sa traque de Geppetto l'oppose a P (qui protege Geppetto) ; il y est un mini-boss vaincu et tue par P devant l'Hotel Krat.
+
+### [DIVERGENCE RP]
+- Repositionne en ALLIE de Magnus (Magnus etant lui-meme Stalker). De ce fait, retire de Creatures/Boss_et_Creatures.md (plus de pointeur) et rapatrie ici.
+- Son role en 1852 diverge du canon (ou il finit mini-boss tue par P). Role 1852 precis NON encore fixe : il se calera avec les roadmaps des Eres 4-5 (non encore produites). Ne pas inventer ce role ici.
+- cf. Personnages/Magnus.md, Personnages/Markiona.md, Factions/Les_Stalkers.md.
+
+### Sort connu
+- [DIVERGENCE RP] Indetermine : le sort canon (tue par P) ne s'applique plus dans la continuite Magnus. A fixer avec les Eres 4-5.
 
 ---
 
