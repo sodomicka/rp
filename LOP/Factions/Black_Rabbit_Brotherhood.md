@@ -1,6 +1,7 @@
 # Black Rabbit Brotherhood
 
-- version : W2
+- version : W3
+- Note de revision W3 : enrichissement [DIVERGENCE RP] de la section Origine (pause peaufinage masques+couleurs). Les quatre futurs freres sont les SOCIOPATHES du noyau de l'Assemblee (des pauvres orientes vers le mercenariat, ni Sweepers ni Bastards) ; masques deja improvises et heterogenes (le motif lapin commun, pas un masque uniforme) ; symbole tete-de-lapin cerclee NON barre en Ere 2 - la barre verticale qui ferme le cercle = ajout de la derive criminelle, marqueur visuel de la bascule ; bascule PSYCHOPATHE a la decimation de 1851 (de sociopathes encadres a predateurs desinhibes) ; nettoyage interne (d'autres survivants de l'Assemblee existaient ; les quatre s'assurent d'etre les seuls en les eliminant). Ajout : sous-section des quatre membres canon (surnoms, masques, armes). Renvoi croise Les_Stalkers W5. Socle canon inchange.
 - Note de revision W2 : ajout de la section ORIGINE [DIVERGENCE RP - Ere 2] : la Confrerie criminelle du base game descend de l'Assemblee des Lapins Noirs, faction mercenaire de l'union des Stalkers pre-Frenzy (1848-1850), essoree par la Battle of the Workshop Tower. Le socle canon (gang criminel post-effondrement, frere aine, liar's coffin, role base game) est inchange.
 
 ## Nature
@@ -12,10 +13,14 @@
 ## Origine : l'Assemblee des Lapins Noirs (Ere 2) [DIVERGENCE RP]
 
 - 1848-1850, AVANT l'effondrement : la fraternite existe sous le nom d'ASSEMBLEE DES LAPINS NOIRS - l'une des trois factions internes de l'union des Stalkers (cf. Factions/Les_Stalkers.md).
-- Profil : mercenaires masques (le masque de lapin est deja leur marque), deja nombreux. Ils aident CONTRE PAIEMENT - ni la charite des Sweepers, ni l'honneur des Bastards : la transaction. On NEGOCIE avec eux, ils ne sont pas aux ordres de Lea Florence.
+- Profil : mercenaires masques, deja nombreux. Ils aident CONTRE PAIEMENT - ni la charite des Sweepers, ni l'honneur des Bastards : la transaction. On NEGOCIE avec eux, ils ne sont pas aux ordres de Lea Florence.
+- [DIVERGENCE RP] Recrutement : des pauvres de Krat qui, devant le choix de voie, n'ont rejoint NI les Sweepers (la charite) NI les Bastards (l'honneur), mais l'Assemblee - parce qu'orientes vers le mercenariat, la transaction sans drapeau. Raccord avec la [THEORIE narrateur] d'une racine au Monad Charity House (la voie stalker des enfants pauvres) : l'Assemblee est ce vivier, organise en faction mercenaire.
+- Masques : le motif du lapin est DEJA leur marque, mais sous forme de masques IMPROVISES et HETEROGENES - chacun bricole le sien en recup, dans la veine des quatre survivants (masque a gaz, demi-masque, seau renverse a oreilles, masque de lapin a faux nez). Pas d'uniforme : le lapin et le noir sont le denominateur commun, l'improvisation est la regle. Le denuement comme esthetique (cf. motif transversal, Les_Stalkers).
+- Symbole : une tete de lapin que cernent un trait vertical descendant et un croissant montant, fermant presque un cercle autour des oreilles. En Ere 2, le symbole est NON BARRE : la tete et l'arc qui ebauche le cercle, sans le trait vertical. La barre verticale qui "ferme" le cercle est un ajout de la derive criminelle - le symbole se complete quand l'ethos se corrompt. Leurs cles (base game) reprendront le symbole acheve.
 - Le duo Magnus/Markiona (les Loups) traite avec l'Assemblee au fil des missions de l'ere.
-- Raccord avec la theorie canon : cette origine donne corps a la [THEORIE narrateur] d'une racine au Monad Charity House (la voie stalker des enfants pauvres) - l'Assemblee serait ce vivier, organise en faction mercenaire.
-- Bascule en 1851 : la Battle of the Workshop Tower decime les Stalkers (cf. Les_Stalkers). L'Assemblee est essoree ; il n'en reste que les survivants du canon, qui, sans role legitime, derivent vers le crime et deviennent la CONFRERIE DES LAPINS NOIRS decrite ci-dessous. Continuite du nom et du motif (lapin), rupture de l'ethos (mercenaire encadre -> criminel).
+- [DIVERGENCE RP] Le noyau sociopathe : les quatre qui deviendront la Confrerie sont, des l'Assemblee, le noyau SOCIOPATHE du groupe - calculateurs, sans empathie reelle, mais fonctionnels et utiles tant que le cadre mercenaire les encadre. Entre eux, le lien est authentique (cf. Faits canon, base game) ; vers l'exterieur, la mort n'est qu'un outil.
+- Bascule en 1851 : la Battle of the Workshop Tower decime les Stalkers (cf. Les_Stalkers). Prives de cadre et de role legitime, les quatre passent de sociopathes encadres a PREDATEURS desinhibes - la couche criminelle qui definit la Confrerie. Continuite du nom et du motif (lapin), rupture de l'ethos (mercenaire encadre -> criminel).
+- [DIVERGENCE RP] Nettoyage interne : l'Assemblee comptait d'AUTRES survivants de la bataille. Ce ne sont pas eux que l'attrition laisse seuls - ce sont les quatre qui s'ASSURENT d'etre les seuls, en eliminant les autres rescapes. C'est ce nettoyage maison (autant que la bataille) qui explique qu'il "n'en reste que les survivants du canon".
 
 ## Description / Histoire
 
@@ -23,22 +28,28 @@
 - Apres la Battle of the Workshop Tower : certains stalkers survivants, ne trouvant plus de role legitime, se tournent vers le crime et l'extorsion. Le Black Rabbit Brotherhood = une de ces formations criminelles.
 - S'installe dans le Malum District apres la chute de la tour.
 - Activites : vol de corps (pour en extraire l'Ergo au benefice des Alchimistes), extorsion, services de "protection" contre les Carcasses et les pantins frenetics pour les humains survivants -- jusqu'a ce que les gens ne puissent plus payer.
-- Employes par les Alchimistes pour voler des corps -> d'ou leurs crimes les plus documentes.
-- Quiconque est capture sur leur territoire ou interfere avec leurs affaires est enferme dans ce qu'ils appellent le "liar's coffin".
+- Employes par les Alchimistes pour voler des corps -> d'ou leurs crimes les plus documentes. Ils leur vendent aussi du Gold Coin Fruit recolte au Gold Coin Tree de l'Hotel Krat, en tachant de ne pas se faire remarquer des occupants.
+- Quiconque est capture sur leur territoire ou interfere avec leurs affaires est enferme dans ce qu'ils appellent le "liar's coffin" (cercueil des menteurs).
 - Le Black Rabbit Brotherhood vole aussi le portrait de Carlo a Geppetto (portrait retrouve par P a l'hotel de ville).
 
 ### Composition
 
-- Plusieurs "freres" (sibling members) + un "frere aine" (older brother) qui est de loin le plus dangereux.
-- Dans le Malum District, P combat et defait les membres du groupe. Seul le frere aine compte vraiment ; une fois vaincu, les autres membres s'en vont, devastes, mais declarent vouloir se venger.
+- Quatre membres qui se considerent comme freres et soeur ; le lien fraternel est sincere et fort malgre les crimes, meme s'ils se disputent et se battent souvent. La Cadette est une femme, les trois autres des hommes. La plus grande part de leur passe (y compris s'ils sont vraiment parents par le sang) est inconnue.
+- [DIVERGENCE RP] Ce sont les quatre du noyau sociopathe de l'Assemblee (cf. Origine), devenus psychopathes a la chute.
+- Les quatre membres (surnoms canon ; masque + arme) :
+  - l'Aine (the Eldest) : le plus grand de loin, muet. Casque a masque a gaz coiffe d'oreilles de lapin, corde lache nouee au cou en facon de pendaison. Tres grande greatsword. Tient en secret un journal. Ressuscite par les Alchimistes pour le second affrontement (bete sans esprit).
+  - le Maniaque de combat (Battle Maniac) : masque de lapin a faux nez et bouche dessines, echarpe rouge ornee d'une main de pantin tranchee a l'epaule gauche. Sabre tenu de la main droite + une corde au cote gauche dont il se sert pour attirer sa cible. Malgre son nom, le plus reflechi du lot.
+  - la Cadette (the Youngest) : la plus petite, seule a montrer un peu de peau (le masque ne couvre que le haut du visage), oreilles de lapin + petit haut-de-forme penche, capuche. Paire d'epees courtes tenues pommeau en haut, lame en bas.
+  - l'Excentrique (the Eccentric) : le plus eloigne du theme lapin. Coiffe d'un seau renverse perce de lunettes, un sourire de dessin anime trace dessous, deux courtes lanieres de chaque cote en guise d'oreilles. Lance ailee. Le createur du groupe : il designe et modifie sans cesse leur materiel, leurs armes et leurs masques.
+- Un "frere aine" (older brother) de loin le plus dangereux. Dans le Malum District, P combat et defait les membres ; seul le frere aine compte vraiment ; une fois vaincu, les autres s'en vont, devastes, mais declarent vouloir se venger.
 - Second affrontement dans la Relic of Trismegistus : les Alchimistes ont ressuscite le frere aine, desormais encore plus puissant. P les defait definitivement.
 
 ### Role dans le base game
 
 - Gemini (la conscience de P) previent P des le debut du jeu de leur existence.
 - Premiere rencontre : Malum District. Second affrontement : Relic of Trismegistus (frere aine ressuscite par les Alchimistes).
-- Kidnappent Geppetto sur ordre de Simon Manus (Hotel Krat envahi, signe de leur presente dans la ville). Sophia, en percevant les Ergo wavelengths, sent que derriere les Black Rabbit Brotherhood c'est en realite Simon qui tire les ficelles.
-- Allies aux Alchimistes, Red Fox et Black Cat.
+- Kidnappent Geppetto sur ordre de Simon Manus (Hotel Krat envahi, signe de leur presence dans la ville) ; Geppetto une fois enleve est laisse a la garde de Red Fox. Sophia, en percevant les Ergo wavelengths, sent que derriere les Black Rabbit Brotherhood c'est en realite Simon qui tire les ficelles.
+- Allies aux Alchimistes, Red Fox et Black Cat (l'assaut de l'Hotel Krat est mene avec eux ; cf. Factions/Les_Stalkers.md, sous-section Le duo Renard et Chat).
 
 ## Faits canon
 
@@ -46,12 +57,15 @@
 - Etablis au Malum District apres la Battle of the Workshop Tower.
 - Le frere aine ressuscite par les Alchimistes = deuxieme phase narrative, plus puissant qu'avant.
 - Lien direct avec Alchimistes : employes pour les besoins en Ergo (corps voles).
+- Grandi dans la rue, ils voyaient la mort comme un divertissement. Leur lien mutuel reste sincere malgre tout.
+- Parallele a Collodi : les quatre echos des quatre lapins croque-morts noirs venus emmener Pinocchio dans un cercueil vers l'au-dela (le "liar's coffin" du jeu). Comme dans le roman, ils restent sans nom propre, seulement des surnoms.
 - [THEORIE narrateur] : origine au Monad Charity House (enfants qui ont choisi la voie stalker et derive vers le crime).
 
 ## Liens
 
 - Les Alchimistes : employeurs (Ergo extraction) (cf. Factions/Les_Alchimistes.md).
-- Les Stalkers : origine commune ; l'Assemblee des Lapins Noirs etait une faction de leur union pre-Frenzy (cf. Factions/Les_Stalkers.md).
+- Les Stalkers : origine commune ; l'Assemblee des Lapins Noirs etait une faction de leur union pre-Frenzy ; masque + couleur du collectif dans la grille (cf. Factions/Les_Stalkers.md).
+- Red Fox / la Renarde Rousse et Black Cat / le Chat Noir : allies dans l'assaut de l'Hotel Krat (cf. Factions/Les_Stalkers.md, sous-section Le duo Renard et Chat).
 - Simon Manus : commandite le kidnapping de Geppetto via eux (cf. Personnages/Simon_Manus.md).
 - Monad Charity House / Geppetto : contexte de leur origine presupposee.
 - Magnus / Markiona [DIVERGENCE RP - Ere 2] : le duo negocie avec l'Assemblee au fil des missions (cf. Personnages/Magnus.md).

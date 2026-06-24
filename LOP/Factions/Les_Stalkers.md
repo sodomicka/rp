@@ -1,6 +1,7 @@
 # Les Stalkers
 
-- version : W4
+- version : W5
+- Note de revision W5 : cloture de la pause peaufinage masques+couleurs - assignation du bas du roster (toutes epoques). Grille completee : Red Fox / la Renarde Rousse (roux), Black Cat / le Chat Noir (noir), Assemblee des Lapins Noirs (noir, masques improvises + symbole non barre), Patricia / la Dame Blanche (blanc, hibou a aigrettes), Owl Doctor / la Chouette Medecin (aucune, chouette effraie), Mad Donkey / l'Ane fou (aucune), the Atoned / la Redemptee (aucune, chien). Ajouts : sous-section physique+armes du duo Renard et Chat (pas de fiche perso dediee) ; motif transversal du denuement-recup [DIVERGENCE RP] ; francisation des monikers (Dame Blanche, Chouette Medecin, Ane fou, Redemptee) ; rename interne la Pleureuse -> la Redemptee. Arme+physique des autres tetes -> fiches perso (a graver : Les_Hiboux ex-Adelina_et_Patricia avec +Dame Blanche et +Chouette Medecin, PNJ_secondaires avec +Ane fou et +Redemptee, Black_Rabbit_Brotherhood). Aucun changement au socle canon.
 - Note de revision W4 : formalisation de la convention des masques [DIVERGENCE RP] - nouvelle sous-section "Masques et couleurs des Stalkers" (grille du roster verrouille : Magnus, Markiona, Lumacchio, Veronique, Romeo, Lea). Monikers neufs : Lumacchio = l'Escargot Dore (or), Veronique = le Mouton Bleu (bleu). Lea : "allure de gladiateur" requalifiee (design, pas titre) en "la Stalker Legendaire". Reste du roster (Red Fox, Black Cat, Lapins Noirs, fournee base-game) a assigner. Armes et physiques -> fiches perso. Aucun changement au socle canon.
 - Note de revision W3 : rename canon Lumakio -> Lumacchio (orthographe canon, Lies of P Overture ; "Lumakio" etait une coquille de travail). Propage a toutes les mentions + au cross-ref Personnages/Lumacchio.md. Aucun changement de fond.
 - Note de revision W2 : ajout de la structure pre-Frenzy [DIVERGENCE RP - Ere 2] (l'union des Stalkers sous Lea Florence, 1848-1850, avant la decimation) ; convention des masques ; entree des Loups (Magnus/Markiona) via les Sweepers ; pointeur Assemblee des Lapins Noirs -> Black_Rabbit_Brotherhood. Le socle canon (Bastards/Sweepers, Battle of the Workshop Tower, post-effondrement) est inchange.
@@ -26,7 +27,7 @@
 
 - Identite heraldique de l'union (Ere 2) etendue toutes epoques : chaque Stalker porte un masque, parfois double d'une couleur.
 - REGLE (au cas par cas, pas de grille rigide - le canon n'en pose aucune) : tantot animal + couleur, tantot code de faction, tantot couleur seule, tantot ni l'un ni l'autre. Les repetitions de couleur sont permises (le noir revient).
-- Routage : le masque et la couleur vivent ICI (identite de faction) ; l'arme et le physique vivent dans la fiche perso.
+- Routage : le masque et la couleur vivent ICI (identite de faction) ; l'arme et le physique vivent dans la fiche perso (ou, faute de fiche dediee, dans la sous-section voulue de cette page).
 
 | Stalker | Masque / moniker | Couleur | Renvoi arme + physique |
 |---|---|---|---|
@@ -36,8 +37,17 @@
 | Veronique | le Mouton Bleu (masque a gaz + cornes de belier) | bleu | cf. Personnages/Veronique.md |
 | Romeo | le Roi (masque facial de fer, ouverture aux yeux, couronne de doigts de pantin) | aucune | cf. Personnages/Romeo.md |
 | Lea | la Stalker Legendaire (heaume dore a plume, visiere a grille ; allure romaine/gladiateur = design, pas titre) | aucune | cf. Personnages/Lea_Florence_Monad.md |
+| Red Fox / Claudia | la Renarde Rousse (masque de renard en cuivre, volutes dorees au front, museau allonge, oreilles dressees) | roux-orange | cf. sous-section "Le duo Renard et Chat" ci-dessous |
+| Black Cat | le Chat Noir (demi-masque de chat, moitie metal de recup cuivre verdi, rivete et grossierement cousu) | noir | cf. sous-section "Le duo Renard et Chat" ci-dessous |
+| Assemblee des Lapins Noirs | masques de lapin improvises et heterogenes (recup, dans la veine des quatre survivants) ; symbole tete-de-lapin cerclee, NON barre en Ere 2 | noir | collectif, cf. Factions/Black_Rabbit_Brotherhood.md |
+| Patricia / la Dame Blanche | masque de hibou pale a aigrettes (les "cornes" dressees) | blanc | cf. Personnages/Les_Hiboux.md |
+| Owl Doctor / la Chouette Medecin | masque de chouette effraie (face blanche en coeur, SANS aigrettes) | aucune | cf. Personnages/Les_Hiboux.md |
+| Mad Donkey / l'Ane fou | masque d'ane (longues oreilles dressees, museau allonge) | aucune | cf. Personnages/PNJ_secondaires.md |
+| the Atoned / la Redemptee | masque de chien (matin/molosse, oreilles tombantes, facies plisse) | aucune | cf. Personnages/PNJ_secondaires.md |
 
-- RESTE A ASSIGNER (toutes epoques) : Red Fox / Claudia (piste : la Renarde Rouge, rouge), Black Cat (piste : le Chat Noir, noir), l'Assemblee des Lapins Noirs (piste : masques de lapin, noir, collectif), et la fournee base-game (Mad Donkey, Owl Doctor, Patricia / White Lady, the Atoned). [INCERTAIN - non encore tranche par le worldbuilder.]
+- Roster entierement assigne (toutes epoques). Plus de tete en attente.
+- Distinction ornithologique a NE PAS confondre, malgre le lien Adelina : la Dame Blanche = HIBOU (aigrettes dressees), la Chouette Medecin = CHOUETTE effraie (face en coeur, sans aigrettes). L'aigrette tranche.
+- [DIVERGENCE RP] Motif transversal du denuement-recup : le peuple de Krat s'arme de ses propres outils et de ses ruines. Echos - la City Longspear du Chat (lame d'une cloture brisee, manche d'un poteau de signalisation ; "arme du peuple", canon, l'artiste Bastian la disait representer la ville), l'epee-scie de l'Ane fou, la pioche hydraulique de la Redemptee, les masques bricoles des Lapins Noirs. L'indigence comme esthetique de faction.
 
 ## Description / Histoire
 
@@ -45,7 +55,7 @@
 - Les Sweepers installaient les Stargazers dans la ville (mission donnee par les autorites de Krat).
 - La Battle of the Workshop Tower decimera les deux factions (cf. section dedie ci-dessous).
 - Apres la decimation : survivants devenus fous ou criminels (Black Rabbit Brotherhood = protection/extorsion), ou allies aux Alchimistes (Black Rabbit Brotherhood, Red Fox, Black Cat).
-- Le Mad Donkey = sweeper qui poursuit Geppetto a travers Krat, convaincu qu'il est responsable de la Puppet Frenzy.
+- Le Mad Donkey / l'Ane fou = sweeper qui poursuit Geppetto a travers Krat, convaincu qu'il est responsable de la Puppet Frenzy.
 
 ### Les Bastards
 
@@ -63,6 +73,14 @@
 - Gardent les old families de Krat. Sentiment d'avoir ete laisses derriere apres la croissance de Krat et sa dependance a l'automation, et par la domination des Alchimistes sur la ville.
 - Veronique et son vanguard sont tendus dans un piege par les Alchimistes (DLC) : conduits aux Zelator Facility, infectes par la Petrification Disease. Veronique transformee en boss ; ses derniers mots = des excuses. Meurt en coupant le coolant (air glacial).
 - La V family (famille noble proche des Sweepers) a aide a eliminer les ouvriers de construction travaillant dans la Relic of Trismegistus, une fois connu la valeur de la mine.
+
+### Le duo Renard et Chat (Red Fox et Black Cat) [physique et armes]
+
+- Pas de fiche perso dediee : leur physique et leurs armes vivent ICI (le masque + la couleur sont dans la grille ci-dessus).
+- References au Renard et au Chat de Collodi : duo d'arnaqueurs inseparables. Allies des Alchimistes apres la decimation. Participent a l'assaut de l'Hotel Krat (cf. Factions/Black_Rabbit_Brotherhood.md) ; Geppetto, une fois enleve, est laisse a la garde de Red Fox.
+- Red Fox / la Renarde Rousse : rousse, cheveux auburn releves. Redingote orange a double boutonnage dore et queue-de-pie, jabot blanc a volants, gilet sombre a motifs, culotte blanche, bottes cavalieres noires, gants noirs. Allure aristocratique et equestre. Arme : rapiere raffinee (duelliste).
+- Black Cat / le Chat Noir : l'exact negatif de la Renarde, silhouette de gueux. Filet de cordes noue sur le torse et les epaules, manteau noir en lambeaux effiloches, bandages aux avant-bras, gants noirs, sacoche de cuir et sangles a la taille. Maintenu sous dependance par le Gold Coin Fruit que les Alchimistes lui rationnent (cf. Objets/Objets_et_Reliques.md). Arme : City Longspear - lance de fortune, lame forgee d'une cloture brisee, manche taille dans un poteau de signalisation dont les marques de lieu se sont effacees.
+- Marque commune du duo : grelots dores a cordon rouge (lui a la taille, elle au revers) - signe d'appartenance au binome.
 
 ### Old Families
 
@@ -90,10 +108,10 @@
 
 ## Faits canon
 
-- The Atoned (la Pleureuse, cable car) connait le "salut des stalkers" ; quand P le donne, elle dit qu'elle pensait que tous les stalkers etaient morts a la Battle of the Workshop Tower.
+- The Atoned / la Redemptee (cable car) connait le "salut des stalkers" ; quand P le donne, elle dit qu'elle pensait que tous les stalkers etaient morts a la Battle of the Workshop Tower.
 - Les stalkers ont une "haine profonde des pantins" selon le narrateur, rage dirigee sur P.
-- Patricia (the White Lady) = stalker, soeur d'Adelina Corde. Veut venger sa soeur.
-- Owl Doctor = amant d'Adelina, boss au Barren Swamp, implique de facto dans la sousculture stalker.
+- Patricia (the White Lady / la Dame Blanche) = stalker, soeur d'Adelina Corde. Veut venger sa soeur.
+- Owl Doctor / la Chouette Medecin = amant d'Adelina, boss au Barren Swamp, implique de facto dans la sousculture stalker.
 - Alidoro (vrai) = ex-alchimiste desillusionne qui rejoint les Sweepers et devient stalker-chasseur. Decouvre les crimes des Alchimistes. Transmet l'info au reporter Madoro -> Madoro suspendu, article banni, Alidoro en fuite. Surveille Eugenie (sa soeur) de loin depuis le "country of the morning".
 - Parrot = partenaire d'Alidoro qui le tue dans une dispute (apres avoir vendu des objets), vole son identite. Le "faux Alidoro" du base game.
 - Madoro (reporter/medecin) a pour amis Lumacchio, Sophia, Venigni, et Alidoro. Journal de Madoro : contamination, manque d'eau. Memo final (timeline affectee) : seul regret = son ami Lumacchio et sa trahison.
@@ -106,7 +124,10 @@
 - Stargazers : installation par les Sweepers (cf. Systemes/Stargazers.md).
 - Alidoro et Parrot (cf. Personnages/Alidoro_et_Parrot.md).
 - Lumacchio, Veronique (cf. Personnages/Lumacchio.md, Veronique.md).
-- Red Fox, Black Cat (cf. Personnages/PNJ_secondaires.md ou fiches dediees).
+- Red Fox, Black Cat : physique et armes ci-dessus (sous-section dediee) ; pas de fiche perso separee.
+- Patricia / la Dame Blanche, Owl Doctor / la Chouette Medecin (cf. Personnages/Les_Hiboux.md).
+- Mad Donkey / l'Ane fou (cf. Personnages/PNJ_secondaires.md).
+- the Atoned / la Redemptee (cf. Personnages/PNJ_secondaires.md).
 - Lea Florence Monad : Legendary Stalker, adoptee par la famille Monad ; [DIVERGENCE RP] figure unificatrice de l'union pre-Frenzy (Ere 2) (cf. Personnages/Lea_Florence_Monad.md).
 - Magnus / Markiona [DIVERGENCE RP] : les Loups (Loup Noir / Louve Blanche), OC du RP ; rejoignent l'union via les Sweepers en 1848 (cf. Personnages/Magnus.md, Markiona.md).
 
@@ -115,7 +136,7 @@
 - Factions stalkers pratiquement annihilees apres la Battle of the Workshop Tower.
 - Lumacchio mort (DLC, quelle que soit la decision de P).
 - Veronique morte (DLC, infectee et transformee en boss).
-- Mad Donkey vaincu par P (debut du base game).
+- Mad Donkey / l'Ane fou vaincu par P (debut du base game).
 - Red Fox et Black Cat : sort incertain selon les choix de P.
 - Alidoro (vrai) : tue par Parrot avant les evenements du jeu.
 - Parrot (faux Alidoro) : tue ou epargne par P (choix du joueur) dans la Relic of Trismegistus.
