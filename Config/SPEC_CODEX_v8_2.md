@@ -3,13 +3,14 @@
 <!-- rev. v8.0 (changements majeurs et exhaustifs) : section Capacites dediee S3a (anti-boucle) ; S3a/S3b invariants/courant + description physique + resume de backstory ; regle de promotion ; test de saillance ; decouplage des versions (pointeur souple) ; frontiere univers/partie (instance jouee -> CODEX+Parties ; entite -> BIBLE/WIKI si lore). Le 7.x etait un stress-test ; le 8.0 acte ces invariants. -->
 <!-- rev. v8.1 : ASCII total (S-notation, fin de l'exemption signe-section/cadratin) ; metadonnee taille au build (le signal d'archivage devient une lecture, plus une estimation) ; livrable 3 renomme Memoire_{Univers}_<n> (destine au joueur, hors repo, hors budget, aucun cf.) ; index Refroidi PERMANENT dans ANNEXE_CHRONO (substitut du Sommaire pour Parties/ entre deux BIBLE BUILDs) ; audit 1 rescope aux sources en contexte ; arbitrage promotion vs unicite ; purge des interdits inertes (S6) ; CORE porte a 8 000 (S3a n'est plus un pointeur) ; retrait du vestige 'V2+ sous Instructions RP' ; collision T<n> resolue (Tour n en CHRONO). -->
 <!-- rev. v8.2 (chantier archi) : ANNEXE_CHRONO porte (1) l'ETAT D'ARC courant (jalon courant + prochain jalon) avec renvoi fiche_arc: cf. WIKI Fiches_Arc/<Prota>/<page>.md ; (2) le FIL DES ARCS - suite ordonnee des arcs traverses (memoire longue / anti-amnesie : en jeu on ne lit ni la grosse BIBLE ni les roadmaps, donc ce fil + Parties/Archives sont le substitut de memoire). La fiche d'arc est une mini-bible autosuffisante, document de jeu permanent (buildee au WIKI BUILD, fetchee une fois a l'ouverture, tronquee a la frontiere) : le CODEX y renvoie, il ne la regenere pas. Le renvoi roadmap: est marque (build) : source de creation des fiches, JAMAIS fetche en narration (futur de la saga -> risque de prefiguration). Aligne sur Instructions RP v8.2 (S4 : fiche d'arc a l'ouverture, plus de fetch roadmap en jeu, fetch live sur trou objectif seulement) et SPEC_BIBLE_LORE_WIKI v8.2 (gabarit Fiche d'arc avec arc precedent/suivant, Sommaire sans roadmaps, note ANTI-AMNESIE). PLAFOND porte a 45 000 car (11 000 stable / 34 000 cumulatif ; signal d'archivage a 80% = 36 000) : la BIBLE n'occupant plus le budget de projet en jeu, le CODEX recupere de la marge. Contrainte de cohabitation CODEX + BIBLE (<= 100 000) RETIREE : le CODEX V1 se build a la fin des instructions Wiki, BIBLE deja retiree, les deux ne coexistent jamais dans les fichiers de projet. -->
+<!-- rev. v8.2 (efficacite build, 2026-06-24 ; nom de spec inchange, revision en place) : revision orientee VITESSE et NOMBRE D'ALLERS-RETOURS de build, qualite du livrable inchangee. (a) PLAFOND 45 000 -> 80 000 car. Raison : le vrai mur est le seuil de bascule retrieval (RAG) a ~100 000 car, verifie empiriquement ; le CODEX est le SEUL fichier persistant en projet (la BIBLE est retiree en jeu, la fiche d'arc est FETCHEE a l'ouverture, hors budget projet) ; le plafond a 80 000 garde ~20 000 car de marge sous le seuil RAG et tue le rabotage-contre-le-mur. Cumulatif 34 000 -> 69 000 ; CORE (8 000) et stable (11 000) INCHANGES (lus a chaque tour : la marge gagnee va au cumulatif, conditionnel, pas a ce qu'on relit en boucle). (b) BUDGETS-CIBLES par section ajoutes (section 3) : on ecrit A LA CIBLE, pas ecrire-puis-couper. (c) ORDRE DE REDACTION par poids (sections lourdes d'abord, directement a la cible). (d) Regle ANTI-GRIGNOTAGE : depassement de cible -> une passe decisive, une seule re-mesure ; jamais de micro-coupes successives avec re-mesure a chaque fois. (e) SIGNAL D'ARCHIVAGE decouple du % de plafond (qui ne decrit plus le seuil RAG) -> deux declencheurs ABSOLUS (CHRONO > 15 000 ; total > 64 000). (f) Refroidi vide = UNE LIGNE dans la presentation, aucun fichier .md cree pour du vide (4ter). (g) FETCH conditionnel explicite : ne fetcher une page du repo que si une decision de build en depend. (h) Clarification : fiche d'arc FETCHEE a l'ouverture, hors budget projet (la formulation "occupent le budget de projet" induisait en erreur). Aucune regression sur ASCII strict, promotion S3a detaillee, anti-prefiguration, hierarchie de resolution, 3 livrables. -->
 
 Ce fichier definit la forme, les regles de construction et le gabarit du `CODEX_NARRATIF_vX.md`.
 Il sert de reference unique en mode CODEX BUILD.
 Le modele doit produire un CODEX factuel, compact, autosuffisant, sans narration.
 
 Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_CODEX_v8_2.md`.
-Consultation : fetchee au premier CODEX BUILD (V1 sous Instructions Wiki ; V2+ dans le projet CODEX BUILD dedie, ou elle est normalement jointe en fichier de projet). Pour les builds suivants dans le meme thread, la version en contexte fait foi. Elle porte le process que le CODEX V(N-1) ne contient pas.
+Consultation : embarquee dans la skill codex-build (`references/SPEC_CODEX_v8_2.md`) - lue en local, sans reseau. Le chemin GitHub sert a re-synchroniser la copie embarquee ou a la refetcher en secours. Pour les builds suivants dans le meme thread, la version en contexte fait foi. Elle porte le process que le CODEX V(N-1) ne contient pas.
 
 ---
 
@@ -46,27 +47,58 @@ Consultation : fetchee au premier CODEX BUILD (V1 sous Instructions Wiki ; V2+ d
 ## 3. Budget
 
 ### Plafond
-- Plafond dur : CODEX <= 45 000 caracteres.
-- Plus de contrainte de cohabitation CODEX + BIBLE (v8.2). Le CODEX V1 se build A LA FIN des instructions Wiki, une fois la BIBLE deja RETIREE des fichiers de projet (bascule jeu, regle tout-ou-rien) : CODEX et BIBLE ne sont jamais charges simultanement dans les fichiers de projet. L'ancien plafond commun (CODEX + BIBLE_LORE <= 100 000, seuil RAG) ne decrivait plus aucune situation reelle et est retire. En jeu, seul le CODEX (45 000 max) + la fiche d'arc courante occupent le budget de projet.
-- Verification au build : `wc -m` (caracteres, locale UTF-8) sur le fichier genere.
-- Depassement : signaler, proposer des compressions par gain decroissant (caracteres recuperes + ce qu'on perd), le joueur tranche. Compresser, jamais supprimer l'information utile sans validation.
+- Plafond dur : CODEX <= 80 000 caracteres.
+- Raison du plafond : le vrai mur est le seuil de bascule retrieval (RAG) a ~100 000 caracteres (verifie empiriquement). Le plafond a 80 000 garde ~20 000 car de marge sous ce seuil. En jeu, le CODEX est le SEUL fichier persistant dans le budget de projet : la BIBLE est retiree (bascule jeu, regle tout-ou-rien) et la fiche d'arc courante est FETCHEE a l'ouverture (hors budget projet, cf. SKILL fetch_page / Instructions RP S4), elle n'est jamais chargee comme fichier de projet. CODEX et BIBLE ne sont jamais charges simultanement. L'ancien plafond commun (CODEX + BIBLE_LORE <= 100 000) ne decrivait plus aucune situation reelle et reste retire.
+- Verification au build : `wc -m` (caracteres, locale UTF-8) sur le fichier genere, UNE fois en fin de build.
 
 ### Repartition
-
-Sections stables (plafonds fixes) :
-- CORE (S1, S2, S3 complet [S3a invariants + S3b courant], S4, S5, S6, S7) : max 8 000 caracteres. (Le 'S3 pointeur' de v8.0 etait un fossile v7 : S3a porte le detail complet des capacites depuis v8.0, le budget l'acte.)
+Sections stables (plafonds fixes, INCHANGES - lues a chaque tour) :
+- CORE (S1, S2, S3 complet [S3a invariants + S3b courant], S4, S5, S6, S7) : max 8 000 caracteres.
 - ANNEXE_STYLE : max 2 000 caracteres.
 - ANNEXE_LORE (buffer divergences fraiches) : max 1 000 caracteres.
 - Total stable : max 11 000 caracteres.
-- Total CODEX (stable + cumulatif) : max 45 000 caracteres.
 
-Sections cumulatives (solde = 34 000 caracteres) :
+Sections cumulatives (solde = 69 000 caracteres) :
 - ANNEXE_PNJ + ANNEXE_CHRONO + ANNEXE_INVENTAIRE + ANNEXE_TCHEKHOV + ANNEXE_SAVOIRS.
 - Repartition libre entre elles selon les besoins du RP.
 
-### Signal d'archivage
-- La taille mesuree au build (wc -m) est ECRITE dans la metadonnee `taille au build` (S1). En narration, le signal est une LECTURE de cette metadonnee, jamais une estimation du modele.
-- Le CODEX etant statique pendant un thread, le signal s'evalue UNE FOIS, a l'ouverture : si taille au build >= 80% du plafond (45 000 car, soit 36 000 car) -> `[ARCHIVAGE SUGGERE - CODEX a X% du plafond. Compresser CHRONO et/ou archiver dans Parties/.]`
+Total CODEX (stable + cumulatif) : max 80 000 caracteres.
+
+### Budgets-cibles par section (ecrire A LA CIBLE, pas ecrire-puis-couper)
+Cibles fixes pour CORE et stable (plafonds durs) ; enveloppe globale pour le cumulatif (libre par construction). Les cibles visent ~5% sous chaque plafond : on redige directement dedans, on ne deborde pas pour raboter ensuite.
+
+| Section | Cible (car.) | Plafond |
+|---|---|---|
+| S1 Metadonnees | ~650 | (CORE) |
+| S2 Premisse | ~550 | (CORE) |
+| S3a Invariants | ~3000 | (CORE) |
+| S3b Etat courant | ~450 | (CORE) |
+| S4 Reprise | ~1400 | (CORE) |
+| S5 OOC actifs | ~550 | (CORE) |
+| S6 Interdits | ~650 | (CORE) |
+| S7 #SITES_REF | ~300 | (CORE) |
+| CORE total | ~7550 | 8000 (dur) |
+| ANNEXE_STYLE | ~1800 | 2000 (dur) |
+| ANNEXE_LORE | viser le vide | 1000 (dur) |
+| Cumulatif (PNJ/CHRONO/INVENTAIRE/TCHEKHOV/SAVOIRS) | enveloppe 69000, repartition libre | 69000 (dur) |
+
+Les cibles sont indicatives et calees sur la DENSITE attendue, pas sur le plafond : un plafond plus haut n'autorise pas un CORE plus gras (le CORE est relu a chaque tour - lost-in-the-middle). Un RP particulier peut deplacer quelques centaines de caracteres entre sections CORE tant que CORE total reste <= 7600.
+
+### Ordre et methode de redaction
+- Rediger par POIDS DECROISSANT : les sections les plus lourdes d'abord (typiquement S3a et S4 dans CORE ; ANNEXE_CHRONO et ANNEXE_PNJ dans le cumulatif), chacune directement a sa cible.
+- Ecrire A LA CIBLE des le premier jet, viser ~5% sous le plafond de section. Ne pas rediger confortablement pour couper apres.
+- UNE seule mesure `wc -m` en fin de build (sur le fichier complet), pas une mesure par section ni par retouche.
+
+### Depassement
+Deux regimes distincts, ne pas les confondre :
+- Depassement d'une CIBLE de section (interne) : le modele tranche SEUL. UNE passe decisive (coupe franche, viser -10% sous la cible pour reprendre de la marge), puis UNE seule re-mesure. JAMAIS de micro-coupes successives re-mesurees a chaque fois : le grignotage = un appel outil par coupe, la latence explose pour finir a quelques caracteres de la limite. Pas de validation joueur requise.
+- Depassement du PLAFOND DUR total (80 000) a la livraison : SIGNALER, proposer des compressions par gain decroissant (caracteres recuperes + ce qu'on perd), le JOUEUR tranche. Compresser, jamais supprimer l'information utile sans validation.
+
+### Signal d'archivage (declencheurs absolus)
+- La taille mesuree au build (`wc -m`) est ECRITE dans la metadonnee `taille au build` (S1). En narration, le signal est une LECTURE de cette metadonnee, evaluee UNE FOIS a l'ouverture, jamais une estimation du modele.
+- DECOUPLE du % de plafond (le plafond 80 000 n'est plus le seuil RAG ~100 000 ; un pourcentage du plafond ne signale plus rien d'utile). Deux declencheurs ABSOLUS :
+  - ANNEXE_CHRONO > 15 000 car -> `[ARCHIVAGE SUGGERE - archiver les threads anciens dans Parties/, ne garder que les arcs resolus en une ligne.]` (Cout de relecture par tour : la CHRONO est de fait relue souvent.)
+  - Taille totale > 64 000 car -> `[ARCHIVAGE SUGGERE - CODEX volumineux. Compresser CHRONO et/ou archiver dans Parties/.]` (Garde-fou fichier, sous la marge RAG.)
 - Le joueur decide. Le MJ ne force pas.
 
 ## 4. Regle d'unicite des faits
@@ -113,19 +145,24 @@ Chaque fait n'apparait qu'une seule fois dans tout le systeme. Emplacement canon
 - PROMOTION : toute capacite ou tout fait DURABLE demontre en jeu et absent du calque stable -> promu dans la section Capacites du CODEX (S3a) ; si une BIBLE/WIKI sert de calque lore au RP, monter aussi via BIBLE/WIKI BUILD et pointer dessus. Jamais laisser une capacite durable en memoire transitoire re-derivable a chaque thread. Cette regle prime sur la doctrine "memoire chaude".
 - ARBITRAGE UNICITE (cas de la promotion double) : S3a garde TOUJOURS le detail chaud des capacites du protagoniste - exception ASSUMEE a la regle d'unicite (section 4). La page BIBLE/WIKI decrit l'ENTITE (lore neutre, si elle existe) ; S3a decrit l'INSTANCE et ne se compresse JAMAIS en simple renvoi : sinon la capacite redevient a un fetch de distance et la re-derivation que S3a existe pour tuer ressuscite.
 
+### Fetch conditionnel au build (vitesse)
+- Ne fetcher une page du repo (fiche d'arc, Sommaire, roadmap, page WIKI/Parties) QUE si une decision de build en DEPEND : resolution d'un renvoi `cf.`, debusquage d'un doublon SUSPECT (pas une verification exhaustive de pages absentes du contexte).
+- Par defaut : NE PAS fetcher. Le doute leger ne justifie pas un aller-retour reseau : marquer `[INCERTAIN]` coute moins cher qu'un fetch et laisse le joueur trancher.
+- Pas de sur-verification : une fiche d'arc / roadmap se consulte au plus une fois, en LECTURE SEULE, si et seulement si l'etat de frontiere ou un renvoi en depend.
+
 ## 4ter. Sortie de build RP (TROIS LIVRABLES OBLIGATOIRES)
-Tout CODEX BUILD de fin de thread RP produit SYSTEMATIQUEMENT trois fichiers. Aucun n'est conditionnel.
+Tout CODEX BUILD de fin de thread RP produit trois sorties. Les trois EXISTENT toujours ; c'est leur FORME qui s'allege quand il n'y a rien a produire.
 
 1. CODEX_NARRATIF_vN.md - la memoire CHAUDE. Ecrase la version precedente. Etat courant, PNJ en scene, divergences fraiches, Tchekhov (etat), CHRONO de session. Autosuffisant sur la continuite (ou on en est, ou on va), renvoie a BIBLE/WIKI/Parties pour le lore et le passe.
 
-2. La memoire REFROIDIE - fichiers .md dans Parties/ pour ce qui sort durablement de scene a l'arc a venir (PNJ qui disparaissent, factions dissoutes, lieux quittes, arcs clos). Exemple type : une faction ou un groupe de PNJ qui sort durablement de scene. Indexes dans le CODEX via pointeur `cf. PARTIES <dossier>/<page>.md`. Un fichier par entite ou groupe coherent qui refroidit ; on ECRASE si l'entite refroidit davantage, on n'empile pas. Si rien ne refroidit a ce build, produire une note explicite "memoire refroidie : rien a sortir ce thread" (le livrable existe, meme vide). Les pointeurs `cf. PARTIES` des pages refroidies sont PERMANENTS : ils survivent au test de saillance et aux builds suivants, regroupes dans l'index Refroidi (ANNEXE_CHRONO, cf. gabarit). Cet index est le substitut du Sommaire pour Parties/ entre deux BIBLE BUILDs (le Sommaire, page WIKI, n'est mis a jour qu'au BIBLE BUILD) : le test de fetch des Instructions RP croise Sommaire OU index Refroidi.
+2. La memoire REFROIDIE - fichiers .md dans Parties/ pour ce qui sort durablement de scene a l'arc a venir (PNJ qui disparaissent, factions dissoutes, lieux quittes, arcs clos). Exemple type : une faction ou un groupe de PNJ qui sort durablement de scene. Indexes dans le CODEX via pointeur `cf. PARTIES <dossier>/<page>.md`. Un fichier par entite ou groupe coherent qui refroidit ; on ECRASE si l'entite refroidit davantage, on n'empile pas. SI RIEN NE REFROIDIT a ce build : NE PAS creer de fichier - une seule ligne dans la presentation de build suffit ("refroidi : rien a sortir ce thread"). Pas de livrable .md vide a structurer. Les pointeurs `cf. PARTIES` des pages refroidies sont PERMANENTS : ils survivent au test de saillance et aux builds suivants, regroupes dans l'index Refroidi (ANNEXE_CHRONO, cf. gabarit). Cet index est le substitut du Sommaire pour Parties/ entre deux BIBLE BUILDs (le Sommaire, page WIKI, n'est mis a jour qu'au BIBLE BUILD) : le test de fetch des Instructions RP croise Sommaire OU index Refroidi.
 
 3. Memoire_{Univers}_<n> - l'archive NARRATIVE du thread, destinee au JOUEUR (topo, relecture, alimentation d'une autre IA). Recit condense des battements joues (un fichier FIGE par thread, jamais reecrit). Nommage : `Memoire_{Univers}_<n>.md`, empile (n = numero de thread). Ce fichier n'est PAS uploade sur le repo, n'est JAMAIS fetche par le MJ, et echappe au budget de page Parties. Aucun pointeur `cf.` ne le designe depuis le CODEX (anti-boucle : un cf. mene a un emplacement consultable).
 
 Procedure de triage (alimente les livrables 2 et 3) :
 a. Identifier les faits, PNJ, arcs et CHRONO qui ne sont plus pertinents pour l'arc a venir -> memoire refroidie (livrable 2).
 b. Condenser les battements du thread -> Memoire_{Univers}_<n> (livrable 3).
-c. Consulter la roadmap de l'arc a venir pour orienter le CODEX (livrable 1) vers la suite.
+c. Consulter la roadmap de l'arc a venir pour orienter le CODEX (livrable 1) vers la suite - SEULEMENT si une bascule du CODEX en depend (cf. fetch conditionnel) ; sinon s'en tenir a l'etat d'arc deja connu.
 
 Convention de nommage Parties/ :
 - Archive narrative joueur : `Memoire_{Univers}_<n>.md` (FIGEE, empilee, HORS repo - reste chez le joueur).
@@ -151,7 +188,7 @@ Convention de nommage Parties/ :
 - Thread N-1 : une ligne par scene majeure.
 - Threads anterieurs : une ligne par arc resolu.
 - Arcs clos sans consequence ouverte : fusion en ligne narrative unique.
-- Quand ANNEXE_CHRONO depasse 12 000 caracteres : archiver les threads anciens dans Parties/, ne garder que les arcs resolus en une ligne.
+- Quand ANNEXE_CHRONO depasse 15 000 caracteres : archiver les threads anciens dans Parties/, ne garder que les arcs resolus en une ligne (cf. signal d'archivage, section 3).
 
 ## 6. Interdictions de forme
 - Aucun paragraphe explicatif hors ANNEXE_STYLE.
@@ -165,9 +202,9 @@ Convention de nommage Parties/ :
 - Aucune recopie de canon, de BIBLE, de WIKI ou d'instruction non modifie par le RP.
 
 ## 7. Audit de compression
-Avant de livrer le CODEX, verifier silencieusement :
-1. Chaque fait n'apparait qu'une fois dans les sources EN CONTEXTE (CODEX, BIBLE, narration brute, instructions). Pour WIKI/Parties (pages non chargees) : spot-check via Sommaire / index Refroidi sur les seuls faits SUSPECTS de doublon - aucune pretention a verifier exhaustivement des pages absentes du contexte.
-2. Le plafond 45 000 car est respecte (11 000 stable / 34 000 cumulatif), taille mesuree au wc -m et REPORTEE dans la metadonnee `taille au build` ; grep -nP '[^\x00-\x7F]' revient vide.
+Checklist RAPIDE integree a la passe de redaction (pas une etape ceremonielle separee). Avant de livrer le CODEX, verifier :
+1. Chaque fait n'apparait qu'une fois dans les sources EN CONTEXTE (CODEX, BIBLE, narration brute, instructions). Pour WIKI/Parties (pages non chargees) : spot-check via Sommaire / index Refroidi sur les seuls faits SUSPECTS de doublon - aucune pretention a verifier exhaustivement des pages absentes du contexte, aucun fetch sauf si une decision en depend (cf. 4bis, fetch conditionnel).
+2. Le plafond 80 000 car est respecte (11 000 stable / 69 000 cumulatif), taille mesuree au `wc -m` (UNE fois) et REPORTEE dans la metadonnee `taille au build` ; grep -nP '[^\x00-\x7F]' revient vide.
 3. Les sections ne se repetent pas.
 4. Le texte reste exploitable sans thread externe.
 5. Tout doute est marque `[INCERTAIN]`.
@@ -197,7 +234,7 @@ Avant de livrer le CODEX, verifier silencieusement :
 - date reelle de derniere mise a jour: <AAAA-MM-JJ>
   note: les tampons OOC (S5) et interdits (S6) utilisent [V<n>], pas la date.
 - codex_version: V<N>
-- plafond: 45 000 car.
+- plafond: 80 000 car.
 - taille au build: <wc -m> car. (<X>% du plafond)
 - bible_lore: <nom du fichier BIBLE_LORE si presente, sinon "aucune"> (sans numero de version)
 - dernier sync BIBLE: <B<x> si BIBLE presente, advisory non bloquant ; sinon "n/a">
@@ -315,7 +352,7 @@ La suite ORDONNEE des arcs traverses dans ce RP, du premier joue jusqu'a l'arc c
 ### Arcs (etat courant)
 `Arc - enjeu | jalon courant | prochain jalon | statut | fiche_arc: cf. WIKI Fiches_Arc/<Prota>/<page>.md | (build) roadmap: cf. WIKI Roadmap/<Prota>/<page>.md`
 - <arc> - <enjeu> | <jalon> | <prochain> | <ouvert/suspendu/clos> | fiche_arc: cf. WIKI Fiches_Arc/<Prota>/<page>.md | (build) roadmap: cf. WIKI Roadmap/<Prota>/<page>.md
-- L'etat d'arc (jalon courant / prochain jalon) est tenu A JOUR ici au fil du thread ; la fiche d'arc, elle, est figee a l'ouverture (cf. SPEC_BIBLE_LORE_WIKI, gabarit Fiche d'arc). Le renvoi fiche_arc: pointe la page fetchee une fois a l'ouverture. Le renvoi roadmap: est marque (build) : il ne sert qu'a (re)construire une fiche d'arc en mode Wiki, JAMAIS au fetch en narration (la roadmap porte le futur de la saga -> risque de prefiguration).
+- L'etat d'arc (jalon courant / prochain jalon) est tenu A JOUR ici au fil du thread ; la fiche d'arc, elle, est figee a l'ouverture (cf. SPEC_BIBLE_LORE_WIKI, gabarit Fiche d'arc). Le renvoi fiche_arc: pointe la page FETCHEE une fois a l'ouverture (hors budget projet). Le renvoi roadmap: est marque (build) : il ne sert qu'a (re)construire une fiche d'arc en mode Wiki, JAMAIS au fetch en narration (la roadmap porte le futur de la saga -> risque de prefiguration).
 
 ### Refroidi (index PERMANENT - survit au test de saillance)
 `<entite ou groupe> -> cf. PARTIES <dossier>/<page>.md`
