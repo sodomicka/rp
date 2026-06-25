@@ -1,7 +1,6 @@
 # Arlecchino
 
 - version : W2
-- Note de revision W2 : touche Ere 2-frontiere (decision worldbuilder). Ajout du moniker d'epoque "l'Artiste de sang" (surnom 1850 / DLC) et de la chronologie de nommage (Artiste de sang en 1850 -> Roi des Enigmes en 1852) : naming PERIODE-CORRECT a respecter en roadmap / codex. Note frontiere Ere 2 : fin 1850, la rumeur de son retour pres du Zoo est l'APPAT qui tire la reconnaissance solo de Romeo -> son enlevement ouvre Overture (Ere 3). Caracterise comme l'Ego-pantin dangereux ULTIME. Le gros de son role (enlevement, Rose Estate) reste detaille en Ere 3.
 
 ## Identite
 - Pantin (puppet) a Ego eveille ; serial killer. Aussi designe comme "puppet meurtrier" dans la source.

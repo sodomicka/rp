@@ -1,8 +1,6 @@
 # Claudia et Lucio
 
 - version : W2
-- Note de revision W2 : (1) francisation des noms selon la loc FR officielle (BIBLE B6) - rodeur/rodeuse (ex-"Stalker"), Bataille de la Tour des Artisans (ex-"Battle of the Workshop Tower"), Frenesie des Pantins (ex-"Puppet Frenzy"), Maladie de Petrification, Fruit d'Or (ex-"Gold Coin Fruit"), Arbre a Fruits d'Or, etc. (2) extension du perimetre grave a l'Ere 3 (1851) : le duo ne se rend PAS a la Bataille de la Tour des Artisans et survit a la decimation. 1852 et au-dela (Ere 4) reste a la roadmap. (3) correction de la regle du coeur pur : pour soigner Lucio, Claudia depend du prota - Magnus OU Pinocchio (les deux seuls coeurs purs). cf. Factions/Les_Stalkers.md, Personnages/Lumacchio.md, Magnus.md, Pinocchio.md.
-- Note de revision W1 : creation de la fiche commune dediee (ex-sous-section "Le duo Renard et Chat" de Factions/Les_Stalkers.md, qui ne garde plus qu'un renvoi). Reunit la Renarde Rousse (Claudia Volfe) et le Chat Noir (Lucio Volfe), demi-soeur et demi-frere de la maison Volfe. Socle canon (bulletin de la section des Sweepers ; nom "Lucio Volfe" deduit du dialogue de la Renarde + credits du jeu) + couche [DIVERGENCE RP] (filiation legitime/batard, double-jeu inter-factions, bras droit de Lumacchio, regle du coeur pur pour le Fruit d'Or).
 
 > Le Renard et le Chat de Collodi, refondus en demi-fratrie : Claudia la legitime, flamboyante,
 > bras droit chez les Bastards ; Lucio le batard, efface, simple rodeur Sweeper. Chacun infiltre

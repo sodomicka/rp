@@ -1,7 +1,6 @@
 # Quartiers de Krat
 
 - version : W2
-- Note de revision W2 : rename canon Lumakio -> Lumacchio (orthographe canon, Lies of P Overture). Aucun changement de fond.
 - Fiche groupee : un bloc par quartier/lieu de la ville de Krat. Cf. Lieux/Krat.md pour l'histoire
   generale de la ville.
 

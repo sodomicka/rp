@@ -1,10 +1,6 @@
 # Veronique
 
 - version : W5
-- Note de revision W5 : couche masque [DIVERGENCE RP - convention des Stalkers]. Moniker le Mouton Bleu, couleur bleu (accent d'identite, pas dominante) ; allure ajoutee (masque a gaz + cornes de belier, armure DIY) ; marteau precise (genere des flammes, bricole). cf. Factions/Les_Stalkers.md. Aucun changement de fond.
-- Note de revision W4 : couche Overture (Ere 3, 1850). Le "remede" empoisonne attribue a LUMACCHIO (neurotoxine). [DIVERGENCE RP - continuite Magnus] Reorchestration de sa mort : devenue folle, elle est abattue par LEA (et non par P / le coolant - canon conserve comme anteriorite supplantee) ; mourante, elle revele la trahison de Lumacchio et remercie Lea. Rename Lumakio -> Lumacchio (orthographe canon, cf. Lies of P Overture). Trajectoire affinee, non dupliquee.
-- Note de revision W3 : couche maladie (decision worldbuilder, motif implicite des trois fieres de l'orbite stalker). Veronique porte DEJA une Petrification lente en 1848, cachee par fierte - "en pleine sante" devient "en apparente bonne sante". Clarification de sa fin : ce qui la tue VITE au DLC n'est pas cette maladie lente, mais le "remede" alchimiste = poison experimental qui la fait virer folle en peu de temps. Deux vecteurs distincts.
-- Note de revision W2 : ajout de l'arme canon (marteau) jusque-la non renseignee ; couche Ere 2 (1848, l'incident declencheur : elle pulverise un pantin policier devenu fou, ce qui donne a Magnus l'envie de rejoindre les Stalkers). Le socle canon (cheffe Sweepers, fin DLC) est inchange.
 
 ## Identite
 - Nom : Veronique.

@@ -1,7 +1,6 @@
 # Les Hiboux
 
 - version : W2
-- Note de revision W2 : renommage de la fiche (ex-Adelina_et_Patricia W1) en "Les Hiboux" - etiquette du cercle d'Adelina (motif aviaire des masques de Stalkers). + couche masque / couleur / tenue / arme [DIVERGENCE RP - convention des Stalkers, decision worldbuilder] : la Dame Blanche (Patricia, hibou a aigrettes, blanc) et le Chouette Medecin (Owl Doctor, chouette effraie sans aigrettes, aucune couleur). Monikers francises. cf. Factions/Les_Stalkers.md.
 
 > Le cercle d'Adelina Corde, la chanteuse a la robe rouge : sa soeur Patricia, la Dame Blanche,
 > et son amant le Chouette Medecin. Trois destins lies par le sang, l'amour et une trahison.

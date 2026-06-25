@@ -1,8 +1,6 @@
 # PNJ Secondaires
 
 - version : W5
-- Note de revision W5 : + bloc Ane fou / Mad Donkey (Stalker Sweeper retire de Creatures/Boss_et_Creatures.md, repositionne en allie de Magnus [DIVERGENCE RP]). Enrichissement de la Redemptee (ex- "la Pleureuse") : masque, tenue, arme, faction Sweeper [DEDUCTION]. Renommage interne "the Atoned (la Pleureuse)" -> "la Redemptee (the Atoned)".
-- Note de revision W4 : rename canon Lumakio -> Lumacchio (orthographe canon, Lies of P Overture). Aucun changement de fond.
 
 > Fiche groupee. Chaque entite = un bloc independant.
 > Personnages : Belle, Julian + Melody, la Redemptee, Ane fou, Klaus, Hugo, Godard,

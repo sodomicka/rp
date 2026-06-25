@@ -1,7 +1,6 @@
 # Les Alchimistes
 
 - version : W2
-- Note de revision W2 : rename canon Lumakio -> Lumacchio (orthographe canon, Lies of P Overture). Aucun changement de fond.
 
 ## Nature
 

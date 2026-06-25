@@ -1,8 +1,6 @@
 # Confrerie des Lapins Noirs
 
 - version : W4
-- Note de revision W3 : enrichissement [DIVERGENCE RP] de la section Origine (pause peaufinage masques+couleurs). Les quatre futurs freres sont les SOCIOPATHES du noyau de l'Assemblee (des pauvres orientes vers le mercenariat, ni Balayeurs ni Batards) ; masques deja improvises et heterogenes (le motif lapin commun, pas un masque uniforme) ; symbole tete-de-lapin cerclee NON barre en Ere 2 - la barre verticale qui ferme le cercle = ajout de la derive criminelle, marqueur visuel de la bascule ; bascule PSYCHOPATHE a la decimation de 1851 (de sociopathes encadres a predateurs desinhibes) ; nettoyage interne (d'autres survivants de l'Assemblee existaient ; les quatre s'assurent d'etre les seuls en les eliminant). Ajout : sous-section des quatre membres canon (surnoms, masques, armes). Renvoi croise Les_Rodeurs W5. Socle canon inchange.
-- Note de revision W2 : ajout de la section ORIGINE [DIVERGENCE RP - Ere 2] : la Confrerie criminelle du base game descend de l'Assemblee des Lapins Noirs, faction mercenaire de l'union des Rodeurs pre-Frenesie (1848-1850), essoree par la Bataille de la Tour des Artisans. Le socle canon (gang criminel post-effondrement, frere aine, liar's coffin, role base game) est inchange.
 
 ## Nature
 

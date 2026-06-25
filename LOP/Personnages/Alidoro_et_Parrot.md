@@ -1,7 +1,6 @@
 # Alidoro et Parrot
 
 - version : W2
-- Note de revision W2 : couche Ere 2 (Les Loups, 1848-1850). Alidoro (le vrai) : membre de l'union des Stalkers ; role PIVOT au reveal de Markiona - il enrage d'abord (il a documente les crimes dont elle a profite), mais, le moins impulsif des trois, il est le premier a desamorcer (raisonnement : la Marionnettiste de la Mort n'aiderait jamais les Stalkers en couverture, donc Magnus ne ment pas). Parrot : encore partenaire d'Alidoro a cette periode (la trahison est posterieure). Trajectoire Alidoro Ere 2 ajoutee.
 
 > Deux personnages partageant une identite : le vrai Alidoro (alias "the Tracker") et Parrot (imposteur).
 > Traites ensemble car leur histoire est indissociable.

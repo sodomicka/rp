@@ -1,10 +1,6 @@
 # Romeo
 
 - version : W6
-- Note de revision W6 : couche masque + physique [DIVERGENCE RP - convention des Stalkers]. Le masque de Roi precise : plaque FACIALE de fer rivete, ouverture aux yeux seulement, COURONNE DE DOIGTS DE PANTIN cloues (nez et bouche du render = decor, ECARTES). Pas de couleur d'identite. Physique ajoute (blond platine mi-long, traits fins). Arme Ere 2 ajoutee : la FAUX. cf. Factions/Les_Stalkers.md. Aucun changement de fond.
-- Note de revision W5 : couche Overture (Ere 3, 1850). Detail des trois "oeuvres" macabres d'Arlecchino (manteau + broche Monad a la foire ; bras arraches + Carlo Graduation Pendant au lustre, recupere et rendu par Lea -> Tchekhov Ere 5 intact ; pose christique au domaine Monad). Nettoyage du locket (retire : la reconnaissance de P par Lea passe desormais par le combat, cf. Lea_Florence_Monad.md). Trajectoire Overture affinee, non dupliquee.
-- Note de revision W4 : couche soin + motif de la reco (decisions worldbuilder). Romeo connait la Petrification (bras gauche) de Lea et lui prodigue soins / soutien au quotidien - binome soignant en miroir de Magnus / Markiona (les deux fieres encaissent en silence ; Alidoro fournit les anti-douleurs, Romeo fait le reste). La reco au Zoo est motivee par la rumeur du retour de "l'Artiste de sang" (moniker 1850 d'Arlecchino - cf. Personnages/Arlecchino.md) ; elle est cadree comme la derniere erreur de sa vie.
-- Note de revision W3 : couche Ere 2 (Les Loups, 1848-1850). Role Ere 2 : second de Lea dans l'union des Stalkers, masque de Roi (presage), amitie avec le duo (surtout Magnus) ; au reveal, suit la colere de Lea par loyaute (elle lui a raconte Markiona ; lui ne la connait pas en personne) ; clot l'ere en partant SEUL en reconnaissance au Zoo (frontiere vers Overture). Trajectoire Ere 2 ajoutee.
 
 ## Identite
 
