@@ -1,6 +1,7 @@
 # Markiona
 
-- version : W8
+- version : W9
+- note W9 : La Frenzy (Ere 4, hiver 1850-1851 -> printemps 1852). + Convalescence de la cuisse (blessure d'Arlecchino) portee par Magnus jusqu'a Aurus. + Inversion accomplie a la Tour des Artisans : la Marionnettiste de la Mort bride la rage de Magnus ("le sang a assez coule") - le rachat de l'Ere 1 passe a l'acte [DIVERGENCE RP]. + Aggravation de la Petrification pulmonaire placee a l'Ere 4 (declin continu, souffle sifflant), RALENTIE par le remede maison de Magnus (chimie implantee) sans etre guerie. + Markiona VIVANTE au terme de l'Ere 4 (presente a la Gare de Krat) ; sa fin exacte reste reservee a l'Ere 5.
 
 ## Identite
 - Humaine (transformee / alchimiste de haut rang). Titres : l'Illuminee (the Enlightened One) ; Marionnettiste de la Mort (Puppeteer of Death - sa renommee dans la societe).
@@ -13,7 +14,7 @@
 ## Physique et sante
 - Silhouette : femme dans la trentaine, fine et elancee, pas musclee ; yeux marrons, cheveux platine. Son corps ne laisse rien presager de son agilite parfaite (cf. Capacites - virtuose a deux corps).
 - Peau bleutee : trait CANON (apparence in-game). [DIVERGENCE RP] Lecture du RP : stigmate d'une surexposition chronique a l'Ergo (qui se cristallise en bleu ; a force d'y baigner, sa peau en porte la teinte). Marqueur d'occupation, pas symptome de maladie en soi - le signe visible de son addiction au travail, dont elle connait les consequences sans s'y soustraire.
-- Petrification Disease [DIVERGENCE RP] : contractee via cette meme surexposition (mecanisme canon, BIBLE SB1.4 - spores d'Ergo manipulees par les Alchimistes). Localisation : les POUMONS - trop tard pour soigner ou amputer. Markiona est CONDAMNEE (maladie terminale), mais la progression est LENTE et Magnus lui fait gagner beaucoup de temps par des routines de soin. Au point de depart (1847-1848) : encore peu visible - toux occasionnelle. Placement exact de l'aggravation et de la fin -> roadmap (cf. Sort connu).
+- Petrification Disease [DIVERGENCE RP] : contractee via cette meme surexposition (mecanisme canon, BIBLE SB1.4 - spores d'Ergo manipulees par les Alchimistes). Localisation : les POUMONS - trop tard pour soigner ou amputer. Markiona est CONDAMNEE (maladie terminale), mais la progression est LENTE et Magnus lui fait gagner beaucoup de temps par des routines de soin. Au point de depart (1847-1848) : encore peu visible - toux occasionnelle. AGGRAVATION placee a l'Ere 4 (La Frenzy) : declin pulmonaire continu, souffle sifflant ; Magnus se fabrique un remede maison (chimie implantee) qui RALENTIT la progression sans la guerir. Markiona reste VIVANTE au terme de l'Ere 4 (presente a la Gare de Krat) ; la fin exacte -> roadmap Ere 5 (cf. Sort connu).
 
 ## Role
 ### Origines : Workshop Union
@@ -97,6 +98,7 @@
 - Deni d'attachement [DIVERGENCE RP] : le "MK I", la promesse de ne jamais le demanteler, le refus du titre de "Mere", l'ordre "ne te mets jamais en danger pour autrui" - elle ne peut pas DIRE le lien, alors elle le FORGE (la rapiere "Parfaite", signee "M."). Meme pudeur orgueilleuse : elle marque son lien dans l'objet, pas dans le mot.
 - Deni dissous a Aurus [DIVERGENCE RP - Ere 2] : la bascule amorcee par la desobeissance de 1847 s'acheve dans le havre souterrain d'Aurus. Pour la premiere fois, ses ambitions n'entrent plus en conflit avec le fait d'aimer ; elle accepte le role de mere et aime pleinement (lectures du soir, thes prepares a deux, soins partages avec Magnus). C'est ELLE qui, apres des semaines ou Magnus l'appelle "Dame Markiona", lui signifie qu'il peut l'appeler "Mere" - non parce qu'il l'a demande, mais parce qu'elle s'autorise enfin a etre sa mere et refuse de le nier. Des lors, elle l'appelle "Magnus" ou "mon Fils". (Boucle : refus FRONTAL de "Mere" a l'eveil -> acceptation CHOISIE a Aurus.) cf. Personnages/Magnus.md.
 - Apprend de sa creation [DIVERGENCE RP] : elle finira par se dire qu'elle a a apprendre d'une creation qui la depasse - Magnus, plus humain qu'elle a force d'introspection. Bascule amorcee par la desobeissance de l'Ere 1.
+- Inversion accomplie [DIVERGENCE RP - Ere 4] : a la Tour des Artisans, devant le charnier et les 4 Lapins Noirs debout, c'est ELLE - la Marionnettiste de la Mort - qui bride la rage de Magnus : "le sang a assez coule". Le rachat amorce a l'Ere 1 ("aider la vie apres tant avoir oeuvre pour la mort") passe ici a l'ACTE : celle qui semait la mort est devenue celle qui l'arrete. cf. roadmap Ere 4, Personnages/Magnus.md.
 - [THEORIE] Peut-etre cherchait-elle a supplanter Simon : amulette = besoin de dominer.
 
 ## Relations
@@ -108,7 +110,7 @@
 - Lea Florence Monad : ancienne amie BROUILLEE ("my sadly not departed friend" dans le message canon de Lea). [DIVERGENCE RP - Ere 2] Les deux femmes s'etaient perdues de vue ; quand le masque blanc tombe en 1849 (apres une mission de liberation d'un quartier de l'influence alchimiste), Lea reconnait la Marionnettiste de la Mort et, folle de rage des horreurs commises depuis leur brouille, menace de la tuer (Romeo et Alidoro presents). Magnus s'interpose. Au fil des missions suivantes, l'evidence que Markiona a change ramene l'amitie d'antan : reconciliation. cf. Personnages/Lea_Florence_Monad.md.
 - Rosaura : pantin de Geppetto ; emprisonnee dans une cage d'oiseau dans son atelier ; "cle" de son plan (jamais explicitee).
 - Ange de l'Arc [DIVERGENCE RP] : son garde du corps aile, sans Ego ni libre arbitre ; second corps de combat. Detruit a l'Ere 1, reconstruit par l'Ordre (cf. typologie).
-- Magnus [DIVERGENCE RP] : sa creation parfaite, son Magnum Opus incarne ; n'obeit qu'a elle, l'appelle "Dame Markiona" (puis aussi "Mere" des Aurus). Traite d'abord en outil ; devient son fils a l'Ere 1 (glissement declenche, muet, par sa desobeissance). A l'Ere 2, il est le LOUP NOIR a sa LOUVE BLANCHE chez les Stalkers ; c'est son envie de rejoindre les Stalkers qui les y mene. cf. Personnages/Magnus.md.
+- Magnus [DIVERGENCE RP] : sa creation parfaite, son Magnum Opus incarne ; n'obeit qu'a elle, l'appelle "Dame Markiona" (puis aussi "Mere" des Aurus). Traite d'abord en outil ; devient son fils a l'Ere 1 (glissement declenche, muet, par sa desobeissance). A l'Ere 2, il est le LOUP NOIR a sa LOUVE BLANCHE chez les Stalkers ; c'est son envie de rejoindre les Stalkers qui les y mene. A l'Ere 4, il la porte blessee jusqu'a Aurus et la soigne, puis la bride a son tour : a la Tour des Artisans, c'est elle qui arrete sa rage ("le sang a assez coule"). cf. Personnages/Magnus.md.
 - Cassius [DIVERGENCE RP] : alchimiste de haut rang, fidele de Simon. A la sortie du complexe, ou Markiona presente Magnus comme son "nouvel assistant", il reconnait les traits d'un jeune alchimiste porte disparu (la matiere premiere du Magnum Opus) : il comprend l'heresie et declenche l'assaut du Zelator en 1847. cf. Personnages/PNJ_secondaires.md.
 - Jeune alchimiste (matiere premiere du Magnum Opus) [DIVERGENCE RP] : victime anonyme, sans attaches (personne ne le cherche : ni famille ni protecteur, disparition non investiguee). Son ESPRIT est efface (page blanche, aucune trace dans Magnus), mais son VISAGE subsiste - c'est ce visage qui trahit le duo a la sortie du Zelator (Cassius le reconnait). "Intracable" = nul ne le cherche, pas un visage indetectable.
 - Pinocchio (P) [DIVERGENCE RP - revise W5] : ne l'affronte PAS. Ils se croisent en allie lors d'Overture (1850, Rose Estate). cf. roadmap Ere 3.
@@ -116,6 +118,7 @@
 ## Sort connu [DIVERGENCE RP - revise W5]
 - Le canon (vaincue et tuee par P au Zoo) NE S'APPLIQUE PLUS : c'est son anteriorite de role, pas son sort dans le RP.
 - [DIVERGENCE RP] Markiona est CONDAMNEE par la Petrification pulmonaire (terminale, incurable, inamputable - cf. Physique et sante). La CAUSE de sa fin est donc fixee ; ce qui reste OUVERT, c'est le QUAND et le COMMENT exacts - progression lente, echeance repoussee par les soins de Magnus -> roadmap. (Les dettes de rachat et le sort de l'Ange ne pendent plus a sa mort : l'Ange original meurt des 1847.)
+- [DIVERGENCE RP - Ere 4] Aggravation placee a l'Ere 4 (declin pulmonaire continu, souffle sifflant) ; le remede maison de Magnus la RALENTIT sans la guerir. Markiona reste VIVANTE au terme de l'ere (presente a la Gare de Krat) ; sa fin exacte (et la detonation du cristal de Camille) -> roadmap Ere 5.
 - A son depart de l'Ordre (1847), ses Danseuses et Chanteuses de l'Arc retombent sur leur allegeance de fond a l'Ordre (confirme in game qu'ils continuent de fonctionner pour l'Ordre). Magnus, lui, ne retombe sur personne.
 
 ## Trajectoire datee
@@ -134,7 +137,12 @@
 | 1849-1850 (reconciliation) | Au fil des missions, l'amitie d'antan reprend le dessus : Markiona a change, en bien | Anciennes amies brouillees -> reconciliees |
 | 1850 (Overture, Ere 3) | Chemin de croix en trois paliers a travers ce qu'elle a fui : le Zoo (ses Pantins de l'Arc reprogrammes, l'Ange reforge en gardien), le complexe Zelator (ses labos, ou son Two-Faced Overseer degenere les Listeners en Gold Coin Trees - horreur non commandee), puis le charnier de la Rose Estate. Son "je ne regrette rien" se fissure | Confrontation au passe ; la facade orgueilleuse se lezarde |
 | 1850 (Rose Estate) | Melee contre Arlecchino aux cotes de P, Lea et Magnus ; Arlecchino la blesse a la cuisse avant d'etre detruit ; Magnus l'emmene a l'abri par un chemin long mais sur | Survivante, blessee ; detail -> roadmap Ere 3 |
-| Suite | Condamnee par la Petrification pulmonaire ; echeance repoussee par les soins de Magnus ; placement exact -> roadmap | Terminale, en sursis |
+| 1850-1851 (hiver, Ere 4) | Portee par Magnus jusqu'a Aurus (cuisse ouverte par Arlecchino) ; semaines de convalescence | Blessee, soignee ; hors-jeu temporaire |
+| 1851 (Ere 4) | Remise : reprise du masque de Louve Blanche et de la traque des pantins reneges | Retour au role |
+| 1851 (Ere 4, Tour des Artisans) | Devant le charnier et les 4 Lapins Noirs debout, elle bride la rage de Magnus - "le sang a assez coule" - et retire le duo. INVERSION : la Marionnettiste de la Mort arrete le sang | Rachat passe a l'acte |
+| 1851 (Ere 4) | Declin pulmonaire continu (souffle sifflant) ; le remede maison de Magnus ralentit la Petrification sans la guerir | En sursis, declin ralenti |
+| fin 1851 - printemps 1852 (Ere 4) | Subit la Frenesie terree avec Magnus ; VIVANTE a l'arrivee a la Gare de Krat | Survivante au terme de l'ere |
+| Suite (Ere 5) | Fin de la Petrification + detonation du cristal de Camille (en reserve) -> roadmap Ere 5 | Terminale ; denouement reserve |
 
 ---
 
