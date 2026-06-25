@@ -1,6 +1,7 @@
 # Confrerie des Lapins Noirs
 
-- version : W4
+- version : W5
+- note W5 : couche La Frenzy (Ere 4, 1851) cote Loups. + Scene de la Tour des Artisans vue du duo : Magnus et Markiona ABSENTS de la bataille, arrivee trop tard au charnier, les 4 Lapins Noirs seuls debout, l'un qui lache "vous voulez mourir aussi ?". + Premier contact glacial avec Magnus/Markiona [DIVERGENCE RP] (Magnus reconnait sous les masques des morts ses comrades, veut frapper, Markiona le bride). La bascule Assemblee -> Confrerie reste gravee en W4 : ici on ajoute la scene, pas la mecanique.
 
 ## Nature
 
@@ -18,6 +19,7 @@
 - [DIVERGENCE RP] Le noyau sociopathe : les quatre qui deviendront la Confrerie sont, des l'Assemblee, le noyau SOCIOPATHE du groupe - calculateurs, sans empathie reelle, mais fonctionnels et utiles tant que le cadre mercenaire les encadre. Entre eux, le lien est authentique (cf. Faits canon, base game) ; vers l'exterieur, la mort n'est qu'un outil.
 - Bascule en 1851 : la Bataille de la Tour des Artisans decime les Rodeurs (cf. Les_Rodeurs). Prives de cadre et de role legitime, les quatre passent de sociopathes encadres a PREDATEURS desinhibes - la couche criminelle qui definit la Confrerie. Continuite du nom et du motif (lapin), rupture de l'ethos (mercenaire encadre -> criminel).
 - [DIVERGENCE RP] Nettoyage interne : l'Assemblee comptait d'AUTRES survivants de la bataille. Ce ne sont pas eux que l'attrition laisse seuls - ce sont les quatre qui s'ASSURENT d'etre les seuls, en eliminant les autres rescapes. C'est ce nettoyage maison (autant que la bataille) qui explique qu'il "n'en reste que les survivants du canon".
+- [DIVERGENCE RP - Ere 4, cote Loups] La scene vue du duo : a la Tour des Artisans, l'union des Rodeurs s'assemble SANS plus aucun chef (Lea, Romeo, Veronique, Lumacchio tous hors-jeu) ; chaque faction se croit legitime. C'est ce VACUUM du cadre qui, d'un meme coup, desinhibe les quatre et fait basculer l'assemblee en carnage mutuel - les quatre catalysent le bain de sang et en sortent predateurs. Le duo n'y est PAS : Magnus a refuse d'exposer sa mere malade au regard des autres. Ils arrivent trop tard, devant un charnier masque (Batards / Balayeurs / Lapins Noirs entre-tues) et les 4 Lapins Noirs seuls debout ; l'un lache "vous voulez mourir aussi ?". Magnus reconnait sous les masques des morts ses comrades des missions sous Veronique (1848-49) : fou de rage, pret a frapper. Markiona le bride - "le sang a assez coule" - et le duo se retire. Premier contact glacial avec ce qui devient la Confrerie. cf. roadmap Ere 4, Personnages/Magnus.md.
 
 ## Description / Histoire
 
@@ -65,7 +67,7 @@
 - Red Fox / la Renarde Rousse et Black Cat / le Chat Noir : allies dans l'assaut de l'Hotel Krat (cf. Factions/Les_Stalkers.md, sous-section Le duo Renard et Chat).
 - Simon Manus : commandite le kidnapping de Geppetto via eux (cf. Personnages/Simon_Manus.md).
 - Maison de Charite Monad / Geppetto : contexte de leur origine presupposee.
-- Magnus / Markiona [DIVERGENCE RP - Ere 2] : le duo negocie avec l'Assemblee au fil des missions (cf. Personnages/Magnus.md).
+- Magnus / Markiona [DIVERGENCE RP - Ere 2] : le duo negocie avec l'Assemblee au fil des missions (cf. Personnages/Magnus.md). [Ere 4] Premier contact glacial post-Tour : devant le charnier, Magnus reconnait ses anciens comrades parmi les morts et veut frapper les 4 ; Markiona l'arrete. Le sang entre les Loups et la Confrerie ne coulera pas ce jour-la, mais le froid est pose.
 
 ## Sort connu / Etat
 
