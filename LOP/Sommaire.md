@@ -1,6 +1,7 @@
 # Sommaire - LOP
 
-- version : W12
+- version : W13
+- note W13 : indexation du duo + bumps de cloture du thread. (1) NOUVELLE FICHE : Personnages/Claudia_et_Lucio.md (W2) - la Renarde Rousse (Claudia Volfe) / le Chat Noir (Lucio Volfe), ex-sous-section de Les_Stalkers, desormais fiche commune dediee. (2) Factions/Les_Stalkers.md W5 -> W7 : sortie du duo vers la fiche (W6) + francisation B6 de toute la page (W7). (3) BIBLE B6 -> B7 : renvoi du duo en SB7. (4) Retrait de l'entree _Table_Noms_Canon.md des Documents de travail (supprimee en B6, note B6). NB : le reste du Sommaire est ENCORE EN VO - la francisation B6 n'y est pas propagee ; passe de francisation a faire (hors perimetre de ce thread).
 - note W12 : refresh de cloture + allegement du journal _Implications (I9 -> I11). AUCUN lore neuf, AUCUN impact lore - resync depuis sources existantes (Sommaire W11, Roadmap_03_Overture, fiches Ere 3, Chronologie C5). (1) PURGE DE LA PEREMPTION pre-Ere 3 : resync du "- statut" (Eres 1-3 DETAILLEES + CLOTUREES cote fiches, roadmaps 1-3 produites, prochaine etape = forer les Eres 4-5) ; dette "Revision DLC de Markiona" -> RESOLUE (tranchee par Roadmap_03 : Ange mu par l'Ordre, cle prise par Magnus [DIVERGENCE RP], convergence Rose Estate par croisement au Zoo) ; pense-betes "Ange reconstruit" clos, "Mort de Markiona" et "cristal de Camille" recibles hors Ere 3. (2) ALLEGEMENT : purge du TEXTE MORT (sous-sections de construction [FAIT], dettes [RESOLU], flags clos, pense-betes tranches, snapshot de versions). Le journal ne garde plus que le VIVANT (regles en vigueur, dettes et pense-betes ouverts) ; discipline gravee dans son en-tete : un item se retire des qu'il est resolu. Seule fiche bumpee : _Implications I9 -> I11.
 - note W11 : peaufinage Stalkers (assignation masque + couleur a tout le roster). Bumps : Les_Stalkers W5, Black_Rabbit_Brotherhood W3, PNJ_secondaires W5 (the Atoned -> la Redemptee, + bloc Ane fou), Boss_et_Creatures W3 (- Mad Donkey : repositionne en allie de Magnus [DIVERGENCE RP], rapatrie dans PNJ_secondaires, sans pointeur), Objets_et_Reliques W3 (Broche Monad en forme de rose), Lea_Florence_Monad W7 (#2 = A : embleme rose = Broche Monad ROUGE de Romeo). RENAME Personnages/Adelina_et_Patricia.md (W1) -> Les_Hiboux.md (W2) : le cercle d'Adelina (la Dame Blanche + le Chouette Medecin) ; supprimer l'ancien fichier sur GitHub. RESYNC versions reelles deja sur GitHub mais en retard dans W10 : Romeo W6, Lumacchio W3, Veronique W5 (Lea cf. ci-dessus, W7). _Implications I8 -> I9 (2 pense-betes Stalkers + flag de peremption pre-Ere 3).
 - note W10 : cloture enrichissement Ere 3 (Overture, 1850). Bumps : Boss_et_Creatures W2 (+ Ange de l'Arc reforge), Objets_et_Reliques W2 (+ Broche Monad, - Monad locket), Magnus W5, Markiona W8, Romeo W5, Lea_Florence_Monad W5, Sophia_Monad W2, Veronique W4. RENAME CANON Lumakio -> Lumacchio propage partout : Personnages/Lumacchio.md (ex-Lumakio.md, W2), Les_Stalkers W3, et residus Madoro W2 / PNJ_secondaires W4 / Pinocchio W5 / Les_Alchimistes W2 / Quartiers_de_Krat W2 / _Table_Noms_Canon W3 (canon Lumacchio, coquilles Lumakio + Lumakia) ; BIBLE B4 -> B5. Chronologie C5 : Ere 3 ROADMAPPEE, echafaudage extrait vers Roadmap_03. Roadmap_03_Overture produite (NON indexee).
@@ -10,7 +11,7 @@
 ## WIKI
 
 > Couche canon LOP (univers Lies of P), construite de zero a partir du transcript (base game + DLC Overture).
-> BIBLE : BIBLE_LORE_LOP.md (racine du repo). Chaque entree porte la version (W<N>) de la page.
+> BIBLE : BIBLE_LORE_LOP.md (racine du repo, B7). Chaque entree porte la version (W<N>) de la page.
 
 ### Personnages/
 Description : fiches noyau des personnages (canon), etat au point de depart.
@@ -38,6 +39,7 @@ Description : fiches noyau des personnages (canon), etat au point de depart.
 - Les_Hiboux.md (W2) - le cercle d'Adelina Corde : sa soeur la Dame Blanche (Patricia) et son amant le Chouette Medecin (Owl Doctor).
 - Lumacchio.md (W3) - chef des Bastards ; traitre au service de Simon.
 - Veronique.md (W5) - cheffe des Sweepers ; piegee par les Alchimistes.
+- Claudia_et_Lucio.md (W2) - le duo d'arnaqueurs de Collodi : la Renarde Rousse (Claudia Volfe, legitime, Bastards) et le Chat Noir (Lucio Volfe, batard, Sweepers), demi-fratrie en double-jeu inter-factions.
 - Archbishop_Andreas.md (W1) - archeveque corrompu ; mute en One-Winged Angel.
 - Cecile.md (W1) - nonne meurtriere ; voleuse de l'Arm of God pour Andreas.
 - Rosaura.md (W2) - pantin-amie de Carlo ; cle echappee (DLC).
@@ -66,7 +68,7 @@ Description : fiches des lieux du monde.
 ### Factions/
 Description : factions et groupes organises.
 - Les_Alchimistes.md (W2) - l'Ordre ; Ouroboros ; schisme Simon/Valentinus.
-- Les_Stalkers.md (W5) - Bastards vs Sweepers ; Stargazers ; Battle of the Workshop Tower.
+- Les_Stalkers.md (W7) - Bastards vs Sweepers ; Stargazers ; Bataille de la Tour des Artisans.
 - Black_Rabbit_Brotherhood.md (W3) - gang de stalkers survivants ; voleurs de corps.
 - Workshop_Union.md (W1) - horlogers de Geppetto ; famille Venigni ; fabrique des pantins.
 
@@ -89,7 +91,6 @@ Description : objets et reliques narrativement significatifs.
 - Objets_et_Reliques.md (W3) - fiche groupee (P-Organ, Golden Ergo, Ergo Wavelength Decoder, Stars Chrysalis, Rose Sword, Holy Mark, Gold Coin Fruit, Broche Monad, Daylight-Wreathed Horn, Ouroboros Eye, portrait de Carlo, Saintess of Mercy, pendentif de Carlo).
 
 ### Documents de travail (non fetches en narration)
-- _Table_Noms_Canon.md (W3) - table coquilles transcript -> noms canon.
 - _Implications.md (I11) - bloc de coordination (regles transversales, dettes, pense-betes ouverts).
 - Chronologie.md (C5) - timeline GLOBALE du parcours de Magnus (calendrier in-world 1847-1852), grosses mailles ; allegee (detail Eres 1-3 -> roadmaps). Echafaudage build-side, jamais fetche en narration. A NE PAS confondre avec BIBLE SB6 (chronologie du MONDE).
 
