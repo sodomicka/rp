@@ -1,6 +1,6 @@
 # Sommaire - Elden_Ring
 
-- version : W1
+- version : W2
 
 Carte de navigation du WIKI et de Parties/. Une entree par page, groupee par dossier.
 
@@ -10,10 +10,12 @@ Carte de navigation du WIKI et de Parties/. Une entree par page, groupee par dos
 
 ### Entites_Primordiales/
 Description : entites de la cosmogonie originelle.
-- Greater_Will_et_One_Great.md (W1) - le One Great (Chaos Primordial), la Greater Will, la fracturation, Metyr-relais, l'Elden Ring comme enjeu.
+- Greater_Will_et_One_Great.md (W2) - le One Great (Chaos Primordial), la Greater Will, la fracturation, Metyr-relais, l'Elden Ring preexistant comme enjeu, la mecanique Inner God.
 
 ### Cosmologie/
-Description : astres, Outer Gods (hors GW), Elden Ring et composants, Metyr. (a construire)
+Description : astres, Outer Gods (hors GW), Elden Ring et composants, Metyr.
+- Outer_Gods.md (W1) - nature des Outer Gods, jeu de pouvoir, mecanique Inner God, roster nominatif (Order, Blood, Flame, Chaos, Death, Rot, Sleep, Night ; Quasi : Dark Moon).
+- Astres.md (W1) - concept d'astre, axes proximite/influence, gradient astre -> Quasi -> Outer -> Inner, roster astral nominatif (Sun, Twin Moon, Eclipse, Blood Star, Primeval Current).
 
 ### Personnages/
 Description : reines, rois consorts, demi-dieux, nommes. (a construire)
