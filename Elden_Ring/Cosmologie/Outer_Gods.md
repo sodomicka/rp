@@ -2,59 +2,50 @@
 
 - version : W1
 
-## Nature
+## Definition
+Astre impose sur les Lands Between, dote des deux axes de proximite (spatial et influence), qui joue le jeu de pouvoir autour de l'Elden Ring. Un Outer God agit toujours par RECEPTACLE : Empyrean, vassal, envoye. (Canon ; le terme "Outer God" est canon, JP sotonaru kami.)
 
-- definition : entites enigmatiques et invisibles, chacune dotee de son "element divin" propre, qui agissent indirectement sur les Lands Between (canon). Un Outer God n'agit en masse qu'a travers un receptacle : Empyrean, vassal ou envoye (canon).
-- origine : un astre devenu Outer God en s'imposant sur les Lands Between, par proximite et influence. [MICKA]
-- rapport a la Greater Will : la GW n'est PAS un Outer God ; elle est au-dessus de la melee et fait des astres des Outer Gods. Le jeu ne nomme jamais la GW "outer god" (cote canon : [INTERPRETATION]) ; lecture tranchee [MICKA]. cf. Entites_Primordiales/Greater_Will_et_One_Great.
-- nomenclature : les noms "God of X" sont une convention interne a ce wiki [MICKA]. Le canon nomme les manifestations (Formless Mother, Fell God...), pas les dieux derriere. Le terme "Outer God" lui-meme est canon (JP : sotonaru kami, "dieu du dehors").
+Nomenclature interne "God of X" : convention de travail [MICKA]. Le canon nomme les MANIFESTATIONS (Formless Mother, Fell God...), pas les dieux derriere. L'objectif de tout Outer God est de s'inscrire dans l'anneau pour devenir Inner God (cf. Elden_Ring).
 
-## Le jeu de pouvoir
+## Succession des Inner Gods
+Trois ordres se sont inscrits successivement dans l'anneau : God of Flame, puis God of Death, puis God of Order (ordre courant). Chaque inscription impose un ordre comme loi fondamentale, jusqu'a etre supplante. [MICKA]
 
-- les Outer Gods sont les joueurs d'un jeu de pouvoir autour de l'Elden Ring. [MICKA]
-- l'Elden Ring : creation de la Greater Will, outil du divin des Lands Between, preexistant. C'est l'enjeu du jeu, pas un trophee transformable. cf. fiche GW.
-- but de la GW dans ce jeu : insondable, inconnaissable par essence. [MICKA]
-- Metyr : mediatrice et maitresse des regles, seul canal vers la GW, tenue hors-jeu pour ne pas fausser la partie -> astre-arbitre, pas un Outer God. [MICKA] cf. fiche GW et Cosmologie/Astres.
-- chaque Outer God a besoin d'un vecteur pour agir (canon : besoin d'un receptacle).
+## God of Fire / Fell God / Eiglay
+Premier Inner God (regne du Flame). "Fell God" est le nom de son REGNE DECHU, anterieur a Lilith. [MICKA]
 
-## Mecanique Inner God
+Manifestation physique : Eiglay, le Serpent-God du Mt. Gelmir (canon pour Eiglay ; l'identification au God of Fire = [MICKA], le canon ne relie jamais Eiglay au feu des Fire Giants ni le Fell God au serpent). Faisceau canon d'Eiglay : Temple of Eiglay, Man-Serpents, Godskin Apostles, God-Devouring Serpent.
 
-- gradient des astres : astre -> Quasi-Outer God -> Outer God -> Inner God. Echelle et axes (proximite, influence) detailles dans Cosmologie/Astres. [MICKA]
-- Outer God : astre qui cumule proximite ET influence, et joue le jeu.
-- Inner God : un Outer God qui s'inscrit dans l'Elden Ring. L'inscription legitime sa place et impose son ordre comme loi fondamentale aux Lands Between. L'anneau est l'objectif de tout Outer God. [MICKA]
-- Inner Gods successifs : des Outer Gods se sont inscrits dans l'anneau tour a tour, chacun imposant son ordre jusqu'a etre supplante. Ordre connu : God of Flame, puis God of Death, puis God of Order. [MICKA] Detail a poser plus tard.
-- Inner God actuel : le God of Order (manifeste en Golden Beast, porte par la Golden Star) a conquis l'anneau via l'Empyrean Marika. Son ordre s'impose comme Golden Order ; le changement de paradigme fait coincider Golden et Elden, d'ou le nom "Elden Beast". [MICKA]
-- note : le Golden Beast ne DEVIENT pas l'anneau ; il le conquiert. [MICKA]
+Trajectoire : renverse par Lilith, puis instrumentalise dans le Crucible (le God-Devouring Serpent devore les dieux pour le compte de Lilith, afin de les verser a l'anneau ; le magma sert de creuset). Rejete a l'ascension de Marika -> redevient Outer God et garde le nom Fell God. [MICKA]
 
-## Roster (nominatif)
+Vehicule recent et distinct : Rykard, qui ravive le culte et se fond au God-Devouring Serpent (canon). Rykard est un porteur tardif, pas le dieu. Le canon ne tranche pas si le Serpent-God est le Base Serpent, le God-Devouring Serpent, leur composite ou une entite distincte. [INCERTAIN canon]
 
-Liste exhaustive. Detail de chaque entite : sa fiche propre (a construire). La certitude indiquee porte sur le statut d'Outer God de l'entite au canon ; les noms "God of X" restent une nomenclature interne [MICKA].
+## God of Death et sa fragmentation
+Inner God de l'ere de Lilith. A l'avenement de l'Order (ascension de Marika), il est FRAGMENTE. [MICKA]
 
-Outer Gods :
-- God of Order - manif. : Golden Beast. [MICKA]
-- God of Blood - manif. : Formless Mother. canon
-- God of Flame - manif. : Fell God. [INTERPRETATION]
-- God of Chaos - manif. : Frenzied Flame. canon
-- God of Death - manif. : [parke]. canon
-- God of Rot - manif. : [a preciser]. canon
-- God of Sleep - manif. : Trina. [MICKA]
-- God of Night - manif. : [parke]. [NIGHTREIGN]
+- Sa forme la plus pure, la Destined Death, est scellee dans la Blackblade (canon ; geste Marika/Maliketh).
+- Les fragments deviennent des Quasi-Outer God : presence sans influence, donc incapables d'avoir un Empyrean sans la Destined Death (cf. Astres). [MICKA]
+- Entites nees de cette fragmentation, fragments et NON nouveaux Outer Gods : le Nightlord [NIGHTREIGN], le Twinbird [NIGHTREIGN], et - suite a la Night of the Black Knives - le Prince of Death (Godwyn). [MICKA]
 
-Quasi-Outer God :
-- Dark Moon - vecteur : l'Empyrean Ranni. [MICKA]
+Perimetre detaille du God of Death (Ghostflame, Eclipse, rapport au God of Night) = thread dedie, non tranche ici.
 
-## Renvois
+## L'ere du Crucible et l'assimilation de Lilith
+Avant l'unification, l'anneau est DENSE / multi-inscrit : plusieurs ordres divins coexistent (paysage polytheiste ; cultes pre-Erdtree disperses, ex. culte d'Eiglay au Mt. Gelmir en guerre contre les Deathbirds). Cette ere est le Crucible. [MICKA]
 
-- detail des entites : leurs fiches propres (a construire).
-- concept d'astre, axes proximite/influence, gradient complet, roster astral : Cosmologie/Astres.
-- Greater Will, One Great, Metyr-relais, Elden Ring-enjeu : Entites_Primordiales/Greater_Will_et_One_Great.
+Lilith (la GEQ, cf. BIBLE SB5), Empyrean du God of Death, lance le projet eponyme : un creuset ou fondre chaque Outer God pour mettre fin au jeu en unifiant tous les participants - un One Great ORDONNE, pas chaotique (a l'oppose du Frenzied Flame). Elle utilise le magma du God of Fire comme creuset, et le God-Devouring Serpent comme devoreur qui verse les dieux a l'anneau. Reattribue l'origine ET l'etymologie du "Crucible" canon (que la source pose comme amalgame primordial de toute vie, sans en faire un projet de la GEQ). [MICKA]
 
-## Points ouverts (parkes)
+Le "pourquoi" de cette assimilation = thread dedie, reporte.
 
-- God of Death : perimetre exact (Ghostflame, Destined Death, Eclipse comme astre du God of Death). thread dedie.
-- God of Death <-> God of Night : entites distinctes ou facettes d'une meme entite. thread dedie.
-- causalite Empyrean <-> Outer God : l'Empyrean est-il le receptacle d'un Outer God, ou un receptacle d'Outer God devient-il Empyrean ? a definir.
-- table astre <-> Outer God : correspondance systematique ou non. a definir (note : Blood Star decorrelee du God of Blood ; piste God of Pain/Punishment [MICKA non finalise], cf. Astres).
+## Outer Gods rejetes a l'ascension de Marika
+De nombreux Inner Gods assimiles par Lilith durant le Crucible retournent au statut d'Outer God quand le Golden Order epure l'anneau, dont : God of Rot, God of Sleep [INCERTAIN appui canon tenu], God of Blood. [MICKA]
+
+## Frenzied Flame / God of Chaos
+Outer God dont la GW s'est delestee, pour une raison qui depasse l'entendement. Veut tout refondre dans l'Un chaotique. JAMAIS assimile par Lilith. [MICKA] (canon muet sur l'origine du Frenzied Flame). Timing de la scission par la GW : a detailler, thread dedie.
+
+## Incertitudes residuelles (table astre <-> Outer God)
+Le principe est tranche (succession, pas simultaneite ; cf. Astres), mais des cas restent ouverts :
+- Blood Star decorrelee du God of Blood ;
+- piste God of Pain / Punishment a finaliser.
+Ouverts [MICKA].
 
 ---
 

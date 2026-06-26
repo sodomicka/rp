@@ -2,51 +2,44 @@
 
 - version : W1
 
-## Nature
+## Astre
+Entite issue de la fracturation, exterieure aux Lands Between. Un astre peut etre aussi bien un corps celeste qu'une entite abstraite ou vivante : la forme n'importe pas. [MICKA]
 
-- definition : un astre est une entite issue de la fracturation, exterieure aux Lands Between. Peut etre aussi bien un corps celeste qu'une entite plus abstraite ou plus vivante : ce qui compte n'est pas la forme mais la proximite et l'influence. [MICKA]
-- naissance : les astres naissent de la fracturation du One Great par la Greater Will, apres la creation de l'Elden Ring. cf. Entites_Primordiales/Greater_Will_et_One_Great.
-- enjeu : tout astre peut devenir Outer God en s'imposant sur les Lands Between, puis Inner God en s'inscrivant dans l'Elden Ring. L'anneau est l'objectif. [MICKA]
+Un astre se rapproche des Lands Between selon DEUX axes :
+- proximite spatiale (un corps qui s'approche, un astre physiquement present) ;
+- influence (un representant Empyrean, vecteur legitime selon les regles ; pas de simples adeptes).
+Ce sont ces deux axes qui determinent le palier de l'astre dans le gradient.
 
-## Les deux axes de proximite
+## Gradient
+Echelle de promotion, du plus lointain au plus inscrit. [MICKA]
 
-- un astre se rapproche des Lands Between selon deux axes : [MICKA]
-  - proximite spatiale : presence physique proche.
-  - influence : un representant Empyrean qui se fait vecteur legitime selon les regles du jeu (pas de simples adeptes).
-- ces deux axes determinent le palier de l'astre dans le gradient.
+astre -> Quasi-Outer God -> Outer God -> Inner God
 
-## Le gradient
+Regle dure : les paliers sont une SUCCESSION, jamais simultanes. Une entite promue Outer God N'EST PLUS un astre ; promue Inner God, elle n'est plus simplement un Outer God. Il n'existe donc pas de correspondance simultanee "tel astre = tel Outer God" : c'est un avant/apres, pas une table de paires. [MICKA]
 
-- astre : aucun des deux axes engage, ou trop distant pour jouer. [MICKA]
-- Quasi-Outer God : un seul des deux axes est rempli (proximite spatiale seule, ou influence seule). [MICKA]
-- Outer God : les deux axes ; l'astre joue le jeu de pouvoir. cf. Cosmologie/Outer_Gods.
-- Inner God : un Outer God inscrit dans l'Elden Ring ; il impose son ordre comme loi fondamentale. cf. Cosmologie/Outer_Gods. [MICKA]
-- Metyr : exception. Premier astre, mediatrice et maitresse des regles, tenue hors-jeu par la GW pour ne pas fausser la partie -> astre-arbitre, jamais Outer God. [MICKA] cf. fiche GW.
+- Quasi-Outer God : astre dote d'UN SEUL axe de proximite (spatial seul, ou influence seule). Recouvre aussi les fragments du God of Death (presence sans influence ; cf. Outer_Gods). [MICKA]
+- Outer God : astre impose sur les Lands Between, dote des deux axes, qui joue le jeu de pouvoir (cf. Outer_Gods).
+- Inner God : Outer God inscrit dans l'Elden Ring (cf. Elden_Ring).
 
-## Roster (nominatif)
+## Metyr
+Premier astre, fille de la GW. Relais et mediatrice, maitresse des regles, seul canal vers la GW.
 
-Liste exhaustive. Les objets sont canon ; leur classement en astre et les lectures associees sont [MICKA] sauf indication. Detail de chaque entite : sa fiche propre (a construire).
+Metyr ne joue PAS le jeu de pouvoir -> ce n'est pas un Outer God, malgre son rang : exception "presente mais arbitre". Elle est l'instrument par lequel la GW arbitre par procuration le jeu qu'elle a institue (cf. Greater_Will_et_One_Great).
 
-- Sun.
-- Twin Moon - deux lunes superposees : Dark Moon + Full Moon. [MICKA]
-  - Dark Moon - composante ; Quasi-Outer God (vecteur : l'Empyrean Ranni).
-  - Full Moon - composante.
-- Eclipse - conjonction Soleil-Lune.
-- Blood Star - piste : porteur d'un God of Pain / Punishment, decorrele du God of Blood. [MICKA non finalise]
-- Primeval Current - courant primordial lie au destin et aux etoiles.
-- autres astres - [a recenser].
+Role operationnel : fournir aux Empyreans les Two Fingers (parole de la GW) et les Shadowbound Beasts (escorte et sanction). Role d'EQUIPEMENT et d'ARBITRAGE, pas de selection.
 
-## Renvois
+## Two Fingers et Shadowbound Beast
+- Two Fingers : envoyes de la GW via Metyr ; portent sa parole et veillent aux regles de l'anneau. Ils EQUIPENT les Empyreans, ils ne les ELISENT pas. [MICKA] sur le retrait du role de selection.
+- Shadowbound Beast (Shadow) : vassal accorde a un Empyrean ; protecteur. Devient Baleful Shadow (malediction) si l'Empyrean devie de sa voie.
 
-- nature des Outer Gods, jeu de pouvoir, mecanique Inner God, roster des Outer Gods : Cosmologie/Outer_Gods.
-- Greater Will, fracturation, Metyr-relais, Elden Ring-enjeu : Entites_Primordiales/Greater_Will_et_One_Great.
+## Empyrean
+Elu candidat a la divinite : vaisseau d'un Outer God.
 
-## Points ouverts (parkes)
+Causalite (tranchee) : c'est l'OUTER GOD qui choisit son vaisseau. Ce choix est ce qui fait d'un etre un Empyrean - l'Empyrean DECOULE de la selection par l'Outer God, il ne la precede pas. [MICKA]
 
-- table astre <-> Outer God : correspondance systematique ou non. a definir.
-- Blood Star : God of Pain / Punishment a finaliser. [MICKA]
-- Eclipse : rapport a regler avec le God of Death (Destined Death). thread dedie.
-- causalite Empyrean <-> Outer God : a definir. cf. Cosmologie/Outer_Gods.
+Metyr et les Two Fingers n'interviennent qu'ensuite, pour equiper (Two Fingers, Shadowbound Beast) et garantir que l'Empyrean suit les regles du jeu de l'anneau. Ils ne choisissent pas qui devient Empyrean. [MICKA]
+
+Marqueur canon d'un Empyrean : absence d'ombre propre, compensee par le Shadowbound Beast attribue. Empyreans canon confirmes : Ranni (Shadow : Blaidd), Miquella. Cas portes par le lore [MICKA] : Lilith (Empyrean du God of Death), Marika (Empyrean du God of Order ; "Empyrean" pour elle = [IMPLICITE fort, a reconfirmer]).
 
 ---
 
