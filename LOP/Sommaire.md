@@ -1,6 +1,7 @@
 # Sommaire - LOP
 
-- version : W14
+- version : W15
+- note W15 : forage de l'Ere 5 entame. (1) Chronologie C6 -> C7 : Ere 5 (base game, 1852+) DECOUPEE en 6 parties (decision worldbuilder) ; 2 lieux francises - Workshop Union -> Parlement des Artisans (uniformise l'incoherence BIBLE SB3/SB4), Venigni Works -> Fabrique Artisanale Venigni. (2) NOUVELLE ROADMAP : Roadmap_05_1_Le_Reveil (R1, ch.1-2 du jeu, NON indexee, source de build). (3) _Implications I12 -> I13 : dettes de fiches du forage 5.1 consignees (bapteme "Pinocchio" par Magnus ; entree a l'Hotel Krat SANS mensonge ; Magnus traduit les ondes d'Ergo ; confidence de Lea "P ~ Carlo" a reporter en fiche Magnus ; "Camille mentor de Markiona" a solidifier en fiche Markiona ; Ane fou epargne/allie a caler ; Trajectoires Ere 5 ; propagation BIBLE). (4) BIBLE INCHANGEE (B7) : propagation "Parlement des Artisans" (correction SB4) + ajout "Fabrique Artisanale Venigni" RESERVES au prochain BIBLE BUILD. AUCUNE fiche bumpee dans ce thread (les bumps 5.1 sont en DETTE, cf. I13).
 - note W14 : cloture du volet Ere 4 (La Frenzy, hiver 1850-1851 -> printemps 1852). Bumps de fiches : Magnus W5 -> W6, Markiona W8 -> W9, Sophia_Monad W2 -> W3, Black_Rabbit_Brotherhood W3 -> W5 (RATTRAPAGE : le bump W4 produit au thread Ere 3 n'avait jamais ete indexe ici - le Sommaire affichait encore W3 ; corrige en meme temps que le passage W5 de cet arc). Roadmap_04_La_Frenzy produite (R1, NON indexee, source de build). Chronologie C5 -> C6 (Ere 4 ROADMAPPEE : echafaudage extrait vers Roadmap_04, cadre de dates "hiver 1850-1851 -> printemps 1852" grave). _Implications I11 -> I12 (pense-betes mort de Markiona + cristal de Camille recibles Ere 5 ; ajout des arbitrages "sort de Sophia" et "ironie King of Puppets"). BIBLE INCHANGEE (B7) : aucun fait canon structurel neuf a l'Ere 4 (le calendrier in-world vit en Chronologie, pas en SB6 - cf. pense-bete _Implications, inscription en SB6 reportee au CODEX/SETUP).
 - note W13 : indexation du duo + bumps de cloture du thread. (1) NOUVELLE FICHE : Personnages/Claudia_et_Lucio.md (W2) - la Renarde Rousse (Claudia Volfe) / le Chat Noir (Lucio Volfe), ex-sous-section de Les_Stalkers, desormais fiche commune dediee. (2) Factions/Les_Stalkers.md W5 -> W7 : sortie du duo vers la fiche (W6) + francisation B6 de toute la page (W7). (3) BIBLE B6 -> B7 : renvoi du duo en SB7. (4) Retrait de l'entree _Table_Noms_Canon.md des Documents de travail (supprimee en B6, note B6). NB : le reste du Sommaire est ENCORE EN VO - la francisation B6 n'y est pas propagee ; passe de francisation a faire (hors perimetre de ce thread).
 - note W12 : refresh de cloture + allegement du journal _Implications (I9 -> I11). AUCUN lore neuf, AUCUN impact lore - resync depuis sources existantes (Sommaire W11, Roadmap_03_Overture, fiches Ere 3, Chronologie C5). (1) PURGE DE LA PEREMPTION pre-Ere 3 : resync du "- statut" (Eres 1-3 DETAILLEES + CLOTUREES cote fiches, roadmaps 1-3 produites, prochaine etape = forer les Eres 4-5) ; dette "Revision DLC de Markiona" -> RESOLUE (tranchee par Roadmap_03 : Ange mu par l'Ordre, cle prise par Magnus [DIVERGENCE RP], convergence Rose Estate par croisement au Zoo) ; pense-betes "Ange reconstruit" clos, "Mort de Markiona" et "cristal de Camille" recibles hors Ere 3. (2) ALLEGEMENT : purge du TEXTE MORT (sous-sections de construction [FAIT], dettes [RESOLU], flags clos, pense-betes tranches, snapshot de versions). Le journal ne garde plus que le VIVANT (regles en vigueur, dettes et pense-betes ouverts) ; discipline gravee dans son en-tete : un item se retire des qu'il est resolu. Seule fiche bumpee : _Implications I9 -> I11.
@@ -58,7 +59,7 @@ Description : fiches des lieux du monde.
 - Relic_of_Trismegistus.md (W1) - gouffre, Crowd, mine d'Ergo.
 - Aisle_of_Alchemists_Arch_Abbey.md (W1) - ile etrangere des Alchimistes ; machine d'Ergo.
 - Cathedrale_St_Frangelico.md (W1) - cathedrale d'Andreas ; Arm of God.
-- Venigni_Works.md (W1) - usine de Lorenzini Venigni ; prise par Fuoco.
+- Venigni_Works.md (W1) - usine de Lorenzini Venigni (= Fabrique Artisanale Venigni) ; prise par Fuoco.
 - Grand_Exhibition.md (W1) - showcase jamais tenu ; drogue/elixir ; Champion Victor.
 - Krat_Zoo.md (W2) - DLC : Colonel Little, Markiona, carnival.
 - Zelator_Facility.md (W2) - DLC : Listener experiments ; Gold Coin Tree.
@@ -71,7 +72,7 @@ Description : factions et groupes organises.
 - Les_Alchimistes.md (W2) - l'Ordre ; Ouroboros ; schisme Simon/Valentinus.
 - Les_Stalkers.md (W7) - Bastards vs Sweepers ; Stargazers ; Bataille de la Tour des Artisans.
 - Black_Rabbit_Brotherhood.md (W5) - gang de stalkers survivants ; voleurs de corps.
-- Workshop_Union.md (W1) - horlogers de Geppetto ; famille Venigni ; fabrique des pantins.
+- Workshop_Union.md (W1) - horlogers de Geppetto (= Parlement des Artisans) ; famille Venigni ; fabrique des pantins.
 
 ### Systemes/
 Description : systemes et regles du monde.
@@ -92,13 +93,13 @@ Description : objets et reliques narrativement significatifs.
 - Objets_et_Reliques.md (W3) - fiche groupee (P-Organ, Golden Ergo, Ergo Wavelength Decoder, Stars Chrysalis, Rose Sword, Holy Mark, Gold Coin Fruit, Broche Monad, Daylight-Wreathed Horn, Ouroboros Eye, portrait de Carlo, Saintess of Mercy, pendentif de Carlo).
 
 ### Documents de travail (non fetches en narration)
-- _Implications.md (I12) - bloc de coordination (regles transversales, dettes, pense-betes ouverts).
-- Chronologie.md (C6) - timeline GLOBALE du parcours de Magnus (calendrier in-world 1847-1852), grosses mailles ; allegee (detail Eres 1-4 -> roadmaps). Echafaudage build-side, jamais fetche en narration. A NE PAS confondre avec BIBLE SB6 (chronologie du MONDE).
+- _Implications.md (I13) - bloc de coordination (regles transversales, dettes, pense-betes ouverts).
+- Chronologie.md (C7) - timeline GLOBALE du parcours de Magnus (calendrier in-world 1847-1852), grosses mailles ; allegee (detail Eres 1-4 -> roadmaps) ; Ere 5 decoupee en 6 parties. Echafaudage build-side, jamais fetche en narration. A NE PAS confondre avec BIBLE SB6 (chronologie du MONDE).
 
-> ROADMAPS (par arc) : Roadmap_01_Eveil (Ere 1, R1), Roadmap_02_Les_Loups (Ere 2, R1), Roadmap_03_Overture (Ere 3, R1) et Roadmap_04_La_Frenzy (Ere 4, R1) PRODUITES. NON indexees (sources de build, v8.2 : jamais fetchees en jeu ; se lisent en listant LOP/Roadmap/Magnus/). Roadmap Ere 5 a produire ensuite.
+> ROADMAPS (par arc) : Roadmap_01_Eveil (Ere 1, R1), Roadmap_02_Les_Loups (Ere 2, R1), Roadmap_03_Overture (Ere 3, R1), Roadmap_04_La_Frenzy (Ere 4, R1) et Roadmap_05_1_Le_Reveil (Ere 5, partie 1/6, R1) PRODUITES. NON indexees (sources de build, v8.2 : jamais fetchees en jeu ; se lisent en listant LOP/Roadmap/Magnus/). Ere 5 DECOUPEE en 6 parties (cf. Chronologie C7) : 5.1 PRODUITE, 5.2-5.6 a forer.
 > FICHES D'ARC / CODEX : pas encore produits comme livrables dedies (Passe 3).
-> Statut Passe 2 (boucle serree) : Eres 1 (1847), 2 (1848-1850), 3 (Overture, 1850) et 4 (La Frenzy, hiver 1850-1851 -> printemps 1852) DETAILLEES et CLOTUREES cote fiches ; roadmaps : Eres 1-4 produites ; Ere 5 a forer.
-> L'echafaudage des eres vit dans Chronologie.md (Documents de travail, C6, allegee : Eres 1-4 -> roadmaps) ; les Fiches_Arc/ et le CODEX viendront en Passe 3.
+> Statut Passe 2 (boucle serree) : Eres 1 (1847), 2 (1848-1850), 3 (Overture, 1850) et 4 (La Frenzy, hiver 1850-1851 -> printemps 1852) DETAILLEES et CLOTUREES cote fiches ; roadmaps Eres 1-4 produites. Ere 5 (base game, 1852+) DECOUPEE en 6 parties : 5.1 (Le Reveil) FOREE ; 5.2-5.6 a forer. Bumps de fiches du forage 5.1 EN DETTE (cf. _Implications I13). Relecture croisee de cloture : APRES la derniere partie (5.6).
+> L'echafaudage des eres vit dans Chronologie.md (Documents de travail, C7 ; Eres 1-4 -> roadmaps, Ere 5 decoupee) ; les Fiches_Arc/ et le CODEX viendront en Passe 3.
 
 ---
 
