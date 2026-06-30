@@ -1,6 +1,6 @@
 # Muzan
 
-- version : W2
+- version : W3
 
 ## Identite
 - nom demon : Muzan Kibutsuji
@@ -60,6 +60,12 @@ Plafond : 15 entrees max.
 |---|---|---|
 | Ere Sengoku, XVe s. (R2) | Tourne le couple (les eprouve d'une dose quasi-mortelle apres avoir ete devine) | gagne Kokushibo et Tsukiyo, demons sous sa laisse (encore pions a ce stade) |
 | Ere Sengoku, XVe s. (R2) | Tourne Tamayo (sous couvert de soin) devant le couple, au fil de la decennie d'errance | gagne Tamayo, demone sous sa laisse |
+| Ere Sengoku tardive, XVe s. (R3) | Comprend qu'unis le couple le depasse et se met a les craindre | perd ses deux leviers sur le couple (laisse + nom) ; equilibre de terreur a trois ; fulmine sans pouvoir agir |
+| Ere Sengoku tardive, XVe s. (R3) | Co-acte le programme des Douze Kizuki (concu par Tsukiyo) ; balaie l'avertissement sur Tamayo | tient le programme pour LA voie de guerison ; Kokushibo Lune Un, Tsukiyo Lune Deux |
+| XVIe s. (R3) | Sent la laisse de Tamayo ceder | perd le controle d'une demone (renegate) ; enrage |
+| XVIe s. (R4) | Recoit Akaza de Tsukiyo et se l'approprie par reinjection | gagne une Lune Sup Trois (a lui, non a la lignee) |
+| XVIe s. (R4) | Accorde Doma a l'obedience de Tsukiyo, mais pose le principe : tout vassal garde se paiera en offrandes | dette ouverte sur la lignee (soldee R5) |
+| XVIIe s. (R4) | Recoit Hantengu en don gratuit (reinjection) | gagne une Lune Sup Quatre, jouet partage |
 
 ## Notes
 - certitude : canon (Muzan Kibutsuji), inflechi par les divergences RP.

@@ -1,6 +1,6 @@
 # Tamayo
 
-- version : W2
+- version : W3
 
 ## Identite
 - nom demon : Tamayo
@@ -57,6 +57,7 @@ Plafond : 15 entrees max.
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | Ere Sengoku, XVe s. (R2) | Tournee par Muzan vers 19 ans (sous couvert de soigner sa maladie), devant le couple ; rejoint la troupe | humaine -> demone sous la laisse de Muzan ; massacre de sa famille sous l'emprise (jeune demone) [reveil/depart = R3] |
+| XVIe s. (R3) | Envoyee raser un village, retrouve son humanite devant un enfant eventre ; brise les DEUX leviers (reveil de l'humain, non terreur) ; cree Yushiro de son sang libre | affranchie de Muzan ; troisieme pole renegate ; Tsukiyo jure sa perte |
 
 ## Notes
 - certitude : canon (Tamayo, medecin demone affranchie de Muzan, art du sang olfactif, creatrice de Yushiro, refus de tuer), inflechi par les divergences RP (mecanisme de rupture par le village et l'enfant, cible juree du couple, rivalite avec Tsukiyo, double rupture des leviers).

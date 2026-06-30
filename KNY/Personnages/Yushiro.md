@@ -1,6 +1,6 @@
 # Yushiro
 
-- version : W1
+- version : W2
 
 ## Identite
 - nom demon : Yushiro
@@ -56,6 +56,7 @@ Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| XVIe s. (R3) | Cree par Tamayo de son sang libre | naissance ; demon au sang libre (fidele a Tamayo, non a Muzan) ; debut de plusieurs siecles d'existence |
 
 ## Notes
 - certitude : canon (Yushiro, cree par Tamayo, art du sang de perception, tsundere devot, refus de la chair humaine, immunite a Muzan), inflechi par les divergences RP (epoque de creation -> plusieurs siecles, sang libre).

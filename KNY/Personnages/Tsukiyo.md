@@ -1,6 +1,6 @@
 # Tsukiyo
 
-- version : W5
+- version : W6
 - autre forme : cf. WIKI Personnages/Tsumiki.md (forme humaine, vie close a 21 ans)
 
 ## Identite
@@ -67,7 +67,7 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 - Kokushibo (Michikatsu Tsugikuni) : epoux, egal, jumeau aine de Yoriichi. Amour fou et reciproque. A elle, pas a Muzan.
 - Muzan Kibutsuji : rival et allie force ; froideur clinique. Equilibre de destruction mutuelle.
 - Nakime : fille adoptive et protegee ; aussi sa creation et sa favorite. Satellite de Kokushibo comme elle.
-- Doma : prodige et favori ; sa creation. Lune sous son obedience (deal negocie avec Muzan).
+- Doma : prodige et favori joue (un jeu et un levier de plus, zero affection - seule Nakime compte) ; sa creation. Lune sous son obedience (deal negocie avec Muzan).
 - Akaza : sa creation directe ; indifference, brute sans psyche distrayante a ses yeux.
 - Hantengu : sa creation-jouet, maltraitee pour le plaisir puis donnee a Muzan.
 - Gyokko : humain mourant qu'elle deniche et livre a Muzan ; tourne par le roi, pas par elle.
@@ -85,6 +85,12 @@ Plafond : 15 entrees max.
 | Ere Sengoku, XVe s. (R2) | Demonisation a 21 ans (Muzan l'eprouve d'une dose quasi-mortelle) | humaine -> demone ; echappe a la sentence des 25 ans de la Marque ; Souffle des Tenebres re-canalise par les cheveux (Kekkijutsu capillaire naissant) ; laisse sanguine de Muzan ACTIVE |
 | Ere Sengoku, XVe s. (R2) | Decennie d'errance : forge avec Kokushibo la Danse des Dieux de la Lune (demon-only, anti-Yoriichi) ; voit Muzan tourner Tamayo | maitrise la Danse ; inimitie envers Tamayo pre-chargee (la voit faite demone sous ses yeux) |
 | Ere Sengoku, XVe s. (R2) | Tue Yoriichi a deux avec Kokushibo (Danse des Dieux de la Lune) | couple au tier-Muzan EN PUISSANCE (laisse encore active, rupture = R3) ; haine de Yoriichi commence a muer en fierte |
+| Ere Sengoku tardive, XVe s. (R3) | Le couple affranchi des deux leviers (Muzan les craint) ; bascule vers l'obsession du soleil | de pion a joueuse ; equilibre de terreur a trois ; peut prononcer "Kibutsuji" sans mourir ; obsession du soleil = objectif de fond |
+| Ere Sengoku tardive, XVe s. (R3) | Accede a Lune Superieure Deux ; co-concoit le programme des Douze Kizuki avec Muzan ; met en garde contre Tamayo (balaye) | Lune Sup Deux ; matriarche d'un vivier anti-soleil ; avertissement Tamayo ignore |
+| XVIe s. (R3) | Tamayo brise les leviers et passe renegate ; Tsukiyo jure sa perte | prediction realisee ; nemesis juree ouverte |
+| XVIe s. (R4) | Cree Akaza (carnage du dojo rival) ; n'y voit qu'une brute, l'offre a Muzan qui se l'approprie | premiere Lune de la lignee ; Akaza echu a Muzan (Lune Sup Trois), non vassal |
+| XVIe s. (R4) | Cree Doma (la secte) ; le garde en vassal, lui ordonne de paraitre faible (Lune Six) et de monter vite pour aiguillonner Akaza ; Muzan pose le principe des offrandes | vassal-prodige acquis (dette : tout vassal garde se paie en offrandes) ; reseau de rabattage integre |
+| XVIIe s. (R4) | Cree Hantengu par cruaute ludique (souffre-douleur de Doma et Akaza) ; l'offre gratuitement a Muzan | jouet cede a Muzan (Lune Sup Quatre) ; trois Lunes anciennes en grille |
 
 ## Notes
 - certitude globale : OC [DIVERGENCE RP]. Aucun filet canon hors de cette fiche.

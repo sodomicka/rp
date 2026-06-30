@@ -1,6 +1,6 @@
 # Kokushibo
 
-- version : W4
+- version : W5
 - autre forme : cf. WIKI Personnages/Michikatsu.md (forme humaine, vie close a 24 ans)
 
 ## Identite
@@ -64,6 +64,9 @@ Plafond : 15 entrees max.
 | Ere Sengoku, XVe s. (R2) | Premier festin (village devore) | abandonne son Nichirin de pourfendeur pour un katana de chair ; fausse mort du couple scellee (Yoriichi les croit devores) |
 | Ere Sengoku, XVe s. (R2) | Forge avec Tsukiyo la Danse des Dieux de la Lune | technique de couple demon-only acquise (arme anti-Yoriichi) |
 | Ere Sengoku, XVe s. (R2) | Tue Yoriichi a deux avec Tsukiyo | couple au tier-Muzan EN PUISSANCE (laisse encore active, rupture = R3) ; le meurtre tranche son complexe d'inferiorite [bascule profonde = R3] |
+| Ere Sengoku tardive, XVe s. (R3) | Le couple affranchi des deux leviers ; bascule (le complexe d'inferiorite envers Yoriichi tombe) | de pion a joueur ; le frere n'a jamais ete le probleme ; obsession du soleil partagee |
+| Ere Sengoku tardive, XVe s. (R3) | Accede a Lune Superieure Un ; ouvre 2 yeux de plus ; legitime le programme Kizuki concu par Tsukiyo | Lune Sup Un (des siecles durant) ; 4 yeux ouverts / 2 fermes |
+| XVIe-XVIIe s. (R4) | S'entraine sans relache pendant que Tsukiyo forge ses Lunes | ouvre ses 2 derniers yeux -> 6 ouverts (tous) ; maitrise affinee, en retrait des creations |
 
 ## Notes
 - certitude : canon (Kokushibo / Michikatsu), inflechi par les divergences RP.

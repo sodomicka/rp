@@ -1,6 +1,6 @@
 # Akaza
 
-- version : W2
+- version : W3
 
 ## Identite
 - nom demon : Akaza
@@ -52,7 +52,7 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 ## Relations
 - Tsukiyo (Tsumiki Tsugikuni) : sa creatrice, indifferente a lui. Il cherche a lui plaire, n'obtient rien : le sens unique le ronge. Il ne lui appartient pas - elle ne le revendique pas comme ses favoris.
 - Muzan Kibutsuji : son suzerain reel ; c'est a lui qu'Akaza appartient, et non a la lignee qui l'a fait. Muzan se l'est approprie en lui reinjectant son sang a l'offre de Tsukiyo.
-- Doma : co-creation de Tsukiyo, rival de rang et favori visible de la maitresse. Cible de toute la frustration d'Akaza. L'a battu a la loyale pour la Lune Superieure Deux ; Akaza nie la defaite et exige revanche, Doma repond par un rire insincere. Akaza ignore le vrai ressort du favoritisme : l'utilite, pas la force.
+- Doma : co-creation de Tsukiyo, rival de rang et favori visible de la maitresse. Cible de toute la frustration d'Akaza. L'a battu a la loyale pour la Lune Superieure Deux ; Akaza nie la defaite et exige revanche, Doma repond par un rire insincere. Akaza ignore le vrai ressort du favoritisme : l'utilite, pas la force. Il ignore aussi que l'ascension de Doma (parti faible, Lune Six) fut un aiguillon tendu par Tsukiyo pour le pousser, lui, a se depasser.
 - Hantengu : souffre-douleur commun avec Doma. Creature-jouet de Tsukiyo, defouloir partage des deux Lunes.
 - Tamayo (miroir, sans contact) : le seul autre demon qui POURRAIT connaitre un reveil de l'humanite, mais la sienne reste muree faute de souvenirs. S'il les retrouvait, il detesterait ce qu'il est devenu. Miroir noir de Tamayo - aucun contact entre eux, simple echo thematique (hypothese contrefactuelle ; ne pas presumer une recuperation de memoire, cf. Notes).
 - Kokushibo : moitie du couple, tres au-dessus de lui ; rapport lointain, sans lien particulier.
@@ -64,6 +64,8 @@ Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| XVIe s. (R4) | Tourne par Tsukiyo (reperee au carnage du dojo) ; offert a Muzan qui se l'approprie par reinjection | humain (Hakuji) -> demon ; Lune Superieure Trois ; appartient a Muzan, non a la lignee ; besoin frustre de plaire a Tsukiyo |
+| XVIe s. (R4) | Tsukiyo lance Doma comme rival monte de Lune Six : aiguillon pour le pousser a se depasser | rivalite (en partie fabriquee) avec Doma installee ; rancoeur de fond amorcee |
 
 ## Notes
 - certitude : canon (Akaza / Hakuji), inflechie par les divergences RP (createur = Tsukiyo et non Muzan ; indifference subie ; reprise par Muzan via reinjection ; defaite a la loyale contre Doma et revanche perpetuelle ; appartenance a Muzan plutot qu'a la lignee).

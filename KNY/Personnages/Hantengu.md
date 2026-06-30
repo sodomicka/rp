@@ -1,6 +1,6 @@
 # Hantengu
 
-- version : W1
+- version : W2
 
 ## Identite
 - nom demon : Hantengu
@@ -63,6 +63,7 @@ Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| XVIIe s. (R4) | Tourne par Tsukiyo par pure cruaute ludique (deja d'age avance), souffre-douleur de Doma et Akaza ; offert gratuitement a Muzan (reinjection) | humain -> demon ; Lune Superieure Quatre ; defouloir des deux Lunes ; non-candidat anti-soleil |
 
 ## Notes
 - certitude : canon (Hantengu, art du sang, six manifestations, rang Sup 4), inflechi par les divergences RP (createur = Tsukiyo et non Muzan, creature-jouet, don gratuit a Muzan, souffre-douleur de Doma/Akaza).
