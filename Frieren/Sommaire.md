@@ -1,6 +1,6 @@
 # Sommaire - Frieren
 
-- version : W19
+- version : W20
 
 ## WIKI
 
@@ -233,6 +233,7 @@ Description : fiches de narration par arc (mini-bible autosuffisante tronquee a 
 ### Suivi/
 - Schein_Fiche.md - type : instance jouee du protagoniste (backstory FROIDE + identite)
 - Lore_Partie.md - type : lore de partie (mecaniques et divergences apparues en jeu, non encore canonisees au WIKI : regeneration native, Zoltraak nourri par la douleur, bouclier apprenant, contrecoup a paliers, illisibilite constitutive ; migrees au WIKI le jour d'un WIKI BUILD)
+- Ere_Chateau_Refroidi.md - type : memoire REFROIDIE de l'ere du Chateau (casting, lieux et morts sortis durablement de scene a la cloture de l'ere : Roi des Demons, Schlacht, Grausam - retour decennal arme -, Qual, escouade Basalt/Porphyr/Gabbro (morts), palais d'Ende, Bluete, terrains de traque). Index Refroidi permanent du CODEX (cf. CODEX ANNEXE_CHRONO). Detail narratif : archives Memoire_Frieren_1..4 (hors repo).
 
 ### Archives/
 - (aucune page indexee)
