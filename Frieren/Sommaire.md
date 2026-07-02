@@ -1,6 +1,6 @@
 # Sommaire - Frieren
 
-- version : W18
+- version : W19
 
 ## WIKI
 
@@ -232,6 +232,7 @@ Description : fiches de narration par arc (mini-bible autosuffisante tronquee a 
 
 ### Suivi/
 - Schein_Fiche.md - type : instance jouee du protagoniste (backstory FROIDE + identite)
+- Lore_Partie.md - type : lore de partie (mecaniques et divergences apparues en jeu, non encore canonisees au WIKI : regeneration native, Zoltraak nourri par la douleur, bouclier apprenant, contrecoup a paliers, illisibilite constitutive ; migrees au WIKI le jour d'un WIKI BUILD)
 
 ### Archives/
 - (aucune page indexee)
