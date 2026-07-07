@@ -1,6 +1,6 @@
 # Sommaire - CSM
 
-- version : W3
+- version : W4
 
 ## WIKI
 
@@ -8,7 +8,7 @@
 
 ### (racine)
 Description : pages de travail et index.
-- _Implications.md (W3) - journal de travail du build (jamais fetche en narration)
+- _Implications.md (W4) - journal de travail du build (jamais fetche en narration)
 
 > ROADMAPS NON INDEXEES EN JEU (v8.2). Le dossier `Roadmap/<Prota>/` ne sera pas liste ici. Sources de build uniquement, lues par listing de dossier.
 
@@ -21,15 +21,20 @@ Description : fiches d'entites neutres (NOYAU + Trajectoire datee).
 - Tenebres.md (W1) - Primordial, deuxieme engeance de Mort, epee de Damocles au-dessus du trone
 - Vieillesse.md (W1) - Primordial, troisieme engeance de Mort, seul Primordial pleinement fidele au trone
 - Famine.md (W1) - Cavaliere, premiere des trois de societes ; drain vital nourricier ; insoumise par depit
-- Guerre.md (W1) - Cavaliere, deuxieme des societes ; Yoru ; mere de Flingue et Tank ; jamais soumise
+- Guerre.md (W1) - Cavaliere, deuxieme des societes ; Yoru ; source de Flingue et Tank ; jamais soumise
 - Controle.md (W1) - Cavaliere, troisieme des societes ; Makima ; convoitise mutuelle avec Effroi (moteur du RP)
 - Tronconneuse.md (W1) - engeance d'Effroi (Effacement) ; ex-garde rapprochee rebelle ; effacement conceptuel ; reduite dans les annees 80
+- Katana.md (W1) - demon-arme du sabre, engeance de Guerre fidele au trone ; brute docile, candidat ideal a l'hybridation
+- Arc.md (W1) - fiche double : demon des armes de trait + Quanxi, premiere hybride du programme d'Effroi, "Premiere Devil Hunter"
+- Bombe.md (W1) - arme detonante de facade chez Guerre, agent double au service d'Effroi ; la plus maligne de l'arsenal
+- Flingue.md (W1) - engeance directe de Guerre, detonante ; auteur de l'attaque mondiale du 18 novembre 1984
+- Tank.md (W1) - engeance directe de Guerre, detonante ; brute blindee aux grincements mecaniques
 
 ### Lieux/
 Description : lieux du monde ; une entite double lieu+demon y vit en fiche unique.
 - Enfer.md (W1) - le plan ET le demon qui l'incarne ; Royaume d'Effroi, second pilier du trone
 
-Fiches restantes en Passe 1 : cinq fiches individuelles de demons-armes (Katana, Arc, Bombe, Flingue, Tank) + une fiche groupee (Espadon/Lance-flammes/Fouet/Lance) ; page genealogie en cloture. Puis etape HISTOIRE GLOBALE (pre-roadmap). Aucune fiche d'arc a ce stade.
+Fiches restantes en Passe 1 : une fiche groupee des quatre dernieres armes anciennes (Espadon/Lance-flammes/Fouet/Lance, "The Weapons") + page genealogie / liste des naissances en cloture. Puis etape HISTOIRE GLOBALE (pre-roadmap). Aucune fiche d'arc a ce stade.
 
 ## PARTIES (Partie1)
 
