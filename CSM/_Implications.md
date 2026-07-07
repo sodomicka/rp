@@ -58,13 +58,14 @@ La BIBLE B1 est PERIMEE sur ces points ; les fiches WIKI priment en attendant B2
 - Dispositif d'immortalite de Controle (contrat renvoyant ses blessures sur des humains) : modalites et anciennete (actif des 1984 ?) [INCERTAIN] - differe a l'histoire globale.
 - Forme veritable humanoide de Guerre : [INCERTAIN], a decrire. Tenue de Guerre : [INCERTAIN].
 - Motif de la rebellion de Tronconneuse : differe (histoire globale).
+- Demons-armes : canon = 7 Weapon Devils (Katana, Bombe, Arc, Espadon, Lance-flammes, Lance, Fouet) ayant servi sous les 4 Cavalieres et combattu Pochita (= notre massacre des annees 80) ; + Flingue et Tank, enfants de Guerre, hors des 7 ; Armes-Nucleaires effacee (annees 40), hors roster. En canon ils fusionnent plus tard avec des humains (Weapon Humans, P1/P2). Regroupes en 2 fiches : (A) Katana/Arc/Bombe/Flingue/Tank, (B) Espadon/Lance-flammes/Fouet/Lance ("The Weapons" canoniques). Allegeance dans la timeline et etat 1984 (deja fusionnes ou non) : a trancher a la construction.
 
 ## Boite scellee SB8 - etat
 - Titre de "premiere Reine" (Mort) : succession/vacance TOUJOURS scellee (resonne avec la convoitise Effroi-Controle). Ne pas creuser.
 - Plan de Makoto 1984 : PARTIELLEMENT ouvert. La reduction de Pochita est desormais RACONTEE (rebellion -> massacre annees 80 par Effroi + les 4 Cavalieres + demons-armes -> reduit -> fuite sur Terre). Reste FERME et differe a l'HISTOIRE GLOBALE (pre-roadmap) : le raccord entre l'attaque mondiale de Flingue de 1984, la rivalite Guerre-Controle (Guerre lancerait Flingue pour ne pas se laisser distancer) et la reduction de Pochita.
 
 ## A faire aux passes suivantes
-- Passe 1 (reste) : fiches NOYAU Bombe, puis les demons-armes (Flingue, Tank) ; page WIKI genealogie / liste des naissances en cloture ; detailler les factions humaines (Securite Publique et autres) dans le perimetre 1984 -> P1.
+- Passe 1 (reste) : deux fiches NOYAU groupees de demons-armes - (A) Katana/Arc/Bombe/Flingue/Tank, (B) Espadon/Lance-flammes/Fouet/Lance ; page WIKI genealogie / liste des naissances en cloture ; detailler les factions humaines (Securite Publique et autres) dans le perimetre 1984 -> P1.
 - HISTOIRE GLOBALE / pre-roadmap (etape ajoutee par le worldbuilder) : recit du passe reconfigure par la presence d'Effroi ; debloque les zones differees (raccord 1984 Flingue/Pochita, activite de Controle, motif de la rebellion). Nourrit SB3.
 - Cloture Passe 1 : BIBLE BUILD B2 (integrer tous les patches ci-dessus).
 - Cloture Passe 2 : reverifier la coherence 1984 (Flingue / Pochita / plan de Makoto) une fois la boite SB8 pleinement ouverte.

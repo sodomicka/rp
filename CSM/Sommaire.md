@@ -29,7 +29,7 @@ Description : fiches d'entites neutres (NOYAU + Trajectoire datee).
 Description : lieux du monde ; une entite double lieu+demon y vit en fiche unique.
 - Enfer.md (W1) - le plan ET le demon qui l'incarne ; Royaume d'Effroi, second pilier du trone
 
-Fiches restantes en Passe 1 : Bombe, puis les demons-armes (Flingue, Tank) ; page genealogie en cloture. Puis etape HISTOIRE GLOBALE (pre-roadmap). Aucune fiche d'arc a ce stade.
+Fiches restantes en Passe 1 : deux fiches groupees de demons-armes - (A) Katana/Arc/Bombe/Flingue/Tank, (B) Espadon/Lance-flammes/Fouet/Lance ; page genealogie en cloture. Puis etape HISTOIRE GLOBALE (pre-roadmap). Aucune fiche d'arc a ce stade.
 
 ## PARTIES (Partie1)
 
