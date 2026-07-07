@@ -1,6 +1,6 @@
 # Sommaire - CSM
 
-- version : W5
+- version : W6
 
 ## WIKI
 
@@ -8,7 +8,7 @@
 
 ### (racine)
 Description : pages de travail et index.
-- _Implications.md (W5) - journal de travail du build (jamais fetche en narration)
+- _Implications.md (W6) - journal de travail du build (jamais fetche en narration)
 
 > ROADMAPS NON INDEXEES EN JEU (v8.2). Le dossier `Roadmap/<Prota>/` ne sera pas liste ici. Sources de build uniquement, lues par listing de dossier.
 
@@ -39,8 +39,9 @@ Description : lieux du monde ; une entite double lieu+demon y vit en fiche uniqu
 ### Systemes/
 Description : pages systeme transversales (regles, arbres, index thematiques).
 - Genealogie.md (W1) - liste des naissances et lignees conceptuelles ; regles du plancher et de l'outil/arme ; registre des devores
+- Histoire.md (W1) - recit du passe reconfigure par Effroi, de la premiere peur a 1984 ; nourrit le SB3 (Chronologie)
 
-PASSE 1 TERMINEE. Prochaines etapes : BIBLE BUILD B2 + toilettage des fiches (cf. _Implications W5, section A faire), puis HISTOIRE GLOBALE (thread dedie), puis factions humaines (reporte). Aucune fiche d'arc a ce stade.
+PASSE 1 TERMINEE. HISTOIRE GLOBALE TERMINEE (Systemes/Histoire.md + patches 36-53, cf. _Implications W6). Prochaine etape : BIBLE BUILD B2 (patches 1-53) + toilettage des fiches + integration des _Implications (cf. _Implications W6, section A faire). Ensuite : Passe 2 (roadmaps), puis factions humaines (reporte). Aucune fiche d'arc a ce stade.
 
 ## PARTIES (Partie1)
 
