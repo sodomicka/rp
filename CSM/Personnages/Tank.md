@@ -1,6 +1,6 @@
 # Tank
 
-- version : W1
+- version : W2
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -27,6 +27,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Blindage : durabilite massive - fait pour encaisser et avancer. [IMPLICITE - extrapole du concept]
 - Multiplicateur de feu : en canon (indice tardif, hors perimetre), sa puissance transformee dechaine d'un coup un arsenal entier stocke. [CANON]
 - Capacites demoniaques standard : contrats contre un prix, regeneration par le sang. [CANON]
+- Canal contractuel : relie a Guerre par un contrat demon-demon (canal telepathique duplex qu'elle tient) - mecanisme de sa fidelite commandee. [CANON adapte - la telepathie Guerre-Tank du canon, mecanisee ici en contrat demon-demon]
 - Nutrition : la peur des chars d'assaut - modeste et stable, au niveau du reste de l'arsenal, hors Flingue. [DIVERGENCE RP]
 
 ## Psychologie
@@ -36,23 +37,15 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 
 ## Histoire (jusqu'au perimetre)
 - Nait de la peur des chars, apres leur invention (Premiere Guerre mondiale) ; engeance directe de Guerre, range parmi les detonantes avec Flingue. [IMPLICITE sur la datation]
-- Annees 80 - le massacre : present aupres de Guerre, au sein de l'alliance temporaire du trone et des quatre Cavalieres contre Tronconneuse, en Enfer. [DIVERGENCE RP]
+- 1983 - le massacre : present aupres de Guerre, au sein de l'alliance temporaire du trone et des quatre Cavalieres contre Tronconneuse, en Enfer. [DIVERGENCE RP]
 - 1984 : fidele a Guerre. Situation precise : differee (roadmap). [DIVERGENCE RP]
 - Devenir ulterieur : differe (roadmap). [DIVERGENCE RP]
 
 ## Relations de base
-- Guerre / Yoru - le concept dont il decoule, sa suzeraine. Fidelite d'appetit : elle promet la destruction. [CANON + DIVERGENCE RP]
+- Guerre / Yoru - le concept dont il decoule, sa suzeraine ; relie a elle par un canal contractuel (contrat demon-demon). Fidelite d'appetit : elle promet la destruction. [CANON + DIVERGENCE RP]
 - Flingue - pair detonant, engeance directe de Guerre comme lui. [CANON]
 - Bombe - paire detonante de la sphere de Guerre.
-- Tronconneuse / Pochita - adversaire du massacre des annees 80.
+- Tronconneuse / Pochita - adversaire du massacre de 1983.
 
 ## Implications d'arc
-(Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
-
-## Trajectoire datee
-(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
-
-| Date/ere | Evenement | Delta d'etat |
-|---|---|---|
-
-FIN_WIKI_PERSONNAGES_TANK
+(Vide a la genese - strate al

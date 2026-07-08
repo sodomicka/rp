@@ -1,6 +1,6 @@
 # Chute
 
-- version : W1
+- version : W2
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -11,9 +11,10 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Statut : active, en Enfer depuis toujours. Vassale ambigue du trone d'Effroi.
 
 ## Place dans la lignee
-- Engeance directe de MORT : premiere-nee des trois Primordiaux derives de la premiere engeance d'Effroi. Les Primordiaux sont des peurs DE la mort ; la chute est le moyen simple de mourir. [DIVERGENCE RP]
+- Engeance directe de MORT : premiere des trois Primordiaux qui decoulent de la premiere engeance d'Effroi. Les Primordiaux sont des peurs DE la mort ; la chute est le moyen simple de mourir. [DIVERGENCE RP]
 - Ordre de naissance des Primordiaux : Mort -> Chute -> Tenebres -> Vieillesse. [DIVERGENCE RP]
 - Jamais morte, jamais reincarnee : memoire et identite continues depuis l'aube de l'humanite. [CANON]
+- Exception memorielle : comme les Primordiaux, les quatre Cavalieres et Effroi, elle se souvient des concepts effaces par Tronconneuse. [CANON + DIVERGENCE RP - extension actee au-dela des seules Cavalieres]
 
 ## Apparence
 - Sa forme propre en Enfer n'est pas documentee. [INCERTAIN]
@@ -33,18 +34,18 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 ## Psychologie
 - Persona de cheffe : courtoisie theatrale, protocole de grande cuisine ("Je serai votre chef ce soir"). Evite l'effusion de sang inutile - en apparence. [CANON]
 - Sous le vernis : profondement sadique. Prefere pousser au desespoir et au suicide plutot que tuer de sa main ; ses "plats" se degustent en traumas revecus. [CANON]
-- Politiquement : alignee sur la posture commune des Primordiaux - reconnaissance de l'Origine, facade loyale, convoitise latente du trone.
+- Politiquement : alignee sur la facade loyale generique - reconnaissance de l'Origine, loyaute affichee au trone, convoitise latente. [DIVERGENCE RP]
 
 ## Relations de base
-- Mort - sa mere conceptuelle directe. Chute sert pourtant le trone, pas sa mere : elle sait qu'Effroi est l'Origine. Texture personnelle du lien : non detaillee [INCERTAIN].
+- Mort - le concept dont elle decoule directement. Chute sert pourtant le trone, pas Mort : elle sait qu'Effroi est l'Origine. Texture personnelle du lien : non detaillee [INCERTAIN].
 - Effroi / Makoto - suzerain reconnu (l'Origine). Vassalite ambigue : loyaute de facade, convoitise latente du trone.
-- Tenebres, Vieillesse - ses cadets, memes engeances de Mort ; rivalite latente entre Primordiaux.
+- Tenebres, Vieillesse - les autres engeances de Mort ; rivalite latente entre Primordiaux.
 - Enfer - demon-territoire ; partage avec lui (et Vieillesse) la capacite de precipiter des etres en Enfer.
 
 ## Histoire (jusqu'au perimetre)
 - Prehistoire : nait de Mort, premiere de ses trois engeances - la peur du moyen simple de mourir.
 - N'a jamais connu ni la mort ni la reincarnation : la meme Chute depuis l'aube de l'humanite.
-- Reside en Enfer ; reconnait la souverainete d'Effroi en facade, comme ses cadets.
+- Reside en Enfer ; reconnait la souverainete d'Effroi en facade.
 
 ## Implications d'arc
 (Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)

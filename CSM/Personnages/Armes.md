@@ -1,6 +1,6 @@
 # Armes
 
-- version : W1
+- version : W2
 
 Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les quatre dernieres armes anciennes (Espadon, Lance-flammes, Fouet, Lance) telles qu'elles existent dans le monde, independamment d'une partie. En canon, ces quatre hybrides se designeront plus tard "The Weapons" (P2, hors perimetre).
 
@@ -17,11 +17,11 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les quatre der
 - Lieu de naissance (Terre ou Enfer) : depend de la datation ouverte du demon Enfer. [IMPLICITE]
 
 ## Hybridation
-- Les quatre sont hybrides AVANT le massacre des annees 80 : ils y combattent deja fusionnes, aux cotes de Quanxi - cinq hybrides du trone dans une bataille d'Enfer. [DIVERGENCE RP]
+- Les quatre sont hybrides AVANT le massacre de 1983 : ils y combattent deja fusionnes, aux cotes de Quanxi - cinq hybrides du trone dans une bataille d'Enfer. [DIVERGENCE RP]
 - Apres leur fusion, les seuls demons-armes encore purs sont Katana, Bombe, Flingue et Tank. [DIVERGENCE RP]
 - Rattachement presume au programme d'hybridation d'Effroi, dont Quanxi est la premiere. [IMPLICITE]
-- Contenu du programme, modalites, dates precises, identites et histoires des hotes humains : DIFFERES a l'histoire pre-1984.
-- Reperes canon sur les hotes (raccord differe) : Espadon = Miri Sugo, Lance-flammes = Barem Bridge ; Fouet et Lance = hotes anonymes en canon. [CANON]
+- Contenu du programme ACTE : Effroi implante le coeur d'un demon-arme trop bete pour servir seul mais puissant, dans un humain qui lui jure allegeance eternelle ; l'hote fournit l'intelligence qui manque au demon. Dates precises et histoires des hotes : differees (sauf Fouet, cf. infra). [DIVERGENCE RP]
+- Reperes sur les hotes : Espadon = Miri Sugo, Lance-flammes = Barem Bridge [CANON] ; Fouet = une combattante de la Premiere Guerre mondiale, hybridee en 1917 (precise l'hote anonyme canon) [CANON + DIVERGENCE RP] ; Lance = hote anonyme en canon [CANON].
 - Motif structurel de leur hybridation : leur betise. L'hote humain apporte l'intelligence que le demon n'a pas. [DIVERGENCE RP]
 
 ## Immortalite
@@ -58,6 +58,7 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les quatre der
 - Concept : la peur du fouet.
 - Genre : feminin. [DIVERGENCE RP]
 - Naissance : antiquite - le fouet-chatiment est immemorial. [IMPLICITE]
+- Hote (hybridation, 1917) : une combattante de la Premiere Guerre mondiale - la plus jeune hybridation des quatre. [DIVERGENCE RP + CANON]
 - Forme veritable : silhouette feminine longiligne, corps tresse comme du cuir, lanieres organiques deployees depuis le crane et la nuque. [DIVERGENCE RP - design valide par le worldbuilder]
 - Forme hybride : declenchement gestuel (mime du claquement) ; fouet deploye depuis la tete. [CANON]
 - Profil de combat : allonge et polyvalence - le fouet couvre l'attaque et la defense. [CANON via l'hybride]
@@ -79,25 +80,12 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les quatre der
 ## Histoire (jusqu'au perimetre)
 - Naissances etagees, de la prehistoire (Lance) au Moyen Age (Espadon), au rythme des inventions humaines. [IMPLICITE]
 - Fideles au trone : comme la majorite de l'arsenal, ils servent Effroi et non le concept dont ils decoulent. [DIVERGENCE RP]
-- Avant le massacre : hybridation des quatre. Dates, modalites et hotes : differes a l'histoire pre-1984. [DIVERGENCE RP]
-- Annees 80 - le massacre : presents en HYBRIDES dans l'alliance temporaire du trone et des quatre Cavalieres contre Tronconneuse, en Enfer, aux cotes de Quanxi. [DIVERGENCE RP]
-- 1984 : sur Terre, en traque de Tronconneuse - reduite et en fuite depuis le massacre - aux cotes de Quanxi. Objectif precis de la traque (tuer, capturer, surveiller) : DIFFERE (histoire globale). [DIVERGENCE RP]
+- Avant le massacre : hybridation des quatre (programme d'Effroi). La plus jeune, Fouet, est implantee en 1917. Autres dates et hotes : differes. [DIVERGENCE RP]
+- 1983 - le massacre : presents en HYBRIDES dans l'alliance temporaire du trone et des quatre Cavalieres contre Tronconneuse, en Enfer, aux cotes de Quanxi. [DIVERGENCE RP]
+- 1984 : sur Terre, en traque de Tronconneuse - reduite et en fuite depuis le massacre - aux cotes de Quanxi. Objectif de la traque : recuperer l'arme de dissuasion et l'empecher de servir un autre - ou elle-meme (cf. Tronconneuse) ; volet ACTIF de la chasse. [DIVERGENCE RP]
 
 ## Relations de base
 - Effroi / Makoto - leur Roi. Obeissance d'outils : ils executent la traque pour le trone.
 - Guerre / Yoru - le concept dont ils decoulent. Ils ne la servent pas : leur fidelite va au trone.
 - Arc / Quanxi - cinquieme traqueuse de 1984, veterane du programme (premiere hybride). Articulation entre la traque et son activite mercenaire : differee.
-- Katana - pair des sept anciennes, reste entier au Royaume.
-- Bombe - paire des sept anciennes, detonante rangee sous Guerre (en facade).
-- Tronconneuse / Pochita - adversaire du massacre, proie de la traque de 1984.
-
-## Implications d'arc
-(Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
-
-## Trajectoire datee
-(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
-
-| Date/ere | Entite | Evenement | Delta d'etat |
-|---|---|---|---|
-
-FIN_WIKI_PERSONNAGES_ARMES
+- Katana - pair des sept anciennes, reste entier au Roy

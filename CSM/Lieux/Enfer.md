@@ -1,6 +1,6 @@
 # Enfer
 
-- version : W1
+- version : W2
 
 Entite double : un LIEU (plan reel) ET le DEMON qui l'incarne. Le demon [CANON + DIVERGENCE RP sur le role] est indissociable de son territoire ; toute sa fiche vit donc ici, en branche Lieux. Fiche NEUTRE.
 
@@ -23,6 +23,7 @@ Entite double : un LIEU (plan reel) ET le DEMON qui l'incarne. Le demon [CANON +
 
 ## Pouvoirs et fonctions
 - Connexion infernale : expedie des etres en Enfer, depuis la Terre et inversement. [CANON] Chute et Vieillesse partagent cette capacite ; Enfer est celui dont le territoire EST l'Enfer. [CANON]
+- Standard de convocation du trone : par sa quasi-omnipresence (le reseau de portes reliant Terre et Enfer), Effroi convoque ses demons assez forts. C'est ainsi qu'il a rassemble en Enfer le massacre de 1983. [DIVERGENCE RP]
 - Capacites demoniaques standard : contrats avec les humains contre un prix, regeneration par le sang. [CANON]
 - Immortalite de cycle : tue, il renait en Enfer. [CANON]
 - Ses contrats humains coutent une fortune (canon : trois enfants et un corps-poupee pour Santa Claus ; s'ouvrir la gorge pour l'escouade anti-Makima). [CANON]
@@ -52,10 +53,4 @@ Entite double : un LIEU (plan reel) ET le DEMON qui l'incarne. Le demon [CANON +
 ## Implications d'arc
 (Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
 
-## Trajectoire datee
-(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
-
-| Date/ere | Evenement | Delta d'etat |
-|---|---|---|
-
-FIN_WIKI_LIEUX_ENFER
+## Trajectoi

@@ -1,6 +1,6 @@
 # Genealogie
 
-- version : W1
+- version : W2
 
 Page SYSTEMES : liste des naissances et lignees conceptuelles ACTEES. Document transversal, sans narration. Les regles du monde associees (contrats, canaux, nutrition) vivent en BIBLE SB1 ; ici, l'arbre et ses regles de lecture.
 
@@ -22,14 +22,23 @@ Ordre de naissance acte :
 
 Les engeances de Mort (Primordiaux) naissent entre Mort et les Cavalieres de societes : ordre global des aines = Effroi -> Mort -> Chute, Tenebres, Vieillesse -> Famine -> Guerre -> Controle -> Tronconneuse.
 
+## Autres engeances directes d'Effroi (anciennes, non titrees)
+Engeances qui decoulent directement d'Effroi mais restent hors du quintette structurant (ni Primordiales, ni Cavalieres) : anciennes, au plus pres de la peur pure.
+- Sixieme sens - engeance directe d'Effroi, au plus pres de la peur pure ; possede autrefois par tous les humains, il decuplait la peur ambiante et favorisait TROP Effroi lui-meme. Efface sur ordre d'Effroi (ere du Royaume stable) - son effacement l'AFFAIBLIT. [DIVERGENCE RP]
+- Catastrophes - engeance directe d'Effroi, ancienne (peur brute de la catastrophe naturelle, au plus pres de la terreur pure) ; d'ou sa fidelite au trone et son imprevisibilite. Jamais mis en scene. L'eruption du Mont Hio (XIXe s.) fait partie des effaces. [DIVERGENCE RP - rattachement tranche au B2]
+
 ## Lignee de Mort
 - Primordiaux, engeances de Mort, ordre acte : Chute -> Tenebres -> Vieillesse. Toutes peurs de la mort. Prehistoire.
 - Arsenal de Mort : Guillotine - nee apres l'invention de la machine (fin XVIIIe). [CANON sur l'association Mort-Guillotine (pion de Mort en P2) + DIVERGENCE RP sur la filiation ; IMPLICITE sur la datation]
-- Engeance devoree : Holocauste - devoree par Tronconneuse (annees 40). [DIVERGENCE RP - ajout hors liste canon]
+- Engeance : Zombie - demon des morts qui se relevent ; engeance de Mort, posterieure aux Primordiaux. Deploye par Mort chez des yakuza (raccord ~1997, differe roadmap). [CANON sur le demon + DIVERGENCE RP sur la filiation - rattachement tranche au B2]
+- Concepts PORTES (non demons separes) : les quatre issues de la vie - Fragmentation, Plantation, Immortalisation, Inversion - que Mort portait avant l'effacement. Arrachees par Tronconneuse sur ordre d'Effroi (ere du Royaume stable) ; effet net PARADOXAL : la mort devenue l'unique fin, Mort en ressort RENFORCEE. [DIVERGENCE RP]
+- Engeance devoree : Holocauste - devoree par Tronconneuse (1941-1948). [DIVERGENCE RP - ajout hors liste canon]
 
 ## Lignee de Famine
 - Arsenal des maladies : les demons de maladies descendent de Famine. (Compatible canon : un demon des MST existe en case.) [DIVERGENCE RP]
-- Engeance devoree : Sida - devoree par Tronconneuse. Datation du devorement : [INCERTAIN - la peur nait ~1981, le massacre date du debut de la decennie ; fenetre serree, a caler a l'histoire globale. Statut du Sida dans le monde de 1984 : suspendu a cette datation.]
+- Engeance devoree : SOA - maladie venerienne du IVe siecle, lignee de Famine ; effacee. [DIVERGENCE RP]
+- Engeance devoree : Syndrome d'Arnolone - maladie, champion de peur de Famine a la Seconde Guerre mondiale ; efface avec le lot (1941-1948). [DIVERGENCE RP]
+- Engeance devoree : Sida - panique mondiale de 1983 (bascule du monopole vers Famine), devore la meme annee par Tronconneuse sur ordre d'Effroi. [DIVERGENCE RP - datation FIXEE, leve l'ancien INCERTAIN]
 
 ## Lignee de Guerre
 - TOUTES les armes descendent de Guerre. [DIVERGENCE RP]
@@ -39,25 +48,33 @@ Les engeances de Mort (Primordiaux) naissent entre Mort et les Cavalieres de soc
   - Antiquite : Fouet, Aiguille, puis Griffe (ordre du trio acte : Machette -> Aiguille -> Griffe).
   - Moyen Age au sens large : Lance-flammes (feu gregeois, VIIe), Bombe (explosifs), Katana (sabre feodal), Espadon (epees longues), Flingue (armes a feu, XIVe - sa TERREUR est moderne, depuis la Premiere Guerre mondiale en gros ; le statut "recent et choye" vise sa faveur et sa montee, pas sa naissance). [IMPLICITE sur les datations]
   - Ere moderne : Tank (Premiere Guerre mondiale).
-- Engeances devorees : Armes-Nucleaires (arme, devoree annees 40 sur ordre d'Effroi) ; Seconde Guerre Mondiale (engeance directe hors arsenal, devoree annees 40 sur ordre d'Effroi). [CANON + DIVERGENCE RP]
+- Engeances devorees : Armes-Nucleaires (arme, devoree 1941-1948 sur ordre d'Effroi) ; Seconde Guerre Mondiale (engeance directe hors arsenal, devoree 1941-1948 sur ordre d'Effroi). [CANON + DIVERGENCE RP]
 
 ## Lignee de Controle
-- Engeance devoree : Nazis - devoree par Tronconneuse (annees 40), sur ordre d'Effroi. [CANON sur l'effacement + DIVERGENCE RP sur la filiation]
+- Engeance devoree : Nazisme - devoree par Tronconneuse (1941-1948), sur ordre d'Effroi. [CANON sur l'effacement + DIVERGENCE RP sur la filiation]
 
 ## Descendance d'Effroi sans rattachement (demons mineurs)
 - Enfer - peur de l'enfer. Pivot cosmogonique : sa naissance ouvre le plan Enfer et le cycle bipolaire. Ne apres les cinq engeances directes ; datation ouverte. [DIVERGENCE RP]
 - Reseau - peur de l'attachement, des liens, de la perte. "Pere" des contrats. [DIVERGENCE RP - OC]
+- Demence - peur de la folie, de perdre l'esprit. Demon mineur, descendance directe d'Effroi sans rattachement. L'etoile qui brisait l'esprit des enfants (XIVe s.) fait partie des effaces. [DIVERGENCE RP - rattachement tranche au B2]
 - Regle par defaut : tout autre demon mineur (canon ou a venir) vit ici, sans rattachement individuel.
 
 ## Les effaces et la memoire
 - Un concept devore par Tronconneuse est efface de la realite et des memoires, et le demon definitivement tue. [CANON]
 - Exception memorielle : les Primordiaux, les quatre Cavalieres et Effroi se souviennent des concepts effaces. [CANON + DIVERGENCE RP - le canon ne cite que les Cavalieres ; extension actee aux Primordiaux et au Roi]
 - Tronconneuse porte les devores en lui : la regurgitation reste possible (pouvoir conserve). [CANON]
-- Registre des devores actes : Nazis (Controle), Seconde Guerre Mondiale (Guerre), Armes-Nucleaires (Guerre), Holocauste (Mort), Sida (Famine).
+- Registre des effaces actes, par source :
+  - Effroi : le sixieme sens (ere du Royaume stable).
+  - Mort : Holocauste (1941-1948) ; les quatre issues de la vie (concepts portes, ere du Royaume stable).
+  - Guerre : Seconde Guerre Mondiale, Armes-Nucleaires / bombe atomique (1941-1948).
+  - Controle : Nazisme (1941-1948).
+  - Famine : SOA (IVe s.), Syndrome d'Arnolone (1941-1948), Sida (1983).
+  - Demence : l'etoile qui brisait l'esprit des enfants (XIVe s.).
+  - Catastrophes : l'eruption du Mont Hio (XIXe s.).
+  Tous effaces SUR ORDRE d'Effroi (doctrine de dissuasion : Effacement n'agit jamais seul).
 
 ## Bornes ouvertes
 - Datation de la naissance d'Enfer : ouverte ; borne basse = posterieure aux cinq engeances directes.
-- Datation du devorement du Sida : [INCERTAIN], a caler a l'histoire globale.
 - Anciennete des postes terrestres du trio vaudou : non datee.
 
 FIN_WIKI_SYSTEMES_GENEALOGIE

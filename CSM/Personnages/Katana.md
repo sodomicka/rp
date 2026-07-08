@@ -1,6 +1,6 @@
 # Katana
 
-- version : W1
+- version : W2
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -40,23 +40,18 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 ## Histoire (jusqu'au perimetre)
 - Nait de la peur du sabre japonais, apres l'invention de l'arme (ere feodale) ; engeance de Guerre. [IMPLICITE sur la datation]
 - Fidele au trone : comme la majorite de l'arsenal, il sert Effroi et non le concept dont il decoule. [DIVERGENCE RP]
-- Annees 80 - le massacre : dans l'arsenal du trone, ligue avec les quatre Cavalieres contre Tronconneuse, en Enfer - alliance temporaire contre une menace commune. L'engeance rebelle en ressort reduite. [CANON + DIVERGENCE RP]
+- 1983 - le massacre : dans l'arsenal du trone, ligue avec les quatre Cavalieres contre Tronconneuse, en Enfer - alliance temporaire contre une menace commune. L'engeance rebelle en ressort reduite. [CANON + DIVERGENCE RP]
 - 1984 : entier, non fusionne, au Royaume, dans l'arsenal du trone. [DIVERGENCE RP]
-- Plus tard (hors perimetre, differe) : Effroi l'enverra en espion chez les yakuza - raccord avec l'hybridation canon de 1997 (son coeur transplante dans le petit-fils d'un boss yakuza par Akane Sawatari). Motif, date et mecanique : differes a l'histoire globale. [CANON + DIVERGENCE RP]
+- Plus tard (hors perimetre, differe) : Effroi l'enverra en espion chez les yakuza - APRES que Mort y a place le demon Zombie (son engeance) ; l'operation releve du programme d'Effroi. Raccord avec l'hybridation canon de 1997 (son coeur transplante dans le petit-fils d'un boss yakuza par Akane Sawatari). Motif, date et mecanique : differes a la roadmap. [CANON + DIVERGENCE RP]
 
 ## Relations de base
 - Effroi / Makoto - son Roi. Obeissance totale, sans question ni ambition. C'est lui qui l'enverra chez les yakuza (differe).
 - Guerre / Yoru - le concept dont il decoule. Il ne la sert pas : sa fidelite va au trone. Texture du rapport : roadmap.
-- Arsenal - Arc, Espadon, Lance-flammes, Fouet et Lance servent le trone comme lui ; les detonantes (Bombe, Flingue, Tank) repondent a Guerre.
-- Tronconneuse / Pochita - adversaire du massacre des annees 80.
+- Arsenal - Arc, Espadon, Lance-flammes, Fouet et Lance servent le trone comme lui (les quatre de la fiche Armes desormais hybrides sur Terre, plus au Royaume) ; les detonantes (Bombe, Flingue, Tank) repondent a Guerre.
+- Tronconneuse / Pochita - adversaire du massacre de 1983.
 
 ## Implications d'arc
 (Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
 
 ## Trajectoire datee
-(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
-
-| Date/ere | Evenement | Delta d'etat |
-|---|---|---|
-
-FIN_WIKI_PERSONNAGES_KATANA
+(Vide a la genese - alimentee A CHAUD, une entree par arc roadmap

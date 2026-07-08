@@ -1,6 +1,6 @@
 # Bombe
 
-- version : W1
+- version : W2
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -39,26 +39,15 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 ## Histoire (jusqu'au perimetre)
 - Nait de la peur des bombes, apres l'invention des explosifs ; engeance de Guerre, rangee parmi les detonantes. [IMPLICITE sur la datation]
 - Rupture secrete : frustree par la montee de Flingue qui aspire la peur des armes, elle rompt en secret son allegeance a Guerre et passe au service d'Effroi. Datation et circonstances : differees a l'histoire globale. [DIVERGENCE RP]
-- Annees 80 - le massacre : presente en DEMON PUR, sous la banniere de Guerre, au sein de l'alliance temporaire du trone et des quatre Cavalieres contre Tronconneuse, en Enfer. [CANON + DIVERGENCE RP]
+- 1983 - le massacre : presente en DEMON PUR, sous la banniere de Guerre, au sein de l'alliance temporaire du trone et des quatre Cavalieres contre Tronconneuse, en Enfer. [CANON + DIVERGENCE RP]
 - 1984 : entiere, non fusionnee ; agent double en place. Position et mission precises : differees a l'histoire globale. [DIVERGENCE RP]
 - Plus tard (hors perimetre, differe) : hybridation avec Reze - enfant deja nee en 1984, prise dans le programme sovietique de Guerre. Programme, hybridation et mission : differes a l'histoire globale. [CANON + DIVERGENCE RP]
 
 ## Relations de base
-- Effroi / Makoto - son maitre secret ; elle le renseigne sur la sphere de Guerre. Nature et anciennete du lien : differees.
-- Guerre / Yoru - le concept dont elle decoule ET sa suzeraine de facade. Bombe la sert en apparence, la trahit en sous-main ; Guerre l'ignore.
+- Effroi / Makoto - son maitre secret ; elle le renseigne sur la sphere de Guerre. Levier du lien : le DESIR d'amour - Bombe (comme Reze) veut aimer et etre aimee un jour ; Effroi le sait et l'exploitera. Anciennete du lien : differee. [DIVERGENCE RP]
+- Guerre / Yoru - le concept dont elle decoule ET sa suzeraine de facade. Bombe la sert en apparence, la trahit en sous-main ; Guerre l'ignore. Elle garde neanmoins avec Guerre un contrat-canal DIRECT - seule parmi les agents d'Effroi a conserver ce lien direct ; son double jeu se joue sur une ligne que Guerre tient. [DIVERGENCE RP]
 - Flingue - pair d'arsenal et rival execre : il rafle la peur des armes, elle en paie le prix. Source de sa rupture.
 - Tank - pair detonant, fidele a Guerre. Texture : roadmap.
 - Arsenal - Katana, Arc, Espadon, Lance-flammes, Fouet, Lance : au trone ouvertement - elle seule y est en secret.
-- Tronconneuse / Pochita - adversaire du massacre des annees 80.
-- Reze - future hybride (post-perimetre) ; nee en 1984, programme sovietique de Guerre ; integration differee.
-
-## Implications d'arc
-(Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
-
-## Trajectoire datee
-(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
-
-| Date/ere | Evenement | Delta d'etat |
-|---|---|---|
-
-FIN_WIKI_PERSONNAGES_BOMBE
+- Tronconneuse / Pochita - adversaire du massacre de 1983.
+- Reze - future hybride (post-perimetre) ; nee en 1984, programme sovietique de Guerre ; elles partagent le desir d'aimer, levier qu'Effroi ex

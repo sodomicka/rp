@@ -1,6 +1,6 @@
 # Flingue
 
-- version : W1
+- version : W2
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -13,7 +13,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 ## Place dans la lignee
 - Engeance directe et recente de Guerre, choyee - avec Tank, a part des sept armes anciennes. [CANON + DIVERGENCE RP]
 - Detonant : il repond au concept dont il decoule, pas au trone. [DIVERGENCE RP]
-- Naissance : posterieure a l'invention des armes a feu. [IMPLICITE]
+- Naissance : avec l'invention des armes a feu (XIVe siecle). Sa TERREUR, elle, est moderne (depuis la Premiere Guerre mondiale en gros) ; "recent et choye" vise sa faveur et sa montee, pas sa naissance. [IMPLICITE + DIVERGENCE RP]
 
 ## Apparence
 - Humanoide flottant colossal : des fusils grands comme des immeubles en guise de bras, un corps squelettique d'armes assemblees bourre de tetes humaines hurlantes et desincarnees, un enorme canon et sa culasse jaillissant de la face. [CANON]
@@ -29,6 +29,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Balles nominatives : ses balles portent le nom de leurs cibles - frappes individuellement ciblees a l'echelle du globe. [CANON]
 - Chair-balle : les fragments detaches de son corps s'attirent entre eux ; un demon qui en consomme se renforce. [CANON]
 - Capacites demoniaques standard : contrats contre un prix, regeneration par le sang. [CANON]
+- Canal contractuel : relie a Guerre par un contrat demon-demon (canal telepathique duplex qu'elle tient) - mecanisme de son obeissance conditionnelle. [CANON adapte - la telepathie Guerre-Flingue du canon, mecanisee ici en contrat demon-demon]
 - Nutrition : la peur des armes a feu - portee au monopole par des annees de montee (armement mondial contre les demons, flambee des violences, amplification mediatique), culminant a l'attaque de novembre 1984. [CANON]
 
 ## Psychologie
@@ -40,26 +41,15 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 ## Histoire (jusqu'au perimetre)
 - Nait de la peur des armes a feu, apres leur invention ; engeance directe de Guerre, rangee parmi les detonantes avec Tank. [IMPLICITE sur la datation]
 - La montee : le monde s'arme contre les demons ; crimes et violences par armes flambent ; les medias amplifient ; la peur des flingues enfle d'annee en annee - et sa puissance avec. [CANON]
-- Annees 80 - le massacre : present en forme entiere aupres de Guerre, au sein de l'alliance temporaire contre Tronconneuse, en Enfer. Deja puissant, pas encore au niveau de novembre 1984. [DIVERGENCE RP]
+- 1983 - le massacre : present en forme entiere aupres de Guerre, au sein de l'alliance temporaire contre Tronconneuse, en Enfer. Deja puissant, pas encore au niveau de novembre 1984. [DIVERGENCE RP]
 - 18 novembre 1984 - l'attaque : un attentat majeur par armes a feu frappe les USA ; le jour meme, Flingue surgit. Environ cinq minutes de rampage planetaire : 1,2 million de morts, dont 57 912 au Japon en 26 secondes. Balles nominatives, villes rasees au passage. Puis il disparait. Motif et coordination : SCELLES, differes a l'histoire globale. [CANON + DIVERGENCE RP]
 - Consequences metaboliques actees : monopole de peur massif a son profit ; Mort renforcee par l'hecatombe ; Famine eclipsee. [DIVERGENCE RP - cf. fiches concernees]
 - Post-attaque : devenir immediat DIFFERE (roadmap / histoire globale). [DIVERGENCE RP]
 
 ## Relations de base
-- Guerre / Yoru - le concept dont il decoule, sa suzeraine. Obeissance conditionnelle : tant qu'elle promet la violence. [CANON + DIVERGENCE RP]
+- Guerre / Yoru - le concept dont il decoule, sa suzeraine ; relie a elle par un canal contractuel (contrat demon-demon). Obeissance conditionnelle : tant qu'elle promet la violence. [CANON + DIVERGENCE RP]
 - Tank - pair detonant, engeance directe de Guerre comme lui. Statut 1984 : [INCERTAIN].
 - Bombe - paire detonante de la sphere de Guerre. (La rancoeur de Bombe a son endroit vit dans sa fiche.)
 - Effroi / Makoto - le trone, auquel il ne repond pas. Raccord 1984 : differe.
-- Tronconneuse / Pochita - adversaire du massacre des annees 80.
-- L'humanite - depuis novembre 1984, il est LA terreur planetaire ; la peur qu'il inspire domine toutes les autres. [CANON]
-
-## Implications d'arc
-(Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
-
-## Trajectoire datee
-(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
-
-| Date/ere | Evenement | Delta d'etat |
-|---|---|---|
-
-FIN_WIKI_PERSONNAGES_FLINGUE
+- Tronconneuse / Pochita - adversaire du massacre de 1983.
+- L'h

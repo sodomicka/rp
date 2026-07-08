@@ -1,11 +1,11 @@
 # Arc
 
-- version : W1
+- version : W2
 
 Entite double : un DEMON (Arc) ET l'HYBRIDE qui le porte (Quanxi). La fusion est anterieure au perimetre : l'entite agissante est l'hybride ; toute la fiche vit donc ici, en une page. Fiche NEUTRE. [CANON + DIVERGENCE RP]
 
 ## Identite
-- Noms : Arc (le demon) / Quanxi (l'hybride, humaine chinoise).
+- Noms : Arc (le demon) / Quanxi (l'hybride ; humaine japonaise d'origine - une femme samurai -, affectee a la Chine par Effroi).
 - Concept incarne : la peur des armes de trait en general - arc, arbalete, fleche. [DIVERGENCE RP - le canon flotte entre Bow Devil et Crossbow Devil ; tranche ici]
 - Nature : demon-arme, engeance de Guerre, l'une des sept armes anciennes - fusionne de longue date a Quanxi, premiere hybride du programme d'Effroi. [CANON + DIVERGENCE RP]
 - Statut : actif via Quanxi ; alignes sur le trone d'Effroi, l'un comme l'autre. Publiquement, Quanxi passe pour une humaine anormalement forte, "la Premiere Devil Hunter". [CANON + DIVERGENCE RP]
@@ -17,9 +17,9 @@ Entite double : un DEMON (Arc) ET l'HYBRIDE qui le porte (Quanxi). La fusion est
 - Dans la fusion, le demon ne s'exprime pas : l'humaine domine (standard des hybrides). [CANON]
 
 ## L'hybride (Quanxi)
-- Humaine, chinoise. Titre : "la Premiere Devil Hunter". [CANON]
-- Selectionnee par Effroi : PREMIERE de son programme d'hybridation. Modalites, date et contenu du programme : differes a l'histoire pre-1984. [DIVERGENCE RP]
-- Allegeance : Effroi - elle-meme, pas seulement son demon. Nature exacte du lien (devotion, contrat, dette) : differee avec le programme. [DIVERGENCE RP]
+- Humaine, JAPONAISE d'origine (une femme samurai), AFFECTEE a la Chine par Effroi - le Japon grouille deja de ses propres demons. Titre : "la Premiere Devil Hunter". [CANON sur le titre + DIVERGENCE RP - le canon la dit chinoise]
+- Selectionnee par Effroi : PREMIERE de son programme d'hybridation. Contenu du programme ACTE : Effroi implante le coeur d'un demon-arme trop bete pour servir seul mais puissant, dans un humain qui lui jure allegeance eternelle (savoir exclusif a Effroi). Date de sa fusion : ere feodale japonaise ; detail differe. [DIVERGENCE RP]
+- Allegeance : Effroi - elle-meme, pas seulement son demon. Nature du lien : un MARCHE - chasse eternelle (via Arc) contre l'execution de toutes les basses besognes d'Effroi ; sale caractere, elle ronchonne mais livre. [DIVERGENCE RP]
 - Parcours : chasseuse a la Securite Publique japonaise dans sa jeunesse, partenaire de Kishibe ; partie AVANT l'arrivee de Makima (datation differee a l'histoire). Depuis : mercenaire et assassin. [CANON + DIVERGENCE RP]
 - Localisation et activites precises en 1984 : [INCERTAIN - differe a l'histoire globale].
 
@@ -53,28 +53,13 @@ Entite double : un DEMON (Arc) ET l'HYBRIDE qui le porte (Quanxi). La fusion est
 ## Histoire (jusqu'au perimetre)
 - Naissance du demon : non datee, plausiblement parmi les premieres armes [IMPLICITE]. Fidele au trone, comme la majorite de l'arsenal. [DIVERGENCE RP]
 - Jeunesse de Quanxi : chasseuse a la Securite Publique japonaise, partenaire de Kishibe. Dates : differees. [CANON]
-- Selection et fusion : choisie par Effroi, premiere de son programme d'hybridation ; le coeur d'Arc devient le sien. Bien anterieure a toute autre hybridation connue. Date et modalites : differees a l'histoire pre-1984. [DIVERGENCE RP]
+- Selection et fusion : choisie par Effroi, premiere de son programme d'hybridation ; le coeur d'Arc devient le sien. Le lien est un MARCHE (chasse eternelle contre les basses besognes du trone). Bien anterieure a toute autre hybridation connue. Date : ere feodale japonaise ; details differes. [DIVERGENCE RP]
 - Depart de la Securite Publique : avant l'arrivee de Makima. Datation et circonstances : differees. [DIVERGENCE RP]
-- Annees 80 - le massacre : Quanxi participe, hybride, dans les rangs du trone contre Tronconneuse, en Enfer - une humaine au coeur d'une bataille de demons. [DIVERGENCE RP]
-- 1984 : mercenaire, alignee sur Effroi en sous-main ; publiquement "la Premiere Devil Hunter", crainte comme une humaine aux capacites inexplicables. [CANON + DIVERGENCE RP]
+- 1983 - le massacre : Quanxi participe, hybride, dans les rangs du trone contre Tronconneuse, en Enfer - l'une des CINQ hybrides (avec Espadon, Lance-flammes, Fouet, Lance), une humaine au coeur d'une bataille de demons. [DIVERGENCE RP]
+- 1984 : mercenaire ET en traque de Tronconneuse avec les quatre hybrides (volet actif), alignee sur Effroi en sous-main ; publiquement "la Premiere Devil Hunter", crainte comme une humaine aux capacites inexplicables. Articulation traque/mercenariat : differee. [CANON + DIVERGENCE RP]
 
 ## Relations de base
-- Effroi / Makoto - son roi, en sous-main. Il l'a selectionnee, premiere de son programme d'hybridation. Nature du lien : differee.
+- Effroi / Makoto - son roi, en sous-main. Il l'a selectionnee, premiere de son programme d'hybridation. Nature du lien : un marche (chasse eternelle contre les basses besognes du trone).
 - Arc (le demon) - son coeur. Muet dans la fusion ; fidele au trone comme elle.
 - Guerre / Yoru - le concept dont Arc decoule. Texture du rapport : roadmap.
-- Kishibe - ancien partenaire a la Securite Publique, du temps de leur jeunesse. Etat du lien en 1984 : non detaille (roadmap). [CANON]
-- Arsenal - Katana, Espadon, Lance-flammes, Fouet et Lance au trone ; les detonantes (Bombe, Flingue, Tank) chez Guerre.
-- Tronconneuse / Pochita - adversaire du massacre des annees 80.
-- Harem de fiends - compagnes de Quanxi (canon vers P1) ; etat 1984 : [INCERTAIN - differe].
-- Securite Publique (Japon) - ex-employeur, quitte avant l'ere Makima.
-
-## Implications d'arc
-(Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
-
-## Trajectoire datee
-(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
-
-| Date/ere | Evenement | Delta d'etat |
-|---|---|---|
-
-FIN_WIKI_PERSONNAGES_ARC
+- Kishibe - ancien partenaire 

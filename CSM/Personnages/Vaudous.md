@@ -1,6 +1,6 @@
 # Vaudous
 
-- version : W1
+- version : W2
 
 Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demons installes en divinites vaudoues - Machette, Aiguille, Griffe - tels qu'ils existent dans le monde, independamment d'une partie. En canon, seuls leurs noms et leurs contrats avec Kishibe existent (chap. 61) ; tout le reste est construction RP.
 
@@ -18,6 +18,7 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demo
 
 ## Postes terrestres
 - Relais terrestres ANCIENS du Royaume : installes de longue date en divinites locales, dans des terres reputees vaudoues. Le culte ne les nourrit pas (la devotion est metaboliquement neutre) : les postes servent la strategie du trone, pas leur estomac. [DIVERGENCE RP]
+- Armement des chasseurs : ces relais ARMENT les Devil Hunters du monde entier pour le compte du trone, ce qu'Effroi CAUTIONNE (volet passif de la traque). [DIVERGENCE RP]
 - Machette / Baron Samedi - Louisiane ; arrive avec la diaspora haitienne (debut XIXe). [DIVERGENCE RP + IMPLICITE sur la date]
 - Aiguille / Maman Brigitte - Haiti. [DIVERGENCE RP]
 - Griffe / Papa Legba - Afrique de l'Ouest. [DIVERGENCE RP]
@@ -30,7 +31,7 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demo
 
 ## Pouvoirs communs
 - Canal ferme du trio : reseau contractuel entre eux trois. Regle du monde : tout contrat cree un canal telepathique duplex, ouvert a la discretion du DEMON - la plupart ignorent leurs contractants. Reseau, "Pere" des contrats, en est le regent comme pour tout contrat : il ne les ecoute pas (capacite d'ecoute limitee a quelques canaux, monopolisee par Effroi), mais une ecoute ciblee reste possible sur ordre du Roi. [CANON + INTERPRETATION + DIVERGENCE RP]
-- Contrat-signature : le contractant materialise les lames du demon (machettes et couteaux / aiguilles / griffes) ; RIEN n'est preleve sur lui - les lames se nourrissent des ames de ceux qu'elles tuent. Le contrat "gratuit" qui explique la ruee des chasseurs. [DIVERGENCE RP]
+- Contrat-signature : le contractant materialise les lames du demon (machettes et couteaux / aiguilles / griffes). Prix : les ames des victimes des armes ET l'ame du contractant a la FIN de sa carriere de chasseur ; les lames se nourrissent de ces ames. Le contrat parait "gratuit" tant qu'on chasse - ce qui explique la ruee des chasseurs. [DIVERGENCE RP]
 - Les ames : pure gourmandise - des friandises, pas une nutrition. Statut cosmologique des ames non developpe au-dela. [DIVERGENCE RP - non bloquant]
 - Filet de renseignement : par les canaux de leurs contrats, ils ecoutent leurs contractants sans jamais leur repondre - la ou la plupart des demons ignorent leurs humains, eux les ecoutent. L'information remonte a Effroi. [DIVERGENCE RP]
 - Capacites demoniaques standard : contrats contre un prix, regeneration par le sang. [CANON]
@@ -81,7 +82,7 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demo
 - Naissent apres Guerre, quand l'outil devient arme entre hommes : Machette, puis Aiguille, puis Griffe. [IMPLICITE + DIVERGENCE RP]
 - S'installent de longue date en divinites locales - relais terrestres du Royaume en costume de loa. [DIVERGENCE RP]
 - Leur arrogance repand leurs contrats dans les societes de Devil Hunters du monde entier - dont, au Japon, Kishibe (Securite Publique), triple contractant des 1984. [CANON + DIVERGENCE RP]
-- Annees 80 - le massacre : rappeles en Enfer par le canal du demon Enfer (Effroi convoque ainsi ses demons assez forts), presents a la bataille contre Tronconneuse. [DIVERGENCE RP]
+- 1983 - le massacre : rappeles en Enfer par le canal du demon Enfer (Effroi convoque ainsi ses demons assez forts), presents a la bataille contre Tronconneuse. [DIVERGENCE RP]
 - Apres la bataille : renvoyes a leurs postes avec une mission de plus - le guet. Leur toile de contrats devient le filet de renseignement du trone. Traque PASSIVE : ils recueillent, l'information remonte a Effroi. [DIVERGENCE RP]
 - 1984 : a leurs postes, en guet. Objectif precis de la traque : differe (histoire globale). [DIVERGENCE RP]
 
@@ -91,17 +92,6 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demo
 - Entre eux - trio soude par le canal mental autonome.
 - Reseau - "Pere" des contrats, regent de leur canal comme de tous les autres. Ne les espionne pas - sauf ordre d'Effroi.
 - Enfer - le canal de convocation du trone : c'est par lui qu'ils furent rappeles pour la bataille.
-- Kishibe - contractant japonais notoire (Securite Publique), triple contrat des 1984 ; mouchard involontaire du filet. [CANON + DIVERGENCE RP]
+- Kishibe - contractant japonais notoire (Securite Publique), triple contrat des 1984 ; mouchard involontaire du filet. Il accepte le prix car il ne compte JAMAIS cesser de chasser - il ne paiera donc jamais son ame (Tchekhov). [CANON + DIVERGENCE RP]
 - Tronconneuse / Pochita - adversaire de la bataille, cible du guet.
-- Les hybrides du trone (cf. Armes, Arc/Quanxi) - volet ACTIF de la meme chasse ; les Vaudous en sont le volet passif.
-
-## Implications d'arc
-(Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
-
-## Trajectoire datee
-(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
-
-| Date/ere | Entite | Evenement | Delta d'etat |
-|---|---|---|---|
-
-FIN_WIKI_PERSONNAGES_VAUDOUS
+- Les hybrides du trone (cf. Armes, Arc/Quanxi) - volet ACTIF de la meme chasse ; les Vaudous en sont le volet passi

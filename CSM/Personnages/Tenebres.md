@@ -1,6 +1,6 @@
 # Tenebres
 
-- version : W1
+- version : W2
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -11,8 +11,9 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Statut : actif, en Enfer. Vassal d'Effroi par respect du plus fort - vassalite conditionnelle (cf. Psychologie).
 
 ## Place dans la lignee
-- Engeance directe de Mort, troisieme-ne des Primordiaux (Mort -> Chute -> Tenebres -> Vieillesse) : la peur des monstres qui jaillissent du noir pour tuer. [DIVERGENCE RP]
+- Engeance directe de Mort, troisieme des Primordiaux (Mort -> Chute -> Tenebres -> Vieillesse) : la peur des monstres qui jaillissent du noir pour tuer. [DIVERGENCE RP]
 - Jamais mort, jamais reincarne : memoire et identite continues depuis l'aube de l'humanite. [CANON]
+- Exception memorielle : comme les Primordiaux, les quatre Cavalieres et Effroi, il se souvient des concepts effaces par Tronconneuse. [CANON + DIVERGENCE RP - extension actee au-dela des seules Cavalieres]
 
 ## Apparence
 - Assemblage de corps humains emacies : deux corps en guise de jambes, quatre en torse, chacun un visage mutile differemment (bouche verticale sans yeux ; yeux ouverts et bouche cousue ; bouche ouverte et yeux cousus ; sans yeux, expression sombre). [CANON]
@@ -23,6 +24,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Vitesse aveuglante : blitze les etres les plus rapides sans meme etre percu. [CANON]
 - Force immense. [CANON]
 - Controle des tenebres : s'y dissoudre, s'en manifester, en couvrir l'Enfer entier, forger des lames de noir. [CANON]
+- Vide sensoriel : par saturation totale de tenebres, il plonge une cible dans une privation sensorielle complete - c'est ainsi qu'il a scelle Effacement rebelle, sur ordre d'Effroi (1983). [DIVERGENCE RP]
 - Force telekinetique du meme registre que celle de Controle, et superieure a la sienne. [CANON]
 - Blessures resistant a toute regeneration : ses mutilations sont definitives, meme chez les etres a regeneration surhumaine. [CANON]
 - Manifestation forcee d'un demon pour l'executer sur place ; le contractant humain du demon meurt avec lui. [CANON]
@@ -40,13 +42,14 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 
 ## Relations de base
 - Effroi / Makoto - suzerain respecte par certitude de sa superiorite. Vassalite conditionnelle ; epee de Damocles connue du trone depuis la prehistoire.
-- Mort - mere conceptuelle. Ambitions voisines (le silence du monde), aucune alliance : il est certain qu'Effroi la surpasse.
-- Chute - son ainee, meme engeance de Mort ; rivalite latente entre Primordiaux.
-- Vieillesse - sa cadette, meme engeance de Mort ; rivalite latente entre Primordiaux.
+- Mort - le concept dont il decoule. Ambitions voisines (le silence du monde), aucune alliance : il est certain qu'Effroi la surpasse.
+- Chute - autre engeance de Mort ; rivalite latente entre Primordiaux.
+- Vieillesse - autre engeance de Mort ; rivalite latente entre Primordiaux.
 
 ## Histoire (jusqu'au perimetre)
 - Prehistoire : nait de Mort, troisieme Primordial - la peur des monstres qui jaillissent du noir pour tuer.
 - Des la prehistoire, Effroi sait que Tenebres le renversera s'il se sent un jour le plus fort ; le statu quo tient sur cette certitude partagee.
+- 1983 : sur ordre d'Effroi, il enferme Effacement (Tronconneuse) rebelle dans un vide sensoriel, puis laisse le champ libre aux Cavalieres et aux armes lors du massacre. [DIVERGENCE RP]
 - N'a jamais connu ni la mort ni la reincarnation : le meme Tenebres depuis l'aube de l'humanite.
 - Reside en Enfer.
 

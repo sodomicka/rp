@@ -1,6 +1,6 @@
 # Reseau
 
-- version : W1
+- version : W2
 
 Entite [DIVERGENCE RP] - OC promu au lore (pilier du Royaume). Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -24,6 +24,7 @@ Deux modes d'existence.
 - Liaison d'esprits a degres variables.
 - Communication a distance ; quasi-omnipresence via les canaux de communication.
 - Redaction et gestion des contrats a distance : il redige les contrats pour Effroi, quasi toujours a sens unique.
+- Regence des canaux contractuels : tout contrat cree un canal telepathique duplex entre les parties, ouvert a la discretion du demon ; Reseau en est le REGENT ("Pere" des contrats). Sa capacite d'ecoute est reelle mais LIMITEE (quelques canaux a la fois) et MONOPOLISEE par Effroi - Reseau lui est exclusivement reserve ; une ecoute ciblee reste possible sur ordre du Roi. [CANON + INTERPRETATION + DIVERGENCE RP]
 - PUISSANTS mais NON OFFENSIFS : aucune capacite de combat, negligeable en affrontement direct.
 
 ## Psychologie et manies
@@ -40,15 +41,4 @@ Deux modes d'existence.
 - Ne apres l'Enfer, de la peur de l'attachement, des liens et de la perte.
 - De lui procedent les contrats et les liens demoniaques qui engagent.
 - Devient le standard de communication du Royaume et le secretaire d'Effroi, redacteur de ses contrats.
-- XXe siecle : avec l'essor des communications a distance, bascule vers une existence surtout immaterielle et quasi omnipresente ; ne prend forme corporelle que sur ordre du Roi.
-
-## Implications d'arc
-(Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
-
-## Trajectoire datee
-(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
-
-| Date/ere | Evenement | Delta d'etat |
-|---|---|---|
-
-FIN_WIKI_PERSONNAGES_RESEAU
+- XXe siecle : avec l'essor des communications a distance, bascule vers une existence surtout immaterie

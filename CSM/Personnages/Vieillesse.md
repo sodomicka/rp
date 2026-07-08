@@ -1,6 +1,6 @@
 # Vieillesse
 
-- version : W1
+- version : W2
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -11,8 +11,9 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Statut : active, en Enfer. FIDELE au trone d'Effroi - seule des trois engeances de Mort a l'etre sans reserve. [DIVERGENCE RP]
 
 ## Place dans la lignee
-- Engeance directe de Mort, quatrieme et derniere-nee des Primordiaux (Mort -> Chute -> Tenebres -> Vieillesse). [DIVERGENCE RP]
+- Engeance directe de Mort, quatrieme et derniere des Primordiaux (Mort -> Chute -> Tenebres -> Vieillesse). [DIVERGENCE RP]
 - Jamais morte, jamais reincarnee : memoire et identite continues depuis l'aube de l'humanite. [CANON]
+- Exception memorielle : comme les Primordiaux, les quatre Cavalieres et Effroi, elle se souvient des concepts effaces par Tronconneuse. [CANON + DIVERGENCE RP - extension actee au-dela des seules Cavalieres]
 
 ## Apparence
 - Grand demon decharne, agregat de chair fletrie criblee de trous - le plus beant en pleine poitrine, la ou devrait battre un coeur. [CANON]
@@ -45,8 +46,8 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 
 ## Relations de base
 - Effroi / Makoto - suzerain fidelement servi, a double fondement : le respect du plus ancien (Effroi est le doyen absolu de l'existence) et l'opposition structurelle a Mort. Seul Primordial pleinement loyal au trone. [DIVERGENCE RP]
-- Mort - mere conceptuelle ET menace existentielle : la mort est la fin de la vie, donc la fin de la vieillesse. Il se range contre elle, aux cotes d'Effroi. [DIVERGENCE RP]
-- Chute, Tenebres - ses aines, memes engeances de Mort ; rivalite latente entre Primordiaux.
+- Mort - le concept dont il decoule ET menace existentielle : la mort est la fin de la vie, donc la fin de la vieillesse. Il se range contre elle, aux cotes d'Effroi. [DIVERGENCE RP]
+- Chute, Tenebres - les autres engeances de Mort ; rivalite latente entre Primordiaux.
 - Enfer - demon-territoire ; partage avec lui (et Chute) la capacite de precipiter des etres en Enfer.
 
 ## Histoire (jusqu'au perimetre)

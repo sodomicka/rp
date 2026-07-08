@@ -1,6 +1,6 @@
 # Mort
 
-- version : W1
+- version : W2
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -12,8 +12,8 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 
 ## Place dans la lignee
 - Premiere engeance d'Effroi : premier concept derive de l'Originel, nee a la prehistoire, avant les autres Primordiaux. [DIVERGENCE RP]
-- Ainee des quatre Cavalieres [CANON]. Les trois cadettes (Famine, Guerre, Controle) sont nees des premieres societes ; elle les precede d'eres entieres. Son titre de Cavaliere est un rattachement de fratrie, pas une date de naissance.
-- Mere conceptuelle des trois autres Primordiaux - Chute, puis Tenebres, puis Vieillesse -, tous des peurs de la mort. [DIVERGENCE RP]
+- La plus ancienne des quatre Cavalieres [CANON]. Les trois cadettes (Famine, Guerre, Controle) sont nees des premieres societes ; elle les precede d'eres entieres. Son titre de Cavaliere est un rattachement, pas une date de naissance.
+- Concept dont decoulent les trois autres Primordiaux - Chute, puis Tenebres, puis Vieillesse -, tous des peurs de la mort. [DIVERGENCE RP]
 
 ## Apparence
 - Forme veritable humanoide (regle des Cavalieres) : jeune femme aux cheveux mi-courts gris-rose, grains de beaute au visage, yeux a anneaux concentriques (marque commune des Cavalieres), boucles d'oreilles vertes. Une longue incision verticale court du torse a l'abdomen. [CANON]
@@ -22,8 +22,8 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 ## Immortalite
 - Comme toutes les Cavalieres, elle se reincarne REINITIALISEE (memoire et personnalite remises a zero). [CANON]
 - Verrou unique : elle ne peut mourir QUE SI ELLE LE SOUHAITE. Elle EST la mort ; la mort ne peut la prendre contre son gre. Consequence : aucun pouvoir letal ne l'emporte sans son consentement, toucher mortel d'Effroi compris. [DIVERGENCE RP]
-- Exception memorielle canon : les quatre Cavalieres sont les seules demones a se souvenir des concepts effaces par Tronconneuse. [CANON]
-- Prise de l'effacement conceptuel (Tronconneuse) sur sa regle de mort volontaire : non tranchee. [INCERTAIN]
+- Exception memorielle : les Primordiaux, les quatre Cavalieres et Effroi se souviennent des concepts effaces par Tronconneuse - Mort en fait partie. [CANON + DIVERGENCE RP - le canon ne cite que les Cavalieres ; extension actee aux Primordiaux et au Roi]
+- Prise de l'effacement conceptuel (Tronconneuse) sur sa regle de mort volontaire : il ne la CONTOURNE pas - elle ne meurt que si elle le veut. Le plan de Makoto vise a l'ACCULER pour la forcer au reformatage faute de mieux. [DIVERGENCE RP]
 
 ## Pouvoirs
 - Toucher mortel (herite d'Effroi - seul pouvoir qu'il ait jamais transmis) : tue un humain ou un demon au simple contact, a la condition que la cible se pense inferieure a ELLE. Mort classique : la victime repart dans le cycle, et chaque mort nourrit la peur de la mort. [DIVERGENCE RP]
@@ -31,6 +31,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Pions : controle les etres qu'elle a tues ; collection de demons-pions. [CANON]
 - Nuees de corbeaux devoreurs. [CANON]
 - Capacites demoniaques standard : contrats contre un prix, regeneration par le sang. [CANON]
+- Les quatre issues de la vie : elle PORTAIT quatre autres fins que la mort simple (Fragmentation, Plantation, Immortalisation, Inversion) ; Effacement les lui a arrachees sur ordre d'Effroi. Effet net PARADOXAL : la mort devenue l'unique fin, toute la peur de la fin se concentre sur elle - Mort en ressort RENFORCEE. [DIVERGENCE RP]
 - Nutrition : renforcee par tout monopole de peur mortelle - l'attaque mondiale de Flingue (1984) l'a massivement nourrie.
 
 ## Psychologie
@@ -44,13 +45,14 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Alliance originelle : Effroi en fait sa premiere Reine.
 - Rupture : elle tue a tour de bras plutot que de repandre la peur. Effroi tente de la tuer - impasse entre deux immortels (lui intuable et hors cycle ; elle ne mourant que de son plein gre).
 - Depuis : guerre froide, ignorance mutuelle. Elle refuse sa souverainete - seule Primordiale a le faire - mais DEMEURE en Enfer, au coeur du Royaume rival : leur relation, heritee de l'alliance originelle, reste particuliere.
+- Ere du Royaume stable : Effacement lui arrache les quatre issues de la vie sur ordre d'Effroi ; loin de l'affaiblir, l'operation la muscle - la mort devient l'unique fin. [DIVERGENCE RP]
 - 1984 : attaque mondiale de Flingue -> monopole massif de peur mortelle -> Mort renforcee.
 
 ## Relations de base
-- Effroi / Makoto - createur et pere conceptuel ; elle est sa premiere engeance et fut sa premiere Reine. Rivalite declaree jamais ouverte : guerre froide. Detient le meme toucher mortel que lui.
-- Controle, Guerre, Famine - soeurs cadettes (fratrie des Cavalieres). Elle opere seule ; alliance de circonstance envisageable si son monopole est menace.
+- Effroi / Makoto - createur et concept dont elle decoule ; elle est sa premiere engeance et fut sa premiere Reine. Rivalite declaree jamais ouverte : guerre froide. Detient le meme toucher mortel que lui. Son plan de 1984 cherche a l'acculer pour la reformater.
+- Controle, Guerre, Famine - les autres Cavalieres. Elle opere seule ; alliance de circonstance envisageable si son monopole est menace.
 - Chute, Tenebres, Vieillesse - ses engeances directes, les trois autres Primordiaux. Ils reconnaissent pourtant la souverainete de l'Origine, pas la sienne.
-- Tronconneuse / Pochita - seul etre dont le pouvoir (effacement conceptuel) echappe au registre de la mort classique ; rapport exact a sa regle de mort volontaire non tranche [INCERTAIN].
+- Tronconneuse / Pochita - seul etre dont le pouvoir (effacement conceptuel) echappe au registre de la mort classique ; il lui a arrache les quatre issues de la vie sur ordre d'Effroi. En canon, elle a par ailleurs tente de le tuer plusieurs fois.
 
 ## Implications d'arc
 (Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
