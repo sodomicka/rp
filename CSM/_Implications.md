@@ -1,6 +1,6 @@
 # _Implications - CSM
 
-- version : W7
+- version : W8
 
 Document de TRAVAIL. Jamais fetche en narration.
 
@@ -120,4 +120,57 @@ Document de TRAVAIL. Jamais fetche en narration.
   - Armes (programme d'Effroi detaille, Fouet hotesse 1917).
   - Vaudous (prix du contrat etendu - ame du contractant en fin de carriere, Tchekhov Kishibe, caution de l'armement).
   - Bombe (lien direct Guerre, levier desir d'amour).
-  - Flingue (naissance XIVe / terreur moderne, canal, obl
+  - Flingue (naissance XIVe / terreur moderne, canal, obl[...] [FICHIER SOURCE TRONQUE ICI - la trace des fiches patchees B2 s'interrompt en plein bullet Flingue, sans pied de fichier ; queue perdue cote source (Flingue complet, Tank, Katana, Reseau, Enfer) = code mort, patches deja integres au B2 ; a restaurer depuis une sauvegarde si desire])
+
+## Thread Passe 2 - Roadmaps Makoto (ce thread)
+
+### Point de depart du RP - FIXE
+- POV joue : Makoto / Effroi. Prota des roadmaps = Makoto.
+- Date : 2 decembre 1984 (apres l'attaque de Flingue du 18 novembre).
+- Roadmap_0 (Arrivee de Makoto) : NON JOUABLE, cadrage POV Makima ; coupe quand elle s'assoit -> R1.
+- Roadmap_1 (Le Contrat) : JOUABLE, POV Makoto ; diner, plan expose, contrat scelle, Autorite concue, dynamique Effroi-Controle amorcee. Naissance d'Autorite renvoyee a R2.
+- Modele acte : Roadmap = conteneur d'arcs (vue globale) ; Arc = grain fin ; fiche d'arc = mini-bible autonome tronquee. Roadmaps posees au niveau GLOBAL ; decoupage en arcs = a faire (Passe 3).
+
+### Chrono - CORRECTION BIBLE SB3 EN ATTENTE (a graver au prochain thread)
+La case unique du 18 novembre 1984 doit eclater en trois :
+- 18 nov 1984 : attaque de Flingue + oblitere en personne par Effroi + fragmentation entre gouvernements. (monopole massif, Mort renforcee, Famine eclipsee)
+- 2 dec 1984 : diner ; alliance scellee, contrat signe, conception d'Autorite, Controle promue Reine, Makoto integre la Securite Publique (couverture transfert de Kyoto). (plan enclenche)
+- ~sept 1985 [CALCULE] : naissance d'Autorite (2 dec 1984 + gestation humaine ~9 mois).
+- Gestation demonique : ACTEE comme humaine (~9 mois) - leve l'ancien flou.
+
+### Securite Publique 1984 - fiche-faction creee
+- Factions/Securite_Publique.md (W1). Nouveau dossier Factions/ (les factions humaines n'en avaient pas).
+- Confrontation canon actee : le roster celebre du Public Safety est celui de ~1997 (P1 = 1984 + 13 ans, regle des 13 ans deja encodee au SB3). En 1984 = vieille garde + les sept renegats sous Controle de Makima.
+- Roster 1984. Div 1 : Kishibe (a la SP depuis les annees 60-70, ex-binome de Quanxi) + anonymes mortels. Div 2 : Furuno (chef), Kato (veteran borgne), Himeno (veterane deja aguerrie ; deduction : binome d'Aki qui est en Div 2, donc Div 2) + binomes perdus anonymes. Div 3 : les sept renegats sous Makima.
+- Les sept renegats = anciens fideles du Roi ayant suivi la Tronconneuse (Pochita / Effacement) dans la trahison de 1983. Nature + camp (grave dans la fiche) :
+  - Angel (pur) : loyaliste INCONDITIONNEL du Roi (approprie par Makima, force a raser un village pour tester ses pouvoirs) ; se rallie sans contrepartie.
+  - Beam (possede / Requin) et Princi (pur / Araignee) : IRREDUCTIBLES (devots de la Tronconneuse, ne cedent qu'a Pochita) ; restent sous Controle de Makima. Beam = piste vivante vers la fugitive (il l'a cotoyee).
+  - Galgali (possede / Violence), Seraphim (pur), Dominion (pur), Virtue (pur) : renegats RALLIABLES au Roi contre la promesse de traiter la Tronconneuse de gre (confort et reconnaissance), jamais par contrainte.
+  - Bilan : 1 loyaliste, 2 irreductibles, 4 ralliables. Purs : Angel, Princi, Seraphim, Dominion, Virtue. Possedes : Beam, Galgali.
+- Power : huitieme de la "famille de Chainsaw Man", canon PRESENT - arrive en 1997, PAS au roster 1984.
+- Commandement : Makima = coordinatrice (titre-facade, deja aux commandes) ; Makoto sous elle sur le papier, mais la SP entiere n'est qu'un fragment de son reseau (il a fonde les Devil Hunters avec Quanxi).
+- Quanxi : hors roster Tokyo ; affectee a la Chine pour traquer la Tronconneuse hors du Japon (volet international de la traque).
+- Aki : hors roster actif ; orphelin de l'attaque de Flingue (18 nov 1984) recupere par la branche d'aide aux victimes de la SP ; pion pose des le trauma ; entree ~1988, formation Div 2.
+
+### Routage acte
+- Fait du monde "la SP est un instrument d'Effroi" -> fiche neutre (Factions/Securite_Publique).
+- Ironie "Makima croit tenir la SP alors qu'elle appartient a Makoto" -> CODEX / ANNEXE_SAVOIRS (au CODEX V1), PAS la fiche neutre ni la fiche d'arc.
+
+### EN ATTENTE - a faire au prochain thread (Passe 2, dans l'ordre)
+1. Correction chrono BIBLE SB3 (desempilage 18 nov / 2 dec / ~sept 1985) -> BIBLE B3.
+2. Graver la mecanique de reproduction sexuee dans Systemes/Genealogie : transmission d'un fragment de peur (cession de parts) ; pratique rare (fragmenter sa puissance n'est pas rentable) ; SEUL moyen de transmettre le statut de Cavaliere a la generation suivante.
+3. Enrichissements A CHAUD (tires de R1) :
+   - Effroi : plan concret (reformater / eduquer les Cavalieres) ; tactique du nom "Tronconneuse" pour brider la regen ; strategie de dette d'attachement pour la Tronconneuse ; poste au departement des rapports d'incidents de la SP.
+   - Controle : promue Reine ; enceinte (fin R1) ; dynamique strategique -> attachement (il devient protecteur, elle cesse de le renverser) = amorce du moteur.
+   - Tronconneuse : le nom qui bride la regen ; cible de la dette d'attachement ; Beam et Princi comme devots irreductibles.
+   - Mort : trait "plus laxiste qu'Effroi" ; plan d'acculement (deja au SB1, a lier a R1).
+4. Construire Roadmap_2 (gestation ~9 mois, preparation du gardien de Nayuta) puis la suite.
+5. Passe 3 : decoupage des roadmaps en arcs + fiches d'arc, puis CODEX V1, puis SETUP.
+
+### Maillon non tranche (a formaliser)
+- Comment / quand Makima a capture les sept renegats entre le massacre de 1983 et decembre 1984 : reponse worldbuilder = via sa mainmise sur la Securite Publique japonaise (main qu'elle croit sienne, en fait un pion de Makoto). A formaliser dans la fiche / roadmap.
+
+### Anomalie source
+- Le _Implications.md (W7) recupere sur GitHub est TRONQUE (voir marqueur dans la trace des fiches patchees B2, ci-dessus). Queue perdue = code mort, non bloquant.
+
+FIN_WIKI__IMPLICATIONS

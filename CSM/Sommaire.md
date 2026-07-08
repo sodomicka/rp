@@ -1,6 +1,6 @@
 # Sommaire - CSM
 
-- version : W7
+- version : W8
 
 ## WIKI
 
@@ -8,7 +8,7 @@
 
 ### (racine)
 Description : pages de travail et index.
-- _Implications.md (W7) - journal de travail du build (jamais fetche en narration)
+- _Implications.md (W8) - journal de travail du build (jamais fetche en narration)
 
 > ROADMAPS NON INDEXEES EN JEU (v8.2). Le dossier `Roadmap/<Prota>/` ne sera pas liste ici. Sources de build uniquement, lues par listing de dossier.
 
@@ -41,7 +41,11 @@ Description : pages systeme transversales (regles, arbres, index thematiques).
 - Genealogie.md (W2) - liste des naissances et lignees conceptuelles ; regles du plancher et de l'outil/arme ; registre complet des effaces ; lignees Catastrophes, Demence et Zombie actees
 - Histoire.md (W1) - recit du passe reconfigure par Effroi, de la premiere peur a 1984 ; nourrit le SB3 (Chronologie)
 
-PASSE 1 CLOTUREE AU BIBLE BUILD B2 : patches 1-53 integres, fiches toilettees (W2), lignees de Catastrophes, Demence et Zombie tranchees, BIBLE en B2. Prochaine etape : Passe 2 (roadmaps), puis factions humaines (reporte). Aucune fiche d'arc a ce stade.
+### Factions/
+Description : factions et groupes (humains ou mixtes) ; etat neutre + Trajectoire datee.
+- Securite_Publique.md (W1) - agence anti-demons japonaise ; roster de decembre 1984 (Divisions 1/2/3, les sept renegats) ; en verite un instrument d'Effroi
+
+PASSE 1 CLOTUREE (B2). PASSE 2 EN COURS : point de depart fixe au 2 decembre 1984 ; Roadmap_0 (Arrivee de Makoto) et Roadmap_1 (Le Contrat) posees dans Roadmap/Makoto/ (non indexees ici, sources de build) ; fiche-faction Securite Publique creee (W1). EN ATTENTE (cf. _Implications) : correction chrono BIBLE SB3 -> B3, mecanique de reproduction dans Genealogie, enrichissements Effroi / Controle / Tronconneuse / Mort a chaud, construction de Roadmap_2, puis decoupage en arcs + fiches d'arc (Passe 3). Aucune fiche d'arc a ce stade.
 
 ## PARTIES (Partie1)
 
