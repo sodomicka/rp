@@ -1,16 +1,30 @@
 # Genealogie
 
-- version : W2
+- version : W3
 
 Page SYSTEMES : liste des naissances et lignees conceptuelles ACTEES. Document transversal, sans narration. Les regles du monde associees (contrats, canaux, nutrition) vivent en BIBLE SB1 ; ici, l'arbre et ses regles de lecture.
 
 ## Regles de lecture
-- Lexique : le vocabulaire familial est BANNI pour la genealogie demoniaque (pas de mere, pere, fils, fratrie). On dit : engeance, descendance conceptuelle, concept dont on decoule. L'obeissance suit l'anciennete ou la force - il n'y a pas de sang.
+- Lexique : le vocabulaire familial est BANNI pour la genealogie demoniaque (pas de mere, pere, fils, fratrie). On dit : engeance, descendance conceptuelle, concept dont on decoule. L'obeissance suit l'anciennete ou la force - il n'y a pas de sang. Seule exception a ces deux points (vocabulaire familial et absence de sang) : la reproduction sexuee, cf. section dediee ci-dessous.
 - Regle fondatrice : tout concept engendre un autre concept ; toute lignee conceptuelle remonte a Effroi. [DIVERGENCE RP - socle]
 - Regle du plancher : aucune engeance ne precede le concept dont elle decoule. [DIVERGENCE RP]
 - Regle de l'outil et de l'arme : on ne craint pas un outil mais une arme, et l'outil ne devient arme qu'avec Guerre - avant elle, le couteau est un outil de chasse, pas une arme entre hommes. Aucun demon-arme ne precede la Cavaliere. [DIVERGENCE RP]
 - Indexation des naissances : sur l'invention (armes, objets) ou l'emergence de la peur (autres). [IMPLICITE - balise generale]
 - Demons mineurs : tout demon hors Cavalieres, Primordiaux et arsenaux des Cavalieres est un DESCENDANT D'EFFROI sans rattachement particulier, ne d'une peur mineure apparue APRES les Cavalieres et les Primordiaux. [DIVERGENCE RP]
+
+## Voie inedite - la reproduction sexuee [DIVERGENCE RP]
+A cote de l'engeance conceptuelle (mode standard : une peur engendre spontanement un demon), il existe une voie de genese alternative et rarissime : la reproduction sexuee entre deux demons. Elle transmet a l'enfant un fragment du concept de chaque parent - le champ commun aux deux demons.
+
+- Asymetrie de la cession : transmettre n'est pas se diminuer. Effroi, peur pure et Originel, est au-dessus - il transmet sans rien perdre. Un demon non-Originel, lui, CEDE la part qu'il transmet : il la perd.
+- Forme requise : pas de regle generale ; la voie exige seulement des organes genitaux fonctionnels, donc la forme employee depend des demons impliques.
+- Statut transmissible : c'est le SEUL vecteur connu pour transmettre le statut de Cavaliere d'un demon a un autre.
+- Exception lexicale : pour un enfant ne par cette voie, le vocabulaire familial redevient legitime (enfant, fille, parents) et un lien biologique existe reellement - unique breche dans la regle "il n'y a pas de sang". Elle ne cree pas pour autant d'obeissance par le sang : l'obeissance suit toujours l'anciennete ou la force.
+
+Cas acte - Autorite / Nayuta (2 decembre 1984). Enfant d'Effroi et de Controle.
+- Effroi transmet sa part (peur pure) sans se diminuer.
+- Controle CEDE : elle perd l'autorite PURE de son controle - l'obeissance aveugle et sans raison - qui passe a Autorite, en meme temps que le statut de Cavaliere. Ce qui reste a Controle : faire obeir en suscitant fascination et envie de servitude (controle indirect), non plus l'obeissance inconditionnelle.
+- Forme : humaine, dans ce cas precis - Effroi n'a d'organes genitaux qu'en forme humaine (Makoto), et Controle n'a que sa forme humaine (elle est le controle, l'une des peurs les plus humaines ; sa nature meme fait que sa forme pure est indifferentiable d'une humaine).
+- Autorite est et restera la seule fille biologique d'Effroi et de Controle : cas unique, sans entree d'arbre.
 
 ## Le tronc - engeances directes d'Effroi
 Ordre de naissance acte :
