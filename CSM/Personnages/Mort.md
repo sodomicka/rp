@@ -1,6 +1,6 @@
 # Mort
 
-- version : W2
+- version : W3
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -36,6 +36,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 
 ## Psychologie
 - Intelligente, calculatrice, froide, methodique : le miroir d'Effroi. [DIVERGENCE RP - la personnalite canon de la Partie 2 est ecartee]
+- Laxiste malgre sa puissance : elle ne pousse pas son avantage, ne capitalise pas agressivement sur ses monopoles de peur mortelle. Cette passivite la rend, aux yeux d'Effroi, temporisable - le probleme urgent, c'est Guerre, pas elle. [DIVERGENCE RP]
 - Joueuse solo. Ne forme d'alliance qu'a contrecoeur, et seulement si son monopole de la peur hors Effroi est menace.
 - Sa guerre contre le trone n'est JAMAIS ouverte : guerre froide, ignorance mutuelle.
 
@@ -55,10 +56,13 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Tronconneuse / Pochita - seul etre dont le pouvoir (effacement conceptuel) echappe au registre de la mort classique ; il lui a arrache les quatre issues de la vie sur ordre d'Effroi. En canon, elle a par ailleurs tente de le tuer plusieurs fois.
 
 ## Implications d'arc
-(Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
+- R1 (Le Contrat, 2 decembre 1984) - ce que l'arc etablit sur son etat au point de depart :
+  - Elle tient un monopole de peur mortelle (avec Guerre) depuis l'hecatombe de Flingue - donc renforcee. Mais son laxisme la fait juger temporisable par Effroi : le plan la CIBLE (l'acculer a tenir sa reincarnation pour seule issue) sans encore AGIR sur elle. Rien ne l'atteint au 2 decembre.
 
 ## Trajectoire datee
-(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
+(Alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : illimite - revu si trop lourd. Le canon par defaut vit ici ; si une partie diverge, le delta va en Parties/.)
+
+(Vide : R1 ne l'impacte pas directement. Premier delta attendu quand le plan de Makoto s'executera contre elle, roadmap ulterieure.)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|

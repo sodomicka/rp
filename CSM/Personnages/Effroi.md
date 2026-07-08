@@ -1,6 +1,6 @@
 # Effroi
 
-- version : W2
+- version : W4
 
 Entite [DIVERGENCE RP] - OC promu au lore (Originel structurant la cosmogonie CSM). Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie. L'INSTANCE jouee vit en CODEX + Parties/.
 
@@ -26,14 +26,22 @@ Trois formes distinctes.
 - HUMAINE - Makoto : apparence d'humain ordinaire, frele mais grand (1 m 85), peau pale, air fatigue, longs cheveux noirs raides. Seul indice non humain : yeux entierement noirs. Tenue : long manteau noir, chemise blanche, pantalon sombre. Forme de ses descentes sur Terre.
 
 ## Pouvoirs et atouts
+Distinction cardinale : trois traits lui sont PROPRES (intrinseques, non contractuels) ; tout le reste de son arsenal vient du CONTRAT.
+
+Traits propres (les seuls) :
+- Nutrition par la peur globale : il tire sa puissance de la peur ambiante mondiale, quelle qu'en soit la cause, jamais d'un canal dedie (cf. Nature et metabolisme). Puissance de fond permanente et non ciblee.
+- Terreur au regard : sur tout etre assez faible, il impose au simple regard la reaction de terreur de son choix - petrification, fuite, evanouissement, nausees, dissimulation, et le reste. Effet maitrise et module a volonte ; les etres suffisamment puissants y echappent. [DIVERGENCE RP]
 - Toucher mortel : tue un humain ou un demon au simple contact, a la condition que la cible se pense inferieure a lui (parallele a la domination de Controle). La mort infligee est CLASSIQUE - la victime repart dans le cycle Terre/Enfer -, ce qui nourrit Mort plus que lui ; il repugne a s'en servir. Unique pouvoir qu'il ait transmis a une engeance : Mort, sa premiere, le detient.
-- Puissance offensive aberrante : bien au-dela de la force physique, une capacite offensive que NUL ne lui connait - il ne s'en sert jamais. Deux seules fois deployee en personne sur toute la periode : contre Effacement lors de sa rebellion (1983), puis contre Flingue (novembre 1984). [DIVERGENCE RP]
-- Force physique absurdement surhumaine. Mais la brutalite ne le nourrit pas (elle nourrirait la peur qu'elle suscite) : il POURRAIT dominer par la force, il s'y refuse.
-- Nutrition ambiante mondiale (cf. Metabolisme) : puissance de fond permanente, non ciblee.
+
+Arsenal contractuel :
+- Titulaire de MILLIERS de contrats, tous SANS contrepartie - privilege du Roi, et Reseau (concept pere des contrats) est son serviteur. De la vient la quasi-totalite de ses capacites, hors des trois traits propres et de sa force brute. [DIVERGENCE RP - leve l'ancien INCERTAIN sur ses contrats]
+- Implantation dans la trame : il inscrit dans la realite et dans les memoires - humaines comme demoniaques - un nom, une identite, un rendez-vous, avec amnesie induite chez ceux qui les relaient sans se souvenir de la source. Ainsi l'identite "Makoto" et ses convocations s'imposent au monde d'un coup. [DIVERGENCE RP]
+
+Attributs et savoirs (ni traits propres, ni contrats) :
+- Force brute aberrante : sa puissance physique, indexee sur la peur ambiante mondiale - donc colossale, sans commune mesure ; c'est ce qu'on nomme parfois sa "puissance offensive aberrante". Il ne la deploie presque jamais : l'employer nourrirait la peur de la violence (entre autres), qui engraisserait d'autres demons et non lui - meme logique que pour toute peur qu'il pourrait susciter. Il POURRAIT dominer par la force ; il s'y refuse, par la meme retenue qu'il applique a toutes les peurs. Deux seules fois deployee en personne sur la periode : contre Effacement (1983), contre Flingue (1984). [DIVERGENCE RP]
 - Origine conceptuelle : toute lignee demoniaque remonte a lui.
 - Programme d'hybridation - savoir EXCLUSIF : lui seul sait creer un hybride en implantant le coeur d'un demon-arme dans un humain. Deux regimes - coeur plante pour un demon bete (l'hote fournit l'intelligence qui lui manque), accord des volontes pour un demon a fort caractere (un partage de sang ne suffit pas). [DIVERGENCE RP]
 - Memoire des effaces : avec les Primordiaux et les quatre Cavalieres, il se souvient des concepts effaces par Tronconneuse. [CANON + DIVERGENCE RP - le canon ne cite que les Cavalieres ; extension actee]
-- Titulaire de milliers de contrats. Portee, contreparties et termes non detailles [INCERTAIN].
 
 ## Psychologie
 - Froid, calculateur, joueur d'echecs a coups d'avance - au point de devancer Controle elle-meme.
@@ -52,7 +60,7 @@ Trois formes distinctes.
 ## Relations de base
 - Mort - sa premiere engeance ; detentrice du toucher mortel herite de lui. Seule Primordiale a refuser sa souverainete : rivale declaree. Chaque mort classique la renforce.
 - Controle / Makima - Cavaliere, engeance directe ; convoitise mutuelle (moteur central). Elle reconnait qu'il la depasse sans se soumettre ; il la devance strategiquement. En 1984, alliee du trone (cf. Histoire).
-- Tronconneuse / Pochita - engeance directe, premier-ne apres les Cavalieres. Craint de tous ; SEUL etre capable de l'effacer. Son imprevisibilite en fait un fardeau ; c'est Effroi qui a ordonne son massacre (1983).
+- Tronconneuse / Pochita - engeance directe, premier-ne apres les Cavalieres. Craint de tous ; SEUL etre capable de l'effacer. Son imprevisibilite en fait un fardeau ; c'est Effroi qui a ordonne son massacre (1983). Depuis, il la traque mondialement via Reseau, mais vise une autre prise que le devoir - qui n'a pas suffi la premiere fois : une dette d'attachement, qu'elle lui doive TOUT et le serve par devotion vraie. En parallele, il propage le nom "Tronconneuse" pour la nourrir par son canal le plus faible (la peur des tronconneuses, bien moindre que celle de l'effacement ou de l'oubli) et freiner sa regeneration - ce qui la maintient reduite (encore un chiot au seuil des annees 1990).
 - Guerre / Yoru - Cavaliere, engeance directe, insoumise ; imprevisible, donc fardeau.
 - Famine / Fami - Cavaliere, engeance directe (premiere des Cavalieres), insoumise.
 - Primordiaux (Chute, Tenebres, Vieillesse) - engeances de Mort, descendance d'Effroi au second degre. Postures distinctes : Chute alignee (facade loyale), Tenebres respect CONDITIONNEL du plus fort (epee de Damocles sur le trone), Vieillesse fidele sans reserve. [DIVERGENCE RP]
@@ -73,12 +81,17 @@ Trois formes distinctes.
 - 1984 : il scelle une alliance avec Controle - la seule Cavaliere dont le monopole ne mene pas a Mort. But du plan : reformater et elever ensemble les quatre Cavalieres vers un monde stable en peur, dont le seul monopole serait l'equilibre. L'alliance enfante Autorite (Nayuta) ; Controle cede son statut de Cavaliere et devient Reine des demons. [DIVERGENCE RP]
 
 ## Implications d'arc
-(Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
+- R1 (Le Contrat, 2 decembre 1984) - ce que l'arc etablit qu'Effroi menait deja au point de depart :
+  - Implantation dans la trame deja active : l'identite "Makoto" et le rendez-vous du diner s'imposent a Controle et a son entourage par ce contrat, sans que nul ne se souvienne d'avoir prononce le nom.
+  - Lecture arretee de la situation post-Flingue : Guerre et Mort tiennent le monopole ; Mort etant laxiste, il la juge temporisable, tandis que Guerre reste le probleme urgent - d'ou le choix de Controle, seule Cavaliere dont le monopole ne renforce pas Mort (cf. Histoire).
+  - Methode contre Mort deja fixee : l'acculer jusqu'a ce qu'elle tienne sa propre reincarnation pour la seule issue viable (l'effacement ne contourne pas sa regle de mort volontaire).
+  - Double strategie envers Tronconneuse deja en cours : traque via Reseau, recherche d'une dette d'attachement, propagation du nom pour la brider (cf. Relations de base).
 
 ## Trajectoire datee
-(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
+(Alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : illimite - revu si trop lourd. Le canon par defaut vit ici ; si une partie diverge, le delta va en Parties/.)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| 2 decembre 1984 (R1 - Le Contrat) | Diner et contrat avec Controle : il la fait Reine des demons, la met enceinte (conception d'Autorite, reproduction sexuee sous forme humaine) ; integre la Securite Publique en couverture (transfert de Kyoto, tete du departement des rapports d'incidents - cf. Factions/Securite_Publique) | Alliance Effroi-Controle scellee ; amorce d'attachement (il devient protecteur envers sa Reine) ; un oeil humain de plus sur Terre |
 
 FIN_WIKI_PERSONNAGES_EFFROI
