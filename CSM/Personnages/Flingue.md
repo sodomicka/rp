@@ -1,6 +1,6 @@
 # Flingue
 
-- version : W2
+- version : W3
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -37,6 +37,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Un instinct de survie reel, mais toujours depasse d'un cheveu par la promesse de violence. [DIVERGENCE RP]
 - Fidele a Guerre TANT QU'elle promet la violence : obeissance conditionnelle envers le concept dont il decoule, pas devotion. [DIVERGENCE RP]
 - Taciturne, pas muet : il sait quand parler, et parle en economie de mots. [DIVERGENCE RP]
+- Intelligent mais ingouvernable : sa finesse tactique n'attenue en rien son impulsivite ni sa violence excessive - un demon-arme puissant ET malin, mais que rien ne bride. C'est cette absence de frein, non un manque d'esprit, qui en fait un candidat a l'hybridation-de-contention. [DIVERGENCE RP]
 
 ## Histoire (jusqu'au perimetre)
 - Nait de la peur des armes a feu, apres leur invention ; engeance directe de Guerre, rangee parmi les detonantes avec Tank. [IMPLICITE sur la datation]
@@ -50,6 +51,18 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Guerre / Yoru - le concept dont il decoule, sa suzeraine ; relie a elle par un canal contractuel (contrat demon-demon). Obeissance conditionnelle : tant qu'elle promet la violence. [CANON + DIVERGENCE RP]
 - Tank - pair detonant, engeance directe de Guerre comme lui. Statut 1984 : [INCERTAIN].
 - Bombe - paire detonante de la sphere de Guerre. (La rancoeur de Bombe a son endroit vit dans sa fiche.)
-- Effroi / Makoto - le trone, auquel il ne repond pas. Raccord 1984 : differe.
+- Effroi / Makoto - le trone, auquel il ne repond pas. Raccord 1984 : differe. Cible pressentie de son programme d'hybridation-de-contention (cf. Implications d'arc).
 - Tronconneuse / Pochita - adversaire du massacre de 1983.
-- L'h
+- Kishibe - hote pressenti de son hybridation-de-contention (differee, ~1990) : cynique, terre-a-terre, accorde a sa brutalite. cf. Personnages/Kishibe. [DIVERGENCE RP]
+- L'humanite - depuis novembre 1984, il est LA terreur planetaire ; la peur qu'il inspire domine toutes les autres. [CANON]
+
+## Implications d'arc
+- R1 (Le Contrat, 2 decembre 1984 - ~sept 1985) - la graine d'hybridation : au fil de la gestation, la Securite Publique recupere ses toutes premieres douilles de chair (fragments a mouvement d'agglomeration naturel) et le couple regnant l'identifie comme cible d'une hybridation de CONTENTION - non pour lui donner un esprit qu'il a deja, mais pour brider son impulsivite et sa violence. Kishibe est pressenti pour hote (accorde a sa brutalite). L'hybridation effective est differee a un arc ulterieur (~1990). [graine -> arc d'hybridation, differe]
+
+## Trajectoire datee
+(Alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : illimite - revu si trop lourd. Le canon par defaut vit ici ; si une partie diverge, le delta va en Parties/.)
+
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+
+FIN_WIKI_PERSONNAGES_FLINGUE

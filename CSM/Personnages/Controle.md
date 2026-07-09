@@ -1,6 +1,6 @@
 # Controle
 
-- version : W3
+- version : W4
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -35,6 +35,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Telepathie : projette sa voix dans les tetes, main posee sur le crane, meme sur les morts. [CANON]
 - Force physique immense ; corps-a-corps redoutable (brise les tronconneuses de Pochita). [CANON]
 - Odorat de predateur : distingue les etres a l'odeur, pas au visage - et ne retient l'odeur que de ceux qui comptent pour elle (faille exploitable). [CANON]
+- Reseau humain : elle coordonne la Securite Publique japonaise, qu'elle tient pour son propre instrument - en verite un fragment du reseau de Makoto (cf. Histoire et Trajectoire). [DIVERGENCE RP]
 - Capacites demoniaques standard : contrats contre un prix, regeneration par le sang. [CANON]
 - Contrats : titulaire de centaines de contrats - deuxieme plus gros detenteur du monde apres Effroi (qui en compte des milliers). [DIVERGENCE RP]
 - Dispositif d'immortalite : ses centaines de contrats, montes par elle SEULE avant 1984, lui servent de police d'immortalite (blessures mortelles reportees sur des humains via contrat). Cette immortalite, elle la doit a elle seule, pas a Effroi. [DIVERGENCE RP]
@@ -54,7 +55,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Long service : elle sert le trone sans se poser de questions, des eres durant. [DIVERGENCE RP]
 - Bascule : le laxisme de Makoto - son refus de dominer par la force, sa temporisation - finit par lui faire realiser qu'elle serait meilleure regente que lui. Nait la convoitise : le vouloir comme Roi, quasi-egal, tout en gardant sur lui un leger ascendant. [DIVERGENCE RP]
 - 1941-1948 : son champion de peur de la Seconde Guerre mondiale est le Nazisme ; Effacement le devore avec le lot sur ordre d'Effroi, la ramenant au niveau des autres demons. [DIVERGENCE RP]
-- Avant 1984 : elle monte SEULE ses centaines de contrats d'immortalite - des demons puissants lui cedent un pouvoir immense contre un cout faible. [DIVERGENCE RP]
+- Avant 1984 : elle monte SEULE ses centaines de contrats d'immortalite - des demons puissants lui cedent un pouvoir immense contre un cout faible. En parallele, elle coordonne la Securite Publique japonaise comme son instrument (sans savoir qu'elle est deja un fragment du reseau de Makoto). [DIVERGENCE RP]
 - 1983 - le massacre de Tronconneuse : ancienne garde rapprochee d'Effroi passee a la rebellion, l'engeance est liguee contre par le trone, les quatre Cavalieres et les demons-armes, en Enfer, et en ressort reduite. Seule alliance du genre entre Effroi et les quatre Cavalieres. [CANON + DIVERGENCE RP]
 - Depuis cette bataille : infiltree dans les societes humaines. [DIVERGENCE RP]
 - 1984 - l'apogee : infiltree chez les humains, a son plus haut - jusqu'a ce que l'attaque de Flingue la reduise.
@@ -72,12 +73,14 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 ## Implications d'arc
 - R0 (Arrivee de Makoto, 2 decembre 1984) - ce que l'arc etablit qu'elle est deja au point de depart :
   - Elle identifie Effroi a vue : voyant l'homme que tous les humains fixent, petrifies et epuises, elle comprend immediatement qui il est, sans l'avoir jamais rencontre. Elle connait la signature de l'Originel - le sommet de la hierarchie dont elle decoule.
+  - Elle coordonne deja la Securite Publique et la tient pour son reseau propre : le levier que Makoto va lui reveler comme sien au diner.
+  - Elle a constitue, via la Division 3 de la SP, une reserve de demons sous Controle en guise de MONNAIE D'ECHANGE au cas ou Effroi viendrait la trouver : quand un demon juge utile lui tombait sous la main, elle le prenait et le presentait a la SP comme un volontaire. Le diner du 2 dec rend cette monnaie caduque (Makoto retourne les renegats lui-meme - cf. Trajectoire et fiche Securite_Publique).
 
 ## Trajectoire datee
 (Alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : illimite - revu si trop lourd. Le canon par defaut vit ici ; si une partie diverge, le delta va en Parties/.)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| 2 decembre 1984 (R1 - Le Contrat) | Diner et contrat avec Effroi : promue Reine des demons, cede son statut de Cavaliere ; concoit Autorite (reproduction sexuee, forme humaine) | Perd l'autorite PURE de son controle - l'obeissance aveugle et sans raison passe a Autorite avec le statut de Cavaliere ; garde le controle indirect (fascination, envie de servitude) ; enceinte ; amorce d'attachement - cesse de chercher a le renverser |
+| 2 decembre 1984 - ~septembre 1985 (R1 - Le Contrat) | Diner et contrat avec Effroi : promue Reine des demons, cede son statut de Cavaliere ; concoit puis met au monde Autorite (reproduction sexuee, forme humaine, gestation ~9 mois). Au diner, Makoto lui revele que la Securite Publique, le reseau humain qu'elle croyait sien, est sa creation a lui depuis toujours - elle n'a jamais rien possede | Perd l'autorite PURE de son controle (l'obeissance aveugle passe a Autorite avec le statut de Cavaliere) ; ne garde que le controle indirect (fascination, envie de servitude). Grossesse demoniaque plus violente que l'humaine : nausees, sautes d'humeur intenses, pics de libido, soif de massacres. A l'approche du terme, perd l'envie de dominer par la force et bascule vers l'insidieux (manifestation lente de l'autorite cedee). Amorce d'attachement reel envers Effroi - cesse de comploter contre lui |
 
 FIN_WIKI_PERSONNAGES_CONTROLE
