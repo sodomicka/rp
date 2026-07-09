@@ -53,4 +53,10 @@ Entite double : un LIEU (plan reel) ET le DEMON qui l'incarne. Le demon [CANON +
 ## Implications d'arc
 (Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
 
-## Trajectoi
+## Trajectoire datee
+(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
+
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+
+FIN_WIKI_LIEUX_ENFER
