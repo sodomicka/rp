@@ -1,64 +1,87 @@
 # Bombe
 
-- version : W2
+- version : W3
 
-Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
+Entite double : le DEMON (Bombe) et l'HYBRIDE humaine qui le portera (Reze). Fiche NEUTRE : decrit l'entite telle qu'elle existe dans le monde, independamment d'une partie. [CANON + DIVERGENCE RP]
+
+Particularite vs Arc/Quanxi : ici la fusion est POSTERIEURE au point de depart. Elle survient en 1988 (Roadmap 2). Au point de depart (2 dec 1984), Bombe est un demon PUR et Reze une enfant de 3 ans prise dans le programme sovietique de Guerre - deux entites SEPAREES. Le NOYAU decrit donc les deux moities ; la fusion, l'accord des volontes et leurs suites vivent en Trajectoire datee.
 
 ## Identite
-- Nom : Bombe (demon de la Bombe / Bomb Devil).
-- Nature : demon-arme, engeance de Guerre ; l'une des sept armes anciennes ; arme DETONANTE, rattachee de facade a Guerre. [CANON + DIVERGENCE RP]
+- Noms : Bombe (demon de la Bombe / Bomb Devil) / Reze (l'hybride a venir ; "Bomb Girl", enfant-arme du programme sovietique de Guerre).
 - Concept : la peur des bombes et des explosions.
-- Statut : active, entiere (non fusionnee) ; officiellement au service de Guerre, secretement agent double au service d'Effroi. [DIVERGENCE RP]
+- Nature : demon-arme, engeance de Guerre ; l'une des sept armes anciennes ; arme DETONANTE, rattachee de facade a Guerre. [CANON + DIVERGENCE RP]
+- Statut au point de depart : Bombe active, ENTIERE (non fusionnee), agent double secret d'Effroi ; Reze, 3 ans, en dressage dans le programme sovietique. Fusion en 1988 (cf. Trajectoire). [DIVERGENCE RP]
 
-## Place dans la lignee
-- Engeance de Guerre, comme toutes les armes ; membre des sept armes anciennes. [DIVERGENCE RP]
-- Detonante : avec Flingue et Tank, elle repond a Guerre - c'est la facade. En sous-main, elle a rompu cette allegeance au profit du trone ; Guerre l'ignore. [DIVERGENCE RP]
+## Le demon (Bombe)
+- Engeance de Guerre, membre des sept armes anciennes, DETONANTE. En facade elle repond a Guerre (avec Flingue et Tank) ; en sous-main elle a rompu cette allegeance au profit du trone - Guerre l'ignore. [DIVERGENCE RP]
+- La plus maligne de l'arsenal : la ou les brutes obeissent, elle calcule. C'est ce qui la rend apte a l'ACCORD. Les armes "tout dans les muscles, rien dans la tete" (le gros de l'arsenal) s'hybrident en leur plantant un coeur ; un demon a caractere comme elle exige un ACCORD DES VOLONTES pour fusionner - meme regime que Flingue avec Kishibe. [DIVERGENCE RP]
+- Mobile de la trahison : la frustration. Flingue rafle la peur des armes ; elle a choisi le trone plutot que de s'etioler dans son ombre. [DIVERGENCE RP]
 - Naissance : posterieure a l'invention des explosifs. [IMPLICITE]
 
+## L'hybride (Reze)
+- Humaine, enfant-arme du programme sovietique de Guerre (l'URSS). Nee en 1981 ; 3 ans au point de depart, 7 ans a l'hybridation (1988). [CANON pour l'origine sovietique + DIVERGENCE RP pour l'age - le canon ne la date pas]
+- Elevee et dressee des l'enfance comme une arme vivante ; les "annees de souffrance" (R2) sont sa weaponisation sovietique. [CANON + DIVERGENCE RP]
+- Surnom : "Bomb Girl". Sa mission canon d'origine (voler le coeur de la Tronconneuse pour l'URSS) ne s'applique PAS telle quelle dans cette timeline : sa mission est celle d'Effroi (cf. Trajectoire 1988). [CANON + DIVERGENCE RP]
+- Ame reelle sous la facade : une soif de liberte et d'amour - vivre une vie normale, aimer et etre aimee. Point commun avec Bombe, et base de leur accord a venir. [CANON]
+
 ## Apparence
-- Forme veritable : silhouette feminine elancee, musculature marquee ; un corps ou la chair s'imbrique aux explosifs - batons de dynamite integres, meches courant le long des bras ; tete en obus explosif aerodynamique. Plus charnue et plus armee que la future forme hybride. [DIVERGENCE RP - le demon n'est jamais montre en canon ; design extrapole de l'hybride]
+- Bombe, forme veritable (demon pur) : silhouette feminine elancee, musculature marquee ; chair imbriquee d'explosifs - batons de dynamite integres, meches courant le long des bras ; tete en obus aerodynamique. Plus charnue et plus armee que la forme hybride. [DIVERGENCE RP - le demon n'est jamais montre en canon ; design extrapole de l'hybride]
+- Reze, forme humaine (apparence adulte, canon) : jeune femme svelte, cheveux violets mi-longs, yeux verts emeraude ; sujette a rougir ; ras-du-cou dissimulant le pin de grenade au creux du cou, qu'elle tire pour se transformer. [CANON]
+- Regle d'apparence : au fil de R2 (1985-1990) Reze est encore une ENFANT en croissance ; son apparence vieillit normalement jusqu'a l'age adulte, PUIS se fige (gel a l'apparence adulte - cf. BIBLE SB1). Le design canon ci-dessus est sa forme adulte figee, atteinte APRES le perimetre de R2. [DIVERGENCE RP - regle du monde]
+- Forme hybride : cf. Pouvoirs (transformation par le pin de grenade).
 
 ## Immortalite
-- Cycle standard : tuee sur Terre, elle renait en Enfer ; tuee en Enfer, elle renait sur Terre. [CANON]
-- Memoire et allegeance a la reincarnation : regle generale au cas par cas, non tranchee pour elle. [INCERTAIN - non bloquant]
+- Bombe, demon pur (avant fusion) : cycle standard - tuee sur Terre, renait en Enfer ; tuee en Enfer, renait sur Terre. [CANON]
+- Post-fusion (des 1988) : quasi-immortalite d'hybride - regeneration tant qu'il reste du sang ; le demon Bombe est soustrait au cycle mort-renaissance tant que la fusion tient. [CANON + IMPLICITE]
+- Gel de vieillissement : a partir de l'apparence adulte (cf. Apparence). [DIVERGENCE RP]
+- Memoire et allegeance a la reincarnation : cas par cas, non tranchee pour elle. [INCERTAIN - non bloquant]
 
 ## Pouvoirs
+(Panoplie de l'hybride ; s'exprime a partir de la fusion de 1988.)
 - Explosions : deflagrations capables de raser vehicules et batiments. [CANON via l'hybride]
-- Chair detonante : transforme des parties de son corps en bombes a retardement ; les membres sacrifies repoussent sans dommage. [CANON via l'hybride]
-- Propulsion : deplacement et vol par deflagrations dirigees ; membres-torpilles au corps a corps. [CANON via l'hybride]
-- Durabilite majeure : encaisse ses propres explosions sans une egratignure. [CANON via l'hybride]
-- Faiblesse : l'eau - l'humidite tue l'etincelle. [CANON via l'hybride]
+- Chair detonante : transforme des parties de son corps en bombes a retardement ; les membres sacrifies repoussent sans dommage. [CANON]
+- Corps-leurre : elle peut se faire sauter la tete et laisser le reste du corps en leurre telecommande - le leurre agit comme une bombe et distrait l'adversaire, pendant qu'une Reze transformee resurgit. [CANON]
+- Propulsion / torpille humaine : vol et deplacement par deflagrations dirigees ; se lance en projectile au corps a corps. [CANON]
+- Vitesse et durabilite rehaussees : tranche avant que l'adversaire reagisse ; encaisse ses propres explosions sans une egratignure. [CANON]
+- Transformation : elle tire le pin de grenade loge a son cou. [CANON]
+- Faiblesse : l'eau - l'humidite tue l'etincelle. [CANON]
 - Capacites demoniaques standard : contrats contre un prix, regeneration par le sang. [CANON]
-- Nutrition : la peur des bombes et des explosions. Niche rognee par la montee de Flingue, qui aspire a lui seul la peur des armes - source de sa frustration. Scaling precis : differe a l'histoire globale. [DIVERGENCE RP]
+- Nutrition (Bombe) : la peur des bombes et des explosions ; niche rognee par la montee de Flingue, source de sa frustration. Scaling precis de l'hybride : differe a l'histoire globale (plancher : forte hybride de terrain, tres en dessous des Cavalieres). [DIVERGENCE RP]
 
 ## Psychologie
-- La plus maligne des armes : la ou l'arsenal obeit, elle calcule. Revers : moins docile, donc plus difficile a hybrider. [DIVERGENCE RP]
-- Patiente, rusee, manipulatrice : un role de composition permanent - servir Guerre en apparence, renseigner Effroi en secret. [DIVERGENCE RP]
-- Mobile de la trahison : la frustration. Flingue rafle toute la peur des armes ; elle a choisi le trone plutot que de s'etioler dans son ombre. [DIVERGENCE RP]
+- Bombe : patiente, rusee, manipulatrice ; un role de composition permanent - servir Guerre en apparence, renseigner Effroi en secret. La plus maligne des armes. [DIVERGENCE RP]
+- Reze : facade douce et avenante sur un fond d'operatrice froide et disciplinee ; dessous, une enfant abimee qui reve de liberte et d'amour. [CANON]
+- L'accord (des 1988) : pas une possession mais un pacte de deux volontes qui veulent la meme chose. Dans l'hybride, Reze est le VISAGE (l'identite humaine, celle qui parle et agit au grand jour) ; Bombe est co-conscience et moteur de puissance. Deux tetes soudees par le desir commun d'aimer, alignees sur Effroi qui leur promet la liberte au bout. [DIVERGENCE RP]
+- Levier d'Effroi : le DESIR d'amour, partage par Bombe et Reze - Effroi le connait et l'exploite. [DIVERGENCE RP]
 
-## Histoire (jusqu'au perimetre)
-- Nait de la peur des bombes, apres l'invention des explosifs ; engeance de Guerre, rangee parmi les detonantes. [IMPLICITE sur la datation]
-- Rupture secrete : frustree par la montee de Flingue qui aspire la peur des armes, elle rompt en secret son allegeance a Guerre et passe au service d'Effroi. Datation et circonstances : differees a l'histoire globale. [DIVERGENCE RP]
-- 1983 - le massacre : presente en DEMON PUR, sous la banniere de Guerre, au sein de l'alliance temporaire du trone et des quatre Cavalieres contre Tronconneuse, en Enfer. [CANON + DIVERGENCE RP]
-- 1984 : entiere, non fusionnee ; agent double en place. Position et mission precises : differees a l'histoire globale. [DIVERGENCE RP]
-- Plus tard (hors perimetre, differe) : hybridation avec Reze - enfant deja nee en 1984, prise dans le programme sovietique de Guerre. Programme, hybridation et mission : differes a l'histoire globale. [CANON + DIVERGENCE RP]
+## Place dans la lignee
+- Bombe : engeance de Guerre, l'une des sept armes anciennes, detonante. [DIVERGENCE RP]
+- Reze : humaine hors lignee demoniaque - hote du programme sovietique de Guerre (le programme d'hybridation "comme Effroi" que Guerre monte par mimetisme et prestige). [DIVERGENCE RP]
+
+## Histoire (jusqu'au point de depart, 2 dec 1984)
+- Bombe nait de la peur des bombes, apres l'invention des explosifs ; engeance de Guerre, rangee parmi les detonantes. [IMPLICITE sur la datation]
+- Rupture secrete : frustree par la montee de Flingue qui aspire la peur des armes, elle rompt en sous-main son allegeance a Guerre et passe au service d'Effroi. Datation et circonstances : differees a l'histoire globale. [DIVERGENCE RP]
+- 1983 - le massacre : presente en DEMON PUR, sous la banniere de Guerre, dans l'alliance temporaire du trone et des quatre Cavalieres contre Tronconneuse, en Enfer. [CANON + DIVERGENCE RP]
+- Reze, cote humain : nee 1981, deja happee par le programme sovietique de Guerre ; 3 ans au point de depart, en dressage. [DIVERGENCE RP]
+- 2 dec 1984 : Bombe entiere, agent double en place ; Reze enfant, pas encore fusionnee. [DIVERGENCE RP]
 
 ## Relations de base
-- Effroi / Makoto - son maitre secret ; elle le renseigne sur la sphere de Guerre. Levier du lien : le DESIR d'amour - Bombe (comme Reze) veut aimer et etre aimee un jour ; Effroi le sait et l'exploitera. Anciennete du lien : differee. [DIVERGENCE RP]
-- Guerre / Yoru - le concept dont elle decoule ET sa suzeraine de facade. Bombe la sert en apparence, la trahit en sous-main ; Guerre l'ignore. Elle garde neanmoins avec Guerre un contrat-canal DIRECT - seule parmi les agents d'Effroi a conserver ce lien direct ; son double jeu se joue sur une ligne que Guerre tient. [DIVERGENCE RP]
-- Flingue - pair d'arsenal et rival execre : il rafle la peur des armes, elle en paie le prix. Source de sa rupture.
-- Tank - pair detonant, fidele a Guerre. Texture : roadmap.
-- Arsenal - Katana, Arc, Espadon, Lance-flammes, Fouet, Lance : au trone ouvertement - elle seule y est en secret.
-- Tronconneuse / Pochita - adversaire du massacre de 1983.
-- Reze - future hybride (post-perimetre) ; nee en 1984, programme sovietique de Guerre ; elles partagent le desir d'aimer, levier qu'Effroi exploitera ; integration differee.
+- Effroi / Makoto - maitre secret ; il fixe la mission de l'hybride et lui confie Typhon. Levier du lien : le desir d'amour. [DIVERGENCE RP]
+- Guerre / Yoru - le concept dont Bombe decoule ET sa suzeraine de facade ; servie en apparence, trahie en sous-main, Guerre l'ignore. Bombe garde avec elle un contrat-canal DIRECT - seule parmi les agents d'Effroi a conserver ce lien direct ; le double jeu se joue sur une ligne que Guerre tient. C'est le programme sovietique de Guerre qui hybride Reze. [DIVERGENCE RP]
+- Flingue - pair d'arsenal et rival execre : il rafle la peur des armes, elle en paie le prix. Source de sa rupture. [DIVERGENCE RP]
+- Tank - pair detonant, reste fidele a Guerre. [DIVERGENCE RP]
+- Typhon - engeance de Cataclysme placee sous son contrat (des 1988), sans contrepartie ni exclusivite ; la nomme "Maitresse Reze". [DIVERGENCE RP]
+- Arsenal (Katana, Arc, Espadon, Lance-flammes, Fouet, Lance) - au trone ouvertement ; elle seule y est en secret. [DIVERGENCE RP]
+- Tronconneuse / Pochita - adversaire du massacre de 1983. [CANON + DIVERGENCE RP]
 
 ## Implications d'arc
-(Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
+- R2 exige qu'au point de depart : Bombe soit DEJA en place comme agent double au coeur de la sphere de Guerre (sinon pas d'espionne a hybrider en 1988) ; Reze soit DEJA nee et dans le programme sovietique ; le desir d'amour partage soit DEJA present (c'est le levier qui rend l'accord de 1988 possible). Points couverts par le NOYAU.
 
 ## Trajectoire datee
-(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
+(Alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| 1988 (R2) | Hybridation Bombe + Reze au complexe siberien de Guerre (programme sovietique) ; ACCORD des volontes. Bombe connecte l'hybride a Makoto, qui fixe la mission : fausse fidelite a Guerre contre recompense eternelle. Effroi lui confie Typhon (engeance de Cataclysme) - contrat sans contrepartie, non exclusif ; Typhon la nomme "Maitresse Reze". | Bombe passe de demon pur a hybride ; Reze devient l'hote-visage ; l'entite double entre au service actif d'Effroi sous couverture de Guerre ; acquiert le contrat Typhon. |
 
 FIN_WIKI_PERSONNAGES_BOMBE
