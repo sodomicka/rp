@@ -1,6 +1,6 @@
 # Sommaire - CSM
 
-- version : W9
+- version : W10
 
 ## WIKI
 
@@ -8,7 +8,7 @@
 
 ### (racine)
 Description : pages de travail et index.
-- _Implications.md (W9) - journal de travail du build (jamais fetche en narration)
+- _Implications.md (W10) - journal de travail du build (jamais fetche en narration)
 
 > ROADMAPS NON INDEXEES EN JEU (v8.2). Le dossier `Roadmap/<Prota>/` ne sera pas liste ici. Sources de build uniquement, lues par listing de dossier.
 
@@ -45,7 +45,7 @@ Description : pages systeme transversales (regles, arbres, index thematiques).
 Description : factions et groupes (humains ou mixtes) ; etat neutre + Trajectoire datee.
 - Securite_Publique.md (W1) - agence anti-demons japonaise ; roster de decembre 1984 (Divisions 1/2/3, les sept renegats) ; en verite un instrument d'Effroi
 
-PASSE 1 CLOTUREE (B2). PASSE 2 EN COURS : point de depart fixe au 2 decembre 1984 ; Roadmap_0 (Arrivee de Makoto) et Roadmap_1 (Le Contrat) posees dans Roadmap/Makoto/ (non indexees ici, sources de build) ; fiche-faction Securite Publique creee (W1). FAIT ce lot : BIBLE B3 (chrono SB3 desempilee - 18 nov / 2 dec / ~sept 1985) ; Genealogie W3 (mecanique de reproduction sexuee) ; enrichissements a chaud depuis R1 - Effroi (W4), Controle (W3), Mort (W3), Tronconneuse (W4). EN ATTENTE (cf. _Implications) : construction de Roadmap_2 (gestation, gardien de Nayuta), puis la suite des roadmaps ; Passe 3 (decoupage en arcs + fiches d'arc), puis CODEX V1, puis SETUP. Aucune fiche d'arc a ce stade. Dettes BIBLE differees (prochain BIBLE BUILD) : SB0 (ajouter le dossier Factions/) ; distinction traits propres / arsenal contractuel + trait "terreur au regard" d'Effroi (SB1/SB5) ; Makoto agent infiltre de la SP (SB4).
+PASSE 1 CLOTUREE (B2). PASSE 2 EN COURS : point de depart au 2 decembre 1984 ; Roadmap_0 (Arrivee de Makoto) et Roadmap_1 (Le Contrat) posees dans Roadmap/Makoto/ (non indexees ici, sources de build). Roadmap_1 completee en W2 : perimetre etendu du diner du 2 dec 1984 a la naissance d'Autorite (~sept 1985), 6 etapes, section "termes du contrat" (alliance, sentence mutuelle de 30 s, canal asymetrique) ; R1 absorbe la gestation. PROCHAIN THREAD dedie : patcher les fiches (Securite_Publique, Controle, Reseau, Effroi) + creer la fiche Kishibe (Personnages/) + BIBLE BUILD B4 - detail des patches et dettes en _Implications W10. APRES : re-perimetrer et construire Roadmap_2 (petite enfance de Nayuta), puis la suite des roadmaps ; Passe 3 (arcs + fiches d'arc) ; CODEX V1 ; SETUP. Aucune fiche d'arc a ce stade.
 
 ## PARTIES (Partie1)
 
