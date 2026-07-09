@@ -94,4 +94,15 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demo
 - Enfer - le canal de convocation du trone : c'est par lui qu'ils furent rappeles pour la bataille.
 - Kishibe - contractant japonais notoire (Securite Publique), triple contrat des 1984 ; mouchard involontaire du filet. Il accepte le prix car il ne compte JAMAIS cesser de chasser - il ne paiera donc jamais son ame (Tchekhov). [CANON + DIVERGENCE RP]
 - Tronconneuse / Pochita - adversaire de la bataille, cible du guet.
-- Les hybrides du trone (cf. Armes, Arc/Quanxi) - volet ACTIF de la meme chasse ; les Vaudous en sont le volet passi
+- Les hybrides du trone (cf. Armes, Arc/Quanxi) - volet ACTIF de la meme chasse ; les Vaudous en sont le volet passif.
+
+## Implications d'arc
+(Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
+
+## Trajectoire datee
+(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
+
+| Date/ere | Entite | Evenement | Delta d'etat |
+|---|---|---|---|
+
+FIN_WIKI_PERSONNAGES_VAUDOUS

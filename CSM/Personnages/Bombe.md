@@ -50,4 +50,15 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Tank - pair detonant, fidele a Guerre. Texture : roadmap.
 - Arsenal - Katana, Arc, Espadon, Lance-flammes, Fouet, Lance : au trone ouvertement - elle seule y est en secret.
 - Tronconneuse / Pochita - adversaire du massacre de 1983.
-- Reze - future hybride (post-perimetre) ; nee en 1984, programme sovietique de Guerre ; elles partagent le desir d'aimer, levier qu'Effroi ex
+- Reze - future hybride (post-perimetre) ; nee en 1984, programme sovietique de Guerre ; elles partagent le desir d'aimer, levier qu'Effroi exploitera ; integration differee.
+
+## Implications d'arc
+(Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
+
+## Trajectoire datee
+(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
+
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+
+FIN_WIKI_PERSONNAGES_BOMBE

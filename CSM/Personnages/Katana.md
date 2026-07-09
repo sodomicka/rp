@@ -54,4 +54,9 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 (Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
 
 ## Trajectoire datee
-(Vide a la genese - alimentee A CHAUD, une entree par arc roadmap
+(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
+
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+
+FIN_WIKI_PERSONNAGES_KATANA

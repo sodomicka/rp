@@ -88,4 +88,17 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les quatre der
 - Effroi / Makoto - leur Roi. Obeissance d'outils : ils executent la traque pour le trone.
 - Guerre / Yoru - le concept dont ils decoulent. Ils ne la servent pas : leur fidelite va au trone.
 - Arc / Quanxi - cinquieme traqueuse de 1984, veterane du programme (premiere hybride). Articulation entre la traque et son activite mercenaire : differee.
-- Katana - pair des sept anciennes, reste entier au Roy
+- Katana - pair des sept anciennes, reste entier au Royaume.
+- Bombe - paire des sept anciennes, detonante rangee sous Guerre (en facade).
+- Tronconneuse / Pochita - adversaire du massacre, proie de la traque de 1984.
+
+## Implications d'arc
+(Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
+
+## Trajectoire datee
+(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
+
+| Date/ere | Entite | Evenement | Delta d'etat |
+|---|---|---|---|
+
+FIN_WIKI_PERSONNAGES_ARMES

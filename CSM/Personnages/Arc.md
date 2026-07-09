@@ -62,4 +62,19 @@ Entite double : un DEMON (Arc) ET l'HYBRIDE qui le porte (Quanxi). La fusion est
 - Effroi / Makoto - son roi, en sous-main. Il l'a selectionnee, premiere de son programme d'hybridation. Nature du lien : un marche (chasse eternelle contre les basses besognes du trone).
 - Arc (le demon) - son coeur. Muet dans la fusion ; fidele au trone comme elle.
 - Guerre / Yoru - le concept dont Arc decoule. Texture du rapport : roadmap.
-- Kishibe - ancien partenaire 
+- Kishibe - ancien partenaire a la Securite Publique, du temps de leur jeunesse. Etat du lien en 1984 : non detaille (roadmap). [CANON]
+- Arsenal - Katana, Espadon, Lance-flammes, Fouet et Lance au trone ; les detonantes (Bombe, Flingue, Tank) chez Guerre.
+- Tronconneuse / Pochita - adversaire du massacre de 1983 ; proie de la traque de 1984 (volet actif).
+- Harem de fiends - compagnes de Quanxi (canon vers P1) ; etat 1984 : [INCERTAIN - differe].
+- Securite Publique (Japon) - ex-employeur, quitte avant l'ere Makima.
+
+## Implications d'arc
+(Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
+
+## Trajectoire datee
+(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
+
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+
+FIN_WIKI_PERSONNAGES_ARC
