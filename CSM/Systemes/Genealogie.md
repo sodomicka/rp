@@ -1,6 +1,6 @@
 # Genealogie
 
-- version : W3
+- version : W4
 
 Page SYSTEMES : liste des naissances et lignees conceptuelles ACTEES. Document transversal, sans narration. Les regles du monde associees (contrats, canaux, nutrition) vivent en BIBLE SB1 ; ici, l'arbre et ses regles de lecture.
 
@@ -39,7 +39,8 @@ Les engeances de Mort (Primordiaux) naissent entre Mort et les Cavalieres de soc
 ## Autres engeances directes d'Effroi (anciennes, non titrees)
 Engeances qui decoulent directement d'Effroi mais restent hors du quintette structurant (ni Primordiales, ni Cavalieres) : anciennes, au plus pres de la peur pure.
 - Sixieme sens - engeance directe d'Effroi, au plus pres de la peur pure ; possede autrefois par tous les humains, il decuplait la peur ambiante et favorisait TROP Effroi lui-meme. Efface sur ordre d'Effroi (ere du Royaume stable) - son effacement l'AFFAIBLIT. [DIVERGENCE RP]
-- Catastrophes - engeance directe d'Effroi, ancienne (peur brute de la catastrophe naturelle, au plus pres de la terreur pure) ; d'ou sa fidelite au trone et son imprevisibilite. Jamais mis en scene. L'eruption du Mont Hio (XIXe s.) fait partie des effaces. [DIVERGENCE RP - rattachement tranche au B2]
+- Cataclysme - engeance directe d'Effroi, ancienne (peur brute de la catastrophe naturelle, au plus pres de la terreur pure) ; d'ou sa fidelite au trone et son imprevisibilite. Anciennement nomme Catastrophes (renomme Cataclysme). Tete d'une petite lignee (cf. Lignee de Cataclysme). L'eruption du Mont Hio (XIXe s.) fait partie des effaces. [DIVERGENCE RP - rattachement tranche au B2 ; renomme]
+- Predateur - engeance directe d'Effroi, tres ancienne (la peur des betes et des animaux, l'une des plus vieilles peurs humaines, anterieure aux premieres societes). RENEGATE : passee a l'insoumission, alliee a Guerre contre le trone. Tete de la lignee des demons animaux (cf. Lignee de Predateur). [DIVERGENCE RP]
 
 ## Lignee de Mort
 - Primordiaux, engeances de Mort, ordre acte : Chute -> Tenebres -> Vieillesse. Toutes peurs de la mort. Prehistoire.
@@ -67,6 +68,17 @@ Engeances qui decoulent directement d'Effroi mais restent hors du quintette stru
 ## Lignee de Controle
 - Engeance devoree : Nazisme - devoree par Tronconneuse (1941-1948), sur ordre d'Effroi. [CANON sur l'effacement + DIVERGENCE RP sur la filiation]
 
+## Lignee de Predateur
+- Predateur est la tete de lignee des demons animaux : la peur des betes engendre les demons des betes particulieres.
+- Statut interne : la plupart des demons animaux ont suivi Predateur dans l'insoumission et servent Guerre - une petite armee de betes rangee sous sa banniere. Rares sont les fideles au trone.
+- Renarde - demone animale (peur du renard, de la ruse animale) ; engeance de Predateur restee FIDELE au trone. Plus froide et moins impulsive que le reste des betes. [CANON sur le demon animal + DIVERGENCE RP sur la filiation]
+- Serpent - demone animale (peur du serpent) ; engeance de Predateur restee FIDELE au trone. Meme temperament froid et pose. [CANON sur le demon animal + DIVERGENCE RP sur la filiation]
+- Les autres demons animaux : engeances de Predateur ralliees a Guerre avec leur tete de lignee. [DIVERGENCE RP]
+
+## Lignee de Cataclysme
+- Cataclysme engendre les catastrophes naturelles particulieres.
+- Engeance : Typhon - demon de la tempete et du typhon ; engeance de Cataclysme. [DIVERGENCE RP]
+
 ## Descendance d'Effroi sans rattachement (demons mineurs)
 - Enfer - peur de l'enfer. Pivot cosmogonique : sa naissance ouvre le plan Enfer et le cycle bipolaire. Ne apres les cinq engeances directes ; datation ouverte. [DIVERGENCE RP]
 - Reseau - peur de l'attachement, des liens, de la perte. "Pere" des contrats. [DIVERGENCE RP - OC]
@@ -84,11 +96,12 @@ Engeances qui decoulent directement d'Effroi mais restent hors du quintette stru
   - Controle : Nazisme (1941-1948).
   - Famine : SOA (IVe s.), Syndrome d'Arnolone (1941-1948), Sida (1983).
   - Demence : l'etoile qui brisait l'esprit des enfants (XIVe s.).
-  - Catastrophes : l'eruption du Mont Hio (XIXe s.).
+  - Cataclysme : l'eruption du Mont Hio (XIXe s.). [anciennement Catastrophes]
   Tous effaces SUR ORDRE d'Effroi (doctrine de dissuasion : Effacement n'agit jamais seul).
 
 ## Bornes ouvertes
 - Datation de la naissance d'Enfer : ouverte ; borne basse = posterieure aux cinq engeances directes.
 - Anciennete des postes terrestres du trio vaudou : non datee.
+- Anciennete de Predateur et de la lignee animale : ancienne (pre-societes), non datee finement.
 
 FIN_WIKI_SYSTEMES_GENEALOGIE
