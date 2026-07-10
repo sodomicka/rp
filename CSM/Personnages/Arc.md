@@ -1,6 +1,6 @@
 # Arc
 
-- version : W2
+- version : W3
 
 Entite double : un DEMON (Arc) ET l'HYBRIDE qui le porte (Quanxi). La fusion est anterieure au perimetre : l'entite agissante est l'hybride ; toute la fiche vit donc ici, en une page. Fiche NEUTRE. [CANON + DIVERGENCE RP]
 
@@ -44,7 +44,7 @@ Entite double : un DEMON (Arc) ET l'HYBRIDE qui le porte (Quanxi). La fusion est
 - Philosophie assumee : "l'ignorance est un bonheur" - elle choisit de ne pas trop savoir pour vivre en paix. [CANON]
 - Attachement reel et protecteur a ses proches ; en canon, elle negocie pour eux plutot que pour elle. [CANON]
 - Aime les femmes. [CANON]
-- Harem de fiends (Long, Pingtsi, Tsugihagi, Cosmo) : compagnes attestees en canon vers P1. Constitution du harem en 1984 : [INCERTAIN - differe a l'histoire globale].
+- Harem de possedes (Long, Pingtsi, Tsugihagi, Cosmo) : compagnes attestees en canon vers P1. Constitution du harem en 1984 : [INCERTAIN - differe a l'histoire globale].
 
 ## Place dans la lignee
 - Arc : engeance de Guerre, parmi les sept armes anciennes ; les detonantes (Bombe, Flingue, Tank) repondent a Guerre, les autres au trone. [DIVERGENCE RP]
@@ -65,7 +65,7 @@ Entite double : un DEMON (Arc) ET l'HYBRIDE qui le porte (Quanxi). La fusion est
 - Kishibe - ancien partenaire a la Securite Publique, du temps de leur jeunesse. Etat du lien en 1984 : non detaille (roadmap). [CANON]
 - Arsenal - Katana, Espadon, Lance-flammes, Fouet et Lance au trone ; les detonantes (Bombe, Flingue, Tank) chez Guerre.
 - Tronconneuse / Pochita - adversaire du massacre de 1983 ; proie de la traque de 1984 (volet actif).
-- Harem de fiends - compagnes de Quanxi (canon vers P1) ; etat 1984 : [INCERTAIN - differe].
+- Harem de possedes - compagnes de Quanxi (canon vers P1) ; etat 1984 : [INCERTAIN - differe].
 - Securite Publique (Japon) - ex-employeur, quitte avant l'ere Makima.
 
 ## Implications d'arc

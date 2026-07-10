@@ -1,13 +1,14 @@
 # Famine
 
-- version : W2
+- version : W3
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
 ## Identite
 - Nom : Famine (demon de la Famine). Diminutif : Fami - elle se presente elle-meme ainsi. [CANON]
 - Nature : Cavaliere, premiere des trois Cavalieres de societes ; engeance directe d'Effroi. [DIVERGENCE RP]
-- Concept : la peur de la faim, de la famine et de la privation.
+- Concept : la peur du MANQUE et du BESOIN sous toutes leurs formes - la faim et la famine d'abord, mais aussi la privation, la dependance et l'ADDICTION (drogue, alcool, et jusqu'au manque d'affection). Le corps ou le coeur prive de ce dont il a besoin. [DIVERGENCE RP - concept elargi]
+- Facette de la souffrance : Famine incarne le MANQUE, l'une des quatre faces de la souffrance portees par les Cavalieres (Controle = psychologique, Guerre = blessures, Famine = manque, Mort = letalite). Frontiere NETTE avec Controle : le besoin, la dependance et l'addiction sont a Famine ; la volonte asservie reste a Controle. On peut avoir besoin sans etre asservi, et etre asservi sans manquer de rien. [DIVERGENCE RP]
 - Statut : active, solitaire a defaut de mieux ; insoumise au trone ; fortement reduite depuis 1984.
 
 ## Place dans la lignee
@@ -15,7 +16,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Posterieure a Mort, la plus ancienne des quatre, qui la precede d'eres entieres. [CANON]
 - Nee AVANT le demon Enfer : elle vient au monde sur Terre, comme tous les demons anterieurs au Royaume. [DIVERGENCE RP]
 - Le cercle des Cavalieres : Mort, Famine, Guerre, Controle.
-- Sa lignee : l'arsenal des maladies - les demons de maladies decoulent d'elle (dont SOA, maladie venerienne du IVe siecle, et le Sida de 1983, tous deux devores par Tronconneuse). [DIVERGENCE RP]
+- Sa lignee : l'arsenal des maladies (le corps prive de sa sante) - les demons de maladies decoulent d'elle (dont SOA, maladie venerienne du IVe siecle, et le Sida de 1983, tous deux devores par Tronconneuse). [DIVERGENCE RP]
 
 ## Apparence
 - Forme veritable humanoide (regle des Cavalieres) : jeune femme aux longs cheveux blonds en desordre, coupes en couches inegales, meches rebelles ; frange sur le front et les cotes jusqu'aux oreilles, deux meches plus longues tombant lachement jusqu'aux clavicules. Yeux verts a anneaux concentriques (marque commune des Cavalieres). Expression nerveuse quasi permanente, tres souvent en larmes. [CANON]
@@ -32,7 +33,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Demarcation actee : rien de commun avec le toucher mortel d'Effroi et de Mort (sentence instantanee conditionnelle, jamais transmise hors Mort). Le drain de Famine est progressif, inconditionnel et nourricier - expression propre de son concept, pas un heritage. [DIVERGENCE RP]
 - Corps-a-corps : bagage martial reel, d'etendue discutable ; analyste froide des styles adverses en combat. [CANON]
 - Capacites demoniaques standard : contrats contre un prix, regeneration par le sang. [CANON]
-- Nutrition : la peur de la faim, colossale sur l'essentiel de l'histoire humaine, est en decrue structurelle au XXe siecle (technologies agricoles, logistique moderne). Depuis 1984, elle est ecrasee par la terreur du Flingue : Famine est fortement reduite.
+- Nutrition : au-dela de la faim, tout le champ du manque la nourrit - privation, dependances (drogue, alcool), manque affectif. La peur de la faim, colossale sur l'essentiel de l'histoire humaine, est en decrue structurelle au XXe siecle (technologies agricoles, logistique moderne). Depuis 1984, elle est ecrasee par la terreur du Flingue : Famine est fortement reduite.
 - Plafond theorique : la peur de la privation vit dans l'ombre de la peur de la mort ; si celle-ci venait a disparaitre, la famine deviendrait la peur dominante. [IMPLICITE]
 
 ## Psychologie

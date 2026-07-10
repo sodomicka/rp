@@ -1,13 +1,13 @@
 # Vaudous
 
-- version : W2
+- version : W3
 
 Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demons installes en divinites vaudoues - Machette, Aiguille, Griffe - tels qu'ils existent dans le monde, independamment d'une partie. En canon, seuls leurs noms et leurs contrats avec Kishibe existent (chap. 61) ; tout le reste est construction RP.
 
 ## Identite commune
 - Membres : Machette (alias canon : Knife Devil), Aiguille (Needle Devil), Griffe (Claw Devil).
 - Nature : demons-armes, engeances de Guerre - exterieurs au cercle des sept armes anciennes comme aux detonantes. [CANON + DIVERGENCE RP - le canon ne les range pas parmi les "Weapon Devils"]
-- Couverture : divinites locales du vaudou - Baron Samedi (Louisiane), Maman Brigitte (Haiti), Papa Legba (Afrique de l'Ouest). Ni fiends, ni hybrides : des demons en costume de dieu. [DIVERGENCE RP]
+- Couverture : divinites locales du vaudou - Baron Samedi (Louisiane), Maman Brigitte (Haiti), Papa Legba (Afrique de l'Ouest). Ni possedes, ni hybrides : des demons en costume de dieu. [DIVERGENCE RP]
 - Statut 1984 : actifs, a leurs postes terrestres, en guet passif pour le trone (traque de Tronconneuse) ; leurs contrats irriguent les societes de Devil Hunters du monde entier. [DIVERGENCE RP]
 
 ## Place dans la lignee
@@ -35,7 +35,7 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demo
 - Les ames : pure gourmandise - des friandises, pas une nutrition. Statut cosmologique des ames non developpe au-dela. [DIVERGENCE RP - non bloquant]
 - Filet de renseignement : par les canaux de leurs contrats, ils ecoutent leurs contractants sans jamais leur repondre - la ou la plupart des demons ignorent leurs humains, eux les ecoutent. L'information remonte a Effroi. [DIVERGENCE RP]
 - Capacites demoniaques standard : contrats contre un prix, regeneration par le sang. [CANON]
-- Reputation : juges "dangereux" par les fiends qui les connaissent. [CANON - chap. 61]
+- Reputation : juges "dangereux" par les possedes qui les connaissent. [CANON - chap. 61]
 
 ## Nutrition et scaling
 - Machette : le mieux nourri des trois - la peur du couteau est universelle, domestique, quotidienne ; l'une des lames les mieux nourries de l'arsenal (hors Flingue). [DIVERGENCE RP]
