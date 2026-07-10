@@ -1,6 +1,6 @@
 # Effroi
 
-- version : W5
+- version : W6
 
 Entite [DIVERGENCE RP] - OC promu au lore (Originel structurant la cosmogonie CSM). Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie. L'INSTANCE jouee vit en CODEX + Parties/.
 
@@ -25,7 +25,7 @@ Trois formes distinctes.
 
 - VERITABLE (originelle, demoniaque) : demon elance et flottant, sans jambes, ~3 m de haut, carrure evoquant le demon Flingue. Amalgame des plus grandes peurs humaines - cranes, os, cornes, ombres et insectes meles. Crane principal aux orbites vides, couronne de cornes et d'ossements. Ce n'est pas un demon-araignee : les insectes ne sont qu'une peur parmi d'autres.
 - REDUITE (affaiblie) : meme composition que la veritable, ramassee en une masse rabougrie d'environ 40 cm. Le crane central garde sa taille pleine (identique a la forme veritable), dominant la petite masse.
-- HUMAINE - Makoto : apparence d'humain ordinaire, frele mais grand (1 m 85), peau pale, air fatigue, longs cheveux noirs raides. Seul indice non humain : yeux entierement noirs. Tenue : long manteau noir, chemise blanche, pantalon sombre. Forme de ses descentes sur Terre.
+- HUMAINE - Makoto : apparence d'un humain ordinaire sur la fin de la trentaine (age adulte fige, cf. regle d'apparence BIBLE SB1), frele mais grand (1 m 85), peau pale, air fatigue, longs cheveux noirs raides. Seul indice non humain : yeux entierement noirs. Tenue : long manteau noir, chemise blanche, pantalon sombre. Forme de ses descentes sur Terre.
 
 ## Pouvoirs et atouts
 Distinction cardinale : trois traits lui sont PROPRES (intrinseques, non contractuels) ; tout le reste de son arsenal vient du CONTRAT.
@@ -41,7 +41,7 @@ Arsenal contractuel :
 - Implantation dans la trame : il inscrit dans la realite et dans les memoires - humaines comme demoniaques - un nom, une identite, un rendez-vous, avec amnesie induite chez ceux qui les relaient sans se souvenir de la source. Ainsi l'identite "Makoto" et ses convocations s'imposent au monde d'un coup. [DIVERGENCE RP]
 
 Attributs et savoirs (ni traits propres, ni contrats) :
-- Force brute aberrante : sa puissance physique, indexee sur la peur ambiante mondiale - donc colossale, sans commune mesure ; c'est ce qu'on nomme parfois sa "puissance offensive aberrante". Non une capacite mysterieuse a part, mais sa force brute elle-meme, portee par la peur du monde. Il ne la deploie presque jamais : l'employer nourrirait la peur de la violence (entre autres), qui engraisserait d'autres demons et non lui - meme logique que pour toute peur qu'il pourrait susciter. Il POURRAIT dominer par la force ; il s'y refuse, par la meme retenue qu'il applique a toutes les peurs. Deux seules fois deployee en personne sur la periode : contre Effacement (1983), contre Flingue (1984). [DIVERGENCE RP]
+- Force brute aberrante : sa puissance physique, indexee sur la peur ambiante mondiale - donc colossale, sans commune mesure ; c'est ce qu'on nomme parfois sa "puissance offensive aberrante". Non une capacite mysterieuse a part, mais sa force brute elle-meme, portee par la peur du monde. Il ne la deploie presque jamais : l'employer nourrirait la peur de la violence (entre autres), qui engraisserait d'autres demons et non lui - meme logique que pour toute peur qu'il pourrait susciter. Il POURRAIT dominer par la force ; il s'y refuse, par la meme retenue qu'il applique a toutes les peurs. Trois fois seulement deployee en personne sur la periode : contre Effacement (1983), contre Flingue (1984), et pour l'hybridation de Kishibe (1990) - cette derniere a HUIS CLOS, sans impact global (seuls Nayuta et Makima temoins). [DIVERGENCE RP]
 - Origine conceptuelle : toute lignee demoniaque remonte a lui.
 - Programme d'hybridation - savoir EXCLUSIF : lui seul sait creer un hybride en implantant le coeur d'un demon-arme dans un humain. But : offrir la quasi-immortalite a un humain competent ET/OU combler une lacune du demon-arme - le plus souvent l'intelligence et la discipline qui manquent aux brutes impulsives, parfois (comme pour Flingue) la seule bride qui contient sa violence. Deux regimes selon le demon - coeur plante pour un demon bete (l'hote fournit l'esprit qui lui manque), accord des volontes pour un demon a fort caractere (un partage de sang ne suffit pas) ; dans tous les cas, il faut un hote accorde a la nature du demon. Detail complet des motifs et des programmes : cf. BIBLE SB1, Regles d'hybridation. [DIVERGENCE RP]
 - Memoire des effaces : avec les Primordiaux et les quatre Cavalieres, il se souvient des concepts effaces par Tronconneuse. [CANON + DIVERGENCE RP - le canon ne cite que les Cavalieres ; extension actee]
@@ -51,6 +51,8 @@ Attributs et savoirs (ni traits propres, ni contrats) :
 - Deteste l'imprevisible. Les deux imprevisibles majeurs, la Tronconneuse et Guerre, sont pour lui des fardeaux vivants.
 - Tient pour une evidence que tout demon lui doit la vie par definition. Ne comprend pas ceux qui ne voient pas en lui leur createur et souverain legitime.
 - But ultime : unifier toutes les peurs en une stabilite parfaite qui le laisse, definitivement, au-dessus de la melee.
+- Roi adaptatif, ni idiot ni tyran : il place chaque demon la ou il s'epanouit, pour s'en assurer la fidelite plutot que de la contraindre - un serviteur comble sert mieux. (C'est a ce titre qu'il avait place Ange sur Terre au XIXe s. ; a l'inverse, Effacement ne lui a jamais montre sa derive, sans quoi il s'y serait adapte.) [DIVERGENCE RP]
+- Douceur de fonction : hors le lien post-1984 avec Makima et Nayuta - le seul ou un attachement reel commence a poindre -, toute tendresse, attention ou egard qu'il temoigne est ce qu'il CALCULE que l'autre attend ; il n'en ressent rien. Sans pour autant etre un manipulateur mal intentionne : la plupart des demons SAVENT qu'ils recoivent ce que le Roi juge necessaire a leur loyaute - sincere ou non - et s'en accommodent par pragmatisme. [DIVERGENCE RP]
 
 ## Manies et gouts
 - Parle de lui a la TROISIEME PERSONNE quand il planifie ou s'adresse a un interlocuteur particulierement intelligent : il prend alors le recul de se voir comme un concept INCLUS dans son regne, et non seulement comme celui qui le surplombe.
@@ -71,6 +73,7 @@ Attributs et savoirs (ni traits propres, ni contrats) :
 - Reseau - pilier du Royaume ; son standard de communication et de contrats a distance ; seul depositaire du secret Makoto ; executeur de ses sentences. Sa propriete exclusive, a l'unique reserve de l'inviolabilite des contrats.
 - Enfer - second pilier ; demon-territoire qui lui donne acces a son Royaume, et par qui il convoque ses demons assez forts.
 - Bombe - demon-arme, agent double a son service chez les insoumis. Il ne comptait PAS l'hybrider (elle est deja trop fine pour en avoir besoin), mais l'a laissee se faire hybrider par le programme de Guerre : une espionne hybride au coeur de la sphere de Guerre vaut mieux qu'une demone pure, plus exposee. [DIVERGENCE RP]
+- Ange - demon mineur de la peur des anges, sa descendance directe ; son ancien FORGERON. Perdu au XIXe s. quand Controle l'a asservi - il ne l'a pas reclame alors (un forgeron parmi mille contrats n'est pas une perte). Il le REPREND via le surnom "mon ange" : lui y met le POSSESSIF (il reprend le bien laisse filer), quand Ange n'y entend qu'un petit nom tendre. cf. Personnages/Ange. [DIVERGENCE RP]
 
 ## Histoire (jusqu'au perimetre)
 - Prehistoire : la premiere peur humaine le fait naitre. Premier demon, l'Originel.
@@ -80,7 +83,7 @@ Attributs et savoirs (ni traits propres, ni contrats) :
 - Sous les traits de Makoto, il cree les premiers Devil Hunters et lance son programme d'hybridation (savoir exclusif) : des humains contractent avec ses demons, certains recoivent le coeur d'un demon-arme. Quanxi (demon Arc) en est la premiere. [DIVERGENCE RP]
 - Doctrine de dissuasion : il n'ordonne a Effacement de devorer que les concepts menacant sa suprematie ou favorisant trop un autre demon (dont, entre 1941 et 1948, Nazisme, bombe atomique, Holocauste, Seconde Guerre mondiale, Syndrome d'Arnolone). [DIVERGENCE RP]
 - 1983 : apres le devorement du Sida, Effacement se retourne contre lui pour aneantir tous les demons. Effroi le neutralise sans peine - force brute aberrante -, ordonne a Tenebres de l'enfermer dans un vide sensoriel, puis ligue ses quatre Cavalieres et ses demons-armes pour le massacrer en Enfer. L'engeance fuit, reduite, sur Terre. SEULE alliance du genre entre Effroi et les quatre. [DIVERGENCE RP]
-- 18 novembre 1984 : Guerre lache Flingue (attaque mondiale). Effroi se rend EN PERSONNE l'oblitrer - sa seconde implication directe -, sans lui retirer le monopole ; il le fragmente entre des gouvernements humains (repartition differee). [CANON + DIVERGENCE RP]
+- 18 novembre 1984 : Guerre lache Flingue (attaque mondiale). Effroi se rend EN PERSONNE l'obliterer - sa seconde implication directe -, sans lui retirer le monopole ; il le fragmente entre des gouvernements humains (repartition differee). [CANON + DIVERGENCE RP]
 - 1984 : il scelle une alliance avec Controle - la seule Cavaliere dont le monopole ne mene pas a Mort. But du plan : reformater et elever ensemble les quatre Cavalieres vers un monde stable en peur, dont le seul monopole serait l'equilibre. L'alliance enfante Autorite (Nayuta) ; Controle cede son statut de Cavaliere et devient Reine des demons. [DIVERGENCE RP]
 
 ## Implications d'arc
@@ -96,5 +99,9 @@ Attributs et savoirs (ni traits propres, ni contrats) :
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 2 decembre 1984 (R1 - Le Contrat) | Diner et contrat avec Controle : il la fait Reine des demons, la met enceinte (conception d'Autorite, reproduction sexuee sous forme humaine) ; integre la Securite Publique en couverture (transfert de Kyoto, tete du departement des rapports d'incidents - cf. Factions/Securite_Publique). Le contrat arme une sentence mutuelle (30 s de vulnerabilite absolue au traitre), garantie et executee par Reseau | Alliance Effroi-Controle scellee ; amorce d'attachement (il devient protecteur envers sa Reine) ; un oeil humain de plus sur Terre. Contrepartie inedite : sa mortalite, jusque-la purement theorique, devient actionnable par Makima seule s'il trahit |
+| 1985-1987 (R2 - Le Gardien) | Prime enfance de Nayuta : avec Controle, il eleve l'enfant et la reprend sur l'usage sage de son autorite pure. | Devient parent ; l'enfant devient son unique point faible affectif - sans que l'objectif d'equilibre lache. |
+| 1987 (R2) | Il ouvre la recuperation de Flingue et rallie Kishibe : vraie identite confiee, projet de Gardien expose - aucun mensonge, une symbiose promise plutot qu'un contrat couteux. | Gagne un bras arme conscient ; lance la reconstitution de son futur gardien. |
+| 1988 (R2) | Il connecte a lui le duo Reze/Bombe (hybride en Siberie), leur donne leur mission - fausse fidelite a Guerre contre recompense eternelle - et leur confie Typhon (contrat sans contrepartie). | Etend son reseau d'agents doubles au coeur de la sphere de Guerre. |
+| 1990 (R2) | Il execute en personne le rituel : il decoupe Kishibe puis Flingue en un battement de cil et les fond dans une meme caisse. | Le trone gagne son Gardien ; 3e deploiement personnel de sa force brute, a huis clos, sans impact global. |
 
 FIN_WIKI_PERSONNAGES_EFFROI

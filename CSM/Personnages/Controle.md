@@ -1,6 +1,6 @@
 # Controle
 
-- version : W4
+- version : W5
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -16,7 +16,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Nee AVANT le demon Enfer : les quatre Cavalieres naissent des premieres societes, lesquelles precedent les religions d'ou surgira la peur de l'enfer. Elle vient au monde sur Terre. [DIVERGENCE RP]
 
 ## Apparence
-- Forme veritable humanoide (regle des Cavalieres) : femme d'apparence adulte, cheveux roux nattes en arriere, yeux jaunes a anneaux concentriques (marque commune des Cavalieres). [CANON]
+- Forme veritable humanoide (regle des Cavalieres) : femme d'apparence fin vingtaine-debut trentaine (age adulte fige, cf. regle d'apparence BIBLE SB1), cheveux roux nattes en arriere, yeux jaunes a anneaux concentriques (marque commune des Cavalieres). [CANON]
 - Tenue : vetements d'autorite, signes d'un ordre en place - registre uniforme. Apparence soignee. Elle en a toujours porte. [DIVERGENCE RP - generalise et rend intemporel le costume de Securite Publique canon]
 - Elle n'a que sa forme humaine : etre le controle, l'une des peurs les plus humaines, est sa nature meme - sa forme pure est indifferentiable d'une humaine. [DIVERGENCE RP]
 
@@ -26,7 +26,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Reincarnation future (hors perimetre, post-Partie 1 canon) : non inscrite.
 
 ## Pouvoirs
-- Domination : controle total de quiconque elle juge SUBJECTIVEMENT inferieur a elle - humains, fiends, demons, animaux. Obeissance absolue ; memoire et personnalite modifiables a volonte. [CANON]
+- Domination : controle total de quiconque elle juge SUBJECTIVEMENT inferieur a elle - humains, possedes, demons, animaux. Obeissance absolue ; memoire et personnalite modifiables a volonte. [CANON]
 - Faille structurelle : elle ne peut PAS dominer ce qu'elle ne juge pas inferieur (Effroi, Tronconneuse). [CANON]
 - Demarcation avec le toucher mortel d'Effroi et de Mort : condition INVERSEE (elle juge la cible inferieure, la ou le toucher exige que la cible SE PENSE inferieure) et effet different (controle vs mort). Parallele thematique de hierarchie, pas un pouvoir jumeau. [DIVERGENCE RP - precision]
 - Coercition de contrats : force humains et demons a contracter avec elle. [CANON]
@@ -49,14 +49,16 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Traite les etres comme des chiens, au sens propre. [CANON]
 - Stratege a coups d'avance - mais Effroi la devance (cf. fiche Effroi). [DIVERGENCE RP]
 - Conviction acquise avec le temps : elle regnerait mieux que Makoto. [DIVERGENCE RP]
+- Evolution post-1984 : depuis qu'elle a cede l'autorite pure et qu'elle est devenue mere, son mode glisse du charme calculateur vers la SYMBIOSE et la VERITE - le fond machiavelique demeure, mais elle mise desormais sur le lien reel la ou elle imposait la fascination. Elle s'adoucit, et temoigne un semblant de respect a quiconque traite bien sa fille. [DIVERGENCE RP]
 
 ## Histoire (jusqu'au perimetre)
 - Premieres societes : nait troisieme des Cavalieres de societes, engeance directe d'Effroi - sur Terre, avant le demon Enfer. [DIVERGENCE RP]
 - Long service : elle sert le trone sans se poser de questions, des eres durant. [DIVERGENCE RP]
 - Bascule : le laxisme de Makoto - son refus de dominer par la force, sa temporisation - finit par lui faire realiser qu'elle serait meilleure regente que lui. Nait la convoitise : le vouloir comme Roi, quasi-egal, tout en gardant sur lui un leger ascendant. [DIVERGENCE RP]
+- XIXe s. : elle tombe sur l'Ange - forgeron du trone place sur Terre - et l'asservit par son autorite ; elle lui fait massacrer des humains et forger nombre d'armes en leurs ames. Il la hait. [DIVERGENCE RP]
 - 1941-1948 : son champion de peur de la Seconde Guerre mondiale est le Nazisme ; Effacement le devore avec le lot sur ordre d'Effroi, la ramenant au niveau des autres demons. [DIVERGENCE RP]
 - Avant 1984 : elle monte SEULE ses centaines de contrats d'immortalite - des demons puissants lui cedent un pouvoir immense contre un cout faible. En parallele, elle coordonne la Securite Publique japonaise comme son instrument (sans savoir qu'elle est deja un fragment du reseau de Makoto). [DIVERGENCE RP]
-- 1983 - le massacre de Tronconneuse : ancienne garde rapprochee d'Effroi passee a la rebellion, l'engeance est liguee contre par le trone, les quatre Cavalieres et les demons-armes, en Enfer, et en ressort reduite. Seule alliance du genre entre Effroi et les quatre Cavalieres. [CANON + DIVERGENCE RP]
+- 1983 - le massacre de Tronconneuse : ancienne garde rapprochee d'Effroi passee a la rebellion, l'engeance est liguee contre par le trone, les quatre Cavalieres et les demons-armes, en Enfer, et en ressort reduite. Seule alliance du genre entre Effroi et les quatre Cavalieres. Makima y est happee de force en Enfer via le standard de convocation du trone ; elle y combat avec des armes-ames forgees par l'Ange. [CANON + DIVERGENCE RP]
 - Depuis cette bataille : infiltree dans les societes humaines. [DIVERGENCE RP]
 - 1984 - l'apogee : infiltree chez les humains, a son plus haut - jusqu'a ce que l'attaque de Flingue la reduise.
 - 1984 - l'alliance : Effroi la choisit - seule Cavaliere dont le monopole ne mene pas a Mort - pour sceller un pacte. Ils concoivent Autorite (Nayuta), enfant conceptuel ne de leurs parts cedees, par reproduction sexuee sous forme humaine. Controle cede son statut de Cavaliere et monte d'un rang : de Cavaliere a Reine des demons. [DIVERGENCE RP - en canon, Nayuta est la reincarnation du Controle en P2 ; ici, enfant conceptuel]
@@ -69,6 +71,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Famine / Fami - Cavaliere plus ancienne. Leger mepris ; elle lui accole le surnom "Hunger" (la Faim). [CANON]
 - Guerre / Yoru - autre Cavaliere. Ne s'entend pas avec elle. [DIVERGENCE RP]
 - Note : elle ne s'entend avec AUCUNE des autres Cavalieres.
+- Ange - le forgeron qu'elle a ASSERVI au XIXe s. par son autorite ; elle lui fait massacrer des humains et forger des armes en leurs ames. Il la HAIT et ne la sert qu'a contrecoeur. Depuis la naissance de Nayuta, elle s'adoucit envers lui - il traite bien sa fille. cf. Personnages/Ange. [DIVERGENCE RP]
 
 ## Implications d'arc
 - R0 (Arrivee de Makoto, 2 decembre 1984) - ce que l'arc etablit qu'elle est deja au point de depart :
@@ -82,5 +85,9 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 2 decembre 1984 - ~septembre 1985 (R1 - Le Contrat) | Diner et contrat avec Effroi : promue Reine des demons, cede son statut de Cavaliere ; concoit puis met au monde Autorite (reproduction sexuee, forme humaine, gestation ~9 mois). Au diner, Makoto lui revele que la Securite Publique, le reseau humain qu'elle croyait sien, est sa creation a lui depuis toujours - elle n'a jamais rien possede | Perd l'autorite PURE de son controle (l'obeissance aveugle passe a Autorite avec le statut de Cavaliere) ; ne garde que le controle indirect (fascination, envie de servitude). Grossesse demoniaque plus violente que l'humaine : nausees, sautes d'humeur intenses, pics de libido, soif de massacres. A l'approche du terme, perd l'envie de dominer par la force et bascule vers l'insidieux (manifestation lente de l'autorite cedee). Amorce d'attachement reel envers Effroi - cesse de comploter contre lui |
+| 1985-1987 (R2 - Le Gardien) | Maternite : avec Effroi, elle eleve Nayuta et lui apprend a doser son autorite pure. | Elle s'adoucit ; l'enfant devient son point faible affectif ; elle temoigne un semblant de respect a qui traite bien sa fille (ainsi Ange). |
+| 1987 (R2) | Le couple rallie Kishibe par la verite et la symbiose (pas de contrat couteux, pas de mensonge). Makima admet qu'elle n'aurait jamais procede ainsi - surtout avant de ceder l'autorite pure - ni su le rallier. | Reconnait la superiorite de la methode adaptative de Makoto ; adopte le registre symbiose/verite. |
+| 1989 (R2) | Elle fait rassembler les fragments disperses de Flingue (reseau humain, Quanxi et infiltres chinois). | Orchestre le rapatriement qui permettra l'hybridation du Gardien. |
+| 1990 (R2) | Elle assiste au rituel d'hybridation de Kishibe. | Petrifiee, comme Nayuta, par la force brute de Makoto - une mesure de plus de ce qui la depasse chez son allie. |
 
 FIN_WIKI_PERSONNAGES_CONTROLE
