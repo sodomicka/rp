@@ -1,6 +1,6 @@
 # Genealogie
 
-- version : W4
+- version : W5
 
 Page SYSTEMES : liste des naissances et lignees conceptuelles ACTEES. Document transversal, sans narration. Les regles du monde associees (contrats, canaux, nutrition) vivent en BIBLE SB1 ; ici, l'arbre et ses regles de lecture.
 
@@ -78,11 +78,13 @@ Engeances qui decoulent directement d'Effroi mais restent hors du quintette stru
 ## Lignee de Cataclysme
 - Cataclysme engendre les catastrophes naturelles particulieres.
 - Engeance : Typhon - demon de la tempete et du typhon ; engeance de Cataclysme. [DIVERGENCE RP]
+- Engeance devoree : Mont Hio - l'eruption du Mont Hio (XIXe s.) ; engeance de Cataclysme, effacee sur ordre d'Effroi. [DIVERGENCE RP]
 
 ## Descendance d'Effroi sans rattachement (demons mineurs)
 - Enfer - peur de l'enfer. Pivot cosmogonique : sa naissance ouvre le plan Enfer et le cycle bipolaire. Ne apres les cinq engeances directes ; datation ouverte. [DIVERGENCE RP]
 - Reseau - peur de l'attachement, des liens, de la perte. "Pere" des contrats. [DIVERGENCE RP - OC]
 - Demence - peur de la folie, de perdre l'esprit. Demon mineur, descendance directe d'Effroi sans rattachement. L'etoile qui brisait l'esprit des enfants (XIVe s.) fait partie des effaces. [DIVERGENCE RP - rattachement tranche au B2]
+- Ange - peur des anges. Le FORGERON du trone : forge les armes-ames. Descendance directe d'Effroi sans rattachement. Asservi par Controle au XIXe s., repris par le Roi. [CANON + DIVERGENCE RP]
 - Regle par defaut : tout autre demon mineur (canon ou a venir) vit ici, sans rattachement individuel.
 
 ## Les effaces et la memoire

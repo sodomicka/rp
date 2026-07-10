@@ -1,6 +1,6 @@
 # Histoire
 
-- version : W1
+- version : W2
 
 Page SYSTEMES : recit du passe reconfigure par la presence d'Effroi, de la
 premiere peur humaine a 1984. Document transversal, sans narration immersive.
@@ -208,7 +208,7 @@ jamais seul).
   precisees a ce thread. [INCERTAIN - a trancher au BIBLE BUILD B2]
 - Datation fine du depart de Quanxi de la Securite Publique et de sa fusion :
   borne = ere feodale japonaise (samurai) ; detail differe aux roadmaps.
-- Constitution du harem de fiends de Quanxi en 1984 ; articulation traque /
+- Constitution du harem de possedes de Quanxi en 1984 ; articulation traque /
   mercenariat : differees aux roadmaps.
 - Programme sovietique de Guerre : Reze, compatible avec Bombe, deja trouvee en
   1984 ; hybridation effective ou amorcee, et levier du "desir d'amour" partage
