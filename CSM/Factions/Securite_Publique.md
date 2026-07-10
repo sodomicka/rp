@@ -1,6 +1,6 @@
 # Securite Publique
 
-- version : W2
+- version : W3
 
 Faction humaine [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'organisation telle qu'elle existe dans le monde, focalisee sur son etat au point de depart (decembre 1984). L'ironie dramatique reservee au joueur (ce que Makima ignore) vit en CODEX / ANNEXE_SAVOIRS, pas ici.
 
@@ -34,7 +34,7 @@ Trois divisions speciales de Tokyo actives au point de depart.
 
 | Membre | Nature | Camp reel (allegeance de coeur) |
 |---|---|---|
-| Angel | Demon pur | Loyaliste INCONDITIONNEL du Roi. Approprie par Makima, force a des horreurs (dont raser un village entier pour tester ses pouvoirs). Le bon maitre revenu, se rallie sans contrepartie ; il forge de gre - a l'echelle d'une lame, non d'un genocide. |
+| Ange | Demon pur | Loyaliste INCONDITIONNEL du Roi. Approprie par Makima, force a des horreurs (dont raser un village entier pour tester ses pouvoirs). Le bon maitre revenu, se rallie sans contrepartie ; il forge de gre - a l'echelle d'une lame, non d'un genocide. |
 | Beam | Possede (Requin) | Irreductible : a cotoye la Tronconneuse en personne, ne cede qu'a Pochita. Piste vivante vers la fugitive. Reste sous Controle de Makima. |
 | Princi | Demon pur (Araignee) | Irreductible : sincerement devouee a la Tronconneuse, ne cede qu'a Pochita. Reste sous Controle de Makima. |
 | Galgali | Possede (Violence) | Renegat ralliable au Roi contre la promesse d'offrir confort et reconnaissance a la Tronconneuse - de gre, jamais par contrainte. |
@@ -42,7 +42,7 @@ Trois divisions speciales de Tokyo actives au point de depart.
 | Dominion | Demon pur | Renegat ralliable (meme condition). |
 | Virtue | Demon pur | Renegat ralliable (meme condition). |
 
-Bilan : 1 loyaliste (Angel), 2 irreductibles (Beam, Princi), 4 renegats ralliables (Galgali, Seraphim, Dominion, Virtue). Purs : Angel, Princi, Seraphim, Dominion, Virtue. Possedes : Beam, Galgali.
+Bilan : 1 loyaliste (Ange), 2 irreductibles (Beam, Princi), 4 renegats ralliables (Galgali, Seraphim, Dominion, Virtue). Purs : Ange, Princi, Seraphim, Dominion, Virtue. Possedes : Beam, Galgali.
 
 ## Commandement et couverture
 - Makima - coordinatrice (titre trompeur : elle est deja aux commandes). Chapeaute la Division 3 des demons. [DIVERGENCE RP]
@@ -62,7 +62,7 @@ Bilan : 1 loyaliste (Angel), 2 irreductibles (Beam, Princi), 4 renegats ralliabl
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| 2 decembre 1984 (R1 - Le Contrat, installation) | Makoto integre la SP en couverture (transfert de Kyoto, tete du departement des rapports d'incidents, sous Makima sur le papier). A l'installation, il fait "liberer" les sept renegats tenus par Makima : Angel se rallie sans condition a son bon maitre et est designe gardien de la grossesse puis de Nayuta ; les quatre convertibles (Galgali, Seraphim, Dominion, Virtue) se rallient sur la promesse que Tronconneuse sera bien traitee ; Beam et Princi refusent et sont replonges dans l'obeissance par le charme de Makima (l'autorite pure, cedee a l'enfant a naitre, ne permettant plus l'obeissance aveugle directe) | La SP passe sous l'oeil direct de Makoto ; la Division 3 bascule (5 rallies dont Angel-gardien, 2 irreductibles contraints par charme) ; la monnaie d'echange de Makima (ces renegats gardes en reserve) devient caduque - Makoto la retourne avant qu'elle ait pu la monnayer |
-| ~septembre 1985 (R1 - naissance d'Autorite) | Naissance de Nayuta (Autorite). Kishibe et Angel sont presents ; des ses premieres larmes, la nouvelle-nee leur ordonne a tous deux de s'agenouiller | Premiere manifestation de l'autorite pure heritee de Makima (l'obeissance aveugle), exercee avant meme les premiers mots ; Kishibe, temoin, consigne l'indice en silence |
+| 2 decembre 1984 (R1 - Le Contrat, installation) | Makoto integre la SP en couverture (transfert de Kyoto, tete du departement des rapports d'incidents, sous Makima sur le papier). A l'installation, il fait "liberer" les sept renegats tenus par Makima : Ange se rallie sans condition a son bon maitre et est designe gardien de la grossesse puis de Nayuta ; les quatre convertibles (Galgali, Seraphim, Dominion, Virtue) se rallient sur la promesse que Tronconneuse sera bien traitee ; Beam et Princi refusent et sont replonges dans l'obeissance par le charme de Makima (l'autorite pure, cedee a l'enfant a naitre, ne permettant plus l'obeissance aveugle directe) | La SP passe sous l'oeil direct de Makoto ; la Division 3 bascule (5 rallies dont Ange-gardien, 2 irreductibles contraints par charme) ; la monnaie d'echange de Makima (ces renegats gardes en reserve) devient caduque - Makoto la retourne avant qu'elle ait pu la monnayer |
+| ~septembre 1985 (R1 - naissance d'Autorite) | Naissance de Nayuta (Autorite). Kishibe et Ange sont presents ; des ses premieres larmes, la nouvelle-nee leur ordonne a tous deux de s'agenouiller | Premiere manifestation de l'autorite pure heritee de Makima (l'obeissance aveugle), exercee avant meme les premiers mots ; Kishibe, temoin, consigne l'indice en silence |
 
 FIN_WIKI_FACTIONS_SECURITE_PUBLIQUE
