@@ -1,6 +1,6 @@
 # Arc
 
-- version : W3
+- version : W4
 
 Entite double : un DEMON (Arc) ET l'HYBRIDE qui le porte (Quanxi). La fusion est anterieure au perimetre : l'entite agissante est l'hybride ; toute la fiche vit donc ici, en une page. Fiche NEUTRE. [CANON + DIVERGENCE RP]
 
@@ -62,7 +62,7 @@ Entite double : un DEMON (Arc) ET l'HYBRIDE qui le porte (Quanxi). La fusion est
 - Effroi / Makoto - son roi, en sous-main. Il l'a selectionnee, premiere de son programme d'hybridation. Nature du lien : un marche (chasse eternelle contre les basses besognes du trone).
 - Arc (le demon) - son coeur. Muet dans la fusion ; fidele au trone comme elle.
 - Guerre / Yoru - le concept dont Arc decoule. Texture du rapport : roadmap.
-- Kishibe - ancien partenaire a la Securite Publique, du temps de leur jeunesse. Etat du lien en 1984 : non detaille (roadmap). [CANON]
+- Kishibe - ancien partenaire a la Securite Publique, du temps de leur jeunesse. Etat du lien en 1984 : non detaille (roadmap). Depuis 1990, son ex-binome est l'hybride de Flingue, et Quanxi est l'ETALON du tandem Kishibe-Flingue : la plus forte hybride connue, celle qu'ils se sont donne pour objectif commun de depasser. [CANON + DIVERGENCE RP]
 - Arsenal - Katana, Espadon, Lance-flammes, Fouet et Lance au trone ; les detonantes (Bombe, Flingue, Tank) chez Guerre.
 - Tronconneuse / Pochita - adversaire du massacre de 1983 ; proie de la traque de 1984 (volet actif).
 - Harem de possedes - compagnes de Quanxi (canon vers P1) ; etat 1984 : [INCERTAIN - differe].
