@@ -1,6 +1,6 @@
 # Sommaire - CSM
 
-- version : W13
+- version : W14
 
 ## WIKI
 
@@ -8,7 +8,7 @@
 
 ### (racine)
 Description : pages de travail et index.
-- _Implications.md (W13) - journal de travail du build (jamais fetche en narration)
+- _Implications.md (W17) - journal de travail du build (jamais fetche en narration)
 
 > ROADMAPS NON INDEXEES EN JEU (v8.2). Le dossier `Roadmap/<Prota>/` ne sera pas liste ici. Sources de build uniquement, lues par listing de dossier.
 
@@ -52,7 +52,7 @@ Description : pages systeme transversales (regles, arbres, index thematiques).
 Description : factions et groupes (humains ou mixtes) ; etat neutre + Trajectoire datee.
 - Securite_Publique.md (W3) - agence anti-demons japonaise ; roster de decembre 1984 (Div 1 Kishibe, Div 2 Himeno cheffe et Furuno son second, Div 3 les sept renegats) ; ralliement de la Div 3 et genuflexion de Nayuta verses en Trajectoire ; en verite un instrument d'Effroi
 
-PASSE 1 CLOTUREE (B2). PASSE 2 EN COURS : point de depart au 2 decembre 1984. Roadmaps posees dans Roadmap/Makoto/ (non indexees ici, sources de build) : R0 (Arrivee de Makoto), R1 (Le Contrat), R2 (Le Gardien - prime enfance de Nayuta, reconstitution de Flingue, ralliement de Kishibe, hybridation 1990 ; borne = seuil du Conflit contre Guerre). FAIT : enrichissement R2 des 4 fiches du couple (Flingue W4, Guerre W3, Effroi W6, Controle W5), puis lot de patchs grave en BIBLE B5 (force brute a 3, regle d'apparence, Catastrophes -> Cataclysme, lexique SB2, 4 facettes de la souffrance, Famine elargi, Tchekhov Flingue reecrit, Fiend -> Possede, inventaire SB0 resync 18 -> 24) + pages associees (Famine W3, Genealogie W5, Histoire W2, Arc W3, Vaudous W3, Securite_Publique W3, Roadmap_1 W3). Design pose mais NON construit (cf. _Implications) : socle des 3 soeurs de Nayuta (reincarnations de Mort/Famine/Guerre, nees post-R2) ; arc de domestication des Cavalieres (R3+). PROCHAIN : cloture Passe 2 (relecture croisee inter-arcs) ; Passe 3 (decoupage en arcs + fiches d'arc) ; CODEX V1 ; SETUP. Aucune fiche d'arc a ce stade.
+PASSE 1 CLOTUREE (B2). PASSE 2 EN COURS : point de depart au 2 decembre 1984. Roadmaps dans Roadmap/Makoto/ (non indexees ici, sources de build lues par listing) : R0 La Peur (W2), R1 Le Controle (W5), R2 Le Flingue (W3) - revisees et RENOMMEES au thread W17 (convention actee : chaque roadmap porte le nom du demon central de son arc). R2 se clot sur l'hybridation de Kishibe (1990) ; le Conflit contre Guerre tombe en R6. Chronologie.md (W1, meme dossier) = GARDE-CAP du decoupage complet R0 -> R8+ dicte par le worldbuilder : R3 L'Autorite, R4 La Tronconneuse, R5 La Bombe, R6 La Guerre, R7 La Famine, R8+ ouvert. ATTENTION : BIBLE B5 et fiches du change-set PERIMEES sur les points listes en _Implications (W17) - thread de correctifs a venir (fiches, BIBLE B6, Sommaire -> W15). Design pose mais NON construit : socle des 3 soeurs de Nayuta (Asa, Kiga + reincarnation de Mort a l'horizon R8+) ; domestication des Cavalieres. PROCHAIN : thread de correctifs ; cloture Passe 2 (relecture croisee inter-arcs) ; Passe 3 (builds R3+, decoupage en arcs + fiches d'arc) ; CODEX V1 ; SETUP. Aucune fiche d'arc a ce stade.
 
 ## PARTIES (Partie1)
 
