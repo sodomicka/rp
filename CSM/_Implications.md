@@ -24,7 +24,7 @@ Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus
 - Build R3 : Denji (creer), Power (creer), Zombie de Mort (creer), demon mineur repereur (identite [A POSER] - [INCERTAIN], ne pas inventer), Tronconneuse (enrichir), Aki (enrichir - reliquat infra), Nayuta / Kishibe (enrichir).
 - Build R4 : Eternite (creer), Katana (enrichir - espion yakuza, reprise), Securite_Publique (enrichir - 4e division, mort d'Himeno), Himeno (Trajectoire close - meurt en R4, dicte).
 - Build R5 : Bombe.md enrichie (fiche double Bombe + Reze - TRANCHE au thread W18 : PAS de Reze.md separee, les deux vont de paire, modele Arc/Quanxi), Beam (recolte), Securite_Publique (2e division massacree), Tronconneuse/Denji (mediatisation).
-- Build R6 : Guerre (Trajectoire close), Predateur, Kishibe / Arc (D17), Flingue (devenir de la prothese [A POSER] ; devenir des 27% de douilles [A POSER] - Tchekhov Gun Fiend ouvert).
+- Build R6 : Guerre (Trajectoire close), Predateur, Kishibe / Arc (D17), Flingue (devenir de la prothese [A POSER] ; devenir des 27% de douilles [A POSER] - Tchekhov Possede du Flingue ouvert).
 - Build R7 : Asa (creer - socle 3 soeurs), Kiga (creer - socle 3 soeurs), Famine (Trajectoire close, D16), Nayuta / Genealogie (ligne "3 soeurs" a toucher, cf. chantiers).
 
 ## AKI - reliquat R3 (parque)
@@ -32,7 +32,7 @@ Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus
 - Confrontation a Kishibe / l'hybride Flingue ; these a lui faire admettre : "on condamne un meurtrier, pas son arme" - Flingue etait l'OUTIL, Guerre est l'ennemi.
 - Les elements FIABLES de la SP (dont Aki et Himeno) sont mis dans la confidence : le Flingue a la SP n'a pas a etre un secret absolu.
 - [CANON a exploiter en R3] C'est KISHIBE qui presente Aki a Himeno, dans un cimetiere, alors qu'elle vient de perdre son cinquieme binome ; et c'est Kishibe qui l'entraine. Kishibe etant le bras arme conscient du trone, le recrutement d'Aki passe par la main de Makoto.
-- TCHEKHOV A SURVEILLER : en canon, Aki finit possede par 20% du Gun Devil (Gun Fiend). Les 27% de douilles encore en circulation peuvent alimenter ca. Ne pas fermer la porte.
+- TCHEKHOV A SURVEILLER : en canon, Aki finit possede par 20% de Flingue (le Possede du Flingue). Les 27% de douilles encore en circulation peuvent alimenter ca. Ne pas fermer la porte.
 
 ## Fils muets - etat
 - Tronconneuse : detonation R3 confirmee (le demon mineur repere Pochita - Chronologie). Ligne de frontiere R2 en place.
