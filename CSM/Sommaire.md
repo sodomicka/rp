@@ -1,6 +1,6 @@
 # Sommaire - CSM
 
-- version : W17
+- version : W18
 
 ## WIKI
 
@@ -8,13 +8,13 @@
 
 ### (racine)
 Description : pages de travail et index.
-- _Implications.md (W19) - journal de travail du build (jamais fetche en narration)
+- _Implications.md (W21) - journal de travail du build (jamais fetche en narration)
 
 ### Roadmap/Makoto/
 Description : garde-cap et sources de build de la campagne Makoto (Passe 2).
-- Chronologie.md (W1) - GARDE-CAP du decoupage R0 -> R8+ dicte par le worldbuilder : bornes, jalons et [A POSER] de chaque arc ; tres sollicitee en Passe 2
+- Chronologie.md (W1) - GARDE-CAP du decoupage R0 -> R8+ dicte par le worldbuilder : bornes, jalons et [A POSER] de chaque arc ; tres sollicitee en Passe 2 ; patchs R4 en attente (mot "espion" perime, statuts)
 
-> Les roadmaps d'arc (R0 La Peur W2, R1 Le Controle W5, R2 Le Flingue W3, R3 L'Autorite W1) restent NON indexees (v8.2) : sources de build uniquement, lues par listing de dossier.
+> Les roadmaps d'arc (R0 La Peur W2, R1 Le Controle W5, R2 Le Flingue W3, R3 L'Autorite W1, R4 La Tronconneuse W1) restent NON indexees (v8.2) : sources de build uniquement, lues par listing de dossier.
 
 ### Personnages/
 Description : fiches d'entites neutres (NOYAU + Trajectoire datee).
@@ -23,7 +23,9 @@ Description : fiches d'entites neutres (NOYAU + Trajectoire datee).
 - Mort.md (W4) - premiere engeance d'Effroi, Primordiale et Cavaliere, ex-premiere Reine, rivale du trone ; influence passive (le Zombie, retourne par le trone ~1997)
 - Chute.md (W2) - Primordiale, premiere engeance de Mort, la cheffe des traumas
 - Tenebres.md (W2) - Primordial, deuxieme engeance de Mort, epee de Damocles au-dessus du trone
-- Vieillesse.md (W2) - Primordial, troisieme engeance de Mort, seul Primordial pleinement fidele au trone
+- Vieillesse.md (W2) - Primordial, troisieme engeance de Mort, seul Primordial pleinement fidele au trone ; tete de la branche temporelle (patch W3 en attente)
+- Avenir.md (W1) - demon de la peur de l'avenir ; engeance de Vieillesse, branche temporelle ; fidele au trone de gre, resident volontaire des geoles de la SP ; les entites de premier rang lui sont illisibles ; loge dans l'oeil droit d'Aki (~1997)
+- Eternite.md (W1) - demon de la peur de l'eternite et de l'infini ; engeance de Vieillesse, branche temporelle ; RENEGAT-NE (se croit infiniment puissant) ; gonfle aux douilles de Flingue, execute par Denji (~1997)
 - Famine.md (W3) - Cavaliere, premiere des trois de societes ; peur du manque / besoin / addiction ; drain vital nourricier ; lignee des maladies ; facette "manque" de la souffrance ; insoumise par depit
 - Guerre.md (W4) - Cavaliere, deuxieme des societes ; Yoru ; source de toutes les armes ; alliee au Predateur ; jamais soumise ; depuis 1989, la mere amputee : prothese-bras (48% de Flingue), Tank scelle pour dernier fils loyal
 - Controle.md (W6) - Cavaliere, troisieme des societes ; Makima ; alliee et Reine des demons depuis 1984 ; mere de Nayuta ; cellule de commandement de la Division 4 (~1997) ; moteur du RP
@@ -55,14 +57,14 @@ Description : lieux du monde ; une entite double lieu+demon y vit en fiche uniqu
 
 ### Systemes/
 Description : pages systeme transversales (regles, arbres, index thematiques).
-- Genealogie.md (W6) - liste des naissances et lignees conceptuelles ; regles du plancher et de l'outil/arme ; voie inedite de la reproduction sexuee ; registre complet des effaces ; Sang au tronc des engeances directes anciennes ; lignees Cataclysme (Typhon, Mont Hio efface), Predateur (dont Chauve-Souris et Sangsue), Demence et Zombie (raccord ~1997 consomme) ; Ange en mineur sans rattachement
+- Genealogie.md (W6) - liste des naissances et lignees conceptuelles ; regles du plancher et de l'outil/arme ; voie inedite de la reproduction sexuee ; registre complet des effaces ; Sang au tronc des engeances directes anciennes ; lignees Cataclysme (Typhon, Mont Hio efface), Predateur (dont Chauve-Souris et Sangsue), Demence et Zombie (raccord ~1997 consomme) ; Ange en mineur sans rattachement ; patch W7 en attente (lignee de Vieillesse, branche temporelle)
 - Histoire.md (W2) - recit du passe reconfigure par Effroi, de la premiere peur a 1984 ; nourrit le SB3 (Chronologie)
 
 ### Factions/
 Description : factions et groupes (humains ou mixtes) ; etat neutre + Trajectoire datee.
 - Securite_Publique.md (W5) - agence anti-demons japonaise ; roster de decembre 1984 (Div 1 Kishibe, Div 2 Himeno jeune cheffe - nee 1962, rapporte au couple - et Furuno son second, Div 3 les sept renegats) ; refuge-vivier d'orphelins ; ralliement de la Div 3, genuflexion de Nayuta, ascension de Makima, signalement d'Aki, huis clos de 1990 et restructuration de ~1997 (Division 4) en Trajectoire ; en verite un instrument d'Effroi
 
-PASSE 1 CLOTUREE (B2). PASSE 2 EN COURS : point de depart au 2 decembre 1984. Roadmaps dans Roadmap/Makoto/ : R0 La Peur (W2), R1 Le Controle (W5), R2 Le Flingue (W3), R3 L'Autorite (W1) ; R3 se clot sur le recrutement de Denji et la conversation pere-fille (~1997). Chronologie.md (W1, indexee supra) = GARDE-CAP du decoupage complet R0 -> R8+ dicte par le worldbuilder : R4 La Tronconneuse, R5 La Bombe, R6 La Guerre (le Conflit tombe ici), R7 La Famine, R8+ ouvert. BUILD R3 LIVRE (thread W19) : roadmap R3 (W1) + 5 fiches creees (Sang, Himeno, Denji, Zombie, Chauve_Souris). LOT DE PATCHS R3 PROPAGE (thread de patchs) : les 12 fiches existantes a jour + BIBLE B7 + Sommaire W17. Design pose mais NON construit : socle des 3 soeurs de Nayuta (Asa, Kiga + reincarnation de Mort a l'horizon R8+) ; domestication des Cavalieres. PROCHAIN : build R4 La Tronconneuse (boucle serree, raccords listes au journal) ; puis builds R5 -> R7 ; cloture Passe 2 (relecture croisee inter-arcs) ; Passe 3 (decoupage en arcs + fiches d'arc) ; CODEX V1 ; SETUP. Aucune fiche d'arc a ce stade.
+PASSE 1 CLOTUREE (B2). PASSE 2 EN COURS : point de depart au 2 decembre 1984. Roadmaps dans Roadmap/Makoto/ : R0 La Peur (W2), R1 Le Controle (W5), R2 Le Flingue (W3), R3 L'Autorite (W1), R4 La Tronconneuse (W1) ; R4 se clot sur le coeur de Tetsuo arrache a main nue et la reprise de Katana (~1997). Chronologie.md (W1, indexee supra ; patchs en attente) = GARDE-CAP du decoupage complet R0 -> R8+ dicte par le worldbuilder : R5 La Bombe, R6 La Guerre (le Conflit tombe ici), R7 La Famine, R8+ ouvert. BUILD R4 LIVRE (thread W21) : roadmap R4 (W1) + 2 fiches creees (Eternite, Avenir - branche temporelle de Vieillesse) + doctrine des OPPORTUNITES actee (creer des opportunites chaotiques, restreindre les retombees, saisir les benefices). LOT DE PATCHS R4 EN ATTENTE (thread dedie, chantier liste au journal) : ~15 enrichissements de fiches + Genealogie W7 + Vieillesse W3 + Chronologie W2 + BIBLE B7 -> B8. Design pose mais NON construit : socle des 3 soeurs de Nayuta (Asa, Kiga + reincarnation de Mort a l'horizon R8+) ; domestication des Cavalieres. PROCHAIN : thread PATCHS ; puis builds R5 -> R7 (boucle serree) ; cloture Passe 2 (relecture croisee inter-arcs) ; Passe 3 (decoupage en arcs + fiches d'arc) ; CODEX V1 ; SETUP. Aucune fiche d'arc a ce stade.
 
 ## PARTIES (Partie1)
 
