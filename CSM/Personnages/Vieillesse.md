@@ -1,6 +1,6 @@
 # Vieillesse
 
-- version : W2
+- version : W3
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -12,6 +12,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 
 ## Place dans la lignee
 - Engeance directe de Mort, quatrieme et derniere des Primordiaux (Mort -> Chute -> Tenebres -> Vieillesse). [DIVERGENCE RP]
+- Tete de lignee : la branche TEMPORELLE - les peurs du temps decoulent de lui. Deux engeances actees : Avenir (fidele au trone de son plein gre) et Eternite (renegat-ne, execute par Chainsaw Man ~1997). cf. Personnages/Avenir, Personnages/Eternite et Systemes/Genealogie. [DIVERGENCE RP - actee au build R4]
 - Jamais morte, jamais reincarnee : memoire et identite continues depuis l'aube de l'humanite. [CANON]
 - Exception memorielle : comme les Primordiaux, les quatre Cavalieres et Effroi, elle se souvient des concepts effaces par Tronconneuse. [CANON + DIVERGENCE RP - extension actee au-dela des seules Cavalieres]
 
@@ -48,11 +49,14 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Effroi / Makoto - suzerain fidelement servi, a double fondement : le respect du plus ancien (Effroi est le doyen absolu de l'existence) et l'opposition structurelle a Mort. Seul Primordial pleinement loyal au trone. [DIVERGENCE RP]
 - Mort - le concept dont il decoule ET menace existentielle : la mort est la fin de la vie, donc la fin de la vieillesse. Il se range contre elle, aux cotes d'Effroi. [DIVERGENCE RP]
 - Chute, Tenebres - les autres engeances de Mort ; rivalite latente entre Primordiaux.
+- Avenir - son engeance, branche temporelle ; le fidele : il sert le trone de son plein gre, comme sa tete de lignee. cf. Personnages/Avenir. [DIVERGENCE RP]
+- Eternite - son engeance, branche temporelle ; le RENEGAT-NE, qui l'a renie des la naissance - l'unique tache de la seule lignee integralement loyale au Roi. Execute par Chainsaw Man (~1997). cf. Personnages/Eternite. [DIVERGENCE RP]
 - Enfer - demon-territoire ; partage avec lui (et Chute) la capacite de precipiter des etres en Enfer.
 
 ## Histoire (jusqu'au perimetre)
 - Prehistoire : nait de Mort, quatrieme et dernier Primordial - la peur de la vie qui s'eteint meme sans menace.
 - Cree son Monde a une epoque tres ancienne (datation ouverte) ; y piege des humains au fil des siecles, dont un chasseur de demons en 1917.
+- Aux epoques ou les hommes se mettent a craindre le temps lui-meme, sa lignee nait : Avenir et Eternite, la branche temporelle (datations ouvertes). [DIVERGENCE RP - actee au build R4]
 - N'a jamais connu ni la mort ni la reincarnation : le meme Vieillesse depuis l'aube de l'humanite.
 - Reside en Enfer, fidele au trone d'Effroi.
 

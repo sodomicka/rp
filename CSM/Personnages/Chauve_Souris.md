@@ -1,6 +1,6 @@
 # Chauve-Souris (et Sangsue)
 
-- version : W1
+- version : W2
 
 Entites [CANON + DIVERGENCE RP]. Fiche NEUTRE et GROUPEE (precedent : Vaudous, Armes) : le couple va de paire. Personnages canon ; le caracterisant est integre, la lignee et les rattachements RP sont balises.
 
@@ -8,7 +8,7 @@ Entites [CANON + DIVERGENCE RP]. Fiche NEUTRE et GROUPEE (precedent : Vaudous, A
 - Nom : le demon Chauve-Souris. [CANON]
 - Concept : la peur des chauves-souris. [CANON]
 - Genealogie : lignee du PREDATEUR ; obeissance AVEUGLE a Predateur. Mission de lignee : repandre la peur des predateurs. Par ricochet, camp de Guerre (Predateur est renegat, allie a Guerre). [DIVERGENCE RP]
-- Statut : actif, mutile (bras droit arrache par Makoto, 1996), sous avertissement de la SP ; sa mort est RESERVEE a Power (dette-recompense posee par Effroi). [DIVERGENCE RP]
+- Statut : MORT (~1997) - decoupe par Denji lors du test du duo : la mort que la dette reservait a Power, prise par l'hybride (cf. Trajectoire, CLOSE). Auparavant : mutile (bras droit arrache par Makoto, 1996), affame, sous avertissement de la SP. [DIVERGENCE RP]
 
 ## Apparence (Chauve-Souris) [CANON]
 - Chauve-souris humanoide geante et musculeuse, coloration pourpre sombre ; face grotesque aux dents multiples et grands yeux ronds ; les bras relies au torse par les membranes qui lui servent d'ailes.
@@ -29,7 +29,7 @@ Entites [CANON + DIVERGENCE RP]. Fiche NEUTRE et GROUPEE (precedent : Vaudous, A
 - Nom : la demone Sangsue. [CANON]
 - Concept : la peur des sangsues. [CANON]
 - Genealogie : lignee du PREDATEUR, comme son compagnon - les deux vont de paire ; meme obeissance aveugle, meme mission. [DIVERGENCE RP]
-- Statut : active, hors de scene sur la periode couverte (le couple opere separement ; elle le rejoint quand il souffre). [CANON sur le mode operatoire]
+- Statut : MORTE (~1997) - la vengeresse fond sur un Denji exsangue et tombe sous Aki et la Renarde (cf. Trajectoire, CLOSE). Auparavant : active, en operations separees de son compagnon (elle le rejoignait quand il souffrait). [CANON sur le mode operatoire]
 
 ## Apparence (Sangsue) [CANON]
 - Grande masse annelee et fripee, vaguement humanoide ; quatre pattes, deux bras-tentacules extensibles termines en ventouses ; le visage reduit a une enorme bouche aux dents carrees, sous de longs cheveux noirs gras ; trois paires de mamelles.
@@ -46,14 +46,15 @@ Entites [CANON + DIVERGENCE RP]. Fiche NEUTRE et GROUPEE (precedent : Vaudous, A
 ## Histoire
 - 1996 : Chauve-Souris capture Miaouche, le chat de Power, pour se faire livrer du sang humain (se nourrir, se renforcer). La consigne permanente Makima/Makoto sur la lignee du Predateur (surveillance pour affaiblir Guerre) fait remonter sa localisation : Effroi se deplace en personne. Le Roi savoure le tourment de la demone, libere le chat sans tuer le ravisseur, et lui ARRACHE LE BRAS DROIT en avertissement : un massacre, et la SP se chargera de lui. Sa mort est reservee a Power, a reclamer une fois assez forte. [DIVERGENCE RP]
 - Sangsue est absente de la scene et n'apprend la mutilation qu'apres coup. [CANON sur le mode operatoire ; DIVERGENCE RP sur le cadre]
+- ~1997 : la paire tombe - Chauve-Souris sous les tronconneuses de Denji, Sangsue sous Aki et la Renarde (cf. Trajectoire).
 
 ## Relations de base
 - Predateur - tete de lignee ; obeissance aveugle des deux. cf. Personnages/Predateur. [DIVERGENCE RP]
 - Guerre - camp d'appartenance par ricochet (Predateur est son allie). cf. Personnages/Guerre. [DIVERGENCE RP]
 - L'un l'autre - le couple de la lignee : elle venge, il rumine. [CANON]
-- Power / Sang - sa creanciere malgre lui : la mort de Chauve-Souris lui appartient. cf. Personnages/Sang. [DIVERGENCE RP]
+- Power / Sang - sa creanciere malgre lui : la mort de Chauve-Souris lui appartenait - prise par Denji (~1997), la recompense gachee. cf. Personnages/Sang. [DIVERGENCE RP]
 - Miaouche - l'otage libere par le Roi. [CANON sur l'otage ; DIVERGENCE RP sur l'issue]
-- Makoto / Effroi - le mutileur ; la terreur qui pese sur la suite. [DIVERGENCE RP]
+- Makoto / Effroi - le mutileur ; la terreur qui pesait sur la suite. [DIVERGENCE RP]
 - Securite Publique - l'epee de Damocles de l'avertissement. [DIVERGENCE RP]
 
 ## Implications d'arc
@@ -65,5 +66,6 @@ Entites [CANON + DIVERGENCE RP]. Fiche NEUTRE et GROUPEE (precedent : Vaudous, A
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 1996 (R3 - L'Autorite) | Capture de Miaouche pour extorquer du sang humain ; remontee via la consigne permanente ; Effroi en personne : chat libere, BRAS DROIT arrache en avertissement (un massacre = la SP le tue), mort reservee a Power. Sangsue absente. | Chauve-Souris manchot, affame, sous avertissement ; dette-recompense active au profit de Power ; Sangsue inchangee, hors de scene. |
+| ~1997 (R4 - La Tronconneuse) | Le test du duo : Power, endettee, embarque Denji pour buter son debiteur - puis le lache ; Denji DECOUPE Chauve-Souris seul. Sangsue, la vengeresse, fond sur un Denji exsangue : abattue par Aki et la Renarde. | La PAIRE est MORTE. Trajectoire CLOSE. Dette-recompense soldee au rabais (Power a gache sa recompense) ; la lignee du Predateur perd sa paire. |
 
 FIN_WIKI_PERSONNAGES_CHAUVE_SOURIS

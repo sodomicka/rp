@@ -1,6 +1,6 @@
 # Flingue
 
-- version : W5
+- version : W6
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -8,7 +8,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Nom : Flingue (demon du Flingue / Gun Devil).
 - Nature : demon-arme, engeance directe de Guerre ; arme DETONANTE, hors des sept armes anciennes. [CANON + DIVERGENCE RP]
 - Concept : la peur des armes a feu.
-- Statut : oblitere et fragmente par Effroi le 18 novembre 1984, au soir de son attaque mondiale ; conscient SANS INTERRUPTION depuis (conscience collective, cf. Pouvoirs) ; rallie au trone en 1989 (revelation : Makoto EST Effroi) ; hybride a Kishibe en 1990 - le GARDIEN du trone. Ses fragments voles par Guerre (48%) sont mues en prothese-arme muette (1989). cf. Trajectoire datee. [CANON + DIVERGENCE RP]
+- Statut : oblitere et fragmente par Effroi le 18 novembre 1984, au soir de son attaque mondiale ; conscient SANS INTERRUPTION depuis (conscience collective, cf. Pouvoirs) ; rallie au trone en 1989 (revelation : Makoto EST Effroi) ; hybride a Kishibe en 1990 - le GARDIEN du trone. Ses fragments voles par Guerre (48%, portes a 52% depuis) sont mues en prothese-arme muette (1989). Cle ~1997 post-R4 : Guerre 52 (prothese) / Kishibe 39 (le Gardien) / renegats 9. cf. Trajectoire datee. [CANON + DIVERGENCE RP]
 
 ## Place dans la lignee
 - Engeance directe et recente de Guerre, choyee - avec Tank, a part des sept armes anciennes. [CANON + DIVERGENCE RP]
@@ -28,6 +28,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Puissance de feu : bombardement continu par les canons de son corps ; des milliers de morts a la seconde, des villes rasees dans son sillage. [CANON]
 - Balles nominatives : ses balles portent le nom de leurs cibles - frappes individuellement ciblees a l'echelle du globe. [CANON]
 - Chair-balle : les fragments detaches de son corps s'attirent entre eux ; un demon qui en consomme se renforce. [CANON]
+- Convention comptable (actee R4) : 1 douille NE VAUT PAS 1% - les pourcentages mesurent la PART DE SA MASSE, jamais un compte de douilles. [DIVERGENCE RP - regle de lecture]
 - Conscience collective : sa lucidite vit dans sa chair meme - tout bloc reunissant au moins ~25% de sa masse est CONSCIENT, et plusieurs blocs peuvent l'etre en parallele ; sous ce seuil, la chair dort. Consequence : le fragment sovietique (28%) suffisant, il n'a JAMAIS dormi depuis l'attaque de novembre 1984. [DIVERGENCE RP]
 - Reconstitution : disperse, il se reforme par agglomeration naturelle de sa chair-balle (les fragments s'appellent et fusionnent). [DIVERGENCE RP]
 - Capacites demoniaques standard : contrats contre un prix, regeneration par le sang. [CANON]
@@ -74,5 +75,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 | 1989 (R2 - Le Flingue) | Rapatriement du trone : le fragment chinois (11%) est extrade au Japon via Quanxi et des infiltres, 4% epars sont rassembles, 10% de douilles de chair sont ramenees par des demons du trone - 25% reunis, pile au seuil : un SECOND corps conscient s'eveille, cote trone. | Deux corps conscients en parallele (48% chez Guerre, 25% chez le trone) ; douilles encore en circulation : 27%. |
 | 1989 (R2 - Le Flingue) | LA REVELATION : le trone lui apprend que Makoto EST Effroi. Defection immediate - soumission au plus fort, pas une negociation : il quitte la mere pour le Roi. Il raconte TOUT (son eveil ininterrompu depuis novembre 1984, la description de son vainqueur livree a Guerre par le canal) et pose sa condition : "d'accord, si mon humain est votre plus fort" - Quanxi etant deja hybridee, ce sera Kishibe, le candidat du couple depuis R1 : convergence. Objectif commun scelle : depasser Arc/Quanxi. Cote Guerre, l'allegeance flanche au canal ; interroge, il avoue la trahison (jamais le motif) ; elle mue ses 48% en prothese-bras - ce bloc, devenu ARME, perd toute conscience. | Rallie au trone ; le couple apprend que la premisse de R1 (Flingue inerte et disperse) etait fausse - et que Guerre detient la description de Makoto ; son bloc de 48% devient un objet muet. |
 | 1990 (R2 - Le Flingue) | Hybridation-de-contention avec Kishibe (hangar isole ; Makoto execute le rituel). Kishibe pose sa condition - le trone garde l'equilibre pour cap - que Flingue accepte en jubilant. | Contenu : sa sauvagerie bridee par un hote accorde ; soustrait au cycle mort-renaissance tant que la fusion tient. Devient le Gardien du trone. Etat final de sa masse : Guerre 48% (prothese muette) / Kishibe 25% (le Gardien) / douilles 27%. |
+| ~1997 (R4 - La Tronconneuse) | Ouverture d'arc : depuis 1990, les deux camps ont recupere des douilles en circulation - cle a l'ouverture : Guerre 52 (prothese muette) / Kishibe 38 (le Gardien) / renegats 10. En arc : le Gardien-boussole mene la Division 4 a l'hotel Morin ; Eternite, renegat gonfle de douilles avalees (1% au total), est execute par Denji ; les douilles sont recuperees et versees au Gardien. | Cle post-R4 : Guerre 52 / Kishibe 39 / renegats 9. Tchekhov des douilles renegates retreci (27 -> 10 -> 9 ; horizon R6). |
 
 FIN_WIKI_PERSONNAGES_FLINGUE

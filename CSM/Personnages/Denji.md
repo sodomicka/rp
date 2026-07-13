@@ -1,6 +1,6 @@
 # Denji
 
-- version : W1
+- version : W2
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie. Personnage canon ; le caracterisant est integre, la datation et les rattachements RP sont balises.
 
@@ -39,7 +39,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Pochita / Tronconneuse - son chien, son sauveur, son coeur. cf. Personnages/Tronconneuse. [CANON]
 - Nayuta / Autorite - l'ancre emotionnelle du recrutement : elle lui propose d'etre son chien, puis son grand frere. Il ignore ce qu'elle est. cf. Personnages/Nayuta. [DIVERGENCE RP]
 - Makoto / Effroi et Makima / Controle - ses recruteurs-bienfaiteurs ; il ignore tout de leur nature. Strategie du couple : se rendre INDISPENSABLES - et, cote Makoto, lui apprendre la PERTE pour qu'il cherisse tout ce qu'on lui offre et ceux qui l'offrent. [DIVERGENCE RP]
-- Les yakuza - employeurs, puis bourreaux par procuration. Suites : cadre R4. [CANON sur la trahison]
+- Les yakuza - employeurs, puis bourreaux par procuration. Suites : la branche de Tetsuo, seuls rescapes du massacre, retournee pour Guerre (~1997) - cf. Trajectoire et Personnages/Katana. [CANON sur la trahison]
 - Zombie de Mort - l'instrument de sa mort humaine ; rallie au trone dans la foulee, hors de sa vue. cf. fiche a venir. [DIVERGENCE RP]
 - Securite Publique - la 4e Division Speciale, creee pour lui. cf. Factions/Securite_Publique. [CANON sur la Division 4]
 
@@ -53,5 +53,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 |---|---|---|
 | 1994 (R3 - L'Autorite) | Bute le demon Concombre. L'incident localise Pochita et signale le tandem au trone ; Denji n'en saura rien. Des 1994, le couple planifie une division dediee pour l'accueillir le moment venu. | Sous observation passive du trone ; doctrine Nayuta enclenchee ; Division 4 en gestation. |
 | ~1997 (R3 - L'Autorite) | Trahison des yakuza ; massacre par le Zombie de Mort ; fusion avec Pochita (coeur ; contrat : vie normale contre ses reves) ; le nouvel hybride dechiquette toute la crew zombifiee avant de s'effondrer, epuise et affame ; organes vendus regeneres. Recrutement par la SP, Nayuta en ancre emotionnelle (chien, puis grand frere) ; affectation directe a la 4e Division Speciale, creee pour lui. | Hybride de Tronconneuse ; Devil Hunter, Division 4 ; dette d'attachement envers le trone ; ignore tout de la nature de ses bienfaiteurs. |
+| ~1997 (R4 - La Tronconneuse) | CIBLE de Guerre (son coeur - Tronconneuse comme arme de dissuasion). Test du duo : lache par Power, il decoupe Chauve-Souris seul (la dette de Power gachee). Mission Eternite : trois jours dans le demon a le massacrer de l'interieur, en buvant son sang immonde pour tenir ; il l'execute. Attaque de Guerre : Tetsuo lui montre la photo du grand-pere et lui tire dans la tete ; Himeno mourante tire son cordon. Duel du train : il feinte Tetsuo avec ses tronconneuses de jambes et le coupe en deux. Sous ses yeux, Makoto arrache le coeur de l'hybride a main nue. | Lecon de l'arrachage plantee : il sait ce qu'il en coute de sortir des regles de Makoto et Makima. Dette d'attachement NOURRIE (perte d'Himeno + deuil orchestre du trone, qu'il prend pour sincere). Un pion de Guerre tombe ; il reste sa cible. |
 
 FIN_WIKI_PERSONNAGES_DENJI

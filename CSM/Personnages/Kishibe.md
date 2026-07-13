@@ -1,6 +1,6 @@
 # Kishibe
 
-- version : W4
+- version : W5
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie. Personnage canon ; le caracterisant est integre, la datation et les rattachements RP sont balises.
 
@@ -17,7 +17,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Duelliste d'exception : maitre du sabre ET du flingue, l'un des chasseurs les plus redoutables de la Securite Publique. Force, vitesse et lecture de combat forgees par des decennies de terrain. [CANON]
 - Contractant de plusieurs demons : il tire son armement et ses capacites surhumaines de contrats, noues avec les demons-dieux vaudous (Machette / Baron Samedi, Aiguille / Maman Brigitte, Griffe / Papa Legba). cf. Personnages/Vaudous. [DIVERGENCE RP - rattachement aux Vaudous ; contrats = canon]
 - Prix des contrats vaudous : son ame leur est due en fin de carriere - raison de fond pour laquelle il ne cessera jamais de chasser (differer l'echeance). [Tchekhov plante 1984 - cf. BIBLE SB8]
-- A partir de 1990 : hybride de Flingue (cf. Trajectoire) - il gagne alors regeneration quasi totale, non-vieillissement et un arsenal a feu demoniaque, tout en bridant la sauvagerie du demon. Objectif commun du tandem : depasser Quanxi/Arc, la plus forte hybride connue. [DIVERGENCE RP]
+- A partir de 1990 : hybride de Flingue (cf. Trajectoire) - il gagne alors regeneration quasi totale, non-vieillissement et un arsenal a feu demoniaque, tout en bridant la sauvagerie du demon. Flingue-en-Kishibe SENT les fragments de sa propre chair (douilles) : le Gardien sert de BOUSSOLE au trone pour les traquer. Objectif commun du tandem : depasser Quanxi/Arc, la plus forte hybride connue. [DIVERGENCE RP]
 
 ## Psychologie
 - Cynique, desabuse, terre-a-terre. Pragmatique jusqu'a l'impitoyable, mais tenu par un code de vieux soldat. [CANON]
@@ -54,5 +54,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 | 1990 (R3 - L'Autorite) | PIVOT du huis clos de la revelation (Makoto, Makima, Kishibe, Nayuta face a Aki et Himeno) : il porte la these "on condamne un meurtrier, pas son arme" - l'orphelin de Flingue mis face a l'arme qui a tue les siens, abritee par le chef de la Division 1. | Sa fusion exposee a deux humains de plus ; la these du Gardien enoncee - et acceptee. |
 | 1990-1994 (R3) | TROISIEME MAITRE de Nayuta a l'ecole de la gouvernance : il lui enseigne la justice - c'est chez lui que le sens de la justice de l'heritiere se developpe. | Maitre de l'heritiere, aux cotes des deux parents. |
 | ~1997 (R3) | Quitte la Division 1 - sans successeur nomme, des veterans autonomes - pour le COMMANDEMENT D'ESCOUADE de la 4e Division Speciale, Himeno pour seconde. | Chef d'escouade de la division construite autour de Denji ; la Division 1 continue sans lui, a peine changee. |
+| ~1997 (R4 - La Tronconneuse) | BOUSSOLE de la Division 4 : Flingue sent ses propres douilles, cap sur l'hotel Morin (mission Eternite) ; le renegat abattu, les douilles qu'il avait avalees (1% au total) sont versees au Gardien. A la mort d'Himeno, sa seconde, il ne feint meme pas le deuil. Entraine Denji et Power a la dure. | Sa part de Flingue passe de 38 a 39% (montee de 25 a 38 entre 1990 et ~1997 : recuperation des douilles en circulation). Cynisme accru par le Flingue ; obsession : la chute des trois Cavalieres restantes - tant que ca sert l'humanite, qu'importe le prix. |
 
 FIN_WIKI_PERSONNAGES_KISHIBE

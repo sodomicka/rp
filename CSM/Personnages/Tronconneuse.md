@@ -1,6 +1,6 @@
 # Tronconneuse
 
-- version : W5
+- version : W6
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -8,7 +8,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Nom : Tronconneuse (Chainsaw Devil). Nom ancien : Effacement. "Pochita" = nom futur, donne par Denji ; il ne le porte pas encore sur la periode.
 - Nature : engeance directe d'Effroi - jamais une filiation au sens humain (le vocabulaire familial ne vaut pas pour la genealogie demoniaque). Premier-ne apres les trois Cavalieres ; ne procede que de lui. De type demon-arme par sa forme (tronconneuses), mais hors de la lignee de Guerre. [DIVERGENCE RP]
 - Concept : a l'origine, l'effacement pur - la peur, PROPRE AUX DEMONS, d'etre efface de la realite. Seul demon ne d'une peur de demon. [DIVERGENCE RP]
-- Statut : reduit, au plus bas des 1983 ; en fuite sur Terre ; hors allegeance depuis sa rebellion ; craint de tous.
+- Statut : ABSORBE dans le trone (~1997) - coeur de Chainsaw Man, l'hybride Denji, Division 4 (cf. Trajectoire). Auparavant : reduit des 1983, en fuite sur Terre, hors allegeance depuis sa rebellion ; craint de tous.
 
 ## Place dans la lignee
 - Engeance directe d'Effroi, premier-ne apres les trois Cavalieres de societes ; ne decoule que de lui. [DIVERGENCE RP]
@@ -72,5 +72,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 |---|---|---|
 | 1994 (R3 - L'Autorite) | REPERE : le demon Concombre rapporte au Roi qu'un garcon borgne arme d'un chiot tronconneuse le traque - et se fait tuer dans la foulee par le garcon (Denji, 12 ans). Le fil de la traque detone : Pochita est localise, fondu dans le quotidien d'un gamin des yakuza. Doctrine de Nayuta, adoptee par le trone : LAISSER l'hybridation advenir - satisfaire le gamin plutot que le demon ; attendre qu'une epreuve assez forte les fasse s'hybrider, la declencher au besoin. | Localise, mais volontairement laisse libre : la traque devient un guet rapproche. Le trone attendra trois ans. |
 | ~1997 (R3) | L'epreuve vient d'elle-meme (le trone n'y est pour rien) : Denji est massacre par le Zombie de Mort chez les yakuza. HYBRIDATION - contrat de fusion : "vis une vie normale et montre-moi tes reves" ; derriere la formule, le vrai but des deux : etre heureux. Le nouvel hybride dechiquette toute la crew zombifiee avant de s'effondrer, epuise et affame ; recrute dans la foulee par le trone (4e Division Speciale). | FIN DE LA TRAQUE par ABSORPTION dans le trone : le chiot devient le coeur de Chainsaw Man, et la dette d'attachement visee par le Roi se transfere au gamin - qui devra tout au trone. |
+| ~1997 (R4 - La Tronconneuse) | CIBLE de Guerre : son coeur (le corps de Pochita) est l'objet de l'attaque montee via Tetsuo et Sawatari - Tronconneuse comme arme de dissuasion pour regner a son tour, imposer la guerre, voire effacer Mort ou faire regurgiter l'atome. Mission Eternite : trois jours dans le ventre du renegat, Chainsaw Man le massacre de l'interieur en buvant son sang pour tenir. Cloture : l'hybride assiste a l'arrachage du coeur de Tetsuo par Makoto - l'avertissement vaut pour son hote. | Convoitise de Guerre etablie : il reste sa cible (prochaine carte : Reze). Lecon de l'arrachage plantee chez son hote. |
 
 FIN_WIKI_PERSONNAGES_TRONCONNEUSE

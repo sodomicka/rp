@@ -1,6 +1,6 @@
 # Renarde
 
-- version : W2
+- version : W3
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -31,7 +31,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle exi
 ## Psychologie
 - Froide, posee, calculatrice - la plus mesuree des betes, a l'oppose de l'armee impulsive de Guerre. [DIVERGENCE RP]
 - Frayage avec les humains : par CALCUL, pas par chaleur. Elle prete ses contrats a foison (utile au trone, et a elle), en operatrice, jamais en amie. [CANON reinterprete - le canon la dit "amicale avec les humains" ; ici, du pragmatisme froid]
-- Le refus des hybrides : elle ne mord JAMAIS un hybride. Non par degout (le canon invoque le mauvais gout de leur sang) mais par LOYAUTE - les hybrides sont les pions d'Effroi, y toucher c'est mordre la main du Roi. La saveur n'est qu'un bonus. [DIVERGENCE RP - reinterpretation du trait canon]
+- Le refus des hybrides : elle ne mord JAMAIS un hybride. Non par degout (le canon invoque le mauvais gout de leur sang) mais par LOYAUTE - les hybrides sont les pions d'Effroi, y toucher c'est mordre la main du Roi. La saveur n'est qu'un bonus. Elle prefere ROMPRE un contrat plutot que d'y deroger (demontre ~1997, cf. Trajectoire). [DIVERGENCE RP - reinterpretation du trait canon]
 
 ## Histoire (jusqu'au point de depart, 2 dec 1984)
 - Engeance ancienne de Predateur ; restee fidele au trone quand le gros des betes suivait Predateur dans la rebellion. [DIVERGENCE RP]
@@ -42,7 +42,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle exi
 - Effroi / Makoto - le trone qu'elle sert ; c'est pour lui qu'elle epargne les hybrides. [DIVERGENCE RP]
 - Serpent - l'autre bete restee fidele au trone ; consoeur au meme sang-froid. [DIVERGENCE RP]
 - Guerre / Yoru - suzeraine de fait des betes insoumises - pas d'elle. [DIVERGENCE RP]
-- Contractants humains - des chasseurs a qui elle prete sa puissance contre un bout de chair ; au Japon, Aki Hayakawa (1990, cf. Trajectoire) et bien d'autres. [CANON]
+- Contractants humains - des chasseurs a qui elle prete sa puissance contre un bout de chair ; au Japon, Aki Hayakawa (1990 - ~1997, contrat rompu par elle, cf. Trajectoire) et bien d'autres. [CANON]
 
 ## Implications d'arc
 - R2 exige qu'au point de depart Renarde soit deja une bete LOYALISTE, distincte de l'armee animale de Guerre. Couvert par le NOYAU.
@@ -53,5 +53,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle exi
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 1990 (R3 - L'Autorite) | Aki Hayakawa (Securite Publique, Division 2) la contracte - comme il le prevoyait. Prix standard : un morceau de chair du contractant. | Un contractant de plus au sein de la SP ; sa puissance au service du binome Aki-Himeno. |
+| ~1997 (R4 - La Tronconneuse) | Lancee par Aki sur Katana Man en pleine attaque de Guerre : elle ROMPT son contrat en plein combat plutot que de mordre - les hybrides sont les outils de Makoto, et leur gout l'ecoeure (le bonus). Sangsue, en revanche, tombe sous ses crocs aux cotes d'Aki (test du duo, plus tot dans l'arc). | Contrat Aki perdu de son propre chef ; le principe du refus des hybrides demontre en scene ; agent libre du trone, inchangee. |
 
 FIN_WIKI_PERSONNAGES_RENARDE

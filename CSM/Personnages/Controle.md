@@ -1,6 +1,6 @@
 # Controle
 
-- version : W6
+- version : W7
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -90,5 +90,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 | 1989 (R2) | Elle fait rassembler les fragments disperses de Flingue (reseau humain, Quanxi et infiltres chinois). | Orchestre le rapatriement qui permettra l'hybridation du Gardien. |
 | 1990 (R2) | Elle assiste au rituel d'hybridation de Kishibe. | Petrifiee, comme Nayuta, par la force brute de Makoto - une mesure de plus de ce qui la depasse chez son allie. |
 | ~1997 (R3 - L'Autorite) | Creation de la 4e Division Speciale (planifiee des 1994) : elle en forme la CELLULE DE COMMANDEMENT avec Makoto et Nayuta (planification des operations, paperasse, contrats et negociations avec les demons recuperes plutot que tues). Recrutement de Denji, Nayuta en ancre emotionnelle : c'est le regard severe des parents qui fait passer la proposition de Nayuta de "mon chien" a "mon grand frere". Elle ramene un Denji epuise et affame a la voiture pendant que Makoto se charge du Zombie. Avec Makoto, elle constitue la collection personnelle du couple : les armes hybrides du programme, plus le Zombie de Mort. | Prise directe sur l'hybride de Tronconneuse via la division creee pour lui ; collection du couple hors organigramme SP. |
+| ~1997 (R4 - La Tronconneuse) | Previent, avec Nayuta, des le placement de Katana : un code d'honneur ne rendra pas les yakuza fiables. Mitraillee dans le train pour Kyoto lors de l'attaque de Guerre, elle survit : rituel des trente condamnes a perpetuite, au sanctuaire en altitude - les mercenaires broyes un a un a distance ; elle n'epargne que Sawatari et Tetsuo. Apres la mort d'Himeno, elle recommande la mise en scene du deuil : des trois tetes de la cellule, c'est elle qui connait le mieux la manipulation par les emotions - sa specialite. | L'attaque de Guerre encaissee sans perdre la main ; le deuil orchestre devient la premiere lecon de la doctrine de la perte servie a Denji. |
 
 FIN_WIKI_PERSONNAGES_CONTROLE

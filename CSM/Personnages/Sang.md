@@ -1,6 +1,6 @@
 # Sang (Power)
 
-- version : W1
+- version : W2
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie. Personnage canon ; le caracterisant est integre, le cycle d'incarnations et les rattachements RP sont balises.
 
@@ -38,7 +38,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 ## Relations de base
 - Effroi / Makoto - son concept d'origine ET son bourreau seculaire ; elle l'ignore doublement. Depuis 1996 : le patron qui l'a mise sous ultimatum. [DIVERGENCE RP]
 - Miaouche - son chat. [CANON - nom VF]
-- Chauve-Souris - le ravisseur de Miaouche ; sa mort lui est RESERVEE par Effroi, dette-recompense a reclamer une fois assez forte. [CANON sur l'entite ; DIVERGENCE RP sur la dette]
+- Chauve-Souris - le ravisseur de Miaouche ; sa mort lui etait RESERVEE par Effroi (dette-recompense a reclamer une fois assez forte) - GACHEE en ~1997 : lachee au test, elle a laisse Denji tuer la bete a sa place. Dette soldee au rabais, non epongee. cf. Trajectoire. [CANON sur l'entite ; DIVERGENCE RP sur la dette]
 - Nayuta / Autorite - le baton de l'ultimatum : trop de chaos, et Autorite la force. [DIVERGENCE RP]
 - Makima / Controle - coordinatrice de la Securite Publique. [CANON sur le lien SP]
 - Securite Publique - employeur depuis 1996, 3e division. [DIVERGENCE RP sur la date et la division]
@@ -53,5 +53,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 |---|---|---|
 | 1996 (R3 - L'Autorite) | Possession du cadavre ; attachement a Miaouche ; capture du chat par Chauve-Souris ; remontee via la consigne permanente ; Effroi en personne - il s'amuse du tourment de la demone, libere Miaouche sans tuer Chauve-Souris, arrache le BRAS DROIT du ravisseur en avertissement (un massacre, et la SP se chargera de le tuer), reserve sa mort a Power (dette-recompense, a reclamer une fois assez forte), et pose l'ultimatum : moins de chaos que ses precedentes vies, ou Autorite la force. Power accepte. | Recrutee, 3e division ; dette Chauve-Souris en poche ; sous ultimatum comportemental ; Miaouche recupere. |
 | ~1997 (R3 - L'Autorite) | Creation de la Division Speciale 4 : Power y bascule comme agent de terrain. | Division 4, agent de terrain. |
+| ~1997 (R4 - La Tronconneuse) | Le test du duo : endettee depuis 1996, elle embarque Denji pour buter Chauve-Souris et etre quitte - puis, lache des que personne ne la regarde, laisse tout le boulot a Denji, qui decoupe la bete. Verdict du Roi : la dette n'est PAS epongee - la mort etait reservee a Power, c'est Denji qui l'a prise. Mais si elle reste une agente de la SP sans faire trop de vagues, il la laissera "tranquille". Kishibe l'entraine a la dure, avec Denji. | Dette Chauve-Souris SOLDEE au rabais (recompense gachee) ; a ses ordres sans avoir compris comment - mais tranquille. |
 
 FIN_WIKI_PERSONNAGES_SANG

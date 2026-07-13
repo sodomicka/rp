@@ -1,6 +1,6 @@
 # Guerre
 
-- version : W4
+- version : W5
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -75,5 +75,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 | ~1985-1986 (R2 - Le Flingue) | Elle orchestre le vol des fragments US (20%) et URSS (28%) de Flingue : pas d'infiltration subtile - un RAID BRUTAL, mercenaires humains et demons du Predateur. Les deux blocs reunis forment un corps conscient de 48%, qu'elle garde et ne lache pas : elle veut d'abord comprendre qui a pu vaincre son engeance la plus forte, et lacher 48% de son arme, c'est risquer de se les faire voler pour de bon - la prudence d'une impulsive qui a pris une claque. Le trone ne decouvre le vol qu'en 1987, a l'ouverture de son chantier de recuperation. | Prive le trone des deux plus gros fragments ; detient un Flingue conscient (48%) sous cle ; pas de second carnage. |
 | 1988 (R2 - Le Flingue) | Au complexe siberien, son programme produit son premier hybride : Reze (nee 1981) fusionnee au demon Bombe. | Croit avoir arme un hybride fidele - en realite le duo est retourne (Bombe agent d'Effroi), ce qu'elle ignore. |
 | 1989 (R2 - Le Flingue) | Elle sent l'allegeance de Flingue flancher via le canal - trop fier et tetu pour faire semblant. Elle l'interroge ; il avoue la trahison, sans jamais en dire le motif. Elle s'arrache un bras et mue ses 48% en prothese-arme. Une fois en ARME, plus de conscience : le canal existe encore, mais il ne repond plus. A ses yeux, aucune transgression du tabou de la mere : le fils allait la trahir, comme l'ont deja fait Espadon, Fouet, Lance-flammes, Lance, Aiguille, Machette et Griffe. | Amputee d'un fils et d'un bras, armee d'une prothese muette (48%) ; symetrie des deux camps : chacun a bride Flingue - elle par la mutilation, le trone par la contention hybride ; Tank devient litteralement son dernier fils loyal. |
+| ~1997 (R4 - La Tronconneuse) | Commanditaire de l'attaque contre la Securite Publique : le pion du trone tourne pour elle - Tetsuo (l'hybride de Katana, ronge par sa haine de Denji) et Sawatari (contractante du Serpent) montent l'attaque POUR GUERRE, contre la promesse d'armes a feu en grand nombre. Objectif : LE COEUR DE DENJI - Tronconneuse comme arme de dissuasion pour regner a son tour, imposer la guerre, voire effacer Mort ou faire regurgiter l'atome. Pas de zombies : des MERCENAIRES en nombre - elle met des moyens, et JAUGE Makima et son epoux au passage. L'attaque echoue : Makima broie les mercenaires, Tetsuo et Sawatari tombent, Katana retourne a l'arsenal. En marge : sa prothese est passee de 48 a 52% depuis 1990 (recuperation de douilles en circulation). | Un pion perdu face a Effroi ; le couple jauge, la mesure prise. A court d'intermediaires, elle jouera sa derniere carte avant ses Assassins et elle-meme : Reze. Prothese a 52%. |
 
 FIN_WIKI_PERSONNAGES_GUERRE
