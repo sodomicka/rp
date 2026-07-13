@@ -1,6 +1,6 @@
 # Controle
 
-- version : W5
+- version : W6
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -89,5 +89,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 | 1987 (R2) | Le couple rallie Kishibe par la verite et la symbiose (pas de contrat couteux, pas de mensonge). Makima admet qu'elle n'aurait jamais procede ainsi - surtout avant de ceder l'autorite pure - ni su le rallier. | Reconnait la superiorite de la methode adaptative de Makoto ; adopte le registre symbiose/verite. |
 | 1989 (R2) | Elle fait rassembler les fragments disperses de Flingue (reseau humain, Quanxi et infiltres chinois). | Orchestre le rapatriement qui permettra l'hybridation du Gardien. |
 | 1990 (R2) | Elle assiste au rituel d'hybridation de Kishibe. | Petrifiee, comme Nayuta, par la force brute de Makoto - une mesure de plus de ce qui la depasse chez son allie. |
+| ~1997 (R3 - L'Autorite) | Creation de la 4e Division Speciale (planifiee des 1994) : elle en forme la CELLULE DE COMMANDEMENT avec Makoto et Nayuta (planification des operations, paperasse, contrats et negociations avec les demons recuperes plutot que tues). Recrutement de Denji, Nayuta en ancre emotionnelle : c'est le regard severe des parents qui fait passer la proposition de Nayuta de "mon chien" a "mon grand frere". Elle ramene un Denji epuise et affame a la voiture pendant que Makoto se charge du Zombie. Avec Makoto, elle constitue la collection personnelle du couple : les armes hybrides du programme, plus le Zombie de Mort. | Prise directe sur l'hybride de Tronconneuse via la division creee pour lui ; collection du couple hors organigramme SP. |
 
 FIN_WIKI_PERSONNAGES_CONTROLE

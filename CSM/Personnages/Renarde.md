@@ -1,6 +1,6 @@
 # Renarde
 
-- version : W1
+- version : W2
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -42,7 +42,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle exi
 - Effroi / Makoto - le trone qu'elle sert ; c'est pour lui qu'elle epargne les hybrides. [DIVERGENCE RP]
 - Serpent - l'autre bete restee fidele au trone ; consoeur au meme sang-froid. [DIVERGENCE RP]
 - Guerre / Yoru - suzeraine de fait des betes insoumises - pas d'elle. [DIVERGENCE RP]
-- Contractants humains - des chasseurs a qui elle prete sa puissance contre un bout de chair (canon : Aki et bien d'autres, hors perimetre). [CANON]
+- Contractants humains - des chasseurs a qui elle prete sa puissance contre un bout de chair ; au Japon, Aki Hayakawa (1990, cf. Trajectoire) et bien d'autres. [CANON]
 
 ## Implications d'arc
 - R2 exige qu'au point de depart Renarde soit deja une bete LOYALISTE, distincte de l'armee animale de Guerre. Couvert par le NOYAU.
@@ -52,5 +52,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle exi
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| 1990 (R3 - L'Autorite) | Aki Hayakawa (Securite Publique, Division 2) la contracte - comme il le prevoyait. Prix standard : un morceau de chair du contractant. | Un contractant de plus au sein de la SP ; sa puissance au service du binome Aki-Himeno. |
 
 FIN_WIKI_PERSONNAGES_RENARDE

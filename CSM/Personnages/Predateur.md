@@ -1,6 +1,6 @@
 # Predateur
 
-- version : W1
+- version : W2
 
 Entite [DIVERGENCE RP - OC]. Fiche NEUTRE : decrit l'entite telle qu'elle existe dans le monde, independamment d'une partie. Aucun filet canon : socle etabli par le worldbuilder.
 
@@ -14,6 +14,7 @@ Entite [DIVERGENCE RP - OC]. Fiche NEUTRE : decrit l'entite telle qu'elle existe
 ## Place dans la lignee
 - Engeance directe ancienne d'Effroi : la peur des betes est l'une des plus vieilles peurs humaines, anterieure aux societes. Il rejoint Cataclysme et le sixieme sens parmi les anciennes engeances directes non titrees - mais, seul d'entre elles, RENEGAT. [DIVERGENCE RP]
 - Tete de la lignee des demons animaux : la peur des betes engendre les demons des betes particulieres. Le gros de la lignee l'a suivi dans l'insoumission et sert Guerre ; rares sont les loyalistes du trone (Renarde, Serpent). [DIVERGENCE RP]
+- Consigne permanente de Makima et Makoto a la Securite Publique : tout demon de la lignee du Predateur localise remonte au couple - non pour Predateur lui-meme, mais pour AFFAIBLIR GUERRE, dont sa lignee est l'armee. [DIVERGENCE RP]
 
 ## Apparence
 - Colosse humanoide a la carnation pale, musculature herculeenne et noueuse - un corps d'homme pousse a l'extreme. [DIVERGENCE RP]
@@ -50,6 +51,7 @@ Entite [DIVERGENCE RP - OC]. Fiche NEUTRE : decrit l'entite telle qu'elle existe
 - Guerre / Yoru - son alliee ; il se croit son egal, elle en fait son outil. [DIVERGENCE RP]
 - Renarde et Serpent - ses engeances restees fideles au trone ; elles lui echappent. [DIVERGENCE RP]
 - Armee animale (betes insoumises) - sa meute ; elles lui obeissent d'instinct et servent Guerre avec lui. [DIVERGENCE RP]
+- Chauve-Souris et Sangsue - ses deux agents nommes, LA PAIRE (compagnons) ; obeissance AVEUGLE a leur tete de lignee ; mission : repandre la peur des predateurs (camp de Guerre par ricochet). cf. Personnages/Chauve_Souris (fiche double, Sangsue incluse). [CANON sur les demons + DIVERGENCE RP sur le rattachement]
 - Cataclysme - son pair d'anciennete parmi les engeances directes non titrees ; Cataclysme fidele, Predateur renegat. [DIVERGENCE RP]
 
 ## Implications d'arc
@@ -61,5 +63,6 @@ Entite [DIVERGENCE RP - OC]. Fiche NEUTRE : decrit l'entite telle qu'elle existe
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 1987 (R2) | L'armee de betes de Predateur, avec des mercenaires, execute pour Guerre le rapt des fragments de Flingue voles aux USA et a l'URSS. | Son concours au coup de Guerre le pose en obstacle du trone dans la course a Flingue ; Makoto identifie l'alliance Guerre-Predateur. |
+| 1996 (R3 - L'Autorite) | Chauve-Souris, de sa lignee, capture le chat de l'incarnation 1996 de la demone du Sang ; la consigne permanente fait remonter l'affaire, et Effroi s'y rend EN PERSONNE : Miaouche libere, Chauve-Souris epargne mais ampute du BRAS DROIT en avertissement (un massacre, et la SP le tue). La mort de Chauve-Souris est RESERVEE a Power (dette-recompense du Roi). | Un de ses deux agents nommes mutile et sous avertissement SP ; sa lignee prend un avertissement direct du Roi - la consigne permanente a prouve son mordant. |
 
 FIN_WIKI_PERSONNAGES_PREDATEUR

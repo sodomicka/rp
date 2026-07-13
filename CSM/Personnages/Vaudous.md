@@ -1,6 +1,6 @@
 # Vaudous
 
-- version : W3
+- version : W4
 
 Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demons installes en divinites vaudoues - Machette, Aiguille, Griffe - tels qu'ils existent dans le monde, independamment d'une partie. En canon, seuls leurs noms et leurs contrats avec Kishibe existent (chap. 61) ; tout le reste est construction RP.
 
@@ -93,6 +93,7 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demo
 - Reseau - "Pere" des contrats, regent de leur canal comme de tous les autres. Ne les espionne pas - sauf ordre d'Effroi.
 - Enfer - le canal de convocation du trone : c'est par lui qu'ils furent rappeles pour la bataille.
 - Kishibe - contractant japonais notoire (Securite Publique), triple contrat des 1984 ; mouchard involontaire du filet. Il accepte le prix car il ne compte JAMAIS cesser de chasser - il ne paiera donc jamais son ame (Tchekhov). [CANON + DIVERGENCE RP]
+- Aki Hayakawa - SECOND contractant notoire de la Securite Publique (1990), triple contrat au prix standard du trio ; propose par Makoto en lieu et place de Malediction. cf. Personnages/Aki et Trajectoire. [DIVERGENCE RP - remplace le contrat canon Malediction]
 - Tronconneuse / Pochita - adversaire de la bataille, cible du guet.
 - Les hybrides du trone (cf. Armes, Arc/Quanxi) - volet ACTIF de la meme chasse ; les Vaudous en sont le volet passif.
 
@@ -104,5 +105,6 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demo
 
 | Date/ere | Entite | Evenement | Delta d'etat |
 |---|---|---|---|
+| 1990 (R3 - L'Autorite) | Trio | Aki Hayakawa (Securite Publique, Division 2) contracte les trois lames au PRIX STANDARD du trio - les ames des victimes des lames, et la sienne en fin de carriere (pas une annee de vie). Proposition de Makoto, qui lui a deconseille Malediction. | Second contractant notoire de la SP apres Kishibe ; un mouchard involontaire de plus au filet du trone. |
 
 FIN_WIKI_PERSONNAGES_VAUDOUS

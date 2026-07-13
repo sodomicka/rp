@@ -1,6 +1,6 @@
 # Tronconneuse
 
-- version : W4
+- version : W5
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -47,7 +47,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Fuite : reduit, il parvient a fuir l'Enfer pour la Terre avant de mourir. [DIVERGENCE RP]
 - Reduction par pareidolie : Effroi l'affaiblit encore en le reduisant a l'outil qui "coupe les arbres" - canon-compatible (Barem Bridge attribue justement cette reduction a l'effacement). Il ENTRETIENT cette reduction en propageant mondialement le nom "Tronconneuse", pour le nourrir par son canal le plus faible (la peur des tronconneuses, moindre que celle de l'effacement ou de l'oubli) et freiner sa regeneration - ce qui le maintient reduit au fil des annees. [DIVERGENCE RP]
 - Des 1984 : traque, en errance sur Terre, cache des autres demons, se nourrissant de dechets - trop affaibli pour tirer subsistance de la peur portee a ses concepts. Objectif de la traque : recuperer l'arme de dissuasion, la faire servir AUTREMENT que par la contrainte, l'empecher de servir un autre - ou elle-meme. Volet ACTIF : Quanxi et les quatre hybrides sur Terre ; volet PASSIF : le trio vaudou (renseignement). [DIVERGENCE RP]
-- Plus tard (hors perimetre) : encore reduit a un petit demon canin au seuil des annees 1990, il est recueilli par un humain apres quelques annees d'errance. [DIVERGENCE RP]
+- Plus tard : encore reduit a un petit demon canin au seuil des annees 1990, il est recueilli par un humain apres quelques annees d'errance - Denji, gamin des yakuza (repere par le trone en 1994, hybride ~1997 : cf. Trajectoire). [DIVERGENCE RP]
 
 ## Relations de base
 - Effroi / Makoto - son createur et l'ancien Roi qu'il a servi puis trahi. D'arme de dissuasion loyale a menace existentielle : Tronconneuse est le seul capable d'effacer Effroi (au prix d'un suicide conceptuel). C'est Effroi qui a ordonne son massacre (1983) ; c'est lui aussi qui entretient sa reduction et le traque, cherchant desormais non plus le devoir mais une dette d'attachement - le devoir seul n'a pas suffi a le retenir.
@@ -56,7 +56,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Quanxi et les quatre hybrides / le trio vaudou - ses traqueurs a partir de 1984 : volet actif (sur Terre) et volet passif (renseignement).
 - Demons rebelles - les rares insoumis a Effroi le tiennent pour le "Heros de l'Enfer" depuis sa trahison.
 - Beam et Princi - deux des sept renegats (anciens fideles du Roi passes a sa suite lors de la trahison de 1983), aujourd'hui captifs de Controle a la Securite Publique. Devots IRREDUCTIBLES : ils ne cedent qu'a Pochita. Beam l'a cotoyee - piste vivante vers la fugitive. (cf. Factions/Securite_Publique) [DIVERGENCE RP]
-- Denji - futur compagnon humain (hors perimetre).
+- Denji - le gamin des yakuza qui le recueille et le nomme "Pochita" ; son HOTE depuis ~1997 (contrat de fusion : "vis une vie normale et montre-moi tes reves" - derriere la formule, le vrai but des deux : etre heureux). cf. Personnages/Denji et Trajectoire. [CANON + DIVERGENCE RP sur le cadre]
 
 ## Implications d'arc
 - R1 (Le Contrat, 2 decembre 1984) - ce que l'arc etablit sur son etat au point de depart :
@@ -66,9 +66,11 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 ## Trajectoire datee
 (Alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : illimite - revu si trop lourd. Le canon par defaut vit ici ; si une partie diverge, le delta va en Parties/.)
 
-(Vide : R1 ne l'impacte pas directement - il n'est qu'evoque hors scene. La propagation du nom est une action continue, portee par l'Histoire et les Implications d'arc.)
+(La propagation du nom "Tronconneuse" est une action continue, portee par l'Histoire et les Implications d'arc.)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| 1994 (R3 - L'Autorite) | REPERE : le demon Concombre rapporte au Roi qu'un garcon borgne arme d'un chiot tronconneuse le traque - et se fait tuer dans la foulee par le garcon (Denji, 12 ans). Le fil de la traque detone : Pochita est localise, fondu dans le quotidien d'un gamin des yakuza. Doctrine de Nayuta, adoptee par le trone : LAISSER l'hybridation advenir - satisfaire le gamin plutot que le demon ; attendre qu'une epreuve assez forte les fasse s'hybrider, la declencher au besoin. | Localise, mais volontairement laisse libre : la traque devient un guet rapproche. Le trone attendra trois ans. |
+| ~1997 (R3) | L'epreuve vient d'elle-meme (le trone n'y est pour rien) : Denji est massacre par le Zombie de Mort chez les yakuza. HYBRIDATION - contrat de fusion : "vis une vie normale et montre-moi tes reves" ; derriere la formule, le vrai but des deux : etre heureux. Le nouvel hybride dechiquette toute la crew zombifiee avant de s'effondrer, epuise et affame ; recrute dans la foulee par le trone (4e Division Speciale). | FIN DE LA TRAQUE par ABSORPTION dans le trone : le chiot devient le coeur de Chainsaw Man, et la dette d'attachement visee par le Roi se transfere au gamin - qui devra tout au trone. |
 
 FIN_WIKI_PERSONNAGES_TRONCONNEUSE

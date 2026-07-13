@@ -1,6 +1,6 @@
 # Nayuta
 
-- version : W1
+- version : W2
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -47,7 +47,7 @@ Note : a part son ORIGINE (fille biologique, non une reincarnation) et son NOM D
 - Controle / Makima - sa mere ; lui a cede l'autorite pure et le statut de Cavaliere. [DIVERGENCE RP]
 - Ange - son gardien attitre, qu'elle malmene et traite en chien via l'autorite pure. [DIVERGENCE RP]
 - Ses trois soeurs - a naitre / a inventer (OC, hors fiche). [DIVERGENCE RP - a faire]
-- Kishibe - present a sa naissance : il s'agenouille sous son premier ordre. [DIVERGENCE RP]
+- Kishibe - present a sa naissance : il s'agenouille sous son premier ordre. Plus tard son TROISIEME MAITRE - la justice, a l'ecole de la gouvernance (1990-94, cf. Trajectoire). [DIVERGENCE RP]
 
 ## Implications d'arc
 - R2 exige que la conception ait eu lieu au point de depart (2 dec 84) - couvert par le NOYAU et l'Histoire. Le reste de sa vie (naissance, enfance) est POST-depart : cf. Trajectoire.
@@ -60,5 +60,9 @@ Note : a part son ORIGINE (fille biologique, non une reincarnation) et son NOM D
 | ~sept 1985 (R2) | Naissance de Nayuta (gestation humaine ~9 mois). Premier acte : elle fait s'agenouiller Kishibe et Ange. | Entree en existence de l'heritiere ; l'autorite pure se manifeste des la naissance. |
 | 1985-1987 (R2) | Prime enfance au penthouse. Elle malmene Ange et le traite en chien via l'autorite pure ; Makoto et Makima lui apprennent a en user avec mesure. | L'autorite pure brute se canalise peu a peu ; l'enfant devient le coeur - et la faille - du couple. |
 | 1989 (R2) | 4 ans, deja la mentalite d'une gamine de 14 ; elle accompagne ses parents au bureau, travaillant tantot avec l'un, tantot avec l'autre. | Precocite affirmee ; integree au quotidien du trone. |
+| 1990-1994 (R3 - L'Autorite) | ECOLE DE LA GOUVERNANCE : elle vient a la Securite Publique en tant que fille de Makoto et Makima. Triple formation - gouverner selon la vision de Makoto, gouverner selon celle de Makima, et la JUSTICE selon Kishibe : c'est la que son sens de la justice se developpe. Presente au huis clos de 1990 (la revelation faite a Aki et Himeno). | Trois maitres, trois ecoles ; l'heritiere se forme au metier de regner. |
+| 1994 (R3) | DOCTRINE POCHITA, sa premiere contribution strategique majeure, adoptee par le trone : laisser Pochita et Denji s'hybrider - satisfaire le GAMIN plutot que le demon ; attendre qu'une epreuve assez forte les fasse s'hybrider, la declencher au besoin. | L'heritiere devient actrice : sa doctrine retourne la traque de Tronconneuse. |
+| 1995 (R3) | 10 ans, aussi futee que sa mere et son pere - juste pas aussi experimentee : presentee comme l'ASSISTANTE de Makima malgre son jeune age. | Role officiel au sein de la SP ; ascension a l'ombre de sa mere. |
+| ~1997 (R3) | ANCRE EMOTIONNELLE du recrutement de Denji : elle lui propose d'etre son chien, puis son grand frere apres un regard severe des parents - en jouant la petite fille innocente qu'elle n'a jamais ete. Integre la CELLULE DE COMMANDEMENT de la Division 4 avec ses parents. Cloture de l'arc, la conversation pere-fille : Makoto lui apprend que tout finit par se savoir - quand Denji comprendra ce qu'elle est vraiment, il ne doit pas le vivre comme une trahison, et plus elle tarde a etre sincere, plus ce risque grandit. | Un "grand frere" arrime au foyer ; part prenante du commandement ; premiere lecon sur le prix de la sincerite differee. |
 
 FIN_WIKI_PERSONNAGES_NAYUTA

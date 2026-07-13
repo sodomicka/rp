@@ -1,6 +1,6 @@
 # Mort
 
-- version : W3
+- version : W4
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -33,6 +33,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Capacites demoniaques standard : contrats contre un prix, regeneration par le sang. [CANON]
 - Les quatre issues de la vie : elle PORTAIT quatre autres fins que la mort simple (Fragmentation, Plantation, Immortalisation, Inversion) ; Effacement les lui a arrachees sur ordre d'Effroi. Effet net PARADOXAL : la mort devenue l'unique fin, toute la peur de la fin se concentre sur elle - Mort en ressort RENFORCEE. [DIVERGENCE RP]
 - Nutrition : renforcee par tout monopole de peur mortelle - l'attaque mondiale de Flingue (1984) l'a massivement nourrie.
+- Influence passive : des demons fideles a elle obtiennent des contrats aupres des humains, SANS plan concerte contre le trone - extension diffuse de son influence, pas une strategie (ainsi le Zombie de Mort chez les yakuza, cf. Trajectoire et Personnages/Zombie). [DIVERGENCE RP]
 
 ## Psychologie
 - Intelligente, calculatrice, froide, methodique : le miroir d'Effroi. [DIVERGENCE RP - la personnalite canon de la Partie 2 est ecartee]
@@ -62,9 +63,8 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 ## Trajectoire datee
 (Alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : illimite - revu si trop lourd. Le canon par defaut vit ici ; si une partie diverge, le delta va en Parties/.)
 
-(Vide : R1 ne l'impacte pas directement. Premier delta attendu quand le plan de Makoto s'executera contre elle, roadmap ulterieure.)
-
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| ~1997 (R3 - L'Autorite) | Son Zombie, sous contrat chez les yakuza (pure influence passive), massacre Denji - declenchant sans le vouloir l'hybridation de Chainsaw Man - puis est RETOURNE par le trone : mis devant le choix (rallier de gre, ou Autorite le force), il accepte de son plein gre. Le calcul l'emporte sur la fidelite : le monde jonche de cadavres que promet Mort est aussi un monde sans humains vivants, donc sans demons. Verse a la collection personnelle du couple. | Perd un pion au profit direct du trone ; son influence passive a livre au Roi son hybride de Tronconneuse sans qu'elle l'ait ni voulu ni su orchestrer. |
 
 FIN_WIKI_PERSONNAGES_MORT
