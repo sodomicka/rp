@@ -1,6 +1,6 @@
 # Genealogie
 
-- version : W5
+- version : W6
 
 Page SYSTEMES : liste des naissances et lignees conceptuelles ACTEES. Document transversal, sans narration. Les regles du monde associees (contrats, canaux, nutrition) vivent en BIBLE SB1 ; ici, l'arbre et ses regles de lecture.
 
@@ -41,11 +41,12 @@ Engeances qui decoulent directement d'Effroi mais restent hors du quintette stru
 - Sixieme sens - engeance directe d'Effroi, au plus pres de la peur pure ; possede autrefois par tous les humains, il decuplait la peur ambiante et favorisait TROP Effroi lui-meme. Efface sur ordre d'Effroi (ere du Royaume stable) - son effacement l'AFFAIBLIT. [DIVERGENCE RP]
 - Cataclysme - engeance directe d'Effroi, ancienne (peur brute de la catastrophe naturelle, au plus pres de la terreur pure) ; d'ou sa fidelite au trone et son imprevisibilite. Anciennement nomme Catastrophes (renomme Cataclysme). Tete d'une petite lignee (cf. Lignee de Cataclysme). L'eruption du Mont Hio (XIXe s.) fait partie des effaces. [DIVERGENCE RP - rattachement tranche au B2 ; renomme]
 - Predateur - engeance directe d'Effroi, tres ancienne (la peur des betes et des animaux, l'une des plus vieilles peurs humaines, anterieure aux premieres societes). RENEGATE : passee a l'insoumission, alliee a Guerre contre le trone. Tete de la lignee des demons animaux (cf. Lignee de Predateur). [DIVERGENCE RP]
+- Sang - engeance directe ancienne d'Effroi, non titree (la peur du sang). Particularite : la demone du Sang elle-meme IGNORE sa filiation - reincarnations amnesiques a chaque cycle. cf. Personnages/Sang. [CANON sur la demone + DIVERGENCE RP sur la filiation - rattachement tranche au build R3]
 
 ## Lignee de Mort
 - Primordiaux, engeances de Mort, ordre acte : Chute -> Tenebres -> Vieillesse. Toutes peurs de la mort. Prehistoire.
 - Arsenal de Mort : Guillotine - nee apres l'invention de la machine (fin XVIIIe). [CANON sur l'association Mort-Guillotine (pion de Mort en P2) + DIVERGENCE RP sur la filiation ; IMPLICITE sur la datation]
-- Engeance : Zombie - demon des morts qui se relevent ; engeance de Mort, posterieure aux Primordiaux. Deploye par Mort chez des yakuza (raccord ~1997, differe roadmap). [CANON sur le demon + DIVERGENCE RP sur la filiation - rattachement tranche au B2]
+- Engeance : Zombie - demon des morts qui se relevent ; engeance de Mort, posterieure aux Primordiaux. Sous contrat chez des yakuza (~1997, influence passive de Mort - pas un plan concerte), puis RETOURNE par le trone : rallie de son plein gre, verse a la collection personnelle du couple (cf. Personnages/Zombie). [CANON sur le demon + DIVERGENCE RP sur la filiation - rattachement tranche au B2 ; raccord ~1997 consomme au build R3]
 - Concepts PORTES (non demons separes) : les quatre issues de la vie - Fragmentation, Plantation, Immortalisation, Inversion - que Mort portait avant l'effacement. Arrachees par Tronconneuse sur ordre d'Effroi (ere du Royaume stable) ; effet net PARADOXAL : la mort devenue l'unique fin, Mort en ressort RENFORCEE. [DIVERGENCE RP]
 - Engeance devoree : Holocauste - devoree par Tronconneuse (1941-1948). [DIVERGENCE RP - ajout hors liste canon]
 
@@ -73,6 +74,7 @@ Engeances qui decoulent directement d'Effroi mais restent hors du quintette stru
 - Statut interne : la plupart des demons animaux ont suivi Predateur dans l'insoumission et servent Guerre - une petite armee de betes rangee sous sa banniere. Rares sont les fideles au trone.
 - Renarde - demone animale (peur du renard, de la ruse animale) ; engeance de Predateur restee FIDELE au trone. Plus froide et moins impulsive que le reste des betes. [CANON sur le demon animal + DIVERGENCE RP sur la filiation]
 - Serpent - demone animale (peur du serpent) ; engeance de Predateur restee FIDELE au trone. Meme temperament froid et pose. [CANON sur le demon animal + DIVERGENCE RP sur la filiation]
+- Chauve-Souris et Sangsue - demons animaux, engeances de Predateur ; LA PAIRE (compagnons), rangee derriere sa tete de lignee en OBEISSANCE AVEUGLE - mission : repandre la peur des predateurs (camp de Guerre par ricochet). cf. Personnages/Chauve_Souris (fiche double, Sangsue incluse). [CANON sur les demons + DIVERGENCE RP sur la filiation - rattachement tranche au build R3]
 - Les autres demons animaux : engeances de Predateur ralliees a Guerre avec leur tete de lignee. [DIVERGENCE RP]
 
 ## Lignee de Cataclysme
