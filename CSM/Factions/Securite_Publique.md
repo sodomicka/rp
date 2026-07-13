@@ -1,6 +1,6 @@
 # Securite Publique
 
-- version : W5
+- version : W6
 
 Faction humaine [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'organisation telle qu'elle existe dans le monde, focalisee sur son etat au point de depart (decembre 1984). L'ironie dramatique reservee au joueur (ce que Makima ignore) vit en CODEX / ANNEXE_SAVOIRS, pas ici.
 
@@ -59,7 +59,7 @@ Bilan : 1 loyaliste (Ange), 2 irreductibles (Beam, Princi), 4 renegats ralliable
   - Division 3 deja constituee et tenue par le Controle de Makima : les sept renegats de 1983 y sont contraints, prets a etre "liberes" puis retournes des l'installation de Makoto.
 
 ## Trajectoire datee
-(Alimentee A CHAUD arc par arc. La restructuration de ~1997 - creation de la Division 4 - est posee ci-dessous, build R3.)
+(Alimentee A CHAUD arc par arc. La restructuration de ~1997 - creation de la Division 4 - est posee ci-dessous, build R3 ; le bilan de l'attaque de Guerre, build R4.)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
@@ -70,5 +70,7 @@ Bilan : 1 loyaliste (Ange), 2 irreductibles (Beam, Princi), 4 renegats ralliable
 | 1990 (R3 - L'Autorite) | Aki (15 ans) rejoint la Division 2 sous Himeno ; huis clos de la revelation (Makoto, Makima, Kishibe, Nayuta face a Aki et Himeno) : les deux humains apprennent la vraie nature des quatre autres et jugent le plan d'equilibre legitime. Binome Aki-Himeno, sous condition d'observation posee par Himeno jusqu'a la majorite d'Aki (1995) | Deux humains de plus dans la confidence ; la Division 2 arrimee au trone par conviction, plus seulement par canal hierarchique |
 | 1996 (R3) | Sous ultimatum du Roi (affaire Miaouche / Chauve-Souris), l'incarnation 1996 de la demone du Sang - Power - integre la Division 3 | Une demone ancienne de plus au roster (engeance directe du Roi, ce qu'elle ignore elle-meme), tenue par l'ultimatum et par la dette-recompense (la mort de Chauve-Souris lui est reservee) |
 | ~1997 (R3 - restructuration) | Creation de la 4e DIVISION SPECIALE, planifiee des 1994 pour accueillir l'hybride de Tronconneuse. Composition a la creation : cellule de commandement Makoto-Makima-Nayuta (planification des operations, paperasse, contrats et negociations avec les demons RECUPERES plutot que tues) ; Kishibe chef d'escouade, Himeno seconde ; agents de terrain : Aki, Power, Denji, Kobeni, Arai, Ange, Princi, Galgali, Beam, plus trois humains non nommes (Kobeni et Arai : figurants nommes, portes par cette fiche, pas de fiches dediees). Furuno prend la tete de la Division 2. Division 3 reduite a Seraphim, Dominion et Virtue. Division 1 sans Kishibe : des veterans autonomes, PAS de successeur nomme - la division change a peine sans lui | Nouvelle structure a quatre divisions ; le trone concentre ses pieces maitresses autour de Denji ; le Zombie de Mort, lui, est verse a la collection personnelle du couple - HORS organigramme SP |
+| ~1997 (R4 - La Tronconneuse, l'offre) | Makoto prend a part Beam et Princi, les deux devots de l'idole : LIBERTE rendue (fin de la contrainte par le charme de Makima), admiration pour Chainsaw Man permise et meme bienvenue - mais interdit ABSOLU sur l'Effacement, sous menace (creuse) de soumettre Pochita par la force et la douleur. Les deux marchent | Plus aucune contrainte au roster : les deux irreductibles servent de gre, museles sur le seul sujet qui compte |
+| ~1997 (R4 - l'attaque de Guerre) | Frappes coordonnees de mercenaires en nombre sur les Divisions 1 et 4, commanditees par Guerre via Tetsuo (hybride de Katana) et Sawatari (contractante du Serpent). BILAN - Division 1 : reduite a quelques veterans. Division 4 : Himeno morte (corps entier a Ghost pour sauver Aki), Arai mort en se sacrifiant pour Kobeni, les trois humains anonymes tombes. Kobeni REVELEE malgre elle : elle tranche le bras de Tetsuo et lui tire dans le dos de sa propre arme, puis coince Sawatari au couteau au raid final - un vrai talent pour le metier, exerce toujours plus a reculons. Makima survit au train pour Kyoto (rituel des trente condamnes). Le raid de represailles fait tomber les repaires des mercenaires ; Tetsuo et Sawatari sont liquides (coeur arrache par Makoto ; gobage par le Serpent) ; Katana retourne a l'arsenal | La SP saignee mais tenue : Division 1 squelettique, Division 4 amputee de sa seconde d'escouade, d'Arai et des trois anonymes ; le deuil du trone mis en scene (recommandation de Makima) sert la doctrine de la perte aupres de Denji ; Kobeni, douee et a reculons - demission en embuscade |
 
 FIN_WIKI_FACTIONS_SECURITE_PUBLIQUE
