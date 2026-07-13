@@ -1,6 +1,6 @@
 # Sommaire - CSM
 
-- version : W15
+- version : W16
 
 ## WIKI
 
@@ -8,13 +8,13 @@
 
 ### (racine)
 Description : pages de travail et index.
-- _Implications.md (W18) - journal de travail du build (jamais fetche en narration)
+- _Implications.md (W19) - journal de travail du build (jamais fetche en narration)
 
 ### Roadmap/Makoto/
 Description : garde-cap et sources de build de la campagne Makoto (Passe 2).
 - Chronologie.md (W1) - GARDE-CAP du decoupage R0 -> R8+ dicte par le worldbuilder : bornes, jalons et [A POSER] de chaque arc ; tres sollicitee en Passe 2
 
-> Les roadmaps d'arc (R0 La Peur W2, R1 Le Controle W5, R2 Le Flingue W3) restent NON indexees (v8.2) : sources de build uniquement, lues par listing de dossier.
+> Les roadmaps d'arc (R0 La Peur W2, R1 Le Controle W5, R2 Le Flingue W3, R3 L'Autorite W1) restent NON indexees (v8.2) : sources de build uniquement, lues par listing de dossier.
 
 ### Personnages/
 Description : fiches d'entites neutres (NOYAU + Trajectoire datee).
@@ -43,6 +43,11 @@ Description : fiches d'entites neutres (NOYAU + Trajectoire datee).
 - Renarde.md (W1) - demone animale fidele au trone, echappe a Predateur ; parmi les rares betes loyalistes
 - Serpent.md (W1) - demon animal fidele au trone ; absorption/liberation via contrat prioritaire de Reseau
 - Typhon.md (W1) - engeance de Cataclysme ; confie par contrat sans contrepartie a l'hybride Reze, qu'il nomme "Maitresse Reze"
+- Sang.md (W1) - fiche double : la demone du Sang + Power ; engeance directe ancienne d'Effroi (elle-meme l'ignore) ; une incarnation par siecle, toutes obliterees par le Roi (la farce seculaire) ; immunisee au toucher mortel par arrogance ; Power recrutee sous ultimatum (1996), Division 4 (~1997)
+- Himeno.md (W1) - cheffe de la Division 2 (nee 1962, cheffe a 22 ans) ; contrat Fantome des 1980, l'oeil droit en prix ; la strategie du ne-pas-savoir brisee au huis clos de 1990 ; mentor et binome d'Aki ; seconde de la Division 4 (~1997)
+- Denji.md (W1) - gamin des yakuza ne en 1982 ; hybride de Tronconneuse (~1997) : Chainsaw Man ; l'unique voie d'effacement d'Effroi dans la poitrine d'un ado ; recrute a la dette d'attachement, Division 4
+- Zombie.md (W1) - "le Zombie de Mort" ; engeance de Mort, instrument passif de son influence ; zombification-arnaque ; executeur du massacre de Denji ; rallie de plein gre (~1997), verse a la collection personnelle du couple
+- Chauve_Souris.md (W1) - fiche groupee : Chauve-Souris + Sangsue, le couple de la lignee du Predateur (obeissance aveugle) ; le bras droit arrache par Makoto (1996), mort reservee a Power ; Sangsue, la vengeresse en attente
 
 ### Lieux/
 Description : lieux du monde ; une entite double lieu+demon y vit en fiche unique.
@@ -57,7 +62,7 @@ Description : pages systeme transversales (regles, arbres, index thematiques).
 Description : factions et groupes (humains ou mixtes) ; etat neutre + Trajectoire datee.
 - Securite_Publique.md (W4) - agence anti-demons japonaise ; roster de decembre 1984 (Div 1 Kishibe, Div 2 Himeno cheffe - rapporte au couple - et Furuno son second, Div 3 les sept renegats) ; refuge-vivier d'orphelins ; ralliement de la Div 3, genuflexion de Nayuta, ascension de Makima et signalement d'Aki en Trajectoire ; en verite un instrument d'Effroi
 
-PASSE 1 CLOTUREE (B2). PASSE 2 EN COURS : point de depart au 2 decembre 1984. Roadmaps dans Roadmap/Makoto/ : R0 La Peur (W2), R1 Le Controle (W5), R2 Le Flingue (W3) ; R2 se clot sur l'hybridation de Kishibe (1990). Chronologie.md (W1, indexee supra) = GARDE-CAP du decoupage complet R0 -> R8+ dicte par le worldbuilder : R3 L'Autorite, R4 La Tronconneuse, R5 La Bombe, R6 La Guerre (le Conflit tombe ici), R7 La Famine, R8+ ouvert. Lot correctifs PROPAGE (thread W18) : BIBLE B6 et fiches a jour (Tank W3, Guerre W4, Flingue W5, Kishibe W3, Securite_Publique W4, Arc W4, Aki W1 creee) ; TRANCHE : pas de Reze.md separee (fiche double Bombe.md, modele Arc/Quanxi). Design pose mais NON construit : socle des 3 soeurs de Nayuta (Asa, Kiga + reincarnation de Mort a l'horizon R8+) ; domestication des Cavalieres. PROCHAIN : cloture Passe 2 (relecture croisee inter-arcs) ; Passe 3 (builds R3+, decoupage en arcs + fiches d'arc) ; CODEX V1 ; SETUP. Aucune fiche d'arc a ce stade.
+PASSE 1 CLOTUREE (B2). PASSE 2 EN COURS : point de depart au 2 decembre 1984. Roadmaps dans Roadmap/Makoto/ : R0 La Peur (W2), R1 Le Controle (W5), R2 Le Flingue (W3), R3 L'Autorite (W1) ; R3 se clot sur le recrutement de Denji et la conversation pere-fille (~1997). Chronologie.md (W1, indexee supra) = GARDE-CAP du decoupage complet R0 -> R8+ dicte par le worldbuilder : R4 La Tronconneuse, R5 La Bombe, R6 La Guerre (le Conflit tombe ici), R7 La Famine, R8+ ouvert. BUILD R3 LIVRE (thread W19) : roadmap R3 (W1) + 5 fiches creees (Sang, Himeno, Denji, Zombie, Chauve_Souris) ; LOT DE PATCHS R3 A PROPAGER (liste au journal _Implications W19) : Effroi, Controle, Mort, Genealogie, Predateur, Securite_Publique, Aki, Nayuta, Kishibe, Vaudous, Renarde, Tronconneuse - puis BIBLE BUILD B7 et Sommaire W17. Design pose mais NON construit : socle des 3 soeurs de Nayuta (Asa, Kiga + reincarnation de Mort a l'horizon R8+) ; domestication des Cavalieres. PROCHAIN : thread de patchs R3 + BIBLE B7 ; puis builds R4 -> R7 (boucle serree) ; cloture Passe 2 (relecture croisee inter-arcs) ; Passe 3 (decoupage en arcs + fiches d'arc) ; CODEX V1 ; SETUP. Aucune fiche d'arc a ce stade.
 
 ## PARTIES (Partie1)
 
