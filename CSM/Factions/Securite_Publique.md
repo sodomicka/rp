@@ -1,6 +1,6 @@
 # Securite Publique
 
-- version : W4
+- version : W5
 
 Faction humaine [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'organisation telle qu'elle existe dans le monde, focalisee sur son etat au point de depart (decembre 1984). L'ironie dramatique reservee au joueur (ce que Makima ignore) vit en CODEX / ANNEXE_SAVOIRS, pas ici.
 
@@ -22,8 +22,8 @@ Trois divisions speciales de Tokyo actives au point de depart.
 - Autres Devil Hunters : la division la plus exposee, fort taux de pertes. Figurants anonymes (non fiches).
 
 ### Division Speciale 2
-- Himeno - CHEFFE de division. Veterane deja aguerrie en 1984 ; contrat avec le demon Fantome (Ghost Devil) ; a enterre plusieurs binomes. Des l'installation de Makoto, elle rapporte AU COUPLE - canal natif : Makoto dirige le departement des rapports d'incidents. Elle se DOUTE de leur nature mais ne cherche pas a comprendre : c'est dangereux, et elle ne veut pas prendre plus de risques que ceux qu'elle prend deja - la ou Kishibe, lui, finit par SAVOIR (1987), elle se detourne. Signale Aki au couple en 1989 (cf. Trajectoire) ; sa future mentor a son arrivee en Division 2 (1990, se joue en R3 - differe). [CANON sur le personnage et le contrat Fantome ; DIVERGENCE RP sur le rang de cheffe, la datation et les rattachements]
-- Furuno - second (lieutenant) d'Himeno. Non son binome - les binomes de cette division meurent - mais le cadre stable qui la tient. Destine a prendre la tete de la Division 2 bien plus tard, a la creation de la Division 4 (quand Himeno et Aki la rejoignent) : evenement futur, non detaille ici. [CANON sur le personnage - il meurt en 1997, donc bien vivant en 1984 ; DIVERGENCE RP sur son rang et sa presence en 1984]
+- Himeno - CHEFFE de division. Jeune cheffe EXCELLENTE, nee en 1962 (22 ans en decembre 1984) ; contrat avec le demon Fantome (Ghost Devil) ; a deja enterre plusieurs binomes. Des l'installation de Makoto, elle rapporte AU COUPLE - canal natif : Makoto dirige le departement des rapports d'incidents. Elle se DOUTE de leur nature mais ne cherche pas a comprendre : c'est dangereux, et elle ne veut pas prendre plus de risques que ceux qu'elle prend deja - la ou Kishibe, lui, finit par SAVOIR (1987), elle se detourne (jusqu'au huis clos de 1990, cf. Personnages/Himeno). Signale Aki au couple en 1989 (cf. Trajectoire) ; sa mentor a son arrivee en Division 2 (1990, joue en R3). Fiche pleine : cf. Personnages/Himeno. [CANON sur le personnage et le contrat Fantome ; DIVERGENCE RP sur le rang de cheffe, la datation 1962 et les rattachements]
+- Furuno - second (lieutenant) d'Himeno. Non son binome - les binomes de cette division meurent - mais le cadre stable qui la tient. Prend la tete de la Division 2 a la creation de la Division 4 (~1997), quand Himeno et Aki la rejoignent (cf. Trajectoire). [CANON sur le personnage - il meurt en 1997 en canon, donc bien vivant en 1984 ; DIVERGENCE RP sur son rang et sa presence en 1984]
 - Kato - veteran plus age, borgne. [DIVERGENCE RP sur la datation 1984]
 - Binomes perdus d'Himeno : figurants anonymes (non fiches).
 
@@ -51,7 +51,7 @@ Bilan : 1 loyaliste (Ange), 2 irreductibles (Beam, Princi), 4 renegats ralliable
 
 ## Hors roster Tokyo
 - Quanxi - co-fondatrice des Devil Hunters (premiere hybride du programme d'Effroi). Affectee a la Chine pour traquer la Tronconneuse hors du Japon : volet international de la traque. Absente du roster Tokyo. [DIVERGENCE RP ; "Premiere Devil Hunter" = canon]
-- Aki Hayakawa - hors roster actif sur toute la periode couverte. Enfant orphelin de l'attaque de Flingue du 18 novembre 1984 (qui tue ses parents et son petit frere sous ses yeux), recueilli par un REFUGE de la branche d'aide aux victimes - le vivier. Signale au couple par Himeno en 1989 (cf. Trajectoire) ; entre comme Devil Hunter en 1990, en Division 2 (se joue en R3 - differe). cf. Personnages/Aki. [CANON sur l'orphelinage par le Gun Devil ; DIVERGENCE RP sur le refuge-vivier et la datation]
+- Aki Hayakawa - hors roster actif sur toute la periode couverte. Enfant orphelin de l'attaque de Flingue du 18 novembre 1984 (qui tue ses parents et son petit frere sous ses yeux), recueilli par un REFUGE de la branche d'aide aux victimes - le vivier. Signale au couple par Himeno en 1989 (cf. Trajectoire) ; entre comme Devil Hunter en 1990, en Division 2 (joue en R3 : huis clos de la revelation, contrats - cf. Personnages/Aki) ; bascule en Division 4 a sa creation (~1997, cf. Trajectoire). cf. Personnages/Aki. [CANON sur l'orphelinage par le Gun Devil ; DIVERGENCE RP sur le refuge-vivier et la datation]
 
 ## Implications d'arc
 - R1 (Le Controle, 2 decembre 1984 - ~sept 1985) - ce que l'arc etablit que l'organisation est deja au point de depart :
@@ -59,7 +59,7 @@ Bilan : 1 loyaliste (Ange), 2 irreductibles (Beam, Princi), 4 renegats ralliable
   - Division 3 deja constituee et tenue par le Controle de Makima : les sept renegats de 1983 y sont contraints, prets a etre "liberes" puis retournes des l'installation de Makoto.
 
 ## Trajectoire datee
-(Alimentee A CHAUD arc par arc. Evolution vers la structure de 1997 - creation de la Division 4 pour Denji, absorption des divisions depletees, accession de Furuno a la tete de la Division 2 quand Himeno et Aki rejoignent la Division 4 - non detaillee ici, a poser a chaud quand l'arc concerne.)
+(Alimentee A CHAUD arc par arc. La restructuration de ~1997 - creation de la Division 4 - est posee ci-dessous, build R3.)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
@@ -67,5 +67,8 @@ Bilan : 1 loyaliste (Ange), 2 irreductibles (Beam, Princi), 4 renegats ralliable
 | ~septembre 1985 (R1 - naissance d'Autorite) | Naissance de Nayuta (Autorite). Kishibe et Ange sont presents ; des ses premieres larmes, la nouvelle-nee leur ordonne a tous deux de s'agenouiller | Premiere manifestation de l'autorite pure heritee de Makima (l'obeissance aveugle), exercee avant meme les premiers mots ; Kishibe, temoin, consigne l'indice en silence |
 | 1985-1990 (R2 - Le Flingue) | Ascension de Makima : devenue mere, son ambition grandit - laisser un monde parfait a ses quatre futures Cavalieres, que le plus dur du travail soit accompli quand les quatre seront leurs gamines. Elle gravit les echelons en se faisant passer pour humaine, cap sur la tete de l'agence. Makoto, lui, RESTE chef de la branche des rapports d'incidents ; ils restent ensemble sur tous les sujets serieux | Makima en marche vers le sommet de la SP ; la couverture du couple s'institutionnalise |
 | 1989 (R2 - Le Flingue) | Himeno signale au couple un gamin du refuge : Aki Hayakawa, 14 ans, devoue, la rage au ventre contre Flingue. Pas recrute, pas choisi pour un objectif - le couple retient, sans plus | Un pion repere pour l'avenir ; rien d'active |
+| 1990 (R3 - L'Autorite) | Aki (15 ans) rejoint la Division 2 sous Himeno ; huis clos de la revelation (Makoto, Makima, Kishibe, Nayuta face a Aki et Himeno) : les deux humains apprennent la vraie nature des quatre autres et jugent le plan d'equilibre legitime. Binome Aki-Himeno, sous condition d'observation posee par Himeno jusqu'a la majorite d'Aki (1995) | Deux humains de plus dans la confidence ; la Division 2 arrimee au trone par conviction, plus seulement par canal hierarchique |
+| 1996 (R3) | Sous ultimatum du Roi (affaire Miaouche / Chauve-Souris), l'incarnation 1996 de la demone du Sang - Power - integre la Division 3 | Une demone ancienne de plus au roster (engeance directe du Roi, ce qu'elle ignore elle-meme), tenue par l'ultimatum et par la dette-recompense (la mort de Chauve-Souris lui est reservee) |
+| ~1997 (R3 - restructuration) | Creation de la 4e DIVISION SPECIALE, planifiee des 1994 pour accueillir l'hybride de Tronconneuse. Composition a la creation : cellule de commandement Makoto-Makima-Nayuta (planification des operations, paperasse, contrats et negociations avec les demons RECUPERES plutot que tues) ; Kishibe chef d'escouade, Himeno seconde ; agents de terrain : Aki, Power, Denji, Kobeni, Arai, Ange, Princi, Galgali, Beam, plus trois humains non nommes (Kobeni et Arai : figurants nommes, portes par cette fiche, pas de fiches dediees). Furuno prend la tete de la Division 2. Division 3 reduite a Seraphim, Dominion et Virtue. Division 1 sans Kishibe : des veterans autonomes, PAS de successeur nomme - la division change a peine sans lui | Nouvelle structure a quatre divisions ; le trone concentre ses pieces maitresses autour de Denji ; le Zombie de Mort, lui, est verse a la collection personnelle du couple - HORS organigramme SP |
 
 FIN_WIKI_FACTIONS_SECURITE_PUBLIQUE
