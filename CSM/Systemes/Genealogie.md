@@ -1,6 +1,6 @@
 # Genealogie
 
-- version : W6
+- version : W7
 
 Page SYSTEMES : liste des naissances et lignees conceptuelles ACTEES. Document transversal, sans narration. Les regles du monde associees (contrats, canaux, nutrition) vivent en BIBLE SB1 ; ici, l'arbre et ses regles de lecture.
 
@@ -50,6 +50,11 @@ Engeances qui decoulent directement d'Effroi mais restent hors du quintette stru
 - Concepts PORTES (non demons separes) : les quatre issues de la vie - Fragmentation, Plantation, Immortalisation, Inversion - que Mort portait avant l'effacement. Arrachees par Tronconneuse sur ordre d'Effroi (ere du Royaume stable) ; effet net PARADOXAL : la mort devenue l'unique fin, Mort en ressort RENFORCEE. [DIVERGENCE RP]
 - Engeance devoree : Holocauste - devoree par Tronconneuse (1941-1948). [DIVERGENCE RP - ajout hors liste canon]
 
+## Lignee de Vieillesse - branche temporelle
+- Vieillesse (Primordial, engeance de Mort) est lui-meme tete d'une petite lignee : les peurs du TEMPS engendrent des demons qui decoulent de lui - la branche temporelle. Ses deux membres actes sortent ainsi de la regle par defaut des demons mineurs. [DIVERGENCE RP - actee au build R4]
+- Avenir - demon de la peur de l'avenir (ce qui vient, et qu'on ne connait pas) ; engeance de Vieillesse. FIDELE au trone de son plein gre - peut-etre parce qu'il connait l'avenir [INCERTAIN - ambiguite voulue]. Resident de gre des geoles de la Securite Publique ; loge dans l'oeil droit d'Aki Hayakawa depuis ~1997. cf. Personnages/Avenir. [CANON sur le demon + DIVERGENCE RP sur la filiation]
+- Eternite - demon de la peur de l'eternite et de l'infini ; engeance de Vieillesse. RENEGAT-NE : il se considerait infiniment puissant, au-dessus de toute allegeance - l'unique tache de la seule lignee integralement loyale au Roi. Execute par Chainsaw Man (~1997) ; renaissance en Enfer (cycle standard). cf. Personnages/Eternite. [CANON sur le demon + DIVERGENCE RP sur la filiation]
+
 ## Lignee de Famine
 - Arsenal des maladies : les demons de maladies descendent de Famine. (Compatible canon : un demon des MST existe en case.) [DIVERGENCE RP]
 - Engeance devoree : SOA - maladie venerienne du IVe siecle, lignee de Famine ; effacee. [DIVERGENCE RP]
@@ -74,7 +79,7 @@ Engeances qui decoulent directement d'Effroi mais restent hors du quintette stru
 - Statut interne : la plupart des demons animaux ont suivi Predateur dans l'insoumission et servent Guerre - une petite armee de betes rangee sous sa banniere. Rares sont les fideles au trone.
 - Renarde - demone animale (peur du renard, de la ruse animale) ; engeance de Predateur restee FIDELE au trone. Plus froide et moins impulsive que le reste des betes. [CANON sur le demon animal + DIVERGENCE RP sur la filiation]
 - Serpent - demone animale (peur du serpent) ; engeance de Predateur restee FIDELE au trone. Meme temperament froid et pose. [CANON sur le demon animal + DIVERGENCE RP sur la filiation]
-- Chauve-Souris et Sangsue - demons animaux, engeances de Predateur ; LA PAIRE (compagnons), rangee derriere sa tete de lignee en OBEISSANCE AVEUGLE - mission : repandre la peur des predateurs (camp de Guerre par ricochet). cf. Personnages/Chauve_Souris (fiche double, Sangsue incluse). [CANON sur les demons + DIVERGENCE RP sur la filiation - rattachement tranche au build R3]
+- Chauve-Souris et Sangsue - demons animaux, engeances de Predateur ; LA PAIRE (compagnons), rangee derriere sa tete de lignee en OBEISSANCE AVEUGLE - mission : repandre la peur des predateurs (camp de Guerre par ricochet). MORTS ~1997 (Denji ; Aki et la Renarde). cf. Personnages/Chauve_Souris (fiche double, Sangsue incluse). [CANON sur les demons + DIVERGENCE RP sur la filiation - rattachement tranche au build R3 ; cloture au build R4]
 - Les autres demons animaux : engeances de Predateur ralliees a Guerre avec leur tete de lignee. [DIVERGENCE RP]
 
 ## Lignee de Cataclysme
@@ -107,5 +112,6 @@ Engeances qui decoulent directement d'Effroi mais restent hors du quintette stru
 - Datation de la naissance d'Enfer : ouverte ; borne basse = posterieure aux cinq engeances directes.
 - Anciennete des postes terrestres du trio vaudou : non datee.
 - Anciennete de Predateur et de la lignee animale : ancienne (pre-societes), non datee finement.
+- Datation des naissances d'Avenir et d'Eternite : ouverte. [INCERTAIN]
 
 FIN_WIKI_SYSTEMES_GENEALOGIE
