@@ -1,26 +1,16 @@
 # _Implications - CSM
 
-- version : W24
+- version : W25
 
 Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus et les taches faites sont PURGES (leur trace vivante est en BIBLE + fiches + Systemes/). Ne restent ici que le vivant - dettes, questions ouvertes, chantiers.
 
-> ETAT POST-PATCHS R5 : BIBLE B8 (B9 A BUILDER), 33 fiches A JOUR (lot R5 PATCHE : 17 pages livrees au thread patchs), roadmaps R0 -> R5 ECRITES, Chronologie W3 LIVREE (bascule R5 servie), Sommaire W20 en ligne (W21 a livrer au B9). PROCHAIN : thread BIBLE BUILD B9 (+ Sommaire W21, cf. ardoise ci-dessous) ; puis build R6 (La Guerre), boucle serree.
+> ETAT : BIBLE B9 ; 33 fiches ; roadmaps R0 -> R5 ECRITES ; Chronologie W3 ; Sommaire W21. PROCHAIN : build R6 (La Guerre), boucle serree ; puis build R7 (La Famine).
 
 ## DOCTRINE - ce qui va en roadmap et ce qui n'y va pas
 - La roadmap est un outil MJ au POV du prota (Makoto). Les faits que Makoto IGNORE n'y deviennent pas des etapes.
 - Mais le MJ doit connaitre l'etat VRAI du monde pour jouer les antagonistes : ces faits vivent dans les FICHES et dans le CASTING de la roadmap (hors scene), jamais en etapes.
 - L'ironie dramatique voulue (le joueur sait ce que Makoto ignore) vit en CODEX / ANNEXE_SAVOIRS.
 - Corollaire Trajectoires (rappel SPEC) : la Trajectoire datee d'une fiche ne s'alimente qu'APRES le build de l'arc qui la produit. Les faits R6-R7 dictes (rivalite Kishibe-Quanxi, redditions des Cavalieres, 3 soeurs, etc.) restent PARQUES ici et en Chronologie jusqu'aux builds concernes.
-
-## BIBLE BUILD B9 - ardoise (PROCHAIN thread ; les fiches sont deja gravees, la BIBLE rattrape)
-- SB0 : bible_version B8 -> B9 ; inventaire 32 -> 33 fiches (+ Beam) ; Sommaire W21 a livrer au meme thread avec les numeros re-versionnes du lot patchs : Bombe W4, Typhon W2, Guerre W6, Serpent W3, Reseau W4, Nayuta W3, Controle W8, Effroi W9, Denji W3, Tronconneuse W7, Securite_Publique W7, Predateur W3, Genealogie W8, Arc W5, Armes W3, Aki W4, Kishibe W6 ; cote Roadmap : Chronologie W3.
-- SB1 : (a) calibrage du canal demon-demon - laisse et detecteur de mensonge, jamais omniscience (precision actee) ; (b) extension Serpent + BORNAGE actes - la devoration capte aussi le contrat d'un TIERS tenu sur la devoree et la demone peut le CEDER (cede a l'interessee : auto-detenu, dissolution ; inviolabilite intacte, jamais de rupture) ; bornage par rapport de force : sans effort sur les humains, par surprise sur un demon de rang moyen (Ghost), CONSENTEMENT requis au calibre d'une hybride majeure (Reze) - jamais une cle universelle contre l'inviolabilite ; (c) CANAUX TISSES, nouvelle regle actee : Reseau tisse des canaux de DIALOGUE sans contrat, privilege de la famille Royale (Effroi, Controle, Autorite ; vocation a s'etendre au quatuor reforme - projet) ; eligibilite = reconnaitre le tisseur comme superieur, meme en refusant de se l'admettre ; tissage discretionnaire et IMPOSE (rien d'automatique : jamais tisse vers Denji ni vers les humains hors confidence), tacite jusqu'au premier usage ; DIALOGUE-ONLY = politique du Roi liant toute la famille (l'obeissance par canal serait possible, refusee : ni contrainte, ni peur, ni servitude) ; independant des contrats et de leurs ruptures ; la sentence de Reseau (cle Makima comprise) emporte AUSSI les canaux tisses du condamne ; autres formes de canaux : a peaufiner (differe, cf. Fils muets).
-- SB2 : candidat lexique "Canal tisse" - a arbitrer au build.
-- SB3 : ligne automne 1997 (arc R5 - La Bombe) : fuite vers l'appareil sovietique ; briefing de Reze par la ligne tissee (clause d'intervention jamais detonee) ; massacre de la 2e division (TOLERE ; division DISSOUTE, zero survivant, Furuno et Kato tombes) ; bataille planetaire (Typhon deploye et detruit par Denji et Beam ; ~5% preleves en amont par Makoto ; le contrat Typhon-Reze meurt avec les ~95%) ; MEDIATISATION mondiale (heros public "Chainsaw Man", canal le plus faible - prolongement du plan de 1984 ; ascension de Makima acceleree) ; refus de Reseau (carve-out teste de l'interieur, il tient) et faille de Nayuta -> operation Serpent (gobee CONSENTANTE ; contrat-canal de Guerre capte, cede, dissous : Reze AUTONOME) ; integration Division 4, couple avec Denji, penthouse ; REVELATIONS a Denji (trois exclusions : Cavalieres, Effacement, plan global) ; maison aux chambres en plus.
-- SB4 : Guerre - derniere carte brulee, canal Bombe ROMPU, a court d'intermediaires (prochains leviers : les Assassins Internationaux, puis elle-meme - R6) ; Securite Publique - Division 2 DISSOUTE, Reze versee au roster de la Division 4, graine de 5e division (en attente de Quanxi), Makima en approche du sommet ; demons-armes - Bombe LIBEREE et AUTONOME (ralliee ouvertement), Typhon reduit a un fragment-graine (~5%) aux mains du Roi.
-- SB5 : statuts R5 a repercuter - Effroi (canaux tisses aux atouts ; operation Reze ajoutee aux applications de la doctrine des opportunites ; CERCLE DE LA CONFIDENCE en remplacement du "NUL sauf Reseau") ; Reseau (depositaire ORIGINEL - remplace "seul depositaire" PARTOUT ; tissage sans contrat ; carve-out teste de l'interieur) ; Controle (privilege famille Royale ; marchepied vers la TETE de l'agence) ; Nayuta (privilege ; la faille Serpent) ; Bombe (liberee, autonome, Division 4, couple avec Denji, gel d'apparence atteint) ; Typhon (fragment ~5%, LIBRE DE TOUT CONTRAT, pas de reincarnation tant que le fragment vit) ; Denji (heros public mondial, post-revelations, dette transformee) ; Tronconneuse (canal faible amplifie a l'echelle planetaire ; voulu OBSERVATEUR, pas heros des Enfers) ; Beam a l'inventaire (SB0/SB5) ; Kishibe 39% inchange.
-- SB8 : dette d'attachement de Denji TRANSFORMEE (residu actif : le secret Pochita) ; levier "desir d'amour" SOLDE ; fils nouveaux a inscrire : rumeur mondiale ("le coeur de Chainsaw Man est a Tokyo" - detone R6), fragment de Typhon (~5% chez Makoto, assurance-vie et levier), graine de la 5e division ; ligne Reseau reformulee (depositaire originel / cercle de la confidence).
-- DECISIONS ACTEES au thread patchs (deja gravees en fiches, a repercuter en BIBLE) : (1) le contrat Typhon-Reze meurt avec les ~95% detruits face a Denji ; le fragment (~5%, Makoto) est LIBRE DE TOUT CONTRAT ; (2) Division 2 decimee integralement - zero survivant, dissoute sans succession (dernier membre historique : Aki, deja en Division 4) ; (3) bornage Serpent par rapport de force ; (4) canaux tisses - regle complete (cf. SB1 ci-dessus) ; (5) CERCLE DE LA CONFIDENCE de l'identite Makoto - avant 1984 : Reseau (depositaire originel) + les cinq hybrides de la main d'Effroi (Arc/Quanxi, Espadon, Lance-flammes, Fouet, Lance), mis dans la confidence a leur hybridation ; puis Makima (1984), Nayuta (1985, nee dedans), Kishibe (1987), Flingue (1989), Aki et Himeno (1990), Denji (~1997) ; cas Reze : SEULE hybride qu'il n'a pas faite lui-meme (Guerre s'en est chargee pour lui) - montre en ~1997 seulement, deduction possible avant (le mysterieux epoux de Makima), jamais confirmee.
 
 ## Decisions dictees en attente de leur arc (parquees)
 - D16 - Reddition de Famine (dicte) : la negociation porte sur sa REINCARNATION - elle offre sa vie contre la promesse que Kiga vivra ce qu'elle-meme aurait voulu vivre (parents toujours presents, grignotage et calins a volonte, zero jugement sur ses addictions) ; elle est ensuite tuee ; la reincarnation est localisee ; Kiga rejoint la famille. Propagation : Famine.md au build R7.
@@ -42,12 +32,11 @@ Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus
 - Rumeur mondiale ("le coeur de Chainsaw Man est a Tokyo") : plantee R5 - la fuite poursuit sa route hors URSS -> detone en R6 (les Assassins Internationaux).
 - Fragment de Typhon (~5% chez Makoto) : plante R5 - assurance-vie du demon et levier du trone.
 - Graine de la 5e division (en attente de Quanxi) : plantee R5 -> traitement R6.
-- Canaux tisses - autres formes (obeissance et autres regimes avec Reseau) : A PEAUFINER plus tard (differe worldbuilder, thread patchs R5).
+- Canaux tisses - autres formes (obeissance et autres regimes avec Reseau) : A PEAUFINER plus tard (differe worldbuilder).
 - Kobeni : muette en R5 - douee et toujours plus a reculons, demission en embuscade. Actif.
 - Aki / douilles (TCHEKHOV a surveiller) : inchange - 9% chez des renegats post-R4, porte retrecie mais ouverte (horizon R6, devenir [A POSER]).
 - Katana : a l'arsenal du trone, entier, sans hote. Disponible.
-- Sceau de Tank ; prothese de Guerre (52%) ; Division 3 (Seraphim, Dominion, Virtue) ; Vaudous (ames de Kishibe et d'Aki dues en fin de carriere) ; Reseau (depositaire ORIGINEL du secret Makoto - cercle de la confidence acte au thread patchs) : toujours plantes, muets.
-- Levier "desir d'amour" Bombe / Reze : SOLDE en R5 - la liberte et l'amour livres (couple avec Denji, penthouse). La loyaute de Reze repose desormais sur la promesse TENUE.
+- Sceau de Tank ; prothese de Guerre (52%) ; Division 3 (Seraphim, Dominion, Virtue) ; Vaudous (ames de Kishibe et d'Aki dues en fin de carriere) ; Reseau (depositaire ORIGINEL du secret Makoto) : toujours plantes, muets.
 - Famine : se joue en R7. Mort : horizon R8+ (plan long).
 
 ## Socle acte - 3 soeurs de Nayuta (a construire au build R7)
@@ -84,9 +73,9 @@ Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus
 
 ## Thread Passe 2 - etat
 - POV joue : Makoto / Effroi. Point de depart : 2 decembre 1984 (apres l'attaque de Flingue du 18 novembre).
-- Roadmaps dans Roadmap/Makoto/ : R0 La Peur (W2), R1 Le Controle (W5), R2 Le Flingue (W3), R3 L'Autorite (W1), R4 La Tronconneuse (W1), R5 La Bombe (W1) - ECRITES ; Chronologie W3 = garde-cap R0 -> R8+ (bascule R5 SERVIE) ; R6 et R7 : A BUILDER (bornes et jalons dictes en Chronologie).
-- BIBLE B8 (B9 A BUILDER au prochain thread, cf. ardoise) ; 33 fiches A JOUR - lot R5 PATCHE (17 pages livrees) ; Sommaire W20 en ligne, W21 a livrer au B9.
-- SEQUENCE : (1) thread BIBLE BUILD B9 (+ Sommaire W21) ; (2) builds R6 -> R7 en boucle serree, PROCHAIN BUILD apres B9 : R6 (La Guerre) ; (3) cloture Passe 2 : relecture croisee inter-arcs ; (4) Passe 3 : decoupage en arcs + fiches d'arc ; (5) CODEX V1 ; (6) SETUP.
+- Roadmaps dans Roadmap/Makoto/ : R0 La Peur (W2), R1 Le Controle (W5), R2 Le Flingue (W3), R3 L'Autorite (W1), R4 La Tronconneuse (W1), R5 La Bombe (W1) - ECRITES ; Chronologie W3 = garde-cap R0 -> R8+ ; R6 et R7 : A BUILDER (bornes et jalons dictes en Chronologie).
+- BIBLE B9 ; 33 fiches a jour ; Sommaire W21.
+- SEQUENCE : (1) builds R6 -> R7 en boucle serree, PROCHAIN BUILD : R6 (La Guerre) ; (2) cloture Passe 2 : relecture croisee inter-arcs ; (3) Passe 3 : decoupage en arcs + fiches d'arc ; (4) CODEX V1 ; (5) SETUP.
 - LECON (a garder) : confronter systematiquement la BIBLE aux FICHES avant de "resoudre" un chiffrage - une erreur nee en roadmap avait ete recopiee par un bible build au lieu d'etre detectee.
 - LECON (a garder, W19) : verifier le Sommaire et la Genealogie AVANT de poser une filiation - la lignee de Zombie etait deja tranchee au B2 ; la question etait inutile.
 - LECON (a garder, W21) : ne jamais DEDUIRE une convention d'un exemple chiffre - "37 douilles = 37 %" etait une coincidence, pas une regle (1 douille != 1 %). En cas de doute comptable, demander.
