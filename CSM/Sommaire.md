@@ -1,6 +1,6 @@
 # Sommaire - CSM
 
-- version : W19
+- version : W20
 
 ## WIKI
 
@@ -8,13 +8,13 @@
 
 ### (racine)
 Description : pages de travail et index.
-- _Implications.md (W22) - journal de travail du build (jamais fetche en narration)
+- _Implications.md (W23) - journal de travail du build (jamais fetche en narration)
 
 ### Roadmap/Makoto/
 Description : garde-cap et sources de build de la campagne Makoto (Passe 2).
-- Chronologie.md (W2) - GARDE-CAP du decoupage R0 -> R8+ dicte par le worldbuilder : bornes, jalons et [A POSER] de chaque arc ; tres sollicitee en Passe 2 ; statuts a jour (R0 -> R4 ecrites)
+- Chronologie.md (W2) - GARDE-CAP du decoupage R0 -> R8+ dicte par le worldbuilder : bornes, jalons et [A POSER] de chaque arc ; tres sollicitee en Passe 2 ; statuts a jour jusqu'a R4 - bascule R5 a servir (W3, thread patchs)
 
-> Les roadmaps d'arc (R0 La Peur W2, R1 Le Controle W5, R2 Le Flingue W3, R3 L'Autorite W1, R4 La Tronconneuse W1) restent NON indexees (v8.2) : sources de build uniquement, lues par listing de dossier.
+> Les roadmaps d'arc (R0 La Peur W2, R1 Le Controle W5, R2 Le Flingue W3, R3 L'Autorite W1, R4 La Tronconneuse W1, R5 La Bombe W1) restent NON indexees (v8.2) : sources de build uniquement, lues par listing de dossier.
 
 ### Personnages/
 Description : fiches d'entites neutres (NOYAU + Trajectoire datee).
@@ -44,6 +44,7 @@ Description : fiches d'entites neutres (NOYAU + Trajectoire datee).
 - Predateur.md (W2) - "Le Chasseur" ; engeance directe ancienne renegate (peur des betes) ; tete de la lignee animale ; allie-outil de Guerre ; consigne permanente SP sur sa lignee ; sa paire japonaise (Chauve-Souris et Sangsue) morte ~1997
 - Renarde.md (W3) - demone animale fidele au trone, echappe a Predateur ; parmi les rares betes loyalistes ; contractante d'Aki (1990 - ~1997, contrat rompu par elle : refus de mordre les hybrides du Roi)
 - Serpent.md (W2) - demone animale fidele au trone ; absorption/liberation via contrat prioritaire de Reseau ; gobe sa contractante Sawatari et recupere son propre contrat (~1997)
+- Beam.md (W1) - le Possede du Requin ; engeance de Predateur, loyaliste du trone jusqu'a la trahison d'Effacement (1983), possede dans la traque qui suit ; l'un des sept renegats de la Division 3 (1984), Division 4 (~1997), libere et musele en R4 ; devot absolu de Chainsaw Man, sa monture au combat (automne 1997)
 - Typhon.md (W1) - engeance de Cataclysme ; confie par contrat sans contrepartie a l'hybride Reze, qu'il nomme "Maitresse Reze"
 - Sang.md (W2) - fiche double : la demone du Sang + Power ; engeance directe ancienne d'Effroi (elle-meme l'ignore) ; une incarnation par siecle, toutes obliterees par le Roi (la farce seculaire) ; immunisee au toucher mortel par arrogance ; Power recrutee sous ultimatum (1996), Division 4 (~1997) ; dette Chauve-Souris soldee au rabais - "tranquille"
 - Himeno.md (W2) - cheffe de la Division 2 (nee 1962, cheffe a 22 ans) ; contrat Fantome des 1980, l'oeil droit en prix ; la strategie du ne-pas-savoir brisee au huis clos de 1990 ; mentor et binome d'Aki ; seconde de la Division 4 (~1997) ; MORTE (~1997) : corps entier a Ghost pour sauver Aki - Trajectoire close
@@ -64,7 +65,7 @@ Description : pages systeme transversales (regles, arbres, index thematiques).
 Description : factions et groupes (humains ou mixtes) ; etat neutre + Trajectoire datee.
 - Securite_Publique.md (W6) - agence anti-demons japonaise ; roster de decembre 1984 (Div 1 Kishibe, Div 2 Himeno jeune cheffe - nee 1962, rapporte au couple - et Furuno son second, Div 3 les sept renegats) ; refuge-vivier d'orphelins ; ralliement de la Div 3, genuflexion de Nayuta, ascension de Makima, signalement d'Aki, huis clos de 1990, restructuration de ~1997 (Division 4), offre a Beam et Princi et bilan de l'attaque de Guerre (~1997 : Div 1 reduite, morts d'Himeno, d'Arai et des trois anonymes, Kobeni revelee) en Trajectoire ; en verite un instrument d'Effroi
 
-PASSE 1 CLOTUREE (B2). PASSE 2 EN COURS : point de depart au 2 decembre 1984. Roadmaps dans Roadmap/Makoto/ : R0 La Peur (W2), R1 Le Controle (W5), R2 Le Flingue (W3), R3 L'Autorite (W1), R4 La Tronconneuse (W1) - ECRITES ; R4 se clot sur le coeur de Tetsuo arrache a main nue et la reprise de Katana (~1997). Chronologie.md (W2, indexee supra) = GARDE-CAP du decoupage complet R0 -> R8+ dicte par le worldbuilder : R5 La Bombe, R6 La Guerre (le Conflit tombe ici), R7 La Famine, R8+ ouvert. LOT DE PATCHS R4 PROPAGE (thread patchs) : 15 fiches enrichies (dont Himeno et la paire du Predateur CLOSES, Katana muee en fiche double Katana + Tetsuo), Genealogie W7 (lignee de Vieillesse), Vieillesse W3, Chronologie W2, BIBLE B8 ; journal purge. Design pose mais NON construit : socle des 3 soeurs de Nayuta (Asa, Kiga + reincarnation de Mort a l'horizon R8+) ; domestication des Cavalieres. PROCHAIN : builds R5 -> R7 (boucle serree, R5 La Bombe en premier) ; cloture Passe 2 (relecture croisee inter-arcs) ; Passe 3 (decoupage en arcs + fiches d'arc) ; CODEX V1 ; SETUP. Aucune fiche d'arc a ce stade.
+PASSE 1 CLOTUREE (B2). PASSE 2 EN COURS : point de depart au 2 decembre 1984. Roadmaps dans Roadmap/Makoto/ : R0 La Peur (W2), R1 Le Controle (W5), R2 Le Flingue (W3), R3 L'Autorite (W1), R4 La Tronconneuse (W1), R5 La Bombe (W1) - ECRITES ; R5 se clot sur Reze liberee (operation Serpent) et ralliee a la Division 4, les revelations a Denji et les cles du penthouse (automne 1997). Chronologie.md (W2, indexee supra) = GARDE-CAP du decoupage complet R0 -> R8+ dicte par le worldbuilder : R6 La Guerre (le Conflit tombe ici), R7 La Famine, R8+ ouvert ; bascule R5 a servir (W3, thread patchs). LOT DE PATCHS R5 A PROPAGER (prochain thread) : enrichissements des fiches convoquees (liste en _Implications W23), patchs Genealogie + Predateur (Requin et Araignee, loyalistes de la lignee), Chronologie W3, BIBLE BUILD B9 ; Beam.md CREEE au build R5 (W1, indexee supra - 33 fiches). Design pose mais NON construit : socle des 3 soeurs de Nayuta (Asa, Kiga + reincarnation de Mort a l'horizon R8+) ; domestication des Cavalieres. PROCHAIN : thread patchs R5 + BIBLE BUILD B9 ; puis builds R6 -> R7 (boucle serree, R6 La Guerre en premier) ; cloture Passe 2 (relecture croisee inter-arcs) ; Passe 3 (decoupage en arcs + fiches d'arc) ; CODEX V1 ; SETUP. Aucune fiche d'arc a ce stade.
 
 ## PARTIES (Partie1)
 
