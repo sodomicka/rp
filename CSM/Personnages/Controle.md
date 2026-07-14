@@ -1,6 +1,6 @@
 # Controle
 
-- version : W7
+- version : W8
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -33,6 +33,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Espionnage via rats et corbeaux ; deplacement par essaims de rats agglomeres. [CANON]
 - Vol des capacites de ses subordonnes juges inferieurs. [CANON]
 - Telepathie : projette sa voix dans les tetes, main posee sur le crane, meme sur les morts. [CANON]
+- Canaux tisses (privilege de la famille Royale) : titulaire - Reseau tisse pour elle des canaux de dialogue SANS CONTRAT vers quiconque la reconnait comme superieure (dialogue uniquement, politique du Roi liant toute la famille). cf. Personnages/Reseau. [DIVERGENCE RP]
 - Force physique immense ; corps-a-corps redoutable (brise les tronconneuses de Pochita). [CANON]
 - Odorat de predateur : distingue les etres a l'odeur, pas au visage - et ne retient l'odeur que de ceux qui comptent pour elle (faille exploitable). [CANON]
 - Reseau humain : elle coordonne la Securite Publique japonaise, qu'elle tient pour son propre instrument - en verite un fragment du reseau de Makoto (cf. Histoire et Trajectoire). [DIVERGENCE RP]
@@ -91,5 +92,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 | 1990 (R2) | Elle assiste au rituel d'hybridation de Kishibe. | Petrifiee, comme Nayuta, par la force brute de Makoto - une mesure de plus de ce qui la depasse chez son allie. |
 | ~1997 (R3 - L'Autorite) | Creation de la 4e Division Speciale (planifiee des 1994) : elle en forme la CELLULE DE COMMANDEMENT avec Makoto et Nayuta (planification des operations, paperasse, contrats et negociations avec les demons recuperes plutot que tues). Recrutement de Denji, Nayuta en ancre emotionnelle : c'est le regard severe des parents qui fait passer la proposition de Nayuta de "mon chien" a "mon grand frere". Elle ramene un Denji epuise et affame a la voiture pendant que Makoto se charge du Zombie. Avec Makoto, elle constitue la collection personnelle du couple : les armes hybrides du programme, plus le Zombie de Mort. | Prise directe sur l'hybride de Tronconneuse via la division creee pour lui ; collection du couple hors organigramme SP. |
 | ~1997 (R4 - La Tronconneuse) | Previent, avec Nayuta, des le placement de Katana : un code d'honneur ne rendra pas les yakuza fiables. Mitraillee dans le train pour Kyoto lors de l'attaque de Guerre, elle survit : rituel des trente condamnes a perpetuite, au sanctuaire en altitude - les mercenaires broyes un a un a distance ; elle n'epargne que Sawatari et Tetsuo. Apres la mort d'Himeno, elle recommande la mise en scene du deuil : des trois tetes de la cellule, c'est elle qui connait le mieux la manipulation par les emotions - sa specialite. | L'attaque de Guerre encaissee sans perdre la main ; le deuil orchestre devient la premiere lecon de la doctrine de la perte servie a Denji. |
+| ~1997 (R5 - La Bombe) | L'operation Reze : ses CORBEAUX (ses contrats) sont l'OEIL du trio de commandement - massacre de la 2e division et bataille planetaire suivis a distance, sans jamais paraitre. Le massacre, tolere par le trone, devient son MARCHEPIED : deux massacres de la SP en quelques mois discreditent la direction en place, son ascension vers la TETE de l'agence s'accelere. Cloture : elle remet au jeune couple d'hybrides les cles de leur penthouse ; avec Makoto, le couple regnant prend une maison plus grande - il leur faudra bientot des chambres en plus (Guerre finira par mourir, puis se reincarner). | Ascension vers la tete de la SP acceleree ; l'oeil-corbeaux du commandement demontre ; foyer agrandi en prevision des reincarnations. |
 
 FIN_WIKI_PERSONNAGES_CONTROLE

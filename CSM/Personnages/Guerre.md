@@ -1,6 +1,6 @@
 # Guerre
 
-- version : W5
+- version : W6
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -58,7 +58,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Controle / Makima - la troisieme Cavaliere. Ne s'entend pas avec elle. Texture detaillee : roadmap. [DIVERGENCE RP]
 - Note : elle ne s'entend avec AUCUNE des autres Cavalieres.
 - Flingue et Tank - ses engeances directes, ses "fils" ; lui appartiennent et lui obeissent, relies a elle par un canal contractuel (contrat demon-demon). Devenir : Flingue rallie au trone en 1989 puis mue en prothese muette ; Tank scelle des mi-1985 (clause de rappel entre ses mains), dernier fils loyal. cf. leurs fiches et Trajectoire. [CANON + DIVERGENCE RP]
-- Bombe - detonante rangee sous sa banniere ; en realite agent double d'Effroi, ce que Guerre ignore. Elle garde neanmoins avec Bombe un canal contractuel direct.
+- Bombe - detonante rangee sous sa banniere ; en realite agent double d'Effroi, ce que Guerre ignore - le retournement lui echappe toujours. Elle gardait avec Bombe un canal contractuel direct ; canal ROMPU en ~1997 : jouee en derniere carte contre Chainsaw Man et perdue (morte ou prise, elle ne sait). cf. Trajectoire.
 - Predateur / "Le Chasseur" - engeance animale renegate, son allie ; il commande pour elle une armee de betes insoumises (hors Renarde et Serpent, restees fideles au trone). Il se croit son egal ; elle en fait son outil. cf. Personnages/Predateur. [DIVERGENCE RP]
 - Tronconneuse / Pochita - adversaire du massacre de 1983 ; a efface son engeance Armes-Nucleaires (1941-1948). [CANON adapte]
 
@@ -76,5 +76,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 | 1988 (R2 - Le Flingue) | Au complexe siberien, son programme produit son premier hybride : Reze (nee 1981) fusionnee au demon Bombe. | Croit avoir arme un hybride fidele - en realite le duo est retourne (Bombe agent d'Effroi), ce qu'elle ignore. |
 | 1989 (R2 - Le Flingue) | Elle sent l'allegeance de Flingue flancher via le canal - trop fier et tetu pour faire semblant. Elle l'interroge ; il avoue la trahison, sans jamais en dire le motif. Elle s'arrache un bras et mue ses 48% en prothese-arme. Une fois en ARME, plus de conscience : le canal existe encore, mais il ne repond plus. A ses yeux, aucune transgression du tabou de la mere : le fils allait la trahir, comme l'ont deja fait Espadon, Fouet, Lance-flammes, Lance, Aiguille, Machette et Griffe. | Amputee d'un fils et d'un bras, armee d'une prothese muette (48%) ; symetrie des deux camps : chacun a bride Flingue - elle par la mutilation, le trone par la contention hybride ; Tank devient litteralement son dernier fils loyal. |
 | ~1997 (R4 - La Tronconneuse) | Commanditaire de l'attaque contre la Securite Publique : le pion du trone tourne pour elle - Tetsuo (l'hybride de Katana, ronge par sa haine de Denji) et Sawatari (contractante du Serpent) montent l'attaque POUR GUERRE, contre la promesse d'armes a feu en grand nombre. Objectif : LE COEUR DE DENJI - Tronconneuse comme arme de dissuasion pour regner a son tour, imposer la guerre, voire effacer Mort ou faire regurgiter l'atome. Pas de zombies : des MERCENAIRES en nombre - elle met des moyens, et JAUGE Makima et son epoux au passage. L'attaque echoue : Makima broie les mercenaires, Tetsuo et Sawatari tombent, Katana retourne a l'arsenal. En marge : sa prothese est passee de 48 a 52% depuis 1990 (recuperation de douilles en circulation). | Un pion perdu face a Effroi ; le couple jauge, la mesure prise. A court d'intermediaires, elle jouera sa derniere carte avant ses Assassins et elle-meme : Reze. Prothese a 52%. |
+| ~1997 (R5 - La Bombe) | Sa derniere carte jouee. L'appareil sovietique - arme par une fuite dont elle ignore l'origine ("Effacement est a la SP Tokyo", ce qu'elle savait deja depuis la chute de son pion Katana en R4) - active son programme et lance Reze sur le coeur de Chainsaw Man ; elle n'a qu'a laisser jouer, et commande par le canal-laisse. Massacre de la 2e division de la SP, puis bataille planetaire : defaite TOTALE, violente et publique de Reze, que la SP s'accapare. Le canal se ROMPT. Pour elle, Reze est soit morte, soit entre les mains de Makima et de cet epoux dont elle ne connait toujours que le nom humain - Makoto. Elle ignore tout du retournement de l'hybride comme de l'operation qui l'a liberee. | Derniere carte brulee ; canal Bombe rompu ; a court d'intermediaires - prochains leviers : les Assassins Internationaux, puis elle-meme (horizon R6). Prothese inchangee (52%). |
 
 FIN_WIKI_PERSONNAGES_GUERRE

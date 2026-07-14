@@ -1,6 +1,6 @@
 # Typhon
 
-- version : W1
+- version : W2
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -8,7 +8,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle exi
 - Noms : Typhon (Demon-Typhon / Typhoon Devil).
 - Concept : la peur des typhons.
 - Nature : demon-catastrophe, engeance de Cataclysme ; fidele au trone via sa tete de lignee. [CANON pour le demon + DIVERGENCE RP pour le rattachement genealogique]
-- Statut : actif. Demon-contractant : il prete sa puissance a des humains sous contrat tout en obeissant a une maitresse secrete. Rattache au trone ; place au service de l'hybride Reze/Bombe a partir de 1988 (cf. Trajectoire), sous un contrat sponsorise par Effroi. [CANON + DIVERGENCE RP]
+- Statut : actif - REDUIT depuis ~1997 a un fragment-graine (~5%) aux mains du Roi, libre de tout contrat. Demon-contractant : il pretait sa puissance a des humains sous contrat tout en obeissant a une maitresse secrete ; place au service de l'hybride Reze/Bombe de 1988 a sa destruction au combat (~1997), sous un contrat sponsorise par Effroi (cf. Trajectoire). [CANON + DIVERGENCE RP]
 
 ## Place dans la lignee
 - Engeance de Cataclysme (peur brute de la catastrophe naturelle), elle-meme engeance directe ancienne d'Effroi. [DIVERGENCE RP]
@@ -25,6 +25,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle exi
 - Cycle standard : tue sur Terre, il renait en Enfer ; tue en Enfer, il renait sur Terre. [CANON]
 - Reincarnation : d'une incarnation a l'autre, son visage change (vieillard -> bebe), pas sa structure de tempete. [CANON]
 - Memoire et allegeance a la reincarnation : cas par cas, non tranchee pour lui. [INCERTAIN - non bloquant]
+- Fragmentation (~1997) : les ~95% detruits au combat ne declenchent PAS de reincarnation - le demon VIT dans le fragment preleve par Makoto (~5%) tant que celui-ci subsiste ; regain par la peur des typhons (quelques saisons d'ouragans et retour a 100%). [DIVERGENCE RP]
 
 ## Pouvoirs
 - Force colossale : rase un immeuble rien qu'en foncant dedans ; sa masse souleve des batiments. [CANON]
@@ -45,6 +46,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle exi
 - Typhon FONCTIONNE par contrats multiples : il prete sa puissance a des contractants humains tout en servant, en secret, une maitresse. En canon, il accorde a un tueur en serie l'usage de sa puissance a vie (en echange d'un coup contre la Tronconneuse) - une couverture, alors que sa vraie loyaute va a Reze. [CANON]
 - C'est LA raison de la non-exclusivite : le confier a Reze ne l'y enferme pas. Sa puissance reste pretable a d'autres ; plusieurs mains peuvent la tenir a la fois. [CANON - fondement]
 - Couche RP : le contrat qui lie Typhon a l'hybride Reze/Bombe est SPONSORISE par Effroi (des 1988), sans contrepartie pour elle et NON EXCLUSIF - le trone garde la main, la puissance de Typhon reste un actif disponible. Il la nomme "Maitresse Reze". [DIVERGENCE RP]
+- Fin du contrat (~1997) : le contrat Typhon-Reze MEURT avec les ~95% du demon detruits face a Denji. Le fragment restant (~5%, preleve en amont par Makoto) est LIBRE DE TOUT CONTRAT. [DIVERGENCE RP]
 
 ## Histoire (jusqu'au point de depart, 2 dec 1984)
 - Engeance ancienne de Cataclysme, nee de la peur des typhons ; fidele au trone. [DIVERGENCE RP]
@@ -53,8 +55,8 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle exi
 
 ## Relations de base
 - Cataclysme - sa tete de lignee ; il partage sa fidelite au trone. [DIVERGENCE RP]
-- Effroi / Makoto - le trone dont il releve ; c'est Effroi qui sponsorise et tient in fine son contrat. [DIVERGENCE RP]
-- Reze / Bombe - sa maitresse a partir de 1988 ; il la nomme "Maitresse Reze", la sert et la protege. Lien noue en Trajectoire. [CANON + DIVERGENCE RP]
+- Effroi / Makoto - le trone dont il releve ; c'est Effroi qui sponsorisait et tenait in fine son contrat. Depuis ~1997 : detenteur du fragment-graine (~5%), assurance-vie du demon et levier du trone. [DIVERGENCE RP]
+- Reze / Bombe - sa maitresse de 1988 a ~1997 ; il la nomme "Maitresse Reze", la sert et la protege jusqu'a sa propre destruction au combat - le contrat meurt avec ses ~95%. Lien noue et clos en Trajectoire. [CANON + DIVERGENCE RP]
 - Contractants humains - des mains passageres a qui il prete sa puissance ; couverture de sa vraie allegeance. [CANON]
 
 ## Implications d'arc
@@ -66,5 +68,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle exi
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 1988 (R2) | Effroi confie Typhon a l'hybride Reze/Bombe : contrat sponsorise, sans contrepartie, non exclusif. Typhon la nomme "Maitresse Reze". | Passe de demon-contractant disponible a serviteur attitre de Reze, sous sponsorship du trone. |
+| ~1997 (R5) | Deploye en arme de Reze contre Chainsaw Man ; Makoto en a PRELEVE ~5% en amont de la bataille. Demon-cataclysme dechaine en pleine ville : c'est par lui que la mediatisation planetaire devient possible. La pluie handicape Denji, qui s'enflamme pour compenser et le DETRUIT avec Beam, sous les yeux du monde. Le contrat Typhon-Reze meurt avec les ~95% ; pas de reincarnation tant que le fragment vit - la peur des typhons le regonflera (quelques saisons d'ouragans et retour a 100%). | Reduit a un fragment-graine (~5%) aux mains du Roi, LIBRE DE TOUT CONTRAT ; assurance-vie du demon et levier du trone. |
 
 FIN_WIKI_PERSONNAGES_TYPHON

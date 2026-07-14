@@ -1,6 +1,6 @@
 # Serpent
 
-- version : W2
+- version : W3
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -34,6 +34,8 @@ Le pouvoir d'absorption / liberation est cable dans notre lore des contrats via 
 - Avale ou defait un DEMON : Reseau, exaucant le contrat de Serpent, cree un NOUVEAU contrat PRIORITAIRE au profit de Serpent, qui SUPPLANTE le contrat en vigueur du demon vaincu. Serpent le pilote alors - elle le recrache regenere pour combattre a sa place.
 - Avale son PROPRE contractant : simple continuite du meme arrangement - l'ame part a Reseau (regle standard de l'humain avale), et le contrat qui les liait REVIENT a Serpent, qui reprend ce qu'elle avait engage. Quand un contractant lui deplait ou a fait son temps, elle peut ainsi le gober pour recuperer son propre contrat. [DIVERGENCE RP]
 - Inviolabilite intacte : Reseau ne rompt ni n'annule le contrat d'en face - il en superpose un prioritaire, par droit de conquete (Serpent a vaincu la cible). Reorientation / remplacement, jamais rupture. Le carve-out du Roi tient : rien de scelle n'est defait.
+- Extension actee (~1997) : la devoration capte AUSSI le contrat qu'un TIERS tient sur la devoree - meme droit de conquete -, et Serpent peut le CEDER. Cede a l'interessee elle-meme, un contrat auto-detenu se DISSOUT de lui-meme. Inviolabilite toujours intacte : conquete, cession, extinction naturelle - jamais de rupture. [DIVERGENCE RP]
+- Bornage (rapport de force) : Serpent n'est pas une puissance de premier plan. La devoration passe SANS EFFORT sur les humains, PAR SURPRISE sur un demon de rang moyen (ainsi Ghost) ; face a un etre du calibre d'une hybride majeure (Reze), la cible doit SE LAISSER FAIRE - sinon Serpent ne fait pas le poids. La captation n'est donc JAMAIS une cle universelle contre l'inviolabilite : les forts doivent consentir. [DIVERGENCE RP]
 
 ## Psychologie
 - Froide, patiente, implacable. Elle ne s'emporte pas ; elle attend, avale, et execute ses termes sans etat d'ame - jusqu'au letal. [DIVERGENCE RP + CANON sur l'application letale des clauses]
@@ -47,6 +49,7 @@ Le pouvoir d'absorption / liberation est cable dans notre lore des contrats via 
 - Reseau - son contrat-clef : c'est lui qui exauce l'absorption et impose le contrat prioritaire sur ses proies. [DIVERGENCE RP]
 - Effroi / Makoto - le trone qu'elle sert. [DIVERGENCE RP]
 - Renarde - l'autre bete loyaliste ; meme sang-froid. [DIVERGENCE RP]
+- Reze / Bombe - la gobee CONSENTANTE de l'operation Serpent (~1997) : contrat de Guerre capte et cede - sa liberatrice. [DIVERGENCE RP]
 - Contractants humains - elle passe contrat avec n'importe qui, pourvu qu'elle ait de l'humain a manger ; prix canon atteste : des ongles, le cout montant avec la puissance demandee. Contractante notoire : Sawatari (canon : Akane Sawatari), ~1997 - gobee en fin de course (cf. Trajectoire). [CANON + DIVERGENCE RP]
 
 ## Implications d'arc
@@ -58,5 +61,6 @@ Le pouvoir d'absorption / liberation est cable dans notre lore des contrats via 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | ~1997 (R4 - La Tronconneuse) | Contrat avec Sawatari, la strategiste de l'attaque montee POUR GUERRE avec l'hybride Tetsuo (promesse d'armes a feu en grand nombre). Pendant l'attaque, elle GOBE Ghost en plein duel (contrat prioritaire : la demone d'Himeno passe sous son pilotage) ; le fantome ressort au raid final, ou Aki le decapite. Fin de course : Kobeni coince Sawatari au couteau ; quand Makoto considere qu'on a assez joue, Serpent gobe sa contractante - l'ame part a Reseau, et elle recupere son propre contrat. | Le cas particulier de son arrangement avec Reseau demontre en scene ; sa contractante liquidee sur decision du Roi ; agent libre du trone, inchangee. |
+| ~1997 (R5 - La Bombe) | L'operation Serpent - la faille trouvee par Nayuta la ou Reseau a oppose son REFUS au Roi : elle GOBE l'hybride Reze, CONSENTANTE (defaite totale jouee, exigence de la couverture), capte au passage le contrat-canal que Guerre tenait sur elle, la regurgite et le lui CEDE - auto-detenu, le contrat se dissout, Reze est AUTONOME. | Particularite ETENDUE demontree en scene (captation du contrat d'un tiers + cession) ; liberatrice de Bombe ; agent libre du trone, inchangee. |
 
 FIN_WIKI_PERSONNAGES_SERPENT
