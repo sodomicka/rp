@@ -1,6 +1,6 @@
 # Genealogie
 
-- version : W7
+- version : W8
 
 Page SYSTEMES : liste des naissances et lignees conceptuelles ACTEES. Document transversal, sans narration. Les regles du monde associees (contrats, canaux, nutrition) vivent en BIBLE SB1 ; ici, l'arbre et ses regles de lecture.
 
@@ -76,9 +76,11 @@ Engeances qui decoulent directement d'Effroi mais restent hors du quintette stru
 
 ## Lignee de Predateur
 - Predateur est la tete de lignee des demons animaux : la peur des betes engendre les demons des betes particulieres.
-- Statut interne : la plupart des demons animaux ont suivi Predateur dans l'insoumission et servent Guerre - une petite armee de betes rangee sous sa banniere. Rares sont les fideles au trone.
+- Statut interne : la plupart des demons animaux ont suivi Predateur dans l'insoumission et servent Guerre - une petite armee de betes rangee sous sa banniere. Rares sont les exceptions, toutes HORS domination d'alpha : les fideles au trone (Renarde, Serpent) et les suiveurs de la Tronconneuse depuis 1983 (Requin, Araignee).
 - Renarde - demone animale (peur du renard, de la ruse animale) ; engeance de Predateur restee FIDELE au trone. Plus froide et moins impulsive que le reste des betes. [CANON sur le demon animal + DIVERGENCE RP sur la filiation]
 - Serpent - demone animale (peur du serpent) ; engeance de Predateur restee FIDELE au trone. Meme temperament froid et pose. [CANON sur le demon animal + DIVERGENCE RP sur la filiation]
+- Requin - demon animal (peur du requin) ; engeance de Predateur, HORS domination d'alpha (meme regime que les loyalistes). LOYALISTE du trone jusqu'a la trahison d'Effacement (1983) : il suit alors la Tronconneuse. Aujourd'hui le Possede Beam (Securite Publique, Division 4). cf. Personnages/Beam. [CANON sur le demon + DIVERGENCE RP sur la filiation - rattachement acte au build R5]
+- Araignee - demone animale (peur de l'araignee) ; engeance de Predateur, HORS domination d'alpha (meme regime que les loyalistes). LOYALISTE du trone jusqu'a la trahison d'Effacement (1983) : elle suit alors la Tronconneuse. Aujourd'hui Princi (Securite Publique, Division 4). cf. Factions/Securite_Publique. [CANON sur la demone + DIVERGENCE RP sur la filiation - rattachement acte au build R5]
 - Chauve-Souris et Sangsue - demons animaux, engeances de Predateur ; LA PAIRE (compagnons), rangee derriere sa tete de lignee en OBEISSANCE AVEUGLE - mission : repandre la peur des predateurs (camp de Guerre par ricochet). MORTS ~1997 (Denji ; Aki et la Renarde). cf. Personnages/Chauve_Souris (fiche double, Sangsue incluse). [CANON sur les demons + DIVERGENCE RP sur la filiation - rattachement tranche au build R3 ; cloture au build R4]
 - Les autres demons animaux : engeances de Predateur ralliees a Guerre avec leur tete de lignee. [DIVERGENCE RP]
 
