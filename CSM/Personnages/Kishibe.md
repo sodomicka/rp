@@ -1,6 +1,6 @@
 # Kishibe
 
-- version : W5
+- version : W6
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie. Personnage canon ; le caracterisant est integre, la datation et les rattachements RP sont balises.
 
@@ -55,5 +55,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 | 1990-1994 (R3) | TROISIEME MAITRE de Nayuta a l'ecole de la gouvernance : il lui enseigne la justice - c'est chez lui que le sens de la justice de l'heritiere se developpe. | Maitre de l'heritiere, aux cotes des deux parents. |
 | ~1997 (R3) | Quitte la Division 1 - sans successeur nomme, des veterans autonomes - pour le COMMANDEMENT D'ESCOUADE de la 4e Division Speciale, Himeno pour seconde. | Chef d'escouade de la division construite autour de Denji ; la Division 1 continue sans lui, a peine changee. |
 | ~1997 (R4 - La Tronconneuse) | BOUSSOLE de la Division 4 : Flingue sent ses propres douilles, cap sur l'hotel Morin (mission Eternite) ; le renegat abattu, les douilles qu'il avait avalees (1% au total) sont versees au Gardien. A la mort d'Himeno, sa seconde, il ne feint meme pas le deuil. Entraine Denji et Power a la dure. | Sa part de Flingue passe de 38 a 39% (montee de 25 a 38 entre 1990 et ~1997 : recuperation des douilles en circulation). Cynisme accru par le Flingue ; obsession : la chute des trois Cavalieres restantes - tant que ca sert l'humanite, qu'importe le prix. |
+| ~1997 (R5 - La Bombe) | L'operation Reze : tenu dans la confidence du CALCUL, avec Aki - epuiser les atouts de Guerre, qu'importe le prix (le recit des confidents, plus complet que la version publique et que celle servie a Denji). | Confident du calcul ; la derniere carte de Guerre brulee - son obsession (la chute des trois Cavalieres restantes) avance d'un cran. |
 
 FIN_WIKI_PERSONNAGES_KISHIBE

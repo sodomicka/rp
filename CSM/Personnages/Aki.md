@@ -1,6 +1,6 @@
 # Aki Hayakawa
 
-- version : W3
+- version : W4
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie. Personnage canon ; le caracterisant est integre, la datation et les rattachements RP sont balises.
 
@@ -46,5 +46,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 | 1995 (R3) | Majorite (20 ans) : fin de la periode d'observation. | Binome plein avec Himeno ; Devil Hunter de plein exercice. |
 | ~1997 (R3) | Bascule en 4e Division Speciale a sa creation : agent de terrain, Himeno seconde d'escouade a ses cotes. | Rattache a la division construite autour de Denji, l'hybride de Tronconneuse. |
 | ~1997 (R4 - La Tronconneuse) | Mission Eternite : poignarde par Kobeni qui craque (en visant Denji). Attaque de Guerre, au restaurant : il lance la Renarde sur Katana Man - elle ROMPT son contrat en plein combat (gout des hybrides, refus de mordre les outils de Makoto) ; il demonte l'hybride aux lames vaudoues ; Sawatari le releve ; Aki est fauche. Himeno, touchee a mort, donne son corps entier a Ghost pour le sauver. A l'hopital : contrat AVENIR impose et supervise par Makoto - le demon dans l'oeil droit, sans contrepartie. Raid final : porte par le souvenir d'Himeno, il affronte Ghost sans peur, recoit d'elle une derniere cigarette, et le decapite. Concours de coups de pied sur Tetsuo capture, avec Denji. | Renarde perdue ; Avenir dans l'oeil droit ; orphelin d'Himeno - le binome qui le tenait depuis 1990 est mort pour lui. Tchekhov vaudou intact (son ame due en fin de carriere). |
+| ~1997 (R5 - La Bombe) | L'operation Reze : tenu dans la confidence du CALCUL, avec Kishibe - le recit des confidents, plus complet que la version publique et que celle servie a Denji : epuiser les atouts de Guerre, qu'importe le prix. Le prix, il le connait : la 2e division - sa division d'origine - massacree jusqu'au dernier ; il en est desormais le dernier membre historique vivant, deja en Division 4. | Confident du calcul ; sa division d'origine rayee de l'organigramme - de la Division 2, il ne reste que lui. |
 
 FIN_WIKI_PERSONNAGES_AKI

@@ -1,6 +1,6 @@
 # Armes
 
-- version : W2
+- version : W3
 
 Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les quatre dernieres armes anciennes (Espadon, Lance-flammes, Fouet, Lance) telles qu'elles existent dans le monde, independamment d'une partie. En canon, ces quatre hybrides se designeront plus tard "The Weapons" (P2, hors perimetre).
 
@@ -20,7 +20,7 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les quatre der
 - Les quatre sont hybrides AVANT le massacre de 1983 : ils y combattent deja fusionnes, aux cotes de Quanxi - cinq hybrides du trone dans une bataille d'Enfer. [DIVERGENCE RP]
 - Apres leur fusion, les seuls demons-armes encore purs sont Katana, Bombe, Flingue et Tank. [DIVERGENCE RP]
 - Rattachement presume au programme d'hybridation d'Effroi, dont Quanxi est la premiere. [IMPLICITE]
-- Contenu du programme ACTE : Effroi implante le coeur d'un demon-arme trop bete pour servir seul mais puissant, dans un humain qui lui jure allegeance eternelle ; l'hote fournit l'intelligence qui manque au demon. Dates precises et histoires des hotes : differees (sauf Fouet, cf. infra). [DIVERGENCE RP]
+- Contenu du programme ACTE : Effroi implante le coeur d'un demon-arme trop bete pour servir seul mais puissant, dans un humain qui lui jure allegeance eternelle ; l'hote fournit l'intelligence qui manque au demon. Les hotes sont mis dans la CONFIDENCE de l'identite Makoto a leur hybridation - toutes de la main d'Effroi (cf. Personnages/Effroi, Identite Makoto). Dates precises et histoires des hotes : differees (sauf Fouet, cf. infra). [DIVERGENCE RP]
 - Reperes sur les hotes : Espadon = Miri Sugo, Lance-flammes = Barem Bridge [CANON] ; Fouet = une combattante de la Premiere Guerre mondiale, hybridee en 1917 (precise l'hote anonyme canon) [CANON + DIVERGENCE RP] ; Lance = hote anonyme en canon [CANON].
 - Motif structurel de leur hybridation : leur betise. L'hote humain apporte l'intelligence que le demon n'a pas. [DIVERGENCE RP]
 

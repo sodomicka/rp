@@ -1,6 +1,6 @@
 # Arc
 
-- version : W4
+- version : W5
 
 Entite double : un DEMON (Arc) ET l'HYBRIDE qui le porte (Quanxi). La fusion est anterieure au perimetre : l'entite agissante est l'hybride ; toute la fiche vit donc ici, en une page. Fiche NEUTRE. [CANON + DIVERGENCE RP]
 
@@ -19,7 +19,7 @@ Entite double : un DEMON (Arc) ET l'HYBRIDE qui le porte (Quanxi). La fusion est
 ## L'hybride (Quanxi)
 - Humaine, JAPONAISE d'origine (une femme samurai), AFFECTEE a la Chine par Effroi - le Japon grouille deja de ses propres demons. Titre : "la Premiere Devil Hunter". [CANON sur le titre + DIVERGENCE RP - le canon la dit chinoise]
 - Selectionnee par Effroi : PREMIERE de son programme d'hybridation. Contenu du programme ACTE : Effroi implante le coeur d'un demon-arme trop bete pour servir seul mais puissant, dans un humain qui lui jure allegeance eternelle (savoir exclusif a Effroi). Date de sa fusion : ere feodale japonaise ; detail differe. [DIVERGENCE RP]
-- Allegeance : Effroi - elle-meme, pas seulement son demon. Nature du lien : un MARCHE - chasse eternelle (via Arc) contre l'execution de toutes les basses besognes d'Effroi ; sale caractere, elle ronchonne mais livre. [DIVERGENCE RP]
+- Allegeance : Effroi - elle-meme, pas seulement son demon. Nature du lien : un MARCHE - chasse eternelle (via Arc) contre l'execution de toutes les basses besognes d'Effroi ; sale caractere, elle ronchonne mais livre. Dans la CONFIDENCE de l'identite Makoto depuis sa fusion, comme tous les hybrides de la main d'Effroi (cf. Personnages/Effroi, Identite Makoto). [DIVERGENCE RP]
 - Parcours : chasseuse a la Securite Publique japonaise dans sa jeunesse, partenaire de Kishibe ; partie AVANT l'arrivee de Makima (datation differee a l'histoire). Depuis : mercenaire et assassin. [CANON + DIVERGENCE RP]
 - Localisation et activites precises en 1984 : [INCERTAIN - differe a l'histoire globale].
 

@@ -1,6 +1,6 @@
 # Predateur
 
-- version : W2
+- version : W3
 
 Entite [DIVERGENCE RP - OC]. Fiche NEUTRE : decrit l'entite telle qu'elle existe dans le monde, independamment d'une partie. Aucun filet canon : socle etabli par le worldbuilder.
 
@@ -13,7 +13,7 @@ Entite [DIVERGENCE RP - OC]. Fiche NEUTRE : decrit l'entite telle qu'elle existe
 
 ## Place dans la lignee
 - Engeance directe ancienne d'Effroi : la peur des betes est l'une des plus vieilles peurs humaines, anterieure aux societes. Il rejoint Cataclysme et le sixieme sens parmi les anciennes engeances directes non titrees - mais, seul d'entre elles, RENEGAT. [DIVERGENCE RP]
-- Tete de la lignee des demons animaux : la peur des betes engendre les demons des betes particulieres. Le gros de la lignee l'a suivi dans l'insoumission et sert Guerre ; rares sont les loyalistes du trone (Renarde, Serpent). [DIVERGENCE RP]
+- Tete de la lignee des demons animaux : la peur des betes engendre les demons des betes particulieres. Le gros de la lignee l'a suivi dans l'insoumission et sert Guerre ; rares sont les exceptions - Renarde et Serpent, LOYALISTES du trone, et Requin et Araignee, loyalistes jusqu'a la trahison d'Effacement (1983), passes alors a la suite de la Tronconneuse (aujourd'hui Beam et Princi - cf. Factions/Securite_Publique). [DIVERGENCE RP]
 - Consigne permanente de Makima et Makoto a la Securite Publique : tout demon de la lignee du Predateur localise remonte au couple - non pour Predateur lui-meme, mais pour AFFAIBLIR GUERRE, dont sa lignee est l'armee. [DIVERGENCE RP]
 
 ## Apparence
@@ -27,7 +27,7 @@ Entite [DIVERGENCE RP - OC]. Fiche NEUTRE : decrit l'entite telle qu'elle existe
 - Memoire et allegeance a la reincarnation : cas par cas, non tranchee pour lui. [INCERTAIN - non bloquant]
 
 ## Pouvoirs
-- Domination des betes : alpha absolu, sa lignee et l'armee animale de Guerre lui obeissent d'instinct - HORS loyalistes (Renarde et Serpent lui echappent, elles servent le trone). [DIVERGENCE RP]
+- Domination des betes : alpha absolu, sa lignee et l'armee animale de Guerre lui obeissent d'instinct - HORS exceptions : Renarde et Serpent lui echappent (loyalistes du trone), Requin et Araignee aussi (suiveurs de la Tronconneuse depuis 1983) - meme regime hors domination d'alpha pour les quatre. [DIVERGENCE RP]
 - Force et vitesse colossales : un physique d'apex-predateur, taille pour tuer. [DIVERGENCE RP]
 - Intimidation par le regard : un regard d'apex qui glace le gibier et fige les plus faibles. Ce n'est PAS la terreur au regard d'Effroi (trait propre du Roi, non transmis - cf. BIBLE SB1) : seulement la presence ecrasante du predateur ultime, un ECHO qui l'evoque sans etre le pouvoir legue - bien plus fruste et faible, sans modulation ni reaction imposee au choix. [DIVERGENCE RP]
 - Capacites demoniaques standard : contrats contre un prix, regeneration par le sang. [IMPLICITE]
@@ -44,12 +44,13 @@ Entite [DIVERGENCE RP - OC]. Fiche NEUTRE : decrit l'entite telle qu'elle existe
 ## Histoire (jusqu'au point de depart, 2 dec 1984)
 - Engeance ancienne d'Effroi, nee de la peur des betes ; tete de la lignee animale. [DIVERGENCE RP]
 - Renegat : refusant la souverainete du Roi et avide de tuerie libre, il a rompu avec le trone et s'est range avec Guerre - dont il se croit l'egal et dont il est en fait l'instrument. Il commande les betes insoumises. [DIVERGENCE RP]
-- 2 dec 1984 : allie actif de Guerre, a la tete d'une armee de betes ; Renarde et Serpent, ses engeances, lui echappent (loyalistes). [DIVERGENCE RP]
+- 2 dec 1984 : allie actif de Guerre, a la tete d'une armee de betes ; Renarde et Serpent, ses engeances, lui echappent (loyalistes) - Requin et Araignee aussi, passes a la suite de la Tronconneuse des 1983. [DIVERGENCE RP]
 
 ## Relations de base
 - Effroi / Makoto - le Roi qu'il renie ; sa source conceptuelle, dont il refuse la souverainete. [DIVERGENCE RP]
 - Guerre / Yoru - son alliee ; il se croit son egal, elle en fait son outil. [DIVERGENCE RP]
 - Renarde et Serpent - ses engeances restees fideles au trone ; elles lui echappent. [DIVERGENCE RP]
+- Requin et Araignee - ses engeances hors domination d'alpha, meme regime que les loyalistes ; fideles au trone jusqu'a la trahison d'Effacement (1983), passes alors a la suite de la Tronconneuse - aujourd'hui le Possede Beam et la demone Princi, Securite Publique. Rien de commun avec son camp. cf. Personnages/Beam et Factions/Securite_Publique. [DIVERGENCE RP]
 - Armee animale (betes insoumises) - sa meute ; elles lui obeissent d'instinct et servent Guerre avec lui. [DIVERGENCE RP]
 - Chauve-Souris et Sangsue - ses deux agents nommes, LA PAIRE (compagnons) ; obeissance AVEUGLE a leur tete de lignee ; mission : repandre la peur des predateurs (camp de Guerre par ricochet). cf. Personnages/Chauve_Souris (fiche double, Sangsue incluse). [CANON sur les demons + DIVERGENCE RP sur le rattachement]
 - Cataclysme - son pair d'anciennete parmi les engeances directes non titrees ; Cataclysme fidele, Predateur renegat. [DIVERGENCE RP]
