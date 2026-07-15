@@ -1,6 +1,6 @@
 # Edward Elric
 
-- version : W1
+- version : W2
 
 ## Identite
 
@@ -29,8 +29,9 @@ Corps compact et muscle (entrainement spartiate d'Izumi : "entrainer le corps po
 
 ## Histoire (jusqu'au point de depart du RP)
 
-Pere parti tot. Mort de Trisha (1904). Apprentissage chez Izumi Curtis (~1910, six mois).
-1910 : transmutation humaine ratee de Trisha avec Al -> perd la jambe gauche ; scelle l'ame d'Al dans une armure au prix de son bras droit. Incendie de la maison familiale.
+Pere parti tot. Mort de Trisha (1904). Apprentissage chez Izumi Curtis (1909, six mois).
+1910 : transmutation humaine ratee de Trisha avec Al -> perd la jambe gauche ; scelle l'ame d'Al dans une armure au prix de son bras droit.
+1911 : examen d'Etat (12 ans) ; incendie de la maison familiale et depart pour la quete APRES l'examen (sequence locale, cf. BIBLE SB3).
 Quete : restaurer leurs corps via la Pierre philosophale.
 
 ## Relations (neutres)

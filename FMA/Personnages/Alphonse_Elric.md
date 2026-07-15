@@ -1,6 +1,6 @@
 # Alphonse Elric
 
-- version : W1
+- version : W2
 
 ## Identite
 
@@ -21,12 +21,14 @@ Grand coeur, protecteur, patient.
 
 ## Capacites
 
-Alchimiste habile (forme avec Ed par Izumi). A vu la Porte -> transmute sans cercle.
+Alchimiste habile (forme avec Ed par Izumi), au CERCLE : il trace ou dessine ses cercles de transmutation.
+PAS de transmutation sans cercle : la Porte a preleve son corps entier, mais son ame est revenue SANS AUCUN souvenir d'elle - quand Ed lui parle de la Porte apres sa rehabilitation, Al ne voit pas de quoi il s'agit (canon, ep. 2). Sans souvenir du savoir, pas de sans-cercle.
+[INCERTAIN] En canon il recouvre la capacite tard dans la trame ; moment et mecanisme exacts a verifier episode par episode (cf. BIBLE SB0, site_ref).
 Formidable au corps-a-corps (arts martiaux d'Izumi) ; son armure en fait un adversaire redoutable.
 
 ## Histoire (jusqu'au point de depart du RP)
 
-Meme parcours qu'Edward : pere absent, mort de Trisha (1904), apprentissage chez Izumi (~1910).
+Meme parcours qu'Edward : pere absent, mort de Trisha (1904), apprentissage chez Izumi (1909, six mois).
 1910 : transmutation humaine ratee -> perd son corps entier ; son ame est scellee dans l'armure par Ed.
 Quete : recuperer son corps.
 
