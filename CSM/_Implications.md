@@ -1,10 +1,10 @@
 # _Implications - CSM
 
-- version : W27
+- version : W28
 
 Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus et les taches faites sont PURGES (leur trace vivante est en BIBLE + fiches + Systemes/). Ne restent ici que le vivant - dettes, questions ouvertes, chantiers.
 
-> ETAT : BIBLE B9 ; 35 fiches ; roadmaps R0 -> R6 ECRITES ; propagation R6 FAITE (thread patchs clos - releve des versions en dette B10) ; Chronologie W4 ; Sommaire W22 (mise a jour au B10). PROCHAIN : thread BIBLE BUILD (B10), puis build R7 (La Famine).
+> ETAT : BIBLE B10 ; 35 fiches ; roadmaps R0 -> R6 ECRITES ; propagation R6 FAITE (thread patchs clos) ; BIBLE BUILD B10 FAIT (dette integree, Sommaire porte a W23, Chronologie W4). PROCHAIN : build R7 (La Famine).
 
 ## DOCTRINE - ce qui va en roadmap et ce qui n'y va pas
 - La roadmap est un outil MJ au POV du prota (Makoto). Les faits que Makoto IGNORE n'y deviennent pas des etapes.
@@ -23,15 +23,6 @@ Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus
 - Frontiere du savoir de Denji post-R5 (revelations, dicte) : il RECOIT TOUT - les identites (Effroi roi des demons ; Makima demone et epouse ; Nayuta leur fille), l'empire, l'operation Reze de bout en bout, la guerre menee contre Guerre - SAUF trois exclusions : le concept de Cavalieres, l'Effacement, le plan global. Mapping MJ sous "plan global" [A CONFIRMER par le worldbuilder] : doctrines (perte, opportunites), deuil orchestre R4, Katana plante, guet depuis 1994, quatuor reforme, acculement de Mort. Motif acte : si Pochita comprend qu'il sera l'outil de dissuasion ultime d'un empire de demons, il s'enerve - on le veut OBSERVATEUR, pas heros des Enfers.
 - Meme frontiere pour KOBENI (dicte, R6) : briefee a l'ouverture du dispositif anti-Assassins au niveau de Denji, memes trois exclusions - et partie avec.
 - Ironie R6 : l'Eglise de Chainsaw Man venere un pouvoir que Denji lui-meme IGNORE posseder (l'Effacement - exclusion maintenue) ; de rares adeptes le savent (source de leur savoir : a definir). Le monde croit Chainsaw Man "le plus fort et le plus brave" et ignore l'execution du trio royal (baliste sur l'helico de presse) ; il ignore aussi que la menace abattue va devenir une alliee (Asa). Kobeni, elle, sait autant que Denji - et elle est partie.
-
-## Dette BIBLE BUILD (B10)
-- SB1 : regle generale ACTEE a inscrire (section Contrats) - LA MORT D'UN DEMON EMPORTE SES CONTRATS, et une partie de ses allegeances se delite avec lui. Precedents actes : Poupee (portage fragment par fragment, contrats morts avec les porteurs) ; Guerre (canaux Flingue et Tank eteints a sa mort ; le Predateur delie). Note connexe : la 7e implication personnelle d'Effroi (descente en Enfer, desamorcage de Tenebres) + note de lecture actee (depuis 1984 il s'implique davantage - epouse, fille, plan actif ; il delegue en roi millenaire).
-- SB3 : ligne R6 (hiver 1997-1998).
-- SB8 : Tchekhov detones (sceau de Tank ; cle Flingue -> 91/9) ; reformulation ACTEE du Tchekhov "Rumeur mondiale" - pas une rumeur : les IMAGES mediatisees de R5 (le monde a vu Bombe combattre la Tronconneuse) ; nouveaux Tchekhov (Poupee captive - prisonnier LITTERAL, sans contrat actif ; Eglise de Chainsaw Man ; Predateur qui se fait oublier ; le Chien de Nayuta ; creance d'epouse de Quanxi ; Kobeni - retour R7 ; 9% de douilles - R7 ; descellement de Tank - R7 ; parrainage d'Aki declare) ; graine 5e division REPORTEE a R7.
-- SB4/SB5 : Guerre MORTE (Trajectoire close, canaux eteints), Assassins aneantis, Flingue 91/9 (impatience recyclee vers sa completude), Tenebres DESAMORCE, Predateur REPLIE (meute perdue), Tank comprime aux mains du trone, Kobeni au cercle de la confidence et demissionnaire, Ange au service actif de la Division 4, hote de Lance pose (Volodimir, 1480), Quanxi datee (fusion 1215, depart SP 1984, harem seculaire mort + creance), ajouts Malediction / Poupee / Corde / Surin / meute des fauves au routage.
-- SB2 : entrees eventuelles (Poupee, purge, Eglise de Chainsaw Man) au juge du build.
-- Sommaire : mise a jour des versions post-patchs - Guerre W8, Arc W6, Kishibe W7, Flingue W8, Tank W5, Tenebres W3, Enfer W3, Predateur W5, Nayuta W4, Aki W5, Denji W4, Tronconneuse W8, Sang W3, Bombe W5, Ange W2, Armes W4, Vaudous W5, Reseau W5, Controle W9, Effroi W10, Securite_Publique W8, Genealogie W9, Chronologie W4 (le W3 annonce n'a jamais atteint le depot), _Implications W27.
-- Notes R5 (roadmap) : reformulation "rumeur" -> "images" si retouchee un jour ; non prioritaire.
 
 ## Fils muets - etat
 - Dette d'attachement de Denji : residu actif, le SECRET POCHITA - NOURRI en R6 (Pochita a pris le dessus et manque de devorer Guerre sous ses yeux ; ses doutes grandissent).
@@ -57,10 +48,11 @@ Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus
 - Noms dictes : Asa (reincarnation de Guerre, adoptee en R7 - le prenom PROMIS a Guerre a son execution : "elle a toujours trouve le prenom Asa joli"), Kiga (reincarnation de Famine, rejoint la famille en R7). La reincarnation de Mort : horizon R8+.
 - Aboutissement : quatuor REFORME des Cavalieres = Autorite (biologique) + les 3 reincarnations domestiquees, elevees loyales par le couple. "Sororite" au sens Cavalieres (rang et ambition), pas de sang - sauf Nayuta, vraie fille.
 - Raccords R6 (propages) : chasse aux berceaux LANCEE (hopitaux du monde via Makima, reseau du Roi - une gamine aux yeux rouges cercles de jaune) ; Aki, parrain declare de la future Guerre ; le calin d'adieu de Nayuta ("a bientot, petite soeur") ; Tank promet allegeance a la future Guerre au descellement (R7, dicte, parque) ; la maison aux chambres en plus (R5) prend tout son sens.
-- Question de mecanique EN SUSPENS (soulevee au thread patchs, non bloquante avant R7) : les contrats d'une Cavaliere morte sont ETEINTS (regle actee) - la reincarnation repart donc a zero, sans contrat ni canal herite. A confirmer au build R7 si un raccord l'exige.
+- Question de mecanique EN SUSPENS (soulevee au thread patchs, non bloquante avant R7) : les contrats d'une Cavaliere morte sont ETEINTS (regle actee en B10, SB1) - la reincarnation repart donc a zero, sans contrat ni canal herite. A confirmer au build R7 si un raccord l'exige.
 
 ## Differes roadmap (a traiter quand l'arc concerne les convoque)
 - Identites / hotes des hybrides de la fiche Armes : Fouet posee (1917), Lance posee (Volodimir, 1480 - R6) ; reste a faire : Miri Sugo (Espadon), Barem Bridge (Lance-flammes) -> a poser quand un arc les convoque.
+- Roadmap R5 (texte) : reformulation "rumeur" -> "images" si la roadmap est retouchee un jour ; la BIBLE est deja a jour (SB8), non prioritaire.
 (Quanxi - datations et harem : CONSOMMES au patch d'Arc.md W6, purges. Hote de Lance : CONSOMME, purge. Impatience de Flingue : RECYCLEE vers sa propre completude - decision worldbuilder, propagee en Flingue W8, purgee.)
 
 ## Questions ouvertes (non bloquantes)
@@ -83,12 +75,12 @@ Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus
 ## Thread Passe 2 - etat
 - POV joue : Makoto / Effroi. Point de depart : 2 decembre 1984 (apres l'attaque de Flingue du 18 novembre).
 - Roadmaps dans Roadmap/Makoto/ : R0 La Peur (W2), R1 Le Controle (W5), R2 Le Flingue (W3), R3 L'Autorite (W1), R4 La Tronconneuse (W1), R5 La Bombe (W1), R6 La Guerre (W1) - ECRITES ; Chronologie W4 = garde-cap R0 -> R8+ (statuts a jour jusqu'a R6) ; R7 : A BUILDER (bornes, jalons et raccords parques en Chronologie ; creations attendues : Asa, Kiga, hybride de Kobeni).
-- BIBLE B9 ; 35 fiches ; Sommaire W22 (mise a jour au B10, releve des versions en dette).
-- SEQUENCE : (1) thread PATCHS - propagation R6 : FAIT ; (2) thread BIBLE BUILD - B10 (dette supra) + Sommaire ; (3) build R7 (La Famine), boucle serree ; (4) cloture Passe 2 : relecture croisee inter-arcs ; (5) Passe 3 : decoupage en arcs + fiches d'arc ; (6) CODEX V1 ; (7) SETUP.
+- BIBLE B10 ; 35 fiches ; Sommaire W23 (le decalage d'un cran sur _Implications - Sommaire porte W27, depot W28 - est le canari normal, resorbe au prochain touch en R7).
+- SEQUENCE restante : (1) build R7 (La Famine), boucle serree ; (2) cloture Passe 2 (relecture croisee inter-arcs) ; (3) Passe 3 (decoupage en arcs + fiches d'arc) ; (4) CODEX V1 ; (5) SETUP.
 - LECON (a garder) : confronter systematiquement la BIBLE aux FICHES avant de "resoudre" un chiffrage - une erreur nee en roadmap avait ete recopiee par un bible build au lieu d'etre detectee.
 - LECON (a garder, W19) : verifier le Sommaire et la Genealogie AVANT de poser une filiation - la lignee de Zombie etait deja tranchee au B2 ; la question etait inutile.
 - LECON (a garder, W21) : ne jamais DEDUIRE une convention d'un exemple chiffre - "37 douilles = 37 %" etait une coincidence, pas une regle (1 douille != 1 %). En cas de doute comptable, demander.
-- LECON (a garder, W26) : quand une entite est FRAGMENTEE, poser d'emblee ou vivent ses CONTRATS (portage fragment par fragment chez Poupee) - la question de la survie des contrats d'une captive aurait du etre posee a la creation de la fiche, pas apres. Corollaire acte au W27 : quand une entite MEURT, ses contrats meurent avec elle (regle generale, dette SB1).
+- LECON (a garder, W26) : quand une entite est FRAGMENTEE, poser d'emblee ou vivent ses CONTRATS (portage fragment par fragment chez Poupee) - la question de la survie des contrats d'une captive aurait du etre posee a la creation de la fiche, pas apres. Corollaire acte au W27 : quand une entite MEURT, ses contrats meurent avec elle (regle generale, inscrite en B10 SB1).
 - LECON (a garder, W27) : le canari de version a servi - comparer TOUJOURS la version du depot a celle annoncee au Sommaire avant de patcher ; un fichier annonce (Chronologie W3) peut ne jamais avoir ete pousse. En cas d'ecart : reconstruire depuis la version du depot et sauter un numero.
 
 FIN_WIKI__IMPLICATIONS
