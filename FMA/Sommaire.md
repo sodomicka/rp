@@ -1,6 +1,6 @@
 # Sommaire - FMA
 
-- version : W3
+- version : W4
 
 ## WIKI
 
@@ -30,8 +30,8 @@ Description : fiches neutres canon des entites qui pesent sur le RP, plus la pro
 - Winry_Rockbell.md (W1) - mecanicienne prodige, soeur fusionnelle de la protagoniste
 - Sarah_Rockbell.md (W1) - chirurgienne, mere adoptive de la protagoniste, morte a Ishval
 - Yuri_Rockbell.md (W1) - chirurgien, pere adoptif de la protagoniste, mort a Ishval
-- Edward_Elric.md (W1) - Fullmetal Alchemist, ami d'enfance, transmutation cachee de 1910
-- Alphonse_Elric.md (W1) - ame scellee dans l'armure, ami d'enfance
+- Edward_Elric.md (W2) - Fullmetal Alchemist, ami d'enfance, transmutation cachee de 1910
+- Alphonse_Elric.md (W2) - ame scellee dans l'armure, ami d'enfance ; PAS de sans-cercle (aucun souvenir de la Porte)
 - Trisha_Elric.md (W1) - mere Elric, morte en 1904, parallele thematique
 - Van_Hohenheim.md (W1) - Pierre vivante, pere absent des Elric
 - Roy_Mustang.md (W1) - Flame Alchemist, heros d'Ishval, superieur d'Ed
