@@ -1,6 +1,6 @@
 # Genealogie
 
-- version : W8
+- version : W9
 
 Page SYSTEMES : liste des naissances et lignees conceptuelles ACTEES. Document transversal, sans narration. Les regles du monde associees (contrats, canaux, nutrition) vivent en BIBLE SB1 ; ici, l'arbre et ses regles de lecture.
 
@@ -40,13 +40,14 @@ Les engeances de Mort (Primordiaux) naissent entre Mort et les Cavalieres de soc
 Engeances qui decoulent directement d'Effroi mais restent hors du quintette structurant (ni Primordiales, ni Cavalieres) : anciennes, au plus pres de la peur pure.
 - Sixieme sens - engeance directe d'Effroi, au plus pres de la peur pure ; possede autrefois par tous les humains, il decuplait la peur ambiante et favorisait TROP Effroi lui-meme. Efface sur ordre d'Effroi (ere du Royaume stable) - son effacement l'AFFAIBLIT. [DIVERGENCE RP]
 - Cataclysme - engeance directe d'Effroi, ancienne (peur brute de la catastrophe naturelle, au plus pres de la terreur pure) ; d'ou sa fidelite au trone et son imprevisibilite. Anciennement nomme Catastrophes (renomme Cataclysme). Tete d'une petite lignee (cf. Lignee de Cataclysme). L'eruption du Mont Hio (XIXe s.) fait partie des effaces. [DIVERGENCE RP - rattachement tranche au B2 ; renomme]
-- Predateur - engeance directe d'Effroi, tres ancienne (la peur des betes et des animaux, l'une des plus vieilles peurs humaines, anterieure aux premieres societes). RENEGATE : passee a l'insoumission, alliee a Guerre contre le trone. Tete de la lignee des demons animaux (cf. Lignee de Predateur). [DIVERGENCE RP]
+- Predateur - engeance directe d'Effroi, tres ancienne (la peur des betes et des animaux, l'une des plus vieilles peurs humaines, anterieure aux premieres societes). RENEGATE : passee a l'insoumission, alliee a Guerre contre le trone - alliance MORTE avec Guerre (hiver 1997-1998). Tete de la lignee des demons animaux (cf. Lignee de Predateur). [DIVERGENCE RP]
 - Sang - engeance directe ancienne d'Effroi, non titree (la peur du sang). Particularite : la demone du Sang elle-meme IGNORE sa filiation - reincarnations amnesiques a chaque cycle. cf. Personnages/Sang. [CANON sur la demone + DIVERGENCE RP sur la filiation - rattachement tranche au build R3]
 
 ## Lignee de Mort
 - Primordiaux, engeances de Mort, ordre acte : Chute -> Tenebres -> Vieillesse. Toutes peurs de la mort. Prehistoire.
 - Arsenal de Mort : Guillotine - nee apres l'invention de la machine (fin XVIIIe). [CANON sur l'association Mort-Guillotine (pion de Mort en P2) + DIVERGENCE RP sur la filiation ; IMPLICITE sur la datation]
 - Engeance : Zombie - demon des morts qui se relevent ; engeance de Mort, posterieure aux Primordiaux. Sous contrat chez des yakuza (~1997, influence passive de Mort - pas un plan concerte), puis RETOURNE par le trone : rallie de son plein gre, verse a la collection personnelle du couple (cf. Personnages/Zombie). [CANON sur le demon + DIVERGENCE RP sur la filiation - rattachement tranche au B2 ; raccord ~1997 consomme au build R3]
+- Engeance : Malediction - demon de la peur des maledictions (la mort promise par rituel) ; engeance de Mort, hors du trio des Primordiaux. NEUTRE ABSOLU : commerce d'esperance de vie ouvert a tous les camps (contractant de Santa Claus a l'hiver 1997-1998). cf. Personnages/Malediction. [CANON sur le demon + DIVERGENCE RP sur la filiation - rattachement acte au build R6]
 - Concepts PORTES (non demons separes) : les quatre issues de la vie - Fragmentation, Plantation, Immortalisation, Inversion - que Mort portait avant l'effacement. Arrachees par Tronconneuse sur ordre d'Effroi (ere du Royaume stable) ; effet net PARADOXAL : la mort devenue l'unique fin, Mort en ressort RENFORCEE. [DIVERGENCE RP]
 - Engeance devoree : Holocauste - devoree par Tronconneuse (1941-1948). [DIVERGENCE RP - ajout hors liste canon]
 
@@ -69,6 +70,10 @@ Engeances qui decoulent directement d'Effroi mais restent hors du quintette stru
   - Antiquite : Fouet, Aiguille, puis Griffe (ordre du trio acte : Machette -> Aiguille -> Griffe).
   - Moyen Age au sens large : Lance-flammes (feu gregeois, VIIe), Bombe (explosifs), Katana (sabre feodal), Espadon (epees longues), Flingue (armes a feu, XIVe - sa TERREUR est moderne, depuis la Premiere Guerre mondiale en gros ; le statut "recent et choye" vise sa faveur et sa montee, pas sa naissance). [IMPLICITE sur les datations]
   - Ere moderne : Tank (Premiere Guerre mondiale).
+- Sous-lignees des armes (engeances d'armes ; la lignee n'est pas l'allegeance - actees au build R6) :
+  - Surin - demon du surin, la lame improvisee ; engeance de MACHETTE. Contractant du trio americain des Assassins Internationaux (manifestation au coup a main vide, meme signature que le trio vaudou). cf. Personnages/Assassins_Internationaux. [DIVERGENCE RP - OC]
+  - Corde - demon de la corde, la strangulation discrete de l'assassin ; engeance d'AIGUILLE. Contractant du trio americain des Assassins Internationaux (meme signature de manifestation). cf. Personnages/Assassins_Internationaux. [DIVERGENCE RP - OC]
+  - Poupee - demone de la peur des poupees ; engeance d'AIGUILLE (du domaine du concept dont elle decoule - la poupee de projection percee, l'envoutement - est nee la peur de la poupee elle-meme), sa deuxieme avec Corde. Naissance RECENTE, non datee. Fragmentee de son vivant entre corps porteurs ("Santa Claus") ; ANEANTIE a l'hiver 1997-1998 sauf son dernier fragment (le pantin-Tolka, captif du trone). Aiguille, relais fidele du trone, n'a jamais ete complice de son engeance - precedent Predateur. cf. Personnages/Assassins_Internationaux. [CANON adapte + DIVERGENCE RP sur la filiation]
 - Engeances devorees : Armes-Nucleaires (arme, devoree 1941-1948 sur ordre d'Effroi) ; Seconde Guerre Mondiale (engeance directe hors arsenal, devoree 1941-1948 sur ordre d'Effroi). [CANON + DIVERGENCE RP]
 
 ## Lignee de Controle
@@ -76,12 +81,13 @@ Engeances qui decoulent directement d'Effroi mais restent hors du quintette stru
 
 ## Lignee de Predateur
 - Predateur est la tete de lignee des demons animaux : la peur des betes engendre les demons des betes particulieres.
-- Statut interne : la plupart des demons animaux ont suivi Predateur dans l'insoumission et servent Guerre - une petite armee de betes rangee sous sa banniere. Rares sont les exceptions, toutes HORS domination d'alpha : les fideles au trone (Renarde, Serpent) et les suiveurs de la Tronconneuse depuis 1983 (Requin, Araignee).
+- Statut interne : la plupart des demons animaux ont suivi Predateur dans l'insoumission et servaient Guerre - une petite armee de betes rangee sous sa banniere (alliance morte avec Guerre, hiver 1997-1998). Rares sont les exceptions, toutes HORS domination d'alpha : les fideles au trone (Renarde, Serpent) et les suiveurs de la Tronconneuse depuis 1983 (Requin, Araignee).
 - Renarde - demone animale (peur du renard, de la ruse animale) ; engeance de Predateur restee FIDELE au trone. Plus froide et moins impulsive que le reste des betes. [CANON sur le demon animal + DIVERGENCE RP sur la filiation]
 - Serpent - demone animale (peur du serpent) ; engeance de Predateur restee FIDELE au trone. Meme temperament froid et pose. [CANON sur le demon animal + DIVERGENCE RP sur la filiation]
 - Requin - demon animal (peur du requin) ; engeance de Predateur, HORS domination d'alpha (meme regime que les loyalistes). LOYALISTE du trone jusqu'a la trahison d'Effacement (1983) : il suit alors la Tronconneuse. Aujourd'hui le Possede Beam (Securite Publique, Division 4). cf. Personnages/Beam. [CANON sur le demon + DIVERGENCE RP sur la filiation - rattachement acte au build R5]
 - Araignee - demone animale (peur de l'araignee) ; engeance de Predateur, HORS domination d'alpha (meme regime que les loyalistes). LOYALISTE du trone jusqu'a la trahison d'Effacement (1983) : elle suit alors la Tronconneuse. Aujourd'hui Princi (Securite Publique, Division 4). cf. Factions/Securite_Publique. [CANON sur la demone + DIVERGENCE RP sur la filiation - rattachement acte au build R5]
 - Chauve-Souris et Sangsue - demons animaux, engeances de Predateur ; LA PAIRE (compagnons), rangee derriere sa tete de lignee en OBEISSANCE AVEUGLE - mission : repandre la peur des predateurs (camp de Guerre par ricochet). MORTS ~1997 (Denji ; Aki et la Renarde). cf. Personnages/Chauve_Souris (fiche double, Sangsue incluse). [CANON sur les demons + DIVERGENCE RP sur la filiation - rattachement tranche au build R3 ; cloture au build R4]
+- La meute des huit fauves - Lion, Tigre, Chien, Panthere, Ours, Loup, Puma, Lynx : huit demons animaux (la peur de chaque fauve nomme), engeances de Predateur, ses envoyes d'elite. Engages en appui des Assassins Internationaux (hiver 1997-1998) : SEPT MORTS a la bataille de Tokyo ; le Chien, soumis par Autorite, CAPTURE - demon de compagnie de l'heritiere, perdu pour la lignee. cf. Personnages/Predateur (la meute) et Personnages/Nayuta (le Chien). [DIVERGENCE RP - OC ; rattachement acte au patch R6]
 - Les autres demons animaux : engeances de Predateur ralliees a Guerre avec leur tete de lignee. [DIVERGENCE RP]
 
 ## Lignee de Cataclysme
@@ -115,5 +121,6 @@ Engeances qui decoulent directement d'Effroi mais restent hors du quintette stru
 - Anciennete des postes terrestres du trio vaudou : non datee.
 - Anciennete de Predateur et de la lignee animale : ancienne (pre-societes), non datee finement.
 - Datation des naissances d'Avenir et d'Eternite : ouverte. [INCERTAIN]
+- Datations des naissances de Poupee ("recente", non datee), de Corde, de Surin et des huit fauves : ouvertes. [INCERTAIN]
 
 FIN_WIKI_SYSTEMES_GENEALOGIE
