@@ -1,10 +1,10 @@
 # Sommaire - FMA
 
-- version : W1
+- version : W2
 
 ## WIKI
 
-> Chaque entree porte la version (W<N>) de la page : inventaire de versions. Un ecart entre ce W<N> et celui ecrit dans la page elle-meme signale une copie perimee (canari, non bloquant).
+> Chaque entree porte la version (V<N>) de la page : inventaire de versions. Un ecart entre ce V<N> et celui ecrit dans la page elle-meme signale une copie perimee (canari, non bloquant). Prefixe usuel W<N> ; certaines fiches OC portent un autre prefixe (ex. R<N> pour Rhea) - le principe reste : le tag du Sommaire matche le tag interne de la page.
 
 ### Systemes/
 Description : moteur du monde - alchimie, Verite, Pierre, prothese.
@@ -25,7 +25,7 @@ Description : geographie narrative du RP.
 - Resembool.md (W1) - bourg des Rockbell/Elric, evenements-cle, foyer d'adoption de la protagoniste
 
 ### Personnages/
-Description : fiches neutres canon des entites qui pesent sur le RP.
+Description : fiches neutres canon des entites qui pesent sur le RP, plus la protagoniste OC.
 - Pinako_Rockbell.md (W1) - matriarche, sauveuse et figure fondatrice de la protagoniste
 - Winry_Rockbell.md (W1) - mecanicienne prodige, soeur fusionnelle de la protagoniste
 - Sarah_Rockbell.md (W1) - chirurgienne, mere adoptive de la protagoniste, morte a Ishval
@@ -41,14 +41,16 @@ Description : fiches neutres canon des entites qui pesent sur le RP.
 - Bradley_Wrath.md (W1) - Generalissime et homonculus Wrath
 - Pere.md (W1) - homonculus originel, maitre de la conspiration
 - Izumi_Curtis.md (W1) - maitresse des Elric, miroir thematique du deuil-transmutation
+- Rhea.md (R1) - protagoniste OC, fiche NOYAU (qui elle est au point de depart) ; peage cognitif (oeil droit + cortex orbitofrontal), anti-militarisme, famille Rockbell + frere Alan (defunt)
 
-> A VENIR (Passe 2/3) : Personnages/Rhea.md (fiche neutre de la protagoniste, entite promue au lore). Non encore creee - les renvois "cf. Personnages/Rhea.md" presents dans les fiches pointent vers cette page en attente.
+### Roadmap/Rhea/
+Description : cap et roadmaps de la Passe 2 (sources de build des fiches d'arc), par perspective de la protagoniste. Indexees au Sommaire - decision worldbuilder (build B2) : la regle v8.2 "roadmaps non indexees en jeu" est ABANDONNEE, le Sommaire servant d'abord au wiki build.
+- Chronologie.md - index-cap des 15 roadmaps (Porte 1903 -> retour a Resembool 1915) ; reperes d'age, points de vigilance
+- (roadmaps detaillees Roadmap<N>_<titre>.md - a construire en boucle serree, Passe 2)
 
 ### Fiches_Arc/Rhea/
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de la protagoniste. Chargees une fois a l'ouverture de thread.
 - (aucune pour l'instant - a construire en Passe 3, apres les roadmaps)
-
-> ROADMAPS NON INDEXEES EN JEU (v8.2). Le dossier Roadmap/Rhea/ n'est PAS liste au Sommaire. Les roadmaps restent au repo comme sources de build (matiere premiere des fiches d'arc), lues en mode Wiki en listant directement le dossier, jamais via le Sommaire ni en narration.
 
 ## PARTIES (Partie1)
 
