@@ -1,6 +1,6 @@
 # Sommaire - CSM
 
-- version : W21
+- version : W22
 
 ## WIKI
 
@@ -8,13 +8,13 @@
 
 ### (racine)
 Description : pages de travail et index.
-- _Implications.md (W25) - journal de travail du build (jamais fetche en narration)
+- _Implications.md (W26) - journal de travail du build (jamais fetche en narration)
 
 ### Roadmap/Makoto/
 Description : garde-cap et sources de build de la campagne Makoto (Passe 2).
-- Chronologie.md (W3) - GARDE-CAP du decoupage R0 -> R8+ dicte par le worldbuilder : bornes, jalons et [A POSER] de chaque arc ; tres sollicitee en Passe 2 ; statuts a jour jusqu'a R5
+- Chronologie.md (W3) - GARDE-CAP du decoupage R0 -> R8+ dicte par le worldbuilder : bornes, jalons et [A POSER] de chaque arc ; tres sollicitee en Passe 2 ; statuts a jour jusqu'a R5 (patch R6 en attente)
 
-> Les roadmaps d'arc (R0 La Peur W2, R1 Le Controle W5, R2 Le Flingue W3, R3 L'Autorite W1, R4 La Tronconneuse W1, R5 La Bombe W1) restent NON indexees (v8.2) : sources de build uniquement, lues par listing de dossier.
+> Les roadmaps d'arc (R0 La Peur W2, R1 Le Controle W5, R2 Le Flingue W3, R3 L'Autorite W1, R4 La Tronconneuse W1, R5 La Bombe W1, R6 La Guerre W1) restent NON indexees (v8.2) : sources de build uniquement, lues par listing de dossier.
 
 ### Personnages/
 Description : fiches d'entites neutres (NOYAU + Trajectoire datee).
@@ -50,7 +50,9 @@ Description : fiches d'entites neutres (NOYAU + Trajectoire datee).
 - Himeno.md (W2) - cheffe de la Division 2 (nee 1962, cheffe a 22 ans) ; contrat Fantome des 1980, l'oeil droit en prix ; la strategie du ne-pas-savoir brisee au huis clos de 1990 ; mentor et binome d'Aki ; seconde de la Division 4 (~1997) ; MORTE (~1997) : corps entier a Ghost pour sauver Aki - Trajectoire close
 - Denji.md (W3) - gamin des yakuza ne en 1982 ; hybride de Tronconneuse (~1997) : Chainsaw Man ; l'unique voie d'effacement d'Effroi dans la poitrine d'un ado ; recrute a la dette d'attachement, Division 4 ; heros public mondial (automne 1997) ; revelations recues (trois exclusions), dette TRANSFORMEE - residu : le secret Pochita ; couple avec Reze ; lecon de l'arrachage plantee puis retro-eclairee (~1997) ; cible de Guerre
 - Zombie.md (W1) - "le Zombie de Mort" ; engeance de Mort, instrument passif de son influence ; zombification-arnaque ; executeur du massacre de Denji ; rallie de plein gre (~1997), verse a la collection personnelle du couple
+- Malediction.md (W1) - demon de la peur des maledictions (la mort promise par rituel) ; engeance de Mort hors du trio des Primordiaux ; squelette a deux cranes, invisible a ses victimes ; NEUTRE ABSOLU, commerce d'esperance de vie ouvert a tous ; deconseille a Aki en 1990 (le prix) ; contractant de Santa Claus (R6)
 - Chauve_Souris.md (W2) - fiche groupee : Chauve-Souris + Sangsue, le couple de la lignee du Predateur (obeissance aveugle) ; le bras droit arrache par Makoto (1996) ; MORTS (~1997) : Denji ; Aki et la Renarde - Trajectoire close, dette de Power soldee au rabais
+- Assassins_Internationaux.md (W1) - fiche groupee : le reseau de tueurs de GUERRE mobilise a l'hiver 1997-1998 contre le coeur de Chainsaw Man ; Santa Claus / Poupee (demone fragmentee entre corps porteurs, engeance d'Aiguille), le pantin-Tolka (dernier fragment, prisonnier LITTERAL du trone), le trio americain (Samson, Joey, Aldo - contrats Corde, Surin, Tank), les tueurs anonymes ; ANEANTIS en R6 (bataille de Tokyo, purge mondiale)
 
 ### Lieux/
 Description : lieux du monde ; une entite double lieu+demon y vit en fiche unique.
@@ -65,7 +67,7 @@ Description : pages systeme transversales (regles, arbres, index thematiques).
 Description : factions et groupes (humains ou mixtes) ; etat neutre + Trajectoire datee.
 - Securite_Publique.md (W7) - agence anti-demons japonaise ; roster de decembre 1984 (Div 1 Kishibe, Div 2 Himeno jeune cheffe - nee 1962, rapporte au couple - et Furuno son second, Div 3 les sept renegats) ; refuge-vivier d'orphelins ; ralliement de la Div 3, genuflexion de Nayuta, ascension de Makima, signalement d'Aki, huis clos de 1990, restructuration de ~1997 (Division 4), offre a Beam et Princi et bilan de l'attaque de Guerre (~1997 : Div 1 reduite, morts d'Himeno, d'Arai et des trois anonymes, Kobeni revelee) en Trajectoire ; automne 1997 : Division 2 DISSOUTE (zero survivant - Furuno et Kato tombes), Reze au roster de la Division 4, graine de 5e division (en attente de Quanxi), Makima en approche du sommet ; en verite un instrument d'Effroi
 
-PASSE 1 CLOTUREE (B2). PASSE 2 EN COURS : point de depart au 2 decembre 1984. Roadmaps dans Roadmap/Makoto/ : R0 La Peur (W2), R1 Le Controle (W5), R2 Le Flingue (W3), R3 L'Autorite (W1), R4 La Tronconneuse (W1), R5 La Bombe (W1) - ECRITES ; R5 se clot sur Reze liberee (operation Serpent) et ralliee a la Division 4, les revelations a Denji et les cles du penthouse (automne 1997). Chronologie.md (W3, indexee supra) = GARDE-CAP du decoupage complet R0 -> R8+ dicte par le worldbuilder : R6 La Guerre (le Conflit tombe ici), R7 La Famine, R8+ ouvert. Design pose mais NON construit : socle des 3 soeurs de Nayuta (Asa, Kiga + reincarnation de Mort a l'horizon R8+) ; domestication des Cavalieres. PROCHAIN : build R6 (La Guerre) puis build R7 (La Famine), boucle serree ; cloture Passe 2 (relecture croisee inter-arcs) ; Passe 3 (decoupage en arcs + fiches d'arc) ; CODEX V1 ; SETUP. Aucune fiche d'arc a ce stade.
+PASSE 1 CLOTUREE (B2). PASSE 2 EN COURS : point de depart au 2 decembre 1984. Roadmaps dans Roadmap/Makoto/ : R0 La Peur (W2), R1 Le Controle (W5), R2 Le Flingue (W3), R3 L'Autorite (W1), R4 La Tronconneuse (W1), R5 La Bombe (W1), R6 La Guerre (W1) - ECRITES ; R6 se clot sur la mort de Guerre a Washington (Tank en bras, execution par Aki, le prenom "Asa" en dernier souffle), les debuts de l'Eglise de Chainsaw Man et la chasse aux berceaux lancee (hiver 1997-1998). Chronologie.md (W3, indexee supra) = GARDE-CAP du decoupage complet R0 -> R8+ dicte par le worldbuilder : R7 La Famine, R8+ ouvert. Design pose mais NON construit : socle des 3 soeurs de Nayuta (Asa, Kiga + reincarnation de Mort a l'horizon R8+) ; graine de 5e division REPORTEE a R7. PROCHAIN : thread PATCHS (propagation R6 aux fiches existantes) ; puis thread BIBLE BUILD (B10, avec mise a jour Sommaire et Chronologie) ; puis build R7 (La Famine, fiches Asa et Kiga a creer) ; cloture Passe 2 (relecture croisee inter-arcs) ; Passe 3 (decoupage en arcs + fiches d'arc) ; CODEX V1 ; SETUP. Aucune fiche d'arc a ce stade.
 
 ## PARTIES (Partie1)
 
