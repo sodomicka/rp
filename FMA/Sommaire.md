@@ -1,6 +1,6 @@
 # Sommaire - FMA
 
-- version : W2
+- version : W3
 
 ## WIKI
 
@@ -40,13 +40,17 @@ Description : fiches neutres canon des entites qui pesent sur le RP, plus la pro
 - Scar.md (W1) - vengeur ishval, tueur des parents Rockbell (Tchekhov majeur)
 - Bradley_Wrath.md (W1) - Generalissime et homonculus Wrath
 - Pere.md (W1) - homonculus originel, maitre de la conspiration
-- Izumi_Curtis.md (W1) - maitresse des Elric, miroir thematique du deuil-transmutation
-- Rhea.md (R1) - protagoniste OC, fiche NOYAU (qui elle est au point de depart) ; peage cognitif (oeil droit + cortex orbitofrontal), anti-militarisme, famille Rockbell + frere Alan (defunt)
+- Izumi_Curtis.md (W2) - maitresse des Elric (1909), miroir thematique du deuil-transmutation ; sait des 1909 qu'une gamine transmute sans cercle
+- Rhea.md (R2) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datee OUVERTES (demarre 1910, post R0-R3) ; peage cognitif (oeil droit + cortex orbitofrontal), anti-militarisme, famille Rockbell + frere Alan (defunt)
 
 ### Roadmap/Rhea/
 Description : cap et roadmaps de la Passe 2 (sources de build des fiches d'arc), par perspective de la protagoniste. Indexees au Sommaire - decision worldbuilder (build B2) : la regle v8.2 "roadmaps non indexees en jeu" est ABANDONNEE, le Sommaire servant d'abord au wiki build.
 - Chronologie.md - index-cap des 15 roadmaps (Porte 1903 -> retour a Resembool 1915) ; reperes d'age, points de vigilance
-- (roadmaps detaillees Roadmap<N>_<titre>.md - a construire en boucle serree, Passe 2)
+- Roadmap0_La_Porte.md (W1) - 1903, generateur d'origine : rituel, Porte, peage, secours Pinako. Lineaire, VERROUILLE (ne detone jamais)
+- Roadmap1_Grandir_A_Resembool.md (W1) - 1903-1908 en vignettes : adoption, soeur Winry, amities Elric, temperament fige, automail
+- Roadmap2_Ishval_La_Nouvelle.md (W1) - 1909 : la nouvelle des parents, les jumelles, naissance de l'anti-militarisme, retour des freres, ce qu'Izumi sait
+- Roadmap3_Transmutation_Elric_Et_Mustang.md (W1) - 1910 : transmutation cachee des Elric, fracture, refus Mustang. Ouvre la Trajectoire datee de Rhea
+- (roadmaps R4 a R14 - a construire en boucle serree, Passe 2 en cours)
 
 ### Fiches_Arc/Rhea/
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de la protagoniste. Chargees une fois a l'ouverture de thread.
