@@ -1,9 +1,10 @@
 # Rhea
 
-- version : R1
-- statut : OC protagoniste. Fiche NOYAU (qui elle EST au point de depart).
-  Les strates Implications d'arc et Trajectoire datee sont VIDES a la genese
-  et s'alimentent a chaud, roadmap par roadmap, en Passe 2.
+- version : R2
+- statut : OC protagoniste. Fiche NOYAU (qui elle EST au point de depart),
+  noyau 1903-1909 fige. Strates Implications d'arc et Trajectoire datee
+  OUVERTES au build B3 (post roadmaps R0-R3) ; alimentees a chaud, roadmap
+  par roadmap, en Passe 2.
 - perimetre joue : cf. FMA/Roadmap/Rhea/Chronologie.md
 
 ## Identite
@@ -149,21 +150,41 @@ et Chronologie.md.]
 OC : pas de sort canon fixe. [selon RP] Par defaut, le perimetre joue la mene
 de l'enfance a la chute de Pere puis au retour a Resembool (cf. Chronologie.md).
 Son statut de sacrifice potentiel (Porte ouverte des 1903, hitobashira valable)
-reste ouvert : hors radar de Pere par defaut, a trancher en Roadmap 12.
+reste ouvert : hors radar de Pere par defaut, MAIS Mustang a repere une
+troisieme alchimiste sans cercle en 1910 (R3) - a trancher en Roadmap 12.
 
 ## Implications d'arc
 
-Vide a la genese. Se decouvre en ecrivant les roadmaps (Passe 2) : ce qu'un arc
-futur exige deja d'elle au point de depart (savoir, possession, lien
-retroactif). A integrer a chaud, arc par arc.
+Alimentees a chaud, arc par arc (Passe 2). Etat au build B3 (post R0-R3) :
+- Clivage du savoir (pose en R1, verrouille en R3) : les Elric savent depuis
+  l'enfance qu'elle transmute sans cercle (le chevalier d'acier, 1903-1904),
+  mais ignorent TOUT de son 1903 (transmutation, lesion). Le noyau Rockbell,
+  lui, sait tout. Izumi sait des 1909, par les freres, qu'une gamine transmute
+  sans cercle - et en devine le prix (cf. Personnages/Izumi_Curtis.md).
+- Revelation du 1903 aux Elric : REPORTEE A 1914 (charniere) - decision actee.
+  Jusque-la, silence total de Rhea sur son passe envers eux, y compris pendant
+  la fracture de 1910.
 
 ## Trajectoire datee (post-1903)
 
-Vide a la genese. Alimentee a chaud, roadmap par roadmap (Passe 2) : ce que Rhea
-DEVIENT apres l'origine, evenement par evenement, en forme telegraphique et
-datee. Y viendront notamment la fracture avec les Elric (1910), le refus de
-Mustang, les annees de froid (1911-1914) et la reconciliation (1914). Quand un
-RP diverge, le delta va en Parties/ et surclasse cette strate pour cette partie.
+Strate ouverte en R3 (demarre 1910 ; 1903-1909 = noyau ci-dessus). Forme
+telegraphique, datee. Quand un RP diverge, le delta va en Parties/ et surclasse
+cette strate pour cette partie.
+- 1910 (R3) - La nuit des Elric. Ed et Al tentent de ramener Trisha, en cachette,
+  sans la prevenir. Rhea, premiere sur place, reconnait la chose (elle en a
+  produit une, jadis) et l'acheve au pic de beton sans ciller - renversement de
+  1903, ou c'etait Pinako qui achevait la sienne. Detestation a double
+  tranchant : les freres (l'avoir fait sans elle) ET elle-meme (n'avoir rien vu
+  venir). Naissance du noeud Rhea/Al (l'anti-Alan, et sa douceur qui l'attire
+  quand meme). Elle ne lache RIEN de son 1903 et coupe les ponts.
+- 1910 (R3) - Convalescence d'Ed. Elle met la main a l'automail du "client"
+  (perfectionnisme oblige, du coeur a l'ouvrage un peu malgre elle) sans daigner
+  lui adresser la parole.
+- 1910 (R3) - Refus Mustang. Mustang, qui a eu vent de trois alchimistes sans
+  cercle, vient recruter : jurons, "genocidaire", il repart avant qu'elle ne
+  transmute des chutes d'automail en armes. Ed et Al, eux, acceptent - cap sur
+  l'examen d'Etat. Debut du silence total envers les Elric (jusqu'en 1914).
+- (suite a alimenter roadmap par roadmap : R4 et au-dela)
 
 ## Renvois
 
@@ -175,7 +196,8 @@ RP diverge, le delta va en Parties/ et surclasse cette strate pour cette partie.
 - Scar : cf. Personnages/Scar.md
 - Lieux : cf. Lieux/Resembool.md, Ishval.md
 - Grimoire du pere : cf. BIBLE SB7
-- Cap des roadmaps : cf. FMA/Roadmap/Rhea/Chronologie.md
+- Cap des roadmaps : cf. FMA/Roadmap/Rhea/Chronologie.md ; roadmaps ecrites :
+  R0-R3 (FMA/Roadmap/Rhea/)
 
 ---
 
