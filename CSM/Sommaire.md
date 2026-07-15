@@ -1,87 +1,77 @@
-# Sommaire - CSM
+# Sommaire - FMA
 
-- version : W23
+- version : W3
 
 ## WIKI
 
-> Chaque entree porte la version `(W<N>)` de la page : inventaire de versions. Un ecart entre ce W<N> et celui ecrit dans la page elle-meme signale une copie perimee (canari, non bloquant).
-
-### (racine)
-Description : pages de travail et index.
-- _Implications.md (W27) - journal de travail du build (jamais fetche en narration)
-
-### Roadmap/Makoto/
-Description : garde-cap et sources de build de la campagne Makoto (Passe 2).
-- Chronologie.md (W4) - GARDE-CAP du decoupage R0 -> R8+ dicte par le worldbuilder : bornes, jalons et [A POSER] de chaque arc ; tres sollicitee en Passe 2 ; statuts a jour jusqu'a R6
-
-> Les roadmaps d'arc (R0 La Peur W2, R1 Le Controle W5, R2 Le Flingue W3, R3 L'Autorite W1, R4 La Tronconneuse W1, R5 La Bombe W1, R6 La Guerre W1) restent NON indexees (v8.2) : sources de build uniquement, lues par listing de dossier.
-
-### Personnages/
-Description : fiches d'entites neutres (NOYAU + Trajectoire datee).
-- Effroi.md (W10) - l'Originel, roi des demons, identite humaine Makoto ; mortalite conditionnelle (deux sorties, parallele Mort) ; Roi adaptatif ; regle des implications personnelles (liste ouverte, SEPT a date - la 7e en R6 : descente en Enfer, desamorcage de Tenebres ; cadence acceleree depuis 1984, delegation en roi millenaire) ; doctrines de l'obeissance ponderee, de la perte et des opportunites (gestion de la Guerre et de ses retombees en R6) ; canaux tisses (famille Royale) ; cercle de la confidence de l'identite Makoto (etendu a Kobeni en R6, niveau Denji, demissionnaire) ; OC promu au lore
-- Reseau.md (W5) - demon des liens et de la perte, secretaire d'Effroi, "Pere" et regent des contrats ; propriete exclusive du Roi, executeur des sentences ; tisseur des canaux sans contrat (famille Royale) ; depositaire ORIGINEL du secret Makoto ; carve-out teste de l'interieur (automne 1997) : il tient ; remonte sa toile pour la premiere activation mondiale coordonnee de l'arsenal (purge de Poupee, R6) ; OC promu au lore
-- Mort.md (W4) - premiere engeance d'Effroi, Primordiale et Cavaliere, ex-premiere Reine, rivale du trone ; influence passive (le Zombie, retourne par le trone ~1997)
-- Chute.md (W2) - Primordiale, premiere engeance de Mort, la cheffe des traumas
-- Tenebres.md (W3) - Primordial, deuxieme engeance de Mort ; ex-epee de Damocles au-dessus du trone -> DESAMORCE en R6 (pacte de Poupee interrompu par le Roi, menace de reinitialisation, livraison du dernier receptacle)
-- Vieillesse.md (W3) - Primordial, troisieme engeance de Mort, seul Primordial pleinement fidele au trone ; tete de la branche temporelle (Avenir, Eternite)
-- Avenir.md (W1) - demon de la peur de l'avenir ; engeance de Vieillesse, branche temporelle ; fidele au trone de gre, resident volontaire des geoles de la SP ; les entites de premier rang lui sont illisibles ; loge dans l'oeil droit d'Aki (~1997)
-- Eternite.md (W1) - demon de la peur de l'eternite et de l'infini ; engeance de Vieillesse, branche temporelle ; RENEGAT-NE (se croit infiniment puissant) ; gonfle aux douilles de Flingue, execute par Denji (~1997)
-- Famine.md (W3) - Cavaliere, premiere des trois de societes ; peur du manque / besoin / addiction ; drain vital nourricier ; lignee des maladies ; facette "manque" de la souffrance ; insoumise par depit ; SEULE Cavaliere insoumise encore vivante (se joue en R7)
-- Guerre.md (W8) - Cavaliere, deuxieme des societes ; Yoru ; source de toutes les armes ; alliee au Predateur ; jamais soumise ; MORTE a Washington (hiver 1997-1998, R6) : l'apogee du Bureau ovale, Tank en second bras (sceau detone), tombee sous Denji, achevee par Aki, le prenom "Asa" en dernier souffle ; ses canaux (Flingue, Tank) eteints, le Predateur delie ; reincarnation traquee (chasse aux berceaux) -> R7 ; Trajectoire CLOSE
-- Controle.md (W9) - Cavaliere, troisieme des societes ; Makima ; alliee et Reine des demons depuis 1984 ; mere de Nayuta ; cellule de commandement de la Division 4 (~1997) ; recommande la mise en scene du deuil (~1997) ; privilege des canaux tisses ; ascension acceleree par la mediatisation (automne 1997) : en approche de la tete de l'agence ; en R6, hopitaux du monde pour la chasse aux berceaux et helico de l'execution de Washington ; moteur du RP
-- Tronconneuse.md (W8) - engeance d'Effroi (Effacement) ; ex-garde rapprochee rebelle ; effacement conceptuel ; reduite en 1983, traquee des 1984 ; reperee 1994, hybride a Denji ~1997 : FIN DE LA TRAQUE par absorption dans le trone ; mediatisation mondiale (automne 1997) ; residu "secret Pochita" NOURRI en R6 (Pochita prend le dessus a Washington, manque de devorer Guerre) ; culte naissant (Eglise de Chainsaw Man) ; ancienne cible de Guerre
-- Katana.md (W3) - fiche double : demon-arme du sabre, engeance de Guerre fidele au trone + Tetsuo, son hote unique (~1997, mort a la reprise) ; place chez les yakuza, hybride par Makoto, retourne pour Guerre, repris (coeur arrache) - a l'arsenal, sans hote (offre a Kobeni en R6, refusee)
-- Arc.md (W6) - fiche double : demon des armes de trait + Quanxi (japonaise affectee a la Chine), premiere hybride du programme d'Effroi, "Premiere Devil Hunter" ; fusion 1215, depart de la SP en 1984 ; dans la confidence de l'identite Makoto des son hybridation ; etalon a depasser du tandem Kishibe-Flingue ; en R6 : convoquee ouvertement, son harem seculaire (quatre possedees) mort sous les crocs, creance d'au moins une nouvelle epouse promise par Makoto, grillee en heroine par la baliste
-- Bombe.md (W5) - fiche double Bombe + Reze ; arme detonante de facade chez Guerre, agent double d'Effroi ; Reze hybridee (Siberie, 1988) ; LIBEREE et AUTONOME (automne 1997, operation Serpent : contrat de Guerre capte, cede, dissous) ; ralliee ouvertement, Division 4, couple avec Denji, penthouse ; gel d'apparence atteint ; garde rapprochee volontaire a la bataille de Washington (R6)
-- Flingue.md (W8) - engeance directe de Guerre, detonante ; auteur de l'attaque mondiale du 18 novembre 1984 ; conscience collective (seuil 25%, jamais dormi) ; rallie au trone en 1989, hybride a Kishibe (1990) : le Gardien ; cle SOLDEE a 91/9 en R6 (Kishibe devore la prothese-bras de Guerre a sa mort -> 91%, 9% renegats a recuperer en R7) ; impatience recyclee vers sa propre completude
-- Tank.md (W5) - engeance directe de Guerre, detonante ; brute blindee aux grincements mecaniques ; scelle mi-1985 -> sceau DETONE en R6 (Guerre use la clause de rappel), mue en 2e bras, comprime et fige d'incomprehension, ramasse par le trone (descellement + allegeance a la future Guerre : R7) ; dernier fils loyal
-- Armes.md (W4) - fiche groupee : Espadon, Lance-flammes, Fouet, Lance ; quatre anciennes hybridees avant le massacre ; dans la confidence de l'identite Makoto des leur hybridation ; traqueurs actifs de Tronconneuse en 1984 ; hote de Lance identifie (Volodimir, 1480), qui abat le corps principal de Poupee en URSS lors de la purge (R6)
-- Vaudous.md (W5) - fiche groupee : Machette / Baron Samedi, Aiguille / Maman Brigitte, Griffe / Papa Legba ; demons-dieux vaudous, filet de renseignement du trone ; contractants de Kishibe (1984) et d'Aki (1990) ; Aiguille est le concept dont decoulent Poupee et Corde, Machette celui dont decoule Surin (armes du reseau des Assassins, R6)
-- Kishibe.md (W7) - Devil Hunter d'elite, chef de la Division 1 puis chef d'escouade de la Division 4 (~1997) ; confident puis bras arme conscient du plan (cercle de la confidence, 1987) ; hybride de Flingue (1990), le Gardien, boussole du trone ; 39% post-R4 -> 91% post-R6 (devore la prothese-bras de Guerre ; 9% renegats a recuperer, R7) ; rivalite avec Quanxi RELANCEE en R6 ; cynisme accru, obsession de la chute des Cavalieres restantes ; pivot du huis clos de 1990 ; troisieme maitre de Nayuta ; contractant des Vaudous
-- Aki.md (W5) - orphelin de l'attaque de Flingue (Hokkaido, 9 ans en 1984) ; pupille du refuge-vivier ; signale au couple en 1989 ; Devil Hunter en 1990, Division 2 (huis clos, contrats Renarde - rompue ~1997 - + trio vaudou) ; Avenir impose dans l'oeil droit (~1997) ; binome d'Himeno jusqu'a sa mort ; Division 4 (~1997) ; dernier membre historique de la Division 2 (dissoute automne 1997) ; en R6 : EXECUTEUR de Guerre a Washington (crachat pour Himeno), parrain declare de la reincarnation de Guerre
-- Ange.md (W2) - demon de la peur des anges, le FORGERON du trone (armes-ames) ; asservi par Controle au XIXe s., repris par le Roi via "mon ange" ; Div 3 puis gardien de Nayuta, puis REINTEGRE au service actif de la Division 4 (R6, Nayuta devenue autonome ; escorte encore l'heritiere a Tokyo)
-- Nayuta.md (W4) - Autorite ; fille BIOLOGIQUE d'Effroi et Controle (non la reincarnation canon) ; l'autorite pure heritee ; ecole de la gouvernance (1990-94), doctrine Pochita (1994), assistante de Makima (1995), cellule de commandement de la Division 4 (~1997) ; privilege des canaux tisses ; trouve la faille de l'operation Serpent (automne 1997) ; en R6 : descente en Enfer avec Makoto (lecon de politique), soumission du demon Chien (animal de compagnie) et du dernier fragment de Poupee (Tolka), calin d'adieu a Guerre ; heritiere du quatuor reforme
-- Predateur.md (W5) - "Le Chasseur" ; engeance directe ancienne renegate (peur des betes) ; tete de la lignee animale ; allie-outil de Guerre ; consigne permanente SP sur sa lignee ; sa paire japonaise (Chauve-Souris et Sangsue) morte ~1997 ; Requin et Araignee, loyalistes de la lignee (hors sa main) ; REPLIE apres R6 : sa meute des huit fauves (lion, tigre, chien, panthere, ours, loup, puma, lynx) decimee a Tokyo, alliance avec Guerre eteinte a sa mort, le Chien capture par Nayuta ; le Chasseur se fait oublier
-- Renarde.md (W3) - demone animale fidele au trone, echappe a Predateur ; parmi les rares betes loyalistes ; contractante d'Aki (1990 - ~1997, contrat rompu par elle : refus de mordre les hybrides du Roi)
-- Serpent.md (W3) - demone animale fidele au trone ; absorption/liberation via contrat prioritaire de Reseau ; extension actee : capte aussi le contrat qu'un tiers tient sur la devoree et peut le ceder (bornage par rapport de force) ; gobe sa contractante Sawatari et recupere son propre contrat (~1997) ; operation Serpent (automne 1997) : Reze gobee consentante, liberee
-- Beam.md (W1) - le Possede du Requin ; engeance de Predateur, loyaliste du trone jusqu'a la trahison d'Effacement (1983), possede dans la traque qui suit ; l'un des sept renegats de la Division 3 (1984), Division 4 (~1997), libere et musele en R4 ; devot absolu de Chainsaw Man, sa monture au combat (automne 1997)
-- Typhon.md (W2) - engeance de Cataclysme ; longtemps confie par contrat sans contrepartie a l'hybride Reze ("Maitresse Reze") ; deploye et detruit par Denji et Beam (automne 1997) ; fragment-graine (~5%) aux mains du Roi, libre de tout contrat - pas de reincarnation tant que le fragment vit
-- Sang.md (W3) - fiche double : la demone du Sang + Power ; engeance directe ancienne d'Effroi (elle-meme l'ignore) ; une incarnation par siecle, toutes obliterees par le Roi (la farce seculaire) ; immunisee au toucher mortel par arrogance ; Power recrutee sous ultimatum (1996), Division 4 (~1997) ; dette Chauve-Souris soldee au rabais - "tranquille" ; DEBRIDEE a Washington en R6 (banques de sang sur feu vert du Roi)
-- Himeno.md (W2) - cheffe de la Division 2 (nee 1962, cheffe a 22 ans) ; contrat Fantome des 1980, l'oeil droit en prix ; la strategie du ne-pas-savoir brisee au huis clos de 1990 ; mentor et binome d'Aki ; seconde de la Division 4 (~1997) ; MORTE (~1997) : corps entier a Ghost pour sauver Aki - Trajectoire close
-- Denji.md (W4) - gamin des yakuza ne en 1982 ; hybride de Tronconneuse (~1997) : Chainsaw Man ; l'unique voie d'effacement d'Effroi dans la poitrine d'un ado ; recrute a la dette d'attachement, Division 4 ; heros public mondial (automne 1997), consolide en R6 (heros des ruines de Washington) ; revelations recues (trois exclusions), dette TRANSFORMEE puis NOURRIE en R6 (Pochita prend le dessus, manque de devorer Guerre) - residu : le secret Pochita, doutes grandissants ; couple avec Reze ; lecon de l'arrachage plantee puis retro-eclairee (~1997) ; ancienne cible de Guerre
-- Zombie.md (W1) - "le Zombie de Mort" ; engeance de Mort, instrument passif de son influence ; zombification-arnaque ; executeur du massacre de Denji ; rallie de plein gre (~1997), verse a la collection personnelle du couple
-- Malediction.md (W1) - demon de la peur des maledictions (la mort promise par rituel) ; engeance de Mort hors du trio des Primordiaux ; squelette a deux cranes, invisible a ses victimes ; NEUTRE ABSOLU, commerce d'esperance de vie ouvert a tous ; deconseille a Aki en 1990 (le prix) ; contractant de Santa Claus (R6)
-- Chauve_Souris.md (W2) - fiche groupee : Chauve-Souris + Sangsue, le couple de la lignee du Predateur (obeissance aveugle) ; le bras droit arrache par Makoto (1996) ; MORTS (~1997) : Denji ; Aki et la Renarde - Trajectoire close, dette de Power soldee au rabais
-- Assassins_Internationaux.md (W1) - fiche groupee : le reseau de tueurs de GUERRE mobilise a l'hiver 1997-1998 contre le coeur de Chainsaw Man ; Santa Claus / Poupee (demone fragmentee entre corps porteurs, engeance d'Aiguille), le pantin-Tolka (dernier fragment, prisonnier LITTERAL du trone), le trio americain (Samson, Joey, Aldo - contrats Corde, Surin, Tank), les tueurs anonymes ; ANEANTIS en R6 (bataille de Tokyo, purge mondiale)
-
-### Lieux/
-Description : lieux du monde ; une entite double lieu+demon y vit en fiche unique.
-- Enfer.md (W3) - le plan ET le demon qui l'incarne ; Royaume d'Effroi, second pilier du trone ; standard de convocation ; en R6, execute le pacte de Poupee a la lettre mais alerte son maitre (silence non achete) et lui ouvre une porte - loyaute du pilier demontree
+> Chaque entree porte la version (V<N>) de la page : inventaire de versions. Un ecart entre ce V<N> et celui ecrit dans la page elle-meme signale une copie perimee (canari, non bloquant). Prefixe usuel W<N> ; certaines fiches OC portent un autre prefixe (ex. R<N> pour Rhea) - le principe reste : le tag du Sommaire matche le tag interne de la page.
 
 ### Systemes/
-Description : pages systeme transversales (regles, arbres, index thematiques).
-- Genealogie.md (W9) - liste des naissances et lignees conceptuelles ; regles du plancher et de l'outil/arme ; voie inedite de la reproduction sexuee ; registre complet des effaces ; Sang au tronc des engeances directes anciennes ; lignees Vieillesse (branche temporelle : Avenir, Eternite), Cataclysme (Typhon, Mont Hio efface), Predateur (dont la paire Chauve-Souris / Sangsue, morte ~1997, la meute des huit fauves, et les loyalistes Requin et Araignee), Demence et Zombie ; ajouts R6 : Poupee et Corde (engeances d'Aiguille), Surin (engeance de Machette), Malediction (engeance de Mort hors Primordiaux) ; Ange en mineur sans rattachement
-- Histoire.md (W2) - recit du passe reconfigure par Effroi, de la premiere peur a 1984 ; nourrit le SB3 (Chronologie)
+Description : moteur du monde - alchimie, Verite, Pierre, prothese.
+- Alchimie.md (W1) - echange equivalent, sequence, cercles, tabou, transmutation sans cercle, specialisations (mineral/metal/organique)
+- La_Verite_Et_La_Porte.md (W1) - la Porte, la Verite, le peage ironique, sacrifice humain, cas de peage cognitif (renvoi Rhea)
+- Pierre_Philosophale.md (W1) - condensat d'ames, pouvoirs, cout moral, lien Xerxes/cercle national
+- Automail.md (W1) - prothese nerveuse, metier Rockbell, croisement metal-alchimie
 
 ### Factions/
-Description : factions et groupes (humains ou mixtes) ; etat neutre + Trajectoire datee.
-- Securite_Publique.md (W8) - agence anti-demons japonaise ; roster de decembre 1984 (Div 1 Kishibe, Div 2 Himeno jeune cheffe - nee 1962, rapporte au couple - et Furuno son second, Div 3 les sept renegats) ; refuge-vivier d'orphelins ; ralliement de la Div 3, genuflexion de Nayuta, ascension de Makima, signalement d'Aki, huis clos de 1990, restructuration de ~1997 (Division 4) et bilan de l'attaque de Guerre en Trajectoire ; automne 1997 : Division 2 DISSOUTE (zero survivant - Furuno et Kato tombes), Reze au roster de la Division 4, graine de 5e division (differee), Makima en approche du sommet ; hiver 1997-1998 (R6) : dispositif anti-Assassins, Ange reintegre au service actif de la Div 4, demission de Kobeni (dans la confidence, niveau Denji - retour R7, coeur de Katana refuse) ; en verite un instrument d'Effroi
+Description : forces en presence - armee et conspiration.
+- Armee_Amestris.md (W1) - stratocratie, structure, Alchimistes d'Etat, Generalissime, fonction anti-militariste
+- Homonculus.md (W1) - Pere, les sept peches, coeur-Pierre, Jour Promis, sacrifices
 
-PASSE 1 CLOTUREE (B2). PASSE 2 EN COURS : point de depart au 2 decembre 1984. Roadmaps dans Roadmap/Makoto/ : R0 La Peur (W2), R1 Le Controle (W5), R2 Le Flingue (W3), R3 L'Autorite (W1), R4 La Tronconneuse (W1), R5 La Bombe (W1), R6 La Guerre (W1) - ECRITES ; R6 se clot sur la mort de Guerre a Washington (Tank en bras, execution par Aki, le prenom "Asa" en dernier souffle), les debuts de l'Eglise de Chainsaw Man et la chasse aux berceaux lancee (hiver 1997-1998). Chronologie.md (W4, indexee supra) = GARDE-CAP du decoupage complet R0 -> R8+ dicte par le worldbuilder : R7 La Famine, R8+ ouvert ; statuts a jour jusqu'a R6. Design pose mais NON construit : socle des 3 soeurs de Nayuta (Asa, Kiga + reincarnation de Mort a l'horizon R8+) ; graine de 5e division REPORTEE a R7. PROPAGATION R6 aux fiches : FAITE (thread patchs clos, 24 fichiers). BIBLE B10 : produite (dette B10 integree, Sommaire mis a jour ici). PROCHAIN : build R7 (La Famine, boucle serree ; fiches Asa, Kiga et l'hybride de Kobeni a creer) ; cloture Passe 2 (relecture croisee inter-arcs) ; Passe 3 (decoupage en arcs + fiches d'arc) ; CODEX V1 ; SETUP. Aucune fiche d'arc a ce stade.
+### Lieux/
+Description : geographie narrative du RP.
+- Amestris.md (W1) - pays-cercle, divisions, expansion, secret du cercle national, regime
+- Ishval.md (W1) - genocide, peuple, Scar, Xerxes/desert, morts Rockbell
+- Resembool.md (W1) - bourg des Rockbell/Elric, evenements-cle, foyer d'adoption de la protagoniste
+
+### Personnages/
+Description : fiches neutres canon des entites qui pesent sur le RP, plus la protagoniste OC.
+- Pinako_Rockbell.md (W1) - matriarche, sauveuse et figure fondatrice de la protagoniste
+- Winry_Rockbell.md (W1) - mecanicienne prodige, soeur fusionnelle de la protagoniste
+- Sarah_Rockbell.md (W1) - chirurgienne, mere adoptive de la protagoniste, morte a Ishval
+- Yuri_Rockbell.md (W1) - chirurgien, pere adoptif de la protagoniste, mort a Ishval
+- Edward_Elric.md (W1) - Fullmetal Alchemist, ami d'enfance, transmutation cachee de 1910
+- Alphonse_Elric.md (W1) - ame scellee dans l'armure, ami d'enfance
+- Trisha_Elric.md (W1) - mere Elric, morte en 1904, parallele thematique
+- Van_Hohenheim.md (W1) - Pierre vivante, pere absent des Elric
+- Roy_Mustang.md (W1) - Flame Alchemist, heros d'Ishval, superieur d'Ed
+- Riza_Hawkeye.md (W1) - tireuse d'elite, conscience de Mustang
+- Maes_Hughes.md (W1) - renseignement, figure bienveillante, tue par Envy
+- Scar.md (W1) - vengeur ishval, tueur des parents Rockbell (Tchekhov majeur)
+- Bradley_Wrath.md (W1) - Generalissime et homonculus Wrath
+- Pere.md (W1) - homonculus originel, maitre de la conspiration
+- Izumi_Curtis.md (W2) - maitresse des Elric (1909), miroir thematique du deuil-transmutation ; sait des 1909 qu'une gamine transmute sans cercle
+- Rhea.md (R2) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datee OUVERTES (demarre 1910, post R0-R3) ; peage cognitif (oeil droit + cortex orbitofrontal), anti-militarisme, famille Rockbell + frere Alan (defunt)
+
+### Roadmap/Rhea/
+Description : cap et roadmaps de la Passe 2 (sources de build des fiches d'arc), par perspective de la protagoniste. Indexees au Sommaire - decision worldbuilder (build B2) : la regle v8.2 "roadmaps non indexees en jeu" est ABANDONNEE, le Sommaire servant d'abord au wiki build.
+- Chronologie.md - index-cap des 15 roadmaps (Porte 1903 -> retour a Resembool 1915) ; reperes d'age, points de vigilance
+- Roadmap0_La_Porte.md (W1) - 1903, generateur d'origine : rituel, Porte, peage, secours Pinako. Lineaire, VERROUILLE (ne detone jamais)
+- Roadmap1_Grandir_A_Resembool.md (W1) - 1903-1908 en vignettes : adoption, soeur Winry, amities Elric, temperament fige, automail
+- Roadmap2_Ishval_La_Nouvelle.md (W1) - 1909 : la nouvelle des parents, les jumelles, naissance de l'anti-militarisme, retour des freres, ce qu'Izumi sait
+- Roadmap3_Transmutation_Elric_Et_Mustang.md (W1) - 1910 : transmutation cachee des Elric, fracture, refus Mustang. Ouvre la Trajectoire datee de Rhea
+- (roadmaps R4 a R14 - a construire en boucle serree, Passe 2 en cours)
+
+### Fiches_Arc/Rhea/
+Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de la protagoniste. Chargees une fois a l'ouverture de thread.
+- (aucune pour l'instant - a construire en Passe 3, apres les roadmaps)
 
 ## PARTIES (Partie1)
 
+> Structure a venir : les fichiers de Parties/FMA/Partie1/ se generent au CODEX V1 (fin de pipeline). Rien a indexer pour l'instant.
+
 ### Suivi/
-Description : fiches de suivi des personnages affectes par la narration.
-(Aucune page - RP non demarre.)
+Description : fiches de suivi des personnages affectes par la narration (dont fiche protagoniste, backstory complete).
+- (a venir - CODEX V1)
 
 ### Archives/
 Description : chronologie archivee, arcs clos.
-(Aucune page - RP non demarre.)
+- (a venir)
 
 ### Decisions/
 Description : bifurcations prises dans ce RP par rapport aux roadmaps.
-(Aucune page - RP non demarre.)
+- (a venir)
 
 ---
+
 FIN_WIKI_SOMMAIRE
