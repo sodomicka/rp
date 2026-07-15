@@ -1,6 +1,6 @@
 # Bombe
 
-- version : W4
+- version : W5
 
 Entite double : le DEMON (Bombe) et l'HYBRIDE humaine qui le portera (Reze). Fiche NEUTRE : decrit l'entite telle qu'elle existe dans le monde, independamment d'une partie. [CANON + DIVERGENCE RP]
 
@@ -11,7 +11,7 @@ Particularite vs Arc/Quanxi : ici la fusion est POSTERIEURE au point de depart. 
 - Concept : la peur des bombes et des explosions.
 - Nature : demon-arme, engeance de Guerre ; l'une des sept armes anciennes ; arme DETONANTE, rattachee de facade a Guerre. [CANON + DIVERGENCE RP]
 - Statut au point de depart : Bombe active, ENTIERE (non fusionnee), agent double secret d'Effroi ; Reze, 3 ans, en dressage dans le programme sovietique. Fusion en 1988 (cf. Trajectoire). [DIVERGENCE RP]
-- Statut post-R5 (~1997) : LIBEREE et AUTONOME - le contrat-canal de Guerre dissous par l'operation Serpent, plus aucun contrat ne la tient ; ralliee OUVERTEMENT au trone, Division 4 de la Securite Publique ; en couple avec Denji (cf. Trajectoire). [DIVERGENCE RP]
+- Statut post-R5 (~1997) : LIBEREE et AUTONOME - le contrat-canal de Guerre dissous par l'operation Serpent, plus aucun contrat ne la tient ; ralliee OUVERTEMENT au trone, Division 4 de la Securite Publique ; en couple avec Denji (cf. Trajectoire). Depuis l'hiver 1997-1998 : premiere campagne ouverte cote trone ; sa suzeraine de facade est MORTE sans avoir jamais su. [DIVERGENCE RP]
 
 ## Le demon (Bombe)
 - Engeance de Guerre, membre des sept armes anciennes, DETONANTE. En facade elle repond a Guerre (avec Flingue et Tank) ; en sous-main elle a rompu cette allegeance au profit du trone - Guerre l'ignore. [DIVERGENCE RP]
@@ -69,14 +69,14 @@ Particularite vs Arc/Quanxi : ici la fusion est POSTERIEURE au point de depart. 
 
 ## Relations de base
 - Effroi / Makoto - maitre secret (jusqu'a ~1997), puis souverain servi OUVERTEMENT depuis la liberation ; il fixait la mission de l'hybride et lui a confie Typhon. Leur ligne est un canal TISSE par Reseau (privilege du Roi, sans contrat) - independante de tout contrat, jamais touchee par l'operation Serpent. Levier du lien : le desir d'amour, SOLDE (promesse tenue). [DIVERGENCE RP]
-- Guerre / Yoru - le concept dont Bombe decoule ET sa suzeraine de facade ; servie en apparence, trahie en sous-main, Guerre l'ignore - le retournement lui echappe toujours. Bombe gardait avec elle un contrat-canal DIRECT - seule parmi les agents d'Effroi a conserver ce lien direct ; le double jeu se jouait sur une ligne que Guerre tenait, laisse et detecteur de mensonge. C'est le programme sovietique de Guerre qui hybride Reze. Contrat-canal capte, cede et DISSOUS a l'operation Serpent (~1997) : Guerre la croit morte ou prise. [DIVERGENCE RP]
+- Guerre / Yoru - le concept dont Bombe decoule ET sa suzeraine de facade ; servie en apparence, trahie en sous-main, Guerre l'ignore - le retournement lui echappe toujours. Bombe gardait avec elle un contrat-canal DIRECT - seule parmi les agents d'Effroi a conserver ce lien direct ; le double jeu se jouait sur une ligne que Guerre tenait, laisse et detecteur de mensonge. C'est le programme sovietique de Guerre qui hybride Reze. Contrat-canal capte, cede et DISSOUS a l'operation Serpent (~1997) : Guerre la croit morte ou prise. MORTE a l'hiver 1997-1998 sans avoir jamais su - Reze est l'une des quatre hybrides de sa mise a mort. [DIVERGENCE RP]
 - Flingue - pair d'arsenal et rival execre : il rafle la peur des armes, elle en paie le prix. Source de sa rupture. [DIVERGENCE RP]
-- Tank - pair detonant, reste fidele a Guerre. [DIVERGENCE RP]
+- Tank - pair detonant, reste fidele a Guerre ; rappele, mue en bras et ramasse comprime a l'hiver 1997-1998. cf. Personnages/Tank. [DIVERGENCE RP]
 - Typhon - engeance de Cataclysme placee sous son contrat (des 1988), sans contrepartie ni exclusivite ; la nomme "Maitresse Reze". Deploye et DETRUIT a la bataille planetaire (~1997) : le contrat meurt avec ses ~95%. [DIVERGENCE RP]
-- Arsenal (Katana, Arc, Espadon, Lance-flammes, Fouet, Lance) - au trone ouvertement ; elle seule y est en secret. [DIVERGENCE RP]
+- Arsenal (Katana, Arc, Espadon, Lance-flammes, Fouet, Lance) - au trone ouvertement ; elle seule y etait en secret - a decouvert depuis l'automne 1997. [DIVERGENCE RP]
 - Tronconneuse / Pochita - adversaire du massacre de 1983. [CANON + DIVERGENCE RP]
 - Serpent - la LIBERATRICE (~1997) : la gobe CONSENTANTE, capte le contrat-canal de Guerre, la regurgite et le lui CEDE - auto-detenu, dissous. cf. Personnages/Serpent. [DIVERGENCE RP]
-- Denji - la cible devenue l'amour : le couple se noue apres la liberation - Division 4 cote a cote, penthouse commun (~1997). Il connait l'operation de bout en bout (revelations du trone). [CANON adapte + DIVERGENCE RP]
+- Denji - la cible devenue l'amour : le couple se noue apres la liberation - Division 4 cote a cote, penthouse commun (~1997). Il connait l'operation de bout en bout (revelations du trone). A l'hiver 1997-1998, elle se porte VOLONTAIRE pour sa garde rapprochee. [CANON adapte + DIVERGENCE RP]
 
 ## Implications d'arc
 - R2 exige qu'au point de depart : Bombe soit DEJA en place comme agent double au coeur de la sphere de Guerre (sinon pas d'espionne a hybrider en 1988) ; Reze soit DEJA nee et dans le programme sovietique ; le desir d'amour partage soit DEJA present (c'est le levier qui rend l'accord de 1988 possible). Points couverts par le NOYAU.
@@ -88,5 +88,6 @@ Particularite vs Arc/Quanxi : ici la fusion est POSTERIEURE au point de depart. 
 |---|---|---|
 | 1988 (R2) | Hybridation Bombe + Reze au complexe siberien de Guerre (programme sovietique) ; ACCORD des volontes. Bombe connecte l'hybride a Makoto, qui fixe la mission : fausse fidelite a Guerre contre recompense eternelle. Effroi lui confie Typhon (engeance de Cataclysme) - contrat sans contrepartie, non exclusif ; Typhon la nomme "Maitresse Reze". | Bombe passe de demon pur a hybride ; Reze devient l'hote-visage ; l'entite double entre au service actif d'Effroi sous couverture de Guerre ; acquiert le contrat Typhon. |
 | ~1997 (R5 - La Bombe) | Derniere carte de Guerre, jouee et brulee par le trone. Briefing de Makoto des le depart d'URSS, par la ligne tissee : suivre les ordres de Guerre QUEL QU'EN SOIT LE PRIX, ne rien epargner ; seule reserve, le coeur de Denji - s'il est pris, laisser Makoto intervenir et la "tuer" (clause JAMAIS detonee) ; au bout de la defaite, la liberte. Contrainte : le canal de Guerre, laisse et detecteur de mensonge - devier du script, c'est risquer le rappel. Couverture de barmaid, les beats canon se jouent (cabine sous la pluie, cafe, ecole de nuit, piscine, la fable des deux souris) ; Denji tombe amoureux et vient de lui-meme le raconter a ses figures familiales. Massacre de la 2e division de la SP. Bataille planetaire : le baiser, la langue arrachee, la transformation ; Typhon deploye et detruit ; defaite TOTALE, violente et publique face a Denji et Beam, sous les yeux du monde. Operation Serpent : gobee CONSENTANTE, contrat-canal de Guerre capte puis CEDE - auto-detenu, dissous. Integration a la Division 4, couple avec Denji, cles du penthouse remises par Makima. | LIBEREE et AUTONOME : plus aucun contrat ne la tient - ne demeure que la ligne tissee du trone. Ralliee ouvertement ; couple avec Denji, penthouse. Apparence FIGEE au design canon (fin d'adolescence / jeune adulte). Cote Guerre : morte ou prise, le retournement toujours ignore. |
+| hiver 1997-1998 (R6 - La Guerre) | Premiere campagne OUVERTE cote trone : garde rapprochee VOLONTAIRE de Denji-appat (avec Aki et Power) face aux Assassins Internationaux. Expediee en Enfer par la frappe de Poupee (hybride, marchandise du pacte de Tenebres), reprise par le Roi, renvoyee sur Terre. A Washington : l'une des QUATRE hybrides de la mise a mort de Guerre ; participe largement a la destruction de la ville, aux cotes de Kishibe et Power. | Sa suzeraine de facade est MORTE - sans avoir jamais su le retournement. L'hybride libre combat a visage decouvert pour le trone, aux cotes de son compagnon. |
 
 FIN_WIKI_PERSONNAGES_BOMBE

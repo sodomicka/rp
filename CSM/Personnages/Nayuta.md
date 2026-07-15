@@ -1,6 +1,6 @@
 # Nayuta
 
-- version : W3
+- version : W4
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -46,7 +46,9 @@ Note : a part son ORIGINE (fille biologique, non une reincarnation) et son NOM D
 ## Relations de base
 - Effroi / Makoto - son pere ; il lui apprend a doser son autorite. [DIVERGENCE RP]
 - Controle / Makima - sa mere ; lui a cede l'autorite pure et le statut de Cavaliere. [DIVERGENCE RP]
-- Ange - son gardien attitre, qu'elle malmene et traite en chien via l'autorite pure. [DIVERGENCE RP]
+- Ange - son gardien attitre, qu'elle malmene et traite en chien via l'autorite pure. Gardiennat CLOS a l'hiver 1997-1998 : grande desormais, mentalement plus mure que la quasi-totalite des adultes, elle n'a plus besoin de gardien - Ange reintegre a la Division 4. cf. Personnages/Ange. [DIVERGENCE RP]
+- Le Chien - son demon de compagnie depuis l'hiver 1997-1998 : fauve de la meute du Predateur, trop mignon a ses yeux, SOUMIS par son autorite en pleine bataille de Tokyo - en plus des chiens de Makima. Sa lecture : il incarne l'ANIMAL APPRIVOISE - ce qu'il aime, c'est la servitude. Il vit au QG aupres d'elle. cf. Personnages/Predateur (la meute). [DIVERGENCE RP]
+- Le pantin-Tolka (Poupee) - dernier receptacle de la demone Poupee, livre par Tenebres et SOUMIS par son autorite (hiver 1997-1998) ; prisonnier litteral du trone, devenir ouvert. cf. Personnages/Assassins_Internationaux. [DIVERGENCE RP]
 - Ses trois soeurs - a naitre / a inventer (OC, hors fiche). [DIVERGENCE RP - a faire]
 - Kishibe - present a sa naissance : il s'agenouille sous son premier ordre. Plus tard son TROISIEME MAITRE - la justice, a l'ecole de la gouvernance (1990-94, cf. Trajectoire). [DIVERGENCE RP]
 - Denji - le "grand frere" arrime au foyer (~1997) : recrute avec elle en ancre emotionnelle ; depuis les revelations, il sait ce qu'elle est - et elle aime etre traitee en petite soeur. cf. Trajectoire. [DIVERGENCE RP]
@@ -67,5 +69,8 @@ Note : a part son ORIGINE (fille biologique, non une reincarnation) et son NOM D
 | 1995 (R3) | 10 ans, aussi futee que sa mere et son pere - juste pas aussi experimentee : presentee comme l'ASSISTANTE de Makima malgre son jeune age. | Role officiel au sein de la SP ; ascension a l'ombre de sa mere. |
 | ~1997 (R3) | ANCRE EMOTIONNELLE du recrutement de Denji : elle lui propose d'etre son chien, puis son grand frere apres un regard severe des parents - en jouant la petite fille innocente qu'elle n'a jamais ete. Integre la CELLULE DE COMMANDEMENT de la Division 4 avec ses parents. Cloture de l'arc, la conversation pere-fille : Makoto lui apprend que tout finit par se savoir - quand Denji comprendra ce qu'elle est vraiment, il ne doit pas le vivre comme une trahison, et plus elle tarde a etre sincere, plus ce risque grandit. | Un "grand frere" arrime au foyer ; part prenante du commandement ; premiere lecon sur le prix de la sincerite differee. |
 | ~1997 (R5 - La Bombe) | La FAILLE SERPENT : la ou Reseau oppose son REFUS au Roi (defaire le contrat-canal de Guerre sur Reze est impossible), l'eleve de la gouvernance trouve la voie qui ne viole rien - la devoration du Serpent capte le contrat par conquete, puis le CEDE a l'interessee : auto-detenu, il se dissout. L'operation libere Reze. Au sein de la cellule, elle suit la bataille planetaire a distance par les corbeaux de Makima. Aux revelations faites a Denji, elle met les choses au clair : elle n'est pas une gamine - mais elle aime bien qu'il la traite en petite soeur. | L'heritiere trouve ce que le Roi ne peut forcer : stature d'architecte de solutions ; le lien de petite soeur avec Denji, ne d'un role joue, devient assume. |
+| hiver 1997-1998 (R6 - La Guerre) | Bataille de Tokyo : escortee d'Ange - reintegre a la Division 4, car grande desormais, mentalement plus mure que la quasi-totalite des adultes, elle n'a plus besoin de gardien -, elle est sur place pour dompter le demon CHIEN de la meute du Predateur, trop mignon a ses yeux. Elle le soumet par son autorite, en plus des chiens de Makima ; sa lecture : il incarne l'animal apprivoise - ce qu'il aime, c'est la servitude. Elle rentre au QG avec son demon de compagnie. | Fin du gardiennat d'Ange ; un demon de compagnie a son autorite - la lecture juste d'un concept, en pleine bataille. |
+| hiver 1997-1998 (R6 - La Guerre) | LECON DE POLITIQUE en Enfer : Makoto la prend avec lui pour la descente qui suit la frappe de Poupee - le domaine de Tenebres, la collecte interrompue avant l'encaissement, la menace de REINITIALISATION servie a un Primordial. Apres la purge mondiale, Tenebres livre le pantin-Tolka, dernier receptacle de Poupee : elle le SOUMET - ils verront ce qu'ils en font ensuite. | Temoin directe de la diplomatie du Roi au sommet ; un prisonnier de plus a son autorite (Poupee captive, devenir ouvert). |
+| hiver 1997-1998 (R6 - La Guerre) | Washington : au sein de la cellule, elle suit la mise a mort de Guerre depuis l'helicoptere, avec ses parents et Aki. Devant la Cavaliere a terre - qui insulte le trio royal venu l'achever, puis, desesperee, demande a porter le nom de son choix dans sa prochaine vie -, elle lui fait un CALIN sous les regards surprotecteurs de tous : "a bientot, petite soeur". | Le geste qui scelle l'adieu - et l'attente : la prochaine Guerre est deja, a ses yeux, une petite soeur a venir. |
 
 FIN_WIKI_PERSONNAGES_NAYUTA

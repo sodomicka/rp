@@ -1,6 +1,6 @@
 # Reseau
 
-- version : W4
+- version : W5
 
 Entite [DIVERGENCE RP] - OC promu au lore (pilier du Royaume). Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -30,6 +30,7 @@ Deux modes d'existence.
 - Tissage sans contrat (privilege de la famille Royale) : en sus des canaux contractuels, Reseau TISSE des canaux de dialogue SANS CONTRAT entre la famille Royale et ses sujets. Titulaires : Effroi, Controle, Autorite ; vocation a s'etendre aux Cavalieres reincarnees du quatuor reforme (projet). Eligibilite : la cible reconnait le tisseur comme superieur - meme en refusant de se l'admettre. Tissage discretionnaire et IMPOSE, rien d'automatique : Makoto n'a jamais tisse de fil vers Denji, pas plus que vers les humains qui ignorent qu'il est le Roi ; le sujet ne peut ni le refuser ni l'exiger. Tacite jusqu'au premier usage : le fil n'est SENTI qu'apres la premiere communication. Canal de DIALOGUE uniquement - l'obeissance par canal serait possible, la politique du Roi la REFUSE (ni contrainte, ni peur, ni servitude) et lie toute la famille. Independant des contrats : rupture ou absence de contrat n'affecte en rien le fil. Autres formes de canaux : a peaufiner. [DIVERGENCE RP]
 - Propriete exclusive du Roi : Reseau obeit a Effroi en TOUT, a une seule exception - l'inviolabilite des contrats. C'est son unique carve-out : meme le Roi ne peut lui faire defaire, trahir ou rouvrir a son profit un contrat scelle. C'est ce qui donne de vraies dents aux sentences qu'il garantit - Effroi lui-meme y est lie. TESTE de l'INTERIEUR pour la premiere fois en ~1997, sur demande du Roi lui-meme : il TIENT (cf. Trajectoire). [DIVERGENCE RP]
 - Executeur des sentences : garant des contrats, c'est lui qui applique la clause de sentence a toute violation - il coupe le traitre de ses contrats, de sa force et de Reseau lui-meme pour la duree convenue, ouvrant la fenetre de vulnerabilite. Les canaux TISSES du condamne tombent avec le reste - coupe de Reseau, coupe de ses fils - pour la duree de la fenetre. Ainsi passe par lui la sentence mutuelle du contrat Effroi-Controle (30 s de vulnerabilite absolue au traitre). Trancher le lien releve de sa nature meme (la peur de la rupture du lien). [DIVERGENCE RP]
+- Remontee de toile : ses fils lui permettent de LOCALISER et designer des cibles a l'echelle mondiale sans ouvrir, ecouter ni trahir aucun contrat - il se sert de sa propre nature, aucun contrat remis en question. Demontre a la purge de Poupee (hiver 1997-1998, cf. Trajectoire). [DIVERGENCE RP]
 - PUISSANTS mais NON OFFENSIFS : aucune capacite de combat, negligeable en affrontement direct.
 
 ## Psychologie et manies
@@ -60,5 +61,6 @@ Deux modes d'existence.
 |---|---|---|
 | 2 decembre 1984 (R1 - Le Contrat) | Redige et garantit le contrat Effroi-Controle ; en devient l'executeur de la sentence mutuelle (30 s de vulnerabilite absolue a la partie qui trahit) | Son role structurel s'etend a la garantie d'une sentence qui lie le Roi lui-meme - fait inedit, rendu possible par le carve-out d'inviolabilite |
 | ~1997 (R5 - La Bombe) | Le REFUS au Roi : Makoto lui demande de defaire le contrat-canal que Guerre tient sur l'hybride Reze/Bombe, pour la liberer. REFUS - l'inviolabilite des contrats, son unique carve-out, testee de l'INTERIEUR pour la premiere fois : elle tient, meme face a Effroi. La liberation passe par la faille trouvee par Nayuta (operation Serpent : conquete, cession, dissolution - rien de scelle n'est defait). | Le carve-out demontre en scene contre son propre maitre ; la garantie des sentences - cle Makima comprise - en sort CREDIBILISEE. |
+| hiver 1997-1998 (R6 - La Guerre) | La PURGE de Poupee : premiere activation mondiale COORDONNEE de l'arsenal du Roi (les milliers de contrats sans contrepartie). Reseau REMONTE LES FILS de sa toile - sa propre nature, aucun contrat ouvert ni remis en question, sa regle d'or intacte - et designe les cibles a travers le monde : tout ce qui releve de Poupee. Deux heures suffisent. | La toile demontree en instrument de traque planetaire ; le carve-out intact - remonter ses fils n'est pas les trahir. |
 
 FIN_WIKI_PERSONNAGES_RESEAU

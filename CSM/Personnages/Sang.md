@@ -1,6 +1,6 @@
 # Sang (Power)
 
-- version : W2
+- version : W3
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie. Personnage canon ; le caracterisant est integre, le cycle d'incarnations et les rattachements RP sont balises.
 
@@ -9,7 +9,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Nature : demone ; depuis 1996, Possedee du Sang (demone dans un cadavre de jeune femme ; identite du cadavre inconnue). [CANON - le canon ne nomme jamais la defunte]
 - Concept : la peur du sang - prehistorique (le sang qui coule, la vie qui fuit). Singularite : son concept est aussi la ressource metabolique universelle de l'espece demoniaque (les demons se renforcent en consommant du sang, cf. BIBLE SB1). [CANON + DIVERGENCE RP]
 - Genealogie : engeance directe ANCIENNE d'Effroi, non titree (au meme titre que Predateur et Cataclysme). ELLE-MEME L'IGNORE : amnesique a chaque renaissance, elle ne connaissait deja plus son ascendance des son deuxieme siecle. [DIVERGENCE RP]
-- Statut : recrutee par la Securite Publique, 3e division (1996), sous ultimatum du trone ; agent de terrain de la Division Speciale 4 des sa creation (~1997).
+- Statut : recrutee par la Securite Publique, 3e division (1996), sous ultimatum du trone ; agent de terrain de la Division Speciale 4 des sa creation (~1997) ; DEBRIDEE pour la premiere fois a Washington, sur feu vert du Roi (hiver 1997-1998, cf. Trajectoire).
 
 ## Le cycle seculaire (pattern d'entite) [DIVERGENCE RP]
 - Une incarnation par siecle en moyenne, depuis que les hommes craignent le sang. Chaque iteration renait amnesique, se persuade d'etre la plus forte, finit par entendre parler du Roi, se sent legitime de le defier - et se fait obliterer d'un geste, pour insoumission, insolence et incapacite a s'admettre depassee.
@@ -36,7 +36,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - 1996 : une incarnation jeune et affaiblie prend possession d'un cadavre de jeune femme. Elle s'attache a un chat, Miaouche - qu'elle comptait manger, puis garde : premier attachement de cette vie. Pour la premiere fois depuis des siecles, le Roi la trouve AVANT que la farce ne recommence (cf. Trajectoire datee). [CANON sur Miaouche ; DIVERGENCE RP sur le cadre]
 
 ## Relations de base
-- Effroi / Makoto - son concept d'origine ET son bourreau seculaire ; elle l'ignore doublement. Depuis 1996 : le patron qui l'a mise sous ultimatum. [DIVERGENCE RP]
+- Effroi / Makoto - son concept d'origine ET son bourreau seculaire ; elle l'ignore doublement. Depuis 1996 : le patron qui l'a mise sous ultimatum. A l'hiver 1997-1998 : le patron qui l'a DEBRIDEE pour la premiere fois (feu vert de Washington). [DIVERGENCE RP]
 - Miaouche - son chat. [CANON - nom VF]
 - Chauve-Souris - le ravisseur de Miaouche ; sa mort lui etait RESERVEE par Effroi (dette-recompense a reclamer une fois assez forte) - GACHEE en ~1997 : lachee au test, elle a laisse Denji tuer la bete a sa place. Dette soldee au rabais, non epongee. cf. Trajectoire. [CANON sur l'entite ; DIVERGENCE RP sur la dette]
 - Nayuta / Autorite - le baton de l'ultimatum : trop de chaos, et Autorite la force. [DIVERGENCE RP]
@@ -54,5 +54,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 | 1996 (R3 - L'Autorite) | Possession du cadavre ; attachement a Miaouche ; capture du chat par Chauve-Souris ; remontee via la consigne permanente ; Effroi en personne - il s'amuse du tourment de la demone, libere Miaouche sans tuer Chauve-Souris, arrache le BRAS DROIT du ravisseur en avertissement (un massacre, et la SP se chargera de le tuer), reserve sa mort a Power (dette-recompense, a reclamer une fois assez forte), et pose l'ultimatum : moins de chaos que ses precedentes vies, ou Autorite la force. Power accepte. | Recrutee, 3e division ; dette Chauve-Souris en poche ; sous ultimatum comportemental ; Miaouche recupere. |
 | ~1997 (R3 - L'Autorite) | Creation de la Division Speciale 4 : Power y bascule comme agent de terrain. | Division 4, agent de terrain. |
 | ~1997 (R4 - La Tronconneuse) | Le test du duo : endettee depuis 1996, elle embarque Denji pour buter Chauve-Souris et etre quitte - puis, lache des que personne ne la regarde, laisse tout le boulot a Denji, qui decoupe la bete. Verdict du Roi : la dette n'est PAS epongee - la mort etait reservee a Power, c'est Denji qui l'a prise. Mais si elle reste une agente de la SP sans faire trop de vagues, il la laissera "tranquille". Kishibe l'entraine a la dure, avec Denji. | Dette Chauve-Souris SOLDEE au rabais (recompense gachee) ; a ses ordres sans avoir compris comment - mais tranquille. |
+| hiver 1997-1998 (R6 - La Guerre) | Garde rapprochee VOLONTAIRE de Denji-appat (avec Reze et Aki) face aux Assassins Internationaux. A Washington, DEBRIDEE pour la premiere fois, sur FEU VERT de Makoto : elle sacrifie des humains en masse et SAIGNE LA VILLE en banques de sang pour nourrir et regenerer les siens en continu - et participe largement a la destruction, aux cotes de Kishibe et Reze. | Premier debridage, assume par le trone : l'arme-chaos employee a plein, une ville exsangue au bilan. Toujours "tranquille" tant qu'elle sert sans vagues. |
 
 FIN_WIKI_PERSONNAGES_SANG

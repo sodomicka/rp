@@ -1,6 +1,6 @@
 # Tenebres
 
-- version : W2
+- version : W3
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -8,7 +8,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Nom : Tenebres (demon des Tenebres).
 - Nature : Primordial. Concept : la peur du noir et, par extension, de l'inconnu - de ce qui se cache dedans. [CANON]
 - Genre indetermine. [CANON]
-- Statut : actif, en Enfer. Vassal d'Effroi par respect du plus fort - vassalite conditionnelle (cf. Psychologie).
+- Statut : actif, en Enfer. Vassal d'Effroi par respect du plus fort - vassalite conditionnelle (cf. Psychologie). DESAMORCE a l'hiver 1997-1998 : sous menace de REINITIALISATION, soumission jouee en acte (cf. Trajectoire).
 
 ## Place dans la lignee
 - Engeance directe de Mort, troisieme des Primordiaux (Mort -> Chute -> Tenebres -> Vieillesse) : la peur des monstres qui jaillissent du noir pour tuer. [DIVERGENCE RP]
@@ -36,15 +36,17 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 ## Psychologie
 - La peur de l'inconnu ne s'appuie QUE sur ses certitudes : il ne mise jamais sur ce qu'il ignore. [DIVERGENCE RP]
 - Sa certitude presente : Effroi est plus fort que lui - et plus fort que Mort. Son respect du plus fort est sincere, pas une facade. Sa vassalite tient tant que la certitude tient. [DIVERGENCE RP]
-- Le jour ou il se SENTIRAIT plus fort, il ecrasera Effroi pour le renverser. Une epee de Damocles suspendue au-dessus du trone, qu'Effroi connait depuis la prehistoire. [DIVERGENCE RP]
+- Le jour ou il se SENTIRAIT plus fort, il ecrasera Effroi pour le renverser. Une epee de Damocles suspendue au-dessus du trone, qu'Effroi connait depuis la prehistoire. [DIVERGENCE RP] Epee RETOMBEE a l'hiver 1997-1998 : une certitude nouvelle l'a desamorcee (cf. bullet suivant et Trajectoire).
+- Depuis l'hiver 1997-1998 : une certitude NOUVELLE, installee par le Roi en personne - la prochaine tentative d'affaiblir le trone vaudra mise a mort et REINITIALISATION (des eres de memoire effacees, pire qu'une execution pour l'entite qui n'a jamais connu ni mort ni reincarnation). Pour un esprit qui ne raisonne qu'en certitudes, le calcul ne vaut plus. [DIVERGENCE RP]
 - Ambition : que le monde devienne silence - une pente voisine de celle de Mort, sans alliance possible : son respect va au plus fort, et le plus fort est Effroi. [DIVERGENCE RP]
 - Quasi totalement muet : ne s'exprime qu'en katakana brises, langage d'entite incomprehensible. Attaque tout ce qu'il percoit comme menace ; intelligent et capable de raisonnement (il negocie et honore des contrats). Sa seule presence paralyse - on le sent approcher avant de le voir. [CANON]
 
 ## Relations de base
-- Effroi / Makoto - suzerain respecte par certitude de sa superiorite. Vassalite conditionnelle ; epee de Damocles connue du trone depuis la prehistoire.
+- Effroi / Makoto - suzerain respecte par certitude de sa superiorite. Vassalite conditionnelle ; epee de Damocles connue du trone depuis la prehistoire - RETOMBEE a l'hiver 1997-1998 : pacte de Santa Claus jamais consomme, collecte interrompue par le Roi en personne, menace de reinitialisation, livraison du dernier receptacle de Poupee en gage. DESAMORCE.
 - Mort - le concept dont il decoule. Ambitions voisines (le silence du monde), aucune alliance : il est certain qu'Effroi la surpasse.
 - Chute - autre engeance de Mort ; rivalite latente entre Primordiaux.
 - Vieillesse - autre engeance de Mort ; rivalite latente entre Primordiaux.
+- Poupee / Santa Claus - cocontractante du pacte de l'hiver 1997-1998, jamais consomme ; il a fini geolier puis livreur de son dernier receptacle. cf. Personnages/Assassins_Internationaux.
 
 ## Histoire (jusqu'au perimetre)
 - Prehistoire : nait de Mort, troisieme Primordial - la peur des monstres qui jaillissent du noir pour tuer.
@@ -61,5 +63,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| hiver 1997-1998 (R6 - La Guerre) | Pacte SIGNE avec Santa Claus (la demone Poupee) : un fragment de sa chair pour atteindre Makima, contre des pions de Makoto - notamment des hybrides, livres dans son domaine par le transfert en Enfer. La COLLECTE du prix (le tranchage des bras des presents) est interrompue : Effroi, alerte par Enfer, descend en personne - Nayuta a son cote - et reprend ses pions AVANT l'encaissement. Santa n'a jamais paye ; Tenebres ne doit rien. | Pacte jamais consomme : le prix jamais encaisse, le fragment jamais du - aucune dette de part ni d'autre. L'inviolabilite des contrats reste intacte. |
+| hiver 1997-1998 (R6 - La Guerre) | La menace du Roi, servie dans son propre domaine : a la prochaine tentative de l'affaiblir, Effroi le TUE - pour le REINITIALISER lui aussi, des eres de memoire effacees, pire qu'une execution pour l'entite jamais morte. Tenebres les laisse sortir ; puis il LIVRE a Makoto le pantin-Tolka, dernier receptacle de Poupee encore dans son domaine - la soumission jouee en acte, pas en parole. | DESAMORCE : certitude nouvelle installee (affaiblir le trone = mise a mort et reinitialisation), l'epee de Damocles retombee. Vassalite inchangee en facade - mais le calcul ne vaut plus. |
 
 FIN_WIKI_PERSONNAGES_TENEBRES

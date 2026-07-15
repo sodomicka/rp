@@ -1,6 +1,6 @@
 # Ange
 
-- version : W1
+- version : W2
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle existe dans le monde, independamment d'une partie. Nom : Ange (jamais "Angel").
 
@@ -8,7 +8,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle exi
 - Noms : Ange (demon des anges / Angel Devil).
 - Concept : la peur des anges - un demon ne d'une peur associee au divin, rarete parmi les siens. [CANON]
 - Nature : demon de la peur des anges ; descendance directe d'Effroi sans rattachement (un "mineur" par la lignee, mais redoutable par le pouvoir). Le FORGERON du trone. [CANON + DIVERGENCE RP]
-- Statut : actif sur Terre. Asservi par Controle depuis le XIXe s. (cf. Histoire) ; en decembre 1984, agent de la Securite Publique, Division 3 (l'un des sept renegats de 1983) ; devient le gardien de Nayuta. [CANON + DIVERGENCE RP]
+- Statut : actif sur Terre. Asservi par Controle depuis le XIXe s. (cf. Histoire) ; en decembre 1984, agent de la Securite Publique, Division 3 (l'un des sept renegats de 1983) ; gardien de Nayuta de ~sept 1985 a l'hiver 1997-1998 - gardiennat CLOS, REINTEGRE a la Division 4 (cf. Trajectoire). [CANON + DIVERGENCE RP]
 
 ## Apparence [CANON]
 - Jeune homme androgyne d'une beaute etheree : cheveux roux mi-longs, un HALO flottant au-dessus de la tete, une paire d'AILES BLANCHES dans le dos. Il a tout de l'ange - l'ironie d'un demon ne de la peur des anges.
@@ -44,8 +44,8 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle exi
 ## Relations de base
 - Effroi / Makoto - son Roi, qu'il respecte ; son ancien maitre (il fut son forgeron avant le XIXe s.). C'est pour lui qu'il sert malgre tout. Makoto l'appelle "mon ange" : double sens savoureux - le Roi y entend le POSSESSIF (il le proclame sien, reprend le bien qu'il avait laisse filer au XIXe s.) ; Ange y entend surtout le petit nom TENDRE, et saute a pieds joints dans cette possessivite, trop heureux d'etre enfin cheri par son Roi. [DIVERGENCE RP]
 - Controle / Makima - sa geoliere : elle l'a asservi et lui a fait massacrer les siens. Il la HAIT et la sert a contrecoeur. Depuis la naissance de Nayuta, elle s'adoucit et lui temoigne un semblant de respect - il traite bien sa fille. [DIVERGENCE RP]
-- Nayuta - l'enfant qu'il garde ; elle le malmene et le traite en chien via l'autorite pure, mais il s'attache vite a elle. [DIVERGENCE RP]
-- Securite Publique (Division 3) - son affectation ; l'un des sept renegats de 1983. Kishibe dirige la Division 1 - unites distinctes. [DIVERGENCE RP]
+- Nayuta - l'enfant qu'il a gardee (~sept 1985 - hiver 1997-1998) ; elle le malmenait et le traitait en chien via l'autorite pure, mais il s'est attache a elle. Gardiennat CLOS a l'hiver 1997-1998 : grande desormais, elle n'a plus besoin de gardien. [DIVERGENCE RP]
+- Securite Publique - son affectation ; l'un des sept renegats de 1983. Division 3 (1984), puis Division 4 depuis l'hiver 1997-1998 (reintegration post-gardiennat). Kishibe dirige la Division 1 - unites distinctes. [DIVERGENCE RP]
 
 ## Implications d'arc
 - R2 exige qu'au point de depart Ange soit deja : asservi par Makima depuis le XIXe s., forgeron d'armes-ames, en Division 3, haineux envers Makima mais loyal au Roi - faute de quoi il ne pourrait devenir le gardien de Nayuta ni porter la dynamique de R2. Couvert par le NOYAU et l'Histoire.
@@ -57,5 +57,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle exi
 |---|---|---|
 | ~sept 1985 (R2) | Designe gardien de Nayuta. A la naissance de l'enfant, il s'agenouille sous son premier ordre. | Passe d'agent asservi a gardien attitre de l'heritiere. |
 | 1985-1989 (R2) | Garde quotidienne de Nayuta, qui le malmene et le traite en chien via l'autorite pure. Il s'attache a elle ; sa severite fond ; Makima s'adoucissant, son hostilite se calme. | Il se rechauffe et regresse peu a peu en un demon plus enfantin et naif que la petite. |
+| hiver 1997-1998 (R6 - La Guerre) | REINTEGRE a la Division 4 : Nayuta, grande desormais et mentalement plus mure que la quasi-totalite des adultes, n'a plus besoin de gardien. Premiere mission du retour : l'ESCORTE de Nayuta a la bataille de Tokyo - ou l'heritiere soumet le demon Chien de la meute du Predateur. | Gardiennat CLOS (~sept 1985 - hiver 1997-1998) ; agent de la Division 4 a part entiere. |
 
 FIN_WIKI_PERSONNAGES_ANGE

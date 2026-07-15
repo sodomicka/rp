@@ -1,6 +1,6 @@
 # Aki Hayakawa
 
-- version : W4
+- version : W5
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie. Personnage canon ; le caracterisant est integre, la datation et les rattachements RP sont balises.
 
@@ -8,7 +8,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Nom : Aki Hayakawa.
 - Nature : humain ; enfant civil sur la periode couverte, orphelin de l'attaque de Flingue.
 - Naissance : 1975 - choix du worldbuilder, le canon ne donne JAMAIS son age (aucune contrainte canon sur la datation). Il a 9 ans a l'attaque du 18 novembre 1984 (1984 - 1975), 14 ans au signalement de 1989, 15 a son entree a la Securite Publique (1990), 22 en 1997. [DIVERGENCE RP sur la datation ; CANON muet]
-- Statut : pupille d'un refuge de la Securite Publique pour victimes (officiellement de l'aide aux victimes, en pratique un vivier de recrutement). Devenir : Devil Hunter en 1990, Division 2, puis Division 4 a sa creation (~1997) - cf. Trajectoire. [DIVERGENCE RP]
+- Statut : pupille d'un refuge de la Securite Publique pour victimes (officiellement de l'aide aux victimes, en pratique un vivier de recrutement). Devenir : Devil Hunter en 1990, Division 2, puis Division 4 a sa creation (~1997) ; EXECUTEUR de Guerre a l'hiver 1997-1998 - cf. Trajectoire. [DIVERGENCE RP]
 
 ## Apparence
 - Cheveux noirs mi-longs noues en chignon haut, yeux bleus ; silhouette qui s'affine et s'allonge avec l'age. Le socle canon (jeune homme grave, tire a quatre epingles) decrit son apparence adulte, posterieure a la periode couverte. [CANON]
@@ -26,6 +26,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Taiyo - son petit frere, tue le 18 novembre 1984. [CANON]
 - Ses parents - tues le meme jour, sous ses yeux. [CANON]
 - Flingue - l'ennemi de sa vie : le demon qui a tue sa famille. [CANON]
+- Guerre / Yoru - la Cavaliere dont decoulent toutes les armes, commanditaire de l'attaque qui a tue Himeno (~1997). Il l'ACHEVE a Washington (hiver 1997-1998) : le crachat pour Himeno, la promesse de proteger la prochaine, la demande de parrainage. cf. Trajectoire. [DIVERGENCE RP]
 - Himeno - cheffe de la Division 2 ; le signale au couple regnant en 1989 ; sa mentor puis BINOME a son entree en Division 2 (1990), sous condition d'observation qu'elle pose elle-meme jusqu'a sa majorite (1995). cf. Personnages/Himeno. [CANON sur le mentorat ; DIVERGENCE RP sur le cadre]
 - Kishibe - en canon, c'est lui qui presente Aki a Himeno et qui l'entraine ; chemin retenu ici : signalement d'Himeno (1989) + huis clos de 1990, dont Kishibe est le pivot ("on condamne un meurtrier, pas son arme") - le battement canon du cimetiere n'a pas ete convoque, jouable a la table si envie. cf. Personnages/Kishibe. [CANON + DIVERGENCE RP sur le chemin]
 - Securite Publique - le refuge qui le recueille en 1984 ; son employeur des 1990. cf. Factions/Securite_Publique. [DIVERGENCE RP]
@@ -47,5 +48,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 | ~1997 (R3) | Bascule en 4e Division Speciale a sa creation : agent de terrain, Himeno seconde d'escouade a ses cotes. | Rattache a la division construite autour de Denji, l'hybride de Tronconneuse. |
 | ~1997 (R4 - La Tronconneuse) | Mission Eternite : poignarde par Kobeni qui craque (en visant Denji). Attaque de Guerre, au restaurant : il lance la Renarde sur Katana Man - elle ROMPT son contrat en plein combat (gout des hybrides, refus de mordre les outils de Makoto) ; il demonte l'hybride aux lames vaudoues ; Sawatari le releve ; Aki est fauche. Himeno, touchee a mort, donne son corps entier a Ghost pour le sauver. A l'hopital : contrat AVENIR impose et supervise par Makoto - le demon dans l'oeil droit, sans contrepartie. Raid final : porte par le souvenir d'Himeno, il affronte Ghost sans peur, recoit d'elle une derniere cigarette, et le decapite. Concours de coups de pied sur Tetsuo capture, avec Denji. | Renarde perdue ; Avenir dans l'oeil droit ; orphelin d'Himeno - le binome qui le tenait depuis 1990 est mort pour lui. Tchekhov vaudou intact (son ame due en fin de carriere). |
 | ~1997 (R5 - La Bombe) | L'operation Reze : tenu dans la confidence du CALCUL, avec Kishibe - le recit des confidents, plus complet que la version publique et que celle servie a Denji : epuiser les atouts de Guerre, qu'importe le prix. Le prix, il le connait : la 2e division - sa division d'origine - massacree jusqu'au dernier ; il en est desormais le dernier membre historique vivant, deja en Division 4. | Confident du calcul ; sa division d'origine rayee de l'organigramme - de la Division 2, il ne reste que lui. |
+| hiver 1997-1998 (R6 - La Guerre) | Garde rapprochee VOLONTAIRE de Denji-appat (avec Reze et Power) face aux Assassins Internationaux. A Washington, il suit la mise a mort de Guerre depuis l'helicoptere avec le trio royal, puis descend avec lui : le trio lui laisse L'HONNEUR D'ACHEVER la Cavaliere - l'orphelin de Flingue execute le concept dont decoulent toutes les armes, la commanditaire de l'attaque qui a tue Himeno. Il crache sur son cadavre a la memoire d'Himeno, puis PROMET de proteger la prochaine - qu'il n'y ait plus d'autres orphelins comme lui - et demande a etre le PARRAIN de la future Guerre. | L'executeur d'une Cavaliere ; le deuil d'Himeno crache puis mue en serment - un parrainage demande sur un berceau encore introuvable. |
 
 FIN_WIKI_PERSONNAGES_AKI

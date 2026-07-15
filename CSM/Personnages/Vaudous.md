@@ -1,6 +1,6 @@
 # Vaudous
 
-- version : W4
+- version : W5
 
 Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demons installes en divinites vaudoues - Machette, Aiguille, Griffe - tels qu'ils existent dans le monde, independamment d'une partie. En canon, seuls leurs noms et leurs contrats avec Kishibe existent (chap. 61) ; tout le reste est construction RP.
 
@@ -14,6 +14,7 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demo
 - Engeances de Guerre, comme TOUTES les armes. [DIVERGENCE RP]
 - Regle du plancher (regle du monde) : on ne craint pas un outil mais une arme, et l'outil ne devient arme qu'avec Guerre - avant elle, le couteau est un outil de chasse, pas une arme entre hommes. Aucun demon-arme ne precede la Cavaliere. [DIVERGENCE RP]
 - Ordre de naissance interne : Machette, puis Aiguille, puis Griffe. [DIVERGENCE RP]
+- Sous-lignees (actees au build R6) : les armes engendrent a leur tour - Machette -> SURIN (la lame improvisee) ; Aiguille -> CORDE (la strangulation discrete de l'assassin) et POUPEE (la peur des poupees, nee du domaine de l'envoutement - la poupee de projection percee). La lignee n'est pas l'allegeance : Aiguille, relais fidele du trone, n'a jamais ete complice de son engeance Poupee, qui a tue pour Guerre (precedent Predateur). cf. Systemes/Genealogie, Personnages/Armes (Surin, Corde) et Personnages/Assassins_Internationaux (Poupee). [DIVERGENCE RP]
 - Allegeance : fideles au trone. Ils descendent de Guerre mais la jugent trop impulsive, pas assez calculatrice ; Effroi est plus malin qu'eux, et c'est cela qu'ils respectent. [DIVERGENCE RP]
 
 ## Postes terrestres
@@ -56,6 +57,7 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demo
 - Genre : masculin. [DIVERGENCE RP]
 - Naissance : la premiere lame de l'homme - l'aine des trois, ne a l'aube des societes, apres Guerre. [IMPLICITE]
 - Poste : Louisiane, en Baron Samedi. [DIVERGENCE RP]
+- Engeance : Surin, la lame improvisee (sous-lignee, cf. Place dans la lignee). [DIVERGENCE RP]
 - Forme divine : squelette dandy - haut-de-forme, queue-de-pie elimee, lunettes noires, cigare. [DIVERGENCE RP - design valide par le worldbuilder]
 - Forme veritable : grand corps decharne d'os noircis, avant-bras en machettes rouillees, sourire de crane fendu. [DIVERGENCE RP - design valide par le worldbuilder]
 - Psychologie propre : le jouisseur theatral - humour noir et obscene, grivois, en scene permanente. [DIVERGENCE RP]
@@ -65,6 +67,7 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demo
 - Genre : feminin. [DIVERGENCE RP]
 - Naissance : deuxieme des trois - l'envoutement par figurine percee est antique. [IMPLICITE]
 - Poste : Haiti, en Maman Brigitte. [DIVERGENCE RP]
+- Engeances : Corde, la strangulation discrete de l'assassin, et Poupee, la demone fragmentee des Assassins Internationaux (sous-lignee, cf. Place dans la lignee - aucune complicite d'Aiguille). [DIVERGENCE RP]
 - Forme divine : femme rousse flamboyante au teint blafard, foulard violet, reine des cimetieres. [DIVERGENCE RP - design valide par le worldbuilder]
 - Forme veritable : poupee de chiffon geante a silhouette feminine, chair cousue de gros fil, herissee d'aiguilles plantees. [DIVERGENCE RP - design valide par le worldbuilder]
 - Psychologie propre : la cruaute precise - langue de vipere, fait durer la douleur a distance. [DIVERGENCE RP]
@@ -96,6 +99,7 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demo
 - Aki Hayakawa - SECOND contractant notoire de la Securite Publique (1990), triple contrat au prix standard du trio ; propose par Makoto en lieu et place de Malediction. cf. Personnages/Aki et Trajectoire. [DIVERGENCE RP - remplace le contrat canon Malediction]
 - Tronconneuse / Pochita - adversaire de la bataille, cible du guet.
 - Les hybrides du trone (cf. Armes, Arc/Quanxi) - volet ACTIF de la meme chasse ; les Vaudous en sont le volet passif.
+- Surin, Corde et Poupee - engeances de Machette et d'Aiguille (sous-lignees) ; toutes trois ont servi le camp de Guerre a l'hiver 1997-1998 (contrats du trio americain, reseau Santa Claus), sans complicite de leurs concepts d'origine. Poupee ANEANTIE sauf son dernier receptacle (captif du trone) ; les contrats de Surin et Corde morts avec le trio. [DIVERGENCE RP]
 
 ## Implications d'arc
 (Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
