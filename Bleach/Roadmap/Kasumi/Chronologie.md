@@ -1,6 +1,6 @@
 # Chronologie des roadmaps - Kasumi Kyoraku
 
-- version : W1
+- version : W2
 - role : GARDE-CAP de la campagne. Decoupage R0 -> R7 DICTE par le worldbuilder (thread Passe 2). Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de Passe 2) ; les [A POSER] listes ici s'y tranchent.
 - convention de nommage (actee) : chaque roadmap porte un nom thematique, le pivot de l'arc.
 - prota / POV : Kasumi Kyoraku.
@@ -12,7 +12,7 @@
 - Fenetre RP : R0 (quelques semaines avant la nuit de -101) -> R7 (ere Enfer, +12).
 - Calage : R0-R1 a -101. R2 : -101 -> 0 (~101 ans). R3 : annee 0. R4 : 0 -> +1. R5 : +1 -> ~+2. R6 : ~+2. R7 : +2 -> +12.
 
-## R0 - La Routine [A BUILDER ; jouable]
+## R0 - La Routine [BUILDE : Roadmap_0_La_Routine.md W2 ; jouable]
 - Bornes : reveil sur les toits -> fin de soiree chez Genryusai. Une journee, quelques semaines avant la nuit de -101.
 - Jalons dictes : matinee sur les toits (boire, se blottir), Lisa en rappel a l'ordre ; conseil des capitaines (10 min de retard) - les disparitions du Rukongai inquietent, insolence competente du duo (pragmatisme sur l'enquete a confier a la division de Kensei), presence justifiee malgre ce qu'ils sont ; passage a l'academie - Nanao, majore de promo, promise a la 8e, pressentie 3e siege ; planque dans les jardins de la 13e, Ukitake offre a boire ; depart a trois pour la 1re, soiree des anciens chez Genryusai (cercle : Yamamoto, Sasakibe, Unohana + le trio - derniers vestiges de la guerre).
 - Fonction : journee typique des deux ivrognes, routine quasi millenaire jamais lassante. La normalite avant qu'Aizen ne demolisse le statu quo.
@@ -20,11 +20,11 @@
 - [A POSER] : casting fin de la soiree des anciens.
 - Fichier : Roadmap_0_La_Routine.md
 
-## R1 - La Nuit [A BUILDER ; jouable]
-- Conditions de depart : quelques semaines apres R0 ; l'enquete de la 9e s'enlise, les disparitions continuent (l'entre-deux vit ici, pas en jeu).
-- Bornes : soiree a trois chez Ukitake -> reveil dans la grotte-planque d'Urahara a Karakura (une nuit + trou noir).
-- Jalons dictes : un membre de la 8e apporte un rapport, Shunsui ivre mort, Kasumi le ramene a la 8e ; Lisa introuvable alors qu'elle devrait y etre - Kasumi affine sa lecture et la piste ; le groupe d'enquete secret de Yamamoto (agents dormants places contre la presence Hollow sentie dans la foret apres le Rukongai) : engueulade de Lisa, accueil de Shinji ("une doyenne a bord") ; le couple avait ete ecarte pour son imprevisibilite, pas par doute ; attaque d'un Kensei masque - Kasumi protege, ordonne de degager, bankai INOPERANT (decouverte a chaud du paradoxe de Nagomi), griffure, perte de connaissance ; passagere de son propre corps, elle demolit l'equipe, s'effondre d'epuisement ; Tosen intervient : neutralise Kasumi-hollow, met KO tous les transformes ; bribe de conscience - Kisuke confronte Sosuke ; noir. Condamnation et exfiltration (Yoruichi, Tessai) hors conscience : on les lui racontera.
-- Resout : mystere SB8 (capture de Kasumi a -101). REVISION du declencheur : Lisa introuvable a la 8e puis pistee (et non "reiatsu evanoui") - patch BIBLE SB5/SB8 a venir.
+## R1 - La Nuit [BUILDE : Roadmap_1_La_Nuit.md W2 ; jouable]
+- Conditions de depart : quelques semaines apres R0 ; l'enquete de la 9e s'enlise ; le jour meme, hors camera : Hollow geant abattu (le petit Hisagi sauve), uniformes vides d'une equipe avancee, Hiyori designee pour les echantillons (partie seule), l'unite de la 9e campe sur zone.
+- Bornes : beuverie du trio chez Ukitake -> reveil dans la grotte-planque a Karakura (une nuit + trou noir ~1-2 jours ; le reveil, charniere partagee, se joue a l'ouverture de R2).
+- Jalons : jigokucho d'urgence (l'unite de la 9e massacree hors camera, reiatsu evanouis) ; reunion de nuit - equipe Shinji/Rose/Love, objection du couple (pas les deux tetes du Kido Corps) -> Hachi seul, Lisa (qui espionne, le couple le sait) proposee et envoyee ; defense du Seireitei : Ginrei, Ukitake, le couple ; Unohana consignee a la 4e, Urahara consigne ; manigance du couple (taupe interne soupconnee) : Kasumi file Lisa, Shunsui couvre, en douce de tous ; Shunsui croise "Aizen" (doublure Kyoka Suigetsu) - l'alibi se plante ; foret de Fugai : Kensei et Mashiro seuls assaillants, coups retenus ; Kasumi surgit sur l'attaque de Lisa, bankai, "une doyenne a bord" (Shinji), arrogance, MASQUE COMPLET = FILTRE (detonation du Paradoxe de Nagomi), contre de Kensei, premiere a tomber ; Hachi ligote les deux ; bankai de Tosen, Shinji massacre comme les autres ; reveles Aizen/Gin/Tosen, jubilation, hollowification hors champ, Kasumi 9e cobaye ; bribe unique : le trio la regarde, le masque blanc couvre sa vision, noir ; hors conscience : Urahara/Tessai, stabilisation Hogyoku, proces - le temoignage de Shunsui fait l'alibi d'Aizen, les neuf condamnes, esclandre PUR de Shunsui (paravent involontaire, compris apres coup), reproche prive de Genryusai (la manigance a condamne un shinigami de plus), evasion Yoruichi, interdiction du monde des vivants signifiee a Shunsui.
+- Resout : SB8 capture de Kasumi (version canon-first) ; SB8 immunite au bankai SOLDEE (Hollows non-respirants / masque-filtre).
 - Fichier : Roadmap_1_La_Nuit.md
 
 ## R2 - L'Exil [A BUILDER ; jouable, gros blocs SNAPSHOTS]
@@ -36,6 +36,7 @@
 ## R3 - Les Retrouvailles [A BUILDER ; jouable]
 - Bornes : arrivee de Rukia -> la nuit des retrouvailles (annee 0).
 - Jalons dictes : Rukia passe du temps avec Kurosaki, lui donne ses pouvoirs ; intervention de Byakuya - les Vizards se planquent quand Kasumi reconnait son reiatsu ; Kisuke entraine Ichigo ; Kisuke passe au bar en fin d'apres-midi, raconte la situation - verdict des Vizards : pas assez mur pour etre forme, Ichigo suit sa trajectoire canon ; arc Soul Society hors camera ; LES RETROUVAILLES : fin d'apres-midi, quelqu'un passe la porte, Kasumi ronchonne (surement Kisuke qui brise le rituel de famille dysfonctionnelle), Shinji evacue le groupe ("on laisse la patronne seule"), Kasumi sort de la cuisine - Shunsui en gigai, le verre lui tombe des mains ; bar ferme, nuit de passion au salon prive, recits croises d'un siecle (CONVERGENCE DES ENQUETES PARALLELES, Tchekhov SB8) ; aveu de Shunsui : failli la tromper au fond du gouffre, ivre, demi-tour alors qu'une jeune shinigami attendait derriere la porte ; aveu en miroir de Kasumi : le temps long, mais aucun humain ni Vizard a son gout, par chance ; Shunsui expose le plan de Yamamoto : reconstruire le Seireitei, attaquer le Hueco Mundo ; certains qu'Aizen ne se fera pas avoir dans sa propre forteresse -> plan de la Fausse Karakura.
+- Mecanisme des retrouvailles [acte au build R1] : le retour de Shunsui est declenche par le FEU VERT + GIGAI donnes par Yamamoto, premiere decision apres la trahison d'Aizen - il comprend qu'il a failli detruire le couple de ses deux preferes sur un mensonge et une illusion (leve l'interdiction du monde des vivants posee a -101).
 - Resout : [A POSER] retrouvailles - date ACTEE, post-arc SS, avant la guerre d'hiver.
 - Fichier : Roadmap_3_Les_Retrouvailles.md
 
