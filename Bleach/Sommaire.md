@@ -1,10 +1,20 @@
 # Sommaire - Bleach
 
-- version : W2
+- version : W3
 
 ## WIKI
 
 > Chaque entree porte la version (W<N>) de la page : inventaire de versions. Un ecart entre ce W<N> et celui ecrit dans la page elle-meme signale une copie perimee (canari, non bloquant).
+
+### (racine)
+Description : pages de travail et index.
+- _Implications.md (W2) - journal de travail du build (jamais fetche en narration)
+
+### Roadmap/Kasumi/
+Description : garde-cap et sources de build de la campagne Kasumi (Passe 2).
+- Chronologie.md (W1) - GARDE-CAP du decoupage R0 -> R7 dicte par le worldbuilder : bornes, jalons et [A POSER] de chaque arc ; tres sollicitee en Passe 2
+
+> Les roadmaps d'arc (R0 La Routine -> R7 L'Enfer, toutes [A BUILDER]) resteront NON indexees (v8.2) : sources de build uniquement, lues par listing de dossier, jamais fetchees en narration.
 
 ### Cosmologie/
 Description : les mondes et leur fonctionnement structurel.
@@ -32,7 +42,7 @@ Description : groupes, institutions et armees.
 
 ### Chronologie/
 Description : trame temporelle de la fenetre RP.
-- Chronologie_Generale.md (W1) - de la fondation de l'academie a l'ere Enfer
+- Chronologie_Generale.md (W2) - de la fondation de l'academie a l'ere Enfer
 
 ### Personnages/
 Description : fiches d'entites (noyau + trajectoire datee). Passe 1 livree : strate NOYAU (<= point de depart), trajectoires vides, alimentees en Passe 2.
@@ -60,7 +70,7 @@ Description : fiches d'entites (noyau + trajectoire datee). Passe 1 livree : str
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de prota. Chargees une fois a l'ouverture de thread. Navigation par chainage local (arc precedent / arc suivant). Passe 3 a venir.
 - [aucune page encore]
 
-> ROADMAPS NON INDEXEES EN JEU. Le dossier Roadmap/Kasumi/ n'est pas liste au Sommaire : sources de build uniquement, lues en listant le dossier (cf. ACCES GITHUB), jamais fetchees en narration.
+PASSE 1 CLOTUREE (B2). PASSE 2 EN COURS : decoupage R0 -> R7 ACTE et grave au garde-cap (Roadmap/Kasumi/Chronologie.md, W1, indexe supra) - R0 La Routine, R1 La Nuit, R2 L'Exil, R3 Les Retrouvailles, R4 La Fausse Karakura, R5 La Reforme, R6 La Guerre Sanglante, R7 L'Enfer. Aucune roadmap d'arc ecrite. PROCHAIN : BIBLE build B3 (dette listee en _Implications, section Corrections actees), puis build R0 en boucle serree ; cloture Passe 2 (relecture croisee) ; Passe 3 (fiches d'arc) ; CODEX V1 ; SETUP.
 
 ## PARTIES (Partie1)
 
