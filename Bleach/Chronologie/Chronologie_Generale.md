@@ -1,18 +1,20 @@
 # Chronologie_Generale
 
-- version : W1
+- version : W2
 
 Reference : annee 0 = debut de l'ere canon (Ichigo shinigami remplacant). Correspondance gregorienne ~2001 [INCERTAIN : databooks].
 
 | Date/Ere | Evenement | Consequence |
 |---|---|---|
 | ~-2100 | Fondation de l'academie Shin'o par Yamamoto [INCERTAIN : chiffre databook] | Institutionnalisation de la formation shinigami |
-| ~-2000 | [DIVERGENCE RP] Premiere generation d'eleves : Shunsui Kyoraku, Jushiro Ukitake, Kasumi Kamo | Le noyau du futur Gotei "moderne" se forme |
-| avant -1000 | [DIVERGENCE RP] Kasumi et Shunsui en couple ; promesse de mariage s'ils survivent a la guerre | |
-| ~-1000 | Guerre contre Yhwach et les Quincy. Gotei originel (Yamamoto, Yachiru Unohana, "tueurs impitoyables"). Yhwach vaincu, scelle (Kaiser Gesang : 900 ans pouls, 90 raison, 9 puissance) | Compte a rebours du retour Quincy |
-| ~-1000 | [DIVERGENCE RP] Mariage de Kasumi et Shunsui, peu apres la guerre. Extinction du clan Kamo | Plus vieux couple du Seireitei |
-| apres -1000 | [DIVERGENCE RP] Kasumi lieutenante de Shunsui (8e) durant des siecles, puis co-capitainat cree par Yamamoto [date a fixer] | Titre unique de l'histoire du Gotei |
-| [non date] | [DIVERGENCE RP] Penitence "Vasto Lorde" : Yamamoto surprend les epoux sur le toit de la 1re, les envoie chasser des Vasto Lorde [datation a fixer] | Etalon de puissance du duo |
+| ~-2000 | Serment de Chojiro Sasakibe envers Yamamoto (ecole privee ; bankai atteint en un mois, garde secret par deference) | Futur bras droit de la 1re division |
+| ~-1400 a -1300 | [DIVERGENCE RP] Naissances de Shunsui Kyoraku, Jushiro Ukitake et Kasumi Kamo, dans une Soul Society d'avant-guerre chaotique | Le futur trio grandit dans le chaos ; Kasumi dans son 14e siecle a l'ere Kurosaki |
+| ~-1000 | Guerre contre Yhwach et les Quincy, sur plusieurs decennies. Gotei originel (Yamamoto, Yachiru Unohana, "tueurs impitoyables"). Yhwach vaincu, scelle (Kaiser Gesang : 900 ans pouls, 90 raison, 9 puissance) | Compte a rebours du retour Quincy |
+| ~-1000 (guerre) | [DIVERGENCE RP] Le trio, enfants puis jeunes ados, planque sous protection du Gotei - Sasakibe en particulier - parmi d'autres enfants, dont l'aine des Kyoraku | Lien d'enfance trio-Sasakibe |
+| ~-1000 (guerre) | [DIVERGENCE RP] Kasumi et Shunsui, jeunes ados, en couple ; promesse de mariage s'ils survivent a la guerre | |
+| apres -1000 | [DIVERGENCE RP] Academie Shin'o du trio, APRES la guerre. Puis mariage de Kasumi et Shunsui ; extinction du clan Kamo | Plus vieux couple du Seireitei |
+| apres -1000 | [DIVERGENCE RP] Kasumi lieutenante de Shunsui (8e) durant des siecles. La "nouvelle" Soul Society se batit sur plusieurs siecles, evolution lente | |
+| ~-350 | [DIVERGENCE RP] Scandale de la debauche sur le toit de la 1re division, ETOUFFE -> penitence "Vasto Lorde" en duo -> fusion des postes en co-capitainat par Yamamoto (damage control). Lisa Yadomaru lieutenante 8e (academie ~-390, 3e siege ~-365). Dans le secret : le trio, Lisa, Yamamoto - personne d'autre | Titre unique de l'histoire du Gotei ; puissance reelle du duo cachee au Seireitei ; etalon de puissance du couple |
 | ~-200 | Extermination des Quincy par les shinigami | Survivants disperses (lignees Ishida...) |
 | ~-150/-110 | Naissance et adoption de Nanao Ise dans l'orbite de la 8e [INCERTAIN : dates fines] ; mariage du frere aine de Shunsui avec la mere de Nanao, mort premature (malediction Ise) | Nanao niece par alliance de Shunsui |
 | -110 | Kirio Hikifune promue Division Zero. Kisuke Urahara capitaine de la 12e. Fondation du SRDI | |
@@ -31,6 +33,7 @@ Detail des etapes par arc : cf. Bleach/Roadmap/Kasumi/ (Passe 2, a venir).
 
 ### Notes
 - Correspondance gregorienne : 0 ~2001 -> incident -101 ~1900 (Japon Meiji). L'exil traverse le XXe siecle humain entier [IMPLICITE : zone vide du canon, libre pour le prologue].
+- [DIVERGENCE RP] Ages du trio : nes ~-1400/-1300, enfants puis jeunes ados durant la guerre ~-1000 (vieillissement tres lent des ames) ; Kasumi a ~1300-1400 ans a l'ere Kurosaki, ~1200-1290 au point de depart.
 - +10 : epilogue canon (Kazui Kurosaki, Ichika Abarai, Rukia capitaine 13e) - inclus dans la ligne post-TYBW.
 - La datation fine des arcs canon (mois, saisons) sera portee par les roadmaps, pas par cette table.
 
