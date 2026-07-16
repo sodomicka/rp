@@ -4,26 +4,22 @@ Journal de travail. Jamais fetche en narration.
 
 ## En attente de decision worldbuilder
 - Justification in-world de l'immunite des Hollows au bankai de Kasumi (mystere ouvert SB8).
-- Modalites de la capture de Kasumi a -101 : PARTIELLEMENT RESOLU. Declencheur acte : le reiatsu de Lisa disparait, Kasumi s'inquiete et sort enqueter cette nuit-la - c'est ainsi qu'elle tombe. Details de la capture elle-meme : Passe 2 (prologue).
+- Modalites de la capture de Kasumi a -101 : PARTIELLEMENT RESOLU. Declencheur acte et grave (BIBLE B2) : le reiatsu de Lisa disparait, Kasumi s'inquiete et sort enqueter cette nuit-la. Deroulement de la capture elle-meme : Passe 2 (prologue).
 - COLLISION CANON A ARBITRER (Passe 2) : post-TYBW, le canon fait de Lisa la capitaine de la 8e. L'existence de Kasumi percute ce point de front.
 - Retrouvailles Kasumi/Shunsui : date et circonstances a decider (Passe 2).
-- Cumul de scellements de Nagomi grave [IMPLICITE] en fiche (le compteur repart apres scellement, un second scellement peut courir en parallele) : veto worldbuilder possible.
+- Cumul de scellements de Nagomi grave [IMPLICITE] en fiche (le compteur repart apres scellement, un second scellement peut courir en parallele) : veto worldbuilder possible. NON grave en BIBLE.
 
 ## A verifier avant gravure
-- Date de fondation de l'academie Shin'o (~-2100, databook) -> confirmer si un arc s'y adosse. Compatible avec la nouvelle timeline : le trio entre a l'academie apres la guerre (~-1000), il n'est plus "1re generation".
+- Date de fondation de l'academie Shin'o (~-2100, databook) -> confirmer si un arc s'y adosse.
 - Lieutenants de l'ere Pendulum marques [INCERTAIN] dans Gotei_13.md (Omaeda pere, Chikane Iba, Jin'emon Kotsubaki).
 - Passage Yachiru -> Retsu Unohana : datation volontairement elastique, non fixee.
 - Datation de la rencontre Unohana / jeune Zaraki (cicatrice) : non fixee, anterieure ou posterieure au point de depart.
 
+## A reporter au prochain refresh du Sommaire
+- Chronologie_Generale.md passee en W2 (timeline trio revisee) : mettre a jour sa version au Sommaire.
+
 ## Corrections actees (BIBLE a mettre a jour au prochain BIBLE build)
-- L'incident d'hollowification date de -101 (9 ans apres la nomination d'Urahara a -110), pas de -110. Grave partout en -101.
-- SB3 "~-2000 : 1re generation d'eleves" : PERIME. Nouvelle timeline actee : trio (Kasumi, Shunsui, Ukitake) ne entre ~-1400 et ~-1300 (dans son 14e siecle a l'ere Kurosaki) ; enfance planquee durant la guerre Quincy (~-1000) sous protection du Gotei - Chojiro Sasakibe en particulier - parmi d'autres enfants dont l'aine des Kyoraku ; academie et mariage APRES la guerre.
-- SB5 "Kasumi ~2000 ans" : PERIME -> ~1300-1400 ans a l'ere Kurosaki (~1200-1290 au point de depart).
-- SB3 dates fixees : scandale de la debauche sur le toit de la 1re division -> penitence Vasto Lorde (en duo) -> fusion des postes en co-capitainat par Yamamoto (damage control). Le tout ~-350. Lisa lieutenante ~-350.
-- SB3 guerre Quincy : preciser la duree (plusieurs decennies).
-- SB1/SB7 Nagomi, mecanique enrichie : reset du compteur = scellement declenche, coup a une cible tierce (vivant ou objet), ou rengainage. Une parade par le zanpakuto de la cible ne compte ni ne reinitialise ; toute autre interposition vaut cible tierce. Duree du scellement ~3h.
-- SB1/SB8 pacte du Kitsune : entite feminine (miroir masque de Kasumi) -> reformuler "au Kitsune la boucherie, a Kasumi la maitrise".
-- SB7 masque : l'etat hollow dominant allume aussi les orbites (yeux vulpins mauve-or), en plus du 3e oeil.
+- (vide - lot precedent integre en BIBLE B2 et Chronologie_Generale W2.)
 
 ## Decisions actees (rappel)
 - Perimetre canon : manga + TYBW + one-shot Enfer. Ni novels, ni fillers, ni films.
