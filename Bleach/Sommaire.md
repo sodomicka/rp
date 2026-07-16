@@ -1,20 +1,18 @@
 # Sommaire - Bleach
 
-- version : W3
+- version : W4
 
 ## WIKI
 
-> Chaque entree porte la version (W<N>) de la page : inventaire de versions. Un ecart entre ce W<N> et celui ecrit dans la page elle-meme signale une copie perimee (canari, non bloquant).
+> Chaque entree porte la version (W<N>) de la page ; un ecart avec la version ecrite dans la page signale une copie perimee (canari, non bloquant).
 
 ### (racine)
 Description : pages de travail et index.
-- _Implications.md (W2) - journal de travail du build (jamais fetche en narration)
+- _Implications.md (W3) - journal de travail du build (jamais fetche en narration)
 
 ### Roadmap/Kasumi/
-Description : garde-cap et sources de build de la campagne Kasumi (Passe 2).
-- Chronologie.md (W1) - GARDE-CAP du decoupage R0 -> R7 dicte par le worldbuilder : bornes, jalons et [A POSER] de chaque arc ; tres sollicitee en Passe 2
-
-> Les roadmaps d'arc (R0 La Routine -> R7 L'Enfer, toutes [A BUILDER]) resteront NON indexees (v8.2) : sources de build uniquement, lues par listing de dossier, jamais fetchees en narration.
+Description : garde-cap et sources de build de la campagne Kasumi (Passe 2). Les roadmaps d'arc (R0 La Routine -> R7 L'Enfer, toutes [A BUILDER]) restent non indexees (v8.2) : sources de build lues par listing de dossier, jamais fetchees en narration.
+- Chronologie.md (W1) - GARDE-CAP du decoupage R0 -> R7 dicte par le worldbuilder : bornes, jalons et [A POSER] de chaque arc
 
 ### Cosmologie/
 Description : les mondes et leur fonctionnement structurel.
@@ -67,24 +65,10 @@ Description : fiches d'entites (noyau + trajectoire datee). Passe 1 livree : str
 - Retsu_Unohana.md (W1) - capitaine 4e, premiere Kenpachi, Minazuki, fiche veridique
 
 ### Fiches_Arc/Kasumi/
-Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de prota. Chargees une fois a l'ouverture de thread. Navigation par chainage local (arc precedent / arc suivant). Passe 3 a venir.
-- [aucune page encore]
-
-PASSE 1 CLOTUREE (B2). PASSE 2 EN COURS : decoupage R0 -> R7 ACTE et grave au garde-cap (Roadmap/Kasumi/Chronologie.md, W1, indexe supra) - R0 La Routine, R1 La Nuit, R2 L'Exil, R3 Les Retrouvailles, R4 La Fausse Karakura, R5 La Reforme, R6 La Guerre Sanglante, R7 L'Enfer. Aucune roadmap d'arc ecrite. PROCHAIN : BIBLE build B3 (dette listee en _Implications, section Corrections actees), puis build R0 en boucle serree ; cloture Passe 2 (relecture croisee) ; Passe 3 (fiches d'arc) ; CODEX V1 ; SETUP.
+Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de prota, chargees une fois a l'ouverture de thread, chainage local (arc precedent / arc suivant). Passe 3 - aucune page.
 
 ## PARTIES (Partie1)
-
-### Suivi/
-Description : fiches de suivi des personnages affectes par la narration.
-- [creees au CODEX V1]
-
-### Archives/
-Description : chronologie archivee, arcs clos.
-- [aucune page encore]
-
-### Decisions/
-Description : bifurcations prises dans ce RP par rapport aux roadmaps.
-- [aucune page encore]
+Vide - s'ouvre au CODEX V1 : Suivi/ (fiches des personnages affectes par la narration), Archives/ (chronologie archivee, arcs clos), Decisions/ (bifurcations prises dans ce RP par rapport aux roadmaps).
 
 ---
 
