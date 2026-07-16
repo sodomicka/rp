@@ -1,10 +1,10 @@
 # Rhea
 
-- version : R2
+- version : R3
 - statut : OC protagoniste. Fiche NOYAU (qui elle EST au point de depart),
   noyau 1903-1909 fige. Strates Implications d'arc et Trajectoire datee
   OUVERTES au build B3 (post roadmaps R0-R3) ; alimentees a chaud, roadmap
-  par roadmap, en Passe 2.
+  par roadmap, en Passe 2. Trajectoire datee realignee au rework R3 (W2).
 - perimetre joue : cf. FMA/Roadmap/Rhea/Chronologie.md
 
 ## Identite
@@ -150,17 +150,22 @@ et Chronologie.md.]
 OC : pas de sort canon fixe. [selon RP] Par defaut, le perimetre joue la mene
 de l'enfance a la chute de Pere puis au retour a Resembool (cf. Chronologie.md).
 Son statut de sacrifice potentiel (Porte ouverte des 1903, hitobashira valable)
-reste ouvert : hors radar de Pere par defaut, MAIS Mustang a repere une
-troisieme alchimiste sans cercle en 1910 (R3) - a trancher en Roadmap 12.
+reste ouvert : hors radar de Pere par defaut, MAIS Mustang l'a reperee SUR
+PLACE en 1910 (rumeur de village + demonstration a l'atelier, R3 W2) - que
+devient l'info cote armee, a trancher en Roadmap 12.
 
 ## Implications d'arc
 
-Alimentees a chaud, arc par arc (Passe 2). Etat au build B3 (post R0-R3) :
+Alimentees a chaud, arc par arc (Passe 2). Etat au rework R3 (W2) :
 - Clivage du savoir (pose en R1, verrouille en R3) : les Elric savent depuis
   l'enfance qu'elle transmute sans cercle (le chevalier d'acier, 1903-1904),
   mais ignorent TOUT de son 1903 (transmutation, lesion). Le noyau Rockbell,
   lui, sait tout. Izumi sait des 1909, par les freres, qu'une gamine transmute
   sans cercle - et en devine le prix (cf. Personnages/Izumi_Curtis.md).
+- Notoriete villageoise (verrouillee en R3 W2) : le FAIT que Rhea transmute
+  sans cercle est connu du bourg depuis l'enfance (elle transmute a ciel
+  ouvert). Le POURQUOI (1903) ne fuit jamais : verrouille chez les Rockbell.
+  C'est cette rumeur que Mustang recolte en 1910.
 - Revelation du 1903 aux Elric : REPORTEE A 1914 (charniere) - decision actee.
   Jusque-la, silence total de Rhea sur son passe envers eux, y compris pendant
   la fracture de 1910.
@@ -169,21 +174,34 @@ Alimentees a chaud, arc par arc (Passe 2). Etat au build B3 (post R0-R3) :
 
 Strate ouverte en R3 (demarre 1910 ; 1903-1909 = noyau ci-dessus). Forme
 telegraphique, datee. Quand un RP diverge, le delta va en Parties/ et surclasse
-cette strate pour cette partie.
+cette strate pour cette partie. Realignee au rework R3 (W2).
 - 1910 (R3) - La nuit des Elric. Ed et Al tentent de ramener Trisha, en cachette,
   sans la prevenir. Rhea, premiere sur place, reconnait la chose (elle en a
   produit une, jadis) et l'acheve au pic de beton sans ciller - renversement de
   1903, ou c'etait Pinako qui achevait la sienne. Detestation a double
   tranchant : les freres (l'avoir fait sans elle) ET elle-meme (n'avoir rien vu
   venir). Naissance du noeud Rhea/Al (l'anti-Alan, et sa douceur qui l'attire
-  quand meme). Elle ne lache RIEN de son 1903 et coupe les ponts.
-- 1910 (R3) - Convalescence d'Ed. Elle met la main a l'automail du "client"
-  (perfectionnisme oblige, du coeur a l'ouvrage un peu malgre elle) sans daigner
-  lui adresser la parole.
-- 1910 (R3) - Refus Mustang. Mustang, qui a eu vent de trois alchimistes sans
-  cercle, vient recruter : jurons, "genocidaire", il repart avant qu'elle ne
-  transmute des chutes d'automail en armes. Ed et Al, eux, acceptent - cap sur
-  l'examen d'Etat. Debut du silence total envers les Elric (jusqu'en 1914).
+  quand meme). Elle ne lache RIEN de son 1903 et coupe les ponts. Debut du
+  silence total envers les Elric (jusqu'en 1914).
+- 1910 (R3) - Le refus Mustang. Mustang, en reperage de recrues, recrute Ed
+  chez les Rockbell puis commet l'erreur de venir faire la meme offre a Rhea
+  sur son terrain, l'atelier : jurons, "genocidaire", chutes d'automail
+  transmutees en armes de lancer SOUS SES YEUX - Winry s'interpose, empeche
+  le lancer, congedie les militaires. Rhea est ramenee au jour de l'annonce
+  de la mort de Sarah et Yuri. Le reperage de la troisieme sans-cercle est
+  fait (rumeur de village + demonstration).
+- fin 1910 -> 1911 (R3) - L'annee d'atelier. La visite declenche : Ed choisit
+  l'automail (defi : un an de reeducation au lieu des trois annonces par
+  Pinako). Rhea deteste oeuvrer pour un futur Alchimiste d'Etat, mais Pinako
+  a accepte le boulot : elle se donne a fond et soigne l'automail sans
+  adresser un mot au "client", du coeur a l'ouvrage un peu malgre elle.
+  Isolement pour eviter les freres : repas emportes a l'atelier, nuits
+  ecourtees sur l'etabli, Winry la porte jusqu'a leur chambre.
+- 1911 (R3) - L'info-Winry. Fin de reeducation : Ed revele le sans-cercle a
+  Al, qui n'a rien. Rhea l'apprend de la bouche de Winry, jamais par
+  elle-meme. Sa lecture (rationalisation, pas regle du monde) : Al a paye le
+  prix sans meme la compensation - preuve qu'il s'y est plonge sans y etre
+  prepare. Le noeud Rhea/Al se resserre. Ed part pour Central.
 - (suite a alimenter roadmap par roadmap : R4 et au-dela)
 
 ## Renvois

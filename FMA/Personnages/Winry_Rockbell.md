@@ -1,6 +1,6 @@
 # Winry Rockbell
 
-- version : W1
+- version : W2 (rework R3 : 1910-1911 integres)
 
 ## Identite
 
@@ -38,10 +38,20 @@ Savoir chirurgical notable pour son age (famille de chirurgiens), sans formation
 
 - Prise en otage implicite par les homonculus pour contraindre les Elric (canon, trame principale).
 - Apprend tard que Scar a tue ses parents (1914 dans le canon).
+- 1910 : echange avec Riza pendant la visite de Mustang (canon) - proteste
+  qu'on lui a deja pris ses parents ; Riza repond que le choix appartient aux
+  freres seuls, et qu'elle s'est engagee pour proteger quelqu'un.
 
 ## Rapport a la protagoniste
 
 Sororite fusionnelle avec la protagoniste (jumelles apres 1909). Winry connait TOUT du passe de la protagoniste. Detail : cf. Personnages/Rhea.md.
+- 1910 (R3) : seule a pouvoir desamorcer Rhea en pleine explosion - s'interpose
+  entre elle et Mustang a l'atelier, l'empeche de lancer ses armes improvisees
+  (chutes d'automail transmutees), calme sa soeur, puis congedie les militaires.
+- 1910-1911 (annee d'atelier) : quand Rhea s'endort sur l'etabli, Winry la
+  porte tant bien que mal jusqu'a leur chambre pour dormir ensemble.
+- Relais d'information : c'est par Winry que Rhea apprend, a la fin de la
+  reeducation d'Ed (1911), qu'Al n'a pas le sans-cercle.
 
 ## Sort connu (canon)
 
@@ -53,6 +63,7 @@ Survit a la trame. Epouse Edward. Poursuit sa carriere d'ingenieure d'automail.
 - Famille : cf. Personnages/Pinako_Rockbell.md, Sarah_Rockbell.md, Yuri_Rockbell.md
 - Elric : cf. Personnages/Edward_Elric.md, Alphonse_Elric.md
 - Scar : cf. Personnages/Scar.md
+- 1910-1911 : cf. Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md
 
 ---
 

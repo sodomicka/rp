@@ -1,6 +1,6 @@
 # Riza Hawkeye
 
-- version : W1
+- version : W2 (rework R3 : visite de Resembool 1910 integree)
 
 ## Identite
 
@@ -28,6 +28,7 @@ Chien dresse : Black Hayate.
 Fille de Berthold Hawkeye, createur de l'alchimie de flamme (mort de maladie en 1905). Le pere neglige Riza au profit de sa recherche ; utilise son dos comme support du tatouage.
 A la mort de Berthold, confie l'array a Roy (apprenti du pere), puis rejoint l'armee pour le suivre.
 Guerre d'Ishval : tireuse d'elite remarquee ("l'Oeil du faucon") ; traumatisme. Demande ensuite a Roy de bruler le tatouage.
+1910 : accompagne Mustang (alors lieutenant-colonel ; elle sous-lieutenant) au reperage de recrues a Resembool. Echange avec Winry (canon) : a Winry qui proteste qu'on lui a deja pris ses parents et qu'on veut maintenant prendre Ed et Al, elle repond que le choix appartient aux freres seuls, que personne ne les forcera - et qu'elle-meme s'est engagee pour proteger quelqu'un. Temoin de l'explosion de Rhea contre Mustang a l'atelier ; au depart, lui oppose qu'elle n'a pas vu une bete sauvage, mais une gamine qui aura envie de faire bouger les choses.
 
 ## Relations (neutres)
 
@@ -39,6 +40,7 @@ Guerre d'Ishval : tireuse d'elite remarquee ("l'Oeil du faucon") ; traumatisme. 
 ## Rapport a la protagoniste
 
 Militaire de carriere - donc, a priori, une figure que la protagoniste anti-militariste rejette. Nuance possible (Riza deteste elle aussi ce qu'a ete Ishval) : cf. Personnages/Rhea.md et roadmaps.
+Croisee en 1910 (R3, atelier Rockbell) : seule du duo a lire en Rhea autre chose qu'une cause perdue ("une gamine qui aura envie de faire bouger les choses"). Or d'ironie, savoir du joueur : Rhea ignore que Riza porte, d'un autre bord, la meme plaie d'Ishval - cf. CODEX ANNEXE_SAVOIRS a la bascule jeu.
 
 ## Sort connu (canon)
 
@@ -50,6 +52,7 @@ Le Jour Promis, les antagonistes tentent de la tuer pour forcer Mustang. Survit 
 - Alchimie de flamme : cf. Systemes/Alchimie.md, Personnages/Roy_Mustang.md
 - Ishval : cf. Lieux/Ishval.md
 - Armee : cf. Factions/Armee_Amestris.md
+- Visite de 1910 : cf. Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md
 
 ---
 
