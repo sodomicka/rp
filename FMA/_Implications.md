@@ -6,7 +6,7 @@ pas les re-litiger. JAMAIS fetche en narration. ASCII strict.
 
 - univers : FMA (branche manga / Brotherhood, continuite Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- derniere mise a jour : build BIBLE B4 (retour episode 2, pre-rework R3)
+- derniere mise a jour : rework R3 execute (W2) + rescope R4 au cap
 
 ## Decisions memorisees (ne pas re-litiger)
 - ROADMAPS INDEXEES AU SOMMAIRE. La regle v8.2 "roadmaps non indexees en jeu"
@@ -25,7 +25,6 @@ pas les re-litiger. JAMAIS fetche en narration. ASCII strict.
   (Ed 10 ans, Al 9 ans, six mois, retour fin 1909) ; incendie de la maison
   Elric = 1911, APRES l'examen d'Etat (examen -> incendie -> depart pour la
   quete). Divergence assumee vs canon sur l'ordre incendie/examen.
-
 - METHODE EPISODE PAR EPISODE (decision worldbuilder, build B4) : les pages
   episodes du wiki fandom sont une source de verification riche (synopsis
   detailles, chapitres manga adaptes). A DEROULER au fil des roadmaps via le
@@ -37,30 +36,6 @@ pas les re-litiger. JAMAIS fetche en narration. ASCII strict.
   s'agit). Pas de souvenir -> pas de sans-cercle. Il recouvre la capacite tard
   dans la trame ([INCERTAIN] : moment exact a verifier). Corrige en BIBLE
   SB1/SB5 + fiche Alphonse W2. NE PAS re-attribuer le sans-cercle a Al.
-
-## Rework R3 (prochain thread) - actes manques a integrer
-Constats du visionnage de l'episode 2 par le worldbuilder + confrontation a la
-page episode. R3 W1 reste en l'etat jusqu'au rework ; rien n'est patche dans la
-roadmap ni dans la fiche Rhea avant.
-- ANNEE D'ATELIER DE RHEA (decision worldbuilder posee, a cadrer au rework) :
-  pendant l'annee de reeducation d'Ed (1910-1911), Rhea s'enferme dans
-  l'atelier pour eviter les Elric. A integrer au R3 retravaille, puis a la
-  Trajectoire datee de Rhea (l'entree suit la roadmap, jamais l'inverse).
-- SCENE MUSTANG CHEZ LES ROCKBELL : en canon (ep. 2), Ed convalescent est DEJA
-  chez les Rockbell et Mustang l'y trouve ; toute la scene s'y joue. Recadrer
-  R3 (etape 4 W1 : "les freres le renvoient" - faux) : les freres sont
-  PRESENTS quand Rhea incendie verbalement Mustang.
-- ORDRE CANON A TRANCHER : en canon, la visite de Mustang precede l'automail
-  (Ed encore mutile ; la visite declenche la decision) et la reeducation dure
-  UN AN (defi d'Ed : un an au lieu des trois annonces par Pinako). R3 W1 met
-  Mustang APRES la pose et compte la convalescence en semaines. Recaler ou
-  diverger explicitement - worldbuilder tranche au rework.
-- LIEN RIZA/WINRY (ep. 2) : echange canon a integrer - Winry dit aux soldats
-  qu'on lui a deja pris ses parents ; Riza repond que le choix appartient aux
-  freres seuls, et qu'elle-meme s'est engagee pour proteger quelqu'un. Or
-  narratif pour le rework R3 (Rhea dans le decor) et pour l'ironie
-  Mustang/Riza deja fleche vers CODEX ANNEXE_SAVOIRS. Fiches Riza/Winry a
-  enrichir si le rework le confirme.
 - NOEUD RHEA/AL - CADRAGE ACTE (worldbuilder, build B4) : ce que Rhea meprise,
   ce n'est PAS la compensation (le sans-cercle est le minimum du - sa
   philosophie, R2), c'est que ces abrutis aient PAYE LE PRIX tout court.
@@ -68,17 +43,31 @@ roadmap ni dans la fiche Rhea avant.
   preuve qu'il s'est plonge dedans sans y etre prepare - encore moins qu'elle
   en 1903, a 5 ans. Consigne comme LECTURE DE RHEA (sa rationalisation), pas
   comme regle du monde : le mecanisme reel (aucun souvenir de la Porte) reste
-  celui de SB1 / fiche Alphonse, et Rhea l'ignore. Nourrit le noeud Rhea/Al
-  au rework R3 et a la charniere.
-  Micro-point ouvert : QUAND Rhea decouvre-t-elle qu'Al n'a pas le
-  sans-cercle ? (silence total 1910-1914 ; a placer au rework R3 ou a la
-  charniere - worldbuilder tranche).
+  celui de SB1 / fiche Alphonse, et Rhea l'ignore.
+- DECOUPE R3/R4 (rework R3, acte) : R3 = 1910 -> mi-1911, se clot sur le
+  depart d'Ed pour Central (visite Mustang recadree canon, decision automail
+  declenchee par la visite, defi d'un an, annee d'atelier, fin de
+  reeducation). R4 = 1911 : examen (hors-champ POV Rhea), montre d'argent,
+  incendie (post-examen), Al rejoint Ed - R4 SE TERMINE a la montre obtenue
+  et aux premieres missions. Le froid 1911-1914 est une ELLIPSE sans roadmap ;
+  le retour des freres avec la piste Cornello migre a l'ouverture de la
+  charniere. Cap (Chronologie.md) recale en ce sens.
+- REPERAGE SANS-CERCLE SUR PLACE (rework R3, acte) : plus jamais "eu vent
+  avant la visite". Deux vecteurs : rumeur de village (le FAIT que la gamine
+  Rockbell transmute sans cercle depuis toujours est de notoriete locale ;
+  le POURQUOI 1903 reste verrouille chez les Rockbell) + demonstration a
+  l'atelier (Rhea transmute des chutes d'automail en armes de lancer sous
+  les yeux de Mustang ; Winry s'interpose et empeche le lancer). BIBLE
+  SB3/SB8 recalees en ce sens.
+- RHEA APPREND PAR WINRY (rework R3, acte) : l'absence de sans-cercle chez
+  Al lui parvient de la bouche de Winry (fin de reeducation, R3 etape 7),
+  jamais par elle-meme. Nourrit sa lecture anti-Al (cf. NOEUD RHEA/AL).
 
 ## Points ouverts (a trancher en Passe 2, roadmap par roadmap)
-- Statut de sacrifice de Rhea (Roadmap 12) : reperee par Pere ou hors radar ?
-  Par defaut : hors radar. NEUF (R3) : Mustang a repere une TROISIEME
-  alchimiste sans cercle en 1910 - ca gratte le hors-radar par defaut (que
-  devient cette info cote armee ?). A trancher en ecrivant Roadmap 12.
+- Statut de sacrifice de Rhea (Roadmap 12) : reperage desormais ETAYE
+  (Mustang a VU la demonstration en 1910). Que devient l'info cote armee
+  (rapport ecrit ? bouche cousue ?). A trancher en ecrivant Roadmap 12.
+  Par defaut : hors radar de Pere.
 - Contentieux Scar double avec Winry (Roadmap 6) : divergence assumee vs canon,
   a cadrer au moment d'ecrire la roadmap.
 - Reconciliation Rhea/Al : FRAICHE et fragile a la charniere (1914), consolidee
@@ -87,8 +76,10 @@ roadmap ni dans la fiche Rhea avant.
 ## A verser au CODEX a la bascule jeu
 - IRONIE Mustang/Riza (R3, 1910) : Rhea traite Mustang de "genocidaire" sans
   savoir que Mustang ET Riza ont hai Ishval et portent, d'un autre bord, la
-  meme plaie qu'elle. Savoir du joueur, hors prose -> CODEX ANNEXE_SAVOIRS
-  au moment du CODEX V1.
+  meme plaie qu'elle. Enrichie au rework R3 des deux lignes de Riza :
+  "engagee pour proteger quelqu'un" (a Winry) et "pas une bete sauvage -
+  une gamine qui aura envie de faire bouger les choses" (a Roy). Savoir du
+  joueur, hors prose -> CODEX ANNEXE_SAVOIRS au moment du CODEX V1.
 
 ## [INCERTAIN] laisses volontairement en suspens (ne pas armer)
 - Numero de l'ordre d'extermination d'Ishval : "3066" ou "306". Non tranche.
@@ -100,12 +91,17 @@ roadmap ni dans la fiche Rhea avant.
 - Versioning des fiches : la plupart des pages sont taguees W<N> ; la fiche Rhea
   porte R<N> en interne, indexee (R<N>) au Sommaire pour ne pas declencher le
   canari. A standardiser (tout en W<N> ou acter un prefixe par entite) si besoin.
+  Fiches enrichies au rework R3 : Riza W2, Winry W2, Mustang W2, Rhea R3 (fiche).
 - Age de Rhea sur la trame : 16 ans a l'entree (1914), 17 au Jour Promis
   (printemps 1915, elle nait le 30 janvier). Coherent BIBLE <-> Chronologie ;
   ne pas re-ecrire "16 ans sur toute la trame".
-- Strates sur fiches canon : Izumi porte desormais une section Implications
-  d'arc ; les autres fiches canon (W1) n'ont ni Implications d'arc ni
-  Trajectoire datee explicites (le "Sort connu" couvre le canon par defaut).
-  Harmonisation du gabarit a trancher par le worldbuilder si besoin.
+- Strates sur fiches canon : Izumi porte une section Implications d'arc ;
+  Riza, Winry et Mustang portent desormais des elements dates 1910-1911 dans
+  Histoire / Rapport a la protagoniste (rework R3). Les autres fiches canon
+  (W1) n'ont ni Implications d'arc ni Trajectoire datee explicites (le "Sort
+  connu" couvre le canon par defaut). Harmonisation du gabarit a trancher par
+  le worldbuilder si besoin.
+- Sommaire et BIBLE SB0/SB3 : versions a repercuter au prochain BIBLE build
+  (R3 en W2, fiches W2/R3, R4 renommee "L'examen et le depart").
 
 FIN_WIKI__IMPLICATIONS
