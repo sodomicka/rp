@@ -1,6 +1,6 @@
 # Nagomi
 
-- version : W1
+- version : W2
 - statut : [DIVERGENCE RP] zanpakuto de Kasumi Kyoraku. Page couvrant le sabre, son esprit, le hollow interieur et le masque (perimetre acte).
 - porteuse : cf. WIKI Personnages/Kasumi_Kyoraku.md
 
@@ -24,8 +24,10 @@
 - La lame se dissout integralement en brume rose-mauve ; seule la poignee reste en main (une seule arme).
 - Brume soporifique : une gouttelette inhalee suffit a endormir.
 - Renards de fumee : silhouettes vulpines mobiles dans la brume.
-- Inoperant sur les Hollows et sur les masques ; Kasumi elle-meme est immunisee.
-- Justification in-world de l'immunite des Hollows : mystere ouvert (cf. BIBLE SB8).
+- Vecteur strictement respiratoire : la brume n'agit que par inhalation.
+- Hollows purs : insensibles - ils ne respirent pas ; la brume n'a aucune prise. [Mystere SB8 SOLDE - decision worldbuilder, build R1.]
+- Hollowmorphoses masques : un masque COMPLET filtre la brume. Un masque FISSURE est un filtre perce : le bankai opere (methode de neutralisation express d'un hollowmorphose hors de controle, cf. BIBLE SB7).
+- Kasumi elle-meme est immunisee.
 
 ## Esprit du zanpakuto
 - Jeune femme sublime et somnolente, vetements raffines de style Sengoku ; queue et oreilles de renarde.
