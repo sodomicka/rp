@@ -16,7 +16,7 @@ en Passe 3. Le mot "arc" est reserve a la Passe 3 ; ici on parle de roadmaps.
 - 1903 : 5 ans (incident fondateur)
 - 1908-1909 : 10-11 ans (Ishval, la nouvelle)
 - 1910 : 12 ans (transmutation des Elric, recrutement Mustang)
-- 1911 : 13 ans (examen d'Etat d'Ed, depart des freres)
+- 1911 : 13 ans (fin de reeducation d'Ed, examen d'Etat, depart des freres)
 - 1914 : 16 ans (charniere, entree dans la trame canon)
 - printemps 1915 : 17 ans (Jour Promis)
 
@@ -54,36 +54,48 @@ en Passe 3. Le mot "arc" est reserve a la Passe 3 ; ici on parle de roadmaps.
 - Tchekhov : Scar / parents Rockbell PLANTE (identite du tueur inconnue des filles).
 
 ### Roadmap 3 - La transmutation des Elric + recrutement Mustang
-- date : 1910 (12 ans)
+- date : 1910 -> mi-1911 (12-13 ans)
 - contenu : Ed et Al tentent la transmutation humaine sans prevenir Rhea
   (le noyau Rockbell savait, pas les Elric) ; Rhea est la premiere a trouver
   la-chose-qui-n'est-pas-Trisha et l'acheve au pic de beton, sans ciller ;
   puis elle explose sur une armure vide et un gamin estropie. Naissance de la
-  detestation a double tranchant (les freres + elle-meme, pour n'avoir rien
-  vu venir). Al = anti-Alan (a Rhea il manquait une ame ; Al n'est plus
-  qu'une ame). Mustang entend parler de TROIS alchimistes sans cercle et
-  vient recruter : Ed et Al acceptent, Rhea l'insulte (dont "genocidaire")
-  et refuse.
-- Tchekhov : transmutation cachee des Elric DETONE.
+  detestation a double tranchant (les freres + elle-meme). Al = anti-Alan.
+  Visite de Mustang (recadree canon ep. 2) : reperage de recrues, rumeur du
+  bourg (la gamine Rockbell transmute sans cercle depuis toujours),
+  decouverte du sous-sol Elric (cercle + pic ensanglante), offre a Ed chez
+  les Rockbell, erreur d'aller sur le terrain de Rhea - jurons,
+  "genocidaire", chutes d'automail transmutees en armes sous ses yeux,
+  Winry empeche le lancer et les congedie. Mustang repere la troisieme
+  sans-cercle SUR PLACE (rumeur + demonstration). La visite declenche la
+  decision d'automail ; defi d'Ed (un an de reeducation au lieu de trois) ;
+  annee d'atelier de Rhea (isolement, soigne l'automail sans un mot au
+  "client") ; fin de reeducation : Al n'a pas le sans-cercle, Rhea l'apprend
+  de la bouche de Winry. Se clot sur le depart d'Ed pour Central.
+- Tchekhov : transmutation cachee des Elric DETONE ; reperage sans-cercle ARME.
 
-### Roadmap 4 - Les annees de froid
-- date : 1911-1914 (13 -> 16 ans)
-- contenu : examen d'Etat d'Ed (1911, 12 ans), les freres quittent Resembool
-  chercher la Pierre ; Rhea reste ; froid tenu quatre ans, aucun pardon.
-  Interlude compressible. Se clot sur le retour des freres avec la piste
-  Cornello (le "pretre a miracles" de Liore).
+### Roadmap 4 - L'examen et le depart
+- date : 1911 (13 ans)
+- contenu : examen d'Etat d'Ed a Central (hors-champ POV Rhea : la nouvelle,
+  puis le retour avec la montre) ; plus jeune Alchimiste d'Etat ; incendie
+  de la maison Elric (acte : apres l'examen) ; Al le rejoint. Se termine a
+  Ed qui obtient sa montre d'argent et Al qui le rejoint pour les premieres
+  missions.
+- apres R4 : le froid 1911-1914 (silence total, aucun pardon) est une
+  ELLIPSE - pas de roadmap dediee ; on saute a la charniere.
 
 ---
 
 ## CHARNIERE - seuil du canon
 - date : 1914 (16 ans)
-- contenu : les freres reviennent recruter Rhea eux-memes ; Winry la pousse
-  ("ca te ferait du bien de voyager") ; Winry et Pinako la convainquent ;
-  reconciliation FRAICHE et FRAGILE (la plaie anti-Alan demeure) ; besoin
-  concret des freres (reparation d'automail en champ par alchimie ;
-  consolidation du metal de l'armure d'Al, jamais le sceau) ; echange des
-  deux objets (Rhea laisse Monsieur Lapinou a Winry, emporte Cliquetis) ;
-  depart avec le Fullmetal. Ouvre Roadmap 5.
+- contenu : quatre ans de froid en ellipse (1911-1914) ; les freres
+  reviennent avec la piste Cornello (le "pretre a miracles" de Liore) et
+  recrutent Rhea eux-memes ; Winry la pousse ("ca te ferait du bien de
+  voyager") ; Winry et Pinako la convainquent ; reconciliation FRAICHE et
+  FRAGILE (la plaie anti-Alan demeure) ; besoin concret des freres
+  (reparation d'automail en champ par alchimie ; consolidation du metal de
+  l'armure d'Al, jamais le sceau) ; echange des deux objets (Rhea laisse
+  Monsieur Lapinou a Winry, emporte Cliquetis) ; depart avec le Fullmetal.
+  Ouvre Roadmap 5.
 
 ---
 
@@ -115,7 +127,8 @@ Toute la trame : 1914 -> printemps 1915. Rhea a 16 ans du debut a la fin.
 ### Roadmap 12 - Convergence
 - rassemblement des sacrifices ; retournements ; preparatifs du Jour Promis.
 - Point de decision majeur : STATUT DE SACRIFICE de Rhea. Pere la repere-t-il ?
-  (Porte ouverte depuis 1903 : hitobashira valable. Par defaut : hors radar.)
+  (Porte ouverte depuis 1903 : hitobashira valable. Par defaut : hors radar.
+  Reperage ETAYE cote armee depuis 1910 : Mustang a VU la demonstration.)
 
 ### Roadmap 13 - Le Jour Promis
 - eclipse solaire ; chute de Pere (printemps 1915).
@@ -126,7 +139,9 @@ Toute la trame : 1914 -> printemps 1915. Rhea a 16 ans du debut a la fin.
 ---
 
 ## Points de vigilance (a trancher en ecrivant les roadmaps concernees)
-- Statut de sacrifice de Rhea (Roadmap 12) : reperage par Pere ou hors radar.
+- Statut de sacrifice de Rhea (Roadmap 12) : reperage ETAYE par Mustang en
+  1910 (rumeur de village + demonstration a l'atelier) - que devient l'info
+  cote armee (rapport ecrit ? bouche cousue ?). Par defaut : hors radar de Pere.
 - Contentieux Scar double avec Winry (Roadmap 6) : divergence assumee vs canon.
 - Reconciliation Rhea/Al : FRAICHE au depart (charniere), consolidee au fil du canon.
 - [INCERTAIN] Numero de l'ordre d'extermination d'Ishval (3066 / 306) : non tranche.
