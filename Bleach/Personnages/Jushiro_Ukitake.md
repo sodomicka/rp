@@ -1,6 +1,6 @@
 # Jushiro Ukitake
 
-- version : W1
+- version : W2
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -33,7 +33,7 @@
 - Guerre Quincy (~-1000, plusieurs decennies) : la vit d'enfant a jeune adolescent, planque avec Shunsui, Kasumi et l'aine des Kyoraku, sous la garde de Chojiro Sasakibe, bras droit de Yamamoto [DIVERGENCE RP]. L'amitie du trio est anterieure a l'academie.
 - Apres la guerre : academie Shin'o, forme personnellement par Yamamoto. Avec Shunsui, premiers capitaines issus de l'academie.
 - Capitaine de la 13e [INCERTAIN : date]. La 13e supervise Karakura, le jureichi.
-- Situation au point de depart : capitaine de la 13e, poste de lieutenant vacant [INCERTAIN] ; a l'oeil sur Kaien Shiba (clan Shiba), qu'il destine au poste [le recrutement se joue a l'oree de l'ere Pendulum].
+- Situation au point de depart : capitaine de la 13e, poste de lieutenant vacant [INCERTAIN] ; a l'oeil sur Kaien Shiba (clan Shiba), qu'il destine au poste [le recrutement se joue a l'oree de l'ere Pendulum] ; assure une charge d'enseignement a l'academie Shin'o [DIVERGENCE RP, actee au build R0].
 
 ## Sogyo no Kotowari
 - L'autre paire de lames du Seireitei (avec Katen Kyokotsu).
@@ -51,6 +51,7 @@
 - Famille Ukitake : sept cadets a charge, domaine d'Ugendo.
 - Soirees entre anciens : huis clos (Kasumi, Shunsui, Ukitake, Yamamoto, Unohana, Chojiro convie).
 - Kaien Shiba : jeune officier brillant du clan Shiba [INCERTAIN : statut exact au point de depart].
+- Nanao Ise : pupille de ses meilleurs amis, figure familiere [IMPLICITE] ; eleve de l'academie ou il enseigne au point de depart.
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |

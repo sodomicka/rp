@@ -1,6 +1,6 @@
 # Kasumi Kyoraku
 
-- version : W1
+- version : W2
 - statut : [DIVERGENCE RP] OC promue au lore. Fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110).
 
 ## Identite
@@ -30,6 +30,7 @@
 - Des siecles comme lieutenante de la 8e sous son epoux capitaine.
 - ~-390 : entree de Lisa Yadomaru a la 8e. ~-365 : 3e siege ; Lisa passe des lors sa vie a chercher ses superieurs pour les mettre au boulot et fait deja toute leur paperasse.
 - ~-350 : scandale de la debauche du couple sur le toit de la 1re division. Penitence imposee par Yamamoto : chasse d'un Vasto Lorde, accomplie en duo. Dans la foulee, Yamamoto fusionne leurs postes en co-capitainat pour faire du damage control ; Lisa devient lieutenante. Scandale etouffe : seuls le trio, Lisa et Yamamoto savent [DIVERGENCE RP].
+- Mort de Shunzan Kyoraku, l'aine de sa belle-famille, emporte par la malediction Ise [canon etendu ; date non fixee, avant le point de depart] : Nanao, sa fille, passe sous la tutelle du couple [DIVERGENCE RP].
 - Situation au point de depart : co-capitaine de la 8e, Lisa lieutenante, a l'approche de l'ere Pendulum.
 
 ## Aptitudes
@@ -46,7 +47,8 @@
 - Lisa Yadomaru : lieutenante depuis ~-350 ; la seule a tenter de faire travailler le couple. Ras-le-bol de facade, entente reelle.
 - Sosuke Aizen et Kisuke Urahara : reperes avec Shunsui comme deux prodiges a l'ethique douteuse, des leurs annees d'academie respectives. Surveillance de loin, sous couvert de flemme - jamais d'intervention, jamais totalement passifs [DIVERGENCE RP]. Aizen les leurre : comme tous les capitaines, ils ont assiste a sa liberation de fin d'academie (cf. WIKI Personnages/Sosuke_Aizen.md).
 - Retsu Unohana : modele d'observation de Kasumi, qui a appris par coeur son style d'avant-mue. Unohana le sait - voir une immense flemmarde se souler a mort pour restituer son art desormais secret l'amuse [DIVERGENCE RP].
-- Clan Kyoraku : belle-famille, haute maison noble ; l'aine des Kyoraku est un camarade d'enfance de guerre.
+- Clan Kyoraku : belle-famille, haute maison noble ; Shunzan, l'aine, etait un camarade d'enfance de guerre (mort avant le point de depart, malediction Ise [canon etendu]).
+- Nanao Ise : niece par alliance, fille de Shunzan ; pupille du couple [DIVERGENCE RP]. Encore a l'academie au point de depart. L'ingerence affectueuse de sa tante fait partie du forfait. detail : cf. WIKI Personnages/Nanao_Ise.md
 - Chojiro Sasakibe : gardien bienveillant de leur enfance de guerre. Entre deux batailles, prenait le temps d'eduquer les enfants a la guerre au cas ou elle s'eterniserait, avant de vouer une fidelite infaillible a leur futur Sensei. L'une des figures que le trio respecte le plus.
 - Soirees entre anciens : huis clos reunissant Kasumi, Shunsui, Ukitake, Yamamoto et Unohana, Chojiro convie. On s'y rappelle la guerre avec un melange de nostalgie et de satisfaction devant la societe stable batie ensuite.
 

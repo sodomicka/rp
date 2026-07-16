@@ -1,6 +1,6 @@
 # Shunsui Kyoraku
 
-- version : W1
+- version : W2
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -13,7 +13,7 @@
 - 192 cm, 87 kg. Age apparent : la quarantaine.
 - Yeux gris, hautes pommettes, longs cheveux bruns ondules noues en queue basse, longues meches encadrant la gauche du visage. Pilosite marquee (torse, bras).
 - Au point de depart : fine moustache seulement (la barbe complete du canon est posterieure).
-- Tenue : sakkat de paille ; kimono feminin rose a fleurs drape sur le haori de capitaine. Haori et obi bon marche, epingles a cheveux en moulinet couteuses. Pas de tabi.
+- Tenue : sakkat de paille ; kimono feminin rose a fleurs drape sur le haori de capitaine, porte en hommage a Isuzu, sa belle-soeur [canon etendu]. Haori et obi bon marche, epingles a cheveux en moulinet couteuses, heritees de Shunzan (cadeau d'Isuzu) [canon etendu]. Pas de tabi.
 
 ## Psychologie
 - Nonchalant, flamboyant, rarement sans sourire. Sieste et sake eriges en institution.
@@ -29,7 +29,7 @@
 - Mariage avec Kasumi Kamo peu apres la guerre (~-1000) [DIVERGENCE RP].
 - Capitaine de la 8e [INCERTAIN : date non fixee, plusieurs siecles avant -350], Kasumi lieutenante a ses cotes.
 - ~-350 : scandale de la debauche du couple sur le toit de la 1re division. Penitence : chasse d'un Vasto Lorde en duo. Dans la foulee, Yamamoto fusionne leurs postes en co-capitainat ; Lisa Yadomaru lieutenante. Scandale etouffe : seuls le trio, Lisa et Yamamoto savent [DIVERGENCE RP].
-- Mort de son frere aine ; sa belle-soeur lui confie la Shinken Hakkyoken du clan Ise, qu'il dissimule [INCERTAIN : datation a fixer en Passe 2 si un arc s'y adosse].
+- Mort de son frere aine Shunzan, emporte par la malediction Ise [canon etendu]. Sa veuve Isuzu lui confie le Shinken Hakkyoken de la maison Ise pour en couper Nanao ; il le dissimule. La Chambre des 46 execute Isuzu pour detournement d'un tresor sacre [canon etendu]. Nanao passe sous la tutelle du couple [DIVERGENCE RP]. [INCERTAIN : datations non fixees, anterieures au point de depart]
 - Situation au point de depart : co-capitaine de la 8e avec Kasumi, Lisa lieutenante, a l'approche de l'ere Pendulum.
 
 ## Aptitudes
@@ -50,8 +50,9 @@
 - Genryusai Yamamoto : maitre, qu'il appelle familierement le vieux Yama. Confiance profonde, insolence assumee.
 - Lisa Yadomaru : lieutenante depuis ~-350 ; la seule a tenter de faire travailler le couple. Ras-le-bol de facade, entente reelle.
 - Sosuke Aizen et Kisuke Urahara : reperes avec Kasumi comme deux prodiges a l'ethique douteuse, des leurs annees d'academie respectives. Surveillance de loin, sous couvert de flemme - jamais d'intervention, jamais totalement passifs [DIVERGENCE RP]. Aizen les leurre : comme tous les capitaines, ils ont assiste a sa liberation de fin d'academie (cf. WIKI Personnages/Sosuke_Aizen.md).
-- Shunzan Kyoraku : frere aine [DIVERGENCE RP : nom importe des novels], camarade d'enfance de guerre, decede [INCERTAIN : date]. Epoux d'Isuzu Ise [DIVERGENCE RP : nom importe des novels].
-- Nanao Ise : niece, fille de l'aine. Enfant, rejoint la 8e a l'ere Pendulum [INCERTAIN : date exacte].
+- Shunzan Kyoraku : frere aine [nom importe du canon etendu], camarade d'enfance de guerre, epoux d'Isuzu Ise. Emporte par la malediction Ise [canon etendu ; date non fixee].
+- Isuzu Ise : belle-soeur, presence sereine de ses jeunes annees, dont il garde les reliques [canon etendu]. Executee par la Chambre des 46 pour la remise du Shinken Hakkyoken.
+- Nanao Ise : niece de sang, fille de Shunzan et d'Isuzu ; pupille du couple [DIVERGENCE RP]. Encore a l'academie au point de depart : majore de promotion, promise a la 8e, pressentie 3e siege [DIVERGENCE assumee vs Pendulum]. detail : cf. WIKI Personnages/Nanao_Ise.md
 - Chojiro Sasakibe : gardien bienveillant de son enfance de guerre, l'une des figures qu'il respecte le plus.
 - Soirees entre anciens : huis clos reunissant Kasumi, Shunsui, Ukitake, Yamamoto et Unohana, Chojiro convie. Nostalgie de guerre et satisfaction devant la societe stable batie ensuite.
 

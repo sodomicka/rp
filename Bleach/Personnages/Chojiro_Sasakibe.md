@@ -1,6 +1,6 @@
 # Chojiro Sasakibe
 
-- version : W1
+- version : W2
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -16,7 +16,7 @@
 ## Psychologie
 - Dignite solennelle ; la loyaute comme colonne vertebrale. A refuse instructorat et capitainat pour rester le lieutenant de Yamamoto, a vie.
 - N'appelle jamais Yamamoto par son nom : "Eijisai-dono", du nom de la cicatrice qu'il lui a lui-meme infligee. Seul a employer ce titre.
-- Occidentophile convaincu : cultive son propre the noir, prefere la cuisine occidentale a la japonaise, marque par la societe anglaise decouverte en mission [databook].
+- Occidentophile convaincu : cultive son propre the noir, prefere la cuisine occidentale a la japonaise, marque par la societe anglaise decouverte en mission [databook]. Aux soirees entre anciens, carbure a la stout britannique (Guinness) quand les autres sont au sake [DIVERGENCE RP, prolongement de son gout occidental].
 - Dissimule volontairement sa vraie puissance : liberer son bankai devant le Gotei serait, a ses yeux, manquer de respect a son commandant.
 
 ## Histoire (noyau)
@@ -41,7 +41,7 @@
 ## Relations
 - Genryusai Yamamoto : devotion totale. "Eijisai-dono".
 - Le trio (Kasumi, Shunsui, Ukitake) [DIVERGENCE RP] : les enfants de la guerre devenus monuments du Gotei. Il est l'une des figures qu'ils respectent le plus.
-- Soirees entre anciens : convie aux huis clos de Kasumi, Shunsui, Ukitake, Yamamoto et Unohana.
+- Soirees entre anciens : convie aux huis clos de Kasumi, Shunsui, Ukitake, Yamamoto et Unohana. Y va toujours a reculons - trop serieux pour ces debordements - mais l'appel des vieux amis l'emporte a chaque fois. Quand Yamamoto ressort le vieux mythe de l'Enfer (les capitaines morts n'iraient pas au cycle), les trois plus jeunes le chambrent ; Chojiro, lui, confirme la legende sans rire [DIVERGENCE RP ; Tchekhov : vieux mythe de l'Enfer, cf. BIBLE SB8].
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |

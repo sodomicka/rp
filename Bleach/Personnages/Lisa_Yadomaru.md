@@ -1,6 +1,6 @@
 # Lisa Yadomaru
 
-- version : W1
+- version : W2
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -36,7 +36,7 @@
 
 ## Relations
 - Shunsui et Kasumi Kyoraku : ses deux capitaines [DIVERGENCE RP]. Elle les engueule, les traque, fait leur travail - et ne voudrait servir personne d'autre.
-- Nanao Ise : hors noyau (arrivee a la 8e vers -101).
+- Nanao Ise : pupille des patrons, elevee dans l'orbite de la 8e [DIVERGENCE RP : au canon, l'enfant n'arrive a la 8e que vers -101]. Lisa lui faisait la lecture, enfant [adapte du canon]. Nanao l'admire - seule adulte serieuse au milieu de l'ingerence affectueuse du couple - et calque sa degaine sur la sienne. Encore a l'academie au point de depart.
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
