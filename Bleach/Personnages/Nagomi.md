@@ -1,6 +1,6 @@
 # Nagomi
 
-- version : W2
+- version : W3
 - statut : [DIVERGENCE RP] zanpakuto de Kasumi Kyoraku. Page couvrant le sabre, son esprit, le hollow interieur et le masque (perimetre acte).
 - porteuse : cf. WIKI Personnages/Kasumi_Kyoraku.md
 
@@ -55,7 +55,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| -101 | Hollowification de la porteuse - le Kitsune s'installe dans le monde interieur ; paradoxe du bankai decouvert a chaud a Fugai (masque complet = filtre) | Sections [POST-DEPART] activees |
 
 ---
 FIN_WIKI_PERSONNAGES_NAGOMI

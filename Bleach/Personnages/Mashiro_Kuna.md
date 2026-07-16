@@ -1,6 +1,6 @@
 # Mashiro Kuna
 
-- version : W1
+- version : W2
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110).
 
 ## Identite
@@ -28,7 +28,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| -101 | Dort pendant le massacre de l'unite, hollowifiee avec Kensei, assaillante de la nuit, ligotee par Hachi, condamnee, exfiltree | Lieutenante 9e -> exilee |
 
 ---
 FIN_WIKI_PERSONNAGES_MASHIRO_KUNA

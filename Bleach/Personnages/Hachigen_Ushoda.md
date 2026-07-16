@@ -1,6 +1,6 @@
 # Hachigen Ushoda
 
-- version : W1
+- version : W2
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110).
 
 ## Identite
@@ -28,7 +28,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| -101 | Seul kidoka de l'equipe (objection du couple : Tessai ecarte), ligote Kensei et Mashiro, hollowifie, condamne, exfiltre | Vice-capitaine du Kido Corps -> exile |
 
 ---
 FIN_WIKI_PERSONNAGES_HACHIGEN_USHODA

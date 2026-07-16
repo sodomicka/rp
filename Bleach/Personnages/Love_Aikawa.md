@@ -1,6 +1,6 @@
 # Love Aikawa
 
-- version : W1
+- version : W2
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -30,7 +30,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| -101 | Equipe de secours, massacre (bankai de Tosen), hollowifie, condamne, exfiltre | Capitaine 7e -> exile |
 
 ---
 FIN_WIKI_PERSONNAGES_LOVE_AIKAWA

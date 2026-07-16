@@ -1,6 +1,6 @@
 # Gin Ichimaru
 
-- version : W1
+- version : W2
 - statut : personnage canon, fiche VERIDIQUE (couche secrete incluse - a ne jamais refleter dans le savoir des PNJ), strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110).
 
 ## Identite
@@ -41,7 +41,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| -101 | Present a Fugai aux cotes d'Aizen et Tosen | Complice couvert |
 
 ---
 FIN_WIKI_PERSONNAGES_GIN_ICHIMARU

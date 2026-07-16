@@ -1,6 +1,6 @@
 # Lisa Yadomaru
 
-- version : W2
+- version : W3
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -41,7 +41,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| -101 | Envoyee a Fugai par ses propres capitaines, hollowifiee, condamnee, exfiltree | Lieutenante 8e -> exilee |
 
 ---
 FIN_WIKI_PERSONNAGES_LISA_YADOMARU

@@ -1,6 +1,6 @@
 # Yoruichi Shihoin
 
-- version : W1
+- version : W2
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110).
 
 ## Identite
@@ -39,7 +39,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| -101 | Orchestre l'evasion des onze pendant l'esclandre de Shunsui, gigai speciaux, fuite vers Karakura | Capitaine 2e / cheffe Onmitsukido -> fugitive |
 
 ---
 FIN_WIKI_PERSONNAGES_YORUICHI_SHIHOIN

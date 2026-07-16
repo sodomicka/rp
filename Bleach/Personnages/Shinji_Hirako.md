@@ -1,6 +1,6 @@
 # Shinji Hirako
 
-- version : W1
+- version : W2
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -33,7 +33,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| -101 | Mene l'equipe de secours ; "une doyenne a bord" ; massacre par le bankai de Tosen, hollowifie, condamne, exfiltre | Capitaine 5e -> chef de fait des exiles |
 
 ---
 FIN_WIKI_PERSONNAGES_SHINJI_HIRAKO

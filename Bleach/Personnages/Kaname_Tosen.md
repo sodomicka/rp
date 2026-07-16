@@ -1,6 +1,6 @@
 # Kaname Tosen
 
-- version : W1
+- version : W2
 - statut : personnage canon, fiche VERIDIQUE (couche secrete incluse - a ne jamais refleter dans le savoir des PNJ), strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110).
 
 ## Identite
@@ -44,7 +44,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| -101 | Massacre sa propre unite de la 9e (bulle de tenebres) ; bankai Enma Korogi sur l'equipe de secours a Fugai | Taupe couverte, reste en poste a la 9e |
 
 ---
 FIN_WIKI_PERSONNAGES_KANAME_TOSEN

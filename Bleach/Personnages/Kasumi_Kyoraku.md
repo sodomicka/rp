@@ -1,6 +1,6 @@
 # Kasumi Kyoraku
 
-- version : W2
+- version : W3
 - statut : [DIVERGENCE RP] OC promue au lore. Fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110).
 
 ## Identite
@@ -55,7 +55,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| -101 | Suit Lisa en douce jusqu'a Fugai, intervient sur l'attaque de Kensei, bankai filtre par le masque complet, tombe la premiere, hollowifiee (9e cobaye d'Aizen), condamnee, exfiltree inconsciente | Co-capitaine 8e -> exilee de Karakura ; hollow interieur Kitsune et masque actives (cf. Nagomi) |
 
 ---
 FIN_WIKI_PERSONNAGES_KASUMI_KYORAKU

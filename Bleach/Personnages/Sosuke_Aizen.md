@@ -1,6 +1,6 @@
 # Sosuke Aizen
 
-- version : W1
+- version : W2
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees. Fiche VERIDIQUE : la troncature de ce que les PNJ ignorent releve des fiches d'arc.
 
 ## Identite
@@ -42,7 +42,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| -101 | Incident reussi - 9 cobayes, un mois de doublure Kyoka Suigetsu, alibi fourni par le temoignage de Shunsui, Urahara accuse a sa place | Insoupconne, experiences poursuivies |
 
 ---
 FIN_WIKI_PERSONNAGES_SOSUKE_AIZEN

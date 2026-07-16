@@ -1,6 +1,6 @@
 # Hiyori Sarugaki
 
-- version : W1
+- version : W2
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110).
 
 ## Identite
@@ -31,7 +31,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| -101 | Seule sur zone pour les echantillons (designee par Urahara), hollowifiee, condamnee, exfiltree | Lieutenante 12e -> exilee |
 
 ---
 FIN_WIKI_PERSONNAGES_HIYORI_SARUGAKI
