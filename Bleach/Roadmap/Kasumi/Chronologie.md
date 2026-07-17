@@ -1,6 +1,6 @@
 # Chronologie des roadmaps - Kasumi Kyoraku
 
-- version : W2
+- version : W3
 - role : GARDE-CAP de la campagne. Decoupage R0 -> R7 DICTE par le worldbuilder (thread Passe 2). Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de Passe 2) ; les [A POSER] listes ici s'y tranchent.
 - convention de nommage (actee) : chaque roadmap porte un nom thematique, le pivot de l'arc.
 - prota / POV : Kasumi Kyoraku.
@@ -27,10 +27,10 @@
 - Resout : SB8 capture de Kasumi (version canon-first) ; SB8 immunite au bankai SOLDEE (Hollows non-respirants / masque-filtre).
 - Fichier : Roadmap_1_La_Nuit.md
 
-## R2 - L'Exil [A BUILDER ; jouable, gros blocs SNAPSHOTS]
+## R2 - L'Exil [BUILDE : Roadmap_2_L_Exil.md W3 ; jouable, gros blocs SNAPSHOTS]
 - Bornes : reveil dans la grotte -> veille de l'arrivee de Rukia a Karakura (~101 ans, ~1900-2001).
-- Jalons dictes : Urahara revele sa part de responsabilite, presente le Hogyoku ; les Vizards posent la dette (soldee seulement quand ils reprendront leurs postes) ; Kasumi moins critique, pragmatique : retrouver sa vie d'avant, revoir son mari ; le plan : maitriser son hollow, trouver ou vivre, gagner sa vie - ne pas dependre de Kisuke ; 1er Jinzen (Kasumi premiere a plonger) : ECHEC, perte de controle, stoppee par les autres ; pendant ce temps, reperage en ville : un hangar colle a un bar abandonne ; 2e combat : elle reclame tous les alcools d'Urahara, ivre morte, defonce son hollow - 3h a Karakura et deja maitresse de son pouvoir (PACTE DU KITSUNE plante ici, Tchekhov SB8) ; le pub prend son nom, "le Kyoraku", premiere barmaid du Japon ; Kisuke (qui a avance batiments et meubles) rembourse vite ; [SNAPSHOTS] vie d'exil : chacun se fait a sa vie d'humain, Shunsui manque chaque jour un peu plus, les Vizards passent bosser au bar, Mashiro toujours la pour aider, le bar devient populaire, generations d'humains qui se succedent ; routine gravee : matin dodo / apres-midi combat de domptage - decouverte de la methode masque fissure -> bankai opere, neutralisation la plus rapide en cas de perte de controle / fin d'apres-midi salon prive du bar, detente du groupe / nuit boulot, entrainement ou loisirs du monde des vivants, Kasumi au comptoir tous les soirs, buvant plus que les clients ; [SNAPSHOTS] echos locaux des dernieres decennies : Isshin a une femme, perd son statut de shinigami (~-20), Masaki meurt (-6), le fils progresse.
-- Note fiche : le contournement du paradoxe de Nagomi (masque fissure -> bankai) nourrira la fiche Nagomi a la propagation.
+- Jalons : reveil joue pleinement (revelations d'Urahara, Hogyoku ; les Vizards posent la dette d'implication, soldee a la chute d'Aizen ; plan de Kasumi : maitriser son hollow, trouver ou vivre, gagner sa vie) ; sequence de domptage en ~3h depuis le reveil - 1er jinzen ECHEC (maitrisee par les autres), cuite, 2e combat gagne ivre en Yachiru, PACTE DU KITSUNE plante (SB8) ; reperage concurrent : hangar + bar abandonne ; fondation du Kyoraku des -101 (style pub, premiere barmaid du Japon, dette en yens vite remboursee - Kasumi sait tenir un bar) ; [SNAPSHOTS] routine gravee sur ~101 ans - granularites obligatoires (groupe entier / sous-groupes de 3-4 / tete-a-tete avec chacun des huit : la 2e famille de Kasumi, sa raison de les aider en R4-R5), methode masque fissure des -101 (suggestion de Hiyori), fil enquete d'exil (pieger Aizen, premiere ebauche de la Fausse Karakura - Tchekhov SB8 valide, concretisation R3, detonation R4) ; fil Isshin des -6 (client du jeudi introduit par Kisuke, sa partie racontee par lui-meme, temoignage White verse au dossier) ; fil Seireitei hors camera (doute de Yamamoto sur "trahison" livre a Shunsui aux soirees des anciens).
+- Verdicts loges : deux dettes distinctes (implication d'Urahara / yens) ; charte des tete-a-tete (ecoute, zero jugement, sagesse reconnue - a egalite avec Hachi tout au plus ; Hiyori jamais enervee, Kensei jamais vexe).
 - Fichier : Roadmap_2_L_Exil.md
 
 ## R3 - Les Retrouvailles [A BUILDER ; jouable]
