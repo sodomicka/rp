@@ -1,6 +1,6 @@
 # Kasumi Kyoraku
 
-- version : W3
+- version : W4
 - statut : [DIVERGENCE RP] OC promue au lore. Fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110).
 
 ## Identite
@@ -56,6 +56,7 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | -101 | Suit Lisa en douce jusqu'a Fugai, intervient sur l'attaque de Kensei, bankai filtre par le masque complet, tombe la premiere, hollowifiee (9e cobaye d'Aizen), condamnee, exfiltree inconsciente | Co-capitaine 8e -> exilee de Karakura ; hollow interieur Kitsune et masque actives (cf. Nagomi) |
+| -101 -> 0 | Exil : dompte le Kitsune en ~3h depuis le reveil (1er jinzen perdu, 2e gagne ivre en Yachiru - pacte scelle) ; fonde le bar le Kyoraku des -101, patronne et premiere barmaid du Japon ; routine gravee, au comptoir tous les soirs ; tisse un lien individuel avec chacun des huit - sa 2e famille ; fil enquete avec Urahara : pieger Aizen, premiere ebauche de la Fausse Karakura | Maitresse de son pouvoir des le premier jour ; enracinee a Karakura ; Shunsui manque chaque jour un peu plus |
 
 ---
 FIN_WIKI_PERSONNAGES_KASUMI_KYORAKU

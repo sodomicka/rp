@@ -1,6 +1,6 @@
 # Isshin Shiba
 
-- version : W1
+- version : W2
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Capitaine de la 10e a cette ere : [INTERPRETATION actee par le worldbuilder, build R0] - le manga ne montre jamais le titulaire du siege a l'ere Pendulum.
 
 ## Identite
@@ -33,7 +33,8 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| ~-20 | Affronte White a Karakura ; Masaki, contaminee en le sauvant, est liee a lui par Urahara - il sacrifie ses pouvoirs, deserte, prend le nom Kurosaki, ouvre une clinique | Capitaine 10e -> humain de Karakura |
+| -6 | Mort de Masaki (Grand Fisher, Auswahlen) ; introduit par Kisuke, devient client regulier du Kyoraku : chaque jeudi, une heure avant l'ouverture jusqu'a minuit ; y raconte lui-meme sa partie, craint que son fils decouvre ses heritages | Veuf ; le fil Isshin s'ancre au comptoir |
 
 ---
 FIN_WIKI_PERSONNAGES_ISSHIN_SHIBA

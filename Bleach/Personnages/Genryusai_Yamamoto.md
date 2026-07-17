@@ -1,6 +1,6 @@
 # Genryusai Shigekuni Yamamoto
 
-- version : W2
+- version : W3
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -44,6 +44,7 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | -101 | Perd 7 capitaines en une nuit ; deduit la manigance du couple (elle n'etait pas affectee, le couple ne se cache rien), reproche prive a Shunsui ; interdit le monde des vivants, prefere les penser morts | Gotei ampute, reconstruction a mener |
+| -101 -> 0 | Aux soirees entre anciens (sans Kasumi), ivre, se livre un peu trop : son doute sur le terme "trahison" - "la meilleure et la pire" - revele a Shunsui | - |
 
 ---
 FIN_WIKI_PERSONNAGES_GENRYUSAI_YAMAMOTO

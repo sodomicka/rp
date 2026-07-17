@@ -1,6 +1,6 @@
 # Shunsui Kyoraku
 
-- version : W3
+- version : W4
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -60,6 +60,7 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | -101 | Couvre l'eclipse de Kasumi ; croise la doublure d'"Aizen" ; temoigne de bonne foi au proces - l'alibi d'Aizen, la defense d'Urahara coulee ; esclandre pur au prononce, paravent involontaire de l'evasion (compris apres coup) ; reproche prive de Yamamoto ; interdit du monde des vivants | Epoux ampute - 101 ans de silence, culpabilite nourrie (reproche, alibi) et attenuee (le debordement d'amour a servi le sauvetage) |
+| -101 -> 0 | Un siecle sans nouvelles ; enquete cote Seireitei avec Ukitake (la moitie du dossier ouverte au proces) ; aux soirees entre anciens, recoit d'un Genryusai ivre son doute sur le mot "trahison" | La culpabilite s'use sans se solder ; le dossier avance |
 
 ---
 FIN_WIKI_PERSONNAGES_SHUNSUI_KYORAKU

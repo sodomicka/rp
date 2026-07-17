@@ -1,6 +1,6 @@
 # Kensei Muguruma
 
-- version : W2
+- version : W3
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -32,6 +32,7 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | -101 | Unite massacree (trahison de Tosen, bulle de tenebres, empale par un assaillant qu'il reconnait), premier hollowifie, assaillant de la nuit (Lisa, Kasumi), ligote par Hachi, condamne, exfiltre | Capitaine 9e -> exile |
+| -101 -> 0 | Exil au Kyoraku ; dompte son hollow au sous-sol ; se ronge d'avoir ete le premier a tomber - fierte de guerrier a vif ; lien individuel avec la doyenne, qui ne le vexe jamais | Culpabilite installee sous la colere de facade |
 
 ---
 FIN_WIKI_PERSONNAGES_KENSEI_MUGURUMA

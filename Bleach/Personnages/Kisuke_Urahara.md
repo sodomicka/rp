@@ -1,6 +1,6 @@
 # Kisuke Urahara
 
-- version : W2
+- version : W3
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -44,6 +44,7 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | -101 | Sort en douce avec Tessai, confronte Aizen, stabilise les neuf au Hogyoku inacheve, arrete au matin, condamne comme architecte de l'hollowification, evade | Capitaine 12e -> exile de Karakura |
+| -101 -> 0 | Exil : fonde l'Urahara Shoten ; avance batiments et meubles du Kyoraku (rembourse vite) ; porte la dette d'implication envers les neuf (soldee a la chute d'Aizen) ; fil enquete avec Kasumi : pieger Aizen, premiere ebauche de la Fausse Karakura ; introduit Isshin au bar (-6) | - |
 
 ---
 FIN_WIKI_PERSONNAGES_KISUKE_URAHARA

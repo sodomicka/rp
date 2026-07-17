@@ -1,6 +1,6 @@
 # Jushiro Ukitake
 
-- version : W3
+- version : W4
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -57,6 +57,7 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | -101 | Derniere beuverie du trio a Ugendo ; affecte a la defense pendant que Kasumi tombe | Le trio ampute, Shunsui seul a porter |
+| -101 -> 0 | Co-enqueteur du dossier hollowification avec Shunsui, cote Seireitei ; les soirees entre anciens continuent sans Kasumi | - |
 
 ---
 FIN_WIKI_PERSONNAGES_JUSHIRO_UKITAKE
