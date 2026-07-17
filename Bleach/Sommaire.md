@@ -1,6 +1,6 @@
 # Sommaire - Bleach
 
-- version : W5
+- version : W6
 
 ## WIKI
 
@@ -8,11 +8,11 @@
 
 ### (racine)
 Description : pages de travail et index.
-- _Implications.md (W7) - journal de travail du build (jamais fetche en narration)
+- _Implications.md (W9) - journal de travail du build (jamais fetche en narration)
 
 ### Roadmap/Kasumi/
-Description : garde-cap et sources de build de la campagne Kasumi (Passe 2). Les roadmaps d'arc restent non indexees (v8.2) : sources de build lues par listing de dossier, jamais fetchees en narration. Etat : R0 La Routine builde (Roadmap_0_La_Routine.md W2), R1 La Nuit builde (Roadmap_1_La_Nuit.md W2), R2 -> R7 [A BUILDER].
-- Chronologie.md (W2) - GARDE-CAP du decoupage R0 -> R7 dicte par le worldbuilder : bornes, jalons et [A POSER] de chaque arc
+Description : garde-cap et sources de build de la campagne Kasumi (Passe 2). Les roadmaps d'arc restent non indexees (v8.2) : sources de build lues par listing de dossier, jamais fetchees en narration. Etat : R0 La Routine (Roadmap_0_La_Routine.md W2), R1 La Nuit (Roadmap_1_La_Nuit.md W2), R2 L'Exil (Roadmap_2_L_Exil.md W3) buildes ; R3 -> R7 [A BUILDER].
+- Chronologie.md (W3) - GARDE-CAP du decoupage R0 -> R7 dicte par le worldbuilder : bornes, jalons et [A POSER] de chaque arc
 
 ### Cosmologie/
 Description : les mondes et leur fonctionnement structurel.
@@ -36,39 +36,44 @@ Description : groupes, institutions et armees.
 - Noblesse_et_Institutions.md (W1) - grandes maisons, Ise, Kamo [DIVERGENCE RP], Chambre des 46, Onmitsukido, Kido Corps, academie
 - Arrancar_et_Espada.md (W1) - armee d'Aizen, les 10 Espada, sorts
 - Wandenreich.md (W1) - empire Quincy, Yhwach, faits d'armes TYBW
-- Vizards.md (W1) - les 9 hollowifies [DIVERGENCE RP], exil, retours
+- Vizards.md (W2) - les 9 hollowifies [DIVERGENCE RP], exil, retours
 
 ### Chronologie/
 Description : trame temporelle de la fenetre RP.
 - Chronologie_Generale.md (W2) - de la fondation de l'academie a l'ere Enfer
 
 ### Personnages/
-Description : fiches d'entites (noyau + trajectoire datee). Passe 1 livree : strate NOYAU (<= point de depart) ; trajectoires datees alimentees a chaud en Passe 2 (premiere vague : deltas -101, build R1).
-- Kasumi_Kyoraku.md (W3) - protagoniste promue au lore [DIVERGENCE RP], co-capitaine 8e
-- Nagomi.md (W3) - zanpakuto de Kasumi : sabre, esprit, hollow Kitsune, masque [DIVERGENCE RP]
-- Shunsui_Kyoraku.md (W3) - capitaine 8e, epoux de Kasumi, Katen Kyokotsu
-- Jushiro_Ukitake.md (W3) - capitaine 13e, hote de Mimihagi, Sogyo no Kotowari
-- Genryusai_Yamamoto.md (W2) - capitaine-commandant, fondateur du Gotei et de l'academie, Ryujin Jakka
+Description : fiches d'entites (noyau + trajectoire datee).
+- Kasumi_Kyoraku.md (W4) - protagoniste promue au lore [DIVERGENCE RP], co-capitaine 8e
+- Nagomi.md (W4) - zanpakuto de Kasumi : sabre, esprit, hollow Kitsune, masque [DIVERGENCE RP]
+- Shunsui_Kyoraku.md (W4) - capitaine 8e, epoux de Kasumi, Katen Kyokotsu
+- Jushiro_Ukitake.md (W4) - capitaine 13e, hote de Mimihagi, Sogyo no Kotowari
+- Genryusai_Yamamoto.md (W3) - capitaine-commandant, fondateur du Gotei et de l'academie, Ryujin Jakka
 - Chojiro_Sasakibe.md (W2) - lieutenant 1re, gardien d'enfance du trio [DIVERGENCE RP], bankai secret
-- Lisa_Yadomaru.md (W3) - lieutenante 8e, dans le secret du co-capitainat, Haguro Tonbo
-- Kisuke_Urahara.md (W2) - 3e siege de la 2e au point de depart, geolier du Nid d'Asticots, Benihime
-- Yoruichi_Shihoin.md (W2) - capitaine 2e, cheffe Onmitsukido et clan Shihoin
-- Tessai_Tsukabishi.md (W2) - capitaine du Corps de Kido, kido interdits
-- Shinji_Hirako.md (W2) - capitaine 5e, Sakanade, surveille Aizen
-- Hiyori_Sarugaki.md (W2) - lieutenante 12e sous Hikifune, Kubikiri Orochi
-- Kensei_Muguruma.md (W2) - capitaine 9e, Tachikaze (bankai Tekken Tachikaze)
-- Mashiro_Kuna.md (W2) - lieutenante 9e, combat aux pieds, zanpakuto non montre
-- Rojuro_Otoribashi.md (W2) - capitaine 3e (Rose), Kinshara (bankai Kinshara Butodan)
-- Love_Aikawa.md (W2) - capitaine 7e, Tengumaru
-- Hachigen_Ushoda.md (W2) - vice-capitaine du Corps de Kido, barrieres
+- Lisa_Yadomaru.md (W4) - lieutenante 8e, dans le secret du co-capitainat, Haguro Tonbo
+- Kisuke_Urahara.md (W3) - 3e siege de la 2e au point de depart, geolier du Nid d'Asticots, Benihime
+- Yoruichi_Shihoin.md (W3) - capitaine 2e, cheffe Onmitsukido et clan Shihoin
+- Tessai_Tsukabishi.md (W3) - capitaine du Corps de Kido, kido interdits
+- Shinji_Hirako.md (W3) - capitaine 5e, Sakanade, surveille Aizen
+- Hiyori_Sarugaki.md (W3) - lieutenante 12e sous Hikifune, Kubikiri Orochi
+- Kensei_Muguruma.md (W3) - capitaine 9e, Tachikaze (bankai Tekken Tachikaze)
+- Mashiro_Kuna.md (W3) - lieutenante 9e, combat aux pieds, zanpakuto non montre
+- Rojuro_Otoribashi.md (W3) - capitaine 3e (Rose), Kinshara (bankai Kinshara Butodan)
+- Love_Aikawa.md (W3) - capitaine 7e, Tengumaru
+- Hachigen_Ushoda.md (W3) - vice-capitaine du Corps de Kido, barrieres
 - Sosuke_Aizen.md (W2) - lieutenant 5e, Kyoka Suigetsu, fiche veridique
 - Retsu_Unohana.md (W1) - capitaine 4e, premiere Kenpachi, Minazuki, fiche veridique
 - Nanao_Ise.md (W1) - niece de sang de Shunsui sous tutelle du couple [DIVERGENCE RP], majore de l'academie a -101, promise a la 8e, Shinken Hakkyoken
-- Isshin_Shiba.md (W1) - capitaine 10e [INTERPRETATION actee, build R0], chef d'une branche Shiba, Engetsu
+- Isshin_Shiba.md (W2) - capitaine 10e [INTERPRETATION actee, build R0], chef d'une branche Shiba, Engetsu
+- Ichigo_Backstory.md (W1) - fiche commune de l'origine d'Ichigo : Masaki, White, Grand Fisher (niveau mention)
 - Ginrei_Kuchiki.md (W1) - capitaine 6e, chef du clan Kuchiki, grand-pere de Byakuya
 - Kenpachi_Kiganjo.md (W1) - capitaine 11e, 10e Kenpachi, absent chronique, fiche neutre
 - Kaname_Tosen.md (W2) - 5e siege de la 9e, aveugle, Suzumushi ; fiche veridique (taupe d'Aizen)
 - Gin_Ichimaru.md (W2) - 3e siege de la 5e, prodige-enfant, Shinso ; fiche veridique
+
+### Lieux/
+Description : fiches de lieux (gabarit avec strate Trajectoire datee).
+- Le_Kyoraku.md (W2) - bar-foyer des exiles a Karakura [DIVERGENCE RP] : pub, cour, hangar-maison, salon prive
 
 ### Fiches_Arc/Kasumi/
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de prota, chargees une fois a l'ouverture de thread, chainage local (arc precedent / arc suivant). Passe 3 - aucune page.
