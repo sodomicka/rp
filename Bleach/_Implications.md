@@ -2,12 +2,47 @@
 
 Journal de travail. Jamais fetche en narration.
 
-- version : W9
+- version : W12
 
 ## En attente de decision worldbuilder
 - Cumul de scellements de Nagomi grave [IMPLICITE] en fiche (le compteur repart apres scellement, un second scellement peut courir en parallele) : veto worldbuilder possible. NON grave en BIBLE.
 - Detonation du Tchekhov "chapeau de Shunsui" : non fixee, marquee [A POSER] en SB8 - a trancher, probablement au build R4/R5.
 - Presence de Kasumi sur zone la nuit de -101 : SANS version officielle au Seireitei (la manigance reste entre le couple et Yamamoto) - zone ouverte, a exploiter au plus tard au build R5 [note en Roadmap_1 W2].
+
+## Stock catalogue R2 (build en cours ; threads lots 1-3 clos)
+- Etat : Roadmap_2_Snapshots.md W3 PARTIEL livre (regles transversales + lot 1 V-F1..V-F7 + fil des domptages V-D1..V-D7 + lot 2 V-T1a..V-T8c + lot 3 V-G1, V-G2, V-S1..V-S6). Lots 4-6 a builder en threads dedies (lot 4 = vie du bar par decennies ; lot 5 = fil enquete d'exil ; lot 6 = fil Isshin).
+- SEQUENCAGE ACTE (worldbuilder, cloture lot 3) : thread d'APPLICATION ANTICIPEE (degel partiel du depot : compilation Chronologie + _Implications, upload du catalogue W3), puis thread BIBLE BUILD B6 (execution du stock de patchs de fiches ci-dessous), puis reprise des lots 4-6 par nouveaux patchs par-dessus les fichiers en ligne.
+- RESTENT DIFFERES a la cloture du catalogue (lots 4-6 finis) : la sequence de jeu globale interclassee par date ; Roadmap_2 W4 (purge Bifurcations + doctrine perimee "vignettes a la carte").
+- Statut jouable de R2 suspendu a la cloture du catalogue (grave au garde-cap).
+- Nota d'interclassement acte en tete de sequence : V-T2a -> V-G2 -> V-F1.
+- Patchs candidats fiches (a executer au BIBLE BUILD B6) :
+  - Kensei_Muguruma W4 : culpabilite precisee (avoir condamne les autres - son embuscade a declenche la chaine des secours tombes) ; des sa victoire (mois 2), soutien a fond aux sept restants ; 1945 : lache sa culpabilite devant le groupe entier (V-G1).
+  - Hiyori_Sarugaki W4 : cliente reguliere du protocole masque fissure durant ses 56 ans de domptage (~5800-8700 tentatives) ; pivot "celle contre qui elle ne s'enerve jamais" date ~-67 (V-T8b) ; 1945 : confesse devant tous la terreur d'etre celle qu'on laisse derriere (V-G1) ; Hikifune abordee ~-45 - seul calin partage, seule larme, jamais ebruites (V-T8c).
+  - Rojuro_Otoribashi W4 : imitation du style Sasakibe (escrime a la rapiere) apprise de Kasumi ~-69, ajoutee a l'arsenal durable ; victoire par cuite (methode Kasumi) + jamais-vu ; sait de qui vient le style et le traite en heritage (V-T7a).
+  - Chojiro_Sasakibe W3 : "stout britannique (Guinness)" -> "stout irlandaise (Guinness)" (harmonisation avec le pub irlandais fonde en echo a ses gouts).
+  - Le_Kyoraku W3 : origine du style pub irlandais = affection de Kasumi pour Sasakibe (decision worldbuilder, build catalogue) ; delais de fondation (hangar pret en 1 semaine, bar en 3) ; hangar interieur = dortoir a separations improvisees, pas de chambres individuelles (DETAIL COMPLET DU LIEU A BUILDER en thread dedie) ; regles d'acces actees au conseil de la grotte (V-G2, -101) : bar en service ouvert aux trois exiles non-Vizards ; hangar : Tessai et Yoruichi libres d'acces, Kisuke seulement sur vraie raison legitime ; trajectoire datee ~-10 : bornes d'arcade Street Fighter II installees par Kisuke.
+  - Nagomi : modes d'intervention (a) shikai-fissure puis bankai / (b) masque-Kitsune ; regle bankai epuisant -> mode masque si plus d'une intervention par jour ; mode (b) dispo des le pacte (terreur du mode Yachiru) ; REGLE KITSUNE (lot 3) : seule hollow de la maison autorisee a se dechainer en tant que hollow et non en arme sous controle direct (pacte, pas soumission) - regle refermee apres l'incident V-S5 (post ~-45 : soif de tuer sentie face a une Lisa vulnerable, interruption in extremis ; plus aucun match contre la Kitsune dechainee ensuite).
+  - Systemes/Hollows_et_Hollowification W2 : doctrine des trois methodes de domptage (force / surprise / cas a part Kido) + guerre d'usure ; note Kasumi = force + surprise cumulees (record ~3h) ; mecanique d'une tentative = plongee dans le monde interieur par Jinzen (canon-first : entrainement Vizard d'Ichigo + Jinzen du Dangai), corps hollowmorphose dehors sous containment.
+  - Systemes (page a identifier au bible build) : gigai = seul camouflage complet du reiatsu, mais inadapte au combat (conclusion V-S2, ~-83 - la piste kido-chasse est abandonnee, doctrine de discretion renforcee).
+  - Kasumi_Kyoraku (patch LOURD) :
+    - Instinct maternel : le couple n'a jamais voulu d'enfant (jamais voulu la responsabilite) sur ~850-900 ans de mariage au debut de l'exil ; Nanao charge assumee, pas un choix. Avec les Vizards, en tant que patronne, se decouvre l'instinct ; refus d'infantiliser (des adultes de plusieurs siecles) mais figure maternelle assumee - vieille, sage, protectrice. Au fil du siecle : la doyenne = une mere qui ne se nomme jamais telle quelle, dont ils attendent l'approbation ou la critique qu'ils savent constructive.
+    - Rapport aux humains : admire leur ingeniosite et leur sens de l'art (inexistant a la Soul Society hors le couple, Rose et la Division Zero) ; deteste leurs technologies polluantes (voitures, armement - tout ce qui donne aux parcs de Karakura une odeur de ville et non plus de nature) ; tolere les jeux video et assimiles.
+    - Renfort : le centre de sa vie est son couple - TOUT ce qu'elle fait avec les huit vise le jour ou elle sera de nouveau etreinte par Shunsui.
+    - Philosophie de la glande : epoque du plus fort -> du plus juste -> perdue en lois compliquees et rapports inutiles ; glander = fuir ces responsabilites absurdes sans compromettre ni le sens de la justice ni la puissance, au prix du respect de ceux qui ne les connaissent pas vraiment.
+    - Trajectoire datee 1945 (lot 3) : ~2 aout, nuit de service entiere a parler avec un mortel ressemblant a Shunsui en tout point sauf les traits du visage - tenue a l'alcool, cinq heures de pleurs au matin ; 9 aout (V-G1), confession publique au groupe : la seule chose qui la maintient est de revoir Shunsui - le groupe entier le sait desormais, ainsi que les doutes anciens du couple sur Aizen.
+  - Shunsui_Kyoraku : echos - jamais voulu d'enfant (idem Kasumi) ; philosophie de la glande (idem).
+  - Lisa_Yadomaru W5 : sait TOUT des la grotte (-101, premiers jours) - envoi-manigance, filature, le couple savait qu'elle espionnait (V-T2a, verite dite sans detour) ; rapport au hollow : le DETESTE - monstre pouvant prendre le dessus et tuer un allie ; 8 mois de controle par peur, denoues la veille de sa victoire (V-T2b) ; ~-70 : aveu "shinigami, pas femme, avant l'exil", la lecture erotique requalifiee en exutoire - AMIES (V-T2c) ; 1945 : degout du monstre redit devant tous (V-G1) ; post ~-45 : quasi-blessure grave face a la Kitsune dechainee (V-S5).
+  - Mashiro_Kuna W4 : maturite relative acquise en exil - toujours gamine survoltee, mais sait se poser quand les choses deviennent serieuses (V-T3c, annees 1970) ; neutre au conseil de la grotte, trop gamine pour s'en soucier (V-G2).
+  - Shinji_Hirako W4 : aveu du soupcon (savait Aizen faux, s'est tu) a Kasumi seule des l'an 1 (V-T4a), refait au groupe complet en 1945 (V-G1) - reception : le couple avait aussi des doutes, absolution collective (impossible a prevoir malgre les maigres indices) ; sentiment d'illegitimite (~an 10) apaise par Kasumi (V-T4b) ; plan de domptage conseille par la doyenne des l'an 1 (relecture V-D3 actee).
+  - Hachigen_Ushoda W4 : present a l'objection du couple (Tessai ecarte), sait et A CAUTIONNE ; resolution : qu'importe, ou plutot tant mieux - on ne refait pas l'histoire, Tessai aurait juste fini hollowifie lui aussi vu l'implantation d'Aizen en innocent a l'alibi ultime. Echo fiche Tessai_Tsukabishi. Conseil de la grotte (V-G2) : propose Tessai, neutre sur Kisuke (se fie au jugement de Tessai).
+  - Tessai_Tsukabishi (echo lot 3) : au conseil de la grotte (V-G2), refuse d'integrer la maisonnee des neuf - conscient de ne pas etre comme eux (pas hollowifie) ; libre d'acces au hangar par le consensus.
+  - Factions/Vizards W3 (candidat) : jalons de vie de groupe - conseil de la grotte (-101, V-G2 : geographie sociale de l'exil fixee) ; confession collective de 1945 (V-G1).
+- Stock build R3 (a executer au build de Roadmap_3) : enrichissement du jalon "verdict des Vizards : pas assez mur pour etre forme" - arguments actes (worldbuilder, cloture lot 3) : entrainer Kurosaki serait lui imposer l'un des heritages qu'il ne connait pas encore ; moins risque d'attendre qu'il se decouvre en partie hollow ; moins risque pour eux vis-a-vis du Seireitei ; Ichigo juge trop immature d'apres ce qu'ont dit Kisuke et Isshin. ECHO V-G2 acte : la famille est harmonisee, le consensus est TOTAL et INSTANTANE - mesure du chemin parcouru depuis les tensions de la grotte.
+- BIBLE SB6 candidate : origine Sasakibe du style du Kyoraku.
+- Questions differees :
+  - Lot 4 : comment le bar traverse la guerre 1937-1945 (stocks, ouverture, clientele) - meme regime que la note de contexte V-T5 ; croiser l'entree 1945 du lot 4 avec V-G1.
+  - Thread dedie : detail complet de l'interieur du hangar (dortoir a separations improvisees).
+- Note de contexte (pas une contradiction) : V-T5 date ~-60 (~1941) - Japon en guerre, rationnement ; a garder en tete au jeu.
 
 ## A verifier avant gravure
 - Date de fondation de l'academie Shin'o (~-2100, databook) -> confirmer si un arc s'y adosse.
