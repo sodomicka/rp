@@ -1,7 +1,8 @@
 # Chronologie des roadmaps - Kasumi Kyoraku
 
-- version : W3
+- version : W6
 - role : GARDE-CAP de la campagne. Decoupage R0 -> R7 DICTE par le worldbuilder (thread Passe 2). Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de Passe 2) ; les [A POSER] listes ici s'y tranchent.
+- DOCTRINE SNAPSHOTS (transversale, actee) : pour TOUT arc a snapshots de la campagne (R2, R7, morceaux de R4-R5 le cas echeant), les snapshots se detaillent AVANT le jeu, en CATALOGUE DE VIGNETTES date et ordonne (fichier Roadmap_<N>_Snapshots.md, non indexe, ressource de Passe 3), reference imposee du thread de jeu, jouee dans l'ordre. En jeu, la liberte du MJ se limite a la reaction aux paroles et actes du joueur : zero improvisation de matiere, le monde est previsible et precis. Un arc a snapshots n'est JOUABLE qu'a la cloture de son catalogue.
 - convention de nommage (actee) : chaque roadmap porte un nom thematique, le pivot de l'arc.
 - prota / POV : Kasumi Kyoraku.
 - destination : Bleach/Roadmap/Kasumi/Chronologie.md (indexee au Sommaire ; les roadmaps d'arc restent non indexees, v8.2).
@@ -27,7 +28,7 @@
 - Resout : SB8 capture de Kasumi (version canon-first) ; SB8 immunite au bankai SOLDEE (Hollows non-respirants / masque-filtre).
 - Fichier : Roadmap_1_La_Nuit.md
 
-## R2 - L'Exil [BUILDE : Roadmap_2_L_Exil.md W3 ; jouable, gros blocs SNAPSHOTS]
+## R2 - L'Exil [BUILDE : Roadmap_2_L_Exil.md W3 ; catalogue Roadmap_2_Snapshots.md W3 PARTIEL (lots 1-3 + fil des domptages livres, lots 4-6 a builder) ; jouable a la CLOTURE du catalogue]
 - Bornes : reveil dans la grotte -> veille de l'arrivee de Rukia a Karakura (~101 ans, ~1900-2001).
 - Jalons : reveil joue pleinement (revelations d'Urahara, Hogyoku ; les Vizards posent la dette d'implication, soldee a la chute d'Aizen ; plan de Kasumi : maitriser son hollow, trouver ou vivre, gagner sa vie) ; sequence de domptage en ~3h depuis le reveil - 1er jinzen ECHEC (maitrisee par les autres), cuite, 2e combat gagne ivre en Yachiru, PACTE DU KITSUNE plante (SB8) ; reperage concurrent : hangar + bar abandonne ; fondation du Kyoraku des -101 (style pub, premiere barmaid du Japon, dette en yens vite remboursee - Kasumi sait tenir un bar) ; [SNAPSHOTS] routine gravee sur ~101 ans - granularites obligatoires (groupe entier / sous-groupes de 3-4 / tete-a-tete avec chacun des huit : la 2e famille de Kasumi, sa raison de les aider en R4-R5), methode masque fissure des -101 (suggestion de Hiyori), fil enquete d'exil (pieger Aizen, premiere ebauche de la Fausse Karakura - Tchekhov SB8 valide, concretisation R3, detonation R4) ; fil Isshin des -6 (client du jeudi introduit par Kisuke, sa partie racontee par lui-meme, temoignage White verse au dossier) ; fil Seireitei hors camera (doute de Yamamoto sur "trahison" livre a Shunsui aux soirees des anciens).
 - Verdicts loges : deux dettes distinctes (implication d'Urahara / yens) ; charte des tete-a-tete (ecoute, zero jugement, sagesse reconnue - a egalite avec Hachi tout au plus ; Hiyori jamais enervee, Kensei jamais vexe).
