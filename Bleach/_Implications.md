@@ -2,7 +2,7 @@
 
 Journal de travail. Jamais fetche en narration.
 
-- version : W12
+- version : W13
 
 ## En attente de decision worldbuilder
 - Cumul de scellements de Nagomi grave [IMPLICITE] en fiche (le compteur repart apres scellement, un second scellement peut courir en parallele) : veto worldbuilder possible. NON grave en BIBLE.
@@ -10,9 +10,10 @@ Journal de travail. Jamais fetche en narration.
 - Presence de Kasumi sur zone la nuit de -101 : SANS version officielle au Seireitei (la manigance reste entre le couple et Yamamoto) - zone ouverte, a exploiter au plus tard au build R5 [note en Roadmap_1 W2].
 
 ## Stock catalogue R2 (build en cours ; threads lots 1-3 clos)
-- Etat : Roadmap_2_Snapshots.md W3 PARTIEL livre (regles transversales + lot 1 V-F1..V-F7 + fil des domptages V-D1..V-D7 + lot 2 V-T1a..V-T8c + lot 3 V-G1, V-G2, V-S1..V-S6). Lots 4-6 a builder en threads dedies (lot 4 = vie du bar par decennies ; lot 5 = fil enquete d'exil ; lot 6 = fil Isshin).
-- SEQUENCAGE ACTE (worldbuilder, cloture lot 3) : thread d'APPLICATION ANTICIPEE (degel partiel du depot : compilation Chronologie + _Implications, upload du catalogue W3), puis thread BIBLE BUILD B6 (execution du stock de patchs de fiches ci-dessous), puis reprise des lots 4-6 par nouveaux patchs par-dessus les fichiers en ligne.
-- RESTENT DIFFERES a la cloture du catalogue (lots 4-6 finis) : la sequence de jeu globale interclassee par date ; Roadmap_2 W4 (purge Bifurcations + doctrine perimee "vignettes a la carte").
+- Etat : Roadmap_2_Snapshots.md W3 PARTIEL livre (regles transversales + lot 1 V-F1..V-F7 + fil des domptages V-D1..V-D7 + lot 2 V-T1a..V-T8c + lot 3 V-G1, V-G2, V-S1..V-S6). Lots 4-6 a builder en UN SEUL thread, ~10 beats total (decision worldbuilder, thread d'application anticipee) : lot 4 = vie du bar, 3 beats max dont la soiree du mortel JOUEE (~2 aout 1945 ; faits graves par le recit de V-G1, date et issue verrouillees) ; lot 5 = fil enquete d'exil, quelques beats -> possibilite technique du faux lieu (exploitation aux retrouvailles = R3) ; lot 6 = fil Isshin, routine en 3 beats. Temoignage White : UNE SEULE scene, beat a cheval lots 5/6. Retitrage LOT 4 (abandon "par decennies") au thread.
+- SEQUENCAGE ACTE (worldbuilder, cloture lot 3) : thread d'APPLICATION ANTICIPEE (degel partiel du depot : compilation Chronologie + _Implications, upload du catalogue W3), puis thread BIBLE BUILD B6 (execution du stock de patchs de fiches ci-dessous), puis thread UNIQUE lots 4-6 par nouveaux patchs par-dessus les fichiers en ligne.
+- RESTENT DIFFERES a la cloture du catalogue (thread lots 4-6 fini) : la sequence de jeu globale interclassee par date (absorbee par le split ci-dessous) ; Roadmap_2 W4 (devient le CHAPEAU du catalogue : purge Bifurcations + doctrine perimee "vignettes a la carte" + intention directrice + regles transversales + index des tranches).
+- SPLIT ACTE (worldbuilder, thread d'application anticipee) : a la CLOTURE du catalogue, scission CHRONOLOGIQUE du catalogue en trois tranches R2a/R2b/R2c (sequences datees interclassees, tous lots confondus) + chapeau Roadmap_2 W4 (cf. ci-dessus). Bornes des tranches : A FIXER a la cloture, toute la matiere en main. Motivations : poids d'injection en jeu (fichier tout-ou-rien) ; fiches d'arc de Passe 3 par tranche (principe implique par la decision, gabarit a confirmer en Passe 3).
 - Statut jouable de R2 suspendu a la cloture du catalogue (grave au garde-cap).
 - Nota d'interclassement acte en tete de sequence : V-T2a -> V-G2 -> V-F1.
 - Patchs candidats fiches (a executer au BIBLE BUILD B6) :
@@ -40,7 +41,7 @@ Journal de travail. Jamais fetche en narration.
 - Stock build R3 (a executer au build de Roadmap_3) : enrichissement du jalon "verdict des Vizards : pas assez mur pour etre forme" - arguments actes (worldbuilder, cloture lot 3) : entrainer Kurosaki serait lui imposer l'un des heritages qu'il ne connait pas encore ; moins risque d'attendre qu'il se decouvre en partie hollow ; moins risque pour eux vis-a-vis du Seireitei ; Ichigo juge trop immature d'apres ce qu'ont dit Kisuke et Isshin. ECHO V-G2 acte : la famille est harmonisee, le consensus est TOTAL et INSTANTANE - mesure du chemin parcouru depuis les tensions de la grotte.
 - BIBLE SB6 candidate : origine Sasakibe du style du Kyoraku.
 - Questions differees :
-  - Lot 4 : comment le bar traverse la guerre 1937-1945 (stocks, ouverture, clientele) - meme regime que la note de contexte V-T5 ; croiser l'entree 1945 du lot 4 avec V-G1.
+  - Lot 4 : guerre 1937-1945 (stocks, ouverture, clientele) - REGIME ACTE : note de contexte (idem V-T5), PAS un beat ; contenu a builder au thread lots 4-6. Entree 1945 (bombes + afflux) : note de contexte egalement, V-G1 porte deja le drame.
   - Thread dedie : detail complet de l'interieur du hangar (dortoir a separations improvisees).
 - Note de contexte (pas une contradiction) : V-T5 date ~-60 (~1941) - Japon en guerre, rationnement ; a garder en tete au jeu.
 
