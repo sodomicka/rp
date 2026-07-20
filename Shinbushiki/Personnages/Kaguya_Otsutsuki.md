@@ -1,6 +1,6 @@
 # Kaguya Otsutsuki
 
-- version : W1
+- version : W2
 
 ## Identite
 - Otsutsuki de la branche sacrifiable, ex-soldate du camp de la graine. [DIVERGENCE RP]
@@ -29,7 +29,9 @@
 
 ### La trahison
 - Sur Terre : trahit Isshiki avant l'offrande, le laisse pour mort. Nul ne sait qu'il survit.
-- Devore le fruit : moisson au rabais - un fruit incomplet et une moitie d'Isshiki (formulation BIBLE). Puissance immense, en deca d'une moisson complete : l'asymetrie face a Shinbushiki. [INTERPRETATION validee]
+- Devore le fruit : moisson au rabais - un fruit incomplet et une moitie d'Isshiki (formulation BIBLE).
+- Reserves ensuite epuisees : le peu consomme est parti dans la creation de ses fils, puis dans la guerre perdue contre eux. A sec au scellement. [Decision worldbuilder]
+- Asymetrie face a Shinbushiki, recablee : lui conserve 1/3 d'un fruit gave par la biomasse d'un monde entier ; elle n'a plus rien. [Decision worldbuilder, remplace l'ancienne formulation "moisson complete"]
 - Sa methode ensuite est la doctrine de la graine appliquee : chakra seme, dilue, cultive lentement par l'humanite - d'abord via sa propre lignee, Hagoromo et Hamura.
 
 ### La chute
@@ -38,7 +40,7 @@
 - Neuf siecles de sceau ecoules au point de depart. Etat de conscience dans le sceau : [INCERTAIN - a cadrer en Passe 2].
 
 ## Capacites (sous sceau, inertes au point de depart)
-- Puissance quasi divine issue du fruit : chakra colossal, vol, absorption de chakra.
+- Puissance quasi divine issue du fruit : chakra colossal, vol, absorption de chakra. Capital du fruit epuise au scellement (fils + guerre) - le pic decrit n'est plus l'etat courant. [Decision worldbuilder]
 - Byakugan aux deux yeux ; Rinne Sharingan frontal - dimensions personnelles, Tsukuyomi Infini.
 - Os assassins reduisant leur cible en cendres.
 
