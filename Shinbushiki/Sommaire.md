@@ -1,6 +1,6 @@
 # Sommaire - Shinbushiki
 
-- version : W3
+- version : W4
 
 ## WIKI
 
@@ -13,8 +13,18 @@ Description : mecaniques du monde et de Shinbushiki (clan, dojutsu, chakra sombr
 - Yamiton.md (W2) - chakra sombre, absorption, armes d'ombre, arsenal de copies
 
 ### Personnages/
-Description : fiches d'entites neutres (noyau + Trajectoire datee).
-- Shinbushiki.md (W1) - fiche noyau du protagoniste : identite, physique, psychologie, guerre des doctrines, usurpation, capacites, relations
+Description : fiches d'entites neutres (noyau + Trajectoire datee). Etat des entites a la veille du marquage.
+- Shinbushiki.md (W3) - fiche noyau du protagoniste : identite, physique, psychologie, guerre des doctrines, usurpation, capacites, relations
+- Neji_Hyuga.md (W1) - vaisseau designe : affaire Kumo, fatalisme, techniques Soke en cours, equipe Gai
+- Hiashi_Hyuga.md (W1) - chef du clan Hyuga : jumeau de Hizashi, culpabilite, secret du sacrifice
+- Hinata_Hyuga.md (W1) - heritiere Soke : heritiere decevante, admiration secrete pour Naruto
+- Maito_Gai.md (W1) - jonin sensei : fils de Dai, doctrine de l'effort, Huit Portes
+- Rock_Lee.md (W1) - genin sans ninjutsu : disciple de Gai, entrainement en cours, aucune Porte
+- Tenten.md (W1) - genin : lancer d'elite, parchemins en rodage
+- Hagoromo_Otsutsuki.md (W1) - Sage des Six Chemins : ninshu, scission des Biju, standoff tacite avec Shinbushiki, savoirs bornes
+- Kaguya_Otsutsuki.md (W1) - soldate du camp de la graine devenue devoreuse du fruit : trahison d'Isshiki, attirance avortee, scellee
+- Zetsu_Noir.md (W1) - volonte de Kaguya : neuf siecles de sape, savoirs systemiques sans identites, decode un Kama a vue
+- Isshiki_Otsutsuki.md (W1) - souverain trahi : terre en Jigen, sait qu'un Otsutsuki rode, capacites bridees
 
 ### Fiches_Arc/Shinbushiki/
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs arc precedent / arc suivant), pas par un index des roadmaps. Vide a ce build - Passe 3.
