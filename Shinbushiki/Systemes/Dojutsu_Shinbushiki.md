@@ -1,6 +1,6 @@
 # Dojutsu de Shinbushiki
 
-- version : W1
+- version : W2
 
 ## Kagegan (oeil droit, actif)
 Apparence : iris bleu nuit, spirale de petales sombres autour de la pupille (visuel : Kagegan.png).
@@ -19,13 +19,15 @@ Apparence : iris bleu nuit, spirale de petales sombres autour de la pupille (vis
 
 ## Oeil hybride (oeil gauche, perdu)
 - Nature : a mi-chemin entre Rinnegan (versant spatial) et Byakugan (lecture des flux de chakra).
+- Versant spatial : perception spatiale + failles dimensionnelles. AUCUNE translation courte (type Amenotejikara) : toute apparence de teleportation chez Shinbushiki est de la vitesse pure.
+- Les failles restent natives chez tout Otsutsuki, oeil ou pas (cf. WIKI Systemes/Otsutsuki_Et_Moisson.md).
 - Perte : arrache, avec une corne, durant le combat d'usurpation contre son souverain. Cicatrice visible sur l'oeil clos (visuel : Shinbushiki.png).
 - Condition de retour : un nouveau corps. N'importe quel corps assez robuste pour l'accueillir suffit.
 - Optimisation Neji : la lignee Hyuga pure affine le versant Byakugan au-dela de l'original.
 - Etat post-resurrection : le corps de Shinbushiki-Neji perd les Byakugan et porte les deux dojutsu de Shinbushiki ; versant Byakugan plus precis que dans le corps d'origine.
 
 ## Notes
-- [INCERTAIN] Portee exacte du versant spatial de l'oeil hybride (perception, deplacement, les deux ?). A trancher worldbuilder avant les roadmaps.
+- [INCERTAIN] Gain exact de l'oeil hybride sur les failles, au-dela de la perception (precision, usage en combat), sachant que les failles sont deja natives. A trancher en fiche (Passe 1).
 
 ---
 

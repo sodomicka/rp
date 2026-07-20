@@ -1,6 +1,6 @@
 # Yamiton
 
-- version : W1
+- version : W2
 
 ## Nature
 - Chakra sombre propre a Shinbushiki. Ni un element terrestre, ni un derive du chakra de Kaguya ou d'Isshiki.
@@ -18,12 +18,19 @@ Le chakra absorbe alimente les reserves de Shinbushiki.
 
 ## Armes d'ombre
 - Creation d'armes d'ombre pure, a volonte.
+- Formes : arsenal de type occidental, de la dague a l'espadon de plus de 5 metres, selon le besoin.
+- Cout : proportionnel a la taille de l'arme.
+- Materialisation : dans sa main, ou en pluie d'armes abattue depuis le ciel.
+- Portee de creation : quelques dizaines de metres au maximum.
+- Persistance : jusqu'a dissolution, a volonte.
 - Proprietes : memes proprietes ponctionneuses que le toucher direct.
-- [INCERTAIN] Formes possibles, portee de creation, persistance des armes. A trancher worldbuilder.
+- [INCERTAIN] Arme saisie par un tiers : le ponctionne, reste inerte, se dissout ? A trancher worldbuilder.
 
 ## Jutsu Yamiton
 - Les jutsu copies par le Kagegan deviennent des jutsu Yamiton (5 slots ecrasables, hors dojutsu).
-- [INCERTAIN] Existence d'un arsenal Yamiton NATIF hors copies (techniques propres anterieures au Kagegan), ou arsenal integralement copie. A trancher worldbuilder.
+- Arsenal : copies uniquement. Aucun jutsu Yamiton natif.
+- Slots au marquage de Neji : 3 jutsu du Jubi de sa moisson (devore), 1 du souverain renverse, 1 de Hagoromo.
+- Contenu precis des 5 jutsu : a definir en fiche Shinbushiki (Passe 1).
 
 ---
 

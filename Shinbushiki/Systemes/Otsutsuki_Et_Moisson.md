@@ -1,11 +1,16 @@
 # Otsutsuki et Moisson
 
-- version : W1
+- version : W2
 
 ## Le clan Otsutsuki
 - Clan parasite interstellaire. Seme le chakra sur des mondes, les cultive, recolte le fruit de l'Arbre Divin (moisson).
 - Progression : devorer des fruits eleve un Otsutsuki en puissance et en rang.
 - Le clan opere par PAIRES : un souverain et un compagnon de rang inferieur, destine a l'offrande.
+
+## Failles dimensionnelles
+- Le voyage par failles est une capacite NATIVE des Otsutsuki : aucun dojutsu requis.
+- Le Rinnegan porte cette capacite : un mortel dote d'un Rinnegan peut creer des failles (canon : Sasuke).
+- Shinbushiki, prive de son oeil hybride, ouvre des failles : il est arrive sur Terre ainsi.
 
 ## La branche sacrifiable [DIVERGENCE RP]
 - Extension RP : le canon implique une hierarchie par paire ; le RP la formalise en caste dediee.
