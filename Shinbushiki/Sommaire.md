@@ -1,6 +1,6 @@
 # Sommaire - Shinbushiki
 
-- version : W2
+- version : W3
 
 ## WIKI
 
@@ -8,12 +8,13 @@
 
 ### Systemes/
 Description : mecaniques du monde et de Shinbushiki (clan, dojutsu, chakra sombre).
-- Otsutsuki_Et_Moisson.md (W2) - clan Otsutsuki, failles dimensionnelles, branche sacrifiable, moisson, Kama et variante, traque
+- Otsutsuki_Et_Moisson.md (W3) - clan Otsutsuki, failles, guerre des doctrines, branche sacrifiable, moisson, Kama et variante, traque
 - Dojutsu_Shinbushiki.md (W2) - Kagegan (Vide, copie sombre, 5 slots) et oeil hybride perdu
 - Yamiton.md (W2) - chakra sombre, absorption, armes d'ombre, arsenal de copies
 
 ### Personnages/
-Description : fiches d'entites neutres. Vide a ce build - noyaux en Passe 1.
+Description : fiches d'entites neutres (noyau + Trajectoire datee).
+- Shinbushiki.md (W1) - fiche noyau du protagoniste : identite, physique, psychologie, guerre des doctrines, usurpation, capacites, relations
 
 ### Fiches_Arc/Shinbushiki/
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs arc precedent / arc suivant), pas par un index des roadmaps. Vide a ce build - Passe 3.
