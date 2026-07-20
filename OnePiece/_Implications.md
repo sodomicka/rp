@@ -1,6 +1,6 @@
 # _Implications - OnePiece
 
-- version : W1
+- version : W2
 
 Journal de travail du worldbuilding. Pense-bete de coordination. JAMAIS fetche en narration.
 
@@ -9,6 +9,7 @@ Journal de travail du worldbuilding. Pense-bete de coordination. JAMAIS fetche e
 - Plafond d'entrees de la strate Trajectoire datee des fiches (SPEC : a fixer par le worldbuilder).
 
 ## A trancher en Passe 2 (roadmaps)
+- Roadmap Ohara : Sonia BRISE ses lunettes en fuyant le Buster Call (beat acte, myopie severe = chaos de fuite).
 - Date d'entree chez Baroque Works. Contraintes actees : jumelles majeures, sejour inferieur a 10 ans.
 - Details operationnels Miss Black Friday : missions, place exacte dans l'organigramme au-dela de "seconde partenaire de Mr. 0".
 - Destination de la dispersion de Sabaody : ensemble (pacte Kuma) ; canon Robin = Tequila Wolf.
@@ -26,14 +27,16 @@ Journal de travail du worldbuilding. Pense-bete de coordination. JAMAIS fetche e
 - Cadrage des scenes de l'arrangement Sonia-Crocodile : DEUX types de scenes uniquement (charme pour desamorcer, Robin sort du bureau ; retour en chambre, salle de bain, Robin tient les cheveux, priere silencieuse a Nika). Ellipse totale du reste. Pas de syndrome de Stockholm, aucun amour : Robin hait Crocodile, Sonia se hait elle-meme. Survie. -> limites et sensibilites du SETUP + ANNEXE_STYLE.
 - Trauma tacite : seules les soeurs savent, seules elles sauront. Jamais de revelation narrative. -> ANNEXE_SAVOIRS du CODEX V1 (ironie dramatique cote joueur).
 
+## Terminologie
+- Escargophone : nom francais des Den Den Mushi, acte. Fruits du demon : noms japonais conserves (Kaki Kaki, Hana Hana). A ajouter au lexique SB2 au prochain BIBLE BUILD.
+
 ## Matiere actee a integrer en Passe 1 (fiches noyau)
-- Rituel du sommeil : Robin s'endort 5 s apres Sonia ; Sonia se reveille 5 s avant, inspire l'odeur de sa moitie. Lit unique chez Roji, demi-ration a partager.
-- Routine du bras de graphene : dissous a la nuit tombee, recree au matin (post-maitrise de l'eveil).
-- Lunettes : myopie severe de Sonia ; montures multiples en cavale (casse frequente + anonymat).
-- Repartition de l'Arbre de la Connaissance ; methode d'apprentissage des poneglyphes (Robin espionne, Sonia note ; lecture vs ecriture).
-- Formule de foi : "Elles ne craignent aucun dieu, elles en idolatrent un."
-- Crayons offerts par Robin a chaque anniversaire ; systeme des trois carnets (noirs, rouge, bleu detruit an -20).
-- Ressemblance physique Robin-Sonia : jumelles identiques, differenciees par tresses, lunettes, bras gauche.
+- Fiche Sonia W1 : FAITE, marqueurs resolus (trois carnets = etat initial ; crayons depuis toujours ; Saul rencontre avant le depart).
+- Fiche Robin : frange jusqu'a l'ellipse ; robes ou pantalons ; diplome commun an -20 ; s'endort 5 s apres Sonia ; lecture poneglyphe superieure, degage les sens multiples plus vite ; offre des crayons chaque 6 fevrier, recoit un livre d'histoire sur un pays encore inconnu d'elle.
+- Fiche Saul : rire "Dereshishishi" (source du Dareshishishishi de Sonia) ; amuse par la deformation ; ravitaille par les jumelles avant le point de depart.
+- Fiche Clover : argent de poche donne aux jumelles pour recompenser leur serieux.
+- Fiche Roji : demi-ration, lit unique, maltraitance des deux.
+- Routine du bras de graphene (dissous la nuit, recree au matin) : entree Trajectoire de Sonia en Passe 2 (post-Enies Lobby), pas en noyau.
 
 ---
 
