@@ -1,6 +1,6 @@
 # Garde_Cap - Passe 2 Shinbushiki
 
-- version : W1
+- version : W2
 - dossier : Roadmap/Shinbushiki (non indexe au Sommaire, comme les roadmaps)
 - nature : document de PILOTAGE inter-threads. Source de build uniquement, jamais fetche en narration.
 - role : garder le cap entre les threads de Passe 2 (une roadmap par thread). Charge en OUVERTURE de chaque thread de build, mis a jour en CLOTURE.
@@ -53,7 +53,7 @@
 - Detail complet et backlog BIBLE B3 : cf. {Univers}/_Implications.md.
 
 ## Versions courantes des pages (a jour au dernier build)
-- BIBLE : B2 (backlog B3 ouvert). Sommaire : W4 (bump W5 au prochain BIBLE BUILD).
+- BIBLE : B3. Sommaire : W5. Backlog BIBLE B4 : vide (_Implications).
 - Personnages : Shinbushiki W4 ; Kaguya W2 ; Hors_Monde W1 (nouvelle) ; autres W1.
 - Systemes : Otsutsuki_Et_Moisson W4 ; Dojutsu_Shinbushiki W2 ; Yamiton W2.
 - Roadmaps : 00 W1.
