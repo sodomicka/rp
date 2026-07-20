@@ -1,6 +1,6 @@
 # Otsutsuki et Moisson
 
-- version : W2
+- version : W3
 
 ## Le clan Otsutsuki
 - Clan parasite interstellaire. Seme le chakra sur des mondes, les cultive, recolte le fruit de l'Arbre Divin (moisson).
@@ -12,8 +12,15 @@
 - Le Rinnegan porte cette capacite : un mortel dote d'un Rinnegan peut creer des failles (canon : Sasuke).
 - Shinbushiki, prive de son oeil hybride, ouvre des failles : il est arrive sur Terre ainsi.
 
+## La guerre des doctrines
+- Conflit interne ancien. Camp de la graine : semer le chakra, maturation lente par l'espece indigene. Camp du sacrifice : offrande d'un Otsutsuki au Jubi, implantation forcee, recolte rapide et intense (Isshiki, Momoshiki).
+- Le camp de la graine a perdu (forces ecrasantes, reddition). Son chef : premier offert a un Jubi.
+- Les vaincus et leur descendance sont designes offrandes : origine de la branche sacrifiable.
+- Kaguya et Shinbushiki : anciens soldats du camp vaincu. Leurs trahisons respectives sont deux refus du meme sort.
+- Coherence canon : la methode de Kaguya sur Terre (chakra dilue dans l'humanite, maturation lente) est la doctrine de la graine appliquee.
+
 ## La branche sacrifiable [DIVERGENCE RP]
-- Extension RP : le canon implique une hierarchie par paire ; le RP la formalise en caste dediee.
+- Extension RP : le canon implique une hierarchie par paire ; le RP la formalise en caste dediee, issue de la guerre des doctrines.
 - Ses membres accompagnent un souverain comme offrande designee du rituel.
 - Rituel : le sacrifiable est donne au Jubi ; le Jubi devient chrysalide de l'Arbre Divin ; l'arbre porte le fruit.
 - Le souverain devore le fruit, monte en rang, repart. Le sacrifiable n'existe que pour ce role.
