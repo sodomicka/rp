@@ -1,6 +1,6 @@
 # Otsutsuki et Moisson
 
-- version : W3
+- version : W4
 
 ## Le clan Otsutsuki
 - Clan parasite interstellaire. Seme le chakra sur des mondes, les cultive, recolte le fruit de l'Arbre Divin (moisson).
@@ -11,6 +11,16 @@
 - Le voyage par failles est une capacite NATIVE des Otsutsuki : aucun dojutsu requis.
 - Le Rinnegan porte cette capacite : un mortel dote d'un Rinnegan peut creer des failles (canon : Sasuke).
 - Shinbushiki, prive de son oeil hybride, ouvre des failles : il est arrive sur Terre ainsi.
+
+## Voyage et signal [Decision worldbuilder]
+- Traversee interstellaire par faille : vitesse lumiere + hibernation, conscience par intermittence.
+- Les signatures de chakra se propagent a vitesse lumiere : toute perception hors-monde arrive avec le retard de la distance.
+- Consequence : le savoir du clan sur un evenement lointain est toujours en retard de plusieurs siecles (nourrit BIBLE SB8, Savoir de la branche principale).
+
+## Inspection et latence [Decision worldbuilder]
+- Le camp du sacrifice suit ses moissons : une paire d'inspecteurs est depechee apres le debut de chaque moisson pour en verifier le deroulement.
+- Latence d'inspection proportionnelle a la distance au point d'origine du clan.
+- Exemples : monde du souverain efface (proche) -> quelques annees ; Terre (lointaine) -> ~2 millenaires (Momoshiki et Kinshiki, ere Boruto).
 
 ## La guerre des doctrines
 - Conflit interne ancien. Camp de la graine : semer le chakra, maturation lente par l'espece indigene. Camp du sacrifice : offrande d'un Otsutsuki au Jubi, implantation forcee, recolte rapide et intense (Isshiki, Momoshiki).
@@ -27,8 +37,10 @@
 - Statut : outil. Aucun droit a la moisson, aucune legitimite propre.
 - Precedent structurel canon : Kaguya, compagne d'Isshiki, l'a trahi avant l'offrande. Meme crime que Shinbushiki.
 
-## Mecanique de moisson (canon)
+## Mecanique de moisson (canon, complements RP)
 - Le chakra seme se diffuse et se cultive chez les indigenes ; il enrichit la recolte finale.
+- Methode rapide standard : selection prealable de l'espece la plus pertinente a infuser (le souverain efface s'y employait, en projection Senrigan, quand il fut renverse).
+- Methode rapide sans selection [Decision worldbuilder] : l'arbre draine TOUTE vie, faune et flore - genocide planetaire. Produit un fruit juvenile (maturation ~50 ans) mais gave par la biomasse entiere. Precedent unique : la moisson usurpee de Shinbushiki.
 - Sur Terre : Kaguya a devore le fruit ; le chakra s'est ensuite dilue dans l'humanite via sa lignee.
 - Un monde moissonne meurt.
 
@@ -40,17 +52,10 @@
 - Le Kama absorbe le ninjutsu (canon Boruto/Kawaki).
 - Compatibilite : plus le chakra du vaisseau est pur et robuste, mieux l'inscription prend.
 
-## Variante Shinbushiki
-- Marque : losange sombre, base du cou, entre les clavicules. Visible, illisible (nul sur Terre ne connait les Otsutsuki).
-- Vaisseau : Neji Hyuga. Choisi pour la purete de sa lignee (compatibilite quasi parfaite) et son fatalisme (receptif au recit de l'elu).
-- Extraction a la mort de Neji (4e Guerre) : ~50%.
-- Rachat du vaisseau : Shinbushiki brule sa restauration integrale pour reconstruire le corps. Resultat : ~80% Otsutsuki.
-- Plafond : 80% tant que le corps reste celui de Neji.
-- Porte ouverte : un transfert vers un nouveau corps reste possible. Seule la part Otsutsuki partirait ; Neji mourrait definitivement. Refus perpetuel (fil Tchekhov, cf. BIBLE SB8).
-
 ## La traque
 - L'usurpation d'une moisson par un sacrifiable est le crime supreme du clan.
-- Shinbushiki : a tue son souverain en pleine moisson, devore le fruit, gagne une puissance de souverain et le statut de traitre.
+- Shinbushiki : a offert son souverain au Jubi a l'ouverture de la moisson, aspire le fruit juvenile, tue les deux inspecteurs venus refuser sa legitimite.
+- Balise d'allumage : les signatures du combat contre les inspecteurs, parties a vitesse lumiere - le clan apprend le crime avec des siecles de retard.
 - La branche principale traque les traitres sans limite de temps.
 - Convergence vers la Terre en ere Boruto : Momoshiki et Kinshiki (inspection du monde de Kaguya + traque).
 
