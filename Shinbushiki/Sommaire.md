@@ -1,6 +1,6 @@
 # Sommaire - Shinbushiki
 
-- version : W1
+- version : W2
 
 ## WIKI
 
@@ -8,9 +8,9 @@
 
 ### Systemes/
 Description : mecaniques du monde et de Shinbushiki (clan, dojutsu, chakra sombre).
-- Otsutsuki_Et_Moisson.md (W1) - clan Otsutsuki, branche sacrifiable, moisson, Kama et variante, traque
-- Dojutsu_Shinbushiki.md (W1) - Kagegan (Vide, copie sombre, 5 slots) et oeil hybride perdu
-- Yamiton.md (W1) - chakra sombre, absorption, armes d'ombre
+- Otsutsuki_Et_Moisson.md (W2) - clan Otsutsuki, failles dimensionnelles, branche sacrifiable, moisson, Kama et variante, traque
+- Dojutsu_Shinbushiki.md (W2) - Kagegan (Vide, copie sombre, 5 slots) et oeil hybride perdu
+- Yamiton.md (W2) - chakra sombre, absorption, armes d'ombre, arsenal de copies
 
 ### Personnages/
 Description : fiches d'entites neutres. Vide a ce build - noyaux en Passe 1.

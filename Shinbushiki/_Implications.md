@@ -10,10 +10,13 @@ Document de TRAVAIL. Jamais fetche en narration. Pense-bete de coordination entr
 - Semis de l'attachement arc par arc (Lee, Hinata, discours de Naruto a l'examen) : distribuer les jalons dans les roadmaps.
 
 ## Questions ouvertes (worldbuilder)
-- Versant spatial de l'oeil hybride : perception, deplacement, les deux ?
-- Armes d'ombre : formes possibles, portee de creation, persistance.
-- Arsenal Yamiton natif hors copies : existe, ou tout est copie ?
-- Plafond d'entrees de la strate Trajectoire datee par fiche : a fixer (cf. SPEC).
+- Contenu precis des 5 slots au marquage (3 jutsu du Jubi devore, 1 du souverain renverse, 1 de Hagoromo) : a definir en fiche Shinbushiki (Passe 1).
+- Gain exact de l'oeil hybride sur les failles, au-dela de la perception, sachant que les failles sont natives : a trancher en fiche (Passe 1).
+- Armes d'ombre saisies par un tiers : ponction du tiers, inertie, dissolution ?
+
+## Decisions de build loggees
+- Trajectoire datee : AUCUN plafond d'entrees par fiche (decision worldbuilder, revisable).
+- Vitesse : toute apparence de teleportation chez Shinbushiki est de la vitesse pure, jamais un raccourci spatial.
 
 ## A verifier a la cloture de Passe 2
 - Coherence traque : la mort du corps de Shinbushiki (marquage) altere-t-elle la piste suivie par la branche principale ?
