@@ -45,15 +45,11 @@ Document de TRAVAIL. Jamais fetche en narration. Pense-bete de coordination entr
 - OC morts hors-monde : page groupee Personnages/Hors_Monde.md (souverain, chef premier, deux inspecteurs).
 - Garde_Cap.md cree dans Roadmap/Shinbushiki/ : document de pilotage inter-threads de Passe 2.
 
-## Backlog BIBLE B3 (prochain BIBLE BUILD)
-- SB1 : asymetrie reecrite (lui 1/3 d'un fruit juvenile gave-total ; elle a sec) ; "devore le fruit" -> "aspire le fruit juvenile" ; regles voyage/signal/latence (renvoi Systemes).
-- SB3 : pertes deplacees aux inspecteurs ; "en pleine moisson" -> "a l'ouverture de la moisson" ; lignes chrono ajoutees (renversement, inspecteurs, signal, cable 500+500) ; recalage Kaguya ~2 millenaires ; Hagoromo ~1 millenaire post-scellement.
-- SB5 : entrees Hors_Monde (renvoi page groupee).
-- SB8 : Savoir de la branche principale - nourri (balise inspecteurs, latence par distance).
-- SB9 / Sommaire W5 : bumps de versions (Shinbushiki W4, Kaguya W2, Otsutsuki_Et_Moisson W4) + indexer Personnages/Hors_Monde.md.
+## Backlog BIBLE B4 (prochain BIBLE BUILD)
+- (vide - backlog B3 consomme au build du 2026-07-20 : BIBLE B3 + Sommaire W5 livres)
 
 ## Maintenance en attente
-- Pages Systemes : bumps Dojutsu/Yamiton a l'occasion - reporter les regles tranchees en fiche et solder leurs notes internes ([INCERTAIN] oeil hybride dans Dojutsu ; [INCERTAIN] arme saisie et "slots a definir" dans Yamiton). Non bloquant : les fiches priment. (Otsutsuki_Et_Moisson : bump W4 FAIT a ce build.)
+- Pages Systemes : bumps Dojutsu/Yamiton a l'occasion - reporter les regles tranchees en fiche et solder leurs notes internes ([INCERTAIN] oeil hybride dans Dojutsu ; [INCERTAIN] arme saisie et "slots a definir" dans Yamiton). Non bloquant : les fiches priment. (Otsutsuki_Et_Moisson : bump W4 FAIT. BIBLE B3 + Sommaire W5 : FAITS, 2026-07-20.)
 - Purge faite a ce build : conflit slot 3 (solde) ; mention "floraison" (soldee, fiche W4).
 
 ## A verifier a la cloture de Passe 2
