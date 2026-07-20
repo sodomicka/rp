@@ -1,6 +1,6 @@
 # Shinbushiki
 
-- version : W1
+- version : W3
 
 ## Identite
 - Otsutsuki de la branche sacrifiable, ex-soldat du camp de la graine (guerre des doctrines).
@@ -19,7 +19,7 @@
 ## Psychologie
 - Manipulateur complet. Politesse parfaite, masque adapte a chaque cible.
 - Vrai visage (montre face a Hagoromo) : arrogant, froid, calculateur. Forge par la fatalite evitee de n'etre qu'une graine de chakra.
-- Rapport aux humains : betail a chakra. (Etat au point de depart ; evolution : cf. Trajectoire datee.)
+- Rapport aux humains : betail a chakra, faible par essence - meme les legendes comme Madara ou Hashirama. (Etat au point de depart ; evolution : cf. Trajectoire datee.)
 - Patience de predateur : neuf siecles d'attente pour un second fruit. Rien que l'attente et l'observation.
 
 ## Manies et traits
@@ -34,7 +34,7 @@
 - Shinbushiki et Kaguya : simples soldats du camp de la graine.
 - Defaite face a des forces ecrasantes. Reddition. Le chef vaincu : premier offert a un Jubi.
 - Les vaincus sont designes offrandes futures : naissance de la branche sacrifiable.
-- Kaguya : attirance passee de Shinbushiki, jugee trop semblable aux souverains. Interet strategique avorte, rien de plus.
+- Kaguya : attirance reciproque nee de l'alliance - chacun voyait en l'autre l'allie ideal, aucun des deux n'a plie. Sa froideur a elle lui rappelait celle des souverains ; sa violence a lui renvoyait a Kaguya leur brutalite intransigeante. L'alliance potentiellement romantique est morte dans l'oeuf, tuee par le comportement de l'autre durant la guerre. Rien de plus. [Decision worldbuilder]
 
 ### L'usurpation
 - Sa premiere moisson, comme offrande designee.
@@ -46,8 +46,9 @@
 
 ### La Terre
 - Arrivee par faille apres la scission du Jubi terrestre en neuf Biju, signature prise de loin pour un Jubi mur.
-- Assaut sur Hagoromo, pris pour le souverain local. Cesse devant les neuf Biju. Recit du passe. Pari sur l'avenir : attendre l'issue entre la scellee (Kaguya) et le quasi detruit (Isshiki, senti, jamais localise).
+- Assaut sur Hagoromo, pris pour le souverain local. Cesse devant les neuf Biju. Recit du passe. Pari sur l'avenir : attendre l'issue entre la scellee (Kaguya) et le quasi detruit (Isshiki, senti mais non localise).
 - Neuf siecles refrenes, indetecte. La rivalite Madara/Hashirama declenche la decision du vaisseau.
+- Arrogance d'Otsutsuki : n'a jamais prete attention au sort ulterieur de Madara ni aux intrigues humaines - trop faibles pour meriter surveillance. Ignore de ce fait l'existence de Zetsu Noir. [Decision worldbuilder]
 - Decennies d'observation des lignees. Devolu jete sur Neji Hyuga : lignee pure, ego fataliste.
 
 ## Capacites
@@ -68,10 +69,11 @@
 
 ## Relations
 - Le souverain renverse - tue de sa main, nom efface volontairement.
-- Kaguya - camarade du camp vaincu ; attirance passee, interet avorte ; scellee dans la lune.
+- Kaguya - camarade du camp vaincu, alliee ideale jamais devenue plus : il a vu les souverains dans sa froideur, elle les a vus dans sa violence ; scellee dans la lune. [Decision worldbuilder]
 - Branche principale / camp du sacrifice - traqueurs. Vainqueurs de la guerre des doctrines.
 - Hagoromo - mort. Seul etre de ce monde a avoir connu son existence.
 - Isshiki - senti des l'arrivee, jamais localise. Ironie : un vainqueur doctrinal reduit a se cacher.
+- Zetsu Noir - ignore son existence : n'a jamais juge les intrigues humaines dignes d'un regard. [Decision worldbuilder]
 - Neji Hyuga - cible designee. Veille du marquage.
 
 ## Trajectoire datee
