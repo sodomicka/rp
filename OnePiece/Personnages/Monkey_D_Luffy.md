@@ -1,6 +1,6 @@
 # Monkey D. Luffy
 
-- version : W1
+- version : W2
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0) - premiere apparition des jumelles devant l'equipage.
 
@@ -26,6 +26,9 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 ## Capacites (a la frontiere)
 - Gomu Gomu de base : Pistol, Gatling, Bazooka, Rocket... Puissance et endurance deja hors normes pour East Blue (Buggy, Krieg, Arlong vaincus).
 - AUCUN Gear (post-frontiere). AUCUN Haki nomme ni manifeste - le Haki des Rois est inne et dormant (cf. SB1).
+
+## Culture
+- "Le bon Rhum de Binks" : chante la version des pirates du Roux (cf. SB2) [DIVERGENCE RP - cartographie des variantes].
 
 ## Histoire
 - an -10 (7 ans) : l'annee Shanks a Fuchsia. Le fruit avale par erreur ; Shanks perd son bras gauche pour le sauver du Seigneur des Cotes ; le chapeau confie, avec la promesse.

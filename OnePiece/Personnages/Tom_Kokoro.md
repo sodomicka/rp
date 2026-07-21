@@ -1,6 +1,6 @@
 # Tom et Kokoro
 
-- version : W1
+- version : W2
 
 Fiche unique : le maitre charpentier de Water 7 et la secretaire de Tom's Workers - le foyer du sejour des jumelles an -9/-8 [DIVERGENCE RP]. Entites canon.
 FRONTIERES DU NOYAU (par entite, regle actee) : Tom <= sa chute (an -8) - fiche 100 pour cent noyau, aucune Trajectoire ; Kokoro <= ouverture de l'arc Water 7 (an 0).
@@ -37,7 +37,7 @@ FRONTIERES DU NOYAU (par entite, regle actee) : Tom <= sa chute (an -8) - fiche 
 - Iceburg et Cutty Flam - les deux eleves, quasi-fils d'atelier ; rivalite braillarde des gamins, patience amusee du maitre.
 - Jumelles Nico [DIVERGENCE RP] - un an sous le toit de Tom (an -9/-8), identite connue de TOUTE la maisonnee, garantie par Tom. Parties sans adieu le soir de l'annonce du CP5 ; la maisonnee sait pourquoi elles ont fui.
 - Den - frere cadet de Tom, charpentier de l'ile des Hommes-Poissons.
-- Yokozuna - grenouille elevee a l'atelier [CANON SUPPOSE pour la presence exacte pendant le sejour], future rivale attitree du Puffing Tom.
+- Yokozuna - grenouille elevee a l'atelier (presence a l'atelier confirmee canon), future rivale attitree du Puffing Tom.
 - Spandam - le bourreau de l'affaire des plans (cf. Spandam_Spandine).
 - Chimney et Gonbe - petite-fille de Kokoro et son "chat" (an 0).
 

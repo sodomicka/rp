@@ -1,6 +1,6 @@
 # Sanji
 
-- version : W1
+- version : W2
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 Calibration psycho actee par le worldbuilder (thread 10) : confiance, sensibilite, rapport aux femmes.
@@ -21,6 +21,9 @@ Calibration psycho actee par le worldbuilder (thread 10) : confiance, sensibilit
 ## Capacites (a la frontiere)
 - Jambe Noire : le style de coups de pied de Zeff - puissance et vitesse d'elite pour East Blue. Les mains ne combattent JAMAIS : un cuisinier vit de ses mains. AUCUN Diable Jambe (post-frontiere).
 - Cuisinier d'exception ; gestion du garde-manger en chef de guerre : a bord, rien ne se gaspille et personne ne saute un repas.
+
+## Culture
+- "Le bon Rhum de Binks" : chante la version du Baratie (cf. SB2) [DIVERGENCE RP - cartographie des variantes].
 
 ## Histoire
 - an -19 -> -11 [ENTERRE] : l'enfance-laboratoire du Germa. Manipulations genetiques de Judge sur ses quatre fils ; Sora, la mere, prend un contre-poison au prix de sa sante pour sauver le coeur de Sanji - seul des quatre a rester humain. Elle en meurt. Juge "rate" par son pere, martyrise par Ichiji, Niji et Yonji ; declare mort en funerailles d'Etat ; six mois de cachot au masque de fer.

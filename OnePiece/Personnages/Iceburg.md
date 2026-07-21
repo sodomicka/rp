@@ -1,6 +1,6 @@
 # Iceburg
 
-- version : W1
+- version : W2
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= ouverture de l'arc Water 7 (an 0).
 
@@ -20,12 +20,12 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= ouverture de l'arc Water 7 (
 - Charpentier naval de premier ordre, forme par Tom ; co-constructeur du train des mers. Organisateur et batisseur d'empire. Aucune competence de combat notable : son pouvoir est civil - la ville l'aime et le protege.
 
 ## Histoire
-- Apprenti de Tom des l'enfance, aux cotes de Cutty Flam ; rivalite braillarde des deux, patience amusee du maitre. Dix ans de chantier du train des mers aupres de Tom et Flam ; larmes au voyage inaugural.
+- Apprenti de Tom des l'enfance, aux cotes de Cutty Flam ; rivalite braillarde des deux, patience amusee du maitre. C'est lui qui, enfant, surnomme Cutty Flam "Franky" ("Cutty Flam, c'est un nom bizarre") - le surnom restera. Dix ans de chantier du train des mers aupres de Tom et Flam ; larmes au voyage inaugural.
 - an -9/-8 [DIVERGENCE RP] : 29 ans, senior de l'atelier pendant le sejour des jumelles Nico. Il SAIT qui elles sont - Tom s'est porte garant devant la maisonnee. Un an de quotidien ; au matin de la fuite (le soir meme de l'annonce du CP5), decouvre deux lits vides et comprend pourquoi.
 - an -8 : la chute de Tom (frame-up de Spandam, cf. Spandam_Spandine). Tom lui confie les plans de Pluton. En les recevant, il mesure ce qui a cohabite sous le toit de Tom : l'arme du Siecle Oublie et deux lectrices d'Ohara [DIVERGENCE RP].
 - an -7 : fonde la Galley-La Company en fusionnant les sept chantiers ; la ville renait par le train et le chantier. Devient maire [date exacte : INCERTAIN, entre an -7 et an 0].
 - an -5 : le CP9 s'infiltre autour de lui (Kalifa secretaire, Lucci et Kaku contremaitres du Dock 1, Blueno barman). Il l'IGNORE totalement.
-- an -4 : retour de Cutty Flam, cyborg, presume mort. Rencontre nocturne a l'ancien entrepot de Tom's Workers : "jamais je ne te pardonnerai" - et des larmes de le savoir vivant. Iceburg lui confie les VRAIS plans de Pluton, invente lui-meme le nom "Franky" (Cutty Flam est legalement mort), lui ordonne de quitter l'ile. Refus. Depuis : ennemis publics (la Franky Family contre Galley-La), freres en prive - et gardiens du meme secret.
+- an -4 : retour de Cutty Flam, cyborg, presume mort. Rencontre nocturne a l'ancien entrepot de Tom's Workers : "jamais je ne te pardonnerai" - et des larmes de le savoir vivant. Iceburg lui confie les VRAIS plans de Pluton ; Cutty Flam, legalement mort, adopte comme identite le surnom d'enfance "Franky" que lui donnait Iceburg (canon ch. 358) ; ordre de quitter l'ile. Refus. Depuis : ennemis publics (la Franky Family contre Galley-La), freres en prive - et gardiens du meme secret.
 
 ## Etat a la frontiere (ouverture Water 7, an 0)
 - Maire et president adules, Tyrannosaure en poche, saison de l'Aqua Laguna qui approche. Garde un FAUX plan de Pluton ; les vrais sont chez Franky depuis an -4. Entoure sans le savoir de quatre agents du CP9. N'a pas revu les jumelles depuis onze ans ; sait qu'elles ont fui pour proteger Tom - et que Tom est tombe quand meme.

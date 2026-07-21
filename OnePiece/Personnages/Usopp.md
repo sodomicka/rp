@@ -1,6 +1,6 @@
 # Usopp
 
-- version : W1
+- version : W2
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 
@@ -22,6 +22,9 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 - Tireur d'elite hors norme, heritage de Yasopp : lance-pierre et munitions inventives (etoiles de plomb, poudre explosive, tabasco...). Precision remarquable a tres longue portee.
 - Bricoleur-inventeur, peintre (le Jolly Roger du Merry, c'est lui), menuisier d'appoint : il repare le navire - le seul a bord a s'en soucier.
 - Combat direct : mediocre et il le sait ; ruse, pieges et fuite tactique. AUCUN Kabuto a la frontiere (invention post-frontiere).
+
+## Culture
+- "Le bon Rhum de Binks" : chante la version des pirates du Roux, heritage de Yasopp via Banchina [IMPLICITE] (cf. SB2) [DIVERGENCE RP - cartographie des variantes].
 
 ## Histoire
 - Enfance : Yasopp part avec Shanks ; Banchina tombe malade et meurt. Le gamin seul devient le menteur officiel du village - et le conteur prefere de Kaya, riche heritiere endeuillee et malade qu'il fait rire de ses epopees inventees. "Capitaine" de l'equipage d'Usopp : trois gamins, Piment, Oignon et Carotte.

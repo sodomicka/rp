@@ -1,6 +1,6 @@
 # Tony Tony Chopper
 
-- version : W1
+- version : W2
 
 Entite canon. FRONTIERE DU NOYAU (regle actee, resserree thread 10) : <= fin de l'arc Drum / recrutement (an 0). Le moment de la rencontre avec les jumelles reste a caler en P2.
 
@@ -23,6 +23,9 @@ Entite canon. FRONTIERE DU NOYAU (regle actee, resserree thread 10) : <= fin de 
 - Hito Hito no Mi, trois formes de base : Brain Point (hybride, analyse), Walk Point (renne, vitesse), Heavy Point (humain, force).
 - Rumble Ball, son invention : trois minutes, quatre formes supplementaires (Jumping, Guard, Arm, Horn Point). Une seule par six heures ; a trois doses, un "monstre" incontrolable - il a failli raser un village pendant ses experiences.
 - Medecine : formee par Hiluluk (le coeur) puis Kureha (la science) - deja un vrai medecin de terrain. Parle aux animaux : traducteur inter-especes ne.
+
+## Culture
+- "Le bon Rhum de Binks" : chante la version d'Hiluluk (cf. SB2) [DIVERGENCE RP - cartographie des variantes].
 
 ## Histoire
 - Naissance an -15 : le nez bleu fait de lui le paria du troupeau. Le Hito Hito no Mi, mange sans savoir, acheve l'exil : mi-renne mi-homme, chasse par les siens, blesse par balle par les hommes.
