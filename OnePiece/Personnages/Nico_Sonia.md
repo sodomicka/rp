@@ -1,13 +1,13 @@
 # Nico Sonia
 
-- version : W1
+- version : W4
 
 ## Identite
 - Nico Sonia. Protagoniste de la Partie 1 ; entite de lore [DIVERGENCE RP].
 - Nee an -28 a Ohara (West Blue), 3 minutes apres Nico Robin : jumelle cadette. Anniversaire partage : 6 fevrier (canon Robin).
 - Fille de Nico Olivia ; pere inconnu (conforme canon).
 - Age au point de depart : 8 ans.
-- Archeologue diplomee d'Ohara (an -20, meme session que Robin : elles font tout ensemble).
+- Archeologue diplomee d'Ohara (an -20, meme session que Robin : elles font tout ensemble). Les plus jeunes diplomees de l'histoire de l'ile.
 
 ## Description physique
 - Jumelle identique de Robin : longs cheveux noirs, yeux sombres, memes traits, meme taille a tout age (adulte : 1m88, identique a Robin au centimetre pres).
@@ -21,8 +21,12 @@
 ## Psychologie (noyau)
 - Extravertie, joueuse, provocatrice. Miroir inverse de Robin (froide, reservee).
 - Impulsive. Face a l'ostracisme du village (les jumelles a fruits vues comme des monstres par les autres enfants), son impulsivite envenime les frictions la ou Robin encaisse en silence.
+- Humour noir des l'enfance : sorties macabres cultivees entre soeurs, des Ohara. Les deux en raffolent ; c'est d'abord un langage prive.
+- Accro a la traduction : le travail d'enqueteur - degager les sens multiples d'un terme, trouver les connexions avec d'autres - est une addiction partagee avec Robin. L'interdiction de Clover (an -20) n'y a rien change.
+- Trop serieuse : enfant absorbee par les recherches a deux, sans rien attendre de plus de la vie. C'est ce qui inquiete Saul et motive sa lecon de rire.
 - Solitude a deux : confiance exclusive en Robin, chacune moitie de l'autre (socle commun : cf. BIBLE SB5).
 - Foi Nika : culte prive depuis l'an -22 (cf. Histoire). "Elles ne craignent aucun dieu, elles en idolatrent un."
+- Reve commun des jumelles : trouver Nika pour apporter la paix au monde ; decouvrir ce qui s'est passe durant le Siecle Oublie ; et, en attendant, retrouver leur mere.
 
 ## Capacites (noyau, <= point de depart)
 - Kaki Kaki no Mi (Paramecia), offert par Olivia, mange vers 2 ans. Regles completes : cf. BIBLE SB1. Au point de depart : stade de base uniquement (le dessin devient matiere ; croquis -> charbon friable, dessin raffine -> graphene). Pas d'eveil.
@@ -40,19 +44,19 @@
 ## Relations (<= point de depart)
 - Nico Robin - jumelle ainee (3 minutes), autre moitie. Tout en commun : etudes, diplome, lit, culte, secrets.
 - Nico Olivia - mere, partie en mer an -26. Souvenirs quasi inexistants ; heritage : le fruit.
-- Roji - tante, foyer maltraitant : demi-ration a partager, lit unique pour deux.
-- Professeur Clover et les erudits - mentors, d'abord a leur insu (espionnage), puis comme diplomees. Clover donne aux jumelles un peu d'argent de poche pour recompenser leur serieux.
-- Jaguar D. Saul - geant echoue sur Ohara, ami. Les jumelles lui apportent a manger et discutent avec lui ; relation etablie avant le point de depart.
+- Foyer d'Oran et Roji : Oran (oncle, frere cadet d'Olivia, a accepte la garde), Roji (tante par alliance, y etait opposee), Mizuira (cousine). Maltraitance ordinaire de Roji : demi-ration a partager, lit unique pour deux.
+- Professeur Clover et les erudits - mentors, d'abord a leur insu (espionnage), puis comme diplomees. Savent depuis le diplome que les jumelles lisent le poneglyphe ; interdiction formelle de Clover, restee sans effet. Clover donne aux jumelles un peu d'argent de poche pour recompenser leur serieux.
+- Jaguar D. Saul - geant echoue sur Ohara, ami. Les jumelles lui apportent a manger et discutent avec lui ; relation nouee deux jours avant le point de depart ; il ne connait que leurs prenoms.
 - Village d'Ohara - ostracisme envers les jumelles.
 
 ## Histoire (noyau, <= point de depart)
 - an -28 : naissance a Ohara.
-- an -26 : depart d'Olivia en mer ; deux fruits laisses a ses filles, manges vers 2 ans. Placement chez la tante Roji.
+- an -26 : avant de partir en mer, Olivia prepare elle-meme les deux fruits et les fait manger a ses filles de 2 ans, pour leur securite. Placement chez Oran et Roji.
 - Enfance : apprentissage clandestin des poneglyphes en duo (Robin espionne les erudits via Hana Hana, Sonia prend tout en note) ; entrainement du fruit au dessin.
 - an -22 : Robin, 6 ans, trouve le nom de Nika dans un ouvrage de theologie de ses sections (lettres, histoire). Naissance du culte prive. Compilation continue depuis ; la polysemie (Dieu / Guerrier Soleil / Liberateur) sera degagee des poneglyphes.
-- an -20 : diplome d'archeologue a 8 ans, meme session que Robin.
-- Peu avant le point de depart : Saul s'echoue sur Ohara ; les jumelles le ravitaillent et discutent avec lui.
-- Point de depart du RP : Ohara, quelques semaines avant le Buster Call.
+- an -20 : diplome d'archeologue a 8 ans, meme session que Robin. Au diplome, les erudits decouvrent que les jumelles lisent le poneglyphe : interdiction formelle de Clover. Sans effet : accros a la traduction, elles poursuivent en secret.
+- J-4 du Buster Call : Saul s'echoue sur Ohara ; les jumelles le trouvent, le ravitaillent et discutent avec lui. Trop serieuses, elles apprennent a rire avec lui ("ris quand tu es triste"), inquiet de voir deux gamines deja si isolees et se complaisant dans leurs recherches a deux sans attendre plus de la vie. Elles ne lui ont donne que leurs prenoms.
+- Point de depart du RP : Ohara, a J-2 du Buster Call - le surlendemain de l'echouage de Saul.
 
 ## Objets (au point de depart)
 - Lunettes (indispensables, myopie severe).
