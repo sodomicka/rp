@@ -1,7 +1,7 @@
 # Chronologie des roadmaps - Sonia / Jumelles d'Ohara
 
-- version : W2
-- note de version : W2 - R0 Ohara ECRITE (thread 12), tous ses [A POSER] tranches. W1 - genese, decoupage R0 -> R15 dicte. Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de Passe 2) ; les [A POSER] listes ici s'y tranchent.
+- version : W3
+- note de version : W3 - R1 West Blue ECRITE, tous ses [A POSER] tranches ; import de perimetre acte : Esperia (canon Elbaf, lore passe uniquement) ; bornes R2 precisees. W2 - R0 Ohara ecrite (thread 12). W1 - genese, decoupage R0 -> R15 dicte. Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de Passe 2) ; les [A POSER] listes ici s'y tranchent.
 - convention de nommage (actee) : chaque roadmap porte le nom du LIEU ou de l'etape de son arc. Exception acceptee : Baroque Works (R3).
 - indexation (tranchee thread 12) : le garde cap SEUL est indexe au Sommaire (au prochain build de Sommaire) ; les roadmaps individuelles restent hors Sommaire, listees ici.
 - prota / POV : Nico Sonia (les jumelles, jamais separees).
@@ -9,7 +9,7 @@
 ## Reperes de datation
 - an 0 = depart de Luffy en mer (East Blue -> Marineford condense sur quelques mois in-world). Ellipse an 0 -> an +2.
 - Point de depart du RP (t0) : Ohara, J-2 du Buster Call, an -20. Saul echoue a J-4 (t0 = le surlendemain).
-- Jumelles nees an -28 : 8 ans a t0 ; 19 ans a l'arrivee a Water 7 (an -9) ; 20 ans a l'entree BW (an -8) ; 28 ans a Enies Lobby (an 0) ; 30 ans a Egghead (an +2).
+- Jumelles nees an -28 : 8 ans a t0 ; 14 ans au passage en Grand Line (an -14) ; 19 ans a l'arrivee a Water 7 (an -9) ; 20 ans a l'entree BW (an -8) ; 28 ans a Enies Lobby (an 0) ; 30 ans a Egghead (an +2).
 - Execution de Roger : an -22.
 
 ## Fils flottants (sans arc attitre)
@@ -21,18 +21,17 @@
 - Detail complet : cf. Roadmap_0_Ohara.md - itineraire en 9 etapes, condition d'Aokiji (verbatim acte), casting, notes de frontiere. Tous les [A POSER] de genese tranches (thread 12).
 - Fichier : Roadmap_0_Ohara.md
 
-## R1 - West Blue [A BUILDER]
-- Bornes : sortie d'Ohara (an -20, 8 ans) -> passage en Grand Line [A POSER : date / age].
-- Substance : l'enfance en cavale, juste en fuyardes. Survie par fuite, infiltration, faux noms ; Observation acquis (sens de fugitive).
-- Jalons : variante Binks apprise aupres de pirates de West Blue (equipage : trou, [A POSER]).
-- [A POSER] : episodes de cavale ; part des morts de la main des jumelles (acte au global R1/R2, repartition a trancher) ; borne de sortie vers la Grand Line.
+## R1 - West Blue [ECRITE]
+- Bornes : sortie des eaux d'Ohara (an -20, 8 ans) -> passage en Grand Line (an -14, 14 ans), descente de Reverse Mountain en cale.
+- Detail complet : cf. Roadmap_1_West_Blue.md - itineraire en 7 etapes, boucle de cavale (pattern de jeu libre), regle de survie en cale, motivation double du passage (necessite + vocation), casting OC (Bonace, Corvara, Murene - identites fixees, pas de fiches wiki), import de perimetre Esperia (lore passe uniquement).
+- Jalons cles : avis "Les Enfants du Demon" (120M) des l'ouverture (mecanisme canon transpose : reperees au large de l'ile NE d'Ohara) ; variante Binks a double vecteur (coque de la Bonace / chant-piege de la Murene), lignee d'Esperia cousine des Rumbar - Tchekhov R7 ; premieres morts an -16/-15 (une chacune, deux Marines de la 80e Branche, aucun temoin, prime inchangee) ; Observation acquis en fil d'arc.
 - Fichier : Roadmap_1_West_Blue.md
 
 ## R2 - Grand Line [A BUILDER]
-- Bornes : passage en Grand Line -> fuite en douce de Water 7 (soir de l'annonce du CP5, an -8).
+- Bornes : descente de Reverse Mountain (an -14, 14 ans, planquees en cale d'un gros-porteur) -> fuite en douce de Water 7 (soir de l'annonce du CP5, an -8).
 - Substance : l'adolescence ; les fuyardes deviennent un nom. Water 7 en joyau final.
-- Jalons : titre gagne "Les Lumieres de la Revolution" (dicte thread 12 ; VF canon Robin seule : "la Lumiere de la Revolution") ; arrivee a Water 7 an -9 (19 ans), Tom garant devant la maisonnee (option A : Iceburg, Cutty Flam, Kokoro savent) ; un an d'atelier, tatouages solaires, Battle Frankies et proces de Tom en toile de fond ; fuite en douce le soir meme de l'annonce du CP5, sans un adieu.
-- [A POSER] : origine et mecanique du titre (qui le donne ? contact avec l'Armee Revolutionnaire des l'adolescence ?) - implications directes sur R9 ; episodes d'adolescence, part des morts de leur main ; chute de Tom apprise par voie de presse - a confirmer (canon : proces publics a Water 7, mediatisation mondiale non etablie [INTERPRETATION : plausible]) ; placement de la nouvelle : fin R2 ou debut R3.
+- Jalons : titre gagne "Les Lumieres de la Revolution" (dicte thread 12 ; VF canon Robin seule : "la Lumiere de la Revolution") ; arrivee a Water 7 an -9 (19 ans), Tom garant devant la maisonnee (option A : Iceburg, Cutty Flam et Kokoro savent) ; un an d'atelier, tatouages solaires, Battle Frankies et proces de Tom en toile de fond ; fuite en douce le soir meme de l'annonce du CP5, sans un adieu.
+- [A POSER] : couture d'ouverture - Twin Capes (debarquent-elles ? Crocus ? Laboon vu de pres ?), la borne R1 s'arrete a la descente ; origine et mecanique du titre (qui le donne ? contact avec l'Armee Revolutionnaire des l'adolescence ?) - implications directes sur R9 ; episodes d'adolescence, part des morts de leur main ; chute de Tom apprise par voie de presse - a confirmer (canon : proces publics a Water 7, mediatisation mondiale non etablie [INTERPRETATION : plausible]) ; placement de la nouvelle : fin R2 ou debut R3.
 - Fichier : Roadmap_2_Grand_Line.md
 
 ## R3 - Baroque Works [A BUILDER]
@@ -61,7 +60,7 @@
 ## R7 - Thriller Bark [A BUILDER]
 - Bornes : entree dans le Triangle de Florian (an 0) -> depart de Thriller Bark.
 - Jalons : Tactics 15 "Big Emperor" - Docking ACCOMPLI grace a Sonia (inversion du refus canon de Robin) ; "il ne s'est rien passe" de Kuma ; pacte Kuma-jumelles entre adeptes de Nika - dispersion future pre-acceptee, condition unique : jamais separees l'une de l'autre ; Brook rejoint (porteur de la culture Binks).
-- [A POSER] : repartition exacte des places du Docking 6 ; piste Binks - la version des jumelles (West Blue) cousine de celle des Rumbar (resonance Brook / Laboon).
+- [A POSER] : repartition exacte des places du Docking 6 ; piste Binks - la version des jumelles (lignee d'Esperia, actee R1) cousine de celle des Rumbar (resonance Brook / Laboon), detonation a cadrer.
 - Fichier : Roadmap_7_Thriller_Bark.md
 
 ## R8 - Sabaody [A BUILDER]
