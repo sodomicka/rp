@@ -1,6 +1,6 @@
 # Nico Olivia
 
-- version : W2
+- version : W3
 
 ## Identite
 - Nico Olivia (romanisation canon : Olvia ; graphie actee RP : Olivia). Mere des jumelles Nico ; entite canon revisitee par la gemellite [DIVERGENCE RP : deux filles, deux fruits].
@@ -48,6 +48,7 @@
 
 ## Histoire (noyau, <= point de depart)
 - an -53 : naissance a Ohara.
+- Enfance a Ohara : tenait deja un carnet de notes personnel [acte thread 12 ; nature exacte : non detaillee].
 - Mariage ; veuvage avant la naissance des jumelles ou peu apres.
 - an -28 : naissance de Robin et Sonia.
 - an -26 : avant le depart, prepare les deux fruits et les fait manger a ses filles de 2 ans. Confie les jumelles a son frere Oran, contre l'avis de Roji. Part avec 33 archeologues d'Ohara a la recherche des poneglyphes, pour honorer les voeux de son mari et exhumer le Siecle Oublie.
@@ -56,9 +57,10 @@
 - Etat au point de depart : evadee, en mer, cap sur Ohara pour avertir les erudits de la menace. Recherchee (79M).
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an -20 (J-0) | Chute d'Ohara (Roadmap_0) : identifiee par le CP9 ; adieux aux jumelles dans le chaos - reconnaissance mutuelle ; certaine qu'elles tiennent un carnet (elle en avait un, petite), leur demande de bruler le carnet bleu - fait sur place ; transmission ("vivez, emportez l'histoire") ; reste sur l'ile | Morte a Ohara, an -20 |
 
 ---
 

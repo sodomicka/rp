@@ -1,6 +1,6 @@
 # Jaguar D. Saul
 
-- version : W1
+- version : W2
 
 ## Identite
 - Jaguar D. Saul (romanisation : Haguwaru D. Sauro). Geant, ex-vice-amiral de la Marine, deserteur. Entite canon.
@@ -46,9 +46,11 @@
 - Point de depart du RP (J-2) : radeau en debut de construction. Il sait qu'un Buster Call se prepare contre une ile nommee Ohara ; il ignore que l'ile sous ses pieds est Ohara, et que ses deux petites visiteuses sont les filles d'Olivia.
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an -20 (fenetre J-2 -> matin J-0) | Detonation (Roadmap_0, etape 2) : le nom "Nico" lache par les jumelles en racontant une histoire d'elles-memes - comprend qu'il est sur Ohara et qui elles sont ; les previent du Buster Call [fenetre de jeu ; garde-fou : force au ravitaillement du matin J-0] | Le secret du Buster Call partage avec les jumelles |
+| an -20 (J-0) | Porte les jumelles a la cote ; fureur devant la destruction du navire d'evacuation ; derniers mots (la mer est vaste, un jour des compagnons ; "riez quand vous etes tristes") ; statufie par l'Ice Time de Kuzan | Gele vivant a Ohara. (Suite : versee au build R15 - doctrine) |
 
 ---
 

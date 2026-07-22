@@ -1,6 +1,6 @@
 # Nico Sonia
 
-- version : W5
+- version : W6
 
 ## Identite
 - Nico Sonia. Protagoniste de la Partie 1 ; entite de lore [DIVERGENCE RP].
@@ -66,11 +66,7 @@
   - Carnets noirs : dessin pour le fruit, consommables, remplaces souvent.
 
 ## Trajectoire datee
-(alimentee a chaud en Passe 2, arc par arc ; premieres entrees actees en cloture de Passe 1)
-| Date/ere | Evenement | Delta d'etat |
-|---|---|---|
-| cavale (an -20 -> -9), avant BW | Apprend "Le bon Rhum de Binks" aupres de pirates de West Blue cotoyes en cavale [DIVERGENCE RP - cartographie des variantes, cf. SB2 ; equipage : trou, roadmap cavale P2] | Variante Binks propre aux jumelles acquise |
-| an -1 | Commandite en personne, avec Robin, l'operation de recrutement de Roronoa Zoro pour Baroque Works ; l'emissaire (l'ex-Mr. 7) echoue et meurt de la main de Zoro [incident canon ch. 190 ; date et commanditaires : DIVERGENCE RP] | L'ordre porte la signature des jumelles ; Zoro ignore qui l'a signe. Le sommet de BW connait l'incident |
+Deportee (decision worldbuilder) : cf. WIKI Personnages/Trajectoire_Jumelles.md - strate complete des deux jumelles, alimentee a chaud en Passe 2.
 
 ---
 

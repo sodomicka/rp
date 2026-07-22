@@ -1,6 +1,6 @@
 # Kuzan
 
-- version : W1
+- version : W2
 
 ## Identite
 - Kuzan. L'alias "Aokiji" est un titre d'amiral, posterieur au point de depart. Entite canon.
@@ -43,9 +43,10 @@
 - Point de depart du RP (J-2) : en mer avec la flotte du Buster Call, en approche d'Ohara ; le declenchement attend la confirmation du CP9 sur place. Sait Saul deserteur et en fuite ; ignore ou il se trouve.
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an -20 (J-0) | Buster Call d'Ohara (Roadmap_0) : gele Saul (Ice Time) ; trouve les deux jumelles, les epargne de son propre chef ; pose LA condition - disparaitre ou devenir plus que deux, sous menace de separation definitive (verbatim : Roadmap_0_Ohara) ; ouvre le pont de glace de leur fuite | La condition reste entre lui et elles ; premiere entorse personnelle a l'ordre recu |
 
 ---
 

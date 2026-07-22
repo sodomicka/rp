@@ -1,13 +1,13 @@
 # Brook
 
-- version : W1
+- version : W2
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= rencontre avec l'equipage / veille de Thriller Bark (an 0).
-Hors perimetre : les revelations post-Egghead sur son royaume d'origine et sa vie pre-Rumbar (arc Elbaf, canon en cours). La fiche s'en tient a ce qui etait etabli jusqu'a Egghead.
+Hors perimetre : les revelations post-Egghead sur sa vie pre-Rumbar (arc Elbaf, canon en cours). EXCEPTION actee (import R1) : son royaume d'origine, Esperia, importe en LORE PASSE uniquement (cf. BIBLE SB0). Pour le reste, la fiche s'en tient a ce qui etait etabli jusqu'a Egghead.
 
 ## Identite
 - Squelette vivant, musicien et escrimeur. Ne an -88 (3 avril), West Blue. 88 ans a la frontiere - mort a ~38 ans, il y a un demi-siecle. "Brook le Fredonneur" (Humming Brook).
-- Ancien chef du convoi de bataille d'un royaume [details reveles post-Egghead : HORS PERIMETRE] ; puis musicien-escrimeur, second, et enfin capitaine des Pirates du Rumbar (West Blue).
+- Originaire du royaume d'Esperia (West Blue, pays des facteurs d'instruments) [import de perimetre acte en R1 : canon Elbaf, lore passe uniquement]. Ancien chef du convoi de bataille de ce royaume [details au-dela : HORS PERIMETRE] ; puis musicien-escrimeur, second, et enfin capitaine des Pirates du Rumbar (West Blue).
 - Prime : 33 000 000 berrys - gagnee du vivant des Rumbar, il y a plus de cinquante ans, et jamais radiee.
 
 ## Physique
@@ -36,7 +36,8 @@ Hors perimetre : les revelations post-Egghead sur son royaume d'origine et sa vi
 - Un squelette courtois et fele sur un vaisseau fantome, sans ombre, son tresor (le Tone Dial) a bord, une promesse de cinquante ans en bandouliere. Il ignore que cet equipage connait Laboon ; eux ignorent son lien avec la baleine. Il ne connait ni Baroque Works ni les jumelles.
 
 ## Culture - Le bon Rhum de Binks
-- Le chant-coeur des Rumbar et leur dernier souffle. Chant de marins universel et tres ancien, decline en variantes selon les equipages et les mers [DIVERGENCE RP : cartographie des versions connues de l'equipage - cf. journal, integration SB2 au B2].
+- Le chant-coeur des Rumbar et leur dernier souffle. Chant de marins universel et tres ancien, decline en variantes selon les equipages et les mers [DIVERGENCE RP : cartographie des versions - cf. BIBLE SB2].
+- Lignee d'Esperia du chant : celle des Rumbar ; la variante des jumelles en est cousine (actee R1 - cf. BIBLE SB2 et SB8, Tchekhov R7).
 
 ## Relations (<= frontiere)
 - Laboon - le baleineau devenu montagne, qui attend au Cap des Jumeaux. La promesse qui le fait tenir. Crocus - le gardien du phare, depositaire de Laboon.

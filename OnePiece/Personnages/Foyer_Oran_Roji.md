@@ -1,6 +1,6 @@
 # Foyer Oran-Roji
 
-- version : W2
+- version : W3
 
 Fiche familiale unique : Oran, Roji et Mizuira, le foyer d'accueil des jumelles Nico depuis an -26. Entites canon.
 
@@ -40,9 +40,11 @@ Fiche familiale unique : Oran, Roji et Mizuira, le foyer d'accueil des jumelles 
 - Point de depart du RP (J-2) : quotidien inchange. Les jumelles chapardent discretement de la nourriture du foyer depuis deux jours pour ravitailler Saul - personne ne l'a encore remarque.
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an -20 (matin J-0) | Beat du pain (Roadmap_0, etape 4) : Roji decouvre le chapardage et hurle - les jumelles ejectees du bourg. Derniere interaction du foyer avec elles | - |
+| an -20 (J-0) | Morts dans l'annihilation - rassembles sur le navire d'evacuation detruit par Sakazuki [IMPLICITE canon : civils a bord] | Foyer eteint |
 
 ---
 

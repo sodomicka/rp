@@ -1,6 +1,6 @@
 # Iceburg
 
-- version : W2
+- version : W3
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= ouverture de l'arc Water 7 (an 0).
 
@@ -14,6 +14,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= ouverture de l'arc Water 7 (
 ## Psycho
 - Facade d'enfant capricieux : annule ses rendez-vous par flemme, refuse de voir qui lui deplait, adopte des animaux sur des lubies. Dessous : un batisseur et un maire d'exception, serieux redoutable des que la situation l'exige. La nonchalance cultivee endort aussi les soupcons. Tic verbal : "Nmaa".
 - Credo anti-armes : une arme est faite pour blesser, quelles que soient les intentions de son constructeur. Source de ses engueulades de jeunesse avec Cutty Flam et ses Battle Frankies.
+- Feru d'HISTOIRE [ajout AU acte ; aucune contradiction canon connue] : discussions, livres pretes - la matiere du duo des poses avec Robin (cf. Histoire an -9/-8).
 - Reve : transformer Water 7 elle-meme en navire pour la sauver de l'Aqua Laguna.
 
 ## Capacites
@@ -21,7 +22,8 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= ouverture de l'arc Water 7 (
 
 ## Histoire
 - Apprenti de Tom des l'enfance, aux cotes de Cutty Flam ; rivalite braillarde des deux, patience amusee du maitre. C'est lui qui, enfant, surnomme Cutty Flam "Franky" ("Cutty Flam, c'est un nom bizarre") - le surnom restera. Dix ans de chantier du train des mers aupres de Tom et Flam ; larmes au voyage inaugural.
-- an -9/-8 [DIVERGENCE RP] : 29 ans, senior de l'atelier pendant le sejour des jumelles Nico. Il SAIT qui elles sont - Tom s'est porte garant devant la maisonnee. Un an de quotidien ; au matin de la fuite (le soir meme de l'annonce du CP5), decouvre deux lits vides et comprend pourquoi.
+- an -9 [DIVERGENCE RP], la rencontre (nuit du hangar, Roadmap_2) : surprend les jumelles en plein pillage d'un hangar, s'apprete a les denoncer ; couteau de graphene de Sonia, bras croises de Robin - Tom interrompt et accueille. Son premier reflexe fut la denonciation, et il a eu une lame sous les yeux : la relation aux jumelles en reste coloree.
+- an -9/-8 [DIVERGENCE RP] : 29 ans, senior de l'atelier pendant le sejour des jumelles Nico. Il SAIT qui elles sont - Tom s'est porte garant devant la maisonnee. Un an de quotidien : duo des poses avec Robin - depart glacial, complicite lente et solide, discussions d'histoire, livres pretes, pince-sans-rire contre humour noir ; exaspere par Sonia et son obsession des plans [echo canon : reprimande deja les designs absurdes de Cutty Flam]. Au matin de la fuite (le soir meme de l'annonce du CP5), decouvre deux lits vides et comprend pourquoi.
 - an -8 : la chute de Tom (frame-up de Spandam, cf. Spandam_Spandine). Tom lui confie les plans de Pluton. En les recevant, il mesure ce qui a cohabite sous le toit de Tom : l'arme du Siecle Oublie et deux lectrices d'Ohara [DIVERGENCE RP].
 - an -7 : fonde la Galley-La Company en fusionnant les sept chantiers ; la ville renait par le train et le chantier. Devient maire [date exacte : INCERTAIN, entre an -7 et an 0].
 - an -5 : le CP9 s'infiltre autour de lui (Kalifa secretaire, Lucci et Kaku contremaitres du Dock 1, Blueno barman). Il l'IGNORE totalement.
@@ -33,7 +35,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= ouverture de l'arc Water 7 (
 ## Relations (<= frontiere)
 - Tom - le maitre, la dette d'une vie. Kokoro - la memoire de l'atelier.
 - Franky (Cutty Flam) - frere de chantier, ennemi de facade, complice des plans. Seul a savoir qui il est [Kokoro dans la confidence : INCERTAIN].
-- Jumelles Nico [DIVERGENCE RP] - les pensionnaires d'un an de l'atelier, identite connue de toute la maisonnee, parties sans adieu.
+- Jumelles Nico [DIVERGENCE RP] - les pensionnaires d'un an de l'atelier, identite connue de toute la maisonnee, parties sans adieu. Robin : le duo des poses. Sonia : l'exasperante aux plans. Premiere image d'elles : une lame et des bras croises (nuit du hangar).
 - Kalifa, Lucci, Kaku, Blueno - cercle de confiance... et CP9 infiltre (il l'ignore).
 - Paulie et les contremaitres de Galley-La - ses hommes, fideles.
 - Spandam - le destructeur de Tom's Workers.

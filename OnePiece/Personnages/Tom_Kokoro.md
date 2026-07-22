@@ -1,6 +1,6 @@
 # Tom et Kokoro
 
-- version : W2
+- version : W3
 
 Fiche unique : le maitre charpentier de Water 7 et la secretaire de Tom's Workers - le foyer du sejour des jumelles an -9/-8 [DIVERGENCE RP]. Entites canon.
 FRONTIERES DU NOYAU (par entite, regle actee) : Tom <= sa chute (an -8) - fiche 100 pour cent noyau, aucune Trajectoire ; Kokoro <= ouverture de l'arc Water 7 (an 0).
@@ -14,7 +14,7 @@ FRONTIERES DU NOYAU (par entite, regle actee) : Tom <= sa chute (an -8) - fiche 
   - Construit l'Oro Jackson pour Gol D. Roger, avant God Valley (an -36 env., cf. SB3).
   - Recueille et forme Iceburg, puis Cutty Flam, gamin abandonne par ses parents pirates [age exact au recueil : INCERTAIN, sources divergentes].
   - an -22 : execution de Roger ; Tom juge pour l'Oro Jackson. Peine capitale, sursis negocie : dix ans pour construire un train des mers et sauver Water 7 du declin. Puffing Tom acheve, puis quatre annees d'extension des rails. Proces final : an -8 (-22 + 10 + 4).
-  - an -9/-8 [DIVERGENCE RP] : recueille deux jeunes femmes de 19 ans en cavale - et comprend immediatement qui elles sont. Plutot que de porter un secret sous son toit, il se porte garant des jumelles devant la maisonnee : Iceburg, Cutty Flam et Kokoro savent. Un an de quotidien a l'atelier ; les jumelles sont fascinees par ses tatouages solaires (leur raison intime n'est pas etablie comme partagee - P2).
+  - an -9/-8 [DIVERGENCE RP] : recueille deux jeunes femmes de 19 ans en cavale (nuit du hangar, Roadmap_2 : Iceburg s'apprete a denoncer, Tom interrompt et accueille - "non pas en fugitives, en amies") - et comprend immediatement qui elles sont. Plutot que de porter un secret sous son toit, il se porte garant des jumelles devant la maisonnee : Iceburg, Cutty Flam et Kokoro savent. Un an de quotidien a l'atelier : les jumelles mettent des mois a lui faire confiance et projettent une fuite avec des materiaux a revendre a prix d'or - projet abandonne par attachement. LEVIER acte du basculement : son credo du charpentier, premiere logique d'adulte qui exonere les jumelles. Raconte son parcours (Oro Jackson, proces, sursis, train des mers) a la curiosite d'historienne de Robin ; ressert d'office a table. Les jumelles sont fascinees par ses tatouages solaires (leur raison intime n'est pas etablie comme partagee - P2).
   - an -8 : le CP5 de Spandam s'installe a Water 7, en quete des plans de Pluton (cf. Spandam_Spandine). Tom annonce a la maisonnee que la discretion s'impose ; le soir meme, les jumelles disparaissent sans un adieu [DIVERGENCE RP - fuite actee]. Il ne les reverra pas.
   - an -8, la chute : refus de livrer les plans -> frame-up de Spandam (les Battle Frankies voles lances contre le convoi judiciaire). Tom endosse l'attaque pour couvrir Cutty Flam et depense sa grace sur ce crime ; redevenu condamnable pour l'Oro Jackson, il le revendique avec fierte. Emmene a Enies Lobby a bord du Puffing Tom qu'il a lui-meme construit. Mort an -8 (execution presumee, conforme canon).
   - Heritage : les plans de Pluton confies a Iceburg ; deux eleves devenus les charpentiers de l'ere ; la ville sauvee ; le train qui porte son nom.
@@ -28,7 +28,7 @@ FRONTIERES DU NOYAU (par entite, regle actee) : Tom <= sa chute (an -8) - fiche 
 - Capacites : sirene (nage hors norme, aisance aquatique totale) - atout tenu secret ; connaissance intime du reseau du train des mers et des eaux de Water 7.
 - Histoire :
   - Venue de l'ile des Hommes-Poissons avec Tom ; pilier administratif et moral de l'atelier ; temoin de toute l'affaire (proces, sursis, construction du train, chute).
-  - an -9/-8 [DIVERGENCE RP] : fait partie de la maisonnee mise au parfum par Tom sur l'identite des jumelles. Un an de quotidien partage ; au matin de la fuite, decouvre comme les autres deux lits vides.
+  - an -9/-8 [DIVERGENCE RP] : fait partie de la maisonnee mise au parfum par Tom sur l'identite des jumelles. Un an de quotidien partage : sa table est la premiere table familiale des jumelles depuis Ohara - reflexe persistant des deux de partager une seule part. Au matin de la fuite, decouvre comme les autres deux lits vides.
   - Apres an -8 : Shift Station et la bouteille. Son fils lui confie Chimney, sa petite-fille, flanquee de Gonbe, lapin persuade d'etre un chat.
 - Etat a la frontiere (ouverture Water 7, an 0) : chef de gare de Shift Station, entre deux verres, Chimney et Gonbe dans les jambes. Elle n'a pas revu les jumelles depuis onze ans.
 

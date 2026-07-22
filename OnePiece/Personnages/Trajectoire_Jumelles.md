@@ -1,0 +1,29 @@
+# Trajectoire des jumelles Nico
+
+- version : W1
+
+Strate Trajectoire datee de Nico Sonia et Nico Robin, deportee des fiches sur decision worldbuilder (la strate croit arc par arc, les fiches noyau restent sous budget). Regles inchangees (SPEC) : alimentation a chaud en Passe 2, arc par arc ; canon par defaut, neutre, reutilisable entre parties ; forme telegraphique ; le delta d'une partie va en Parties/ et surclasse cette strate pour la partie concernee.
+Fiches noyau : cf. WIKI Personnages/Nico_Sonia.md et Personnages/Nico_Robin.md.
+
+## Nico Sonia
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| an -20 (J-0) | Chute d'Ohara (Roadmap_0) : ejectee du bourg au matin (beat du pain), echappe a la rafle ; adieux d'Olivia dans le chaos, carnet bleu brule a sa demande ; temoin du gel de Saul ; recoit avec Robin LA condition d'Aokiji ; lunettes brisees sur le pont de glace - fuite a l'aveugle, terrifiee, tiree par la main par Robin | Orpheline en cavale ; avis commun "Les Enfants du Demon" 120M (tombe en R1) ; savoir poneglyphe uniquement memorise ; myopie sans correction [re-equipement : tot en R1] |
+| an -20 -> -14 | Cavale West Blue (Roadmap_1) : avis commun 120M des l'ouverture (reperees au large de l'ile NE d'Ohara, canon transpose) ; lunettes re-equipees - naissance de la routine casse/anonymat ; boucle de cavale et croc-en-jambe au graphite (faux noms - pseudonyme de cavale : Kaki, le nom de son fruit - cales, jamais de demonstration visible des fruits) ; menace au couteau de graphene sur les marchands du Prudent (an -18) ; integree a la Bonace (Esperia) - variante Binks apprise, double vecteur (coque de la Bonace, chant-piege de la Murene) ; PREMIERE MORT de sa main : un Marine de la 80e Branche, couteau de graphene, an -16/-15, aucun temoin ; fuite de nuit de la Murene ; passage en Grand Line en cale (an -14, 14 ans) - Laboon entendu puis apercu | Observation acquis (diffus, jamais nomme) ; prime inchangee 120M ; West Blue crame, reves intacts |
+| an -14 -> -8 | Cavale Grand Line (Roadmap_2) : descente an -14 sans escale ; croc-en-jambe a l'echelle Grand Line ; Alabasta an -13/-12 (Nanohana, Erumalu vivante) ; embuscade an -12 - morts CALCULEES d'un contingent Marine (fausse fuite, massacre rapide, aucun rapport transmis), temoins revolutionnaires : naissance de la legende "Les Lumieres de la Revolution" ; doctrine "aucun temoin" (an -12 -> -10) ; Whiskey Peak an -10/-9, enquete BW ouverte ; Water 7 an -9 : nuit du hangar (couteau de graphene degaine sur Iceburg), annee Tom - etabli, essais du Puffing Tom, duo des impulsifs avec Cutty Flam (plans annotes, prototype interdit), insupportable avec les deux charpentiers, tatouages solaires croques aux carnets noirs ; cle d'enquete : bases BW = anciens repaires secrets de la Marine, base principale = casino d'Alabasta ; fuite an -8 sans adieu, premiere DESTINATION (BW), pour proteger la maisonnee | 20 ans ; titre clandestin porte a deux ; prime 120M inchangee ; Observation mure |
+| an -1 | Commandite en personne, avec Robin, l'operation de recrutement de Roronoa Zoro pour Baroque Works ; l'emissaire (l'ex-Mr. 7) echoue et meurt de la main de Zoro [incident canon ch. 190 ; date et commanditaires : DIVERGENCE RP] | L'ordre porte la signature des jumelles ; Zoro ignore qui l'a signe. Le sommet de BW connait l'incident |
+
+## Nico Robin
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| an -20 (J-0) | Chute d'Ohara (Roadmap_0) : ejectee du bourg au matin (beat du pain), echappe a la rafle ; adieux d'Olivia dans le chaos, carnet bleu brule a sa demande ; temoin du gel de Saul ; recoit avec Sonia LA condition d'Aokiji ; sur le pont de glace, tire par la main une Sonia aveugle et terrifiee - se gonfle de courage pour deux | Orpheline en cavale ; avis commun "Les Enfants du Demon" 120M (tombe en R1) ; savoir poneglyphe uniquement memorise |
+| an -20 -> -14 | Cavale West Blue (Roadmap_1) : avis commun 120M des l'ouverture ; boucle de cavale (pseudonyme de cavale : Hana, le nom de son fruit) - mains Hana Hana du croc-en-jambe, chapardage et ecoute sans etre vue ; PREMIERE MORT de sa main : un Marine de la 80e Branche, premier Clutch mortel, an -16/-15, aucun temoin ; surprend via Hana Hana le projet de vente de la Murene - declenche la fuite de nuit ; passage en Grand Line en cale (an -14, 14 ans) | Observation acquis (diffus, jamais nomme) ; prime inchangee 120M ; West Blue crame, reves intacts |
+| an -14 -> -8 | Cavale Grand Line (Roadmap_2) : descente an -14 sans escale ; Alabasta an -13/-12 ; embuscade an -12 - co-executrice du massacre calcule, bascule vers la froideur operationnelle ; doctrine "aucun temoin" ; Whiskey Peak an -10/-9 - lit l'arnaque des faux villageois (Observation), ouvre l'enquete BW ; Water 7 an -9 : nuit du hangar (bras croises, prete au Clutch sur Iceburg), annee Tom - duo des poses avec Iceburg (histoire, complicite lente), curiosite d'historienne pour le parcours de Tom, confiance lente, projet de fuite aux materiaux abandonne, attachement ; fuite an -8 sans adieu, destination BW, pour proteger | 20 ans ; titre clandestin porte a deux ; prime 120M inchangee ; Observation mure |
+| an -1 | Commandite en personne, avec Sonia, l'operation de recrutement de Roronoa Zoro pour Baroque Works ; l'emissaire (l'ex-Mr. 7) echoue et meurt de la main de Zoro [incident canon ch. 190 ; date et commanditaires : DIVERGENCE RP] | L'ordre porte la signature des jumelles ; Zoro ignore qui l'a signe. Le sommet de BW connait l'incident |
+
+## Note commune - pseudonymes de cavale (acte)
+chacune porte le NOM DE SON FRUIT - Robin = Hana, Sonia = Kaki. En usage sur toute la cavale (R1-R2, les "faux noms" de la boucle) ; camouflage a decouvert : des prenoms ordinaires et plausibles, l'ironie privee en prime. Usage residuel chez BW (sous les noms de code) et apres : a trancher au build R3 si convoque.
+
+---
+
+FIN_WIKI_PERSONNAGES_TRAJECTOIRE_JUMELLES

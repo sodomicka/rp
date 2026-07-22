@@ -1,6 +1,6 @@
 # Spandam, Spandine et Funkfreed
 
-- version : W1
+- version : W2
 
 Fiche unique : la dynastie Spandine-Spandam du Cipher Pol, et l'epee Funkfreed. Entites canon.
 FRONTIERES DU NOYAU (par entite, regle actee) : Spandine <= son debarquement a Ohara (J-0 du Buster Call) ; Spandam et Funkfreed <= veille de l'operation de capture (Water 7, an 0).
@@ -36,9 +36,10 @@ FRONTIERES DU NOYAU (par entite, regle actee) : Spandine <= son debarquement a O
 - Aokiji - tutelle hierarchique de l'operation an 0 [attribution du Golden Escargophone a Spandam : a caler en roadmap].
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc ; les destins post-frontiere des trois - Ohara pour le pere, Enies Lobby pour le fils et l'epee - y seront verses.)
+(alimentee a chaud en Passe 2, arc par arc ; destins post-frontiere restants - Enies Lobby pour le fils et l'epee - verses aux builds concernes.)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an -20 (J-0) | Spandine (Roadmap_0) : debarque avec le CP9, identifie Olivia, ordonne la rafle des erudits, declenche le Buster Call au Golden Escargophone ; quitte l'ile sous le pilonnage avec ses agents [IMPLICITE canon] | L'homme du Buster Call d'Ohara ; prestige aupres du GM [IMPLICITE] |
 
 ---
 

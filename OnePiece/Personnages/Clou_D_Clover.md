@@ -1,6 +1,6 @@
 # Clou D. Clover
 
-- version : W1
+- version : W2
 
 ## Identite
 - Clou D. Clover, dit "Professeur Clover". Entite canon. Le nom complet est un secret farouchement garde : seul Vegapunk le connait (confie an -24).
@@ -48,9 +48,10 @@
 - Point de depart du RP (J-2 du Buster Call) : dirige la bibliotheque ; les erudits etudient le poneglyphe du sous-sol en secret ; il ignore que la nasse du GM est sur le point de se refermer.
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an -20 (J-0) | Chute d'Ohara (Roadmap_0) : rafle a l'Arbre ; plaidoyer aux Cinq Doyens par escargophone ; abattu avant de nommer le royaume ; les erudits condamnes jettent les livres dans l'etang de l'Arbre (canon - payoff R15) | Mort a Ohara. Sa these du Grand Royaume reste non dite au monde |
 
 ---
 
