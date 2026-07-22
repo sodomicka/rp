@@ -8,7 +8,7 @@
 
 ### Racine
 Description : documents transverses.
-- _Implications.md (W8) - journal de travail du worldbuilding ; JAMAIS fetche en narration.
+- _Implications.md (W9) - journal de travail du worldbuilding ; JAMAIS fetche en narration.
 
 ### Personnages/
 Description : fiches neutres des entites du monde (canon et OC promus au lore). 22 pages : 21 de la Passe 1 (close) + Sakazuki (ajoutee en Passe 2).
