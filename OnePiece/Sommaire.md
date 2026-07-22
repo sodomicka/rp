@@ -1,6 +1,6 @@
 # Sommaire - OnePiece
 
-- version : W3
+- version : W5
 
 ## WIKI
 
@@ -8,31 +8,32 @@
 
 ### Racine
 Description : documents transverses.
-- _Implications.md (W9) - journal de travail du worldbuilding ; JAMAIS fetche en narration.
+- _Implications.md (W15) - journal de travail du worldbuilding ; JAMAIS fetche en narration.
 
 ### Personnages/
-Description : fiches neutres des entites du monde (canon et OC promus au lore). 22 pages : 21 de la Passe 1 (close) + Sakazuki (ajoutee en Passe 2).
-- Nico_Sonia.md (W5) - protagoniste ; jumelle cadette, Kaki Kaki no Mi.
-- Nico_Robin.md (W4) - jumelle ainee, Hana Hana no Mi.
-- Nico_Olivia.md (W2) - mere des jumelles, archeologue d'Ohara.
-- Jaguar_D_Saul.md (W1) - geant ex-vice-amiral, ami d'Ohara.
-- Clou_D_Clover.md (W1) - directeur de la bibliotheque d'Ohara.
-- Foyer_Oran_Roji.md (W2) - foyer d'accueil des jumelles (Oran, Roji, Mizuira).
-- Kuzan.md (W1) - amiral Aokiji ; la condition, le juge patient.
+Description : fiches neutres des entites du monde (canon et OC promus au lore). 23 pages : 21 de la Passe 1 (close) + Sakazuki et Trajectoire_Jumelles (ajoutees en Passe 2).
+- Nico_Sonia.md (W6) - protagoniste ; jumelle cadette, Kaki Kaki no Mi.
+- Nico_Robin.md (W5) - jumelle ainee, Hana Hana no Mi.
+- Trajectoire_Jumelles.md (W1) - strate Trajectoire datee des deux jumelles, deportee des fiches Nico_Sonia / Nico_Robin.
+- Nico_Olivia.md (W3) - mere des jumelles, archeologue d'Ohara.
+- Jaguar_D_Saul.md (W2) - geant ex-vice-amiral, ami d'Ohara.
+- Clou_D_Clover.md (W2) - directeur de la bibliotheque d'Ohara.
+- Foyer_Oran_Roji.md (W3) - foyer d'accueil des jumelles (Oran, Roji, Mizuira).
+- Kuzan.md (W2) - amiral Aokiji ; la condition, le juge patient.
 - Sakazuki.md (W1) - le futur amiral Akainu ; destructeur du navire d'evacuation au Buster Call d'Ohara.
 - Crocodile.md (W2) - Mr. 0, protecteur-exploiteur de la periode BW.
 - Bartholomew_Kuma.md (W1) - Shichibukai adepte de Nika, pacte an 0.
-- Spandam_Spandine.md (W1) - bourreaux d'Ohara et d'Enies Lobby (avec Funkfreed).
-- Tom_Kokoro.md (W2) - maitre charpentier de Water 7 et secretaire de l'atelier ; foyer du sejour an -9/-8.
-- Iceburg.md (W2) - apprenti senior de Tom ; president de Galley-La, maire de Water 7.
-- Franky.md (W1) - Cutty Flam, apprenti cadet de Tom, cyborg.
+- Spandam_Spandine.md (W2) - bourreaux d'Ohara et d'Enies Lobby (avec Funkfreed).
+- Tom_Kokoro.md (W3) - maitre charpentier de Water 7 et secretaire de l'atelier ; foyer du sejour an -9/-8.
+- Iceburg.md (W3) - apprenti senior de Tom ; president de Galley-La, maire de Water 7.
+- Franky.md (W2) - Cutty Flam, apprenti cadet de Tom, cyborg.
 - Monkey_D_Luffy.md (W2) - capitaine des Mugiwara.
 - Roronoa_Zoro.md (W1) - sabreur des Mugiwara.
 - Nami.md (W1) - navigatrice des Mugiwara.
 - Usopp.md (W2) - tireur des Mugiwara.
 - Sanji.md (W2) - cuisinier des Mugiwara.
 - Tony_Tony_Chopper.md (W2) - medecin des Mugiwara.
-- Brook.md (W1) - musicien des Mugiwara ; porte la section Culture (Binks).
+- Brook.md (W2) - musicien des Mugiwara ; porte la section Culture (Binks).
 - Jinbe.md (W1) - timonier des Mugiwara (rejoint an +2).
 
 ### Lieux/
@@ -49,7 +50,7 @@ Description : organisations detaillees au-dela du resume SB4.
 
 ### Roadmap/Sonia/
 Description : sources de build de la Passe 2. SEUL le garde cap est indexe ici ; les roadmaps individuelles restent hors Sommaire, listees dans le garde cap.
-- Chronologie.md (W2) - garde cap : chronologie des roadmaps (R0-R15), statuts, jalons et [A POSER] par arc.
+- Chronologie.md (W5) - garde cap : chronologie des roadmaps (R0-R15), statuts, jalons et [A POSER] par arc.
 
 ### Fiches_Arc/Sonia/
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs `arc precedent` / `arc suivant`), pas par un index des roadmaps.
