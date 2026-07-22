@@ -1,6 +1,6 @@
 # Sommaire - OnePiece
 
-- version : W2
+- version : W3
 
 ## WIKI
 
@@ -8,17 +8,18 @@
 
 ### Racine
 Description : documents transverses.
-- _Implications.md (W6) - journal de travail du worldbuilding ; JAMAIS fetche en narration.
+- _Implications.md (W8) - journal de travail du worldbuilding ; JAMAIS fetche en narration.
 
 ### Personnages/
-Description : fiches neutres des entites du monde (canon et OC promus au lore). Passe 1 FAITE : 21 pages.
+Description : fiches neutres des entites du monde (canon et OC promus au lore). 22 pages : 21 de la Passe 1 (close) + Sakazuki (ajoutee en Passe 2).
 - Nico_Sonia.md (W5) - protagoniste ; jumelle cadette, Kaki Kaki no Mi.
 - Nico_Robin.md (W4) - jumelle ainee, Hana Hana no Mi.
 - Nico_Olivia.md (W2) - mere des jumelles, archeologue d'Ohara.
 - Jaguar_D_Saul.md (W1) - geant ex-vice-amiral, ami d'Ohara.
 - Clou_D_Clover.md (W1) - directeur de la bibliotheque d'Ohara.
 - Foyer_Oran_Roji.md (W2) - foyer d'accueil des jumelles (Oran, Roji, Mizuira).
-- Kuzan.md (W1) - amiral Aokiji ; la condition, le juge recurrent.
+- Kuzan.md (W1) - amiral Aokiji ; la condition, le juge patient.
+- Sakazuki.md (W1) - le futur amiral Akainu ; destructeur du navire d'evacuation au Buster Call d'Ohara.
 - Crocodile.md (W2) - Mr. 0, protecteur-exploiteur de la periode BW.
 - Bartholomew_Kuma.md (W1) - Shichibukai adepte de Nika, pacte an 0.
 - Spandam_Spandine.md (W1) - bourreaux d'Ohara et d'Enies Lobby (avec Funkfreed).
@@ -46,11 +47,15 @@ Description : systemes du monde (fruits, Haki, poneglyphes, Kaki Kaki no Mi).
 Description : organisations detaillees au-dela du resume SB4.
 - (aucune page)
 
+### Roadmap/Sonia/
+Description : sources de build de la Passe 2. SEUL le garde cap est indexe ici ; les roadmaps individuelles restent hors Sommaire, listees dans le garde cap.
+- Chronologie.md (W2) - garde cap : chronologie des roadmaps (R0-R15), statuts, jalons et [A POSER] par arc.
+
 ### Fiches_Arc/Sonia/
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs `arc precedent` / `arc suivant`), pas par un index des roadmaps.
 - (aucune page - Passe 3 a venir)
 
-> ROADMAPS NON INDEXEES EN JEU. Le dossier `Roadmap/Sonia/` n'est pas liste au Sommaire : sources de build uniquement, lues en listant directement le dossier (Passe 2 a venir). En jeu, le MJ navigue d'arc en arc par les fiches et tient le fil long via le CODEX ANNEXE_CHRONO.
+> ROADMAPS INDIVIDUELLES NON INDEXEES ET JAMAIS FETCHEES EN JEU : sources de build uniquement, atteintes via le garde cap ou le listing du dossier. En jeu, le MJ navigue d'arc en arc par les fiches et tient le fil long via le CODEX ANNEXE_CHRONO.
 
 ## PARTIES (Partie1)
 

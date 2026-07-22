@@ -1,6 +1,6 @@
 # _Implications - OnePiece
 
-- version : W7
+- version : W8
 
 Journal de travail du worldbuilding. Pense-bete de coordination. JAMAIS fetche en narration.
 
@@ -18,12 +18,10 @@ Journal de travail du worldbuilding. Pense-bete de coordination. JAMAIS fetche e
 ## Decisions actees en attente d'integration
 
 ### Vers la BIBLE (prochain BIBLE BUILD)
-- SB5 Kuzan : RETIRER "juge recurrent de leur codependance" - perime. Tranche thread 12 : UNE seule re-rencontre avant l'an 0, en fin de R5 Skypiea (il congele les deux jumelles pour tester la reaction et la force de l'equipage ; decide de ne pas les separer et de n'en emporter aucune).
 - SB3 / SB5 : integrer le titre "Les Lumieres de la Revolution" - APRES le build R2 qui en fixera l'origine.
 
 ### Vers le Sommaire (prochain build de Sommaire)
-- Indexer le garde cap (Roadmap/Sonia/Chronologie.md) - tranche thread 12 : garde cap SEUL indexe, les roadmaps individuelles restent hors Sommaire (listees dans le garde cap).
-- Indexer la fiche Personnages/Sakazuki.md (creee thread 12, W1).
+- (rien en attente)
 
 ### Vers les fiches - Trajectoires R0 et ajout noyau (a verser au prochain rebuild complet de chacune)
 Contenu FIXE au thread 12, a verser tel quel, bump de version au rebuild. Les lignes R0 se placent EN TETE des tables (ordre chrono).
@@ -34,6 +32,7 @@ Contenu FIXE au thread 12, a verser tel quel, bump de version au rebuild. Les li
 - Clou_D_Clover (repo W1) - ligne Trajectoire : | an -20 (J-0) | Chute d'Ohara (Roadmap_0) : rafle a l'Arbre ; plaidoyer aux Cinq Doyens par escargophone ; abattu avant de nommer le royaume ; les erudits condamnes jettent les livres dans l'etang de l'Arbre (canon - payoff R15) | Mort a Ohara. Sa these du Grand Royaume reste non dite au monde |
 - Foyer_Oran_Roji (repo W2) - deux lignes Trajectoire : | an -20 (matin J-0) | Beat du pain (Roadmap_0, etape 4) : Roji decouvre le chapardage et hurle - les jumelles ejectees du bourg. Derniere interaction du foyer avec elles | - | puis | an -20 (J-0) | Morts dans l'annihilation - rassembles sur le navire d'evacuation detruit par Sakazuki [IMPLICITE canon : civils a bord] | Foyer eteint |
 - Kuzan (repo W1) - ligne Trajectoire : | an -20 (J-0) | Buster Call d'Ohara (Roadmap_0) : gele Saul (Ice Time) ; trouve les deux jumelles, les epargne de son propre chef ; pose LA condition - disparaitre ou devenir plus que deux, sous menace de separation definitive (verbatim : Roadmap_0_Ohara) ; ouvre le pont de glace de leur fuite | La condition reste entre lui et elles ; premiere entorse personnelle a l'ordre recu |
+- Kuzan (repo W1) - TERMINOLOGIE au rebuild (decision thread 13) : "juge patient de leur codependance" remplace "juge recurrent" partout ou la fiche l'emploie. Fond acte : aucune re-rencontre pendant la cavale ; LA seule re-rencontre avant le Nouveau Monde = fin R5 an 0, apres le Davy Back Fight (congelation-test des deux jumelles ; decide de ne pas les separer et de n'en emporter aucune).
 - Spandam_Spandine (repo W1) - ligne Trajectoire : | an -20 (J-0) | Spandine (Roadmap_0) : debarque avec le CP9, identifie Olivia, ordonne la rafle des erudits, declenche le Buster Call au Golden Escargophone ; quitte l'ile sous le pilonnage avec ses agents [IMPLICITE canon] | L'homme du Buster Call d'Ohara ; prestige aupres du GM [IMPLICITE] |
 
 ### Beats et hooks (reportes aux builds concernes)
@@ -41,10 +40,12 @@ Contenu FIXE au thread 12, a verser tel quel, bump de version au rebuild. Les li
 - HOOK LIVE ACTION (S2E6, confirme) : Miss All Sunday livre le Baku Baku no Mi a Wapol. Option AU ouverte : livraison par les jumelles pendant la periode BW - a trancher aux builds R3 (livraison) / R4 (intervention des soeurs autour de Drum, frontiere Chopper).
 - Mise en scene du Live Action pour l'operation Zoro (ile de Sixis, corps ramene a Shells Town) : REPRENABLE, non actee - a trancher au build de la roadmap concernee (R3/R4).
 
-## Integre aux threads 11-12 - pour memoire
+## Integre aux threads 11-13 - pour memoire
 - Thread 11 (B2, lot d'amendements, Sommaire W2) : sejour Water 7 an -9/-8 (option A, maisonnee au parfum), fuite du soir meme, entree BW an -8, role executif BW, operation Zoro an -1, morts en cavale, cartographie Binks (SB2 + lignes Culture), regle AU des fruits (SB1), ingestion preparee par Olivia (mystere assume sur la provenance), mutilation par Funkfreed, t0 = J-2, Clou D. Clover, Olivia enrichie (veuve, eleve de Clover, prime 79M), renvois SB5 vers les 21 fiches, correction surnom Franky (Iceburg W2), levee du [CANON SUPPOSE] Yokozuna (Tom_Kokoro W2).
 - Initiatives MJ posees au thread 11, non contestees (veto toujours possible) : Tchekhov SB8 "Ordre de recrutement de Zoro" ; mystere Olivia reformule (TRANCHE sur le geste, ouvert sur la provenance seulement) ; lignes SB5 Tom / Kokoro / Iceburg / Foyer d'Oran et Roji.
 - Thread 12 : garde cap Chronologie W1 puis W2 - decoupage R0-R15 dicte (nommage par lieux, exception Baroque Works ; Ohara = R0 intro jouable ; cavale scindee R1 West Blue / R2 Grand Line, Water 7 en joyau final de R2 ; pas de Whole Cake Island - depart de Zou avec le groupe Wano, infiltration des deux en geisha ; segmentation Punk Hazard / Dressrosa / Zou ; destination de dispersion : Tequila Wolf ; Haki : rien avant la separation, premiere utilisation vue = Rayleigh face a Kizaru, revelation aux Mugiwara reportee R10 ; confirmation MJ : revelation Saul vivant / livres d'Ohara faite A EGGHEAD par Vegapunk, canon ch. 1066). Roadmap_0_Ohara ECRITE, ses six [A POSER] tranches (rencontre Olivia PENDANT le chaos, accostage nocturne J-1 resolu canon ; condition d'Aokiji verbatim ; beat du pain = ejection du bourg ; lunettes brisees sur le pont de glace ; detonation Saul = le nom "Nico" lache dans une histoire ; carnet bleu brule a la demande d'Olivia, qui en avait un petite). Fiche Sakazuki W1 creee. Livres jetes dans l'etang de l'Arbre integres (canon, payoff R15).
+- Thread 13 (BIBLE B3, Sommaire W3) : SB5 Kuzan reformule - "juge patient de leur codependance" (le terme remplace "juge recurrent", decision thread 13) + re-rencontre unique fin R5 an 0, apres le Davy Back Fight (congelation-test) ; SB3 Sabaody + SB8 Pacte Kuma : Tequila Wolf inscrit ; SB8 Haki tu : detonation Rayleigh face a Kizaru (Sabaody an 0), revelation reportee R10 ; SB0 inventaire a jour (22 fiches, Roadmap/Sonia 2 pages). Sommaire W3 : Sakazuki indexe, garde cap seul indexe (note reformulee), ligne Kuzan "juge patient", canari journal W8.
+- Initiatives MJ posees au thread 13, non contestees (veto toujours possible) : ligne SB5 Sakazuki (renvoi fiche, [INCERTAIN] Magu Magu repris du journal) ; ligne SB6 Tequila Wolf (ile-chantier du pont, East Blue, main-d'oeuvre asservie - canon).
 
 ## Observations NON actees (pistes)
 - La version Binks des jumelles (West Blue) pourrait etre une cousine directe de celle des Rumbar (meme mer d'origine). Resonance possible pour Thriller Bark an 0 - parquee au garde cap R7.
@@ -77,14 +78,15 @@ Contenu FIXE au thread 12, a verser tel quel, bump de version au rebuild. Les li
 ## Terminologie
 - Escargophone - acte. Fruits du demon : noms japonais conserves (Kaki Kaki, Hana Hana).
 - Graphie "Olivia" (romanisation canon : Olvia).
+- "Juge patient" (Kuzan) - acte thread 13, remplace "juge recurrent" partout.
 - Fiches nommees par nom complet : Clou_D_Clover.md, Jaguar_D_Saul.md, Monkey_D_Luffy.md, Roronoa_Zoro.md, Tony_Tony_Chopper.md. Fiches groupees : Foyer_Oran_Roji.md, Spandam_Spandine.md (avec Funkfreed), Tom_Kokoro.md.
 
 ## Etat
-- Passe 0 : FAITE (BIBLE B2). Passe 1 : CLOSE (thread 11). Passe 2 : EN COURS (thread 12) - garde cap W2, R0 Ohara ECRITE.
+- Passe 0 : FAITE (BIBLE B3). Passe 1 : CLOSE (thread 11). Passe 2 : EN COURS - garde cap W2, R0 Ohara ECRITE (thread 12) ; consolidation BIBLE B3 + Sommaire W3 (thread 13).
 - Versions en repo (22 fiches, OnePiece/Personnages/) : Nico_Sonia (W5), Nico_Robin (W4), Nico_Olivia (W2), Jaguar_D_Saul (W1), Clou_D_Clover (W1), Foyer_Oran_Roji (W2), Kuzan (W1), Crocodile (W2), Bartholomew_Kuma (W1), Spandam_Spandine (W1), Tom_Kokoro (W2), Iceburg (W2), Franky (W1), Monkey_D_Luffy (W2), Roronoa_Zoro (W1), Nami (W1), Usopp (W2), Sanji (W2), Tony_Tony_Chopper (W2), Brook (W1), Jinbe (W1), Sakazuki (W1). NB : les Trajectoires R0 (section en attente) ne sont PAS encore versees dans les fiches - bumps au fil des rebuilds.
 - Roadmap/Sonia/ : Chronologie (W2), Roadmap_0_Ohara (W1).
 - RESTE - PASSE 2 : boucle serree R1 West Blue, puis R2 -> R15 ; cloture : relecture croisee inter-arcs ; puis Passe 3 (fiches d'arc), SETUP, CODEX V1.
-- Marqueurs resolus a ce jour : reve commun ; accro traduction-enquete ; humour noir des Ohara ; lecon de rire de Saul ; revelation poneglyphe au diplome ; foyer canon complet ; metier d'Oran ; Mizuira figurante ; fruits (semi-hasard, mystere, ingestion preparee) ; t0 = J-2 ; prenoms seuls donnes a Saul ; arme de la mutilation = Funkfreed ; sejour Water 7 an -9/-8 ; entree BW an -8 ; rencontre Crocodile a 36 ans ; fourche maisonnee = option A ; fuite en douce du soir meme ; operation Zoro an -1 ; beat Sanji-Sonia ; cartographie Binks ; frontieres Chopper et Jinbe ; lot d'amendements thread 11 ; BIBLE B2 ; Sommaire W2 ; routine garde cap actee ; + thread 12 : decoupage R0-R15 ; indexation garde cap (seul) ; condition d'Aokiji (verbatim) ; arrivee Olivia (nuit J-1, rencontre PENDANT) ; beat du pain (fonction ejection) ; lunettes (pont de glace) ; detonation Saul (declencheur "Nico") ; carnet bleu (demande d'Olivia) ; une seule re-rencontre Aokiji (fin R5, congelation-test) ; Tequila Wolf ; Haki (rien avant separation, revelation reportee R10) ; placement Sanji-Sonia (R5, en mer) ; pas de WCI (geisha Wano) ; Egghead = Vegapunk (ch. 1066) ; titre "Les Lumieres de la Revolution" (pose, origine ouverte).
+- Marqueurs resolus a ce jour : reve commun ; accro traduction-enquete ; humour noir des Ohara ; lecon de rire de Saul ; revelation poneglyphe au diplome ; foyer canon complet ; metier d'Oran ; Mizuira figurante ; fruits (semi-hasard, mystere, ingestion preparee) ; t0 = J-2 ; prenoms seuls donnes a Saul ; arme de la mutilation = Funkfreed ; sejour Water 7 an -9/-8 ; entree BW an -8 ; rencontre Crocodile a 36 ans ; fourche maisonnee = option A ; fuite en douce du soir meme ; operation Zoro an -1 ; beat Sanji-Sonia ; cartographie Binks ; frontieres Chopper et Jinbe ; lot d'amendements thread 11 ; BIBLE B2 ; Sommaire W2 ; routine garde cap actee ; + thread 12 : decoupage R0-R15 ; indexation garde cap (seul) ; condition d'Aokiji (verbatim) ; arrivee Olivia (nuit J-1, rencontre PENDANT) ; beat du pain (fonction ejection) ; lunettes (pont de glace) ; detonation Saul (declencheur "Nico") ; carnet bleu (demande d'Olivia) ; une seule re-rencontre Aokiji (fin R5, congelation-test) ; Tequila Wolf ; Haki (rien avant separation, revelation reportee R10) ; placement Sanji-Sonia (R5, en mer) ; pas de WCI (geisha Wano) ; Egghead = Vegapunk (ch. 1066) ; titre "Les Lumieres de la Revolution" (pose, origine ouverte) ; + thread 13 : BIBLE B3 ; Sommaire W3 ; juge patient ; re-rencontre R5 apres le Davy Back Fight ; Tequila Wolf et Haki R10 inscrits en BIBLE.
 
 ---
 
