@@ -1,7 +1,7 @@
 # Chronologie des roadmaps - Sonia / Jumelles d'Ohara
 
-- version : W3
-- note de version : W3 - R1 West Blue ECRITE, tous ses [A POSER] tranches ; import de perimetre acte : Esperia (canon Elbaf, lore passe uniquement) ; bornes R2 precisees. W2 - R0 Ohara ecrite (thread 12). W1 - genese, decoupage R0 -> R15 dicte. Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de Passe 2) ; les [A POSER] listes ici s'y tranchent.
+- version : W5
+- note de version : W5 - Roadmap_2 bumpee W2 (bloc Quotidien de l'annee Tom : duos Robin-Iceburg / Sonia-Cutty Flam, Iceburg feru d'histoire). W4 - R2 Grand Line ECRITE, tous ses [A POSER] tranches (couture Twin Capes sans escale ; titre ne a l'embuscade an -12 ; doctrine "aucun temoin" ; chute de Tom placee en R3) ; R1 bumpee W2 (retrofit : modus operandi, logement, regle de visibilite) ; Tchekhov Erumalu plante (R2 -> R4) ; retombees versees en R3, R4, R9. W3 - R1 West Blue ecrite ; import de perimetre Esperia. W2 - R0 Ohara ecrite (thread 12). W1 - genese, decoupage R0 -> R15 dicte. Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de Passe 2) ; les [A POSER] listes ici s'y tranchent.
 - convention de nommage (actee) : chaque roadmap porte le nom du LIEU ou de l'etape de son arc. Exception acceptee : Baroque Works (R3).
 - indexation (tranchee thread 12) : le garde cap SEUL est indexe au Sommaire (au prochain build de Sommaire) ; les roadmaps individuelles restent hors Sommaire, listees ici.
 - prota / POV : Nico Sonia (les jumelles, jamais separees).
@@ -9,7 +9,9 @@
 ## Reperes de datation
 - an 0 = depart de Luffy en mer (East Blue -> Marineford condense sur quelques mois in-world). Ellipse an 0 -> an +2.
 - Point de depart du RP (t0) : Ohara, J-2 du Buster Call, an -20. Saul echoue a J-4 (t0 = le surlendemain).
-- Jumelles nees an -28 : 8 ans a t0 ; 14 ans au passage en Grand Line (an -14) ; 19 ans a l'arrivee a Water 7 (an -9) ; 20 ans a l'entree BW (an -8) ; 28 ans a Enies Lobby (an 0) ; 30 ans a Egghead (an +2).
+- Jumelles nees an -28 : 8 ans a t0 ; 14 ans au passage en Grand Line (an -14) ; 16 ans a la naissance de la legende (an -12) ; 19 ans a l'arrivee a Water 7 (an -9) ; 20 ans a l'entree BW (an -8) ; 28 ans a Enies Lobby (an 0) ; 30 ans a Egghead (an +2).
+- Legende "Les Lumieres de la Revolution" : nee an -12 (embuscade, temoins revolutionnaires - Roadmap_2).
+- Fondation de Baroque Works : vers an -10 au plus tot (derive du plafond BIBLE "sejour BW sous 10 ans") ; Whiskey Peak deja tenue an -10/-9 (BW naissante).
 - Execution de Roger : an -22.
 
 ## Fils flottants (sans arc attitre)
@@ -21,29 +23,29 @@
 - Detail complet : cf. Roadmap_0_Ohara.md - itineraire en 9 etapes, condition d'Aokiji (verbatim acte), casting, notes de frontiere. Tous les [A POSER] de genese tranches (thread 12).
 - Fichier : Roadmap_0_Ohara.md
 
-## R1 - West Blue [ECRITE]
+## R1 - West Blue [ECRITE - W2]
 - Bornes : sortie des eaux d'Ohara (an -20, 8 ans) -> passage en Grand Line (an -14, 14 ans), descente de Reverse Mountain en cale.
-- Detail complet : cf. Roadmap_1_West_Blue.md - itineraire en 7 etapes, boucle de cavale (pattern de jeu libre), regle de survie en cale, motivation double du passage (necessite + vocation), casting OC (Bonace, Corvara, Murene - identites fixees, pas de fiches wiki), import de perimetre Esperia (lore passe uniquement).
+- Detail complet : cf. Roadmap_1_West_Blue.md (W2) - itineraire en 7 etapes, boucle de cavale (pattern de jeu libre), modus operandi du croc-en-jambe au graphite, regime de logement, regle de survie en cale, motivation double du passage (necessite + vocation), casting OC (Bonace, Corvara, Murene - identites fixees, pas de fiches wiki), import de perimetre Esperia (lore passe uniquement).
 - Jalons cles : avis "Les Enfants du Demon" (120M) des l'ouverture (mecanisme canon transpose : reperees au large de l'ile NE d'Ohara) ; variante Binks a double vecteur (coque de la Bonace / chant-piege de la Murene), lignee d'Esperia cousine des Rumbar - Tchekhov R7 ; premieres morts an -16/-15 (une chacune, deux Marines de la 80e Branche, aucun temoin, prime inchangee) ; Observation acquis en fil d'arc.
 - Fichier : Roadmap_1_West_Blue.md
 
-## R2 - Grand Line [A BUILDER]
-- Bornes : descente de Reverse Mountain (an -14, 14 ans, planquees en cale d'un gros-porteur) -> fuite en douce de Water 7 (soir de l'annonce du CP5, an -8).
-- Substance : l'adolescence ; les fuyardes deviennent un nom. Water 7 en joyau final.
-- Jalons : titre gagne "Les Lumieres de la Revolution" (dicte thread 12 ; VF canon Robin seule : "la Lumiere de la Revolution") ; arrivee a Water 7 an -9 (19 ans), Tom garant devant la maisonnee (option A : Iceburg, Cutty Flam et Kokoro savent) ; un an d'atelier, tatouages solaires, Battle Frankies et proces de Tom en toile de fond ; fuite en douce le soir meme de l'annonce du CP5, sans un adieu.
-- [A POSER] : couture d'ouverture - Twin Capes (debarquent-elles ? Crocus ? Laboon vu de pres ?), la borne R1 s'arrete a la descente ; origine et mecanique du titre (qui le donne ? contact avec l'Armee Revolutionnaire des l'adolescence ?) - implications directes sur R9 ; episodes d'adolescence, part des morts de leur main ; chute de Tom apprise par voie de presse - a confirmer (canon : proces publics a Water 7, mediatisation mondiale non etablie [INTERPRETATION : plausible]) ; placement de la nouvelle : fin R2 ou debut R3.
+## R2 - Grand Line [ECRITE - W2]
+- Bornes : descente de Reverse Mountain (an -14, 14 ans) -> fuite en douce de Water 7 (soir de l'annonce du CP5, an -8, 20 ans), cap sur Alabasta.
+- Detail complet : cf. Roadmap_2_Grand_Line.md (W2) - itineraire en 9 etapes, regle de mobilite (allers-retours Paradis, appui Merry ~42 jours), doctrine "aucun temoin", nuit du hangar, annee Tom et son quotidien (duos actes : Robin-Iceburg les poses, Sonia-Cutty Flam les impulsifs), enquete BW bouclee.
+- Jalons cles : aucune escale aux Twin Capes ; escale Alabasta an -13/-12 (Nanohana ; Erumalu vue VIVANTE - TCHEKHOV vers R4) ; embuscade an -12 = naissance de la legende "Les Lumieres de la Revolution" (temoins revolutionnaires ; nom clandestin, jamais sur avis ; prime inchangee) ; Mock Town evitee ; Whiskey Peak an -10/-9 (BW naissante, enquete ouverte) ; Little Garden au large (geants en duel, echo Saul) ; San Faldo puis Water 7 an -9 (nuit du hangar : Iceburg surpris, Tom accueille en amies) ; annee Tom, enquete bouclee (bases BW = anciens repaires secrets de la Marine ; base principale = casino d'Alabasta) ; fuite an -8 avec DESTINATION (BW), pour proteger la maisonnee.
 - Fichier : Roadmap_2_Grand_Line.md
 
 ## R3 - Baroque Works [A BUILDER]
 - Bornes : recrutement BW (an -8, 20 ans) -> veille de Whiskey Peak (an 0).
-- Jalons : Robin = Miss All Sunday, Sonia = Miss Black Friday, partenaires de Mr. 0, role executif (pilotage d'operations) ; arrangement Sonia-Crocodile porte en LORE PLEIN (debut, mecanique de survie, Robin sait / tente de dissuader / echoue ; Robin hait Crocodile, Sonia se hait elle-meme ; secret des seules soeurs) - le cadrage de REPRESENTATION (deux types de scenes, ellipse totale du reste) releve du SETUP / ANNEXE_STYLE, pas de la roadmap ; operation Zoro an -1 (emissaire ex-Mr. 7 tue, commanditaires : les jumelles).
-- [A POSER] : mecanique du recrutement (couture R2 -> R3 ; deduction "corsaire ou vice-amiral" actee) ; details operationnels Miss Black Friday (missions, place dans l'organigramme) ; option livraison du Baku Baku no Mi a Wapol (hook Live Action S2E6) ; nouvelle de la chute de Tom si placee ici.
+- Couture d'entree (actee R2) : elles arrivent en SACHANT (bases BW = anciens repaires secrets de la Marine ; chef lie a la Marine, haut place ; base principale = casino d'Alabasta) et AVEC l'intention de rejoindre - protection contre le CP5, poursuite de la cavale autrement.
+- Jalons : nouvelle de la chute de Tom recue en DEBUT d'arc (acte au build R2 : placee en R3 - trop proche en R2, elles s'en croiraient responsables) ; Robin = Miss All Sunday, Sonia = Miss Black Friday, partenaires de Mr. 0, role executif (pilotage d'operations) ; arrangement Sonia-Crocodile porte en LORE PLEIN (debut, mecanique de survie, Robin sait / tente de dissuader / echoue ; Robin hait Crocodile, Sonia se hait elle-meme ; secret des seules soeurs) - le cadrage de REPRESENTATION (deux types de scenes, ellipse totale du reste) releve du SETUP / ANNEXE_STYLE, pas de la roadmap ; operation Zoro an -1 (emissaire ex-Mr. 7 tue, commanditaires : les jumelles).
+- [A POSER] : mecanique du recrutement (couture partiellement cadree R2 : le POURQUOI et la piste sont acquis ; reste le COMMENT - approche du casino, deduction "corsaire ou vice-amiral" actee) ; reception de la nouvelle de Tom (voie de presse a confirmer [INTERPRETATION : plausible]) ; details operationnels Miss Black Friday (missions, place dans l'organigramme) ; option livraison du Baku Baku no Mi a Wapol (hook Live Action S2E6).
 - Fichier : Roadmap_3_Baroque_Works.md
 
 ## R4 - Alabasta [A BUILDER]
 - Bornes : Whiskey Peak (an 0) -> chute de Crocodile + entree des jumelles dans l'equipage (a deux). Fin de l'arrangement.
-- Jalons : Whiskey Peak - les jumelles debarquent face a l'homme qui a tue leur emissaire (les agents frontaliers ignorent l'incident ; le sommet de BW, non) ; Little Garden ; Drum ; Alabasta, chute de Crocodile face a Luffy.
-- [A POSER] : traitement du face-a-face Zoro ; intervention des soeurs autour de Drum (lie au hook Wapol) ; frontiere Chopper (fin de Drum <= rencontre <= Alabasta).
+- Jalons : Whiskey Peak - les jumelles debarquent face a l'homme qui a tue leur emissaire (les agents frontaliers ignorent l'incident ; le sommet de BW, non) ; Little Garden ; Drum ; Alabasta, chute de Crocodile face a Luffy ; Erumalu en ruines - DETONATION du Tchekhov plante en R2 (la ville verte de leurs 15 ans, tuee par la Dance Powder de Crocodile).
+- [A POSER] : traitement du face-a-face Zoro ; intervention des soeurs autour de Drum (lie au hook Wapol) ; frontiere Chopper (fin de Drum <= rencontre <= Alabasta) ; consequence de la detonation Erumalu (reaction des jumelles).
 - Fichier : Roadmap_4_Alabasta.md
 
 ## R5 - Skypiea [A BUILDER]
@@ -70,8 +72,8 @@
 
 ## R9 - Baltigo [A BUILDER]
 - Bornes : atterrissage a Tequila Wolf (an 0) -> depart pour le retour a Sabaody (an +2).
-- Jalons : Tequila Wolf ; prise en charge par l'Armee Revolutionnaire, Baltigo ; nouvelles d'Impel Down et de Marineford - deuil d'Ace ; Crocodile libere par Luffy : crise privee des jumelles (nausees de Sonia, secret maintenu) ; deux ans de formation ; Baltigo detruit APRES leur depart (an +2).
-- [A POSER] : contenu de l'ellipse (formation, rapports avec Dragon) ; articulation avec le titre de R2 (elles arrivent deja titrees ?).
+- Jalons : Tequila Wolf ; prise en charge par l'Armee Revolutionnaire, Baltigo ; elles arrivent DEJA TITREES (legende "Les Lumieres de la Revolution" nee an -12, temoins revolutionnaires - acte R2) ; nouvelles d'Impel Down et de Marineford - deuil d'Ace ; Crocodile libere par Luffy : crise privee des jumelles (nausees de Sonia, secret maintenu) ; deux ans de formation ; Baltigo detruit APRES leur depart (an +2).
+- [A POSER] : contenu de l'ellipse (formation, rapports avec Dragon) ; reception de la legende cote Armee (dossier, attente depuis an -12 ?).
 - Fichier : Roadmap_9_Baltigo.md
 
 ## R10 - Hommes-Poissons [A BUILDER]

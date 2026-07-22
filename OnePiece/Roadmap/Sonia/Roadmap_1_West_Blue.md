@@ -1,6 +1,7 @@
 # Roadmap 1 - West Blue
 
-- version : W1
+- version : W2
+- note de version : W2 - retrofit acte au build R2 : modus operandi du croc-en-jambe, regime de logement, regle "jamais de demonstration visible" harmonisee. W1 - build initial.
 - prota / POV : Nico Sonia (les jumelles, jouees ensemble)
 - statut : ECRITE
 - echelle temporelle : six ans - de la sortie des eaux d'Ohara (an -20, 8 ans) au passage en Grand Line (an -14, 14 ans)
@@ -16,9 +17,18 @@ L'enfance en cavale, juste en fuyardes. Six ans a apprendre le metier de dispara
 
 ## Boucle de cavale (pattern de jeu libre entre les beats)
 1. ARRIVEE : debarquement discret (cale, nuit), reperage du port et des affiches.
-2. INSTALLATION : faux noms, gagne-pain d'enfants (courses, criee, petites mains) ; Hana Hana pour chaparder et ecouter sans etre vue ; le Kaki Kaki JAMAIS en public - un dessin qui durcit, c'est une signature.
+2. INSTALLATION : faux noms ; couverture de gagne-pain d'enfants (courses, criee, petites mains) ; revenu reel : le croc-en-jambe au graphite (cf. Modus operandi) ; Hana Hana pour chaparder et ecouter sans etre vue ; jamais de demonstration VISIBLE des fruits - un dessin qui durcit sous des yeux temoins, c'est une signature. L'usage couvert est la norme depuis leurs 8 ans.
 3. ALERTE : affiche fraiche, question de trop, regard appuye - seuil de depart atteint.
 4. EXFILTRATION : cale du premier navire CHOISI ; barque volee en dernier recours. Regle des jumelles : on part avant d'etre vues partir.
+
+## Modus operandi - le croc-en-jambe au graphite (acte, retrofit R2)
+- Un trait de graphite discret au sol fait trebucher un passant fortune ; dans la chute, des mains Hana Hana poussent discretement et subtilisent les berrys ; les filles restent toujours hors de portee, jamais au contact.
+- Mecanique SB1 : croquis rapide -> charbon friable. La preuve s'effrite d'elle-meme en quelques minutes.
+- En place depuis leurs 8 ans, perfectionne sur les six ans de l'arc ; passe a l'echelle Grand Line en R2.
+
+## Regime de logement (acte, retrofit R2)
+- La plupart du temps : petite chambre, lit simple. Bonne recolte : bonne chambre, lit double.
+- Dans tous les cas : collees l'une a l'autre, sans prendre plus de place qu'un seul corps. Echo etabli : le lit unique du foyer Roji.
 
 ## Survie en cale (regle actee)
 - Se planquer en cale, c'est vivre au milieu de l'eau potable et des vivres du bord : c'est ce qui rend la methode tenable sur des annees.
@@ -52,10 +62,10 @@ L'enfance en cavale, juste en fuyardes. Six ans a apprendre le metier de dispara
 - Silhouettes sans fiche : equipage du gros-porteur du passage (etape 7), foules portuaires, Laboon (entendu et apercu, jamais aborde).
 
 ## Notes de frontiere
-- L'arrivee en Grand Line (Twin Capes, Crocus eventuel, premiere ile) : matiere de l'OUVERTURE de R2, hors R1. La borne s'arrete a la descente, baleine apercue.
+- L'arrivee en Grand Line (Twin Capes, premiere route) : matiere de l'OUVERTURE de R2, hors R1. La borne s'arrete a la descente, baleine apercue.
 - La condition d'Aokiji pese sur tout l'arc (aucun temoin aux morts) mais n'est jamais re-enoncee ; aucune apparition d'Aokiji (branche "disparaitre").
 - Version officielle du GM sur Ohara (les erudits presentes en criminels) : toile de fond des affiches et rumeurs de port - a detailler si le jeu la convoque (note heritee de R0).
 - Carnet rouge : porte dans la sacoche tout du long ; alimentation en route laissee au jeu libre (fil flottant, cf. garde cap).
-- Fiche d'arc R1 (troncature a la sortie d'Ohara ; descriptions sceniques des OC ; candidates ANNEXE_SAVOIRS - dont l'ironie Laboon/Binks) : Passe 3.
+- Fiche d'arc R1 (troncature a la sortie d'Ohara ; descriptions sceniques des OC ; candidates ANNEXE_SAVOIRS - dont l'ironie Laboon/Binks, classement a statuer, cf. journal) : Passe 3.
 
 FIN_ROADMAP_SONIA_1
