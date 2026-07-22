@@ -1,7 +1,7 @@
 # Chronologie des roadmaps - Sonia / Jumelles d'Ohara
 
-- version : W1
-- note de version : garde cap de genese. Decoupage R0 -> R15 DICTE par le worldbuilder (thread 12). Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de Passe 2) ; les [A POSER] listes ici s'y tranchent.
+- version : W2
+- note de version : W2 - R0 Ohara ECRITE (thread 12), tous ses [A POSER] tranches. W1 - genese, decoupage R0 -> R15 dicte. Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de Passe 2) ; les [A POSER] listes ici s'y tranchent.
 - convention de nommage (actee) : chaque roadmap porte le nom du LIEU ou de l'etape de son arc. Exception acceptee : Baroque Works (R3).
 - indexation (tranchee thread 12) : le garde cap SEUL est indexe au Sommaire (au prochain build de Sommaire) ; les roadmaps individuelles restent hors Sommaire, listees ici.
 - prota / POV : Nico Sonia (les jumelles, jamais separees).
@@ -16,10 +16,9 @@
 - Carnet rouge : detonation et consequence a definir (P2).
 - Vecteur Binks de Luffy (annee Shanks a Fuchsia, ou repris d'Usopp a bord) : question ouverte W6.
 
-## R0 - Ohara [A BUILDER - prochain build ; intro jouable]
+## R0 - Ohara [ECRITE - JOUABLE, intro du RP]
 - Bornes : t0 (J-2 du Buster Call, an -20) -> sortie des jumelles hors des eaux d'Ohara.
-- Jalons : arrivee d'Olivia [A POSER : ~J-1/J-0] ; Buster Call J-0 (declenche par Spandine) ; morts d'Olivia, de Clover et des erudits ; carnet bleu brule volontairement ; Saul gele par Aokiji ; fuite des DEUX jumelles aidee par Saul ; condition d'Aokiji posee ; prime commune 120M, avis "Les Enfants du Demon".
-- [A POSER] : detonation Saul (actee : il realise qu'il est sur Ohara et que les jumelles sont les filles d'Olivia, les previent du Buster Call - reprise canon decalee, a placer en jeu) ; formulation exacte de LA condition d'Aokiji ; beat du pain (matin J-0, Roji hurle apres les jumelles qui ont pris tout le pain pour Saul) ; lunettes de Sonia brisees dans la fuite.
+- Detail complet : cf. Roadmap_0_Ohara.md - itineraire en 9 etapes, condition d'Aokiji (verbatim acte), casting, notes de frontiere. Tous les [A POSER] de genese tranches (thread 12).
 - Fichier : Roadmap_0_Ohara.md
 
 ## R1 - West Blue [A BUILDER]
