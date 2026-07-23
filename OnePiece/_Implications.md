@@ -1,6 +1,6 @@
 # _Implications - OnePiece
 
-- version : W17
+- version : W18
 
 Journal de travail du worldbuilding. Pense-bete de coordination : UNIQUEMENT du pendant (questions ouvertes, contenu en attente d'integration, chantiers). L'applique degage au fil de l'eau ; l'historique vit dans les threads et les versions du repo, pas ici.
 
@@ -17,21 +17,33 @@ Journal de travail du worldbuilding. Pense-bete de coordination : UNIQUEMENT du 
 - Instructions : repercuter la DOCTRINE ROADMAPS actee au build R3 - le MJ narre et invente DANS le cadre, jamais le cadre ; aucun "libre en jeu", aucun incertain residuel dans une roadmap ; le peaufinage (etape 4 de la boucle serree) se fait INTEGRALEMENT en consultation, point par point, avant toute ecriture de fichier.
 
 ## Chantiers repo (MJ, en file)
-- (rien en file - prochaine etape : boucle serree R4 Alabasta)
+- Boucle R4, reste a faire : fiches NOYAU Smoker, Tashigi, Portgas D. Ace (a creer, calibrages a poser au build) ; versement des enrichissements ci-dessous ; puis boucle R5.
+- RECTIFICATION en attente : Roadmap_4 W1 (casting) et Chronologie W7 (note de version + R4) disent "fiche NOYAU Vivi a creer" - PERIME, propagation d'une ligne R3 W1 anterieure a la creation de la fiche. La fiche Nefertari_Vivi.md EXISTE (Passe 2, conforme BIBLE SB0, existence verifiee au listing). Rectifier en "a ENRICHIR" au prochain bump de chaque fichier. Aucun impact de fond.
+- Verifs canon en attente (avant ou pendant la relecture croisee de cloture P2) : formulation exacte du contenu du poneglyphe d'Alubarna (ch. 202-203 : histoire d'Alabasta + Poseidon) - fixe ce que la VRAIE traduction tue par les jumelles contient ; choregraphie canon de la confrontation Tashigi (ch. 201) comme base de la version a deux.
 
 ## En attente d'integration
 
 Regle (actee thread 12) : les enrichissements de fiches existantes sont FIXES ICI, puis verses au prochain REBUILD COMPLET de chaque fiche (bump de version). Pas de fichiers patch, pas d'editions chirurgicales a la main du worldbuilder. Une entree versee est effacee du journal.
 
-### Vers la BIBLE
-- (rien en attente)
+### Vers la BIBLE (B7)
+- SB8 Tchekhov "Ordre de recrutement de Zoro" : consequence CADREE (build R4) - detonation = beat des couteaux de Whiskey Peak (Sonia expose la dette a Zoro : un Mister 7 en moins par sa faute, un Mister 1 deniche pour la place vacante ; s'il le bat, quittes) ; dette soldee par le duel canon Zoro vs Daz Bonez a Alubarna. Detail de l'operation an -1 verse en R3 W2 (Mr. 1 propose sous preuve de force, Zoro exige Mr. 0, "mieux mort que rival").
+- SB8 Tchekhov "Crocodile libre" : premiere detonation EXECUTEE (R4 - chute par Luffy, arrangement solde par "inutiles"). Reste la seconde (R9, serment retourne).
+- SB8 Tchekhov "Erumalu la Verte" : consequence R4 TENUE (confrontation muette, aucun beat impose) - fil clos cote R4.
+- SB5 Nefertari Vivi : amender - pion ARME an -1 (visite de Robin, R3 W2 etape 7bis : Mr. 0 = Crocodile, plan de la misere nationale, conseil de chercher quelqu'un de solide) ; fin du savoir a sens unique an -1 (Vivi sait que les deux femmes du sommet la connaissent et la couvrent, ignore leurs identites) ; carte jouee an 0 (revelation de l'infiltration a Crocodile par les jumelles, presentee en decouverte fraiche).
+- SB5 Crocodile : "inutiles" (mot de fin de l'arrangement, tombe des rois) ; accord des noms COMPLETE - vrais noms en prive, noms de code en public (violation "les soeurs Nico" sur la route d'Alubarna, insolence de Sonia toleree).
+- SB3 ligne an 0 Alabasta : preciser - chute de Crocodile = premiere detonation du serment ; jumelles exfiltrees de la tombe par Luffy, sortie en cale du Merry (R4) ; intronisation effective en R5 (toujours an 0, aucune contradiction de date). Relink public des identites Nico a Alubarna (Tashigi) - repere pour le [A POSER] primes (R6).
 
 ### Vers les fiches
-- (rien en attente)
+- Nefertari_Vivi : verser 7bis recue (an -1) + relecture du noyau (motivation d'infiltration et connaissance de Mr. 0 : version AU - armee par Miss All Sunday) + Trajectoire an 0 (Whiskey Peak, campagne d'Alabasta, liberation du royaume).
+- Crocodile : accord des noms complete ; "inutiles" ; Trajectoire an 0 (R4) - chute face a Luffy dans la tombe, arrestation par la Marine.
+- Trajectoire_Jumelles (+ renvois Nico_Sonia / Nico_Robin si besoin) : Trajectoire an 0 (R4) - carte Vivi jouee ; Whiskey Peak a deux (chapeau Hana Hana, beat des couteaux, Eternal Pose en poirier, depart en petales) ; casino Wapol (couteau entre les cuisses ; le soir : aveu d'epuisement du corps-marchandise, "le blondinet") ; Pell abattu-epargne (lance de graphite friable) ; route d'Alubarna (insolence "pas notre accord", diversion-calin, Robin sauve Luffy) ; relink Tashigi (rage meurtriere de Sonia retenue sans un mot par Robin) ; tombe des rois (bluff a deux, Poseidon protege, Cobra temoin lucide, Sonia contre le mur, gourde/couteaux/antidote prepares, antidote passe a Cobra) ; sortie par Luffy ; reveil en cale.
+- Roronoa_Zoro : Trajectoire an 0 (R4) - apprend a Whiskey Peak, par Sonia, que le sommet de BW a commandite son recrutement ; duel Daz Bonez a Alubarna = dette soldee.
+- Monkey_D_Luffy : Trajectoire an 0 (R4) - ecrase l'Eternal Pose ; bat Crocodile ; sort Sonia et Cobra de la tombe ; laisse partir les jumelles.
+- Sanji : Whiskey Peak (fige-frustre, refuse de menacer deux femmes identifiees) ; statut "le blondinet" dans l'aveu du soir de Sonia - a verser AVEC le paquet beat Sanji au build R5.
+- Kuzan : dog whistle - radar reveille par le relink public d'Alubarna (R4) ; remonte la trace des Mugiwara jusqu'a Long Ring Long Land - a verser avec le build R5.
 
 ### Beats et hooks (reportes aux builds concernes)
-- BEAT SANJI-SONIA (acte ; PLACEMENT TRANCHE thread 12 : en mer, apres Alabasta, avant Skypiea - garde cap R5) : Sonia lui propose de coucher, le sentant le plus receptif, pour s'acheter une securite comme avec Crocodile. Sanji s'approche, la serre dans ses bras et pleure pour elle - il a compris, sans un mot, ce par quoi elles sont passees. Elle pleure de soulagement : c'en est fini de la methode de survie. AUCUN amour, aucune attirance sexuelle entre eux, jamais. Consequence durable : Sanji ultra-vigilant sur la misogynie et les VSS envers les femmes de l'equipage, Sonia en particulier. Garde-fous : jamais nomme, jamais verbalise, jamais repete a quiconque. A verser au build R5 (roadmap + fiche Sanji).
-- HOOK WAPOL (tranche au build R3 : ADOPTE, route R4) : livraison du Baku Baku no Mi par les jumelles POSTERIEURE au repli de Wapol, chasse de Drum par Barbe Noire (an 0). Execution, date exacte et articulation avec la frontiere Chopper : a trancher au build R4. R3 n'en porte rien.
+- BEAT SANJI-SONIA (acte ; PLACEMENT TRANCHE thread 12 : en mer, apres Alabasta, avant Skypiea - garde cap R5) : Sonia lui propose de coucher, le sentant le plus receptif, pour s'acheter une securite comme avec Crocodile. Sanji s'approche, la serre dans ses bras et pleure pour elle - il a compris, sans un mot, ce par quoi elles sont passees. Elle pleure de soulagement : c'en est fini de la methode de survie. AUCUN amour, aucune attirance sexuelle entre eux, jamais. Consequence durable : Sanji ultra-vigilant sur la misogynie et les VSS envers les femmes de l'equipage, Sonia en particulier. Garde-fous : jamais nomme, jamais verbalise, jamais repete a quiconque. PLANT EXPLICITE pose en R4 (etape 3, la chambre du casino : "le blondinet") - coherence des garde-fous a verifier au build R5. A verser au build R5 (roadmap + fiche Sanji).
 - TCHEKHOV "MIROIR VIOLA" (acte R3) : modalites de la rencontre et de la confidence de Sonia a cadrer au build R12.
 
 ## Observations NON actees (pistes)
