@@ -1,6 +1,6 @@
 # Roronoa Zoro
 
-- version : W1
+- version : W2
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 
@@ -45,9 +45,10 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 - Jumelles Nico - aucun lien connu a la frontiere. Elles, en revanche, connaissent son nom : leur emissaire est mort de sa main [DIVERGENCE RP]. Premiere rencontre : Whiskey Peak (P2).
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc.)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R4, Alabasta) | Whiskey Peak : demonte cent chasseurs de primes seul. Puis, sur le Merry, Miss Black Friday lui jongle trois couteaux sous le nez et lui apprend que le sommet de Baroque Works avait COMMANDITE son recrutement - un Mister 7 en moins par sa faute, un Mister 1 deniche pour la place vacante : s'il le bat, ils sont quittes [DIVERGENCE RP]. Alubarna : duel canon contre Daz Bonez / Mr. 1, gagne en tranchant l'acier - la dette est soldee | Sait desormais que l'ordre de l'an -1 venait des deux femmes du sommet ; ignore toujours qui elles sont vraiment. Franchit le palier de l'acier tranche |
 
 ---
 

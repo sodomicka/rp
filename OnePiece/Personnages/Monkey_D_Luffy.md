@@ -1,6 +1,6 @@
 # Monkey D. Luffy
 
-- version : W2
+- version : W3
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0) - premiere apparition des jumelles devant l'equipage.
 
@@ -50,9 +50,10 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 - Jumelles Nico - AUCUN lien a la frontiere. Premiere rencontre : Whiskey Peak (P2).
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc.)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R4, Alabasta) | Whiskey Peak : rend Vivi a l'equipage, ECRASE l'Eternal Pose que Miss Black Friday lui tendait - personne ne decide de sa route. Nanohana : retrouvailles avec Ace, qui le couvre face a Smoker et lui laisse une Vivre Card. Rainbase : cage de kairoseki. Premiere defaite contre Crocodile (embroche, jete aux sables mouvants) - tire de la par une main qui repousse ; empoisonne au second duel ; troisieme duel gagne a l'eau. Tombe des rois : sort Sonia et Cobra de l'effondrement, et laisse les deux soeurs partir | Alabasta libere, un Shichibukai tombe par sa main ; premier ennemi que la force brute seule ne suffisait pas a battre. Les jumelles lui doivent deux vies et le savent |
 
 ---
 
