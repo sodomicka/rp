@@ -1,12 +1,12 @@
 # _Implications - OnePiece
 
-- version : W19
+- version : W20
 
 Journal de travail du worldbuilding. Pense-bete de coordination : UNIQUEMENT du pendant (questions ouvertes, contenu en attente d'integration, chantiers). L'applique degage au fil de l'eau ; l'historique vit dans les threads et les versions du repo, pas ici.
 
 ## Questions ouvertes (worldbuilder)
 - Vecteur Binks de Luffy (version des pirates du Roux) : annee Shanks a Fuchsia, ou repris d'Usopp a bord ? Ligne laissee sans vecteur dans sa fiche en attendant.
-- Doctrine ANNEXE_SAVOIRS vs Tchekhov. Decision R2 (Erumalu) : l'ironie dramatique reste chez le WORLDBUILDER, pas chez le narrateur - la verser au CODEX risque la divulgation en narration ; classement Tchekhov prefere. A STATUER : les candidates ANNEXE_SAVOIRS deja listees (arc Ohara, R1 Laboon/Binks, arcs an 0, R3/R4 Vivi) restent-elles ANNEXE_SAVOIRS ou basculent-elles en Tchekhov / hors CODEX ? Decision de portee : touche la doctrine IRONIE vs PREFIGURATION des instructions (fiches d'arc). NOUVELLE CANDIDATE (build R4) : le fil Dragon - le joueur sait ce que les jumelles ignorent entre R6 et R9.
+- Doctrine ANNEXE_SAVOIRS vs Tchekhov. Decision R2 (Erumalu) : l'ironie dramatique reste chez le WORLDBUILDER, pas chez le narrateur - la verser au CODEX risque la divulgation en narration ; classement Tchekhov prefere. A STATUER : les candidates ANNEXE_SAVOIRS deja listees (arc Ohara, R1 Laboon/Binks, arcs an 0, R3/R4 Vivi) restent-elles ANNEXE_SAVOIRS ou basculent-elles en Tchekhov / hors CODEX ? Decision de portee : touche la doctrine IRONIE vs PREFIGURATION des instructions (fiches d'arc). Candidate (build R4) : le fil Dragon - le joueur sait ce que les jumelles ignorent entre R6 et R9.
 
 ## Chantiers hors repo (worldbuilder)
 - SPEC : repercuter la regle actee "le NOYAU d'une entite va jusqu'a sa PREMIERE ENTREE EN SCENE dans le RP (t0 pour le casting d'Ohara ; la rencontre pour les PNJ tardifs) ; le posterieur vit en Trajectoire datee".
@@ -14,26 +14,42 @@ Journal de travail du worldbuilding. Pense-bete de coordination : UNIQUEMENT du 
 - SPEC : repercuter la regle TRANCHEE du plafond de la strate Trajectoire datee - PAS de plafond fixe ; au debordement d'une page, scission en sous-pages numerotees (Trajectoire_Jumelles2, etc.).
 - Instructions : integrer la routine GARDE CAP actee (toute Passe 2 s'ouvre par la construction du garde cap du prota ; modele CSM/Roadmap/Makoto/Chronologie.md).
 - Instructions (en attente de la decision doctrine ci-dessus) : amender la regle IRONIE vs PREFIGURATION si le classement Tchekhov est generalise.
-- Instructions : repercuter la DOCTRINE ROADMAPS actee au build R3 - le MJ narre et invente DANS le cadre, jamais le cadre ; aucun "libre en jeu", aucun incertain residuel dans une roadmap ; le peaufinage (etape 4 de la boucle serree) se fait INTEGRALEMENT en consultation, point par point, avant toute ecriture de fichier.
+- Instructions : repercuter la DOCTRINE ROADMAPS actee au build R3 - le MJ narre et invente DANS le cadre, jamais le cadre ; aucun "libre en jeu", aucun incertain residuel dans une roadmap ; le peaufinage (etape 4 de la boucle serree) se fait INTEGRALEMENT en consultation, point par point, avant toute ecriture de fichier. Complement acte au build R5 : les ELLIPSES sont PREPAREES - bornees, vides declares vides, reprise datee ; jamais de "narration libre dans le cadre" pour une couture.
 
 ## Chantiers repo (MJ, en file)
-- BOUCLE R5 Skypiea (prochaine) : a l'ouverture, verser les deux enrichissements ci-dessous (Sanji, Kuzan) - ils ont ete DIFFERES au build R4, ils sont dus a celui-ci.
-- BOUCLE R9 Baltigo : creer la fiche NOYAU de SABO (acte - seule entite de l'entourage d'Ace pertinente pour le RP ; Barbe Blanche, Garp et Dadan restent du background de Luffy, sans fiche).
-- RECTIFICATION en attente : Roadmap_4 W1 (casting) dit "fiche NOYAU Vivi a creer" - PERIME, propagation d'une ligne R3 W1 anterieure a la creation de la fiche. Lire "a ENRICHIR". Rectifier au prochain bump du fichier ; pas de bump dedie (aucun impact de fond). Corrige cote garde cap (W8).
-- Verif canon en attente (avant ou pendant la relecture croisee de cloture P2) : formulation exacte du contenu du poneglyphe d'Alubarna (ch. 202-203 : histoire d'Alabasta + Poseidon) - fixe ce que la VRAIE traduction tue par les jumelles contient.
+- PROCHAIN THREAD - LOT DIFFERE DU BUILD R5 (decision worldbuilder : "fiches noyau et roadmap 5, le reste en Implications"). Dans l'ordre :
+  1. Rebuild fiche Sanji (paquet ci-dessous, section Vers les fiches).
+  2. Rebuild fiche Kuzan (paquet ci-dessous).
+  3. Roadmap_2 bump W4 - PLANT KLABAUTERMANN retropropage : bloc Quotidien de l'annee Tom - veillees d'atelier, Tom parle de l'esprit des navires construits et aimes (le Klabautermann) ; Cutty Flam et Iceburg partagent la croyance sans ironie.
+  4. Roadmap_4 bump W2 - RECTIFICATION PLUTON : etape 7 (tombe des rois) et jalons transverses - "Poseidon protege" devient "Pluton protege" ; la fausse traduction de Sonia couvre PLUTON.
+  5. Garde cap bump W9 : R5 close (Roadmap_5_Skypiea.md W1 ecrite) ; jalon banquet R5 corrige (mention d'Ace DEPLACEE a Jaya) ; rectification Pluton reportee aux resumes R4 ; retombees a verser - R6 (Tchekhov Bons Marines : Koby/Garp/Helmeppo ; detonation Klabautermann aux funerailles ; engelures mordant le debut d'arc ; deux armes localisees = poids de la reddition ; [A POSER] primes maintenu), R9 (combo clutch/egorgement inefficace sur Logia = motivation Armement ; sens du recit d'Ace ; retour des nausees), R11 (Zoro salue Law qui tranche Vergo), R12 (reproche Doflamingo laisse en vie), R13 (revelation Kozuki de Zou = confirmation d'hypothese d'enfance), R14 (detonation danse de Nika).
+  6. BIBLE au prochain BIBLE BUILD : SB3/SB6/SB7 rectification Pluton/Poseidon (Alabasta = Pluton, cloche de Shandora = Poseidon) ; SB5 clarification du socle Sonia (vernis de TOUTES les sciences d'Ohara, approfondi : ingenierie + geographie/geopolitique ; pharmacopee dans le vernis) ; SB8 nouveaux Tchekhov (Bons Marines ; Klabautermann de Tom) ; SB5 Zoro (direction plus violent) si pertinent.
+- BOUCLE R6 Water 7 (apres le lot ci-dessus) : [A POSER] du garde cap + les detonations versees.
+- BOUCLE R9 Baltigo : creer la fiche NOYAU de SABO (acte - seule entite de l'entourage d'Ace pertinente pour le RP).
+- VERIF CANON SOLDEE (build R5) : poneglyphe d'Alubarna = histoire d'Alabasta + PLUTON (ch. 202-203) ; cloche de Shandora = POSEIDON + gravure de Roger [verifie sur wiki de reference]. La BIBLE portait une erreur de nom d'arme ; rectification actee (option A), retrofits listes ci-dessus.
 
 ## En attente d'integration
 
 Regle (actee thread 12) : les enrichissements de fiches existantes sont FIXES ICI, puis verses au prochain REBUILD COMPLET de chaque fiche (bump de version). Pas de fichiers patch, pas d'editions chirurgicales a la main du worldbuilder. Une entree versee est effacee du journal.
 
 ### Vers les fiches
-- Sanji : Whiskey Peak (fige-frustre, refuse de menacer deux femmes identifiees) ; statut "le blondinet" dans l'aveu du soir de Sonia - a verser AVEC le paquet beat Sanji au build R5.
-- Kuzan : dog whistle - radar reveille par le relink public d'Alubarna (R4) ; remonte la trace des Mugiwara jusqu'a Long Ring Long Land. PLUS (acte au build R4, echelle de savoir Ohara, cf. BIBLE SB1) : il ignorait le vrai motif du Buster Call au moment des faits et ne l'apprend qu'en DEVENANT AMIRAL - relecture retroactive de sa propre participation, l'un de ses traumas fondateurs ; il le confie officieusement a Garp, son ancien maitre ; racine de la rupture avec Sakazuki. A verser au build R5.
+- Sanji (REBUILD DU, prochain thread) : Whiskey Peak (fige-frustre, refuse de menacer deux femmes identifiees) ; "le blondinet" de l'aveu du soir de Sonia (R4) ; BEAT R5 complet - proposition transactionnelle de Sonia, l'etreinte et les larmes, compris sans un mot ; aucun amour, aucune attirance, jamais ; garde-fous : jamais nomme, jamais verbalise, jamais repete ; consequence durable : ultra-vigilance misogynie/VSS envers les femmes de l'equipage, Sonia en particulier ; rapport a la mort : comprend la necessite, refuse de tuer pour ne pas ressembler au Germa (motif strictement interne).
+- Kuzan (REBUILD DU, prochain thread) : dog whistle SOLDE (radar reveille au relink R4, trace remontee, jugement rendu a Long Ring) ; echelle de savoir Ohara (ignorait le vrai motif du Buster Call au moment des faits, l'apprend en DEVENANT AMIRAL - trauma fondateur, confie officieusement a Garp, racine de la rupture avec Sakazuki) ; Long Ring R5 : discours sans Ohara ni Saul, test MUET (repetition generale de sa condition R0, jamais enoncee), congelation simultanee des deux jumelles, tentative de les briser bloquee par Luffy, duel accepte, Luffy gele puis epargne (dette Crocodile), decision : n'en emporter aucune, ne jamais les separer.
+- Tony Tony Chopper (en file) : R5 - reconnu "renne" du premier coup par Sonia (qui corrige son propre dossier BW "animal de compagnie") ; decouvre sa pharmacopee aux soins post-foudre (les herbes de Sonia) ; dirige la decongelation post-Aokiji ; rapport a la mort : pas fan du tout, ethique de soin chevillee au corps.
+- Roronoa Zoro (en file) : DIRECTION DE JEU ACTEE - plus violent, chasseur de pirates, pas samaritain ; a TUE Ohm [DIVERGENCE RP - canon : vaincu, vivant] ; doctrine : suit son capitaine sans remise en question, mais la mort empeche la recidive des vraies enflures ; reproche retrospectif a Luffy de ne pas avoir tue Crocodile (dit au debat R5, jamais avant) ; regle future : R11 salue Law/Vergo, R12 reproche Doflamingo.
+- Monkey D. Luffy (en file) : boussole - merite-t-on de VIVRE (il se retient), jamais merite-t-on de mourir ; neutralise sans se poser la question de tuer ; a tenu face a Aokiji, au moins en determination ; raconte Ace aux jumelles a Jaya (deplace du banquet).
+- Nami (en file) : comprend la necessite de tuer (elle l'a souhaitee a Arlong cent fois) ; temoin-vecteur de l'eclat d'Enel (ruines + Maxim).
+- Usopp (en file) : chambre de fortune des jumelles (surprise du lit unique) ; Klabautermann - vu a l'Autel Sacrificiel, CRU par les jumelles ("nous, on te croit ; les meilleurs charpentiers du monde y croient tous") ; rapport a la mort : un fier guerrier ne tue pas, echappatoire digne pour penitence.
+- Nico_Sonia (en file) : CLARIFICATION DE SOCLE - vernis de toutes les sciences d'Ohara, rien d'approfondi hors ingenierie et geographie/geopolitique ; pharmacopee dans le vernis (cueillette R5) ; engelures doigts/orteils (mordent le debut R6 - les doigts = l'outil du fruit) ; grammaire des nausees (absence R5 = liberation).
+- Nico_Robin (en file) : position "bons Marines" (debat R5, plant Tchekhov) ; beat de Yama (l'inquietude : que sa petite soeur innocente tente de revenir, plutot que la femme que le monde a forcee a devenir violente).
+- Trajectoire_Jumelles (en file) : lignes an 0 R5 - intronisation (masques de Miss, Chopper) ; beat Sanji (reference voilee, garde-fous) ; Jaya (Teach nomme, recit d'Ace) ; Skypiea (Yama egorge, foudre a deux, danse de Nika reconnue, Poseidon lu aux Shandia, chaine Oden) ; debat du rapport a la mort (desaccord des soeurs) ; Davy Back (regle des inseparables) ; Aokiji (combo inutile, congelation-test, engelures).
 
 ### Beats et hooks (reportes aux builds concernes)
-- BEAT SANJI-SONIA (acte ; PLACEMENT TRANCHE thread 12 : en mer, apres Alabasta, avant Skypiea - garde cap R5) : Sonia lui propose de coucher, le sentant le plus receptif, pour s'acheter une securite comme avec Crocodile. Sanji s'approche, la serre dans ses bras et pleure pour elle - il a compris, sans un mot, ce par quoi elles sont passees. Elle pleure de soulagement : c'en est fini de la methode de survie. AUCUN amour, aucune attirance sexuelle entre eux, jamais. Consequence durable : Sanji ultra-vigilant sur la misogynie et les VSS envers les femmes de l'equipage, Sonia en particulier. Garde-fous : jamais nomme, jamais verbalise, jamais repete a quiconque. PLANT EXPLICITE pose en R4 (etape 3, la chambre du casino : "le blondinet") - coherence des garde-fous a verifier au build R5.
+- BEAT SANJI-SONIA : ROADMAPPE (Roadmap_5 W1, etape 2 + section dictee, garde-fous verifies). Reste le rebuild de la fiche Sanji (paquet ci-dessus).
 - TCHEKHOV "MIROIR VIOLA" (acte R3) : modalites de la rencontre et de la confidence de Sonia a cadrer au build R12.
 - FIL DRAGON (acte au build R4) : plant en R6 (Garp revele la paternite a Water 7), detonation-SURPRISE en R9 (Baltigo : l'homme, la desertion, God Valley). Modalites a cadrer aux builds R6 et R9.
+- TCHEKHOV "BONS MARINES" (NOUVEAU, build R5) : plant R5 (position de Robin au debat ; lucidite de Sonia sur son propre biais anti-Marine) ; detonation R6 (Koby, Garp, Helmeppo a Water 7) ; modalites au build R6.
+- TCHEKHOV "KLABAUTERMANN DE TOM" (NOUVEAU, retropropage au build R5) : plant R2 W4 (annee Tom, a ecrire - cf. Chantiers repo) ; invocation R5 (ecrite, etape 5) ; detonation R6 (funerailles du Merry ; Iceburg entend le navire [canon]) ; modalites au build R6.
 
 ## Observations NON actees (pistes)
 - La marque solaire des Pirates du Soleil = un soleil concu pour EFFACER la marque d'esclavage (Patte du Dragon Celeste). Echo direct de la foi Nika (Soleil-Liberateur) - exploitation P2.
@@ -51,6 +67,8 @@ Regle (actee thread 12) : les enrichissements de fiches existantes sont FIXES IC
 - Tashigi : date d'acquisition de Shigure, son sabre personnel (canon muet ; seul Kashu est date - confisque a Mr. 11 en route vers Alabasta).
 - Portgas D. Ace : Haki de l'Armement atteste hors manga seulement (le Haki des Rois, lui, est canon - ch. 583, manifestation inconsciente contre les Bluejam).
 - Smoker : aucun Haki atteste avant l'ellipse.
+- Marshall D. Teach : 40 ans an 0 [donnee databook, hors manga] ; date exacte de la desertion (canon muet - recente, la traque d'Ace est active an 0).
+- Issue exacte du duel nocturne Gan Fall vs Shura et sort final de Shura dans le survival game (a verifier a la fiche d'arc R5, Passe 3).
 
 ---
 
