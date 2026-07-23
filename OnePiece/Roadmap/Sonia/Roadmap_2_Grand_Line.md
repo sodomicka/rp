@@ -1,7 +1,7 @@
 # Roadmap 2 - Grand Line
 
-- version : W3
-- note de version : W3 - deux correctifs actes au build R3 : etape 8, Puffing Tom EN SERVICE depuis an -12 (canon reverifie, triple ancrage : recueil de Cutty Flam an -24, proces an -22, premiere course an -12, chute an -8, identite Franky an -4), chantier des dernieres lignes pendant l'annee Tom ; etape 3 et notes de frontiere, Tchekhov Erumalu REQUALIFIE (simple souvenir plante ; aucune detonation-revelation en R4 - le savoir du plan date de son lancement, an -3, acte R3). W2 - bloc Quotidien de l'annee Tom (duos actes : Robin-Iceburg les poses, Sonia-Cutty Flam les impulsifs ; Iceburg feru d'histoire). W1 - build initial.
+- version : W4
+- note de version : W4 - PLANT KLABAUTERMANN retropropage (acte build R5) : bloc Quotidien de l'annee Tom - veillees d'atelier, Tom parle de l'esprit des navires construits et aimes, le Klabautermann ; Cutty Flam et Iceburg partagent la croyance sans ironie ; jalon transverse ajoute (invocation R5 a l'Autel Sacrificiel, detonation R6 aux funerailles du Merry). W3 - deux correctifs actes au build R3 : etape 8, Puffing Tom EN SERVICE depuis an -12 (canon reverifie, triple ancrage : recueil de Cutty Flam an -24, proces an -22, premiere course an -12, chute an -8, identite Franky an -4), chantier des dernieres lignes pendant l'annee Tom ; etape 3 et notes de frontiere, Tchekhov Erumalu REQUALIFIE (simple souvenir plante ; aucune detonation-revelation en R4 - le savoir du plan date de son lancement, an -3, acte R3). W2 - bloc Quotidien de l'annee Tom (duos actes : Robin-Iceburg les poses, Sonia-Cutty Flam les impulsifs ; Iceburg feru d'histoire). W1 - build initial.
 - prota / POV : Nico Sonia (les jumelles, jouees ensemble)
 - statut : ECRITE
 - echelle temporelle : six ans - de la descente de Reverse Mountain (an -14, 14 ans) a la fuite de Water 7 (an -8, 20 ans)
@@ -38,6 +38,7 @@ L'adolescence ; les fuyardes deviennent un nom. L'arc fait le pont entre les gam
 - Sonia et LES DEUX charpentiers : insupportable - veut a tout prix voir les plans et y apporter sa touche. Cutty Flam en fait un jeu ; Iceburg s'exaspere [echo canon : c'est deja lui qui reprimande les designs absurdes de Cutty Flam].
 - Tom, au-dessus des deux paires. Le credo : "un navire n'est ni bon ni mauvais ; son charpentier le construit avec fierte" [canon]. Premiere logique d'adulte qui les EXONERE de ce qu'elles portent - echo frontal de l'avis "Enfants du Demon". Levier acte du basculement de confiance : c'est ce qui motive l'abandon du plan de fuite aux materiaux.
 - Les tatouages solaires : Sonia les croque obsessionnellement dans ses carnets noirs ; Tom esquive l'origine d'un rire [neutre - la piste "marque solaire" du journal reste NON actee, rien d'affirme].
+- Le Klabautermann (PLANT retropropage, acte R5) : aux veillees d'atelier, Tom parle de l'esprit des navires construits et aimes - le Klabautermann [canon : croyance etablie des charpentiers de Water 7]. Cutty Flam et Iceburg partagent la croyance sans ironie. Socle de la validation discrete des jumelles en R5 (Autel Sacrificiel, aupres d'Usopp) ; detonation R6 (funerailles du Merry).
 - Les deux lits : on leur donne une chambre a deux lits - un seul servira jamais. La table de Kokoro : premiere table familiale depuis Ohara ; reflexe persistant de partager une seule part, Tom ressert d'office.
 
 ## Jalons transverses
@@ -45,6 +46,7 @@ L'adolescence ; les fuyardes deviennent un nom. L'arc fait le pont entre les gam
 - Prime : 120M inchangee sur tout l'arc (doctrine "aucun temoin", aucun rapport). Radar d'Aokiji dormant, aucune apparition.
 - Morts de R2 : le basculement - de la necessite paniquee (R1) a la froideur operationnelle (embuscade, puis doctrine). Jamais par gout, jamais de temoin.
 - Observation : murit sur l'arc (barometre des equipages, lecture de Whiskey Peak) - jamais nomme (cf. BIBLE SB1).
+- Tchekhov "Klabautermann de Tom" (retropropage, acte R5) : plante ICI (veillees d'atelier de l'annee Tom) ; invocation R5 (Autel Sacrificiel - Usopp voit l'esprit, validation discrete des jumelles) ; detonation R6 (funerailles du Merry ; Iceburg entend le navire [canon]).
 - Chute de Tom : HORS ARC. La nouvelle est recue en R3 (acte : si proche, elles s'en penseraient responsables). Les lignes Trajectoire correspondantes des fiches Water 7 seront versees au build R3.
 
 ## Casting convoque
