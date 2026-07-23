@@ -1,8 +1,9 @@
 # Tony Tony Chopper
 
-- version : W2
+- version : W3
+- note de version : W3 - versement du paquet differe du build R5 (journal) : rapport a la mort en Psycho (noyau) ; Trajectoire ouverte (an 0, R5 : "renne" reconnu, soins aux herbes de Sonia, debat, decongelation dirigee) ; premiere rencontre avec les jumelles calee (intronisation R5).
 
-Entite canon. FRONTIERE DU NOYAU (regle actee, resserree thread 10) : <= fin de l'arc Drum / recrutement (an 0). Le moment de la rencontre avec les jumelles reste a caler en P2.
+Entite canon. FRONTIERE DU NOYAU (regle actee, resserree thread 10) : <= fin de l'arc Drum / recrutement (an 0). Premiere rencontre avec les jumelles : intronisation (an 0, R5) - calee en Passe 2 (frontiere actee R4 : Alabasta de loin, aucune interaction avant).
 
 ## Identite
 - Medecin de l'equipage du Chapeau de Paille, sixieme membre, cinquieme recrue. Renne au nez bleu, ne an -15 (24 decembre) sur l'ile de Drum. 15 ans a la frontiere. Aucune prime.
@@ -18,6 +19,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee, resserree thread 10) : <= fin de 
 - Blessure fondatrice : le double rejet. Trop humain pour les rennes, monstre pour les hommes - "l'abominable homme des neiges". Hiluluk est le premier a l'avoir accueilli.
 - Heritier de la volonte d'Hiluluk : il n'existe pas de maladie incurable. Reve : devenir un medecin capable de tout guerir.
 - Peur panique des humains inconnus - mais il est monte a bord quand meme : Luffy a hurle plus fort que sa peur.
+- Rapport a la mort : pas fan du tout - ethique de soin chevillee au corps [acte build R5].
 
 ## Capacites (a la frontiere)
 - Hito Hito no Mi, trois formes de base : Brain Point (hybride, analyse), Walk Point (renne, vitesse), Heavy Point (humain, force).
@@ -42,12 +44,16 @@ Entite canon. FRONTIERE DU NOYAU (regle actee, resserree thread 10) : <= fin de 
 - Luffy - celui qui a hurle plus fort que sa peur. L'equipage - les premiers amis de sa vie, decouverte en cours.
 - Wapol - le tyran qui a tue Hiluluk par le piege. Dalton - le garde devenu chef du pays libere.
 - Le troupeau - le premier rejet ; le chef qui lui a brise le bois.
-- Jumelles Nico - aucun lien a la frontiere ; le moment de la rencontre reste a caler (P2).
+- Jumelles Nico - aucun lien a la frontiere. Premiere rencontre : intronisation, an 0 (R5 - cf. Trajectoire).
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc.)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R5 - intronisation) | Premiere rencontre avec les jumelles : le masque d'intimidation des Miss FOND devant lui ; Sonia le reconnait "renne" du premier coup - il commence a corriger par reflexe et realise qu'elle ne s'est pas trompee (elle corrige au passage son propre dossier BW : "animal de compagnie") | Premiere pierre du lien Chopper-Sonia |
+| an 0 (R5 - apres la foudre d'Enel) | Soigne les figures de Lichtenberg des deux jumelles AVEC les herbes cueillies par Sonia - decouvre qu'elle sait exactement ce qu'elle fait (pharmacopee du vernis d'Ohara) | Le lien se renforce (troisieme pierre) |
+| an 0 (R5 - debat en mer) | Position au debat sur le rapport a la mort : pas fan du tout, ethique de soin chevillee au corps | - |
+| an 0 (R5 - retour d'Aokiji) | Dirige la decongelation des deux jumelles a bord du Merry, sans les blesser | Quatrieme pierre du lien |
 
 ---
 

@@ -1,6 +1,7 @@
 # Kuzan
 
-- version : W2
+- version : W3
+- note de version : W3 - versement du paquet differe du build R5 (journal W20) : echelle de savoir Ohara (etat au point de depart precise en Histoire ; apprentissage du vrai motif en Trajectoire - trauma fondateur, confie a Garp, racine de la rupture avec Sakazuki) ; Trajectoire alimentee (accession au rang d'amiral [INCERTAIN sur la date], dog whistle R4, jugement de Long Ring R5 - dog whistle SOLDE). Historique anterieur : cf. garde cap.
 
 ## Identite
 - Kuzan. L'alias "Aokiji" est un titre d'amiral, posterieur au point de depart. Entite canon.
@@ -40,6 +41,7 @@
 - an -25 : present a Marineford lors de la guerre d'Edd, aux cotes de Garp, Tsuru, Sakazuki et Saul.
 - Ascension fulgurante jusqu'au rang de vice-amiral avant ses 27 ans.
 - an -20 : designe parmi les cinq vice-amiraux charges du Buster Call contre Ohara [INCERTAIN : designation initiale ou remplacement de Saul, le canon ne tranche pas].
+- Echelle de savoir Ohara (etat au point de depart) : ne connait que le motif OFFICIEL du Buster Call a venir - l'etude interdite des poneglyphes. Le VRAI motif (ce que Clover allait reveler - etage SECRET, cf. BIBLE SB1) lui est inconnu : les vice-amiraux executent sans le connaitre.
 - Point de depart du RP (J-2) : en mer avec la flotte du Buster Call, en approche d'Ohara ; le declenchement attend la confirmation du CP9 sur place. Sait Saul deserteur et en fuite ; ignore ou il se trouve.
 
 ## Trajectoire datee
@@ -47,6 +49,10 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | an -20 (J-0) | Buster Call d'Ohara (Roadmap_0) : gele Saul (Ice Time) ; trouve les deux jumelles, les epargne de son propre chef ; pose LA condition - disparaitre ou devenir plus que deux, sous menace de separation definitive (verbatim : Roadmap_0_Ohara) ; ouvre le pont de glace de leur fuite | La condition reste entre lui et elles ; premiere entorse personnelle a l'ordre recu |
+| entre an -20 et an 0 [INCERTAIN - date d'accession non etablie au canon] | Accede au rang d'amiral (alias "Aokiji") ; apprend EN DEVENANT AMIRAL le vrai motif du Buster Call d'Ohara (etage SECRET, BIBLE SB1) - trauma fondateur ; le confie officieusement a Garp, son ancien maitre | Racine de la rupture avec Sakazuki ; la loyaute pleine du noyau commence a se fissurer |
+| an -20 -> an 0 (cavale et annees BW) | Radar DORMANT sur les jumelles : aucune preuve officielle, aucun rapport transmis a temps, prime figee a 120M (mecanique de radar : Roadmap_0) ; aucune re-rencontre | Condition en sommeil |
+| an 0 (R4 - Alubarna, hors scene) | Dog whistle : le relink public des identites Nico (Tashigi) reveille le radar ; il remonte la trace des Mugiwara | Route vers Long Ring Long Land |
+| an 0 (R5 - Long Ring Long Land) | Jugement rendu : discours SANS Ohara, sans Buster Call, sans Saul (le pattern des organisations mortes + l'avis des Enfants du Demon) - TEST MUET, repetition generale de sa condition de R0, jamais enoncee ; combo des jumelles (clutch + egorgement) nul sur son Logia ; congelation SIMULTANEE des deux ; tentative de les briser bloquee par Luffy ; duel accepte, Luffy gele puis EPARGNE (dette Crocodile - il a tenu, au moins en determination) ; DECISION : n'en emporter aucune, ne JAMAIS les separer ; depart a velo sur la mer | Dog whistle SOLDE - venu, juge, reparti ; detonation de la condition : R6 (Enies Lobby) |
 
 ---
 

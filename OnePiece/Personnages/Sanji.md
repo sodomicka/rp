@@ -1,6 +1,7 @@
 # Sanji
 
-- version : W2
+- version : W3
+- note de version : W3 - versement du paquet differe du build R5 (journal W20) : rapport a la mort ajoute en Psycho (noyau - motif Germa, strictement interne) ; Trajectoire datee alimentee, an 0 : Whiskey Peak (fige-frustre), "le blondinet" du casino (R4), LE BEAT en mer (R5, garde-fous integraux), debat sur le rapport a la mort (R5). Historique anterieur : cf. garde cap.
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 Calibration psycho actee par le worldbuilder (thread 10) : confiance, sensibilite, rapport aux femmes.
@@ -16,6 +17,7 @@ Calibration psycho actee par le worldbuilder (thread 10) : confiance, sensibilit
 - Galanterie theatralisee : dragueur emphatique de toute jolie femme - la carapace. Dessous : le respect des femmes incarne, un interdit absolu (jamais lever la jambe sur une femme, meme pour sauver sa vie) et une sensibilite a fleur de peau, qui pleure vrai [calibration actee].
 - La confiance envers les hommes ne lui vient jamais naturellement - elle s'arrache, et Zeff l'a payee d'une jambe. Envers les femmes, elle est un reflexe [calibration actee].
 - Personne n'a faim devant lui : nourrir est un acte sacre, meme l'ennemi - la lecon du rocher.
+- Rapport a la mort : comprend la necessite de tuer - mais refuse de tuer lui-meme, pour ne pas ressembler au Germa. Motif strictement INTERNE : le Germa est enterre, la raison ne sera jamais dite a quiconque [acte build R5].
 - Reve : All Blue, la mer legendaire ou les quatre oceans se rencontrent. Le "paradis des cuisiniers", decouvert dans un livre de cuisine au fond d'un cachot.
 
 ## Capacites (a la frontiere)
@@ -41,12 +43,16 @@ Calibration psycho actee par le worldbuilder (thread 10) : confiance, sensibilit
 - Vinsmoke [ENTERRE] : Judge - le bourreau-roi. Ichiji, Niji, Yonji - les freres tortionnaires. Reiju - la seule main tendue. Sora - la mere qui a paye de sa vie le coeur de son fils.
 - Luffy - le capitaine qui l'a arrache au Baratie. Zoro - rivalite braillarde permanente. Nami - devotion theatrale. Usopp - camarade de bord.
 - Gin - l'ennemi nourri ; promesse de se revoir sur Grand Line.
-- Jumelles Nico - aucun lien a la frontiere. Premiere rencontre : Whiskey Peak (P2).
+- Jumelles Nico - aucun lien a la frontiere. Premiere rencontre : Whiskey Peak, an 0 (cf. Trajectoire).
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc.)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R4 - Whiskey Peak) | Face aux jumelles sur le Merry : fige-frustre, REFUSE de menacer deux adversaires qui se sont clairement identifiees comme femmes | Premier contact avec les jumelles ; l'interdit tenu meme face au sommet de Baroque Works |
+| an 0 (R4 - casino de Rainbase, hors de sa connaissance) | Devient "le blondinet" de l'aveu du soir de Sonia : l'homme respectueux qu'elle espere croiser si elle doit recommencer - il n'en saura jamais rien | Seed du beat R5 |
+| an 0 (R5 - premiere nuit apres l'intronisation) | LE BEAT : Sonia lui propose de coucher pour s'acheter une securite, comme avec Crocodile ; il s'approche, la serre dans ses bras et pleure pour elle - compris sans un mot. AUCUN amour, aucune attirance, jamais. Garde-fous integraux : jamais nomme, jamais verbalise, jamais repete a quiconque | Fin de la methode de survie de Sonia ; consequence durable : ultra-vigilance sur la misogynie et les VSS envers les femmes de l'equipage, Sonia en particulier |
+| an 0 (R5 - debat en mer, avant le Davy Back Fight) | Expose sa position au debat sur le rapport a la mort : comprend la necessite, refuse de tuer pour ne pas LEUR ressembler - motif interne, Germa tu | Position posee devant l'equipage, raison tue |
 
 ---
 

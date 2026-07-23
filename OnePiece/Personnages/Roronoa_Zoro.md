@@ -1,6 +1,7 @@
 # Roronoa Zoro
 
-- version : W2
+- version : W3
+- note de version : W3 - versement du paquet differe du build R5 (journal) : DIRECTION DE JEU actee en Psycho (plus violent, doctrine, regle routee R11/R12) ; Trajectoire alimentee (an 0, R5 : Ohm tue [DIVERGENCE RP], reproche Crocodile au debat).
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 
@@ -15,6 +16,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 ## Psycho
 - Une ambition unique, proclamee : devenir le meilleur sabreur du monde. Promesse faite a Kuina, portee pour deux ; serment refait a Luffy apres Mihawk : plus jamais de defaite.
 - Il TUE quand l'adversaire l'a cherche : aucun tabou du sang, aucun sadisme non plus. Contraste assume avec son capitaine, qui ne tue jamais.
+- DIRECTION DE JEU (actee build R5) : plus violent que le canon - chasseur de pirates, pas samaritain. Doctrine : il suit son capitaine sans remise en question ; mais pour les vraies enflures, la mort empeche la recidive. [Regle routee : R11 (salue Law/Vergo), R12 (reproche Doflamingo) - cf. garde cap.]
 - Discipline d'acier : entrainement aux poids demesures, meditation, sieste. Buveur d'exception.
 - Loyaute totale au capitaine qu'il s'est choisi - avec sa condition d'embarquement : rien ni personne ne passera avant son ambition.
 - Sens de l'orientation catastrophique - c'est comme ca qu'il est devenu chasseur de primes : perdu en cherchant Mihawk, il fallait bien manger.
@@ -49,6 +51,8 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | an 0 (R4, Alabasta) | Whiskey Peak : demonte cent chasseurs de primes seul. Puis, sur le Merry, Miss Black Friday lui jongle trois couteaux sous le nez et lui apprend que le sommet de Baroque Works avait COMMANDITE son recrutement - un Mister 7 en moins par sa faute, un Mister 1 deniche pour la place vacante : s'il le bat, ils sont quittes [DIVERGENCE RP]. Alubarna : duel canon contre Daz Bonez / Mr. 1, gagne en tranchant l'acier - la dette est soldee | Sait desormais que l'ordre de l'an -1 venait des deux femmes du sommet ; ignore toujours qui elles sont vraiment. Franchit le palier de l'acier tranche |
+| an 0 (R5 - Skypiea, survival game) | TUE Ohm, pretre d'Enel [DIVERGENCE RP - canon : vaincu, vivant] | Premiere application jouee de la direction "plus violent" |
+| an 0 (R5 - debat en mer) | Au debat sur le rapport a la mort : reproche RETROSPECTIF a Luffy de ne pas avoir tue Crocodile - dit ici, jamais avant ; doctrine posee devant l'equipage (la mort empeche la recidive des vraies enflures) | Plant de la regle R11/R12 |
 
 ---
 

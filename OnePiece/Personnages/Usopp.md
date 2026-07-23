@@ -1,6 +1,7 @@
 # Usopp
 
-- version : W2
+- version : W3
+- note de version : W3 - versement du paquet differe du build R5 (journal) : rapport a la mort en Psycho (noyau) ; Trajectoire ouverte (an 0, R5 : chambre de fortune des jumelles, Klabautermann vu et cru, position au debat).
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 
@@ -16,6 +17,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 - Menteur pathologique et conteur de genie : le mensonge est ne comme un soin - "les pirates arrivent !" hurle chaque matin a sa mere mourante pour dire "papa revient". Elle est morte ; le cri est reste. Le village s'en sert de reveil-matin.
 - Lache proclame (la fameuse "maladie du je-ne-peux-pas-poser-le-pied-sur-cette-ile") et brave malgre lui : quand ceux qu'il aime sont menaces, il tient - il etait pret a defendre le village seul contre Kuro.
 - Complexe du faible parmi les monstres, compense par l'ingeniosite, le bluff ("j'ai 8000 hommes sous mes ordres") et le travail.
+- Rapport a la mort : un fier guerrier ne tue pas - il offre une echappatoire digne, pour que l'autre puisse faire penitence [acte build R5].
 - Reve : devenir un brave guerrier des mers, digne de son pere.
 
 ## Capacites (a la frontiere)
@@ -44,9 +46,12 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 - Jumelles Nico - aucun lien a la frontiere. Premiere rencontre : Whiskey Peak (P2).
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc.)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R5 - premiere nuit) | Improvise une chambre de fortune aux jumelles dans une partie de la cale ; surpris qu'elles ne veuillent qu'un seul lit, serre | - |
+| an 0 (R5 - Skypiea, Autel Sacrificiel) | VOIT le Klabautermann reparer le Merry ; validation discrete des jumelles - "nous, on te croit ; les meilleurs charpentiers du monde y croient tous" | Invocation du plant R2 W4 (annee Tom) ; detonation R6 (funerailles du Merry) |
+| an 0 (R5 - debat en mer) | Position au debat sur le rapport a la mort : dubitatif - un fier guerrier ne tue pas, il offre une echappatoire digne | - |
 
 ---
 

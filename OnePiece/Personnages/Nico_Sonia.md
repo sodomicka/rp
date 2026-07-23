@@ -1,6 +1,7 @@
 # Nico Sonia
 
-- version : W6
+- version : W7
+- note de version : W7 - versement du paquet differe du build R5 (journal) : CLARIFICATION DE SOCLE en Capacites (vernis de toutes les sciences d'Ohara, pharmacopee comprise ; seuls approfondis : ingenierie + geographie/geopolitique). Les elements dates du paquet (grammaire des nausees, engelures) sont verses en Trajectoire_Jumelles W4 (strate deportee).
 
 ## Identite
 - Nico Sonia. Protagoniste de la Partie 1 ; entite de lore [DIVERGENCE RP].
@@ -31,7 +32,7 @@
 ## Capacites (noyau, <= point de depart)
 - Kaki Kaki no Mi (Paramecia), offert par Olivia, mange vers 2 ans. Regles completes : cf. BIBLE SB1. Au point de depart : stade de base uniquement (le dessin devient matiere ; croquis -> charbon friable, dessin raffine -> graphene). Pas d'eveil.
 - Outil prefere : fusain. Marche avec tout outil, sur tout support.
-- Domaines de l'Arbre de la Connaissance : archeologie (commune avec Robin), geographie, ingenierie.
+- Domaines de l'Arbre de la Connaissance : archeologie (commune avec Robin), geographie/geopolitique et ingenierie - les seuls domaines APPROFONDIS ; plus un VERNIS de toutes les sciences d'Ohara, pharmacopee comprise [clarification actee, build R5].
 - Poneglyphes : ecrit mieux que Robin, relie plus facilement les concepts entre eux ; lit plus lentement qu'elle. Alphabet memorise, large lexique (partie commune + partie propre).
 
 ## Manies et gouts

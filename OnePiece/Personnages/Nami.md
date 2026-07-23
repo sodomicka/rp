@@ -1,6 +1,7 @@
 # Nami
 
-- version : W1
+- version : W2
+- note de version : W2 - versement du paquet differe du build R5 (journal) : rapport a la mort en Psycho (noyau, racine Arlong) ; Trajectoire ouverte (an 0, R5 : temoin-vecteur de l'eclat d'Enel, position au debat).
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 
@@ -16,6 +17,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 - Cupide jusqu'a la caricature (prets a ses amis a taux exorbitants) : huit ans a chiffrer sa liberte a 100 millions ont soude l'argent a la survie. Aime deux choses, dit-elle : l'argent et les mandarines.
 - La plus fine tacticienne du bord : comprend vite, manipule sans effort, monte les plans qui sortent l'equipage des mauvais pas. Menteuse d'exception quand il le faut.
 - Confiance durement acquise : huit ans de deal-cage ont fait d'elle une ecorchee qui refusait le mot "amis". Depuis Arlong Park, l'equipage est sa famille - la peur de perdre, elle, reste.
+- Rapport a la mort : comprend la necessite de tuer - elle l'a souhaitee a Arlong cent fois [acte build R5].
 - Reve : dessiner la carte du monde entier.
 
 ## Capacites (a la frontiere)
@@ -44,9 +46,11 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 - Jumelles Nico - aucun lien a la frontiere. Premiere rencontre : Whiskey Peak (P2).
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc.)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R5 - Skypiea) | Epargnee par Enel au decompte des survivants, emmenee vers l'arche Maxim - TEMOIN de son eclat de rage ("D'abord on tranche mon prelat et egorge mon commandant...") | Vecteur : c'est par elle que l'equipage SAIT, pour Yama et pour Ohm |
+| an 0 (R5 - debat en mer) | Rapporte l'eclat d'Enel a l'equipage ; position au debat sur le rapport a la mort : comprend la necessite - elle l'a souhaitee a Arlong cent fois | - |
 
 ---
 

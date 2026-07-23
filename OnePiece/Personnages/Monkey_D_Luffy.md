@@ -1,6 +1,7 @@
 # Monkey D. Luffy
 
-- version : W3
+- version : W4
+- note de version : W4 - versement du paquet differe du build R5 (journal) : boussole du combat calibree en Psycho (merite-t-on de VIVRE, jamais de mourir) ; Trajectoire alimentee (an 0, R5 : recit d'Ace a Jaya, duel Aokiji tenu et epargne).
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0) - premiere apparition des jumelles devant l'equipage.
 
@@ -20,7 +21,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 ## Psycho
 - La liberte comme boussole unique : ni conquete, ni richesse, ni pouvoir - le Roi des Pirates est celui qui est le plus libre sur les mers. Reve proclame partout, a la face de tous.
 - Instinct pur, zero calcul, zero mensonge. Rassembleur-ne : les gens le suivent parce qu'il croit en eux avant eux-memes. Confiance totale et immediate en son equipage.
-- Ne tue jamais ses ennemis : il les laisse vivre avec leurs reves brises. Colere absolue quand on touche a ses amis ou au chapeau.
+- Boussole du combat (calibration actee, build R5) : la seule question qu'il se pose est "merite-t-on de VIVRE" - auquel cas il se retient ; jamais "merite-t-on de mourir". Il neutralise sans se poser la question de tuer - tant pis si le tyran meurt ; de fait, il laisse ses ennemis vivre avec leurs reves brises. Colere absolue quand on touche a ses amis ou au chapeau.
 - Gouffre a viande, simplet en apparence, d'une lucidite deconcertante sur l'essentiel.
 
 ## Capacites (a la frontiere)
@@ -54,6 +55,8 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | an 0 (R4, Alabasta) | Whiskey Peak : rend Vivi a l'equipage, ECRASE l'Eternal Pose que Miss Black Friday lui tendait - personne ne decide de sa route. Nanohana : retrouvailles avec Ace, qui le couvre face a Smoker et lui laisse une Vivre Card. Rainbase : cage de kairoseki. Premiere defaite contre Crocodile (embroche, jete aux sables mouvants) - tire de la par une main qui repousse ; empoisonne au second duel ; troisieme duel gagne a l'eau. Tombe des rois : sort Sonia et Cobra de l'effondrement, et laisse les deux soeurs partir | Alabasta libere, un Shichibukai tombe par sa main ; premier ennemi que la force brute seule ne suffisait pas a battre. Les jumelles lui doivent deux vies et le savent |
+| an 0 (R5 - Jaya) | Raconte aux jumelles ce qu'Ace faisait a Alabasta, apres qu'elles ont pose le nom de Marshall D. Teach (recit deplace du banquet a Jaya, acte) | Socle R9 : le recit prendra tout son sens a Marineford |
+| an 0 (R5 - Long Ring Long Land) | Bloque la tentative d'Aokiji de briser les jumelles ; duel accepte, un contre un : gele puis EPARGNE (dette Crocodile) - il a tenu, au moins en determination | L'equipage a tenu ; les jumelles restent a bord |
 
 ---
 
