@@ -1,6 +1,7 @@
 # Sommaire - OnePiece
 
-- version : W8
+- version : W9
+- note de version : W9 - recalage de canari au build BIBLE B9 : _Implications passe W26 -> W27. Aucune page creee ni supprimee, inventaire inchange (37 pages Personnages, 1 page Lieux, garde cap W10).
 
 ## WIKI
 
@@ -8,7 +9,7 @@
 
 ### Racine
 Description : documents transverses.
-- _Implications.md (W26) - journal de travail du worldbuilding ; JAMAIS fetche en narration.
+- _Implications.md (W27) - journal de travail du worldbuilding ; JAMAIS fetche en narration.
 
 ### Personnages/
 Description : fiches neutres des entites du monde (canon et OC promus au lore). 37 pages : 21 de la Passe 1 (close) + les ajouts de la Passe 2 (Sakazuki, Nefertari_Vivi, Smoker, Tashigi, Portgas_D_Ace, Marshall_D_Teach, Monkey_D_Garp, Koby, CP9_CP0) + les SEPT pages de la strate Trajectoire deportee.
