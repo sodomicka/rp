@@ -1,6 +1,6 @@
 # Mort et Destined Death
 
-- version : W1
+- version : W2
 
 ## Rune of Death
 - Partie originelle de l'Elden Ring [etabli].
@@ -16,9 +16,9 @@
 ## Black flame et Godskins
 - Flamme noire capable de tuer les dieux ; arme des Godskin Apostles et Nobles [etabli].
 - Culte mene par la Gloam Eyed Queen, Empyrean [etabli].
-- La GEQ fut vaincue par Maliketh [IMPLICITE fort : la black flame perd son pouvoir au scellement de la Rune of Death].
+- La GEQ fut vaincue par Maliketh [etabli - Godslayer's Greatsword : lame sacree de la GEQ avant sa defaite aux mains de Maliketh]. Promotion depuis [IMPLICITE fort] au Lot 4.
 - Depuis le scellement, la black flame ne tue plus les dieux [etabli].
-- Fiche GEQ detaillee : cf. Personnages/ (a venir).
+- Fiche GEQ detaillee : cf. Personnages/Gloam_Eyed_Queen.md.
 
 ## Ghostflame et Deathbirds
 - Ghostflame : flamme funeraire des anciens rites de mort, anterieure a l'Ordre d'Or [etabli].
@@ -29,6 +29,7 @@
 - CL-01 : GEQ premiere deesse, porteuse du Ring avant Marika.
 - CL-03 : a sa mort, l'Outer God of Death s'est enfui, prive de receptacle.
 - CL-04 : Marika a recupere le Ring sur son cadavre avant l'ascension [VISUEL trailer SotE].
+- CL-10 : le retrait de la Mort hors du Ring visait l'ensemble de ses aspects, non la seule Destined Death. Les aspects bannis subsistent hors de l'Ordre et procedent du dieu de la Mort dont la GEQ fut le receptacle. Recensement : Cosmogonie/Aspects_de_la_Mort.md (a creer, Lot 8).
 
 ## Renvois
 - Nuit des Black Knives, mort de Godwyn, Those Who Live in Death : evenements de l'Ere de l'Erdtree (cf. Chronologie/, a venir).
