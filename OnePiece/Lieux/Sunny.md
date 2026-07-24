@@ -1,7 +1,7 @@
 # Thousand Sunny
 
-- version : W2
-- note de version : W2 - correctif build : cible de lancer en bois d'Adam sur la porte de la piece commune (demande secrete de Robin) ; precision du lit unique en chambre commune. W1 - build initial, design integralement dicte.
+- version : W3
+- note de version : W3 - substance du STUDIO DE DIFFUSION tranchee (worldbuilder) : le reve realise n'est pas l'escargophone mais le JOURNAL D'INFORMATION des jumelles ; origine et bornes du plant : Roadmap_2 W5 (annee Tom, reve confie nu). W2 - correctif build : cible de lancer en bois d'Adam sur la porte de la piece commune (demande secrete de Robin) ; precision du lit unique en chambre commune. W1 - build initial, design integralement dicte.
 
 ## Identite
 - Second navire de l'equipage du Chapeau de Paille, successeur du Going Merry. Brigantin en bois d'Adam, au moins le double du Merry [canon]. Ne an 0 a Water 7 (Scrap Island), une dizaine de jours de chantier (cf. Roadmap_6).
@@ -25,7 +25,7 @@
   - Atelier d'Usopp.
   - Labo de Chopper (absorbe l'infirmerie).
   - Salle de musculation de Zoro au sommet du grand mat, faisant vigie [DIVERGENCE RP - canon : vigie sur la misaine].
-  - Studio de diffusion au-dessus de la salle de musculation [surprise des freres] : micros et bureaux, hauts-parleurs cables dans tout le navire - integralement FILAIRE, aucun escargophone. Realisation d'un vieux reve des jumelles (origine : annee Tom, cf. Roadmap_2).
+  - Studio de diffusion au-dessus de la salle de musculation [surprise des freres] : micros et bureaux, hauts-parleurs cables dans tout le navire - integralement FILAIRE, aucun escargophone. Realisation du vieux reve confie aux deux freres pendant l'annee Tom (cf. Roadmap_2 W5) : tenir et diffuser LEUR PROPRE JOURNAL D'INFORMATION - l'escargophone du reve d'enfance de Sonia n'etait qu'un moyen, le journal est le but. Ce que les freres ne pouvaient pas savoir en an -9 : celles qui le tiendront ont passe huit ans au sommet du renseignement d'une organisation criminelle mondiale - et leur capitaine est illettre.
   - Atelier de Franky, designe par Iceburg et Sonia A SON INSU [surprise] : construit avant son embarquement, en anticipation de la demande explicite de Luffy - la petite soeur a lunettes et le frere avaient prevu le coup.
   - Salon-aquarium sous le grand mat : grande piece commune, reserve de poissons vivants selectionnes par Sanji.
 - Pont : pelouse, mandariniers de Bell-mere, parterre de fleurs de Robin [canon].
