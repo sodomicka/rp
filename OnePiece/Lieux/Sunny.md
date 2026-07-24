@@ -1,6 +1,7 @@
 # Thousand Sunny
 
-- version : W1
+- version : W2
+- note de version : W2 - correctif build : cible de lancer en bois d'Adam sur la porte de la piece commune (demande secrete de Robin) ; precision du lit unique en chambre commune. W1 - build initial, design integralement dicte.
 
 ## Identite
 - Second navire de l'equipage du Chapeau de Paille, successeur du Going Merry. Brigantin en bois d'Adam, au moins le double du Merry [canon]. Ne an 0 a Water 7 (Scrap Island), une dizaine de jours de chantier (cf. Roadmap_6).
@@ -12,13 +13,14 @@
 - Chasse vitree dans le grand mat, a hauteur du salon-aquarium : y repose le plus gros noeud du mat du Going Merry, preleve par Sonia avant les funerailles - siege du Klabautermann selon la lecon de Tom. L'ame du Merry navigue toujours, au coeur de la piece commune (detonation R6, fil clos).
 
 ## Agencement [DIVERGENCE RP - navire concu sur mesure]
-- Chambres INDIVIDUELLES pour chaque membre + une chambre COMMUNE pour les jumelles + QUATRE pieces libres (amis ou futurs membres d'equipage).
+- Chambres INDIVIDUELLES pour chaque membre + une chambre COMMUNE pour les jumelles - un seul grand lit, prolongement du rituel du lit unique etabli depuis Ohara - + QUATRE pieces libres (amis ou futurs membres d'equipage).
 - Pieces dediees :
   - Cuisine de Sanji. Frigo verrouille anti-Luffy ; code canon 7326, detenu par Sanji, qui le confie aux femmes du bord - Nami, Robin, Sonia [DIVERGENCE RP - canon : Nami et Robin seules].
   - Grande salle a manger (dimensionnee pour l'appetit du capitaine).
   - Bibliotheque de Robin.
   - Atelier de dessin de Sonia, accole a la bibliotheque SANS mur de separation : une seule piece commune aux jumelles [surprise des freres].
   - Piedestal du carnet rouge entre bibliotheque et atelier [surprise des freres] : le carnet trone en vue dans leur piece - plus AUCUNE cache a bord (doctrine R6 : ne plus se cacher). L'equipage sait seulement que l'objet leur est essentiel ; le contenu n'est jamais explique.
+  - Cible de lancer en bois d'Adam, fixee sur la porte de la piece commune [surprise - demande expresse de Robin a Franky et Iceburg, a l'insu de Sonia] : la seule personne au monde a savoir combien lancer ses couteaux la detend (routine de Rainbase, cf. Roadmap_3).
   - Salle de cartographe de Nami.
   - Atelier d'Usopp.
   - Labo de Chopper (absorbe l'infirmerie).
@@ -40,7 +42,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| an 0 | Construction a Scrap Island ; conception interieure a trois (Sonia theorie, Iceburg et Franky realisation) ; surprises des freres integrees ; chasse du Klabautermann creee par Franky | navire ne, ame du Merry a bord |
+| an 0 | Construction a Scrap Island ; conception interieure a trois (Sonia theorie, Iceburg et Franky realisation) ; surprises integrees (freres + commande secrete de Robin) ; chasse du Klabautermann creee par Franky | navire ne, ame du Merry a bord |
 | an 0 | Inauguration ecourtee (pression de Garp) ; Franky embarque sur le mot d'Iceburg ; Coup de Burst inaugural, fuite de Water 7 | premier voyage ; surprises non decouvertes au depart (decouverte : matiere R7) |
 
 FIN_WIKI_LIEUX_SUNNY
