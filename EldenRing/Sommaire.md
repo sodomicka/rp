@@ -1,11 +1,11 @@
 # Sommaire - Elden Ring
 
-- version : W1 (provisoire ; sera reconstruit au premier BIBLE BUILD)
+- version : W2 (provisoire ; sera reconstruit au premier BIBLE BUILD)
 - wiki_base : https://github.com/sodomicka/rp/blob/main/EldenRing/
-- etat : Passe 0 achevee (squelette du monde). Passe 1 a lancer (fiches noyau).
+- etat : Passe 0 achevee (squelette du monde). Passe 1 en cours (fiches noyau) : Lot 4 livre, Lot 5 a lancer.
 
 ## Racine
-- Conventions.md : hierarchie des sources, balises locales ([VISUEL], [DATAMINE], [CANON LOCAL], [CANON BIS]), registre des tranchages CL-01 a CL-07. A LIRE EN PREMIER.
+- Conventions.md : hierarchie des sources, balises locales ([VISUEL], [DATAMINE], [CANON LOCAL], [CANON BIS]), registre des tranchages CL-01 a CL-13. A LIRE EN PREMIER.
 - _Implications.md : journal de travail, points ouverts. Jamais fetche en narration.
 
 ## Cosmogonie/
@@ -27,11 +27,19 @@
 - Frenzied_Flame.md / Dynastie_Mohgwyn.md / Volcano_Manor.md / Nox_Cites_Eternelles.md / Black_Knives.md / Parias.md / Roundtable_Tarnished.md
 - Chaque page se clot par un Etat au rappel, aligne sur la table du Shattering.
 
+## Personnages/
+- Marika_Radagon.md : origine chamane, fabrication en jarre, ascension, regne, scission et refusion de Radagon, Shattering.
+- Gloam_Eyed_Queen.md : premiere deesse [CL-01], culte godskin, aspects bannis de la Mort [CL-10], defaite, chevalier [DM-01].
+- Placidusax.md : Dragonlord, Elden Lord d'avant l'Erdtree, dieu enfui, attente hors du temps, duel de Bayle.
+- Godfrey_Hoarah_Loux.md : chef de guerre des Badlands, Serosh, premier Elden Lord de l'ere, conquetes, exil et premiers Tarnished.
+- Maliketh.md : ombre de Marika, receptacle de la Rune of Death, trahison, double presence sous le nom de Gurranq.
+- Vague 2 (Lot 5, a venir) : Godwyn, Morgott, Mohg, Radahn, Rykard, Ranni, Malenia, Miquella, Messmer.
+- Vague 3 (Lot 6, a venir) : PNJ majeurs, perimetre a valider en ouverture de lot.
+
 ## Datamine/
-- Registre.md : faits [DATAMINE] et verdicts. 1 entree en attente (DM-01).
+- Registre.md : faits [DATAMINE] et verdicts. 1 entree : DM-01, canonisee avec restriction de lecture.
 
 ## Dossiers en attente
-- Personnages/ : Passe 1, lots 4-6.
 - Lieux/ : Passe 1, lot 7.
 - Systemes/ : Passe 1, lot 8.
 - Nightreign/ : Passe 1, lot 9, en dernier ([CANON BIS]).

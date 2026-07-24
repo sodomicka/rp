@@ -43,7 +43,6 @@
 - Frontiere d'execution, rappelee au Lot 4 : une decision deja enoncee par le worldbuilder s'EXECUTE, y compris sa mise en forme en tranchage CL. Elle n'est pas re-soumise a validation. Seuls le neuf et les contradictions declenchent un stop. Manquement constate au Lot 4 (CL-08 amende et CL-10 re-soumis alors qu'actes).
 
 ## Dettes de cloture de Passe 1
-- Sommaire.md : ajouter le dossier Personnages/ (5 pages livrees au Lot 4).
 - Chronologie/Shattering.md : la ligne Maliketh doit mentionner la double presence, Gurranq au Bestial Sanctum de Caelid. Amendement acte au Lot 4, non encore applique.
 - Factions/Geants_Fell_God_Zamor.md et Chronologie/Ere_Ancienne.md : repercuter le fait derive de CL-08 (geant du feu accessible hors des Mountaintops).
 - Chronologie/Ere_Erdtree.md : la guerre des geants change de sens sous CL-08 (auto-purge). A repercuter.
@@ -52,7 +51,7 @@
 ## Etat des livraisons
 - Passe 0 : Cosmogonie (6), Chronologie (4), Factions (12), Conventions, Sommaire, Datamine/Registre, _Implications.
 - Lot 4 : Personnages/Marika_Radagon, Gloam_Eyed_Queen, Placidusax, Godfrey_Hoarah_Loux, Maliketh.
-- Amendements du Lot 4 : Conventions W2 (registre etendu a CL-13), Mort_Destined_Death W2, Datamine/Registre W2 (verdict DM-01).
+- Amendements du Lot 4 : Conventions W2 (registre etendu a CL-13), Mort_Destined_Death W2, Datamine/Registre W2 (verdict DM-01), Sommaire W2 (dossier Personnages/ inscrit).
 
 ---
 
