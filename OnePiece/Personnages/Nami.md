@@ -1,7 +1,7 @@
 # Nami
 
-- version : W2
-- note de version : W2 - versement du paquet differe du build R5 (journal) : rapport a la mort en Psycho (noyau, racine Arlong) ; Trajectoire ouverte (an 0, R5 : temoin-vecteur de l'eclat d'Enel, position au debat).
+- version : W3
+- note de version : W3 - versement du paquet R6 (journal W25) : Trajectoire an 0 (R6) - assaut d'Enies Lobby [hors POV, canon par defaut], premiere prime.
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 
@@ -51,6 +51,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 |---|---|---|
 | an 0 (R5 - Skypiea) | Epargnee par Enel au decompte des survivants, emmenee vers l'arche Maxim - TEMOIN de son eclat de rage ("D'abord on tranche mon prelat et egorge mon commandant...") | Vecteur : c'est par elle que l'equipage SAIT, pour Yama et pour Ohm |
 | an 0 (R5 - debat en mer) | Rapporte l'eclat d'Enel a l'equipage ; position au debat sur le rapport a la mort : comprend la necessite - elle l'a souhaitee a Arlong cent fois | - |
+| an 0 (R6, Water 7 / Enies Lobby) | Assaut d'Enies Lobby, Kalifa vaincue au Clima-Tact neuf [hors POV des jumelles, canon par defaut] | Premier avis de recherche a son nom : 16M [canon] |
 
 ---
 

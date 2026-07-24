@@ -1,6 +1,7 @@
 # Spandam, Spandine et Funkfreed
 
-- version : W2
+- version : W3
+- note de version : W3 - versement du paquet R6 (journal W25) : CORRECTIF de noyau - la cible "plans" a la veille de l'operation est la piste ICEBURG (erreur d'intel du CP9), reattribuee a Cutty Flam en cours d'operation sur la description donnee par les jumelles. Golden Escargophone : dotation de FONCTION du chef de Cipher Pol (l'incertain d'attribution est void). Trajectoire de Spandam alimentee (an 0, R6 : sacoche, revelation de la filiation, tabassage, paire unique, poing de Franky, escargophone dore, coupe Funkfreed, dos brise, dechu).
 
 Fiche unique : la dynastie Spandine-Spandam du Cipher Pol, et l'epee Funkfreed. Entites canon.
 FRONTIERES DU NOYAU (par entite, regle actee) : Spandine <= son debarquement a Ohara (J-0 du Buster Call) ; Spandam et Funkfreed <= veille de l'operation de capture (Water 7, an 0).
@@ -16,10 +17,10 @@ FRONTIERES DU NOYAU (par entite, regle actee) : Spandine <= son debarquement a O
 - Fils de Spandine, son successeur a la tete du CP9 (par piston). Ex-chef du CP5. Ne an -39 : 19 ans a l'epoque d'Ohara (hors champ), 39 ans a sa frontiere.
 - Physique : pale, mince, cheveux lavande ondules mi-epaules a raie mediane, marques noires autour de grands yeux, nez rouge sombre (d'ou le "Spanda" que lui vaudra Franky). Masque de cuir cloute sur l'arete du nez et le front : il couvre les cicatrices laissees par Franky.
 - Psycho : lache, cruel, megalomane. Justice Absolue devoyee : la fin justifie tout, et la fin c'est SA gloire. Se reve "plus grand heros du monde" ; obsede de rang et de prestige ; envisage en secret d'utiliser les Armes Antiques pour lui-meme, la ou les autres agents ne veulent aucune reconnaissance. Tortionnaire experimente, physique et mental. S'effondre des que le rapport de force s'inverse.
-- Capacites : doriki de 9 - moins qu'un soldat ordinaire arme (10). Le plus faible du CP9 qu'il dirige. Ses vraies armes : la manipulation (il a inflechi les Cinq Doyens eux-memes), le rang herite, et Funkfreed.
+- Capacites : doriki de 9 - moins qu'un soldat ordinaire arme (10). Le plus faible du CP9 qu'il dirige. Ses vraies armes : la manipulation (il a inflechi les Cinq Doyens eux-memes), le rang herite, et Funkfreed. Chef d'un Cipher Pol, il possede a ce titre un GOLDEN ESCARGOPHONE - dotation de fonction, autorite de declenchement du Buster Call [acte worldbuilder, build R6].
 - Enfance : avait un elephant de compagnie [SBS ; sort inconnu].
 - Histoire : ~an -12/-10 : convainc les Cinq Doyens d'inflechir la politique des Armes Antiques (autoriser leur recuperation face a la piraterie montante). an -8 [certaines sources : an -10] : chef du CP5, premier a traquer les plans de Pluton detenus par Tom a Water 7. Refus de Tom -> frame-up : les navires de guerre concus par Cutty Flam (Franky) lances contre un convoi judiciaire, Tom condamne et execute. Franky le defigure a coups de crosse en represailles - le masque date de la. Succession de son pere a la tete du CP9 [date exacte : INCERTAIN, entre an -8 et an -5]. an -5 : lance l'infiltration de Water 7 (Lucci, Kaku, Kalifa chez Galley-La ; Blueno au bar) pour retrouver les plans.
-- Etat a la frontiere : l'operation de capture est lancee, le CP9 infiltre attend son signal. Cibles : les plans de Pluton (Cutty Flam) et "les Enfants du Demon" - les jumelles Nico, dont le savoir doit lui livrer Pluton [DIVERGENCE RP : cible double, prime commune 120M]. Il ne les a jamais rencontrees.
+- Etat a la frontiere : l'operation de capture est lancee, le CP9 infiltre attend son signal. Cibles : les plans de Pluton - detenteur suppose ICEBURG [erreur d'intel du CP9 ; la reattribution a Cutty Flam n'interviendra qu'en cours d'operation, sur la description physique donnee par les jumelles] - et "les Enfants du Demon" - les jumelles Nico, dont le savoir doit lui livrer Pluton [DIVERGENCE RP : cible double, prime commune 120M]. Il ne les a jamais rencontrees.
 
 ## Funkfreed
 - Epee-elephant : une epee ayant "mange" le Zou Zou no Mi (Zoan elephant) par la technologie de Vegapunk (armes mangeuses de fruits). Propriete de Spandam ; date d'acquisition non etablie au canon.
@@ -33,13 +34,14 @@ FRONTIERES DU NOYAU (par entite, regle actee) : Spandine <= son debarquement a O
 - CP9 an 0 - sous les ordres de Spandam : Rob Lucci, Kaku, Kalifa, Blueno (infiltres a Water 7 depuis an -5), et les autres agents.
 - Tom, Cutty Flam (Franky), Iceburg - les victimes de l'affaire des plans. Franky : l'homme qui a defigure Spandam, toujours recherche.
 - Nico Robin et Nico Sonia - "les Enfants du Demon" : pour Spandam, un ticket vers Pluton et la gloire [DIVERGENCE RP : les deux].
-- Aokiji - tutelle hierarchique de l'operation an 0 [attribution du Golden Escargophone a Spandam : a caler en roadmap].
+- Aokiji - tutelle hierarchique de l'operation an 0.
 
 ## Trajectoire datee
 (alimentee a chaud en Passe 2, arc par arc ; destins post-frontiere restants - Enies Lobby pour le fils et l'epee - verses aux builds concernes.)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | an -20 (J-0) | Spandine (Roadmap_0) : debarque avec le CP9, identifie Olivia, ordonne la rafle des erudits, declenche le Buster Call au Golden Escargophone ; quitte l'ile sous le pilonnage avec ses agents [IMPLICITE canon] | L'homme du Buster Call d'Ohara ; prestige aupres du GM [IMPLICITE] |
+| an 0 (R6, Water 7 / Enies Lobby) | Spandam (Roadmap_6) : PREMIERE rencontre avec les jumelles, a l'arrivee du train des mers. Arrache la sacoche de Sonia et la jette a la mer ; leur revele sa filiation - fils du responsable du Buster Call d'Ohara, et il compte faire MIEUX que son pere ; roue Sonia de coups de pied a la tete au sol (nez brise, lunettes brisees) devant Franky et Robin ; leur pose UNE paire unique de menottes de granit marin pour deux ("une prime pour deux dechets") ; visage fracasse par le poing de Franky, libere le temps de recuperer des plans que Franky brule ; saisit son escargophone DORE et declenche un Buster Call par accident - le geste du pere rejoue [symetrie R0] ; tranche a Funkfreed le bras gauche de Sonia sous l'epaule, pour separer les soeurs ; dos brise par le pilier de graphite de l'eveil | Les deux dettes des jumelles reunies sur une seule dynastie. Dechu apres Enies Lobby [canon rejoint par une autre main] |
 
 ---
 

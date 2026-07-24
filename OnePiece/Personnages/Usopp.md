@@ -1,7 +1,7 @@
 # Usopp
 
-- version : W3
-- note de version : W3 - versement du paquet differe du build R5 (journal) : rapport a la mort en Psycho (noyau) ; Trajectoire ouverte (an 0, R5 : chambre de fortune des jumelles, Klabautermann vu et cru, position au debat).
+- version : W4
+- note de version : W4 - versement du paquet R6 (journal W25) : VECTEUR BINKS acte (double : le pere avant an -12, puis la mere). Trajectoire an 0 (R6) - duel, depart, Sogeking, retour aux funerailles ; detonation du Klabautermann.
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 
@@ -26,10 +26,10 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 - Combat direct : mediocre et il le sait ; ruse, pieges et fuite tactique. AUCUN Kabuto a la frontiere (invention post-frontiere).
 
 ## Culture
-- "Le bon Rhum de Binks" : chante la version des pirates du Roux, heritage de Yasopp via Banchina [IMPLICITE] (cf. SB2) [DIVERGENCE RP - cartographie des variantes].
+- "Le bon Rhum de Binks" : chante la version des pirates du Roux, recue en DOUBLE VECTEUR [acte worldbuilder]. D'abord de son PERE, avant le depart (Usopp a 5 ans) : Yasopp frequente les pirates du Roux depuis leur proposition d'an -20, refusee - huit ans a leur cotoyer et a se faire forcer la main avant d'embarquer, il connait leur version bien avant d'etre des leurs. Puis de sa MERE, qui prend le relais : le chant du mari parti en mer, chante a leur fils. Meme version que Luffy, du meme equipage, mais separement et jamais ensemble (cf. SB2) [DIVERGENCE RP - cartographie des variantes].
 
 ## Histoire
-- Enfance : Yasopp part avec Shanks ; Banchina tombe malade et meurt. Le gamin seul devient le menteur officiel du village - et le conteur prefere de Kaya, riche heritiere endeuillee et malade qu'il fait rire de ses epopees inventees. "Capitaine" de l'equipage d'Usopp : trois gamins, Piment, Oignon et Carotte.
+- Enfance : Yasopp part avec Shanks (an -12, Usopp a 5 ans) apres huit ans d'amitie et de bras de fer avec l'equipage, qui le voulait des an -20 [DIVERGENCE RP - le canon ne date que la proposition refusee et le depart] ; Banchina tombe malade et meurt. Le gamin seul devient le menteur officiel du village - et le conteur prefere de Kaya, riche heritiere endeuillee et malade qu'il fait rire de ses epopees inventees. "Capitaine" de l'equipage d'Usopp : trois gamins, Piment, Oignon et Carotte.
 - an 0 : l'affaire Kuro. Le majordome "Klahadore" est en realite le capitaine Kuro des Pirates du Chat Noir, planque depuis trois ans pour capter l'heritage de Kaya via l'hypnotiseur Jango. Usopp surprend le plan - et personne ne croit le menteur. Il decide de defendre le village seul ; Luffy, Zoro et Nami s'en melent. Victoire - Jango abattu par son Kayaku Boshi. Il refuse le statut de heros aupres des villageois.
 - an 0 : Kaya offre le Going Merry, concu par Merry son majordome. Usopp embarque - troisieme recrue, tireur attitre.
 - an 0 : Baratie (Krieg) ; Arlong Park - victoire arrachee contre Chew, l'officier homme-poisson : sa premiere vraie victoire seul ; Loguetown ; Reverse Mountain.
@@ -38,7 +38,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 - Tireur et reparateur du Merry, premiere ile de Grand Line en vue - et la trouille au ventre, comme il se doit. Il ne connait ni Baroque Works ni les jumelles.
 
 ## Relations (<= frontiere)
-- Yasopp - le pere absent, l'idole et la blessure. Banchina - la mere morte, origine du mensonge-espoir.
+- Yasopp - le pere absent, l'idole et la blessure ; premier vecteur de Binks. Banchina - la mere morte, origine du mensonge-espoir ; second vecteur de Binks, qui chantait l'absent a son fils.
 - Kaya - l'amie chere restee au village, qui s'est juree d'etudier la medecine.
 - Luffy - le capitaine, et le lien vivant avec Yasopp (Luffy l'a connu enfant a Fuchsia). Zoro, Nami - les complices du premier combat. Sanji - camarade de bord.
 - Piment, Oignon, Carotte - l'equipage d'Usopp, dissous avec les honneurs. Merry - le majordome-concepteur du navire.
@@ -52,6 +52,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 | an 0 (R5 - premiere nuit) | Improvise une chambre de fortune aux jumelles dans une partie de la cale ; surpris qu'elles ne veuillent qu'un seul lit, serre | - |
 | an 0 (R5 - Skypiea, Autel Sacrificiel) | VOIT le Klabautermann reparer le Merry ; validation discrete des jumelles - "nous, on te croit ; les meilleurs charpentiers du monde y croient tous" | Invocation du plant R2 W4 (annee Tom) ; detonation R6 (funerailles du Merry) |
 | an 0 (R5 - debat en mer) | Position au debat sur le rapport a la mort : dubitatif - un fier guerrier ne tue pas, il offre une echappatoire digne | - |
+| an 0 (R6, Water 7 / Enies Lobby) | Duel contre Luffy pour le Merry, depart de l'equipage ; revient masque en SOGEKING - brule le drapeau du GM sur ordre de Luffy, retourne Oimo et Kashii par la verite sur Dorry et Brogy [hors POV des jumelles : elles ont manque tout l'episode]. Funerailles vikings du Merry, excuses et retour a bord | Prime de 30M au nom de Sogeking [canon]. Le Klabautermann qu'il avait vu a Skypiea : le Merry ne parle pas au bucher - son ame est deja dans la main de Sonia [detonation transplantee] |
 
 ---
 

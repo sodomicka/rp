@@ -1,7 +1,7 @@
 # Nico Sonia
 
-- version : W7
-- note de version : W7 - versement du paquet differe du build R5 (journal) : CLARIFICATION DE SOCLE en Capacites (vernis de toutes les sciences d'Ohara, pharmacopee comprise ; seuls approfondis : ingenierie + geographie/geopolitique). Les elements dates du paquet (grammaire des nausees, engelures) sont verses en Trajectoire_Jumelles W4 (strate deportee).
+- version : W8
+- note de version : W8 - correctif de POINTEUR seulement (le paquet R6 du journal se resout integralement en strate deportee) : le renvoi "entree Trajectoire a venir en Passe 2" est perime - la ligne R6 (bras perdu, eveil, sacoche) vit desormais en Trajectoire_Jumelles W5. Ajout post-frontiere en Description physique : sequelle du nez (deviation gauche, an 0). Renvoi de Trajectoire RECABLE sur les sept pages de la scission par roadmap. Noyau inchange (il s'arrete a 8 ans).
 
 ## Identite
 - Nico Sonia. Protagoniste de la Partie 1 ; entite de lore [DIVERGENCE RP].
@@ -17,7 +17,7 @@
   - Lunettes : myopie severe de naissance, indispensables.
   - JAMAIS de pantalon : jupes exclusivement, courtes ou longues, quel que soit le temps (Robin : robes ou pantalons).
 - Maladroite : casse frequente de ses lunettes.
-- Reference adulte : artwork worldbuilder (haut noir, longue jupe prune, bottes noires). Bras gauche de graphene a partir de l'an 0 : cf. BIBLE SB3 ; entree Trajectoire a venir en Passe 2.
+- Reference adulte : artwork worldbuilder (haut noir, longue jupe prune, bottes noires). Bras gauche : perdu a Enies Lobby (an 0), auto-prothese de graphene ensuite - cf. BIBLE SB1 et WIKI Personnages/Trajectoire_Jumelles.md. Nez DEVIE vers la gauche depuis l'an 0 (brise par Spandam, ressoude de travers) - sequelle permanente.
 
 ## Psychologie (noyau)
 - Extravertie, joueuse, provocatrice. Miroir inverse de Robin (froide, reservee).
@@ -67,7 +67,7 @@
   - Carnets noirs : dessin pour le fruit, consommables, remplaces souvent.
 
 ## Trajectoire datee
-Deportee (decision worldbuilder) : cf. WIKI Personnages/Trajectoire_Jumelles.md - strate complete des deux jumelles, alimentee a chaud en Passe 2.
+Deportee (decision worldbuilder) : cf. WIKI Personnages/Trajectoire_Jumelles_00.md a _06.md - UNE page par roadmap (_00 = R0 Ohara ... _06 = R6 Water 7), creees au fil des builds jusqu'a _15. Aucun plafond : le decoupage par arc EST le plafond. L'ancienne page unique Trajectoire_Jumelles.md est SUPPRIMEE.
 
 ---
 

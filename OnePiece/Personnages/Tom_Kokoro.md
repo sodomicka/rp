@@ -1,6 +1,7 @@
 # Tom et Kokoro
 
-- version : W4
+- version : W5
+- note de version : W5 - versement du paquet R6 (journal W25) : retrofit de noyau (Tom - la lecon du noeud, transmise aux veillees d'atelier) ; Trajectoire de Kokoro alimentee (an 0, R6 : le chevet de Sonia, l'absolution portee a la maisonnee).
 
 Fiche unique : le maitre charpentier de Water 7 et la secretaire de Tom's Workers - le foyer du sejour des jumelles an -9/-8 [DIVERGENCE RP]. Entites canon.
 FRONTIERES DU NOYAU (par entite, regle actee) : Tom <= sa chute (an -8) - fiche 100 pour cent noyau, aucune Trajectoire ; Kokoro <= ouverture de l'arc Water 7 (an 0).
@@ -8,7 +9,7 @@ FRONTIERES DU NOYAU (par entite, regle actee) : Tom <= sa chute (an -8) - fiche 
 ## Tom
 - Homme-poisson de type poisson-vache a longues cornes. Plus grand charpentier du monde, patron de Tom's Workers. Frere aine de Den. Originaire de l'ile des Hommes-Poissons, installe a Water 7 avec Kokoro. Age : non etabli au canon.
 - Physique : colosse jaune au torse enorme sur un bas du corps court ; cornes, taches noires au cou pres des branchies, dents pointues sur la levre inferieure, barbe blanche ; pantalon marron, bottes. Un TATOUAGE SOLAIRE floral sur chaque epaule, similaire au Jolly Roger des Pirates du Soleil - AUCUNE appartenance a l'equipage (reformulation canon actee).
-- Psycho : jovial, genereux, rit de tout - y compris de sa propre condamnation a mort. Aucun prejuge anti-humain. Credo : un navire n'est jamais coupable, et un charpentier n'a pas a rougir de ce qu'il construit - fierte revendiquee de l'Oro Jackson jusqu'au bout. Tic verbal : faire les choses "avec un Don !".
+- Psycho : jovial, genereux, rit de tout - y compris de sa propre condamnation a mort. Aucun prejuge anti-humain. Credo : un navire n'est jamais coupable, et un charpentier n'a pas a rougir de ce qu'il construit - fierte revendiquee de l'Oro Jackson jusqu'au bout. LA LECON DU NOEUD, transmise aux veillees d'atelier : l'esprit d'un navire construit et aime niche dans LE PLUS GROS NOEUD de son bois [retropropagation actee, build R6 - reprise par Iceburg, Franky et les jumelles]. Tic verbal : faire les choses "avec un Don !".
 - Capacites : genie naval absolu (Oro Jackson en bois d'Adam ; conception du train des mers) ; force colossale meme pour un homme-poisson (souleve un navire d'une main, les mats dans l'autre).
 - Histoire :
   - Construit l'Oro Jackson pour Gol D. Roger, avant God Valley (an -36 env., cf. SB3).
@@ -45,6 +46,7 @@ FRONTIERES DU NOYAU (par entite, regle actee) : Tom <= sa chute (an -8) - fiche 
 (vide - alimentee a chaud en Passe 2, arc par arc.)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R6, Water 7) | Kokoro (Roadmap_6) : Chimney, Gonbe et elle a la nage pendant la fuite d'Enies Lobby [canon : la revelation sirene]. Puis, au chevet de Sonia pendant la convalescence, avec Chopper et Robin, elle porte L'ABSOLUTION au nom de la maisonnee : elles n'avaient pas a fuir, Tom est tombe quand meme, et pas par leur faute | Onze ans de culpabilite soldes en une phrase |
 
 ---
 

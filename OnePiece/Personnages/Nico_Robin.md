@@ -1,6 +1,7 @@
 # Nico Robin
 
-- version : W5
+- version : W6
+- note de version : W6 - SEUL changement : le renvoi de Trajectoire est recable sur la scission par roadmap (Trajectoire_Jumelles_00 a _06, l'ancienne page unique est supprimee). Son paquet R6 se resout integralement en strate deportee - noyau inchange.
 
 ## Identite
 - Nico Robin. Jumelle ainee des Nico ; entite de lore, canon revisite par la gemellite [DIVERGENCE RP].
@@ -61,7 +62,7 @@
 - Peu d'objets en propre par ailleurs : les rayonnages de l'Arbre lui suffisent.
 
 ## Trajectoire datee
-Deportee (decision worldbuilder) : cf. WIKI Personnages/Trajectoire_Jumelles.md - strate complete des deux jumelles, alimentee a chaud en Passe 2.
+Deportee (decision worldbuilder) : cf. WIKI Personnages/Trajectoire_Jumelles_00.md a _06.md - UNE page par roadmap (_00 = R0 Ohara ... _06 = R6 Water 7), creees au fil des builds jusqu'a _15. Aucun plafond : le decoupage par arc EST le plafond. L'ancienne page unique Trajectoire_Jumelles.md est SUPPRIMEE.
 
 ---
 

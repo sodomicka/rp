@@ -1,7 +1,7 @@
 # Sanji
 
-- version : W3
-- note de version : W3 - versement du paquet differe du build R5 (journal W20) : rapport a la mort ajoute en Psycho (noyau - motif Germa, strictement interne) ; Trajectoire datee alimentee, an 0 : Whiskey Peak (fige-frustre), "le blondinet" du casino (R4), LE BEAT en mer (R5, garde-fous integraux), debat sur le rapport a la mort (R5). Historique anterieur : cf. garde cap.
+- version : W4
+- note de version : W4 - versement du paquet R6 (journal W25) : Trajectoire an 0 (R6) - la gare (il apercoit les jumelles, course-poursuite sans certitude), l'intrus du train. Historique anterieur : cf. garde cap.
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 Calibration psycho actee par le worldbuilder (thread 10) : confiance, sensibilite, rapport aux femmes.
@@ -53,6 +53,7 @@ Calibration psycho actee par le worldbuilder (thread 10) : confiance, sensibilit
 | an 0 (R4 - casino de Rainbase, hors de sa connaissance) | Devient "le blondinet" de l'aveu du soir de Sonia : l'homme respectueux qu'elle espere croiser si elle doit recommencer - il n'en saura jamais rien | Seed du beat R5 |
 | an 0 (R5 - premiere nuit apres l'intronisation) | LE BEAT : Sonia lui propose de coucher pour s'acheter une securite, comme avec Crocodile ; il s'approche, la serre dans ses bras et pleure pour elle - compris sans un mot. AUCUN amour, aucune attirance, jamais. Garde-fous integraux : jamais nomme, jamais verbalise, jamais repete a quiconque | Fin de la methode de survie de Sonia ; consequence durable : ultra-vigilance sur la misogynie et les VSS envers les femmes de l'equipage, Sonia en particulier |
 | an 0 (R5 - debat en mer, avant le Davy Back Fight) | Expose sa position au debat sur le rapport a la mort : comprend la necessite, refuse de tuer pour ne pas LEUR ressembler - motif interne, Germa tu | Position posee devant l'equipage, raison tue |
+| an 0 (R6 - Water 7) | Apercoit les jumelles en route vers la gare : course-poursuite, elles le sement - il ne saura pas avec certitude que c'etait elles. Puis l'intrus a bord du train des mers, avec Sogeking [hors POV des jumelles, canon par defaut] | Aucune certitude, aucun mot dit a l'equipage |
 
 ---
 

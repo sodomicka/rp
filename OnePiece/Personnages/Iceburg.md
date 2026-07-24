@@ -1,6 +1,7 @@
 # Iceburg
 
-- version : W3
+- version : W4
+- note de version : W4 - versement du paquet R6 (journal W25) : retrofits de noyau sur l'annee Tom (surnom "Tete de granite" donne par Sonia ; la lecon du noeud, heritee des veillees de Tom) ; Trajectoire an 0 (R6) - grille par le surnom, assomme, amnesie FEINTE, la voix du Merry a l'Aqua Laguna, le chantier du Sunny, le mot du depart a Franky.
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= ouverture de l'arc Water 7 (an 0).
 
@@ -16,6 +17,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= ouverture de l'arc Water 7 (
 - Credo anti-armes : une arme est faite pour blesser, quelles que soient les intentions de son constructeur. Source de ses engueulades de jeunesse avec Cutty Flam et ses Battle Frankies.
 - Feru d'HISTOIRE [ajout AU acte ; aucune contradiction canon connue] : discussions, livres pretes - la matiere du duo des poses avec Robin (cf. Histoire an -9/-8).
 - Reve : transformer Water 7 elle-meme en navire pour la sauver de l'Aqua Laguna.
+- Croyance heritee des veillees d'atelier de Tom : l'esprit d'un navire construit et aime niche dans LE PLUS GROS NOEUD de son bois. Il y croit sans reserve [retropropagation actee, build R6].
 
 ## Capacites
 - Charpentier naval de premier ordre, forme par Tom ; co-constructeur du train des mers. Organisateur et batisseur d'empire. Aucune competence de combat notable : son pouvoir est civil - la ville l'aime et le protege.
@@ -23,7 +25,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= ouverture de l'arc Water 7 (
 ## Histoire
 - Apprenti de Tom des l'enfance, aux cotes de Cutty Flam ; rivalite braillarde des deux, patience amusee du maitre. C'est lui qui, enfant, surnomme Cutty Flam "Franky" ("Cutty Flam, c'est un nom bizarre") - le surnom restera. Dix ans de chantier du train des mers aupres de Tom et Flam ; larmes au voyage inaugural.
 - an -9 [DIVERGENCE RP], la rencontre (nuit du hangar, Roadmap_2) : surprend les jumelles en plein pillage d'un hangar, s'apprete a les denoncer ; couteau de graphene de Sonia, bras croises de Robin - Tom interrompt et accueille. Son premier reflexe fut la denonciation, et il a eu une lame sous les yeux : la relation aux jumelles en reste coloree.
-- an -9/-8 [DIVERGENCE RP] : 29 ans, senior de l'atelier pendant le sejour des jumelles Nico. Il SAIT qui elles sont - Tom s'est porte garant devant la maisonnee. Un an de quotidien : duo des poses avec Robin - depart glacial, complicite lente et solide, discussions d'histoire, livres pretes, pince-sans-rire contre humour noir ; exaspere par Sonia et son obsession des plans [echo canon : reprimande deja les designs absurdes de Cutty Flam]. Au matin de la fuite (le soir meme de l'annonce du CP5), decouvre deux lits vides et comprend pourquoi.
+- an -9/-8 [DIVERGENCE RP] : 29 ans, senior de l'atelier pendant le sejour des jumelles Nico. Il SAIT qui elles sont - Tom s'est porte garant devant la maisonnee. Un an de quotidien : duo des poses avec Robin - depart glacial, complicite lente et solide, discussions d'histoire, livres pretes, pince-sans-rire contre humour noir ; "Tete de granite" - le surnom que Sonia lui colle pendant le sejour, pour son entetement [retropropagation actee, build R6] ; exaspere par Sonia et son obsession des plans [echo canon : reprimande deja les designs absurdes de Cutty Flam]. Au matin de la fuite (le soir meme de l'annonce du CP5), decouvre deux lits vides et comprend pourquoi.
 - an -8 : la chute de Tom (frame-up de Spandam, cf. Spandam_Spandine). Tom lui confie les plans de Pluton. En les recevant, il mesure ce qui a cohabite sous le toit de Tom : l'arme du Siecle Oublie et deux lectrices d'Ohara [DIVERGENCE RP].
 - an -7 : fonde la Galley-La Company en fusionnant les sept chantiers ; la ville renait par le train et le chantier. Devient maire [date exacte : INCERTAIN, entre an -7 et an 0].
 - an -5 : le CP9 s'infiltre autour de lui (Kalifa secretaire, Lucci et Kaku contremaitres du Dock 1, Blueno barman). Il l'IGNORE totalement.
@@ -44,6 +46,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= ouverture de l'arc Water 7 (
 (vide - alimentee a chaud en Passe 2, arc par arc.)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R6, Water 7) | Onze ans apres, les jumelles reviennent - encapuchonnees, chez lui, pour lui voler les plans de Pluton. Sonia le grille en l'appelant "Tete de granite" sous le stress ; il cherche a COMPRENDRE plutot qu'a se defendre, n'a pas les vrais plans, se fait assommer. Retrouve inconscient, il declare une amnesie FEINTE [DIVERGENCE RP] : jamais dupe, jamais complice - leur raison devait etre juste, et terrible, et il refuse de les incriminer sans tout savoir. La nuit de l'Aqua Laguna, il ENTEND la voix du Going Merry et le rafistole - c'est ainsi que le navire arrive seul a Enies Lobby [mecanisme canon]. Apres l'arc : refuse d'abord Sonia au chantier, puis les trois travaillent comme a l'epoque - le Thousand Sunny, co-concu avec elle et Franky, surprises comprises. Au depart, c'est son mot qui fait embarquer Franky : lui veillera sur la maison | Sait desormais ce que les jumelles etaient pretes a lui faire, et pourquoi ; le lien tient. Galley-La a rendu un navire a l'equipage qui a brule le drapeau du GM |
 
 ---
 

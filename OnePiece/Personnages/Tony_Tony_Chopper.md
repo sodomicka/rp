@@ -1,7 +1,7 @@
 # Tony Tony Chopper
 
-- version : W3
-- note de version : W3 - versement du paquet differe du build R5 (journal) : rapport a la mort en Psycho (noyau) ; Trajectoire ouverte (an 0, R5 : "renne" reconnu, soins aux herbes de Sonia, debat, decongelation dirigee) ; premiere rencontre avec les jumelles calee (intronisation R5).
+- version : W4
+- note de version : W4 - versement du paquet R6 (journal W25) : Trajectoire an 0 (R6) - les herbes de l'arrivee a Water 7, le chevet de la convalescence.
 
 Entite canon. FRONTIERE DU NOYAU (regle actee, resserree thread 10) : <= fin de l'arc Drum / recrutement (an 0). Premiere rencontre avec les jumelles : intronisation (an 0, R5) - calee en Passe 2 (frontiere actee R4 : Alabasta de loin, aucune interaction avant).
 
@@ -54,6 +54,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee, resserree thread 10) : <= fin de 
 | an 0 (R5 - apres la foudre d'Enel) | Soigne les figures de Lichtenberg des deux jumelles AVEC les herbes cueillies par Sonia - decouvre qu'elle sait exactement ce qu'elle fait (pharmacopee du vernis d'Ohara) | Le lien se renforce (troisieme pierre) |
 | an 0 (R5 - debat en mer) | Position au debat sur le rapport a la mort : pas fan du tout, ethique de soin chevillee au corps | - |
 | an 0 (R5 - retour d'Aokiji) | Dirige la decongelation des deux jumelles a bord du Merry, sans les blesser | Quatrieme pierre du lien |
+| an 0 (R6 - Water 7) | A l'arrivee : selection d'herbes chez l'herboriste avec Sonia (les engelures de R5 mordent encore) ; renvoye vers Sanji quand Robin pretexte la douleur. Apres Enies Lobby : au chevet de Sonia avec Kokoro et Robin, plusieurs jours de convalescence - moignon, nez brise, epuisement de l'eveil | Cinquieme pierre du lien ; premier medecin a soigner ce que le fruit lui coute |
 
 ---
 

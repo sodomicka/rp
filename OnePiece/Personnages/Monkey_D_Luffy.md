@@ -1,7 +1,7 @@
 # Monkey D. Luffy
 
-- version : W4
-- note de version : W4 - versement du paquet differe du build R5 (journal) : boussole du combat calibree en Psycho (merite-t-on de VIVRE, jamais de mourir) ; Trajectoire alimentee (an 0, R5 : recit d'Ace a Jaya, duel Aokiji tenu et epargne).
+- version : W5
+- note de version : W5 - versement du paquet R6 (journal W25) : VECTEUR BINKS acte (annee Fuchsia, an -11/-10 - question ouverte depuis la Passe 1, close). Trajectoire an 0 (R6) - assaut d'Enies Lobby et sauvetage des jumelles [essentiellement hors POV, canon par defaut], nouvelle prime.
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0) - premiere apparition des jumelles devant l'equipage.
 
@@ -29,7 +29,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 - AUCUN Gear (post-frontiere). AUCUN Haki nomme ni manifeste - le Haki des Rois est inne et dormant (cf. SB1).
 
 ## Culture
-- "Le bon Rhum de Binks" : chante la version des pirates du Roux (cf. SB2) [DIVERGENCE RP - cartographie des variantes].
+- "Le bon Rhum de Binks" : chante la version des pirates du Roux, apprise a 6-7 ans pendant l'annee de l'equipage a Fuchsia (an -11/-10), de la bouche des pirates eux-memes [VECTEUR acte]. Meme version qu'Usopp - recue du meme equipage, mais separement : ni ensemble, ni l'un par l'autre (cf. SB2) [DIVERGENCE RP - cartographie des variantes].
 
 ## Histoire
 - an -10 (7 ans) : l'annee Shanks a Fuchsia. Le fruit avale par erreur ; Shanks perd son bras gauche pour le sauver du Seigneur des Cotes ; le chapeau confie, avec la promesse.
@@ -57,6 +57,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 | an 0 (R4, Alabasta) | Whiskey Peak : rend Vivi a l'equipage, ECRASE l'Eternal Pose que Miss Black Friday lui tendait - personne ne decide de sa route. Nanohana : retrouvailles avec Ace, qui le couvre face a Smoker et lui laisse une Vivre Card. Rainbase : cage de kairoseki. Premiere defaite contre Crocodile (embroche, jete aux sables mouvants) - tire de la par une main qui repousse ; empoisonne au second duel ; troisieme duel gagne a l'eau. Tombe des rois : sort Sonia et Cobra de l'effondrement, et laisse les deux soeurs partir | Alabasta libere, un Shichibukai tombe par sa main ; premier ennemi que la force brute seule ne suffisait pas a battre. Les jumelles lui doivent deux vies et le savent |
 | an 0 (R5 - Jaya) | Raconte aux jumelles ce qu'Ace faisait a Alabasta, apres qu'elles ont pose le nom de Marshall D. Teach (recit deplace du banquet a Jaya, acte) | Socle R9 : le recit prendra tout son sens a Marineford |
 | an 0 (R5 - Long Ring Long Land) | Bloque la tentative d'Aokiji de briser les jumelles ; duel accepte, un contre un : gele puis EPARGNE (dette Crocodile) - il a tenu, au moins en determination | L'equipage a tenu ; les jumelles restent a bord |
+| an 0 (R6, Water 7 / Enies Lobby) | Guerre declaree au Gouvernement Mondial pour deux membres d'equipage : drapeau du GM brule sur son ordre, assaut d'Enies Lobby, Rob Lucci vaincu, fuite sous le Buster Call [hors POV des jumelles - elles l'apprennent au reveil]. Duel et depart d'Usopp, retour d'Usopp aux funerailles du Merry. Franky embarque | Le cri a deux voix exauce - la condition d'Aokiji est remplie par sa main. Prime portee a 300M [canon] |
 
 ---
 
