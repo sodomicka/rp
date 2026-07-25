@@ -33,7 +33,7 @@ can be found..." (Golden Rune [1]) ; montee de niveau et perte a la mort
 "Brave Tarnished, your Great Rune is a handsome shard of the Elden Ring."
 (_Corpus/ER_Talk_01.md, Finger Reader Enia, replique [102001130])
 
-La possession est un fait de LIGNAGE avant d'etre une conquete : "Ahh, Great Runes are the
+La possession releve du LIGNAGE avant la conquete : "Ahh, Great Runes are the
 stuff of demigods;" ([102002000]). La saisie suit le bris : "Soon, Marika's offspring,
 demigods all, claimed the shards of the Elden Ring." (meme fichier, bloc 0140, [14000500]). Le
 porteur a un nom : "The
@@ -75,7 +75,7 @@ La benediction se declenche ensuite par un Rune Arc : "A shard of the shattered 
   to" est du texte. [INCERTAIN]
 - MIQUELLA : "Broken and bereft of its bounty, it retains naught but the power to resist
   charms." (_Corpus/SOTE_Goods_01.md, Miquella's Great Rune) ; "Kindly Miquella has discarded
-  his Great Rune." (_Corpus/SOTE_Talk_01.md, replique [1160600000])
+  his Great Rune." (_Corpus/SOTE_Talk_01.md, Ansbach, replique [1160600000])
 
 ## Mending Runes
 

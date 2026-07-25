@@ -176,15 +176,27 @@ pas contredire. Ces contraintes sont le cahier des charges de toute invention fu
   apostles swaddled in this cloth. Soon they will grow to become the death of the gods."
   (_Corpus/ER_Talismans.md, Godskin Swaddling Cloth) Le lien a Destined Death est etabli par
   ailleurs : "when Maliketh sealed Destined Death, the true power of the black flame was lost".
-- NON DIT : son nom, son sort, sa date, son rapport a Marika, les circonstances de la defaite
-  des Apostles. Le corpus ne dit RIEN de sa fin. Une Empyrean qui commandait la mort des dieux
-  disparait du texte sans un mot.
+- DIT AUSSI, sous un AUTRE NOM : "Sacred sword of the Dusk-Eyed Queen who controlled the
+  Godskin Apostles before her defeat at the hands of Maliketh. The black flames wielded by the
+  apostles are channeled from this sword." (_Corpus/ER_Weapons_01.md, Godslayer's Greatsword).
+  Cette entree donne une FIN - la defaite par Maliketh - et une source materielle a la flamme
+  noire. Mais elle nomme la Dusk-Eyed Queen, et le corpus ne l'identifie JAMAIS a la Gloam-Eyed
+  Queen : les deux noms ne coexistent dans aucune entree.
+- NON DIT : son nom propre, son rapport a Marika, la date de son regne, et - selon que les deux
+  reines sont une figure ou deux - son sort. Si elles sont une, sa fin est etablie ; si elles
+  sont deux, la fin de la Gloam-Eyed Queen reste inconnue.
+- CORRECTION DU 2026-07-25 : cette fiche affirmait auparavant que le corpus ne disait rien de sa
+  fin. C'etait faux, par recherche incomplete - seules les occurrences de "Gloam" avaient ete
+  relevees. Exemple du piege no 1 de la doctrine (le quantificateur universel) commis par le
+  MJ lui-meme.
 - CONTRAINTES : (a) elle etait Empyrean choisie par les Fingers, donc candidate legitime a la
   divinite au meme titre que Marika ; (b) la flamme noire de ses apotres TIRE sa puissance de
   Destined Death, puisqu'elle se perd quand Maliketh la scelle - elle n'est donc pas une
   seconde source de mort, mais un usage de la meme ; (c) le sceau de Maliketh vient APRES son
   regne sur les apotres ; (d) "It is said that" est porte par le texte source : son statut
-  d'Empyrean est deja rapporte, pas affirme. [INCERTAIN]
+  d'Empyrean est deja rapporte, pas affirme [INCERTAIN] ; (e) toute reponse doit d'abord trancher
+  si Gloam-Eyed et Dusk-Eyed designent une figure ou deux - c'est la question dont depend tout
+  le reste. La meme question est ouverte dans Systemes/Incantations.md, TROU 2.
 - NOTE DE COMBLEMENT : c'est le trou vers lequel pointent les sources hors-texte (story trailer
   de SHADOW OF THE ERDTREE). Toute reprise devra passer par une balise de provenance, cf.
   _Implications.md Q8.

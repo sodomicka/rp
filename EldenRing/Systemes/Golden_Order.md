@@ -80,8 +80,11 @@ Une defection est nommee : "the young Miquella abandoned fundamentalism, for it 
 nothing to treat Malenia's accursed rot." (_Corpus/ER_Goods_02.md, Radagon's Rings of Light)
 L'abandon est motive par un ECHEC PRATIQUE, pas par un desaccord doctrinal.
 
-Radagon en est designe comme l'executant : "O Radagon, leal hound of the Golden Order."
-(_Corpus/ER_Talk_01.md, replique [100102010])
+Radagon en est designe comme l'executant, et par MARIKA elle-meme : "O Radagon, leal hound of
+the Golden Order." (_Corpus/ER_Talk_01.md, replique [100102010]) La replique appartient au bloc
+1001, section 02, qui s'ouvre par "In Marika's own words." : les paroles sont de Marika, le
+locuteur qui les recite est Melina. Ce n'est donc pas un jugement de Melina sur Radagon, mais la
+parole de Marika rapportee.
 
 ## L'imperfection reconnue
 
@@ -102,8 +105,10 @@ Ce diagnostic impute le defaut aux DIEUX, non a la doctrine.
 - NON DIT : aucun texte ne nomme l'auteur de la fondation ni celui du retrait. Le corpus decrit
   un acte sans sujet.
 - CONTRAINTES : (a) Marika est celle qui a BESOIN du vaisseau, ce qui la place a l'initiative
-  sans que le texte l'y nomme ; (b) l'acte est unique et fondateur, pas une reforme
-  posterieure ; (c) tout comblement doit rendre compte du choix du mot "plucked" - arrachee -
+  sans que le texte l'y nomme ; c'est elle aussi qui appelle Radagon "leal hound of the Golden
+  Order" ([100102010], attribution validee), donc qui parle de l'Ordre en position de
+  commandement - sans jamais s'en dire la fondatrice ; (b) l'acte est unique et fondateur, pas
+  une reforme posterieure ; (c) tout comblement doit rendre compte du choix du mot "plucked" - arrachee -
   qui suppose que la rune faisait partie de ce dont on l'a retiree.
 - RENVOI : Systemes/Destined_Death.md, TROU 1 (meme question, vue depuis la rune).
 

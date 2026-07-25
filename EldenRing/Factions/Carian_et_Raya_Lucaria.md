@@ -1,6 +1,6 @@
 # Carian et Raya Lucaria
 
-- version : W1
+- version : W2
 
 Toute affirmation non balisee est ETABLIE, enoncee dans le texte du jeu et localisee dans le
 corpus entre parentheses.
@@ -15,9 +15,9 @@ him." (_Corpus/ER_Armor_01.md, Queen's Crescent Crown).
 becoming its master. She also led the Glintstone Knights and established the house of Caria as
 royalty." (_Corpus/ER_Goods_01.md, Remembrance of the Full Moon Queen)
 
-Une replique la nomme "Of the last Queen of Caria, Rennala of the Full Moon." - son locuteur s'y
-designe "Upon my name as Ranni the Witch" (_Corpus/ER_Talk_01.md, [20250400] et [20250600]).
-[INCERTAIN]
+Ranni la nomme "the last Queen of Caria, Rennala of the Full Moon." - elle se designe dans la
+meme section "Upon my name as Ranni the Witch" (_Corpus/ER_Talk_01.md, [20250400] et
+[20250600]). Le titre de DERNIERE reine ne vient que d'elle.
 
 ## Le mariage, la guerre, la rupture
 
@@ -73,9 +73,9 @@ one day go their separate ways." (_Corpus/ER_Goods_02.md, Carian Retaliation)
 ## La lune et les serments
 
 Rencontres d'une lune, avant maitrise : "Queen Rennala encountered this enchanting moon when she
-was young, and later, it would bewitch the academy." et "This moon was encountered by a young
-Ranni, led by the hand of her mother, Rennala." (_Corpus/ER_Goods_01.md, Rennala's Full Moon et
-Ranni's Dark Moon). Une troisieme : TROU 4.
+was young" et "This moon was encountered by a young Ranni, led by the hand of her mother,
+Rennala." (_Corpus/ER_Goods_01.md, Rennala's Full Moon et Ranni's Dark Moon). Une troisieme :
+TROU 4.
 
 Une seule heritiere : "Now there is only one princess: Ranni, daughter of Rennala."
 (_Corpus/ER_Talismans.md, Carian Filigreed Crest). Son pere est Radagon ; Radahn et Rykard sont

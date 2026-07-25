@@ -1,6 +1,6 @@
 # Elden Ring et Elden Beast
 
-- version : W2
+- version : W3
 
 Toute affirmation non balisee est ETABLIE, enoncee dans le texte du jeu et localisee dans le
 corpus entre parentheses.
@@ -15,15 +15,15 @@ shattered." (_Corpus/ER_Talk_01.md, repliques [102001050] a [102001070])
 Les cinematiques ajoutent : "Shaper of life, arbiter of fate." et "Lord of the very
 stars above." (repliques [10000100] et [10000200]).
 
-Attributs recurrents : racine de l'Ordre, ancre des terres, source de la grace, autorite sur les
-astres. Le bris ne suspend pas sa fonction : "Though shattered,
-it yet guides thy kin." ([12000400])
+Le bris ne suspend pas sa fonction : "Though shattered, it yet guides thy kin." ([12000400])
 
 ## Porteuse et brandisseur
 
 "Queen Marika is the vessel of the Elden Ring, carrier of its vision." ([102012000]) Le rapport
 de l'Elden Lord, lui, est un rapport de BRANDISSEMENT : "Brandish the Elden Ring, for the Age of
-the Erdtree!" ([100104050], paroles de Marika rapportees).
+the Erdtree!" ([100104050]) - paroles de MARIKA, recitees par MELINA : la section 04 du bloc
+1001 s'ouvre sur "In Marika's own words." (_Corpus/ER_Talk_01.md). L'injonction est de Marika,
+non une opinion propre de Melina.
 
 ## Structure interne
 
@@ -84,8 +84,6 @@ Erdtree" est commune aux quinze Remembrances du jeu de base : ce n'est pas un tr
 Un second texte, sans le nommer, raconte une venue : "It is said that long ago, the Greater
 Will sent a golden star bearing a beast into the Lands Between, which would later become the
 Elden Ring." (_Corpus/ER_Goods_02.md, Elden Stars) Reserve de la source. [INCERTAIN]
-
-Apparence et affrontement : cf. _Observations_Visuelles.md.
 
 ## Trous et contraintes de comblement
 

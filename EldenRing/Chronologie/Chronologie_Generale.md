@@ -9,7 +9,8 @@ Toute affirmation non balisee est ETABLIE : enoncee dans le jeu, localisee entre
 Aucune entree ne situe un evenement PASSE par un nombre : ni annee, ni ere numerotee, ni point
 zero. Les durees chiffrees relevees sont toutes tournees vers l'AVENIR : "But thousands, if not
 tens of thousands, of moons must first pass." (_Corpus/ER_Talk_01.md, Enia, [102020050]) et "A
-thousand year voyage" (_Corpus/ER_Talk_01.md, [20490400] ; _Corpus/SOTE_Talk_01.md, [21050300]).
+thousand year voyage" (_Corpus/ER_Talk_01.md, [20490400] ; _Corpus/SOTE_Talk_01.md, Miquella,
+[21050300]).
 Deux unites attestees : la lune et l'annee. La lune sert aussi au passe, mais jamais avec un
 nombre : "so many moons ago" (_Corpus/ER_Talk_06.md, Nepheli, [334070030]).
 
@@ -113,7 +114,7 @@ was first to perish." [14000400] ; puis "The Elden Ring was broken," [16000600],
 
 ### TROU 3 - Ou se place la croisade de Messmer sur l'axe ?
 - DIT : "Long ago, Queen Marika commanded Sir Messmer to purge the tower folk."
-  (_Corpus/SOTE_Talk_01.md, [1180330020]) ; l'Erdtree existe deja pendant la croisade,
+  (_Corpus/SOTE_Talk_01.md, Leda, [1180330020]) ; l'Erdtree existe deja pendant la croisade,
   les combattants ayant "placed their faith in the distant Erdtree" (_Corpus/SOTE_Goods_01.md,
   Golden Vow).
 - NON DIT : aucun texte releve ne relie la croisade a Godfrey, a la guerre contre les Geants,

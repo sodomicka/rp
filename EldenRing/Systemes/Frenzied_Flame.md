@@ -51,11 +51,11 @@ Frenzied Flame ignites within the palm, and the player's entire body is set afir
 (_Corpus/ER_Talk_08.md, [900006300]). Un mourant enjoint : "Divest yourself of everything,
 and head to the door." (_Corpus/ER_Talk_07.md, [800071050]).
 
-L'objection, dans un bloc non nomme par le corpus : "It is chaos, devouring life and thought
-unending." / "The Lord of Frenzied Flame is no lord at all." / "When the land they preside over
-is lifeless." (_Corpus/ER_Talk_01.md, [100182010], [100186010], [100186020]). L'epilogue : "Lord
-of Frenzied Flame..." / "I will seek you, as far as you may travel..." / "To deliver you what is
-yours." / "Destined Death." ([20500000] a [20500300]).
+L'objection est de MELINA : "It is chaos, devouring life and thought unending." / "The Lord of
+Frenzied Flame is no lord at all." / "When the land they preside over is lifeless."
+(_Corpus/ER_Talk_01.md, [100182010], [100186010], [100186020]). L'epilogue est d'elle aussi :
+"Lord of Frenzied Flame..." / "I will seek you, as far as you may travel..." / "To deliver you
+what is yours." / "Destined Death." ([20500000] a [20500300]).
 
 ## Ceux qui echouent
 
@@ -146,14 +146,15 @@ be found in Faram Azula." (_Corpus/ER_Goods_01.md, Miquella's Needle).
   heritage DEJA contracte, pas en prevention.
 
 ### TROU 5 - Quel rapport entre le Lord of Frenzied Flame et Destined Death ?
-- DIT : l'epilogue ne contient que "Lord of Frenzied Flame..." / "I will seek you, as far as you
-  may travel..." / "To deliver you what is yours." / "Destined Death."
-- NON DIT : qui parle, pourquoi la Destined Death serait "yours", et si la traque est sanction
-  ou accomplissement. Le corpus n'attribue le bloc a aucun locuteur.
-- CONTRAINTES : (a) le bloc non nomme qui menace le Lord of Chaos motive sa menace par la dette
-  des runes, "Such is my duty, for allowing you the strength of runes." (_Corpus/ER_Talk_01.md,
-  [100190060]) ; (b) "what is yours" presuppose que la Destined Death appartient DEJA au
-  seigneur, ce qu'aucun autre texte du corpus n'enonce.
+- DIT : MELINA promet au Lord of Frenzied Flame "I will seek you, as far as you may travel..." /
+  "To deliver you what is yours." / "Destined Death."
+- NON DIT : pourquoi la Destined Death serait "yours", si la traque est sanction ou
+  accomplissement, et par quel moyen Melina la delivrerait - hors cette replique, aucun texte du
+  corpus ne la relie a la Rune of Death.
+- CONTRAINTES : (a) elle motive la meme menace par la dette des runes, "Such is my duty, for
+  allowing you the strength of runes." (_Corpus/ER_Talk_01.md, [100190060]) ; (b) "what is yours"
+  presuppose que la Destined Death appartient DEJA au seigneur, ce qu'aucun autre texte du corpus
+  n'enonce.
 
 ## Renvois
 

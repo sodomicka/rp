@@ -38,11 +38,11 @@ Omenkiller Rollo)
 
 Un locuteur de la capitale reclame leur chasse - "I beseech you hunt down the foul Omen."
 ([337010060]) - et decrit le sous-sol : "[337010080] For ages it's teemed with repulsive Omen.
-Fiendlings, even, who've never lost a horn." (_Corpus/ER_Talk_07.md, bloc 337) Un objet situe un
+Fiendlings, even, who've never lost a horn." (_Corpus/ER_Talk_07.md, bloc 3370) Un objet situe un
 cachot sous la ville : "Unlocks sewer-gaol door said to lie beneath Leyndell, the Royal
 Capital." (_Corpus/ER_Goods_02.md, Sewer-Gaol Key)
-Le corpus enregistre un lieu nomme Subterranean Shunning-Grounds (_Corpus/ER_Places.md), sans
-notice qui le decrive.
+Le corpus enregistre le lieu Subterranean Shunning-Grounds (_Corpus/ER_Places.md), sans notice
+descriptive.
 
 ## Morgott et Mohg
 
@@ -61,7 +61,7 @@ Great Rune)
 "Horns are sublime artifacts to hornsent, and their presence confirms the belief that they are a
 chosen people." et "Only the repeated sprouting of fresh horns can create a tangled horn, which
 is viewed as an irrefutable symbol of primacy." (_Corpus/SOTE_Talismans.md, Stalwart Horn Charm
-+2 ; memes lignes sur trois autres talismans hornsent)
++2 ; memes lignes sur trois autres talismans)
 
 La corne tue aussi leurs enfants, par exces et non par ablation : "Tangled horns are a
 symbol of spirituality, but most young born bearing the oversized horns meet a frightfully early
@@ -73,9 +73,9 @@ horns." (_Corpus/SOTE_Talismans.md, Fine Crucible Feather Talisman)
 
 ## La chute
 
-Une replique lie les deux termes : "[1180330000] Wondering about the hornsent, are you?" puis
+Leda lie les deux termes : "[1180330000] Wondering about the hornsent, are you?" puis
 "[1180330020] Long ago, Queen Marika commanded Sir Messmer to purge the tower folk."
-(_Corpus/SOTE_Talk_01.md ; locuteur 1180, auto-nomme en [1180100010] "I am Leda.") Bloc 11401,
+(_Corpus/SOTE_Talk_01.md, bloc 11803, ou elle se nomme : "[1180350010] I am Leda.") Bloc 11401,
 locuteur non nomme : "[1140100030] The Erdtree is my peoples' enemy-By Marika long betray'd, set
 aflame." (idem) Une malediction part en sens inverse : "[1020500010] A curse upon the strumpet's
 progeny, upon Marika's children each and all." (idem)
@@ -145,11 +145,12 @@ like you, this is your lot." (_Corpus/SOTE_Talk_02.md)
   Shackle et Mohg's Shackle, chacune pour "a particular Omen" ; le locuteur du bloc 2040 parle du
   Fell Omen a la troisieme personne : "[204006030] For the hands of the Fell Omen will soon be
   upon thee." (_Corpus/ER_Talk_01.md).
-- NON DIT : aucune phrase n'identifie Margit a Morgott ; le corpus n'attribue aucun nom au
-  locuteur du bloc 2040 - dialogues indexes par ID, sans table vers les noms.
+- NON DIT : aucune phrase n'identifie Margit a Morgott ; le bloc 2040 ne porte aucune
+  auto-identification et ne figure pas dans les attributions validees - son locuteur reste
+  anonyme.
 - CONTRAINTES : (a) le Fell Omen a un commandement propre - "The Night's Cavalry, who now wander
   the dim roads of night, were once led by the Fell Omen" (_Corpus/ER_Armor_01.md, Night's
-  Cavalry Helm) ; (b) le bloc 337 distingue dans un meme recit "Morgott, Lord of
+  Cavalry Helm) ; (b) le bloc 3370 distingue dans un meme recit "Morgott, Lord of
   Grace" et "the grotesque Fell Omen" ([337003060] et [337003090], _Corpus/ER_Talk_07.md) ;
   (c) la meme liste porte "Mohg, Lord of Blood [904800000]" et "Mohg, the Omen [904800002]" :
   deux IDs voisins y nomment un seul personnage sous deux formes, structure exacte de la paire

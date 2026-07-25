@@ -7,13 +7,12 @@ corpus entre parentheses.
 
 ## Ce que le Crucible est
 
-Fait pose deux fois, dans des entrees independantes : "Not unlike the crucible, the Erdtree in
+Fait pose deux fois : "Not unlike the crucible, the Erdtree in
 its primordial form." (_Corpus/ER_Armor_01.md, Godskin Noble Hood) et "Holds the power of the
 crucible of life, the primordial form of the Erdtree." (_Corpus/ER_Armor_01.md, Crucible Axe
-Helm). Le Crucible n'est donc pas une entite distincte de l'Erdtree : c'est l'Erdtree a un ETAT
-ANTERIEUR.
+Helm). Le Crucible n'est donc pas distinct de l'Erdtree : c'est l'Erdtree a un ETAT ANTERIEUR.
 
-Son contenu, en une formule que trois entrees repetent mot pour mot : "This is a manifestation
+Son contenu, formule identique en trois entrees : "This is a manifestation
 of the Erdtree's primal vital energies-an aspect of the primordial crucible, where all life was
 once blended together." (_Corpus/ER_Goods_02.md, Aspects of the Crucible: Tail, Horns et Breath)
 
@@ -25,10 +24,10 @@ red tint exemplifies the nature of primordial gold, said to be close in nature t
 
 ## Les aspects
 
-Trois incantations d'ELDEN RING portent le nom d'Aspects of the Crucible - Tail, Horns, Breath
-- et sont toutes classees "One of the ancient Erdtree incantations." (_Corpus/ER_Goods_02.md),
-la meme categorie qu'Erdtree Heal et Blessing's Boon. Le Crucible est donc range par le jeu dans
-le domaine de l'ERDTREE, pas contre lui.
+Trois incantations d'ELDEN RING - Aspects of the Crucible: Tail, Horns, Breath - sont classees
+"One of the ancient Erdtree incantations." (_Corpus/ER_Goods_02.md), la meme categorie
+qu'Erdtree Heal et Blessing's Boon. Le Crucible est donc range par le jeu dans le domaine de
+l'ERDTREE, pas contre lui.
 
 SHADOW OF THE ERDTREE en ajoute trois - Thorns et Bloom, incantations, Wings, competence d'arme
 - sous une formulation DIFFERENTE : aucun n'est plus rattache a l'Erdtree. "This skill
@@ -50,8 +49,7 @@ Chez les betes, la reserve vient du texte : "This horn began to sprout on a beas
 bears no horn. Perhaps it's a vestige of the primordial crucible." (_Corpus/ER_Goods_04.md,
 Budding Horn ; formule jumelle dans Old Fang) [INCERTAIN]. Dans les Land of Shadow, il est
 affirme sans reserve : "The Crucible has a particularly strong influence on the beasts of the
-realm of shadow, causing many to grow horns despite the characteristics of their species."
-(_Corpus/SOTE_Goods_02.md, Beast Horn)
+realm of shadow, causing many to grow horns" (_Corpus/SOTE_Goods_02.md, Beast Horn)
 
 Une lignee entiere lui est rattachee : "The misbegotten are held to be a punishment for making
 contact with the Crucible, and from birth they are treated as slaves, or worse."
@@ -60,14 +58,13 @@ croyance rapportee.
 
 ## Les Crucible Knights
 
-"Helm of the Crucible Knights who served Godfrey, the first Elden Lord." Leur equipement "Holds
-the power of the crucible of life, the primordial form of the Erdtree. Strengthens Aspects of
-the Crucible incantations." (_Corpus/ER_Armor_01.md, Crucible Axe Helm)
+"Helm of the Crucible Knights who served Godfrey, the first Elden Lord." Leur equipement
+"Strengthens Aspects of the Crucible incantations." (_Corpus/ER_Armor_01.md, Crucible Axe Helm)
 
-Deux figures sont nommees au premier rang : "Greatsword of Ordovis, one of the two honored as
+Deux figures au premier rang : "Greatsword of Ordovis, one of the two honored as
 foremost among the Crucible Knights." (_Corpus/ER_Weapons_01.md). La seconde est Siluria, seule
-designee au feminin : "The great tree ornamentation is the knight Siluria's mark, displayed also
-by her men." (_Corpus/ER_Armor_01.md, Crucible Tree Helm)
+designee au feminin : "the knight Siluria's mark, displayed also by her men."
+(_Corpus/ER_Armor_01.md, Crucible Tree Helm)
 
 SHADOW OF THE ERDTREE en nomme une troisieme : "Helm worn by Devonia, longest-serving of the
 Crucible Knights." et "It is said Devonia quested in search of the Crucible's origin, and
@@ -91,8 +88,7 @@ Crucibles" in ancient tower lore." (_Corpus/SOTE_Talismans.md, Talisman of All C
 [INCERTAIN]
 
 Le premier chef des Black Knights de Messmer en usait : "Their first leader was Andreas, a man
-endowed with great strength and command over the powers of the Crucible, and whose spirit in
-these ashes dwells."
+endowed with great strength and command over the powers of the Crucible"
 (_Corpus/SOTE_Goods_02.md, Black Knight Commander Andreas)
 
 ## Trous et contraintes de comblement
@@ -123,15 +119,20 @@ these ashes dwells."
   articuler cette ere-la avec l'etat de Crucible.
 
 ### TROU 3 - L'empan chronologique des Crucible Knights
-- DIT : ils servaient Godfrey, premier Elden Lord ; Devonia est "longest-serving" ; un PNJ
-  cherche Ordovis et le dit "an old hero of the Shattering, but there's a grudge out against
-  him." (_Corpus/ER_Talk_03.md, Guilbert, replique [303003030]).
-- NON DIT : si Ordovis et Siluria ont traverse toute la periode allant du regne de Godfrey au
-  Shattering, ou si le titre passe de generation en generation. Le corpus emploie les memes noms
-  aux deux epoques sans jamais les dater.
-- CONTRAINTES : (a) l'ordre existe DEJA sous Godfrey et EXISTE ENCORE au Shattering ; (b) leur
-  discredit est explicitement posterieur a leur gloire, donc les deux epoques ne peuvent pas
-  etre confondues ; (c) Guilbert cherche Ordovis comme quelqu'un que l'on peut trouver.
+- DIT : ils servaient Godfrey, premier Elden Lord ; Devonia est "longest-serving" ; leur
+  discredit est posterieur a leur gloire.
+- [COUPE] : le seul texte qui datait un chevalier du Shattering est celui de Guilbert, qui
+  cherche Ordovis, "an old hero of the Shattering" (_Corpus/ER_Talk_03.md, bloc 3030, replique
+  [303003030]). Guilbert a ete RETIRE de la version finale du jeu. Sa replique n'est donc pas
+  un fait du monde joue, mais elle est CONSERVEE comme source officielle non jouee et reste
+  exploitable en lore (decision du worldbuilder, 2026-07-25). Elle indique ce que les auteurs
+  tenaient pour vrai des Crucible Knights au moment de l'ecrire.
+- NON DIT : la duree de l'ordre. Aucun texte actif ne le situe ailleurs que sous Godfrey, ni ne
+  dit si le titre passe de generation en generation. Ordovis et Siluria ne sont dates nulle part.
+- CONTRAINTES : (a) l'ordre existe sous Godfrey ; l'etendre jusqu'au Shattering est une DECISION
+  du worldbuilder, pas une lecture du corpus ; (b) leur discredit est explicitement posterieur a
+  leur gloire, donc l'ordre dure assez pour que le jugement s'inverse ; (c) "longest-serving"
+  suppose des durees de service inegales, donc plusieurs membres successifs.
 
 ### TROU 4 - Que cherche Devonia, et qu'est-ce que la "mother of Crucibles" ?
 - DIT : Devonia a quitte seule les terres de l'Erdtree en quete de l'origine du Crucible ; le
@@ -158,8 +159,8 @@ these ashes dwells."
 
 - Cosmologie/Erdtree.md (fait, TROU 1 et TROU 3), Systemes/Golden_Order.md
 - Factions/Crucible_Knights.md, Factions/Hornsent.md, Systemes/Omen.md [A BUILDER] - cf. TROU 1
-- _Observations_Visuelles.md : rien d'enregistre sur le Crucible. Apparence des chevaliers,
-  teinte de l'or, forme des aspects : design, donc [VISUEL] a alimenter.
+- _Observations_Visuelles.md : rien sur le Crucible. Apparence des chevaliers, teinte de l'or,
+  forme des aspects : design, donc [VISUEL] a alimenter.
 
 ---
 

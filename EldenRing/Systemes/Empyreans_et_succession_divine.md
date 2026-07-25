@@ -8,7 +8,7 @@ Toute affirmation non balisee est ETABLIE : texte du jeu, source entre parenthes
 
 Le corpus ne definit jamais le mot. Il le pose par contraste et par destination.
 
-Contraste : "An Empyrean...is no mere demigod." (_Corpus/ER_Talk_07.md, Sage Gowry, replique
+Contraste : "An Empyrean...is no mere demigod." (_Corpus/ER_Talk_07.md, Sage Gowry,
 [349051020]). Destination : "the precious Empyrean was born. A new god to forge a new Order."
 ([349051040])
 
@@ -18,8 +18,8 @@ single god. As such they are both Empyreans, but suffered afflictions from birth
 divine la RAISON du statut.
 
 Le statut est natif : "She was born an Empyrean, carrying the scarlet rot."
-(_Corpus/ER_Talk_07.md, replique [349051010]). Il tient a la lignee : l'oeil de Miquella est
-"a vessel of soaring grace. Proof of his Empyrean lineage." (_Corpus/SOTE_Talk_01.md, replique
+(_Corpus/ER_Talk_07.md, [349051010]). Il tient a la lignee : l'oeil de Miquella est
+"a vessel of soaring grace. Proof of his Empyrean lineage." (_Corpus/SOTE_Talk_01.md,
 [1160400030] ; locuteur : "[1160650010] I am Ansbach.").
 
 Sont nommes Empyreans : Ranni, Miquella et Malenia - "[106200010] I was once an Empyrean."
@@ -43,16 +43,16 @@ assassins."
 Un vassal-ombre accompagne la designation : "[106200040] Which is when I received Blaidd. In the
 form of a vassal tailored for an Empyrean." (_Corpus/ER_Talk_01.md), confirme par Iji : "The Two
 Fingers gave Blaidd to Lady Ranni, as a faithful follower. Her very shadow, incapable of
-treachery." (_Corpus/ER_Talk_02.md, replique [224060020])
+treachery." (_Corpus/ER_Talk_02.md, [224060020])
 
 C'est un dispositif de controle : "But if Lady Ranni, as an Empyrean, resists being an instrument
 of the Two Fingers," ([224060030]) "the shadow will go mad, transforming from a follower into a
 horrid curse." ([224060040])
 
 Le terme technique n'apparait que deux fois : "Maliketh was a shadowbound beast given to his
-Empyrean." (_Corpus/ER_Goods_01.md, Remembrance of the Black Blade) et, dans la bouche d'un
-locuteur, "[216812000] I...am shadowbound." (_Corpus/ER_Talk_02.md), bloc ou il dit aussi
-"[216808020] Fine. I am Ranni's shadow and it's for her that I fight."
+Empyrean." (_Corpus/ER_Goods_01.md, Remembrance of the Black Blade) et dans la bouche de Blaidd,
+"[216812000] I...am shadowbound." (_Corpus/ER_Talk_02.md, bloc ou il dit aussi
+"[216808020] Fine. I am Ranni's shadow and it's for her that I fight.")
 
 ## God, Elden Lord, consort
 
@@ -60,12 +60,12 @@ Le dieu et le lord vont par paire.
 
 - "[102012000] Queen Marika is the vessel of the Elden Ring, carrier of its vision."
   "[102012010] A god, in truth." (_Corpus/ER_Talk_01.md, Finger Reader Enia)
-- L'instruction des Fingers rapportee par Enia, replique [102012070] : "Confer Great Runes to
+- L'instruction des Fingers rapportee par Enia, [102012070] : "Confer Great Runes to
   become Elden Lord, and join Queen Marika as her consort."
 - La regle enoncee hors de Marika : "Ranni is an Empyrean, meaning her consort would by rights
   earn the title of lord." (_Corpus/ER_Goods_02.md, Dark Moon Ring)
 
-Le consort peut agir sur l'accession elle-meme : "Wishing to raise Miquella to full godhood, Mohg
+Le consort peut agir sur l'accession : "Wishing to raise Miquella to full godhood, Mohg
 wished to become his consort, taking the role of monarch." (_Corpus/ER_Goods_01.md, Remembrance
 of the Blood Lord). Sans effet : "he received no response from the young Empyrean." (meme entree)
 
@@ -73,11 +73,11 @@ Le rite de la tour en fait une condition : "A lord will usher in a god's return,
 lord's soul will require a vessel." (_Corpus/SOTE_Goods_01.md, Secret Rite Scroll)
 
 Les deux voies sont ouvertes aux demigods : "[100101020] Make of thyselves that which ye desire.
-Be it a Lord. Be it a God." (_Corpus/ER_Talk_01.md, introduit par "[100101000] In Marika's own
-words.")
+Be it a Lord. Be it a God." - paroles de Marika recitees par Melina, section ouverte par
+"[100101000] In Marika's own words." (_Corpus/ER_Talk_01.md)
 
 King Consort n'emporte pas la divinite : "[100102020] Thou'rt yet to become me. Thou'rt yet to
-become a god." (adresse a Radagon, meme source)
+become a god." - Marika a Radagon, recitee de meme par Melina (meme source)
 
 ## Vaisseaux et corps
 
@@ -106,9 +106,9 @@ Tower of Shadow Message)
 - DIT : "As such they are both Empyreans" ; "She was born an Empyrean" ; "Proof of his Empyrean
   lineage" ; Ranni est Empyrean (Dark Moon Ring).
 - NON DIT : le critere ne couvre pas Ranni, dite "One of the children born to King Consort Radagon
-  and his first wife, Renalla." (_Corpus/ER_Talk_06.md, Sorcerer Rogier, replique [325030030]) -
-  le corpus n'appelle dieu ni Radagon, a qui il est justement dit "Thou'rt yet to become a god",
-  ni Rennala.
+  and his first wife, Renalla." (_Corpus/ER_Talk_06.md, Sorcerer Rogier, [325030030]) - le corpus
+  n'appelle dieu ni Radagon, a qui Marika dit justement "Thou'rt yet to become a god", ni
+  Rennala.
 - CONTRAINTES : (a) le statut est natif, jamais confere par les Fingers, qui ne font que CHOISIR
   parmi des Empyreans ; (b) il se lit dans la chair et la lignee ; (c) tout critere doit inclure
   Ranni ; (d) il doit valoir hors de la descendance de Marika, la Gloam-Eyed Queen etant dite

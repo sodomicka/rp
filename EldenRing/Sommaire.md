@@ -1,6 +1,6 @@
 # Sommaire - Elden Ring
 
-- version : W7
+- version : W9
 
 Carte de navigation du WIKI EldenRing et de Parties/EldenRing/.
 Perimetre : ELDEN RING, SHADOW OF THE ERDTREE, ELDEN RING NIGHTREIGN.
@@ -108,7 +108,16 @@ Decision du worldbuilder (2026-07-24) : continuite SEPAREE, avec pont balise.
 
 Doctrine graduee. Un fait sans balise est ETABLI, c'est-a-dire enonce dans le texte du jeu et
 localise dans le corpus. Sinon : `[IMPLICITE]`, `[INTERPRETATION]`, `[INCERTAIN]`,
-`[DIVERGENCE RP]`, plus `[SOURCE NIGHTREIGN]` et `[VISUEL]` propres a cet univers.
+`[DIVERGENCE RP]`, plus `[SOURCE NIGHTREIGN]`, `[VISUEL]` et `[COUPE]` propres a cet univers.
+
+`[COUPE]` : contenu present dans les fichiers du jeu mais RETIRE de la version finale. Le dump
+est un dump de fichiers, pas de contenu joue : il contient des PNJ coupes que rien ne distingue
+du contenu actif. Ce contenu est CONSERVE et EXPLOITABLE (decision du worldbuilder,
+2026-07-25) : ce n'est pas un fait du monde joue, mais c'est une source officielle de
+FromSoftware, donc du materiau de lore legitime - au-dessus d'une theorie de fans, en dessous du
+contenu joue. Un trou comble par cette voie garde la balise, donc reste revocable. Le MJ ne peut
+pas detecter ces cas seul ; ils sont signales par le worldbuilder. Cas connu : Guilbert.
+Detail : cf. _Corpus/_Attributions_Validees.md.
 
 Regle de citation : toute affirmation d'une page redigee doit etre retrouvable dans le corpus a
 l'emplacement indique. Une citation est reproduite a la casse et a la lettre.
@@ -131,7 +140,12 @@ Description : pages de travail et index.
 Description : SOURCE PRIMAIRE. Texte integral du jeu, nettoye ASCII, non redige. Tient le role
 de catalogue exhaustif. JAMAIS fetche en narration.
 - _Index_Corpus.md (W1) - inventaire des 37 fichiers de corpus
-- 39 fichiers de corpus - detail : cf. _Index_Corpus.md
+- 41 fichiers de corpus - detail : cf. _Index_Corpus.md
+- _Table_Locuteurs.md (W1) - table identifiant / personnage, etablie par auto-identification
+  dans le texte. 53 entrees. Limite : dit qu'un bloc CONTIENT une identification, pas que
+  toutes ses repliques sont du meme locuteur.
+- _Attributions_Validees.md (W1) - decisions d'attribution prises avec le worldbuilder. FONT
+  AUTORITE sur les pages. Porte l'alerte CONTENU COUPE.
 - NR_Names_01.md et NR_Names_02.md (W1) - ELDEN RING NIGHTREIGN, NOMS SEULS, aucun lore.
   EXCLUS du perimetre des pages Elden Ring et de tout comptage d'occurrences.
 

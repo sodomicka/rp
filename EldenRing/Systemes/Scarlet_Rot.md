@@ -13,8 +13,8 @@ Deux entrees jumelles partagent la seconde proposition et divergent sur la premi
 - "Rot is one of the divine elements of the outer gods, and eats away at life like a vicious
   plague." (_Corpus/SOTE_Goods_01.md, Hefty Rot Pot)
 
-L'une localise une SOURCE, l'autre qualifie une NATURE et parle d'outer gods au PLURIEL ; le
-corpus ne les articule jamais. Elle se travaille : "After the church was burned to the ground,
+L'une localise une SOURCE, l'autre une NATURE, et parle d'outer gods au PLURIEL ; le corpus
+ne les articule jamais. Elle se travaille : "After the church was burned to the ground,
 Romina discovered a twisted divine element, which she weaved into the baleful scarlet rot."
 (_Corpus/SOTE_Goods_01.md, Remembrance of the Saint of the Bud)
 
@@ -25,9 +25,9 @@ Elle atteint aussi l'esprit : "But the rotting sickness erodes one's memory."
 (_Corpus/ER_Talk_07.md, Sage Gowry, [349022050]) et, sur Radahn, "Eaten from the inside, by
 Malenia's scarlet rot, his wits are long gone." (_Corpus/ER_Talk_01.md, [20391100])
 
-Terres : Caelid en est marquee de part en part, et fut le lieu de la derniere bataille
-Radahn-Malenia (_Corpus/ER_Goods_03.md, Map: Caelid). D'autres terres, non nommees, sont
-atteintes : "Grows in lands blighted by the scarlet rot." (_Corpus/SOTE_Goods_02.md, Scarlet Bud)
+Terres : Caelid en est marquee de part en part, lieu de la derniere bataille Radahn-Malenia
+(_Corpus/ER_Goods_03.md, Map: Caelid). D'autres terres, non nommees, sont atteintes : "Grows
+in lands blighted by the scarlet rot." (_Corpus/SOTE_Goods_02.md, Scarlet Bud)
 
 Ce qui la tient en echec : le FEU - "The Great Rune burns, to resist the encroachment of the
 scarlet rot." (_Corpus/ER_Goods_01.md, Radahn's Great Rune et Redmane Fire Pot ; aussi Flame,
@@ -52,8 +52,8 @@ Scarlet Aeonia)
 Le seul lieu de floraison nomme est Aeonia : "When Malenia, Blade of Miquella, let the rotflower
 blossom in Aeonia, Radahn heard a murmur in his ear-" (_Corpus/SOTE_Armor.md, Young Lion's
 Helm) ; aussi Sage Gowry, [349051050], et _Corpus/ER_Events.md, The Battle of Aeonia. Vaincue,
-elle annonce un retour : "One day, the scarlet bloom will flower again..."
-(_Corpus/ER_Talk_01.md, [203904030]).
+Malenia annonce un retour : "One day, the scarlet bloom will flower again..."
+(_Corpus/ER_Talk_01.md, Malenia, [203904030]).
 
 ## L'Order of Rot et les Kindred of Rot
 

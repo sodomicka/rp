@@ -6,18 +6,18 @@ Toute affirmation non balisee est ETABLIE : enoncee dans le jeu, localisee entre
 
 ## L'expression et son extension
 
-"golden lineage" compte 10 occurrences au corpus hors Nightreign, dont une est un nom de lieu,
-"Golden Lineage Evergaol" (_Corpus/ER_Places.md). Le mot "dynasty" (31 occurrences) n'est
-jamais applique a cette lignee.
+"golden lineage" : 10 occurrences au corpus hors Nightreign, dont un nom de lieu, "Golden
+Lineage Evergaol" (_Corpus/ER_Places.md). "dynasty" (31 occurrences) n'est jamais applique a
+cette lignee.
 
-La definition la plus explicite la fait descendre de Godfrey : "The first
+La definition la plus explicite la rattache a Godfrey : "The first
 demigods were The Elden Lord Godfrey and his offspring, the golden lineage."
-(_Corpus/ER_Goods_01.md, Godrick's Great Rune). Godfrey en est nomme le patriarche : "This
+(_Corpus/ER_Goods_01.md, Godrick's Great Rune). Il en est le patriarche : "This
 golden battleaxe is emblazoned with the figure of a beast, representing the strength of Godfrey,
 First Elden Lord and patriarch of the golden lineage." (_Corpus/ER_Weapons_01.md, Axe of
 Godrick)
 
-Ses deux emblemes sont la hache et la bete : "This weapon is symbolic of Godfrey's vow to
+Ses emblemes, la hache et la bete : "This weapon is symbolic of Godfrey's vow to
 conduct himself as a lord, later becoming an emblem of the golden lineage."
 (_Corpus/ER_Weapons_01.md, Axe of Godfrey) ; "The surcoat depicts the distant Erdtree and the
 beast regent, an emblem of the golden lineage." (_Corpus/ER_Armor_02.md, Tree-and-Beast Surcoat)
@@ -29,11 +29,11 @@ lineage." (_Corpus/ER_Weapons_02.md, Golden Beast Crest Shield)
 
 Sa fonction est un bridage : "When he vowed to become a lord, he took the Beast Regent
 Serosh upon on his back to suppress the ceaseless lust for battle that raged within."
-(_Corpus/ER_Talismans.md, Godfrey Icon) Il s'en defait ensuite - "Thou didst me good
+(_Corpus/ER_Talismans.md, Godfrey Icon) Il s'en defait - "Thou didst me good
 service, Serosh." puis "Now I fight as Hoarah Loux!" (_Corpus/ER_Talk_01.md, repliques
 [20080200] et [20080700] ; locuteur auto-nomme, "Upon my name as Godfrey,").
 
-Second nom, celui d'un chef : "Hoarah Loux, chieftain of the badlands." (_Corpus/ER_Talk_01.md,
+Second nom : "Hoarah Loux, chieftain of the badlands." (_Corpus/ER_Talk_01.md,
 replique [15000300]). Sa chute emporte ses proches : "When Godfrey,
 first Elden Lord was robbed of his grace, becoming Tarnished, he took with him his kinfolk and
 left the Lands Between." (_Corpus/ER_Goods_01.md, Remembrance of Hoarah Loux)
@@ -61,7 +61,7 @@ Le corpus n'en enonce pas d'autres pour les demigods.
 
 ## Les deux ages nommes d'apres un souverain
 
-Le corpus nomme de nombreux ages ; deux seulement portent un nom de souverain : "The Erdtree's
+Deux seulement portent un nom de souverain : "The Erdtree's
 old sap becomes amber, treasured as the most
 precious of jewels in the age of Godfrey, the first Elden Lord." (_Corpus/ER_Talismans.md,
 Crimson Amber Medallion) et "The practice had died out by the age of King Consort Radagon, but
@@ -70,8 +70,8 @@ remains of the arenas where ritual combat took place can still be found in every
 
 Du cote de Rennala : "left her to become Queen Marika's second husband, taking the title of King
 Consort." (_Corpus/ER_Talk_06.md, replique [324026040]). Et : "To think, that Radagon was Marika herself."
-(_Corpus/ER_Talk_07.md, replique [351052000]) - Corhyn donne cela comme une deduction, pas comme
-un constat. [INCERTAIN]
+(_Corpus/ER_Talk_07.md, replique [351052000]) - Corhyn le donne comme deduction, pas comme
+constat. [INCERTAIN]
 
 ## Trous et contraintes de comblement
 
@@ -84,10 +84,11 @@ un constat. [INCERTAIN]
   and Radagon, who became demigod stepchildren after Radagon's union with Queen Marika."
   (_Corpus/ER_Goods_01.md, Radahn's Great Rune), idem Rykard (Rykard's Great Rune).
 - NON DIT : Godfrey et Marika ne coexistent JAMAIS dans une meme phrase du corpus, sauf une
-  adresse : "Hark, brave warriors. Hark, my lord Godfrey. We commend your deeds."
-  (_Corpus/ER_Talk_01.md, replique [100104010], introduite par "In Marika's own words."). Aucun
-  texte ne dit que Godfrey fut l'epoux de Marika, ni que Marika soit mere des enfants de
-  Godfrey.
+  adresse de MARIKA, recitee par Melina : "Hark, brave warriors. Hark, my lord Godfrey. We
+  commend your deeds." (_Corpus/ER_Talk_01.md, replique [100104010] ; section ouverte par "In
+  Marika's own words." - Melina porte la voix, les paroles sont de Marika). Marika l'y nomme
+  "my lord", mais aucun texte ne dit qu'il fut son epoux, ni que Marika soit mere des enfants
+  de Godfrey.
 - CONTRAINTES : (a) Radagon est atteste comme SECOND epoux, ce qui impose un premier jamais
   nomme ; (b) "stepchildren" cree une categorie de demigods qui ne descendent pas de Marika,
   donc "each and all the direct offspring" est soit faux au sens strict, soit emploie "demigod"
