@@ -1,8 +1,9 @@
 # Timeline_Double
 
-- version : W1
+- version : W2
 
 Double chronologie Paris / Canvas. Conversion ASCII de la source du worldbuilder (TimelineDouble). Ratio depuis l'entree d'Aline : 1 jour Paris = 12 ans Canvas (cf. Systemes/Gommage_Monolithe.md).
+Conventions de calcul : nombre du Monolithe = 100 - an Canvas ; numero d'expedition = nombre affiche l'annee du depart (liste exhaustive confirmee 2026-07-28) ; heures Paris approximees depuis l'entree de Renoir (~17 janvier matin) a raison de 2 h par an Canvas.
 
 ## TIMELINE PARIS - Naissances
 
@@ -22,13 +23,13 @@ Double chronologie Paris / Canvas. Conversion ASCII de la source du worldbuilder
 |---|---|---|---|---|
 | ~1889 | Creation du Canvas ; temps s'ecoule mais etat stagne | - (Monolithe inexistant) | Verso (10 ans) peint le Canvas avec aide de Clea | Unique tableau de Verso |
 | 1889-1905 | Le temps passe dans le Canvas, mais son etat stagne | - (Monolithe inexistant) | Enfance partagee - Verso, Clea, Simon | - |
-| ete 1895 | Le temps passe dans le Canvas, mais son etat stagne | - (Monolithe inexistant) | Mariage de Simon et Clea (19 ans) | - |
-| ~33 decembre 1905 | Le temps passe dans le Canvas, mais son etat stagne | - (Monolithe inexistant) | Incendie du Manoir Dessendre | Mort de Verso, Alicia defiguree |
+| ete 1895 | Le temps passe dans le Canvas, mais son etat stagne | - (Monolithe inexistant) | Mariage de Simon (18 ans) et Clea (19 ans) | Le couple s'installe en appartement (divergence RP actee) |
+| ~33 decembre 1905 | Le temps passe dans le Canvas, mais son etat stagne | - (Monolithe inexistant) | Incendie du Manoir Dessendre : Alicia, plongee dans un ouvrage des Ecrivains, ouvre malgre elle la porte a leur magie | Verso meurt en sortant Alicia des flammes ; Alicia defiguree, gorge brulee |
 | ~mi-janvier 1906 | Le temps passe dans le Canvas, mais son etat stagne | - (Monolithe inexistant) | Fin du deuil officiel | Pression du Conseil |
 | ~16 janvier 1906 (Jour -6) | an -6 Canvas | - (Monolithe inexistant) | Aline entre dans le Canvas | - |
-| ~17 janvier 1906 matin (Jour -5,5) | an 0 Canvas | 100 (au moment de sa creation) | Renoir entre ; Aline cree le Monolithe | - |
+| ~17 janvier 1906 matin (Jour -5,5) | an 0 Canvas | 100 (au moment de sa creation) | Renoir entre ; Aline cree le Monolithe | Fracture ; Expedition 0 |
 | ~18 janvier 1906 (Jour -4) | ~an 18-25 Canvas | 82 a 75 | Premiere intervention de Clea - cree les Nevrons | - |
-| ~19-20 janvier 1906 (Jour -3 a -2) | ~an 30-50 Canvas | 70 a 50 | Interventions de Clea - corruption Simon peint, repeinte Clea peinte | - |
+| ~19-20 janvier 1906 (Jour -3 a -2) | ~an 30-50 Canvas | 70 a 50 | Interventions de Clea - corruption Simon peint, mort du Porteur, repeinte Clea peinte | - |
 | ~21 janvier 1906 matin (Jour -1,3) | an 50 Canvas | 50 | Alicia entre (devient Maelle) | ~32 h avant le Conseil |
 | ~22 janvier 1906 ~10 h (Jour 0) | an 66 Canvas | 34 | Seance du Conseil - Simon et Clea entrent dans le Canvas | Debut de l'histoire |
 
@@ -46,30 +47,48 @@ Double chronologie Paris / Canvas. Conversion ASCII de la source du worldbuilder
 | an -6 | ~16 janvier 1906 | - (Monolithe inexistant) | Aline entre ; peuple Lumiere de copies de Parisiens |
 | an -6 a an 0 | ~16 janvier -> ~17 janvier 1906 matin | - (Monolithe inexistant jusqu'a an 0) | Regne de la Peintresse |
 
-## TIMELINE LUMIERE - La Fracture et le Monolithe
+## TIMELINE LUMIERE - La Fracture et l'Expedition 0
 
 | Date Canvas | Date reelle | Nombre sur le Monolithe | Evenement |
 |---|---|---|---|
 | an 0 | ~17 janvier 1906 matin | - (juste avant la creation) | Renoir entre ; confronte Aline ; declenche la Fracture |
-| an 0 | ~17 janvier 1906 matin | 100 | Aline cree le Monolithe |
+| an 0 | ~17 janvier 1906 matin | 100 | Aline cree le Monolithe et y scelle Renoir |
 | an 0 | ~17 janvier 1906 matin | 100 | Fracture geographique : Vieille Lumiere / Nouvelle Lumiere |
-| an 0 | ~17 janvier 1906 matin | 100 | Depart de l'Expedition 0 |
-| an 0 et apres | a partir du ~17 janvier 1906 matin | 100 puis decroissant | Renoir cree les Axons, devient le Conservateur |
+| an 0 | ~17 janvier 1906 matin | 100 | Depart de l'Expedition 0 (recherche de survivants) : commandant Renoir peint ; a bord les Verso, Simon et Julie peints, Claude, Louise, Dion, et d'autres |
+| an 0 | ~17 janvier 1906 matin | 100 | Julie percoit l'immortalite de Verso ; enlevement et interrogatoire (avec Claude, Louise, Dion) ; la famille peinte tue le reste de l'expedition pour le secret |
+| an 0 | ~17 janvier 1906 matin | 100 | Ultimatum : Simon rejoint la famille peinte (porte disparu a Lumiere) ; Julie refuse et est executee par Verso, sur verdict du Renoir peint |
+| an 0 et apres | a partir du ~17 janvier 1906 matin | 100 puis decroissant | Renoir cree les Axons ; sa projection devient le Conservateur |
 | an 1 et suivantes | a partir du ~17 janvier 1906 | 99, 98, 97... (decroit de 1 par an Canvas) | Gommages annuels du Monolithe |
+
+## TIMELINE LUMIERE - Expeditions (reprise et jalons)
+
+| Date Canvas | Date reelle | Nombre sur le Monolithe | Evenement |
+|---|---|---|---|
+| an ~1-15 | ~17-18 janvier 1906 | 99 a 85 | Aucune expedition (~15 ans d'interruption) |
+| an 16 | ~18 janvier 1906 | 84 | Reprise : Expedition 84 (dirigeable, piste froide de l'Exp 0) |
+| an 19 / an 22 | ~18-19 janvier 1906 | 81 / 78 | Expeditions sporadiques "curieuses" : premier Nevron communicant (81) ; dissidence anti-Conseil (78) |
+| an 29 | ~19 janvier 1906 | 71 | Annualisation des expeditions (Exp 71) - reflexe de survie |
+| an 34 | ~19-20 janvier 1906 | 66 | Exp 66 : constat d'echec ("rien appris, rien accompli") |
+| an 40 | ~20 janvier 1906 | 60 | Exp 60 : verite percee ("visez le fond du Monolithe"), avertissement perdu |
+| an 42 | ~20 janvier 1906 | 58 | Exp 58 : Vieille Lumiere decouverte ; info du Conservateur-forgeron ; effacee par Renoir |
+| an 44 | ~20-21 janvier 1906 | 56 | Exp 56 : capture de l'Alicia peinte |
+| an 54 | ~21 janvier 1906 | 46 | Exp 46 : mort de Brigitte, mere de Lune |
+| an 66 | ~22 janvier 1906 | 34 | Exp 34 en cours au Jour 0 |
 
 ## TIMELINE LUMIERE - Interventions de Clea
 
 | Date Canvas | Date reelle | Nombre sur le Monolithe | Evenement |
 |---|---|---|---|
 | ~an 18-25 | ~18 janvier 1906 (Jour -4) | 82 a 75 | Clea cree les Nevrons |
-| ~an 30-40 | ~19 janvier 1906 (Jour -3) | 70 a 60 | Clea corrompt le Simon peint |
-| ~an 40-50 | ~19-20 janvier 1906 (Jour -3 a -2) | 60 a 50 | Clea kidnappe et repeint la Clea peinte |
+| ~an 30-40 | ~19 janvier 1906 (Jour -3) | 70 a 60 | Clea corrompt le Simon peint - il la prend pour son epouse peinte |
+| ~an 30-42 | ~19-20 janvier 1906 | 70 a 58 | Le Porteur abattu par le Simon peint, sur ordre de la Clea reelle [fenetre a affiner] |
+| ~an 40-50 | ~19-20 janvier 1906 (Jour -3 a -2) | 60 a 50 | Clea enleve et repeint la Clea peinte ; usine a Nevrons au Manoir volant |
 
 ## TIMELINE LUMIERE - Arrivee d'Alicia et present
 
 | Date Canvas | Date reelle | Nombre sur le Monolithe | Evenement |
 |---|---|---|---|
-| an 50 | ~21 janvier 1906 matin (Jour -1,3) | 50 | Alicia entre - re-nee sous le nom de Maelle |
+| an 50 | ~21 janvier 1906 matin (Jour -1,3) | 50 | Alicia entre pour aider ses parents (Clea lui suggere d'aider Renoir) - re-nee sous le nom de Maelle, repeinte bebe par Aline |
 | an ~50-51 | ~21 janvier 1906 | 50-49 | Clea missionne le Verso peint : veiller sur Maelle |
 | an 66 | ~22 janvier 1906 ~10 h (Jour 0) | 34 | Point de depart du RP |
 
