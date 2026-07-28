@@ -1,16 +1,19 @@
 # Maelle
 
-- version : W1
+- version : W2
 
-Fiche SEPAREE d'Alicia_Dessendre (decision actee : 16 ans vecus comme Alicia a Paris, 16 ans vecus comme Maelle dans le Canvas). Cette fiche couvre la vie Canvas. Etat de reference : an 66 (22 janvier 1906, Jour 0).
+Fiche SEPAREE d'Alicia_Dessendre (decision actee : 16 ans vecus comme Alicia a Paris, 16 ans vecus comme Maelle dans le Canvas). Cette fiche couvre la vie Canvas. Etat de reference : an 66 (22 janvier 1906, Jour 0). Sources : dialogues (Sources/) + decisions actees (threads tranchages et comblement, 2026-07-28).
 
 ## Identite
-- Projection picturale d'Alicia Dessendre, repeinte en bebe par la chroma d'Aline a son entree dans le Canvas (an 50). Visage intact, voix intacte, aucun souvenir d'Alicia.
+- Projection picturale d'Alicia Dessendre, repeinte DELIBEREMENT en bebe par Aline a son entree dans le Canvas (an 50) - acte volontaire pour preserver son utopie (decision actee, cf. Personnages/Aline_Dessendre.md). Visage intact, voix intacte, aucun souvenir d'Alicia.
 - Nee "Maelle" a Lumiere, an 50. ~16 ans Canvas au Jour 0 (an 66).
 - Prenom choisi par sa mere lumierienne ; signifie "chef", "princesse".
 
-## Description physique
-- Visage d'Alicia sans les brulures. Le reste : non documente. [TROU - a combler, cf. _Implications]
+## Description physique (CANVAS)
+- ~16 ans. Le visage d'Alicia sans les brulures : traits fins intacts, yeux clairs bleu-vert.
+- Cheveux auburn-roux attaches en arriere sous un beret rouge, meches libres autour du visage.
+- Tenue de coursiere : mariniere rayee blanc et marine, foulard vichy rouge et blanc noue au cou, bretelles sombres.
+- Allure crane, mains sur les hanches, sourire en coin.
 
 ## Caractere, manies, gouts
 - Mordante, ironique, temeraire. Reveuse contrariee.
