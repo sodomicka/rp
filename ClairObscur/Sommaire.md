@@ -1,6 +1,6 @@
 # Sommaire - ClairObscur
 
-- version : W1
+- version : W2
 
 ## WIKI
 
@@ -14,7 +14,7 @@
 Description : regles du monde - peinture, chroma, gommage.
 - Regles_Peinture.md (W1) - les 4 Regles modernes (1882) et l'etat de leurs violations au Jour 0.
 - Chroma_Ames_Tableaux.md (W1) - chroma, coeurs de tableaux, projections/copies/creations, repeindre, le Canvas de Verso.
-- Gommage_Monolithe.md (W2) - ecoulement temporel, Fracture, Monolithe, mecanique du Gommage, protections.
+- Gommage_Monolithe.md (W3) - ecoulement temporel, Fracture, Monolithe, verrou a trois corps, Conservateur-projection, mecanique du Gommage, declin d'Aline.
 
 ### Personnages/
 Description : Parisiens reels (Prenom_Nom) et etres du Canvas (prenom seul) ; une page groupee pour les Axons.
@@ -42,12 +42,12 @@ Description : groupes et institutions.
 ### Lieux/
 Description : cadres de jeu, Paris et Canvas.
 - Paris_Peintres.md (W1) - Paris 1906 cote Peintres ; page lacunaire, decor a definir.
-- Manoir_Dessendre.md (W1) - le manoir reel, l'incendie, ses repliques peintes.
-- Lumiere.md (W2) - Nouvelle et Vieille Lumiere, societe du Gommage, histoire des expeditions.
+- Manoir_Dessendre.md (W2) - le manoir reel, geographie interieure, l'incendie et sa cause, ses repliques peintes.
+- Lumiere.md (W3) - Nouvelle et Vieille Lumiere, societe du Gommage, Expedition 0 (sequence actee), reprise et jalons.
 
 ### Chronologie/
 Description : chronologie de reference.
-- Timeline_Double.md (W1) - double chronologie datee Paris / Canvas, du berceau au Jour 0.
+- Timeline_Double.md (W2) - double chronologie datee Paris / Canvas, du berceau au Jour 0 ; Expedition 0 et jalons d'expeditions.
 
 ### Fiches_Arc/Simon/
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par PERSPECTIVE de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs `arc precedent` / `arc suivant`), pas par un index des roadmaps.
