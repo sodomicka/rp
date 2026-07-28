@@ -1,6 +1,6 @@
 # Sommaire - ClairObscur
 
-- version : W2
+- version : W3
 
 ## WIKI
 
@@ -18,20 +18,20 @@ Description : regles du monde - peinture, chroma, gommage.
 
 ### Personnages/
 Description : Parisiens reels (Prenom_Nom) et etres du Canvas (prenom seul) ; une page groupee pour les Axons.
-- Simon_Noirfusain.md (W1) - prota de reference ; chef Noirfusain, epoux de Clea ; socle OC a completer.
-- Clea_Dessendre_Noirfusain.md (W2) - ainee Dessendre ; guerre contre les Ecrivains ; interventions et balises dans le Canvas.
-- Aline_Dessendre.md (W2) - presidente du Conseil ; la Peintresse ; deuil, journal, protections.
-- Renoir_Dessendre.md (W3) - le Conservateur ; paraboles, Axons, ombres-souvenirs, culpabilite.
-- Alicia_Dessendre.md (W1) - cadette brulee et muette ; utilisee par les Ecrivains ; entree dans le Canvas.
-- Verso_Dessendre.md (W2) - le mort du 33 decembre ; le fragment d'ame, coeur du Canvas, memoire en erosion.
-- Julie_Noirfusain.md (W1) - soeur de Simon, amoureuse de Verso ; socle OC a completer.
-- Maelle.md (W1) - Alicia re-nee sans souvenirs ; 16 ans de vie lumierienne.
-- Verso.md (W2) - copie immortelle ; Exp 0, meurtre de Julie peinte, mission de veille sur Maelle.
-- Renoir.md (W2) - copie fidele a Aline ; commandant de l'Exp 0 ; commanditaire du meurtre de Julie peinte.
-- Clea.md (W1) - copie repeinte par l'originale ; recluse au Manoir volant.
-- Alicia.md (W2) - copie masquee et cicatrisee ; ralliee au Conservateur ; auteure de la lettre.
-- Simon.md (W2) - copie corrompue par la Clea reelle ; tueur du Porteur ; au fond du Monolithe.
-- Julie.md (W2) - copie morte ; a perce le secret du Verso peint ; execution et commanditaire.
+- Simon_Noirfusain.md (W2) - prota de reference ; chef Noirfusain, epoux de Clea ; socle complet (description, caractere, ecole, ascension).
+- Clea_Dessendre_Noirfusain.md (W3) - ainee Dessendre ; guerre contre les Ecrivains ; interventions, balises et Lady of Sap.
+- Aline_Dessendre.md (W3) - presidente du Conseil, "Mere de la Projection Picturale moderne" ; ses trois visages (femme, projection, geante-symbole) ; deuil, journal, protections.
+- Renoir_Dessendre.md (W4) - "le Conseiller Dessendre" ; le Conservateur, allie des expeditions ; paraboles, Axons, ombres-souvenirs, culpabilite.
+- Alicia_Dessendre.md (W2) - cadette brulee et muette (ardoise, visage nu) ; utilisee par les Ecrivains ; cachette du Canvas ; entree dans le Canvas.
+- Verso_Dessendre.md (W3) - le mort du 33 decembre ; le fragment d'ame tiraille, coeur du Canvas, memoire en erosion.
+- Julie_Noirfusain.md (W2) - soeur de Simon, amoureuse de Verso ; socle complet (caractere, description via sa copie).
+- Maelle.md (W2) - Alicia re-nee sans souvenirs ; 16 ans de vie lumierienne ; la coursiere au beret rouge.
+- Verso.md (W3) - copie immortelle figee a 26 ans, usee ; Exp 0, meurtre de Julie peinte, loyaute en deux phases, mission de veille sur Maelle.
+- Renoir.md (W3) - copie idealisee par Aline, "l'homme aux cheveux blancs" ; commandant de l'Exp 0, destructeur d'expeditions, commanditaire du meurtre de Julie peinte.
+- Clea.md (W2) - copie repeinte par l'originale ; recluse au Manoir volant, usine a Nevrons.
+- Alicia.md (W3) - copie masquee et cicatrisee, etre de grisaille ; sentence d'Aline ; ralliee au Conservateur ; auteure de la lettre.
+- Simon.md (W3) - copie docile corrompue par la Clea reelle ; tueur du Porteur ; coquille vide aux deux amours, au fond du Monolithe.
+- Julie.md (W3) - copie morte a l'an 0 (Expedition 0) ; a perce le secret du Verso peint ; execution et commanditaire.
 - Axons.md (W3) - l'Aspirante, le Porteur (mort), Visages, Sirene ; paraboles et ombres-souvenirs.
 
 ### Factions/
