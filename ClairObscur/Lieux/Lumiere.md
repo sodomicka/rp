@@ -1,15 +1,16 @@
 # Lumiere
 
-- version : W3
+- version : W4
 
 Ville principale du Canvas de Verso. Etat de reference : an 66 (Jour 0). Sources : dialogues + journaux d'expeditions (Sources/Journaux_Collectibles.md).
 
 ## Nature et origine
-- Copie realiste de Paris, peuplee par Aline (an -6) de copies conformes de Parisiens (violation des regles 2 et 4, cf. Systemes/Regles_Peinture.md).
+- A l'origine (~1889, Verso et Clea) : ville VIDE d'habitants, copie revisitee de Paris - style haussmannien, tour Eiffel, arc de triomphe, champ de Mars, tout en revisite, jamais a l'identique. Aucune regle violee (cf. Systemes/Regles_Peinture.md).
+- Peuplee par Aline (an -6) de copies conformes de Parisiens : c'est ce peuplement qui viole les regles 2 et 4.
 - Vie pre-Fracture attestee : Conservatoire de musique, salle de concert, opera, boulangeries (Angelique's Boulangerie, devenue Mathilde's), festivals, jardins, bals sur le port.
 
 ## La Fracture (an 0)
-- Le quartier de Lumiere est arrache du continent et jete a la mer ; il survit sur une ile, sous un Dome. Le reste de la ville - la Vieille Lumiere - demeure sur le continent, en ruines, peuple de Nevrons.
+- Le quartier de Lumiere est arrache du continent et jete a la mer, pile a l'oppose du Monolithe ; il survit sur une ile, sous un Dome. A cette distance, le figement du temps ne tient plus : les habitants vieillissent, et le Gommage trouve prise (cf. Systemes/Gommage_Monolithe.md). Le reste de la ville - la Vieille Lumiere - demeure sur le continent, en ruines, peuple de Nevrons.
 - "Comment notre morceau de Lumiere a fini sur une ile quand le reste de la ville est ici" reste un mystere pour les habitants eux-memes.
 
 ## Nouvelle Lumiere (l'ile, au Jour 0)
@@ -48,7 +49,7 @@ Sequence actee par le worldbuilder (2026-07-28), remplace le recit anterieur :
 - Le Monolithe et sa Barriere de chroma dense (cf. Systemes/Gommage_Monolithe.md).
 - Iles des Axons autour du Monolithe - chaque ile porte le nom de son Axon (cf. Personnages/Axons.md).
 - Le Serpent des mers : Nevron marin colossal qui interdit l'ocean (a detruit la Roue de l'Exp 50 et les sous-marins de l'Exp 43).
-- Peuples et creatures d'origine (~an -70 000 fictif) : Grandis (replies sur les hauteurs apres l'invasion nevronne ; non affectes par le Gommage - Exp 65), Gestrals (villages, arenes ; decimes par la Fracture, "forets pleines de Gestrals en attente de renaissance"), Esquie, Francois, Monoco, Noco.
+- Peuples et creatures d'origine (~an -75 000 ; histoire reellement ecoulee en etat stagnant, cf. Systemes/Gommage_Monolithe.md) : Grandis (replies sur les hauteurs apres l'invasion nevronne ; non affectes par le Gommage - Exp 65), Gestrals (villages, arenes ; decimes par la Fracture, "forets pleines de Gestrals en attente de renaissance"), Esquie, Francois, Monoco, Noco.
 - Nevrons : creations de Clea (an 18-25), hostiles ; production entretenue depuis par la Clea peinte, transformee en usine a Nevrons (cf. Personnages/Clea.md) ; certains crees par Renoir [source : "comme les Axons, ce sont les creations de Papa, pas de Clea"]. Cas singuliers : un Nevron communicant (Exp 81), le Tisseur de Sirene, l'Orphelin batisseur de l'Aspirante.
 
 ## Trajectoire datee

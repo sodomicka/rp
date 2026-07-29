@@ -1,13 +1,24 @@
 # Manoir_Dessendre
 
-- version : W2
+- version : W3
 
 ## Le manoir reel (Paris)
 - Demeure de la famille Dessendre. Localisation dans Paris : non documentee. [TROU]
 - Geographie interieure (actee 2026-07-28) : chambres de Verso et d'Alicia voisines ; ancienne chambre de Clea et appartements d'Aline et de Renoir dans l'aile opposee.
 - Divergence RP actee : Clea et Simon ne vivent pas au Manoir - ils occupent un appartement parisien. Localisation et description de l'appartement : [TROU].
-- Abrite l'atelier de Renoir (au bout d'un corridor ; Alicia connait le chemin par coeur).
-- Le Canvas de Verso y etait garde [IMPLICITE] jusqu'au 21 janvier 1906, date a laquelle Alicia l'a deplace vers une cachette de son choix avant d'y entrer [lieu de la cachette : INCERTAIN, cf. _Implications].
+- L'atelier de Renoir : la piece du fond du manoir, la plus grande, au bout d'un corridor (Alicia connait le chemin par coeur). Il abrite un grand chevalet.
+- La reserve cachee (actee 2026-07-29) : derriere le buffet du salon, une piece dissimulee prevue contre les Ecrivains pour abriter les oeuvres les plus cheres emotionnellement a la famille. Jamais utilisee a cette fin : elle ne contient que de vieux tableaux. Connue des cinq Dessendre (Aline, Renoir, Clea, Verso, Alicia) ; Simon et Julie Noirfusain en ignorent l'existence.
+
+## Le parcours du Canvas (janvier 1906)
+- Le Canvas de Verso etait garde au sous-sol du manoir.
+- Inconsolable apres la mort de son fils, Aline le remonte du sous-sol et l'installe sur le grand chevalet de l'atelier de Renoir. Elle s'y plonge d'abord pour le redecouvrir ; Renoir la laisse faire.
+- Son sejour s'etire (~16 janvier, an -6 Canvas). Renoir, qui sait le tableau au ratio standard (1 an Canvas = 2 h Paris), finit par entrer a son tour (~17 janvier matin, an 0).
+- Le 21 janvier, Clea et Alicia cachent le Canvas dans la reserve - cachette choisie par Alicia. Alicia s'y projette depuis la reserve et se fait repeindre a son arrivee par Aline (-> Maelle). Pari d'Alicia : Aline ne pensera pas a cette reserve. Avis de Clea : elle la trouvera, mais non sans chercher.
+
+## Les corps (etat au Jour 0)
+- Aline et Renoir : figes dans l'atelier, a l'endroit de leur entree, yeux recouverts de peinture. Le deplacement du Canvas les a laisses sur place - la projection se maintient a distance, mais se replonger apres une sortie exigerait de retrouver le tableau (cf. Systemes/Chroma_Ames_Tableaux.md).
+- Alicia : figee dans la reserve, aupres du Canvas.
+- La Clea reelle maintient les trois corps hydrates ; la nourriture, elle, manque. Elle garde seule le secret face au Conseil, la situation s'etant mise a violer plusieurs Regles de 1882.
 
 ## L'incendie (33 decembre 1905)
 - Origine : Alicia, plongee dans la lecture d'un ouvrage des Ecrivains, a ouvert malgre elle la porte a leur magie (cf. Factions/Ecrivains.md). Une attaque, pas un accident.
