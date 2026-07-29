@@ -1,8 +1,8 @@
 # Timeline_Double
 
-- version : W3
+- version : W4
 
-Double chronologie Paris / Canvas. Conversion ASCII de la source du worldbuilder (TimelineDouble). Ratio depuis l'entree d'Aline : 1 jour Paris = 12 ans Canvas (cf. Systemes/Gommage_Monolithe.md).
+Double chronologie Paris / Canvas. Conversion ASCII de la source du worldbuilder (TimelineDouble). Ratio STANDARD du Canvas, constant depuis sa creation (~1889) : 1 jour Paris = 12 ans Canvas, soit 1 an Canvas = 2 h Paris (cf. Systemes/Gommage_Monolithe.md).
 Conventions de calcul : nombre du Monolithe = 100 - an Canvas ; numero d'expedition = nombre affiche l'annee du depart (liste exhaustive confirmee 2026-07-28) ; heures Paris approximees depuis l'entree de Renoir (~17 janvier matin) a raison de 2 h par an Canvas.
 
 ## TIMELINE PARIS - Naissances
@@ -15,30 +15,31 @@ Conventions de calcul : nombre du Monolithe = 100 - an Canvas ; numero d'expedit
 | 1876 (automne) | - (Canvas inexistant avant 1889) | - (Monolithe inexistant) | Naissance de Simon Noirfusain |
 | 22 fevrier 1879 | - (Canvas inexistant avant 1889) | - (Monolithe inexistant) | Naissance de Verso Dessendre |
 | ~1880 | - (Canvas inexistant avant 1889) | - (Monolithe inexistant) | Naissance de Julie Noirfusain |
-| ~1889-1890 | Temps qui s'ecoule mais etat stagnant (lore a ~an -70 000) | - (Monolithe inexistant) | Naissance d'Alicia Dessendre |
+| ~1889-1890 | Temps qui s'ecoule en etat stagnant (~an -75 000 et suivants) | - (Monolithe inexistant) | Naissance d'Alicia Dessendre |
 
 ## TIMELINE PARIS - Evenements majeurs
 
 | Date reelle | Date Canvas | Nombre sur le Monolithe | Evenement | Consequence |
 |---|---|---|---|---|
-| ~1889 | Creation du Canvas ; temps s'ecoule mais etat stagne | - (Monolithe inexistant) | Verso (10 ans) peint le Canvas avec aide de Clea | Unique tableau de Verso |
+| ~1889 | an ~-75 000 (debut du temps du Canvas) | - (Monolithe inexistant) | Verso (10 ans) peint le Canvas avec aide de Clea | Unique tableau de Verso |
 | 1889-1905 | Le temps passe dans le Canvas, mais son etat stagne | - (Monolithe inexistant) | Enfance partagee - Verso, Clea, Simon | - |
 | ete 1895 | Le temps passe dans le Canvas, mais son etat stagne | - (Monolithe inexistant) | Mariage de Simon (18 ans) et Clea (19 ans) | Le couple s'installe en appartement (divergence RP actee) |
 | ~33 decembre 1905 | Le temps passe dans le Canvas, mais son etat stagne | - (Monolithe inexistant) | Incendie du Manoir Dessendre : Alicia, plongee dans un ouvrage des Ecrivains, ouvre malgre elle la porte a leur magie | Verso meurt en sortant Alicia des flammes ; Alicia defiguree, gorge brulee |
 | ~mi-janvier 1906 | Le temps passe dans le Canvas, mais son etat stagne | - (Monolithe inexistant) | Fin du deuil officiel | Pression du Conseil |
+| ~mi-janvier 1906 (avant le 16) | Le temps passe dans le Canvas, mais son etat stagne | - (Monolithe inexistant) | Aline, inconsolable, remonte le Canvas du sous-sol et l'installe sur le grand chevalet de l'atelier de Renoir | Elle s'y plonge d'abord pour le redecouvrir |
 | ~16 janvier 1906 (Jour -6) | an -6 Canvas | - (Monolithe inexistant) | Aline entre dans le Canvas | - |
 | ~17 janvier 1906 matin (Jour -5,5) | an 0 Canvas | 100 (au moment de sa creation) | Renoir entre ; cree les Axons ; Aline, plus forte, cree le Monolithe et l'y scelle | Fracture ; Expedition 0 |
 | ~18 janvier 1906 (Jour -4) | ~an 18-25 Canvas | 82 a 75 | Premiere intervention de Clea - cree les Nevrons | - |
 | ~19-20 janvier 1906 (Jour -3 a -2) | ~an 30-50 Canvas | 70 a 50 | Interventions de Clea - corruption Simon peint, mort du Porteur, repeinte Clea peinte | - |
-| ~21 janvier 1906 matin (Jour -1,3) | an 50 Canvas | 50 | Alicia entre (devient Maelle) | ~32 h avant le Conseil |
+| ~21 janvier 1906 matin (Jour -1,3) | an 50 Canvas | 50 | Clea et Alicia cachent le Canvas dans la reserve du salon ; Alicia s'y projette (devient Maelle) | ~32 h avant le Conseil ; corps d'Aline et Renoir laisses dans l'atelier |
 | ~22 janvier 1906 ~10 h (Jour 0) | an 66 Canvas | 34 | Seance du Conseil - Simon et Clea entrent dans le Canvas | Debut de l'histoire |
 
 ## TIMELINE LUMIERE - Epoque primordiale
 
 | Date Canvas | Date reelle | Nombre sur le Monolithe | Evenement |
 |---|---|---|---|
-| ~an -70 000 (mythologique) | Inscrit lors de la peinture en ~1889 | - (Monolithe inexistant) | Apparition des Grandis, Gestrals, Esquie, Francois, Monoco, Noco |
-| an -70 000 a an -6 | ~1889 -> ~16 janvier 1906 (temps s'ecoule, etat stagne) | - (Monolithe inexistant) | Longue histoire Canvas "autonome" |
+| ~an -75 000 | ~1889 (creation du Canvas) | - (Monolithe inexistant) | Apparition des Grandis, Gestrals, Esquie, Francois, Monoco, Noco - conscients d'habiter une toile |
+| an ~-75 000 a an -6 | ~1889 -> ~16 janvier 1906 | - (Monolithe inexistant) | ~75 000 ans REELLEMENT ecoules en etat stagnant (nul vieillissement) - longue histoire Canvas autonome |
 
 ## TIMELINE LUMIERE - Intervention d'Aline
 
