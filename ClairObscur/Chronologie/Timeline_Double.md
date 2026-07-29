@@ -1,6 +1,6 @@
 # Timeline_Double
 
-- version : W2
+- version : W3
 
 Double chronologie Paris / Canvas. Conversion ASCII de la source du worldbuilder (TimelineDouble). Ratio depuis l'entree d'Aline : 1 jour Paris = 12 ans Canvas (cf. Systemes/Gommage_Monolithe.md).
 Conventions de calcul : nombre du Monolithe = 100 - an Canvas ; numero d'expedition = nombre affiche l'annee du depart (liste exhaustive confirmee 2026-07-28) ; heures Paris approximees depuis l'entree de Renoir (~17 janvier matin) a raison de 2 h par an Canvas.
@@ -27,7 +27,7 @@ Conventions de calcul : nombre du Monolithe = 100 - an Canvas ; numero d'expedit
 | ~33 decembre 1905 | Le temps passe dans le Canvas, mais son etat stagne | - (Monolithe inexistant) | Incendie du Manoir Dessendre : Alicia, plongee dans un ouvrage des Ecrivains, ouvre malgre elle la porte a leur magie | Verso meurt en sortant Alicia des flammes ; Alicia defiguree, gorge brulee |
 | ~mi-janvier 1906 | Le temps passe dans le Canvas, mais son etat stagne | - (Monolithe inexistant) | Fin du deuil officiel | Pression du Conseil |
 | ~16 janvier 1906 (Jour -6) | an -6 Canvas | - (Monolithe inexistant) | Aline entre dans le Canvas | - |
-| ~17 janvier 1906 matin (Jour -5,5) | an 0 Canvas | 100 (au moment de sa creation) | Renoir entre ; Aline cree le Monolithe | Fracture ; Expedition 0 |
+| ~17 janvier 1906 matin (Jour -5,5) | an 0 Canvas | 100 (au moment de sa creation) | Renoir entre ; cree les Axons ; Aline, plus forte, cree le Monolithe et l'y scelle | Fracture ; Expedition 0 |
 | ~18 janvier 1906 (Jour -4) | ~an 18-25 Canvas | 82 a 75 | Premiere intervention de Clea - cree les Nevrons | - |
 | ~19-20 janvier 1906 (Jour -3 a -2) | ~an 30-50 Canvas | 70 a 50 | Interventions de Clea - corruption Simon peint, mort du Porteur, repeinte Clea peinte | - |
 | ~21 janvier 1906 matin (Jour -1,3) | an 50 Canvas | 50 | Alicia entre (devient Maelle) | ~32 h avant le Conseil |
@@ -51,13 +51,13 @@ Conventions de calcul : nombre du Monolithe = 100 - an Canvas ; numero d'expedit
 
 | Date Canvas | Date reelle | Nombre sur le Monolithe | Evenement |
 |---|---|---|---|
-| an 0 | ~17 janvier 1906 matin | - (juste avant la creation) | Renoir entre ; confronte Aline ; declenche la Fracture |
-| an 0 | ~17 janvier 1906 matin | 100 | Aline cree le Monolithe et y scelle Renoir |
+| an 0 | ~17 janvier 1906 matin | - (juste avant la creation) | Renoir entre ; cree les AXONS avant la Fracture, y lancant la majeure partie de sa chroma pour vaincre Aline (decision actee) |
+| an 0 | ~17 janvier 1906 matin | - (juste avant la creation) | Confrontation : Aline se revele la plus forte ; la Fracture se declenche |
+| an 0 | ~17 janvier 1906 matin | 100 | Aline cree le Monolithe et y scelle Renoir ; sa projection devient le Conservateur |
 | an 0 | ~17 janvier 1906 matin | 100 | Fracture geographique : Vieille Lumiere / Nouvelle Lumiere |
 | an 0 | ~17 janvier 1906 matin | 100 | Depart de l'Expedition 0 (recherche de survivants) : commandant Renoir peint ; a bord les Verso, Simon et Julie peints, Claude, Louise, Dion, et d'autres |
 | an 0 | ~17 janvier 1906 matin | 100 | Julie percoit l'immortalite de Verso ; enlevement et interrogatoire (avec Claude, Louise, Dion) ; la famille peinte tue le reste de l'expedition pour le secret |
 | an 0 | ~17 janvier 1906 matin | 100 | Ultimatum : Simon rejoint la famille peinte (porte disparu a Lumiere) ; Julie refuse et est executee par Verso, sur verdict du Renoir peint |
-| an 0 et apres | a partir du ~17 janvier 1906 matin | 100 puis decroissant | Renoir cree les Axons ; sa projection devient le Conservateur |
 | an 1 et suivantes | a partir du ~17 janvier 1906 | 99, 98, 97... (decroit de 1 par an Canvas) | Gommages annuels du Monolithe |
 
 ## TIMELINE LUMIERE - Expeditions (reprise et jalons)
