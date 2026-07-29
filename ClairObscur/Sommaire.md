@@ -1,6 +1,6 @@
 # Sommaire - ClairObscur
 
-- version : W3
+- version : W4
 
 ## WIKI
 
@@ -19,9 +19,9 @@ Description : regles du monde - peinture, chroma, gommage.
 ### Personnages/
 Description : Parisiens reels (Prenom_Nom) et etres du Canvas (prenom seul) ; une page groupee pour les Axons.
 - Simon_Noirfusain.md (W2) - prota de reference ; chef Noirfusain, epoux de Clea ; socle complet (description, caractere, ecole, ascension).
-- Clea_Dessendre_Noirfusain.md (W3) - ainee Dessendre ; guerre contre les Ecrivains ; interventions, balises et Lady of Sap.
+- Clea_Dessendre_Noirfusain.md (W4) - ainee Dessendre ; guerre contre les Ecrivains ; interventions, balises (design acte) et Lady of Sap.
 - Aline_Dessendre.md (W3) - presidente du Conseil, "Mere de la Projection Picturale moderne" ; ses trois visages (femme, projection, geante-symbole) ; deuil, journal, protections.
-- Renoir_Dessendre.md (W4) - "le Conseiller Dessendre" ; le Conservateur, allie des expeditions ; paraboles, Axons, ombres-souvenirs, culpabilite.
+- Renoir_Dessendre.md (W5) - "le Conseiller Dessendre" ; le Conservateur, allie des expeditions ; Axons crees avant la Fracture ; ombres-souvenirs au haut-de-forme.
 - Alicia_Dessendre.md (W2) - cadette brulee et muette (ardoise, visage nu) ; utilisee par les Ecrivains ; cachette du Canvas ; entree dans le Canvas.
 - Verso_Dessendre.md (W3) - le mort du 33 decembre ; le fragment d'ame tiraille, coeur du Canvas, memoire en erosion.
 - Julie_Noirfusain.md (W2) - soeur de Simon, amoureuse de Verso ; socle complet (caractere, description via sa copie).
@@ -32,7 +32,8 @@ Description : Parisiens reels (Prenom_Nom) et etres du Canvas (prenom seul) ; un
 - Alicia.md (W3) - copie masquee et cicatrisee, etre de grisaille ; sentence d'Aline ; ralliee au Conservateur ; auteure de la lettre.
 - Simon.md (W3) - copie docile corrompue par la Clea reelle ; tueur du Porteur ; coquille vide aux deux amours, au fond du Monolithe.
 - Julie.md (W3) - copie morte a l'an 0 (Expedition 0) ; a perce le secret du Verso peint ; execution et commanditaire.
-- Axons.md (W3) - l'Aspirante, le Porteur (mort), Visages, Sirene ; paraboles et ombres-souvenirs.
+- Axons.md (W4) - l'Aspirante, le Porteur (mort), Visages et le Gardien des masques, Sirene ; oeuvres a double fond, designs actes, crees avant la Fracture.
+- Lady_of_Sap.md (W1) - troisieme manifestation de la Clea reelle ; geante de seve suspendue dans une grotte de Falling Leaves ; porte d'acces au Charognard.
 
 ### Factions/
 Description : groupes et institutions.
@@ -47,7 +48,7 @@ Description : cadres de jeu, Paris et Canvas.
 
 ### Chronologie/
 Description : chronologie de reference.
-- Timeline_Double.md (W2) - double chronologie datee Paris / Canvas, du berceau au Jour 0 ; Expedition 0 et jalons d'expeditions.
+- Timeline_Double.md (W3) - double chronologie datee Paris / Canvas, du berceau au Jour 0 ; an 0 ordonne (Axons avant la Fracture) ; jalons d'expeditions.
 
 ### Fiches_Arc/Simon/
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par PERSPECTIVE de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs `arc precedent` / `arc suivant`), pas par un index des roadmaps.
