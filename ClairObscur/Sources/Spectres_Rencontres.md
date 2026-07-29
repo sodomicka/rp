@@ -1,9 +1,13 @@
 # Spectres_Rencontres
 
-- version : W1
+- version : W3
 
 Page transcript (verbatim, translitteree en ASCII). Source : dawnborn.com, "All Spectres Encounters", fournie par le worldbuilder le 2026-07-28. Non indexee au Sommaire ; consultation par grep.
 Attributions actees : Young boy / Faceless boy = fragment d'ame de Verso ; Fading man = souvenirs de Renoir ; Fading woman = balises de Clea.
+
+Cadrage temporel : toutes les rencontres sont des evenements de l'Expedition 33 (an 67+), donc posterieurs au Jour 0 du RP en tant qu'EVENEMENTS. La matiere lore qu'elles revelent vaut au Jour 0, sauf marqueur [POST-JOUR 0] sur la rencontre elle-meme. Post-chute = apres la chute de la Peintresse : gommage de tout Lumiere, puis Maelle recouvre ses souvenirs d'Alicia et reveille ses pouvoirs de Peintresse pour ramener ses amis.
+
+[DIVERGENCE RP ACTEE] En lore local, AUCUNE balise n'a jamais ete posee (decision actee 2026-07-29) : la Clea reelle a toujours prevu d'entrer elle-meme, et le fait au Jour 0 en projection picturale pour surveiller Maelle directement. Les rencontres Fading woman ci-dessous valent matiere canon pure (attribution, teneur), pas evenements a rejouer.
 
 ## Ancient Sanctuary (Young boy)
 Young boy: Another Expedition... 33...
@@ -75,6 +79,8 @@ Lune: It sounds like you have many regrets.
 Fading man: When did she start pulling away... (The man has gone silent.)
 
 ## The Monolith (Young boy)
+[POST-JOUR 0] Rencontre post-chute.
+
 Young boy: Welcome to my train station. Where do you want to go?
 Lune: Your "train station?"
 Young boy: Yes, and Maman just bought me a new train. She knows how much I love them. (The boy turns back to admire his train.)
@@ -82,6 +88,8 @@ Lune: Where can you take us?
 Young boy: From here your next destination is Lumiere? My hometown!
 
 ## Lumiere (Young boy)
+[POST-JOUR 0] Rencontre post-chute.
+
 Young boy: Isn't it beautiful here... Her paintings are always astonishing... Yet, I wish she would understand...
 Lune: Understand what?
 Young boy: Just... What it means... For me... To paint... (The boy has gone silent.)
@@ -93,20 +101,28 @@ Lune: What can't you do anymore?
 Young boy: Yes... Unless... No... Maybe I should never stop... But... (The boy has gone silent.)
 
 ## The Reacher (Fading man)
+[POST-JOUR 0] Rencontre post-chute.
+
 Fading man: ... Which is worse? To die, or to be the one who survives? To grieve? Or to be grieved?
 Lune: To be the one who survives.
 Fading man: Some might say that's lucky. Not simply because you survived, but you had the opportunity to care deeply for another. I find myself grieving before they've even passed. Grieving what could have been. Grieving what is to come. She'll never forgive herself... She'll carry her scars with her always. Would that I could ease her burden. (The man has gone silent.)
 
 ## The Flying Manor (Young boy)
+[POST-JOUR 0] Rencontre post-chute.
+
 (Deja verbatim dans le transcript dialogues ; rappel des repliques cles)
 Young boy: It's... her home. Here, in this canvas. We used to play here a lot... with the others... But now the one here... She is not her. She will never be. And she knows that. Everything is always about her... About her painting, her sculpting... Everything has to be perfect, but perfect I have never been. And perfect she is not, the one who is here now. But she is trapped here, behind this door, in her atelier. Forever painting... Her Navrons stole her colours.
 Young boy: She might not recognize you, for her soul is long gone. Don't let her unpaint you. That's not... What she would have wanted...
 Young boy: Painting or not, she had feelings, and a soul. That's what I think, at least, but I know she thinks differently. For me, everything in this canvas is as much alive as what is outside. Esquie, the Gestrals, the Grandis, even Aline's paintings. I welcome them all. Painting should be a celebration. Just like music...
 
 ## Painting Workshop (Faceless boy)
+[POST-JOUR 0] Rencontre post-chute.
+
 Faceless boy: A traveller here. Bathing in light. I have whispered my fears, yet she merely smiles, a secretive smile that hints at truths beyond my grasp. She tells me the night must be met with courage, that the heart must not falter. She crafts a beast, radiant yet fearsome, woven from the very essence of luminescence. It prowls the night, casting its spectral glow upon the darkened corners of my sanctuary. Will you put an end to her night?
 
 ## Endless Tower (Fading woman)
+[POST-JOUR 0] Rencontre post-chute. La Fading woman s'adresse ici a Alicia Dessendre elle-meme (la reelle, presente dans le Canvas), pas a sa copie peinte.
+
 (Deja verbatim dans le transcript dialogues ; rappel des repliques cles)
 Fading woman: Alicia. I must say, you've surprised me. I didn't expect you and... your friends to succeed. And I certainly didn't expect the doppelganger to pull you into his schemes. He was supposed to keep an eye on you, not recruit you.
 Fading woman: It's a game Verso and I used to play. I've sketched some figures. Doodles, really. I believe your friends call them "Nevrons." Verso and I named this challenge, The Gauntlet.
