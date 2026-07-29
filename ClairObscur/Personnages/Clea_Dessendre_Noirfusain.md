@@ -1,8 +1,8 @@
 # Clea_Dessendre_Noirfusain
 
-- version : W3
+- version : W4
 
-Sources : dialogues + journaux + spectres (Sources/) + decisions actees (threads tranchages et comblement, 2026-07-28).
+Sources : dialogues + journaux + spectres (Sources/) + decisions actees (threads tranchages, comblement et cloture, 2026-07-28/29).
 
 ## Identite
 - Nee au printemps 1876. 29 ans au 22 janvier 1906 (anniversaire de printemps pas encore passe).
@@ -53,8 +53,8 @@ Sources : dialogues + journaux + spectres (Sources/) + decisions actees (threads
 
 ## Manifestations dans le CANVAS
 - Les Nevrons : ses creatures hostiles, verrou sur la chroma d'Aline (cf. Systemes/Gommage_Monolithe.md).
-- Les balises : manifestations a son image, destinees a arracher Alicia a sa vie de Maelle (decision actee). Muettes pour tous SAUF Alicia ("je n'ai aucun interet a vous parler"). Protocole observe : SONDE son etat ("Tu es reveillee ? Surprenant. As-tu suffisamment recupere ? Alors tu peux aider") ; si Alicia n'est pas prete, la renvoie ("il vaut sans doute mieux que tu ne t'en meles pas. [...] Va jouer avec tes amis") ; si elle progresse, l'eprouve (le Gauntlet) et la pousse a l'autonomie ("la seule chose que tu leur dois, c'est de vivre une vie qui te plait"). Ce protocole conditionne la tension veille/rappel (cf. mission du Verso peint). Date de pose : non fixee [INCERTAIN ; posterieure a l'an 50 par logique interne, a fixer en Passe 2].
-- La Lady of Sap (decision actee) : troisieme forme de manifestation - PAS une ombre, une entite physique faite de seve, geante, suspendue au plafond d'une grotte. Fiche dediee a creer au design (cf. Personnages/Lady_of_Sap.md, a venir).
+- Les balises : manifestations a son image, destinees a arracher Alicia a sa vie de Maelle (decision actee). Apparence (design acte) : silhouette evanescente a peine lisible, ou se reconnaissent pourtant la frange et les longs cheveux ondules dans le dos - la coupe de Clea, exactement. Des petales s'en detachent, TURQUOISE [DIVERGENCE ACTEE : dores en jeu ; decrits turquoise par coherence de chroma]. Muettes pour tous SAUF Alicia ("je n'ai aucun interet a vous parler"). Protocole observe : SONDE son etat ("Tu es reveillee ? Surprenant. As-tu suffisamment recupere ? Alors tu peux aider") ; si Alicia n'est pas prete, la renvoie ("il vaut sans doute mieux que tu ne t'en meles pas. [...] Va jouer avec tes amis") ; si elle progresse, l'eprouve (le Gauntlet) et la pousse a l'autonomie ("la seule chose que tu leur dois, c'est de vivre une vie qui te plait"). Ce protocole conditionne la tension veille/rappel (cf. mission du Verso peint). Date de pose : non fixee [INCERTAIN ; posterieure a l'an 50 par logique interne, a fixer en Passe 2].
+- La Lady of Sap (decision actee) : troisieme forme de manifestation - PAS une ombre, une entite PHYSIQUE de seve et d'ambre, geante, suspendue tete en bas au plafond de seve d'une grotte de Falling Leaves [VF a definir]. Dialoguer avec elle conditionne l'acces au Charognard, l'un de ses plus puissants Nevrons. Fiche : Personnages/Lady_of_Sap.md.
 
 ## Savoir au 22 janvier 1906
 - Seule personne a Paris a connaitre la situation reelle du Canvas.

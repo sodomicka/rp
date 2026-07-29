@@ -1,8 +1,8 @@
 # Renoir_Dessendre
 
-- version : W4
+- version : W5
 
-Fiche englobant sa manifestation dans le Canvas : le Conservateur (projection). La copie lumierienne a sa propre fiche : Personnages/Renoir.md. Sources : dialogues + journaux + spectres (Sources/) + decisions actees (threads tranchages et comblement, 2026-07-28).
+Fiche englobant sa manifestation dans le Canvas : le Conservateur (projection). La copie lumierienne a sa propre fiche : Personnages/Renoir.md. Sources : dialogues + journaux + spectres (Sources/) + decisions actees (threads tranchages, comblement et cloture, 2026-07-28/29).
 
 ## Identite
 - Ne ~1848. ~57-58 ans au 22 janvier 1906.
@@ -31,7 +31,7 @@ Fiche englobant sa manifestation dans le Canvas : le Conservateur (projection). 
 - Jeunesse : perdu dans un Canvas au point d'y risquer sa vie ; sauve par Aline, qui lui enseigne l'usage sur du don. Des centaines de mondes peints ensemble.
 - 33 decembre 1905 : incendie du Manoir - une attaque des Ecrivains. Absent au moment critique [IMPLICITE : "pas la quand cela comptait"]. S'estime co-responsable ("notre hubris"). N'a jamais cherche la cause reelle de l'incendie, absorbe par l'etat de sa femme (decision actee).
 - Apres l'incendie : tente de faire reprendre gout a la vie a Alicia. Sa lecture de la famille : "Aline dans le Canvas. Clea dans sa guerre solitaire. Toi, un fantome vivant."
-- ~17 janvier 1906 matin (an 0 Canvas) : entre dans le Canvas pour ramener Aline. Confrontation -> la Fracture. Cree les Axons (cf. Personnages/Axons.md). Devient le Conservateur.
+- ~17 janvier 1906 matin (an 0 Canvas) : entre dans le Canvas pour ramener Aline. Cree d'abord les AXONS, y lancant la majeure partie de sa chroma pour la vaincre (decision actee, cf. Personnages/Axons.md). Aline se revele plus forte : la confrontation declenche la Fracture, et elle le cloue sous le Monolithe des la creation de la tour. Sa projection devient le Conservateur.
 - an 0 -> 66 : guerre d'usure contre Aline. Elle l'a SCELLE au fond du Monolithe - c'est la raison d'etre de la tour : l'empecher de gommer (decision actee ; journal du Simon peint). Lui la tient emprisonnee au sommet. Avantage par Clea, qui bloque la chroma d'Aline ; il efface les plus anciennes creations d'Aline, sauf la famille peinte immortelle.
 - Depuis une date a fixer, le Simon peint (retourne par Aline) lui tient tete au fond du Monolithe.
 
@@ -40,13 +40,14 @@ Fiche englobant sa manifestation dans le Canvas : le Conservateur (projection). 
 - Apparence : haute silhouette decharnee de pierre bleme craquelee, veinee d'or. Crane nu fissure ; visage evide en gouffre noir - le meme gouffre que la projection d'Aline ; traces d'or au bas du visage, comme le vestige d'une barbe. Echarpe-cape grise en lambeaux. Bras noircis et luisants, comme trempes dans la peinture ; bas du corps qui se delite en coulees noir et or. Autour de lui, des PETALES ROUGES en suspension - echo direct du Gommage (parallele aux eclats de matiere qui entourent la projection d'Aline : les deux epoux partagent le meme langage de pierre pale, d'or et de noir vitreux).
 - Agent du Gommage : invoque les fleurs du Gommage chaque annee (mecanique et demographie : cf. Systemes/Gommage_Monolithe.md). Acte d'amour - son but complet (decision actee) : faire sortir sa femme du Canvas pour la sauver, puis l'effacer INTEGRALEMENT pour qu'elle ne puisse jamais y revenir mourir de son deuil.
 - Influence mentale corrosive sur qui l'approche longtemps : l'esprit du Simon peint se desagrege a son contact.
-- ALLIE des expeditions : leur croisade contre la Peintresse sert son but. Le "Conservateur" forgeron qu'elles connaissent, c'est lui (decision actee) : l'arme perce-Barriere se forge de DEUX coeurs d'Axons apportes.
+- ALLIE des expeditions : leur croisade contre la Peintresse sert son but. Le "Conservateur" forgeron qu'elles connaissent, c'est lui (decision actee) : l'arme perce-Barriere se forge de DEUX coeurs d'Axons apportes. Enjeu reel (decision actee) : les coeurs sont la majeure partie de sa propre chroma, engagee a l'an 0 - les recuperer est sa seule voie pour disposer d'assez de chroma et creer de quoi percer la Barriere d'Aline.
 - Repartition des actes (requalifiee par le worldbuilder, comblement 2026-07-28) : gommages = lui ; destruction des expeditions genantes et Expedition 0 = la copie, "l'homme aux cheveux blancs" que craignent les journaux (cf. Personnages/Renoir.md).
 - Rhetorique d'inversion : "Qui peint vraiment la mort ? Et qui peint la vie ?" - se presente comme celui qui sauve.
 - Escorte : l'Alicia peinte l'accompagne, attestee des l'an 44 (capture par l'Expedition 56 - cf. Personnages/Alicia.md). Il comprend ses gestes ou signes.
 
 ## Ombres-souvenirs et geographie (CANVAS)
 - Figures d'homme evanescent : des souvenirs de Renoir commentant ses oeuvres et les siens (decision actee, corpus des spectres).
+- Apparence (design acte) : silhouette d'homme vetue d'or, coiffee d'un HAUT-DE-FORME - rien pour y reconnaitre Renoir, sinon le contexte et les PETALES ROUGES qui s'en detachent, la meme signature que le Conservateur : les deux emanations de Renoir s'effeuillent de la meme couleur (observation actee, pas une regle generale). Lieux d'apparition attestes : les iles des Axons et l'Esquisse de Renoir [lieu a creer, cf. _Implications].
 - Geographie des souvenirs (decision actee) : les iles portent le nom des Axons, et chaque ombre decrit le MODELE de l'Axon co-localise. Vieille Lumiere -> Clea ("la plus semblable a moi") ; ile de Sirene -> Aline (nom motive : elle l'envoute ; motifs floraux et orchidees de l'architecture [IMPLICITE]) ; ile des Visages -> Verso (le masque du peintre porte par un musicien, secret de famille) ; tour de l'Aspirante -> Alicia ("manque d'ambition" - elle prefere la lecture, l'arme des Ecrivains).
 
 ## Savoir au 22 janvier 1906
