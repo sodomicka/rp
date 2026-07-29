@@ -1,6 +1,6 @@
 # Sommaire - ClairObscur
 
-- version : W4
+- version : W5
 
 ## WIKI
 
@@ -12,9 +12,9 @@
 
 ### Systemes/
 Description : regles du monde - peinture, chroma, gommage.
-- Regles_Peinture.md (W1) - les 4 Regles modernes (1882) et l'etat de leurs violations au Jour 0.
-- Chroma_Ames_Tableaux.md (W1) - chroma, coeurs de tableaux, projections/copies/creations, repeindre, le Canvas de Verso.
-- Gommage_Monolithe.md (W3) - ecoulement temporel, Fracture, Monolithe, verrou a trois corps, Conservateur-projection, mecanique du Gommage, declin d'Aline.
+- Regles_Peinture.md (W2) - les 4 Regles modernes (1882) ; le Canvas d'origine irreprochable ; violations reattribuees (Aline, mort de Verso, sejours).
+- Chroma_Ames_Tableaux.md (W3) - nature de la chroma, signatures (forme/intensite/densite), drain de projection, corps fige et regle de distance, projections/copies/creations, repeindre, le Canvas de Verso.
+- Gommage_Monolithe.md (W4) - ratio standard, ~75 000 ans vecus-figes, Fracture et distance, Monolithe (100 = reserves d'Aline), verrou a trois corps, Conservateur-projection, Gommage (petales rouges sur dores), declin d'Aline.
 
 ### Personnages/
 Description : Parisiens reels (Prenom_Nom) et etres du Canvas (prenom seul) ; une page groupee pour les Axons.
@@ -37,18 +37,18 @@ Description : Parisiens reels (Prenom_Nom) et etres du Canvas (prenom seul) ; un
 
 ### Factions/
 Description : groupes et institutions.
-- Conseil_Peintres.md (W1) - deux chambres, huit familles, hierarchie de puissance, etat au Jour 0.
+- Conseil_Peintres.md (W2) - deux chambres, huit familles, titres actes, style Noirfusain et formes de chroma, couverture des absences, hierarchie, etat au Jour 0.
 - Ecrivains.md (W1) - faction ennemie ; mystere assume ; faits etablis seulement.
 
 ### Lieux/
 Description : cadres de jeu, Paris et Canvas.
 - Paris_Peintres.md (W1) - Paris 1906 cote Peintres ; page lacunaire, decor a definir.
-- Manoir_Dessendre.md (W2) - le manoir reel, geographie interieure, l'incendie et sa cause, ses repliques peintes.
-- Lumiere.md (W3) - Nouvelle et Vieille Lumiere, societe du Gommage, Expedition 0 (sequence actee), reprise et jalons.
+- Manoir_Dessendre.md (W3) - le manoir reel, la reserve cachee, le parcours du Canvas, les corps figes au Jour 0, l'incendie, ses repliques peintes.
+- Lumiere.md (W4) - ville d'origine vide et revisitee ; position a l'oppose du Monolithe et prise du Gommage ; societe, Expedition 0 (sequence actee), reprise et jalons.
 
 ### Chronologie/
 Description : chronologie de reference.
-- Timeline_Double.md (W3) - double chronologie datee Paris / Canvas, du berceau au Jour 0 ; an 0 ordonne (Axons avant la Fracture) ; jalons d'expeditions.
+- Timeline_Double.md (W4) - double chronologie au ratio standard (~-75 000 recale), du berceau au Jour 0 ; an 0 ordonne ; parcours du Canvas dans le manoir ; jalons d'expeditions.
 
 ### Fiches_Arc/Simon/
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par PERSPECTIVE de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs `arc precedent` / `arc suivant`), pas par un index des roadmaps.

@@ -2,6 +2,10 @@
 
 Document de travail. Jamais fetche en narration. Pense-bete de coordination du build.
 
+## STRUCTURE DU RP (actee 2026-07-29)
+- Arcs scriptes (roadmaps) jusqu'a l'Acte 3 : la chute de la Peintresse.
+- Puis OPEN WORLD, comme le jeu : le gazetteer regions (cf. chantiers) devient le contenu jouable.
+
 ## CONTRADICTIONS A TRANCHER (prioritaire)
 - (aucune en attente)
 
@@ -14,50 +18,51 @@ Document de travail. Jamais fetche en narration. Pense-bete de coordination du b
 - Renoir peint : activites recentes et lieu de vie au Jour 0. [TROU]
 - Clea peinte : ce qu'elle sait ou percoit du Simon peint au fond du Monolithe. [TROU]
 - Contenu de l'histoire servie par la Clea reelle au Simon peint lors de la corruption : [INCERTAIN].
-- Balises de Clea : date(s) de pose a fixer (Passe 2). Premiere manifestation aupres de Maelle a dater.
 - Lady of Sap : elle conditionne l'acces au Charognard, l'un de SES propres Nevrons ; motivation exacte au-dela du verbatim ("pour respecter ce qu'ils ont cree") non documentee. [TROU]
 - Axons : paraboles completes du Porteur et de Sirene non documentees [TROU] ; danse de Sirene [INCERTAIN].
 - Erosion memorielle du fragment : implication lourde pour toute reprise de charge (regle 3 : consentement) - que vaut le consentement d'une ame qui s'efface ? Matiere roadmaps.
-- Mecanisme precis par lequel les Nevrons bloquent la recuperation de chroma d'Aline : fait acte, mecanique non detaillee.
+- Mecanisme precis par lequel les Nevrons bloquent la recuperation de chroma d'Aline : fait acte, mecanique non detaillee. Idem pour le figement du temps affaibli par la distance (acte 2026-07-29, mecanique non detaillee).
 - Differences mecaniques entre mediums : a trancher au plus tard pour le power-scaling.
 - Regles de peinture anterieures a 1882 : non documentees.
 - Rapport des Peintres au Paris ordinaire, lieu de seance du Conseil : a definir.
 - Lettre d'Alicia peinte, "un seul peut survivre" : un seul MONDE, une seule FAMILLE, un seul ETRE ? A trancher. [statut d'objet a confirmer] ; emplacement du verbatim a decider.
 - Fenetre de mort du Porteur : an ~30-42, a affiner.
 - Reaction intime de Simon au mepris de ses parents : non documentee (matiere d'incarnation en jeu, a formaliser si besoin).
+- Trajet du Canvas : qui savait quoi du passage sous-sol -> atelier avant le 21 janvier (Clea informee par qui ?) - non documente, deductible en jeu.
+
+## Reports en attente (a integrer a la prochaine reouverture des fiches)
+- Clea_DN : decision balises-(a) actee 2026-07-29 - AUCUNE balise jamais posee, dispositif canon non deploye ; Clea a toujours prevu d'entrer elle-meme. Ajuster la section "balises (design acte)" en consequence. + Fardeau complet (hydratation des trois corps, secret, co-cachage du Canvas avec Alicia).
+- Aline_Dessendre : recit d'entree enrichi (inconsolable, remonte le Canvas du sous-sol, plongees de redecouverte, Renoir la laisse faire).
+- Alicia_Dessendre : motif d'entree ("veut aider") ; co-cachage du Canvas avec Clea ; corps fige dans la reserve.
+- Renoir_Dessendre : "sait le tableau au ratio standard", entre quand le sejour d'Aline s'etire ; corps affame malgre l'hydratation.
 
 ## Chantiers a ouvrir (threads dedies)
-- THREAD VF : franciser tous les termes anglais du canon - le RP repose sur les termes francais (jeu montpellierain). Concernes, entre autres : Falling Leaves, Stone Wave Cliffs, Yellow Harvest, Old Lumiere, "She Who Grasps The Sky", "She Who Plays With Wonder", Lady of Sap, le Reacher, Fading Man / Fading Woman, Unknown 1-3, le Gauntlet.
-- THREAD LIEUX : creer tous les lieux canons manquants. Deja identifies : Falling Leaves (grotte de la Lady of Sap), l'Esquisse de Renoir (lieu d'apparition d'ombres-souvenirs), les iles des Axons (l'Aspirante, Visages, Sirene), Stone Wave Cliffs, Yellow Harvest. Liste complete a dresser en ouverture de thread.
-- THREAD(S) BESTIAIRE : bestiaire complet des Nevrons. Separer les rares Nevrons de RENOIR (Orphelins, le Tisseur...) de la masse astronomique de ceux de CLEA (dont le Charognard). Traiter LE CAS DES NEVRONS BLANCS. Matiere deja actee a reprendre :
+- CHANTIER WORLDMAP : geographie d'ensemble du Canvas - continent, iles des Axons, positions relatives (Lumiere pile a l'oppose du Monolithe : acte). Squelette prealable aux regions.
+- CHANTIER REGIONS (ex-THREAD LIEUX, elargi 2026-07-29) : traiter CHAQUE region du Canvas avec le gabarit suivant :
+  - au moins DEUX endroits marquants ;
+  - presence ou non de quetes (source : transcript, quand uploade) ;
+  - ennemis de la region (alimente le BESTIAIRE) ;
+  - boss et miniboss ;
+  - quete principale du lieu : chaque region a au moins un parcours menant a un boss ou une recompense.
+  Deja identifies : Falling Leaves (grotte de la Lady of Sap), l'Esquisse de Renoir (ombres-souvenirs), les iles des Axons (l'Aspirante, Visages, Sirene), Stone Wave Cliffs, Yellow Harvest, Vieille Lumiere, le Monolithe. Liste complete a dresser en ouverture de chantier. Distinguer les lieux PRE-CHUTE / POST-CHUTE ; dresser la liste des lieux post-reveil d'Alicia (gommage de tout Lumiere -> Maelle se souvient -> reveil de ses pouvoirs).
+- THREAD(S) BESTIAIRE : bestiaire complet des Nevrons, nourri region par region. Separer les rares Nevrons de RENOIR (Orphelins, le Tisseur...) de la masse astronomique de ceux de CLEA (dont le Charognard). Traiter LE CAS DES NEVRONS BLANCS. Matiere deja actee a reprendre :
   - Orphelins : corps d'enfants en chemise a bretelles, jambes en vrille, tetes variables (botte de foin, poele, corde cloutee) ; peuplent les iles des Axons.
   - Orphelin batisseur, le Tisseur, les Glissando : designs actes, cf. Personnages/Axons.md.
   - CHAROGNARD (design acte) : entite de bois torsade aux visages fondus dans l'ecorce, crane d'or serti au front, larmes dorees coulant des yeux, lambeaux de tissu pendants ; l'un des plus puissants Nevrons de Clea, veritable fleau des expeditions ; acces via la Lady of Sap.
+- THREAD VF : franciser tous les termes anglais du canon - le RP repose sur les termes francais (jeu montpellierain). Concernes, entre autres : Falling Leaves, Stone Wave Cliffs, Yellow Harvest, Old Lumiere, "She Who Grasps The Sky", "She Who Plays With Wonder", Lady of Sap, le Reacher, Fading Man / Fading Woman, Unknown 1-3, le Gauntlet.
 
 ## Pieces manquantes (a fournir, pas improviser)
 - ANNONCE par le worldbuilder : dialogues de relation (Lune, Esquie, Monoco, Sciel, Maelle/Alicia). En attente.
+- Transcript dialogues (dawnborn, ~300 ko) : PAS ENCORE uploade en Sources/ (verifie 2026-07-29). A l'upload : y poser les marqueurs [POST-JOUR 0] des epilogues "A Life to Love" / "A Life to Paint" et du contenu post-chute.
 
-## BIBLE B1 - POINTS PERIMES (a corriger au BIBLE BUILD B2)
-- SB0 : recompte des pages rattachees (Lady_of_Sap creee) ; statut de l'upload du transcript en Sources/ a verifier.
-- SB1 : "efface l'age affiche" -> deux cohortes par an ; Conservateur = projection de Renoir, ALLIE des expeditions ; verrou a trois corps ; moteur du declin (epuisement d'Aline) ; coeurs d'Axons = majeure partie de la chroma propre de Renoir, engagee a l'an 0.
-- SB2 : Axon "creation colossale de Renoir" -> creee a l'an 0 AVANT la Fracture ; entrees a envisager : Lady of Sap, Orphelins, Glissando, Charognard.
-- SB3 : mort de Julie peinte -> an 0 (Exp 0) ; jalons d'expeditions (annualisation an 29) ; an 0 ordonne (Axons -> confrontation -> Fracture -> Monolithe/scellement).
-- SB5 : Clea "favorite de Renoir" -> la plus semblable, pas favorite ; Verso "echange de vie [INCERTAINE]" -> mort en la sauvant ; Julie peinte (an 0) ; Simon peint (meprise, docilite) ; Aline (haine d'Alicia, declin, trois manifestations, titre) ; Renoir (titre, Conservateur allie) ; socles Simon/Julie combles ; Axons a double fond (le Gardien des masques = vrai Axon de Visages) ; Lady of Sap = Clea, fiche creee.
-- SB6 : Vieille Lumiere - Porteur confirme, epees du Simon peint ; Manoir - piece cachee derriere le buffet du salon (cachette du Canvas) ; Falling Leaves et l'Esquisse de Renoir a referencer.
-- SB7 : cachette du Canvas soldee (plus [INCERTAIN]).
-- SB8 : mysteres soldes - mecanique de l'echange de vie ; Lady of Sap ; "il est ici" ; role d'Alicia dans l'incendie ; couverture des absences ; cachette ; "le vrai Axon".
-
-## FILE D'ATTENTE (prochain thread : BIBLE BUILD B2)
-- Lot Sources : marqueurs [DIVERGENCE ACTEE] (ligne "notre soeur") et [POST-JOUR 0] (spectres post-chute, epilogue, combat Simon peint, Exp 33) dans Journaux_Collectibles et Spectres_Rencontres.
-- Systemes/Chroma_Ames_Tableaux : generaliser la regle du drain de projection.
-- Lieux/Manoir_Dessendre W3 : piece cachee derriere le buffet du salon (reserve des oeuvres les plus cheres emotionnellement, prevue contre les Ecrivains ; cachette du Canvas, qui etait au sous-sol ; pari d'Alicia : Aline ne pensera pas a cette reserve ; avis de Clea : elle la trouvera, mais non sans chercher).
-- Factions/Conseil_Peintres : verifier titres ("Mere de la Projection Picturale moderne" / "le Conseiller Dessendre") et style de l'ecole Noirfusain (fusain, noir et blanc, chroma familiale faible) ; patch si necessaire.
-- CLOTURE : BIBLE B2 complete (remplace B1) + Sommaire reconcilie + _Implications a jour DANS LE MEME LOT.
-- Puis : prompt d'ouverture de la Passe 2 (roadmaps Simon, boucle serree par arc).
+## FILE D'ATTENTE (prochains threads)
+- CHANTIER WORLDMAP, puis CHANTIER REGIONS (gabarit ci-dessus), en alimentant le BESTIAIRE au fil des regions.
+- Roadmaps Simon (boucle serree par arc), arcs jusqu'a la chute de la Peintresse ; l'open world post-chute s'appuie sur le gazetteer.
+- Etat du wiki au 2026-07-29 : B2 livree ; 11 fichiers a uploader (Journaux W2, Spectres W3, Chroma W3, Manoir W3, Gommage W4, Lumiere W4, Regles W2, Timeline W4, Conseil W2, Sommaire W5, _Implications).
 
 ## A reverifier a la cloture de Passe 2
 - Coherence des dates de corruption du Simon peint (an 30-40) avec les jalons d'arcs.
-- Datation des balises de Clea et des visites du Conservateur et de l'Alicia peinte a Lumiere.
+- Datation des visites du Conservateur et de l'Alicia peinte a Lumiere.
 - Clause de consentement du fragment (regle 3) vs erosion memorielle.
 - Fenetre de mort du Porteur (an ~30-42) vs jalons d'arcs.
 
