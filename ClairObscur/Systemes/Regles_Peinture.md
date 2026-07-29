@@ -1,6 +1,6 @@
 # Regles_Peinture
 
-- version : W1
+- version : W2
 
 ## Origine
 - Regles modernes de la peinture edictees par Aline Dessendre en 1882.
@@ -29,13 +29,14 @@
 - Motif : de tels etres pourraient etre consideres comme des etres conscients et vivants.
 
 ## Etat des violations au 22 janvier 1906
-- Canvas de Verso (peint ~1889) :
-  - Regle 2 violee : Lumiere = copie realiste de Paris, peuplee de copies conformes de Parisiens (par Aline, an -6 Canvas).
-  - Regle 4 violee : copies inconscientes d'etre des creations.
-  - Regle 3 en souffrance : Verso mort (decembre 1905), tableau non detruit, fragment d'ame coince comme coeur.
-  - Reprise de charge possible uniquement avec consentement du fragment de Verso.
-- Sejours d'Aline puis Renoir dans le Canvas : sans surveillance de pair, duree ouverte [IMPLICITE : regle 1 en violation].
-- Le Conseil ignore la situation reelle du Canvas. Seule Clea Dessendre-Noirfusain sait.
+- Le Canvas d'ORIGINE (peint ~1889 par Verso avec Clea) ne violait AUCUNE regle :
+  - etres originels (Gestrals, Grandis, Esquie, Francois, Monoco, Noco) peints conscients d'habiter une toile - regle 4 respectee ;
+  - Lumiere vide d'habitants, copie revisitee de Paris, jamais a l'identique - regle 2 respectee.
+- Les violations sont posterieures a la mort de Verso :
+  - Regles 2 et 4 violees par Aline (an -6 Canvas) : peuplement de Lumiere de copies conformes de Parisiens, inconscientes d'etre des creations.
+  - Regle 3 en souffrance : Verso mort (decembre 1905), tableau non detruit, fragment d'ame coince comme coeur. Reprise de charge possible uniquement avec consentement du fragment.
+  - Regle 1 violee : sejours d'Aline puis de Renoir sans retour ni limite. Clea, seule au courant, assure une surveillance de fait et maintient les corps.
+- Le Conseil ignore la situation reelle du Canvas. Seule Clea Dessendre-Noirfusain sait, et porte ce secret face au Conseil.
 
 ---
 
