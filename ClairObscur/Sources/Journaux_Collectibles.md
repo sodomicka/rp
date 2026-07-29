@@ -1,10 +1,12 @@
 # Journaux_Collectibles
 
-- version : W1
+- version : W2
 
 Page transcript (verbatim, traduit en ASCII). Source : dawnborn.com, "All Journals", fournie par le worldbuilder le 2026-07-28. Non indexee au Sommaire ; consultation par grep. Budget de page transcript depasse (source brute) : signale.
 
 ## Verso
+[DIVERGENCE ACTEE] La ligne "Clea already took our sister" est ecartee : en lore local, Julie peinte meurt a l'an 0 (Exp 0), avant l'enlevement de la Clea peinte par la Clea reelle (an 40-50). La justification du Verso peint ne peut pas invoquer cet enlevement. Cf. Personnages/Julie.md.
+
 I miss you. I don't have the right to miss you, but I do. I wish I could talk to you. Tell you...
 Fuck, I don't know what I would tell you.
 Just... ask that you forgive me. Julie... Forgive me... I'm not... I'm not a traitor. I'm NOT. I'm trying to save- I'm trying to save us all.
@@ -277,6 +279,8 @@ He and his father keep saying the Paintress is the solution, not the problem, bu
 It hurts to think he'd betray us, but nobody ever expects to be betrayed. His mistake though, is thinking his charm is sufficient to sell his lies. We'll take him tomorrow night. Claude, Louise, and Dion are no fools, they saw what I saw. We WILL get answers. And if he is a traitor, then he will share the fate of traitors.
 
 ## Simon
+[POST-JOUR 0] Journal trouve lors du combat contre le Simon peint au fond du Monolithe (evenement Exp 33, an 67+), posterieur au Jour 0 du RP.
+
 More and more of my mind is fading away. I must put my words down on paper before I lose myself entirely.
 My beautiful Clea...
 What did she do to you? That Paintress... She fooled me, she looked so much like you and I believed her story. She granted me the power to fell the Axons and enter the Monolith.
