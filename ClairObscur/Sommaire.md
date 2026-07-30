@@ -1,6 +1,6 @@
 # Sommaire - ClairObscur
 
-- version : W5
+- version : W6
 
 ## WIKI
 
@@ -45,6 +45,15 @@ Description : cadres de jeu, Paris et Canvas.
 - Paris_Peintres.md (W1) - Paris 1906 cote Peintres ; page lacunaire, decor a definir.
 - Manoir_Dessendre.md (W3) - le manoir reel, la reserve cachee, le parcours du Canvas, les corps figes au Jour 0, l'incendie, ses repliques peintes.
 - Lumiere.md (W4) - ville d'origine vide et revisitee ; position a l'oppose du Monolithe et prise du Gommage ; societe, Expedition 0 (sequence actee), reprise et jalons.
+- Continent.md (W1) - worldmap du Canvas : rose des vents (Monolithe nord, Lumiere sud), paliers d'acces, epine dorsale, iles des Axons, megaboss d'overworld (Serpenphare, Sprong, Devoreurs de monde), manoirs du Canvas, index des regions.
+- Falling_Leaves.md (W1) - foret d'automne (nage + brise-recifs) ; grotte de la Lady of Sap, pont de l'Exp 35, portail du garcon ; quete principale vers le Charognard.
+- Yellow_Harvest.md (W1) - foret doree (bris de terrain d'Esquie) ; cadavre du Devoreur de monde commente par le fragment, journal de l'Exp 59 ; boss Glaise.
+
+### Bestiaire/
+Description : bestiaire des Nevrons - une fiche par lieu (Nevrons_<Lieu>.md - AUCUNE homonymie de nom de fichier avec Lieux/, meme entre dossiers) + un index general ; alimente au fil du gazetteer regions.
+- liste_bestiaire.md (W1) - index general des Nevrons : createur, type/role, renvois.
+- Nevrons_Falling_Leaves.md (W1) - le Charognard (boss - tenebres, brume noire, masque d'or), Glaise, Sapling ; renvoi Chromatic Ballet.
+- Nevrons_Yellow_Harvest.md (W1) - Gault, Jar, Potier ; trio d'Orphelins chromatiques (echoues) ; le Devoreur de monde (hors combat, contradiction de Clea).
 
 ### Chronologie/
 Description : chronologie de reference.
@@ -54,7 +63,7 @@ Description : chronologie de reference.
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par PERSPECTIVE de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs `arc precedent` / `arc suivant`), pas par un index des roadmaps.
 - (aucune fiche - passe 3 a venir)
 
-> SOURCES NON INDEXEES. `Sources/` (transcript, journaux collectibles, spectres) contient les verbatims de reference du build : consultation par GREP ou listing direct au BUILD uniquement, jamais fetches en narration. Ils ne sont volontairement pas listes ici.
+> SOURCES NON INDEXEES. `Sources/` (journaux collectibles, spectres) contient les verbatims de reference du build : consultation par GREP ou listing direct au BUILD uniquement, jamais fetches en narration. Ils ne sont volontairement pas listes ici.
 
 > ROADMAPS NON INDEXEES EN JEU. Le dossier `Roadmap/Simon/` n'est pas liste au Sommaire : sources de BUILD (matiere des fiches d'arc), lues par listing direct du dossier. En jeu, le MJ navigue par les fiches d'arc et le CODEX ANNEXE_CHRONO. (Dossier vide - passe 2 a venir.)
 
