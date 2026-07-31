@@ -1,11 +1,11 @@
 # Shido Murasaki
 
-- version : W3
+- version : W6
 
 Fiche NEUTRE (entite de lore). L'instance jouee (etat courant, run) vit en CODEX + Parties/.
 
 ## Identite
-- Nom : Shido Murasaki (glose : shi-do = "glycine pourpre" ; murasaki = "pourpre"). Surnom : Mura.
+- Nom : Shido Murasaki (glose : shi-do = "glycine pourpre" ; murasaki = "pourpre"). Surnom : Mura - ne du dernier mot de sa mere, "Je t'aime, Mura-", le prenom jamais acheve, enregistre par son equipement.
 - Naissance : 30 janvier, An -14. 14 ans a la rentree de l'An 0 ; 15 ans le 30 janvier de sa 1re annee.
 - Statut : matriarche du clan Shido (3e fortune du Japon) depuis ses 7 ans. Eleve de 1-A a Yuei [DIVERGENCE RP - 21e eleve].
 - Un an d'avance : derogation exceptionnelle sans precedent canon, obtenue au merite pur, jamais a l'influence du clan [DIVERGENCE RP].
@@ -18,8 +18,9 @@ Fiche NEUTRE (entite de lore). L'instance jouee (etat courant, run) vit en CODEX
 - Petite stature (1 m 48). Cheveux noirs en deux longues tresses, frange laterale. Refus de la coupe traditionnelle maternelle.
 - Yeux gris-violet, regard direct. Peau claire.
 - Costume : variation du costume maternel - kimono de combat noir a motifs de glycine, epaulieres grises, obi violet, hakama sombre, mitaines, sacoches de ceinture, sandales renforcees.
-- Masque technique sombre couvrant nez et bouche : regulation active de la respiration selon l'effort. Design identique a celui de Chizuru.
+- Masque technique sombre couvrant nez et bouche : regulation active de la respiration selon l'effort. Design propre, distinct du masque d'etoffe brodee de sa mere - c'est le costume qui reprend le design maternel.
 - Brassard d'avant-bras a module spherique : distributeur de billes de tungstene, concu par le clan pour son costume.
+- Gourmette portee en permanence : contient l'enregistrement des derniers mots de sa mere. Routine du soir immuable depuis ses 7 ans : l'ecouter avant de dormir.
 
 ## Traits actes
 - Arrogante, fiere, conservatrice, elitiste, tres intelligente. Et, avant tout : juste.
@@ -43,7 +44,7 @@ Cf. Systemes/Chronokinesie.md pour le systeme complet. Valeurs propres a Mura (A
 
 ## Histoire (jusqu'au point de depart)
 - An -14 : naissance pendant la 1re annee de sa mere a Yuei. Elevee entre le domaine de Kyoto et l'ombre d'une mere en ascension.
-- An -7 : mort de Chronos face a AFO. Mura, 7 ans, devient matriarche. Debut de l'entrainement auto-impose : un seul but, venger sa mere, quoi qu'il en coute.
+- An -7 : mort de Chronos face a AFO. Mura, 7 ans, devient matriarche. Debut de l'entrainement auto-impose : un seul but, venger sa mere, quoi qu'il en coute. Aux funerailles : pas une larme, poings et machoire serres - l'avenir deja trace. A l'etang du domaine, All Might lui donne l'histoire complete : elle connaissait le nom du meurtrier, pas son histoire.
 - An -7 a An 0 : direction du clan avec l'appui du conseil. Visites regulieres d'All Might. Refuse son offre d'heriter d'OFA : elle tuera AFO sans artifice, avec le seul Alter de sa mere. Date exacte du refus [INCERTAIN].
 - An 0 (fevrier) : examen d'entree par la voie commune, refus du privilege de la recommandation pourtant proposee par All Might. Major absolue.
 - Episode Aizawa : la soupconnant de triche a l'ecrit, il tente un effacement discret - et comprend que son cerveau tourne ainsi meme sans Alter.

@@ -1,6 +1,6 @@
 # Shido Chizuru
 
-- version : W2
+- version : W4
 
 ## Identite
 - Nom : Shido Chizuru (glose : shi-do = "glycine pourpre" ; chi-zuru = "mille grues").
@@ -21,7 +21,7 @@
 - Volonte de fer, exigence absolue envers elle-meme.
 - Refus total du jeu mediatique : jamais une interview, jamais un mot aux cameras.
 - Doctrine : un monde ou les criminels vivraient dans la peur de la justice au point de disparaitre.
-- Position sur l'heritage : aurait deteste que sa fille veuille etre une seconde elle.
+- Position sur l'heritage : sa plus grande fierte etait sa fille. Elle aurait deteste la voir devenir si semblable a elle - mais aurait adore la voir si forte, si fiere, si sure d'elle.
 
 ## Alter
 - Chronokinesie (cf. Systemes/Chronokinesie.md) : perception du temps + tirs cinetiques.
@@ -42,6 +42,8 @@
 ## Mort (An -7)
 - Affronte All For One. Passe en facteur 120 : 2 minutes percues par seconde reelle.
 - Tient 10 minutes percues, soit 5 secondes de combat pour AFO. Arret cardiaque.
+- L'arret cardiaque met fin a la dilatation : la perception retombe au temps reel. Se sachant condamnee, elle prononce ses adieux hors facteur - "Je t'aime, Mura-" - et sa propre mort l'interrompt au milieu du prenom.
+- Ces derniers mots, enregistres par son equipement, sont l'origine du surnom de sa fille. L'enregistrement vit aujourd'hui dans la gourmette que Mura porte en permanence.
 - All Might arrive a l'instant exact de sa mort. Il voit AFO tenter de prelever la chronokinesie sur le corps et l'interrompt ; AFO fuit. Tentative echouee : l'Alter n'est pas vole.
 - All Might retrouve et ramene lui-meme le corps au domaine de Kyoto. La presse le photographie, le corps de la n2/3 dans les bras, le visage plus triste et furieux que jamais. Image publique restee celebre.
 - Version publique : tuee par un vilain jamais identifie - la presse n'a jamais vu AFO. La verite reste dans le cercle du secret : All Might, Mura, le clan.
@@ -50,8 +52,9 @@
 
 ## Heritage
 - Un nom (Chronos), un Alter, un clan, une fortune - et une fille de 7 ans qui decide de tout porter.
+- De la mere a la fille, trois differences visibles seulement : la version du masque, le distributeur de billes, la coupe de cheveux. Pour tout le reste, la ressemblance est exactement celle qu'elle aurait detestee.
 - Les piques a cheveux ne sont pas transmises : Mura porte des tresses, pas la coupe traditionnelle.
-- Le masque, lui, se transmet par le design : cf. Personnages/Shido_Murasaki.md.
+- Le costume, lui, se transmet par le design ; les masques different (etoffe brodee pour elle, masque technique pour sa fille). Cf. Personnages/Shido_Murasaki.md.
 
 ## Trajectoire datee
 Aucune entree prevue : entite decedee avant le point de depart. Strate conservee par gabarit.
