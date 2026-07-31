@@ -1,6 +1,6 @@
 # Shido Murasaki
 
-- version : W2
+- version : W3
 
 Fiche NEUTRE (entite de lore). L'instance jouee (etat courant, run) vit en CODEX + Parties/.
 
@@ -12,6 +12,7 @@ Fiche NEUTRE (entite de lore). L'instance jouee (etat courant, run) vit en CODEX
 - Nom de guerre vise : Chronos. Elle est Chronos, fille de Chronos.
 - Pere : inconnu de tous. Non-sujet definitif.
 - Taille : 1 m 48, taille adulte atteinte des 15 ans - comme sa mere. Poids : non fixe [INCERTAIN].
+- Residence scolaire : penthouse de tres grand standing pres de Yuei - depense negligeable a l'echelle de sa fortune.
 
 ## Description physique
 - Petite stature (1 m 48). Cheveux noirs en deux longues tresses, frange laterale. Refus de la coupe traditionnelle maternelle.
@@ -46,6 +47,7 @@ Cf. Systemes/Chronokinesie.md pour le systeme complet. Valeurs propres a Mura (A
 - An -7 a An 0 : direction du clan avec l'appui du conseil. Visites regulieres d'All Might. Refuse son offre d'heriter d'OFA : elle tuera AFO sans artifice, avec le seul Alter de sa mere. Date exacte du refus [INCERTAIN].
 - An 0 (fevrier) : examen d'entree par la voie commune, refus du privilege de la recommandation pourtant proposee par All Might. Major absolue.
 - Episode Aizawa : la soupconnant de triche a l'ecrit, il tente un effacement discret - et comprend que son cerveau tourne ainsi meme sans Alter.
+- Fait d'armes de l'epreuve pratique : pulverise le Zero-Pointer de son centre (distinct de celui de Midoriya) d'une plaque de tole de 900 g a Mach 4. Brulures legeres aux doigts, fringale severe. Motif du tir non acte [INCERTAIN].
 
 ## Savoirs et secrets (etat An 0)
 Cf. Systemes/OFA_AFO.md, table des cercles. En bref, Mura sait TOUT :
