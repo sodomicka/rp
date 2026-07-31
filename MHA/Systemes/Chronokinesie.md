@@ -1,6 +1,6 @@
 # Chronokinesie
 
-- version : W1
+- version : W2
 
 Alter hereditaire du clan Shido. Type emission. Transmission observee en lignee directe (Chizuru -> Murasaki) ; mecanique exacte d'heredite [INCERTAIN].
 Deux volets independants mais cumulables : perception et tirs cinetiques.
@@ -26,12 +26,20 @@ Deux volets independants mais cumulables : perception et tirs cinetiques.
 - Principe : figer un objet, puis lui insuffler une energie cinetique pour le propulser.
 - Conversion metabolique : calories -> joules a facteur 10 (rendement 10%). Formule : cout (kcal) = E_cinetique (J) x 10 / 4184.
 - Tir standard : bille de tungstene 10 g (1 cm de diametre), Mach 2,5 (~857 m/s) = ~3 600 J = 8,6 kcal.
-- Calcul de tir : trajectoires, couts et corrections calcules mentalement en un instant (entrainement + facteur perceptif).
+- Cadence soutenue : 1 tir standard par seconde, sans difficulte (habituation). Le tir standard irrite legerement les mains ; c'est le seuil au-dela duquel les brulures apparaissent.
 - Tout objet saisissable est munition potentielle : la bille est l'optimum, pas la limite. Adaptation a l'environnement requise quand la reserve s'epuise.
+- Calcul de tir : trajectoires, couts et corrections calcules mentalement en un instant (entrainement + facteur perceptif).
+
+### Tir maximal connu (Mura, examen d'entree An 0)
+- Plaque de tole de 900 g propulsee a Mach 4 (~1 372 m/s) : ~847 kJ, soit ~235 tirs standards en un seul.
+- Cout : ~2 025 kcal - l'equivalent d'un repas entier consomme en un tir.
+- Effets : brulures legeres aux doigts, fringale severe immediate.
+- Cible : le Zero-Pointer de son centre d'examen (distinct de celui detruit par Midoriya), pulverise.
 
 ## Economie metabolique
 - Regime requis : ~5x l'apport normal. Mura : 5 repas de 2 150 kcal/jour (10 750 kcal).
 - Equivalence : 1 repas = 250 tirs standards (2 150 / 8,6).
+- Cadence maximale entretenue : 1 minute de tir soutenu = 60 tirs = ~516 kcal (plus d'une barre Shido).
 - En operation : grignotage tactique obligatoire. Ration dediee : barre Shido, 430 kcal = 50 tirs standards (detail : cf. Clan_Shido/, BIBLE SB7).
 - Le budget calorique couvre AUSSI le metabolisme de base et les accelerations perceptives : l'autonomie reelle en tirs est inferieure au plafond theorique.
 
@@ -41,7 +49,7 @@ Deux volets independants mais cumulables : perception et tirs cinetiques.
 - Un objet fige en main reste inerte tant que l'energie n'est pas insufflee [IMPLICITE].
 
 ## Pratiquantes connues
-- Shido Chizuru "Chronos" - morte An -8 (facteur 120, arret cardiaque face a AFO). Cf. Personnages/.
+- Shido Chizuru "Chronos" - morte An -7 (facteur 120, arret cardiaque face a AFO). Cf. Personnages/.
 - Shido Murasaki "Mura" - protagoniste, heritiere du nom et de l'Alter. Cf. Personnages/.
 
 ## Equipement associe (detail : cf. Clan_Shido/)
