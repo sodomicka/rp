@@ -1,6 +1,6 @@
 # Echelle de puissance
 
-- version : W1
+- version : W2
 
 Outil de calage MJ [INTERPRETATION globale, sauf chiffres actes]. Principe valide : paliers par referents canon (qualitatifs) + grandeurs physiques reelles quand l'entite est chiffrable. Aucun joule n'est invente pour les personnages canon : leurs faits d'armes servent d'ancres qualitatives ; les chiffres n'existent que la ou le lore les a poses (Mura, Chizuru).
 
@@ -22,6 +22,8 @@ Outil de calage MJ [INTERPRETATION globale, sauf chiffres actes]. Principe valid
 |---|---|---|
 | Tir standard | bille W 10 g, Mach 2,5 (~857 m/s) | 3 600 J - equivalent d'une balle de fusil de bataille 7,62 mm |
 | Cout du tir | 8,6 kcal | conversion facteur 10 (rendement 10%) |
+| Cadence soutenue | 1 tir/s sans difficulte | tir standard = legere irritation des mains (habituation) |
+| Tir maximal connu | tole 900 g a Mach 4 = ~847 kJ | ~235 tirs standards ; ~2 025 kcal = un repas entier ; brulures legeres aux doigts, fringale severe |
 | Autonomie theorique | 250 tirs / repas de 2 150 kcal | reduite par metabolisme de base + accelerations perceptives |
 | Ration de combat | barre Shido 430 kcal = 50 tirs | grignotage tactique obligatoire |
 | Perception | f15 soutenu, f30 pointe (blessures), f60 statique | reaction et calcul, PAS vitesse de deplacement |
@@ -36,9 +38,8 @@ Outil de calage MJ [INTERPRETATION globale, sauf chiffres actes]. Principe valid
 - Fait d'armes terminal : 5 secondes reelles de survie face a AFO en facteur 120 - et AFO a du fuir sans avoir pu voler l'Alter. La duree dit le gouffre : 5 secondes contre AFO est un exploit, pas un combat.
 
 ## Limites non definies [INCERTAIN - a trancher]
-- Cadence de tir maximale de Mura (tirs par seconde, alimentation par le distributeur).
-- Energie maximale insufflable en un seul tir (peut-elle depasser largement le tir standard ?).
 - Portee efficace et precision a distance.
+- Le tir de l'examen (847 kJ) est le maximum CONNU, pas necessairement le plafond absolu.
 
 ---
 FIN_WIKI_POWER_SCALING_ECHELLE_PUISSANCE
