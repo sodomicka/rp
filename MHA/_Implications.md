@@ -2,9 +2,19 @@
 
 Journal de travail (build only, jamais fetche en narration). ASCII strict.
 
-- version : W6
+- version : W10
+
+## Graine R0 (actee par le worldbuilder, a transcrire en roadmap en Passe 2)
+Convention verifiee sur precedent (JJK Roadmap_A0) : prologue passif a issue figee, rendu [SNAPSHOTS], fin sur un seuil, troncature du contenu suivant vers l'etape 1.
+1. Domaine Shido, veille du depart : fin de l'entrainement quotidien, murs du dojo cribles de billes. Un conseiller vient la chercher : derniers preparatifs, demain depart pour Yuei.
+2. Repas avec les serviteurs, devenus une famille il y a 7 ans.
+3. FLASHBACK funerailles (An -7) : Endeavor bouillonnant de double rage (rivale morte sans hierarchie tranchee + tueur inconnu) ; All Might derriere Mura, main sur l'epaule, pleurant une amie ; Mura, 7 ans : zero larme, poings et machoire serres, avenir trace.
+4. FLASHBACK etang du domaine : All Might lui parle de tout ce qu'elle ne sait pas encore - elle connaissait le nom du meurtrier, pas toute son histoire.
+5. Derniers preparatifs ; le clan encourage une derniere fois une matriarche plus determinee qu'eux tous, porteuse de leur colere collective.
+6. Depart en shinkansen, arrivee au lycee pour l'examen. FIN R0 sur ce seuil : l'examen se joue en R1.
 
 ## Questions ouvertes
+
 - Portee efficace et precision a distance des tirs de Mura : a fixer ou a decouvrir en jeu.
 - Motif du tir de Mura sur le Zero-Pointer de son centre (0 point de vilain a la cle) : non acte, a jouer ou a trancher.
 - Origine exacte du lien d'amitie All Might / Chizuru (comment se sont-ils connus) [INCERTAIN - flashbacks eventuels].
@@ -22,6 +32,13 @@ Journal de travail (build only, jamais fetche en narration). ASCII strict.
 ## Etat du chantier
 - PASSE 1 BOUCLEE (Lots 1-4 livres). BIBLE B5, 17 pages WIKI.
 - Prochaine etape : PASSE 2 dans un NOUVEAU THREAD (prompt d'ouverture genere). Decoupage acte : une roadmap par SAGA, annee 1 en 4 sagas minimum. Boucle serree par roadmap.
+- ACTE : le clan apprend le nom d'AFO par All Might, au moment ou il ramene le corps. Promesse de silence scellee ce jour-la.
+- ACTE : derniers mots de Chronos, "Je t'aime, Mura-" (prenom inacheve), enregistres par son equipement - origine du surnom de sa fille.
+- ACTE : la plus grande fierte de Chizuru etait sa fille. Aurait deteste la ressemblance, adore la force, la fierte et l'assurance.
+- ACTE : trois differences visibles mere/fille seulement : le masque (designs DISTINCTS - etoffe brodee vs technique ; c'est le COSTUME dont le design se transmet, correction d'une erreur MJ), le distributeur de billes, la coupe de cheveux.
+- ACTE : l'arret cardiaque met fin a la dilatation ; adieux prononces hors facteur, interrompus par la mort au milieu du prenom.
+- ACTE : l'enregistrement vit dans une gourmette que Mura porte en permanence. Routine du soir depuis ses 7 ans : l'ecouter avant de dormir.
+- POINT DE DEPART DU RP ACTE : R0 au domaine Shido, veille de l'examen (fevrier An 0). Graine R0 ci-dessus. L'examen d'entree SE JOUE (R1), il n'est plus une backstory hors-champ.
 
 ## A verifier a la cloture de Passe 2
 - Annee exacte de la mort de Shirakumo pendant la scolarite d'Aizawa : ce que le manga seul etablit (hors Vigilantes).
@@ -42,7 +59,7 @@ Journal de travail (build only, jamais fetche en narration). ASCII strict.
 - Tailles : Chizuru et Mura 1 m 48 (taille adulte des 15 ans).
 - Anniversaires : Mura 30 janvier ; Chizuru 24 decembre.
 - Piques a cheveux non heritees ; Mura porte des tresses.
-- Masques : Chizuru = blocage du surplus d'air ; Mura = regulation respiratoire selon l'effort. Design identique.
+- Masques : Chizuru = blocage du surplus d'air (etoffe brodee) ; Mura = regulation respiratoire selon l'effort (masque technique). Designs distincts ; le design du costume, lui, se transmet.
 - Dispositif d'avant-bras : distributeur de billes.
 - Nom de guerre vise par Mura : Chronos. "Chronos, fille de Chronos."
 - Clan Shido : proprietaires agricoles feodaux, fournisseurs des cuisines imperiales ; fortune entretenue par l'agroalimentaire (marque Shido) ; prestataire du refectoire de Yuei, Lunch Rush employe.
