@@ -1,6 +1,6 @@
 # Chronokinesie
 
-- version : W2
+- version : W3
 
 Alter hereditaire du clan Shido. Type emission. Transmission observee en lignee directe (Chizuru -> Murasaki) ; mecanique exacte d'heredite [INCERTAIN].
 Deux volets independants mais cumulables : perception et tirs cinetiques.
@@ -53,7 +53,7 @@ Deux volets independants mais cumulables : perception et tirs cinetiques.
 - Shido Murasaki "Mura" - protagoniste, heritiere du nom et de l'Alter. Cf. Personnages/.
 
 ## Equipement associe (detail : cf. Clan_Shido/)
-- Masque : Chizuru - blocage du surplus d'air a haute vitesse ; Mura - regulation active de la respiration selon l'effort. Design identique, transmis avec le nom.
+- Masques : designs DISTINCTS - etoffe brodee de glycines chez Chizuru (blocage du surplus d'air a haute vitesse), masque technique sombre chez Mura (regulation active de la respiration selon l'effort). C'est le design du COSTUME qui se transmet avec le nom, pas le masque.
 - Distributeur de billes d'avant-bras (module a sphere) : concu pour le costume de Mura.
 
 ---
