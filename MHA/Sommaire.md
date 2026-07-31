@@ -1,6 +1,6 @@
 # Sommaire - MHA
 
-- version : W2
+- version : W6
 
 ## WIKI
 
@@ -10,29 +10,40 @@
 
 ### Racine
 Description : index de navigation du WIKI MHA.
-- Sommaire.md (W1) - cette page.
+- Sommaire.md (W6) - cette page.
 
 ### Personnages/
 Description : fiches noyau des entites, canon et Shido.
-- (vide - a peupler en Passe 1)
+- Shido_Murasaki.md (W3) - la protagoniste (fiche neutre) : identite, Alter, histoire, savoirs, relations.
+- Shido_Chizuru.md (W2) - Chronos premiere du nom : identite, parcours, mort detaillee, heritage.
+- All_Might.md (W1) - le n1 : identite, secret, amitie Chronos, scene d'An -7, succession OFA.
+- Midoriya_Izuku.md (W1) - le 9e porteur : noyau pre-An 0.
+- Bakugo_Katsuki.md (W1) - l'explosif relegue 2e de l'examen.
+- Todoroki_Shoto.md (W1) - l'heritier qui refuse son heritage.
+- Yaoyorozu_Momo.md (W1) - le miroir metabolique et fortune.
+- Classe_1A.md (W1) - les 16 autres eleves canon, une ligne chacun.
+- Staff_Yuei.md (W1) - direction, professeurs, services (dont Lunch Rush, employe Shido).
+- Vilains_An0.md (W1) - AFO, Shigaraki, Kurogiri, Garaki : etat a la rentree.
+- Heros_et_Etat.md (W1) - Endeavor, Nighteye, Gran Torino, Tsukauchi, Mirio.
 
 ### Clan_Shido/
 Description : clan Shido - domaine de Kyoto, conseil, economie, heraldique.
-- (vide - a peupler en Passe 1)
+- Clan_Shido.md (W2) - identite, origines feodales, assise agroalimentaire, gouvernance, valeurs, secret, R&D.
 
 ### Systemes/
 Description : Alters et societe heroique ; chronokinesie ; mecanique OFA/AFO.
 - Societe_Heroique.md (W1) - Alters, cadre legal, Commission, Yuei, examens, vilains.
-- Chronokinesie.md (W1) - l'Alter Shido complet : perception, tirs cinetiques, economie metabolique, contres, equipement.
+- Chronokinesie.md (W2) - l'Alter Shido complet : perception, tirs cinetiques, economie metabolique, contres, equipement.
 - OFA_AFO.md (W1) - les deux Alters jumeaux, All Might a l'An 0, cercles de secret.
 
 ### Lieux/
 Description : lieux du RP - Yuei, Musutafu, domaine Shido, theatres canon.
-- (vide - a peupler en Passe 1)
+- Lycee_Yuei.md (W1) - campus, refectoire Shido, terrains, USJ, securite.
+- Lieux_Divers.md (W2) - Musutafu (dont penthouse de Mura), Kyoto et domaine Shido, Tartarus, theatres canon a venir.
 
 ### Power_Scaling/
-Description : echelle de puissance chiffree (metrique a definir avec le worldbuilder).
-- (vide - a peupler en Passe 1)
+Description : echelle de puissance chiffree (paliers par referents canon + grandeurs physiques).
+- Echelle_Puissance.md (W2) - paliers T0-T5, Mura chiffree, Chizuru en reference, limites a trancher.
 
 ### Fiches_Arc/Mura/
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs arc precedent / arc suivant), pas par un index des roadmaps.
