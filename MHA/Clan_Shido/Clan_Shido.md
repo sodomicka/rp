@@ -1,6 +1,6 @@
 # Clan Shido
 
-- version : W2
+- version : W4
 
 ## Identite et heraldique
 - Dynastie de Kyoto. Nom : Shido (glose : "glycine pourpre").
@@ -33,14 +33,14 @@
 - Le pere de Murasaki est un non-sujet definitif au sein du clan.
 
 ## Le secret
-- Le clan entier sait qu'AFO a tue Chronos. Promesse de silence collective, partagee avec All Might.
+- Le clan entier sait qu'AFO a tue Chronos : All Might leur a revele le nom lui-meme, en ramenant le corps au domaine. Promesse de silence collective scellee avec lui ce jour-la.
 - Version publique entretenue : vilain jamais identifie. L'image publique de l'affaire reste la photo d'All Might rapportant le corps.
 - La vengeance n'est pas l'affaire de la seule Mura : c'est le projet silencieux du clan.
 
 ## R&D et equipement
 - Barres Shido : ration compressee developpee par la branche agroalimentaire pour soutenir la prodige du clan. 430 kcal (lipides 24 g, glucides 32 g, proteines 21 g) = 50 tirs standards. Composition : huile MCT, maltodextrine, isolat de proteines de lactoserum, complexe vitamine B/C/D/E, cellulose microcristalline, stearate de magnesium.
 - Billes de tungstene : munitions standard, 10 g, 1 cm de diametre.
-- Masques : design transmis. Version Chizuru : blocage du surplus d'air a haute vitesse. Version Mura : regulation active de la respiration selon l'effort.
+- Masques : designs distincts. Chizuru : etoffe brodee de glycines, blocage du surplus d'air a haute vitesse. Mura : masque technique, regulation active de la respiration selon l'effort. C'est le design du costume qui se transmet, pas le masque.
 - Distributeur d'avant-bras a module spherique : concu pour le costume de Mura.
 - Capacites industrielles hors alimentaire (fabrication des equipements en interne vs sous-traitance agreee) : non definies [INCERTAIN - trou signale].
 
