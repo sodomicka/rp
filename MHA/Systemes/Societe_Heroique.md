@@ -1,6 +1,6 @@
 # Societe Heroique
 
-- version : W1
+- version : W2
 
 ## Alters - generalites
 - ~80% de l'humanite porte un Alter : pouvoir inne, unique a chaque individu.
@@ -30,6 +30,14 @@
 - Pratique : robots a points de combat ; points de sauvetage caches attribues sur actes altruistes.
 - Voie parallele : admission sur recommandation (epreuves dediees, quota restreint).
 - Usage d'Alter interdit pendant l'epreuve theorique (avantage deloyal) [IMPLICITE].
+
+### Bareme de l'epreuve pratique (plafond 100)
+- Le score officiel s'exprime en POURCENTAGE d'un referentiel professionnel, plafonne a 100.
+- Calibration : 100 = la performance qu'un heros du top 10 atteindrait au moins, en solo sur le parcours, par un melange de destruction et d'heroisme.
+- References internes de calibration : un Endeavor ou un All Might tournerait a ~200 en destruction pure ; une Recovery Girl a ~150 en soutien pur.
+- Le bareme est prevu pour des candidats lyceens : scores attendus chez de jeunes recrues prometteuses, 50 a 80.
+- Points de combat et points de sauvetage s'additionnent sous le plafond ; l'excedent est ecrase (sature), non affiche.
+- Personne n'avait jamais sature le bareme avant Mura (An 0) : premier 100 de l'histoire de l'examen (80 destruction + 20 sauvetage affiches ; 140 reels). Personne avant elle n'etait arrive au lycee si pres du niveau pro - voire au-dessus, theorie heroique et esprit d'equipe mis a part.
 
 ### Scolarite heroique
 - Cours generaux + formation heroique (combats d'entrainement, secourisme, gestion de catastrophe).
