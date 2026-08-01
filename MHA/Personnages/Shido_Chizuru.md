@@ -1,13 +1,14 @@
 # Shido Chizuru
 
-- version : W4
+- version : W5
 
 ## Identite
 - Nom : Shido Chizuru (glose : shi-do = "glycine pourpre" ; chi-zuru = "mille grues").
 - Nom de guerre : Chronos.
+- IDENTITE CIVILE PUBLIQUE ET ASSUMEE : la presidente-matriarche Shido n'a jamais cache etre Chronos. Le paradoxe public : l'heroine la plus connue et la moins entendue du Japon - identite assumee, masque en activite, zero communication.
 - Naissance : 24 decembre, An -31. Mort : An -7 (~23 ans), face a All For One.
 - Taille : 1 m 48 - taille adulte atteinte des ses 15 ans, comme sa fille.
-- Statut : matriarche du clan Shido (Kyoto) jusqu'a sa mort. Mere de Shido Murasaki.
+- Statut : matriarche du clan Shido (Kyoto) jusqu'a sa mort. Mere de Shido Murasaki - lien de notoriete publique : la nation sait que l'heritiere Shido est la fille de Chronos.
 - Pere de sa fille : jamais identifie. Non-sujet definitif au sein du clan.
 
 ## Description physique
@@ -19,7 +20,7 @@
 
 ## Traits observes
 - Volonte de fer, exigence absolue envers elle-meme.
-- Refus total du jeu mediatique : jamais une interview, jamais un mot aux cameras.
+- Refus total du jeu mediatique : jamais une interview, jamais un mot aux cameras - alors meme que le pays entier savait qui portait le masque.
 - Doctrine : un monde ou les criminels vivraient dans la peur de la justice au point de disparaitre.
 - Position sur l'heritage : sa plus grande fierte etait sa fille. Elle aurait deteste la voir devenir si semblable a elle - mais aurait adore la voir si forte, si fiere, si sure d'elle.
 
@@ -52,6 +53,7 @@
 
 ## Heritage
 - Un nom (Chronos), un Alter, un clan, une fortune - et une fille de 7 ans qui decide de tout porter.
+- Le lien mere-fille est public ; ce que personne ne sait, c'est que la fille compte reprendre le nom de guerre (cf. Personnages/Shido_Murasaki.md).
 - De la mere a la fille, trois differences visibles seulement : la version du masque, le distributeur de billes, la coupe de cheveux. Pour tout le reste, la ressemblance est exactement celle qu'elle aurait detestee.
 - Les piques a cheveux ne sont pas transmises : Mura porte des tresses, pas la coupe traditionnelle.
 - Le costume, lui, se transmet par le design ; les masques different (etoffe brodee pour elle, masque technique pour sa fille). Cf. Personnages/Shido_Murasaki.md.
