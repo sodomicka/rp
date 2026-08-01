@@ -1,9 +1,8 @@
-# CORPUS INFA - INDEX [W3]
+# CORPUS INFA - INDEX [W4]
 
 Memoire de la passe d'inventaire du corpus (39 transcripts, EldenRingWiki/_Corpus/Infa/).
 Ce fichier est du materiau de travail (prefixe _Corpus) : jamais cite comme reference dans les pages du wiki.
-REMPLACE toute version anterieure. Fichier-memoire UNIQUE du corpus (decision editeur
-2026-08-01) : entrees 01-39 completes, versions developpees integrees pour 27-39.
+REMPLACE toute version anterieure. Fichier-memoire unique du corpus : entrees 01-39 completes.
 
 ## ETAT DU CHANTIER
 
@@ -17,9 +16,6 @@ REMPLACE toute version anterieure. Fichier-memoire UNIQUE du corpus (decision ed
   dediee), "biological alchemy" (39), "origine des cornes / ancient dynasty" (39).
   "Sun realm long format" : partiellement absorbe par 37, pas de video dediee.
   La creatrice invoque une maladie chronique (39) pour les retards.
-- Tout est centralise ICI. Les fichiers de recap intermediaires
-  (Corpus_Infa_Lots6-7_Recap.md, Corpus_Infa_Lot8_Recap.md) sont absorbes par ce W3 :
-  a supprimer du depot s'ils ont ete commites.
 - PROCHAINE ETAPE : reprendre le cadrage de Passe 0 (BIBLE, architecture, Sources.md,
   Sommaire). Le Sommaire n'existe pas encore (verifie 2026-08-01) : les versions W2 de
   l'Index et du Glossaire devront y etre reportees a sa creation si _Corpus y est trace.
