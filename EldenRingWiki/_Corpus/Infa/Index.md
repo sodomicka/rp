@@ -1,29 +1,42 @@
-# CORPUS INFA - INDEX [W1]
+# CORPUS INFA - INDEX [W2]
 
 Memoire de la passe d'inventaire du corpus (39 transcripts, EldenRingWiki/_Corpus/Infa/).
 Ce fichier est du materiau de travail (prefixe _Corpus) : jamais cite comme reference dans les pages du wiki.
+REMPLACE la version [W1]. Consolidation finale : entrees 01-39 completes.
 
 ## ETAT DU CHANTIER
 
-- Lots 1 a 5 indexes : transcripts 01 a 26 (lus integralement).
-- RESTE A LIRE : lot 6 = 27-30 (~152 Ko), lot 7 = 31-35 (~78 Ko), lot 8 = 36-39 (~144 Ko).
-- A la fin de l'inventaire : consolider cet Index (entrees 27-39), livrer version finale + Glossaire final, puis reprendre le cadrage de Passe 0 (BIBLE, architecture, Sources.md, Sommaire).
-- Tailles (octets) pour calibrer les lots : 27=4820, 28=23560, 29=73629, 30=50512, 31=8514, 32=13639, 33=30773, 34=10331, 35=15081, 36=11531, 37=67927, 38=13164, 39=51168.
-- Videos annoncees par Infa non encore croisees : Dragonology (1h40), "wisdom of stone", "sun realm" long format, "grandmother / lineage of the three sisters" (magnum opus annonce). Probablement dans 27-39.
+- INVENTAIRE TERMINE : 39/39 transcripts lus integralement (lots 1-8).
+- CORPUS FIGE a l'etat 39 par decision editeur du 2026-08-01. La video 39 etait parue
+  depuis moins de 24h au moment du gel : Infa est active, le corpus est a jour au
+  2026-08-01. Extension prevue (40.txt et suivants) quand de nouvelles videos paraitront.
+- Videos annoncees JAMAIS PARUES dans le corpus : le magnum opus "grandmother / lineage
+  of the three sisters / lineage of Miranda" (28 = seule version courte existante),
+  Caligo, Dragonology (1h40), "wisdom of stone" (le concept irrigue 23/30/33 sans video
+  dediee), "biological alchemy" (39), "origine des cornes / ancient dynasty" (39).
+  "Sun realm long format" : partiellement absorbe par 37, pas de video dediee.
+  La creatrice invoque une maladie chronique (39) pour les retards.
+- Recaps detailles des lots : lots 6-7 dans Corpus_Infa_Lots6-7_Recap.md, lot 8 dans
+  Corpus_Infa_Lot8_Recap.md (archives de travail, meme statut _Corpus).
+- PROCHAINE ETAPE : reprendre le cadrage de Passe 0 (BIBLE, architecture, Sources.md,
+  Sommaire). Le Sommaire n'existe pas encore (verifie 2026-08-01) : les versions W2 de
+  l'Index et du Glossaire devront y etre reportees a sa creation si _Corpus y est trace.
 
 ## DECISIONS ACTEES PAR L'EDITEUR
 
 1. Corpus stocke en _Corpus/Infa/, fichiers 01.txt a 39.txt, ordre chronologique de sortie (ses renvois "previous video" deviennent tracables). Pas de fichier inventory ; pas de marqueurs temporels dans les txt.
 2. Transcript 12 = video de KiteTales (pas d'Infa), incluse volontairement car Infa la recommande (10) et y souscrit "mostly" (13). Attribution obligatoire : [THEORIE - KiteTales], jamais [THEORIE - Infa].
-3. Registre S4 minimal : tout se cite [THEORIE - Infa] (ou KiteTales pour le 12). Les createurs qu'Infa cite (Zullie the Witch, Tarnished Archeologist, Nameless Singer, Jack the Mimic, Kick6, Elden Dork, Bonoon, Pevergild Sage, Ooze Prince of Death, Black Currant Law, Chocolate Scott, Tim Digy, redditors) restent SA responsabilite : traces ici, aucun statut propre chez nous, citables uniquement en seconde main ("Infa rapporte que...").
+3. Registre S4 minimal : tout se cite [THEORIE - Infa] (ou KiteTales pour le 12). Les createurs qu'Infa cite restent SA responsabilite : traces ici, aucun statut propre chez nous, citables uniquement en seconde main ("Infa rapporte que..."). Liste lots 1-5 : Zullie the Witch, Tarnished Archeologist, Nameless Singer, Jack the Mimic, Kick6, Elden Dork, Bonoon, Pevergild Sage, Ooze Prince of Death, Black Currant Law, Chocolate Scott, Tim Digy, redditors. Ajouts lots 6-8 : Miquella's Alt Account ("Michelazol", "Mickey"), NotGodwyn, Metapho, Sanguine Noble Natan, "Vardy" (a identifier, possiblement VaatiVidya), Lance McDonald (dataminer), Sekiro Dubi (dataminer, "Saro Dubbie"), "Vincent" (developpeur d'outil freecam, pas un theoricien).
 4. "rot mommy 2.0" (Romina) = blague d'Infa, pas une erreur de transcript. Voir section Surnoms du Glossaire.
 5. 14.txt remplace (l'original etait un doublon de 15) : c'est bien la video One Great / Fell God.
+6. "Maliketh demi-frere de Marika" (30) = FAIT S1 acte par l'editeur, motif recurrent du shadow-frere (Blaidd l'est pour Ranni). Ancrage S1 exact (dialogue de Ranni / description) a consigner au moment de l'ecriture des pages, tracabilite oblige.
+7. Corpus fige a 39 (2026-08-01), extension 40+ a l'identique quand Infa republiera.
 
 ## CONVENTIONS DE CITATION (pour les futures pages du wiki)
 
 - Format : [THEORIE - Infa, video NN] + ancre textuelle courte (pas de timestamps dans le corpus).
 - Datation obligatoire quand la position a evolue : "Infa (pre-DLC, 02)" vs "Infa (post-DLC, 13)". Voir Strates.
-- Theses reposant sur Nightreign (19, 20, 21, 25, 26) : double balise [THEORIE - Infa] + [NIGHTREIGN]. Doctrine : univers parallele, n'ecrase jamais S1, ne comble jamais un trou de S1.
+- Theses reposant sur Nightreign (19, 20, 21, 25, 26, 27, 33, et ponctuellement 28-39) : double balise [THEORIE - Infa] + [NIGHTREIGN]. Doctrine : univers parallele, n'ecrase jamais S1, ne comble jamais un trou de S1.
 - Ce qu'Infa presente comme datamine, cut content ou noms de fichiers internes : baliser [DATAMINE] ou [CUT] chez nous ET verifier avant usage (liste en fin d'index).
 
 ## STRATES DIACHRONIQUES (positions d'Infa dans le temps)
@@ -31,13 +44,17 @@ Ce fichier est du materiau de travail (prefixe _Corpus) : jamais cite comme refe
 Le corpus a deux charpentes + des revirements dates. Ne jamais citer "Infa pense X" sans strate.
 
 - Charpente precoce (01-02, pre-DLC, reaction au story trailer SotE) : thriller politique centre Marika. Horcruxes via Amber Egg (Radagon = loyaute, Godwyn = amour, Ranni = dessein), trahison des Nox, plan d'evasion, fin de Ranni = victoire de Marika.
-- Charpente mure (14 a 26, 2024-2025) : archeologie cosmologique. Sun Realm, One Great (deux Great Trees : Deeproot Depths + Elphael), arbres des Divine Towers, cycle of return (chaque ere = reset design de la Greater Will), Old Gods, Marika briseuse de cycle. La strate mure englobe la precoce sans la renier ; la citer par defaut comme "position d'Infa".
+- Charpente mure (14 a 39, 2024-2026) : archeologie cosmologique. Sun Realm, One Great (deux Great Trees), arbres des Divine Towers, cycle of return, Old Gods, Marika briseuse de cycle. La strate mure englobe la precoce sans la renier ; la citer par defaut comme "position d'Infa".
+- Le lot 8 (36-39) VERROUILLE la charpente mure en un modele geographique unique : le Land of Shadow etait le nord (37), le Scadutree = Elphael = le Helphen, Farum Azula a son sommet. Le 39 fournit le cadre transversal "mobilite = fate" (cursed blessings des demigods) qui relie 02, 05, 08, 24, 28, 29, 30.
+- Datation interne : 33 ~ nouvel an 2026 ; 39 parue fin juillet 2026.
 
-Revirements traces :
+Revirements et revisions traces :
 - Origine de Messmer : (a) 02 pre-DLC = ne du sacrifice rituel de Miquella orchestre par Marika via Mohg ; (b) 13 post-DLC = fils de la Gloam-Eyed Queen (theorie KiteTales adoptee "mostly"), pere non nomme ; le 12 (KiteTales) ajoute Radagon comme pere.
-- Relation Marika / Gloam-Eyed Queen : (a) 01 = soeurs, Marika traitresse, GEQ = la soeur tuee ; (b) 13 = soeurs (les Empyreans connus sont une fratrie) ; (c) 24 = identite par divestissement : la GEQ s'est delestee de Destined Death et EST DEVENUE Marika (parallele Miquella/Trina). Infa revendique l'ambiguite ("mother, sister, contemporary : right and wrong").
+- Relation Marika / Gloam-Eyed Queen : (a) 01 = soeurs, Marika traitresse, GEQ = la soeur tuee ; (b) 13 = soeurs (les Empyreans connus sont une fratrie) ; (c) 24 = identite par divestissement : la GEQ s'est delestee de Destined Death et EST DEVENUE Marika (parallele Miquella/Trina). Infa revendique l'ambiguite ("mother, sister, contemporary : right and wrong"). Depuis 29-30, la lecture (c) sert d'arriere-plan par defaut ("Marika alluded to as the GEQ", les black knives comme filles possibles de son bloom).
+- Tablette des lesser giants : (a) 30 = verrou empechant l'ame du fell god d'habiter le geant ; (b) 38 = gravestone-pilote, "soul slave" operant le vessel (~ Brick Hammer, ~ Rennala et ses enfants-gravestones). Dater imperativement si citee.
+- Mohg : lecture de plus en plus noire (08 = pas innocent ; 33 = bras de Miquella arrache, abduction violente ; 39 = vessel-sacrifice parfait, esprit deja perdu). Coherente, pas contradictoire.
 
-## INDEX DES TRANSCRIPTS (01-26)
+## INDEX DES TRANSCRIPTS (01-39)
 
 Format : NN - titre reconstitue (periode). Theses saillantes. Ratio observation-S1 / theorie (estimation).
 
@@ -94,37 +111,110 @@ Trois Eternal Cities reliees par transports a sens unique (cercueils), fleuve de
 
 26 - Noklateo = la Nameless Eternal City [NIGHTREIGN] (36 Ko). Noklateo contient tout ce qui manque a la Nameless (crypt throne + squelette, astel + ciel nocturne, black knives, mimic) et s'emboite dans le vide de lower Leyndell. Etymologies des trois cites. Tresors relus : duplication crypt -> 7+3+1 mausolees + original = 12 black knives (les enfants non desires sacrifies pour cloner la Fingerslayer) ; benediction de resurrection -> tech de renaissance generationnelle. "Cutting-gifted tribe" = lignee shaman/greffe ; Urumi / night folk / moon folk = racines cariennes. Le peche de l'Erdtree prevu par la tribu = LA PLUIE (tangente chimie des COV : l'arbre-continent comme catastrophe atmospherique, pluie bleue de Nightreign). Plan : sacrifier les trois cites-soeurs pour forger des lunes (Great Stars : soleil eclipse par trois lunes croissantes), eclipser le soleil, voiler l'acte final. Cadre alchimique : Felldon John = le Red King ; rituel d'Enir-Ilim = conjonction alchimique interrompue par Marika -> roi laisse sans forme. ~35/65.
 
-## CARTOGRAPHIE CORPUS -> FUTURS DOSSIERS MYSTERES/ (provisoire, a completer apres 27-39)
+27 - Freecam tour de Nightreign (court) [NIGHTREIGN]. Arbres lointains en 2D (~ tower tree / Scadutree ; souche de la Nameless, trou ~ arbre de la grandmother) ; interieur des divine tower trees ("souls and holes", ongles-branches, PAS de Two Fingers au sommet) ; titans : croissance interne ~ Elden Beast / rune de Radagon, motifs de surface ~ finger ruins / Metyr / GEQ ; cimetiere submerge derriere Noklateo. These : l'arene du Nightlord = royaume liminal + premiere divine gate, faconnee des "grasping bones of an outer god". ~75/25, sa video la plus observationnelle.
 
-- Gloam-Eyed Queen : 12 (KiteTales), 13, 21, 23, 24 (+ strates, cf. supra).
-- Marika : 01, 02, 07, 18, 19, 23, 24.
-- Miquella / St Trina : 02, 04, 05, 08.
-- Godwyn / la Mort / Deathbirds : 11, 14, 19, 26.
-- Metyr et les Fingers : 06, 13, 17, 20, 24.
-- One Great / Great Tree / Erdtree : 14, 20, 21, 26.
-- Fell God / Geants / Giant Rebellion : 14, 21, 24.
-- Crucible(s) : 03, 06, 21.
-- Eternal Cities / Nox / Astel : 01, 11, 19, 26.
-- Dragons / Placidusax / Bayle : 06, 22 (+ Dragonology a venir).
-- Hornsent / shamans / grandmothers : 06, 07, 09, 10, 19, 23.
-- Sun Realm / Farum Azula / Stormveil : 14, 15, 16, 17, 24.
-- Divine Towers : 20, 26.
-- Frenzied Flame : 18 (marchands), 21 (crucible de folie, 06).
-- Nightreign (methodo + contenus) : 19, 20, 21, 25, 26.
+28 - "The Three Moons / Lunar Vessels" (short-form, teaser du magnum opus three sisters JAMAIS PARU). Lunes = divine vessels fabriques par sacrifice de masse (graven mass a conscience alpha ; Sellen = tentative ratee) ; trio carian : Rennala (full moon), Rellana (twin moons), Ranni (dark moon), royaute = "lunar vessels" ; lunes des eternal cities aspirant l'eau chargee d'ames = logistique du root network (runes = ames liquides, "soul juice" refuse par Godfrey) ; fin de Ranni : TROIS lunes spectatrices + petite lune DOREE ("Miquella's Unalloyed Moon", meme asset que la dark moon, liee a la fin cachee de Miquella au discours calque sur Ranni [CUT/DATAMINE], cf. 04) ; la dark moon totalement dissimulee par l'Erdtree ~ 3e soeur towering de Noklateo (trones croissants) ; microcosme de la queue de Metyr = soleil eclipse par trois lunes croissantes -> signal de la GW BROUILLE (~ Great Stars, cf. 26) ; memory stones = shards de la black moon (pouvoir + memoire transmis) ; enthroned maidens = Empyreans supposees. ~35/65.
 
-## REVENDICATIONS A VERIFIER AVANT USAGE (recolte des lots 1-5)
+29 - "Miriel, the serpent in the turtle shell" (long, collab Miquella's Alt Account). Church of Vows vue du ciel = systeme reproducteur feminin (Miriel dans un ovaire) ; ses routes = microcosme de TOUTE la vie de Ranni, lignee shaman incluse (village sous sa tour) ; Erdtree Sanctuary = meme structure (figure voilee suspendue en crypt chair ~ Marika, tenant la Golden Order Principia) ; Miriel : seule tortue geante du jeu (les grandes varietes = femelles), yeux-eclipses, incitateur d'heresie systematique, serpent cache dans la carapace (Metapho), statue derriere lui ~ Velka deesse du peche (Dark Souls) ; trio des rises SANS statue de fillette (Chelona's = turtle rise du sort Dark Moon, Testu's, Converted Fringe Tower a la statue de Marika + gesture Erudition) dont le croisement geometrique = la Church of Vows et le signe zodiacal du CANCER (yeux des juvenile scholars ~ xanthogranulome, credit Kick6 ; la constellation Cancer fut d'abord une TORTUE ; Hecate au temple de Lagina en CARIE) ; l'eternite de Marika = cancer systemique, Ranni = la cellule immortelle vengeant les "roots mired in madness" ; recap des cheats d'ascension (Marika via Radagon ; Miquella deleste de sa moitie femelle ET de son ego ; Ranni ancree a un frame immortel sterile ; Rykard reborn via le serpent ; Malenia = contre-exemple au womb intact) ; Ymir = mere ratee (hara sans womb) voulant fusionner avec Metyr ; rock-coated sickness commune a Rykard, sa forme-serpent et Romina (credit Natan) ; Messmer soigne par sa mere ; Roderika = shaman voyant les morts. These finale : Miriel = "le Radagon d'un autre Empyrean". ~30/70.
+
+30 - "The Black Knife Assassins". Inventaire S1 majeur : 20 BKA (22 avec Nightreign), 13 physiques / 7 spectrales, ZERO au DLC ; positions detaillees (cadavres : 3 autour d'Iji, 4 autour de Blaidd, 1 a Ordina ; Alecto + spirit ash de Tiche sa fille ; 4 dans l'evergaol d'Ordina SANS la lueur bleue standard ; semi-spectre laissant des traces de pas). Verifs bilingues : scions/kin/stock de Marika (EN+JP), coffre de la Fingerslayer (EN "destined" / JP "fated"). Filenames [DATAMINE] : Nox "Marica lineage man/woman sword/woman dagger", silver tears "Marica lineage slime", boules-meres "mother slime", Melina "daughter of Marica", BKA "Blacksword" ~ Maliketh "Black Sword [Maris?]", shadow realm "Shadow Dead". Regle du sang : un etre saigne ce qui le compose (Nox rouges, albinaurics developpes rouges : Gaius, Latenna) ; exception unique = Tarnished et Nightfarers (composes de grace). LA trouvaille : une assassin unique BLESSEE (Deathtouched Catacombs) aux entailles suintant du sang ROUGE mais saignant le miasma noir au combat ; artwork officiel de l'assassinat = cheveux blancs shamans. Theses : BKA = armes-vessels de Marika ~ Melina ("weapon against the tree", "ultimate sleeper cell") ~ Maliketh (demi-frere, cf. decision 6 ; Destined Death scellee dans la lame, la lame en lui ; sa lame ~ le corps de Marika) ; leurs ames habitent l'armure qui brandit leur ancien corps (lame = corps, via la duplication des mausolees, cf. 26) ; sans-tete = pre-programming sans override ; chair shaman = fusion avec l'inorganique ; gloam pourpre = rouge (Destined Death, scellee) + bleu (ghostflame restante), coherence 01 ; Iji englouti de flamme noire = signature de la GEQ, maitre formless des assassins ; alternative : BKA = filles-soeurs nees du BLOOM de la GEQ. Cle du futur magnum opus : mere et fille = jumelles genetiques (reproduction quasi asexuee, l'Amber Egg la rend sexuee et permet le divestissement dans la progeniture). Etymologies : Alecto = Erinye, Tiche = Tyche, descendantes de NYX ("Nox") la grandmother primordiale ; teaser Caligo. ~45/55.
+
+31 - "15 Secrets" #1. Spirit summoning bell de Ranni = boite de pierre inscrite ~ gravestones / divine towers ; murmures des albinaurics = maledictions transcrites ("Punish every living thing") ; jarres shamans-guerrieres SANS MARQUE de Raya Lucaria aux fissures au KINTSUGI d'or ; souche geante DOREE cachee sous les racines (echelle via Smithbox) ~ partie courbe du Scadutree ; serpent pale commun a Messmer, aux abductor virgins (wheel wombs) et aux grave wardens pales du Nord interdit ; Sellia = village de moulins verticaux (asbads, concept art officiel [S2]) ; Scadutree Avatar : versions cachees a DEUX puis TROIS tetes (modeles) ; zone d'eveil du tarnished ~ layout sous l'arene de Radagon = entree de l'Erdtree ; l'assassin blessee NE PEUT PAS utiliser les attaques Destined Death (complement 30). ~70/30.
+
+32 - "15 Secrets" #2. Fillettes des rises = motif du debate parlor + tenues des headmasters (consolide 29) ; SANG D'OR unique a la Chapel of Anticipation (consolide 24) ; Fire Giant : 2 doigts ET 2 orteils brules du meme cote (brules par la black flame pre-scellement ?) ; trolls = seuls yeux godskin du jeu (consolide 24) ; QUATRE tornades a Farum Azula : trois petites soeurs + une mere ; motif "goatboat" (Enir-Ilim -> plastron des Banished Knights -> Elphael/Triton de fronton -> coliseum) ; ancient dragons : couronne de HUIT doigts au front (= les huit doigts de Metyr), mais DEUX sur toutes leurs statues sans exception ; Placidusax lui-meme tordu en forme de two fingers / queue de Metyr ; Metyr ~ l'Elden Ring originel de Farum Azula (consolide 24) ; fleches du Carian Manor = projection de LORETTA (le "piege" dont parle Iji) ; blobs de Rennala = scions de la "mother slime" [DATAMINE] ; le visage de Marika POURRIT sur l'Erdtree's Favor (~ Romina, portraits de Rykard, Taker's Cameo) ; LE SERPENT DE RYKARD A UN NOM, dans une cut voice line detruite par la transcription (source du "Evangelene" de 29-30) [CUT]. ~55/45.
+
+33 - "The Arcane Scholar" (Scholar de Nightreign + Seluvis/Pidia, ~nouvel an 2026). [NIGHTREIGN] Scholar : maladie = VIEILLISSEMENT accelere, sang argent, int basse / arcane haute, night invader "Deceiver" ; primal glintstone = coeur de rechange au FOETUS central ~ larval tear -> transferral = profane birthing ritual. THESE : Seluvis est un PUPPET, le vrai marionnettiste = PIDIA (mecaniques de PNJ majeur, drops Dolores/Nepheli, carte de l'Amber Starlight, Seluvis inerte "cordes coupees" a la rupture) ; Pidia = SEUL albinauric au sang ROUGE = rubedo alchimique (pre-pierre philosophale) ; puppets = ingredients du Grand Oeuvre (clone de Sellen = princesses cariennes disparues, finger maiden, Nepheli womb-crucible, Dolores masculine ET feminine, le jar man tete-dans-la-jarre) ; scenario de body-hop generationnel incestueux via jumeaux divins ; lecture noire de la scene de la Revenant [NIGHTREIGN] ("Khloe") ~ le PRISONER (classe : elite condamnee, Iron Mask, artwork du massacre au Carian Manor [S2]) = rituel de defilement ; LE BRAS DE MIQUELLA sortant du cocon = ARRACHE ET CASSE (modele : tordu, snappe en arriere) -> abduction violente par Mohg (consolide 08) ; "the bug collecting the gold within the excrement" (Fia ET le Dung Eater gestant des great runes) ; red glintstone banni car il REVELE la magie du sang ("the true cost of power is blood") ; "the foundations of the frenzied gold is the hue of destined death: GLOAM". Necromancer Garris et l'arme Family Heads (jumeaux + mere sacrifies). ~35/65.
+
+34 - "15 Secrets" #3. Yeux des soeurs de Millicent sous les bandages (Mary, Maureen, Amy) ; POLYANNA = miroir exact de MELINA (Blade of Calling + seal, seule aux incantations, oeil scelle en miroir) ; cicatrices de toutes ~ Melina "born burned and bodyless" (brulage = sauver l'ame de la rot ?) ; yeux-eclipses de Miquella ascensionne ET de Miriel (consolide 28/29) ; iris de Metyr = quatrefoil (consolide 17) ; Placidusax yeux d'or, en attente comme Metyr ; staff de Metyr = microcosme en TRIPLE ECLIPSE vs staff d'Ymir = meteorite (~ Onyx/Alabaster lords et leurs stargazers) ; Gurranq : ongles secretement VERTS ~ armes godskin JP "secretly colored" / EN "celadon" (consolide 24) ; Maliketh : fourrure DOREE en artwork ; DESTINED DEATH POURPRE/GLOAM EN VERSION 1.0 [DATAMINE] (consolide 01/30/33) ; l'IMP POST-BURN sur la lance de Leyndell (~ Enia / grandmotherly crone, cornes de chevre, TROIS doigts par main) ; preuve "arbre superpose sur souche" au marais de Mohgwyn ; D twins = jumeaux male/femelle fondations du Golden Order ("hot fatherly gold and cold motherly silver") ; glands uniques aux vignes de l'entree de l'arbre ~ cloches sous Rennala. ~70/30.
+
+35 - "15 Secrets" #4. Pied gauche du Twinned set = 2+3 orteils COMME le Fire Giant (consolide 32) ; BOREALIS : EN pluriel vs JP SINGULIER (un seul ice dragon lord des pics, vaincu par les fire giants), ROUGE ET POURPRE sous le givre, meme dragon singulier dans Nightreign [NIGHTREIGN] ; cape de GODFREY = sigil des Crucible Knights = TENUE DE GODWYN (crucible vegetal : tournesols, raisins, palmiers, serpent a la base) ; Godfrey a des cheveux sous la couronne ; guerriers de ZAMOR : visage sous le masque ~ sourire de la grandmother ET de Marika serpentine (tombeuse presumee du fell god) ; DOSSIER "LES SERPENTS DISPARUS" : aucun serpent normal dans tout le jeu, seules traces = mues a Volcano Manor et Bonny Village ; these : serpents des Lands Between -> le crucible de Rykard, serpents des Shadowlands -> la fabrication des jarres shamans ; abductors a Gelmir : faces + mains griffantes dechirant le womb ; recap sacrifice d'enfants (Moloch des pretres du feu, FOETUS EMBROCHE du Staff of the Guilty, dragon communion = tuer les enfants de Bayle) ; les HORNSENT decouvrant que leurs rites = ceux du FELL GOD, verite cachee au fond des gaols -> colere de Marika, extermines par des representations du dieu qu'ils nommaient "evil god of fire" ; Mohg = verite enterree de Marika, visage ~ la face au dos du Lamenter (fell god) ; serpents de carte en NEGATIF (Gelmir mange le volcan / l'abyssal forest en creux mange les finger ruins, pointant vers Bayle) ; motif des ascenseurs en negatif = DOIGTS. ~65/35.
+
+36 - Teaser du deep dive arbres/buds. Declencheur : cutscene cachee dataminee par Lance McDonald : MIQUELLA ARROSANT UN SEEDLING DE SON SANG [DATAMINE]. "Bloom of buds" : les flower maidens deviennent des arbres a leur mort ; TWIN FLOWER MAIDENS aux fondations du Haligtree = fondations du great tree network ; jumeaux = outils de l'alchimie biologique (twin great runes composant l'Elden Ring = l'Elden Beast) ; "the cost of gold of divinity is blood", "the same gold below is the same gold above" ; cheveux = lignee (cheveux-DOIGTS d'Ymir a sa transformation ; Metyr ~ l'Elden Ring originel, doigts en place de racines) ; jeunes filles sur les cercueils de Raya Lucaria = les princesses cariennes disparues ; le seedling de la cutscene = l'arbre du HALIGTREE MEDALLION = l'arbre d'AVANT la superposition du Haligtree (consolide 14) ; rois jumeaux barbus des ascenseurs nord (tablier : arbre ancien, twinbirds, serpents, DEUX arbres aux racines) ; la neige = eau solide saturee d'esprits ; maiden au bas d'Elphael a la moitie inferieure manquante (bud sacrifice) ; MOTIF DES ASCENSEURS decode : un BUD entre HUIT DOIGTS (~ le womb de Metyr flanque de huit doigts, qui nourrit et compose l'Elden Ring). ~45/55.
+
+37 - "OU ETAIT LE LAND OF SHADOW" (68 Ko, ~1h, LA these-monstre, un an de travail). THESE : le Land of Shadow = LE NORD (forbidden lands + Mountaintops + Consecrated Snowfield). Mesures au pas (50 pas = 3 cm ; Shadowlands = 3750 pas > Limgrave+Weeping = 2650) ; l'ombre de l'Erdtree au couchant couvre exactement le nord ("Shadow of the Erdtree" litteral ; au matin elle couvre les sites rituels de Ranni) ; soleils geles de Farum Azula et Enir-Ilim (ou la lumiere derriere la divine gate N'EST PAS le soleil : "where divinity goes to and descends from") ; suppressing pillar = centre VERTICAL ; la carte spirale en trois spheres ; correspondances massives (calices et FEUILLES de Leyndell venus d'Elphael ; relief unique d'Elphael a la vieille eglise submergee du Shadow Keep ; First Church of Marika ~ shaman village + Finger Ruins of Dheo ; sigil des fire giants ; ancient dynasty ; ruban colore du nom "Mountaintops" matchant uniquement la carte du DLC ; epines Shadow Keep / geants empales / Stormveil / entree de l'Erdtree ; spectres de Castle Sol vs corps du Shadow Keep = separation spirituel/physique des deux cartes) ; Godfrey : set Highlander ex-"Brave outfit" aux "frigid uplands" [CUT], marche du nord au sud ; stone coffin ships = engrais/sacrifice vers les towers ou vers la forge (les morts brules pre-Erdtree ; cut maps de la connexion au nord, Sekiro Dubi [CUT]). DEUXIEME SENS DU TITRE : LE SCADUTREE = ELPHAEL = LE HELPHEN, l'arbre de MORT, ombre de l'arbre de vie (medaillons Rold rouge / Haligtree vert = les deux gemmes du Helphen ; pins spectraux a deux leaders renaissant par le feu ; CROSS-TREE SHIELD ~ IDENTIQUE au sigil des TWO FINGERS ; plastron des Black Knights = Scadutree (S1) -> meme arbre sur le Carian Thrusting Shield et l'armure de Blaidd : l'arbre revere des CARIANS, lies aux geants) ; le vert d'Ordina = afterglow de l'arbre scelle (~ celadon) ; FARUM AZULA AU SOMMET DU HELPHEN (bird nest) : les arbres attirent la foudre, la fumee du brulage des morts a la forge conjure les tempetes, la foudre = le meme or que le Golden Order, un arbre foudroye "crumbles from within" ; l'apex = la chambre de Placidusax ; Bayle au Jagged Peak recree la recolte de foudre ; Farum Azula = "blue lighthouse" : couronne BLEUE + miasma ROUGE du Helphen = LE GLOAM (boucle chromatique 01/30/33/34) ; ponts de Farum Azula + water braces d'Elphael vus du ciel = le pattern du Furcalling Finger Remedy = le Mending Rune of Death = le sigil de gravite ; destruction par meteore (Ruin's Greatsword, site du Consecrated Snowfield, trajectoire ~ Nokstella) ; frenzy du nord expliquee par Midra + les Three Fingers ; dragons ORIGINAIRES DU NORD chasses par les fire giants ; blooms geants seulement a Caelid (Malenia) et au nord (ROMINA, traces de rot sur Ordina) ; arbre de Bonny Village = celui de la grandmother SANS trou, pointant vers le snakeskin ; ouroboros "cache dans le O" du titre du DLC. ~50/50, la plus documentee du corpus.
+
+38 - "15 Secrets" #5 (sponsorise). Marionnettes et flame chariots GEANTS brises (Liurnia Highway North) ; maidens aux jarres FUSIONNANT avec les piliers des chateaux (consolide 15/37) ; REVISION : la tablette des lesser giants relue en GRAVESTONE-PILOTE, "soul slaves, laborers" (Brick Hammer), ~ astrolabe ET sigil de l'Erdtree ; trahison des trolls = pivot de la guerre (Giant-Conquering Hero's Grave, seul lieu au sigil des two fingers) ; cinematique d'ouverture : une zone = le Land of Shadow (la tenue de Marika y a UNE boucle, DLC, vs deux en base ; ~ le Forsaken Graveyard) ; serpent a langue fourchue dans la Lizard Greatsword ; mains d'Enia en position de jar shaman (+ theorie communautaire de sa grossesse) ; le 6e doigt de MOHG = une CORNE ; lune doree hors-limites reliee au cut Miquella de Lance McDonald (attention : "Radagon, my promised consort" dans le transcript = mangle de RADAHN) ; bijoux des maidens tronees : anneaux a DEUX GEMMES ROUGES flanquant UNE VERTE (~ Rold/Haligtree), attelle rouge-or ; ceintures des Alabaster/Onyx lords ~ Raya Lucaria / forge / gaols / haut du Haligtree, epees bleu et or "couleur de meteorite" ; QUATRE assassins dans l'evergaol d'Ordina (positions) ; concept art : la forge des geants AVEC COUVERCLE [S2] ; coeurs des furnace golems : un dragon, un cheval, des corps, AUCUN Hornsent ; dragon altar de Farum Azula = restes possibles du PREMIER dragon ancien (seul match : artbook officiel [S2], "halfway state between Gransax and Greyll") ; Farum Azula = "blue lighthouse". ~70/30.
+
+39 - "Pourquoi le corps de Mohg" (long form final du corpus). THESE-CADRE : AUCUN enfant de Marika ne marche correctement ; cursed blessings entre deux poles : SPIRITUEL (perte du corps ~ primeval current : Melina, Ranni, couronne de Miquella s'effacant, Serosh "regent" s'effacant, formless mother, fire giant) vs BESTIAL (perte de l'esprit ~ crucible : Hoarah Loux, Malenia devenant la rot, Mohg, Morgott phase 2, Radahn rampant, Messmer sur le ventre, Rykard) ; "MOVEMENT IS FATE" : Radahn arretant les etoiles = arretant les destins, sa gravite apprise pour freiner SA PROPRE degenerescence ; cover-up d'image du Golden Order (quasi aucune statue des demigods ; quete coupee de l'expose public de Morgott, via "Vardy" [CUT] ; combat final de Radahn = MERCY DEATH pre-planifiee, consolide 05 ; meurtre de Godwyn possiblement planifie pareillement ; croisade et scellement de Messmer planifies : LE VOILEMENT = enterrement des secrets de famille) ; Miquella equipait son consort (Lion Greatbow aux lys dores, cape ~ Haligtree, CHAUSSURES DE RADAHN ~ SIGIL DRYLEAF dont le talisman booste les incantations de Miquella) ; cannes lordly (Morgott, Mohg, Messmer, omen nobles, hornsent) = maintien de POSTURE, pas incapacite. POURQUOI MOHG : cornes = renfort structurel (talons-cornes des sanguine nobles, cf. 31 ; red albinaurics) + antenne divine ("literal keys to divinity" ; Hornsent a la flamme abyssale innee "comme les Omen" ; cornes de Bayle appelant la foudre ; divine beasts "sculpted keepers") + LE SANG : "the blood of the old god", le sang omen de feu NE POURRIT PAS -> contrepoids exact a la rot de Malenia dans Radahn ("if the vessel decays, so too does the vision") ; Mohg cultive ses cornes comme une benediction (oeil GAUCHE - l'ame - perce par ses propres cornes : esprit perdu, vessel pur et disponible), Morgott les gere comme une curse (oeil DROIT couvert de cornes rasees) ; Mohg ~ le fell god borgne couronne de cornes (furnace golems, bouclier, chariots ; Lamenters aux cheveux rouge et or ~ sigil des fire giants ~ Radagon/Marika) ; "the ancient dynasty of the FELL GOD" que Mohg veut raviver ; Morgott = "Fell Omen" (consolide 35) ; risque de la cultivation = FRENZY ou SOMMEIL PROFOND ; equilibre reussi = ancestral followers (Spiralhorn Shield + 2 des 3 Clarifying Horn Charms, le 3e sur un Lamenter) ; les charms = la recette d'un dieu durable (focus/robustness/immunity = mind/body/soul) ; GREAT RUNES = miroirs de leurs porteurs (Mohg brule, Morgott polie, Malenia pourrit, Rykard serpentine, Radahn brule contre la rot). SYNTHESE : Radahn = Lord, Miquella = God, Mohg = Sacrifice, la trifecta Radagon/Marika/Elden Beast reconstituee "without the fickle nature of the gods that shattered it" ; filename de l'Elden Beast = "nebula dragon" [DATAMINE] ; lecture finale tres pro-Miquella ("a real chance at a true Eden"). Fin : prochain long form (origine des cornes / ancient dynasty) repousse pour maladie chronique. ~40/60.
+
+## CARTOGRAPHIE CORPUS -> FUTURS DOSSIERS MYSTERES/ (consolidee, corpus fige a 39)
+
+- Gloam-Eyed Queen : 12 (KiteTales), 13, 21, 23, 24, 29, 30, 32, 35 (+ strates).
+- Marika : 01, 02, 07, 18, 19, 23, 24, 29, 30, 32, 35, 37, 38, 39.
+- Miquella / St Trina / Radahn consort : 02, 04, 05, 08, 28, 29, 30, 33, 34, 36, 39.
+- Godwyn / la Mort / Deathbirds : 11, 14, 19, 26, 30, 35, 39.
+- Metyr et les Fingers : 06, 13, 17, 20, 24, 28, 29, 32, 34, 35, 36, 37.
+- One Great / Great Trees / Erdtree / Helphen : 14, 20, 21, 26, 31, 34, 36, 37.
+- Fell God / Geants / Giant Rebellion / fire monks : 14, 21, 24, 32, 33, 35, 37, 38, 39.
+- Crucible(s) : 03, 06, 21, 29, 35, 36, 39.
+- Eternal Cities / Nox / Astel / silver tears / Albinaurics : 01, 11, 19, 26, 28, 30, 31, 33, 38.
+- Dragons / Placidusax / Bayle / Borealis : 06, 22, 32, 35, 37, 38 (+ Dragonology jamais parue).
+- Hornsent / shamans / grandmothers : 06, 07, 09, 10, 19, 23, 29, 30, 35, 37, 39.
+- Sun Realm / Farum Azula / Stormveil : 14, 15, 16, 17, 24, 32, 36, 37, 38.
+- Divine Towers : 20, 26, 35, 36, 37.
+- Frenzied Flame : 18, 21, 33, 37.
+- Black Knives / Night of Black Knives : 02, 26, 30, 31.
+- Ranni / Age of Stars / lunes / lunar vessels : 16, 24, 26, 28, 29, 30.
+- Miriel / Church of Vows : 29, 34.
+- Seluvis / Pidia / puppets : 33.
+- Millicent et soeurs / Malenia : 34, 39.
+- "Les serpents disparus" / Rykard : 29, 32, 35, 37.
+- Melina : 02, 30, 34, 39.
+- Maliketh : 30, 34.
+- Mohg / Morgott / Omen : 33, 35, 38, 39.
+- Alchimie (rebis, rubedo, lion vert) : 26, 29, 33.
+- Land of Shadow / geographie sacree : 37, 38.
+- Cursed blessings / mobilite des demigods : 39 (cadre transversal).
+- Chromatique gloam (rouge+bleu=pourpre) : 01, 30, 33, 34, 37.
+- Goldmask : 33. Roderika : 29, 33. Enia : 33, 38.
+- Nightreign (methodo + contenus) : 19, 20, 21, 25, 26, 27, 33 (+ ponctuel 28-39).
+
+## REVENDICATIONS A VERIFIER AVANT USAGE (consolidees, lots 1-8)
 
 Verifications S1 / bilingues :
-- Patches ayant AJOUTE "great tree" : Root Resin, Deathroot, carte des Deeproot Depths (14) - verifier via historiques de patch.
-- JP du Godslayer's Greatsword : lame "secretement coloree" celadon (24).
+- Patches ayant AJOUTE "great tree" : Root Resin, Deathroot, carte des Deeproot Depths (14) - historiques de patch.
+- JP du Godslayer's Greatsword "secretement colore" celadon (24) ; precise par 34 : JP "secretly colored" / EN "celadon, greenware".
 - Pluriel "old gods'" sur l'Ancient Meteoric Ore Greatsword, EN et JP (21).
-- Nom EN exact du "nostrum aux lamproies" (11) et de l'attaque de Metyr transcrite "cow Tower's resentment" (24).
+- Nom EN exact du "nostrum aux lamproies" (11) et de l'attaque de Metyr "cow Tower's resentment" (24).
 - "Trolls = lesser giants" et ajout du mot "lesser" par patch (24).
+- Remembrance du Scadutree Avatar : JP "dark sentiment" vs EN "dark notions" (30).
+- Coffre de la Fingerslayer : EN "destined" vs JP "fated" (30).
+- Armure albinauric femelle "same metal as their mother" (30).
+- Turtle Neck Meat : description originale (procreation) + retrait par patch ? (29).
+- Blasphemous Claw : "le serpent etait un allie de Ranni" (29).
+- Dialogue de Miriel "I cannot be wounded, I cannot die" (29).
+- Raptor's Black Feathers : mention "Ravenmount assassins" ? (30).
+- Citation Ranni "a wound ne'er to heal" (30).
+- "Marika's Mischief" : objet reel (voile Nox de shapeshift, chateau GEQ-coded), probablement Nightreign, EN + lieu (29-30).
+- "malignant snowflake" : terme oncologique reel ? (29).
+- Decompte 20 BKA / emplacements des cadavres (30) ; sigil Nightreign de la malediction de Morgott "Unhealed wound carved by the knight" (30).
+- Sorts Haima de la Converted Tower ("adjudicator", haima = sang) (29).
+- Borealis : EN pluriel vs JP singulier, source exacte (35).
+- "Hot fatherly gold and cold motherly silver" : source EN exacte (34).
+- Cinquedea : "doigt supplementaire = don d'intelligence aux beastmen" (34).
+- Descriptions class Prisoner + Iron Mask ; artwork du prisoner au Carian Manor [S2] (33).
+- Arme "Family Heads" : jumeaux + mere, attribution a Garris (33).
+- Les deux seules occurrences EN de "dregs" (33).
+- Description de Dolores : masculine ET feminine ? (33).
+- Pidia : sang rouge unique, mecanique de protection PNJ (33).
+- "Marika said to have defeated the fell god" : ancrage exact (35).
+- Banished Knights et dragon communion incantations (32, 37).
+- Soeurs de Millicent : armes et yeux exacts (34).
+- Imp post-burn sur la lance de Leyndell : spawn conditionnel (34).
+- Grave Warden Duelists : serpent pale emergeant, versions pourrissantes confinees au nord (31, 37).
+- Concept art Sellia aux moulins [S2] (31) ; forge a couvercle [S2] (38) ; artbook premier dragon [S2] (38).
+- Defaite de Radahn contre Morgott ("grounded and laying on his back") : ancrage ? (39).
+- Serosh "regent of the previous divine order" : formulation S1 (39).
+- Gravel Stone Seal : "la foudre contient le meme or que le Golden Order" (37).
+- Gravebirds "golems crafted to keep the deathrite birds company" (37) ; Cerulean Coast "pair to grave violets" (37) ; etincelles de forge = engrais (37).
+- Flamme de Messmer "ne prenant pas" chez ses soldats vs innee chez les Hornsent (39).
+- Cornes d'argent et d'or = monnaie d'elite hornsent (39) ; emplacements des trois Clarifying Horn Charms (39) ; talisman ~ chaussures de Radahn boostant les incantations de Miquella (39) ; "dryleaf arts = adorateurs de Miquella" (39).
+- Statue Marika + bebe = Messmer jeune : formulation S1 (39).
+- Ruban colore "Mountaintops" matchant la carte du DLC (37) ; feuilles du calice du Scadutree = feuilles d'Elphael (37) ; une boucle vs deux sur la tenue de Marika (38) ; 6e doigt de Mohg = corne, oeil gauche perce, cornes rasees de Morgott (38-39) ; great runes = miroirs des porteurs (39) ; pieds/chaussures de Radahn absents (39) - verifs de modeles.
 
 Datamine / cut a verifier :
-- Fichiers internes : silver tears "Marica lineage slime" (19, 24), misbegotten "children of Radagon" (11, 24), Metyr "Finger Nursery" (24), nom de fichier de boss lie a la GEQ (13), v1.0 de Leyndell peuplee de Banished Knights (14).
-- Dialogue cache/coupe de Miquella calque sur le discours final de Ranni (04).
-- Quete coupee du mimic Asimi (24).
-- Item coupe "Miranda's Prayer" (23).
+- Fichiers internes : silver tears "Marica lineage slime" (19, 24, 30), misbegotten "children of Radagon" (11, 24), Metyr "Finger Nursery" (24), nom de fichier de boss lie a la GEQ (13), v1.0 de Leyndell peuplee de Banished Knights (14), Nox "Marica lineage man/woman sword/woman dagger" (30), "mother slime" (30, 32), Melina "daughter of Marica" (30), BKA "Blacksword" / Maliketh "Black Sword [Maris?]" (30), shadow realm "Shadow Dead" (30), ulcerated tree spirit "snake soul" (29), Miranda "rune eating flower" (29), Elden Beast "nebula dragon" (39).
+- Dialogue cache/coupe de Miquella calque sur le discours de Ranni (04, 28, 38) + lune doree du meme asset (28, 38).
+- Quete coupee du mimic Asimi (24, 30) ; item coupe "Miranda's Prayer" (23) ; ligne inutilisee de Rykard (29) ; cut voice line de Rykard nommant le serpent ("Evangelene" ?) (32) ; quete coupee de l'expose public de Morgott (39) ; set Highlander ex-"Brave outfit" (37) ; cut maps de la connexion au nord (Sekiro Dubi) (37) ; cutscene de Miquella arrosant le seedling (Lance McDonald) (36, 38) ; Destined Death pourpre en v1.0 (34) ; souche doree + Scadutree Avatar a 2 et 3 tetes (modeles, 31).
 
 Enigmes de transcription restantes : voir Glossaire_mangles.md, section Enigmes ouvertes.
