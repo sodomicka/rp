@@ -1,20 +1,21 @@
 # Jyggalag et Sheogorath
 
-- version : W1
+- version : W2
 
 ## Jyggalag, Prince de l'Ordre
 - Sphere : ordre, logique, deduction, previsibilite, stase.
 - Jadis le plus puissant des Princes Daedra. Sa croissance effrayait les autres Princes.
 - Serviteurs : Chevaliers de l'Ordre (constructs cristallins), pretres mortels rallies (precedent canon : Pretres de l'Ordre, 3E 433).
+- Jyggalag emploie peu de magie : ses equipements sont concrets. Epee et armure offertes a son elu : symboles du maitre servi, qui en retour reconnait l'elu (cf. Personnages/Artorias.md).
 - [DIVERGENCE RP] Culte mortel actif au Meretique tardif. Artorias en fut le chevalier, apte a tuer des dragons.
-- Recompense d'Artorias : immortalite, contre reniement total de sa nature d'elu d'Akatosh (cf. Cosmogonie/Enfants_De_Dragon.md).
+- Recompense d'Artorias : immortalite et adoubement, les deux plus hautes distinctions de l'Ordre, contre reniement total de sa nature d'elu d'Akatosh (cf. Cosmogonie/Enfants_De_Dragon.md).
 
 ## La malediction
 - Les Princes maudissent collectivement Jyggalag : il devient Sheogorath, Prince de la Folie, son antithese exacte.
 - Motif public : peur de sa puissance.
 - [DIVERGENCE RP] Instigateur : Molag Bal. Second motif prive : damner Artorias, amant de Serana et non-adepte de Bal.
 - [DIVERGENCE RP] Datation : fin du Meretique. Le canon ne date pas la malediction.
-- Les mythes "Sheogorath depuis l'Aube" = memoire reecrite du monde. Le monde a oublie qu'il fut un temps sans Dieu Fou.
+- Les mythes "Sheogorath depuis l'Aube" = reecriture LENTE de la memoire mortelle. Les contemporains de la chute savaient (debut 1E, elle est notoire, surtout dans les cercles daedriques) ; les generations mortelles suivantes ont "toujours connu" le Dieu Fou. Chez les etres millenaires contemporains de la chute (Daedra, vampires anciens), l'ecart entre memoire vraie et mythe est flagrant.
 - Effet sur Artorias : sa benediction (immortalite offerte par Jyggalag) devient corruption. Folie ; il devient chevalier du Chaos, arrache aux Shivering Isles.
 
 ## Le Greymarch
@@ -39,10 +40,12 @@
 - Molag Bal sait. N'intervient pas : trone juge trop imprevisible, affaibli et capricieux pour necessiter une intervention.
 - Immortalite d'Artorias : offerte, maintenue tant que Sheogorath ou Jyggalag existe. Depuis 3E 433 il EST Sheogorath : auto-suffisante.
 
-## Echelle de puissance
+## Echelle de puissance et avatar
 - Jyggalag (apogee) > Sheogorath (forme brisee, cout de la malediction) > avatar Artorias (fraction du dieu, calibre demi-dieu).
-- L'avatar est la chair du dieu : effacer Harkon d'un claquement est dans ses moyens, si sa folie est d'humeur.
-- La bride n'est jamais la capacite a l'echelle mortelle : c'est l'humeur.
+- Verrou liminal (Pacte de Martin Septim, 3E 433) : bloque la manifestation PLEINE d'un Prince sur Nirn, pas les voix desincarnees ni les corps-proxys (precedent : les voix des Princes des quetes daedriques).
+- Avatar = corps-proxy partiel cree du neant par Sheogorath sous la forme d'Artorias, porteur d'un fragment de la folie du dieu. Modelable a volonte. Detruit : re-creation instantanee via intervention vocale de Sheogorath.
+- Double bride : plafond dur (le proxy est l'intervention maximale que le Pacte permet) ; bride volontaire (folie edulcoree, cf. Personnages/Artorias.md). Folie = jauge de puissance.
+- La capacite a l'echelle mortelle n'est jamais la limite : effacer Harkon d'un claquement reste dans ses moyens, si l'humeur y est.
 - Caprice type : changer la robe d'un cheval ; ou laisser un village entier se faire massacrer.
 
 ---
