@@ -1,6 +1,6 @@
 # Sommaire - TES
 
-- version : W1
+- version : W2
 
 ## WIKI
 
@@ -12,7 +12,7 @@
 
 ### Cosmogonie/
 Description : lore structurel - Princes Daedra, malediction de Jyggalag, Enfants de Dragon.
-- Jyggalag_Et_Sheogorath.md (W1) - malediction, Greymarchs, mantling 3E 433, Sheogorath courant, echelle de puissance.
+- Jyggalag_Et_Sheogorath.md (W2) - malediction, reecriture memorielle, Greymarchs, mantling 3E 433, Sheogorath courant, echelle de puissance et doctrine de l'avatar.
 - Princes_Daedra.md (W1) - nature des Princes, Molag Bal en focus, verrou liminal et avatar, Hermaeus Mora.
 - Enfants_De_Dragon.md (W1) - regles Dovahkiin, Miraak, Artorias, chute du LDB, etat d'Alduin.
 
@@ -22,13 +22,17 @@ Description : frises chronologiques de l'univers.
 
 ### Factions/
 Description : camps et forces de l'arc Dawnguard.
-- Cour_Volkihar.md (W1) - Harkon, Valerica, membres, rapport a Artorias.
+- Cour_Volkihar.md (W2) - Harkon (trajectoire, interception), Valerica, rapport a Artorias (tolerance, arrangement), membres.
 - Garde_De_L_Aube.md (W1) - Isran, membres, Vigiles de Stendarr, interet pour Artorias.
 - Tyrannie_Du_Soleil.md (W1) - prophetie de Vyrthur, composantes, etat 4E 201, positions.
 
 ### Personnages/
 Description : fiches d'entites (noyau + trajectoire datee).
-- (aucune page - Passe 1 a venir)
+- Artorias.md (W5) - protagoniste-entite : nature et regles (avatar-proxy, brides), capacites, quatre formes, histoire, memoire du monde.
+- Serana.md (W1) - Fille de Port-du-Froid scellee a Dimhollow ; savoir a l'endormissement, personnalite (canon local SDA).
+- Harkon.md (W1) - seigneur Volkihar ; trajectoire du fanatisme, scene d'interception (debut 1E).
+- Valerica.md (W1) - recluse du Cairn des Ames ; veille des rangs de Princes, regard sur le gendre.
+- Isran.md (W1) - fondateur de la Garde de l'Aube refondee ; aucun contact avec Artorias au depart.
 
 ### Fiches_Arc/Artorias/
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par PERSPECTIVE de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs `arc precedent` / `arc suivant`), pas par un index des roadmaps.
