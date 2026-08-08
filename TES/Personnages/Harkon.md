@@ -1,6 +1,6 @@
 # Harkon
 
-- version : W1
+- version : W2
 
 ## Identite
 - Seigneur de la cour Volkihar. Vampire de sang pur. Ancien roi mortel d'un royaume aujourd'hui oublie.
@@ -22,8 +22,8 @@
 - Meretique tardif : tolere les fiancailles d'Artorias et Serana. Artorias est le seul non-vampire admis a la cour - uniquement aux cotes de Serana. Harkon l'apprecie sincerement.
 - Obtient la prophetie de la Tyrannie du Soleil et s'y voue.
 - Fin du Meretique : Valerica juge la prophetie suicidaire, le trahit, disperse les Parchemins et scelle Serana. Debut d'une traque de ~4400 ans. Cible du sacrifice : Valerica - le sang de la traitresse reglerait la prophetie ET la trahison.
-- Debut 1E : intercepte Artorias revenu pour Serana, avant que la cour ne le voie. Decele la folie naissante - spasmes, legers ricanements involontaires - et, la chute de Jyggalag etant notoire dans les cercles daedriques, comprend ce qui arrive a son gendre. L'apprecie toujours ; mais pas vampire, serviteur d'un autre maitre, et Serana absente : il le congedie sans hostilite. "Pars, Serana n'est plus ici."
-- Seul etre de Nirn a avoir vu le chevalier du Chaos ; n'en a rien dit a la cour [IMPLICITE - il en est reste le seul temoin].
+- Debut 1E : intercepte, avant que la cour ne le voie, ce qu'il prend pour Artorias revenu chercher Serana - en realite l'unique avatar dilue envoye par le dieu (cf. Cosmogonie/Jyggalag_Et_Sheogorath.md). Il voit le gendre en chevalier du Chaos, decele la folie - spasmes, legers ricanements involontaires - et, la chute de Jyggalag etant notoire dans les cercles daedriques, comprend ce qui arrive aux serviteurs du dieu brise. Il ne devine ni l'avatar ni Sheogorath : sa lecture est exacte en surface, fausse en nature. L'apprecie toujours ; mais pas vampire, serviteur d'un autre maitre, et Serana absente : il le congedie sans hostilite. "Pars, Serana n'est plus ici."
+- Seul etre de Nirn a avoir vu le visage d'Artorias frappe par la folie ; n'en a rien dit a la cour [IMPLICITE - il en est reste le seul temoin].
 - Eres suivantes : recherche vaine de Valerica et de Serana. Durcissement graduel : le sang de sa fille devient une option acceptable.
 - 4E 201 : ses agents ratissent Bordeciel, les attaques vampiriques explosent. Lokil sur la piste de Dimhollow.
 
@@ -36,7 +36,7 @@
 ## Relations
 - Serana - fille. Recherchee ~4400 ans. Autrefois hors de la cible sacrificielle ; devenue sacrifiable.
 - Valerica - epouse traitresse. Cible premiere du sacrifice : prophetie et vengeance d'un meme sang.
-- Artorias - gendre estime, jamais admis sans Serana. Congedie sans hostilite au debut de la 1E. Harkon est le seul etre de Nirn capable de relier l'homme au chevalier du Chaos - donc de percer son incognito.
+- Artorias - gendre estime, jamais admis sans Serana. A congedie son avatar - qu'il prenait pour l'homme - au debut de la 1E, sans hostilite. Seul etre de Nirn capable de relier le visage d'Artorias a la folie de Jyggalag - donc de percer l'incognito de l'avatar courant.
 - Molag Bal - maitre du pacte fondateur, allie de la cour.
 - La cour (Garan Marethi, Vingalmo, Orthjolf...) - instruments et rivalites entretenues. Cf. Factions/Cour_Volkihar.md.
 
