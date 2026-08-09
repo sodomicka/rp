@@ -1,6 +1,6 @@
 # Ecole de Kyoto
 
-- version : W2
+- version : W3
 
 Page = faction du monde (institution). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4.
 
@@ -17,11 +17,16 @@ Page = faction du monde (institution). Faits canon non balises (niveau etabli) ;
 ### 2005-2008
 - Yoshinobu Gakuganji : deja principal, et seul membre nomme de l'equipe pedagogique. Assure aussi le suivi de la promo de Naoya (2005-2008) comme professeur. [DIVERGENCE RP] : il est a la fois principal et professeur.
 
-### 2009-2018+
-- Yoshinobu Gakuganji : principal.
+### 2009-2013
+- Yoshinobu Gakuganji : principal, ET professeur de troisieme annee (cumul maintenu en periode creuse, classes quasi vides).
 - Utahime Iori : professeure de premiere annee (des 2009).
 - Nisha Zenin : professeure de deuxieme annee (des 2009). [DIVERGENCE RP vs canon] (Nisha est un OC ; revient enseigner chez les siens apres sa scolarite a Tokyo).
-- Mei Mei : professeure de troisieme annee, recrutee en 2013 (resto Utahime/Nisha/Mei Mei ; la 3e annee n'avait pas de referent attitre avant). [DIVERGENCE RP vs canon] (Mei Mei est une exorciste freelance dans le canon, pas une enseignante).
+
+### 2013-2018+
+- Yoshinobu Gakuganji : principal (cede la troisieme annee a la rentree avr 2013).
+- Utahime Iori : professeure de premiere annee.
+- Nisha Zenin : professeure de deuxieme annee.
+- Mei Mei : professeure de troisieme annee des la rentree avr 2013, recrutee au resto Utahime/Nisha/Mei Mei (mars 2013). Meme rentree que le decumul de Yaga a Tokyo (-> Nanami ; cf. Factions/Ecole_Tokyo.md). [DIVERGENCE RP vs canon] (Mei Mei est une exorciste freelance dans le canon, pas une enseignante).
 
 ## Eleves (promotions par annee d'entree)
 Convention : "annee d'entree - annee de diplome" (cursus de trois ans).
