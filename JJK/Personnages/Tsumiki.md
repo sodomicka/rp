@@ -1,6 +1,6 @@
 # Tsumiki Fushiguro
 
-- version : W1
+- version : W2
 
 Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = qui est Tsumiki a son entree en scene (identite, nature, psychologie, relations de base) ; son devenir post-2008 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps ere B). Profane : hors-axe combat.
 
@@ -16,7 +16,7 @@ Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008
 
 ## Nature : profane marquee (graine en dormance)
 - Profane integrale, sans don ni reserve d'energie occulte. Sa seule "anomalie" est passive et a son insu (ci-dessous).
-- [DIVERGENCE RP] Porte Yorozu en dormance : ancienne sorciere de l'ere Heian transformee en objet maudit par Kenjaku, ingere et loge en elle. Tsumiki a ete MARQUEE par Kenjaku (maitre des sceaux et des vaisseaux) - non par hasard : Kenjaku seme ses pieces partout ou elles peuvent servir, et la demi-soeur d'un enfant Zenin hors-clan (Megumi) est une piece utile. La marque est anterieure a 2008 ; elle ne provoque AUCUN coma (divergence avec le canon, ou la marque endort Tsumiki) : Tsumiki reste pleinement eveillee, et Yorozu demeure muette et inerte. Eien (parasite de Nisha) reconnait la marque de son amant Kenjaku des 2008 et jubile en silence - cf. graine T-Tsumiki, Trajectoire datee et SB8.
+- [DIVERGENCE RP] Porte Yorozu en dormance : ancienne sorciere de l'ere Heian transformee en objet maudit par Kenjaku, ingere et loge en elle. Tsumiki a ete MARQUEE par Kenjaku (maitre des sceaux et des vaisseaux) - non par hasard : Kenjaku seme ses pieces partout ou elles peuvent servir, et la demi-soeur d'un enfant Zenin hors-clan (Megumi) est une piece utile. La marque est anterieure a 2008 ; elle ne provoque AUCUN coma (divergence avec le canon, ou la marque endort Tsumiki) : Tsumiki reste pleinement eveillee, et Yorozu demeure muette et inerte. Eien (parasite de Nisha) reconnait la marque de son amant Kenjaku des 2008 et jubile en silence - cf. graine T-Tsumiki, Trajectoire datee et SB8. LIBEREE fin 2015 (cf. Trajectoire datee - ere B).
 
 ## Psychologie
 - Canon : douce, posee, bienveillante.
@@ -55,24 +55,26 @@ Fiches propres : cf. Personnages/Nisha.md, Megumi.md, Satoru.md, Maki.md. Ici, s
 | pre-2008 | Mise en couple de son parent avec celui de Megumi ; devient la demi-soeur ainee de Megumi (ne 2003), sans lien de sang. |
 | 2008 | Eleve seule Megumi dans un appartement d'adultes quand le couple Nisha/Satoru les y trouve. Point d'entree en scene (ere B). |
 
-## Trajectoire datee - ere B (entrees B1 ; alimentee a chaud arc par arc)
+## Trajectoire datee - ere B (entrees B1-B3 ; alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 2008 (B1) | Adoptee avec Megumi par le couple ; emmenagement a Saitama. Eien reconnait la marque de Kenjaku sur elle et jubile en silence (graine T-Tsumiki) | de petite mere precaire a fille adoptee ; levier emotionnel pour Megumi |
 | 2009 (B1) | Recoit de Maki des lunettes maudites : voit desormais l'occulte. Nisha l'emmene au domaine, s'attache sincerement. Megumi sort ses premiers shikigami ; Tsumiki l'encourage et se lie a ses familiers | accede a la vue de l'occulte ; dynamique inversee avec Megumi posee |
 | 2010 (B1) | Lance l'Okaruto Shinbun (10 ans) : blog d'horreur mystique romancant les missions de ses parents, qu'elle tient avec serieux des annees (graine T-Okaruto) | devient un pont occulte/profanes |
+| 2015 (B2) | Noces de Nisha et Satoru - un mariage que les gosses, elle en tete, ont pousse | -- |
+| fin 2015 (B3) | LIBERATION. Nisha la fait entrer dans son domaine et livre le combat a deux plans (materiel + territoire interieur de Yorozu) ; l'esprit-germe est TUE, Tsumiki liberee INTACTE, sans coma. Eduquee a la verite occulte et protegee par ses parents n1/n2, elle n'echoue pas au piege qui, dans le canon, la fait basculer | liberee de la dormance ; T-Tsumiki RESOLU |
 
 ## Graines plantees en B1 (a NE PAS detoner avant l'ere prevue)
-- T-Tsumiki / Yorozu : plantee 2008. Tsumiki porte Yorozu en dormance, marquee par Kenjaku ; Eien le reconnait. Resolution prevue en B3 (2015), AVANT Shibuya : Yorozu debusquee et tuee sans avoir pu prendre le dessus (Tsumiki protegee par ses parents n1/n2 et formee a l'occulte, n'echoue pas au piege qui, dans le canon, la fait basculer). Pas de coma. detail -> roadmaps B2/B3 et SB8.
+- T-Tsumiki / Yorozu : plantee 2008, RESOLUE fin 2015 (cf. Trajectoire datee) : Yorozu debusquee et tuee sans avoir jamais pris le dessus. Pas de coma. Detail -> Roadmap_B3 (B3_1) et SB8.
 - T-Okaruto : plantee 2010. Le blog se constitue une audience qui, en ere C, irrigue les promotions 2016+ et donne son origine diegetique au club d'exorcisme du lycee public de Yuji (Yuji inclus, enfant profane lecteur). Detonation ere C.
 
-## Notes de frontiere (hors B1)
-- Devenir post-B1 (role dans les noces de 2015, agression de Yorozu par Nisha, liberation) : posterieur a l'arc en cours -> roadmaps B2/B3 (entrees a graver a chaud quand ces arcs seront roadmappes). Le contenu n'est pas enonce ici tant que l'arc producteur n'est pas ecrit.
+## Notes de frontiere (hors de cette fiche)
+- Devenir post-B3 (ere C ; detonation de l'audience de l'Okaruto Shinbun, cf. T-Okaruto) : -> roadmaps ere C, non ecrites.
 - Instance jouee (impact d'une partie donnee) : -> Parties/JJK/Partie<n>/ le cas echeant. Cette fiche reste la version neutre, reutilisable.
 
 ## Pointeurs
 - Famille : cf. Personnages/Nisha.md, Satoru.md, Megumi.md, Maki.md.
-- Marque / dormance : cf. Personnages/Kenjaku.md, Eien.md ; Cosmogonie/Trois_Esprits.md (Peintures Mortes, ere Heian).
+- Marque / dormance : cf. Personnages/Kenjaku.md, Eien.md ; Cosmogonie/Trois_Esprits.md (Peintures Mortes, ere Heian). Yorozu : cf. Personnages/Yorozu.md.
 - Artefacts (lunettes maudites) : cf. SB7 (au prochain BIBLE BUILD).
 
 ---

@@ -1,6 +1,6 @@
 # Panda
 
-- version : W1
+- version : W2
 
 Fiche noyau (canon + RP), entite NEE au cours de l'arc B1 (2011). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = ce que Panda EST des sa naissance ; son devenir post-2011 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps). Corps maudit en croissance sur tout B1 : scaling de combat non pertinent (a maturite seulement).
 
@@ -9,7 +9,7 @@ Fiche noyau (canon + RP), entite NEE au cours de l'arc B1 (2011). Faits canon no
 - Cree par Masamichi Yaga (Manipulation de cadavres maudits) - son chef-d'oeuvre, l'aboutissement de son art (doter une creation d'une ame autonome).
 - Naissance : 2011 (B1). [DIVERGENCE RP] le canon ne date pas sa creation ; ici datee 2011, avec le concours de Nisha (cf. Conception).
 - [DIVERGENCE RP] Considere Yaga comme son PERE et Nisha comme sa MERE (co-creatrice de sa naissance, cf. Conception).
-- Futur etudiant de l'ecole de Tokyo, promo 2017-2020 (avec Maki Zenin, Toge Inumaki, Yuta Okkotsu) - pointeur ere C.
+- Etudiant de l'ecole de Tokyo des avr 2017 : promo 2017-2020 (avec Maki Zenin, Toge Inumaki, Yuta Okkotsu), sous Satoru. Cf. Trajectoire datee.
 
 ## Physique
 - Canon : apparence d'un panda geant adulte, plus grand que des humains ; parle et se comporte en etre conscient. Porte parfois des vetements (brassards, echarpes, vestes).
@@ -42,8 +42,8 @@ Fiches propres : cf. Personnages/Yaga.md, Nisha.md, Maki.md. Ici, seul le rappor
 ### Nisha - mere
 - [DIVERGENCE RP] Mere par co-creation (a fige les noyaux dans son domaine, 2011). Lien exclusif : avec Yaga, seule a qui Triceratops se montre. Renforce l'instinct maternel de Nisha (apres Megumi et Tsumiki, un troisieme "enfant" hors-norme).
 
-### Famille etendue de Tokyo (pointeur ere C)
-- [DIVERGENCE RP] Maki Zenin (cousine de Nisha, quasi-fille) sera sa camarade de promo (2017-2020) : Panda quasi-fils, Maki quasi-fille de Nisha -> fratrie de coeur cote Tokyo. Toge Inumaki, Yuta Okkotsu aussi de la promo. Roles -> ere C.
+### Famille etendue de Tokyo (des 2017)
+- [DIVERGENCE RP] Maki Zenin (cousine de Nisha, quasi-fille) est sa camarade de promo (2017-2020) : Panda quasi-fils, Maki quasi-fille de Nisha -> fratrie de coeur cote Tokyo. Toge Inumaki, Yuta Okkotsu aussi de la promo. Roles detailles -> Roadmap_B3 / ere C.
 
 ## Grade et scaling
 - (canon) Semi-Grade 2 - classement administratif nettement SOUS sa capacite reelle (frequent pour les corps maudits). En B1, Panda est un nouveau-ne en croissance : aucun scaling de combat pertinent.
@@ -54,23 +54,25 @@ Fiches propres : cf. Personnages/Yaga.md, Nisha.md, Maki.md. Ici, seul le rappor
 |---|---|
 | 2011 (B1) | Naissance dans la Sphere du Temps Infini de Nisha, concu par Yaga avec son concours. Ne sentient, trois noyaux. Point d'entree en scene (ere B). |
 
-## Trajectoire datee - ere B (entrees B1 ; alimentee a chaud arc par arc)
+## Trajectoire datee - ere B (entrees B1-B3 ; alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 2011 (B1) | Naissance ; ~3 mois plus tard, autonomie energetique acquise. Grandit aupres de ses deux parents (Yaga a Tokyo, Nisha presente) | de creation a etre autonome |
+| avr 2017 (B3) | Entre a l'ecole de Tokyo (promo 2017-2020), 1re annee sous Satoru - le fils de Yaga etudiant dans l'ecole dont son pere est principal | etudiant |
+| 24 dec 2017 (B3_4) | Nuit des Cent Fleaux, cote Tokyo (hors-POV de Nisha) : defend l'ecole aux cotes de Maki et Toge (canon JJK0) | premiere vraie guerre |
 
 ## Graines plantees en B1 (a NE PAS detoner avant l'ere prevue)
 - T-Ames : la naissance de Panda etablit que Nisha PARTAGE le savoir de creer un etre dote d'une ame autonome. Dans le canon, ce secret condamne Yaga (execution post-Shibuya). [DIVERGENCE RP] Nisha herite du meme danger. Detonation -> ere C. cf. fiche Yaga, SB8.
 
-## Notes de frontiere (hors B1)
-- Devenir post-B1 (croissance, entree a l'ecole de Tokyo en 2017, combats - dont Mechamaru) : posterieur a l'arc en cours -> roadmaps / ere C. Contenu non enonce ici tant que l'arc producteur n'est pas ecrit.
+## Notes de frontiere (hors de cette fiche)
+- Devenir post-B3 (combats d'ere C - dont Mechamaru au Goodwill 2018 ; croissance a maturite) : -> roadmaps ere C, non ecrites. Entree a l'ecole et Nuit des Cent Fleaux : integrees en Trajectoire datee.
 - Equivalence chiffree de puissance a maturite : a definir (ere C).
 - Instance jouee : -> Parties/JJK/Partie<n>/ le cas echeant. Cette fiche reste la version neutre.
 
 ## Pointeurs
 - Createur / parents : cf. Personnages/Yaga.md, Nisha.md.
 - Domaine / mecanique de conception : cf. Personnages/Nisha.md (Sphere du Temps Infini).
-- Promo / camarades : cf. Factions/Ecole_Tokyo.md ; Personnages/Maki.md.
+- Promo / camarades : cf. Factions/Ecole_Tokyo.md ; Personnages/Maki.md, Toge.md, Yuta.md.
 - Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
 
 ---

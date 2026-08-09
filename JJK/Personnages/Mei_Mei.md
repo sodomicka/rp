@@ -1,6 +1,6 @@
 # Mei Mei
 
-- version : W3
+- version : W4
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -61,14 +61,17 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 |---|---|---|
 | sept 2005 | Tournoi inter-ecoles (hote Kyoto) J1 : eliminee par Gojo ; J2 : perd vs Nisha | -- |
 | mars 2013 (B1) | Resto avec Utahime et Nisha : a elles deux, elles la convainquent de prendre la 3e annee a Kyoto (perfectionnement, dernier maillon du cycle) -> devient la prof d'Akari Nitta en 2013-2014 | de freelance mercenaire a professeure de 3e annee a Kyoto ; cycle d'enseignement complete |
+| 24 dec 2017 (B3_4) | Nuit des Cent Fleaux : Nisha lui CONFIE ses 2e annees (Todo, Noritoshi, Momo) - elle les encadre au combat dans la vieille ville (Momo en oeil aerien decisif) | commandante de terrain des cadets ; confiance de Nisha honoree |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Diplome 2006 -> carriere de freelance mercenaire ; passage Grade 1 (7 doigts, post-2008, date non fixee). Embauche a Kyoto desormais datee (mars 2013) -> cf. Trajectoire datee.
 - Evolution du lien avec Nisha (du mepris du cliche a l'estime) -> roadmap.
+- Devenir ere C (Shibuya, Ui Ui adulte) -> roadmaps ere C, non ecrites.
 
 ## Pointeurs
 - Ecole de Kyoto / corps enseignant : cf. Factions/Ecole_Kyoto.md.
 - Recruteur / collegues : cf. Personnages/Gakuganji.md, Personnages/Nisha.md.
+- Eleves 2017-2018 confies a la Parade : cf. Personnages/Todo.md, Noritoshi_Kamo.md, Momo.md.
 - Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
 
 ---

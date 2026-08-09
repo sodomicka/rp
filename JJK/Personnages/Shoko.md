@@ -1,6 +1,6 @@
 # Shoko Ieiri
 
-- version : W2
+- version : W3
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -52,11 +52,13 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 |---|---|---|
 | sept 2005 | Tournoi inter-ecoles (hote Kyoto) : non-combattante ; soigne Utahime apres son elimination par Nisha | demonstration de son utilite (5 mois apres l'insulte de Nisha) |
 | ~1 jan 2006 | Organise le nouvel an des quatre ; couvre la declaration de Satoru | -- |
+| debut 2018 (B3) | Participe a la RELEVE de Satoru, effondre apres avoir tue Geto de ses propres mains : aux cotes de la famille, la medecin de la promo soigne ce que le RCT ne repare pas | pilier de la releve ; des quatre prodiges, ils restent trois |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Bascule friction -> amitie avec Nisha, et evolution de la relation -> roadmap.
 - Editions du tournoi inter-ecoles (Shoko non participante) -> roadmap.
 - Role medical au fil des arcs (soins post-mission) -> roadmap / Parties.
+- Son vecu de la chute et de la mort de Geto (camarade de promo) : detail -> Roadmap_B3 / roadmaps ere C.
 
 ## Pointeurs
 - Promo et corps enseignant : cf. Factions/Ecole_Tokyo.md.

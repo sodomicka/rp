@@ -1,8 +1,8 @@
 # Maki Zenin
 
-- version : W6
+- version : W7
 
-Fiche noyau + Trajectoire datee (enrichie A2 et B2 ; arcs ulterieurs a venir). Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (detail -> roadmap).
+Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir). Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (detail -> roadmap).
 
 ## Identite
 - Nom : Maki Zenin. Canon. Fille ainee (de quelques minutes) d'Ogi ; jumelle de Mai. Nee en 2002 (mere : epouse). Niece de Naobito ; cousine des jumeaux Naoya/Nisha.
@@ -36,11 +36,13 @@ Fiche noyau + Trajectoire datee (enrichie A2 et B2 ; arcs ulterieurs a venir). C
 | 2008 (B1) | Etat de depart ere B : curseur 50/50, exploite 6 (bridee), toujours plafonnee Grade 4 par le clan. Se bat deja "de la bonne maniere" (sa seule limite = l'EO residuelle de 40 a 50 %) | reference de depart B1 |
 | 2011 (B1, pivot jumelles) | Le partage glisse a 40/60 en faveur de Mai : Maki s'allege (EO 50 % -> 40 %), sa Restriction physique se libere d'autant -> exploite 6 -> 8. Les jumeaux passent de l'interet au respect, s'attachent. Declencheur du glissement -> roadmap | s'allege ; 6 -> 8 |
 | 2014 (B2) | Quitte le foyer clanique pour vivre a Saitama chez le couple Nisha/Satoru : elle n'en peut plus du clan (mepris, cap Grade 4, statut d'interne ratee), ni Mai ni Naoya ne la retiennent. [DIVERGENCE RP] Part en MEILLEURS termes que dans le canon - un refuge offert par la famille qui la cultive depuis A2, pas une rupture violente. Reste administrativement Zenin (cap Grade 4) jusqu'a l'ere C. Separee de Mai au quotidien (curseur 40/60 inchange : separation relationnelle, pas mecanique) | vit a Saitama (4e "gosse" du foyer) ; jumelles separees au quotidien |
+| avr 2017 (B3) | Entre a l'ecole de TOKYO : 1re annee sous Satoru (promo 2017-2020, avec Yuta, Toge et Panda). Vit deja a Saitama : l'ecole prolonge le refuge. Toujours plafonnee Grade 4 par le clan | eleve de Satoru ; cadre complet hors-clan |
+| 24 dec 2017 (B3_4) | Nuit des Cent Fleaux, cote Tokyo (hors-POV de Nisha) : defend l'ecole aux cotes de Toge et Panda (canon JJK0) | premiere vraie guerre |
 
 ## Notes de frontiere (hors noyau)
-- Arc canon a venir (cap Grade 4 deja pose ; entree a Tokyo Jujutsu High comme eleve de Satoru en 2017, B3 ; massacre du clan, ere C) et bascules du partage gemellaire au-dela de B2 : -> roadmap / arcs ulterieurs.
-- B3 (2015) : Mai rattrape son plafond (exploite 8) apres la lecon Yorozu et atteint le niveau de Maki ; le curseur reste a 40/60. Entree a graver a chaud quand B3 sera roadmappe. Chiffres : cf. Power_Scaling/Doigts_de_Sukuna.md (Trajectoire ere B).
-- Detail narratif du retournement A2 (harcelement -> refuge) : -> Roadmap A2_6, A2_10. Detail B2 (depart a Saitama) : -> Roadmap_B2 (B2_2).
+- Cap Grade 4 deja pose ; entree a Tokyo integree en Trajectoire datee ; bascules du partage gemellaire au-dela de B3 -> roadmap / arcs ulterieurs. Devenir canon d'ere C (massacre du clan par Maki) : [CANON SUPPOSE], jamais re-valide contre les divergences du RP (depart en bons termes 2014, protectorat) - a trancher au build ere C (cf. _Implications, Graines ere C).
+- B3 cote Mai (lecon Yorozu, exploite 8 des 2015, curseur 40/60 inchange) : cf. fiche Mai. Chiffres : cf. Power_Scaling/Doigts_de_Sukuna.md (Trajectoire ere B).
+- Detail narratif du retournement A2 (harcelement -> refuge) : -> Roadmap A2_6, A2_10. Detail B2 (depart a Saitama) : -> Roadmap_B2 (B2_2). Detail B3 : -> Roadmap_B3.
 - Miroir thematique avec Nisha (Nisha = inversion de Maki) : cf. Personnages/Nisha.md.
 
 ---
