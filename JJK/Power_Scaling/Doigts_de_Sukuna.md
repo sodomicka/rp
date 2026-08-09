@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Power-scaling
 
-- version : W6
+- version : W7
 
 ## Unite
 - Unite de puissance de l'univers = le doigt de Sukuna.
@@ -64,31 +64,41 @@ Note : Grade Special 1 (rang elite des grandes familles, hors Jujutsu High - le 
 ## Reperes chiffres
 | Entite | Doigts | Puissance (%) | Note |
 |---|---|---|---|
+| Miwa (2017-2018) | 3 | 5.48 | [DIVERGENCE RP] eleve Kyoto (promo 2017-2020), sabre |
 | Utahime (2005) | 4 | 6.24 | [DIVERGENCE RP] Grade 2, lecture soutien, hors-axe combat |
+| Momo (2017-2018) | 4 | 6.24 | [DIVERGENCE RP] eleve de Nisha (promo 2016-2019), soutien aerien (balai) |
+| Kirara (2017-2018) | 4 | 6.24 | [DIVERGENCE RP] eleve Tokyo (promo 2016-2019), soutien / controle (Love Rendezvous) |
 | Soldats du Hei (Ranta, Chojuro, Nobuaki) | ~5 | ~7.44 | [DIVERGENCE RP] Semi-Grade 1, plancher du Hei |
 | Shoko | 5 | 7.44 | [DIVERGENCE RP vs canon] Semi-Grade 1 a vie, lecture soin + reserve, hors-axe combat |
 | Mei Mei (2005) | 5 | 7.44 | [DIVERGENCE RP] Semi-Grade 1, etudiante de 3e annee a Kyoto |
 | Utahime (post-2008) | 5 | 7.44 | [DIVERGENCE RP] Semi-Grade 1, lecture soutien, hors-axe combat |
+| Noritoshi Kamo (2017-2018) | 5 | 7.44 | [DIVERGENCE RP] eleve de Nisha (promo 2016-2019), Hemokinesie |
+| Toge (2017-2018) | 5 | 7.44 | [DIVERGENCE RP] eleve Tokyo (promo 2017-2020), paroles maudites |
+| Mechamaru (2017-2018) | 6 | 9.12 | [DIVERGENCE RP] via robot pilote a distance ; reservoir + portee NATIONALE au-dela (Restriction Celeste inverse) |
 | Ogi | 7 | 11.33 | [DIVERGENCE RP] Grade 1, pilier du Hei |
 | Yaga | 7 | 11.33 | [DIVERGENCE RP] Grade 1, seuil du Special par le savoir-faire (creation d'une ame autonome), pas la puissance |
 | Mei Mei (post-2008) | 7 | 11.33 | [DIVERGENCE RP] Grade 1, niveau Yaga / Ogi |
+| Todo (2017-2018) | 7 | 11.33 | [DIVERGENCE RP] eleve de Nisha (promo 2016-2019), Boogie Woogie ; sommet de sa generation d'eleves |
 | Naoya (2005) | 8 | 14.09 | [DIVERGENCE RP] -> courbe A2 (10/11/12), 14 adulte ; cf. Courbes A2 |
+| Hakari (2017-2018) | 8 | 14.09 | [DIVERGENCE RP] base Grade 1 ; en MODE JACKPOT, ponctuellement HORS-ECHELLE (intuable ~4 min, cf. fiche) |
 | Gakuganji | 9 | 17.44 | [DIVERGENCE RP] Grade Special 1 (hors-grading des ecoles), plus fort que Yaga |
 | Jinichi | 10 | 21.41 | [DIVERGENCE RP] pilier du Hei |
 | Gojo (2005, pre-Toji) | 12 | 31.30 | -> 14 en 2006 puis 23 a l'eveil ; cf. Courbes A2 |
 | Naobito | 12 | 31.30 | [DIVERGENCE RP] patriarche, Grade Special 1 |
 | Geto (2005) | 12 | 31.30 | -> 14 (2006), 15 (2007, defection) ; cf. Courbes A2 |
+| Yuta (fin JJK0, 2017) | 12 | 31.30 | [DIVERGENCE RP] avec Rika ; instable et bas a l'arrivee -> 15 (51.35) a Shibuya (ere C) |
 | Jogo | 13 | 37.26 | canon : prend Naobito de vitesse, one-shot a Shibuya |
 | Nisha (2005) | 13 | 37.26 | [DIVERGENCE RP] n1 mondiale ; -> courbe A2 jusqu'a 18 ; cf. Courbes A2 |
 | Naoya (adulte) | 14 | 43.94 | [DIVERGENCE RP] |
 | Yuki Tsukumo | 15 | 51.35 | [DIVERGENCE RP] Grade Special decroche au lycee puis quitte le systeme ; hors-classement officiel (de facto n3 mondiale, jamais reconnue) |
+| Yorozu (dans Tsumiki, 2008-2015) | 16 | 59.51 | [DIVERGENCE RP] sorciere Heian en objet maudit (Kenjaku) ; tuee fin 2015 par Nisha (duel spirituel en territoire interieur) |
 | Toji | 17 | 68.44 | canon, hors-clan invisible, hors classement (non reconnu exorciste) |
 | Geto (gourou, 2015) | 17-18 | 68-78 | vrai Geto vivant |
 | Nisha (adulte) | 18 | 78.15 | [DIVERGENCE RP] apogee atteinte des 2008 |
 | Sukuna (complet) | 20 | 100.00 | reference de l'echelle |
 | Gojo (post-Toji) | 23 | 139.07 | apogee atteinte tres tot, plafond |
 
-Assistant managers (Ijichi, Nitta, etc.) : hors-classement combat, Grade 4 symbolique (role logistique, pas de scaling de combat pertinent).
+Assistant managers (Ijichi, Nitta, Arata Nitta, etc.) : hors-classement combat, Grade 4 symbolique (role logistique, pas de scaling de combat pertinent).
 
 ## Courbes A2 (progression 2005 -> 2008)
 Les prodiges montent en continu sur l'arc A2 (pas un saut, sauf l'eveil de Gojo). Valeurs en doigts (% entre parentheses) :
@@ -163,6 +173,8 @@ Note : en DUO, des combinaisons depassent 23 (Maki+Mai, Satoru+Nisha a apogee ; 
 - Reperes Nisha, Naobito, Naoya, Jinichi, Ogi, soldats du Hei : [DIVERGENCE RP] (OC ou lecture worldbuilder).
 - Courbes A2 (Nisha, Gojo, Geto, Naoya) : [DIVERGENCE RP], cadence de progression fournie par le worldbuilder.
 - Reperes Shoko, Yaga, Gakuganji, Mei Mei, Utahime : [DIVERGENCE RP], cales sur leurs fiches noyau. Mei Mei et Utahime evoluent post-2008 (Mei Mei 5 -> 7 ; Utahime 4 -> 5). Shoko et Utahime se lisent en soutien / soin, hors-axe combat.
+- Casting B3 (Yorozu, Todo, Noritoshi, Momo, Miwa, Mechamaru, Toge, Yuta, Hakari, Kirara) : [DIVERGENCE RP], scalings fournis par le worldbuilder (session B3). Arata Nitta hors-axe (assistant manager).
+- Nanami adulte (Grade 1, ere B) : nombre de doigts NON FIXE -> decision worldbuilder pendante (cf. _Implications).
 - Yuki Tsukumo, assistant managers : [DIVERGENCE RP], lecture worldbuilder.
 - Loi synergie/symbiose : [DIVERGENCE RP], calee sur les apogees fournis par le worldbuilder. Split synergie +10 % / symbiose +16 % ; le total +26 % est impose par l'apogee Naoya+Nisha = 24 doigts. syn/sym par duo fixes au cas par cas en roadmap (actes : Mei Mei+Ui Ui 100 % ; Nisha+Geto 85 % en 2006-2007).
 - Partage gemellaire Maki/Mai : [DIVERGENCE RP], table fournie par le worldbuilder ; mecanique du curseur -> roadmap.
