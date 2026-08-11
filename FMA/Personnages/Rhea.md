@@ -1,10 +1,16 @@
 # Rhea
 
-- version : R3
+- version : R5
 - statut : OC protagoniste. Fiche NOYAU (qui elle EST au point de depart),
   noyau 1903-1909 fige. Strates Implications d'arc et Trajectoire datee
   OUVERTES au build B3 (post roadmaps R0-R3) ; alimentees a chaud, roadmap
   par roadmap, en Passe 2. Trajectoire datee realignee au rework R3 (W2).
+  R4 : integration du patch neuro COF (session de theorisation aout 2026) -
+  empathie, anosmie, bilateralite, conscience differee, moria, zone franche,
+  filtre prothetique, litteralite, crises, relations.
+  R5 : noeud Rhea/Al reforme en dissonance cognitive (bascule 1910 : plus
+  d'attirance, deux evaluations jamais integrees) - Trajectoire 1910 et
+  Relations harmonisees.
 - perimetre joue : cf. FMA/Roadmap/Rhea/Chronologie.md
 
 ## Identite
@@ -34,7 +40,9 @@ Alan mort l'avant-veille, son corps sous une couverture. Rhea trouve le
 grimoire du pere (incluant la theorie de la transmutation humaine, purement
 theorique) et tente le rituel. Projetee face a la Verite, elle est punie pour
 avoir voulu VOIR et AIMER un etre disparu : peage sur l'oeil droit (voir) et
-le cortex orbitofrontal (aimer, la valeur emotionnelle). Reveil face a une
+le cortex orbitofrontal (aimer, la valeur emotionnelle). Le peage cortical
+est BILATERAL (la Verite ne fait pas les choses a moitie), meme si seul
+l'oeil droit est pris - syndrome complet. Reveil face a une
 masse difforme gemissante. Trois jours sans pouvoir traverser la piece, sans
 boire ; une semaine sans manger. Le proprietaire (loyer impaye) donne
 l'alerte ; le village se rassemble, terrifie. Pinako Rockbell, venue pour des
@@ -58,6 +66,12 @@ Oeil valide gris-bleu, froid ; l'orbite droite vide expose le rouge-beige de
 la chair - contraste chromatique voulu entre l'oeil vivant et la plaie. A
 l'origine bandee par Pinako, puis couverte d'un cache-oeil en cuir cousu par
 Winry.
+Anosmie : le COF est aussi cortex olfactif secondaire - odorat mort, gout
+reduit aux textures et au sucre/sale de base. Manger ne lui fait rien.
+Danger d'atelier : elle ne sent ni le metal chaud, ni l'huile qui brule, ni
+le gaz, ni le crame - Winry et Pinako compensent. Intimite : la peau des
+autres n'a pas d'odeur pour elle ; toucher et voix surinvestis en
+compensation.
 Silhouette fine et athletique : un corps de forgeronne alchimiste, taille pour
 porter du lourd, pas pour battre le fer (l'alchimie fait la frappe). Moins
 musclee que Winry - sans le moindre enjeu entre elles.
@@ -67,12 +81,83 @@ l'apres-Winry.
 
 ## Personnalite
 
-Sequelles de la lesion du cortex orbitofrontal, base neuro stable :
-- Denuee d'empathie.
+Sequelles de la lesion du cortex orbitofrontal (bilaterale, cf. Origine),
+base neuro stable :
+- Empathie affective pour autrui ABSENTE : incapable de se mettre a la place
+  de quelqu'un ou de detecter en temps reel qu'elle blesse (deficit du faux
+  pas). Empathie cognitive "froide" intacte : elle peut comprendre, jamais
+  ressentir pour l'autre. Ses emotions a ELLE sont intactes et NON
+  calibrees : tout x1000. Exception Winry : pas de l'empathie exercee, une
+  carte apprise par coeur sur onze ans - extension d'elle-meme, pas autrui.
 - Ultra-impulsive.
-- Aucun filtre entre la pensee et la parole ; zero tact.
+- Aucun filtre organique entre la pensee et la parole ; zero tact. Seule
+  parade : le filtre prothetique (ci-dessous).
 - Eponge a affection : attachement rapide et intense (elle appelle Sarah et
   Yuri "maman" et "papa" en moins d'un mois).
+
+Conscience differee :
+- Monitoring en temps reel mort, savoir apres-coup intact : elle realise ses
+  boulettes a posteriori, jamais en vol.
+- Indice principal : la REACTION des autres (silence, regards), jamais la
+  boulette elle-meme. Elle detecte l'onde de choc, puis remonte le fil.
+- Contrecoup : autoflagellation (gemissements de colere contre elle-meme,
+  joue mordue de l'interieur).
+- Point dur : ca ne corrige RIEN. Pas de mise a jour possible - conscience
+  sans correction. Elle accumule des scripts, des evitements et une Winry ;
+  elle ne s'ameliore pas.
+- Moria : humour immonde sur le moment, gene differee apres coup (meme
+  mecanique).
+
+Filtre prothetique :
+- Compensation par le prefrontal dorsolateral intact, PAS repousse du COF :
+  filtre conscient, a base de regles apprises, active volontairement. ("Ne
+  pas parler des morts. Attendre deux secondes avant de repondre.")
+- Couts : lent, une situation a la fois, ca se voit (latences, silences -
+  elle prefere se taire que traiter). Sature en multi-interlocuteurs.
+- S'effondre sous fatigue, emotion forte, stress, douleur, alcool -> fin de
+  journee = zero-filtre integral (jukebox a saloperies). Une colere le
+  court-circuite en une demi-seconde, filtre frais ou pas.
+- Regles par categories : les situations inedites passent entre les mailles
+  (peut reussir une soiree puis sortir une horreur non couverte).
+- Construit a l'adolescence (~11-14 ans), Winry entraineuse (signal
+  externe - pression de main = abort - internalise peu a peu). Avant : roue
+  libre totale.
+- Une bonne journee est une PERFORMANCE, pas une guerison. Elle rentre
+  lessivee d'avoir ete "normale".
+
+Second degre / litteralite :
+- Ironie et sarcasme non detectes en temps reel (meme circuit que le faux
+  pas) : litterale par defaut, repond aux questions rhetoriques, prend le
+  pince-sans-rire au premier degre.
+- Metaphores et expressions figees OK (semantique intacte). Ce qui casse :
+  l'inference d'intention, pas le langage image.
+- Compensation : patterns appris sur les gens cartographies (Winry, Ed) ;
+  question a plat ("C'est ironique ?", "C'est vrai ou c'est une image ?") ;
+  Winry interprete simultanee et reference.
+- Comprend l'ironie en differe (ecrit, relecture), jamais en vol.
+- Peut produire du sarcasme appris, mal calibre. Registre comique reel : la
+  litteralite devastatrice, involontaire - et selon le cas elle savoure ou
+  se mord la joue a posteriori.
+- Percue comme naive/simplette par les inconnus (ce n'est pas de la
+  credulite : un canal en moins). Dramatic irony : la plus brillante de la
+  piece prise pour une demeuree. Les moqueries fines lui echappent - c'est
+  Winry qui les recoit en pleine face (traduire = blesser, avaler = mentir
+  par omission : micro-dilemme recurrent).
+- Revers en arme : sous-estimee (les gens parlent librement devant elle),
+  immunisee a la flatterie et au sous-entendu, impitoyable sur
+  l'incoherence factuelle (mensonge contredisant un fait connu = demolition
+  publique au premier degre). Illisible pour un beau parleur ; cf. Mustang,
+  dont tout l'arsenal rhetorique tombe dans le vide.
+
+Zone franche Rockbell :
+- Sarah et Yuri lui font comprendre que les paroles non pesees s'oublient
+  comme si elles n'avaient jamais existe -> au foyer, zero vigilance avec
+  Pinako, Winry, les parents. Le seul endroit ou le costume tombe.
+- Dehors, sa "prudence" n'est JAMAIS du filtrage (impossible) : evitement,
+  scripts recites, parler moins, Winry en bouclier.
+- Dependance a Winry accrue apres la nouvelle de la mort des parents (1909).
+- Revers : la confiance est son mode le plus dangereux socialement - plus
+  elle est bien, plus ca fuit (cf. Crises, format flux).
 
 Temperament binaire : peu de nuances entre adoration et detestation. Incapable
 de rancune sur une broutille - jamais plus de cinq secondes. Mais sur ce qui
@@ -81,11 +166,21 @@ soldent pas, seulement des reparations serieuses dans la duree. Elle ne juge
 JAMAIS le corps ni l'apparence - uniquement le comportement.
 
 Structuration par Winry : la presence de Winry lui permet de trier ses pensees
-et de parler posement. Sans elle, le zero-filtre reprend. En crise, ses pensees
-se bousculent en sortie vocale, un begaiement en cascade contradictoire :
-"J-Je voulais pas- J'ai pas fait expres- Il le meritait- C'est pas une raison-
-Mais vraiment je voulais pas- Pas du tout-". Cliquetis prend le relais de Winry
-en son absence, mais moins efficacement.
+et de parler posement. Sans elle, le zero-filtre reprend.
+
+Crises - deux formats :
+- FLUX logorrheique associatif : desinhibition verbale, chaque pensee
+  declenche la suivante par association, tout sort dans l'ordre d'arrivee
+  sans hierarchie de valeur (coq-a-l'ane intime/trivial). Aggrave par la
+  confiance et l'emotion positive : zone franche = zero filtre.
+- CASCADE contradictoire : le debat interne externalise, pensees en conflit
+  emises en rafale : "J-Je voulais pas- J'ai pas fait expres- Il le
+  meritait- C'est pas une raison- Mais vraiment je voulais pas- Pas du
+  tout-".
+Regulation par canal CORPOREL uniquement : enlacement Winry (pression
+profonde), Cliquetis (tactile, rythmique - relais moins efficace en
+l'absence de Winry). Le verbal est inoperant pendant la crise - Winry coupe
+par le corps, explique apres.
 
 ## Capacites
 
@@ -109,21 +204,55 @@ travail, mais elle a une vraie tete.
 - Winry Rockbell - soeur. Inseparables, fusionnelles comme des jumelles.
   Winry sait TOUT du passe de Rhea. Elle la structure (parole, crises) et
   forge pour elle ce qu'il faut pour la tenir entiere (cache-oeil, tresses,
-  Cliquetis). Aucune rivalite, jusque dans le coeur : Winry penche pour
-  Edward, Rhea pour Alphonse, et elles complotent le soir sans jamais se
-  marcher dessus.
+  Cliquetis). Cognition distribuee : Winry est le lobe frontal externe de
+  Rhea. Rhea la CARTOGRAPHIE (par coeur), ne la comprend pas - et le SAIT.
+  Consequence : la franchise permanente de Winry est de la maintenance de
+  carte ; lui mentir, c'est se rendre inconnue a sa jumelle. Franchise et
+  explicitations coup sur coup, des deux cotes. La carte vieillit si Winry
+  change sans le dire (angle mort qui grandit). Onze ans de sous-titrage ont
+  reformate le langage de Winry elle-meme : incapable de tourner autour du
+  pot avec quiconque. Aucune rivalite, jusque dans le coeur : Winry penche
+  pour Edward, Rhea pour Alphonse, et elles complotent le soir sans jamais
+  se marcher dessus.
 - Sarah et Yuri Rockbell - parents adoptifs ("maman", "papa"). Presents par
   intermittence (missions humanitaires depuis 1901, dernier depart en 1907).
   Leur mort est le moteur de son anti-militarisme.
 - Edward Elric - ami d'enfance. Mini-engueulades recurrentes sur la taille
   (elle le depasse).
 - Alphonse Elric - ami d'enfance ; sa douceur l'attire (penchant tu, partage
-  en secret avec Winry, jamais avoue avant la fin). MAIS Al incarne pour elle
-  une plaie structurelle : a Rhea il ne manquait qu'une ame pour ramener Alan ;
-  Alphonse n'est plus qu'une ame. Il est l'anti-Alan. Elle ne le juge jamais
-  sur son corps d'acier, seulement sur ses actes. [La dynamique datee de cette
+  en secret avec Winry, jamais avoue avant la fin). Sa bienveillance est
+  vecue comme une devotion (facteur x1000) -> envie de TOUT lui dire ; Winry
+  baillonne a la moindre fuite, consciente que sa soeur ruinerait l'amitie
+  en avouant trop tot. MAIS Al incarne pour elle une plaie structurelle : a
+  Rhea il ne manquait qu'une ame pour ramener Alan ; Alphonse n'est plus
+  qu'une ame. Il est l'anti-Alan. Une fois Al en armure, la valeur a bascule
+  (1910) : plus d'attirance - un gamin sympa qui a commis ce qu'elle
+  considere comme la pire erreur possible - dissonance sans resolution,
+  deux evaluations jamais integrees. Elle ne le juge jamais sur son
+  corps d'acier, seulement sur ses actes. [La dynamique datee de cette
   relation - fracture de 1910, reconciliation fraiche de 1914 - vit dans la
   Trajectoire datee, pas ici.]
+- Izumi Curtis - la seule personne lisible SANS carte : pattern matching
+  auto-referentiel ("elle a fait ce que j'ai fait, paye comme j'ai paye"),
+  aucune simulation requise. Etre connue sans avoir a confesser : compatible
+  avec l'evitement du 1903 (la zone reste fermee, l'info circule quand
+  meme). Izumi parle explicite, sans detours ni sous-entendus - elle sait
+  que l'implicite tombe dans l'oreille d'une sourde. Sequence type :
+  revelation du sans-cercle d'Izumi -> comprehension immediate de Rhea ->
+  aveu de sa mecanique cassee. Limite : Rhea la comprend la ou elles se
+  ressemblent, la rate la ou elles divergent (mere/soeur, adulte/enfant de
+  5 ans, Sig/Winry) - plaquage par defaut, corrige sechement par Izumi,
+  mise a jour une correction a la fois. Seule autorite morale audible :
+  rapport d'experience, pas sermon. [Relation prospective : rencontre
+  directe encore a jouer - parallele deuil-transmutation, culmine
+  Roadmap 9.]
+- Registre amoureux (generique) : la seduction implicite est illisible (elle
+  ne remarque rien) OU la valeur bascule et c'est la declaration frontale,
+  sans preambule, au pire moment. Sincerite absolue, zero jeu, zero agenda -
+  quand elle dit qu'elle aime, c'est de l'information brute. Quotidien =
+  champ de mines de faux pas, conscience sans correction. Proie ideale pour
+  un manipulateur (elle ne lit pas les intentions) - Winry chien de garde.
+  L'anosmie ampute l'intimite olfactive ; toucher et voix surinvestis.
 
 ## Anti-militarisme
 
@@ -180,9 +309,13 @@ cette strate pour cette partie. Realignee au rework R3 (W2).
   produit une, jadis) et l'acheve au pic de beton sans ciller - renversement de
   1903, ou c'etait Pinako qui achevait la sienne. Detestation a double
   tranchant : les freres (l'avoir fait sans elle) ET elle-meme (n'avoir rien vu
-  venir). Naissance du noeud Rhea/Al (l'anti-Alan, et sa douceur qui l'attire
-  quand meme). Elle ne lache RIEN de son 1903 et coupe les ponts. Debut du
-  silence total envers les Elric (jusqu'en 1914).
+  venir). Naissance du noeud Rhea/Al (Al devient l'anti-Alan) : bascule de
+  valeur - l'attirance meurt avec l'armure. Reste une dissonance sans
+  resolution : le gamin sympa, toujours bienveillant, ET l'abruti qui a
+  perdu son corps en tentant ce qu'elle deteste le plus au monde. Pas de
+  moyenne possible (COF) : les deux evaluations coexistent a plat et
+  alternent selon l'input du moment. Elle ne lache RIEN de son 1903 et
+  coupe les ponts. Debut du silence total envers les Elric (jusqu'en 1914).
 - 1910 (R3) - Le refus Mustang. Mustang, en reperage de recrues, recrute Ed
   chez les Rockbell puis commet l'erreur de venir faire la meme offre a Rhea
   sur son terrain, l'atelier : jurons, "genocidaire", chutes d'automail
