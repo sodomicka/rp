@@ -1,6 +1,6 @@
 # Sommaire - FMA
 
-- version : W4
+- version : W5
 
 ## WIKI
 
@@ -41,7 +41,7 @@ Description : fiches neutres canon des entites qui pesent sur le RP, plus la pro
 - Bradley_Wrath.md (W1) - Generalissime et homonculus Wrath
 - Pere.md (W1) - homonculus originel, maitre de la conspiration
 - Izumi_Curtis.md (W2) - maitresse des Elric (1909), miroir thematique du deuil-transmutation ; sait des 1909 qu'une gamine transmute sans cercle
-- Rhea.md (R2) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datee OUVERTES (demarre 1910, post R0-R3) ; peage cognitif (oeil droit + cortex orbitofrontal), anti-militarisme, famille Rockbell + frere Alan (defunt)
+- Rhea.md (R5) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datee OUVERTES (demarre 1910, post R0-R3) ; syndrome COF bilateral detaille (empathie, filtre prothetique, litteralite, anosmie, crises), noeud Rhea/Al en dissonance, anti-militarisme, famille Rockbell + frere Alan (defunt)
 
 ### Roadmap/Rhea/
 Description : cap et roadmaps de la Passe 2 (sources de build des fiches d'arc), par perspective de la protagoniste. Indexees au Sommaire - decision worldbuilder (build B2) : la regle v8.2 "roadmaps non indexees en jeu" est ABANDONNEE, le Sommaire servant d'abord au wiki build.
