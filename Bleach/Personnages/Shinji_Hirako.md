@@ -1,6 +1,6 @@
 # Shinji Hirako
 
-- version : W3
+- version : W4
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -35,6 +35,9 @@
 |---|---|---|
 | -101 | Mene l'equipe de secours ; "une doyenne a bord" ; massacre par le bankai de Tosen, hollowifie, condamne, exfiltre | Capitaine 5e -> chef de fait des exiles |
 | -101 -> 0 | Exil au Kyoraku : chef de fait des neuf, la doyenne en conseillere-contradictrice ecoutee ; dompte son hollow ; vie d'humain autour du bar | Chef de la maisonnee d'exil |
+| an 1 d'exil (~-100) | Aveu du soupcon a Kasumi seule : savait Aizen faux, s'est tu (V-T4a) ; plan de domptage du groupe conseille par la doyenne (relecture V-D3 actee) | Le secret du soupcon partage avec la doyenne seule |
+| ~an 10 (~-91) | Sentiment d'illegitimite apaise par Kasumi (V-T4b) | - |
+| 1945 (~-56) | Refait l'aveu du soupcon au groupe complet (V-G1) ; reception : le couple avait aussi des doutes - absolution collective, impossible a prevoir malgre les maigres indices | Le secret du soupcon solde devant tous |
 
 ---
 FIN_WIKI_PERSONNAGES_SHINJI_HIRAKO

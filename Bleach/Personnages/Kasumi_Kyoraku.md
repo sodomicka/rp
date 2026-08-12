@@ -1,7 +1,7 @@
 # Kasumi Kyoraku
 
-- version : W4
-- statut : [DIVERGENCE RP] OC promue au lore. Fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110).
+- version : W5
+- statut : [DIVERGENCE RP] OC promue au lore. Fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Elements post-depart balises [POST-DEPART].
 
 ## Identite
 - Nom : Kasumi Kyoraku, nee Kamo. Derniere matriarche du clan Kamo (maison noble mineure), eteint a son mariage.
@@ -18,10 +18,17 @@
 ## Psychologie
 - Jumelle de temperament de Shunsui : les deux sont TROP similaires. Cette gemellite exaspere Yamamoto et amuse Ukitake.
 - Flemme erigee en art de vivre : boire, dormir, fuir ses responsabilites. Les eclipses du couple sont parfois des escapades amoureuses - les deux epoux sont accros l'un a l'autre.
+- Philosophie de la glande : a connu l'epoque du plus fort, puis celle du plus juste ; la Soul Society s'est depuis perdue en lois compliquees et rapports inutiles. Glander, c'est fuir ces responsabilites absurdes sans compromettre ni le sens de la justice ni la puissance - au prix du respect de ceux qui ne les connaissent pas vraiment.
 - Observatrice compulsive : son passe-temps principal, devenu sa methode d'apprentissage (cf. Aptitudes).
 - Indifferente aux ambitions superficielles : le clan Kamo attendait d'elle qu'elle le rende plus noble, elle s'en moquait. Aucune culpabilite sur l'extinction du clan.
+- Jamais voulu d'enfant : sur les ~850-900 ans de mariage ecoules au debut de l'exil, le couple n'a jamais voulu la responsabilite d'un enfant. Nanao est une charge assumee, pas un choix [DIVERGENCE RP].
 - Insolence legere envers l'autorite, sans mechancete.
 - Deteste se battre, pour les memes raisons que Shunsui : des qu'on se bat, tout le monde a tort, peu importe qui a commence.
+
+## Psychologie d'exil [POST-DEPART : -101 -> 0]
+- Instinct maternel decouvert en exil : en tant que patronne du Kyoraku, se decouvre l'instinct envers les huit. Refus d'infantiliser (des adultes de plusieurs siecles), mais figure maternelle assumee - vieille, sage, protectrice. Au fil du siecle, la doyenne devient une mere qui ne se nomme jamais telle quelle, dont les huit attendent l'approbation ou la critique qu'ils savent constructive.
+- Rapport aux humains : admire leur ingeniosite et leur sens de l'art (inexistant a la Soul Society, hors le couple, Rose et la Division Zero) ; deteste leurs technologies polluantes (voitures, armement - tout ce qui donne aux parcs de Karakura une odeur de ville et non plus de nature) ; tolere les jeux video et assimiles.
+- Le centre de sa vie est son couple : TOUT ce qu'elle fait avec les huit vise le jour ou elle sera de nouveau etreinte par Shunsui.
 
 ## Histoire (noyau)
 - Naissance dans le clan Kamo [~-1400/-1300].
@@ -57,6 +64,7 @@
 |---|---|---|
 | -101 | Suit Lisa en douce jusqu'a Fugai, intervient sur l'attaque de Kensei, bankai filtre par le masque complet, tombe la premiere, hollowifiee (9e cobaye d'Aizen), condamnee, exfiltree inconsciente | Co-capitaine 8e -> exilee de Karakura ; hollow interieur Kitsune et masque actives (cf. Nagomi) |
 | -101 -> 0 | Exil : dompte le Kitsune en ~3h depuis le reveil (1er jinzen perdu, 2e gagne ivre en Yachiru - pacte scelle) ; fonde le bar le Kyoraku des -101, patronne et premiere barmaid du Japon ; routine gravee, au comptoir tous les soirs ; tisse un lien individuel avec chacun des huit - sa 2e famille ; fil enquete avec Urahara : pieger Aizen, premiere ebauche de la Fausse Karakura | Maitresse de son pouvoir des le premier jour ; enracinee a Karakura ; Shunsui manque chaque jour un peu plus |
+| 1945 (~-56) | ~2 aout : nuit de service entiere passee a parler avec un mortel ressemblant a Shunsui en tout point sauf les traits du visage - tenue a l'alcool, cinq heures de pleurs au matin. 9 aout : confession publique au groupe - la seule chose qui la maintient est de revoir Shunsui (V-G1) | Le groupe entier le sait desormais, ainsi que les doutes anciens du couple sur Aizen |
 
 ---
 FIN_WIKI_PERSONNAGES_KASUMI_KYORAKU

@@ -1,6 +1,6 @@
 # Mashiro Kuna
 
-- version : W3
+- version : W4
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110).
 
 ## Identite
@@ -28,8 +28,9 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| -101 | Dort pendant le massacre de l'unite, hollowifiee avec Kensei, assaillante de la nuit, ligotee par Hachi, condamnee, exfiltree | Lieutenante 9e -> exilee |
+| -101 | Dort pendant le massacre de l'unite, hollowifiee avec Kensei, assaillante de la nuit, ligotee par Hachi, condamnee, exfiltree ; au conseil de la grotte (V-G2), neutre - trop gamine pour s'en soucier | Lieutenante 9e -> exilee |
 | -101 -> 0 | Exil au Kyoraku ; dompte son hollow ; toujours la pour aider au bar ; lien individuel avec la doyenne | - |
+| annees 1970 (~-31 a -22) | Cap de maturite (V-T3c) | Maturite relative acquise en exil : toujours gamine survoltee, mais sait desormais se poser quand les choses deviennent serieuses |
 
 ---
 FIN_WIKI_PERSONNAGES_MASHIRO_KUNA

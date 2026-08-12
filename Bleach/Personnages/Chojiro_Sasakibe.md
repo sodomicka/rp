@@ -1,6 +1,6 @@
 # Chojiro Sasakibe
 
-- version : W2
+- version : W3
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -16,7 +16,7 @@
 ## Psychologie
 - Dignite solennelle ; la loyaute comme colonne vertebrale. A refuse instructorat et capitainat pour rester le lieutenant de Yamamoto, a vie.
 - N'appelle jamais Yamamoto par son nom : "Eijisai-dono", du nom de la cicatrice qu'il lui a lui-meme infligee. Seul a employer ce titre.
-- Occidentophile convaincu : cultive son propre the noir, prefere la cuisine occidentale a la japonaise, marque par la societe anglaise decouverte en mission [databook]. Aux soirees entre anciens, carbure a la stout britannique (Guinness) quand les autres sont au sake [DIVERGENCE RP, prolongement de son gout occidental].
+- Occidentophile convaincu : cultive son propre the noir, prefere la cuisine occidentale a la japonaise, marque par la societe anglaise decouverte en mission [databook]. Aux soirees entre anciens, carbure a la stout irlandaise (Guinness) quand les autres sont au sake [DIVERGENCE RP, prolongement de son gout occidental].
 - Dissimule volontairement sa vraie puissance : liberer son bankai devant le Gotei serait, a ses yeux, manquer de respect a son commandant.
 
 ## Histoire (noyau)

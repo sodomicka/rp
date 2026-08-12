@@ -1,6 +1,6 @@
 # Shunsui Kyoraku
 
-- version : W4
+- version : W5
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -17,9 +17,11 @@
 
 ## Psychologie
 - Nonchalant, flamboyant, rarement sans sourire. Sieste et sake eriges en institution.
+- Philosophie de la glande, partagee avec Kasumi [DIVERGENCE RP] : a connu l'epoque du plus fort, puis celle du plus juste ; la Soul Society s'est depuis perdue en lois compliquees et rapports inutiles. Glander, c'est fuir ces responsabilites absurdes sans compromettre ni le sens de la justice ni la puissance - au prix du respect de ceux qui ne les connaissent pas vraiment.
 - Deteste le combat : des qu'on se bat, tout le monde a tort, peu importe qui a commence. Epargne les innocents.
 - Sous la flemme, une perspicacite redoutable : Yamamoto lui reconnait depuis l'academie la capacite de voir la verite.
 - Gouts : sake et brioches vapeur qui l'accompagnent. Deteste le matcha.
+- Jamais voulu d'enfant : sur les ~850-900 ans de mariage ecoules au debut de l'exil de Kasumi, le couple n'a jamais voulu la responsabilite d'un enfant. Nanao est une charge assumee, pas un choix [DIVERGENCE RP].
 - Jumeau de temperament de Kasumi [DIVERGENCE RP] : la facade de dragueur du canon n'existe pas dans cette continuite. Les eclipses du couple, parfois amoureuses, remplacent la chasse aux jupons.
 
 ## Histoire (noyau)

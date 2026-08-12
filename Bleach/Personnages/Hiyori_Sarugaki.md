@@ -1,6 +1,6 @@
 # Hiyori Sarugaki
 
-- version : W3
+- version : W4
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110).
 
 ## Identite
@@ -32,7 +32,10 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | -101 | Seule sur zone pour les echantillons (designee par Urahara), hollowifiee, condamnee, exfiltree | Lieutenante 12e -> exilee |
-| -101 -> 0 | Exil au Kyoraku ; dompte son hollow ; des -101, suggere la methode du masque fissure (reflexes de la 12e) ; au fil des tete-a-tete, Kasumi devient celle contre qui elle ne s'enerve jamais | - |
+| -101 -> 0 | Exil au Kyoraku ; domptage de 56 ans, ~5800-8700 tentatives (terme ~-45 par calcul : -101 + 56) - cliente reguliere du protocole masque fissure, dont elle avait elle-meme suggere la methode des -101 (reflexes de la 12e) ; tete-a-tete reguliers avec la doyenne | - |
+| ~-67 (~1934) | Pivot des tete-a-tete (V-T8b) | Kasumi devient celle contre qui elle ne s'enerve jamais |
+| 1945 (~-56) | Confession collective : confesse devant tous la terreur d'etre celle qu'on laisse derriere (V-G1) | - |
+| ~-45 (~1956) | Le sujet Hikifune aborde en tete-a-tete avec la doyenne : seul calin partage, seule larme - jamais ebruites (V-T8c) | - |
 
 ---
 FIN_WIKI_PERSONNAGES_HIYORI_SARUGAKI

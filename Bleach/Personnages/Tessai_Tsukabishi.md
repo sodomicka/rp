@@ -1,6 +1,6 @@
 # Tessai Tsukabishi
 
-- version : W3
+- version : W4
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110).
 
 ## Identite
@@ -33,7 +33,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| -101 | Sortie en douce, kido interdits (rapatriement des corps), arrete, condamne, evade | Capitaine du Kido Corps -> exile |
+| -101 | Sortie en douce, kido interdits (rapatriement des corps), arrete, condamne, evade ; au conseil de la grotte (V-G2), refuse d'integrer la maisonnee des neuf - conscient de ne pas etre comme eux (pas hollowifie) ; libre d'acces au hangar par le consensus | Capitaine du Kido Corps -> exile |
 | -101 -> 0 | Exil a l'Urahara Shoten ; habitue occasionnel du Kyoraku, parfois aux jeudis d'Isshin (des -6) | - |
 
 ---

@@ -1,6 +1,6 @@
 # Rojuro Otoribashi (Rose)
 
-- version : W3
+- version : W4
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -31,7 +31,8 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | -101 | Equipe de secours, massacre (bankai de Tosen), hollowifie, condamne, exfiltre | Capitaine 3e -> exile |
-| -101 -> 0 | Exil au Kyoraku ; dompte son hollow ; vie d'humain autour du bar ; lien individuel avec la doyenne | - |
+| -101 -> 0 | Exil au Kyoraku ; dompte son hollow - victoire par cuite (methode Kasumi) + jamais-vu ; vie d'humain autour du bar ; lien individuel avec la doyenne | - |
+| ~-69 (~1932) | Apprend de Kasumi l'imitation du style Sasakibe (escrime a la rapiere), ajoutee a l'arsenal durable ; sait de qui vient le style et le traite en heritage (V-T7a) | Style Sasakibe au repertoire permanent |
 
 ---
 FIN_WIKI_PERSONNAGES_ROJURO_OTORIBASHI

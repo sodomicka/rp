@@ -1,6 +1,6 @@
 # Lisa Yadomaru
 
-- version : W4
+- version : W5
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -41,8 +41,11 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| -101 | Envoyee a Fugai par ses propres capitaines, hollowifiee, condamnee, exfiltree | Lieutenante 8e -> exilee |
-| -101 -> 0 | Exil au Kyoraku ; dompte son hollow ; vie d'humain autour du bar ; lien individuel avec la doyenne | - |
+| -101 | Envoyee a Fugai par ses propres capitaines, hollowifiee, condamnee, exfiltree. Des la grotte (premiers jours d'exil), sait TOUT de la nuit : l'envoi-manigance, la filature de Kasumi, et que le couple savait qu'elle espionnait - verite dite sans detour (V-T2a) | Lieutenante 8e -> exilee |
+| -101 -> 0 | Exil au Kyoraku ; rapport au hollow : le DETESTE - un monstre pouvant prendre le dessus et tuer un allie ; 8 mois de controle par peur, denoues la veille de sa victoire (V-T2b) ; vie d'humain autour du bar ; lien individuel avec la doyenne | - |
+| ~-70 (~1931) | Aveu a Kasumi : "shinigami, pas femme, avant l'exil" ; la lecture erotique requalifiee en exutoire (V-T2c) | AMIES - le lien avec la doyenne passe ce cap |
+| 1945 (~-56) | Confession collective : degout du monstre redit devant le groupe entier (V-G1) | - |
+| post ~-45 | Quasi-blessure grave face a la Kitsune dechainee, interruption in extremis (V-S5) | Fin des matchs contre la Kitsune dechainee (cf. Nagomi.md) |
 
 ---
 FIN_WIKI_PERSONNAGES_LISA_YADOMARU
