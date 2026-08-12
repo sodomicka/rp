@@ -1,18 +1,24 @@
 # Le Kyoraku
 
-- version : W2
+- version : W3
 - statut : [DIVERGENCE RP] lieu OC promu au lore. Premiere fiche du dossier Lieux/ (fixe le gabarit, avec strate Trajectoire datee). Pierre angulaire des arcs R2, R3 et R4.
 - localisation : Karakura, Monde des Vivants.
 - renvois : BIBLE SB6 ; Factions/Vizards.md ; Personnages/Kasumi_Kyoraku.md ; Personnages/Isshin_Shiba.md.
 
 ## Identite
 - Bar de Karakura au style pub (irlandais), fonde en -101 (~1900, Japon Meiji) sur un bar abandonne repere des le premier jour d'exil.
+- Origine du style : le pub irlandais est un echo de l'affection de Kasumi pour Chojiro Sasakibe, l'amateur de stout irlandaise (Guinness) des soirees entre anciens [DIVERGENCE RP, decision worldbuilder].
 - Patronne : Kasumi Kyoraku - premiere barmaid du Japon. L'enseigne, en japonais, porte le nom Kyoraku.
 - Fonction : foyer et gagne-pain des neuf exiles.
 
 ## Implantation
 - Batiment en brique donnant sur la rue : le pub.
 - Derriere, une petite cour (accessible par la cuisine) mene au hangar, qui sert de maison aux neuf ; sous-sol d'entrainement dissimule sous le hangar (cf. Factions/Vizards.md).
+- Interieur du hangar : dortoir a separations improvisees, pas de chambres individuelles. [A BUILDER : detail complet de l'interieur, thread dedie.]
+
+## Regles d'acces [POST-DEPART : conseil de la grotte, -101 (V-G2)]
+- Bar en service : ouvert aux trois exiles non-Vizards (Kisuke, Tessai, Yoruichi).
+- Hangar : Tessai et Yoruichi libres d'acces ; Kisuke seulement sur vraie raison legitime.
 
 ## Le pub
 - Style pub : bois sombre et tissu vert. Piece principale sur deux etages, eclairee par des lustres.
@@ -28,13 +34,14 @@
 - Habitue notable : Isshin, des la mort de Masaki (-6) - chaque jeudi, arrive une heure avant l'ouverture et reste jusqu'a minuit, au comptoir avec les Vizards ; parfois accompagne de Kisuke, Tessai ou Yoruichi (cf. Personnages/Isshin_Shiba.md).
 
 ## Histoire
-- -101 : bar abandonne repere pendant que Kasumi dompte son hollow ; Urahara avance batiments et meubles ; travaux et ouverture la meme annee. La dette en yens est remboursee vite grace au succes du bar (distincte de la dette d'implication d'Urahara envers les neuf, cf. Factions/Vizards.md).
+- -101 : bar abandonne repere pendant que Kasumi dompte son hollow ; Urahara avance batiments et meubles ; delais de fondation : hangar pret en 1 semaine, bar ouvert en 3. La dette en yens est remboursee vite grace au succes du bar (distincte de la dette d'implication d'Urahara envers les neuf, cf. Factions/Vizards.md).
 - -101 -> 0 : le bar devient populaire ; des generations d'humains se succedent au comptoir.
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| -101 | Fondation sur le bar abandonne ; avance d'Urahara (batiments, meubles) remboursee vite | Bar abandonne -> le Kyoraku, foyer et gagne-pain des exiles |
+| -101 | Fondation sur le bar abandonne ; avance d'Urahara (batiments, meubles) remboursee vite ; hangar pret en 1 semaine, bar ouvert en 3 ; regles d'acces actees au conseil de la grotte (V-G2) | Bar abandonne -> le Kyoraku, foyer et gagne-pain des exiles |
+| ~-10 (~1991) | Bornes d'arcade Street Fighter II installees par Kisuke | Le jeu video entre au bar |
 | -6 | Isshin devient client regulier (les jeudis, une heure avant l'ouverture jusqu'a minuit) | Le fil Isshin s'ancre au comptoir |
 
 ---
