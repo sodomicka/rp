@@ -1,6 +1,6 @@
 # Ames_et_Reiatsu
 
-- version : W1
+- version : W2
 
 ## Konpaku et cycle des ames
 - Toute existence repose sur le konpaku (ame). Les mondes se partagent un stock d'ames en circulation : mort humaine -> Soul Society -> reincarnation dans le Monde des Vivants.
@@ -18,6 +18,7 @@
 
 ## Corps et enveloppes
 - Gigai : corps artificiel permettant au shinigami d'agir dans le monde physique et d'etre vu des humains.
+- Gigai et camouflage [DIVERGENCE RP, conclusion d'exil ~-83 (V-S2)] : le gigai est le SEUL camouflage complet du reiatsu - mais il est inadapte au combat. La piste kido-chasse est abandonnee sur cette conclusion ; la doctrine de discretion des exiles en sort renforcee.
 - Gigai special d'Urahara : indetectable, coupe le reiatsu et rend progressivement humain (utilise pour cacher Rukia, ere canon).
 - Gikon : pilules d'ame artificielle animant un corps vacant. Kaizo konpaku : ames modifiees (prototype survivant : Kon).
 - Denreishinki : communicateur-detecteur des shinigami en mission.

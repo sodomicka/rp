@@ -1,6 +1,6 @@
 # Hollows_et_Hollowification
 
-- version : W1
+- version : W2
 
 ## Naissance d'un Hollow
 - Un Plus dont la Chaine du Destin s'erode entierement (desespoir, temps, attaque de Hollow) subit l'arrachement du coeur : masque blanc, trou de Hollow, hollowification.
@@ -25,8 +25,13 @@
 - La hollowification est tenue pour irreversible : Urahara a echoue a l'inverser la nuit de l'incident.
 - [DIVERGENCE RP] Kasumi Kyoraku, 9e Vizard du meme incident. Particularites (defaite initiale, victoire par imitation du style de Yachiru Unohana en etat d'ivresse, PACTE negocie avec son Hollow au lieu d'une soumission pure) : detail porte par sa fiche (Passe 1).
 
+## Domptage du Hollow interieur
+- Mecanique d'une tentative : plongee dans le monde interieur par Jinzen [canon-first : entrainement Vizard d'Ichigo + Jinzen du Dangai]. Pendant la plongee, le corps hollowmorphose reste a l'exterieur, maintenu sous containment.
+- Doctrine des trois methodes [DIVERGENCE RP, doctrine d'exil] : la force, la surprise, et le cas a part du Kido. Le fond du domptage reste une guerre d'usure.
+- Note : Kasumi = force + surprise cumulees (record : ~3h) [DIVERGENCE RP].
+
 ## Notes
-- [DIVERGENCE RP] L'immunite des Hollows au bankai de Kasumi demande une justification in-world : point parque en _Implications, decision worldbuilder attendue.
+- [DIVERGENCE RP] Immunite des Hollows purs au bankai de Kasumi : justification actee (vecteur strictement respiratoire, les Hollows purs ne respirent pas) - mystere SB8 solde, decision worldbuilder, build R1. Detail : cf. Personnages/Nagomi.md.
 
 ---
 
