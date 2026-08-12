@@ -1,6 +1,6 @@
 # Vizards
 
-- version : W2
+- version : W3
 
 ## Le groupe
 - Neuf shinigami hollowifies lors de l'incident de -101 [DIVERGENCE RP : huit au canon, Kasumi Kyoraku est la neuvieme].
@@ -24,6 +24,9 @@
 - Base : le bar le Kyoraku et son hangar accole (Karakura), fondes des -101 - foyer et gagne-pain des neuf ; sous-sol d'entrainement dissimule sous le hangar. detail : cf. WIKI Lieux/Le_Kyoraku.md
 - Vie d'exil : chacun se construit une vie d'humain autour du bar ; salon prive du pub = rituel du groupe.
 - Apprentissage de la maitrise du masque et du Hollow interieur (seances de domptage au sous-sol). Protocole de securite du groupe : un masque fissure est un filtre perce -> le bankai de Kasumi opere, neutralisation express d'un hollowmorphose hors de controle. Methode decouverte des -101, sur une suggestion de Hiyori.
+- Jalons de vie de groupe [DIVERGENCE RP] :
+  - Conseil de la grotte (-101, V-G2) : la geographie sociale de l'exil est fixee - regles d'acces du bar et du hangar, place des trois non-Vizards (cf. Lieux/Le_Kyoraku.md), refus de Tessai d'integrer la maisonnee (cf. Personnages/Tessai_Tsukabishi.md).
+  - Confession collective de 1945 (~-56, V-G1) : chacun pose devant le groupe ce qu'il portait seul (detail : cf. fiches individuelles des membres et Personnages/Kasumi_Kyoraku.md).
 - Dette d'Urahara envers les neuf (sa part de responsabilite dans leur sort) : posee au reveil dans la grotte-planque, soldee seulement a la chute d'Aizen.
 - Rupture totale avec la Soul Society : aucun contact durant tout l'exil.
 - [DIVERGENCE RP] Kasumi : doyenne du groupe (seule de plus de quatre siecles). Shinji chef de fait ; elle conseille, contredit, et on l'ecoute. Aucune communication avec Shunsui en ~101 ans, pas meme un jigokucho ; enquetes paralleles (Kasumi avec Urahara, Shunsui avec Ukitake cote Seireitei).
