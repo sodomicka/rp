@@ -1,6 +1,6 @@
 # Sommaire - Bleach
 
-- version : W7
+- version : W8
 
 ## WIKI
 
@@ -8,11 +8,11 @@
 
 ### (racine)
 Description : pages de travail et index.
-- _Implications.md (W14) - journal de travail du build (jamais fetche en narration)
+- _Implications.md (W17) - journal de travail du build (jamais fetche en narration)
 
 ### Roadmap/Kasumi/
-Description : garde-cap et sources de build de la campagne Kasumi (Passe 2). Les roadmaps d'arc restent non indexees (v8.2) : sources de build lues par listing de dossier, jamais fetchees en narration. Etat : R0 La Routine (Roadmap_0_La_Routine.md W2), R1 La Nuit (Roadmap_1_La_Nuit.md W2), R2 L'Exil (Roadmap_2_L_Exil.md W3 + catalogue Roadmap_2_Snapshots.md W3 PARTIEL, lots 1-3 ; lots 4-6 a builder, cloture -> split R2a/R2b/R2c + chapeau W4) buildes ; R3 -> R7 [A BUILDER].
-- Chronologie.md (W6) - GARDE-CAP du decoupage R0 -> R7 dicte par le worldbuilder : bornes, jalons et [A POSER] de chaque arc
+Description : garde-cap et sources de build de la campagne Kasumi (Passe 2). Les roadmaps d'arc restent non indexees (v8.2) : sources de build lues par listing de dossier, jamais fetchees en narration. Etat : R0 La Routine (Roadmap_0_La_Routine.md W2) et R1 La Nuit (Roadmap_1_La_Nuit.md W2) buildes ; R2 L'Exil JOUABLE en quatre tranches autosuffisantes jouees dans l'ordre - Roadmap_2a_La_Fondation.md W1, Roadmap_2b_L_Usure.md W1, Roadmap_2c_Les_Bombes.md W1, Roadmap_2d_L_Attente.md W1 (chapeau et catalogue retires du depot ; tronc commun duplique, tout patch se replique aux quatre) ; R3 -> R7 [A BUILDER].
+- Chronologie.md (W7) - GARDE-CAP du decoupage R0 -> R7 dicte par le worldbuilder : bornes, jalons et [A POSER] de chaque arc
 
 ### Cosmologie/
 Description : les mondes et leur fonctionnement structurel.
@@ -44,16 +44,16 @@ Description : trame temporelle de la fenetre RP.
 
 ### Personnages/
 Description : fiches d'entites (noyau + trajectoire datee).
-- Kasumi_Kyoraku.md (W5) - protagoniste promue au lore [DIVERGENCE RP], co-capitaine 8e
+- Kasumi_Kyoraku.md (W6) - protagoniste promue au lore [DIVERGENCE RP], co-capitaine 8e
 - Nagomi.md (W5) - zanpakuto de Kasumi : sabre, esprit, hollow Kitsune, masque [DIVERGENCE RP]
-- Shunsui_Kyoraku.md (W5) - capitaine 8e, epoux de Kasumi, Katen Kyokotsu
+- Shunsui_Kyoraku.md (W6) - capitaine 8e, epoux de Kasumi, Katen Kyokotsu
 - Jushiro_Ukitake.md (W4) - capitaine 13e, hote de Mimihagi, Sogyo no Kotowari
 - Genryusai_Yamamoto.md (W3) - capitaine-commandant, fondateur du Gotei et de l'academie, Ryujin Jakka
 - Chojiro_Sasakibe.md (W3) - lieutenant 1re, gardien d'enfance du trio [DIVERGENCE RP], bankai secret
 - Lisa_Yadomaru.md (W5) - lieutenante 8e, dans le secret du co-capitainat, Haguro Tonbo
-- Kisuke_Urahara.md (W3) - 3e siege de la 2e au point de depart, geolier du Nid d'Asticots, Benihime
+- Kisuke_Urahara.md (W4) - 3e siege de la 2e au point de depart, geolier du Nid d'Asticots, Benihime
 - Yoruichi_Shihoin.md (W3) - capitaine 2e, cheffe Onmitsukido et clan Shihoin
-- Tessai_Tsukabishi.md (W4) - capitaine du Corps de Kido, kido interdits
+- Tessai_Tsukabishi.md (W5) - capitaine du Corps de Kido, kido interdits
 - Shinji_Hirako.md (W4) - capitaine 5e, Sakanade, surveille Aizen
 - Hiyori_Sarugaki.md (W4) - lieutenante 12e sous Hikifune, Kubikiri Orochi
 - Kensei_Muguruma.md (W4) - capitaine 9e, Tachikaze (bankai Tekken Tachikaze)
@@ -64,7 +64,7 @@ Description : fiches d'entites (noyau + trajectoire datee).
 - Sosuke_Aizen.md (W2) - lieutenant 5e, Kyoka Suigetsu, fiche veridique
 - Retsu_Unohana.md (W1) - capitaine 4e, premiere Kenpachi, Minazuki, fiche veridique
 - Nanao_Ise.md (W1) - niece de sang de Shunsui sous tutelle du couple [DIVERGENCE RP], majore de l'academie a -101, promise a la 8e, Shinken Hakkyoken
-- Isshin_Shiba.md (W2) - capitaine 10e [INTERPRETATION actee, build R0], chef d'une branche Shiba, Engetsu
+- Isshin_Shiba.md (W3) - capitaine 10e [INTERPRETATION actee, build R0], chef d'une branche Shiba, Engetsu
 - Ichigo_Backstory.md (W1) - fiche commune de l'origine d'Ichigo : Masaki, White, Grand Fisher (niveau mention)
 - Ginrei_Kuchiki.md (W1) - capitaine 6e, chef du clan Kuchiki, grand-pere de Byakuya
 - Kenpachi_Kiganjo.md (W1) - capitaine 11e, 10e Kenpachi, absent chronique, fiche neutre
@@ -73,7 +73,7 @@ Description : fiches d'entites (noyau + trajectoire datee).
 
 ### Lieux/
 Description : fiches de lieux (gabarit avec strate Trajectoire datee).
-- Le_Kyoraku.md (W3) - bar-foyer des exiles a Karakura [DIVERGENCE RP] : pub, cour, hangar-maison, salon prive, regles d'acces
+- Le_Kyoraku.md (W4) - bar-foyer des exiles a Karakura [DIVERGENCE RP] : pub, cour, hangar-maison, salon prive, regles d'acces, guerre 1937-1945
 
 ### Fiches_Arc/Kasumi/
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de prota, chargees une fois a l'ouverture de thread, chainage local (arc precedent / arc suivant). Passe 3 - aucune page.
