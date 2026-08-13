@@ -1,10 +1,10 @@
 # Roadmap_2_Snapshots - Catalogue des vignettes de l'Exil
 
-- version : W3 (PARTIEL : regles transversales + lots 1-3 + fil des domptages livres ; lots 4-6 a builder en threads dedies)
+- version : W4 (COMPLET : regles transversales + lots 1-6 + fil des domptages ; interclassement global, split R2a/R2b/R2c et chapeau au thread d'application de cloture)
 - role : REFERENCE IMPOSEE du thread de jeu pour les blocs 5-6 de Roadmap_2_L_Exil.md. Sequence integralement datee, jouee dans l'ordre (Passe 3 : ecriture en fiches d'arc dans cet ordre). En jeu, la liberte du MJ se limite a la reaction aux paroles et actes du joueur : la matiere vient d'ici, zero improvisation.
 - statut : non indexe au Sommaire (regime roadmap, v8.2) ; ressource de Passe 3.
 - prota / POV : Kasumi Kyoraku.
-- renvois : Roadmap_2_L_Exil.md (W3) ; Chronologie.md (garde-cap W6 = W3 depot + patch joint) ; Lieux/Le_Kyoraku.md ; Factions/Vizards.md ; fiches individuelles des huit ; Personnages/Chojiro_Sasakibe.md (style transmis a Rose).
+- renvois : Roadmap_2_L_Exil.md (W3) ; Chronologie.md (garde-cap W6) ; Lieux/Le_Kyoraku.md ; Factions/Vizards.md ; fiches individuelles des huit ; Personnages/Chojiro_Sasakibe.md (style transmis a Rose) ; Personnages/Kisuke_Urahara.md ; Personnages/Isshin_Shiba.md ; Personnages/Ichigo_Backstory.md.
 - classement : vignettes rangees par lot ; la SEQUENCE DE JEU globale (tous lots interclasses par date) sera consolidee au thread d'APPLICATION de cloture du catalogue. Nota d'interclassement acte en tete de sequence : V-T2a -> V-G2 -> V-F1.
 
 ## Intention directrice (worldbuilder)
@@ -378,23 +378,130 @@ Kensei ouvre le fil en lot 1 (V-F5, mois 2). Chaque victoire ci-dessous ajoute l
 - matiere gravee : Rose propose un film romantique ; le film s'avere etre un porno. Hiyori sort outree a la premiere scene ; Rose se ferme yeux et oreilles, degoute de ne pas voir la poesie qu'il attendait ; Lisa et Kasumi se marrent devant l'ecran, comparant ouvertement les prouesses mediocres du film aux bouquins de Lisa et aux nuits de Kasumi et Shunsui.
 - liens : V-T2c (~-70 : les lectures de Lisa evocables entre elles - V-S6 posterieur, coherent) ; cinephilie de Rose (V-T7-serie).
 
-## LOT 4 - Vie du bar par decennies, ~1900 -> 2001 (A BUILDER)
-- Ancrage Histoire reelle acte. Stock deja acte :
-  - 1945 : bombes atomiques sur deux villes du pays - inquietude de certains membres du groupe ; afflux massif d'ames envoyees d'un coup au Rukongai. V-G1 (lot 3, LIVREE) s'y adosse : croiser l'entree 1945 du lot 4 avec la vignette.
-  - ~-10 (~1991) : bornes d'arcade Street Fighter II installees par Kisuke - les jeux video deviennent loisir commun des neuf.
-  - Evolution des loisirs sur le siecle : lecture et loisirs d'epoque d'abord ; les preferences de la section "Vie du bar" sont l'etat de FIN de R2.
-- Question differee (lot 3) : comment le bar traverse la guerre 1937-1945 (stocks, ouverture, clientele) - meme regime que la note de contexte V-T5.
+## LOT 4 - Vie du bar, jalons du siecle (~1900 -> 2001)
 
-## LOT 5 - Fil enquete d'exil (A BUILDER)
-- Couverture obligatoire : jalons dates de l'ebauche de la Fausse Karakura (Kasumi + Urahara, alliance de circonstance) ; renfort du temoignage d'Isshin sur White des -6.
+- Retitrage acte (abandon "par decennies"). Couverture : 2 beats (V-B1 JOUEE, V-B2) + 2 notes de contexte (guerre 1937-1945, entree 1945).
+- Ancrage Histoire reelle acte : les evenements du XXe siecle japonais existent et peuvent etre mentionnes.
+- Evolution des loisirs sur le siecle : lecture et loisirs d'epoque d'abord ; les preferences de la section "Vie du bar" (regles transversales) sont l'etat de FIN de R2.
 
-## LOT 6 - Fil Isshin (A BUILDER)
-- Couverture obligatoire : echos -20/-6 hors champ ; jeudis des -6. Cf. Roadmap_2 bloc 6, Le_Kyoraku.md, Isshin_Shiba.md, Ichigo_Backstory.md.
+### Note de contexte - Guerre 1937-1945 (regime V-T5, pas un beat)
+- Stocks : imports occidentaux taris progressivement (1937 -> restrictions sur le luxe ~1940 -> coupure totale fin 1941). La carte "exotique" meurt ; biere et sake rationnes, marche noir. Le style pub survit dans le decor et les manieres, plus dans les verres.
+- Ouverture : black-out, couvre-feux ; ~1944, fermetures d'etablissements decretees par le gouvernement -> CLANDESTINITE ASSUMEE. Meme les flics de Karakura laissent couler pour venir boire eux-memes - ce qui signifie souvent evacuer tous les autres clients le temps de leur passage.
+- Couvertures (mobilisation, controles) : Kisuke trouve des alibis ; Hiyori, d'apparence mineure, n'en a pas besoin ; Kasumi peut jouer sur son age.
+- Clientele : jeunes hommes mobilises -> ouvriers, vieux, habitues ; on boit pour oublier.
+
+### Note de contexte - Entree 1945 (pas un beat ; V-G1 porte le drame)
+- Karakura hors des zones de guerre : alertes et black-out, pas de raids directs.
+- Les morts regionales multiplient les Plus a portee -> interceptions (doctrine V-F6) plus frequentes : les exiles sont pas mal occupes cette annee-la.
+- 6 et 9 aout : bombes atomiques sur deux villes du pays ; communiques evasifs, decryptage entre les lignes ; afflux massif d'ames envoyees d'un coup au Rukongai (hors camera, percu par inference). V-G1 (9 aout) s'y adosse.
+- 15 aout : la capitulation entendue a la radio du bar.
+
+### V-B1 - Le sosie (JOUEE)
+- date : ~2 aout 1945 (verrouillee par V-G1), nuit de service
+- lieu : le Kyoraku, service clandestin (entree discrete des habitues)
+- participants : Kasumi ; Shuji Tsukioka (mortel) ; staff du soir selon jeu ; la salle d'habitues se vide au fil des heures
+- le mortel : Shuji Tsukioka - la quarantaine, grand, carrure de Shunsui ; ressemblant a Shunsui en tout point sauf les traits du visage. Charmeur-ne, style poete : verbe fleuri, sous-entendus, pirouettes, jamais lourd. Gros buveur qui tient remarquablement l'alcool - il suit la patronne verre pour verre. De passage, un seul soir, jamais revu.
+- matiere imposee :
+  - lui : charmeur en mode CONQUETE - il veut conclure, meme pour un soir. Son style de conquete est exactement celui du jeune Shunsui d'avant la mise en couple : la machine a charmer qui a conquis Kasumi il y a environ neuf siecles.
+  - elle : personne ne l'a conquise depuis - son seul registre encore pratique est le jeu d'ENTRETIEN, la taquinerie a sous-entendus du quotidien marie (celle qui, avec Shunsui, finit chaque fois en sueur sous les draps).
+  - la confusion : elle plaque son registre sur ce qu'elle recoit - elle voit un joueur taquin la ou il est le charmeur - et joue SA partie, le jeu de la routine conjugale, sans enjeu pour elle. Elle le vit comme une discussion a sous-entendus, sa maniere a elle de jouer avec Shunsui.
+  - le gars est vraiment marrant : il la fait RIRE - pas sourire, RIRE - pour la premiere fois depuis son depart du Seireitei.
+  - lui lit ce jeu comme une reciprocite (elle repond, boit verre pour verre, rit) : pour lui, toute la nuit annonce la fin.
+  - fin de nuit : il propose de conclure. Le malentendu s'effondre - elle realise avoir passe la nuit a jouer le jeu de son mariage avec un inconnu qui, lui, la conquerait. Elle aime Shunsui, rien que lui, sans exception. Elle lui demande de partir - c'est ce qui interrompt la nuit.
+  - elle a tenu la nuit grace a l'alcool (grave V-G1).
+- matin : pas de sommeil, cinq heures de pleurs (grave V-G1) - elle a trouve le sosie de son Shunsui et il etait trop comme lui, jusqu'a rejouer sans le savoir la conquete de leur jeunesse.
+- liens : V-G1 (le recit a l'appui de sa confession du 9 aout ; "une nuit passee a parler" est litteralement vrai de son point de vue - elle n'a vu que le jeu) ; note de contexte guerre (service clandestin).
+- etat de sortie : la blessure fraiche qui arme la confession de V-G1, une semaine plus tard.
+
+### V-B2 - Les bornes de Kisuke
+- date : ~-10 (~1991)
+- lieu : le Kyoraku, salle du pub
+- participants : les neuf ; Kisuke (livraison pendant le service - acces bar conforme a V-G2, aucune "raison legitime" requise)
+- matiere : Kisuke installe des bornes d'arcade Street Fighter II dans un coin de salle (grave : fiche Le_Kyoraku W3, trajectoire datee) ; le jeu video devient loisir commun des neuf. Adoption : tournois internes, clients ravis ; texture libre au jeu.
+- etat de sortie : etat de FIN de R2 des loisirs atteint (cf. regles transversales, Vie du bar).
+
+## LOT 5 - Fil enquete d'exil (Kasumi/Urahara)
+
+- Couverture : 3 beats + le temoignage White (V-EI, a cheval lots 5/6, SEULE scene White du catalogue). Aboutit a la possibilite technique du faux lieu ; l'exploitation (le piege reel) est matiere de R3 et ne se joue pas ici.
+- Cadre : le fil enquete est la "raison legitime" par excellence des acces de Kisuke (V-G2).
+
+### V-E1 - Le pacte d'enquete
+- date : -101/-100 (une fois le Kyoraku installe)
+- lieu : le Kyoraku hors service ou hangar (acces V-G2 : raison legitime)
+- participants : Kasumi, Kisuke
+- matiere :
+  - mise a plat des deux moities : elle sait QUI (Fugai : Aizen, Gin, Tosen) ; lui sait COMMENT (le Hogyoku, les experiences d'hollowification).
+  - constat fondateur : flagrant delit impossible - l'alibi d'Aizen est en beton (fourni par Shunsui a son insu), et Aizen ne se fera jamais prendre sur un terrain qu'il ne controle pas.
+  - conclusion qui lance tout : pour le pieger, il faudra choisir le terrain. Mieux : le FABRIQUER.
+- etat de sortie : fil enquete ouvert ; alliance de circonstance actee (aucun lien pre-depart, cf. fiches).
+
+### V-E2 - La preuve de principe
+- date : ~-40 (~1961)
+- lieu : sous-sol du Shoten ou du hangar (libre au jeu)
+- participants : Kasumi, Kisuke ; temoins du groupe selon jeu
+- matiere : Kisuke demontre a petite echelle qu'une zone delimitee riche en reishi peut etre SUBSTITUEE - echangee avec un double. Un tour de passe-passe spatial, pas encore une arme. Kasumi comprend ce que ca peut devenir.
+- liens : V-S3 (~-50) - la demonstration tombe apres l'engueulade ethique : l'alliance survit aux frictions.
+- etat de sortie : le principe du faux lieu existe ; l'echelle reste un probleme ouvert.
+
+### V-EI - Le temoignage White (a cheval lots 5/6, SEULE scene White)
+- date : -6/-5, un jeudi des premiers mois de la routine d'Isshin
+- lieu : le Kyoraku, comptoir
+- participants : Isshin ; Kasumi, Kisuke ; Vizards presents selon jeu
+- matiere :
+  - Isshin raconte l'incident entier : le Hollow noir au masque blanc, fabrique, aux pouvoirs de shinigami ; la lame invisible qui l'a frappe en plein combat [canon] ; Masaki, la contamination, le sacrifice de ses pouvoirs.
+  - le cercle du bar croise avec ce qu'il sait : la lame sans visage recoit un nom - Aizen - et la rage d'Isshin rejoint le dossier.
+  - pieces versees au fil enquete : Aizen experimentait encore ~80 ans apres -101 ; il opere SUR Karakura - le jureichi est son terrain.
+  - l'ebauche change d'echelle : le faux lieu devra etre une FAUSSE KARAKURA.
+- garde-fou : White ne se raconte QU'ICI ; partout ailleurs (V-I2 compris), reference en passant maximum.
+- liens : Tchekhov "Ebauche de la Fausse Karakura" (SB8) - le renfort du temoignage d'Isshin, tel que grave.
+- etat de sortie : le dossier a une cible geographique ; Isshin embarque emotionnellement dans le fil enquete.
+
+### V-E3 - Le tiroir
+- date : ~-2 (~1999)
+- lieu : libre (Shoten ou Kyoraku hors service)
+- participants : Kasumi, Kisuke
+- matiere : Kisuke confirme la faisabilite a l'echelle d'une ville - substitution complete, habitants endormis. Possibilite technique ACTEE, pas exploitee : Kasumi range l'ebauche dans un tiroir.
+- garde-fou : rien ne se construit, rien ne se joue - la concretisation (l'idee du piege reel) appartient aux retrouvailles de R3 (SB8).
+- etat de sortie : etat de cloture R2 atteint ("l'ebauche de la Fausse Karakura dans un tiroir", Roadmap_2).
+
+## LOT 6 - Fil Isshin, la routine du jeudi
+
+- Couverture : 3 beats de routine (-6 -> 0), adosses au bloc 6 de Roadmap_2 et aux fiches Isshin_Shiba / Ichigo_Backstory / Le_Kyoraku. Les echos ~-20 -> -6 (White, mariage, desertion) restent hors champ : ils n'existent au catalogue que par les recits d'Isshin (V-EI pour White).
+- Verif chrono posee au build : Isshin capitaine 10e vers -110, chute des neuf en -101 -> ~9 ans de conseil des capitaines en commun ; puis collegue de Shunsui ~80 ans apres la chute (jusqu'a sa desertion ~-20).
+
+### V-I1 - Le premier jeudi
+- date : -6
+- lieu : le Kyoraku, une heure avant l'ouverture
+- participants : Isshin, Kisuke (introducteur) ; les neuf
+- matiere :
+  - Kisuke amene un veuf de fraiche date. Pas un inconnu : la retrouvaille des tombes - deux generations d'epaves du Gotei au meme comptoir. Kisuke l'a briefe : pas de coup de theatre, la matiere est la reunion, pas la surprise.
+  - le deal du jeudi se fixe : chaque jeudi, une heure avant l'ouverture, jusqu'a minuit ; Ichigo garde les petites.
+  - LA REGLE DU COMPTOIR (decision worldbuilder) : Isshin propose des nouvelles de Shunsui - il a siege ~80 ans a ses cotes apres la chute. Kasumi l'arrete : pas par un tiers. Chacun voudra le recit de l'autre DE VIVE VOIX - ce siecle, elle l'entendra de Shunsui ou pas du tout. La regle tient jusqu'a la borne, et personne ne la reteste.
+- liens : recits croises de R3 (la regle protege leur matiere ; renvoi stock build R3).
+- etat de sortie : routine du jeudi installee ; la fenetre Shunsui volontairement fermee.
+
+### V-I2 - Le confessionnal
+- date : fenetre -6 -> -1, jeudi representatif de la routine
+- lieu : le Kyoraku, comptoir
+- participants : Isshin ; les presents du soir ; parfois Kisuke, Tessai ou Yoruichi
+- matiere : la routine gravee (bloc 6) - le bon vieux temps avec les Vizards, sa peur que son fils decouvre ses nombreux heritages, et cet enfoire d'Aizen. Le bar est sa therapie ; eux recuperent un bout du monde qu'ils ont quitte.
+- garde-fou : zero matiere White ici (reference en passant maximum, cf. V-EI) ; zero nouvelle de Shunsui (regle V-I1).
+- etat de sortie : le fil regulier tel que le connaitront les arcs suivants.
+
+### V-I3 - Les derniers jeudis
+- date : ~-1/0
+- lieu : le Kyoraku, comptoir
+- participants : Isshin ; les presents du soir
+- matiere : le fils voit les fantomes de plus en plus net, suivi de jeudi en jeudi ; la peur d'Isshin a son comble, fierte et trouille melees.
+- liens : ironie dramatique routee CODEX, jamais en fiche d'arc (la peur se realisera des l'arrivee de Rukia, cf. Roadmap_2).
+- etat de sortie : veille de l'ere Kurosaki - borne de sortie de R2 atteinte.
 
 ## Coherence hors camera - fil Seireitei
 - Verification lot 1 : aucune vignette du lot 1 ni du fil des domptages ne touche le Seireitei ; la doctrine de discretion (V-F6/V-F7) est coherente avec "aucun contact en ~101 ans" (Vizards.md).
 - Verification lot 2 : aucune vignette du lot 2 ne touche le Seireitei ; l'aveu de Shinji (V-T4a) et la verite de Fugai (V-T2a) circulent en interne du groupe seulement - coherent avec "aucun contact en ~101 ans". A reverifier a chaque lot.
 - Verification lot 3 : aucune vignette ne touche le Seireitei. V-S2 echoue avant tout contact (piste abandonnee) ; V-S4 applique la doctrine mineurs ; V-G2 fixe la geographie sociale interne ; les confessions de V-G1 (aveu de Shinji, doutes du couple) circulent en interne seulement. Coherent avec "aucun contact en ~101 ans".
+- Verification lot 4 : aucune vignette ne touche le Seireitei. La clandestinite de guerre est un enjeu strictement humain (police de Karakura) ; V-B1 se joue au comptoir ; V-B2 est une livraison de Kisuke conforme aux acces de V-G2. Coherent avec "aucun contact en ~101 ans".
+- Verification lots 5-6 : aucun contact Seireitei. Le fil enquete reste interne au cercle de l'exil ; Isshin est un deserteur coupe de la Soul Society - ses recits sont du passe, pas un canal. La regle du comptoir (V-I1) ferme meme le canal indirect des nouvelles de Shunsui. Coherent avec "aucun contact en ~101 ans".
 
 ---
 
