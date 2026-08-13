@@ -1,6 +1,6 @@
 # Kasumi Kyoraku
 
-- version : W5
+- version : W6
 - statut : [DIVERGENCE RP] OC promue au lore. Fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Elements post-depart balises [POST-DEPART].
 
 ## Identite
@@ -33,7 +33,8 @@
 ## Histoire (noyau)
 - Naissance dans le clan Kamo [~-1400/-1300].
 - Enfance dans le chaos de la Soul Society d'avant-guerre. Guerre Quincy (~-1000, plusieurs decennies) : la vit d'enfant a jeune adolescente, planquee avec Shunsui, Ukitake et l'aine des Kyoraku, sous la garde de Chojiro Sasakibe, bras droit de Yamamoto [DIVERGENCE RP]. L'amitie du trio est anterieure a l'academie.
-- Apres la guerre : academie Shin'o (promotion de Shunsui et Ukitake), puis mariage avec Shunsui peu apres (~-1000) ; extinction assumee du clan Kamo.
+- Kasumi et Shunsui tombent amoureux AVANT la fin de la guerre, encore planques : promesse de mariage pour l'apres-guerre [DIVERGENCE RP].
+- Apres la guerre : academie Shin'o (promotion de Shunsui et Ukitake), puis mariage avec Shunsui peu apres (~-1000), honorant la promesse d'enfance ; extinction assumee du clan Kamo.
 - Des siecles comme lieutenante de la 8e sous son epoux capitaine.
 - ~-390 : entree de Lisa Yadomaru a la 8e. ~-365 : 3e siege ; Lisa passe des lors sa vie a chercher ses superieurs pour les mettre au boulot et fait deja toute leur paperasse.
 - ~-350 : scandale de la debauche du couple sur le toit de la 1re division. Penitence imposee par Yamamoto : chasse d'un Vasto Lorde, accomplie en duo. Dans la foulee, Yamamoto fusionne leurs postes en co-capitainat pour faire du damage control ; Lisa devient lieutenante. Scandale etouffe : seuls le trio, Lisa et Yamamoto savent [DIVERGENCE RP].
@@ -48,7 +49,7 @@
 - Methode de l'ivresse : boire jusqu'a tuer tout reflexe et toute memoire musculaire - condition d'une imitation parfaite. Piece maitresse du repertoire : le style de Yachiru Unohana, appris par observation avant sa mue en Retsu [INCERTAIN : datation volontairement non fixee].
 
 ## Relations
-- Shunsui Kyoraku : epoux. Couple fusionnel, plus vieux couple du Seireitei. La facade de dragueur du canon n'existe pas dans cette continuite.
+- Shunsui Kyoraku : epoux. Couple fusionnel, plus vieux couple du Seireitei. La facade de dragueur du canon n'existe pas dans cette continuite. Deux registres de jeu amoureux distincts [DIVERGENCE RP] : la CONQUETE - la machine a charmer du jeune Shunsui, celle qui l'a conquise, eteinte a la mise en couple - et l'ENTRETIEN - la taquinerie a sous-entendus du quotidien marie, entretenue sur les siecles, qui finit chaque fois en sueur sous les draps. Personne d'autre ne l'a jamais conquise.
 - Jushiro Ukitake : ami d'enfance (anterieur a l'academie), temoin amuse de la gemellite du couple. Kasumi est dans la confidence de Mimihagi [DIVERGENCE RP].
 - Genryusai Yamamoto : maitre. Insolence legere, adoration mutuelle, confiance aveugle reciproque. Son verdict : "la meilleure et la pire shinigami femme qu'il ait formee".
 - Lisa Yadomaru : lieutenante depuis ~-350 ; la seule a tenter de faire travailler le couple. Ras-le-bol de facade, entente reelle.
@@ -64,7 +65,7 @@
 |---|---|---|
 | -101 | Suit Lisa en douce jusqu'a Fugai, intervient sur l'attaque de Kensei, bankai filtre par le masque complet, tombe la premiere, hollowifiee (9e cobaye d'Aizen), condamnee, exfiltree inconsciente | Co-capitaine 8e -> exilee de Karakura ; hollow interieur Kitsune et masque actives (cf. Nagomi) |
 | -101 -> 0 | Exil : dompte le Kitsune en ~3h depuis le reveil (1er jinzen perdu, 2e gagne ivre en Yachiru - pacte scelle) ; fonde le bar le Kyoraku des -101, patronne et premiere barmaid du Japon ; routine gravee, au comptoir tous les soirs ; tisse un lien individuel avec chacun des huit - sa 2e famille ; fil enquete avec Urahara : pieger Aizen, premiere ebauche de la Fausse Karakura | Maitresse de son pouvoir des le premier jour ; enracinee a Karakura ; Shunsui manque chaque jour un peu plus |
-| 1945 (~-56) | ~2 aout : nuit de service entiere passee a parler avec un mortel ressemblant a Shunsui en tout point sauf les traits du visage - tenue a l'alcool, cinq heures de pleurs au matin. 9 aout : confession publique au groupe - la seule chose qui la maintient est de revoir Shunsui (V-G1) | Le groupe entier le sait desormais, ainsi que les doutes anciens du couple sur Aizen |
+| 1945 (~-56) | ~2 aout : nuit de service entiere passee a parler avec Shuji Tsukioka, mortel ressemblant a Shunsui en tout point sauf les traits du visage - il la fait RIRE, premier rire depuis le depart du Seireitei ; confusion des registres (elle joue l'entretien conjugal, lui la conquiert au registre du jeune Shunsui - malentendu effondre quand il propose de conclure) ; tenue a l'alcool, cinq heures de pleurs au matin. 9 aout : confession publique au groupe - la seule chose qui la maintient est de revoir Shunsui (V-G1) | Le groupe entier le sait desormais, ainsi que les doutes anciens du couple sur Aizen |
 
 ---
 FIN_WIKI_PERSONNAGES_KASUMI_KYORAKU

@@ -1,6 +1,6 @@
 # Isshin Shiba
 
-- version : W2
+- version : W3
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Capitaine de la 10e a cette ere : [INTERPRETATION actee par le worldbuilder, build R0] - le manga ne montre jamais le titulaire du siege a l'ere Pendulum.
 
 ## Identite
@@ -34,7 +34,8 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | ~-20 | Affronte White a Karakura ; Masaki, contaminee en le sauvant, est liee a lui par Urahara - il sacrifie ses pouvoirs, deserte, prend le nom Kurosaki, ouvre une clinique | Capitaine 10e -> humain de Karakura |
-| -6 | Mort de Masaki (Grand Fisher, Auswahlen) ; introduit par Kisuke, devient client regulier du Kyoraku : chaque jeudi, une heure avant l'ouverture jusqu'a minuit ; y raconte lui-meme sa partie, craint que son fils decouvre ses heritages | Veuf ; le fil Isshin s'ancre au comptoir |
+| -6 | Mort de Masaki (Grand Fisher, Auswahlen) ; introduit par Kisuke, devient client regulier du Kyoraku : chaque jeudi, une heure avant l'ouverture jusqu'a minuit ; y raconte lui-meme sa partie, craint que son fils decouvre ses heritages. REGLE DU COMPTOIR, des le premier jeudi (V-I1) : il propose des nouvelles de Shunsui (~80 ans sieges a ses cotes apres la chute des neuf) - Kasumi l'arrete : pas par un tiers, chacun voudra le recit de l'autre de vive voix. La regle tient jusqu'a la borne, personne ne la reteste | Veuf ; le fil Isshin s'ancre au comptoir ; la fenetre Shunsui volontairement fermee |
+| -6/-5 | Raconte au comptoir l'incident White en entier (seul recit complet) ; le cercle du bar croise avec ce qu'il sait : la lame invisible qui l'a frappe recoit un nom - AIZEN. Pieces versees au fil enquete : Aizen experimentait encore ~80 ans apres -101, il opere SUR Karakura | Sait qui a detruit sa vie ; sa rage rejoint le dossier d'enquete, embarque emotionnellement |
 
 ---
 FIN_WIKI_PERSONNAGES_ISSHIN_SHIBA

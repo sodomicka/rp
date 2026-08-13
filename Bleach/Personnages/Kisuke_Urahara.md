@@ -1,6 +1,6 @@
 # Kisuke Urahara
 
-- version : W3
+- version : W4
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -44,7 +44,7 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | -101 | Sort en douce avec Tessai, confronte Aizen, stabilise les neuf au Hogyoku inacheve, arrete au matin, condamne comme architecte de l'hollowification, evade | Capitaine 12e -> exile de Karakura |
-| -101 -> 0 | Exil : fonde l'Urahara Shoten ; avance batiments et meubles du Kyoraku (rembourse vite) ; porte la dette d'implication envers les neuf (soldee a la chute d'Aizen) ; fil enquete avec Kasumi : pieger Aizen, premiere ebauche de la Fausse Karakura ; introduit Isshin au bar (-6) | - |
+| -101 -> 0 | Exil : fonde l'Urahara Shoten ; avance batiments et meubles du Kyoraku (rembourse vite) ; porte la dette d'implication envers les neuf (soldee a la chute d'Aizen) ; introduit Isshin au bar (-6). Fil enquete avec Kasumi, jalons dates : PACTE D'ENQUETE (-101/-100 : elle sait QUI - Fugai -, lui sait COMMENT - le Hogyoku ; flagrant delit impossible, l'alibi d'Aizen est en beton -> pour le pieger il faudra choisir le terrain, mieux : le FABRIQUER) ; PREUVE DE PRINCIPE (~-40 : demonstration a petite echelle qu'une zone riche en reishi peut etre substituee par un double) ; RENFORT WHITE (-6/-5 : temoignage d'Isshin - Aizen opere sur Karakura, le faux lieu devra etre une FAUSSE KARAKURA) ; FAISABILITE ECHELLE VILLE (~-2 : substitution complete, habitants endormis - possibilite technique actee, ebauche rangee au tiroir) | - |
 
 ---
 FIN_WIKI_PERSONNAGES_KISUKE_URAHARA

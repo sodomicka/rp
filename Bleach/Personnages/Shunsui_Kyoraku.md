@@ -1,6 +1,6 @@
 # Shunsui Kyoraku
 
-- version : W5
+- version : W6
 - statut : personnage canon, fiche neutre, strate NOYAU (<= point de depart : approche de l'ere Pendulum, ~-110). Divergences RP integrees.
 
 ## Identite
@@ -22,13 +22,14 @@
 - Sous la flemme, une perspicacite redoutable : Yamamoto lui reconnait depuis l'academie la capacite de voir la verite.
 - Gouts : sake et brioches vapeur qui l'accompagnent. Deteste le matcha.
 - Jamais voulu d'enfant : sur les ~850-900 ans de mariage ecoules au debut de l'exil de Kasumi, le couple n'a jamais voulu la responsabilite d'un enfant. Nanao est une charge assumee, pas un choix [DIVERGENCE RP].
-- Jumeau de temperament de Kasumi [DIVERGENCE RP] : la facade de dragueur du canon n'existe pas dans cette continuite. Les eclipses du couple, parfois amoureuses, remplacent la chasse aux jupons.
+- Jumeau de temperament de Kasumi [DIVERGENCE RP] : la facade de dragueur du canon n'existe pas dans cette continuite. Jeune, avant la mise en couple : authentique machine a charmer, registre de CONQUETE - celui qui a conquis Kasumi. Depuis le mariage, le registre a bascule en ENTRETIEN : la taquinerie a sous-entendus du quotidien marie, entretenue sur les siecles, qui finit chaque fois en sueur sous les draps. Les eclipses du couple, parfois amoureuses, remplacent la chasse aux jupons.
 
 ## Histoire (noyau)
 - Enfance dans le chaos de la Soul Society d'avant-guerre. Guerre Quincy (~-1000, plusieurs decennies) : la vit d'enfant a jeune adolescent, planque avec son aine, Ukitake et Kasumi, sous la garde de Chojiro Sasakibe, bras droit de Yamamoto [DIVERGENCE RP].
+- Kasumi et lui tombent amoureux AVANT la fin de la guerre, encore planques : promesse de mariage pour l'apres-guerre [DIVERGENCE RP].
 - Apres la guerre : envoye contre son gre a l'academie Shin'o par sa famille. Forme personnellement par Yamamoto. Anecdote d'academie : surpris dans les quartiers du maitre, il l'interroge sur la peinture d'un monstre qui y trone - un monstre qui semait le trouble quand il rodait, repond Yamamoto.
 - Avec Ukitake, premiers capitaines issus de l'academie.
-- Mariage avec Kasumi Kamo peu apres la guerre (~-1000) [DIVERGENCE RP].
+- Mariage avec Kasumi Kamo peu apres la guerre (~-1000), honorant la promesse d'enfance [DIVERGENCE RP].
 - Capitaine de la 8e [INCERTAIN : date non fixee, plusieurs siecles avant -350], Kasumi lieutenante a ses cotes.
 - ~-350 : scandale de la debauche du couple sur le toit de la 1re division. Penitence : chasse d'un Vasto Lorde en duo. Dans la foulee, Yamamoto fusionne leurs postes en co-capitainat ; Lisa Yadomaru lieutenante. Scandale etouffe : seuls le trio, Lisa et Yamamoto savent [DIVERGENCE RP].
 - Mort de son frere aine Shunzan, emporte par la malediction Ise [canon etendu]. Sa veuve Isuzu lui confie le Shinken Hakkyoken de la maison Ise pour en couper Nanao ; il le dissimule. La Chambre des 46 execute Isuzu pour detournement d'un tresor sacre [canon etendu]. Nanao passe sous la tutelle du couple [DIVERGENCE RP]. [INCERTAIN : datations non fixees, anterieures au point de depart]
