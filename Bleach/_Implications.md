@@ -2,26 +2,37 @@
 
 Journal de travail. Jamais fetche en narration.
 
-- version : W14
+- version : W15
 
 ## En attente de decision worldbuilder
 - Cumul de scellements de Nagomi grave [IMPLICITE] en fiche (le compteur repart apres scellement, un second scellement peut courir en parallele) : veto worldbuilder possible. NON grave en BIBLE.
 - Detonation du Tchekhov "chapeau de Shunsui" : non fixee, marquee [A POSER] en SB8 - a trancher, probablement au build R4/R5.
 - Presence de Kasumi sur zone la nuit de -101 : SANS version officielle au Seireitei (la manigance reste entre le couple et Yamamoto) - zone ouverte, a exploiter au plus tard au build R5 [note en Roadmap_1 W2].
 
-## Stock catalogue R2 (build en cours ; threads lots 1-3 clos ; BIBLE BUILD B6 execute)
-- Etat : Roadmap_2_Snapshots.md W3 PARTIEL livre (regles transversales + lot 1 V-F1..V-F7 + fil des domptages V-D1..V-D7 + lot 2 V-T1a..V-T8c + lot 3 V-G1, V-G2, V-S1..V-S6). Lots 4-6 a builder en UN SEUL thread, ~10 beats total (decision worldbuilder, thread d'application anticipee) : lot 4 = vie du bar, 3 beats max dont la soiree du mortel JOUEE (~2 aout 1945 ; faits graves par le recit de V-G1, date et issue verrouillees) ; lot 5 = fil enquete d'exil, quelques beats -> possibilite technique du faux lieu (exploitation aux retrouvailles = R3) ; lot 6 = fil Isshin, routine en 3 beats. Temoignage White : UNE SEULE scene, beat a cheval lots 5/6. Retitrage LOT 4 (abandon "par decennies") au thread.
-- SEQUENCAGE ACTE (worldbuilder, cloture lot 3) : thread d'APPLICATION ANTICIPEE (CLOS : degel partiel du depot, upload catalogue W3), puis thread BIBLE BUILD B6 (CLOS - voir bloc suivant), puis thread UNIQUE lots 4-6 par nouveaux patchs par-dessus les fichiers en ligne.
-- BIBLE BUILD B6 (execute) : stock de patchs de fiches EXECUTE - 16 pages relivrees (cf. Sommaire W7), BIBLE B6 livree (SB0 : raw_base/parties_raw_base ajoutes, etat catalogue R2), Sommaire W7 (canaris Chronologie W6 et _Implications reconcilies). Decisions worldbuilder au thread : SB6 candidate "origine Sasakibe du style" tranchee FICHE SEULEMENT (gravee en Le_Kyoraku W3, pas de gravure BIBLE) ; Factions/Vizards W3 valide et grave ; page gigai identifiee et validee : Ames_et_Reiatsu W2. Note perimee de Hollows_et_Hollowification (justification immunite au bankai "attendue") soldee : resolution R1 reportee en page W2.
-- RESTENT DIFFERES a la cloture du catalogue (thread lots 4-6 fini) : la sequence de jeu globale interclassee par date (absorbee par le split ci-dessous) ; Roadmap_2 W4 (devient le CHAPEAU du catalogue : purge Bifurcations + doctrine perimee "vignettes a la carte" + intention directrice + regles transversales + index des tranches).
-- SPLIT ACTE (worldbuilder, thread d'application anticipee) : a la CLOTURE du catalogue, scission CHRONOLOGIQUE du catalogue en trois tranches R2a/R2b/R2c (sequences datees interclassees, tous lots confondus) + chapeau Roadmap_2 W4 (cf. ci-dessus). Bornes des tranches : A FIXER a la cloture, toute la matiere en main. Motivations : poids d'injection en jeu (fichier tout-ou-rien) ; fiches d'arc de Passe 3 par tranche (principe implique par la decision, gabarit a confirmer en Passe 3).
-- Statut jouable de R2 suspendu a la cloture du catalogue (grave au garde-cap).
-- Nota d'interclassement acte en tete de sequence : V-T2a -> V-G2 -> V-F1.
-- Stock build R3 (a executer au build de Roadmap_3) : enrichissement du jalon "verdict des Vizards : pas assez mur pour etre forme" - arguments actes (worldbuilder, cloture lot 3) : entrainer Kurosaki serait lui imposer l'un des heritages qu'il ne connait pas encore ; moins risque d'attendre qu'il se decouvre en partie hollow ; moins risque pour eux vis-a-vis du Seireitei ; Ichigo juge trop immature d'apres ce qu'ont dit Kisuke et Isshin. ECHO V-G2 acte : la famille est harmonisee, le consensus est TOTAL et INSTANTANE - mesure du chemin parcouru depuis les tensions de la grotte.
-- Questions differees :
-  - Lot 4 : guerre 1937-1945 (stocks, ouverture, clientele) - REGIME ACTE : note de contexte (idem V-T5), PAS un beat ; contenu a builder au thread lots 4-6. Entree 1945 (bombes + afflux) : note de contexte egalement, V-G1 porte deja le drame.
-  - Thread dedie : detail complet de l'interieur du hangar (dortoir a separations improvisees, grave en Le_Kyoraku W3 au niveau mention).
-- Note de contexte (pas une contradiction) : V-T5 date ~-60 (~1941) - Japon en guerre, rationnement ; a garder en tete au jeu.
+## Cloture catalogue R2 (thread lots 4-6 CLOS ; catalogue COMPLET)
+- Etat : Roadmap_2_Snapshots.md W4 COMPLET livre - regles transversales + lots 1-6 + fil des domptages (V-F1..V-F7, V-D1..V-D7, V-T1a..V-T8c, V-G1/V-G2, V-S1..V-S6, V-B1/V-B2, V-E1/V-E2/V-EI/V-E3, V-I1..V-I3). Toilettages appliques au W4 : renvoi garde-cap rafraichi (W6 au depot), renvois fiches des lots 5-6 ajoutes.
+- Decisions worldbuilder du thread lots 4-6 : retitrage lot 4 ("Vie du bar, jalons du siecle") ; lot 4 limite a 2 beats ; V-B1 le sosie - Shuji Tsukioka, mecanique conquete vs entretien, premier rire depuis le depart du Seireitei, il propose de conclure et elle le fait partir ; note guerre 1937-1945 - clandestinite assumee, flics de Karakura clients eux-memes (evacuation des autres clients a leur passage), couvertures (alibis de Kisuke, Hiyori apparence mineure, Kasumi joue sur son age) ; note entree 1945 - Karakura hors zones de guerre, interceptions accrues, capitulation du 15 aout a la radio du bar ; fenetre Shunsui FERMEE (V-I1, regle du comptoir : pas de nouvelles par un tiers, chacun voudra le recit de l'autre de vive voix).
+- RESTE AU THREAD D'APPLICATION DE CLOTURE : interclassement chronologique global (absorbe par le split ; nota acte en tete de sequence : V-T2a -> V-G2 -> V-F1) ; split R2a/R2b/R2c (bornes A FIXER, toute la matiere en main ; motivations : poids d'injection en jeu, fiches d'arc de Passe 3 par tranche) ; Roadmap_2 W4 = chapeau du catalogue (purge Bifurcations + doctrine perimee "vignettes a la carte" + intention directrice + regles transversales + index des tranches) ; statut jouable de R2 (grave au garde-cap).
+- Sommaire (prochain BIBLE BUILD) : description du dossier Roadmap/Kasumi a rafraichir (catalogue W4 COMPLET ; puis tranches R2a/R2b/R2c apres le thread d'application).
+- Memoire des builds clos : threads lots 1-3, application anticipee et BIBLE BUILD B6 executes (16 fiches relivrees, Sommaire W7) ; decision tenue : origine Sasakibe du style = FICHE SEULEMENT (gravee en Le_Kyoraku W3, pas de gravure BIBLE).
+
+## Stock de patchs fiches (parque, prochain BIBLE BUILD)
+- Kasumi + Shunsui : amoureux AVANT la fin de la guerre Quincy (enfance planquee), promesse de mariage d'apres-guerre -> academie -> mariage. Echo SB3.
+- Kasumi + Shunsui : deux registres distincts - CONQUETE (Shunsui machine a charmer seulement avant la mise en couple) vs ENTRETIEN (le jeu de drague entretenu sur les siecles de mariage). Source : V-B1.
+- Kasumi : premier rire de l'exil = la nuit du sosie (V-B1, ~2 aout 1945).
+- Le_Kyoraku (Histoire + Trajectoire datee) : guerre 1937-1945 (clandestinite assumee, flics clients, couvertures) ; entree 1945 (interceptions accrues, radio de la capitulation). Source : notes de contexte du lot 4.
+- Isshin + Kasumi : la regle du comptoir (V-I1) - fenetre Shunsui volontairement fermee des le premier jeudi.
+- Isshin (trajectoire -6) : sait des -6/-5 que la lame invisible du combat contre White = Aizen (V-EI) ; sa rage rejoint le dossier d'enquete.
+- Urahara (trajectoire -101 -> 0) : jalons dates du fil enquete - pacte (-101/-100), preuve de principe (~-40), renfort White (-6/-5), faisabilite echelle ville (~-2).
+
+## Stock build R3 (a executer au build de Roadmap_3)
+- Enrichissement du jalon "verdict des Vizards : pas assez mur pour etre forme" - arguments actes (worldbuilder, cloture lot 3) : entrainer Kurosaki serait lui imposer l'un des heritages qu'il ne connait pas encore ; moins risque d'attendre qu'il se decouvre en partie hollow ; moins risque pour eux vis-a-vis du Seireitei ; Ichigo juge trop immature d'apres ce qu'ont dit Kisuke et Isshin. ECHO V-G2 acte : la famille est harmonisee, le consensus est TOTAL et INSTANTANE - mesure du chemin parcouru depuis les tensions de la grotte.
+- Forme des recits croises actee (worldbuilder, thread lots 4-6) : des soirees a la Shuji Tsukioka - sous-entendus, alcool, jeux du couple - qui finissent en sueur sous les draps plutot qu'en larmes. La regle du comptoir (V-I1) garantit un siecle de matiere intacte des deux cotes.
+
+## Questions differees
+- Thread dedie : detail complet de l'interieur du hangar (dortoir a separations improvisees, grave en Le_Kyoraku W3 au niveau mention).
+- Note de contexte (pas une contradiction) : V-T5 date ~-60 (~1941) - Japon en guerre, rationnement ; a garder en tete au jeu. Desormais adossee a la note guerre du lot 4 (catalogue W4).
+- SOLDEES au thread lots 4-6 : guerre 1937-1945 (note de contexte livree au catalogue) ; entree 1945 (idem, V-G1 s'y adosse).
 
 ## A verifier avant gravure
 - Date de fondation de l'academie Shin'o (~-2100, databook) -> confirmer si un arc s'y adosse.
