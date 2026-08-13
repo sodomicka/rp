@@ -1,6 +1,6 @@
 # Le Kyoraku
 
-- version : W3
+- version : W4
 - statut : [DIVERGENCE RP] lieu OC promu au lore. Premiere fiche du dossier Lieux/ (fixe le gabarit, avec strate Trajectoire datee). Pierre angulaire des arcs R2, R3 et R4.
 - localisation : Karakura, Monde des Vivants.
 - renvois : BIBLE SB6 ; Factions/Vizards.md ; Personnages/Kasumi_Kyoraku.md ; Personnages/Isshin_Shiba.md.
@@ -35,12 +35,16 @@
 
 ## Histoire
 - -101 : bar abandonne repere pendant que Kasumi dompte son hollow ; Urahara avance batiments et meubles ; delais de fondation : hangar pret en 1 semaine, bar ouvert en 3. La dette en yens est remboursee vite grace au succes du bar (distincte de la dette d'implication d'Urahara envers les neuf, cf. Factions/Vizards.md).
+- 1937-1945 (~-64/-56) : la guerre humaine. Imports occidentaux taris progressivement (restrictions sur le luxe ~1940, coupure totale fin 1941) - la carte exotique meurt, biere et sake rationnes, marche noir ; le style pub survit dans le decor et les manieres, plus dans les verres. Black-out, couvre-feux ; ~1944, fermetures d'etablissements decretees -> CLANDESTINITE ASSUMEE : meme les flics de Karakura laissent couler pour venir boire eux-memes, ce qui signifie souvent evacuer les autres clients le temps de leur passage. Couvertures face aux controles et a la mobilisation : alibis fournis par Kisuke ; Hiyori, d'apparence mineure, n'en a pas besoin ; Kasumi joue sur son age. Clientele de guerre : jeunes hommes mobilises remplaces par ouvriers, vieux et habitues - on y boit pour oublier.
+- 1945 : les morts regionales multiplient les Plus a portee - interceptions (doctrine de discretion) plus frequentes, les exiles bien occupes cette annee-la. 15 aout : la capitulation entendue a la radio du bar.
 - -101 -> 0 : le bar devient populaire ; des generations d'humains se succedent au comptoir.
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | -101 | Fondation sur le bar abandonne ; avance d'Urahara (batiments, meubles) remboursee vite ; hangar pret en 1 semaine, bar ouvert en 3 ; regles d'acces actees au conseil de la grotte (V-G2) | Bar abandonne -> le Kyoraku, foyer et gagne-pain des exiles |
+| 1937-1945 (~-64/-56) | Guerre humaine : imports taris, rationnement, marche noir ; ~1944 fermetures decretees -> service clandestin assume, flics clients ; couvertures (alibis de Kisuke, apparences de Hiyori et Kasumi) | Le pub survit en clandestinite ; le style tient dans le decor, plus dans les verres |
+| 1945 (~-56) | Interceptions de Plus plus frequentes (morts regionales) ; 15 aout : capitulation entendue a la radio du bar | Sortie de guerre ; retour progressif de la carte et de l'ouverture normale |
 | ~-10 (~1991) | Bornes d'arcade Street Fighter II installees par Kisuke | Le jeu video entre au bar |
 | -6 | Isshin devient client regulier (les jeudis, une heure avant l'ouverture jusqu'a minuit) | Le fil Isshin s'ancre au comptoir |
 
