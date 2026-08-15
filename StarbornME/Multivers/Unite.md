@@ -1,6 +1,6 @@
 # Unite (version Mass Effect)
 
-- version : W2
+- version : W3
 
 ## Statut
 
@@ -32,6 +32,7 @@ Importee de Starfield. Extension RP balisee ci-dessous. [DIVERGENCE RP] : n'exis
 - Sortie de l'Unite : les deux se separent. Chacune atterrit dans un univers aleatoire ou l'autre est deja, ou sera, a un compteur inconnu.
 - Exceptions : les deux univers d'origine (cf. Ouroboros.md). RP joue : n=N, m=0 - Tali y est locale, aucune Tali-Starborn n'arrive.
 - Un Starborn ejecte par la mort (cf. Systeme_Starborn.md) atterrit au hasard, sans passer ici.
+- Un Starborn BALAYE par l'ascension d'un autre (cf. Systeme_Starborn.md) ne passe pas ici non plus : reveil direct dans son vaisseau, univers suivant. L'Unite n'accueille que ceux qui sautent.
 
 ## Attente
 

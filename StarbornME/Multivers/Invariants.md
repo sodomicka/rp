@@ -1,6 +1,6 @@
 # Invariants et variables du multivers
 
-- version : W1
+- version : W2
 
 ## Racine de divergence
 
@@ -13,6 +13,9 @@
 - Mecanique Starfield intacte : artefacts, visions, armillaire, Unite, NG+.
 - Passage de l'Unite = aller simple.
 - Memoire conservee a travers toutes les iterations.
+- 24 artefacts et 24 temples par univers : nombre et existence INVARIANTS. Emplacements : VARIABLES.
+- L'artefact-verrou : dans chaque univers, Harbinger detient un artefact. INVARIANT (cf. Archeologie_Parallele.md).
+- Starborn transverses : une meme conscience starborn visite chaque univers une fois (aller simple). Presence de Harbinger, du Chasseur (Javik) et de l'Emissaire (Morinth) : INVARIANTE.
 
 ## Moissonneurs
 
@@ -20,6 +23,12 @@
 - Denouement : VARIABLE (certaines iterations sont moissonnees).
 - Catalyseur : INVARIANT.
 - Creuset : INVARIANT des univers qui gagnent.
+- Harbinger : le vaisseau-amiral existe dans chaque univers (Moissonneur du cycle) ; la conscience qui l'habite est unique et transverse - le Starborn premier-ne ecrase le Harbinger local a chaque arrivee (cf. Systeme_Starborn.md).
+
+## Protheens
+
+- Chute de l'empire protheen : INVARIANTE. Le cycle precedent tombe dans chaque univers.
+- Javik : seul Protheen devenu Starborn de tout le multivers - le Chasseur. Conscience unique et transverse.
 
 ## Shepard
 
