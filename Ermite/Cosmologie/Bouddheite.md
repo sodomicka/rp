@@ -1,6 +1,6 @@
 # Bouddheite
 
-- version : W1
+- version : W2
 
 ## Definition
 - Deux niveaux d'eveil au-dessus de l'ame simple : bodhisattva et Bouddha.
@@ -10,21 +10,23 @@
 - La Bouddheite n'est pas la suppression des imperfections : c'est leur acceptation comme part de soi.
 - Un Bouddha peut aimer, apprecier, etre imparfait. Il a pleinement accepte la perte possible de ce qu'il aime.
 - Ce qui disqualifie : la saisie. Refuser la perte, craindre la perte. La crainte est deja une possession.
-- Etat de bodhisattva : porte par deux ames seulement dans toute l'histoire, Jizo et Ichibe. Aucune autre.
+- Etat de bodhisattva : porte par deux ames seulement dans toute l'histoire, Jizo et Ichibe.
+- Vieillissement, dissonance et gel de l'age apparent a la canonisation : cf. Cosmologie/Vieillissement.md.
 
 ## Faits etablis
 - L'ascension ne coute ni corps tangible ni plaisirs simples. Preuve : Ichibe, Bouddha, boit, rit, combat.
 - Rien n'emerge du neant : tout eveil s'appuie sur un depassement reel, toute creation sur un existant.
-- Chaque bouddheite titree porte une imperfection acceptee comme part d'elle-meme. Detail par personnage : fiches (Passe 1).
+- Chaque bouddheite titree porte une imperfection acceptee comme part d'elle-meme. Detail par personnage : fiches Personnages/.
 - Cas etabli : Ichibe aime son frere. Il le nomme pour le rendre immortel, et accepte que Jizo puisse mourir temporairement ou souffrir sans qu'il puisse l'aider.
 
 ## Acces au statut
-- Voie : depassement de soi, puis canonisation. La canonisation atteste l'acceptation ; elle n'exige pas la separation d'avec ce qu'on aime.
+- Voie : depassement de soi, puis canonisation. La canonisation atteste l'acceptation ; elle n'exige pas la separation d'avec ce qu'on aime. Elle FIGE l'age apparent.
 - Avant 1004 : canonisation par le Roi Spirituel. Apres 1004 : Ichibe nomme les elus. Statut equivalent.
 - Ichibe : premier et plus vieux Bouddha, canonise par le Roi lui-meme. Bodhisattva avant son ascension. Date : non posee.
-- Shutara et Nimaiya : canonisees par le Roi, avant l'achevement de son demembrement. Dates : non posees.
+- Shutara et Nimaiya : canonisees par le Roi, avant l'achevement de son demembrement. Shutara vers -12000 (acceptation de son arrogance) ; Nimaiya vers -6000 (forge de Sayafushi, son rate le plus parfait).
 - Toutes les bouddheites hors les deux freres accedent au statut de Bouddha sans etape bodhisattva.
 - Kirinji (~1300) et Hikifune (~1850) : simples Shinigami eleves par merite, nommes par Ichibe. La Bouddheite est accessible, pas un club primordial.
+- La voie post-1004 exige d'avoir REVOLUTIONNE ce qu'est etre un Shinigami, et d'accepter le detachement. Les motifs de refus sont nombreux : refus du detachement, mepris de la verticalite hierarchique, absence de quete. Etre Bouddha se merite et s'accepte.
 - A la fondation de la Garde Royale (1004), Ichibe monte au palais pour ne plus jamais en redescendre, de son propre choix.
 
 ## Convention de nom
@@ -38,7 +40,7 @@
 - L'immortalite n'empeche ni mort temporaire ni souffrance.
 - Portee : non generalisee aux autres bouddheites. [INCERTAIN] au-dela des deux freres.
 
-## Cas Jizo (resume, detail en fiche Passe 1)
+## Cas Jizo (resume, detail en fiche)
 - Dernier bodhisattva. Son frere, devenu Bouddha, est la seule autre ame a avoir porte cet etat.
 - Trois attaches dont il refuse la perte : sa pagode, son frere, Yachiru Unohana.
 - La difference d'avec un Bouddha : il ne consent pas a la perte de ce qu'il aime, et ne cherche pas a y consentir.
