@@ -1,12 +1,12 @@
 # Jizo
 
-- version : W4
+- version : W5
 
 ## Identite
 - Jizo, nom seul. Bouddheite anterieure a la convention de nom fixee par Ichibe, exempte de fait.
 - Bodhisattva. L'un des deux seuls occupants de cet etat dans toute l'histoire, avec son frere avant ascension. Dernier a le porter.
 - Frere aine de Hyosube Ichibe. [DIVERGENCE RP - aucune fratrie dans le canon]
-- N'est pas un Shinigami : anterieur au nom de 1004, hors criteres.
+- N'est pas un Shinigami : anterieur au nom de ~999, hors criteres.
 
 ## Description physique
 - Moine d'age mur. Crane rase, barbe noire fournie.
@@ -21,6 +21,7 @@
 - Depassement fondateur : l'acceptation de sa violence pure comme part de lui (cf. Psychologie).
 - Bodhisattva et non Bouddha : la saisie le disqualifie de l'ascension. Etat pleinement habite, suffisant en soi ; aucune quete d'ascension ni de detachement.
 - Immortalite nominale depuis l'ere Nara (710-794), ou Ichibe fixe son nom. Seule fin possible : l'effacement total du nom des memoires. N'empeche ni mort temporaire ni souffrance.
+- Mecanique de la reconstitution : extension du pouvoir d'Ichibe - la raison meme du nom fixe a l'ere Nara. La prononciation du nom reconstitue lentement le mort temporaire. [etabli, BIBLE SB1]
 - Avant l'ere Nara : aucun nom fixe. Les mortels l'entrevoient et le nomment au fil des religions - Charon, Anubis, Jizo bouddhique. Noms et images passent sans le fixer ; seul le nom fixe par son frere demeure.
 
 ## Capacites
@@ -68,10 +69,11 @@
 - Trois attaches intactes ; etat de bodhisattva pleinement habite.
 
 ## Trajectoire datee
-(vide a la genese - alimentation a chaud, arc par arc, a partir de la Passe 2)
+(alimentation a chaud, arc par arc, a partir de la Passe 2)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| 1004 (R0) | Negociation echouee au Lichtreich ; dernier the et adieux tacites d'Ichibe ; recrute par Yachiru, quatorzieme de l'elite ; massacres partages ; deux jours au refuge de l'ecole Genji (Kyoraku, Ukitake - accords precoces) ; part seul tuer Yhwach : le fait saigner - seule ame non-Shinigami a y etre jamais parvenue - puis meurt transperce a l'estomac, noeud de son reiryoku, sur la future colline du Sokyoku, devant Yamamoto et Unohana en renfort | Legende fondee ; mort temporaire - la reconstitution nominale commence (R1) |
 
 ---
 FIN_WIKI_PERSONNAGES_JIZO

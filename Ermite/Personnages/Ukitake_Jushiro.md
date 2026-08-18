@@ -1,6 +1,6 @@
 # Ukitake Jushiro
 
-- version : W1
+- version : W2
 
 ## Identite
 - Ukitake Jushiro, fils aine de la famille Ukitake - clan noble MINEUR, mais aise : pas pauvres du tout. [canon + precision worldbuilder]
@@ -10,7 +10,7 @@
 ## Datation
 - Ne vers ~980. [decision worldbuilder ; canon muet sur l'age]
 - Environ 24 ans au point de depart. Age apparent : enfant (comme Kyoraku, chiffrage precis non pose). Coherence systeme : ame a fort potentiel, vieillissement lent des l'enfance.
-- Dissonance/accord : rien de declare a 1004 - c'est un enfant. ACCORD PRECOCE ACTE en devenir : meme fascination jizoienne que Kyoraku, au refuge, mais focalisee sur la puissance du dialogue et de la sagesse - la violence, il la porte moins en lui. [decision worldbuilder - matiere de roadmap, non roadmappee]
+- Dissonance/accord : rien de declare a 1004 - c'est un enfant. ACCORD PRECOCE ACTE en devenir : meme fascination jizoienne que Kyoraku, au refuge, mais focalisee sur la puissance du dialogue et de la sagesse - la violence, il la porte moins en lui. [decision worldbuilder - roadmappe : R0]
 
 ## Description physique (1004)
 - Enfant frele aux longs cheveux BLANCS - blanchis d'un coup a ~3 ans par la maladie - et aux sourcils restes noirs. Marque par les crises. [canon]
@@ -29,15 +29,15 @@
 
 ## Psychologie
 - Enfant doux et digne, qui vit avec la mort dans les poumons sans en faire un drame. [canon transpose]
-- Orientation actee [aval, matiere de roadmap] : au refuge, la fascination pour Jizo - mais la ou Kyoraku retiendra la force qu'on espere ne jamais utiliser, Jushiro retiendra la puissance du dialogue et de la sagesse.
+- Orientation actee [aval, roadmappe : R0] : au refuge, la fascination pour Jizo - mais la ou Kyoraku retiendra la force qu'on espere ne jamais utiliser, Jushiro retiendra la puissance du dialogue et de la sagesse.
 - Adulte canon, pour l'horizon : douceur, principes, generosite ; "il y a deux sortes de combats : celui pour la vie, celui pour l'honneur".
 
 ## Relations
 - Famille Ukitake : clan noble mineur, aise. Parents superstitieux et aimants - ils ont offert les poumons de leur fils a un dieu dechu pour le sauver. Fratrie a terme : cinq freres et deux soeurs ; composition exacte a 1004 non posee (l'aine a ~24 ans, des cadets peuvent naitre encore). [canon + cadrage]
 - Mimihagi : le dieu qui l'habite. Lien constitutif, permanent, silencieux. [canon]
-- Kyoraku Shunsui : futur ami de toujours ; la rencontre se fera AU REFUGE, pendant la guerre. [canon + decision worldbuilder - aval, roadmap]
-- Jizo : fascination a venir, au refuge. [aval, decision worldbuilder]
-- Les 13 sanguinaires : ses futurs protecteurs en relais au refuge. [aval, decision worldbuilder]
+- Kyoraku Shunsui : ami de toujours ; la rencontre se fait AU REFUGE, pendant la guerre (cf. Trajectoire datee). [canon + decision worldbuilder]
+- Jizo : fascination, depuis le refuge (cf. Trajectoire datee). [decision worldbuilder]
+- Les 13 sanguinaires : ses protecteurs en relais au refuge. [decision worldbuilder]
 
 ## Histoire jusqu'au point de depart
 - ~980 : naissance, aine des Ukitake, clan noble mineur.
@@ -47,13 +47,14 @@
 
 ## Etat au point de depart (1004)
 - Enfant (~24 ans reels), malade chronique stabilise par Mimihagi, chez les siens. Ne sait rien de la geopolitique en cours.
-- Des que la guerre eclatera : evacue au refuge des non-combattants (infirmes, enfants, vieillards - nobles comme pauvres), protege par les 13 sanguinaires en relais. Il y rencontrera Kyoraku ; Jizo y passera. [aval immediat, decisions actees, matiere de roadmap]
+- Des que la guerre eclatera : evacue au refuge des non-combattants (infirmes, enfants, vieillards - nobles comme pauvres), protege par les 13 sanguinaires en relais. Il y rencontrera Kyoraku ; Jizo y passera. [aval immediat, roadmappe : R0]
 
 ## Trajectoire datee
-(vide a la genese - alimentation a chaud, arc par arc, a partir de la Passe 2)
+(alimentation a chaud, arc par arc, a partir de la Passe 2)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| 1004 (R0) | Evacue au refuge de l'ecole Genji des le debut de la guerre ; y rencontre Kyoraku ; deux jours sous la garde de Jizo - accord precoce : la puissance du dialogue et de la sagesse | Modele jizoien imprime ; l'amitie d'une vie nouee |
 
 ---
 FIN_WIKI_PERSONNAGES_UKITAKE_JUSHIRO

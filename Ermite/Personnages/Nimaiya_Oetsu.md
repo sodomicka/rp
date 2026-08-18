@@ -1,11 +1,11 @@
 # Nimaiya Oetsu
 
-- version : W2
+- version : W3
 
 ## Identite
 - Nimaiya Oetsu. Nom et prenom selon la convention des bouddheites, fixee par Ichibe.
 - Bouddha, canonise par le Roi Spirituel avant l'achevement de son demembrement, sans etape bodhisattva. Canonisation : vers -6000, par la forge de Sayafushi (cf. Psychologie).
-- Shinigami des la nomination de 1004 : criteres respectes.
+- Shinigami des la nomination de ~999 : criteres respectes.
 - Createur du zanpakuto : l'outil, ou s'instille la graine de guidance de Jizo. Savoir academique, non cache. [etabli]
 - Surnomme le Dieu du Sabre (Toshin). [canon]
 
@@ -51,10 +51,11 @@
 - La Garde Royale n'existe pas encore.
 
 ## Trajectoire datee
-(vide a la genese - alimentation a chaud, arc par arc, a partir de la Passe 2)
+(alimentation a chaud, arc par arc, a partir de la Passe 2)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| 1004 (R0) | Ascension simultanee avec Ichibe et Shutara, juste apres le dernier the des freres : fondation de la Garde Royale. Depuis la Division 0, la guerre l'exigeant, systematise la distribution des lames, jusque-la personnelle (asauchi) | En Division 0 ; la forge au service de l'effort de guerre |
 
 ---
 FIN_WIKI_PERSONNAGES_NIMAIYA_OETSU

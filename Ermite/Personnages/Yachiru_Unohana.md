@@ -1,6 +1,6 @@
 # Yachiru Unohana
 
-- version : W3
+- version : W4
 
 ## Identite
 - Yachiru Unohana. Shinigami, l'une des 13 sanguinaires, co-fondatrice du Gotei originel sous Yamamoto. [canon + etabli]
@@ -45,10 +45,11 @@
 - Rumeur Kenpachi active.
 
 ## Trajectoire datee
-(vide a la genese - alimentation a chaud, arc par arc, a partir de la Passe 2)
+(alimentation a chaud, arc par arc, a partir de la Passe 2)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| 1004 (R0) | Recrute Jizo comme quatorzieme de l'elite - des bains de sang a partager, une victoire a verrouiller ; massacres en presqu'amoureux, concours de nombres de morts ; arrive en renfort avec Yamamoto sur la future colline du Sokyoku : temoin de la mort de Jizo face a Yhwach ; charge Yhwach, folle de rage | La rage ou commencera la veille (R1) |
 
 ---
 FIN_WIKI_PERSONNAGES_YACHIRU_UNOHANA

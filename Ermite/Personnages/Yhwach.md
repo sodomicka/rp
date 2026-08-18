@@ -1,6 +1,6 @@
 # Yhwach
 
-- version : W2
+- version : W3
 
 ## Identite
 - Yhwach, empereur du Lichtreich. Roi des Quincy, Pere des Quincy : son sang coule dans chaque Quincy. "Sa Majeste" pour ses sujets. [canon]
@@ -57,10 +57,11 @@
 - Haschwalth (bras droit) et les Sternritter a ses cotes, Bazz-B dans les rangs ; preparatifs d'invasion en cours.
 
 ## Trajectoire datee
-(vide a la genese - alimentation a chaud, arc par arc, a partir de la Passe 2)
+(alimentation a chaud, arc par arc, a partir de la Passe 2)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| 1004 (R0) | Refuse la paix des freres ; Almighty scelle en pleine salle du trone - implantation du bras gauche, l'arme invisible a sa vision - cour petrifiee, cecite au futur ; en fin de guerre, aux portes du Palais sur la future colline du Sokyoku : saigne par Jizo, premiere fois de son existence, puis le tue d'un coup a l'estomac | Kaiser Gesang enclenche (1004 + 999 = reveil 2003) ; scellement du corps en aval (R1) |
 
 ---
 FIN_WIKI_PERSONNAGES_YHWACH

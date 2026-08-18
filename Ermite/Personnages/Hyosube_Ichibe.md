@@ -1,12 +1,12 @@
 # Hyosube Ichibe
 
-- version : W5
+- version : W6
 
 ## Identite
 - Hyosube Ichibe. Nom et prenom selon la convention des bouddheites, fixee par lui-meme.
 - Premier et plus vieux Bouddha. Bodhisattva avant son ascension - l'un des deux seuls occupants de cet etat dans toute l'histoire, avec son frere.
 - Frere cadet de Jizo. [DIVERGENCE RP - aucune fratrie dans le canon]
-- Nature premiere : bouddheite. S'inclut dans sa propre nomination des Shinigami en 1004 : il en respecte les criteres (defense du corps du Roi, zanpakuto, shihakusho).
+- Nature premiere : bouddheite. S'inclut dans sa propre nomination des Shinigami en ~999 : il en respecte les criteres (defense du corps du Roi, zanpakuto, shihakusho).
 - Titre : Manako Osho, le Moine qui appelle le vrai nom, confere par le Roi Spirituel. [canon]
 
 ## Description physique
@@ -41,7 +41,7 @@
 - Boit, rit, combat : preuve vivante que l'ascension ne coute ni corps tangible ni plaisirs simples.
 
 ## Relations
-- Jizo : frere aine. Amour fraternel mutuel. Ichibe fixe son nom a l'ere Nara, etendant l'immortalite nominale. Exclut son frere de la nomination Shinigami : criteres d'habillage et d'armement non respectes. Co-batisseur des origines du rituel annuel de reconstruction de la Pagode des ames errantes, avant de laisser son aine batir sans lui - bascule non datee (cf. Lieux/Pagode_Ames_Errantes.md).
+- Jizo : frere aine. Amour fraternel mutuel. Ichibe fixe son nom a l'ere Nara, etendant a son aine sa propre mecanique de reconstitution par prononciation - la raison meme du nom fixe. Exclut son frere de la nomination Shinigami : criteres d'habillage et d'armement non respectes. Co-batisseur des origines du rituel annuel de reconstruction de la Pagode des ames errantes, avant de laisser son aine batir sans lui - bascule non datee (cf. Lieux/Pagode_Ames_Errantes.md).
 - Shutara Senjumaru, Nimaiya Oetsu : co-figures fondatrices (les Quatre), Bouddhas canonises par le Roi.
 - Roi Spirituel : l'a canonise ; lui a confere son titre ; Ichibe porte son bras gauche.
 - Yhwach : interlocuteur de la negociation de 1004.
@@ -50,7 +50,8 @@
 - Ne courant -100000, avec les premieres religions. Parcours pre-bouddheite : non pose.
 - Bodhisattva, puis ascension : premier Bouddha de l'histoire, canonise par le Roi Spirituel. Dates : non posees.
 - Ere Nara (710-794) : fixe le nom de son frere, Jizo.
-- 1004 : cree le nom Shinigami pour unifier l'effort de guerre et s'y inclut ; co-negociateur de la paix, en duo avec Jizo, face a Yhwach. POINT DE DEPART.
+- ~999 : cree le nom Shinigami - les clans unis face au Lichtreich, le conflit devenu existentiel - et s'y inclut. [decision worldbuilder]
+- 1004 : co-negociateur de la paix, en duo avec Jizo, face a Yhwach. POINT DE DEPART.
 
 ## Etat au point de depart (1004)
 - Mobilise pour la negociation en duo avec Jizo.
@@ -58,10 +59,11 @@
 - Shihakusho, juzu, geta ; pas encore de haori de la Garde (fondation a venir).
 
 ## Trajectoire datee
-(vide a la genese - alimentation a chaud, arc par arc, a partir de la Passe 2)
+(alimentation a chaud, arc par arc, a partir de la Passe 2)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| 1004 (R0) | Negociation en duo ; au refus de Yhwach, implante le bras gauche du Roi, poing ferme sur le cortex visuel : sceau de l'Almighty, extinction de la canonisation ; dernier the a la Pagode, adieux tacites ; ascension simultanee avec Shutara et Nimaiya, fondation de la Garde Royale | Monte pour ne plus redescendre ; le bras gauche depense ; haori de la Garde |
 
 ---
 FIN_WIKI_PERSONNAGES_HYOSUBE_ICHIBE

@@ -1,10 +1,10 @@
 # Yamamoto Genryusai
 
-- version : W1
+- version : W2
 
 ## Identite
 - Yamamoto Genryusai Shigekuni. Ne Yamamoto Shigekuni ; s'est choisi lui-meme le nom Genryusai a l'epoque de son ecole, apres sa seconde cicatrice. [canon]
-- Meneur des 13 sanguinaires, l'elite des chasseurs. Shinigami des la nomination de 1004.
+- Meneur des 13 sanguinaires, l'elite des chasseurs. Shinigami des la nomination de ~999.
 - Fondateur du style Genryu et instructeur en chef de l'ecole Genji (vers -100), future academie Shino (renommage d'ere, apres-guerre). [canon + etabli]
 - Pas une bouddheite : il vieillit.
 
@@ -30,7 +30,7 @@
 ## Relations
 - Chojiro Sasakibe : son second depuis l'ecole Genji. Allegeance juree ; possede un bankai ; l'a balafre au front a la demande de Yamamoto. Se definit lui-meme comme le second de Yamamoto - pas de fiche propre. [canon + etabli]
 - Yachiru Unohana : recrutee par lui parmi les 13 sanguinaires. Son egale en puissance. [canon + etabli]
-- Les Quatre : pre-1004, aucune hierarchie entre eux et lui - des clans, que le nom Shinigami vient d'unir.
+- Les Quatre : avant le nommage de ~999, aucune hierarchie entre eux et lui - des clans, que le nom Shinigami a unis.
 - Yhwach : l'ennemi. La treve proposee par les freres contrarie sa doctrine d'annihilation.
 
 ## Histoire jusqu'au point de depart
@@ -46,10 +46,11 @@
 - Sasakibe a ses cotes.
 
 ## Trajectoire datee
-(vide a la genese - alimentation a chaud, arc par arc, a partir de la Passe 2)
+(alimentation a chaud, arc par arc, a partir de la Passe 2)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| 1004 (R0) | Refuse la paix au nom des 13 sanguinaires ; mene l'effort de guerre ; affecte Jizo, quatorzieme de l'elite, a la protection du refuge installe dans son ecole - sauvegarder l'avenir ; arrive en renfort avec Unohana sur la future colline du Sokyoku : temoin de la mort de Jizo face a Yhwach | Temoin fondateur de la legende |
 
 ---
 FIN_WIKI_PERSONNAGES_YAMAMOTO_GENRYUSAI

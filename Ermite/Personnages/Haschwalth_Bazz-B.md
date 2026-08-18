@@ -1,6 +1,6 @@
 # Haschwalth et Bazz-B
 
-- version : W1
+- version : W2
 - Fiche de duo [decision worldbuilder] : les deux vont de pair, presents ensemble en salle du trone au point de depart.
 
 ## Jugram Haschwalth
@@ -40,12 +40,13 @@
 - Naissance : non posee - meme classe d'age que Haschwalth (enfants ensemble au canon).
 
 ### Description physique (1004)
-- Armure frappee d'un B stylise (reference flashback canon).
-- Coiffure et details d'apparence a 1004 : [INCERTAIN] - reference adulte 2003 : crete (mohawk). A trancher si mis en scene de pres.
+- Tignasse rouge complete, en epis balayes vers l'arriere, tempes degagees ; yeux verts. Pas encore de crete : la mohawk est une mue moderne. [decision worldbuilder ; charadesign fourni, screenshot anime]
+- Tenue en salle du trone : uniforme standard du Wandenreich. [canon : Sternritter d'il y a mille ans]
+- (Enfance : armure frappee d'un B stylise - reference flashback canon.)
 
 ### Capacites (1004)
 - Genie Quincy precoce : Heilig Bogen et Heilig Pfeil des l'enfance - genie nourri, a son insu puis a son grand desarroi, par la proximite de Haschwalth. [canon]
-- The Heat (Schrift H, atteste 2003) : gravure en 1004 [INCERTAIN - a trancher ; la gravure existe a l'epoque, Lille Barro premier grave].
+- SANS Schrift en 1004 [decision worldbuilder] : The Heat (Schrift H, atteste 2003) est rattache au lot des descellements de 2003, en symetrie avec le package Haschwalth. La gravure existe pourtant des la premiere generation (Lille Barro premier grave) ; Bazz-B n'est pas grave. Precision fine au tiroir 2003.
 - Archer et combattant fougueux, aguerri par cinq ans d'entrainement au meurtre de Yhwach. [canon]
 
 ### Psychologie (1004)
@@ -66,14 +67,15 @@
 
 ## Etat au point de depart (1004)
 - Haschwalth : bras droit en titre, au pied du trone. Ni Schrift ni echange de sommeil.
-- Bazz-B : Sternritter dans les rangs, present en salle du trone. Serment intact sous la cendre.
+- Bazz-B : Sternritter dans les rangs, present en salle du trone, sans Schrift - l'arc pur. Serment intact sous la cendre.
 - Le lien : fracture, non rompu - le bouton sur la garde en temoigne.
 
 ## Trajectoire datee
-(vide a la genese - alimentation a chaud, arc par arc, a partir de la Passe 2)
+(alimentation a chaud, arc par arc, a partir de la Passe 2)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| 1004 (R0) | Presents en salle du trone a la negociation ; temoins du scellement de l'Almighty (implantation du bras gauche par Ichibe, imparable : les parties du Roi sont invisibles a l'Almighty) | Leur roi-dieu prive de son oeil sur le futur, sous leurs yeux ; bascule dans la guerre |
 
 ---
 FIN_WIKI_PERSONNAGES_HASCHWALTH_BAZZ_B

@@ -1,11 +1,11 @@
 # Shutara Senjumaru
 
-- version : W3
+- version : W4
 
 ## Identite
 - Shutara Senjumaru. Nom et prenom selon la convention des bouddheites, fixee par Ichibe.
 - Bouddha, canonisee par le Roi Spirituel avant l'achevement de son demembrement, sans etape bodhisattva. Canonisation : vers -12000, lorsqu'elle accepte son arrogance.
-- Shinigami des la nomination de 1004 : criteres respectes. De toutes les bouddheites, seul Jizo n'en est pas un.
+- Shinigami des la nomination de ~999 : criteres respectes. De toutes les bouddheites, seul Jizo n'en est pas un.
 - Creatrice et tisseuse du shihakusho, critere du nom Shinigami. [canon + etabli]
 
 ## Description physique
@@ -47,10 +47,11 @@
 - La Garde Royale n'existe pas encore.
 
 ## Trajectoire datee
-(vide a la genese - alimentation a chaud, arc par arc, a partir de la Passe 2)
+(alimentation a chaud, arc par arc, a partir de la Passe 2)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| 1004 (R0) | Ascension simultanee avec Ichibe et Nimaiya, juste apres le dernier the des freres : fondation de la Garde Royale | En Division 0 (dite ainsi a posteriori) ; haori de la Garde |
 
 ---
 FIN_WIKI_PERSONNAGES_SHUTARA_SENJUMARU
