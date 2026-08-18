@@ -1,6 +1,6 @@
 # Pagode des ames errantes
 
-- version : W1
+- version : W2
 
 ## Identite
 - Demeure de Jizo, refuge des ames perdues. Premiere fiche du dossier Lieux/.
@@ -48,10 +48,11 @@
 - Batisseurs courants du rituel annuel : Jizo et Yachiru.
 
 ## Trajectoire datee
-(vide a la genese - alimentation a chaud, arc par arc, a partir de la Passe 2)
+(alimentation a chaud, arc par arc, a partir de la Passe 2)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| 1004 (R0) | Le dernier the des freres : adieux tacites, ascension d'Ichibe. Quelques semaines d'attente paisible, puis le maitre des lieux part a la guerre | Le lieu se vide ; suite en R1 |
 
 ---
 FIN_WIKI_LIEUX_PAGODE_AMES_ERRANTES
