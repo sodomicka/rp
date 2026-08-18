@@ -1,6 +1,6 @@
 # Shutara Senjumaru
 
-- version : W2
+- version : W3
 
 ## Identite
 - Shutara Senjumaru. Nom et prenom selon la convention des bouddheites, fixee par Ichibe.
@@ -20,6 +20,7 @@
 - Shigarami : son zanpakuto, aiguille a coudre geante doree, presente au depart. Utilisable en melee ; elle prefere s'en servir pour coudre. [canon]
 - Bankai deja atteint au depart : Shatatsu Karagara Shigarami no Tsuji, metier a tisser colossal qui tisse le destin de ses cibles et les scelle vers la mort. [canon anime]
 - SCEAU DU SANG : limite imposee par le Roi Spirituel sur les bankai des bouddheites, contre l'abus de pouvoirs divins ; nommee par Ichibe une fois le Roi demembre. Descellement par offrande d'une grosse quantite de reiryoku - reference : trois vies du calibre de la future Division Zero. En 1004, un tel personnel n'existe pas ; il faudrait sacrifier bien plus d'ames.
+- Scaling face a Jizo : tier similaire, mais la polyvalence des bouddheites de la Garde les rend moins bonnes que lui en combat - la specialisation absolue de son hakuda l'emporte par definition.
 - Chasseuse de Hollow, Vasto Lorde compris : avec les 13 sanguinaires, les Quatre sont les seuls a oser s'y attaquer.
 
 ## Psychologie

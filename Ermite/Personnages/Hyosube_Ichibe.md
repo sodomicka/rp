@@ -1,6 +1,6 @@
 # Hyosube Ichibe
 
-- version : W4
+- version : W5
 
 ## Identite
 - Hyosube Ichibe. Nom et prenom selon la convention des bouddheites, fixee par lui-meme.
@@ -32,7 +32,7 @@
 - Shin'uchi sous SCEAU DU SANG : comme tout bankai de bouddheite, verrouille par la limite imposee par le Roi Spirituel contre l'abus de pouvoirs divins. Descellement par offrande d'une grosse quantite de reiryoku. C'est Ichibe lui-meme qui a nomme le sceau, une fois le Roi demembre.
 - Futen Taisatsuryo : technique interdite. Vole cent nuits de tenebres au futur de la Soul Society et reduit la cible a neant, reincarnation comprise. Rituel de chant et de danse requis. [canon]
 - Porte le BRAS GAUCHE du Roi, integre a son corps, au point de depart. [canon anime + correction B3] Pouvoir du bras : la progression (evolution acceleree), dormant tant qu'il est porte ; invisible a l'Almighty, comme toute partie du Roi. Le bras droit (Mimihagi) ne fut jamais sien. Detail : cf. Cosmologie/Roi_Spirituel.md.
-- Rapport de puissance a Jizo et aux autres bouddheites : non pose.
+- Rapport de puissance a Jizo : tier similaire, mais sa polyvalence le rend moins bon que son aine en combat - la specialisation absolue du hakuda de Jizo l'emporte par definition. Regle valant pour toutes les bouddheites de la Garde.
 
 ## Psychologie
 - Jovial, fort en voix, franc, expressif. Humble et patient hors combat. [canon]
@@ -41,7 +41,7 @@
 - Boit, rit, combat : preuve vivante que l'ascension ne coute ni corps tangible ni plaisirs simples.
 
 ## Relations
-- Jizo : frere aine. Amour fraternel mutuel. Ichibe fixe son nom a l'ere Nara, etendant l'immortalite nominale. Exclut son frere de la nomination Shinigami : criteres d'habillage et d'armement non respectes.
+- Jizo : frere aine. Amour fraternel mutuel. Ichibe fixe son nom a l'ere Nara, etendant l'immortalite nominale. Exclut son frere de la nomination Shinigami : criteres d'habillage et d'armement non respectes. Co-batisseur des origines du rituel annuel de reconstruction de la Pagode des ames errantes, avant de laisser son aine batir sans lui - bascule non datee (cf. Lieux/Pagode_Ames_Errantes.md).
 - Shutara Senjumaru, Nimaiya Oetsu : co-figures fondatrices (les Quatre), Bouddhas canonises par le Roi.
 - Roi Spirituel : l'a canonise ; lui a confere son titre ; Ichibe porte son bras gauche.
 - Yhwach : interlocuteur de la negociation de 1004.

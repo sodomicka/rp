@@ -1,6 +1,6 @@
 # Jizo
 
-- version : W3
+- version : W4
 
 ## Identite
 - Jizo, nom seul. Bouddheite anterieure a la convention de nom fixee par Ichibe, exempte de fait.
@@ -25,6 +25,7 @@
 
 ## Capacites
 - Puissance : niveau de Yhwach sans Almighty. Superieur a Yamamoto et a Yachiru Unohana.
+- Bouddheites de la Garde (Ichibe, Shutara, Nimaiya) : tier similaire, mais leur polyvalence les rend moins bons que lui en combat - la specialisation absolue de son hakuda l'emporte par definition.
 - Hakuda pur, unique art de combat. Rivalise a mains nues avec Yhwach.
 - Denue de kido.
 - Shunpo a peine maitrise : vitesse purement musculaire.
@@ -49,8 +50,8 @@
 - Concours de chasse et de nombre de morts avec Yachiru sur les champs de bataille.
 
 ## Relations
-- Hyosube Ichibe : frere cadet, premier et plus vieux Bouddha. Amour fraternel mutuel. C'est lui qui fixe le nom de Jizo (ere Nara) et le rend nominalement immortel. Imperfection acceptee d'Ichibe : l'amour de son frere - il accepte que Jizo puisse mourir temporairement ou souffrir sans pouvoir l'aider.
-- Yachiru Unohana : rencontre vers 880, relation instantanee - meme intensite dans la guerre et l'introspection. Amour tacite mutuel. Seule egale de sa brutalite. Au point de depart, le lien s'exprime sans mot ni sens pose : pratique du kama sutra - communion des corps entre deux chasses - et concours de chasse et de morts. Rien n'est dit, rien n'est nomme.
+- Hyosube Ichibe : frere cadet, premier et plus vieux Bouddha. Amour fraternel mutuel. C'est lui qui fixe le nom de Jizo (ere Nara) et le rend nominalement immortel. Imperfection acceptee d'Ichibe : l'amour de son frere - il accepte que Jizo puisse mourir temporairement ou souffrir sans pouvoir l'aider. Co-batisseur des origines du rituel annuel de reconstruction de la pagode, avant de laisser son aine batir sans lui - bascule non datee (cf. Lieux/Pagode_Ames_Errantes.md).
+- Yachiru Unohana : rencontre vers 880, a la Pagode des ames errantes - elle y arrive comme tous les autres, sans chercher le lieu, portee par le besoin d'un maitre a penser pour ne pas etre que de la violence. Relation instantanee - meme intensite dans la guerre et l'introspection. Amour tacite mutuel. Seule egale de sa brutalite. Au point de depart, le lien s'exprime sans mot ni sens pose : pratique du kama sutra - communion des corps entre deux chasses - et concours de chasse et de morts. Rien n'est dit, rien n'est nomme. Co-batisseuse du rituel annuel de reconstruction de la pagode.
 - Shutara Senjumaru et Nimaiya Oetsu : co-figures fondatrices (les Quatre). Nimaiya forge l'outil zanpakuto ou s'instille la graine de Jizo ; Shutara tisse le shihakusho.
 - Roi Spirituel : l'a canonise bodhisattva.
 
@@ -58,10 +59,11 @@
 - Ne courant -100000, avec les premieres religions. Chasse les Hollow, garde l'equilibre des cycles, guide les ames perdues depuis l'aube des religions.
 - Canonisation bodhisattva par le Roi Spirituel. Date : non posee.
 - Ere Nara (710-794) : Ichibe fixe son nom. Immortalite nominale.
+- Vers 880 : Yachiru Unohana trouve la Pagode, portee par le besoin ; rencontre, relation instantanee.
 - 1004 : co-negociateur de la paix, en duo avec Ichibe, face a Yhwach. Hors de l'effort de guerre a ce stade. POINT DE DEPART.
 
 ## Etat au point de depart (1004)
-- Reside a la Pagode des ames errantes, dans la foret par-dela le Rukongai. Refuge paisible, attache materielle.
+- Reside a la Pagode des ames errantes, dans la foret par-dela le Rukongai Ouest. Refuge paisible, attache materielle. Detail : cf. Lieux/Pagode_Ames_Errantes.md.
 - Present pour la negociation en duo avec Ichibe. N'appartient ni a l'effort de guerre ni a l'elite.
 - Trois attaches intactes ; etat de bodhisattva pleinement habite.
 

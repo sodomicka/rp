@@ -1,6 +1,6 @@
 # Yhwach
 
-- version : W1
+- version : W2
 
 ## Identite
 - Yhwach, empereur du Lichtreich. Roi des Quincy, Pere des Quincy : son sang coule dans chaque Quincy. "Sa Majeste" pour ses sujets. [canon]
@@ -38,8 +38,8 @@
 
 ## Relations
 - Roi Spirituel : son pere. Rapport complexe, entre deuil, degout et rancune (cf. Psychologie).
-- Jugram Haschwalth : bras droit, reconnu comme "son autre moitie" - detenteur du versant complementaire du partage de pouvoir. Recrute avant 1004. Fiche differee (Passe 2). [canon]
-- Sternritter (premiere generation) : corps d'elite cree pour la conquete de la Soul Society. Lille Barro, premier porteur de Schrift. [canon]
+- Jugram Haschwalth : bras droit, reconnu comme "son autre moitie" - detenteur du versant complementaire du partage de pouvoir. Recrute ~999. Fiche : Personnages/Haschwalth_Bazz-B.md (duo avec Bazz-B). [canon + etabli]
+- Sternritter (premiere generation) : corps d'elite cree pour la conquete de la Soul Society. Lille Barro, premier porteur de Schrift ; Bazz-B dans les rangs depuis ~1002. [canon]
 - Jizo et Hyosube Ichibe : les negociateurs de la treve, face a lui au point de depart.
 - Yamamoto Genryusai et le Gotei originel : l'ennemi mobilise. Yamamoto refuse la treve en preparation.
 
@@ -47,14 +47,14 @@
 - ~800 : naissance. Nourrisson aveugle, sourd, muet, immobile - et sans peur, certain de survivre. [canon]
 - Enfance : la foule se rassemble et le touche ; chacun guerit, gagne ce qui lui manquait, puis meurt prematurement ; les fragments reviennent charges des qualites des porteurs. Yhwach gagne ainsi ses sens et ses fonctions. Il prend le nom du dieu que ces gens adoraient. [canon]
 - Jeunesse : decouvre le Schrift (Lille Barro premier grave). S'attribue A : The Almighty. [canon]
-- ~800-1000 : batit le Lichtreich, empire Quincy du Monde des Vivants ; conquiert les territoires du nord. [canon]
+- ~800-1000 : batit le Lichtreich, empire Quincy du Monde des Vivants ; conquiert les territoires du nord (~994 : village et chateau familial de Bazz-B brules). [canon]
 - ~999 : le voisinage entierement conquis, il annonce la creation des Sternritter pour conquerir la Soul Society. Recrute Haschwalth, son autre moitie. [canon, chrono calee sur le calendrier RP]
 - 1004 : la Soul Society a vent de l'invasion ; Jizo et Ichibe descendent negocier. POINT DE DEPART.
 
 ## Etat au point de depart (1004)
 - Environ 200 ans. Empereur du Lichtreich au faite de sa puissance, Almighty ACTIF.
 - Offre sur la table (base canon) : le Lichtreich unifie les Quincy en paix, contre le maintien de l'equilibre des mondes par les Shinigami.
-- Haschwalth et les Sternritter a ses cotes ; preparatifs d'invasion en cours.
+- Haschwalth (bras droit) et les Sternritter a ses cotes, Bazz-B dans les rangs ; preparatifs d'invasion en cours.
 
 ## Trajectoire datee
 (vide a la genese - alimentation a chaud, arc par arc, a partir de la Passe 2)

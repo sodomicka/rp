@@ -1,6 +1,6 @@
 # Nimaiya Oetsu
 
-- version : W1
+- version : W2
 
 ## Identite
 - Nimaiya Oetsu. Nom et prenom selon la convention des bouddheites, fixee par Ichibe.
@@ -18,7 +18,8 @@
 ## Capacites
 - Forge souveraine : invention de l'outil zanpakuto, forge de chaque lame des guerriers du cycle. Aucune installation necessaire : il pourrait forger dans un creuset de terre cuite.
 - Sayafushi ("Fourreau mis a genoux") : sa lame, forgee vers -6000. Si tranchante qu'aucun fourreau ne la contient - rangee dans un seau de liquide gelifiant. Ne se degrade jamais, le sang glisse du fil, infrasons quand elle tranche. Il la considere comme RATEE : trop tranchante, fil trop lisse. [canon]
-- Sabreur hors pair. [canon]
+- Sabreur hors pair. [canon] Dieu du zanjutsu : au niveau de Yachiru Unohana, qui y mise pourtant tout en 1004 ; incomparable neanmoins a la brutalite du hakuda de Jizo.
+- Scaling face a Jizo : tier similaire, mais la polyvalence des bouddheites de la Garde les rend moins bons que lui en combat - la specialisation absolue l'emporte par definition.
 - Bankai : atteint, sous sceau du sang. Forme : non posee.
 - SCEAU DU SANG : limite imposee par le Roi Spirituel sur les bankai des bouddheites, contre l'abus de pouvoirs divins ; nommee par Ichibe une fois le Roi demembre. Descellement par offrande d'une grosse quantite de reiryoku (reference : trois vies du calibre de la future Division Zero).
 - Distribution personnelle de ses lames aux guerriers du cycle : artisanale, de la main a la main. Aucun systeme etabli au depart.
