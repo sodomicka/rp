@@ -40,7 +40,7 @@ Description : fiches noyau (Passe 1). Trajectoire datee vide a la genese, alimen
 Description : fiches de lieux (Passe 1+). Trajectoire datee vide a la genese, alimentee en Passe 2.
 - Pagode_Ames_Errantes.md (W1) - demeure de Jizo, Rukongai Ouest ; refuge trouve par le besoin, rebati chaque annee
 
-> ROADMAP OUVERTE, NON INDEXEE. Roadmap/Jizo/ existe (00_Garde_Cap.md, chronologie complete pre-twist ; roadmaps d'arc en Passe 2). SOURCE DE BUILD UNIQUEMENT, jamais fetchee en narration (doctrine SPEC). Fiches_Arc/Jizo/ ouvre en Passe 3.
+> ROADMAP OUVERTE, NON INDEXEE. Roadmap/Jizo/ existe (00_Garde_Cap.md, chronologie complete de la saga ; roadmaps d'arc en Passe 2). SOURCE DE BUILD UNIQUEMENT, jamais fetchee en narration (doctrine SPEC). Fiches_Arc/Jizo/ ouvre en Passe 3.
 
 ## PARTIES (Partie1)
 

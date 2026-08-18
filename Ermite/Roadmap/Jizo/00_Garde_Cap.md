@@ -1,9 +1,12 @@
-# 00_Garde_Cap - chronologie complete (briefing pre-twist)
+# 00_Garde_Cap - chronologie complete de la saga
 
-STATUT : SOURCE DE BUILD UNIQUEMENT. Jamais fetche en narration (cf. regle roadmaps).
-Briefing exhaustif elague du worldbuilder, verdicts de frictions integres.
-Les zones balisees [DIVERGENCE DOUCE ASSUMEE] sont liees a du contenu scelle : NE PAS CREUSER, integrer telles quelles.
-Le twist final n'est ecrit nulle part et ne le sera jamais (protocole de fin de thread).
+STATUT : SOURCE DE BUILD UNIQUEMENT. Jamais fetche en narration (regle roadmaps).
+Briefing du worldbuilder, elague par choix.
+PARTI PRIS EDITORIAL ASSUME : le coeur de la saga pese sur 1004-2001 (guerre,
+veille, reveil, Pendulum, chambre des 46) ; les arcs modernes (Hueco Mundo, TYBW)
+sont une CODA volontairement allegee - power fantasy de fin de saga. Les
+allegements et divergences ne sont pas des trous a combler ni des arcs a
+reequilibrer : ce sont des choix de ton, a integrer tels quels.
 
 ## Chronologie
 
@@ -40,7 +43,7 @@ Le twist final n'est ecrit nulle part et ne le sera jamais (protocole de fin de 
 - Jizo se rend a la Chambre des 46 pour contester - seul a oser, par sa nature non-Shinigami.
 - Il y trouve 46 cadavres, et Gin, Tosen, Aizen presents. Il les chasse : beaucoup ont souffert par leur faute, mais il n'est pas le plus legitime pour venger un systeme vertical auquel il n'a jamais cru.
 - Fuite des traitres, bredouilles. Fiasco total du plan d'Aizen.
-- PREMIERE CHARGE ACCEPTEE de son existence : capitaine de la 5e division, par pitie pour Momo. [DIVERGENCE DOUCE ASSUMEE - ne pas creuser]
+- PREMIERE CHARGE ACCEPTEE de son existence : capitaine de la 5e division, par pitie pour Momo. [DIVERGENCE ASSUMEE - choix de ton]
 - Momo reconfortee, faite guerriere ultime : bankai en trois jours.
 - Le reste des troupes congedie (pas prets pour son idee), reparti en duos dans les divisions qui leur conviennent. La 5e reduite au duo capitaine-lieutenant.
 - Enquete sur Aizen pour sa desormais pupille.
@@ -54,13 +57,15 @@ Le twist final n'est ecrit nulle part et ne le sera jamais (protocole de fin de 
 - Training montage : deux mois de rotation dans les 12 autres divisions, niveau capitaine atteint dans chaque specialite de division.
 
 ### 2002 - Hueco Mundo
-- Aizen est TUE. [DIVERGENCE DOUCE ASSUMEE - sort du Hogyoku inclus, ne pas creuser]
+- Arc volontairement EXPEDIE (coda) : les Dharmapalas roulent sur l'opposition.
+- Aizen est TUE. [DIVERGENCE ASSUMEE - sort du Hogyoku inclus, choix de ton]
 - Paix sur eux.
 
 ### 2003 - TYBW
-- Expediee en un rien de temps : les Dharmapalas sont des demi-dieux. AUCUN MORT, pas meme Sasakibe (pris de court en canon). [DIVERGENCE DOUCE ASSUMEE]
+- Expediee en un rien de temps : les Dharmapalas sont des demi-dieux. AUCUN MORT, pas meme Sasakibe (pris de court en canon). [DIVERGENCE ASSUMEE - choix de ton]
+- CASTING RESSERRE (choix de ton) : Yhwach, Haschwalth et Bazz-B (desormais millenaires), Quincy anonymes. Pas de galerie de nouveaux Sternritter : la coda ne reintroduit pas de casting massif.
 - Cote Quincy : Schrift de Haschwalth et echange de pouvoir pendant le sommeil "desceles" en 2003 (decision worldbuilder, fiche duo).
-- Tiroir 2003 (Pernida, Gerard, Kamikake d'Ukitake, Shin'uchi, transfert sommeil x sceau, Zaraki en poste depuis ~1800) : ARBITRE LE MOMENT VENU, au roadmapping TYBW.
+- Tiroir 2003 (Pernida, Gerard, Kamikake d'Ukitake, Shin'uchi, transfert sommeil x sceau, Zaraki en poste depuis ~1800) : ARBITRE LE MOMENT VENU, au roadmapping TYBW, dans les limites du parti pris de coda.
 
 ### Apres
 - Ere de paix. Happy end.
@@ -68,7 +73,7 @@ Le twist final n'est ecrit nulle part et ne le sera jamais (protocole de fin de 
 ## Trous restants (a combler au roadmapping, pas avant)
 - Sequencage fin de la guerre de 1004 (mort de Jizo / recrutement / fondation de la Garde / sceau).
 - Coordination 2001 voie ryoka / voie Jizo (jalons croises).
-- Ensemble du tiroir 2003.
+- Ensemble du tiroir 2003, dans les limites du parti pris de coda.
 - [INCERTAIN] Bazz-B : Schrift The Heat en 1004 ; apparence 1004 (fiche duo).
 
 ---
