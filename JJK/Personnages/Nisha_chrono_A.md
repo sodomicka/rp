@@ -1,6 +1,6 @@
 # Nisha Zenin - Chronologie datee, ere A (2005-2008)
 
-- version : W2
+- version : W4
 
 Extension de Personnages/Nisha.md, scindee pour le poids (Nisha = entite la plus dense du casting). Contient la TRAJECTOIRE DATEE post-depart de Nisha pour l'ere A (1 avr 2005 -> hiver 2008) : ce qu'elle DEVIENT apres le point de depart, evenement par evenement. Strate canon par defaut, telegraphique ; le detail vit dans les roadmaps. Build-side : fetchee a la demande, JAMAIS chargee en narration (la fiche d'arc tronquee tient le contexte de jeu). Le NOYAU (identite, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005) reste dans Personnages/Nisha.md. Eres ulterieures : Nisha_chrono_B.md, etc.
 
@@ -8,6 +8,7 @@ Extension de Personnages/Nisha.md, scindee pour le poids (Nisha = entite la plus
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 1 avr 2005 | Transfert a Tokyo (universite d'exorcisme), promo des quatre prodiges ; chambre au campus en semaine, domaine un week-end sur deux | quotidien jumeaux rompu ; entree au classement officiel |
+| 2005-2008 (constante) | "La prouveuse" : corrige Yaga en plein cours sur pieces d'archives Zenin (recit fondateur, onryo, lignees), et donne des supplements d'archives quand le quatuor des prodiges revise le soir | mecanisme de la friction initiale -> respect mutuel avec Yaga (cf. fiche Yaga) ; prefigure son enseignement du delta clanique (prof Kyoto, 2009+) |
 | sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) J1 : demonte Utahime puis frappe Satoru (son camp) sur une insulte a Naoya -> DQ ; J2 : bat Mei Mei | demontre que le lien jumeau prime sur l'ego et le promis |
 | 1 jan 2006 | Accepte Satoru (nouvel an organise par Shoko), premier baiser | couple forme ; faille d'Eien rearmee par l'attachement (latente) |
 | 30 jan 2006 | Anniversaire : recoit le collier-arsenal de Satoru | acquiert l'artefact (76 billes de tungstene, batterie cinetique pour la Chronostase ; cf. SB7) |

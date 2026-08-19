@@ -1,6 +1,6 @@
 # Masamichi Yaga
 
-- version : W4
+- version : W5
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -32,6 +32,7 @@ Un exorciste = un sort inne en regle generale (canon).
 Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a Nisha.
 - [DIVERGENCE RP] Progressiste, il n'apprecie pas Nisha au depart : son arrogance et son elitisme de Zenin le herissent.
 - Mais elle ne se reduit pas a ces traits ; un respect mutuel s'installe, comme avec les autres prodiges. Etat stable = respect mutuel.
+- [DIVERGENCE RP] Mecanisme de la friction : Nisha "la prouveuse" le corrige en plein cours sur pieces d'archives Zenin (recit fondateur, onryo, lignees) et supplee les revisions du soir du quatuor. Honnete, Yaga verifie au lieu de censurer ; cette rigueur nourrit le passage au respect mutuel. Cf. Personnages/Nisha_chrono_A.md et Pedagogie/Fleaux_Histoire_1eAnnee.md.
 - [DIVERGENCE RP] Son progressisme est ACTIF, pas une posture : il ne tolere pas qu'un Kyotoite traine discrimination, meurtres ou pots-de-vin sur le turf de Tokyo, quitte a se frotter aux hautes instances. Sa menace a la rentree de Nisha (agir en Kyotoite = retour a Kyoto) est SINCERE : il ne defait pas son placement politique (voulu par trois clans et les hautes instances), il borne sa CONDUITE.
 - Evolution fine -> roadmap.
 

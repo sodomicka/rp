@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W9
+- version : W12
 
 Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depart (2005) : identite, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datee post-depart) est scinde par volume pour le poids -> cf. section dediee en bas de fiche et Personnages/Nisha_chrono_A.md.
 
@@ -29,6 +29,7 @@ Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depar
 ### Chronokinesie (sort d'Eien, manie comme le sien)
 - Sort du parasite Eien. Nisha l'utilise comme si c'etait le sien (parasitisme).
 - Module l'effet du temps sur un objet touche : ralentir ou accelerer. S'applique aussi a son propre corps et a sa conscience.
+- [DIVERGENCE RP] Application cognitive et scribale : conscience et corps acceleres -> lecture et recopiage de textes a une vitesse absurde. C'est a elle que Nisha doit son statut de genie (apprentissage devorant, archives comprises). PAS de memoire photographique : elle recopie, elle ne photographie pas.
 - Forme ultime = le gel, debloquee seulement en territoire. Le gel inclut le tir cinetique : il est identique a la Chronostase complete.
 
 ### Frontiere des deux sorts
@@ -89,6 +90,7 @@ Fiche propre de Naoya : cf. Personnages/Naoya.md. Ici, seul son rapport a Nisha.
 - Enfance : Naobito a failli la renier puis l'executer (son sort lu comme celui d'un fleau). Naoya l'a defendue. L'eveil de la Chronostase (aout 1991) l'a sauvee : un vrai sort Zenin a elle.
 - 1997 (10 ans) : Naobito la fait Grade Special 1. Motif : elle a mate le fleau, donc vraie Zenin, seule femme a l'etre.
 - Hei refuse : femme = pas digne (consequence de la misogynie du clan). Akashi refuse par ego (elle se sait digne du Hei).
+- Archives du clan : interdites aux femmes (acces reserve aux heritiers de branches principales - Naoya y a toujours eu acces). [DIVERGENCE RP] Enfant, Nisha s'y INFILTRAIT : Chronokinesie sur sa conscience et sa main pour RECOPIER les textes a une vitesse absurde sans se faire prendre, quitte a digerer les copies a posteriori et a en discuter avec Naoya pour s'assurer d'avoir bien compris. Acces officiel accorde en 2000 (13 ans), par statut de prodige. Cf. Factions/Clan_Zenin.md.
 - Voie choisie : exorcisme freelance avec des membres du clan, ou elle fait tout le travail pour prouver sa puissance.
 - Favorite de Naobito, qui n'aime personne (pas meme ses enfants) mais respecte la puissance.
 
@@ -106,6 +108,7 @@ Fiche propre de Naoya : cf. Personnages/Naoya.md. Ici, seul son rapport a Nisha.
 | aout 1991 | Eveil des innes : Naoya la Projection, Nisha la Chronostase. Eien commence a craindre pour sa suprematie. |
 | 1995 | Nisha etend son territoire (Sphere du Temps Infini, 8 ans). Fin du statut servile, devient favorite de Naobito. |
 | 1997 | Putsch d'Eien (10 ans), echoue. Nisha le sent, le dit a son pere. Faite Grade Special 1. |
+| 2000 | Statut de prodige (13 ans) : acces officiel aux archives du clan, jusque-la interdites aux femmes (elle s'y infiltrait). |
 | 2005 | Inscrite a Tokyo (universite d'exorcisme). Point de depart du RP jouable. |
 
 ## Cinq raisons du transfert a Tokyo (2005)
@@ -129,7 +132,7 @@ Apportees par le conseil Zenin (Naobito, Jinichi, Ogi).
 - Cosmogonie du couple, origine des trois familles : cf. WIKI Cosmogonie/Trois_Esprits.md.
 - Mecanique des territoires (justification du domaine a 8 ans, raison de la crainte d'Eien) : autre thread.
 - Devenir post-A2 (ere B+) : convergence de la bascule d'Eien (failles engrangees) et de l'essor de son instinct protecteur (~2015+) ; elle forme Akari Nitta a Kyoto ; la tension avec Yuki detonera post-Shibuya (Nisha la tiendra pour responsable du desastre Geto + Kenjaku-dans-Geto). -> Nisha_chrono_B.md / roadmaps ere B.
-- Gojo mort en 2018 = canon ; impact d'une Nisha numero 2 a ses cotes = point ouvert, a trancher plus tard.
+- Sort de Satoru a partir de 2018 : OUVERT, peut diverger du canon - Nisha a ses cotes peut en devier le cours. Reference canon (dates in-world) : scelle a Shibuya le 31 oct 2018, libere puis tue par Sukuna le 24 dec 2018 (Shinjuku). Rien de cela n'est acquis dans le RP ; a trancher plus tard (cf. BIBLE SB8).
 
 ---
 

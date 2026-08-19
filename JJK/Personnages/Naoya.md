@@ -1,6 +1,6 @@
 # Naoya Zenin
 
-- version : W10
+- version : W12
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -29,6 +29,7 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 ## Place dans le clan
 - [DIVERGENCE RP] Integre le Hei en 1997 (10 ans), en voyant Nisha larguer les amarres en freelance : par symbiose, si elle a des missions, lui aussi. Il convainc Naobito qu'il est pret.
 - [DIVERGENCE RP] ~1997-2005 : missions en duo avec Nisha (cadre freelance), encadrees par les anciens (Chojuro, Jinichi, Ogi, Naobito) - lui et Ranta encore trop inexperimentes pour encadrer seuls.
+- [DIVERGENCE RP] Archives du clan : acces de toujours (heritier de branche principale). Partenaire de digestion des lectures volees de Nisha (enfance, avant son acces officiel de 2000) : les copies qu'elle en tire en Chronokinesie (recopiage accelere) se decortiquent a deux, pour s'assurer de bien comprendre. Cf. Factions/Clan_Zenin.md.
 
 ## Psychologie
 - (canon) Arrogant, cruel, hautain.

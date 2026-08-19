@@ -1,6 +1,6 @@
 # Satoru Gojo
 
-- version : W7
+- version : W8
 
 ## Identite
 - Nom : Satoru Gojo. Canon. Le guerrier parfait vivant du clan Gojo.
@@ -45,6 +45,7 @@ Satoru vaut alors 12 doigts (~31 % de Sukuna), pre-eveil. Etat globalement CANON
 - [DIVERGENCE RP] Erige en dieu depuis dix-huit ans, il ne prend RIEN au serieux : tout est divertissement. Le pouvoir politique et financier l'ennuie ; il ne se vante que de ses sorts, son seul bien propre.
 - Parallele Sukuna assume : il a tout sur demande et n'en veut rien, sinon une vie pleine d'action.
 - Indiscipline notoire, qui exaspere le conseil d'anciens (cf. Factions/Clan_Gojo.md).
+- [DIVERGENCE RP] Archives du clan Gojo : plein acces (heritier de branche principale), jamais consultees - il s'en moque. Il bruteforce les evaluations theoriques aux Six Yeux et au talent brut, sans jamais posseder le savoir des archives. Cf. Factions/Clan_Gojo.md et Pedagogie/Fleaux_Histoire_1eAnnee.md.
 - [DIVERGENCE RP] Ancre affective : Nisha est, apres l'eveil, son dernier lien proprement humain. C'est ce qui le garde plus humain que dans le canon - et, en miroir tragique, ce meme amour qui l'absorbe l'aveugle a la chute de Geto (cf. Trajectoire datee).
 
 ## Nisha - relation
