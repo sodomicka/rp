@@ -1,6 +1,6 @@
 # Clan Gojo
 
-- version : W2
+- version : W3
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 (transcendance de Satoru en 2006, suite) -> roadmap, hors de cette page neutre.
 
@@ -19,6 +19,12 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 - [DIVERGENCE RP] Conseil d'anciens : bien plus nombreux, plus opaque et plus anonyme que le conseil Zenin. Hommes ET femmes (contraste avec le patriarcat Zenin).
 - [DIVERGENCE RP] Regle de souverainete : le conseil se place sous l'autorite ABSOLUE du guerrier parfait. En son absence, ce ne sont que des vieillards qui gerent le clan ; en sa presence, sa voix est la verite.
 - [DIVERGENCE RP] En 2005, Satoru est donc le chef de fait. Mais il ne se presente jamais comme tel : il joue les modestes sur son poids politique et financier (qui l'ennuie) et ne se vante que de ses sorts innes - le seul actif qu'il tient pour vraiment sien.
+
+## Archives du clan
+[DIVERGENCE RP]
+- Memoire ecrite du clan : genealogies, tradition de la filiation Michizane (l'onryo de l'espace, tenu pour heritage documente) et influence des croisements matrimoniaux sur les sorts. Meme niveau de savoir que les archives Zenin et Kamo - mais rien n'en circule hors du clan (aucune mise en commun entre grandes familles). Aucune notion de la greffe des Six Yeux ni des architectes.
+- Acces reserve aux HERITIERS DE BRANCHES PRINCIPALES (regle commune aux trois grandes familles). Satoru y a plein acces - et ne les consulte pas : il s'en moque, ses Six Yeux et son cerveau lui suffisent (cf. Personnages/Satoru.md).
+- Consequence : au point de depart, ce savoir reste lettre morte (cf. Pedagogie/Fleaux_Histoire_1eAnnee.md, delta clanique).
 
 ## Branches et lignee
 [DIVERGENCE RP] sur la structure ; ancrage canon : Michizane est l'ancetre commun de Satoru Gojo et de Yuta Okkotsu (JJK 0).

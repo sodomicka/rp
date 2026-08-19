@@ -1,6 +1,6 @@
 # Clan Zenin
 
-- version : W6
+- version : W9
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 (morts, massacre du clan) -> roadmap, hors de cette page neutre.
 
@@ -39,6 +39,12 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 - Internes : nees dans le clan (ex. Maki, Mai). Destinees servantes, ou mariees pour etre envoyees ailleurs.
 - Epouses : mariage arrange, puis vie de servante (ex. la mere Gojo de Jinichi et Toji ; la mere de Maki et Mai).
 - Uterus : profanes pures, prises uniquement pour porter un enfant sans corrompre la lignee (le sang ne vient que du pere). Choyees comme un tresor durant la grossesse, renvoyees a la vie civile apres l'accouchement. Jamais inscrites aux registres, jamais nommees. Ex. la mere des jumeaux Nisha/Naoya et les meres des trois fils de Naobito.
+
+## Archives du clan
+[DIVERGENCE RP]
+- Memoire ecrite du clan : genealogies, sorts et croisements, tradition de la filiation Masakado (l'onryo du temps, tenu pour heritage documente - cf. Cosmogonie/Trois_Esprits.md et Pedagogie/Fleaux_Histoire_1eAnnee.md, delta clanique). Aucune notion des greffes inter-clans ni des architectes : les anomalies s'y constatent sans s'expliquer.
+- Acces reserve aux HERITIERS DE BRANCHES PRINCIPALES (regle commune aux trois grandes familles). Femmes exclues par principe (prolongement direct des trois statuts ci-dessus).
+- Naoya : acces de toujours (heritier de fait). Nisha : acces accorde en 2000 (13 ans), par statut de prodige - seule femme du clan a le detenir. Avant cela, elle s'y infiltrait (recopiage accelere en Chronokinesie, digestion des copies a posteriori avec Naoya : cf. Personnages/Nisha.md).
 
 ## Unites de combat (hierarchie)
 - Hei : unite d'elite. Exorcistes a sort inne puissant, ranges Semi-Grade 1 et au-dessus. Membres connus : Jinichi, Ogi, Chojuro, Ranta, Naoya (entre en 2000), et les trois fils de Naobito (par nepotisme - anomalie que Nisha et Naoya meprisent). [DIVERGENCE RP] Le Hei refuse d'affronter les jumeaux (Nisha freelance + Naoya, 2 contre 1) pour ne pas se faire humilier par deux gamins.

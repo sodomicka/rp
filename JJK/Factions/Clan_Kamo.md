@@ -1,6 +1,6 @@
 # Clan Kamo
 
-- version : W2
+- version : W3
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 -> roadmap, hors de cette page neutre.
 
@@ -20,6 +20,11 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 - [DIVERGENCE RP] Pas de conseil deliberatif (contraste avec Gojo et Zenin) : le chef regne, entoure d'EMISSAIRES qui executent sa parole.
 - [DIVERGENCE RP] Garde-fou : les emissaires peuvent decider de se reunir pour RENVERSER le chef s'il ne convient plus a l'esprit du clan.
 - [DIVERGENCE RP] Precedent (Meiji) : sous l'identite de Noritoshi Kamo, Kenjaku, juge indigne, fut contraint au seppuku dans ses appartements, seul, sur decision des emissaires. Kenjaku changea alors de corps et eventra son ancienne enveloppe. (Coherent avec la fiche Kenjaku, qui laissait la fin de ce corps non precisee.) Cf. Personnages/Kenjaku.md.
+
+## Archives du clan
+[DIVERGENCE RP]
+- Memoire ecrite du clan : genealogies, tradition de la filiation Sutoku (l'onryo des liens, tenu pour heritage documente - cf. Cosmogonie/Trois_Esprits.md et Pedagogie/Fleaux_Histoire_1eAnnee.md, delta clanique) et influence des croisements matrimoniaux sur les sorts. Aucune notion des greffes essaimees ni des architectes.
+- Acces reserve aux HERITIERS DE BRANCHES PRINCIPALES (regle commune aux trois grandes familles) : chez les Kamo, le chef et son heritier designe (la pupille).
 
 ## Noritoshi Kamo (heritier, ne 2000)
 - Canon : Noritoshi Kamo ; porte la version pure de la manip du sang.
