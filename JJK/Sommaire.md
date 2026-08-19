@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W17
+- version : W18
 
 ## WIKI
 
@@ -71,6 +71,10 @@ Description : fiches personnages du monde.
 ### Power_Scaling/
 Description : systeme de puissance de l'univers.
 - Doigts_de_Sukuna.md (W8) - unite "doigt de Sukuna", formule non lineaire, bareme de grade, reperes chiffres (casting B3 integre), loi synergie/symbiose, partage gemellaire.
+
+### Pedagogie/
+Description : enseignements des universites d'exorcisme (cadre, grille, fiches de cours).
+- Resume_Enseignements.md (W1) - carte des enseignements : cadre (3 ans post-bac [DIVERGENCE RP], annee 3 pratique), rythme et bareme (evals 1/3, examen de mars 2/3), trois poles de transmission (classique / avance clanique / omniscient vulgarise), grille des 12 sujets semestriels, gabarit des fiches de cours a venir.
 
 > ROADMAPS NON INDEXEES EN JEU (v8.2). Dossier Roadmap/Nisha/ amorce (Passe 2 en cours) : trame_B (W4, vue d'ensemble ere B), Roadmap_A0 (prologue 1987-2005), Roadmap_A1 (Le Transfert, 2005-2006), Roadmap_A2 (2006-2008), Roadmap_B1 (Fonder, 2008 -> mars 2013), Roadmap_B2 (Le trauma, 2013-2015). Roadmap_B3 a venir (jalons poses, detail au prochain thread). Les roadmaps restent hors de cet index - sources de build seulement, jamais fetchees en narration.
 
