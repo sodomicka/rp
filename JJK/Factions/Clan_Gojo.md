@@ -1,6 +1,6 @@
 # Clan Gojo
 
-- version : W1
+- version : W2
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 (transcendance de Satoru en 2006, suite) -> roadmap, hors de cette page neutre.
 
@@ -13,7 +13,7 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 ## Le guerrier parfait
 - [DIVERGENCE RP] Definition : le membre qui cumule l'Infini ET les Six Yeux simultanement. Combinaison d'une rarete extreme. (Canon : Gojo Satoru porte les deux ; cumul tres rare.)
 - [DIVERGENCE RP] Cadence : rare et IMPREVISIBLE. Pur hasard genetique du brassage des lignees, aucune horloge. Le clan AIME y lire un lien entre la venue du guerrier et les moments ou le monde a besoin de lui - superstition complaisante et biais de confirmation ("on voit ce qu'on veut voir"), pas une regle reelle.
-- [DIVERGENCE RP] Porteur vivant en 2005 : Satoru Gojo (ne 1989). Cf. Personnages/Satoru.md.
+- [DIVERGENCE RP] Porteur vivant en 2005 : Satoru Gojo (ne 1986). Cf. Personnages/Satoru.md.
 
 ## Gouvernance
 - [DIVERGENCE RP] Conseil d'anciens : bien plus nombreux, plus opaque et plus anonyme que le conseil Zenin. Hommes ET femmes (contraste avec le patriarcat Zenin).
@@ -23,12 +23,12 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 ## Branches et lignee
 [DIVERGENCE RP] sur la structure ; ancrage canon : Michizane est l'ancetre commun de Satoru Gojo et de Yuta Okkotsu (JJK 0).
 - Branche principale (Sugawara -> Gojo) : porte le cumul Infini + Six Yeux. Lignee du guerrier parfait.
-- Branche Fujiwara -> Okkotsu : scindee des Sugawara apres une mutation rendant l'Infini benin ; l'Infini y est ensuite PERDU. (Ironie voulue : dans l'Histoire, les Fujiwara firent chuter et exiler Michizane.) Retour tacite de l'Infini sous forme de COPIE avec Yuta Okkotsu - entite future (scolarite Jujutsu High 2016-2017 [INCERTAIN sur l'annee de naissance exacte]), hors du point de depart : posee comme jalon, fiche differee. Cf. Cosmogonie.
+- Branche Fujiwara -> Okkotsu : scindee des Sugawara apres une mutation rendant l'Infini benin ; l'Infini y est ensuite PERDU. (Ironie voulue : dans l'Histoire, les Fujiwara firent chuter et exiler Michizane.) Retour tacite de l'Infini sous forme de COPIE avec Yuta Okkotsu - entite future (scolarite universite d'exorcisme 2016-2017 [INCERTAIN sur l'annee de naissance exacte]), hors du point de depart : posee comme jalon, fiche differee. Cf. Cosmogonie.
 
 ## Place de Satoru dans le clan
 - [DIVERGENCE RP] Satoru n'appartient pas a ses parents : ceux-ci s'effacent. Il appartient au clan - ou plutot, le clan lui appartient. Il n'est a personne et a tout le monde. Aucun autre Gojo nomme ne compte a cote de lui.
 - [DIVERGENCE RP] Parallele Sukuna assume : tout ce que le pouvoir peut offrir (argent, services, deference) lui est acquis sur demande et l'indiffere ; il ne veut qu'une vie pleine d'action.
-- [DIVERGENCE RP] Des son entree au lycee (peut-etre avant), son indiscipline fait regretter au clan son propre culte du leader. Ils s'y tiennent pourtant : il EST le pouvoir, et s'il est la, c'est "pour une raison" - "Le pouvoir sait se montrer quand les temps l'exigent."
+- [DIVERGENCE RP] Des son entree a l'universite (peut-etre avant), son indiscipline fait regretter au clan son propre culte du leader. Ils s'y tiennent pourtant : il EST le pouvoir, et s'il est la, c'est "pour une raison" - "Le pouvoir sait se montrer quand les temps l'exigent."
 
 ## Liens inter-clans
 - [DIVERGENCE RP] Greffe ancestrale : les Six Yeux viennent d'un clan mineur ex-Sutoku, greffe sur les Gojo par le couple architecte. Cf. Cosmogonie.

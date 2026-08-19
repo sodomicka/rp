@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Power-scaling
 
-- version : W7
+- version : W8
 
 ## Unite
 - Unite de puissance de l'univers = le doigt de Sukuna.
@@ -59,7 +59,7 @@ Le label de grade sature vite ; au-dela, c'est le nombre de doigts qui discrimin
 | 7-8 | Special | 1 |
 | 9+ | Special | Special |
 
-Note : Grade Special 1 (rang elite des grandes familles, hors Jujutsu High - le fourre-tout pour Special et Grade 1 des clans) est un palier administratif, pas une marche de puissance distincte sur cette echelle.
+Note : Grade Special 1 (rang elite des grandes familles, hors universite d'exorcisme - le fourre-tout pour Special et Grade 1 des clans) est un palier administratif, pas une marche de puissance distincte sur cette echelle.
 
 ## Reperes chiffres
 | Entite | Doigts | Puissance (%) | Note |
@@ -81,7 +81,7 @@ Note : Grade Special 1 (rang elite des grandes familles, hors Jujutsu High - le 
 | Todo (2017-2018) | 7 | 11.33 | [DIVERGENCE RP] eleve de Nisha (promo 2016-2019), Boogie Woogie ; sommet de sa generation d'eleves |
 | Naoya (2005) | 8 | 14.09 | [DIVERGENCE RP] -> courbe A2 (10/11/12), 14 adulte ; cf. Courbes A2 |
 | Hakari (2017-2018) | 8 | 14.09 | [DIVERGENCE RP] base Grade 1 ; en MODE JACKPOT, ponctuellement HORS-ECHELLE (intuable ~4 min, cf. fiche) |
-| Gakuganji | 9 | 17.44 | [DIVERGENCE RP] Grade Special 1 (hors-grading des ecoles), plus fort que Yaga |
+| Gakuganji | 9 | 17.44 | [DIVERGENCE RP] Grade Special 1 (hors-grading des universites), plus fort que Yaga |
 | Jinichi | 10 | 21.41 | [DIVERGENCE RP] pilier du Hei |
 | Gojo (2005, pre-Toji) | 12 | 31.30 | -> 14 en 2006 puis 23 a l'eveil ; cf. Courbes A2 |
 | Naobito | 12 | 31.30 | [DIVERGENCE RP] patriarche, Grade Special 1 |
@@ -90,8 +90,8 @@ Note : Grade Special 1 (rang elite des grandes familles, hors Jujutsu High - le 
 | Jogo | 13 | 37.26 | canon : prend Naobito de vitesse, one-shot a Shibuya |
 | Nisha (2005) | 13 | 37.26 | [DIVERGENCE RP] n1 mondiale ; -> courbe A2 jusqu'a 18 ; cf. Courbes A2 |
 | Naoya (adulte) | 14 | 43.94 | [DIVERGENCE RP] |
-| Yuki Tsukumo | 15 | 51.35 | [DIVERGENCE RP] Grade Special decroche au lycee puis quitte le systeme ; hors-classement officiel (de facto n3 mondiale, jamais reconnue) |
-| Yorozu (dans Tsumiki, 2008-2015) | 16 | 59.51 | [DIVERGENCE RP] sorciere Heian en objet maudit (Kenjaku) ; tuee fin 2015 par Nisha (duel spirituel en territoire interieur) |
+| Yuki Tsukumo | 15 | 51.35 | [DIVERGENCE RP] Grade Special decroche a l'universite puis quitte le systeme ; hors-classement officiel (de facto n3 mondiale, jamais reconnue) |
+| Yorozu (dans Tsumiki, 2008-2015) | 16 | 59.51 | [DIVERGENCE RP] exorciste Heian en objet maudit (Kenjaku) ; tuee fin 2015 par Nisha (duel spirituel en territoire interieur) |
 | Toji | 17 | 68.44 | canon, hors-clan invisible, hors classement (non reconnu exorciste) |
 | Geto (gourou, 2015) | 17-18 | 68-78 | vrai Geto vivant |
 | Nisha (adulte) | 18 | 78.15 | [DIVERGENCE RP] apogee atteinte des 2008 |
@@ -109,7 +109,7 @@ Les prodiges montent en continu sur l'arc A2 (pas un saut, sauf l'eveil de Gojo)
 | Geto | 12 (31.30) | 14 (43.94) | 15 (51.35), defection | - (parti) |
 | Naoya | 8 (14.09) | 10 (21.41) | 11 (26.02) | 12 (31.30) |
 - Apogees adultes (post-A2) : Nisha 18 (atteinte des 2008), Naoya 14, Gojo 23 (plafond). Geto culmine ensuite ~17-18 en gourou (2015).
-- Yuki Tsukumo : ~15 des le lycee, stable (hors-systeme).
+- Yuki Tsukumo : ~15 des l'universite, stable (hors-systeme).
 
 ## Synergie et symbiose (combinaison de duos)
 Deux combattants de concert ne s'additionnent pas betement : leur puissance combinee suit une loi qui amplifie la somme selon deux leviers de RELATION.

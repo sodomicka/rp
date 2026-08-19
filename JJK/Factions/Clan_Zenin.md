@@ -1,6 +1,6 @@
 # Clan Zenin
 
-- version : W4
+- version : W6
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 (morts, massacre du clan) -> roadmap, hors de cette page neutre.
 
@@ -19,13 +19,13 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 - Trois fils :
   - [Aine], 1942 - seppuku 1977. Epouse : une Gojo (lignee pure, statut d'epouse). S'ouvre le ventre de honte a la naissance d'un fils vide d'energie (Toji).
     - Jinichi, 1975. Reste au clan, pilier du Hei.
-    - Toji, 1977. Restriction Celeste (croisement Zenin/temps x Gojo/espace). Quitte le clan, devient l'assassin de sorciers, prend le nom Fushiguro.
+    - Toji, 1977. Restriction Celeste (croisement Zenin/temps x Gojo/espace). Quitte le clan, devient le Tueur d'Exorcistes, prend le nom Fushiguro.
   - Naobito, 1947. PATRIARCHE en titre. Tient le siege par la force : aine defunt, et plus puissant que le cadet Ogi. (71 ans en 2018, canon -> ne 1947.)
-    - Trois fils, 1985 / 1986 / 1988 : mediocres, cases au Hei par nepotisme. Meres : uterus.
-    - Jumeaux, 1990 : Nisha (+3 minutes) et Naoya. Mere : uterus.
+    - Trois fils, 1982 / 1983 / 1985 : mediocres, cases au Hei par nepotisme. Meres : uterus.
+    - Jumeaux, 1987 : Nisha (+3 minutes) et Naoya. Mere : uterus.
   - Ogi, 1949. Cadet. Pilier du Hei, epeiste. Aigri de ne jamais pretendre au siege (trop faible), reporte sa rancoeur sur ses filles.
-    - Jumelles, 2002 : Maki (+ quelques minutes) et Mai. Mere : epouse.
-- Note de generation : Jinichi (1975) et Toji (1977) sont les NEVEUX de Naobito et Ogi, non leurs freres. Naoya/Nisha (1990) et Maki/Mai (2002) en sont les cousins, plus jeunes d'une a deux generations effectives.
+    - Jumelles, 1999 : Maki (+ quelques minutes) et Mai. Mere : epouse.
+- Note de generation : Jinichi (1975) et Toji (1977) sont les NEVEUX de Naobito et Ogi, non leurs freres. Naoya/Nisha (1987) et Maki/Mai (1999) en sont les cousins, plus jeunes d'une a deux generations effectives.
 - Contraste d'honneur [DIVERGENCE RP] : l'aine se donne la mort par honte d'un enfant vide (Toji) ; Ogi, face a sa propre fille "taree" (Maki), la jette par calcul, sans le moindre code. Deux rapports opposes a l'honneur du sang.
 
 ## Gouvernance - le conseil
@@ -41,7 +41,7 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 - Uterus : profanes pures, prises uniquement pour porter un enfant sans corrompre la lignee (le sang ne vient que du pere). Choyees comme un tresor durant la grossesse, renvoyees a la vie civile apres l'accouchement. Jamais inscrites aux registres, jamais nommees. Ex. la mere des jumeaux Nisha/Naoya et les meres des trois fils de Naobito.
 
 ## Unites de combat (hierarchie)
-- Hei : unite d'elite. Sorciers a sort inne puissant, ranges Semi-Grade 1 et au-dessus. Membres connus : Jinichi, Ogi, Chojuro, Ranta, Naoya (entre en 2000), et les trois fils de Naobito (par nepotisme - anomalie que Nisha et Naoya meprisent). [DIVERGENCE RP] Le Hei refuse d'affronter les jumeaux (Nisha freelance + Naoya, 2 contre 1) pour ne pas se faire humilier par deux gamins.
+- Hei : unite d'elite. Exorcistes a sort inne puissant, ranges Semi-Grade 1 et au-dessus. Membres connus : Jinichi, Ogi, Chojuro, Ranta, Naoya (entre en 2000), et les trois fils de Naobito (par nepotisme - anomalie que Nisha et Naoya meprisent). [DIVERGENCE RP] Le Hei refuse d'affronter les jumeaux (Nisha freelance + Naoya, 2 contre 1) pour ne pas se faire humilier par deux gamins.
 - Akashi : membres dotes d'un sort inne mais classes Grade 2 ou en-dessous (sous le seuil du Hei). ~dix membres. Ex. Mai.
 - Kukuru : membres SANS sort inne (police interne du clan). Capitaine : Nobuaki Zenin.
 

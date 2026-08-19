@@ -1,6 +1,6 @@
 # Clan Kamo
 
-- version : W1
+- version : W2
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 -> roadmap, hors de cette page neutre.
 
@@ -22,10 +22,10 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 - [DIVERGENCE RP] Precedent (Meiji) : sous l'identite de Noritoshi Kamo, Kenjaku, juge indigne, fut contraint au seppuku dans ses appartements, seul, sur decision des emissaires. Kenjaku changea alors de corps et eventra son ancienne enveloppe. (Coherent avec la fiche Kenjaku, qui laissait la fin de ce corps non precisee.) Cf. Personnages/Kenjaku.md.
 
 ## Noritoshi Kamo (heritier, ne 2000)
-- Canon : Noritoshi Kamo, ne en 2000 ; porte la version pure de la manip du sang.
+- Canon : Noritoshi Kamo ; porte la version pure de la manip du sang.
 - [DIVERGENCE RP] Le cul entre deux chaises : sort originel, pur, parfait - mais ne d'une mere qui n'etait pas l'epouse du chef. Illegitime, batard.
-- [DIVERGENCE RP] Affront grave dans le nommage : on l'a appele comme le PIRE sorcier de l'histoire (le Noritoshi Kamo de l'ere Meiji, corps de Kenjaku). Le credo de purete le sacre par son sort et le damne par sa naissance.
-- En 2005 : enfant de 5 ans. Entite active future -> fiche differee (cf. roadmap).
+- [DIVERGENCE RP] Affront grave dans le nommage : on l'a appele comme le PIRE exorciste de l'histoire (le Noritoshi Kamo de l'ere Meiji, corps de Kenjaku). Le credo de purete le sacre par son sort et le damne par sa naissance.
+- En 2005 : encore un enfant. Entite active future -> fiche differee (cf. roadmap).
 
 ## Branches, greffes et lignees essaimees
 [DIVERGENCE RP] sauf ancrages canon signales.
@@ -36,12 +36,12 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 
 ## Restriction Celeste dans le clan
 - [DIVERGENCE RP] Cause = croisement de deux dons de clans incompatibles (cf. Cosmogonie). Le TYPE suit le don primordial DOMINANT du croisement : don dominant liens/sang (Sutoku/Kamo) -> type INVERSE (corps sacrifie, reservoir massif et specialise d'energie occulte, intensite + portee) ; don dominant temps (Masakado/Zenin) -> type PHYSIQUE (corps surhumain, energie a zero).
-- [DIVERGENCE RP] Mechamaru (Kokichi Muta) : type INVERSE. Fils de deux exorcistes de branches tertiaires, aucun des deux conscient d'un rattachement de clan, lui non plus. Pere Muta (branche tertiaire Kamo, sang) x mere Zenin qui s'ignorait Zenin (temps). Le don sang domine -> oriente l'energie occulte (intensite + portee), d'ou le type inverse - l'oppose exact de Toji/Maki (temps dominant -> physique). Sans parent profane : les deux parents sont sorciers. (Implication parquee refermee.) En 2005 : enfant ; fiche differee.
+- [DIVERGENCE RP] Mechamaru (Kokichi Muta) : type INVERSE. Fils de deux exorcistes de branches tertiaires, aucun des deux conscient d'un rattachement de clan, lui non plus. Pere Muta (branche tertiaire Kamo, sang) x mere Zenin qui s'ignorait Zenin (temps). Le don sang domine -> oriente l'energie occulte (intensite + portee), d'ou le type inverse - l'oppose exact de Toji/Maki (temps dominant -> physique). Sans parent profane : les deux parents sont exorcistes. (Implication parquee refermee.) En 2005 : enfant ; fiche differee.
 - Regle complete et transversale (les trois orientations selon le don dominant, plus le cas d'egalite) : cf. Cosmogonie/Trois_Esprits.md.
 
 ## Place dans le focus
 - Une des deux autres grandes familles face au clan de la protagoniste (Zenin). Territoire : Kyoto, partage avec les Zenin (Tokyo etant surtout Gojo).
-- Casting Kamo majoritairement hors-jeu en 2005 (Noritoshi 5 ans, Mechamaru et Yuji enfants, Choso dormant, Kenjaku ailleurs / plot) : fiches perso differees, rappelees par roadmap.
+- Casting Kamo majoritairement hors-jeu en 2005 (Noritoshi, Mechamaru et Yuji enfants, Choso dormant, Kenjaku ailleurs / plot) : fiches perso differees, rappelees par roadmap.
 
 ## Pointeurs
 - Fondation, manip du sang, Six Yeux essaimes, Peintures Mortes, branche Itadori, Restriction Celeste : cf. Cosmogonie/Trois_Esprits.md.
