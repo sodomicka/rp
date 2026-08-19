@@ -1,12 +1,12 @@
 # Kirara Hoshi
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee a Tokyo. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
 ## Identite
-- Nom : Kirara Hoshi. Canon. Eleve de l'ecole de Tokyo.
-- Promo 2016-2019 : 2e annee en 2017-2018 (sous Kusakabe). Petit(e) ami(e) de Hakari ; s'eloigne de l'ecole avec lui apres sa suspension.
+- Nom : Kirara Hoshi. Canon. Eleve de l'universite de Tokyo.
+- Promo 2016-2019 : 2e annee en 2017-2018 (sous Kusakabe). Petit(e) ami(e) de Hakari ; s'eloigne de l'universite avec lui apres sa suspension.
 - [canon] Non-binaire : ne se soucie pas des categories de genre.
 
 ## Physique
@@ -36,21 +36,21 @@ Fiches propres : cf. Personnages/Hakari.md, Nisha.md. Ici, seul le rapport a Kir
 ## Chronologie noyau
 | Date/Ere | Jalon |
 |---|---|
-| 2016 | Entre a l'ecole de Tokyo (promo 2016-2019). |
+| 2016 | Entre a l'universite de Tokyo (promo 2016-2019). |
 
 ## Trajectoire datee - ere B (entree B3 ; alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | avr 2017 (B3_3) | 2e annee a Tokyo (sous Kusakabe), avec Hakari. | entree en scene |
 | 24 dec 2017 (B3_4) | Nuit des Cent Fleaux (cote Tokyo, hors-POV de Nisha) : role. Detail -> Roadmap_B3. | (hors-POV) |
-| debut 2018 (B3_5) | Hakari suspendu dans la foulee de la Parade ; Kirara s'eloigne de l'ecole avec lui (Gachinko Fight Club). | quitte le cadre scolaire |
+| debut 2018 (B3_5) | Hakari suspendu dans la foulee de la Parade ; Kirara s'eloigne de l'universite avec lui (Gachinko Fight Club). | quitte le cadre universitaire |
 
 ## Notes de frontiere
 - Devenir post-B3 (ere C) -> roadmaps ere C, non ecrites.
 
 ## Pointeurs
-- Petit(e) ami(e) : cf. Personnages/Hakari.md. Referent 2e annee : Kusakabe (pas de fiche ; cf. Factions/Ecole_Tokyo.md).
-- Ecole et promo : cf. Factions/Ecole_Tokyo.md. Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
+- Petit(e) ami(e) : cf. Personnages/Hakari.md. Referent 2e annee : Kusakabe (pas de fiche ; cf. Factions/Universite_Tokyo.md).
+- Universite et promo : cf. Factions/Universite_Tokyo.md. Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
 
 ---
 

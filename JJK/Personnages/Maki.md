@@ -1,16 +1,16 @@
 # Maki Zenin
 
-- version : W7
+- version : W8
 
 Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir). Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (detail -> roadmap).
 
 ## Identite
-- Nom : Maki Zenin. Canon. Fille ainee (de quelques minutes) d'Ogi ; jumelle de Mai. Nee en 2002 (mere : epouse). Niece de Naobito ; cousine des jumeaux Naoya/Nisha.
-- Interne du clan (femme nee au domaine). Au point de depart (2005), elle a 3 ans : une enfant, la deception d'Ogi (cf. fiche Ogi).
+- Nom : Maki Zenin. Canon. Fille ainee (de quelques minutes) d'Ogi ; jumelle de Mai. Nee en 1999 (mere : epouse). Niece de Naobito ; cousine des jumeaux Naoya/Nisha.
+- Interne du clan (femme nee au domaine). Au point de depart (2005), elle a 6 ans : une enfant, la deception d'Ogi (cf. fiche Ogi).
 - [DIVERGENCE RP] dates et parente : cf. Factions/Clan_Zenin.md.
 
 ## Physique
-- Enfant en 2005 (3 ans), 4 a 6 ans sur A2. Description adulte non pertinente au noyau (-> arcs ulterieurs).
+- Enfant en 2005 (6 ans), 7 a 9 ans sur A2. Description adulte non pertinente au noyau (-> arcs ulterieurs).
 
 ## Nature : Restriction Celeste (type physique)
 - (canon + cosmogonie) Nee avec une Restriction Celeste de type physique : corps voue a une force surhumaine, energie occulte quasi nulle, pas de sort inne. Cause [DIVERGENCE RP] : croisement de deux dons de clans incompatibles (cf. Cosmogonie/Trois_Esprits.md).
@@ -30,14 +30,14 @@ Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| printemps 2006 (A2_1bis) | Harcelee a 4 ans, avec Mai, par les cousins Naoya et Nisha lors d'un week-end au domaine : parlees a la 3e personne en leur presence, abreuvees de l'ordinaire atroce du clan (deception, "ratees", "Ogi aurait du se faire seppuku"), puis criblees de graviers tires en sub-sonique dans les mollets pour les bleuir (vitesse volontairement bridee - on s'amuse sans abimer l'investissement du clan) | sommet du mepris subi, juste avant le retournement |
-| 2006 (A2_6) | Le pivot des jumeaux. Naoya et Nisha, qui les harcelaient comme "faibles", arretent leur doctrine secrete "proteger les faibles, servir les forts" et se posent en SEUL refuge des jumelles : fin du harcelement, traitees en futures prodiges. Cultivation INTERESSEE et longtermiste (elles ont 4 ans) | de cible de mepris a pupille cultivee |
+| printemps 2006 (A2_1bis) | Harcelee a 7 ans, avec Mai, par les cousins Naoya et Nisha lors d'un week-end au domaine : parlees a la 3e personne en leur presence, abreuvees de l'ordinaire atroce du clan (deception, "ratees", "Ogi aurait du se faire seppuku"), puis criblees de graviers tires en sub-sonique dans les mollets pour les bleuir (vitesse volontairement bridee - on s'amuse sans abimer l'investissement du clan) | sommet du mepris subi, juste avant le retournement |
+| 2006 (A2_6) | Le pivot des jumeaux. Naoya et Nisha, qui les harcelaient comme "faibles", arretent leur doctrine secrete "proteger les faibles, servir les forts" et se posent en SEUL refuge des jumelles : fin du harcelement, traitees en futures prodiges. Cultivation INTERESSEE et longtermiste (elles ont 7 ans) | de cible de mepris a pupille cultivee |
 | 2007 -> debut 2008 (A2_10) | Sur les week-ends au domaine, Nisha s'attache aux jumelles (graine de son instinct de protection/education -> ere B) ; entrainement reel amorce a mesure qu'elles grandissent | cultivation effective engagee |
 | 2008 (B1) | Etat de depart ere B : curseur 50/50, exploite 6 (bridee), toujours plafonnee Grade 4 par le clan. Se bat deja "de la bonne maniere" (sa seule limite = l'EO residuelle de 40 a 50 %) | reference de depart B1 |
 | 2011 (B1, pivot jumelles) | Le partage glisse a 40/60 en faveur de Mai : Maki s'allege (EO 50 % -> 40 %), sa Restriction physique se libere d'autant -> exploite 6 -> 8. Les jumeaux passent de l'interet au respect, s'attachent. Declencheur du glissement -> roadmap | s'allege ; 6 -> 8 |
 | 2014 (B2) | Quitte le foyer clanique pour vivre a Saitama chez le couple Nisha/Satoru : elle n'en peut plus du clan (mepris, cap Grade 4, statut d'interne ratee), ni Mai ni Naoya ne la retiennent. [DIVERGENCE RP] Part en MEILLEURS termes que dans le canon - un refuge offert par la famille qui la cultive depuis A2, pas une rupture violente. Reste administrativement Zenin (cap Grade 4) jusqu'a l'ere C. Separee de Mai au quotidien (curseur 40/60 inchange : separation relationnelle, pas mecanique) | vit a Saitama (4e "gosse" du foyer) ; jumelles separees au quotidien |
-| avr 2017 (B3) | Entre a l'ecole de TOKYO : 1re annee sous Satoru (promo 2017-2020, avec Yuta, Toge et Panda). Vit deja a Saitama : l'ecole prolonge le refuge. Toujours plafonnee Grade 4 par le clan | eleve de Satoru ; cadre complet hors-clan |
-| 24 dec 2017 (B3_4) | Nuit des Cent Fleaux, cote Tokyo (hors-POV de Nisha) : defend l'ecole aux cotes de Toge et Panda (canon JJK0) | premiere vraie guerre |
+| avr 2017 (B3) | Entre a l'universite de TOKYO : 1re annee sous Satoru (promo 2017-2020, avec Yuta, Toge et Panda). Vit deja a Saitama : l'universite prolonge le refuge. Toujours plafonnee Grade 4 par le clan | eleve de Satoru ; cadre complet hors-clan |
+| 24 dec 2017 (B3_4) | Nuit des Cent Fleaux, cote Tokyo (hors-POV de Nisha) : defend l'universite aux cotes de Toge et Panda (canon JJK0) | premiere vraie guerre |
 
 ## Notes de frontiere (hors noyau)
 - Cap Grade 4 deja pose ; entree a Tokyo integree en Trajectoire datee ; bascules du partage gemellaire au-dela de B3 -> roadmap / arcs ulterieurs. Devenir canon d'ere C (massacre du clan par Maki) : [CANON SUPPOSE], jamais re-valide contre les divergences du RP (depart en bons termes 2014, protectorat) - a trancher au build ere C (cf. _Implications, Graines ere C).

@@ -1,23 +1,23 @@
 # Masamichi Yaga
 
-- version : W3
+- version : W4
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
 ## Identite
-- Nom : Masamichi Yaga. Canon. Professeur a l'ecole de Tokyo.
+- Nom : Masamichi Yaga. Canon. Professeur a l'universite de Tokyo.
 - Naissance : non donnee precisement par le canon [INCERTAIN]. Adulte etabli en 2005.
-- Statut 2005 : professeur (pas encore principal). Suit la promo des quatre prodiges (Gojo, Geto, Shoko, Nisha) sur 2005-2008. Devient principal en 2009+ (cf. Factions/Ecole_Tokyo.md).
+- Statut 2005 : professeur (pas encore principal). Suit la promo des quatre prodiges (Gojo, Geto, Shoko, Nisha) sur 2005-2008. Devient principal en 2009+ (cf. Factions/Universite_Tokyo.md).
 - Grade : Grade 1.
 
 ## Physique
 - Canon : stature imposante, baraque. Crane rase, bouc. Lunettes de soleil noires qu'il ne quitte jamais. Allure austere.
 
 ## Sorts
-Un sorcier = un sort inne en regle generale (canon).
+Un exorciste = un sort inne en regle generale (canon).
 
 ### Manipulation de cadavres maudits (Cursed Corpses) - sort inne
-- Canon : insuffle de l'energie occulte dans des pantins / cadavres pour creer des Cursed Corpses animes qu'il commande. Sert notamment a fabriquer les pantins d'entrainement de l'ecole.
+- Canon : insuffle de l'energie occulte dans des pantins / cadavres pour creer des Cursed Corpses animes qu'il commande. Sert notamment a fabriquer les pantins d'entrainement de l'universite.
 - Sommet de l'art : doter une creation d'une AME / conscience autonome. C'est ce savoir-faire - et non sa puissance - qui le porte au seuil du Grade Special (cf. Notes de frontiere : Panda).
 
 ## Etat au point de depart (2005)
@@ -42,24 +42,24 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 ## Chronologie noyau (jusqu'au point de depart, 2005)
 | Date | Jalon |
 |---|---|
-| pre-2005 | Histoire canon-pure (le canon en dit peu). Devient professeur a l'ecole de Tokyo. |
+| pre-2005 | Histoire canon-pure (le canon en dit peu). Devient professeur a l'universite de Tokyo. |
 | 2005 | Professeur de la promo des quatre prodiges. Grade 1, 7 doigts. Friction initiale avec Nisha. Point de depart du RP. |
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 1 avr 2005 | Rentree de Nisha a Tokyo : recadre sa premiere vanne misogyne (ciblee sur Shoko) et pose sa limite (agir en Kyotoite = retour a Kyoto) ; expose l'unicite de Shoko | friction initiale posee avec Nisha |
-| 2009 | Devient principal de l'ecole de Tokyo (cf. Factions/Ecole_Tokyo.md) | passe prof -> principal |
+| 2009 | Devient principal de l'universite de Tokyo (cf. Factions/Universite_Tokyo.md) | passe prof -> principal |
 | 2011 (B1) | Naissance de PANDA, son Magnum Opus. Yaga a deja trouve et harmonise les trois ames compatibles et saurait les amalgamer seul ; il appelle Nisha (sa prodige du temps) pour le LUXE du temps. Dans la Sphere du Temps Infini de Nisha, ils passent des heures subjectives (1/24e de seconde reel) : elle fige les noyaux a la Chronostase pour qu'il manie les ames avec finesse et sans la moindre precipitation. Panda nait stable. -> respect mutuel avec Nisha mue en confiance profonde (co-parentalite) ; graine T-Ames (cf. ci-dessous) | cree son chef-d'oeuvre ; lien Nisha approfondi |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Panda (creation dotee d'une ame autonome, aboutissement de son art) : NE en 2011 avec l'aide de Nisha (cf. Trajectoire datee et fiche Panda). [DIVERGENCE RP] le canon ne date pas sa creation ; ici datee 2011. Camarade de promo 2017-2020.
 - GRAINE T-Ames : le savoir de creer un etre dote d'une ame autonome est desormais PARTAGE avec Nisha (elle a co-officie a la naissance de Panda). Dans le canon, c'est ce secret qui condamne Yaga (hautes instances -> execution par Gakuganji apres Shibuya). [DIVERGENCE RP] Nisha herite du meme savoir dangereux. Detonation -> ere C. A NE PAS detoner en B.
-- Accession au poste de principal (2009) : pose en Trajectoire datee ; cf. Factions/Ecole_Tokyo.md.
+- Accession au poste de principal (2009) : pose en Trajectoire datee ; cf. Factions/Universite_Tokyo.md.
 - Respect mutuel avec Nisha et son evolution (du froid initial a la co-parentalite de Panda) -> roadmap.
 
 ## Pointeurs
-- Corps enseignant et promos : cf. Factions/Ecole_Tokyo.md.
+- Corps enseignant et promos : cf. Factions/Universite_Tokyo.md.
 - Eleves suivis : cf. Personnages/Satoru.md, Personnages/Nisha.md, Personnages/Geto.md, Personnages/Shoko.md.
 - Creation : cf. Personnages/Panda.md.
 - Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.

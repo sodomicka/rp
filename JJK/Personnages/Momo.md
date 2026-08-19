@@ -1,12 +1,12 @@
 # Momo Nishimiya
 
-- version : W1
+- version : W2
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
 ## Identite
-- Nom : Momo Nishimiya. Canon. Eleve de l'ecole de Kyoto.
-- Promo 2016-2019 : 2e annee en 2017-2018 (sous Nisha). cf. Ecole_Kyoto.
+- Nom : Momo Nishimiya. Canon. Eleve de l'universite de Kyoto.
+- Promo 2016-2019 : 2e annee en 2017-2018 (sous Nisha). cf. Universite_Kyoto.
 - Soutien aerien (reconnaissance + appui), Grade 2.
 
 ## Physique
@@ -18,14 +18,14 @@ Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e
 
 ## Psychologie
 - Pragmatique, lucide, langue aceree.
-- [trait canon] Critique frontale du sexisme du monde du jujutsu : elle denonce ouvertement le traitement injuste reserve aux femmes sorcieres. Loyale envers les siens.
+- [trait canon] Critique frontale du sexisme du monde de l'exorcisme : elle denonce ouvertement le traitement injuste reserve aux femmes exorcistes. Loyale envers les siens.
 
 ## Relations
 Fiches propres : cf. Personnages/Nisha.md. Ici, seul le rapport a Momo.
 
 ### Nisha Zenin - professeure (friction -> vocation)
 - [DIVERGENCE RP] Prof de sa 2e annee a Kyoto (2017-2018). DEBUT en friction : Momo, qui fustige le sexisme du milieu, se heurte a une Zenin qui a transcende le patriarcat de son clan par la force, sans jamais le contester de front.
-- Bascule : quand Nisha pose que les faibles doivent servir les forts, Momo ne s'y soumet pas - elle se l'APPROPRIE. Loin d'etre une servante, elle devient l'oeil indispensable du ciel : c'est sa surveillance aerienne qui rendra Mei Mei, Todo et Noritoshi efficaces a la Nuit des Cent Demons. Fierte de fonction, pas resignation.
+- Bascule : quand Nisha pose que les faibles doivent servir les forts, Momo ne s'y soumet pas - elle se l'APPROPRIE. Loin d'etre une servante, elle devient l'oeil indispensable du ciel : c'est sa surveillance aerienne qui rendra Mei Mei, Todo et Noritoshi efficaces a la Nuit des Cent Fleaux. Fierte de fonction, pas resignation.
 
 ### Trio Kyoto (Todo, Noritoshi)
 - Camarades de 2e annee. Momo, l'appui aerien des deux cogneurs.
@@ -36,21 +36,21 @@ Fiches propres : cf. Personnages/Nisha.md. Ici, seul le rapport a Momo.
 ## Chronologie noyau
 | Date/Ere | Jalon |
 |---|---|
-| 2016 | Entre a l'ecole de Kyoto (promo 2016-2019). |
+| 2016 | Entre a l'universite de Kyoto (promo 2016-2019). |
 
 ## Trajectoire datee - ere B (entree B3 ; alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | avr 2017 (B3_3) | Passe en 2e annee, eleve de Nisha. Friction initiale, puis appropriation de son role de soutien. | de la friction a la vocation tactique |
-| dec 2017 (B3_4) | Nuit des Cent Demons : oeil aerien decisif appuyant Mei Mei, Todo et Noritoshi. | preuve par les faits de sa valeur |
+| dec 2017 (B3_4) | Nuit des Cent Fleaux : oeil aerien decisif appuyant Mei Mei, Todo et Noritoshi. | preuve par les faits de sa valeur |
 | avr 2018 (B3_5) | Passe en 3e annee (sous Mei Mei). | -> seuil ere C |
 
 ## Notes de frontiere
-- Devenir post-B3 (3e annee, Goodwill, ere C) -> roadmaps ere C. Non enonce ici.
+- Devenir post-B3 (3e annee, Amicale, ere C) -> roadmaps ere C. Non enonce ici.
 
 ## Pointeurs
 - Professeure : cf. Personnages/Nisha.md. Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
-- Ecole et promo : cf. Factions/Ecole_Kyoto.md.
+- Universite et promo : cf. Factions/Universite_Kyoto.md.
 
 ---
 

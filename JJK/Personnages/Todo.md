@@ -1,13 +1,13 @@
 # Aoi Todo
 
-- version : W1
+- version : W2
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
 ## Identite
-- Nom : Aoi Todo. Canon. Eleve de l'ecole de Kyoto.
-- Promo 2016-2019 : 2e annee en 2017-2018 (sous Nisha), ~16-17 ans. cf. Ecole_Kyoto.
-- Grade 1. L'un des eleves les plus puissants des deux ecoles.
+- Nom : Aoi Todo. Canon. Eleve de l'universite de Kyoto.
+- Promo 2016-2019 : 2e annee en 2017-2018 (sous Nisha). cf. Universite_Kyoto.
+- Grade 1. L'un des eleves les plus puissants des deux universites.
 
 ## Physique
 - Canon : tres grand, carrure massive et hyper-musclee, peau mate, cheveux noirs ramenes en arriere. Presence imposante, regard intense. Le plus souvent en tenue d'entrainement.
@@ -35,27 +35,27 @@ Fiches propres : cf. Personnages/Yuki.md, Nisha.md. Ici, seul le rapport a Todo.
 - Camarades de 2e annee. Todo, le cogneur du groupe.
 
 ## Grade et scaling
-- [DIVERGENCE RP] 7 doigts (11.33 %), Grade 1. Zone Naoya-lycee / Ogi / Yaga. A integrer a la table de Power_Scaling (dette).
+- [DIVERGENCE RP] 7 doigts (11.33 %), Grade 1. Zone Naoya-universite / Ogi / Yaga. A integrer a la table de Power_Scaling (dette).
 
 ## Chronologie noyau
 | Date/Ere | Jalon |
 |---|---|
 | enfance | [DIVERGENCE RP] Marque et forme par Yuki Tsukumo ; herite de son tic et de sa philosophie de la force. |
-| 2016 | Entre a l'ecole de Kyoto (promo 2016-2019). |
+| 2016 | Entre a l'universite de Kyoto (promo 2016-2019). |
 
 ## Trajectoire datee - ere B (entree B3 ; alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | avr 2017 (B3_3) | Passe en 2e annee, eleve de Nisha. Beat du "type" -> adopte Nisha en 2e modele. | trouve sa 2e idole |
-| dec 2017 (B3_4) | Nuit des Cent Demons : les 2e annees confies a Mei Mei ; Todo combat en cogneur, appuye par l'oeil aerien de Momo. | premier grand fait d'armes |
+| dec 2017 (B3_4) | Nuit des Cent Fleaux : les 2e annees confies a Mei Mei ; Todo combat en cogneur, appuye par l'oeil aerien de Momo. | premier grand fait d'armes |
 | avr 2018 (B3_5) | Passe en 3e annee (sous Mei Mei). | -> seuil ere C |
 
 ## Notes de frontiere
-- Devenir post-B3 (3e annee, Goodwill, ere C) -> roadmaps ere C (non encore ecrites). Le contenu n'est pas enonce ici.
+- Devenir post-B3 (3e annee, Amicale, ere C) -> roadmaps ere C (non encore ecrites). Le contenu n'est pas enonce ici.
 
 ## Pointeurs
 - Mentor : cf. Personnages/Yuki.md. Professeure : cf. Personnages/Nisha.md. Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
-- Ecole et promo : cf. Factions/Ecole_Kyoto.md.
+- Universite et promo : cf. Factions/Universite_Kyoto.md.
 
 ---
 

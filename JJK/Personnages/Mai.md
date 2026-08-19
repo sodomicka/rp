@@ -1,16 +1,16 @@
 # Mai Zenin
 
-- version : W7
+- version : W8
 
 Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir). Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (detail -> roadmap).
 
 ## Identite
-- Nom : Mai Zenin. Canon. Fille cadette (de quelques minutes) d'Ogi ; jumelle de Maki. Nee en 2002 (mere : epouse). Niece de Naobito ; cousine des jumeaux Naoya/Nisha.
-- Interne du clan ; membre (a maturite) de l'unite Akashi. Au point de depart (2005), elle a 3 ans : une enfant, la deception d'Ogi avec sa soeur (cf. fiche Ogi).
+- Nom : Mai Zenin. Canon. Fille cadette (de quelques minutes) d'Ogi ; jumelle de Maki. Nee en 1999 (mere : epouse). Niece de Naobito ; cousine des jumeaux Naoya/Nisha.
+- Interne du clan ; membre (a maturite) de l'unite Akashi. Au point de depart (2005), elle a 6 ans : une enfant, la deception d'Ogi avec sa soeur (cf. fiche Ogi).
 - [DIVERGENCE RP] dates et parente : cf. Factions/Clan_Zenin.md.
 
 ## Physique
-- Enfant en 2005 (3 ans), 4 a 6 ans sur A2. Description adulte non pertinente au noyau (-> arcs ulterieurs).
+- Enfant en 2005 (6 ans), 7 a 9 ans sur A2. Description adulte non pertinente au noyau (-> arcs ulterieurs).
 
 ## Sort : Construction (Kouchiku)
 - (canon) Sort inne : cree des objets a partir d'energie occulte. Tres couteux -> usage limite en pratique (typiquement de quoi recharger une arme).
@@ -29,15 +29,15 @@ Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| printemps 2006 (A2_1bis) | Harcelee a 4 ans, avec Maki, par les cousins Naoya et Nisha lors d'un week-end au domaine : parlees a la 3e personne en leur presence, abreuvees de l'ordinaire atroce du clan (deception, "ratees", "Ogi aurait du se faire seppuku"), puis criblees de graviers tires en sub-sonique dans les mollets pour les bleuir (vitesse volontairement bridee - on s'amuse sans abimer l'investissement du clan) | sommet du mepris subi, juste avant le retournement |
-| 2006 (A2_6) | Le pivot des jumeaux. Naoya et Nisha, qui les harcelaient comme "faibles", arretent leur doctrine secrete "proteger les faibles, servir les forts" et se posent en SEUL refuge des jumelles : fin du harcelement, traitees en futures prodiges. Cultivation INTERESSEE et longtermiste (elles ont 4 ans) | de cible de mepris a pupille cultivee |
+| printemps 2006 (A2_1bis) | Harcelee a 7 ans, avec Maki, par les cousins Naoya et Nisha lors d'un week-end au domaine : parlees a la 3e personne en leur presence, abreuvees de l'ordinaire atroce du clan (deception, "ratees", "Ogi aurait du se faire seppuku"), puis criblees de graviers tires en sub-sonique dans les mollets pour les bleuir (vitesse volontairement bridee - on s'amuse sans abimer l'investissement du clan) | sommet du mepris subi, juste avant le retournement |
+| 2006 (A2_6) | Le pivot des jumeaux. Naoya et Nisha, qui les harcelaient comme "faibles", arretent leur doctrine secrete "proteger les faibles, servir les forts" et se posent en SEUL refuge des jumelles : fin du harcelement, traitees en futures prodiges. Cultivation INTERESSEE et longtermiste (elles ont 7 ans) | de cible de mepris a pupille cultivee |
 | 2007 -> debut 2008 (A2_10) | Sur les week-ends au domaine, Nisha s'attache aux jumelles (graine de son instinct de protection/education -> ere B) ; entrainement reel amorce a mesure qu'elles grandissent | cultivation effective engagee |
 | 2008 (B1) | Etat de depart ere B : curseur 50/50, plafond 1 / exploite 1 (Semi-Grade 2). Utilise encore mal son sort de Construction | reference de depart B1 |
 | 2011 (B1, pivot jumelles) | Le partage glisse a 40/60 en sa faveur (EO 50 % -> 60 %) : son plafond monte a 8, mais elle construit toujours mal -> exploite seulement 3. Les jumeaux passent de l'interet au respect, s'attachent. Declencheur du glissement -> roadmap | capte plus d'EO ; plafond 8 / exploite 3 |
 | 2014 (B2) | Maki quitte le clan pour Saitama : debut de la periode "Mai seule" - Mai reste interne au clan, sans sa jumelle au quotidien. Curseur 40/60 inchange (separation relationnelle, pas mecanique : le partage ne depend pas de la proximite) | seule au clan au quotidien ; curseur et puissances stables |
 | 2015 (B3) | LECON DE NISHA : ayant VU Yorozu manier sa Construction, Nisha la conseille - sa maitrise rattrape enfin son plafond (exploite 3 -> 8), elle atteint le niveau de Maki. Curseur 40/60 inchange | exploite 8 ; l'egale de sa jumelle |
-| avr 2017 (B3) | Entre a l'ecole de KYOTO : 1re annee sous Utahime (promo 2017-2020, avec Kasumi Miwa et Kokichi Muta/Mechamaru) | scolarisee ; premier cadre hors du seul clan |
-| 24 dec 2017 (B3_4) | Nuit des Cent Fleaux : consignee au lycee avec les 1res annees, sous la garde d'Utahime, pendant que le clan et Nisha equarrissent la vieille ville | protegee ; aucun mort du lycee |
+| avr 2017 (B3) | Entre a l'universite de KYOTO : 1re annee sous Utahime (promo 2017-2020, avec Kasumi Miwa et Kokichi Muta/Mechamaru) | inscrite ; premier cadre hors du seul clan |
+| 24 dec 2017 (B3_4) | Nuit des Cent Fleaux : consignee a l'universite avec les 1res annees, sous la garde d'Utahime, pendant que le clan et Nisha equarrissent la vieille ville | protegee ; aucun mort de l'universite |
 | avr 2018 (B3) | 2e annee sous NISHA (avec Miwa et Mechamaru) : eleve de la cousine qui la cultive depuis A2 | eleve de Nisha |
 
 ## Notes de frontiere (hors noyau)

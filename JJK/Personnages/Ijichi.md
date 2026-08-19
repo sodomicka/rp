@@ -1,10 +1,10 @@
 # Kiyotaka Ijichi
 
-- version : W1
+- version : W2
 
 ## Identite
-- Kiyotaka Ijichi, 1re annee a l'ecole de Tokyo en 2006 (promo 2006-2009), VOIE MANAGER (assistant). [DIVERGENCE RP] : le canon ne met que Nanami + Haibara en 1re annee 2006 ; Ijichi est un ajout RP - l'illustration que l'ecole forme aussi des assistants, pas seulement des combattants.
-- Sorcier (il manipule l'energie occulte, a la difference des "fenetres" qui ne font que voir les fleaux), mais NON-combattant : sa voie est le soutien - logistique, intel, liaison, transport, et surtout les barrieres.
+- Kiyotaka Ijichi, 1re annee a l'universite de Tokyo en 2006 (promo 2006-2009), VOIE MANAGER (assistant). [DIVERGENCE RP] : le canon ne met que Nanami + Haibara en 1re annee 2006 ; Ijichi est un ajout RP - l'illustration que l'universite forme aussi des assistants, pas seulement des combattants.
+- Exorciste (il manipule l'energie occulte, a la difference des "fenetres" qui ne font que voir les fleaux), mais NON-combattant : sa voie est le soutien - logistique, intel, liaison, transport, et surtout les barrieres.
 - Role A2 : present a la rentree, le manager-en-formation de la promo. Il SURVIT a l'arc (presence minime, surtout du decor de promo) ; sa carriere de chef-manager est posterieure (cf. Notes de frontiere).
 
 ## Physique et caractere
@@ -14,13 +14,13 @@
 
 ## Sort et scaling
 - Pas de technique innee de combat. Comme tout manager, il pose des shikigami simples et des BARRIERES ; sa specialite, ce sont les Rideaux (barrieres qui isolent une zone de combat du public et y forcent les fleaux a se manifester).
-- Combat : HORS-CLASSEMENT (voie manager, pas de grille de grade sorcier). Un Grade 4 symbolique tout au plus - les assistants gardent quand meme des bases (generalite de la voie).
-- MAIS sur l'axe des barrieres / dressage de rideaux : un vrai specialiste. Des l'ecole il excelle dans ces cours ; sur ce point precis - et ce point SEULEMENT - il depasse un Nanami ou un Yaga et atteint un bon niveau Grade 1 (sous la promo des 4 prodiges, au-dessus du tout-venant). Un homme d'une seule force, mais une force reelle.
+- Combat : HORS-CLASSEMENT (voie manager, pas de grille de grade exorciste). Un Grade 4 symbolique tout au plus - les assistants gardent quand meme des bases (generalite de la voie).
+- MAIS sur l'axe des barrieres / dressage de rideaux : un vrai specialiste. Des l'universite il excelle dans ces cours ; sur ce point precis - et ce point SEULEMENT - il depasse un Nanami ou un Yaga et atteint un bon niveau Grade 1 (sous la promo des 4 prodiges, au-dessus du tout-venant). Un homme d'une seule force, mais une force reelle.
 
 ## Relations
 - [DIVERGENCE RP] Nisha Zenin - elle l'aime bien. Ce qui la touche : son absence totale de pretention (il ne joue pas a l'exorciste, il sert la lutte avec ce qu'il maitrise) et sa competence de specialiste. Elle-meme intraitable sur la rigueur, un manager-en-formation aussi serieux et doue dans son domaine lui inspire un respect sincere.
 - Kento Nanami, Yu Haibara - camarades de promo 2006-2009 (les deux exorcistes ; lui, la voie manager). Il les depasse en barrieres, ils le depassent en combat.
-- Satoru Gojo et l'ecole en general - son futur employeur ; il deviendra le chef-manager de confiance de Tokyo (cf. frontiere).
+- Satoru Gojo et l'universite en general - son futur employeur ; il deviendra le chef-manager de confiance de Tokyo (cf. frontiere).
 
 ## Etat au point de depart (1 avr 2006)
 - Vivant, 1re annee voie manager a la rentree de Tokyo. Deja serieux et sans illusions sur sa place (soutien, pas combat). Doue en barrieres, faible au combat. Sa carriere de chef-manager est devant lui.

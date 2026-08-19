@@ -1,11 +1,11 @@
 # Utahime Iori
 
-- version : W4
+- version : W5
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
 ## Identite
-- Nom : Utahime Iori. Canon. Professeure a l'ecole de Kyoto.
+- Nom : Utahime Iori. Canon. Professeure a l'universite de Kyoto.
 - Naissance : non donnee par le canon [INCERTAIN]. Promo Kyoto 2004-2007 : en 2005, eleve de 2e annee.
 - Statut 2005 : etudiante de 2e annee a Kyoto. Deviendra professeure de 1ere annee a Kyoto (2009-2018+) - le poste d'enseignante est canon ; [DIVERGENCE RP] sa promo d'eleve (canon muet sur son annee).
 
@@ -13,10 +13,10 @@ Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non bali
 - Canon : cheveux noirs longs, allure serieuse de mentor stricte.
 
 ## Sorts
-Un sorcier = un sort inne en regle generale (canon).
+Un exorciste = un sort inne en regle generale (canon).
 
 ### Solo Forbidden Area (Zone Interdite Solo) - sort inne
-- Canon (revele tardivement, chap. 223, mais sort inne present depuis toujours) : amplifie le debit d'energie occulte de n'importe quel sorcier a sa portee, elle-meme incluse. Active par un rituel de danse.
+- Canon (revele tardivement, chap. 223, mais sort inne present depuis toujours) : amplifie le debit d'energie occulte de n'importe quel exorciste a sa portee, elle-meme incluse. Active par un rituel de danse.
 - Pur soutien : elle decuple les autres, n'est pas une combattante directe.
 
 ## Etat au point de depart (2005)
@@ -28,12 +28,12 @@ Un sorcier = un sort inne en regle generale (canon).
 
 ## Nisha - relation
 Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a Nisha.
-- [DIVERGENCE RP] Avant 2008 (lycee) : Nisha la prend pour une rivale aupres de Satoru - alors qu'Utahime et lui ne font que s'amuser de la situation (taquineries, rien de plus). Malentendu a sens unique, cote Nisha.
+- [DIVERGENCE RP] Avant 2008 (universite) : Nisha la prend pour une rivale aupres de Satoru - alors qu'Utahime et lui ne font que s'amuser de la situation (taquineries, rien de plus). Malentendu a sens unique, cote Nisha.
 - [DIVERGENCE RP] Apres 2008 : Nisha devient prof un an apres Utahime ; elles installent une dynamique complementaire - Utahime la douceur (1ere annee), Nisha la rigueur (2e annee). Nisha finit par trouver sa technique de soutien tres utile.
 - Evolution fine -> roadmap.
 
 ## Role pedagogique (cycle Kyoto, post-2008)
-- 1ere annee = la douceur, premier maillon du cycle (Utahime douceur 1e, Nisha rigueur 2e, Mei Mei perfectionnement 3e). cf. Factions/Ecole_Kyoto.md.
+- 1ere annee = la douceur, premier maillon du cycle (Utahime douceur 1e, Nisha rigueur 2e, Mei Mei perfectionnement 3e). cf. Factions/Universite_Kyoto.md.
 
 ## Grade et scaling
 - 2005 : Grade 2, 4 doigts (~6 %). Post-2008 : Semi-Grade 1, 5 doigts (~7 %, = son grade canon adulte).
@@ -48,18 +48,18 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| sept 2005 | Tournoi inter-ecoles (hote Kyoto) J1 : eliminee par Nisha (soignee par Shoko) ; J2 : forcee d'entrer (desistement de Ranta), perd vs Geto | origine du malentendu-rivalite cote Nisha (vue charmant Satoru) |
+| sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) J1 : eliminee par Nisha (soignee par Shoko) ; J2 : forcee d'entrer (desistement de Ranta), perd vs Geto | origine du malentendu-rivalite cote Nisha (vue charmant Satoru) |
 | mars 2013 (B1) | Resto avec Nisha et Mei Mei : a deux, elles convainquent Mei Mei de prendre la 3e annee a Kyoto ; le cycle a trois maillons (Utahime 1e, Nisha 2e, Mei Mei 3e) est enfin complet | -- |
 | avr 2017 (B3) | LA RELEVE : premiere vraie classe de l'ere - 1re annee 2017-2018 : Mai Zenin, Kasumi Miwa, Kokichi Muta (Mechamaru), promo 2017-2020 | classes pleines a nouveau |
-| 24 dec 2017 (B3_4) | Nuit des Cent Fleaux : garde les 1res annees en securite au lycee pendant que Nisha, le clan Zenin et Gakuganji tiennent la vieille ville | rempart des cadets ; aucun mort du lycee |
+| 24 dec 2017 (B3_4) | Nuit des Cent Fleaux : garde les 1res annees en securite a l'universite pendant que Nisha, le clan Zenin et Gakuganji tiennent la vieille ville | rempart des cadets ; aucun mort de l'universite |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
-- Diplome 2007 ; carriere ; passage Semi-Grade 1 ; prof de 1ere annee a Kyoto (post-2008) -> roadmap / cf. Factions/Ecole_Kyoto.md.
+- Diplome 2007 ; carriere ; passage Semi-Grade 1 ; prof de 1ere annee a Kyoto (post-2008) -> roadmap / cf. Factions/Universite_Kyoto.md.
 - Revelation tardive de sa technique en canon (chap. 223) : detail meta, sans incidence sur l'etat 2005 (le sort inne est present des le depart).
 - Evolution du lien avec Nisha (du malentendu-rivalite a la complementarite d'enseignantes) -> roadmap.
 
 ## Pointeurs
-- Ecole de Kyoto / corps enseignant : cf. Factions/Ecole_Kyoto.md.
+- universite de Kyoto / corps enseignant : cf. Factions/Universite_Kyoto.md.
 - Collegue / dynamique : cf. Personnages/Nisha.md ; rapport canon a Gojo : cf. Personnages/Satoru.md.
 - Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
 

@@ -1,6 +1,6 @@
 # Satoru Gojo - Chronologie datee, ere B (2008-2018)
 
-- version : W3
+- version : W4
 
 Extension de Personnages/Satoru.md. Contient la TRAJECTOIRE DATEE post-depart de Satoru pour l'ere B (hiver 2008 -> juin 2018). NB : l'ere A de Satoru reste dans Personnages/Satoru.md (Trajectoire datee non scindee a l'epoque) ; scission de l'ere A optionnelle. Strate canon par defaut, telegraphique. Build-side : fetchee a la demande, JAMAIS chargee en narration. Etat : entrees B1 a B3 posees - ere B complete.
 
@@ -8,7 +8,7 @@ Extension de Personnages/Satoru.md. Contient la TRAJECTOIRE DATEE post-depart de
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 2008 (B1) | Avec Nisha, adopte Megumi et Tsumiki ; achat de la maison de Saitama. Devient le PERE joueur du foyer (clown qui decoince les gosses trop serieux, registre purement ludique) | co-fonde la famille de Saitama |
-| 2009 (B1) | Professeur a l'ecole de Tokyo (pole progressiste), exorcisme en periode creuse, classes vides. Co-eleve Megumi "puissant qui protege", hors-Zenin | poste de prof effectif ; co-parent |
+| 2009 (B1) | Professeur a l'universite de Tokyo (pole progressiste), exorcisme en periode creuse, classes vides. Co-eleve Megumi "puissant qui protege", hors-Zenin | poste de prof effectif ; co-parent |
 | 2009-2013 (B1) | Periode creuse de l'exorcisme : n1 mondial (23 doigts) installe au sommet, peu sollicite. Vie de famille a Saitama (tranche-de-vie, week-ends). Famille etendue de Tokyo en formation (Panda, ne 2011 de Yaga + Nisha, dans le cercle ; Maki/Mai sous protectorat des jumeaux) | top mondial en sommeil actif ; pere de famille |
 | 2014 (B2) | Avec Nisha, accueille Maki a Saitama (refuge offert a la cousine qui fuit le clan) | foyer elargi |
 | 2015 (B2) | EPOUSE Nisha : mariage d'amour (l'union politique jadis refusee, desormais choisie), pousse par les gosses, qui scelle aussi l'alliance Gojo-Zenin | marie |

@@ -1,12 +1,12 @@
 # Yuki Tsukumo
 
-- version : W1
+- version : W2
 
 ## Identite
-- Yuki Tsukumo, une des QUATRE seules Grade Special de l'univers. Electron libre integral : elle a decroche son grade au lycee, puis a claque la porte des institutions. Elle refuse les missions de Jujutsu High, meprise les autorites (meme degout que Gojo), vagabonde a l'etranger, a moto - reputee aussi puissante qu'irresponsable.
+- Yuki Tsukumo, une des QUATRE seules Grade Special de l'univers. Electron libre integral : elle a decroche son grade a l'universite, puis a claque la porte des institutions. Elle refuse les missions de universite d'exorcisme, meprise les autorites (meme degout que Gojo), vagabonde a l'etranger, a moto - reputee aussi puissante qu'irresponsable.
 - [DIVERGENCE RP / scaling] 15 doigts (~51 %). De facto la 3e puissance mondiale (derriere Gojo 23 et Nisha 16 en 2007), mais JAMAIS reconnue comme telle : ayant quitte le systeme, elle n'est pas comptabilisee au classement officiel. La 3e place sans le titre.
-- But de sa vie : le traitement CAUSAL - eradiquer les fleaux a la racine, la ou les ecoles ne soignent que les symptomes. Elle cherche DEUX voies pour empecher les fleaux de naitre, dont AUCUNE ne passe par tuer les profanes (distinction qu'elle pose explicitement). C'est de cette conversation que Geto deduit SEUL sa 3e voie - le genocide.
-- Ancienne Receptacle d'Etoile, comme Riko : la vessel qui a VECU, miroir de celle qui meurt. (cf. Tengen.md ; calage dans le cycle -> a preciser.)
+- But de sa vie : le traitement CAUSAL - eradiquer les fleaux a la racine, la ou les universites ne soignent que les symptomes. Elle cherche DEUX voies pour empecher les fleaux de naitre, dont AUCUNE ne passe par tuer les profanes (distinction qu'elle pose explicitement). C'est de cette conversation que Geto deduit SEUL sa 3e voie - le genocide.
+- Ancienne Plasma Stellaire, comme Riko : la vessel qui a VECU, miroir de celle qui meurt. (cf. Tengen.md ; calage dans le cycle -> a preciser.)
 
 ## Physique et caractere
 - Physique : grande, blonde ; allure de vagabonde a moto plutot que d'uniforme.
@@ -35,7 +35,7 @@
 - Yuki SURVIT a A2 (presence limitee a A2_7) : trajectoire non-terminale.
 - [TCHEKHOV / futur] Post-Shibuya : quand Nisha et Yuki se recroiseront, Nisha la tiendra clairement pour RESPONSABLE de tout le desastre Geto + Kenjaku-dans-Geto (la "bonne question"). -> ere B+.
 - Mort (canon, tres posterieur) : elle meurt contre Kenjaku dans l'ere Culling Game, poussant Star Rage jusqu'au trou noir. Hors-perimetre A2 ; a (re)considerer selon la presence de Nisha.
-- Calage de son statut d'ancienne Receptacle dans le cycle ~500 ans / Kenjaku -> a preciser (cosmogonie).
+- Calage de son statut d'ancien Plasma Stellaire dans le cycle ~500 ans / Kenjaku -> a preciser (cosmogonie).
 
 ---
 FIN_WIKI_PERSONNAGES_YUKI

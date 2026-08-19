@@ -1,11 +1,11 @@
 # Kinji Hakari
 
-- version : W3
+- version : W4
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee a Tokyo, suspendu en cours d'arc. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
 ## Identite
-- Nom : Kinji Hakari. Canon. Eleve de l'ecole de Tokyo.
+- Nom : Kinji Hakari. Canon. Eleve de l'universite de Tokyo.
 - Promo 2016-2019 : 2e annee en 2017-2018 (sous Kusakabe). [DIVERGENCE RP / calage] Suspendu en cours de B3 (2018), ce qui le decale vers la 3e annee qu'il occupe au canon. Petit ami de Kirara.
 - Un des plus forts de sa generation : Satoru le cite, avec Yuta, comme un futur rival potentiel.
 
@@ -18,7 +18,7 @@ Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e
 
 ## Psychologie
 - Arrogant, sur de lui, joueur invetere, accro a l'adrenaline du combat. Comme Gojo, il ne se censure pour personne - mais par caprice et gout du risque, la ou Gojo a la puissance qui legitime tout.
-- Mepris affiche des regles et de la politique du jujutsu.
+- Mepris affiche des regles et de la politique de l'exorcisme.
 
 ## Statut / suspension
 - [DIVERGENCE RP] Le clash a lieu PENDANT la Nuit des Cent Fleaux (24 dec 2017), sur le front de TOKYO : un haut-place conservateur des Hautes Instances meprise son sort moderne en plein evenement - Hakari le TABASSE. Suspension prononcee dans la foulee (debut 2018). Lance ensuite un ring de combat clandestin (Gachinko Fight Club). Kirara le suit hors du systeme.
@@ -45,7 +45,7 @@ Fiches propres : cf. Personnages/Kirara.md, Satoru.md, Nisha.md ; Factions/Haute
 ## Chronologie noyau
 | Date/Ere | Jalon |
 |---|---|
-| 2016 | Entre a l'ecole de Tokyo (promo 2016-2019). |
+| 2016 | Entre a l'universite de Tokyo (promo 2016-2019). |
 
 ## Trajectoire datee - ere B (entree B3 ; alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
@@ -58,9 +58,9 @@ Fiches propres : cf. Personnages/Kirara.md, Satoru.md, Nisha.md ; Factions/Haute
 - Devenir post-B3 (Culling Game, retour, ere C) -> roadmaps ere C, non ecrites.
 
 ## Pointeurs
-- Petit(e) ami(e) : cf. Personnages/Kirara.md. Referent 2e annee : Kusakabe (pas de fiche ; cf. Factions/Ecole_Tokyo.md).
+- Petit(e) ami(e) : cf. Personnages/Kirara.md. Referent 2e annee : Kusakabe (pas de fiche ; cf. Factions/Universite_Tokyo.md).
 - Position de Nisha (et plan Zenin vs Hautes Instances) : cf. Personnages/Nisha.md, Factions/Hautes_Instances.md, Clan_Zenin.md.
-- Ecole et promo : cf. Factions/Ecole_Tokyo.md. Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
+- Universite et promo : cf. Factions/Universite_Tokyo.md. Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
 
 ---
 

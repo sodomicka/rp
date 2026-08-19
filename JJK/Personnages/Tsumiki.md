@@ -1,22 +1,22 @@
 # Tsumiki Fushiguro
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = qui est Tsumiki a son entree en scene (identite, nature, psychologie, relations de base) ; son devenir post-2008 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps ere B). Profane : hors-axe combat.
 
 ## Identite
 - Nom : Tsumiki Fushiguro. Canon. Demi-soeur AINEE de Megumi Fushiguro, sans aucun lien de sang (canon : leurs parents respectifs se sont mis en couple ; Toji est le pere de Megumi, pas le sien).
-- Naissance : 2000. A 8 ans a l'ouverture de l'ere B (2008).
+- Naissance : 1997. A 11 ans a l'ouverture de l'ere B (2008).
 - Profane : aucune energie occulte propre, aucun sort. Ne percoit l'occulte qu'au travers d'un outil maudit (cf. Physique, lunettes).
 - [DIVERGENCE RP] Adoptee en 2008 par le couple Nisha Zenin / Satoru Gojo, en meme temps que Megumi (cf. Trajectoire datee). Elevee a Saitama, hors de tout moule de clan.
 
 ## Physique
-- Conforme au canon : jeune fille douce, cheveux noirs, traits avenants. Grandit de 8 a 13 ans sur l'arc B1 (2008-2013).
+- Conforme au canon : jeune fille douce, cheveux noirs, traits avenants. Grandit de 11 a 16 ans sur l'arc B1 (2008-2013).
 - [DIVERGENCE RP] Porte des lunettes maudites a demi-monture, du meme style que celles de Maki - imbues d'energie occulte, elles lui donnent la vue de l'occulte (cf. SB7 et relation Maki). Offertes par Maki en 2009.
 
 ## Nature : profane marquee (graine en dormance)
 - Profane integrale, sans don ni reserve d'energie occulte. Sa seule "anomalie" est passive et a son insu (ci-dessous).
-- [DIVERGENCE RP] Porte Yorozu en dormance : ancienne sorciere de l'ere Heian transformee en objet maudit par Kenjaku, ingere et loge en elle. Tsumiki a ete MARQUEE par Kenjaku (maitre des sceaux et des vaisseaux) - non par hasard : Kenjaku seme ses pieces partout ou elles peuvent servir, et la demi-soeur d'un enfant Zenin hors-clan (Megumi) est une piece utile. La marque est anterieure a 2008 ; elle ne provoque AUCUN coma (divergence avec le canon, ou la marque endort Tsumiki) : Tsumiki reste pleinement eveillee, et Yorozu demeure muette et inerte. Eien (parasite de Nisha) reconnait la marque de son amant Kenjaku des 2008 et jubile en silence - cf. graine T-Tsumiki, Trajectoire datee et SB8. LIBEREE fin 2015 (cf. Trajectoire datee - ere B).
+- [DIVERGENCE RP] Porte Yorozu en dormance : ancienne exorciste de l'ere Heian transformee en objet maudit par Kenjaku, ingere et loge en elle. Tsumiki a ete MARQUEE par Kenjaku (maitre des sceaux et des vaisseaux) - non par hasard : Kenjaku seme ses pieces partout ou elles peuvent servir, et la demi-soeur d'un enfant Zenin hors-clan (Megumi) est une piece utile. La marque est anterieure a 2008 ; elle ne provoque AUCUN coma (divergence avec le canon, ou la marque endort Tsumiki) : Tsumiki reste pleinement eveillee, et Yorozu demeure muette et inerte. Eien (parasite de Nisha) reconnait la marque de son amant Kenjaku des 2008 et jubile en silence - cf. graine T-Tsumiki, Trajectoire datee et SB8. LIBEREE fin 2015 (cf. Trajectoire datee - ere B).
 
 ## Psychologie
 - Canon : douce, posee, bienveillante.
@@ -39,7 +39,7 @@ Fiches propres : cf. Personnages/Nisha.md, Megumi.md, Satoru.md, Maki.md. Ici, s
 - [DIVERGENCE RP] Pere joueur. Satoru redevient un gamin des qu'il y a d'autres gamins ; il deteste ceux qui se prennent trop au serieux et fait constamment le clown pour les decoincer. Avec Tsumiki, registre purement ludique.
 
 ### Maki - quasi-soeur
-- [DIVERGENCE RP] Lui offre les lunettes maudites en 2009 - geste de solidarite entre meprisees de l'occulte (Maki, quasi-aveugle aux fleaux faute d'energie occulte, donne a la profane le moyen de voir). Lien de quasi-soeurs (Maki 7 ans, Tsumiki 9 ans en 2009).
+- [DIVERGENCE RP] Lui offre les lunettes maudites en 2009 - geste de solidarite entre meprisees de l'occulte (Maki, quasi-aveugle aux fleaux faute d'energie occulte, donne a la profane le moyen de voir). Lien de quasi-soeurs (Maki 10 ans, Tsumiki 12 ans en 2009).
 
 ## Place dans le focus
 - Noyau affectif de la famille de Saitama. Au depart levier emotionnel pour rallier Megumi, devient fille pleine et entiere.
@@ -51,8 +51,8 @@ Fiches propres : cf. Personnages/Nisha.md, Megumi.md, Satoru.md, Maki.md. Ici, s
 ## Chronologie noyau (jusqu'a l'entree en scene, 2008)
 | Date | Jalon |
 |---|---|
-| 2000 | Naissance. Profane. Marquee par Kenjaku a une date non precisee de l'enfance (porte Yorozu en dormance, a son insu). |
-| pre-2008 | Mise en couple de son parent avec celui de Megumi ; devient la demi-soeur ainee de Megumi (ne 2003), sans lien de sang. |
+| 1997 | Naissance. Profane. Marquee par Kenjaku a une date non precisee de l'enfance (porte Yorozu en dormance, a son insu). |
+| pre-2008 | Mise en couple de son parent avec celui de Megumi ; devient la demi-soeur ainee de Megumi (ne 2000), sans lien de sang. |
 | 2008 | Eleve seule Megumi dans un appartement d'adultes quand le couple Nisha/Satoru les y trouve. Point d'entree en scene (ere B). |
 
 ## Trajectoire datee - ere B (entrees B1-B3 ; alimentee a chaud arc par arc)
@@ -60,7 +60,7 @@ Fiches propres : cf. Personnages/Nisha.md, Megumi.md, Satoru.md, Maki.md. Ici, s
 |---|---|---|
 | 2008 (B1) | Adoptee avec Megumi par le couple ; emmenagement a Saitama. Eien reconnait la marque de Kenjaku sur elle et jubile en silence (graine T-Tsumiki) | de petite mere precaire a fille adoptee ; levier emotionnel pour Megumi |
 | 2009 (B1) | Recoit de Maki des lunettes maudites : voit desormais l'occulte. Nisha l'emmene au domaine, s'attache sincerement. Megumi sort ses premiers shikigami ; Tsumiki l'encourage et se lie a ses familiers | accede a la vue de l'occulte ; dynamique inversee avec Megumi posee |
-| 2010 (B1) | Lance l'Okaruto Shinbun (10 ans) : blog d'horreur mystique romancant les missions de ses parents, qu'elle tient avec serieux des annees (graine T-Okaruto) | devient un pont occulte/profanes |
+| 2010 (B1) | Lance l'Okaruto Shinbun (13 ans) : blog d'horreur mystique romancant les missions de ses parents, qu'elle tient avec serieux des annees (graine T-Okaruto) | devient un pont occulte/profanes |
 | 2015 (B2) | Noces de Nisha et Satoru - un mariage que les gosses, elle en tete, ont pousse | -- |
 | fin 2015 (B3) | LIBERATION. Nisha la fait entrer dans son domaine et livre le combat a deux plans (materiel + territoire interieur de Yorozu) ; l'esprit-germe est TUE, Tsumiki liberee INTACTE, sans coma. Eduquee a la verite occulte et protegee par ses parents n1/n2, elle n'echoue pas au piege qui, dans le canon, la fait basculer | liberee de la dormance ; T-Tsumiki RESOLU |
 

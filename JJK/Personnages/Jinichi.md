@@ -1,6 +1,6 @@
 # Jinichi Zenin
 
-- version : W2
+- version : W4
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -31,7 +31,7 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 - Toji (frere) : Jinichi le DETESTAIT - non par rivalite, mais parce que Toji incarnait le deshonneur du sang dont la honte a pousse leur pere au seppuku (1977, a la naissance d'un fils vide d'energie). Ce deshonneur aurait du eclabousser le frere reste ; Jinichi a "tenu" la ou Toji a "echoue" (une technique contre une Restriction), et sa droiture forcenee dans la ligne du clan est en partie une reaction a ce frere honni - sa seule force le preserve du mepris qui, sinon, colle au sang de Toji.
 - Naobito (oncle, patriarche) : le respecte ; Naobito le nomme au conseil pour sa force. Obeissance.
 - Ogi (oncle) : co-membre du conseil.
-- Naoya et Nisha (cousins) : il les entraine - les tabasse en 1 contre 2 jusqu'a ce qu'ils encaissent les unites Kukuru + Akashi entieres a deux (vers leurs 13 ans).
+- Naoya et Nisha (cousins) : il les entraine - les tabasse en 1 contre 2 jusqu'a ce qu'ils encaissent les unites Kukuru + Akashi entieres a deux (vers leurs 13 ans, 2000).
 
 ## Place dans le clan
 - Pilier du Hei et voix du clan au conseil (avec Naobito et Ogi). Co-decideur du transfert de Nisha a Tokyo en 2005 (cf. Personnages/Nisha.md).

@@ -1,6 +1,6 @@
 # Panda
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entite NEE au cours de l'arc B1 (2011). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = ce que Panda EST des sa naissance ; son devenir post-2011 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps). Corps maudit en croissance sur tout B1 : scaling de combat non pertinent (a maturite seulement).
 
@@ -9,14 +9,14 @@ Fiche noyau (canon + RP), entite NEE au cours de l'arc B1 (2011). Faits canon no
 - Cree par Masamichi Yaga (Manipulation de cadavres maudits) - son chef-d'oeuvre, l'aboutissement de son art (doter une creation d'une ame autonome).
 - Naissance : 2011 (B1). [DIVERGENCE RP] le canon ne date pas sa creation ; ici datee 2011, avec le concours de Nisha (cf. Conception).
 - [DIVERGENCE RP] Considere Yaga comme son PERE et Nisha comme sa MERE (co-creatrice de sa naissance, cf. Conception).
-- Etudiant de l'ecole de Tokyo des avr 2017 : promo 2017-2020 (avec Maki Zenin, Toge Inumaki, Yuta Okkotsu), sous Satoru. Cf. Trajectoire datee.
+- Etudiant de l'universite de Tokyo des avr 2017 : promo 2017-2020 (avec Maki Zenin, Toge Inumaki, Yuta Okkotsu), sous Satoru. Cf. Trajectoire datee.
 
 ## Physique
 - Canon : apparence d'un panda geant adulte, plus grand que des humains ; parle et se comporte en etre conscient. Porte parfois des vetements (brassards, echarpes, vestes).
 - Trois noyaux (a la place d'un coeur unique) lui permettent de changer de forme en basculant de l'un a l'autre (cf. Nature).
 
 ## Nature : Corps Maudit a Mutation Brusque (trois noyaux / trois ames)
-- (canon) La regle des corps maudits ordinaires : un seul noyau, alimente en continu par un sorcier. Panda est l'exception : TROIS noyaux portant trois ames compatibles, qui s'observent mutuellement en permanence et se stabilisent jusqu'a la conscience. Au bout de ~3 mois, il devient capable de regenerer sa propre energie occulte (autonomie). Ne completement sentient.
+- (canon) La regle des corps maudits ordinaires : un seul noyau, alimente en continu par un exorciste. Panda est l'exception : TROIS noyaux portant trois ames compatibles, qui s'observent mutuellement en permanence et se stabilisent jusqu'a la conscience. Au bout de ~3 mois, il devient capable de regenerer sa propre energie occulte (autonomie). Ne completement sentient.
 - Les trois noyaux (canon) :
   - Noyau Panda (le sien) : forme par defaut, type equilibre, conserve l'energie occulte. Peut feindre la concentration d'energie pour bluffer un adversaire (faux noyau).
   - Noyau Gorilla ("le frere") : forme de force pour le combat rapproche ; force et vitesse decuplees ; attaque Tambour Imparable (les coups resonnent a travers toute garde). Tres couteux en energie occulte.
@@ -58,21 +58,21 @@ Fiches propres : cf. Personnages/Yaga.md, Nisha.md, Maki.md. Ici, seul le rappor
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 2011 (B1) | Naissance ; ~3 mois plus tard, autonomie energetique acquise. Grandit aupres de ses deux parents (Yaga a Tokyo, Nisha presente) | de creation a etre autonome |
-| avr 2017 (B3) | Entre a l'ecole de Tokyo (promo 2017-2020), 1re annee sous Satoru - le fils de Yaga etudiant dans l'ecole dont son pere est principal | etudiant |
-| 24 dec 2017 (B3_4) | Nuit des Cent Fleaux, cote Tokyo (hors-POV de Nisha) : defend l'ecole aux cotes de Maki et Toge (canon JJK0) | premiere vraie guerre |
+| avr 2017 (B3) | Entre a l'universite de Tokyo (promo 2017-2020), 1re annee sous Satoru - le fils de Yaga etudiant dans l'universite dont son pere est principal | etudiant |
+| 24 dec 2017 (B3_4) | Nuit des Cent Fleaux, cote Tokyo (hors-POV de Nisha) : defend l'universite aux cotes de Maki et Toge (canon JJK0) | premiere vraie guerre |
 
 ## Graines plantees en B1 (a NE PAS detoner avant l'ere prevue)
 - T-Ames : la naissance de Panda etablit que Nisha PARTAGE le savoir de creer un etre dote d'une ame autonome. Dans le canon, ce secret condamne Yaga (execution post-Shibuya). [DIVERGENCE RP] Nisha herite du meme danger. Detonation -> ere C. cf. fiche Yaga, SB8.
 
 ## Notes de frontiere (hors de cette fiche)
-- Devenir post-B3 (combats d'ere C - dont Mechamaru au Goodwill 2018 ; croissance a maturite) : -> roadmaps ere C, non ecrites. Entree a l'ecole et Nuit des Cent Fleaux : integrees en Trajectoire datee.
+- Devenir post-B3 (combats d'ere C - dont Mechamaru a l'Amicale 2018 ; croissance a maturite) : -> roadmaps ere C, non ecrites. Entree a l'universite et Nuit des Cent Fleaux : integrees en Trajectoire datee.
 - Equivalence chiffree de puissance a maturite : a definir (ere C).
 - Instance jouee : -> Parties/JJK/Partie<n>/ le cas echeant. Cette fiche reste la version neutre.
 
 ## Pointeurs
 - Createur / parents : cf. Personnages/Yaga.md, Nisha.md.
 - Domaine / mecanique de conception : cf. Personnages/Nisha.md (Sphere du Temps Infini).
-- Promo / camarades : cf. Factions/Ecole_Tokyo.md ; Personnages/Maki.md, Toge.md, Yuta.md.
+- Promo / camarades : cf. Factions/Universite_Tokyo.md ; Personnages/Maki.md, Toge.md, Yuta.md.
 - Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
 
 ---

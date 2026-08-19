@@ -1,12 +1,12 @@
 # Ogi Zenin
 
-- version : W2
+- version : W3
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
 ## Identite
 - Nom : Ogi Zenin. Canon.
-- Ne en 1949 (56 ans en 2005). Frere cadet de Naobito. Pere des jumelles Maki et Mai (2002 ; mere : epouse). Oncle des jumeaux Naoya/Nisha et de Jinichi/Toji (fils de l'aine defunt).
+- Ne en 1949 (56 ans en 2005). Frere cadet de Naobito. Pere des jumelles Maki et Mai (1999 ; mere : epouse). Oncle des jumeaux Naoya/Nisha et de Jinichi/Toji (fils de l'aine defunt).
 - Pilier du Hei (epeiste). Membre du conseil du clan, avec Naobito et Jinichi.
 - [DIVERGENCE RP] sur la parente et les dates : cf. Factions/Clan_Zenin.md.
 

@@ -1,17 +1,17 @@
 # Kokichi Muta (Mechamaru)
 
-- version : W1
+- version : W2
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e annee a Kyoto (via son robot). Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
 ## Identite
-- Nom : Kokichi Muta, surnom Mechamaru. Canon. Eleve de l'ecole de Kyoto.
-- Promo 2017-2020 : 1e annee en 2017-2018 (sous Utahime, par robot interpose). cf. Ecole_Kyoto.
+- Nom : Kokichi Muta, surnom Mechamaru. Canon. Eleve de l'universite de Kyoto.
+- Promo 2017-2020 : 1e annee en 2017-2018 (sous Utahime, par robot interpose). cf. Universite_Kyoto.
 - [DIVERGENCE RP] Issu de la branche tertiaire Muta du clan Kamo (rattachement RP du nom canon "Muta" aux Kamo).
 
 ## Restriction Celeste inverse [DIVERGENCE RP]
 - Type INVERSE (cf. Cosmogonie/Trois_Esprits.md, Clan_Kamo.md) : corps SACRIFIE (ne gravement handicape - membres atrophies, douleur permanente, intolerance a la lumiere) en echange d'un RESERVOIR massif d'energie occulte et d'une PORTEE hors norme.
-- Origine du croisement : pere Muta (branche tertiaire Kamo, don sang) x mere Zenin qui s'ignorait Zenin (don temps). Le sang DOMINE -> oriente l'energie (intensite + portee). L'oppose exact de Toji/Maki (temps dominant -> type physique). Deux parents sorciers, aucun conscient de son rattachement de clan, lui non plus.
+- Origine du croisement : pere Muta (branche tertiaire Kamo, don sang) x mere Zenin qui s'ignorait Zenin (don temps). Le sang DOMINE -> oriente l'energie (intensite + portee). L'oppose exact de Toji/Maki (temps dominant -> type physique). Deux parents exorcistes, aucun conscient de son rattachement de clan, lui non plus.
 
 ## Physique
 - Vrai corps : cache, alite, gravement diminue par la Restriction. Ne se montre presque jamais.
@@ -48,13 +48,13 @@ Fiches propres : cf. Personnages/Utahime.md, Miwa.md, Nisha.md ; Factions/Clan_K
 | Date/Ere | Jalon |
 |---|---|
 | naissance | Restriction Celeste inverse (corps sacrifie, reservoir + portee). |
-| 2017 | Entre a l'ecole de Kyoto (promo 2017-2020), par robot interpose. |
+| 2017 | Entre a l'universite de Kyoto (promo 2017-2020), par robot interpose. |
 
 ## Trajectoire datee - ere B (entree B3 ; alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | avr 2017 (B3_3) | 1e annee sous Utahime (via le robot). Nisha percoit sa Restriction ; debut d'une confiance. | un lien se noue |
-| dec 2017 (B3_4) | Nuit des Cent Demons : 1e annee maintenue avec Utahime (en retrait). | protege du gros de la bataille |
+| dec 2017 (B3_4) | Nuit des Cent Fleaux : 1e annee maintenue avec Utahime (en retrait). | protege du gros de la bataille |
 | avr 2018 (B3_5) | Passe en 2e annee (sous Nisha). | -> seuil ere C |
 
 ## Notes de frontiere
@@ -65,7 +65,7 @@ Fiches propres : cf. Personnages/Utahime.md, Miwa.md, Nisha.md ; Factions/Clan_K
 ## Pointeurs
 - Restriction inverse, branche Muta, succession Kamo : cf. Factions/Clan_Kamo.md, Cosmogonie/Trois_Esprits.md.
 - Prof : cf. Personnages/Utahime.md. Crush : cf. Personnages/Miwa.md. Lien Nisha : cf. Personnages/Nisha.md.
-- Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md. Ecole et promo : cf. Factions/Ecole_Kyoto.md.
+- Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md. Universite et promo : cf. Factions/Universite_Kyoto.md.
 
 ---
 

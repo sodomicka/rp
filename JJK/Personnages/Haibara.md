@@ -1,20 +1,20 @@
 # Yu Haibara
 
-- version : W2
+- version : W3
 
 ## Identite
-- Yu Haibara, 1re annee a l'ecole de Tokyo en 2006 (promo 2006-2009). Sorcier de Grade 2.
-- Ne de parents non-sorciers ; il a une petite soeur qui percoit elle aussi les fleaux, a qui il a INTERDIT de s'inscrire a Jujutsu High (il la tient a l'ecart du metier).
+- Yu Haibara, 1re annee a l'universite de Tokyo en 2006 (promo 2006-2009). Exorciste de Grade 2.
+- Ne de parents profanes ; il a une petite soeur qui percoit elle aussi les fleaux, a qui il a INTERDIT de s'inscrire a universite d'exorcisme (il la tient a l'ecart du metier).
 - [DIVERGENCE RP] Sa promo n'est pas reduite a lui + Nanami (comme en canon) : elle compte aussi Kiyotaka Ijichi (ajout RP, profil support/assistant). Haibara reste surtout proche de Nanami.
 - Role A2 : la 1re annee lumineuse de la rentree, renfort a Okinawa, mort fin 2007 - detonateur de la chute de Geto. Trajectoire terminale (cf. plus bas).
 
 ## Physique et caractere
-- Physique : jeune homme aux cheveux sombres courts, sourcils fins, grands yeux passionnes ; uniforme de Jujutsu High, veste raccourcie laissee ouverte.
+- Physique : jeune homme aux cheveux sombres courts, sourcils fins, grands yeux passionnes ; uniforme de l'universite d'exorcisme, veste raccourcie laissee ouverte.
 - Caractere : optimiste, solaire, enthousiaste - le contrepoint exact du Nanami crispe et monotone. Franc, ne se prend pas la tete, fier de servir, persuade d'etre bon juge de caractere. Du genre a mordre plus gros que sa bouche - ce qui le perdra.
 
 ## Sort et scaling
 - Sort : [INCERTAIN] - le canon ne montre jamais sa technique innee. A ne pas inventer ; non precise.
-- Grade : Grade 2, ~3-4 doigts. Un sorcier jeune et modeste, pas un prodige. Son admission a Tokyo ne dit rien d'un potentiel superieur : l'ecole forme aussi bien des exorcistes que des assistants, et le faible effectif tient a l'ultra-niche du domaine, pas a une selection d'elite. C'est ce qui le condamne face a un fleau Grade 1 mal annonce.
+- Grade : Grade 2, ~3-4 doigts. Un exorciste jeune et modeste, pas un prodige. Son admission a Tokyo ne dit rien d'un potentiel superieur : l'universite forme aussi bien des exorcistes que des assistants, et le faible effectif tient a l'ultra-niche du domaine, pas a une selection d'elite. C'est ce qui le condamne face a un fleau Grade 1 mal annonce.
 
 ## Relations
 - Kento Nanami - son binome et meilleur ami de promo ; son optimisme est le miroir inverse du pragmatisme de Nanami. Sa mort desillusionnera durablement Nanami.
@@ -32,7 +32,7 @@
 - fin 2007 (A2_8) | Mort sur une mission contre un fleau annonce Grade 2, en realite Grade 1 (mauvais intel) ; Nanami rentre, Gojo reprend et termine. Peu avant, il avait tendu la main au Geto sombre. | Mort. Detonateur de la bascule de Geto + desillusion de Nanami. La prophetie de Nisha se realise - par la mort, pas la fuite. -> roadmap A2_8.
 
 ## Notes de frontiere
-- [DIVERGENCE RP] Datation : canon = mort de Haibara en septembre 2007, juste avant le massacre du village (Geto entre au village le 18 sept, rapport d'incident le 28 sept). Le RP la repousse a FIN 2007 (Yu meurt apres la fenetre Goodwill de septembre, edition 2007 non tenue ; cf. WIKI Factions/Tournoi.md). Aligne avec Geto A2_8 et Nanami A2_8.
+- [DIVERGENCE RP] Datation : canon = mort de Haibara en septembre 2007, juste avant le massacre du village (Geto entre au village le 18 sept, rapport d'incident le 28 sept). Le RP la repousse a FIN 2007 (Yu meurt apres la fenetre de l'Amicale de septembre, edition 2007 non tenue ; cf. WIKI Factions/Tournoi.md). Aligne avec Geto A2_8 et Nanami A2_8.
 - Haibara meurt en A2_8 : sa trajectoire est TERMINALE, pas tronquee.
 - Ses seules reapparitions canon sont tres posterieures (spectre / souvenir cote Nanami, ere Shibuya 2018+) : hors-perimetre A2, et probablement hors-RP (Nisha absente de Shibuya). A (re)considerer seulement si jamais pertinent.
 

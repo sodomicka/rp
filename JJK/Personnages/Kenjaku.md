@@ -1,12 +1,12 @@
 # Kenjaku
 
-- version : W3
+- version : W4
 
 Canon JJK + couche RP (origine Kamo, couple avec Eien). Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
 ## Identite et nature
-- Sorcier maudit millenaire (plus de 1000 ans). Conscience stable sous d'innombrables identites.
-- Sous l'identite de Noritoshi Kamo (ere Meiji), reputation du pire sorcier de l'histoire : experiences sur des humains si vils que les archives en furent detruites.
+- Exorciste maudit millenaire (plus de 1000 ans). Conscience stable sous d'innombrables identites.
+- Sous l'identite de Noritoshi Kamo (ere Meiji), reputation du pire exorciste de l'histoire : experiences sur des humains si vils que les archives en furent detruites.
 - [DIVERGENCE RP] Issu des Kamo a l'origine : de la, sa maitrise des sceaux et le parasitisme qu'il en a developpe.
 
 ## Sort inne : transfert de cerveau
@@ -17,7 +17,7 @@ Canon JJK + couche RP (origine Kamo, couple avec Eien). Fiche noyau (atemporel) 
 ## Objectif
 - Faire evoluer l'humanite au moyen de l'energie occulte. Plan canon : fusion via Tengen (Merger), orchestration du Culling Game.
 - [DIVERGENCE RP] Objectif soude a l'amour pour Eien : un monde ideal pour eux deux. Le curieux cosmique canon est preserve, l'amour greffe par-dessus.
-- [DIVERGENCE RP] Marionnettiste cache de la Time Vessel Association (secte venerant Tengen) : il en tire les ficelles comme l'un de ses leviers vers le Merger. Operations datees liees a ce levier -> roadmap.
+- [DIVERGENCE RP] Marionnettiste cache de le Culte Astral, la Confrerie du Receptacle Temporel (secte venerant Tengen) : il en tire les ficelles comme l'un de ses leviers vers le Merger. Operations datees liees a ce levier -> roadmap.
 
 ## Realisations (canon, relues par le RP)
 - Peintures Mortes : comme Noritoshi, sequestre une femme porteuse d'hybrides, mele le sang Kamo -> Choso, Eso, Kechizu. [DIVERGENCE RP] Choso coconcu avec Eien-dans-Nanao.
@@ -38,7 +38,7 @@ Canon JJK + couche RP (origine Kamo, couple avec Eien). Fiche noyau (atemporel) 
 
 ## Notes de frontiere (hors de cette fiche)
 - Evenements specifiques au RP (sceau de Satoru, denouement, mort de Kenjaku) : posterieurs au point de depart -> roadmap (Passe 2), puis Parties.
-- Operations datees via la TVA (noeud de 2006 : Receptacle d'Etoile) et continuite vers le futur culte qu'il reprendra une fois ce corps investi : posterieures au point de depart -> roadmap.
+- Operations datees via la TVA (noeud de 2006 : Plasma Stellaire) et continuite vers le futur culte qu'il reprendra une fois ce corps investi : posterieures au point de depart -> roadmap.
 
 ---
 

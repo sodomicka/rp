@@ -1,27 +1,27 @@
 # Ranta Zenin
 
-- version : W3
+- version : W4
 
 Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat = jusqu'au point de depart (2005). Devenir post-2005 -> roadmap.
 
 ## Identite
 - Nom : Ranta Zenin. Canon. Membre du Hei, profil de support.
-- [DIVERGENCE RP] Ne fin 1989 - tout juste plus age que les jumeaux (janvier 1990). Issu d'une branche tertiaire des Zenin, non logee au domaine principal a l'origine.
-- En 2005, integre la promo de Kyoto (Jujutsu High), la meme que Naoya (cf. retombee, fiche Naoya).
+- [DIVERGENCE RP] Ne fin 1986 - tout juste plus age que les jumeaux (janvier 1987). Issu d'une branche tertiaire des Zenin, non logee au domaine principal a l'origine.
+- En 2005, integre la promo de Kyoto (universite d'exorcisme), la meme que Naoya (cf. retombee, fiche Naoya).
 - [DIVERGENCE RP] dates et parente : cf. Factions/Clan_Zenin.md.
 
 ## Physique
-- (canon) Petite taille. Tenue de clan : kimono blanc, hakama bleu fonce. Jeune (15-16 ans en 2005).
+- (canon) Petite taille. Tenue de clan : kimono blanc, hakama bleu fonce. Jeune (18-19 ans en 2005).
 
 ## Sort : Regard Paralysant (Paralyzing Gaze)
-- Sort inne : fait apparaitre une paire d'yeux derriere sa cible et l'enrobe d'energie occulte qui paralyse le corps. Efficace sur les adversaires faibles ; un sorcier puissant peut forcer le mouvement. Le surmenage de la technique est mortel pour l'utilisateur.
+- Sort inne : fait apparaitre une paire d'yeux derriere sa cible et l'enrobe d'energie occulte qui paralyse le corps. Efficace sur les adversaires faibles ; un exorciste puissant peut forcer le mouvement. Le surmenage de la technique est mortel pour l'utilisateur.
 - Outil de SUPPORT (immobiliser pour que d'autres frappent) plus que sort de premiere ligne.
 
 ## Grade et scaling
 - Semi-Grade 1 (~5 doigts, plancher du Hei). Precision -> roadmap.
 
 ## Histoire (jusqu'au point de depart)
-- [DIVERGENCE RP] Repere par Jinichi et amene au domaine en 2002 (vers 12-13 ans) pour sa force. Integre le Hei des 2002 - mais comme SUPPORT de Jinichi et de Naoya (tous deux du Hei), pas comme guerrier de front.
+- [DIVERGENCE RP] Repere par Jinichi et amene au domaine en 2002 (vers 15-16 ans) pour sa force. Integre le Hei des 2002 - mais comme SUPPORT de Jinichi et de Naoya (tous deux du Hei), pas comme guerrier de front.
 - Voue par ailleurs une devotion totale aux deux jumeaux, Naoya et Nisha, sans jamais questionner leurs methodes ni leur morale : trop heureux d'etre enfin reconnu pour sa force.
 
 ## Psychologie
@@ -39,7 +39,7 @@ Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| sept 2005 | Tournoi inter-ecoles (hote Kyoto) J1 : avec Naoya, fait tomber Geto, puis elimine par Gojo ; J2 : se desiste (support, refuse d'affronter un prodige) | -- |
+| sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) J1 : avec Naoya, fait tomber Geto, puis elimine par Gojo ; J2 : se desiste (support, refuse d'affronter un prodige) | -- |
 
 ## Notes de frontiere (hors noyau)
 - Devenir post-2005 (combat et mort lors du massacre de Maki, par surmenage de sa technique, canon) -> roadmap.

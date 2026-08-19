@@ -1,12 +1,12 @@
 # Megumi Fushiguro
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = qui est Megumi a son entree en scene (identite, nature, sort, psychologie, relations) ; son devenir post-2008 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps ere B). Enfant sur tout B1 : scaling de combat non pertinent (potentiel seulement).
 
 ## Identite
-- Nom : Megumi Fushiguro. Canon. Fils biologique de Toji Fushiguro (ne Zenin, Restriction Celeste, assassin de sorciers).
-- Naissance : 22 decembre 2003. A 4-5 ans a l'ouverture de l'ere B (2008) ; grandit jusqu'a 9-10 ans a la cloture de B1 (mars 2013).
+- Nom : Megumi Fushiguro. Canon. Fils biologique de Toji Fushiguro (ne Zenin, Restriction Celeste, Tueur d'Exorcistes).
+- Naissance : 22 decembre 2000. A 7-8 ans a l'ouverture de l'ere B (2008) ; grandit jusqu'a 12 ans a la cloture de B1 (mars 2013).
 - Demi-frere CADET de Tsumiki Fushiguro, sans aucun lien de sang (cf. fiche Tsumiki).
 - [DIVERGENCE RP] Adopte en 2008 par le couple Nisha Zenin / Satoru Gojo, en meme temps que Tsumiki. Eleve a Saitama, HORS de tout moule de clan Zenin. La vente conditionnelle qui le promettait au clan Zenin (contrat de Toji, arme a l'apparition d'un sort) a ete ANNULEE par le couple en amont (A2_10, avant l'apparition du sort) : c'est cette annulation preventive qui le soustrait au clan malgre la technique Zenin qu'il developpera.
 
@@ -38,7 +38,7 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya
 - [DIVERGENCE RP] Pere joueur, qui le decoince a force de faire le clown (Megumi enfant trop serieux = cible ideale de ses pitreries). Lien d'affection reel sous le registre ludique.
 
 ### Toji - pere biologique (defunt)
-- Pere biologique, mort en 2006 (tue par Satoru eveille, arc A2_4) ; c'est Toji mourant qui revele au couple l'existence de son fils. Megumi n'en garde pas de lien construit (orphelin de pere a 3 ans). Parallele non-dit : Toji et Megumi, meme sang Zenin, destins opposes (l'un rejete et hors-Restriction-doue, l'autre adopte et doue du sort de clan).
+- Pere biologique, mort en 2006 (tue par Satoru eveille, arc A2_4) ; c'est Toji mourant qui revele au couple l'existence de son fils. Megumi n'en garde pas de lien construit (orphelin de pere a 5 ans). Parallele non-dit : Toji et Megumi, meme sang Zenin, destins opposes (l'un rejete et hors-Restriction-doue, l'autre adopte et doue du sort de clan).
 
 ### Naoya - oncle adoptif / rivalite latente
 - [DIVERGENCE RP] Naoya (jumeau de Nisha, tete du Hei) : oncle par adoption. Tension de SUCCESSION latente - un enfant hors-clan portant les Dix Ombres face a l'heritier de fait. Graine qui ne fait que s'ARMER en B1 (Megumi est un enfant), detonation -> ere C. Cf. Graines.
@@ -48,13 +48,13 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya
 - Pretendant LATENT a la succession Zenin malgre lui (porte les Dix Ombres, mais eleve hors clan) - tension dormante avec Naoya, a armer sans detoner en B.
 
 ## Grade et scaling
-- En B1 : enfant (4 a 10 ans), debutant ; aucun scaling de combat pertinent.
+- En B1 : enfant (7 a 12 ans), debutant ; aucun scaling de combat pertinent.
 - Potentiel (canon, hors B1) : receptacle parfait pour Sukuna - plafond theorique 20 doigts sur 20 (cf. Power_Scaling/Doigts_de_Sukuna.md, Plafond mondial). Donnee de potentiel, sans incidence sur son etat enfant en B1.
 
 ## Chronologie noyau (jusqu'a l'entree en scene, 2008)
 | Date | Jalon |
 |---|---|
-| 22 dec 2003 | Naissance. Fils de Toji Fushiguro (ne Zenin). |
+| 22 dec 2000 | Naissance. Fils de Toji Fushiguro (ne Zenin). |
 | 2006 | Mort de Toji (A2_4) ; le couple apprend son existence par Toji mourant. |
 | 2007 -> debut 2008 | Le couple ebauche le plan (maison a Saitama, adoption) et fait ANNULER la vente conditionnelle aupres du clan Zenin, avant toute apparition de sort (A2_10). |
 | 2008 | Trouve avec Tsumiki dans un appartement d'adultes ou elle l'eleve seule. Point d'entree en scene (ere B). |
@@ -63,8 +63,8 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 2008 (B1) | Adopte avec Tsumiki par le couple ; emmenagement a Saitama, hors-Zenin | d'enfant promis au clan a fils adopte ; soustrait a la vente (deja annulee) |
-| 2009 (B1) | Revele ses premiers shikigami (~5-6 ans) ; entraine "puissant qui protege", jamais une arme. Tsumiki l'encourage et se lie a ses familiers | sort manifeste ; cultivation hors-moule engagee |
-| avr 2018 (B3) | Entre a l'ecole de TOKYO : 1re annee dans la classe de son pere Satoru (promo 2018-2021). Seul 1re annee a la rentree - Yuji Itadori et Nobara Kugisaki n'arrivent qu'en ere C | lyceen exorciste ; eleve de son pere |
+| 2009 (B1) | Revele ses premiers shikigami (~8-9 ans) ; entraine "puissant qui protege", jamais une arme. Tsumiki l'encourage et se lie a ses familiers | sort manifeste ; cultivation hors-moule engagee |
+| avr 2018 (B3) | Entre a l'universite de TOKYO : 1re annee dans la classe de son pere Satoru (promo 2018-2021). Seul 1re annee a la rentree - Yuji Itadori et Nobara Kugisaki n'arrivent qu'en ere C | etudiant exorciste ; eleve de son pere |
 | juin 2018 (B3, cloture ere B) | Veille de sa PREMIERE MISSION SOLO : recuperer une relique de Grade Special pres d'un lycee public - le doigt de Sukuna, au lycee de Yuji | seuil de l'ere C |
 
 ## Graines plantees / armees en B1 (a NE PAS detoner avant l'ere prevue)

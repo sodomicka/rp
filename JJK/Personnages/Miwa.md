@@ -1,12 +1,12 @@
 # Kasumi Miwa
 
-- version : W1
+- version : W2
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e annee a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
 ## Identite
-- Nom : Kasumi Miwa. Canon. Eleve de l'ecole de Kyoto.
-- Promo 2017-2020 : 1e annee en 2017-2018 (sous Utahime). cf. Ecole_Kyoto.
+- Nom : Kasumi Miwa. Canon. Eleve de l'universite de Kyoto.
+- Promo 2017-2020 : 1e annee en 2017-2018 (sous Utahime). cf. Universite_Kyoto.
 - Grade 3. Sabreuse, combattante de l'effort plutot que du don.
 
 ## Physique
@@ -40,13 +40,13 @@ Fiches propres : cf. Personnages/Utahime.md, Nisha.md. Ici, seul le rapport a Mi
 ## Chronologie noyau
 | Date/Ere | Jalon |
 |---|---|
-| 2017 | Entre a l'ecole de Kyoto (promo 2017-2020). |
+| 2017 | Entre a l'universite de Kyoto (promo 2017-2020). |
 
 ## Trajectoire datee - ere B (entree B3 ; alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | avr 2017 (B3_3) | 1e annee sous Utahime. | entree en scene |
-| dec 2017 (B3_4) | Nuit des Cent Demons : 1e annee maintenue avec Utahime (en retrait, hors de la melee principale). | protegee du gros de la bataille |
+| dec 2017 (B3_4) | Nuit des Cent Fleaux : 1e annee maintenue avec Utahime (en retrait, hors de la melee principale). | protegee du gros de la bataille |
 | avr 2018 (B3_5) | Passe en 2e annee (sous Nisha). | -> seuil ere C |
 
 ## Notes de frontiere
@@ -55,7 +55,7 @@ Fiches propres : cf. Personnages/Utahime.md, Nisha.md. Ici, seul le rapport a Mi
 ## Pointeurs
 - Professeure de 1e annee : cf. Personnages/Utahime.md. Future prof : cf. Personnages/Nisha.md.
 - Camarade et crush : cf. Personnages/Mechamaru.md. Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
-- Ecole et promo : cf. Factions/Ecole_Kyoto.md.
+- Universite et promo : cf. Factions/Universite_Kyoto.md.
 
 ---
 

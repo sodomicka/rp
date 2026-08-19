@@ -1,19 +1,19 @@
 # Yuta Okkotsu
 
-- version : W2
+- version : W3
 
-Fiche noyau (canon + RP), entite entrant en scene en cours d'annee 2017 (B3) comme eleve de l'ecole de Tokyo. Rika integree a cette fiche. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
+Fiche noyau (canon + RP), entite entrant en scene en cours d'annee 2017 (B3) comme eleve de l'universite de Tokyo. Rika integree a cette fiche. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
 ## Identite
-- Nom : Yuta Okkotsu. Canon. Arrive a l'ecole de Tokyo en cours d'annee 2017 (promo 2017-2020), eleve de Satoru. Lie a Rika.
+- Nom : Yuta Okkotsu. Canon. Arrive a l'universite de Tokyo en cours d'annee 2017 (promo 2017-2020), eleve de Satoru. Lie a Rika.
 - [DIVERGENCE RP - sourdine] Descendant de la branche Fujiwara des Gojo (cf. Cosmogonie : Branche Fujiwara -> Okkotsu ; Infini perdu ; Yuta = "copie", retour tacite de l'Infini). Fil purement cosmogonique, discret, sans enjeu narratif actif en B3.
 
 ## Physique
-- Canon : adolescent timide, cheveux noirs en bataille, regard cerne et anxieux au depart. Manie un katana (sabre maudit) ou il canalise l'energie de Rika.
+- Canon : jeune homme timide, cheveux noirs en bataille, regard cerne et anxieux au depart. Manie un katana (sabre maudit) ou il canalise l'energie de Rika.
 
 ## Rika (integree)
 - Rika Orimoto : l'amie d'enfance de Yuta, une fillette (mineure), morte dans un accident. Une promesse d'enfants ("on se mariera") les liait.
-- [le fleau] La "Rika" surpuissante n'est PAS l'ame de la fillette : c'est une MALEDICTION, extension du sort inne de Yuta (son amour et sa culpabilite l'ont engendree). Entite maudite demesuree, accrochee a lui.
+- [le fleau] La "Rika" surpuissante n'est PAS l'ame de la fillette : c'est un FLEAU, extension du sort inne de Yuta (son amour et sa culpabilite l'ont engendree). Entite maudite demesuree, accrochee a lui.
 - [DIVERGENCE RP - coeur du miroir] En 2017, Yuta ne CONTROLE PAS Rika : il la subit (elle se dechaine, le protege de facon incontrolee). C'est l'exact INVERSE de Nisha, qui a toujours DOMINE Eien (cf. Relations > Nisha).
 
 ## Sort et style de combat
@@ -22,7 +22,7 @@ Fiche noyau (canon + RP), entite entrant en scene en cours d'annee 2017 (B3) com
 - Grade Special en puissance (atteint en fin de JJK0).
 
 ## Psychologie
-- Timide, anxieux, ronge par la culpabilite (la mort de Rika, la malediction). Doux, profondement loyal une fois la confiance gagnee. Sous-estime sa propre puissance.
+- Timide, anxieux, ronge par la culpabilite (la mort de Rika, le fleau). Doux, profondement loyal une fois la confiance gagnee. Sous-estime sa propre puissance.
 
 ## Relations
 Fiches propres : cf. Personnages/Satoru.md, Nisha.md. Ici, seul le rapport a Yuta.
@@ -41,8 +41,8 @@ Fiches propres : cf. Personnages/Satoru.md, Nisha.md. Ici, seul le rapport a Yut
 ## Chronologie noyau
 | Date/Ere | Jalon |
 |---|---|
-| enfance | Lie a Rika Orimoto (promesse d'enfants). A la mort accidentelle de Rika, il engendre sans le savoir la malediction qui la "ramene". |
-| 2017 | Arrive a l'ecole de Tokyo en cours d'annee (eleve de Satoru). |
+| enfance | Lie a Rika Orimoto (promesse d'enfants). A la mort accidentelle de Rika, il engendre sans le savoir le fleau qui la "ramene". |
+| 2017 | Arrive a l'universite de Tokyo en cours d'annee (eleve de Satoru). |
 
 ## Trajectoire datee - ere B (entree B3 ; alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
@@ -59,7 +59,7 @@ Fiches propres : cf. Personnages/Satoru.md, Nisha.md. Ici, seul le rapport a Yut
 ## Pointeurs
 - Professeur/mentor : cf. Personnages/Satoru.md. Interet et enseignement temporel : cf. Personnages/Nisha.md (+ Power_Scaling pour Chronostase/Chronokinesie et leurs couts).
 - Branche Fujiwara/Okkotsu, Infini-copie : cf. Cosmogonie/Trois_Esprits.md. Miguel et l'etranger -> roadmaps ere C.
-- Ecole : cf. Factions/Ecole_Tokyo.md. Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
+- Universite : cf. Factions/Universite_Tokyo.md. Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
 
 ---
 

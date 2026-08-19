@@ -1,13 +1,13 @@
 # Nisha Zenin
 
-- version : W7
+- version : W9
 
 Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depart (2005) : identite, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datee post-depart) est scinde par volume pour le poids -> cf. section dediee en bas de fiche et Personnages/Nisha_chrono_A.md.
 
 ## Identite
 - Nom : Nisha Zenin. OC. Protagoniste.
 - Jumelle de Naoya Zenin. Fille de Naobito Zenin.
-- Naissance : 30 janvier 1990. Meme cohorte scolaire que Gojo (dec 1989), Geto (fev 1990), Shoko.
+- Naissance : 30 janvier 1987. Meme cohorte universitaire que Gojo (dec 1986), Geto (fev 1987), Shoko.
 - [DIVERGENCE RP] Naoya n'a pas de jumelle dans le canon. Nisha = divergence racine.
 - Seule femme du clan reconnue "vraie Zenin" (ni servante ni uterus), par sa force.
 
@@ -18,7 +18,7 @@ Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depar
 - [DIVERGENCE RP] Se bande la poitrine (bandage compressif) : pure DE-SEXUALISATION, pas pudeur. Elle refuse d'etre vue comme une femme - elle veut etre un exorciste, point. Naoya la resume : "un exorciste avec des seins".
 
 ## Sorts (deux)
-[DIVERGENCE RP] Un sorcier = un sort inne en canon. Nisha en manie deux.
+[DIVERGENCE RP] Un exorciste = un sort inne en canon. Nisha en manie deux.
 
 ### Chronostase (sort inne propre)
 - Mutation de la Projection (lignee Naobito).
@@ -42,7 +42,7 @@ Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depar
 - Interieur : le temps suit sa propre horloge. Nisha y utilise Chronostase et Chronokinesie sans toucher, et debloque l'inversion temporelle.
 - Inversion temporelle : sur son propre corps. Un bras tranche se de-tranche, une brulure se de-brule. Ce n'est PAS le sort d'inversion (RCT) : c'est une inversion temporelle litterale, au-dessus de la RCT.
 - Cout : vide colossalement ses reserves d'energie occulte. Ultime recours. Apres usage, hors d'etat de se battre.
-- [DIVERGENCE RP] Domaine acquis a 8 ans (1998). Mecanique justificative liee a Eien et aux territoires, a detailler (autre thread).
+- [DIVERGENCE RP] Domaine acquis a 8 ans (1995). Mecanique justificative liee a Eien et aux territoires, a detailler (autre thread).
 
 ## Pool gemellaire (mecanique)
 [DIVERGENCE RP] Reecriture du partage Maki/Mai. Pas un pool commun "chacun son energie", mais "chacun sa contribution, chacun tire une moitie".
@@ -55,7 +55,7 @@ Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depar
 Fiche propre d'Eien : cf. WIKI Personnages/Eien.md. Ici, seul son rapport a Nisha.
 - Eien : fleau Grade Special millenaire (OC), amante de Kenjaku.
 - Mode operatoire : marque une femme enceinte, s'implante dans le foetus, le gorge d'energie occulte pour le rendre viable, se revele comme "amie" a 4 ans, offre la Chronokinesie, puis ecrase la conscience de l'hote a 10 ans pour user du sort a pleine puissance.
-- Avec Nisha : l'hote a domine le parasite. Putsch tente en 2000 (10 ans), echoue. Nisha = geoliere. Eien = passagere consciente, matee, qui fait profil bas et complote en silence. Schema Sukuna/Yuji inverse.
+- Avec Nisha : l'hote a domine le parasite. Putsch tente en 1997 (10 ans), echoue. Nisha = geoliere. Eien = passagere consciente, matee, qui fait profil bas et complote en silence. Schema Sukuna/Yuji inverse.
 - Regle de bascule : Eien ne peut PAS prendre le controle de force. Elle le pourrait si Nisha baissait sa garde (par amour). Faille latente, non exploitee au point de depart.
 - [A2] La faille s'APPROFONDIT a l'arc Toji (2006) : Nisha a failli mourir par amour pour Satoru, et son attachement lui fait baisser durablement la garde. Eien engrange en silence (paiera ~2015+ ; cf. roadmaps ere B).
 - Communication : Nisha et Eien se parlent en se projetant spirituellement dans le territoire d'Eien, le Jardin des Eres Mortes.
@@ -67,9 +67,9 @@ Fiche propre de Naoya : cf. Personnages/Naoya.md. Ici, seul son rapport a Nisha.
 - Jumeaux en symbiose parfaite. Naoya adorable avec Nisha, et avec elle seule.
 - [DIVERGENCE RP] Naoya adouci : moins misogyne, du fait d'avoir une jumelle digne. Sa logique : haine des faibles, pas des femmes. Que sa soeur soit la seule femme digne la rend unique.
 - Rituel d'anniversaire (30 janvier) : chez les Zenin, date ordinaire (un Zenin recompense, n'offre pas). Eux : Naoya cuisine pour Nisha toute la journee, Nisha forge un couteau pour Naoya. Chacun se fait serviteur de l'autre une journee = don de sa dignite. Retournement du statut servile que le clan voulait imposer a Nisha.
-- [DIVERGENCE RP] Routine matinale rituelle (les jours ou ils sont ensemble) : douche separee chacun son tour, puis tout le reste a deux - bandage, habillage, dejeuner, entrainement 1c1 jusqu'a 7h. Deux ados a demi nus qui se connaissent par coeur, AUCUNE sexualisation : ils s'arment pour la journee. Reduite aux week-ends sur deux apres le transfert (2005).
+- [DIVERGENCE RP] Routine matinale rituelle (les jours ou ils sont ensemble) : douche separee chacun son tour, puis tout le reste a deux - bandage, habillage, dejeuner, entrainement 1c1 jusqu'a 7h. Deux jeunes gens a demi nus qui se connaissent par coeur, AUCUNE sexualisation : ils s'arment pour la journee. Reduite aux week-ends sur deux apres le transfert (2005).
 - Nuits : futon partage, blottis l'un contre l'autre, longues discussions avant de dormir.
-- Entrainement : Jinichi les tabasse en 1 contre 2 jusqu'a ce qu'ils encaissent les unites Kukuru + Akashi entieres a deux (vers 13 ans).
+- Entrainement : Jinichi les tabasse en 1 contre 2 jusqu'a ce qu'ils encaissent les unites Kukuru + Akashi entieres a deux (vers 13 ans, 2000).
 - Mariage Gojo : Naoya deteste l'idee. Pas une faille entre eux : il la tient pour son egale, elle merite le meilleur, pas d'etre un piege tendu a un Gojo. Sur ce seul point, moins misogyne que Nisha.
 
 ## Psychologie et misogynie
@@ -85,28 +85,28 @@ Fiche propre de Naoya : cf. Personnages/Naoya.md. Ici, seul son rapport a Nisha.
 
 ## Place dans le clan
 - Femme, donc pas heritiere. Mais puissance d'exception.
-- [DIVERGENCE RP] Education de servante VECUE de la naissance a 8 ans (1990-1998), pas seulement planifiee : elle l'a subie. La maitrise du territoire a 8 ans (1998) clot ce statut et la fait favorite.
-- Enfance : Naobito a failli la renier puis l'executer (son sort lu comme celui d'un fleau). Naoya l'a defendue. L'eveil de la Chronostase (aout 1994) l'a sauvee : un vrai sort Zenin a elle.
-- 2000 (10 ans) : Naobito la fait Grade Special 1. Motif : elle a mate le fleau, donc vraie Zenin, seule femme a l'etre.
+- [DIVERGENCE RP] Education de servante VECUE de la naissance a 8 ans (1987-1995), pas seulement planifiee : elle l'a subie. La maitrise du territoire a 8 ans (1995) clot ce statut et la fait favorite.
+- Enfance : Naobito a failli la renier puis l'executer (son sort lu comme celui d'un fleau). Naoya l'a defendue. L'eveil de la Chronostase (aout 1991) l'a sauvee : un vrai sort Zenin a elle.
+- 1997 (10 ans) : Naobito la fait Grade Special 1. Motif : elle a mate le fleau, donc vraie Zenin, seule femme a l'etre.
 - Hei refuse : femme = pas digne (consequence de la misogynie du clan). Akashi refuse par ego (elle se sait digne du Hei).
 - Voie choisie : exorcisme freelance avec des membres du clan, ou elle fait tout le travail pour prouver sa puissance.
 - Favorite de Naobito, qui n'aime personne (pas meme ses enfants) mais respecte la puissance.
 
 ## Grade et scaling
-- Pre-lycee : plafonnee Grade Special 1 (classement hors Jujutsu High, rang elite Zenin). Limite administrative, pas de puissance.
-- Au lycee (2005) : accede au classement officiel, passe vite Grade Special.
-- En doigts de Sukuna, progression rapide et continue (pas un saut) : 13 a l'entree (2005) -> 15 en 2006 -> 16 en 2007 -> 18 a la sortie du lycee (2008). Elle apprend vite au contact de Satoru et la competition l'empeche de se faire distancer : elle atteint son apogee (18) des la fin du lycee. Detail et reperes : cf. WIKI Power_Scaling/Doigts_de_Sukuna.md.
-- Trajectoire : numero 1 mondiale a partir de 2005, jusqu'a la transcendance de Gojo (2006, arc Hidden Inventory). Passe ensuite numero 2, loin derriere lui (Gojo 23 apres son eveil ; elle 15 puis 18).
+- Pre-universite : plafonnee Grade Special 1 (classement hors universite d'exorcisme, rang elite Zenin). Limite administrative, pas de puissance.
+- A l'universite (2005) : accede au classement officiel, passe vite Grade Special.
+- En doigts de Sukuna, progression rapide et continue (pas un saut) : 13 a l'entree (2005) -> 15 en 2006 -> 16 en 2007 -> 18 a la sortie de l'universite (2008). Elle apprend vite au contact de Satoru et la competition l'empeche de se faire distancer : elle atteint son apogee (18) des la fin de l'universite. Detail et reperes : cf. WIKI Power_Scaling/Doigts_de_Sukuna.md.
+- Trajectoire : numero 1 mondiale a partir de 2005 (18 ans), jusqu'a la transcendance de Gojo (2006, arc Hidden Inventory). Passe ensuite numero 2, loin derriere lui (Gojo 23 apres son eveil ; elle 15 puis 18).
 
 ## Chronologie noyau (jusqu'au point de depart, 2005)
 | Date | Jalon |
 |---|---|
-| 30 jan 1990 | Naissance des jumeaux. Naobito decu d'avoir une fille ; la planifie comme servante de Naoya. |
-| 30 jan 1994 | Eien se revele a Nisha (4 ans), offre la Chronokinesie. Naobito envisage de la renier ou de l'executer. Naoya la defend. |
-| aout 1994 | Eveil des innes : Naoya la Projection, Nisha la Chronostase. Eien commence a craindre pour sa suprematie. |
-| 1998 | Nisha etend son territoire (Sphere du Temps Infini, 8 ans). Fin du statut servile, devient favorite de Naobito. |
-| 2000 | Putsch d'Eien (10 ans), echoue. Nisha le sent, le dit a son pere. Faite Grade Special 1. |
-| 2005 | Scolarisee a Tokyo (Jujutsu High). Point de depart du RP jouable. |
+| 30 jan 1987 | Naissance des jumeaux. Naobito decu d'avoir une fille ; la planifie comme servante de Naoya. |
+| 30 jan 1991 | Eien se revele a Nisha (4 ans), offre la Chronokinesie. Naobito envisage de la renier ou de l'executer. Naoya la defend. |
+| aout 1991 | Eveil des innes : Naoya la Projection, Nisha la Chronostase. Eien commence a craindre pour sa suprematie. |
+| 1995 | Nisha etend son territoire (Sphere du Temps Infini, 8 ans). Fin du statut servile, devient favorite de Naobito. |
+| 1997 | Putsch d'Eien (10 ans), echoue. Nisha le sent, le dit a son pere. Faite Grade Special 1. |
+| 2005 | Inscrite a Tokyo (universite d'exorcisme). Point de depart du RP jouable. |
 
 ## Cinq raisons du transfert a Tokyo (2005)
 Apportees par le conseil Zenin (Naobito, Jinichi, Ogi).

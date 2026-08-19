@@ -1,12 +1,12 @@
 # Yorozu
 
-- version : W1
+- version : W2
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2015) comme objet maudit dormant puis esprit vaincu. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau = qui est Yorozu (identite, nature, sort, psychologie, histoire Heian) ; son eveil et sa mort en 2015 vivent en Trajectoire datee.
 
 ## Identite
-- Nom : Yorozu. Canon. Sorciere de l'ere Heian, originaire d'Aizu.
-- Epoque : Heian (age d'or du jujutsu), il y a plus de mille ans. Contemporaine de Sukuna.
+- Nom : Yorozu. Canon. Exorciste de l'ere Heian, originaire d'Aizu.
+- Epoque : Heian (age d'or de l'exorcisme), il y a plus de mille ans. Contemporaine de Sukuna.
 - Reconnue par le clan Fujiwara apres avoir vaincu les Cinq Generaux du Vide (unite de subjugation des Fujiwara), puis appelee a la capitale.
 - [DIVERGENCE RP] Transformee en objet maudit par Kenjaku (maitre des sceaux et des vaisseaux), ingeree et logee en DORMANCE dans Tsumiki Fushiguro avant 2008. Jamais reincarnee activement (a rebours du canon, ou Kenjaku la ressuscite comme joueuse du Culling Game) : reste un germe inerte et muet jusqu'a son eveil force en 2015.
 
@@ -16,14 +16,14 @@ Fiche noyau (canon + RP), entite entrant en scene en B3 (2015) comme objet maudi
 - [DIVERGENCE RP] En 2015 elle n'a jamais incarne le corps de Tsumiki (objet maudit dormant) : elle ne se manifeste que sous sa forme Heian propre, en projection, dans son territoire interieur (cf. Trajectoire datee). Le corps de Tsumiki n'est jamais porte par Yorozu.
 
 ## Nature : objet maudit dormant [DIVERGENCE RP]
-- Sorciere Heian transformee en objet maudit par Kenjaku. Esprit-germe complet (memoire, sort, personnalite intacts) scelle dans un etat inerte.
+- Exorciste Heian transformee en objet maudit par Kenjaku. Esprit-germe complet (memoire, sort, personnalite intacts) scelle dans un etat inerte.
 - Loge dans Tsumiki, profane, des avant 2008. Dormance muette : aucune action, aucune influence sur l'hote - Tsumiki reste pleinement eveillee et elle-meme (pas de coma, divergence avec le canon).
-- Possede son propre territoire interieur (le monde mental d'une sorciere Heian), accessible par intrusion : c'est la que se joue son unique combat (2015).
+- Possede son propre territoire interieur (le monde mental d'une exorciste Heian), accessible par intrusion : c'est la que se joue son unique combat (2015).
 - N'a aucun lien avec Eien (cf. Relations > Eien).
 
 ## Sort et style de combat
 - Sort inne : Construction (Kochiku Jutsushiki) - le MEME sort que Mai Zenin, maitrise a un niveau incomparablement superieur. Cree n'importe quelle matiere ou objet de memoire a partir d'energie occulte (sauf les cursed tools uniques).
-- Defaut du sort : tres gourmand en energie occulte (rendement faible), meme tare que Mai. Yorozu le compense par une reserve enorme (niveau des plus grands sorciers Heian) et des solutions de veterane.
+- Defaut du sort : tres gourmand en energie occulte (rendement faible), meme tare que Mai. Yorozu le compense par une reserve enorme (niveau des plus grands exorcistes Heian) et des solutions de veterane.
 - Metal liquide : sa creation signature. Masse variable, proprietes physiques stables, pilote par une energie occulte semi-autonome (manipulable a distance, meme detache d'elle). Base de tout son arsenal (armes, structures).
 - Armure d'insecte : sa parade au mauvais rendement du sort. Inspiree de l'efficacite energetique des insectes (carapace de chitine), forgee dans le metal liquide. Booste force, vitesse et durabilite -> redoutable au corps a corps.
 - Ailes d'insecte : construites dans le dos, lui donnent le vol.
@@ -70,7 +70,7 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Mai.md, Kenjaku.md, Eien.
 ## Chronologie noyau (jusqu'a la dormance)
 | Date/Ere | Jalon |
 |---|---|
-| Heian (>1000 ans) | Sorciere d'Aizu. Vainc les Cinq Generaux du Vide, reconnue par les Fujiwara, appelee a la capitale. Rencontre Sukuna au Festival des Moissons -> obsession. Tuee par Uraume pour son impudence. |
+| Heian (>1000 ans) | Exorciste d'Aizu. Vainc les Cinq Generaux du Vide, reconnue par les Fujiwara, appelee a la capitale. Rencontre Sukuna au Festival des Moissons -> obsession. Tuee par Uraume pour son impudence. |
 | Heian -> moderne | [DIVERGENCE RP] Transformee en objet maudit par Kenjaku (canon : avec son accord). |
 | pre-2008 | [DIVERGENCE RP] Scellee en dormance dans Tsumiki. Inerte, muette, sans effet sur l'hote. |
 
