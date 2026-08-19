@@ -1,6 +1,6 @@
 # _Implications
 
-- version : W14
+- version : W15
 
 Journal de conception (passes en spirale). Document de TRAVAIL : jamais fetche en narration.
 
@@ -15,6 +15,8 @@ Format libre : `<entite/lieu> | <arc ou contexte> | <point a verifier / doute / 
 - Kenjaku | noeud 2006 (A2) | OUVERT - seule consolidation A2 pending. L'op via la TVA (assassinat du Plasma Stellaire au service du Merger ; repetition du futur culte de Geto) est toujours forward-pointee dans Kenjaku.md (Notes de frontiere). A2 est desormais roadmappe (Roadmap_A2 W5) -> l'op est PORTABLE en Trajectoire datee, mais pas encore portee. DECISION worldbuilder : porter, ou laisser en Notes et traiter au fil de l'ere B/C.
 
 - BIBLE BUILD B13 | a la cloture de Passe 2 | A FAIRE (checklist) : SB0 (ajouter raw_base + parties_raw_base ; compte de pages 34 -> 45) ; SB4 (rosters des deux universites : cumuls 2009-2013, Nanami/Mei Mei 3e annee des avr 2013) ; SB5 (+11 fiches : Yorozu, Todo, Noritoshi_Kamo, Momo, Miwa, Mechamaru, Arata_Nitta, Toge, Yuta, Hakari, Kirara) ; SB7 (+ Lisiere du Supplice, + lunettes de vue occulte) ; SB8 (marquer la faille d'Eien DETONEE ; + T-Sceau / vente de Satoru ; + T-Secret-Naoya ; + T-Yorozu ; T-Tsumiki RESOLU ; T-Okaruto / T-Ames avec detonation ere C ; REFORMULER le mystere Shibuya : Nisha absente du COEUR de Shibuya / du face-a-face Kenjaku, pas de tout Shibuya - cf. noeud Mechamaru) ; SB3 (chronologie a structurer, optionnel) ; Resume.md (creation/mise a jour, obligation SPEC).
+
+- BIBLE BUILD (prochain) | thread Pedagogie, 2026-08 | A FAIRE, complement de la checklist ci-dessus (le numero reel sera celui du build courant, la BIBLE etant deja en B14) : SB8 (corriger la parenthese canon du mystere "Sort de Gojo" - "tue par Sukuna en 2024" confond date de parution et date in-world ; canon in-world VERIFIE : scelle a Shibuya le 31 oct 2018, libere puis tue par Sukuna le 24 dec 2018, Shinjuku ; statut du mystere INCHANGE : OUVERT, Nisha peut devier le cours ; formulation corrigee deja portee par Nisha.md W12) ; SB0 (ajouter le dossier Pedagogie/ a l'inventaire : Resume_Enseignements + Fleaux_Histoire_1eAnnee a ce jour) ; SB1/SB2/SB4 (reporter la doctrine scolaire depuis Pedagogie/Resume_Enseignements.md - deja prevu par cette page) ; SB4/SB5 (resumer le lore neuf : archives claniques - acces heritiers de branches principales, femmes Zenin exclues, exception Nisha 2000, Satoru s'en moque ; application cognitive/scribale de la Chronokinesie = statut de genie de Nisha ; prouveuse - corrige Yaga en cours + supplements du quatuor) ; Sommaire -> W+1 (indexer Fleaux_Histoire_1eAnnee W3 sous Pedagogie/ ; reporter les bumps du lot archives/prouveuse : Clan_Zenin W9, Clan_Gojo W3, Clan_Kamo W3, Nisha W12, Nisha_chrono_A W4, Naoya W12, Yaga W5, Satoru W8) ; Resume.md (rituel).
 
 - Nanami | scaling adulte | OUVERT : Grade 1 acte, nombre de doigts NON FIXE. Decision worldbuilder (repere : Grade 1 = 7-8 doigts au bareme ; record 4x Black Flash a la Parade a placer en coherence). A ajouter a Power_Scaling une fois tranche.
 
