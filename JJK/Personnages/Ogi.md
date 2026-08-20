@@ -1,6 +1,6 @@
 # Ogi Zenin
 
-- version : W3
+- version : W4
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -46,8 +46,10 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 |---|---|---|
 | printemps 2006 (A2_1bis) | Nargue en personne par Naoya et Nisha sur la loterie genetique du clan : ses filles sont les mauvais numeros (Maki bridee + Restriction Celeste, Mai bridee), Naobito le jackpot (ses jumeaux Naoya/Nisha en symbiose). Encaisse MUET - le Hei, lui compris, ne replique jamais aux jumeaux pour ne pas se faire humilier 2 contre 1 | humiliation publique avalee en silence ; rancoeur intacte |
 | 2006, post-pivot Toji (A2_6) | Siege au conseil (avec Naobito et Jinichi) quand les jumeaux soumettent leur doctrine edulcoree ("revoir nos investissements humains"). RIT - mais sous couvert du conseil : seul, il encaissait la vanne en silence ; adosse aux trois, il se decouvre des dents. La moquerie collective scelle le secret | co-auteur du rejet qui pousse les jumeaux a appliquer la doctrine en douce |
+| 24 dec 2017 (B3) | NUIT DES CENT FLEAUX, Kyoto : alerte par Nisha via Naoya, monte a la vieille ville AVEC LE CONSEIL au complet. Le clan combat aux cotes de l'universite de Kyoto - fleaux ET maitres des fleaux, aucun prisonnier, aucun mort cote universite | pilier du Hei engage au front de Kyoto ; conseil au complet |
 
 ## Notes de frontiere (hors noyau)
+- Detail du beat de la Nuit des Cent Fleaux (actions individuelles au front) : cf. Roadmap/Nisha/Roadmap_B3.md (a builder).
 - Devenir post-2005 (complot contre Megumi, tentative d'execution de Maki et Mai, mort par Maki, canon) -> roadmap.
 - Mecanique gemellaire de Maki/Mai (Restriction Celeste, pool) : cf. fiches Maki/Mai et pool gemellaire (Personnages/Nisha.md).
 

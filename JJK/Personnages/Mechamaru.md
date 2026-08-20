@@ -1,6 +1,6 @@
 # Kokichi Muta (Mechamaru)
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e annee a Kyoto (via son robot). Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -42,7 +42,7 @@ Fiches propres : cf. Personnages/Utahime.md, Miwa.md, Nisha.md ; Factions/Clan_K
 - Rattachement tertiaire qu'il ignore lui-meme.
 
 ## Grade et scaling
-- [DIVERGENCE RP] ~6 doigts exploite (via le robot), sur un reservoir et une portee (nationale) bien au-dela. A integrer a la table de Power_Scaling (dette).
+- [DIVERGENCE RP] ~6 doigts exploite (via le robot), sur un reservoir et une portee (nationale) bien au-dela. Integre a la table de Power_Scaling (cf. Power_Scaling/Doigts_de_Sukuna.md).
 
 ## Chronologie noyau
 | Date/Ere | Jalon |

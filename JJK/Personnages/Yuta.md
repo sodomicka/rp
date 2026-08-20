@@ -1,6 +1,6 @@
 # Yuta Okkotsu
 
-- version : W3
+- version : W4
 
 Fiche noyau (canon + RP), entite entrant en scene en cours d'annee 2017 (B3) comme eleve de l'universite de Tokyo. Rika integree a cette fiche. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -36,7 +36,7 @@ Fiches propres : cf. Personnages/Satoru.md, Nisha.md. Ici, seul le rapport a Yut
 - [DIVERGENCE RP] Enseignement (debut 2018) : tant que Rika est incontrolee, Nisha OBSERVE mais n'enseigne pas. C'est POST-mort de Geto, une fois CERTAINE que Rika n'est pas une vraie menace, qu'elle lui transmet ses deux sorts temporels. Grace a sa Copie, Yuta REPRODUIT la Chronokinesie (manipulation/acceleration du temps) - mais PAS la Chronostase : son metabolisme n'en supporte pas le cout calorique. La Chronokinesie copiee lui servira a rentrer tres vite d'Afrique (cf. Notes de frontiere).
 
 ## Grade et scaling
-- [DIVERGENCE RP] ~12 doigts en fin de JJK0 (2017) avec Rika ; instable et bas a l'arrivee. Monte a ~15 a Shibuya (ere C). A integrer a la table de Power_Scaling (dette).
+- [DIVERGENCE RP] ~12 doigts en fin de JJK0 (2017) avec Rika ; instable et bas a l'arrivee. Monte a ~15 a Shibuya (ere C). Integre a la table de Power_Scaling (cf. Power_Scaling/Doigts_de_Sukuna.md).
 
 ## Chronologie noyau
 | Date/Ere | Jalon |

@@ -1,6 +1,6 @@
 # Yorozu
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2015) comme objet maudit dormant puis esprit vaincu. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau = qui est Yorozu (identite, nature, sort, psychologie, histoire Heian) ; son eveil et sa mort en 2015 vivent en Trajectoire datee.
 
@@ -31,7 +31,7 @@ Fiche noyau (canon + RP), entite entrant en scene en B3 (2015) comme objet maudi
 - Extension de Territoire : "Triple Affliction" - espace vide ponctue de structures organiques flottantes (evoquant des ganglions d'insectes). Effet garanti : genere les Spheres Veritables en sure-hit (toucher garanti = destruction). Note : en 2015, Yorozu ne projette pas Triple Affliction sur la realite - elle est combattue dans son propre territoire interieur, tandis que Nisha deploie son Extension de Territoire sur le plan materiel (cf. Trajectoire datee).
 
 ## Grade et scaling
-- [DIVERGENCE RP] 16 doigts (59.51 %). Top tier de l'ere Heian, un cran sous Nisha adulte (18 / 78.15 %). A integrer a la table de Power_Scaling au prochain BIBLE BUILD (dette).
+- [DIVERGENCE RP] 16 doigts (59.51 %). Top tier de l'ere Heian, un cran sous Nisha adulte (18 / 78.15 %). Integre a la table de Power_Scaling (cf. Power_Scaling/Doigts_de_Sukuna.md).
 - Lecture : dans son territoire interieur (combat 2015), Yorozu deploie sa PLEINE puissance - le corps profane de Tsumiki ne la bride pas, le duel etant spirituel et non porte par l'enveloppe. C'est ce qui justifie un exploite de 16, et non un exploite rabote par l'hote.
 - Reference canon : a tenu tete a Sukuna-dans-Megumi un temps (coups directs, encaisse les Dix Ombres) avant d'etre achevee par Mahoraga. Dans le RP, elle est battue par Nisha, jamais par Sukuna.
 

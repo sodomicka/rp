@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Power-scaling
 
-- version : W8
+- version : W9
 
 ## Unite
 - Unite de puissance de l'univers = le doigt de Sukuna.
@@ -81,6 +81,7 @@ Note : Grade Special 1 (rang elite des grandes familles, hors universite d'exorc
 | Todo (2017-2018) | 7 | 11.33 | [DIVERGENCE RP] eleve de Nisha (promo 2016-2019), Boogie Woogie ; sommet de sa generation d'eleves |
 | Naoya (2005) | 8 | 14.09 | [DIVERGENCE RP] -> courbe A2 (10/11/12), 14 adulte ; cf. Courbes A2 |
 | Hakari (2017-2018) | 8 | 14.09 | [DIVERGENCE RP] base Grade 1 ; en MODE JACKPOT, ponctuellement HORS-ECHELLE (intuable ~4 min, cf. fiche) |
+| Nanami (adulte, ere B) | 8 | 14.09 | [DIVERGENCE RP] Grade 1 ; prof de 3e annee a Tokyo des avr 2013 ; record 4x Black Flash au front de Tokyo (Parade 2017) |
 | Gakuganji | 9 | 17.44 | [DIVERGENCE RP] Grade Special 1 (hors-grading des universites), plus fort que Yaga |
 | Jinichi | 10 | 21.41 | [DIVERGENCE RP] pilier du Hei |
 | Gojo (2005, pre-Toji) | 12 | 31.30 | -> 14 en 2006 puis 23 a l'eveil ; cf. Courbes A2 |
@@ -174,7 +175,7 @@ Note : en DUO, des combinaisons depassent 23 (Maki+Mai, Satoru+Nisha a apogee ; 
 - Courbes A2 (Nisha, Gojo, Geto, Naoya) : [DIVERGENCE RP], cadence de progression fournie par le worldbuilder.
 - Reperes Shoko, Yaga, Gakuganji, Mei Mei, Utahime : [DIVERGENCE RP], cales sur leurs fiches noyau. Mei Mei et Utahime evoluent post-2008 (Mei Mei 5 -> 7 ; Utahime 4 -> 5). Shoko et Utahime se lisent en soutien / soin, hors-axe combat.
 - Casting B3 (Yorozu, Todo, Noritoshi, Momo, Miwa, Mechamaru, Toge, Yuta, Hakari, Kirara) : [DIVERGENCE RP], scalings fournis par le worldbuilder (session B3). Arata Nitta hors-axe (assistant manager).
-- Nanami adulte (Grade 1, ere B) : nombre de doigts NON FIXE -> decision worldbuilder pendante (cf. _Implications).
+- Nanami adulte : 8 doigts (Grade 1). [DIVERGENCE RP] fixe par le worldbuilder - cale sur sa resistance canon face a Mahito et sur le record 4x Black Flash. Nanami etudiant (A2) reste a ~3-4 doigts, Grade 2.
 - Yuki Tsukumo, assistant managers : [DIVERGENCE RP], lecture worldbuilder.
 - Loi synergie/symbiose : [DIVERGENCE RP], calee sur les apogees fournis par le worldbuilder. Split synergie +10 % / symbiose +16 % ; le total +26 % est impose par l'apogee Naoya+Nisha = 24 doigts. syn/sym par duo fixes au cas par cas en roadmap (actes : Mei Mei+Ui Ui 100 % ; Nisha+Geto 85 % en 2006-2007).
 - Partage gemellaire Maki/Mai : [DIVERGENCE RP], table fournie par le worldbuilder ; mecanique du curseur -> roadmap.

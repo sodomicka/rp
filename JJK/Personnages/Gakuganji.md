@@ -1,6 +1,6 @@
 # Yoshinobu Gakuganji
 
-- version : W2
+- version : W3
 
 Page = fiche noyau legere (le gros est couvert par Factions/Hautes_Instances.md et Factions/Universite_Kyoto.md). Etat atemporel / point de depart 2005. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -9,6 +9,7 @@ Page = fiche noyau legere (le gros est couvert par Factions/Hautes_Instances.md 
 - Vieillard, doyen des exorcistes en activite ; des decennies de manoeuvres politiques.
 - Seul visage public des hautes instances (cf. Factions/Hautes_Instances.md).
 - En 2005, deja principal ET professeur : il assure le suivi de la promo de Naoya (2005-2008) (cf. Factions/Universite_Kyoto.md).
+- Des 2009 il CUMULE de nouveau le principalat et la 3e annee, jusqu'a la ceder a Mei Mei en avril 2013 (cf. Trajectoire datee).
 
 ## Physique
 - Canon : vieil homme, crane chauve, kimono ceremoniel, allure d'autorite austere. Contraste assume avec sa guitare electrique.
@@ -49,6 +50,12 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 |---|---|
 | pre-2005 | Histoire canon-pure. Devient principal de Kyoto et membre des hautes instances ; des decennies de manoeuvres. |
 | 2005 | Principal ET professeur de la promo de Naoya. Grade Special 1, 9 doigts. Point de depart du RP. |
+
+## Trajectoire datee (alimentee a chaud arc par arc)
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| 2009-2013 (B1) | CUMULE le principalat de Kyoto et le poste de professeur de 3e annee, comme il l'avait fait pour la promo de Naoya. Utahime tient la 1re annee, Nisha la 2e des 2009 | double charge assumee ; pole conservateur tenu de bout en bout |
+| mars 2013 (B1) | Accepte la recommandation de Nisha et Utahime : recrute Mei Mei comme professeure de 3e annee, quitte a puiser dans les fonds de l'universite pour la retenir (cf. Personnages/Mei_Mei.md) | cede la 3e annee des avr 2013, garde le principalat |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Execution de Yaga (post-Shibuya, sur refus du secret des cadavres maudits) : evenement posterieur -> roadmap.

@@ -1,6 +1,6 @@
 # Aoi Todo
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -35,7 +35,7 @@ Fiches propres : cf. Personnages/Yuki.md, Nisha.md. Ici, seul le rapport a Todo.
 - Camarades de 2e annee. Todo, le cogneur du groupe.
 
 ## Grade et scaling
-- [DIVERGENCE RP] 7 doigts (11.33 %), Grade 1. Zone Naoya-universite / Ogi / Yaga. A integrer a la table de Power_Scaling (dette).
+- [DIVERGENCE RP] 7 doigts (11.33 %), Grade 1. Zone Naoya-universite / Ogi / Yaga. Integre a la table de Power_Scaling (cf. Power_Scaling/Doigts_de_Sukuna.md).
 
 ## Chronologie noyau
 | Date/Ere | Jalon |

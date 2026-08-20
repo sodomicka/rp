@@ -1,6 +1,6 @@
 # Kasumi Miwa
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e annee a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -35,7 +35,7 @@ Fiches propres : cf. Personnages/Utahime.md, Nisha.md. Ici, seul le rapport a Mi
 - 1e annee avec Mai et Muta (Arata les rejoint a la rentree d'avril 2018). Muta a un crush sur elle (cf. Mechamaru).
 
 ## Grade et scaling
-- [DIVERGENCE RP] 3 doigts, Grade 3 (technique-dependante). A integrer a la table de Power_Scaling (dette).
+- [DIVERGENCE RP] 3 doigts, Grade 3 (technique-dependante). Integre a la table de Power_Scaling (cf. Power_Scaling/Doigts_de_Sukuna.md).
 
 ## Chronologie noyau
 | Date/Ere | Jalon |

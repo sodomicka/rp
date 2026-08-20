@@ -1,6 +1,6 @@
 # Naobito Zenin
 
-- version : W6
+- version : W7
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -58,8 +58,10 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 |---|---|---|
 | printemps 2006 (A2_1bis) | Invoque comme "le jackpot" de la loterie genetique dans la vanne des jumeaux narguant Ogi (ses jumeaux Naoya/Nisha en symbiose, contre les filles bridees du cadet). Reference indirecte - cite, pas necessairement en scene | neant (caracterisation) |
 | 2006, post-pivot Toji (A2_6) | Preside le conseil quand les jumeaux soumettent leur doctrine edulcoree ("Toji etait fort, on l'a cru faible ; dangereux d'en creer un autre, plus rancunier"). RIT - le chef meprise jusqu'a ses propres prodiges ("on n'offre rien chez les Zenin"). Verdict borne : "il n'y aura pas d'autre Toji" | son rejet (avec Ogi et Jinichi) scelle le secret ; les jumeaux basculent en clandestin |
+| 24 dec 2017 (B3) | NUIT DES CENT FLEAUX, Kyoto : alerte par Nisha via Naoya, monte a la vieille ville AVEC LE CONSEIL au complet. Le clan combat aux cotes de l'universite de Kyoto - fleaux ET maitres des fleaux, aucun prisonnier, aucun mort cote universite | patriarche et conseil engages au front de Kyoto, hors du domaine |
 
 ## Notes de frontiere (hors noyau)
+- Detail du beat de la Nuit des Cent Fleaux (actions individuelles au front) : cf. Roadmap/Nisha/Roadmap_B3.md (a builder).
 - Mort a Shibuya (2018, canon : combat Dagon, one-shot par Jogo dans la foulee) : posterieure au point de depart, et le plot RP peut diverger -> roadmap, hors fiche noyau.
 - Fiches de Naoya, Jinichi, Ogi : cf. Personnages/Naoya.md, Jinichi.md, Ogi.md. Fondation et lignee : cf. Cosmogonie/Trois_Esprits.md et Factions/Clan_Zenin.md.
 

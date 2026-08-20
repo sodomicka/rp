@@ -1,6 +1,6 @@
 # Kinji Hakari
 
-- version : W4
+- version : W5
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee a Tokyo, suspendu en cours d'arc. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -40,7 +40,7 @@ Fiches propres : cf. Personnages/Kirara.md, Satoru.md, Nisha.md ; Factions/Haute
 - [DIVERGENCE RP] Nisha ne le defend PAS : elle SOUTIENT sa suspension, qu'elle juge meme trop clemente. Sa doctrine : on a l'ambition de RENVERSER les Hautes Instances (ce qu'elle planifie, elle, avec les Zenin) - ou on s'abstient. Frapper un haut-place par CAPRICE, c'est s'attirer une sentence bien pire pour rien. Elle peut reconnaitre la puissance de Hakari (futur rival de son epoux) tout en meprisant son immaturite.
 
 ## Grade et scaling
-- [DIVERGENCE RP] 8 doigts (Grade 1) de base ; en Mode Jackpot, ponctuellement HORS-ECHELLE (intuable le temps d'une chanson). A integrer a la table de Power_Scaling (dette).
+- [DIVERGENCE RP] 8 doigts (Grade 1) de base ; en Mode Jackpot, ponctuellement HORS-ECHELLE (intuable le temps d'une chanson). Integre a la table de Power_Scaling (cf. Power_Scaling/Doigts_de_Sukuna.md).
 
 ## Chronologie noyau
 | Date/Ere | Jalon |

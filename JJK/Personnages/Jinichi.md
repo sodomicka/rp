@@ -1,6 +1,6 @@
 # Jinichi Zenin
 
-- version : W4
+- version : W5
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -40,8 +40,10 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 2006, post-pivot Toji (A2_6) | Siege au conseil (avec Naobito et Ogi) quand les jumeaux soumettent leur doctrine edulcoree. NE rit PAS : concede la possibilite en theorie, mais reste certain que les jumelles (Maki/Mai) n'egaleront jamais Toji - peu importe combien il a hai son frere, c'est le deni de celui qui a connu la bete. Borne le verdict : "il n'y aura pas d'autre Toji" | sa certitude verrouille le verdict du conseil et scelle le secret des jumeaux |
+| 24 dec 2017 (B3) | NUIT DES CENT FLEAUX, Kyoto : alerte par Nisha via Naoya, monte a la vieille ville AVEC LE CONSEIL au complet. Le clan combat aux cotes de l'universite de Kyoto - fleaux ET maitres des fleaux, aucun prisonnier, aucun mort cote universite | pilier du Hei engage au front de Kyoto ; conseil au complet |
 
 ## Notes de frontiere (hors noyau)
+- Detail du beat de la Nuit des Cent Fleaux (actions individuelles au front) : cf. Roadmap/Nisha/Roadmap_B3.md (a builder).
 - Devenir post-2005 (positions lors de la succession ; mort lors du massacre du clan par Maki, canon) -> roadmap.
 - Date de depart de Toji du clan : cf. fiche Toji.
 

@@ -1,6 +1,6 @@
 # Toge Inumaki
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e annee a Tokyo. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -32,7 +32,7 @@ Fiches propres : cf. Personnages/Maki.md, Panda.md, Nisha.md, Satoru.md. Ici, se
 - Son enseignant de 1e annee.
 
 ## Grade et scaling
-- [DIVERGENCE RP] 5 doigts (Grade 2) en 2017. A integrer a la table de Power_Scaling (dette).
+- [DIVERGENCE RP] 5 doigts (Grade 2) en 2017. Integre a la table de Power_Scaling (cf. Power_Scaling/Doigts_de_Sukuna.md).
 
 ## Chronologie noyau
 | Date/Ere | Jalon |

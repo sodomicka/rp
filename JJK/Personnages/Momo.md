@@ -1,6 +1,6 @@
 # Momo Nishimiya
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -31,7 +31,7 @@ Fiches propres : cf. Personnages/Nisha.md. Ici, seul le rapport a Momo.
 - Camarades de 2e annee. Momo, l'appui aerien des deux cogneurs.
 
 ## Grade et scaling
-- [DIVERGENCE RP] 4 doigts (6.24 %), Grade 2, hors-axe combat (soutien). A integrer a la table de Power_Scaling (dette).
+- [DIVERGENCE RP] 4 doigts (6.24 %), Grade 2, hors-axe combat (soutien). Integre a la table de Power_Scaling (cf. Power_Scaling/Doigts_de_Sukuna.md).
 
 ## Chronologie noyau
 | Date/Ere | Jalon |

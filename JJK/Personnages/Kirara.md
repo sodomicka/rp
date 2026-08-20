@@ -1,6 +1,6 @@
 # Kirara Hoshi
 
-- version : W3
+- version : W4
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee a Tokyo. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -31,7 +31,7 @@ Fiches propres : cf. Personnages/Hakari.md, Nisha.md. Ici, seul le rapport a Kir
 - [DIVERGENCE RP] Pas de rapport direct marquant ; Nisha la/le voit surtout comme l'ombre de Hakari. Le soutien de Nisha a la suspension (cf. Hakari) couvre aussi le choix de Kirara de le suivre.
 
 ## Grade et scaling
-- [DIVERGENCE RP] 4 doigts (soutien / controle). A integrer a la table de Power_Scaling (dette).
+- [DIVERGENCE RP] 4 doigts (soutien / controle). Integre a la table de Power_Scaling (cf. Power_Scaling/Doigts_de_Sukuna.md).
 
 ## Chronologie noyau
 | Date/Ere | Jalon |

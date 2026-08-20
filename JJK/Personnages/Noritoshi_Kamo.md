@@ -1,6 +1,6 @@
 # Noritoshi Kamo
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -42,7 +42,7 @@ Fiches propres : cf. Personnages/Nisha.md, Kenjaku.md ; Factions/Clan_Kamo.md. I
 - Camarades de 2e annee. Noritoshi, le capitaine et le cadre serieux du groupe.
 
 ## Grade et scaling
-- [DIVERGENCE RP] 5 doigts (7.44 %), semi-Grade 1. A integrer a la table de Power_Scaling (dette).
+- [DIVERGENCE RP] 5 doigts (7.44 %), semi-Grade 1. Integre a la table de Power_Scaling (cf. Power_Scaling/Doigts_de_Sukuna.md).
 
 ## Chronologie noyau
 | Date/Ere | Jalon |

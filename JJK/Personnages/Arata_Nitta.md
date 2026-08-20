@@ -1,6 +1,6 @@
 # Arata Nitta
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entite entrant en scene tout en fin de B3 (rentree d'avril 2018) comme eleve de 1e annee a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -33,7 +33,7 @@ Fiches propres : cf. Personnages/Nitta.md (Akari), Utahime.md. Ici, seul le rapp
 - Lien indirect via Akari (proche de Nisha). Pas de rapport direct etabli au seuil de son entree.
 
 ## Grade et scaling
-- [DIVERGENCE RP] Hors-axe combat (soutien). Reserve d'energie modeste, peu de maitrise offensive ; sa valeur est l'utilite, pas la puissance. A integrer a Power_Scaling si pertinent (dette).
+- [DIVERGENCE RP] Hors-axe combat (soutien). Reserve d'energie modeste, peu de maitrise offensive ; sa valeur est l'utilite, pas la puissance. Porte a Power_Scaling comme hors-axe combat (cf. Power_Scaling/Doigts_de_Sukuna.md).
 
 ## Chronologie noyau
 | Date/Ere | Jalon |
