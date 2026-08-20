@@ -1,9 +1,9 @@
 # Midoriya Izuku
 
-- version : W1
+- version : W2
 
 ## Identite
-- "Deku". Ne un 15 juillet (15 ans a l'An 0). Taille : 1 m 66.
+- "Deku". Ne un 15 juillet (18 ans a l'An 0 ; 19 le 15 juillet de sa 1re annee). Taille : 1 m 66.
 - 9e porteur d'One For All. Ne SANS Alter - diagnostic a 4 ans.
 - Eleve de 1-A. Mere : Midoriya Inko. Pere absent (a l'etranger, canon).
 

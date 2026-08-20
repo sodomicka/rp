@@ -1,17 +1,17 @@
 # Shido Murasaki
 
-- version : W7
+- version : W9
 
 Fiche NEUTRE (entite de lore). L'instance jouee (etat courant, run) vit en CODEX + Parties/.
 
 ## Identite
 - Nom : Shido Murasaki (glose : shi-do = "glycine pourpre" ; murasaki = "pourpre"). Surnom : Mura - ne du dernier mot de sa mere, "Je t'aime, Mura-", le prenom jamais acheve, enregistre par son equipement.
-- Naissance : 30 janvier, An -14. 14 ans a la rentree de l'An 0 ; 15 ans le 30 janvier de sa 1re annee.
-- Statut : matriarche du clan Shido (3e fortune du Japon) depuis ses 7 ans. Eleve de 1-A a Yuei [DIVERGENCE RP - 21e eleve].
+- Naissance : 30 janvier, An -18. 18 ans a la rentree de l'An 0 ; 19 ans le 30 janvier de sa 1re annee.
+- Statut : matriarche du clan Shido (3e fortune du Japon) depuis ses 11 ans. Eleve de 1-A a Yuei [DIVERGENCE RP - 21e eleve].
 - HERITIERE PUBLIQUE : l'identite civile de Chronos etait publique et assumee (cf. Personnages/Shido_Chizuru.md) - la nation sait que la matriarche Shido est la fille de Chronos.
-- Un an d'avance : derogation exceptionnelle sans precedent canon, obtenue au merite pur, jamais a l'influence du clan [DIVERGENCE RP].
+- Nee un 30 janvier, tout en fin de fenetre de cohorte (2 avril An -19 - 1er avril An -18) : parmi les plus jeunes de la promo - aucune derogation, aucun passe-droit.
 - Nom de guerre vise : Chronos. Elle est Chronos, fille de Chronos. PROJET PRIVE : personne hors du clan ne sait qu'elle compte reprendre le nom.
-- Pere : inconnu de tous. Non-sujet definitif.
+- Pere : inconnu de tous. Statut lore : mystere OUVERT (cf. BIBLE SB8), identite et revelation non actees.
 - Taille : 1 m 48, taille adulte atteinte des 15 ans - comme sa mere. Poids : non fixe [INCERTAIN].
 - Residence scolaire : penthouse de tres grand standing pres de Yuei - depense negligeable a l'echelle de sa fortune.
 
@@ -21,7 +21,7 @@ Fiche NEUTRE (entite de lore). L'instance jouee (etat courant, run) vit en CODEX
 - Costume : variation du costume maternel - kimono de combat noir a motifs de glycine, epaulieres grises, obi violet, hakama sombre, mitaines, sacoches de ceinture, sandales renforcees.
 - Masque technique sombre couvrant nez et bouche : regulation active de la respiration selon l'effort. Design propre, distinct du masque d'etoffe brodee de sa mere - c'est le costume qui reprend le design maternel.
 - Brassard d'avant-bras a module spherique : distributeur de billes de tungstene, concu par le clan pour son costume.
-- Gourmette portee en permanence : contient l'enregistrement des derniers mots de sa mere. Routine du soir immuable depuis ses 7 ans : l'ecouter avant de dormir.
+- Gourmette portee en permanence : contient l'enregistrement des derniers mots de sa mere. Routine du soir immuable depuis ses 11 ans : l'ecouter avant de dormir.
 
 ## Traits actes
 - Arrogante, fiere, conservatrice, elitiste, tres intelligente. Et, avant tout : juste.
@@ -42,11 +42,11 @@ Cf. Systemes/Chronokinesie.md pour le systeme complet (dont : contact direct obl
 ## Capacites hors Alter
 - Cerveau entraine a carburer au maximum meme sans chronokinesie - demontre a l'examen d'entree (cf. Trajectoire datee).
 - Erudition encyclopedique : lectures d'une complexite croissante depuis l'enfance, jusqu'a la physique quantique vers 14-15 ans.
-- Entrainement physique quotidien auto-impose depuis ses 7 ans : puissance deja de niveau pro a l'entree a Yuei. Il ne lui manquait que la theorie heroique.
+- Entrainement physique quotidien auto-impose depuis ses 11 ans : puissance deja de niveau pro a l'entree a Yuei. Il ne lui manquait que la theorie heroique.
 
 ## Histoire (jusqu'au point de depart)
-- An -14 : naissance pendant la 1re annee de sa mere a Yuei. Elevee entre le domaine de Kyoto et l'ombre d'une mere en ascension.
-- An -7 : mort de Chronos face a AFO. Mura, 7 ans, devient matriarche. Debut de l'entrainement auto-impose : un seul but, venger sa mere, quoi qu'il en coute. Aux funerailles : pas une larme, poings et machoire serres - l'avenir deja trace. A l'etang du domaine, All Might lui donne l'histoire complete : elle connaissait le nom du meurtrier, pas son histoire.
+- An -18 : naissance pendant la 1re annee de sa mere a Yuei. Elevee entre le domaine de Kyoto et l'ombre d'une mere en ascension.
+- An -7 : mort de Chronos face a AFO. Mura, 11 ans, devient matriarche. Debut de l'entrainement auto-impose : un seul but, venger sa mere, quoi qu'il en coute. Aux funerailles : pas une larme, poings et machoire serres - l'avenir deja trace. A l'etang du domaine, All Might lui donne l'histoire complete : elle connaissait le nom du meurtrier, pas son histoire.
 - An -7 a An 0 : direction du clan avec l'appui du conseil. Visites regulieres d'All Might. Refuse son offre d'heriter d'OFA : elle tuera AFO sans artifice, avec le seul Alter de sa mere. Date exacte du refus [INCERTAIN].
 - Candidature a Yuei par la voie commune : refus du privilege de la recommandation pourtant proposee par All Might - la meme voie que sa mere, la preuve par le merite.
 - An 0 (fevrier) : POINT DE DEPART DU RP - veille de l'examen (cf. Roadmap R0). Tout ce qui suit se joue ; les issues par defaut vivent en Trajectoire datee.
@@ -61,7 +61,7 @@ Cf. Systemes/OFA_AFO.md, table des cercles. En bref, Mura sait TOUT :
 
 ## Relations
 - Shido Chizuru - mere. Modele absolu, blessure fondatrice. Cf. Personnages/Shido_Chizuru.md.
-- All Might - ami de sa mere, mentor-confident depuis ses 7 ans. C'est lui qui a ramene le corps. Chacun est relativement le confident de l'autre.
+- All Might - ami de sa mere, mentor-confident depuis ses 11 ans. C'est lui qui a ramene le corps. Chacun est relativement le confident de l'autre.
 - Conseil du clan - devouement total, reciproque de respect.
 - Endeavor - connu depuis les funerailles. Il ignore tout des secrets.
 - Midoriya - le successeur qu'elle n'a pas voulu etre. Jugement en suspens.

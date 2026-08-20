@@ -1,9 +1,9 @@
 # Bakugo Katsuki
 
-- version : W1
+- version : W2
 
 ## Identite
-- Ne un 20 avril (15 ans a l'An 0). Taille : 1 m 72. Eleve de 1-A.
+- Ne un 20 avril (18 ans a l'An 0 ; 19 des le 20 avril - doyen de cohorte). Taille : 1 m 72. Eleve de 1-A.
 
 ## Description physique
 - Cheveux blond cendre en piques, yeux rouges, sourcils fronces permanents. Athletique.

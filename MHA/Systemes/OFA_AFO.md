@@ -1,6 +1,6 @@
 # OFA / AFO
 
-- version : W1
+- version : W2
 
 Savoir verrouille : rien de cette page n'est public a l'An 0. Cercles de secret en fin de page.
 
@@ -10,7 +10,7 @@ Savoir verrouille : rien de cette page n'est public a l'An 0. Cercles de secret 
 - Arsenal : cumul d'Alters voles combinables en un seul corps.
 - Reseau : Dr Garaki (savant, duplication d'Alters, creatures Nomu - detail canon tardif), Ligue des Vilains (facade montante), heritier designe : Shigaraki Tomura.
 - Etat a l'An 0 : grievement mutile depuis son duel contre All Might (An -6). Survit cache sous assistance vitale. Prepare sa succession.
-- A tue Chronos (Shido Chizuru) a l'An -8. Version publique : vilain jamais identifie.
+- A tue Chronos (Shido Chizuru) a l'An -7. Version publique : vilain jamais identifie.
 
 ## One For All
 - Genese : AFO greffe un Alter de stockage de force a son frere cadet, deja porteur d'un Alter de transmission. Les deux fusionnent : OFA nait.
@@ -31,7 +31,7 @@ Savoir verrouille : rien de cette page n'est public a l'An 0. Cercles de secret 
 | Existence d'AFO (l'homme) | All Might ; Gran Torino ; insp. Tsukauchi [INCERTAIN sur l'etendue] ; Mura + clan Shido (promesse de silence) [DIVERGENCE RP - ajout] ; cercle criminel d'AFO |
 | Mecanique d'OFA | All Might ; Gran Torino ; Recovery Girl ; Sir Nighteye ; Tsukauchi [INCERTAIN timing canon] ; Mura + clan Shido [DIVERGENCE RP - ajout] ; Midoriya |
 | Identite du 9e porteur (Midoriya) | All Might ; Mura [DIVERGENCE RP - ajout] ; gardiens historiques [INCERTAIN au cas par cas] |
-| Vraie forme d'All Might | Les memes gardiens ; Midoriya ; Mura (visites depuis An -8) |
+| Vraie forme d'All Might | Les memes gardiens ; Midoriya ; Mura (visites depuis An -7) |
 | Survie reelle d'AFO | Personne cote heros ne la TIENT pour un fait. Mura seule la POSTULE (conviction, pas preuve) |
 - Togata Mirio ignore OFA a l'An 0 [INCERTAIN - a verifier au canon].
 - Endeavor : hors de TOUS les cercles. Ignore qui a tue Chronos, et deteste ne pas savoir.

@@ -1,6 +1,6 @@
 # Societe Heroique
 
-- version : W2
+- version : W3
 
 ## Alters - generalites
 - ~80% de l'humanite porte un Alter : pouvoir inne, unique a chaque individu.
@@ -18,10 +18,11 @@
 - Organe d'Etat : delivrance des licences, supervision des agences, palmares.
 - Palmares periodique des heros : resolution d'incidents + contribution sociale + popularite.
 - Sommet du palmares a l'An 0 : All Might n1, Endeavor n2.
-- [DIVERGENCE RP] Avant l'An -8 : Chronos (Shido Chizuru) alternait 2e-3e avec Endeavor.
+- [DIVERGENCE RP] An -13 a An -7 : Chronos (Shido Chizuru) alternait 2e-3e avec Endeavor.
 
-## Lycee Yuei
-- Premiere ecole de heros du Japon, campus fortifie a Musutafu. Principal : Nezu.
+## Universite Yuei
+- Premiere institution de formation des heros du Japon, campus fortifie a Musutafu. Principal : Nezu.
+- Universite : cursus post-bac de 3 ans (bac+1 a bac+3), entree a 18 ans (cohorte avril-avril) [DIVERGENCE RP, cf. BIBLE SB1 - etabli depuis toujours, jamais commente en jeu].
 - Filieres : heroique (1-A, 1-B), generale, support (equipement), gestion.
 - Passerelle generale -> heroique possible sur resultats (rare).
 
@@ -35,13 +36,13 @@
 - Le score officiel s'exprime en POURCENTAGE d'un referentiel professionnel, plafonne a 100.
 - Calibration : 100 = la performance qu'un heros du top 10 atteindrait au moins, en solo sur le parcours, par un melange de destruction et d'heroisme.
 - References internes de calibration : un Endeavor ou un All Might tournerait a ~200 en destruction pure ; une Recovery Girl a ~150 en soutien pur.
-- Le bareme est prevu pour des candidats lyceens : scores attendus chez de jeunes recrues prometteuses, 50 a 80.
+- Le bareme est prevu pour des candidats a l'entree (jeunes bacheliers) : scores attendus chez de jeunes recrues prometteuses, 50 a 80.
 - Points de combat et points de sauvetage s'additionnent sous le plafond ; l'excedent est ecrase (sature), non affiche.
-- Personne n'avait jamais sature le bareme avant Mura (An 0) : premier 100 de l'histoire de l'examen (80 destruction + 20 sauvetage affiches ; 140 reels). Personne avant elle n'etait arrive au lycee si pres du niveau pro - voire au-dessus, theorie heroique et esprit d'equipe mis a part.
+- Personne n'avait jamais sature le bareme avant Mura (An 0) : premier 100 de l'histoire de l'examen (80 destruction + 20 sauvetage affiches ; 140 reels). Personne avant elle n'etait arrive a l'universite si pres du niveau pro - voire au-dessus, theorie heroique et esprit d'equipe mis a part.
 
-### Scolarite heroique
+### Cursus heroique
 - Cours generaux + formation heroique (combats d'entrainement, secourisme, gestion de catastrophe).
-- Licence provisoire : examen national ouvrant un droit d'exercice encadre aux lyceens.
+- Licence provisoire : examen national ouvrant un droit d'exercice encadre aux etudiants.
 - Stages en agence aupres de heros pro : premiere exposition au terrain.
 - Costumes : concus sur declaration d'equipement, fabrication par la filiere support ou des entreprises agreees.
 

@@ -1,13 +1,13 @@
 # Yaoyorozu Momo
 
-- version : W1
+- version : W2
 
 ## Identite
-- Nee un 23 septembre (15 ans a l'An 0). Taille : 1 m 73. Eleve de 1-A, admise sur recommandation.
+- Nee un 23 septembre (18 ans a l'An 0 ; 19 le 23 septembre de sa 1re annee). Taille : 1 m 73. Eleve de 1-A, admise sur recommandation.
 - Famille Yaoyorozu : grande fortune japonaise.
 
 ## Description physique
-- Cheveux noirs en queue haute herissee, yeux onyx, port altier. Grande pour son age.
+- Cheveux noirs en queue haute herissee, yeux onyx, port altier. Grande stature.
 
 ## Traits observes
 - Serieuse, appliquee, courtoise ; culture generale massive.

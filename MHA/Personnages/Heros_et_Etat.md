@@ -1,6 +1,6 @@
 # Heros et Etat (groupe)
 
-- version : W1
+- version : W3
 
 Etat An 0. Figures hors Yuei pertinentes au focus.
 
@@ -25,7 +25,7 @@ Etat An 0. Figures hors Yuei pertinentes au focus.
 - Interlocuteur police-heros sur les dossiers sensibles.
 
 ## Togata Mirio "Lemillion"
-- 3e annee Yuei, membre des Big Three. Alter Permeation (intangibilite, cecite sensorielle en usage).
+- 3e annee Yuei (20-21 ans), membre des Big Three. Alter Permeation (intangibilite, cecite sensorielle en usage).
 - Puissance issue d'un Alter ingrat monte a la force du travail : profil-frere de l'ethos de Mura, dans une tonalite solaire opposee.
 - Candidat OFA de Nighteye, au coude a coude avec Mura dans les options d'All Might. Ignore OFA a l'An 0 [INCERTAIN - a verifier].
 

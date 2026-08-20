@@ -1,9 +1,9 @@
 # Todoroki Shoto
 
-- version : W1
+- version : W2
 
 ## Identite
-- Ne un 11 janvier (15 ans a l'An 0). Taille : 1 m 76. Eleve de 1-A, admis sur recommandation.
+- Ne un 11 janvier (18 ans a l'An 0 ; 19 le 11 janvier de sa 1re annee). Taille : 1 m 76. Eleve de 1-A, admis sur recommandation.
 - Fils cadet d'Endeavor (Todoroki Enji) et de Rei.
 
 ## Description physique

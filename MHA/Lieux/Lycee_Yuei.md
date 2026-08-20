@@ -1,6 +1,8 @@
-# Lycee Yuei
+# Universite Yuei
 
-- version : W1
+- version : W2
+
+(Fichier historiquement nomme Lycee_Yuei.md ; renommage eventuel en attente de decision worldbuilder, cf. _Implications B8.)
 
 ## Campus
 - Musutafu. Campus fortifie : hautes murailles, portails a fermeture automatique (UA Barrier), badges d'acces individuels.
@@ -23,7 +25,7 @@
 
 ## Securite
 - Alarmes de perimetre, capteurs aux portails, presence permanente de heros pro dans le corps enseignant.
-- La reputation de forteresse fait partie du contrat moral avec les parents d'eleves.
+- La reputation de forteresse fait partie du contrat moral avec les familles des etudiants.
 
 ---
 FIN_WIKI_LIEUX_LYCEE_YUEI

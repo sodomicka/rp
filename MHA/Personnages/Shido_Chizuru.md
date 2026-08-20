@@ -1,15 +1,15 @@
 # Shido Chizuru
 
-- version : W5
+- version : W6
 
 ## Identite
 - Nom : Shido Chizuru (glose : shi-do = "glycine pourpre" ; chi-zuru = "mille grues").
 - Nom de guerre : Chronos.
 - IDENTITE CIVILE PUBLIQUE ET ASSUMEE : la presidente-matriarche Shido n'a jamais cache etre Chronos. Le paradoxe public : l'heroine la plus connue et la moins entendue du Japon - identite assumee, masque en activite, zero communication.
-- Naissance : 24 decembre, An -31. Mort : An -7 (~23 ans), face a All For One.
+- Naissance : 24 decembre, An -38. Mort : An -7 (~30 ans), face a All For One.
 - Taille : 1 m 48 - taille adulte atteinte des ses 15 ans, comme sa fille.
 - Statut : matriarche du clan Shido (Kyoto) jusqu'a sa mort. Mere de Shido Murasaki - lien de notoriete publique : la nation sait que l'heritiere Shido est la fille de Chronos.
-- Pere de sa fille : jamais identifie. Non-sujet definitif au sein du clan.
+- Pere de sa fille : jamais identifie ; traite en non-sujet au sein du clan. Statut lore : mystere OUVERT (cf. BIBLE SB8), identite et revelation non actees.
 
 ## Description physique
 - Cheveux noirs, longs, portes en chignon haut traditionnel tenu par des piques metalliques ; meches encadrant le visage.
@@ -30,13 +30,13 @@
 - Pratiquait la telemetrie cardiaque en usage ; ses releves sont la source du chiffre 120 connu de Mura.
 
 ## Parcours
-- An -15 (fevrier) : recue a l'examen d'entree de Yuei par la voie commune - voulait prouver qu'elle valait mieux que tout le monde, sans passe-droit.
-- An -15 (avril) : entree a Yuei. Classe de Shota Aizawa, Hizashi Yamada (Present Mic) et Oboro Shirakumo.
-- An -15 (fin avril-mai) : conception de Murasaki, dans ses premieres semaines de lycee. Le clan, conservateur, refuse l'avortement ; grossesse menee a terme.
-- An -14 (30 janvier) : naissance de Murasaki, en pleine 1re annee. Jeune mere pour le reste de sa scolarite.
-- Pendant sa scolarite ([INCERTAIN] annee exacte) : mort de Shirakumo en intervention. Trauma de la promo.
-- An -12 (mars) : diplome. Carriere pro immediate sous le nom Chronos.
-- Ascension eclair : An -9 env., installee 2e-3e du palmares, en alternance avec Endeavor [DIVERGENCE RP]. Toujours loin derriere All Might.
+- An -19 (fevrier) : recue a l'examen d'entree de Yuei par la voie commune - voulait prouver qu'elle valait mieux que tout le monde, sans passe-droit.
+- An -19 (avril) : entree a Yuei (universite), 18 ans. Promo de Shota Aizawa, Hizashi Yamada (Present Mic) et Oboro Shirakumo.
+- An -19 (fin avril-mai) : conception de Murasaki, dans ses premieres semaines d'universite. Le clan, conservateur, refuse l'avortement ; grossesse menee a terme.
+- An -18 (30 janvier) : naissance de Murasaki, en pleine 1re annee. Jeune mere a 19 ans pour le reste de son cursus.
+- Pendant son cursus (An -19 a An -16 ; [INCERTAIN] annee exacte) : mort de Shirakumo en intervention. Trauma de la promo.
+- An -16 (mars) : diplome. Carriere pro immediate sous le nom Chronos.
+- Ascension eclair : An -13 env., installee 2e-3e du palmares, en alternance avec Endeavor [DIVERGENCE RP]. Toujours loin derriere All Might.
 - Rapport a Endeavor : rivale plus qu'ennemie ; ce qu'il avait de plus proche d'une amie. Zero ambiguite entre eux.
 - Rapport a All Might : amis. Aucune rivalite - elle savait son niveau inatteignable. [INCERTAIN] origine exacte du lien.
 
@@ -52,7 +52,7 @@
 - Funerailles au domaine de Kyoto, comite restreint. Presents : All Might, Endeavor.
 
 ## Heritage
-- Un nom (Chronos), un Alter, un clan, une fortune - et une fille de 7 ans qui decide de tout porter.
+- Un nom (Chronos), un Alter, un clan, une fortune - et une fille de 11 ans qui decide de tout porter.
 - Le lien mere-fille est public ; ce que personne ne sait, c'est que la fille compte reprendre le nom de guerre (cf. Personnages/Shido_Murasaki.md).
 - De la mere a la fille, trois differences visibles seulement : la version du masque, le distributeur de billes, la coupe de cheveux. Pour tout le reste, la ressemblance est exactement celle qu'elle aurait detestee.
 - Les piques a cheveux ne sont pas transmises : Mura porte des tresses, pas la coupe traditionnelle.

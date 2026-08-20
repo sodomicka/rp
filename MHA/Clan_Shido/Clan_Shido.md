@@ -1,6 +1,6 @@
 # Clan Shido
 
-- version : W4
+- version : W5
 
 ## Identite et heraldique
 - Dynastie de Kyoto. Nom : Shido (glose : "glycine pourpre").
@@ -15,22 +15,22 @@
 ## Assise economique
 - 3e fortune du Japon. Socle : heritage foncier feodal, entretenu et multiplie par l'industrie agroalimentaire.
 - Shido est une marque alimentaire ultra reputee au Japon.
-- Contrat embleme : prestataire du refectoire du lycee Yuei. Lunch Rush, le "Cooking Hero", est un employe du clan (cf. Personnages/Staff_Yuei.md).
+- Contrat embleme : prestataire du refectoire de l'universite Yuei. Lunch Rush, le "Cooking Hero", est un employe du clan (cf. Personnages/Staff_Yuei.md).
 - Consequence directe : le regime de Dame Murasaki (10 750 kcal/jour) est assure sur son lieu d'etudes par sa propre maison.
 - Domaine dynastique a Kyoto : siege du clan, lieu des funerailles et tombe de Chizuru, base arriere de Mura. Cf. BIBLE SB6.
 
 ## Gouvernance
-- Matriarcat. Matriarche actuelle : Shido Murasaki, en titre depuis ses 7 ans (An -7).
+- Matriarcat. Matriarche actuelle : Shido Murasaki, en titre depuis ses 11 ans (An -7).
 - Conseil d'anciens et d'intendants : gere fortune et domaine, assiste la matriarche sans arriere-pensee ni rivalite interne.
 - Tous regrettent "Dame Chizuru" ; tous savent que celle qui se donne le plus est "Dame Murasaki". Devouement entier.
 - Mura les traite sans dedain, en partenaires d'infortune : c'est leur vengeance a tous qu'elle porte.
 - Noms et visages individuels du conseil : non crees [trou signale, a creer si des scenes les exposent].
 
 ## Valeurs
-- Conservatisme assume : traditions, rang, refus de l'avortement (grossesse de Chizuru menee a terme malgre ses 15 ans).
+- Conservatisme assume : traditions, rang, refus de l'avortement (grossesse de Chizuru - 18 ans, premieres semaines d'universite - menee a terme).
 - Elitisme : l'excellence se prouve - Chizuru puis Mura ont refuse les passe-droits d'admission.
 - Transmission : le nom de guerre Chronos, le design du masque et l'Alter se transmettent en lignee.
-- Le pere de Murasaki est un non-sujet definitif au sein du clan.
+- Le pere de Murasaki est traite en non-sujet au sein du clan. Statut lore : mystere OUVERT (cf. BIBLE SB8).
 
 ## Le secret
 - Le clan entier sait qu'AFO a tue Chronos : All Might leur a revele le nom lui-meme, en ramenant le corps au domaine. Promesse de silence collective scellee avec lui ce jour-la.

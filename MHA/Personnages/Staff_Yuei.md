@@ -1,13 +1,13 @@
 # Staff de Yuei (groupe)
 
-- version : W2
+- version : W3
 
 Etat An 0. Fiches solo par ailleurs : All_Might.md. Lignes detaillees BIBLE SB5 pour Aizawa, Present Mic, Nezu, Recovery Girl.
 
 ## Direction et professeurs
 - Nezu - principal | Alter Haute Spec : intellect surhumain chez un animal (espece indeterminee, canon) | passe de cobaye de laboratoire, mefiance envers l'humanite sublimee en pedagogie.
-- Aizawa Shota "Eraser Head" - prof principal 1-A, 30 ans | Effacement | heros de l'ombre, anti-mediatique, dort en sac de couchage ; a exclu une classe entiere par le passe. Ex-camarade de classe de Chizuru - il sait qui est la mere de Mura, et il a vu naitre le bebe pendant leur scolarite commune. Avec Mic, il lit en elle ce que le public ne voit pas : elle se donne beaucoup trop pour une simple eleve - une vengeance dont ils ignorent la cible (hors cercle du secret), qui la rend plus determinee et dangereuse que la plupart des adultes, eux compris. Rationalite froide, bienveillance cachee.
-- Yamada Hizashi "Present Mic" - prof d'anglais, animateur radio | Voix (hurlement directionnel) | exuberance professionnelle ; trio d'antan avec Aizawa et Shirakumo. Partage la lecture d'Aizawa sur Mura (cf. ci-dessus).
+- Aizawa Shota "Eraser Head" - prof principal 1-A, 38 ans [DIVERGENCE RP] | Effacement | heros de l'ombre, anti-mediatique, dort en sac de couchage ; a exclu une classe entiere par le passe. Ex-camarade de promo de Chizuru - il sait qui est la mere de Mura, et il a vu naitre le bebe pendant leur cursus commun. Avec Mic, il lit en elle ce que le public ne voit pas : elle se donne beaucoup trop pour une simple eleve - une vengeance dont ils ignorent la cible (hors cercle du secret), qui la rend plus determinee et dangereuse que la plupart des adultes, eux compris. Rationalite froide, bienveillance cachee.
+- Yamada Hizashi "Present Mic" - prof d'anglais, animateur radio, 38 ans [DIVERGENCE RP] | Voix (hurlement directionnel) | exuberance professionnelle ; trio d'antan avec Aizawa et Shirakumo. Partage la lecture d'Aizawa sur Mura (cf. ci-dessus).
 - Kayama Nemuri "Midnight" - prof d'art heroique moderne | Somnolence (pheromones soporifiques) | provoc assumee, arbitre d'evenements.
 - Ishiyama Ken "Cementoss" - prof de litterature | Ciment (controle du beton) | placidite, arbitre des combats d'entrainement.
 - Thirteen - prof de sauvetage | Trou Noir (aspiration desintegrante) | specialiste catastrophes, gere l'USJ.

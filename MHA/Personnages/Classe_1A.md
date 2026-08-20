@@ -1,6 +1,6 @@
 # Classe 1-A (groupe)
 
-- version : W1
+- version : W3
 
 Les 16 eleves canon hors fiches solo (Midoriya, Bakugo, Todoroki, Yaoyorozu) et hors Shido Murasaki. Etat An 0, rentree. 21 eleves au total [DIVERGENCE RP].
 
@@ -23,7 +23,7 @@ Les 16 eleves canon hors fiches solo (Midoriya, Bakugo, Todoroki, Yaoyorozu) et 
 - Mineta Minoru - Pop Off (spheres adhesives capillaires) | 1 m 08, lubricite assumee, lachete recuperable.
 
 ## Dynamique de rentree
-- 20 profils canon + une inconnue : la benjamine Shido, 14 ans, major absolue de l'examen, matriarche de la 3e fortune du Japon. Cocktail social a fort potentiel de friction.
+- 20 profils canon + une inconnue : Shido Murasaki, 18 ans tout juste, major absolue de l'examen, matriarche de la 3e fortune du Japon. Cocktail social a fort potentiel de friction.
 
 ---
 FIN_WIKI_PERSONNAGES_CLASSE_1A

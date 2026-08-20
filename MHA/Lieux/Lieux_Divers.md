@@ -1,17 +1,17 @@
 # Lieux divers
 
-- version : W2
+- version : W3
 
 ## Musutafu
-- Ville de la region de Tokyo [IMPLICITE]. Cadre urbain principal du RP : lycee, quartiers residentiels, zones commercantes.
+- Ville de la region de Tokyo [IMPLICITE]. Cadre urbain principal du RP : universite, quartiers residentiels, zones commercantes.
 - Plage Dagobah : ancienne decharge sauvage, nettoyee integralement par Midoriya durant ses 10 mois d'entrainement (An -1 a An 0). Redevenue belle plage.
-- Penthouse de Mura : appartement de tres grand standing pres de Yuei, achete pour sa scolarite (les dortoirs n'existent pas a la rentree). Hors de prix pour le commun, negligeable a l'echelle de l'empire Shido.
+- Penthouse de Mura : appartement de tres grand standing pres de Yuei, achete pour la duree de ses etudes (les dortoirs n'existent pas a la rentree). Hors de prix pour le commun, negligeable a l'echelle de l'empire Shido.
 
 ## Kyoto et le domaine Shido
 - Kyoto : ancrage historique du clan Shido, ancienne capitale imperiale - coherent avec un clan fournisseur des cuisines des empereurs.
 - Domaine Shido : siege dynastique. Lieu des funerailles de Chizuru et de sa tombe. Base arriere de Mura ; le conseil y opere.
 - Architecture, etendue, dependances : non definies [INCERTAIN - trou signale].
-- En periode scolaire, Mura reside a Musutafu (penthouse, cf. ci-dessus) ; le domaine reste le siege du clan et son port d'attache.
+- En periode universitaire, Mura reside a Musutafu (penthouse, cf. ci-dessus) ; le domaine reste le siege du clan et son port d'attache.
 
 ## Tartarus
 - Prison maritime de tres haute securite, reservee aux criminels les plus dangereux du pays.

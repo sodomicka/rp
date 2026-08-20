@@ -1,6 +1,6 @@
 # Vilains a l'An 0 (groupe)
 
-- version : W1
+- version : W2
 
 Etat a la rentree An 0. Le public ignore tout de ce qui suit, hors petite criminalite ambiante.
 
@@ -19,7 +19,7 @@ Etat a la rentree An 0. Le public ignore tout de ce qui suit, hors petite crimin
 
 ## Kurogiri
 - Brume sentiente, majordome et garde-fou de Shigaraki. Alter : portails de teleportation.
-- Verite (secret, canon tardif) : Nomu de haute facture cree par AFO et Garaki a partir du corps d'Oboro Shirakumo, camarade de classe de Chizuru et d'Aizawa.
+- Verite (secret, canon tardif) : Nomu de haute facture cree par AFO et Garaki a partir du corps d'Oboro Shirakumo, camarade de promo de Chizuru et d'Aizawa.
 
 ## Dr Garaki (Kyudai Garaki)
 - Savant d'AFO. Duplication et stockage d'Alters, creation des Nomus (canon tardif).

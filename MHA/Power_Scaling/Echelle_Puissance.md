@@ -1,6 +1,6 @@
 # Echelle de puissance
 
-- version : W2
+- version : W3
 
 Outil de calage MJ [INTERPRETATION globale, sauf chiffres actes]. Principe valide : paliers par referents canon (qualitatifs) + grandeurs physiques reelles quand l'entite est chiffrable. Aucun joule n'est invente pour les personnages canon : leurs faits d'armes servent d'ancres qualitatives ; les chiffres n'existent que la ou le lore les a poses (Mura, Chizuru).
 
@@ -27,7 +27,7 @@ Outil de calage MJ [INTERPRETATION globale, sauf chiffres actes]. Principe valid
 | Autonomie theorique | 250 tirs / repas de 2 150 kcal | reduite par metabolisme de base + accelerations perceptives |
 | Ration de combat | barre Shido 430 kcal = 50 tirs | grignotage tactique obligatoire |
 | Perception | f15 soutenu, f30 pointe (blessures), f60 statique | reaction et calcul, PAS vitesse de deplacement |
-| Physique | 1 m 48, 14 ans, entrainement quotidien depuis 7 ans | puissance corporelle de niveau pro (acte), durabilite d'humaine entrainee |
+| Physique | 1 m 48, 18 ans, entrainement quotidien depuis 7 ans (de 11 a 18 ans) | puissance corporelle de niveau pro (acte), durabilite d'humaine entrainee |
 
 - Profil : artilleuse-calculatrice. Sortie offensive T2-T3 (precision letale a repetition), mobilite T1+, durabilite T1. Glass cannon assumee, compensee par la lecture du combat en facteur perceptif.
 - Point de doctrine : la chronokinesie n'est PAS de la super-vitesse. Le corps de Mura bouge a vitesse humaine entrainee ; c'est la decision qui va 15 a 30 fois plus vite.

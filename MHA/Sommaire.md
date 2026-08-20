@@ -1,6 +1,6 @@
 # Sommaire - MHA
 
-- version : W10
+- version : W13
 
 ## WIKI
 
@@ -10,40 +10,41 @@
 
 ### Racine
 Description : index de navigation du WIKI MHA.
-- Sommaire.md (W10) - cette page.
+- Sommaire.md (W13) - cette page.
+- Resume.md (W1) - resume de l'histoire de l'univers (canon + divergences actees).
 
 ### Personnages/
 Description : fiches noyau des entites, canon et Shido.
-- Shido_Murasaki.md (W6) - la protagoniste (fiche neutre) : identite, Alter, histoire, savoirs, relations.
-- Shido_Chizuru.md (W4) - Chronos premiere du nom : identite, parcours, mort detaillee, heritage.
-- All_Might.md (W3) - le n1 : identite, secret, amitie Chronos, scene d'An -7, funerailles et etang, succession OFA.
-- Midoriya_Izuku.md (W1) - le 9e porteur : noyau pre-An 0.
-- Bakugo_Katsuki.md (W1) - l'explosif relegue 2e de l'examen.
-- Todoroki_Shoto.md (W1) - l'heritier qui refuse son heritage.
-- Yaoyorozu_Momo.md (W1) - le miroir metabolique et fortune.
-- Classe_1A.md (W1) - les 16 autres eleves canon, une ligne chacun.
-- Staff_Yuei.md (W1) - direction, professeurs, services (dont Lunch Rush, employe Shido).
-- Vilains_An0.md (W1) - AFO, Shigaraki, Kurogiri, Garaki : etat a la rentree.
-- Heros_et_Etat.md (W2) - Endeavor, Nighteye, Gran Torino, Tsukauchi, Mirio.
+- Shido_Murasaki.md (W9) - la protagoniste (fiche neutre) : identite, Alter, histoire, savoirs, relations.
+- Shido_Chizuru.md (W6) - Chronos premiere du nom : identite, parcours, mort detaillee, heritage.
+- All_Might.md (W3 [ANOMALIE B8 : page en depot = W1 ; rubrique "funerailles et etang" absente de la page ; arbitrage worldbuilder en attente, cf. _Implications]) - le n1 : identite, secret, amitie Chronos, scene d'An -7, funerailles et etang, succession OFA.
+- Midoriya_Izuku.md (W2) - le 9e porteur : noyau pre-An 0.
+- Bakugo_Katsuki.md (W2) - l'explosif relegue 2e de l'examen.
+- Todoroki_Shoto.md (W2) - l'heritier qui refuse son heritage.
+- Yaoyorozu_Momo.md (W2) - le miroir metabolique et fortune.
+- Classe_1A.md (W3) - les 16 autres eleves canon, une ligne chacun.
+- Staff_Yuei.md (W3) - direction, professeurs, services (dont Lunch Rush, employe Shido).
+- Vilains_An0.md (W2) - AFO, Shigaraki, Kurogiri, Garaki : etat a la rentree.
+- Heros_et_Etat.md (W3) - Endeavor, Nighteye, Gran Torino, Tsukauchi, Mirio.
 
 ### Clan_Shido/
 Description : clan Shido - domaine de Kyoto, conseil, economie, heraldique.
-- Clan_Shido.md (W4) - identite, origines feodales, assise agroalimentaire, gouvernance, valeurs, secret, R&D.
+- Clan_Shido.md (W5) - identite, origines feodales, assise agroalimentaire, gouvernance, valeurs, secret, R&D.
 
 ### Systemes/
 Description : Alters et societe heroique ; chronokinesie ; mecanique OFA/AFO.
-- Societe_Heroique.md (W1) - Alters, cadre legal, Commission, Yuei, examens, vilains.
-- Chronokinesie.md (W3) - l'Alter Shido complet : perception, tirs cinetiques, economie metabolique, contres, equipement.
-- OFA_AFO.md (W1) - les deux Alters jumeaux, All Might a l'An 0, cercles de secret.
+- Societe_Heroique.md (W3) - Alters, cadre legal, Commission, Yuei (universite), examens, vilains.
+- Chronokinesie.md (W4) - l'Alter Shido complet : perception, tirs cinetiques, economie metabolique, contres, equipement.
+- OFA_AFO.md (W2) - les deux Alters jumeaux, All Might a l'An 0, cercles de secret.
 
 ### Lieux/
 Description : lieux du RP - Yuei, Musutafu, domaine Shido, theatres canon.
-- Lycee_Yuei.md (W1) - campus, refectoire Shido, terrains, USJ, securite.
-- Lieux_Divers.md (W2) - Musutafu (dont penthouse de Mura), Kyoto et domaine Shido, Tartarus, theatres canon a venir.
+- Lycee_Yuei.md (W2) - campus de l'universite Yuei, refectoire Shido, terrains, USJ, securite. (Nom de fichier historique ; renommage en attente de decision.)
+- Lieux_Divers.md (W3) - Musutafu (dont penthouse de Mura), Kyoto et domaine Shido, Tartarus, theatres canon a venir.
 
 ### Power_Scaling/
 Description : echelle de puissance chiffree (paliers par referents canon + grandeurs physiques).
-- Echelle_Puissance.md (W2) - paliers T0-T5, Mura chiffree, Chizuru en reference, limites a trancher.
+- Echelle_Puissance.md (W3) - paliers T0-T5, Mura chiffree, Chizuru en reference, limites a trancher.
 
 ### Fiches_Arc/Mura/
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs arc precedent / arc suivant), pas par un index des roadmaps.
