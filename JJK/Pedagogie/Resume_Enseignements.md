@@ -1,8 +1,8 @@
 # Resume des enseignements - Universites d'exorcisme
 
-- version : W1
+- version : W3
 
-Page = carte des enseignements des deux universites (Tokyo et Kyoto). Sert de socle au dossier Pedagogie/ : le cadre commun vit ici, le contenu reel des cours vit dans les fiches de cours (a builder, une par une, sous supervision du worldbuilder). Au prochain BIBLE BUILD : doctrine scolaire a reporter en SB1/SB2, resume de cette page cote SB4 (universites).
+Page = carte des enseignements des deux universites (Tokyo et Kyoto). Sert de socle au dossier Pedagogie/ : le cadre commun vit ici, le contenu reel des cours vit dans les fiches de cours (les six sujets et les huit fiches d'enseignement personnalise du perimetre sont buildes). Les intitules de la grille fixent le PERIMETRE ; sur le fond, la fiche de cours prime. Au prochain BIBLE BUILD : indexer les fiches neuves au Sommaire, reporter les propagations listees en _Implications.md.
 
 ## Cadre general
 - Cursus de trois ans, entree post-bac a ~18 ans. [DIVERGENCE RP] sur l'entree post-bac (canon : entree a ~15-16 ans, apres le college). Duree de trois ans conforme au canon montre a l'ecran (le detail databook "quatre ans", jamais illustre, est exclu du perimetre canon par decision worldbuilder).
@@ -39,10 +39,7 @@ Convention : les intitules fixent le perimetre, pas la repartition interne - cha
 ### Detection et contention
 - 1A-S1 - Percevoir l'occulte : perception de l'energie, residus, seuils de vision, protocoles de signalement ; le metier de fenetre comme debouche.
 - 1A-S2 - Rideaux simples : pose, maintien, dissimulation aux profanes, cout energetique.
-- 2A-S1 - Rideaux conditionnels et complexes : conditions d'entree/sortie, ancrages, briser un rideau adverse ; rideaux complexes [EBAUCHE - a densifier a la redaction de la fiche] :
-  - Rideaux fractals : l'ordre du fractal utilise comme pavage donne la complexite (plus long a tisser, plus dur a briser). Ordre 8+ = specialite Kamo (terreau des sceaux de Kenjaku ; cf. Personnages/Kenjaku.md).
-  - Chiralite : inverser l'orientation d'un motif peut ne rien changer, produire un autre effet, ou produire l'effet inverse (facon enantiomeres).
-  - Rideaux polarisants : geometrie complexe ; le pavage cree des resonances, et la resonance donne une cible - effet tisse sur mesure contre une personne precise. Sommet de l'art, hors programme etudiant, evoque en theorie seulement. (Retro-ingenierie du rideau anti-Gojo canon de l'Amicale 2018 ; l'evenement lui-meme = futur non joue, a trancher en roadmap.)
+- 2A-S1 - Rideaux conditionnels et complexes : conditions d'entree/sortie, ancrages, briser un rideau adverse ; rideaux complexes (ancres fractales, chiralite, polarite, rideau entremele) - detail et doctrine : cf. Detection_Contention_2eAnnee_S1.md, qui fait foi (l'ebauche initiale de cette page, qui faisait naitre la polarite du pavage fractal, est PERIMEE : la polarite est un trace vertical).
 - 2A-S2 - Sceaux, confinement, grandes barrieres : talismans, quarantaine d'objets maudits, evacuation de profanes, cas particulier des barrieres de Tengen.
 
 ### Energie et territoires
@@ -55,12 +52,18 @@ Convention : les intitules fixent le perimetre, pas la repartition interne - cha
 Ordre interne : cadre du cours -> S1 (presentation du 1er cours, generalites, cas particuliers, evaluation) -> S2 (idem) -> examen de mars -> DELTA AVANCE CLANIQUE -> DELTA OMNISCIENT VULGARISE.
 
 ## Fichiers du dossier Pedagogie/ (etat au build)
-- Resume_Enseignements.md (cette page, W1).
-- Fiches de cours, a builder sous supervision du worldbuilder (un thread par cours) :
+- Resume_Enseignements.md (cette page, W2).
+- Fiches de cours (les six sujets) :
   - Fleaux_Histoire_1eAnnee.md / Fleaux_Histoire_2eAnnee.md
-  - Detection_Contention_1eAnnee.md / Detection_Contention_2eAnnee.md
+  - Detection_Contention_1eAnnee.md / Detection_Contention_2eAnnee_S1.md / Detection_Contention_2eAnnee_S2.md (2e annee scindee par semestre, decision worldbuilder)
   - Energie_Territoires_1eAnnee.md / Energie_Territoires_2eAnnee.md
-- Enseignements personnalises : une fiche par promotion a casting fiche, convention Perso_{Universite}_{Promo}.md (ex. Perso_Kyoto_2016-2019.md).
+- Enseignements personnalises (perimetre : promos vecues par Nisha et Satoru, eleves ou profs ; detail sur la seule annee du prof du perimetre) :
+  - Perso_Tokyo_2005-2008.md (Yaga : Nisha, Satoru, Geto, Shoko) / Perso_Kyoto_2005-2008.md (Gakuganji : Naoya, Ranta)
+  - Perso_Kyoto_2011-2014.md (Nisha : Nitta)
+  - Perso_Tokyo_2016-2019.md (Satoru : Hakari, Kirara) / Perso_Kyoto_2016-2019.md (Nisha : Todo, Noritoshi, Momo)
+  - Perso_Tokyo_2017-2020.md (Satoru : Maki, Panda, Toge, Yuta) / Perso_Kyoto_2017-2020.md (Nisha : Miwa, Mechamaru, Mai)
+  - Perso_Tokyo_2018-2021.md (Satoru : Megumi ; Yuji et Nobara a la roadmap ere C)
+  - Les autres promotions n'ont pas de page (hors perimetre).
 
 ## Pointeurs
 - Universites : cf. Factions/Universite_Tokyo.md, Factions/Universite_Kyoto.md. Tournoi : cf. Factions/Tournoi.md.
