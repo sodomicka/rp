@@ -1,6 +1,6 @@
 # Clan Gojo
 
-- version : W5
+- version : W6
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 (transcendance de Satoru en 2006, suite) -> roadmap, hors de cette page neutre.
 
@@ -28,7 +28,7 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 - Contraste voulu avec les deux autres familles : le clan du guerrier parfait est le seul des trois a s'habiller en clair.
 
 ## Formation interne
-- [DIVERGENCE RP] Les clans forment les leurs en interne, hors du circuit scolaire classique (cf. BIBLE SB1). Les Gojo sont les SEULS des trois grandes familles a s'abstenir de la violence infantile pratiquee chez les Zenin et les Kamo. [INCERTAIN] motif de cette abstention non etabli.
+- [DIVERGENCE RP] Les clans forment les leurs en interne, hors du circuit scolaire classique (cf. BIBLE SB1). Les Gojo sont les SEULS des trois grandes familles a s'abstenir de la violence infantile pratiquee chez les Zenin et les Kamo. MOTIF : une TRADITION nee de la peur - on pourrait battre le guerrier parfait sans s'en rendre compte, et il se retournerait contre le clan. Une superstition, pas une vertu : elle rend les Gojo progressistes MALGRE EUX en comparaison des Zenin et des Kamo.
 
 ## Archives du clan
 [DIVERGENCE RP]

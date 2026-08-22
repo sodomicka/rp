@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W25
+- version : W26
 
 ## WIKI
 
@@ -13,23 +13,23 @@ Description : cosmogonie fondatrice du monde.
 ### Factions/
 Description : factions et groupes du monde.
 - Clan_Zenin.md (W12) - clan Zenin : nature et ethos, iconographie (kamon Dix Ombres, gris moyen + violet, tenue d'ancien), lignee dirigeante (arbre), convention de nommage, statuts des femmes, unites (Hei / Akashi / Kukuru), Restriction Celeste dans le clan.
-- Clan_Gojo.md (W5) - clan Gojo : iconographie (six tomoe = Six Yeux, blanc + bleu roi, tenue d'ancien), ethos (culte du guerrier parfait, "Le pouvoir sait se montrer quand les temps l'exigent"), gouvernance (conseil d'anciens sous l'autorite du guerrier parfait), branches (Sugawara/Gojo, Fujiwara/Okkotsu), place de Satoru, liens inter-clans.
+- Clan_Gojo.md (W6) - clan Gojo : iconographie (six tomoe = Six Yeux, blanc + bleu roi, tenue d'ancien), ethos (culte du guerrier parfait, "Le pouvoir sait se montrer quand les temps l'exigent"), gouvernance (conseil d'anciens sous l'autorite du guerrier parfait), branches (Sugawara/Gojo, Fujiwara/Okkotsu), place de Satoru, liens inter-clans ; abstention de la violence infantile (superstition du guerrier parfait).
 - Clan_Kamo.md (W5) - clan Kamo : iconographie (enso + goutte de sang, anthracite + rouge, tenue d'ancien), ethos (purete du sang, "La purete n'a pas de prix"), sort elu + succession, gouvernance (chef et emissaires), Noritoshi (heritier illegitime), branches/greffes (Six Yeux, Peintures Mortes, Itadori, Muta), Restriction Celeste (type inverse, Mechamaru).
-- Hautes_Instances.md (W3) - les hautes instances : sommet conservateur sans visage au-dessus des universites, 10 membres (5/universite : 3 clans + 2 independants), tous Grade Special 1, Gakuganji seul visage public.
-- Universite_Tokyo.md (W3) - universite de Tokyo : centre de formation (exorcistes + assistant managers), derive des hautes instances et de Tengen, turf Gojo ; corps enseignant sur trois epoques (Yaga cumule principal + 3e annee 2009-2013, Nanami 3e annee des avr 2013) ; promotions ; Takuma Ino (eleve notable) ; pole le plus ouvert.
-- Universite_Kyoto.md (W4) - universite de Kyoto : universite soeur, turf Kamo+Zenin, pole conservateur ; corps enseignant sur trois epoques (Gakuganji cumule principal + 3e annee 2009-2013 ; Utahime 1e / Nisha 2e des 2009, Mei Mei 3e des avr 2013) ; Nisha et Mei Mei enseignantes (divergence), Akari Nitta eleve de Nisha (promo 2011-2014).
+- Hautes_Instances.md (W4) - les hautes instances : sommet conservateur sans visage au-dessus des universites, 10 membres (5/universite : 3 clans + 2 independants), tous Grade Special 1, Gakuganji seul visage public ; pacte fondateur Etat/familles (Meiji, neuf articles).
+- Universite_Tokyo.md (W5) - universite de Tokyo : centre de formation (exorcistes + assistant managers), derive des hautes instances et de Tengen, turf Gojo ; corps enseignant sur trois epoques (Yaga cumule principal + 3e annee 2009-2013, Nanami 3e annee des avr 2013) ; promotions ; Takuma Ino (eleve notable) ; rituel des detenteurs de domaine (Satoru, fin 1A : montrer d'abord) ; uniforme bleu nuit ; pole le plus ouvert.
+- Universite_Kyoto.md (W6) - universite de Kyoto : universite soeur, turf Kamo+Zenin, pole conservateur ; corps enseignant sur trois epoques (Gakuganji cumule principal + 3e annee 2009-2013 ; Utahime 1e / Nisha 2e des 2009, Mei Mei 3e des avr 2013) ; Nisha et Mei Mei enseignantes (divergence), Akari Nitta eleve de Nisha (promo 2011-2014) ; rituel des detenteurs de domaine (Nisha, fin 2A : theorie d'abord) ; uniforme bleu nuit.
 - Tournoi.md (W4) - Tournoi des Universites Jumelees (l'Amicale de Tokyo/Kyoto) : echange annuel entre les deux universites, format canon (J1 equipe en zone infestee, J2 individuel en arene) ; regle d'hote [DIVERGENCE RP] : le vainqueur de l'edition precedente heberge (J1 decisif) ; premiere edition jouee = 2005 (hote Kyoto, cf. Roadmap A1) ; role narratif -> roadmap.
 
 ### Personnages/
 Description : fiches personnages du monde.
-- Nisha.md (W16) - fiche NOYAU de Nisha Zenin (physique detaille, tenue, objets recurrents : collier, carte bleue ; visuel de la Sphere du Temps Infini) (OC, protagoniste, jumelle de Naoya, nee le 30 jan 1987), etat <= 2005 ; Trajectoire datee post-2005 scindee par ere -> Nisha_chrono_A.md, Nisha_chrono_B.md.
+- Nisha.md (W17) - fiche NOYAU de Nisha Zenin (physique detaille, tenue, objets recurrents : collier, carte bleue (cadeau de Naobito, 30 jan 2005) ; visuel de la Sphere du Temps Infini) (OC, protagoniste, jumelle de Naoya, nee le 30 jan 1987), etat <= 2005 ; Trajectoire datee post-2005 scindee par ere -> Nisha_chrono_A.md, Nisha_chrono_B.md.
 - Nisha_chrono_A.md (W6) - Trajectoire datee de Nisha, ere A (2005-2008) : entrees A1 + A2.
-- Nisha_chrono_B.md (W5) - Trajectoire datee de Nisha, ere B (2008-2018) : entrees B1-B3 (2008 -> juin 2018, ere B complete : famille de Saitama, trauma, guerison, Nuit des Cent Fleaux, reparation de Satoru).
-- Eien.md (W8) - fiche noyau d'Eien (apparence sans visage dans le Jardin) (OC, fleau Grade Special, parasite de Nisha, co-architecte avec Kenjaku) ; + Trajectoire datee ere B (B1-B3 : jubilation 2008, bascule 2015, T-Yorozu arme, visites punitives).
-- Kenjaku.md (W7) - fiche noyau de Kenjaku (forme vraie en for interieur, intrusion 2015) (canon + RP : origine Kamo, amant et co-architecte d'Eien) ; + Trajectoire datee (noeud 2006 : prime sur le Plasma Stellaire financee via le Culte Astral ; deal de 2015).
+- Nisha_chrono_B.md (W6) - Trajectoire datee de Nisha, ere B (2008-2018) : entrees B1-B3 (2008 -> juin 2018, ere B complete : famille de Saitama, trauma, guerison, Nuit des Cent Fleaux, reparation de Satoru).
+- Eien.md (W9) - fiche noyau d'Eien (apparence sans visage dans le Jardin) (OC, fleau Grade Special, parasite de Nisha, co-architecte avec Kenjaku) ; + Trajectoire datee ere B (B1-B3 : jubilation 2008, bascule 2015 - ouvre le corps a Kenjaku -, T-Yorozu arme, visites punitives).
+- Kenjaku.md (W8) - fiche noyau de Kenjaku (forme vraie en for interieur, intrusion 2015 par Eien qui lui ouvre le corps ; Lisiere du Supplice de sa main) (canon + RP : origine Kamo, amant et co-architecte d'Eien) ; + Trajectoire datee (noeud 2006 : prime sur le Plasma Stellaire financee via le Culte Astral ; deal de 2015).
 - Naobito.md (W8) - patriarche du clan Zenin (26e chef), Projection, pere des jumeaux ; + Nuit des Cent Fleaux (dec 2017, conseil engage a Kyoto).
 - Naoya.md (W14) - jumeau de Nisha, heritier de fait, Projection : noyau + Trajectoire datee (A1+A2) -> Naoya_chrono_B.md.
-- Naoya_chrono_B.md (W4) - Trajectoire datee de Naoya, ere B (2008-2018) : entrees B1-B3 (tete du Hei, cultivation des jumelles, gardien du secret, Nuit des Cent Fleaux en symbiose).
+- Naoya_chrono_B.md (W5) - Trajectoire datee de Naoya, ere B (2008-2018) : entrees B1-B3 (tete du Hei, cultivation des jumelles, gardien du secret, Nuit des Cent Fleaux en symbiose) ; devenir canon (mort, retour en fleau) SUPPRIME.
 - Jinichi.md (W6) - pilier du Hei, frere de Toji, Poings Meteores, membre du conseil ; + Nuit des Cent Fleaux (dec 2017).
 - Ogi.md (W6) - frere cadet de Naobito, pilier du Hei, pere de Maki/Mai, epeiste ; + Nuit des Cent Fleaux (dec 2017).
 - Ranta.md (W7) - membre du Hei (support des jumeaux), Regard Paralysant : noyau + Trajectoire datee (A1).
@@ -39,7 +39,7 @@ Description : fiches personnages du monde.
 - Mai.md (W10) - fille de Ogi, jumelle de Maki, Construction, unite Akashi ; Trajectoire A2-B3 (lecon de Nisha 2015 : exploite 8 ; eleve d'Utahime 2017 puis de Nisha 2018).
 - Toji.md (W7) - Toji Fushiguro, ne Zenin, Tueur d'Exorcistes, Restriction Celeste, pere de Megumi.
 - Satoru.md (W11) - Satoru Gojo, guerrier parfait du clan Gojo, Infini + Six Yeux, rival de Nisha, chef de fait : noyau + Trajectoire datee (A1) -> Satoru_chrono_B.md.
-- Satoru_chrono_B.md (W4) - Trajectoire datee de Satoru, ere B (2008-2018) : entrees B1-B3 (prof Tokyo, famille de Saitama, mort de Geto de ses mains, effondrement et releve).
+- Satoru_chrono_B.md (W5) - Trajectoire datee de Satoru, ere B (2008-2018) : entrees B1-B3 (prof Tokyo, famille de Saitama, mort de Geto de ses mains, effondrement et releve).
 - Tengen.md (W3) - Tengen, 4e esprit vengeur reste de chair, pilier immortel des barrieres, Immortalite + Plasma Stellaire, lien ancien avec Kenjaku (Merger), noeud de 2006.
 - Geto.md (W8) - Suguru Geto, prodige hors-clan de la promo Tokyo 2005-2008, Manipulation des Esprits Maudits, l'un des deux plus forts avec Gojo, negatif moral de Nisha : noyau + Trajectoire datee (A1).
 - Shoko.md (W7) - Shoko Ieiri, medecin de la promo des quatre prodiges (Tokyo), Sort d'Inversion (RCT) applique a autrui, Semi-Grade 1 a vie : noyau + Trajectoire datee (releve de Satoru 2018).
@@ -65,19 +65,37 @@ Description : fiches personnages du monde.
 - Arata_Nitta.md (W3) - Arata Nitta, petit frere d'Akari [DIVERGENCE RP vs canon : aine au canon], eleve Kyoto (promo 2018-2021, entre avr 2018) ; hors-axe combat.
 - Toge.md (W5) - Toge Inumaki, paroles maudites (Cursed Speech), promo Tokyo 2017-2020 (sous Satoru) ; 5 doigts.
 - Yuta.md (W5) - Yuta Okkotsu (Rika integree a la fiche), reserve colossale + Copie ; miroir INVERSE de Nisha (il subit Rika, elle domine Eien) ; copie la Chronokinesie de Nisha (debut 2018, pas la Chronostase) ; part avec Miguel post-JJK0 ; 12 doigts fin JJK0 -> 15 a Shibuya.
-- Hakari.md (W10) - Kinji Hakari, promo Tokyo 2016-2019 (sous Kusakabe), Idle Death Gamble (Mode Jackpot intuable) ; clash avec un conservateur au front de Tokyo de la Parade -> suspendu debut 2018, Gachinko Fight Club ; 8 doigts + Jackpot hors-echelle.
+- Hakari.md (W11) - Kinji Hakari, promo Tokyo 2016-2019 (sous Kusakabe), Idle Death Gamble (Mode Jackpot intuable ; domaine manifeste des 2016, 1A sous Satoru) ; clash avec un conservateur au front de Tokyo de la Parade -> suspendu debut 2018, Gachinko Fight Club ; 8 doigts + Jackpot hors-echelle.
 - Kirara.md (W8) - Kirara Hoshi, promo Tokyo 2016-2019 (sous Kusakabe), Love Rendezvous (attraction/repulsion, soutien) ; s'eloigne de l'universite avec Hakari ; 4 doigts.
 
 ### Power_Scaling/
 Description : systeme de puissance de l'univers.
-- Doigts_de_Sukuna.md (W9) - unite "doigt de Sukuna", formule non lineaire, bareme de grade, reperes chiffres (casting B3 integre ; Nanami adulte fixe a 8 doigts), loi synergie/symbiose, partage gemellaire.
+- Doigts_de_Sukuna.md (W10) - unite "doigt de Sukuna", formule non lineaire, bareme de grade, reperes chiffres (casting B3 integre ; Nanami adulte fixe a 8 doigts), loi synergie/symbiose, partage gemellaire.
 
 ### Pedagogie/
-Description : enseignements des universites d'exorcisme (cadre, grille, fiches de cours).
-- Resume_Enseignements.md (W1) - carte des enseignements : cadre (3 ans post-bac [DIVERGENCE RP], annee 3 pratique), rythme et bareme (evals 1/3, examen de mars 2/3), trois poles de transmission (classique / avance clanique / omniscient vulgarise), grille des 12 sujets semestriels, gabarit des fiches de cours a venir.
-- Fleaux_Histoire_1eAnnee.md (W3) - fiche de cours 1re annee : S1 naissance des fleaux et aube de l'exorcisme, S2 Heian et les 20 doigts ; niveau classique en plein, puis deltas AVANCE CLANIQUE (archives, Nisha "la prouveuse", acces reserve aux heritiers de branches principales) et OMNISCIENT VULGARISE (Satoru : plafond de l'oeil) ; carte des ecarts verite/enseigne.
+Description : enseignements des universites d'exorcisme (cadre, grille, fiches de cours, enseignement personnalise).
+- Resume_Enseignements.md (W4) - carte des enseignements : cadre (3 ans post-bac [DIVERGENCE RP], annee 3 pratique), rythme et bareme (evals 1/3, examen de mars 2/3), trois poles de transmission (classique / avance clanique / omniscient vulgarise), grille des 12 sujets semestriels, renvoi aux fiches de cours et aux fiches Perso_*.
 
-> ROADMAPS NON INDEXEES EN JEU (v8.2). Dossier Roadmap/Nisha/ amorce (Passe 2 en cours) : trame_B (W4, vue d'ensemble ere B), Roadmap_A0 (prologue 1987-2005), Roadmap_A1 (Le Transfert, 2005-2006), Roadmap_A2 (2006-2008), Roadmap_B1 (Fonder, 2008 -> mars 2013), Roadmap_B2 (Le trauma, 2013-2015). Roadmap_B3 a venir (jalons poses, detail au prochain thread). Les roadmaps restent hors de cet index - sources de build seulement, jamais fetchees en narration.
+Fiches de cours (une par discipline et par annee ; niveau classique en plein, puis deltas avance clanique et omniscient vulgarise, puis carte des ecarts verite/enseigne a usage MJ) :
+- Fleaux_Histoire_1eAnnee.md (W3) - S1 naissance des fleaux et aube de l'exorcisme, S2 Heian et les 20 doigts ; deltas (archives, Nisha "la prouveuse", acces reserve aux heritiers de branches principales ; Satoru : plafond de l'oeil).
+- Fleaux_Histoire_2eAnnee.md (W1) - S1 de Meiji a nos jours (pacte Etat/familles, fondation des universites), S2 anomalies.
+- Detection_Contention_1eAnnee.md (W1) - S1 percevoir l'occulte, S2 rideaux simples.
+- Detection_Contention_2eAnnee_S1.md (W1) - rideaux conditionnels et complexes : runes, ancres fractales, chiralite, polarite (trace vertical), briser un rideau adverse, cas particuliers.
+- Detection_Contention_2eAnnee_S2.md (W1) - sceaux, confinement, grandes barrieres (application de la theorie du volet S1).
+- Energie_Territoires_1eAnnee.md (W1) - S1 l'energie occulte, flux et controle, S2 sorts innes.
+- Energie_Territoires_2eAnnee.md (W1) - S1 techniques avancees, S2 territoires.
+
+Enseignement personnalise (une page par promotion a casting fiche ; ne couvre que les annees tenues par un professeur du perimetre ; un chantier par eleve, non note ; section "ce que le professeur n'a pas vu" a usage MJ) :
+- Perso_Tokyo_2005-2008.md (W1) - promo des quatre prodiges (Nisha, Satoru, Geto, Shoko), Yaga sur les trois ans, pole classique.
+- Perso_Kyoto_2005-2008.md (W1) - promo de Naoya (Naoya, Ranta), Gakuganji sur les trois ans, pole avance clanique.
+- Perso_Kyoto_2011-2014.md (W1) - Akari Nitta (assistant manager), 2e annee sous Nisha (2012-2013).
+- Perso_Kyoto_2016-2019.md (W1) - Todo, Noritoshi Kamo, Momo ; 2e annee sous Nisha (2017-2018).
+- Perso_Kyoto_2017-2020.md (W1) - Miwa, Mechamaru, Mai ; 2e annee sous Nisha (des avril 2018).
+- Perso_Tokyo_2016-2019.md (W1) - Hakari, Kirara ; 1re annee sous Satoru (2016-2017).
+- Perso_Tokyo_2017-2020.md (W1) - Maki, Panda, Toge, Yuta ; 1re annee sous Satoru (2017-2018).
+- Perso_Tokyo_2018-2021.md (W1) - Megumi, seul 1re annee d'avril 2018 sous Satoru ; Yuji et Nobara a l'ere C (page a relivrer).
+
+> ROADMAPS NON INDEXEES EN JEU (v8.2). Dossier Roadmap/Nisha/ amorce (Passe 2 en cours) : trame_B (W5, vue d'ensemble ere B), Roadmap_A0 (W5, prologue 1987-2005), Roadmap_A1 (Le Transfert, 2005-2006), Roadmap_A2 (2006-2008), Roadmap_B1 (Fonder, 2008 -> mars 2013), Roadmap_B2 (Le trauma, 2013-2015). Roadmap_B3 a venir (jalons poses, detail au prochain thread). Les roadmaps restent hors de cet index - sources de build seulement, jamais fetchees en narration.
 
 > RESUME NON INDEXE (B15). `Resume.md` (a la racine JJK/, W1) : resume AUTOSUFFISANT de l'univers et de son histoire jusqu'a juin 2018, concu pour exporter le monde vers un projet qui n'a pas la BIBLE. Volontairement HORS de cet index, meme doctrine que Roadmap/ et Memoires/ : il porte le futur de toute partie qui demarre en 2005, donc un MJ qui le fetcherait en narration prefigurerait en prose. Acces par listing direct de JJK/.
 

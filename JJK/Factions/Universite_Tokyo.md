@@ -1,6 +1,6 @@
 # Universite d'Exorcisme de Tokyo
 
-- version : W4
+- version : W5
 
 Page = faction du monde (institution). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4.
 
@@ -11,6 +11,7 @@ Page = faction du monde (institution). Faits canon non balises (niveau etabli) ;
 - Derive des hautes instances (gouvernance) et des barrieres de Tengen (ossature securitaire). Sans Tengen, l'universite tombe. cf. Factions/Hautes_Instances.md, Personnages/Tengen.md.
 - Territoire : implantee sur le turf du clan Gojo (Tokyo). cf. Factions/Clan_Gojo.md.
 - [DIVERGENCE RP] Pole le plus ouvert du monde de l'exorcisme, par opposition au conservatisme de Kyoto ; le trait se cristallise a l'ere ou Gojo y enseigne (2009+). Detail et enjeux -> roadmap.
+- [DIVERGENCE RP] Uniforme des eleves : BLEU NUIT, commun aux deux universites (meme tenue a Kyoto).
 
 ## Corps enseignant
 [DIVERGENCE RP] sur le suivi de promo et le systeme "un referent par annee" (le canon ne le formalise pas).

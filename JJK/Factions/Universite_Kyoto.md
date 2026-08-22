@@ -1,6 +1,6 @@
 # Universite d'Exorcisme de Kyoto
 
-- version : W5
+- version : W6
 
 Page = faction du monde (institution). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4.
 
@@ -11,6 +11,7 @@ Page = faction du monde (institution). Faits canon non balises (niveau etabli) ;
 - Derive des hautes instances (gouvernance) et des barrieres de Tengen (securite). cf. Factions/Hautes_Instances.md, Personnages/Tengen.md.
 - Territoire : implantee sur le turf partage des clans Kamo et Zenin (Kyoto). cf. Factions/Clan_Kamo.md, Factions/Clan_Zenin.md.
 - [DIVERGENCE RP] Pole conservateur du monde de l'exorcisme (adosse a Gakuganji, aux hautes instances et aux deux clans traditionalistes), par opposition a l'ouverture de Tokyo. L'axe et ses enjeux -> roadmap.
+- [DIVERGENCE RP] Uniforme des eleves : BLEU NUIT, commun aux deux universites (meme tenue a Tokyo).
 
 ## Corps enseignant
 [DIVERGENCE RP] sur le suivi de promo et le systeme "un referent par annee".

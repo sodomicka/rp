@@ -1,6 +1,6 @@
 # Eien
 
-- version : W8
+- version : W9
 
 OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokinesie). Moitie du couple architecte avec Kenjaku. Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -54,7 +54,7 @@ OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokin
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 2008 (B1) | Le couple adopte Tsumiki ; Eien reconnait sur la gamine la marque de son amant Kenjaku (piece placee a dessein, pas hasard) et JUBILE en silence, sans savoir encore ce qu'elle annonce. Nisha ignore pourquoi (graine T-Tsumiki) | confirmation que Kenjaku oeuvre dans l'entourage immediat de Nisha ; jubilation contenue |
-| 2015 (B2) | LA DETONATION. Dix-huit ans de patience aboutissent : la garde de Nisha tombe (bonheur conjugal post-noces), Eien BASCULE enfin, la POSSEDE et la relegue dans sa propre Sphere du Temps Infini interieure. Avec Kenjaku (libre, dans un vaisseau anonyme), elle impose le deal et fait FECONDER le corps de Nisha (le viol = SON idee, pour la BRISER ; aucun enjeu strategique sur le foetus, avorte ensuite par Naoya). Donne la base de la solution Yorozu (etendre le territoire sur Tsumiki) | a goute le controle absolu ; jubile ; faille consommee (mais l'hote reprend la main) ; rancoeur en germe autour de Yorozu (-> B3, puis T-Yorozu ere C) |
+| 2015 (B2) | LA DETONATION. Dix-huit ans de patience aboutissent : la garde de Nisha tombe (bonheur conjugal post-noces), Eien BASCULE enfin, la POSSEDE et la relegue dans sa propre Sphere du Temps Infini interieure. Puis elle OUVRE leur corps a Kenjaku - baisse ses propres barrieres pendant que Nisha, prise par surprise, est coincee - et le fait entrer en for interieur sous sa forme vraie (cf. Personnages/Kenjaku.md). Avec Kenjaku (libre, dans un vaisseau anonyme), elle impose le deal et fait FECONDER le corps de Nisha (le viol = SON idee, pour la BRISER ; aucun enjeu strategique sur le foetus, avorte ensuite par Naoya). Donne la base de la solution Yorozu (etendre le territoire sur Tsumiki) | a goute le controle absolu ; jubile ; faille consommee (mais l'hote reprend la main) ; rancoeur en germe autour de Yorozu (-> B3, puis T-Yorozu ere C) |
 | fin 2015 (B3) | Nisha tue YOROZU (liberation de Tsumiki). Aucun lien reel d'Eien a Yorozu - mais la mort ARME T-Yorozu : en ere C, Eien livrera Nisha a Sukuna-dans-Yuji en l'accusant d'avoir tue "sa fidele Yorozu" (la fidele de SUKUNA - pure instrumentalisation) | munition acquise contre Nisha (T-Yorozu ARME -> ere C) |
 | 2015+ (B3) | LES VISITES. Le calcul a RATE : brisee, Nisha ne s'effondre pas en depression ecrasable - elle mue sa tristesse, par Satoru et Naoya, en haine pure du couple d'architectes. Elle descend des lors regulierement dans le Jardin des Eres Mortes pour la TABASSER. Le parasite battu chez lui par son hote : renversement complet, definitif. Eien encaisse, profil bas, et laisse macerer | condamnee au statut de souffre-douleur ; punition reguliere subie ; rancoeur qui s'affine (carburant de l'ere C) |
 

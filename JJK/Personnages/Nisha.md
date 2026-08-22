@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W16
+- version : W17
 
 Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depart (2005) : identite, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datee post-depart) est scinde par volume pour le poids -> cf. section dediee en bas de fiche et Personnages/Nisha_chrono_A.md.
 
@@ -22,7 +22,7 @@ Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depar
 
 ## Objets recurrents
 - COLLIER DE TUNGSTENE : 76 billes de 5 g (~6 mm), cadeau de Satoru a l'anniversaire des jumeaux, 30 jan 2006. Parure-arme (munitions de la Chronostase), porte par-dessus le col. Detail : BIBLE SB7 ; Trajectoire datee, ere A.
-- [DIVERGENCE RP] CARTE BLEUE : carte bancaire en acier damas sombre aux veinures violettes - les couleurs du clan. Objet recurrent. [INCERTAIN] origine et date d'entree en scene non fixees.
+- [DIVERGENCE RP] CARTE BLEUE : carte bancaire en acier damas sombre aux veinures violettes - les couleurs du clan. Objet recurrent. ORIGINE : cadeau de Naobito aux 18 ans des jumeaux (30 jan 2005), offerte a chacun des deux par equite envers Naoya ; compte a plusieurs milliards, que Nisha merite en prodige et seule femme digne du clan. Jusque-la, favorite entretenue par le clan et dorlotee par une armee de servantes, elle n'en avait aucun besoin au sein du domaine : la carte n'entre en usage qu'avec son depart pour Tokyo (2005). Cf. BIBLE SB7, Roadmap_A0 (A0_5).
 
 ## Sorts (deux)
 [DIVERGENCE RP] Un exorciste = un sort inne en canon. Nisha en manie deux.
@@ -125,6 +125,7 @@ Fiche propre de Naoya : cf. Personnages/Naoya.md. Ici, seul son rapport a Nisha.
 | 1995 | Nisha etend son territoire (Sphere du Temps Infini, 8 ans). Fin du statut servile, devient favorite de Naobito. |
 | 1997 | Putsch d'Eien (10 ans), echoue. Nisha le sent, le dit a son pere. Faite Grade Special 1. |
 | 2000 | Statut de prodige (13 ans) : acces officiel aux archives du clan, jusque-la interdites aux femmes (elle s'y infiltrait). La meme annee, elle PROUVE au conseil (Naobito, Ogi, Jinichi) que le parasite ne sera jamais un probleme - dossier clos, le clan n'y reviendra pas. |
+| 30 jan 2005 | 18 ans des jumeaux : Naobito offre a chacun une carte bancaire sur un compte a plusieurs milliards (la carte bleue de Nisha, cf. Objets recurrents). |
 | 2005 | Inscrite a Tokyo (universite d'exorcisme). Point de depart du RP jouable. |
 
 ## Cinq raisons du transfert a Tokyo (2005)

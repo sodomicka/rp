@@ -1,6 +1,6 @@
 # Naoya Zenin - Chronologie datee, ere B (2008-2018)
 
-- version : W4
+- version : W5
 
 Extension de Personnages/Naoya.md. Contient la TRAJECTOIRE DATEE post-depart de Naoya pour l'ere B (hiver 2008 -> juin 2018). NB : l'ere A (A1+A2) reste dans Personnages/Naoya.md (Trajectoire datee non scindee a l'epoque) ; scission de l'ere A optionnelle. Strate canon par defaut, telegraphique ; le detail vit dans les roadmaps. Build-side : fetchee a la demande, JAMAIS chargee en narration. Etat : entrees B1 a B3 posees - ere B complete.
 
@@ -19,7 +19,7 @@ Extension de Personnages/Naoya.md. Contient la TRAJECTOIRE DATEE post-depart de 
 - Noyau + Trajectoire datee ere A (A1+A2) : cf. Personnages/Naoya.md.
 - Jumelle / doctrine / famille : cf. Personnages/Nisha.md, Maki.md, Mai.md, Megumi.md.
 - Detail narratif ere B : cf. Roadmap/Nisha/Roadmap_B1.md, Roadmap_B2.md, Roadmap_B3.md.
-- Au-dela de l'ere B : rivalite de succession vs Megumi -> ere C. Devenir canon (mort au massacre du clan, retour en fleau) : [CANON SUPPOSE], jamais re-valide contre les divergences du RP - a trancher au build ere C (cf. _Implications, Graines ere C).
+- Au-dela de l'ere B : rivalite de succession vs Megumi -> ere C. Devenir canon (mort au massacre du clan, retour en fleau) : SUPPRIME sur decision worldbuilder (ferme, non negociable ; doctrine "un trauma majeur par perso"). Le massacre canon du clan par Maki est lui-meme REMPLACE par le coup d'Etat du clan Zenin (post-Shibuya ; Naoya monte sur le trone, adoube par la n2 mondiale) : cf. BIBLE SB8, fil "Coup d'Etat du clan Zenin". Detail -> build ere C.
 
 ---
 
