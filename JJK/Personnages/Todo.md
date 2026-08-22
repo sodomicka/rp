@@ -1,6 +1,6 @@
 # Aoi Todo
 
-- version : W3
+- version : W5
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -20,6 +20,9 @@ Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e
 - Intense, passionne, exuberant, provocateur joyeux. Philosophie du LIEN : il adoube en "frere" quiconque partage ses valeurs et place l'amitie au-dessus de tout.
 - Fan absolu d'idoles (la chanteuse Takada-chan).
 - Tic verbal : "c'est quoi ton type ?" - question qu'il pose a tous, et dont la reponse decide a ses yeux de la valeur de l'interlocuteur. Herite de sa mentor Yuki Tsukumo (cf. Relations).
+
+## Domaine Simple
+- Il le tient de Yuki Tsukumo (canon), qui le lui transmet hors de tout cursus - il ne vient pas d'une famille d'exorcistes et n'a pas appris cela en cours. La pedagogie universitaire ne recense que les porteurs issus du cursus (Kusakabe, Miwa) ; les transmissions hors-systeme lui echappent. Cf. Personnages/Yuki.md, Pedagogie/Energie_Territoires_2eAnnee.md.
 
 ## Relations
 Fiches propres : cf. Personnages/Yuki.md, Nisha.md. Ici, seul le rapport a Todo.
@@ -46,7 +49,7 @@ Fiches propres : cf. Personnages/Yuki.md, Nisha.md. Ici, seul le rapport a Todo.
 ## Trajectoire datee - ere B (entree B3 ; alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| avr 2017 (B3_3) | Passe en 2e annee, eleve de Nisha. Beat du "type" -> adopte Nisha en 2e modele. | trouve sa 2e idole |
+| avr 2017 (B3_3) | Passe en 2e annee, eleve de Nisha. Beat du "type" -> adopte Nisha en 2e modele. Chantier perso : CANALISER L'INTENSITE - Boogie Woogie au service des AUTRES (repositionner Momo, extraire Noritoshi, briser une garde pour un allie), interdit de frapper le premier : le tacticien passe devant le cogneur (cf. Pedagogie/Perso_Kyoto_2016-2019.md) | trouve sa 2e idole ; chantier perso : le sort sert l'equipe |
 | dec 2017 (B3_4) | Nuit des Cent Fleaux : les 2e annees confies a Mei Mei ; Todo combat en cogneur, appuye par l'oeil aerien de Momo. | premier grand fait d'armes |
 | avr 2018 (B3_5) | Passe en 3e annee (sous Mei Mei). | -> seuil ere C |
 

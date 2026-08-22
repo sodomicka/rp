@@ -1,6 +1,6 @@
 # Kirara Hoshi
 
-- version : W4
+- version : W5
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee a Tokyo. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -41,6 +41,7 @@ Fiches propres : cf. Personnages/Hakari.md, Nisha.md. Ici, seul le rapport a Kir
 ## Trajectoire datee - ere B (entree B3 ; alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| 2016-2017 (B3) | 1re annee a Tokyo, sous Satoru. Chantier perso : ELARGIR LE PERIMETRE - proteger des gens qu'on n'aime pas (evacuations d'exercice avec des inconnus a charge, Hakari interdit de zone, trajectoires calculees pour d'autres que soi). Etabli ensuite : le perimetre s'est referme sur une personne (cf. Pedagogie/Perso_Tokyo_2016-2019.md) | chantier perso : echec - un seul nom au perimetre |
 | avr 2017 (B3_3) | 2e annee a Tokyo (sous Kusakabe), avec Hakari. | entree en scene |
 | 24 dec 2017 (B3_4) | Nuit des Cent Fleaux (cote Tokyo, hors-POV de Nisha) : role. Detail -> Roadmap_B3. | (hors-POV) |
 | debut 2018 (B3_5) | Hakari suspendu dans la foulee de la Parade ; Kirara s'eloigne de l'universite avec lui (Gachinko Fight Club). | quitte le cadre universitaire |

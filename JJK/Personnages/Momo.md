@@ -1,6 +1,6 @@
 # Momo Nishimiya
 
-- version : W3
+- version : W4
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -41,7 +41,7 @@ Fiches propres : cf. Personnages/Nisha.md. Ici, seul le rapport a Momo.
 ## Trajectoire datee - ere B (entree B3 ; alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| avr 2017 (B3_3) | Passe en 2e annee, eleve de Nisha. Friction initiale, puis appropriation de son role de soutien. | de la friction a la vocation tactique |
+| avr 2017 (B3_3) | Passe en 2e annee, eleve de Nisha. Friction initiale (critique frontale du sexisme du milieu, face a une Zenin qui l'a transcende sans le contester), puis appropriation. Chantier perso : la FIERTE DE FONCTION - faire de l'oeil du ciel un poste INDISPENSABLE, pas un role de servante : Nisha lui confie la reconnaissance de chaque exercice et rend le trio DEPENDANT de sa voix, Todo et Noritoshi ne partent que sur son signal. Quand Nisha pose que les faibles servent les forts, Momo ne s'y soumet pas : elle se l'approprie (cf. Pedagogie/Perso_Kyoto_2016-2019.md) | de la friction a la vocation tactique ; chantier perso : l'oeil du ciel assume |
 | dec 2017 (B3_4) | Nuit des Cent Fleaux : oeil aerien decisif appuyant Mei Mei, Todo et Noritoshi. | preuve par les faits de sa valeur |
 | avr 2018 (B3_5) | Passe en 3e annee (sous Mei Mei). | -> seuil ere C |
 

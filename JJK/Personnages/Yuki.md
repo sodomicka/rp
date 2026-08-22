@@ -1,6 +1,6 @@
 # Yuki Tsukumo
 
-- version : W2
+- version : W3
 
 ## Identite
 - Yuki Tsukumo, une des QUATRE seules Grade Special de l'univers. Electron libre integral : elle a decroche son grade a l'universite, puis a claque la porte des institutions. Elle refuse les missions de universite d'exorcisme, meprise les autorites (meme degout que Gojo), vagabonde a l'etranger, a moto - reputee aussi puissante qu'irresponsable.
@@ -16,7 +16,7 @@
 ## Sort et scaling
 - Sort inne : Star Rage ("Rage des Etoiles"). Elle s'ajoute une masse VIRTUELLE / imaginaire - a elle ou a son shikigami Garuda - sans changer son poids reel ; chaque frappe gagne donc une force colossale. Couplee a son taijutsu, une cogneuse d'exception. (Au maximum, la masse vire au trou noir, mortel pour elle-meme.)
 - Shikigami : Garuda (libellule), que la masse virtuelle transforme en outil maudit.
-- Egalement : vastes reserves d'energie occulte, Sort d'Inversion (RCT), Domaine Simple, et capacite de Domaine.
+- Egalement : vastes reserves d'energie occulte, Sort d'Inversion (RCT), Domaine Simple, et capacite de Domaine. Le Domaine Simple, elle le TRANSMET hors de tout cadre scolaire - c'est d'elle qu'Aoi Todo le tient (canon). Cf. Personnages/Todo.md.
 - Scaling : 15 doigts (~51 %), Grade Special. HORS-CLASSEMENT officiel (a quitte le systeme) ; de facto 3e (Gojo 23 > Nisha 16 en 2007 > Yuki 15 > le reste).
 
 ## Relations

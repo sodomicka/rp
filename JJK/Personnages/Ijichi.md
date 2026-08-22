@@ -1,6 +1,6 @@
 # Kiyotaka Ijichi
 
-- version : W2
+- version : W3
 
 ## Identite
 - Kiyotaka Ijichi, 1re annee a l'universite de Tokyo en 2006 (promo 2006-2009), VOIE MANAGER (assistant). [DIVERGENCE RP] : le canon ne met que Nanami + Haibara en 1re annee 2006 ; Ijichi est un ajout RP - l'illustration que l'universite forme aussi des assistants, pas seulement des combattants.
@@ -16,6 +16,7 @@
 - Pas de technique innee de combat. Comme tout manager, il pose des shikigami simples et des BARRIERES ; sa specialite, ce sont les Rideaux (barrieres qui isolent une zone de combat du public et y forcent les fleaux a se manifester).
 - Combat : HORS-CLASSEMENT (voie manager, pas de grille de grade exorciste). Un Grade 4 symbolique tout au plus - les assistants gardent quand meme des bases (generalite de la voie).
 - MAIS sur l'axe des barrieres / dressage de rideaux : un vrai specialiste. Des l'universite il excelle dans ces cours ; sur ce point precis - et ce point SEULEMENT - il depasse un Nanami ou un Yaga et atteint un bon niveau Grade 1 (sous la promo des 4 prodiges, au-dessus du tout-venant). Un homme d'une seule force, mais une force reelle.
+- [DIVERGENCE RP] PRODIGE DU TISSAGE, et pas seulement bon eleve : il tisse mieux que des Grade 2, voire des Grade 1 dont c'est cense etre le metier. Techniquement, c'est un TISSEUR 3D PARFAIT - le trace continu qui concilie ancre et polarite, la ou presque tout le monde doit sacrifier l'une pour l'autre. Quelques-uns par generation : a la periode, lui, Akari Nitta et Satoru Gojo. Que deux des trois soient des non-combattants dit tout du mepris dans lequel le milieu tient cette discipline. Cf. Pedagogie/Detection_Contention_1eAnnee.md et Detection_Contention_2eAnnee_S1.md.
 
 ## Relations
 - [DIVERGENCE RP] Nisha Zenin - elle l'aime bien. Ce qui la touche : son absence totale de pretention (il ne joue pas a l'exorciste, il sert la lutte avec ce qu'il maitrise) et sa competence de specialiste. Elle-meme intraitable sur la rigueur, un manager-en-formation aussi serieux et doue dans son domaine lui inspire un respect sincere.

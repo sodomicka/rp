@@ -1,6 +1,6 @@
 # Kasumi Miwa
 
-- version : W3
+- version : W4
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e annee a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -47,7 +47,7 @@ Fiches propres : cf. Personnages/Utahime.md, Nisha.md. Ici, seul le rapport a Mi
 |---|---|---|
 | avr 2017 (B3_3) | 1e annee sous Utahime. | entree en scene |
 | dec 2017 (B3_4) | Nuit des Cent Fleaux : 1e annee maintenue avec Utahime (en retrait, hors de la melee principale). | protegee du gros de la bataille |
-| avr 2018 (B3_5) | Passe en 2e annee (sous Nisha). | -> seuil ere C |
+| avr 2018 (B3_5) | Passe en 2e annee (sous Nisha). Chantier perso : FRAPPER LA PREMIERE - son seul avantage dans un echange est le premier coup ; quand elle ne l'a pas, elle n'a rien. Nisha l'attaque a vitesse bridee, Miwa doit avoir degaine avant l'impact, la Chronostase tenant lieu de chronometre - la bride se resserre a mesure que le Batto s'affine. En cours a la frontiere (cf. Pedagogie/Perso_Kyoto_2017-2020.md) | chantier perso : degainer d'abord ; -> seuil ere C |
 
 ## Notes de frontiere
 - Rapport approfondi avec Nisha (2e annee) et concretisation du beat de possessivite -> ere C / roadmaps ere C. Non enonce ici.

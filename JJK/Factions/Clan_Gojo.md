@@ -1,6 +1,6 @@
 # Clan Gojo
 
-- version : W3
+- version : W4
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 (transcendance de Satoru en 2006, suite) -> roadmap, hors de cette page neutre.
 
@@ -19,6 +19,9 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 - [DIVERGENCE RP] Conseil d'anciens : bien plus nombreux, plus opaque et plus anonyme que le conseil Zenin. Hommes ET femmes (contraste avec le patriarcat Zenin).
 - [DIVERGENCE RP] Regle de souverainete : le conseil se place sous l'autorite ABSOLUE du guerrier parfait. En son absence, ce ne sont que des vieillards qui gerent le clan ; en sa presence, sa voix est la verite.
 - [DIVERGENCE RP] En 2005, Satoru est donc le chef de fait. Mais il ne se presente jamais comme tel : il joue les modestes sur son poids politique et financier (qui l'ennuie) et ne se vante que de ses sorts innes - le seul actif qu'il tient pour vraiment sien.
+
+## Formation interne
+- [DIVERGENCE RP] Les clans forment les leurs en interne, hors du circuit scolaire classique (cf. BIBLE SB1). Les Gojo sont les SEULS des trois grandes familles a s'abstenir de la violence infantile pratiquee chez les Zenin et les Kamo. [INCERTAIN] motif de cette abstention non etabli.
 
 ## Archives du clan
 [DIVERGENCE RP]

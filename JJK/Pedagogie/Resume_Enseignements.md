@@ -1,6 +1,6 @@
 # Resume des enseignements - Universites d'exorcisme
 
-- version : W3
+- version : W4
 
 Page = carte des enseignements des deux universites (Tokyo et Kyoto). Sert de socle au dossier Pedagogie/ : le cadre commun vit ici, le contenu reel des cours vit dans les fiches de cours (les six sujets et les huit fiches d'enseignement personnalise du perimetre sont buildes). Les intitules de la grille fixent le PERIMETRE ; sur le fond, la fiche de cours prime. Au prochain BIBLE BUILD : indexer les fiches neuves au Sommaire, reporter les propagations listees en _Implications.md.
 
@@ -45,7 +45,7 @@ Convention : les intitules fixent le perimetre, pas la repartition interne - cha
 ### Energie et territoires
 - 1A-S1 - L'energie occulte, flux et controle : nature, reserves, renforcement du corps, fuites, controle emotionnel.
 - 1A-S2 - Sorts innes : typologie, manier le sien, lire celui d'en face.
-- 2A-S1 - Techniques avancees : inversion (RCT, theorie), serments et pactes, Black Flash.
+- 2A-S1 - Techniques avancees : inversion (RCT, theorie), serments et pactes, Rayon Noir.
 - 2A-S2 - Territoires : territoire interieur, Domaine Simple, Extension de Territoire en theorie pure.
 
 ## Gabarit d'une fiche de cours

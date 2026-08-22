@@ -1,13 +1,13 @@
 # Akari Nitta
 
-- version : W4
+- version : W6
 
 Fiche noyau (canon + RP), entite entrant en scene au cours de l'arc B1 (2011, entree a Kyoto). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = qui est Nitta a son entree en scene (identite, nature, psychologie, relations) ; son devenir est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps ere B). Non-combattante (assistant manager) : hors-axe combat.
 
 ## Identite
 - Nom : Akari Nitta. Canon. Soeur AINEE d'Arata Nitta (confirme canon).
 - Naissance : non datee par le canon [INCERTAIN]. [DIVERGENCE RP] ~1993, derive du cursus universitaire (entree a Kyoto en 2011 vers 18 ans) ; a 19-20 ans pendant sa 2e annee (2012-2013).
-- Parents profanes (canon). Sans technique innee : voit a peine les fleaux. Filiere assistant manager (support non-combattant).
+- Parents profanes (canon). Sans technique innee - mais pas aveugle : elle porte un FILET MINIMAL d'energie occulte qui lui fait distinguer vaguement les fleaux, tout premier cran de l'echelle de vision. Filiere assistant manager (support non-combattant).
 - [DIVERGENCE RP] Eleve de l'universite de KYOTO, promo 2011-2014 (canon muet sur son universite et son annee ; canon : diplomee de Kyoto passee staff a Tokyo). Cf. Factions/Universite_Kyoto.md.
 
 ## Physique
@@ -16,13 +16,15 @@ Fiche noyau (canon + RP), entite entrant en scene au cours de l'arc B1 (2011, en
 ## Nature : non-combattante (assistant manager)
 - (canon) Aucune technique innee ; percoit a peine les fleaux. Sa voie est le SUPPORT : logistique, intel, liaison, transport, alibi de couverture - jamais le combat.
 - Profil identique a celui d'Ijichi (promo Tokyo 2006-2009) : la filiere manager de l'exorcisme. C'est cette voie que Nisha lui enseigne (cf. relation).
+- [DIVERGENCE RP] PRODIGE DU TISSAGE. Sans une once de sort inne, elle tisse mieux que des Grade 2, voire que des Grade 1 dont c'est cense etre le metier. Techniquement : TISSEUSE 3D PARFAITE - le trace continu qui concilie ancre et polarite, la ou presque tout le monde doit sacrifier l'une pour l'autre. Quelques-uns par generation ; a la periode, elle, Ijichi et Satoru Gojo. Cf. Pedagogie/Detection_Contention_1eAnnee.md et Detection_Contention_2eAnnee_S1.md.
+- [DIVERGENCE RP] Une BOBINE lui est offerte a la ceremonie de diplome - la reconnaissance d'une discipline que le milieu meprise, remise a celle qui la porte le mieux de sa promo.
 
 ## Psychologie
 - (canon) Gentille et attentionnee, mais tres serieuse des qu'il s'agit du travail. Consciencieuse, appliquee.
 - (canon) EX-DELINQUANTE : garde de ce passe un franc-parler et un temperament rebelle.
 - (canon) Passionnee de mecanique : aime customiser et modifier les voitures.
 - (canon) Grande soeur PROTECTRICE : sa motivation INITIALE a embrasser la voie d'assistant manager est de garder un oeil sur son petit frere Arata. Sa principale SOURCE DE STRESS est qu'Arata ne l'ecoute pas. Affection bourrue (agacement + tendresse).
-- [DIVERGENCE RP] DEUX MOTIVATIONS SUCCESSIVES, et c'est la seconde qui la definit adulte. Avant le diplome : le frere. Apres le diplome (2014) : la DOCTRINE de Nisha - "proteger les faibles, servir les forts" - qu'elle a recue de sa professeure et qu'elle fait sienne. Le frere ne disparait pas du tableau, il change de statut : de motif du choix de carriere, il devient le premier a qui elle appliquera la doctrine (cf. Notes de frontiere). Articulation qui explique aussi pourquoi le lien a Nisha survit au cursus.
+- [DIVERGENCE RP] DEUX MOTIVATIONS SUCCESSIVES, et c'est la seconde qui la definit adulte. Motivation initiale : choisir la filiere assistant manager pour veiller sur Arata (trait canon). Apres son diplome (2014), Akari fait sienne la DOCTRINE de Nisha - "proteger les faibles, servir les forts" - par conviction PROPRE : progressisme, place qu'elle veut occuper dans le monde occulte, ascendant de sa professeure. Elle n'endoctrine personne et n'agit pas pour son frere : elle a trouve sa ligne. Articulation qui explique aussi pourquoi le lien a Nisha survit au cursus.
 - [DIVERGENCE RP] Sa rigueur, son serieux ET son franc-parler sont precisement ce qui la fait apprecier de Nisha, intraitable sur l'exigence et la ponctualite (comme Nisha apprecie Nanami et Ijichi). Nuance : Nisha, conservatrice de caste mais sensible au merite et a la parole franche, forme une eleve dont la MENTALITE est, elle, progressiste.
 - [DIVERGENCE RP] Profil PROGRESSISTE : femme libre, rebelle, franche, amatrice de mecanique - l'oppose du conservatisme de caste. C'est cette mentalite qui la portera vers Tokyo (pole ouvert) plutot que vers le Kyoto conservateur (cf. Notes de frontiere, motif du transfert).
 
@@ -54,12 +56,12 @@ Fiches propres : cf. Personnages/Nisha.md, Ijichi.md. Ici, seul le rapport a Nit
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 2011 (B1) | Entre a Kyoto, 1re annee (sous Utahime) | entree en scene |
-| 2012-2013 (B1) | 2e annee : eleve et referente de Nisha. 1re vraie eleve de Nisha, formee a la pedagogie de mere | reussite pedagogique fondatrice cote Nisha |
+| 2012-2013 (B1) | 2e annee : eleve et referente de Nisha. 1re vraie eleve de Nisha, formee a la pedagogie de mere. Chantier perso : la PATIENCE DE LIAISON - tenir sa place sous rideau, sans nouvelles, pendant que tout brule de l'autre cote (rideaux tenus seule, operations que Nisha fait durer expres ; ponctualite exigee a la seconde, silence a la minute). Recoit en plus, hors de tout programme, la DOCTRINE - proteger les faibles, servir les forts (cf. Pedagogie/Perso_Kyoto_2011-2014.md) | reussite pedagogique fondatrice cote Nisha ; chantier perso : la patience forgee ; doctrine recue |
 | 2013-2014 (B1->B2) | 3e annee : passe sous Mei Mei (recrutee comme prof de 3e annee au resto de mars 2013) - boucle son cursus avec la pragmatique du trio | cursus Kyoto complet (douceur/rigueur/perfectionnement) |
 | 2014 (B2) | Diplomee, elle QUITTE Kyoto pour Tokyo, ou elle devient assistant manager. Motif [DIVERGENCE RP] : ALIGNEMENT DE MENTALITES - son profil progressiste (rebelle, franche, libre) ne tient pas au pole conservateur, elle rejoint le pole ouvert par affinite. Le motif canon "veiller sur Arata" ne s'applique PAS ici : Arata reste a Kyoto et n'y entrera qu'en 2018. BASCULE DE MOTIVATION : ce n'est plus le frere qui la porte, c'est la doctrine heritee de Nisha ("proteger les faibles, servir les forts") | assistant manager a Tokyo ; Ijichi devient son modele de metier ; premier relais de la doctrine hors du cercle Zenin |
 
 ## Notes de frontiere (hors B1)
-- [DIVERGENCE RP] APPLICATION DE LA DOCTRINE A ARATA : Akari appliquera a son frere le "proteger les faibles, servir les forts" recu de Nisha. DATE NON FIXEE [INCERTAIN] - la formulation du worldbuilder ("une fois diplome") peut se lire au diplome d'AKARI (2014, ere B) ou a celui d'ARATA (promo 2018-2021, donc ere C). A trancher avant d'en faire une entree datee.
+- [DIVERGENCE RP] ARATA A KYOTO : c'est Akari qui l'y pousse (promo 2018-2021), pour qu'il passe par le meme cursus qu'elle. Son rejet vise le clanisme de la vieille ville, PAS l'equipe pedagogique de Kyoto, dont elle est fan absolue. Rapport adulte du frere et de la soeur -> ere C.
 - Nuit des Cent Fleaux (Night Parade, 24 dec 2017, ere B3) : cote Tokyo, Nitta protege les rideaux et les civils (Tokyo epargne) et se rejouit de n'avoir pas pris part au massacre de Kyoto (Kyoto equarrit) - payoff de son choix progressiste. Evenement B3 -> a graver a chaud quand B3 sera roadmappe.
 - Carriere post-diplome, modele Ijichi, role dans le canon (escorte des 1res annees de Tokyo, incident de Shibuya 2018) : posterieur a B1 -> roadmaps B2/B3 et ere C.
 - Instance jouee : -> Parties/JJK/Partie<n>/ le cas echeant. Cette fiche reste la version neutre.

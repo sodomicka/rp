@@ -1,6 +1,6 @@
 # Suguru Geto
 
-- version : W5
+- version : W7
 
 Page = fiche personnage : noyau (etat 2005) + Trajectoire datee (post-2005). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB5.
 
@@ -32,6 +32,7 @@ Page = fiche personnage : noyau (etat 2005) + Trajectoire datee (post-2005). Fai
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| avr 2005 -> 2007 | Chantier perso de Yaga : la COMMANDE SIMULTANEE - tenir plusieurs fleaux en manoeuvre coordonnee (les pantins de Yaga contre son armee ; d'artisan a artisan, le seul endroit du cursus ou Yaga enseigne quelque chose a un futur Special). [INTERPRETATION] l'armee coordonnee ainsi apprise est celle du massacre de fin 2007 - et c'est Yaga lui-meme qui decouvre les faits (cf. Pedagogie/Perso_Tokyo_2005-2008.md) | chantier perso : coordination acquise, retournee contre le monde |
 | sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) J1 : tombe a deux (Naoya + Ranta) en foret ; J2 : bat Utahime | -- |
 | avr 2006 (A2_1) | Rentree de 2e annee ; rencontre les 1res annees : Nanami (serieux, sceptique), Haibara (lumineux), Ijichi | -- |
 | printemps 2006 (A2_2) | Mission boucle (manoir hante) avec le quatuor ; Nisha les avertit, lui et Satoru : "Amanai n'est pas une fillette, c'est une ressource... on ne s'attache pas" | ironie plantee (il s'attachera) |
@@ -43,6 +44,12 @@ Page = fiche personnage : noyau (etat 2005) + Trajectoire datee (post-2005). Fai
 | fin 2007 (A2_9) | Decouvert via Yaga. Nisha + Shoko (les deux cyniques) acceptent d'entendre pourquoi - beat TERMINAL de l'opposition Nisha/Geto : elles entendent le monstre sans le suivre. Satoru, lui, refuse d'entendre, le confronte (scene de rue) mais le laisse partir, incapable de tuer son meilleur ami. Geto defecte et FONDE SA SECTE | defection consommee ; opposition Nisha/Geto soldee ; absent du diplome (hiver 2008) |
 
 [DIVERGENCE RP] Datation A2_8 : le canon situe la mort de Haibara puis le massacre du village en septembre 2007 (Geto entre au village le 18 sept ; rapport d'incident date du 28 sept). Le RP les repousse a FIN 2007 - apres la fenetre de l'Amicale de septembre (edition 2007 non tenue, cf. WIKI Factions/Tournoi.md) -, pour que Tokyo soit deja instable AVANT le massacre (climat post-Riko 2006) et non a cause de lui. Aligne avec Haibara A2_8 et Nanami A2_8.
+
+## Posterite pedagogique
+[DIVERGENCE RP] Son cas est enseigne dans les deux universites, sous DEUX REGIMES successifs :
+- Rentrees 2008-2017 : en PREVENTION. Geto est une menace contemporaine et vivante ; la Manipulation des Esprits Maudits s'explique comme mecanique de sort autant que comme avertissement - ce que devient un prodige qui bascule. On enseigne un homme qu'on peut encore croiser.
+- A partir de la rentree d'avril 2018 : en HISTOIRE RECENTE. Le dossier est clos avec la Nuit des Cent Fleaux ; Geto devient un moment cle du programme, plus un danger a signaler.
+- Cf. Pedagogie/Fleaux_Histoire_2eAnnee.md et Pedagogie/Energie_Territoires_1eAnnee.md.
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Detail narratif de la descente et de la defection : -> Roadmap A2_1 a A2_9.

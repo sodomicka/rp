@@ -1,6 +1,6 @@
 # Naoya Zenin
 
-- version : W12
+- version : W13
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -53,6 +53,7 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 1 avr 2005 | Nisha transferee a Tokyo : routine quotidienne des jumeaux reduite aux week-ends sur deux | separation au quotidien |
+| avr 2005 -> 2008 | Chantier perso de Gakuganji : le UN CONTRE UN sans sa jumelle - duels solo, adversaires non annonces, et le metronome : la guitare de Gakuganji tient le tempo des 24 images la ou Nisha le tenait, jusqu'a ce qu'il n'ait plus besoin ni de l'une ni de l'autre pour compter. Valide a moitie au tournoi : il tient seul face a tout le monde, sauf face au dieu (cf. Pedagogie/Perso_Kyoto_2005-2008.md) | chantier perso : autonomie solo forgee, plafond Satoru |
 | sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) J1 : avec Ranta, fait tomber Geto en foret ; dernier debout -> victoire Kyoto ; J2 : obtient son duel reclame vs Satoru, perd | rival jauge ; gout d'inacheve |
 | printemps 2006 (A2_1bis) | Avec Nisha, au domaine (week-end des jumeaux reunis), harcele les cousines Maki et Mai (7 ans) : parlees a la 3e personne, "ratees", "Ogi aurait du se faire seppuku", graviers sub-soniques dans les mollets ; va narguer Ogi sur la loterie genetique (lui les mauvais numeros, Naobito le jackpot ; Ogi muet) | dernier age d'or insouciant (IRONIE : protectorat trois etapes plus loin, A2_6) |
 | 2006 (A2_5) | Apprend que Toji a failli tuer Nisha et que Satoru l'a sauvee ; fonce de Kyoto a Tokyo. Premier reflexe : REMERCIER Satoru d'avoir sauve sa moitie -> FIN DU GRIEF (il respecte le second protecteur de Nisha, malgre leurs differends) | grief Naoya/Satoru solde ; solo -> 10 doigts |

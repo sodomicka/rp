@@ -1,12 +1,13 @@
 # Universite d'Exorcisme de Kyoto
 
-- version : W4
+- version : W5
 
 Page = faction du monde (institution). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4.
 
 ## Nature
 - Canon : l'une des deux grandes universites de formation de l'exorcisme, dite universite soeur de Tokyo. Nom : Kyoto Prefectural Curse Technical College / universite de Kyoto. Forme les exorcistes, distribue les grades, repartit les missions.
 - Canon : forme aussi bien des exorcistes que des assistant managers ; petites promotions, cursus adapte a chaque eleve.
+- [DIVERGENCE RP] FONDATION : ere Meiji, conjointement avec Tokyo, dans la restructuration du monde de l'exorcisme qui accompagne l'ouverture du Japon. Adossee des l'origine aux barrieres de Tengen. Les deux universites se declarent heritieres de la doctrine fondatrice - le recit de Nara, dont la BIBLE etablit qu'il est faux (cf. SB1, plafond absolu du savoir enseigne). cf. Pedagogie/Fleaux_Histoire_2eAnnee.md.
 - Derive des hautes instances (gouvernance) et des barrieres de Tengen (securite). cf. Factions/Hautes_Instances.md, Personnages/Tengen.md.
 - Territoire : implantee sur le turf partage des clans Kamo et Zenin (Kyoto). cf. Factions/Clan_Kamo.md, Factions/Clan_Zenin.md.
 - [DIVERGENCE RP] Pole conservateur du monde de l'exorcisme (adosse a Gakuganji, aux hautes instances et aux deux clans traditionalistes), par opposition a l'ouverture de Tokyo. L'axe et ses enjeux -> roadmap.
@@ -27,6 +28,12 @@ Page = faction du monde (institution). Faits canon non balises (niveau etabli) ;
 - Utahime Iori : professeure de premiere annee.
 - Nisha Zenin : professeure de deuxieme annee.
 - Mei Mei : professeure de troisieme annee des la rentree avr 2013, recrutee au resto Utahime/Nisha/Mei Mei (mars 2013). Meme rentree que le decumul de Yaga a Tokyo (-> Nanami ; cf. Factions/Universite_Tokyo.md). [DIVERGENCE RP vs canon] (Mei Mei est une exorciste freelance dans le canon, pas une enseignante).
+
+## Rituel des detenteurs de domaine
+[DIVERGENCE RP]
+- Pratique des professeurs qui possedent une Extension de Territoire : ils MONTRENT leur territoire aux eleves qui ont gagne leur confiance - deploye en passif, sans frapper. A Kyoto, Nisha le fait a la FIN DE LA 2e ANNEE, la sienne (Sphere du Temps Infini).
+- DOCTRINE DE NISHA : expliquer AVANT de montrer. Le rituel tombe une fois la theorie du domaine bouclee (2A-S2, octobre-mars) : elle exige que le savoir soit ancre avant toute promesse de puissance. Pas de reve vendu a des eleves qui n'ont pas les mots pour comprendre ce qu'ils voient. cf. Pedagogie/Energie_Territoires_2eAnnee.md.
+- Le meme rituel se pratique a Tokyo avec la doctrine INVERSE (Satoru, fin de 1re annee : montrer d'abord, vendre du reve). Ses eleves ressentent avant de lire, ceux de Nisha lisent avant de ressentir. Meme geste, deux pedagogies - prolongement direct de l'opposition conservatisme/ouverture des deux poles, et de l'opposition personnelle des deux enseignants. cf. Factions/Universite_Tokyo.md.
 
 ## Eleves (promotions par annee d'entree)
 Convention : "annee d'entree - annee de diplome" (cursus de trois ans).

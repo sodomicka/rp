@@ -1,11 +1,18 @@
 # Doigts de Sukuna - Power-scaling
 
-- version : W9
+- version : W10
 
 ## Unite
 - Unite de puissance de l'univers = le doigt de Sukuna.
 - 20 doigts = Sukuna complet = 100 pourcent.
 - 1 doigt = 5 pourcent. Echelle NON lineaire (resonance) : 2 doigts ne valent pas 10 pourcent.
+
+## Statut de l'unite (in-world / meta)
+[DIVERGENCE RP]
+- Jusqu'en 2018, l'unite est PUREMENT EXTRADIEGETIQUE : personne ne compte en doigts. Aucune mesure de reserve n'est enseignee nulle part ; clans et universites jaugent par GRADE, point.
+- ERE C : une fois Yuji recrute, Satoru et Nisha observent son evolution sur trois doigts et EXTRAPOLENT la courbe. L'unite devient alors diegetique - mais d'usage restreint au couple et a la famille. Clans et ecoles conservent le systeme des grades.
+- Consequence de MJ : avant 2018, aucun personnage ne peut citer ni meme penser un chiffre en doigts. La table ci-dessous est un outil d'arbitrage hors-fiction, pas un savoir du monde.
+- Doctrine des reserves et des grades : cf. BIBLE SB1 et Pedagogie/Energie_Territoires_1eAnnee.md.
 
 ## Formule
 P(n) = 5 + 95 * ((n - 1) / 19) ^ 2.35   (en pourcent, pour n >= 1)
@@ -81,7 +88,7 @@ Note : Grade Special 1 (rang elite des grandes familles, hors universite d'exorc
 | Todo (2017-2018) | 7 | 11.33 | [DIVERGENCE RP] eleve de Nisha (promo 2016-2019), Boogie Woogie ; sommet de sa generation d'eleves |
 | Naoya (2005) | 8 | 14.09 | [DIVERGENCE RP] -> courbe A2 (10/11/12), 14 adulte ; cf. Courbes A2 |
 | Hakari (2017-2018) | 8 | 14.09 | [DIVERGENCE RP] base Grade 1 ; en MODE JACKPOT, ponctuellement HORS-ECHELLE (intuable ~4 min, cf. fiche) |
-| Nanami (adulte, ere B) | 8 | 14.09 | [DIVERGENCE RP] Grade 1 ; prof de 3e annee a Tokyo des avr 2013 ; record 4x Black Flash au front de Tokyo (Parade 2017) |
+| Nanami (adulte, ere B) | 8 | 14.09 | [DIVERGENCE RP] Grade 1 ; prof de 3e annee a Tokyo des avr 2013 ; record 4x Rayon Noir au front de Tokyo (Parade 2017) |
 | Gakuganji | 9 | 17.44 | [DIVERGENCE RP] Grade Special 1 (hors-grading des universites), plus fort que Yaga |
 | Jinichi | 10 | 21.41 | [DIVERGENCE RP] pilier du Hei |
 | Gojo (2005, pre-Toji) | 12 | 31.30 | -> 14 en 2006 puis 23 a l'eveil ; cf. Courbes A2 |
@@ -99,7 +106,8 @@ Note : Grade Special 1 (rang elite des grandes familles, hors universite d'exorc
 | Sukuna (complet) | 20 | 100.00 | reference de l'echelle |
 | Gojo (post-Toji) | 23 | 139.07 | apogee atteinte tres tot, plafond |
 
-Assistant managers (Ijichi, Nitta, Arata Nitta, etc.) : hors-classement combat, Grade 4 symbolique (role logistique, pas de scaling de combat pertinent).
+Assistant managers (Ijichi, Nitta, etc.) : hors-classement combat, Grade 4 symbolique (role logistique, pas de scaling de combat pertinent). Aucun don, aucun sort inne.
+Arata Nitta : hors-axe combat lui aussi, mais PAS un assistant manager - c'est un exorciste non-combattant DOTE d'un sort inne (Pain Killer). Categorie distincte, a ne pas confondre. cf. Personnages/Arata_Nitta.md.
 
 ## Courbes A2 (progression 2005 -> 2008)
 Les prodiges montent en continu sur l'arc A2 (pas un saut, sauf l'eveil de Gojo). Valeurs en doigts (% entre parentheses) :
@@ -174,8 +182,8 @@ Note : en DUO, des combinaisons depassent 23 (Maki+Mai, Satoru+Nisha a apogee ; 
 - Reperes Nisha, Naobito, Naoya, Jinichi, Ogi, soldats du Hei : [DIVERGENCE RP] (OC ou lecture worldbuilder).
 - Courbes A2 (Nisha, Gojo, Geto, Naoya) : [DIVERGENCE RP], cadence de progression fournie par le worldbuilder.
 - Reperes Shoko, Yaga, Gakuganji, Mei Mei, Utahime : [DIVERGENCE RP], cales sur leurs fiches noyau. Mei Mei et Utahime evoluent post-2008 (Mei Mei 5 -> 7 ; Utahime 4 -> 5). Shoko et Utahime se lisent en soutien / soin, hors-axe combat.
-- Casting B3 (Yorozu, Todo, Noritoshi, Momo, Miwa, Mechamaru, Toge, Yuta, Hakari, Kirara) : [DIVERGENCE RP], scalings fournis par le worldbuilder (session B3). Arata Nitta hors-axe (assistant manager).
-- Nanami adulte : 8 doigts (Grade 1). [DIVERGENCE RP] fixe par le worldbuilder - cale sur sa resistance canon face a Mahito et sur le record 4x Black Flash. Nanami etudiant (A2) reste a ~3-4 doigts, Grade 2.
+- Casting B3 (Yorozu, Todo, Noritoshi, Momo, Miwa, Mechamaru, Toge, Yuta, Hakari, Kirara) : [DIVERGENCE RP], scalings fournis par le worldbuilder (session B3). Arata Nitta hors-axe (exorciste non-combattant a sort inne, PAS assistant manager).
+- Nanami adulte : 8 doigts (Grade 1). [DIVERGENCE RP] fixe par le worldbuilder - cale sur sa resistance canon face a Mahito et sur le record 4x Rayon Noir. Nanami etudiant (A2) reste a ~3-4 doigts, Grade 2.
 - Yuki Tsukumo, assistant managers : [DIVERGENCE RP], lecture worldbuilder.
 - Loi synergie/symbiose : [DIVERGENCE RP], calee sur les apogees fournis par le worldbuilder. Split synergie +10 % / symbiose +16 % ; le total +26 % est impose par l'apogee Naoya+Nisha = 24 doigts. syn/sym par duo fixes au cas par cas en roadmap (actes : Mei Mei+Ui Ui 100 % ; Nisha+Geto 85 % en 2006-2007).
 - Partage gemellaire Maki/Mai : [DIVERGENCE RP], table fournie par le worldbuilder ; mecanique du curseur -> roadmap.

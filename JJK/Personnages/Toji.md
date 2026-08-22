@@ -1,6 +1,6 @@
 # Toji Fushiguro
 
-- version : W6
+- version : W7
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (TERMINAL en A2 : mort en 2006).
 
@@ -40,6 +40,12 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 | 2006 (A2_4) | LE PIVOT TOJI. A l'approche de chez Tengen : frappe Gojo (garde relachee) et le tue - Gojo ne reviendra que par l'eveil RCT. Puis tue Riko Amanai (qui venait de choisir de vivre). Geto, pousse par la mort de Riko, l'affronte : son armee de fleaux ne suffit pas face a un anti-exorciste indetectable et surarme (Geto SANS domaine, canon) ; Toji le bat et l'EPARGNE - le tuer libererait d'un coup toute sa horde de fleaux | demontre l'ecart anti-exorciste ; Riko morte, Geto hors combat |
 | 2006 (A2_4) | DUEL contre Nisha, arrivee trop tard (hypersonique) devant chez Tengen, mission deja accomplie. Ses sorts de temps neutralises par la nature anti-exorciste de Toji, son SEUL atout est la vitesse : elle vide le collier (1re detonation des 76 billes de tungstene, kinetique pure qui contourne l'anti-sort ; cf. SB7), le manque de tres peu - mais Toji reprend le dessus en quelques dizaines de secondes. Tabassee par "le chien des Zenin", elle comprend qu'elle n'avait AUCUNE chance | collier detone ; le mepris d'enfance des jumeaux solde ironiquement |
 | 2006 (A2_4, fin) | Satoru, ressuscite et eveille, la sauve in extremis et acheve un Toji mortellement blesse. Mourant, Toji revele a Satoru l'existence de son fils Megumi ET le contrat de vente conditionnel qui le lie au clan Zenin (livrable a l'apparition d'un sort), puis meurt | MORT (terminal en A2) ; Megumi + le contrat reveles a Satoru (graine -> A2_5 / ere B) |
+
+## Posterite documentaire
+[DIVERGENCE RP]
+- ARCHIVES ZENIN : le clan conserve le dossier COMPLET de son cas - identite, croisement Gojo x Zenin, absence totale de perception occulte, parade profane. Rien n'en sort. Cf. Factions/Clan_Zenin.md.
+- UNIVERSITES : hors du clan, Toji ne circule que sous forme de CAS D'ECOLE ANONYME. La designation est enseignee, jamais l'identite ni l'affiliation. Deux entrees au programme, posthumes : rentree 2006 en Energie et territoires (1re annee), ou son cas fait BASCULER la doctrine de la Restriction Celeste - d'infirmite lue dans les manuels a corps et instinct decuples en contrepartie du vide ; rentree 2007 en Detection et contention (1re annee), sous la designation du "ZERO ABSOLU" - menace a energie nulle, invisible a toute perception occulte, parade profane obligatoire. Cf. Pedagogie/Energie_Territoires_1eAnnee.md et Pedagogie/Detection_Contention_1eAnnee.md.
+- Ironie : le monde enseigne desormais a se defendre de lui sans savoir de qui il parle, et le seul endroit ou son nom est ecrit est le clan qui l'a jete.
 
 ## Notes de frontiere (hors noyau)
 - Detail narratif du pivot (deroule scene par scene) : -> Roadmap A2_3-A2_4.

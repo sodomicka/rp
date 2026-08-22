@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W12
+- version : W14
 
 Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depart (2005) : identite, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datee post-depart) est scinde par volume pour le poids -> cf. section dediee en bas de fiche et Personnages/Nisha_chrono_A.md.
 
@@ -32,6 +32,10 @@ Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depar
 - [DIVERGENCE RP] Application cognitive et scribale : conscience et corps acceleres -> lecture et recopiage de textes a une vitesse absurde. C'est a elle que Nisha doit son statut de genie (apprentissage devorant, archives comprises). PAS de memoire photographique : elle recopie, elle ne photographie pas.
 - Forme ultime = le gel, debloquee seulement en territoire. Le gel inclut le tir cinetique : il est identique a la Chronostase complete.
 
+### Facade publique : un seul sort
+- [DIVERGENCE RP] Nisha se presente partout comme porteuse d'UN sort inne, la Chronostase. L'existence du second (et donc du parasite) n'est connue que d'un cercle etroit : Naoya, Naobito et le conseil du clan, plus tard Satoru et ses proteges une fois la confiance etablie. Perimetre du secret : cf. Factions/Clan_Zenin.md.
+- [DIVERGENCE RP] Cas d'ecole a partir des rentrees 2008+, une fois la promo des quatre prodiges diplomee (on enseigne un prodige apres son passage, jamais pendant) : elle est enseignee dans les deux universites comme l'exemple type de la MUTATION DE LIGNEE (Projection -> Chronostase) - un sort de famille qui derive chez un descendant. L'enseignement ne porte que sur le sort inne ; personne en amphi ne soupconne la Chronokinesie. Cf. Pedagogie/Energie_Territoires_1eAnnee.md.
+
 ### Frontiere des deux sorts
 - Chronostase = fige + gorge + tire (batterie cinetique).
 - Chronokinesie = regle le debit du temps.
@@ -43,7 +47,7 @@ Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depar
 - Interieur : le temps suit sa propre horloge. Nisha y utilise Chronostase et Chronokinesie sans toucher, et debloque l'inversion temporelle.
 - Inversion temporelle : sur son propre corps. Un bras tranche se de-tranche, une brulure se de-brule. Ce n'est PAS le sort d'inversion (RCT) : c'est une inversion temporelle litterale, au-dessus de la RCT.
 - Cout : vide colossalement ses reserves d'energie occulte. Ultime recours. Apres usage, hors d'etat de se battre.
-- [DIVERGENCE RP] Domaine acquis a 8 ans (1995). Mecanique justificative liee a Eien et aux territoires, a detailler (autre thread).
+- [DIVERGENCE RP] Domaine acquis a 8 ans (1995), et FORCE : Nisha projetant sa conscience dans le Jardin des Eres Mortes depuis 1991, Eien s'en est servie pour l'agresser a repetition avec son propre territoire, jusqu'a faire eveiller le sien. Motif du parasite : preparer le corps qu'elle comptait prendre a 10 ans. Le procede est le seul forcage connu au monde (cf. BIBLE SB1) et son resultat n'est jamais garanti - ici, il a trop bien marche. Cf. Personnages/Eien.md.
 
 ## Pool gemellaire (mecanique)
 [DIVERGENCE RP] Reecriture du partage Maki/Mai. Pas un pool commun "chacun son energie", mais "chacun sa contribution, chacun tire une moitie".
@@ -98,6 +102,7 @@ Fiche propre de Naoya : cf. Personnages/Naoya.md. Ici, seul son rapport a Nisha.
 - Pre-universite : plafonnee Grade Special 1 (classement hors universite d'exorcisme, rang elite Zenin). Limite administrative, pas de puissance.
 - A l'universite (2005) : accede au classement officiel, passe vite Grade Special.
 - En doigts de Sukuna, progression rapide et continue (pas un saut) : 13 a l'entree (2005) -> 15 en 2006 -> 16 en 2007 -> 18 a la sortie de l'universite (2008). Elle apprend vite au contact de Satoru et la competition l'empeche de se faire distancer : elle atteint son apogee (18) des la fin de l'universite. Detail et reperes : cf. WIKI Power_Scaling/Doigts_de_Sukuna.md.
+- [DIVERGENCE RP] RAYON NOIR : trivial pour elle. Elle n'a jamais pris la peine de compter ses occurrences et le tient pour une frappe de Grade 1 / Special comme une autre - meme lecture chez Satoru. Leurs Rayons Noirs ne comptent donc pas dans le record officiel : Nanami passe pour un prodige sur ce terrain parce que les deux monstres ne jouent pas. Cf. Personnages/Nanami.md.
 - Trajectoire : numero 1 mondiale a partir de 2005 (18 ans), jusqu'a la transcendance de Gojo (2006, arc Hidden Inventory). Passe ensuite numero 2, loin derriere lui (Gojo 23 apres son eveil ; elle 15 puis 18).
 
 ## Chronologie noyau (jusqu'au point de depart, 2005)
@@ -108,7 +113,7 @@ Fiche propre de Naoya : cf. Personnages/Naoya.md. Ici, seul son rapport a Nisha.
 | aout 1991 | Eveil des innes : Naoya la Projection, Nisha la Chronostase. Eien commence a craindre pour sa suprematie. |
 | 1995 | Nisha etend son territoire (Sphere du Temps Infini, 8 ans). Fin du statut servile, devient favorite de Naobito. |
 | 1997 | Putsch d'Eien (10 ans), echoue. Nisha le sent, le dit a son pere. Faite Grade Special 1. |
-| 2000 | Statut de prodige (13 ans) : acces officiel aux archives du clan, jusque-la interdites aux femmes (elle s'y infiltrait). |
+| 2000 | Statut de prodige (13 ans) : acces officiel aux archives du clan, jusque-la interdites aux femmes (elle s'y infiltrait). La meme annee, elle PROUVE au conseil (Naobito, Ogi, Jinichi) que le parasite ne sera jamais un probleme - dossier clos, le clan n'y reviendra pas. |
 | 2005 | Inscrite a Tokyo (universite d'exorcisme). Point de depart du RP jouable. |
 
 ## Cinq raisons du transfert a Tokyo (2005)
@@ -130,7 +135,6 @@ Apportees par le conseil Zenin (Naobito, Jinichi, Ogi).
 - Backstory COMPLETE detaillee + instance jouee : a venir en Parties/JJK/Partie1/Suivi/ + CODEX (setup / V1).
 - Fiches propres d'Eien et Kenjaku : cf. WIKI Personnages/. Fiche de Naoya : cf. Personnages/Naoya.md.
 - Cosmogonie du couple, origine des trois familles : cf. WIKI Cosmogonie/Trois_Esprits.md.
-- Mecanique des territoires (justification du domaine a 8 ans, raison de la crainte d'Eien) : autre thread.
 - Devenir post-A2 (ere B+) : convergence de la bascule d'Eien (failles engrangees) et de l'essor de son instinct protecteur (~2015+) ; elle forme Akari Nitta a Kyoto ; la tension avec Yuki detonera post-Shibuya (Nisha la tiendra pour responsable du desastre Geto + Kenjaku-dans-Geto). -> Nisha_chrono_B.md / roadmaps ere B.
 - Sort de Satoru a partir de 2018 : OUVERT, peut diverger du canon - Nisha a ses cotes peut en devier le cours. Reference canon (dates in-world) : scelle a Shibuya le 31 oct 2018, libere puis tue par Sukuna le 24 dec 2018 (Shinjuku). Rien de cela n'est acquis dans le RP ; a trancher plus tard (cf. BIBLE SB8).
 

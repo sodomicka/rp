@@ -1,6 +1,6 @@
 # Kokichi Muta (Mechamaru)
 
-- version : W3
+- version : W5
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e annee a Kyoto (via son robot). Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -11,6 +11,7 @@ Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e
 
 ## Restriction Celeste inverse [DIVERGENCE RP]
 - Type INVERSE (cf. Cosmogonie/Trois_Esprits.md, Clan_Kamo.md) : corps SACRIFIE (ne gravement handicape - membres atrophies, douleur permanente, intolerance a la lumiere) en echange d'un RESERVOIR massif d'energie occulte et d'une PORTEE hors norme.
+- [DIVERGENCE RP] PERSONNE AU MONDE n'a identifie ce type avant lui. La doctrine enseignee ne connait qu'un seul type de Restriction Celeste, le physique (cas Zenin), et ignore jusqu'a l'existence d'une typologie - archives claniques comprises. Le cas Muta ne se repand pas davantage dans l'enseignement : il est vu, pas diffuse. Cf. Pedagogie/Energie_Territoires_1eAnnee.md, Factions/Clan_Zenin.md.
 - Origine du croisement : pere Muta (branche tertiaire Kamo, don sang) x mere Zenin qui s'ignorait Zenin (don temps). Le sang DOMINE -> oriente l'energie (intensite + portee). L'oppose exact de Toji/Maki (temps dominant -> type physique). Deux parents exorcistes, aucun conscient de son rattachement de clan, lui non plus.
 
 ## Physique
@@ -55,7 +56,7 @@ Fiches propres : cf. Personnages/Utahime.md, Miwa.md, Nisha.md ; Factions/Clan_K
 |---|---|---|
 | avr 2017 (B3_3) | 1e annee sous Utahime (via le robot). Nisha percoit sa Restriction ; debut d'une confiance. | un lien se noue |
 | dec 2017 (B3_4) | Nuit des Cent Fleaux : 1e annee maintenue avec Utahime (en retrait). | protege du gros de la bataille |
-| avr 2018 (B3_5) | Passe en 2e annee (sous Nisha). | -> seuil ere C |
+| avr 2018 (B3_5) | Passe en 2e annee (sous Nisha). Chantier perso : la FINESSE - piloter au millimetre (golem desarme, manipulation de fragile a pleine portee ; l'intensite est une evidence, la precision est la seule chose qui manque a un corps qu'on ne voit jamais). En cours a la frontiere (cf. Pedagogie/Perso_Kyoto_2017-2020.md) | chantier perso : le millimetre ; -> seuil ere C |
 
 ## Notes de frontiere
 - [DIVERGENCE RP - spoil ere C, non roadmappe : direction connue, detail volontairement absent] Malgre la confiance nouee avec Nisha, Muta TRAHIRA (taupe, comme au canon). Mais il parviendra a appeler Nisha a l'aide ; elle interviendra a temps pour le SAUVER de Mahito. POINT CAPITAL A PRESERVER : lors de cette intervention, NISHA NE CROISE PAS Kenjaku-dans-Geto.

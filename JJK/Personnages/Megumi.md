@@ -1,6 +1,6 @@
 # Megumi Fushiguro
 
-- version : W3
+- version : W4
 
 Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = qui est Megumi a son entree en scene (identite, nature, sort, psychologie, relations) ; son devenir post-2008 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps ere B). Enfant sur tout B1 : scaling de combat non pertinent (potentiel seulement).
 
@@ -18,6 +18,12 @@ Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008
 - [DIVERGENCE RP] Don de clan greffe : les Dix Ombres sont une greffe ancestrale ex-Sugawara logee dans le clan Zenin (cf. Cosmogonie/Trois_Esprits.md). Megumi le porte par sa lignee paternelle (Toji, ne Zenin) - d'ou la convoitise du clan.
 - Mahoraga (l'invocation indomptable, sommet interdit de la technique) : potentiel lointain, JAMAIS approche en B1 (enfant). Pointeur seulement -> ere C.
 - En B1, Megumi est un debutant : il revele ses premiers shikigami vers 2009 (cf. Trajectoire datee) et apprend a les dompter, sans rien d'avance sur son age.
+
+## Territoire interieur : le Jardin des Ombres
+[DIVERGENCE RP]
+- Megumi a DEJA APERCU son territoire interieur : un espace d'ombres qu'il appelle le Jardin des Ombres. Apercevoir n'est pas deployer - il ne sait pas l'etendre, et rien ne dit qu'il y arrivera.
+- Ses deux parents le savent, et c'est le CHANTIER de sa scolarite universitaire. Deux voies : le FORCAGE (Satoru l'agresse avec la Sphere de l'Espace Infini - seul procede connu au monde, resultat non garanti, rare car epuisant pour les deux ; cf. BIBLE SB1) et, entre deux tentatives, le chantier ordinaire - se battre pour GAGNER, la ou l'instinct du gamin est de survivre et de proteger.
+- Cf. Personnages/Satoru.md, Pedagogie/Perso_Tokyo_2018-2021.md.
 
 ## Psychologie
 - (canon) Serieux, reserve, taciturne. Sens aigu de la justice, mais selectif - il ne cherche pas a sauver tout le monde, mais "les gens bien" ; aide inegale assumee.

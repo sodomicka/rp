@@ -1,6 +1,6 @@
 # Kenjaku
 
-- version : W5
+- version : W6
 
 Canon JJK + couche RP (origine Kamo, couple avec Eien). Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -22,6 +22,12 @@ Canon JJK + couche RP (origine Kamo, couple avec Eien). Fiche noyau (atemporel) 
 ## Realisations (canon, relues par le RP)
 - Peintures Mortes : comme Noritoshi, sequestre une femme porteuse d'hybrides, mele le sang Kamo -> Choso, Eso, Kechizu. [DIVERGENCE RP] Choso coconcu avec Eien-dans-Nanao.
 - Yuji Itadori = projet : enfant concu avec Jin Itadori (le pere de Jin est le jumeau reincarne de Sukuna), un doigt de Sukuna scelle en lui a la naissance -> receptacle.
+
+## La Lisiere du Supplice
+[DIVERGENCE RP] sur l'origine (le canon en fait un objet maudit de grade special sans auteur).
+- ELLE EST DE SA MAIN. Deux siecles de tissage pour un objet a USAGE UNIQUE : un rideau ENTREMELE, tisse pour se refermer sur une cible vivante et la sceller.
+- Composition : double Levy d'ordre 11, Gosper d'ordre 9, Koch d'ordre 23. Personne au monde ne la connait hors du couple architecte - les rideaux fractals d'ordre 8 et au-dela sont deja la specialite documentaire des Kamo, et il est alle bien au-dela. Cf. Factions/Clan_Kamo.md, Pedagogie/Detection_Contention_2eAnnee_S1.md.
+- Destination connue du RP : le sceau de Satoru. Le "comment" y mener sa cible est ce qu'il ARRACHE a Nisha en 2015 (cf. Trajectoire datee).
 
 ## Role cosmogonique (avec Eien)
 - [DIVERGENCE RP] Co-architecte des trois familles : forge des techniques, selection du sang, infiltration des clans. Detail : cf. Cosmogonie/Trois_Esprits.md.

@@ -1,12 +1,13 @@
 # Universite d'Exorcisme de Tokyo
 
-- version : W3
+- version : W4
 
 Page = faction du monde (institution). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4.
 
 ## Nature
 - Canon : l'une des deux grandes universites de formation de l'exorcisme (l'autre = Kyoto, universite soeur). Nom : Tokyo Metropolitan Curse Technical College / universite de Tokyo. Forme les exorcistes, distribue les grades, repartit les missions.
 - Canon : forme aussi bien des exorcistes que des assistant managers ; les promotions sont de petite taille, ce qui permet d'adapter le cursus a chaque eleve.
+- [DIVERGENCE RP] FONDATION : ere Meiji, conjointement avec Kyoto, dans la restructuration du monde de l'exorcisme qui accompagne l'ouverture du Japon. Adossee des l'origine aux barrieres de Tengen. Les deux universites se declarent heritieres de la doctrine fondatrice - le recit de Nara, dont la BIBLE etablit qu'il est faux (cf. SB1, plafond absolu du savoir enseigne). cf. Pedagogie/Fleaux_Histoire_2eAnnee.md.
 - Derive des hautes instances (gouvernance) et des barrieres de Tengen (ossature securitaire). Sans Tengen, l'universite tombe. cf. Factions/Hautes_Instances.md, Personnages/Tengen.md.
 - Territoire : implantee sur le turf du clan Gojo (Tokyo). cf. Factions/Clan_Gojo.md.
 - [DIVERGENCE RP] Pole le plus ouvert du monde de l'exorcisme, par opposition au conservatisme de Kyoto ; le trait se cristallise a l'ere ou Gojo y enseigne (2009+). Detail et enjeux -> roadmap.
@@ -30,6 +31,12 @@ Page = faction du monde (institution). Faits canon non balises (niveau etabli) ;
 - Atsuya Kusakabe : professeur de deuxieme annee.
 - Kento Nanami : professeur de troisieme annee des la rentree avr 2013, a son retour du salariat (~4 ans hors de l'exorcisme apres son diplome de 2009). Meme rentree que le decumul de Kyoto (Gakuganji -> Mei Mei ; cf. Factions/Universite_Kyoto.md). [DIVERGENCE RP vs canon] (au canon il revient exorciste de terrain, pas enseignant).
 - Kiyotaka Ijichi et Akari Nitta : assistant managers (Nitta en poste apres son diplome de Kyoto, 2014).
+
+## Rituel des detenteurs de domaine
+[DIVERGENCE RP]
+- Pratique des professeurs qui possedent une Extension de Territoire : ils MONTRENT leur territoire aux eleves qui ont gagne leur confiance - deploye en passif, sans frapper. A Tokyo, Satoru le fait a la FIN DE LA 1re ANNEE.
+- DOCTRINE DE SATORU : montrer AVANT d'expliquer. Il vend du reve pour motiver - on court plus vite vers ce qu'on a senti que vers ce qu'on a lu. Ses deuxiemes annees ont donc RESSENTI la Sphere de l'Espace Infini avant d'en lire la theorie, le domaine ne s'etudiant qu'en 2A-S2. cf. Pedagogie/Energie_Territoires_2eAnnee.md.
+- Le meme rituel se pratique a Kyoto avec la doctrine INVERSE (Nisha, fin de 2e annee : theorie d'abord). Meme geste, deux pedagogies - prolongement direct de l'opposition ouverture/conservatisme des deux poles, et de l'opposition personnelle des deux enseignants. cf. Factions/Universite_Kyoto.md.
 
 ## Eleves (promotions par annee d'entree)
 Convention : une promo se lit "annee d'entree - annee de diplome" (cursus de trois ans).

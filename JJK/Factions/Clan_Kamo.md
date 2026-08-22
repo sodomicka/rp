@@ -1,6 +1,6 @@
 # Clan Kamo
 
-- version : W3
+- version : W4
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 -> roadmap, hors de cette page neutre.
 
@@ -20,11 +20,20 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 - [DIVERGENCE RP] Pas de conseil deliberatif (contraste avec Gojo et Zenin) : le chef regne, entoure d'EMISSAIRES qui executent sa parole.
 - [DIVERGENCE RP] Garde-fou : les emissaires peuvent decider de se reunir pour RENVERSER le chef s'il ne convient plus a l'esprit du clan.
 - [DIVERGENCE RP] Precedent (Meiji) : sous l'identite de Noritoshi Kamo, Kenjaku, juge indigne, fut contraint au seppuku dans ses appartements, seul, sur decision des emissaires. Kenjaku changea alors de corps et eventra son ancienne enveloppe. (Coherent avec la fiche Kenjaku, qui laissait la fin de ce corps non precisee.) Cf. Personnages/Kenjaku.md.
+- [DIVERGENCE RP] FIN PUBLIQUEMENT FLOUE, ET VOLONTAIREMENT : le clan n'a jamais rendu publique la maniere dont ce Noritoshi a fini. Double motif - le seppuku impose reste aux archives (on n'accorde pas une mort d'honneur au plus abject), et le clan se refuse a calomnier un ancetre dont il a respecte la force (exorciste d'exception, stratege remarquable, porteur du sort du sang pur). Hors du clan, sa fin n'est donc pas etablie.
 
 ## Archives du clan
 [DIVERGENCE RP]
 - Memoire ecrite du clan : genealogies, tradition de la filiation Sutoku (l'onryo des liens, tenu pour heritage documente - cf. Cosmogonie/Trois_Esprits.md et Pedagogie/Fleaux_Histoire_1eAnnee.md, delta clanique) et influence des croisements matrimoniaux sur les sorts. Aucune notion des greffes essaimees ni des architectes.
 - Acces reserve aux HERITIERS DE BRANCHES PRINCIPALES (regle commune aux trois grandes familles) : chez les Kamo, le chef et son heritier designe (la pupille).
+
+## Rideaux et ancres fractales (specialite du clan)
+[DIVERGENCE RP]
+- Specialite documentaire de la maison : les rideaux fractals d'ordre 8 et au-dela - terreau technique dont sont issus les sceaux de Kenjaku. Cf. Pedagogie/Fleaux_Histoire_1eAnnee.md (volet Detection) et Pedagogie/Detection_Contention_2eAnnee_S1.md.
+- LE DRAGON, dit "le vampire" : ancre fractale secrete du clan, connue des seules lignees principales et de l'elite. Elle n'est stable que si le tisseur l'alimente par impulsions calees sur le rythme cardiaque, avec 5,2 pourcent d'erreur maximum. L'Hemokinesie fournit ce metronome nativement - d'ou le monopole de fait des Kamo sur cette ancre.
+
+## Formation interne
+- [DIVERGENCE RP] Les clans forment les leurs en interne, hors du circuit scolaire classique (cf. BIBLE SB1). Comme chez les Zenin, la methode passe par la VIOLENCE INFANTILE ; seuls les Gojo s'en abstiennent.
 
 ## Noritoshi Kamo (heritier, ne 2000)
 - Canon : Noritoshi Kamo ; porte la version pure de la manip du sang.
@@ -51,6 +60,7 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 ## Pointeurs
 - Fondation, manip du sang, Six Yeux essaimes, Peintures Mortes, branche Itadori, Restriction Celeste : cf. Cosmogonie/Trois_Esprits.md.
 - Kenjaku (origine Kamo) et Eien (hote Nanao Kamo) : cf. Personnages/Kenjaku.md, Personnages/Eien.md.
+- Couche pedagogique (rideaux fractals, ancres, sceaux) : cf. Pedagogie/Detection_Contention_2eAnnee_S1.md et Pedagogie/Detection_Contention_2eAnnee_S2.md.
 
 ---
 

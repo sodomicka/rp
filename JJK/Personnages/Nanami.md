@@ -1,6 +1,6 @@
 # Kento Nanami
 
-- version : W4
+- version : W5
 
 ## Identite
 - Kento Nanami, 1re annee a l'universite de Tokyo en 2006 (promo 2006-2009). Sous-classe de Gojo, Geto et Shoko.
@@ -15,7 +15,8 @@
 - Caractere : serieux, pragmatique, methodique, monotone - le contrepoint exact de l'optimisme solaire de Haibara. Deja lucide, presque desabuse, sur la grisaille du metier. Intraitable sur la rigueur et la PONCTUALITE. (Gege l'a concu comme le symbole du salaryman qui demissionne, d'abord pense en mechant : la pente desabusee est inscrite des le depart.)
 
 ## Sort et scaling
-- Sort inne : la Ratio Technique ("7:3"). Il decoupe la cible (vivante ou non) en dix parts et y cree un point faible critique GARANTI a la position 7:3, qu'aucune defense d'energie occulte conventionnelle n'arrete ; il le frappe a la lame emoussee ou a mains nues. Aptitude au Black Flash (record adulte : QUATRE consecutifs, Nuit des Cent Fleaux 2017, front de Tokyo ; cf. Trajectoire datee - ere B).
+- Sort inne : la Ratio Technique ("7:3"). Il decoupe la cible (vivante ou non) en dix parts et y cree un point faible critique GARANTI a la position 7:3, qu'aucune defense d'energie occulte conventionnelle n'arrete ; il le frappe a la lame emoussee ou a mains nues. Aptitude au RAYON NOIR (record adulte : QUATRE consecutifs, Nuit des Cent Fleaux 2017, front de Tokyo ; cf. Trajectoire datee - ere B).
+- [DIVERGENCE RP] Ce que vaut ce record : Nisha et Satoru ne comptent pas les leurs - le Rayon Noir leur est trivial, une frappe de Grade 1 / Special comme une autre, et ils n'ont jamais pris la peine de tenir le compte. Nanami est donc le prodige officiel d'une discipline que les deux monstres ne disputent pas. Ce qui n'enleve rien a l'exploit : quatre d'affilee restent quatre d'affilee.
 - Grade : Grade 2, ~3-4 doigts en A2, A EGALITE avec Haibara. Adulte : Grade 1 (atteint en ere B ; annee precise non donnee par le canon). Scaling adulte en doigts a fixer (dette Power_Scaling).
 
 ## Relations
@@ -40,7 +41,7 @@
 | mars 2009 (B1) | Diplome (promo 2006-2009). Ecoeure par la machine de l'exorcisme (la mort de Haibara traitee en routine), il QUITTE le metier pour un poste de salaryman dans la finance a Tokyo | sortie de l'exorcisme |
 | 2009-debut 2013 (B1) | ~4 ans de salaryman : la desillusion inverse (le corporate est encore plus vide de sens que l'exorcisme). Debut 2013, un exorcisme improvise et la gratitude d'un employe de boulangerie (canon) font pencher la balance : il claque la porte | retour decide |
 | avr 2013 (B2) | RENTREE : de retour a l'exorcisme, il prend la 3e ANNEE de Tokyo - Yaga (principal) lui cede le poste qu'il cumulait depuis 2009. Meme rentree que le decumul de Kyoto (Gakuganji -> Mei Mei). Classes de periode creuse, quasi vides ; horaires stricts, zero heure sup | prof de 3e annee a Tokyo ; Grade 1 en construction |
-| 24 dec 2017 (B3_4) | NUIT DES CENT FLEAUX, front de TOKYO : record de QUATRE Black Flash consecutifs contre des fleaux de Grade 1. [DIVERGENCE RP vs canon : le canon situe l'exploit sur le front de Kyoto - ici aucun Tokyoite n'y est envoye, Kyoto est le terrain de chasse des Zenin et des eleves de Nisha ; exploit relocalise a Tokyo, meme nuit] | record 4x Black Flash ; Grade 1 confirme au feu |
+| 24 dec 2017 (B3_4) | NUIT DES CENT FLEAUX, front de TOKYO : record de QUATRE Rayons Noirs consecutifs contre des fleaux de Grade 1. [DIVERGENCE RP vs canon : le canon situe l'exploit sur le front de Kyoto - ici aucun Tokyoite n'y est envoye, Kyoto est le terrain de chasse des Zenin et des eleves de Nisha ; exploit relocalise a Tokyo, meme nuit] | record 4x Rayon Noir ; Grade 1 confirme au feu |
 | 2017-2018 (B3) | Referent de 3e annee de Takuma Ino (promo 2015-2018), qu'il diplome en mars 2018 ; Ino passe naturellement sous sa tutelle pleine | mentor d'Ino |
 | avr-juin 2018 (B3) | Rentree : sa classe de 3e annee (promo 2016-2019) est VIDE - Hakari suspendu, Kirara parti(e) avec lui. Champ libre total : tutelle d'Ino, missions de terrain | prof sans classe ; disponible (-> ere C : mentorat de Yuji) |
 

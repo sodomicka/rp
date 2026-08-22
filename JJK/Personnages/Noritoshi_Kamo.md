@@ -1,6 +1,6 @@
 # Noritoshi Kamo
 
-- version : W3
+- version : W4
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -54,7 +54,7 @@ Fiches propres : cf. Personnages/Nisha.md, Kenjaku.md ; Factions/Clan_Kamo.md. I
 ## Trajectoire datee - ere B (entree B3 ; alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| avr 2017 (B3_3) | Passe en 2e annee, eleve de Nisha ; capitaine. Recoit sa lecon d'honneur. | trouve un modele d'affranchissement |
+| avr 2017 (B3_3) | Passe en 2e annee, eleve de Nisha ; capitaine. Chantier perso : L'HONNEUR - tracer sa propre voie sans renier le nom (la lecon, repetee jusqu'a ce qu'elle tienne : meme chef, meme menace de destitution, il n'est pas condamne a marcher dans les pas de ses ancetres ; tant qu'il redore le nom des Kamo, la voie est a lui) - double du COMMANDEMENT, capitaine responsable du trio sur chaque exercice. Renversement savoureux : la Zenin qui a transcende son clan par la force apprend au Kamo a s'affranchir du sien par l'honneur (cf. Pedagogie/Perso_Kyoto_2016-2019.md) | trouve un modele d'affranchissement ; chantier perso : l'honneur et la charge |
 | dec 2017 (B3_4) | Nuit des Cent Fleaux : confie a Mei Mei avec le trio ; combat au sang, appuye par l'oeil aerien de Momo. | premier grand fait d'armes |
 | avr 2018 (B3_5) | Passe en 3e annee (sous Mei Mei) ; approche de l'heritage. | -> seuil ere C |
 

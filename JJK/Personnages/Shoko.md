@@ -1,6 +1,6 @@
 # Shoko Ieiri
 
-- version : W4
+- version : W7
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -19,6 +19,7 @@ Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non bali
 Un exorciste = un sort inne en regle generale (canon).
 - [DIVERGENCE RP vs canon] Le sort inne de Shoko EST le Sort d'Inversion (RCT) applique a autrui. En canon strict, le RCT n'est pas un sort inne mais l'inversion de l'energie occulte (competence a part) ; ici il tient lieu de sort inne.
 - Cette maitrise - soigner AUTRUI, capacite extremement rare (le RCT ne soigne normalement que soi-meme) - est ce qui fait d'elle une prodige.
+- [DIVERGENCE RP] CAS D'ECOLE, a partir des rentrees 2008+ : une fois la promo des quatre prodiges diplomee, son sort sert d'illustration au Sort d'Inversion dans les deux universites - le RCT tenant lieu de sort inne, applique a autrui. Satoru y figure pour l'autre versant (sur soi, et retournement de sort). Regle commune aux quatre : on enseigne un prodige APRES son passage, jamais pendant. Cf. Pedagogie/Energie_Territoires_1eAnnee.md.
 - Aucun sort offensif. Valeur entierement de soutien : soin, regeneration, autopsie, medecine legale.
 
 ## Etat au point de depart (2005)
@@ -50,6 +51,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| avr 2005 -> 2008 | Chantier perso de Yaga, double : le DEBIT de soin sous pression et le triage (force), SE PLACER (faiblesse) - soigner un pantin blesse pendant que d'autres la harcelent, choisir ou se mettre, quand bouger, quand cesser de soigner pour survivre (cf. Pedagogie/Perso_Tokyo_2005-2008.md) | chantier perso : la medecin apprend a se placer |
 | sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) : non-combattante ; soigne Utahime apres son elimination par Nisha | demonstration de son utilite (5 mois apres l'insulte de Nisha) |
 | ~1 jan 2006 | Organise le nouvel an des quatre ; couvre la declaration de Satoru | -- |
 | debut 2018 (B3) | Participe a la RELEVE de Satoru, effondre apres avoir tue Geto de ses propres mains : aux cotes de la famille, la medecin de la promo soigne ce que le RCT ne repare pas | pilier de la releve ; des quatre prodiges, ils restent trois |

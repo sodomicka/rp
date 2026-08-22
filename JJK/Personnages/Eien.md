@@ -1,6 +1,6 @@
 # Eien
 
-- version : W6
+- version : W7
 
 OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokinesie). Moitie du couple architecte avec Kenjaku. Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -24,6 +24,7 @@ OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokin
 
 ## Mode operatoire (parasitisme et longevite)
 - [DIVERGENCE RP] Marque une femme enceinte -> s'implante dans le foetus -> le gorge d'energie occulte pour le rendre viable -> se revele "amie" a 4 ans -> rend l'enfant exceptionnel en lui conferant la Chronokinesie -> a 10 ans, ecrase la conscience de l'hote pour user du sort a pleine puissance.
+- [DIVERGENCE RP] PREPARATION DU CORPS : sur un hote prometteur, Eien n'attend pas passivement l'echeance des 10 ans - elle FORCE l'eveil du territoire interieur en micro-agressant son hote avec le sien. Un corps a domaine est un corps qui vaut la peine d'etre pris. Seul forcage connu au monde (cf. BIBLE SB1, regle des domaines) : agresser quelqu'un qui a DEJA apercu son territoire, avec un autre territoire - resultat non garanti.
 - Prefere habiter des membres discrets des trois grandes familles.
 - Hote a l'ere Meiji : Nanao Kamo, secretaire de Noritoshi Kamo. Sous cette identite, a porte l'un des foetus des Peintures Mortes : Choso (coconcu avec Kenjaku-dans-Noritoshi). Cf. Cosmogonie/Trois_Esprits.md.
 
@@ -34,8 +35,10 @@ OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokin
 
 ## Relation a Nisha (etat de base)
 - [DIVERGENCE RP] A cible Nisha comme "piste interessante" ; est tombee sur une hote trop prodigieuse pour elle.
+- 1991-1995 : travaille le futur corps. Nisha projette sa conscience dans le Jardin des Eres Mortes des 1991 ; Eien s'en sert pour l'AGRESSER a repetition, jusqu'a l'eveil de la Sphere du Temps Infini en 1995 (8 ans). Elle prepare ce qu'elle compte prendre a 10 ans. Cf. Personnages/Nisha.md.
 - 1997 (Nisha 10 ans) : putsch tente -> echoue. Depuis : Nisha = geoliere ; Eien = passagere consciente matee, profil bas, conspire en sourdine.
 - [DIVERGENCE RP] Depuis l'echec de 1997, Eien ne fait pas que subir : elle NOURRIT un desir de controle obsessionnel sur Nisha, frustration de geoliere renversee qui macere a bas bruit (l'hote parfaite, inexploitable de force ; cf. la regle de bascule ci-dessous). Ce desir - quinze ans de patience au moment ou il aboutira - est le moteur intime de sa trahison a venir (cf. Notes de frontiere ; roadmaps ere B).
+- [DIVERGENCE RP] Pourquoi elle continue de la renforcer malgre l'echec : elle est COINCEE. Tant qu'elle n'a pas le controle, elle n'a nulle part ou aller - autant que le corps qui la porte soit le meilleur possible. L'espoir se reporte sur Kenjaku : lui saura BRISER Nisha la ou la force a echoue. Ce calcul aboutit en 2015 (cf. Trajectoire datee) - et rate.
 - Regle de bascule (capitale) : Eien ne peut PAS prendre le controle de force. Elle le pourrait si Nisha baissait sa garde (par amour). Faille latente, non exploitee a ce stade.
 - "Mate a Nisha" = lien parasitaire, pas romantique. L'amante d'Eien, c'est Kenjaku.
 
@@ -45,7 +48,7 @@ OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokin
 | 2008 (B1) | Le couple adopte Tsumiki ; Eien reconnait sur la gamine la marque de son amant Kenjaku (piece placee a dessein, pas hasard) et JUBILE en silence, sans savoir encore ce qu'elle annonce. Nisha ignore pourquoi (graine T-Tsumiki) | confirmation que Kenjaku oeuvre dans l'entourage immediat de Nisha ; jubilation contenue |
 | 2015 (B2) | LA DETONATION. Dix-huit ans de patience aboutissent : la garde de Nisha tombe (bonheur conjugal post-noces), Eien BASCULE enfin, la POSSEDE et la relegue dans sa propre Sphere du Temps Infini interieure. Avec Kenjaku (libre, dans un vaisseau anonyme), elle impose le deal et fait FECONDER le corps de Nisha (le viol = SON idee, pour la BRISER ; aucun enjeu strategique sur le foetus, avorte ensuite par Naoya). Donne la base de la solution Yorozu (etendre le territoire sur Tsumiki) | a goute le controle absolu ; jubile ; faille consommee (mais l'hote reprend la main) ; rancoeur en germe autour de Yorozu (-> B3, puis T-Yorozu ere C) |
 | fin 2015 (B3) | Nisha tue YOROZU (liberation de Tsumiki). Aucun lien reel d'Eien a Yorozu - mais la mort ARME T-Yorozu : en ere C, Eien livrera Nisha a Sukuna-dans-Yuji en l'accusant d'avoir tue "sa fidele Yorozu" (la fidele de SUKUNA - pure instrumentalisation) | munition acquise contre Nisha (T-Yorozu ARME -> ere C) |
-| 2015+ (B3) | LES VISITES. Nisha descend regulierement dans le Jardin des Eres Mortes pour la TABASSER - exutoire du trauma de B2. Le parasite battu chez lui par son hote : renversement complet. Eien encaisse, profil bas, et laisse macerer | punition reguliere subie ; rancoeur qui s'affine (carburant de l'ere C) |
+| 2015+ (B3) | LES VISITES. Le calcul a RATE : brisee, Nisha ne s'effondre pas en depression ecrasable - elle mue sa tristesse, par Satoru et Naoya, en haine pure du couple d'architectes. Elle descend des lors regulierement dans le Jardin des Eres Mortes pour la TABASSER. Le parasite battu chez lui par son hote : renversement complet, definitif. Eien encaisse, profil bas, et laisse macerer | condamnee au statut de souffre-douleur ; punition reguliere subie ; rancoeur qui s'affine (carburant de l'ere C) |
 
 ## Notes de frontiere (hors de cette fiche)
 - Trahison, complots et denouement (a partir de 2015) : poses en Trajectoire datee a mesure que les arcs sont roadmappes (B2-B3 faits), puis Parties.

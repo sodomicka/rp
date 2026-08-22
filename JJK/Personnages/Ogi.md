@@ -1,6 +1,6 @@
 # Ogi Zenin
 
-- version : W4
+- version : W5
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -19,6 +19,7 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 ### Technique apprise : Pluie de Petales Epris (Falling Blossom Emotion)
 - Technique anti-domaine transmise dans les grandes familles : enrobe l'utilisateur d'energie occulte qui contre-attaque automatiquement le coup garanti d'une Extension de Territoire. Non innee (apprise).
 - Noms FR canon. EN : Blazing Courage / Falling Blossom Emotion.
+- [DIVERGENCE RP] SECRET DE CLAN : cette technique est la verite derriere la formule que tout le monde de l'exorcisme repete sans jamais pouvoir la remplir - "les clans ont leurs methodes" contre les domaines. Elle n'est nommee ni expliquee a AUCUN niveau de pedagogie, dans aucune des deux universites. Satoru lui-meme, qui sait, s'abstient d'en parler. Cf. Factions/Clan_Zenin.md et Pedagogie/Energie_Territoires_2eAnnee.md.
 
 ## Domaine
 - Aucun.
@@ -50,7 +51,7 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 
 ## Notes de frontiere (hors noyau)
 - Detail du beat de la Nuit des Cent Fleaux (actions individuelles au front) : cf. Roadmap/Nisha/Roadmap_B3.md (a builder).
-- Devenir post-2005 (complot contre Megumi, tentative d'execution de Maki et Mai, mort par Maki, canon) -> roadmap.
+- Devenir post-2005 (complot contre Megumi, tentative d'execution de Maki et Mai) -> roadmap. Sa chute : [DIVERGENCE RP] non plus le massacre canon par Maki, mais le COUP D'ETAT post-Shibuya dont il est l'une des cibles designees, avec Jinichi - retour de la moquerie de 2006 (cf. BIBLE SB8).
 - Mecanique gemellaire de Maki/Mai (Restriction Celeste, pool) : cf. fiches Maki/Mai et pool gemellaire (Personnages/Nisha.md).
 
 ---

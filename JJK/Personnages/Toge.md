@@ -1,6 +1,6 @@
 # Toge Inumaki
 
-- version : W3
+- version : W4
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e annee a Tokyo. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -42,7 +42,7 @@ Fiches propres : cf. Personnages/Maki.md, Panda.md, Nisha.md, Satoru.md. Ici, se
 ## Trajectoire datee - ere B (entree B3 ; alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| avr 2017 (B3_3) | 1e annee a Tokyo (Satoru), avec Maki et Panda. Rencontre Nisha apres les cours. | entre dans la sphere de Nisha |
+| avr 2017 (B3_3) | 1e annee a Tokyo (Satoru), avec Maki et Panda. Rencontre Nisha apres les cours. Chantier perso : L'ECONOMIE DE L'ORDRE - le mot le plus faible qui suffit (gros ordres interdits ; chaque exercice se regle au plus petit mot possible, "recule" avant "explose", un murmure avant un cri : la gorge est une reserve, pas un consommable) (cf. Pedagogie/Perso_Tokyo_2017-2020.md) | entre dans la sphere de Nisha ; chantier perso : le murmure d'abord |
 | dec 2017 (B3_4) | Nuit des Cent Fleaux (cote Tokyo, hors-POV de Nisha) : il participe aux evenements de JJK0 aux cotes des autres 1e annees. | (hors-POV) |
 
 ## Notes de frontiere

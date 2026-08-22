@@ -1,6 +1,6 @@
 # Panda
 
-- version : W3
+- version : W4
 
 Fiche noyau (canon + RP), entite NEE au cours de l'arc B1 (2011). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = ce que Panda EST des sa naissance ; son devenir post-2011 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps). Corps maudit en croissance sur tout B1 : scaling de combat non pertinent (a maturite seulement).
 
@@ -58,7 +58,7 @@ Fiches propres : cf. Personnages/Yaga.md, Nisha.md, Maki.md. Ici, seul le rappor
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 2011 (B1) | Naissance ; ~3 mois plus tard, autonomie energetique acquise. Grandit aupres de ses deux parents (Yaga a Tokyo, Nisha presente) | de creation a etre autonome |
-| avr 2017 (B3) | Entre a l'universite de Tokyo (promo 2017-2020), 1re annee sous Satoru - le fils de Yaga etudiant dans l'universite dont son pere est principal | etudiant |
+| avr 2017 (B3) | Entre a l'universite de Tokyo (promo 2017-2020), 1re annee sous Satoru - le fils de Yaga etudiant dans l'universite dont son pere est principal. Chantier perso : la GESTION DU BASCULEMENT - quand changer de noyau, combien ca coute, le Gorille en exception (Satoru annonce le cout de chaque bascule a voix haute, en temps reel, aux Six Yeux ; Gorille interdit passe un seuil de depense : Panda apprend a gagner en Panda). Satoru VOIT les trois noyaux, Triceratops compris, et se TAIT - le fils de sa femme a droit a son secret (cf. Pedagogie/Perso_Tokyo_2017-2020.md) | etudiant ; chantier perso : gagner en Panda ; le secret du 3e noyau tenu par le prof |
 | 24 dec 2017 (B3_4) | Nuit des Cent Fleaux, cote Tokyo (hors-POV de Nisha) : defend l'universite aux cotes de Maki et Toge (canon JJK0) | premiere vraie guerre |
 
 ## Graines plantees en B1 (a NE PAS detoner avant l'ere prevue)
