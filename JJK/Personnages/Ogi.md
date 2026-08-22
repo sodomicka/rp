@@ -1,6 +1,6 @@
 # Ogi Zenin
 
-- version : W5
+- version : W6
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -11,7 +11,7 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 - [DIVERGENCE RP] sur la parente et les dates : cf. Factions/Clan_Zenin.md.
 
 ## Physique
-- (canon) Homme age et svelte, cheveux noirs lisses noues en catogan, pupilles anormalement grandes. Tenue traditionnelle (hakama). Porte le katana.
+- (canon) Homme age et svelte, cheveux noirs lisses noues en catogan, pupilles anormalement grandes. Tenue traditionnelle (hakama), [DIVERGENCE RP] aux couleurs du clan - gris moyen et violet (cf. Factions/Clan_Zenin.md, Iconographie et tenue). Porte le katana.
 
 ## Sorts
 ### Sort inne : Bravoure Imperieuse (Blazing Courage)

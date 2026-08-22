@@ -1,6 +1,6 @@
 # Clan Kamo
 
-- version : W4
+- version : W5
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 -> roadmap, hors de cette page neutre.
 
@@ -21,6 +21,12 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 - [DIVERGENCE RP] Garde-fou : les emissaires peuvent decider de se reunir pour RENVERSER le chef s'il ne convient plus a l'esprit du clan.
 - [DIVERGENCE RP] Precedent (Meiji) : sous l'identite de Noritoshi Kamo, Kenjaku, juge indigne, fut contraint au seppuku dans ses appartements, seul, sur decision des emissaires. Kenjaku changea alors de corps et eventra son ancienne enveloppe. (Coherent avec la fiche Kenjaku, qui laissait la fin de ce corps non precisee.) Cf. Personnages/Kenjaku.md.
 - [DIVERGENCE RP] FIN PUBLIQUEMENT FLOUE, ET VOLONTAIREMENT : le clan n'a jamais rendu publique la maniere dont ce Noritoshi a fini. Double motif - le seppuku impose reste aux archives (on n'accorde pas une mort d'honneur au plus abject), et le clan se refuse a calomnier un ancetre dont il a respecte la force (exorciste d'exception, stratege remarquable, porteur du sort du sang pur). Hors du clan, sa fin n'est donc pas etablie.
+
+## Iconographie et tenue
+[DIVERGENCE RP] (le canon ne fixe ni kamon ni tenue propre au clan).
+- KAMON : un enso trace au pinceau, rouge sang, trait irregulier ; au centre, une goutte de sang - l'Hemokinesie. Sur fond anthracite.
+- CODE COULEUR du clan : anthracite et rouge sang.
+- TENUE D'ANCIEN (chef, emissaires, ceremonie) : kimono anthracite seme du kamon en rouge eteint, kamon au sein gauche, obi rouge sang noue devant, hakama bordeaux, zori. Chignon a kanzashi.
 
 ## Archives du clan
 [DIVERGENCE RP]

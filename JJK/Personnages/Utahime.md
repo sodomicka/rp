@@ -1,6 +1,6 @@
 # Utahime Iori
 
-- version : W5
+- version : W6
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -10,7 +10,7 @@ Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non bali
 - Statut 2005 : etudiante de 2e annee a Kyoto. Deviendra professeure de 1ere annee a Kyoto (2009-2018+) - le poste d'enseignante est canon ; [DIVERGENCE RP] sa promo d'eleve (canon muet sur son annee).
 
 ## Physique
-- Canon : cheveux noirs longs, allure serieuse de mentor stricte.
+- Canon : cheveux noirs longs ; cicatrice en travers du visage (barre du nez) ; tenue de miko, blanc et rouge. Allure serieuse de mentor stricte.
 
 ## Sorts
 Un exorciste = un sort inne en regle generale (canon).

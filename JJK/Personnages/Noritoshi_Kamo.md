@@ -1,6 +1,6 @@
 # Noritoshi Kamo
 
-- version : W4
+- version : W5
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -12,7 +12,8 @@ Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e
 - Porteur de l'Hemokinesie PURE (le sort elu du clan).
 
 ## Physique
-- Canon : grand, mince, port aristocratique. Longs cheveux sombres noues en catogan, frange droite. Traits fins et graves. Tenue soignee.
+- Canon : grand, mince, port aristocratique. Longs cheveux sombres noues en catogan, frange droite. Traits fins et graves. Tenue soignee ; uniforme de Kyoto.
+- En ceremonie de clan : anthracite et rouge sang, kamon a la goutte (cf. Factions/Clan_Kamo.md, Iconographie et tenue).
 
 ## Sort et style de combat
 - Sort inne : Hemokinesie (manipulation du sang), don ancestral des Kamo (lignee Sutoku/liens). Version PURE, inalteree.

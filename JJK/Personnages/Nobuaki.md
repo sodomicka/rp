@@ -1,6 +1,6 @@
 # Nobuaki Zenin
 
-- version : W1
+- version : W2
 
 Fiche noyau (secondaire). Canon + RP. Etat = jusqu'au point de depart (2005). Devenir post-2005 -> roadmap.
 
@@ -10,7 +10,8 @@ Fiche noyau (secondaire). Canon + RP. Etat = jusqu'au point de depart (2005). De
 - [DIVERGENCE RP] dates et parente etendue : cf. Factions/Clan_Zenin.md.
 
 ## Physique
-- (canon) Pompadour sombre avec rouflaquettes. Tenue formelle de couleur claire, distincte de celle des autres. Porte un katana.
+- (canon) Pompadour sombre avec rouflaquettes, machoire carree, sourcils epais. Tenue formelle BLANCHE a col montant, distincte de celle des autres. Porte un katana.
+- [DIVERGENCE RP] Le blanc est son privilege de capitaine : le reste de la Kukuru est en GRIS NEUTRE, sans le violet noble du clan reserve aux porteurs de sort (cf. Factions/Clan_Zenin.md, Iconographie et tenue).
 
 ## Capacites (sans sort inne)
 - (canon) Aucun sort inne, comme toute la Kukuru. Bon epeiste, energie occulte de renfort consequente : il compense l'absence de technique par le sabre et le renforcement.

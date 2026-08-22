@@ -1,6 +1,6 @@
 # Kinji Hakari
 
-- version : W7
+- version : W10
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee a Tokyo, suspendu en cours d'arc. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -10,7 +10,9 @@ Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e
 - Un des plus forts de sa generation : Satoru le cite, avec Yuta, comme un futur rival potentiel.
 
 ## Physique
-- Canon : grand, carrure solide, cheveux noirs mi-longs ondules, allure decontractee et arrogante.
+- Canon, DEUX apparences : AVANT et APRES son exclusion (debut 2018). Rien entre les deux : on ne le revoit qu'apres.
+  - Avant l'exclusion : grand, carrure solide, cheveux bruns courts, allure decontractee et arrogante.
+  - Apres l'exclusion : BLOND, coupe en brosse haute (banane), moustache naissante ; parka sombre a capuche, pantalon brun, chaussures noires. Mains dans les poches.
 
 ## Sort et style de combat
 - Sort de base : "Private Pure Love Train" - il manifeste des elements de pachinko / manga romantique (portes-rideaux pour ecraser, effets de billes pour gener). Energie occulte "rugueuse" (abrasive comme du papier de verre).
@@ -53,7 +55,7 @@ Fiches propres : cf. Personnages/Kirara.md, Satoru.md, Nisha.md ; Factions/Haute
 | 2016-2017 (B3) | 1re annee a Tokyo, sous Satoru. Chantier perso : la DECISION HORS JACKPOT - gagner petit, a l'usure, sans eclat ni coup de poker (une torture pour l'eleve comme pour le professeur, qui s'ennuie autant que lui). Gagner petit n'est pas entre (cf. Pedagogie/Perso_Tokyo_2016-2019.md) | chantier perso : refuse en pratique |
 | avr 2017 (B3_3) | 2e annee a Tokyo (sous Kusakabe), avec Kirara. | entree en scene |
 | 24 dec 2017 (B3_4) | Nuit des Cent Fleaux, front de TOKYO (hors-POV de Nisha) : il se bat ; un haut-place conservateur des Hautes Instances meprise son sort moderne en plein evenement -> Hakari le TABASSE. Detail -> Roadmap_B3. | le caprice qui va tout lui couter |
-| debut 2018 (B3_5) | Suspension prononcee dans la foulee de la Parade. Nisha approuve, juge la peine trop douce. Lance le Gachinko Fight Club. | sort du systeme |
+| debut 2018 (B3_5) | Suspension prononcee dans la foulee de la Parade. Nisha approuve, juge la peine trop douce. Lance le Gachinko Fight Club. Hors du systeme, change de tete : blond en brosse, moustache (cf. Physique) - c'est sous cette forme qu'on le revoit ensuite | sort du systeme ; nouvelle tete |
 
 ## Notes de frontiere
 - [INCERTAIN] Date de PREMIERE MANIFESTATION de son domaine : non etablie. Acquis : il l'obtient en cursus (Tokyo, promo 2016-2019) et son cas est cite en cours comme particulier, SANS etre nomme - de meme que son inversion automatique en Jackpot. L'annee precise reste a fixer.

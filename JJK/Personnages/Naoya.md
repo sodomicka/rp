@@ -1,6 +1,6 @@
 # Naoya Zenin
 
-- version : W13
+- version : W14
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -10,7 +10,8 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 - Cousin de Jinichi et Toji (fils de l'aine defunt). [DIVERGENCE RP] sur la parente etendue : cf. Factions/Clan_Zenin.md.
 
 ## Physique
-- Apparence canon : grand, blond, cheveux courts, traits fins et hautains. (Nisha est calquee sur lui - version feminine aux cheveux longs ; la derivation va de Naoya vers Nisha, pas l'inverse.)
+- Apparence canon : grand (plus grand que Nisha), blond cendre, cheveux courts ebouriffes, traits fins et hautains, yeux bruns en amande, rictus en coin. (Nisha est calquee sur lui - version feminine aux cheveux longs ; la derivation va de Naoya vers Nisha, pas l'inverse.)
+- TENUE, hors clan et hors universite : le noir sobre, preference commune aux jumeaux ("la sobriete efficace") - haut noir croise noue a la hanche, col haut, pantalon noir, bottes noires zippees. A l'universite (Kyoto) : l'uniforme bleu nuit. Tenue de clan (gris moyen et violet) : cf. Factions/Clan_Zenin.md.
 
 ## Sort : Projection (heritage paternel)
 - (canon) Projection Sorcery, heritee de Naobito. Decoupe la seconde en 24 images, predetermine ses mouvements et les execute a vitesse extreme. Mecanique detaillee : cf. fiche Naobito.

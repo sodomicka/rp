@@ -1,6 +1,6 @@
 # Mei Mei
 
-- version : W5
+- version : W6
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -11,7 +11,9 @@ Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non bali
 - Petit frere Ui Ui, fanatiquement devoue (cf. section dediee).
 
 ## Physique
-- Canon : femme elegante, cheveux sombres, allure posee et calculatrice. En 2005, etudiante.
+- Canon : grande, elegante ; cheveux BLANCS, longs ; yeux sombres aux paupieres lourdes, sourire calme ; ongles peints en violet. Allure posee et calculatrice.
+- En 2005, etudiante : cheveux laches, chemise noire, cravate grise, jupe longue a taille haute boutonnee, bottines lacees.
+- Adulte (post-2008, cf. Trajectoire datee) : longue tresse ramenee sur l'epaule qui lui cache un oeil ; robe sombre a col montant et epaules bouffantes, pantalon bouffant, bottes a talons brunes.
 
 ## Sorts
 Un exorciste = un sort inne en regle generale (canon).

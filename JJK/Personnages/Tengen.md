@@ -1,11 +1,15 @@
 # Tengen
 
-- version : W2
+- version : W3
 
 ## Identite
 - Tengen, l'immortel. Pilier des barrieres du monde de l'exorcisme, non combattant.
 - [DIVERGENCE RP] Quatrieme esprit vengeur : independant de la structure des trois onryo, et reste de CHAIR (jamais devenu pur fleau desincarne - son Immortalite le garde corporel). Il ascende APRES les trois onryo (l'exorcisme existait deja). Cf. Cosmogonie/Trois_Esprits.md.
 - [DIVERGENCE RP vs canon] Le canon fait de Tengen le fondateur (ere Nara) des fondations de l'exorcisme ; ici, il est posterieur aux onryo, car l'exorcisme nait d'EUX. Divergence assumee.
+
+## Physique (canon)
+- Grande silhouette, peau gris pale, crane ALLONGE vers le haut (front demesure), QUATRE yeux en deux paires superposees, bouche tombante, longues mains. Robe grise drapee, ample, pieds nus. Un corps qui n'a plus rien d'humain : fruit de l'Immortalite, qui fait evoluer le corps faute de reset.
+- [INCERTAIN] Datation : le canon montre cette forme apres la fusion ratee de 2006 (evolution enclenchee) ; l'apparence au point de depart (2005) n'est pas etablie.
 
 ## Sort : Immortalite
 - Canon : empeche la mort naturelle, mais PAS le vieillissement. Quand le corps depasse un certain age, le sort cherche a faire evoluer le corps vers un etat superieur ; sans reset, Tengen perd sa volonte et peut devenir un ennemi de l'humanite.

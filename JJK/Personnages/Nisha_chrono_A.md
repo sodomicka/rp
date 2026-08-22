@@ -1,6 +1,6 @@
 # Nisha Zenin - Chronologie datee, ere A (2005-2008)
 
-- version : W5
+- version : W6
 
 Extension de Personnages/Nisha.md, scindee pour le poids (Nisha = entite la plus dense du casting). Contient la TRAJECTOIRE DATEE post-depart de Nisha pour l'ere A (1 avr 2005 -> hiver 2008) : ce qu'elle DEVIENT apres le point de depart, evenement par evenement. Strate canon par defaut, telegraphique ; le detail vit dans les roadmaps. Build-side : fetchee a la demande, JAMAIS chargee en narration (la fiche d'arc tronquee tient le contexte de jeu). Le NOYAU (identite, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005) reste dans Personnages/Nisha.md. Eres ulterieures : Nisha_chrono_B.md, etc.
 
@@ -20,6 +20,7 @@ Extension de Personnages/Nisha.md, scindee pour le poids (Nisha = entite la plus
 | 2006 (A2_4) | Fonce quand l'energie de Satoru s'eteint ; DUEL contre Toji (seul atout : la vitesse ; vide le collier, 1re detonation des 76 billes ; le manque de peu, perd) ; Gojo eveille la sauve et acheve Toji ; elle voit le cadavre de Riko | n1 -> n2 (Gojo eveille 23, elle 15) ; double plafond le meme jour (rang + combat) ; faille d'Eien APPROFONDIE (a failli mourir par amour) |
 | 2006 (A2_5) | Aux portes de la mort, se DE-BLESSE au territoire (inversion temporelle, cout colossal, hors d'etat apres), Satoru veille | survit ; c'est d'elle que Gojo tient le nom de son domaine (Sphere de l'Espace Infini) |
 | 2006 (A2_6) | Avec Naoya, arrete la DOCTRINE SECRETE "proteger les faibles, servir les forts" (constat : seuls eux deux en symbiose auraient contenu un Toji ; meme danger pour Maki si Mai mourait). La SOUMET au conseil sous forme edulcoree -> RAILLEE par Naobito/Ogi/Jinichi (verdict "pas d'autre Toji"), ce qui scelle le secret et la fait passer en clandestin. Les jumeaux annoncent leur PROTECTORAT aux jumelles (fin du harcelement, traitees en futures prodiges) ; Naoya pose les bases d'un entrainement longtermiste | co-autrice d'une reforme clandestine ; protectorat + cultivation des jumelles engages |
+| 2006 (A2_6, corollaire) | FIN DU TRI PAR CATEGORIE : avec la doctrine, sa misogynie et tout prejuge de genre ou d'orientation disparaissent - on ne classe plus que par la PUISSANCE, sans dedain pour qui reste a sa place (decision worldbuilder ; la facture de la misogynie passee tombe en 2015, cf. chrono B) | plus aucun tri hors puissance |
 | dec 2006 (A2_7) | Lance la tradition reciproque du bandeau (elle -> Satoru, en echo du collier) | rituel d'anniversaire desormais reciproque |
 | 2007 | Montee en puissance (apprentissage au contact de Satoru + competition) : 16 doigts | n2 consolidee, loin derriere Gojo (23) |
 | printemps-ete 2007 (A2_7) | 2c1 "Deux contre le dieu" : se ligue avec Geto (synergie 85 %) contre Satoru post-eveil, pour mesurer l'abime creuse par l'eveil ; meme a ~21.6 doigts combines (120 %), le duo NE fait PAS le poids face aux 23 doigts de Satoru (139 %) - l'Infini scelle tout | suprematie de Satoru confirmee ; Nisha en ressort PLUS amoureuse (nourrit son "type : plus fort que moi") |

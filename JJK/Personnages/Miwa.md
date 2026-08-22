@@ -1,6 +1,6 @@
 # Kasumi Miwa
 
-- version : W4
+- version : W5
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e annee a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -10,7 +10,7 @@ Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e
 - Grade 3. Sabreuse, combattante de l'effort plutot que du don.
 
 ## Physique
-- Canon : cheveux bruns mi-longs, allure simple et discrete. Porte un katana (sabre).
+- Canon : cheveux BLEU CLAIR mi-longs, frange ; yeux bleus ; allure simple et discrete, jolie sans appret. Uniforme de Kyoto ; porte un katana (sabre).
 
 ## Sort et style de combat
 - Pas de sort inne offensif notable : elle compense par la TECHNIQUE de sabre (kenjutsu) et des aptitudes acquises.

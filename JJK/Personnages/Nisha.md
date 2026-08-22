@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W14
+- version : W16
 
 Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depart (2005) : identite, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datee post-depart) est scinde par volume pour le poids -> cf. section dediee en bas de fiche et Personnages/Nisha_chrono_A.md.
 
@@ -12,10 +12,17 @@ Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depar
 - Seule femme du clan reconnue "vraie Zenin" (ni servante ni uterus), par sa force.
 
 ## Physique
-- Double feminin de Naoya : fine, grande, blonde, cheveux longs laches.
+- Double feminin de Naoya : grande, fine, blonde doree ; cheveux longs et raides, raie au milieu, laches jusqu'aux reins.
+- Yeux bruns en amande, regard en coin ; sourire en coin sur de lui, hautain - le meme que son jumeau.
 - Musculature seche et vive, pas massive (a l'oppose de Maki).
 - Mange enormement sans prendre un gramme : contrecoup metabolique de la Chronostase + entrainement constant.
 - [DIVERGENCE RP] Se bande la poitrine (bandage compressif) : pure DE-SEXUALISATION, pas pudeur. Elle refuse d'etre vue comme une femme - elle veut etre un exorciste, point. Naoya la resume : "un exorciste avec des seins".
+- TENUE, hors universite : le noir sobre, preference commune aux jumeaux ("la sobriete efficace") - veste noire cintree a col officier, fin lisere brode au bord, pantalon noir, chaussures plates noires. A l'universite : l'uniforme bleu nuit. Tenue de clan (gris moyen et violet) : cf. Factions/Clan_Zenin.md.
+- Au cou, par-dessus le col, le collier de billes grises (des 2006 ; cf. Objets recurrents).
+
+## Objets recurrents
+- COLLIER DE TUNGSTENE : 76 billes de 5 g (~6 mm), cadeau de Satoru a l'anniversaire des jumeaux, 30 jan 2006. Parure-arme (munitions de la Chronostase), porte par-dessus le col. Detail : BIBLE SB7 ; Trajectoire datee, ere A.
+- [DIVERGENCE RP] CARTE BLEUE : carte bancaire en acier damas sombre aux veinures violettes - les couleurs du clan. Objet recurrent. [INCERTAIN] origine et date d'entree en scene non fixees.
 
 ## Sorts (deux)
 [DIVERGENCE RP] Un exorciste = un sort inne en canon. Nisha en manie deux.
@@ -43,7 +50,10 @@ Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depar
 
 ## Domaine : Sphere du Temps Infini
 - Extension de Territoire. Nom calque (VF) sur le domaine de Gojo : indice diegetique d'un lien cosmologique, a detailler hors de ce build.
-- Creation : durant 1/24e de seconde, une sphere noire. Echo de la Projection de Naoya (24 images par seconde). Peu spectaculaire, presque invisible.
+- Creation : en 1/24e de seconde, une sphere noire. Echo de la Projection de Naoya (24 images par seconde). Le deploiement est trop bref pour etre vu.
+- Vue de l'EXTERIEUR : une sphere noire OPAQUE, mate, d'environ trois etages de haut - un vrai domaine, a l'echelle d'un carrefour. Ce n'est pas sa taille qui la rend peu intimidante, c'est sa DUREE : fugace, elle s'efface avant d'impressionner. Etre dedans est une autre affaire.
+- Vue de l'INTERIEUR : un dome violet-noir etoile, translucide - le monde exterieur se voit a travers la paroi, en GRIS. Sol d'eau violette parcourue d'ondes concentriques. Suspendus dans le dome, luisant violet pale : horloges, montres a gousset, pendules, sabliers, cadran solaire, rouages.
+- GESTE de deploiement : une main ouverte, doigts ecartes, paume en avant ; l'autre forme un anneau pouce-index, trois doigts tendus, l'anneau place devant la paume ouverte. Volutes violettes autour des mains.
 - Interieur : le temps suit sa propre horloge. Nisha y utilise Chronostase et Chronokinesie sans toucher, et debloque l'inversion temporelle.
 - Inversion temporelle : sur son propre corps. Un bras tranche se de-tranche, une brulure se de-brule. Ce n'est PAS le sort d'inversion (RCT) : c'est une inversion temporelle litterale, au-dessus de la RCT.
 - Cout : vide colossalement ses reserves d'energie occulte. Ultime recours. Apres usage, hors d'etat de se battre.
@@ -86,6 +96,7 @@ Fiche propre de Naoya : cf. Personnages/Naoya.md. Ici, seul son rapport a Nisha.
 - Intraitable sur la ponctualite et la rigueur : un retard ou un travail bacle, c'est un mepris a ses yeux (ce qui lui fait apprecier les rares qui partagent cette exigence - cf. Nanami, Ijichi en A2).
 - Accepte d'etre monnaie d'echange matrimonial (femme = ressource pour le clan).
 - Mentalite type Maki/Yuta (canon) : l'homme qui la meritera est celui capable de la vaincre. Gojo la depasse sur quelques aspects.
+- PERIMETRE TEMPOREL : tout ce qui precede est l'etat 2005. [DIVERGENCE RP] Ce tri par categorie - misogynie comprise - DISPARAIT en 2006 avec la doctrine des jumeaux : des lors Nisha ne classe que par la PUISSANCE, sans dedain tant qu'on reste a sa place. Aucun prejuge de genre ni d'orientation ensuite (cf. Nisha_chrono_A.md, 2006 ; ex. Kirara en 2017). La facture de la misogynie passee, elle, tombe en 2015 (cf. Nisha_chrono_B.md).
 - [DIVERGENCE RP] Tres possessive de ce qu'elle considere sien. Envers Satoru, "son promis" assigne par le clan (raison 5) : possessivite a sens unique des 2005 (il l'ignore) - moteur de sa jalousie (ex. Utahime au tournoi).
 
 ## Place dans le clan

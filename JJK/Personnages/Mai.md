@@ -1,6 +1,6 @@
 # Mai Zenin
 
-- version : W9
+- version : W10
 
 Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir). Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (detail -> roadmap).
 
@@ -10,7 +10,8 @@ Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir
 - [DIVERGENCE RP] dates et parente : cf. Factions/Clan_Zenin.md.
 
 ## Physique
-- Enfant en 2005 (6 ans), 7 a 9 ans sur A2. Description adulte non pertinente au noyau (-> arcs ulterieurs).
+- Enfant en 2005 (6 ans), 7 a 9 ans sur A2. Gamine : cheveux sombres au carre, frange ; sourire doux, yeux souvent plisses - la jumelle qui sourit. Kimono d'enfant aux couleurs du clan, gris moyen et violet [DIVERGENCE RP vs canon : bleu au canon]. Tient la main de Maki.
+- Adolescente (etat 2017, cf. Trajectoire datee) : cf. ligne avr 2017.
 
 ## Sort : Construction (Kouchiku)
 - (canon) Sort inne : cree des objets a partir d'energie occulte. Tres couteux -> usage limite en pratique (typiquement de quoi recharger une arme).
@@ -36,7 +37,7 @@ Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir
 | 2011 (B1, pivot jumelles) | Le partage glisse a 40/60 en sa faveur (EO 50 % -> 60 %) : son plafond monte a 8, mais elle construit toujours mal -> exploite seulement 3. Les jumeaux passent de l'interet au respect, s'attachent. Declencheur du glissement -> roadmap | capte plus d'EO ; plafond 8 / exploite 3 |
 | 2014 (B2) | Maki quitte le clan pour Saitama : debut de la periode "Mai seule" - Mai reste interne au clan, sans sa jumelle au quotidien. Curseur 40/60 inchange (separation relationnelle, pas mecanique : le partage ne depend pas de la proximite) | seule au clan au quotidien ; curseur et puissances stables |
 | 2015 (B3) | LECON DE NISHA : ayant VU Yorozu manier sa Construction, Nisha la conseille - sa maitrise rattrape enfin son plafond (exploite 3 -> 8), elle atteint le niveau de Maki. Curseur 40/60 inchange | exploite 8 ; l'egale de sa jumelle |
-| avr 2017 (B3) | Entre a l'universite de KYOTO : 1re annee sous Utahime (promo 2017-2020, avec Kasumi Miwa et Kokichi Muta/Mechamaru) | inscrite ; premier cadre hors du seul clan |
+| avr 2017 (B3) | Entre a l'universite de KYOTO : 1re annee sous Utahime (promo 2017-2020, avec Kasumi Miwa et Kokichi Muta/Mechamaru). APPARENCE (canon) : cheveux vert-noir COURTS, au carre, frange ; yeux bruns ; sourire en coin ; uniforme de Kyoto a col montant, pantalon bouffant, bottes noires ; bras croises | inscrite ; premier cadre hors du seul clan |
 | 24 dec 2017 (B3_4) | Nuit des Cent Fleaux : consignee a l'universite avec les 1res annees, sous la garde d'Utahime, pendant que le clan et Nisha equarrissent la vieille ville | protegee ; aucun mort de l'universite |
 | avr 2018 (B3) | 2e annee sous NISHA (avec Miwa et Mechamaru) : eleve de la cousine qui la cultive depuis A2. Chantier perso : CONSTRUIRE JUSTE - l'objet minimal qui suffit (cahier des charges impose a chaque exercice : une balle, pas un chargeur ; un point d'appui, pas un mur). Nisha, qui a vu la plus grande constructrice de l'histoire a l'oeuvre, sait a quoi ressemble une Construction sans gaspillage et ne demande rien de moins. En cours a la frontiere (cf. Pedagogie/Perso_Kyoto_2017-2020.md) | eleve de Nisha ; chantier perso : le minimal qui suffit |
 

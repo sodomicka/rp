@@ -1,6 +1,6 @@
 # Suguru Geto
 
-- version : W7
+- version : W8
 
 Page = fiche personnage : noyau (etat 2005) + Trajectoire datee (post-2005). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB5.
 
@@ -8,6 +8,9 @@ Page = fiche personnage : noyau (etat 2005) + Trajectoire datee (post-2005). Fai
 - Suguru Geto. Ne le 11 fevrier 1987. Premiere annee a l'universite de Tokyo en 2005 (promo 2005-2008, avec Nisha Zenin, Satoru Gojo, Shoko Ieiri).
 - Hors-clan : n'appartient a aucune des trois grandes familles.
 - Designe avec Gojo comme l'un des "deux plus forts" de leur generation.
+
+## Physique
+- Canon : grand, cheveux noirs longs, moitie relevee en chignon haut, le reste lache ; lobes d'oreilles etires (piercings) ; regard calme, sourire doux. A l'universite : l'uniforme bleu nuit de Tokyo.
 
 ## Sort : Manipulation des Esprits Maudits
 - Absorbe les fleaux exorcises et les redeploie comme une armee a ses ordres. L'un des sorts les plus puissants de l'exorcisme.
@@ -42,6 +45,7 @@ Page = fiche personnage : noyau (etat 2005) + Trajectoire datee (post-2005). Fai
 | 2006-2007 (A2_7) | Descente lente en toile de fond (le couple Nisha/Satoru, trop absorbe, ne la voit pas). Aout 2007 : Yuki Tsukumo lui expose DEUX facons d'empecher la naissance des fleaux ; Geto en deduit SEUL la TROISIEME - exterminer les profanes (Yuki ne la lui souffle pas) | doctrine d'extermination cristallisee |
 | fin 2007 (A2_8) | LES DEUX GOUTTES. Mort de Yu Haibara (qui lui avait affirme sa bonte peu avant) sur une mission a mauvais intel. LE LENDEMAIN, mission au village de montagne : il massacre 112 profanes pour sauver deux gamines (soeurs Hasaba, Nanako et Mimiko, futures filles de secte). Deux gouttes de trop -> le vase deborde | BASCULE POUR DE BON (passage a l'acte) ; recueille les soeurs Hasaba ; solo -> 15 doigts |
 | fin 2007 (A2_9) | Decouvert via Yaga. Nisha + Shoko (les deux cyniques) acceptent d'entendre pourquoi - beat TERMINAL de l'opposition Nisha/Geto : elles entendent le monstre sans le suivre. Satoru, lui, refuse d'entendre, le confronte (scene de rue) mais le laisse partir, incapable de tuer son meilleur ami. Geto defecte et FONDE SA SECTE | defection consommee ; opposition Nisha/Geto soldee ; absent du diplome (hiver 2008) |
+| post-defection (fin 2007 ->) | APPARENCE de chef de secte (canon) : robe de moine bleu nuit, kesa vert a quadrillage d'or sur l'epaule gauche, hakama ample, tabi blancs, zori a brides rouges ; chignon haut, meches lachees, boucles d'oreilles | image publique du gourou - c'est sous cette forme que le monde le croise apres 2007 |
 
 [DIVERGENCE RP] Datation A2_8 : le canon situe la mort de Haibara puis le massacre du village en septembre 2007 (Geto entre au village le 18 sept ; rapport d'incident date du 28 sept). Le RP les repousse a FIN 2007 - apres la fenetre de l'Amicale de septembre (edition 2007 non tenue, cf. WIKI Factions/Tournoi.md) -, pour que Tokyo soit deja instable AVANT le massacre (climat post-Riko 2006) et non a cause de lui. Aligne avec Haibara A2_8 et Nanami A2_8.
 

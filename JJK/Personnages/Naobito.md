@@ -1,6 +1,6 @@
 # Naobito Zenin
 
-- version : W7
+- version : W8
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -12,7 +12,8 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 - [DIVERGENCE RP] sur la parente etendue et les dates : cf. Factions/Clan_Zenin.md.
 
 ## Physique
-- Homme d'age mur, mise de notable. Alcoolique notoire (canon). Details non essentiels au noyau.
+- 58 ans en 2005 (ne 1947 ; 2005 - 1947 = 58). Canon : trapu, cheveux gris-blancs plaques en arriere avec de longues meches sur les cotes, fine moustache et bouc, sourire en coin narquois. Mise de notable. Alcoolique notoire (canon).
+- Tenue : [DIVERGENCE RP] haori sur kimono et hakama, coupe canon, recoloree aux couleurs du clan - haori gris moyen, kimono et hakama sombres, accents (liseres, cordon de haori) violets ; tabi blancs, zori. (Canon : haori gris sur kimono noir.) Cf. Factions/Clan_Zenin.md, Iconographie et tenue.
 
 ## Sort : Projection (heritage Zenin)
 - (canon) Decoupe la seconde en 24 images. Predetermine ses mouvements sur la seconde a venir et les execute a vitesse extreme. Quiconque touche sa paume est soumis a la regle des 24 images/seconde : faillir a executer le mouvement predetermine, ou briser les lois de la physique, fige la cible une image durant une seconde.

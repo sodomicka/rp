@@ -1,6 +1,6 @@
 # _Implications
 
-- version : W20
+- version : W26
 
 Journal de conception (passes en spirale). Document de TRAVAIL : jamais fetche en narration.
 
@@ -28,9 +28,23 @@ Format libre : `<entite/lieu> | <arc ou contexte> | <point a verifier / doute / 
 
 - Naoya_chrono_B, trame_B | detaguage ere C | A FAIRE (petit lot ou au fil de l'eau) : les deux portent encore les tags [CANON SUPPOSE] sur la mort de Naoya / le massacre par Maki, desormais tranches (supprime / remplace). Maki W10, Ogi W5, Ranta W6 sont deja corrigees ; ces deux fiches n'ont pas ete relivrees au thread propagation.
 
-- OC Kamo (Yukiko) | chantier annonce | prodige des rideaux restee a Kyoto, co-joueuse Kamo. Fiche a builder dans un THREAD DEDIE (mode construction de fiches, niveau OC complet : physique, manies, gouts). Rien n'existe encore.
+- OC Kamo (Yukiko) | chantier annonce | prodige des rideaux restee a Kyoto, PROCHAIN OC JOUABLE : deux roadmaps paralleles (Nisha / Yukiko), chacune PNJ de l'autre. Fiche a builder dans un THREAD DEDIE (mode construction de fiches, niveau OC complet : physique, manies, gouts). Rien n'existe encore.
 
-- Iconographie des clans | design | OUVERT : blasons et tenues traditionnelles des trois clans a fixer AVEC YUKIKO (le worldbuilder a des designs d'anciens builds). Acte et grave : le blason Zenin figure les Dix Ombres (argument de legitimite du coup d'Etat) - [INCERTAIN] pose dans Clan_Zenin W10 sur le design exact.
+- Iconographie des clans | design | FERME (thread visuels, aout 2026) : kamons, codes couleur et tenues d'anciens graves en Factions/ (Zenin W11 : dix petales = Dix Ombres, fente = cadran d'horloge, gris moyen + violet ; Gojo W5 : six tomoe = Six Yeux, blanc + bleu roi ; Kamo W5 : enso + goutte, anthracite + rouge sang). Decision : fait sans attendre Yukiko. Tenues Zenin canon recolorees sur Naobito W8, Jinichi W6, Ogi W6, Ranta W7.
+
+- Visuels | audit | EN COURS : ratissage de toutes les fiches Personnages pour le physique. FAIT : Nisha W15 (niveau de detail superieur + objets recurrents + visuel du domaine), Naoya W14, Eien W8 (forme en for interieur), Kenjaku W7 (forme vraie + intrusion 2015), Satoru, Shoko, Yaga, Ogi, Ranta (deja dotes), Naobito, Jinichi, Tengen, Geto (completes). LOT 2 FAIT : Maki W11, Mai W10 (gamines 2005 + ado 2017), Mei Mei W6 (cheveux blancs - erreur canon corrigee), Utahime W6, Chojuro W2, Nobuaki W2 ; Toji, Gakuganji, Riko, Haibara deja dotes. Regle Kukuru (gris neutre, Nobuaki en blanc) gravee en Clan_Zenin W12. LOT 3 FAIT : Miwa W5 (cheveux bleu clair - erreur canon corrigee), Momo W5 (cheveux longs - erreur canon corrigee), Yuki W4, Noritoshi W5 ; Nanami, Megumi, Tsumiki, Nitta, Yorozu, Todo deja dotes. LOT 4 FAIT : Mechamaru W6, Toge W5, Hakari W8, Kirara W6 (canon complete) ; Ijichi, Panda, Arata, Yuta deja dotes. AUDIT VISUEL CLOS : 41/41 fiches dotees d'un physique. Noyau Triceratops de Panda decrit par le worldbuilder (Panda W5). Bascules d'apparence de Hakari (W10) et Kirara (W8) calees sur l'exclusion (debut 2018), sans intervalle ; convention point median (ASCII : point simple) gravee sur Kirara. Fin de la misogynie / des prejuges de Nisha en 2006 gravee (Nisha W16, Nisha_chrono_A W6).
+
+- Kenjaku | intrusion en for interieur | OUVERT : le vecteur par lequel il entre dans la Sphere du Temps Infini de Nisha en 2015 n'est pas fixe ([INCERTAIN] pose dans Kenjaku W7). A border en Roadmap_B2 ou sur decision.
+
+- Nisha | carte bleue | OUVERT : objet recurrent (acier damas sombre, veinures violettes) pose dans Nisha W15 ; origine et date d'entree en scene non fixees. Entree SB7 a creer au prochain BIBLE BUILD.
+
+- Universites | uniformes | DECIDE (thread visuels) : l'uniforme universitaire est BLEU NUIT (Tokyo et Kyoto). A reporter sur Universite_Tokyo.md et Universite_Kyoto.md au prochain build.
+
+- BIBLE | SB4 / SB7 | A FAIRE au prochain BIBLE BUILD : une ligne kamon + code couleur par clan en SB4 ; carte bleue en SB7 ; SB0 bible_version B16.
+
+- Maki | apparence ere C | A FAIRE au build ere C : son apparence change post-Shibuya (decision worldbuilder, detail non fixe) - note de frontiere posee dans Maki W11.
+
+- Tengen | physique | OUVERT : apparence en 2005 (avant la fusion ratee) non etablie - [INCERTAIN] pose dans Tengen W3.
 
 - Clan_Gojo | violence infantile | OUVERT : motif de l'abstention Gojo non etabli - [INCERTAIN] pose dans la fiche (W4). A combler par le worldbuilder.
 

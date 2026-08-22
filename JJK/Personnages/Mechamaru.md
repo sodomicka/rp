@@ -1,6 +1,6 @@
 # Kokichi Muta (Mechamaru)
 
-- version : W5
+- version : W6
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e annee a Kyoto (via son robot). Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -15,8 +15,8 @@ Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e
 - Origine du croisement : pere Muta (branche tertiaire Kamo, don sang) x mere Zenin qui s'ignorait Zenin (don temps). Le sang DOMINE -> oriente l'energie (intensite + portee). L'oppose exact de Toji/Maki (temps dominant -> type physique). Deux parents exorcistes, aucun conscient de son rattachement de clan, lui non plus.
 
 ## Physique
-- Vrai corps : cache, alite, gravement diminue par la Restriction. Ne se montre presque jamais.
-- En scene : il pilote a distance "Ultimate Mechamaru", un golem mecanique (cadavre maudit arme). C'est ce robot que les autres prennent pour lui.
+- Vrai corps (canon) : cache, alite, gravement diminue par la Restriction - pale, emacie, chauve, peau a vif, corps relie a des appareils. Ne se montre presque jamais.
+- En scene : il pilote a distance "Ultimate Mechamaru", un golem mecanique (cadavre maudit arme). C'est ce robot que les autres prennent pour lui. Apparence (canon) : silhouette humanoide cuirassee, sombre, articulations apparentes, face masquee sans traits ; porte l'uniforme de Kyoto par-dessus la carcasse.
 
 ## Sort et style de combat
 - Sort inne : Puppet Manipulation (manipulation de pantins / cadavres maudits a distance). Il anime Mechamaru et ses constructions de loin.

@@ -1,6 +1,6 @@
 # Toge Inumaki
 
-- version : W4
+- version : W5
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e annee a Tokyo. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -9,7 +9,7 @@ Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e
 - Promo 2017-2020 : 1e annee en 2017-2018 (sous Satoru), avec Maki et Panda. Petit prodige. Grade 2.
 
 ## Physique
-- Canon : marques de clan Inumaki (motifs en forme de crocs/serpent) sur la langue et autour de la bouche ; col remonte cachant le bas du visage. Discret, juvenile.
+- Canon : cheveux blanc platine, courts ; marques de clan Inumaki (motifs en forme de crocs/serpent) sur la langue et autour de la bouche ; col de l'uniforme remonte cachant le bas du visage. Discret, juvenile.
 
 ## Sort et style de combat
 - Sort inne : Cursed Speech (Parole Maudite), don du clan Inumaki. Les mots qu'il prononce s'imposent a la realite comme des ordres ("explose", "ne bouge pas", "dors", "recule"...). Plus l'ordre est puissant, plus la gorge s'use (limite physique stricte).

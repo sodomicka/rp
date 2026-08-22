@@ -1,6 +1,6 @@
 # Eien
 
-- version : W7
+- version : W8
 
 OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokinesie). Moitie du couple architecte avec Kenjaku. Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -8,6 +8,14 @@ OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokin
 - [DIVERGENCE RP] OC. Fleau de Grade Special, age millenaire. Desincarnee : a oublie son premier genre et sa premiere identite. Genre apparent variable selon l'hote.
 - [DIVERGENCE RP] Compagne et amante de Kenjaku - amour sincere, symetrique, vieux de mille ans. Deux savants fous desincarnes. But commun : un monde ideal pour eux deux, via la fusion de l'humanite (plan Merger / Tengen, cf. Personnages/Kenjaku.md). L'amour = le pour qui, la fusion = le comment ; les deux soudes.
 - Nom : "Eien" = "eternite" en japonais (romanisation : eien).
+
+## Apparence (dans le Jardin des Eres Mortes)
+[DIVERGENCE RP] Eien est desincarnee : elle n'a AUCUNE apparence dans le monde. La forme ci-dessous est celle sous laquelle elle se presente a son hote dans le Jardin des Eres Mortes - et dans tout for interieur ou elle se projette.
+- Sous Nisha : silhouette feminine (le genre apparent suit l'hote).
+- Visage ABSENT : un ovale de peau lisse, sans yeux, sans nez, sans bouche. Elle a oublie son premier visage comme son premier genre.
+- Chevelure immense, flottante comme sous un vent qui n'existe pas, BICOLORE : une moitie noire, une moitie blanche. Tous les ages a la fois - atemporelle.
+- Robes archaiques superposees, noires doublees d'or ; bandes d'or aux manches ; ceinture noire a bande d'or. Les pieds ne se voient pas.
+- Mains jointes devant elle, posture immobile.
 
 ## Sort : la Chronokinesie
 - [DIVERGENCE RP] Sort ancestral du temps (lignee Masakado ; Eien en est issue, bien avant l'ere Heian). C'est ce sort qu'elle cede a ses hotes.

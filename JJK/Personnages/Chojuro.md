@@ -1,6 +1,6 @@
 # Chojuro Zenin
 
-- version : W1
+- version : W2
 
 Fiche noyau (secondaire). Canon + RP. Etat = jusqu'au point de depart (2005). Devenir post-2005 -> roadmap.
 
@@ -11,6 +11,7 @@ Fiche noyau (secondaire). Canon + RP. Etat = jusqu'au point de depart (2005). De
 
 ## Physique
 - (canon) Vieil homme de petite taille, cheveux en crete (mohawk). Expression habituelle : sourire, yeux clos.
+- Tenue de clan [DIVERGENCE RP] : gris moyen et violet (cf. Factions/Clan_Zenin.md, Iconographie et tenue).
 
 ## Sort : Bras de Terre (Earth Arms)
 - Sort inne : manipule la terre au contact du sol. Fait surgir deux bras de pierre geants pour frapper la cible ou l'emprisonner entre leurs paumes. (canon)

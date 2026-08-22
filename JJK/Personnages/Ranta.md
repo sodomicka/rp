@@ -1,6 +1,6 @@
 # Ranta Zenin
 
-- version : W6
+- version : W7
 
 Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat = jusqu'au point de depart (2005). Devenir post-2005 -> roadmap.
 
@@ -11,7 +11,7 @@ Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE
 - [DIVERGENCE RP] dates et parente : cf. Factions/Clan_Zenin.md.
 
 ## Physique
-- (canon) Petite taille. Tenue de clan : kimono blanc, hakama bleu fonce. Jeune (18-19 ans en 2005).
+- (canon) Petite taille. Tenue de clan : [DIVERGENCE RP vs canon] kimono et hakama de coupe canon, aux couleurs du clan - gris moyen et violet (canon : kimono blanc, hakama bleu fonce). Cf. Factions/Clan_Zenin.md, Iconographie et tenue. Jeune (18-19 ans en 2005).
 
 ## Sort : Regard Paralysant (Paralyzing Gaze)
 - Sort inne : fait apparaitre une paire d'yeux derriere sa cible et l'enrobe d'energie occulte qui paralyse le corps. Efficace sur les adversaires faibles ; un exorciste puissant peut forcer le mouvement. Le surmenage de la technique est mortel pour l'utilisateur.

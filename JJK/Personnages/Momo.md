@@ -1,6 +1,6 @@
 # Momo Nishimiya
 
-- version : W4
+- version : W5
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -10,7 +10,7 @@ Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e
 - Soutien aerien (reconnaissance + appui), Grade 2.
 
 ## Physique
-- Canon : petite taille, soignee, look apprete (cheveux clairs courts, maquillage marque, style gyaru). Se deplace sur un balai maudit.
+- Canon : petite taille, menue ; cheveux blond orange LONGS, frange ; grands yeux clairs ; look de petite sorciere sur son balai maudit (cape a capuche sur l'uniforme de Kyoto). Soignee, coquette.
 
 ## Sort et style de combat
 - Sort inne : manipulation d'un balai maudit (vol) couplee a la manipulation du vent. Observation et reconnaissance aerienne, appui tactique, rafales offensives d'appoint.

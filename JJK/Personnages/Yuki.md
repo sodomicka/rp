@@ -1,6 +1,6 @@
 # Yuki Tsukumo
 
-- version : W3
+- version : W4
 
 ## Identite
 - Yuki Tsukumo, une des QUATRE seules Grade Special de l'univers. Electron libre integral : elle a decroche son grade a l'universite, puis a claque la porte des institutions. Elle refuse les missions de universite d'exorcisme, meprise les autorites (meme degout que Gojo), vagabonde a l'etranger, a moto - reputee aussi puissante qu'irresponsable.
@@ -9,7 +9,7 @@
 - Ancienne Plasma Stellaire, comme Riko : la vessel qui a VECU, miroir de celle qui meurt. (cf. Tengen.md ; calage dans le cycle -> a preciser.)
 
 ## Physique et caractere
-- Physique : grande, blonde ; allure de vagabonde a moto plutot que d'uniforme.
+- Physique : grande, blonde, cheveux longs ; allure de vagabonde a moto (blouson, jean) plutot que d'uniforme. Presence sure d'elle, sourire en coin.
 - Caractere : franche, insolente, irreverencieuse, provocatrice ; un esprit libre que rien n'attache. Si secrete sur sa technique que meme le QG n'en connaissait pas les details. Tic verbal : la question "c'est quoi ton type ?" - SON tic, qu'elle transmettra a son protege Aoi Todo.
 - Nuance d'insolence (a opposer a Nisha) : Yuki est insolente SANS se poser en juge - elle rejette le systeme mais ne se croit pas au-dessus des gens. (Face a l'insolence de superiorite de Nisha, cf. Relations.)
 

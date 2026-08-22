@@ -1,6 +1,6 @@
 # Jinichi Zenin
 
-- version : W5
+- version : W6
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -11,7 +11,8 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 - [DIVERGENCE RP] sur la parente et les dates : cf. Factions/Clan_Zenin.md.
 
 ## Physique
-- 30 ans en 2005. [INCERTAIN] description physique detaillee (pas de canon visuel fiable retenu) ; non essentiel au noyau.
+- 30 ans en 2005 (ne 1975). Canon : colosse, criniere noire hirsute en bataille, barbe fournie, sourcils epais, regard dur, mains enormes. Va pieds nus.
+- Tenue : [DIVERGENCE RP] kimono simple ceinture d'un obi, coupe canon, recolore aux couleurs du clan - kimono gris moyen, obi violet. (Canon : brun olive.) Cf. Factions/Clan_Zenin.md, Iconographie et tenue.
 
 ## Sort : Poings Meteores (inne)
 - Sort inne : conjure d'enormes poings d'energie occulte, projetes comme des meteores, qui explosent a l'impact et accompagnent ses propres coups. (Canon : technique destructrice sans nom officiel. "Poings Meteores" = nom RP.)

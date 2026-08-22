@@ -1,6 +1,6 @@
 # Panda
 
-- version : W4
+- version : W5
 
 Fiche noyau (canon + RP), entite NEE au cours de l'arc B1 (2011). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = ce que Panda EST des sa naissance ; son devenir post-2011 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps). Corps maudit en croissance sur tout B1 : scaling de combat non pertinent (a maturite seulement).
 
@@ -13,7 +13,7 @@ Fiche noyau (canon + RP), entite NEE au cours de l'arc B1 (2011). Faits canon no
 
 ## Physique
 - Canon : apparence d'un panda geant adulte, plus grand que des humains ; parle et se comporte en etre conscient. Porte parfois des vetements (brassards, echarpes, vestes).
-- Trois noyaux (a la place d'un coeur unique) lui permettent de changer de forme en basculant de l'un a l'autre (cf. Nature).
+- Trois noyaux (a la place d'un coeur unique) lui permettent de changer de forme en basculant de l'un a l'autre (cf. Nature, ou la forme Triceratops est decrite).
 
 ## Nature : Corps Maudit a Mutation Brusque (trois noyaux / trois ames)
 - (canon) La regle des corps maudits ordinaires : un seul noyau, alimente en continu par un exorciste. Panda est l'exception : TROIS noyaux portant trois ames compatibles, qui s'observent mutuellement en permanence et se stabilisent jusqu'a la conscience. Au bout de ~3 mois, il devient capable de regenerer sa propre energie occulte (autonomie). Ne completement sentient.
@@ -21,6 +21,7 @@ Fiche noyau (canon + RP), entite NEE au cours de l'arc B1 (2011). Faits canon no
   - Noyau Panda (le sien) : forme par defaut, type equilibre, conserve l'energie occulte. Peut feindre la concentration d'energie pour bluffer un adversaire (faux noyau).
   - Noyau Gorilla ("le frere") : forme de force pour le combat rapproche ; force et vitesse decuplees ; attaque Tambour Imparable (les coups resonnent a travers toute garde). Tres couteux en energie occulte.
   - Noyau Triceratops ("la soeur") : forme bipede triceratops, plus elancee et feminine. Caractere timide, reserve, le plus intime des trois.
+  - [DIVERGENCE RP] APPARENCE de la forme Triceratops (jamais montree par le canon ; decision worldbuilder) : corps humanoide feminin, fin, elance et muscle ; bras, jambes et poitrine NOIRS, ventre et bassin BLANCS ; bas du visage humain et feminin ; haut de la tete plat, osseux, enorme, triangulaire - en pointe vers le nez, plat vers l'arriere ; yeux noirs a iris violette, places lateralement ; trois petites cornes sur le dessus du nez.
 - Point faible : on ne l'abat qu'en detruisant ses noyaux (son coeur). Corps tres resistant, renforcable a l'energie occulte.
 
 ## Conception (2011) - [DIVERGENCE RP]

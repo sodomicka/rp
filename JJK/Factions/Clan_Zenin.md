@@ -1,6 +1,6 @@
 # Clan Zenin
 
-- version : W10
+- version : W12
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 (morts, bascule de gouvernance) -> roadmap, hors de cette page neutre.
 
@@ -31,7 +31,16 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 ## Gouvernance - le conseil
 [DIVERGENCE RP] Au sommet, le clan est dirige par un CONSEIL : son elite decisionnaire, a trois tetes - le patriarche Naobito, son cadet Ogi, et leur neveu Jinichi (nomme au conseil par Naobito pour sa seule puissance). C'est lui qui tranche les decisions majeures - transferts, missions de poids, orientations de lignee (ainsi le transfert de Nisha a Tokyo en 2005). La regle cardinale "on n'offre rien chez les Zenin, on recompense" y vaut comme partout : on siege par la force, jamais par l'age ni le rang de naissance (Jinichi, d'une generation cadette, y entre pour sa puissance, pas pour son sang). Le patriarche y porte la voix preponderante.
 
-[DIVERGENCE RP] Argument de legitimite concurrent : une lecture traditionaliste veut que le siege revienne au PORTEUR DES DIX OMBRES, le sort greffe valant emblematiquement pour la maison entiere. Argument dormant tant qu'aucun porteur ne vit dans le clan - il ne coute rien de le brandir quand il ne designe personne. [INCERTAIN] iconographie du clan (blason, tenue traditionnelle) non fixee.
+[DIVERGENCE RP] Argument de legitimite concurrent : une lecture traditionaliste veut que le siege revienne au PORTEUR DES DIX OMBRES, le sort greffe valant emblematiquement pour la maison entiere. Argument dormant tant qu'aucun porteur ne vit dans le clan - il ne coute rien de le brandir quand il ne designe personne. Iconographie du clan : cf. section Iconographie et tenue ci-dessous (le kamon figure les Dix Ombres).
+
+## Iconographie et tenue
+[DIVERGENCE RP] (le canon ne fixe ni kamon ni tenue propre au clan).
+- KAMON : fleur etoilee a DIX petales en pointe de losange - un petale par Ombre, le blason figure les Dix Ombres (argument de legitimite, cf. Gouvernance). Fendue horizontalement en son milieu en deux moities miroir : la fente rappelle le cadran d'une horloge, lien au temps (Masakado, Projection). De fins rayons partent du coeur entre les petales. Couleur : violet prune tres sombre sur gris.
+- CODE COULEUR du clan : gris moyen et violet (prune). Noir en appoint.
+- TENUE D'ANCIEN (conseil, ceremonie) : kimono gris moyen seme du kamon en violet clair, liseres de col et d'ourlet violets, epaulettes raides (facon kataginu) violettes, obi violet sombre, hakama noir plisse, zori. Katana au cote pour les epeistes.
+- TENUE DE CLAN COURANTE (membres a sort inne : conseil, Hei, Akashi) : coupes traditionnelles canon conservees (kimono, haori, hakama), recolorees aux couleurs du clan - gris moyen et violet. [DIVERGENCE RP vs canon] remplace les tenues canon (blanc / bleu fonce de Ranta, gris / noir de Naobito, brun olive de Jinichi). Detail par personne : fiches Personnages/.
+- KUKURU (sans sort inne) : GRIS NEUTRE, sans le moindre violet. Le violet prune est la couleur NOBLE du clan, reservee aux porteurs de sort ; la police interne est traitee en serpillere jusque dans la symbolique des couleurs. Exception : le capitaine Nobuaki est en BLANC (canon), seul a se distinguer.
+- Hors tenue de clan, les jumeaux Nisha et Naoya preferent le noir sobre ("la sobriete efficace") ; a l'universite, l'uniforme bleu nuit. Cf. Personnages/Nisha.md, Personnages/Naoya.md.
 
 ## Convention de nommage
 - [DIVERGENCE RP] Porter un vrai prenom reconnu au sein du clan = reconnaissance pleine (ni servante ni uterus). Les non-reconnues ne sont pas nommees.
