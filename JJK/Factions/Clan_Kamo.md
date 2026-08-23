@@ -1,6 +1,6 @@
 # Clan Kamo
 
-- version : W7
+- version : W8
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 -> roadmap, hors de cette page neutre.
 
@@ -50,6 +50,7 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 [DIVERGENCE RP] (le canon ne fixe ni kamon ni tenue propre au clan).
 - KAMON : un enso trace au pinceau, rouge sang, trait irregulier ; au centre, une goutte de sang - l'Hemokinesie. Sur fond anthracite.
 - CODE COULEUR du clan : anthracite et rouge sang.
+- FLEUR SYMBOLIQUE du clan : la pivoine rouge sombre (massifs et vases du siege, motif de la tenue de princesse de Yukiko).
 - TENUE D'ANCIEN (chef, emissaires, ceremonie) : kimono anthracite seme du kamon en rouge eteint, kamon au sein gauche, obi rouge sang noue devant, hakama bordeaux, zori. Chignon a kanzashi.
 - Tenue de princesse (Yukiko, quotidien) : variante sans kamon seme ni kanzashi - cf. Personnages/Yukiko.md.
 
@@ -97,6 +98,7 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 - Casting Kamo en 2005 : Yukiko active (Kyoto, promo 2005-2008) ; Noritoshi (8 ans), Mechamaru et Yuji enfants ; Choso dormant ; Kenjaku ailleurs / plot. Fiches enfants differees, rappelees par roadmap.
 
 ## Pointeurs
+- Siege du clan (Chiryu no Kyuden, Kibune) : cf. Lieux/Chiryu_no_Kyuden.md.
 - Fondation, manip du sang, Six Yeux essaimes, Peintures Mortes, branche Itadori, Restriction Celeste : cf. Cosmogonie/Trois_Esprits.md.
 - Kenjaku (origine Kamo) et Eien (hote Nanao Kamo) : cf. Personnages/Kenjaku.md, Personnages/Eien.md.
 - Lignee dirigeante en detail : cf. Personnages/Yukiko.md, Personnages/Noritoshi_Kamo.md.

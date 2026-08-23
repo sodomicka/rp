@@ -1,6 +1,6 @@
 # Clan Zenin
 
-- version : W12
+- version : W13
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 (morts, bascule de gouvernance) -> roadmap, hors de cette page neutre.
 
@@ -37,6 +37,7 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 [DIVERGENCE RP] (le canon ne fixe ni kamon ni tenue propre au clan).
 - KAMON : fleur etoilee a DIX petales en pointe de losange - un petale par Ombre, le blason figure les Dix Ombres (argument de legitimite, cf. Gouvernance). Fendue horizontalement en son milieu en deux moities miroir : la fente rappelle le cadran d'une horloge, lien au temps (Masakado, Projection). De fins rayons partent du coeur entre les petales. Couleur : violet prune tres sombre sur gris.
 - CODE COULEUR du clan : gris moyen et violet (prune). Noir en appoint.
+- FLEUR SYMBOLIQUE du clan : l'heliotrope violet du Perou - cinq petales par fleur, pile cinq des dix Ombres du kamon, deux fleurs pour le blason entier ; le symbole a precede la fleur (massifs du siege : cf. Lieux/Juei_no_Ryochi.md).
 - TENUE D'ANCIEN (conseil, ceremonie) : kimono gris moyen seme du kamon en violet clair, liseres de col et d'ourlet violets, epaulettes raides (facon kataginu) violettes, obi violet sombre, hakama noir plisse, zori. Katana au cote pour les epeistes.
 - TENUE DE CLAN COURANTE (membres a sort inne : conseil, Hei, Akashi) : coupes traditionnelles canon conservees (kimono, haori, hakama), recolorees aux couleurs du clan - gris moyen et violet. [DIVERGENCE RP vs canon] remplace les tenues canon (blanc / bleu fonce de Ranta, gris / noir de Naobito, brun olive de Jinichi). Detail par personne : fiches Personnages/.
 - KUKURU (sans sort inne) : GRIS NEUTRE, sans le moindre violet. Le violet prune est la couleur NOBLE du clan, reservee aux porteurs de sort ; la police interne est traitee en serpillere jusque dans la symbolique des couleurs. Exception : le capitaine Nobuaki est en BLANC (canon), seul a se distinguer.
@@ -85,6 +86,7 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 - Scaling des membres (en doigts de Sukuna) : cf. Power_Scaling/Doigts_de_Sukuna.md et fiches perso.
 
 ## Pointeurs
+- Siege du clan (Juei no Ryochi, montagnes de l'est de Kyoto) : cf. Lieux/Juei_no_Ryochi.md.
 - Fondation, greffes inter-clans, origine de la Restriction Celeste : cf. Cosmogonie/Trois_Esprits.md.
 - Couche pedagogique (cas d'ecole anonyme du zero absolu, doctrine Restriction Celeste) : cf. Pedagogie/Detection_Contention_1eAnnee.md et Pedagogie/Energie_Territoires_1eAnnee.md.
 - Fiches perso du roster Zenin : cf. Personnages/ (Naobito, Naoya, Nisha, Jinichi, Ogi, Ranta, Chojuro, Nobuaki, Maki, Mai, Toji).
