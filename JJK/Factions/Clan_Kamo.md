@@ -1,51 +1,74 @@
 # Clan Kamo
 
-- version : W5
+- version : W6
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 -> roadmap, hors de cette page neutre.
 
 ## Nature et ethos
 - Une des trois grandes familles (Big Three : Gojo, Kamo, Zenin). Statut imperial historique, arrogance de caste.
 - Sort du clan : la manipulation du sang (Hemokinesie). Don ancestral Sutoku/liens, porte dans sa version PURE par la lignee elue. (Canon : Blood Manipulation = technique Kamo.)
-- [DIVERGENCE RP] Credo cardinal : "La purete n'a pas de prix." Herite de Kenjaku il y a des siecles, traine depuis comme l'evidence la plus simple et la plus resistante au temps. Double tranchant : la purete est sacree (sans prix) ET aucun sacrifice n'est trop cher pour elle.
+- [DIVERGENCE RP] Credo cardinal : "La purete n'a pas de prix." Herite de Kenjaku il y a des siecles, traine depuis comme l'evidence la plus simple et la plus resistante au temps. Double tranchant : la purete est sacree (sans prix) ET aucun sacrifice n'est trop cher pour elle. Le clan l'adosse a sa legende fondatrice (ci-dessous) : des parents n'importent pas, rien ne merite le trone sinon la purete, qu'importe qui la porte.
 - [DIVERGENCE RP] Mepris absolu des sangs meles. Le clan le plus exigeant des trois.
-- [DIVERGENCE RP] Ironie fondatrice : le credo vient de Kenjaku - issu des Kamo, mais aussi forgeur des Peintures Mortes (hybrides de sang) et parasite qui change de corps. L'architecte de l'impurete a lege aux Kamo le dogme de la purete. Cf. Cosmogonie/Trois_Esprits.md, Personnages/Kenjaku.md.
+- [DIVERGENCE RP] Ironie fondatrice : le credo vient de Kenjaku - issu des Kamo, mais aussi forgeur des Peintures Mortes (hybrides de sang) et parasite qui change de corps. L'architecte de l'impurete a legue aux Kamo le dogme de la purete. Cf. Cosmogonie/Trois_Esprits.md, Personnages/Kenjaku.md.
+
+## Legende fondatrice et nommage
+[DIVERGENCE RP]
+- CE QUE LE CLAN RACONTE : le couple fondateur, Kamo no Tadayuki et Kamo no Yasunori, recut ENSEMBLE la benediction de l'onryo du clan. Apres la naissance de leur premier enfant - le sang pur - ils s'entre-tuerent pour etre chacun seul parent. Recit qui fonde le credo : la purete n'a pas de prix, les parents eux-memes n'en sont pas un.
+- VERITE (usage MJ ; aucun cours, aucune archive ne la porte) : le fondateur reel est un Sutoku, beni seul par l'onryo des liens (cf. Cosmogonie/Trois_Esprits.md). C'est le temps qui a fait des Kamo une lignee pure. Tadayuki et Yasunori etaient PERE ET FILS, deux porteurs purs de l'ere Heian, reecrits en couple entre-tue pour justifier le credo. (Fait historique : les deux noms sont ceux de deux onmyoji reels du Xe siecle, pere et fils ; la cosmogonie locale les mythologise.)
+- NOMMAGE DES LIGNEES PRINCIPALES : les filles recoivent le SON "yuki" de Tadayuki - "neige", au sens second "laver un deshonneur, purifier une souillure" ; suffixe "-ko", marqueur aristocratique (ex. Yukiko). Les garcons recoivent la racine "nori" de Yasunori (ex. Noriaki, Noritoshi - y compris le felon Meiji). Ne concerne que les lignees principales : Nanao Kamo (secretaire du Noritoshi Meiji, hote d'Eien) n'en releve pas.
 
 ## Le sort elu et la succession
-- [DIVERGENCE RP] Le pouvoir est hereditaire. A defaut de porteur du sort pur (Hemokinesie inalteree), il echoit au premier fils.
-- [DIVERGENCE RP] Tout enfant au sort MUTE est verse d'office dans une branche secondaire ("La purete n'a pas de prix").
-- [DIVERGENCE RP] A la naissance d'un ELU (sort inne pur), celui-ci devient la PUPILLE du chef de clan, qui le forme et lui cedera le pouvoir a ses 18 ans. L'heritier doit etre parfait en tout : maitrise, manieres, opinions, obeissance, prise de decision. Exigence sans equivalent chez les deux autres familles.
+- [DIVERGENCE RP] Le pouvoir est hereditaire. A la naissance d'un ELU (sort inne pur), celui-ci devient la PUPILLE du chef de clan, qui le forme et lui cedera le pouvoir a ses 18 ans. L'heritier doit etre parfait en tout : maitrise, manieres, opinions, obeissance, prise de decision. Exigence sans equivalent chez les deux autres familles.
+- [DIVERGENCE RP] A DEFAUT D'ELU : herite l'enfant legitime du chef dont le sort est le plus proche du pur, SANS DISTINCTION DE SEXE - les Kamo ne font pas les fines bouches, seule la purete compte. A defaut de tout sort du sang : le premier fils.
+- [DIVERGENCE RP] PRINCE / PRINCESSE KAMO : titre des enfants du Patriarche en exercice, quel que soit leur sort. Un sort mute ne donne pas le trone ; il ne retire pas le titre tant que le pere regne.
+- [DIVERGENCE RP] BRANCHE SECONDAIRE : le titre suit le TRONE, pas le sort. Une lignee passe en branche secondaire quand le trone lui echappe - un elu ne d'un AUTRE Kamo devient pupille puis chef, et les enfants de l'ancien chef perdent le titre ("La purete n'a pas de prix"). Cas d'ecole : si Noritoshi etait ne d'un autre Kamo, Yukiko et sa famille seraient passees en branche secondaire ; il est ne du Patriarche, elle reste princesse - detronee de l'HERITAGE (1990-2001), jamais du TITRE (cf. Personnages/Yukiko.md).
+
+## Lignee dirigeante (etat 2005)
+[DIVERGENCE RP]
+- NORIAKI KAMO - chef du clan. Pas de sort pur : une mutation lointaine (coagulation interne, renforcement sous la peau), porteur connu du gene. Premier fils de sa generation, chef faute d'elu. A epouse une PROFANE pure pour ne pas corrompre le sang. Un homme qui lit les signes : il fit de Fubuki sa favorite pour le kanji de la neige (yuki) dans son nom, et nomma son batard comme le felon Meiji. En 1997, pret a executer le batard s'il n'avait pas le sang pur a 4 ans - caprice de patriarche : aucun batard ne volera le trone a sa fille legitime, sauf le sang pur.
+- FUBUKI - epouse, profane pure. Mere de Yukiko. Morte en 1992, empoisonnee par un traitre interne au clan lors d'une reception d'accueil des concubines. Le traitre fut torture quinze jours et quinze nuits avant de succomber a des blessures faites pour etre lentes : on ne plaisante pas chez les Kamo. Enquete officielle sans aboutissement ; rumeur persistante contre Yasashiku.
+- YASASHIKU - concubine, profane pure. "Douceur" est son nom de concubine. Mere de Noritoshi. Verite (usage MJ) : la rumeur est VRAIE ; seule Yukiko l'a etablie, et n'en fait rien - les deux femmes protegent le meme prince, tacitement, et Noritoshi ne doit jamais l'apprendre. Decision worldbuilder : pas un Tchekhov ; savoir d'ironie -> CODEX. Cf. Personnages/Yukiko.md.
+- YUKIKO KAMO (nee le 14 juin 1986) - princesse, seule enfant legitime. Hemotropie (mutation proche du pur). Future Matriarche 1990-2001, detronee de l'heritage a l'eveil de Noritoshi, princesse toujours. Prodige des rideaux, record du Dragon. Cf. Personnages/Yukiko.md.
+- NORITOSHI KAMO (ne le 5 juin 1997) - Prince Kamo, l'elu, pupille du chef depuis l'eveil de son Hemokinesie pure (5 juin 2001, a 4 ans). Batard de concubine. En 2005 : 8 ans. Cf. ci-dessous et Personnages/Noritoshi_Kamo.md.
 
 ## Gouvernance : le chef et les emissaires
 - [DIVERGENCE RP] Pas de conseil deliberatif (contraste avec Gojo et Zenin) : le chef regne, entoure d'EMISSAIRES qui executent sa parole.
 - [DIVERGENCE RP] Garde-fou : les emissaires peuvent decider de se reunir pour RENVERSER le chef s'il ne convient plus a l'esprit du clan.
 - [DIVERGENCE RP] Precedent (Meiji) : sous l'identite de Noritoshi Kamo, Kenjaku, juge indigne, fut contraint au seppuku dans ses appartements, seul, sur decision des emissaires. Kenjaku changea alors de corps et eventra son ancienne enveloppe. (Coherent avec la fiche Kenjaku, qui laissait la fin de ce corps non precisee.) Cf. Personnages/Kenjaku.md.
 - [DIVERGENCE RP] FIN PUBLIQUEMENT FLOUE, ET VOLONTAIREMENT : le clan n'a jamais rendu publique la maniere dont ce Noritoshi a fini. Double motif - le seppuku impose reste aux archives (on n'accorde pas une mort d'honneur au plus abject), et le clan se refuse a calomnier un ancetre dont il a respecte la force (exorciste d'exception, stratege remarquable, porteur du sort du sang pur). Hors du clan, sa fin n'est donc pas etablie.
+- [DIVERGENCE RP] Repas claniques Kamo/Zenin : chaque 29 FEVRIER (une annee sur quatre : 1988, 1992, 1996, 2000, 2004, 2008...), organises par les Hautes Instances de Kyoto. Detail : cf. Factions/Hautes_Instances.md. Lieu de rencontre de Yukiko et des jumeaux Zenin (1992).
 
 ## Iconographie et tenue
 [DIVERGENCE RP] (le canon ne fixe ni kamon ni tenue propre au clan).
 - KAMON : un enso trace au pinceau, rouge sang, trait irregulier ; au centre, une goutte de sang - l'Hemokinesie. Sur fond anthracite.
 - CODE COULEUR du clan : anthracite et rouge sang.
 - TENUE D'ANCIEN (chef, emissaires, ceremonie) : kimono anthracite seme du kamon en rouge eteint, kamon au sein gauche, obi rouge sang noue devant, hakama bordeaux, zori. Chignon a kanzashi.
+- Tenue de princesse (Yukiko, quotidien) : variante sans kamon seme ni kanzashi - cf. Personnages/Yukiko.md.
 
 ## Archives du clan
 [DIVERGENCE RP]
-- Memoire ecrite du clan : genealogies, tradition de la filiation Sutoku (l'onryo des liens, tenu pour heritage documente - cf. Cosmogonie/Trois_Esprits.md et Pedagogie/Fleaux_Histoire_1eAnnee.md, delta clanique) et influence des croisements matrimoniaux sur les sorts. Aucune notion des greffes essaimees ni des architectes.
-- Acces reserve aux HERITIERS DE BRANCHES PRINCIPALES (regle commune aux trois grandes familles) : chez les Kamo, le chef et son heritier designe (la pupille).
+- Memoire ecrite du clan : genealogies, tradition de la filiation Sutoku (l'onryo des liens, tenu pour heritage documente - cf. Cosmogonie/Trois_Esprits.md et Pedagogie/Fleaux_Histoire_1eAnnee.md, delta clanique) et influence des croisements matrimoniaux sur les sorts. Aucune notion des greffes essaimees ni des architectes. La legende fondatrice y est consignee telle que le clan la raconte.
+- Acces reserve aux HERITIERS DE BRANCHES PRINCIPALES (regle commune aux trois grandes familles) : chez les Kamo, le chef, la pupille, et les enfants legitimes du chef (Yukiko : acces des l'origine, jamais retire).
 
 ## Rideaux et ancres fractales (specialite du clan)
 [DIVERGENCE RP]
 - Specialite documentaire de la maison : les rideaux fractals d'ordre 8 et au-dela - terreau technique dont sont issus les sceaux de Kenjaku. Cf. Pedagogie/Fleaux_Histoire_1eAnnee.md (volet Detection) et Pedagogie/Detection_Contention_2eAnnee_S1.md.
 - LE DRAGON, dit "le vampire" : ancre fractale secrete du clan, connue des seules lignees principales et de l'elite. Elle n'est stable que si le tisseur l'alimente par impulsions calees sur le rythme cardiaque, avec 5,2 pourcent d'erreur maximum. L'Hemokinesie fournit ce metronome nativement - d'ou le monopole de fait des Kamo sur cette ancre.
+- RECORD DU CLAN : un Dragon d'ordre 9 tenu 5 minutes - etabli en 1998 par Yukiko, a 12 ans. Le clan garde le flou sur sa prodige et generalise l'exploit a "les meilleurs Kamo" ; c'est cette formule qui circule (cf. Pedagogie/Detection_Contention_2eAnnee_S1.md, Verite vs enseigne). La meilleure tisseuse du clan depuis le Noritoshi Meiji - donc, a l'insu de tous, depuis l'ere Heian.
+
+## Faits d'armes
+[DIVERGENCE RP]
+- 1998, SAKUSHU SHA : fleau de grade special a l'allure vampirique, qui aspirait l'energie occulte au toucher. Traque trois jours, piege et affaibli par Yukiko (12 ans), qui venait de battre le record du Dragon. Un expert du clan, volontairement anonyme et masque, forge a partir du fleau [IMPLICITE] le tanto CHI NO MEIYO, objet maudit offert en recompense a la prodige (cf. Personnages/Yukiko.md ; BIBLE SB7). Beat jouable -> roadmaps Yukiko.
 
 ## Formation interne
 - [DIVERGENCE RP] Les clans forment les leurs en interne, hors du circuit scolaire classique (cf. BIBLE SB1). Comme chez les Zenin, la methode passe par la VIOLENCE INFANTILE ; seuls les Gojo s'en abstiennent.
 
-## Noritoshi Kamo (heritier, ne 2000)
-- Canon : Noritoshi Kamo ; porte la version pure de la manip du sang.
-- [DIVERGENCE RP] Le cul entre deux chaises : sort originel, pur, parfait - mais ne d'une mere qui n'etait pas l'epouse du chef. Illegitime, batard.
+## Noritoshi Kamo (heritier, ne le 5 juin 1997)
+- Canon : Noritoshi Kamo ; porte la version pure de la manip du sang. [DIVERGENCE RP] ne en 1997 (canon : 2000) - entree a Kyoto a 18 ans (promo 2016-2019), conformement a la regle d'entree post-bac.
+- [DIVERGENCE RP] Le cul entre deux chaises : sort originel, pur, parfait - mais ne d'une mere qui n'etait pas l'epouse du chef (Yasashiku, concubine). Illegitime, batard.
 - [DIVERGENCE RP] Affront grave dans le nommage : on l'a appele comme le PIRE exorciste de l'histoire (le Noritoshi Kamo de l'ere Meiji, corps de Kenjaku). Le credo de purete le sacre par son sort et le damne par sa naissance.
-- En 2005 : encore un enfant. Entite active future -> fiche differee (cf. roadmap).
+- [DIVERGENCE RP] Sous la menace d'execution de Noriaki jusqu'a ses 4 ans ; protege des sa naissance par sa demi-soeur Yukiko, qui en fait son protege puis, apres l'eveil du 5 juin 2001, son dieu vivant. Complementaires par construction : lui l'archer et le chasseur, elle la trappeuse et la poseuse de rideaux.
+- En 2005 : 8 ans, Prince Kamo, pupille du chef. Entite active future -> fiche et roadmap.
 
 ## Branches, greffes et lignees essaimees
 [DIVERGENCE RP] sauf ancrages canon signales.
@@ -61,11 +84,14 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 
 ## Place dans le focus
 - Une des deux autres grandes familles face au clan de la protagoniste (Zenin). Territoire : Kyoto, partage avec les Zenin (Tokyo etant surtout Gojo).
-- Casting Kamo majoritairement hors-jeu en 2005 (Noritoshi, Mechamaru et Yuji enfants, Choso dormant, Kenjaku ailleurs / plot) : fiches perso differees, rappelees par roadmap.
+- [DIVERGENCE RP] Clan du SECOND OC jouable : Yukiko (roadmaps paralleles Nisha / Yukiko, chacune PNJ de l'autre).
+- Casting Kamo en 2005 : Yukiko active (Kyoto, promo 2005-2008) ; Noritoshi (8 ans), Mechamaru et Yuji enfants ; Choso dormant ; Kenjaku ailleurs / plot. Fiches enfants differees, rappelees par roadmap.
 
 ## Pointeurs
 - Fondation, manip du sang, Six Yeux essaimes, Peintures Mortes, branche Itadori, Restriction Celeste : cf. Cosmogonie/Trois_Esprits.md.
 - Kenjaku (origine Kamo) et Eien (hote Nanao Kamo) : cf. Personnages/Kenjaku.md, Personnages/Eien.md.
+- Lignee dirigeante en detail : cf. Personnages/Yukiko.md, Personnages/Noritoshi_Kamo.md.
+- Repas claniques : cf. Factions/Hautes_Instances.md. Tournoi : cf. Factions/Tournoi.md.
 - Couche pedagogique (rideaux fractals, ancres, sceaux) : cf. Pedagogie/Detection_Contention_2eAnnee_S1.md et Pedagogie/Detection_Contention_2eAnnee_S2.md.
 
 ---

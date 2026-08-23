@@ -1,6 +1,6 @@
 # _Implications
 
-- version : W27
+- version : W28
 
 Journal de conception (passes en spirale). Document de TRAVAIL : jamais fetche en narration.
 
@@ -35,6 +35,17 @@ Format libre : `<entite/lieu> | <arc ou contexte> | <point a verifier / doute / 
 - Tengen | physique 2005 | CLOS sans resolution (decision worldbuilder, build B16) : on ne le voit pas, apparence non requise. Le tag [INCERTAIN] de Tengen W3 reste en place, sans effet.
 
 - Perso_Tokyo_2018-2021 | ere C | page a RELIVRER quand Yuji et Nobara entrent en scene (chantiers attendant la roadmap ere C).
+
+### Chantier Yukiko (fiche W1 + propagation) - AVANCE, reste roadmaps
+- Pages livrees ce chantier (a reconcilier au Sommaire du prochain BIBLE BUILD) : Personnages/Yukiko W1 (NOUVELLE, +1 page -> 71 indexees), Factions/Clan_Kamo W6, Personnages/Noritoshi_Kamo W6, Factions/Hautes_Instances W5, Pedagogie/Detection_Contention_2eAnnee_S1 W2, Pedagogie/Detection_Contention_2eAnnee_S2 W2, Personnages/Kenjaku W9, Cosmogonie/Trois_Esprits W6, Power_Scaling/Doigts_de_Sukuna W11, Personnages/Nisha W18, Personnages/Naoya W15, Personnages/Ranta W8, Personnages/Shoko W8, Factions/Universite_Kyoto W7, Personnages/Mei_Mei W7, Factions/Tournoi W5, Personnages/Utahime W7.
+- BIBLE B17 a produire : SB4 (Kamo enrichi : legende, nommage, succession, lignee dirigeante, repas), SB5 (entree Yukiko ; Noritoshi maj ne 1997), SB7 (Chi no Meiyo), SB0 (71 pages). SB8 : RIEN a ajouter - le secret Yasashiku est PAS un Tchekhov (decision worldbuilder), savoir d'ironie -> CODEX.
+- Repas claniques : 29 FEVRIER acte (annees bissextiles ; 2000 incluse, regle des 400 ans). Editions a jouer : Roadmap_A0 Nisha (une au moins, probablement 2004) ; roadmaps Yukiko (deux ou trois) ; 29 fev 2008 = SEULE edition dramatique (quelques semaines apres le massacre de Geto fin 2007, un mois avant diplome mars 2008) - placement roadmap a decider, retropropagation aux roadmaps de Nisha.
+- Roadmaps Yukiko A0 (a ecrire, prochain thread ; vie interne de Kyoto 2005-2008, calque sur A1 pour la seule Amicale) : date de la decouverte de la verite sur Fubuki ; ordre 1992 dine/mort de Fubuki ; Nori presente ou cache au dine de 2000 ; 1998 Sakushu Sha (beat jouable) ; 2006 Lucky 7 de Nori ; la partie (go) perdue contre Satoru ; le jour ou Nori bat Yukiko (fin des jeux, service exclusif).
+- Roadmap_A1 A1_3 a AMENDER : Yukiko dans l'equipe de Kyoto (hors jeu par Satoru J1, soignee par Shoko - simple soin) ; composition de l'equipe a refixer ("les Kamo" au pluriel : qui d'autre ?) ; Dragon sorti devant les Six Yeux ou garde secret.
+- Ere B : refus conditionnel de la chaire (2013) -> rattacher B1 (resto mars 2013). Majorite de Nori + refus du titre (5 juin 2015) -> rattacher B2.
+- Ere C : Lisiere - cle de sortie Yukiko, pari de Kenjaku (il gagne ou perd : a trancher au build ere C) ; Yukiko observatrice au fond de la classe de 3e annee en 2018-2019 (facon Ui Ui).
+- En suspens : vues matrimoniales de Noriaki sur sa fille (relation ouverte ou clandestine) ; reponse et rythme d'Utahime (roadmaps) ; TENSION de roadmap (pas un Tchekhov sauf decision) : la condition tacite - pas le moindre signe de jalousie d'Utahime envers Nori ; numero d'ordre de Noriaki comme chef [INCERTAIN, "27e" pose en fiche Yukiko].
+- Note d'intention (extradiegetique) : couple feminin voulu - representation lesbienne absente de JJK (canon : Kirara/Hakari seul couple LGBT). Diegetique : la regle d'amour de Yukiko (fiche, Psychologie).
 
 ## Archive (resolu)
 

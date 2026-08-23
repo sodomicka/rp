@@ -1,6 +1,6 @@
 # Detection et contention - 2e annee - S2 : Sceaux, confinement, grandes barrieres
 
-- version : W1
+- version : W2
 
 Page = fiche de cours (dossier Pedagogie/), volet S2 de la 2e annee. Le volet S1 vit en page propre : Pedagogie/Detection_Contention_2eAnnee_S1.md - il porte toute la theorie (ancres fractales, chiralite, polarite, destructions) que ce semestre applique. Donne le niveau CLASSIQUE en plein, puis les deltas AVANCE CLANIQUE et OMNISCIENT VULGARISE. L'ecart enseigne/verite est cartographie en fin de page. Cadre general : cf. Pedagogie/Resume_Enseignements.md. Au prochain BIBLE BUILD : indexer cette page au Sommaire ; reporter les propagations listees en _Implications.md.
 
@@ -45,7 +45,7 @@ Relais au carre : Satoru tient la 1re annee, pas la 2e - Kusakabe retransmet ce 
 - 2005-2008 : pole inexistant (classique en plein).
 
 ## Verite vs enseigne (carte des ecarts - usage MJ)
-- LA LISIERE DU SUPPLICE : enseignee comme objet-sceau legendaire d'origine inconnue. Verite : rideau ENTREMELE tisse SUR cible - double Levy d'ordre 11 + Gosper d'ordre 9 + Koch d'ordre 23 (cf. les lois du volet S1) - oeuvre de Kenjaku, deux siecles de tissage, utilisable une seule fois. Composition connue du seul couple architecte. Seul un porteur des Six Yeux pourrait en percer l'analyse - encore faudrait-il etre a l'interieur. [DIVERGENCE RP assumee vs canon : creee par Kenjaku - SB7 a mettre a jour.] (cf. Personnages/Kenjaku.md)
+- LA LISIERE DU SUPPLICE : enseignee comme objet-sceau legendaire d'origine inconnue. Verite : rideau ENTREMELE tisse SUR cible - double Levy d'ordre 11 + Gosper d'ordre 9 + Koch d'ordre 23 (cf. les lois du volet S1) - oeuvre de Kenjaku, deux siecles de tissage, utilisable une seule fois. Composition connue du seul couple architecte. Concue pour ne PAS s'ouvrir de l'interieur : un porteur des Six Yeux pourrait en percer l'analyse, il y resterait quand meme. De l'EXTERIEUR, une seule tisseuse vivante peut la defaire sans en connaitre la composition : Yukiko Kamo, la meilleure tisseuse depuis Kenjaku lui-meme, egalee seulement par Satoru (cf. Personnages/Yukiko.md). Kenjaku le sait et la juge trop obsedee par son clan pour intervenir. -> ere C. [DIVERGENCE RP assumee vs canon : creee par Kenjaku - SB7 a mettre a jour.] (cf. Personnages/Kenjaku.md)
 - LES SCEAUX D'ARCHITECTE : le sommet civil de l'art des sceaux (fractals d'ordre 8+, specialite Kamo, cf. volet S1) est le TERREAU TECHNIQUE des travaux de Kenjaku. Le cours enseigne l'ouvrage, jamais l'usage qui en a ete fait. (cf. Personnages/Kenjaku.md)
 - LES BARRIERES DE TENGEN : enseignees en descriptif ("le pilier immortel les maintient"). Verite : Tengen est le quatrieme esprit vengeur, maitre des barrieres au-dela de Kenjaku lui-meme - plafond absolu du savoir, tous poles confondus. (cf. Personnages/Tengen.md)
 - LA QUARANTAINE DES DOIGTS : enseignee comme confinement de reliques d'origine ancienne. Verite : les 20 doigts ont ete divises et crees par le couple architecte dans le cadre du pacte avec Sukuna - le monde garde sous scelles le produit d'une transaction qu'il ignore. (cf. Power_Scaling/Doigts_de_Sukuna.md, Cosmogonie/Trois_Esprits.md)

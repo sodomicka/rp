@@ -1,13 +1,13 @@
 # Ranta Zenin
 
-- version : W7
+- version : W8
 
 Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat = jusqu'au point de depart (2005). Devenir post-2005 -> roadmap.
 
 ## Identite
 - Nom : Ranta Zenin. Canon. Membre du Hei, profil de support.
 - [DIVERGENCE RP] Ne fin 1986 - tout juste plus age que les jumeaux (janvier 1987). Issu d'une branche tertiaire des Zenin, non logee au domaine principal a l'origine.
-- En 2005, integre la promo de Kyoto (universite d'exorcisme), la meme que Naoya : PROMO 2005-2008 (recoupement : Gakuganji le compte parmi ses eleves, et il joue le tournoi de sept 2005). Cf. Factions/Universite_Kyoto.md et fiche Naoya.
+- En 2005, integre la promo de Kyoto (universite d'exorcisme), la meme que Naoya et que Yukiko Kamo (princesse Kamo, cf. Personnages/Yukiko.md) : PROMO 2005-2008 (recoupement : Gakuganji le compte parmi ses eleves, et il joue le tournoi de sept 2005). Cf. Factions/Universite_Kyoto.md et fiche Naoya.
 - [DIVERGENCE RP] dates et parente : cf. Factions/Clan_Zenin.md.
 
 ## Physique

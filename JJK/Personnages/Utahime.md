@@ -1,6 +1,6 @@
 # Utahime Iori
 
-- version : W6
+- version : W7
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -32,6 +32,10 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 - [DIVERGENCE RP] Apres 2008 : Nisha devient prof un an apres Utahime ; elles installent une dynamique complementaire - Utahime la douceur (1ere annee), Nisha la rigueur (2e annee). Nisha finit par trouver sa technique de soutien tres utile.
 - Evolution fine -> roadmap.
 
+## Yukiko Kamo - relation
+- [DIVERGENCE RP] Amorce d'une relation a l'universite (2005-2008, Yukiko en promo 2005-2008, un an derriere elle), en SLOWBURN - deroule entier -> roadmaps Yukiko. Ce que Yukiko voit en elle : kyotoite a vie, consciente de sa place, respectueuse des roles de soutien, docile envers les Hautes Instances - le seul profil compatible avec une devotion qui interdit de quitter Kyoto. Cf. Personnages/Yukiko.md (le second sourire).
+- Ironie en reserve : Nisha la croit rivale aupres de Satoru (cf. ci-dessus) - le jour ou Nisha comprend avec qui est Utahime, le malentendu meurt.
+
 ## Role pedagogique (cycle Kyoto, post-2008)
 - 1ere annee = la douceur, premier maillon du cycle (Utahime douceur 1e, Nisha rigueur 2e, Mei Mei perfectionnement 3e). cf. Factions/Universite_Kyoto.md.
 
@@ -57,6 +61,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 - Diplome 2007 ; carriere ; passage Semi-Grade 1 ; prof de 1ere annee a Kyoto (post-2008) -> roadmap / cf. Factions/Universite_Kyoto.md.
 - Revelation tardive de sa technique en canon (chap. 223) : detail meta, sans incidence sur l'etat 2005 (le sort inne est present des le depart).
 - Evolution du lien avec Nisha (du malentendu-rivalite a la complementarite d'enseignantes) -> roadmap.
+- Lien avec Yukiko Kamo -> roadmaps Yukiko.
 
 ## Pointeurs
 - universite de Kyoto / corps enseignant : cf. Factions/Universite_Kyoto.md.

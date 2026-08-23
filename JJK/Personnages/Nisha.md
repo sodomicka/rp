@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W17
+- version : W18
 
 Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depart (2005) : identite, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datee post-depart) est scinde par volume pour le poids -> cf. section dediee en bas de fiche et Personnages/Nisha_chrono_A.md.
 
@@ -93,6 +93,7 @@ Fiche propre de Naoya : cf. Personnages/Naoya.md. Ici, seul son rapport a Nisha.
 - Maki crache sur le systeme ; Nisha s'en fait la gardienne, car il la couronne.
 - Croyance d'enfance sincere : l'elue, la seule femme a porter un vrai prenom. [DIVERGENCE RP] Convention de nommage Zenin : un vrai prenom = reconnaissance pleine (ni servante ni uterus). Lore neuf.
 - Face a elle-meme : "moi l'exception", au-dessus des faibles.
+- [DIVERGENCE RP] L'unique exception feminine de 2005 : Yukiko Kamo, princesse Kamo et amie d'enfance (repas claniques Kamo/Zenin, depuis 1992). La seule femme que Nisha voit comme consciente de sa place - elles s'entendent a merveille. La louve et la vipere : Nisha arrogante, directe, sans faux-semblants ; Yukiko politesse, faux sourires, franchise enrobee. Cf. Personnages/Yukiko.md.
 - Intraitable sur la ponctualite et la rigueur : un retard ou un travail bacle, c'est un mepris a ses yeux (ce qui lui fait apprecier les rares qui partagent cette exigence - cf. Nanami, Ijichi en A2).
 - Accepte d'etre monnaie d'echange matrimonial (femme = ressource pour le clan).
 - Mentalite type Maki/Yuta (canon) : l'homme qui la meritera est celui capable de la vaincre. Gojo la depasse sur quelques aspects.
@@ -122,6 +123,7 @@ Fiche propre de Naoya : cf. Personnages/Naoya.md. Ici, seul son rapport a Nisha.
 | 30 jan 1987 | Naissance des jumeaux. Naobito decu d'avoir une fille ; la planifie comme servante de Naoya. |
 | 30 jan 1991 | Eien se revele a Nisha (4 ans), offre la Chronokinesie. Naobito envisage de la renier ou de l'executer. Naoya la defend. |
 | aout 1991 | Eveil des innes : Naoya la Projection, Nisha la Chronostase. Eien commence a craindre pour sa suprematie. |
+| 29 fev 1992 | Repas clanique Kamo/Zenin (Hautes Instances de Kyoto, chaque 29 fevrier) : les jumeaux (5 ans) rencontrent Yukiko Kamo (5 ans). Nisha, encore en education servante, assise juste a cote de Naoya, qui n'a jamais tolere qu'on la mette ailleurs. Editions suivantes (1996, 2000, 2004) : une au moins -> Roadmap_A0. |
 | 1995 | Nisha etend son territoire (Sphere du Temps Infini, 8 ans). Fin du statut servile, devient favorite de Naobito. |
 | 1997 | Putsch d'Eien (10 ans), echoue. Nisha le sent, le dit a son pere. Faite Grade Special 1. |
 | 2000 | Statut de prodige (13 ans) : acces officiel aux archives du clan, jusque-la interdites aux femmes (elle s'y infiltrait). La meme annee, elle PROUVE au conseil (Naobito, Ogi, Jinichi) que le parasite ne sera jamais un probleme - dossier clos, le clan n'y reviendra pas. |

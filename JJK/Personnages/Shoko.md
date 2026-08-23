@@ -1,6 +1,6 @@
 # Shoko Ieiri
 
-- version : W7
+- version : W8
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -52,7 +52,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | avr 2005 -> 2008 | Chantier perso de Yaga, double : le DEBIT de soin sous pression et le triage (force), SE PLACER (faiblesse) - soigner un pantin blesse pendant que d'autres la harcelent, choisir ou se mettre, quand bouger, quand cesser de soigner pour survivre (cf. Pedagogie/Perso_Tokyo_2005-2008.md) | chantier perso : la medecin apprend a se placer |
-| sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) : non-combattante ; soigne Utahime apres son elimination par Nisha | demonstration de son utilite (5 mois apres l'insulte de Nisha) |
+| sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) : non-combattante ; soigne Utahime apres son elimination par Nisha, et Yukiko Kamo apres sa mise hors jeu par Satoru au J1 - simple soin (Roadmap_A1 A1_3 a amender ; cf. Personnages/Yukiko.md) | demonstration de son utilite (5 mois apres l'insulte de Nisha) |
 | ~1 jan 2006 | Organise le nouvel an des quatre ; couvre la declaration de Satoru | -- |
 | debut 2018 (B3) | Participe a la RELEVE de Satoru, effondre apres avoir tue Geto de ses propres mains : aux cotes de la famille, la medecin de la promo soigne ce que le RCT ne repare pas | pilier de la releve ; des quatre prodiges, ils restent trois |
 

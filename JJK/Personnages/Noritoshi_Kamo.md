@@ -1,15 +1,17 @@
 # Noritoshi Kamo
 
-- version : W5
+- version : W6
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
 [HOMONYME - A NE JAMAIS CONFONDRE] Le Noritoshi Kamo de cette fiche est l'heritier MODERNE du clan. Il porte le meme nom que le "Noritoshi Kamo" de l'ere Meiji, qui etait en realite un corps de Kenjaku (cf. Kenjaku.md). Personne distincte, aucun lien avec le parasite ; l'homonymie est canon et assumee.
 
 ## Identite
-- Nom : Noritoshi Kamo. Canon. Heritier moderne du clan Kamo.
+- Nom : Noritoshi Kamo. Canon. Heritier moderne du clan Kamo. [DIVERGENCE RP] Racine "nori" des garcons de lignee principale (cf. Factions/Clan_Kamo.md, Legende fondatrice et nommage).
+- Naissance : 5 juin 1997 [DIVERGENCE RP vs canon : 2000]. Jour canon conserve ; l'annee suit la regle d'entree a ~18 ans (promo 2016-2019).
+- Fils de Noriaki Kamo (Patriarche) et de Yasashiku, concubine, profane pure. Demi-frere cadet de Yukiko Kamo (nee le 14 juin 1986), seule enfant legitime.
+- Titre : PRINCE KAMO (enfant du Patriarche en exercice), et l'ELU du clan (Hemokinesie pure).
 - Promo 2016-2019 : 2e annee en 2017-2018 (sous Nisha). Capitaine de l'equipe de Kyoto. cf. Universite_Kyoto.
-- Porteur de l'Hemokinesie PURE (le sort elu du clan).
 
 ## Physique
 - Canon : grand, mince, port aristocratique. Longs cheveux sombres noues en catogan, frange droite. Traits fins et graves. Tenue soignee ; uniforme de Kyoto.
@@ -18,26 +20,39 @@ Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e
 ## Sort et style de combat
 - Sort inne : Hemokinesie (manipulation du sang), don ancestral des Kamo (lignee Sutoku/liens). Version PURE, inalteree.
 - Techniques : Flowing Red Scale (le controle du flux sanguin booste ses capacites physiques pour un temps donne) ; Piercing Blood (jet de sang propulse, percant) ; controle fin et convergence de son propre sang.
-- Style : combattant complet et discipline, le sang comme arme polyvalente (offensive a distance + boost physique). Semi-Grade 1.
+- Style : combattant complet et discipline, le sang comme arme polyvalente (offensive a distance + boost physique). Semi-Grade 1. L'archer et le chasseur.
+- [DIVERGENCE RP] LE CARQUOIS : sa demi-soeur Yukiko peut changer la signature de son propre sang et le lui ASSIGNER - son energie occulte devient du sang manipulable par lui. Avec elle, il ne tire jamais a vide. Lui chasse, elle piege (cf. Personnages/Yukiko.md).
 
 ## Psychologie
 - Rigide, grave, hyper-discipline. Sens aigu du devoir et de la hierarchie.
 - [DIVERGENCE RP] Double fardeau : ELU par son sort pur, mais BATARD par sa naissance (ne d'une mere qui n'etait pas l'epouse du chef). Le credo "la purete n'a pas de prix" le sacre par le sang et le damne par l'illegitimite.
 - [DIVERGENCE RP] Il porte le nom du PIRE exorciste de l'histoire du clan (le felon Meiji) - sans savoir, comme TOUT LE MONDE, que ce felon etait en fait Kenjaku. Le secret n'a jamais ete perce : c'est precisement pour cela que l'honneur des Kamo reste si entache. Noritoshi vit donc avec la honte d'un ancetre maudit qu'il croit etre des siens, et la rage de laver ce nom.
+- [DIVERGENCE RP] Exigence d'accomplissement : a sa majorite (5 juin 2015), le titre lui revient de droit ; il demande LUI-MEME a etre accompli avant de l'accepter, et reste Prince Kamo durant tout son cursus. "Parfait en tout" n'est pas une pression qu'il subit : c'est la sienne.
 
 ## Statut dans le clan
-- [DIVERGENCE RP] ELU au sort pur -> PUPILLE du chef de clan, forme pour heriter a sa majorite. En 2017-2018, heritier designe en passe d'heriter ; pas encore chef. L'heritier doit etre "parfait en tout" (maitrise, manieres, opinions, obeissance, decision).
+- [DIVERGENCE RP] Prince Kamo (enfant du Patriarche). ELU au sort pur depuis le 5 juin 2001 -> PUPILLE du chef de clan, forme pour heriter. Majeur depuis le 5 juin 2015 ; heritage differe a sa propre demande. En 2017-2018 : heritier designe, pas encore chef, Noriaki toujours Patriarche. L'heritier doit etre "parfait en tout" (maitrise, manieres, opinions, obeissance, decision).
 - Gouvernance Kamo : chef + emissaires (pas de conseil), les emissaires pouvant se reunir pour renverser un chef juge indigne (precedent Meiji). cf. Clan_Kamo.md.
 
 ## Relations
-Fiches propres : cf. Personnages/Nisha.md, Kenjaku.md ; Factions/Clan_Kamo.md. Ici, seul le rapport a Noritoshi.
+Fiches propres : cf. Personnages/Yukiko.md, Nisha.md, Kenjaku.md ; Factions/Clan_Kamo.md. Ici, seul le rapport a Noritoshi.
 
 ### Clan Kamo
 - Heritier designe, pupille du chef. Sous l'exigence de perfection absolue propre aux Kamo.
+- [DIVERGENCE RP] Noriaki, son pere : pret a l'executer s'il n'avait pas eu le sang pur a 4 ans (caprice de patriarche - aucun batard ne volerait le trone a la fille legitime). L'eveil du 5 juin 2001 a tranche.
+- [DIVERGENCE RP] Yasashiku, sa mere : concubine, profane pure ; "Douceur" est son nom de concubine. Objet d'une rumeur que le clan n'a jamais etablie (la mort de Fubuki, l'epouse, en 1992). Ce que Noritoshi en sait : la rumeur, rien de plus. Cf. Factions/Clan_Kamo.md (Lignee dirigeante) - savoir d'ironie -> CODEX.
+
+### Yukiko Kamo - la gardienne
+- [DIVERGENCE RP] Demi-soeur ainee de onze ans. Sa gardienne des sa naissance, contre leur pere ; detronee de l'heritage par son eveil et liberee par lui : elle le tient pour un dieu vivant, le liberateur, le plus grand Patriarche depuis la fondation, et se place loin derriere. Sa trappeuse quand il chasse, son carquois quand il tire, sa conseillere, son "assistante manager premium" (le mot est d'elle).
+- Chaque nuit qu'elle passe au domaine, elle trace Lucky 7 autour de lui (Koch 7 + Gosper 7 entremeles) ; absente, elle mandate un membre du clan, qui pose un multicouche - moins bon.
+- Elle ne le laisse gagner a aucun jeu (go, shogi, echecs). Le jour ou il la bat -> roadmap Yukiko, hors de cette fiche.
+- Le seul secret qu'elle lui cache : la verite sur la mort de Fubuki (cf. Factions/Clan_Kamo.md).
+- [DIVERGENCE RP] VU DE LUI : aucun conflit. Petit, il l'adore par-dessus tout, et comprend lentement ce qu'il represente pour elle. Ca ne se mue jamais en rejet : il comprend que sa soeur aime SINCEREMENT lui etre devouee, alors il lui offre des moments qui ne sont qu'a eux deux. Il sait qu'elle est largement sous-evaluee, et sait que c'est de la ruse - elle ne lui a jamais cache qu'elle vit pour le servir, et que cela passe par toute la tromperie dont le clan Kamo est capable.
+- [DIVERGENCE RP] LE DESSIN : petit, il s'interesse au dessin a l'encre pour faire comme elle - un passe-temps commun. Elle adore qu'il prenne ce genre d'initiative : la preuve qu'il sera un bon Patriarche. Ironie : c'est ce qui le predispose aux cours de rideaux. Enfant, des dragons asiatiques grossiers a l'encre ; plus grand, des dragons fractals bien plus fins. Des ses 9 ans (2006), il sait tracer Lucky 7 lui-meme - par apprentissage par coeur, pas par talent pur, mais c'est deja un exploit. [IMPLICITE] Des lors, les nuits sans elle, il peut le poser lui-meme.
 
 ### Nisha Zenin - professeure et mentor d'honneur
 - [DIVERGENCE RP] Prof de sa 2e annee a Kyoto (2017-2018). Elle lui transmet SA vision de l'honneur et le forme a etre un heritier digne.
 - Lecon-cle : meme s'il devient chef, meme sous la menace d'une destitution par les emissaires, il n'est PAS condamne a marcher dans les pas de ses ancetres - tant qu'il redore le nom des Kamo, il peut tracer sa propre voie. Renversement savoureux : la Zenin qui a transcende son clan par la force apprend au Kamo a s'affranchir du sien par l'honneur.
+- [DIVERGENCE RP] Nisha connait Yukiko depuis 1992 (repas claniques Kamo/Zenin) : l'eleve est le frere de son amie d'enfance.
 
 ### Trio Kyoto (Todo, Momo)
 - Camarades de 2e annee. Noritoshi, le capitaine et le cadre serieux du groupe.
@@ -48,8 +63,11 @@ Fiches propres : cf. Personnages/Nisha.md, Kenjaku.md ; Factions/Clan_Kamo.md. I
 ## Chronologie noyau
 | Date/Ere | Jalon |
 |---|---|
-| (annee non fixee) | Naissance. Sort pur (Hemokinesie inalteree), mais illegitime. Nomme comme le felon Meiji. |
-| enfance | Devient pupille du chef de clan (elu) ; formation d'heritier. |
+| 5 juin 1997 | Naissance. Batard de concubine (Yasashiku). Nomme comme le felon Meiji. Sous la menace d'execution de Noriaki jusqu'a ses 4 ans ; Yukiko (10 ans) s'en fait la gardienne. |
+| 5 juin 2001 (4 ans) | Eveil de l'Hemokinesie PURE. Elu -> pupille du chef ; Yukiko detronee de l'heritage. |
+| enfance | Formation d'heritier ; Lucky 7 de Yukiko chaque nuit ; dessin a l'encre pour faire comme elle (dragons asiatiques grossiers). |
+| 2006 (9 ans) | Sait tracer Lucky 7 lui-meme, par coeur. Les dragons a l'encre deviennent des dragons fractals. (Jalon fixe par decision ; roadmap Yukiko a ecrire.) |
+| 5 juin 2015 (18 ans) | Majeur. Le titre lui revient ; il demande a etre accompli avant de l'accepter. Reste Prince. (Ere B ; rattachement d'arc : cf. _Implications.) |
 | 2016 | Entre a l'universite de Kyoto (promo 2016-2019). |
 
 ## Trajectoire datee - ere B (entree B3 ; alimentee a chaud arc par arc)
@@ -63,8 +81,8 @@ Fiches propres : cf. Personnages/Nisha.md, Kenjaku.md ; Factions/Clan_Kamo.md. I
 - Heritage effectif et devenir post-B3 (3e annee, Amicale, ere C) -> roadmaps ere C. Non enonce ici.
 
 ## Pointeurs
-- Clan, succession, secret Kenjaku : cf. Factions/Clan_Kamo.md, Personnages/Kenjaku.md.
-- Professeure : cf. Personnages/Nisha.md. Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
+- Clan, succession, lignee dirigeante, secret Kenjaku : cf. Factions/Clan_Kamo.md, Personnages/Kenjaku.md.
+- Demi-soeur : cf. Personnages/Yukiko.md. Professeure : cf. Personnages/Nisha.md. Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
 - Universite et promo : cf. Factions/Universite_Kyoto.md.
 
 ---

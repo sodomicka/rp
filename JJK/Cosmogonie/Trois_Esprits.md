@@ -1,6 +1,6 @@
 # Trois Esprits Vengeurs
 
-- version : W5
+- version : W6
 
 Page = cosmogonie fondatrice du RP (divergence racine). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB1.
 
@@ -28,7 +28,8 @@ Page = cosmogonie fondatrice du RP (divergence racine). Faits canon non balises 
 - [DIVERGENCE RP] Greffe : le couple croise les Zenin avec un clan issu des Sugawara, porteur du sort inne de la reserve de l'ombre (Dix Ombres). Mute, renferme des shikigami scelles par des Zenin surpuissants (Heian a Meiji), dont Mahoraga. Plus personne ne saura le dompter ensuite. (Canon : Dix Ombres = sort herite des Zenin ; Mahoraga, shikigami jamais dompte.)
 
 ## Sutoku - esprit des liens (clan Kamo)
-- [DIVERGENCE RP] Don : la manipulation du sang. Les Sutoku en font un credo de purete et portent la version pure du sort jusqu'a Noritoshi Kamo. (Canon : manip du sang = technique Kamo ; Noritoshi Kamo ne en 2000.)
+- [DIVERGENCE RP] Don : la manipulation du sang. Les Sutoku en font un credo de purete et portent la version pure du sort jusqu'a Noritoshi Kamo. (Canon : manip du sang = technique Kamo ; Noritoshi Kamo ne en 2000 - [DIVERGENCE RP] 1997 ici, cf. Personnages/Noritoshi_Kamo.md.)
+- [DIVERGENCE RP] DE SUTOKU A KAMO : le fondateur reel est un Sutoku, beni seul (cf. Origine commune) ; c'est le temps qui a fait des Kamo une lignee pure. A l'ere Heian, Kamo no Tadayuki et Kamo no Yasunori - pere et fils, deux porteurs purs (noms de deux onmyoji reels du Xe siecle) - refondent la lignee sous le nom Kamo. La legende fondatrice du clan (le couple beni ensemble, entre-tue pour etre chacun seul parent du sang pur) est une reecriture destinee a justifier le credo ; aucune archive ne porte la verite. Detail et nommage yuki/nori : cf. Factions/Clan_Kamo.md.
 - [DIVERGENCE RP] Kenjaku est issu de ce clan a l'origine : de la, sa maitrise des sceaux et le lien eternel developpe par parasitisme (transfert de cerveau).
 - [DIVERGENCE RP] Le couple essaime depuis ce clan une lignee mineure porteuse des Six Yeux, greffee ensuite sur les Gojo.
 - [DIVERGENCE RP] Experiences Meiji : les Peintures Mortes sont concues par Kenjaku-dans-Noritoshi. Le foetus de Choso est concu avec Eien-dans-Nanao (hote Kamo d'Eien a l'ere Meiji). (Canon : Peintures Mortes creees par Kenjaku dans le corps de Noritoshi Kamo ; Choso en est issu.)

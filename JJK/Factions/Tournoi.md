@@ -1,6 +1,6 @@
 # Tournoi des Universites Jumelees (l'Amicale de Tokyo/Kyoto)
 
-- version : W4
+- version : W5
 
 Page = institution inter-universites. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4.
 
@@ -16,7 +16,7 @@ Page = institution inter-universites. Faits canon non balises (niveau etabli) ; 
 
 ## Etat au point de depart (2005)
 - L'echange se tient durant la scolarite de la generation ainee (2005-2008). Editions precises et enjeux narratifs -> roadmap.
-- [DIVERGENCE RP] Premiere edition JOUEE de la saga : 2005, hote Kyoto (hote en tant que vainqueur de l'edition precedente, hors-champ - l'institution est anterieure au RP). Detail (affiches, deroule, resultat) -> Roadmap A1 (etape A1_3). Kyoto remporte cette edition 2005 (Jour 1 decisif) et heberge donc l'edition 2006.
+- [DIVERGENCE RP] Premiere edition JOUEE de la saga : 2005, hote Kyoto (hote en tant que vainqueur de l'edition precedente, hors-champ - l'institution est anterieure au RP). Detail (affiches, deroule, resultat) -> Roadmap A1 (etape A1_3). Kyoto remporte cette edition 2005 (Jour 1 decisif) et heberge donc l'edition 2006. [DIVERGENCE RP] Yukiko Kamo (promo 2005-2008) dans l'equipe de Kyoto : mise hors jeu par Satoru au J1, soignee par Shoko, absente du J2 sur blessure - A1_3 a amender (composition de l'equipe de Kyoto a refixer ; cf. Personnages/Yukiko.md).
 - [DIVERGENCE RP] Editions 2006 et 2007 NON TENUES : 2006 (Kyoto hote, vainqueur 2005) - Kyoto refuse de jouer ; 2007 - annulee (contexte trop instable). Motifs et detail -> Roadmap A2.
 
 ## Place dans le focus

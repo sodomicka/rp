@@ -1,6 +1,6 @@
 # Kenjaku
 
-- version : W8
+- version : W9
 
 Canon JJK + couche RP (origine Kamo, couple avec Eien). Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -8,6 +8,7 @@ Canon JJK + couche RP (origine Kamo, couple avec Eien). Fiche noyau (atemporel) 
 - Exorciste maudit millenaire (plus de 1000 ans). Conscience stable sous d'innombrables identites.
 - Sous l'identite de Noritoshi Kamo (ere Meiji), reputation du pire exorciste de l'histoire : experiences sur des humains si vils que les archives en furent detruites.
 - [DIVERGENCE RP] Issu des Kamo a l'origine : de la, sa maitrise des sceaux et le parasitisme qu'il en a developpe.
+- [DIVERGENCE RP] DES YEUX PARTOUT : paranoiaque absolu, il tient mille points sur son radar sans en detailler le reseau. Parmi eux, Yukiko Kamo - depuis sa naissance (1986). Il sait ce qu'elle vaut (la meilleure tisseuse depuis lui-meme) et la juge trop obsedee par son clan pour intervenir. Cf. Personnages/Yukiko.md.
 
 ## Apparence : la forme vraie (en for interieur)
 Dans le monde, Kenjaku n'a d'autre apparence que celle de son vaisseau du moment (cicatrice au front, cf. ci-dessous). Sa forme VRAIE n'apparait que lorsqu'il se projette dans un for interieur.
@@ -36,6 +37,7 @@ Dans le monde, Kenjaku n'a d'autre apparence que celle de son vaisseau du moment
 - ELLE EST DE SA MAIN. Deux siecles de tissage pour un objet a USAGE UNIQUE : un rideau ENTREMELE, tisse pour se refermer sur une cible vivante et la sceller.
 - Composition : double Levy d'ordre 11, Gosper d'ordre 9, Koch d'ordre 23. Personne au monde ne la connait hors du couple architecte - les rideaux fractals d'ordre 8 et au-dela sont deja la specialite documentaire des Kamo, et il est alle bien au-dela. Cf. Factions/Clan_Kamo.md, Pedagogie/Detection_Contention_2eAnnee_S1.md.
 - Destination connue du RP : le sceau de Satoru. Le "comment" y mener sa cible est ce qu'il ARRACHE a Nisha en 2015 (cf. Trajectoire datee).
+- LA FAILLE QU'IL CONNAIT : la Lisiere est concue pour ne PAS s'ouvrir de l'interieur - meme un porteur des Six Yeux, s'il en percait l'analyse, y resterait. De l'EXTERIEUR, une seule tisseuse vivante peut la defaire sans en connaitre la composition : Yukiko Kamo. Il le sait, et parie sur son obsession du clan. -> ere C (cf. Pedagogie/Detection_Contention_2eAnnee_S2.md).
 
 ## Role cosmogonique (avec Eien)
 - [DIVERGENCE RP] Co-architecte des trois familles : forge des techniques, selection du sang, infiltration des clans. Detail : cf. Cosmogonie/Trois_Esprits.md.
@@ -53,7 +55,8 @@ Dans le monde, Kenjaku n'a d'autre apparence que celle de son vaisseau du moment
 
 ## Notes de frontiere (hors de cette fiche)
 - Evenements specifiques au RP (sceau de Satoru, denouement, mort de Kenjaku) : posterieurs au point de depart -> roadmap (Passe 2), puis Parties.
-- Continuite vers le futur culte qu'il reprendra une fois le corps de Geto investi : non datee a ce stade -> roadmap. (L'operation de 2006 via le Culte Astral, jadis annoncee ici, est desormais portee en Trajectoire datee.)
+- Continuite vers le futur culte qu'il reprendra une fois le corps de Geto investi : non datee a ce stade -> roadmap.
+- Yukiko face a la Lisiere (le pari perdu ou gagne) : ere C -> build ere C, cf. _Implications. (L'operation de 2006 via le Culte Astral, jadis annoncee ici, est desormais portee en Trajectoire datee.)
 
 ---
 

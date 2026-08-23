@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Power-scaling
 
-- version : W10
+- version : W11
 
 ## Unite
 - Unite de puissance de l'univers = le doigt de Sukuna.
@@ -73,6 +73,7 @@ Note : Grade Special 1 (rang elite des grandes familles, hors universite d'exorc
 |---|---|---|---|
 | Miwa (2017-2018) | 3 | 5.48 | [DIVERGENCE RP] eleve Kyoto (promo 2017-2020), sabre |
 | Utahime (2005) | 4 | 6.24 | [DIVERGENCE RP] Grade 2, lecture soutien, hors-axe combat |
+| Yukiko Kamo (2005, ANNONCE) | 4 | 6.24 | [DIVERGENCE RP] Grade 2 officiel, par RUSE : elle se devalue. Valeur reelle plus bas dans la table |
 | Momo (2017-2018) | 4 | 6.24 | [DIVERGENCE RP] eleve de Nisha (promo 2016-2019), soutien aerien (balai) |
 | Kirara (2017-2018) | 4 | 6.24 | [DIVERGENCE RP] eleve Tokyo (promo 2016-2019), soutien / controle (Love Rendezvous) |
 | Soldats du Hei (Ranta, Chojuro, Nobuaki) | ~5 | ~7.44 | [DIVERGENCE RP] Semi-Grade 1, plancher du Hei |
@@ -94,6 +95,7 @@ Note : Grade Special 1 (rang elite des grandes familles, hors universite d'exorc
 | Gojo (2005, pre-Toji) | 12 | 31.30 | -> 14 en 2006 puis 23 a l'eveil ; cf. Courbes A2 |
 | Naobito | 12 | 31.30 | [DIVERGENCE RP] patriarche, Grade Special 1 |
 | Geto (2005) | 12 | 31.30 | -> 14 (2006), 15 (2007, defection) ; cf. Courbes A2 |
+| Yukiko Kamo (2005, REEL) | 12 | 31.30 | [DIVERGENCE RP] puissance CONDITIONNELLE (piege en place, Chi no Meiyo en pont) ; niveau Satoru / Geto pre-eveil, sous Nisha ; 4 doigts annonces, Grade 2 par ruse ; cf. Personnages/Yukiko.md |
 | Yuta (fin JJK0, 2017) | 12 | 31.30 | [DIVERGENCE RP] avec Rika ; instable et bas a l'arrivee -> 15 (51.35) a Shibuya (ere C) |
 | Jogo | 13 | 37.26 | canon : prend Naobito de vitesse, one-shot a Shibuya |
 | Nisha (2005) | 13 | 37.26 | [DIVERGENCE RP] n1 mondiale ; -> courbe A2 jusqu'a 18 ; cf. Courbes A2 |
@@ -182,6 +184,7 @@ Note : en DUO, des combinaisons depassent 23 (Maki+Mai, Satoru+Nisha a apogee ; 
 - Reperes Nisha, Naobito, Naoya, Jinichi, Ogi, soldats du Hei : [DIVERGENCE RP] (OC ou lecture worldbuilder).
 - Courbes A2 (Nisha, Gojo, Geto, Naoya) : [DIVERGENCE RP], cadence de progression fournie par le worldbuilder.
 - Reperes Shoko, Yaga, Gakuganji, Mei Mei, Utahime : [DIVERGENCE RP], cales sur leurs fiches noyau. Mei Mei et Utahime evoluent post-2008 (Mei Mei 5 -> 7 ; Utahime 4 -> 5). Shoko et Utahime se lisent en soutien / soin, hors-axe combat.
+- Yukiko Kamo : [DIVERGENCE RP], double lecture fournie par le worldbuilder - 12 doigts reels a 18 ans, conditionnels (la trappeuse vaut son piege), 4 annonces. Rappel : l'unite est extradiegetique ; ce qui est diegetique, c'est le Grade 2 qu'elle laisse croire.
 - Casting B3 (Yorozu, Todo, Noritoshi, Momo, Miwa, Mechamaru, Toge, Yuta, Hakari, Kirara) : [DIVERGENCE RP], scalings fournis par le worldbuilder (session B3). Arata Nitta hors-axe (exorciste non-combattant a sort inne, PAS assistant manager).
 - Nanami adulte : 8 doigts (Grade 1). [DIVERGENCE RP] fixe par le worldbuilder - cale sur sa resistance canon face a Mahito et sur le record 4x Rayon Noir. Nanami etudiant (A2) reste a ~3-4 doigts, Grade 2.
 - Yuki Tsukumo, assistant managers : [DIVERGENCE RP], lecture worldbuilder.
