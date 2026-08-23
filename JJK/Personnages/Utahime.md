@@ -1,6 +1,6 @@
 # Utahime Iori
 
-- version : W7
+- version : W8
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -15,7 +15,7 @@ Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non bali
 ## Sorts
 Un exorciste = un sort inne en regle generale (canon).
 
-### Solo Forbidden Area (Zone Interdite Solo) - sort inne
+### Zone Interdite Individuelle (canon : Solo Forbidden Area) - sort inne
 - Canon (revele tardivement, chap. 223, mais sort inne present depuis toujours) : amplifie le debit d'energie occulte de n'importe quel exorciste a sa portee, elle-meme incluse. Active par un rituel de danse.
 - Pur soutien : elle decuple les autres, n'est pas une combattante directe.
 
@@ -28,12 +28,14 @@ Un exorciste = un sort inne en regle generale (canon).
 
 ## Nisha - relation
 Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a Nisha.
-- [DIVERGENCE RP] Avant 2008 (universite) : Nisha la prend pour une rivale aupres de Satoru - alors qu'Utahime et lui ne font que s'amuser de la situation (taquineries, rien de plus). Malentendu a sens unique, cote Nisha.
+- [DIVERGENCE RP] Avant 2008 (universite) : Nisha la prend pour une rivale aupres de Satoru - alors qu'Utahime et lui ne font que s'amuser de la situation (taquineries, rien de plus). Malentendu a sens unique, cote Nisha, NE a l'Amicale de sept 2005 (Nisha les voit se taquiner avant l'epreuve et ne le supporte pas) et entretenu sans le savoir par le naturel joueur d'Utahime. Il tient par l'aveuglement de Nisha - qui ignore qu'elle pietine le terrain de sa "cousine" -, pas par un secret : la relation avec Yukiko n'est ni cachee ni criee.
 - [DIVERGENCE RP] Apres 2008 : Nisha devient prof un an apres Utahime ; elles installent une dynamique complementaire - Utahime la douceur (1ere annee), Nisha la rigueur (2e annee). Nisha finit par trouver sa technique de soutien tres utile.
 - Evolution fine -> roadmap.
 
 ## Yukiko Kamo - relation
 - [DIVERGENCE RP] Amorce d'une relation a l'universite (2005-2008, Yukiko en promo 2005-2008, un an derriere elle), en SLOWBURN - deroule entier -> roadmaps Yukiko. Ce que Yukiko voit en elle : kyotoite a vie, consciente de sa place, respectueuse des roles de soutien, docile envers les Hautes Instances - le seul profil compatible avec une devotion qui interdit de quitter Kyoto. Cf. Personnages/Yukiko.md (le second sourire).
+- [DIVERGENCE RP] Ce qu'Utahime commence a y trouver : elle est la seule personne avec qui "Yuki" soit SINCERE - c'est par la que l'amour prend. (Vu de Yukiko : la fenetre sur la normalite contre la fenetre sur le clan - cf. Personnages/Yukiko.md, moteur de procuration.)
+- FENETRE STRUCTURELLE : cohabitation quotidienne de campus limitee a avr 2005 - mars 2006 (Utahime passe en 3e annee, purement pratique, des avr 2006) ; l'amorce se joue la, la distance des missions ensuite.
 - Ironie en reserve : Nisha la croit rivale aupres de Satoru (cf. ci-dessus) - le jour ou Nisha comprend avec qui est Utahime, le malentendu meurt.
 
 ## Role pedagogique (cycle Kyoto, post-2008)
@@ -52,7 +54,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) J1 : eliminee par Nisha (soignee par Shoko) ; J2 : forcee d'entrer (desistement de Ranta), perd vs Geto | origine du malentendu-rivalite cote Nisha (vue charmant Satoru) |
+| sept 2005 | Tournoi des Universites Jumelees (hote Kyoto). Avant l'epreuve : taquineries avec Satoru, sous les yeux de Nisha. J1 : DEMONTEE par Nisha, parfum de jalousie (soignee par Shoko) ; J2 : se desiste avec Ranta (supports face a des prodiges) - et Yukiko la venge en battant Nisha en duel | prise entre deux feux : demontee par une louve jalouse, vengee par la vipere ; origine du malentendu-rivalite cote Nisha |
 | mars 2013 (B1) | Resto avec Nisha et Mei Mei : a deux, elles convainquent Mei Mei de prendre la 3e annee a Kyoto ; le cycle a trois maillons (Utahime 1e, Nisha 2e, Mei Mei 3e) est enfin complet | -- |
 | avr 2017 (B3) | LA RELEVE : premiere vraie classe de l'ere - 1re annee 2017-2018 : Mai Zenin, Kasumi Miwa, Kokichi Muta (Mechamaru), promo 2017-2020 | classes pleines a nouveau |
 | 24 dec 2017 (B3_4) | Nuit des Cent Fleaux : garde les 1res annees en securite a l'universite pendant que Nisha, le clan Zenin et Gakuganji tiennent la vieille ville | rempart des cadets ; aucun mort de l'universite |

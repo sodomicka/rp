@@ -1,6 +1,6 @@
 # Clan Kamo
 
-- version : W6
+- version : W7
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 -> roadmap, hors de cette page neutre.
 
@@ -19,24 +19,32 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 
 ## Le sort elu et la succession
 - [DIVERGENCE RP] Le pouvoir est hereditaire. A la naissance d'un ELU (sort inne pur), celui-ci devient la PUPILLE du chef de clan, qui le forme et lui cedera le pouvoir a ses 18 ans. L'heritier doit etre parfait en tout : maitrise, manieres, opinions, obeissance, prise de decision. Exigence sans equivalent chez les deux autres familles.
-- [DIVERGENCE RP] A DEFAUT D'ELU : herite l'enfant legitime du chef dont le sort est le plus proche du pur, SANS DISTINCTION DE SEXE - les Kamo ne font pas les fines bouches, seule la purete compte. A defaut de tout sort du sang : le premier fils.
+- [DIVERGENCE RP] INDIFFERENCE RADICALE : genre, ethnie, religion, degre de la branche - du bruit. Seul critere : le sang pur ; qui le porte dirige. A DEFAUT D'ELU : herite l'enfant legitime du chef dont le sort est le plus proche du pur, sans distinction d'aucune sorte. A defaut de tout sort du sang, les conventions banales comblent le vide (le premier fils) - c'est ainsi qu'un chef sans sort pur devient possible (Noriaki).
 - [DIVERGENCE RP] PRINCE / PRINCESSE KAMO : titre des enfants du Patriarche en exercice, quel que soit leur sort. Un sort mute ne donne pas le trone ; il ne retire pas le titre tant que le pere regne.
 - [DIVERGENCE RP] BRANCHE SECONDAIRE : le titre suit le TRONE, pas le sort. Une lignee passe en branche secondaire quand le trone lui echappe - un elu ne d'un AUTRE Kamo devient pupille puis chef, et les enfants de l'ancien chef perdent le titre ("La purete n'a pas de prix"). Cas d'ecole : si Noritoshi etait ne d'un autre Kamo, Yukiko et sa famille seraient passees en branche secondaire ; il est ne du Patriarche, elle reste princesse - detronee de l'HERITAGE (1990-2001), jamais du TITRE (cf. Personnages/Yukiko.md).
+- [DIVERGENCE RP] REGLE DES BATARDS (lignee dirigeante seulement) : un batard du Patriarche qui n'eveille pas le sang PUR est execute A L'EVEIL de son sort inne - le sort lui-meme rend le verdict, et le trone de l'enfant legitime est protege. Cas unique connu : Noritoshi (1997-2001), verdict SUSPENDU sur interdiction de Yukiko (levier : seppuku - le clan perdrait d'un coup la quasi-pure et le porteur potentiel), dissous par l'eveil pur de 2001. Trou theorique (un sort qui ne s'eveille jamais) : dormant, cf. _Implications.
 
 ## Lignee dirigeante (etat 2005)
 [DIVERGENCE RP]
-- NORIAKI KAMO - chef du clan. Pas de sort pur : une mutation lointaine (coagulation interne, renforcement sous la peau), porteur connu du gene. Premier fils de sa generation, chef faute d'elu. A epouse une PROFANE pure pour ne pas corrompre le sang. Un homme qui lit les signes : il fit de Fubuki sa favorite pour le kanji de la neige (yuki) dans son nom, et nomma son batard comme le felon Meiji. En 1997, pret a executer le batard s'il n'avait pas le sang pur a 4 ans - caprice de patriarche : aucun batard ne volera le trone a sa fille legitime, sauf le sang pur.
-- FUBUKI - epouse, profane pure. Mere de Yukiko. Morte en 1992, empoisonnee par un traitre interne au clan lors d'une reception d'accueil des concubines. Le traitre fut torture quinze jours et quinze nuits avant de succomber a des blessures faites pour etre lentes : on ne plaisante pas chez les Kamo. Enquete officielle sans aboutissement ; rumeur persistante contre Yasashiku.
-- YASASHIKU - concubine, profane pure. "Douceur" est son nom de concubine. Mere de Noritoshi. Verite (usage MJ) : la rumeur est VRAIE ; seule Yukiko l'a etablie, et n'en fait rien - les deux femmes protegent le meme prince, tacitement, et Noritoshi ne doit jamais l'apprendre. Decision worldbuilder : pas un Tchekhov ; savoir d'ironie -> CODEX. Cf. Personnages/Yukiko.md.
+- NORIAKI KAMO - chef du clan, FANTOCHE. Pas de sort pur : une mutation lointaine (coagulation interne, renforcement sous la peau), porteur connu du gene. Premier fils de sa generation, chef faute d'elu. A epouse une PROFANE pure pour ne pas corrompre le sang. N'a qu'une seule lecture au monde : l'elegance et la symbolique - un superstitieux qui lit les signes (il fit de Fubuki sa favorite pour le kanji de la neige dans son nom) et qui agissait pour le clan, desormais mene a la baguette par sa concubine (cf. Matriarcat de fait). Sa seule decision autonome : nommer son batard comme le felon Meiji. En 1997, il s'appretait a APPLIQUER la regle des batards (ci-dessus) - sa fille la lui a interdite.
+- FUBUKI - epouse, profane pure. Mere de Yukiko. Morte au NOUVEL AN 1992, empoisonnee par un traitre interne au clan lors de la reception d'accueil des concubines - deux mois avant le repas clanique du 29 fevrier. Le traitre fut torture quinze jours et quinze nuits avant de succomber a des blessures faites pour etre lentes : on ne plaisante pas chez les Kamo. Enquete officielle sans aboutissement ; rumeur persistante contre Yasashiku.
+- YASASHIKU - concubine, profane pure. "Douceur" est son nom de concubine. Mere de Noritoshi. C'est ELLE qui a pousse Noriaki a ne pas l'epouser et a la laisser concubine - effacement par ruse, au prix de la batardise de son fils : pari total sur la loterie genetique (la clause "sauf le sang pur"), gagne par chance. Elle deteste le nom inflige a son fils et n'en fait rien (un nom n'est qu'une superstition, comme le sien n'est qu'un masque). Verite (usage MJ) : la rumeur est VRAIE ; Yukiko - la seule qui ne pouvait pas mecaniquement se voiler la face - l'a etablie des jan-fev 1992 (les deux viperes se flairent, regard entendu) et n'en fait rien : detachement du vide d'abord, dette pour l'existence de Nori ensuite. Alliees de circonstance, sans haine ni affection - le pacte protege l'ignorance de Nori, pas la vie de sa mere. Fils armes : T-Fubuki, T-Matriarcat -> BIBLE SB8 (prochain build) ; l'ironie de scene reste au CODEX. Cf. Personnages/Yukiko.md.
 - YUKIKO KAMO (nee le 14 juin 1986) - princesse, seule enfant legitime. Hemotropie (mutation proche du pur). Future Matriarche 1990-2001, detronee de l'heritage a l'eveil de Noritoshi, princesse toujours. Prodige des rideaux, record du Dragon. Cf. Personnages/Yukiko.md.
 - NORITOSHI KAMO (ne le 5 juin 1997) - Prince Kamo, l'elu, pupille du chef depuis l'eveil de son Hemokinesie pure (5 juin 2001, a 4 ans). Batard de concubine. En 2005 : 8 ans. Cf. ci-dessous et Personnages/Noritoshi_Kamo.md.
+
+## Matriarcat de fait (etat 2005)
+[DIVERGENCE RP] (usage MJ pour l'essentiel ; en surface, un patriarcat ordinaire)
+- Le seul clan MATRIARCAL des trois - et personne dehors ne le sait : facade patriarcale entretenue pour des Hautes Instances misogynes, Noriaki en pantin de ceremonie.
+- Gouvernance reelle : Yasashiku pilote le chef a la baguette ; Yukiko est la lame et le cerveau tactique de la generation montante. Les deux viperes n'ont pas besoin de se concerter : elles protegent et poussent le meme prince.
+- Coherence doctrinale : l'indifference radicale du clan (seule la purete compte) rend la chose indolore en interne - qui gouverne n'importe pas, tant que le sang pur heritera.
+- Fil arme : T-Matriarcat -> BIBLE SB8 (prochain build). Atout du fil : le sang pur de Noritoshi vient du hasard genetique, pas des manigances - son statut reste propre meme si tout se sait.
 
 ## Gouvernance : le chef et les emissaires
 - [DIVERGENCE RP] Pas de conseil deliberatif (contraste avec Gojo et Zenin) : le chef regne, entoure d'EMISSAIRES qui executent sa parole.
 - [DIVERGENCE RP] Garde-fou : les emissaires peuvent decider de se reunir pour RENVERSER le chef s'il ne convient plus a l'esprit du clan.
 - [DIVERGENCE RP] Precedent (Meiji) : sous l'identite de Noritoshi Kamo, Kenjaku, juge indigne, fut contraint au seppuku dans ses appartements, seul, sur decision des emissaires. Kenjaku changea alors de corps et eventra son ancienne enveloppe. (Coherent avec la fiche Kenjaku, qui laissait la fin de ce corps non precisee.) Cf. Personnages/Kenjaku.md.
 - [DIVERGENCE RP] FIN PUBLIQUEMENT FLOUE, ET VOLONTAIREMENT : le clan n'a jamais rendu publique la maniere dont ce Noritoshi a fini. Double motif - le seppuku impose reste aux archives (on n'accorde pas une mort d'honneur au plus abject), et le clan se refuse a calomnier un ancetre dont il a respecte la force (exorciste d'exception, stratege remarquable, porteur du sort du sang pur). Hors du clan, sa fin n'est donc pas etablie.
-- [DIVERGENCE RP] Repas claniques Kamo/Zenin : chaque 29 FEVRIER (une annee sur quatre : 1988, 1992, 1996, 2000, 2004, 2008...), organises par les Hautes Instances de Kyoto. Detail : cf. Factions/Hautes_Instances.md. Lieu de rencontre de Yukiko et des jumeaux Zenin (1992).
+- [DIVERGENCE RP] Repas claniques Kamo/Zenin : chaque 29 FEVRIER (une annee sur quatre : 1988, 1992, 1996, 2000, 2004, 2008...), organises par les Hautes Instances de Kyoto. Detail : cf. Factions/Hautes_Instances.md. Lieu de rencontre de Yukiko et des jumeaux Zenin (1992 ; les trois rencontres d'enfance : cf. Personnages/Yukiko.md).
 
 ## Iconographie et tenue
 [DIVERGENCE RP] (le canon ne fixe ni kamon ni tenue propre au clan).
@@ -62,12 +70,13 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 
 ## Formation interne
 - [DIVERGENCE RP] Les clans forment les leurs en interne, hors du circuit scolaire classique (cf. BIBLE SB1). Comme chez les Zenin, la methode passe par la VIOLENCE INFANTILE ; seuls les Gojo s'en abstiennent.
+- [DIVERGENCE RP] CARVE-OUT DE LA LIGNEE DIRIGEANTE : on ne cogne pas ce qui est precieux (meme logique que l'abstention Gojo). La princesse a ete formee par l'EXIGENCE extreme - poussee a bout chaque jour, essoree, jamais cognee (preuve au dossier : la traque escortee d'un grade special a 12 ans). Noritoshi, lui, est EXEMPTE de toute durete : trop precieux pour risquer d'etre brise - decision conjointe de Yukiko et de Yasashiku.
 
 ## Noritoshi Kamo (heritier, ne le 5 juin 1997)
 - Canon : Noritoshi Kamo ; porte la version pure de la manip du sang. [DIVERGENCE RP] ne en 1997 (canon : 2000) - entree a Kyoto a 18 ans (promo 2016-2019), conformement a la regle d'entree post-bac.
 - [DIVERGENCE RP] Le cul entre deux chaises : sort originel, pur, parfait - mais ne d'une mere qui n'etait pas l'epouse du chef (Yasashiku, concubine). Illegitime, batard.
 - [DIVERGENCE RP] Affront grave dans le nommage : on l'a appele comme le PIRE exorciste de l'histoire (le Noritoshi Kamo de l'ere Meiji, corps de Kenjaku). Le credo de purete le sacre par son sort et le damne par sa naissance.
-- [DIVERGENCE RP] Sous la menace d'execution de Noriaki jusqu'a ses 4 ans ; protege des sa naissance par sa demi-soeur Yukiko, qui en fait son protege puis, apres l'eveil du 5 juin 2001, son dieu vivant. Complementaires par construction : lui l'archer et le chasseur, elle la trappeuse et la poseuse de rideaux.
+- [DIVERGENCE RP] Sous la regle des batards jusqu'a ses 4 ans (execution a l'eveil d'un sort non pur - verdict suspendu par Yukiko, cf. Le sort elu et la succession) ; protege des sa naissance par sa demi-soeur, qui en fait son protege puis, apres l'eveil du 5 juin 2001, son dieu vivant. EXEMPTE de la durete de formation (cf. Formation interne). Complementaires par construction : lui l'archer et le chasseur, elle la trappeuse et la poseuse de rideaux.
 - En 2005 : 8 ans, Prince Kamo, pupille du chef. Entite active future -> fiche et roadmap.
 
 ## Branches, greffes et lignees essaimees

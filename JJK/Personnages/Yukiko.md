@@ -1,6 +1,6 @@
 # Yukiko Kamo
 
-- version : W1
+- version : W2
 
 Fiche NOYAU (OC, niveau fandom). Etat atemporel / point de depart (1 avr 2005). Couche RP entierement [DIVERGENCE RP] (OC sans equivalent canon) : balise portee une fois ici, non repetee ligne a ligne. Plot post-depart -> roadmaps Yukiko (a ecrire) ; devenir -> Trajectoire datee en bas de page. Resume condense en BIBLE SB5 (prochain build).
 
@@ -47,13 +47,17 @@ Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 (p
 - Fonction : PONT. Plante pres d'un rideau qui absorbe l'energie occulte, il relie le rideau a Yukiko et la gorge de l'energie absorbee. Fonctionne aussi plante dans un ennemi - sans contact avec la chair : toucher l'ENERGIE suffit a piller.
 
 ## Psychologie
-- Froide, calculatrice, arrogante. N'eprouve d'affection pour personne au clan : detachement du a son traitement en deesse vivante, qu'elle n'a jamais souhaite. Ne pleure pas sa mere en 1992.
+- LE VIDE (1990-1997), produit et non inne : le traitement en deesse vivante, des l'eveil de 1990, creuse l'enfant au lieu de la gonfler - debut 1992, il ne reste rien a l'interieur. Terrain prepare : petite enfance Kamo froide, bulle de precaution princiere (on ne cogne pas ce qui est precieux - meme logique que l'abstention Gojo), personnalite d'avant 4 ans encore embryonnaire. Le vide n'a rien remplace : il a calcifie un desert. Ne pleure pas sa mere en 1992 - incapacite litterale, pas froideur.
+- LA BOUCLE DEESSE/VIDE : le calme surnaturel de l'enfant vide CONFORTE le culte (une gamine qui ne pleure pas sa mere empoisonnee est au-dessus des mortels). Le clan deifie le symptome, le symptome nourrit le culte.
+- LE MASQUE, deux regimes : pose dans l'enfance pour cacher le rien (singer les emotions attendues - deuil, modestie, douceur), recycle apres 1997 pour cacher la ruse. Les faux sourires de la vipere sont un heritage d'enfance, pas une invention d'adulte.
+- Froide, calculatrice, arrogante (post-eveil). N'eprouve d'affection pour personne au clan.
 - LA DEVOTION A UNE PHYSIOLOGIE : passer une semaine loin de Nori est HORS DE QUESTION - boule au ventre, crise de panique, des "et si" a en devenir folle. Soit elle VOIT que son frere va bien, soit elle redoute qu'il aille mal. (Consequence structurelle : aucune vie durable hors de Kyoto n'est possible pour elle.)
 - LA VIPERE, en miroir de la louve (Nisha : arrogante, directe, sans faux-semblants - cf. Personnages/Nisha.md) : politesse, faux sourires, mais toujours de la franchise, juste bien enrobee. Sous-entendus glacants quand elle en a assez de son interlocuteur, de plus en plus explicites s'il est trop con pour saisir un message subtil.
 - LA REGLE D'AMOUR : Nori est le SEUL homme qu'elle aime - elle ne veut aucun amour pour un autre homme, pour que celui qu'elle porte a son frere reste le plus fort. Un amour pour une FEMME est tolerable : il ne les met pas en concurrence - tant que son amoureuse ne montre pas le moindre signe de jalousie envers Nori.
-- L'exception absolue : Noritoshi. Son "Nori" est a ses yeux un dieu vivant, le liberateur, le prochain Patriarche - sans aucun doute le plus grand depuis la fondation du clan. Face a lui elle est incroyablement MODESTE, se place loin derriere. Fascination a sa naissance (1997), obsession puis devotion pure apres le detronement (2001) : elle sera son assistante manager, sa conseillere, sa trappeuse quand il chassera, son carquois quand il tirera.
+- L'exception absolue : Noritoshi. Son "Nori" est a ses yeux un dieu vivant, le liberateur, le prochain Patriarche - sans aucun doute le plus grand depuis la fondation du clan. Face a lui elle est incroyablement MODESTE, se place loin derriere. Sa naissance (5 juin 1997) est le PREMIER RESSENTI de la vie de Yukiko - la fascination perce le vide ; obsession puis devotion pure apres le detronement (2001) : elle sera son assistante manager, sa conseillere, sa trappeuse quand il chassera, son carquois quand il tirera. Il n'est pas que son dieu : il est son organe emotionnel - la racine de la devotion-physiologie ci-dessus.
 - Complementaire de Noritoshi par construction : lui l'archer et le chasseur, elle la trappeuse et la poseuse de rideaux.
 - "Proteger et servir", braque sur UNE seule personne - cinq ans avant que les jumeaux Zenin ne formulent leur doctrine (cf. Roadmap_A2, A2_6 ; savoir d'ironie -> CODEX).
+- LE MOTEUR DE PROCURATION : Yukiko vit par procuration deux vies qu'elle a refusees - l'excellente soutien sans manigances via Utahime, le dieu du clan Kamo via Nori. Elle ne les a jamais enviees : la sienne est exactement ce a quoi elle aspirait. Mais les vivre par procuration, c'est s'assurer de l'absence de regrets. Elle sert son frere en sachant pertinemment ce qu'elle aurait aime a sa place - place qu'elle n'envie pas mais a failli ne jamais perdre - et elle aime Utahime en lui offrant une fenetre sur le clan en echange de la fenetre sur la normalite qu'Utahime lui offre.
 - Refuse qu'on lui attribue tout exploit qui n'eleverait pas Noritoshi dans le meme temps. Toute gloire qui ne va pas a Nori est une gloire volee - d'ou son accord tacite avec le flou que le clan entretient sur son record.
 - Paranoia de trappeuse : Lucky 7 chaque nuit (cf. Tissage). Une trappeuse ne debranche pas.
 - Dessine a l'encre. Petit, Nori s'y met pour faire comme elle ; elle adore qu'il prenne ce genre d'initiative - la preuve qu'il sera un bon Patriarche. Les moments qu'il n'offre qu'a elle, elle les prend (cf. Personnages/Noritoshi_Kamo.md, Vu de lui).
@@ -61,45 +65,61 @@ Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 (p
 - Le seul mot qui la fait monter : "le batard", dit devant elle.
 
 ## Statut dans le clan
-- Princesse Kamo des la naissance (lignee principale) ; future Matriarche de 1990 a 2001 (mutation proche du pur, faute de sang plus pur : les Kamo ne font pas les fines bouches sur le sexe, seule la purete compte - cf. Factions/Clan_Kamo.md, succession amendee) ; re-princesse a partir de 2001.
+- Princesse Kamo des la naissance (lignee principale) ; future Matriarche de 1990 a 2001 (mutation proche du pur, faute de sang plus pur : indifference radicale des Kamo, seule la purete compte - cf. Factions/Clan_Kamo.md, succession amendee) ; re-princesse a partir de 2001.
 - Archives du clan : acces depuis le debut, jamais retire. Le Dragon lui a ete transmis a ce titre.
 - Gardienne autoproclamee de Noritoshi depuis 1997, contre la volonte de Noriaki.
+- Formation de la princesse : exigence extreme, poussee a bout chaque jour pour donner le meilleur d'elle-meme - dure sans etre brutale (on ne cogne pas la deesse, on l'essore ; carve-out de la violence infantile Kamo, cf. Factions/Clan_Kamo.md, Formation interne). Preuve au dossier : la traque de trois jours d'un grade special a 12 ans, escortee. Nori en est EXEMPTE : trop precieux pour risquer d'etre brise - decision conjointe des deux viperes.
 
 ## Relations
 ### Noritoshi Kamo - le dieu vivant
 - Demi-frere batard (mere : Yasashiku). Voir Psychologie. Fiche : Personnages/Noritoshi_Kamo.md.
-- 1997 : a sa naissance, Noriaki est pret a l'executer s'il n'a pas le sang pur a 4 ans (caprice de patriarche : aucun batard ne volera le trone a sa fille legitime, sauf le sang pur). Yukiko s'y oppose : si elle doit regner, ce sera avec lui pour bras droit ; en attendant il est son protege.
-- 5 juin 2001 : eveil de l'Hemokinesie PURE. Noritoshi devient l'elu, pupille du chef ; Yukiko est detronee et libre. Le batard de concubine devient son sauveur.
+- 1997 : a sa naissance, la regle clanique des batards de la lignee dirigeante promet l'execution a l'eveil d'un sort non pur (cf. Factions/Clan_Kamo.md) - Noriaki s'apprete a l'appliquer. Yukiko, traversee par le premier ressenti de sa vie, l'INTERDIT : levier seppuku - le clan perdrait d'un coup la quasi-pure et le porteur potentiel, quand le chef lui-meme ne pese qu'une coagulation sous-cutanee. Verdict suspendu ; si elle doit regner, ce sera avec lui pour bras droit ; en attendant il est son protege.
+- 5 juin 2001 : eveil de l'Hemokinesie PURE - la regle des batards se dissout d'elle-meme. Noritoshi devient l'elu, pupille du chef ; Yukiko est detronee et libre. Le batard de concubine devient son sauveur.
 - Le SEUL secret qu'elle lui cache : la verite sur la mort de Fubuki (cf. Yasashiku). Elle mettrait le clan a feu et a sang plutot que de le laisser l'apprendre.
 
 ### Noriaki Kamo - le pere
-- Patriarche. Pas de sort inne : une mutation lointaine (coagulation interne, renforcement sous la peau), porteur connu du gene. A choisi une epouse profane pour ne pas corrompre le sang. Un homme qui lit les signes : il a fait de Fubuki sa favorite pour le kanji de la neige dans son nom, et il a nomme son batard comme le felon Meiji. Aucune affection de Yukiko pour lui ; elle l'a contredit sur Noritoshi.
+- Patriarche FANTOCHE. Pas de sort inne : une mutation lointaine (coagulation interne, renforcement sous la peau), porteur connu du gene, chef faute d'elu. N'a qu'une seule lecture au monde : l'elegance et la symbolique - un superstitieux qui lit les signes (il a fait de Fubuki sa favorite pour le kanji de la neige dans son nom) et qui agissait pour le clan, desormais mene a la baguette par sa concubine (cf. Factions/Clan_Kamo.md, Matriarcat de fait). Sa seule decision autonome : nommer son batard comme le felon Meiji. En 1997 il ne faisait qu'appliquer la regle des batards - et sa fille la lui a interdite. Aucune affection de Yukiko pour lui.
 
 ### Fubuki - la mere
-- Profane pure, epouse choisie pour ne pas corrompre le sang. Favorite de Noriaki : son nom porte le kanji de la neige (yuki) sans en porter le son. Morte en 1992, empoisonnee par un traitre interne au clan, lors d'une reception destinee a accueillir des concubines - dont Yasashiku. Le traitre a ete torture quinze jours et quinze nuits avant de succomber (on ne plaisante pas chez les Kamo). Enquete officielle sans aboutissement. Yukiko n'a pas pleure.
+- Profane pure, epouse choisie pour ne pas corrompre le sang. Favorite de Noriaki : son nom porte le kanji de la neige (yuki) sans en porter le son. Morte au NOUVEL AN 1992, empoisonnee par un traitre interne au clan lors de la reception d'accueil des concubines - dont Yasashiku -, deux mois avant le repas clanique du 29 fevrier. Le traitre a ete torture quinze jours et quinze nuits avant de succomber (on ne plaisante pas chez les Kamo). Enquete officielle sans aboutissement. Yukiko n'a pas pleure : il n'y avait deja plus rien pour pleurer (cf. Psychologie).
 
 ### Yasashiku - la concubine
-- Profane pure, mere de Noritoshi. "Douceur" est son nom de concubine - un autre poison calcule.
-- La rumeur (elle aurait orchestre l'empoisonnement de Fubuki) est VRAIE. Yukiko est la seule a s'y etre assez interessee pour le decouvrir - et decide de n'en rien faire, precisement parce qu'elle et sa belle-mere idolatrent le meme garcon. Les deux femmes savent que l'autre sait, et restent tacites : elles protegent le meme prince, aucun mot n'est necessaire. Il faut juste que Nori ne l'apprenne jamais.
-- Decision worldbuilder : PAS un Tchekhov. Savoir d'ironie (le joueur sait, Nori ignore) -> CODEX ANNEXE_SAVOIRS, hors SB8.
+- Profane pure, mere de Noritoshi. "Douceur" est son nom de concubine - un autre poison calcule. C'est ELLE qui a pousse Noriaki a ne pas l'epouser et a la laisser concubine : effacement par ruse, au prix de la batardise de son fils - pari total sur la loterie genetique (la clause "sauf le sang pur"), gagne par chance. Elle deteste le nom inflige a son fils et n'en fait rien : un nom n'est qu'une superstition, comme le sien n'est qu'un masque.
+- La rumeur (elle a orchestre l'empoisonnement de Fubuki) est VRAIE. Yukiko est la seule qui ne POUVAIT PAS mecaniquement se voiler la face - le vide n'a rien a proteger - et qui n'en fait rien. Les deux viperes se sont flairees dans le mois suivant la reception (jan-fev 1992), un regard entendu pour tout pacte : chacune sait que l'autre sait. Silence de Yukiko en deux phases - detachement du vide d'abord, dette pour l'existence de Nori ensuite. Aucune haine, jamais, dans aucun sens.
+- ALLIEES DE CIRCONSTANCE, rien de plus : jamais un equilibre de la terreur, jamais de l'affection. Le pacte protege l'ignorance de Nori, pas la vie de sa mere - si Noritoshi apprend un jour et condamne sa mere pour ses manigances, Yukiko ne levera pas le petit doigt pour la sauver. Sa loyaute est a 100 % chez lui.
+- Nori ne doit jamais l'apprendre. Fil arme : T-Fubuki -> BIBLE SB8 (prochain build) ; l'ironie de scene (le joueur sait, Nori ignore) reste au CODEX ANNEXE_SAVOIRS.
 
 ### Les jumeaux Zenin - les rares amis
-- Repas claniques Kamo/Zenin chaque 29 FEVRIER (1988, 1992, 1996, 2000, 2004, 2008 ; cf. Factions/Hautes_Instances.md). 1988 : trop jeune. 29 fev 1992 : rencontre les jumeaux (5 ans, comme elle) - Nisha, encore en education servante, assise juste a cote de Naoya, qui n'a jamais tolere qu'on la mette ailleurs. Les jumeaux voient une heritiere tres humble sur ce qu'elle vaut ; eux aussi portent le poids d'un clan. Editions jouees -> Roadmap_A0 (une au moins) et roadmaps Yukiko (deux ou trois).
+- Repas claniques Kamo/Zenin chaque 29 FEVRIER (1988, 1992, 1996, 2000, 2004, 2008 ; cf. Factions/Hautes_Instances.md). 1988 : trop jeune. Trois rencontres, trois Yukiko :
+- 29 fev 1992 (5 ans, deux mois apres la mort de Fubuki) : les jumeaux - Nisha, encore en education servante, assise juste a cote de Naoya, qui n'a jamais tolere qu'on la mette ailleurs - rencontrent le MASQUE : deuil feint, douceur polie, et une indifference totale a sa propre gloire qu'ils lisent comme de l'humilite ("une heritiere tres humble sur ce qu'elle vaut" - malentendu fondateur). LEURRES. Rien dedans.
+- 29 fev 1996 (9 ans) : toujours le masque - mais cette fois les jumeaux le FLAIRENT (deux enfants qui jouent un role clanique en reconnaissent un troisieme), sans deviner ce qu'il cache.
+- 29 fev 2000 (13 ans) : ce n'est plus la meme. Le masque cache desormais la ruse, et la Yukiko dessous n'est plus un vide : elle voit en eux des allies pour l'avenir des clans, voire des amis - et TOMBE le masque pour eux, leur revele que Nori est tout ce qui importe au monde pour elle. Les jumeaux voient le changement ; autre clan, mieux a faire que d'investiguer.
+- L'asymetrie : cote jumeaux, amis depuis 1992 ; cote Yukiko, reel a partir de 2000. Mais 1992 et 1996, inertes sur le moment, sont retroactivement sa seule archive d'un traitement de PERSONNE : les seuls a ne pas l'avoir traitee en deesse. Symetrie inverse : le vide ne juge pas - elle est la seule, dans toute l'enfance des jumeaux, a leur avoir souri et parle sans jugement (Ranta etant de la devotion aveugle, guere mieux) : leur seule relation qui ne soit ni jugement ni devotion.
+- A Kyoto (promo 2005-2008) : TRIO SOUDE, Naoya en leader, avec Ranta. Complicite intellectuelle, etudiante - elle ne comble aucune des deux codependances (Naoya a ses appels du soir et ses week-ends avec Nisha ; Yukiko rentre au domaine des qu'elle peut) : seule la moitie comble.
+- Editions jouees -> Roadmap_A0 (une au moins) et roadmaps Yukiko (deux ou trois).
 - Nisha : la louve et la vipere. La seule femme que Nisha voit comme consciente de sa place ; elles s'entendent a merveille. Etat 2005 : amies.
-- Naoya : meme promo a Kyoto (2005-2008), ainsi que Ranta.
+- Naoya : meme promo a Kyoto (2005-2008), ainsi que Ranta. Alliance tacite entre heritiers.
+
+### Yoshinobu Gakuganji - le referent miroir
+- Referent de sa promo (2005-2008), principal de Kyoto, visage des Hautes Instances. Il VOIT le sandbagging - trois ans de cours ne trompent pas un Grade Special 1 - et le RESPECTE : le flou d'un clan ne se discute pas. C'est lui qui demande la tombee des masques EN INTERNE pour batir son equipe de choc (cercle Hautes Instances / Kamo / Zenin, secret au chaud ; timing -> roadmap).
+- S'il adore Naoya, il est encore plus proche de Yukiko : calculateur, froid, protecteur - son miroir de temperament. Seule difference, l'objet : sa passion a lui va aux Hautes Instances, celle de Yukiko a Nori. Cf. Personnages/Gakuganji.md.
 
 ### Satoru Gojo
-- Son seul egal en tissage, a partir de 2006. Premier contact : Amicale de sept 2005 (-> Trajectoire datee).
+- Son seul egal en tissage, a partir de 2006. Premier contact : Amicale de sept 2005 - il dejoue son piege au J1, juge son rideau du J2 quasi parfait, LIT le mecanisme du Dragon et le classe secret de clan : il ne vole pas la vedette et ne se mele pas des clans (-> Trajectoire datee).
 
 ### Utahime Iori - le second sourire
 - Ainee d'un an a Kyoto (2e annee en 2005, promo 2004-2007), future prof de 1re annee (2009+). Kyotoite a vie, consciente de sa place, respectueuse des roles de soutien, docile envers les Hautes Instances : le seul profil compatible avec une devotion qui interdit de quitter Kyoto. Noyau : aucune relation avant 2005 (Yukiko arrive en avril). SLOWBURN : amorce a l'universite (2005-2008), ni coup de foudre ni des mois d'attente - deroule entier -> roadmaps Yukiko (vie interne de Kyoto 2005-2008 ; seule l'Amicale de sept 2005 se calque sur A1). Condition tacite, non dite (cf. Psychologie, La regle d'amour) : jamais le moindre signe de jalousie envers Nori. Cf. Personnages/Utahime.md.
-- Ironie en reserve : Nisha croit Utahime rivale aupres de Satoru (2005-2008, malentendu a sens unique) - le jour ou elle comprend avec qui est Utahime, le malentendu meurt (cf. Personnages/Nisha.md, Utahime.md).
+- LE VECTEUR, par elimination : Mei Mei est une brute ; Ranta, son reflet absolu mais un homme - angle mort total, elle ne voit meme pas la similarite ; Naoya, une alliance tacite entre heritiers. Reste Utahime : douce, protectrice, obeissante face aux Hautes Instances, bien a sa place de soutien - la ou Yukiko porte le masque d'un simple soutien mais est une trappeuse terrifiante.
+- LE MOTEUR : elle voit en Utahime ce qu'une version d'elle sans la brisure initiale peut donner, et elle veut les deux vies a la fois (cf. Psychologie, moteur de procuration). Utahime, elle, commence a l'aimer parce qu'elle est la seule avec qui "Yuki" soit sincere.
+- FENETRE STRUCTURELLE : cohabitation quotidienne de campus limitee a avr 2005 - mars 2006 (Utahime passe en 3e annee, purement pratique, des avr 2006) ; l'amorce se joue la, la distance des missions ensuite.
+- Ironie en reserve : Nisha croit Utahime rivale aupres de Satoru - malentendu a sens unique NE a l'Amicale de sept 2005 (elle les voit se taquiner avant l'epreuve et ne le supporte pas), entretenu sans le savoir par le naturel joueur d'Utahime. La relation avec Yukiko n'est ni cachee ni criee : le malentendu tient par l'aveuglement de Nisha, qui ignore qu'elle pietine le terrain de sa "cousine". Yukiko, elle, comprend la scene mieux que Nisha - aucune jalousie. Le jour ou Nisha comprend avec qui est Utahime, le malentendu meurt (cf. Personnages/Nisha.md, Utahime.md).
 
 ### Shoko Ieiri
 - La medecin de Tokyo qui la soigne a l'Amicale de sept 2005 - simple soin (-> Trajectoire datee).
 
 ## Grade et scaling
 - 2005 (18 ans) : 12 doigts REELS - puissance CONDITIONNELLE (le piege en place, Chi no Meiyo en pont), niveau Satoru et Geto pre-eveil, un cran sous Nisha (13). Elle se DEVALUE par ruse : Grade 2 officiel, 4 doigts ANNONCES (6,24 %, lecture Utahime - la puissance est dans le piege, pas dans le choc). Rappel : l'unite doigt est extradiegetique, personne en-monde ne compte en doigts ; ce qui est diegetique, c'est le Grade 2 qu'elle laisse croire.
+- Perimetre du vrai niveau, deux etages : cercle qui SAIT = Hautes Instances / Kamo / Zenin, elargi au quatuor de Tokyo des sept 2005 (Amicale) ; fiction officielle Grade 2 intacte, portee par le recit du sort "trop conditionnel" et du coup de chance.
 - Integration a la table : cf. Power_Scaling/Doigts_de_Sukuna.md (prochain build).
 
 ## Chronologie noyau (jusqu'au point de depart)
@@ -107,27 +127,29 @@ Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 (p
 |---|---|
 | 14 juin 1986 | Naissance. Seule enfant legitime de Noriaki et Fubuki. Princesse Kamo ; acces aux archives des l'origine. |
 | 29 fev 1988 | Repas clanique Kamo/Zenin : trop jeune (1 an et demi). |
-| 1990 (4 ans) | Eveil de l'Hemotropie. Mutation proche du pur -> future Matriarche, faute de sang plus pur. Traitement en deesse vivante. |
-| 1992 (5 ans) | Mort de Fubuki (empoisonnement, reception des concubines). Ne pleure pas. 29 fev : repas clanique, rencontre les jumeaux Zenin. Ordre des deux evenements dans l'annee -> Roadmap_A0 Yukiko. |
-| 29 fev 1996 | Repas clanique (edition jouee ou non -> roadmaps). |
-| 5 juin 1997 (10 ans) | Naissance de Noritoshi. Fascination ; elle s'en fait la gardienne contre Noriaki. |
+| 1990 (4 ans) | Eveil de l'Hemotropie. Mutation proche du pur -> future Matriarche, faute de sang plus pur. Traitement en deesse vivante : le culte commence a creuser le vide. |
+| nouvel an 1992 (5 ans) | Mort de Fubuki (empoisonnement, reception d'accueil des concubines - dont Yasashiku). Ne pleure pas : il ne reste deja rien a l'interieur. |
+| jan-fev 1992 | Les deux viperes se flairent dans le mois ; regard entendu pour tout pacte. Yukiko porte le secret et n'en fait rien (detachement du vide). |
+| 29 fev 1992 | Repas clanique : rencontre les jumeaux Zenin (5 ans, comme elle). Masque en deuil feint ; les jumeaux sont LEURRES (malentendu fondateur de l'humilite). |
+| 29 fev 1996 | Repas clanique : les jumeaux FLAIRENT le masque, pas ce qu'il cache (edition jouee ou non -> roadmaps). |
+| 5 juin 1997 (10 ans) | Naissance de Noritoshi : PREMIER RESSENTI de sa vie. Interdit a son pere d'appliquer la regle des batards (levier seppuku) ; s'en fait la gardienne. |
 | 1998 (12 ans) | RECORD DU CLAN : Dragon d'ordre 9 tenu 5 minutes. Traque de trois jours, capture de Sakushu Sha (grade special). Chi no Meiyo forge par le forgeron masque et offert. |
-| 29 fev 2000 | Repas clanique (edition jouee ou non -> roadmaps ; Nori, 2 ans, sous menace - presente ou cache : roadmap). |
+| 29 fev 2000 | Repas clanique : TOMBE le masque pour les jumeaux, leur revele que Nori est tout ce qui importe. Allies pour l'avenir des clans, voire amis (edition jouee ou non -> roadmaps ; Nori, 2 ans, sous verdict suspendu - presente ou cache : roadmap). |
 | 5 juin 2001 (14 ans) | Eveil de l'Hemokinesie pure de Noritoshi. Detronee : liberation. Devotion. Re-princesse. |
-| (avant 2005 ; date -> Roadmap_A0 Yukiko) | Decouvre la verite sur la mort de Fubuki. Pacte tacite avec Yasashiku. |
 | 29 fev 2004 | Repas clanique, dernier avant l'universite (edition jouee ou non -> roadmaps). |
 | 1 avr 2005 (18 ans) | Entree a l'universite de Kyoto, promo 2005-2008, avec Naoya et Ranta. Grade 2. Point de depart. |
 
 ## Trajectoire datee (post-depart ; alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| debut sept 2005 (A1_3, roadmap a amender) | Tournoi des Universites Jumelees, hote Kyoto, dans l'equipe de Kyoto. Mise hors jeu par Satoru au J1 ; soignee par Shoko (simple soin) ; absente du J2 sur blessure. | premiere mise hors jeu ; Kyoto gagne sans elle au J2 |
-| 2006 (Nori 9 ans ; jalon fixe par decision, roadmap Yukiko a ecrire) | Nori sait tracer Lucky 7 lui-meme, par coeur. | les nuits sans elle ne sont plus des nuits sans Lucky 7 |
+| debut sept 2005 (A1_3) | Tournoi des Universites Jumelees, hote Kyoto, equipe de Kyoto (5v3). J1 : son piege prend Satoru, qui le dejoue a temps malgre le vampirisme du Dragon une fois dedans et l'assomme une fois sorti ; soignee par Shoko (simple soin). J2 : vengeance (Nisha a violente son Utahime au J1) - elle feinte Nisha, la coince dans un rideau quasi parfait (meme selon Satoru), la ressort presque videe, pose le fil du tanto contre la gorge de la numero 1 mondiale. Victoire. Aucune tension ensuite : dissipation par la discussion avant le depart de Tokyo. | premiere mise hors jeu (J1) et premiere victoire publique (J2) ; facade preservee (sort presente comme trop conditionnel, coup de chance) ; le cercle qui sait s'elargit au quatuor de Tokyo - Satoru lit le Dragon et le classe secret de clan ; Nisha sait desormais exactement ce que vaut la vipere |
+| 2006 (Nori 9 ans ; jalon fixe par decision, mois -> roadmap Yukiko) | Nori sait tracer Lucky 7 lui-meme, par coeur - initiative du petit genie : il se surpasse pour que sa soeur aille a la fac sans crainte. | les nuits sans elle ne sont plus des nuits sans Lucky 7 ; les nuits hors du domaine deviennent possibles |
 | 2013 (ere B, B1 ; cf. _Implications) | Gakuganji lui offre la chaire de 3e annee de Kyoto. Elle n'accepte qu'a une condition : seulement l'annee ou Nori sera en 3e annee (2018-2019). Nisha ricane et lui repond qu'elle trouvera une prof qui ne fera pas un favoritisme aussi extreme - ce sera Mei Mei (cf. Factions/Universite_Kyoto.md, Personnages/Mei_Mei.md). Yukiko ne sera jamais prof. | hors du corps enseignant, par condition refusee |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Editions des repas claniques jouees, evolution de l'amitie avec les jumeaux, vie de promo a Kyoto -> Roadmap_A0 / roadmaps Yukiko.
-- Lien avec Utahime (amorce, reponse d'Utahime, rythme) -> roadmaps Yukiko. Position de Noriaki (vues matrimoniales sur sa fille ou non) : en suspens -> _Implications.
+- Lien avec Utahime (reponse d'Utahime, rythme du slowburn, son 2007-2009) -> roadmaps Yukiko. Vues matrimoniales de Noriaki : DISSOUTES (decision worldbuilder) - on ne specule pas sur l'heritage genetique d'une enfant, et adulte elle n'est plus la plus pure ; aucun obstacle clanique.
+- Timing de la tombee des masques d'equipe (demande de Gakuganji) -> roadmap A1 / roadmaps Yukiko.
 - Deux parties de jeu a dater en roadmap Yukiko, non enoncees ici : l'unique partie contre Satoru, et le jour ou Nori la bat.
 - Majorite de Noritoshi (5 juin 2015) et ce qu'il decide du titre -> Roadmap_B2 / fiche Noritoshi, hors de cette page.
 - 2018-2019 (ere C) : revient a Kyoto en OBSERVATRICE au fond de la classe de 3e annee, comme Ui Ui derriere Mei Mei - un oeil sur son frere, qu'elle laisse s'epanouir par lui-meme ; la grande soeur surprotectrice ne le gene jamais. Role dans l'ere C (Lisiere du Supplice) -> build ere C. Non enonce ici.
@@ -135,7 +157,7 @@ Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 (p
 
 ## Pointeurs
 - Clan, legende fondatrice, nommage, succession amendee, lignee dirigeante (Noriaki, Fubuki, Yasashiku), Dragon, Sakushu Sha, forgeron masque : cf. Factions/Clan_Kamo.md.
-- Demi-frere : cf. Personnages/Noritoshi_Kamo.md. Amis : cf. Personnages/Nisha.md, Naoya.md, Ranta.md. Utahime : cf. Personnages/Utahime.md. Tokyo : cf. Personnages/Shoko.md, Satoru.md.
+- Demi-frere : cf. Personnages/Noritoshi_Kamo.md. Amis : cf. Personnages/Nisha.md, Naoya.md, Ranta.md. Utahime : cf. Personnages/Utahime.md. Referent : cf. Personnages/Gakuganji.md. Tokyo : cf. Personnages/Shoko.md, Satoru.md.
 - Rideaux, ancres, Dragon, Koch, Gosper (formules) : cf. Pedagogie/Detection_Contention_2eAnnee_S1.md. Lisiere : cf. Pedagogie/Detection_Contention_2eAnnee_S2.md, Personnages/Kenjaku.md.
 - Repas claniques : cf. Factions/Hautes_Instances.md. Tournoi : cf. Factions/Tournoi.md, Roadmap_A1.
 - Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.

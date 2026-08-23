@@ -1,6 +1,6 @@
 # Satoru Gojo
 
-- version : W11
+- version : W12
 
 ## Identite
 - Nom : Satoru Gojo. Canon. Le guerrier parfait vivant du clan Gojo.
@@ -80,7 +80,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | avr 2005 -> 2006 | Chantier perso de Yaga : l'INFINI EN REFLEXE - la barriere se dresse manuellement, alors Yaga le harcele hors champ (cadavres maudits dans le dos, aux heures creuses) jusqu'a ce qu'elle precede la pensee. Le chantier meurt de lui-meme a l'eveil de 2006 ; Yaga bascule sur l'inenseignable - regarder les autres. Echec etabli : le couple ne voit pas Geto sombrer (cf. Pedagogie/Perso_Tokyo_2005-2008.md) | chantier perso : reflexe vise, rendu caduc par l'eveil ; la lecon humaine rate |
-| sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) J1 : bat Mei Mei puis Ranta, elimine par Nisha (qu'il a provoquee en insultant Naoya) ; J2 : bat Naoya | decouvre que le lien jumeau de Nisha le depasse |
+| sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) J1 : bat Mei Mei ; tombe dans un piege de Yukiko Kamo, dejoue le Dragon a temps malgre le vampirisme, l'assomme une fois sorti ; bat Ranta ; elimine par Nisha (qu'il a provoquee en insultant Naoya). J2 : bat Naoya ; juge quasi parfait le rideau qui prend Nisha. LIT le mecanisme du Dragon, le classe secret de clan et n'en dira rien - il ne vole pas la vedette et ne se mele pas des clans | decouvre que le lien jumeau de Nisha le depasse ; premier contact avec sa seule egale en tissage (des 2006) |
 | 1 jan 2006 | Se declare a Nisha (encore sous elle au classement, pre-eveil), accepte | couple forme |
 | 30 jan 2006 | Offre a Nisha le collier-arsenal (coquetterie deguisee en batterie cinetique) | -- |
 | printemps 2006 | Mission boucle (manoir hante, Hamamatsu) : frime pour Nisha et DEMOLIT le manoir ; puis escorte du Plasma Stellaire (Riko Amanai) avec Geto, double consigne escorter / effacer (cf. Roadmap A2_2-A2_4) | climb competitif -> 14 doigts (pre-Toji) |

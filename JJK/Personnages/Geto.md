@@ -1,6 +1,6 @@
 # Suguru Geto
 
-- version : W8
+- version : W9
 
 Page = fiche personnage : noyau (etat 2005) + Trajectoire datee (post-2005). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB5.
 
@@ -36,7 +36,7 @@ Page = fiche personnage : noyau (etat 2005) + Trajectoire datee (post-2005). Fai
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | avr 2005 -> 2007 | Chantier perso de Yaga : la COMMANDE SIMULTANEE - tenir plusieurs fleaux en manoeuvre coordonnee (les pantins de Yaga contre son armee ; d'artisan a artisan, le seul endroit du cursus ou Yaga enseigne quelque chose a un futur Special). [INTERPRETATION] l'armee coordonnee ainsi apprise est celle du massacre de fin 2007 - et c'est Yaga lui-meme qui decouvre les faits (cf. Pedagogie/Perso_Tokyo_2005-2008.md) | chantier perso : coordination acquise, retournee contre le monde |
-| sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) J1 : tombe a deux (Naoya + Ranta) en foret ; J2 : bat Utahime | -- |
+| sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) J1 : tombe a deux (Naoya + Ranta) en foret ; J2 : bat Mei Mei (entree pour l'affiche gagnable) | -- |
 | avr 2006 (A2_1) | Rentree de 2e annee ; rencontre les 1res annees : Nanami (serieux, sceptique), Haibara (lumineux), Ijichi | -- |
 | printemps 2006 (A2_2) | Mission boucle (manoir hante) avec le quatuor ; Nisha les avertit, lui et Satoru : "Amanai n'est pas une fillette, c'est une ressource... on ne s'attache pas" | ironie plantee (il s'attachera) |
 | printemps 2006 (A2_3) | Escorte du Plasma Stellaire (Riko Amanai) avec Gojo, double consigne escorter / effacer ; periple "dernieres volontes" - il s'attache a Riko | attachement (contre l'avertissement de Nisha) ; solo -> 14 doigts |

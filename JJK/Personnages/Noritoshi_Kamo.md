@@ -1,6 +1,6 @@
 # Noritoshi Kamo
 
-- version : W6
+- version : W7
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -32,22 +32,23 @@ Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e
 ## Statut dans le clan
 - [DIVERGENCE RP] Prince Kamo (enfant du Patriarche). ELU au sort pur depuis le 5 juin 2001 -> PUPILLE du chef de clan, forme pour heriter. Majeur depuis le 5 juin 2015 ; heritage differe a sa propre demande. En 2017-2018 : heritier designe, pas encore chef, Noriaki toujours Patriarche. L'heritier doit etre "parfait en tout" (maitrise, manieres, opinions, obeissance, decision).
 - Gouvernance Kamo : chef + emissaires (pas de conseil), les emissaires pouvant se reunir pour renverser un chef juge indigne (precedent Meiji). cf. Clan_Kamo.md.
+- [DIVERGENCE RP] EXEMPTE de la durete de formation du clan : trop precieux pour risquer d'etre brise - decision conjointe de Yukiko et de Yasashiku (cf. Factions/Clan_Kamo.md, Formation interne). L'exigence de perfection porte sur la maitrise et la conduite, jamais sur le corps.
 
 ## Relations
 Fiches propres : cf. Personnages/Yukiko.md, Nisha.md, Kenjaku.md ; Factions/Clan_Kamo.md. Ici, seul le rapport a Noritoshi.
 
 ### Clan Kamo
 - Heritier designe, pupille du chef. Sous l'exigence de perfection absolue propre aux Kamo.
-- [DIVERGENCE RP] Noriaki, son pere : pret a l'executer s'il n'avait pas eu le sang pur a 4 ans (caprice de patriarche - aucun batard ne volerait le trone a la fille legitime). L'eveil du 5 juin 2001 a tranche.
-- [DIVERGENCE RP] Yasashiku, sa mere : concubine, profane pure ; "Douceur" est son nom de concubine. Objet d'une rumeur que le clan n'a jamais etablie (la mort de Fubuki, l'epouse, en 1992). Ce que Noritoshi en sait : la rumeur, rien de plus. Cf. Factions/Clan_Kamo.md (Lignee dirigeante) - savoir d'ironie -> CODEX.
+- [DIVERGENCE RP] Noriaki, son pere : chef fantoche, s'appretait a appliquer la regle des batards de la lignee dirigeante (execution a l'eveil d'un sort non pur) - Yukiko l'a interdite (levier seppuku), verdict suspendu. L'eveil du 5 juin 2001 a tout dissous. Cf. Factions/Clan_Kamo.md.
+- [DIVERGENCE RP] Yasashiku, sa mere : concubine, profane pure ; "Douceur" est son nom de concubine. Objet d'une rumeur que le clan n'a jamais etablie (la mort de Fubuki, l'epouse, en 1992). Ce que Noritoshi en sait : la rumeur, rien de plus. Cf. Factions/Clan_Kamo.md (Lignee dirigeante) - fil arme T-Fubuki (BIBLE SB8, prochain build) ; l'ironie de scene reste au CODEX.
 
 ### Yukiko Kamo - la gardienne
 - [DIVERGENCE RP] Demi-soeur ainee de onze ans. Sa gardienne des sa naissance, contre leur pere ; detronee de l'heritage par son eveil et liberee par lui : elle le tient pour un dieu vivant, le liberateur, le plus grand Patriarche depuis la fondation, et se place loin derriere. Sa trappeuse quand il chasse, son carquois quand il tire, sa conseillere, son "assistante manager premium" (le mot est d'elle).
 - Chaque nuit qu'elle passe au domaine, elle trace Lucky 7 autour de lui (Koch 7 + Gosper 7 entremeles) ; absente, elle mandate un membre du clan, qui pose un multicouche - moins bon.
 - Elle ne le laisse gagner a aucun jeu (go, shogi, echecs). Le jour ou il la bat -> roadmap Yukiko, hors de cette fiche.
 - Le seul secret qu'elle lui cache : la verite sur la mort de Fubuki (cf. Factions/Clan_Kamo.md).
-- [DIVERGENCE RP] VU DE LUI : aucun conflit. Petit, il l'adore par-dessus tout, et comprend lentement ce qu'il represente pour elle. Ca ne se mue jamais en rejet : il comprend que sa soeur aime SINCEREMENT lui etre devouee, alors il lui offre des moments qui ne sont qu'a eux deux. Il sait qu'elle est largement sous-evaluee, et sait que c'est de la ruse - elle ne lui a jamais cache qu'elle vit pour le servir, et que cela passe par toute la tromperie dont le clan Kamo est capable.
-- [DIVERGENCE RP] LE DESSIN : petit, il s'interesse au dessin a l'encre pour faire comme elle - un passe-temps commun. Elle adore qu'il prenne ce genre d'initiative : la preuve qu'il sera un bon Patriarche. Ironie : c'est ce qui le predispose aux cours de rideaux. Enfant, des dragons asiatiques grossiers a l'encre ; plus grand, des dragons fractals bien plus fins. Des ses 9 ans (2006), il sait tracer Lucky 7 lui-meme - par apprentissage par coeur, pas par talent pur, mais c'est deja un exploit. [IMPLICITE] Des lors, les nuits sans elle, il peut le poser lui-meme.
+- [DIVERGENCE RP] VU DE LUI : aucun conflit. Petit, il l'adore par-dessus tout, et comprend lentement ce qu'il represente pour elle. Ca ne se mue jamais en rejet : il comprend que sa soeur aime SINCEREMENT lui etre devouee, alors il lui offre des moments qui ne sont qu'a eux deux. Il sait qu'elle est largement sous-evaluee, et sait que c'est de la ruse - elle ne lui a jamais cache qu'elle vit pour le servir, et que cela passe par toute la tromperie dont le clan Kamo est capable. Il n'a jamais connu que la Yukiko eveillee : le vide d'avant 1997 lui est invisible et inconnu - il ignore que sa naissance fut le premier ressenti de la vie de sa soeur (savoir d'ironie -> CODEX).
+- [DIVERGENCE RP] LE DESSIN : petit, il s'interesse au dessin a l'encre pour faire comme elle - un passe-temps commun. Elle adore qu'il prenne ce genre d'initiative : la preuve qu'il sera un bon Patriarche. Ironie : c'est ce qui le predispose aux cours de rideaux. Enfant, des dragons asiatiques grossiers a l'encre ; plus grand, des dragons fractals bien plus fins. Des ses 9 ans (2006), il sait tracer Lucky 7 lui-meme - par apprentissage par coeur, pas par talent pur, mais c'est deja un exploit, et une INITIATIVE : le petit genie se surpasse pour que sa soeur aille a la fac sans crainte. Des lors, les nuits sans elle, il peut le poser lui-meme : il libere les nuits de sa gardienne.
 
 ### Nisha Zenin - professeure et mentor d'honneur
 - [DIVERGENCE RP] Prof de sa 2e annee a Kyoto (2017-2018). Elle lui transmet SA vision de l'honneur et le forme a etre un heritier digne.
@@ -63,10 +64,10 @@ Fiches propres : cf. Personnages/Yukiko.md, Nisha.md, Kenjaku.md ; Factions/Clan
 ## Chronologie noyau
 | Date/Ere | Jalon |
 |---|---|
-| 5 juin 1997 | Naissance. Batard de concubine (Yasashiku). Nomme comme le felon Meiji. Sous la menace d'execution de Noriaki jusqu'a ses 4 ans ; Yukiko (10 ans) s'en fait la gardienne. |
+| 5 juin 1997 | Naissance. Batard de concubine (Yasashiku). Nomme comme le felon Meiji. Sous la regle des batards (execution a l'eveil d'un sort non pur) - verdict suspendu par Yukiko (10 ans), qui s'en fait la gardienne. |
 | 5 juin 2001 (4 ans) | Eveil de l'Hemokinesie PURE. Elu -> pupille du chef ; Yukiko detronee de l'heritage. |
 | enfance | Formation d'heritier ; Lucky 7 de Yukiko chaque nuit ; dessin a l'encre pour faire comme elle (dragons asiatiques grossiers). |
-| 2006 (9 ans) | Sait tracer Lucky 7 lui-meme, par coeur. Les dragons a l'encre deviennent des dragons fractals. (Jalon fixe par decision ; roadmap Yukiko a ecrire.) |
+| 2006 (9 ans) | Sait tracer Lucky 7 lui-meme, par coeur - initiative pour que sa soeur aille a la fac sans crainte. Les dragons a l'encre deviennent des dragons fractals. (Jalon fixe ; mois -> roadmap Yukiko.) |
 | 5 juin 2015 (18 ans) | Majeur. Le titre lui revient ; il demande a etre accompli avant de l'accepter. Reste Prince. (Ere B ; rattachement d'arc : cf. _Implications.) |
 | 2016 | Entre a l'universite de Kyoto (promo 2016-2019). |
 

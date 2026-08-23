@@ -1,6 +1,6 @@
 # Yoshinobu Gakuganji
 
-- version : W3
+- version : W4
 
 Page = fiche noyau legere (le gros est couvert par Factions/Hautes_Instances.md et Factions/Universite_Kyoto.md). Etat atemporel / point de depart 2005. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -33,6 +33,7 @@ Un exorciste = un sort inne en regle generale (canon).
 ## Eleves - dispositions (Kyoto, promo 2005-2008)
 - [DIVERGENCE RP] Adore Naoya : l'arme parfaite, dure et sans etat d'ame (cf. Personnages/Naoya.md).
 - [DIVERGENCE RP] Juge Ranta trop gentil : le plus doux des Zenin nommes, son manque d'agressivite, d'arrogance et de fierte rebute le conservateur (cf. Personnages/Ranta.md).
+- [DIVERGENCE RP] Yukiko Kamo : la plus proche de lui, plus encore que Naoya. Calculatrice, froide, protectrice - son miroir de temperament, a l'objet pres : sa passion a lui va aux Hautes Instances, celle de Yukiko a Nori. Il VOIT le sandbagging (Grade 2 annonce par une prodige de clan) et le RESPECTE : le flou d'un clan ne se discute pas. C'est lui qui demande la tombee des masques EN INTERNE pour batir son equipe de choc - cercle exclusivement Hautes Instances / Kamo / Zenin, le secret reste au chaud (timing -> roadmap). Cf. Personnages/Yukiko.md.
 
 ## Nisha - relation
 Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a Nisha.
@@ -54,6 +55,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 ## Trajectoire datee (alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) : victoire de Kyoto au J1 - sa promo (Naoya, Yukiko, Ranta) plus Utahime et Mei Mei, 5v3 face aux prodiges de Tokyo | doctrine du formateur validee sur le terrain |
 | 2009-2013 (B1) | CUMULE le principalat de Kyoto et le poste de professeur de 3e annee, comme il l'avait fait pour la promo de Naoya. Utahime tient la 1re annee, Nisha la 2e des 2009 | double charge assumee ; pole conservateur tenu de bout en bout |
 | mars 2013 (B1) | Accepte la recommandation de Nisha et Utahime : recrute Mei Mei comme professeure de 3e annee, quitte a puiser dans les fonds de l'universite pour la retenir (cf. Personnages/Mei_Mei.md) | cede la 3e annee des avr 2013, garde le principalat |
 
