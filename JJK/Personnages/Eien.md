@@ -1,6 +1,6 @@
 # Eien
 
-- version : W9
+- version : W10
 
 OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokinesie). Moitie du couple architecte avec Kenjaku. Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -33,12 +33,13 @@ OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokin
 ## Mode operatoire (parasitisme et longevite)
 - [DIVERGENCE RP] Marque une femme enceinte -> s'implante dans le foetus -> le gorge d'energie occulte pour le rendre viable -> se revele "amie" a 4 ans -> rend l'enfant exceptionnel en lui conferant la Chronokinesie -> a 10 ans, ecrase la conscience de l'hote pour user du sort a pleine puissance.
 - [DIVERGENCE RP] PREPARATION DU CORPS : sur un hote prometteur, Eien n'attend pas passivement l'echeance des 10 ans - elle FORCE l'eveil du territoire interieur en micro-agressant son hote avec le sien. Un corps a domaine est un corps qui vaut la peine d'etre pris. Seul forcage connu au monde (cf. BIBLE SB1, regle des domaines) : agresser quelqu'un qui a DEJA apercu son territoire, avec un autre territoire - resultat non garanti.
-- Prefere habiter des membres discrets des trois grandes familles.
+- Prefere habiter des membres discrets des trois grandes familles. Instance documentee : la DOYENNE du clan Gojo a l'ere Genroku (nom du corps [INCERTAIN]) - l'anonymat du conseil Gojo est une couverture ideale pour son gout des membres discrets.
 - Hote a l'ere Meiji : Nanao Kamo, secretaire de Noritoshi Kamo. Sous cette identite, a porte l'un des foetus des Peintures Mortes : Choso (coconcu avec Kenjaku-dans-Noritoshi). Cf. Cosmogonie/Trois_Esprits.md.
 
 ## Role cosmogonique (avec Kenjaku)
 - [DIVERGENCE RP] Co-architecte des trois familles avec Kenjaku. Detail : cf. Cosmogonie/Trois_Esprits.md.
-- [DIVERGENCE RP] Deal avec Sukuna : aide a diviser / creer les 20 doigts (pas a les sceller - sceleurs canon = exorcistes ennemis) ; cale, par ses pouvoirs temporels, la date approximative du retour de Sukuna.
+- [DIVERGENCE RP] Deal avec Sukuna : aide a diviser / creer les 20 doigts (pas a les sceller - sceleurs canon = exorcistes ennemis) ; cale, par ses pouvoirs temporels, la date approximative du retour de Sukuna - calage affine en pistant le cycle de reincarnation de l'ame du jumeau devore (cf. Personnages/Sukuna.md).
+- [DIVERGENCE RP] LE NOEUD NOZOMU (ere Genroku) : doyenne Gojo en poste, elle decouvre le Guerrier Parfait de l'ere... en decouvrant le fleau qui vient d'en naitre - trop tard pour le vivant. La frustration du couple face a la rarete extreme du combo a desormais une DATE. Elle ARRETE l'attaque de Nozomu contre le clan (modalites : [non fixe]) et lui propose une place dans la Traque Meurtriere que le couple prepare - deja en chantier a Genroku. Kenjaku scelle. Detail : cf. Personnages/Nozomu.md.
 - [DIVERGENCE RP] Mille ans d'oeuvre commune (sceaux, vaisseaux, Peintures Mortes) : Eien RECONNAIT la signature de Kenjaku - un humain place ou scelle de sa main. Capacite atemporelle (instance datee : jubilation 2008 devant Tsumiki, cf. Trajectoire datee - ere B).
 
 ## Relation a Nisha (etat de base)
@@ -61,6 +62,7 @@ OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokin
 ## Notes de frontiere (hors de cette fiche)
 - Trahison, complots et denouement (a partir de 2015) : poses en Trajectoire datee a mesure que les arcs sont roadmappes (B2-B3 faits), puis Parties.
 - Mecanique fine de projection entre fors interieurs, timing des evenements : a border en roadmap.
+- Ce que le clan Gojo a vu et archive de la fin de l'attaque de Nozomu (le role de sa doyenne) : [INCERTAIN - non fixe], cf. Personnages/Nozomu.md.
 
 ---
 

@@ -1,6 +1,6 @@
 # Kenjaku
 
-- version : W9
+- version : W10
 
 Canon JJK + couche RP (origine Kamo, couple avec Eien). Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -25,12 +25,14 @@ Dans le monde, Kenjaku n'a d'autre apparence que celle de son vaisseau du moment
 
 ## Objectif
 - Faire evoluer l'humanite au moyen de l'energie occulte. Plan canon : fusion via Tengen (Merger), orchestration du Culling Game.
+- [DIVERGENCE RP] La Traque Meurtriere est un chantier SECULAIRE : le couple la prepare au moins depuis l'ere Genroku, recrutant et scellant ses incarnes au fil des eres. Recrue documentee : NOZOMU (cf. Realisations et Personnages/Nozomu.md).
 - [DIVERGENCE RP] Objectif soude a l'amour pour Eien : un monde ideal pour eux deux. Le curieux cosmique canon est preserve, l'amour greffe par-dessus.
 - [DIVERGENCE RP] Marionnettiste cache de le Culte Astral, la Confrerie du Receptacle Temporel (secte venerant Tengen) : il en tire les ficelles comme l'un de ses leviers vers le Merger. Operations datees liees a ce levier -> roadmap.
 
 ## Realisations (canon, relues par le RP)
 - Peintures Mortes : comme Noritoshi, sequestre une femme porteuse d'hybrides, mele le sang Kamo -> Choso, Eso, Kechizu. [DIVERGENCE RP] Choso coconcu avec Eien-dans-Nanao.
-- Yuji Itadori = projet : enfant concu avec Jin Itadori (le pere de Jin est le jumeau reincarne de Sukuna), un doigt de Sukuna scelle en lui a la naissance -> receptacle.
+- Yuji Itadori = projet : enfant concu avec Jin Itadori - JIN est le jumeau reincarne de Sukuna (canon, ch. 257, verifie en session ; conflit de versions SOLDE, cf. _Implications) - un doigt de Sukuna scelle en lui a la naissance -> receptacle. Yuji = fils de la reincarnation : le neveu d'ame de Sukuna.
+- [DIVERGENCE RP] SCELLEMENT DE NOZOMU (ere Genroku) : Eien (doyenne Gojo) arrete le fleau et negocie ; Kenjaku le scelle et GRAVE le sceau sur un humain - mecanisme des incarnes de la Traque (canon), porteur anonyme par convention. Sceau programme pour sauter en 2018. Detail : cf. Personnages/Nozomu.md.
 
 ## La Lisiere du Supplice
 [DIVERGENCE RP] sur l'origine (le canon en fait un objet maudit de grade special sans auteur).
@@ -57,6 +59,7 @@ Dans le monde, Kenjaku n'a d'autre apparence que celle de son vaisseau du moment
 - Evenements specifiques au RP (sceau de Satoru, denouement, mort de Kenjaku) : posterieurs au point de depart -> roadmap (Passe 2), puis Parties.
 - Continuite vers le futur culte qu'il reprendra une fois le corps de Geto investi : non datee a ce stade -> roadmap.
 - Yukiko face a la Lisiere (le pari perdu ou gagne) : ere C -> build ere C, cf. _Implications. (L'operation de 2006 via le Culte Astral, jadis annoncee ici, est desormais portee en Trajectoire datee.)
+- Descellement de Nozomu en 2018 (timing, mise en scene) : -> roadmap ere C.
 
 ---
 

@@ -1,6 +1,6 @@
 # Trois Esprits Vengeurs
 
-- version : W6
+- version : W7
 
 Page = cosmogonie fondatrice du RP (divergence racine). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB1.
 
@@ -11,10 +11,11 @@ Page = cosmogonie fondatrice du RP (divergence racine). Faits canon non balises 
 - Canon : Michizane est l'ancetre commun de Satoru Gojo et de Yuta Okkotsu (JJK 0). Le manga ne dit rien des familles de Masakado et Sutoku - vide comble ici.
 
 ## Mobile : le pacte avec Sukuna
-- [DIVERGENCE RP] Tout le projet du couple sert un pacte avec Sukuna : il veut un divertissement digne de lui et exige des siecles de dormance ; en echange, le couple lui prepare une nouvelle apogee de l'exorcisme a son reveil.
-- [DIVERGENCE RP] Le couple divise / cree les 20 doigts de Sukuna - il ne les scelle pas (les sceleurs sont des exorcistes ennemis, canon). Eien, par ses pouvoirs temporels, cale la date approximative du retour de Sukuna.
-- [DIVERGENCE RP] D'ou la forge : infiltrer et faconner les clans, selectionner le sang, creer les techniques des trois familles et les Peintures Mortes - pour que l'exorcisme atteigne un nouveau sommet face a un Sukuna ressuscite.
-- [DIVERGENCE RP] Et une lignee-receptacle discrete pour Sukuna : les Itadori (-> Yuji).
+- [DIVERGENCE RP] Sukuna PRECEDE l'oeuvre du couple : humain de l'ere Heian, ne d'une scission ancienne du tronc Masakado et d'un croisement du au pur hasard (cf. section Masakado). Le couple n'a aucune part a sa naissance ni a sa puissance : il rencontre le roi tout fait.
+- [DIVERGENCE RP] Le pacte : Sukuna veut un divertissement digne de lui et exige des siecles de dormance ; en echange, le couple lui prepare une nouvelle apogee de l'exorcisme a son reveil.
+- [DIVERGENCE RP] Le couple divise / cree les 20 doigts de Sukuna - il ne les scelle pas (les sceleurs sont des exorcistes ennemis, canon). Eien, par ses pouvoirs temporels, cale la date approximative du retour de Sukuna - calage AFFINE en pistant le cycle de reincarnation de l'ame du jumeau devore (cf. section Sutoku, lignee Itadori, et Personnages/Sukuna.md).
+- [DIVERGENCE RP] MOTEUR vs ECHEANCE : le pacte donne a la forge son echeance et sa finalite (l'apogee au reveil - infiltrer et faconner les clans, selectionner le sang, creer les techniques des trois familles et les Peintures Mortes, pour que l'exorcisme atteigne un nouveau sommet face a un Sukuna ressuscite), mais PAS son moteur. Les croisements ne sont pas nes du pacte : c'est la CURIOSITE D'ARCHITECTES du couple qui rend les clans impurs. Les lignees pures fonctionnent tout aussi bien que les croisees - et le plus grand miracle de croisement (Sukuna) est l'oeuvre du hasard, pas la leur. La forge selectionne, croise et greffe parce que le couple veut VOIR ; le pacte ne fait qu'orienter le resultat vers un sommet date.
+- [DIVERGENCE RP] Et une lignee-receptacle discrete pour Sukuna : les Itadori (-> Yuji ; double compatibilite corps + ame, cf. section Sutoku).
 
 ## Michizane - esprit de l'espace (clan Sugawara)
 - [DIVERGENCE RP] Don : l'Infini (manipulation de l'espace), porte d'abord en version brute par les Sugawara.
@@ -25,6 +26,7 @@ Page = cosmogonie fondatrice du RP (divergence racine). Faits canon non balises 
 ## Masakado - esprit du temps (clan Zenin)
 - [DIVERGENCE RP] Don : la Chronokinesie (modulation du temps). Les Masakado la portent ; Eien en est issue, bien avant l'ere Heian.
 - [DIVERGENCE RP] Chaine du temps : Chronokinesie ancestrale (Eien) -> Projection (lignee Naobito) -> Chronostase (Nisha). La Projection canon, en images par seconde, est lue ici comme une mutation temporelle de la Chronokinesie.
+- [DIVERGENCE RP] Scission ancienne du tronc : SUKUNA. Une lignee s'est detachee du tronc Masakado si tot que les archives Zenin n'en portent aucune trace - l'origine commune est inconnue du clan Zenin lui-meme (anteriorite exacte : [INCERTAIN], pre-Heian). De cette lignee nait a l'ere Heian, par pur hasard de croisement (apport Michizane par l'autre parent : l'espace), Ryomen Sukuna - le tranchant qui coupe l'espace, le jumeau devore in utero (les deux moities du pool gemellaire : 200 pourcent d'un etre normal), le futur Roi des Fleaux. Ni oeuvre du couple, ni dessein de clan : le hasard seul. Le savent : lui-meme et le couple [IMPLICITE]. Detail : cf. Personnages/Sukuna.md.
 - [DIVERGENCE RP] Greffe : le couple croise les Zenin avec un clan issu des Sugawara, porteur du sort inne de la reserve de l'ombre (Dix Ombres). Mute, renferme des shikigami scelles par des Zenin surpuissants (Heian a Meiji), dont Mahoraga. Plus personne ne saura le dompter ensuite. (Canon : Dix Ombres = sort herite des Zenin ; Mahoraga, shikigami jamais dompte.)
 
 ## Sutoku - esprit des liens (clan Kamo)
@@ -33,7 +35,7 @@ Page = cosmogonie fondatrice du RP (divergence racine). Faits canon non balises 
 - [DIVERGENCE RP] Kenjaku est issu de ce clan a l'origine : de la, sa maitrise des sceaux et le lien eternel developpe par parasitisme (transfert de cerveau).
 - [DIVERGENCE RP] Le couple essaime depuis ce clan une lignee mineure porteuse des Six Yeux, greffee ensuite sur les Gojo.
 - [DIVERGENCE RP] Experiences Meiji : les Peintures Mortes sont concues par Kenjaku-dans-Noritoshi. Le foetus de Choso est concu avec Eien-dans-Nanao (hote Kamo d'Eien a l'ere Meiji). (Canon : Peintures Mortes creees par Kenjaku dans le corps de Noritoshi Kamo ; Choso en est issu.)
-- [DIVERGENCE RP] Une branche Kamo douee pour s'adapter a tout hote est ISOLEE par Kenjaku - preservee, pas engendree - afin de garder le trait pur. Naissance du clan Itadori : receptacle pour Sukuna (-> Yuji), qui s'ignore etre un clan.
+- [DIVERGENCE RP] Une branche Kamo douee pour s'adapter a tout hote est ISOLEE par Kenjaku - preservee, pas engendree - afin de garder le trait pur. Naissance du clan Itadori : receptacle pour Sukuna (-> Yuji), qui s'ignore etre un clan. DOUBLE COMPATIBILITE : le CORPS (trait d'adaptation Kamo) + l'AME - l'ame du jumeau devore de Sukuna renait en JIN Itadori, au sein de la lignee (canon, ch. 257 ; aiguillage du couple ou coincidence saisie : [INCERTAIN]), et Kenjaku-dans-Kaori concoit YUJI avec la reincarnation : receptacle ideal par FILIATION directe. Eien piste le cycle de reincarnation par ses pouvoirs temporels (c'est ce qui affine le calage de la date du retour). Detail : cf. Personnages/Sukuna.md.
 
 ## Tengen - le quatrieme esprit (reste de chair)
 - [DIVERGENCE RP] Tengen n'appartient PAS a la structure des trois onryo : c'est un QUATRIEME esprit vengeur, independant, et reste de CHAIR (jamais devenu pur fleau desincarne - son Immortalite le garde corporel). Il ascende APRES les trois onryo (l'exorcisme existait deja).
