@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W27
+- version : W28
 
 ## WIKI
 
@@ -101,11 +101,13 @@ Enseignement personnalise (une page par promotion a casting fiche ; ne couvre qu
 - Perso_Tokyo_2017-2020.md (W1) - Maki, Panda, Toge, Yuta ; 1re annee sous Satoru (2017-2018).
 - Perso_Tokyo_2018-2021.md (W1) - Megumi, seul 1re annee d'avril 2018 sous Satoru ; Yuji et Nobara a l'ere C (page a relivrer).
 
-> ROADMAPS NON INDEXEES EN JEU (v8.2). Dossier Roadmap/Nisha/ amorce (Passe 2 en cours) : trame_B (W5, vue d'ensemble ere B), Roadmap_A0 (W5, prologue 1987-2005), Roadmap_A1 (W4, Le Transfert, 2005-2006), Roadmap_A2 (2006-2008), Roadmap_B1 (Fonder, 2008 -> mars 2013), Roadmap_B2 (Le trauma, 2013-2015). Roadmap_B3 a venir (jalons poses, detail au prochain thread). Roadmaps Yukiko a venir (thread dedie, structure actee A0/A1/A2). Les roadmaps restent hors de cet index - sources de build seulement, jamais fetchees en narration.
+> ROADMAPS NON INDEXEES EN JEU (v8.2). Dossier Roadmap/Nisha/ amorce (Passe 2 en cours) : trame_B (W5, vue d'ensemble ere B), Roadmap_A0 (W5, prologue 1987-2005), Roadmap_A1 (W4, Le Transfert, 2005-2006), Roadmap_A2 (2006-2008), Roadmap_B1 (Fonder, 2008 -> mars 2013), Roadmap_B2 (Le trauma, 2013-2015). Roadmap_B3 a venir (jalons poses, detail au prochain thread). Dossier Roadmap/Yukiko/ amorce : trame_A_B (W1, garde-cap eres A et B, avr 2005 -> juin 2018) ; decoupage PROPOSE : A1/A2 + B1/B2/B3, SANS roadmap A0 (enfance portee par la fiche) - en attente de validation, remplacerait la mention anterieure "structure actee A0/A1/A2" [ECART A ARBITRER par le worldbuilder]. Roadmaps Yukiko a ecrire apres arbitrage. Les roadmaps restent hors de cet index - sources de build seulement, jamais fetchees en narration.
 
 > RESUME NON INDEXE (B15). `Resume.md` (a la racine JJK/, W1) : resume AUTOSUFFISANT de l'univers et de son histoire jusqu'a juin 2018, concu pour exporter le monde vers un projet qui n'a pas la BIBLE. Volontairement HORS de cet index, meme doctrine que Roadmap/ et Memoires/ : il porte le futur de toute partie qui demarre en 2005, donc un MJ qui le fetcherait en narration prefigurerait en prose. Acces par listing direct de JJK/.
 
 > JOURNAL DE CONCEPTION. _Implications.md (a la racine JJK/, W30) : document de travail des passes en spirale, jamais fetche en narration.
+
+> CHANTIER DE PASSE (2026-08). _Chantier_Passe2_EresCD.md (Roadmap/, W1) : capture de session Passe 2 Nisha x Yukiko - eres A/B Yukiko validees, deroules valides des eres C et D, Serment de Saitama, registre de retcons S8 (touche trame_B, BIBLE SB5/SB7/SB8, fiches) A APPLIQUER EN BLOC au prochain BIBLE BUILD, questions ouvertes dont l'OC fleau (analyse en S9.1). Meme regime que _Implications : document de travail, jamais fetche en narration.
 
 ## PARTIES (Partie1)
 
