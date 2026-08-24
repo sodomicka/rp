@@ -1,8 +1,8 @@
 # Yukiko Kamo
 
-- version : W2
+- version : W3
 
-Fiche NOYAU (OC, niveau fandom). Etat atemporel / point de depart (1 avr 2005). Couche RP entierement [DIVERGENCE RP] (OC sans equivalent canon) : balise portee une fois ici, non repetee ligne a ligne. Plot post-depart -> roadmaps Yukiko (a ecrire) ; devenir -> Trajectoire datee en bas de page. Resume condense en BIBLE SB5 (prochain build).
+Fiche NOYAU (OC, niveau fandom). Etat atemporel / point de depart (1 avr 2005). Couche RP entierement [DIVERGENCE RP] (OC sans equivalent canon) : balise portee une fois ici, non repetee ligne a ligne. Plot post-depart -> roadmaps Yukiko (a ecrire) ; devenir -> Trajectoire datee en bas de page. Resume condense en BIBLE SB5.
 
 ## Identite
 - Nom : Yukiko Kamo. Fille unique et legitime de Noriaki Kamo, chef du clan Kamo, et de Fubuki (profane, epouse).
@@ -144,7 +144,10 @@ Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 (p
 |---|---|---|
 | debut sept 2005 (A1_3) | Tournoi des Universites Jumelees, hote Kyoto, equipe de Kyoto (5v3). J1 : son piege prend Satoru, qui le dejoue a temps malgre le vampirisme du Dragon une fois dedans et l'assomme une fois sorti ; soignee par Shoko (simple soin). J2 : vengeance (Nisha a violente son Utahime au J1) - elle feinte Nisha, la coince dans un rideau quasi parfait (meme selon Satoru), la ressort presque videe, pose le fil du tanto contre la gorge de la numero 1 mondiale. Victoire. Aucune tension ensuite : dissipation par la discussion avant le depart de Tokyo. | premiere mise hors jeu (J1) et premiere victoire publique (J2) ; facade preservee (sort presente comme trop conditionnel, coup de chance) ; le cercle qui sait s'elargit au quatuor de Tokyo - Satoru lit le Dragon et le classe secret de clan ; Nisha sait desormais exactement ce que vaut la vipere |
 | 2006 (Nori 9 ans ; jalon fixe par decision, mois -> roadmap Yukiko) | Nori sait tracer Lucky 7 lui-meme, par coeur - initiative du petit genie : il se surpasse pour que sa soeur aille a la fac sans crainte. | les nuits sans elle ne sont plus des nuits sans Lucky 7 ; les nuits hors du domaine deviennent possibles |
-| 2013 (ere B, B1 ; cf. _Implications) | Gakuganji lui offre la chaire de 3e annee de Kyoto. Elle n'accepte qu'a une condition : seulement l'annee ou Nori sera en 3e annee (2018-2019). Nisha ricane et lui repond qu'elle trouvera une prof qui ne fera pas un favoritisme aussi extreme - ce sera Mei Mei (cf. Factions/Universite_Kyoto.md, Personnages/Mei_Mei.md). Yukiko ne sera jamais prof. | hors du corps enseignant, par condition refusee |
+| debut 2013 (ere B, B1 ; cf. _Implications) | Gakuganji lui offre la chaire de 3e annee de Kyoto. Elle n'accepte qu'a une condition : seulement l'annee ou Nori sera en 3e annee (2018-2019). Nisha ricane et lui repond qu'elle trouvera une prof qui ne fera pas un favoritisme aussi extreme - ce sera Mei Mei (cf. Factions/Universite_Kyoto.md, Personnages/Mei_Mei.md). Yukiko ne sera jamais prof. | hors du corps enseignant, par condition refusee |
+| mars 2013 (B1) | RESTO A QUATRE (Utahime + Nisha + Yukiko + Mei Mei, Ui Ui et Nori en accompagnants) : kyotoite, elle connait Mei Mei mieux que Nisha ; l'idee Mei Mei emerge de la discussion a trois - Yukiko n'a pour argument que la promo de son frere et se fout du reste. Mei Mei prend la 3e annee | la chaire trouve preneuse sans elle |
+| 2015 (B2) | Noces de Nisha et Satoru : presente avec Nori et Utahime - la copine d'une collegue, invitee en amie, PAS en princesse Kamo (les emissaires Kamo presents relevent de la diplomatie, pas eux) | -- |
+| 24 dec 2017 (B3) | NUIT DES CENT FLEAUX, cote Kyoto : confiance dans la promo de Nori (leader de ses 2es annees malgre l'ingerence de Todo, confies a Mei Mei au combat) ; elle gere A ELLE SEULE les rideaux de Kyoto - contention de la zone et DISSIMULATION du massacre des maitres des fleaux par les Zenin | fait d'armes invisible ; facade Grade 2 intacte |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Editions des repas claniques jouees, evolution de l'amitie avec les jumeaux, vie de promo a Kyoto -> Roadmap_A0 / roadmaps Yukiko.

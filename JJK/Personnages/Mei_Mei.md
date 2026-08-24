@@ -1,6 +1,6 @@
 # Mei Mei
 
-- version : W8
+- version : W9
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -36,7 +36,7 @@ Un exorciste = un sort inne en regle generale (canon).
 - Sort inne : Transfert Spatial (Spatial Transference, innomme longtemps - canon). Teleporte lui-meme et d'autres sur de grandes distances (medium : un drap dont il se couvre) ; tard dans le canon, deplace aussi des AMES. Active par un voeu contraignant lie a son service de Mei Mei. Maitrise par ailleurs le Domaine Simple (New Shadow Style). Le deplacement d'ames et le Domaine Simple sont des capacites canon ADULTES (montrees a Shibuya 2018) -> hors B1, ere C.
 - [DIVERGENCE RP] Statut : HORS cursus universitaire, JAMAIS eleve. Assistant attitre de sa soeur, en classe comme ailleurs - elle l'emmene partout. En cours, il s'assied toujours SUR une table au fond de la salle et regarde Mei Mei enseigner a des 3e annee (exorcistes quasi-confirmes).
 - [DIVERGENCE RP] B1 : son Transfert Spatial est encore aux BALBUTIEMENTS (enfant) ; Mei Mei l'entraine hors des cours pour affiner son talent. La synergie soeur/frere (sa teleportation mise au service des operations de Mei Mei) ne devient pleinement exploitable et complete qu'en 2017 (pointeur ; detail -> roadmaps ere B / ere C).
-- [DIVERGENCE RP] mars 2013 (7 ans) : debarque a Kyoto avec elle des son recrutement. Au resto Utahime/Nisha/Mei Mei, gamin silencieux colle a sa soeur, qui ECOUTE tout pendant que les trois plus grandes exorcistes de Kyoto parlent argent et pedagogie.
+- [DIVERGENCE RP] mars 2013 (7 ans) : debarque a Kyoto avec elle des son recrutement. Au resto a quatre (Utahime/Nisha/Yukiko/Mei Mei), gamin silencieux colle a sa soeur, aux cotes de Noritoshi (15 ans), qui ECOUTE tout pendant que les trois plus grandes exorcistes de Kyoto et la princesse Kamo parlent argent et pedagogie.
 - Pas de fiche propre : tertiaire rattache (decision worldbuilder).
 
 ## Nisha - relation
@@ -62,7 +62,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) J1 : eliminee par Gojo ; J2 : entre pour l'affiche gagnable (la brute veut une chance de victoire), perd vs Geto | -- |
-| mars 2013 (B1) | Resto avec Utahime et Nisha : a elles deux, elles la convainquent de prendre la 3e annee a Kyoto (perfectionnement, dernier maillon du cycle) - chaire d'abord offerte par Gakuganji a Yukiko Kamo, qui n'en voulait que pour l'annee de son frere (2018-2019) ; Nisha a ricane : pas de favoritisme pareil (cf. Personnages/Yukiko.md) -> devient la prof d'Akari Nitta en 2013-2014 | de freelance mercenaire a professeure de 3e annee a Kyoto ; cycle d'enseignement complete |
+| mars 2013 (B1) | Resto A QUATRE avec Utahime, Nisha et Yukiko (Ui Ui et Noritoshi en accompagnants) : l'idee emerge de la discussion a trois - Yukiko, kyotoite, la connait mieux que Nisha mais n'a pour argument que la promo de son frere ; les deux profs la convainquent de prendre la 3e annee a Kyoto (perfectionnement, dernier maillon du cycle). Chaire d'abord offerte par Gakuganji a Yukiko, qui n'en voulait que pour l'annee de son frere (2018-2019) ; Nisha a ricane : pas de favoritisme pareil (cf. Personnages/Yukiko.md) -> devient la prof d'Akari Nitta en 2013-2014 | de freelance mercenaire a professeure de 3e annee a Kyoto ; cycle d'enseignement complete |
 | 24 dec 2017 (B3_4) | Nuit des Cent Fleaux : Nisha lui CONFIE ses 2e annees (Todo, Noritoshi, Momo) - elle les encadre au combat dans la vieille ville (Momo en oeil aerien decisif) | commandante de terrain des cadets ; confiance de Nisha honoree |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)

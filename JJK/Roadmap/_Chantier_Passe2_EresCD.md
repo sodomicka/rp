@@ -2,6 +2,7 @@
 # Capture de session (build 2026-08-24)
 
 ## S0 Statut du document
+- version : W2 (annotations du BIBLE BUILD B18, 2026-08-24 : registre S8 applique, S9.1/S10.1/S10.5 soldes - session Nozomu et build)
 - Nature : document de TRAVAIL (meme regime que _Implications.md). Source d'integration pour les roadmaps, les fiches et la BIBLE. Jamais fetche en narration. Non indexe au Sommaire.
 - Emplacement propose : JJK/Roadmap/_Chantier_Passe2_EresCD.md
 - Toutes les decisions ci-dessous sont VALIDEES par le worldbuilder sauf mention [NON TRANCHE], [PROPOSE], [IMPLICITE] ou [INTERPRETATION].
@@ -12,7 +13,7 @@
 - Deux RP distincts, PAS un RP alternant : on vit a travers UNE des deux protagonistes ; chacune est une PNJ dans la vie de l'autre.
 - Nisha = la plus proche du canon, entreprenante, sort de ses intrigues de clan vers le grand monde des exorcistes. Yukiko = vit pour le clan et pour son petit frere.
 - Les deux ont des roles majeurs. Pas d'autre personnage jouable prevu (a priori).
-- Retcon ASSUME : principe de la spirale pousse a l'extreme (2e prota parallele au premier). Registre des retcons en S8 ; rien n'est applique aux fichiers sans validation groupee.
+- Amendement de spirale ASSUME : principe de la spirale pousse a l'extreme (2e prota parallele au premier). Registre des amendements en S8 ; applique en bloc au BIBLE BUILD B18 (2026-08-24).
 - Routage pressenti : Parties/JJK/Partie2/ pour le RP Yukiko [IMPLICITE - a confirmer].
 
 ## S2 Ere A - Yukiko (valide)
@@ -27,7 +28,7 @@
 - Utahime : refuge de douceur pour eux deux, en parallele du clan.
 - Postes (lapsus "Tokyo" corrige) : Utahime 1res annees a KYOTO, Nisha les 2es.
 - Debut 2013 : les 3es annees sont proposees a Yukiko (par Gakuganji [IMPLICITE]) ; elle ne demande que la promo de son frere (une seule annee) ; Nisha refuse ce format ("Mei Mei est achetable mais fiable au moins").
-- RETCON resto mars 2013 : a QUATRE (Utahime + Nisha + Yukiko + Mei Mei), accompagnees de Ui Ui et Nori. Yukiko etait a Kyoto : connait Mei Mei mieux que Nisha ; l'idee Mei Mei emerge de la discussion a trois (Utahime + Nisha + Yukiko). Yukiko n'a pour argument que la promo de son frere, se fout du reste.
+- AMENDEMENT resto mars 2013 : a QUATRE (Utahime + Nisha + Yukiko + Mei Mei), accompagnees de Ui Ui et Nori. Yukiko etait a Kyoto : connait Mei Mei mieux que Nisha ; l'idee Mei Mei emerge de la discussion a trois (Utahime + Nisha + Yukiko). Yukiko n'a pour argument que la promo de son frere, se fout du reste.
 - Avr 2016 : Nori entre en 1re annee (classe d'Utahime). Yukiko spectatrice dans la classe de sa propre copine, sous pretexte d'etre la gardienne du futur Patriarche.
 - 2017 : Nori en 2e annee chez Nisha ; les deux amies se retrouvent.
 - Parade de Geto (24 dec 2017) : Yukiko fait confiance aux camarades de Nori (leader de sa promo malgre l'ingerence de Todo ; 2es annees sous Mei Mei) ; elle gere A ELLE SEULE les rideaux de Kyoto, contient et dissimule le massacre des Zenin sur les maitres des fleaux. Reste de l'annee calme.
@@ -118,7 +119,7 @@ Squelette temporel (nov-dec 2018) :
 - Fin canon (pour memoire du build) : Gojo libere par l'Ange, tue par Sukuna le 24 dec 2018 a Shinjuku (ch. 236) ; Kenjaku decapite par Yuta apres le duel Takaba ; Yuta se greffe 5 min dans le corps de Gojo ; Yuji (Rayons Noirs d'ame + sang Kamo via Kaori Itadori) atteint Megumi qui reprend le controle ; Sukuna expulse refuse la coexistence et se dissout, Uraume avec lui ; Nobara revient ; Merger annule par les regles. RIEN de tout cela n'est acquis chez nous au-dela de ce que S5/S6 actent.
 - Gege / "meilleure fin" : le "bacle" est confirme par l'auteur (maladie grave en fin de serialisation, message d'adieu sur son "immaturite", regret du systeme de points sous-exploite) ; la "haine de Satoru" est du meme fandom, non source. La "vraie fin" = JJK Modulo (suite, 2086, deja hors-perimetre en SB8) : resolution du probleme des fleaux par retrait quasi total de l'energie occulte des ames du Japon - valide en creux la centralite du Tchekhov "la bonne question" (les deux voies de Yuki). Modulo ne ressuscite pas Gojo dans la timeline d'origine.
 
-## S8 Registre des retcons et amendements (a appliquer aux fichiers a l'integration, en bloc, apres validation groupee)
+## S8 Registre des amendements de spirale - APPLIQUE au BIBLE BUILD B18 (2026-08-24) : items 1-17 executes ; item 18 DIFFERE aux roadmaps C/D (trajectoires alimentees a chaud, fiches nouvelles en boucle serree)
 1. trame_B (B1, mars 2013) : resto a 3 -> a 4 + accompagnants (Ui Ui, Nori). Fiches Mei_Mei et Universite_Kyoto : la reco emerge de la discussion a trois (Utahime + Nisha + Yukiko).
 2. trame_B (B2, 2015) : noces - presence privee de Yukiko, Nori, Utahime (distincte des emissaires Kamo diplomatiques).
 3. trame_B (B3_4, Parade 2017) : ajout du role de Yukiko (rideaux de Kyoto en solo, contention + dissimulation du massacre).
@@ -136,12 +137,12 @@ Squelette temporel (nov-dec 2018) :
 15. Graines ere C SB8, etat final : Naobito/Jogo JOUEE ; massacre par Maki REMPLACE et JOUE (coup d'Etat) ; mort de Naoya SUPPRIMEE et respectee ; execution de Yaga TRANCHEE (vivant, demonstration).
 16. Nouveau Tchekhov a porter en SB8 : T-Assurance-Tsumiki (cf. D7).
 17. Nouveaux artefacts/objets a porter : le rideau de Takatsuki (Lisiere-lite a signature gemellaire, oeuvre de Kenjaku) ; le rideau du palais (contre-piege a la signature de Kenjaku, oeuvre de Yukiko).
-18. SB5 : trajectoires datees a alimenter a l'integration (Yukiko, Noritoshi, Choso, Megumi, Tsumiki, Maki, Mai, Ranta, Mei Mei, Utahime, Mechamaru, Nobara [fiche a creer ?], Uraume [fiche a creer], Higuruma [fiche a creer], Tsukumo [mort au palais], Eien [destin final], Yasashiku, Noriaki [morts], Hakari, Yuji, Yuta...).
+18. SB5 : trajectoires datees a alimenter a l'integration (Yukiko, Noritoshi, Choso, Megumi, Tsumiki, Maki, Mai, Ranta, Mei Mei, Utahime, Mechamaru, Nobara [fiche a creer ?], Uraume [fiche a creer], Higuruma [fiche a creer], Tsukumo [mort au palais], Eien [destin final], Yasashiku, Noriaki [morts], Hakari, Yuji, Yuta...) ; + Takaba [fiche a prevoir - ajout posterieur, session bataille finale : son emploi canon meurt avec Kenjaku, emploi neuf a definir].
 
 ## S9 Questions ouvertes (prochaines discussions)
-1. OC FLEAU - decision de principe NON PRISE. Analyse posee : (a) pour - asymetrie de casting (chaque camp a son OC ; camp fleau orphelin : Kenjaku mort, Eien coquille) ; (b) contre - le pacte de la forge promettait a Sukuna "une nouvelle apogee de l'exorcisme a son reveil" : le roster aberrant EST la livraison du pacte, un roi seul face a l'apogee promise. Si OC : piste recommandee = INCARNE du Culling Game, ame de l'ere Heian (ere de Sukuna = terrain vierge du wiki, ancrage naturel Uraume, graines plantables retroactivement dans les roadmaps non figees - retcon quasi nul). Option onryo primordial DECONSEILLEE (rouvre la cosmogonie a la ligne d'arrivee). Vaccin anti-Kubo : un personnage est integre quand le passe le connaissait deja. PROCHAIN TOUR : 2-3 silhouettes au stand de tir (rapport a Sukuna, raison d'etre a Heian, point d'insertion).
-2. Menagerie de Kenjaku (les milliers de fleaux absorbes de Geto) : morts avec le cerveau au palais, ou relaches ? Porte a fermer, ou menace gratuite sans OC. [NON TRANCHE]
-3. Modalite de la protection Tsumiki (pres de Sukuna / surveillee de loin). [NON TRANCHE]
+1. OC FLEAU - SOLDE (session Nozomu, 2026-08-24) : decision de principe PRISE, l'OC du camp fleau existe - NOZOMU (cf. Personnages/Nozomu.md et journal _Implications). La piste recommandee d'origine (incarne du Culling Game, ame Heian) est SUPERSEDEE par le mecanisme de la MARQUE dediee (ancrage Uraume conserve ; ere Genroku au lieu de Heian). Analyse d'origine, pour memoire : (a) pour - asymetrie de casting (chaque camp a son OC) ; (b) contre - le roster aberrant EST la livraison du pacte, un roi seul face a l'apogee promise ; option onryo primordial DECONSEILLEE (non retenue). Vaccin anti-Kubo respecte : le passe le connaissait deja (Genroku).
+2. Menagerie de Kenjaku (les milliers de fleaux absorbes de Geto) : morts avec le cerveau au palais, ou relaches ? [NON TRANCHE] NB build B18 : le cadrage d'origine ("menace gratuite sans OC") est perime dans sa lettre - un OC fleau existe desormais (Nozomu) ; a relire a l'arbitrage.
+3. Modalite de la protection Tsumiki (pres de Sukuna / surveillee de loin). [NON TRANCHE] NB : semble TRANCHE par la formule worldbuilder "sous la garde directe de Sukuna" (garde rapprochee, cf. journal, entree Marque de Nozomu) - A CONFIRMER.
 4. Source de la signature gemellaire pour le rideau de Takatsuki. [PROPOSE : Eien ; NON TRANCHE]
 5. Sort de Satoru post-liberation / issue du duel final contre le corps de Megumi. [OUVERT, decision worldbuilder]
 6. Roster interieur du rideau du palais (qui exactement combat Kenjaku). [A PRECISER a la roadmap]
@@ -150,14 +151,14 @@ Squelette temporel (nov-dec 2018) :
 9. Edition d'amicale du retour de Yuji (ere C) : a dater (canon a verifier au build).
 10. Routage : Parties/JJK/Partie2/ pour le RP Yukiko. [IMPLICITE - a confirmer]
 11. Detonations restantes non adressees : T-Okaruto (condition toujours [INCERTAIN]), collier de Nisha (reappro annuelle en ere C/D ?), T-Ames (statut final a reporter en SB8).
-12. Structure des roadmaps Yukiko : garde-cap/trame + decoupage en arcs - A POSER une fois l'OC tranche (prochaine etape de la passe 2).
+12. Structure des roadmaps Yukiko : garde-cap/trame + decoupage en arcs - DEBLOQUE (l'OC est tranche : Nozomu) ; decoupage propose en attente d'arbitrage (cf. note Sommaire, [ECART A ARBITRER]).
 
 ## S10 Prochaines etapes (feuille de route)
-1. Discussion OC fleau (silhouettes au stand de tir) -> decision de principe.
+1. SOLDE - OC fleau tranche (session Nozomu : cf. S9.1).
 2. Trancher les questions S9.
 3. Poser la structure : trame/garde-cap Yukiko + decoupage en arcs des deux protas pour C/D (et bornage des arcs B cote Yukiko).
 4. Boucle serree par roadmap (grandes lignes -> confrontation -> fiches a chaud -> peaufinage), arc par arc.
-5. Application groupee du registre S8 (trame_B, BIBLE, fiches) au prochain BIBLE BUILD.
+5. SOLDE - registre S8 applique au BIBLE BUILD B18 (items 1-17 ; item 18 differe aux roadmaps).
 6. Relecture croisee de cloture de passe 2.
 
 ---

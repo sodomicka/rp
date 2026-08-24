@@ -1,6 +1,6 @@
 # Utahime Iori
 
-- version : W8
+- version : W9
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -55,7 +55,8 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | sept 2005 | Tournoi des Universites Jumelees (hote Kyoto). Avant l'epreuve : taquineries avec Satoru, sous les yeux de Nisha. J1 : DEMONTEE par Nisha, parfum de jalousie (soignee par Shoko) ; J2 : se desiste avec Ranta (supports face a des prodiges) - et Yukiko la venge en battant Nisha en duel | prise entre deux feux : demontee par une louve jalouse, vengee par la vipere ; origine du malentendu-rivalite cote Nisha |
-| mars 2013 (B1) | Resto avec Nisha et Mei Mei : a deux, elles convainquent Mei Mei de prendre la 3e annee a Kyoto ; le cycle a trois maillons (Utahime 1e, Nisha 2e, Mei Mei 3e) est enfin complet | -- |
+| mars 2013 (B1) | Resto A QUATRE avec Nisha, Yukiko et Mei Mei (Ui Ui et Noritoshi en accompagnants) : l'idee emerge de la discussion a trois, et avec Nisha elle convainc Mei Mei de prendre la 3e annee a Kyoto ; le cycle a trois maillons (Utahime 1e, Nisha 2e, Mei Mei 3e) est enfin complet | -- |
+| 2015 (B2) | Noces de Nisha et Satoru : invitee en amie, aux cotes de Yukiko et Nori - la copine d'une collegue, hors du ballet diplomatique des emissaires Kamo | -- |
 | avr 2017 (B3) | LA RELEVE : premiere vraie classe de l'ere - 1re annee 2017-2018 : Mai Zenin, Kasumi Miwa, Kokichi Muta (Mechamaru), promo 2017-2020 | classes pleines a nouveau |
 | 24 dec 2017 (B3_4) | Nuit des Cent Fleaux : garde les 1res annees en securite a l'universite pendant que Nisha, le clan Zenin et Gakuganji tiennent la vieille ville | rempart des cadets ; aucun mort de l'universite |
 
