@@ -1,10 +1,10 @@
 # trame_A_B - Yukiko (vue d'ensemble eres A et B)
 
 - statut : trame d'orientation (oriente les roadmaps A1/A2/B1/B2/B3 de Yukiko, ne les remplace pas)
-- version : W1
+- version : W2
 - perimetre : avr 2005 (entree a l'universite de Kyoto) -> juin 2018 (seuil ere C, aligne sur trame_B de Nisha)
 - POV : Yukiko
-- A0 (1986-2005) : PAS de roadmap dediee [PROPOSE] - la fiche perso porte tout (chrono noyau, repas claniques, vide/eveil). Si un one-shot vise l'enfance : fiche + Roadmap_A0 de Nisha suffisent.
+- A0 (1986-2005) : Roadmap_A0 DEDIEE (Roadmap/Yukiko/Roadmap_A0.md) - prologue narre passif a issue figee, gabarit miroir de l'A0 de Nisha, etapes YA0_1 -> YA0_7. [Decision worldbuilder : revoque le PROPOSE initial "pas de roadmap dediee" - une intro merite une roadmap.]
 - Coordination : chacune est PNJ dans la vie de l'autre - chaque jalon partage renvoie a la roadmap Nisha correspondante ; la boucle serree reconcilie.
 
 ## Cadre

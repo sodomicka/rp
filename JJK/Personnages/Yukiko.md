@@ -1,6 +1,6 @@
 # Yukiko Kamo
 
-- version : W3
+- version : W6
 
 Fiche NOYAU (OC, niveau fandom). Etat atemporel / point de depart (1 avr 2005). Couche RP entierement [DIVERGENCE RP] (OC sans equivalent canon) : balise portee une fois ici, non repetee ligne a ligne. Plot post-depart -> roadmaps Yukiko (a ecrire) ; devenir -> Trajectoire datee en bas de page. Resume condense en BIBLE SB5.
 
@@ -35,7 +35,7 @@ Mutation tres proche de l'Hemokinesie pure du clan (don ancestral Sutoku/liens).
 - PIEGES DORMANTS : elle trace en 80/20, puis BOUCLE en 99/1 - juste de quoi mouvoir le sang, pas de quoi monter un rideau. Le trace de sang reste au sol, a 1 % d'energie : quasi indetectable. Texture visqueuse de blob qui empeche le sol de l'assecher. Tient jusqu'a 5 heures en dormance. Portee : elle doit rester dans un rayon de 3,46 km. Activation : automatique des qu'une energie occulte touche le trace (l'information lui parvient instantanement), ou a sa volonte - elle transmute le sang en energie et le rideau monte, instantanement.
 - LE DRAGON, dit "le vampire" (ancre fractale secrete du clan, cf. Factions/Clan_Kamo.md et Pedagogie/Detection_Contention_2eAnnee_S1.md) : elle est LE record du clan. En 1998, a 12 ans, elle porte le maintien d'un Dragon d'ordre 9 a 5 minutes (~39 % de l'energie de l'occupant ponctionnee par minute ; il lui en reste ~9 % au bout des 5 minutes). Le clan garde le flou sur sa prodige et generalise l'exploit a "les meilleurs Kamo" - et elle est la premiere a vouloir ce flou (cf. Psychologie).
 - Rideau ENTREMELE (fait de prodige, hors programme) : elle renforce son Dragon d'autres motifs entremeles pour le rendre incassable.
-- LUCKY 7 : son rideau de nuit. Koch d'ordre 7 (l'eponge, ~87 % de l'energie recue absorbee) et Gosper d'ordre 7 (le mur, la matiere bloquee), ENTREMELES en une seule couche. Elle le trace chaque nuit passee au domaine, autour d'elle ET autour de Noritoshi. Absente, elle mandate un membre du clan pour le faire - qui ne sait pas entremeler (fait de prodige) et pose donc un multicouche Koch 7 / Gosper 7 : la protection de Nori est moindre les nuits sans elle - jusqu'a ce que Nori sache le tracer lui-meme, a 9 ans (-> Trajectoire datee).
+- LUCKY 7 : son rideau de nuit. Koch d'ordre 7 (l'eponge, ~87 % de l'energie recue absorbee) et Gosper d'ordre 7 (le mur, la matiere bloquee), ENTREMELES en une seule couche. Elle le trace chaque nuit passee au domaine, autour d'elle ET autour de Noritoshi - rituel NE a la naissance de Nori (5 juin 1997, premier trace autour du berceau) : avant lui, la trappeuse s'en moquait, la paranoia est nee pour lui. Absente, elle mandate un membre du clan pour le faire - qui ne sait pas entremeler (fait de prodige) et pose donc un multicouche Koch 7 / Gosper 7 : la protection de Nori est moindre les nuits sans elle - jusqu'a ce que Nori sache le tracer lui-meme, a 9 ans (-> Trajectoire datee).
 
 ### Modus operandi
 Trappeuse, pas guerriere. Dragon d'ordre 12 tenu 3 minutes avec Chi no Meiyo plante en pont (~74 % par minute : il reste ~1,7 % de l'energie de la cible au bout des 3 minutes), renforce par d'autres rideaux entremeles ; puis elle acheve la cible au tanto, une fois a bout de souffle. Elle se voit comme une assistante manager premium, une conseillere et une poseuse de pieges - le terme est le sien, pas la filiere (elle est combattante inscrite en filiere exorciste).
@@ -96,7 +96,7 @@ Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 (p
 - 29 fev 2000 (13 ans) : ce n'est plus la meme. Le masque cache desormais la ruse, et la Yukiko dessous n'est plus un vide : elle voit en eux des allies pour l'avenir des clans, voire des amis - et TOMBE le masque pour eux, leur revele que Nori est tout ce qui importe au monde pour elle. Les jumeaux voient le changement ; autre clan, mieux a faire que d'investiguer.
 - L'asymetrie : cote jumeaux, amis depuis 1992 ; cote Yukiko, reel a partir de 2000. Mais 1992 et 1996, inertes sur le moment, sont retroactivement sa seule archive d'un traitement de PERSONNE : les seuls a ne pas l'avoir traitee en deesse. Symetrie inverse : le vide ne juge pas - elle est la seule, dans toute l'enfance des jumeaux, a leur avoir souri et parle sans jugement (Ranta etant de la devotion aveugle, guere mieux) : leur seule relation qui ne soit ni jugement ni devotion.
 - A Kyoto (promo 2005-2008) : TRIO SOUDE, Naoya en leader, avec Ranta. Complicite intellectuelle, etudiante - elle ne comble aucune des deux codependances (Naoya a ses appels du soir et ses week-ends avec Nisha ; Yukiko rentre au domaine des qu'elle peut) : seule la moitie comble.
-- Editions jouees -> Roadmap_A0 (une au moins) et roadmaps Yukiko (deux ou trois).
+- Editions rendues : les quatre en Roadmap/Yukiko/Roadmap_A0.md (YA0_2/3/6/7) ; cote Nisha, 2000 et 2004 en vignettes dediees, 1992 et 1996 en texture (Roadmap/Nisha/Roadmap_A0.md).
 - Nisha : la louve et la vipere. La seule femme que Nisha voit comme consciente de sa place ; elles s'entendent a merveille. Etat 2005 : amies.
 - Naoya : meme promo a Kyoto (2005-2008), ainsi que Ranta. Alliance tacite entre heritiers.
 
@@ -126,17 +126,17 @@ Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 (p
 | Date | Jalon |
 |---|---|
 | 14 juin 1986 | Naissance. Seule enfant legitime de Noriaki et Fubuki. Princesse Kamo ; acces aux archives des l'origine. |
-| 29 fev 1988 | Repas clanique Kamo/Zenin : trop jeune (1 an et demi). |
+| 29 fev 1988 | Repas clanique Kamo/Zenin : trop jeune pour parler ou se souvenir - un bebe, portee par Fubuki tout au long. |
 | 1990 (4 ans) | Eveil de l'Hemotropie. Mutation proche du pur -> future Matriarche, faute de sang plus pur. Traitement en deesse vivante : le culte commence a creuser le vide. |
 | nouvel an 1992 (5 ans) | Mort de Fubuki (empoisonnement, reception d'accueil des concubines - dont Yasashiku). Ne pleure pas : il ne reste deja rien a l'interieur. |
 | jan-fev 1992 | Les deux viperes se flairent dans le mois ; regard entendu pour tout pacte. Yukiko porte le secret et n'en fait rien (detachement du vide). |
 | 29 fev 1992 | Repas clanique : rencontre les jumeaux Zenin (5 ans, comme elle). Masque en deuil feint ; les jumeaux sont LEURRES (malentendu fondateur de l'humilite). |
-| 29 fev 1996 | Repas clanique : les jumeaux FLAIRENT le masque, pas ce qu'il cache (edition jouee ou non -> roadmaps). |
-| 5 juin 1997 (10 ans) | Naissance de Noritoshi : PREMIER RESSENTI de sa vie. Interdit a son pere d'appliquer la regle des batards (levier seppuku) ; s'en fait la gardienne. |
+| 29 fev 1996 | Repas clanique : les jumeaux FLAIRENT le masque, pas ce qu'il cache (rendu : vignette YA0_3 cote Yukiko ; texture A0_3 cote Nisha). |
+| 5 juin 1997 (10 ans) | Naissance de Noritoshi : PREMIER RESSENTI de sa vie. Interdit a son pere d'appliquer la regle des batards (levier seppuku) ; s'en fait la gardienne. Premier Lucky 7 trace autour du berceau : le rituel de chaque nuit est ne. |
 | 1998 (12 ans) | RECORD DU CLAN : Dragon d'ordre 9 tenu 5 minutes. Traque de trois jours, capture de Sakushu Sha (grade special). Chi no Meiyo forge par le forgeron masque et offert. |
-| 29 fev 2000 | Repas clanique : TOMBE le masque pour les jumeaux, leur revele que Nori est tout ce qui importe. Allies pour l'avenir des clans, voire amis (edition jouee ou non -> roadmaps ; Nori, 2 ans, sous verdict suspendu - presente ou cache : roadmap). |
+| 29 fev 2000 | Repas clanique : TOMBE le masque pour les jumeaux, leur revele que Nori est tout ce qui importe. Allies pour l'avenir des clans, voire amis (rendu : vignette YA0_6 cote Yukiko, vignette dediee A0_5 cote Nisha ; Nori, 2 ans, PRESENT malgre le verdict suspendu - elle se balade avec lui dans les bras). |
 | 5 juin 2001 (14 ans) | Eveil de l'Hemokinesie pure de Noritoshi. Detronee : liberation. Devotion. Re-princesse. |
-| 29 fev 2004 | Repas clanique, dernier avant l'universite (edition jouee ou non -> roadmaps). |
+| 29 fev 2004 | Repas clanique, dernier avant l'universite : Nori (6 ans), l'elu, exhibe fierement ; la relation avec les jumeaux se consolide (rendu : vignette YA0_7 cote Yukiko, vignette dediee A0_5 cote Nisha ; sans Ranta - branche tertiaire, hors des repas des lignees principales). |
 | 1 avr 2005 (18 ans) | Entree a l'universite de Kyoto, promo 2005-2008, avec Naoya et Ranta. Grade 2. Point de depart. |
 
 ## Trajectoire datee (post-depart ; alimentee a chaud arc par arc)
@@ -150,7 +150,7 @@ Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 (p
 | 24 dec 2017 (B3) | NUIT DES CENT FLEAUX, cote Kyoto : confiance dans la promo de Nori (leader de ses 2es annees malgre l'ingerence de Todo, confies a Mei Mei au combat) ; elle gere A ELLE SEULE les rideaux de Kyoto - contention de la zone et DISSIMULATION du massacre des maitres des fleaux par les Zenin | fait d'armes invisible ; facade Grade 2 intacte |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
-- Editions des repas claniques jouees, evolution de l'amitie avec les jumeaux, vie de promo a Kyoto -> Roadmap_A0 / roadmaps Yukiko.
+- Evolution de l'amitie avec les jumeaux, vie de promo a Kyoto -> roadmaps Yukiko (repas claniques : soldes dans les deux Roadmap_A0).
 - Lien avec Utahime (reponse d'Utahime, rythme du slowburn, son 2007-2009) -> roadmaps Yukiko. Vues matrimoniales de Noriaki : DISSOUTES (decision worldbuilder) - on ne specule pas sur l'heritage genetique d'une enfant, et adulte elle n'est plus la plus pure ; aucun obstacle clanique.
 - Timing de la tombee des masques d'equipe (demande de Gakuganji) -> roadmap A1 / roadmaps Yukiko.
 - Deux parties de jeu a dater en roadmap Yukiko, non enoncees ici : l'unique partie contre Satoru, et le jour ou Nori la bat.
@@ -159,7 +159,7 @@ Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 (p
 - Savoir d'architecte (usage MJ, ironie -> CODEX) : Kenjaku a des yeux partout et l'a sur son radar depuis sa NAISSANCE, comme mille autres points - paranoiaque absolu. Il sait ce qu'elle vaut et la juge trop obsedee par son clan pour intervenir. Cf. Personnages/Kenjaku.md.
 
 ## Pointeurs
-- Clan, legende fondatrice, nommage, succession amendee, lignee dirigeante (Noriaki, Fubuki, Yasashiku), Dragon, Sakushu Sha, forgeron masque : cf. Factions/Clan_Kamo.md.
+- Clan, legende fondatrice, nommage, succession amendee, lignee dirigeante (Noriaki, Fubuki, Yasashiku), Dragon, Sakushu Sha, forgeron masque : cf. Factions/Clan_Kamo.md ; fiches dediees : Personnages/Noriaki_Fubuki.md, Personnages/Yasashiku.md.
 - Demi-frere : cf. Personnages/Noritoshi_Kamo.md. Amis : cf. Personnages/Nisha.md, Naoya.md, Ranta.md. Utahime : cf. Personnages/Utahime.md. Referent : cf. Personnages/Gakuganji.md. Tokyo : cf. Personnages/Shoko.md, Satoru.md.
 - Rideaux, ancres, Dragon, Koch, Gosper (formules) : cf. Pedagogie/Detection_Contention_2eAnnee_S1.md. Lisiere : cf. Pedagogie/Detection_Contention_2eAnnee_S2.md, Personnages/Kenjaku.md.
 - Repas claniques : cf. Factions/Hautes_Instances.md. Tournoi : cf. Factions/Tournoi.md, Roadmap_A1.
