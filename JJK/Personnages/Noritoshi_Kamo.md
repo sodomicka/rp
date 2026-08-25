@@ -1,6 +1,6 @@
 # Noritoshi Kamo
 
-- version : W7
+- version : W8
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -40,15 +40,15 @@ Fiches propres : cf. Personnages/Yukiko.md, Nisha.md, Kenjaku.md ; Factions/Clan
 ### Clan Kamo
 - Heritier designe, pupille du chef. Sous l'exigence de perfection absolue propre aux Kamo.
 - [DIVERGENCE RP] Noriaki, son pere : chef fantoche, s'appretait a appliquer la regle des batards de la lignee dirigeante (execution a l'eveil d'un sort non pur) - Yukiko l'a interdite (levier seppuku), verdict suspendu. L'eveil du 5 juin 2001 a tout dissous. Cf. Factions/Clan_Kamo.md.
-- [DIVERGENCE RP] Yasashiku, sa mere : concubine, profane pure ; "Douceur" est son nom de concubine. Objet d'une rumeur que le clan n'a jamais etablie (la mort de Fubuki, l'epouse, en 1992). Ce que Noritoshi en sait : la rumeur, rien de plus. Cf. Factions/Clan_Kamo.md (Lignee dirigeante) - fil arme T-Fubuki (BIBLE SB8, prochain build) ; l'ironie de scene reste au CODEX.
+- [DIVERGENCE RP] Yasashiku, sa mere : concubine, profane pure ; "Douceur" est son nom de concubine. Objet d'une rumeur que le clan n'a jamais etablie (la mort de Fubuki, l'epouse, en 1992). Ce que Noritoshi en sait : la rumeur, rien de plus. Cf. Factions/Clan_Kamo.md (Lignee dirigeante) - fil arme T-Fubuki (BIBLE SB8) ; l'ironie de scene reste au CODEX.
 
 ### Yukiko Kamo - la gardienne
 - [DIVERGENCE RP] Demi-soeur ainee de onze ans. Sa gardienne des sa naissance, contre leur pere ; detronee de l'heritage par son eveil et liberee par lui : elle le tient pour un dieu vivant, le liberateur, le plus grand Patriarche depuis la fondation, et se place loin derriere. Sa trappeuse quand il chasse, son carquois quand il tire, sa conseillere, son "assistante manager premium" (le mot est d'elle).
-- Chaque nuit qu'elle passe au domaine, elle trace Lucky 7 autour de lui (Koch 7 + Gosper 7 entremeles) ; absente, elle mandate un membre du clan, qui pose un multicouche - moins bon.
+- Chaque nuit qu'elle passe au domaine, elle trace Lucky 7 autour de lui (Koch 7 + Gosper 7 entremeles) ; absente (avant avr 2005), elle mandatait un membre du clan, qui posait un multicouche - moins bon ; depuis le 1 avr 2005, il le trace lui-meme les nuits sans elle.
 - Elle ne le laisse gagner a aucun jeu (go, shogi, echecs). Le jour ou il la bat -> roadmap Yukiko, hors de cette fiche.
 - Le seul secret qu'elle lui cache : la verite sur la mort de Fubuki (cf. Factions/Clan_Kamo.md).
 - [DIVERGENCE RP] VU DE LUI : aucun conflit. Petit, il l'adore par-dessus tout, et comprend lentement ce qu'il represente pour elle. Ca ne se mue jamais en rejet : il comprend que sa soeur aime SINCEREMENT lui etre devouee, alors il lui offre des moments qui ne sont qu'a eux deux. Il sait qu'elle est largement sous-evaluee, et sait que c'est de la ruse - elle ne lui a jamais cache qu'elle vit pour le servir, et que cela passe par toute la tromperie dont le clan Kamo est capable. Il n'a jamais connu que la Yukiko eveillee : le vide d'avant 1997 lui est invisible et inconnu - il ignore que sa naissance fut le premier ressenti de la vie de sa soeur (savoir d'ironie -> CODEX).
-- [DIVERGENCE RP] LE DESSIN : petit, il s'interesse au dessin a l'encre pour faire comme elle - un passe-temps commun. Elle adore qu'il prenne ce genre d'initiative : la preuve qu'il sera un bon Patriarche. Ironie : c'est ce qui le predispose aux cours de rideaux. Enfant, des dragons asiatiques grossiers a l'encre ; plus grand, des dragons fractals bien plus fins. Des ses 9 ans (2006), il sait tracer Lucky 7 lui-meme - par apprentissage par coeur, pas par talent pur, mais c'est deja un exploit, et une INITIATIVE : le petit genie se surpasse pour que sa soeur aille a la fac sans crainte. Des lors, les nuits sans elle, il peut le poser lui-meme : il libere les nuits de sa gardienne.
+- [DIVERGENCE RP] LE DESSIN : petit, il s'interesse au dessin a l'encre pour faire comme elle - un passe-temps commun. Elle adore qu'il prenne ce genre d'initiative : la preuve qu'il sera un bon Patriarche. Ironie : c'est ce qui le predispose aux cours de rideaux. Enfant, des dragons asiatiques grossiers a l'encre ; plus grand, des dragons fractals bien plus fins. Le matin de la rentree de sa soeur (1 avr 2005, a 7 ans), il lui DEMONTRE le Lucky 7 trace par coeur, seul - apprentissage secret prepare pour la rentree, pas du talent pur, mais c'est deja un exploit, et une INITIATIVE : le petit genie se surpasse pour que sa soeur aille a la fac sans crainte (elle avait deja briefe les serviteurs mandataires - plan de secours rendu obsolete sous ses yeux). Des lors, les nuits sans elle, il le pose lui-meme : il libere les nuits de sa gardienne des le premier jour de campus.
 
 ### Nisha Zenin - professeure et mentor d'honneur
 - [DIVERGENCE RP] Prof de sa 2e annee a Kyoto (2017-2018). Elle lui transmet SA vision de l'honneur et le forme a etre un heritier digne.
@@ -67,7 +67,8 @@ Fiches propres : cf. Personnages/Yukiko.md, Nisha.md, Kenjaku.md ; Factions/Clan
 | 5 juin 1997 | Naissance. Batard de concubine (Yasashiku). Nomme comme le felon Meiji. Sous la regle des batards (execution a l'eveil d'un sort non pur) - verdict suspendu par Yukiko (10 ans), qui s'en fait la gardienne. |
 | 5 juin 2001 (4 ans) | Eveil de l'Hemokinesie PURE. Elu -> pupille du chef ; Yukiko detronee de l'heritage. |
 | enfance | Formation d'heritier ; Lucky 7 de Yukiko chaque nuit ; dessin a l'encre pour faire comme elle (dragons asiatiques grossiers). |
-| 2006 (9 ans) | Sait tracer Lucky 7 lui-meme, par coeur - initiative pour que sa soeur aille a la fac sans crainte. Les dragons a l'encre deviennent des dragons fractals. (Jalon fixe ; mois -> roadmap Yukiko.) |
+| 1 avr 2005 (7 ans) | DEMO du Lucky 7 trace par coeur, le matin de la rentree de sa soeur - initiative secrete preparee pour liberer les nuits de sa gardienne. Les dragons a l'encre deviennent des dragons fractals. (Cf. Roadmap/Yukiko/Roadmap_A1.md, YA1_1.) |
+| fin 2005 | Utahime, compagne de sa soeur (declaration nov 2005), entre dans son paysage : week-ends au palais, conjointe princiere a la commemoration du 1 jan 2006. Il l'adore - le futur refuge de douceur s'amorce (cf. trame_A_B, B1). |
 | 5 juin 2015 (18 ans) | Majeur. Le titre lui revient ; il demande a etre accompli avant de l'accepter. Reste Prince. (Ere B ; rattachement d'arc : cf. _Implications.) |
 | 2016 | Entre a l'universite de Kyoto (promo 2016-2019). |
 

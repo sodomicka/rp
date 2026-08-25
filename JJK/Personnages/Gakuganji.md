@@ -1,13 +1,13 @@
 # Yoshinobu Gakuganji
 
-- version : W4
+- version : W5
 
 Page = fiche noyau legere (le gros est couvert par Factions/Hautes_Instances.md et Factions/Universite_Kyoto.md). Etat atemporel / point de depart 2005. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
 ## Identite
 - Nom : Yoshinobu Gakuganji. Canon. Principal de l'universite de Kyoto.
 - Vieillard, doyen des exorcistes en activite ; des decennies de manoeuvres politiques.
-- Seul visage public des hautes instances (cf. Factions/Hautes_Instances.md).
+- Seul visage public des hautes instances, dont il est MEMBRE PLEIN : son independance est directoriale (la conduite de son universite), jamais politique (cf. Factions/Hautes_Instances.md).
 - En 2005, deja principal ET professeur : il assure le suivi de la promo de Naoya (2005-2008) (cf. Factions/Universite_Kyoto.md).
 - Des 2009 il CUMULE de nouveau le principalat et la 3e annee, jusqu'a la ceder a Mei Mei en avril 2013 (cf. Trajectoire datee).
 
@@ -33,7 +33,7 @@ Un exorciste = un sort inne en regle generale (canon).
 ## Eleves - dispositions (Kyoto, promo 2005-2008)
 - [DIVERGENCE RP] Adore Naoya : l'arme parfaite, dure et sans etat d'ame (cf. Personnages/Naoya.md).
 - [DIVERGENCE RP] Juge Ranta trop gentil : le plus doux des Zenin nommes, son manque d'agressivite, d'arrogance et de fierte rebute le conservateur (cf. Personnages/Ranta.md).
-- [DIVERGENCE RP] Yukiko Kamo : la plus proche de lui, plus encore que Naoya. Calculatrice, froide, protectrice - son miroir de temperament, a l'objet pres : sa passion a lui va aux Hautes Instances, celle de Yukiko a Nori. Il VOIT le sandbagging (Grade 2 annonce par une prodige de clan) et le RESPECTE : le flou d'un clan ne se discute pas. C'est lui qui demande la tombee des masques EN INTERNE pour batir son equipe de choc - cercle exclusivement Hautes Instances / Kamo / Zenin, le secret reste au chaud (timing -> roadmap). Cf. Personnages/Yukiko.md.
+- [DIVERGENCE RP] Yukiko Kamo : la plus proche de lui, plus encore que Naoya. Calculatrice, froide, protectrice - son miroir de temperament, a l'objet pres : sa passion a lui va aux Hautes Instances, celle de Yukiko a Nori. Il perce le sandbagging SEUL, des le printemps 2005 - jamais briefe par personne (le secret est celui des Kamo), mais quelques semaines de cours ne trompent pas un Grade Special 1 - et le RESPECTE : le flou d'un clan ne se discute pas ; il garde d'abord sa decouverte pour lui. Debut ete 2005 : il demande la tombee des masques EN INTERNE pour batir son equipe de choc en vue de l'Amicale (pacte de PAROLE D'HONNEUR signe par Naoya et Ranta - dissuasion institutionnelle : nuire a un autre clan expose aux sanctions des Hautes Instances). Automne 2005 : membre plein, il ne garde pas indefiniment une telle information pour lui - il temporise le temps de trouver comment la presenter, puis rapporte aux Instances : "la princesse Kamo prise au depourvu se bat comme une Grade 2 ; sinon, c'est une Grade Speciale." Cf. Personnages/Yukiko.md, Roadmap/Yukiko/Roadmap_A1.md.
 
 ## Nisha - relation
 Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a Nisha.
@@ -55,18 +55,21 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 ## Trajectoire datee (alimentee a chaud arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| printemps 2005 | Perce SEUL la facade de Yukiko Kamo (quelques semaines de cours ne trompent pas un Grade Special 1) ; garde sa decouverte pour lui | le renard sait, personne ne le lui a dit |
+| debut ete 2005 | Demande la tombee des masques EN INTERNE (equipe de choc pour l'Amicale) ; pacte de parole d'honneur signe par Naoya et Ranta | entrainements a vrai niveau en enceinte fermee |
 | sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) : victoire de Kyoto au J1 - sa promo (Naoya, Yukiko, Ranta) plus Utahime et Mei Mei, 5v3 face aux prodiges de Tokyo | doctrine du formateur validee sur le terrain |
+| automne 2005 | Rapporte aux Instances le vrai calibre de la princesse Kamo, dans sa formule ("prise au depourvu, une Grade 2 ; sinon, une Grade Speciale") - il temporisait le temps de trouver comment presenter une information pareille, il ne la garde pas indefiniment | cercle institutionnalise sans vague |
 | 2009-2013 (B1) | CUMULE le principalat de Kyoto et le poste de professeur de 3e annee, comme il l'avait fait pour la promo de Naoya. Utahime tient la 1re annee, Nisha la 2e des 2009 | double charge assumee ; pole conservateur tenu de bout en bout |
 | mars 2013 (B1) | Accepte la recommandation de Nisha et Utahime : recrute Mei Mei comme professeure de 3e annee, quitte a puiser dans les fonds de l'universite pour la retenir (cf. Personnages/Mei_Mei.md) | cede la 3e annee des avr 2013, garde le principalat |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
-- Execution de Yaga (post-Shibuya, sur refus du secret des cadavres maudits) : evenement posterieur -> roadmap.
+- Cas Yaga (ere C, nov 2018) : il demande des comptes sur le secret des cadavres maudits avant toute extremite - issue tranchee au chantier eres C/D (cf. BIBLE SB8, fil T-Ames), deroule -> roadmaps ere C. Non enonce ici. [Etat anterieur de cette note ("execution de Yaga") : perime, aligne sur SB8.]
 - Evolution fine du lien avec Nisha (au-dela de l'etat cordial pre-2008 / amical post-2008) -> roadmap.
 
 ## Pointeurs
 - Hautes instances : cf. Factions/Hautes_Instances.md. universite de Kyoto : cf. Factions/Universite_Kyoto.md.
 - Clans proches : cf. Factions/Clan_Kamo.md, Factions/Clan_Zenin.md.
-- Eleves : cf. Personnages/Naoya.md, Personnages/Ranta.md.
+- Eleves : cf. Personnages/Naoya.md, Personnages/Ranta.md, Personnages/Yukiko.md.
 - Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
 
 ---

@@ -1,8 +1,8 @@
 # Yukiko Kamo
 
-- version : W6
+- version : W7
 
-Fiche NOYAU (OC, niveau fandom). Etat atemporel / point de depart (1 avr 2005). Couche RP entierement [DIVERGENCE RP] (OC sans equivalent canon) : balise portee une fois ici, non repetee ligne a ligne. Plot post-depart -> roadmaps Yukiko (a ecrire) ; devenir -> Trajectoire datee en bas de page. Resume condense en BIBLE SB5.
+Fiche NOYAU (OC, niveau fandom). Etat atemporel / point de depart (1 avr 2005). Couche RP entierement [DIVERGENCE RP] (OC sans equivalent canon) : balise portee une fois ici, non repetee ligne a ligne. Plot post-depart -> roadmaps Yukiko ; devenir -> Yukiko_chrono_A.md (ere A) et Trajectoire datee en bas de page (eres B+, en attente de scission). Resume condense en BIBLE SB5.
 
 ## Identite
 - Nom : Yukiko Kamo. Fille unique et legitime de Noriaki Kamo, chef du clan Kamo, et de Fubuki (profane, epouse).
@@ -35,13 +35,13 @@ Mutation tres proche de l'Hemokinesie pure du clan (don ancestral Sutoku/liens).
 - PIEGES DORMANTS : elle trace en 80/20, puis BOUCLE en 99/1 - juste de quoi mouvoir le sang, pas de quoi monter un rideau. Le trace de sang reste au sol, a 1 % d'energie : quasi indetectable. Texture visqueuse de blob qui empeche le sol de l'assecher. Tient jusqu'a 5 heures en dormance. Portee : elle doit rester dans un rayon de 3,46 km. Activation : automatique des qu'une energie occulte touche le trace (l'information lui parvient instantanement), ou a sa volonte - elle transmute le sang en energie et le rideau monte, instantanement.
 - LE DRAGON, dit "le vampire" (ancre fractale secrete du clan, cf. Factions/Clan_Kamo.md et Pedagogie/Detection_Contention_2eAnnee_S1.md) : elle est LE record du clan. En 1998, a 12 ans, elle porte le maintien d'un Dragon d'ordre 9 a 5 minutes (~39 % de l'energie de l'occupant ponctionnee par minute ; il lui en reste ~9 % au bout des 5 minutes). Le clan garde le flou sur sa prodige et generalise l'exploit a "les meilleurs Kamo" - et elle est la premiere a vouloir ce flou (cf. Psychologie).
 - Rideau ENTREMELE (fait de prodige, hors programme) : elle renforce son Dragon d'autres motifs entremeles pour le rendre incassable.
-- LUCKY 7 : son rideau de nuit. Koch d'ordre 7 (l'eponge, ~87 % de l'energie recue absorbee) et Gosper d'ordre 7 (le mur, la matiere bloquee), ENTREMELES en une seule couche. Elle le trace chaque nuit passee au domaine, autour d'elle ET autour de Noritoshi - rituel NE a la naissance de Nori (5 juin 1997, premier trace autour du berceau) : avant lui, la trappeuse s'en moquait, la paranoia est nee pour lui. Absente, elle mandate un membre du clan pour le faire - qui ne sait pas entremeler (fait de prodige) et pose donc un multicouche Koch 7 / Gosper 7 : la protection de Nori est moindre les nuits sans elle - jusqu'a ce que Nori sache le tracer lui-meme, a 9 ans (-> Trajectoire datee).
+- LUCKY 7 : son rideau de nuit. Koch d'ordre 7 (l'eponge, ~87 % de l'energie recue absorbee) et Gosper d'ordre 7 (le mur, la matiere bloquee), ENTREMELES en une seule couche. Elle le trace chaque nuit passee au domaine, autour d'elle ET autour de Noritoshi - rituel NE a la naissance de Nori (5 juin 1997, premier trace autour du berceau) : avant lui, la trappeuse s'en moquait, la paranoia est nee pour lui. Absente (traques d'enfance), elle mandatait un membre du clan pour le faire - qui ne sait pas entremeler (fait de prodige) et posait donc un multicouche Koch 7 / Gosper 7 : la protection de Nori etait moindre les nuits sans elle. Mecanisme d'avant-2005 : le matin de la rentree (1 avr 2005, 7h), Nori (7 ans) lui DEMONTRE le Lucky 7 trace par coeur, seul - initiative secrete preparee pour la rentree, les serviteurs mandataires deja briefes pour rien ; le petit genie libere les nuits de sa gardienne des le premier jour de campus (-> Yukiko_chrono_A.md).
 
 ### Modus operandi
 Trappeuse, pas guerriere. Dragon d'ordre 12 tenu 3 minutes avec Chi no Meiyo plante en pont (~74 % par minute : il reste ~1,7 % de l'energie de la cible au bout des 3 minutes), renforce par d'autres rideaux entremeles ; puis elle acheve la cible au tanto, une fois a bout de souffle. Elle se voit comme une assistante manager premium, une conseillere et une poseuse de pieges - le terme est le sien, pas la filiere (elle est combattante inscrite en filiere exorciste).
 
 ## Chi no Meiyo
-Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 (prochain build) et Factions/Clan_Kamo.md.
+Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 et Factions/Clan_Kamo.md.
 - Tanto. Saya noire ; lame damassee a hamon rouge ; tsuba ronde rouge ; tsuka tressee noire a menuki rond rouge portant le kamon du clan (la goutte) ; kashira rouge.
 - Origine : 1998. Apres trois jours de traque, Yukiko (12 ans) piege et affaiblit Sakushu Sha, fleau de grade special a l'allure vampirique qui aspirait l'energie occulte au toucher. Le tanto est forge a partir du fleau [IMPLICITE] par un expert du clan qui reste volontairement ANONYME et se presente masque : il la sait humble sur ses exploits et veut honorer cette humilite. Offert en recompense a la prodige qui vient de battre le record du Dragon.
 - Fonction : PONT. Plante pres d'un rideau qui absorbe l'energie occulte, il relie le rideau a Yukiko et la gorge de l'energie absorbee. Fonctionne aussi plante dans un ennemi - sans contact avec la chair : toucher l'ENERGIE suffit a piller.
@@ -61,7 +61,7 @@ Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 (p
 - Refuse qu'on lui attribue tout exploit qui n'eleverait pas Noritoshi dans le meme temps. Toute gloire qui ne va pas a Nori est une gloire volee - d'ou son accord tacite avec le flou que le clan entretient sur son record.
 - Paranoia de trappeuse : Lucky 7 chaque nuit (cf. Tissage). Une trappeuse ne debranche pas.
 - Dessine a l'encre. Petit, Nori s'y met pour faire comme elle ; elle adore qu'il prenne ce genre d'initiative - la preuve qu'il sera un bon Patriarche. Les moments qu'il n'offre qu'a elle, elle les prend (cf. Personnages/Noritoshi_Kamo.md, Vu de lui).
-- Joueuse de tout ce qui est cerebral et tourne autour du piege : go, shogi, echecs. Defie tout le monde, parce qu'elle sait qu'elle va gagner. Ne laisse PERSONNE gagner - pas meme Nori.
+- Joueuse de tout ce qui est cerebral et tourne autour du piege : go, shogi, echecs. Defie tout le monde, parce qu'elle sait qu'elle va gagner. Ne laisse PERSONNE gagner - pas meme Nori. Une seule exception a vie : Satoru Gojo - une partie de shogi, une defaite, plus jamais (sept 2005 -> Yukiko_chrono_A.md).
 - Le seul mot qui la fait monter : "le batard", dit devant elle.
 
 ## Statut dans le clan
@@ -87,7 +87,7 @@ Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 (p
 - Profane pure, mere de Noritoshi. "Douceur" est son nom de concubine - un autre poison calcule. C'est ELLE qui a pousse Noriaki a ne pas l'epouser et a la laisser concubine : effacement par ruse, au prix de la batardise de son fils - pari total sur la loterie genetique (la clause "sauf le sang pur"), gagne par chance. Elle deteste le nom inflige a son fils et n'en fait rien : un nom n'est qu'une superstition, comme le sien n'est qu'un masque.
 - La rumeur (elle a orchestre l'empoisonnement de Fubuki) est VRAIE. Yukiko est la seule qui ne POUVAIT PAS mecaniquement se voiler la face - le vide n'a rien a proteger - et qui n'en fait rien. Les deux viperes se sont flairees dans le mois suivant la reception (jan-fev 1992), un regard entendu pour tout pacte : chacune sait que l'autre sait. Silence de Yukiko en deux phases - detachement du vide d'abord, dette pour l'existence de Nori ensuite. Aucune haine, jamais, dans aucun sens.
 - ALLIEES DE CIRCONSTANCE, rien de plus : jamais un equilibre de la terreur, jamais de l'affection. Le pacte protege l'ignorance de Nori, pas la vie de sa mere - si Noritoshi apprend un jour et condamne sa mere pour ses manigances, Yukiko ne levera pas le petit doigt pour la sauver. Sa loyaute est a 100 % chez lui.
-- Nori ne doit jamais l'apprendre. Fil arme : T-Fubuki -> BIBLE SB8 (prochain build) ; l'ironie de scene (le joueur sait, Nori ignore) reste au CODEX ANNEXE_SAVOIRS.
+- Nori ne doit jamais l'apprendre. Fil arme : T-Fubuki -> BIBLE SB8 ; l'ironie de scene (le joueur sait, Nori ignore) reste au CODEX ANNEXE_SAVOIRS.
 
 ### Les jumeaux Zenin - les rares amis
 - Repas claniques Kamo/Zenin chaque 29 FEVRIER (1988, 1992, 1996, 2000, 2004, 2008 ; cf. Factions/Hautes_Instances.md). 1988 : trop jeune. Trois rencontres, trois Yukiko :
@@ -101,26 +101,28 @@ Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 (p
 - Naoya : meme promo a Kyoto (2005-2008), ainsi que Ranta. Alliance tacite entre heritiers.
 
 ### Yoshinobu Gakuganji - le referent miroir
-- Referent de sa promo (2005-2008), principal de Kyoto, visage des Hautes Instances. Il VOIT le sandbagging - trois ans de cours ne trompent pas un Grade Special 1 - et le RESPECTE : le flou d'un clan ne se discute pas. C'est lui qui demande la tombee des masques EN INTERNE pour batir son equipe de choc (cercle Hautes Instances / Kamo / Zenin, secret au chaud ; timing -> roadmap).
+- Referent de sa promo (2005-2008), principal de Kyoto, visage des Hautes Instances. Il decouvre le vrai niveau SEUL, des le printemps 2005 - jamais briefe par personne, quelques semaines de cours ne trompent pas un Grade Special 1 - et le RESPECTE : le flou d'un clan ne se discute pas ; il garde d'abord sa decouverte pour lui. Debut ete 2005 : il demande la tombee des masques EN INTERNE pour batir son equipe de choc (pacte de parole d'honneur signe par Naoya et Ranta). Automne 2005 : membre plein des Instances (son independance est directoriale, pas politique), il temporise le temps de trouver la formule, puis rapporte - "la princesse Kamo prise au depourvu se bat comme une Grade 2 ; sinon, c'est une Grade Speciale." Cf. Roadmap/Yukiko/Roadmap_A1.md.
 - S'il adore Naoya, il est encore plus proche de Yukiko : calculateur, froid, protecteur - son miroir de temperament. Seule difference, l'objet : sa passion a lui va aux Hautes Instances, celle de Yukiko a Nori. Cf. Personnages/Gakuganji.md.
 
 ### Satoru Gojo
-- Son seul egal en tissage, a partir de 2006. Premier contact : Amicale de sept 2005 - il dejoue son piege au J1, juge son rideau du J2 quasi parfait, LIT le mecanisme du Dragon et le classe secret de clan : il ne vole pas la vedette et ne se mele pas des clans (-> Trajectoire datee).
+- Son seul egal en tissage, a partir de 2006. Premier contact : Amicale de sept 2005 - il dejoue son piege au J1, juge son rideau du J2 quasi parfait, LIT le mecanisme du Dragon et le classe secret de clan : il ne vole pas la vedette et ne se mele pas des clans. Meme septembre, l'unique partie de shogi - demandee par elle en revanche du J1, perdue : transparente, elle ne rejouera jamais contre lui (-> Yukiko_chrono_A.md).
 
 ### Utahime Iori - le second sourire
-- Ainee d'un an a Kyoto (2e annee en 2005, promo 2004-2007), future prof de 1re annee (2009+). Kyotoite a vie, consciente de sa place, respectueuse des roles de soutien, docile envers les Hautes Instances : le seul profil compatible avec une devotion qui interdit de quitter Kyoto. Noyau : aucune relation avant 2005 (Yukiko arrive en avril). SLOWBURN : amorce a l'universite (2005-2008), ni coup de foudre ni des mois d'attente - deroule entier -> roadmaps Yukiko (vie interne de Kyoto 2005-2008 ; seule l'Amicale de sept 2005 se calque sur A1). Condition tacite, non dite (cf. Psychologie, La regle d'amour) : jamais le moindre signe de jalousie envers Nori. Cf. Personnages/Utahime.md.
+- Ainee d'un an a Kyoto (2e annee en 2005, promo 2004-2007), future prof de 1re annee (2009+). Kyotoite a vie, consciente de sa place, respectueuse des roles de soutien, docile envers les Hautes Instances : le seul profil compatible avec une devotion qui interdit de quitter Kyoto. Noyau : aucune relation avant 2005 (Yukiko arrive en avril).
+- SLOWBURN JOUE EN A1 (cf. Roadmap/Yukiko/Roadmap_A1.md, Yukiko_chrono_A.md) : rapprochement post-Amicale - la vengeance PUBLIQUE de sept 2005 ouvre les yeux d'Utahime sur ce que la vipere ressent -, puis declaration d'UTAHIME en nov 2005, voyant Yukiko y aller a reculons (premier attachement hors-Nori de sa vie, peur de tout foirer). Chambre partagee sur le campus des lors ; week-ends au palais ; invitee en CONJOINTE PRINCIERE a la commemoration de Fubuki (1 jan 2006). La condition tacite (cf. Psychologie, La regle d'amour) - jamais le moindre signe de jalousie envers Nori - est passee sans meme le savoir, des les premieres venues au palais.
+- PERIMETRE DE CONFIANCE (des nov 2005) : Utahime sait TOUT CE QUE NORI SAIT - le niveau reel, la ruse, la devotion (T-Fubuki exclu, comme pour Nori). Yukiko les place a EGALITE de fiabilite, meme si l'amour porte a son frere reste indetronable. Utahime sait, et se tait : l'amour et la confiance sont reciproques.
 - LE VECTEUR, par elimination : Mei Mei est une brute ; Ranta, son reflet absolu mais un homme - angle mort total, elle ne voit meme pas la similarite ; Naoya, une alliance tacite entre heritiers. Reste Utahime : douce, protectrice, obeissante face aux Hautes Instances, bien a sa place de soutien - la ou Yukiko porte le masque d'un simple soutien mais est une trappeuse terrifiante.
 - LE MOTEUR : elle voit en Utahime ce qu'une version d'elle sans la brisure initiale peut donner, et elle veut les deux vies a la fois (cf. Psychologie, moteur de procuration). Utahime, elle, commence a l'aimer parce qu'elle est la seule avec qui "Yuki" soit sincere.
-- FENETRE STRUCTURELLE : cohabitation quotidienne de campus limitee a avr 2005 - mars 2006 (Utahime passe en 3e annee, purement pratique, des avr 2006) ; l'amorce se joue la, la distance des missions ensuite.
+- FENETRE STRUCTURELLE : cohabitation quotidienne de campus limitee a avr 2005 - mars 2006 (Utahime passe en 3e annee, purement pratique, des avr 2006) ; le couple se forme AVANT la fermeture - la distance d'avr 2006 est a gerer, plus a craindre.
 - Ironie en reserve : Nisha croit Utahime rivale aupres de Satoru - malentendu a sens unique NE a l'Amicale de sept 2005 (elle les voit se taquiner avant l'epreuve et ne le supporte pas), entretenu sans le savoir par le naturel joueur d'Utahime. La relation avec Yukiko n'est ni cachee ni criee : le malentendu tient par l'aveuglement de Nisha, qui ignore qu'elle pietine le terrain de sa "cousine". Yukiko, elle, comprend la scene mieux que Nisha - aucune jalousie. Le jour ou Nisha comprend avec qui est Utahime, le malentendu meurt (cf. Personnages/Nisha.md, Utahime.md).
 
 ### Shoko Ieiri
-- La medecin de Tokyo qui la soigne a l'Amicale de sept 2005 - simple soin (-> Trajectoire datee).
+- La medecin de Tokyo qui la soigne a l'Amicale de sept 2005 - simple soin (-> Yukiko_chrono_A.md).
 
 ## Grade et scaling
 - 2005 (18 ans) : 12 doigts REELS - puissance CONDITIONNELLE (le piege en place, Chi no Meiyo en pont), niveau Satoru et Geto pre-eveil, un cran sous Nisha (13). Elle se DEVALUE par ruse : Grade 2 officiel, 4 doigts ANNONCES (6,24 %, lecture Utahime - la puissance est dans le piege, pas dans le choc). Rappel : l'unite doigt est extradiegetique, personne en-monde ne compte en doigts ; ce qui est diegetique, c'est le Grade 2 qu'elle laisse croire.
-- Perimetre du vrai niveau, deux etages : cercle qui SAIT = Hautes Instances / Kamo / Zenin, elargi au quatuor de Tokyo des sept 2005 (Amicale) ; fiction officielle Grade 2 intacte, portee par le recit du sort "trop conditionnel" et du coup de chance.
-- Integration a la table : cf. Power_Scaling/Doigts_de_Sukuna.md (prochain build).
+- Perimetre du vrai niveau, deux etages : cercle qui SAIT = Hautes Instances (sieges claniques, puis rapport de Gakuganji a l'automne 2005) / Kamo / Zenin, elargi au quatuor de Tokyo des sept 2005 (Amicale) puis a Utahime (nov 2005, perimetre Nori) ; fiction officielle Grade 2 intacte, portee par le recit du sort "trop conditionnel" et du coup de chance.
+- Integration a la table : cf. Power_Scaling/Doigts_de_Sukuna.md.
 
 ## Chronologie noyau (jusqu'au point de depart)
 | Date | Jalon |
@@ -140,10 +142,11 @@ Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 (p
 | 1 avr 2005 (18 ans) | Entree a l'universite de Kyoto, promo 2005-2008, avec Naoya et Ranta. Grade 2. Point de depart. |
 
 ## Trajectoire datee (post-depart ; alimentee a chaud arc par arc)
+- ERE A (2005-2008) : SCINDEE -> cf. Personnages/Yukiko_chrono_A.md.
+- Eres B+ (entrees provisoirement ici ; Yukiko_chrono_B.md a creer au build des arcs B) :
+
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| debut sept 2005 (A1_3) | Tournoi des Universites Jumelees, hote Kyoto, equipe de Kyoto (5v3). J1 : son piege prend Satoru, qui le dejoue a temps malgre le vampirisme du Dragon une fois dedans et l'assomme une fois sorti ; soignee par Shoko (simple soin). J2 : vengeance (Nisha a violente son Utahime au J1) - elle feinte Nisha, la coince dans un rideau quasi parfait (meme selon Satoru), la ressort presque videe, pose le fil du tanto contre la gorge de la numero 1 mondiale. Victoire. Aucune tension ensuite : dissipation par la discussion avant le depart de Tokyo. | premiere mise hors jeu (J1) et premiere victoire publique (J2) ; facade preservee (sort presente comme trop conditionnel, coup de chance) ; le cercle qui sait s'elargit au quatuor de Tokyo - Satoru lit le Dragon et le classe secret de clan ; Nisha sait desormais exactement ce que vaut la vipere |
-| 2006 (Nori 9 ans ; jalon fixe par decision, mois -> roadmap Yukiko) | Nori sait tracer Lucky 7 lui-meme, par coeur - initiative du petit genie : il se surpasse pour que sa soeur aille a la fac sans crainte. | les nuits sans elle ne sont plus des nuits sans Lucky 7 ; les nuits hors du domaine deviennent possibles |
 | debut 2013 (ere B, B1 ; cf. _Implications) | Gakuganji lui offre la chaire de 3e annee de Kyoto. Elle n'accepte qu'a une condition : seulement l'annee ou Nori sera en 3e annee (2018-2019). Nisha ricane et lui repond qu'elle trouvera une prof qui ne fera pas un favoritisme aussi extreme - ce sera Mei Mei (cf. Factions/Universite_Kyoto.md, Personnages/Mei_Mei.md). Yukiko ne sera jamais prof. | hors du corps enseignant, par condition refusee |
 | mars 2013 (B1) | RESTO A QUATRE (Utahime + Nisha + Yukiko + Mei Mei, Ui Ui et Nori en accompagnants) : kyotoite, elle connait Mei Mei mieux que Nisha ; l'idee Mei Mei emerge de la discussion a trois - Yukiko n'a pour argument que la promo de son frere et se fout du reste. Mei Mei prend la 3e annee | la chaire trouve preneuse sans elle |
 | 2015 (B2) | Noces de Nisha et Satoru : presente avec Nori et Utahime - la copine d'une collegue, invitee en amie, PAS en princesse Kamo (les emissaires Kamo presents relevent de la diplomatie, pas eux) | -- |
@@ -151,9 +154,8 @@ Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 (p
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Evolution de l'amitie avec les jumeaux, vie de promo a Kyoto -> roadmaps Yukiko (repas claniques : soldes dans les deux Roadmap_A0).
-- Lien avec Utahime (reponse d'Utahime, rythme du slowburn, son 2007-2009) -> roadmaps Yukiko. Vues matrimoniales de Noriaki : DISSOUTES (decision worldbuilder) - on ne specule pas sur l'heritage genetique d'une enfant, et adulte elle n'est plus la plus pure ; aucun obstacle clanique.
-- Timing de la tombee des masques d'equipe (demande de Gakuganji) -> roadmap A1 / roadmaps Yukiko.
-- Deux parties de jeu a dater en roadmap Yukiko, non enoncees ici : l'unique partie contre Satoru, et le jour ou Nori la bat.
+- Utahime : amorce et couple SOLDES en A1 (cf. Roadmap_A1) ; restent son creux 2007-2009 (diplome -> chaire) et la vie de couple d'ere B -> roadmaps suivantes. Vues matrimoniales de Noriaki : DISSOUTES (decision worldbuilder) - on ne specule pas sur l'heritage genetique d'une enfant, et adulte elle n'est plus la plus pure ; aucun obstacle clanique.
+- Une partie de jeu a dater en roadmap Yukiko, non enoncee ici : le jour ou Nori la bat. (L'unique partie contre Satoru : SOLDEE, sept 2005 -> chrono_A.)
 - Majorite de Noritoshi (5 juin 2015) et ce qu'il decide du titre -> Roadmap_B2 / fiche Noritoshi, hors de cette page.
 - 2018-2019 (ere C) : revient a Kyoto en OBSERVATRICE au fond de la classe de 3e annee, comme Ui Ui derriere Mei Mei - un oeil sur son frere, qu'elle laisse s'epanouir par lui-meme ; la grande soeur surprotectrice ne le gene jamais. Role dans l'ere C (Lisiere du Supplice) -> build ere C. Non enonce ici.
 - Savoir d'architecte (usage MJ, ironie -> CODEX) : Kenjaku a des yeux partout et l'a sur son radar depuis sa NAISSANCE, comme mille autres points - paranoiaque absolu. Il sait ce qu'elle vaut et la juge trop obsedee par son clan pour intervenir. Cf. Personnages/Kenjaku.md.
@@ -161,6 +163,7 @@ Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 (p
 ## Pointeurs
 - Clan, legende fondatrice, nommage, succession amendee, lignee dirigeante (Noriaki, Fubuki, Yasashiku), Dragon, Sakushu Sha, forgeron masque : cf. Factions/Clan_Kamo.md ; fiches dediees : Personnages/Noriaki_Fubuki.md, Personnages/Yasashiku.md.
 - Demi-frere : cf. Personnages/Noritoshi_Kamo.md. Amis : cf. Personnages/Nisha.md, Naoya.md, Ranta.md. Utahime : cf. Personnages/Utahime.md. Referent : cf. Personnages/Gakuganji.md. Tokyo : cf. Personnages/Shoko.md, Satoru.md.
+- Trajectoire ere A : cf. Personnages/Yukiko_chrono_A.md. Arcs : cf. Roadmap/Yukiko/Roadmap_A0.md, Roadmap_A1.md.
 - Rideaux, ancres, Dragon, Koch, Gosper (formules) : cf. Pedagogie/Detection_Contention_2eAnnee_S1.md. Lisiere : cf. Pedagogie/Detection_Contention_2eAnnee_S2.md, Personnages/Kenjaku.md.
 - Repas claniques : cf. Factions/Hautes_Instances.md. Tournoi : cf. Factions/Tournoi.md, Roadmap_A1.
 - Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.

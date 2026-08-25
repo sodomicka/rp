@@ -1,6 +1,6 @@
 # Utahime Iori
 
-- version : W9
+- version : W10
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -33,9 +33,11 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 - Evolution fine -> roadmap.
 
 ## Yukiko Kamo - relation
-- [DIVERGENCE RP] Amorce d'une relation a l'universite (2005-2008, Yukiko en promo 2005-2008, un an derriere elle), en SLOWBURN - deroule entier -> roadmaps Yukiko. Ce que Yukiko voit en elle : kyotoite a vie, consciente de sa place, respectueuse des roles de soutien, docile envers les Hautes Instances - le seul profil compatible avec une devotion qui interdit de quitter Kyoto. Cf. Personnages/Yukiko.md (le second sourire).
-- [DIVERGENCE RP] Ce qu'Utahime commence a y trouver : elle est la seule personne avec qui "Yuki" soit SINCERE - c'est par la que l'amour prend. (Vu de Yukiko : la fenetre sur la normalite contre la fenetre sur le clan - cf. Personnages/Yukiko.md, moteur de procuration.)
-- FENETRE STRUCTURELLE : cohabitation quotidienne de campus limitee a avr 2005 - mars 2006 (Utahime passe en 3e annee, purement pratique, des avr 2006) ; l'amorce se joue la, la distance des missions ensuite.
+- [DIVERGENCE RP] SLOWBURN JOUE EN A1 (cf. Roadmap/Yukiko/Roadmap_A1.md, Yukiko_chrono_A.md) : aucune relation avant avr 2005 (Yukiko arrive en 1re annee, un an derriere elle). L'Amicale de sept 2005 lui OUVRE LES YEUX - la vipere qui ne montre jamais rien la venge en PUBLIC apres que Nisha l'a demontee ; le sentiment prend a l'automne, et c'est ELLE qui se declare en nov 2005, voyant Yukiko y aller a reculons. Chambre partagee sur le campus des lors ; week-ends au palais Kamo ; invitee en CONJOINTE PRINCIERE a la commemoration de Fubuki (1 jan 2006).
+- [DIVERGENCE RP] CE QU'ELLE SAIT (des nov 2005) : tout ce que Nori sait - le niveau reel, la ruse, la devotion (T-Fubuki exclu, comme pour Nori). Yukiko la place a EGALITE de fiabilite avec son frere, meme si l'amour porte a Nori reste indetronable. Elle sait, et se tait : l'amour et la confiance sont reciproques. La condition tacite de la regle d'amour de Yukiko (jamais le moindre signe de jalousie envers Nori) : passee sans meme le savoir, des ses premieres venues au palais.
+- Ce que Yukiko voit en elle : kyotoite a vie, consciente de sa place, respectueuse des roles de soutien, docile envers les Hautes Instances - le seul profil compatible avec une devotion qui interdit de quitter Kyoto. Cf. Personnages/Yukiko.md (le second sourire).
+- [DIVERGENCE RP] Ce qu'Utahime y trouve : elle est la seule personne avec qui "Yuki" soit SINCERE - c'est par la que l'amour a pris. (Vu de Yukiko : la fenetre sur la normalite contre la fenetre sur le clan - cf. Personnages/Yukiko.md, moteur de procuration.)
+- FENETRE STRUCTURELLE : cohabitation quotidienne de campus limitee a avr 2005 - mars 2006 (Utahime passe en 3e annee, purement pratique, des avr 2006) ; le couple se forme AVANT la fermeture - la distance devient a gerer, plus a craindre.
 - Ironie en reserve : Nisha la croit rivale aupres de Satoru (cf. ci-dessus) - le jour ou Nisha comprend avec qui est Utahime, le malentendu meurt.
 
 ## Role pedagogique (cycle Kyoto, post-2008)
@@ -54,7 +56,9 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| sept 2005 | Tournoi des Universites Jumelees (hote Kyoto). Avant l'epreuve : taquineries avec Satoru, sous les yeux de Nisha. J1 : DEMONTEE par Nisha, parfum de jalousie (soignee par Shoko) ; J2 : se desiste avec Ranta (supports face a des prodiges) - et Yukiko la venge en battant Nisha en duel | prise entre deux feux : demontee par une louve jalouse, vengee par la vipere ; origine du malentendu-rivalite cote Nisha |
+| sept 2005 | Tournoi des Universites Jumelees (hote Kyoto). Avant l'epreuve : taquineries avec Satoru, sous les yeux de Nisha. J1 : DEMONTEE par Nisha, parfum de jalousie (soignee par Shoko) ; J2 : se desiste avec Ranta (supports face a des prodiges) - et Yukiko la venge en battant Nisha en duel. La vengeance PUBLIQUE lui ouvre les yeux sur ce que la vipere ressent | prise entre deux feux : demontee par une louve jalouse, vengee par la vipere ; origine du malentendu-rivalite cote Nisha ; le slowburn s'allume |
+| nov 2005 | SE DECLARE a Yukiko, voyant qu'elle n'osera jamais d'elle-meme (Yukiko a reculons : premier attachement hors-Nori de sa vie). Couple ; chambre partagee sur le campus ; premieres venues au palais le week-end. Entre dans le cercle du vrai niveau, au PERIMETRE NORI (niveau reel, ruse, devotion) - elle sait et se tait | en couple ; dans le secret, a egalite de fiabilite avec Nori |
+| 1 jan 2006 | Invitee en CONJOINTE PRINCIERE a la commemoration de Fubuki (Chiryu no Kyuden) : sincerement emue, elle console - sans savoir ce que la commemoration recouvre | statut pose au vu du clan Kamo |
 | mars 2013 (B1) | Resto A QUATRE avec Nisha, Yukiko et Mei Mei (Ui Ui et Noritoshi en accompagnants) : l'idee emerge de la discussion a trois, et avec Nisha elle convainc Mei Mei de prendre la 3e annee a Kyoto ; le cycle a trois maillons (Utahime 1e, Nisha 2e, Mei Mei 3e) est enfin complet | -- |
 | 2015 (B2) | Noces de Nisha et Satoru : invitee en amie, aux cotes de Yukiko et Nori - la copine d'une collegue, hors du ballet diplomatique des emissaires Kamo | -- |
 | avr 2017 (B3) | LA RELEVE : premiere vraie classe de l'ere - 1re annee 2017-2018 : Mai Zenin, Kasumi Miwa, Kokichi Muta (Mechamaru), promo 2017-2020 | classes pleines a nouveau |
@@ -64,11 +68,12 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 - Diplome 2007 ; carriere ; passage Semi-Grade 1 ; prof de 1ere annee a Kyoto (post-2008) -> roadmap / cf. Factions/Universite_Kyoto.md.
 - Revelation tardive de sa technique en canon (chap. 223) : detail meta, sans incidence sur l'etat 2005 (le sort inne est present des le depart).
 - Evolution du lien avec Nisha (du malentendu-rivalite a la complementarite d'enseignantes) -> roadmap.
-- Lien avec Yukiko Kamo -> roadmaps Yukiko.
+- Yukiko : amorce et couple SOLDES en A1 (cf. Roadmap/Yukiko/Roadmap_A1.md) ; restent son creux 2007-2009 (diplome -> chaire) et la vie de couple d'ere B -> roadmaps suivantes.
 
 ## Pointeurs
 - universite de Kyoto / corps enseignant : cf. Factions/Universite_Kyoto.md.
 - Collegue / dynamique : cf. Personnages/Nisha.md ; rapport canon a Gojo : cf. Personnages/Satoru.md.
+- Compagne : cf. Personnages/Yukiko.md, Yukiko_chrono_A.md.
 - Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
 
 ---
