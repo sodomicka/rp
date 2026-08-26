@@ -106,4 +106,12 @@ Format libre : `<entite/lieu> | <arc ou contexte> | <point a verifier / doute / 
 
 ---
 
+## 2026-08-26 - Revision systeme BIBLE (SPEC v8.4)
+- SPEC_BIBLE_LORE_WIKI v8_4 livree : doctrine "monde en notices", decroissance obligatoire, plafond d'entree, SB8 definition+statut, chantier interdit en BIBLE, famille satellites d'entite, derogation prota 20k, gabarit relations. A uploader en Config/ (retirer v8_3).
+- A FAIRE : purge BIBLE B18 -> B19 selon doctrine v8.4 (80 050 car. -> cible 35-40k ; gisements : SB8 15,2k, SB4 13,9k, SB5 23,8k). Regle : chaque fait retire doit avoir un domicile VERIFIE en fiche/roadmap/chantier avant suppression - lister les orphelins, le worldbuilder tranche. Session dediee recommandee (BIBLE BUILD lourd).
+- A FAIRE : session relations Nisha, premiere application du pattern _relations_N. Trous a combler par le worldbuilder (le MJ arrive avec l'inventaire de l'acte, ne comble rien) : surnoms/adresses avec Satoru, Naoya, Geto, Shoko, Tsumiki, Megumi, Yukiko, Nitta ; rituels ; dynamiques ; ce que chacun sait.
+- Au prochain touch de Nisha.md : purger la section "Notes de frontiere" - garder les 3 renvois de routage, EXPULSER les 2 deroules futurs (devenir post-A2, sort de Satoru : doublons SB8/roadmaps, ~700 car.). Fiche legalisee a 19 892 car. par la derogation prota.
+- Yukiko : candidate future au pattern _relations_N (Utahime, Nori). En attente.
+- Instructions Wiki (fichier de projet) : pointeur "Dernier connu : SPEC_BIBLE_LORE_WIKI_v8_3.md" a mettre a jour en v8_4.
+
 FIN_WIKI__IMPLICATIONS
