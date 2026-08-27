@@ -1,6 +1,6 @@
 # Nisha Zenin - Relations : famille
 
-- version : W2
+- version : W3
 
 Page relations de Nisha, cercle FAMILLE : le clan (sang) et la famille choisie (le foyer de Saitama). Serie en quatre pages par cercles ; regles generales et convention : cf. Nisha_relations_proches.md.
 
@@ -49,7 +49,7 @@ Page relations de Nisha, cercle FAMILLE : le clan (sang) et la famille choisie (
 
 ### Mai (protegee)
 - Statut : cousine, protegee AVANT d'etre eleve (2e annee sous Nisha des avr 2018) - le frein gemellaire, l'enjeu le plus lourd du duo.
-- Appellatifs : elle -> Mai : Mai, l'artilleuse. Mai -> elle : Nisha, Madame Zenin (registre scolaire - le meme mot qu'avant 2006, retourne en titre de prof).
+- Appellatifs : elle -> Mai : Mai, l'artilleuse (tactique ; convention : cf. Nisha_relations_boulot.md). Mai -> elle : Nisha, Madame Zenin (registre scolaire - le meme mot qu'avant 2006, retourne en titre de prof).
 - Registre : mentorat d'abord interesse, puis sincere. Mai aime se sentir appreciee - meme, voire surtout, par ses anciens bourreaux : elle y sent qu'elle obtient ce qu'elle merite, la reconnaissance de la plus forte, de la plus Zenin des femmes.
 - Contentieux : le harcelement d'enfance, transmute cote Mai en valeur de la reconnaissance (cf. Registre) ; "Mai seule" au clan des 2014 (Maki partie a Saitama).
 - Evolution datee : 2006 harcelement puis protectorat -> 2011 pivot en sa faveur (plafond 8) -> 2014 seule au clan -> 2015 la lecon de Construction (exploite 3 -> 8) -> 2017 eleve d'Utahime -> avr 2018 eleve de Nisha ("Madame Zenin", nouveau sens).
