@@ -1,6 +1,6 @@
 # _Implications
 
-- version : W39
+- version : W42
 
 Journal de conception (passes en spirale). Document de TRAVAIL : jamais fetche en narration.
 
@@ -23,6 +23,8 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas ecrites. BIBLE 
 - Repas claniques | roadmaps | 29 fev 2008 = SEULE edition dramatique restante (quelques semaines apres le massacre de Geto fin 2007, un mois avant le diplome de mars 2008) - placement roadmap A DECIDER, retropropagation aux roadmaps de Nisha.
 
 ## Questions ouvertes - a trancher
+
+- Amendement de spirale Eien-1997 | ere B/C | Nisha apprend-elle un jour (2015+) que 1997 fut un putsch et non un don ? [non fixe]. Levier dramatique potentiel des visites.
 
 - Nozomu x Uraume | ere D | (i) Regle des signatures x domination : Nozomu ecrasant Uraume, commande-t-il les DEUX arsenaux (son kit + Ice Formation/RCT), facon Sukuna-dans-Megumi ? (ii) Forme physique au reveil : corps de fleau propre ou corps de Shiori Himi remodele ? (iii) Savoir d'Uraume sur la lettre de Saitama (designer Tsumiki suppose de connaitre la clause de protection) : canal a fixer. (iv) Modalite de garde de Tsumiki : "sous la garde directe de Sukuna" -> garde rapprochee [A CONFIRMER].
 - Flagellation du Bourreau | ere D | Face au camp Nisha : qu'est-ce qui compte comme horreur INFLIGEE chez elle (coup d'Etat assume, vente de 2015 arrachee sous possession) ? Panda, corps maudit dote d'une ame, est-il une ame pure epargnee par conception ?
@@ -48,10 +50,14 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas ecrites. BIBLE 
 - Yukiko ere B | rattachements | Refus conditionnel de la chaire (2013) -> rattacher B1 (resto mars 2013). Majorite de Nori + refus du titre (5 juin 2015) -> rattacher B2.
 - Roadmaps eres C et D | Passe 2 | A ECRIRE. Elles resorbent la section "Faits actes en attente de leur strate" ci-dessus et le chantier Roadmap/_Chantier_Passe2_EresCD.md.
 - Pedagogie/Perso_Tokyo_2018-2021 | ere C | Page a RELIVRER quand Yuji et Nobara entrent en scene (chantiers attendant la roadmap ere C).
-- Session relations Nisha | pattern _relations_N | Premiere application. Trous a combler par le worldbuilder (le MJ arrive avec l'inventaire de l'acte, ne comble rien) : surnoms et adresses avec Satoru, Naoya, Geto, Shoko, Tsumiki, Megumi, Yukiko, Nitta ; rituels ; dynamiques ; ce que chacun sait. Yukiko : candidate suivante (Utahime, Nori).
+- Session relations Nisha | pattern _relations par cercles | RESTE : pages Nisha_relations_boulot.md (collegues Gakuganji/Utahime/Mei Mei/Nanami/Ijichi + eleves de Kyoto Nitta/Todo/Noritoshi/Momo/Miwa/Mechamaru) et Nisha_relations_eleves_tokyo.md (proteges de Satoru : Yuta, Toge, Hakari, Kirara, Yuji, Nobara) - a dicter en thread dedie (prompt genere). Yuji et Nobara sont SANS fiche noyau : creation des fiches dans la foulee ou entree relations seule, [non tranche] - a poser au thread. Regles generales transversales : en tete de _proches. Yukiko : candidate suivante du pattern (Utahime, Nori).
 - GRAINE NAOYA | roadmaps Yukiko | Portee en fiches ; le deploiement fin en POV Naoya (Yukiko autant alliee que rivale, il comprend qu'elle le depasse surement) reste A JOUER.
 
 ## Propagations en attente
+
+- Amendement de spirale Eien-1997 + page relations | prochain BIBLE BUILD | SB5 vocabulaire lignes Nisha et Eien (fin du "parasite mate" / "hote-geoliere" -> maitresse qui s'ignore geoliere, amie de facade jusqu'en 2015) ; SB0 comptage ; Sommaire : indexer la serie Personnages/Nisha_relations_proches.md / _famille.md (livrees ; _boulot et _eleves_tokyo a leur livraison) et reconcilier les canaris des fiches touchees.
+- Roadmap/Nisha/Roadmap_A0 | au prochain passage roadmap | Verifier les jalons 1997 et 2000 (si rendus en scene) contre l'amendement de spirale Eien-1997 : plus de putsch percu, vertige explique en amitie, motif du grade = alliee inconditionnelle.
+- Nisha_chrono_B.md | a l'occasion | Entree 2015 : la couleur "double trahison" (chantage + viol par l'amie) peut etre reportee au delta d'etat a la prochaine relivraison. Aucune contradiction en l'etat, enrichissement seulement.
 
 - BIBLE SB1 | prochain BIBLE BUILD | REGLE D'EVEIL : le sort inne s'eveille TYPIQUEMENT VERS 4 ANS. Norme, pas loi absolue. Points de donnees : Nozomu (Genroku, 4 ans), Satoru (1990-1991, 4 ans), Noritoshi Kamo (5 juin 2001, 4 ans).
 - Factions/Clan_Gojo.md | meme moment | La parenthese "(L'age d'eveil varie ; precedent maison d'un eveil a 4 ans : cf. Personnages/Nozomu.md)" gagne un second point de donnee depuis que l'eveil de Satoru est fixe a 4 ans.
