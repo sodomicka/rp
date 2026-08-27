@@ -1,8 +1,8 @@
 # Detection et contention - 1re annee
 
-- version : W1
+- version : W2
 
-Page = fiche de cours (dossier Pedagogie/). Donne le niveau CLASSIQUE en plein, puis les deltas AVANCE CLANIQUE et OMNISCIENT VULGARISE. L'ecart enseigne/verite est cartographie en fin de page. Cadre general (rythme, bareme, poles) : cf. Pedagogie/Resume_Enseignements.md. Au prochain BIBLE BUILD : indexer cette page au Sommaire ; reporter les propagations (Nitta, Ijichi, Toji, lexique du tissage) listees en _Implications.md.
+Page = fiche de cours (dossier Pedagogie/). Donne le niveau CLASSIQUE en plein, puis les deltas AVANCE CLANIQUE et OMNISCIENT VULGARISE. L'ecart enseigne/verite est cartographie en fin de page. Cadre general (rythme, bareme, poles) : cf. Pedagogie/Resume_Enseignements.md.
 
 ## Cadre du cours
 - Discipline : Detection et contention. Annee 1 (theorique). Un sujet par semestre.

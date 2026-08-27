@@ -1,6 +1,6 @@
 # Hautes Instances
 
-- version : W5
+- version : W6
 
 ## Nature
 - Canon : le sommet conservateur et sans visage du monde de l'exorcisme - elles emettent les ordres (executions comprises), pesent en politique, et sont adossees aux trois grandes familles. Elles tronent AU-DESSUS des deux universites : les universites en derivent (gouvernance), comme elles derivent de Tengen (barrieres). Cf. Personnages/Tengen.md.
@@ -25,7 +25,7 @@
 
 ## Rapport aux clans
 - [DIVERGENCE RP] Les trois grandes familles arment six des dix sieges : les hautes instances sont donc le BRAS POLITIQUE COMMUN de la caste (Gojo, Kamo, Zenin), pas un contre-pouvoir. Le siege Kamo est tenu par un emissaire (echo de la gouvernance Kamo). Les Zenin de Naobito et Ogi y sont proches de Gakuganji (cf. cinq raisons du transfert de Nisha, Personnages/Nisha.md).
-- [DIVERGENCE RP] REPAS CLANIQUES KAMO/ZENIN : les cinq sieges de Kyoto organisent un repas qui reunit les deux clans de leur turf le 29 FEVRIER - le jour qui n'existe qu'une annee sur quatre (1988, 1992, 1996, 2000, 2004, 2008, ...). Le cycle de quatre ans decoule du calendrier lui-meme ; un jour hors du calendrier ordinaire n'appartient a aucun clan (terrain neutre), et offrir le jour intercalaire au clan du TEMPS est une courtoisie ceremonielle calculee. (2000 etait bien bissextile - regle des 400 ans ; prochaine exception : 2100, hors cadre.) Les Gojo, clan de Tokyo, n'y sont pas. Lieu de rencontre de Yukiko Kamo et des jumeaux Zenin (1992). Editions jouees -> roadmaps (Roadmap_A0 Nisha, roadmaps Yukiko). (cf. Factions/Clan_Kamo.md, Clan_Zenin.md, Personnages/Yukiko.md)
+- [DIVERGENCE RP] REPAS CLANIQUES KAMO/ZENIN : les cinq sieges de Kyoto organisent un repas qui reunit les deux clans de leur turf le 29 FEVRIER - le jour qui n'existe qu'une annee sur quatre (1988, 1992, 1996, 2000, 2004, 2008, ...). Le cycle de quatre ans decoule du calendrier lui-meme ; un jour hors du calendrier ordinaire n'appartient a aucun clan (terrain neutre), et offrir le jour intercalaire au clan du TEMPS est une courtoisie ceremonielle calculee. (2000 etait bien bissextile - regle des 400 ans ; prochaine exception : 2100, hors cadre.) Les Gojo, clan de Tokyo, n'y sont pas. Lieu de rencontre de Yukiko Kamo et des jumeaux Zenin (1992). GAKUGANJI Y EST PRESENT es qualites, en tant que seul visage public du groupe, a fortiori a Kyoto - depuis sa prise de poste, bien avant la naissance de la generation Nisha/Yukiko : toutes les editions jouees ou evoquees sont couvertes. Editions jouees -> roadmaps (Roadmap_A0 Nisha, roadmaps Yukiko). (cf. Factions/Clan_Kamo.md, Clan_Zenin.md, Personnages/Yukiko.md)
 
 ## Place dans le focus
 - Plafond institutionnel au-dessus des protagonistes : elles sanctionnent, ordonnent, temporisent. Conservatrices par nature.

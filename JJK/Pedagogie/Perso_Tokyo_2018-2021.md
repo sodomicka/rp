@@ -1,8 +1,8 @@
 # Enseignement personnalise - Tokyo, promo 2018-2021
 
-- version : W1
+- version : W2
 
-Page = fiche d'enseignement personnalise (dossier Pedagogie/). Une page par promotion a casting fiche ; ne couvre que les annees tenues par un professeur du perimetre (ici Satoru, 1re annee entamee en avril 2018). Frontiere de l'etabli : juin 2018 - deux mois de cours. Le chantier est CHOISI a la rentree ; son resultat est en cours a la frontiere, et rien n'est ecrit au-dela. Cadre general : cf. Pedagogie/Resume_Enseignements.md. Au prochain BIBLE BUILD : indexer au Sommaire.
+Page = fiche d'enseignement personnalise (dossier Pedagogie/). Une page par promotion a casting fiche ; ne couvre que les annees tenues par un professeur du perimetre (ici Satoru, 1re annee entamee en avril 2018). Frontiere de l'etabli : juin 2018 - deux mois de cours. Le chantier est CHOISI a la rentree ; son resultat est en cours a la frontiere, et rien n'est ecrit au-dela. Cadre general : cf. Pedagogie/Resume_Enseignements.md.
 
 ## Cadre
 - Eleve fiche : Megumi Fushiguro, seul 1re annee a la rentree d'avril 2018, dans la classe de son pere (cf. Personnages/Megumi.md). Yuji Itadori et Nobara Kugisaki n'arrivent qu'en ere C : leurs chantiers attendent la roadmap, cette page sera relivree.

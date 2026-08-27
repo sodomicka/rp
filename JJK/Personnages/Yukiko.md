@@ -1,6 +1,6 @@
 # Yukiko Kamo
 
-- version : W7
+- version : W8
 
 Fiche NOYAU (OC, niveau fandom). Etat atemporel / point de depart (1 avr 2005). Couche RP entierement [DIVERGENCE RP] (OC sans equivalent canon) : balise portee une fois ici, non repetee ligne a ligne. Plot post-depart -> roadmaps Yukiko ; devenir -> Yukiko_chrono_A.md (ere A) et Trajectoire datee en bas de page (eres B+, en attente de scission). Resume condense en BIBLE SB5.
 
@@ -91,6 +91,7 @@ Objet maudit, forge sur mesure pour la princesse Kamo. Detail : cf. BIBLE SB7 et
 
 ### Les jumeaux Zenin - les rares amis
 - Repas claniques Kamo/Zenin chaque 29 FEVRIER (1988, 1992, 1996, 2000, 2004, 2008 ; cf. Factions/Hautes_Instances.md). 1988 : trop jeune. Trois rencontres, trois Yukiko :
+- LA COUSINADE DES HERITIERS - en GENERIQUE sur toutes les editions d'enfance communes, sans detail par annee : les trois heritiers passent la journee ensemble et jouent aux echecs, au go et au shogi. Chacun est l'equivalent de l'autre dans une autre famille, meme age, une journee entiere pour soi : on se raconte ce qu'on devient. Vecu de part et d'autre comme une COUSINADE.
 - 29 fev 1992 (5 ans, deux mois apres la mort de Fubuki) : les jumeaux - Nisha, encore en education servante, assise juste a cote de Naoya, qui n'a jamais tolere qu'on la mette ailleurs - rencontrent le MASQUE : deuil feint, douceur polie, et une indifference totale a sa propre gloire qu'ils lisent comme de l'humilite ("une heritiere tres humble sur ce qu'elle vaut" - malentendu fondateur). LEURRES. Rien dedans.
 - 29 fev 1996 (9 ans) : toujours le masque - mais cette fois les jumeaux le FLAIRENT (deux enfants qui jouent un role clanique en reconnaissent un troisieme), sans deviner ce qu'il cache.
 - 29 fev 2000 (13 ans) : ce n'est plus la meme. Le masque cache desormais la ruse, et la Yukiko dessous n'est plus un vide : elle voit en eux des allies pour l'avenir des clans, voire des amis - et TOMBE le masque pour eux, leur revele que Nori est tout ce qui importe au monde pour elle. Les jumeaux voient le changement ; autre clan, mieux a faire que d'investiguer.

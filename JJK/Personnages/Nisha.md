@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W19
+- version : W20
 
 Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depart (2005) : identite, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datee post-depart) est scinde par volume pour le poids -> cf. section dediee en bas de fiche et Personnages/Nisha_chrono_A.md.
 
@@ -93,7 +93,7 @@ Fiche propre de Naoya : cf. Personnages/Naoya.md. Ici, seul son rapport a Nisha.
 - Maki crache sur le systeme ; Nisha s'en fait la gardienne, car il la couronne.
 - Croyance d'enfance sincere : l'elue, la seule femme a porter un vrai prenom. [DIVERGENCE RP] Convention de nommage Zenin : un vrai prenom = reconnaissance pleine (ni servante ni uterus). Lore neuf.
 - Face a elle-meme : "moi l'exception", au-dessus des faibles.
-- [DIVERGENCE RP] L'unique exception feminine de 2005 : Yukiko Kamo, princesse Kamo et amie d'enfance (repas claniques Kamo/Zenin, rencontre 1992 - amitie retracee, avec son asymetrie, en Personnages/Yukiko.md). La seule femme que Nisha voit comme consciente de sa place - elles s'entendent a merveille. La louve et la vipere : Nisha arrogante, directe, sans faux-semblants ; Yukiko politesse, faux sourires, franchise enrobee. Cf. Personnages/Yukiko.md.
+- [DIVERGENCE RP] L'unique exception feminine de 2005 : Yukiko Kamo, princesse Kamo et amie d'enfance (repas claniques Kamo/Zenin, rencontre 1992 - amitie retracee, avec son asymetrie, en Personnages/Yukiko.md). La seule femme que Nisha voit comme consciente de sa place - elles s'entendent a merveille. La louve et la vipere : Nisha arrogante, directe, sans faux-semblants ; Yukiko politesse, faux sourires, franchise enrobee. Cousinade des heritiers aux repas bissextiles, en generique sur toutes les editions d'enfance (sans detail par annee) : les trois passent la journee ensemble - echecs, go, shogi -, chacun l'equivalent de l'autre dans une autre famille, meme age ; on se raconte ce qu'on devient. Cf. Personnages/Yukiko.md.
 - Intraitable sur la ponctualite et la rigueur : un retard ou un travail bacle, c'est un mepris a ses yeux (ce qui lui fait apprecier les rares qui partagent cette exigence - cf. Nanami, Ijichi en A2).
 - Accepte d'etre monnaie d'echange matrimonial (femme = ressource pour le clan).
 - Mentalite type Maki/Yuta (canon) : l'homme qui la meritera est celui capable de la vaincre. Gojo la depasse sur quelques aspects.
@@ -149,8 +149,6 @@ Apportees par le conseil Zenin (Naobito, Jinichi, Ogi).
 - Backstory COMPLETE detaillee + instance jouee : a venir en Parties/JJK/Partie1/Suivi/ + CODEX (setup / V1).
 - Fiches propres d'Eien et Kenjaku : cf. WIKI Personnages/. Fiche de Naoya : cf. Personnages/Naoya.md.
 - Cosmogonie du couple, origine des trois familles : cf. WIKI Cosmogonie/Trois_Esprits.md.
-- Devenir post-A2 (ere B+) : convergence de la bascule d'Eien (failles engrangees) et de l'essor de son instinct protecteur (~2015+) ; elle forme Akari Nitta a Kyoto ; la tension avec Yuki detonera post-Shibuya (Nisha la tiendra pour responsable du desastre Geto + Kenjaku-dans-Geto). -> Nisha_chrono_B.md / roadmaps ere B.
-- Sort de Satoru a partir de 2018 : OUVERT, peut diverger du canon - Nisha a ses cotes peut en devier le cours. Reference canon (dates in-world) : scelle a Shibuya le 31 oct 2018, libere puis tue par Sukuna le 24 dec 2018 (Shinjuku). Rien de cela n'est acquis dans le RP ; a trancher plus tard (cf. BIBLE SB8).
 
 ---
 

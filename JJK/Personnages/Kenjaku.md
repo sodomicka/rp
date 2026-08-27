@@ -1,6 +1,6 @@
 # Kenjaku
 
-- version : W10
+- version : W11
 
 Canon JJK + couche RP (origine Kamo, couple avec Eien). Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -40,6 +40,14 @@ Dans le monde, Kenjaku n'a d'autre apparence que celle de son vaisseau du moment
 - Composition : double Levy d'ordre 11, Gosper d'ordre 9, Koch d'ordre 23. Personne au monde ne la connait hors du couple architecte - les rideaux fractals d'ordre 8 et au-dela sont deja la specialite documentaire des Kamo, et il est alle bien au-dela. Cf. Factions/Clan_Kamo.md, Pedagogie/Detection_Contention_2eAnnee_S1.md.
 - Destination connue du RP : le sceau de Satoru. Le "comment" y mener sa cible est ce qu'il ARRACHE a Nisha en 2015 (cf. Trajectoire datee).
 - LA FAILLE QU'IL CONNAIT : la Lisiere est concue pour ne PAS s'ouvrir de l'interieur - meme un porteur des Six Yeux, s'il en percait l'analyse, y resterait. De l'EXTERIEUR, une seule tisseuse vivante peut la defaire sans en connaitre la composition : Yukiko Kamo. Il le sait, et parie sur son obsession du clan. -> ere C (cf. Pedagogie/Detection_Contention_2eAnnee_S2.md).
+
+## Le rideau de Takatsuki - le double fond
+[DIVERGENCE RP] Objet maudit de grade special, piege-sceau a usage unique, DE SA MAIN : une Lisiere-lite taillee sur la SIGNATURE GEMELLAIRE des jumeaux Zenin (source de la signature : [PROPOSE : Eien ; NON TRANCHE]).
+- [DIVERGENCE RP] REGLE DES SIGNATURES (transversale ; BIBLE SB1 fait foi) : la signature occulte suit ce qu'on VISE - chaque ame garde la sienne, attachee a SES sorts. Nisha et Eien portent donc des signatures DISTINCTES, et le corps en porte deux. Qui commande quoi depend du rapport de DOMINATION, pas de la signature : Nisha resiste, donc Nisha commande les DEUX sorts (Chronostase innee et Chronokinesie d'Eien) et Eien n'en commande AUCUN. Cf. Personnages/Sukuna.md, Nisha.md.
+- CONSEQUENCE : un rideau taille sur la signature des jumeaux ne touche PAS Eien, dont la signature est distincte de celle de son hote. Affaiblir le parasite n'a jamais ete le but.
+- BUT REEL : EPUISER Nisha pour ouvrir la FENETRE d'Eien et qu'elle l'ecrase - echo direct du calcul de 2015 ("lui saura briser Nisha la ou la force a echoue", cf. Personnages/Eien.md).
+- ECHEC : Nisha sait comment ne pas se faire vider de son energie occulte - ne rien faire.
+- Deroule (verrouillage des jumeaux le 31 oct 2018 pendant Shibuya, demelage par Yukiko la nuit meme) : cf. BIBLE SB7/SB8 et roadmaps ere C.
 
 ## Role cosmogonique (avec Eien)
 - [DIVERGENCE RP] Co-architecte des trois familles : forge des techniques, selection du sang, infiltration des clans. Detail : cf. Cosmogonie/Trois_Esprits.md.

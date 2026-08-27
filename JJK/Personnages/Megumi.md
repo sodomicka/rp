@@ -1,6 +1,6 @@
 # Megumi Fushiguro
 
-- version : W4
+- version : W5
 
 Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = qui est Megumi a son entree en scene (identite, nature, sort, psychologie, relations) ; son devenir post-2008 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps ere B). Enfant sur tout B1 : scaling de combat non pertinent (potentiel seulement).
 
@@ -39,6 +39,7 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya
 
 ### Nisha - mere
 - [DIVERGENCE RP] Mere qui l'eleve "puissant qui protege", hors logique Zenin. Exigeante (rigueur, ponctualite), mais protectrice. Premier visage concret de la doctrine educative co-arretee avec Naoya (A2_10).
+- [DIVERGENCE RP] C'est PAR ELLE que Megumi obtient l'ACCES AUX ARCHIVES DU CLAN ZENIN, malgre son education hors-clan (Tsumiki l'obtient de meme, avec droit de regard du conseil sur les articles Okaruto). Datation -> roadmap. Cf. Factions/Clan_Zenin.md, Personnages/Tsumiki.md.
 
 ### Satoru - pere
 - [DIVERGENCE RP] Pere joueur, qui le decoince a force de faire le clown (Megumi enfant trop serieux = cible ideale de ses pitreries). Lien d'affection reel sous le registre ludique.

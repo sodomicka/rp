@@ -1,6 +1,6 @@
 # Eien
 
-- version : W10
+- version : W11
 
 OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokinesie). Moitie du couple architecte avec Kenjaku. Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -49,6 +49,8 @@ OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokin
 - [DIVERGENCE RP] Depuis l'echec de 1997, Eien ne fait pas que subir : elle NOURRIT un desir de controle obsessionnel sur Nisha, frustration de geoliere renversee qui macere a bas bruit (l'hote parfaite, inexploitable de force ; cf. la regle de bascule ci-dessous). Ce desir - quinze ans de patience au moment ou il aboutira - est le moteur intime de sa trahison a venir (cf. Notes de frontiere ; roadmaps ere B).
 - [DIVERGENCE RP] Pourquoi elle continue de la renforcer malgre l'echec : elle est COINCEE. Tant qu'elle n'a pas le controle, elle n'a nulle part ou aller - autant que le corps qui la porte soit le meilleur possible. L'espoir se reporte sur Kenjaku : lui saura BRISER Nisha la ou la force a echoue. Ce calcul aboutit en 2015 (cf. Trajectoire datee) - et rate.
 - Regle de bascule (capitale) : Eien ne peut PAS prendre le controle de force. Elle le pourrait si Nisha baissait sa garde (par amour). Faille latente, non exploitee a ce stade.
+- [DIVERGENCE RP] REGLE DES SIGNATURES (transversale ; BIBLE SB1 fait foi) : la signature occulte suit ce qu'on VISE - chaque ame garde la sienne, attachee a SES sorts. Nisha et Eien portent donc des signatures DISTINCTES, et le corps en porte deux. Qui commande quoi depend du rapport de DOMINATION, pas de la signature : Nisha resiste, donc Nisha commande les DEUX sorts (Chronostase innee et Chronokinesie d'Eien) et Eien n'en commande AUCUN. Cf. Personnages/Sukuna.md, Nisha.md.
+- [DIVERGENCE RP] EXTENSION DE LA REGLE DE BASCULE : la garde de Nisha ne tombe pas seulement par l'amour - l'EPUISEMENT OCCULTE est lui aussi une garde baissee. Une Nisha videe de son energie occulte ouvre a Eien la meme fenetre. C'est sur ce levier que Kenjaku batira le rideau de Takatsuki (cf. Personnages/Kenjaku.md, BIBLE SB7) - et il ECHOUE : Nisha sait comment ne pas se faire vider, il suffit de ne rien faire.
 - "Mate a Nisha" = lien parasitaire, pas romantique. L'amante d'Eien, c'est Kenjaku.
 
 ## Trajectoire datee - ere B (entrees B1-B3 ; alimentee a chaud arc par arc)

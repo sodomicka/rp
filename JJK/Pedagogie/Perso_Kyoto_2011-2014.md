@@ -1,8 +1,8 @@
 # Enseignement personnalise - Kyoto, promo 2011-2014
 
-- version : W1
+- version : W2
 
-Page = fiche d'enseignement personnalise (dossier Pedagogie/). Une page par promotion a casting fiche ; ne couvre que les annees tenues par un professeur du perimetre (ici Nisha, 2e annee 2012-2013). Cadre general (rythme, poles, enseignement non note) : cf. Pedagogie/Resume_Enseignements.md. Au prochain BIBLE BUILD : indexer au Sommaire.
+Page = fiche d'enseignement personnalise (dossier Pedagogie/). Une page par promotion a casting fiche ; ne couvre que les annees tenues par un professeur du perimetre (ici Nisha, 2e annee 2012-2013). Cadre general (rythme, poles, enseignement non note) : cf. Pedagogie/Resume_Enseignements.md.
 
 ## Cadre
 - Eleve fichee : Akari Nitta, filiere assistant manager (cf. Personnages/Nitta.md). Promo 2011-2014 : 1re annee sous Utahime (2011-2012), 2e annee sous NISHA (2012-2013), 3e annee sous Mei Mei (2013-2014). Seule la 2e annee est detaillee ici.

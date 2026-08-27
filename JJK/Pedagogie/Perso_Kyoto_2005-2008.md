@@ -1,8 +1,8 @@
 # Enseignement personnalise - Kyoto, promo 2005-2008
 
-- version : W1
+- version : W2
 
-Page = fiche d'enseignement personnalise (dossier Pedagogie/). Une page par promotion a casting fiche ; ne couvre que les annees tenues par un professeur du perimetre (ici Gakuganji, les trois ans). Cadre general (rythme, poles, enseignement non note) : cf. Pedagogie/Resume_Enseignements.md. Au prochain BIBLE BUILD : indexer au Sommaire.
+Page = fiche d'enseignement personnalise (dossier Pedagogie/). Une page par promotion a casting fiche ; ne couvre que les annees tenues par un professeur du perimetre (ici Gakuganji, les trois ans). Cadre general (rythme, poles, enseignement non note) : cf. Pedagogie/Resume_Enseignements.md.
 
 ## Cadre
 - Promotion de Naoya Zenin. Professeur : Yoshinobu Gakuganji, principal ET professeur, qui suit la promo les trois ans (2005-2008). Pole avance clanique.

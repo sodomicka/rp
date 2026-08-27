@@ -1,6 +1,6 @@
 # Naoya Zenin
 
-- version : W16
+- version : W17
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -22,7 +22,7 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 
 ## Grade et scaling
 - Grade Special 1 (au point de depart, 2005) : rang d'elite de clan - le fourre-tout des grandes familles pour les exorcistes de classe Special et de Grade 1 (canon). Comme Naobito, Jinichi et Ogi. (Les autres nommes du Hei, dont Ranta, sont Semi-Grade 1.)
-- [DIVERGENCE RP] Inscrit a Kyoto (universite d'exorcisme) a partir de 2005, separe de Nisha (envoyee a Tokyo). Son entree dans le systeme public ouvre, comme pour elle, un classement officiel a venir -> roadmap. Ranta est de sa promo, ainsi que Yukiko Kamo - princesse Kamo, amie d'enfance des jumeaux depuis le repas clanique de 1992 (amitie retracee, avec son asymetrie, en Personnages/Yukiko.md), ou il n'a jamais tolere que sa soeur soit assise ailleurs qu'a cote de lui. TRIO SOUDE a Kyoto : Naoya en leader, Yukiko, Ranta.
+- [DIVERGENCE RP] Inscrit a Kyoto (universite d'exorcisme) a partir de 2005, separe de Nisha (envoyee a Tokyo). Son entree dans le systeme public ouvre, comme pour elle, un classement officiel a venir -> roadmap. Ranta est de sa promo, ainsi que Yukiko Kamo - princesse Kamo, amie d'enfance des jumeaux depuis le repas clanique de 1992 (amitie retracee, avec son asymetrie, en Personnages/Yukiko.md), ou il n'a jamais tolere que sa soeur soit assise ailleurs qu'a cote de lui. TRIO SOUDE a Kyoto : Naoya en leader, Yukiko, Ranta. Cousinade des heritiers aux repas bissextiles, en generique sur toutes les editions d'enfance (sans detail par annee) : les trois passent la journee ensemble - echecs, go, shogi -, chacun l'equivalent de l'autre dans une autre famille, meme age ; on se raconte ce qu'on devient.
 - Solo, progression continue a l'universite : 8 doigts (2005, 14.09 %) -> 10 (2006, 21.41 %) -> 11 (2007, 26.02 %) -> 12 (2008, diplome, 31.30 %) -> 14 adulte (43.94 %). Classe de puissance Grade 1 a l'universite, classe Special a l'age adulte. Cf. Power_Scaling/Doigts_de_Sukuna.md.
 - [DIVERGENCE RP] Plus fort que dans le canon : la resonance gemellaire lui fait toucher le surplus d'energie saigne par Nisha (cf. pool gemellaire, fiche Nisha).
 - Resonance de combat avec Nisha (loi synergie/symbiose, cf. Power_Scaling/Doigts_de_Sukuna.md) : en duo, leur puissance combinee = (P_Naoya + P_Nisha) x (1 + 0.10*syn + 0.16*sym), syn (synergie, commune a tous les duos) et sym (symbiose, propre aux jumeaux) etant le niveau de relation du moment, chacun en fraction capee a 1. Ce n'est plus une courbe figee : la symbiose se calcule selon les puissances de l'instant et le niveau de relation. Repere d'apogee adulte (Naoya 14 + Nisha 18, syn = sym = 100 %) : ~24 doigts (153.84 %), au-dessus de Satoru seul (23). Etat de combat a deux (2 contre 1), hors du classement individuel.

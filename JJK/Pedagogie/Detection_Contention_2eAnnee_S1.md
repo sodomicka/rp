@@ -1,8 +1,8 @@
 # Detection et contention - 2e annee - S1 : Rideaux conditionnels et complexes
 
-- version : W2
+- version : W3
 
-Page = fiche de cours (dossier Pedagogie/), volet S1 de la 2e annee. Le volet S2 vit en page propre : Pedagogie/Detection_Contention_2eAnnee_S2.md. Donne le niveau CLASSIQUE en plein, puis les deltas AVANCE CLANIQUE et OMNISCIENT VULGARISE. L'ecart enseigne/verite est cartographie en fin de page. Cadre general (rythme, bareme, poles) : cf. Pedagogie/Resume_Enseignements.md. Au prochain BIBLE BUILD : indexer cette page au Sommaire ; REECRIRE l'ebauche 2A-S1 du Resume (la polarite est un trace vertical, pas une resonance de pavage) ; reporter les propagations listees en _Implications.md.
+Page = fiche de cours (dossier Pedagogie/), volet S1 de la 2e annee. Le volet S2 vit en page propre : Pedagogie/Detection_Contention_2eAnnee_S2.md. Donne le niveau CLASSIQUE en plein, puis les deltas AVANCE CLANIQUE et OMNISCIENT VULGARISE. L'ecart enseigne/verite est cartographie en fin de page. Cadre general (rythme, bareme, poles) : cf. Pedagogie/Resume_Enseignements.md.
 
 ## Cadre du cours
 - Discipline : Detection et contention. Annee 2 (theorique). Un sujet par semestre. Ce volet : S1, avril-septembre.

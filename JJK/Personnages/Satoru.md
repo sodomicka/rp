@@ -1,15 +1,17 @@
 # Satoru Gojo
 
-- version : W12
+- version : W13
 
 ## Identite
 - Nom : Satoru Gojo. Canon. Le guerrier parfait vivant du clan Gojo.
 - Naissance : 7 decembre 1986. Meme cohorte universitaire que Nisha (30 jan 1987), Geto (fev 1987), Shoko.
 - Porteur simultane de l'Infini et des Six Yeux : cumul d'une rarete extreme, rare et imprevisible (cf. Factions/Clan_Gojo.md).
+- [DIVERGENCE RP] STATUT DECOUVERT A L'EVEIL DE SON SORT, PAS A SA NAISSANCE (regle des yeux, cf. Factions/Clan_Gojo.md) : aucun moyen connu de reperer le Parfait au berceau. Eveil a 4 ANS (1990-1991) - avant, des yeux d'un bleu ordinaire, banal ; a l'eveil, des yeux irreels, absurdement bleus et complexes. C'est ce jour-la que le clan Gojo sait ce qu'il tient. (A ne pas confondre avec l'eveil de 2006 face a Toji, qui est une transcendance de puissance : cf. Trajectoire datee.)
+- [DIVERGENCE RP] Verite d'usage MJ, CONNUE DE PERSONNE AU MONDE (Satoru compris) - LA SYMETRIE-VACCIN : un eveil des Six Yeux ouvre le passe du porteur ; Satoru a survecu au sien parce que ses yeux n'avaient aucune maltraitance a lui montrer. La douceur du clan, nee de la mort de Nozomu, est exactement ce qui l'a sauve du sort de Nozomu - et il ne le saura jamais tant qu'il n'ouvre pas les archives. Cf. Factions/Clan_Gojo.md, Personnages/Nozomu.md.
 - Statut dans le clan : chef de fait (le conseil d'anciens se range sous l'autorite du guerrier parfait), mais ne s'en reclame jamais.
 
 ## Physique
-- Grand, longiligne. Cheveux blancs, yeux bleu clair (les Six Yeux).
+- Grand, longiligne. Cheveux blancs, yeux bleu clair (les Six Yeux) - d'un bleu irreel, absurdement bleu et complexe depuis l'eveil de son sort a 4 ans ; d'un bleu ordinaire avant (regle des yeux, cf. Identite).
 - A l'epoque universite : porte un bandeau sur les yeux (canon) pour temperer le flux d'informations des Six Yeux. Apres l'eveil de 2006, passe aux bandages enroules (l'eveil intensifie l'afflux des Six Yeux ; cf. Trajectoire datee).
 - [DIVERGENCE RP] Le bandeau devient le cadeau d'anniversaire que Nisha lui offre chaque 7 decembre (tradition reciproque du collier ; cf. Trajectoire datee et SB7).
 
@@ -72,7 +74,8 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 ## Chronologie noyau (jusqu'au point de depart, 2005)
 | Date | Jalon |
 |---|---|
-| 7 dec 1986 | Naissance. Le guerrier parfait du clan Gojo - porteur de l'Infini et des Six Yeux - est venu. |
+| 7 dec 1986 | Naissance. Le porteur de l'Infini et des Six Yeux est ne - mais RIEN ne le signale : le statut est invisible avant l'eveil du sort (regle des yeux, cf. Factions/Clan_Gojo.md). |
+| 1990-1991 (4 ans) | EVEIL DU SORT INNE. Les yeux passent du bleu ordinaire a l'irreel (absurdement bleus et complexes) : le clan Gojo decouvre a cet instant qu'il tient un Guerrier Parfait. |
 | enfance | Le clan cede a ses caprices (assez raisonnables). Il se desinteresse vite du pouvoir politique et financier. |
 | 2005 | Inscrit a Tokyo (universite d'exorcisme). Chef de fait du clan ; 12 doigts, avant-eveil. Point de depart du RP. |
 

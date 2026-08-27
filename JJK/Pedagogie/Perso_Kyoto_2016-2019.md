@@ -1,8 +1,8 @@
 # Enseignement personnalise - Kyoto, promo 2016-2019
 
-- version : W1
+- version : W2
 
-Page = fiche d'enseignement personnalise (dossier Pedagogie/). Une page par promotion a casting fiche ; ne couvre que les annees tenues par un professeur du perimetre (ici Nisha, 2e annee 2017-2018). Cadre general (rythme, poles, enseignement non note) : cf. Pedagogie/Resume_Enseignements.md. Au prochain BIBLE BUILD : indexer au Sommaire.
+Page = fiche d'enseignement personnalise (dossier Pedagogie/). Une page par promotion a casting fiche ; ne couvre que les annees tenues par un professeur du perimetre (ici Nisha, 2e annee 2017-2018). Cadre general (rythme, poles, enseignement non note) : cf. Pedagogie/Resume_Enseignements.md.
 
 ## Cadre
 - Eleves fiches : Aoi Todo, Noritoshi Kamo (capitaine), Momo Nishimiya (cf. fiches). Promo 2016-2019 : 1re annee sous Utahime (2016-2017), 2e annee sous NISHA (2017-2018), 3e annee sous Mei Mei (2018-2019, entamee en avril 2018). Seule la 2e annee est detaillee ici. Pole avance clanique en canal direct.

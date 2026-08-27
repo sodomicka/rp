@@ -1,8 +1,8 @@
 # Resume des enseignements - Universites d'exorcisme
 
-- version : W4
+- version : W5
 
-Page = carte des enseignements des deux universites (Tokyo et Kyoto). Sert de socle au dossier Pedagogie/ : le cadre commun vit ici, le contenu reel des cours vit dans les fiches de cours (les six sujets et les huit fiches d'enseignement personnalise du perimetre sont buildes). Les intitules de la grille fixent le PERIMETRE ; sur le fond, la fiche de cours prime. Au prochain BIBLE BUILD : indexer les fiches neuves au Sommaire, reporter les propagations listees en _Implications.md.
+Page = carte des enseignements des deux universites (Tokyo et Kyoto). Sert de socle au dossier Pedagogie/ : le cadre commun vit ici, le contenu reel des cours vit dans les fiches de cours (les six sujets et les huit fiches d'enseignement personnalise du perimetre sont buildes). Les intitules de la grille fixent le PERIMETRE ; sur le fond, la fiche de cours prime.
 
 ## Cadre general
 - Cursus de trois ans, entree post-bac a ~18 ans. [DIVERGENCE RP] sur l'entree post-bac (canon : entree a ~15-16 ans, apres le college). Duree de trois ans conforme au canon montre a l'ecran (le detail databook "quatre ans", jamais illustre, est exclu du perimetre canon par decision worldbuilder).

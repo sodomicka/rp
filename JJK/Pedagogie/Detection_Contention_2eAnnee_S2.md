@@ -1,8 +1,8 @@
 # Detection et contention - 2e annee - S2 : Sceaux, confinement, grandes barrieres
 
-- version : W2
+- version : W3
 
-Page = fiche de cours (dossier Pedagogie/), volet S2 de la 2e annee. Le volet S1 vit en page propre : Pedagogie/Detection_Contention_2eAnnee_S1.md - il porte toute la theorie (ancres fractales, chiralite, polarite, destructions) que ce semestre applique. Donne le niveau CLASSIQUE en plein, puis les deltas AVANCE CLANIQUE et OMNISCIENT VULGARISE. L'ecart enseigne/verite est cartographie en fin de page. Cadre general : cf. Pedagogie/Resume_Enseignements.md. Au prochain BIBLE BUILD : indexer cette page au Sommaire ; reporter les propagations listees en _Implications.md.
+Page = fiche de cours (dossier Pedagogie/), volet S2 de la 2e annee. Le volet S1 vit en page propre : Pedagogie/Detection_Contention_2eAnnee_S1.md - il porte toute la theorie (ancres fractales, chiralite, polarite, destructions) que ce semestre applique. Donne le niveau CLASSIQUE en plein, puis les deltas AVANCE CLANIQUE et OMNISCIENT VULGARISE. L'ecart enseigne/verite est cartographie en fin de page. Cadre general : cf. Pedagogie/Resume_Enseignements.md.
 
 ## Cadre du cours
 - Discipline : Detection et contention. Annee 2 (theorique). Un sujet par semestre. Ce volet : S2, octobre-mars.

@@ -1,8 +1,8 @@
 # Enseignement personnalise - Tokyo, promo 2017-2020
 
-- version : W1
+- version : W2
 
-Page = fiche d'enseignement personnalise (dossier Pedagogie/). Une page par promotion a casting fiche ; ne couvre que les annees tenues par un professeur du perimetre (ici Satoru, 1re annee 2017-2018). Frontiere de l'etabli : juin 2018. Cadre general (rythme, poles, enseignement non note) : cf. Pedagogie/Resume_Enseignements.md. Au prochain BIBLE BUILD : indexer au Sommaire.
+Page = fiche d'enseignement personnalise (dossier Pedagogie/). Une page par promotion a casting fiche ; ne couvre que les annees tenues par un professeur du perimetre (ici Satoru, 1re annee 2017-2018). Frontiere de l'etabli : juin 2018. Cadre general (rythme, poles, enseignement non note) : cf. Pedagogie/Resume_Enseignements.md.
 
 ## Cadre
 - Eleves fiches : Maki Zenin, Panda, Toge Inumaki, Yuta Okkotsu (arrive en cours d'annee). Promo 2017-2020 : 1re annee sous SATORU (2017-2018), 2e annee sous Kusakabe (entamee en avril 2018). Seule la 1re annee est detaillee ici. Pole omniscient vulgarise a plein regime.

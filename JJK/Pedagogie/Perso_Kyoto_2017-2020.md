@@ -1,8 +1,8 @@
 # Enseignement personnalise - Kyoto, promo 2017-2020
 
-- version : W1
+- version : W2
 
-Page = fiche d'enseignement personnalise (dossier Pedagogie/). Une page par promotion a casting fiche ; ne couvre que les annees tenues par un professeur du perimetre (ici Nisha, 2e annee entamee en avril 2018). Frontiere de l'etabli : juin 2018 - deux mois de cours. Les chantiers sont CHOISIS a la rentree ; leurs resultats sont en cours a la frontiere, et rien n'est ecrit au-dela. Cadre general : cf. Pedagogie/Resume_Enseignements.md. Au prochain BIBLE BUILD : indexer au Sommaire.
+Page = fiche d'enseignement personnalise (dossier Pedagogie/). Une page par promotion a casting fiche ; ne couvre que les annees tenues par un professeur du perimetre (ici Nisha, 2e annee entamee en avril 2018). Frontiere de l'etabli : juin 2018 - deux mois de cours. Les chantiers sont CHOISIS a la rentree ; leurs resultats sont en cours a la frontiere, et rien n'est ecrit au-dela. Cadre general : cf. Pedagogie/Resume_Enseignements.md.
 
 ## Cadre
 - Eleves fiches : Kasumi Miwa, Kokichi Muta (Mechamaru, present par robot interpose), Mai Zenin. Promo 2017-2020 : 1re annee sous Utahime (2017-2018), 2e annee sous NISHA (des avril 2018). Seule la 2e annee est detaillee ici. Pole avance clanique en canal direct.

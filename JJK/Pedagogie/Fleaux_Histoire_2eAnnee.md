@@ -1,8 +1,8 @@
 # Fleaux et histoire - 2e annee
 
-- version : W1
+- version : W2
 
-Page = fiche de cours (dossier Pedagogie/). Donne le niveau CLASSIQUE en plein, puis les deltas AVANCE CLANIQUE et OMNISCIENT VULGARISE. La verite du monde vit en Cosmogonie/Trois_Esprits.md et dans les fiches pointees ; l'ecart enseigne/verite est cartographie en fin de page. Cadre general (rythme, bareme, poles) : cf. Pedagogie/Resume_Enseignements.md. Au prochain BIBLE BUILD : indexer cette page au Sommaire ; reporter le pacte Etat/familles (Factions/Hautes_Instances.md + SB4), la fondation Meiji des universites (Universite_Tokyo.md / Universite_Kyoto.md) et le flou Kamo sur la fin du Noritoshi de Meiji (Factions/Clan_Kamo.md).
+Page = fiche de cours (dossier Pedagogie/). Donne le niveau CLASSIQUE en plein, puis les deltas AVANCE CLANIQUE et OMNISCIENT VULGARISE. La verite du monde vit en Cosmogonie/Trois_Esprits.md et dans les fiches pointees ; l'ecart enseigne/verite est cartographie en fin de page. Cadre general (rythme, bareme, poles) : cf. Pedagogie/Resume_Enseignements.md.
 
 ## Cadre du cours
 - Discipline : Fleaux et histoire. Annee 2 (theorique). Un sujet par semestre.

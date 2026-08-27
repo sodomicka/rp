@@ -1,6 +1,6 @@
 # Yoshinobu Gakuganji
 
-- version : W5
+- version : W6
 
 Page = fiche noyau legere (le gros est couvert par Factions/Hautes_Instances.md et Factions/Universite_Kyoto.md). Etat atemporel / point de depart 2005. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -8,6 +8,7 @@ Page = fiche noyau legere (le gros est couvert par Factions/Hautes_Instances.md 
 - Nom : Yoshinobu Gakuganji. Canon. Principal de l'universite de Kyoto.
 - Vieillard, doyen des exorcistes en activite ; des decennies de manoeuvres politiques.
 - Seul visage public des hautes instances, dont il est MEMBRE PLEIN : son independance est directoriale (la conduite de son universite), jamais politique (cf. Factions/Hautes_Instances.md).
+- [DIVERGENCE RP] PRESENT AUX REPAS CLANIQUES BISSEXTILES Kamo/Zenin (chaque 29 fevrier, au palais Kamo) es qualites : seul visage public des Hautes Instances, a fortiori pour un repas organise par les cinq sieges de Kyoto. Il y siege depuis sa prise de poste, bien avant la naissance de la generation Nisha/Yukiko - toutes les editions jouees ou evoquees sont donc couvertes (cf. Factions/Hautes_Instances.md).
 - En 2005, deja principal ET professeur : il assure le suivi de la promo de Naoya (2005-2008) (cf. Factions/Universite_Kyoto.md).
 - Des 2009 il CUMULE de nouveau le principalat et la 3e annee, jusqu'a la ceder a Mei Mei en avril 2013 (cf. Trajectoire datee).
 

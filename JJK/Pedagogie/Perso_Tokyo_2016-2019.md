@@ -1,8 +1,8 @@
 # Enseignement personnalise - Tokyo, promo 2016-2019
 
-- version : W1
+- version : W2
 
-Page = fiche d'enseignement personnalise (dossier Pedagogie/). Une page par promotion a casting fiche ; ne couvre que les annees tenues par un professeur du perimetre (ici Satoru, 1re annee 2016-2017). Cadre general (rythme, poles, enseignement non note) : cf. Pedagogie/Resume_Enseignements.md. Au prochain BIBLE BUILD : indexer au Sommaire.
+Page = fiche d'enseignement personnalise (dossier Pedagogie/). Une page par promotion a casting fiche ; ne couvre que les annees tenues par un professeur du perimetre (ici Satoru, 1re annee 2016-2017). Cadre general (rythme, poles, enseignement non note) : cf. Pedagogie/Resume_Enseignements.md.
 
 ## Cadre
 - Eleves fiches : Kinji Hakari, Kirara Hoshi (cf. Personnages/Hakari.md, Kirara.md). Promo 2016-2019 : 1re annee sous SATORU (2016-2017), 2e annee sous Kusakabe (2017-2018), 3e annee sous Nanami. Seule la 1re annee est detaillee ici. Pole omniscient vulgarise a plein regime.

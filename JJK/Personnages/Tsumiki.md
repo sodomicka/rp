@@ -1,6 +1,6 @@
 # Tsumiki Fushiguro
 
-- version : W3
+- version : W4
 
 Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = qui est Tsumiki a son entree en scene (identite, nature, psychologie, relations de base) ; son devenir post-2008 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps ere B). Profane : hors-axe combat.
 
@@ -44,6 +44,7 @@ Fiches propres : cf. Personnages/Nisha.md, Megumi.md, Satoru.md, Maki.md. Ici, s
 ## Place dans le focus
 - Noyau affectif de la famille de Saitama. Au depart levier emotionnel pour rallier Megumi, devient fille pleine et entiere.
 - [DIVERGENCE RP] Pont entre le monde occulte et les profanes : son blog sensibilise le public profane a l'occulte sous couvert de fiction (cf. T-Okaruto).
+- [DIVERGENCE RP] ACCES AUX ARCHIVES DU CLAN ZENIN, obtenu par Nisha comme pour Megumi - la profane adoptee y est admise. En contrepartie, le conseil Zenin garde un DROIT DE REGARD sur les articles de l'Okaruto Shinbun qui romancent l'histoire du clan en epouvante. Datation -> roadmap. Cf. Factions/Clan_Zenin.md, Personnages/Megumi.md.
 
 ## Grade et scaling
 - Profane : hors-classement combat, aucun doigt de Sukuna. Comme Riko Amanai ou les assistant managers, sa valeur n'est pas martiale. La vue de l'occulte qu'elle possede vient d'un outil (lunettes), pas d'elle.
