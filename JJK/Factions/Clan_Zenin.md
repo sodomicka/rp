@@ -1,6 +1,6 @@
 # Clan Zenin
 
-- version : W13
+- version : W14
 
 Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4. Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 (morts, bascule de gouvernance) -> roadmap, hors de cette page neutre.
 
@@ -62,11 +62,13 @@ Page = faction fondatrice du monde. Faits canon non balises (niveau etabli) ; co
 - Naoya : acces de toujours (heritier de fait). Nisha : acces accorde en 2000 (13 ans), par statut de prodige - seule femme du clan a le detenir. Avant cela, elle s'y infiltrait (recopiage accelere en Chronokinesie, digestion des copies a posteriori avec Naoya : cf. Personnages/Nisha.md).
 - SIGNATURE GEMELLAIRE : le clan est celui qui a compte le plus de jumeaux dans ses lignees, bien avant Naoya et Nisha - et le SEUL a avoir cerne que deux jumeaux partagent la MEME signature occulte. Savoir d'archives pur : jamais enseigne nulle part, pas meme par Nisha a Kyoto.
 - DOSSIER TOJI : le cas de l'ex-Zenin a energie nulle est documente en entier ici (croisement, absence totale de perception occulte, parade profane). Hors du clan, il ne circule que sous forme de cas d'ecole ANONYME dans les universites - designation enseignee, ni identite ni affiliation : cf. Pedagogie/Detection_Contention_1eAnnee.md.
+- ACCES POST-DEPART [DIVERGENCE RP] : Megumi (par Nisha) et Tsumiki obtiennent l'acces aux archives ; le conseil garde un droit de regard sur les articles de l'Okaruto Shinbun qui romancent l'histoire du clan en epouvante. Datation -> roadmap. Cf. Personnages/Megumi.md, Personnages/Tsumiki.md.
 
 ## Secrets de clan
 [DIVERGENCE RP]
 - METHODES ANTI-DOMAINE : le clan en possede, et le monde de l'exorcisme le sait vaguement - "les clans ont leurs methodes" se dit a tous les niveaux de pedagogie, sans que rien ne soit jamais nomme ni explique. La verite : la Pluie de Petales Epris d'Ogi (cf. Personnages/Ogi.md). Le secret tient assez pour que Satoru lui-meme s'abstienne d'en parler.
 - LE SECRET D'EIEN : le conseil sait que Nisha porte un fleau depuis 1991 (lecture de Naobito). En 2000, a 13 ans, elle leur PROUVE que le parasite ne sera jamais un probleme - demonstration acceptee, dossier clos. Perimetre exact du secret : cf. Personnages/Nisha.md et Personnages/Eien.md.
+- LE DESASTRE DE TENPO : ere Tenpo - un guet-apens du clan Gojo (cinq hommes, dont le Guerrier Parfait de l'epoque) surprend le conseil Zenin (cinq hommes, dont le Patriarche) en plein rituel de domptage de Mahoraga. Dix morts, aucun survivant. Legende publique : les deux delegations se sont entretuees. La verite (le guet-apens, le rituel du Patriarche) dort dans les archives des deux clans, et personne ne creuse. Detail cote Gojo : cf. Factions/Clan_Gojo.md.
 
 ## Unites de combat (hierarchie)
 - Hei : unite d'elite. Exorcistes a sort inne puissant, ranges Semi-Grade 1 et au-dessus. Membres connus : Jinichi, Ogi, Chojuro, Ranta, Naoya (entre en 1997, a 10 ans - il n'accepte le Hei qu'au moment ou Nisha part en freelance et decroche des missions dignes d'elle ; cf. Personnages/Naoya.md), et les trois fils de Naobito (par nepotisme - anomalie que Nisha et Naoya meprisent). [DIVERGENCE RP] Le Hei refuse d'affronter les jumeaux (Nisha freelance + Naoya, 2 contre 1) pour ne pas se faire humilier par deux gamins.
