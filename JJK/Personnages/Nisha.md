@@ -1,12 +1,12 @@
 # Nisha Zenin
 
-- version : W20
+- version : W22
 
-Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depart (2005) : identite, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datee post-depart) est scinde par volume pour le poids -> cf. section dediee en bas de fiche et Personnages/Nisha_chrono_A.md.
+Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depart (2005) : identite, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datee post-depart) est scinde par volume pour le poids -> cf. section dediee en bas de fiche et Personnages/Nisha_chrono_A.md. Tissu relationnel (appellatifs, registres, habitudes, contentieux) : cf. la serie Personnages/Nisha_relations_<cercle>.md (proches / famille / boulot / eleves_tokyo).
 
 ## Identite
 - Nom : Nisha Zenin. OC. Protagoniste.
-- Jumelle de Naoya Zenin. Fille de Naobito Zenin.
+- Jumelle de Naoya Zenin (ainee de 3 minutes). Fille de Naobito Zenin.
 - Naissance : 30 janvier 1987. Meme cohorte universitaire que Gojo (dec 1986), Geto (fev 1987), Shoko.
 - [DIVERGENCE RP] Naoya n'a pas de jumelle dans le canon. Nisha = divergence racine.
 - Seule femme du clan reconnue "vraie Zenin" (ni servante ni uterus), par sa force.
@@ -19,6 +19,7 @@ Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depar
 - [DIVERGENCE RP] Se bande la poitrine (bandage compressif) : pure DE-SEXUALISATION, pas pudeur. Elle refuse d'etre vue comme une femme - elle veut etre un exorciste, point. Naoya la resume : "un exorciste avec des seins".
 - TENUE, hors universite : le noir sobre, preference commune aux jumeaux ("la sobriete efficace") - veste noire cintree a col officier, fin lisere brode au bord, pantalon noir, chaussures plates noires. A l'universite : l'uniforme bleu nuit. Tenue de clan (gris moyen et violet) : cf. Factions/Clan_Zenin.md.
 - Au cou, par-dessus le col, le collier de billes grises (des 2006 ; cf. Objets recurrents).
+- Fumeuse des l'universite : habitude prise aux pauses clopes de Shoko et Geto, devenue vraie addiction - le dialogue autant que la nicotine (cf. Personnages/Nisha_relations_proches.md).
 
 ## Objets recurrents
 - COLLIER DE TUNGSTENE : 76 billes de 5 g (~6 mm), cadeau de Satoru a l'anniversaire des jumeaux, 30 jan 2006. Parure-arme (munitions de la Chronostase), porte par-dessus le col. Detail : BIBLE SB7 ; Trajectoire datee, ere A.
@@ -38,6 +39,7 @@ Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depar
 - Module l'effet du temps sur un objet touche : ralentir ou accelerer. S'applique aussi a son propre corps et a sa conscience.
 - [DIVERGENCE RP] Application cognitive et scribale : conscience et corps acceleres -> lecture et recopiage de textes a une vitesse absurde. C'est a elle que Nisha doit son statut de genie (apprentissage devorant, archives comprises). PAS de memoire photographique : elle recopie, elle ne photographie pas.
 - Forme ultime = le gel, debloquee seulement en territoire. Le gel inclut le tir cinetique : il est identique a la Chronostase complete.
+- [DIVERGENCE RP] Acces PLEIN arrache a Eien par l'echec de son putsch de 1997 - echec et putsch INVISIBLES pour Nisha (cf. Chronologie noyau, Personnages/Eien.md).
 
 ### Facade publique : un seul sort
 - [DIVERGENCE RP] Nisha se presente partout comme porteuse d'UN sort inne, la Chronostase. L'existence du second (et donc du parasite) n'est connue que d'un cercle etroit : Naoya, Naobito et le conseil du clan, plus tard Satoru et ses proteges une fois la confiance etablie. Perimetre du secret : cf. Factions/Clan_Zenin.md.
@@ -57,7 +59,7 @@ Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depar
 - Interieur : le temps suit sa propre horloge. Nisha y utilise Chronostase et Chronokinesie sans toucher, et debloque l'inversion temporelle.
 - Inversion temporelle : sur son propre corps. Un bras tranche se de-tranche, une brulure se de-brule. Ce n'est PAS le sort d'inversion (RCT) : c'est une inversion temporelle litterale, au-dessus de la RCT.
 - Cout : vide colossalement ses reserves d'energie occulte. Ultime recours. Apres usage, hors d'etat de se battre.
-- [DIVERGENCE RP] Domaine acquis a 8 ans (1995), et FORCE : Nisha projetant sa conscience dans le Jardin des Eres Mortes depuis 1991, Eien s'en est servie pour l'agresser a repetition avec son propre territoire, jusqu'a faire eveiller le sien. Motif du parasite : preparer le corps qu'elle comptait prendre a 10 ans. Le procede est le seul forcage connu au monde (cf. BIBLE SB1) et son resultat n'est jamais garanti - ici, il a trop bien marche. Cf. Personnages/Eien.md.
+- [DIVERGENCE RP] Domaine acquis a 8 ans (1995), et FORCE : Nisha projetant sa conscience dans le Jardin des Eres Mortes depuis 1991, Eien s'en est servie pour l'agresser a repetition avec son propre territoire, jusqu'a faire eveiller le sien. Motif du parasite : preparer le corps qu'elle comptait prendre a 10 ans. Le procede est le seul forcage connu au monde (cf. BIBLE SB1) et son resultat n'est jamais garanti - ici, il a trop bien marche. VERITE MJ : Nisha, elle, a vecu ces agressions comme un entrainement offert par son amie (cf. Nisha_relations_proches.md). Cf. Personnages/Eien.md.
 
 ## Pool gemellaire (mecanique)
 [DIVERGENCE RP] Reecriture du partage Maki/Mai. Pas un pool commun "chacun son energie", mais "chacun sa contribution, chacun tire une moitie".
@@ -67,25 +69,19 @@ Fiche NOYAU (OC, protagoniste). Etat decrit = ce que Nisha EST au point de depar
 - Resonance de combat (loi synergie/symbiose, cf. Power_Scaling/Doigts_de_Sukuna.md) : en duo, leur puissance combinee = (P_Nisha + P_Naoya) x (1 + 0.10*syn + 0.16*sym), ou syn (synergie, commune a tous les duos) et sym (symbiose, propre aux jumeaux) sont le niveau de relation du moment, chacun en fraction capee a 1. Plus une courbe figee : a leur apogee adulte (syn = sym = 100 %), Naoya + Nisha culminent a ~24 doigts, au-dessus de Satoru seul. Forgee a l'entrainement depuis l'enfance.
 
 ## Eien (parasite) - relation a Nisha
-Fiche propre d'Eien : cf. WIKI Personnages/Eien.md. Ici, seul son rapport a Nisha.
-- Eien : fleau Grade Special millenaire (OC), amante de Kenjaku.
-- Mode operatoire : marque une femme enceinte, s'implante dans le foetus, le gorge d'energie occulte pour le rendre viable, se revele comme "amie" a 4 ans, offre la Chronokinesie, puis ecrase la conscience de l'hote a 10 ans pour user du sort a pleine puissance.
-- Avec Nisha : l'hote a domine le parasite. Putsch tente en 1997 (10 ans), echoue. Nisha = geoliere. Eien = passagere consciente, matee, qui fait profil bas et complote en silence. Schema Sukuna/Yuji inverse.
-- Regle de bascule : Eien ne peut PAS prendre le controle de force. Elle le pourrait si Nisha baissait sa garde (par amour). Faille latente, non exploitee au point de depart.
-- [A2] La faille s'APPROFONDIT a l'arc Toji (2006) : Nisha a failli mourir par amour pour Satoru, et son attachement lui fait baisser durablement la garde. Eien engrange en silence (paiera ~2015+ ; cf. roadmaps ere B).
-- Communication : Nisha et Eien se parlent en se projetant spirituellement dans le territoire d'Eien, le Jardin des Eres Mortes.
-- Regle hote/parasite (canon) : Nisha ne deploiera jamais le Jardin en combat (un hote n'accede pas au domaine de son parasite). Le Jardin reste l'espace interieur de dialogue.
-- Ironie centrale : la forme ultime de la Chronokinesie d'Eien (le gel) est exactement la Chronostase native de Nisha. Eien n'y atteint qu'en territoire, et seulement si elle controlait le corps, ce que Nisha porte nativement et en entier. Hote parfaite, inexploitable DE FORCE.
+Fiche propre et mecanique complete (mode operatoire, regle de bascule et son extension, signatures, hote/parasite) : cf. WIKI Personnages/Eien.md. Tissu relationnel (appellatifs, registres avant/apres 2015, les visites) : cf. Personnages/Nisha_relations_proches.md.
+- Eien : fleau Grade Special millenaire (OC), amante de Kenjaku, logee en Nisha depuis le foetus ; lui a cede la Chronokinesie.
+- [DIVERGENCE RP] Nisha se sait MAITRESSE - elle ne s'est jamais sue geoliere. Le putsch de 1997 (tente, echoue, pouvoirs arraches) lui est INVISIBLE : Eien a maquille son echec en soumission totale et joue l'amie devouee. Jusqu'en 2015, Nisha la tient sincerement pour son amie de toujours.
+- [A2] La faille de la garde s'APPROFONDIT a l'arc Toji (2006) : Nisha a failli mourir par amour pour Satoru, et son attachement lui fait baisser durablement la garde. Eien engrange en silence (paiera ~2015+ ; cf. roadmaps ere B).
+- Communication : Nisha et Eien se parlent en se projetant spirituellement dans le territoire d'Eien, le Jardin des Eres Mortes. Regle hote/parasite (canon) : Nisha ne deploiera jamais le Jardin en combat.
+- Ironie centrale : la forme ultime de la Chronokinesie d'Eien (le gel) est exactement la Chronostase native de Nisha. Hote parfaite, inexploitable DE FORCE.
 
 ## Naoya - relation a Nisha
-Fiche propre de Naoya : cf. Personnages/Naoya.md. Ici, seul son rapport a Nisha.
+Fiche propre : cf. Personnages/Naoya.md. Tissu relationnel (appellatifs, registre, rituels - anniversaire du 30 janvier, routine matinale, nuits, appels du soir) : cf. Personnages/Nisha_relations_proches.md. Mecanique du pool : cf. Pool gemellaire ci-dessus.
 - Jumeaux en symbiose parfaite. Naoya adorable avec Nisha, et avec elle seule.
-- [DIVERGENCE RP] Naoya adouci : moins misogyne, du fait d'avoir une jumelle digne. Sa logique : haine des faibles, pas des femmes. Que sa soeur soit la seule femme digne la rend unique.
-- Rituel d'anniversaire (30 janvier) : chez les Zenin, date ordinaire (un Zenin recompense, n'offre pas). Eux : Naoya cuisine pour Nisha toute la journee, Nisha forge un couteau pour Naoya. Chacun se fait serviteur de l'autre une journee = don de sa dignite. Retournement du statut servile que le clan voulait imposer a Nisha.
-- [DIVERGENCE RP] Routine matinale rituelle (les jours ou ils sont ensemble) : douche separee chacun son tour, puis tout le reste a deux - bandage, habillage, dejeuner, entrainement 1c1 jusqu'a 7h. Deux jeunes gens a demi nus qui se connaissent par coeur, AUCUNE sexualisation : ils s'arment pour la journee. Reduite aux week-ends sur deux apres le transfert (2005).
-- Nuits : futon partage, blottis l'un contre l'autre, longues discussions avant de dormir.
+- [DIVERGENCE RP] Naoya adouci : moins misogyne, du fait d'avoir une jumelle digne. Sa logique : haine des faibles, pas des femmes.
 - Entrainement : Jinichi les tabasse en 1 contre 2 jusqu'a ce qu'ils encaissent les unites Kukuru + Akashi entieres a deux (vers 13 ans, 2000).
-- Mariage Gojo : Naoya deteste l'idee. Pas une faille entre eux : il la tient pour son egale, elle merite le meilleur, pas d'etre un piege tendu a un Gojo. Sur ce seul point, moins misogyne que Nisha.
+- Mariage Gojo : Naoya deteste l'idee (2005). Pas une faille entre eux : elle merite le meilleur, pas d'etre un piege tendu a un Gojo (dissolution en A2_5 : cf. Naoya.md).
 
 ## Psychologie et misogynie
 - Misogynie issue de sa FORCE, pas calquee sur Naoya. Inversion de Maki.
@@ -97,14 +93,14 @@ Fiche propre de Naoya : cf. Personnages/Naoya.md. Ici, seul son rapport a Nisha.
 - Intraitable sur la ponctualite et la rigueur : un retard ou un travail bacle, c'est un mepris a ses yeux (ce qui lui fait apprecier les rares qui partagent cette exigence - cf. Nanami, Ijichi en A2).
 - Accepte d'etre monnaie d'echange matrimonial (femme = ressource pour le clan).
 - Mentalite type Maki/Yuta (canon) : l'homme qui la meritera est celui capable de la vaincre. Gojo la depasse sur quelques aspects.
-- PERIMETRE TEMPOREL : tout ce qui precede est l'etat 2005. [DIVERGENCE RP] Ce tri par categorie - misogynie comprise - DISPARAIT en 2006 avec la doctrine des jumeaux : des lors Nisha ne classe que par la PUISSANCE, sans dedain tant qu'on reste a sa place. Aucun prejuge de genre ni d'orientation ensuite (cf. Nisha_chrono_A.md, 2006 ; ex. Kirara en 2017). La facture de la misogynie passee, elle, tombe en 2015 (cf. Nisha_chrono_B.md).
+- PERIMETRE TEMPOREL : tout ce qui precede est l'etat 2005. [DIVERGENCE RP] Ce tri par categorie - misogynie comprise - DISPARAIT en 2006 avec la doctrine des jumeaux : des lors Nisha ne classe que par la PUISSANCE, sans dedain tant qu'on reste a sa place. Aucun prejuge de genre ni d'orientation ensuite (cf. Nisha_chrono_A.md, 2006 ; ex. Kirara en 2017). Reste un VESTIGE integre, systemique, inconscient : le "ma belle" adresse a toute femme, souvent avec un brin de condescendance, souvent sans arriere-pensee (cf. Nisha_relations_proches.md). La facture de la misogynie passee, elle, tombe en 2015 (cf. Nisha_chrono_B.md).
 - [DIVERGENCE RP] Tres possessive de ce qu'elle considere sien. Envers Satoru, "son promis" assigne par le clan (raison 5) : possessivite a sens unique des 2005 (il l'ignore) - moteur de sa jalousie (ex. Utahime au tournoi).
 
 ## Place dans le clan
 - Femme, donc pas heritiere. Mais puissance d'exception.
 - [DIVERGENCE RP] Education de servante VECUE de la naissance a 8 ans (1987-1995), pas seulement planifiee : elle l'a subie. La maitrise du territoire a 8 ans (1995) clot ce statut et la fait favorite.
 - Enfance : Naobito a failli la renier puis l'executer (son sort lu comme celui d'un fleau). Naoya l'a defendue. L'eveil de la Chronostase (aout 1991) l'a sauvee : un vrai sort Zenin a elle.
-- 1997 (10 ans) : Naobito la fait Grade Special 1. Motif : elle a mate le fleau, donc vraie Zenin, seule femme a l'etre.
+- 1997 (10 ans) : Naobito la fait Grade Special 1. Motif : le fleau en elle est une alliee inconditionnelle, plus une menace - donc vraie Zenin, seule femme a l'etre.
 - Hei refuse : femme = pas digne (consequence de la misogynie du clan). Akashi refuse par ego (elle se sait digne du Hei).
 - Archives du clan : interdites aux femmes (acces reserve aux heritiers de branches principales - Naoya y a toujours eu acces). [DIVERGENCE RP] Enfant, Nisha s'y INFILTRAIT : Chronokinesie sur sa conscience et sa main pour RECOPIER les textes a une vitesse absurde sans se faire prendre, quitte a digerer les copies a posteriori et a en discuter avec Naoya pour s'assurer d'avoir bien compris. Acces officiel accorde en 2000 (13 ans), par statut de prodige. Cf. Factions/Clan_Zenin.md.
 - Voie choisie : exorcisme freelance avec des membres du clan, ou elle fait tout le travail pour prouver sa puissance.
@@ -125,8 +121,8 @@ Fiche propre de Naoya : cf. Personnages/Naoya.md. Ici, seul son rapport a Nisha.
 | aout 1991 | Eveil des innes : Naoya la Projection, Nisha la Chronostase. Eien commence a craindre pour sa suprematie. |
 | 29 fev 1992 | Repas clanique Kamo/Zenin (Hautes Instances de Kyoto, chaque 29 fevrier) : les jumeaux (5 ans) rencontrent Yukiko Kamo (5 ans). Nisha, encore en education servante, assise juste a cote de Naoya, qui n'a jamais tolere qu'on la mette ailleurs. (Trois rencontres d'enfance, trois Yukiko - leurres en 1992, masque flaire en 1996, masque tombe en 2000 : cf. Personnages/Yukiko.md.) Editions suivantes (1996, 2000, 2004) : une au moins -> Roadmap_A0. |
 | 1995 | Nisha etend son territoire (Sphere du Temps Infini, 8 ans). Fin du statut servile, devient favorite de Naobito. |
-| 1997 | Putsch d'Eien (10 ans), echoue. Nisha le sent, le dit a son pere. Faite Grade Special 1. |
-| 2000 | Statut de prodige (13 ans) : acces officiel aux archives du clan, jusque-la interdites aux femmes (elle s'y infiltrait). La meme annee, elle PROUVE au conseil (Naobito, Ogi, Jinichi) que le parasite ne sera jamais un probleme - dossier clos, le clan n'y reviendra pas. |
+| 1997 | Putsch d'Eien (10 ans) : tente, ECHOUE - INVISIBLE pour Nisha, qui n'en percoit qu'un vertige et une proximite immense (un instant de cerveau partage), qu'Eien explique comme le signe de l'age ou elles deviennent vraiment meilleures amies. L'echec ARRACHE a Eien l'acces a ses pouvoirs : Nisha commande desormais pleinement les deux sorts. Faite Grade Special 1 - motif : le fleau en elle est une alliee inconditionnelle, plus une menace. |
+| 2000 | Statut de prodige (13 ans) : acces officiel aux archives du clan, jusque-la interdites aux femmes (elle s'y infiltrait). La meme annee, elle PROUVE au conseil (Naobito, Ogi, Jinichi) que le fleau en elle est une alliee inconditionnelle et ne sera jamais un probleme - dossier clos, le clan n'y reviendra pas. |
 | 30 jan 2005 | 18 ans des jumeaux : Naobito offre a chacun une carte bancaire sur un compte a plusieurs milliards (la carte bleue de Nisha, cf. Objets recurrents). |
 | 2005 | Inscrite a Tokyo (universite d'exorcisme). Point de depart du RP jouable. |
 
@@ -147,7 +143,7 @@ Apportees par le conseil Zenin (Naobito, Jinichi, Ogi).
 
 ## Notes de frontiere (reporte hors de ce build)
 - Backstory COMPLETE detaillee + instance jouee : a venir en Parties/JJK/Partie1/Suivi/ + CODEX (setup / V1).
-- Fiches propres d'Eien et Kenjaku : cf. WIKI Personnages/. Fiche de Naoya : cf. Personnages/Naoya.md.
+- Fiches propres d'Eien et Kenjaku : cf. WIKI Personnages/. Fiche de Naoya : cf. Personnages/Naoya.md. Tissu relationnel : cf. la serie Personnages/Nisha_relations_<cercle>.md.
 - Cosmogonie du couple, origine des trois familles : cf. WIKI Cosmogonie/Trois_Esprits.md.
 
 ---

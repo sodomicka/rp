@@ -1,6 +1,6 @@
 # Suguru Geto
 
-- version : W9
+- version : W11
 
 Page = fiche personnage : noyau (etat 2005) + Trajectoire datee (post-2005). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB5.
 
@@ -11,6 +11,7 @@ Page = fiche personnage : noyau (etat 2005) + Trajectoire datee (post-2005). Fai
 
 ## Physique
 - Canon : grand, cheveux noirs longs, moitie relevee en chignon haut, le reste lache ; lobes d'oreilles etires (piercings) ; regard calme, sourire doux. A l'universite : l'uniforme bleu nuit de Tokyo.
+- Fumeur : pauses clopes recurrentes avec Shoko sur le campus - rejoints par Nisha, qui s'y met a leur contact (cf. Personnages/Nisha_relations_proches.md).
 
 ## Sort : Manipulation des Esprits Maudits
 - Absorbe les fleaux exorcises et les redeploie comme une armee a ses ordres. L'un des sorts les plus puissants de l'exorcisme.
