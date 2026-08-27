@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W30
+- version : W31
 
 ## WIKI
 
@@ -12,7 +12,7 @@ Description : cosmogonie fondatrice du monde.
 
 ### Factions/
 Description : factions et groupes du monde.
-- Clan_Zenin.md (W13) - clan Zenin : nature et ethos, iconographie (kamon Dix Ombres, gris moyen + violet, tenue d'ancien), lignee dirigeante (arbre), convention de nommage, statuts des femmes, unites (Hei / Akashi / Kukuru), Restriction Celeste dans le clan.
+- Clan_Zenin.md (W14) - clan Zenin : nature et ethos, iconographie (kamon Dix Ombres, gris moyen + violet, tenue d'ancien), lignee dirigeante (arbre), convention de nommage, statuts des femmes, unites (Hei / Akashi / Kukuru), Restriction Celeste dans le clan ; archives (signature gemellaire, dossier Toji, acces post-depart de Megumi et Tsumiki avec droit de regard Okaruto) ; secrets de clan (anti-domaine, secret d'Eien, desastre de Tenpo cote Zenin).
 - Clan_Gojo.md (W7) - clan Gojo : iconographie (six tomoe = Six Yeux, blanc + bleu roi, tenue d'ancien), ethos (culte du guerrier parfait, "Le pouvoir sait se montrer quand les temps l'exigent"), gouvernance (conseil d'anciens sous l'autorite du guerrier parfait), branches (Sugawara/Gojo, Fujiwara/Okkotsu), place de Satoru, liens inter-clans ; abstention de la violence infantile - VERITE DE LA DOUCEUR (cicatrice Nozomu, bascule cruaute -> surprotection, terreur aveugle), mecanique de l'eveil du guerrier parfait (regle des yeux, porteurs connus : Nozomu, le Parfait de Tenpo, Satoru), desastre de Tenpo, dossiers noirs des archives.
 - Clan_Kamo.md (W8) - clan Kamo : ethos et credo, legende fondatrice et nommage (son "yuki" des filles, racine "nori" des garcons), sort elu et succession amendee (indifference radicale, titres Prince/Princesse, branche secondaire, regle des batards), lignee dirigeante 2005 (Noriaki, Fubuki, Yasashiku, Yukiko, Noritoshi) et matriarcat de fait, repas claniques bissextiles Kamo/Zenin (29 fev), iconographie (enso + goutte, anthracite + rouge, pivoine), archives, rideaux fractals et Dragon (record 1998), fait d'armes Sakushu Sha, formation interne (carve-out lignee dirigeante), gouvernance (emissaires, precedent Meiji), branches/greffes, Restriction Celeste (Mechamaru), pointeur siege (Chiryu no Kyuden).
 - Hautes_Instances.md (W5) - les hautes instances : sommet conservateur sans visage au-dessus des universites, 10 membres (5/universite : 3 clans + 2 independants), tous Grade Special 1, Gakuganji seul visage public ; pacte fondateur Etat/familles (Meiji, neuf articles) ; organisent les repas claniques bissextiles Kamo/Zenin (29 fev).
