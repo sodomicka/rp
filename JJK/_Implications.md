@@ -1,6 +1,6 @@
 # _Implications
 
-- version : W42
+- version : W45
 
 Journal de conception (passes en spirale). Document de TRAVAIL : jamais fetche en narration.
 
@@ -43,19 +43,20 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas ecrites. BIBLE 
 
 ## A faire - builds et roadmaps
 
-- Roadmap_B3 | Passe 2 | A ECRIRE (jalons poses en trame_B : B3_1 Yorozu 2015, B3_2 le trop tranquille 2016, B3_3 la releve 2017, B3_4 Nuit des Cent Fleaux 24 dec 2017, B3_5 l'autre trauma + cloture juin 2018). Les fiches B3 sont deja buildees ; la roadmap detaillee manque. Deblocages attendus par elle : lignes gelees de Gakuganji et Nitta (24 dec 2017 - Gakuganji se joint a la defense de Kyoto, Nitta tient rideaux et civils cote Tokyo ; NE PAS PORTER AVANT) et densification Naobito / Ogi / Jinichi (ligne ere B sobre et identique posee aux trois fiches, a densifier).
+- Roadmap_B3 | Passe 2 | A ECRIRE (jalons poses en trame_B : B3_1 Yorozu 2015, B3_2 le trop tranquille 2016, B3_3 la releve 2017, B3_4 Nuit des Cent Fleaux 24 dec 2017, B3_5 l'autre trauma + cloture juin 2018). Les fiches B3 sont deja buildees ; la roadmap detaillee manque. Deblocages attendus par elle : lignes gelees de Gakuganji et Nitta (24 dec 2017 - Gakuganji se joint a la defense de Kyoto, Nitta tient rideaux et civils cote Tokyo ; NE PAS PORTER AVANT - vaut aussi pour leurs entrees Evolution datee en Personnages/Nisha_relations_boulot.md) et densification Naobito / Ogi / Jinichi (ligne ere B sobre et identique posee aux trois fiches, a densifier).
 - trame_A_B Yukiko | W3 A FAIRE | Le slowburn s'etant joue en A1, la colonne vertebrale d'A2 est a redefinir (matiere restante : distance des missions d'Utahime en 3e annee puis diplomee, echos Kyoto des seismes de Tokyo 2006-2007, tranche-de-vie du couple). Jalon Lucky 7 deplace ; exception au cercle fige (Utahime) ; purge des deux "retcon" restants (terminologie actee : "amendement de spirale").
 - Roadmaps Yukiko | Passe 2 | YA2 a ecrire APRES le rework de la trame ; eres B ensuite.
 - Yukiko_chrono_B | scission differee | Les entrees d'ere B vivent provisoirement dans la fiche Yukiko. A scinder.
 - Yukiko ere B | rattachements | Refus conditionnel de la chaire (2013) -> rattacher B1 (resto mars 2013). Majorite de Nori + refus du titre (5 juin 2015) -> rattacher B2.
 - Roadmaps eres C et D | Passe 2 | A ECRIRE. Elles resorbent la section "Faits actes en attente de leur strate" ci-dessus et le chantier Roadmap/_Chantier_Passe2_EresCD.md.
 - Pedagogie/Perso_Tokyo_2018-2021 | ere C | Page a RELIVRER quand Yuji et Nobara entrent en scene (chantiers attendant la roadmap ere C).
-- Session relations Nisha | pattern _relations par cercles | RESTE : pages Nisha_relations_boulot.md (collegues Gakuganji/Utahime/Mei Mei/Nanami/Ijichi + eleves de Kyoto Nitta/Todo/Noritoshi/Momo/Miwa/Mechamaru) et Nisha_relations_eleves_tokyo.md (proteges de Satoru : Yuta, Toge, Hakari, Kirara, Yuji, Nobara) - a dicter en thread dedie (prompt genere). Yuji et Nobara sont SANS fiche noyau : creation des fiches dans la foulee ou entree relations seule, [non tranche] - a poser au thread. Regles generales transversales : en tete de _proches. Yukiko : candidate suivante du pattern (Utahime, Nori).
+- Fiches noyau Yuji et Nobara | ere C | A BUILDER (differees, decision worldbuilder) : leurs entrees relations vivent en Personnages/Nisha_relations_eleves_tokyo.md, le deroule attend les roadmaps ere C. S'articule a la relivraison de Pedagogie/Perso_Tokyo_2018-2021 (meme fenetre d'entree en scene).
+- Pattern _relations par cercles | suite | Serie Nisha COMPLETE (quatre pages livrees) ; indexation Sommaire et canaris : au prochain BIBLE BUILD (cf. Propagations). Yukiko (Utahime, Nori) : DIFFEREE, decision worldbuilder - attend l'avancee de ses roadmaps (rework trame_A_B puis YA2) ; Nisha est le premier protagoniste, priorite de build.
 - GRAINE NAOYA | roadmaps Yukiko | Portee en fiches ; le deploiement fin en POV Naoya (Yukiko autant alliee que rivale, il comprend qu'elle le depasse surement) reste A JOUER.
 
 ## Propagations en attente
 
-- Amendement de spirale Eien-1997 + page relations | prochain BIBLE BUILD | SB5 vocabulaire lignes Nisha et Eien (fin du "parasite mate" / "hote-geoliere" -> maitresse qui s'ignore geoliere, amie de facade jusqu'en 2015) ; SB0 comptage ; Sommaire : indexer la serie Personnages/Nisha_relations_proches.md / _famille.md (livrees ; _boulot et _eleves_tokyo a leur livraison) et reconcilier les canaris des fiches touchees.
+- Amendement de spirale Eien-1997 + page relations | prochain BIBLE BUILD | SB5 vocabulaire lignes Nisha et Eien (fin du "parasite mate" / "hote-geoliere" -> maitresse qui s'ignore geoliere, amie de facade jusqu'en 2015) ; SB0 comptage ; Sommaire : indexer la serie Personnages/Nisha_relations_proches.md / _famille.md / _boulot.md / _eleves_tokyo.md (les quatre livrees) et reconcilier les canaris des fiches touchees (dont _famille W3).
 - Roadmap/Nisha/Roadmap_A0 | au prochain passage roadmap | Verifier les jalons 1997 et 2000 (si rendus en scene) contre l'amendement de spirale Eien-1997 : plus de putsch percu, vertige explique en amitie, motif du grade = alliee inconditionnelle.
 - Nisha_chrono_B.md | a l'occasion | Entree 2015 : la couleur "double trahison" (chantage + viol par l'amie) peut etre reportee au delta d'etat a la prochaine relivraison. Aucune contradiction en l'etat, enrichissement seulement.
 
