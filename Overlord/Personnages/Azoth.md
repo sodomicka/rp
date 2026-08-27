@@ -1,14 +1,14 @@
-# Azoth, le Cardinal Demoniaque - PRE-FICHE
+# Azoth, le Cardinal Demoniaque
 
-Version : W0 (pre-fiche exceptionnelle, sera completee et versionnee au lot Personnages).
-Emplacement cible : Overlord/Personnages/Azoth.md. Statut : OC promu au lore, branche neutre.
-Usage immediat : reference pour generation de visuels.
+- version : W1
 
 ## Identite
 - Nom : Azoth. Titre : Cardinal Demoniaque de Nazarick.
 - Race : Archdemon (heteromorphe), allure d'incube en forme vraie. Niveau 100. Karma : -500 (mal extreme).
+- Age programme : 666 ans, fige (metaphysique des PNJ : cf. Nazarick/Regles_Internes.md).
 - Createur : Ulbert Alain Odle, l'un des 41 Etres Supremes. Jumeau de Demiurge [DIVERGENCE RP].
-- Fonction : Gardien du 9e etage du Grand Tombeau de Nazarick [DIVERGENCE RP], theologien et conseiller.
+- Fonction : Gardien du 9e etage du Grand Tombeau de Nazarick [DIVERGENCE RP], theologien
+  et conseiller.
 
 ## Setting (ecrit par Ulbert)
 - Concu comme une contradiction incarnee : pretre de style catholique ET sataniste assume.
@@ -16,7 +16,15 @@ Usage immediat : reference pour generation de visuels.
 - Luxure absolue : le marqueur qui le distingue de son jumeau (Demiurge en est denue).
 
 ## Psychologie (noyau)
-- Ferveur religieuse authentique envers les 41 Etres Supremes ; medite leur parole en continu.
+- Ferveur religieuse authentique envers les 41 Etres Supremes.
+- Quete theologique : chercher la verite sur les 41 et degager une parole unificatrice -
+  des preceptes qui reconcilient leurs paroles parfois contradictoires en apparence.
+  Ne tolere AUCUN blaspheme laissant entendre que les 41 etaient en desaccord.
+- Doctrine : "Il n'offre qu'a quiconque quemande." Ne sollicite jamais ses subordonnees ;
+  l'elan vient toujours du demandeur. Coeur du personnage : faire accepter leurs peches
+  aux siens et etre leur exutoire.
+- Gouts : precher ; guider ceux qui en ont besoin ; le sexe quand on le lui propose ;
+  la recherche theologique.
 - Seducteur ne, manipulateur sensuel ; use de son charme aussi naturellement que de sa magie.
 - Egal intellectuel de Demiurge ; son oppose moral, et son complice de fait.
 
@@ -36,32 +44,61 @@ Usage immediat : reference pour generation de visuels.
 - Allure d'incube, plus humanoide que Demiurge. Pas de queue visible (artworks de reference).
 - Deux ailes de chauve-souris noires, larges, membranes dechiquetees.
 - Deux paires de cornes sombres, annelees, dressees et incurvees vers l'arriere.
-- Peau gris rose terne (ref. #AE9C93), plus froide que la forme humaine. Yeux rouge vif, luisants. Traits seduisants conserves.
+- Peau gris rose terne (ref. #AE9C93), plus froide que la forme humaine. Yeux rouge vif,
+  luisants. Traits seduisants conserves.
 - Cheveux : noirs, tres longs, flottants.
 - Mains a griffes noires effilees.
-- Scarifications en pentagrammes et entailles rituelles couvrant torse et bras, pales sur la peau grise.
-- Tenue : drape cardinalice rouge a broderies d'or noue aux hanches, sur etoffe sombre en lambeaux ; torse nu.
+- Scarifications en pentagrammes et entailles rituelles couvrant torse et bras, pales sur
+  la peau grise.
+- Tenue : drape cardinalice rouge a broderies d'or noue aux hanches, sur etoffe sombre en
+  lambeaux ; torse nu.
 
-## Etat d'embrasement
-- Declencheurs : passion et magie confondues - canalisation d'un sort, ferveur du preche, montee du desir.
-- Manifestation : scarifications, veines et nervures des ailes s'illuminent comme des braises ;
-  yeux incandescents.
+## Passion d'Incube - etat d'embrasement
+- L'etat d'embrasement EST le sort Passion d'Incube : Illusion, rang 10 (specialite de
+  race), self, souvent involontaire.
+- Declencheurs : passion et magie confondues - canalisation d'un sort, ferveur du preche,
+  montee du desir.
+- Manifestation : scarifications, veines et nervures des ailes s'illuminent comme des
+  braises ; yeux incandescents.
+- Effet : le rend obsessionnel sur ce qui le passionnait deja ; perfectionnisme absolu.
+  Seule alteration possible de son esprit (cf. Capacites, defenses).
 - Actif dans les deux formes ; en forme humaine, visible surtout au pentagramme du sternum.
 - Impossible de distinguer a l'oeil la transe magique, la ferveur religieuse et le desir.
 
-## Capacites (grandes lignes)
-- Pur magic caster niveau 100 : acces au rang 10 et a la grande magie.
-- Ecoles de predilection : flammes, controle mental, sang, necromancie.
-- Listes de sorts : D&D 5e en VF + signatures propres (a definir au lot Personnages).
+## Capacites
+- Pur magic caster niveau 100 : acces aux sorts de rang 1 a 10 et a la grande magie
+  (rang 11). Aucun catalyseur necessaire.
+- Cadre magique : les cinq ecoles de Skyrim, rangs 1-9 + rang 10 (sorts aberrants,
+  deja au-dela des meilleurs mages du Nouveau Monde) + rang 11 (grande magie)
+  [DIVERGENCE RP - refonte thread 2 ; detail : cf. Systemes/Magie.md].
+  Repertoire general : sorts canon d'Yggdrasil (reference : liste Tier Spells, wiki fandom EN).
+- Ecoles de predilection : Destruction (flammes), Illusion (controle mental, charme),
+  Alteration (sang), Conjuration (necromancie).
 - Charme d'incube : seduction surnaturelle, arme au meme titre que ses sorts.
+- Defenses : esprit inalterable par nature (hors Passion d'Incube) ; tenue conferant
+  resistance au feu et a la glace.
+
+### Sorts signatures
+| Sort | Ecole | Rang | Effet |
+|---|---|---|---|
+| Armageddon | Destruction (feu) | 9 | Colonnes de flammes jaillissant du sol dans un rayon de 20 m, a des positions aleatoires ; une demi-seconde entre la lueur et la flamme. |
+| Ragnarok | Conjuration | 8 | Ranime tous les corps dans un rayon de 10 m en morts-vivants aux armes de glace. |
+| Pics de sang | Alteration | 7 | Pour chaque corps dans un rayon de 10 m, le sang se coagule en un pic acere de 2 m visant les ennemis les plus proches. |
+| Envoutement | Illusion | 10 (specialite de race) | Par contact visuel, fait d'une cible de niveau inferieur un allie, jusqu'a rupture du sort ou perte de connaissance du lanceur. Potentiellement eternel. Ne peut forcer a des actes sexuels. |
+| Passion d'Incube | Illusion | 10 (specialite de race) | L'etat d'embrasement lui-meme : cf. section Passion d'Incube - etat d'embrasement. |
+| La chambre des desirs | Alteration | 10 (sort cree sur mesure par Ulbert) | Maintenu en permanence sur ses quartiers (passif, sans concentration). Les quartiers se reorganisent a volonte et prennent la forme souhaitee ; seule restriction : l'espace predefini de 6 m x 11.1 m. |
 
 ## Position dans Nazarick
 - Maitre du 9e etage et de tout ce qui le concerne : menage, foi, cuisine, services,
   ressources humaines du Tombeau.
 - Superieure directe : Albedo. Canal logistique privilegie d'Ainz pour le personnel.
-- Subordonnees directes : les Pleiades [DIVERGENCE RP]. Sebas Tian : detache au service personnel d'Ainz.
-- Siege : l'Eglise Impie, au 9e etage - nef aux 41 vitraux des Supremes, bancs face au choeur,
-  confessionnal, mobilier BDSM parsemant le lieu. Parodie obscene de sanctuaire. Detail : lot Nazarick.
+- Subordonnees directes : les Pleiades [DIVERGENCE RP].
+- Subordonnes directs de rang egal, chacun sous derogation permanente [DIVERGENCE RP] :
+  Sebas Tian (majordome personnel du Seigneur Momonga), Aureole Omega (protectrice du
+  8e etage, le niveau avant celui des Pleiades).
+- Siege : l'Eglise Impie, au 9e etage - nef aux 41 vitraux des Supremes, bancs face au
+  choeur, confessionnal, mobilier BDSM parsemant le lieu. Parodie obscene de sanctuaire.
+  Detail : cf. Nazarick/Tombeau.md.
 
 ## Relations de base
 - Ainz Ooal Gown : devotion absolue envers le dernier Supreme present.
@@ -70,8 +107,17 @@ Usage immediat : reference pour generation de visuels.
 - Albedo : superieure hierarchique ; natures succube/incube mutuellement exutoires -
   guerre de domination charnelle sans attache, statut de collegues [DIVERGENCE RP].
 - Pleiades : subordonnees du 9e etage.
+- Sebas Tian : subordonne direct de rang egal a Aureole, detache au service personnel d'Ainz.
+- Aureole Omega : subordonnee directe de rang egal a Sebas ; recluse a son sanctuaire,
+  croisee aux offices de l'Eglise Impie.
 
 ## Trajectoire datee
-- (vide a la genese - alimentee arc par arc apres les roadmaps)
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+
+(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps ; structuration par
+eres de roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
+
+---
 
 FIN_WIKI_PERSONNAGES_AZOTH

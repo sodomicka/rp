@@ -1,0 +1,49 @@
+# Resume - Overlord (histoire etablie)
+
+- version : W1
+
+## Yggdrasil (2126-2138)
+Yggdrasil est un DMMO-RPG japonais a immersion totale, exploite de 2126 a 2138 : neuf
+mondes immenses, volontairement sous-documentes, ou les developpeurs privilegient la
+liberte et les secrets. Les joueurs heteromorphes, aux races puissantes mais haies, y sont
+chasses par les autres. De cette persecution nait le clan Nine's Own Goal, mene par
+Touch Me, qui reunit des adultes salaries exclusivement heteromorphes. Le clan conquiert
+le Grand Tombeau de Nazarick, donjon repute imprenable, et fonde la guilde Ainz Ooal Gown :
+41 membres a son apogee, parmi l'elite du jeu. La guilde amenage le Tombeau en foyer, y
+cree ses PNJ - dont les Gardiens d'Etage, et le Cardinal Demoniaque Azoth, second PNJ
+niveau 100 ecrit par Ulbert Alain Odle en jumeau de Demiurge [DIVERGENCE RP] - et repousse
+une alliance de 1500 joueurs venue la detruire.
+
+Puis la vie reelle disperse les 41 : travail, famille, lassitude. Les annees passant,
+Momonga reste seul a entretenir le Tombeau et a esperer des retours qui ne viennent plus.
+
+## Le Nouveau Monde avant le jour 0
+Le Nouveau Monde est une fantasy vivante, sans lien connu avec Yggdrasil. Sa magie native,
+la Magie Sauvage des Seigneurs Dragons, brule les ames comme carburant. Il y a environ
+600 ans, des Joueurs venus d'Yggdrasil y ont importe la magie de rangs, qui a supplante la
+Magie Sauvage et fixe les plafonds actuels : le rang 6 est le sommet humain vivant, le
+rang 7 une anomalie geopolitique. D'autres vagues de Joueurs ont precede celle-ci dans le
+canon ; leurs dates et identites restent a documenter [INCERTAIN, lot NouveauMonde].
+
+Le monde natif possede ses propres systemes, inconnus d'Yggdrasil : les Arts Martiaux des
+guerriers, les Talents innes (~1 personne sur 200 [INCERTAIN]), et les survivances de la
+Magie Sauvage. Les aventuriers s'organisent en guilde transnationale, du cuivre a
+l'adamantite.
+
+## Le transfert (jour 0)
+En 2138, la fermeture des serveurs est annoncee. Le dernier soir, Herohero passe saluer
+Momonga puis se deconnecte ; Momonga reste seul sur le Trone, par nostalgie, jusqu'au
+decompte final. A minuit, au lieu de la deconnexion : le Grand Tombeau, son personnel et
+Momonga sont transportes dans le Nouveau Monde, intacts, au milieu d'une plaine herbeuse
+inconnue.
+
+Cet instant est le jour 0 du RP. C'est aussi le premier instant vecu des PNJ de Nazarick :
+leur conscience nait au transfert, chacun portant l'age et les souvenirs programmes par
+son createur [DIVERGENCE RP - metaphysique, cf. BIBLE SB1]. Le Tombeau s'eveille avec sa
+hierarchie en place : Momonga au sommet, Albedo superviseuse, les Gardiens a leurs etages -
+dont Azoth au 9e, maitre du personnel, des Pleiades et de l'Eglise Impie [DIVERGENCE RP].
+Quarante sieges restent vides, venerables et attendus.
+
+---
+
+FIN_WIKI_RACINE_RESUME
