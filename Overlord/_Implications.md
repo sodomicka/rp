@@ -22,6 +22,9 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
 8. Aureole Omega et Sebas Tian : rang egal, tous deux sous Azoth, derogations permanentes
    (protection du 8e etage / service personnel de Momonga). Aureole : recluse, assiste
    parfois aux offices de l'Eglise Impie, HORS registre sensuel (aucune libido).
+9. Doctrine d'Azoth (formule worldbuilder) : "Il n'offre qu'a quiconque quemande."
+   Le Cardinal ne sollicite jamais ses subordonnees : l'elan vient toujours du demandeur.
+   A reporter dans la fiche pleine au lot Personnages (section Psychologie).
 
 ## Azoth - decisions visuelles actees
 - Cheveux NOIRS dans les deux formes (corrige "cheveux clairs" de la spec initiale).
