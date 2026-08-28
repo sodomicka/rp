@@ -1,37 +1,65 @@
 # Echelle de puissance
 
-Version : W1. Univers : Overlord. Emplacement cible : Overlord/Systemes/Echelle_Puissance.md.
-Sources : LN Overlord (fiches officielles quand connues), estimations balisees sinon.
+Version : W2. Univers : Overlord. Emplacement cible : Overlord/Systemes/Echelle_Puissance.md.
+Sources : LN Overlord (fiches officielles, comparatifs de l'auteur) + decisions worldbuilder
+balisees.
+Amendements W2 (thread 6) : echelle interne de Nazarick (decision thread 4) ; niveaux des
+Pleiades soldes ; natifs sans valeur officielle retires (lot NouveauMonde) ; regle
+zero-[INCERTAIN].
 
 ## Principe
 - Echelle unique : les niveaux d'Yggdrasil (1-100) mesurent aussi les natifs.
 - Un ecart de 30 niveaux est repute insurmontable en duel loyal.
-- Les chiffres natifs sont pour la plupart des ESTIMATIONS : baliser toute valeur precise.
+- Regle : seules les valeurs sourcees (fiche officielle LN, comparatif de l'auteur,
+  decision worldbuilder) sont inscrites. Une entite sans valeur sourcee n'est pas chiffree.
 
 ## Bandes du Nouveau Monde
 - Niv. 1-10 : population ordinaire, soldats, aventuriers cuivre a argent.
 - Niv. 10-20 : veterans, aventuriers or a mithril, elites militaires.
-- Niv. 20-30 : sommet humain ordinaire. Adamantite, champions nationaux (Gazef Stronoff ~30 [INCERTAIN]).
-- Niv. 30-40 : domaine des heros. Legendes vivantes, Zesshi, certains des Treize Heros [INCERTAIN].
-- Niv. 40-60 : anomalies. Monstres anciens, demi-dieux locaux, Seigneurs Dragons mineurs [INCERTAIN].
+- Niv. 20-30 : sommet humain ordinaire. Adamantite, champions nationaux. Ancre : Gazef
+  Stronoff ~29, sommet atteignable par l'effort et le talent reunis (comparatif de
+  l'auteur : Gazef sous Hamsuke, dont le niveau canon est ~30).
+- Niv. 30-40 : domaine des heros. Legendes vivantes.
+- Niv. 40-60 : anomalies. Monstres anciens, demi-dieux locaux.
 - Niv. 60+ : quasi exclusivement lie a Yggdrasil (Joueurs, leurs creations, leurs reliquats).
 - Niv. 100 : calibre Etres Supremes. Aucun natif connu.
+- Entites natives notables (Zesshi, les Treize Heros, les Seigneurs Dragons) : chiffrees a
+  leur fiche, lot NouveauMonde.
 
 ## Nazarick (reference interne)
-- Gardiens d'Etage principaux et Sebas : niveau 100.
-- Azoth : niveau 100 [DIVERGENCE RP].
-- Pleiades : niveaux ~45-65 [INCERTAIN sur les valeurs individuelles].
+- Niveau 100 : Shalltear, Cocytus, Aura, Mare, Demiurge, Azoth [DIVERGENCE RP], Albedo,
+  Sebas, Aureole, Pandora's Actor, Rubedo. Victim : niveau 35.
+- Pleiades (fiches officielles LN) : Yuri 51, Lupusregina 59, Narberal 63, CZ2128 46,
+  Solution 57, Entoma 51.
 - Serviteurs et monstres invoques : du niveau 1 aux niveaux 80+ selon l'etage.
 - Consequence : la moindre servante de combat surclasse un adamantite du Nouveau Monde.
+
+## Echelle interne de Nazarick [DIVERGENCE RP - decision worldbuilder]
+Le niveau ne suffit pas : a niveau egal, ce sont les paliers ci-dessous qui tranchent.
+Du plus fort au moins fort :
+1. Les 41 Etres Supremes.
+2. Sebas dechaine (regime dragon sauvage) = Rubedo.
+3. Sommet des PNJ, a egalite de palier : Cocytus, Azoth, Albedo, Demiurge, Shalltear.
+4. Sebas bride = Aureole.
+5. Autres Pleiades, Aura, Mare, autres gardiens (Gargantua, Victim, Pandora's Actor,
+   gardiens de zone).
+6. Autres PNJ.
+- Le triangle canon des guerriers (Sebas bat Cocytus) est ABANDONNE : le palier tranche.
+- L'echelle mesure la POLYVALENCE. Le duel pur est une affaire de specialite et peut
+  renverser un palier sans le contredire : Shalltear > Albedo en duel pur (cf.
+  Personnages/Albedo.md) ; Mare, deuxieme Gardien en duel au classement canon, reste
+  palier 5 car bien moins polyvalent (cf. Personnages/Mare.md).
+- Rubedo : sauvage elle-meme, plus que Nigredo ; equipee au calibre de Cocytus ou de
+  Shalltear en Valkyrie de Sang.
 
 ## Lecture MJ
 - Rang de sort accessible et nombre d'Arts Martiaux : premiers indices de niveau d'un natif.
 - Rang 3 ~ elite locale ; rang 5-6 ~ heros national ; au-dela ~ anomalie a expliquer.
-- Toute nouvelle valeur chiffree doit citer sa source (fiche officielle LN) ou porter [INCERTAIN].
+- Toute nouvelle valeur chiffree cite sa source ; sans source, elle n'est pas inscrite.
 
 ## Renvois
 - Rangs de sorts et plafonds : cf. Magie.md.
 - Arts Martiaux, Talents : cf. Systemes_Natifs.md.
-- Niveaux, races, karma : cf. Yggdrasil.md.
+- Niveaux, races, karma : cf. Yggdrasil.md. Fiches individuelles : cf. Personnages/.
 
 FIN_WIKI_SYSTEMES_ECHELLE_PUISSANCE

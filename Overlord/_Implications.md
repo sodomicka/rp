@@ -17,7 +17,7 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
    equivalence Destruction necromantique / Guerison pour les morts-vivants ; MP maintenus,
    jamais quantifies. L'alignement D&D 5e initial est abandonne (listes VF caduques).
    Magie.md realignee en W2. Detail : decisions thread 2.
-   AMENDEMENTS (thread 3, propagation Magie.md au thread patchs) :
+   AMENDEMENTS (thread 3, propagation Magie.md au thread patchs) [SOLDE thread 6 : Magie W3] :
    - Rang 11 = TRANSCENDER le systeme d'ecoles : chaque grande magie est un COMBO
      (Affaissement Celeste = Destruction + Alteration ; Sacrifices de la moisson noire =
      Destruction + Conjuration, 70 000 morts avant la naissance des chevreaux).
@@ -46,8 +46,9 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
    pas - pas de systeme de dilatation temporelle Yggdrasil / monde reel a construire ;
    les PNJ sont des programmes, cet age-la n'a pas de sens en jeu. Seuls comptent l'age
    programme et la conscience depuis le transfert. PROPAGATION : Regles_Internes.md
-   (metaphysique, trois horloges) a amender au thread patchs.
-   AMENDEMENTS (thread 3, propagation Regles_Internes.md au thread patchs) :
+   (metaphysique, trois horloges) a amender au thread patchs. [SOLDE thread 6 :
+   Regles_Internes W2.]
+   AMENDEMENTS (thread 3, propagation Regles_Internes.md au thread patchs) [SOLDE thread 6] :
    - CORPS NEUFS AU JOUR 0, libido comprise : les experiences programmees (sexuelles
      incluses) sont des souvenirs vecus comme reels ; c'est le passage au Nouveau Monde
      qui rend tout reel. Vaut pour TOUS les PNJ. Ligne gravee dans Azoth W2, Albedo W1,
@@ -126,14 +127,17 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
 ## Points a reverifier / questions en attente
 - [SOLDE thread 3] Demiurge 176 cm : le chiffre etait une hallucination IA, introuvable en
   source. Decision worldbuilder : les jumeaux font 183 cm. Azoth W2 et Demiurge W1 en ce sens.
-- Compte exact des objets de rang monde detenus par Nazarick (11 ?) [INCERTAIN].
-- Seuil d'acces a la grande magie (niveau 70 ?) [INCERTAIN].
+- [SOLDE thread 6] Compte des objets de rang monde : onze, confirme canon (record
+  d'Yggdrasil, guilde suivante a trois). Ouroboros (l'un des Vingt) consomme en jeu ;
+  le canon ne dit pas s'il compte dans les onze - formule sans trancher (Yggdrasil W2).
+- [SOLDE thread 6] Seuil d'acces a la grande magie : niveau 70, confirme canon ; un sort
+  par niveau au-dela, usages quotidiens canon reportes (Magie W3, decision worldbuilder).
 - Niveaux individuels des Pleiades : SOLDES thread 4 pour Yuri (51) et Lupusregina (59) ;
   restent Narberal, CZ, Solution, Entoma (thread 5), regle zero-INCERTAIN oblige.
 - [SOLDE thread 3] Repartition raciale/classes du build d'Ainz : fiche officielle confrontee
   (718 sorts via Sombre savoir, karma -500, 177 cm) ; classes detaillees non necessaires en
   fiche (totaux suffisent). Idem Demiurge : racial 35 / classes 65 (fiche LN, totaux actes).
-- Prevalence des Talents (1/200) : a confirmer sur source LN.
+- [SOLDE thread 6] Prevalence des Talents : 1/200 confirme (LN vol. 2).
 - Source exacte de la VF "la Mort nous fauchera Tous !" : worldbuilder cite S1E12, le
   thread 2 evoquait S3E12 - a reconfirmer sur sa copie, non bloquant.
 - [SOLDE] Azoth : hierarchie 9e etage formalisee dans Organigramme.md (W1) ; a reverifier
@@ -242,7 +246,7 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   Energie Negative, degats necro non types idem, glace a part.
 - PROPAGATIONS EN ATTENTE (thread patchs) : Regles_Internes.md (horloges + corps neufs
   + ages approximatifs) ; Magie.md (rang 11 combo, Alteration, Energie Negative,
-  chevreaux).
+  chevreaux). [SOLDE thread 6.]
 - PATCHS BIBLE SB0/SB5 (synchro d'actes, a appliquer sur la copie de projet ou au
   prochain BIBLE BUILD) :
   - SB0, ligne Personnages : "(1 page)" -> "(5 pages)".
@@ -277,7 +281,7 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   PROPAGATION (thread patchs) : Organigramme.md W2 (bloc du 9e, Pleiades et formations,
   ajout Pestonya, Aureole "cheffe en titre" au lieu de "cheffe reelle") ; BIBLE SB1 ligne
   "Structure de Nazarick" (cf. patchs). Azoth W2 "Subordonnees directes : les Pleiades"
-  reste exact.
+  reste exact. [SOLDE thread 6 : Organigramme W2, Azoth W3, BIBLE B2.]
 - ECHELLE INTERNE DE NAZARICK (decision worldbuilder) : 41 Supremes > Sebas sauvage =
   Rubedo > sommet des PNJ (Cocytus, Azoth, Albedo, Demiurge, Shalltear - a egalite de
   palier) > Sebas bride = Aureole > autres Pleiades, Aura, Mare, autres gardiens > autres
@@ -286,7 +290,10 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   Albedo W1) restent des affaires de style, non contradictoires. Rubedo : sauvage
   elle-meme (plus que Nigredo), equipee au calibre de Cocytus ou de Shalltear en Valkyrie
   de Sang. PROPAGATION (thread patchs) : Echelle_Puissance.md (reference Nazarick) ;
-  Tombeau.md (Rubedo, solde son [INCERTAIN]).
+  Tombeau.md (Rubedo, solde son [INCERTAIN]). [SOLDE thread 6 : Echelle_Puissance W2,
+  Tombeau W2.] PRECISION (thread 6) : l'echelle mesure la POLYVALENCE ; le duel pur est
+  une specialite qui peut renverser un palier sans le contredire (Mare, deuxieme Gardien
+  en duel au classement canon, reste palier 5). Mare.md W1 inchange.
 - SEBAS (decisions worldbuilder) : age programme ~700 ans, apparence 40 ans grisonnant
   comme a 70 [DIVERGENCE canon : vieillard ride, cheveux blancs] ; Touch Me n'a rien ecrit
   (mot de Maruyama) -> souvenirs programmes reduits a servitude volontaire + justice,
@@ -302,7 +309,7 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   respecte, preche ecoute, luxure ignoree par pure indifference. Visuel de reference
   fourni en thread, PAS d'upload au depot (meme regle qu'Azoth). PROPAGATION (thread
   patchs) : Tombeau.md (Aureole, Victim/Wish III), Etres_Supremes.md (Wish III ->
-  Aureole et Victim).
+  Aureole et Victim). [SOLDE thread 6.]
 - YURI (decisions worldbuilder) : 169 cm ; ~400 ans / 24 ans apparents ; yeux gris ;
   nature/peche = rigidite, incapable de repos, reprime l'enfant qui dit "boku" ; Azoth :
   maitre de la foi de Nazarick et deprave, tolere et non juge car issu d'un des 41.
@@ -418,8 +425,9 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
 - AZOTH STRATEGE (rappel worldbuilder) : Azoth est l'egal de Demiurge en tout sauf en
   luxure, acte des l'origine - mais Azoth.md W2 ne porte AUCUNE mention de son esprit de
   stratege. PROPAGATION : Azoth.md W3 (thread patchs), ajouter le trait en Psychologie et
-  en Capacites ; CZ2128.md le suppose deja.
-- PROPAGATION (thread patchs), en plus des lignes des threads precedents :
+  en Capacites ; CZ2128.md le suppose deja. [SOLDE thread 6 : Azoth W3.]
+- PROPAGATION (thread patchs), en plus des lignes des threads precedents [SOLDE thread 6,
+  avec une CORRECTION CANON sur le Trou vert - cf. decisions thread 6] :
   - Etres_Supremes.md W2 : ajouter les createurs absents - Nishikienrai (ninja demi-golem,
     fondateur Nine's Own Goal, createur de Narberal), Beast King Mekongawa (Lupusregina),
     Wish III (Aureole, Victim), Garnet (CZ2128 ; securites de la Tresorerie avec Tabula),
@@ -466,7 +474,8 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   destin (ne peut plus se voir que comme un PNJ, et celle qui aurait fini logiquement par
   etre son epouse est amoureuse de Momonga precisement car c'est la derniere modification
   qu'il a faite avant de perdre cette capacite)".
-- Lecture MJ (a confirmer) : le dieu = Momonga ; le destin vole = celui d'Azoth ; l'epouse
+- Lecture MJ [CONFIRMEE thread 6, gravee en BIBLE B2 SB0 + Tchekhov SB8] : le dieu =
+  Momonga ; le destin vole = celui d'Azoth ; l'epouse
   logique = Albedo (succube / incube jumeau de Demiurge), verrouillee sur Momonga par sa
   derniere edition avant la fermeture d'Yggdrasil. Coherent avec BIBLE SB5 (Albedo : coeur
   verrouille sur Ainz, guerre de domination charnelle avec Azoth, zero romance) et avec la
@@ -498,28 +507,111 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
     qu'il est ici) ; thread 7 = Theologie + Seances (ouverture de Passe 2, le worldbuilder
     y pose les themes detailles, graves en BIBLE au build suivant) ; puis roadmaps.
 
+## Decisions actees thread 6 (thread patchs + BIBLE BUILD B2)
+- LIVRE : Regles_Internes W2, Magie W3, Organigramme W2, Tombeau W2, Etres_Supremes W2,
+  Echelle_Puissance W2, Yggdrasil W2 (mini-patch), Azoth W3, Resume W2, Sommaire W6,
+  BIBLE B2. Zero [INCERTAIN] hors personnages (Systemes_Natifs W1 inchange : son seul
+  marqueur est le [VF A FOURNIR] des Arts Martiaux, chantier dedie).
+- PASSE WEB GROUPEE (validee thread 1, executee) - verdicts : 1500 stoppes au 8e ;
+  Kyouhukou 2e (Capsule Noire) ; Nigredo et Neuronist a la Prison Gelee ; Lemegeton 67
+  golems ; Tresorerie = espace isole, Anneau requis, air toxique, porte a mot de passe,
+  Mausolee (37 golems Avatara, memorial des 41, armes leguees) ; 41 servantes homoncules
+  (Whitebrim, Herohero, Coup De Grace) ; guilde 9e d'Yggdrasil ; onze objets de rang
+  monde ; Talents 1/200 ; grande magie niveau 70 ; Gazef ~29 ; Blue Planet -> nature et
+  ciel du 6e ; Yamaiko -> Yuri ; Genjiro tenait l'inventaire de la Tresorerie ; Momonga
+  parmi les neuf d'origine, choisi maitre de guilde par Touch Me.
+- CORRECTIONS CANON validees (worldbuilder) :
+  - TROU VERT : la propagation thread 5 conflatait deux lieux. Gashokukochuuou est le
+    gardien du GRAND TROU (Large Hole), present au jour 0 ; le TROU VERT (Green Hole) est
+    un village fonde bien plus tard par Ainz sur le 6e (vol. 8, 15) - trajectoire, hors
+    page. Tombeau W2 : "le Grand Trou".
+  - PINISON POL PERLIA retiree de l'Organigramme : dryade de la foret de Tob, entre a
+    Nazarick apres le jour 0. Grant conservee : gardienne de zone a cheval sur les 3e et
+    6e etages.
+  - "SALLE DU CERCUEIL" (Tombeau W1) : sans source, supprimee. Le memorial des 41 est le
+    Mausolee de la Tresorerie. 10e reel : salle des Pleiades Six Etoiles, Lemegeton, Salle
+    du Trone (Trone + Ginnungagap, 41 bannieres), Ashurbanipal, appartements.
+  - ZESSHI retiree de la ligne "rang 7+" de Magie : guerriere, pas lanceuse.
+- DECISIONS WORLDBUILDER (thread 6) :
+  - Autonomie de Nazarick au jour 0 : MIXTE - quotidien autosuffisant (cuisines du 9e,
+    faune et flore du 6e, artisans) ; tout ce qui vient d'Yggdrasil est fini (or,
+    consommables, objets payants). Pas de "vergers" au jour 0 (le verger arrive avec
+    Pinison, canon posterieur).
+  - Definitions des cinq ecoles (Skyrim, alignees sur les ventilations actees) : Destruction
+    = degats (feu, glace, foudre, necro non type) ; Conjuration = invocation, necromancie,
+    armes liees ; Illusion = l'esprit ; Alteration = matiere + telekinesie ; Guerison =
+    soins, protections, sacre et son miroir l'Energie Negative. ENERGIE NEGATIVE = vecteur,
+    pas ecole : Guerison en soin/protection, Destruction en degats.
+  - Grande magie : mecanique canon reportee telle quelle (acces 70, un sort par niveau
+    au-dela, une utilisation/jour puis +1 par dix niveaux, quatre a 100) ; les MP restent
+    non quantifies. Echo canon grave : "onzieme rang", terme des cardinaux de la Theocratie.
+  - VF Magie : "Flammes de l'Enfer (Hell Flame)" CONSERVE (la regle "Hellfire = Flammes du
+    Purgatoire" ne vise pas ce sort).
+  - Organigramme : gardiens de zone listes s'ils ont un lieu (Gashokukochuuou, Nigredo,
+    Neuronist, Shihoutu Tokitu - cantine du 9e, Pestonya, Aureole, Pandora's Actor,
+    Kyouhukou) ; "autres gardiens de zone mineurs" pour le reste.
+  - 10e ETAGE : aucun PNJ gardien attitre ; boss final = les Supremes presents parmi les 41
+    + Albedo. Au jour 0 : Momonga et Albedo. (Tombeau W2, Organigramme W2, BIBLE SB1.)
+  - Etres_Supremes : liste limitee aux neuf d'origine + createurs utiles au focus ; "les
+    autres membres nommes au canon n'ont pas d'attribution utile au focus". Nishikienrai
+    = "membre des neuf d'origine, decouvreur du Tombeau" (Touch Me fonde et mene).
+  - Echelle_Puissance : Gazef ~29 seule ancre native nommee ; Zesshi, Treize Heros,
+    Seigneurs Dragons sans chiffre officiel -> retires, chiffres a leurs fiches au lot
+    NouveauMonde. Regle de page : seules les valeurs sourcees sont inscrites.
+  - Azoth W3 MINIMAL (stratege + chaine du 9e). Les relations vivent en PAGES SATELLITES
+    par cercles (SPEC v8.4, gabarit page relations ; fiche mere = mecanique, page
+    relations = texture) : Azoth_relations_Proches.md (Ainz, Demiurge, Albedo),
+    Azoth_relations_Lieutenants.md (Sebas, Aureole, Yuri), Azoth_relations_Pleiades.md
+    (Lupusregina, Narberal, CZ2128, Solution, Entoma), Azoth_relations_Gardiens.md
+    (Shalltear, Cocytus, Aura, Mare ; Victim et Gargantua a decider),
+    Azoth_relations_Tertiaires.md (les autres). A BUILDER AU THREAD 7, en ouverture.
+    Indexees au Sommaire.
+  - Yggdrasil W2 : "onze" solde ; Ouroboros mentionne ; 2 750 points de creation.
+- CADRAGE THEMATIQUE - LECTURE CONFIRMEE (formulation worldbuilder, thread 6) : si Momonga
+  n'avait pas modifie la config d'Albedo, elle serait tombee amoureuse d'Azoth ; leurs
+  corps qui s'appellent comme des aimants, ce n'est pas que la pulsion incube/succube ;
+  dans le Nouveau Monde, c'etait leur destin logique - deux accros au sexe, surpuissants,
+  aussi intenses dans leur foi, aussi intelligents, passionnes, luxurieux. TCHEKHOV MAJEUR
+  (grave en BIBLE B2 SB8) : le jour ou Azoth apprend qu'Ainz a change la config d'Albedo
+  ET qu'il ne possede plus le moindre outil admin pour l'annuler, sa reaction sera intense.
+  Deroule : roadmap. SAVOIR META - rien dans les noyaux.
+- VF ACTEES thread 6 (reservees au lot NouveauMonde, aucune en fichier) : Six Great Gods ->
+  Six Grands Dieux ; Eight Greed Kings -> Huit Rois Cupides ; Thirteen Heroes -> Treize
+  Heros. VF gravees en fichier : Caveau d'adipocire (Grave Vault of Adipocere) ; le Grand
+  Trou (Large Hole) ; salle des Pleiades Six Etoiles (Room of the Pleiades Six Stars) ;
+  Sephiroth, Ashurbanipal, Lemegeton, Avatara conserves.
+- SPEC v8.4 (26 aout, posterieure a B1) appliquee a B2 : entrees d'entite 3-4 lignes des
+  qu'une fiche existe ; chantier interdit en BIBLE ("fiche a venir" supprimes) ; SB8 =
+  definition + statut ; pages satellites codifiees ; cible 35-40k (B2 : ~15,6k).
+- Nuances canon posees en pages, a garder en tete : Momonga PORTE le Sceptre au jour 0 (lieu
+  de depot : le Sanctuaire) ; l'Anneau ne teleporte pas dans le Sanctuaire, il depose a
+  distance ; les Avatara attaquent quiconque entre au Mausolee AVEC l'Anneau.
+
 ## Correction de direction (chat, a ne pas propager)
 - Les etages de Nazarick DESCENDENT : le 8e (Victim) est le voisin du DESSUS d'Azoth (9e),
   pas du dessous. Erreur MJ en discussion, aucune page touchee.
 
 ## Etat du chantier et prochains threads (decision worldbuilder)
-- FAIT : Systemes/ (4 pages, W1-W2), Nazarick/ (4 pages, W1), Resume.md (W1), BIBLE B1.
-- FAIT (thread 3) : Personnages/ fournee 1 - Ainz, Albedo, Demiurge, Shalltear (W1),
-  Azoth (W2) ; Sommaire W3 ; regles de process permanentes actees ; VF lot Personnages.
-- FAIT (thread 4) : Personnages/ fournee 2 - Sebas, Aureole, Yuri, Lupusregina (W1) ;
-  Sommaire W4 ; chaine du 9e reformulee ; echelle interne de Nazarick ; regle d'age des
-  Pleiades cadettes.
-- FAIT (thread 5) : Personnages/ fournee 3 - Narberal, CZ2128, Solution, Entoma,
-  Cocytus, Aura, Mare, Pandora's Actor (W1) ; Sommaire W5. LOT PERSONNAGES COMPLET
-  (17 fiches). Niveaux soldes.
-- PROCHAIN (THREAD 6) : THREAD PATCHS - Regles_Internes.md, Magie.md, Organigramme.md W2,
-  Tombeau.md W2, Etres_Supremes.md W2, Echelle_Puissance.md, Azoth.md W3 (stratege),
-  [INCERTAIN] hors personnages ; puis BIBLE BUILD B2 (SB1, SB5, SB7, cadrage thematique
-  de la saga, Sommaire reconcilie).
-- ENSUITE (THREAD 7) : THEOLOGIE D'AZOTH (Nazarick/Theologie_Azoth.md W1) + SEANCES
-  (Seances/{Personnage}.md x17, Seances/Tertiaires.md) - ouverture de Passe 2, ressource
-  des roadmaps (cf. cadrage thematique).
-- Plus tard : NouveauMonde/ (position a confirmer), puis roadmaps / fiches d'arc.
+- FAIT : Systemes/ (4 pages), Nazarick/ (4 pages), Resume.md, BIBLE B1 (threads 1-2).
+- FAIT (threads 3-5) : Personnages/ 17 fiches (Azoth W2 -> W3 au thread 6), Sommaire W5.
+  LOT PERSONNAGES COMPLET. Niveaux soldes.
+- FAIT (thread 6) : THREAD PATCHS - Regles_Internes W2, Magie W3, Organigramme W2,
+  Tombeau W2, Etres_Supremes W2, Echelle_Puissance W2, Yggdrasil W2, Azoth W3 ; zero
+  [INCERTAIN] hors personnages ; BIBLE BUILD B2 (cadrage thematique + lecture + Tchekhov
+  majeur, SB1/SB5/SB6/SB7 refondus, SPEC v8.4) ; Resume W2 ; Sommaire W6.
+- PROCHAIN (THREAD 7) - ouverture de Passe 2, dans cet ordre :
+  1. Azoth_relations_{Proches, Lieutenants, Pleiades, Gardiens, Tertiaires}.md W1 - etat
+     des liens au jour 0, compile depuis les 17 fiches, gabarit SPEC page relations
+     (statut, adresses reciproques, rituels, dynamique, ce que l'autre sait, evolution
+     datee vide a la genese). Indexees au Sommaire W7 (mise a jour ponctuelle).
+  2. THEOLOGIE D'AZOTH : Nazarick/Theologie_Azoth.md W1 - la doctrine de l'Eglise Impie au
+     jour 0, foi intacte. Indexee (le monde tel qu'il est).
+  3. SEANCES : Seances/{Personnage}.md x17 + Seances/Tertiaires.md - le worldbuilder pose
+     les themes en ouverture ; gabarit de seance (cf. cadrage thematique). NON indexees,
+     jamais fetchees en narration (statut roadmap). Regle ferme : Aura et Mare sans
+     registre sexuel ; Aureole hors registre.
+- ENSUITE : BIBLE BUILD B3 (themes graves, Theologie et relations en SB), puis NouveauMonde/
+  (position a confirmer), puis roadmaps / fiches d'arc.
 
 ## Rappels de process
 - CADRAGE DE TON (decision worldbuilder, thread 2 - a graver en ANNEXE_STYLE au CODEX V1) :
@@ -546,7 +638,7 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   registre (aucune libido ni curiosite sexuelle).
 - Heresie d'Azoth : PREMISSE de perso, EVENEMENT de trajectoire. Rien dans la fiche noyau.
 - Fiche Azoth : branche neutre Personnages/, plafond prota 20k caracteres.
-- Prochains jalons : patchs + BIBLE B2 (thread 6) -> Theologie + Seances (thread 7)
-  -> NouveauMonde (position a confirmer). Sommaire W5 : livre au thread 5.
+- Prochains jalons : relations + Theologie + Seances (thread 7) -> BIBLE B3 ->
+  NouveauMonde (position a confirmer). Sommaire W6 : livre au thread 6.
 
 FIN_WIKI__IMPLICATIONS

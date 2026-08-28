@@ -1,23 +1,35 @@
 # Nazarick - Regles internes et metaphysique
 
-Version : W1. Univers : Overlord. Emplacement cible : Overlord/Nazarick/Regles_Internes.md.
+Version : W2. Univers : Overlord. Emplacement cible : Overlord/Nazarick/Regles_Internes.md.
 Sources : LN Overlord (canon de reference) + decisions worldbuilder balisees. Etat : jour 0.
+Amendements W2 (thread 6) : metaphysique des PNJ reformulee (deux horloges, corps neufs,
+ages approximatifs) ; autonomie au jour 0 soldee.
 
 ## Loyaute et culte des 41
 - Axiome fondateur : chaque PNJ voue une loyaute absolue aux 41 Etres Supremes.
 - Cette loyaute est ecrite dans leur setting : elle precede toute experience vecue.
 - Les Supremes partis ne sont pas percus comme des deserteurs ; leur retour est espere.
-- L'Eglise Impie (9e etage) institutionnalise le culte : offices, meditation de la parole
-  des 41, confession [DIVERGENCE RP - enrichissement]. Officiant : Azoth.
+- L'Eglise Impie (9e etage) institutionnalise le culte : offices, saintes paroles des 41,
+  confession [DIVERGENCE RP - enrichissement]. Officiant : Azoth.
 
 ## Metaphysique des PNJ (SAVOIR META - aucun PNJ n'y a acces)
 - Dans Yggdrasil, les PNJ etaient des programmes sans conscience.
 - La conscience nait au TRANSFERT : jour 0 est leur premier instant vecu.
-- Trois horloges par PNJ [DIVERGENCE RP - formalisation worldbuilder] :
-  1. Existence litterale : quelques annees (creation durant Yggdrasil, en tant qu'objets).
-  2. Conscience : depuis le transfert.
-  3. Age programme : des siecles au bas mot (millenaires pour certains), ecrit par le
-     createur, vecu comme souvenir authentique.
+- Deux horloges par PNJ [DIVERGENCE RP - formalisation worldbuilder] :
+  1. Conscience : depuis le transfert (jour 0).
+  2. Age programme : ecrit par le createur, vecu comme souvenir authentique. Des siecles
+     au bas mot, millenaires pour certains.
+- L'age de creation litteral (quelques annees d'existence comme objets, durant Yggdrasil)
+  NE COMPTE PAS et ne se discute pas : les PNJ etaient des programmes, cet age-la n'a
+  aucun sens en jeu. Aucune conversion ni dilatation temporelle entre Yggdrasil et le
+  Nouveau Monde (decision worldbuilder).
+- AGES APPROXIMATIFS PAR DEFAUT : un age programme est un "environ" (Albedo ~500 ans,
+  Sebas ~700 ans, Cocytus ~1200 ans), sauf age symbolique voulu par le createur et fige
+  (666 ans des jumeaux Demiurge et Azoth). Tous les 41 n'etaient pas des experts en
+  symbolisme. Detail par personnage : cf. Personnages/.
+- CORPS NEUFS AU JOUR 0, libido comprise : toutes les experiences programmees - sexuelles
+  incluses - sont des souvenirs vecus comme reels, mais aucun corps n'a rien vecu avant le
+  transfert. C'est le passage au Nouveau Monde qui rend tout reel. Vaut pour TOUS les PNJ.
 - GARDE-FOU : cette nature programmee est INDECOUVRABLE en jeu par des moyens normaux.
   Les souvenirs sont indiscernables du vecu. Seules voies d'acces : deduction pure,
   ou revelation par un Supreme.
@@ -29,8 +41,10 @@ Sources : LN Overlord (canon de reference) + decisions worldbuilder balisees. Et
 - Invocations mercenaires et pieges avances : consomment l'or du tresor de guilde.
 - Le tresor est FINI et ne se renouvelle plus depuis la fermeture d'Yggdrasil :
   toute depense est desormais definitive.
-- Vivres, services et confort : produits en interne (cuisines, elevages, artisans du Tombeau)
-  [INCERTAIN sur l'autonomie exacte au jour 0].
+- Autonomie au jour 0 (decision worldbuilder) : MIXTE. Le quotidien est autosuffisant -
+  cuisines du 9e, faune et flore du 6e, artisans du Tombeau. Tout ce qui vient d'Yggdrasil
+  est fini et irremplacable - consommables magiques, objets payants - au meme titre que
+  l'or.
 
 ## Securite
 - Le Tombeau vit en alerte graduee ; tout intrus est detecte, piste, capture ou elimine.
@@ -47,5 +61,6 @@ Sources : LN Overlord (canon de reference) + decisions worldbuilder balisees. Et
 ## Renvois
 - Lieux : cf. Tombeau.md. Personnel : cf. Organigramme.md.
 - Les 41 et le transfert : cf. Etres_Supremes.md.
+- Ages et souvenirs programmes par personnage : cf. Personnages/.
 
 FIN_WIKI_NAZARICK_REGLES_INTERNES

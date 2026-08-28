@@ -1,6 +1,6 @@
 # Sommaire - Overlord
 
-- version : W5
+- version : W6
 
 Reconcilie au BIBLE BUILD B1 (SB9 y pointe ; les versions ci-dessous font inventaire).
 Mise a jour ponctuelle W3 (thread 3) : lot Personnages, fournee 1 - Ainz, Albedo,
@@ -9,6 +9,9 @@ Mise a jour ponctuelle W4 (thread 4) : lot Personnages, fournee 2 - Sebas, Aureo
 Yuri, Lupusregina (W1).
 Mise a jour ponctuelle W5 (thread 5) : lot Personnages, fournee 3 - Narberal, CZ2128,
 Solution, Entoma, Cocytus, Aura, Mare, Pandoras_Actor (W1). Lot Personnages complet.
+Mise a jour W6 (thread 6, BIBLE BUILD B2) : thread patchs - Regles_Internes W2,
+Organigramme W2, Tombeau W2, Etres_Supremes W2, Magie W3, Echelle_Puissance W2,
+Yggdrasil W2, Azoth W3, Resume W2. Zero [INCERTAIN] hors personnages.
 
 ## WIKI
 
@@ -20,46 +23,58 @@ Solution, Entoma, Cocytus, Aura, Mare, Pandoras_Actor (W1). Lot Personnages comp
 
 ### Racine
 Description : pages transversales de l'univers.
-- Resume.md (W1) - resume de l'histoire etablie : Yggdrasil et la guilde (2126-2138), le
-  Nouveau Monde avant le jour 0 (magie importee ~600 ans, systemes natifs), le transfert
-  (jour 0, naissance des consciences, hierarchie en place).
+- Resume.md (W2) - resume de l'histoire etablie : Yggdrasil et la guilde (2126-2138 ;
+  neuf d'origine, 9e guilde, onze objets de rang monde), le Nouveau Monde avant le jour 0
+  (magie importee ~600 ans, vagues ~500 et ~200 ans, systemes natifs), le transfert
+  (jour 0, naissance des consciences dans des corps neufs, hierarchie en place).
 
 ### Systemes/
 Description : systemes du monde (magie, jeu d'origine, systemes natifs, puissance).
-- Magie.md (W2) - magie de rangs : origine (importee par les Joueurs, ~600 ans), cadre des
-  ecoles [DIVERGENCE RP] (cinq ecoles de Skyrim, rangs 1-10, grande magie rang 11,
+- Magie.md (W3) - magie de rangs : origine (importee par les Joueurs, ~600 ans), cadre des
+  ecoles [DIVERGENCE RP] (cinq ecoles de Skyrim definies, rangs 1-10, Energie Negative,
   equivalence necromancie/Guerison), MP non quantifies, plafonds du Nouveau Monde (Fluder
-  rang 6), grande magie (Affaissement Celeste ; Sacrifices de la moisson noire / Ia
-  Shub-Niggurath), sorts signatures VF, contre-mesures.
-  [A AMENDER au thread patchs : rang 11 = combo transcendant les ecoles ; Alteration =
-  matiere + telekinesie ; Energie Negative ; chevreaux - cf. journal, thread 3.]
-- Yggdrasil.md (W1) - le jeu d'origine (DMMO-RPG, 2126-2138) : niveaux (cap 100, ecart de 30),
-  races et karma (-500/+500), objets (grades, cristaux de donnees, objets de rang monde,
-  les Vingt), guildes et PNJ (budget partage ; entorse Azoth [DIVERGENCE RP]), ce qui
-  n'existe pas dans Yggdrasil.
+  rang 6), grande magie (rang 11 = combo d'ecoles ; acces niveau 70, usages canon ;
+  Affaissement Celeste ; Sacrifices de la moisson noire / Ia Shub-Niggurath et ses
+  Chevreaux), sorts signatures VF ventiles (Ainz), contre-mesures.
+- Yggdrasil.md (W2) - le jeu d'origine (DMMO-RPG, 2126-2138) : niveaux (cap 100, ecart de 30),
+  races et karma (-500/+500), objets (grades, cristaux de donnees, objets de rang monde -
+  onze a Nazarick, les Vingt et Ouroboros), guildes et PNJ (budget partage de 2 750
+  points ; entorse Azoth [DIVERGENCE RP]), ce qui n'existe pas dans Yggdrasil.
 - Systemes_Natifs.md (W1) - Arts Martiaux (VF en thread dedie), Talents (~1 personne sur 200),
   Magie Sauvage (Seigneurs Dragons, carburant : les ames), guilde des aventuriers (plaques
   cuivre -> adamantite), guilde des magiciens, note de calibrage.
-- Echelle_Puissance.md (W1) - bandes de puissance du Nouveau Monde (valeurs natives balisees
-  [INCERTAIN]), reference Nazarick, lecture MJ (rangs de sorts et Arts comme indices).
+- Echelle_Puissance.md (W2) - bandes de puissance du Nouveau Monde (Gazef ~29 en ancre ;
+  natifs sans valeur officielle renvoyes au lot NouveauMonde), reference Nazarick (niveaux
+  100, Pleiades 46-63), ECHELLE INTERNE DE NAZARICK [DIVERGENCE RP] (paliers : 41 > Sebas
+  dechaine = Rubedo > sommet des PNJ > Sebas bride = Aureole > autres ; polyvalence vs duel),
+  lecture MJ.
 
 ### Nazarick/
 Description : le Grand Tombeau, sa hierarchie, ses regles, ses createurs. Etat decrit : jour 0.
-- Tombeau.md (W1) - le Tombeau etage par etage : surface, catacombes (1-3, Shalltear),
-  lac (4, Gargantua), glacier (5, Cocytus, Prison Gelee), jungle (6, Aura/Mare), lave
-  (7, Demiurge), etendue sauvage (8, Victim, Rubedo, Aureole), quartiers residentiels
-  (9, Azoth + EGLISE IMPIE [DIVERGENCE RP]), Salle du Trone (10), Tresorerie (Pandora's Actor).
-- Organigramme.md (W1) - pyramide complete : Momonga, Albedo (Superviseuse), Gardiens d'Etage,
-  chaine specifique du 9e [DIVERGENCES RP : Azoth maitre du 9e ; Sebas et Aureole EGAUX sous
-  Azoth avec derogations ; Pleiades sous Azoth], service des Supremes, gardiens de zone.
-- Regles_Internes.md (W1) - loyaute et culte des 41 (Eglise Impie [DIVERGENCE RP]),
-  metaphysique des PNJ (conscience au transfert, garde-fou d'indecouvrabilite
-  [DIVERGENCE RP]), economie interne (tresor fini, monstres POP), securite, frictions.
-  [A AMENDER au thread patchs : horloges (cf. BIBLE SB1) + corps neufs au jour 0, libido
-  comprise + ages approximatifs par defaut - cf. journal, thread 3.]
-- Etres_Supremes.md (W1) - la guilde Ainz Ooal Gown : 41 heteromorphes, regle des adultes
-  salaries, Nine's Own Goal, membres notables et leurs creations (Ulbert -> Demiurge ET Azoth
-  [DIVERGENCE RP]), declin, fermeture et transfert (2138), statut des 41 au jour 0.
+- Tombeau.md (W2) - le Tombeau etage par etage : surface, catacombes (1-3, Shalltear ;
+  Capsule Noire et Caveau d'adipocire au 2e), lac (4, Gargantua), glacier (5, Cocytus,
+  Terre boule de neige, Prison Gelee : Nigredo, Neuronist), jungle (6, Aura/Mare, Grand
+  Trou de Gashokukochuuou), lave (7, Demiurge), etendue sauvage (8, Victim a Sephiroth,
+  Rubedo, Sanctuaire des Cerisiers d'Aureole : Sceptre, Worldslicer), quartiers
+  residentiels (9, Azoth + EGLISE IMPIE [DIVERGENCE RP]), Salle du Trone (10 : Six
+  Etoiles, Lemegeton, Ashurbanipal, boss final = Supremes + Albedo), Tresorerie (Anneau,
+  Pandora's Actor, Mausolee des 41).
+- Organigramme.md (W2) - pyramide complete : Momonga, Albedo (Superviseuse), Gardiens
+  d'Etage, chaine du 9e reformulee [DIVERGENCES RP : Azoth maitre du 9e ; Sebas (service)
+  et Aureole (militaire, cheffe en titre) EGAUX sous Azoth avec derogations ; six Pleiades
+  et majordomes en charge directe d'Azoth, Yuri en seconde ; regles d'ordres], formations
+  Sept Soeurs / Six Etoiles, service des Supremes (41 servantes homoncules, Pestonya),
+  gardiens de zone (Grant corrigee, Pinison retiree).
+- Regles_Internes.md (W2) - loyaute et culte des 41 (Eglise Impie [DIVERGENCE RP]),
+  metaphysique des PNJ (conscience au transfert, deux horloges, corps neufs au jour 0
+  libido comprise, ages approximatifs, garde-fou d'indecouvrabilite [DIVERGENCE RP]),
+  economie interne (tresor fini, monstres POP, autonomie mixte au jour 0), securite,
+  frictions.
+- Etres_Supremes.md (W2) - la guilde Ainz Ooal Gown : 41 heteromorphes, regle des adultes
+  salaries, Nine's Own Goal et ses neuf d'origine, 9e guilde d'Yggdrasil, membres notables
+  et leurs creations (createurs des 17 fiches ; Ulbert -> Demiurge ET Azoth, Wish III ->
+  Aureole et Victim [DIVERGENCES RP]), declin, fermeture et transfert (2138), statut des
+  41 au jour 0.
 
 ### Personnages/
 Description : fiches personnages du monde.
@@ -86,13 +101,15 @@ Description : fiches personnages du monde.
   permanente au 8e (protectrice de Victim, Sceptre en depot, portes de teleportation),
   egale de Sebas sous Azoth, bandeau (a choisi de ne plus voir, perception parfaite),
   classes de commandement, Worldslicer (objet de rang monde), hors registre sensuel.
-- Azoth.md (W2) - fiche noyau du Cardinal Demoniaque (OC, protagoniste ; Archdemon
+- Azoth.md (W3) - fiche noyau du Cardinal Demoniaque (OC, protagoniste ; Archdemon
   niveau 100, karma -500, 666 ans fige, jumeau de Demiurge, cree par Ulbert, Gardien du 9e
   [DIVERGENCES RP]) : setting, psychologie et doctrine, apparences detaillees des deux
   formes (#E8C6AB / #AE9C93), Passion d'Incube (etat d'embrasement), capacites et six
   sorts signatures, position, relations. Trajectoire datee vide (genese).
   Amendements W2 (thread 3) : taille 183 cm (jumeaux a taille egale) ; experience
-  d'incube = souvenir ecrit par Ulbert, corps neuf au jour 0.
+  d'incube = souvenir ecrit par Ulbert, corps neuf au jour 0. Amendements W3 (thread 6) :
+  esprit de stratege (egal de Demiurge en tout sauf en luxure) ; Position synchronisee
+  sur la chaine du 9e ; renvoi vers la page relations (thread 7).
 - Cocytus.md (W1) - fiche noyau du Gardien du 5e (insectoide niveau 100, karma +50,
   2,5 m, ~1200 ans, creation de Warrior Takemikazuchi) : Souverain des Glaciers,
   guerrier d'honneur, un bras pas un cerveau, maitre d'armes (21 armes, quatre a la
@@ -165,6 +182,12 @@ lizardmen, et en survol Argland, Roble).
 
 > FICHES D'ARC. Dossier Fiches_Arc/Azoth/ vide (passe 3, apres les roadmaps). Les fiches
 > d'arc seront indexees ici a leur creation.
+
+> SEANCES NON INDEXEES. Le dossier Seances/ (a venir, thread 7) porte le FUTUR des liens
+> d'Azoth avec chaque personnage : meme statut que les roadmaps, jamais fetche en narration,
+> jamais liste ici. L'etat des liens au jour 0 vivra en pages WIKI satellites
+> (Personnages/Azoth_relations_Proches / _Lieutenants / _Pleiades / _Gardiens /
+> _Tertiaires.md), indexees a leur creation.
 
 > JOURNAL DE CONCEPTION. _Implications.md (a la racine Overlord/) : document de travail des
 > passes en spirale, jamais fetche en narration. Contient les divergences actees, les VF,
