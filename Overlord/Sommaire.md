@@ -1,10 +1,12 @@
 # Sommaire - Overlord
 
-- version : W3
+- version : W4
 
 Reconcilie au BIBLE BUILD B1 (SB9 y pointe ; les versions ci-dessous font inventaire).
 Mise a jour ponctuelle W3 (thread 3) : lot Personnages, fournee 1 - Ainz, Albedo,
 Demiurge, Shalltear (W1) ; Azoth W1 -> W2.
+Mise a jour ponctuelle W4 (thread 4) : lot Personnages, fournee 2 - Sebas, Aureole,
+Yuri, Lupusregina (W1).
 
 ## WIKI
 
@@ -70,6 +72,12 @@ Description : fiches personnages du monde.
   reves), le masque, guerre de domination avec Azoth [DIVERGENCE RP] (souvenirs
   programmes partages, vierge sans le savoir au jour 0), tank supreme (Gardenoire,
   Chevalier Mal-saint, Seigneur Egide), Seigneur-Bicorne de guerre, Ginnungagap.
+- Aureole.md (W1) - fiche noyau de la gardienne du Sanctuaire des Cerisiers (Humaine
+  Eternelle niveau 100, karma +400, 154 cm, plus d'un millenaire, corps fige a 20 ans,
+  creation de Wish III [DIVERGENCE RP]) : cheffe des Pleiades en titre en mission
+  permanente au 8e (protectrice de Victim, Sceptre en depot, portes de teleportation),
+  egale de Sebas sous Azoth, bandeau (a choisi de ne plus voir, perception parfaite),
+  classes de commandement, Worldslicer (objet de rang monde), hors registre sensuel.
 - Azoth.md (W2) - fiche noyau du Cardinal Demoniaque (OC, protagoniste ; Archdemon
   niveau 100, karma -500, 666 ans fige, jumeau de Demiurge, cree par Ulbert, Gardien du 9e
   [DIVERGENCES RP]) : setting, psychologie et doctrine, apparences detaillees des deux
@@ -81,12 +89,28 @@ Description : fiches personnages du monde.
   183 cm, 666 ans fige, jumeau d'Azoth [DIVERGENCE RP], denue de luxure) : gentleman et
   monstre, esthete de la cruaute, angoisse de l'abandon, Aspect du Diable (5 competences
   VF), mantra imperieux, racial 35 / classes 65, Createur de Brasier Ardent.
+- Lupusregina.md (W1) - fiche noyau de la deuxieme Pleiade (garou niveau 59, karma -200,
+  162 cm, ~300 ans / 22 ans apparents, creation de Beast King Mekongawa) : la Sadique au
+  masque souriant, paresse, ronronnement, nature animale inassumee (noyau), forme de
+  loup-garou decrite [DIVERGENCE RP], clerc de guerre rangs 1-8 (Guerison / Illusion /
+  Destruction), sous Azoth.
+- Sebas.md (W1) - fiche noyau du majordome en chef (dragonoide de glace niveau 100,
+  karma +300, 179 cm, ~700 ans, 40 ans d'apparence grisonnant comme a 70
+  [DIVERGENCE RP], creation de Touch Me sans setting) : souvenirs minimaux (servitude
+  volontaire, justice), forme unique et deux regimes (bride / dragon sauvage), majordome
+  personnel de Momonga par derogation, egal d'Aureole sous Azoth, ne commande pas les
+  Pleiades [DIVERGENCE RP], tient majordomes et servantes, paroissien de l'Eglise Impie.
 - Shalltear.md (W1) - fiche noyau de la Gardienne des etages 1-3 (Vampire veritable
   niveau 100, karma -450, 140 cm, age programme millenaire, corps fige a 19 ans) :
   cadrage d'apparence acte [DIVERGENCE RP] (femme adulte sans ambiguite, mensurations
   canon conservees, rendu enfantin abandonne), complexe et rembourrages, Valkyrie de
   Sang, Lance Compte-Goutte, Frenesie Sanglante, Einherjarl, Guerison morts-vivants par
   Energie Negative, Epouses vampires (suite et harem), Grand Atrium des Cadavres de Cire.
+- Yuri.md (W1) - fiche noyau de la vice-capitaine des Pleiades (dullahan niveau 51,
+  karma +150, 169 cm, ~400 ans / 24 ans apparents, creation de Yamaiko) : institutrice
+  stricte, bourreau de travail, "boku" en prive, rigidite (noyau), cogneuse (Paume
+  explosive de ki, Detection de presence, Soin par le ki), seconde des Six Etoiles sous
+  Azoth [DIVERGENCE RP].
 
 ### NouveauMonde/
 Description : factions, geographie et royaumes du Nouveau Monde.

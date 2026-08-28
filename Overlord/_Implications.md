@@ -128,8 +128,8 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   source. Decision worldbuilder : les jumeaux font 183 cm. Azoth W2 et Demiurge W1 en ce sens.
 - Compte exact des objets de rang monde detenus par Nazarick (11 ?) [INCERTAIN].
 - Seuil d'acces a la grande magie (niveau 70 ?) [INCERTAIN].
-- Niveaux individuels des Pleiades [INCERTAIN] -> a solder aux fiches Pleiades (thread 4),
-  regle zero-INCERTAIN oblige.
+- Niveaux individuels des Pleiades : SOLDES thread 4 pour Yuri (51) et Lupusregina (59) ;
+  restent Narberal, CZ, Solution, Entoma (thread 5), regle zero-INCERTAIN oblige.
 - [SOLDE thread 3] Repartition raciale/classes du build d'Ainz : fiche officielle confrontee
   (718 sorts via Sombre savoir, karma -500, 177 cm) ; classes detaillees non necessaires en
   fiche (totaux suffisent). Idem Demiurge : racial 35 / classes 65 (fiche LN, totaux actes).
@@ -161,6 +161,9 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   emotions ; Epsilon : explorer les plaisirs chez un slime ; Zeta : l'anthropophagie.
   A terme (trajectoire lointaine) : meme role d'exutoire aupres d'Ainz lui-meme, par le
   fait d'enfin pouvoir parler.
+  AJOUT (thread 4) : Omega - discussions existentielles avec Azoth, hors registre
+  sensuel (desinteret, pas interdit : Aureole est adulte, la REGLE FERME ne la
+  concerne pas).
   AJOUT (thread 3) : Shalltear partagera son harem (les Epouses vampires) avec Azoth -
   matiere de trajectoire, hors noyau ; le noyau (Shalltear W1) grave seulement "suite et
   harem personnel".
@@ -217,6 +220,8 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   - QUESTIONS NUMEROTEES : toute serie de questions au worldbuilder est numerotee.
   - VF EN LISTE : tout terme a franciser est remonte en liste numerotee, jamais glisse
     dans le texte. Terme surgissant en cours de redaction : remonte pareil.
+  - RAPPELS NUMEROTES (thread 4) : un rappel de question en attente est une question,
+    il se numerote comme les autres.
 - FICHES LIVREES : Ainz.md W1 (derogation budget 12 000 car.), Albedo.md W1,
   Demiurge.md W1, Shalltear.md W1 ; Azoth.md W2 (amendements taille + corps neuf).
   Gabarit de reference du lot : Azoth W2.
@@ -248,6 +253,124 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
     - Shalltear : "fiche a venir." -> "detail: cf. WIKI Personnages/Shalltear.md."
     - Demiurge : "fiche a venir." -> "detail: cf. WIKI Personnages/Demiurge.md."
 
+## Decisions actees thread 4 (lot Personnages, fournee 2)
+- FICHES LIVREES : Sebas.md W1, Aureole.md W1, Yuri.md W1, Lupusregina.md W1.
+  Sommaire W4. Uploads groupes en fin de thread (decision worldbuilder).
+- CHAINE DU 9e REFORMULEE (decision worldbuilder - remplace toute formulation anterieure) :
+  - Azoth : subordonnes directs Sebas et Aureole ; commande aussi directement les six
+    Pleiades et les majordomes, sans passer par Sebas.
+  - Militaire et service separes des l'origine : Aureole avait les Pleiades (militaire),
+    Sebas les majordomes et servantes menageres (service).
+  - Aureole placee en mission permanente au 8e (protectrice de Victim), mission qui lui
+    retire le commandement effectif ; elle reste cheffe des Pleiades EN TITRE ; Azoth a
+    pris les six en charge directe. Inscrit au setting, vecu comme souvenir.
+  - Formations : Sept Soeurs = avec Aureole ; Six Etoiles = sans elle, Yuri Alpha en
+    seconde dirige les Pleiades sous Azoth. Au jour 0 : Six Etoiles.
+  - Sebas ne commande PAS les Pleiades (canon : leur chef). Il tient les majordomes
+    (Eclair Ecleir Eicler) et les servantes homoncules (Pestonya Shortcake Wanko, cheffe
+    des servantes - canon, absente de l'Organigramme W1).
+  - Ordres : Ainz -> Azoth ; seuls les 41 peuvent donner aux Pleiades un ordre qui prime
+    sur ceux d'Azoth ; Albedo DEMANDE du personnel a Azoth, ordonne pour le reste ; Azoth
+    peut reviser un ordre de Sebas, Ainz ceux d'Azoth ; Aureole ne repond qu'a Azoth.
+  - Sebas et les Pleiades : derniere ligne de defense du 9e ; Azoth = la derniere ligne
+    parmi les dernieres lignes.
+  PROPAGATION (thread patchs) : Organigramme.md W2 (bloc du 9e, Pleiades et formations,
+  ajout Pestonya, Aureole "cheffe en titre" au lieu de "cheffe reelle") ; BIBLE SB1 ligne
+  "Structure de Nazarick" (cf. patchs). Azoth W2 "Subordonnees directes : les Pleiades"
+  reste exact.
+- ECHELLE INTERNE DE NAZARICK (decision worldbuilder) : 41 Supremes > Sebas sauvage =
+  Rubedo > sommet des PNJ (Cocytus, Azoth, Albedo, Demiurge, Shalltear - a egalite de
+  palier) > Sebas bride = Aureole > autres Pleiades, Aura, Mare, autres gardiens > autres
+  PNJ. Le triangle canon des guerriers (Sebas bat Cocytus) est ABANDONNE : le palier
+  tranche. Les matchups en duel a l'interieur d'un palier (Shalltear > Albedo en duel pur,
+  Albedo W1) restent des affaires de style, non contradictoires. Rubedo : sauvage
+  elle-meme (plus que Nigredo), equipee au calibre de Cocytus ou de Shalltear en Valkyrie
+  de Sang. PROPAGATION (thread patchs) : Echelle_Puissance.md (reference Nazarick) ;
+  Tombeau.md (Rubedo, solde son [INCERTAIN]).
+- SEBAS (decisions worldbuilder) : age programme ~700 ans, apparence 40 ans grisonnant
+  comme a 70 [DIVERGENCE canon : vieillard ride, cheveux blancs] ; Touch Me n'a rien ecrit
+  (mot de Maruyama) -> souvenirs programmes reduits a servitude volontaire + justice,
+  suffisants pour se croire conscient avant ; forme UNIQUE = le majordome, dragonoide de
+  glace (brume gelee, machoire = muscle le plus puissant), aucune forme cachee [DIVERGENCE
+  canon : forme jamais revelee] ; deux regimes (bride / dragon sauvage) ; Azoth :
+  antagonisme leger, paroissien de l'Eglise Impie, n'aime ni la luxure ni le mal.
+- AUREOLE (decisions worldbuilder) : createur Wish III, createur de VICTIM egalement
+  (canon muet pour les deux) ; plus d'un millenaire, figee a 20 ans ; karma +400 ;
+  154 cm ; bandeau = a choisi de ne plus voir car le monde est laid, perception parfaite ;
+  Worldslicer = son katana, l'objet de rang monde du 8e (non nomme au canon), tranchant
+  = version de rang 11 de Trancheur de realite, nom anglais conserve ; Azoth : superieur
+  respecte, preche ecoute, luxure ignoree par pure indifference. Visuel de reference
+  fourni en thread, PAS d'upload au depot (meme regle qu'Azoth). PROPAGATION (thread
+  patchs) : Tombeau.md (Aureole, Victim/Wish III), Etres_Supremes.md (Wish III ->
+  Aureole et Victim).
+- YURI (decisions worldbuilder) : 169 cm ; ~400 ans / 24 ans apparents ; yeux gris ;
+  nature/peche = rigidite, incapable de repos, reprime l'enfant qui dit "boku" ; Azoth :
+  maitre de la foi de Nazarick et deprave, tolere et non juge car issu d'un des 41.
+- LUPUSREGINA (decisions worldbuilder) : 162 cm ; yeux marron clair ; nature/peche =
+  n'assume pas sa bestialite (a la maniere de Sebas), trouve inavouable d'etre traitee en
+  animal de compagnie (bichonnee, gatee, nourrie, toilettee) ; Azoth : bon maitre, vient a
+  la chapelle pour les saintes paroles ET l'intensite de la passion de son chef ; forme de
+  garou decrite (muscles surdeveloppes, poils partout, griffes saillantes, yeux rouge
+  vif) ; clerc rangs 1-8 ; ecoles : Guerison (soins) / Illusion (Invisibilite totale) /
+  Destruction (feu du ciel) ; tic verbal canon "~su" SUPPRIME, remplace par un
+  ronronnement quand elle se sent bien.
+- REGLE D'AGE DES PLEIADES CADETTES (decision worldbuilder) : toutes les Pleiades sous
+  Yuri (Lupusregina, Narberal, CZ, Solution, Entoma) = 22 ans apparents, ~300 ans
+  programmes. Aureole a part (20 ans, plus d'un millenaire). A appliquer d'office au
+  thread 5.
+- RAPPEL TRAJECTOIRE (thread 2) : les noyaux gravent l'ETAT au jour 0 (Lupusregina
+  n'assume pas sa bestialite ; Yuri ne sait pas se detendre) ; les cheminements
+  Azoth x Pleiades restent matiere de Passe 2.
+- VF actees thread 4 :
+  - Sebas : Majordome d'acier (Iron/Steel Butler) ; dragonoide ; moine ; Seigneur martial
+    (Martial Lord) ; Cogneur (Striker) ; Maitre du ki interne / externe ; Soin par le ki ;
+    Intimidation ; Peau de fer (Iron Skin) ; Paume du marionnettiste (Palm of the
+    Puppeteer) ; sens du ki ; evaluation de niveau ; tres bon (Very Good, karma +300).
+  - Aureole : les Sept Soeurs / les Six Etoiles ; portes de teleportation ; classes de
+    commandement ; Humain Eternel / Humaine Eternelle (Ageless Human) ; Uka-no-Mitama,
+    Ootoshi, Au-chan, miko, hakama, haori conserves ; Worldslicer conserve.
+  - Yuri : Grande Soeur des servantes de combat ; Frappe unique (Single Blow) ;
+    Cuisiniere (Cook) ; Paume explosive de ki (Ki Explosion Palm) ; Detection de presence
+    (Presence Search) ; Vieille Garde de Nazarick (Nazarick Old Guarders) ; "boku",
+    dullahan, zombie conserves ; bon (karma +150).
+  - Lupusregina : la Sadique au masque souriant ; Clerc / Clerc de guerre / Seigneur de
+    guerre / Hierophante ; Invisibilite totale (Complete Invisibility) ; Beast King
+    Mekongawa conserve ; mauvais (karma -200).
+- PATCHS BIBLE SB0/SB1/SB5/SB7 (synchro d'actes, a appliquer sur la copie de projet ou
+  au prochain BIBLE BUILD ; blocs de remplacement complets) :
+  - SB0, ligne Personnages :
+    "  - Personnages - fiches personnages du monde (9 pages)"
+  - SB1, ligne "Structure de Nazarick", remplacer par :
+    "- Structure de Nazarick [DIVERGENCE RP] : Azoth Gardien du 9e ; Sebas (service) et
+      Aureole (militaire, cheffe des Pleiades en titre, detachee au 8e) egaux sous Azoth,
+      chacun sous derogation ; les six Pleiades en charge directe d'Azoth, Yuri en seconde
+      (Six Etoiles) ; Eglise Impie au 9e. detail: cf. WIKI Nazarick/Organigramme.md."
+  - SB5, entree Sebas Tian, remplacer par :
+    "- Sebas Tian - majordome en chef, majordome personnel de Momonga par derogation |
+      dragonoide de glace niv. 100, karma +300, deux regimes (bride / dragon sauvage) |
+      egal d'Aureole, directement sous Azoth, ne commande pas les Pleiades [DIVERGENCE RP]
+      | creation de Touch Me | detail: cf. WIKI Personnages/Sebas.md."
+  - SB5, entree Aureole Omega, remplacer par :
+    "- Aureole Omega - cheffe des Pleiades en titre ; mission permanente au 8e
+      (protectrice de Victim, Sceptre en depot, portes) qui lui retire le commandement
+      effectif ; egale de Sebas, sous Azoth [DIVERGENCE RP] | Humaine Eternelle niv. 100,
+      karma +400, creation de Wish III [DIVERGENCE RP] | recluse au Sanctuaire des
+      Cerisiers ; aucune libido ni curiosite sexuelle | detail: cf. WIKI
+      Personnages/Aureole.md."
+  - SB5, entree Pleiades, remplacer par :
+    "- Pleiades - servantes de combat en charge directe d'Azoth, Yuri Alpha en seconde
+      (Six Etoiles) [DIVERGENCE RP] : Yuri Alpha (dullahan niv. 51), Lupusregina Beta
+      (garou niv. 59), Narberal Gamma, CZ2128 Delta, Solution Epsilon, Entoma Vasilissa
+      Zeta (niveaux a solder) | detail: cf. WIKI Personnages/Yuri.md, Lupusregina.md ;
+      quatre fiches a venir."
+  - SB5, entree Victim / Gargantua / Rubedo, remplacer par :
+    "- Victim (8e, creation de Wish III [DIVERGENCE RP]), Gargantua (4e), Rubedo (palier
+      de Sebas dechaine) - pas de fiche dediee. detail: cf. WIKI Nazarick/Tombeau.md et
+      Organigramme.md."
+  - SB7, ligne a ajouter :
+    "- Worldslicer - objet de rang monde, katana d'Aureole Omega [DIVERGENCE RP - nom] |
+      8e etage | tranchant = version de rang 11 de Trancheur de realite."
+
 ## Correction de direction (chat, a ne pas propager)
 - Les etages de Nazarick DESCENDENT : le 8e (Victim) est le voisin du DESSUS d'Azoth (9e),
   pas du dessous. Erreur MJ en discussion, aucune page touchee.
@@ -256,13 +379,16 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
 - FAIT : Systemes/ (4 pages, W1-W2), Nazarick/ (4 pages, W1), Resume.md (W1), BIBLE B1.
 - FAIT (thread 3) : Personnages/ fournee 1 - Ainz, Albedo, Demiurge, Shalltear (W1),
   Azoth (W2) ; Sommaire W3 ; regles de process permanentes actees ; VF lot Personnages.
-- PROCHAIN (THREAD 4) : suite du lot Personnages, toujours Passe 1 - Cocytus, Aura,
-  Mare, Sebas Tian, Aureole Omega, Pandora's Actor, puis les six Pleiades (Yuri Alpha,
-  Lupusregina Beta, Narberal Gamma, CZ2128 Delta, Solution Epsilon, Entoma Vasilissa
-  Zeta). Rappel REGLE FERME pour Aura et Mare : enfants, exclusion totale du registre
-  sensuel.
-- Plus tard : THREAD PATCHS (Regles_Internes.md + Magie.md + [INCERTAIN] hors
-  personnages), NouveauMonde/ (position a confirmer), puis passes roadmaps / fiches d'arc.
+- FAIT (thread 4) : Personnages/ fournee 2 - Sebas, Aureole, Yuri, Lupusregina (W1) ;
+  Sommaire W4 ; chaine du 9e reformulee ; echelle interne de Nazarick ; regle d'age des
+  Pleiades cadettes.
+- PROCHAIN (THREAD 5) : suite du lot Personnages, toujours Passe 1 - Narberal Gamma,
+  CZ2128 Delta, Solution Epsilon, Entoma Vasilissa Zeta (22 ans / ~300 ans d'office ;
+  niveaux a solder), puis Cocytus, Aura, Mare, Pandora's Actor (fiche courte). Rappel
+  REGLE FERME pour Aura et Mare : enfants, exclusion totale du registre sensuel.
+- Plus tard : THREAD PATCHS (Regles_Internes.md, Magie.md, Organigramme.md W2,
+  Tombeau.md, Etres_Supremes.md, Echelle_Puissance.md, [INCERTAIN] hors personnages),
+  NouveauMonde/ (position a confirmer), puis passes roadmaps / fiches d'arc.
 
 ## Rappels de process
 - CADRAGE DE TON (decision worldbuilder, thread 2 - a graver en ANNEXE_STYLE au CODEX V1) :
@@ -273,6 +399,15 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   EST MONTRE : romance, seduction, tension, plaisirs suggestifs, avant, apres, marques,
   rapport de force. Zero edulcoration hors acte. Suggestion plutot que jeu explicite.
   Jamais de vocabulaire anatomique cru.
+  AMENDEMENT (thread 4, formulation worldbuilder) : L'ELLIPSE EST L'EXCEPTION, PAS LE
+  REFLEXE. Le MJ EVITE l'ellipse tant que le joueur reste dans le narrable - seduction,
+  douceur, intimite, nudite non sexualisee, soin, tension, corps et reactions - et ne
+  coupe que si le joueur part dans l'acte explicite. C'est la formulation du joueur qui
+  suggere l'ellipse quand elle est souhaitee ; le MJ ne l'anticipe jamais par prudence.
+  Toujours valables : pas de dialogue pendant l'ebat ; l'apres est montre ; jamais de
+  vocabulaire anatomique cru (calibrage thread 4 : corps nomme en mots de litterature,
+  zones erogenes par le geste et l'effet, pas d'inventaire ni de lexique porno, pas de
+  mecanique de l'acte).
 - CASTING SENSUEL : Albedo, Pleiades = ok. Shalltear (design acte, cf. divergence 6) :
   eligible au registre du RP sous la REGLE FERME (adulte en tout point : corps,
   presentation, comportement), qui reste le portier pour tout le casting. Aura et Mare =
