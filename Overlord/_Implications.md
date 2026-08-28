@@ -371,6 +371,133 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
     "- Worldslicer - objet de rang monde, katana d'Aureole Omega [DIVERGENCE RP - nom] |
       8e etage | tranchant = version de rang 11 de Trancheur de realite."
 
+## Decisions actees thread 5 (lot Personnages, fournee 3 - lot complet)
+- FICHES LIVREES : Narberal.md, CZ2128.md, Solution.md, Entoma.md, Cocytus.md, Aura.md,
+  Mare.md, Pandoras_Actor.md (W1). Sommaire W5. Uploads groupes en fin de thread.
+- NIVEAUX SOLDES (fiches officielles LN) : Narberal 63, Solution 57, Entoma 51, CZ 46.
+  Karmas : Narberal -400, Solution -400, Entoma -100, CZ +100, Cocytus +50, Aura -100,
+  Mare -100, Pandora's Actor -50.
+- NARBERAL (decisions worldbuilder) : 166 cm, yeux noirs ; Nishikienrai a laisse un socle
+  ninja dans la posture (vigilance, ombre, frappe decisive), pas dans les classes ;
+  nature/peche = la garde jamais baissee ; Azoth = devotion hierarchique, "-sama"
+  reflexe, luxure indifferente (c'est l'humain qui la revulse, pas le vice) ; cinq doigts
+  en forme humaine, vraies mains a volonte ; rangs 1-8 ; ventilation foudre = Destruction,
+  deplacements/armures = Alteration, Invisibilite-Envout'humain-Message = Illusion,
+  Protection energie negative = Guerison ; Oreilles/Patte/Queue de lapin = sorts de
+  soutien reels (equipement fonctionnel, pas une farce), non ventiles par ecole.
+- CZ2128 (decisions worldbuilder) : 150 cm, cheveux rouge-or (LN, hierarchie des
+  sources), 22 ans d'office et "petite n'est pas enfantine" ; setting Garnet = cle
+  maitresse + "arme silencieuse, l'affect n'etait pas au cahier des charges", affect
+  present mais inexploite dans ses sous-programmes ; nature/peche = emotions existantes
+  sans acces ; Azoth = indifference plate + respect de son esprit de stratege, mis au
+  niveau de Demiurge, Albedo et Pandora's Actor (Cocytus retire : erreur strategique
+  canon face aux hommes-lezards).
+- SOLUTION (decisions worldbuilder) : 168 cm ; Herohero a verse dans sa creation tout ce
+  que l'employe epuise n'etait pas ; nature/peche = le seul plaisir connu est la proie qui
+  se debat en elle, son corps de slime jamais explore autrement que comme une cage ;
+  Azoth = sensualite d'appat jamais de desir, curiosite de predateur pour un autre
+  predateur.
+- ENTOMA (decisions worldbuilder) : 148 cm, 22 ans d'office, menue ; Genjiro = une poupee
+  en kimono posee sur l'insecte, l'appetit seule chose qui ne soit pas un masque ;
+  nature/peche = anthropophagie comme appetit, sans cruaute ni faute ; Azoth = devotion
+  candide, rien d'humain a offrir, attend qu'on ne la dise pas degoutante ; rangs 1-7 ;
+  ventilation talismans d'attaque = Destruction, Araignee et insectes = Conjuration,
+  Renforcement et desarmement = Alteration, soutien et message = Illusion.
+- COCYTUS (decisions worldbuilder) : ~1200 ans programmes ; Azoth = camaraderie du bras
+  pour le cerveau, comme avec Demiurge ; a l'Eglise Impie il honore les 41 et laisse le
+  reste aux demons.
+- AURA ET MARE (decisions worldbuilder) : 104 cm tous les deux (source secondaire) ; ages
+  canon 76 ans, enfants. REGLE FERME gravee en Identite et en ligne Azoth : registre sexuel
+  du Cardinal FERME, sans exception, par decision d'Azoth lui-meme ; le reste de son
+  registre est OUVERT - Azoth les guide dans les saintes paroles des 41 quand ils doutent.
+  Mare : rangs 1-10, pas de grande magie (Petite Catastrophe = talent) ; ventilation terre
+  et plantes offensives = Destruction, terrain = Alteration, soins/buffs = Guerison,
+  invocation = Conjuration.
+- PANDORA'S ACTOR (decisions worldbuilder) : fiche courte ; 177 cm (source secondaire) ;
+  Azoth ne le connait pas au jour 0 - la Tresorerie est le secret de Momonga.
+- AZOTH STRATEGE (rappel worldbuilder) : Azoth est l'egal de Demiurge en tout sauf en
+  luxure, acte des l'origine - mais Azoth.md W2 ne porte AUCUNE mention de son esprit de
+  stratege. PROPAGATION : Azoth.md W3 (thread patchs), ajouter le trait en Psychologie et
+  en Capacites ; CZ2128.md le suppose deja.
+- PROPAGATION (thread patchs), en plus des lignes des threads precedents :
+  - Etres_Supremes.md W2 : ajouter les createurs absents - Nishikienrai (ninja demi-golem,
+    fondateur Nine's Own Goal, createur de Narberal), Beast King Mekongawa (Lupusregina),
+    Wish III (Aureole, Victim), Garnet (CZ2128 ; securites de la Tresorerie avec Tabula),
+    Genjiro (Entoma). Yamaiko : solder son [INCERTAIN].
+  - Tombeau.md W2 : etage 5, solder le [INCERTAIN] Nigredo / Neuronist Painkill (canon :
+    Prison Gelee, confirme) ; ajouter la residence de Cocytus (la Terre boule de neige) ;
+    etage 6, ajouter le Trou vert et son roi des insectes Gashokukochuuou.
+  - BIBLE SB5 : entree Pleiades, remplacer "(niveaux a solder)" par les niveaux soldes et
+    "quatre fiches a venir" par "detail: cf. WIKI Personnages/ (six fiches)" ; entrees
+    Cocytus, Aura et Mare, Pandora's Actor : "fiche a venir" -> "detail: cf. WIKI
+    Personnages/<fiche>.md" ; Aura et Mare : ajouter la REGLE FERME en une ligne.
+- VF ACTEES thread 5 (jargon seulement, le reste traduit litteralement) :
+  Narberal - Mage de guerre, Elementaliste (Air), Mage cuirassee, Lance-Tonnerre, Eclair,
+  Sphere electrique, Eclair-Dragon, Eclair-Dragon en chaine, Envout'humain (Ofelbe, a
+  confirmer sur copie), Vision dans le noir, tres mauvais (Great Evil, -400) ;
+  CZ - automate, Fusiliere, Tireuse d'elite, Assassine, Traqueuse, la Servante de
+  l'embuscade, arme a feu magique, Tir de scellement, Inodore, la Chute de la Valkyrie,
+  Professeur (Garnet) ;
+  Solution - slime predateur, Assassine, Maitre assassine, Fabricante de poison, la Cage
+  de dissolution ;
+  Entoma - arachnoide, Talismancienne, Lanceuse de talismans, Entomomancienne, Maitre
+  d'armes, la Servante aux insectes, talismans Oiseau de foudre / Nuee d'oiseaux de foudre
+  / Explosion / Tranchant / Vent percant / Araignee / Renforcement, Insecte-mitraille /
+  Insecte-lame / Insecte-bouclier / Mille-Fouets / Insecte-levres / Insecte-masque /
+  Souffle de mouches ;
+  Cocytus - Combattant insecte, Seigneur de la Vermine, Saint de l'epee, Asura, Chevalier
+  de Niflheim, Souverain des Glaciers, la Terre boule de neige, la Prison gelee, Combo des
+  Cinq Rois de Sagesse, Epee Kurikara, Aura de givre ;
+  Aura / Mare - la Dresseuse renommee a l'esprit combatif, l'Emissaire peu fiable de la
+  nature, Rodeuse / Dresseuse / Archere / Tireuse d'elite / Grande dresseuse, Druide /
+  Grand druide / Heraut de la nature / Disciple du desastre / Mage des forets, Ombre
+  d'Yggdrasil, Petite Catastrophe, Grande Catastrophe, Desastre du monde, Arbre Geant, le
+  Trou vert ;
+  Pandora's Actor - grand doppelganger, Professionnel / Artisan / Roi de la forteresse,
+  l'Homme sans visage aux mille formes.
+- PROCESS (calibrage worldbuilder, thread 5) : par fiche, 3 a 5 questions maximum, une
+  question groupee pour le physique (jamais tranche seul), VF limitees au jargon Overlord.
+
+## Cadrage thematique de la saga (decision worldbuilder, cloture thread 5)
+- FORMULATION WORLDBUILDER (a reporter telle quelle en ANNEXE_STYLE au CODEX V1 et en
+  tete de Roadmap/Azoth/) : "cette histoire c'est l'analyse psycho sous plein d'aspects
+  d'un eveil de conscience et l'introspection d'un pretre qui decouvre que son dieu est
+  faillible, moins parfait que ses creations, et qu'il lui a involontairement vole son
+  destin (ne peut plus se voir que comme un PNJ, et celle qui aurait fini logiquement par
+  etre son epouse est amoureuse de Momonga precisement car c'est la derniere modification
+  qu'il a faite avant de perdre cette capacite)".
+- Lecture MJ (a confirmer) : le dieu = Momonga ; le destin vole = celui d'Azoth ; l'epouse
+  logique = Albedo (succube / incube jumeau de Demiurge), verrouillee sur Momonga par sa
+  derniere edition avant la fermeture d'Yggdrasil. Coherent avec BIBLE SB5 (Albedo : coeur
+  verrouille sur Ainz, guerre de domination charnelle avec Azoth, zero romance) et avec la
+  regle "Heresie d'Azoth : PREMISSE de perso, EVENEMENT de trajectoire".
+- DEUX CHANTIERS AJOUTES avant les roadmaps (decision worldbuilder) :
+  1. LA THEOLOGIE D'AZOTH - la doctrine de l'Eglise Impie telle qu'elle existe au jour 0
+     (foi intacte), puis ses failles a venir. Ressource des roadmaps.
+  2. LES SEANCES - contenu des seances d'Azoth avec chaque personnage : tout le monde y
+     passe, de maniere plus ou moins sexuelle, voire pas du tout. REGLE FERME : Aura et
+     Mare = aucun registre sexuel (guidance dans les saintes paroles seulement) ; Aureole =
+     hors registre (discussions existentielles). Ressource des roadmaps ; developpe les
+     formules de trajectoire du thread 2 (Alpha se detendre, Beta bestialite, Gamma garde,
+     Delta emotions, Epsilon plaisirs de slime, Zeta anthropophagie, Omega existentiel ; a
+     terme Ainz lui-meme).
+- ROUTAGE ACTE (decision worldbuilder) :
+  - Theologie au jour 0 = page WIKI Nazarick/Theologie_Azoth.md (indexee, fetchable en
+    jeu : c'est le monde tel qu'il est).
+  - Seances = Overlord/Seances/{Personnage}.md, une par fiche (17), plus
+    Seances/Tertiaires.md (micro-seances ponctuelles avec les seconds roles, pour sortir
+    des sujets serieux / erotiques). Non indexees au Sommaire, JAMAIS fetchees en
+    narration : c'est le FUTUR, meme statut que les roadmaps.
+  - Les themes : le worldbuilder les a en tete, il les pose en ouverture du thread 7 ;
+    graves ici d'abord, puis en BIBLE au build suivant.
+  - Gabarit de seance propose : personnage | registre (sexuel / suggestif / nul) | ce qu'il
+    vient chercher / ce qu'Azoth y cherche | noeud (nature et peche du noyau) | battements
+    (3-5) | ce qu'Azoth decouvre sur lui-meme et sur son dieu | verrou (ce qui ne bouge
+    pas) | lien avec le theme (dieu faillible / destin vole).
+  - ORDRE ACTE : thread 6 = patchs + BIBLE BUILD B2 (grave le cadrage thematique tel
+    qu'il est ici) ; thread 7 = Theologie + Seances (ouverture de Passe 2, le worldbuilder
+    y pose les themes detailles, graves en BIBLE au build suivant) ; puis roadmaps.
+
 ## Correction de direction (chat, a ne pas propager)
 - Les etages de Nazarick DESCENDENT : le 8e (Victim) est le voisin du DESSUS d'Azoth (9e),
   pas du dessous. Erreur MJ en discussion, aucune page touchee.
@@ -382,13 +509,17 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
 - FAIT (thread 4) : Personnages/ fournee 2 - Sebas, Aureole, Yuri, Lupusregina (W1) ;
   Sommaire W4 ; chaine du 9e reformulee ; echelle interne de Nazarick ; regle d'age des
   Pleiades cadettes.
-- PROCHAIN (THREAD 5) : suite du lot Personnages, toujours Passe 1 - Narberal Gamma,
-  CZ2128 Delta, Solution Epsilon, Entoma Vasilissa Zeta (22 ans / ~300 ans d'office ;
-  niveaux a solder), puis Cocytus, Aura, Mare, Pandora's Actor (fiche courte). Rappel
-  REGLE FERME pour Aura et Mare : enfants, exclusion totale du registre sensuel.
-- Plus tard : THREAD PATCHS (Regles_Internes.md, Magie.md, Organigramme.md W2,
-  Tombeau.md, Etres_Supremes.md, Echelle_Puissance.md, [INCERTAIN] hors personnages),
-  NouveauMonde/ (position a confirmer), puis passes roadmaps / fiches d'arc.
+- FAIT (thread 5) : Personnages/ fournee 3 - Narberal, CZ2128, Solution, Entoma,
+  Cocytus, Aura, Mare, Pandora's Actor (W1) ; Sommaire W5. LOT PERSONNAGES COMPLET
+  (17 fiches). Niveaux soldes.
+- PROCHAIN (THREAD 6) : THREAD PATCHS - Regles_Internes.md, Magie.md, Organigramme.md W2,
+  Tombeau.md W2, Etres_Supremes.md W2, Echelle_Puissance.md, Azoth.md W3 (stratege),
+  [INCERTAIN] hors personnages ; puis BIBLE BUILD B2 (SB1, SB5, SB7, cadrage thematique
+  de la saga, Sommaire reconcilie).
+- ENSUITE (THREAD 7) : THEOLOGIE D'AZOTH (Nazarick/Theologie_Azoth.md W1) + SEANCES
+  (Seances/{Personnage}.md x17, Seances/Tertiaires.md) - ouverture de Passe 2, ressource
+  des roadmaps (cf. cadrage thematique).
+- Plus tard : NouveauMonde/ (position a confirmer), puis roadmaps / fiches d'arc.
 
 ## Rappels de process
 - CADRAGE DE TON (decision worldbuilder, thread 2 - a graver en ANNEXE_STYLE au CODEX V1) :
@@ -415,7 +546,7 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   registre (aucune libido ni curiosite sexuelle).
 - Heresie d'Azoth : PREMISSE de perso, EVENEMENT de trajectoire. Rien dans la fiche noyau.
 - Fiche Azoth : branche neutre Personnages/, plafond prota 20k caracteres.
-- Prochains jalons : suite du lot Personnages (thread 4) -> patchs -> NouveauMonde
-  (position a confirmer). Sommaire W3 : livre au thread 3.
+- Prochains jalons : patchs + BIBLE B2 (thread 6) -> Theologie + Seances (thread 7)
+  -> NouveauMonde (position a confirmer). Sommaire W5 : livre au thread 5.
 
 FIN_WIKI__IMPLICATIONS

@@ -1,12 +1,14 @@
 # Sommaire - Overlord
 
-- version : W4
+- version : W5
 
 Reconcilie au BIBLE BUILD B1 (SB9 y pointe ; les versions ci-dessous font inventaire).
 Mise a jour ponctuelle W3 (thread 3) : lot Personnages, fournee 1 - Ainz, Albedo,
 Demiurge, Shalltear (W1) ; Azoth W1 -> W2.
 Mise a jour ponctuelle W4 (thread 4) : lot Personnages, fournee 2 - Sebas, Aureole,
 Yuri, Lupusregina (W1).
+Mise a jour ponctuelle W5 (thread 5) : lot Personnages, fournee 3 - Narberal, CZ2128,
+Solution, Entoma, Cocytus, Aura, Mare, Pandoras_Actor (W1). Lot Personnages complet.
 
 ## WIKI
 
@@ -72,6 +74,12 @@ Description : fiches personnages du monde.
   reves), le masque, guerre de domination avec Azoth [DIVERGENCE RP] (souvenirs
   programmes partages, vierge sans le savoir au jour 0), tank supreme (Gardenoire,
   Chevalier Mal-saint, Seigneur Egide), Seigneur-Bicorne de guerre, Ginnungagap.
+- Aura.md (W1) - fiche noyau de la Gardienne du 6e (elfe noire niveau 100, 0 racial,
+  karma -100, 104 cm, 76 ans - enfant, creation de Bukubukuchagama) : la Dresseuse
+  renommee a l'esprit combatif, vive et franche, collectionneuse de betes, peur des
+  insectes, dresseuse et rodeuse (plus de cent betes, talents de souffle), binome avec
+  Mare. REGLE FERME : enfant, registre sensuel exclu ; Azoth = oncle franc, saintes
+  paroles ouvertes, sexuel ferme [DIVERGENCE RP].
 - Aureole.md (W1) - fiche noyau de la gardienne du Sanctuaire des Cerisiers (Humaine
   Eternelle niveau 100, karma +400, 154 cm, plus d'un millenaire, corps fige a 20 ans,
   creation de Wish III [DIVERGENCE RP]) : cheffe des Pleiades en titre en mission
@@ -85,15 +93,45 @@ Description : fiches personnages du monde.
   sorts signatures, position, relations. Trajectoire datee vide (genese).
   Amendements W2 (thread 3) : taille 183 cm (jumeaux a taille egale) ; experience
   d'incube = souvenir ecrit par Ulbert, corps neuf au jour 0.
+- Cocytus.md (W1) - fiche noyau du Gardien du 5e (insectoide niveau 100, karma +50,
+  2,5 m, ~1200 ans, creation de Warrior Takemikazuchi) : Souverain des Glaciers,
+  guerrier d'honneur, un bras pas un cerveau, maitre d'armes (21 armes, quatre a la
+  fois), Aura de givre, Combo des Cinq Rois de Sagesse, Takemikazuchi Mk 8 ; Azoth =
+  camaraderie du bras pour le cerveau, comme avec Demiurge [DIVERGENCE RP].
+- CZ2128.md (W1) - fiche noyau de la quatrieme Pleiade (automate niveau 46, karma +100,
+  150 cm, ~300 ans / 22 ans apparents, creation de Garnet) : la Servante de l'embuscade,
+  cle maitresse des mecanismes de Nazarick, affect present mais inexploite (noyau),
+  autocollants "1 yen", fusiliere (armes a feu magiques, Tir de scellement, echarpe
+  legendaire), sous Azoth [DIVERGENCE RP].
 - Demiurge.md (W1) - fiche noyau du Gardien du 7e (archdemon niveau 100, karma -500,
   183 cm, 666 ans fige, jumeau d'Azoth [DIVERGENCE RP], denue de luxure) : gentleman et
   monstre, esthete de la cruaute, angoisse de l'abandon, Aspect du Diable (5 competences
   VF), mantra imperieux, racial 35 / classes 65, Createur de Brasier Ardent.
+- Entoma.md (W1) - fiche noyau de la sixieme Pleiade (arachnoide niveau 51, karma -100,
+  148 cm, ~300 ans / 22 ans apparents, creation de Genjiro) : la Servante aux insectes,
+  poupee en kimono sur l'insecte, anthropophagie comme appetit (noyau), insecte-levres
+  et insecte-masque, talismans rangs 1-7 (Destruction / Conjuration / Alteration /
+  Illusion), insectes-armes, Souffle de mouches, sous Azoth [DIVERGENCE RP].
 - Lupusregina.md (W1) - fiche noyau de la deuxieme Pleiade (garou niveau 59, karma -200,
   162 cm, ~300 ans / 22 ans apparents, creation de Beast King Mekongawa) : la Sadique au
   masque souriant, paresse, ronronnement, nature animale inassumee (noyau), forme de
   loup-garou decrite [DIVERGENCE RP], clerc de guerre rangs 1-8 (Guerison / Illusion /
   Destruction), sous Azoth.
+- Mare.md (W1) - fiche noyau du Gardien du 6e (elfe noir niveau 100, 0 racial, karma
+  -100, 104 cm, 76 ans - enfant, creation de Bukubukuchagama) : l'Emissaire peu fiable
+  de la nature, timide et brutal, druide rangs 1-10 sans grande magie (Destruction /
+  Alteration / Guerison / Conjuration), Petite Catastrophe, Ombre d'Yggdrasil, deuxieme
+  Gardien en duel. REGLE FERME : enfant, registre sensuel exclu ; Azoth = saintes paroles
+  ouvertes, sexuel ferme [DIVERGENCE RP].
+- Narberal.md (W1) - fiche noyau de la troisieme Pleiade (doppelganger niveau 63, karma
+  -400, 166 cm, ~300 ans / 22 ans apparents, creation de Nishikienrai) : socle ninja
+  dans la posture, mepris des humains, la garde jamais baissee (noyau), regard vide =
+  repos en forme vraie, mage de foudre rangs 1-8 (Destruction / Alteration / Illusion /
+  Guerison), sorts de lapin en soutien, sous Azoth [DIVERGENCE RP].
+- Pandoras_Actor.md (W1) - fiche courte du gardien de zone de la Tresorerie (grand
+  doppelganger niveau 100, karma -50, 177 cm, seule creation de Momonga) : l'Homme sans
+  visage aux mille formes, theatral et pratique, 45 formes dont les 41 Supremes a 80 %,
+  enferme dans la Tresorerie au jour 0 ; Azoth ne le connait pas [DIVERGENCE RP].
 - Sebas.md (W1) - fiche noyau du majordome en chef (dragonoide de glace niveau 100,
   karma +300, 179 cm, ~700 ans, 40 ans d'apparence grisonnant comme a 70
   [DIVERGENCE RP], creation de Touch Me sans setting) : souvenirs minimaux (servitude
@@ -106,6 +144,11 @@ Description : fiches personnages du monde.
   canon conservees, rendu enfantin abandonne), complexe et rembourrages, Valkyrie de
   Sang, Lance Compte-Goutte, Frenesie Sanglante, Einherjarl, Guerison morts-vivants par
   Energie Negative, Epouses vampires (suite et harem), Grand Atrium des Cadavres de Cire.
+- Solution.md (W1) - fiche noyau de la cinquieme Pleiade (slime predateur niveau 57,
+  karma -400, 168 cm, ~300 ans / 22 ans apparents, creation de Herohero) : la Cage de
+  dissolution, humains = nourriture et jouets, le seul plaisir connu est la proie qui se
+  debat en elle (noyau), cage vivante, corps de slime, voleuse et fabricante de poison,
+  sensualite d'appat jamais de desir face a Azoth, sous Azoth [DIVERGENCE RP].
 - Yuri.md (W1) - fiche noyau de la vice-capitaine des Pleiades (dullahan niveau 51,
   karma +150, 169 cm, ~400 ans / 24 ans apparents, creation de Yamaiko) : institutrice
   stricte, bourreau de travail, "boku" en prive, rigidite (noyau), cogneuse (Paume
