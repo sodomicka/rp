@@ -1,6 +1,6 @@
 # Azoth, le Cardinal Demoniaque
 
-- version : W1
+- version : W2
 
 ## Identite
 - Nom : Azoth. Titre : Cardinal Demoniaque de Nazarick.
@@ -14,6 +14,8 @@
 - Concu comme une contradiction incarnee : pretre de style catholique ET sataniste assume.
 - Precheur de la parole des 41 ; accepte et celebre tous les peches, a outrance.
 - Luxure absolue : le marqueur qui le distingue de son jumeau (Demiurge en est denue).
+- Toute son experience d'incube est un souvenir ecrit par Ulbert : son corps n'a jamais
+  rien vecu avant le jour 0 (metaphysique des PNJ : cf. Nazarick/Regles_Internes.md).
 
 ## Psychologie (noyau)
 - Ferveur religieuse authentique envers les 41 Etres Supremes.
@@ -29,7 +31,8 @@
 - Egal intellectuel de Demiurge ; son oppose moral, et son complice de fait.
 
 ## Apparence - forme humaine
-- Silhouette de Demiurge : grand, mince, elegant. Taille env. 176 cm [INCERTAIN, calquee sur Demiurge].
+- Silhouette de Demiurge : grand, mince, elegant. Taille : 183 cm (les jumeaux font la
+  meme taille - decision worldbuilder).
 - Visage fin et seduisant, sourire en coin frequent. Oreilles pointues. Peau pale et chaude (ref. #E8C6AB).
 - Cheveux : noirs, extremement longs (sous la taille), lisses, une meche sur le visage.
 - Yeux : rouge sang. PAS de lunettes (marqueur inverse de Demiurge).

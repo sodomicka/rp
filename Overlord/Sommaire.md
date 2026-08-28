@@ -1,8 +1,10 @@
 # Sommaire - Overlord
 
-- version : W2
+- version : W3
 
 Reconcilie au BIBLE BUILD B1 (SB9 y pointe ; les versions ci-dessous font inventaire).
+Mise a jour ponctuelle W3 (thread 3) : lot Personnages, fournee 1 - Ainz, Albedo,
+Demiurge, Shalltear (W1) ; Azoth W1 -> W2.
 
 ## WIKI
 
@@ -25,6 +27,8 @@ Description : systemes du monde (magie, jeu d'origine, systemes natifs, puissanc
   equivalence necromancie/Guerison), MP non quantifies, plafonds du Nouveau Monde (Fluder
   rang 6), grande magie (Affaissement Celeste ; Sacrifices de la moisson noire / Ia
   Shub-Niggurath), sorts signatures VF, contre-mesures.
+  [A AMENDER au thread patchs : rang 11 = combo transcendant les ecoles ; Alteration =
+  matiere + telekinesie ; Energie Negative ; chevreaux - cf. journal, thread 3.]
 - Yggdrasil.md (W1) - le jeu d'origine (DMMO-RPG, 2126-2138) : niveaux (cap 100, ecart de 30),
   races et karma (-500/+500), objets (grades, cristaux de donnees, objets de rang monde,
   les Vingt), guildes et PNJ (budget partage ; entorse Azoth [DIVERGENCE RP]), ce qui
@@ -47,18 +51,42 @@ Description : le Grand Tombeau, sa hierarchie, ses regles, ses createurs. Etat d
 - Regles_Internes.md (W1) - loyaute et culte des 41 (Eglise Impie [DIVERGENCE RP]),
   metaphysique des PNJ (conscience au transfert, garde-fou d'indecouvrabilite
   [DIVERGENCE RP]), economie interne (tresor fini, monstres POP), securite, frictions.
-  [A AMENDER au thread patchs : l'horloge d'existence litterale ne compte plus, cf. BIBLE SB1.]
+  [A AMENDER au thread patchs : horloges (cf. BIBLE SB1) + corps neufs au jour 0, libido
+  comprise + ages approximatifs par defaut - cf. journal, thread 3.]
 - Etres_Supremes.md (W1) - la guilde Ainz Ooal Gown : 41 heteromorphes, regle des adultes
   salaries, Nine's Own Goal, membres notables et leurs creations (Ulbert -> Demiurge ET Azoth
   [DIVERGENCE RP]), declin, fermeture et transfert (2138), statut des 41 au jour 0.
 
 ### Personnages/
 Description : fiches personnages du monde.
-- Azoth.md (W1) - fiche noyau du Cardinal Demoniaque (OC, protagoniste ; Archdemon
+- Ainz.md (W1) - fiche noyau du dernier Supreme (Suzuki Satoru, 30 ans ; Overlord
+  niveau 100, karma -500, 177 cm) : le joueur derriere, histoire de guilde, suppression
+  emotionnelle, Sombre savoir (718 sorts), la Mort nous fauchera Tous ! (eclipse),
+  six sorts signatures dont deux grandes magies (combos d'ecoles), savoirs meta
+  (PNJ programmes, retouche d'Albedo). Derogation budget : 12 000 car. (decision
+  worldbuilder).
+- Albedo.md (W1) - fiche noyau de la Superviseuse (succube niveau 100, karma -500,
+  175 cm, ~500 ans non fige) : setting de Tabula (ange fusionne au monstre du pays des
+  reves), le masque, guerre de domination avec Azoth [DIVERGENCE RP] (souvenirs
+  programmes partages, vierge sans le savoir au jour 0), tank supreme (Gardenoire,
+  Chevalier Mal-saint, Seigneur Egide), Seigneur-Bicorne de guerre, Ginnungagap.
+- Azoth.md (W2) - fiche noyau du Cardinal Demoniaque (OC, protagoniste ; Archdemon
   niveau 100, karma -500, 666 ans fige, jumeau de Demiurge, cree par Ulbert, Gardien du 9e
   [DIVERGENCES RP]) : setting, psychologie et doctrine, apparences detaillees des deux
   formes (#E8C6AB / #AE9C93), Passion d'Incube (etat d'embrasement), capacites et six
   sorts signatures, position, relations. Trajectoire datee vide (genese).
+  Amendements W2 (thread 3) : taille 183 cm (jumeaux a taille egale) ; experience
+  d'incube = souvenir ecrit par Ulbert, corps neuf au jour 0.
+- Demiurge.md (W1) - fiche noyau du Gardien du 7e (archdemon niveau 100, karma -500,
+  183 cm, 666 ans fige, jumeau d'Azoth [DIVERGENCE RP], denue de luxure) : gentleman et
+  monstre, esthete de la cruaute, angoisse de l'abandon, Aspect du Diable (5 competences
+  VF), mantra imperieux, racial 35 / classes 65, Createur de Brasier Ardent.
+- Shalltear.md (W1) - fiche noyau de la Gardienne des etages 1-3 (Vampire veritable
+  niveau 100, karma -450, 140 cm, age programme millenaire, corps fige a 19 ans) :
+  cadrage d'apparence acte [DIVERGENCE RP] (femme adulte sans ambiguite, mensurations
+  canon conservees, rendu enfantin abandonne), complexe et rembourrages, Valkyrie de
+  Sang, Lance Compte-Goutte, Frenesie Sanglante, Einherjarl, Guerison morts-vivants par
+  Energie Negative, Epouses vampires (suite et harem), Grand Atrium des Cadavres de Cire.
 
 ### NouveauMonde/
 Description : factions, geographie et royaumes du Nouveau Monde.

@@ -9,16 +9,32 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
    d'Ainz.
 4. Albedo : coeur verrouille sur Ainz (setting canon), corps en guerre de domination avec
    Azoth (nature succube/incube). Zero romance, statut collegues.
+   AMENDEMENT (thread 3) : la guerre est inscrite dans les souvenirs programmes des DEUX
+   (vecue comme reelle) ; rien n'a existe avant le jour 0. Albedo vierge sans le savoir
+   au point de depart.
 5. Magie [REFONDUE thread 2] : cinq ecoles de Skyrim (Destruction, Conjuration, Illusion,
    Alteration, Guerison) ; rangs 1-9, rang 10 = sorts aberrants, rang 11 = grande magie ;
    equivalence Destruction necromantique / Guerison pour les morts-vivants ; MP maintenus,
    jamais quantifies. L'alignement D&D 5e initial est abandonne (listes VF caduques).
    Magie.md realignee en W2. Detail : decisions thread 2.
+   AMENDEMENTS (thread 3, propagation Magie.md au thread patchs) :
+   - Rang 11 = TRANSCENDER le systeme d'ecoles : chaque grande magie est un COMBO
+     (Affaissement Celeste = Destruction + Alteration ; Sacrifices de la moisson noire =
+     Destruction + Conjuration, 70 000 morts avant la naissance des chevreaux).
+   - Alteration = modifier l'etat de la matiere + telekinesie (definition d'ecole).
+   - ENERGIE NEGATIVE (concept acte) : l'equivalent du sacre pour les morts. La Guerison
+     sur morts-vivants est de l'ecole de Guerison vehiculee par l'Energie Negative ; les
+     degats type necromancie (non specifies d'un autre element) en relevent.
 6. Shalltear Bloodfallen : vampire millenaire dans un corps fige a 19 ans. Design acte
    (precise thread 2) : silhouette menue, formes discretes, apparence adulte sans ambiguite ;
    design canon abandonne. Libido canon intacte. Aura et Mare : inchanges, hors de tout
    registre sensuel (pas de libido, enfants). REGLE FERME : le registre sensuel du RP ne
    s'applique qu'a des personnages adultes en tout point (corps, presentation, comportement).
+   CLARIFICATION (thread 3, formulation worldbuilder) : petite taille et formes discretes
+   ne sont PAS des traits enfantins - l'amalgame est refuse. Les MENSURATIONS canon sont
+   CONSERVEES (140 cm, poitrine plate, rembourrages, complexe, vanne d'Aura, preference
+   pour Gate) ; c'est le RENDU ENFANTIN du design canon qui est abandonne. Apparence :
+   femme adulte sans aucune ambiguite, silhouette de 19 ans figee. Fiche W1 en ce sens.
 7. REGLE GENERALE - ages des PNJ de Nazarick (decision worldbuilder) : PNJ crees in medias res.
    Trois horloges : existence LITTERALE (quelques annees, creation durant Yggdrasil) ;
    conscience (depuis le transfert, jour 0 du RP) ; age PROGRAMME (siecles a millenaires,
@@ -31,6 +47,14 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
    les PNJ sont des programmes, cet age-la n'a pas de sens en jeu. Seuls comptent l'age
    programme et la conscience depuis le transfert. PROPAGATION : Regles_Internes.md
    (metaphysique, trois horloges) a amender au thread patchs.
+   AMENDEMENTS (thread 3, propagation Regles_Internes.md au thread patchs) :
+   - CORPS NEUFS AU JOUR 0, libido comprise : les experiences programmees (sexuelles
+     incluses) sont des souvenirs vecus comme reels ; c'est le passage au Nouveau Monde
+     qui rend tout reel. Vaut pour TOUS les PNJ. Ligne gravee dans Azoth W2, Albedo W1,
+     Shalltear W1.
+   - AGES APPROXIMATIFS PAR DEFAUT : les ages programmes sont des "environ", hors ages
+     symboliques voulus par le createur (666 des jumeaux, fige). "Tous les 41 n'etaient
+     pas des experts en symbolisme" (worldbuilder). Albedo : ~500 ans, non fige.
 8. Aureole Omega et Sebas Tian : rang egal, tous deux directement sous Azoth, tous deux avec
    une derogation permanente - Aureole protectrice du niveau avant celui des Pleiades
    (8e etage), Sebas majordome personnel du Seigneur Momonga. Aureole recluse a son
@@ -48,6 +72,9 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   PAS d'upload au depot (decision worldbuilder). La pre-fiche W0 fait foi pour le texte.
 - Teintes de peau actees : #E8C6AB (forme humaine), #AE9C93 (forme vraie).
 - Etat d'embrasement acte : declencheurs passion ET magie (sort, preche, desir).
+- Taille (thread 3) : 183 cm, IDENTIQUE a Demiurge (les jumeaux font la meme taille).
+  Le "176 cm" de la spec initiale etait une hallucination IA, sans source : ENTERRE.
+  Azoth W2 amende (taille + corps neuf).
 
 ## Decisions de terminologie (VF)
 - Attestees wiki FR : objet de rang monde, grande magie, rang (de sort), Affaissement Celeste,
@@ -57,27 +84,58 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   Le Roi Mort-Vivant (titre tome 1), Royaume Sorcier, Tenebres (Darkness), Le Grand Massacre
   (titre episode S3E12).
 - Fournies par worldbuilder (incantation VF) : Sacrifices de la moisson noire (Ia Shub-Niggurath ;
-  romanisation ASCII : "Ia" pour "Ia" trema) ; Rejetons de Shub-Niggurath (Dark Young).
-- [VF A FOURNIR] : The Goal of All Life is Death (VF sous-titres ADN S3E12 existe mais
-  introuvable en ligne - worldbuilder verifie sa copie ou forge la sienne) ; noms des
-  Arts Martiaux -> CHANTIER EN THREAD DEDIE (decision worldbuilder) ; cash item
-  (propose : objet payant) ; guild weapon (propose : arme de guilde) ; autres au fil des lots.
+  romanisation ASCII : "Ia" pour "Ia" trema) ; Rejetons de Shub-Niggurath (Dark Young)
+  [REMPLACE thread 3 : CHEVREAUX - terme canon FR ; "l'offrande a la deesse de la moisson
+  noire est retribuee par l'arrivee de ses petits" est une REMARQUE d'Ainz, pas une
+  incantation - Ainz adore expliquer ses sorts en restant avare de details].
+- Fournies par worldbuilder (thread 3, lot Personnages) :
+  - Ainz : la Mort nous fauchera Tous ! (The Goal of All Life is Death - source citee
+    worldbuilder : sous-titres ADN, episode a reconfirmer S1E12 vs S3E12) ; Sombre savoir
+    (Dark Wisdom) ; eclipse (classe) ; Mage squelette -> Liche superieure (lignee raciale) ;
+    Aura du desespoir I-V ; Toucher d'energie negative ; Creation de mort-vivant
+    inferieur / intermediaire / superieur ; Guerrier parfait ; Bonne etoile (Wish Upon a
+    Star) ; Etoile filante (Shooting Star, l'anneau) ; l'anneau d'Ainz Ooal Gown ;
+    Chevalier de la Mort (Death Knight) ; Trancheur de realite ; Arret temporel ;
+    Cri de la Banshee (rang 9, decision - canon muet).
+  - Albedo : Gardenoire (Blackguard) ; Chevalier Mal-saint (Unholy Knight) ; Seigneur
+    Egide (Shield Lord) ; Seigneur-Bicorne de guerre (War Bicorn Lord). Ginnungagap et
+    Hermes Trismegistus : noms propres, conserves.
+  - Demiurge : Aspect du Diable (panoplie) ; cape de Flammes du Purgatoire ; Bras geant
+    du demon robuste ; griffe fil de rasoir ; ailes tentaculaires ; celerite de
+    l'eventail de Tengu ; mantra imperieux (Command Mantra) ; diablotins (Imps) ;
+    seigneurs demoniaques (Evil Lords) ; Createur de Brasier Ardent (epithete).
+    REGLE PERMANENTE : "Hellfire" se traduit TOUJOURS "Flammes du Purgatoire".
+  - Shalltear : Lance Compte-Goutte (Spuit Lance) ; Valkyrie de Sang (Bloody Valkyrie) ;
+    Frenesie Sanglante (Blood Frenzy) ; Epouses vampires ; Vampire veritable ;
+    Einherjarl (avec un L, decision worldbuilder) ; Grand Atrium des Cadavres de Cire.
+  - Confirmees (propositions MJ validees thread 3) : arme de guilde (guild weapon) ;
+    objet payant (cash item).
+- [VF A FOURNIR] : noms des Arts Martiaux -> CHANTIER EN THREAD DEDIE (decision
+  worldbuilder) ; classes de Demiurge "Chaos" et "Prince of Darkness" (si un jour
+  nommees en fiche) ; autres au fil des lots.
 
 ## Corrections de faits (a ne pas propager)
-- Massacre de Katze : 70 000 tues par le sort seul, AVANT l'apparition des cinq Rejetons
+- Massacre de Katze : 70 000 tues par le sort seul, AVANT l'apparition des cinq Chevreaux
   (confirme worldbuilder) ; pertes totales du Royaume : plus de 180 000 sur 260 000 mobilises.
 - Conflation corrigee dans Magie.md : la grande magie de Katze est Sacrifices de la moisson
   noire (Ia Shub-Niggurath). The Goal of All Life is Death est une CAPACITE DE CLASSE d'Ainz
-  (effet de mort ignorant les immunites, delai 12 s), pas une grande magie. A detailler en
-  fiche Ainz (lot Personnages).
+  (effet de mort ignorant les immunites, delai 12 s), pas une grande magie. [SOLDE thread 3 :
+  detaillee en fiche Ainz.md W1 - classe eclipse niveau 5, recharge 100 h, combo Cri de la
+  Banshee etendu.]
 
 ## Points a reverifier / questions en attente
-- Demiurge 176 cm (base de la taille d'Azoth) : a verifier sur fiche officielle LN.
+- [SOLDE thread 3] Demiurge 176 cm : le chiffre etait une hallucination IA, introuvable en
+  source. Decision worldbuilder : les jumeaux font 183 cm. Azoth W2 et Demiurge W1 en ce sens.
 - Compte exact des objets de rang monde detenus par Nazarick (11 ?) [INCERTAIN].
 - Seuil d'acces a la grande magie (niveau 70 ?) [INCERTAIN].
-- Niveaux individuels des Pleiades [INCERTAIN].
-- Repartition raciale/classes exacte du build d'Ainz (fiche officielle a confronter).
+- Niveaux individuels des Pleiades [INCERTAIN] -> a solder aux fiches Pleiades (thread 4),
+  regle zero-INCERTAIN oblige.
+- [SOLDE thread 3] Repartition raciale/classes du build d'Ainz : fiche officielle confrontee
+  (718 sorts via Sombre savoir, karma -500, 177 cm) ; classes detaillees non necessaires en
+  fiche (totaux suffisent). Idem Demiurge : racial 35 / classes 65 (fiche LN, totaux actes).
 - Prevalence des Talents (1/200) : a confirmer sur source LN.
+- Source exacte de la VF "la Mort nous fauchera Tous !" : worldbuilder cite S1E12, le
+  thread 2 evoquait S3E12 - a reconfirmer sur sa copie, non bloquant.
 - [SOLDE] Azoth : hierarchie 9e etage formalisee dans Organigramme.md (W1) ; a reverifier
   seulement en relecture croisee de cloture de Passe 2.
 
@@ -86,6 +144,9 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   des Cerisiers, descend parfois a l'Eglise Impie pour les offices.
 - Eglise Impie : formulation "lieu de culte officiel / ferveur reelle, liturgie depravee" validee.
 - Passe de verification web GROUPEE des [INCERTAIN] : validee, a executer au thread "patchs".
+  AMENDEMENT (thread 3) : la regle zero-INCERTAIN (ci-dessous) absorbe la part Personnages
+  de cette passe - chaque fiche est verifiee a son build. Restent pour les patchs les
+  [INCERTAIN] hors personnages (objets de rang monde, seuil grande magie, Talents).
 
 ## Message tronque (cloture thread 1) : SOLDE (thread 2)
 - Les deux fins de phrase ont ete fournies par le worldbuilder et integrees a la
@@ -100,6 +161,9 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   emotions ; Epsilon : explorer les plaisirs chez un slime ; Zeta : l'anthropophagie.
   A terme (trajectoire lointaine) : meme role d'exutoire aupres d'Ainz lui-meme, par le
   fait d'enfin pouvoir parler.
+  AJOUT (thread 3) : Shalltear partagera son harem (les Epouses vampires) avec Azoth -
+  matiere de trajectoire, hors noyau ; le noyau (Shalltear W1) grave seulement "suite et
+  harem personnel".
 - Pandora's Actor : fiche individuelle courte.
 - Victim, Gargantua, Rubedo : pas de fiche dediee, couverts par Tombeau.md.
 - Ordre de build du lot : 1) Azoth (reversion W0 -> W1, prototype de gabarit),
@@ -117,7 +181,8 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   worldbuilder) : Magie.md realignee en W2. Systemes_Natifs.md et Echelle_Puissance.md
   verifies compatibles, aucun changement. Reste au thread patchs : Regles_Internes.md
   (horloges). [EN ATTENTE] ventilation par ecole des sorts canon : non etablie, au cas
-  par cas (arbitrage worldbuilder).
+  par cas (arbitrage worldbuilder). [PRECISE thread 3 : ventilations actees pour les
+  signatures d'Ainz et de Shalltear, cf. fiches.]
 - TERMINOLOGIE (harmonisation MJ, veto worldbuilder possible) : "rang" (VF attestee)
   conserve pour les sorts, "niveau" reserve aux personnages. BIBLE B1, Azoth W1 et
   Magie W2 harmonises en ce sens au thread 2.
@@ -129,9 +194,9 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   parole unificatrice + zero tolerance au blaspheme suggerant un desaccord entre les 41 ;
   pur mage sans catalyseur ; tenue resistance feu / glace ; esprit inalterable hors
   Passion d'Incube ; six sorts signatures fournis par le worldbuilder (cf. fiche W1).
-  Sommaire a resynchroniser (Azoth.md W0 -> W1).
+  Sommaire a resynchroniser (Azoth.md W0 -> W1). [SOLDE : Sommaire W2, puis W3.]
   SOLDE (thread 2) : les DEUX jumeaux sont a age fixe, 666 ans. A reporter en fiche
-  Demiurge.
+  Demiurge. [SOLDE thread 3 : reporte en Demiurge.md W1.]
 - CORRECTION (thread 2) : Passion d'Incube EST l'etat d'embrasement - un seul et meme
   phenomene, pas deux mecanismes lies. Regle MJ fausse, corrigee dans la fiche AVANT
   upload ; la W1 corrigee ecrase toute copie anterieure de W1.
@@ -144,24 +209,60 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   ROADMAPS, a fixer en Passe 2 (decision worldbuilder - remplace le defaut SPEC de
   30 entrees).
 
+## Decisions actees thread 3 (lot Personnages, fournee 1)
+- REGLES DE PROCESS PERMANENTES (decisions worldbuilder) :
+  - ZERO [INCERTAIN] en fiche : verification web perso par perso au moment du build,
+    quitte a ne faire que 3-4 fiches par thread. Les personnages sont le centre du RP.
+    Trou canon irreductible -> decision worldbuilder, jamais de balise.
+  - QUESTIONS NUMEROTEES : toute serie de questions au worldbuilder est numerotee.
+  - VF EN LISTE : tout terme a franciser est remonte en liste numerotee, jamais glisse
+    dans le texte. Terme surgissant en cours de redaction : remonte pareil.
+- FICHES LIVREES : Ainz.md W1 (derogation budget 12 000 car.), Albedo.md W1,
+  Demiurge.md W1, Shalltear.md W1 ; Azoth.md W2 (amendements taille + corps neuf).
+  Gabarit de reference du lot : Azoth W2.
+- Ainz : nom de fiche = Ainz.md (nom porte durant tout le RP passe la roadmap 1 ;
+  au jour 0 il est encore Momonga, renommage = trajectoire). Age de Suzuki Satoru :
+  30 ans (18 ans a l'entree dans Yggdrasil - majorite requise par la guilde - + 12 ans
+  de jeu ; canon muet, decision worldbuilder). Regle de guilde precisee (worldbuilder) :
+  reservee aux majeurs, la vie pro infeste la guilde mais chacun gere l'equilibre.
+- Sorts signatures d'Ainz ventiles (arbitrage worldbuilder) : Emprise cardiaque
+  (Alteration 9), Cri de la Banshee (Destruction 9), Trancheur de realite
+  (Destruction 10), Arret temporel (Alteration 10), Affaissement Celeste
+  (Destruction + Alteration, 11), Sacrifices de la moisson noire
+  (Destruction + Conjuration, 11).
+- Albedo : age programme ~500 ans, non fige, apparence ~28 ans ; taille 175 cm ;
+  guerre de domination = souvenirs programmes partages, corps neufs, vierge sans le
+  savoir au jour 0 ("ca va TRES VITE changer" = trajectoire, rien en noyau).
+- Shalltear : cf. divergence 6 (clarification) ; ecoles : Guerison morts-vivants via
+  Energie Negative, degats necro non types idem, glace a part.
+- PROPAGATIONS EN ATTENTE (thread patchs) : Regles_Internes.md (horloges + corps neufs
+  + ages approximatifs) ; Magie.md (rang 11 combo, Alteration, Energie Negative,
+  chevreaux).
+- PATCHS BIBLE SB0/SB5 (synchro d'actes, a appliquer sur la copie de projet ou au
+  prochain BIBLE BUILD) :
+  - SB0, ligne Personnages : "(1 page)" -> "(5 pages)".
+  - SB5, remplacer la mention "fiche a venir" en fin d'entree pour les quatre
+    personnages livres :
+    - Momonga : "fiche a venir (lot Personnages)." -> "detail: cf. WIKI Personnages/Ainz.md."
+    - Albedo : "fiche a venir." -> "detail: cf. WIKI Personnages/Albedo.md."
+    - Shalltear : "fiche a venir." -> "detail: cf. WIKI Personnages/Shalltear.md."
+    - Demiurge : "fiche a venir." -> "detail: cf. WIKI Personnages/Demiurge.md."
+
 ## Correction de direction (chat, a ne pas propager)
 - Les etages de Nazarick DESCENDENT : le 8e (Victim) est le voisin du DESSUS d'Azoth (9e),
   pas du dessous. Erreur MJ en discussion, aucune page touchee.
 
 ## Etat du chantier et prochains threads (decision worldbuilder)
-- FAIT : Systemes/ (4 pages, W1), Nazarick/ (4 pages, W1), Personnages/Azoth.md (pre-fiche W0).
-- FAIT (thread 2) : cadrage lot Personnages ; refonte du systeme de magie actee ;
-  Azoth W1 livre (prototype de gabarit) ; BIBLE B1 + Resume.md W1 + Sommaire W2 LIVRES
-  (upload worldbuilder ; BIBLE a integrer aux fichiers de projet pour la suite du build) ;
-  Magie.md realignee en W2 (patch avance).
-- PROCHAIN (THREAD 3) : reste des fiches Personnages, toujours Passe 1, ouverture sur
-  Ainz/Momonga (Ainz, Albedo, Shalltear,
-  Demiurge, Cocytus, Aura, Mare, Sebas, Aureole, Pandora's Actor, et les six Pleiades :
-  Yuri Alpha, Lupusregina Beta, Narberal Gamma, CZ2128 Delta, Solution Epsilon,
-  Entoma Vasilissa Zeta).
-- Plus tard : THREAD PATCHS (verification web groupee des [INCERTAIN] + Magie.md +
-  Regles_Internes.md), NouveauMonde/ (position a confirmer), puis passes roadmaps /
-  fiches d'arc.
+- FAIT : Systemes/ (4 pages, W1-W2), Nazarick/ (4 pages, W1), Resume.md (W1), BIBLE B1.
+- FAIT (thread 3) : Personnages/ fournee 1 - Ainz, Albedo, Demiurge, Shalltear (W1),
+  Azoth (W2) ; Sommaire W3 ; regles de process permanentes actees ; VF lot Personnages.
+- PROCHAIN (THREAD 4) : suite du lot Personnages, toujours Passe 1 - Cocytus, Aura,
+  Mare, Sebas Tian, Aureole Omega, Pandora's Actor, puis les six Pleiades (Yuri Alpha,
+  Lupusregina Beta, Narberal Gamma, CZ2128 Delta, Solution Epsilon, Entoma Vasilissa
+  Zeta). Rappel REGLE FERME pour Aura et Mare : enfants, exclusion totale du registre
+  sensuel.
+- Plus tard : THREAD PATCHS (Regles_Internes.md + Magie.md + [INCERTAIN] hors
+  personnages), NouveauMonde/ (position a confirmer), puis passes roadmaps / fiches d'arc.
 
 ## Rappels de process
 - CADRAGE DE TON (decision worldbuilder, thread 2 - a graver en ANNEXE_STYLE au CODEX V1) :
@@ -179,7 +280,7 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   registre (aucune libido ni curiosite sexuelle).
 - Heresie d'Azoth : PREMISSE de perso, EVENEMENT de trajectoire. Rien dans la fiche noyau.
 - Fiche Azoth : branche neutre Personnages/, plafond prota 20k caracteres.
-- Prochains jalons : reste du lot Personnages -> patchs -> NouveauMonde (position a
-  confirmer). BIBLE B1 + Sommaire W2 + Resume W1 : livres au thread 2.
+- Prochains jalons : suite du lot Personnages (thread 4) -> patchs -> NouveauMonde
+  (position a confirmer). Sommaire W3 : livre au thread 3.
 
 FIN_WIKI__IMPLICATIONS
