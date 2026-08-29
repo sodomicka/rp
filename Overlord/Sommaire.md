@@ -1,6 +1,6 @@
 # Sommaire - Overlord
 
-- version : W8
+- version : W9
 
 Reconcilie au BIBLE BUILD B1 (SB9 y pointe ; les versions ci-dessous font inventaire).
 Mise a jour ponctuelle W3 (thread 3) : lot Personnages, fournee 1 - Ainz, Albedo,
@@ -21,6 +21,9 @@ roadmap) - Gardiens, Shalltear_S, Pleiades, CZ2128_S, Pandoras_Actor_S (W1) ; Ai
 Albedo_S, Demiurge_S, Lieutenants, Pantheon (W2, renommage {Perso}_S) ; propagation -
 Aura W3, CZ2128 W2, Solution W2, Lupusregina W2, Aureole W2, Azoth W5, Regles_Internes
 W3, Theologie_Azoth W2, Etres_Supremes W4, Resume W4.
+Mise a jour W9 (thread 9, BIBLE BUILD B4) : lot NouveauMonde, fournee 1 - Re-Estize,
+Baharuth (W1) ; Personnages Renner, Fluder (W1) ; Azoth W6 (Guerison rang 10, trois
+branches) ; Magie W4 (les trois branches, qui soigne quoi) ; Resume W5.
 
 ## WIKI
 
@@ -32,20 +35,27 @@ W3, Theologie_Azoth W2, Etres_Supremes W4, Resume W4.
 
 ### Racine
 Description : pages transversales de l'univers.
-- Resume.md (W4) - resume de l'histoire etablie : Yggdrasil et la guilde (2126-2138 ;
+- Resume.md (W5) - resume de l'histoire etablie : Yggdrasil et la guilde (2126-2138 ;
   neuf d'origine, 9e guilde, onze objets de rang monde), le Nouveau Monde avant le jour 0
   (magie importee ~600 ans, vagues ~500 et ~200 ans, systemes natifs), le transfert
   (jour 0, naissance des consciences dans des corps neufs, hierarchie en place, personnel
-  a l'Eglise Impie sauf Momonga et Albedo [DIVERGENCE RP]).
+  a l'Eglise Impie sauf Momonga et Albedo [DIVERGENCE RP]). W5 (thread 9) : les trois
+  nations voisines, les Divinites Malefiques, les trois branches de la magie.
 
 ### Systemes/
 Description : systemes du monde (magie, jeu d'origine, systemes natifs, puissance).
-- Magie.md (W3) - magie de rangs : origine (importee par les Joueurs, ~600 ans), cadre des
+- Magie.md (W4) - magie de rangs : origine (importee par les Joueurs, ~600 ans), cadre des
   ecoles [DIVERGENCE RP] (cinq ecoles de Skyrim definies, rangs 1-10, Energie Negative,
   equivalence necromancie/Guerison), MP non quantifies, plafonds du Nouveau Monde (Fluder
   rang 6), grande magie (rang 11 = combo d'ecoles ; acces niveau 70, usages canon ;
   Affaissement Celeste ; Sacrifices de la moisson noire / Ia Shub-Niggurath et ses
-  Chevreaux), sorts signatures VF ventiles (Ainz), contre-mesures.
+  Chevreaux), sorts signatures VF ventiles (Ainz), contre-mesures. W4 (thread 9) : LES
+  TROIS BRANCHES [DIVERGENCE RP] (arcane = Destruction / Alteration / Conjuration ; divine =
+  Guerison ; spirituelle = Illusion ; alternative supprimee ; la branche se lit a l'ecole ;
+  dispersion non penalisante ; la foi accorde sans maintenir ; le divin de Nazarick
+  s'adresse aux 41), qui soigne quoi (Energie Negative = demons et morts-vivants, sacre =
+  tout le vivant, artificiels = Alteration ; ligne de partage de Nazarick ; exception Azoth).
+  Depassement de page tolere (decision worldbuilder).
 - Yggdrasil.md (W2) - le jeu d'origine (DMMO-RPG, 2126-2138) : niveaux (cap 100, ecart de 30),
   races et karma (-500/+500), objets (grades, cristaux de donnees, objets de rang monde -
   onze a Nazarick, les Vingt et Ouroboros), guildes et PNJ (budget partage de 2 750
@@ -127,7 +137,7 @@ Description : fiches personnages du monde.
   classes de commandement, Worldslicer (objet de rang monde), hors registre sensuel.
   W2 (thread 8) : ne se voit pas comme les autres humains, la viande humaine ne la
   derange pas.
-- Azoth.md (W5) - fiche noyau du Cardinal Demoniaque (OC, protagoniste ; Archdemon
+- Azoth.md (W6) - fiche noyau du Cardinal Demoniaque (OC, protagoniste ; Archdemon
   niveau 100, karma -500, 666 ans fige, jumeau de Demiurge, cree par Ulbert, Gardien du 9e
   [DIVERGENCES RP]) : setting, psychologie et doctrine, apparences detaillees des deux
   formes (#E8C6AB / #AE9C93), Passion d'Incube (etat d'embrasement), capacites et six
@@ -138,7 +148,10 @@ Description : fiches personnages du monde.
   sur la chaine du 9e ; renvoi vers la page relations (thread 7). Amendements W4
   (thread 7) : angoisse de l'abandon partagee avec Demiurge (Psychologie) ; Albedo
   Regente ; renvois de relations limites a la page Proches (autres cercles en passe 2).
-  Amendements W5 (thread 8) : cuisine ; polyvalence du sommet.
+  Amendements W5 (thread 8) : cuisine ; polyvalence du sommet. Amendements W6 (thread 9) :
+  Guerison au rang 10 par sa classe de Cardinal (sommet de la classe de Clerc), sacre et
+  Energie Negative, soins parfaits ; recoit les deux vecteurs, immunise aux degats des
+  deux ; les trois branches couvertes.
 - Azoth_relations_Proches.md (W1) - page relations d'Azoth, cercle Proches (Momonga,
   Demiurge, Albedo) : statut, adresses reciproques, rituels, dynamique, ce que l'autre
   sait, EVOLUTION posee des la genese (decision worldbuilder). Fiche mere = mecanique,
@@ -163,6 +176,12 @@ Description : fiches personnages du monde.
   poupee en kimono sur l'insecte, anthropophagie comme appetit (noyau), insecte-levres
   et insecte-masque, talismans rangs 1-7 (Destruction / Conjuration / Alteration /
   Illusion), insectes-armes, Souffle de mouches, sous Azoth [DIVERGENCE RP].
+- Fluder.md (W1) - fiche noyau du Mage de la Cour imperiale de Baharuth (humain, plus de
+  deux cents ans par rituel, rang 6 = sommet humain vivant, sans niveau chiffre) : recteur
+  de l'Academie imperiale, chef du Ministere de la Magie ; triple lanceur (les trois
+  branches), autodidacte a son plafond, longevite manquee de peu ; fanatique de la magie
+  sous le sage ; Talent de jauge de magie (rang max et reserve d'un regard) ; les Trente
+  Elus ; le Chevalier de la Mort d'Arwintar. Trajectoire datee vide.
 - Lupusregina.md (W2) - fiche noyau de la deuxieme Pleiade (garou niveau 59, karma -200,
   162 cm, ~300 ans / 22 ans apparents, creation de Beast King Mekongawa) : la Sadique au
   masque souriant, paresse, ronronnement, nature animale inassumee (noyau), forme de
@@ -183,6 +202,13 @@ Description : fiches personnages du monde.
   doppelganger niveau 100, karma -50, 177 cm, seule creation de Momonga) : l'Homme sans
   visage aux mille formes, theatral et pratique, 45 formes dont les 41 Supremes a 80 %,
   enferme dans la Tresorerie au jour 0 ; Azoth ne le connait pas [DIVERGENCE RP].
+- Renner.md (W1) - fiche noyau de la troisieme princesse de Re-Estize, la Princesse d'Or
+  (humaine, 18 ans [DIVERGENCE RP - canon muet], sans niveau chiffre) : intellect
+  surdeveloppe des la naissance, froideur clinique, exception unique Climb (18 ans,
+  obsession possessive), actrice a plusieurs facades, reseau de renseignement invisible,
+  reformes (abolition de l'esclavage) ; la reserve de la reserve ; Zanac seul a la percer
+  au jour 0 ; un cran sous les trois cerveaux, bridee par l'obsession [DIVERGENCE RP] ;
+  REGLE FERME : aucun registre sexuel ni romantique avec Azoth. Trajectoire datee vide.
 - Sebas.md (W1) - fiche noyau du majordome en chef (dragonoide de glace niveau 100,
   karma +300, 179 cm, ~700 ans, 40 ans d'apparence grisonnant comme a 70
   [DIVERGENCE RP], creation de Touch Me sans setting) : souvenirs minimaux (servitude
@@ -209,8 +235,27 @@ Description : fiches personnages du monde.
 
 ### NouveauMonde/
 Description : factions, geographie et royaumes du Nouveau Monde.
-Aucune page pour l'instant (lot a venir : Re-Estize, Baharuth, Theocratie Slane, E-Rantel,
-lizardmen, et en survol Argland, Roble).
+Etat decrit : jour 0. Gabarit commun (Identite / Etat au jour 0 / Pouvoir et figures /
+Forces armees et aventuriers / Religion / Geographie utile / Relations exterieures /
+Rapport a Nazarick / Trajectoire datee / Renvois).
+- Re-Estize.md (W1) - le Royaume : monarchie feodale en faillite lente (neuf millions,
+  ouest des Azerlisia, nord-ouest de Nazarick, fonde apres les Divinites Malefiques),
+  factions royale et nobiliaire, succession ouverte, famille royale (Ramposa III, Barbro,
+  Zanac, Renner), les Six Grands Nobles, Gazef (Chef des Guerriers, ~29, cinq tresors dont
+  quatre connus + Anneau de Rigrit), Brain, Climb (18 ans), armee de conscrits, deux
+  equipes adamantite au jour 0 (la Rose Bleue, la Goutte Ecarlate), les Huit Doigts et
+  les Six Bras, Quatre Grands Dieux, geographie (Ro-Lente, E-Rantel, Carne, Katze,
+  Re-Blumrushur), relations, Nazarick en territoire royal. Depassement de page tolere
+  (decision worldbuilder).
+- Baharuth.md (W1) - l'Empire : monarchie absolue nee de la purge (huit millions [Web
+  Novel], est des Azerlisia, nord-est de Nazarick, meme nation que le Royaume autrefois),
+  Jircniv l'Empereur Sanguinaire (22 ans, trone a 12), Fluder (renvoi), les Quatre
+  Chevaliers Imperiaux (Baziwood, Leinas maudite, Nimble, Nazami) une ligne chacun, Loune,
+  armee de metier (40 000 / 60 000), Grande Arene, magie (trois branches, Academie, Trente
+  Elus, Chevalier de la Mort d'Arwintar, main-d'oeuvre morte-vivante), religion, relations
+  (Royaume nain, Royaume-Dragon, Theocratie). Depassement de page tolere.
+- Reste du lot (thread 10) : Theocratie_Slane, E-Rantel, Hommes_Lezards ; Argland, Roble
+  en survol.
 
 > ROADMAPS NON INDEXEES EN JEU. Dossier Roadmap/Azoth/ vide (passe 2 a venir). Les roadmaps
 > restent hors de cet index - sources de build seulement, jamais fetchees en narration.

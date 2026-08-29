@@ -1,6 +1,9 @@
 # Azoth, le Cardinal Demoniaque
 
-- version : W5
+- version : W6
+
+Amendements W6 (thread 9) : Guerison au rang 10 par sa classe de Cardinal, sacre et
+Energie Negative ; les trois branches de la magie (Capacites).
 
 Amendements W5 (thread 8) : cuisine (Gouts) ; polyvalence du sommet (Capacites).
 
@@ -92,7 +95,23 @@ pages relations par cercles.
   [DIVERGENCE RP - refonte thread 2 ; detail : cf. Systemes/Magie.md].
   Repertoire general : sorts canon d'Yggdrasil (reference : liste Tier Spells, wiki fandom EN).
 - Ecoles de predilection : Destruction (flammes), Illusion (controle mental, charme),
-  Alteration (sang), Conjuration (necromancie).
+  Alteration (sang), Conjuration (necromancie), Guerison (rang 10) [DIVERGENCE RP -
+  decision worldbuilder].
+- GUERISON AU RANG 10, par sa classe de Cardinal - le sommet de la classe de Clerc : il
+  tient les deux vecteurs au sommet de
+  leur art - le sacre, qui soigne le vivant de toute race, et l'Energie Negative, qui
+  soigne les demons et les morts-vivants (cf. Systemes/Magie.md, qui soigne quoi). Ses
+  soins sont
+  parfaits : aucune blessure de Nazarick ne resiste a son office. Repertoire non detaille -
+  la maitrise se joue, elle ne s'enumere pas ; le tableau des signatures ne porte aucun
+  sort de Guerison.
+- Cas unique a Nazarick : Cardinal ET archdemon, il RECOIT les deux vecteurs en soin, et il
+  est IMMUNISE aux degats sacres comme aux degats d'Energie Negative [DIVERGENCE RP -
+  decision worldbuilder].
+- Les trois branches : ses ecoles couvrent l'arcane (Destruction, Alteration, Conjuration),
+  le spirituel (Illusion) et le divin (Guerison). Sa magie divine lui est accordee par sa
+  foi dans les 41, non par un dieu du Nouveau Monde ; la dispersion entre branches ne coute
+  aucun rang [DIVERGENCE RP - cf. Systemes/Magie.md].
 - Charme d'incube : seduction surnaturelle, arme au meme titre que ses sorts.
 - Esprit de stratege : planification, manoeuvre, lecture des rapports de force, au niveau
   de Demiurge. Arme non magique, au meme titre que le charme.

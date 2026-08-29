@@ -25,6 +25,15 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
    - ENERGIE NEGATIVE (concept acte) : l'equivalent du sacre pour les morts. La Guerison
      sur morts-vivants est de l'ecole de Guerison vehiculee par l'Energie Negative ; les
      degats type necromancie (non specifies d'un autre element) en relevent.
+   AMENDEMENTS (thread 9, Magie W4) - LES TROIS BRANCHES : arcane (Destruction,
+   Alteration, Conjuration), divine (Guerison), spirituelle (Illusion) ; la branche
+   canon "alternative" est SUPPRIMEE ; la branche se lit a l'ecole, pas a la classe ;
+   dispersion non penalisante (Fluder plafonne par autodidaxie) ; la foi ACCORDE mais ne
+   MAINTIENT pas ; le divin de Nazarick s'adresse aux 41. QUI SOIGNE QUOI : Energie
+   Negative = demons ET morts-vivants (pas seulement les morts-vivants, correction
+   worldbuilder) ; sacre = tout le vivant, toutes races ; etres artificiels (CZ2128,
+   Gargantua) = Alteration, hors Guerison ; Victim (ange) = sacre. EXCEPTION AZOTH :
+   recoit les deux vecteurs en soin, immunise aux degats des deux.
 6. Shalltear Bloodfallen : vampire millenaire dans un corps fige a 19 ans. Design acte
    (precise thread 2) : silhouette menue, formes discretes, apparence adulte sans ambiguite ;
    design canon abandonne. Libido canon intacte. Aura et Mare : inchanges, hors de tout
@@ -759,6 +768,77 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   "Selon Satoru" reste au Pantheon (savoir d'Ainz seul).
 - VF ACTEES thread 8 : aucune nouvelle. Termes conserves : shogi, Unix, LCD.
 
+## Decisions actees thread 9 (lot NouveauMonde, fournee 1 + patch Magie)
+- LIVRE : NouveauMonde/Re-Estize.md W1, NouveauMonde/Baharuth.md W1 ; Personnages/Renner.md
+  W1, Personnages/Fluder.md W1 ; Personnages/Azoth.md W6 ; Systemes/Magie.md W4 ; Resume W5 ;
+  Sommaire W9 ; BIBLE B4. Uploads groupes en fin de thread.
+- GABARIT NOUVEAUMONDE (valide sur Re-Estize, prototype) : Identite / Etat au jour 0 /
+  Pouvoir et figures / Forces armees et aventuriers / Religion / Geographie utile / Relations
+  exterieures / Rapport a Nazarick / Trajectoire datee (vide) / Renvois. Metadonnee unique
+  "- version : W<N>" + ligne "Etat decrit : jour 0." Pour les hommes-lezards, "Pouvoir et
+  figures" devient "Tribus et chefs".
+- DEPASSEMENTS DE PAGE TOLERES (decision worldbuilder) : Re-Estize (8 313), Magie (10 388).
+  La scission Systemes/Sorts.md (sorts signatures) reste le candidat si Magie regrossit.
+- RE-ESTIZE (decisions worldbuilder) : cour en profondeur (roi + trois enfants + Raeven +
+  Gazef + Climb + Brain, Six Grands Nobles une ligne chacun) ; Huit Doigts / Rose Bleue /
+  Goutte Ecarlate sur la page ; Nazarick grave en territoire nominal du Royaume, pres de
+  Carne (la "plaine inconnue" de la BIBLE reste le point de vue de Nazarick) ; tresors
+  royaux = les quatre connus + l'Anneau de Rigrit ; Quatre Grands Dieux et Divinites
+  Malefiques sur la page (section Religion), chronologie reportee en BIBLE SB3.
+- CORRECTIONS MJ sur le canon pose (verifie web) : Blumrush et Pespea sont faction ROYALE
+  (Blumrush vend a l'Empire quand meme, Pespea gendre du roi) ; DEUX equipes adamantite au
+  jour 0 (Darkness = troisieme, posterieure) ; Rigrit Bers Caurau a fonde la Rose Bleue mais
+  n'en fait plus partie. Evileye : aucun niveau officiel connu -> non chiffree.
+- RENNER (decisions worldbuilder) : fiche Personnages/ (elle finira demone) ; 18 ans, Climb
+  18 ans (canon muet, decision pour eviter tout probleme sur l'obsession) ; vraie nature
+  decouvrable, sans garde-fou ; au jour 0 seul Zanac la perce (canon), Raeven et Demiurge
+  plus tard = trajectoire ; un cran SOUS les trois cerveaux (intellect similaire, bride par
+  l'obsession : tout au service de la possession de Climb) ; REGLE FERME : ni sexe ni
+  romance avec Azoth. Date de naissance canon (7e jour du mois "Upper Fire") non gravee :
+  ouvrirait un chantier de calendrier VF pour un detail non caracterisant.
+- BAHARUTH (decisions worldbuilder) : population 8 M (Web Novel) retenue ; Jircniv 12 ans a
+  l'accession, 22 ans au jour 0 ; Quatre Chevaliers une ligne chacun ; Fluder en fiche
+  Personnages/ (maillon faible de l'Empire, il passera chez Azoth = trajectoire) ; surnoms
+  secondaires ("Heavy Explosion", "Gale") abandonnes ; Nazami Enec reste une ligne (il ne
+  sert qu'a mourir sous Mare en mise en garde = trajectoire).
+- MATIERE DE TRAJECTOIRE (roadmaps, JAMAIS en page indexee) : Leinas objectifiee par Azoth
+  sous les yeux de Jircniv pour creer le malaise, quand l'empereur viendra a Nazarick ;
+  Fluder passe chez Azoth ; Renner invitee puis demone de Nazarick ; l'IMMUNITE SACREE
+  D'AZOTH est la carte pour intimider Slane sans verser une goutte de sang - conditions :
+  la page Theocratie doit etablir le sacre comme leur outil de reference contre
+  heteromorphes et morts-vivants, et l'immunite doit etre DEMONTREE DEVANT TEMOIN.
+- AZOTH W6 (decisions worldbuilder) : Guerison au rang 10 par sa classe de Cardinal (sommet
+  de la classe de Clerc), sacre ET Energie Negative au sommet, soins parfaits, repertoire
+  non detaille (aucun sort de Guerison au tableau des signatures) ; recoit les deux
+  vecteurs, immunise aux degats des deux ; couvre les trois branches. Erreur MJ corrigee en
+  chat : "Azoth n'a aucune magie divine" (faux : un Cardinal sans divin est absurde) et
+  "son propre sacre le brulerait" (faux : immunise).
+- TENSION SIGNALEE, NON TRANCHEE : BIBLE SB1 dit que le karma affecte les sorts ; Azoth
+  (-500) manie le sacre au rang 10. Trois lectures possibles (le karma ne conditionne pas la
+  Guerison ; il la conditionne et Azoth est l'exception par sa classe de Cardinal ; autre).
+  A trancher au thread 10 ou en relecture croisee. Non bloquant : la fiche grave le fait.
+- PROPAGATION FAITE : Magie W4 porte tout le cadre des branches ; les fiches ne changent pas
+  (la branche se lit a l'ecole : Lupusregina clerc et Entoma talismanciere restent telles
+  quelles). CZ2128.md ne porte pas "reparee par Alteration" - la regle vit en Magie, pas
+  besoin de retoucher la fiche.
+- VF ACTEES thread 9 :
+  Re-Estize - Chef des Guerriers (Ofelbe a confirmer sur copie) ; Troupe des Guerriers ;
+  les Six Grands Nobles ; la Princesse d'Or ; les Huit Doigts ; les Six Bras ; la Rose
+  Bleue (equipe) / les dames de la Rose Bleue (membres) ; la Goutte Ecarlate ; Tournoi
+  royal ; Ramposa III (orthographe wiki FR) ; Quatre Grands Dieux ; Divinites Malefiques ;
+  Amulette d'Immortalite ; Gantelets d'Endurance ; Armure du Gardien ; Anneau de Rigrit ;
+  faction royale / faction nobiliaire. Noms propres conserves : Razor Edge, Ro-Lente,
+  Azerlisia, Tob, Katze, Carne, Edstrom (ASCII).
+  Baharuth - Empereur Sanguinaire (wiki FR) ; les Quatre Chevaliers Imperiaux ; Mage de la
+  Cour imperiale ; les Trente Elus ; Ministere de la Magie ; Academie imperiale de magie ;
+  la Grande Arene ; les Huit Ordres de Chevalerie ; Garde du Palais / Garde aerienne /
+  Garde terrestre ; Poussiere Noire. Reemployes : Seigneur martial (thread 4), Chevalier
+  de la Mort (thread 3).
+  Magie - les trois branches : arcane / divine / spirituelle ; triple lanceur ; Cardinal
+  (classe, sommet de la classe de Clerc).
+- FETCH ECHOUE (non bloquant) : wiki FR Royaume_de_Re-Estize (402) ; canon verifie sur le
+  wiki EN et les extraits FR.
+
 ## Correction de direction (chat, a ne pas propager)
 - Les etages de Nazarick DESCENDENT : le 8e (Victim) est le voisin du DESSUS d'Azoth (9e),
   pas du dessous. Erreur MJ en discussion, aucune page touchee.
@@ -779,13 +859,16 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   (Aura W3, CZ2128 W2, Solution W2, Lupusregina W2, Aureole W2, Azoth W5,
   Regles_Internes W3, Theologie W2, Etres_Supremes W4, Resume W4) ; Sommaire W8 ;
   BIBLE BUILD B3. Tertiaires reportees en passe 2.
-- PROCHAIN (THREAD 9) : NouveauMonde/ - Re-Estize, Baharuth, Theocratie Slane, E-Rantel,
-  lizardmen ; survol Argland, Roble. VF reservees : Six Grands Dieux, Huit Rois Cupides,
-  Treize Heros. Chiffres natifs sourcees seulement (Echelle_Puissance W2, regle de page).
-  Chantier Arts Martiaux (VF) : thread dedie, hors lot. Fetch au demarrage : Sommaire W8,
-  ce journal (sections thread 8 et Etat du chantier), Systemes/Systemes_Natifs,
-  Echelle_Puissance, Resume. BIBLE B3 en projet.
-- THREAD 10 : roadmaps (passe 2, boucle serree par arc ; Seances/ et Pantheon en sources),
+- FAIT (thread 9) : NouveauMonde/ fournee 1 - Re-Estize W1, Baharuth W1 (gabarit valide) ;
+  Personnages/ Renner W1, Fluder W1 ; PATCH MAGIE (les trois branches, qui soigne quoi) :
+  Magie W4, Azoth W6 ; Resume W5 ; Sommaire W9 ; BIBLE BUILD B4.
+- PROCHAIN (THREAD 10) : NouveauMonde/ fournee 2 - Theocratie Slane (Six Grands Dieux,
+  Ecritures, Zesshi, le sacre comme outil de reference contre les heteromorphes),
+  E-Rantel (ville, guilde locale, Carne, Hamsuke), Hommes_Lezards (tribus du lac) ;
+  survol Argland, Roble. VF reservees : Six Grands Dieux, Huit Rois Cupides, Treize Heros.
+  Chiffres natifs sources seulement. Chantier Arts Martiaux (VF) : thread dedie, hors lot.
+  Tension karma / sacre d'Azoth a trancher. Cloture : Sommaire W10, BIBLE B5.
+- THREAD 11 : roadmaps (passe 2, boucle serree par arc ; Seances/ et Pantheon en sources),
   Tertiaires au fil des roadmaps ; puis fiches d'arc (passe 3), CODEX V1, setup.
 
 ## Rappels de process
@@ -813,7 +896,7 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   registre (aucune libido ni curiosite sexuelle).
 - Heresie d'Azoth : PREMISSE de perso, EVENEMENT de trajectoire. Rien dans la fiche noyau.
 - Fiche Azoth : branche neutre Personnages/, plafond prota 20k caracteres.
-- Prochains jalons : NouveauMonde (thread 9) -> roadmaps (thread 10). Sommaire W8 :
-  livre au thread 8.
+- Prochains jalons : NouveauMonde fournee 2 (thread 10) -> roadmaps (thread 11).
+  Sommaire W9 : livre au thread 9.
 
 FIN_WIKI__IMPLICATIONS

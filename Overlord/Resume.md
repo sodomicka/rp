@@ -1,6 +1,9 @@
 # Resume - Overlord (histoire etablie)
 
-- version : W4
+- version : W5
+
+Amendements W5 (thread 9) : les trois nations voisines, les Divinites Malefiques, les trois
+branches de la magie.
 
 Amendements W4 (thread 8) : position du personnel au transfert.
 
@@ -34,6 +37,17 @@ la Magie Sauvage des Seigneurs Dragons, brule les ames comme carburant. Il y a e
 Magie Sauvage et fixe les plafonds actuels : le rang 6 est le sommet humain vivant, le
 rang 7 une anomalie geopolitique. D'autres vagues de Joueurs ont suivi, il y a environ
 500 puis 200 ans ; leurs identites relevent du lot NouveauMonde.
+
+La magie de rangs se pratique par trois branches - arcane, le savoir pur ; divine, accordee
+par la foi ; spirituelle, le domaine de l'esprit [DIVERGENCE RP - cf. Systemes/Magie.md].
+Il y a plus de deux siecles, la defaite des Divinites Malefiques a donne naissance aux
+nations humaines de la region. Trois d'entre elles entourent la plaine ou le Tombeau va
+surgir : le Royaume de Re-Estize, monarchie feodale en faillite lente, a l'ouest des monts
+Azerlisia ; l'Empire de Baharuth, monarchie absolue ne d'une purge, a l'est ; et la Theocratie
+Slane. Le Royaume et l'Empire, jadis une seule nation, se font une guerre annuelle
+d'usure aux plaines de Katze ; le sommet humain vivant est le mage imperial Fluder
+Paradyne, rang 6, et le plus fort guerrier du Royaume, Gazef Stronoff, plafonne au niveau
+d'un heros ordinaire.
 
 Le monde natif possede ses propres systemes, inconnus d'Yggdrasil : les Arts Martiaux des
 guerriers, les Talents innes (environ une personne sur deux cents), et les survivances de
