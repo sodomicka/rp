@@ -1,6 +1,6 @@
 # Sommaire - Overlord
 
-- version : W9
+- version : W10
 
 Reconcilie au BIBLE BUILD B1 (SB9 y pointe ; les versions ci-dessous font inventaire).
 Mise a jour ponctuelle W3 (thread 3) : lot Personnages, fournee 1 - Ainz, Albedo,
@@ -24,6 +24,10 @@ W3, Theologie_Azoth W2, Etres_Supremes W4, Resume W4.
 Mise a jour W9 (thread 9, BIBLE BUILD B4) : lot NouveauMonde, fournee 1 - Re-Estize,
 Baharuth (W1) ; Personnages Renner, Fluder (W1) ; Azoth W6 (Guerison rang 10, trois
 branches) ; Magie W4 (les trois branches, qui soigne quoi) ; Resume W5.
+Mise a jour ponctuelle W10 (thread 10) : lot NouveauMonde, fournee 2 - Theocratie_Slane,
+E-Rantel, Hommes_Lezards, Argland, Roble (W1) ; Personnages Zesshi, Hamsuke, Carne,
+Shasuryu_Zenber (W1). LOT NOUVEAUMONDE COMPLET, PASSE 1 COMPLETE. Patchs Magie W5,
+Regles_Internes W4, Echelle_Puissance W3 et BIBLE B5 : thread 11 (Sommaire W11).
 
 ## WIKI
 
@@ -156,6 +160,12 @@ Description : fiches personnages du monde.
   Demiurge, Albedo) : statut, adresses reciproques, rituels, dynamique, ce que l'autre
   sait, EVOLUTION posee des la genese (decision worldbuilder). Fiche mere = mecanique,
   page = texture. Autres cercles (Lieutenants, Pleiades, Gardiens, Tertiaires) : passe 2.
+- Carne.md (W1) - fiche commune des gens de Carne, jour 0 (village intact, parents Emmot
+  vivants) : Enri Emmot (18 ans [DIVERGENCE RP], niveau 1, blonde tressee, le devoir),
+  Nemu Emmot (13 ans, REGLE FERME enfant, chouchoutee par sa soeur, la naivete), Nfirea
+  Baleare (18 ans [DIVERGENCE RP], pharmacien d'E-Rantel eleve par Lizzie, lanceur de rang
+  2 ventile, TALENT : tout objet magique sans restriction, amoureux d'Enri, la curiosite).
+  Trajectoire datee vide.
 - Cocytus.md (W2) - fiche noyau du Gardien du 5e (insectoide niveau 100, karma +50,
   2,5 m, ~1200 ans, creation de Warrior Takemikazuchi) : Souverain des Glaciers,
   guerrier d'honneur, un bras pas un cerveau, maitre d'armes (21 armes, quatre a la
@@ -182,6 +192,12 @@ Description : fiches personnages du monde.
   branches), autodidacte a son plafond, longevite manquee de peu ; fanatique de la magie
   sous le sage ; Talent de jauge de magie (rang max et reserve d'un regard) ; les Trente
   Elus ; le Chevalier de la Mort d'Arwintar. Trajectoire datee vide.
+- Hamsuke.md (W1) - fiche noyau du Roi Sage de la Foret, la Bete du Sud (hamster geant a
+  queue de serpent, MALE [DIVERGENCE RP - canon femelle], plusieurs siecles, niveau 30 en
+  estimation, sans nom au jour 0) : vantard, solitaire en quete d'un congenere (la
+  solitude), s'adapte a tout sans se poser de question, parle normalement (tic "mon bon
+  maitre"), fourrure d'acier au combat, queue-fouet de vingt metres, sigils a sorts.
+  Trajectoire datee vide.
 - Lupusregina.md (W2) - fiche noyau de la deuxieme Pleiade (garou niveau 59, karma -200,
   162 cm, ~300 ans / 22 ans apparents, creation de Beast King Mekongawa) : la Sadique au
   masque souriant, paresse, ronronnement, nature animale inassumee (noyau), forme de
@@ -221,6 +237,11 @@ Description : fiches personnages du monde.
   canon conservees, rendu enfantin abandonne), complexe et rembourrages, Valkyrie de
   Sang, Lance Compte-Goutte, Frenesie Sanglante, Einherjarl, Guerison morts-vivants par
   Energie Negative, Epouses vampires (suite et harem), Grand Atrium des Cadavres de Cire.
+- Shasuryu_Zenber.md (W1) - fiche commune des deux chefs du Grand Lac : Shasuryu Shasha
+  (Griffe Verte, enorme, cicatrice en eclair, joueur et pratique, guerrier-druide,
+  Surmagie, epee d'acier de deux metres, la honte - son frere paria) ; Zenber Gugu (Croc
+  de Dragon, 2,30 m, bras de crabe violoniste, ancien voyageur passe chez les nains, moine
+  au ki, hallebarde d'acier de trois metres, la sauvagerie). Trajectoire datee vide.
 - Solution.md (W2) - fiche noyau de la cinquieme Pleiade (slime predateur niveau 57,
   karma -400, 168 cm, ~300 ans / 22 ans apparents, creation de Herohero) : la Cage de
   dissolution, humains = nourriture et jouets, le seul plaisir connu est la proie qui se
@@ -232,6 +253,15 @@ Description : fiches personnages du monde.
   stricte, bourreau de travail, "boku" en prive, rigidite (noyau), cogneuse (Paume
   explosive de ki, Detection de presence, Soin par le ki), seconde des Six Etoiles sous
   Azoth [DIVERGENCE RP].
+
+- Zesshi.md (W1) - fiche noyau du Siege hors rang de la Sainte Ecriture Noire (Antilene
+  Heran Fouche, demi-elfe descendante des dieux, 100+ ans, corps fige a 19 ans, RENDU
+  ADULTE [DIVERGENCE RP], niveau 88 par somme de la fiche officielle vol. 16) : fille du
+  Roi des Elfes et de Faine, elevee sans amour, l'ennui et la faim d'un vainqueur qui la
+  fecondera, heterochromie or / noir et argent / noir, guerriere ET pretresse, Talent
+  (capacite maitresse de l'ancien porteur d'un objet touche), la Guidance de Charon et
+  l'Armure blanche de Neko, gardienne du Tresor des Six ; registre avec Azoth OUVERT.
+  Trajectoire datee vide.
 
 ### NouveauMonde/
 Description : factions, geographie et royaumes du Nouveau Monde.
@@ -254,8 +284,37 @@ Rapport a Nazarick / Trajectoire datee / Renvois).
   armee de metier (40 000 / 60 000), Grande Arene, magie (trois branches, Academie, Trente
   Elus, Chevalier de la Mort d'Arwintar, main-d'oeuvre morte-vivante), religion, relations
   (Royaume nain, Royaume-Dragon, Theocratie). Depassement de page tolere.
-- Reste du lot (thread 10) : Theocratie_Slane, E-Rantel, Hommes_Lezards ; Argland, Roble
-  en survol.
+- Theocratie_Slane.md (W1) - la Theocratie : la plus ancienne nation humaine (six cents
+  ans, fondee par les Six Grands Dieux, Pontifex Maximus elu par les Six Cardinaux, Conseil
+  executif supreme), suprematisme humain comme tactique des dirigeants, guerre des elfes
+  (Decem Hougan, l'as violee, l'enfant Zesshi), operation Gazef en cours, prophetie du
+  Seigneur Dragon de la Catastrophe, Raymond Zarg Lauransan seul cardinal nomme, les Six
+  Saintes Ecritures une ligne chacune (Soleil : Nigun ; Noire : capitaine, Kaire), le
+  Tresor des Six (la Chute du Chateau et du Pays), MAGIE DIVINE (le sacre = outil de
+  reference contre heteromorphes et morts-vivants, anges, Frappe sacree rang 7, doctrine
+  "ce que la lumiere des Six brule n'est pas humain", Princesses-miko), les Six Grands
+  Dieux (Surshana, SAVOIR META : des Joueurs, un mort-vivant), relations, calibrage.
+  Depassement de page tolere (10 561).
+- E-Rantel.md (W1) - la ville-forteresse : triple muraille, maire Panasolei (canon riche),
+  guildes (Ainzach, Rakheshir), Zuranon sous le cimetiere (fait jour 0, issue absente),
+  trois equipes mithril, les Epees des Tenebres, Pavillon d'Or Etincelant, villa royale ;
+  Alentours : Carne (120 habitants, distances, renvoi Carne.md), la foret de Tob et les
+  Trois Monstres (le Roi Sage renvoi Hamsuke.md ; Guu ; Ryraryus), Katze. Gabarit adapte
+  a une ville (Administration et figures / Alentours).
+- Hommes_Lezards.md (W1) - les cinq tribus du Grand Lac au jour 0 : culture des voyageurs,
+  guerre des ressources (sept tribus -> cinq), Griffe Verte (Shasuryu, Zaryus, elevage de
+  poissons, Frost Pain), Oeil Rouge (Crusch Lulu), Croc de Dragon (Zenber, la Grande Jarre
+  a vin), Queue-Rasoir (Kyuku Zuzu, l'Armure d'os de dragon blanc), Petit Croc (Sukyu
+  Juju), les Quatre Tresors (trois connus), composition (1 380), voisins du lac. Source de
+  seance (Cocytus).
+- Argland.md (W1) - SURVOL de l'Etat conciliaire : nation demi-humaine fondee par le
+  Seigneur Dragon de Platine, parlement des races, les Cinq Conseillers Dragons (Platine
+  en SAVOIR META : Treize Heros, chateau des Huit Rois Cupides, Joueurs = menace ; Ciel
+  Bleu), Magie Sauvage, relations (Theocratie, Royaume, Empire).
+- Roble.md (W1) - SURVOL du Saint Royaume : peninsule coupee par une baie (Nord royaliste,
+  Sud nobiliaire), Calca Bessarez Sainte Reine et les soeurs Custodio, Quatre Grands
+  Dieux, Grande Muraille face aux collines d'Abelion, conscription, paladins, Neuf
+  Couleurs, relations.
 
 > ROADMAPS NON INDEXEES EN JEU. Dossier Roadmap/Azoth/ vide (passe 2 a venir). Les roadmaps
 > restent hors de cet index - sources de build seulement, jamais fetchees en narration.

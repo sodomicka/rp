@@ -163,6 +163,13 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   que Demiurge" : a graver en Albedo W3 a la prochaine retouche de la fiche.
 - (thread 8, non bloquant) Seances/Pantheon.md fait 9 341 caracteres (deja 9 209 en W1,
   avant la regle des 8 000 posee au thread 8) : scission a decider au prochain passage.
+- (thread 10) DEUX EPOUSES pour Azoth (Albedo, Zesshi) : possible, NON TRANCHE ("je ne
+  sais pas encore ou on va", worldbuilder) ; la polygamie est la loi de la Theocratie.
+- (thread 10) Fecondite d'Ainz (mort-vivant) : ouverte ; celle des creations des 41 est
+  actee (cf. thread 10).
+- (thread 10) Clementine : desertion sans date canon ; a trancher a la roadmap E-Rantel.
+- (thread 10) Trois Monstres de Tob ~30 : estimation, pas une fiche - a garder telle
+  quelle en Echelle_Puissance W3.
 
 ## Decisions actees en cloture de thread 1
 - Aureole Omega : egale de Sebas, tous deux directement sous Azoth. Recluse au Sanctuaire
@@ -839,6 +846,145 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
 - FETCH ECHOUE (non bloquant) : wiki FR Royaume_de_Re-Estize (402) ; canon verifie sur le
   wiki EN et les extraits FR.
 
+## Decisions actees thread 10 (lot NouveauMonde, fournee 2 - lot complet, passe 1 complete)
+- LIVRE : NouveauMonde/Theocratie_Slane.md W1 (10 561 car., depassement tolere),
+  E-Rantel.md W1, Hommes_Lezards.md W1, Argland.md W1 (survol), Roble.md W1 (survol) ;
+  Personnages/Zesshi.md W1, Hamsuke.md W1, Carne.md W1 (fiche commune Enri, Nemu,
+  Nfirea), Shasuryu_Zenber.md W1 (fiche commune). Sommaire W10. Uploads groupes en fin de
+  thread. CLOTURE REPORTEE AU THREAD 11 (contexte plein, decision worldbuilder) : patchs,
+  BIBLE B5, ZIP.
+- KARMA / SACRE TRANCHE (lecture a, decision worldbuilder) : la Guerison se lit a la FOI,
+  pas au karma ; le karma verrouille certains sorts et objets a prerequis d'alignement
+  (au cas par cas) et colore les interactions ; il ne conditionne AUCUNE branche. Azoth
+  (-500) manie le sacre au rang 10 par sa classe de Cardinal et sa foi dans les 41. Bloc
+  SB1 pour B5 (remplace la ligne Karma) :
+  "Karma : -500 (mal extreme) a +500 (bien extreme). Verrouille certains sorts et objets a
+  prerequis d'alignement (au cas par cas) et colore les interactions ; ne conditionne
+  AUCUNE branche : la Guerison se lit a la foi, pas au karma [DIVERGENCE RP]. Azoth (-500)
+  manie le sacre au rang 10 par sa classe de Cardinal et sa foi dans les 41."
+- THEOCRATIE (decisions worldbuilder) : Raymond Zarg Lauransan seul cardinal nomme ; les
+  cinq autres sans ligne (noms verifies pour la roadmap : Berenice Nagua Santini - Feu,
+  Zinedine Delan Guelfi - Vent, Dominic Ihre Partouche - Eau, Yvon Jasna Delacroix -
+  Lumiere, Maximilian Oreio Lagier - Tenebres) ; operation Gazef de l'Ecriture du Soleil
+  gravee en fait jour 0 sans issue ; prophetie du Seigneur Dragon de la Catastrophe
+  "recue", sans date ; Pays des Elfes / Royaume-Dragon / Pays des Hommes-betes en lignes,
+  pas de page ; Pontifex Maximus conserve en latin ; magie de la Theocratie INTEGRALEMENT
+  divine, Frappe sacree (rang 7) comprise - conforme a Magie W4 (le sacre est Guerison,
+  il brule "comme une Destruction" sans en etre une) ; phrase de doctrine gravee en Magie
+  divine : "ce que la lumiere des Six brule n'est pas humain". CONDITION DU TCHEKHOV SB8
+  "immunite sacree d'Azoth" REMPLIE : le sacre est etabli comme leur outil de reference
+  contre heteromorphes et morts-vivants (Ecriture du Soleil, anges, Frappe sacree).
+- CLEMENTINE : desertion a date inconnue au canon ("at an unknown point") -> absente de la
+  page Theocratie ; a trancher quand la roadmap passe par E-Rantel (LN vol. 2).
+- ZESSHI (decisions worldbuilder) : fiche Personnages/Zesshi.md ; 100+ ans, corps fige a
+  19 ans ; RENDU ADULTE, meme regle que Shalltear (canon : "allure d'adolescente",
+  abandonne) ; yeux dore / noir, cheveux argent / noir, tenues blanche / noire ; niveau 88
+  par somme de la fiche officielle vol. 16 (10+10+10+5+7+1+5+10+10+10+10, race 0) -
+  demi-deesse du Nouveau Monde, sous les Gardiens ; Talent (reproduire la capacite
+  maitresse de l'ancien porteur d'un objet touche) en noyau ; nature et peche = la faim ;
+  registre avec Azoth OUVERT ; "puerile" -> "capricieuse, gatee par ses tuteurs"
+  (portier REGLE FERME, le worldbuilder note que puerile n'a pas d'age).
+- CONTRADICTION SIGNALEE, correction VALIDEE pour Magie W5 (thread 11) : "Zesshi retiree :
+  guerriere, pas lanceuse" -> "Zesshi retiree : guerriere et pretresse (Clerc 10, Grand
+  clerc 10, Inquisitrice 10 - fiche vol. 16), aucun rang 7 atteste". Le retrait de la
+  liste rang 7+ reste juste, le motif etait faux.
+- FECONDITE (decision worldbuilder) : les creations des 41 SONT FECONDES (Albedo et
+  Shalltear veulent porter l'enfant d'Ainz au canon ; succube, incube, vampire fecondes).
+  La fecondite d'Ainz, mort-vivant, reste ouverte. PROPAGATION VALIDEE : Regles_Internes
+  W4 (metaphysique), une ligne, thread 11.
+- ECHELLE_PUISSANCE W3 (validee, thread 11) : Zesshi (88, fiche officielle) en ancre
+  native a cote de Gazef (~29) ; les Trois Monstres de Tob (~30, estimation).
+- RESUME : inchange (pas de W6) jusqu'aux roadmaps. BIBLE B5 : aucune compression
+  (+ ~3 000 car.).
+- E-RANTEL (decisions worldbuilder) : complot de Zuranon (cinq ans, catacombes du
+  cimetiere, Spirale de la Mort, Khajiit) grave en fait jour 0 sans issue ; seigneurs de
+  Tob une ligne chacun (Guu, Ryraryus) ; gabarit adapte a une ville (Administration et
+  figures / Alentours) ; graphie ZURANON ; le maire Panasolei en ligne pleine (canon riche).
+- HAMSUKE (decisions worldbuilder) : fiche Personnages/Hamsuke.md ; MALE [DIVERGENCE RP -
+  canon LN : femelle] ; parle normalement (syntaxe inversee de la traduction EN
+  abandonnee), un seul tic "mon bon maitre" pour qui le commande ; niveau 30 (estimation,
+  ordre des Trois Monstres) ; sigils sans nombre (page EN contradictoire, six / huit) ;
+  nature et peche = la solitude ("ca change rien", worldbuilder) ; sans nom au jour 0,
+  "Hamsuke" = nom canon a venir, qui le donne releve de la roadmap.
+- CARNE (decisions worldbuilder) : fiche commune Personnages/Carne.md ; Enri et Nfirea
+  18 ans [DIVERGENCE RP - canon : milieu de l'adolescence / "jeune garcon"], Nemu 13 ans
+  [canon : enfant, 10 selon source secondaire] ; REGLE FERME Nemu (enfant, hors registre) ;
+  Nemu "chouchoutee par sa soeur" (pas "gatee") ; ventilation Nfirea : Fleche acide
+  Destruction, Lumiere continue Alteration, Hypnose Illusion, Renforcement d'armure
+  Alteration ; nature et peche : Nfirea la curiosite, Enri le devoir, Nemu la naivete ;
+  Talent de Nfirea (tout objet magique sans restriction) en noyau.
+- HOMMES_LEZARDS (decisions worldbuilder) : chiffres de composition graves (1 380 ;
+  429 / 26 / 45 / 491 / 389, LN vol. 4) ; "quatre tresors, trois connus" ; "Voisins du
+  lac" ; Kyuku Zuzu = QUEUE-RASOIR, Sukyu Juju = PETIT CROC (noms donnes par l'anime, LN
+  muette, balise en page) ; la guerre des lezards releve des SEANCES DE COCYTUS
+  (Seances/Gardiens.md, cours de strategie d'Azoth) : la page est une source de seance.
+- SHASURYU / ZENBER (decisions worldbuilder) : fiche commune Personnages/Shasuryu_Zenber.md
+  (ils entrent a Nazarick apres l'arc des hommes-lezards) ; Surmagie (Over Magic) ;
+  Entrave de terre Alteration, Soin de masse Guerison, Protection glace Guerison ; doigts
+  de Zenber graves sans cause ; nature et peche : Zenber la sauvagerie (se bat comme une
+  brute), Shasuryu la honte (avoir laisse son frere paria alors qu'il a revolutionne leur
+  mode de vie).
+- ARGLAND / ROBLE : survol. Argland : SAVOIR META sur le Seigneur Dragon de Platine
+  (Treize Heros, chateau des Huit Rois Cupides, Joueurs = menace) - le seul natif qui
+  sache ce qu'est un Joueur ; trois Conseillers non nommes. Roble : rumeur Calca / soeurs
+  Custodio gravee en fait politique Nord / Sud ; longueur de la Grande Muraille ecartee
+  (100 000 km au wiki EN, absurde).
+- MATIERE DE TRAJECTOIRE (roadmaps, JAMAIS en page indexee) :
+  - Azoth = la plus grande menace pour Slane (immunise sacre ET Energie Negative), envoye
+    en premiere ligne pour briser leurs espoirs ; pour Zesshi, l'etre le plus puissant
+    qu'elle ait vu ; elle rejoint le Royaume Sorcier si Azoth accepte de la feconder, sans
+    amour ni rien (son canon : "meme laid, meme tordu, meme pas humain") ; question
+    majeure : Azoth aura alors Albedo pour fiancee voire epouse ; Albedo possessive voudra
+    etre fecondee avant, ou un plan a trois ou toutes deux le sont - acte en ellipse,
+    portier REGLE FERME (adultes en tout point), consentement de construction.
+  - HAMSUKE : comprend quasi IMMEDIATEMENT la nature des 41 ; gag qui en fait d'abord une
+    cible a executer selon Azoth ; Ainz l'en dissuade ; il devient le protege du Cardinal
+    (et peut encore progresser), porteur d'un secret qui lui vaudra la mort par son
+    protecteur s'il tente de le divulguer.
+  - Shasuryu et Zenber a Nazarick apres l'arc des lezards ; Zaryus et Crusch restent au
+    lac.
+- REGLES DE PROCESS (rappels worldbuilder, thread 10) :
+  - "Nature et peche (au sens du RP)" est ne pour les seances : proposee seulement pour
+    les persos qui interagiront avec Nazarick, jamais pour les autres.
+  - Pas de date inventee en chat ("avant-hier-soir" pour deux messages : non).
+- FETCH ECHOUE (non bloquant) : Great_Forest_of_Tob (402) ; foret tenue par Carne,
+  Hamsuke, Three_Monsters, Guu, Ryraryus.
+- VF ACTEES thread 10 (jargon seulement) :
+  Theocratie - Pontifex Maximus (latin, conserve) / Pontife ; Conseil executif supreme ;
+  les Six Cardinaux ; les Six Saintes Ecritures ; Sainte Ecriture Noire / de la Fleur des
+  Vents / de l'Eau Claire / de l'Holocauste / de la Cendre ; descendant des dieux
+  (God-kin) ; Siege hors rang (Extra Seat) ; Princesse-miko ; la Chute du Chateau et du
+  Pays ; la Couronne de la Sagesse ; cristal de scellement ; Seigneur Dragon de la
+  Catastrophe ; Pays des Elfes / Roi des Elfes ; collines d'Abelion ; l'Avenement des
+  Dieux ; Grand Marechal ; Institut de recherche ; le Tresor des Six ; Archange de Flamme /
+  Principaute d'Observation / Dominion d'Autorite ; Frappe sacree ; Seigneur Dragon de
+  Platine ; Seigneurs Dragons veritables. Conserves : Kikotenshin Nekonyan, Surshana,
+  Alah Alaf, Decem Hougan, Kaire, Nigun Grid Luin, Raymond Zarg Lauransan.
+  Zesshi - la Guidance de Charon ; l'Armure blanche de Neko ; Valkyrie mineure /
+  Toute-puissante ; Bourreau ; Inquisitrice ; Combattante / Maitre combattante / Maitre
+  d'armes. Conserves : Zesshi Zetsumei, Antilene Heran Fouche, Faine, Nazaire.
+  E-Rantel - le Pavillon d'Or Etincelant ; la villa royale ; Guilde des pharmaciens ; le
+  Roi Sage de la Foret ; les Epees des Tenebres ; la Spirale de la Mort ; les Trois
+  Monstres ; la Bete du Sud / le Geant de l'Est / le Serpent Demon de l'Ouest ; troll de
+  guerre ; naga ; le Chevalier Noir (Treize Heros) ; Loup du Ciel ; Arc-en-ciel ; ZURANON.
+  Conserves : Kralgra, Pluton Ainzach, Theo Rakheshir, Panasolei Gruze Day Rettenmaier,
+  Khajiit Dale Badantel, Guu, Ryraryus Spenia Ai Indarun, Peter Mauk, Lukrut Volve, Dyne
+  Woodwonder, Ninya.
+  Hamsuke / Carne - Cecite ; Charme d'espece ; nue ; Fleche acide ; Lumiere continue ;
+  Hypnose ; Renforcement d'armure ; BALEARE (Bareare, Ofelbe). Conserves : Emmot, Lizzie,
+  Enri, Nemu, Nfirea.
+  Hommes-lezards - le Grand Lac ; les Marais ; Griffe Verte / Oeil Rouge / Croc de Dragon
+  / Queue-Rasoir / Petit Croc ; Tache Jaune / Tranchant Aigu ; la guerre des ressources ;
+  voyageur ; les Quatre Tresors ; Frost Pain (conserve) ; la Grande Jarre a vin ; l'Armure
+  d'os de dragon blanc ; hommes-crapauds ; Surmagie ; Entrave de terre ; Soin de masse des
+  blessures legeres ; Protection contre la glace ; Arme naturelle d'acier ; Resistance
+  massive ; Peau de fer (reemploi). Conserves : Rororo, Shasha, Lulu, Gugu, Crusch, Kyuku
+  Zuzu, Sukyu Juju ; ZARYUS (Zaryusu), ZENBER (Zenberu) - Ofelbe.
+  Argland / Roble - Cinq Conseillers Dragons ; Seigneur Dragon du Ciel Bleu ; l'Empereur
+  Dragon ; Sainte Reine ; Grande Pretresse ; Grand Maitre des paladins ; Ordre des
+  Paladins ; Grande Muraille ; les Neuf Couleurs ; la Longue Pluie ; Srasch. Conserves :
+  Tsaindorcus Vaision, Suveria Myronsilk, Hoburns, Kalinsha, Dibonei, Bessarez, Custodio.
+
 ## Correction de direction (chat, a ne pas propager)
 - Les etages de Nazarick DESCENDENT : le 8e (Victim) est le voisin du DESSUS d'Azoth (9e),
   pas du dessous. Erreur MJ en discussion, aucune page touchee.
@@ -862,14 +1008,21 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
 - FAIT (thread 9) : NouveauMonde/ fournee 1 - Re-Estize W1, Baharuth W1 (gabarit valide) ;
   Personnages/ Renner W1, Fluder W1 ; PATCH MAGIE (les trois branches, qui soigne quoi) :
   Magie W4, Azoth W6 ; Resume W5 ; Sommaire W9 ; BIBLE BUILD B4.
-- PROCHAIN (THREAD 10) : NouveauMonde/ fournee 2 - Theocratie Slane (Six Grands Dieux,
-  Ecritures, Zesshi, le sacre comme outil de reference contre les heteromorphes),
-  E-Rantel (ville, guilde locale, Carne, Hamsuke), Hommes_Lezards (tribus du lac) ;
-  survol Argland, Roble. VF reservees : Six Grands Dieux, Huit Rois Cupides, Treize Heros.
-  Chiffres natifs sources seulement. Chantier Arts Martiaux (VF) : thread dedie, hors lot.
-  Tension karma / sacre d'Azoth a trancher. Cloture : Sommaire W10, BIBLE B5.
-- THREAD 11 : roadmaps (passe 2, boucle serree par arc ; Seances/ et Pantheon en sources),
-  Tertiaires au fil des roadmaps ; puis fiches d'arc (passe 3), CODEX V1, setup.
+- FAIT (thread 10) : NouveauMonde/ fournee 2 - Theocratie_Slane W1, E-Rantel W1,
+  Hommes_Lezards W1, Argland W1, Roble W1 (survols) ; Personnages/ Zesshi W1, Hamsuke W1,
+  Carne W1, Shasuryu_Zenber W1 ; tension karma / sacre TRANCHEE (lecture a) ; condition
+  du Tchekhov "immunite sacree" remplie ; Sommaire W10. LOT NOUVEAUMONDE COMPLET, PASSE 1
+  COMPLETE. Zero [INCERTAIN].
+- PROCHAIN (THREAD 11) : CLOTURE DE PASSE 1 - patchs valides (Magie W5 : motif Zesshi ;
+  Regles_Internes W4 : fecondite ; Echelle_Puissance W3 : Zesshi 88, Trois Monstres ~30) ;
+  BIBLE BUILD B5 (livraison complete, aucune compression : SB1 bloc karma, SB2, SB3
+  identites des vagues de Joueurs, SB4 quatre entrees, SB5 cinq entrees courtes, SB6 trois
+  lieux, SB7 la Chute + les Quatre Tresors, SB8 Tchekhov a jour, SB9 Sommaire) ; Sommaire
+  W11 (versions des patchs) ; ZIP ; prompt du thread 12. Resume inchange.
+- THREAD 12 : roadmaps (passe 2, boucle serree par arc ; Seances/ et Pantheon en sources,
+  jamais fetches en narration), Tertiaires au fil des roadmaps ; ancrage = compte des
+  sermons depuis le jour 0 ; matiere de trajectoire deja gravee (threads 9 et 10) ; puis
+  fiches d'arc (passe 3), CODEX V1, setup.
 
 ## Rappels de process
 - CADRAGE DE TON (decision worldbuilder, thread 2 - a graver en ANNEXE_STYLE au CODEX V1) :
@@ -896,7 +1049,7 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   registre (aucune libido ni curiosite sexuelle).
 - Heresie d'Azoth : PREMISSE de perso, EVENEMENT de trajectoire. Rien dans la fiche noyau.
 - Fiche Azoth : branche neutre Personnages/, plafond prota 20k caracteres.
-- Prochains jalons : NouveauMonde fournee 2 (thread 10) -> roadmaps (thread 11).
-  Sommaire W9 : livre au thread 9.
+- Prochains jalons : cloture de passe 1 (thread 11 : patchs, BIBLE B5) -> roadmaps
+  (thread 12). Sommaire W10 : livre au thread 10.
 
 FIN_WIKI__IMPLICATIONS
