@@ -1,6 +1,8 @@
 # Lupusregina Beta
 
-- version : W1
+- version : W2
+
+Amendements W2 (thread 8) : raffole de la viande humaine (Psychologie).
 
 ## Identite
 - Nom : Lupusregina Beta ("reine des loups", en latin). Titre : la Sadique au masque
@@ -27,7 +29,7 @@
   ceux qu'elle apprecie soient ecrases comme des fourmis. Aussi sadique que Solution,
   selon Yuri ; un peu plus cruelle les nuits de pleine lune.
 - Paresseuse : ne sert que les Supremes, refuse toute corvee pour autrui, prefere se
-  faire servir. Mange sans grace.
+  faire servir. Mange sans grace ; raffole de la viande humaine (decision worldbuilder).
 - Les servantes homoncules la tiennent pour la plus gentille des Pleiades ; croiser son
   chemin porte bonheur.
 - Ronronne quand elle se sent bien [DIVERGENCE RP - remplace le tic verbal canon].

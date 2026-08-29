@@ -1,21 +1,21 @@
 # Seances - Lieutenants (Sebas, Aureole, Yuri)
 
-- version : W1
-- statut : NON INDEXEE au Sommaire, jamais fetchee en narration. Porte le futur :
-  statut roadmap. Source de build pour roadmaps et fiches d'arc.
+- version : W2
+- statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut
+  roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
+
+Amendements W2 (thread 8) : renvois {Perso}_S.md ; statut indexee, interdite en narration.
 
 Trame commune : les trois etapes de la foi d'Azoth - BERGER SINCERE, BERGER PERDU,
-BERGER MARTYR. Ancrage : le compte des sermons d'Azoth depuis le jour 0. Au transfert,
-Sebas, les Pleiades, Aureole et les Gardiens d'Etage sont a l'Eglise Impie
-[DIVERGENCE RP - cf. Nazarick/Etres_Supremes.md]. Dates : roadmaps. Noyaux : cf.
-Personnages/Sebas.md, Aureole.md, Yuri.md. Seances qui s'intercalent : Seances/Ainz.md,
-Albedo.md, Demiurge.md.
+BERGER MARTYR. Ancrage : le compte des sermons depuis le jour 0. Au transfert, Sebas,
+les Pleiades, Aureole et les Gardiens d'Etage sont a l'Eglise Impie [DIVERGENCE RP -
+Nazarick/Etres_Supremes.md]. Dates : roadmaps. Noyaux : Personnages/Sebas.md,
+Aureole.md, Yuri.md. Seances qui s'intercalent : Ainz_S.md, Albedo_S.md, Demiurge_S.md.
 
 Gabarits de reference (decision worldbuilder) : la structure de SEBAS vaut pour tout
 Gardien dont le createur figure au pantheon recite par Azoth - sauf Shalltear, cas a
-part. La structure de YURI vaut pour toutes les Pleiades ; seules les seances
-personnelles varient. Chantier ouvert : pensee superficielle et pensee profonde de
-chaque createur (cf. Seances/Pantheon.md, a batir).
+part (Seances/Shalltear_S.md). La structure de YURI vaut pour toutes les Pleiades ;
+seules les seances personnelles varient. Pensees des createurs : Seances/Pantheon.md.
 
 ## Sebas Tian
 ### Gabarit
@@ -42,7 +42,7 @@ chaque createur (cf. Seances/Pantheon.md, a batir).
   une foi aussi complexe qu'une theologie polytheiste de 41 dieux qui n'en forment qu'un.
 - Seance 2 - 2e sermon. Regard entendu pendant le sermon, quand il voit les regards
   affames de l'Incube et de la Succube : meme raisonnement que Demiurge
-  (Seances/Demiurge.md, seance 2), mais tacite.
+  (Demiurge_S.md, seance 2), mais tacite.
 
 ### Ere du berger perdu
 - Seance 3 - 3e et 4e sermons. Les deux lui font bizarre : l'un est trop profond - Azoth
@@ -52,7 +52,7 @@ chaque createur (cf. Seances/Pantheon.md, a batir).
 
 ### Ere du berger martyr
 - Seances 4 et suivantes - discussions sur Touch Me, comme avec Demiurge
-  (Seances/Demiurge.md, 6+), avec une foi axee sur la protection des faibles. Sebas
+  (Demiurge_S.md, 6+), avec une foi axee sur la protection des faibles. Sebas
   questionne plusieurs fois sa foi : il confesse servir la vision de Touch Me, qu'il
   pense differente des autres. Azoth : deux seules paroles comptent ; il n'a pas a
   vouloir tout concilier, c'est le role du Cardinal et non de son vassal - servir
@@ -74,7 +74,7 @@ chaque createur (cf. Seances/Pantheon.md, a batir).
   est laid, elle a cesse de le regarder, rien ne lui echappe ; l'eternite ; devotion
   entiere. Sa matiere est existentielle.
 - Lien au theme : c'est elle qui, sans le savoir, pousse Azoth vers la Tresorerie - la
-  porte de la chute (Seances/Ainz.md, seance 1). Et c'est elle qui lui recommande la
+  porte de la chute (Ainz_S.md, seance 1). Et c'est elle qui lui recommande la
   meditation quand il est perdu.
 - Verrou : elle "voit" tout, bandeau compris - et ne voit pas la cause.
 
@@ -92,7 +92,7 @@ chaque createur (cf. Seances/Pantheon.md, a batir).
 - Seance 4 - 4e sermon. Elle "voit" Azoth perdu. Elle lui recommande de mediter : c'est
   ce qu'elle fait quand elle pense aux nouvelles paroles qui lui sont sacrees, afin de
   comprendre son createur.
-- Ce qu'Azoth decouvre : le meme conseil que lui donnera Ainz (Seances/Ainz.md,
+- Ce qu'Azoth decouvre : le meme conseil que lui donnera Ainz (Ainz_S.md,
   seance 2), venu de la fidele qu'il a le plus comblee.
 
 ### Ere du berger martyr

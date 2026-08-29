@@ -1,6 +1,6 @@
 # Sommaire - Overlord
 
-- version : W7
+- version : W8
 
 Reconcilie au BIBLE BUILD B1 (SB9 y pointe ; les versions ci-dessous font inventaire).
 Mise a jour ponctuelle W3 (thread 3) : lot Personnages, fournee 1 - Ainz, Albedo,
@@ -16,6 +16,11 @@ Mise a jour ponctuelle W7 (thread 7) : Azoth_relations_Proches W1, Theologie_Azo
 propagation "Regente des Gardiens" (VF canon) - Albedo W2, Ainz W2, Demiurge W2, Aura W2,
 Mare W2, Cocytus W2, Organigramme W3, Resume W3 ; Azoth W4 ; Etres_Supremes W3. Le dossier
 Seances/ existe (hors index).
+Mise a jour W8 (thread 8, BIBLE BUILD B3) : Seances/ INDEXE (section propre, statut
+roadmap) - Gardiens, Shalltear_S, Pleiades, CZ2128_S, Pandoras_Actor_S (W1) ; Ainz_S,
+Albedo_S, Demiurge_S, Lieutenants, Pantheon (W2, renommage {Perso}_S) ; propagation -
+Aura W3, CZ2128 W2, Solution W2, Lupusregina W2, Aureole W2, Azoth W5, Regles_Internes
+W3, Theologie_Azoth W2, Etres_Supremes W4, Resume W4.
 
 ## WIKI
 
@@ -27,10 +32,11 @@ Seances/ existe (hors index).
 
 ### Racine
 Description : pages transversales de l'univers.
-- Resume.md (W3) - resume de l'histoire etablie : Yggdrasil et la guilde (2126-2138 ;
+- Resume.md (W4) - resume de l'histoire etablie : Yggdrasil et la guilde (2126-2138 ;
   neuf d'origine, 9e guilde, onze objets de rang monde), le Nouveau Monde avant le jour 0
   (magie importee ~600 ans, vagues ~500 et ~200 ans, systemes natifs), le transfert
-  (jour 0, naissance des consciences dans des corps neufs, hierarchie en place).
+  (jour 0, naissance des consciences dans des corps neufs, hierarchie en place, personnel
+  a l'Eglise Impie sauf Momonga et Albedo [DIVERGENCE RP]).
 
 ### Systemes/
 Description : systemes du monde (magie, jeu d'origine, systemes natifs, puissance).
@@ -69,23 +75,26 @@ Description : le Grand Tombeau, sa hierarchie, ses regles, ses createurs. Etat d
   et majordomes en charge directe d'Azoth, Yuri en seconde ; regles d'ordres], formations
   Sept Soeurs / Six Etoiles, service des Supremes (41 servantes homoncules, Pestonya),
   gardiens de zone (Grant corrigee, Pinison retiree).
-- Regles_Internes.md (W2) - loyaute et culte des 41 (Eglise Impie [DIVERGENCE RP]),
+- Regles_Internes.md (W3) - loyaute et culte des 41 (Eglise Impie [DIVERGENCE RP]),
   metaphysique des PNJ (conscience au transfert, deux horloges, corps neufs au jour 0
   libido comprise, ages approximatifs, garde-fou d'indecouvrabilite [DIVERGENCE RP]),
   economie interne (tresor fini, monstres POP, autonomie mixte au jour 0), securite,
-  frictions.
-- Theologie_Azoth.md (W1) - la doctrine de l'Eglise Impie au jour 0, foi intacte
+  frictions (dont la viande humaine chez les Pleiades).
+- Theologie_Azoth.md (W2) - la doctrine de l'Eglise Impie au jour 0, foi intacte
   [DIVERGENCE RP] : le dogme (41 dieux, une seule voix ; Momonga rassembleur qui incarne
   seul les 41 pensees ; les 40 absents, divinites indisponibles qu'on prie de revenir ;
-  blaspheme du desaccord ; le berger), corpus de huit lectures de surface (Ulbert, Touch
+  blaspheme du desaccord ; la hierarchie tacite entre les 41, seul Azoth tente la
+  neutralite ; intensite de foi Azoth = Albedo ; le berger), corpus de huit lectures de
+  surface (Ulbert, Touch
   Me, Punitto Moe, Peroroncino, Tabula, Takemikazuchi, Bukubukuchagama, Herohero), peche
   et exutoire ("il n'offre qu'a quiconque quemande" ; REGLE FERME Aura/Mare), liturgie
   (sermon a tous ; on vient voir Azoth apres ; assistance au jour 0), confession (secret
   absolu sauf atteinte a Nazarick, remontee a Momonga).
-- Etres_Supremes.md (W3) - la guilde Ainz Ooal Gown : 41 heteromorphes, regle des adultes
+- Etres_Supremes.md (W4) - la guilde Ainz Ooal Gown : 41 heteromorphes, regle des adultes
   salaries, Nine's Own Goal et ses neuf d'origine, 9e guilde d'Yggdrasil, membres notables
-  et leurs creations (createurs des 17 fiches ; Ulbert -> Demiurge ET Azoth, Wish III ->
-  Aureole et Victim [DIVERGENCES RP] ; Wish III Archange bienveillant), declin,
+  et leurs creations (createurs des 17 fiches, races posees ; Ulbert -> Demiurge ET Azoth,
+  Wish III -> Aureole et Victim [DIVERGENCES RP] ; Wish III Archange bienveillant ;
+  Genjiro homme a l'avatar feminin ; Punitto Moe, Ankoro Mocchi Mochi), declin,
   fermeture et transfert (2138 ; au transfert, Sebas, Pleiades, Aureole et Gardiens a
   l'Eglise Impie [DIVERGENCE RP]), statut des 41 au jour 0.
 
@@ -104,19 +113,21 @@ Description : fiches personnages du monde.
   Chevalier Mal-saint, Seigneur Egide), Seigneur-Bicorne de guerre, Ginnungagap.
   Amendements W2 (thread 7) : titre VF Regente des Gardiens ; meme niveau intellectuel
   que Demiurge et Azoth, plus impulsive ; renvoi Azoth_relations_Proches.
-- Aura.md (W2) - fiche noyau de la Gardienne du 6e (elfe noire niveau 100, 0 racial,
+- Aura.md (W3) - fiche noyau de la Gardienne du 6e (elfe noire niveau 100, 0 racial,
   karma -100, 104 cm, 76 ans - enfant, creation de Bukubukuchagama) : la Dresseuse
   renommee a l'esprit combatif, vive et franche, collectionneuse de betes, peur des
   insectes, dresseuse et rodeuse (plus de cent betes, talents de souffle), binome avec
   Mare. REGLE FERME : enfant, registre sensuel exclu ; Azoth = oncle franc, saintes
-  paroles ouvertes, sexuel ferme [DIVERGENCE RP].
-- Aureole.md (W1) - fiche noyau de la gardienne du Sanctuaire des Cerisiers (Humaine
+  paroles ouvertes, sexuel ferme [DIVERGENCE RP]. W3 (thread 8) : le Grand Trou.
+- Aureole.md (W2) - fiche noyau de la gardienne du Sanctuaire des Cerisiers (Humaine
   Eternelle niveau 100, karma +400, 154 cm, plus d'un millenaire, corps fige a 20 ans,
   creation de Wish III [DIVERGENCE RP]) : cheffe des Pleiades en titre en mission
   permanente au 8e (protectrice de Victim, Sceptre en depot, portes de teleportation),
   egale de Sebas sous Azoth, bandeau (a choisi de ne plus voir, perception parfaite),
   classes de commandement, Worldslicer (objet de rang monde), hors registre sensuel.
-- Azoth.md (W4) - fiche noyau du Cardinal Demoniaque (OC, protagoniste ; Archdemon
+  W2 (thread 8) : ne se voit pas comme les autres humains, la viande humaine ne la
+  derange pas.
+- Azoth.md (W5) - fiche noyau du Cardinal Demoniaque (OC, protagoniste ; Archdemon
   niveau 100, karma -500, 666 ans fige, jumeau de Demiurge, cree par Ulbert, Gardien du 9e
   [DIVERGENCES RP]) : setting, psychologie et doctrine, apparences detaillees des deux
   formes (#E8C6AB / #AE9C93), Passion d'Incube (etat d'embrasement), capacites et six
@@ -127,6 +138,7 @@ Description : fiches personnages du monde.
   sur la chaine du 9e ; renvoi vers la page relations (thread 7). Amendements W4
   (thread 7) : angoisse de l'abandon partagee avec Demiurge (Psychologie) ; Albedo
   Regente ; renvois de relations limites a la page Proches (autres cercles en passe 2).
+  Amendements W5 (thread 8) : cuisine ; polyvalence du sommet.
 - Azoth_relations_Proches.md (W1) - page relations d'Azoth, cercle Proches (Momonga,
   Demiurge, Albedo) : statut, adresses reciproques, rituels, dynamique, ce que l'autre
   sait, EVOLUTION posee des la genese (decision worldbuilder). Fiche mere = mecanique,
@@ -136,11 +148,12 @@ Description : fiches personnages du monde.
   guerrier d'honneur, un bras pas un cerveau, maitre d'armes (21 armes, quatre a la
   fois), Aura de givre, Combo des Cinq Rois de Sagesse, Takemikazuchi Mk 8 ; Azoth =
   camaraderie du bras pour le cerveau, comme avec Demiurge [DIVERGENCE RP].
-- CZ2128.md (W1) - fiche noyau de la quatrieme Pleiade (automate niveau 46, karma +100,
+- CZ2128.md (W2) - fiche noyau de la quatrieme Pleiade (automate niveau 46, karma +100,
   150 cm, ~300 ans / 22 ans apparents, creation de Garnet) : la Servante de l'embuscade,
   cle maitresse des mecanismes de Nazarick, affect present mais inexploite (noyau),
   autocollants "1 yen", fusiliere (armes a feu magiques, Tir de scellement, echarpe
-  legendaire), sous Azoth [DIVERGENCE RP].
+  legendaire), sous Azoth [DIVERGENCE RP]. W2 (thread 8) : interface de maintenance
+  integree (panneau dorsal, LCD, clavier, terminal).
 - Demiurge.md (W2) - fiche noyau du Gardien du 7e (archdemon niveau 100, karma -500,
   183 cm, 666 ans fige, jumeau d'Azoth [DIVERGENCE RP], denue de luxure) : gentleman et
   monstre, esthete de la cruaute, angoisse de l'abandon, Aspect du Diable (5 competences
@@ -150,11 +163,11 @@ Description : fiches personnages du monde.
   poupee en kimono sur l'insecte, anthropophagie comme appetit (noyau), insecte-levres
   et insecte-masque, talismans rangs 1-7 (Destruction / Conjuration / Alteration /
   Illusion), insectes-armes, Souffle de mouches, sous Azoth [DIVERGENCE RP].
-- Lupusregina.md (W1) - fiche noyau de la deuxieme Pleiade (garou niveau 59, karma -200,
+- Lupusregina.md (W2) - fiche noyau de la deuxieme Pleiade (garou niveau 59, karma -200,
   162 cm, ~300 ans / 22 ans apparents, creation de Beast King Mekongawa) : la Sadique au
   masque souriant, paresse, ronronnement, nature animale inassumee (noyau), forme de
   loup-garou decrite [DIVERGENCE RP], clerc de guerre rangs 1-8 (Guerison / Illusion /
-  Destruction), sous Azoth.
+  Destruction), sous Azoth. W2 (thread 8) : raffole de la viande humaine.
 - Mare.md (W2) - fiche noyau du Gardien du 6e (elfe noir niveau 100, 0 racial, karma
   -100, 104 cm, 76 ans - enfant, creation de Bukubukuchagama) : l'Emissaire peu fiable
   de la nature, timide et brutal, druide rangs 1-10 sans grande magie (Destruction /
@@ -182,11 +195,12 @@ Description : fiches personnages du monde.
   canon conservees, rendu enfantin abandonne), complexe et rembourrages, Valkyrie de
   Sang, Lance Compte-Goutte, Frenesie Sanglante, Einherjarl, Guerison morts-vivants par
   Energie Negative, Epouses vampires (suite et harem), Grand Atrium des Cadavres de Cire.
-- Solution.md (W1) - fiche noyau de la cinquieme Pleiade (slime predateur niveau 57,
+- Solution.md (W2) - fiche noyau de la cinquieme Pleiade (slime predateur niveau 57,
   karma -400, 168 cm, ~300 ans / 22 ans apparents, creation de Herohero) : la Cage de
   dissolution, humains = nourriture et jouets, le seul plaisir connu est la proie qui se
   debat en elle (noyau), cage vivante, corps de slime, voleuse et fabricante de poison,
-  sensualite d'appat jamais de desir face a Azoth, sous Azoth [DIVERGENCE RP].
+  sensualite d'appat jamais de desir face a Azoth, sous Azoth [DIVERGENCE RP]. W2
+  (thread 8) : esprit de genie, echecs et shogi.
 - Yuri.md (W1) - fiche noyau de la vice-capitaine des Pleiades (dullahan niveau 51,
   karma +150, 169 cm, ~400 ans / 24 ans apparents, creation de Yamaiko) : institutrice
   stricte, bourreau de travail, "boku" en prive, rigidite (noyau), cogneuse (Paume
@@ -204,11 +218,28 @@ lizardmen, et en survol Argland, Roble).
 > FICHES D'ARC. Dossier Fiches_Arc/Azoth/ vide (passe 3, apres les roadmaps). Les fiches
 > d'arc seront indexees ici a leur creation.
 
-> SEANCES NON INDEXEES. Le dossier Seances/ (existe depuis le thread 7) porte le FUTUR des
-> liens d'Azoth avec chaque personnage et le pantheon des createurs : meme statut que les
-> roadmaps, jamais fetche en narration, jamais liste ici. L'etat des liens au jour 0 et
-> leur evolution vivent en pages WIKI satellites : Azoth_relations_Proches.md (indexee) ;
-> _Lieutenants / _Pleiades / _Gardiens / _Tertiaires en passe 2, indexees a leur creation.
+### Seances/
+Description : les seances d'Azoth avec chaque personnage et le pantheon des createurs.
+STATUT ROADMAP : ces pages portent le FUTUR des liens ; elles sont indexees ici pour l'ordre
+du depot et JAMAIS FETCHEES EN NARRATION - un MJ qui les lit prefigure en prose. Sources
+de build seulement (roadmaps, fiches d'arc). Regle de nommage : {Perso}_S.md pour toute
+seance nommee d'apres un personnage (homonymie avec Personnages/).
+- Ainz_S.md (W2) - seances avec Ainz. STATUT ROADMAP.
+- Albedo_S.md (W2) - seances avec Albedo. STATUT ROADMAP.
+- Demiurge_S.md (W2) - seances avec Demiurge. STATUT ROADMAP.
+- Lieutenants.md (W2) - seances avec Sebas, Aureole, Yuri ; gabarits de reference. STATUT
+  ROADMAP.
+- Gardiens.md (W1) - seances avec Cocytus, Aura, Mare. STATUT ROADMAP.
+- Shalltear_S.md (W1) - seances avec Shalltear. STATUT ROADMAP.
+- Pleiades.md (W1) - seances avec Lupusregina, Narberal, Solution, Entoma. STATUT ROADMAP.
+- CZ2128_S.md (W1) - seances avec CZ2128. STATUT ROADMAP.
+- Pandoras_Actor_S.md (W1) - seances avec Pandora's Actor. STATUT ROADMAP.
+- Pantheon.md (W2) - les createurs, pensee de base et pensee profonde. STATUT ROADMAP.
+Tertiaires : pas de page, reportee en passe 2 (roadmaps).
+
+> RELATIONS. L'etat des liens au jour 0 et leur evolution vivent en pages WIKI satellites :
+> Azoth_relations_Proches.md (indexee) ; _Lieutenants / _Pleiades / _Gardiens / _Tertiaires
+> en passe 2, indexees a leur creation.
 
 > JOURNAL DE CONCEPTION. _Implications.md (a la racine Overlord/) : document de travail des
 > passes en spirale, jamais fetche en narration. Contient les divergences actees, les VF,

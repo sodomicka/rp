@@ -1,8 +1,11 @@
 # Seances - Ainz (Momonga)
 
-- version : W1
-- statut : NON INDEXEE au Sommaire, jamais fetchee en narration. Porte le futur : meme
-  statut que les roadmaps. Source de build pour les roadmaps et les fiches d'arc.
+- version : W2
+- statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut
+  roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
+
+Amendements W2 (thread 8) : renvois {Perso}_S.md (homonymie) ; statut indexee, toujours
+interdite en narration.
 
 Trame commune a toutes les seances (decision worldbuilder) : les trois etapes de la foi
 d'Azoth - BERGER SINCERE, BERGER PERDU, BERGER MARTYR. Les seances d'Ainz suivent la trame

@@ -1,6 +1,9 @@
 # Aura Bella Fiora
 
-- version : W2
+- version : W3
+
+Amendements W3 (thread 8) : le Grand Trou (Large Hole), pas le Trou vert - correction canon
+actee au thread 6 (le Trou vert est posterieur au jour 0).
 
 Amendements W2 (thread 7) : titre d'Albedo - Regente des Gardiens (VF canon, decision
 worldbuilder).
@@ -60,7 +63,7 @@ worldbuilder).
 - Grand arc decore, fouet, armure de cuir d'ecailles de dragon, collier au gland.
 
 ## Position dans Nazarick
-- Gardienne du 6e etage (Jungle), avec Mare ; residence : l'Arbre Geant. Le Trou vert
+- Gardienne du 6e etage (Jungle), avec Mare ; residence : l'Arbre Geant. Le Grand Trou
   et son roi des insectes, Gashokukochuuou, sont sur son etage.
 - Sous Albedo, la Regente des Gardiens ; Demiurge, second des Gardiens.
 - Detail de l'etage : cf. Nazarick/Tombeau.md.

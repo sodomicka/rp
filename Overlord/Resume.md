@@ -1,6 +1,8 @@
 # Resume - Overlord (histoire etablie)
 
-- version : W3
+- version : W4
+
+Amendements W4 (thread 8) : position du personnel au transfert.
 
 Amendements W3 (thread 7) : Albedo Regente des Gardiens.
 
@@ -49,9 +51,11 @@ Cet instant est le jour 0 du RP. C'est aussi le premier instant vecu des PNJ de 
 leur conscience nait au transfert, chacun portant l'age et les souvenirs programmes par
 son createur, dans un corps qui n'a encore rien vecu [DIVERGENCE RP - metaphysique, cf.
 BIBLE SB1]. Le Tombeau s'eveille avec sa hierarchie en place : Momonga au sommet, Albedo
-Regente des Gardiens, les Gardiens a leurs etages - dont Azoth au 9e, maitre du personnel, des
-Pleiades et de l'Eglise Impie [DIVERGENCE RP]. Quarante sieges restent vides, venerables
-et attendus.
+Regente des Gardiens, les Gardiens a leurs postes - dont Azoth au 9e, maitre du personnel,
+des Pleiades et de l'Eglise Impie [DIVERGENCE RP]. A l'instant du transfert, Momonga et
+Albedo sont dans la Salle du Trone ; Sebas, les Pleiades, Aureole et les Gardiens d'Etage
+sont a l'Eglise Impie, aupres d'Azoth [DIVERGENCE RP]. Quarante sieges restent vides,
+venerables et attendus.
 
 ---
 

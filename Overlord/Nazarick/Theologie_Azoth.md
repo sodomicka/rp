@@ -1,6 +1,9 @@
 # Theologie d'Azoth - doctrine de l'Eglise Impie
 
-- version : W1
+- version : W2
+
+Amendements W2 (thread 8) : intensite de foi tranchee (Azoth et Albedo a egalite) ;
+la hierarchie tacite entre les 41 ; renvoi CZ2128.
 
 Doctrine au jour 0, foi intacte. L'officiant : cf. Personnages/Azoth.md. Le lieu : cf.
 Tombeau.md (9e etage). Le culte des 41 : cf. Regles_Internes.md. Les 41 : cf.
@@ -18,10 +21,16 @@ Etres_Supremes.md. [DIVERGENCE RP - enrichissement]
   seul dieu present suffit. Les partis ne sont pas des deserteurs (Regles_Internes.md).
 - Blaspheme : toute parole laissant entendre que les 41 ont pu etre en desaccord. Azoth n'y
   tolere aucune exception (Azoth.md).
-- Le berger : Azoth est le plus intense dans la foi, et un berger. Un adepte perdu, qui
-  frole ou meme entame le blaspheme, il le remet dans le droit chemin - par une vraie
-  remise en question, pas par la menace. A l'inverse, Demiurge et Albedo repondent au
-  blaspheme par l'execution sans sommation, sans proposer de remise en question.
+- La hierarchie tacite : chaque fidele place son propre createur au-dessus des autres
+  Supremes, sans voir le blaspheme potentiel - nul n'est a blamer pour cela. Seul Azoth
+  tente la neutralite entre les 41 (decision worldbuilder).
+- Intensite : Azoth et Albedo sont les plus intenses dans la foi, a egalite (BIBLE SB0).
+  Albedo tolere le blaspheme moins encore que Demiurge. Azoth est le seul en quete de
+  comprehension, la ou Albedo croit aveuglement.
+- Le berger : Azoth est un berger. Un adepte perdu, qui frole ou meme entame le
+  blaspheme, il le remet dans le droit chemin - par une vraie remise en question, pas
+  par la menace. A l'inverse, Demiurge et Albedo repondent au blaspheme par l'execution
+  sans sommation, sans proposer de remise en question.
 
 ## Les saintes paroles - corpus du jour 0
 - Azoth ne preche que certaines paroles, en lectures de surface, a la portee de chacun,
@@ -69,7 +78,8 @@ Etres_Supremes.md. [DIVERGENCE RP - enrichissement]
   toutes vraies, point, inutile de demontrer qu'elles s'accordent ; Sebas, paroissien
   qui n'aime ni la luxure ni le mal ; Cocytus, qui honore les 41 et laisse le reste aux
   demons ; Lupusregina, pour les paroles et l'intensite de la passion ; Aureole, parfois ;
-  Aura et Mare, guides quand ils doutent. Momonga ne franchit pas la porte.
+  Aura et Mare, guides quand ils doutent ; CZ2128, sans ferveur ni reproche. Momonga ne
+  franchit pas la porte.
 
 ## La confession
 - Au confessionnal. Le fidele nomme son peche ; Azoth le lui fait accepter, et s'offre en

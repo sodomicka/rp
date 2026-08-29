@@ -147,9 +147,13 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   seulement en relecture croisee de cloture de Passe 2.
 - (thread 7) Momonga a-t-il lu le setting d'Azoth (le texte d'Ulbert) ? Non tranche, non
   bloquant - matiere de la seance Momonga.
-- (thread 7, a trancher au B3) Intensite de foi : BIBLE SB0 dit Azoth et Albedo a la meme
-  intensite ; Theologie_Azoth W1 dit Azoth "le plus intense dans la foi". Lecture MJ :
-  les deux plus intenses, a egalite - sauf si Azoth prime (worldbuilder).
+- [SOLDE thread 8] Intensite de foi : Azoth et Albedo a egalite ; Albedo tolere le
+  blaspheme moins encore que Demiurge ; Azoth seul en quete de comprehension, Albedo
+  croit aveuglement (decision worldbuilder). Theologie W2, BIBLE B3 SB0/SB5.
+- (thread 8, non bloquant) Albedo.md W2 ne porte pas "tolere le blaspheme moins encore
+  que Demiurge" : a graver en Albedo W3 a la prochaine retouche de la fiche.
+- (thread 8, non bloquant) Seances/Pantheon.md fait 9 341 caracteres (deja 9 209 en W1,
+  avant la regle des 8 000 posee au thread 8) : scission a decider au prochain passage.
 
 ## Decisions actees en cloture de thread 1
 - Aureole Omega : egale de Sebas, tous deux directement sous Azoth. Recluse au Sanctuaire
@@ -671,6 +675,90 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   - SB6, Eglise Impie : ajouter "doctrine : cf. WIKI Nazarick/Theologie_Azoth.md".
   - SB9 : Sommaire W7.
 
+## Decisions actees thread 8 (seances restantes + BIBLE BUILD B3)
+- LIVRE : Seances/Gardiens.md, Shalltear_S.md, Pleiades.md, CZ2128_S.md,
+  Pandoras_Actor_S.md (W1) ; Ainz_S, Albedo_S, Demiurge_S, Lieutenants, Pantheon (W2 :
+  renvois _S, statut) ; Aura W3, CZ2128 W2, Solution W2, Lupusregina W2, Aureole W2,
+  Azoth W5 ; Regles_Internes W3, Theologie_Azoth W2, Etres_Supremes W4 ; Resume W4 ;
+  Sommaire W8 ; BIBLE B3. Uploads groupes en fin de thread.
+- REGLE D'HOMONYMIE (decision worldbuilder) : Personnages/{Perso}.md reste ; toute seance
+  nommee d'apres un personnage devient Seances/{Perso}_S.md. Le worldbuilder renomme
+  Ainz_S, Albedo_S, Demiurge_S sur le depot ; les W2 livrees portent deja ces noms -
+  supprimer les anciens fichiers.
+- SEANCES INDEXEES (decision worldbuilder) : le dossier Seances/ entre au Sommaire (W8,
+  section propre) pour l'ordre du depot. STATUT INCHANGE : roadmap, jamais fetche en
+  narration. Entrees du Sommaire sans contenu (nom, version, "STATUT ROADMAP").
+- PLAFOND (regle de thread) : une page de seances qui depasse 8 000 caracteres se scinde ;
+  une fiche qui deborde devient personnelle (thread 7). Appliquee : CZ2128 sortie de
+  Pleiades.md ; Shalltear en fiche personnelle.
+- TERTIAIRES : pas de page. Reportees en passe 2 - elles viendront combler des vides ou
+  repondre a des evenements canon, en roadmap.
+- GARDIENS (decisions worldbuilder) : Cocytus - scrupule "reflechir avant de frapper" leve
+  par la parole de Punitto Moe (pas un blaspheme) ; cours de strategie militaire donnes par
+  Azoth, seances occasionnelles. Aura - seule, emancipation : vivre malgre et avec le
+  depart de sa creatrice. Mare - seul, emancipation : se questionne sur l'absence de
+  vetement de l'autre genre chez les autres Gardiens ; la jupe doit devenir SON choix, pas
+  celui d'une deesse partie qu'il croit sur le point de revenir ; le gag croise n'est
+  jamais preche ni devine. REGLE FERME maintenue : le creneau "regards" de la seance 2 de
+  Sebas n'est pas transpose aux jumeaux.
+- SHALLTEAR (decisions worldbuilder, fiche personnelle) : 1er sermon attirance envers les
+  41 ; 2e sermon jalousie des regards Albedo/Azoth, demande de seance avec ses Epouses ;
+  visite au 9e avant le 3e sermon (tension montrable, sexe BDSM en ellipse, "Peroroncino
+  a raison", larmes et peur du blaspheme, Azoth : tous ont raison) ; 3e sermon =
+  epiphanie ; ne voit pas Azoth perdu ; sexe exutoire pour Azoth (perdu) puis pour elle
+  (martyr, apres sa resurrection - LN vol. 3) ; Azoth seul a la dire non responsable,
+  premier a lui conseiller des missions pour prouver loyaute, infaillibilite et foi.
+- DOCTRINE DES PLEIADES (formulation worldbuilder) : elles se completent en se sentant
+  desirees par Azoth et en ressentant cette forme de plaisir - Aureole etait deja
+  complete, seulement pas assez renseignee sur Wish III. Progressif, plusieurs seances de
+  seduction. Placement MJ valide : seances personnelles a l'ere martyr (base Yuri),
+  debut a la roadmap.
+  - Lupusregina : attention, traitement de privilegiee (toilettage, nourrissage,
+    comportements bestiaux a deux, sommeil nus et colles sans sexualite), apogee : etre
+    traitee comme sa femelle, lui son male alpha, l'acte sans fecondation.
+  - Narberal : confiance - discuter, se confier (haine des humains malgre l'amour de ses
+    soeurs dont Aureole, humaine), acceptation, lacher-prise par le sexe = ultime epreuve.
+  - CZ2128 : trouve des contradictions logiques entre les paroles supremes, se croit
+    defaillante ; Azoth va chercher les manuels de programmation de Garnet chez Pandora's
+    Actor et programme par l'interface integree de CZ (panneau amovible entre les
+    omoplates, LCD retroeclairage vert, clavier, terminal Unix) ; shunte la comparaison
+    logique sur la foi, decouvre les programmes sensoriels et emotionnels dormants, les
+    active sur son accord ; decouverte lente des sentiments, jusqu'au sexe. PAS un pouvoir
+    admin : un technicien avec un manuel (parallele Ainz "plus d'outil admin" retire).
+  - Solution : ne connait que la dissolution, sait que son corps peut ressentir plus, sait
+    ce qu'elle veut des le debut ; echecs ou shogi entre genies, puis sexe.
+  - Entoma : n'aime que la viande humaine ; Azoth cuisine pour elle (humain cru, cuit,
+    autres viandes) ; par accident, en essuyant ses mandibules, decouvre que sa chair est
+    tres sensible ; chaque seance = nouvelle viande, sexualite pour finir.
+- VIANDE HUMAINE (decision worldbuilder) : PAS un tabou de Nazarick - mal vue parmi les
+  Pleiades seulement, malaise du a la nature humaine d'Aureole, qui dit ne pas se voir
+  comme les autres humains et ne pas s'en soucier ; Entoma, Solution et Lupusregina en
+  raffolent. Regles_Internes W3 (frictions), Aureole W2, Lupusregina W2.
+- AZOTH POLYVALENT (decision worldbuilder) : au sommet avec Albedo, Demiurge et Pandora's
+  Actor precisement parce qu'ils sont polyvalents, pas seulement puissants - cuisine,
+  programmation sur manuel. Azoth W5.
+- PANDORA'S ACTOR (decisions worldbuilder) : registre nul ; seances dans la Tresorerie, a
+  chaque visite d'Azoth pour en apprendre plus sur les 41, aux trois eres - meme martyr,
+  il veut reponse a tout pour que les fideles n'aient pas a se poser de questions ;
+  seances a double sens sur Ainz (mentalite, valeurs, porter seul les 40 autres
+  memoires) ; connait bien Ainz, rien de Satoru, pas meme son existence ; ne sait rien de
+  la descente, ne demande rien ("le seul autre qui pourrait supporter la verite, car son
+  pere est le seul fiable et a portee, est celui qui se pose le moins de questions") ;
+  FIL FERME : Azoth ne demandera jamais la forme d'Ulbert - blaspheme, usurpation, meme
+  apres avoir su qu'ils n'ont rien de dieux.
+- HIERARCHIE TACITE ENTRE LES 41 (decision worldbuilder) : chaque fidele place son createur
+  au-dessus sans voir le blaspheme potentiel ; nul n'est a blamer ; seul Azoth tente la
+  neutralite - et c'est ce qui cause sa chute (trajectoire, Ainz_S ; jamais en page
+  indexee). Theologie W2, BIBLE B3 SB1.
+- LECTURES MJ validees par silence (lignes "Ce qu'Azoth decouvre" des seances) : a
+  reprendre en roadmap si le worldbuilder les conteste.
+- BIBLE B3 : patchs du thread 7 appliques ; SB1 ligne "Culte des 41" ajoutee ; SB2 le
+  berger, trois etapes, Regente ; SB8 second Tchekhov "les archives des 41" (synthese de
+  Ainz_S seance 1, a valider) ; SB0 ligne Seances (10 pages, statut roadmap).
+- ETRES_SUPREMES W4 : races posees au Pantheon reportees (faits du jour 0) ; la colonne
+  "Selon Satoru" reste au Pantheon (savoir d'Ainz seul).
+- VF ACTEES thread 8 : aucune nouvelle. Termes conserves : shogi, Unix, LCD.
+
 ## Correction de direction (chat, a ne pas propager)
 - Les etages de Nazarick DESCENDENT : le 8e (Victim) est le voisin du DESSUS d'Azoth (9e),
   pas du dessous. Erreur MJ en discussion, aucune page touchee.
@@ -686,20 +774,19 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
 - FAIT (thread 7) : Azoth_relations_Proches W1 (lot 1 reduit a Proches) ; Theologie_Azoth
   W1 ; Seances/ Ainz, Albedo, Demiurge, Lieutenants, Pantheon (W1, hors index) ;
   propagation Regente / niveau intellectuel / angoisse / transfert ; Sommaire W7.
-- PROCHAIN (THREAD 8), dans cet ordre :
-  1. SEANCES RESTANTES : Seances/Gardiens.md (Cocytus, Aura, Mare sur gabarit Sebas ;
-     Shalltear cas a part - la nymphomane, peut devenir personnelle) ;
-     Seances/Pleiades.md (Lupusregina, Narberal, CZ2128, Solution, Entoma sur base Yuri,
-     seances persos variables - cf. formules du thread 2) ; Seances/Pandoras_Actor.md ;
-     Seances/Tertiaires.md. Le MJ rappelle le peche etabli de chacun, le worldbuilder pose
-     les themes. Fetch au demarrage : Sommaire W7, ce journal, Theologie_Azoth,
-     Seances/Lieutenants (gabarits) et Seances/Pantheon.
-  2. BIBLE BUILD B3 : patchs ci-dessus (trois etapes de la foi, Regente, transfert,
-     Theologie et relations en SB), Etres_Supremes W4 (Genjiro, Ankoro), Sommaire W8,
-     Resume si besoin. Trancher : intensite de foi SB0.
-- THREAD 9 : NouveauMonde/ (lot a venir : Re-Estize, Baharuth, Theocratie Slane, E-Rantel,
-  lizardmen ; survol Argland, Roble). Puis roadmaps (passe 2, boucle serree) et fiches
-  d'arc (passe 3), CODEX V1, setup.
+- FAIT (thread 8) : Seances/ complet hors Tertiaires (Gardiens, Shalltear_S, Pleiades,
+  CZ2128_S, Pandoras_Actor_S W1 ; cinq pages existantes en W2) et INDEXE ; propagation
+  (Aura W3, CZ2128 W2, Solution W2, Lupusregina W2, Aureole W2, Azoth W5,
+  Regles_Internes W3, Theologie W2, Etres_Supremes W4, Resume W4) ; Sommaire W8 ;
+  BIBLE BUILD B3. Tertiaires reportees en passe 2.
+- PROCHAIN (THREAD 9) : NouveauMonde/ - Re-Estize, Baharuth, Theocratie Slane, E-Rantel,
+  lizardmen ; survol Argland, Roble. VF reservees : Six Grands Dieux, Huit Rois Cupides,
+  Treize Heros. Chiffres natifs sourcees seulement (Echelle_Puissance W2, regle de page).
+  Chantier Arts Martiaux (VF) : thread dedie, hors lot. Fetch au demarrage : Sommaire W8,
+  ce journal (sections thread 8 et Etat du chantier), Systemes/Systemes_Natifs,
+  Echelle_Puissance, Resume. BIBLE B3 en projet.
+- THREAD 10 : roadmaps (passe 2, boucle serree par arc ; Seances/ et Pantheon en sources),
+  Tertiaires au fil des roadmaps ; puis fiches d'arc (passe 3), CODEX V1, setup.
 
 ## Rappels de process
 - CADRAGE DE TON (decision worldbuilder, thread 2 - a graver en ANNEXE_STYLE au CODEX V1) :
@@ -726,7 +813,7 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   registre (aucune libido ni curiosite sexuelle).
 - Heresie d'Azoth : PREMISSE de perso, EVENEMENT de trajectoire. Rien dans la fiche noyau.
 - Fiche Azoth : branche neutre Personnages/, plafond prota 20k caracteres.
-- Prochains jalons : seances restantes + BIBLE B3 (thread 8) -> NouveauMonde (thread 9)
-  -> roadmaps. Sommaire W7 : livre au thread 7.
+- Prochains jalons : NouveauMonde (thread 9) -> roadmaps (thread 10). Sommaire W8 :
+  livre au thread 8.
 
 FIN_WIKI__IMPLICATIONS

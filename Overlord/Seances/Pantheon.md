@@ -1,14 +1,18 @@
 # Pantheon - les createurs, pensee de base et pensee profonde
 
-- version : W1
-- statut : NON INDEXEE au Sommaire, jamais fetchee en narration. Porte le futur (la
-  pensee profonde est ce qu'Azoth rapporte de la Tresorerie) : statut roadmap.
+- version : W2
+- statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut
+  roadmap. Porte le futur (la pensee profonde est ce qu'Azoth rapporte de la
+  Tresorerie).
+
+Amendements W2 (thread 8) : renvois {Perso}_S.md (homonymie) ; statut indexee, toujours
+interdite en narration.
 
 Deux etages par createur : la PENSEE DE BASE, ce que le setting laisse a sa creature et
 ce qu'Azoth preche au jour 0 (corpus de huit : cf. Nazarick/Theologie_Azoth.md) ; la
 PENSEE PROFONDE, ce qu'Azoth decouvre a la Tresorerie et livre aux sermons 2-3 et
 suivants. Les contradictions frontales entre pensees profondes sont la matiere de la
-descente (Seances/Ainz.md, seance 2). Fiches des creations : cf. Personnages/.
+descente (Seances/Ainz_S.md, seance 2). Fiches des creations : cf. Personnages/.
 
 ## Momonga (Suzuki Satoru)
 - Race : Overlord. Creation : Pandora's Actor.

@@ -1,7 +1,9 @@
 # Nazarick - Regles internes et metaphysique
 
-Version : W2. Univers : Overlord. Emplacement cible : Overlord/Nazarick/Regles_Internes.md.
+Version : W3. Univers : Overlord. Emplacement cible : Overlord/Nazarick/Regles_Internes.md.
 Sources : LN Overlord (canon de reference) + decisions worldbuilder balisees. Etat : jour 0.
+Amendements W3 (thread 8) : frictions - la viande humaine chez les Pleiades (decision
+worldbuilder).
 Amendements W2 (thread 6) : metaphysique des PNJ reformulee (deux horloges, corps neufs,
 ages approximatifs) ; autonomie au jour 0 soldee.
 
@@ -56,6 +58,9 @@ ages approximatifs) ; autonomie au jour 0 soldee.
 ## Frictions connues au jour 0
 - Preseances entre Gardiens : courtoises mais reelles.
 - La faveur du Supreme regnant est l'etalon de toutes les rivalites.
+- Parmi les Pleiades, manger de la viande humaine est mal vu : malaise du a la nature
+  humaine d'Aureole, qui dit pourtant ne pas se voir comme les autres humains et ne pas
+  s'en soucier ; Entoma, Solution et Lupusregina en raffolent (decision worldbuilder).
 - Aucune friction ne remet en cause l'axiome de loyaute.
 
 ## Renvois

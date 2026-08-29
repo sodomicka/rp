@@ -1,10 +1,13 @@
 # Les 41 Etres Supremes (guilde Ainz Ooal Gown)
 
-Version : W3. Univers : Overlord. Emplacement cible : Overlord/Nazarick/Etres_Supremes.md.
+Version : W4. Univers : Overlord. Emplacement cible : Overlord/Nazarick/Etres_Supremes.md.
 Sources : LN Overlord (canon de reference) + decisions worldbuilder balisees. Etat : jour 0.
 Amendements W2 (thread 6) : neuf d'origine, rang de la guilde, createurs ajoutes
 (Nishikienrai, Wish III, Yamaiko solde, Beast King Mekongawa, Garnet, Genjiro, Blue Planet,
 Whitebrim, Coup De Grace) ; tous les [INCERTAIN] soldes.
+Amendements W4 (thread 8) : races des createurs posees au thread 7 (decision
+worldbuilder ; canon muet sauf mention) ; Genjiro complete ; Punitto Moe et Ankoro Mocchi
+Mochi ajoutes (utiles au focus : corpus preche, trois femmes de la guilde).
 Amendements W3 (thread 7) : Wish III, Archange bienveillant ; position du personnel au
 transfert (decision worldbuilder).
 
@@ -26,16 +29,19 @@ transfert (decision worldbuilder).
 ## Membres notables et leurs creations
 - Momonga : maitre de guilde, Overlord magic caster, l'un des neuf d'origine. Createur de
   Pandora's Actor. Detail : cf. Personnages/Ainz.md.
-- Touch Me : paladin, Champion du Monde (World Champion). Fondateur et chef du clan
+- Touch Me : paladin, Champion du Monde (World Champion) ; race jamais montree - toujours
+  en armure blanche integrale, inconnue meme de Nazarick. Fondateur et chef du clan
   d'origine. Createur de Sebas Tian.
 - Nishikienrai : ninja demi-golem, l'un des neuf d'origine ; decouvreur du Tombeau.
   Createur de Narberal Gamma.
 - Wish III : l'un des neuf d'origine ; un Archange, bienveillant - rien de plus n'est
   connu de lui a Nazarick. Createur d'Aureole Omega et de Victim [DIVERGENCE RP -
   canon muet].
-- Warrior Takemikazuchi : guerrier au katana, l'un des neuf d'origine. Createur de Cocytus.
-- Ulbert Alain Odle : magic caster oriente destruction, obsede par le Mal absolu.
-  Createur de Demiurge ET d'Azoth [DIVERGENCE RP pour le second].
+- Warrior Takemikazuchi : Oni, guerrier au katana, forgeron de la guilde, l'un des neuf
+  d'origine. Createur de Cocytus.
+- Ulbert Alain Odle : demon a tete de bouc, Desastre Mondial (World Disaster), magic
+  caster oriente destruction, obsede par le Mal absolu. Createur de Demiurge ET d'Azoth
+  [DIVERGENCE RP pour le second].
 - Peroroncino : archer oiseau, otaku assume. Createur de Shalltear Bloodfallen.
 - Bukubukuchagama : slime rose, doubleuse professionnelle, soeur ainee de Peroroncino.
   Creatrice d'Aura et Mare.
@@ -44,10 +50,15 @@ transfert (decision worldbuilder).
 - Herohero : vase noir ancien (elder black ooze). Createur de Solution Epsilon ;
   co-concepteur des servantes homoncules. Dernier membre a se connecter avant la fin,
   hormis Momonga.
-- Yamaiko : creatrice de Yuri Alpha.
-- Beast King Mekongawa : createur de Lupusregina Beta.
-- Garnet : CZ2128 Delta ; securites de la Tresorerie avec Tabula.
-- Genjiro : createur d'Entoma Vasilissa Zeta ; tenait l'inventaire de la Tresorerie.
+- Yamaiko : Cyborg ; l'une des trois femmes de la guilde. Creatrice de Yuri Alpha.
+- Punitto Moe : Illithid (Flagelleur mental), le stratege de la guilde - Momonga tient
+  de lui sa doctrine de combat. Aucune creation a Nazarick.
+- Beast King Mekongawa : Lion-garou. Createur de Lupusregina Beta.
+- Garnet : Vedalken. Createur de CZ2128 Delta ; securites de la Tresorerie avec Tabula.
+- Genjiro : Aranite (buste de femme, corps d'araignee) - un homme a l'avatar feminin.
+  Createur d'Entoma Vasilissa Zeta ; tenait l'inventaire de la Tresorerie.
+- Ankoro Mocchi Mochi : alraune (plante-femme) ; l'une des trois femmes de la guilde,
+  avec Bukubukuchagama et Yamaiko ; la soigneuse. Aucune creation a Nazarick.
 - Blue Planet : amoureux des paysages ; artisan de la nature et du ciel artificiel du
   6e etage.
 - Whitebrim (chef de projet) et Coup De Grace : concepteurs des servantes homoncules,

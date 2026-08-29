@@ -1,14 +1,17 @@
 # Seances - Demiurge
 
-- version : W1
-- statut : NON INDEXEE au Sommaire, jamais fetchee en narration. Porte le futur : meme
-  statut que les roadmaps. Source de build pour les roadmaps et les fiches d'arc.
+- version : W2
+- statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut
+  roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
+
+Amendements W2 (thread 8) : renvois {Perso}_S.md (homonymie) ; statut indexee, toujours
+interdite en narration.
 
 Trame commune : les trois etapes de la foi d'Azoth - BERGER SINCERE, BERGER PERDU,
 BERGER MARTYR. Ancrage : le compte des sermons d'Azoth depuis le jour 0. Dates : fixees
 aux roadmaps. Lien au jour 0 et evolution : cf. Personnages/Azoth_relations_Proches.md.
 Noyau : cf. Personnages/Demiurge.md. Seances d'Ainz et d'Albedo, qui s'intercalent :
-cf. Seances/Ainz.md, Seances/Albedo.md.
+cf. Seances/Ainz_S.md, Seances/Albedo_S.md.
 
 ## Gabarit
 - Personnage : Demiurge, Gardien du 7e, jumeau d'Azoth, archdemon cree par Ulbert.
@@ -45,7 +48,7 @@ cf. Seances/Ainz.md, Seances/Albedo.md.
   Demiurge se contente de croire.
 
 ### Seance 2 - l'Incube et la Succube
-- Ancrage : 2e sermon (Seances/Albedo.md, seance 1, suit immediatement).
+- Ancrage : 2e sermon (Seances/Albedo_S.md, seance 1, suit immediatement).
 - Battements :
   1. Demiurge voit l'Incube et la Succube se devorer du regard.
   2. Il part en glissant a son frere qu'il ne comprendra jamais - mais puisque leur
@@ -72,7 +75,7 @@ cf. Seances/Ainz.md, Seances/Albedo.md.
 - Ce qu'Azoth decouvre : que son frere le croit fou par l'intensite des recits - pas par
   leurs incoherences, qu'il pense inexistantes - et non heretique. C'est ce qui le sauve.
 - Verrou : l'erreur de lecture de Demiurge, paravent involontaire. Et c'est Demiurge
-  lui-meme qui l'envoie vers le Seigneur (Seances/Ainz.md, seance 2).
+  lui-meme qui l'envoie vers le Seigneur (Seances/Ainz_S.md, seance 2).
 
 ## Ere du berger martyr
 ### Seance 5 - le grand frere

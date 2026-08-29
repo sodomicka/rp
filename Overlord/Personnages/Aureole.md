@@ -1,6 +1,9 @@
 # Aureole Omega
 
-- version : W1
+- version : W2
+
+Amendements W2 (thread 8) : ne se voit pas comme les autres humains ; la viande humaine ne
+la derange pas (Psychologie).
 
 ## Identite
 - Nom : Aureole Omega. Titres : gardienne de zone du Sanctuaire des Cerisiers (8e etage) ;
@@ -37,6 +40,9 @@
 - Devotion entiere aux 41 et a Momonga ; paroissienne de l'Eglise Impie.
 - Aucune libido ni curiosite sexuelle : le preche du Cardinal est ecoute pour la parole
   des 41, sa luxure ignoree par pure indifference.
+- Ne se voit pas comme les autres humains : que ses ainees mangent de la viande humaine
+  ne la derange pas, dit-elle - le malaise est chez elles, pas chez elle (decision
+  worldbuilder ; cf. Nazarick/Regles_Internes.md, frictions).
 
 ## Apparence (d'apres le visuel de reference, garde en thread)
 - Jeune femme de 20 ans, 154 cm, menue ; peau tres pale ; levres sombres, gris-mauve ;

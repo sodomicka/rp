@@ -1,14 +1,17 @@
 # Seances - Albedo
 
-- version : W1
-- statut : NON INDEXEE au Sommaire, jamais fetchee en narration. Porte le futur : meme
-  statut que les roadmaps. Source de build pour les roadmaps et les fiches d'arc.
+- version : W2
+- statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut
+  roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
+
+Amendements W2 (thread 8) : renvois {Perso}_S.md (homonymie) ; statut indexee, toujours
+interdite en narration.
 
 Trame commune : les trois etapes de la foi d'Azoth - BERGER SINCERE, BERGER PERDU,
 BERGER MARTYR. Ancrage de chaque seance : le compte des sermons d'Azoth depuis le jour 0.
 Dates : fixees aux roadmaps. Etat du lien au jour 0 et evolution : cf.
 Personnages/Azoth_relations_Proches.md. Noyau : cf. Personnages/Albedo.md. Seances
-d'Ainz, qui s'intercalent : cf. Seances/Ainz.md.
+d'Ainz, qui s'intercalent : cf. Seances/Ainz_S.md.
 
 ## Gabarit
 - Personnage : Albedo, Regente des Gardiens, succube, amante principale d'Azoth.
@@ -25,7 +28,7 @@ d'Ainz, qui s'intercalent : cf. Seances/Ainz.md.
   une retouche dont elle ignore tout (Tchekhov BIBLE SB8 - ressource de ces seances,
   jamais nommee devant elle).
 - Lien au theme : Albedo EST le destin vole. Sans elle, Azoth decouvre la verite ; avec
-  elle, il ne l'aurait pas cherchee (Seances/Ainz.md, seance 3). Chaque seance la
+  elle, il ne l'aurait pas cherchee (Seances/Ainz_S.md, seance 3). Chaque seance la
   rapproche de lui et l'eloigne en amour d'Ainz.
 - Verrou d'ensemble : elle ne doit jamais savoir - ni le blaspheme, ni la retouche. Face
   au blaspheme, Albedo execute sans sommation (Nazarick/Theologie_Azoth.md).
@@ -33,7 +36,7 @@ d'Ainz, qui s'intercalent : cf. Seances/Ainz.md.
 ## Ere du berger sincere
 ### Seance 1 - la conquete des passions
 - Ancrage : juste apres le 2e sermon, alors qu'Azoth etudie les textes plus en profondeur
-  (apres Seances/Ainz.md, seance 1).
+  (apres Seances/Ainz_S.md, seance 1).
 - Battements :
   1. Conquete : ils se plaquent mutuellement contre les murs, se mordent, se griffent,
      se deshabillent.
@@ -69,7 +72,7 @@ d'Ainz, qui s'intercalent : cf. Seances/Ainz.md.
 - Ce qu'Azoth decouvre sur lui-meme : qu'il a peur pour elle - les questions qu'il s'est
   posees peuvent la perdre.
 - Verrou : les questions qu'elle ne doit pas se poser. Il les tue en la blessant.
-- Entre cette seance et la suivante : Seances/Ainz.md, seances 2 et 3 (la confession du
+- Entre cette seance et la suivante : Seances/Ainz_S.md, seances 2 et 3 (la confession du
   blaspheme, le choix, l'aveu de la retouche). Azoth sait desormais.
 
 ## Ere du berger martyr
@@ -85,7 +88,7 @@ d'Ainz, qui s'intercalent : cf. Seances/Ainz.md.
 - Ce qu'Azoth decouvre sur lui-meme : qu'il ne peut plus taire l'attache, et qu'il ne
   peut pas y renoncer.
 - Ce qu'Azoth decouvre sur son dieu : ce qu'il lui dit d'Ainz est un paravent - la crise
-  "reglee" est le secret partage (Seances/Ainz.md, seance 3).
+  "reglee" est le secret partage (Seances/Ainz_S.md, seance 3).
 - Verrou : la seconde de doute. Elle part, mais elle a doute.
 
 ### Seances 5 et suivantes - les retours

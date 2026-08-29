@@ -1,6 +1,8 @@
 # Azoth, le Cardinal Demoniaque
 
-- version : W4
+- version : W5
+
+Amendements W5 (thread 8) : cuisine (Gouts) ; polyvalence du sommet (Capacites).
 
 Amendements W4 (thread 7) : angoisse de l'abandon (Psychologie) ; Albedo Regente des
 Gardiens ; renvois de relations limites a la page Proches (autres cercles en passe 2).
@@ -33,7 +35,7 @@ pages relations par cercles.
   l'elan vient toujours du demandeur. Coeur du personnage : faire accepter leurs peches
   aux siens et etre leur exutoire.
 - Gouts : precher ; guider ceux qui en ont besoin ; le sexe quand on le lui propose ;
-  la recherche theologique.
+  la recherche theologique ; cuisiner.
 - Seducteur ne, manipulateur sensuel ; use de son charme aussi naturellement que de sa magie.
 - Egal intellectuel de Demiurge ; son oppose moral, et son complice de fait.
 - Esprit de stratege : l'egal de Demiurge en tout sauf en luxure (decision worldbuilder) -
@@ -96,6 +98,9 @@ pages relations par cercles.
   de Demiurge. Arme non magique, au meme titre que le charme.
 - Defenses : esprit inalterable par nature (hors Passion d'Incube) ; tenue conferant
   resistance au feu et a la glace.
+- Polyvalence (decision worldbuilder) : au sommet de Nazarick avec Albedo, Demiurge et
+  Pandora's Actor pour la polyvalence, pas seulement la puissance - cuisinier ; apprend
+  une technique sur manuel, informatique comprise.
 
 ### Sorts signatures
 | Sort | Ecole | Rang | Effet |

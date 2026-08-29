@@ -1,6 +1,8 @@
 # Solution Epsilon
 
-- version : W1
+- version : W2
+
+Amendements W2 (thread 8) : esprit de genie, echecs et shogi (Psychologie).
 
 ## Identite
 - Nom : Solution Epsilon. Cinquieme soeur des Pleiades. Epithete de fiche : la Cage de
@@ -31,6 +33,8 @@
 - Manieres de dame, voix douce, cruaute dessous. Aucune pitie, aucune hate.
 - "Compagne de table" de Shalltear, qui partage son gout pour la proie qui souffre.
 - Source d'exasperation constante pour Yuri, aux cotes de Lupusregina.
+- Esprit de genie : joueuse d'echecs et de shogi, de force a affronter le Cardinal
+  (decision worldbuilder).
 - Nature et peche (au sens du RP) : le seul plaisir qu'elle connaisse est celui de la
   proie qui se debat en elle ; son corps de slime, elle ne l'a jamais explore autrement
   que comme une cage (decision worldbuilder).
