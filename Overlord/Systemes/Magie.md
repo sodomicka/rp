@@ -1,17 +1,6 @@
 # Magie de rangs (tier magic)
 
-- version : W4
-
-Amendements W4 (thread 9) : qui soigne quoi - l'Energie Negative vaut pour les demons
-autant que pour les morts-vivants, le sacre pour tout le vivant, les etres artificiels pour l'Alteration ; LES TROIS BRANCHES (arcane, divine, spirituelle) deviennent
-structurantes, l'alternative canon est supprimee ; ventilation des cinq ecoles par branche ;
-la foi accorde mais ne maintient pas ; dispersion non penalisante ; le divin de Nazarick
-s'adresse aux 41 ; section "Categories de lanceurs" (W3) remplacee.
-
-Amendements W3 (thread 6) : definitions des cinq ecoles ; rang 11 = combo transcendant les
-ecoles ; Energie Negative ; Chevreaux ; seuil et mecanique canon de la grande magie ;
-VF "la Mort nous fauchera Tous !" ; ventilations actees des signatures d'Ainz ; Zesshi
-retiree (guerriere, pas lanceuse).
+- version : W5
 
 ## Origine et nature
 - Systeme magique dominant du Nouveau Monde et d'Yggdrasil.
@@ -20,7 +9,7 @@ retiree (guerriere, pas lanceuse).
 - Sorts organises en rangs 1 a 10, plus la grande magie (rang 11).
 - Un sort se lance instantanement ou presque ; il consomme des MP.
 
-## [DIVERGENCE RP] Cadre des ecoles (refonte thread 2, completee threads 6 et 9)
+## [DIVERGENCE RP] Cadre des ecoles
 Decision worldbuilder : abandon de l'alignement D&D 5e initial, listes D&D caduques. Regles :
 - Cinq ecoles, reprises de Skyrim, definies ainsi :
   - Destruction : les degats - feu, glace, foudre, et degats necromantiques non types.
@@ -33,7 +22,7 @@ Decision worldbuilder : abandon de l'alignement D&D 5e initial, listes D&D caduq
 - ENERGIE NEGATIVE : l'equivalent du sacre pour les morts. C'est un vecteur, pas une ecole :
   en soin ou protection, le sort est de Guerison ; en degats, il est de Destruction. Le
   vecteur traverse donc deux branches selon l'usage (cf. section suivante).
-- QUI SOIGNE QUOI [DIVERGENCE RP - precision thread 9] : l'Energie Negative soigne les
+- QUI SOIGNE QUOI [DIVERGENCE RP] : l'Energie Negative soigne les
   DEMONS et les MORTS-VIVANTS. Le sacre soigne tout le reste - le vivant de toute race, et
   non les seuls humains. Reciproquement, chacun agit sur l'autre camp comme une Destruction :
   le sacre brule le demon et le mort-vivant, l'Energie Negative ronge le vivant.
@@ -54,7 +43,7 @@ Decision worldbuilder : abandon de l'alignement D&D 5e initial, listes D&D caduq
   Ventilations actees pour les signatures d'Ainz (ci-dessous), de Shalltear, d'Azoth, de
   Mare et des Pleiades : cf. Personnages/.
 
-## [DIVERGENCE RP] Les trois branches (thread 9)
+## [DIVERGENCE RP] Les trois branches
 Decision worldbuilder. Le canon distingue quatre systemes de magie ; le quatrieme
 (alternative : benedictions, paladins, chevaliers maudits) est SUPPRIME. Les trois autres
 sont maintenus et deviennent structurants : chaque ecole appartient a une branche.
@@ -100,7 +89,8 @@ Regles :
 - Rang 5 : seuil du domaine des heros.
 - Rang 6 : sommet humain connu. Fluder Paradyne (Empire) est le seul humain vivant a ce rang.
 - Rang 7+ : hors de portee des natifs humains. Exceptions non humaines rares (Seigneurs
-  Dragons, morts-vivants anciens).
+  Dragons, morts-vivants anciens). Zesshi Zetsumei, guerriere et pretresse (fiche
+  officielle vol. 16), n'a aucun rang 7 atteste : hors de cette liste.
 - Rang 10 (aberrant) et grande magie (rang 11) : calibre Yggdrasil uniquement. Aucun natif connu.
 - Consequence narrative : un lanceur de rang 7+ est un evenement geopolitique a lui seul.
 

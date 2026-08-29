@@ -1,11 +1,8 @@
 # Echelle de puissance
 
-Version : W2. Univers : Overlord. Emplacement cible : Overlord/Systemes/Echelle_Puissance.md.
+Version : W3. Univers : Overlord. Emplacement cible : Overlord/Systemes/Echelle_Puissance.md.
 Sources : LN Overlord (fiches officielles, comparatifs de l'auteur) + decisions worldbuilder
 balisees.
-Amendements W2 (thread 6) : echelle interne de Nazarick (decision thread 4) ; niveaux des
-Pleiades soldes ; natifs sans valeur officielle retires (lot NouveauMonde) ; regle
-zero-[INCERTAIN].
 
 ## Principe
 - Echelle unique : les niveaux d'Yggdrasil (1-100) mesurent aussi les natifs.
@@ -18,13 +15,19 @@ zero-[INCERTAIN].
 - Niv. 10-20 : veterans, aventuriers or a mithril, elites militaires.
 - Niv. 20-30 : sommet humain ordinaire. Adamantite, champions nationaux. Ancre : Gazef
   Stronoff ~29, sommet atteignable par l'effort et le talent reunis (comparatif de
-  l'auteur : Gazef sous Hamsuke, dont le niveau canon est ~30).
-- Niv. 30-40 : domaine des heros. Legendes vivantes.
+  l'auteur : Gazef sous le Roi Sage de la Foret, estime ~30).
+- Niv. 30-40 : domaine des heros. Legendes vivantes. Les Trois Monstres de la foret de
+  Tob - le Roi Sage, Guu, Ryraryus - se tiennent au seuil de cette bande : ~30, estimation
+  (decision worldbuilder ; cf. Personnages/Hamsuke.md, NouveauMonde/E-Rantel.md).
 - Niv. 40-60 : anomalies. Monstres anciens, demi-dieux locaux.
 - Niv. 60+ : quasi exclusivement lie a Yggdrasil (Joueurs, leurs creations, leurs reliquats).
+  Ancre native : Zesshi Zetsumei, 88 (somme de la fiche officielle, LN vol. 16), descendante
+  des dieux et Siege hors rang de la Theocratie - la seule native chiffree a cette hauteur ;
+  sous les Gardiens de Nazarick, au-dessus de toute Pleiade (cf. Personnages/Zesshi.md).
 - Niv. 100 : calibre Etres Supremes. Aucun natif connu.
-- Entites natives notables (Zesshi, les Treize Heros, les Seigneurs Dragons) : chiffrees a
-  leur fiche, lot NouveauMonde.
+- Les deux ancres natives sourcees : Gazef ~29 (sommet humain ordinaire) et Zesshi 88
+  (sang des dieux). Les Treize Heros et les Seigneurs Dragons restent sans chiffre : non
+  inscrits (regle de page).
 
 ## Nazarick (reference interne)
 - Niveau 100 : Shalltear, Cocytus, Aura, Mare, Demiurge, Azoth [DIVERGENCE RP], Albedo,

@@ -1,11 +1,7 @@
 # Nazarick - Regles internes et metaphysique
 
-Version : W3. Univers : Overlord. Emplacement cible : Overlord/Nazarick/Regles_Internes.md.
+Version : W4. Univers : Overlord. Emplacement cible : Overlord/Nazarick/Regles_Internes.md.
 Sources : LN Overlord (canon de reference) + decisions worldbuilder balisees. Etat : jour 0.
-Amendements W3 (thread 8) : frictions - la viande humaine chez les Pleiades (decision
-worldbuilder).
-Amendements W2 (thread 6) : metaphysique des PNJ reformulee (deux horloges, corps neufs,
-ages approximatifs) ; autonomie au jour 0 soldee.
 
 ## Loyaute et culte des 41
 - Axiome fondateur : chaque PNJ voue une loyaute absolue aux 41 Etres Supremes.
@@ -32,6 +28,9 @@ ages approximatifs) ; autonomie au jour 0 soldee.
 - CORPS NEUFS AU JOUR 0, libido comprise : toutes les experiences programmees - sexuelles
   incluses - sont des souvenirs vecus comme reels, mais aucun corps n'a rien vecu avant le
   transfert. C'est le passage au Nouveau Monde qui rend tout reel. Vaut pour TOUS les PNJ.
+- CORPS FECONDS : les creations des 41 sont fecondes, succube, incube et vampire compris ;
+  la fecondite d'Ainz, mort-vivant, reste ouverte (decision worldbuilder). Fait du monde,
+  pas un savoir meta : chacun le sait de son propre corps.
 - GARDE-FOU : cette nature programmee est INDECOUVRABLE en jeu par des moyens normaux.
   Les souvenirs sont indiscernables du vecu. Seules voies d'acces : deduction pure,
   ou revelation par un Supreme.
