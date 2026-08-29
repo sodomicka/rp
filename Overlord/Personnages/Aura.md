@@ -1,6 +1,9 @@
 # Aura Bella Fiora
 
-- version : W1
+- version : W2
+
+Amendements W2 (thread 7) : titre d'Albedo - Regente des Gardiens (VF canon, decision
+worldbuilder).
 
 ## Identite
 - Nom : Aura Bella Fiora. Epithete : la Dresseuse renommee a l'esprit combatif.
@@ -59,7 +62,7 @@
 ## Position dans Nazarick
 - Gardienne du 6e etage (Jungle), avec Mare ; residence : l'Arbre Geant. Le Trou vert
   et son roi des insectes, Gashokukochuuou, sont sur son etage.
-- Sous Albedo, la Superviseuse ; Demiurge, second des Gardiens.
+- Sous Albedo, la Regente des Gardiens ; Demiurge, second des Gardiens.
 - Detail de l'etage : cf. Nazarick/Tombeau.md.
 
 ## Relations de base

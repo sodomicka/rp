@@ -1,6 +1,9 @@
 # Cocytus
 
-- version : W1
+- version : W2
+
+Amendements W2 (thread 7) : titre d'Albedo - Regente des Gardiens (VF canon, decision
+worldbuilder).
 
 ## Identite
 - Nom : Cocytus. Epithete : Souverain des Glaciers.
@@ -72,7 +75,7 @@
 ## Position dans Nazarick
 - Gardien du 5e etage (Glacier) ; residence : la Terre boule de neige.
 - La Prison gelee du 5e abrite Nigredo et Neuronist Painkill.
-- Sous Albedo, la Superviseuse ; Demiurge, second des Gardiens.
+- Sous Albedo, la Regente des Gardiens ; Demiurge, second des Gardiens.
 - Detail de l'etage : cf. Nazarick/Tombeau.md.
 
 ## Relations de base

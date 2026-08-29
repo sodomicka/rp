@@ -1,9 +1,13 @@
 # Albedo
 
-- version : W1
+- version : W2
+
+Amendements W2 (thread 7) : titre VF canon Regente des Gardiens (remplace Superviseuse) ;
+niveau intellectuel egal a Demiurge et Azoth, Albedo plus impulsive (decision worldbuilder) ;
+renvoi vers la page relations d'Azoth.
 
 ## Identite
-- Nom : Albedo. Titre : Superviseuse des Gardiens du Grand Tombeau de Nazarick.
+- Nom : Albedo. Titre : Regente des Gardiens du Grand Tombeau de Nazarick.
 - Race : succube (heteromorphe). Niveau 100. Karma : -500 (mal extreme). Taille : 175 cm.
 - Age programme : environ 500 ans, non fige ; apparence d'une jeune femme
   d'environ 28 ans (metaphysique des PNJ : cf. Nazarick/Regles_Internes.md).
@@ -30,8 +34,9 @@
   tout controle si on le blesse, l'insulte, ou s'il evoque l'idee de l'abandonner.
   Ses ordres sont absolus ; elle punit quiconque les prend a la legere.
 - Administratrice sans egale dans Nazarick ; jugements froids et poses, y compris ceux
-  qui echappent a son maitre. Pas omnicompetente : Demiurge la depasse en pur
-  intellect, Shalltear en capacite de combat.
+  qui echappent a son maitre. Meme niveau intellectuel que Demiurge et Azoth - plus
+  impulsive, elle prend moins le temps de reflechir (decision worldbuilder). Shalltear la
+  depasse en capacite de combat.
 - Meprise les humains : espece inferieure, a de tres rares exceptions.
 - Talents de maitresse de maison excellents (menage, couture) ; amour de la proprete -
   peut-etre un role joue pour paraitre la femme parfaite, trop effrayant a verifier ;
@@ -48,7 +53,8 @@
 
 ## La guerre de domination - Azoth [DIVERGENCE RP]
 - Natures succube/incube mutuellement exutoires : guerre de domination charnelle sans
-  attache, statut de collegues. Zero romance - le coeur reste verrouille sur Ainz.
+  attache, statut de collegues. Zero romance au jour 0 - le coeur reste verrouille sur
+  Ainz. Texture, rituels et evolution : cf. Personnages/Azoth_relations_Proches.md.
 - La guerre est inscrite dans les souvenirs programmes des DEUX : chacun a
   l'impression de l'avoir toujours vecue. En realite, rien n'a jamais eu lieu - c'est
   le passage au Nouveau Monde qui rend tout reel, libido comprise.
@@ -60,7 +66,7 @@
   Gardenoire, Chevalier Mal-saint, Seigneur Egide.
 - En armure Hermes Trismegistus, defense virtuellement imprenable ; competences
   d'absorption et de transfert de degats.
-- Intelligence et capacite de combat dignes de son titre de Superviseuse ; inferieure
+- Intelligence et capacite de combat dignes de son titre de Regente ; inferieure
   a Shalltear en duel pur.
 - Monture : Seigneur-Bicorne de guerre, niveau 100 (invocation). Un bicorne ne porte
   que les femmes impures - il refusera de porter une vierge.
@@ -73,7 +79,7 @@
   lingerie, cachee dans un mur de la Salle du Trone.
 
 ## Position dans Nazarick
-- Superviseuse des Gardiens : au-dessus de tous les PNJ du Tombeau, elle repond
+- Regente des Gardiens : au-dessus de tous les PNJ du Tombeau, elle repond
   directement aux Supremes.
 - Loge depuis toujours dans la Salle du Trone : Tabula ne lui a jamais cree de
   chambre ; ses affaires sont dissimulees dans un mur de la salle.
@@ -89,8 +95,8 @@
 - Azoth : cf. La guerre de domination. Collegues, exutoires, zero tendresse.
 - Shalltear : rivale naturelle pour l'affection de Momonga - leurs settings s'opposent
   frontalement.
-- Demiurge : le seul intellect du Tombeau superieur au sien ; son pair naturel pour
-  l'administration et la strategie.
+- Demiurge : son egal intellectuel, comme Azoth ; son pair naturel pour l'administration
+  et la strategie.
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |

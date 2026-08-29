@@ -111,6 +111,9 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
     Einherjarl (avec un L, decision worldbuilder) ; Grand Atrium des Cadavres de Cire.
   - Confirmees (propositions MJ validees thread 3) : arme de guilde (guild weapon) ;
     objet payant (cash item).
+- Fournies par worldbuilder (thread 7) : Regente des Gardiens (Guardian Overseer ; VF
+  canon, REMPLACE "Superviseuse des Gardiens" partout - propage thread 7) ; Regente /
+  Cardinal / Succube / Incube (adresses Azoth-Albedo) ; Seigneur Momonga, Seigneur Ainz.
 - [VF A FOURNIR] : noms des Arts Martiaux -> CHANTIER EN THREAD DEDIE (decision
   worldbuilder) ; classes de Demiurge "Chaos" et "Prince of Darkness" (si un jour
   nommees en fiche) ; autres au fil des lots.
@@ -142,6 +145,11 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   thread 2 evoquait S3E12 - a reconfirmer sur sa copie, non bloquant.
 - [SOLDE] Azoth : hierarchie 9e etage formalisee dans Organigramme.md (W1) ; a reverifier
   seulement en relecture croisee de cloture de Passe 2.
+- (thread 7) Momonga a-t-il lu le setting d'Azoth (le texte d'Ulbert) ? Non tranche, non
+  bloquant - matiere de la seance Momonga.
+- (thread 7, a trancher au B3) Intensite de foi : BIBLE SB0 dit Azoth et Albedo a la meme
+  intensite ; Theologie_Azoth W1 dit Azoth "le plus intense dans la foi". Lecture MJ :
+  les deux plus intenses, a egalite - sauf si Azoth prime (worldbuilder).
 
 ## Decisions actees en cloture de thread 1
 - Aureole Omega : egale de Sebas, tous deux directement sous Azoth. Recluse au Sanctuaire
@@ -587,6 +595,82 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   de depot : le Sanctuaire) ; l'Anneau ne teleporte pas dans le Sanctuaire, il depose a
   distance ; les Avatara attaquent quiconque entre au Mausolee AVEC l'Anneau.
 
+## Decisions actees thread 7 (relations Proches, Theologie, Seances, Pantheon)
+- LIVRE : Personnages/Azoth_relations_Proches.md W1 ; Nazarick/Theologie_Azoth.md W1 ;
+  Seances/Ainz.md, Albedo.md, Demiurge.md, Lieutenants.md, Pantheon.md (W1, hors index) ;
+  propagation - Albedo W2, Ainz W2, Demiurge W2, Aura W2, Mare W2, Cocytus W2, Azoth W4,
+  Organigramme W3, Resume W3, Etres_Supremes W3 ; Sommaire W7. Uploads groupes.
+- LOT 1 REDUIT (decision worldbuilder) : une seule page relations, Proches (Momonga,
+  Demiurge, Albedo). Lieutenants, Pleiades, Gardiens, Tertiaires : PASSE 2, derivees des
+  roadmaps et des seances. Victim en Tertiaires ; Gargantua jamais. Azoth W4 : renvois
+  limites a Proches.
+- EVOLUTION DES LIENS POSEE DES LA GENESE dans les pages relations (decision
+  worldbuilder, remplace "vide a la genese" pour ces pages) : adresses par etape
+  (Seigneur Momonga -> Seigneur Ainz -> Ainz / mon ami avec tutoiement une fois confidents
+  -> Satoru une seule fois, repris), Momonga a l'Eglise une fois confident, Albedo :
+  attachement malgre elle -> tiraillement -> Azoth amoureux. Vouvoiement au jour 0.
+- PROCHES - decisions : Momonga ne frequente pas l'Eglise au jour 0 ; Albedo et Demiurge a
+  chaque office ; guerre Azoth/Albedo = sexe, seduction, domination, reguliere jamais
+  programmee, toujours dans la chambre des desirs, les deux affames ; Demiurge sait et s'en
+  fout, s'en amuse sans blasphemer ; angoisse de l'abandon partagee, devinee, jamais
+  nommee (Azoth W4, Psychologie) ; "romance" = registre, coeur verrouille au jour 0.
+- NIVEAU INTELLECTUEL : Demiurge, Azoth, Albedo au meme niveau ; Albedo impulsive, prend
+  moins le temps de reflechir (Albedo W2, Demiurge W2, Azoth W4).
+- THEOLOGIE (Theologie_Azoth W1, decisions worldbuilder) : corpus de HUIT (Ulbert, Touch
+  Me, Punitto Moe, Peroroncino, Tabula, Takemikazuchi, Bukubukuchagama, Herohero ;
+  Yamaiko et Nishikienrai pas necessaires) ; Momonga preche sans paroles precises comme
+  le rassembleur qui incarne seul les 41 pensees unifiees ; les 40 absents = divinites
+  indisponibles vivant dans le coeur de ceux a qui ils manquent, priere pour leur retour ;
+  sermon a tous, on vient voir Azoth apres (guidance ou vraie seance) ; confession
+  secret absolu sauf atteinte a Nazarick -> Momonga, a l'insu du confesse ; LE BERGER :
+  remet l'adepte perdu dans le droit chemin par une vraie remise en question, la ou
+  Demiurge et Albedo executent sans sommation ; hors corpus, chaque creature porte la
+  pensee superficielle de son createur (setting).
+- TRAJECTOIRE THEOLOGIQUE (gravee en Seances/Ainz.md ; jamais en page indexee) :
+  recitation machinale avant le transfert -> preche sincere qui revele la superficialite
+  du corpus -> Tresorerie sur autorisation d'Ainz (poussee par Aureole) -> paroles vraies
+  inconciliables -> folie, blaspheme accepte -> confession a Ainz (dieu faillible, plus
+  d'outil admin) -> choix de vivre en paravent -> aveu de la retouche (destin vole).
+- TROIS ETAPES DE LA FOI (theme grave, a porter en BIBLE B3 SB0 et en ANNEXE_STYLE au
+  CODEX V1) : BERGER SINCERE, BERGER PERDU, BERGER MARTYR. Trame commune a toutes les
+  seances ; ancrage = compte des sermons depuis le jour 0.
+- SEANCES - DECOUPAGE (decision worldbuilder) : trois fiches personnelles (Ainz, Albedo,
+  Demiurge), puis cercles (Lieutenants livre ; Gardiens, Pleiades, Tertiaires + Pandora's
+  Actor au thread 8) ; une fiche qui deborde devient personnelle. GABARITS DE REFERENCE :
+  structure Sebas pour tout Gardien dont le createur est preche (sauf Shalltear, cas a
+  part) ; structure Yuri pour toutes les Pleiades (base commune, seances persos variables).
+  Doctrine a deux paroles pour les vassaux : servir Nazarick et la volonte d'Ainz, suivre
+  les preceptes de son createur ; concilier est le role du Cardinal.
+- TRANSFERT (decision worldbuilder, Etres_Supremes W3) : au jour 0, Momonga et Albedo dans
+  la Salle du Trone ; Sebas, les six Pleiades, Aureole et les Gardiens d'Etage (Shalltear,
+  Cocytus, Aura, Mare, Demiurge) a l'Eglise Impie aupres d'Azoth (canon : Salle du Trone /
+  etages). A porter en BIBLE B3 (SB3 ligne 2138, SB6 Tombeau).
+- PANTHEON (Seances/Pantheon.md W1, hors index) : pensee de base / pensee profonde /
+  selon Satoru pour 16 createurs. Races posees (worldbuilder) : Wish III Archange ;
+  Takemikazuchi Oni ; Yamaiko Cyborg ; Punitto Moe Illithid ; Mekongawa Lion-garou ;
+  Garnet Vedalken ; Genjiro Aranite (homme, avatar feminin) ; Touch Me jamais montree ;
+  Ankoro Mocchi Mochi alraune (troisieme femme de la guilde, canon). Contradictions
+  frontales = matiere de la descente (Ulbert/Touch Me, Ulbert/Wish III via Aureole,
+  Tabula/Garnet, Takemikazuchi/Punitto Moe-Nishikienrai, Peroroncino/Yamaiko,
+  Herohero/Touch Me). Wish III Archange et Genjiro : Etres_Supremes W3 (Wish III fait) ;
+  Genjiro / Ankoro a completer au B3.
+- PATCHS BIBLE B3 (blocs de remplacement) :
+  - SB0, cadrage : ajouter "Trois etapes de la foi d'Azoth (theme grave) : berger sincere,
+    berger perdu, berger martyr." et, pages wiki rattachees : "Nazarick (5 pages)",
+    "Personnages - 17 fiches + Azoth_relations_Proches (18 pages)".
+  - SB1, ligne "Structure de Nazarick" : "Albedo, Regente des Gardiens" (remplace
+    Superviseuse partout dans la BIBLE).
+  - SB3, ligne 2138 : ajouter "au transfert, personnel a l'Eglise Impie sauf Momonga et
+    Albedo (Salle du Trone) [DIVERGENCE RP]".
+  - SB5, Albedo : "Superviseuse des Gardiens (10e)" -> "Regente des Gardiens (10e)" ;
+    "guerre de domination charnelle avec Azoth, zero romance" -> "guerre de domination
+    charnelle avec Azoth, zero romance au jour 0 (evolution : Azoth_relations_Proches)" ;
+    "meme niveau intellectuel que Demiurge et Azoth, impulsive".
+  - SB5, Azoth : ajouter "angoisse de l'abandon partagee avec Demiurge, jamais nommee".
+  - SB5, Demiurge : "les trois cerveaux au meme niveau".
+  - SB6, Eglise Impie : ajouter "doctrine : cf. WIKI Nazarick/Theologie_Azoth.md".
+  - SB9 : Sommaire W7.
+
 ## Correction de direction (chat, a ne pas propager)
 - Les etages de Nazarick DESCENDENT : le 8e (Victim) est le voisin du DESSUS d'Azoth (9e),
   pas du dessous. Erreur MJ en discussion, aucune page touchee.
@@ -599,19 +683,23 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   Tombeau W2, Etres_Supremes W2, Echelle_Puissance W2, Yggdrasil W2, Azoth W3 ; zero
   [INCERTAIN] hors personnages ; BIBLE BUILD B2 (cadrage thematique + lecture + Tchekhov
   majeur, SB1/SB5/SB6/SB7 refondus, SPEC v8.4) ; Resume W2 ; Sommaire W6.
-- PROCHAIN (THREAD 7) - ouverture de Passe 2, dans cet ordre :
-  1. Azoth_relations_{Proches, Lieutenants, Pleiades, Gardiens, Tertiaires}.md W1 - etat
-     des liens au jour 0, compile depuis les 17 fiches, gabarit SPEC page relations
-     (statut, adresses reciproques, rituels, dynamique, ce que l'autre sait, evolution
-     datee vide a la genese). Indexees au Sommaire W7 (mise a jour ponctuelle).
-  2. THEOLOGIE D'AZOTH : Nazarick/Theologie_Azoth.md W1 - la doctrine de l'Eglise Impie au
-     jour 0, foi intacte. Indexee (le monde tel qu'il est).
-  3. SEANCES : Seances/{Personnage}.md x17 + Seances/Tertiaires.md - le worldbuilder pose
-     les themes en ouverture ; gabarit de seance (cf. cadrage thematique). NON indexees,
-     jamais fetchees en narration (statut roadmap). Regle ferme : Aura et Mare sans
-     registre sexuel ; Aureole hors registre.
-- ENSUITE : BIBLE BUILD B3 (themes graves, Theologie et relations en SB), puis NouveauMonde/
-  (position a confirmer), puis roadmaps / fiches d'arc.
+- FAIT (thread 7) : Azoth_relations_Proches W1 (lot 1 reduit a Proches) ; Theologie_Azoth
+  W1 ; Seances/ Ainz, Albedo, Demiurge, Lieutenants, Pantheon (W1, hors index) ;
+  propagation Regente / niveau intellectuel / angoisse / transfert ; Sommaire W7.
+- PROCHAIN (THREAD 8), dans cet ordre :
+  1. SEANCES RESTANTES : Seances/Gardiens.md (Cocytus, Aura, Mare sur gabarit Sebas ;
+     Shalltear cas a part - la nymphomane, peut devenir personnelle) ;
+     Seances/Pleiades.md (Lupusregina, Narberal, CZ2128, Solution, Entoma sur base Yuri,
+     seances persos variables - cf. formules du thread 2) ; Seances/Pandoras_Actor.md ;
+     Seances/Tertiaires.md. Le MJ rappelle le peche etabli de chacun, le worldbuilder pose
+     les themes. Fetch au demarrage : Sommaire W7, ce journal, Theologie_Azoth,
+     Seances/Lieutenants (gabarits) et Seances/Pantheon.
+  2. BIBLE BUILD B3 : patchs ci-dessus (trois etapes de la foi, Regente, transfert,
+     Theologie et relations en SB), Etres_Supremes W4 (Genjiro, Ankoro), Sommaire W8,
+     Resume si besoin. Trancher : intensite de foi SB0.
+- THREAD 9 : NouveauMonde/ (lot a venir : Re-Estize, Baharuth, Theocratie Slane, E-Rantel,
+  lizardmen ; survol Argland, Roble). Puis roadmaps (passe 2, boucle serree) et fiches
+  d'arc (passe 3), CODEX V1, setup.
 
 ## Rappels de process
 - CADRAGE DE TON (decision worldbuilder, thread 2 - a graver en ANNEXE_STYLE au CODEX V1) :
@@ -638,7 +726,7 @@ Document de TRAVAIL. Jamais fetche en narration. Emplacement cible : Overlord/_I
   registre (aucune libido ni curiosite sexuelle).
 - Heresie d'Azoth : PREMISSE de perso, EVENEMENT de trajectoire. Rien dans la fiche noyau.
 - Fiche Azoth : branche neutre Personnages/, plafond prota 20k caracteres.
-- Prochains jalons : relations + Theologie + Seances (thread 7) -> BIBLE B3 ->
-  NouveauMonde (position a confirmer). Sommaire W6 : livre au thread 6.
+- Prochains jalons : seances restantes + BIBLE B3 (thread 8) -> NouveauMonde (thread 9)
+  -> roadmaps. Sommaire W7 : livre au thread 7.
 
 FIN_WIKI__IMPLICATIONS

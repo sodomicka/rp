@@ -1,6 +1,9 @@
 # Azoth, le Cardinal Demoniaque
 
-- version : W3
+- version : W4
+
+Amendements W4 (thread 7) : angoisse de l'abandon (Psychologie) ; Albedo Regente des
+Gardiens ; renvois de relations limites a la page Proches (autres cercles en passe 2).
 
 Amendements W3 (thread 6) : esprit de stratege (Psychologie, Capacites) ; Position
 synchronisee sur la chaine du 9e reformulee (decision thread 4) ; renvois vers les cinq
@@ -35,7 +38,11 @@ pages relations par cercles.
 - Egal intellectuel de Demiurge ; son oppose moral, et son complice de fait.
 - Esprit de stratege : l'egal de Demiurge en tout sauf en luxure (decision worldbuilder) -
   meme intelligence, meme gout des plans a plusieurs coups, meme lecture des rapports de
-  force. L'un des cerveaux de Nazarick, avec Demiurge, Albedo et Pandora's Actor.
+  force. L'un des cerveaux de Nazarick, avec Demiurge, Albedo et Pandora's Actor ;
+  Demiurge, Albedo et lui au meme niveau (decision worldbuilder).
+- Angoisse de l'abandon, partagee avec Demiurge : leur createur est parti. Azoth s'y
+  refugie dans ses travers et sa foi. Pudique : il la devine chez son jumeau, ne la
+  nommera jamais - Demiurge de meme.
 
 ## Apparence - forme humaine
 - Silhouette de Demiurge : grand, mince, elegant. Taille : 183 cm (les jumeaux font la
@@ -103,7 +110,8 @@ pages relations par cercles.
 ## Position dans Nazarick
 - Maitre du 9e etage et de tout ce qui le concerne : menage, foi, cuisine, services,
   ressources humaines du Tombeau.
-- Superieure directe : Albedo (elle lui DEMANDE du personnel, ordonne pour le reste).
+- Superieure directe : Albedo, Regente des Gardiens (elle lui DEMANDE du personnel,
+  ordonne pour le reste).
   Canal logistique privilegie d'Ainz pour le personnel.
 - En charge directe [DIVERGENCE RP] : les six Pleiades, Yuri Alpha en seconde (formation
   des Six Etoiles au jour 0), et les majordomes - sans passer par Sebas.
@@ -132,11 +140,11 @@ pages relations par cercles.
   d'Ainz ; ne commande pas les Pleiades.
 - Aureole Omega : subordonnee directe de rang egal a Sebas ; cheffe des Pleiades en titre,
   recluse a son sanctuaire du 8e, croisee aux offices de l'Eglise Impie.
-- Relations detaillees, par cercles (pages satellites, decision worldbuilder : le lien aux
-  PNJ et a Ainz est le coeur du recit) : cf. Personnages/Azoth_relations_Proches.md
-  (Ainz, Demiurge, Albedo), Azoth_relations_Lieutenants.md (Sebas, Aureole, Yuri),
-  Azoth_relations_Pleiades.md, Azoth_relations_Gardiens.md, Azoth_relations_Tertiaires.md.
-  Frontiere : cette fiche garde la mecanique des liens, les pages relations la texture.
+- Relations detaillees (pages satellites, decision worldbuilder : le lien aux PNJ et a
+  Ainz est le coeur du recit) : cf. Personnages/Azoth_relations_Proches.md (Momonga,
+  Demiurge, Albedo). Autres cercles (Lieutenants, Pleiades, Gardiens, Tertiaires) : pages
+  a venir en passe 2, derivees des roadmaps et des seances. Frontiere : cette fiche garde
+  la mecanique des liens, les pages relations la texture.
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |

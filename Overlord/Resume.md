@@ -1,6 +1,8 @@
 # Resume - Overlord (histoire etablie)
 
-- version : W2
+- version : W3
+
+Amendements W3 (thread 7) : Albedo Regente des Gardiens.
 
 Amendements W2 (thread 6) : [INCERTAIN] soldes ; neuf d'origine ; rang de la guilde ; vagues
 de Joueurs ; corps neufs au jour 0.
@@ -47,7 +49,7 @@ Cet instant est le jour 0 du RP. C'est aussi le premier instant vecu des PNJ de 
 leur conscience nait au transfert, chacun portant l'age et les souvenirs programmes par
 son createur, dans un corps qui n'a encore rien vecu [DIVERGENCE RP - metaphysique, cf.
 BIBLE SB1]. Le Tombeau s'eveille avec sa hierarchie en place : Momonga au sommet, Albedo
-superviseuse, les Gardiens a leurs etages - dont Azoth au 9e, maitre du personnel, des
+Regente des Gardiens, les Gardiens a leurs etages - dont Azoth au 9e, maitre du personnel, des
 Pleiades et de l'Eglise Impie [DIVERGENCE RP]. Quarante sieges restent vides, venerables
 et attendus.
 

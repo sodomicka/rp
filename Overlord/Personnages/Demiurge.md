@@ -1,6 +1,9 @@
 # Demiurge
 
-- version : W1
+- version : W2
+
+Amendements W2 (thread 7) : titre d'Albedo (Regente des Gardiens) ; niveau intellectuel
+des trois cerveaux (decision worldbuilder) ; renvoi vers la page relations d'Azoth.
 
 ## Identite
 - Nom : Demiurge. Epithete : Createur de Brasier Ardent.
@@ -71,7 +74,7 @@
 
 ## Position dans Nazarick
 - Gardien du 7e etage (Mer de lave) ; ses lieutenants : les seigneurs demoniaques.
-- Commandant de la defense des PNJ, second des Gardiens - sous Albedo, la Superviseuse.
+- Commandant de la defense des PNJ, second des Gardiens - sous Albedo, la Regente des Gardiens.
 - Detail de l'etage : cf. Nazarick/Tombeau.md.
 
 ## Relations de base
@@ -80,8 +83,9 @@
 - Ulbert Alain Odle : createur venere - chacune de ses paroles est gardee comme une
   sagesse a mediter.
 - Azoth : jumeau. Egal intellectuel, oppose moral, complice de fait ; ne partage pas sa
-  luxure [DIVERGENCE RP].
-- Albedo : sa superieure et son alter ego administratif - les deux cerveaux du Tombeau.
+  luxure [DIVERGENCE RP]. Texture du lien : cf. Personnages/Azoth_relations_Proches.md.
+- Albedo : sa superieure et son alter ego administratif ; meme niveau intellectuel que
+  lui et qu'Azoth, plus impulsive (decision worldbuilder).
 - Sebas Tian : antipathie polie, structurelle, heritee des createurs.
 - Cocytus et les autres Gardiens : camaraderie sincere.
 

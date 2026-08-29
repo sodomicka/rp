@@ -1,6 +1,9 @@
 # Ainz Ooal Gown
 
-- version : W1
+- version : W2
+
+Amendements W2 (thread 7) : titre d'Albedo - Regente des Gardiens (VF canon, decision
+worldbuilder).
 
 ## Identite
 - Noms : Ainz Ooal Gown (nom de guilde, adopte apres le jour 0 - cf. Trajectoire datee) ;
@@ -122,7 +125,7 @@
 
 ## Position dans Nazarick
 - Autorite absolue : dernier des 41 present, guildmaster, venere par tout le Tombeau.
-- Albedo : Superviseuse des Gardiens, son bras droit.
+- Albedo : Regente des Gardiens, son bras droit.
 - Sebas Tian : majordome detache a son service personnel (derogation permanente, sous
   Azoth) [DIVERGENCE RP].
 - Azoth : maitre du 9e etage, son canal logistique privilegie pour le personnel

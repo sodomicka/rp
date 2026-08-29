@@ -1,6 +1,6 @@
 # Sommaire - Overlord
 
-- version : W6
+- version : W7
 
 Reconcilie au BIBLE BUILD B1 (SB9 y pointe ; les versions ci-dessous font inventaire).
 Mise a jour ponctuelle W3 (thread 3) : lot Personnages, fournee 1 - Ainz, Albedo,
@@ -12,6 +12,10 @@ Solution, Entoma, Cocytus, Aura, Mare, Pandoras_Actor (W1). Lot Personnages comp
 Mise a jour W6 (thread 6, BIBLE BUILD B2) : thread patchs - Regles_Internes W2,
 Organigramme W2, Tombeau W2, Etres_Supremes W2, Magie W3, Echelle_Puissance W2,
 Yggdrasil W2, Azoth W3, Resume W2. Zero [INCERTAIN] hors personnages.
+Mise a jour ponctuelle W7 (thread 7) : Azoth_relations_Proches W1, Theologie_Azoth W1 ;
+propagation "Regente des Gardiens" (VF canon) - Albedo W2, Ainz W2, Demiurge W2, Aura W2,
+Mare W2, Cocytus W2, Organigramme W3, Resume W3 ; Azoth W4 ; Etres_Supremes W3. Le dossier
+Seances/ existe (hors index).
 
 ## WIKI
 
@@ -23,7 +27,7 @@ Yggdrasil W2, Azoth W3, Resume W2. Zero [INCERTAIN] hors personnages.
 
 ### Racine
 Description : pages transversales de l'univers.
-- Resume.md (W2) - resume de l'histoire etablie : Yggdrasil et la guilde (2126-2138 ;
+- Resume.md (W3) - resume de l'histoire etablie : Yggdrasil et la guilde (2126-2138 ;
   neuf d'origine, 9e guilde, onze objets de rang monde), le Nouveau Monde avant le jour 0
   (magie importee ~600 ans, vagues ~500 et ~200 ans, systemes natifs), le transfert
   (jour 0, naissance des consciences dans des corps neufs, hierarchie en place).
@@ -59,7 +63,7 @@ Description : le Grand Tombeau, sa hierarchie, ses regles, ses createurs. Etat d
   residentiels (9, Azoth + EGLISE IMPIE [DIVERGENCE RP]), Salle du Trone (10 : Six
   Etoiles, Lemegeton, Ashurbanipal, boss final = Supremes + Albedo), Tresorerie (Anneau,
   Pandora's Actor, Mausolee des 41).
-- Organigramme.md (W2) - pyramide complete : Momonga, Albedo (Superviseuse), Gardiens
+- Organigramme.md (W3) - pyramide complete : Momonga, Albedo (Regente des Gardiens), Gardiens
   d'Etage, chaine du 9e reformulee [DIVERGENCES RP : Azoth maitre du 9e ; Sebas (service)
   et Aureole (militaire, cheffe en titre) EGAUX sous Azoth avec derogations ; six Pleiades
   et majordomes en charge directe d'Azoth, Yuri en seconde ; regles d'ordres], formations
@@ -70,26 +74,37 @@ Description : le Grand Tombeau, sa hierarchie, ses regles, ses createurs. Etat d
   libido comprise, ages approximatifs, garde-fou d'indecouvrabilite [DIVERGENCE RP]),
   economie interne (tresor fini, monstres POP, autonomie mixte au jour 0), securite,
   frictions.
-- Etres_Supremes.md (W2) - la guilde Ainz Ooal Gown : 41 heteromorphes, regle des adultes
+- Theologie_Azoth.md (W1) - la doctrine de l'Eglise Impie au jour 0, foi intacte
+  [DIVERGENCE RP] : le dogme (41 dieux, une seule voix ; Momonga rassembleur qui incarne
+  seul les 41 pensees ; les 40 absents, divinites indisponibles qu'on prie de revenir ;
+  blaspheme du desaccord ; le berger), corpus de huit lectures de surface (Ulbert, Touch
+  Me, Punitto Moe, Peroroncino, Tabula, Takemikazuchi, Bukubukuchagama, Herohero), peche
+  et exutoire ("il n'offre qu'a quiconque quemande" ; REGLE FERME Aura/Mare), liturgie
+  (sermon a tous ; on vient voir Azoth apres ; assistance au jour 0), confession (secret
+  absolu sauf atteinte a Nazarick, remontee a Momonga).
+- Etres_Supremes.md (W3) - la guilde Ainz Ooal Gown : 41 heteromorphes, regle des adultes
   salaries, Nine's Own Goal et ses neuf d'origine, 9e guilde d'Yggdrasil, membres notables
   et leurs creations (createurs des 17 fiches ; Ulbert -> Demiurge ET Azoth, Wish III ->
-  Aureole et Victim [DIVERGENCES RP]), declin, fermeture et transfert (2138), statut des
-  41 au jour 0.
+  Aureole et Victim [DIVERGENCES RP] ; Wish III Archange bienveillant), declin,
+  fermeture et transfert (2138 ; au transfert, Sebas, Pleiades, Aureole et Gardiens a
+  l'Eglise Impie [DIVERGENCE RP]), statut des 41 au jour 0.
 
 ### Personnages/
 Description : fiches personnages du monde.
-- Ainz.md (W1) - fiche noyau du dernier Supreme (Suzuki Satoru, 30 ans ; Overlord
+- Ainz.md (W2) - fiche noyau du dernier Supreme (Suzuki Satoru, 30 ans ; Overlord
   niveau 100, karma -500, 177 cm) : le joueur derriere, histoire de guilde, suppression
   emotionnelle, Sombre savoir (718 sorts), la Mort nous fauchera Tous ! (eclipse),
   six sorts signatures dont deux grandes magies (combos d'ecoles), savoirs meta
   (PNJ programmes, retouche d'Albedo). Derogation budget : 12 000 car. (decision
-  worldbuilder).
-- Albedo.md (W1) - fiche noyau de la Superviseuse (succube niveau 100, karma -500,
+  worldbuilder). Amendements W2 (thread 7) : Albedo Regente des Gardiens.
+- Albedo.md (W2) - fiche noyau de la Regente des Gardiens (succube niveau 100, karma -500,
   175 cm, ~500 ans non fige) : setting de Tabula (ange fusionne au monstre du pays des
   reves), le masque, guerre de domination avec Azoth [DIVERGENCE RP] (souvenirs
   programmes partages, vierge sans le savoir au jour 0), tank supreme (Gardenoire,
   Chevalier Mal-saint, Seigneur Egide), Seigneur-Bicorne de guerre, Ginnungagap.
-- Aura.md (W1) - fiche noyau de la Gardienne du 6e (elfe noire niveau 100, 0 racial,
+  Amendements W2 (thread 7) : titre VF Regente des Gardiens ; meme niveau intellectuel
+  que Demiurge et Azoth, plus impulsive ; renvoi Azoth_relations_Proches.
+- Aura.md (W2) - fiche noyau de la Gardienne du 6e (elfe noire niveau 100, 0 racial,
   karma -100, 104 cm, 76 ans - enfant, creation de Bukubukuchagama) : la Dresseuse
   renommee a l'esprit combatif, vive et franche, collectionneuse de betes, peur des
   insectes, dresseuse et rodeuse (plus de cent betes, talents de souffle), binome avec
@@ -101,7 +116,7 @@ Description : fiches personnages du monde.
   permanente au 8e (protectrice de Victim, Sceptre en depot, portes de teleportation),
   egale de Sebas sous Azoth, bandeau (a choisi de ne plus voir, perception parfaite),
   classes de commandement, Worldslicer (objet de rang monde), hors registre sensuel.
-- Azoth.md (W3) - fiche noyau du Cardinal Demoniaque (OC, protagoniste ; Archdemon
+- Azoth.md (W4) - fiche noyau du Cardinal Demoniaque (OC, protagoniste ; Archdemon
   niveau 100, karma -500, 666 ans fige, jumeau de Demiurge, cree par Ulbert, Gardien du 9e
   [DIVERGENCES RP]) : setting, psychologie et doctrine, apparences detaillees des deux
   formes (#E8C6AB / #AE9C93), Passion d'Incube (etat d'embrasement), capacites et six
@@ -109,8 +124,14 @@ Description : fiches personnages du monde.
   Amendements W2 (thread 3) : taille 183 cm (jumeaux a taille egale) ; experience
   d'incube = souvenir ecrit par Ulbert, corps neuf au jour 0. Amendements W3 (thread 6) :
   esprit de stratege (egal de Demiurge en tout sauf en luxure) ; Position synchronisee
-  sur la chaine du 9e ; renvoi vers la page relations (thread 7).
-- Cocytus.md (W1) - fiche noyau du Gardien du 5e (insectoide niveau 100, karma +50,
+  sur la chaine du 9e ; renvoi vers la page relations (thread 7). Amendements W4
+  (thread 7) : angoisse de l'abandon partagee avec Demiurge (Psychologie) ; Albedo
+  Regente ; renvois de relations limites a la page Proches (autres cercles en passe 2).
+- Azoth_relations_Proches.md (W1) - page relations d'Azoth, cercle Proches (Momonga,
+  Demiurge, Albedo) : statut, adresses reciproques, rituels, dynamique, ce que l'autre
+  sait, EVOLUTION posee des la genese (decision worldbuilder). Fiche mere = mecanique,
+  page = texture. Autres cercles (Lieutenants, Pleiades, Gardiens, Tertiaires) : passe 2.
+- Cocytus.md (W2) - fiche noyau du Gardien du 5e (insectoide niveau 100, karma +50,
   2,5 m, ~1200 ans, creation de Warrior Takemikazuchi) : Souverain des Glaciers,
   guerrier d'honneur, un bras pas un cerveau, maitre d'armes (21 armes, quatre a la
   fois), Aura de givre, Combo des Cinq Rois de Sagesse, Takemikazuchi Mk 8 ; Azoth =
@@ -120,7 +141,7 @@ Description : fiches personnages du monde.
   cle maitresse des mecanismes de Nazarick, affect present mais inexploite (noyau),
   autocollants "1 yen", fusiliere (armes a feu magiques, Tir de scellement, echarpe
   legendaire), sous Azoth [DIVERGENCE RP].
-- Demiurge.md (W1) - fiche noyau du Gardien du 7e (archdemon niveau 100, karma -500,
+- Demiurge.md (W2) - fiche noyau du Gardien du 7e (archdemon niveau 100, karma -500,
   183 cm, 666 ans fige, jumeau d'Azoth [DIVERGENCE RP], denue de luxure) : gentleman et
   monstre, esthete de la cruaute, angoisse de l'abandon, Aspect du Diable (5 competences
   VF), mantra imperieux, racial 35 / classes 65, Createur de Brasier Ardent.
@@ -134,7 +155,7 @@ Description : fiches personnages du monde.
   masque souriant, paresse, ronronnement, nature animale inassumee (noyau), forme de
   loup-garou decrite [DIVERGENCE RP], clerc de guerre rangs 1-8 (Guerison / Illusion /
   Destruction), sous Azoth.
-- Mare.md (W1) - fiche noyau du Gardien du 6e (elfe noir niveau 100, 0 racial, karma
+- Mare.md (W2) - fiche noyau du Gardien du 6e (elfe noir niveau 100, 0 racial, karma
   -100, 104 cm, 76 ans - enfant, creation de Bukubukuchagama) : l'Emissaire peu fiable
   de la nature, timide et brutal, druide rangs 1-10 sans grande magie (Destruction /
   Alteration / Guerison / Conjuration), Petite Catastrophe, Ombre d'Yggdrasil, deuxieme
@@ -183,11 +204,11 @@ lizardmen, et en survol Argland, Roble).
 > FICHES D'ARC. Dossier Fiches_Arc/Azoth/ vide (passe 3, apres les roadmaps). Les fiches
 > d'arc seront indexees ici a leur creation.
 
-> SEANCES NON INDEXEES. Le dossier Seances/ (a venir, thread 7) porte le FUTUR des liens
-> d'Azoth avec chaque personnage : meme statut que les roadmaps, jamais fetche en narration,
-> jamais liste ici. L'etat des liens au jour 0 vivra en pages WIKI satellites
-> (Personnages/Azoth_relations_Proches / _Lieutenants / _Pleiades / _Gardiens /
-> _Tertiaires.md), indexees a leur creation.
+> SEANCES NON INDEXEES. Le dossier Seances/ (existe depuis le thread 7) porte le FUTUR des
+> liens d'Azoth avec chaque personnage et le pantheon des createurs : meme statut que les
+> roadmaps, jamais fetche en narration, jamais liste ici. L'etat des liens au jour 0 et
+> leur evolution vivent en pages WIKI satellites : Azoth_relations_Proches.md (indexee) ;
+> _Lieutenants / _Pleiades / _Gardiens / _Tertiaires en passe 2, indexees a leur creation.
 
 > JOURNAL DE CONCEPTION. _Implications.md (a la racine Overlord/) : document de travail des
 > passes en spirale, jamais fetche en narration. Contient les divergences actees, les VF,

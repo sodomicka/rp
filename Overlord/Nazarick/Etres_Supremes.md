@@ -1,10 +1,12 @@
 # Les 41 Etres Supremes (guilde Ainz Ooal Gown)
 
-Version : W2. Univers : Overlord. Emplacement cible : Overlord/Nazarick/Etres_Supremes.md.
+Version : W3. Univers : Overlord. Emplacement cible : Overlord/Nazarick/Etres_Supremes.md.
 Sources : LN Overlord (canon de reference) + decisions worldbuilder balisees. Etat : jour 0.
 Amendements W2 (thread 6) : neuf d'origine, rang de la guilde, createurs ajoutes
 (Nishikienrai, Wish III, Yamaiko solde, Beast King Mekongawa, Garnet, Genjiro, Blue Planet,
 Whitebrim, Coup De Grace) ; tous les [INCERTAIN] soldes.
+Amendements W3 (thread 7) : Wish III, Archange bienveillant ; position du personnel au
+transfert (decision worldbuilder).
 
 ## La guilde
 - Ainz Ooal Gown : guilde d'Yggdrasil, 41 membres a son apogee, exclusivement heteromorphes.
@@ -28,7 +30,8 @@ Whitebrim, Coup De Grace) ; tous les [INCERTAIN] soldes.
   d'origine. Createur de Sebas Tian.
 - Nishikienrai : ninja demi-golem, l'un des neuf d'origine ; decouvreur du Tombeau.
   Createur de Narberal Gamma.
-- Wish III : l'un des neuf d'origine. Createur d'Aureole Omega et de Victim [DIVERGENCE RP -
+- Wish III : l'un des neuf d'origine ; un Archange, bienveillant - rien de plus n'est
+  connu de lui a Nazarick. Createur d'Aureole Omega et de Victim [DIVERGENCE RP -
   canon muet].
 - Warrior Takemikazuchi : guerrier au katana, l'un des neuf d'origine. Createur de Cocytus.
 - Ulbert Alain Odle : magic caster oriente destruction, obsede par le Mal absolu.
@@ -62,6 +65,10 @@ Whitebrim, Coup De Grace) ; tous les [INCERTAIN] soldes.
   sur le Trone, par nostalgie, jusqu'au decompte final.
 - A minuit, au lieu de la deconnexion : le Grand Tombeau, son personnel et Momonga
   sont transportes dans le Nouveau Monde. Jour 0 du RP.
+- Au transfert [DIVERGENCE RP] : Momonga et Albedo dans la Salle du Trone ; Sebas, les
+  six Pleiades, Aureole Omega et les Gardiens d'Etage (Shalltear, Cocytus, Aura, Mare,
+  Demiurge) a l'Eglise Impie, aupres d'Azoth (canon : Sebas et les Pleiades dans la
+  Salle du Trone, les Gardiens a leurs etages).
 
 ## Statut des 41 au jour 0
 - Present : Momonga, seul.

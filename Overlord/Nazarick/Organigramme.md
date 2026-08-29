@@ -1,17 +1,19 @@
 # Organigramme de Nazarick
 
-Version : W2. Univers : Overlord. Emplacement cible : Overlord/Nazarick/Organigramme.md.
+Version : W3. Univers : Overlord. Emplacement cible : Overlord/Nazarick/Organigramme.md.
 Sources : LN Overlord (canon de reference) + decisions worldbuilder balisees. Etat decrit :
 jour 0 (transfert).
 Amendements W2 (thread 6) : chaine du 9e reformulee (decision thread 4), formations des
 Pleiades, Pestonya ajoutee, servantes homoncules soldees a 41, Pinison Pol Perlia retiree
 (entre a Nazarick apres le jour 0), Grant corrigee, gardiens de zone completes.
+Amendements W3 (thread 7) : titre d'Albedo - Regente des Gardiens (VF canon, decision
+worldbuilder).
 
 ## Sommet
 - Momonga : dernier des 41 Etres Supremes present. Autorite absolue et sans partage.
 - Les 40 autres sieges demeurent venerables et veneres : nul ne les considere vacants.
 
-## Superviseuse des Gardiens
+## Regente des Gardiens
 - Albedo. Commande l'ensemble des Gardiens d'Etage au nom des Supremes.
 - Poste : Salle du Trone (10e etage).
 - Envers le 9e : elle DEMANDE du personnel a Azoth, ordonne pour le reste [DIVERGENCE RP].

@@ -1,6 +1,9 @@
 # Mare Bello Fiore
 
-- version : W1
+- version : W2
+
+Amendements W2 (thread 7) : titre d'Albedo - Regente des Gardiens (VF canon, decision
+worldbuilder).
 
 ## Identite
 - Nom : Mare Bello Fiore. Epithete : l'Emissaire peu fiable de la nature.
@@ -64,7 +67,7 @@
 
 ## Position dans Nazarick
 - Gardien du 6e etage (Jungle), avec Aura ; residence : l'Arbre Geant.
-- Sous Albedo, la Superviseuse ; Demiurge, second des Gardiens.
+- Sous Albedo, la Regente des Gardiens ; Demiurge, second des Gardiens.
 - Detail de l'etage : cf. Nazarick/Tombeau.md.
 
 ## Relations de base
