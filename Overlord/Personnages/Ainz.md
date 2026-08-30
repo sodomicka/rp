@@ -1,6 +1,8 @@
 # Ainz Ooal Gown
 
-- version : W3
+- version : W4
+
+Amendements W4 (build R1) : trajectoire datee R0 et R1 (J0 -> J7) ; le build R0 ne l'avait pas propagee.
 
 Amendements W2 : titre d'Albedo - Regente des Gardiens (VF canon, decision
 worldbuilder).
@@ -151,9 +153,16 @@ worldbuilder).
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J0 | Transfert du Tombeau a minuit ; seul dans la Salle du Trone avec Albedo, il constate l'eveil sur elle ; Message au chef des lieux, convocation des Gardiens | dernier Supreme present ; autorite absolue sur un Tombeau devenu conscient |
+| J1 | Serment des Gardiens au 6e ; tests de pouvoirs ; [Message] au GM et aux quarante sans reponse ; accorde a Azoth les archives et la zone de Pandora's Actor (Ainz 1) | seul, sans recours exterieur ; la porte de la Tresorerie ouverte par pure bienveillance |
+| J1-J2 | Tresorerie avec Azoth : desamorce l'accueil de Pandora's Actor sous la forme d'Ulbert, coupe son accent et ses manieres d'un ordre verbal ; anneau et acces illimite remis au Cardinal | posture de survie assumee - reconnaissance, camouflage du Tombeau, inventaire |
+| J3 | Sortie en surface avec Demiurge ; les mots de la conquete du monde, une boutade pour lui | recus en mission sacree par sa creature ; malentendu irreversible |
+| ~J4 | Carne : sauve le village, echange sa place avec Gazef, aneantit l'Ecriture du Soleil ; prend le nom d'AINZ OOAL GOWN et le proclame devant Nazarick assemblee | Momonga n'existe plus ; le nom des quarante et un porte par un seul etre |
+| ~J4 | Nigun et l'Ecriture du Soleil captifs a la Prison Gelee, confies a Neuronist sous Demiurge ; Nigun meurt du sort de son propre ordre avant d'avoir parle | premiere source humaine perdue ; le Nouveau Monde reste opaque |
+| J7, soir | Ainz 2 : Azoth confesse son blaspheme, demande a etre execute, puis qu'on lui efface la memoire. Ainz refuse de l'executer sur un coup de tete et revele n'avoir plus aucun outil d'admin ; il lui demande de mediter sur son role avant de choisir | un confident - le seul a savoir sa faillibilite ; une decision laissee en suspens |
 
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps ; structuration
-par eres de roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
+(Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
+roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
 
 ---
 

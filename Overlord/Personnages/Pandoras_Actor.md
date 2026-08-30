@@ -1,6 +1,8 @@
 # Pandora's Actor
 
-- version : W2
+- version : W3
+
+Amendements W3 (build R1) : trajectoire datee R1 (J4, J6).
 
 Amendements W2 : trajectoire datee ouverte (R0, J1-J2).
 
@@ -69,6 +71,11 @@ Amendements W2 : trajectoire datee ouverte (R0, J1-J2).
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | J1-J2 | Premiere rencontre avec Azoth : accueil sous la forme d'Ulbert ; accent et manieres prussiennes coupes par reconfiguration verbale de Momonga | connu d'Azoth ; archiviste du Cardinal |
+| J4 | Visite suivante du Cardinal : archives, puis discussion sur Ainz | matiere du sermon suivant fournie |
+| J6 | Visites repetees pendant que le Cardinal cherche ; il sort ce qu'on lui demande sans en lire l'usage | ne voit rien de la chute en cours, et ne pose aucune question |
+
+(Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
+roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
 
 ---
 

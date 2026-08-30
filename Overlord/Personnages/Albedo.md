@@ -1,6 +1,8 @@
 # Albedo
 
-- version : W3
+- version : W4
+
+Amendements W4 (build R1) : trajectoire datee R1 (J5, J7).
 
 Amendements W3 : trajectoire datee ouverte (R0, J3) ; tolerance au
 blaspheme (Psychologie).
@@ -108,6 +110,11 @@ renvoi vers la page relations d'Azoth.
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | J3 | Albedo 1 : premiere seance avec Azoth (chambre des desirs) ; il lui rapporte les mots de la conquete | plus vierge - sa monture ne la refusera plus ; recoit la conquete comme une mission sacree, non comme une boutade |
+| J5 | Albedo 2, apres S3 : elle le trouve ailleurs, la seance est fonctionnelle ; elle le remercie de l'avoir moins tiraillee | l'absence d'Azoth lui convient - elle n'y voit rien |
+| J7 | Albedo 3, apres S4 : elle le sent perdu, pose des questions et s'approche de ce qu'il regrette de s'etre demande ; il la blesse pour la faire taire | part en colere ; tenue a distance sans comprendre pourquoi |
+
+(Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
+roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
 
 ---
 

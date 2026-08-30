@@ -1,6 +1,8 @@
 # Sebas Tian
 
-- version : W1
+- version : W2
+
+Amendements W2 (build R1) : trajectoire datee R0 et R1 (J0 -> J7) ; le build R0 ne l'avait pas propagee.
 
 ## Identite
 - Nom : Sebas Tian. Titre : Majordome d'acier ; majordome en chef du Grand Tombeau de
@@ -108,9 +110,13 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J0 | S1 : remercie Azoth d'avoir preche les paroles de Touch Me (seance 1 express) ; mis en etat d'alerte avec les Pleiades | - |
+| J3 | S2 : regard entendu pendant l'office en voyant ceux de l'Incube et de la Succube ; il ne dit rien (seance 2) | le meme raisonnement que Demiurge, garde pour lui |
+| J5 | S3 : Azoth clame des ecrits de Touch Me que Sebas lui-meme ne connaissait pas. Ca lui fait bizarre. Il se tait | premier malaise, tu |
+| J7 | S4 : Azoth se trompe sur une citation exacte et termine avant d'avoir tout donne. Second malaise. Il se tait encore | la terreur d'etre pris pour un traitre lui fait taire ce qu'il voit |
 
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps ; structuration
-par eres de roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
+(Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
+roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
 
 ---
 

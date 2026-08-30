@@ -1,6 +1,9 @@
 # Shalltear Bloodfallen
 
-- version : W1
+- version : W2
+
+Amendements W2 (build R1) : les Epouses vampires precisees (nature, statut,
+cadrage de registre) ; trajectoire datee ouverte (R1, J4-J5).
 
 ## Identite
 - Nom : Shalltear Bloodfallen. Gardienne des etages 1 a 3 du Grand Tombeau.
@@ -78,7 +81,13 @@
 - Gardienne des etages 1 a 3 (Catacombes) : la premiere ligne du Tombeau.
 - Residence : le Grand Atrium des Cadavres de Cire (2e etage). Detail : cf.
   Nazarick/Tombeau.md.
-- Les Epouses vampires : sa suite et son harem personnel.
+- Les Epouses vampires : sa suite et son harem personnel. Vampires mineures nees de ses
+  propres morts animes ; sans nom, sans histoire, sans volonte au-dela de la sienne.
+  Elles obeissent, elles suivent, elles se remplacent - Shalltear les prete comme on
+  prete un meuble, et n'y met pas plus de ceremonie. Presence suffisante pour consentir,
+  jamais assez pour peser : des jouets entre elle et son partenaire, jamais des
+  interlocutrices [DIVERGENCE RP - cadrage acte, decision worldbuilder]. REGLE FERME du
+  casting sensuel : adultes en tout point, comme toute presence du registre.
 
 ## Relations de base
 - Momonga : devotion de Gardienne - et un penchant necrophile qui fait du dernier
@@ -93,9 +102,12 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J3 | S2, premier office d'Albedo : jalouse des regards echanges entre le Cardinal et la Regente, elle n'a encore rien recu ; elle demande sa seance, avec ses Epouses | la jalousie armee ; visite au 9e en attente |
+| J4-J5 | Premiere seance au 9e avec ses Epouses ; elle craint d'avoir blaspheme en jugeant Peroroncino plus juste que les autres ; Azoth la releve et lui livre la pensee profonde de son createur | le harem partage ; aucune honte, le plaisir est la seule sincerite |
+| J5 | S3 : epiphanie - tous les Supremes evoques lui semblent parfaits, sans la moindre contradiction | la foi la plus intacte du Tombeau ; le paravent fonctionne sur elle avant meme d'exister |
 
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps ; structuration
-par eres de roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
+(Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
+roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
 
 ---
 

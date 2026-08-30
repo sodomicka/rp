@@ -1,6 +1,8 @@
 # Demiurge
 
-- version : W3
+- version : W4
+
+Amendements W4 (build R1) : trajectoire datee R0 et R1 (J0 -> J7) ; le build R0 ne l'avait pas propagee.
 
 Amendements W2 : titre d'Albedo (Regente des Gardiens) ; niveau intellectuel
 des trois cerveaux (decision worldbuilder) ; renvoi vers la page relations d'Azoth.
@@ -92,9 +94,14 @@ des trois cerveaux (decision worldbuilder) ; renvoi vers la page relations d'Azo
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J0 | S1 coupe par le Message ; joute verbale avec son frere en chemin vers le 6e (Demiurge 1) : il le trouve plus passionne qu'a l'accoutumee, sans en etre sur | rien tranche - entendons-nous sur le fait que nous ne nous entendrons jamais |
+| J1 | Serment des Gardiens au 6e | Gardien du 7e confirme sous la Regente |
+| J3 | Sortie en surface avec le Seigneur : il recoit les mots de la conquete comme une mission sacree offerte par leur dieu et les rapporte a Azoth (Demiurge 2) | le malentendu de la conquete nait entre freres |
+| J5 | Demiurge 3, apres S3 : il voit son frere plus investi que jamais et le met en garde - comprendre des dieux hors d'atteinte ouvre l'esprit a la folie | il nomme le danger sans en connaitre la cause |
+| J7 | Demiurge 4, apres S4 : je t'avais averti ; que le pretre regle sa crise de foi avec le Seigneur | il croit son frere fou par l'intensite des recits, jamais heretique - et l'envoie lui-meme chez Ainz |
 
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps ; structuration
-par eres de roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
+(Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
+roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
 
 ---
 

@@ -1,6 +1,8 @@
 # Aureole Omega
 
-- version : W3
+- version : W4
+
+Amendements W4 (build R1) : trajectoire datee R1 (J5, J7).
 
 Amendements W3 : trajectoire datee ouverte (R0, J0-J3).
 
@@ -104,6 +106,11 @@ la derange pas (Psychologie).
 |---|---|---|
 | J0 | Apres S1, pose la question de Wish III ; renvoyee au 8e en attendant S2 | sans le savoir, ouvre la voie de la Tresorerie |
 | J3 | S2 : entend la pensee profonde de Wish III | sa question recompensee ; ravie |
+| J5 | S3 : decouvre la psyche profonde de son createur | aux anges ; la fidele la plus comblee du Tombeau |
+| J7 | S4 : elle voit Azoth perdu et lui recommande de mediter, comme elle medite elle-meme sur les paroles nouvelles | donne en premier le conseil qu'Ainz lui donnera le soir meme |
+
+(Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
+roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
 
 ---
 

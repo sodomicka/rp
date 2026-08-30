@@ -1,6 +1,8 @@
 # Azoth, le Cardinal Demoniaque
 
-- version : W7
+- version : W8
+
+Amendements W8 : trajectoire datee R1 (J4 -> J7, la bascule sincere -> perdu).
 
 Amendements W7 : trajectoire datee ouverte (R0, J0-J3).
 
@@ -179,6 +181,13 @@ pages relations par cercles.
 | J1 | Serment des Gardiens au 6e ; acces aux archives des 41 accorde (Ainz 1) | anneau d'Ainz Ooal Gown ; acces illimite a la Tresorerie |
 | J1-J2 | Premiere visite de la Tresorerie ; rencontre Pandora's Actor ; lecture d'Ulbert et de Wish III, "tout est verite" | contradiction emportee sans etre vue |
 | J3 | S2, sermon enrichi ; premiere seance d'Albedo (la conquete) | l'horloge de CZ demarre a son insu |
+| J4 | Le Seigneur revient du dehors et proclame le nom d'Ainz Ooal Gown ; la conquete devient parole publique | Momonga devient le precepte incarne du Cardinal - un seul etre pour 41 voix ; le dogme cesse d'etre a demontrer |
+| J4 | Nouvelle des captifs de l'Ecriture du Soleil a la Prison Gelee ; Nigun meurt sans avoir parle, tue par le sort de son propre ordre | premiers humains du Nouveau Monde a Nazarick, jamais vus par le Cardinal |
+| J4-J5 | Shalltear 1 au 9e avec ses Epouses ; pensee profonde de Peroroncino livree | premiere moitie de la contradiction, dite de sa propre bouche |
+| J5 | S3, le sermon le plus profond de Nazarick : Wish III a Aureole, Yamaiko a Yuri, Mekongawa, Nishikienrai, Genjiro ; Demiurge 3 (la mise en garde), Albedo 2, Shalltear 2 | seconde moitie de la contradiction livree ; le berger n'a jamais aussi bien preche |
+| J6 | La faille : Peroroncino contre Yamaiko, puis Takemikazuchi contre Punitto Moe ; accumulation aux archives ; Ulbert contre Wish III retourne retrospectivement | BERGER PERDU ; les 41 faillibles, donc pas des dieux, et ils les ont abandonnes |
+| J7 | S4, le cafouillage ; Aureole 4 et Yuri 3 le voient perdu ; Demiurge 4 l'envoie au Seigneur ; Albedo 3, blessee, part en colere | la methode du berger est morte ; Albedo tenue a distance par la blessure |
+| J7, soir | Ainz 2 : confession du blaspheme ; execution refusee, memoire ineffacable - le dieu n'a plus aucun outil d'admin ; meditation demandee avant de choisir | DIEU FAILLIBLE ; secret partage avec Ainz seul ; choix en suspens |
 
 ---
 

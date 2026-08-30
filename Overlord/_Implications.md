@@ -10,13 +10,14 @@ le canon. Aucun historique, aucun datage : une ligne actee et propagee SORT du
 journal au build suivant.
 
 ## Etat du chantier
-- ETAT : BIBLE B6 ; Systemes 4, Nazarick 5, Personnages 24, NouveauMonde 7, Seances 11
-  pages ; Sommaire W14 ; Resume W6. Zero [INCERTAIN].
+- ETAT : BIBLE B7 ; Systemes 4, Nazarick 5, Personnages 24, NouveauMonde 7, Seances 11
+  pages ; Sommaire W15 ; Resume W6. Zero [INCERTAIN].
 - PASSE 2 EN COURS - boucle serree par arc : roadmap N en grandes lignes -> confrontation
   au canon -> fiches absentes et enrichissements A CHAUD (Trajectoire datee, pages
   Azoth_relations_*) -> details -> N+1. Decoupage en arcs TRANCHE : R0-R9 bornees au
-  garde-cap, R10+ ouvert. R0 buildee (L'Eveil : J0 -> S2 a J3) ; R1 a builder et a nommer
-  (Carne ~J4 -> Ainz 2 a J7). Gabarit : SPEC_BIBLE_LORE_WIKI, version courante verifiee
+  garde-cap, R10+ ouvert. R0 buildee (L'Eveil : J0 -> S2 a J3) ; R1 buildee (Le Blaspheme : ~J4 -> Ainz 2 a J7,
+  bascule sincere -> perdu, huis clos) ; R2 a builder et a nommer (depart de Momon ~J8 ->
+  seance de la chute, J15). Gabarit : SPEC_BIBLE_LORE_WIKI, version courante verifiee
   par listing de Config/ avant fetch. Roadmaps dans Overlord/Roadmap/Azoth/, hors index.
 - ENSUITE : relecture croisee de cloture de passe 2 (dont la hierarchie du 9e,
   Organigramme) ; fiches d'arc (passe 3) ; CODEX V1 ; setup.
@@ -115,7 +116,7 @@ Nouveau Monde
   "Hamsuke, niveau canon ~30" -> "le Roi Sage, estime ~30" (aligne sur la fiche).
 - CORPS FECONDS place dans la section Metaphysique (SAVOIR META) de
   Regles_Internes W4 alors que le fait n'est pas meta ; la ligne le precise. A deplacer ?
-- Taille de la BIBLE : B6 = 38,2k (B5 37,4k). Plafond SPEC 40k, marge 1,8k - une entree
+- Taille de la BIBLE : B7 = 38.5k (B6 38,2k). Plafond SPEC 40k, marge 1,8k - une entree
   SB8 ou SB5 de plus la consomme. ~2k d'extras de condensation gardes (lexique Six Grands
   Dieux / Tresor des Six / Trois Monstres ; SB3 ligne guerre des elfes et Notes ;
   E-Rantel et Carne enrichis).
@@ -141,6 +142,11 @@ Nouveau Monde
   trema). Noms propres conserves sauf VF actee en page.
 - "Nature et peche (au sens du RP)" : seulement pour les personnages qui interagiront avec
   Nazarick, jamais pour les autres. Pas de date inventee en chat.
+- SCINDABILITE DES ETAPES DE ROADMAP (posee au build R1) : une etape est une unite de
+  PROGRESSION, pas de CHARGE. Toute roadmap declare en fin de fichier ses POINTS DE COUPE
+  et leurs BORNES ; la passe 3 choisit la granularite reelle des fiches d'arc. Une coupe
+  peut etre marquee IMPERATIVE quand la fusion donnerait au MJ une issue avant que le
+  joueur l'ait atteinte. R0 a reprendre : buildee avant la regle, sans points de coupe.
 - Une page de seances qui depasse 8 000 caracteres se scinde ; une fiche qui deborde
   devient personnelle. Depassements de page toleres : Ainz (12 000), Re-Estize, Baharuth,
   Magie, Theocratie_Slane. Fiche Azoth : plafond prota 20k.

@@ -1,6 +1,9 @@
 # Theocratie Slane
 
-- version : W1
+- version : W2
+
+Amendements W2 (build R1) : sort de mort differee des membres de l'Ecriture du
+Soleil (canon LN vol. 1) ; trajectoire datee ouverte (R1, ~J4).
 
 Etat decrit : jour 0.
 
@@ -71,7 +74,10 @@ Etat decrit : jour 0.
   Quiconque atteint le domaine des heros dans l'une des cinq autres passe a la Noire.
   - Sainte Ecriture du Soleil - suppression et aneantissement des demi-humains et des
     heteromorphes. Chef : Nigun Grid Luin, lanceur de rang 4, porteur d'un Talent qui
-    renforce ses invocations.
+    renforce ses invocations. Ses membres portent un sort de mort differee : qui repond
+    trois fois a un interrogatoire ennemi meurt sur place. Un captif du Soleil n'est pas
+    une source - c'est trois questions, puis un cadavre. Extension du sort aux cinq autres
+    Ecritures : non sourcee.
   - Sainte Ecriture Noire - la plus forte : Seigneurs Dragons et missions a forte
     mortalite ; membres au domaine des heros, equipes dans l'arsenal des Six. Sieges
     numerotes, le capitaine au premier ; le Siege hors rang est a part. Kaire porte la
@@ -160,6 +166,10 @@ Etat decrit : jour 0.
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| ~J4 | Operation contre Gazef Stronoff aux marches orientales du Royaume : l'Ecriture du Soleil au complet est detruite et capturee par une puissance qu'elle n'identifie pas ; le Dominion d'Autorite libere du cristal de scellement egratigne l'adversaire et est consomme | perte de l'Ecriture du Soleil comme force engagee ; un cristal de scellement consomme pour rien |
+| ~J4-J5 | Nigun Grid Luin meurt en captivite, tue par le sort de mort differee de son propre ordre apres trois reponses | le Soleil perd son chef ; le secret tient, et la Theocratie n'apprend rien de ce qui a detruit ses hommes |
+
+(Alimentation a chaud arc par arc apres les roadmaps.)
 
 ## Renvois
 - Le Siege hors rang : cf. Personnages/Zesshi.md.

@@ -1,10 +1,13 @@
 # Chronologie des roadmaps - Azoth
 
-- version : W3
+- version : W4
 - role : GARDE-CAP de la saga. Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de Passe 2), ou le canon est redonne en detail. STATUT ROADMAP : hors Sommaire, jamais fetche en narration.
 - prota / POV : Azoth, Cardinal Demoniaque, Gardien du 9e.
 - axe : jours depuis J0 (transfert). Ancrage des seances : le compte des sermons depuis J0.
 - convention de nommage : Roadmap_R<N>_<Evenement>.md - l'evenement le plus important de la roadmap POUR AZOTH. R0 = intro hors histoire canon guide ; le fil canon commence en R1.
+- scindabilite (decision worldbuilder, posee au build R1) : une etape de roadmap est une unite de PROGRESSION, pas de CHARGE. Toute roadmap declare en fin de fichier ses POINTS DE COUPE et leurs BORNES ; la passe 3 choisit la granularite reelle des fiches d'arc. A retro-appliquer a R0 (build a refaire).
+
+Amendements W4 : R1 nommee et buildee (Le Blaspheme) ; regle de scindabilite posee ; le [A POSER] de R1 tranche - Nigun reste en canon integral, hors du champ d'Azoth.
 
 Amendements W3 : forme, aucun changement de fond.
 
@@ -46,11 +49,16 @@ Amendements W2 : convention posee ; renumerotation (decalage de 1 : R0 puis R1-R
 - Fichier : Roadmap_R0_L_Eveil.md (W1).
 - Bornes : J0, l'office en cours au transfert -> S2 (J3). Etape : berger sincere.
 - Jalons : S1 coupe ; serment ; Ainz 1 ; Tresorerie (Ulbert, reconfig verbale, anneau) ; Pandora's Actor 1 ; S2 ; Albedo 1 ; horloge de CZ.
+- A REPRENDRE : scindabilite non declaree (regle posee au build R1).
 
-## R1 - [A NOMMER] [A BUILDER]
-- Bornes : Carne (~J4) -> Ainz 2 (J7).
-- Jalons : diffusion de la conquete - mission sacree cote creatures, boutade cote dieu (epilogue vol. 1) ; Shalltear et son harem au 9e ; S3 ; archives inconciliables ; S4 ; Aureole "medite" ; Ainz 2.
-- Etape : sincere -> perdu. [A POSER : Nigun, premier temoin de l'immunite sacree ?]
+## R1 - Le Blaspheme [BUILDEE]
+- Fichier : Roadmap_R1_Le_Blaspheme.md (W2).
+- Bornes : ~J4 (retour du dehors, proclamation) -> Ainz 2 (J7, soir). ~4 jours. Etape : BERGER SINCERE -> BERGER PERDU, la bascule EST l'evenement de l'arc.
+- Forme : huis clos theologique a Nazarick, zero combat, zero sortie. Le volume 1 se joue dehors et Azoth n'y est pas.
+- Jalons : proclamation du nom d'Ainz Ooal Gown, la conquete en parole publique ; nouvelle des captifs du Soleil a la Prison Gelee et mort de Nigun ; Shalltear 1 au 9e avec ses Epouses ; S3, le sermon parfait, et ses seances ; la faille ; S4, le cafouillage, et ses seances ; Ainz 2.
+- Mecanique de la faille (decision worldbuilder) : ce n'est pas une contradiction isolee, c'est LA METHODE - concilier marche en surface et casse en profondeur. Ordre de morsure : Peroroncino / Yamaiko, puis Takemikazuchi / Punitto Moe, puis l'accumulation, puis Ulbert / Wish III en coup de grace retrospectif.
+- Tranche : Nigun reste en canon integral (Prison Gelee, Neuronist sous Demiurge, mort par le sort de mort differee de son ordre), hors du champ d'Azoth. Le Tchekhov de l'immunite sacree reste ARME, en attente du temoin.
+- Points de coupe : etape 1 en 2, etape 2 en 3, etape 3 en 4 - bornes au fichier.
 
 ## R2 - [A NOMMER] [A BUILDER]
 - Bornes : depart de Momon (~J8) -> seance de la chute de Shalltear (J15).

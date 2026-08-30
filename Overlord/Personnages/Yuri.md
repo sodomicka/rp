@@ -1,6 +1,8 @@
 # Yuri Alpha
 
-- version : W1
+- version : W2
+
+Amendements W2 (build R1) : trajectoire datee R0 et R1 (J0 -> J7) ; le build R0 ne l'avait pas propagee.
 
 ## Identite
 - Nom : Yuri Alpha. Titres : vice-capitaine des Pleiades ; Grande Soeur des servantes de
@@ -96,9 +98,12 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J0 | S1 : rien a demander - elle ne se plaint pas de ne connaitre de Yamaiko que sa race et sa pensee de surface | - |
+| J5 | S3 : Azoth lui livre la pensee profonde de sa creatrice sans qu'elle l'ait reclamee - on eleve pour etre quitte | recue sans avoir demande ; la pudeur intacte |
+| J7 | S4 : comme Aureole, elle voit Azoth perdu. Elle ne demande rien | - |
 
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps ; structuration
-par eres de roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
+(Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
+roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
 
 ---
 
