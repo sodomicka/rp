@@ -2,9 +2,9 @@
 
 - version : W3
 
-Amendements W3 (thread 12) : trajectoire datee ouverte (R0, J0-J3).
+Amendements W3 : trajectoire datee ouverte (R0, J0-J3).
 
-Amendements W2 (thread 8) : ne se voit pas comme les autres humains ; la viande humaine ne
+Amendements W2 : ne se voit pas comme les autres humains ; la viande humaine ne
 la derange pas (Psychologie).
 
 ## Identite
@@ -46,7 +46,7 @@ la derange pas (Psychologie).
   ne la derange pas, dit-elle - le malaise est chez elles, pas chez elle (decision
   worldbuilder ; cf. Nazarick/Regles_Internes.md, frictions).
 
-## Apparence (d'apres le visuel de reference, garde en thread)
+## Apparence (d'apres le visuel de reference, non uploade au depot)
 - Jeune femme de 20 ans, 154 cm, menue ; peau tres pale ; levres sombres, gris-mauve ;
   expression fermee, neutre.
 - Cheveux noirs, carre court au menton, frange droite, meches encadrant le visage.

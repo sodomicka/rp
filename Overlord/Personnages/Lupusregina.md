@@ -1,8 +1,8 @@
 # Lupusregina Beta
 
-- version : W2
+- version : W3
 
-Amendements W2 (thread 8) : raffole de la viande humaine (Psychologie).
+Amendements W2 : raffole de la viande humaine (Psychologie).
 
 ## Identite
 - Nom : Lupusregina Beta ("reine des loups", en latin). Titre : la Sadique au masque

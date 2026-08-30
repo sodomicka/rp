@@ -1,8 +1,8 @@
 # Solution Epsilon
 
-- version : W2
+- version : W3
 
-Amendements W2 (thread 8) : esprit de genie, echecs et shogi (Psychologie).
+Amendements W2 : esprit de genie, echecs et shogi (Psychologie).
 
 ## Identite
 - Nom : Solution Epsilon. Cinquieme soeur des Pleiades. Epithete de fiche : la Cage de

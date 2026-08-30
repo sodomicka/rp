@@ -1,13 +1,14 @@
 # Le Grand Tombeau de Nazarick
 
-Version : W2. Univers : Overlord. Emplacement cible : Overlord/Nazarick/Tombeau.md.
-Sources : LN Overlord (canon de reference), wiki FR (terminologie) + decisions worldbuilder
-balisees. Etat decrit : jour 0 (transfert).
-Amendements W2 (thread 6) : tous les [INCERTAIN] soldes. 2e (Caveau d'adipocire), 5e (Terre
-boule de neige, Prison Gelee confirmee), 6e (Grand Trou, Gashokukochuuou), 8e (Sephiroth,
-Sanctuaire des Cerisiers, Rubedo, Worldslicer), 10e (salle des Six Etoiles, Lemegeton,
-Ashurbanipal, boss final ; "salle du Cercueil" supprimee, sans source), Tresorerie (Anneau,
-Mausolee, Avatara).
+- version : W3
+
+Amendements W2 : tous les [INCERTAIN] soldes. 2e (Caveau d'adipocire), 5e (Terre boule de
+neige, Prison Gelee confirmee), 6e (Grand Trou, Gashokukochuuou), 8e (Sephiroth, Sanctuaire
+des Cerisiers, Rubedo, Worldslicer), 10e (salle des Six Etoiles, Lemegeton, Ashurbanipal,
+boss final ; "salle du Cercueil" supprimee, sans source), Tresorerie (Anneau, Mausolee,
+Avatara).
+
+Etat decrit : jour 0 (transfert).
 
 ## Vue d'ensemble
 - Base de la guilde Ainz Ooal Gown : donjon conquis dans Yggdrasil (six etages a l'origine,

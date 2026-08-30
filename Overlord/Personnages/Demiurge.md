@@ -1,8 +1,8 @@
 # Demiurge
 
-- version : W2
+- version : W3
 
-Amendements W2 (thread 7) : titre d'Albedo (Regente des Gardiens) ; niveau intellectuel
+Amendements W2 : titre d'Albedo (Regente des Gardiens) ; niveau intellectuel
 des trois cerveaux (decision worldbuilder) ; renvoi vers la page relations d'Azoth.
 
 ## Identite

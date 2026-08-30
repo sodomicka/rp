@@ -2,18 +2,18 @@
 
 - version : W7
 
-Amendements W7 (thread 12) : trajectoire datee ouverte (R0, J0-J3).
+Amendements W7 : trajectoire datee ouverte (R0, J0-J3).
 
-Amendements W6 (thread 9) : Guerison au rang 10 par sa classe de Cardinal, sacre et
+Amendements W6 : Guerison au rang 10 par sa classe de Cardinal, sacre et
 Energie Negative ; les trois branches de la magie (Capacites).
 
-Amendements W5 (thread 8) : cuisine (Gouts) ; polyvalence du sommet (Capacites).
+Amendements W5 : cuisine (Gouts) ; polyvalence du sommet (Capacites).
 
-Amendements W4 (thread 7) : angoisse de l'abandon (Psychologie) ; Albedo Regente des
+Amendements W4 : angoisse de l'abandon (Psychologie) ; Albedo Regente des
 Gardiens ; renvois de relations limites a la page Proches (autres cercles en passe 2).
 
-Amendements W3 (thread 6) : esprit de stratege (Psychologie, Capacites) ; Position
-synchronisee sur la chaine du 9e reformulee (decision thread 4) ; renvois vers les cinq
+Amendements W3 : esprit de stratege (Psychologie, Capacites) ; Position
+synchronisee sur la chaine du 9e reformulee (decision worldbuilder) ; renvois vers les cinq
 pages relations par cercles.
 
 ## Identite
@@ -94,7 +94,7 @@ pages relations par cercles.
   (rang 11). Aucun catalyseur necessaire.
 - Cadre magique : les cinq ecoles de Skyrim, rangs 1-9 + rang 10 (sorts aberrants,
   deja au-dela des meilleurs mages du Nouveau Monde) + rang 11 (grande magie)
-  [DIVERGENCE RP - refonte thread 2 ; detail : cf. Systemes/Magie.md].
+  [DIVERGENCE RP - refonte ; detail : cf. Systemes/Magie.md].
   Repertoire general : sorts canon d'Yggdrasil (reference : liste Tier Spells, wiki fandom EN).
 - Ecoles de predilection : Destruction (flammes), Illusion (controle mental, charme),
   Alteration (sang), Conjuration (necromancie), Guerison (rang 10) [DIVERGENCE RP -

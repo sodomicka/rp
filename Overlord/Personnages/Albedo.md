@@ -1,8 +1,11 @@
 # Albedo
 
-- version : W2
+- version : W3
 
-Amendements W2 (thread 7) : titre VF canon Regente des Gardiens (remplace Superviseuse) ;
+Amendements W3 : trajectoire datee ouverte (R0, J3) ; tolerance au
+blaspheme (Psychologie).
+
+Amendements W2 : titre VF canon Regente des Gardiens (remplace Superviseuse) ;
 niveau intellectuel egal a Demiurge et Azoth, Albedo plus impulsive (decision worldbuilder) ;
 renvoi vers la page relations d'Azoth.
 
@@ -37,6 +40,9 @@ renvoi vers la page relations d'Azoth.
   qui echappent a son maitre. Meme niveau intellectuel que Demiurge et Azoth - plus
   impulsive, elle prend moins le temps de reflechir (decision worldbuilder). Shalltear la
   depasse en capacite de combat.
+- Foi : intensite egale a celle d'Azoth, mais elle croit aveuglement la ou il cherche a
+  comprendre ; elle tolere le blaspheme moins encore que Demiurge - laisser entendre un
+  desaccord entre les 41 s'execute sans sommation [DIVERGENCE RP].
 - Meprise les humains : espece inferieure, a de tres rares exceptions.
 - Talents de maitresse de maison excellents (menage, couture) ; amour de la proprete -
   peut-etre un role joue pour paraitre la femme parfaite, trop effrayant a verifier ;
@@ -101,9 +107,7 @@ renvoi vers la page relations d'Azoth.
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps ; structuration
-par eres de roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
+| J3 | Albedo 1 : premiere seance avec Azoth (chambre des desirs) ; il lui rapporte les mots de la conquete | plus vierge - sa monture ne la refusera plus ; recoit la conquete comme une mission sacree, non comme une boutade |
 
 ---
 

@@ -1,11 +1,11 @@
 # Aura Bella Fiora
 
-- version : W3
+- version : W4
 
-Amendements W3 (thread 8) : le Grand Trou (Large Hole), pas le Trou vert - correction canon
-actee au thread 6 (le Trou vert est posterieur au jour 0).
+Amendements W3 : le Grand Trou (Large Hole), pas le Trou vert - correction canon
+actee (le Trou vert est posterieur au jour 0).
 
-Amendements W2 (thread 7) : titre d'Albedo - Regente des Gardiens (VF canon, decision
+Amendements W2 : titre d'Albedo - Regente des Gardiens (VF canon, decision
 worldbuilder).
 
 ## Identite

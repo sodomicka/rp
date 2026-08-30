@@ -1,9 +1,9 @@
 # Yggdrasil (le jeu d'origine)
 
-Version : W2. Univers : Overlord. Emplacement cible : Overlord/Systemes/Yggdrasil.md.
-Sources : LN Overlord (canon de reference), wiki FR (terminologie).
-Amendements W2 (thread 6) : compte des objets de rang monde solde ; les Vingt et Ouroboros ;
-budget de creation de PNJ.
+- version : W3
+
+Amendements W2 : compte des objets de rang monde solde ; les Vingt et Ouroboros ; budget de
+creation de PNJ.
 
 ## Le jeu
 - DMMO-RPG japonais a immersion totale (dive). Exploitation : 2126-2138.

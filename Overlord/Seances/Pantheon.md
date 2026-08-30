@@ -1,11 +1,11 @@
 # Pantheon - les createurs, pensee de base et pensee profonde
 
-- version : W2
+- version : W3
 - statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut
   roadmap. Porte le futur (la pensee profonde est ce qu'Azoth rapporte de la
   Tresorerie).
 
-Amendements W2 (thread 8) : renvois {Perso}_S.md (homonymie) ; statut indexee, toujours
+Amendements W2 : renvois {Perso}_S.md (homonymie) ; statut indexee, toujours
 interdite en narration.
 
 Deux etages par createur : la PENSEE DE BASE, ce que le setting laisse a sa creature et

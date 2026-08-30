@@ -1,15 +1,19 @@
 # Les 41 Etres Supremes (guilde Ainz Ooal Gown)
 
-Version : W4. Univers : Overlord. Emplacement cible : Overlord/Nazarick/Etres_Supremes.md.
-Sources : LN Overlord (canon de reference) + decisions worldbuilder balisees. Etat : jour 0.
-Amendements W2 (thread 6) : neuf d'origine, rang de la guilde, createurs ajoutes
-(Nishikienrai, Wish III, Yamaiko solde, Beast King Mekongawa, Garnet, Genjiro, Blue Planet,
-Whitebrim, Coup De Grace) ; tous les [INCERTAIN] soldes.
-Amendements W4 (thread 8) : races des createurs posees au thread 7 (decision
-worldbuilder ; canon muet sauf mention) ; Genjiro complete ; Punitto Moe et Ankoro Mocchi
-Mochi ajoutes (utiles au focus : corpus preche, trois femmes de la guilde).
-Amendements W3 (thread 7) : Wish III, Archange bienveillant ; position du personnel au
-transfert (decision worldbuilder).
+- version : W5
+
+Amendements W4 : races des createurs posees (decision worldbuilder ; canon muet sauf
+mention) ; Genjiro complete ; Punitto Moe et Ankoro Mocchi Mochi ajoutes (utiles au focus :
+corpus preche, trois femmes de la guilde).
+
+Amendements W3 : Wish III, Archange bienveillant ; position du personnel au transfert
+(decision worldbuilder).
+
+Amendements W2 : neuf d'origine, rang de la guilde, createurs ajoutes (Nishikienrai,
+Wish III, Yamaiko solde, Beast King Mekongawa, Garnet, Genjiro, Blue Planet, Whitebrim,
+Coup De Grace) ; tous les [INCERTAIN] soldes.
+
+Etat decrit : jour 0.
 
 ## La guilde
 - Ainz Ooal Gown : guilde d'Yggdrasil, 41 membres a son apogee, exclusivement heteromorphes.

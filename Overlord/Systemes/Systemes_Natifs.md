@@ -1,7 +1,6 @@
 # Systemes natifs du Nouveau Monde
 
-Version : W1. Univers : Overlord. Emplacement cible : Overlord/Systemes/Systemes_Natifs.md.
-Sources : LN Overlord (canon de reference), wiki FR (terminologie).
+- version : W2
 
 ## Arts Martiaux
 - Techniques de combat des guerriers natifs. N'existent PAS dans Yggdrasil.
@@ -9,7 +8,7 @@ Sources : LN Overlord (canon de reference), wiki FR (terminologie).
 - Le nombre d'Arts maitrises mesure le calibre d'un guerrier (un maitre en tient 5-6 a la fois).
 - Effets type : renforcement de lame, perception accrue, defense absolue breve, frappe amelioree.
 - Les Joueurs ne peuvent pas les apprendre [IMPLICITE - aucun cas connu ; mystere lie a leur origine].
-- Noms VF des techniques : a fixer en thread dedie de traduction [VF A FOURNIR].
+- Noms VF des techniques : a fixer en chantier dedie de traduction [VF A FOURNIR].
 
 ## Talents
 - Dons innes, aleatoires, presents chez environ une personne sur deux cents.

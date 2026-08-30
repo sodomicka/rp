@@ -1,11 +1,11 @@
 # Seances - Demiurge
 
-- version : W3
+- version : W4
 - statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
 
-Amendements W3 (thread 12, build R0) : seance 1 deplacee en chemin vers le 6e (le Message
+Amendements W3 (build R0) : seance 1 deplacee en chemin vers le 6e (le Message
 coupe l'office), Demiurge pas sur de lui ; seance 2 enrichie des plans du souverain (le
-malentendu de la conquete nait entre freres). Amendements W2 (thread 8) : renvois
+malentendu de la conquete nait entre freres). Amendements W2 : renvois
 {Perso}_S.md (homonymie) ; statut indexee, toujours interdite en narration.
 
 Trame commune : les trois etapes de la foi d'Azoth - BERGER SINCERE, BERGER PERDU,

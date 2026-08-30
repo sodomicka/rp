@@ -1,8 +1,8 @@
 # Theologie d'Azoth - doctrine de l'Eglise Impie
 
-- version : W2
+- version : W3
 
-Amendements W2 (thread 8) : intensite de foi tranchee (Azoth et Albedo a egalite) ;
+Amendements W2 : intensite de foi tranchee (Azoth et Albedo a egalite) ;
 la hierarchie tacite entre les 41 ; renvoi CZ2128.
 
 Doctrine au jour 0, foi intacte. L'officiant : cf. Personnages/Azoth.md. Le lieu : cf.

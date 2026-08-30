@@ -1,8 +1,6 @@
 # Echelle de puissance
 
-Version : W3. Univers : Overlord. Emplacement cible : Overlord/Systemes/Echelle_Puissance.md.
-Sources : LN Overlord (fiches officielles, comparatifs de l'auteur) + decisions worldbuilder
-balisees.
+- version : W4
 
 ## Principe
 - Echelle unique : les niveaux d'Yggdrasil (1-100) mesurent aussi les natifs.

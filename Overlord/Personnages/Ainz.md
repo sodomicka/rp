@@ -1,8 +1,8 @@
 # Ainz Ooal Gown
 
-- version : W2
+- version : W3
 
-Amendements W2 (thread 7) : titre d'Albedo - Regente des Gardiens (VF canon, decision
+Amendements W2 : titre d'Albedo - Regente des Gardiens (VF canon, decision
 worldbuilder).
 
 ## Identite

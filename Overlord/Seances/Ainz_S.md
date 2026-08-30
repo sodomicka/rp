@@ -1,11 +1,11 @@
 # Seances - Ainz (Momonga)
 
-- version : W3
+- version : W4
 - statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
 
-Amendements W3 (thread 12) : seance 1 enrichie par le build R0 - ancrage precis, visite
+Amendements W3 : seance 1 enrichie par le build R0 - ancrage precis, visite
 de la Tresorerie dans la foulee (forme d'Ulbert, reconfig verbale), anneau et acces
-illimite ; l'eveil constate sur Albedo. Amendements W2 (thread 8) : renvois {Perso}_S.md
+illimite ; l'eveil constate sur Albedo. Amendements W2 : renvois {Perso}_S.md
 (homonymie) ; statut indexee, toujours interdite en narration.
 
 Trame commune a toutes les seances (decision worldbuilder) : les trois etapes de la foi

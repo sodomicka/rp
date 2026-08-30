@@ -2,7 +2,7 @@
 
 - version : W2
 
-Amendements W2 (thread 12) : trajectoire datee ouverte (R0, J1-J2).
+Amendements W2 : trajectoire datee ouverte (R0, J1-J2).
 
 ## Identite
 - Nom : Pandora's Actor. Epithete : l'Homme sans visage aux mille formes.

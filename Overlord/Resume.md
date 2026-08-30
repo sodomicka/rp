@@ -1,15 +1,15 @@
 # Resume - Overlord (histoire etablie)
 
-- version : W5
+- version : W6
 
-Amendements W5 (thread 9) : les trois nations voisines, les Divinites Malefiques, les trois
+Amendements W5 : les trois nations voisines, les Divinites Malefiques, les trois
 branches de la magie.
 
-Amendements W4 (thread 8) : position du personnel au transfert.
+Amendements W4 : position du personnel au transfert.
 
-Amendements W3 (thread 7) : Albedo Regente des Gardiens.
+Amendements W3 : Albedo Regente des Gardiens.
 
-Amendements W2 (thread 6) : [INCERTAIN] soldes ; neuf d'origine ; rang de la guilde ; vagues
+Amendements W2 : [INCERTAIN] soldes ; neuf d'origine ; rang de la guilde ; vagues
 de Joueurs ; corps neufs au jour 0.
 
 ## Yggdrasil (2126-2138)

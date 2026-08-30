@@ -1,9 +1,9 @@
 # Seances - Albedo
 
-- version : W3
+- version : W4
 - statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
 
-Amendements W3 (thread 12, build R0) : seance 1 - c'est Azoth qui rapporte a Albedo la mission sacree de la conquete (recue de Demiurge) ; battement ajoute. Amendements W2 (thread 8) : renvois {Perso}_S.md (homonymie) ; statut indexee, toujours interdite en narration.
+Amendements W3 (build R0) : seance 1 - c'est Azoth qui rapporte a Albedo la mission sacree de la conquete (recue de Demiurge) ; battement ajoute. Amendements W2 : renvois {Perso}_S.md (homonymie) ; statut indexee, toujours interdite en narration.
 
 Trame commune : les trois etapes de la foi d'Azoth - BERGER SINCERE, BERGER PERDU, BERGER MARTYR. Ancrage de chaque seance : le compte des sermons d'Azoth depuis le jour 0. Dates : fixees aux roadmaps. Etat du lien au jour 0 et evolution : cf. Personnages/Azoth_relations_Proches.md. Noyau : cf. Personnages/Albedo.md. Seances d'Ainz, qui s'intercalent : cf. Seances/Ainz_S.md.
 

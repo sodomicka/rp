@@ -1,9 +1,9 @@
 # Seances - Pandora's Actor
 
-- version : W2
+- version : W3
 - statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
 
-Amendements W2 (thread 12, build R0) : seance 1 enrichie - accueil sous la forme
+Amendements W2 (build R0) : seance 1 enrichie - accueil sous la forme
 d'Ulbert (scene canon de la Tresorerie deplacee ici, intro de Pandora's Actor),
 reconfiguration verbale par Momonga ; la cause du fil ferme gravee au verrou.
 

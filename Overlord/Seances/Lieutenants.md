@@ -1,10 +1,10 @@
 # Seances - Lieutenants (Sebas, Aureole, Yuri)
 
-- version : W2
+- version : W3
 - statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut
   roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
 
-Amendements W2 (thread 8) : renvois {Perso}_S.md ; statut indexee, interdite en narration.
+Amendements W2 : renvois {Perso}_S.md ; statut indexee, interdite en narration.
 
 Trame commune : les trois etapes de la foi d'Azoth - BERGER SINCERE, BERGER PERDU,
 BERGER MARTYR. Ancrage : le compte des sermons depuis le jour 0. Au transfert, Sebas,

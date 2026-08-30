@@ -1,8 +1,8 @@
 # Seances - Cocytus
 
-- version : W1
+- version : W2
 - statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
-- provenance : issue de la scission de Gardiens.md W2 (plafond des pages de seances depasse ; decision worldbuilder, thread 12). Gardiens.md est supprime. Les jumeaux : Seances/Jumeaux_S.md.
+- provenance : issue de la scission de Gardiens.md W2 (plafond des pages de seances depasse ; decision worldbuilder). Gardiens.md est supprime. Les jumeaux : Seances/Jumeaux_S.md.
 
 Trame commune : les trois etapes de la foi d'Azoth - BERGER SINCERE, BERGER PERDU,
 BERGER MARTYR. Ancrage : le compte des sermons depuis le jour 0. Au transfert, les

@@ -1,14 +1,14 @@
 # Chronologie des roadmaps - Azoth
 
-- version : W2
+- version : W3
 - role : GARDE-CAP de la saga. Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de Passe 2), ou le canon est redonne en detail. STATUT ROADMAP : hors Sommaire, jamais fetche en narration.
 - prota / POV : Azoth, Cardinal Demoniaque, Gardien du 9e.
 - axe : jours depuis J0 (transfert). Ancrage des seances : le compte des sermons depuis J0.
 - convention de nommage : Roadmap_R<N>_<Evenement>.md - l'evenement le plus important de la roadmap POUR AZOTH. R0 = intro hors histoire canon guide ; le fil canon commence en R1.
 
-Amendements W2 (thread 12) : convention posee ; renumerotation (decalage de 1 : R0 puis
-R1-R9, R10+ ouvert) ; R0 buildee ; S1/S2 recales (Message coupe S1, seances differees,
-horloge de CZ) ; marqueurs d'ere.
+Amendements W3 : forme, aucun changement de fond.
+
+Amendements W2 : convention posee ; renumerotation (decalage de 1 : R0 puis R1-R9, R10+ ouvert) ; R0 buildee ; S1/S2 recales (Message coupe S1, seances differees, horloge de CZ) ; marqueurs d'ere.
 
 ## Marqueurs d'ere (regles de placement des seances)
 - Critere : une seance qui ACCOMPLIT la pensee profonde du createur est jouable a toute ere ; une seance qui DEPASSE ou ACCOMMODE un choix de Supreme exige le martyr - le sincere ne peut pas la prononcer sans blasphemer.

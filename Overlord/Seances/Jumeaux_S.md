@@ -1,8 +1,8 @@
 # Seances - Aura et Mare (les jumeaux)
 
-- version : W1
+- version : W2
 - statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
-- provenance : issue de la scission de Gardiens.md W2 (plafond des pages de seances depasse ; decision worldbuilder, thread 12). Gardiens.md est supprime. Cocytus : Seances/Cocytus_S.md.
+- provenance : issue de la scission de Gardiens.md W2 (plafond des pages de seances depasse ; decision worldbuilder). Gardiens.md est supprime. Cocytus : Seances/Cocytus_S.md.
 
 Trame commune : les trois etapes de la foi d'Azoth - BERGER SINCERE, BERGER PERDU,
 BERGER MARTYR. Ancrage : le compte des sermons depuis le jour 0. Au transfert, les
@@ -15,7 +15,7 @@ seulement, aucun autre registre, sans exception ; le creneau "regards" de la sea
 de Sebas n'est pas transpose. Emancipation individuelle : chacun vient seul, jamais
 avec l'autre.
 
-NOTE D'ERE (decision worldbuilder, thread 12) : le berger sincere ne peut
+NOTE D'ERE (decision worldbuilder) : le berger sincere ne peut
 structurellement pas prendre les jumeaux - les guider revient a dire qu'un choix de
 Supreme peut etre depasse, un blaspheme dans sa bouche. Seul le martyr, qui sait que
 personne ne revient et fabrique deja la voix, peut oser l'emancipation. En sincere, les

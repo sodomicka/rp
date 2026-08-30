@@ -1,7 +1,8 @@
 # Nazarick - Regles internes et metaphysique
 
-Version : W4. Univers : Overlord. Emplacement cible : Overlord/Nazarick/Regles_Internes.md.
-Sources : LN Overlord (canon de reference) + decisions worldbuilder balisees. Etat : jour 0.
+- version : W5
+
+Etat decrit : jour 0.
 
 ## Loyaute et culte des 41
 - Axiome fondateur : chaque PNJ voue une loyaute absolue aux 41 Etres Supremes.

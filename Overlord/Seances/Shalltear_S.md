@@ -1,9 +1,9 @@
 # Seances - Shalltear Bloodfallen
 
-- version : W2
+- version : W3
 - statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
 
-Amendements W2 (thread 12, build R0) : plus de seance a S1 (le Message coupe l'office ;
+Amendements W2 (build R0) : plus de seance a S1 (le Message coupe l'office ;
 elle n'a rien eu avant S2, c'est ce qui arme la jalousie) ; renumerotation en
 consequence (l'ancienne seance 2 devient la seance 1, et ainsi de suite).
 
@@ -13,7 +13,7 @@ Noyau : cf. Personnages/Shalltear.md. Apparence et registre : divergence 6 actee
 adulte en tout point, registre du RP ouvert sous la REGLE FERME. Cas a part parmi les
 Gardiens (decision worldbuilder) : hors gabarit Sebas, fiche personnelle. Registre
 d'ecriture : ellipse sur l'acte, tout le reste montre (rappels de process,
-_Implications.md). Partage du harem : matiere de trajectoire actee au thread 3.
+_Implications.md). Partage du harem : matiere de trajectoire actee.
 Pensee de Peroroncino : Seances/Pantheon.md.
 
 ## Gabarit

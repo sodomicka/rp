@@ -6,24 +6,25 @@ Principe (decision worldbuilder) : ce journal ne garde que l'OUVERT - ce qui n'e
 encore tranche, ce qui n'est grave dans aucune page, et les regles de process qui ne vivent
 nulle part ailleurs. Tout ce qui est acte vit en BIBLE, en WIKI ou en Seances/, balise
 [DIVERGENCE RP] ou (decision worldbuilder) quand c'est un choix, sans balise quand c'est
-le canon. Aucun historique, aucun datage par thread : une ligne actee et propagee SORT du
+le canon. Aucun historique, aucun datage : une ligne actee et propagee SORT du
 journal au build suivant.
 
 ## Etat du chantier
-- PASSE 1 CLOSE : BIBLE B5 ; Systemes 4, Nazarick 5, Personnages 24,
-  NouveauMonde 7, Seances 10 pages ; Sommaire W11 ; Resume W5. Zero [INCERTAIN].
-- PROCHAIN : ROADMAPS, PASSE 2 en boucle serree par arc - roadmap N en grandes
-  lignes -> confrontation au canon -> fiches absentes et enrichissements A CHAUD (Trajectoire
-  datee, pages Azoth_relations_*) -> details -> N+1. Le decoupage en arcs se tranche AVANT
-  la premiere roadmap. Gabarit : SPEC_BIBLE_LORE_WIKI, version courante verifiee par
-  listing de Config/ avant fetch. Roadmaps dans Overlord/Roadmap/Azoth/, hors index.
+- ETAT : BIBLE B6 ; Systemes 4, Nazarick 5, Personnages 24, NouveauMonde 7, Seances 11
+  pages ; Sommaire W14 ; Resume W6. Zero [INCERTAIN].
+- PASSE 2 EN COURS - boucle serree par arc : roadmap N en grandes lignes -> confrontation
+  au canon -> fiches absentes et enrichissements A CHAUD (Trajectoire datee, pages
+  Azoth_relations_*) -> details -> N+1. Decoupage en arcs TRANCHE : R0-R9 bornees au
+  garde-cap, R10+ ouvert. R0 buildee (L'Eveil : J0 -> S2 a J3) ; R1 a builder et a nommer
+  (Carne ~J4 -> Ainz 2 a J7). Gabarit : SPEC_BIBLE_LORE_WIKI, version courante verifiee
+  par listing de Config/ avant fetch. Roadmaps dans Overlord/Roadmap/Azoth/, hors index.
 - ENSUITE : relecture croisee de cloture de passe 2 (dont la hierarchie du 9e,
   Organigramme) ; fiches d'arc (passe 3) ; CODEX V1 ; setup.
 
 ## Sources de la passe 2 (roadmaps)
-- BIBLE B5 : SB0 (cadrage thematique verbatim, trois etapes de la foi), SB3 (faits jour 0
+- BIBLE B6 : SB0 (cadrage thematique verbatim, trois etapes de la foi), SB3 (faits jour 0
   sans issue), SB8 (Tchekhov et mysteres).
-- Seances/ (10 pages, statut roadmap) : Ainz_S porte la TRAJECTOIRE THEOLOGIQUE complete
+- Seances/ (11 pages, statut roadmap) : Ainz_S porte la TRAJECTOIRE THEOLOGIQUE complete
   (recitation machinale -> preche sincere -> Tresorerie -> paroles inconciliables -> folie
   -> confession -> paravent -> aveu de la retouche) et la cause de la chute (la neutralite
   entre les 41) ; Pantheon porte les contradictions entre createurs ; les pages de cercles
@@ -31,13 +32,19 @@ journal au build suivant.
 - Nazarick/Theologie_Azoth.md (doctrine au jour 0, foi intacte).
 - Personnages/Azoth_relations_Proches.md : evolution des liens deja posee (adresses par
   etape, Momonga a l'Eglise une fois confident, Albedo attachement -> tiraillement).
+- Roadmap/Azoth/Chronologie.md (garde-cap, hors index) : bornes et jalons de R0 a R9,
+  marqueurs d'ere, reperes de datation en jours depuis J0, table des sermons et des
+  seances d'Ainz. Cadre chaque roadmap suivante.
 - La matiere de trajectoire ci-dessous.
 
 ## Matiere de trajectoire (roadmaps ; JAMAIS en page indexee hors Trajectoire datee)
 Nazarick
 - Ainz : "Momonga" au jour 0 ; le nom Ainz Ooal Gown est pris passe la roadmap 1
   (renommage = trajectoire, fiche deja nommee Ainz.md).
-- Albedo : vierge sans le savoir au jour 0 - "ca va TRES VITE changer".
+- Albedo : plus vierge en sortie de R0 (Albedo 1, J3). Sa monture, le Seigneur-Bicorne de
+  guerre, ne refusera plus de la porter - le revelateur pose en fiche (un bicorne ne porte
+  que les femmes impures, et sa monture pouvait donc lui apprendre sa virginite) s'eteint
+  avant d'avoir servi.
 - Pleiades (formules worldbuilder) : Alpha apprendre a se detendre ; Beta accepter sa
   bestialite (privilegiee, toilettage, nourrissage, sommeil nus et colles, apogee : sa
   femelle, l'acte sans fecondation) ; Gamma baisser sa garde (confiance, confidences,
@@ -87,9 +94,9 @@ Nouveau Monde
   fecondee avant, ou un plan a trois, ou toutes deux le sont.
 - Fecondite d'Ainz (mort-vivant) : ouverte (celle des creations des 41 est actee).
 - Clementine : desertion sans date canon ; a trancher quand la roadmap passe par E-Rantel.
-- Candidats SB8 non inscrits (hors liste du build B5) : Zuranon / la Spirale de la Mort ;
+- Candidats SB8 non inscrits (hors liste du build B6) : Zuranon / la Spirale de la Mort ;
   l'operation de l'Ecriture du Soleil contre Gazef ; la prophetie du Seigneur Dragon de la
-  Catastrophe ; le Talent de Zesshi. B5 les cite en SB3 Notes comme faits sans issue.
+  Catastrophe ; le Talent de Zesshi. B6 les cite en SB3 Notes comme faits sans issue.
 - Momonga a-t-il lu le setting d'Azoth (le texte d'Ulbert) ? Non tranche - matiere de la
   seance Momonga.
 - Lectures MJ des seances (lignes "Ce qu'Azoth decouvre"), validees par silence : a
@@ -100,8 +107,6 @@ Nouveau Monde
   _Tertiaires) : passe 2, derivees des roadmaps et des seances ; Victim en Tertiaires,
   Gargantua jamais. Seances/Tertiaires : pas de page, elles viennent combler des vides ou
   repondre a des evenements canon, en roadmap.
-- Albedo.md W2 ne porte pas "tolere le blaspheme moins encore que Demiurge" : Albedo W3 a la
-  prochaine retouche de la fiche (non bloquant, BIBLE et Theologie le portent).
 - Seances/Pantheon.md : 9 341 caracteres, au-dessus des 8 000 - scission a decider au
   prochain passage.
 - Systemes/Sorts.md (sorts signatures) : scission candidate si Magie (10,8k) regrossit.
@@ -110,9 +115,10 @@ Nouveau Monde
   "Hamsuke, niveau canon ~30" -> "le Roi Sage, estime ~30" (aligne sur la fiche).
 - CORPS FECONDS place dans la section Metaphysique (SAVOIR META) de
   Regles_Internes W4 alors que le fait n'est pas meta ; la ligne le precise. A deplacer ?
-- Taille de la BIBLE : B5 = 37,4k (B4 ~26k, estimation). Plafond SPEC 40k,
-  marge courte. ~2k d'extras de condensation gardes (lexique Six Grands Dieux / Tresor des
-  Six / Trois Monstres ; SB3 ligne guerre des elfes et Notes ; E-Rantel et Carne enrichis).
+- Taille de la BIBLE : B6 = 38,2k (B5 37,4k). Plafond SPEC 40k, marge 1,8k - une entree
+  SB8 ou SB5 de plus la consomme. ~2k d'extras de condensation gardes (lexique Six Grands
+  Dieux / Tresor des Six / Trois Monstres ; SB3 ligne guerre des elfes et Notes ;
+  E-Rantel et Carne enrichis).
   Extras ecrits puis retires, disponibles au B6 : seconds roles en ligne ; entrees SB4
   Zuranon et Pays des Elfes ; lignes SB3 Zuranon et guerre du lac. Compression = decision
   worldbuilder.
@@ -140,6 +146,9 @@ Nouveau Monde
   Magie, Theocratie_Slane. Fiche Azoth : plafond prota 20k.
 - SPEC v8.4 en BIBLE : entrees d'entite 3-4 lignes des qu'une fiche existe ; aucun chantier
   ("fiche a venir") ; SB8 = definition + statut ; cible 35-40k.
+- SOMMAIRE : une ligne logique par item, jamais de retour de wrap - une entree tient sur
+  une ligne, description courte. La regle vise le Sommaire seul : sans elle il enfle
+  (derive constatee). Les autres pages gardent leur retour a la ligne normal.
 - Uploads groupes en fin de session ; ZIP organise ; versions incrementees et reportees au
   Sommaire dans le meme build.
 - Roadmap/ et Seances/ : sources de build, JAMAIS fetches en narration. Rien de la roadmap
@@ -161,9 +170,12 @@ Nouveau Monde
 - Roble : longueur de la Grande Muraille ecartee (100 000 km au wiki EN, absurde).
 - Hamsuke : nombre de sigils non grave (page EN contradictoire, six / huit).
 - Tic "~su" de Lupusregina supprime ; syntaxe inversee du Roi Sage abandonnee.
+- Datation des jours du canon : le LN ne numerote aucun jour sur la fenetre J0 -> J3. Les
+  reperes en jours du garde-cap sont des conventions worldbuilder, compatibles avec un
+  canon muet - ne pas les rouvrir comme un ecart au canon.
 
 ## A graver au CODEX V1 (ANNEXE_STYLE), formulations worldbuilder
-- Cadrage thematique et trois etapes de la foi : reprendre BIBLE B5 SB0 tel quel.
+- Cadrage thematique et trois etapes de la foi : reprendre BIBLE B6 SB0 tel quel.
 - CADRAGE DE TON : RP axe PSYCHOLOGIE, ROMANCE, INTROSPECTION. L'histoire d'Overlord est la
   toile de fond ; pas un RP de batailles de mages.
 - REGISTRE : ellipse sur le sexe - l'acte lui-meme, pas de dialogue pendant l'ebat ; TOUT
@@ -176,6 +188,11 @@ Nouveau Monde
   tension, corps et reactions - et ne coupe que si le joueur part dans l'acte explicite.
   C'est la formulation du joueur qui suggere l'ellipse quand elle est souhaitee ; le MJ ne
   l'anticipe jamais par prudence. L'apres est montre.
+  PAS DE PUDEUR : les themes et les mots sont explicites ("appetit sexuel") ; la retenue
+  porte sur l'anatomie crue et sur l'acte, jamais sur le vocabulaire du desir.
+- IRONIE DRAMATIQUE : le MJ ne la sert jamais au joueur. Un savoir que le personnage n'a
+  pas se narre par ce qu'il voit, sans appui ni suggestion ; le joueur comprend
+  seul ou pas. Vaut pour les Tchekhov a cle retrospective (SB8).
 - CASTING SENSUEL : Albedo, Pleiades = ok. Shalltear et Zesshi : eligibles sous la REGLE
   FERME (adulte en tout point : corps, presentation, comportement), portier pour tout le
   casting. Aura, Mare, Nemu = exclusion totale (enfants). Aureole = hors registre (aucune
