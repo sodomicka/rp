@@ -1,7 +1,12 @@
 # Seances - Demiurge
 
-- version : W4
+- version : W5
 - statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
+
+Amendements W5 (build R2) : seances datees (1 a J0, 2 a J3, 3 a J5, 4 a J7, 5 a
+J14) ; intervalle J8-J13 precise - aucune seance, Demiurge croit la crise reglee avec le
+Seigneur et ne va pas chercher son frere ; seance 5 enrichie de sa cause cachee - la
+douceur qu'il remarque date de la resurrection de Shalltear et de l'aveu.
 
 Amendements W3 (build R0) : seance 1 deplacee en chemin vers le 6e (le Message
 coupe l'office), Demiurge pas sur de lui ; seance 2 enrichie des plans du souverain (le
@@ -25,7 +30,7 @@ cf. Seances/Ainz_S.md, Seances/Albedo_S.md.
 
 ## Ere du berger sincere
 ### Seance 1 - tous vrais, point
-- Ancrage : 1er sermon, coupe par le Message pendant la conclusion ; la joute se joue EN CHEMIN vers le 6e (roadmap R0).
+- Ancrage : J0, 1er sermon, coupe par le Message pendant la conclusion ; la joute se joue EN CHEMIN vers le 6e (roadmap R0).
 - Battements :
   1. Demiurge dit son frere plus passionne qu'a l'accoutumee - mais il n'est pas sur de lui. Azoth ne trouve pas.
   2. Joute verbale entre freres dans les couloirs : Demiurge s'amuse de voir Azoth tenter d'expliquer comment les textes convergent vers la meme pensee, alors qu'il suffit de dire que tous sont vrais. Personne n'interrompt : ils arrivent au 6e alors que le debat se clot comme toujours - "entendons-nous sur le fait que nous ne nous entendrons jamais".
@@ -33,7 +38,7 @@ cf. Seances/Ainz_S.md, Seances/Albedo_S.md.
 - Verrou : la methode de Demiurge lui est inaccessible. Azoth a besoin de demontrer ; Demiurge se contente de croire.
 
 ### Seance 2 - l'Incube et la Succube
-- Ancrage : 2e sermon (J3), premier office d'Albedo ; Demiurge sort de la surface avec le Seigneur le jour meme (roadmap R0). Seances/Albedo_S.md, seance 1, suit immediatement.
+- Ancrage : J3, 2e sermon, premier office d'Albedo ; Demiurge sort de la surface avec le Seigneur le jour meme (roadmap R0). Seances/Albedo_S.md, seance 1, suit immediatement.
 - Battements :
   1. Demiurge voit l'Incube et la Succube se devorer du regard.
   2. Il part en glissant a son frere qu'il ne comprendra jamais - mais puisque leur passion est la volonte des 41, il se moque d'eux sans juger.
@@ -42,7 +47,7 @@ cf. Seances/Ainz_S.md, Seances/Albedo_S.md.
 
 ## Ere du berger perdu
 ### Seance 3 - la mise en garde
-- Ancrage : 3e sermon (Azoth a commence a creuser les ecrits).
+- Ancrage : J5, 3e sermon (Azoth a commence a creuser les ecrits).
 - Battements :
   1. Demiurge le voit plus investi que jamais.
   2. Il le met en garde : tenter de comprendre des dieux hors d'atteinte, c'est ouvrir son esprit a la folie - nul ne peut supporter ce niveau de comprehension.
@@ -50,20 +55,22 @@ cf. Seances/Ainz_S.md, Seances/Albedo_S.md.
 - Verrou : la folie annoncee. Demiurge nomme le danger sans en connaitre la cause.
 
 ### Seance 4 - je t'avais averti
-- Ancrage : 4e sermon (celui ou Azoth cafouille).
+- Ancrage : J7, 4e sermon (celui ou Azoth cafouille).
 - Battements :
   1. Demiurge lui dit qu'il l'avait averti, et qu'Azoth n'en a fait qu'a sa tete.
   2. Si meme le pretre ne peut supporter la verite, qu'il gere sa crise de foi avec le Seigneur.
 - Ce qu'Azoth decouvre : que son frere le croit fou par l'intensite des recits - pas par leurs incoherences, qu'il pense inexistantes - et non heretique. C'est ce qui le sauve.
 - Verrou : l'erreur de lecture de Demiurge, paravent involontaire. Et c'est Demiurge lui-meme qui l'envoie vers le Seigneur (Seances/Ainz_S.md, seance 2).
+- ENTRE CETTE SEANCE ET LA SUIVANTE (J8-J13, roadmap R2) : aucune seance. Demiurge tient la crise pour reglee avec le Seigneur et ne va pas chercher son frere - c'est lui qui l'y a envoye. Il traverse la crise de Shalltear en Gardien, sans faire le lien avec le silence de l'Eglise.
 
 ## Ere du berger martyr
 ### Seance 5 - le grand frere
-- Ancrage : 5e sermon. Azoth s'exprime comme avant.
+- Ancrage : J14, 5e sermon. Azoth s'exprime comme avant.
 - Battements :
   1. Demiurge retrouve son frere comme avant.
   2. Mais il remarque qu'Azoth le regarde differemment : plus protecteur, plus grand frere, avec une douceur que les joutes verbales habituelles ne montrent pas.
 - Ce qu'Azoth decouvre sur lui-meme : qu'il est devenu le grand frere.
+- SAVOIR MJ, JAMAIS SOULIGNE : la douceur date de la veille. Depuis Ainz 3, Azoth sait que si son frere apprend un jour ce qu'il sait, il l'executera - et qu'il faudra le lui cacher jusqu'au bout. Il regarde desormais Demiurge comme quelqu'un qu'il protege d'une chose que Demiurge ne pourrait pas survivre a comprendre.
 - Verrou : la douceur que les joutes ne montrent pas. Demiurge la remarque, n'en connait pas la cause.
 
 ### Seances 6 et suivantes - comment Ulbert ferait

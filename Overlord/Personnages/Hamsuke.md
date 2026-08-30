@@ -1,11 +1,17 @@
 # Hamsuke
 
-- version : W1
+- version : W2
+
+Amendements W2 (build R2) : trajectoire datee ouverte - J11, debusque par Aura, soumis
+par Momon, NOMME SUR PLACE PAR AINZ (canon), enregistre comme monture a la guilde des
+aventuriers d'E-Rantel. Le [A POSER] "qui le nomme" est tranche : le canon, Azoth n'y est
+pas. Un Tchekhov le concerne pour R3 (formation theologique) : il vit en roadmap, pas
+ici, tant que l'arc qui le produit n'est pas ecrit.
 
 ## Identite
 - Titre : le Roi Sage de la Foret ; pour les habitants de Tob, la Bete du Sud, l'un des
   Trois Monstres. Sans nom au jour 0 : "Hamsuke" est le nom de reference de la fiche, le
-  nom qu'il recevra (canon) - qui le lui donne, et quand, releve de la roadmap.
+  nom qu'il recevra d'Ainz a J11 (canon).
 - Race : hamster geant a queue de serpent. MALE [DIVERGENCE RP - canon LN : femelle ;
   decision worldbuilder]. Absent du Web Novel.
 - Age : plusieurs siecles, dit-on ; la legende du Roi Sage court depuis deux cents ans au
@@ -71,8 +77,11 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J11 | Debusque et rabattu par Aura sur ordre d'Ainz ; soumis par Momon, qui l'epargne et le prend pour monture plutot que de le tuer ; NOMME "HAMSUKE" SUR PLACE PAR AINZ (canon), en partie parce que le Seigneur reconnait chez lui la quete d'un semblable ; ramene a E-Rantel et enregistre comme monture a la guilde des aventuriers | serviteur de Momon ; il a un nom ; il n'est plus seul, et il ne comprend rien a ce qu'il vient de rejoindre |
 
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps.)
+(Alimentation a chaud arc par arc apres les roadmaps. Suite en R3 : sa formation
+theologique par Azoth, sur demande d'Ainz - le fil et sa condition de detonation vivent en
+Roadmap/Azoth/Chronologie.md tant que R3 n'est pas ecrite.)
 
 ---
 

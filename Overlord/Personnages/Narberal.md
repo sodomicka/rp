@@ -1,6 +1,9 @@
 # Narberal Gamma
 
-- version : W1
+- version : W2
+
+Amendements W2 (build R2) : trajectoire datee ouverte - detachement aupres du
+Seigneur sous la persona de "Nabe", du huitieme au quatorzieme jour.
 
 ## Identite
 - Nom : Narberal Gamma. Troisieme soeur des Pleiades.
@@ -115,9 +118,12 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J8 | DESIGNEE PAR AZOTH, sur demande d'Ainz, pour accompagner le Seigneur dehors. Elle part le jour meme et prend a E-Rantel la persona de "NABE", magicienne aventuriere aux cotes de Momon | detachee du 9e ; servir sous un faux nom, sans rang ni titre |
+| J8-J14 | Couverture eprouvante : elle doit traiter des humains en egaux, retenir son mepris et son "-sama" reflexe ; elle reste mauvaise actrice. Escorte de Nfirea dans la foret de Tob avec les Epees des Tenebres ; soumission du Roi Sage (J11) ; enlevement de Nfirea et cimetiere d'E-Rantel (J12) | la garde jamais baissee, tenue en permanence sous un masque |
+| J14 | Momon et Nabe promus adamantite | couverture etablie au sommet du rang aventurier ; elle ne rentre pas a Nazarick |
 
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps ; structuration
-par eres de roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
+(Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
+roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
 
 ---
 

@@ -1,6 +1,10 @@
 # Albedo
 
-- version : W4
+- version : W5
+
+Amendements W5 (build R2) : trajectoire datee R2 (J8 -> J14) - les sept jours sans
+seance, la crise Shalltear geree en Regente, l'expedition refusee, et le retour du
+quatorzieme jour ou elle doute pour la premiere fois.
 
 Amendements W4 (build R1) : trajectoire datee R1 (J5, J7).
 
@@ -112,6 +116,9 @@ renvoi vers la page relations d'Azoth.
 | J3 | Albedo 1 : premiere seance avec Azoth (chambre des desirs) ; il lui rapporte les mots de la conquete | plus vierge - sa monture ne la refusera plus ; recoit la conquete comme une mission sacree, non comme une boutade |
 | J5 | Albedo 2, apres S3 : elle le trouve ailleurs, la seance est fonctionnelle ; elle le remercie de l'avoir moins tiraillee | l'absence d'Azoth lui convient - elle n'y voit rien |
 | J7 | Albedo 3, apres S4 : elle le sent perdu, pose des questions et s'approche de ce qu'il regrette de s'etre demande ; il la blesse pour la faire taire | part en colere ; tenue a distance sans comprendre pourquoi |
+| J8-J10 | Elle ne revient pas au 9e. Croisements de service, ton de fonction ; la blessure de J7 tient | sept jours sans seance ; elle ignore tout de ce qui se joue chez lui |
+| J11-J12 | Le nom de Shalltear passe au noir sur sa liste : trahison. Elle tient de Sebas le dernier point de contact. Elle propose l'expedition punitive - elle en commandant, Cocytus adjoint, Mare dans les rangs, des vassaux de niveau 80 a attaques sacrees - et se la voit refuser ; elle escorte Ainz a la Tresorerie et le supplie de ne pas les quitter | la Regente ecartee du seul combat qui compte ; Nazarick lui reviendrait s'il tombait |
+| J14 | Albedo 4, apres S5 : elle revient vers Azoth. Il confesse une crise de foi qu'Ainz aurait reglee ; elle pardonne. Sur l'oreiller, il dit s'attacher a elle ; elle lui dit d'arreter ; il s'en dit incapable | elle doute UNE SECONDE, puis part - perdue. La premiere fissure dans le verrou |
 
 (Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
 roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)

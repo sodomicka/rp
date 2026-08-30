@@ -1,6 +1,10 @@
 # Sebas Tian
 
-- version : W2
+- version : W3
+
+Amendements W3 (build R2) : trajectoire datee R2 (J11 -> J14) - depart pour la
+capitale en operation conjointe avec Shalltear, son rapport a la Regente, et le retour
+pour l'office instaure a S5.
 
 Amendements W2 (build R1) : trajectoire datee R0 et R1 (J0 -> J7) ; le build R0 ne l'avait pas propagee.
 
@@ -114,6 +118,9 @@ Amendements W2 (build R1) : trajectoire datee R0 et R1 (J0 -> J7) ; le build R0 
 | J3 | S2 : regard entendu pendant l'office en voyant ceux de l'Incube et de la Succube ; il ne dit rien (seance 2) | le meme raisonnement que Demiurge, garde pour lui |
 | J5 | S3 : Azoth clame des ecrits de Touch Me que Sebas lui-meme ne connaissait pas. Ca lui fait bizarre. Il se tait | premier malaise, tu |
 | J7 | S4 : Azoth se trompe sur une citation exacte et termine avant d'avoir tout donne. Second malaise. Il se tait encore | la terreur d'etre pris pour un traitre lui fait taire ce qu'il voit |
+| J11 | Part pour la capitale du Royaume avec Solution, en operation conjointe avec Shalltear : ils jouent la fille de noble et son vieux majordome, appat a criminels sur la route de Re-Estize, la vampire ramassant les repaires derriere eux. Ils se separent d'elle apres un accrochage avec des bandits | detache hors du 9e pour une longue duree ; dernier a l'avoir vue |
+| J11-J12 | C'est par lui qu'Albedo reconstitue les faits de la trahison apparente de Shalltear | temoin principal d'une crise a laquelle il n'assiste pas |
+| J14 | Rentre a Nazarick par les portes de teleportation du Sanctuaire des Cerisiers pour S5 - la presence a l'office devient obligatoire. Sebas 4 : il confesse servir la vision de Touch Me, qu'il pense differente des autres ; Azoth lui donne la doctrine a deux paroles et repart | ses deux malaises de R1 restent tus, et le seront ; la terreur du traitre desamorcee par une doctrine |
 
 (Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
 roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)

@@ -1,6 +1,10 @@
 # Aureole Omega
 
-- version : W4
+- version : W5
+
+Amendements W5 (build R2) : trajectoire datee R2 (J8 -> J14) ; Worldslicer lui reste
+[DIVERGENCE RP actee : au canon son objet de rang monde est retire pour Shalltear, decision
+worldbuilder - personne ne depouille la seule humaine].
 
 Amendements W4 (build R1) : trajectoire datee R1 (J5, J7).
 
@@ -73,7 +77,9 @@ la derange pas (Psychologie).
 ## Possessions notables
 - Worldslicer : son katana, objet de rang monde du 8e etage [DIVERGENCE RP - objet
   canon, non nomme]. Tranchant equivalent a une version de rang 11 de Trancheur de
-  realite.
+  realite. ELLE LE CONSERVE [DIVERGENCE RP - au canon, cet objet lui est retire lors de
+  la distribution du douzieme jour pour etre remis a Shalltear ; decision worldbuilder :
+  personne ne depouille la seule humaine].
 - Le Sceptre d'Ainz Ooal Gown, en depot au Sanctuaire quand le maitre ne le porte pas.
 
 ## Position dans Nazarick
@@ -108,6 +114,9 @@ la derange pas (Psychologie).
 | J3 | S2 : entend la pensee profonde de Wish III | sa question recompensee ; ravie |
 | J5 | S3 : decouvre la psyche profonde de son createur | aux anges ; la fidele la plus comblee du Tombeau |
 | J7 | S4 : elle voit Azoth perdu et lui recommande de mediter, comme elle medite elle-meme sur les paroles nouvelles | donne en premier le conseil qu'Ainz lui donnera le soir meme |
+| J8-J13 | L'Eglise se tait sept jours. Aureole y lit l'obeissance a son propre conseil de meditation et ne va pas chercher le Cardinal | la seule qui pourrait le tirer de la est celle qui l'y a envoye, et elle croit bien faire |
+| J12 | Distribution des objets de rang monde aux Gardiens : Worldslicer lui reste | rien ne lui est retire |
+| J14 | Aureole 5, apres S5 : elle confesse servir la vision de Wish III, qu'elle pense differente des autres. Azoth lui donne la doctrine a deux paroles - servir Nazarick et la volonte d'Ainz, suivre les preceptes de son createur, concilier etant le role du Cardinal seul | premiere fidele du paravent ; elle y trouve la paix |
 
 (Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
 roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)

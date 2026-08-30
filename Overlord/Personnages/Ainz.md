@@ -1,6 +1,10 @@
 # Ainz Ooal Gown
 
-- version : W4
+- version : W5
+
+Amendements W5 (build R2) : trajectoire datee R2 (J8 -> J14) - la persona Momon,
+la chute de Shalltear, la distribution des objets de rang monde, l'aveu de la retouche a
+Azoth et la resurrection deleguee au Cardinal.
 
 Amendements W4 (build R1) : trajectoire datee R0 et R1 (J0 -> J7) ; le build R0 ne l'avait pas propagee.
 
@@ -160,6 +164,13 @@ worldbuilder).
 | ~J4 | Carne : sauve le village, echange sa place avec Gazef, aneantit l'Ecriture du Soleil ; prend le nom d'AINZ OOAL GOWN et le proclame devant Nazarick assemblee | Momonga n'existe plus ; le nom des quarante et un porte par un seul etre |
 | ~J4 | Nigun et l'Ecriture du Soleil captifs a la Prison Gelee, confies a Neuronist sous Demiurge ; Nigun meurt du sort de son propre ordre avant d'avoir parle | premiere source humaine perdue ; le Nouveau Monde reste opaque |
 | J7, soir | Ainz 2 : Azoth confesse son blaspheme, demande a etre execute, puis qu'on lui efface la memoire. Ainz refuse de l'executer sur un coup de tete et revele n'avoir plus aucun outil d'admin ; il lui demande de mediter sur son role avant de choisir | un confident - le seul a savoir sa faillibilite ; une decision laissee en suspens |
+| ~J8 | Il entre a E-Rantel sous la persona de MOMON, aventurier ; demande au Cardinal de designer l'une de ses six pour l'accompagner et recoit Narberal, qui devient "Nabe" | le dernier Supreme joue l'humain ; Nazarick apprend le monde par ses yeux |
+| J11 | Il debusque le Roi Sage de la Foret par Aura, le soumet, l'epargne et le NOMME HAMSUKE sur place - il reconnait chez lui la quete d'un semblable | une monture, un nom donne, et un temoin de plus |
+| J11-J12 | Le nom de Shalltear passe au noir sur la liste d'Albedo. Les morts-vivants etant immunises au mental, il conclut d'abord a une trahison reelle, puis, apres l'echec de Shooting Star, a un objet de rang monde ennemi. Il fait rappeler tous les Gardiens pour verifier qu'ils ne sont pas compromis, descend a la Tresorerie avec Albedo, Yuri et CZ, renonce a employer un objet de rang monde contre elle et EN DISTRIBUE AUX GARDIENS | un ennemi capable de retourner ses enfants ; Nazarick arme contre les objets de rang monde |
+| J11-J12 | Huis clos a trois : Albedo propose l'expedition punitive, Azoth se propose aussi. Il refuse les deux - il ne veut pas voir des creations de Supremes s'entretuer, la faute est sienne, et Shalltear seule peut etre un appat | il ira seul ; ses deux meilleurs cerveaux ecartes |
+| J12-J13 | AINZ 3, la veille du duel : Azoth vient annoncer qu'il vivra et servira de paravent. Face a ce sacrifice, Ainz avoue avoir modifie la config d'Albedo en admin et n'avoir plus aucun outil meta. Il encaisse la rage d'Azoth, s'excuse, et accorde que le premier acte du Cardinal dans sa foi neuve soit de ramener Shalltear | sa faute confessee a la veille d'un duel dont il peut ne pas revenir ; un confident qui sait tout |
+| J13 | Duel en solo. L'objet de resurrection de Peroroncino se declenche et l'oblige a la tuer deux fois ; son atout de classe emporte tout ce qui vit dans la zone. Il rapporte le corps et laisse AZOTH prononcer la resurrection, payee en or d'Yggdrasil | il a tue son enfant de sa main ; le tresor de la guilde entame d'une ressource irremplacable |
+| J14 | Momon et Nabe sont promus adamantite a E-Rantel | la couverture etablie au sommet du rang aventurier |
 
 (Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
 roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)

@@ -1,6 +1,9 @@
 # Les gens de Carne
 
-- version : W1
+- version : W2
+
+Amendements W2 (build R2) : trajectoire datee ouverte - l'enlevement de Nfirea au
+douzieme jour et son sauvetage par Momon.
 
 Fiche commune des trois figures de Carne : Enri Emmot, Nemu Emmot, Nfirea Baleare.
 Etat decrit : jour 0 - village intact, parents Emmot vivants.
@@ -109,8 +112,10 @@ Etat decrit : jour 0 - village intact, parents Emmot vivants.
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J10-J12 | Nfirea engage a E-Rantel deux aventuriers inconnus, Momon et Nabe, pour escorter sa cueillette d'herbes dans la Grande Foret de Tob ; les Epees des Tenebres completent l'escorte | premier contact d'un natif avec Nazarick, sans qu'aucun des deux camps le sache |
+| J12 | De retour a la pharmacie, Nfirea est enleve par Khajiit Dale Badantel et Clementine, qui tuent les Epees des Tenebres ; son Talent sert a declencher le rituel des catacombes et le cimetiere se leve sur la ville. Momon le sauve et abat Clementine | son Talent a servi contre lui ; les quatre aventuriers qui l'escortaient sont morts ; Carne l'ignore encore |
 
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps.)
+(Alimentation a chaud arc par arc apres les roadmaps.)
 
 ---
 

@@ -1,6 +1,9 @@
 # Aura Bella Fiora
 
-- version : W4
+- version : W5
+
+Amendements W5 (build R2) : trajectoire datee ouverte - le Roi Sage debusque au
+onzieme jour, la Representation de la Nature et de la Societe recue au douzieme.
 
 Amendements W3 : le Grand Trou (Large Hole), pas le Trou vert - correction canon
 actee (le Trou vert est posterieur au jour 0).
@@ -87,9 +90,12 @@ worldbuilder).
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J11 | Sur ordre d'Ainz, elle piste et rabat le Roi Sage de la Foret sur lui, dans la Grande Foret de Tob. Le Seigneur l'epargne, en fait sa monture et le nomme | une prise de plus a son tableau de dresseuse, qu'elle n'a pas gardee |
+| J12 | Recoit la Representation de la Nature et de la Societe, objet de rang monde de la Tresorerie, lors de la distribution aux Gardiens | protegee contre les objets de rang monde ennemis |
+| J14 | S5, le premier sermon du berger martyr | rien vu, comme presque tous |
 
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps ; structuration
-par eres de roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
+(Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
+roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
 
 ---
 

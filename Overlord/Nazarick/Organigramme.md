@@ -1,6 +1,10 @@
 # Organigramme de Nazarick
 
-- version : W4
+- version : W5
+
+Amendements W5 (build R2) : note de detachement - trois membres de la chaine du 9e sont
+envoyes hors du Tombeau entre le huitieme et le onzieme jour. L'organigramme decrit l'etat
+au jour 0 ; les detachements vivent en Trajectoire datee, pas ici.
 
 Amendements W3 : titre d'Albedo - Regente des Gardiens (VF canon, decision worldbuilder).
 
@@ -72,6 +76,13 @@ Etat decrit : jour 0 (transfert).
   Cerisiers (8e), qu'elle protege par derogation ; descend parfois a l'Eglise Impie pour
   les saintes paroles. Aucune libido ni curiosite sexuelle.
 - Role : escorte, service d'elite, derniere ligne defensive du 9e (avec Sebas).
+- ETAT DECRIT : le jour 0, chaine au complet. Les detachements posterieurs ne sont pas
+  reportes ici et vivent en Trajectoire datee des fiches concernees. Trois sont deja
+  actes : Narberal Gamma part avec le Seigneur au huitieme jour, designee par Azoth sur
+  demande d'Ainz ; Sebas Tian et Solution Epsilon partent pour la capitale du Royaume au
+  onzieme, pour une longue duree. A partir du quatorzieme jour, la presence a l'office
+  devient obligatoire et les deux derniers rentrent par les portes de teleportation du
+  Sanctuaire des Cerisiers pour chaque sermon.
 
 ## Gardiens de zone et specialistes
 - Kyouhukou (Capsule Noire, 2e), Gashokukochuuou (Grand Trou, 6e), Nigredo (Prison Gelee,

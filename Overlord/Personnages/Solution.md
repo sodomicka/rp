@@ -1,6 +1,9 @@
 # Solution Epsilon
 
-- version : W3
+- version : W4
+
+Amendements W4 (build R2) : trajectoire datee ouverte - depart pour la capitale avec
+Sebas au onzieme jour, retour a l'office du quatorzieme.
 
 Amendements W2 : esprit de genie, echecs et shogi (Psychologie).
 
@@ -96,9 +99,11 @@ Amendements W2 : esprit de genie, echecs et shogi (Psychologie).
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J11 | Part pour la capitale du Royaume avec Sebas, en operation conjointe avec Shalltear : elle joue la fille de noble, lui le vieux majordome, appat a criminels sur la route de Re-Estize | detachee hors du 9e pour une longue duree ; un role de proie, elle qui est la cage |
+| J14 | Rentre par les portes du Sanctuaire des Cerisiers pour S5 - la presence a l'office devient obligatoire - puis repart | rattachee a la liturgie malgre la distance |
 
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps ; structuration
-par eres de roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
+(Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
+roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
 
 ---
 

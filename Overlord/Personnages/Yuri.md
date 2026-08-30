@@ -1,6 +1,9 @@
 # Yuri Alpha
 
-- version : W2
+- version : W3
+
+Amendements W3 (build R2) : trajectoire datee R2 (J11 -> J14) - l'escorte a la
+Tresorerie et la premiere doctrine a deux paroles.
 
 Amendements W2 (build R1) : trajectoire datee R0 et R1 (J0 -> J7) ; le build R0 ne l'avait pas propagee.
 
@@ -101,6 +104,9 @@ Amendements W2 (build R1) : trajectoire datee R0 et R1 (J0 -> J7) ; le build R0 
 | J0 | S1 : rien a demander - elle ne se plaint pas de ne connaitre de Yamaiko que sa race et sa pensee de surface | - |
 | J5 | S3 : Azoth lui livre la pensee profonde de sa creatrice sans qu'elle l'ait reclamee - on eleve pour etre quitte | recue sans avoir demande ; la pudeur intacte |
 | J7 | S4 : comme Aureole, elle voit Azoth perdu. Elle ne demande rien | - |
+| J8-J10 | L'Eglise se tait sept jours. Elle a vu le Cardinal perdu a S4 et ne demande toujours rien - la pudeur | -- |
+| J11-J12 | Escorte Ainz a l'entree de la Tresorerie avec Albedo et CZ, pendant la crise Shalltear | temoin direct de la faillibilite du Seigneur, qu'elle ne lit pas comme telle |
+| J14 | Yuri 4, apres S5 : doctrine a deux paroles - servir Nazarick et la volonte d'Ainz, suivre les preceptes de Yamaiko ; concilier les 41 est le role du Cardinal | la comparaison entre Supremes lui est retiree des mains, sans qu'elle l'ait jamais tentee |
 
 (Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
 roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)

@@ -1,6 +1,9 @@
 # Mare Bello Fiore
 
-- version : W3
+- version : W4
+
+Amendements W4 (build R2) : trajectoire datee ouverte - nomme dans le plan d'Albedo
+contre Shalltear, Avarice et Generosite recus au douzieme jour.
 
 Amendements W2 : titre d'Albedo - Regente des Gardiens (VF canon, decision
 worldbuilder).
@@ -87,9 +90,12 @@ worldbuilder).
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J11-J12 | Albedo le nomme dans les rangs de l'expedition punitive contre Shalltear ; Ainz refuse l'expedition entiere | designe pour tuer une Gardienne, sans que rien ne se passe |
+| J12 | Recoit Avarice et Generosite, objet de rang monde de la Tresorerie, lors de la distribution aux Gardiens | protege contre les objets de rang monde ennemis |
+| J14 | S5, le premier sermon du berger martyr | rien vu, comme presque tous |
 
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps ; structuration
-par eres de roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
+(Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
+roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
 
 ---
 

@@ -1,6 +1,10 @@
 # Theocratie Slane
 
-- version : W2
+- version : W3
+
+Amendements W3 (build R2) : trajectoire datee du onzieme jour - l'escouade de
+l'Ecriture Noire envoyee sur la contre-divination de Nigun, la depense de la Chute du
+Chateau et du Pays sur Shalltear, la mort de Kaire et la survie du chef d'escouade.
 
 Amendements W2 (build R1) : sort de mort differee des membres de l'Ecriture du
 Soleil (canon LN vol. 1) ; trajectoire datee ouverte (R1, ~J4).
@@ -168,6 +172,8 @@ Etat decrit : jour 0.
 |---|---|---|
 | ~J4 | Operation contre Gazef Stronoff aux marches orientales du Royaume : l'Ecriture du Soleil au complet est detruite et capturee par une puissance qu'elle n'identifie pas ; le Dominion d'Autorite libere du cristal de scellement egratigne l'adversaire et est consomme | perte de l'Ecriture du Soleil comme force engagee ; un cristal de scellement consomme pour rien |
 | ~J4-J5 | Nigun Grid Luin meurt en captivite, tue par le sort de mort differee de son propre ordre apres trois reponses | le Soleil perd son chef ; le secret tient, et la Theocratie n'apprend rien de ce qui a detruit ses hommes |
+| ~J11 | La contre-divination du sort lance sur Nigun est interpretee comme un signe du Seigneur Dragon de la Catastrophe : une escouade de la Sainte Ecriture NOIRE est depechee aux abords d'E-Rantel pour verifier. Elle tombe sur des loups-vampires, puis sur une vampire hors norme. Kaire depense LA CHUTE DU CHATEAU ET DU PAYS pour l'asservir, y laisse la vie, et deux gardes du corps tombent avec elle | l'objet de rang monde des Six engage et compromis ; la Theocratie tient desormais qu'un monstre de calibre inconnu rode aux marches du Royaume, et ignore toujours d'ou il vient |
+| ~J11-J15 | Le chef de l'escouade survit et rentre. Son rapport a Zesshi Zetsumei tient en une phrase : la vampire ne lui arrivait pas a la cheville [decision worldbuilder ; NON VERIFIE AU CANON] | l'atout du pays apprend qu'un adversaire digne d'elle pourrait exister ailleurs ; fil ouvert (BIBLE SB8) |
 
 (Alimentation a chaud arc par arc apres les roadmaps.)
 

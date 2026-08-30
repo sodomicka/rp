@@ -1,6 +1,10 @@
 # Yggdrasil (le jeu d'origine)
 
-- version : W3
+- version : W4
+
+Amendements W4 (build R2) : le compte des objets de rang monde de Nazarick passe de onze
+a DOUZE [DIVERGENCE RP] - deux objets crees et un objet canon non nomme rebaptise, Aureole
+conservant le sien ; detail : cf. BIBLE SB7.
 
 Amendements W2 : compte des objets de rang monde solde ; les Vingt et Ouroboros ; budget de
 creation de PNJ.
@@ -32,7 +36,10 @@ creation de PNJ.
 - OBJETS DE RANG MONDE : 200 exemplaires dans tout Yggdrasil. Brisent les regles du jeu.
   - Seul un objet de rang monde peut en contrer un autre.
   - Les Vingt : sous-ensemble d'objets de rang monde surpuissants, pour la plupart a usage unique.
-  - Nazarick en possede onze, record d'Yggdrasil (la guilde suivante en detenait trois).
+  - Nazarick en possede DOUZE [DIVERGENCE RP - onze au canon, deja le record d'Yggdrasil ;
+    la guilde suivante en detenait trois]. Le douzieme est le Collier de Rubis de Sang,
+    cree pour Shalltear parce qu'Aureole conserve Worldslicer ; l'Amulette du Saint Maudit,
+    elle, prend la place d'un objet canon non nomme de la Tresorerie. Liste : cf. BIBLE SB7.
   - Parmi les Vingt, la guilde a detenu Ouroboros, consomme durant Yggdrasil (une
     requete aux developpeurs) ; aucun autre des Vingt n'est connu a Nazarick.
   - Dans le Nouveau Monde, porter un objet de rang monde immunise contre la Magie Sauvage.

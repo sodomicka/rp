@@ -1,7 +1,12 @@
 # Seances - Ainz (Momonga)
 
-- version : W4
+- version : W5
 - statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
+
+Amendements W5 (build R2) : seance 3 datee et RECALEE AVANT LE DUEL contre Shalltear
+(J12-J13) ; cinquieme battement ajoute - la demande de misericorde, formulee sur un
+chatiment qui n'a pas encore eu lieu ; le declencheur du choix est CZ2128 et non la chute
+de Shalltear (Seances/CZ2128_S.md, seance 1) ; seance 2 datee J7 au soir.
 
 Amendements W3 : seance 1 enrichie par le build R0 - ancrage precis, visite
 de la Tresorerie dans la foulee (forme d'Ulbert, reconfig verbale), anneau et acces
@@ -36,7 +41,7 @@ Nazarick/Theologie_Azoth.md.
 
 ## Ere du berger perdu
 ### Seance 2 - la confession du blaspheme
-- Ancrage : apres la Tresorerie. Azoth y a trouve des paroles vraies mais inconciliables, en contradiction directe ; la descente a suivi - folie, remise en question, acceptation du blaspheme. Date : roadmap.
+- Ancrage : J7 au soir (roadmap R1, fin d'arc). Azoth a trouve a la Tresorerie des paroles vraies mais inconciliables, en contradiction directe ; la descente a suivi - folie, remise en question, acceptation du blaspheme.
 - Ce qu'Azoth y cherche : savoir, quitte a mourir pour emporter le secret dans la tombe - avant que son amante principale (Albedo) ou son frere ne le decouvre.
 - Battements :
   1. Azoth confesse son blaspheme au Seigneur. Les 41 ne pouvaient pas etre d'accord : des textes sacres que lui seul connait se contredisent frontalement, explicitement, sans reconciliation possible. Donc pas omniscients. Donc faillibles. Donc pas des dieux - et ils les ont abandonnes. Alors, quelle est leur nature ? A quoi servent leurs creations ? Des etres laisses en autonomie sans leurs guides, sauf un - ou des objets qui les ont lasses, d'un abandon qui ne sera jamais reversible ?
@@ -50,12 +55,13 @@ Nazarick/Theologie_Azoth.md.
 
 ## Ere du berger martyr
 ### Seance 3 - le choix, et l'aveu
-- Ancrage : au retour de la meditation. Ainz est le premier a savoir. Date : roadmap.
+- Ancrage : J12-J13 (roadmap R2), AVANT le duel contre Shalltear. Azoth vient de lui-meme : il n'arrive pas en demandant quoi faire, il arrive en annoncant. Le choix a en realite ete pris deux jours plus tot, seul, devant un automate venu demander un diagnostic (Seances/CZ2128_S.md, seance 1) - Ainz ne le saura jamais. Ainz est le premier a savoir la decision, il n'en est pas la cause.
 - Battements :
   1. Azoth vivra. Pas par peur de mourir, ni par envie de vivre pour vivre. Parce que sa mort souleverait des questions qui meneraient Albedo et Demiurge a des introspections, et a la verite qui l'a mis au bord de la folie. Parce que sans lui, ce sont les fideles qui verraient les incoherences des textes, alors que lui peut unifier artificiellement les saintes paroles et servir de paravent.
-  2. Face a ce sacrifice, Ainz comprend qu'il a commis sa pire erreur avant la fin d'Yggdrasil, et confesse : il a modifie la config d'Albedo en admin, et il n'a plus aucun outil meta.
+  2. Face a ce sacrifice, Ainz comprend qu'il a commis sa pire erreur avant la fin d'Yggdrasil, et confesse : il a modifie la config d'Albedo en admin, et il n'a plus aucun outil meta. SAVOIR MJ, jamais souligne : il l'avoue a la veille d'un duel dont il peut ne pas revenir - un homme qui solde ses comptes.
   3. Azoth, fou de rage : Ainz lui a vole son avenir - celle qui aurait fini par etre son epouse, et qui lui aurait servi d'oeilleres, de distraction. Sans elle, il decouvre la verite ; avec elle, non.
   4. Ainz se confond en excuses, puis lui fait remarquer qu'Azoth a reussi a depasser sa config de base. Azoth n'a plus foi en aucun des 41, sauf Ainz - leur leader, venu d'une dimension superieure, et plus un dieu pour lui. Donc Albedo amoureuse de Momonga/Ainz n'est pas irremediable ; d'autant qu'Ainz n'a aucune attirance pour elle - c'etait un caprice, dans un monde qu'il pensait termine.
+  5. LA DEMANDE (build R2, decision worldbuilder). Azoth demande que son premier acte dans sa foi neuve soit de ramener Shalltear. Il le demande AVANT le duel : il prevoit la misericorde avant un chatiment qu'il sait inevitable. Ainz accorde. SAVOIR MJ : Azoth ne ressuscite jamais une creation de Supreme de son propre chef - il ne defie pas le seul en qui il a encore foi. L'autorisation precede l'acte.
 - Ce qu'Azoth decouvre sur lui-meme : qu'il peut choisir - depasser sa config ; que son role n'est plus de rapporter la voix des 41 mais de la fabriquer, pour proteger les siens.
 - Ce qu'Azoth decouvre sur son dieu : la retouche, le caprice, le vol de son destin. Et qu'Ainz n'est plus un dieu : un leader d'une dimension superieure, le seul en qui sa foi subsiste.
 - Verrou : le secret partage. Eux deux seuls savent ; Azoth vit en paravent.

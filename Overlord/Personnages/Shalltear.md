@@ -1,6 +1,12 @@
 # Shalltear Bloodfallen
 
-- version : W2
+- version : W3
+
+Amendements W3 (build R2) : trajectoire datee alimentee jusqu'a J15 - l'exutoire, la
+mission conjointe avec Sebas et Solution, le charme par objet de rang monde, le duel
+contre Ainz, la resurrection prononcee par Azoth, la perte de niveaux et de memoire, le
+Collier de Rubis de Sang, la seance de la chute. Precision portee aux Capacites : l'objet
+de resurrection offert par Peroroncino est CONSOMME a J13.
 
 Amendements W2 (build R1) : les Epouses vampires precisees (nature, statut,
 cadrage de registre) ; trajectoire datee ouverte (R1, J4-J5).
@@ -73,7 +79,8 @@ cadrage de registre) ; trajectoire datee ouverte (R1, J4-J5).
   total. Sa grande faille.
 - Ses morts animes deviennent des vampires mineurs (competence de race).
 - Objet de resurrection (don de Peroroncino) : la ressuscite automatiquement une fois,
-  restauration complete, meme apres desintegration ou destruction de l'ame.
+  restauration complete, meme apres desintegration ou destruction de l'ame. CONSOMME a
+  J13, en cours de duel contre Ainz (canon vol. 3) - cf. Trajectoire datee.
 - Faiblesses de race : le sacre et la lumiere ; vulnerabilites classiques du
   mort-vivant.
 
@@ -105,6 +112,12 @@ cadrage de registre) ; trajectoire datee ouverte (R1, J4-J5).
 | J3 | S2, premier office d'Albedo : jalouse des regards echanges entre le Cardinal et la Regente, elle n'a encore rien recu ; elle demande sa seance, avec ses Epouses | la jalousie armee ; visite au 9e en attente |
 | J4-J5 | Premiere seance au 9e avec ses Epouses ; elle craint d'avoir blaspheme en jugeant Peroroncino plus juste que les autres ; Azoth la releve et lui livre la pensee profonde de son createur | le harem partage ; aucune honte, le plaisir est la seule sincerite |
 | J5 | S3 : epiphanie - tous les Supremes evoques lui semblent parfaits, sans la moindre contradiction | la foi la plus intacte du Tombeau ; le paravent fonctionne sur elle avant meme d'exister |
+| J7 | S4, le sermon cafouille : elle ne voit rien, comme presque tous | angle mort confirme |
+| J8-J10 | Seance exutoire au 9e, a deux, sans les Epouses : Azoth se vide la tete sur elle | derniere fois qu'elle est vue entiere |
+| J11 | Mission de terrain conjointe avec Sebas et Solution (appat a criminels sur la route de Re-Estize) ; separee de Sebas apres l'accrochage avec les bandits ; rencontre l'escouade de la Sainte Ecriture Noire et se fait charmer par l'objet de rang monde La Chute du Chateau et du Pays | sous controle ennemi ; son nom passe au noir sur la liste d'Albedo |
+| J13 | Duel contre Ainz. Son objet de resurrection se declenche et est CONSOMME ; Ainz doit la tuer une seconde fois. Puis AZOTH prononce la resurrection, sur autorisation obtenue d'Ainz avant le duel ; cout paye en or d'Yggdrasil | vivante ; plusieurs niveaux perdus ; AUCUN SOUVENIR de la periode sous controle ; plus d'objet de resurrection |
+| J14 | Recoit le Collier de Rubis de Sang, objet de rang monde [DIVERGENCE RP - objet cree] : renvoie tout sort de controle mental a son lanceur | protegee, apres coup |
+| J14-J15 | Seance de la chute : coupable d'un crime dont elle n'a aucun souvenir. Azoth est le seul a lui dire qu'elle n'est pas responsable, et il en est plus convaincu qu'elle ; il lui souffle de prendre des missions pour prouver sa loyaute et sa foi | le sexe devient SON exutoire ; besoin de rachat arme (detonation R6) |
 
 (Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
 roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)

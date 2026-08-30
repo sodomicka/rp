@@ -1,6 +1,10 @@
 # Azoth - Relations (Proches)
 
-- version : W1
+- version : W2
+
+Amendements W2 (build R2) : evolutions datees ancrees - la confidence mutuelle avec
+Ainz au douzieme-treizieme jour (Ainz 3), l'attache dite a Albedo au quatorzieme, et la
+premiere entree d'evolution posee pour Demiurge (le grand frere).
 
 Etat des liens au jour 0, puis leur evolution posee par le worldbuilder (ordre fixe ;
 dates fixees aux roadmaps). Frontiere : la MECANIQUE des liens (chaine d'ordres, natures
@@ -25,10 +29,16 @@ Fiches des trois : Personnages/Ainz.md, Demiurge.md, Albedo.md.
   Tresorerie, secret de Momonga.
 - Evolution datee :
   - Renommage en Ainz Ooal Gown : Azoth -> "Seigneur Ainz".
-  - Confidence mutuelle : tutoiement dans les deux sens ; Azoth -> "Ainz", Ainz ->
-    "Azoth" / "mon ami". Ainz vient alors a l'Eglise Impie : il y encaisse, sachant
-    qu'Azoth lui-meme ne croit plus ce qu'il preche ; l'innocence des autres est ce qui
-    lui reste de plus precieux.
+  - Confidence mutuelle - ANCRAGE : Ainz 3, J12-J13 (roadmap R2), la veille du duel
+    contre Shalltear. Azoth annonce qu'il vivra en paravent ; Ainz avoue la retouche
+    d'Albedo et l'absence d'outil admin ; Azoth entre en rage, puis demande et obtient
+    de ramener Shalltear lui-meme. A partir de la : tutoiement dans les deux sens ;
+    Azoth -> "Ainz", Ainz -> "Azoth" / "mon ami". Ainz vient alors a l'Eglise Impie :
+    il y encaisse, sachant qu'Azoth lui-meme ne croit plus ce qu'il preche ; l'innocence
+    des autres est ce qui lui reste de plus precieux.
+  - Ce que le lien devient : Azoth n'a plus foi en aucun des 41 sauf lui - non plus comme
+    un dieu, mais comme un leader venu d'une dimension superieure. Le secret est partage
+    a deux et ne doit jamais atteindre Albedo ni Demiurge.
   - "Satoru", une seule fois : Ainz le reprend - il ne veut plus etre Satoru, il
     restera toujours ici.
 
@@ -52,7 +62,13 @@ Fiches des trois : Personnages/Ainz.md, Demiurge.md, Albedo.md.
   partage et se refugie dans ses travers et sa foi ; les deux sont pudiques, chacun la
   devine chez l'autre, aucun ne la nommera jamais (cf. Demiurge.md et Azoth.md,
   Psychologie).
-- Evolution datee : aucune entree posee a ce jour ; roadmaps et seance Demiurge.
+- Evolution datee :
+  - Le grand frere - ANCRAGE : Demiurge 5, J14 (roadmap R2), au cinquieme sermon.
+    Demiurge retrouve son frere comme avant, mais remarque un regard plus protecteur,
+    une douceur que les joutes verbales ne montrent pas. Il n'en connait pas la cause :
+    depuis l'aveu, Azoth sait que si Demiurge apprenait ce qu'il sait, il l'executerait.
+    Il le regarde desormais comme quelqu'un qu'il protege d'une verite a laquelle son
+    frere ne survivrait pas.
 
 ## Albedo
 - Statut : superieure directe - Regente des Gardiens ; elle lui DEMANDE du personnel,
@@ -72,6 +88,12 @@ Fiches des trois : Personnages/Ainz.md, Demiurge.md, Albedo.md.
   mort partage : ni l'un ni l'autre ne sait que ces souvenirs sont programmes et que
   rien n'a eu lieu (Regles_Internes.md) ; Albedo ignore sa propre virginite (Albedo.md).
 - Evolution datee :
+  - L'attache dite - ANCRAGE : Albedo 4, J14 (roadmap R2), au cinquieme sermon. Elle
+    revient ; il lui confesse une crise de foi qu'Ainz aurait reglee - paravent, la
+    crise "reglee" est le secret partage. Sur l'oreiller, il dit s'attacher a elle ;
+    elle lui dit d'arreter ; il s'en dit incapable. Elle doute une seconde, puis part.
+    SAVOIR MJ : depuis la veille, il sait POURQUOI elle ne peut pas repondre. Il ne le
+    dira jamais - le dire la perdrait.
   - Albedo s'attache malgre elle.
   - Tiraillement croissant entre sa programmation vers Ainz, qui ne repond pas a ses
     avances, et Azoth, qui repond et instigue.

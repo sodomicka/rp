@@ -1,6 +1,10 @@
 # Demiurge
 
-- version : W4
+- version : W5
+
+Amendements W5 (build R2) : trajectoire datee R2 (J11 -> J14) - la crise Shalltear,
+l'objet de rang monde recu, et la douceur qu'il remarque chez son frere sans en connaitre
+la cause.
 
 Amendements W4 (build R1) : trajectoire datee R0 et R1 (J0 -> J7) ; le build R0 ne l'avait pas propagee.
 
@@ -99,6 +103,9 @@ des trois cerveaux (decision worldbuilder) ; renvoi vers la page relations d'Azo
 | J3 | Sortie en surface avec le Seigneur : il recoit les mots de la conquete comme une mission sacree offerte par leur dieu et les rapporte a Azoth (Demiurge 2) | le malentendu de la conquete nait entre freres |
 | J5 | Demiurge 3, apres S3 : il voit son frere plus investi que jamais et le met en garde - comprendre des dieux hors d'atteinte ouvre l'esprit a la folie | il nomme le danger sans en connaitre la cause |
 | J7 | Demiurge 4, apres S4 : je t'avais averti ; que le pretre regle sa crise de foi avec le Seigneur | il croit son frere fou par l'intensite des recits, jamais heretique - et l'envoie lui-meme chez Ainz |
+| J8-J13 | Aucun echange avec son frere. Il tient la crise de foi pour reglee avec le Seigneur - c'est lui qui l'y a envoye - et ne va pas le chercher | son diagnostic faux tient lieu de paravent involontaire |
+| J12 | Recoit un objet de rang monde de la Tresorerie lors de la distribution aux Gardiens - la Coupe d'Hygie ou Mille Lames, l'attribution nominative n'etant pas precisee au canon | protege contre les objets de rang monde ennemis |
+| J14 | Demiurge 5, apres S5 : il retrouve son frere comme avant, mais remarque un regard plus protecteur, plus grand frere, avec une douceur que les joutes verbales ne montrent pas | il la remarque, il n'en connait pas la cause |
 
 (Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
 roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)

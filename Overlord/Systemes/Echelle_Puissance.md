@@ -1,6 +1,10 @@
 # Echelle de puissance
 
-- version : W4
+- version : W5
+
+Amendements W5 (build R2) : note de variation sur l'echelle interne - Shalltear perd
+plusieurs niveaux a sa resurrection du treizieme jour. L'echelle decrit l'etat au jour 0 ;
+les variations vivent en Trajectoire datee, pas ici.
 
 ## Principe
 - Echelle unique : les niveaux d'Yggdrasil (1-100) mesurent aussi les natifs.
@@ -52,6 +56,10 @@ Du plus fort au moins fort :
   palier 5 car bien moins polyvalent (cf. Personnages/Mare.md).
 - Rubedo : sauvage elle-meme, plus que Nigredo ; equipee au calibre de Cocytus ou de
   Shalltear en Valkyrie de Sang.
+- ETAT DECRIT : le jour 0. Les variations posterieures ne sont pas reportees ici et vivent
+  en Trajectoire datee de la fiche concernee. Une seule est deja actee : Shalltear perd
+  plusieurs niveaux a sa resurrection du treizieme jour (canon LN vol. 3 ; cf.
+  Personnages/Shalltear.md) et sort temporairement du palier 3.
 
 ## Lecture MJ
 - Rang de sort accessible et nombre d'Arts Martiaux : premiers indices de niveau d'un natif.

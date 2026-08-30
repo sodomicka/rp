@@ -1,7 +1,12 @@
 # Seances - Albedo
 
-- version : W4
+- version : W5
 - statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
+
+Amendements W5 (build R2) : seances 2 et 3 datees (J5 et J7) ; intervalle J8-J13
+precise - elle ne revient pas, aucune seance, croisements de service seulement ; seance 4
+datee J14 (S5) et enrichie - Azoth sait desormais POURQUOI elle ne peut pas repondre, et
+ne le dira jamais.
 
 Amendements W3 (build R0) : seance 1 - c'est Azoth qui rapporte a Albedo la mission sacree de la conquete (recue de Demiurge) ; battement ajoute. Amendements W2 : renvois {Perso}_S.md (homonymie) ; statut indexee, toujours interdite en narration.
 
@@ -18,7 +23,7 @@ Trame commune : les trois etapes de la foi d'Azoth - BERGER SINCERE, BERGER PERD
 
 ## Ere du berger sincere
 ### Seance 1 - la conquete des passions
-- Ancrage : juste apres le 2e sermon, alors qu'Azoth etudie les textes plus en profondeur (apres Seances/Ainz_S.md, seance 1).
+- Ancrage : J3, juste apres le 2e sermon, alors qu'Azoth etudie les textes plus en profondeur (apres Seances/Ainz_S.md, seance 1).
 - Battements :
   1. Conquete : ils se plaquent mutuellement contre les murs, se mordent, se griffent, se deshabillent.
   2. Sexe, en ellipse.
@@ -30,7 +35,7 @@ Trame commune : les trois etapes de la foi d'Azoth - BERGER SINCERE, BERGER PERD
 
 ## Ere du berger perdu
 ### Seance 2 - le sexe fonctionnel
-- Ancrage : 3e sermon, le premier ou Azoth a commence a creuser les ecrits.
+- Ancrage : J5, 3e sermon, le premier ou Azoth a commence a creuser les ecrits.
 - Battements :
   1. Azoth a l'air ailleurs. La conquete est moins intense, le sexe fonctionnel (en ellipse).
   2. Albedo s'en contente. Elle le remercie d'avoir rendu la chose moins passionnee que la derniere fois : elle est moins tiraillee.
@@ -38,7 +43,7 @@ Trame commune : les trois etapes de la foi d'Azoth - BERGER SINCERE, BERGER PERD
 - Verrou : son absence. Elle y trouve son compte, lui n'y est pas.
 
 ### Seance 3 - la protection maladroite
-- Ancrage : 4e sermon, celui ou Azoth cafouille et termine avant d'avoir tout donne.
+- Ancrage : J7, 4e sermon, celui ou Azoth cafouille et termine avant d'avoir tout donne.
 - Battements :
   1. Albedo vient le voir immediatement apres le sermon : elle le sent different, lui-meme perdu.
   2. Conquete plus brutale encore - il a besoin d'oublier. Sexe en ellipse.
@@ -47,11 +52,11 @@ Trame commune : les trois etapes de la foi d'Azoth - BERGER SINCERE, BERGER PERD
   5. Elle part, en colere.
 - Ce qu'Azoth decouvre sur lui-meme : qu'il a peur pour elle - les questions qu'il s'est posees peuvent la perdre.
 - Verrou : les questions qu'elle ne doit pas se poser. Il les tue en la blessant.
-- Entre cette seance et la suivante : Seances/Ainz_S.md, seances 2 et 3 (la confession du blaspheme, le choix, l'aveu de la retouche). Azoth sait desormais.
+- ENTRE CETTE SEANCE ET LA SUIVANTE (J8-J13, roadmap R2) : elle ne revient pas. Sept jours sans seance ; croisements de service seulement, ton de fonction. Elle traverse la crise de Shalltear en Regente - c'est elle qui releve le nom au noir, elle qui propose l'expedition punitive et se la voit refuser. Et Seances/Ainz_S.md, seances 2 et 3 : la confession du blaspheme, le choix, l'aveu de la retouche. Azoth sait desormais.
 
 ## Ere du berger martyr
 ### Seance 4 - le retour
-- Ancrage : 5e sermon. Azoth s'exprime comme avant.
+- Ancrage : J14, 5e sermon. Azoth s'exprime comme avant.
 - Battements :
   1. Elle revient vers lui. Il lui confesse avoir eu une crise de foi, qu'Ainz a reglee. Elle lui pardonne ses paroles de l'autre fois.
   2. Conquete plus passionnee que jamais ; sexe plus passionne aussi, en ellipse.
@@ -59,6 +64,7 @@ Trame commune : les trois etapes de la foi d'Azoth - BERGER SINCERE, BERGER PERD
   4. Elle doute une seconde, puis part - perdue.
 - Ce qu'Azoth decouvre sur lui-meme : qu'il ne peut plus taire l'attache, et qu'il ne peut pas y renoncer.
 - Ce qu'Azoth decouvre sur son dieu : ce qu'il lui dit d'Ainz est un paravent - la crise "reglee" est le secret partage (Seances/Ainz_S.md, seance 3).
+- SAVOIR MJ, JAMAIS SOULIGNE : depuis la veille, Azoth sait POURQUOI elle ne peut pas repondre a son attache. Il ne le dira jamais - le dire la perdrait. Chaque parole tendre qu'il lui adresse desormais est prononcee par quelqu'un qui connait la cause du mur.
 - Verrou : la seconde de doute. Elle part, mais elle a doute.
 
 ### Seances 5 et suivantes - les retours

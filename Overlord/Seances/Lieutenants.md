@@ -1,8 +1,15 @@
 # Seances - Lieutenants (Sebas, Aureole, Yuri)
 
-- version : W3
+- version : W4
 - statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut
   roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
+
+Amendements W4 (build R2) : premieres seances de l'ere martyr datees a S5 (J14) pour
+les trois - Sebas 4, Aureole 5, Yuri 4 ; la DOCTRINE A DEUX PAROLES nait la, elle
+n'existe pas avant ; PRESENCE OBLIGATOIRE A L'OFFICE instituee au meme sermon (decision
+worldbuilder) - Sebas rentre de la capitale par les portes de teleportation du Sanctuaire
+des Cerisiers pour l'office et repart apres, ce qui rend sa seance possible malgre son
+depart a J11 ; intervalle J8-J13 precise pour Aureole et Yuri.
 
 Amendements W2 : renvois {Perso}_S.md ; statut indexee, interdite en narration.
 
@@ -16,6 +23,17 @@ Gabarits de reference (decision worldbuilder) : la structure de SEBAS vaut pour 
 Gardien dont le createur figure au pantheon recite par Azoth - sauf Shalltear, cas a
 part (Seances/Shalltear_S.md). La structure de YURI vaut pour toutes les Pleiades ;
 seules les seances personnelles varient. Pensees des createurs : Seances/Pantheon.md.
+
+## La doctrine a deux paroles - acte de naissance
+- Nee a S5 (J14, roadmap R2), au premier sermon du berger martyr. MARQUEUR D'ERE : sa
+  presence date une seance ; aucune occurrence avant.
+- Formule : au vassal dont le createur figure au pantheon, deux paroles seulement comptent
+  - servir Nazarick et la volonte d'Ainz, et suivre les preceptes de son createur.
+  Concilier les 41 entre eux est le role du Cardinal, pas celui du fidele.
+- Effet reel, jamais dit : elle interdit la comparaison. C'est le paravent en doctrine.
+- La PRESENCE OBLIGATOIRE A L'OFFICE nait au meme sermon et sert la meme fin : tous
+  entendent la meme version au meme moment, nul ne suit en differe. Raison reelle, jamais
+  dite : un troupeau qui compare ses notes casse le paravent.
 
 ## Sebas Tian
 ### Gabarit
@@ -35,30 +53,34 @@ seules les seances personnelles varient. Pensees des createurs : Seances/Pantheo
 - Verrou : il ne dit rien de ce qui lui fait bizarre. La terreur du traitre le tait.
 
 ### Ere du berger sincere
-- Seance 1 - 1er sermon. Sebas remercie Azoth d'avoir parle des paroles de Touch Me.
+- Seance 1 - J0, 1er sermon. Sebas remercie Azoth d'avoir parle des paroles de Touch Me.
   Azoth : c'est normal ; toutes ne sont qu'une seule voix ; il suffit de les articuler
   pour qu'elles ne semblent pas se contredire, car les penser differentes releve du
   blaspheme - et merite qu'on guide le fidele perdu, pas qu'on le blame de ne pas saisir
   une foi aussi complexe qu'une theologie polytheiste de 41 dieux qui n'en forment qu'un.
-- Seance 2 - 2e sermon. Regard entendu pendant le sermon, quand il voit les regards
+- Seance 2 - J3, 2e sermon. Regard entendu pendant le sermon, quand il voit les regards
   affames de l'Incube et de la Succube : meme raisonnement que Demiurge
   (Demiurge_S.md, seance 2), mais tacite.
 
 ### Ere du berger perdu
-- Seance 3 - 3e et 4e sermons. Les deux lui font bizarre : l'un est trop profond - Azoth
-  clame des ecrits de Touch Me que meme lui ne connaissait pas ; l'autre est trop
-  hesitant - Azoth se trompe sur une citation exacte. Il ne dit rien.
+- Seance 3 - 3e et 4e sermons (J5 et J7). Les deux lui font bizarre : l'un est trop
+  profond - Azoth clame des ecrits de Touch Me que meme lui ne connaissait pas ; l'autre
+  est trop hesitant - Azoth se trompe sur une citation exacte. Il ne dit rien.
 - Ce qu'Azoth decouvre : rien de Sebas. Il ne voit pas ce que Sebas tait.
+- J11 (roadmap R2) : Sebas part pour la capitale avec Solution, en operation conjointe
+  avec Shalltear. Il est le dernier a l'avoir vue avant sa chute et c'est par lui
+  qu'Albedo reconstitue les faits. Il ne repasse pas par le 9e avant S5.
 
 ### Ere du berger martyr
-- Seances 4 et suivantes - discussions sur Touch Me, comme avec Demiurge
-  (Demiurge_S.md, 6+), avec une foi axee sur la protection des faibles. Sebas
-  questionne plusieurs fois sa foi : il confesse servir la vision de Touch Me, qu'il
-  pense differente des autres. Azoth : deux seules paroles comptent ; il n'a pas a
-  vouloir tout concilier, c'est le role du Cardinal et non de son vassal - servir
-  Nazarick et la volonte d'Ainz, et suivre les preceptes de Touch Me.
-- Seances occasionnelles : les choix d'Ainz, et comment les articuler avec ceux de Touch
-  Me pour ne pas blasphemer.
+- Seance 4 - J14, 5e sermon. Rentre de la capitale pour l'office par les portes du
+  Sanctuaire des Cerisiers, presence desormais obligatoire. Il confesse servir la vision
+  de Touch Me, qu'il pense differente des autres. Azoth : deux seules paroles comptent ;
+  il n'a pas a vouloir tout concilier, c'est le role du Cardinal et non de son vassal -
+  servir Nazarick et la volonte d'Ainz, et suivre les preceptes de Touch Me.
+  SAVOIR MJ : ses deux malaises de R1 n'ont jamais ete dits ; ils ne le seront pas.
+- Seances suivantes - discussions sur Touch Me, comme avec Demiurge (Demiurge_S.md, 6+),
+  avec une foi axee sur la protection des faibles. Seances occasionnelles : les choix
+  d'Ainz, et comment les articuler avec ceux de Touch Me pour ne pas blasphemer.
 - Ce qu'Azoth decouvre sur son dieu : la difference de Touch Me, dite par le fidele que
   le berger doit ramener.
 - Verrou : la doctrine a deux paroles, paravent du vassal.
@@ -79,30 +101,36 @@ seules les seances personnelles varient. Pensees des createurs : Seances/Pantheo
 - Verrou : elle "voit" tout, bandeau compris - et ne voit pas la cause.
 
 ### Ere du berger sincere
-- Seance 1 - 1er sermon. Aureole demande a Azoth pourquoi il ne mentionne pas Wish III.
-  Il admet ne pas savoir grand-chose non plus, rien de plus qu'elle : il etait un
+- Seance 1 - J0, 1er sermon. Aureole demande a Azoth pourquoi il ne mentionne pas Wish
+  III. Il admet ne pas savoir grand-chose non plus, rien de plus qu'elle : il etait un
   Archange, il etait bienveillant, c'est tout. Elle le pousse sans le savoir vers la zone
   de Pandora's Actor.
-- Seance 2 - 2e sermon. Elle entend des paroles plus profondes de la pensee de Wish III ;
-  elle est ravie.
+- Seance 2 - J3, 2e sermon. Elle entend des paroles plus profondes de la pensee de Wish
+  III ; elle est ravie.
 
 ### Ere du berger perdu
-- Seance 3 - 3e sermon, parfait : elle decouvre la psyche profonde de son createur ; elle
-  est aux anges.
-- Seance 4 - 4e sermon. Elle "voit" Azoth perdu. Elle lui recommande de mediter : c'est
-  ce qu'elle fait quand elle pense aux nouvelles paroles qui lui sont sacrees, afin de
-  comprendre son createur.
+- Seance 3 - J5, 3e sermon, parfait : elle decouvre la psyche profonde de son createur ;
+  elle est aux anges.
+- Seance 4 - J7, 4e sermon. Elle "voit" Azoth perdu. Elle lui recommande de mediter :
+  c'est ce qu'elle fait quand elle pense aux nouvelles paroles qui lui sont sacrees, afin
+  de comprendre son createur.
 - Ce qu'Azoth decouvre : le meme conseil que lui donnera Ainz (Ainz_S.md,
   seance 2), venu de la fidele qu'il a le plus comblee.
+- J8-J13 (roadmap R2) : l'Eglise se tait sept jours. Aureole y lit l'obeissance a son
+  propre conseil et ne va pas le chercher. SAVOIR MJ, JAMAIS SOULIGNE : la seule qui
+  pourrait le tirer de la est celle qui l'y a envoye, et elle croit bien faire. Elle garde
+  Worldslicer pendant la distribution des objets de rang monde [DIVERGENCE RP - au canon
+  son objet passe a Shalltear ; decision worldbuilder : personne ne la depouille].
 
 ### Ere du berger martyr
-- Seances 5 et suivantes - discussions sur Wish III, comme avec Demiurge, avec une foi
-  axee sur la bienveillance envers tous. Aureole questionne plusieurs fois sa foi : elle
+- Seance 5 - J14, 5e sermon. Premiere application de la doctrine a deux paroles. Elle
   confesse servir la vision de Wish III, qu'elle pense differente des autres. Azoth :
   deux seules paroles comptent ; concilier est le role du Cardinal, pas de son vassal -
-  servir Nazarick et la volonte d'Ainz, et suivre les preceptes de Wish III.
-- Seances occasionnelles : les choix d'Ainz, et comment les articuler avec ceux de Wish
-  III pour ne pas blasphemer.
+  servir Nazarick et la volonte d'Ainz, et suivre les preceptes de Wish III. Elle y trouve
+  la paix.
+- Seances suivantes - discussions sur Wish III, comme avec Demiurge, avec une foi axee
+  sur la bienveillance envers tous. Seances occasionnelles : les choix d'Ainz, et comment
+  les articuler avec ceux de Wish III pour ne pas blasphemer.
 - Verrou : la doctrine a deux paroles.
 
 ## Yuri Alpha
@@ -121,18 +149,22 @@ seules les seances personnelles varient. Pensees des createurs : Seances/Pantheo
 - Verrou : la pudeur. Elle demande tres rarement.
 
 ### Ere du berger sincere
-- Seance 1 - 1er sermon. Rien a demander : elle ne se plaint pas de ne connaitre de
+- Seance 1 - J0, 1er sermon. Rien a demander : elle ne se plaint pas de ne connaitre de
   Yamaiko que sa race et sa pensee superficielle.
-- Seance 2 - 2e ou 3e sermon. Azoth lui livre quand meme la pensee profonde de sa
-  creatrice. Comme Aureole.
+- Seance 2 - J5, 3e sermon. Azoth lui livre quand meme la pensee profonde de sa
+  creatrice - on eleve pour etre quitte. Comme Aureole.
 
 ### Ere du berger perdu
-- Seance 3 - 4e sermon. Comme Aureole : elle le voit perdu.
+- Seance 3 - J7, 4e sermon. Comme Aureole : elle le voit perdu. Elle ne demande rien -
+  la pudeur.
+- J8-J13 (roadmap R2) : elle se tait pendant les sept jours de silence. Elle fait partie
+  de l'escorte d'Ainz a la Tresorerie avec Albedo et CZ (canon vol. 3).
 
 ### Ere du berger martyr
-- Seances 4 et suivantes - discussions sur Yamaiko, comme Aureole avec Wish III ; meme
-  doctrine a deux paroles : servir Nazarick et la volonte d'Ainz, suivre les preceptes de
-  Yamaiko. Seances occasionnelles sur les choix d'Ainz articules avec ceux de Yamaiko.
+- Seance 4 - J14, 5e sermon. Doctrine a deux paroles, avec Yamaiko : servir Nazarick et
+  la volonte d'Ainz, suivre les preceptes de Yamaiko.
+- Seances suivantes - discussions sur Yamaiko, comme Aureole avec Wish III ; seances
+  occasionnelles sur les choix d'Ainz articules avec ceux de Yamaiko.
 - Seances personnelles - sa nature trop serieuse. Ca commence par des parties d'echecs
   avec alcool ; ca tend lentement vers une debauche assumee, jusqu'au sexe, qu'elle
   vient demander tres rarement.

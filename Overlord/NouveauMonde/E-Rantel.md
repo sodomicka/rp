@@ -1,6 +1,9 @@
 # E-Rantel
 
-- version : W1
+- version : W2
+
+Amendements W2 (build R2) : trajectoire datee ouverte - l'arrivee de Momon et Nabe,
+la soumission du Roi Sage, l'affaire Nfirea et le soulevement du cimetiere.
 
 Etat decrit : jour 0.
 
@@ -105,6 +108,10 @@ Etat decrit : jour 0.
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| ~J8 | Deux aventuriers inconnus, Momon et Nabe, s'inscrivent a la guilde et montent en grade a une vitesse anormale. Nfirea Baleare les engage pour une cueillette dans la Grande Foret de Tob ; les Epees des Tenebres completent l'escorte | une puissance sans origine connue s'installe dans la ville |
+| J11 | Le Roi Sage de la Foret est soumis par Momon, nomme Hamsuke et enregistre comme monture a la guilde | la plus vieille legende de Tob devient un animal de compagnie ; la reputation de Momon explose |
+| J12 | Khajiit Dale Badantel et Clementine tuent les Epees des Tenebres et enlevent Nfirea pour declencher le rituel des catacombes : le cimetiere se leve sur la ville. Momon abat Clementine, le necromant meurt aussi | Zuranon decapite localement ; cinq ans de preparation reduits a rien ; la ville sauvee par un inconnu |
+| J14 | Momon et Nabe promus au rang ADAMANTITE - la premiere equipe adamantite de la ville | E-Rantel n'est plus une place sans heros ; le Royaume et ses voisins vont l'apprendre |
 
 ## Renvois
 - Royaume, Katze, Quatre Grands Dieux : cf. NouveauMonde/Re-Estize.md.
