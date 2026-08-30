@@ -1,6 +1,8 @@
 # Pandora's Actor
 
-- version : W1
+- version : W2
+
+Amendements W2 (thread 12) : trajectoire datee ouverte (R0, J1-J2).
 
 ## Identite
 - Nom : Pandora's Actor. Epithete : l'Homme sans visage aux mille formes.
@@ -66,9 +68,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps ; structuration
-par eres de roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
+| J1-J2 | Premiere rencontre avec Azoth : accueil sous la forme d'Ulbert ; accent et manieres prussiennes coupes par reconfiguration verbale de Momonga | connu d'Azoth ; archiviste du Cardinal |
 
 ---
 

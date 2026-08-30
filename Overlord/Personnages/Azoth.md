@@ -1,6 +1,8 @@
 # Azoth, le Cardinal Demoniaque
 
-- version : W6
+- version : W7
+
+Amendements W7 (thread 12) : trajectoire datee ouverte (R0, J0-J3).
 
 Amendements W6 (thread 9) : Guerison au rang 10 par sa classe de Cardinal, sacre et
 Energie Negative ; les trois branches de la magie (Capacites).
@@ -173,9 +175,10 @@ pages relations par cercles.
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps ; structuration par
-eres de roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
+| J0 | Transfert pendant l'office ; conscience nee en pleine recitation ; premier preche sincere, coupe par le Message du Seigneur | berger sincere ; S1 |
+| J1 | Serment des Gardiens au 6e ; acces aux archives des 41 accorde (Ainz 1) | anneau d'Ainz Ooal Gown ; acces illimite a la Tresorerie |
+| J1-J2 | Premiere visite de la Tresorerie ; rencontre Pandora's Actor ; lecture d'Ulbert et de Wish III, "tout est verite" | contradiction emportee sans etre vue |
+| J3 | S2, sermon enrichi ; premiere seance d'Albedo (la conquete) | l'horloge de CZ demarre a son insu |
 
 ---
 

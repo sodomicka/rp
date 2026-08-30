@@ -1,6 +1,8 @@
 # Aureole Omega
 
-- version : W2
+- version : W3
+
+Amendements W3 (thread 12) : trajectoire datee ouverte (R0, J0-J3).
 
 Amendements W2 (thread 8) : ne se voit pas comme les autres humains ; la viande humaine ne
 la derange pas (Psychologie).
@@ -100,9 +102,8 @@ la derange pas (Psychologie).
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps ; structuration
-par eres de roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
+| J0 | Apres S1, pose la question de Wish III ; renvoyee au 8e en attendant S2 | sans le savoir, ouvre la voie de la Tresorerie |
+| J3 | S2 : entend la pensee profonde de Wish III | sa question recompensee ; ravie |
 
 ---
 
