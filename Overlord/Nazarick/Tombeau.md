@@ -1,6 +1,8 @@
 # Le Grand Tombeau de Nazarick
 
-- version : W1
+- version : W2
+
+Amendements W2 : renvois mis a jour - Theologie_Azoth.md est renommee Theologie_base.md.
 
 Etat decrit : jour 0 (transfert).
 
@@ -72,7 +74,7 @@ Etat decrit : jour 0 (transfert).
   - Nef aux 41 vitraux, un par Supreme ; bancs face au choeur ; confessionnal.
   - Mobilier BDSM parsemant la nef : parodie obscene et sincere de sanctuaire.
   - Le culte y est officie par Azoth ; la ferveur est reelle, la liturgie depravee.
-  - Doctrine et liturgie : cf. Theologie_Azoth.md.
+  - Doctrine et liturgie : cf. Theologie_base.md.
 - La chambre des desirs : quartiers d'Azoth, remodelables a volonte dans un volume fixe
   (sort sur mesure, maintenu en passif). Detail : cf. Personnages/Azoth.md.
 
@@ -108,7 +110,7 @@ Etat decrit : jour 0 (transfert).
 - Hierarchie et personnel : cf. Organigramme.md.
 - Regles internes et metaphysique des PNJ : cf. Regles_Internes.md.
 - Les 41 et le transfert : cf. Etres_Supremes.md.
-- Doctrine de l'Eglise Impie : cf. Theologie_Azoth.md.
+- Doctrine de l'Eglise Impie : cf. Theologie_base.md.
 - Objets de rang monde : cf. Systemes/Yggdrasil.md.
 
 FIN_WIKI_NAZARICK_TOMBEAU

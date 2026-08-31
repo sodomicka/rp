@@ -1,6 +1,8 @@
 # Nazarick - Regles internes et metaphysique
 
-- version : W1
+- version : W2
+
+Amendements W2 : renvois mis a jour - Theologie_Azoth.md est renommee Theologie_base.md.
 
 Etat decrit : jour 0.
 
@@ -9,7 +11,7 @@ Etat decrit : jour 0.
 - Cette loyaute est ecrite dans leur setting : elle precede toute experience vecue.
 - Les Supremes partis ne sont pas percus comme des deserteurs ; leur retour est espere.
 - L'Eglise Impie (9e etage) institutionnalise le culte : offices, saintes paroles des 41,
-  confession [DIVERGENCE RP - enrichissement]. Officiant : Azoth. Cf. Theologie_Azoth.md.
+  confession [DIVERGENCE RP - enrichissement]. Officiant : Azoth. Cf. Theologie_base.md.
 
 ## Metaphysique des PNJ (SAVOIR META - aucun PNJ n'y a acces)
 - Dans Yggdrasil, les PNJ etaient des programmes sans conscience.
@@ -84,7 +86,7 @@ Etat decrit : jour 0.
 ## Renvois
 - Lieux : cf. Tombeau.md. Personnel : cf. Organigramme.md.
 - Les 41 et le transfert : cf. Etres_Supremes.md.
-- Doctrine et liturgie : cf. Theologie_Azoth.md.
+- Doctrine et liturgie : cf. Theologie_base.md.
 - Ages et souvenirs programmes par personnage : cf. Personnages/.
 
 FIN_WIKI_NAZARICK_REGLES_INTERNES

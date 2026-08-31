@@ -1,6 +1,9 @@
 # Les 41 Etres Supremes (guilde Ainz Ooal Gown)
 
-- version : W1
+- version : W3
+
+Amendements W3 : strate SELON SATORU ajoutee sous chaque createur - le regard du joueur sur
+ses camarades, distinct de ce que Nazarick en sait. Renvois Theologie_base.md.
 
 Etat decrit : jour 0.
 
@@ -23,40 +26,73 @@ Etat decrit : jour 0.
 ## Membres notables et leurs creations
 - Momonga : maitre de guilde, Overlord magic caster, l'un des neuf d'origine. Createur de
   Pandora's Actor. Detail : cf. Personnages/Ainz.md.
+  - SELON SATORU : lui-meme. Un salarie qui tient le role du dieu.
 - Touch Me : paladin, Champion du Monde ; race jamais montree - toujours en armure blanche
   integrale, inconnue meme de Nazarick. Fondateur et chef du clan d'origine. Createur de
   Sebas Tian.
+  - SELON SATORU : l'homme qui l'a sauve des PK et fonde la guilde. Droit, fort, un peu
+    ecrasant. Il avait tout - la force, la droiture, une famille - et c'est la famille qui
+    l'a emporte hors du jeu. Admiration, avec une pointe de jalousie.
 - Nishikienrai : ninja demi-golem, l'un des neuf d'origine ; decouvreur du Tombeau.
   Createur de Narberal Gamma.
+  - SELON SATORU : costume integral, visage inconnu de presque toute la guilde. Un salaryman
+    soule par son boulot.
 - Wish III : l'un des neuf d'origine ; un Archange, bienveillant - rien de plus n'est connu
   de lui a Nazarick. Createur d'Aureole Omega et de Victim [DIVERGENCE RP - canon muet].
   Voir la section dediee ci-dessous.
+  - SELON SATORU : profondement religieux, capable de voir le bien en toute personne.
 - Warrior Takemikazuchi : Oni, guerrier au katana, forgeron de la guilde, l'un des neuf
   d'origine. Createur de Cocytus.
+  - SELON SATORU : defense faible, la plus grosse frappe de la guilde. Ami de Nishikienrai.
 - Ulbert Alain Odle : demon a tete de bouc, Desastre Mondial, magic caster oriente
   destruction, obsede par le Mal absolu. Createur de Demiurge ET d'Azoth, jumeaux
   [DIVERGENCE RP pour le second].
+  - SELON SATORU : chuunibyou assume, brouille avec Touch Me sur la justice. L'un des plus
+    proches de Momonga, qui partageait son gout du style - le nom Ainz Ooal Gown,
+    Pandora's Actor.
 - Peroroncino : archer oiseau, otaku assume. Createur de Shalltear Bloodfallen.
+  - SELON SATORU : bruyant, drole, otaku de H-games sans la moindre gene. Chambre par sa
+    soeur ainee. Momonga l'aimait bien et rougissait de ses histoires.
 - Bukubukuchagama : slime rose, doubleuse professionnelle, soeur ainee de Peroroncino.
   Creatrice d'Aura et Mare.
+  - SELON SATORU : la grande soeur de la guilde. Chaleureuse, taquine.
 - Tabula Smaragdina : devoreur de cerveaux, occultiste feru de symbolique. Createur
   d'Albedo, Nigredo et Rubedo ; securites de la Tresorerie avec Garnet.
+  - SELON SATORU : auteur de settings interminables. Celui qui a ecrit la ligne de fille
+    facile pour Albedo - le gap que Momonga a retouche la derniere nuit. A donne
+    Ginnungagap a sa creation contre les regles.
 - Herohero : vase noir ancien. Createur de Solution Epsilon ; co-concepteur des servantes
   homoncules. Dernier membre a se connecter avant la fin, hormis Momonga.
+  - SELON SATORU : salarie broye, poli, humble. Son propre miroir. "On se reverra" -
+    jamais tenu.
 - Yamaiko : Cyborg ; l'une des trois femmes de la guilde. Creatrice de Yuri Alpha.
+  - SELON SATORU : institutrice dans la vie reelle. Stricte et bienveillante.
 - Punitto Moe : Illithid, le stratege de la guilde - Momonga tient de lui sa doctrine de
   combat. Aucune creation a Nazarick.
+  - SELON SATORU : consultant pour l'armee japonaise. Yggdrasil etait sa maniere de donner
+    des strategies fiables que personne ne questionne.
 - Beast King Mekongawa : Lion-garou. Createur de Lupusregina Beta.
+  - SELON SATORU : Japonais d'origine cambodgienne, veterinaire dans un zoo, cinq chiens et
+    douze chats chez lui. S'absentait en hurlant en plein combat quand l'un d'eux pissait
+    par terre - running gag de la guilde.
 - Garnet : Vedalken. Createur de CZ2128 Delta ; securites de la Tresorerie avec Tabula.
   Il a ecrit chez sa creation des sous-programmes sensoriels et emotionnels complets, puis
   les a VERROUILLES [DIVERGENCE RP] : cf. Regles_Internes.md.
+  - SELON SATORU : professeur de robotique a Tokyo. Il utilisait sa creation en cours, pour
+    expliquer les composants et les programmes de routine d'une machine theoriquement
+    sentiente.
 - Genjiro : Aranite - un homme a l'avatar feminin. Createur d'Entoma Vasilissa Zeta ;
   tenait l'inventaire de la Tresorerie.
+  - SELON SATORU : eboueur. Il lui a raconte avoir ramasse des centaines de cadavres dans
+    les rues. Yggdrasil est sa maniere de rendre ces ames perdues utiles, en les separant
+    en composants.
 - Ankoro Mocchi Mochi : alraune ; l'une des trois femmes de la guilde, avec Bukubukuchagama
   et Yamaiko ; la soigneuse. Aucune creation a Nazarick.
+  - SELON SATORU : discrete. Celle qu'on appelait quand ca tournait mal.
 - Blue Planet : amoureux des paysages ; artisan de la nature et du ciel artificiel du 6e.
 - Whitebrim (chef de projet) et Coup De Grace : concepteurs des servantes homoncules, avec
   Herohero.
+- Blue Planet, Whitebrim et Coup De Grace : aucun regard de Satoru consigne a ce jour.
 - Les autres membres nommes au canon n'ont pas d'attribution utile au focus.
 
 ## Wish III, Dieu de la Vie [DIVERGENCE RP - decision worldbuilder]
@@ -104,7 +140,7 @@ Etat decrit : jour 0.
 
 ## Renvois
 - Le Tombeau et le Mausolee : cf. Tombeau.md. Le culte des 41 : cf. Regles_Internes.md.
-- Doctrine et corpus preche : cf. Theologie_Azoth.md.
+- Doctrine et corpus preche : cf. Theologie_base.md.
 - Le jeu d'origine et les transferts : cf. Systemes/Yggdrasil.md.
 - Les creations : cf. Personnages/.
 

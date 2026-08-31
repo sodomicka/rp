@@ -1,6 +1,6 @@
 # Sommaire - WIKI Overlord
 
-- version : W1
+- version : W3
 
 Index de navigation. Fetche en debut de chaque thread. L'URL d'une page se construit :
 raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire est l'index.
@@ -17,11 +17,11 @@ raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire e
 ## Nazarick (5 pages)
 | Page | V | Contenu |
 |---|---|---|
-| Nazarick/Tombeau.md | W1 | Les dix etages, l'Eglise Impie, la Tresorerie relocalisee au 10e |
+| Nazarick/Tombeau.md | W2 | Les dix etages, l'Eglise Impie, la Tresorerie relocalisee au 10e |
 | Nazarick/Organigramme.md | W1 | Hierarchie, chaine du 9e, Pleiades, gardiens de zone |
-| Nazarick/Regles_Internes.md | W1 | Metaphysique des PNJ, garde-fou, exception CZ2128, economie, securite |
-| Nazarick/Etres_Supremes.md | W1 | Les 41, leurs creations, Wish III Dieu de la Vie, le transfert |
-| Nazarick/Theologie_Azoth.md | W1 | Dogme, deux blasphemes, corpus preche, liturgie, confession |
+| Nazarick/Regles_Internes.md | W2 | Metaphysique des PNJ, garde-fou, exception CZ2128, economie, securite |
+| Nazarick/Etres_Supremes.md | W2 | Les 41, leurs creations, Wish III Dieu de la Vie, le transfert |
+| Nazarick/Theologie_base.md | W2 | Dogme, deux blasphemes, corpus preche, liturgie, confession |
 
 ## NouveauMonde (3 pages)
 | Page | V | Contenu |
@@ -30,17 +30,19 @@ raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire e
 | NouveauMonde/Theocratie_Slane.md | W1 | L'Etat, gouvernement, les Six Ecritures, rapport a Nazarick |
 | NouveauMonde/Re-Estize.md | W1 | Le Royaume, E-Rantel, Carne, l'Empire en notice |
 
-## Personnages
-Passe 1 non entamee. Fiches noyau a venir. Azoth est range en entite de lore NEUTRE
-(Personnages/Azoth.md), non en branche perspective.
-
-## Parties
-Parties/Overlord/Partie1/ : non cree. Genere au CODEX V1, apres la passe 3.
+## Personnages (6 pages)
+| Page | V | Contenu |
+|---|---|---|
+| Personnages/Ainz.md | W1 | Suzuki Satoru, la guilde, le calibre, l'ecart de savoir sur les quarante |
+| Personnages/Azoth.md | W1 | Le Cardinal : setting d'Ulbert, deux formes, Passion d'Incube, le 9e |
+| Personnages/Albedo.md | W1 | Regente, le parametre reecrit, Hermes Trismegistus, Ginnungagap |
+| Personnages/Demiurge.md | W1 | Le jumeau, arsenal de competences, la Lave, luxure a zero |
+| Personnages/Shalltear.md | W1 | Valkyrie de Sang, Lance Pipette, Frenesie Sanglante, nymphomanie |
+| Personnages/Aureole_Omega.md | W1 | Sainte aveugle, karma +500, Worldslicer, le Sanctuaire des Cerisiers |
 
 ## Hors index
 - Overlord/_Implications.md - journal de travail. JAMAIS fetche en narration.
-- Roadmap/Azoth/ - itineraires par arc. NON INDEXEES, JAMAIS fetchees en narration : elles
-  portent le futur de la saga. Source de build uniquement.
-- Fiches_Arc/Azoth/ - a venir en passe 3 ; seront indexees ici.
+- Nazarick/Theologie_profonde.md - pensees profondes des createurs et contradictions
+  frontales. NON INDEXEE, JAMAIS fetchee en narration : elle porte le futur.
 
 FIN_WIKI__SOMMAIRE

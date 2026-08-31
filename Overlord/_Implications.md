@@ -1,38 +1,61 @@
 # Journal d'implications - Overlord
 
-- version : W1
+- version : W2
 
-Document de TRAVAIL. Jamais fetche en narration. Pense-bete de coordination : doutes non
-tranches, points a reverifier a la cloture de passe 2, questions en attente.
+Document de TRAVAIL. Jamais fetche en narration. Porte ce qui RESTE : doutes non tranches,
+questions en attente, points a reverifier. Ne garde aucune trace de ce qui est fait.
 
 ## En attente de decision du worldbuilder
+
 - PSEUDONYME DE WISH III comme Dieu de la Vie chez les Six Grands Dieux. Symbole biblique
   recherche, discret, sans effet d'annonce. Bloque : Nazarick/Etres_Supremes.md porte un
   [INCERTAIN].
-- DECOUPAGE DE L'ARC 1. Un arc unique "La Crise" (jour 0 au jour 13), ou trois arcs courts
+- DECOUPAGE DE L'ARC 1. Un arc unique "La Crise" (jour 0 au jour 12), ou trois arcs courts
   cales sur Berger Sincere / Berger Perdu / Berger Martyr. A trancher avant la passe 2.
+- L'HERESIE D'AZOTH. Evoquee comme le declencheur de la haine des Quarante chez Albedo, mais
+  jamais posee : aucune trace nulle part. Rien n'en est ecrit tant qu'elle ne l'est pas.
 - MOQUERIE D'AURA apres la resurrection de Shalltear : conservee ou non. Jugee plus mechante
-  que taquine. L'axe des piques au jour 0 est pose (tensions amicales, toute occasion est
-  bonne), celui d'apres le jour 13 ne l'est pas.
+  que taquine. L'axe des piques au jour 0 est pose ; celui d'apres ne l'est pas.
 - ROUTAGE DU SAVOIR SUR WISH III : Azoth le decouvre-t-il en jeu, ou reste-ce de l'ironie
-  dramatique reservee au joueur (CODEX ANNEXE_SAVOIRS) ? Reporte volontairement : on
-  construit du contenu neutre d'abord.
-- VF DE LA CHUTE DES CHATEAUX ET DES ROYAUMES (Downfall of Castle and Country), objet de
-  rang monde des Six Grands Dieux. Traduction provisoire.
-- NOMS VF DES ARTS MARTIAUX : chantier de traduction dedie, non ouvert.
+  dramatique reservee au joueur (CODEX ANNEXE_SAVOIRS) ?
+- NOMMAGE D'ULBERT. Demiurge et Jaldabaoth designent la meme figure du gnosticisme ; Azoth
+  est un terme d'alchimie. Intention d'Ulbert a inscrire, ou coincidence a ignorer.
+- BLUE PLANET, WHITEBRIM, COUP DE GRACE : attribues dans Etres_Supremes.md, sans pensee
+  profonde dans Theologie_profonde.md.
+- COIFFURE DE SHALLTEAR. Le canon la coiffe en couettes, ce qui contredit l'abandon du rendu
+  enfantin. Laissee non decrite en attendant.
+- VF A FIXER : la Chute des Chateaux et des Royaumes (objet de rang monde) ; les noms des
+  Arts Martiaux ; Worldslicer ; le titre de Demiurge (Createur de l'Enfer Flamboyant) ; le
+  surnom d'Albedo (Diable blanc bienveillant) ; le diminutif d'Aureole par Yuri.
+
+## A porter au prochain BIBLE BUILD
+
+- SB1 : distinguer le VECU, absent au jour 0, des CARACTERISTIQUES D'AVATAR, presentes des
+  le premier instant. Vaut pour la cecite d'Aureole et les scarifications d'Azoth.
+- SB3 et SB7 : decalage J13 -> J12 pour la resurrection de Shalltear.
+- SB5 : le parametre d'Albedo est "amoureuse de Momonga", pas "epouse". Retirer la balise
+  DIVERGENCE RP sur l'eternite d'Aureole, qui releve du canon.
+- SB7 : reformuler "reposent au Mausolee". Ginnungagap et Worldslicer sont deja portes.
+- SB8 : Tchekhov d'Albedo reformule - amour ecrit vers l'un, desir vecu vers l'autre. Sortir
+  la fecondite d'Ainz des mysteres : tranchee, creation ex nihilo.
+- Echelle_Puissance.md : decalage J13 -> J12.
+
+## Faits a durcir ou couper
+
+Marques [INCERTAIN] dans les fiches, faute de source confirmee :
+- Ainz : karma -500 ; rang de guilde tombe a la 29e place ; repertoire de plus de sept cents
+  sorts.
+- Albedo : liste de ses classes, possiblement partielle.
+- Demiurge : la plus haute defense magique du Tombeau.
 
 ## A verifier a la cloture de passe 2
+
 - Coherence de la double horloge (conscience / age programme) sur toutes les fiches
-  d'entites creees en passe 1.
+  d'entites.
 - Que l'exception CZ2128 n'ait fuite dans aucune fiche : le garde-fou de
   Nazarick/Regles_Internes.md doit rester intact pour tout autre PNJ.
 - Que la Trajectoire datee de chaque fiche ne contienne rien qui n'ait ete roadmappe.
-
-## Notes de build
-- Passe 0 : lot Systemes livre (5 pages), lot Nazarick livre (5 pages). Restent le lot
-  NouveauMonde reduit, puis la BIBLE.
-- Perimetre NouveauMonde valide : Theocratie de Slane, E-Rantel, Carne. Le reste hors
-  perimetre jusqu'a nouvel ordre.
-- Azoth range en entite de lore NEUTRE (Personnages/Azoth.md), non en branche perspective.
+- Que la troncature d'arc n'ait laisse passer aucune preteriton : une Note de frontiere
+  dit QU'IL MANQUE quelque chose, jamais QUOI.
 
 FIN_WIKI__IMPLICATIONS
