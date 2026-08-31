@@ -1,6 +1,11 @@
 # Cocytus
 
-- version : W4
+- version : W5
+
+Amendements W5 (build R3) : trajectoire datee R3 (J28 -> J37 et au-dela) - la guerre du
+Grand Lac menee sous restrictions et perdue, le cours de strategie enfin donne apres
+trente-trois jours d'attente, le conseil du un-contre-tous recu du Cardinal, la victoire
+et le gouvernement des cinq tribus.
 
 Amendements W4 (build R2) : trajectoire datee ouverte - adjoint designe de
 l'expedition refusee, objet de rang monde recu au douzieme jour.
@@ -102,6 +107,10 @@ worldbuilder).
 | J11-J12 | Albedo le designe comme adjoint de l'expedition punitive contre Shalltear ; Ainz refuse l'expedition entiere et ira seul | le duel loyal contre la plus forte des Gardiens lui echappe, au profit du Seigneur |
 | J12 | Recoit un objet de rang monde de la Tresorerie lors de la distribution aux Gardiens - Mille Lames ou la Coupe d'Hygie, l'attribution nominative n'etant pas precisee au canon | protege contre les objets de rang monde ennemis |
 | J14 | S5, le premier sermon du berger martyr | rien vu ; le cours de strategie promis par le Cardinal reste en attente |
+| J28-J31 | Envoye au Grand Lac contre les cinq tribus d'hommes-lezards avec cinq mille morts-vivants de bas rang et l'elder lich Iguva=41, sous restrictions expresses du Seigneur : commander de l'arriere, ne pas paraitre au combat, n'employer ni ses pouvoirs ni ses serviteurs. Entoma est son observatrice. La bataille tourne ; il consulte Demiurge, qui lui dit de continuer comme il fait. Iguva=41 tombe, l'armee de la mort est defaite | premiere defaite d'une force de Nazarick ; il rentre chercher son chatiment |
+| J32-J35 | Le Cardinal lui donne enfin les cours de strategie militaire demandes a S2, et etablit que la defaite n'etait pas une faute de commandement mais un outil trop court pour la tache - on ne juge pas un bras sur ce qu'on lui a mis dans la main. Azoth lui souffle de DEFIER LES BRAVES EN UN CONTRE TOUS, pour laver l'honneur la ou il a ete perdu. Convoque au Trone, il est reprimande, puis propose d'epargner les lezards et de les integrer plutot que de les exterminer ; Ainz accepte, satisfait | un maitre, enfin ; et un conseil qu'il portera au Trone comme le sien |
+| J36-J37 | Il affronte seul une cinquantaine de volontaires, puis les cinq chefs : Kyuku Zuzu, Sukyu Juju, Zenber et Shasuryu tombent ; a Zaryus, dernier debout, il concede un pas en arriere avant de frapper - hommage du fort au faible | l'honneur lave en public, par la seule chose qu'il fait mieux que quiconque |
+| a partir de J37 | Les cinq tribus deviennent sujettes de Nazarick sous son gouvernement, a mener par la carotte et non par la peur (ordre d'Ainz) | un Gardien d'etage devient gouverneur ; premier territoire vassal du Tombeau |
 
 (Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
 roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)

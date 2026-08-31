@@ -1,6 +1,10 @@
 # Shasuryu Shasha et Zenber Gugu
 
-- version : W1
+- version : W2
+
+Amendements W2 (build R3) : trajectoire datee ouverte - la guerre contre Nazarick, la
+mort des deux au duel contre Cocytus, la resurrection prononcee par le Cardinal, et leur
+entree a Nazarick comme instructeurs du Roi Sage.
 
 Fiche commune des deux chefs du Grand Lac. Etat decrit : jour 0 - cinq tribus separees,
 paix armee de l'apres-guerre des ressources.
@@ -99,8 +103,13 @@ paix armee de l'apres-guerre des ressources.
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J28-J31 | SHASURYU : il mene la diplomatie de l'alliance a cinq avec son cadet et prend la tete de la coalition contre l'armee de morts-vivants. ZENBER : Croc de Dragon rejoint l'alliance ; il combat aux cotes de Zaryus et de Crusch contre l'elder lich | la triple alliance devient une alliance a cinq ; victoire |
+| J32-J35 | Shasuryu tente la reddition devant le trone de glace ; elle est refusee. Les deux acceptent le duel contre Cocytus avec les autres chefs | ils savent qu'ils vont mourir et y vont quand meme |
+| J36-J37 | Tues tous les deux par Cocytus | morts |
+| J37 | Ramenes par le CARDINAL DE NAZARICK, avec Zaryus, contre l'obeissance absolue des tribus negociee par Crusch | ils doivent leur vie a une puissance qu'ils ne comprennent pas, et ils le savent |
+| a partir de J37 | Montent a Nazarick, directement affilies au Tombeau, INSTRUCTEURS DU ROI SAGE [DIVERGENCE RP - au canon Shasuryu reste au lac et devient chef de toutes les tribus ; ici c'est Zaryus qui dirige au lac]. SAVOIR MJ : ce sont, avec le Roi Sage, les seuls habitants du Tombeau que la doctrine a deux paroles ne peut pas couvrir - ils n'ont pas de createur au pantheon | deux etrangers vivants installes a Nazarick, hors de portee du paravent |
 
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps.)
+(Alimentation a chaud arc par arc apres les roadmaps.)
 
 ---
 

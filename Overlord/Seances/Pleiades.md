@@ -1,11 +1,23 @@
 # Seances - Pleiades (Lupusregina, Narberal, Solution, Entoma)
 
-- version : W1
+- version : W3
 - statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut
   roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
 
+Amendements W3 (build R3) : l'ORDRE D'ENTREE DES SOEURS et la cadence relevent de la
+FICHE D'ARC (passe 3), pas de la roadmap - le detail fin se pose au niveau qui le joue.
+Les trames par soeur, elles, restent ici : elles disent ce que chacune vient chercher, pas
+quand.
+
+Amendements W2 (build R3) : LES SEANCES PERSONNELLES S'OUVRENT EN R3, a partir de J17
+(ere martyr). Les Pleiades detachees hors du Tombeau RENTRENT PAR TELEPORTATION le temps
+d'une seance et repartent ensuite - aucune n'est indisponible, et ce n'est pas au
+superieur qu'on revient (decision worldbuilder). Nouvel ancrage : les jours.
+
 Trame commune : les trois etapes de la foi d'Azoth - BERGER SINCERE, BERGER PERDU,
-BERGER MARTYR. Ancrage : le compte des sermons depuis le jour 0. Au transfert, les six
+BERGER MARTYR. Ancrage : le compte des sermons depuis le jour 0 jusqu'a S5 (J14), puis les JOURS
+DEPUIS J0 - les sermons passent en ellipse et cessent d'etre numerotes a partir de R3
+(decision worldbuilder). Au transfert, les six
 Pleiades sont a l'Eglise Impie [DIVERGENCE RP - Nazarick/Etres_Supremes.md]. Dates :
 roadmaps. Noyaux : Personnages/Lupusregina.md, Narberal.md, Solution.md, Entoma.md.
 Base : structure de Yuri (Seances/Lieutenants.md), seules les seances personnelles
@@ -43,7 +55,7 @@ par plusieurs seances de seduction ; chaque pas est quemande.
 - Seances 4 et suivantes - Mekongawa ; doctrine a deux paroles (servir Nazarick et la
   volonte d'Ainz, suivre les preceptes du createur) ; choix d'Ainz. Idem les trois
   autres.
-- Seances personnelles (debut : roadmap) - elle demande de l'attention, un traitement de
+- Seances personnelles (ouvertes en R3, a partir de J17 ; ordre d'entree et cadence : fiche d'arc) - elle demande de l'attention, un traitement de
   privilegiee : toilettage, nourrissage ; comportements bestiaux a deux ; sommeil a
   deux, nus et colles, sans sexualite. Apogee : etre traitee comme sa femelle, lui son
   male alpha ; l'acte, sans fecondation (ellipse).
@@ -75,7 +87,7 @@ par plusieurs seances de seduction ; chaque pas est quemande.
 
 ### Ere du berger martyr
 - Seances 4 et suivantes - Nishikienrai, deux paroles, choix d'Ainz.
-- Seances personnelles (debut : roadmap) - elle apprend a faire confiance. D'abord
+- Seances personnelles (ouvertes en R3, a partir de J17 ; ordre d'entree et cadence : fiche d'arc) - elle apprend a faire confiance. D'abord
   discuter, simplement (son hobby : bavarder) ; puis se confier sur ses doutes - sa haine
   des humains malgre son amour pour ses soeurs, dont Aureole, humaine ; enfin
   l'acceptation, le lacher-prise par le sexe, l'ultime epreuve a ses yeux (ellipse).
@@ -107,7 +119,7 @@ par plusieurs seances de seduction ; chaque pas est quemande.
 
 ### Ere du berger martyr
 - Seances 4 et suivantes - Herohero, deux paroles, choix d'Ainz.
-- Seances personnelles (debut : roadmap) - parties d'echecs ou de shogi entre genies,
+- Seances personnelles (ouvertes en R3, a partir de J17 ; ordre d'entree et cadence : fiche d'arc) - parties d'echecs ou de shogi entre genies,
   puis sexe (ellipse). Le corps de slime n'est plus une cage.
 - Ce qu'Azoth decouvre sur lui-meme : un predateur qui joue au lieu de devorer.
 - Verrou : elle ne dissout pas ce qu'elle desire.
@@ -137,7 +149,7 @@ par plusieurs seances de seduction ; chaque pas est quemande.
 
 ### Ere du berger martyr
 - Seances 4 et suivantes - Genjiro, deux paroles, choix d'Ainz.
-- Seances personnelles (debut : roadmap) - elle n'aime que la viande humaine malgre le
+- Seances personnelles (ouvertes en R3, a partir de J17 ; ordre d'entree et cadence : fiche d'arc) - elle n'aime que la viande humaine malgre le
   malaise de ses soeurs : Azoth cuisine pour elle. Humain cru d'abord, puis cuit, puis
   d'autres viandes. Un jour, par accident, en essuyant ses mandibules, Azoth lui fait
   decouvrir que sa chair est tres sensible. Chaque seance ensuite : une nouvelle viande,

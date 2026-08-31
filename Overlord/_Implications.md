@@ -10,15 +10,16 @@ le canon. Aucun historique, aucun datage : une ligne actee et propagee SORT du
 journal au build suivant.
 
 ## Etat du chantier
-- ETAT : BIBLE B8 ; Systemes 4, Nazarick 5, Personnages 24, NouveauMonde 7, Seances 11
-  pages ; Sommaire W18 ; Resume W6. Zero [INCERTAIN].
+- ETAT : BIBLE B10 ; Systemes 4, Nazarick 5, Personnages 27, NouveauMonde 7, Seances 11
+  pages ; Sommaire W20 ; Resume W6.
 - PASSE 2 EN COURS - boucle serree par arc : roadmap N en grandes lignes -> confrontation
   au canon -> fiches absentes et enrichissements A CHAUD (Trajectoire datee, pages
   Azoth_relations_*) -> details -> N+1. Decoupage en arcs TRANCHE : R0-R9 bornees au
   garde-cap, R10+ ouvert. R0 buildee (L'Eveil : J0 -> S2 a J3) ; R1 buildee (Le Blaspheme :
   ~J4 -> Ainz 2 a J7, bascule sincere -> perdu, huis clos) ; R2 buildee (Le Martyre :
-  ~J8 -> seance de la chute a J15, bascule perdu -> martyr, declencheur CZ) ; R3 a builder
-  et a nommer (J15 -> J37), ouverture posee : le shunt de CZ. Gabarit :
+  ~J8 -> seance de la chute a J15, bascule perdu -> martyr, declencheur CZ) ; R3 buildee
+  (Le Miracle : J15 -> ~J40, premier arc sans bascule, une seule sortie) ; R4 a builder et
+  a nommer (apres ~J40). Gabarit :
   SPEC_BIBLE_LORE_WIKI, version courante verifiee par listing de Config/ avant fetch.
   Roadmaps dans Overlord/Roadmap/Azoth/, hors index.
 - ENSUITE : relecture croisee de cloture de passe 2 (dont la hierarchie du 9e,
@@ -50,7 +51,8 @@ Nazarick
   chez un slime (echecs ou shogi entre genies, puis sexe) ; Zeta l'anthropophagie (Azoth
   cuisine pour elle, chair des mandibules tres sensible, une viande par seance). Doctrine :
   elles se completent en se sentant desirees par Azoth ; Aureole etait deja complete.
-  Seances personnelles a l'ere martyr (base Yuri), debut fixe a la roadmap.
+  Seances personnelles OUVERTES EN R3 a partir de J17 ; les detachees rentrent par
+  teleportation. Trames par soeur conservees ici ; ORDRE D'ENTREE ET CADENCE [A POSER].
 - Omega : discussions existentielles, hors registre sensuel (desinteret, pas interdit).
 - A terme (trajectoire lointaine) : meme role d'exutoire aupres d'Ainz lui-meme, par le
   fait d'enfin pouvoir parler.
@@ -73,15 +75,38 @@ Nouveau Monde
   de construction. Prophetie du Seigneur Dragon de la Catastrophe : issue en roadmap.
 - E-Rantel / Tob : Zuranon (Spirale de la Mort) decapite localement a J12 ; ce qu'il en
   reste ailleurs : issue en roadmap. Le Roi Sage, une fois forme par Azoth a la demande
-  d'Ainz, comprend que les 41 n'etaient pas d'accord (Tchekhov SB8, condition de detonation
-  a ecrire au build R3) ; gag qui en fait d'abord une cible a executer selon Azoth ; Ainz
-  l'en dissuade ; il devient le protege du Cardinal (peut encore progresser), porteur d'un
-  secret qui lui vaudra la mort par son protecteur s'il tente de le divulguer.
-- Grand Lac : la guerre des lezards releve des seances de Cocytus (cours de strategie
-  d'Azoth, promis depuis J3 et toujours pas donne) ; Shasuryu et Zenber entrent a Nazarick
-  apres l'arc des hommes-lezards ; Zaryus et Crusch restent au lac.
+  d'Ainz, ACTE ET PROPAGE EN R3 (Hamsuke W3, roadmap R3, SB8) - condition de
+  detonation ecrite, protege du Cardinal a partir de ~J40.
+- Grand Lac : ACTE ET PROPAGE EN R3 (fiches Cocytus, Hommes_Lezards, Shasuryu_Zenber,
+  Zaryus_Crusch).
 
 ## Questions en attente / a trancher
+- Seances/Pleiades.md a franchi le seuil de 8 000 caracteres au build R3 (8,7k). Meme
+  traitement que Pantheon et Lieutenants : depassement tolere, scission a revoir a la
+  cloture de passe 2.
+- ROUTAGE DU DETAIL FIN (decision worldbuilder, build R3) : ordre d'entree des Pleiades en
+  seances personnelles, cadence, et contenu des seances de proches vont EN FICHE D'ARC
+  (passe 3). La roadmap ne porte que le squelette ; les trames par personnage restent en
+  Seances/. Vaut par defaut pour tout detail de meme grain dans les roadmaps a venir.
+  CONSEQUENCE : Azoth_relations_Pleiades.md n'est plus bloquee - elle porte l'evolution des
+  LIENS, qui ne depend pas de l'ordre des seances. A construire (cf. ci-dessous).
+- Azoth_relations_Pleiades.md NON CREEE au build R3, volontairement : elle derive des
+  seances personnelles, dont l'ordre et le contenu ne sont pas tranches. A creer des que
+  les deux [A POSER] ci-dessus tombent.
+- ECAILLES DE GRIFFE VERTE - CONTRADICTION INTERNE (relevee au build R3, NON TRANCHEE) :
+  NouveauMonde/Hommes_Lezards.md W1 donne la tribu comme portant des "ecailles vert sombre
+  et charbon", alors que l'artwork officiel de Zaryus, grave en Zaryus_Crusch W2, montre un
+  BRUN SOMBRE facette. Deux lectures possibles - la ligne de tribu est fausse et se corrige
+  en brun, ou la couleur varie d'un individu a l'autre et Zaryus est une exception. Aucune
+  page corrigee en attendant la decision.
+- ANCRAGE EN JOURS : reporte dans les 5 pages Seances/ relivrees au build R3 (Ainz_S,
+  Cocytus_S, CZ2128_S, Pandoras_Actor_S, Pleiades). Les 6 autres (Albedo_S, Demiurge_S,
+  Shalltear_S, Jumeaux_S, Lieutenants, Pantheon) portent encore "le compte des sermons
+  depuis le jour 0" - harmonisation d'une ligne chacune, a faire.
+- SOMMAIRE, INCOHERENCE INTERNE relevee au build R3 : la liste des Seances/ donne
+  Jumeaux_S.md (W2), la note de SCISSION juste dessous dit (W1). La page fait foi - a
+  verifier au prochain passage, non corrige seul.
+- AINZ 4 : battements a confirmer (Seances/Ainz_S W6 porte la matiere, pas le detail).
 - PLAFOND BIBLE : B8 = 43 213 caracteres, au-dessus du plafond SPEC de 40 000. DEPASSEMENT
   ASSUME (decision worldbuilder, build R2) : la BIBLE grossit avec les arcs, on laisse
   passer. Aucune compression appliquee. Pistes conservees si le besoin revient, par gain
@@ -108,8 +133,11 @@ Nouveau Monde
   seance Momonga.
 - Lectures MJ des seances (lignes "Ce qu'Azoth decouvre"), validees par silence : a
   reprendre en roadmap si le worldbuilder les conteste.
-- Trajectoire datee : structuration et plafond PAR ERES DE ROADMAPS, a fixer en passe 2
-  (remplace le defaut SPEC de 30 entrees). La fiche Azoth compte deja 19 entrees a J15.
+- Trajectoire datee : TRANCHE POUR LE PROTA (build R3) - deportee en {Perso}_chrono_N.md,
+  8 000 caracteres maximum par fichier, COUPES A LA FRONTIERE D'ARC ; fichier plein, on
+  ouvre le suivant sans redecouper les precedents. Azoth_chrono_1 porte R0-R2 (5,6k),
+  Azoth_chrono_2 porte R3 (4,2k). Reste a decider : meme traitement pour les fiches
+  secondaires quand elles deborderont, ou plafond propre a chacune.
 - Pages relations restantes (Azoth_relations_Lieutenants / _Pleiades / _Gardiens /
   _Tertiaires) : passe 2, derivees des roadmaps et des seances ; Victim en Tertiaires,
   Gargantua jamais. Seances/Tertiaires : pas de page, elles viennent combler des vides ou

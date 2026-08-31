@@ -1,6 +1,12 @@
 # Hamsuke
 
-- version : W2
+- version : W3
+
+Amendements W3 (build R3) : trajectoire datee R3 - la formation theologique par le
+Cardinal (a la demande d'Ainz), et LA DETONATION DU TCHEKHOV a ~J38-J40. La condition de
+detonation, demandee au build R2, est ecrite : le canal est la formation elle-meme, et il
+est STRUCTUREL - la doctrine a deux paroles ne mord que sur un fidele dont le createur
+figure au pantheon, et cette bete n'a pas de createur.
 
 Amendements W2 (build R2) : trajectoire datee ouverte - J11, debusque par Aura, soumis
 par Momon, NOMME SUR PLACE PAR AINZ (canon), enregistre comme monture a la guilde des
@@ -78,10 +84,11 @@ ici, tant que l'arc qui le produit n'est pas ecrit.
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | J11 | Debusque et rabattu par Aura sur ordre d'Ainz ; soumis par Momon, qui l'epargne et le prend pour monture plutot que de le tuer ; NOMME "HAMSUKE" SUR PLACE PAR AINZ (canon), en partie parce que le Seigneur reconnait chez lui la quete d'un semblable ; ramene a E-Rantel et enregistre comme monture a la guilde des aventuriers | serviteur de Momon ; il a un nom ; il n'est plus seul, et il ne comprend rien a ce qu'il vient de rejoindre |
+| J17-J28 | Ainz demande au Cardinal de le former aux bases de la theologie des 41. Lecons espacees, sans erudition, adaptees a une bete qui accepte tout ce qu'elle voit. SAVOIR MJ : la doctrine a deux paroles ne peut pas s'appliquer a lui - il n'a pas de createur au pantheon -, si bien qu'on lui presente les 41 comme un tout, c'est-a-dire qu'on lui donne la seule chose interdite a tous les autres fideles : la comparaison | instruit, et arme sans que personne le voie |
+| ~J38-J40 | Apres un entrainement avec Shasuryu et Zenber, ses nouveaux instructeurs, il demande a parler AU CARDINAL ET AU SEIGNEUR EN MEME TEMPS, et leur fait remonter son etonnement : les 41 ne semblaient pas souvent d'accord, donc pour des dieux ils avaient l'air pas tout a fait omniscients. Il ne comprend rien a ce qu'il vient de dire | il a atteint seul, par pure observation et en quelques lecons, la conclusion qui a detruit le Cardinal en R1 |
+| ~J38-J40 | Azoth demande son execution ; Ainz l'en dissuade. Il devient le protege du Cardinal - il peut encore progresser -, et porteur d'un secret qui lui vaudra la mort de la main de son protecteur s'il tente de le divulguer | seul etre hors du secret a l'avoir formule, et vivant ; deux instructeurs et un protecteur qui le surveille |
 
-(Alimentation a chaud arc par arc apres les roadmaps. Suite en R3 : sa formation
-theologique par Azoth, sur demande d'Ainz - le fil et sa condition de detonation vivent en
-Roadmap/Azoth/Chronologie.md tant que R3 n'est pas ecrite.)
+(Alimentation a chaud arc par arc apres les roadmaps.)
 
 ---
 

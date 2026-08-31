@@ -1,8 +1,12 @@
 # Hommes-lezards du Grand Lac
 
-- version : W1
+- version : W2
 
-Etat decrit : jour 0.
+Amendements W2 (build R3) : trajectoire datee ouverte - la guerre contre Nazarick
+(J28-J37), la mort de quatre chefs sur cinq, les trois resurrections prononcees par le
+Cardinal, et la vassalite sous Cocytus.
+
+Etat decrit : jour 0. La trajectoire datee porte la suite.
 
 ## Identite
 - Peuple demi-humain des Marais, sur la rive sud du Grand Lac, au nord de la Grande Foret
@@ -87,6 +91,13 @@ Etat decrit : jour 0.
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J28-J31 | Une armee de cinq mille morts-vivants menee par l'elder lich Iguva=41 attaque les Marais. Les cinq tribus s'allient sous l'impulsion de Zaryus et de Shasuryu ; Crusch invoque des elementaires des marais ; Zaryus abat le lich. LES LEZARDS GAGNENT | premiere et derniere victoire contre Nazarick ; une alliance a cinq, la premiere durable depuis la guerre des ressources |
+| J32-J35 | Une seconde armee parait, equipee et appuyee par une magie qui gele le lac entier. Le Seigneur pose son trone sur un rocher au milieu de la glace et donne quatre heures aux tribus pour battre un seul de ses vassaux ; la reddition de Shasuryu est refusee. Les chefs designent Crusch pour survivre et representer les tribus ; elle objecte, Zaryus la convainc, et elle lui demande alors de la feconder | un peuple sans religion definie vient de voir un dieu se mettre en scene ; une survivante designee, enceinte |
+| J36-J37 | Une cinquantaine de volontaires et les cinq chefs affrontent Cocytus. Kyuku Zuzu, Sukyu Juju, Zenber et Shasuryu tombent ; Zaryus, dernier debout, recoit un pas en arriere en hommage avant d'etre tue | quatre chefs sur cinq morts ; Queue-Rasoir et Petit Croc decapitees pour de bon |
+| J37 | Crusch est recue par le Seigneur et son Cardinal : trois vies contre l'obeissance absolue des tribus et le renseignement sur toute velleite de rebellion. LE CARDINAL PRONONCE LES TROIS RESURRECTIONS - Zaryus, Shasuryu, Zenber - devant temoins. Les cinq tribus deviennent sujettes de Nazarick sous le gouvernement de Cocytus, a mener par la carotte et non par la peur | un peuple qui n'avait pas de dieu vient d'en voir un rendre la vie. Le mecanisme leur echappe entierement |
+| a partir de J37 | Zaryus reste au lac aupres de Crusch et prend la direction des siens. SHASURYU ET ZENBER MONTENT A NAZARICK, directement affilies, instructeurs du Roi Sage [DIVERGENCE RP - au canon Shasuryu reste au lac et devient chef de toutes les tribus] | les deux plus fortes lames du lac servent le Tombeau ; le lac est gouverne par le cadet marque au fer |
+
+(Alimentation a chaud arc par arc apres les roadmaps.)
 
 ## Renvois
 - Les deux chefs : cf. Personnages/Shasuryu_Zenber.md.

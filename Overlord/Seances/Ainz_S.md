@@ -1,7 +1,11 @@
 # Seances - Ainz (Momonga)
 
-- version : W5
+- version : W6
 - statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
+
+Amendements W6 (build R3) : SEANCE 4 POSEE ET DATEE (~J38-J40, fin de R3) - premiere
+seance mutuelle de la nouvelle relation, declenchee par la remarque du Roi Sage. Nouvel
+ancrage : les jours.
 
 Amendements W5 (build R2) : seance 3 datee et RECALEE AVANT LE DUEL contre Shalltear
 (J12-J13) ; cinquieme battement ajoute - la demande de misericorde, formulee sur un
@@ -15,7 +19,7 @@ illimite ; l'eveil constate sur Albedo. Amendements W2 : renvois {Perso}_S.md
 
 Trame commune a toutes les seances (decision worldbuilder) : les trois etapes de la foi
 d'Azoth - BERGER SINCERE, BERGER PERDU, BERGER MARTYR. Les seances d'Ainz suivent la trame
-du canon (LN). Dates : fixees aux roadmaps. Adresses, tutoiement et evolution du lien :
+du canon (LN). Dates : fixees aux roadmaps. Ancrage : le compte des sermons jusqu'a S5 (J14), puis les jours depuis J0. Adresses, tutoiement et evolution du lien :
 cf. Personnages/Azoth_relations_Proches.md. Etat de la doctrine au jour 0 : cf.
 Nazarick/Theologie_Azoth.md.
 
@@ -67,8 +71,16 @@ Nazarick/Theologie_Azoth.md.
 - Verrou : le secret partage. Eux deux seuls savent ; Azoth vit en paravent.
 - Theme : DESTIN VOLE.
 
-### Seances 4 et suivantes - seances mutuelles
-- Apres chaque evenement majeur du canon : seance mutuelle, chacun confesseur de l'autre. Confidents mutuels, tutoiement (Azoth_relations_Proches.md, Evolution).
+### Seance 4 - la bete a parle
+- Ancrage : ~J38-J40 (roadmap R3, fin d'arc). PREMIERE SEANCE MUTUELLE de la nouvelle relation - confidents, chacun confesseur de l'autre, tutoiement (Azoth_relations_Proches.md, Evolution).
+- Declencheur : le Roi Sage vient de leur dire, a tous les deux en meme temps, que les 41 n'avaient pas l'air souvent d'accord et donc pas tout a fait omniscients. Azoth a demande son execution ; Ainz l'en a dissuade.
+- Matiere : ce que la bete a trouve seule et ce que ca dit de la solidite du paravent ; la guerre du Grand Lac et l'experience assumee ; le miracle du lac, prononce par un Cardinal qui n'y croit pas devant un peuple qui n'avait pas de dieu.
+- Ce qu'Azoth decouvre sur lui-meme : son outil a un angle mort par construction, et c'est le Seigneur lui-meme qui l'y a pousse en demandant la formation.
+- Ce qu'Azoth decouvre sur son dieu : qu'il protege une creature devenue dangereuse plutot que de la supprimer - et que le confesseur, cette fois, c'est lui.
+- [A CONFIRMER AU BUILD : detail des battements.]
+
+### Seances 5 et suivantes - seances mutuelles
+- Apres chaque evenement majeur du canon : seance mutuelle, chacun confesseur de l'autre.
 - Contenu : a poser evenement par evenement, a la roadmap.
 
 FIN_WIKI_SEANCES_AINZ

@@ -1,6 +1,10 @@
 # Entoma Vasilissa Zeta
 
-- version : W1
+- version : W2
+
+Amendements W2 (build R3) : trajectoire datee ouverte - observatrice de Cocytus au Grand
+Lac, sa premiere mission hors du Tombeau ; ouverture des seances personnelles des
+Pleiades a l'ere martyr.
 
 ## Identite
 - Nom : Entoma Vasilissa Zeta. Sixieme soeur des Pleiades. Epithete de fiche : la
@@ -100,8 +104,10 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J28-J31 | Detachee au Grand Lac comme observatrice de Cocytus pendant la premiere offensive ; elle assiste a la defaite sans y prendre part | premiere mission hors du Tombeau ; elle a vu Nazarick perdre |
+| ere martyr, a partir de J17 | Ouverture des seances personnelles des Pleiades. Comme ses soeurs detachees, elle rentre par teleportation pour venir a la sienne et repart apres | ce n'est pas au superieur qu'elle revient ; le Cardinal traite son appetit comme une nature a completer, non comme une chose a excuser |
 
-(Vide a la genese. Alimentation a chaud arc par arc apres les roadmaps ; structuration
+(Alimentation a chaud arc par arc apres les roadmaps ; structuration
 par eres de roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)
 
 ---

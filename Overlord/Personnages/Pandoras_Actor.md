@@ -1,6 +1,9 @@
 # Pandora's Actor
 
-- version : W4
+- version : W5
+
+Amendements W5 (build R3) : trajectoire datee R3 - les manuels de programmation de Garnet
+sortis de la Tresorerie, et les visites continues de l'ere martyr.
 
 Amendements W4 (build R2) : trajectoire datee R2 (J11-J12) - la visite d'Ainz pendant
 la crise Shalltear, et la limite de son savoir sur les objets de rang monde.
@@ -77,6 +80,8 @@ Amendements W2 : trajectoire datee ouverte (R0, J1-J2).
 | J4 | Visite suivante du Cardinal : archives, puis discussion sur Ainz | matiere du sermon suivant fournie |
 | J6 | Visites repetees pendant que le Cardinal cherche ; il sort ce qu'on lui demande sans en lire l'usage | ne voit rien de la chute en cours, et ne pose aucune question |
 | J11-J12 | Ainz descend a la Tresorerie avec Albedo, Yuri et CZ pendant la crise Shalltear. Interroge sur les objets de rang monde, il ne connait que ceux de Nazarick - pas les deux cents du jeu ; le Seigneur en est decu. Il sort les objets distribues aux Gardiens | son savoir borne aux murs qu'il garde ; premiere fois que sa competence est prise en defaut devant son createur |
+| J15 | Le Cardinal redescend et demande les manuels de programmation de Garnet. Il les sort sans en lire l'usage, comme toujours | il fournit l'outil du premier reniement conscient d'une pensee profonde de Supreme, et n'en saura jamais rien |
+| ere martyr, a partir de J15 | Visites continues : le Cardinal veut desormais avoir reponse a tout, pour que les fideles n'aient pas de questions a se poser eux-memes. L'archiviste ne voit rien du changement et n'en demande pas la cause | le portrait qu'il fait d'Ainz - le rassembleur qui porte seul quarante memoires - est devenu le paravent que le Cardinal tient |
 
 (Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
 roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)

@@ -1,6 +1,11 @@
 # Ainz Ooal Gown
 
-- version : W5
+- version : W6
+
+Amendements W6 (build R3) : trajectoire datee R3 (J15 -> ~J40) - la creation d'Iguva=41,
+la guerre du Grand Lac menee comme une experience et perdue expres, l'ultimatum du lac
+gele, les trois resurrections DELEGUEES AU CARDINAL, la formation theologique du Roi Sage
+demandee a Azoth et ce qu'elle produit, Ainz 4.
 
 Amendements W5 (build R2) : trajectoire datee R2 (J8 -> J14) - la persona Momon,
 la chute de Shalltear, la distribution des objets de rang monde, l'aveu de la retouche a
@@ -171,6 +176,12 @@ worldbuilder).
 | J12-J13 | AINZ 3, la veille du duel : Azoth vient annoncer qu'il vivra et servira de paravent. Face a ce sacrifice, Ainz avoue avoir modifie la config d'Albedo en admin et n'avoir plus aucun outil meta. Il encaisse la rage d'Azoth, s'excuse, et accorde que le premier acte du Cardinal dans sa foi neuve soit de ramener Shalltear | sa faute confessee a la veille d'un duel dont il peut ne pas revenir ; un confident qui sait tout |
 | J13 | Duel en solo. L'objet de resurrection de Peroroncino se declenche et l'oblige a la tuer deux fois ; son atout de classe emporte tout ce qui vit dans la zone. Il rapporte le corps et laisse AZOTH prononcer la resurrection, payee en or d'Yggdrasil | il a tue son enfant de sa main ; le tresor de la guilde entame d'une ressource irremplacable |
 | J14 | Momon et Nabe sont promus adamantite a E-Rantel | la couverture etablie au sommet du rang aventurier |
+| J15-J28 | Il fait recuperer le Vaisseau Fantome des plaines de Katze - l'aventurier Igvarge et son equipe y sont morts en abattant le lich capitaine - et fait d'un des cadavres un elder lich qu'il nomme IGUVA=41 | une creature de plus, nee d'un sort et non d'un outil d'admin ; la nuance echappe a tout le monde sauf a celui qui connait son secret |
+| J15-J28 | Il demande au Cardinal de former le Roi Sage aux bases de la theologie des 41 | SAVOIR MJ : il pousse vers l'enseignement la seule creature de son entourage que la doctrine a deux paroles ne peut pas couvrir, et ni lui ni Azoth ne le voient |
+| J28-J31 | Il envoie Cocytus au Grand Lac avec cinq mille morts-vivants de bas rang et Iguva=41, sous restrictions expresses. L'objectif reel n'est pas de gagner : c'est de faire penser son Gardien par lui-meme et de voir une vraie bataille d'armees. La defaite est le resultat attendu | l'experience reussit ; Nazarick apprend a perdre sans que ce soit une perte |
+| J32-J35 | Il reprimande Cocytus, puis accepte sa proposition d'epargner les lezards et de les integrer. La seconde offensive part ; au lac gele il pose son trone sur le rocher, donne quatre heures aux tribus pour battre Cocytus et refuse la reddition de Shasuryu | le dieu se met en scene devant un peuple qui n'en avait pas, et la mise en scene suffit |
+| J37 | Apres le duel, il recoit Crusch Lulu avec le Cardinal : trois vies contre l'obeissance absolue des tribus et le renseignement sur toute velleite de rebellion. Il LAISSE AZOTH PRONONCER les trois resurrections | sa baguette reste dans sa manche ; son Cardinal a fait le miracle a sa place, devant temoins |
+| ~J38-J40 | Le Roi Sage vient lui dire, a lui et au Cardinal en meme temps, que les 41 n'avaient pas l'air souvent d'accord et donc pas tout a fait omniscients. Azoth demande son execution ; Ainz l'en dissuade. AINZ 4 suit - premiere seance mutuelle de la nouvelle relation | un temoin vivant du seul angle mort du paravent, garde en vie sur sa parole |
 
 (Alimentation a chaud arc par arc apres les roadmaps ; structuration par eres de
 roadmaps, plafond a fixer en Passe 2 - decision worldbuilder.)

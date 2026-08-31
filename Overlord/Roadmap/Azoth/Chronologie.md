@@ -1,11 +1,18 @@
 # Chronologie des roadmaps - Azoth
 
-- version : W5
+- version : W6
 - role : GARDE-CAP de la saga. Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de Passe 2), ou le canon est redonne en detail. STATUT ROADMAP : hors Sommaire, jamais fetche en narration.
 - prota / POV : Azoth, Cardinal Demoniaque, Gardien du 9e.
 - axe : jours depuis J0 (transfert). Ancrage des seances : le compte des sermons depuis J0.
 - convention de nommage : Roadmap_R<N>_<Evenement>.md - l'evenement le plus important de la roadmap POUR AZOTH. R0 = intro hors histoire canon guide ; le fil canon commence en R1.
 - scindabilite (decision worldbuilder, posee au build R1) : une etape de roadmap est une unite de PROGRESSION, pas de CHARGE. Toute roadmap declare en fin de fichier ses POINTS DE COUPE et leurs BORNES ; la passe 3 choisit la granularite reelle des fiches d'arc. A retro-appliquer a R0 (build a refaire).
+
+Amendements W6 : R3 nommee et buildee (Le Miracle) ; BORNES REELLES J15 -> ~J40, R3
+debordant J37 parce que la detonation du Roi Sage suit le retour du lac - R4 recalee en
+consequence ; LES SERMONS PASSENT EN ELLIPSE et l'ancrage des seances passe du compte des
+offices aux JOURS DEPUIS J0 ; cadence hebdomadaire plus office d'apres-crise ; dispositif
+[SNAPSHOTS] pose ; la condition de detonation du Tchekhov du Roi Sage est ECRITE ; les
+seances personnelles des Pleiades s'ouvrent en R3, avec retour par teleportation.
 
 Amendements W5 : R2 nommee et buildee (Le Martyre) ; le declencheur de la bascule
 martyr est CZ2128 et non la chute de Shalltear ; Ainz 3 avancee AVANT le duel ; les trois
@@ -23,6 +30,8 @@ Amendements W2 : convention posee ; renumerotation (decalage de 1 : R0 puis R1-R
 ## Marqueurs d'ere (regles de placement des seances)
 - Critere : une seance qui ACCOMPLIT la pensee profonde du createur est jouable a toute ere ; une seance qui DEPASSE ou ACCOMMODE un choix de Supreme exige le martyr - le sincere ne peut pas la prononcer sans blasphemer.
 - La doctrine a deux paroles (servir Nazarick et la volonte d'Ainz / suivre les preceptes du createur) n'existe pas avant le martyr : outil du paravent, sa presence date une seance.
+- CADENCE DES OFFICES A PARTIR DE R3 (decision worldbuilder, build R3) : HEBDOMADAIRE, plus un office SUPPLEMENTAIRE en routine d'apres-crise, immediatement derriere toute remise en question potentielle du troupeau. Le supplementaire s'ajoute et ne decale pas la semaine. Les sermons sont ELLIPSES - un seul joue par arc, pour donner le ton - et CESSENT D'ETRE NUMEROTES : le martyr n'entretient plus des evenements, il entretient une habitude. CONSEQUENCE : l'ancrage des seances passe aux JOURS DEPUIS J0. SAVOIR MJ, jamais dit en scene : le Cardinal et le Seigneur tiennent tous deux l'office pour un outil de tenue du troupeau ; ni l'un ni l'autre ne le formule.
+- [SNAPSHOTS] (dispositif pose au build R3) : etape de roadmap composee de scenes datees NON CONTIGUES, chacune bornee, avec ellipse assumee entre elles ; le MJ resume le temps mort en une ligne. Sert les blocs longs sans evenement canon majeur. La fiche d'arc de passe 3 choisit lesquelles sont jouees.
 - La PRESENCE OBLIGATOIRE A L'OFFICE (decision worldbuilder, posee au build R2) date de meme : elle nait a S5 et n'existe pas avant. Tous entendent la meme version au meme moment ; Sebas et Solution rentrent par les portes de teleportation du Sanctuaire des Cerisiers pour l'office. Raison reelle, jamais dite : un troupeau qui compare ses notes casse le paravent.
 
 ## Reperes de datation (ancres canon ; J0 -> J3 dilates en R0)
@@ -52,6 +61,12 @@ Amendements W2 : convention posee ; renumerotation (decalage de 1 : R0 puis R1-R
 | - | J11-J12 | Sebas et Solution partent ; le nom de Shalltear au noir ; controle de compromission ; huis clos a trois, Albedo et Azoth refuses ; objets de rang monde distribues, l'Amulette a Azoth | Ainz 3 (J12-J13, AVANT le duel) : le choix, l'aveu de la retouche, la rage, la demande de misericorde |
 | - | J13 | duel hors champ ; Shalltear tuee par Ainz, RESSUSCITEE PAR AZOTH - premier acte du martyr | - |
 | S5 | J14 | BERGER MARTYR : Azoth s'exprime comme avant ; naissance de la doctrine a deux paroles et de la presence obligatoire ; Albedo 4 (le retour), Demiurge 5, Aureole 5, Yuri 4, Sebas 4 ; le Collier a Shalltear ; Shalltear, seance de la chute (J14-J15) | - |
+| - | J15-J17 | LE SHUNT de CZ2128 : la comparaison logique shuntee sur la foi, les programmes dormants actives sur son accord, la pensee profonde de Garnet livree apres | - |
+| - | J17-J28 | [SNAPSHOTS] ere installee : seances personnelles des Pleiades ouvertes (retour par teleportation) ; formation theologique du Roi Sage entamee ; offices hebdomadaires ellipses (J21, J28) | - |
+| - | J28-J32 | Defaite du Grand Lac ; Iguva=41 tue puis RAMENE PAR AZOTH ; OFFICE D'APRES-CRISE, le seul sermon joue de R3 | - |
+| - | J32-J35 | Seance Cocytus : le cours de strategie enfin donne (33 jours de retard) et le CONSEIL DU UN-CONTRE-TOUS ; la seconde armee part | - |
+| - | J36-J37 | Duel hors champ ; SORTIE UNIQUE au Grand Lac : negociation avec Crusch, LES TROIS RESURRECTIONS prononcees par le Cardinal | - |
+| - | ~J38-J40 | Le Roi Sage parle devant le Cardinal et le Seigneur ; execution demandee et refusee | Ainz 4 : la bete a parle, premiere seance mutuelle |
 | S6+ | au fil des roadmaps | seances 5 et suivantes ; Pleiades a l'ere martyr ; jumeaux en martyr (confession, emancipation) ; CZ : le shunt (ouverture R3) puis Garnet livre ; Tertiaires | Ainz 4+ : seance mutuelle apres chaque evenement majeur du canon |
 
 ## R0 - L'Eveil [BUILDEE]
@@ -79,15 +94,18 @@ Amendements W2 : convention posee ; renumerotation (decalage de 1 : R0 puis R1-R
 - Tranches : Narberal designee par Azoth sur demande d'Ainz ; le Roi Sage nomme par Ainz au canon, hors champ ; Clementine ecartee (simple nuisance, ne rencontre jamais Azoth) ; Aureole garde Worldslicer ; Amulette du Saint Maudit a Azoth (prend la place d'un objet non nomme de la Tresorerie), Collier de Rubis de Sang a Shalltear (+1) - Nazarick a DOUZE objets de rang monde ; perte de niveaux de Shalltear retenue ; le shunt de CZ repousse a R3.
 - Points de coupe : etape 1 en 2, etape 2 en 3, etape 3 en 2 (les DEUX imperatives), etape 4 en 3 - bornes au fichier.
 
-## R3 - [A NOMMER] [A BUILDER]
-- Bornes : J15 -> J37.
-- OUVERTURE POSEE : le shunt de CZ2128 - manuels de Garnet chez Pandora's Actor, interface dorsale, la comparaison logique shuntee sur la foi, les programmes sensoriels et emotionnels dormants decouverts. Premier reniement conscient de la pensee profonde d'un Supreme. La pensee profonde de Garnet se livre APRES le shunt, jamais avant.
-- Jalons : cours de strategie a Cocytus ; la guerre des lezards ; Shasuryu et Zenber a Nazarick ; Ainz 4. Bloc J15 -> J28 candidat [SNAPSHOTS].
-- TCHEKHOV DU ROI SAGE (decision worldbuilder, pose au build R2) : Ainz demande a Azoth de former le Roi Sage aux bases de la theologie des 41. Il en tire seul que les 41 "ne semblaient pas souvent d'accord, donc que pour des dieux ils avaient l'air pas tout a fait omniscients", et le dit au Cardinal et a Ainz, devant eux, en meme temps, sans comprendre ce qu'il tient. [A ECRIRE AU BUILD R3 : la condition de detonation precise - par quel canal et en combien de temps une bete logee hors de la vie theologique de Nazarick entend assez de paroles supremes pour faire le rapprochement.]
-- Etape : martyr (jusqu'a la fin).
+## R3 - Le Miracle [BUILDEE]
+- Fichier : Roadmap_R3_Le_Miracle.md (W1).
+- Bornes : J15 -> ~J40. ~25 jours. Etape : BERGER MARTYR, installe - PREMIER ARC SANS BASCULE. L'evenement est la premiere mise en charge du paravent.
+- Titre : le mot est celui des temoins du lac. Azoth appellerait ca une depense.
+- Forme : quatrieme huis clos, UNE SEULE SORTIE et elle est terminale (le lac, J37). Le volume 4 se joue au Grand Lac et Azoth n'y est pas : la guerre entre par des rapports et des retours, jamais par le champ de bataille. PAS DE MIROIR - il ne regarde pas la bataille, elle ne l'interesse pas ; ce sont ses seances qui l'evoquent.
+- Jalons : le shunt de CZ ; l'ere installee en [SNAPSHOTS] (Pleiades, Roi Sage) ; la defaite et la resurrection d'Iguva ; l'office d'apres-crise ; le cours a Cocytus et le conseil du un-contre-tous ; la sortie au lac et les trois resurrections ; la detonation du Roi Sage ; Ainz 4.
+- Tranches : sermons en ellipse et numerotation abandonnee ; Cocytus appelle Demiurge (canon) ; le Cardinal prononce les trois resurrections a la place de la baguette d'Ainz ; Iguva=41 ramene, principe pose - aucune conscience de Nazarick n'est jetable ; Kyuku Zuzu et Sukyu Juju morts et non ramenes ; Shasuryu et Zenber instructeurs a Nazarick, Zaryus dirigeant au lac ; grossesse de Crusch et trois resurrections CONFIRMEES CANON (verifiees au build, aucune balise de divergence).
+- Points de coupe : etape 1 en 2, etape 2 non scindable (bloc [SNAPSHOTS]), etape 3 en 2, etape 4 en 2, etape 5 en 3 dont la premiere IMPERATIVE - bornes au fichier.
+- TCHEKHOV DU ROI SAGE : condition de detonation ECRITE. Canal = la formation elle-meme, et c'est STRUCTUREL - la doctrine a deux paroles ne mord que sur un fidele dont le createur figure au pantheon, et la bete n'en a pas ; on doit donc lui presenter les 41 comme un tout, c'est-a-dire lui donner ce qui est interdit a tous les autres, la comparaison. Delai = les lecons du bloc [SNAPSHOTS]. Declencheur = un entrainement avec Shasuryu et Zenber, hors lecon. DETONE a ~J38-J40.
 
 ## R4 - [A NOMMER] [A BUILDER]
-- Bornes : apres J37 -> retour des workers (vol. 7).
+- Bornes : apres ~J40 (sortie de R3, recalee au build R3) -> retour des workers (vol. 7).
 - Jalons : Carne et Lupusregina ; Sebas a la capitale, Jaldabaoth ; Renner invitee ; premiere intrusion humaine. [A POSER : Renner ici ou plus tard ; le 9e face aux workers.]
 
 ## R5 - [A NOMMER] [A BUILDER]

@@ -1,14 +1,20 @@
 # Seances - Pandora's Actor
 
-- version : W3
+- version : W4
 - statut : indexee au Sommaire (section Seances/) ; JAMAIS fetchee en narration, statut roadmap. Porte le futur. Source de build pour roadmaps et fiches d'arc.
+
+Amendements W4 (build R3) : la sortie des manuels de programmation de Garnet est DATEE
+(J15, ouverture de R3) - l'archiviste fournit l'outil du premier reniement conscient d'une
+pensee profonde de Supreme, et n'en saura jamais rien. Nouvel ancrage : les jours.
 
 Amendements W2 (build R0) : seance 1 enrichie - accueil sous la forme
 d'Ulbert (scene canon de la Tresorerie deplacee ici, intro de Pandora's Actor),
 reconfiguration verbale par Momonga ; la cause du fil ferme gravee au verrou.
 
 Trame commune : les trois etapes de la foi d'Azoth - BERGER SINCERE, BERGER PERDU,
-BERGER MARTYR. Ancrage : le compte des sermons depuis le jour 0. Dates : roadmaps.
+BERGER MARTYR. Ancrage : le compte des sermons depuis le jour 0 jusqu'a S5 (J14), puis les JOURS
+DEPUIS J0 - les sermons passent en ellipse et cessent d'etre numerotes a partir de R3
+(decision worldbuilder). Dates : roadmaps.
 Noyau : cf. Personnages/Pandoras_Actor.md. Lieu unique : la Tresorerie - il n'en sort
 pas au jour 0 ; Azoth ne le connait pas avant la porte ouverte par Momonga (Ainz_S.md,
 seance 1). Son createur est le dieu vivant : hors corpus par definition
@@ -33,6 +39,8 @@ Seances/Pantheon.md.
 - Ce qu'Azoth decouvre sur son dieu : l'Ainz que decrit sa seule creation est le rassembleur, celui qui porte seul les 40 memoires - le role, jamais l'homme.
 
 ## Ere du berger martyr
+- Visite du shunt (roadmap R3, J15) - le Cardinal vient chercher les MANUELS DE
+  PROGRAMMATION DE GARNET. L'intendant les sort sans en lire l'usage, comme tout le reste.
 - Visites continues - il veut avoir reponse a tout ; Pandora's Actor reste l'archiviste et l'interlocuteur sur Ainz. Les manuels de programmation de Garnet sortent d'ici (Seances/CZ2128_S.md).
 - Ce qu'Azoth decouvre sur lui-meme : qu'il restera seul avec Ainz - le seul autre qui pourrait supporter la verite est celui qui ne la demandera jamais.
 - Ce qu'Azoth decouvre sur son dieu : le portrait que Pandora's Actor fait d'Ainz est le paravent qu'Azoth tient desormais - le dieu comme role.
