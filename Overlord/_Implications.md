@@ -1,6 +1,6 @@
 # Journal d'implications - Overlord
 
-- version : W2
+- version : W8
 
 Document de TRAVAIL. Jamais fetche en narration. Porte ce qui RESTE : doutes non tranches,
 questions en attente, points a reverifier. Ne garde aucune trace de ce qui est fait.
@@ -22,11 +22,10 @@ questions en attente, points a reverifier. Ne garde aucune trace de ce qui est f
   est un terme d'alchimie. Intention d'Ulbert a inscrire, ou coincidence a ignorer.
 - BLUE PLANET, WHITEBRIM, COUP DE GRACE : attribues dans Etres_Supremes.md, sans pensee
   profonde dans Theologie_profonde.md.
-- COIFFURE DE SHALLTEAR. Le canon la coiffe en couettes, ce qui contredit l'abandon du rendu
-  enfantin. Laissee non decrite en attendant.
 - VF A FIXER : la Chute des Chateaux et des Royaumes (objet de rang monde) ; les noms des
   Arts Martiaux ; Worldslicer ; le titre de Demiurge (Createur de l'Enfer Flamboyant) ; le
-  surnom d'Albedo (Diable blanc bienveillant) ; le diminutif d'Aureole par Yuri.
+  surnom d'Albedo (Diable blanc bienveillant) ; le diminutif d'Aureole par Yuri ; le titre
+  de Sebas (Butler of Steel, rendu en Majordome d'Acier).
 
 ## A porter au prochain BIBLE BUILD
 
@@ -39,6 +38,9 @@ questions en attente, points a reverifier. Ne garde aucune trace de ce qui est f
 - SB8 : Tchekhov d'Albedo reformule - amour ecrit vers l'un, desir vecu vers l'autre. Sortir
   la fecondite d'Ainz des mysteres : tranchee, creation ex nihilo.
 - Echelle_Puissance.md : decalage J13 -> J12.
+- SB1 : les creations des 41 sont fecondes SAUF CZ2128, machine.
+- SB8 : preciser le motif du fil CZ2128 - la friction entre sa logique et les emotions de
+  ses soeurs, pas une curiosite abstraite.
 
 ## Faits a durcir ou couper
 
@@ -47,6 +49,19 @@ Marques [INCERTAIN] dans les fiches, faute de source confirmee :
   sorts.
 - Albedo : liste de ses classes, possiblement partielle.
 - Demiurge : la plus haute defense magique du Tombeau.
+- Sebas : liste de ses classes, non confirmee en source primaire.
+- Narberal, CZ2128 : listes de classes annexes, non confirmees en source primaire.
+
+## Trajectoires connues, en attente de roadmap
+
+Faits post-depart deja tranches par le worldbuilder, NON inscrits en Trajectoire datee tant
+que l'arc qui les produit n'est pas roadmappe.
+
+- SEBAS : il ne ressent aucun desir avant sa rencontre avec Tuare. Azoth les mariera.
+- LES PLEIADES : le charnel avec Azoth vient apres le jour 0, pas meme en souvenir. Solution
+  la premiere, a Berger Sincere.
+- SOLUTION EPSILON ET SEBAS : mission d'infiltration exterieure, elle detachee sous lui.
+- CZ2128 : elle demande l'ouverture de ses verrous. Cf. BIBLE SB8, fil Tchekhov.
 
 ## A verifier a la cloture de passe 2
 
