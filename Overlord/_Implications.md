@@ -1,6 +1,6 @@
 # Journal d'implications - Overlord
 
-- version : W8
+- version : W9
 
 Document de TRAVAIL. Jamais fetche en narration. Porte ce qui RESTE : doutes non tranches,
 questions en attente, points a reverifier. Ne garde aucune trace de ce qui est fait.
@@ -25,7 +25,11 @@ questions en attente, points a reverifier. Ne garde aucune trace de ce qui est f
 - VF A FIXER : la Chute des Chateaux et des Royaumes (objet de rang monde) ; les noms des
   Arts Martiaux ; Worldslicer ; le titre de Demiurge (Createur de l'Enfer Flamboyant) ; le
   surnom d'Albedo (Diable blanc bienveillant) ; le diminutif d'Aureole par Yuri ; le titre
-  de Sebas (Butler of Steel, rendu en Majordome d'Acier).
+  de Sebas (Butler of Steel, rendu en Majordome d'Acier) ; le titre de Lupusregina (Sadist
+  who wears a smiling mask) ; le titre d'Entoma (Insect-loving maid) ; "Spinel", surnom de
+  Rubedo par Nigredo.
+- LES TROIS ESSENCES DE RUBEDO : lesquelles, et ce que chacune lui donne. Ouvert tant qu'elle
+  ne sert pas. Nigredo_et_Rubedo.md porte un [INCERTAIN].
 
 ## A porter au prochain BIBLE BUILD
 
@@ -41,6 +45,17 @@ questions en attente, points a reverifier. Ne garde aucune trace de ce qui est f
 - SB1 : les creations des 41 sont fecondes SAUF CZ2128, machine.
 - SB8 : preciser le motif du fil CZ2128 - la friction entre sa logique et les emotions de
   ses soeurs, pas une curiosite abstraite.
+- SB1 : l'exception de fecondite "machine" couvre aussi Rubedo (corps de porcelaine).
+- SB1 : le regime de conscience de Rubedo - assez pour un ordre, pas pour une opinion - est
+  un troisieme cas, entre Gargantua et tout PNJ.
+- Sommaire : ajouter Pleiades_Anthropomorphes.md (W1) et Nigredo_et_Rubedo.md (W1) ; porter
+  Azoth.md a W4 et Pleiades_Humanoides.md a W3.
+- Echelle_Puissance.md : ajouter Nigredo, niv. 80, sous les Gardiens et au-dessus des
+  Pleiades.
+- Magie.md : Nigredo dans la liste Energie Negative ; Rubedo dans la liste Alteration ;
+  Lupusregina triple lanceuse (Guerison, Destruction, Alteration, Illusion) ; Entoma
+  talismanciere dont tous les talismans relevent de l'Illusion, aux effets d'ecoles arcanes.
+- SB5 : notices de Lupusregina, Entoma, Nigredo, Rubedo a compresser sur leurs fiches.
 
 ## Faits a durcir ou couper
 
@@ -51,6 +66,9 @@ Marques [INCERTAIN] dans les fiches, faute de source confirmee :
 - Demiurge : la plus haute defense magique du Tombeau.
 - Sebas : liste de ses classes, non confirmee en source primaire.
 - Narberal, CZ2128 : listes de classes annexes, non confirmees en source primaire.
+- Lupusregina : repartition des classes hors Clerc 10, OCR de la fiche vol. 8.
+- Entoma : liste de classes et taille (149 cm), source secondaire.
+- Entoma : pattes d'araignee dans le dos, design anime tardif ; origine de la voix volee.
 
 ## Trajectoires connues, en attente de roadmap
 
@@ -62,6 +80,8 @@ que l'arc qui les produit n'est pas roadmappe.
   la premiere, a Berger Sincere.
 - SOLUTION EPSILON ET SEBAS : mission d'infiltration exterieure, elle detachee sous lui.
 - CZ2128 : elle demande l'ouverture de ses verrous. Cf. BIBLE SB8, fil Tchekhov.
+- ENTOMA : sa gene de ne manger que de l'humain, et Azoth prodige de la cuisine. Graine
+  posee, arc non fixe.
 
 ## A verifier a la cloture de passe 2
 
