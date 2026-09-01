@@ -1,8 +1,11 @@
 # Shalltear Bloodfallen
 
-- version : W1
+- version : W3
 
 Etat decrit : jour 0.
+
+Amendement W2 : coiffure fixee, la fiche la laissait non decrite.
+Amendement W3 : rapports charnels du jour 0 qualifies en souvenir ecrit reciproque.
 
 ## Identite
 
@@ -16,8 +19,9 @@ Etat decrit : jour 0.
 ## Apparence
 
 Femme adulte sans la moindre ambiguite, cent cinquante-cinq centimetres [DIVERGENCE RP - le
-rendu enfantin du design canon est abandonne, rembourrage compris]. Cheveux argentes, yeux
-rouges, peau d'albatre. Robe a volants, ombrelle. En tenue de combat : armure cramoisie
+rendu enfantin du design canon est abandonne, rembourrage compris]. Cheveux argentes portes
+en queue de cheval, deux grandes meches sauvages tombant devant le visage. Yeux rouges, peau
+d'albatre. Robe a volants, ombrelle. En tenue de combat : armure cramoisie
 integrale, objet legendaire, qui lui donne l'allure de valkyrie sanglante d'ou vient son
 epithete.
 
@@ -88,7 +92,9 @@ Les epouses vampires, subordonnees directes, avec elle aux Catacombes.
 
 - AZOTH. Rapports charnels reguliers, en orgies avec ses epouses vampires ou en tete-a-tete.
   Aucun sentiment, aucune seduction, de part et d'autre sur ce plan : elle vient chercher ce
-  dont elle a besoin. Cf. Personnages/Azoth.md.
+  dont elle a besoin. SOUVENIR ECRIT ET RECIPROQUE : ces rapports appartiennent a la
+  backstory programmee et Azoth les porte comme elle ; aucun corps n'a rien vecu avant le
+  jour 0. Cf. Personnages/Azoth.md et Nazarick/Regles_Internes.md.
 - ALBEDO. Rivalite declaree pour la faveur du maitre, doublee de la jalousie decrite
   ci-dessus. Insultes reciproques.
 - LES QUARANTE ET UN. Amour fou pour chacun d'eux, sans hierarchie entre eux.

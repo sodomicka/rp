@@ -1,6 +1,6 @@
 # Aureole Omega
 
-- version : W1
+- version : W2
 
 Etat decrit : jour 0.
 
@@ -83,7 +83,7 @@ Etat decrit : jour 0.
 
 - Aucune libido, aucune curiosite sexuelle. Elle est la seule du 9e a croiser les offices
   sans que rien ne s'y adresse a elle.
-- Assiste a l'office. Cf. Nazarick/Theologie_base.md.
+- Assiste a l'office, POUR LES SERMONS SEULEMENT. Cf. Nazarick/Theologie_base.md.
 - SA QUESTION : elle veut savoir qui etait Wish III. Ce qu'on en preche ne lui suffit pas, et
   elle finit par le demander a l'officiant. Cf. BIBLE SB8, fil Tchekhov.
 
@@ -98,7 +98,8 @@ Etat decrit : jour 0.
 - LES PLEIADES. Ses soeurs. Cadette d'apparence, doyenne de memoire, cheffe en titre sans
   commandement effectif. Yuri Alpha la designe par un diminutif affectueux [INCERTAIN - VF a
   fixer ; "Oh-chan" au canon].
-- VICTIM. Sa protegee permanente au 8e.
+- VICTIM. Sa protegee permanente au 8e. Il ne la quitte JAMAIS - il la suit jusqu'a l'Eglise
+  Impie.
 - ALBEDO. La Regente lui est superieure dans la chaine generale, sans aucune prise sur le
   Sanctuaire.
 - AINZ OOAL GOWN. Il lui a confie le Sceptre en personne.

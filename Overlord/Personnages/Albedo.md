@@ -1,6 +1,9 @@
 # Albedo
 
-- version : W1
+- version : W2
+
+Amendement W2 : les rapports charnels avec Azoth qualifies en souvenir ecrit reciproque -
+la fiche portait "non consomme au jour 0".
 
 Etat decrit : jour 0.
 
@@ -101,7 +104,9 @@ Point de mecanique central, a ne pas confondre :
 - MOMONGA. Amour ecrit, total, sans recul possible. Elle constate qu'il ne repond pas a ses
   avances et le lit comme un refus. Elle ignore qu'il n'a ni libido ni fecondite :
   l'impossibilite lui est invisible.
-- AZOTH. Desir sexuel mutuel, immediat, non consomme au jour 0. Elle est aimantee par sa
+- AZOTH. Desir sexuel mutuel et immediat. Les rapports charnels entre eux appartiennent a la
+  backstory programmee et sont RECIPROQUEMENT SOUVENUS ; aucun corps n'a rien vecu avant le
+  jour 0. Cf. Nazarick/Regles_Internes.md. Elle est aimantee par sa
   luxure ; l'incube et la succube sont le meme condense de la meme passion. L'amour ecrit
   reste tourne vers Momonga ; le versant charnel va vers Azoth. ELLE IGNORE QU'IL L'AIME :
   il le tait. Elle est sa superieure hierarchique et n'a aucune prise sur son office.

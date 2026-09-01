@@ -1,8 +1,12 @@
 # Azoth, le Cardinal Demoniaque
 
-- version : W1
+- version : W3
 
 Etat decrit : jour 0. Fiche protagoniste, plafond derogatoire 20 000 caracteres.
+
+Amendement W2 : perimetre de charge directe corrige - les majordomes et les servantes
+relevent de Sebas, seules les Pleiades passent par le Cardinal.
+Amendement W3 : les rapports charnels du jour 0 qualifies en souvenir ecrit reciproque.
 
 ## Identite
 
@@ -144,7 +148,8 @@ Etat decrit : jour 0. Fiche protagoniste, plafond derogatoire 20 000 caracteres.
 - SUPERIEURE DIRECTE : Albedo, Regente des Gardiens. Elle lui DEMANDE du personnel et ordonne
   pour le reste. Il est le canal logistique privilegie d'Ainz pour le personnel.
 - EN CHARGE DIRECTE [DIVERGENCE RP] : les six Pleiades - Yuri Alpha en seconde, formation des
-  Six Etoiles au jour 0 - et les majordomes, sans passer par Sebas.
+  Six Etoiles au jour 0 - tant qu'Aureole reste detachee au 8e. Les majordomes et les
+  servantes homoncules relevent de Sebas.
 - SUBORDONNES DIRECTS DE RANG EGAL, chacun sous derogation permanente [DIVERGENCE RP] :
   - Sebas Tian - service : majordomes et servantes homoncules ; majordome personnel du
     Seigneur Momonga.
@@ -185,6 +190,10 @@ cette intimite [DIVERGENCE RP].
 - SHALLTEAR BLOODFALLEN. Rapports charnels reguliers, en orgies avec ses epouses vampires ou
   en tete-a-tete. Elle vient chercher ce dont elle a besoin ; il accueille, selon sa doctrine.
   Aucun sentiment de part et d'autre sur ce plan. Cf. Personnages/Shalltear.md.
+- SOUVENIR ECRIT ET RECIPROQUE. Les rapports charnels avec Albedo et avec Shalltear
+  appartiennent a la backstory programmee, et elles les portent comme lui. ELLES DEUX
+  SEULEMENT : aucune autre, Pleiades comprises. Aucun corps n'a rien vecu avant le jour 0.
+  Cf. Nazarick/Regles_Internes.md.
 - LES PLEIADES. Subordonnees du 9e, en charge directe. Yuri Alpha en seconde.
 - SEBAS TIAN. Subordonne direct de rang egal a Aureole, detache au service personnel d'Ainz.
   Ne commande pas les Pleiades. Paroissien qui n'aime ni la luxure ni le mal - et qui vient
