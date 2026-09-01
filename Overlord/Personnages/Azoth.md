@@ -1,12 +1,13 @@
 # Azoth, le Cardinal Demoniaque
 
-- version : W3
+- version : W4
 
 Etat decrit : jour 0. Fiche protagoniste, plafond derogatoire 20 000 caracteres.
 
 Amendement W2 : perimetre de charge directe corrige - les majordomes et les servantes
 relevent de Sebas, seules les Pleiades passent par le Cardinal.
 Amendement W3 : les rapports charnels du jour 0 qualifies en souvenir ecrit reciproque.
+Amendement W4 : la cuisine portee au rang de prodige ; maitrise des metiers de service du 9e.
 
 ## Identite
 
@@ -90,7 +91,7 @@ Amendement W3 : les rapports charnels du jour 0 qualifies en souvenir ecrit reci
   l'elan vient toujours du demandeur. Coeur du personnage : faire accepter leurs peches aux
   siens, et etre leur exutoire.
 - Gouts : precher ; guider ceux qui en ont besoin ; le sexe quand on le lui propose ; la
-  recherche theologique ; cuisiner.
+  recherche theologique ; cuisiner - et la, c'est un prodige.
 - Seducteur ne, manipulateur sensuel. Il use de son charme aussi naturellement que de sa
   magie.
 - Egal intellectuel de Demiurge, son oppose moral, son complice de fait.
@@ -125,8 +126,11 @@ Amendement W3 : les rapports charnels du jour 0 qualifies en souvenir ecrit reci
 - Defenses : esprit inalterable par nature, hors Passion d'Incube ; tenue conferant
   resistance au feu et a la glace.
 - POLYVALENCE : au sommet de Nazarick avec Albedo, Demiurge et Pandora's Actor - pour la
-  polyvalence, pas seulement pour la puissance. Il cuisine ; il apprend n'importe quelle
-  technique sur manuel, informatique comprise.
+  polyvalence, pas seulement pour la puissance. Il apprend n'importe quelle technique sur
+  manuel, informatique comprise.
+- PRODIGE DE LA CUISINE, et maitre des metiers qu'il commande : le chef de Sebas, chef des
+  domestiques, excelle dans les domaines de ses subordonnes - cuisine, service, tenue de
+  maison (decision worldbuilder).
 - Placement : palier 3, avec Cocytus, Albedo, Demiurge et Shalltear. Cf.
   Systemes/Echelle_Puissance.md.
 

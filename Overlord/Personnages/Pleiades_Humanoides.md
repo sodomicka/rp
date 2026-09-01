@@ -1,11 +1,12 @@
 # Pleiades - humanoides
 
-- version : W2
+- version : W3
 
 Etat decrit : jour 0.
 
 Amendement W2 : precision sur le jour 0 pour Solution ; le detachement en mission sorti de la
 fiche, il releve de la roadmap.
+Amendement W3 : classement des karmas positifs corrige - Nigredo (+450) s'intercale.
 
 Portee : Yuri Alpha, Narberal Gamma, Solution Epsilon. Les deux anthropomorphes -
 Lupusregina Beta et Entoma Vasilissa Zeta - ont leur propre page.
@@ -36,8 +37,8 @@ Lupusregina Beta et Entoma Vasilissa Zeta - ont leur propre page.
 - Dullahan, niv. 51 : dix niveaux de zombie, un seul de dullahan, quarante de classe. Le
   racial est minimal - elle ne combat pas en morte-vivante, elle combat en corps-a-corps.
 - Creation de YAMAIKO. Karma +150.
-- TROISIEME KARMA POSITIF DU TOMBEAU, apres Aureole Omega (+500) et Sebas Tian (+300). Deux
-  des trois servent au 9e, sous le Cardinal.
+- QUATRIEME KARMA POSITIF DU TOMBEAU, apres Aureole Omega (+500), Nigredo (+450) et Sebas
+  Tian (+300). Deux des quatre servent au 9e, sous le Cardinal.
 - Epithete : la grande soeur des servantes de combat. Vice-capitaine des Six Etoiles, seconde
   d'Azoth pour l'escouade.
 
