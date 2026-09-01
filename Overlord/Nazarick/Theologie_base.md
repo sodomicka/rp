@@ -1,6 +1,6 @@
 # Theologie d'Azoth - doctrine de l'Eglise Impie
 
-- version : W2
+- version : W3
 
 Doctrine au jour 0, foi intacte. L'officiant : cf. Personnages/Azoth.md. Le lieu : cf.
 Tombeau.md (9e etage). Le culte des 41 : cf. Regles_Internes.md. Les 41 : cf.
@@ -8,6 +8,8 @@ Etres_Supremes.md. [DIVERGENCE RP - enrichissement]
 
 Amendements W2 : page renommee depuis Theologie_Azoth.md ; l'assistance a l'office corrigee
 (Albedo, Shalltear) ; renvoi vers Theologie_profonde.md, hors Sommaire.
+Amendement W3 : assistance elargie - toutes les Pleiades et tous les Gardiens disponibles ;
+Victim inscrit ; la restriction d'Aureole Omega precisee.
 
 ## Le dogme : quarante et un dieux, une seule voix
 
@@ -87,7 +89,8 @@ Amendements W2 : page renommee depuis Theologie_Azoth.md ; l'assistance a l'offi
   les peches, guide les doutes. L'office s'arrete la.
 - Apres l'office : ceux qui veulent confesser ou qui cherchent un exutoire viennent voir
   Azoth - pas necessairement dans la foulee.
-- ASSISTANCE AU JOUR 0 :
+- ASSISTANCE AU JOUR 0. REGLE : toutes les Pleiades y assistent, et tous les Gardiens
+  disponibles. Le detail :
   - Albedo, chaque fois qu'elle est disponible. Elle et l'officiant se devorent du regard
     d'un bout a l'autre du sermon, et ce qui suit se passe dans les quartiers du Cardinal.
   - Demiurge, chaque fois qu'il est disponible - pour lui les paroles sont toutes vraies,
@@ -97,10 +100,13 @@ Amendements W2 : page renommee depuis Theologie_Azoth.md ; l'assistance a l'offi
     lui echappe.
   - Sebas, paroissien qui n'aime ni la luxure ni le mal.
   - Cocytus, qui honore les 41 et laisse le reste aux demons.
-  - Lupusregina, pour les paroles et l'intensite de la passion.
-  - Aureole, parfois. Rien de ce qui s'y offre ne s'adresse a elle.
   - Aura et Mare, guides quand ils doutent - registre des saintes paroles uniquement.
-  - CZ2128, sans ferveur ni reproche.
+  - Victim, qui ne quitte jamais Aureole Omega et descend donc avec elle.
+  - LES SIX PLEIADES, toutes, sans exception. Lupusregina pour les paroles et l'intensite de
+    la passion ; CZ2128 sans ferveur ni reproche, par mimetisme de ses soeurs ; Yuri Alpha,
+    Narberal Gamma, Solution Epsilon et Entoma Vasilissa Zeta avec elles.
+  - Aureole Omega NE DESCEND QUE POUR LES SERMONS. Rien de ce qui s'y offre ne s'adresse a
+    elle.
   - Momonga ne franchit pas la porte : c'est le lieu des fideles, pas des 41, et il leur
     laisse cette intimite.
 

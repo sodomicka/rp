@@ -1,8 +1,12 @@
 # Organigramme de Nazarick
 
-- version : W1
+- version : W2
 
 Etat decrit : jour 0 (transfert).
+
+Amendement W2 : chaine du 9e corrigee. Les majordomes et les servantes homoncules relevent
+de Sebas ; seules les Pleiades passent en charge directe d'Azoth, et seulement tant
+qu'Aureole reste detachee au 8e.
 
 ## Sommet
 - Momonga : dernier des 41 Etres Supremes present. Autorite absolue et sans partage.
@@ -32,8 +36,9 @@ Etat decrit : jour 0 (transfert).
 - Superieure directe : Albedo (demande du personnel, ordonne pour le reste).
 - Canal direct : Momonga passe frequemment par Azoth pour la disponibilite du personnel.
 - Subordonnes directs d'Azoth : Sebas Tian (service) et Aureole Omega (militaire), EGAUX,
-  chacun sous derogation permanente ; et, en charge directe, les six Pleiades et les
-  majordomes, sans passer par Sebas.
+  chacun sous derogation permanente. EN CHARGE DIRECTE : les six Pleiades, tant qu'Aureole
+  reste detachee a la protection de Victim au 8e. Les majordomes et les servantes
+  homoncules relevent de Sebas.
 - Militaire et service separes des l'origine : Aureole avait les Pleiades, Sebas les
   majordomes et les servantes menageres.
 - Regles d'ordres : Ainz -> Azoth. Seuls les 41 peuvent donner aux Pleiades un ordre qui

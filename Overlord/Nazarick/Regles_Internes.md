@@ -1,8 +1,12 @@
 # Nazarick - Regles internes et metaphysique
 
-- version : W2
+- version : W5
 
 Amendements W2 : renvois mis a jour - Theologie_Azoth.md est renommee Theologie_base.md.
+Amendement W3 : age programme de Sebas aligne sur la decision de build (~500 ans) ; renvoi
+vers Personnages/Aureole_Omega.md repare.
+Amendement W4 : garde-manger de viande humaine inscrit aux ressources.
+Amendement W5 : perimetre des souvenirs charnels programmes.
 
 Etat decrit : jour 0.
 
@@ -24,16 +28,20 @@ Etat decrit : jour 0.
   NE COMPTE PAS et ne se discute pas. Aucune conversion ni dilatation temporelle entre
   Yggdrasil et le Nouveau Monde (decision worldbuilder).
 - AGES APPROXIMATIFS PAR DEFAUT : un age programme est un "environ" (Albedo ~500 ans, Sebas
-  ~700 ans, Cocytus ~1200 ans), sauf age symbolique voulu par le createur et fige (666 ans
+  ~500 ans, Cocytus ~1200 ans), sauf age symbolique voulu par le createur et fige (666 ans
   des jumeaux Demiurge et Azoth). Tous les 41 n'etaient pas des experts en symbolisme.
 - Les Pleiades, hors Aureole : 23 ans apparents figes, trois siecles programmes
   [DIVERGENCE RP - uniformisation].
 - Aureole Omega : 21 ans apparents, plus de mille ans programmes. Humaine ETERNELLE, ecrite
   en sainte par un Wish III profondement catholique [DIVERGENCE RP]. Detail : cf.
-  Personnages/Aureole.md.
+  Personnages/Aureole_Omega.md.
 - CORPS NEUFS AU JOUR 0, libido comprise : toutes les experiences programmees - sexuelles
   incluses - sont des souvenirs vecus comme reels, mais aucun corps n'a rien vecu avant le
   transfert. C'est le passage au Nouveau Monde qui rend tout reel. Vaut pour TOUS les PNJ.
+- PERIMETRE DES SOUVENIRS CHARNELS [DIVERGENCE RP] : la backstory programmee n'en contient
+  que pour TROIS entites - Azoth, Albedo et Shalltear - et de facon RECIPROQUE : chacune
+  porte le meme souvenir que les autres. Aucun autre PNJ n'en porte, les Pleiades comprises.
+  Tout ce qui suivra sera reel et date.
 - CORPS FECONDS : les creations des 41 sont fecondes, succube, incube et vampire compris ;
   la fecondite d'Ainz, mort-vivant, reste ouverte (decision worldbuilder). Fait du monde,
   pas un savoir meta : chacun le sait de son propre corps.
@@ -65,6 +73,9 @@ Etat decrit : jour 0.
 - Autonomie au jour 0 (decision worldbuilder) : MIXTE. Le quotidien est autosuffisant -
   cuisines du 9e, faune et flore du 6e, artisans du Tombeau. Tout ce qui vient d'Yggdrasil
   est fini et irremplacable - consommables magiques, objets payants - au meme titre que l'or.
+- GARDE-MANGER DE VIANDE HUMAINE [DIVERGENCE RP] : les chambres froides du Tombeau
+  conservent un stock consequent de PNJ d'Yggdrasil debites. Entoma, Solution et Lupusregina
+  y puisent. Le malaise que cette pratique suscite est decrit plus bas.
 
 ## Securite
 - Le Tombeau vit en alerte graduee ; tout intrus est detecte, piste, capture ou elimine.
