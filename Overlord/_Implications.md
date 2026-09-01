@@ -48,8 +48,6 @@ questions en attente, points a reverifier. Ne garde aucune trace de ce qui est f
 - SB1 : l'exception de fecondite "machine" couvre aussi Rubedo (corps de porcelaine).
 - SB1 : le regime de conscience de Rubedo - assez pour un ordre, pas pour une opinion - est
   un troisieme cas, entre Gargantua et tout PNJ.
-- Sommaire : ajouter Pleiades_Anthropomorphes.md (W1) et Nigredo_et_Rubedo.md (W1) ; porter
-  Azoth.md a W4 et Pleiades_Humanoides.md a W3.
 - Echelle_Puissance.md : ajouter Nigredo, niv. 80, sous les Gardiens et au-dessus des
   Pleiades.
 - Magie.md : Nigredo dans la liste Energie Negative ; Rubedo dans la liste Alteration ;
