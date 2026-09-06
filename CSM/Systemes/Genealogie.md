@@ -1,6 +1,6 @@
 # Genealogie
 
-- version : W9
+- version : W10
 
 Page SYSTEMES : liste des naissances et lignees conceptuelles ACTEES. Document transversal, sans narration. Les regles du monde associees (contrats, canaux, nutrition) vivent en BIBLE SB1 ; ici, l'arbre et ses regles de lecture.
 
@@ -45,6 +45,7 @@ Engeances qui decoulent directement d'Effroi mais restent hors du quintette stru
 
 ## Lignee de Mort
 - Primordiaux, engeances de Mort, ordre acte : Chute -> Tenebres -> Vieillesse. Toutes peurs de la mort. Prehistoire.
+- Neant - engeance de TENEBRES (peur du vide, des trous, du zero), RENIEE par lui - jamais titre, jamais compte. Mort sur Terre a l'hiver 1998-1999 (renaissance en Enfer selon le cycle). cf. Personnages/Neant. [DIVERGENCE RP - OC]
 - Arsenal de Mort : Guillotine - nee apres l'invention de la machine (fin XVIIIe). [CANON sur l'association Mort-Guillotine (pion de Mort en P2) + DIVERGENCE RP sur la filiation ; IMPLICITE sur la datation]
 - Engeance : Zombie - demon des morts qui se relevent ; engeance de Mort, posterieure aux Primordiaux. Sous contrat chez des yakuza (~1997, influence passive de Mort - pas un plan concerte), puis RETOURNE par le trone : rallie de son plein gre, verse a la collection personnelle du couple (cf. Personnages/Zombie). [CANON sur le demon + DIVERGENCE RP sur la filiation - rattachement tranche au B2 ; raccord ~1997 consomme au build R3]
 - Engeance : Malediction - demon de la peur des maledictions (la mort promise par rituel) ; engeance de Mort, hors du trio des Primordiaux. NEUTRE ABSOLU : commerce d'esperance de vie ouvert a tous les camps (contractant de Santa Claus a l'hiver 1997-1998). cf. Personnages/Malediction. [CANON sur le demon + DIVERGENCE RP sur la filiation - rattachement acte au build R6]
@@ -61,6 +62,9 @@ Engeances qui decoulent directement d'Effroi mais restent hors du quintette stru
 - Engeance devoree : SOA - maladie venerienne du IVe siecle, lignee de Famine ; effacee. [DIVERGENCE RP]
 - Engeance devoree : Syndrome d'Arnolone - maladie, champion de peur de Famine a la Seconde Guerre mondiale ; efface avec le lot (1941-1948). [DIVERGENCE RP]
 - Engeance devoree : Sida - panique mondiale de 1983 (bascule du monopole vers Famine), devore la meme annee par Tronconneuse sur ordre d'Effroi. [DIVERGENCE RP - datation FIXEE, leve l'ancien INCERTAIN]
+- Maladies VEGETALES : engeances de Famine egalement - le manque par la recolte perdue ; instruments de la crise alimentaire amorcee en 1998 (acte R7). [DIVERGENCE RP]
+- Fievre - demone de la peur de la fievre, engeance de Famine, FIDELE ; terree en 1998 dans un hopital de Mogadiscio (peur de la fievre de la vallee du Rift) - c'est elle qui signale Kiga au trone. Figurante, pas de fiche. [DIVERGENCE RP]
+- A la mort de Famine (mars 1998), la lignee reste fidele au CONCEPT par principe : elle revient a Kiga, tant que Kiga agit en Famine. [DIVERGENCE RP]
 
 ## Lignee de Guerre
 - TOUTES les armes descendent de Guerre. [DIVERGENCE RP]
@@ -84,6 +88,7 @@ Engeances qui decoulent directement d'Effroi mais restent hors du quintette stru
 - Statut interne : la plupart des demons animaux ont suivi Predateur dans l'insoumission et servaient Guerre - une petite armee de betes rangee sous sa banniere (alliance morte avec Guerre, hiver 1997-1998). Rares sont les exceptions, toutes HORS domination d'alpha : les fideles au trone (Renarde, Serpent) et les suiveurs de la Tronconneuse depuis 1983 (Requin, Araignee).
 - Renarde - demone animale (peur du renard, de la ruse animale) ; engeance de Predateur restee FIDELE au trone. Plus froide et moins impulsive que le reste des betes. [CANON sur le demon animal + DIVERGENCE RP sur la filiation]
 - Serpent - demone animale (peur du serpent) ; engeance de Predateur restee FIDELE au trone. Meme temperament froid et pose. [CANON sur le demon animal + DIVERGENCE RP sur la filiation]
+- Ravageurs (Hanneton, Sauterelle, Cochenille) - demons de betes nuisibles, lignee de Predateur, en ALLEGEANCE a Famine (le manque par la recolte detruite) ; instruments de la crise de 1998 ; a la mort de Famine, l'allegeance passe a Kiga par principe. Figurants, pas de fiche. [DIVERGENCE RP]
 - Requin - demon animal (peur du requin) ; engeance de Predateur, HORS domination d'alpha (meme regime que les loyalistes). LOYALISTE du trone jusqu'a la trahison d'Effacement (1983) : il suit alors la Tronconneuse. Aujourd'hui le Possede Beam (Securite Publique, Division 4). cf. Personnages/Beam. [CANON sur le demon + DIVERGENCE RP sur la filiation - rattachement acte au build R5]
 - Araignee - demone animale (peur de l'araignee) ; engeance de Predateur, HORS domination d'alpha (meme regime que les loyalistes). LOYALISTE du trone jusqu'a la trahison d'Effacement (1983) : elle suit alors la Tronconneuse. Aujourd'hui Princi (Securite Publique, Division 4). cf. Factions/Securite_Publique. [CANON sur la demone + DIVERGENCE RP sur la filiation - rattachement acte au build R5]
 - Chauve-Souris et Sangsue - demons animaux, engeances de Predateur ; LA PAIRE (compagnons), rangee derriere sa tete de lignee en OBEISSANCE AVEUGLE - mission : repandre la peur des predateurs (camp de Guerre par ricochet). MORTS ~1997 (Denji ; Aki et la Renarde). cf. Personnages/Chauve_Souris (fiche double, Sangsue incluse). [CANON sur les demons + DIVERGENCE RP sur la filiation - rattachement tranche au build R3 ; cloture au build R4]
@@ -94,6 +99,7 @@ Engeances qui decoulent directement d'Effroi mais restent hors du quintette stru
 - Cataclysme engendre les catastrophes naturelles particulieres.
 - Engeance : Typhon - demon de la tempete et du typhon ; engeance de Cataclysme. [DIVERGENCE RP]
 - Engeance devoree : Mont Hio - l'eruption du Mont Hio (XIXe s.) ; engeance de Cataclysme, effacee sur ordre d'Effroi. [DIVERGENCE RP]
+- Engeance : Feu - demon de la peur du feu a toutes ses echelles (du briquet au feu de foret), fait puissant par les GRANDS INCENDIES ; RENEGAT au service de Mort, sciemment (la mort est la finalite de jouer avec le feu). Cataclysme le sait et s'en desinteresse - les demons se soucient peu des allegeances de leurs engeances, la possessivite de lignee est un trait de Cavalieres. cf. Personnages/Feu. [CANON + DIVERGENCE RP]
 
 ## Descendance d'Effroi sans rattachement (demons mineurs)
 - Enfer - peur de l'enfer. Pivot cosmogonique : sa naissance ouvre le plan Enfer et le cycle bipolaire. Ne apres les cinq engeances directes ; datation ouverte. [DIVERGENCE RP]
