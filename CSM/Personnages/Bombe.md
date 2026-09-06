@@ -1,16 +1,16 @@
 # Bombe
 
-- version : W5
+- version : W6
 
 Entite double : le DEMON (Bombe) et l'HYBRIDE humaine qui le portera (Reze). Fiche NEUTRE : decrit l'entite telle qu'elle existe dans le monde, independamment d'une partie. [CANON + DIVERGENCE RP]
 
-Particularite vs Arc/Quanxi : ici la fusion est POSTERIEURE au point de depart. Elle survient en 1988 (Roadmap 2). Au point de depart (2 dec 1984), Bombe est un demon PUR et Reze une enfant de 3 ans prise dans le programme sovietique de Guerre - deux entites SEPAREES. Le NOYAU decrit donc les deux moities ; la fusion, l'accord des volontes et leurs suites vivent en Trajectoire datee.
+Particularite vs Arc/Quanxi : ici la fusion est POSTERIEURE au point de depart. Elle survient en 1988 (Roadmap 2). Au point de depart (2 dec 1984), Bombe est un demon PUR et Reze une enfant de 6 ans prise dans le programme sovietique de Guerre - deux entites SEPAREES. Le NOYAU decrit donc les deux moities ; la fusion, l'accord des volontes et leurs suites vivent en Trajectoire datee.
 
 ## Identite
 - Noms : Bombe (demon de la Bombe / Bomb Devil) / Reze (l'hybride a venir ; "Bomb Girl", enfant-arme du programme sovietique de Guerre).
 - Concept : la peur des bombes et des explosions.
 - Nature : demon-arme, engeance de Guerre ; l'une des sept armes anciennes ; arme DETONANTE, rattachee de facade a Guerre. [CANON + DIVERGENCE RP]
-- Statut au point de depart : Bombe active, ENTIERE (non fusionnee), agent double secret d'Effroi ; Reze, 3 ans, en dressage dans le programme sovietique. Fusion en 1988 (cf. Trajectoire). [DIVERGENCE RP]
+- Statut au point de depart : Bombe active, ENTIERE (non fusionnee), agent double secret d'Effroi ; Reze, 6 ans, en dressage dans le programme sovietique. Fusion en 1988 (cf. Trajectoire). [DIVERGENCE RP]
 - Statut post-R5 (~1997) : LIBEREE et AUTONOME - le contrat-canal de Guerre dissous par l'operation Serpent, plus aucun contrat ne la tient ; ralliee OUVERTEMENT au trone, Division 4 de la Securite Publique ; en couple avec Denji (cf. Trajectoire). Depuis l'hiver 1997-1998 : premiere campagne ouverte cote trone ; sa suzeraine de facade est MORTE sans avoir jamais su. [DIVERGENCE RP]
 
 ## Le demon (Bombe)
@@ -20,7 +20,7 @@ Particularite vs Arc/Quanxi : ici la fusion est POSTERIEURE au point de depart. 
 - Naissance : posterieure a l'invention des explosifs. [IMPLICITE]
 
 ## L'hybride (Reze)
-- Humaine, enfant-arme du programme sovietique de Guerre (l'URSS). Nee en 1981 ; 3 ans au point de depart, 7 ans a l'hybridation (1988). [CANON pour l'origine sovietique + DIVERGENCE RP pour l'age - le canon ne la date pas]
+- Humaine, enfant-arme du programme sovietique de Guerre (l'URSS). Nee en 1978 - datation EDITEE au chantier fiches R7 (D20) ; 6 ans au point de depart, 10 ans a l'hybridation (1988), 19 ans au gel d'apparence (automne 1997). [CANON pour l'origine sovietique + DIVERGENCE RP pour l'age - le canon ne la date pas]
 - Elevee et dressee des l'enfance comme une arme vivante ; les "annees de souffrance" (R2) sont sa weaponisation sovietique. [CANON + DIVERGENCE RP]
 - Surnom : "Bomb Girl". Sa mission canon d'origine (voler le coeur de la Tronconneuse pour l'URSS) ne s'applique PAS telle quelle dans cette timeline : sa mission est celle d'Effroi (cf. Trajectoire 1988). [CANON + DIVERGENCE RP]
 - Ame reelle sous la facade : une soif de liberte et d'amour - vivre une vie normale, aimer et etre aimee. Point commun avec Bombe, et base de leur accord a venir. [CANON]
@@ -28,7 +28,7 @@ Particularite vs Arc/Quanxi : ici la fusion est POSTERIEURE au point de depart. 
 ## Apparence
 - Bombe, forme veritable (demon pur) : silhouette feminine elancee, musculature marquee ; chair imbriquee d'explosifs - batons de dynamite integres, meches courant le long des bras ; tete en obus aerodynamique. Plus charnue et plus armee que la forme hybride. [DIVERGENCE RP - le demon n'est jamais montre en canon ; design extrapole de l'hybride]
 - Reze, forme humaine (apparence adulte, canon) : jeune femme svelte, cheveux violets mi-longs, yeux verts emeraude ; sujette a rougir ; ras-du-cou dissimulant le pin de grenade au creux du cou, qu'elle tire pour se transformer. [CANON]
-- Regle d'apparence : au fil de R2 (1985-1990) Reze est encore une ENFANT en croissance ; son apparence vieillit normalement jusqu'a l'age adulte, PUIS se fige (gel a l'apparence adulte - cf. BIBLE SB1). Le design canon ci-dessus est sa forme adulte figee, atteinte APRES le perimetre de R2. [DIVERGENCE RP - regle du monde]
+- Regle d'apparence : au fil de R2 (1985-1990) Reze est encore une ENFANT en croissance ; son apparence vieillit normalement jusqu'a l'age adulte, PUIS se fige (gel a l'apparence adulte - cf. BIBLE SB1). Le design canon ci-dessus est sa forme adulte figee, atteinte a l'automne 1997, a 19 ans. [DIVERGENCE RP - regle du monde]
 - Gel ATTEINT (~1997) : le design canon ci-dessus est en place - fin d'adolescence / jeune adulte, vieillissement fige. [DIVERGENCE RP]
 - Forme hybride : cf. Pouvoirs (transformation par le pin de grenade).
 
@@ -64,7 +64,7 @@ Particularite vs Arc/Quanxi : ici la fusion est POSTERIEURE au point de depart. 
 - Bombe nait de la peur des bombes, apres l'invention des explosifs ; engeance de Guerre, rangee parmi les detonantes. [IMPLICITE sur la datation]
 - Rupture secrete : frustree par la montee de Flingue qui aspire la peur des armes, elle rompt en sous-main son allegeance a Guerre et passe au service d'Effroi. Datation et circonstances : differees a l'histoire globale. [DIVERGENCE RP]
 - 1983 - le massacre : presente en DEMON PUR, sous la banniere de Guerre, dans l'alliance temporaire du trone et des quatre Cavalieres contre Tronconneuse, en Enfer. [CANON + DIVERGENCE RP]
-- Reze, cote humain : nee 1981, deja happee par le programme sovietique de Guerre ; 3 ans au point de depart, en dressage. [DIVERGENCE RP]
+- Reze, cote humain : nee 1978, deja happee par le programme sovietique de Guerre ; 6 ans au point de depart, en dressage. [DIVERGENCE RP]
 - 2 dec 1984 : Bombe entiere, agent double en place ; Reze enfant, pas encore fusionnee. [DIVERGENCE RP]
 
 ## Relations de base
@@ -87,7 +87,9 @@ Particularite vs Arc/Quanxi : ici la fusion est POSTERIEURE au point de depart. 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 1988 (R2) | Hybridation Bombe + Reze au complexe siberien de Guerre (programme sovietique) ; ACCORD des volontes. Bombe connecte l'hybride a Makoto, qui fixe la mission : fausse fidelite a Guerre contre recompense eternelle. Effroi lui confie Typhon (engeance de Cataclysme) - contrat sans contrepartie, non exclusif ; Typhon la nomme "Maitresse Reze". | Bombe passe de demon pur a hybride ; Reze devient l'hote-visage ; l'entite double entre au service actif d'Effroi sous couverture de Guerre ; acquiert le contrat Typhon. |
-| ~1997 (R5 - La Bombe) | Derniere carte de Guerre, jouee et brulee par le trone. Briefing de Makoto des le depart d'URSS, par la ligne tissee : suivre les ordres de Guerre QUEL QU'EN SOIT LE PRIX, ne rien epargner ; seule reserve, le coeur de Denji - s'il est pris, laisser Makoto intervenir et la "tuer" (clause JAMAIS detonee) ; au bout de la defaite, la liberte. Contrainte : le canal de Guerre, laisse et detecteur de mensonge - devier du script, c'est risquer le rappel. Couverture de barmaid, les beats canon se jouent (cabine sous la pluie, cafe, ecole de nuit, piscine, la fable des deux souris) ; Denji tombe amoureux et vient de lui-meme le raconter a ses figures familiales. Massacre de la 2e division de la SP. Bataille planetaire : le baiser, la langue arrachee, la transformation ; Typhon deploye et detruit ; defaite TOTALE, violente et publique face a Denji et Beam, sous les yeux du monde. Operation Serpent : gobee CONSENTANTE, contrat-canal de Guerre capte puis CEDE - auto-detenu, dissous. Integration a la Division 4, couple avec Denji, cles du penthouse remises par Makima. | LIBEREE et AUTONOME : plus aucun contrat ne la tient - ne demeure que la ligne tissee du trone. Ralliee ouvertement ; couple avec Denji, penthouse. Apparence FIGEE au design canon (fin d'adolescence / jeune adulte). Cote Guerre : morte ou prise, le retournement toujours ignore. |
+| ~1997 (R5 - La Bombe) | Derniere carte de Guerre, jouee et brulee par le trone. Briefing de Makoto des le depart d'URSS, par la ligne tissee : suivre les ordres de Guerre QUEL QU'EN SOIT LE PRIX, ne rien epargner ; seule reserve, le coeur de Denji - s'il est pris, laisser Makoto intervenir et la "tuer" (clause JAMAIS detonee) ; au bout de la defaite, la liberte. Contrainte : le canal de Guerre, laisse et detecteur de mensonge - devier du script, c'est risquer le rappel. Couverture de barmaid, les beats canon se jouent (cabine sous la pluie, cafe, ecole de nuit, piscine, la fable des deux souris) ; Denji tombe amoureux et vient de lui-meme le raconter a ses figures familiales. Massacre de la 2e division de la SP. Bataille planetaire : le baiser, la langue arrachee, la transformation ; Typhon deploye et detruit ; defaite TOTALE, violente et publique face a Denji et Beam, sous les yeux du monde. Operation Serpent : gobee CONSENTANTE, contrat-canal de Guerre capte puis CEDE - auto-detenu, dissous. Integration a la Division 4, couple avec Denji, cles du penthouse remises par Makima. | LIBEREE et AUTONOME : plus aucun contrat ne la tient - ne demeure que la ligne tissee du trone. Ralliee ouvertement ; couple avec Denji, penthouse. Apparence FIGEE au design canon (19 ans, jeune adulte). Cote Guerre : morte ou prise, le retournement toujours ignore. |
 | hiver 1997-1998 (R6 - La Guerre) | Premiere campagne OUVERTE cote trone : garde rapprochee VOLONTAIRE de Denji-appat (avec Aki et Power) face aux Assassins Internationaux. Expediee en Enfer par la frappe de Poupee (hybride, marchandise du pacte de Tenebres), reprise par le Roi, renvoyee sur Terre. A Washington : l'une des QUATRE hybrides de la mise a mort de Guerre ; participe largement a la destruction de la ville, aux cotes de Kishibe et Power. | Sa suzeraine de facade est MORTE - sans avoir jamais su le retournement. L'hybride libre combat a visage decouvert pour le trone, aux cotes de son compagnon. |
+| avril 1998 - hiver 1998-1999 (R7 - La Famine) | Premiere annee de fac aux cotes de Denji : vie normale voulue ET couverture d'enquete ; GARDE RAPPROCHEE du vaisseau toute l'annee. En civil, une fille normale - seul le choker (accessoire commun) habille le tell. | Etudiante-garde du corps ; la double vie du couple tient une annee entiere. |
+| hiver 1998-1999 (R7 - La Famine) | CLIMAX : avec Denji, elle abat Neant demasque, sous les yeux de Makoto venu assister en personne. | Co-executrice de l'antagoniste de l'arc. |
 
 FIN_WIKI_PERSONNAGES_BOMBE

@@ -1,6 +1,6 @@
 # Flingue
 
-- version : W8
+- version : W9
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -8,7 +8,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Nom : Flingue (demon du Flingue / Gun Devil).
 - Nature : demon-arme, engeance directe de Guerre ; arme DETONANTE, hors des sept armes anciennes. [CANON + DIVERGENCE RP]
 - Concept : la peur des armes a feu.
-- Statut : oblitere et fragmente par Effroi le 18 novembre 1984, au soir de son attaque mondiale ; conscient SANS INTERRUPTION depuis (conscience collective, cf. Pouvoirs) ; rallie au trone en 1989 (revelation : Makoto EST Effroi) ; hybride a Kishibe en 1990 - le GARDIEN du trone. Ses fragments voles par Guerre (48%, portes a 52%) furent mues en prothese-arme muette (1989) - prothese DEVOREE par Kishibe a la mort de Guerre. Cle hiver 1997-1998 post-R6 : Kishibe 91 (le Gardien) / renegats 9. cf. Trajectoire datee. [CANON + DIVERGENCE RP]
+- Statut : oblitere et fragmente par Effroi le 18 novembre 1984, au soir de son attaque mondiale ; conscient SANS INTERRUPTION depuis (conscience collective, cf. Pouvoirs) ; rallie au trone en 1989 (revelation : Makoto EST Effroi) ; hybride a Kishibe en 1990 - le GARDIEN du trone. Ses fragments voles par Guerre (48%, portes a 52%) furent mues en prothese-arme muette (1989) - prothese DEVOREE par Kishibe a la mort de Guerre. Cle FERMEE a l'ete 1998 : Kishibe 100 - COMPLET, entier pour la premiere fois depuis sa fragmentation. cf. Trajectoire datee. [CANON + DIVERGENCE RP]
 
 ## Place dans la lignee
 - Engeance directe et recente de Guerre, choyee - avec Tank, a part des sept armes anciennes. [CANON + DIVERGENCE RP]
@@ -43,7 +43,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Taciturne, pas muet : il sait quand parler, et parle en economie de mots. [DIVERGENCE RP]
 - Intelligent mais ingouvernable : sa finesse tactique n'attenue en rien son impulsivite ni sa violence excessive - un demon-arme puissant ET malin, mais que rien ne bride. C'est cette absence de frein, non un manque d'esprit, qui en fait un candidat a l'hybridation-de-contention. [DIVERGENCE RP]
 - Orgueil d'arme : il ne consent a fusionner qu'avec le plus fort ; sollicite pour l'hybridation, il exige l'humain le plus puissant disponible, jamais un hote de convenance. [DIVERGENCE RP]
-- Impatience de completude (depuis l'hiver 1997-1998) : l'impatience jadis tournee vers Guerre n'a plus d'objet - la mere est morte, sa prothese devoree ; elle se reporte TOUT ENTIERE sur les 9% qui manquent encore a sa chair. [DIVERGENCE RP - decision worldbuilder]
+- Impatience de completude (depuis l'hiver 1997-1998) : l'impatience jadis tournee vers Guerre n'a plus d'objet - la mere est morte, sa prothese devoree ; elle se reporte TOUT ENTIERE sur les 9% qui manquent encore a sa chair. SOLDEE a l'ete 1998 : la chair est complete (cf. Trajectoire). [DIVERGENCE RP - decision worldbuilder]
 
 ## Histoire (jusqu'au perimetre)
 - Nait de la peur des armes a feu, apres leur invention ; engeance directe de Guerre, rangee parmi les detonantes avec Tank. [IMPLICITE sur la datation]
@@ -59,7 +59,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Bombe - paire detonante de la sphere de Guerre. (La rancoeur de Bombe a son endroit vit dans sa fiche.)
 - Effroi / Makoto - celui qui l'oblitere en 1984, puis son ROI depuis la revelation de 1989 : apprendre que Makoto est Effroi le fait passer au trone par soumission au plus fort. C'est le trone qui orchestre sa reconstitution partielle et son hybridation-de-contention. Raccord de la coordination de l'attaque de 1984 : SCELLE, differe. [DIVERGENCE RP]
 - Tronconneuse / Pochita - adversaire du massacre de 1983.
-- Kishibe - hote de son hybridation-de-contention (1990) : cynique, terre-a-terre, accorde a sa brutalite ; c'est lui qui pose la condition d'equilibre. Symetrie des conditions : Flingue n'a accepte la fusion que pour "le plus fort humain disponible" - Quanxi etant deja hybridee, c'etait Kishibe. Depuis l'hiver 1997-1998, le Gardien porte 91% de sa masse. cf. Personnages/Kishibe. [DIVERGENCE RP]
+- Kishibe - hote de son hybridation-de-contention (1990) : cynique, terre-a-terre, accorde a sa brutalite ; c'est lui qui pose la condition d'equilibre. Symetrie des conditions : Flingue n'a accepte la fusion que pour "le plus fort humain disponible" - Quanxi etant deja hybridee, c'etait Kishibe. Depuis l'ete 1998, le Gardien porte 100% de sa masse - Flingue COMPLET. cf. Personnages/Kishibe. [DIVERGENCE RP]
 - Arc / Quanxi - l'ETALON : la plus forte hybride connue, celle que le tandem Kishibe-Flingue s'est donne pour objectif commun de depasser (echo : Kishibe, ex-binome de Quanxi). cf. Personnages/Arc. [DIVERGENCE RP]
 - L'humanite - depuis novembre 1984, il est LA terreur planetaire ; la peur qu'il inspire domine toutes les autres. [CANON]
 
@@ -78,5 +78,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 | 1990 (R2 - Le Flingue) | Hybridation-de-contention avec Kishibe (hangar isole ; Makoto execute le rituel). Kishibe pose sa condition - le trone garde l'equilibre pour cap - que Flingue accepte en jubilant. | Contenu : sa sauvagerie bridee par un hote accorde ; soustrait au cycle mort-renaissance tant que la fusion tient. Devient le Gardien du trone. Etat final de sa masse : Guerre 48% (prothese muette) / Kishibe 25% (le Gardien) / douilles 27%. |
 | ~1997 (R4 - La Tronconneuse) | Ouverture d'arc : depuis 1990, les deux camps ont recupere des douilles en circulation - cle a l'ouverture : Guerre 52 (prothese muette) / Kishibe 38 (le Gardien) / renegats 10. En arc : le Gardien-boussole mene la Division 4 a l'hotel Morin ; Eternite, renegat gonfle de douilles avalees (1% au total), est execute par Denji ; les douilles sont recuperees et versees au Gardien. | Cle post-R4 : Guerre 52 / Kishibe 39 / renegats 9. Tchekhov des douilles renegates retreci (27 -> 10 -> 9 ; horizon R6). |
 | hiver 1997-1998 (R6 - La Guerre) | Washington : Guerre, acculee, combat armee de ses deux fils - la prothese muette (52%) a un bras, Tank rappele et mue en bras a l'autre. Le Gardien (39%) est l'un des quatre hybrides de sa mise a mort ; Denji tranche les deux bras de la Cavaliere avant l'execution. Kishibe arrache alors la prothese de la morte et la DEVORE comme un animal sauvage - aucun rite, la completude de l'hybridation : les 52% rejoignent la masse du Gardien. | Cle SOLDEE post-R6 : Kishibe 91 (le Gardien) / renegats 9. Les dernieres douilles lui sont traquables sans difficulte (Tchekhov retreci : 9%, horizon R7) ; son impatience, privee de mere, se reporte sur sa propre completude ; le canal de la mere, mort avec elle - plus aucune laisse d'origine. |
+| printemps-ete 1998 (R7 - La Famine) | LE RANGEMENT : la boussole du Gardien (il sent ses propres douilles) mene la traque des 9% renegats - rapatriement sans difficulte, les douilles versees a sa masse. COMPLET : 100%, entier pour la premiere fois depuis le soir du 18 novembre 1984. | Cle FERMEE : Kishibe 100. Le Tchekhov des douilles (27 -> 10 -> 9 -> 0) est consomme ; l'impatience de completude SOLDEE. Plus un fragment de lui hors du Gardien. |
 
 FIN_WIKI_PERSONNAGES_FLINGUE

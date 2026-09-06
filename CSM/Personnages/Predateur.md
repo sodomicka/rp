@@ -1,6 +1,6 @@
 # Predateur
 
-- version : W5
+- version : W6
 
 Entite [DIVERGENCE RP - OC]. Fiche NEUTRE : decrit l'entite telle qu'elle existe dans le monde, independamment d'une partie. Aucun filet canon : socle etabli par le worldbuilder.
 
@@ -14,6 +14,7 @@ Entite [DIVERGENCE RP - OC]. Fiche NEUTRE : decrit l'entite telle qu'elle existe
 ## Place dans la lignee
 - Engeance directe ancienne d'Effroi : la peur des betes est l'une des plus vieilles peurs humaines, anterieure aux societes. Il rejoint Cataclysme et le sixieme sens parmi les anciennes engeances directes non titrees - mais, seul d'entre elles, RENEGAT. [DIVERGENCE RP]
 - Tete de la lignee des demons animaux : la peur des betes engendre les demons des betes particulieres. Le gros de la lignee l'a suivi dans l'insoumission et sert Guerre ; rares sont les exceptions - Renarde et Serpent, LOYALISTES du trone, et Requin et Araignee, loyalistes jusqu'a la trahison d'Effacement (1983), passes alors a la suite de la Tronconneuse (aujourd'hui Beam et Princi - cf. Factions/Securite_Publique). [DIVERGENCE RP]
+- RAVAGEURS (Hanneton, Sauterelle, Cochenille) : demons de betes nuisibles, de SA lignee - mais en ALLEGEANCE a Famine, dont ils servent le champ (le manque par la recolte detruite). A la mort de Famine (mars 1998), l'allegeance suit le concept : ils reviennent a Kiga, par principe. Le Chasseur replie perd encore du terrain sans qu'on le touche. [DIVERGENCE RP]
 - Consigne permanente de Makima et Makoto a la Securite Publique : tout demon de la lignee du Predateur localise remonte au couple - non pour Predateur lui-meme, mais pour AFFAIBLIR GUERRE, dont sa lignee est l'armee. [DIVERGENCE RP]
 
 ## Apparence
@@ -77,5 +78,6 @@ Huit demons animaux de sa lignee, ses envoyes d'elite - engages en appui des Ass
 | 1987 (R2) | L'armee de betes de Predateur, avec des mercenaires, execute pour Guerre le rapt des fragments de Flingue voles aux USA et a l'URSS. | Son concours au coup de Guerre le pose en obstacle du trone dans la course a Flingue ; Makoto identifie l'alliance Guerre-Predateur. |
 | 1996 (R3 - L'Autorite) | Chauve-Souris, de sa lignee, capture le chat de l'incarnation 1996 de la demone du Sang ; la consigne permanente fait remonter l'affaire, et Effroi s'y rend EN PERSONNE : Miaouche libere, Chauve-Souris epargne mais ampute du BRAS DROIT en avertissement (un massacre, et la SP le tue). La mort de Chauve-Souris est RESERVEE a Power (dette-recompense du Roi). | Un de ses deux agents nommes mutile et sous avertissement SP ; sa lignee prend un avertissement direct du Roi - la consigne permanente a prouve son mordant. |
 | hiver 1997-1998 (R6 - La Guerre) | Il engage sa meute des huit fauves (lion, tigre, chien, panthere, ours, loup, puma, lynx) en appui des Assassins Internationaux sur Tokyo - des allies demoniaques en plus d'une simple chasse humaine. La meute est DECIMEE : sept fauves morts sous le dispositif du trone (lion et loup, faucheurs du harem de Quanxi, compris) ; le Chien, soumis par l'autorite de Nayuta, capture. Guerre elle-meme tombe a Washington - et l'alliance meurt avec elle. | Meute aneantie, alliee morte, alliance dissoute : delie et sans envoyes, le Chasseur SE FAIT OUBLIER (Tchekhov pour plus tard). |
+| 1998 (R7 - La Famine) | Toujours replie, hors scene. Ses ravageurs (Hanneton, Sauterelle, Cochenille) servent la crise alimentaire de Famine - par allegeance a ELLE, pas sur son ordre a lui ; a la mort de la Cavaliere, leur allegeance passe a Kiga, par principe. | Sa lignee derive un peu plus hors de sa main, sans un combat. |
 
 FIN_WIKI_PERSONNAGES_PREDATEUR

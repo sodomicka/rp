@@ -1,6 +1,6 @@
 # Tank
 
-- version : W5
+- version : W6
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -8,7 +8,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Nom : Tank (demon du Tank / Tank Devil).
 - Nature : demon-arme, engeance directe de Guerre ; arme DETONANTE, hors des sept armes anciennes. [CANON + DIVERGENCE RP]
 - Concept : la peur des chars d'assaut.
-- Statut : sceau de mi-1985 DETONE a l'hiver 1997-1998 (l'appel de Guerre, enfin lance) ; mue en bras par sa mere a Washington, tranche par Denji ; reste COMPRIME en bras, fige par l'incomprehension - RAMASSE par le trone. Sa mere est morte. cf. Trajectoire datee. [DIVERGENCE RP]
+- Statut : sceau de mi-1985 DETONE a l'hiver 1997-1998 (l'appel de Guerre, enfin lance) ; mue en bras par sa mere a Washington, tranche par Denji ; ramasse comprime et fige par le trone ; DESCELLE au printemps-ete 1998, ALLEGEANCE JUREE a Asa - la reincarnation du concept, sa nouvelle suzeraine. Sa mere est morte. cf. Trajectoire datee. [DIVERGENCE RP]
 
 ## Place dans la lignee
 - Engeance directe et recente de Guerre, choyee - avec Flingue, a part des sept armes anciennes. [CANON + DIVERGENCE RP]
@@ -36,7 +36,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Une brute, entierement soumise a sa soif de destruction. [DIVERGENCE RP]
 - Fidele a Guerre par appetit : elle nourrit son envie de detruire - la loyaute suit la destruction promise. [DIVERGENCE RP]
 - Foi de fils : sa soumission au sceau tenait autant de la confiance en sa "mere" (elle finira par l'appeler) que du manque d'options. Elle a fini par l'appeler - pour le muer en objet. [DIVERGENCE RP]
-- Depuis l'hiver 1997-1998 : FIGE par l'incomprehension d'avoir ete reduit a un objet alors qu'il a toujours ete loyal - comprime en bras, il ne se deplie pas. [DIVERGENCE RP]
+- Depuis l'hiver 1997-1998 : FIGE par l'incomprehension d'avoir ete reduit a un objet alors qu'il a toujours ete loyal - comprime en bras, il ne se deplie pas. Descelle au printemps-ete 1998 : deplie, et l'allegeance juree a Asa lui rend une suzeraine (cf. Trajectoire). [DIVERGENCE RP]
 - Ne communique que par grincements mecaniques. [DIVERGENCE RP]
 
 ## Histoire (jusqu'au perimetre)
@@ -47,6 +47,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 
 ## Relations de base
 - Guerre / Yoru - le concept dont il decoule, sa suzeraine ; relie a elle par un canal contractuel (contrat demon-demon). Fidelite d'appetit : elle promet la destruction. Depuis 1989 (defection de Flingue, Bombe fausse a son insu), il est litteralement son DERNIER fils loyal - un prisonnier qu'elle peut rappeler d'un mot, mais qu'elle laisse sous sceau (dernier recours). L'appel est venu a l'hiver 1997-1998 - pour le MUER EN BRAS : le tabou de la mere brise sur lui, par pur desespoir. Elle est morte - le canal mort avec elle ; lui reste comprime, fige d'incomprehension. cf. Personnages/Guerre. [CANON + DIVERGENCE RP]
+- Asa - la reincarnation de sa mere conceptuelle et sa NOUVELLE SUZERAINE : allegeance JUREE au printemps-ete 1998, promesse faite au trone des sa capture (R6) et tenue. Table rase cote elle (aucun canal herite) : l'allegeance est un SERMENT, pas un contrat. cf. Personnages/Asa. [DIVERGENCE RP]
 - Effroi / Makoto - le trone, auquel il ne repond pas ; c'est lui qui le scelle mi-1985 (terreur au regard, puis contrat de maintien), et le trone qui le RAMASSE a Washington (hiver 1997-1998). [DIVERGENCE RP]
 - Flingue - pair detonant, engeance directe de Guerre comme lui. Devenir (defection, prothese, hybridation, devoration de la prothese) : cf. Personnages/Flingue. [CANON]
 - Bombe - paire detonante de la sphere de Guerre.
@@ -62,5 +63,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 |---|---|---|
 | mi-1985 (R1 - Le Controle) | Scelle par Makoto, pendant la grossesse de Makima, sur un site sovietique NON NOMME (le mont Elbrouz est pris par le fragment sovietique de Flingue ; "emprisonne en URSS" reste une extrapolation, pas du canon dur). Methode SANS force brute : Effroi le fixe - terreur au regard - et lui fait comprendre qu'il ne vit encore que parce que le Roi le decide ; le maintien passe ensuite par un CONTRAT - un appel explicite de Guerre le teleportera sur place, et d'ici la il est incapable de faire quoi que ce soit. Tank accepte, autant par foi envers sa "mere" que par manque d'options. Double motif de Makoto : proteger sa fille a naitre ; reduire la destructivite de Guerre - premier caillou de l'ACCULEMENT. Guerre sait ou il est et PEUT le rappeler ; elle s'abstient : trop destructeur, garde en carte a jouer / dernier recours. | Hors jeu tant que Guerre ne l'appelle pas ; levier dormant aux mains de sa mere ; a partir de 1989, dernier fils loyal d'une mere amputee de tous les autres. |
 | hiver 1997-1998 (R6 - La Guerre) | DETONATION du sceau : acculee a Washington DC (tueurs morts, ruche de Poupee purgee, meute du Predateur decimee), Guerre lance l'appel explicite - il est teleporte sur place... et sa mere le MUE EN BRAS, un deuxieme bras d'arme face aux quatre hybrides du trone : le tabou de la mere brise sur son dernier fils loyal, par pur desespoir. Denji tranche les deux bras ; Guerre est achevee. Tank, lui, reste COMPRIME en bras, fige par l'incomprehension d'avoir ete reduit a un objet alors qu'il a toujours ete loyal ; le trone le ramasse. | Sceau de mi-1985 consomme (le levier dormant joue et perdu) ; COMPRIME en bras, fige, aux mains du trone. Sa mere est morte - le canal mort avec elle ; sa foi de fils, brisee avec le tabou. |
+| printemps-ete 1998 (R7 - La Famine) | DESCELLE par le trone (le rangement) ; il jure ALLEGEANCE a Asa, la future Guerre - la promesse arrachee a sa capture (R6), tenue. Aucun canal, aucun contrat : un serment, fait a un bebe qui grandit a vue d'oeil. | Deplie, range, jure : l'arme de la mere au service de la fille. Devenir d'hote hors perimetre. |
 
 FIN_WIKI_PERSONNAGES_TANK

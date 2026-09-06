@@ -1,6 +1,6 @@
 # Mort
 
-- version : W4
+- version : W5
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -8,7 +8,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Nom : Mort (demon de la Mort).
 - Nature : Primordiale ET Cavaliere - seul cumul des deux statuts. (Convergence canon : elle y est classee a la fois Peur primordiale et Cavaliere.)
 - Concept : la peur de la mort - la plus vieille et la plus universelle des peurs, parmi les plus nourries au monde.
-- Statut : active, en Enfer. Rivale declaree du trone d'Effroi ; faction a elle seule.
+- Statut : active, en Enfer. Rivale declaree du trone d'Effroi ; faction a elle seule. Depuis l'hiver 1997-1998 : AUX COMMANDES de l'Eglise de Chainsaw Man via le Feu - hors scene, insoupconnee de tous, trone compris (cf. Trajectoire).
 
 ## Place dans la lignee
 - Premiere engeance d'Effroi : premier concept derive de l'Originel, nee a la prehistoire, avant les autres Primordiaux. [DIVERGENCE RP]
@@ -66,5 +66,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | ~1997 (R3 - L'Autorite) | Son Zombie, sous contrat chez les yakuza (pure influence passive), massacre Denji - declenchant sans le vouloir l'hybridation de Chainsaw Man - puis est RETOURNE par le trone : mis devant le choix (rallier de gre, ou Autorite le force), il accepte de son plein gre. Le calcul l'emporte sur la fidelite : le monde jonche de cadavres que promet Mort est aussi un monde sans humains vivants, donc sans demons. Verse a la collection personnelle du couple. | Perd un pion au profit direct du trone ; son influence passive a livre au Roi son hybride de Tronconneuse sans qu'elle l'ait ni voulu ni su orchestrer. |
+| hiver 1997-1998 (post-R6) | REVEILLEE par Washington : deux Cavalieres a terre en dix-huit mois, une capitale eventree - le monde sent la mort. Elle prend les commandes de l'EGLISE DE CHAINSAW MAN naissante, via le FEU (engeance de Cataclysme ralliee a elle sciemment - la mort est la finalite de jouer avec le feu) ; le Feu s'installe au culte et laisse un pion-ecran, Neant, se croire aux commandes. | Une Cavaliere aux commandes d'un culte mondial - sans qu'une seule trace remonte a elle. |
+| 1998 - hiver 1998-1999 (R7 - La Famine) | HORS SCENE ABSOLU, et NOURRIE par tout l'arc : la mort de Famine (mars, de la main du Roi), la crise alimentaire frolee, les retombees de Washington. Son dispositif tient toute l'annee : le Feu temporise sur la transformation de masse, sous sa consigne, malgre les pressions du pion-ecran. Au climax, Neant meurt en accusant le Feu SEUL - personne, pas meme le trone, ne voit sa main. Elle n'est pas effleuree de tout l'arc. | La grande gagnante silencieuse de R7 : renforcee, invisible, son levier (la transformation de masse) intact aux mains du Feu. |
 
 FIN_WIKI_PERSONNAGES_MORT

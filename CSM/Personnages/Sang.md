@@ -1,6 +1,6 @@
 # Sang (Power)
 
-- version : W3
+- version : W4
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie. Personnage canon ; le caracterisant est integre, le cycle d'incarnations et les rattachements RP sont balises.
 
@@ -9,7 +9,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Nature : demone ; depuis 1996, Possedee du Sang (demone dans un cadavre de jeune femme ; identite du cadavre inconnue). [CANON - le canon ne nomme jamais la defunte]
 - Concept : la peur du sang - prehistorique (le sang qui coule, la vie qui fuit). Singularite : son concept est aussi la ressource metabolique universelle de l'espece demoniaque (les demons se renforcent en consommant du sang, cf. BIBLE SB1). [CANON + DIVERGENCE RP]
 - Genealogie : engeance directe ANCIENNE d'Effroi, non titree (au meme titre que Predateur et Cataclysme). ELLE-MEME L'IGNORE : amnesique a chaque renaissance, elle ne connaissait deja plus son ascendance des son deuxieme siecle. [DIVERGENCE RP]
-- Statut : recrutee par la Securite Publique, 3e division (1996), sous ultimatum du trone ; agent de terrain de la Division Speciale 4 des sa creation (~1997) ; DEBRIDEE pour la premiere fois a Washington, sur feu vert du Roi (hiver 1997-1998, cf. Trajectoire).
+- Statut : recrutee par la Securite Publique, 3e division (1996), sous ultimatum du trone ; agent de terrain de la Division Speciale 4 des sa creation (~1997) ; DEBRIDEE pour la premiere fois a Washington, sur feu vert du Roi (hiver 1997-1998) ; COURTISEE par Quanxi depuis 1998, donnant-donnant installe (cf. Trajectoire).
 
 ## Le cycle seculaire (pattern d'entite) [DIVERGENCE RP]
 - Une incarnation par siecle en moyenne, depuis que les hommes craignent le sang. Chaque iteration renait amnesique, se persuade d'etre la plus forte, finit par entendre parler du Roi, se sent legitime de le defier - et se fait obliterer d'un geste, pour insoumission, insolence et incapacite a s'admettre depassee.
@@ -55,5 +55,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 | ~1997 (R3 - L'Autorite) | Creation de la Division Speciale 4 : Power y bascule comme agent de terrain. | Division 4, agent de terrain. |
 | ~1997 (R4 - La Tronconneuse) | Le test du duo : endettee depuis 1996, elle embarque Denji pour buter Chauve-Souris et etre quitte - puis, lache des que personne ne la regarde, laisse tout le boulot a Denji, qui decoupe la bete. Verdict du Roi : la dette n'est PAS epongee - la mort etait reservee a Power, c'est Denji qui l'a prise. Mais si elle reste une agente de la SP sans faire trop de vagues, il la laissera "tranquille". Kishibe l'entraine a la dure, avec Denji. | Dette Chauve-Souris SOLDEE au rabais (recompense gachee) ; a ses ordres sans avoir compris comment - mais tranquille. |
 | hiver 1997-1998 (R6 - La Guerre) | Garde rapprochee VOLONTAIRE de Denji-appat (avec Reze et Aki) face aux Assassins Internationaux. A Washington, DEBRIDEE pour la premiere fois, sur FEU VERT de Makoto : elle sacrifie des humains en masse et SAIGNE LA VILLE en banques de sang pour nourrir et regenerer les siens en continu - et participe largement a la destruction, aux cotes de Kishibe et Reze. | Premier debridage, assume par le trone : l'arme-chaos employee a plein, une ville exsangue au bilan. Toujours "tranquille" tant qu'elle sert sans vagues. |
+| printemps-ete 1998 (R7 - La Famine) | COURTISEE par Quanxi, qu'elle a sincerement impressionnee - et soignee en continu - a Washington. Le compliment ouvre, sa vanite fait le reste : DONNANT-DONNANT installe. Elle donne du plaisir (le sexe ne l'interesse pas elle-meme) ; recoit admiration, cadeaux et chasses. Pas un mariage : possedee a demeure aupres de la tete de la 5e division. | Une cour a demeure qui flatte sa vanite ; toujours "tranquille" - service sans vagues, statu quo du Roi intact. |
 
 FIN_WIKI_PERSONNAGES_SANG

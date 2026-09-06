@@ -1,6 +1,6 @@
 # Controle
 
-- version : W9
+- version : W10
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -8,7 +8,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Nom : Controle (demon du Controle). Nom d'usage, intemporel : Makima.
 - Nature : Cavaliere, troisieme des trois Cavalieres de societes ; engeance directe d'Effroi. En 1984, elle cede son statut de Cavaliere et monte Reine des demons (cf. Histoire).
 - Concept : la peur du controle, de la conquete et de la domination - la terreur de perdre son autonomie.
-- Statut : active, infiltree dans les societes humaines ; insoumise, puis alliee du trone en 1984 ; convoitise mutuelle avec Effroi (moteur central).
+- Statut : active, infiltree dans les societes humaines ; insoumise, puis alliee du trone en 1984 ; convoitise mutuelle avec Effroi (moteur central). Depuis 1998 : CHEFFE de la Securite Publique de Tokyo - le sommet atteint (cf. Trajectoire).
 
 ## Place dans la lignee
 - Engeance directe d'Effroi, troisieme des trois Cavalieres de societes : nait apres Famine, puis Guerre. [DIVERGENCE RP]
@@ -17,6 +17,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 
 ## Apparence
 - Forme veritable humanoide (regle des Cavalieres) : femme d'apparence fin vingtaine-debut trentaine (age adulte fige, cf. regle d'apparence BIBLE SB1), cheveux roux nattes en arriere, yeux jaunes a anneaux concentriques (marque commune des Cavalieres). [CANON]
+- Taille : 168 cm. [CANON - tailles officielles partagees a l'exposition anime Chainsaw Man]
 - Tenue : vetements d'autorite, signes d'un ordre en place - registre uniforme. Apparence soignee. Elle en a toujours porte. [DIVERGENCE RP - generalise et rend intemporel le costume de Securite Publique canon]
 - Elle n'a que sa forme humaine : etre le controle, l'une des peurs les plus humaines, est sa nature meme - sa forme pure est indifferentiable d'une humaine. [DIVERGENCE RP]
 
@@ -94,5 +95,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 | ~1997 (R4 - La Tronconneuse) | Previent, avec Nayuta, des le placement de Katana : un code d'honneur ne rendra pas les yakuza fiables. Mitraillee dans le train pour Kyoto lors de l'attaque de Guerre, elle survit : rituel des trente condamnes a perpetuite, au sanctuaire en altitude - les mercenaires broyes un a un a distance ; elle n'epargne que Sawatari et Tetsuo. Apres la mort d'Himeno, elle recommande la mise en scene du deuil : des trois tetes de la cellule, c'est elle qui connait le mieux la manipulation par les emotions - sa specialite. | L'attaque de Guerre encaissee sans perdre la main ; le deuil orchestre devient la premiere lecon de la doctrine de la perte servie a Denji. |
 | ~1997 (R5 - La Bombe) | L'operation Reze : ses CORBEAUX (ses contrats) sont l'OEIL du trio de commandement - massacre de la 2e division et bataille planetaire suivis a distance, sans jamais paraitre. Le massacre, tolere par le trone, devient son MARCHEPIED : deux massacres de la SP en quelques mois discreditent la direction en place, son ascension vers la TETE de l'agence s'accelere. Cloture : elle remet au jeune couple d'hybrides les cles de leur penthouse ; avec Makoto, le couple regnant prend une maison plus grande - il leur faudra bientot des chambres en plus (Guerre finira par mourir, puis se reincarner). | Ascension vers la tete de la SP acceleree ; l'oeil-corbeaux du commandement demontre ; foyer agrandi en prevision des reincarnations. |
 | hiver 1997-1998 (R6 - La Guerre) | Le dispositif anti-Assassins tourne sans elle en premiere ligne (a Tokyo, ses CHIENS epaulent Nayuta dans la soumission du demon Chien). A Washington, elle suit la MISE A MORT de Guerre depuis l'helicoptere, avec Makoto, Nayuta et Aki ; le trio royal descend achever la Cavaliere - l'honneur laisse a Aki. Cloture : elle contacte IMMEDIATEMENT des hopitaux a travers le monde, pendant que Makoto exploite son reseau - la CHASSE AUX BERCEAUX est lancee : une gamine aux yeux rouges cercles de jaune va naitre quelque part. | Une Cavaliere insoumise de moins ; la chasse aux berceaux ouverte - la maison aux chambres en plus va servir. |
+| 1998 (R7 - La Famine) | SOMMET ATTEINT : cheffe de la Securite Publique de Tokyo - l'ascension acceleree par les massacres de ~1997 aboutit ; l'agence entiere passe desormais par elle (5e division levee, cf. Factions/Securite_Publique). MERE DE TROIS FILLES : l'appel du ministre kosovar lui livre Asa (extraction montee par Aki), la reddition negociee de Famine accouche de Kiga - deux adoptees, elevees en demones comme Nayuta avant elles. | Le sommet humain conquis ; le foyer triple - la Reine des demons dirige l'agence anti-demons du Japon en y elevant deux Cavalieres. |
 
 FIN_WIKI_PERSONNAGES_CONTROLE

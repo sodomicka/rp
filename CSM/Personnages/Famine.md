@@ -1,6 +1,6 @@
 # Famine
 
-- version : W3
+- version : W4
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -9,7 +9,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Nature : Cavaliere, premiere des trois Cavalieres de societes ; engeance directe d'Effroi. [DIVERGENCE RP]
 - Concept : la peur du MANQUE et du BESOIN sous toutes leurs formes - la faim et la famine d'abord, mais aussi la privation, la dependance et l'ADDICTION (drogue, alcool, et jusqu'au manque d'affection). Le corps ou le coeur prive de ce dont il a besoin. [DIVERGENCE RP - concept elargi]
 - Facette de la souffrance : Famine incarne le MANQUE, l'une des quatre faces de la souffrance portees par les Cavalieres (Controle = psychologique, Guerre = blessures, Famine = manque, Mort = letalite). Frontiere NETTE avec Controle : le besoin, la dependance et l'addiction sont a Famine ; la volonte asservie reste a Controle. On peut avoir besoin sans etre asservi, et etre asservi sans manquer de rien. [DIVERGENCE RP]
-- Statut : active, solitaire a defaut de mieux ; insoumise au trone ; fortement reduite depuis 1984.
+- Statut : MORTE en mars 1998, de la main du Roi, A SA DEMANDE - reddition negociee (cf. Trajectoire). Trajectoire CLOSE. Reincarnation : KIGA (cf. Personnages/Kiga). Auparavant : active, solitaire a defaut de mieux ; insoumise au trone ; fortement reduite depuis 1984.
 
 ## Place dans la lignee
 - Engeance directe d'Effroi, premiere des trois Cavalieres nees des premieres societes : elle precede Guerre, puis Controle. [DIVERGENCE RP]
@@ -44,6 +44,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 - Sait qu'elle a BESOIN de l'humanite ; au fond, prend son parti contre les demons. [CANON]
 - En combat, renversement complet : calme, analytique, confiante - parfois trop (annonce des victoires en trois secondes). [CANON]
 - Orgueil de Cavaliere : detester se laisser depasser est chez elle plus fort que le calcul ; plier devant une Cavaliere plus ancienne restera toujours moins humiliant que servir Effroi sans voix au chapitre. [DIVERGENCE RP]
+- LE MANQUE QU'ELLE INCARNE EST AUSSI LE SIEN : son concept est le besoin et la dependance - et ce qu'elle a toujours voulu, c'est etre traitee comme LA PERSONNE LA PLUS PRECIEUSE AU MONDE par des parents. On le lui a toujours refuse ; Guerre la jugeait "incroyablement faible". C'est ce manque-la qui explique toute sa fin : incapable de l'obtenir pour elle-meme, elle l'achete pour sa suivante, au prix de sa vie (cf. Trajectoire). [DIVERGENCE RP]
 
 ## Histoire (jusqu'au perimetre)
 - Premieres societes : nait premiere des trois Cavalieres de societes, engeance directe d'Effroi - sur Terre, avant la naissance du demon Enfer. [DIVERGENCE RP]
@@ -71,5 +72,7 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| fevrier-mars 1998 (R7 - La Famine) | LA GUETTEUSE : renourrie par la crise qu'elle amorce, elle derive vers Tokyo et habite la marge - haillons, mise de demunie, son camouflage naturel (elle s'habille comme ceux qui la nourrissent). Reperee VITE par Makoto, qui previent la famille et ordonne de ne rien faire : on la laisse regarder. Des semaines durant, elle observe la reincarnation de celle qui la jugeait "incroyablement faible" recevoir ce qu'on lui a toujours refuse a elle - des parents, une place, une soeur. | Vue sans le savoir ; la scene travaille seule (doctrine des opportunites). |
+| mars 1998 (R7 - La Famine) | LA NEGOCIATION : elle se presente d'elle-meme, apres des semaines a se croire discrete. FORTE (la crise alimentaire mondiale qu'elle a amorcee renourrit la peur du manque) mais RESIGNEE (Guerre a son apogee n'a pas suffi a Washington). ULTIMATUM A COMMUTATEUR INVERSE : la crise est DEJA amorcee (engeances vegetales + ravageurs par allegeance - Hanneton, Sauterelle, Cochenille) ; ce n'est pas son mot qui la declenche, c'est son mot qui l'ARRETE - son silence ou sa mort brutale = execution ; les engeances sont AUTONOMES, la regle "la mort emporte les contrats" ne les fauche pas. Sa lacherie assumee devient l'arme : elle n'a pas a vouloir tuer le monde, juste a ne rien faire. Contre du Roi : reinitialisee quand meme, allies traques et tues, les plus desequilibres promis a l'effacement (argument de balance - la doctrine revisee ne mise plus sur Pochita, mais elle ne peut pas le savoir). Elle obtient ce qu'on lui a toujours refuse : une VOIX AU CHAPITRE. Conditions posees et ACCEPTEES : des parents toujours presents, grignotage et calins a volonte, zero jugement sur ses addictions - pour sa suivante, tout ce qui lui a manque a elle. Elle desarme la crise, demande que ce soit MAKOTO qui la tue, et meurt de la main du Roi (9e implication personnelle). | MORTE - Trajectoire close. Ses contrats s'eteignent avec elle ; sa lignee reste fidele au concept, par principe. La reddition accouche de KIGA (nee en Somalie au printemps 1998 ; cf. Personnages/Kiga). La Cavaliere du besoin meurt en achetant a sa suivante la seule chose qui lui a jamais manque : etre la personne la plus precieuse au monde pour des parents. |
 
 FIN_WIKI_PERSONNAGES_FAMINE

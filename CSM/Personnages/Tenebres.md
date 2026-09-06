@@ -1,6 +1,6 @@
 # Tenebres
 
-- version : W3
+- version : W4
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -65,5 +65,6 @@ Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle exi
 |---|---|---|
 | hiver 1997-1998 (R6 - La Guerre) | Pacte SIGNE avec Santa Claus (la demone Poupee) : un fragment de sa chair pour atteindre Makima, contre des pions de Makoto - notamment des hybrides, livres dans son domaine par le transfert en Enfer. La COLLECTE du prix (le tranchage des bras des presents) est interrompue : Effroi, alerte par Enfer, descend en personne - Nayuta a son cote - et reprend ses pions AVANT l'encaissement. Santa n'a jamais paye ; Tenebres ne doit rien. | Pacte jamais consomme : le prix jamais encaisse, le fragment jamais du - aucune dette de part ni d'autre. L'inviolabilite des contrats reste intacte. |
 | hiver 1997-1998 (R6 - La Guerre) | La menace du Roi, servie dans son propre domaine : a la prochaine tentative de l'affaiblir, Effroi le TUE - pour le REINITIALISER lui aussi, des eres de memoire effacees, pire qu'une execution pour l'entite jamais morte. Tenebres les laisse sortir ; puis il LIVRE a Makoto le pantin-Tolka, dernier receptacle de Poupee encore dans son domaine - la soumission jouee en acte, pas en parole. | DESAMORCE : certitude nouvelle installee (affaiblir le trone = mise a mort et reinitialisation), l'epee de Damocles retombee. Vassalite inchangee en facade - mais le calcul ne vaut plus. |
+| 1998 - hiver 1998-1999 (R7 - La Famine) | Hors scene. Son engeance reniee, NEANT (peur du vide, des trous, du zero - "un rate", renie de longue date), monte une secte sous l'Eglise de Chainsaw Man, se fait demasquer et meurt : Tenebres le SAIT et s'en desinteresse d'un bout a l'autre - les demons se soucient peu des allegeances et des aventures de leurs engeances. | Rien ne bouge pour lui ; un rate de sa lignee raye du monde (renaissance en Enfer selon le cycle). cf. Personnages/Neant. |
 
 FIN_WIKI_PERSONNAGES_TENEBRES

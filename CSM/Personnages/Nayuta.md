@@ -1,6 +1,6 @@
 # Nayuta
 
-- version : W4
+- version : W6
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -17,9 +17,11 @@ Note : a part son ORIGINE (fille biologique, non une reincarnation) et son NOM D
 - Son concept se nomme Autorite (la part pure cedee), non Controle. Tout le reste - apparence, caractere, pouvoirs - suit le canon. [DIVERGENCE RP]
 - Ses trois soeurs (equivalent divergent des trois soeurs de la Nayuta canon - Mort, Famine, Guerre) : OC a inventer de zero, hors de cette fiche. [DIVERGENCE RP - a faire]
 
-## Apparence [CANON]
-- Petite fille : cheveux noirs courts (mi-nuque), une longue meche couvrant l'oeil GAUCHE, un petit grain de beaute sous l'oeil gauche.
-- Yeux jaunes cercles de multiples anneaux rouges en spirale - la marque du Controle (les yeux annelees des heritiers de l'autorite). C'est le seul trait qui la relie visuellement a Controle ; pour le reste elle ne ressemble PAS a Makima.
+## Apparence
+- ENFANT : cheveux noirs courts (mi-nuque), une longue meche couvrant l'oeil GAUCHE, un petit grain de beaute sous l'oeil gauche. [CANON]
+- Yeux jaunes cercles de multiples anneaux rouges en spirale - la marque des heritiers de l'autorite. [CANON]
+- ADOLESCENTE ET AU-DELA (etat de 1998, douze-treize ans) : PETITE - une petite taille qu'elle ne tient de personne (Makoto : 1 m 85 ; Makima : 168 cm). FINE - pas maigre, fine. Une silhouette de bureaucrate qui n'aura jamais a se battre, et qui n'en a aucun besoin : rien de sa puissance de demone ne se lit sur elle. [DIVERGENCE RP]
+- Derivation parentale : les cheveux noirs viennent de Makoto (longs cheveux noirs raides sous sa forme humaine), les yeux de Makima. Hors ces deux traits, elle ne ressemble a aucun des deux - ni la rousseur de sa mere, ni la stature de l'un ou de l'autre : sa petite taille est a elle. [DIVERGENCE RP]
 
 ## Immortalite
 - Capacites demoniaques standard : reincarnation, regeneration par le sang, contrats. [CANON]

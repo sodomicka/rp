@@ -1,6 +1,6 @@
 # Vaudous
 
-- version : W5
+- version : W6
 
 Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demons installes en divinites vaudoues - Machette, Aiguille, Griffe - tels qu'ils existent dans le monde, independamment d'une partie. En canon, seuls leurs noms et leurs contrats avec Kishibe existent (chap. 61) ; tout le reste est construction RP.
 
@@ -110,5 +110,6 @@ Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les trois demo
 | Date/ere | Entite | Evenement | Delta d'etat |
 |---|---|---|---|
 | 1990 (R3 - L'Autorite) | Trio | Aki Hayakawa (Securite Publique, Division 2) contracte les trois lames au PRIX STANDARD du trio - les ames des victimes des lames, et la sienne en fin de carriere (pas une annee de vie). Proposition de Makoto, qui lui a deconseille Malediction. | Second contractant notoire de la SP apres Kishibe ; un mouchard involontaire de plus au filet du trone. |
+| 1998 (R7 - La Famine) | Trio | L'hybridation d'Aki au Katana repousse son echeance a l'INFINI : un gardien permanent ne prend jamais sa retraite - l'ame due ne sera pas collectee, sauf chute. Le trio ENCAISSE sans broncher : d'autres contractants, et ca sert le Roi. | Une friandise partie au congelateur ; le guet et le commerce continuent, inchanges. |
 
 FIN_WIKI_PERSONNAGES_VAUDOUS
