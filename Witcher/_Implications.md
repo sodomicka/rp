@@ -63,6 +63,12 @@ Etat : passe 1 CLOSE (2026-09-07). BIBLE B2, Sommaire W2, Resume W2, Personnages
 - Dauk/Wozgor : contact limite avec elfes et nains ; cultes survivants possibles (Melitele, Coram Agh Tera, Veyopatis).
 - De Meure ne peut pas voir entre les dimensions (canon) : a exploiter pour le motif Froid Blanc (passe 2).
 
+## Pour le CODEX V1 (passe 3) - echantillons de voix fournis par le worldbuilder
+
+- Wanda avec de Meure : scene-echantillon en thread (2026-09-07) : "Diiiis...", "et pis", "mon Meure", "mon Drych", le sorceleur rebaptise Gerard / Gervant, demande de massacre en minaudant, moue, bassin contre lui. Registre cute / capricieuse / naive. ANNEXE_STYLE, jamais fiche wiki.
+- Lieu de vie commun ("notre chambre", lit de de Meure ou elle dort seule, lui ne dort jamais) : question de SETUP, non posee, non fixee.
+- Bourse au cou de de Meure : inscrite en fiche comme invariant de tenue.
+
 ## Canari de configuration
 
 - SPEC_BIBLE_LORE_WIKI_v8_4.md ligne 13 : champ Emplacement pointe encore vers v8_3. A corriger sur le depot.
