@@ -1,6 +1,6 @@
 # Sommaire - Witcher
 
-- version : W1
+- version : W2
 
 ## WIKI
 
@@ -10,7 +10,7 @@
 
 ### Racine
 Description : pages transversales de l'univers.
-- Resume.md (W1) - resume de l'histoire du monde (canon) et du fil du RP (divergences actees)
+- Resume.md (W2) - resume de l'histoire du monde (canon) et du fil du RP (divergences actees)
 
 ### Lore/
 Description : lore structurel et transversal, canon jeux + livres, avec sections "Dans ce RP".
@@ -26,17 +26,26 @@ Description : bestiaire pertinent au RP.
 
 ### Lieux/
 Description : lieux du monde.
-- Malleore.md (W1) - principaute de la Ligue de Hengfors, pays dauk, decor de l'arc d'intro
+- Malleore.md (W1) - principaute de la Ligue de Hengfors, pays dauk, decor de l'origine de Wanda (R0, intro narree)
+
+### Personnages/
+Description : fiches noyau des entites du monde (neutres, reutilisables entre parties). Trajectoire datee alimentee a chaud arc par arc.
+- Wanda.md (W1) - protagoniste : identite, charadesign, psychologie, magie apparente/reelle, histoire jusqu'a l'ere des jeux, contrat retourne en trois versions, lien asymetrique, reputation regionale
+- Gaunter_de_Meure.md (W1) - fiche neutre canon + origine RP (Di-Marwol, Drych an Droch), pouvoirs, pactes connus, rapport a Wanda, canon 1272 en Trajectoire datee
+
+### Systemes/
+Description : regles de jeu du monde (power scaling, mecaniques).
+- Power_scaling.md (W1) - realite pliee par Wanda : echelle, couts, deplacement, interdits, rapport a de Meure, contre-mesures
 
 ### Chronologie/
 Description : chronologie du monde et calendriers.
 - Chronologie_generale.md (W1) - calendriers AC et p.R., Conjonction, dates de la protagoniste, ere des jeux
 
-### Fiches_Arc/<Prota>/
+### Fiches_Arc/Wanda/
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par PERSPECTIVE de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs `arc precedent` / `arc suivant` de chaque fiche), pas par un index des roadmaps.
-- Aucune fiche d'arc. Dossier a creer en passe 3 ; nom du prota fixe en passe 1.
+- Aucune fiche d'arc. Dossier a creer en passe 3. Origine et ellipse = R0 narre, sans fiche d'arc.
 
-> NON INDEXES : `_Implications.md` (journal de travail, jamais fetche en narration), `Roadmap/<Prota>/` (sources de build, lues par listing direct du dossier), `Parties/<Partie>/Memoires/` (archives narratives interdites en jeu).
+> NON INDEXES : `_Implications.md` (journal de travail, jamais fetche en narration), `Roadmap/Wanda/` (sources de build, lues par listing direct du dossier), `Parties/<Partie>/Memoires/` (archives narratives interdites en jeu).
 
 ## PARTIES (Partie<n>)
 

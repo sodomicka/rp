@@ -1,6 +1,6 @@
 # Resume - Witcher
 
-- version : W1
+- version : W2
 
 ## Le monde tel qu'etabli (canon jeux, livres en socle)
 
@@ -14,10 +14,11 @@
 
 ## Le fil du RP (divergences actees)
 
-- En 5 AC nait, dans une tribu dauk de Malleore, une fille dont la magie innee s'eveille a 8 ans : en apparence une magie shamanique maladroite, en realite la capacite de plier la realite a sa volonte. La tribu la juge exces a rendre a la nature et l'offre en sacrifice au Spriggan qu'elle venere.
-- Gaunter de Meure vient pour cette ame offerte, trouve une enfant brisee qui supplie de mourir, massacre village et Spriggan pour venger son plaisir gache, et l'abandonne.
-- Elle survit seule, s'inspire du charnier et massacre au hasard "en son nom" pendant des annees, croyant l'honorer. A 19 ans, il revient, intrigue, en fait son executante sans ethique et lui propose un contrat. Elle en retourne les termes : il voulait son ame, il obtient sa devotion eternelle, et doit donc la rendre immortelle. Premiere connue a l'avoir battu. Age fige : 19 ans.
-- Pendant environ 1400 ans (ellipse), elle remplit ses contrats, aime tuer, et l'aime lui, obsessionnellement, se tenant pour l'epouse legitime du diable ; il n'aime que le pari.
-- A l'ere des jeux, de Meure, qui sait ou est Ciri et veut empecher le Froid Blanc (un monde gele ne fournit plus d'ames), l'envoie aupres de Geralt pour s'en assurer, sans le dire a quiconque sauf a elle. Le Sang Ancien et Ciri auront leur role. Suite : roadmaps (passe 2).
+- Gaunter de Meure lui-meme n'a pas toujours ete un dieu : avant la Conjonction, un Aen Seidhe dont nul ne se souvient, pas meme lui, est sacrifie par un culte de son peuple et lie a l'aspect temporel du Chaos. Il renait Di-Marwol, "plus-mortel", detruit le culte et son sanctuaire, et court le monde sous mille noms. Les Aen Seidhe le nomment plus tard Drych an Droch, "le reflet du mauvais". Quiconque retrouve son vrai nom est massacre.
+- En 5 AC nait, dans une tribu dauk de Malleore, Wanda : une fille dont la magie innee s'eveille a 8 ans, en apparence une magie shamanique maladroite, en realite la capacite de plier la realite a sa volonte. La tribu la juge exces a rendre a la nature et l'offre en sacrifice au Spriggan qu'elle venere.
+- Gaunter de Meure vient pour cette ame offerte, trouve une enfant brisee qui supplie de mourir, massacre village et Spriggan pour venger son plaisir gache, et l'abandonne. Pour elle, il l'a sauvee : un dieu misericordieux et violent. Elle fait de sa violence sa signature.
+- Elle survit seule, massacre au hasard "en son nom" pendant des annees, et cherche son vrai nom avec une rigueur monastique. Elle le trouve ; la folie la frole sans la prendre. A 19 ans, il revient, intrigue, et lui propose un pacte pour son ame. Elle le retourne : elle s'offre corps et ame contre un service aussi long que sa vie a lui, et l'appelle Di-Marwol - sans peur, sans jugement, sans pitie. Il accepte. Il doit la garder en vie : age fige, 19 ans. Premiere a l'avoir battu ; personne ne le saura jamais.
+- Pendant environ 1400 ans (ellipse, R0 narre), elle remplit ses contrats, aime tuer, et l'aime lui, obsessionnellement. Il l'apprecie grandement, la cajole avec affection, la voit en alliee ; jamais en amante. Le Continent la connait sous d'autres noms : la Faucheuse, la Dame Ecarlate, Aen Cael Dhoine, Vandja soeur de Freya a Skellige ou elle est entree au pantheon.
+- A l'ere des jeux, quasi-deesse, de Meure, qui sait ou est Ciri et veut empecher le Froid Blanc (un monde gele ne fournit plus d'ames), l'envoie aupres de Geralt pour s'en assurer, sans le dire a quiconque sauf a elle. Le Sang Ancien et Ciri auront leur role. Suite : roadmaps (passe 2).
 
 FIN_WIKI_RESUME
