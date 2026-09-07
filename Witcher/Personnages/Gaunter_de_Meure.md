@@ -17,6 +17,7 @@ Fiche NEUTRE (Personnages/). Personnage canon (The Witcher 3, Hearts of Stone ; 
 ## Description physique
 
 - Forme habituelle : homme de taille et corpulence moyennes, crane rase, yeux bruns, tenue de vagabond. Concu pour se fondre dans le decor et etre oublie.
+- Bourse de cuir portee au cou par un cordon : invariant de sa tenue, plus recurrent encore que la cuillere (detail visuel du jeu, confirme par le worldbuilder ; absent des pages texte).
 - Cuillere en bois toujours sur lui. cf. BIBLE SB7.
 - Forme vraie, entrevue quand Geralt le tire hors du miroir d'eau : yeux de serpent, pommettes et machoire demoniaques. Parle alors trois langues (canon : d'un autre monde) ; [DIVERGENCE RP] langues de trois peuples eteints chez qui il a recolte des ames.
 - Se deguise a volonte : mendiant, paysan, aristocrate, arbaletrier, sans que personne ne le remarque.

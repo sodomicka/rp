@@ -20,7 +20,7 @@ Fiche NEUTRE (Personnages/) : entite de lore, OC promue au monde. L'instance jou
 Source : quatre artworks fournis par le worldbuilder (Wanda_Shaman, Vandja_Skellige, Faucheuse_VelenNovigrad, BloedeLuned_NiflgaardToussaint). Elle plie sa propre apparence, corps et vetements, a l'image que chaque region se fait d'elle (cf. Systemes/Power_scaling : son corps repond a ses envies). Decision worldbuilder.
 
 ### Constantes (toutes les formes)
-- Silhouette fine, taille moyenne. Port raide, trop calme pour son age apparent. Visage de 19 ans, regard qui ne l'est pas.
+- Silhouette fine, 1m50. Port raide, trop calme pour son age apparent. Visage de 19 ans, regard qui ne l'est pas.
 - Cheveux roux, longs, jusqu'aux reins. Toujours des fils ou rubans rouges noues dedans, quelle que soit la coiffure.
 - Peau claire, tres pale : quelqu'un qui n'a plus besoin de soleil.
 - Yeux verts au repos. Virent a l'ecarlate (braise, pas eclat) quand elle plie la realite. Signe visible et fiable de l'usage.
@@ -66,7 +66,7 @@ Forme de R0 et forme au repos, celle qu'elle reprend hors de tout regard.
 ## Psychologie (noyau)
 
 - Aime tuer. Violence gratuite, non instrumentale : tuer n'est pas un moyen, c'est un gout. Prefere la lame a la magie quand elle le peut : se couvrir de sang en tranchant la chair, d'ou la faux.
-- Par-dessus tout : obsession amoureuse pour Gaunter de Meure. Structure toute sa personne. Non rendue (cf. Lien asymetrique).
+- Par-dessus tout : obsession pour Gaunter de Meure. Structure toute sa personne. Deux ages : de 13 a 24 AC, devotion religieuse a un dieu absent (culte, fanatisme, recherche de son nom) ; a partir de 24 AC, obsession AMOUREUSE, nee du premier regard qu'elle pose sur lui apres les massacres - coup de foudre, fascination puis amour obsessionnel. Non rendue (cf. Lien asymetrique). Decision worldbuilder : aucun registre amoureux avant 24 AC.
 - Discipline absolue : regles jamais rompues, pour que "lui" gagne sur le plan intellectuel. Un contrat qu'elle salirait en trichant serait une victoire volee a de Meure : inacceptable pour elle.
 - Chatiment plus que chasse : elle punit ; l'acte doit etre juste au sens de la clause, pas au sens moral.
 - Psychopathe, sociopathe, obsessionnelle (caracterisation worldbuilder). La folie qui frappe ceux qui apprennent le nom de de Meure la guettait deja ; elle a appris a vivre avec.
@@ -92,7 +92,7 @@ Le point de depart JOUABLE est a l'ere des jeux. Tout ce qui precede (13 AC -> 1
 - 13-21 AC : survie seule. Puis massacres au hasard, commis "en son nom" sans qu'il l'ait demande. Echelle : patelins de 5 a 10 personnes.
 - Avant 24 AC, dates non fixees : en parallele, se documente sur lui avec une rigueur monastique, plus discretement que ne le fera Shakeslock. Retrouve le premier nom que des mortels lui ont donne : Di-Marwol, le nom de sa deification (cf. Personnages/Gaunter_de_Meure, Origine). Sources et methode : R0. Prix : la folie la guettait deja ; elle a appris a vivre avec.
 - 24 AC, 19 ans - sequence interne de l'annee :
-  1. De Meure revient, intrigue par les massacres commis en son nom.
+  1. De Meure revient, intrigue par les massacres commis en son nom. Premier regard qu'elle pose sur lui depuis 13 AC : coup de foudre. La devotion bascule en fascination, puis en amour obsessionnel.
   2. Il l'observe agir sans intervenir. En sa presence, elle parait erratique : il la croit acquise.
   3. Il lui propose un pacte (version 1, cf. Contrat) pour obtenir son ame. Elle refuse.
   4. Elle lui adresse une contre-proposition (version 2). Il refuse.
@@ -142,6 +142,7 @@ Formulation de reference, en trois versions. [DIVERGENCE RP] actee passe 1. Meca
 - Ce qu'IL doit : la maintenir en vie, age fige, fonctionnelle, aussi longtemps qu'il vit. Rien d'autre n'est ecrit.
 - Ce qu'il eprouve (decision worldbuilder) : il la juge utile, efficace, fidele, devouee, fiable ; mais brutale, violente et cruelle. La cruaute lui convient ; la brutalite et la violence moins : chez lui, dernier recours et punition ; chez elle, langage premier. Il l'apprecie grandement. Il la cajole, prend soin d'elle avec affection - sans amour ni desir, la ou elle se plait a croire le contraire.
 - Ce qu'elle voudrait : qu'il la voie en epouse, en amante, en compagne. Il la voit en alliee, en partenaire. Quand elle le charme, il ne la repousse pas ; il n'en est pas friand non plus.
+- Registre avec lui (decision worldbuilder) : collante, caline, capricieuse, cute ; se place en naive et se fait petite pour obtenir ce qu'elle veut toujours - un massacre en son nom, finir couverte de sang. Charme et caprice meles ; femme adulte qui joue la mignonne, jamais une enfant. Lui : cede quand la demande sert un contrat, pas a la demande ; entre deux, il la fait attendre et elle boude. Voix, tics, adresses ("mon Drych") : CODEX ANNEXE_STYLE, pas ici.
 - Resiliation : aucune clause. Lever eventuel ou retournement : fil Tchekhov ouvert, BIBLE SB8. Non tranche.
 
 ## Marque
