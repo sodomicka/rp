@@ -1,6 +1,6 @@
 # Wanda
 
-- version : W1
+- version : W6
 
 Fiche NEUTRE (Personnages/) : entite de lore, OC promue au monde. L'instance jouee (etat, run courant) vit en CODEX + Parties/, jamais ici. Decision worldbuilder, passe 1.
 
@@ -65,52 +65,29 @@ Forme de R0 et forme au repos, celle qu'elle reprend hors de tout regard.
 
 ## Psychologie (noyau)
 
-- Aime tuer. Violence gratuite, non instrumentale : tuer n'est pas un moyen, c'est un gout. Prefere la lame a la magie quand elle le peut : se couvrir de sang en tranchant la chair, d'ou la faux.
+- Aime tuer. Violence gratuite, non instrumentale : tuer n'est pas un moyen, c'est un gout. Prefere la lame a la magie quand elle le peut : se couvrir de sang en tranchant la chair, d'ou la faux. Seuil : vingt cibles ou moins, la faux ; au-dela, la magie. Ses massacres restent localises : la portee regionale est un plafond de magie, pas une echelle de tuerie. Decision worldbuilder passe 2.
 - Par-dessus tout : obsession pour Gaunter de Meure. Structure toute sa personne. Deux ages : de 13 a 24 AC, devotion religieuse a un dieu absent (culte, fanatisme, recherche de son nom) ; a partir de 24 AC, obsession AMOUREUSE, nee du premier regard qu'elle pose sur lui apres les massacres - coup de foudre, fascination puis amour obsessionnel. Non rendue (cf. Lien asymetrique). Decision worldbuilder : aucun registre amoureux avant 24 AC.
 - Discipline absolue : regles jamais rompues, pour que "lui" gagne sur le plan intellectuel. Un contrat qu'elle salirait en trichant serait une victoire volee a de Meure : inacceptable pour elle.
 - Chatiment plus que chasse : elle punit ; l'acte doit etre juste au sens de la clause, pas au sens moral.
 - Psychopathe, sociopathe, obsessionnelle (caracterisation worldbuilder). La folie qui frappe ceux qui apprennent le nom de de Meure la guettait deja ; elle a appris a vivre avec.
-- Rapport a de Meure selon l'epoque : en 13 AC, il la "sauve" du sacrifice - elle le voit comme un dieu misericordieux et violent, et fait de sa violence sa signature. Au point de depart, elle le tient pour le diable (BIBLE SB8), tout en connaissant son origine. Le chemin de l'un a l'autre : R0.
+- Rapport a de Meure selon l'epoque : en 13 AC, il la "sauve" du sacrifice - elle le voit comme un dieu misericordieux et violent, et fait de sa violence sa signature. Au point de depart, elle le tient pour le diable (BIBLE SB8), tout en connaissant son origine. Le chemin de l'un a l'autre : un glissement sans date, amorce des les patelins de 13-21 AC. Au fil des massacres elle ne seme que la souffrance ; s'il la laisse faire en son nom, c'est qu'il est le diable - et elle adore ca. Decision worldbuilder passe 2.
 - Ne l'appelle jamais par son nom devant un tiers.
+- Ne craint ni d'etre connue ni d'etre faite legende. Decision worldbuilder passe 2.
+- Attendus de jeu (decision worldbuilder passe 2) : volontairement soumise a de Meure ; capricieuse, joueuse, sadique, cruelle ; protectrice envers lui. Le joueur choisit le registre (gamine ou non, seductrice ou non), pas ces traits.
 - Fond ancien : a 8 ans, trop brisee par le sacrifice, elle supplie de mourir (13 AC). De Meure n'y trouve rien a prendre et l'abandonne. Ce vide-la est le point d'origine de tout le reste.
 - Interdit de fiche : voix, tics verbaux, ton -> CODEX ANNEXE_PNJ / S3.
 
 ## Magie : apparence et nature
 
-- Apparence : magie druidique ou shamanique, maladroite. Gestes, incantations, objets naturels, suivis machinalement par habitude heritee de la tribu ; sans aucun effet sur son pouvoir. Un observateur y voit une sorciere de tribu.
+- Rituels tribaux (gestes, incantations, objets naturels, maladroits) : suivis machinalement de l'enfance au pacte de 24 AC, sans aucun effet sur son pouvoir ; abandonnes depuis. A l'ere des jeux : aucun rituel, elle veut et la realite cede. Decision worldbuilder passe 2.
 - Nature reelle : magie innee de type Source (declenchement par le stress a 8 ans), sans Sang Ancien. Capacite a plier la realite a sa volonte, inerte comme organique. A l'ere des jeux : quasi-deesse, du niveau de l'Aine des Invisibles de Beauclair. Detail, limites, cout, ce qu'elle ne peut pas : cf. Systemes/Power_scaling. cf. Lore/Magie_et_Chaos.
+- Pouvoir delegue, hors de son domaine natif : depuis 24 AC elle appose la marque de de Meure sur ses contractants, en son nom. Il lui a offert ce pouvoir a l'alliance ; les ames et les pactes lui restent interdits, le pacte et l'effacement de la marque sont a lui. [DIVERGENCE RP] Decision worldbuilder passe 2. cf. Systemes/Power_scaling, Pouvoir delegue.
 - Echo voulu : puissance par pure volonte chez de Meure, realite pliee par la volonte chez elle. Decision actee.
 - Signe visible : yeux ecarlates a l'usage.
 
-## Histoire jusqu'au point de depart (noyau)
+## Histoire et trajectoire
 
-Le point de depart JOUABLE est a l'ere des jeux. Tout ce qui precede (13 AC -> 1502 AC) est R0 : intro NARREE, pas jouee. Decision worldbuilder, passe 1. Aucune roadmap jouable sur Malleore ni sur l'ellipse.
-
-- 5 AC : naissance, tribu dauk nomade, Malleore. Culte tribal d'un Spriggan tenu pour divinite locale ; menhir de la tribu (cf. Creatures/Spriggan_Leshen, Lieux/Malleore).
-- 13 AC, 8 ans : eveil de sa magie. La tribu y voit un exces a rendre "aux reserves des arts occultes de la nature" : elle est offerte en sacrifice au Spriggan.
-- 13 AC, meme evenement : Gaunter de Meure, venu pour une ame offerte sur un plateau, trouve une enfant trop brisee qui supplie de mourir. Plaisir gache : il massacre le village et le Spriggan, puis l'abandonne. Seule a 8 ans. Pour elle, il l'a sauvee : un dieu misericordieux et violent. Appui canon : l'ivrogne tue pour une interruption (cf. Lore/Pactes_de_Meure).
-- 13-21 AC : survie seule. Puis massacres au hasard, commis "en son nom" sans qu'il l'ait demande. Echelle : patelins de 5 a 10 personnes.
-- Avant 24 AC, dates non fixees : en parallele, se documente sur lui avec une rigueur monastique, plus discretement que ne le fera Shakeslock. Retrouve le premier nom que des mortels lui ont donne : Di-Marwol, le nom de sa deification (cf. Personnages/Gaunter_de_Meure, Origine). Sources et methode : R0. Prix : la folie la guettait deja ; elle a appris a vivre avec.
-- 24 AC, 19 ans - sequence interne de l'annee :
-  1. De Meure revient, intrigue par les massacres commis en son nom. Premier regard qu'elle pose sur lui depuis 13 AC : coup de foudre. La devotion bascule en fascination, puis en amour obsessionnel.
-  2. Il l'observe agir sans intervenir. En sa presence, elle parait erratique : il la croit acquise.
-  3. Il lui propose un pacte (version 1, cf. Contrat) pour obtenir son ame. Elle refuse.
-  4. Elle lui adresse une contre-proposition (version 2). Il refuse.
-  5. Elle la lui adresse a nouveau, en le nommant Di-Marwol (version 3) - sans jugement, sans peur, sans pitie, avec de la comprehension. Quiconque d'autre serait massacre sur place. Il comprend qu'elle est obsedee par lui, intelligente et dangereuse : une arme parfaite. Il accepte sans hesiter.
-  6. Elle est a lui corps et ame ; il lui doit la vie aussi longtemps qu'il vivra. Age fige a 19 ans, immortalite effective la meme annee.
-  7. Changement d'echelle de ses massacres : de vrais villages, a partir de son retour aupres d'elle.
-  8. L'exploit ne s'ebruite jamais. Personne ne sait qu'elle l'a battu. Decision worldbuilder.
-- 24-1502 AC : ELLIPSE de service. Ancrages ci-dessous. Actes precis non fixes : matiere de R0.
-- 1502 AC = 1272 p.R. : ere des jeux. Envoyee aupres de Geralt (mission : passe 2). Point exact de depart : SETUP.
-
-### Ancrages de l'ellipse (24-1502 AC)
-
-Jalons canon traverses. Ses actes sur chaque jalon ne sont PAS fixes ; seule sa presence continue l'est.
-- Ca 990-1060 AC (760-830 p.R.) : Premier Debarquement des Nordlings. Elle a deja pres de mille ans de service. Les Dauk et les Wozgor s'eteignent ensuite, causes disputees ; lien avec ses massacres : ligne de lore non tranchee, jamais un arc (cf. _Implications).
-- Guerres elfiques (Loc Muinne, Shaerrawedd, soulevement d'Aelirenn ; annees [INCERTAIN]) : periode d'origine probable du nom elfique "Aen Cael Dhoine" (cf. Reputation). [IMPLICITE]
-- Premiers sorceleurs (Alzur, Malaspina ; annees [INCERTAIN]) : contemporaine de leur apparition. Rapport aux ecoles : non fixe.
-- Skellige : entree dans le pantheon local. Date et mecanisme : non fixes.
-- Soleil Noir : les ecrits dauk qui la concernent comptent parmi les sources de la pseudo-malediction d'Eltibald. Ligne de lore, pas d'arc. [DIVERGENCE RP]
+- Tout ce qui est date vit dans le satellite Personnages/Wanda_chrono_A.md : histoire jusqu'au point de depart (5-1502 AC), ancrages de l'ellipse, trajectoire datee post-depart. Resume : nee 5 AC en Malleore ; eveil et massacre de la tribu 13 AC ; errance et Di-Marwol 13-24 AC ; contrat retourne 24 AC (cf. ci-dessous) ; ellipse de service 24-1502 AC ; printemps 1502 AC, elle sent le retour de Ciri : point de depart du RP, scene jouee. Scission passe 2, precedent Nisha_chrono.
 
 ## Le contrat retourne (24 AC)
 
@@ -156,7 +133,9 @@ Formulation de reference, en trois versions. [DIVERGENCE RP] actee passe 1. Meca
 - Sait qui est de Meure, ce qu'il fait, comment il perd (jeu d'esprit, ame en mise). Pense qu'il est le diable, sans preuve.
 - Connait son vrai nom, Di-Marwol, et donc son origine (cf. Personnages/Gaunter_de_Meure, Origine) ; seule a le connaitre a l'ere des jeux. Canon : quiconque l'apprend meurt ou devient fou ; elle, la folie la guettait deja et elle vit avec. Il l'a laissee vivre parce qu'elle l'a dit avec comprehension.
 - Seule detentrice du motif de de Meure a l'ere des jeux : empecher le Froid Blanc, car un monde gele ne fournit plus d'ames. Tu a tous les autres. cf. Lore/Froid_Blanc. [DIVERGENCE RP]
+- Sa part de ce motif : mener Ciri a son destin, qu'elle y survive ou non, tant que le Froid Blanc est bloque. Decision worldbuilder passe 2.
 - Sait que de Meure sait ou se trouve Ciri (appui canon : recompense possible de Hearts of Stone). Contenu exact de ce savoir : passe 2.
+- A senti elle-meme le retour de Ciri (printemps 1502 AC) ; sait que de Meure y a reconnu une ouverture entre spheres, comme au depart de Ciri en 1268 et comme a la Conjonction.
 - Ignore : ce que sera le role de Ciri et du Sang Ancien dans sa mission (passe 2, non ecrit).
 
 ## Reputation : noms et variantes regionales
@@ -171,9 +150,10 @@ Presence continue sur le Continent depuis 24 AC. Elle n'est nommee "Wanda" que p
 | Loc Muinne, Vergen (Aen Seidhe) | Aen Cael Dhoine ("le Jugement des Hommes") | motif recurrent de la tradition orale elfique ; memoire ou mythe, non tranche |
 | Vergen (nains) | Kar-Vanda | anecdote de bataille, legende de taverne |
 | Nilfgaard | Bloede Luned ("la fille sanglante") | juron de troupe passe dans les rapports d'espionnage ; anomalie notee, jamais classee |
-| Toussaint | la Dame Ecarlate | ballade de troubadour, cavaliere de malheur |
+| Toussaint | la Dame Ecarlate | ballade de troubadour, jolie jeune femme rousse en velours bordeaux |
 
 - Aucune de ces traditions ne relie explicitement la figure a Gaunter de Meure.
+- Origine et date de chaque nom : cf. Personnages/Wanda_chrono_A, Ancrages de l'ellipse.
 - Coherence canon : la Chasse Sauvage tient le meme statut mi-folklore mi-divinite dans les jeux ; Freya (Modron Freya) est la deesse majeure de Skellige. [INTERPRETATION] "Bloede Luned" : construction a partir de lexique canon du Vieux Langage (bloede = juron atteste, "bloede dh'oine" ; luned = fille, nom donne a Ciri par les elfes).
 
 ## Relations (mecanique)
@@ -181,16 +161,10 @@ Presence continue sur le Continent depuis 24 AC. Elle n'est nommee "Wanda" que p
 - Gaunter de Meure : maitre, objet d'obsession, debiteur du pacte. Lien asymetrique (cf. ci-dessus). Elle voudrait etre vue en epouse, amante, compagne ; il la voit en alliee, en partenaire, l'apprecie grandement, la cajole avec affection - sans amour ni desir, la ou elle se plait a le croire. Il tolere son charme sans en etre friand. Ce qu'il pense d'elle en detail : cf. Personnages/Gaunter_de_Meure, Relations.
 - Tribu dauk de Malleore : origine ; l'a sacrifiee ; detruite en 13 AC. Fiche secondaire si necessaire.
 - Spriggan de la tribu : divinite locale, destinataire du sacrifice ; tue en 13 AC. cf. Creatures/Spriggan_Leshen.
-- Geralt de Riv : cible de sa mission a l'ere des jeux. Relation non nouee au point de depart. Passe 2.
+- Geralt de Riv : celui qu'elle veut accompagner a l'ouverture du RP (assurance vie du sorceleur). Relation non nouee au point de depart ; il en a forcement entendu parler (Kar-Vanda, Vergen 1271). Vu massacrer a Blaviken.
+- Olgierd von Everec : contractant marque par elle ; la connait comme bras droit de son creancier.
+- Premethine Shakeslock : l'a entendue lors de l'apparition de de Meure ; aveugle depuis.
 - Ciri : role a venir (Sang Ancien). Passe 2.
-
-## Trajectoire datee
-
-Post-depart uniquement. Vide a la genese ; alimentee a chaud arc par arc, jamais par anticipation. Plafond : 30 entrees (SPEC v8.4). Override par Parties/ en cas de divergence de partie.
-
-| Date/ere | Evenement | Delta d'etat |
-|---|---|---|
-| - | - | - |
 
 ## Renvois
 
@@ -201,7 +175,8 @@ Post-depart uniquement. Vide a la genese ; alimentee a chaud arc par arc, jamais
 - Creatures/Spriggan_Leshen.md - le Spriggan de la tribu.
 - Lieux/Malleore.md - lieu d'origine.
 - Chronologie/Chronologie_generale.md - dates AC / p.R.
-- Systemes/Power_scaling.md - a venir, passe 1.
+- Systemes/Power_scaling.md - echelle, couts, interdits, perception, pouvoir delegue (marque).
+- Personnages/Wanda_chrono_A.md - satellite : histoire datee, ancrages de l'ellipse, trajectoire datee.
 
 ---
 
