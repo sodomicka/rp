@@ -1,6 +1,6 @@
 # Gaunter de Meure
 
-- version : W1
+- version : W5
 
 Fiche NEUTRE (Personnages/). Personnage canon (The Witcher 3, Hearts of Stone ; implicite dans Blood and Wine et Thronebreaker). Source : witcher.fandom.com (EN), page fournie par le worldbuilder. Mecanique des pactes : cf. Lore/Pactes_de_Meure (la fiche ne la repete pas). Divergences RP balisees.
 
@@ -38,7 +38,8 @@ Fiche NEUTRE (Personnages/). Personnage canon (The Witcher 3, Hearts of Stone ; 
 
 - Pactes contre les ames ; vision de la vraie nature des choses ; arret du temps d'un claquement de mains ; tempete sur commande (navire ofieri) ; maledictions (Marlene, goule tachetee) ; douleur infligee aux fantomes ; maitrise d'un monde-poche (labyrinthe du duel) ; cercle de protection runique ; possession de sang von Everec, origine inconnue.
 - Ne se tue pas ("je ne peux pas etre tue, je reviendrai"). Aucune faiblesse materielle (fer, argent). Seules limites : les termes qu'il accepte, sa parole.
-- Ne peut PAS voir entre les dimensions ; sait tout de la sphere ou il se trouve.
+- Ne peut PAS voir entre les dimensions ; sait tout de la sphere ou il se trouve. [DIVERGENCE RP] Percoit une ouverture entre spheres depuis l'interieur : il a reconnu celle du retour de Ciri (printemps 1272) par comparaison avec le depart de Ciri (1268) et avec la Conjonction, qu'il a vue.
+- [DIVERGENCE RP] Depuis 24 AC, delegue a Wanda l'apposition de sa marque, pouvoir offert en son nom ; le pacte et l'effacement de la marque restent a lui. cf. Systemes/Power_scaling, Pouvoir delegue.
 - Faiblesse unique : ne resiste pas a un pacte ou une ame est en jeu, ni a un defi mise sur l'ame. Vaincu, il est banni de la sphere, jamais detruit.
 - Positionnement vis-a-vis de Wanda : cf. Systemes/Power_scaling, Rapport a de Meure.
 
@@ -50,17 +51,20 @@ Fiche NEUTRE (Personnages/). Personnage canon (The Witcher 3, Hearts of Stone ; 
 ## Histoire jusqu'au point de depart
 
 - Millenaires : presence attestee sous d'autres noms, d'autres cultures (Shakeslock).
+- Conjonction des Spheres (0 AC) [DIVERGENCE RP] : temoin, deja Di-Marwol (cf. Origine).
 - 13 AC [DIVERGENCE RP] : Malleore. Venu pour l'ame d'une enfant dauk offerte en sacrifice, la trouve trop brisee pour valoir un pacte ; massacre le village et le Spriggan, l'abandonne.
 - 24 AC [DIVERGENCE RP] : revient vers Wanda, intrigue par ses massacres commis en son nom. Redige un contrat pour son ame ; elle le retourne (corps et ame offerts contre un service aussi long que sa vie a lui) ; il refuse, elle l'emporte sur la lettre ("obtenir", pas "recolter") et en prononcant Di-Marwol - sans jugement, sans peur, sans pitie ; avec de la comprehension. Il la laisse vivre, seule de tous ceux qui ont evoque ce nom. Il obtient une executante permanente, lui doit sa survie. Termes : cf. Personnages/Wanda.
-- 24-1502 AC [DIVERGENCE RP] : emploie Wanda pour ses contrats. Detail : R0, narre.
-- Rivie, date [INCERTAIN] : contrat ecrit d'Amadeus Ritterhof, pacte implicite (Thronebreaker). cf. BIBLE SB7.
+- 24-1502 AC [DIVERGENCE RP] : emploie Wanda pour ses contrats ; elle appose sa marque en son nom. Bras droit aux pactes de Ritterhof et d'Olgierd, spectatrice chez Shakeslock. Actes de l'ellipse : cf. Personnages/Wanda_chrono_A, Ancrages.
+- Rivie, avant 1264 (lettre trouvee a Rivie pendant la campagne de Meve, Thronebreaker) : contrat ecrit d'Amadeus Ritterhof, pacte implicite. cf. BIBLE SB7. [DIVERGENCE RP] Wanda presente, appose la marque.
 - Toussaint, date [INCERTAIN] : en mendiant, maudit Marlene de Trastamara en goule tachetee apres un refus d'hospitalite ; brise sa cuillere avant. [IMPLICITE] canon.
-- Redania, avant 1272 : pacte avec Olgierd von Everec (richesse et rang contre son ame, trois voeux par procuration, echeance "sur la lune") ; Olgierd sacrifie Vlodimir, mort le lendemain ; coeur de pierre, mort d'Iris. Date exacte [INCERTAIN].
+- Redania, 1269 : pacte avec Olgierd von Everec (richesse et rang contre son ame, trois voeux par procuration, echeance "sur la lune") ; Olgierd sacrifie Vlodimir, mort le lendemain ; coeur de pierre, mort d'Iris. Annee : decision worldbuilder passe 2. [DIVERGENCE RP] Wanda presente, appose la marque.
+- Oxenfurt, 1271 : apparait a Shakeslock, qui l'a trop cherche ; le rend aveugle, lui offre un cercle de protection. [DIVERGENCE RP] Wanda presente, spectatrice amusee.
+- Printemps 1272 = 1502 AC [DIVERGENCE RP], avant Blanchefleur (mai) : reconnait l'ouverture entre spheres du retour de Ciri ; Wanda l'a sentie. POINT DE DEPART DU RP : la scene qui suit se joue (elle veut partir aupres de Geralt ; ce qu'il en fait releve du jeu, guide par son motif).
 - Motif a l'ere des jeux [DIVERGENCE RP] : empecher le Froid Blanc ; su de Wanda seule. cf. Lore/Froid_Blanc.
 
 ## Relations (mecanique)
 
-- Wanda : executante liee par pacte retourne ; il lui doit sa survie, rien d'autre. Ce qu'il en pense : utile, efficace, fidele, devouee, fiable ; mais brutale, violente, cruelle. La cruaute lui convient ; la brutalite et la violence moins : chez lui c'est un dernier recours, une punition, chez elle c'est son langage premier. Il l'apprecie grandement. Il la voit en alliee, en partenaire ; elle voudrait qu'il la voie en epouse, amante, compagne. Quand elle le charme, il ne la repousse pas, sans en etre friand. Il la cajole, prend soin d'elle avec affection - pas avec amour ni desir, la ou elle se plait a le croire. Decision worldbuilder.
+- Wanda : executante liee par pacte retourne ; il lui doit sa survie, rien d'autre. Appose sa marque en son nom depuis 24 AC. Ce qu'il en pense : utile, efficace, fidele, devouee, fiable ; mais brutale, violente, cruelle. La cruaute lui convient ; la brutalite et la violence moins : chez lui c'est un dernier recours, une punition, chez elle c'est son langage premier. Il l'apprecie grandement. Il la voit en alliee, en partenaire ; elle voudrait qu'il la voie en epouse, amante, compagne. Quand elle le charme, il ne la repousse pas, sans en etre friand. Il la cajole, prend soin d'elle avec affection - pas avec amour ni desir, la ou elle se plait a le croire. Decision worldbuilder.
 - Geralt : contractant 1272, marque.
 - Olgierd von Everec : contractant, ame a l'echeance.
 - Premethine Shakeslock : chercheur, victime par "recompense".
@@ -73,13 +77,14 @@ Post-depart. Canon 1272 inscrit directement comme canon par defaut (decision wor
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| printemps 1272, avant mai | [DIVERGENCE RP] R0 etape 6 (jouee, issue acquise) : accepte que Wanda parte aupres de Geralt, assurance vie du sorceleur au service de son motif | Wanda en mission |
 | mai 1272 | auberge de Blanchefleur : renseigne Geralt sur Yennefer, refuse toute recompense ("un jour j'aurai besoin de ton aide"), disparait | Geralt lui doit une faveur implicite |
-| 1272 | navire ofieri : Geralt captif pour la mort du prince (crapaud maudit) ; marque au visage contre une "petite faveur" ; tempete, naufrage, evasion. [DIVERGENCE RP] la tempete est l'oeuvre de Wanda sur son ordre (cuillere brisee = il ordonne, elle execute) ; a detailler en roadmap passe 2 | Geralt marque, contractant |
+| 1272 | navire ofieri : Geralt captif pour la mort du prince (crapaud maudit) ; marque au visage contre une "petite faveur" ; tempete, naufrage, evasion. [DIVERGENCE RP] la tempete est l'oeuvre de Wanda sur son ordre (cuillere brisee = il ordonne, elle execute) : elle libere Geralt au prix du contrat. Wanda apparait a bord et appose la marque ; contrat offert au carrefour de Yantra, avant le domaine Garin (decision worldbuilder ; detail en roadmap HoS) | Geralt marque, contractant |
 | 1272 | carrefour de Yantra, minuit : Geralt engage comme procuration pour les trois voeux d'Olgierd | - |
 | 1272 | aide Geralt sur le premier voeu (fiole de sang, invocation de Vlodimir) ; le laisse se debrouiller pour la maison Borsodi ; present sous plusieurs deguisements pendant le casse | - |
 | 1272 | mariage : chasse Vlodimir du corps de Geralt en torturant son fantome | - |
 | 1272 | taverne de l'Alchimie, Oxenfurt : arrete le temps, dit n'etre ni demon ni djinn, refuse son nom, convoque Olgierd au temple de Lilvani, tue l'ivrogne d'une cuillere | - |
-| 1272 | Shakeslock : rendu aveugle par ses recherches ; cercle de protection offert, poutre sabotee ; meurt en sortant du cercle | Shakeslock mort |
+| 1272 | Shakeslock (aveugle, dans son cercle : cf. Histoire) : poutre sabotee ; meurt en sortant du cercle | Shakeslock mort |
 | 1272 | temple de Lilvani : mosaique de lune, contrat brule. Selon choix : prend l'ame d'Olgierd (recompense sans piege a Geralt, marque effacee) ou perd le duel d'enigme (miroir incassable = eau), banni de la sphere. [INTERPRETATION] choix non fixe avant roadmap | ame d'Olgierd prise, ou bannissement |
 | fin 1272 | epilogue : achete un calice a des nains de l'Ile des Brumes ("M. Miroirette") ; trace de presence apres le bannissement eventuel | - |
 
