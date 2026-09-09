@@ -1,6 +1,6 @@
 # Malleore
 
-- version : W1
+- version : W2
 
 ## Situation
 
@@ -24,7 +24,9 @@
 
 ## Dans ce RP
 
-- Foret primordiale de Malleore, 5-13 AC : tribu dauk de la protagoniste, culte d'un Spriggan tenu pour divinite locale, menhir de la tribu. Sacrifice de l'enfant a 8 ans (13 AC), massacre du village et du Spriggan par Gaunter de Meure la meme annee. cf. Creatures/Spriggan_Leshen, fiche protagoniste (a venir).
-- Statut : decor de l'ARC D'INTRO (origine jouable, 13-24 AC). Decision worldbuilder : aucun arc ulterieur ne rouvre ce lieu. Etat du site a l'ere des jeux : non defini, sans necessite.
+- Convention geographique : en 5-24 AC, aucun royaume n'existe (Premier Debarquement vers 990-1060 AC). "Malleore" designe le territoire, pas la principaute.
+- Foret primordiale de Malleore, 5-13 AC : tribu dauk nomade de Wanda, culte d'un Spriggan tenu pour divinite locale, menhir de la tribu. Sacrifice de l'enfant a 8 ans (13 AC), massacre du village et du Spriggan par Gaunter de Meure la meme nuit. cf. Creatures/Spriggan_Leshen, Personnages/Wanda, Personnages/Wanda_chrono_A.
+- 13-24 AC : point de depart de l'errance de Wanda, de Malleore vers Jamurlak puis la future Redania.
+- Statut : decor des etapes 1 et 2 de R0, NARREES, jamais jouees (decision worldbuilder passe 1, precisee passe 2). Decision worldbuilder : aucun arc ulterieur ne rouvre ce lieu. Etat du site a l'ere des jeux : non defini, sans necessite.
 
 FIN_WIKI_LIEUX_MALLEORE
