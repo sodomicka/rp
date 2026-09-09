@@ -1,11 +1,11 @@
 # Pactes de Gaunter de Meure
 
-- version : W1
+- version : W3
 
 ## Le personnage (resume canon)
 
 - Gaunter de Meure (VO : Gaunter O'Dimm), dit Maitre Miroir ou l'Homme de Verre. Jeux uniquement : The Witcher 3 (prologue) et Hearts of Stone ; echos dans Blood and Wine, Thronebreaker et Gwent. Absent des livres.
-- Se presente comme un ancien marchand de miroirs devenu vagabond a cause de la guerre. Rencontre Geralt en mai 1272 a l'auberge de Blanchefleur ([INCERTAIN] nom FR a verifier) ; sait qui sont Geralt et Yennefer par les ballades de Jaskier ; le quitte sur l'idee que les gens de la route s'entraident et qu'un jour il aura besoin de lui.
+- Se presente comme un ancien marchand de miroirs devenu vagabond a cause de la guerre. Rencontre Geralt en mai 1272 a l'auberge de Blanchefleur (FR officiel de White Orchard, verifie) ; sait qui sont Geralt et Yennefer par les ballades de Jaskier ; le quitte sur l'idee que les gens de la route s'entraident et qu'un jour il aura besoin de lui.
 - Puissance : pactes contre des ames ; arrete le temps d'un claquement de mains ; sa puissance releverait d'un acte de volonte plutot que de magie ([INCERTAIN] extrait tronque). Meprise les sorts ("hocus-pocus enfantin") ; ne repond pas quand on lui demande s'il est djinn ou mage.
 - Nature : "le Mal incarne" selon le professeur Premethine Shakeslock (Oxenfurt). Gaunter O'Dimm n'est qu'un de ses noms, liste remontant a des milliers d'annees et d'innombrables cultures. On ne le tue pas. Ambiguite voulue par CD Projekt.
 - Marque : brule une marque au visage de ses contractants (Geralt, Olgierd). Cuillere en bois toujours sur lui : tue avec (ivrogne qui interrompt sa rencontre avec Geralt), la brise avant de maudire (navire nilfgaardien qui retenait Geralt ; mendiant qui maudit Marlene de Trastamara, Blood and Wine).
@@ -30,9 +30,12 @@
 
 ## Dans ce RP
 
+- [DIVERGENCE RP] Origine : un Aen Seidhe efface de l'histoire, sacrifie par un culte de son peuple avant la Conjonction et lie a l'aspect temporel du Chaos ; renait Di-Marwol ("plus-mortel", vrai nom), nomme plus tard Drych an Droch ("le reflet du mauvais") par les Aen Seidhe. Temoin de la Conjonction. Quiconque evoque son vrai nom est massacre, Wanda exceptee. L'ambiguite canon reste entiere pour le monde : Wanda seule connait cette origine. Detail : cf. Personnages/Gaunter_de_Meure.
 - [DIVERGENCE RP] 13 AC, Malleore : venu pour une ame offerte sur un plateau, il trouve une enfant de 8 ans trop brisee, qui supplie de mourir. Il massacre village et Spriggan pour punir ceux qui ont gache son plaisir, l'abandonne. Appui canon : l'ivrogne.
-- [DIVERGENCE RP] 24 AC : revenu la voir a 19 ans, intrigue par ses massacres commis "en son nom", il en fait son executante puis lui propose un contrat. Elle en retourne les termes : il voulait son ame, il obtient sa devotion eternelle, et doit donc la rendre immortelle. Age fige : 19 ans. Premiere personne connue a l'avoir battu. Lien unique et asymetrique ; termes exacts : fiche protagoniste (passe 1).
-- Il l'envoie remplir des contrats, comme Geralt pour Olgierd. Decision actee.
+- [DIVERGENCE RP] 24 AC : revenu la voir a 19 ans, intrigue par ses massacres commis "en son nom", il lui propose un pacte pour son ame ("obtenir", portee non bornee). Elle refuse et retourne les termes : elle s'offre corps et ame des la signature, contre un service aussi long que sa vie a lui ; il ne meurt pas, donc il doit la garder en vie. Il refuse ; elle recommence en le nommant Di-Marwol ; il accepte sans hesiter. Age fige : 19 ans. Premiere a l'avoir battu ; exploit jamais ebruite. Termes exacts en trois versions : cf. Personnages/Wanda, Contrat retourne.
+- [DIVERGENCE RP] Marque deleguee : depuis 24 AC, Wanda appose la marque de de Meure sur ses contractants, en son nom (pouvoir offert a l'alliance, hors de son domaine natif). Le pacte lui-meme et l'effacement de la marque restent a lui. Contractants marques par elle : Ritterhof (avant 1264), Olgierd (1269). Elle-meme ne porte aucune marque : le retournement l'en dispense, aucune echeance ne la vise.
+- Il l'envoie remplir des contrats, comme Geralt pour Olgierd : elle chatie le contractant a l'echeance. Decision actee. Ancrages dates : cf. Personnages/Wanda_chrono_A.
+- [DIVERGENCE RP] Tempete de Hearts of Stone (fil Tchekhov, BIBLE SB8) : la tempete qui frappe le navire nilfgaardien est l'oeuvre de Wanda, sur ordre de de Meure ; elle libere Geralt au prix d'un contrat avec de Meure. Deroule : roadmaps R10-R12 (Hearts of Stone), non ecrites.
 - [DIVERGENCE RP] Motif Froid Blanc : cf. Lore/Froid_Blanc.
 
 FIN_WIKI_LORE_PACTES_DE_MEURE

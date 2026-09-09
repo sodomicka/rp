@@ -1,6 +1,6 @@
 # Conjonction des Spheres et premiers humains
 
-- version : W1
+- version : W2
 
 ## La Conjonction
 
@@ -30,8 +30,10 @@
 
 ## Dans ce RP
 
-- Protagoniste : humaine dauk, nee en 5 AC dans une tribu de l'Extreme-Nord (sous-region : Malleore propose, a valider). Magie innee eveillee a 8 ans (13 AC) ; jugee exces a rendre "aux reserves des arts occultes de la nature" : offerte au Spriggan-divinite. Detail : fiche protagoniste (Personnages/, a venir).
-- [DIVERGENCE RP] La Prophetie du Soleil Noir, fondee sur des ecrits dauk et wozgor, compte la protagoniste parmi ses sources. Contenu a batir (passe 1-2).
-- Proposition non tranchee : ses massacres parmi les causes de l'extinction dauk-wozgor. cf. _Implications.
+- [DIVERGENCE RP] Gaunter de Meure precede la Conjonction : un Aen Seidhe sacrifie par un culte de son peuple, lie a l'aspect temporel du Chaos, renait Di-Marwol et assiste a la Conjonction. Il n'est ni monstre ni race deplacee : il est d'ici. Wanda seule le sait. cf. Personnages/Gaunter_de_Meure, Lore/Pactes_de_Meure.
+- [DIVERGENCE RP] Wanda : humaine dauk, nee en 5 AC dans une tribu nomade de la foret primordiale de Malleore (valide passe 1 ; cf. Lieux/Malleore). Magie innee eveillee a 8 ans (13 AC) ; jugee exces a rendre "aux reserves des arts occultes de la nature" : offerte au Spriggan-divinite. Detail : cf. Personnages/Wanda, Personnages/Wanda_chrono_A.
+- [DIVERGENCE RP] Contact dauk-elfes : en 13-24 AC, Wanda torture des Aen Seidhe pour obtenir des traductions et posseder le Vieux Langage. [IMPLICITE] Premiers temoins elfiques de la figure qu'ils nommeront plus tard Aen Cael Dhoine.
+- [DIVERGENCE RP] La Prophetie du Soleil Noir, fondee sur des ecrits dauk et wozgor, compte Wanda parmi ses sources. Statut : ligne de lore, jamais un arc (decision worldbuilder passe 1). Echo avec Renfri, fille du Soleil Noir : pointe, non exploite.
+- Extinction dauk-wozgor : la part des massacres de Wanda n'est pas tranchee ; au mieux une ligne de lore, jamais un arc (decision worldbuilder passe 1). cf. BIBLE SB8, Mysteres.
 
 FIN_WIKI_LORE_CONJONCTION_ET_PREMIERS_HUMAINS

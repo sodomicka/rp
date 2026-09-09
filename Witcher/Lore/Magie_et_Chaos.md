@@ -1,6 +1,6 @@
 # Magie et Chaos
 
-- version : W1
+- version : W2
 
 ## Le Chaos
 
@@ -13,7 +13,7 @@
 
 - Source : personne nee avec un don magique inne. Don difficile a controler ; sans encadrement, catatonie ou folie.
 - Declenchement par le stress. Puissance extreme mais incontrolable : la Source est un transmetteur d'energie magique plus qu'un manieur ; une crise peut raser un chateau ou la moitie d'une ville.
-- Certaines Sources portent le Sang Ancien (Hen Ichaer) : descendance de Lara Dorren. Gene mute concu par des sages elfes pour produire un Enfant du Sang Ancien capable d'ouvrir un chemin entre les mondes ; s'exprime chez les femmes de la lignee. Ciri en est la porteuse ; magie plus primordiale, passage entre les mondes. cf. Lore/Froid_Blanc.
+- Certaines Sources portent le Sang Ancien (Hen Ichaer) : descendance de Lara Dorren. Gene mute concu par des sages elfes pour produire un Enfant du Sang Ancien capable d'ouvrir un chemin entre les mondes ; s'exprime chez les femmes de la lignee. Ciri en est la porteuse ; magie plus primordiale, passage entre les mondes. cf. Lore/Sang_Ancien, Lore/Froid_Blanc.
 - La Confrerie des Sorciers etait chargee de trouver et de former ces enfants. Mirthe : premier centre.
 
 ## Mages, druides, pretres
@@ -28,8 +28,12 @@
 
 ## Dans ce RP
 
-- [DIVERGENCE RP] Protagoniste : magie innee de type Source (analogie Ciri ; pas de Sang Ancien, lignee de Lara Dorren tres posterieure). Apparence : magie druidique ou shamanique, maladroite. Nature reelle : capacite a plier la realite a sa volonte, dans une mesure a definir. cf. Systemes/Power_scaling (a venir).
+- [DIVERGENCE RP] Aspect temporel du Chaos : le temps est le domaine de Gaunter de Meure, qui y est lie depuis son sacrifice avant la Conjonction (cf. Lore/Pactes_de_Meure, Personnages/Gaunter_de_Meure). Il reconnait par le temps les ouvertures entre spheres : la Conjonction, le depart de Ciri (1268), son retour (printemps 1272).
+- [DIVERGENCE RP] Wanda : magie innee de type Source (declenchement par le stress a 8 ans, 13 AC), sans Sang Ancien (lignee de Lara Dorren tres posterieure). Nature reelle : capacite a plier la realite a sa volonte, inerte comme organique ; portee regionale maximale ; double cout ; interdits : temps et mort, ames et pactes, sa psyche, passage entre spheres. Detail : cf. Systemes/Power_scaling, Personnages/Wanda.
+- [DIVERGENCE RP] Apparence : rituels tribaux (gestes, incantations, objets naturels, maladroits) suivis machinalement de l'enfance au pacte de 24 AC, sans aucun effet sur son pouvoir ; abandonnes ensuite. A l'ere des jeux : aucun rituel, elle veut et la realite cede. Decision worldbuilder passe 2.
+- [DIVERGENCE RP] Perception : l'espace est son domaine, elle sent les distorsions d'espace a l'echelle du Continent (ouverture entre spheres, teleportation de Ciri). Le temps est celui de de Meure ; Ciri tord les deux. cf. Systemes/Power_scaling, Perception.
+- [DIVERGENCE RP] Pouvoir delegue : depuis 24 AC, elle appose la marque de de Meure en son nom, hors de son domaine natif ; les ames et les pactes lui restent interdits. cf. Lore/Pactes_de_Meure, Dans ce RP.
 - Echo voulu : puissance par pure volonte chez Gaunter de Meure, realite pliee par la volonte chez elle. Decision actee.
-- Sa tribu la selectionne pour "revenir aux reserves des arts occultes de la nature" : talent percu comme un exces a rendre a la divinite locale.
+- Sa tribu la selectionne pour "revenir aux reserves des arts occultes de la nature" : talent percu comme un exces a rendre a la divinite locale. cf. Creatures/Spriggan_Leshen, Lieux/Malleore.
 
 FIN_WIKI_LORE_MAGIE_ET_CHAOS
