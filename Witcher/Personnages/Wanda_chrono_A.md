@@ -1,6 +1,6 @@
 # Wanda - Chronologie A (5-1502 AC)
 
-- version : W5
+- version : W7
 
 Satellite de Personnages/Wanda (fiche mere : identite, mecanique, psychologie). Porte tout ce qui est date : histoire jusqu'au point de depart, ancrages de l'ellipse, trajectoire datee post-depart (vide a la genese). Scission decidee en passe 2 (2026-09-08), precedent Nisha_chrono. Calendrier : AC (apres la Conjonction) ; p.R. = AC - 230, offset [INCERTAIN] porte par la Chronologie ; chaque conversion montre son calcul.
 
@@ -28,15 +28,15 @@ Le point de depart JOUABLE est le printemps 1502 AC (ere des jeux) : la scene ou
 
 ### Ancrages de l'ellipse (24-1502 AC)
 
-Jalons canon traverses (presence seule), puis actes dates (decisions worldbuilder passe 2, 2026-09-08). Ordre chronologique. Conversion : p.R. = AC - 230.
-- Ca 990-1060 AC (760-830 p.R.) : Premier Debarquement des Nordlings. Elle a deja pres de mille ans de service. Les Dauk et les Wozgor s'eteignent ensuite, causes disputees ; lien avec ses massacres : ligne de lore non tranchee, jamais un arc (cf. _Implications).
-- Guerres elfiques (Loc Muinne, Shaerrawedd, soulevement d'Aelirenn ; annees [INCERTAIN]) : periode d'origine probable du nom elfique "Aen Cael Dhoine" (cf. Reputation). [IMPLICITE] Premiers temoins elfiques : les Aen Seidhe tortures de 13-24 AC. [IMPLICITE]
-- Premiers sorceleurs (Alzur, Malaspina ; annees [INCERTAIN]) : contemporaine de leur apparition. Rapport aux ecoles : non fixe.
+Jalons canon traverses (presence seule), puis actes dates (decisions worldbuilder passe 2, 2026-09-08). Ordre chronologique (dates approximatives balisees c.). Conversion : p.R. = AC - 230.
+- Ca 990-1060 AC (760-830 p.R.) : Premier Debarquement des Nordlings. Elle a deja pres de mille ans de service. Les Dauk et les Wozgor s'eteignent ensuite, causes disputees ; lien avec ses massacres : ligne de lore non tranchee, jamais un arc (cf. Lore/Conjonction_et_premiers_humains, Dans ce RP).
 - Soleil Noir : les ecrits dauk qui la concernent comptent parmi les sources de la pseudo-malediction d'Eltibald. Ligne de lore, pas d'arc. [DIVERGENCE RP]
 - Noms regionaux (cf. fiche mere, Reputation) : chaque nom nait d'un contrat de de Meure execute, un contractant chatie a l'echeance. Dates ci-dessous.
-- Post-Premier Debarquement (> 1060 AC), annee [INCERTAIN] a fixer, Holmstein, Skellige : les anciens du clan Drummond prient vengeance contre un chef pillard ; de Meure vient, contrat signe par les anciens ; elle debarque et fauche les pillards. Entree au pantheon : Vandja, Systir Vanadis. Des lors on la prie, elle vient en personne et massacre la cible designee, contre un contrat des anciens avec de Meure.
-- Post-Premier Debarquement (> 1060 AC), annee [INCERTAIN] a fixer, Toussaint : un baron-vigneron doit son domaine a un pacte, echeance au banquet des vendanges ; elle fauche l'hote parmi les convives et disparait en brume ecarlate ; un troubadour survit, ballade de la Dame Ecarlate.
-- 1104 AC = 874 p.R. (1104 - 230), Temeria, pres de Vizima : un contractant fuit son echeance et se terre dans son village natal ; elle fauche le village entier, lui compris ; conte des hameaux voisins : la Faucheuse. Plus tard, le Feu Eternel nie ce que racontent marins et misereux.
+- 1104 AC = 874 p.R. (1104 - 230), Temeria, pres de Wyzima : un contractant fuit son echeance et se terre dans son village natal ; elle fauche le village entier, lui compris ; conte des hameaux voisins : la Faucheuse. Plus tard, le Feu Eternel nie ce que racontent marins et misereux.
+- 1130 AC = 900 p.R. (1130 - 230 ; worldbuilder 2026-09-09), Holmstein, Skellige : les anciens du clan Drummond prient vengeance contre un chef pillard ; de Meure vient, contrat signe par les anciens ; elle debarque et fauche les pillards. Entree au pantheon : Vandja, Systir Vanadis. Des lors on la prie, elle vient en personne et massacre la cible designee, contre un contrat des anciens avec de Meure.
+- Premiers sorceleurs (Alzur, Malaspina ; c. 950 p.R. = c. 1180 AC, 950 + 230 ; approx. [INCERTAIN]) : contemporaine de leur apparition. Rapport aux ecoles : non fixe.
+- Guerres elfiques, des siecles suivant le Debarquement au soulevement d'Aelirenn (annees 1060 p.R. = c. 1290 AC, 1060 + 230 ; fandom, approx. [INCERTAIN]) : periode d'origine probable du nom elfique "Aen Cael Dhoine" (cf. Reputation). [IMPLICITE] Premiers temoins elfiques : les Aen Seidhe tortures de 13-24 AC. [IMPLICITE]
+- 1384 AC = 1154 p.R. (1384 - 230 ; worldbuilder 2026-09-09), Toussaint : un baron-vigneron doit son domaine a un pacte, echeance au banquet des vendanges ; elle fauche l'hote parmi les convives et disparait en brume ecarlate ; un troubadour survit, ballade de la Dame Ecarlate.
 - 1231 p.R. = 1461 AC (1231 + 230 ; date Netflix, source secondaire, livres et jeux muets), Blaviken : massacre de Geralt contre Renfri et sa bande ; spectatrice lointaine, elle vient savourer l'odeur du bain de sang une fois fini, sans y toucher. Geralt non rencontre.
 - Avant 1264 p.R., Rivie : bras droit de de Meure au pacte ecrit d'Amadeus Ritterhof (lettre trouvee a Rivie pendant la campagne de Meve, Thronebreaker) ; elle appose la marque.
 - 1264 p.R. = 1494 AC (1264 + 230), Premiere Guerre du Nord, camp nilfgaardien : un officier sous pacte, fauche sous sa tente, aucune sentinelle ne bouge ; la troupe jure "bloede luned", le rapport d'espionnage classe l'incident en anomalie.
@@ -47,7 +47,7 @@ Jalons canon traverses (presence seule), puis actes dates (decisions worldbuilde
 
 ## Trajectoire datee
 
-Post-depart uniquement. Vide a la genese ; alimentee a chaud arc par arc, jamais par anticipation. Plafond : 30 entrees (SPEC v8.4). Override par Parties/ en cas de divergence de partie.
+Post-depart uniquement. Vide a la genese ; alimentee a chaud arc par arc, jamais par anticipation. Plafond : budget de page (~8 000 car.), scission en Wanda_chrono_B au-dela ; le compte de 30 entrees (SPEC v8.4) n'est qu'indicatif (worldbuilder 2026-09-09). Cette page est deja au budget : chrono_B s'ouvre aux premieres entrees post-R1. Override par Parties/ en cas de divergence de partie.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|

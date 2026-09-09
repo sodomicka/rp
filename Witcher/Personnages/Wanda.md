@@ -1,6 +1,6 @@
 # Wanda
 
-- version : W6
+- version : W7
 
 Fiche NEUTRE (Personnages/) : entite de lore, OC promue au monde. L'instance jouee (etat, run courant) vit en CODEX + Parties/, jamais ici. Decision worldbuilder, passe 1.
 
@@ -17,7 +17,7 @@ Fiche NEUTRE (Personnages/) : entite de lore, OC promue au monde. L'instance jou
 
 ## Description physique
 
-Source : quatre artworks fournis par le worldbuilder (Wanda_Shaman, Vandja_Skellige, Faucheuse_VelenNovigrad, BloedeLuned_NiflgaardToussaint). Elle plie sa propre apparence, corps et vetements, a l'image que chaque region se fait d'elle (cf. Systemes/Power_scaling : son corps repond a ses envies). Decision worldbuilder.
+Source : quatre artworks fournis par le worldbuilder (Wanda_Shaman, Vandja_Skellige, Faucheuse_VelenNovigrad, BloedeLuned_NiflgaardToussaint), conserves hors depot (local worldbuilder). Elle plie sa propre apparence, corps et vetements, a l'image que chaque region se fait d'elle (cf. Systemes/Power_scaling : son corps repond a ses envies). Decision worldbuilder.
 
 ### Constantes (toutes les formes)
 - Silhouette fine, 1m50. Port raide, trop calme pour son age apparent. Visage de 19 ans, regard qui ne l'est pas.
@@ -145,7 +145,7 @@ Presence continue sur le Continent depuis 24 AC. Elle n'est nommee "Wanda" que p
 | Region / culture | Nom local | Registre du recit |
 |---|---|---|
 | Skellige (nordique) | Vandja, Systir Vanadis ("soeur de Vanadis / Freya") | membre a part entiere du pantheon officiel |
-| Vizima, Temeria (paysannerie) | la Faucheuse | conte populaire pour effrayer les enfants |
+| Wyzima, Temeria (paysannerie) | la Faucheuse | conte populaire pour effrayer les enfants |
 | Novigrad, Velen | niee officiellement par l'Eglise du Feu Eternel ; en secret, la Faucheuse | rumeur de marins et de misereux, dementie publiquement |
 | Loc Muinne, Vergen (Aen Seidhe) | Aen Cael Dhoine ("le Jugement des Hommes") | motif recurrent de la tradition orale elfique ; memoire ou mythe, non tranche |
 | Vergen (nains) | Kar-Vanda | anecdote de bataille, legende de taverne |
