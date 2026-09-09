@@ -1,6 +1,6 @@
 # Power scaling - Wanda
 
-- version : W1
+- version : W4
 
 Mesure de la realite pliee par la volonte. Page systeme, neutre. Decisions worldbuilder passe 1 : echelle, cout, interdits. Les mecaniques de detail portent [PROPOSITION] jusqu'a validation. cf. Personnages/Wanda, Lore/Magie_et_Chaos. [DIVERGENCE RP] sur toute la page.
 
@@ -8,7 +8,6 @@ Mesure de la realite pliee par la volonte. Page systeme, neutre. Decisions world
 
 - Wanda ne lance pas de sorts. Elle veut, et la realite cede dans les limites ci-dessous. Echo voulu de la puissance par volonte de Gaunter de Meure.
 - Nature : Source (don inne, declenche par le stress a 8 ans, cf. Chronologie 13 AC). Sans Sang Ancien. Une Source est un transmetteur plus qu'un manieur : c'est la base du cout (cf. Cout en controle).
-- Apparence : gestes, incantations, objets naturels de type shamanique ou druidique, maladroits. Elle suit ces rituels machinalement, par habitude heritee de la tribu. Ils n'ont AUCUN effet : comme Ciri et toute Source, son pouvoir ne depend ni d'un rituel ni d'un catalyseur. C'est une part d'elle. Un observateur y voit une sorciere de tribu, jamais une plieuse de realite. Decision worldbuilder.
 - Signe visible et fiable : yeux ecarlates a l'usage, quelle que soit l'echelle.
 
 ## Reperes canon pour l'echelle
@@ -44,13 +43,13 @@ Deux couts cumules. Decision worldbuilder.
 ### Epuisement physique
 - Comme tout mage : un pliage fatigue, un gros pliage epuise. Mais ses reserves sont hors norme.
 - Ere des jeux : ressources de magie absurdes. Elle pourrait rayer la Loge des Magiciennes ou l'academie de Ban Ard sans transpirer.
-- Progression (cf. Personnages/Wanda, Histoire) : 13-21 AC, massacres a l'echelle de patelins de 5 a 10 personnes ; a partir de 24 AC (retour de de Meure), vrais villages ; 1502 AC, cf. ci-dessus. Courbe entre 24 et 1502 AC : non fixee, R0.
+- Progression et echelle des massacres : cf. Personnages/Wanda (Psychologie) et Personnages/Wanda_chrono_A (Histoire).
 
 ### Cout en controle
 - Second cout, independant de la fatigue : plus le pliage est gros, plus il deborde.
 - Local : rien ne deborde.
 - Regional : une part du pliage echappe a sa volonte formulee. Le debordement suit sa volonte NON formulee, c'est-a-dire ses pulsions de fond (tuer, punir, violence gratuite). Un pliage regional voulu comme une cloture devient aussi un massacre a la marge. Elle ne le regrette pas ; elle le sait. Decision worldbuilder.
-- Precedents inscrits : plusieurs massacres causes quand des contractants ont tente de violer les regles d'un contrat de de Meure. Tout le monde n'a pas la presence d'esprit d'Olgierd ; beaucoup ont tente de jouer au plus malin. Cas precis : non fixes, R0.
+- Precedents inscrits : plusieurs massacres causes quand des contractants ont tente de violer les regles d'un contrat de de Meure. Tout le monde n'a pas la presence d'esprit d'Olgierd ; beaucoup ont tente de jouer au plus malin. Cas fixes en passe 2 : cf. Personnages/Wanda_chrono_A, Ancrages (un contrat par nom regional).
 - Crise : declenchement par le stress, comme toute Source. Aucun controle, aucune volonte. Precedent unique inscrit : eveil de 13 AC. Frequence, recuperation, sequelles : non fixees. [INCERTAIN]
 - Consequence de jeu : elle prefere le local. Le regional est un choix qu'elle assume, jamais un reflexe.
 - Ce qu'elle plie, dans ces limites : inerte ET organique, matiere, corps, force, vie, perception. Le reste est de la pate a modeler pour elle. Reference d'esthetique hors monde : manipulation de la realite facon Wanda Maximoff.
@@ -59,6 +58,11 @@ Deux couts cumules. Decision worldbuilder.
 
 - Teleportation : oui, dans la portee de son palier. Ce n'est pas la teleportation des magiciennes (portail, calcul, risque) : la realite se distord pour l'amener d'un point A a un point B a portee. Un cran au-dessus de la teleportation classique. Decision worldbuilder.
 - Jamais multiversel : aucun passage entre les spheres. cf. Interdits.
+- Signature visible : elle disparait dans une brume ecarlate. Decision worldbuilder passe 2.
+
+## Perception
+
+- Elle sent, a l'echelle du Continent, qu'on tord l'espace : une ouverture entre spheres. Elle sent, ne voit pas, ne peut pas suivre (cf. Interdits). Complement de de Meure : lui reconnait la meme ouverture par le temps, son domaine ; Ciri tord les deux. Precedent inscrit : retour de Ciri, printemps 1502 AC. [DIVERGENCE RP] Decision worldbuilder passe 2.
 
 ## Interdits (ce qu'elle ne peut PAS plier)
 
@@ -70,6 +74,10 @@ Decision worldbuilder. Domaines fermes, aucune exception de fatigue ou de crise.
 
 Ce qui N'EST PAS interdit :
 - Son corps repond a ses envies : elle peut le plier comme toute matiere organique. Limite : l'age fige a 19 ans releve du pacte, donc du domaine ferme. [IMPLICITE]
+
+## Pouvoir delegue : la marque
+
+- Hors de son domaine natif. En 24 AC, de Meure lui offre le pouvoir d'apposer sa marque sur ses contractants, en son nom. Elle marque ; le pacte et l'effacement de la marque restent a lui. L'interdit sur les ames et les pactes tient : elle n'y touche pas, elle signe pour lui. Consequence de lore : depuis 24 AC, une marque de de Meure dit aussi "Wanda est passee par la" a qui connait la mecanique. Marques connues : Ritterhof, Olgierd. Geralt : marque apposee par Wanda a bord du navire ofieri, 1272 (detail en roadmap HoS). [DIVERGENCE RP] Decision worldbuilder passe 2.
 
 ## Rapport a de Meure
 
