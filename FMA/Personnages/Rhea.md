@@ -1,17 +1,6 @@
 # Rhea
 
-- version : R5
-- statut : OC protagoniste. Fiche NOYAU (qui elle EST au point de depart),
-  noyau 1903-1909 fige. Strates Implications d'arc et Trajectoire datee
-  OUVERTES au build B3 (post roadmaps R0-R3) ; alimentees a chaud, roadmap
-  par roadmap, en Passe 2. Trajectoire datee realignee au rework R3 (W2).
-  R4 : integration du patch neuro COF (session de theorisation aout 2026) -
-  empathie, anosmie, bilateralite, conscience differee, moria, zone franche,
-  filtre prothetique, litteralite, crises, relations.
-  R5 : noeud Rhea/Al reforme en dissonance cognitive (bascule 1910 : plus
-  d'attirance, deux evaluations jamais integrees) - Trajectoire 1910 et
-  Relations harmonisees.
-- perimetre joue : cf. FMA/Roadmap/Rhea/Chronologie.md
+- version : R6
 
 ## Identite
 
@@ -280,18 +269,18 @@ OC : pas de sort canon fixe. [selon RP] Par defaut, le perimetre joue la mene
 de l'enfance a la chute de Pere puis au retour a Resembool (cf. Chronologie.md).
 Son statut de sacrifice potentiel (Porte ouverte des 1903, hitobashira valable)
 reste ouvert : hors radar de Pere par defaut, MAIS Mustang l'a reperee SUR
-PLACE en 1910 (rumeur de village + demonstration a l'atelier, R3 W2) - que
+PLACE en 1910 (rumeur de village + demonstration a l'atelier, R3) - que
 devient l'info cote armee, a trancher en Roadmap 12.
 
 ## Implications d'arc
 
-Alimentees a chaud, arc par arc (Passe 2). Etat au rework R3 (W2) :
+Alimentees a chaud, arc par arc (Passe 2) :
 - Clivage du savoir (pose en R1, verrouille en R3) : les Elric savent depuis
   l'enfance qu'elle transmute sans cercle (le chevalier d'acier, 1903-1904),
   mais ignorent TOUT de son 1903 (transmutation, lesion). Le noyau Rockbell,
   lui, sait tout. Izumi sait des 1909, par les freres, qu'une gamine transmute
   sans cercle - et en devine le prix (cf. Personnages/Izumi_Curtis.md).
-- Notoriete villageoise (verrouillee en R3 W2) : le FAIT que Rhea transmute
+- Notoriete villageoise (verrouillee en R3) : le FAIT que Rhea transmute
   sans cercle est connu du bourg depuis l'enfance (elle transmute a ciel
   ouvert). Le POURQUOI (1903) ne fuit jamais : verrouille chez les Rockbell.
   C'est cette rumeur que Mustang recolte en 1910.
@@ -301,9 +290,9 @@ Alimentees a chaud, arc par arc (Passe 2). Etat au rework R3 (W2) :
 
 ## Trajectoire datee (post-1903)
 
-Strate ouverte en R3 (demarre 1910 ; 1903-1909 = noyau ci-dessus). Forme
-telegraphique, datee. Quand un RP diverge, le delta va en Parties/ et surclasse
-cette strate pour cette partie. Realignee au rework R3 (W2).
+Demarre 1910 (1903-1909 = noyau ci-dessus). Forme telegraphique, datee. Quand
+un RP diverge, le delta va en Parties/ et surclasse cette strate pour cette
+partie.
 - 1910 (R3) - La nuit des Elric. Ed et Al tentent de ramener Trisha, en cachette,
   sans la prevenir. Rhea, premiere sur place, reconnait la chose (elle en a
   produit une, jadis) et l'acheve au pic de beton sans ciller - renversement de
@@ -347,8 +336,7 @@ cette strate pour cette partie. Realignee au rework R3 (W2).
 - Scar : cf. Personnages/Scar.md
 - Lieux : cf. Lieux/Resembool.md, Ishval.md
 - Grimoire du pere : cf. BIBLE SB7
-- Cap des roadmaps : cf. FMA/Roadmap/Rhea/Chronologie.md ; roadmaps ecrites :
-  R0-R3 (FMA/Roadmap/Rhea/)
+- Perimetre joue et cap des roadmaps : cf. FMA/Roadmap/Rhea/Chronologie.md
 
 ---
 
