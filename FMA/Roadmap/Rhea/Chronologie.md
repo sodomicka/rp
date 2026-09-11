@@ -1,5 +1,7 @@
 # CHRONOLOGIE - Roadmaps de Rhea
 
+- version : W1
+
 Index-cap de la Passe 2. Liste et contenu resume de chaque roadmap, de la
 Porte de la Verite (1903) au retour a Resembool (1915). Une roadmap = une
 tranche narrative macro ; ses arcs (etapes detaillees jouables) se decoupent
@@ -100,7 +102,8 @@ en Passe 3. Le mot "arc" est reserve a la Passe 3 ; ici on parle de roadmaps.
 ---
 
 ## CANON (relecture par Rhea) - ordre Brotherhood
-Toute la trame : 1914 -> printemps 1915. Rhea a 16 ans du debut a la fin.
+Toute la trame : 1914 -> printemps 1915. Rhea a 16 ans a l'entree (1914), 17 au
+Jour Promis (nee le 30 janvier 1898, elle passe 17 ans avant le printemps 1915).
 
 ### Roadmap 5 - Liore
 - Cornello et la fausse Pierre ; premiere epreuve de Cliquetis loin de Winry.
