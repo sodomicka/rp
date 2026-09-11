@@ -1,10 +1,18 @@
 # Sommaire - FMA
 
-- version : W5
+- version : W6
 
 ## WIKI
 
-> Chaque entree porte la version (V<N>) de la page : inventaire de versions. Un ecart entre ce V<N> et celui ecrit dans la page elle-meme signale une copie perimee (canari, non bloquant). Prefixe usuel W<N> ; certaines fiches OC portent un autre prefixe (ex. R<N> pour Rhea) - le principe reste : le tag du Sommaire matche le tag interne de la page.
+> Chaque entree porte la version `(W<N>)` de la page : inventaire de versions. Un ecart entre ce W<N> et celui ecrit dans la page elle-meme signale une copie perimee (canari, non bloquant). Prefixe usuel W<N> ; la fiche Rhea porte un prefixe propre (R<N>) - le principe reste : le tag du Sommaire matche le tag interne de la page.
+>
+> QUI LIT LE CANARI (v8.3). Un canari sans lecteur n'est pas un detecteur, c'est un enregistrement. Deux lecteurs, deux moments :
+> - EN NARRATION, a chaque page fetchee : le MJ compare le `W<N>` de la page au `W<N>` de son entree au Sommaire. Ecart -> `[VERSION DECALEE - <page> : Sommaire W<x>, page W<y>]` en OOC bref, NON BLOQUANT. Arbitrage : la PAGE fait foi (c'est le fichier reel ; le Sommaire n'est qu'un index). Cf. Instructions RP S4.2ter.
+> - AU BIBLE BUILD : toute page relivree incremente son `W<N>` et son entree au Sommaire est mise a jour DANS LE MEME BUILD. C'est ici que se solde un `[VERSION DECALEE]` remonte en jeu. Cf. Instructions Wiki, MODE OUTIL - BIBLE + WIKI.
+
+### (racine)
+Description : pages transversales de l'univers.
+- Resume.md (W1) - resume de l'histoire etablie : canon Brotherhood condense + trajectoire de Rhea (R0-R4 detaillees, charniere, cap canon R5-R14)
 
 ### Systemes/
 Description : moteur du monde - alchimie, Verite, Pierre, prothese.
@@ -27,34 +35,36 @@ Description : geographie narrative du RP.
 ### Personnages/
 Description : fiches neutres canon des entites qui pesent sur le RP, plus la protagoniste OC.
 - Pinako_Rockbell.md (W1) - matriarche, sauveuse et figure fondatrice de la protagoniste
-- Winry_Rockbell.md (W1) - mecanicienne prodige, soeur fusionnelle de la protagoniste
+- Winry_Rockbell.md (W2) - mecanicienne prodige, soeur fusionnelle de la protagoniste
 - Sarah_Rockbell.md (W1) - chirurgienne, mere adoptive de la protagoniste, morte a Ishval
 - Yuri_Rockbell.md (W1) - chirurgien, pere adoptif de la protagoniste, mort a Ishval
 - Edward_Elric.md (W2) - Fullmetal Alchemist, ami d'enfance, transmutation cachee de 1910
 - Alphonse_Elric.md (W2) - ame scellee dans l'armure, ami d'enfance ; PAS de sans-cercle (aucun souvenir de la Porte)
 - Trisha_Elric.md (W1) - mere Elric, morte en 1904, parallele thematique
 - Van_Hohenheim.md (W1) - Pierre vivante, pere absent des Elric
-- Roy_Mustang.md (W1) - Flame Alchemist, heros d'Ishval, superieur d'Ed
-- Riza_Hawkeye.md (W1) - tireuse d'elite, conscience de Mustang
+- Roy_Mustang.md (W2) - Flame Alchemist, heros d'Ishval, superieur d'Ed ; visite de 1910
+- Riza_Hawkeye.md (W2) - tireuse d'elite, conscience de Mustang ; visite de 1910
 - Maes_Hughes.md (W1) - renseignement, figure bienveillante, tue par Envy
 - Scar.md (W1) - vengeur ishval, tueur des parents Rockbell (Tchekhov majeur)
 - Bradley_Wrath.md (W1) - Generalissime et homonculus Wrath
 - Pere.md (W1) - homonculus originel, maitre de la conspiration
 - Izumi_Curtis.md (W2) - maitresse des Elric (1909), miroir thematique du deuil-transmutation ; sait des 1909 qu'une gamine transmute sans cercle
-- Rhea.md (R5) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datee OUVERTES (demarre 1910, post R0-R3) ; syndrome COF bilateral detaille (empathie, filtre prothetique, litteralite, anosmie, crises), noeud Rhea/Al en dissonance, anti-militarisme, famille Rockbell + frere Alan (defunt)
+- Rhea.md (R6) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datee (demarre 1910) ; syndrome COF bilateral detaille (empathie, filtre prothetique, litteralite, anosmie, crises), noeud Rhea/Al en dissonance, anti-militarisme, famille Rockbell + frere Alan (defunt)
 
 ### Roadmap/Rhea/
-Description : cap et roadmaps de la Passe 2 (sources de build des fiches d'arc), par perspective de la protagoniste. Indexees au Sommaire - decision worldbuilder (build B2) : la regle v8.2 "roadmaps non indexees en jeu" est ABANDONNEE, le Sommaire servant d'abord au wiki build.
-- Chronologie.md - index-cap des 15 roadmaps (Porte 1903 -> retour a Resembool 1915) ; reperes d'age, points de vigilance
+Description : cap et roadmaps de la Passe 2 (sources de build des fiches d'arc), par perspective de la protagoniste. Indexees au Sommaire - decision worldbuilder (build B2) : la regle v8.2 "roadmaps non indexees en jeu" est ABANDONNEE, le Sommaire servant d'abord au wiki build. Jamais fetchees en narration.
+- Chronologie.md (W1) - index-cap des 15 roadmaps (Porte 1903 -> retour a Resembool 1915) ; reperes d'age, points de vigilance
 - Roadmap0_La_Porte.md (W1) - 1903, generateur d'origine : rituel, Porte, peage, secours Pinako. Lineaire, VERROUILLE (ne detone jamais)
 - Roadmap1_Grandir_A_Resembool.md (W1) - 1903-1908 en vignettes : adoption, soeur Winry, amities Elric, temperament fige, automail
 - Roadmap2_Ishval_La_Nouvelle.md (W1) - 1909 : la nouvelle des parents, les jumelles, naissance de l'anti-militarisme, retour des freres, ce qu'Izumi sait
-- Roadmap3_Transmutation_Elric_Et_Mustang.md (W1) - 1910 : transmutation cachee des Elric, fracture, refus Mustang. Ouvre la Trajectoire datee de Rhea
+- Roadmap3_Transmutation_Elric_Et_Mustang.md (W2) - 1910 -> mi-1911 : transmutation cachee des Elric, fracture, visite Mustang (reperage sur place), annee d'atelier, depart d'Ed. Ouvre la Trajectoire datee de Rhea
 - (roadmaps R4 a R14 - a construire en boucle serree, Passe 2 en cours)
 
 ### Fiches_Arc/Rhea/
-Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de la protagoniste. Chargees une fois a l'ouverture de thread.
+Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de la protagoniste. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs `arc precedent` / `arc suivant` de chaque fiche).
 - (aucune pour l'instant - a construire en Passe 3, apres les roadmaps)
+
+> MEMOIRES NON INDEXEES (v8.3). `Parties/<Partie>/Memoires/` n'est pas liste ici : indexer un dossier le fait paraitre fetchable en narration. Les Memoires sont des archives narratives cumulatives, interdites en jeu (sauf ordre OOC explicite) et consultees au BUILD seulement, par listing direct du dossier. Cf. SPEC_CODEX 4ter, livrable 3.
 
 ## PARTIES (Partie1)
 

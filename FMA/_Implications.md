@@ -6,7 +6,14 @@ pas les re-litiger. JAMAIS fetche en narration. ASCII strict.
 
 - univers : FMA (branche manga / Brotherhood, continuite Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- derniere mise a jour : rework R3 execute (W2) + rescope R4 au cap
+- derniere mise a jour : BIBLE BUILD B6 (mise en notices SPEC v8.4, 2026-09-11)
+
+## Etat d'avancement du chantier (sorti de la BIBLE au build B6)
+- Passe 2 en cours. Roadmaps detaillees ECRITES : R0 a R3 (1903 -> mi-1911 ;
+  R0-R2 en W1, R3 en W2). R4 a R14 restent a ecrire en boucle serree.
+- En thread de build : fetcher la roadmap de l'arc en cours en debut de thread
+  (source de build ; jamais en narration).
+- Passe 3 (fiches d'arc), CODEX V1 et SETUP : non entames.
 
 ## Decisions memorisees (ne pas re-litiger)
 - ROADMAPS INDEXEES AU SOMMAIRE. La regle v8.2 "roadmaps non indexees en jeu"
@@ -63,6 +70,23 @@ pas les re-litiger. JAMAIS fetche en narration. ASCII strict.
   Al lui parvient de la bouche de Winry (fin de reeducation, R3 etape 7),
   jamais par elle-meme. Nourrit sa lecture anti-Al (cf. NOEUD RHEA/AL).
 
+- SPEC v8.4 APPLIQUEE (build B6, decision worldbuilder) : BIBLE en notices
+  (entrees SB4-SB7 <= 3-4 lignes des qu'une fiche existe ; etat de chantier
+  interdit en BIBLE -> domicile ici ; SB8 = definition + statut + renvoi,
+  deroules en roadmap/fiche ; decroissance des fils detones a chaque build).
+  Champs raw_base / parties_raw_base ajoutes en SB0. Renvois BIBLE au format
+  "cf. WIKI <page>" ; plus aucun renvoi BIBLE vers Parties/ (s'atteint via le
+  Sommaire). Sommaire au gabarit v8.4 (note QUI LIT LE CANARI, note MEMOIRES
+  NON INDEXEES) ; roadmaps toujours indexees (cf. ci-dessus).
+- PAS DE CHANGELOG DANS LES PAGES (build B6, decision worldbuilder) : une page
+  porte une seule metadonnee, sa version ; l'historique vit dans git. En-tete
+  de Rhea.md purge (R6, repasse sous le plafond prota de 20 000 car.). Ne pas
+  reintroduire de bloc "statut / R<N> : ...".
+- AGE SUR LA TRAME (build B6) : Chronologie.md corrigee - "16 ans du debut a
+  la fin" -> 16 a l'entree (1914), 17 au Jour Promis (printemps 1915).
+- Resume.md CREE (W1, build B6) : resume de l'histoire etablie, a mettre a jour
+  a chaque BIBLE BUILD (Instructions Wiki, MODE OUTIL - BIBLE + WIKI).
+
 ## Points ouverts (a trancher en Passe 2, roadmap par roadmap)
 - Statut de sacrifice de Rhea (Roadmap 12) : reperage desormais ETAYE
   (Mustang a VU la demonstration en 1910). Que devient l'info cote armee
@@ -91,7 +115,6 @@ pas les re-litiger. JAMAIS fetche en narration. ASCII strict.
 - Versioning des fiches : la plupart des pages sont taguees W<N> ; la fiche Rhea
   porte R<N> en interne, indexee (R<N>) au Sommaire pour ne pas declencher le
   canari. A standardiser (tout en W<N> ou acter un prefixe par entite) si besoin.
-  Fiches enrichies au rework R3 : Riza W2, Winry W2, Mustang W2, Rhea R3 (fiche).
 - Age de Rhea sur la trame : 16 ans a l'entree (1914), 17 au Jour Promis
   (printemps 1915, elle nait le 30 janvier). Coherent BIBLE <-> Chronologie ;
   ne pas re-ecrire "16 ans sur toute la trame".
@@ -101,7 +124,7 @@ pas les re-litiger. JAMAIS fetche en narration. ASCII strict.
   (W1) n'ont ni Implications d'arc ni Trajectoire datee explicites (le "Sort
   connu" couvre le canon par defaut). Harmonisation du gabarit a trancher par
   le worldbuilder si besoin.
-- Sommaire et BIBLE SB0/SB3 : versions a repercuter au prochain BIBLE build
-  (R3 en W2, fiches W2/R3, R4 renommee "L'examen et le depart").
+- Versions repercutees au build B6 (Sommaire W6) : Roadmap3 W2, Riza W2,
+  Mustang W2, Rhea R6, Chronologie.md taguee W1, Resume.md W1 cree.
 
 FIN_WIKI__IMPLICATIONS
