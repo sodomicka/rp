@@ -1,18 +1,23 @@
 # Sommaire - WIKI Overlord
 
-- version : W13
+- version : W14
 
 Index de navigation. Fetche en debut de chaque thread. L'URL d'une page se construit :
 raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire est l'index.
+
+## Racine (1 page)
+| Page | V | Contenu |
+|---|---|---|
+| Resume.md | W1 | Resume de l'histoire etablie (canon + divergences), arrete au jour 0 |
 
 ## Systemes (5 pages)
 | Page | V | Contenu |
 |---|---|---|
 | Systemes/Yggdrasil.md | W1 | Le jeu d'origine, niveaux, races, objets de rang monde, transferts non ordonnes |
-| Systemes/Magie.md | W1 | Cinq ecoles, trois branches, Energie Negative, MP, rangs et plafonds |
+| Systemes/Magie.md | W2 | Cinq ecoles, trois branches, Energie Negative, MP, rangs et plafonds |
 | Systemes/Grande_Magie_et_Signatures.md | W1 | Rang 11 et repertoire des sorts nommes |
 | Systemes/Systemes_Natifs.md | W1 | Arts Martiaux, Talents, Magie Sauvage, guilde des aventuriers |
-| Systemes/Echelle_Puissance.md | W1 | Bandes de niveaux, echelle interne de Nazarick, ancres natives |
+| Systemes/Echelle_Puissance.md | W2 | Bandes de niveaux, echelle interne de Nazarick, ancres natives |
 
 ## Nazarick (5 pages)
 | Page | V | Contenu |
@@ -20,8 +25,8 @@ raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire e
 | Nazarick/Tombeau.md | W2 | Les dix etages, l'Eglise Impie, la Tresorerie relocalisee au 10e |
 | Nazarick/Organigramme.md | W2 | Hierarchie, chaine du 9e, Pleiades, gardiens de zone |
 | Nazarick/Regles_Internes.md | W5 | Metaphysique des PNJ, garde-fou, exception CZ2128, economie, securite |
-| Nazarick/Etres_Supremes.md | W2 | Les 41, leurs creations, Wish III Dieu de la Vie, le transfert |
-| Nazarick/Theologie_base.md | W3 | Dogme, deux blasphemes, corpus preche, liturgie, confession |
+| Nazarick/Etres_Supremes.md | W4 | Les 41, leurs creations, Wish III Dieu de la Vie, le transfert |
+| Nazarick/Theologie_base.md | W4 | Dogme, deux blasphemes, corpus preche, liturgie, confession |
 
 ## NouveauMonde (3 pages)
 | Page | V | Contenu |
@@ -47,6 +52,9 @@ raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire e
 
 ## Hors index
 - Overlord/_Implications.md - journal de travail. JAMAIS fetche en narration.
+- Overlord/Roadmap/ - roadmaps et garde-cap (Chronologie.md). SOURCES DE BUILD, jamais
+  fetchees en narration : elles portent le futur. Listing direct du dossier au build,
+  jamais via cet index.
 - Nazarick/Theologie_profonde.md - pensees profondes des createurs et contradictions
   frontales. NON INDEXEE, JAMAIS fetchee en narration : elle porte le futur.
 

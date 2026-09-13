@@ -1,6 +1,6 @@
 # Journal d'implications - Overlord
 
-- version : W9
+- version : W10
 
 Document de TRAVAIL. Jamais fetche en narration. Porte ce qui RESTE : doutes non tranches,
 questions en attente, points a reverifier. Ne garde aucune trace de ce qui est fait.
@@ -10,14 +10,13 @@ questions en attente, points a reverifier. Ne garde aucune trace de ce qui est f
 - PSEUDONYME DE WISH III comme Dieu de la Vie chez les Six Grands Dieux. Symbole biblique
   recherche, discret, sans effet d'annonce. Bloque : Nazarick/Etres_Supremes.md porte un
   [INCERTAIN].
-- DECOUPAGE DE L'ARC 1. Un arc unique "La Crise" (jour 0 au jour 12), ou trois arcs courts
-  cales sur Berger Sincere / Berger Perdu / Berger Martyr. A trancher avant la passe 2.
-- L'HERESIE D'AZOTH. Evoquee comme le declencheur de la haine des Quarante chez Albedo, mais
-  jamais posee : aucune trace nulle part. Rien n'en est ecrit tant qu'elle ne l'est pas.
 - MOQUERIE D'AURA apres la resurrection de Shalltear : conservee ou non. Jugee plus mechante
-  que taquine. L'axe des piques au jour 0 est pose ; celui d'apres ne l'est pas.
-- ROUTAGE DU SAVOIR SUR WISH III : Azoth le decouvre-t-il en jeu, ou reste-ce de l'ironie
-  dramatique reservee au joueur (CODEX ANNEXE_SAVOIRS) ?
+  que taquine. L'axe des piques au jour 0 est pose ; celui d'apres ne l'est pas. Se tranche
+  au build de R3 ([A POSER] du garde-cap).
+- ROUTAGE DU SAVOIR "DIEU DE LA VIE". La pensee profonde de Wish III est decouvrable en jeu
+  (ecrits d'Ashurbanipal - ACTE, cf. Theologie_profonde W2). Reste ouvert : l'identite de
+  Wish III chez les Six - decouverte en jeu, ou ironie reservee au joueur (CODEX
+  ANNEXE_SAVOIRS) ?
 - NOMMAGE D'ULBERT. Demiurge et Jaldabaoth designent la meme figure du gnosticisme ; Azoth
   est un terme d'alchimie. Intention d'Ulbert a inscrire, ou coincidence a ignorer.
 - BLUE PLANET, WHITEBRIM, COUP DE GRACE : attribues dans Etres_Supremes.md, sans pensee
@@ -33,27 +32,16 @@ questions en attente, points a reverifier. Ne garde aucune trace de ce qui est f
 
 ## A porter au prochain BIBLE BUILD
 
-- SB1 : distinguer le VECU, absent au jour 0, des CARACTERISTIQUES D'AVATAR, presentes des
-  le premier instant. Vaut pour la cecite d'Aureole et les scarifications d'Azoth.
-- SB3 et SB7 : decalage J13 -> J12 pour la resurrection de Shalltear.
-- SB5 : le parametre d'Albedo est "amoureuse de Momonga", pas "epouse". Retirer la balise
-  DIVERGENCE RP sur l'eternite d'Aureole, qui releve du canon.
-- SB7 : reformuler "reposent au Mausolee". Ginnungagap et Worldslicer sont deja portes.
-- SB8 : Tchekhov d'Albedo reformule - amour ecrit vers l'un, desir vecu vers l'autre. Sortir
-  la fecondite d'Ainz des mysteres : tranchee, creation ex nihilo.
-- Echelle_Puissance.md : decalage J13 -> J12.
-- SB1 : les creations des 41 sont fecondes SAUF CZ2128, machine.
-- SB8 : preciser le motif du fil CZ2128 - la friction entre sa logique et les emotions de
-  ses soeurs, pas une curiosite abstraite.
-- SB1 : l'exception de fecondite "machine" couvre aussi Rubedo (corps de porcelaine).
-- SB1 : le regime de conscience de Rubedo - assez pour un ordre, pas pour une opinion - est
-  un troisieme cas, entre Gargantua et tout PNJ.
-- Echelle_Puissance.md : ajouter Nigredo, niv. 80, sous les Gardiens et au-dessus des
-  Pleiades.
-- Magie.md : Nigredo dans la liste Energie Negative ; Rubedo dans la liste Alteration ;
-  Lupusregina triple lanceuse (Guerison, Destruction, Alteration, Illusion) ; Entoma
-  talismanciere dont tous les talismans relevent de l'Illusion, aux effets d'ecoles arcanes.
-- SB5 : notices de Lupusregina, Entoma, Nigredo, Rubedo a compresser sur leurs fiches.
+- Grande_Magie_et_Signatures.md : inscrire "La Mort nous fauchera Tous" au repertoire
+  (l'entree de tete vit dans Magie.md W2 depuis B2).
+
+## Fiches en attente
+
+- ZESSHI : seule fiche de passe 1 non faite, reportee. L'arbre corrige (petite-fille de
+  Surshana et de Wish III) est deja porte par B2, Etres_Supremes W4 et Echelle_Puissance W2.
+- PANDORA'S ACTOR : convoque des R1. Le renvoi "cf. Personnages/Pandoras_Actor.md" de
+  Theologie_base est PENDANT jusqu'a sa creation (boucle serree R1).
+- VICTIM : notice SB5 seulement ; fiche a etoffer en boucle serree R1.
 
 ## Faits a durcir ou couper
 
@@ -70,16 +58,8 @@ Marques [INCERTAIN] dans les fiches, faute de source confirmee :
 
 ## Trajectoires connues, en attente de roadmap
 
-Faits post-depart deja tranches par le worldbuilder, NON inscrits en Trajectoire datee tant
-que l'arc qui les produit n'est pas roadmappe.
-
-- SEBAS : il ne ressent aucun desir avant sa rencontre avec Tuare. Azoth les mariera.
-- LES PLEIADES : le charnel avec Azoth vient apres le jour 0, pas meme en souvenir. Solution
-  la premiere, a Berger Sincere.
-- SOLUTION EPSILON ET SEBAS : mission d'infiltration exterieure, elle detachee sous lui.
-- CZ2128 : elle demande l'ouverture de ses verrous. Cf. BIBLE SB8, fil Tchekhov.
-- ENTOMA : sa gene de ne manger que de l'humain, et Azoth prodige de la cuisine. Graine
-  posee, arc non fixe.
+- Portees desormais par le garde-cap (Roadmap/Azoth/Chronologie.md W1) : jalons R1-R5 et
+  section "Raccords parques". Ce journal n'en tient plus la liste (anti-duplication).
 
 ## A verifier a la cloture de passe 2
 
@@ -90,5 +70,10 @@ que l'arc qui les produit n'est pas roadmappe.
 - Que la Trajectoire datee de chaque fiche ne contienne rien qui n'ait ete roadmappe.
 - Que la troncature d'arc n'ait laisse passer aucune preteriton : une Note de frontiere
   dit QU'IL MANQUE quelque chose, jamais QUOI.
+- PAPILLON LN 16 : R5 extrait Zesshi de la Theocratie et remplace la fin canon du tome 16
+  (guerre contre la Theocratie) par une vassalite. Verifier qu'aucune fiche NouveauMonde ne
+  contredit l'aval une fois R5 detaille.
+- RECONCILIATION : au prochain build, verifier page = Sommaire. Le canari Etres_Supremes
+  (Sommaire W2, page W3) a ete solde a W4 par B2.
 
 FIN_WIKI__IMPLICATIONS
