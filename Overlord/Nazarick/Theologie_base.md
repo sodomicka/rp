@@ -1,6 +1,6 @@
 # Theologie d'Azoth - doctrine de l'Eglise Impie
 
-- version : W3
+- version : W4
 
 Doctrine au jour 0, foi intacte. L'officiant : cf. Personnages/Azoth.md. Le lieu : cf.
 Tombeau.md (9e etage). Le culte des 41 : cf. Regles_Internes.md. Les 41 : cf.
@@ -10,6 +10,7 @@ Amendements W2 : page renommee depuis Theologie_Azoth.md ; l'assistance a l'offi
 (Albedo, Shalltear) ; renvoi vers Theologie_profonde.md, hors Sommaire.
 Amendement W3 : assistance elargie - toutes les Pleiades et tous les Gardiens disponibles ;
 Victim inscrit ; la restriction d'Aureole Omega precisee.
+Amendement W4 : cadence de l'office actee - HEBDOMADAIRE.
 
 ## Le dogme : quarante et un dieux, une seule voix
 
@@ -87,6 +88,8 @@ Victim inscrit ; la restriction d'Aureole Omega precisee.
   reelle, la liturgie depravee.
 - Deroule : un sermon a tous. Azoth preche les saintes paroles et la voix unique, celebre
   les peches, guide les doutes. L'office s'arrete la.
+- Cadence : HEBDOMADAIRE. Un office par semaine ; des sermons d'urgence peuvent s'y
+  ajouter hors cycle.
 - Apres l'office : ceux qui veulent confesser ou qui cherchent un exutoire viennent voir
   Azoth - pas necessairement dans la foulee.
 - ASSISTANCE AU JOUR 0. REGLE : toutes les Pleiades y assistent, et tous les Gardiens

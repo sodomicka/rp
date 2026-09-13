@@ -1,9 +1,11 @@
 # Les 41 Etres Supremes (guilde Ainz Ooal Gown)
 
-- version : W3
+- version : W4
 
 Amendements W3 : strate SELON SATORU ajoutee sous chaque createur - le regard du joueur sur
 ses camarades, distinct de ce que Nazarick en sait. Renvois Theologie_base.md.
+Amendement W4 : descendance de Wish III corrigee - une generation intercalee (decision
+worldbuilder).
 
 Etat decrit : jour 0.
 
@@ -110,8 +112,9 @@ Etat decrit : jour 0.
   Systemes/Yggdrasil.md). Il arrive six cents ans avant Momonga.
 - Consequence factuelle : il est MORT depuis des siecles, comme les cinq autres, alors que
   Nazarick tient les quarante absents pour attendus.
-- Descendance : Zesshi Zetsumei, nee de lui et de Surshana, Dieu de la Mort. Cf.
-  Systemes/Echelle_Puissance.md.
+- Descendance : une fille humaine, dans la Theocratie - la mere de Zesshi Zetsumei. Zesshi
+  est donc sa petite-fille ; et celle de Surshana, Dieu de la Mort, par son pere Decem
+  Hougan, le Roi Elfe. Cf. Systemes/Echelle_Puissance.md.
 - Deux de ses creations veillent au Tombeau : Aureole Omega, ecrite en sainte, et Victim,
   ange du sacrifice.
 

@@ -1,9 +1,13 @@
 # Theologie profonde - ce que les paroles cachent
 
-- version : W1
+- version : W2
 - STATUT : NON INDEXEE AU SOMMAIRE. JAMAIS FETCHEE EN NARRATION. Cette page porte le futur -
-  la pensee profonde est ce qu'Azoth decouvre a la Tresorerie et livre aux sermons suivants.
+  la pensee profonde est ce qu'Azoth decouvre dans les ecrits d'Ashurbanipal et livre aux
+  sermons suivants.
   La lire en jeu, c'est se spoiler la descente du Cardinal.
+
+Amendement W2 : la decouverte est routee aux archives d'Ashurbanipal (decision
+worldbuilder), non plus a la Tresorerie voisine.
 
 Deux etages par createur. La PENSEE DE BASE - ce que le setting laisse a sa creature, ce
 qu'Azoth preche au jour 0 - vit dans Theologie_base.md, corpus de huit. La PENSEE PROFONDE
