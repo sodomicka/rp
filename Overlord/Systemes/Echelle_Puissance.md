@@ -1,6 +1,9 @@
 # Echelle de puissance
 
-- version : W1
+- version : W2
+
+Amendements W2 : resurrection decalee au jour 12 ; ascendance de Zesshi corrigee (une
+generation intercalee) ; Nigredo chiffree.
 
 ## Principe
 - Echelle unique : les niveaux d'Yggdrasil (1-100) mesurent aussi les natifs.
@@ -29,9 +32,10 @@
   Les Treize Heros et les Seigneurs Dragons restent sans chiffre : non inscrits.
 
 ### Note sur Zesshi [DIVERGENCE RP]
-Sa puissance tient a une ascendance double : fille de Surshana, Dieu de la Mort, et du
-Dieu de la Vie - c'est-a-dire de Wish III, l'un des 41 (cf. Yggdrasil.md,
-Nazarick/Etres_Supremes.md). Son heterochromie porte la marque des deux sieges.
+Sa puissance tient a une double ascendance divine, a une generation d'ecart : petite-fille
+de Surshana, Dieu de la Mort, par son pere Decem Hougan, le Roi Elfe, et de Wish III, Dieu
+de la Vie et l'un des 41, par sa mere, de la Theocratie (cf. Yggdrasil.md,
+Nazarick/Etres_Supremes.md). Son heterochromie porte la marque des deux lignees.
 Detail : cf. Personnages/Zesshi.md (a venir).
 
 ## Nazarick (reference interne)
@@ -39,6 +43,8 @@ Detail : cf. Personnages/Zesshi.md (a venir).
   Sebas, Aureole, Pandora's Actor, Rubedo. Victim : niveau 35.
 - Pleiades (fiches officielles LN) : Yuri 51, Lupusregina 59, Narberal 63, CZ2128 46,
   Solution 57, Entoma 51.
+- Nigredo : 80 (decision worldbuilder) - sous les Gardiens d'Etage, au-dessus de toute
+  Pleiade.
 - Serviteurs et monstres invoques : du niveau 1 aux niveaux 80+ selon l'etage.
 - Consequence : la moindre servante de combat surclasse un adamantite du Nouveau Monde.
 
@@ -61,7 +67,7 @@ Regles de lecture :
 - Rubedo : sauvage elle-meme, plus que Nigredo ; equipee au calibre de Cocytus ou de
   Shalltear en Valkyrie de Sang.
 
-### Variation actee au jour 13 [DIVERGENCE RP]
+### Variation actee au jour 12 [DIVERGENCE RP]
 Shalltear perd des niveaux a sa resurrection (canon LN vol. 3) et sort temporairement du
 palier 3. La perte - en niveaux comme en or preleve sur le tresor - est REDUITE par rapport
 au canon : c'est Azoth qui officie, et sa maitrise de la magie divine abaisse le cout.

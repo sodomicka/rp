@@ -1,6 +1,9 @@
 # Magie de rangs (tier magic)
 
-- version : W1
+- version : W2
+
+Amendements W2 : Nigredo et Rubedo ventilees (soin, reparation) ; Lupusregina et Entoma
+precisees ; le sort "La Mort nous fauchera Tous" inscrit.
 
 ## Origine et nature
 - Systeme magique dominant du Nouveau Monde et d'Yggdrasil.
@@ -29,10 +32,10 @@ Decision worldbuilder : abandon de l'alignement D&D 5e initial, listes D&D caduq
 - LES ETRES ARTIFICIELS sortent de la Guerison, sacre comme Energie Negative. Ils se
   reparent par ALTERATION, l'ecole de la matiere [DIVERGENCE RP].
 - A Nazarick, la ligne de partage ne recoupe pas la hierarchie.
-  - Energie Negative : Ainz, Shalltear, Yuri, Azoth, Demiurge, Albedo.
+  - Energie Negative : Ainz, Shalltear, Yuri, Nigredo, Azoth, Demiurge, Albedo.
   - Sacre : Victim, Cocytus, Aura, Mare, Sebas, Aureole, Lupusregina, Narberal, Solution,
     Entoma.
-  - Alteration : CZ2128 Delta et Gargantua, etres artificiels.
+  - Alteration : CZ2128 Delta, Rubedo et Gargantua, etres artificiels.
 - EXCEPTION AZOTH [DIVERGENCE RP] : Cardinal - sommet de la classe de Clerc - et archdemon
   a la fois, il RECOIT les deux vecteurs en soin et il est IMMUNISE aux degats sacres comme
   aux degats d'Energie Negative. Detail : cf. Personnages/Azoth.md.
@@ -66,6 +69,9 @@ Regles :
   differents - fait indecouvrable en jeu par le seul examen des sorts.
 - Fluder Paradyne est le seul humain connu a manier les trois branches ; on le dit triple
   lanceur.
+- A Nazarick, Lupusregina Beta est triple lanceuse : Guerison, Destruction, Alteration,
+  Illusion. Entoma Vasilissa Zeta, talismanciere (branche spirituelle), n'use que de
+  talismans : TOUS relevent de l'Illusion, aux effets d'ecoles arcanes.
 - La grande magie (rang 11) transcende les ecoles, donc aussi les branches.
 
 ## Ressource : les MP
@@ -90,6 +96,10 @@ Regles :
 ## Grande magie et signatures
 - Grande magie (rang 11) et sorts signatures nommes :
   cf. Grande_Magie_et_Signatures.md.
+- LA MORT NOUS FAUCHERA TOUS [VF ACTEE ; DIVERGENCE RP] : sort signature herite de
+  Surshana, egalement au repertoire d'Ainz. Degats immenses, mais de PURE Energie
+  Negative : nuls sur quiconque en est immunise ou soigne. Entree a porter au repertoire
+  de Grande_Magie_et_Signatures.md a sa prochaine relivraison.
 
 ## Classes de lanceurs
 - Arcane : elementaliste, sorcier, mage, arcaniste. La plus repandue.
