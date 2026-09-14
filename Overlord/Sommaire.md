@@ -1,6 +1,6 @@
 # Sommaire - WIKI Overlord
 
-- version : W14
+- version : W22
 
 Index de navigation. Fetche en debut de chaque thread. L'URL d'une page se construit :
 raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire est l'index.
@@ -22,11 +22,11 @@ raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire e
 ## Nazarick (5 pages)
 | Page | V | Contenu |
 |---|---|---|
-| Nazarick/Tombeau.md | W2 | Les dix etages, l'Eglise Impie, la Tresorerie relocalisee au 10e |
+| Nazarick/Tombeau.md | W3 | Les dix etages, l'Eglise Impie, la Tresorerie relocalisee au 10e |
 | Nazarick/Organigramme.md | W2 | Hierarchie, chaine du 9e, Pleiades, gardiens de zone |
 | Nazarick/Regles_Internes.md | W5 | Metaphysique des PNJ, garde-fou, exception CZ2128, economie, securite |
 | Nazarick/Etres_Supremes.md | W4 | Les 41, leurs creations, Wish III Dieu de la Vie, le transfert |
-| Nazarick/Theologie_base.md | W4 | Dogme, deux blasphemes, corpus preche, liturgie, confession |
+| Nazarick/Theologie_base.md | W5 | Dogme, deux blasphemes, corpus preche, liturgie, confession |
 
 ## NouveauMonde (3 pages)
 | Page | V | Contenu |
@@ -35,20 +35,23 @@ raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire e
 | NouveauMonde/Theocratie_Slane.md | W1 | L'Etat, gouvernement, les Six Ecritures, rapport a Nazarick |
 | NouveauMonde/Re-Estize.md | W1 | Le Royaume, E-Rantel, Carne, l'Empire en notice |
 
-## Personnages (11 pages)
+## Personnages (14 pages)
 | Page | V | Contenu |
 |---|---|---|
-| Personnages/Ainz.md | W1 | Suzuki Satoru, la guilde, le calibre, l'ecart de savoir sur les quarante |
-| Personnages/Azoth.md | W4 | Le Cardinal : setting d'Ulbert, deux formes, Passion d'Incube, prodige de cuisine, le 9e |
-| Personnages/Albedo.md | W2 | Regente, le parametre reecrit, Hermes Trismegistus, Ginnungagap |
-| Personnages/Demiurge.md | W1 | Le jumeau, arsenal de competences, la Lave, luxure a zero |
-| Personnages/Shalltear.md | W3 | Valkyrie de Sang, Lance Pipette, Frenesie Sanglante, nymphomanie |
-| Personnages/Aureole_Omega.md | W2 | Sainte aveugle, karma +500, Worldslicer, le Sanctuaire des Cerisiers |
-| Personnages/Sebas.md | W1 | Majordome d'Acier, karma +300, la machoire, le regime dechaine |
-| Personnages/CZ2128_Delta.md | W2 | La machine, le verrou de Garnet, munitions magiques, le Docteur |
-| Personnages/Pleiades_Humanoides.md | W3 | Yuri, Narberal, Solution : socle commun et trois blocs |
+| Personnages/Ainz.md | W5 | Suzuki Satoru, la guilde, le calibre, l'ecart de savoir sur les quarante |
+| Personnages/Azoth.md | W8 | Le Cardinal : setting d'Ulbert, deux formes, Passion d'Incube, prodige de cuisine, le 9e |
+| Personnages/Albedo.md | W4 | Regente, le parametre reecrit, Hermes Trismegistus, Ginnungagap |
+| Personnages/Demiurge.md | W3 | Le jumeau, arsenal de competences, la Lave, luxure a zero |
+| Personnages/Shalltear.md | W7 | Valkyrie de Sang, Lance Pipette, Frenesie Sanglante, nymphomanie |
+| Personnages/Aureole_Omega.md | W3 | Sainte aveugle, karma +500, Worldslicer, le Sanctuaire des Cerisiers |
+| Personnages/Sebas.md | W2 | Majordome d'Acier, karma +300, la machoire, le regime dechaine |
+| Personnages/CZ2128_Delta.md | W5 | La machine, le verrou de Garnet, munitions magiques, le Docteur |
+| Personnages/Pleiades_Humanoides.md | W5 | Yuri, Narberal, Solution : socle commun et trois blocs |
 | Personnages/Pleiades_Anthropomorphes.md | W1 | Lupusregina, Entoma : socle commun et deux blocs, garou et talismans |
 | Personnages/Nigredo_et_Rubedo.md | W1 | Les soeurs d'Albedo : la Prison Gelee, la porcelaine, conscience limitee |
+| Personnages/Pandoras_Actor.md | W3 | La creation de Momonga : Tresorerie et Ashurbanipal, les ecrits des Supremes, 999 ans, karma 0 |
+| Personnages/Victim.md | W2 | L'ange du sacrifice : niv. 35, karma +500, la voix, ~400 ans, la protection d'Aureole |
+| Personnages/Aura_et_Mare.md | W2 | Les jumeaux du 6e : enfants hors registre sans exception, dresseuse et druide, 76 ans |
 
 ## Hors index
 - Overlord/_Implications.md - journal de travail. JAMAIS fetche en narration.

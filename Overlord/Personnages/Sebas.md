@@ -1,6 +1,9 @@
 # Sebas Tian
 
-- version : W1
+- version : W2
+
+Amendement W2 : classement des karmas positifs retire ; Trajectoire datee alimentee - R1
+Berger Sincere (J0 -> J8).
 
 Etat decrit : jour 0.
 
@@ -11,8 +14,8 @@ Etat decrit : jour 0.
 - Niv. 100 : vingt-cinq niveaux raciaux de draconoide, soixante-quinze niveaux de classe.
   Classes : Moine, Seigneur Martial, Striker, Maitre du Ki interne et externe [INCERTAIN -
   liste non confirmee en source primaire].
-- Karma +300 (Bien extreme). SECOND KARMA POSITIF du sommet de Nazarick, derriere Aureole
-  Omega (+500) : le RP lui retire l'unicite morale qu'il detient au canon.
+- Karma +300 (Bien extreme). L'un des karmas positifs du sommet de Nazarick : le RP lui
+  retire l'unicite morale qu'il detient au canon.
 - Titre : le Majordome d'Acier [INCERTAIN - VF a fixer].
 - Lieutenant d'Azoth pour le service, de rang egal a Aureole Omega, sous derogation
   permanente : majordome personnel du Seigneur Momonga.
@@ -138,6 +141,7 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J0 | Remercie Azoth d'avoir preche Touch Me a egalite d'Ulbert ; envoye seul en reperage exterieur, sur ordre de Momonga relaye | en reperage hors du Tombeau |
 
 ## Renvois
 

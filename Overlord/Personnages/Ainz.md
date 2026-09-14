@@ -1,8 +1,14 @@
 # Ainz Ooal Gown (Momonga)
 
-- version : W1
+- version : W5
 
-Etat decrit : jour 0. Au point de depart, il porte encore le nom de Momonga ; il ne prend
+Amendement W2 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
+Amendement W3 : Trajectoire datee alimentee - R2 Berger Perdu (J9 -> J11).
+Amendement W4 : Trajectoire datee alimentee - R3 Berger Martyr (J11 -> J12).
+Amendement W5 : derogation de plafond a 10 000 caracteres.
+
+Etat decrit : jour 0. Plafond derogatoire : 10 000 caracteres (decision worldbuilder).
+Au point de depart, il porte encore le nom de Momonga ; il ne prend
 le nom de la guilde qu'ensuite (cf. Trajectoire datee).
 
 ## Identite
@@ -116,6 +122,15 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J0 | Interrompt l'office d'Azoth par Message, a la conclusion ; fait relayer par lui l'ordre de reperage a Sebas | - |
+| J0 | Serment des Gardiens a l'arene ; accompagne Azoth a Ashurbanipal ; reconfigure Pandora's Actor a la seule voix | - |
+| J1 | Remet l'Anneau d'Ainz Ooal Gown a Azoth | - |
+| J3 | Prend le nom d'Ainz Ooal Gown (canon) | nom : Ainz Ooal Gown |
+| J9 | Recoit la confession d'Azoth ; lui revele tout ce qu'il sait, lui-meme compris - Suzuki Satoru ; lui accorde une semaine avant de le tuer s'il le demande encore | Azoth dans le secret |
+| J10 | Chute de Shalltear (canon) ; reunit les Gardiens et l'annonce | - |
+| J11 | Recoit le retour d'Azoth ; promet de lui raconter les vrais 41 | - |
+| J11 | Sort les objets de rang monde du Mausolee pour affronter Shalltear (canon) | - |
+| J12 | Tue Shalltear en duel (canon), les Gardiens suivant par sort ; laisse Azoth la ressusciter ; distribue les artefacts, dont l'Amulette du Saint Maudit a Azoth ; evoque un titre de martyr, retire sur refus | - |
 
 ## Renvois
 

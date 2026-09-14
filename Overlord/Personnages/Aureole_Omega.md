@@ -1,6 +1,8 @@
 # Aureole Omega
 
-- version : W2
+- version : W3
+
+Amendement W3 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
 
 Etat decrit : jour 0.
 
@@ -110,6 +112,8 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J0 | Demande a l'officiant qui etait Wish III ; renvoyee au 8e avec Victim | Tchekhov detone : mission des 41 declenchee |
+| J7 | Comblee : la pensee profonde de Wish III prechee | - |
 
 ## Renvois
 

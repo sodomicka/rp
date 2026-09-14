@@ -1,8 +1,9 @@
 # Le Grand Tombeau de Nazarick
 
-- version : W2
+- version : W3
 
 Amendements W2 : renvois mis a jour - Theologie_Azoth.md est renommee Theologie_base.md.
+Amendement W3 : les ecrits des Supremes inscrits a Ashurbanipal.
 
 Etat decrit : jour 0 (transfert).
 
@@ -85,8 +86,11 @@ Etat decrit : jour 0 (transfert).
 - Le Lemegeton : hall de 67 golems et de pieges elementaires.
 - Salle du Trone : le Trone des Rois (objet de rang monde) ; Ginnungagap, l'arme d'Albedo
   (objet de rang monde) ; les 41 bannieres de la guilde ; poste d'Albedo.
-- Ashurbanipal : la bibliotheque, livres et objets-livres de la guilde. Archiviste :
-  Pandora's Actor [DIVERGENCE RP].
+- Ashurbanipal : la bibliotheque, livres et objets-livres de la guilde, et les ECRITS DES
+  SUPREMES - traites, lettres, prieres, notes de marge laisses par les 41, de volume tres
+  inegal ; Blue Planet, Whitebrim et Coup De Grace n'ont rien laisse (decision
+  worldbuilder). Archiviste : Pandora's Actor [DIVERGENCE RP] ; cf.
+  Personnages/Pandoras_Actor.md.
 - Appartements des Supremes et de leurs PNJ.
 
 ## La Tresorerie [DIVERGENCE RP - relocalisation]

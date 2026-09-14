@@ -1,6 +1,6 @@
 # Azoth, le Cardinal Demoniaque
 
-- version : W4
+- version : W8
 
 Etat decrit : jour 0. Fiche protagoniste, plafond derogatoire 20 000 caracteres.
 
@@ -8,6 +8,10 @@ Amendement W2 : perimetre de charge directe corrige - les majordomes et les serv
 relevent de Sebas, seules les Pleiades passent par le Cardinal.
 Amendement W3 : les rapports charnels du jour 0 qualifies en souvenir ecrit reciproque.
 Amendement W4 : la cuisine portee au rang de prodige ; maitrise des metiers de service du 9e.
+Amendement W5 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
+Amendement W6 : Trajectoire datee alimentee - R2 Berger Perdu (J9 -> J11).
+Amendement W7 : la chambre des desirs, chambre de confession - Ainz y vient.
+Amendement W8 : Trajectoire datee alimentee - R3 Berger Martyr (J11 -> J12).
 
 ## Identite
 
@@ -217,6 +221,10 @@ de depart ; ce qui lui sera remis vit en Trajectoire datee.
 La chambre des desirs n'est pas un objet mais un sort d'Ulbert, actif en permanence sur ses
 quartiers depuis leur creation.
 
+Elle est sa chambre de confession autant que de sexe, hors du confessionnal de la nef. Ainz
+y vient, lui qui ne franchit pas la porte de l'Eglise : c'est la que le Supreme et le
+Cardinal se parlent seul a seul (decision worldbuilder).
+
 ## Trajectoire datee
 
 Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
@@ -228,6 +236,22 @@ d'arc - des que le besoin se presentera.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J0 | Eveil en plein office : preche reel a son insu, interrompu par Message d'Ainz a la conclusion | conscience ; mission de tout savoir des 41 |
+| J0 | Ordres du transfert ; joute avec Demiurge ; serment a l'arene ; Pandora's Actor en Ulbert, reconfigure par Ainz | acces aux ecrits des Supremes a Ashurbanipal |
+| J1 | Anneau d'Ainz Ooal Gown remis par Ainz | Anneau au doigt en continu ; approbation du Supreme |
+| J1-J6 | Nuit non datee : Albedo dans la chambre des desirs ; demande en mariage prise pour une blague | corps plus vierge ; demande en mariage refusee |
+| J1-J6 | Premier charnel de Solution, non date | - |
+| J3 | Allegeance a Ainz sous son nouveau nom | - |
+| J7 | Sermon des pensees profondes ; avertissement de Demiurge ; question d'Aura (Touch Me / Ulbert) | question ouverte, sans reponse |
+| J8 | Coherence des 41 tenue par la force ; orgie avec Shalltear et ses epouses vampires | foi tenue par le forcage |
+| J9 | L'inconciliable Ulbert / Wish III ; deduction pure : les 41 faillibles, partis, peut-etre de simples mortels ; Demiurge le renvoie a Ainz | foi effondree |
+| J9 | Confession a Ainz en tete-a-tete ; revelation totale - Yggdrasil, PNJ programmes, Suzuki Satoru, le parametre d'Albedo ; colere ; demande d'etre tue ; sursis d'une semaine | sait tout ce qu'Ainz sait ; en sursis |
+| J10 | Cesse d'etudier, medite ; apprend la chute de Shalltear avec les Gardiens (canon) | - |
+| J11 | Sermon d'urgence force ; reconfort d'Albedo, sans un mot de sentiment | - |
+| J11 | Requete de debogage de CZ2128 ; la voie du bouclier ; retour a Ainz : vivre, conquerir Albedo, ranimer Shalltear, theologie sans faille ; Ainz promet les vrais 41 | sursis leve ; chantier du bouclier ouvert |
+| J11-J12 | Nuit : manuels de Python de Garnet a Ashurbanipal ; reprogrammation de CZ2128 par le panneau dorsal - logique theologique seule, verrous intacts | sait programmer ; CZ deboguee |
+| J12 | Suit par sort, avec les Gardiens, la mise a mort de Shalltear par Ainz ; au retour, la ramene a la vie en Salle du Trone avec une part de l'or de la Tresorerie ; perte reduite a trois niveaux | - |
+| J12 | Recoit l'Amulette du Saint Maudit d'Ainz, devant temoins, avec les autres artefacts ; refuse le titre de martyr qu'Ainz evoque | Amulette portee : sa maitrise divine dissimulee a toute observation, sans qu'il le sache |
 
 ## Renvois
 

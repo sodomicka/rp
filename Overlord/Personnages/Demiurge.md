@@ -1,6 +1,9 @@
 # Demiurge
 
-- version : W1
+- version : W3
+
+Amendement W2 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
+Amendement W3 : Trajectoire datee alimentee - R2 Berger Perdu (J9 -> J11).
 
 Etat decrit : jour 0.
 
@@ -102,6 +105,10 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J0 | Sent son jumeau plus investi a l'office, sans certitude ; joute des jumeaux vers l'arene, close sur "jamais nous ne nous entendrons" | - |
+| J7 | Avertit Azoth : concilier des paroles si profondes, c'est la folie qui guette | - |
+| J9 | Croise son jumeau aux cent pas ; devine la crise de foi annoncee, rien de la verite ; lui coupe la parole avant tout blaspheme, le renvoie a Ainz | - |
+| J11 | Note le sermon d'urgence force ; ne dit rien | - |
 
 ## Renvois
 

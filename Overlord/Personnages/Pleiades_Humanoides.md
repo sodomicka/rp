@@ -1,12 +1,15 @@
 # Pleiades - humanoides
 
-- version : W3
+- version : W5
 
-Etat decrit : jour 0.
+Etat decrit : jour 0. Plafond derogatoire : 10 000 caracteres (decision worldbuilder).
 
 Amendement W2 : precision sur le jour 0 pour Solution ; le detachement en mission sorti de la
 fiche, il releve de la roadmap.
 Amendement W3 : classement des karmas positifs corrige - Nigredo (+450) s'intercale.
+Amendement W4 : classement des karmas positifs retire ; Trajectoire datee alimentee - R1
+Berger Sincere (J0 -> J8).
+Amendement W5 : derogation de plafond a 10 000 caracteres.
 
 Portee : Yuri Alpha, Narberal Gamma, Solution Epsilon. Les deux anthropomorphes -
 Lupusregina Beta et Entoma Vasilissa Zeta - ont leur propre page.
@@ -37,8 +40,8 @@ Lupusregina Beta et Entoma Vasilissa Zeta - ont leur propre page.
 - Dullahan, niv. 51 : dix niveaux de zombie, un seul de dullahan, quarante de classe. Le
   racial est minimal - elle ne combat pas en morte-vivante, elle combat en corps-a-corps.
 - Creation de YAMAIKO. Karma +150.
-- QUATRIEME KARMA POSITIF DU TOMBEAU, apres Aureole Omega (+500), Nigredo (+450) et Sebas
-  Tian (+300). Deux des quatre servent au 9e, sous le Cardinal.
+- L'un des karmas positifs du Tombeau ; avec Sebas Tian, l'un des deux a servir au 9e, sous
+  le Cardinal.
 - Epithete : la grande soeur des servantes de combat. Vice-capitaine des Six Etoiles, seconde
   d'Azoth pour l'escouade.
 
@@ -168,6 +171,8 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 
 | Date/ere | Entite | Evenement | Delta d'etat |
 |---|---|---|---|
+| J0 | Les six | Mises en etat d'alerte au 9e par Azoth | - |
+| J1-J6 | Solution | Premier charnel avec Azoth, non date | premier acte de fait |
 
 ## Renvois
 

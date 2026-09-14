@@ -1,6 +1,10 @@
 # Chronologie des roadmaps - Azoth / Le Cardinal Demoniaque
 
-- version : W1
+- version : W3
+- amendement W3 : R3 builde, ses [A POSER] soldes en roadmap ; aucun titre de Martyr
+  en-monde - Ainz l'evoque, Azoth le refuse (decision worldbuilder).
+- amendement W2 : R1 et R2 buildes, leurs [A POSER] soldes en roadmap ; le jalon Zesshi
+  du J10 retire de R2 - hors camera, non narre (decision worldbuilder).
 - role : GARDE-CAP de la campagne. Decoupage R1 -> R5 dicte par le worldbuilder.
   Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de
   Passe 2) ; les [A POSER] listes ici s'y tranchent, jamais dans ce document.
@@ -26,7 +30,7 @@
   Parents canon : Decem Hougan (Roi Elfe) et sa mere de la Theocratie. Surshana
   grand-pere paternel ; Wish III grand-pere maternel.
 
-## R1 - Berger Sincere [A BUILDER]
+## R1 - Berger Sincere [BUILDE - W2]
 
 - Bornes : minuit du transfert, Azoth en plein office (J0) -> fin de l'etude confiante
   (J8 au soir).
@@ -41,42 +45,36 @@
   coherence ne tient qu'en forcant ; orgie avec les epouses vampires.
 - Element central : la parole unificatrice - la foi qui croit pouvoir tout concilier.
 - Fichier : Roadmap_1_Berger_Sincere.md
-- [A POSER] : porte de l'Eglise au J0 (la regle "Momonga ne franchit pas la porte"
-  nait-elle ici) ; nature materielle des ecrits et leurs ABSENCES (garde-fou : rien du
-  monde reel, rien du Dieu de la Vie) ; fascination d'Azoth face a Pandora's Actor a
-  accorder avec "il deteste, il se tait" (fiche) ; initiative des ordres du J0 ;
-  horaire de l'office.
+- [A POSER] : soldes au build (Roadmap_1_Berger_Sincere.md).
 
-## R2 - Berger Perdu [A BUILDER]
+## R2 - Berger Perdu [BUILDE - W2]
 
 - Bornes : l'inconciliable aux archives (J9) -> la voie du bouclier portee a Ainz
   (J11).
 - Jalons : J9 Ulbert contre Wish III, l'inconciliable ; crise de foi par deduction
   pure (voie 1 du garde-fou) ; renvoi par Demiurge vers Ainz ; REVELATION TOTALE par
   le Supreme (voie 2) ; demande d'etre tue, sursis d'une semaine - il n'en faudra que
-  deux jours ; J10 frappe de la Chute (canon), Zesshi apprend qu'existent des etres
-  dignes de la feconder ; J11 sermon d'urgence force, reconfort d'Albedo, requete de
+  deux jours ; J10 frappe de la Chute (canon) ; J11 sermon d'urgence force, reconfort
+  d'Albedo, requete de
   DEBOGAGE de CZ ; la voie du bouclier ; retour a Ainz : vivre, conquerir Albedo,
   ranimer Shalltear, reecrire la theologie sans faille ; Ainz offre les vrais 41
   (strate SELON SATORU d'Etres_Supremes).
 - Element central : la verite - deduction, revelation, survie.
 - Fichier : Roadmap_2_Berger_Perdu.md
-- [A POSER] : ce que Demiurge sait ou devine au J9 ; perimetre de la revelation
-  (rien sur le Dieu de la Vie, qu'Ainz ignore) ; deroule du soir du J11.
+- [A POSER] : soldes au build (Roadmap_2_Berger_Perdu.md).
 
-## R3 - Berger Martyr [A BUILDER]
+## R3 - Berger Martyr [BUILDE - W1]
 
-- Bornes : chantier du bouclier (J11 au soir) -> titre de Martyr decerne par Ainz
-  (J12+).
+- Bornes : chantier du bouclier (J11 au soir) -> Amulette remise, titre de martyr evoque
+  par Ainz et refuse par Azoth (J12).
 - Jalons : J11-J12 manuels de Python de Garnet, REPROGRAMMATION de CZ - logique
   theologique seule, verrous emotionnels INTACTS (Tchekhov preserve) ; J12 mise a mort
   de Shalltear par Ainz (canon) puis RESURRECTION par Azoth [DIVERGENCE - officiant],
-  Amulette du Saint Maudit remise apres ; J12+ MARTYR aux yeux d'Ainz, titre decerne
-  en-monde.
+  Amulette du Saint Maudit remise apres, avec les autres artefacts ; J12 martyr aux yeux
+  d'Ainz, titre evoque et refuse - aucun titre en-monde.
 - Element central : le mensonge sacre - la foi reconstruite en connaissance de cause.
 - Fichier : Roadmap_3_Berger_Martyr.md
-- [A POSER] : moquerie d'Aura apres la resurrection (journal) ; deroule de la seance
-  (lieu, temoins) ; ce que Nazarick sait alors du commanditaire de la frappe.
+- [A POSER] : soldes au build (Roadmap_3_Berger_Martyr.md).
 
 ## R4 - L'histoire des autres [BLOC - DECOUPAGE A POSER]
 

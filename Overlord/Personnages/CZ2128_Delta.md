@@ -1,11 +1,14 @@
 # CZ2128 Delta
 
-- version : W2
+- version : W5
 
-Etat decrit : jour 0.
+Etat decrit : jour 0. Plafond derogatoire : 10 000 caracteres (decision worldbuilder).
 
 Amendement W2 : sterilite actee ; regle d'acces au savoir des pieges ; la friction avec ses
 soeurs distinguee du mimetisme.
+Amendement W3 : Trajectoire datee alimentee - R1 et R2 (J0 -> J11).
+Amendement W4 : derogation de plafond a 10 000 caracteres.
+Amendement W5 : Trajectoire datee alimentee - R3 Berger Martyr (J11 -> J12).
 
 ## Identite
 
@@ -144,6 +147,10 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J0 | Mise en etat d'alerte au 9e par Azoth, avec ses soeurs | - |
+| J7 | Assiste au sermon des pensees profondes, sans ferveur ; l'analyse ensuite | - |
+| J11 | Presente a Azoth les incoherences logiques du sermon du J7 ; refuse de blasphemer, demande un DEBOGAGE | requete de debogage en attente ; verrous non concernes |
+| J11-J12 | Reprogrammee par Azoth via le panneau dorsal : logique theologique corrigee, verrous emotionnels intacts | incoherences du J7 resolues ; verrous inchanges |
 
 ## Renvois
 

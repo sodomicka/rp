@@ -1,6 +1,6 @@
 # Theologie d'Azoth - doctrine de l'Eglise Impie
 
-- version : W4
+- version : W5
 
 Doctrine au jour 0, foi intacte. L'officiant : cf. Personnages/Azoth.md. Le lieu : cf.
 Tombeau.md (9e etage). Le culte des 41 : cf. Regles_Internes.md. Les 41 : cf.
@@ -11,6 +11,8 @@ Amendements W2 : page renommee depuis Theologie_Azoth.md ; l'assistance a l'offi
 Amendement W3 : assistance elargie - toutes les Pleiades et tous les Gardiens disponibles ;
 Victim inscrit ; la restriction d'Aureole Omega precisee.
 Amendement W4 : cadence de l'office actee - HEBDOMADAIRE.
+Amendement W5 : horaire de l'office regulier fixe (le matin, 10h15) ; motif du silence
+d'Azoth face a Pandora's Actor precise.
 
 ## Le dogme : quarante et un dieux, une seule voix
 
@@ -42,7 +44,9 @@ Amendement W4 : cadence de l'office actee - HEBDOMADAIRE.
 
 - Cas ouvert et jamais tranche : Pandora's Actor incarne les Supremes par conception, et son
   createur est Momonga lui-meme. Le blaspheme est donc autorise par un dieu. Azoth le subit
-  sans en faire un conflit ; il deteste, il se tait. Cf. Personnages/Pandoras_Actor.md.
+  sans en faire un conflit ; il deteste, il se tait : il ne se permet pas de juger le
+  comportement d'une creation des 41, a fortiori celle du seul qui reste. Cf.
+  Personnages/Pandoras_Actor.md.
 
 ## Les saintes paroles - corpus du jour 0
 
@@ -88,8 +92,8 @@ Amendement W4 : cadence de l'office actee - HEBDOMADAIRE.
   reelle, la liturgie depravee.
 - Deroule : un sermon a tous. Azoth preche les saintes paroles et la voix unique, celebre
   les peches, guide les doutes. L'office s'arrete la.
-- Cadence : HEBDOMADAIRE. Un office par semaine ; des sermons d'urgence peuvent s'y
-  ajouter hors cycle.
+- Cadence : HEBDOMADAIRE, le matin a 10h15. Un office par semaine ; des sermons d'urgence
+  ou des offices exceptionnels peuvent s'y ajouter hors cycle.
 - Apres l'office : ceux qui veulent confesser ou qui cherchent un exutoire viennent voir
   Azoth - pas necessairement dans la foulee.
 - ASSISTANCE AU JOUR 0. REGLE : toutes les Pleiades y assistent, et tous les Gardiens

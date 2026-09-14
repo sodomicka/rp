@@ -1,11 +1,15 @@
 # Shalltear Bloodfallen
 
-- version : W3
+- version : W7
 
 Etat decrit : jour 0.
 
 Amendement W2 : coiffure fixee, la fiche la laissait non decrite.
 Amendement W3 : rapports charnels du jour 0 qualifies en souvenir ecrit reciproque.
+Amendement W4 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
+Amendement W5 : Trajectoire datee alimentee - R2 Berger Perdu (J9 -> J11).
+Amendement W6 : Trajectoire datee alimentee - R3 Berger Martyr (J11 -> J12).
+Amendement W7 : le Collier de Rubis de Sang recu au J12.
 
 ## Identite
 
@@ -107,6 +111,11 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J7 | Jalouse au sermon des regards entre Albedo et Azoth | - |
+| J8 | Orgie avec Azoth et ses epouses vampires, le soir | premier acte de fait |
+| J10 | Frappee par la Chute des Chateaux et des Royaumes (canon) | sous controle mental, hors de Nazarick |
+| J12 | Mise a mort par Ainz en duel (canon) ; ressuscitee par Azoth en Salle du Trone, devant les Gardiens ; taquinee par Aura a son reveil | niv. 97 : trois niveaux perdus (decision worldbuilder, perte reduite), a regagner ; hors du palier 3 jusque-la |
+| J12 | Recoit d'Ainz le Collier de Rubis de Sang, l'objet de rang monde cree pour elle, sorti du Mausolee | Collier porte |
 
 ## Renvois
 

@@ -1,9 +1,12 @@
 # Albedo
 
-- version : W2
+- version : W4
 
 Amendement W2 : les rapports charnels avec Azoth qualifies en souvenir ecrit reciproque -
 la fiche portait "non consomme au jour 0".
+Amendement W3 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8) ; la jalousie
+canon envers Pandora's Actor n'est pas retenue.
+Amendement W4 : Trajectoire datee alimentee - R2 Berger Perdu (J9 -> J11).
 
 Etat decrit : jour 0.
 
@@ -111,6 +114,8 @@ Point de mecanique central, a ne pas confondre :
   reste tourne vers Momonga ; le versant charnel va vers Azoth. ELLE IGNORE QU'IL L'AIME :
   il le tait. Elle est sa superieure hierarchique et n'a aucune prise sur son office.
 - SHALLTEAR. Rivalite ouverte pour la faveur du maitre.
+- PANDORA'S ACTOR. Aucun rapport particulier [DIVERGENCE RP - la jalousie canon envers la
+  seule creation dont le createur est reste n'est pas retenue].
 - LES QUARANTE ABSENTS. Au jour 0, elle les venere comme la doctrine l'exige, sans reserve
   ni rancune.
 
@@ -120,6 +125,11 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| J0 | Salle du Trone au transfert ; croise Azoth a l'arene, au serment | - |
+| J1-J6 | Nuit non datee : venue prier a l'Eglise Impie, conquise dans la chambre des desirs ; colere de coucher avec un autre qu'Ainz ; demande en mariage d'Azoth prise pour une blague | corps plus vierge ; bicorne accessible |
+| J7 | Regards devorants au sermon ; sexe avec Azoth apres l'office | - |
+| J10 | Chute de Shalltear (canon) | - |
+| J11 | Voit Azoth perdu ; couche avec lui pour le reconforter ; le croit resigne a ce qu'elle n'aime qu'Ainz ; s'inquiete sans le dire | - |
 
 ## Renvois
 
