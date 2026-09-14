@@ -1,6 +1,6 @@
 # Sommaire - WIKI Overlord
 
-- version : W24
+- version : W25
 
 Index de navigation. Fetche en debut de chaque thread. L'URL d'une page se construit :
 raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire est l'index.
@@ -35,7 +35,7 @@ raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire e
 | NouveauMonde/Theocratie_Slane.md | W1 | L'Etat, gouvernement, les Six Ecritures, rapport a Nazarick |
 | NouveauMonde/Re-Estize.md | W1 | Le Royaume, E-Rantel, Carne, l'Empire en notice |
 
-## Personnages (14 pages)
+## Personnages (18 pages)
 | Page | V | Contenu |
 |---|---|---|
 | Personnages/Ainz.md | W5 | Suzuki Satoru, la guilde, le calibre, l'ecart de savoir sur les quarante |
@@ -46,8 +46,12 @@ raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire e
 | Personnages/Aureole_Omega.md | W3 | Sainte aveugle, karma +500, Worldslicer, le Sanctuaire des Cerisiers |
 | Personnages/Sebas.md | W2 | Majordome d'Acier, karma +300, la machoire, le regime dechaine |
 | Personnages/CZ2128_Delta.md | W5 | La machine, le verrou de Garnet, munitions magiques, le Docteur |
-| Personnages/Pleiades_Humanoides.md | W5 | Yuri, Narberal, Solution : socle commun et trois blocs |
-| Personnages/Pleiades_Anthropomorphes.md | W1 | Lupusregina, Entoma : socle commun et deux blocs, garou et talismans |
+| Personnages/Pleiades.md | W1 | Socle commun des six : tableau, chaine d'ordres, corps neufs, rapports entre soeurs |
+| Personnages/Yuri_Alpha.md | W1 | La grande soeur : dullahan niv. 51, Fa Jin, institutrice, COACH, la garde a baisser |
+| Personnages/Narberal_Gamma.md | W1 | L'inflexible : doppelganger niv. 63, Foudre du Dragon, mepris des humains |
+| Personnages/Solution_Epsilon.md | W1 | La Cage Dissolvante : slime niv. 57, corps creux, se sentir femme, jeux de plateau |
+| Personnages/Lupusregina_Beta.md | W1 | La sadique souriante : garou niv. 59, clerc de combat, oreilles, logique de meute |
+| Personnages/Entoma_Vasilissa_Zeta.md | W1 | La talismanciere : arachnoide niv. 51, insecte-masque, gourmandise, la gene |
 | Personnages/Nigredo_et_Rubedo.md | W1 | Les soeurs d'Albedo : la Prison Gelee, la porcelaine, conscience limitee |
 | Personnages/Pandoras_Actor.md | W3 | La creation de Momonga : Tresorerie et Ashurbanipal, les ecrits des Supremes, 999 ans, karma 0 |
 | Personnages/Victim.md | W2 | L'ange du sacrifice : niv. 35, karma +500, la voix, ~400 ans, la protection d'Aureole |
