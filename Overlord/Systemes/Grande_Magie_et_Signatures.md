@@ -1,6 +1,11 @@
 # Grande magie et sorts signatures
 
-- version : W1
+- version : W3
+
+Amendement W3 : "La Mort nous fauchera Tous" tranchee grande magie (rang 11), combo
+Destruction + Guerison (decision worldbuilder) ; ligne des signatures d'Ainz corrigee.
+Amendement W2 : "La Mort nous fauchera Tous" inscrite au repertoire selon la divergence actee
+(Magie.md W2) ; l'entree canon (capacite de classe) est retiree.
 
 Page satellite de Magie.md. Le cadre des ecoles, des branches et des rangs y est defini ;
 cette page porte le rang 11 et le repertoire nomme.
@@ -9,7 +14,7 @@ cette page porte le rang 11 et le repertoire nomme.
 - Au-dessus du rang 10 : plus proche d'un phenomene que d'un sort.
 - TRANSCENDE LE SYSTEME D'ECOLES [DIVERGENCE RP] : chaque grande magie est un COMBO
   d'ecoles. Affaissement Celeste = Destruction + Alteration ; Sacrifices de la moisson
-  noire = Destruction + Conjuration.
+  noire = Destruction + Conjuration ; la Mort nous fauchera Tous = Destruction + Guerison.
 - Acces : niveau 70. Un sort de grande magie appris par niveau au-dela de 70, soit une
   trentaine de grandes magies pour un niveau 100.
 - Usages : une fois par jour a l'acces, une de plus par tranche de dix niveaux - quatre
@@ -30,12 +35,19 @@ cette page porte le rang 11 et le repertoire nomme.
 - Sacrifices de la moisson noire (Ia Shub-Niggurath) - grande magie (Destruction +
   Conjuration) ; sacrifie la vie en zone ; l'offrande est retribuee par l'arrivee des
   Chevreaux, en proportion du sacrifice.
-- la Mort nous fauchera Tous ! (The Goal of All Life is Death) - capacite de classe d'Ainz,
-  PAS une grande magie : son prochain effet de mort ignore les immunites, delai de 12 s.
+- La Mort nous fauchera Tous (The Goal of All Life is Death) [VF ACTEE ; DIVERGENCE RP] -
+  grande magie (Destruction + Guerison), heritee de Surshana, Dieu de la Mort, egalement
+  au repertoire d'Ainz. Degats immenses de PURE Energie Negative - le vecteur-miroir de la
+  Guerison retourne en arme : nuls sur quiconque en est immunise ou soigne. Regime de la
+  grande magie : acces au niveau 70, quatre lancers par jour a 100, incantation longue et
+  immobilisante. Canon abandonne : capacite de classe dont l'effet de mort ignorait les
+  immunites.
 - Explosion du Neant (Negative Burst) - degats d'Energie Negative de zone.
 - Trou Noir - annihilation gravitationnelle monocible.
 - Flammes de l'Enfer (Hell Flame) - feu infernal monocible.
-- Les six signatures d'Ainz relevent toutes de l'arcane. Azoth couvre les trois branches.
+- Les signatures d'Ainz de rang 9-10 relevent toutes de l'arcane ; ses grandes magies
+  (Affaissement Celeste, Sacrifices de la moisson noire, la Mort nous fauchera Tous)
+  transcendent les branches. Azoth couvre les trois branches.
 - Signatures par personnage : cf. Personnages/.
 
 ## Renvois

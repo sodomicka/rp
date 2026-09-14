@@ -1,7 +1,9 @@
 # Magie de rangs (tier magic)
 
-- version : W2
+- version : W3
 
+Amendement W3 : renvoi solde - "La Mort nous fauchera Tous" est au repertoire de
+Grande_Magie_et_Signatures.md (W2).
 Amendements W2 : Nigredo et Rubedo ventilees (soin, reparation) ; Lupusregina et Entoma
 precisees ; le sort "La Mort nous fauchera Tous" inscrit.
 
@@ -98,8 +100,8 @@ Regles :
   cf. Grande_Magie_et_Signatures.md.
 - LA MORT NOUS FAUCHERA TOUS [VF ACTEE ; DIVERGENCE RP] : sort signature herite de
   Surshana, egalement au repertoire d'Ainz. Degats immenses, mais de PURE Energie
-  Negative : nuls sur quiconque en est immunise ou soigne. Entree a porter au repertoire
-  de Grande_Magie_et_Signatures.md a sa prochaine relivraison.
+  Negative : nuls sur quiconque en est immunise ou soigne. Entree de tete ; repertoire et
+  rang : cf. Grande_Magie_et_Signatures.md.
 
 ## Classes de lanceurs
 - Arcane : elementaliste, sorcier, mage, arcaniste. La plus repandue.
