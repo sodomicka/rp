@@ -1,12 +1,14 @@
 # Nazarick - Regles internes et metaphysique
 
-- version : W5
+- version : W6
 
 Amendements W2 : renvois mis a jour - Theologie_Azoth.md est renommee Theologie_base.md.
 Amendement W3 : age programme de Sebas aligne sur la decision de build (~500 ans) ; renvoi
 vers Personnages/Aureole_Omega.md repare.
 Amendement W4 : garde-manger de viande humaine inscrit aux ressources.
 Amendement W5 : perimetre des souvenirs charnels programmes.
+Amendement W6 : ages programmes completes (Aura et Mare, Victim, Pandora's Actor) ; fecondite
+d'Ainz alignee sur la BIBLE (tranchee, B2).
 
 Etat decrit : jour 0.
 
@@ -28,8 +30,10 @@ Etat decrit : jour 0.
   NE COMPTE PAS et ne se discute pas. Aucune conversion ni dilatation temporelle entre
   Yggdrasil et le Nouveau Monde (decision worldbuilder).
 - AGES APPROXIMATIFS PAR DEFAUT : un age programme est un "environ" (Albedo ~500 ans, Sebas
-  ~500 ans, Cocytus ~1200 ans), sauf age symbolique voulu par le createur et fige (666 ans
-  des jumeaux Demiurge et Azoth). Tous les 41 n'etaient pas des experts en symbolisme.
+  ~500 ans, Cocytus ~1200 ans, Victim ~400 ans), sauf age symbolique voulu par le createur
+  et fige (666 ans des jumeaux Demiurge et Azoth, 999 ans de Pandora's Actor). Aura et
+  Mare : 76 ans (canon), enfants a l'echelle des elfes. Tous les 41 n'etaient pas des
+  experts en symbolisme.
 - Les Pleiades, hors Aureole : 23 ans apparents figes, trois siecles programmes
   [DIVERGENCE RP - uniformisation].
 - Aureole Omega : 21 ans apparents, plus de mille ans programmes. Humaine ETERNELLE, ecrite
@@ -42,9 +46,10 @@ Etat decrit : jour 0.
   que pour TROIS entites - Azoth, Albedo et Shalltear - et de facon RECIPROQUE : chacune
   porte le meme souvenir que les autres. Aucun autre PNJ n'en porte, les Pleiades comprises.
   Tout ce qui suivra sera reel et date.
-- CORPS FECONDS : les creations des 41 sont fecondes, succube, incube et vampire compris ;
-  la fecondite d'Ainz, mort-vivant, reste ouverte (decision worldbuilder). Fait du monde,
-  pas un savoir meta : chacun le sait de son propre corps.
+- CORPS FECONDS : les creations des 41 sont fecondes, succube, incube et vampire compris,
+  SAUF machines - CZ2128 (processeur) et Rubedo (porcelaine). La fecondite d'Ainz,
+  mort-vivant, est tranchee : CREATION EX NIHILO (decision worldbuilder, BIBLE SB1). Fait
+  du monde, pas un savoir meta : chacun le sait de son propre corps.
 - GARDE-FOU : cette nature programmee est INDECOUVRABLE en jeu par des moyens normaux. Les
   souvenirs sont indiscernables du vecu. Seules voies d'acces : deduction pure, ou
   revelation par un Supreme.
