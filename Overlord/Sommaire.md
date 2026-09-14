@@ -1,6 +1,6 @@
 # Sommaire - WIKI Overlord
 
-- version : W22
+- version : W24
 
 Index de navigation. Fetche en debut de chaque thread. L'URL d'une page se construit :
 raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire est l'index.
@@ -14,8 +14,8 @@ raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire e
 | Page | V | Contenu |
 |---|---|---|
 | Systemes/Yggdrasil.md | W1 | Le jeu d'origine, niveaux, races, objets de rang monde, transferts non ordonnes |
-| Systemes/Magie.md | W2 | Cinq ecoles, trois branches, Energie Negative, MP, rangs et plafonds |
-| Systemes/Grande_Magie_et_Signatures.md | W1 | Rang 11 et repertoire des sorts nommes |
+| Systemes/Magie.md | W3 | Cinq ecoles, trois branches, Energie Negative, MP, rangs et plafonds |
+| Systemes/Grande_Magie_et_Signatures.md | W3 | Rang 11 et repertoire des sorts nommes, dont La Mort nous fauchera Tous (Destruction + Guerison) |
 | Systemes/Systemes_Natifs.md | W1 | Arts Martiaux, Talents, Magie Sauvage, guilde des aventuriers |
 | Systemes/Echelle_Puissance.md | W2 | Bandes de niveaux, echelle interne de Nazarick, ancres natives |
 
@@ -24,7 +24,7 @@ raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire e
 |---|---|---|
 | Nazarick/Tombeau.md | W3 | Les dix etages, l'Eglise Impie, la Tresorerie relocalisee au 10e |
 | Nazarick/Organigramme.md | W2 | Hierarchie, chaine du 9e, Pleiades, gardiens de zone |
-| Nazarick/Regles_Internes.md | W5 | Metaphysique des PNJ, garde-fou, exception CZ2128, economie, securite |
+| Nazarick/Regles_Internes.md | W6 | Metaphysique des PNJ, ages programmes, garde-fou, exception CZ2128, economie, securite |
 | Nazarick/Etres_Supremes.md | W4 | Les 41, leurs creations, Wish III Dieu de la Vie, le transfert |
 | Nazarick/Theologie_base.md | W5 | Dogme, deux blasphemes, corpus preche, liturgie, confession |
 
