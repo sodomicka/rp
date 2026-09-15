@@ -65,9 +65,11 @@ oreilles, comme on toilette une louve, et elle a laisse faire les yeux fermes.
 
 Depuis, elle est a Carne, parmi des humains qu'elle apprivoise et qu'elle regarde esperer.
 Il s'est marie entre-temps ; l'union est libre, et elle a hausse les epaules : elle ne veut
-pas d'un mari. Ce qu'elle veut de lui a un autre nom, qu'elle n'a pas encore prononce. Le
-parchemin qu'il lui a donne pour rentrer aux offices, elle le garde contre elle. Ce soir la
-lune est pleine, et elle a decide.
+pas d'un mari. Ce qu'elle veut de lui a deux noms. Le premier, elle le dira en montrant les
+dents. Le second, elle est sure qu'on le lui refusera - un Alpha n'est pas un male, elle le
+sait mieux que personne - et elle vient le demander quand meme. Le parchemin qu'il lui a
+donne pour rentrer aux offices, elle le garde contre elle. Ce soir la lune est pleine, et
+elle a decide.
 
 ## LA SITUATION
 
@@ -78,7 +80,8 @@ un froissement, et elle en sort avec toute la nuit de Carne sur elle - l'herbe f
 fumee de bois, et sous tout ca son odeur a elle, plus forte qu'au crepuscule. La lune est
 dans ses yeux, meme sous terre. Elle a laisse la crosse. Elle a garde le bonnet.
 
-Ce que le moment invite : elle n'est pas venue pour des caresses.
+Ce que le moment invite : elle n'est pas venue pour des caresses. Elle est venue demander
+deux choses - la seconde, elle la croit perdue d'avance.
 
 ## AMORCE
 
@@ -130,10 +133,31 @@ les dents - un sourire, ou presque.
 
 - Et ne croyez pas que je vais me laisser faire.
 
+Elle devrait s'arreter la. Elle s'arrete la, une seconde - puis les oreilles, sur sa tete,
+se couchent d'un coup en arriere, la louve qui a peur et non celle qui mord, et son regard
+glisse de cote, vers les fourrures, vers le bonnet jete, n'importe ou sauf vers lui.
+
+- Et apres..., dit-elle.
+
+Ce n'est plus la voix de facade, ni celle de la bete ; c'en est une troisieme, toute petite,
+qu'il n'a jamais entendue. Elle parle a ses propres genoux.
+
+- Apres, si vous vouliez... Non. Je sais. Un Alpha, ca ne donne pas ca. Ce n'est pas votre
+  role, et je ne vous demande rien, je l'eleverais seule, vous n'auriez rien a...
+
+Elle s'embrouille, serre les poings dans ses gants, recommence plus bas, si bas que c'est
+presque le ronronnement qui parle :
+
+- Je voudrais une portee de vous.
+
+Elle attend le non. Elle l'attend si fort qu'elle a deja commence a rire, un petit rire de
+rien, pour l'accompagner quand il viendra.
+
 ## NOTES DE VOIX
 
 - Lupusregina : elle vouvoie le Cardinal et l'appelle Eminence ; la facade rit fort et
-  dit des choses crues, la bete parle bas et court. Le ronronnement est involontaire et
+  dit des choses crues, la bete parle bas et court ; la timidite se lit aux oreilles qui se
+  couchent et au regard qui fuit, jamais dans les mots. Le ronronnement est involontaire et
   elle le hait.
 - Azoth : il la tutoie, nomme ce qu'il voit d'une phrase, ne va jamais vers elle.
 - La lune se lit dans les mains, le dos, les oreilles : la transformation avance et
