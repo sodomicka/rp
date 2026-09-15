@@ -1,6 +1,6 @@
 # Demiurge
 
-- version : W3
+- version : W4
 
 Amendement W2 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
 Amendement W3 : Trajectoire datee alimentee - R2 Berger Perdu (J9 -> J11).
@@ -14,7 +14,10 @@ Etat decrit : jour 0.
   aussi sadique que possible.
 - Stratege de Nazarick et chef de son renseignement.
 - Jumeau d'Azoth : meme createur, meme moule. Cf. Rapports.
-- Titre : le Createur de l'Enfer Flamboyant [INCERTAIN - VF a fixer].
+- Titre : le Createur de l'Enfer Flamboyant.
+- Nommage : Ulbert le nomme dans la gnose - Demiurge, et Jaldabaoth, une meme figure ;
+  son jumeau Azoth, lui, recoit un nom d'alchimie (decision worldbuilder, cf.
+  Personnages/Azoth.md).
 
 ## Apparence
 
@@ -51,7 +54,6 @@ Etat decrit : jour 0.
   - Invocation d'un General Demon, une fois toutes les cinquante heures.
   - Flammes de Gehenne : illusion de langues de feu montant vers le ciel.
 - Resistances : magie, feu, froid, acide, effets mentaux, manipulation du temps.
-- Il possede la plus haute defense magique du Tombeau [INCERTAIN - non confirme en source].
 - PLACEMENT : palier 3, avec Cocytus, Azoth, Albedo et Shalltear. Le palier mesure la
   polyvalence. En puissance brute pure, il est le plus faible des Gardiens d'Etage - ce qui
   ne contredit pas le palier, le duel restant une affaire de specialite. Cf.

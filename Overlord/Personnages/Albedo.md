@@ -1,12 +1,16 @@
 # Albedo
 
-- version : W4
+- version : W6
 
 Amendement W2 : les rapports charnels avec Azoth qualifies en souvenir ecrit reciproque -
 la fiche portait "non consomme au jour 0".
 Amendement W3 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8) ; la jalousie
 canon envers Pandora's Actor n'est pas retenue.
 Amendement W4 : Trajectoire datee alimentee - R2 Berger Perdu (J9 -> J11).
+Amendement W5 : Trajectoire datee alimentee - R3 Berger Martyr (J12, ligne manquante) et R4
+Le Confident (J15 -> J20).
+Amendement W6 : surnom acte ; liste de classes en liste partielle ; Azoth cree en parallele
+d'elle (decisions worldbuilder, 2026-09-15).
 
 Etat decrit : jour 0.
 
@@ -19,7 +23,7 @@ Etat decrit : jour 0.
   alchimique - signature de Tabula, occultiste.
 - Poste : Salle du Trone, 10e etage. Tabula ne lui a JAMAIS cree de chambre : elle vit dans
   la Salle du Trone depuis sa creation.
-- Surnom : le Diable blanc bienveillant [INCERTAIN - VF a fixer].
+- Surnom : le Diable blanc bienveillant.
 
 ## Apparence
 
@@ -39,7 +43,7 @@ Tombeau voue au Mal.
 
 - Tank de melee. La meilleure defense physique de tout Nazarick. Sa fiche est chargee cote
   classes plutot que race : Gardienne, Chevalier Impie, Seigneur du Bouclier, Renegat
-  [INCERTAIN - liste revelee par l'auteur, possiblement partielle].
+  (liste partielle, canon).
 - Hermes Trismegistus, armure divine a trois couches : couche interne liquide epousant le
   corps et rehaussant ses capacites physiques, couche medianne integrale, couche externe qui
   renforce les deux autres. Defense physique massive, bonne resistance aux energies pures
@@ -107,7 +111,8 @@ Point de mecanique central, a ne pas confondre :
 - MOMONGA. Amour ecrit, total, sans recul possible. Elle constate qu'il ne repond pas a ses
   avances et le lit comme un refus. Elle ignore qu'il n'a ni libido ni fecondite :
   l'impossibilite lui est invisible.
-- AZOTH. Desir sexuel mutuel et immediat. Les rapports charnels entre eux appartiennent a la
+- AZOTH. Cree en parallele d'elle, incube en miroir de la succube, nomme dans l'alchimie
+  de Tabula (decision worldbuilder). Desir sexuel mutuel et immediat. Les rapports charnels entre eux appartiennent a la
   backstory programmee et sont RECIPROQUEMENT SOUVENUS ; aucun corps n'a rien vecu avant le
   jour 0. Cf. Nazarick/Regles_Internes.md. Elle est aimantee par sa
   luxure ; l'incube et la succube sont le meme condense de la meme passion. L'amour ecrit
@@ -130,6 +135,8 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J7 | Regards devorants au sermon ; sexe avec Azoth apres l'office | - |
 | J10 | Chute de Shalltear (canon) | - |
 | J11 | Voit Azoth perdu ; couche avec lui pour le reconforter ; le croit resigne a ce qu'elle n'aime qu'Ainz ; s'inquiete sans le dire | - |
+| J12 | Suit par sort le duel d'Ainz contre Shalltear ; Salle du Trone : resurrection de Shalltear par Azoth, remise des artefacts (R3) | - |
+| J15-J20 | Conquete ouverte : sexe et drague avec Azoth au fil de la semaine ; il la travaille - Ainz hors d'atteinte, pas interesse ; elle croit toujours Ainz sien, c'est ecrit | conquete ouverte, aucun basculement |
 
 ## Renvois
 

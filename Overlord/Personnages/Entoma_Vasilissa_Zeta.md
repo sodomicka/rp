@@ -1,6 +1,8 @@
 # Entoma Vasilissa Zeta
 
-- version : W1
+- version : W3
+
+Amendement W2 : Trajectoire datee alimentee - R4 Le Confident (J14).
 
 Etat decrit : jour 0.
 
@@ -15,7 +17,7 @@ Personnages/Pleiades.md.
   Alpha ; seule CZ2128 Delta est en dessous.
 - Creation de GENJIRO. Karma -100 : voir l'humain comme de la nourriture n'est pas
   particulierement mal, dit l'auteur lui-meme.
-- Titre : la Servante qui aime les insectes [VF A FIXER].
+- Titre : la Servante aux insectes.
 - Pas tout a fait une servante de combat : le soutien qui epaule les cinq autres. Elle tient
   pourtant un duel, par le niveau et par la variete de ses insectes.
 - Trois siecles programmes (socle). VIVANTE : le sacre la soigne, l'Energie Negative la
@@ -33,7 +35,7 @@ Personnages/Pleiades.md.
 - VOIX : un INSECTE-LEVRE loge dans la gorge. Il a mange les cordes vocales d'une victime et
   en reproduit la voix. Au jour 0 : une voix de jeune femme, douce [DIVERGENCE RP - le canon
   donne une voix de fillette ; regle ferme du casting, cf. BIBLE SB1]. A qui elle fut prise :
-  non ecrit [INCERTAIN]. L'insecte-levre ne se reapparait pas en POP : unique, irremplacable
+  non ecrit au canon. L'insecte-levre ne se reapparait pas en POP : unique, irremplacable
   par les moyens du Tombeau.
 
 ## Sous le masque
@@ -41,7 +43,7 @@ Personnages/Pleiades.md.
 - Arachnoide : hybride d'araignee et d'humain. Yeux composes, champ de vision immense ;
   antennes sensibles aux deplacements d'air - une attaque dans son dos, elle la sent. Vraie
   bouche sous le menton : c'est par elle qu'elle mange, jamais par le masque. Pattes
-  d'araignee dans le dos [INCERTAIN - design anime tardif, non atteste dans le texte].
+  d'araignee dans le dos (design anime, absent du texte).
 - CHITINE SENSIBLE (decision worldbuilder) : le toucher passe la carapace. Un contact sur
   une mandibule, elle le sent.
 - Sa vraie voix : mature et vibrante [DIVERGENCE RP - lecture anime, decision worldbuilder ;
@@ -54,8 +56,8 @@ Personnages/Pleiades.md.
   l'ILLUSION ; ce sont leurs EFFETS qui agissent comme ceux d'une ecole arcane - foudre,
   explosion, invocation, renforcement (decision worldbuilder ; ventilation cf.
   Systemes/Magie.md). Classes : Talismanciere 10, Attaquante furtive 7, Controleuse
-  d'insectes 7, Maitresse d'armes 3, plus des classes annexes [INCERTAIN - source
-  secondaire].
+  d'insectes 7, Maitresse d'armes 3, plus des classes annexes (liste partielle, source
+  secondaire).
 - Elle lance jusqu'au rang 5 (decision worldbuilder ; le canon atteste le rang 3).
 - Talismans d'attaque : Oiseau de Foudre (un oiseau d'eclairs fond sur la cible, aveugle et
   foudroie) ; Nuee d'Oiseaux de Foudre (version de zone, oiseaux plus petits) ; Explosif (de
@@ -117,6 +119,7 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | J0 | Mise en etat d'alerte au 9e par Azoth, avec ses soeurs | - |
+| J14 | Seance 1 avec Azoth, cuisines du 9e, apres l'office : intronisation - une viande passee pour humaine ; se regale, heureuse d'apprendre que c'etait du porc | fil : seance 1 faite |
 
 ## Renvois
 

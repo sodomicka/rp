@@ -1,6 +1,6 @@
 # Les 41 Etres Supremes (guilde Ainz Ooal Gown)
 
-- version : W4
+- version : W5
 
 Amendements W3 : strate SELON SATORU ajoutee sous chaque createur - le regard du joueur sur
 ses camarades, distinct de ce que Nazarick en sait. Renvois Theologie_base.md.
@@ -52,6 +52,9 @@ Etat decrit : jour 0.
   - SELON SATORU : chuunibyou assume, brouille avec Touch Me sur la justice. L'un des plus
     proches de Momonga, qui partageait son gout du style - le nom Ainz Ooal Gown,
     Pandora's Actor.
+  - Nommage : Demiurge et Jaldabaoth, une meme figure de la gnose ; Azoth, cree en
+    parallele d'Albedo comme incube en miroir de la succube de Tabula, recoit un nom du
+    jargon alchimique de Tabula (decision worldbuilder).
 - Peroroncino : archer oiseau, otaku assume. Createur de Shalltear Bloodfallen.
   - SELON SATORU : bruyant, drole, otaku de H-games sans la moindre gene. Chambre par sa
     soeur ainee. Momonga l'aimait bien et rougissait de ses histoires.
@@ -106,8 +109,10 @@ Etat decrit : jour 0.
   Grands Dieux fondateurs de la Theocratie de Slane, ou il tient le siege de DIEU DE LA VIE.
   De la vient la symbolique biblique de la Theocratie - ses institutions religieuses, ses
   anges - portee depuis Yggdrasil.
-- Pseudonyme humain : [INCERTAIN - a trancher par le worldbuilder ; symbole biblique
-  discret recherche].
+- Pseudonyme humain : ALAH ALAF, le nom canon du siege (decision worldbuilder, 2026-09-15).
+  Un catholique passionne qui emprunte aux religions soeurs - l'hebreu et l'arabe, l'aleph
+  et le nom de Dieu - pour se nommer : le symbole est la, discret. Cf.
+  NouveauMonde/Six_Grands_Dieux.md.
 - Consequence chronologique : les transferts ne sont pas ordonnes (cf.
   Systemes/Yggdrasil.md). Il arrive six cents ans avant Momonga.
 - Consequence factuelle : il est MORT depuis des siecles, comme les cinq autres, alors que

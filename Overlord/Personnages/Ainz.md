@@ -1,11 +1,16 @@
 # Ainz Ooal Gown (Momonga)
 
-- version : W5
+- version : W7
 
 Amendement W2 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
 Amendement W3 : Trajectoire datee alimentee - R2 Berger Perdu (J9 -> J11).
 Amendement W4 : Trajectoire datee alimentee - R3 Berger Martyr (J11 -> J12).
 Amendement W5 : derogation de plafond a 10 000 caracteres.
+Amendement W6 : "La Mort nous fauchera Tous" alignee sur la BIBLE (grande magie rang 11,
+pure Energie Negative) ; Azoth confident ; Trajectoire datee alimentee - R4 Le Confident
+(J12 -> J25).
+Amendement W7 : karma -500 et 718 sorts durcis (canon) ; rang de guilde "29e" coupe, non
+source (decisions worldbuilder, 2026-09-15).
 
 Etat decrit : jour 0. Plafond derogatoire : 10 000 caracteres (decision worldbuilder).
 Au point de depart, il porte encore le nom de Momonga ; il ne prend
@@ -44,7 +49,8 @@ et la fourchette est maintenue (decision worldbuilder).
   financer l'entretien du Tombeau, depot au Tresor, deconnexion. Routine quasi journaliere.
 - Il evite les autres joueurs et les zones a haute difficulte qu'il frequentait en groupe.
   CONSEQUENCE : il ne connait presque aucun PNJ du Tombeau, faute d'avoir eu a leur parler.
-- Rang de guilde tombe de 9e a 29e faute de membres actifs [INCERTAIN - source secondaire].
+- Neuvieme guilde d'Yggdrasil a son apogee ; en declin faute de membres actifs a la
+  fermeture.
 - Une trentaine de camarades ont supprime leur avatar en partant et lui ont legue leur
   equipement. Il a fait sculpter les Avatara du Mausolee a leur image.
 
@@ -57,16 +63,17 @@ liseres or et violet.
 
 ## Mecanique
 
-- Magic caster niv. 100, branche arcane exclusivement. Karma -500 [INCERTAIN].
+- Magic caster niv. 100, branche arcane exclusivement. Karma -500 (canon).
 - Six signatures arcanes : Emprise cardiaque, Affaissement Celeste, Sacrifices de la moisson
   noire, Explosion du Neant, Trou Noir, Flammes de l'Enfer. Cf.
   Systemes/Grande_Magie_et_Signatures.md.
-- Repertoire de plus de sept cents sorts [INCERTAIN sur le chiffre exact].
+- Repertoire de 718 sorts (canon).
 - Grande magie : quatre usages par jour au niveau 100. Incantation longue et immobilisante.
 - Auras de desespoir, en cinq versions de puissance croissante.
 - Creation gratuite de morts-vivants, un quota par jour, sans depense de MP.
-- "la Mort nous fauchera Tous !" - capacite de classe, PAS une grande magie : son prochain
-  effet de mort ignore les immunites, avec un delai de douze secondes.
+- "La Mort nous fauchera Tous" [DIVERGENCE RP] - grande magie (rang 11, Destruction +
+  Guerison) heritee de Surshana, a son repertoire ; pure Energie Negative : nulle sur qui en
+  est immunise ou soigne. Cf. Systemes/Grande_Magie_et_Signatures.md.
 - Nullification passive des degats physiques de bas rang ; desactivable a volonte.
 - Immunites de mort-vivant : effets mentaux, poison, maladie, effets de mort instantanee.
   Soigne par l'Energie Negative, vulnerable au sacre (cf. Systemes/Magie.md).
@@ -99,7 +106,9 @@ ne peut pas employer lui-meme. Cf. Nazarick/Tombeau.md pour le Mausolee et la Tr
 
 - AZOTH. Creation d'un Supreme : il l'aime comme il aime tout PNJ de Nazarick, sans
   distinction ni mefiance. Il ne franchit pas la porte de l'Eglise Impie : c'est le lieu des
-  fideles, pas des 41, et il leur laisse cette intimite [DIVERGENCE RP].
+  fideles, pas des 41, et il leur laisse cette intimite [DIVERGENCE RP]. Des le J12, Azoth
+  est son SEUL CONFIDENT et l'etre le plus stable de Nazarick ; officieusement son bras
+  droit, sans titre (decision worldbuilder ; cf. Trajectoire datee).
 - ALBEDO. Il a reecrit son parametre "epouse" juste avant la fermeture, par plaisanterie, et
   s'en trouve embarrasse des l'eveil. Cf. Personnages/Albedo.md.
 - PANDORA'S ACTOR. Sa seule creation, concue pour preserver l'identite de la guilde et
@@ -130,7 +139,10 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J10 | Chute de Shalltear (canon) ; reunit les Gardiens et l'annonce | - |
 | J11 | Recoit le retour d'Azoth ; promet de lui raconter les vrais 41 | - |
 | J11 | Sort les objets de rang monde du Mausolee pour affronter Shalltear (canon) | - |
-| J12 | Tue Shalltear en duel (canon), les Gardiens suivant par sort ; laisse Azoth la ressusciter ; distribue les artefacts, dont l'Amulette du Saint Maudit a Azoth ; evoque un titre de martyr, retire sur refus | - |
+| J12 | Tue Shalltear en duel (canon), les Gardiens suivant par sort ; laisse Azoth la ressusciter ; distribue les artefacts, dont l'Amulette du Saint Maudit a Azoth ; evoque un titre de martyr, retire sur refus | Azoth : seul confident, bras droit officieux |
+| J13 | Chambre des desirs : raconte Peroroncino a Azoth (SELON SATORU) ; lui expose le projet d'infiltrer la capitale du Royaume ; Azoth propose Solution en noble et Sebas en majordome | mission de Sebas et Solution decidee |
+| J21 | Reproche a Narberal sa froideur avec les humains ; autorise sans hesiter la sortie d'Azoth a Carne avec elle | - |
+| J25 | Salle du Trone : confie a Cocytus, a sa demande, la conquete des hommes-lezards avec une armee de morts-vivants (canon) | - |
 
 ## Renvois
 

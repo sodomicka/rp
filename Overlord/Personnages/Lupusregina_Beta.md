@@ -1,6 +1,6 @@
 # Lupusregina Beta
 
-- version : W1
+- version : W2
 
 Etat decrit : jour 0.
 
@@ -13,7 +13,7 @@ manque, logique de meute (Psychologie). Socle commun des six : cf. Personnages/P
 - Garou, niv. 59 : cinq niveaux raciaux, cinquante-quatre de classe. Le build mise sur les
   classes, pas sur le racial : pas une bete qui se jette, une clerc qui encaisse.
 - Creation de BEAST KING MEKONGAWA. Karma -200.
-- Titre : la Sadique au masque souriant [VF A FIXER].
+- Titre : la Sadique au masque souriant.
 - Deuxieme niveau des six, apres Narberal Gamma. Les meilleures stats d'ensemble des
   Pleiades, et la meilleure defense physique (fiche officielle, LN vol. 8).
 - La seule des six capable de frayer chaleureusement avec des humains - en facade.
@@ -44,8 +44,8 @@ worldbuilder.
 ## Mecanique
 
 - CLERC DE COMBAT : elle soigne et elle encaisse. Classes : Garou 5, Clerc 10, Clerc de
-  guerre, Seigneur de guerre, Hierophante, plus des classes annexes [INCERTAIN - repartition
-  hors Clerc 10 non confirmee en source primaire].
+  guerre, Seigneur de guerre, Hierophante, plus des classes annexes (repartition hors Clerc
+  10 indicative, source secondaire).
 - Elle lance jusqu'au rang 7 (decision worldbuilder ; le canon atteste le rang 6).
 - TRIPLE LANCEUSE, par ventilation d'ecole (decision worldbuilder) : Guerison, Destruction,
   Alteration, Illusion. Elle couvre les trois branches, comme le Cardinal, sans qu'il lui en

@@ -1,6 +1,9 @@
 # Narberal Gamma
 
-- version : W1
+- version : W3
+
+Amendement W2 : Trajectoire datee alimentee - detachement a E-Rantel (~J8, canon) ; R4 Le
+Confident (J13 -> J22).
 
 Etat decrit : jour 0.
 
@@ -27,7 +30,7 @@ worldbuilder, 2026-09-14). Contenu repris a l'identique ; ajout : ce qui lui man
 ## Mecanique
 
 - Lanceuse arcane. Classes : Guerrier 1, Mage de Guerre 10, Elementaliste de l'Air 10, plus
-  des classes magiques annexes [INCERTAIN - liste non confirmee en source primaire].
+  des classes magiques annexes (liste partielle, source secondaire).
 - SPECIALISATION ELEMENTAIRE DE L'AIR : ses sorts d'air sont amplifies et TOUT LE RESTE est
   affaibli. C'est un arbitrage de construction, pas un bonus gratuit.
 - Elle lance jusqu'au rang 8.
@@ -67,6 +70,11 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | J0 | Mise en etat d'alerte au 9e par Azoth, avec ses soeurs | - |
+| ~J8 | Detachee aupres d'Ainz en Nabe, aventuriere a E-Rantel (canon) | hors du Tombeau, retours par intermittence |
+| J13 | Au Tombeau avec Momon ; recoit d'Azoth un parchemin de guidance | rentre par parchemin pour les offices |
+| J14, J21 | Offices, rentree par parchemin | - |
+| J21 | Ainz lui reproche sa froideur avec les humains ; veut etre une meilleure alliee et le demande a Azoth | - |
+| J22 | Carne avec Azoth, sous illusion humaine ; elle en Nabe : apprendre a mieux s'exprimer avec des humains - seance 1 | fil : seance 1 faite |
 
 ## Renvois
 

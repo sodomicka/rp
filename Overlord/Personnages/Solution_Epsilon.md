@@ -1,6 +1,8 @@
 # Solution Epsilon
 
-- version : W1
+- version : W2
+
+Amendement W2 : Trajectoire datee alimentee - R4 Le Confident (J15-J20).
 
 Etat decrit : jour 0.
 
@@ -77,6 +79,7 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 |---|---|---|
 | J0 | Mise en etat d'alerte au 9e par Azoth, avec ses soeurs | - |
 | J1-J6 | Premier charnel avec Azoth, non date | premier acte de fait |
+| J15-J20 | Seance recurrente avec Azoth : sexe en version slime ; partie de plateau tres serree, victoires alternees | - |
 
 ## Renvois
 

@@ -1,8 +1,11 @@
 # Aureole Omega
 
-- version : W3
+- version : W4
 
 Amendement W3 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
+Amendement W4 : co-conceptrice des parchemins de guidance ; sorties limitees aux sermons,
+en garde du corps de Victim (decisions worldbuilder) ; Trajectoire datee alimentee - R4
+Le Confident (J13).
 
 Etat decrit : jour 0.
 
@@ -69,7 +72,13 @@ Etat decrit : jour 0.
   personnellement pour cette charge.
 - PROTECTRICE DE VICTIM, en mission permanente au 8e - ce qui lui retire le commandement
   effectif des Pleiades.
-- Recluse : elle ne quitte pas son etage, hors offices.
+- Recluse : elle ne quitte son etage que pour les sermons, toujours en garde du corps de
+  Victim (decision worldbuilder). Cf. Personnages/Victim.md.
+- CO-CONCEPTRICE DES PARCHEMINS DE GUIDANCE, avec Azoth, depuis le J13 [DIVERGENCE RP -
+  decision worldbuilder] : le relais renouvelable qui compense les materiaux du Nouveau
+  Monde par deux prodiges, pour rendre la foi accessible a tous. Elle NE SURVEILLE PAS les
+  allers et venues par parchemin : ils ne relevent pas d'elle, a la difference des portes.
+  Cf. Personnages/Azoth.md et Nazarick/Regles_Internes.md.
 
 ## Le secret du Sanctuaire
 
@@ -114,6 +123,7 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 |---|---|---|
 | J0 | Demande a l'officiant qui etait Wish III ; renvoyee au 8e avec Victim | Tchekhov detone : mission des 41 declenchee |
 | J7 | Comblee : la pensee profonde de Wish III prechee | - |
+| J13 | Concoit avec Azoth, au Sanctuaire des Cerisiers, le relais renouvelable des parchemins de guidance, en prevision du depart de Sebas et Solution | co-conceptrice ; les retours par parchemin hors de son registre |
 
 ## Renvois
 

@@ -1,22 +1,26 @@
 # Chronologie des roadmaps - Azoth / Le Cardinal Demoniaque
 
-- version : W4
-- amendement W4 : le bloc R4-R5 est ECLATE en R4 -> R11 (decision worldbuilder,
-  2026-09-14) ; section "Fils transversaux" creee (six fils Pleiades dictes, Shalltear,
-  Solution, conquete d'Albedo) ; CORRECTIONS de W3 : mariage en R9, apres la visite de
-  Jircniv, donc AVANT la fondation du Royaume Sorcier (W3 : "juste avant l'arc des nains,
-  LN 10/11, apres la fondation") ; "deux seules sorties" RETIRE - Azoth sort peu, sans
-  compte ; "chasse aux traces" -> SURVEILLANCE ; raccords CZ et Entoma bascules en fils ;
-  R3 aligne [BUILDE - W2].
-- amendement W3 : R3 builde, ses [A POSER] soldes en roadmap ; aucun titre de Martyr
-  en-monde - Ainz l'evoque, Azoth le refuse (decision worldbuilder).
-- amendement W2 : R1 et R2 buildes, leurs [A POSER] soldes en roadmap ; le jalon Zesshi
-  du J10 retire de R2 - hors camera, non narre (decision worldbuilder).
+- version : W7
+- amendement W7 : DEROGATION 20 000 caracteres (decision worldbuilder, 2026-09-15) ;
+  elagage de ce qui est deja pose ailleurs - blocs buildes (R1 -> R4) reduits a bornes,
+  fichier, element central ; historique des amendements compresse ; reperes parchemins
+  reduits au pointeur ; seances faites reduites au renvoi. Aucune decision retiree : ce
+  qui a quitte ce fichier vit dans les roadmaps et les fiches.
+- historique : W2 R1-R2 buildes ; W3 R3 builde, pas de titre de Martyr ; W4 bloc R4-R5
+  eclate en R4 -> R11, fils transversaux, corrections (mariage R9 apres Jircniv ; Azoth
+  sort peu, sans compte ; surveillance) ; W5 Export 2bis porte (fil Ainz, decoupage R4,
+  parchemins renouvelables) ; W6 R4 builde, Cocytus.md cree, aucune numerotation des
+  sorties, regle des titres.
 - role : GARDE-CAP de la campagne. Decoupage R1 -> R11 dicte par le worldbuilder.
   Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de
   Passe 2) ; les [A POSER] listes ici s'y tranchent, jamais dans ce document.
-- convention de nommage : l'ETAT DU BERGER pour R1-R3 (actee) ; R4 et R5 titres valides ;
-  R6 -> R10 : titres [A POSER] au build de chacune.
+- TITRES (decision worldbuilder, 2026-09-15) : R1-R3 poses par un thread precedent sans
+  validation - a reprendre sur demande ; R4 : LE CONFIDENT ; R5 -> R11 : titre choisi par
+  le worldbuilder sur propositions du MJ, au build de chacune. Un titre est neutre : il ne
+  numerote ni ne hierarchise rien.
+- AUCUNE NUMEROTATION DES SORTIES d'Azoth, nulle part : ni compte, ni "premiere", ni
+  hierarchie (decision worldbuilder, 2026-09-14). Idem pour les recits, les seances hors
+  grille dictee, les paroles.
 - prota / POV : Azoth, Cardinal Demoniaque de Nazarick.
 - canon par defaut : entre et sous les blocs, le canon (LN 1 -> 16) tourne tel quel
   tant que le worldbuilder n'y touche pas ; les divergences dictees sont balisees.
@@ -41,86 +45,55 @@
   nains [duree du mois et saisons : CANON SUPPOSE, Timeline fandom].
 - Office de l'Eglise Impie : HEBDOMADAIRE (acte). J0 et J7 en cycle ; J11 sermon
   d'urgence hors cycle ; puis J14, J21, J28, J35...
-- RETOURS AU TOMBEAU (decision worldbuilder) : Azoth offre des parchemins de Teleportation
-  Superieure (rang 10, Alteration - "deplacements", cf. Systemes/Magie.md) a quiconque a
-  besoin de guidance ; il sait les creer, Nazarick a les ingredients. Ouverts d'ou l'on
-  veut, vers tout lieu deja visite. Sebas, Solution, Narberal, Lupusregina rentrent ainsi
-  pour les offices et les seances. Regle a inscrire a Nazarick/Regles_Internes.md et
-  Personnages/Azoth.md [ingredients finis ou renouvelables : A POSER].
+- RETOURS AU TOMBEAU : parchemins de guidance (Teleportation Superieure, rang 10),
+  renouvelables, relais Azoth-Aureole depuis le J13 ; Sebas, Solution, Narberal,
+  Lupusregina rentrent ainsi pour offices et seances ; Aureole ne les surveille pas.
+  Regle : Nazarick/Regles_Internes.md ; detail : Personnages/Azoth.md.
 - Zesshi Zetsumei : DESCENDANTE des dieux [CORRECTION de B1, qui la disait nee d'eux].
   Parents canon : Decem Hougan (Roi Elfe) et sa mere de la Theocratie. Surshana
   grand-pere paternel ; Wish III grand-pere maternel.
 
 ## R1 - Berger Sincere [BUILDE - W2]
 
-- Bornes : minuit du transfert, Azoth en plein office (J0) -> fin de l'etude confiante
-  (J8 au soir).
-- Jalons : J0 preche reel a son insu, interruption d'Ainz, question d'Aureole sur Wish
-  III -> mission "tout savoir des 41" ; ordres du Cardinal, joute des jumeaux ; arene,
-  serment, acces aux archives, Pandora's Actor en Ulbert ; J0-J8 etude des ecrits a
-  ASHURBANIPAL [AMENDEMENT Theologie_profonde : archives, plus la Tresorerie] ; J1
-  Anneau, au doigt des lors ; nuit non datee : premiere conquete d'Albedo, demande en
-  mariage prise pour une blague (ironie joueur -> CODEX) ; premier charnel de
-  Solution ; J3 allegeance au nom, 41 en un (toile de fond : Carne) ; J7 sermon
-  fervent, avertissement de Demiurge, question d'Aura (Touch Me contre Ulbert) ; J8 la
-  coherence ne tient qu'en forcant ; orgie avec les epouses vampires.
+- Bornes : J0, Azoth en plein office -> J8 au soir. Fichier : Roadmap_1_Berger_Sincere.md.
 - Element central : la parole unificatrice - la foi qui croit pouvoir tout concilier.
-- Fichier : Roadmap_1_Berger_Sincere.md
-- [A POSER] : soldes au build (Roadmap_1_Berger_Sincere.md).
 
 ## R2 - Berger Perdu [BUILDE - W2]
 
-- Bornes : l'inconciliable aux archives (J9) -> la voie du bouclier portee a Ainz
-  (J11).
-- Jalons : J9 Ulbert contre Wish III, l'inconciliable ; crise de foi par deduction
-  pure (voie 1 du garde-fou) ; renvoi par Demiurge vers Ainz ; REVELATION TOTALE par
-  le Supreme (voie 2) ; demande d'etre tue, sursis d'une semaine - il n'en faudra que
-  deux jours ; J10 frappe de la Chute (canon) ; J11 sermon d'urgence force, reconfort
-  d'Albedo, requete de DEBOGAGE de CZ ; la voie du bouclier ; retour a Ainz : vivre,
-  conquerir Albedo, ranimer Shalltear, reecrire la theologie sans faille ; Ainz offre
-  les vrais 41 (strate SELON SATORU d'Etres_Supremes).
+- Bornes : J9, l'inconciliable aux archives -> J11, la voie du bouclier portee a Ainz.
+  Fichier : Roadmap_2_Berger_Perdu.md.
 - Element central : la verite - deduction, revelation, survie.
-- Fichier : Roadmap_2_Berger_Perdu.md
-- [A POSER] : soldes au build (Roadmap_2_Berger_Perdu.md).
 
 ## R3 - Berger Martyr [BUILDE - W2]
 
-- Bornes : chantier du bouclier (J11 au soir) -> Amulette remise, titre de martyr evoque
-  par Ainz et refuse par Azoth (J12).
-- Jalons : J11-J12 manuels de Python de Garnet, REPROGRAMMATION de CZ - logique
-  theologique seule, verrous emotionnels INTACTS (Tchekhov preserve) ; J12 mise a mort
-  de Shalltear par Ainz (canon) puis RESURRECTION par Azoth [DIVERGENCE - officiant],
-  Amulette du Saint Maudit remise apres, avec les autres artefacts ; J12 martyr aux yeux
-  d'Ainz, titre evoque et refuse - aucun titre en-monde.
+- Bornes : J11 au soir, chantier du bouclier -> J12, Amulette remise, titre de martyr
+  refuse. Fichier : Roadmap_3_Berger_Martyr.md.
 - Element central : le mensonge sacre - la foi reconstruite en connaissance de cause.
-- Fichier : Roadmap_3_Berger_Martyr.md
-- [A POSER] : soldes au build (Roadmap_3_Berger_Martyr.md).
 
-## R4 - Les vrais 41 [A BUILDER]
+## R4 - Le Confident [BUILDE - W1]
 
-- Bornes : J12 au soir, l'Amulette au cou -> J26.
-- Face Tombeau : Ainz raconte les vrais 41 (strate SELON SATORU, offerte J11) - seances au
-  Tombeau, Momon a E-Rantel par intermittence [canon par defaut] ; offices J14 et J21 ;
-  chantier de la THEOLOGIE SANS FAILLE ; la CONQUETE D'ALBEDO commence (fil continu ->
-  R8) ; Shalltear revenue a 97, crise de legitimite ouverte (fil) ; seances : Yuri 1,
-  Entoma 1, Narberal 1 (Carne, cf. Fils), Solution recurrent.
+- Bornes : J12 au soir, l'Amulette au cou -> J26. Fichier : Roadmap_4_Le_Confident.md.
+- Etapes : (1) J12 soir -> J14 Le recit de Peroroncino ; (2) J15 -> J20 La conquete ;
+  (3) J21 -> J23 Carne ; (4) J24 -> J26 Le conseil.
 - Element central : ce qu'un homme sait des dieux.
-- Fichier : [A POSER au build]
-- [A POSER] : decoupage en etapes ; contenu et ordre des recits d'Ainz, ce qui y ebranle
-  Azoth ; premier preche "sans faille" dans ce bloc ou pas encore ; sortie a Carne avec
-  Narberal (Ainz le sait ? jour ?).
+- Ce que R4 a pose pour la suite : Azoth seul confident d'Ainz ; parchemins renouvelables
+  en place (J13) ; mission de Sebas et Solution decidee (J13) ; conquete d'Albedo et crise
+  de Shalltear ouvertes ; Cocytus designe a sa demande (J25). Detail : roadmap et fiches.
 
-## R5 - La premiere sortie [A BUILDER]
+## R5 - [TITRE A CHOISIR] - LN 4 [A BUILDER]
 
 - Bornes : J27 -> J36 (LN 4).
 - Face Tombeau : campagne des hommes-lezards HORS CHAMP ; depart et rapports de Cocytus ;
-  J36 premiere sortie d'Azoth - resurrection des trois hommes-lezards tombes face a
-  Cocytus [DIVERGENCE - officiant et perimetre : canon = Zaryusu seul, par Ainz] ; office
+  J36 sortie d'Azoth - resurrection des trois hommes-lezards tombes face a Cocytus
+  [DIVERGENCE - officiant et perimetre : canon = Zaryusu seul, par Ainz] ; office
   J28 et J35 ; seances : Entoma 2, CZ 1 (deverrouillage, cf. Fils) ; Lupusregina affectee
   a Carne dans la foulee [CANON SUPPOSE - datation].
 - Element central : la mort des autres.
-- Fiche a creer a cette boucle : COCYTUS (noyau ; karma a fixer, canon +250 [CANON
-  SUPPOSE]).
+- COCYTUS (decision worldbuilder, 2026-09-15 ; fiche W1 creee a R4, karma +50 canon) :
+  designe a sa demande apres sa seance du J24 (R4) ; il ne suit d'abord que son createur,
+  l'attaque avant tout - defaite (canon) ; puis demande le duel contre les chefs, pour son
+  honneur, et reflechit a comment tous les soumettre - victoire (canon) ; apres la
+  victoire, plus de seances. Autre seance entre la defaite et le duel : a poser.
 - Fichier : [A POSER au build]
 - [A POSER] : decoupage (deux etapes probables : le Tombeau pendant la campagne / J36) ;
   ce qu'Azoth fait de la campagne depuis le Tombeau ; casus de sa sortie (ordre d'Ainz,
@@ -130,7 +103,8 @@
 
 - Fenetre : mission de Sebas et Solution dans la capitale (environ un mois [CANON
   SUPPOSE]) -> retour avec Tuare.
-- Face Tombeau : depart de Sebas et Solution [fenetre a poser] ; leurs retours par
+- Face Tombeau : depart de Sebas et Solution [fenetre a poser] - mission decidee par Ainz
+  le J13 (R4) sur suggestion d'Azoth, Solution en noble, Sebas en majordome ; retours par
   parchemin pour offices et seances ; test de loyaute de Sebas (a la maison de la
   capitale, canon - hors champ) ; Gehenna : les Pleiades sortent en demons, ENTOMA PERD
   SA VOIX face a Evileye (canon - hors champ, retour au Tombeau en scene) ; TUARE arrive
@@ -167,6 +141,9 @@
 ## R9 - [TITRE A POSER] - LN 9 [A BUILDER]
 
 - Fenetre : visite de Jircniv -> depart d'Ainz et Mare pour Katze.
+- CONFIRME 2026-09-14 (Export v4, 2bis) : heresie et mariage en R9, apres la visite de
+  Jircniv - rien ne bouge. La discussion interceptee par Albedo CLOT le fil des recits
+  d'Ainz (cf. Fils transversaux).
 - Face Tombeau : JIRCNIV AU TOMBEAU, humains sur scene (canon) ; puis L'HERESIE : Ainz et
   Azoth, se traitant en EGAUX, s'engueulent dans la chambre des desirs insonorisee ;
   doctrine de l'heresie (idee actee, formulation a retravailler au build : si Ainz les
@@ -242,15 +219,14 @@ l'AXE de chaque soeur (noyau). Grille : R4 Yuri 1, Entoma 1, Narberal 1 ; R5 Ent
 CZ 1 ; R6 Lupusregina 1, Yuri 2 ; R7 CZ 2 ; R8 Entoma 3, Lupusregina 2, Narberal 2 ; R9
 CZ 3 ; R10 Yuri 3, Lupusregina 3, Narberal 3.
 
-- YURI ALPHA - axe : accepter sa bienveillance, baisser sa garde. 1 (R4) : elle demande a
-  apprendre a etre vulnerable ; Azoth parle a coeur ouvert et attend la pareille ; elle
-  repart genee mais plus ouverte. 2 (R6) : discussions plus profondes ; il aborde la
+- YURI ALPHA - axe : accepter sa bienveillance, baisser sa garde. 1 (R4) : faite, cf.
+  Yuri_Alpha.md. 2 (R6) : discussions plus profondes ; il aborde la
   nudite comme dernier verrou de la gene ; face a face, nus ; elle repart genee mais plus
   ouverte. 3 (R10) : nudite sans gene, qui decoule sur l'envie puis le sexe ; conversation
   sans la moindre gene sur l'oreiller ; complete, elle s'accepte entierement.
 - NARBERAL GAMMA - axe : accepter les humains. Declencheur : Ainz lui a fait remarquer sa
-  froideur avec les humains ; elle veut etre une meilleure alliee. 1 (R4) : elle et Azoth
-  se rendent a Carne, pour qu'il lui apprenne a mieux s'exprimer avec des humains. 2 (R8) :
+  froideur avec les humains ; elle veut etre une meilleure alliee. 1 (R4) : faite, Carne,
+  cf. Narberal_Gamma.md. 2 (R8) :
   Azoth donne un cours de cuisine a Tuare et Narberal ; elle y voit une humaine passionnee
   et devouee a Nazarick. 3 (R10) : elle veut depasser quelque chose qu'elle trouve trop
   humain, derniere etape vers l'acceptation : elle demande a coucher avec Azoth.
@@ -259,8 +235,7 @@ CZ 3 ; R10 Yuri 3, Lupusregina 3, Narberal 3.
   go) tres serree, victoires alternees. Suspendu pendant sa mission (R6), repris a ses
   retours.
 - ENTOMA VASILISSA ZETA - axe : la gene de ne manger que de l'humain ; Azoth lui cuisine.
-  1 (R4) : intronisation - une viande qu'il fait passer pour humaine ; elle se regale,
-  puis est heureuse d'apprendre que c'etait du porc. 2 (R5) : idem, boeuf annonce ; il lui
+  1 (R4) : faite, cf. Entoma_Vasilissa_Zeta.md. 2 (R5) : idem, boeuf annonce ; il lui
   essuie une mandibule pleine de sauce, elle sent le contact sous la chitine, apprecie,
   demande des caresses en plus de la nourriture. 3 (R8) : nouvelle viande, simple
   pretexte - elle veut decouvrir le sexe ; ils couchent ensemble.
@@ -283,21 +258,35 @@ CZ 3 ; R10 Yuri 3, Lupusregina 3, Narberal 3.
   ils baisent.
 - SHALLTEAR BLOODFALLEN - fil RECURRENT, non jalonne : plaisir charnel, place par le MJ
   sans tour dedie. De J12 a l'arc des nains : CRISE DE LEGITIMITE, parole sur l'oreiller
-  avec Azoth. A porter en Shalltear.md a sa prochaine relivraison.
+  avec Azoth (ouverte J12 soir, cf. Shalltear.md).
+- COCYTUS - une seance, J24 (R4) : concilier la parole de son createur, lue comme
+  l'attaque avant tout, et celle de Punitto Moe, l'information avant la force ; apprendre
+  la strategie. Suite en R5 (defaite, duel des chefs, soumission) ; plus de seances apres
+  la victoire. Cf. R5.
 - AUREOLE OMEGA - aucun fil : comblee J7 (R1).
-- ALBEDO - conquete continue R4 -> R8 ; refus d'Ainz et fiancailles en R8 ; verite,
-  acceptation et mariage en R9 ; surveillance du couple des R9-R10.
+- ALBEDO - conquete continue R4 -> R8 : sexe et drague, separement ou en meme temps ;
+  Azoth la convainc peu a peu qu'il a a lui offrir tout ce qu'elle veut, qu'Ainz est hors
+  d'atteinte et surtout pas interesse - Ainz le lui dira en personne (R8) ; refus d'Ainz
+  et fiancailles en R8 ; verite, acceptation et mariage en R9, apres la visite de Jircniv
+  (confirme) ; surveillance du couple des R9-R10.
+- AINZ OOAL GOWN - fil des RECITS : un Supreme par roadmap, R4 -> R8 (cinq recits), a
+  donner des details sur les autres Supremes ; la discussion interceptee par Albedo (R9)
+  clot la serie. Ensuite plus de seances privees : conseils de guerre et discussions entre
+  amis, en reaction aux evenements. Ainz vient voir Azoth dans ses moments de doute :
+  Azoth est son SEUL CONFIDENT et l'etre le plus stable de Nazarick des J12 ;
+  officieusement son bras droit. R4 : PERORONCINO (fait) ; Ulbert reserve au dernier
+  recit, R8 (reco MJ acceptee 2026-09-14) ; R5 -> R7 : au build de chacune, avec ce qui y
+  ebranle Azoth.
 
 ## Raccords parques (hors blocs, en attente d'arc)
 
 - SEBAS ET TUARE : aucun desir avant elle (rencontre au creneau canon LN 5-6, R6) ; Azoth
   les mariera [fenetre a poser : R6 ou plus tard].
-- SOLUTION ET SEBAS : mission d'infiltration exterieure, elle detachee sous lui [fenetre
-  de depart a poser au build de R6].
-- THEOLOGIE SANS FAILLE : chantier permanent d'Azoth des R3 ; future page soeur de
-  Theologie_base [a builder quand elle se preche].
-- PARCHEMINS DE GUIDANCE : regle in-world a inscrire (Regles_Internes.md, Azoth.md,
-  Magie.md pour l'ecole) ; ingredients finis ou renouvelables [A POSER].
-- AZOTH JOUEUR DE PLATEAU : a inscrire a Azoth.md a la creation d'Azoth_chrono_1.
+- SOLUTION ET SEBAS : mission d'infiltration de la capitale, decidee par Ainz le J13 (R4)
+  sur suggestion d'Azoth - elle en noble, lui en majordome [fenetre de depart a poser au
+  build de R6].
+- THEOLOGIE SANS FAILLE : chantier permanent d'Azoth des R3, travaille entre chaque
+  sermon ; quasi parfaite au J21 (R4) ; un preche integralement sans faille : non date,
+  hors R4 ; future page soeur de Theologie_base [a builder quand elle se preche].
 
 FIN_ROADMAP_AZOTH_CHRONOLOGIE

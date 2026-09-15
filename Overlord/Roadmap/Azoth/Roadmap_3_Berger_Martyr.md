@@ -1,13 +1,15 @@
 # Roadmap_3_Berger_Martyr
 
 - statut : a venir
-- version : W2
+- version : W3
+- amendement W3 : pointeur "Arc suivant" aligne sur le titre et le fichier valides de R4
+  (Roadmap_4_Le_Confident.md) ; aucun changement de contenu.
 - amendement W2 : le Collier de Rubis de Sang remis a Shalltear au J12 (decision
   worldbuilder).
 - garde-cap : Roadmap/Azoth/Chronologie.md. Prota / POV : Azoth. Element central : le
   mensonge sacre - la foi reconstruite en connaissance de cause.
-- arc precedent : Roadmap_2_Berger_Perdu.md. Arc suivant : R4 L'histoire des autres
-  [fichier a poser au decoupage].
+- arc precedent : Roadmap_2_Berger_Perdu.md. Arc suivant : R4 Le Confident
+  (Roadmap_4_Le_Confident.md).
 - Le nom de l'arc est une convention de build : AUCUN titre de Martyr n'existe en-monde
   (decision worldbuilder, cf. etape 2).
 
@@ -75,7 +77,7 @@
   vrais 41 toujours promis ; le commanditaire inconnu ; Albedo ignore tout du secret.
 - Consequence sur l'univers : rien hors Nazarick. La Theocratie ne sait pas ce qu'elle a
   frappe.
-- Arc suivant : R4 L'histoire des autres [fichier a poser au decoupage].
+- Arc suivant : R4 Le Confident (Roadmap_4_Le_Confident.md).
 
 ---
 FIN_WIKI_ROADMAP_3_BERGER_MARTYR

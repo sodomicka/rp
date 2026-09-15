@@ -1,6 +1,6 @@
 # CZ2128 Delta
 
-- version : W5
+- version : W6
 
 Etat decrit : jour 0. Plafond derogatoire : 10 000 caracteres (decision worldbuilder).
 
@@ -13,8 +13,8 @@ Amendement W5 : Trajectoire datee alimentee - R3 Berger Martyr (J11 -> J12).
 ## Identite
 
 - Automate (heteromorphe), creation de Garnet. Servante de combat, quatrieme des Pleiades.
-- Niv. 46 : LE PLUS BAS DES SIX PLEIADES. Classes : Tireur et Sniper [INCERTAIN pour les
-  classes annexes - Assassin, Rodeur, non confirmees en source primaire].
+- Niv. 46 : LE PLUS BAS DES SIX PLEIADES. Karma +100 (canon). Classes : Tireur et Sniper,
+  plus des classes annexes (liste partielle, source secondaire).
 - Surnom d'usage : Shizu. Appelee CZ.
 - Vingt-trois ans apparents, trois siecles programmes, comme ses soeurs hors Aureole Omega
   (cf. Nazarick/Regles_Internes.md).

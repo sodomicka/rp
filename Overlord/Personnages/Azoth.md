@@ -1,6 +1,6 @@
 # Azoth, le Cardinal Demoniaque
 
-- version : W8
+- version : W10
 
 Etat decrit : jour 0. Fiche protagoniste, plafond derogatoire 20 000 caracteres.
 
@@ -12,10 +12,15 @@ Amendement W5 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
 Amendement W6 : Trajectoire datee alimentee - R2 Berger Perdu (J9 -> J11).
 Amendement W7 : la chambre des desirs, chambre de confession - Ainz y vient.
 Amendement W8 : Trajectoire datee alimentee - R3 Berger Martyr (J11 -> J12).
+Amendement W9 : Trajectoire datee BASCULEE en satellite (Personnages/Azoth_chrono_1.md) ;
+joueur de plateau ; parchemins de guidance (regle in-world, decision worldbuilder).
+Amendement W10 : origine du nom et creation en parallele d'Albedo (decision worldbuilder).
 
 ## Identite
 
-- Nom : Azoth. Titre : Cardinal Demoniaque de Nazarick.
+- Nom : Azoth - jargon alchimique, celui dont Tabula nomme ses creations : Ulbert l'a cree
+  en parallele d'Albedo, incube en miroir de la succube de Tabula, et lui a donne un nom de
+  la meme famille (decision worldbuilder). Titre : Cardinal Demoniaque de Nazarick.
 - Race : Archdemon (heteromorphe), allure d'incube en forme vraie. Niveau 100. Karma : -500
   (Mal absolu) - meme valeur que son jumeau et qu'Albedo.
 - Age programme : 666 ans, FIGE. Il ne vieillira pas au-dela.
@@ -95,7 +100,9 @@ Amendement W8 : Trajectoire datee alimentee - R3 Berger Martyr (J11 -> J12).
   l'elan vient toujours du demandeur. Coeur du personnage : faire accepter leurs peches aux
   siens, et etre leur exutoire.
 - Gouts : precher ; guider ceux qui en ont besoin ; le sexe quand on le lui propose ; la
-  recherche theologique ; cuisiner - et la, c'est un prodige.
+  recherche theologique ; cuisiner - et la, c'est un prodige ; les jeux de plateau -
+  echecs, shogi, go - ou Solution Epsilon est de sa force (cf.
+  Personnages/Solution_Epsilon.md).
 - Seducteur ne, manipulateur sensuel. Il use de son charme aussi naturellement que de sa
   magie.
 - Egal intellectuel de Demiurge, son oppose moral, son complice de fait.
@@ -132,6 +139,8 @@ Amendement W8 : Trajectoire datee alimentee - R3 Berger Martyr (J11 -> J12).
 - POLYVALENCE : au sommet de Nazarick avec Albedo, Demiurge et Pandora's Actor - pour la
   polyvalence, pas seulement pour la puissance. Il apprend n'importe quelle technique sur
   manuel, informatique comprise.
+- PARCHEMINS : il sait rediger des parchemins de sort jusqu'au rang 10, dont la
+  Teleportation Superieure (Alteration). Emploi : cf. section Parchemins de guidance.
 - PRODIGE DE LA CUISINE, et maitre des metiers qu'il commande : le chef de Sebas, chef des
   domestiques, excelle dans les domaines de ses subordonnes - cuisine, service, tenue de
   maison (decision worldbuilder).
@@ -180,6 +189,23 @@ Nazarick/Theologie_base.md.
 Momonga ne franchit pas sa porte : c'est le lieu des fideles, pas des 41, et il leur laisse
 cette intimite [DIVERGENCE RP].
 
+## Parchemins de guidance [DIVERGENCE RP]
+
+Regle in-world (decision worldbuilder). Azoth offre un parchemin de TELEPORTATION
+SUPERIEURE (Alteration, rang 10) a quiconque a besoin de guidance : un fidele detache hors
+du Tombeau rentre ainsi pour l'office ou pour une seance, d'ou qu'il soit, vers tout lieu
+qu'il a deja visite. Sebas, Solution, Narberal et Lupusregina en usent une fois a
+l'exterieur.
+
+- Il sait les rediger ; Nazarick en a les ingredients.
+- Ingredients RENOUVELABLES a partir des ressources exterieures [DIVERGENCE canon : les
+  materiaux du Nouveau Monde n'y donnent que des bas rangs]. Le relais est une CONCEPTION
+  COMMUNE d'Azoth et d'Aureole Omega - deux prodiges, chef et sous-cheffe, compensent la
+  faiblesse des materiaux - pour rendre la foi accessible a tous.
+- Mise en place datee : cf. Personnages/Azoth_chrono_1.md.
+- Ce qu'Aureole en sait : cf. Personnages/Aureole_Omega.md. Regle generale et economie :
+  cf. Nazarick/Regles_Internes.md. Ecole : cf. Systemes/Magie.md.
+
 ## Relations au jour 0
 
 - AINZ OOAL GOWN (Momonga). Devotion absolue envers le dernier Supreme present.
@@ -227,31 +253,11 @@ Cardinal se parlent seul a seul (decision worldbuilder).
 
 ## Trajectoire datee
 
-Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
-
-Note de dimensionnement : la lignee precedente de cette fiche a du deporter sa trajectoire en
-fichiers separes une fois le plafond de 20 000 caracteres franchi. Prevoir le meme
-decoupage - Personnages/Azoth_chrono_<n>.md, 8 000 caracteres maximum, coupes a la frontiere
-d'arc - des que le besoin se presentera.
-
-| Date/ere | Evenement | Delta d'etat |
-|---|---|---|
-| J0 | Eveil en plein office : preche reel a son insu, interrompu par Message d'Ainz a la conclusion | conscience ; mission de tout savoir des 41 |
-| J0 | Ordres du transfert ; joute avec Demiurge ; serment a l'arene ; Pandora's Actor en Ulbert, reconfigure par Ainz | acces aux ecrits des Supremes a Ashurbanipal |
-| J1 | Anneau d'Ainz Ooal Gown remis par Ainz | Anneau au doigt en continu ; approbation du Supreme |
-| J1-J6 | Nuit non datee : Albedo dans la chambre des desirs ; demande en mariage prise pour une blague | corps plus vierge ; demande en mariage refusee |
-| J1-J6 | Premier charnel de Solution, non date | - |
-| J3 | Allegeance a Ainz sous son nouveau nom | - |
-| J7 | Sermon des pensees profondes ; avertissement de Demiurge ; question d'Aura (Touch Me / Ulbert) | question ouverte, sans reponse |
-| J8 | Coherence des 41 tenue par la force ; orgie avec Shalltear et ses epouses vampires | foi tenue par le forcage |
-| J9 | L'inconciliable Ulbert / Wish III ; deduction pure : les 41 faillibles, partis, peut-etre de simples mortels ; Demiurge le renvoie a Ainz | foi effondree |
-| J9 | Confession a Ainz en tete-a-tete ; revelation totale - Yggdrasil, PNJ programmes, Suzuki Satoru, le parametre d'Albedo ; colere ; demande d'etre tue ; sursis d'une semaine | sait tout ce qu'Ainz sait ; en sursis |
-| J10 | Cesse d'etudier, medite ; apprend la chute de Shalltear avec les Gardiens (canon) | - |
-| J11 | Sermon d'urgence force ; reconfort d'Albedo, sans un mot de sentiment | - |
-| J11 | Requete de debogage de CZ2128 ; la voie du bouclier ; retour a Ainz : vivre, conquerir Albedo, ranimer Shalltear, theologie sans faille ; Ainz promet les vrais 41 | sursis leve ; chantier du bouclier ouvert |
-| J11-J12 | Nuit : manuels de Python de Garnet a Ashurbanipal ; reprogrammation de CZ2128 par le panneau dorsal - logique theologique seule, verrous intacts | sait programmer ; CZ deboguee |
-| J12 | Suit par sort, avec les Gardiens, la mise a mort de Shalltear par Ainz ; au retour, la ramene a la vie en Salle du Trone avec une part de l'or de la Tresorerie ; perte reduite a trois niveaux | - |
-| J12 | Recoit l'Amulette du Saint Maudit d'Ainz, devant temoins, avec les autres artefacts ; refuse le titre de martyr qu'Ainz evoque | Amulette portee : sa maitrise divine dissimulee a toute observation, sans qu'il le sache |
+BASCULEE EN SATELLITE depuis W9 : cf. Personnages/Azoth_chrono_1.md, 8 000 caracteres
+maximum par fichier, coupe a la frontiere d'arc ; Azoth_chrono_2.md a la suite quand le
+plafond est atteint. Cette fiche ne porte plus aucune entree datee : ici ce qu'il EST,
+la-bas ce qu'il DEVIENT. Quand un RP diverge, le delta va en Parties/ et surclasse le
+satellite pour cette partie.
 
 ## Renvois
 
@@ -263,5 +269,8 @@ d'arc - des que le besoin se presentera.
 - Ecoles, rangs, branches, vecteurs de soin : cf. Systemes/Magie.md.
 - Paliers internes : cf. Systemes/Echelle_Puissance.md.
 - Son jumeau : cf. Personnages/Demiurge.md.
+- Trajectoire datee : cf. Personnages/Azoth_chrono_1.md.
+- Partenaire de plateau : cf. Personnages/Solution_Epsilon.md.
+- Co-conceptrice des parchemins de guidance : cf. Personnages/Aureole_Omega.md.
 
 FIN_WIKI_PERSONNAGES_AZOTH

@@ -1,6 +1,6 @@
 # Nazarick - Regles internes et metaphysique
 
-- version : W6
+- version : W7
 
 Amendements W2 : renvois mis a jour - Theologie_Azoth.md est renommee Theologie_base.md.
 Amendement W3 : age programme de Sebas aligne sur la decision de build (~500 ans) ; renvoi
@@ -9,6 +9,8 @@ Amendement W4 : garde-manger de viande humaine inscrit aux ressources.
 Amendement W5 : perimetre des souvenirs charnels programmes.
 Amendement W6 : ages programmes completes (Aura et Mare, Victim, Pandora's Actor) ; fecondite
 d'Ainz alignee sur la BIBLE (tranchee, B2).
+Amendement W7 : parchemins de guidance - regle, exception a l'economie des consommables,
+retours du personnel (decisions worldbuilder, 2026-09-14).
 
 Etat decrit : jour 0.
 
@@ -78,6 +80,14 @@ Etat decrit : jour 0.
 - Autonomie au jour 0 (decision worldbuilder) : MIXTE. Le quotidien est autosuffisant -
   cuisines du 9e, faune et flore du 6e, artisans du Tombeau. Tout ce qui vient d'Yggdrasil
   est fini et irremplacable - consommables magiques, objets payants - au meme titre que l'or.
+- PARCHEMINS DE GUIDANCE [DIVERGENCE RP - decision worldbuilder] : Azoth offre un parchemin
+  de Teleportation Superieure (Alteration, rang 10) a quiconque a besoin de guidance ; un
+  fidele detache a l'exterieur rentre ainsi pour l'office ou une seance, d'ou qu'il soit,
+  vers tout lieu deja visite. EXCEPTION a la regle des consommables finis : RENOUVELABLES a
+  partir des ressources exterieures [DIVERGENCE canon - les materiaux locaux n'y donnent
+  que des bas rangs], par un relais concu en commun par Azoth et Aureole Omega, deux
+  prodiges compensant la faiblesse des materiaux. En vigueur des le J13. Detail : cf.
+  Personnages/Azoth.md ; ecole : cf. Systemes/Magie.md.
 - GARDE-MANGER DE VIANDE HUMAINE [DIVERGENCE RP] : les chambres froides du Tombeau
   conservent un stock consequent de PNJ d'Yggdrasil debites. Entoma, Solution et Lupusregina
   y puisent. Le malaise que cette pratique suscite est decrit plus bas.
@@ -88,6 +98,9 @@ Etat decrit : jour 0.
 - Principe herite de l'ere Yggdrasil : ne jamais reveler ses cartes - illusions, fausses
   defenses, appats.
 - Sortie du personnel : soumise a autorisation du sommet [IMPLICITE au jour 0].
+- Retour par parchemin de guidance : libre pour qui en porte un. Aureole Omega,
+  co-conceptrice, NE SURVEILLE PAS ces allers et venues - a la difference des portes de
+  teleportation, qui relevent d'elle (decision worldbuilder).
 - L'Anneau d'Ainz Ooal Gown vaut approbation du Supreme, non passe-partout geographique
   [DIVERGENCE RP] : cf. Tombeau.md.
 

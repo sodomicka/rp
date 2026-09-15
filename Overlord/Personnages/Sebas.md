@@ -1,6 +1,6 @@
 # Sebas Tian
 
-- version : W2
+- version : W3
 
 Amendement W2 : classement des karmas positifs retire ; Trajectoire datee alimentee - R1
 Berger Sincere (J0 -> J8).
@@ -12,11 +12,11 @@ Etat decrit : jour 0.
 - Draconoide (heteromorphe), creation de Touch Me. Majordome en chef du Grand Tombeau de
   Nazarick.
 - Niv. 100 : vingt-cinq niveaux raciaux de draconoide, soixante-quinze niveaux de classe.
-  Classes : Moine, Seigneur Martial, Striker, Maitre du Ki interne et externe [INCERTAIN -
-  liste non confirmee en source primaire].
+  Classes : Moine, Seigneur Martial, Striker, Maitre du Ki interne et externe (liste
+  partielle, source secondaire).
 - Karma +300 (Bien extreme). L'un des karmas positifs du sommet de Nazarick : le RP lui
   retire l'unicite morale qu'il detient au canon.
-- Titre : le Majordome d'Acier [INCERTAIN - VF a fixer].
+- Titre : le Majordome d'Acier.
 - Lieutenant d'Azoth pour le service, de rang egal a Aureole Omega, sous derogation
   permanente : majordome personnel du Seigneur Momonga.
 - NE COMMANDE PAS LES PLEIADES [DIVERGENCE RP - il en est le chef au canon].

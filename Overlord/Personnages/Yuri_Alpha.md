@@ -1,6 +1,8 @@
 # Yuri Alpha
 
-- version : W1
+- version : W2
+
+Amendement W2 : Trajectoire datee alimentee - R4 Le Confident (J15-J20).
 
 Etat decrit : jour 0.
 
@@ -72,6 +74,7 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | J0 | Mise en etat d'alerte au 9e par Azoth, avec ses soeurs | - |
+| J15-J20 | Seance 1 avec Azoth : demande a apprendre a etre vulnerable ; il parle a coeur ouvert et attend la pareille ; repart genee, mais plus ouverte | fil : seance 1 faite |
 
 ## Renvois
 

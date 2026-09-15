@@ -1,7 +1,9 @@
 # Magie de rangs (tier magic)
 
-- version : W3
+- version : W4
 
+Amendement W4 : la Teleportation Superieure nommee sous Alteration ; section Parchemins
+(parchemins de guidance de Nazarick, decision worldbuilder).
 Amendement W3 : renvoi solde - "La Mort nous fauchera Tous" est au repertoire de
 Grande_Magie_et_Signatures.md (W2).
 Amendements W2 : Nigredo et Rubedo ventilees (soin, reparation) ; Lupusregina et Entoma
@@ -21,7 +23,8 @@ Decision worldbuilder : abandon de l'alignement D&D 5e initial, listes D&D caduq
   - Destruction : les degats - feu, glace, foudre, et degats necromantiques non types.
   - Conjuration : invocation, necromancie (relever, lier), armes liees.
   - Illusion : l'esprit - charme, peur, calme, invisibilite, message.
-  - Alteration : la matiere et la telekinesie - armures, deplacements, sang, terrain.
+  - Alteration : la matiere et la telekinesie - armures, deplacements (dont la
+    Teleportation Superieure, rang 10), sang, terrain.
   - Guerison : soins et protections, le sacre, et son miroir l'Energie Negative.
 - Rangs 1 a 9 ; rang 10 = sorts aberrants, calibre Yggdrasil, deja au-dela des meilleurs
   mages du Nouveau Monde ; rang 11 = grande magie (cf. section dediee).
@@ -83,6 +86,15 @@ Regles :
   fatigue et gestion, sans comptabilite de points.
 - Objets et classes peuvent reduire les couts ou augmenter la reserve.
 - Reserve unique, commune aux trois branches.
+
+## Parchemins
+- Un parchemin porte un sort pret a lancer ; il se consume a l'usage.
+- Au canon, les materiaux du Nouveau Monde ne donnent que des parchemins de bas rang ; les
+  parchemins de haut rang sont ceux d'Yggdrasil, finis (cf. Nazarick/Regles_Internes.md).
+- [DIVERGENCE RP] PARCHEMINS DE GUIDANCE de Nazarick : Teleportation Superieure (Alteration,
+  rang 10), RENOUVELABLES a partir de ressources exterieures par le relais concu en commun
+  par Azoth et Aureole Omega. Regle, economie et retours du personnel : cf.
+  Nazarick/Regles_Internes.md ; emploi : cf. Personnages/Azoth.md.
 
 ## Rangs et plafonds du Nouveau Monde
 - Rang 1-2 : magie commune. Un lanceur ordinaire depasse rarement le rang 2.

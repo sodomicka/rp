@@ -1,6 +1,9 @@
 # Les Six Grands Dieux
 
-- version : W1
+- version : W2
+
+Amendement W2 : pseudonyme de Wish III acte - Alah Alaf ; frappe sur Shalltear datee J10
+(alignee sur BIBLE SB3) ; sieges elementaires : canon muet, hors perimetre.
 
 Fondateurs de la Theocratie de Slane. Joueurs d'Yggdrasil transferes il y a environ 600 ans.
 Tous morts. Leur heritage structure encore le Nouveau Monde.
@@ -12,8 +15,8 @@ Tous morts. Leur heritage structure encore le Nouveau Monde.
   Theocratie de Slane.
 - Vraisemblablement les premiers diffuseurs de la magie de rangs chez les natifs
   [IMPLICITE]. Cf. Systemes/Magie.md.
-- Ils ont passe un accord avec le Seigneur Dragon Tsaindorcus Vaision [INCERTAIN - termes
-  inconnus].
+- Ils ont passe un accord avec le Seigneur Dragon Tsaindorcus Vaision ; termes inconnus au
+  canon.
 - Tous sont morts. Surshana, le dernier vivant, fut tue par les Huit Rois Avides.
 
 ## Les six sieges
@@ -23,19 +26,20 @@ Dieux Elementaires.
 | Siege | Nom | Note |
 |---|---|---|
 | Mort | Surshana | Le plus puissant des six. Decrit en squelette (roman web). |
-| Vie | Alah Alaf | [DIVERGENCE RP] C'est Wish III (cf. ci-dessous). |
-| Feu | [INCERTAIN] | Nom non verifie. |
-| Eau | [INCERTAIN] | Nom non verifie. |
-| Vent | [INCERTAIN] | Nom non verifie. |
-| Terre | [INCERTAIN] | Nom non verifie. |
+| Vie | Alah Alaf | [DIVERGENCE RP] C'est Wish III, sous ce nom (cf. ci-dessous). |
+| Feu | inconnu | Canon muet ; hors perimetre (BIBLE SB8). |
+| Eau | inconnu | Canon muet ; hors perimetre. |
+| Vent | inconnu | Canon muet ; hors perimetre. |
+| Terre | inconnu | Canon muet ; hors perimetre. |
 
 ## Wish III, Dieu de la Vie [DIVERGENCE RP - decision worldbuilder]
 - SAVOIR HORS NAZARICK au jour 0 : nul au Tombeau ne le sait, Aureole comprise.
 - Wish III, l'un des 41 et l'un des neuf d'origine, occupe le siege de Dieu de la Vie sous
   un autre nom et une forme humaine.
-- Le nom canon du siege est Alah Alaf. Le pseudonyme retenu pour le RP reste a trancher :
-  symbole biblique discret recherche. [INCERTAIN - decision worldbuilder en attente ;
-  cf. _Implications.md]
+- Son pseudonyme est le nom canon du siege : ALAH ALAF (decision worldbuilder,
+  2026-09-15). Un catholique passionne qui emprunte aux religions soeurs, judaisme et islam
+  - l'aleph, le nom de Dieu - pour se nommer, sans effet d'annonce. Cf.
+  Nazarick/Etres_Supremes.md.
 - De lui vient la symbolique biblique de la Theocratie - institutions religieuses, anges -
   portee depuis Yggdrasil. La meme main a incruste cette symbolique dans Nazarick, via
   Aureole Omega et Victim.
@@ -51,14 +55,14 @@ Dieux Elementaires.
     l'Ecriture Noire, niveau 88. Son heterochromie porte la marque des deux sieges.
     Cf. Systemes/Echelle_Puissance.md, Personnages/Zesshi.md (a venir).
 - LES OBJETS. Les six ont laisse des objets magiques dont s'equipent les Ecritures, et au
-  moins un objet de rang monde : la Chute des Chateaux et des Royaumes [VF A FIXER -
-  Downfall of Castle and Country], controle mental efficace meme contre une resistance
-  mentale absolue. Garde par l'Ecriture Noire.
+  moins un objet de rang monde : la Chute des Chateaux et des Royaumes (Downfall of Castle
+  and Country, VF actee), controle mental efficace meme contre une resistance mentale
+  absolue. Garde par l'Ecriture Noire.
 - LA DOCTRINE. Les Six Ecritures suivent chacune l'enseignement d'un des six ; les Six
   Cardinaux et le Conseil Executif Supreme gouvernent en leur nom. Cf. Theocratie_Slane.md.
 
 ## Portee narrative
-- L'arme qui frappe Shalltear au jour 13 vient de ce groupe. Le createur d'Aureole Omega a
+- L'arme qui frappe Shalltear au jour 10 vient de ce groupe. Le createur d'Aureole Omega a
   laisse derriere lui la relique qui blessera Nazarick.
 - Nazarick ignore tout de cette lignee au jour 0. Fait indecouvrable sans enquete ou
   revelation.

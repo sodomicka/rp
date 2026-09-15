@@ -1,6 +1,6 @@
 # Shalltear Bloodfallen
 
-- version : W7
+- version : W8
 
 Etat decrit : jour 0.
 
@@ -10,6 +10,8 @@ Amendement W4 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
 Amendement W5 : Trajectoire datee alimentee - R2 Berger Perdu (J9 -> J11).
 Amendement W6 : Trajectoire datee alimentee - R3 Berger Martyr (J11 -> J12).
 Amendement W7 : le Collier de Rubis de Sang recu au J12.
+Amendement W8 : fil recurrent avec Azoth et crise de legitimite (garde-cap W4) ;
+Trajectoire datee alimentee - R4 Le Confident (J12 soir).
 
 ## Identite
 
@@ -105,6 +107,16 @@ Les epouses vampires, subordonnees directes, avec elle aux Catacombes.
 - AURA. Lien de soeurs : chamailleries constantes, conseils demandes et donnes. REGISTRE
   STRICTEMENT NON SENSUEL, sans aucune exception (cf. BIBLE SB1, regle ferme du casting).
 
+## Fil recurrent avec Azoth (post-J12)
+
+- Fil RECURRENT, non jalonne : plaisir charnel avec Azoth, place par le MJ sans tour dedie
+  (garde-cap). Ce qu'elle vient y chercher ne change pas : un besoin, pas un sentiment.
+- CRISE DE LEGITIMITE, du J12 a l'arc des nains (decision worldbuilder) : elle a leve la
+  main sur le Supreme sous controle mental, sa mort a coute trois niveaux et une part de
+  l'or du tresor ; elle se juge indigne (canon : elle reclame un chatiment a Ainz). Azoth
+  l'aide a se pardonner, en seance privee, juste apres le sexe. Sortie de crise : arc des
+  nains (canon LN 11), quand elle sert enfin.
+
 ## Trajectoire datee
 
 Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
@@ -116,6 +128,7 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J10 | Frappee par la Chute des Chateaux et des Royaumes (canon) | sous controle mental, hors de Nazarick |
 | J12 | Mise a mort par Ainz en duel (canon) ; ressuscitee par Azoth en Salle du Trone, devant les Gardiens ; taquinee par Aura a son reveil | niv. 97 : trois niveaux perdus (decision worldbuilder, perte reduite), a regagner ; hors du palier 3 jusque-la |
 | J12 | Recoit d'Ainz le Collier de Rubis de Sang, l'objet de rang monde cree pour elle, sorti du Mausolee | Collier porte |
+| J12 soir | Revenue, chez Azoth : sexe, puis seance privee - il l'aide a se pardonner ; CRISE DE LEGITIMITE ouverte (fil recurrent jusqu'a l'arc des nains) | crise ouverte |
 
 ## Renvois
 

@@ -1,6 +1,6 @@
 # Pleiades - socle commun
 
-- version : W1
+- version : W2
 
 Etat decrit : jour 0.
 
@@ -16,7 +16,7 @@ groupees sont RETIREES du Sommaire.
 | Yuri Alpha | Dullahan | 51 | Yamaiko | +150 | Personnages/Yuri_Alpha.md |
 | Lupusregina Beta | Garou | 59 | Beast King Mekongawa | -200 | Personnages/Lupusregina_Beta.md |
 | Narberal Gamma | Doppelganger | 63 | Nishikienrai | -400 | Personnages/Narberal_Gamma.md |
-| CZ2128 Delta | Automate | 46 | Garnet | [INCERTAIN - non fixe en fiche] | Personnages/CZ2128_Delta.md |
+| CZ2128 Delta | Automate | 46 | Garnet | +100 | Personnages/CZ2128_Delta.md |
 | Solution Epsilon | Slime predatrice | 57 | Herohero | -400 | Personnages/Solution_Epsilon.md |
 | Entoma Vasilissa Zeta | Arachnoide | 51 | Genjiro | -100 | Personnages/Entoma_Vasilissa_Zeta.md |
 
