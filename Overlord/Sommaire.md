@@ -1,6 +1,6 @@
 # Sommaire - WIKI Overlord
 
-- version : W27
+- version : W29
 
 Index de navigation. Fetche en debut de chaque thread. L'URL d'une page se construit :
 raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire est l'index.
@@ -28,36 +28,39 @@ raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire e
 | Nazarick/Etres_Supremes.md | W5 | Les 41, leurs creations, Wish III Dieu de la Vie sous le nom d'Alah Alaf, le transfert |
 | Nazarick/Theologie_base.md | W5 | Dogme, deux blasphemes, corpus preche, liturgie, confession |
 
-## NouveauMonde (3 pages)
+## NouveauMonde (4 pages)
 | Page | V | Contenu |
 |---|---|---|
 | NouveauMonde/Six_Grands_Dieux.md | W2 | Les six sieges, Alah Alaf = Wish III, God-kin, heritage et objets |
 | NouveauMonde/Theocratie_Slane.md | W1 | L'Etat, gouvernement, les Six Ecritures, rapport a Nazarick |
 | NouveauMonde/Re-Estize.md | W1 | Le Royaume, E-Rantel, Carne, l'Empire en notice |
+| NouveauMonde/Hommes_Lezards.md | W2 | Les cinq tribus du Grand Lac, les six nommes, Frost Pain, vassaux de Nazarick des J36 |
 
-## Personnages (20 pages)
+## Personnages (22 pages)
 | Page | V | Contenu |
 |---|---|---|
-| Personnages/Ainz.md | W7 | Suzuki Satoru, la guilde, le calibre, l'ecart de savoir sur les quarante |
-| Personnages/Azoth.md | W10 | Le Cardinal : setting d'Ulbert, deux formes, Passion d'Incube, prodige de cuisine, le 9e, parchemins de guidance |
-| Personnages/Azoth_chrono_1.md | W2 | Satellite d'Azoth.md : Trajectoire datee, R1 -> R4 (J0 -> J26) |
-| Personnages/Albedo.md | W6 | Regente, le parametre reecrit, Hermes Trismegistus, Ginnungagap |
-| Personnages/Demiurge.md | W4 | Le jumeau, arsenal de competences, la Lave, luxure a zero |
-| Personnages/Shalltear.md | W8 | Valkyrie de Sang, Lance Pipette, Frenesie Sanglante, nymphomanie, crise de legitimite |
+| Personnages/Ainz.md | W9 | Suzuki Satoru, la guilde, le calibre, l'ecart de savoir sur les quarante ; derogation 12k |
+| Personnages/Ainz_chrono_1.md | W1 | Satellite d'Ainz.md : Trajectoire datee, R1 -> R5 (J0 -> J36) |
+| Personnages/Azoth.md | W11 | Le Cardinal : setting d'Ulbert, deux formes, Passion d'Incube, prodige de cuisine, le 9e, parchemins de guidance |
+| Personnages/Azoth_chrono_1.md | W3 | Satellite d'Azoth.md : Trajectoire datee, R1 -> R5 (J0 -> J36) |
+| Personnages/Albedo.md | W8 | Regente, le parametre reecrit, Hermes Trismegistus, Ginnungagap ; derogation 12k |
+| Personnages/Albedo_chrono_1.md | W1 | Satellite d'Albedo.md : Trajectoire datee, R1 -> R5 (J0 -> J36) |
+| Personnages/Demiurge.md | W5 | Le jumeau, arsenal de competences, la Lave, luxure a zero |
+| Personnages/Shalltear.md | W9 | Valkyrie de Sang, Lance Pipette, Frenesie Sanglante, nymphomanie, crise de legitimite |
 | Personnages/Aureole_Omega.md | W4 | Sainte aveugle, karma +500, Worldslicer, le Sanctuaire des Cerisiers, co-conceptrice des parchemins |
-| Personnages/Cocytus.md | W1 | Le Souverain du Fleuve Gele : Vermin Lord niv. 100, karma +50, maitre d'armes, ce qui lui manque - la strategie |
+| Personnages/Cocytus.md | W2 | Le Souverain du Fleuve Gele : Vermin Lord niv. 100, karma +50, maitre d'armes, la strategie apprise, seigneur des hommes-lezards des J36 |
 | Personnages/Sebas.md | W3 | Majordome d'Acier, karma +300, la machoire, le regime dechaine |
-| Personnages/CZ2128_Delta.md | W6 | La machine, le verrou de Garnet, munitions magiques, le Docteur |
+| Personnages/CZ2128_Delta.md | W7 | La machine, le verrou de Garnet - leve au J31, munitions magiques, le Docteur |
 | Personnages/Pleiades.md | W2 | Socle commun des six : tableau, chaine d'ordres, corps neufs, rapports entre soeurs |
 | Personnages/Yuri_Alpha.md | W2 | La grande soeur : dullahan niv. 51, Fa Jin, institutrice, COACH, la garde a baisser |
 | Personnages/Narberal_Gamma.md | W3 | L'inflexible : doppelganger niv. 63, Foudre du Dragon, mepris des humains |
 | Personnages/Solution_Epsilon.md | W2 | La Cage Dissolvante : slime niv. 57, corps creux, se sentir femme, jeux de plateau |
-| Personnages/Lupusregina_Beta.md | W2 | La sadique souriante : garou niv. 59, clerc de combat, oreilles, logique de meute |
-| Personnages/Entoma_Vasilissa_Zeta.md | W3 | La talismanciere : arachnoide niv. 51, insecte-masque, gourmandise, la gene |
+| Personnages/Lupusregina_Beta.md | W3 | La sadique souriante : garou niv. 59, clerc de combat, oreilles, logique de meute |
+| Personnages/Entoma_Vasilissa_Zeta.md | W4 | La talismanciere : arachnoide niv. 51, insecte-masque, gourmandise, la gene |
 | Personnages/Nigredo_et_Rubedo.md | W1 | Les soeurs d'Albedo : la Prison Gelee, la porcelaine, conscience limitee |
 | Personnages/Pandoras_Actor.md | W3 | La creation de Momonga : Tresorerie et Ashurbanipal, les ecrits des Supremes, 999 ans, karma 0 |
 | Personnages/Victim.md | W2 | L'ange du sacrifice : niv. 35, karma +500, la voix, ~400 ans, la protection d'Aureole |
-| Personnages/Aura_et_Mare.md | W2 | Les jumeaux du 6e : enfants hors registre sans exception, dresseuse et druide, 76 ans |
+| Personnages/Aura_et_Mare.md | W3 | Les jumeaux du 6e : enfants hors registre sans exception, dresseuse et druide, 76 ans |
 
 ## Hors index
 - Overlord/_Implications.md - journal de travail. JAMAIS fetche en narration.
