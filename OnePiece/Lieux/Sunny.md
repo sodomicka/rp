@@ -1,7 +1,7 @@
 # Thousand Sunny
 
-- version : W3
-- note de version : W3 - substance du STUDIO DE DIFFUSION tranchee (worldbuilder) : le reve realise n'est pas l'escargophone mais le JOURNAL D'INFORMATION des jumelles ; origine et bornes du plant : Roadmap_2 W5 (annee Tom, reve confie nu). W2 - correctif build : cible de lancer en bois d'Adam sur la porte de la piece commune (demande secrete de Robin) ; precision du lit unique en chambre commune. W1 - build initial, design integralement dicte.
+- version : W5
+- note de version : W5 - decision worldbuilder (pre-build R8) : le carnet rouge quitte le piedestal apres le pacte de Kuma (R7) ; ligne Trajectoire Thriller Bark completee. W4 - versement R7 : Trajectoire - decouverte des surprises par Sonia (payoff du studio inscrit), Thriller Bark (toile, saccage, chasse intacte, cuisine refaite par les zombies de Perona), premier usage du reseau de haut-parleurs (Zoro, le tonneau). W3 - substance du STUDIO DE DIFFUSION tranchee (worldbuilder) : le reve realise n'est pas l'escargophone mais le JOURNAL D'INFORMATION des jumelles ; origine et bornes du plant : Roadmap_2 W5 (annee Tom, reve confie nu). W2 - correctif build : cible de lancer en bois d'Adam sur la porte de la piece commune (demande secrete de Robin) ; precision du lit unique en chambre commune. W1 - build initial, design integralement dicte.
 
 ## Identite
 - Second navire de l'equipage du Chapeau de Paille, successeur du Going Merry. Brigantin en bois d'Adam, au moins le double du Merry [canon]. Ne an 0 a Water 7 (Scrap Island), une dizaine de jours de chantier (cf. Roadmap_6).
@@ -44,5 +44,7 @@
 |---|---|---|
 | an 0 | Construction a Scrap Island ; conception interieure a trois (Sonia theorie, Iceburg et Franky realisation) ; surprises integrees (freres + commande secrete de Robin) ; chasse du Klabautermann creee par Franky | navire ne, ame du Merry a bord |
 | an 0 | Inauguration ecourtee (pression de Garp) ; Franky embarque sur le mot d'Iceburg ; Coup de Burst inaugural, fuite de Water 7 | premier voyage ; surprises non decouvertes au depart (decouverte : matiere R7) |
+| an 0 (R7, jours de mer) | DECOUVERTE des surprises par Sonia et Robin : l'atelier sans mur, le piedestal du carnet rouge (le carnet y trone : plus aucune cache), la cible de lancer (Sonia comprend la commande secrete de Robin), la chasse du Klabautermann, le studio de diffusion - le journal d'information de l'annee Tom realise ; ce que les freres ignoraient en le construisant : huit ans de renseignement mondial derriere les micros, et un capitaine illettre. Premier usage du reseau de haut-parleurs : Zoro signale un tonneau a la derive [canon] | surprises DECOUVERTES ; le studio attend son premier journal |
+| an 0 (R7, Thriller Bark) | Happe par les portes de Thriller Bark, pris dans la toile de Tararan, tire au rivage ; Mini Merry II inauguree (Nami, Usopp, Chopper) ; roues a aubes du Canal 0 contre la tempete ; saccage par les zombies, cuisine refaite et tresor charge par Perona avant l'arrivee de Kuma ; la CHASSE DU KLABAUTERMANN verifiee intacte par Sonia ; apres le pacte de Kuma, Sonia retire le CARNET ROUGE du piedestal et le remet dans sa sacoche - le piedestal reste, vide [DIVERGENCE RP, dicte]. Depart avec Brook a bord | premier musicien a bord ; aucune avarie durable ; piedestal VIDE depuis Thriller Bark |
 
 FIN_WIKI_LIEUX_SUNNY

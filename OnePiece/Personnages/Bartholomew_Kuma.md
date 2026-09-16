@@ -1,6 +1,7 @@
 # Bartholomew Kuma
 
-- version : W1
+- version : W2
+- note de version : W2 - versement du paquet R7 (build Thriller Bark) : ajout en Description physique de la CROIX AU SOLEIL sur sa Bible [DIVERGENCE RP - marque privee, pas symbole general du culte] ; Trajectoire an 0 - Thriller Bark (canon) et LE PACTE avec les jumelles (dicte). Noyau inchange. W1 - creation.
 
 FRONTIERE DU NOYAU : veille de Thriller Bark (an 0), premiere entree en scene face aux jumelles. Tout le posterieur : strate Trajectoire.
 
@@ -13,6 +14,7 @@ FRONTIERE DU NOYAU : veille de Thriller Bark (an 0), premiere entree en scene fa
 
 ## Description physique
 - Colosse de pres de sept metres, carrure d'ours. Chapeau a oreilles d'ours, longue veste sombre, gants ; lunettes. Une Bible en permanence a la main - vestige du pasteur qu'il fut.
+- [DIVERGENCE RP] La couverture de la Bible porte une CROIX dont le centre est un SOLEIL. Marque PRIVEE de Kuma - sa foi Nika cousue dans sa foi de pasteur - et non un symbole general du culte. Illisible pour qui ne connait pas le Soleil ; evidente pour qui prie le meme dieu.
 - Corps largement cybernetise a la frontiere (conversion en cours depuis an -1) : visuellement intact, mais truffe de technologie Vegapunk.
 
 ## Psychologie (noyau)
@@ -40,6 +42,7 @@ FRONTIERE DU NOYAU : veille de Thriller Bark (an 0), premiere entree en scene fa
 - Clapp - pere, Boucanier, conteur de Nika ; tue en esclavage, comme la mere.
 - Bekori - l'ex-roi parasite de Sorbet, deux fois chasse ; l'origine de la legende noire.
 - Monkey D. Luffy - le fils de son chef. Kuma le sait.
+- Jumelles Nico - aucun lien a la frontiere. Il connait le titre clandestin "Les Lumieres de la Revolution" par les canaux de l'Armee [IMPLICITE : officier fondateur, titre ne an -12 devant temoins revolutionnaires] ; il ne les a jamais vues.
 
 ## Histoire (noyau, <= veille de Thriller Bark)
 - an -45 : naissance a Sorbet (South Blue), de Clapp et d'une mere humaine. Le medecin accoucheur trahit la famille aupres du GM.
@@ -57,9 +60,12 @@ FRONTIERE DU NOYAU : veille de Thriller Bark (an 0), premiere entree en scene fa
 - Frontiere (veille de Thriller Bark) : corps largement machine, esprit encore sien - a echeance connue. La derniere volonte d'un homme qui sait ses jours d'homme comptes.
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R7 - Thriller Bark, avant la bombe) [canon, hors POV des jumelles] | Arrive sur le Sunny en pleine mise a sac ; expedie Perona d'une paume ("un vieux chateau sinistre") ; demande a Nami si Luffy a bien un frere ; annonce a Moria que Marshall D. Teach succede a Crocodile et que le GM craint un second Corsaire tombe devant les Mugiwara - Moria monte dans Oars | Aucun contact avec les jumelles a ce stade |
+| an 0 (R7 - la bombe et la bulle) [canon] | Ordre du GM : ranimer Moria, tuer tous les temoins. Paw-blasts sur les Rolling Pirates ; "je commence par Zoro" ; la bombe de paume contre "livrez Luffy" - "JAMAIS" : tout le monde a terre sauf Zoro [et les jumelles, mur de graphene - DIVERGENCE RP] ; Zoro l'entaille (Pacifista revele), est defait, offre sa vie pour Luffy ; Sanji offre la sienne, Zoro l'assomme ; il accepte, extrait la douleur de Luffy en bulle, Zoro y entre | Test de Zoro reussi (ch. 1097) ; le fils de Dragon a un bon equipage |
+| an 0 (R7 - LE PACTE) [DIVERGENCE RP, dicte] | Apres la bulle, un detour : il vient aux deux jumelles restees conscientes a l'ecart. Elles reconnaissent la CROIX AU SOLEIL de sa Bible - trois adeptes de Nika face a face. Il leur dit : l'Armee Revolutionnaire ; un sacrifice, sans dire lequel ; l'equipage manque de puissance - le Haki, nomme entre eux ; il perdra bientot son humanite. Comme elles tiennent Luffy pour Nika, le MARCHE : avant de se perdre, il interviendra pour les envoyer loin - assez pour se faire oublier et s'entrainer. "Ou voulez-vous aller ?" - "Peu importe, tant qu'on est ensemble." Il accepte. Il part. Dragon JAMAIS nomme, Bonney jamais nommee | Pacte scelle - detonation R8 (Sabaody) : les projeter ENSEMBLE ; il choisira la destination, elles n'en ont exprime aucune. Les jumelles savent qu'il est revolutionnaire et adepte de Nika ; rien de plus |
 
 ---
 
