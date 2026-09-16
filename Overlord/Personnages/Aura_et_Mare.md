@@ -1,8 +1,9 @@
 # Aura Bella Fiora et Mare Bello Fiore
 
-- version : W2
+- version : W3
 
 Amendement W2 : karmas valides (decision worldbuilder) ; VF du baton de Mare fixee.
+Amendement W3 : Trajectoire datee alimentee - R5 Le Stratege (J34 -> J36).
 
 Etat decrit : jour 0.
 
@@ -98,6 +99,8 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J0 | A l'office du transfert ; a l'arene, serment ; ordre d'Ainz de camoufler le Tombeau (canon) | camouflage de la surface en cours |
 | J7 | Aura demande comment concilier Touch Me et Ulbert ; Azoth n'a pas la reponse | question ouverte |
 | J12 | Suivent par sort le duel d'Ainz ; Aura taquine Shalltear a son reveil | - |
+| J34 soir | Salle du Trone, Gardiens assembles : la defaite de Cocytus (canon) | - |
+| J35-J36 | Sortent avec Ainz et les Gardiens : ultimatum, duel, resurrection des trois par Azoth (canon : les Gardiens accompagnent Ainz ; Aura attestee au duel) | - |
 
 ## Renvois
 

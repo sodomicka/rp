@@ -1,12 +1,10 @@
 # Chronologie des roadmaps - Azoth / Le Cardinal Demoniaque
 
-- version : W7
-- amendement W7 : DEROGATION 20 000 caracteres (decision worldbuilder, 2026-09-15) ;
-  elagage de ce qui est deja pose ailleurs - blocs buildes (R1 -> R4) reduits a bornes,
-  fichier, element central ; historique des amendements compresse ; reperes parchemins
-  reduits au pointeur ; seances faites reduites au renvoi. Aucune decision retiree : ce
-  qui a quitte ce fichier vit dans les roadmaps et les fiches.
-- historique : W2 R1-R2 buildes ; W3 R3 builde, pas de titre de Martyr ; W4 bloc R4-R5
+- version : W8
+- amendement W8 : R5 builde (Le Stratege) ; regle des SORTIES EN CORPS ; etiquette de
+  l'ordre des tomes corrigee (LN 8) ; fil Ainz : R5 deux Supremes en un recit ; page
+  NouveauMonde/Hommes_Lezards.md creee (decisions worldbuilder, 2026-09-16).
+- historique : W7 derogation 20k, elagage vers roadmaps et fiches ; W2 R1-R2 buildes ; W3 R3 builde, pas de titre de Martyr ; W4 bloc R4-R5
   eclate en R4 -> R11, fils transversaux, corrections (mariage R9 apres Jircniv ; Azoth
   sort peu, sans compte ; surveillance) ; W5 Export 2bis porte (fil Ainz, decoupage R4,
   parchemins renouvelables) ; W6 R4 builde, Cocytus.md cree, aucune numerotation des
@@ -27,6 +25,9 @@
 - PAS D'OMNISCIENCE : Azoth reste au Tombeau ; chaque tome se roadmappe par sa FACE
   TOMBEAU seulement - departs, retours, rapports, confessions, seances. L'exterieur n'est
   ni narre ni roadmappe.
+- SORTIES EN CORPS (decision worldbuilder, 2026-09-16) : quand les Gardiens sortent en
+  corps avec Ainz, Azoth sort avec eux ; ces sorties sont des jalons, roadmappees comme
+  telles. Hors de ces sorties, il sort peu, sans compte.
 
 ## Reperes de datation
 
@@ -38,11 +39,13 @@
   Shalltear J12 ; campagne des hommes-lezards J27-J36 ; conseil de guerre de Re-Estize
   ~6 mois. Au-dela, le canon ne date plus rien : positions RELATIVES par tome (LN 5 a
   LN 16).
-- Ordre relatif des tomes sous la grille (canon) : LN 4 hommes-lezards -> LN 5-6 mission
-  d'environ un mois de Sebas dans la capitale, Tuare, Gehenna -> LN 7 invasion des
-  Workers -> LN 8 Carne, repos d'Ainz -> LN 9 visite de Jircniv au Tombeau, hiver de
-  preparatifs, Katze -> LN 10 Royaume Sorcier fonde, E-Rantel cedee au printemps -> LN 11
-  nains [duree du mois et saisons : CANON SUPPOSE, Timeline fandom].
+- Ordre des tomes sous la grille = GRILLE (decision worldbuilder) : LN 4 hommes-lezards
+  -> LN 5-6 mission d'environ un mois de Sebas dans la capitale, Tuare, Gehenna -> LN 7
+  invasion des Workers -> LN 8 Carne, repos d'Ainz -> LN 9 visite de Jircniv au Tombeau,
+  hiver de preparatifs, Katze -> LN 10 Royaume Sorcier fonde, E-Rantel cedee au printemps
+  -> LN 11 nains. Canon : l'ordre chronologique fandom place LN 8 (Enri, Lupusregina a
+  Carne) entre LN 4 et LN 5 ; la grille le garde en R8 - position a traiter au build de
+  R8. Durees et saisons : Timeline fandom, a verifier au build de chaque roadmap.
 - Office de l'Eglise Impie : HEBDOMADAIRE (acte). J0 et J7 en cycle ; J11 sermon
   d'urgence hors cycle ; puis J14, J21, J28, J35...
 - RETOURS AU TOMBEAU : parchemins de guidance (Teleportation Superieure, rang 10),
@@ -80,31 +83,26 @@
   en place (J13) ; mission de Sebas et Solution decidee (J13) ; conquete d'Albedo et crise
   de Shalltear ouvertes ; Cocytus designe a sa demande (J25). Detail : roadmap et fiches.
 
-## R5 - [TITRE A CHOISIR] - LN 4 [A BUILDER]
+## R5 - Le Stratege [BUILDE - W1]
 
-- Bornes : J27 -> J36 (LN 4).
-- Face Tombeau : campagne des hommes-lezards HORS CHAMP ; depart et rapports de Cocytus ;
-  J36 sortie d'Azoth - resurrection des trois hommes-lezards tombes face a Cocytus
-  [DIVERGENCE - officiant et perimetre : canon = Zaryusu seul, par Ainz] ; office
-  J28 et J35 ; seances : Entoma 2, CZ 1 (deverrouillage, cf. Fils) ; Lupusregina affectee
-  a Carne dans la foulee [CANON SUPPOSE - datation].
+- Bornes : J27 -> J36 (LN 4). Fichier : Roadmap_5_Le_Stratege.md.
+- Etapes : (1) J27 -> J33 L'attente ; (2) J34 -> J35 La defaite ; (3) J36 La mort des
+  autres.
 - Element central : la mort des autres.
-- COCYTUS (decision worldbuilder, 2026-09-15 ; fiche W1 creee a R4, karma +50 canon) :
-  designe a sa demande apres sa seance du J24 (R4) ; il ne suit d'abord que son createur,
-  l'attaque avant tout - defaite (canon) ; puis demande le duel contre les chefs, pour son
-  honneur, et reflechit a comment tous les soumettre - victoire (canon) ; apres la
-  victoire, plus de seances. Autre seance entre la defaite et le duel : a poser.
-- Fichier : [A POSER au build]
-- [A POSER] : decoupage (deux etapes probables : le Tombeau pendant la campagne / J36) ;
-  ce qu'Azoth fait de la campagne depuis le Tombeau ; casus de sa sortie (ordre d'Ainz,
-  demande de Cocytus, initiative).
+- Ce que R5 a pose pour la suite : CZ sent, verrous leves (J31) ; Cocytus seigneur des
+  hommes-lezards, les deux paroles conciliees, plus de seances ; hommes-lezards vassaux -
+  Shasuryu et Zenberu au service direct, Zaryusu aupres de Crusch (page
+  NouveauMonde/Hommes_Lezards.md) ; Lupusregina affectee a Carne (J36), depart J37 en
+  ouverture de R6 ; Ainz tient Azoth pour un egal sans le montrer, Azoth le sait et
+  refuse ; Azoth resurrecteur vu des natifs ; deux sorties en corps. Detail : roadmap et
+  fiches.
 
 ## R6 - [TITRE A POSER] - LN 5-6 [A BUILDER]
 
 - Fenetre : mission de Sebas et Solution dans la capitale (environ un mois [CANON
   SUPPOSE]) -> retour avec Tuare.
-- Face Tombeau : depart de Sebas et Solution [fenetre a poser] - mission decidee par Ainz
-  le J13 (R4) sur suggestion d'Azoth, Solution en noble, Sebas en majordome ; retours par
+- Face Tombeau : J37, depart de Lupusregina pour Carne (pose a R5) ; depart de Sebas et
+  Solution [fenetre a poser] - mission decidee par Ainz le J13 (R4) sur suggestion d'Azoth, Solution en noble, Sebas en majordome ; retours par
   parchemin pour offices et seances ; test de loyaute de Sebas (a la maison de la
   capitale, canon - hors champ) ; Gehenna : les Pleiades sortent en demons, ENTOMA PERD
   SA VOIX face a Evileye (canon - hors champ, retour au Tombeau en scene) ; TUARE arrive
@@ -235,9 +233,7 @@ CZ 3 ; R10 Yuri 3, Lupusregina 3, Narberal 3.
   go) tres serree, victoires alternees. Suspendu pendant sa mission (R6), repris a ses
   retours.
 - ENTOMA VASILISSA ZETA - axe : la gene de ne manger que de l'humain ; Azoth lui cuisine.
-  1 (R4) : faite, cf. Entoma_Vasilissa_Zeta.md. 2 (R5) : idem, boeuf annonce ; il lui
-  essuie une mandibule pleine de sauce, elle sent le contact sous la chitine, apprecie,
-  demande des caresses en plus de la nourriture. 3 (R8) : nouvelle viande, simple
+  1 (R4) et 2 (R5) : faites, cf. Entoma_Vasilissa_Zeta.md. 3 (R8) : nouvelle viande, simple
   pretexte - elle veut decouvrir le sexe ; ils couchent ensemble.
 - LUPUSREGINA BETA - axe : accepter son cote bestial dans ce qu'il a de vulnerable. 1 (R6)
   : discussion du traitement reserve aux humains de Carne ; elle finit blottie contre
@@ -247,11 +243,7 @@ CZ 3 ; R10 Yuri 3, Lupusregina 3, Narberal 3.
   se laisser faire, animal ; puis fecondee. FECONDATION AU CHOIX DU JOUEUR ; elle elevera
   sa portee seule quoi qu'il arrive - Azoth est son Alpha, pas son male. Issue en
   Parties/, jamais roadmappee.
-- CZ2128 DELTA - axe : sentir. 1 (R5) : en cherchant d'autres failles apres le debogage
-  de R3, elle se retrouve face aux verrous qu'elle savait fermes ; elle demande ; Azoth
-  deverrouille EMOTIONNEL ET SENSORIEL d'un coup, surcharge momentanee ; ils discutent
-  des emotions - l'amour, le bonheur, le plaisir, la tristesse ; elle repart pleine de
-  questions. 2 (R7) : elle a connu la tristesse, le bonheur, la jalousie, un peu malgre
+- CZ2128 DELTA - axe : sentir. 1 (R5) : faite, verrous leves, cf. CZ2128_Delta.md. 2 (R7) : elle a connu la tristesse, le bonheur, la jalousie, un peu malgre
   elle ; difficile a gerer ; laquelle est la plus dure a maitriser ? Azoth la briefe sur
   l'amour ; un instant elle croit l'aimer ; en reflechissant correctement, un ami. 3 (R9)
   : elle revient pour experimenter le plaisir ; separe de l'amour, ca la derange ? non ;
@@ -259,24 +251,22 @@ CZ 3 ; R10 Yuri 3, Lupusregina 3, Narberal 3.
 - SHALLTEAR BLOODFALLEN - fil RECURRENT, non jalonne : plaisir charnel, place par le MJ
   sans tour dedie. De J12 a l'arc des nains : CRISE DE LEGITIMITE, parole sur l'oreiller
   avec Azoth (ouverte J12 soir, cf. Shalltear.md).
-- COCYTUS - une seance, J24 (R4) : concilier la parole de son createur, lue comme
-  l'attaque avant tout, et celle de Punitto Moe, l'information avant la force ; apprendre
-  la strategie. Suite en R5 (defaite, duel des chefs, soumission) ; plus de seances apres
-  la victoire. Cf. R5.
+- COCYTUS - deux seances, faites : J24 (R4) et J34 soir (R5, les deux paroles conciliees
+  par l'ordre). Plus de seances apres la victoire du J36. Cf. Cocytus.md.
 - AUREOLE OMEGA - aucun fil : comblee J7 (R1).
 - ALBEDO - conquete continue R4 -> R8 : sexe et drague, separement ou en meme temps ;
   Azoth la convainc peu a peu qu'il a a lui offrir tout ce qu'elle veut, qu'Ainz est hors
   d'atteinte et surtout pas interesse - Ainz le lui dira en personne (R8) ; refus d'Ainz
   et fiancailles en R8 ; verite, acceptation et mariage en R9, apres la visite de Jircniv
   (confirme) ; surveillance du couple des R9-R10.
-- AINZ OOAL GOWN - fil des RECITS : un Supreme par roadmap, R4 -> R8 (cinq recits), a
+- AINZ OOAL GOWN - fil des RECITS : un recit par roadmap, R4 -> R8 (cinq recits), a
   donner des details sur les autres Supremes ; la discussion interceptee par Albedo (R9)
   clot la serie. Ensuite plus de seances privees : conseils de guerre et discussions entre
   amis, en reaction aux evenements. Ainz vient voir Azoth dans ses moments de doute :
   Azoth est son SEUL CONFIDENT et l'etre le plus stable de Nazarick des J12 ;
-  officieusement son bras droit. R4 : PERORONCINO (fait) ; Ulbert reserve au dernier
-  recit, R8 (reco MJ acceptee 2026-09-14) ; R5 -> R7 : au build de chacune, avec ce qui y
-  ebranle Azoth.
+  officieusement son bras droit. R4 : PERORONCINO (fait) ; R5 : PUNITTO MOE et WARRIOR
+  TAKEMIKAZUCHI en un recit (fait) ; Ulbert reserve au dernier recit, R8 (reco MJ
+  acceptee 2026-09-14) ; R6 -> R7 : au build de chacune, avec ce qui y ebranle Azoth.
 
 ## Raccords parques (hors blocs, en attente d'arc)
 

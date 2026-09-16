@@ -1,9 +1,10 @@
 # Demiurge
 
-- version : W4
+- version : W5
 
 Amendement W2 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
 Amendement W3 : Trajectoire datee alimentee - R2 Berger Perdu (J9 -> J11).
+Amendement W5 : Trajectoire datee alimentee - R5 Le Stratege (J34 -> J36).
 
 Etat decrit : jour 0.
 
@@ -111,6 +112,9 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J7 | Avertit Azoth : concilier des paroles si profondes, c'est la folie qui guette | - |
 | J9 | Croise son jumeau aux cent pas ; devine la crise de foi annoncee, rien de la verite ; lui coupe la parole avant tout blaspheme, le renvoie a Ainz | - |
 | J11 | Note le sermon d'urgence force ; ne dit rien | - |
+| J34 soir | Salle du Trone : propose a Ainz de garder les hommes-lezards en vie - l'experience d'un gouvernement sans la peur (canon) | - |
+| J35 | Sort avec Ainz et les Gardiens ; fait plier les chefs au sol devant Ainz (canon) | - |
+| J36 | Sort avec Ainz et les Gardiens : le duel de Cocytus, la resurrection des trois par son jumeau | - |
 
 ## Renvois
 

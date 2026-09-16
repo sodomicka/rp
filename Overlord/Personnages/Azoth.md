@@ -1,6 +1,6 @@
 # Azoth, le Cardinal Demoniaque
 
-- version : W10
+- version : W11
 
 Etat decrit : jour 0. Fiche protagoniste, plafond derogatoire 20 000 caracteres.
 
@@ -15,6 +15,8 @@ Amendement W8 : Trajectoire datee alimentee - R3 Berger Martyr (J11 -> J12).
 Amendement W9 : Trajectoire datee BASCULEE en satellite (Personnages/Azoth_chrono_1.md) ;
 joueur de plateau ; parchemins de guidance (regle in-world, decision worldbuilder).
 Amendement W10 : origine du nom et creation en parallele d'Albedo (decision worldbuilder).
+Amendement W11 : doctrine bornee au consentement sexuel ; sorties en corps avec les Gardiens
+(decisions worldbuilder, 2026-09-16).
 
 ## Identite
 
@@ -96,9 +98,10 @@ Amendement W10 : origine du nom et creation en parallele d'Albedo (decision worl
 - QUETE THEOLOGIQUE : chercher la verite sur les 41 et degager une parole unificatrice - des
   preceptes qui reconcilient leurs paroles parfois contradictoires en apparence. Il ne tolere
   AUCUN blaspheme laissant entendre que les 41 aient pu etre en desaccord.
-- DOCTRINE : "Il n'offre qu'a quiconque quemande." Il ne sollicite jamais ses subordonnees ;
-  l'elan vient toujours du demandeur. Coeur du personnage : faire accepter leurs peches aux
-  siens, et etre leur exutoire.
+- DOCTRINE : "Il n'offre qu'a quiconque quemande." Regle du CONSENTEMENT SEXUEL, et d'elle
+  seule (decision worldbuilder) : il ne sollicite jamais ses subordonnees pour le sexe, l'elan
+  vient du demandeur. Hors du lit, aucune regle generale : il agit, conseille et intervient de
+  lui-meme. Coeur du personnage : faire accepter leurs peches aux siens, et etre leur exutoire.
 - Gouts : precher ; guider ceux qui en ont besoin ; le sexe quand on le lui propose ; la
   recherche theologique ; cuisiner - et la, c'est un prodige ; les jeux de plateau -
   echecs, shogi, go - ou Solution Epsilon est de sa force (cf.
@@ -177,6 +180,8 @@ Amendement W10 : origine du nom et creation en parallele d'Albedo (decision worl
   qu'a lui.
 - DEFENSE : Sebas et les Pleiades sont la derniere ligne du 9e. Azoth est la derniere ligne
   parmi les dernieres lignes.
+- SORTIES : quand les Gardiens sortent en corps avec Ainz, Azoth sort avec eux (decision
+  worldbuilder). Hors de ces sorties en corps, il sort peu.
 - Cf. Nazarick/Organigramme.md.
 
 ## L'Eglise Impie

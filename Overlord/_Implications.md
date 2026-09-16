@@ -1,6 +1,6 @@
 # Journal d'implications - Overlord
 
-- version : W20
+- version : W19
 
 Document de TRAVAIL. Jamais fetche en narration. Porte ce qui RESTE : doutes non tranches,
 questions en attente, points a reverifier. Ne garde aucune trace de ce qui est fait.
@@ -21,12 +21,15 @@ questions en attente, points a reverifier. Ne garde aucune trace de ce qui est f
   surveillance ; forme de la haine des Quarante chez Albedo. Surveillance : aucun resultat
   avant R11 (reco MJ, non tranche). R8 - position de LN 8 : l'ordre fandom le place entre
   LN 4 et LN 5, la grille en R8 (garde-cap W8) ; trancher la datation relative au build.
-- SATELLITES CHRONO : Azoth, Ainz et Albedo ont les leurs (8k, coupe a la frontiere
-  d'arc). Pour toute autre fiche qui franchirait 8k par sa Trajectoire datee : demander au
-  worldbuilder (satellite ou derogation), ne pas trancher seul.
+- VF PROPOSEES A ACTER (NouveauMonde/Hommes_Lezards.md W1, originaux entre parentheses) :
+  Griffe Verte, Oeil Rouge, Croc de Dragon, Lame Aceree, Queue Rasoir, Douleur de Givre,
+  Explosion Glacee, Quatre Tresors, voyageur, Grand Lac.
+- PLAFONDS : Albedo.md W7 a 8,6k (fil jusqu'a R10) - derogation 10k a inscrire en SB0, ou
+  compression ; Ainz.md W8 a 10,4k sous derogation 10k (fil des recits jusqu'a R8) -
+  derogation relevee a 12k, ou compression du Parcours dans Yggdrasil. Au choix du
+  worldbuilder.
 - VF A FIXER, reste : les noms des Arts Martiaux (a la relivraison de
-  Systemes/Systemes_Natifs.md ; Zenberu Gugu en use, Hommes_Lezards.md renvoie) ; noms
-  anglais conserves, actes : Worldslicer, Frost Pain ; le diminutif d'Aureole par Yuri ("Oh-chan" au canon,
+  Systemes/Systemes_Natifs.md ; Zenberu Gugu en use, Hommes_Lezards.md renvoie) ; le diminutif d'Aureole par Yuri ("Oh-chan" au canon,
   Aureole_Omega.md porte encore un [INCERTAIN]). Worldslicer reste en anglais (acte).
 - PAGES HORS BUDGET sans derogation (plafond 8k) : Nigredo_et_Rubedo.md 9,1k ;
   Etres_Supremes.md 9,7k (deja 9,3k a W4). Derogation a inscrire en SB0 ou compression :
@@ -36,9 +39,8 @@ questions en attente, points a reverifier. Ne garde aucune trace de ce qui est f
 
 ## A porter au prochain BIBLE BUILD
 
-- Deltas R5 (2026-09-16) : SB0 - NouveauMonde 4 pages, Personnages 22 pages (satellites
-  Ainz_chrono_1, Albedo_chrono_1), Roadmap/Azoth 6 fichiers (R5 buildee), derogations
-  Ainz.md 12k et Albedo.md 12k (actees), satellites chrono 8k coupes a la frontiere d'arc ; SB1/SB5 - doctrine "Il n'offre qu'a
+- Deltas R5 (2026-09-16) : SB0 - NouveauMonde 4 pages, Roadmap/Azoth 6 fichiers (R5
+  buildee), derogations Albedo et Ainz si actees ; SB1/SB5 - doctrine "Il n'offre qu'a
   quiconque quemande" bornee au consentement sexuel (Azoth.md W11) ; SB5 Azoth - sorties
   en corps avec les Gardiens, resurrecteur de Nazarick de fait ; SB3 - lignes J27 -> J36
   (ultimatum, defaite J34, seance de Cocytus, sorties J35 et J36, les trois ressuscites

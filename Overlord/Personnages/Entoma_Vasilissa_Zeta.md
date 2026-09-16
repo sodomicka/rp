@@ -1,8 +1,9 @@
 # Entoma Vasilissa Zeta
 
-- version : W3
+- version : W4
 
 Amendement W2 : Trajectoire datee alimentee - R4 Le Confident (J14).
+Amendement W4 : Trajectoire datee alimentee - R5 Le Stratege (J28, J34).
 
 Etat decrit : jour 0.
 
@@ -120,6 +121,8 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 |---|---|---|
 | J0 | Mise en etat d'alerte au 9e par Azoth, avec ses soeurs | - |
 | J14 | Seance 1 avec Azoth, cuisines du 9e, apres l'office : intronisation - une viande passee pour humaine ; se regale, heureuse d'apprendre que c'etait du porc | fil : seance 1 faite |
+| J28 | Seance 2 avec Azoth, cuisines du 9e, apres l'office : boeuf, annonce cette fois ; il lui essuie une mandibule pleine de sauce, elle sent le contact sous la chitine, apprecie ; demande des caresses en plus de la nourriture | fil : seance 2 faite |
+| J34 | Au poste de commandement de Cocytus, observatrice mandatee par Ainz : rapporte l'ordre d'assaut a Ainz et Albedo ; apres la defaite, transmet a Cocytus le rappel d'Ainz (canon) | - |
 
 ## Renvois
 

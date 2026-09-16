@@ -1,6 +1,6 @@
 # CZ2128 Delta
 
-- version : W6
+- version : W7
 
 Etat decrit : jour 0. Plafond derogatoire : 10 000 caracteres (decision worldbuilder).
 
@@ -9,6 +9,8 @@ soeurs distinguee du mimetisme.
 Amendement W3 : Trajectoire datee alimentee - R1 et R2 (J0 -> J11).
 Amendement W4 : derogation de plafond a 10 000 caracteres.
 Amendement W5 : Trajectoire datee alimentee - R3 Berger Martyr (J11 -> J12).
+Amendement W7 : Trajectoire datee alimentee - R5 Le Stratege (J31) : les verrous de Garnet
+leves (decision worldbuilder, 2026-09-16).
 
 ## Identite
 
@@ -151,6 +153,7 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J7 | Assiste au sermon des pensees profondes, sans ferveur ; l'analyse ensuite | - |
 | J11 | Presente a Azoth les incoherences logiques du sermon du J7 ; refuse de blasphemer, demande un DEBOGAGE | requete de debogage en attente ; verrous non concernes |
 | J11-J12 | Reprogrammee par Azoth via le panneau dorsal : logique theologique corrigee, verrous emotionnels intacts | incoherences du J7 resolues ; verrous inchanges |
+| J31 | En cherchant d'autres failles apres le debogage, se retrouve face aux verrous qu'elle savait fermes ; demande. Azoth, par le panneau dorsal, deverrouille EMOTIONNEL ET SENSORIEL d'un coup ; surcharge momentanee. Ils discutent des emotions - l'amour, le bonheur, le plaisir, la tristesse ; elle repart pleine de questions | verrous leves : elle sent ; la configuration bridee du jour 0 n'est plus |
 
 ## Renvois
 

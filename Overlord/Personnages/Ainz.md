@@ -1,6 +1,6 @@
 # Ainz Ooal Gown (Momonga)
 
-- version : W9
+- version : W8
 
 Amendement W2 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
 Amendement W3 : Trajectoire datee alimentee - R2 Berger Perdu (J9 -> J11).
@@ -13,10 +13,8 @@ Amendement W7 : karma -500 et 718 sorts durcis (canon) ; rang de guilde "29e" co
 source (decisions worldbuilder, 2026-09-15).
 Amendement W8 : Trajectoire datee alimentee - R5 Le Stratege (J27 -> J36) ; l'egalite
 naissante envers Azoth (decision worldbuilder, 2026-09-16).
-Amendement W9 : derogation de plafond portee a 12 000 caracteres ; Trajectoire datee
-BASCULEE en satellite (Personnages/Ainz_chrono_1.md) (decisions worldbuilder, 2026-09-16).
 
-Etat decrit : jour 0. Plafond derogatoire : 12 000 caracteres (decision worldbuilder).
+Etat decrit : jour 0. Plafond derogatoire : 10 000 caracteres (decision worldbuilder).
 Au point de depart, il porte encore le nom de Momonga ; il ne prend
 le nom de la guilde qu'ensuite (cf. Trajectoire datee).
 
@@ -132,11 +130,27 @@ Wish III siege chez les Six Grands Dieux, que le Nouveau Monde existe au-dela de
 
 ## Trajectoire datee
 
-BASCULEE EN SATELLITE depuis W9 : cf. Personnages/Ainz_chrono_1.md, 8 000 caracteres
-maximum par fichier, coupe a la frontiere d'arc ; Ainz_chrono_2.md a la suite quand le
-plafond est atteint. Cette fiche ne porte plus aucune entree datee : ici ce qu'il EST,
-la-bas ce qu'il DEVIENT. Quand un RP diverge, le delta va en Parties/ et surclasse le
-satellite pour cette partie.
+Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
+
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| J0 | Interrompt l'office d'Azoth par Message, a la conclusion ; fait relayer par lui l'ordre de reperage a Sebas | - |
+| J0 | Serment des Gardiens a l'arene ; accompagne Azoth a Ashurbanipal ; reconfigure Pandora's Actor a la seule voix | - |
+| J1 | Remet l'Anneau d'Ainz Ooal Gown a Azoth | - |
+| J3 | Prend le nom d'Ainz Ooal Gown (canon) | nom : Ainz Ooal Gown |
+| J9 | Recoit la confession d'Azoth ; lui revele tout ce qu'il sait, lui-meme compris - Suzuki Satoru ; lui accorde une semaine avant de le tuer s'il le demande encore | Azoth dans le secret |
+| J10 | Chute de Shalltear (canon) ; reunit les Gardiens et l'annonce | - |
+| J11 | Recoit le retour d'Azoth ; promet de lui raconter les vrais 41 | - |
+| J11 | Sort les objets de rang monde du Mausolee pour affronter Shalltear (canon) | - |
+| J12 | Tue Shalltear en duel (canon), les Gardiens suivant par sort ; laisse Azoth la ressusciter ; distribue les artefacts, dont l'Amulette du Saint Maudit a Azoth ; evoque un titre de martyr, retire sur refus | Azoth : seul confident, bras droit officieux |
+| J13 | Chambre des desirs : raconte Peroroncino a Azoth (SELON SATORU) ; lui expose le projet d'infiltrer la capitale du Royaume ; Azoth propose Solution en noble et Sebas en majordome | mission de Sebas et Solution decidee |
+| J21 | Reproche a Narberal sa froideur avec les humains ; autorise sans hesiter la sortie d'Azoth a Carne avec elle | - |
+| J25 | Salle du Trone : confie a Cocytus, a sa demande, la conquete des hommes-lezards avec une armee de morts-vivants (canon) | - |
+| J27 | Ultimatum porte par Cocytus ; trois regles au commandant ; sort en Momon une partie de la semaine (canon) | - |
+| J33 soir | Chambre des desirs : raconte Punitto Moe et Warrior Takemikazuchi a Azoth (SELON SATORU), un seul recit | - |
+| J34 | Miroir avec Albedo et Azoth : defaite de Cocytus, rappele par Entoma. Salle du Trone le soir : Cocytus demande grace et duel, Demiurge propose l'experience ; ordre change - occupation, la charge a Cocytus (canon) | - |
+| J35 | Gargantua active ; Portails d'Albedo ; sort avec les Gardiens : ultimatum aux chefs, duel le lendemain (canon) | - |
+| J36 | Duel de Cocytus ; sur sa demande, decide avec Azoth la resurrection des trois, choix laisse a lui en apparence ; Azoth officie ; Cocytus seigneur des hommes-lezards (canon). Affecte Lupusregina a Carne | tient Azoth pour un egal, sans le montrer |
 
 ## Renvois
 
@@ -146,6 +160,5 @@ satellite pour cette partie.
 - Niveaux et paliers internes : cf. Systemes/Echelle_Puissance.md.
 - Sorts, rangs, branches : cf. Systemes/Magie.md et Grande_Magie_et_Signatures.md.
 - Ses vassaux du Grand Lac : cf. NouveauMonde/Hommes_Lezards.md.
-- Trajectoire datee : cf. Personnages/Ainz_chrono_1.md.
 
 FIN_WIKI_PERSONNAGES_AINZ

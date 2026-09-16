@@ -1,6 +1,6 @@
 # Azoth - Trajectoire datee, fichier 1
 
-- version : W2
+- version : W3
 - role : satellite de Personnages/Azoth.md (fiche protagoniste, plafond derogatoire 20k,
   seuil d'alerte franchi a W8). Porte la TRAJECTOIRE DATEE d'Azoth : ce qu'il DEVIENT apres
   le jour 0, evenement par evenement, en forme telegraphique. Alimentee a chaud, arc par
@@ -8,7 +8,8 @@
 - plafond : 8 000 caracteres ; coupe a la frontiere d'arc ; suite dans Azoth_chrono_2.md
   le moment venu.
 - couverture : R1 Berger Sincere (J0 -> J8), R2 Berger Perdu (J9 -> J11), R3 Berger
-  Martyr (J11 -> J12), R4 Le Confident (J12 soir -> J26). Suivant : R5, a l'integration.
+  Martyr (J11 -> J12), R4 Le Confident (J12 soir -> J26), R5 Le Stratege (J27 -> J36).
+  Suivant : R6, a l'integration - ouvre Azoth_chrono_2.md si le plafond est atteint.
 - lecture : le noyau (identite, capacites, relations et possessions au jour 0) reste dans
   Azoth.md. Quand un RP diverge, le delta va en Parties/ et surclasse ce fichier pour
   cette partie. Datation : J0 = minuit du transfert (BIBLE SB3).
@@ -41,7 +42,7 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | J11-J12 | Nuit : manuels de Python de Garnet a Ashurbanipal ; reprogrammation de CZ2128 par le panneau dorsal - logique theologique seule, verrous intacts | sait programmer ; CZ deboguee |
-| J12 | Suit par sort, avec les Gardiens, la mise a mort de Shalltear par Ainz ; au retour, la ramene a la vie en Salle du Trone avec une part de l'or de la Tresorerie ; perte reduite a trois niveaux | - |
+| J12 | Suit par sort, avec les Gardiens, la mise a mort de Shalltear par Ainz ; au retour, la ramene a la vie en Salle du Trone avec une part de l'or de la Tresorerie ; perte reduite a trois niveaux | resurrecteur de Nazarick de fait (decision worldbuilder) |
 | J12 | Recoit l'Amulette du Saint Maudit d'Ainz, devant temoins, avec les autres artefacts ; refuse le titre de martyr qu'Ainz evoque | Amulette portee : sa maitrise divine dissimulee a toute observation, sans qu'il le sache |
 
 ## R4 - Le Confident (J12 soir -> J26)
@@ -58,10 +59,23 @@
 | J24 | Seance de Cocytus : concilier Takemikazuchi et Punitto Moe ; guidance : une seule voix, demander un commandement a Ainz | - |
 | J25 | Salle du Trone : conseil des Gardiens, Cocytus designe a sa demande | - |
 
+## R5 - Le Stratege (J27 -> J36)
+
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| J28 | Office. Apres l'office, cuisines : Entoma 2 - boeuf annonce, mandibule essuyee, caresses demandees | - |
+| J31 | CZ 1 : face aux verrous de Garnet, elle demande ; deverrouillage emotionnel et sensoriel d'un coup, surcharge ; les emotions discutees | CZ sent |
+| J33 soir | Ainz raconte Punitto Moe et Warrior Takemikazuchi (SELON SATORU), un seul recit ; ebranle : le stratege n'a laisse personne a Nazarick, sa parole ne tient que par Ainz et par l'office ; l'honneur de Cocytus, habillage du style de jeu de la plus grosse frappe | - |
+| J34 | Devant le miroir avec Ainz et Albedo : la defaite de Cocytus. Salle du Trone le soir, Gardiens assembles | - |
+| J34 soir | Seance de Cocytus, chambre des desirs : la defaite relue par Punitto Moe, le duel par Takemikazuchi, les deux paroles conciliees par l'ordre | Cocytus : derniere seance |
+| J35 | Office. Sort en corps avec Ainz et les Gardiens : l'ultimatum aux chefs des hommes-lezards, plies par Demiurge, duel pour le lendemain (canon) | - |
+| J36 | Sort en corps : le duel de Cocytus. Sur demande de Cocytus a Ainz, decide avec Ainz la resurrection de Zaryusu, Shasuryu et Zenberu - choix laisse a Ainz en apparence ; officie devant les hommes-lezards, trois niveaux perdus chacun, or derisoire [DIVERGENCE RP - canon : Zaryusu seul, par Ainz] | resurrecteur vu des natifs ; sait qu'Ainz le tient pour un egal, refuse d'etre erige en egal de son dieu, vraie nature connue |
+
 ## Renvois
 
 - Noyau : cf. Personnages/Azoth.md.
-- Roadmaps R1-R4 (sources de build, jamais fetchees en narration) : Roadmap/Azoth/.
+- Roadmaps R1-R5 (sources de build, jamais fetchees en narration) : Roadmap/Azoth/.
+- Les ressuscites du J36 : cf. NouveauMonde/Hommes_Lezards.md.
 - Chronologie condensee : BIBLE SB3.
 
 FIN_WIKI_PERSONNAGES_AZOTH_CHRONO_1

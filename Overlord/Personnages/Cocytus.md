@@ -1,6 +1,9 @@
 # Cocytus
 
-- version : W1
+- version : W2
+
+Amendement W2 : Trajectoire datee alimentee - R5 Le Stratege (J27 -> J36) ; seigneur des
+hommes-lezards (canon) ; les deux paroles conciliees (decision worldbuilder, 2026-09-16).
 
 Etat decrit : jour 0.
 
@@ -96,6 +99,12 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J12 | Suit par sort le duel d'Ainz contre Shalltear ; retient Demiurge sur ordre (canon) ; Salle du Trone : resurrection de Shalltear par Azoth (R3) | - |
 | J24 | Seance avec Azoth, chambre des desirs : demande a concilier la parole de son createur et celle de Punitto Moe, et a apprendre la strategie ; guidance : une seule voix, demander un commandement a Ainz et apprendre en commandant. N'en retient d'abord que son createur | - |
 | J25 | Salle du Trone : demande a Ainz la conquete des hommes-lezards ; Ainz la lui confie, avec une armee de morts-vivants (canon) | commandant de la campagne (R5) |
+| J27 | Envoie l'emissaire mort-vivant porter l'ultimatum aux cinq tribus du Grand Lac : huit jours (canon) | commandant en campagne |
+| J34 | Poste de commandement en arriere du champ, hors du Tombeau ; Entoma aupres de lui, observatrice mandatee par Ainz. Trois regles d'Ainz : pas un pied sur le champ, Iguva=41 en commandant de terrain, penser seul. Assaut frontal, aucune information prise sur l'ennemi - la parole de son createur seule. DEFAITE : Iguva=41 abattu par Zaryusu (canon). Rappele par Ainz, rentre | vaincu |
+| J34 soir | Salle du Trone, Gardiens assembles : humilie par Albedo ; demande la grace des hommes-lezards et le duel contre leurs chefs, pour son honneur ; Demiurge propose l'experience d'un gouvernement sans la peur ; Ainz change l'ordre - occupation, la charge des hommes-lezards lui reviendra (canon) | - |
+| J34 soir | Seance avec Azoth, chambre des desirs, apres la Salle du Trone : relire la defaite par Punitto Moe - aucune information prise ; le duel par Takemikazuchi - l'attaque, mais apres ; les deux paroles conciliees par l'ordre. Reflechit a soumettre tous les chefs | les deux paroles conciliees ; derniere seance |
+| J35 | Sort avec Ainz et les Gardiens : l'ultimatum aux chefs, le duel pour le lendemain (canon) | - |
+| J36 | Duel : tue tous ceux qui l'affrontent - Zaryusu, Shasuryu, Zenberu, Sukyu Juju, Kyuku Zuzu et leurs guerriers (canon). Demande a Ainz la resurrection des trois - Zaryusu, Shasuryu, Zenberu ; Ainz en decide avec Azoth, qui officie. Seigneur des hommes-lezards (canon) | seigneur des hommes-lezards ; plus de seances |
 
 ## Renvois
 
@@ -103,6 +112,7 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 - Son createur, les 41 : cf. Nazarick/Etres_Supremes.md.
 - Le corpus preche, l'office : cf. Nazarick/Theologie_base.md.
 - Le Cardinal : cf. Personnages/Azoth.md.
+- Ses vassaux du Grand Lac : cf. NouveauMonde/Hommes_Lezards.md.
 - Niveaux, paliers : cf. Systemes/Echelle_Puissance.md.
 
 FIN_WIKI_PERSONNAGES_COCYTUS

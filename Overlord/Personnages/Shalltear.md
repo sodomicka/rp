@@ -1,6 +1,6 @@
 # Shalltear Bloodfallen
 
-- version : W8
+- version : W9
 
 Etat decrit : jour 0.
 
@@ -10,6 +10,7 @@ Amendement W4 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
 Amendement W5 : Trajectoire datee alimentee - R2 Berger Perdu (J9 -> J11).
 Amendement W6 : Trajectoire datee alimentee - R3 Berger Martyr (J11 -> J12).
 Amendement W7 : le Collier de Rubis de Sang recu au J12.
+Amendement W9 : Trajectoire datee alimentee - R5 Le Stratege (J34 -> J36).
 Amendement W8 : fil recurrent avec Azoth et crise de legitimite (garde-cap W4) ;
 Trajectoire datee alimentee - R4 Le Confident (J12 soir).
 
@@ -129,6 +130,8 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J12 | Mise a mort par Ainz en duel (canon) ; ressuscitee par Azoth en Salle du Trone, devant les Gardiens ; taquinee par Aura a son reveil | niv. 97 : trois niveaux perdus (decision worldbuilder, perte reduite), a regagner ; hors du palier 3 jusque-la |
 | J12 | Recoit d'Ainz le Collier de Rubis de Sang, l'objet de rang monde cree pour elle, sorti du Mausolee | Collier porte |
 | J12 soir | Revenue, chez Azoth : sexe, puis seance privee - il l'aide a se pardonner ; CRISE DE LEGITIMITE ouverte (fil recurrent jusqu'a l'arc des nains) | crise ouverte |
+| J34 soir | Salle du Trone, Gardiens assembles : la defaite de Cocytus (canon) | - |
+| J35-J36 | Sort avec Ainz et les Gardiens : ultimatum, duel, resurrection des trois par Azoth (canon : presente) | - |
 
 ## Renvois
 

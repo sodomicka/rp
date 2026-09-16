@@ -1,6 +1,9 @@
 # Lupusregina Beta
 
-- version : W2
+- version : W3
+
+Amendement W3 : Trajectoire datee alimentee - R5 Le Stratege (J35, J36) ; affectation a Carne
+(canon, datation : decision worldbuilder, 2026-09-16).
 
 Etat decrit : jour 0.
 
@@ -108,6 +111,8 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | J0 | Mise en etat d'alerte au 9e par Azoth, avec ses soeurs | - |
+| J35 | Transfere son mana a Albedo, avec Pestonya, pour les Portails de la seconde armee (canon) | - |
+| J36 | Affectee par Ainz a Carne, au retour de la campagne des hommes-lezards | affectee a Carne ; depart : R6 |
 
 ## Renvois
 

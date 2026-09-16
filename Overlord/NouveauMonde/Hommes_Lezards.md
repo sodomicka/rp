@@ -1,16 +1,13 @@
 # Hommes-lezards du Grand Lac
 
-- version : W2
-
-Amendement W2 : VF actees ; Frost Pain reste en anglais, comme Worldslicer (decision
-worldbuilder, 2026-09-16).
+- version : W1
 
 Etat decrit : jour 0 ; Trajectoire datee a partir de R5.
 
 Origine : page creee a la boucle R5 (Roadmap_5_Le_Stratege.md), qui les convoque en scene
 aux J35 et J36 (decision worldbuilder, 2026-09-16). Canon verifie sur le wiki fandom EN
 (LN 4). Une seule page pour le peuple et ses six nommes. Noms de tribus, de tresors et de
-lieux : VF actees, originaux entre parentheses ; Frost Pain reste en anglais.
+lieux : rendus francais, originaux entre parentheses ; VF au journal, a acter.
 
 ## Le peuple
 
@@ -28,9 +25,9 @@ lieux : VF actees, originaux entre parentheses ; Frost Pain reste en anglais.
   d'un signe cramoisi sur la poitrine. Respectes pour ce qu'ils rapportent, sans voix au
   conseil ; certains anciens les tiennent pour des etrangers.
 - QUATRE TRESORS (Four Treasures) : objets magiques detenus par les tribus, transmis par les
-  armes. Le seul nomme : FROST PAIN, lame bleu-blanc d'une piece avec sa garde, en
-  trident ; chaque coup empile des blessures de froid, et toucher la lame en inflige ;
-  Explosion Glacee (Icy Burst) : une brume de givre.
+  armes. Le seul nomme : Douleur de Givre (Frost Pain), lame bleu-blanc d'une piece avec sa
+  garde, en trident ; chaque coup empile des blessures de froid, et toucher la lame en
+  inflige ; Explosion Glacee (Icy Burst) : une brume de givre.
 - Niveaux : inconnus au canon. Force levee au J34 : 1 380 guerriers, toutes tribus (canon).
 - Cf. Systemes/Echelle_Puissance.md pour les bandes natives ; Systemes/Systemes_Natifs.md
   pour les Arts Martiaux.
@@ -39,7 +36,7 @@ lieux : VF actees, originaux entre parentheses ; Frost Pain reste en anglais.
 
 - ZARYUSU SHASHA - Griffe Verte, frere cadet du chef. VOYAGEUR, marque cramoisie sur la
   poitrine ; ecailles vert sombre et noir charbon. Le plus fort guerrier des tribus. Porteur
-  de Frost Pain, prise au chef de Lame Aceree pendant la guerre tribale. A rapporte de
+  de Douleur de Givre, prise au chef de Lame Aceree pendant la guerre tribale. A rapporte de
   ses voyages la PISCICULTURE, adoptee par sa tribu. Compagnon : RORORO, hydre a quatre tetes
   - difforme, six d'ordinaire - recueillie abandonnee. Amoureux de Crusch Lulu des leur
   rencontre (J28).
