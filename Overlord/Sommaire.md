@@ -1,6 +1,6 @@
 # Sommaire - WIKI Overlord
 
-- version : W28
+- version : W29
 
 Index de navigation. Fetche en debut de chaque thread. L'URL d'une page se construit :
 raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire est l'index.
@@ -34,15 +34,17 @@ raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire e
 | NouveauMonde/Six_Grands_Dieux.md | W2 | Les six sieges, Alah Alaf = Wish III, God-kin, heritage et objets |
 | NouveauMonde/Theocratie_Slane.md | W1 | L'Etat, gouvernement, les Six Ecritures, rapport a Nazarick |
 | NouveauMonde/Re-Estize.md | W1 | Le Royaume, E-Rantel, Carne, l'Empire en notice |
-| NouveauMonde/Hommes_Lezards.md | W1 | Les cinq tribus du Grand Lac, les six nommes, Douleur de Givre, vassaux de Nazarick des J36 |
+| NouveauMonde/Hommes_Lezards.md | W2 | Les cinq tribus du Grand Lac, les six nommes, Frost Pain, vassaux de Nazarick des J36 |
 
-## Personnages (20 pages)
+## Personnages (22 pages)
 | Page | V | Contenu |
 |---|---|---|
-| Personnages/Ainz.md | W8 | Suzuki Satoru, la guilde, le calibre, l'ecart de savoir sur les quarante |
+| Personnages/Ainz.md | W9 | Suzuki Satoru, la guilde, le calibre, l'ecart de savoir sur les quarante ; derogation 12k |
+| Personnages/Ainz_chrono_1.md | W1 | Satellite d'Ainz.md : Trajectoire datee, R1 -> R5 (J0 -> J36) |
 | Personnages/Azoth.md | W11 | Le Cardinal : setting d'Ulbert, deux formes, Passion d'Incube, prodige de cuisine, le 9e, parchemins de guidance |
 | Personnages/Azoth_chrono_1.md | W3 | Satellite d'Azoth.md : Trajectoire datee, R1 -> R5 (J0 -> J36) |
-| Personnages/Albedo.md | W7 | Regente, le parametre reecrit, Hermes Trismegistus, Ginnungagap |
+| Personnages/Albedo.md | W8 | Regente, le parametre reecrit, Hermes Trismegistus, Ginnungagap ; derogation 12k |
+| Personnages/Albedo_chrono_1.md | W1 | Satellite d'Albedo.md : Trajectoire datee, R1 -> R5 (J0 -> J36) |
 | Personnages/Demiurge.md | W5 | Le jumeau, arsenal de competences, la Lave, luxure a zero |
 | Personnages/Shalltear.md | W9 | Valkyrie de Sang, Lance Pipette, Frenesie Sanglante, nymphomanie, crise de legitimite |
 | Personnages/Aureole_Omega.md | W4 | Sainte aveugle, karma +500, Worldslicer, le Sanctuaire des Cerisiers, co-conceptrice des parchemins |

@@ -1,6 +1,6 @@
 # Albedo
 
-- version : W7
+- version : W8
 
 Amendement W2 : les rapports charnels avec Azoth qualifies en souvenir ecrit reciproque -
 la fiche portait "non consomme au jour 0".
@@ -12,8 +12,10 @@ Le Confident (J15 -> J20).
 Amendement W6 : surnom acte ; liste de classes en liste partielle ; Azoth cree en parallele
 d'elle (decisions worldbuilder, 2026-09-15).
 Amendement W7 : Trajectoire datee alimentee - R5 Le Stratege (J27 -> J36).
+Amendement W8 : derogation de plafond a 12 000 caracteres ; Trajectoire datee BASCULEE en
+satellite (Personnages/Albedo_chrono_1.md) (decisions worldbuilder, 2026-09-16).
 
-Etat decrit : jour 0.
+Etat decrit : jour 0. Plafond derogatoire : 12 000 caracteres (decision worldbuilder).
 
 ## Identite
 
@@ -127,21 +129,11 @@ Point de mecanique central, a ne pas confondre :
 
 ## Trajectoire datee
 
-Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
-
-| Date/ere | Evenement | Delta d'etat |
-|---|---|---|
-| J0 | Salle du Trone au transfert ; croise Azoth a l'arene, au serment | - |
-| J1-J6 | Nuit non datee : venue prier a l'Eglise Impie, conquise dans la chambre des desirs ; colere de coucher avec un autre qu'Ainz ; demande en mariage d'Azoth prise pour une blague | corps plus vierge ; bicorne accessible |
-| J7 | Regards devorants au sermon ; sexe avec Azoth apres l'office | - |
-| J10 | Chute de Shalltear (canon) | - |
-| J11 | Voit Azoth perdu ; couche avec lui pour le reconforter ; le croit resigne a ce qu'elle n'aime qu'Ainz ; s'inquiete sans le dire | - |
-| J12 | Suit par sort le duel d'Ainz contre Shalltear ; Salle du Trone : resurrection de Shalltear par Azoth, remise des artefacts (R3) | - |
-| J15-J20 | Conquete ouverte : sexe et drague avec Azoth au fil de la semaine ; il la travaille - Ainz hors d'atteinte, pas interesse ; elle croit toujours Ainz sien, c'est ecrit | conquete ouverte, aucun basculement |
-| J27-J36 | Conquete continue : sexe et drague avec Azoth, sans compte ; aucun basculement | conquete ouverte |
-| J34 | Devant le miroir avec Ainz et Azoth : suit la defaite de Cocytus. Salle du Trone le soir : l'humilie devant les Gardiens assembles (canon) | - |
-| J35 | Ouvre les Portails de la seconde armee, mana de Pestonya et de Lupusregina (canon) ; sort avec Ainz et les Gardiens : l'ultimatum aux chefs | - |
-| J36 | Sort avec Ainz et les Gardiens : le duel de Cocytus, la resurrection des trois par Azoth | - |
+BASCULEE EN SATELLITE depuis W8 : cf. Personnages/Albedo_chrono_1.md, 8 000 caracteres
+maximum par fichier, coupe a la frontiere d'arc ; Albedo_chrono_2.md a la suite quand le
+plafond est atteint. Cette fiche ne porte plus aucune entree datee : ici ce qu'elle EST,
+la-bas ce qu'elle DEVIENT. Quand un RP diverge, le delta va en Parties/ et surclasse le
+satellite pour cette partie.
 
 ## Renvois
 
@@ -150,6 +142,7 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 - Double horloge et metaphysique des PNJ : cf. Nazarick/Regles_Internes.md.
 - Tabula, les 41, le transfert : cf. Nazarick/Etres_Supremes.md.
 - Paliers internes et duel pur : cf. Systemes/Echelle_Puissance.md.
-- Ses soeurs : cf. Personnages/Nigredo_et_Rubedo.md (a venir).
+- Ses soeurs : cf. Personnages/Nigredo_et_Rubedo.md.
+- Trajectoire datee : cf. Personnages/Albedo_chrono_1.md.
 
 FIN_WIKI_PERSONNAGES_ALBEDO
