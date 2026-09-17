@@ -1,6 +1,11 @@
 # Chronologie des roadmaps - Azoth / Le Cardinal Demoniaque
 
-- version : W9
+- version : W11
+- amendement W11 : R11, sens de la lisiere partagee avec Zesshi - pedagogie amoureuse
+  (decision worldbuilder, 2026-09-17).
+- amendement W10 : etiquette R3 corrigee (W3) ; R9 : premiere Ponction passionnelle du
+  couple ; R11 : Zesshi menee a la lisiere sans ponctionner (decisions worldbuilder,
+  2026-09-17).
 - amendement W9 : R6 builde (Le Majordome) ; Tuare formee par Yuri, non par Pestonya
   (canon) ; mariage Sebas-Tuare place en R8 ; les six autres chefs des Huit Doigts en R10 ;
   fiches Tuare et Hilma_Cygnaeus creees ; Azoth_chrono_2 ouvert (decisions worldbuilder,
@@ -71,7 +76,7 @@
   Fichier : Roadmap_2_Berger_Perdu.md.
 - Element central : la verite - deduction, revelation, survie.
 
-## R3 - Berger Martyr [BUILDE - W2]
+## R3 - Berger Martyr [BUILDE - W3]
 
 - Bornes : J11 au soir, chantier du bouclier -> J12, Amulette remise, titre de martyr
   refuse. Fichier : Roadmap_3_Berger_Martyr.md.
@@ -156,8 +161,10 @@
   jours de digestion ; ACCEPTATION : son amour pour Ainz est factice, elle aime
   sincerement Azoth, les 41 ne sont pas des dieux, tous sauf Ainz les ont abandonnes ;
   mindset d'EGALE de son fiance ; sa seule demande : reparer l'erreur du J0 - MARIAGE le
-  jour meme de son acceptation (Tchekhov SB8 du parametre solde) ; epoux en union tres
-  libre - chacun couche ailleurs tant que le coeur n'appartient qu'a l'autre ;
+  jour meme de son acceptation (Tchekhov SB8 du parametre solde) ; premiere PONCTION
+  PASSIONNELLE du couple, des le mariage - reservee a l'amour pur et reciproque, jamais a
+  la luxure (BIBLE SB1, SB8) ; epoux en union tres libre - chacun couche ailleurs tant que
+  le coeur n'appartient qu'a l'autre ;
   ultra-protecteurs des autres, Demiurge compris ; debut de la SURVEILLANCE (cf. R10) ;
   Ainz et Mare partent pour Katze, Nazarick regarde ; seance : CZ 3.
 - Element central : Albedo - de l'ecriture au choix.
@@ -165,7 +172,8 @@
 - [A POSER] : mariage entre la visite de Jircniv et Katze, ou apres Katze ; Azoth
   pendant la visite de Jircniv (montre, cache, l'Eglise visitee ?) ; Shalltear, dont la
   rivalite avec Albedo perd son objet ; Demiurge au mariage ; forme de la haine des
-  Quarante chez Albedo ; qui officie un mariage dont l'officiant est le marie.
+  Quarante chez Albedo ; qui officie un mariage dont l'officiant est le marie ; place de la
+  premiere ponction dans le bloc.
 
 ## R10 - [TITRE A POSER] - LN 10 [A BUILDER]
 
@@ -200,7 +208,10 @@
   nous fauchera Tous" [VF ACTEE], heritage de Surshana, encaisse a 100 % [DIVERGENCE
   systeme - pure Energie Negative, inscrite a Grande_Magie_et_Signatures.md] ; REMPLACE
   le combat canon Mare contre Antilene ; Zesshi eperdue, ramenee a Nazarick ; plan a
-  trois avec Albedo, attachement des deux femmes, MARIAGE A TROIS par la suite ; Slane
+  trois avec Albedo, attachement des deux femmes, MARIAGE A TROIS par la suite - Zesshi ne
+  peut pas ponctionner (pas succube) mais se laisse mener a la lisiere de la mort avec eux
+  - PEDAGOGIE AMOUREUSE : les deux demons partagent avec elle leur maniere de s'aimer, le
+  summum de l'intimite (decisions worldbuilder, 2026-09-17) ; Slane
   non aneantie : CAPITULATION/VASSALITE offerte, style Baharuth.
 - Element central : Zesshi - et la Theocratie mise a genoux.
 - Fiche a creer a cette boucle : ZESSHI (noyau).
