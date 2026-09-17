@@ -1,11 +1,13 @@
 # Les 41 Etres Supremes (guilde Ainz Ooal Gown)
 
-- version : W5
+- version : W6
 
 Amendements W3 : strate SELON SATORU ajoutee sous chaque createur - le regard du joueur sur
 ses camarades, distinct de ce que Nazarick en sait. Renvois Theologie_base.md.
 Amendement W4 : descendance de Wish III corrigee - une generation intercalee (decision
 worldbuilder).
+Amendement W6 : Ankoro Mocchi Mochi creatrice de Pestonya Shortcake Wanko (canon ;
+correction de W5, qui la disait sans creation - decision worldbuilder, 2026-09-17).
 
 Etat decrit : jour 0.
 
@@ -92,7 +94,8 @@ Etat decrit : jour 0.
     les rues. Yggdrasil est sa maniere de rendre ces ames perdues utiles, en les separant
     en composants.
 - Ankoro Mocchi Mochi : alraune ; l'une des trois femmes de la guilde, avec Bukubukuchagama
-  et Yamaiko ; la soigneuse. Aucune creation a Nazarick.
+  et Yamaiko ; la soigneuse. Creatrice de Pestonya Shortcake Wanko, cheffe des servantes
+  (canon ; cf. Nazarick/Organigramme.md).
   - SELON SATORU : discrete. Celle qu'on appelait quand ca tournait mal.
 - Blue Planet : amoureux des paysages ; artisan de la nature et du ciel artificiel du 6e.
 - Whitebrim (chef de projet) et Coup De Grace : concepteurs des servantes homoncules, avec

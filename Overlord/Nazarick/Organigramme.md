@@ -1,12 +1,13 @@
 # Organigramme de Nazarick
 
-- version : W2
+- version : W3
 
 Etat decrit : jour 0 (transfert).
 
 Amendement W2 : chaine du 9e corrigee. Les majordomes et les servantes homoncules relevent
 de Sebas ; seules les Pleiades passent en charge directe d'Azoth, et seulement tant
 qu'Aureole reste detachee au 8e.
+Amendement W3 : notice de Pestonya Shortcake Wanko (decision worldbuilder, 2026-09-17).
 
 ## Sommet
 - Momonga : dernier des 41 Etres Supremes present. Autorite absolue et sans partage.
@@ -53,8 +54,12 @@ qu'Aureole reste detachee au 8e.
   [DIVERGENCE RP].
 - Majordomes assistants, dont Eclair Ecleir Eicler (manchot, ambitieux declare).
 - Servantes homoncules : quarante et une, personnel de maison ordinaire, non combattant,
-  cantonne aux 9e et 10e etages ; creees par Whitebrim, Herohero et Coup De Grace. Cheffe
-  des servantes : Pestonya Shortcake Wanko.
+  cantonne aux 9e et 10e etages ; creees par Whitebrim, Herohero et Coup De Grace.
+- Pestonya Shortcake Wanko : cheffe des servantes, sous Sebas ; creation d'Ankoro Mocchi
+  Mochi (canon) ; homoncule a tete de chien de berger, cicatrice verticale suturee au milieu du visage ; haute pretresse, soins de
+  haut rang ; l'une des deux bontes du Tombeau avec Nigredo, elle ne veut pas qu'on tue
+  des innocents (canon). Supplee Sebas au 9e en son absence. Chaine : Pestonya -> Sebas
+  -> Azoth.
 
 ## Les Pleiades (servantes de combat) [DIVERGENCE RP]
 - Cheffe EN TITRE : Aureole Omega, detachee en mission permanente au 8e (protectrice de
