@@ -1,7 +1,7 @@
 # Eustass Kid et Killer
 
-- version : W1
-- note de version : W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Fiche a DEUX TETES : le capitaine et son bras droit, inseparables au canon. NOYAU tronque a la veille de Sabaody (an 0). Graphie : "Kid" (romanisation canon ; "Kidd" courant). Heat et Wire en silhouettes.
+- version : W2
+- note de version : W2 - versement du paquet R8 (build Sabaody, boucle serree) : Trajectoire an 0 - Sabaody, canon (Apoo, Urouge, encheres, Marines, Pacifista). Aucun lien avec les jumelles (acte). Noyau inchange. W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Fiche a DEUX TETES : le capitaine et son bras droit, inseparables au canon. NOYAU tronque a la veille de Sabaody (an 0). Graphie : "Kid" (romanisation canon ; "Kidd" courant). Heat et Wire en silhouettes.
 
 FRONTIERE DU NOYAU : veille de Sabaody (an 0). Tout le posterieur : strate Trajectoire, commune.
 
@@ -58,9 +58,10 @@ FRONTIERE DU NOYAU : veille de Sabaody (an 0). Tout le posterieur : strate Traje
 - Kid en train de menacer un vendeur, Killer a cote qui attend. Onze noms, dix concurrents : il compte les ecraser tous.
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc ; premiere entree : R8 ; commune aux deux)
+(alimentee a chaud en Passe 2, arc par arc ; commune aux deux)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R8 - Sabaody) [canon, commune] | Grove 24 : Kid contre Apoo ; Grove 21 : Killer contre Urouge, separes par Drake. Encheres : Kid note l'absence de Luffy ("a quel point est-il idiot"), sourit au poing sur Charloss. Dehors : mortiers repousses d'une main, bras de ferraille ; "dans la Grand Line on en rirait, dans le Nouveau Monde celui qui n'ose pas le dire est mort" - Luffy dit qu'il trouvera le One Piece ; pont detruit, un Pacifista bloque la route, Kid touche, combat avec Law. Les jumelles : deux avis a 80M dans la salle | Rivalite avec Luffy posee ; aucun lien avec les jumelles (acte) |
 
 ---
 

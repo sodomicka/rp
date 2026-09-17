@@ -1,7 +1,7 @@
 # Shakuyaku (Shakky)
 
-- version : W1
-- note de version : W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Entite canon ; NOYAU tronque a la rencontre (Sabaody, an 0). Sous horizon : ch. 498 (Sabaody), 1059 (Imperatrice Kuja, soeurs Boa), 1096 (Hachinosu). HORS PERIMETRE, non importe : son enlevement pour God Valley et son sauvetage (ch. 1160, arc Elbaf).
+- version : W2
+- note de version : W2 - versement du paquet R8 (build Sabaody, boucle serree) : Trajectoire an 0 - premiere visite (sans les jumelles), puis le bar apres les encheres : face aux jumelles, respect mutuel [DIVERGENCE RP], temoin du beat Haki, Vivre Cards. Noyau inchange. W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Entite canon ; NOYAU tronque a la rencontre (Sabaody, an 0). Sous horizon : ch. 498 (Sabaody), 1059 (Imperatrice Kuja, soeurs Boa), 1096 (Hachinosu). HORS PERIMETRE, non importe : son enlevement pour God Valley et son sauvetage (ch. 1160, arc Elbaf).
 
 FRONTIERE DU NOYAU : rencontre avec l'equipage, Sabaody (an 0). Tout le posterieur : strate Trajectoire.
 
@@ -45,9 +45,11 @@ FRONTIERE DU NOYAU : rencontre avec l'equipage, Sabaody (an 0). Tout le posterie
 - Derriere son comptoir, cigarette, la presse du jour pliee a cote. Rayleigh est en cage au Grove 1 pour une dette de jeu - elle sait ou et pourquoi, et ne s'inquiete pas.
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc ; premiere entree : R8)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R8 - Grove 13, premiere visite) [canon] | Luffy, Chopper, Brook, Hatchan, Camie, Pappag entrent - PAS les jumelles, parties avec Nami ; elle suit l'equipage par la presse depuis longtemps, a compris Luffy petit-fils de Garp au seul nom ; Rayleigh absent depuis six mois (bars, casinos - elle sait la cage du Grove 1 et ne s'inquiete pas) ; le tableau des onze rookies ; "je suis pour vous" ; les Marines ont "autre chose" a faire (l'execution d'Ace, jamais dite) | - |
+| an 0 (R8 - le bar, apres les encheres) [canon + dicte] | Hatchan soigne chez elle. Face aux jumelles [DIVERGENCE RP] : elles savent TOUT d'elle (dossier BW - Kuja, imperatrice, Rocks et Roger a ses pieds, Rayleigh, Garp semee), elle ne sait d'elles que la presse - et reconnait deux lionnes, des survivantes comme elle ; respect mutuel, sans effusion. Temoin du recit de Roger, du beat Haki et du refus de Luffy ; distribue les Vivre Cards de Rayleigh, "trois jours" | Une premiere en quarante ans : deux personnes qui savent qui elle fut, assises a son comptoir |
 
 ---
 

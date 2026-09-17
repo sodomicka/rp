@@ -1,7 +1,7 @@
 # Silvers Rayleigh
 
-- version : W1
-- note de version : W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Entite canon ; NOYAU tronque a la rencontre (Sabaody, an 0). Revelations post-Egghead (arc Elbaf : details de God Valley, enlevement de Shakky) : HORS PERIMETRE, non importees.
+- version : W2
+- note de version : W2 - versement du paquet R8 (build Sabaody, boucle serree) : Trajectoire an 0 - la cage du Grove 1 (Rois, apres le poing de Luffy), le bar de Shakky (recit de Roger, CLOVER nomme, l'offre refusee, BEAT HAKI - il complete sans en dire trop), Grove 12 (l'Armement contre Kizaru sous les yeux des jumelles, le murmure de Kuma). Reconnaissance au premier regard par les jumelles, sans lien avec le mecanicien [DIVERGENCE RP]. Noyau inchange. W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Entite canon ; NOYAU tronque a la rencontre (Sabaody, an 0). Revelations post-Egghead (arc Elbaf : details de God Valley, enlevement de Shakky) : HORS PERIMETRE, non importees.
 
 FRONTIERE DU NOYAU : rencontre avec l'equipage, Sabaody (an 0). Tout le posterieur : strate Trajectoire.
 
@@ -50,9 +50,12 @@ FRONTIERE DU NOYAU : rencontre avec l'equipage, Sabaody (an 0). Tout le posterie
 - Un "esclave" volontaire dans une cage du Grove 1, qui attend qu'une occasion de rire se presente. Il sait que onze rookies a plus de 100M sont sur l'archipel, dont le petit-fils de Garp - et deux archeologues d'Ohara.
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc ; premiere entree : R8)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R8 - Sabaody, Maison des Encheres, Grove 1) [canon] | Dans sa cage, couche Disco d'une salve (Rois) pour Camie ; sort de la cage APRES le poing de Luffy sur Charloss ; foudroie Shalulia sur le point de tuer Camie, couche les gardes ; "je t'attendais" a Luffy ; arrache le collier de Camie a mains nues ; s'excuse aupres de Kid et Law - "un simple mecanicien de coating". Face aux jumelles pour la premiere fois : elles le reconnaissent au premier regard (dossier BW), sans le relier au mecanicien dont parlait Hatchan [DIVERGENCE RP] | Sorti de sa cachette pour le petit-fils de Garp ; deux archeologues d'Ohara en face de lui |
+| an 0 (R8 - le bar de Shakky, Grove 13) [canon + dicte] | Se revele second de Roger - revelation pour l'equipage, rien pour les jumelles ; recit de Roger (Crocus, la maladie, la conquete, la dissolution, la reddition, "je ne mourrai pas, partenaire") ; Shanks et Buggy mousses ; coating GRATUIT. Au Siecle Oublie : les Roger ont tout lu ; "cherchez par vous-memes, vous arriverez peut-etre a une autre conclusion" ; Roger ne dechiffrait pas "comme un genie tel que CLOVER", il entendait la voix de toutes choses [canon ch. 507] - confirmation indirecte de l'hypothese R5 des jumelles (la gravure de Skypiea n'est pas de la main de Roger), Oden jamais nomme ; il OFFRE, Luffy refuse net, les jumelles rient. BEAT HAKI [DIVERGENCE RP] : l'equipage demande ce qu'il a fait aux encheres ; les jumelles exposent les trois formes ; il COMPLETE sans en dire trop - il existe des formes avancees. Vivre Cards par Shakky, trois jours, il ira deplacer le Sunny. Le carnet rouge : il ne le voit pas | La generation qu'il attendait, rencontree ; Ohara en face de lui, et il n'a pas donne |
+| an 0 (R8 - Grove 12) [canon] | Sauve Zoro de Kizaru : coup de pied a l'ARMEMENT qui devie la lumiere - "ne cueillez pas les jeunes pousses, leur ere commence" ; duel sabre contre sabre de lumiere, la joue de l'amiral entaillee - sous les yeux des jumelles : l'Armement sur un Logia, lisible. Kuma lui murmure quelque chose en passant (contenu hors POV, posterieur a l'arc) | Reste sur l'archipel, l'equipage disperse ; le Sunny a coater sans equipage |
 
 ---
 

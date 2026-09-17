@@ -1,7 +1,7 @@
 # Nami
 
-- version : W3
-- note de version : W3 - versement du paquet R6 (journal W25) : Trajectoire an 0 (R6) - assaut d'Enies Lobby [hors POV, canon par defaut], premiere prime.
+- version : W4
+- note de version : W4 - versement du paquet R7 en file au journal (W38) + paquet R8 (build Sabaody) : Trajectoire an 0 - jours de mer (auditrice du premier JOURNAL des jumelles - ajout R8 retropropage), Thriller Bark (Absalom, Lola, Kuma), Sabaody (Hatchan, Grove 30 avec les jumelles, les 500M de Charloss, Thunderbolt, efface sixieme). Noyau inchange. W3 - versement du paquet R6 (journal W25) : Trajectoire an 0 (R6) - assaut d'Enies Lobby [hors POV, canon par defaut], premiere prime.
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 
@@ -52,6 +52,9 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 | an 0 (R5 - Skypiea) | Epargnee par Enel au decompte des survivants, emmenee vers l'arche Maxim - TEMOIN de son eclat de rage ("D'abord on tranche mon prelat et egorge mon commandant...") | Vecteur : c'est par elle que l'equipage SAIT, pour Yama et pour Ohm |
 | an 0 (R5 - debat en mer) | Rapporte l'eclat d'Enel a l'equipage ; position au debat sur le rapport a la mort : comprend la necessite - elle l'a souhaitee a Arlong cent fois | - |
 | an 0 (R6, Water 7 / Enies Lobby) | Assaut d'Enies Lobby, Kalifa vaincue au Clima-Tact neuf [hors POV des jumelles, canon par defaut] | Premier avis de recherche a son nom : 16M [canon] |
+| an 0 (R7, jours de mer) | Auditrice du premier JOURNAL des jumelles aux haut-parleurs du Sunny [ajout R8, retropropage] : contexte, primes, et histoires d'epouvante avant le Triangle de Florian - flippe comme prevu | - |
+| an 0 (R7 - Thriller Bark) | Absalom, Lola ("je suis un homme"), le mariage, Thunderbolt, Swing Arm ; le tresor vide ; Kuma en face ("Luffy a-t-il un frere ?" - oui) ; sauvee du Pistol par Robin ; Vivre Card de Lola recue | - |
+| an 0 (R8 - Sabaody) | Hatchan : "pas pardonne, mais bons takoyaki" ; combo Clima-Tact avec Robin contre les Riders ; l'histoire des hommes-poissons entendue au journal, avant de voir le Grove 30 avec les jumelles ; Maison des Encheres : "on joue selon leurs regles, on achete Camie" - la douche des 500M de Charloss ; Thunderbolt Tempo couvre la sortie ; le bar de Shakky ; Grove 12 : Thunderlance sur PX-4 ; groupe Sanji-Franky ; effacee en appelant Luffy, SIXIEME | Dispersee |
 
 ---
 

@@ -1,7 +1,7 @@
 # Borsalino (Kizaru)
 
-- version : W1
-- note de version : W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Entite canon ; NOYAU tronque a la veille de Sabaody (an 0). Ecarte : Zephyr et la formation commune avec Sakazuki (Film Z, non canon). Decision worldbuilder : AUCUN lien particulier avec les jumelles - canon pur ; leur relation d'amiral, c'est Kuzan.
+- version : W2
+- note de version : W2 - versement du paquet R8 (build Sabaody, boucle serree) : Trajectoire an 0 - Sabaody, canon pur (Supernovae, Zoro, Rayleigh, Kuma) ; Sentomaru en silhouette portee. Aucun contact avec les jumelles (decision worldbuilder). Noyau inchange. W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Entite canon ; NOYAU tronque a la veille de Sabaody (an 0). Ecarte : Zephyr et la formation commune avec Sakazuki (Film Z, non canon). Decision worldbuilder : AUCUN lien particulier avec les jumelles - canon pur ; leur relation d'amiral, c'est Kuzan.
 
 FRONTIERE DU NOYAU : veille de Sabaody (an 0), premiere entree en scene face aux jumelles. Tout le posterieur : strate Trajectoire.
 
@@ -43,9 +43,10 @@ FRONTIERE DU NOYAU : veille de Sabaody (an 0), premiere entree en scene face aux
 - En route pour l'archipel sur un navire de ligne, Sentomaru et les PX devant lui. Cible : les onze rookies, et d'abord le petit-fils de Garp.
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc ; premiere entree : R8)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R8 - Sabaody) [canon] | Debarque au Grove 27 debout sur un boulet de canon ; cherche Sentomaru ; rase une mangrove d'un coup de pied de trop ; bat Hawkins (coups transferes aux poupees), Apoo (qui lui coupe un bras de lumiere, en vain), Drake et Urouge. Grove 12 : Zoro a l'agonie, Usopp et Brook impuissants - Pika Pika no Mi revele ; Rayleigh devie son coup de pied, duel au sabre de lumiere, joue entaillee ; Kuma disperse l'equipage sous ses yeux - il demande, Kuma l'ignore. Sentomaru [silhouette] : Luffy blesse a mains nues (Ashigara Dokkoi), PX-1 a ses cotes (PX-4 detruit par l'equipage). AUCUN contact avec les jumelles [decision worldbuilder : canon pur] | Mission a moitie faite : le petit-fils de Garp lui echappe par Kuma ; les quatre Supernovae du Grove 24 tombes |
 
 ---
 

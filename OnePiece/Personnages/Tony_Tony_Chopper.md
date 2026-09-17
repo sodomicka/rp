@@ -1,7 +1,7 @@
 # Tony Tony Chopper
 
-- version : W4
-- note de version : W4 - versement du paquet R6 (journal W25) : Trajectoire an 0 (R6) - les herbes de l'arrivee a Water 7, le chevet de la convalescence.
+- version : W5
+- note de version : W5 - versement du paquet R7 en file au journal (W38) + paquet R8 (build Sabaody) : Trajectoire an 0 - jours de mer (auditeur du premier JOURNAL des jumelles - ajout R8 retropropage), Thriller Bark (Hogback, Big Emperor, point faible d'Oars), Sabaody (Kokutei Diamond, Roseo Metel, Monster Point, efface juste avant les jumelles). Noyau inchange. W4 - versement du paquet R6 (journal W25) : Trajectoire an 0 (R6) - les herbes de l'arrivee a Water 7, le chevet de la convalescence.
 
 Entite canon. FRONTIERE DU NOYAU (regle actee, resserree thread 10) : <= fin de l'arc Drum / recrutement (an 0). Premiere rencontre avec les jumelles : intronisation (an 0, R5) - calee en Passe 2 (frontiere actee R4 : Alabasta de loin, aucune interaction avant).
 
@@ -55,6 +55,9 @@ Entite canon. FRONTIERE DU NOYAU (regle actee, resserree thread 10) : <= fin de 
 | an 0 (R5 - debat en mer) | Position au debat sur le rapport a la mort : pas fan du tout, ethique de soin chevillee au corps | - |
 | an 0 (R5 - retour d'Aokiji) | Dirige la decongelation des deux jumelles a bord du Merry, sans les blesser | Quatrieme pierre du lien |
 | an 0 (R6 - Water 7) | A l'arrivee : selection d'herbes chez l'herboriste avec Sonia (les engelures de R5 mordent encore) ; renvoye vers Sanji quand Robin pretexte la douleur. Apres Enies Lobby : au chevet de Sonia avec Kokoro et Robin, plusieurs jours de convalescence - moignon, nez brise, epuisement de l'eveil | Cinquieme pierre du lien ; premier medecin a soigner ce que le fruit lui coute |
+| an 0 (R7, jours de mer) | Auditeur du premier JOURNAL des jumelles aux haut-parleurs du Sunny [ajout R8, retropropage] : contexte, primes, et histoires d'epouvante avant le Triangle de Florian - flippe comme prevu | - |
+| an 0 (R7 - Thriller Bark) | Hogback venere puis renie ; Hogback avec Robin ET Sonia (le baillon) ; Cindry epargnee ; tete du Big Emperor a six ; point faible d'Oars (mort de froid, colonne) ; Super Frapper Gong | - |
+| an 0 (R8 - Sabaody) | Kokutei Diamond sur un poisson volant ; a la Maison des Encheres avec Sanji, Nami, Franky, avant Luffy ; l'appel "Camie enlevee" ; groupe Luffy et jumelles au Grove 12 ; Roseo Metel sur PX-4 ; MONSTER POINT contre PX-1 (deuxieme fois apres Enies Lobby) ; efface par Kuma juste avant les jumelles | Disperse |
 
 ---
 

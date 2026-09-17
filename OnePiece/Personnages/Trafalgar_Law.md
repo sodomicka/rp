@@ -1,7 +1,7 @@
 # Trafalgar Law et les Pirates du Heart
 
-- version : W1
-- note de version : W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Entite canon ; NOYAU tronque a la veille de Sabaody (an 0). Son passe (Flevance, Corazon) est revele au canon a Dressrosa mais ANTERIEUR a la frontiere : il vit ici, en NOYAU. Fiche pleine (allie majeur de R11 a R14).
+- version : W2
+- note de version : W2 - versement du paquet R8 (build Sabaody, boucle serree) : Trajectoire an 0 - Sabaody, canon (encheres, Marines, Jean Bart, Pacifista). Aucun lien avec les jumelles (acte). Noyau inchange. W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Entite canon ; NOYAU tronque a la veille de Sabaody (an 0). Son passe (Flevance, Corazon) est revele au canon a Dressrosa mais ANTERIEUR a la frontiere : il vit ici, en NOYAU. Fiche pleine (allie majeur de R11 a R14).
 
 FRONTIERE DU NOYAU : veille de Sabaody (an 0). Tout le posterieur : strate Trajectoire.
 
@@ -49,9 +49,10 @@ FRONTIERE DU NOYAU : veille de Sabaody (an 0). Tout le posterieur : strate Traje
 - Assis dans un coin de l'archipel avec Bepo, Penguin et Shachi, le nodachi sur les genoux, a regarder passer les dix autres. Il a un plan de plusieurs annees et une haine plus vieille que sa prime.
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc ; premiere entree : R8)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R8 - Sabaody) [canon] | Grove 21 : demande a Drake combien d'hommes il a tues. Maison des Encheres : doigt d'honneur a Kid, sourire au poing de Luffy sur Charloss, "les Marines encerclent deja". Dehors, avec Luffy et Kid : ROOM, la tete d'un Marine echangee contre un boulet ; les Marines decoupes et recomposes ; Bepo le couvre ; recrute JEAN BART, l'esclave libere - "la moitie du merci va a Chapeau de Paille" ; un Pacifista sur la route, combat cote a cote avec Kid, "on se retrouvera dans le Nouveau Monde". Les jumelles : deux avis a 80M dans la salle, rien de plus | Premier contact avec Luffy ; Jean Bart a bord ; aucun lien avec les jumelles (acte) |
 
 ---
 

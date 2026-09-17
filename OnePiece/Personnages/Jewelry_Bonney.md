@@ -1,7 +1,7 @@
 # Jewelry Bonney
 
-- version : W1
-- note de version : W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Entite canon ; NOYAU tronque a la veille de Sabaody (an 0). Son passe et sa nature sont reveles au canon a EGGHEAD mais ANTERIEURS a la frontiere : ils vivent ici, en NOYAU - sous GARDE-FOU.
+- version : W2
+- note de version : W2 - versement du paquet R8 (build Sabaody, boucle serree) : Trajectoire an 0 - Sabaody, canon (Zoro sauve de Charloss, les Marines vieillis). Jamais face aux jumelles ; garde-fou intact. Noyau inchange. W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Entite canon ; NOYAU tronque a la veille de Sabaody (an 0). Son passe et sa nature sont reveles au canon a EGGHEAD mais ANTERIEURS a la frontiere : ils vivent ici, en NOYAU - sous GARDE-FOU.
 
 GARDE-FOU NARRATION (decision worldbuilder) : tout ce que cette fiche dit de son age reel, de ses parents et de Kuma est un SAVOIR DE BUILD. Il est INTERDIT en narration avant R15 (Egghead). Dans le monde, a la frontiere, PERSONNE ne le sait hormis Kuma, Vegapunk et Saint Saturn - ni les jumelles, ni l'equipage, ni la Marine. Le "sacrifice tu" de Kuma en R7 n'a PAS de nom pour les jumelles, et n'en aura pas avant Egghead. Si le joueur le sait, grand bien lui fasse ; le MJ, lui, ne le dit JAMAIS.
 
@@ -49,9 +49,10 @@ FRONTIERE DU NOYAU : veille de Sabaody (an 0). Tout le posterieur : strate Traje
 - Une "femme" de 22 ans attablee devant dix assiettes, capitaine a 140M, qui cherche un Corsaire de sept metres dans un monde qui ne lui dira rien. Elle ne sait pas ce qu'il est en train de devenir.
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc ; premiere entree : R8)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R8 - Sabaody) [canon] | Grove 24, restaurant, dix assiettes ; PLAQUE Zoro au sol et joue sa mort pour lui epargner l'amiral que Charloss appellerait ; puis vieillit et rajeunit des Marines en riant. Jamais a la Maison des Encheres ; JAMAIS face aux jumelles ; le vrai Kuma est sur l'archipel, ils ne se croisent pas [garde-fou] | Garde-fou intact : aucun savoir servi, aucune ironie jouee |
 
 ---
 

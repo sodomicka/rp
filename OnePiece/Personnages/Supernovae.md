@@ -1,7 +1,7 @@
 # Les Supernovae - fiche groupee
 
-- version : W1
-- note de version : W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Fiche GROUPEE des cinq capitaines sans fiche propre : Basil Hawkins, Scratchmen Apoo, X Drake, Urouge, Capone Bege. Law, Kid/Killer et Bonney ont leur fiche ; Luffy et Zoro les leurs. NOYAU tronque a la veille de Sabaody (an 0).
+- version : W2
+- note de version : W2 - versement du paquet R8 (build Sabaody, boucle serree) : Trajectoire an 0 - le tableau des onze, les cinq devant Kizaru et les Pacifista (canon, hors POV). Aucun ne croise les jumelles. Noyau inchange. W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Fiche GROUPEE des cinq capitaines sans fiche propre : Basil Hawkins, Scratchmen Apoo, X Drake, Urouge, Capone Bege. Law, Kid/Killer et Bonney ont leur fiche ; Luffy et Zoro les leurs. NOYAU tronque a la veille de Sabaody (an 0).
 
 FRONTIERE DU NOYAU : veille de Sabaody (an 0). Tout le posterieur : strate Trajectoire, commune.
 
@@ -50,9 +50,10 @@ Onze rookies a plus de 100M reunis en meme temps sur Sabaody - la presse en fera
 - Cinq capitaines eparpilles sur les groves 24 a 1, chacun avec son equipage, chacun persuade d'etre le seul a compter. Aucun n'a encore leve les yeux sur les autres.
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc ; premiere entree : R8 ; commune)
+(alimentee a chaud en Passe 2, arc par arc ; commune)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R8 - Sabaody) [canon, commune] | Le tableau des onze pose par Shakky au Grove 13. Bege : le restaurant, la fourchette dans son homme ; les Marines avales par le corps-forteresse, canons et cavalerie. Hawkins : "ce n'est pas mon jour de mourir" ; les coups de Kizaru transferes a ses poupees ; forme de paille geante ; battu. Apoo : coupe le bras de lumiere de Kizaru en musique, le fait exploser ; kicke a travers un immeuble. Urouge : un Pacifista, puis Kizaru ; gonfle ; battu. Drake : kicke un Pacifista, Zoan antique, blesse, battu par Kizaru. Tous lisent l'execution d'Ace dans la presse du jour (hors POV). Aucun des cinq ne croise les jumelles ; Bege reste un nom de presse de West Blue | Les quatre du Grove 24 tombes devant Kizaru ; SWORD (Drake) toujours INTERDIT en narration avant Wano |
 
 ---
 
