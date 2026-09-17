@@ -1,6 +1,6 @@
 # Sommaire - WIKI Overlord
 
-- version : W33
+- version : W34
 
 Index de navigation. Fetche en debut de chaque thread. L'URL d'une page se construit :
 raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire est l'index.
@@ -8,7 +8,7 @@ raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire e
 ## Racine (1 page)
 | Page | V | Contenu |
 |---|---|---|
-| Resume.md | W1 | Resume de l'histoire etablie (canon + divergences), arrete au jour 0 |
+| Resume.md | W2 | Resume de l'histoire etablie (canon + divergences), arrete a la frontiere de build (sortie R6, ~J68) |
 
 ## Systemes (5 pages)
 | Page | V | Contenu |
