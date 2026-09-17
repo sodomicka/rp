@@ -1,6 +1,10 @@
 # Chronologie des roadmaps - Azoth / Le Cardinal Demoniaque
 
-- version : W8
+- version : W9
+- amendement W9 : R6 builde (Le Majordome) ; Tuare formee par Yuri, non par Pestonya
+  (canon) ; mariage Sebas-Tuare place en R8 ; les six autres chefs des Huit Doigts en R10 ;
+  fiches Tuare et Hilma_Cygnaeus creees ; Azoth_chrono_2 ouvert (decisions worldbuilder,
+  2026-09-17).
 - amendement W8 : R5 builde (Le Stratege) ; regle des SORTIES EN CORPS ; etiquette de
   l'ordre des tomes corrigee (LN 8) ; fil Ainz : R5 deux Supremes en un recit ; page
   NouveauMonde/Hommes_Lezards.md creee (decisions worldbuilder, 2026-09-16).
@@ -97,22 +101,19 @@
   refuse ; Azoth resurrecteur vu des natifs ; deux sorties en corps. Detail : roadmap et
   fiches.
 
-## R6 - [TITRE A POSER] - LN 5-6 [A BUILDER]
+## R6 - Le Majordome [BUILDE - W1]
 
-- Fenetre : mission de Sebas et Solution dans la capitale (environ un mois [CANON
-  SUPPOSE]) -> retour avec Tuare.
-- Face Tombeau : J37, depart de Lupusregina pour Carne (pose a R5) ; depart de Sebas et
-  Solution [fenetre a poser] - mission decidee par Ainz le J13 (R4) sur suggestion d'Azoth, Solution en noble, Sebas en majordome ; retours par
-  parchemin pour offices et seances ; test de loyaute de Sebas (a la maison de la
-  capitale, canon - hors champ) ; Gehenna : les Pleiades sortent en demons, ENTOMA PERD
-  SA VOIX face a Evileye (canon - hors champ, retour au Tombeau en scene) ; TUARE arrive
-  au 9e comme servante, sous Pestonya ; raccord SEBAS ET TUARE (cf. Raccords) ;
-  seances : Lupusregina 1, Yuri 2.
-- Element central : [A POSER].
-- Fichier : [A POSER au build]
-- [A POSER] : fenetre de depart de Sebas et Solution ; place du mariage Sebas-Tuare (R6
-  ou plus tard) ; Entoma sans voix - effet sur son fil avant sa seance 3 (R8) ; ce qui
-  remonte de Gehenna a Azoth.
+- Bornes : J37 au matin -> ~J68, Tuare au 9e (LN 5-6). Fichier : Roadmap_6_Le_Majordome.md.
+- Etapes : (1) J37 -> J42 Departs ; (2) J43 -> ~J58 Mission de Sebas ; (3) ~J59 -> ~J68
+  Gehenna.
+- Element central : Sebas ne demande jamais rien ; amoureux, il demande a sauver sa
+  protegee, Tuare.
+- Ce que R6 a pose pour la suite : Tuare servante au 9e, formee par Yuri ; Sebas amoureux ;
+  Pestonya et Nigredo assignees a residence ; Entoma sans voix ; Hilma Cygnaeus brisee par
+  Azoth, au service de Nazarick ; Azoth redevable a Demiurge (Entoma sauvee) ; promesse
+  d'Azoth a Entoma - une nouvelle voix de son choix, a demander a Ainz ; Lupusregina a
+  Carne ; Sebas et Solution rentres ; Yuri 2 et Lupusregina 1 faites ; recit de Touch Me
+  fait, opposition Touch Me / Ulbert enoncee. Detail : roadmap et fiches.
 
 ## R7 - [TITRE A POSER] - LN 7 [A BUILDER]
 
@@ -129,12 +130,15 @@
 - Fenetre : calme relatif - Carne, repos d'Ainz.
 - Face Tombeau : jour de repos d'Ainz avec Aura et Mare (canon) ; rapports de Lupusregina
   depuis Carne ; CONQUETE D'ALBEDO ACHEVEE : Ainz dit clairement a Albedo qu'il ne
-  l'aimera jamais en epouse ; FIANCAILLES decidees ; seances : Entoma 3, Lupusregina 2,
-  Narberal 2 (cours de cuisine avec Tuare).
+  l'aimera jamais en epouse ; FIANCAILLES decidees ; MARIAGE de Sebas et Tuare, Azoth
+  officie (decision worldbuilder, 2026-09-17) ; Entoma retrouve une voix, celle d'Arche
+  (canon LN 7, en R7) ; seances : Entoma 3, Lupusregina 2, Narberal 2 (cours de cuisine
+  avec Tuare).
 - Element central : [A POSER].
 - Fichier : [A POSER au build]
 - [A POSER] : ordre entre le refus d'Ainz et les fiancailles ; datation relative ;
-  Shalltear devant les fiancailles ; Demiurge devant les fiancailles.
+  Shalltear devant les fiancailles ; Demiurge devant les fiancailles ; place du mariage
+  Sebas-Tuare dans le bloc.
 
 ## R9 - [TITRE A POSER] - LN 9 [A BUILDER]
 
@@ -171,7 +175,9 @@
   Supremes [CANON SUPPOSE] ; creux de Shalltear ; SURVEILLANCE DU COUPLE : dans le dos
   d'Ainz, aneantir tout ancien Supreme avant qu'Ainz ou un PNJ n'apprenne son existence
   - prets a tuer leurs propres createurs, en faire le SEUL maitre (ironie joueur ->
-  CODEX) ; seances : Yuri 3, Lupusregina 3, Narberal 3.
+  CODEX) ; les six autres chefs des Huit Doigts amenes via Hilma, brises facon canon -
+  Kyouhukou (canon LN 10 ; decision worldbuilder, 2026-09-17) ; seances : Yuri 3,
+  Lupusregina 3, Narberal 3.
 - Element central : [A POSER].
 - Fichier : [A POSER au build]
 - [A POSER] : l'unite secrete canon absorbee par la surveillance, ou non ; aucun
@@ -218,9 +224,7 @@ CZ 1 ; R6 Lupusregina 1, Yuri 2 ; R7 CZ 2 ; R8 Entoma 3, Lupusregina 2, Narberal
 CZ 3 ; R10 Yuri 3, Lupusregina 3, Narberal 3.
 
 - YURI ALPHA - axe : accepter sa bienveillance, baisser sa garde. 1 (R4) : faite, cf.
-  Yuri_Alpha.md. 2 (R6) : discussions plus profondes ; il aborde la
-  nudite comme dernier verrou de la gene ; face a face, nus ; elle repart genee mais plus
-  ouverte. 3 (R10) : nudite sans gene, qui decoule sur l'envie puis le sexe ; conversation
+  Yuri_Alpha.md. 2 (R6) : faite, cf. Yuri_Alpha.md. 3 (R10) : nudite sans gene, qui decoule sur l'envie puis le sexe ; conversation
   sans la moindre gene sur l'oreiller ; complete, elle s'accepte entierement.
 - NARBERAL GAMMA - axe : accepter les humains. Declencheur : Ainz lui a fait remarquer sa
   froideur avec les humains ; elle veut etre une meilleure alliee. 1 (R4) : faite, Carne,
@@ -230,14 +234,14 @@ CZ 3 ; R10 Yuri 3, Lupusregina 3, Narberal 3.
   humain, derniere etape vers l'acceptation : elle demande a coucher avec Azoth.
 - SOLUTION EPSILON - fil RECURRENT, seance 1 en R1 (premier charnel). Toutes ses seances
   se ressemblent : sexe en version slime - se sentir femme - et une partie (echecs, shogi,
-  go) tres serree, victoires alternees. Suspendu pendant sa mission (R6), repris a ses
-  retours.
+  go) tres serree, victoires alternees. Pendant sa mission (R6) : a chacun de ses retours
+  par parchemin, sans compte.
 - ENTOMA VASILISSA ZETA - axe : la gene de ne manger que de l'humain ; Azoth lui cuisine.
-  1 (R4) et 2 (R5) : faites, cf. Entoma_Vasilissa_Zeta.md. 3 (R8) : nouvelle viande, simple
+  1 (R4) et 2 (R5) : faites, cf. Entoma_Vasilissa_Zeta.md. Sans voix des R6 (Gehenna),
+  voix d'Arche en R7 (canon). 3 (R8) : nouvelle viande, simple
   pretexte - elle veut decouvrir le sexe ; ils couchent ensemble.
 - LUPUSREGINA BETA - axe : accepter son cote bestial dans ce qu'il a de vulnerable. 1 (R6)
-  : discussion du traitement reserve aux humains de Carne ; elle finit blottie contre
-  Azoth, ronronne, et part toute genee quand il la caresse derriere les oreilles. 2 (R8) :
+  : faite, cf. Lupusregina_Beta.md. 2 (R8) :
   elle revient pour des caresses, accepte derriere les oreilles ; bain ensemble, il la
   toilette. 3 (R10) : elle demande a etre marquee par son Alpha - Azoth - et dominee sans
   se laisser faire, animal ; puis fecondee. FECONDATION AU CHOIX DU JOUEUR ; elle elevera
@@ -265,16 +269,15 @@ CZ 3 ; R10 Yuri 3, Lupusregina 3, Narberal 3.
   amis, en reaction aux evenements. Ainz vient voir Azoth dans ses moments de doute :
   Azoth est son SEUL CONFIDENT et l'etre le plus stable de Nazarick des J12 ;
   officieusement son bras droit. R4 : PERORONCINO (fait) ; R5 : PUNITTO MOE et WARRIOR
-  TAKEMIKAZUCHI en un recit (fait) ; Ulbert reserve au dernier recit, R8 (reco MJ
-  acceptee 2026-09-14) ; R6 -> R7 : au build de chacune, avec ce qui y ebranle Azoth.
+  TAKEMIKAZUCHI en un recit (fait) ; R6 : TOUCH ME (fait), opposition Touch Me / Ulbert
+  enoncee ; Ulbert reserve au dernier recit, R8 (reco MJ acceptee 2026-09-14) ; R7 : au
+  build, avec ce qui y ebranle Azoth.
 
 ## Raccords parques (hors blocs, en attente d'arc)
 
-- SEBAS ET TUARE : aucun desir avant elle (rencontre au creneau canon LN 5-6, R6) ; Azoth
-  les mariera [fenetre a poser : R6 ou plus tard].
-- SOLUTION ET SEBAS : mission d'infiltration de la capitale, decidee par Ainz le J13 (R4)
-  sur suggestion d'Azoth - elle en noble, lui en majordome [fenetre de depart a poser au
-  build de R6].
+- SEBAS ET TUARE : rencontre faite (R6) ; MARIAGE en R8, Azoth officie (decision
+  worldbuilder, 2026-09-17).
+- SOLUTION ET SEBAS : mission faite (R6) - depart J38, retour ~J66.
 - THEOLOGIE SANS FAILLE : chantier permanent d'Azoth des R3, travaille entre chaque
   sermon ; quasi parfaite au J21 (R4) ; un preche integralement sans faille : non date,
   hors R4 ; future page soeur de Theologie_base [a builder quand elle se preche].
