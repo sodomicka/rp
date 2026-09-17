@@ -1,7 +1,6 @@
 # Nico Sonia
 
-- version : W10
-- note de version : W10 - build B10 : renvoi de Trajectoire RECABLE sur les pages renommees Nico_Jumelles_chrono_00 a _07 (arbitrage worldbuilder, convention v8.4 des pages satellites). Noyau inchange. W9 - build R7 : versement des deux corrections du journal (ligne du bras en Description physique recalee sur BIBLE SB1 B9 ; pointeur mort vers Trajectoire_Jumelles.md repointe sur les pages d'arc) ; renvoi de Trajectoire etendu a _07 (R7 Thriller Bark, creee). Noyau inchange. W8 - correctif de POINTEUR seulement (le paquet R6 du journal se resout integralement en strate deportee) : le renvoi "entree Trajectoire a venir en Passe 2" est perime - la ligne R6 (bras perdu, eveil, sacoche) vit desormais en Trajectoire_Jumelles W5. Ajout post-frontiere en Description physique : sequelle du nez (deviation gauche, an 0). Renvoi de Trajectoire RECABLE sur les sept pages de la scission par roadmap. Noyau inchange (il s'arrete a 8 ans).
+- version : W11
 
 ## Identite
 - Nico Sonia. Protagoniste de la Partie 1 ; entite de lore [DIVERGENCE RP].
@@ -67,7 +66,7 @@
   - Carnets noirs : dessin pour le fruit, consommables, remplaces souvent.
 
 ## Trajectoire datee
-Deportee (decision worldbuilder) en pages satellites chrono, convention v8.4 : cf. WIKI Personnages/Nico_Jumelles_chrono_00.md a _07.md - UNE page par roadmap (_00 = R0 Ohara ... _06 = R6 Water 7, _07 = R7 Thriller Bark), creees au fil des builds jusqu'a _15 ; chrono COMMUNE aux deux jumelles (Nico_Sonia et Nico_Robin renvoient aux memes pages). Aucun plafond : le decoupage par arc EST le plafond. Anciens noms Trajectoire_Jumelles_00 a _07 (renommes au build B10) et page unique Trajectoire_Jumelles.md : SUPPRIMES du repo.
+Deportee (decision worldbuilder) en pages satellites chrono, convention v8.4 : cf. WIKI Personnages/Nico_Jumelles_chrono_00.md a _08.md - UNE page par roadmap (_00 = R0 Ohara ... _07 = R7 Thriller Bark, _08 = R8 Sabaody), creees au fil des builds jusqu'a _15 ; chrono COMMUNE aux deux jumelles (Nico_Sonia et Nico_Robin renvoient aux memes pages). Aucun plafond : le decoupage par arc EST le plafond.
 
 ---
 

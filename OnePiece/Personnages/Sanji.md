@@ -1,7 +1,6 @@
 # Sanji
 
-- version : W5
-- note de version : W5 - versement du paquet R7 (build Thriller Bark) : Trajectoire an 0 (R7) - temoin du "joli coup" de Sonia, Absalom, DIABLE JAMBE inaugural en defense des DEUX Nico [DIVERGENCE RP], offre sa vie, secret a QUATRE. Noyau inchange. W4 - paquet R6 (la gare, l'intrus du train).
+- version : W6
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 Calibration psycho actee par le worldbuilder (thread 10) : confiance, sensibilite, rapport aux femmes.
@@ -57,6 +56,7 @@ Calibration psycho actee par le worldbuilder (thread 10) : confiance, sensibilit
 | an 0 (R7 - Thriller Bark, le Sunny) | Ridiculise par l'invisible avec Luffy, Franky et Zoro ; voit Sonia le stopper d'un coup de pied plein centre quand il fond sur Robin - "joli coup", rien de plus [Haki tu] | Aucune question posee |
 | an 0 (R7 - Thriller Bark) | Ombre volee par Moria ; Inuppe, son zombie, refuse de frapper une dame. Sauve Nami du mariage d'Absalom, le demonte a coups de pied ; identifie le Suke Suke no Mi - le fruit qu'il convoitait. Oars : jambe du Big Emperor - Docking accompli a six [DIVERGENCE RP]. Quand Moria vole les DEUX ombres des jumelles et qu'Oars vise le Bazooka sur les deux soeurs inconscientes : DIABLE JAMBE INAUGURAL, la jambe en feu, le Bazooka devie [DIVERGENCE RP - canon : Robin seule]. Gatling d'Oars, KO. Ombre rendue a l'aube | Diable Jambe ACQUIS, ne pour deux ; la vigilance de R5 en actes, sans un mot |
 | an 0 (R7 - Kuma) | A terre a la bombe. Se releve pour offrir SA vie a la place de celle de Zoro - assomme par Zoro d'un coup. Reveille, trouve Zoro debout dans son sang : "il ne s'est rien passe". Les jumelles reviennent : secret a QUATRE [DIVERGENCE RP]. Au banquet, fait jurer le silence aux temoins des Rolling Pirates [canon] | Le secret tient a quatre, jamais Luffy |
+| an 0 (R8 - Sabaody) | Camie sur lui ; Duval = son avis, Parage Shot ; piege au filet, sauve par Camie ; appelle les Flying Fish Riders pour la recherche ; encheres avant Luffy. Flambage Shot sur PX-4 ; groupe Nami-Franky ; PX-1, au sol ; efface quatrieme | Le beat Haki chez Shakky lui explique le coup de pied de Sonia sur Absalom. Disperse |
 
 ---
 

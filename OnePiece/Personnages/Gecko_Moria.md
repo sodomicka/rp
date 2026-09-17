@@ -1,9 +1,9 @@
 # Gecko Moria
 
-- version : W1
-- note de version : W1 - creation au build R7 (boucle serree). Entite canon ; NOYAU tronque a la veille de Thriller Bark (an 0). Origines revelees APRES Egghead (naissance, enfance, nom de famille) : HORS PERIMETRE, non importees - la fiche s'en tient a ce que le canon avait etabli jusqu'a Egghead inclus.
+- version : W2
 
 FRONTIERE DU NOYAU : veille de Thriller Bark (an 0), premiere entree en scene face aux jumelles. Tout le posterieur : strate Trajectoire.
+PERIMETRE : origines revelees APRES Egghead (naissance, enfance, nom de famille) HORS PERIMETRE, non importees - la fiche s'en tient a ce que le canon avait etabli jusqu'a Egghead inclus.
 
 ## Identite
 - Gecko Moria. Shichibukai ; capitaine des Pirates de Thriller Bark, anciennement des Pirates Gecko. Entite canon.
@@ -38,7 +38,7 @@ FRONTIERE DU NOYAU : veille de Thriller Bark (an 0), premiere entree en scene fa
 - Luffy, l'equipage, les jumelles Nico - aucun lien. Il apprendra leurs noms par les avis (etape 10 de la R7).
 
 ## Histoire (noyau, <= veille de Thriller Bark)
-- an -48 : naissance [databook ; lieu et enfance : HORS PERIMETRE, cf. note de version].
+- an -48 : naissance [databook ; lieu et enfance : HORS PERIMETRE, cf. PERIMETRE en tete].
 - an -22 : Loguetown, execution de Gol D. Roger ; il a 26 ans. Le reve du One Piece nait la ; il leve son pavillon - les Pirates Gecko.
 - an -21 env. [canon Wano : "vingt-trois ans" avant l'an +2] : Ringo, pays de Wano - affrontement contre Kaido et ses Pirates aux Cent Betes. Moria profane la tombe de Ryuma : le corps et Shusui. Son equipage entier est aneanti ; lui seul survit. Il quitte le Nouveau Monde et n'y est jamais revenu.
 - Puis : Corsaire [date : INCERTAIN, canon muet] ; Thriller Bark, le plus grand navire du monde, deguise en ile, ancre dans la brume du Triangle de Florian. Chasse aux ombres, armee de zombies.

@@ -1,7 +1,6 @@
 # Resume - OnePiece
 
-- version : W2
-- note de version : W2 - BIBLE BUILD B11 : section Sabaody (R8) ecrite depuis Roadmap_8 et chrono_08 ; retouche R7 (le journal inaugure, la cible ratee - retrofit R8) ; borne avancee a la sortie de R8 ; renvoi chrono_00 a _08. W1 - creation au BIBLE BUILD B10, ecrite depuis les roadmaps R0 a R7 et les pages chrono (le premier jet, tire de la BIBLE, a ete rejete sans etre pousse). Suivi de l'histoire hors BIBLE ; page fetchable en jeu : elle s'arrete a la sortie de la derniere boucle close et ne prefigure rien.
+- version : W3
 
 Ceci est l'histoire de l'univers "Jumelles d'Ohara" : le canon de One Piece, revisite par l'existence de Nico Sonia, jumelle cadette de Nico Robin. La ou les jumelles passent, le canon diverge ; tout ce qui suit est raconte comme etabli, sans distinguer ce qui vient d'Oda de ce qui vient de la table. Pour le detail, les fiches (Sommaire) et les pages Personnages/Nico_Jumelles_chrono_00 a _08.
 

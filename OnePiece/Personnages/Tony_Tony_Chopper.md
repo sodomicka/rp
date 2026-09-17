@@ -1,7 +1,6 @@
 # Tony Tony Chopper
 
-- version : W5
-- note de version : W5 - versement du paquet R7 en file au journal (W38) + paquet R8 (build Sabaody) : Trajectoire an 0 - jours de mer (auditeur du premier JOURNAL des jumelles - ajout R8 retropropage), Thriller Bark (Hogback, Big Emperor, point faible d'Oars), Sabaody (Kokutei Diamond, Roseo Metel, Monster Point, efface juste avant les jumelles). Noyau inchange. W4 - versement du paquet R6 (journal W25) : Trajectoire an 0 (R6) - les herbes de l'arrivee a Water 7, le chevet de la convalescence.
+- version : W6
 
 Entite canon. FRONTIERE DU NOYAU (regle actee, resserree thread 10) : <= fin de l'arc Drum / recrutement (an 0). Premiere rencontre avec les jumelles : intronisation (an 0, R5) - calee en Passe 2 (frontiere actee R4 : Alabasta de loin, aucune interaction avant).
 

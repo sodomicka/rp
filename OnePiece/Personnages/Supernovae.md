@@ -1,7 +1,6 @@
 # Les Supernovae - fiche groupee
 
-- version : W2
-- note de version : W2 - versement du paquet R8 (build Sabaody, boucle serree) : Trajectoire an 0 - le tableau des onze, les cinq devant Kizaru et les Pacifista (canon, hors POV). Aucun ne croise les jumelles. Noyau inchange. W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Fiche GROUPEE des cinq capitaines sans fiche propre : Basil Hawkins, Scratchmen Apoo, X Drake, Urouge, Capone Bege. Law, Kid/Killer et Bonney ont leur fiche ; Luffy et Zoro les leurs. NOYAU tronque a la veille de Sabaody (an 0).
+- version : W3
 
 FRONTIERE DU NOYAU : veille de Sabaody (an 0). Tout le posterieur : strate Trajectoire, commune.
 

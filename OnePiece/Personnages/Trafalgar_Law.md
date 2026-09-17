@@ -1,9 +1,9 @@
 # Trafalgar Law et les Pirates du Heart
 
-- version : W2
-- note de version : W2 - versement du paquet R8 (build Sabaody, boucle serree) : Trajectoire an 0 - Sabaody, canon (encheres, Marines, Jean Bart, Pacifista). Aucun lien avec les jumelles (acte). Noyau inchange. W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Entite canon ; NOYAU tronque a la veille de Sabaody (an 0). Son passe (Flevance, Corazon) est revele au canon a Dressrosa mais ANTERIEUR a la frontiere : il vit ici, en NOYAU. Fiche pleine (allie majeur de R11 a R14).
+- version : W3
 
 FRONTIERE DU NOYAU : veille de Sabaody (an 0). Tout le posterieur : strate Trajectoire.
+Fiche pleine (allie majeur de R11 a R14). Son passe (Flevance, Corazon), revele au canon a Dressrosa mais ANTERIEUR a la frontiere, vit ici en NOYAU.
 
 ## Identite
 - Trafalgar Law, "le Chirurgien de la Mort". Capitaine des Pirates du Heart. Entite canon.

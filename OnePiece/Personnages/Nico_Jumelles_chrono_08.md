@@ -1,7 +1,6 @@
 # Nico Jumelles - chrono 08 - Trajectoire datee, R8 - Sabaody
 
-- version : W1
-- note de version : W1 - creation au build R8 (boucle serree), une page par roadmap ; relivree apres le peaufinage au jalon (meme numero, jamais poussee) : les COUTEAUX (lancer fausse par le bras manquant, frustration, lien couteaux/bras), arrivee aux encheres au bout de la recherche, lien Rayleigh = le mecanicien fait dans la salle. Deux lignes par jumelle : les jours de mer (Red Line, le JOURNAL, Duval), puis Sabaody (les encheres, le bar de Shakky, Grove 12, la bulle). Decisions worldbuilder inscrites : fin du "Haki tu" (beat chez Shakky, fil SB8 CLOS en R8) ; arrivee APRES le poing de Luffy ; le Rois de Luffy lu, simple constat ; Clover nomme par Rayleigh, hypothese R5 confirmee sans Oden ; Kuma reconnu a la Bible (les Pacifista n'en portent pas), une seule bulle pour deux, sans un mot ; le journal des jumelles aux haut-parleurs (ajout R8, inaugure en R7 - retropropagation a la roadmap R7 et a chrono_07 au meme build).
+- version : W2
 
 Strate Trajectoire datee de Nico Sonia et Nico Robin pour l'arc R8 - Sabaody. Deportee des fiches noyau en pages satellites chrono (convention v8.4) ; specificites locales : une page par roadmap, chrono commune aux deux jumelles. Regles inchangees (SPEC) : alimentation a chaud en Passe 2, arc par arc ; canon par defaut, neutre, reutilisable entre parties ; forme telegraphique ; le delta d'une partie va en Parties/ et surclasse cette strate pour la partie concernee.
 Decoupage : une page par roadmap - Nico_Jumelles_chrono_00 (R0) a _15 (R15), creees au fil des builds. Aucun plafond de taille : le decoupage EST le plafond.

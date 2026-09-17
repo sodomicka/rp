@@ -1,7 +1,6 @@
 # Kuzan
 
-- version : W3
-- note de version : W3 - versement du paquet differe du build R5 (journal W20) : echelle de savoir Ohara (etat au point de depart precise en Histoire ; apprentissage du vrai motif en Trajectoire - trauma fondateur, confie a Garp, racine de la rupture avec Sakazuki) ; Trajectoire alimentee (accession au rang d'amiral [INCERTAIN sur la date], dog whistle R4, jugement de Long Ring R5 - dog whistle SOLDE). Historique anterieur : cf. garde cap.
+- version : W4
 
 ## Identite
 - Kuzan. L'alias "Aokiji" est un titre d'amiral, posterieur au point de depart. Entite canon.

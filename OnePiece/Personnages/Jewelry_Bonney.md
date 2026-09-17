@@ -1,7 +1,6 @@
 # Jewelry Bonney
 
-- version : W2
-- note de version : W2 - versement du paquet R8 (build Sabaody, boucle serree) : Trajectoire an 0 - Sabaody, canon (Zoro sauve de Charloss, les Marines vieillis). Jamais face aux jumelles ; garde-fou intact. Noyau inchange. W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Entite canon ; NOYAU tronque a la veille de Sabaody (an 0). Son passe et sa nature sont reveles au canon a EGGHEAD mais ANTERIEURS a la frontiere : ils vivent ici, en NOYAU - sous GARDE-FOU.
+- version : W3
 
 GARDE-FOU NARRATION (decision worldbuilder) : tout ce que cette fiche dit de son age reel, de ses parents et de Kuma est un SAVOIR DE BUILD. Il est INTERDIT en narration avant R15 (Egghead). Dans le monde, a la frontiere, PERSONNE ne le sait hormis Kuma, Vegapunk et Saint Saturn - ni les jumelles, ni l'equipage, ni la Marine. Le "sacrifice tu" de Kuma en R7 n'a PAS de nom pour les jumelles, et n'en aura pas avant Egghead. Si le joueur le sait, grand bien lui fasse ; le MJ, lui, ne le dit JAMAIS.
 

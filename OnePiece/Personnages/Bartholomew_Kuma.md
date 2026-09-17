@@ -1,7 +1,6 @@
 # Bartholomew Kuma
 
-- version : W3
-- note de version : W3 - versement du paquet R8 (build Sabaody, boucle serree) : Trajectoire an 0 - Mary Geoise (hors POV) puis Grove 12 : DETONATION du pacte, une seule bulle pour deux, sans un mot ; reconnu a la BIBLE (les Pacifista n'en portent pas - dicte). Noyau inchange. W2 - versement du paquet R7 (build Thriller Bark) : ajout en Description physique de la CROIX AU SOLEIL sur sa Bible [DIVERGENCE RP - marque privee, pas symbole general du culte] ; Trajectoire an 0 - Thriller Bark (canon) et LE PACTE avec les jumelles (dicte). Noyau inchange. W1 - creation.
+- version : W4
 
 FRONTIERE DU NOYAU : veille de Thriller Bark (an 0), premiere entree en scene face aux jumelles. Tout le posterieur : strate Trajectoire.
 

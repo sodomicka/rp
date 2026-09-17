@@ -1,9 +1,9 @@
 # Silvers Rayleigh
 
-- version : W2
-- note de version : W2 - versement du paquet R8 (build Sabaody, boucle serree) : Trajectoire an 0 - la cage du Grove 1 (Rois, apres le poing de Luffy), le bar de Shakky (recit de Roger, CLOVER nomme, l'offre refusee, BEAT HAKI - il complete sans en dire trop), Grove 12 (l'Armement contre Kizaru sous les yeux des jumelles, le murmure de Kuma). Reconnaissance au premier regard par les jumelles, sans lien avec le mecanicien [DIVERGENCE RP]. Noyau inchange. W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Entite canon ; NOYAU tronque a la rencontre (Sabaody, an 0). Revelations post-Egghead (arc Elbaf : details de God Valley, enlevement de Shakky) : HORS PERIMETRE, non importees.
+- version : W3
 
 FRONTIERE DU NOYAU : rencontre avec l'equipage, Sabaody (an 0). Tout le posterieur : strate Trajectoire.
+PERIMETRE : revelations post-Egghead (arc Elbaf : details de God Valley, enlevement de Shakky) HORS PERIMETRE, non importees.
 
 ## Identite
 - Silvers Rayleigh, dit "le Roi des Tenebres" (Mei-O). Second de Gol D. Roger, premier compagnon de l'equipage du Roi des Pirates. Entite canon.

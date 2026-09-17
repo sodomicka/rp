@@ -1,7 +1,6 @@
 # Nami
 
-- version : W4
-- note de version : W4 - versement du paquet R7 en file au journal (W38) + paquet R8 (build Sabaody) : Trajectoire an 0 - jours de mer (auditrice du premier JOURNAL des jumelles - ajout R8 retropropage), Thriller Bark (Absalom, Lola, Kuma), Sabaody (Hatchan, Grove 30 avec les jumelles, les 500M de Charloss, Thunderbolt, efface sixieme). Noyau inchange. W3 - versement du paquet R6 (journal W25) : Trajectoire an 0 (R6) - assaut d'Enies Lobby [hors POV, canon par defaut], premiere prime.
+- version : W5
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 

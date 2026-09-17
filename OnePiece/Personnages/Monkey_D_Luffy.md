@@ -1,7 +1,6 @@
 # Monkey D. Luffy
 
-- version : W6
-- note de version : W6 - versement du paquet R7 en file au journal (W38) + paquet R8 (build Sabaody) : Trajectoire an 0 - Thriller Bark (methode de la balle, Oars, Nightmare, la bombe) ; Sabaody (Motobaro, le poing sur Charloss, le refus du Siecle Oublie, BEAT HAKI : il apprend par les jumelles qu'il a le Rois [DIVERGENCE RP], la defaite totale, dernier efface). Noyau inchange. W5 - versement du paquet R6 (journal W25) : VECTEUR BINKS acte (annee Fuchsia, an -11/-10 - question ouverte depuis la Passe 1, close). Trajectoire an 0 (R6) - assaut d'Enies Lobby et sauvetage des jumelles [essentiellement hors POV, canon par defaut], nouvelle prime.
+- version : W7
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0) - premiere apparition des jumelles devant l'equipage.
 

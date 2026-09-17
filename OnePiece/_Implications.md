@@ -1,37 +1,31 @@
 # _Implications - OnePiece
 
-- version : W40
+- version : W41
 
 Journal de travail du worldbuilding. Pense-bete de coordination : UNIQUEMENT du pendant (questions ouvertes, contenu en attente d'integration, chantiers). L'applique degage au fil de l'eau ; l'historique vit dans les threads et les versions du repo, pas ici.
 
 ## Questions ouvertes (worldbuilder)
-- (aucune) - les trois questions de la periode R6-R7 sont TRANCHEES au B10 : doctrine de l'ironie (A : Tchekhov generalise, rien au CODEX), carnet rouge (revelation du contenu a l'equipage dans la traversee Wano -> Egghead, apres Gear 5), bras de Sonia (fil SB8, detonation R9). Inscrites en BIBLE B10 SB8 et au garde cap W12.
+- SPEC_BIBLE_LORE_WIKI et SPEC_CODEX : purger les commentaires <!-- rev. --> de tete (4,8k car. a eux deux ; meme doctrine que le WIKI, l'historique vit dans git) ? En attente.
 
 ## Chantiers hors repo (worldbuilder)
-- SPEC / Instructions : la regle "le NOYAU va jusqu'a la PREMIERE ENTREE EN SCENE" (t0 pour le casting d'Ohara, la rencontre pour les PNJ tardifs) reste NON repercutee - tranche : One Piece est un cas particulier, pas de patch du texte des Instructions. La ligne contraire ("a repercuter") est purgee au W34 comme contredite par ce tranche.
+- SPEC / Instructions : la regle "le NOYAU va jusqu'a la PREMIERE ENTREE EN SCENE" (t0 pour le casting d'Ohara, la rencontre pour les PNJ tardifs) reste NON repercutee - tranche : One Piece est un cas particulier, pas de patch du texte des Instructions.
 - Instructions : integrer la routine GARDE CAP actee (toute Passe 2 s'ouvre par la construction du garde cap du prota ; modele CSM/Roadmap/Makoto/Chronologie.md).
 - Instructions : TRANCHE B10 (doctrine A) - amender la regle IRONIE vs PREFIGURATION du mode FICHES D'ARC : l'ironie dramatique voulue ne vit PLUS en CODEX ANNEXE_SAVOIRS ; elle est un fil Tchekhov (BIBLE SB8) ou reste chez le worldbuilder, hors de tout document lu en narration. Repercussion sur SPEC_CODEX (ANNEXE_SAVOIRS) a evaluer.
 - Instructions : repercuter la DOCTRINE ROADMAPS actee au build R3 - le MJ narre et invente DANS le cadre, jamais le cadre ; aucun "libre en jeu", aucun incertain residuel dans une roadmap ; le peaufinage (etape 4 de la boucle serree) se fait INTEGRALEMENT en consultation, point par point, avant toute ecriture de fichier. Complement acte au build R5 : les ELLIPSES sont PREPAREES - bornees, vides declares vides, reprise datee ; jamais de "narration libre dans le cadre" pour une couture.
 - SPEC : faire entrer Resume.md dans SPEC_BIBLE_LORE_WIKI (tranche au B10 : les Instructions Wiki priment) - page racine {Univers}/Resume.md, suivi de l'histoire etablie (canon + divergences actees), une par univers, W-versionnee, indexee au Sommaire, mise a jour a chaque BIBLE BUILD, bornee a la derniere boucle close (fetchable en jeu : ne prefigure rien).
 
 ## Chantiers repo (MJ, en file)
-- BIBLE B10 : LIVREE au thread B10 (refonte v8.4/v8.5, le monde en notices ; livraison 2 apres arbitrages). Mesure : 43 553 caracteres (wc -m), cible 35-40k, plafond dur 55k. Ecart de 3,5k justifie par le cast : 48 fiches -> 45 notices en SB5 (14,7k, dans la fourchette 8-20k) ; SB1 porte un fruit OC et une regle AU (echelle de savoir). Coupes optionnelles proposees au worldbuilder, non executees.
-- SOMMAIRE W13 : LIVRE au meme build (W10 a W12 jamais pousses). Porte la table d'equivalence Trajectoire_Jumelles_NN -> Nico_Jumelles_chrono_NN.
-- CORRECTIF CHRONO PROPAGE (B10, decision worldbuilder) : le delai annee Tom -> an 0 etait ecrit "onze ans" sur cinq pages (Roadmap_2, chrono_06, Franky, Iceburg, Tom_Kokoro), contre huit ans partout ailleurs (BIBLE SB3, Roadmap_6). Corrige : Roadmap_2 W6, Nico_Jumelles_chrono_06 W4, Franky W4, Iceburg W5, Tom_Kokoro W6. Origine de l'erreur non retrouvee ; a surveiller au rebuild de toute page qui date l'annee Tom.
-- GARDE CAP W12 : LIVRE au B10 (hors boucle) - fil flottant carnet rouge ferme et rattache a R14 (jalon + [A POSER] de borne de sortie : etendre R14 a la traversee vers Egghead ou ouvrir R15 dessus) ; R9 repointe sur le fil SB8 du bras ; note d'equivalence de renommage en tete.
-- TRANCHE au B10 (execute) - RESUME.MD : cree, OnePiece/Resume.md W1, indexe au Sommaire. Premier jet (tire de la BIBLE, telegraphique, balise) REJETE par le worldbuilder ; reecrit en prose depuis les roadmaps R0-R7 et les chrono. Mesure : 36 537 caracteres, R0 a R7 - hors budget de page standard, longueur a l'arbitrage du worldbuilder (regle de construction : ecrire depuis les roadmaps, jamais depuis la BIBLE). A mettre a jour a chaque BIBLE BUILD ; la borne avance d'un arc a chaque boucle close.
-- TRANCHE au B10 (execute) - NOMMAGE DES SATELLITES : Trajectoire_Jumelles_00.._07 renommees Nico_Jumelles_chrono_00.._07 (W3, _07 W4 ; contenu inchange, chapeau recale, mention "exception One Piece" retiree) ; fiches Nico_Sonia W10 et Nico_Robin W8 recablees ; BIBLE, Sommaire W13, garde cap W12 recables. RESTE au worldbuilder : pousser les huit nouveaux fichiers et SUPPRIMER les huit anciens du depot. RESTE en file : references residuelles a l'ancien nom dans les roadmaps R0-R7 (non fetchees au B10) - lecture par l'equivalence du Sommaire, correction au prochain rebuild de chacune. OBSERVATION (pas une decision) : la skill one-shot cherche d'abord {Perso}_chrono_* avec Perso = Nico_Sonia, qui ne matche pas Nico_Jumelles_chrono_* ; elle resout ensuite par le renvoi de la fiche perso puis par le Sommaire, tous deux cables - a verifier a la premiere fiche one-shot de cet univers.
+- RESUME.MD (regle de construction actee) : ecrire depuis les roadmaps et les pages chrono, jamais depuis la BIBLE ; mise a jour a chaque BIBLE BUILD, la borne avance d'un arc a chaque boucle close ; longueur hors budget de page standard, a l'arbitrage du worldbuilder.
 - NOTE v8.5 pour la Passe 3 (pas pour la Passe 2) : fiche d'arc = TRAME (Deroule de l'etape, temps par temps, au grain de la scene) + BIBLE D'ETAPE, troncature a la SORTIE de l'etape ; le worldbuilder dicte, le MJ derive et propose. Le CODEX ANNEXE_CHRONO "jalon courant / prochain jalon" designe les temps du Deroule. La fiche d'arc R0 se construira sous ce gabarit.
 - PROCHAIN THREAD : boucle R9 Baltigo (roadmap), BIBLE B11 en fichier de projet.
-- BIBLE B11 : LIVREE (boucle R8 close) - fin du "Haki tu" (SB1, SB8 CLOS), le journal (SB2, SB5, SB6), les couteaux (SB5 Sonia, SB7, fil SB8 du bras), pacte Kuma CLOS, fil "Main de la gravure de Skypiea" cree (R8 demi-detonation, R13), SB3 Sabaody, silhouettes de Sabaody en SB5, Dragon : fiche NOYAU a creer a R9. Sommaire W17, Resume W2 (section Sabaody, retouche R7) livres au meme build. Mesure BIBLE : cf. wc -m a la livraison, plafond dur 55k.
-- RESTE EN FILE (fiches, pas BIBLE) : lignes R8 de Zoro, Sanji, Franky, Brook, Garp ; requalifications Haki (Sanji, Zoro, Nico_Sonia, Nico_Robin) - cf. Vers les fiches.
-- CHANTIERS EVACUES DE LA BIBLE au B10 (domicile ici, plus jamais en BIBLE) :
-  - BOUCLE R9 : Haki de Koala jamais atteste au canon - a baliser au build R9 (SB1 B9 le portait entre crochets).
-  - BOUCLE R14 Wano : Foi Nika - portee de la revelation du fruit de Luffy pour la foi des jumelles, reaction et suites, a cadrer a la boucle ; carnet rouge - revelation du contenu a l'equipage dans la traversee vers Egghead, borne de sortie a poser (garde cap W12).
+- BIBLE B12 (prochain BIBLE BUILD) : retirer les numeros W de SB0 et SB9 (doublon du Sommaire, perimes a chaque build - SB0 porte deja Sommaire W17 et _Implications W40) et le "(actee B10)" de SB8 ; garder les "(actee Rn)", provenance des divergences.
+- CHANTIERS EVACUES DE LA BIBLE (domicile ici, plus jamais en BIBLE) :
+  - BOUCLE R9 : Haki de Koala jamais atteste au canon - a baliser au build R9.
+  - BOUCLE R14 Wano : Foi Nika - portee de la revelation du fruit de Luffy pour la foi des jumelles, reaction et suites, a cadrer a la boucle ; carnet rouge - revelation du contenu a l'equipage dans la traversee vers Egghead, borne de sortie a poser (garde cap).
   - BOUCLE R12 Dressrosa : Miroir Viola, modalites de la rencontre et de la confidence de Sonia (cf. Beats et hooks).
   - BOUCLE R9 : fil Dragon, detonation-surprise a cadrer (cf. Beats et hooks).
-- ROUTAGE ACTE (pre-build R8, portee R13/R14 - toujours a verser au garde cap aux boucles R13/R14) : les jumelles NE VONT PAS a Whole Cake Island - elles suivent la route canon de Robin (Zou -> Wano) et jouent les GEISHAS a Wano. Verse en BIBLE B10 (SB3 an +2, SB6 Wano) ; a verser au garde cap aux boucles concernees.
-- BOUCLE R9 Baltigo : creer la fiche NOYAU de SABO (acte - seule entite de l'entourage d'Ace pertinente pour le RP). Retombee bras VERSEE au garde cap W11 (maitrise, prothese permanente, routine a Baltigo). Nouveau [A POSER] verse au garde cap : ce que Kuma a dit ou non a Dragon du pacte de R7. Retombees R8 versees au garde cap W13 (Haki connu de l'equipage, Armement vu sur un Logia, couteaux/prothese, Kuma sans mot).
+- ROUTAGE ACTE (pre-build R8, portee R13/R14 - toujours a verser au garde cap aux boucles R13/R14) : les jumelles NE VONT PAS a Whole Cake Island - elles suivent la route canon de Robin (Zou -> Wano) et jouent les GEISHAS a Wano. Porte en BIBLE (SB3 an +2, SB6 Wano) ; a verser au garde cap aux boucles concernees.
+- BOUCLE R9 Baltigo : creer la fiche NOYAU de SABO (acte - seule entite de l'entourage d'Ace pertinente pour le RP), et celle de DRAGON (aucune fiche a ce jour, cf. BIBLE SB5). [A POSER] au garde cap : ce que Kuma a dit ou non a Dragon du pacte de R7.
 - BOUCLE R12 Dressrosa : creer la fiche NOYAU de DOFLAMINGO (acte R8 : silhouette en voix a Sabaody, fiche a sa boucle).
 
 ## En attente d'integration
@@ -39,19 +33,13 @@ Journal de travail du worldbuilding. Pense-bete de coordination : UNIQUEMENT du 
 Regle (actee thread 12) : les enrichissements de fiches existantes sont FIXES ICI, puis verses au prochain REBUILD COMPLET de chaque fiche (bump de version). Pas de fichiers patch, pas d'editions chirurgicales a la main du worldbuilder. Une entree versee est effacee du journal.
 
 ### Vers les fiches
-- Lignes R7 : TOUTES VERSEES (Luffy W6, Usopp W5, Chopper W5, Nami W4 au build R8 ; Franky W4 au B10).
-- Lignes R8 EN FILE (Trajectoire, versement au prochain rebuild de chaque fiche) :
-  - Roronoa_Zoro : le Grove "1" ; Charloss - esquive, Bonney le plaque et joue sa mort ; porte le medecin abattu a l'hopital ; entre aux encheres avec Luffy sur un poisson volant, tranche le bocal de Camie ; groupe Usopp-Brook ; blessures de Thriller Bark ouvertes, KIZARU - a terre, Rayleigh devie le coup ; premier efface par Kuma, la question rituelle a lui seul. Le beat Haki chez Shakky lui explique le test-danger et le "joli coup" de Sonia.
-  - Sanji : Camie sur lui ; Duval = son avis, Parage Shot ; piege au filet, sauve par Camie ; appelle les Flying Fish Riders pour la recherche ; encheres avant Luffy ; Flambage Shot sur PX-4 ; groupe Nami-Franky ; PX-1, au sol ; efface quatrieme. Le beat Haki lui explique le coup de pied sur Absalom.
-  - Franky : Chicken Voyage et Gaon Cannon reveles ; reparations au Grove 41 ; porte la nouvelle de Camie aux jumelles et a Nami ; encheres, les cles des esclaves ; Coup de Vent sur PX-4, Strong Hammer, rattrape par Robin ; Coup de Vent de fuite ; le poing sur le vrai Kuma, sans effet ; efface cinquieme.
-  - Brook : premier combat comme Chapeau de Paille - la berceuse au violon endort les Riders ; les Rumbar chez Rayleigh (Crocus) ; encheres avec Usopp et les jumelles ; PX-4 ; Kizaru, impuissant ; couvre Sanji et Usopp devant Kuma ; efface deuxieme.
+- Ligne R8 EN FILE (Trajectoire, versement au prochain rebuild de la fiche) :
   - Monkey_D_Garp : hors POV - apprend que Rayleigh s'est vendu aux encheres du Grove 1, ordonne le silence, "je m'en occupe" (ch. 500).
-- Requalification EN FILE (fin du "Haki tu", R8) - a integrer au prochain rebuild : Sanji W5 et Roronoa_Zoro W5 ("jamais nomme", "jamais repete" sur les jolis coups : nomme chez Shakky, R8) ; Nico_Sonia W10 et Nico_Robin W8 (toute mention "Haki tu / revelation R10" -> R8) ; Nico_Sonia : etat post-Enies Lobby, les couteaux fausses (Trajectoire, pas noyau).
 
 ### Beats et hooks (reportes aux builds concernes)
 - TCHEKHOV "MIROIR VIOLA" (acte R3) : modalites de la rencontre et de la confidence de Sonia a cadrer au build R12.
 - FIL DRAGON : plant R6 ECRIT (Roadmap_6 etape 16, canon verifie ch. 432) ; R7 : Kuma NE NOMME PAS Dragon (dicte) - les jumelles savent seulement que Kuma est revolutionnaire ; detonation-SURPRISE R9 (l'homme, la desertion, God Valley) INTACTE. Canon verifie au build R6 : les motifs de la desertion de Dragon incluent GOD VALLEY et OHARA (ch. 1097) - resonance directe pour les jumelles, matiere R9.
-- BRAS DE SONIA : les trois etages en BIBLE B10 SB1, fil Tchekhov SB8 "Le bras de Sonia" ARME (R9), garde cap R9 repointe. Reste : le grain de scene en Passe 3 (fiches d'arc R6, R7, R9).
+- BRAS DE SONIA : les trois etages en BIBLE SB1, fil Tchekhov SB8 "Le bras de Sonia" ARME (R9). Reste : le grain de scene en Passe 3 (fiches d'arc R6, R7, R9).
 
 ## Observations NON actees (pistes)
 - La marque solaire des Pirates du Soleil = un soleil concu pour EFFACER la marque d'esclavage (Patte du Dragon Celeste). Echo direct de la foi Nika (Soleil-Liberateur) - exploitation P2.

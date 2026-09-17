@@ -1,9 +1,9 @@
 # Eustass Kid et Killer
 
-- version : W2
-- note de version : W2 - versement du paquet R8 (build Sabaody, boucle serree) : Trajectoire an 0 - Sabaody, canon (Apoo, Urouge, encheres, Marines, Pacifista). Aucun lien avec les jumelles (acte). Noyau inchange. W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Fiche a DEUX TETES : le capitaine et son bras droit, inseparables au canon. NOYAU tronque a la veille de Sabaody (an 0). Graphie : "Kid" (romanisation canon ; "Kidd" courant). Heat et Wire en silhouettes.
+- version : W3
 
 FRONTIERE DU NOYAU : veille de Sabaody (an 0). Tout le posterieur : strate Trajectoire, commune.
+Graphie : "Kid" (romanisation canon ; "Kidd" courant).
 
 ## Eustass Kid
 

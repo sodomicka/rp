@@ -1,7 +1,6 @@
 # Roadmap 6 - Water 7
 
-- version : W1
-- note de version : W1 - build initial (boucle serree de Passe 2), itineraire integralement DICTE par le worldbuilder (17 etapes recomposees ci-dessous). Tous les [A POSER] du garde cap tranches : poids du retour (traversee en douce, mensonge a l'equipage) ; geste de la mutilation (Funkfreed, coupe sous l'epaule, au pied du balcon, pour les SEPARER - provocation calculee de Sonia) ; Golden Escargophone (declenchement accidentel par Spandam, symetrie R0 : Spandine a declenche le Buster Call d'Ohara au meme instrument) ; primes post-EL (120M commune -> 80M chacune, avis individuels "Nico Robin" / "Nico Sonia", epithete "Enfants du Demon" MORTE avec la prime partagee) ; posture d'Aokiji (hors scene tout l'arc, contrainte BIBLE : la re-rencontre unique est soldee R5) ; reaction Dragon (canon VERIFIE par recherche web : revelation par Garp au ch. 432, Water 7, personne ne savait que Dragon avait un fils ni son nom complet) ; modalites "Bons Marines" (excuses de Koby au nom de la Marine -> declic de Sonia -> doctrine nouvelle) ; modalites Klabautermann (REECRITES, cf. section - le Merry ne parle pas, transplantation du noeud). Divergences actees [DIVERGENCE RP] : vol des plans confie aux jumelles (instrument jetable et incriminable, couverture CP9 preservee) ; amnesie FEINTE d'Iceburg ; pas de voix du Merry au bucher ; transplantation de l'ame dans le Sunny ; Sonia co-construit le Sunny ; pas de chopage (Franky rejoint sur le mot d'Iceburg) ; primes 80M/80M. Retombees et bumps en file au journal : garde cap W10 (borne de sortie corrigee = Coup de Burst ; ordre canon funerailles -> Garp retabli ; jalon Klabautermann reecrit) ; Roadmap_2 W5 (surnoms "Tete de granite", "petite soeur a lunettes" / "petite soeur a frange" ; la lecon du noeud de bois ajoutee aux veillees de Tom) ; correctif fiche Spandam (cible plans : piste Iceburg, reattribuee a Cutty Flam en cours d'operation) ; purge BIBLE (carnet rouge "a verifier P2" ; sacoche SB7). Fiches creees cette boucle : Monkey_D_Garp (NOYAU), Koby (NOYAU), CP9_CP0 (fiche groupee : Lucci, Kaku, Kalifa, Blueno). Doctrine reconduite : aucun incertain residuel, aucune roue libre - le MJ narre et invente DANS le cadre, jamais le cadre ; les ellipses sont PREPAREES.
+- version : W2
 - prota / POV : Nico Sonia (les jumelles, jouees ensemble)
 - statut : ECRITE
 - echelle temporelle : environ deux semaines in-world - trois jours de l'arrivee a Enies Lobby, puis une dizaine de jours de convalescence et de chantier [approximation depuis le rythme canon] (an 0, 28 ans)
@@ -15,7 +14,7 @@ Le retour dans la ville-refuge, huit ans apres - et l'arc ou les deux dettes des
 - Termes : les jumelles se livrent au CP9 ET livrent les plans de Pluton - qu'elles voleront ELLES-MEMES - contre l'engagement de ne pas declencher de Buster Call sur l'equipage.
 - Logique du vol delegue [DIVERGENCE RP - canon : le CP9 opere seul] : les soeurs Nico sont l'instrument jetable et incriminable ; si le vol tourne mal, deux criminelles a 120M portent le chapeau et la couverture quinquennale du CP9 reste intacte.
 - Poseidon : le GM n'en sait RIEN (lecture faite aux seuls Shandia, R5). Le "poids double" de la reddition - DEUX armes antiques localisees - est la comptabilite INTERNE des jumelles, jamais celle de l'ennemi.
-- Erreur d'intel du CP9 : Iceburg designe detenteur ; la reattribution a Cutty Flam vient de la description donnee par les jumelles (correctif fiche Spandam en file).
+- Erreur d'intel du CP9 : Iceburg designe detenteur ; la reattribution a Cutty Flam vient de la description donnee par les jumelles (correctif porte en fiche Spandam).
 
 ## La mutilation et l'eveil (dicte - mecanique complete)
 - La paire unique : menottes du train retirees a Enies Lobby, remplacees par UNE paire de granit marin pour deux - poignet droit de Robin, poignet gauche de Sonia. Humiliation voulue de bout en bout.
@@ -26,7 +25,7 @@ Le retour dans la ville-refuge, huit ans apres - et l'arc ou les deux dettes des
 - Le bras de graphene se dissout en poussiere a Enies Lobby pendant l'inconscience. AUCUNE prothese sur cet arc : elle n'y parvient pas (matiere R7).
 
 ## Le Klabautermann transplante (dicte - detonation reecrite)
-- La lecon de Tom (plant R2, a enrichir au bump W5) : l'esprit d'un navire construit et aime niche dans LE PLUS GROS NOEUD DE SON BOIS.
+- La lecon de Tom (plant R2) : l'esprit d'un navire construit et aime niche dans LE PLUS GROS NOEUD DE SON BOIS.
 - La nuit de l'Aqua Laguna, HORS POV : Iceburg ENTEND la voix du Merry et le rafistole - c'est ainsi que le navire arrive SEUL a Enies Lobby [mecanisme canon conserve, silencieux cote jumelles].
 - A l'adieu : Sonia a preleve le noeud - pile le plus gros, comme decrit par Tom. Le Merry NE PARLE PAS au bucher : son ame est deja dans sa main.
 - La detonation : Sonia pose le fragment dans la main de Franky avec un seul mot - "Klabautermann". Franky comprend, et cree une chasse vitree dans le mat du Thousand Sunny : l'ame du Merry navigue toujours. Fil CLOS.
@@ -37,7 +36,7 @@ Le retour dans la ville-refuge, huit ans apres - et l'arc ou les deux dettes des
 - Avis hors POV, canon par defaut : Luffy 300M, Zoro 120M, Sanji 77M (portrait rate), Sogeking 30M, Nami 16M, Chopper 50 berrys, Franky 44M.
 
 ## Les pertes (dicte)
-- La sacoche : arrachee par Spandam et jetee A LA MER a l'arrivee a Enies Lobby. Perte DEFINITIVE : les crayons offerts par Robin a chaque anniversaire, les carnets noirs, les lunettes de rechange. Robin rachete TOUT au reveil de sa soeur - crayons, carnets, lunettes (SB7 en file au journal).
+- La sacoche : arrachee par Spandam et jetee A LA MER a l'arrivee a Enies Lobby. Perte DEFINITIVE : les crayons offerts par Robin a chaque anniversaire, les carnets noirs, les lunettes de rechange. Robin rachete TOUT au reveil de sa soeur - crayons, carnets, lunettes (cf. BIBLE SB7).
 - Le nez de Sonia : brise sous les coups de pied de Spandam. Les lunettes du jour : brisees avec.
 - Le bras gauche : cf. section mutilation. Les engelures de R5 mordent tout le debut d'arc - les doigts de Sonia, OUTIL du fruit, diminues au pire moment.
 
@@ -97,15 +96,15 @@ Le retour dans la ville-refuge, huit ans apres - et l'arc ou les deux dettes des
 - Spandam : dos brise, dechu [canon rejoint par une autre main]. Premiere et derniere rencontre de l'arc.
 
 ## Casting convoque
-- Nico Sonia et Nico Robin - POV joueur (lignes Trajectoire en file : reddition, mutilation, eveil, bras, sacoche, primes, doctrine nouvelle)
+- Nico Sonia et Nico Robin - POV joueur - cf. Personnages/Nico_Jumelles_chrono_06 (reddition, mutilation, eveil, bras, sacoche, primes, doctrine nouvelle)
 - Monkey D. Luffy, Roronoa Zoro, Nami - cf. fiches (essentiellement hors POV sur l'assaut)
 - Sanji - la gare, l'intrus du train - cf. Personnages/Sanji
 - Tony Tony Chopper - les herbes, le chevet - cf. Personnages/Tony_Tony_Chopper
 - Usopp / Sogeking - hors POV (episode manque) - cf. Personnages/Usopp
-- Franky - le wagon, le poing, les plans, le fragment, le Sunny, REJOINT - cf. Personnages/Franky (gros paquet en file)
-- Iceburg - "Tete de granite", l'amnesie feinte, le chantier, le mot du depart - cf. Personnages/Iceburg (paquet en file)
-- Kokoro - l'absolution du chevet - cf. Personnages/Tom_Kokoro (paquet en file)
-- Spandam et Funkfreed - cf. Personnages/Spandam_Spandine (paquet en file + correctif cible)
+- Franky - le wagon, le poing, les plans, le fragment, le Sunny, REJOINT - cf. Personnages/Franky
+- Iceburg - "Tete de granite", l'amnesie feinte, le chantier, le mot du depart - cf. Personnages/Iceburg
+- Kokoro - l'absolution du chevet - cf. Personnages/Tom_Kokoro
+- Spandam et Funkfreed - cf. Personnages/Spandam_Spandine (correctif cible)
 - Monkey D. Garp - fiche NOYAU CREEE cette boucle - cf. Personnages/Monkey_D_Garp
 - Koby - fiche NOYAU CREEE cette boucle - cf. Personnages/Koby
 - CP9 : Lucci, Kaku, Kalifa, Blueno - fiche groupee CREEE cette boucle - cf. Personnages/CP9_CP0

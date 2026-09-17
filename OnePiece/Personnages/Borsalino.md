@@ -1,9 +1,9 @@
 # Borsalino (Kizaru)
 
-- version : W2
-- note de version : W2 - versement du paquet R8 (build Sabaody, boucle serree) : Trajectoire an 0 - Sabaody, canon pur (Supernovae, Zoro, Rayleigh, Kuma) ; Sentomaru en silhouette portee. Aucun contact avec les jumelles (decision worldbuilder). Noyau inchange. W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Entite canon ; NOYAU tronque a la veille de Sabaody (an 0). Ecarte : Zephyr et la formation commune avec Sakazuki (Film Z, non canon). Decision worldbuilder : AUCUN lien particulier avec les jumelles - canon pur ; leur relation d'amiral, c'est Kuzan.
+- version : W3
 
 FRONTIERE DU NOYAU : veille de Sabaody (an 0), premiere entree en scene face aux jumelles. Tout le posterieur : strate Trajectoire.
+PERIMETRE : ecartes - Zephyr et la formation commune avec Sakazuki (Film Z, non canon).
 
 ## Identite
 - Borsalino, dit Kizaru ("le Singe Jaune"). Amiral de la Marine. Entite canon.

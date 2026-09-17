@@ -1,7 +1,6 @@
 # Spandam, Spandine et Funkfreed
 
-- version : W3
-- note de version : W3 - versement du paquet R6 (journal W25) : CORRECTIF de noyau - la cible "plans" a la veille de l'operation est la piste ICEBURG (erreur d'intel du CP9), reattribuee a Cutty Flam en cours d'operation sur la description donnee par les jumelles. Golden Escargophone : dotation de FONCTION du chef de Cipher Pol (l'incertain d'attribution est void). Trajectoire de Spandam alimentee (an 0, R6 : sacoche, revelation de la filiation, tabassage, paire unique, poing de Franky, escargophone dore, coupe Funkfreed, dos brise, dechu).
+- version : W4
 
 Fiche unique : la dynastie Spandine-Spandam du Cipher Pol, et l'epee Funkfreed. Entites canon.
 FRONTIERES DU NOYAU (par entite, regle actee) : Spandine <= son debarquement a Ohara (J-0 du Buster Call) ; Spandam et Funkfreed <= veille de l'operation de capture (Water 7, an 0).

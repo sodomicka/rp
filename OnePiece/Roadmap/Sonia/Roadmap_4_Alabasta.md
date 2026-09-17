@@ -1,7 +1,6 @@
 # Roadmap 4 - Alabasta
 
-- version : W2
-- note de version : W2 - RECTIFICATION PLUTON (actee au build R5, option A - canon retabli, ch. 202-203) : le poneglyphe de la tombe des rois parle de PLUTON, pas de Poseidon ; la fausse traduction de Sonia couvre PLUTON ; etape 7, casting (Cobra) et jalons transverses rectifies. Poseidon est localise en R5 (cloche de Shandora) ; BIBLE a rectifier au prochain BIBLE BUILD (en file au journal). W1 - build initial (boucle serree de Passe 2), scenes clefs DICTEES par le worldbuilder (Whiskey Peak a deux, casino Wapol et chambre, Pell, route d'Alubarna, relink Tashigi, tombe des rois, cale). Tous les [A POSER] du garde cap tranches : face-a-face Zoro (beat des couteaux, dette Mr. 7 / Mr. 1 ; detail de l'operation an -1 reconcilie au canon et verse en R3 W2) ; livraison Wapol en personne au casino, fenetre Little Garden (trame Live Action S2E6 adaptee, dictee) ; frontiere Chopper : Alabasta, aucun contact avant. Fils nouveaux actes : carte Vivi jouee a la demande (mecanisme Mr. 5 / Miss Valentine conserve), armement prepare des jumelles (gourde, couteaux, antidote), relink public des identites a Alubarna, dog whistle Aokiji (route vers R5), borne de sortie deplacee (intronisation -> R5). Retrofit emis : R3 bumpee W2 (etape 7bis, etape 8 detaillee, etape 9 amendee). Doctrine R3 reconduite : aucun incertain residuel, aucune roue libre - le MJ narre et invente DANS le cadre, jamais le cadre.
+- version : W3
 - prota / POV : Nico Sonia (les jumelles, jouees ensemble)
 - statut : ECRITE
 - echelle temporelle : environ deux semaines in-world de la veille de Whiskey Peak a la nuit d'Alubarna [approximation depuis le rythme canon], plus quelques jours de mer pour l'epilogue de cale (an 0, 28 ans)
@@ -13,8 +12,8 @@ La chute du protecteur-bourreau. Les jumelles jouent leur derniere partie de Bar
 
 ## La carte Vivi (acte)
 - La revelation de l'infiltration de la princesse est jouee par les jumelles AU MOMENT de la demande d'aller a Whiskey Peak (etape 1) : monnaie d'echange et pretexte a la fois.
-- Presentee en decouverte fraiche du bureau [IMPLICITE de la decision : l'anciennete reelle du savoir (percee an -2) et la visite de Robin (an -1, R3 W2 etape 7bis) restent leur secret absolu - les avouer serait signer leur arret].
-- Le pion est deja ARME (R3 W2, etape 7bis) : Vivi sait que Mr. 0 = Crocodile, connait le plan de la misere nationale, et cherchait quelqu'un de solide pour le renverser. L'equipage de Roronoa est son candidat. Les jumelles vont EVALUER l'arme.
+- Presentee en decouverte fraiche du bureau [IMPLICITE de la decision : l'anciennete reelle du savoir (percee an -2) et la visite de Robin (an -1, R3 etape 7bis) restent leur secret absolu - les avouer serait signer leur arret].
+- Le pion est deja ARME (R3, etape 7bis) : Vivi sait que Mr. 0 = Crocodile, connait le plan de la misere nationale, et cherchait quelqu'un de solide pour le renverser. L'equipage de Roronoa est son candidat. Les jumelles vont EVALUER l'arme.
 - Mecanisme canon conserve : Crocodile depeche Mr. 5 et Miss Valentine pour eliminer ceux qui connaissent le secret de la princesse.
 
 ## L'armement prepare (acte)
@@ -24,7 +23,7 @@ La chute du protecteur-bourreau. Les jumelles jouent leur derniere partie de Bar
 
 ## Itineraire (etapes)
 
-1. La carte jouee (an 0, 28 ans). Couture avec R3 (etape 9 W2) : a la demande d'aller a Whiskey Peak, les jumelles revelent l'infiltration de Miss Wednesday - presentee en decouverte fraiche. Crocodile accorde (comptabilite : reparer la perte de l'ex-Mr. 7, colmater la fuite) et depeche Mr. 5 et Miss Valentine. Interieur des jumelles, double tableau : ou bien le pion qu'elles surveillent a rameute une arme capable de faire tomber Crocodile, ou bien l'opportunite n'est pas la bonne et elles patienteront.
+1. La carte jouee (an 0, 28 ans). Couture avec R3 (etape 9) : a la demande d'aller a Whiskey Peak, les jumelles revelent l'infiltration de Miss Wednesday - presentee en decouverte fraiche. Crocodile accorde (comptabilite : reparer la perte de l'ex-Mr. 7, colmater la fuite) et depeche Mr. 5 et Miss Valentine. Interieur des jumelles, double tableau : ou bien le pion qu'elles surveillent a rameute une arme capable de faire tomber Crocodile, ou bien l'opportunite n'est pas la bonne et elles patienteront.
 
 2. Whiskey Peak (dictee). Nuit canon en toile de fond : l'accueil-piege, Zoro demonte les chasseurs de primes, l'identite de Vivi exposee a l'equipage, Mr. 5 et Miss Valentine battus. Epilogue a deux : le navire-leurre d'Igaram explose (oeuvre des jumelles ; survie d'Igaram = intention, conforme canon). Sur le Merry : Robin la mysterieuse, calmement assise, prete a clutch si besoin ; Sonia l'excentrique, marchant sur les mains, confiance absolue en sa soeur et en son propre Haki. Robin subtilise le chapeau de Luffy (Hana Hana), expose n'avoir aucun ordre concernant Vivi, rend le chapeau. Sonia prend la releve : se remet sur ses pieds et jongle avec trois couteaux de graphene en fixant Zoro droit dans les yeux - il leur manque un Mister 7 par sa faute, mais au moins elles ont deniche un Mister 1 pour la place vacante de l'epoque ; s'il arrive a le battre, ils seront quittes. Sanji ne menace pas : il est la, fige-frustre, refusant de menacer deux adversaires qui se sont clairement identifiees comme femmes. L'Eternal Pose vers Nanimonai : jete nonchalamment par Sonia en poirier ; Luffy l'ecrase - personne ne decide de leur route. Depart en tortue Banchi, dans une nuee de petales de Robin.
 
@@ -44,17 +43,17 @@ La chute du protecteur-bourreau. Les jumelles jouent leur derniere partie de Bar
 - Serment de Sonia - PREMIERE DETONATION (Tchekhov "Crocodile libre", BIBLE SB8) : Crocodile tombe par la main d'un autre. Seconde detonation : R9.
 - Relink public des identites (Alubarna, Tashigi) : les noms Nico relies aux noms de code, a deux. Alimente le [A POSER] primes de R6.
 - Dog whistle Aokiji (acte, conforme canon) : le relink d'Alubarna reveille le radar dormant depuis R3 ; Aokiji remonte la trace des Mugiwara - apparition fin R5, Long Ring Long Land.
-- Seed Sanji (etape 3, la chambre) : detonation R5 (beat en mer ; garde-fous W6 : jamais nomme, jamais verbalise, jamais repete).
+- Seed Sanji (etape 3, la chambre) : detonation R5 (beat en mer ; garde-fous : jamais nomme, jamais verbalise, jamais repete).
 - Dette Mr. 1 : soldee par le duel canon Zoro vs Daz Bonez a Alubarna. Recrutement de Daz Bonez posterieur a l'an -1 [DIVERGENCE RP - datation ; canon muet sur la date].
-- Pluton protege (rectification actee au build R5) : la stele de la tombe des rois porte l'histoire d'Alabasta et PLUTON [canon ch. 202-203 ; la W1 et la BIBLE B7 portaient Poseidon par erreur de nom d'arme] ; le bluff des jumelles couvre PLUTON. Poseidon : localise en R5 (cloche de Shandora).
+- Pluton protege (rectification actee au build R5) : la stele de la tombe des rois porte l'histoire d'Alabasta et PLUTON [canon ch. 202-203] ; le bluff des jumelles couvre PLUTON. Poseidon : localise en R5 (cloche de Shandora).
 - Erumalu : jalon requalifie (R3) TENU - confrontation muette au souvenir de la ville verte (R2), aucune decouverte, aucun beat impose ; placement en scene libre dans le cadre.
 - Livraison Wapol : soldee. Wapol chasse de Drum par l'equipage (canon) ; le mobile de Crocodile (tresor royal) reste de la comptabilite de fond.
 - Triangle d'Observation : dernier arc actif, s'eteint avec l'arrangement. Haki toujours TU vers l'equipage (bornes inchangees, revelation R10).
 - Premier contact Chopper : Alabasta, de loin, aucune interaction avant l'intronisation (acte).
 
 ## Casting convoque
-- Nico Sonia et Nico Robin - POV joueur - cf. Personnages/Nico_Sonia, Personnages/Nico_Robin (lignes Trajectoire an 0 en file au journal)
-- Crocodile / Mr. 0 - cf. Personnages/Crocodile (enrichissements R4 en file : accord des noms complete - vrais noms en prive, noms de code en public ; "inutiles" ; chute)
+- Nico Sonia et Nico Robin - POV joueur - cf. Personnages/Nico_Sonia, Personnages/Nico_Robin, Personnages/Nico_Jumelles_chrono_04
+- Crocodile / Mr. 0 - cf. Personnages/Crocodile (enrichissements R4 : accord des noms complete - vrais noms en prive, noms de code en public ; "inutiles" ; chute)
 - Nefertari Vivi - fiche NOYAU a creer CETTE BOUCLE (actee R3, execution boucle R4) - cf. Personnages/Nefertari_Vivi a la creation
 - Igaram / Mr. 8 - silhouette (survie a l'explosion du leurre : intention des jumelles, conforme canon)
 - Monkey D. Luffy - cf. Personnages/Monkey_D_Luffy (l'arme du serment ; sort Sonia et Cobra de la tombe)

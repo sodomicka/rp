@@ -1,7 +1,6 @@
 # Roadmap 3 - Baroque Works
 
-- version : W2
-- note de version : W2 - retrofit R4 : etape 7bis ajoutee (an -1, visite de Robin a Miss Wednesday en Alabasta - le pion arme, fin du savoir a sens unique, premiere separation volontaire de la vie des jumelles ; soir : routine type-2) ; etape 8 detaillee (dialogue de l'operation : place de Mr. 1 proposee sous preuve de force, Zoro exige la place de Mr. 0 sinon rien, "mieux mort que rival") ; etape 9 amendee (la revelation de l'infiltration de la princesse est jouee A LA DEMANDE, presentee en decouverte fraiche - execution : R4) ; jalon Hook Wapol cale (fenetre Little Garden, R4). W1 - build initial (boucle serree de Passe 2), peaufinage integral en consultation. Tous les [A POSER] du garde cap tranches : mecanique du recrutement (audience de Rainbase, dictee en detail) ; nouvelle de Tom (presse, via la routine du bureau, une fois integrees) ; organigramme et operations Miss Black Friday (renseignement mondial + pilotage a distance, routine du bureau actee - elles n'interviennent presque jamais en personne) ; hook Wapol ADOPTE mais route en R4. Fils nouveaux actes : triangle d'Observation, pivot an -3 (secheresse, dispute, scene B, serment, patience), scene A an -5, dissuasion de Robin a posteriori, Tchekhov "Miroir Viola", savoir a sens unique sur Vivi (entree an -2, canon verifie), requalification Erumalu, beat Whiskey Peak (equipage de Roronoa). Doctrine actee au build : aucun incertain residuel, aucune roue libre - le MJ narre et invente DANS le cadre, jamais le cadre.
+- version : W3
 - prota / POV : Nico Sonia (les jumelles, jouees ensemble)
 - statut : ECRITE
 - echelle temporelle : huit ans - du recrutement (an -8, 20 ans) a la veille de Whiskey Peak (an 0, 28 ans)
@@ -55,16 +54,16 @@ La cage doree. Les fugitives deviennent le sommet du renseignement d'une organis
 - Tchekhov "Miroir Viola" (NOUVEAU) : Crocodile et Doflamingo portent le MEME plan (prendre un royaume de l'interieur en jouant le heros) ; Doflamingo a reussi a Dressrosa ce que Crocodile rate a Alabasta ; Viola vit aupres de Doflamingo l'equivalent de l'arrangement de Sonia [dimension sexuelle : IMPLICITE au canon]. Plant : R3 (l'arrangement lui-meme). Detonation : R12 (rencontre, confidence). Consequence : a cadrer au build R12.
 - Fondation de Baroque Works : an -10 au plus tot, maintenu [DIVERGENCE RP - canon : fondation ~16 ans avant le present]. Balise actee au build R3.
 - Hook Wapol (Live Action S2E6) : ADOPTE, mais route en R4 - la livraison du Baku Baku no Mi est posterieure au repli de Wapol, chasse de Drum par Barbe Noire [cale au build R4 : attaque ~2-3 mois avant l'arrivee des Mugiwara a Drum ; livraison en personne au casino, fenetre Little Garden]. R3 n'en porte rien.
-- Haki : cf. section Triangle d'Observation. Correctifs BIBLE SB1 en file au journal (silence cible ; Armement tranche : Baltigo).
+- Haki : cf. section Triangle d'Observation. Cadre BIBLE SB1 (silence cible ; Armement tranche : Baltigo).
 
 ## Casting convoque
 - Nico Sonia et Nico Robin - POV joueur - cf. Personnages/Nico_Sonia, Personnages/Nico_Robin
-- Crocodile / Mr. 0 - patron, protecteur-exploiteur, partenaire des jumelles - cf. Personnages/Crocodile (enrichissements R3 en file au journal)
-- Nefertari Vivi / Miss Wednesday - silhouette lointaine an -2, receveuse de la visite an -1 (etape 7bis) - fiche NOYAU a creer (actee, en file au journal ; calibrage : princesse de royaume allie du POV des jumelles, meme etagere que Rebecca et Shirahoshi ; execution : boucle R4)
+- Crocodile / Mr. 0 - patron, protecteur-exploiteur, partenaire des jumelles - cf. Personnages/Crocodile
+- Nefertari Vivi / Miss Wednesday - silhouette lointaine an -2, receveuse de la visite an -1 (etape 7bis) - cf. Personnages/Nefertari_Vivi (calibrage : princesse de royaume allie du POV des jumelles, meme etagere que Rebecca et Shirahoshi)
 - Igaram / Mr. 8 - silhouette, pas de fiche (acte) - couverture percee avec celle de Vivi
 - Ex-Mr. 7 - silhouette, pas de fiche (acte) : emissaire sacrifie de l'operation Zoro
 - Roronoa Zoro - hors scene, cible de l'operation an -1 - cf. Personnages/Roronoa_Zoro
-- Tom et la maisonnee de Water 7 - hors scene, evoques par la nouvelle de la chute - cf. Personnages/Tom_Kokoro, Iceburg, Franky (lignes Trajectoire en file au journal)
+- Tom et la maisonnee de Water 7 - hors scene, evoques par la nouvelle de la chute - cf. Personnages/Tom_Kokoro, Iceburg, Franky
 - Spandam - hors scene, auteur du frame-up, jamais nomme par la presse [IMPLICITE] - cf. Personnages/Spandam_Spandine
 - Agents de Baroque Works - silhouettes : paires numerotees, cloisonnement, escorte du casino
 - Marine, presse mondiale - toile de fond du renseignement

@@ -1,7 +1,6 @@
 # Hogback, Absalom, Ryuma - les officiers de Thriller Bark
 
-- version : W1
-- note de version : W1 - creation au build R7 (boucle serree). Fiche GROUPEE sur le modele de CP9_CP0 : trois entites canon d'un meme arc, un seul NOYAU tronque a la veille de Thriller Bark (an 0). Victoria Cindry en silhouette a l'interieur de la fiche. Moria et Perona ont leur fiche propre.
+- version : W2
 
 FRONTIERE DU NOYAU : veille de Thriller Bark (an 0). Tout le posterieur : strate Trajectoire, commune aux trois.
 

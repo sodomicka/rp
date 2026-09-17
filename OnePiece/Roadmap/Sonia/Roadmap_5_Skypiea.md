@@ -1,7 +1,6 @@
 # Roadmap 5 - Skypiea
 
-- version : W1
-- note de version : W1 - build initial (boucle serree de Passe 2), scenes clefs DICTEES par le worldbuilder (intronisation et masques de Miss, beat Sanji place en premiere nuit, chaine Oden option C, Yama sans quartier, foudre sur les deux, debat sur le rapport a la mort, brume et combo face a Aokiji, congelation simultanee, sequelles). Tous les [A POSER] du garde cap tranches. RECTIFICATION MAJEURE actee en amont du build (option A) : poneglyphe d'Alabasta = PLUTON (canon retabli - la BIBLE portait une erreur de nom d'arme), cloche de Shandora = POSEIDON ; retrofits en file au journal (Roadmap_4 W2, garde cap W9, BIBLE). RETROPROPAGATION actee : croyance Klabautermann transmise par Tom (plant a ecrire en R2 W4, en file). Nouveaux Tchekhov : "Bons Marines" (detonation R6), "Klabautermann de Tom" (detonation R6). Direction de jeu actee : Zoro PLUS VIOLENT - chasseur de pirates, pas samaritain ; Ohm TUE [DIVERGENCE RP]. Enrichissements de fiches (Sanji, Kuzan, et les nouveaux paquets) DIFFERES au prochain thread sur decision du worldbuilder - files au journal W20. Doctrine reconduite : aucun incertain residuel, aucune roue libre - le MJ narre et invente DANS le cadre, jamais le cadre ; les ellipses sont PREPAREES (bornees, vides declares vides, reprise datee).
+- version : W2
 - prota / POV : Nico Sonia (les jumelles, jouees ensemble)
 - statut : ECRITE
 - echelle temporelle : deux a trois semaines in-world, dont quatre jours de fete shandia [approximation depuis le rythme canon] (an 0, 28 ans)
@@ -50,9 +49,9 @@ Retombee R13 (Zou) : la revelation Kozuki devient une CONFIRMATION d'hypothese d
 
 4. Cricket et la montee. Montblanc Cricket, l'heritage de Noland le Menteur ; Masira et Shoujou. Nuit de la chasse au South Bird, pendant laquelle Bellamy pille la maison ; aller-retour eclair de Luffy a Mock Town, un seul coup. Depart a l'aube, escorte des freres singes, Knock-Up Stream. Teach tente d'intercepter l'equipage : radeau brise par le courant [canon].
 
-5. Skypiea - entree et epreuves. Mer blanche, Heaven's Gate, Angel Beach : Conis et Pagaya, Gan Fall et Pierre, l'ex-"Dieu". Entree illegale : criminels. LE MANTRA : reconnaissance INSTANTANEE - c'est leur sens, elles en connaissent le nom depuis BW ; un regard echange, rien dit ; elles avertissent l'equipage sur le MECANISME sans le nommer (il percoit les intentions avant le geste) [le Haki reste TU, revelation R10]. Satori tombe face au trio canon (Luffy, Sanji, Usopp). Nuit de l'Autel Sacrificiel : attaque de Shura, Gan Fall et Pierre sauves par Chopper. LE KLABAUTERMANN : Usopp voit l'esprit reparer le Merry ; validation DISCRETE des jumelles - "nous, on te croit ; les meilleurs charpentiers du monde y croient tous" [pointe vers Tom sans le nommer ; plant retropropage en R2 W4, en file ; detonation R6, funerailles].
+5. Skypiea - entree et epreuves. Mer blanche, Heaven's Gate, Angel Beach : Conis et Pagaya, Gan Fall et Pierre, l'ex-"Dieu". Entree illegale : criminels. LE MANTRA : reconnaissance INSTANTANEE - c'est leur sens, elles en connaissent le nom depuis BW ; un regard echange, rien dit ; elles avertissent l'equipage sur le MECANISME sans le nommer (il percoit les intentions avant le geste) [le Haki reste TU, revelation R10]. Satori tombe face au trio canon (Luffy, Sanji, Usopp). Nuit de l'Autel Sacrificiel : attaque de Shura, Gan Fall et Pierre sauves par Chopper. LE KLABAUTERMANN : Usopp voit l'esprit reparer le Merry ; validation DISCRETE des jumelles - "nous, on te croit ; les meilleurs charpentiers du monde y croient tous" [pointe vers Tom sans le nommer ; plant retropropage en R2 ; detonation R6, funerailles].
 
-6. Le survival game - Shandora - Yama. Matin : scission bornee des groupes (canon), ouverture du jeu d'Enel sur toute l'ile. Trek des jumelles ENSEMBLE vers les ruines, l'archeologie comme aimant ; cueillette d'herbes medicinales de Sonia en chemin [vernis de sciences d'Ohara - clarification de socle en file]. Toile de fond canon : Chopper bat Gedatsu (son premier vrai solo, intouche), Zoro TUE Ohm [DIVERGENCE RP - canon : vaincu, vivant ; direction actee : un Zoro plus violent]. Aux ruines : YAMA, aucun quartier - Robin neutralise (clutch), Sonia egorge de sang froid. Le beat de Robin : sa petite soeur innocente devrait tenter de revenir, plutot que la femme que le monde a forcee a devenir violente. Enel parait, le decompte des survivants ; il les foudroie TOUTES LES DEUX - le grief (le chef de son Escouade Divine egorge dans son jardin) reste MUET ici. Autour d'elles, Zoro, Wyper et Gan Fall tombent aussi [canon] ; Nami epargnee, emmenee vers Maxim - TEMOIN.
+6. Le survival game - Shandora - Yama. Matin : scission bornee des groupes (canon), ouverture du jeu d'Enel sur toute l'ile. Trek des jumelles ENSEMBLE vers les ruines, l'archeologie comme aimant ; cueillette d'herbes medicinales de Sonia en chemin [vernis de sciences d'Ohara - clarification de socle]. Toile de fond canon : Chopper bat Gedatsu (son premier vrai solo, intouche), Zoro TUE Ohm [DIVERGENCE RP - canon : vaincu, vivant ; direction actee : un Zoro plus violent]. Aux ruines : YAMA, aucun quartier - Robin neutralise (clutch), Sonia egorge de sang froid. Le beat de Robin : sa petite soeur innocente devrait tenter de revenir, plutot que la femme que le monde a forcee a devenir violente. Enel parait, le decompte des survivants ; il les foudroie TOUTES LES DEUX - le grief (le chef de son Escouade Divine egorge dans son jardin) reste MUET ici. Autour d'elles, Zoro, Wyper et Gan Fall tombent aussi [canon] ; Nami epargnee, emmenee vers Maxim - TEMOIN.
 
 7. Apres la foudre. Reveil parmi les tombes des ruines, l'une cherchant l'autre avant meme d'ouvrir les yeux. Le finale reste HORS POV : Maxim, Luffy immunise, et L'ECLAT DE RAGE D'ENEL - l'annonce UNIQUE, entendue par Nami : "D'abord on tranche mon prelat et egorge mon commandant, et maintenant tu oses resister a ma foudre ?!". La cloche d'or sonne : les jumelles la vivent A TERRE, adossees l'une a l'autre. Redescente vers le camp.
 
@@ -68,7 +67,7 @@ Retombee R13 (Zou) : la revelation Kozuki devient une CONFIRMATION d'hypothese d
 - Danse de Nika : indice engrange, detonation R14 (Gear 5, Wano).
 - Condition d'Aokiji : test muet = repetition generale ; detonation R6 (Enies Lobby, "venez nous sauver, les amis").
 - Tchekhov "Bons Marines" (NOUVEAU) : plant etape 9 ; detonation R6 (Koby, Garp, Helmeppo) ; modalites au build R6.
-- Tchekhov "Klabautermann de Tom" (NOUVEAU, retropropage) : plant R2 W4 (annee Tom, a ecrire - en file) ; invocation etape 5 ; detonation R6 (funerailles du Merry ; Iceburg entend le navire [canon]).
+- Tchekhov "Klabautermann de Tom" (NOUVEAU, retropropage) : plant R2 (annee Tom) ; invocation etape 5 ; detonation R6 (funerailles du Merry ; Iceburg entend le navire [canon]).
 - Grammaire des nausees : plantee etape 2 (absence = liberation) ; retour R9 (Crocodile libere, serment retourne).
 - Combo clutch/egorgement : efficace sur la chair (Yama), nul sur un Logia (Aokiji) - graine de la motivation Armement, R9 (Baltigo).
 - Deux armes antiques localisees (Pluton R4 rectifie, Poseidon R5) : poids de la reddition, R6.
@@ -79,13 +78,13 @@ Retombee R13 (Zou) : la revelation Kozuki devient une CONFIRMATION d'hypothese d
 - Primes : aucun avis neuf pour les jumelles (Alabasta etouffee) ; [A POSER] primes maintenu en R6.
 
 ## Casting convoque
-- Nico Sonia et Nico Robin - POV joueur (lignes Trajectoire an 0 en file ; Sonia : clarification vernis sciences + pharmacopee, engelures, grammaire des nausees - en file)
-- Monkey D. Luffy - cf. Personnages/Monkey_D_Luffy (boussole vivre/mourir ; a tenu face a Aokiji ; recit d'Ace a Jaya - lignes en file)
-- Roronoa Zoro - cf. Personnages/Roronoa_Zoro (direction plus violent, Ohm tue, doctrine et reproche Crocodile - lignes en file)
-- Nami - cf. Personnages/Nami (temoin-vecteur de l'eclat d'Enel ; position Arlong - lignes en file)
-- Usopp - cf. Personnages/Usopp (chambre de fortune ; Klabautermann ; echappatoire digne - lignes en file)
+- Nico Sonia et Nico Robin - POV joueur - cf. Personnages/Nico_Jumelles_chrono_05 (Sonia : clarification vernis sciences + pharmacopee, engelures, grammaire des nausees)
+- Monkey D. Luffy - cf. Personnages/Monkey_D_Luffy (boussole vivre/mourir ; a tenu face a Aokiji ; recit d'Ace a Jaya)
+- Roronoa Zoro - cf. Personnages/Roronoa_Zoro (direction plus violent, Ohm tue, doctrine et reproche Crocodile)
+- Nami - cf. Personnages/Nami (temoin-vecteur de l'eclat d'Enel ; position Arlong)
+- Usopp - cf. Personnages/Usopp (chambre de fortune ; Klabautermann ; echappatoire digne)
 - Sanji - cf. Personnages/Sanji (LE BEAT ; rebuild du, DIFFERE au prochain thread - paquet au journal)
-- Tony Tony Chopper - cf. Personnages/Tony_Tony_Chopper (renne reconnu ; herbes et soins ; decongelation ; ethique de soin - lignes en file)
+- Tony Tony Chopper - cf. Personnages/Tony_Tony_Chopper (renne reconnu ; herbes et soins ; decongelation ; ethique de soin)
 - Kuzan (Aokiji) - cf. Personnages/Kuzan (rebuild du, DIFFERE au prochain thread - paquet au journal)
 - Marshall D. Teach - fiche NOYAU CREEE cette boucle (jamais vu des jumelles, nomme a posteriori) - cf. Personnages/Marshall_D_Teach
 - Silhouettes : Bellamy, Sarquiss, Montblanc Cricket, Masira, Shoujou, Conis, Pagaya, Gan Fall et Pierre, Satori, Shura, Gedatsu, Ohm (MORT [DIVERGENCE RP]), Enel, Wyper, Aisa, Yama (mort), Foxy, Porche, Hamburg, Tonjit et Shelly

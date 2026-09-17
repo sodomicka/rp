@@ -1,7 +1,6 @@
 # Roronoa Zoro
 
-- version : W5
-- note de version : W5 - versement du paquet R7 (build Thriller Bark) : Trajectoire an 0 (R7) - le test-danger du bras de Sonia (a sa demande), Ryuma et Shusui, jambe du Big Emperor, la bulle de Kuma et "il ne s'est rien passe" - secret a QUATRE [DIVERGENCE RP]. Noyau inchange. W4 - paquet R6 (assaut d'Enies Lobby, T-Bone epargne, prime).
+- version : W6
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 
@@ -57,6 +56,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 | an 0 (R7 - jours de mer) | A la DEMANDE de Sonia, la met en danger de mort pour reveiller son bras : la frole tout pile avec ses sabres, avec une vraie intention de tuer. Elle recule d'un reflexe qu'il prend pour un reflexe de survie ; le bras de graphene pousse et se dissout. Puis assiste a la methode Luffy-Usopp qui, elle, marche | Sait que le bras de Sonia revient sous la menace ; n'a rien vu qu'un reflexe [Haki tu] |
 | an 0 (R7 - Thriller Bark) | Ombre volee par Moria avec celles de Luffy et Sanji ; Jigoro, son zombie, frappe avec ses techniques. Ryuma : reprend le duel que Brook perd, gagne - la blessure prend feu ; Ryuma lui OFFRE SHUSUI (O Wazamono, lame noire), qui remplace Yubashiri. Oars : jambe du Big Emperor - DOCKING ACCOMPLI a six, Sonia au bras gauche [DIVERGENCE RP] ; Hyakuhachi Pound Ho au Shusui ; Sanzen Sekai pour redresser la colonne d'Oars. Ombre rendue a l'aube | Shusui acquis ; Yubashiri enterre deux jours plus tard a la tombe des Rumbar |
 | an 0 (R7 - Kuma) | Seul debout apres la bombe [avec les jumelles derriere leur mur - DIVERGENCE RP] ; entaille l'epaule de Kuma (Pacifista), defait ; offre sa vie contre celle de Luffy ; assomme Sanji venu offrir la sienne ; entre dans la bulle de douleur de Luffy - survit, debout, dans une mare de son sang. A Sanji : "il ne s'est rien passe". Les jumelles, qui ont TOUT VU et l'ont LAISSE, reviennent : secret a QUATRE - Zoro, Sanji, Robin, Sonia [DIVERGENCE RP - canon : Sanji seul, Robin a l'ecoute au banquet]. Inconscient deux jours | Blessures qui ne gueriront pas avant l'ellipse [canon] ; le secret tient a quatre, jamais Luffy |
+| an 0 (R8 - Sabaody) | Le Grove "1" ; Charloss : esquive, Bonney le plaque et joue sa mort ; porte le medecin abattu a l'hopital. Entre aux encheres avec Luffy sur un poisson volant, tranche le bocal de Camie. Groupe Usopp-Brook ; blessures de Thriller Bark ouvertes - KIZARU : a terre, Rayleigh devie le coup. Premier efface par Kuma, la question rituelle a lui seul | Le beat Haki chez Shakky lui explique le test-danger et le "joli coup" de Sonia. Disperse |
 
 ---
 

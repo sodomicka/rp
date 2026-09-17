@@ -1,9 +1,9 @@
 # Shakuyaku (Shakky)
 
-- version : W2
-- note de version : W2 - versement du paquet R8 (build Sabaody, boucle serree) : Trajectoire an 0 - premiere visite (sans les jumelles), puis le bar apres les encheres : face aux jumelles, respect mutuel [DIVERGENCE RP], temoin du beat Haki, Vivre Cards. Noyau inchange. W1 - creation au pre-build R8 (casting de Sabaody pose avant la roadmap, decision worldbuilder). Entite canon ; NOYAU tronque a la rencontre (Sabaody, an 0). Sous horizon : ch. 498 (Sabaody), 1059 (Imperatrice Kuja, soeurs Boa), 1096 (Hachinosu). HORS PERIMETRE, non importe : son enlevement pour God Valley et son sauvetage (ch. 1160, arc Elbaf).
+- version : W3
 
 FRONTIERE DU NOYAU : rencontre avec l'equipage, Sabaody (an 0). Tout le posterieur : strate Trajectoire.
+PERIMETRE : sous horizon - ch. 498 (Sabaody), 1059 (Imperatrice Kuja, soeurs Boa), 1096 (Hachinosu). HORS PERIMETRE, non importes : son enlevement pour God Valley et son sauvetage (ch. 1160, arc Elbaf).
 
 ## Identite
 - Shakuyaku, dite Shakky. Tenanciere du "Bar Arnaque" (Shakky's Rip-off Bar), Grove 13 de Sabaody. Ex-pirate ; ex-second puis capitaine des Pirates Kuja ; ex-IMPERATRICE d'Amazon Lily, deux generations avant Boa Hancock. Entite canon.

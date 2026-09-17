@@ -1,7 +1,6 @@
 # Roadmap 1 - West Blue
 
-- version : W2
-- note de version : W2 - retrofit acte au build R2 : modus operandi du croc-en-jambe, regime de logement, regle "jamais de demonstration visible" harmonisee. W1 - build initial.
+- version : W3
 - prota / POV : Nico Sonia (les jumelles, jouees ensemble)
 - statut : ECRITE
 - echelle temporelle : six ans - de la sortie des eaux d'Ohara (an -20, 8 ans) au passage en Grand Line (an -14, 14 ans)

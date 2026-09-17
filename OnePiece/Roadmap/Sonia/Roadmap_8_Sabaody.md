@@ -1,7 +1,6 @@
 # Roadmap 8 - Sabaody
 
-- version : W1
-- note de version : W1 - build initial (boucle serree de Passe 2), itineraire recompose depuis le canon (ch. 490-513, verifie One Piece Wiki) et les decisions dictees par le worldbuilder ; six etapes par lieu et par action, POV jumelles strict. Tous les [A POSER] du garde cap et du journal tranches : Kuma SANS UN MOT (la bulle unique est le signe) ; Rayleigh sent leur Observation - absorbe par le beat Haki ; PX-4 = "perdre son humanite" en actes, reconnaissable a l'ABSENCE de Bible (c'est a la Bible qu'on reconnait le vrai) ; Maison des Encheres - arrivee APRES le poing de Luffy, deposees par les Riders au bout de la recherche, haine intacte, AUCUNE action ; combat PX-4 manchote, declenchement du bras au grain (Passe 3) ; reaction de l'equipage a la projection commune : aucune hormis la main de Luffy (beat acte fin R7). DECISIONS NEUVES du build : (1) FIN DU "HAKI TU" - les jumelles exposent le Haki a l'equipage chez Shakky ; fil SB8 CLOS en R8 ; (2) LE JOURNAL des jumelles aux haut-parleurs du Sunny (jours de mer : primes, contexte du prochain lieu, epouvante pour Nami, Chopper et Usopp) - inaugure en R7, retropropage (Roadmap_7 W3, chrono_07 W5, Sunny W6) ; (3) LES COUTEAUX - Sonia se bat au couteau de lancer et vise de travers depuis Enies Lobby (desequilibre du bras manquant), frustree de n'etre utile que par son savoir ; lien couteaux/bras : quand le bras de graphene surgit, l'equilibre revient le temps du bras ; (4) jalon "premiere utilisation de Haki vue par l'equipage" requalifie : premiere utilisation LISIBLE - l'Armement sur un Logia ; les manifestations anterieures (Motobaro, la salle des encheres, Sentomaru) sont LUES par les jumelles, qui connaissent la taxonomie des trois formes (BW) ; (5) Rayleigh nomme CLOVER (canon ch. 507) : confirmation indirecte de l'hypothese R5, Oden jamais nomme ; (6) execution d'Ace jamais apprise sur l'arc (R9 intact) ; (7) Doflamingo silhouette (voix), fiche NOYAU a la boucle R12. Borne d'entree RECULEE a la sortie de R7 (ch. 490-494 : Red Line, Camie, Duval). Fiches versees au meme build : Nico_Jumelles_chrono_08 (W1, creee), Silvers_Rayleigh W2, Shakuyaku W2, Borsalino W2, Bartholomew_Kuma W3, Trafalgar_Law W2, Eustass_Kid_Killer W2, Jewelry_Bonney W2, Supernovae W2, Monkey_D_Luffy W6, Usopp W5, Tony_Tony_Chopper W5, Nami W4. Doctrine reconduite : aucun incertain residuel, aucune roue libre - le MJ narre et invente DANS le cadre, jamais le cadre ; ellipses PREPAREES.
+- version : W2
 - prota / POV : Nico Sonia (les jumelles, jouees ensemble)
 - statut : ECRITE
 - echelle temporelle : quelques jours de mer (Thriller Bark -> Red Line, canon "a few days") puis UNE SEULE JOURNEE sur l'archipel - arrivee, encheres, bar de Shakky et Grove 12 s'enchainent sans changement de jour [approximation depuis le rythme canon, ch. 496-513] (an 0, 28 ans)
@@ -12,13 +11,13 @@
 L'arc de la defaite totale et du pacte honore. Elles ont accepte a Thriller Bark d'etre envoyees loin ; Sabaody leur montre d'abord ce que "perdre son humanite" veut dire (les copies de Kuma, sans Bible), puis ce qu'elles apprendront a Baltigo (l'Armement de Rayleigh sur un Logia), puis l'homme lui-meme qui tient parole sans un mot. Entre les deux, le premier vrai partage avec l'equipage : chez Shakky, elles cessent de taire le Haki et donnent a Luffy le nom de ce qu'il a. Et une frustration nouvelle qui court tout l'arc : la lanceuse d'elite qui vise de travers, utile par ce qu'elle sait, pas par ce qu'elle fait.
 
 ## Le journal des jumelles (dicte - ajout, retropropage en R7)
-- Routine de bord : lors des jours de mer, les jumelles tiennent leur journal au studio de diffusion, a deux voix, tout le navire aux haut-parleurs. Contenu : nouvelles primes (presse embarquee), contexte sur le prochain lieu quand il est connu, histoires d'epouvante pour faire flipper Nami, Chopper et Usopp. Inaugure en R7 (jours de mer, apres la decouverte du studio - Roadmap_7 W3).
+- Routine de bord : lors des jours de mer, les jumelles tiennent leur journal au studio de diffusion, a deux voix, tout le navire aux haut-parleurs. Contenu : nouvelles primes (presse embarquee), contexte sur le prochain lieu quand il est connu, histoires d'epouvante pour faire flipper Nami, Chopper et Usopp. Inaugure en R7 (jours de mer, apres la decouverte du studio - Roadmap_7).
 - Sur cet arc : elles savent que le Log Pose mene a l'Ile des Hommes-Poissons, donc que la route passe par Sabaody et son coating (savoir de sommet, Sonia geographie / geopolitique). Contexte de l'archipel : les Dragons Celestes, l'esclavage, les bulles, le coating, la descente de dix mille metres ; l'histoire des hommes-poissons a deux voix (deux siecles de chasse et de traite, le traite avec le GM, Sabaody qui continue) [canon : Robin a Nami au Grove 30 - deplace ici] ; Jinbe evoque comme Grand Corsaire en poste - une tentative VAINE de reconcilier un gouvernement esclavagiste avec un peuple opprime [dicte ; savoir de dossier : les Sept] ; les primes du jour ; epouvante sur la Red Line et les dix mille metres.
 - Garde-fous : Rayleigh et Shakky JAMAIS nommes (savoir de dossier, pas de presse ; rien ne les relie au coating pour elles) ; la presse embarquee s'arrete a J-1 - l'execution d'Ace n'y est pas ; Jinbe est encore Corsaire, libre - son refus n'est nulle part avant Marineford (canon muet sur le jour, convocation donnee comme nouvelle du jour de Sabaody, ch. 504).
 - Consequence AU : quand Hatchan expliquera le coating et la regle des Dragons Celestes, l'equipage CONFIRMERA au lieu de decouvrir. Payoff du studio : huit ans de renseignement derriere les micros.
 
 ## Les couteaux et le bras (dicte)
-- Sonia se bat au couteau de lancer - lanceuse d'elite a deux bras (routine de Rainbase, beat des couteaux de R4). Depuis Enies Lobby, le bras manquant fausse l'equilibre du geste : trajectoires IMPRECISES. Elle veut aider, elle lance, ca part de travers. Frustration : utile par son savoir seulement, alors qu'elle aime se battre. Plante en R7 (la cible en bois d'Adam : le centre rate - Roadmap_7 W3).
+- Sonia se bat au couteau de lancer - lanceuse d'elite a deux bras (routine de Rainbase, beat des couteaux de R4). Depuis Enies Lobby, le bras manquant fausse l'equilibre du geste : trajectoires IMPRECISES. Elle veut aider, elle lance, ca part de travers. Frustration : utile par son savoir seulement, alors qu'elle aime se battre. Plante en R7 (la cible en bois d'Adam : le centre rate - Roadmap_7).
 - Sur cet arc : Duval (trio avec Nami et Robin), la sortie des encheres sous les Marines, PX-4 (des couteaux sur un Pacifista : frustration au sommet).
 - Lien couteaux / bras [dicte] : quand le bras de graphene surgit sous la menace (percee R7), l'equilibre revient - le temps du bras, elle lance juste. Declenchement laisse au grain (Passe 3). Retombee R9 : la prothese permanente de Baltigo, c'est le retour de la combattante - mesure concrete du fil SB8 "Le bras de Sonia".
 
@@ -76,23 +75,23 @@ L'arc de la defaite totale et du pacte honore. Elles ont accepte a Thriller Bark
 - Jinbe : evoque au journal comme Corsaire en poste, tentative vaine ; premiere rencontre R10 (garde-fou tenu).
 - Primes : inchangees (80M chacune). Aucun avis neuf pour l'equipage sur l'arc.
 - Secret a quatre (Zoro) : intact ; les blessures de Zoro sont publiques, pas leur cause.
-- Retombees versees : R9 (Tequila Wolf ensemble ; l'equipage sait le Haki ; retour de la combattante par la prothese ; Ace et Crocodile appris a Baltigo) ; R10 ([A POSER] Haki sans objet) ; R12 (Doflamingo : fiche NOYAU a creer a la boucle).
+- Retombees : R9 (Tequila Wolf ensemble ; l'equipage sait le Haki ; retour de la combattante par la prothese ; Ace et Crocodile appris a Baltigo) ; R10 ([A POSER] Haki sans objet) ; R12 (Doflamingo : fiche NOYAU a creer a la boucle).
 
 ## Casting convoque
 - Nico Sonia et Nico Robin - POV joueur - cf. Personnages/Nico_Jumelles_chrono_08 (creee cette boucle)
-- Monkey D. Luffy - Motobaro, le poing, le refus, le Rois nomme, la defaite, dernier efface - cf. Personnages/Monkey_D_Luffy (W6, verse)
-- Roronoa Zoro - le "1", Charloss, Kizaru, premier efface - cf. Personnages/Roronoa_Zoro (ligne R8 en file au journal)
-- Sanji - Duval, les Riders appeles, Flambage, efface - cf. Personnages/Sanji (ligne R8 en file)
-- Usopp - Gaon Cannon, Roswald, la question du One Piece, Atlas Suisei - cf. Personnages/Usopp (W5, verse)
-- Tony Tony Chopper - Roseo Metel, Monster Point - cf. Personnages/Tony_Tony_Chopper (W5, verse)
-- Nami - Hatchan, Grove 30, les 500M, Thunderbolt - cf. Personnages/Nami (W4, verse)
-- Franky - Chicken Voyage, Gaon, Coup de Vent, le poing sur Kuma - cf. Personnages/Franky (ligne R8 en file)
-- Brook - premier combat, la berceuse, Kizaru - cf. Personnages/Brook (ligne R8 en file)
-- Silvers Rayleigh - la cage, la salle, le bar, Kizaru - cf. Personnages/Silvers_Rayleigh (W2, verse)
-- Shakuyaku - le bar - cf. Personnages/Shakuyaku (W2, verse)
-- Borsalino (Kizaru) - Grove 27, les Supernovae, Zoro, Rayleigh ; Sentomaru en silhouette portee - cf. Personnages/Borsalino (W2, verse)
-- Bartholomew Kuma - Mary Geoise, la bulle - cf. Personnages/Bartholomew_Kuma (W3, verse)
-- Trafalgar Law, Eustass Kid et Killer, Jewelry Bonney, Supernovae (Hawkins, Apoo, Drake, Urouge, Bege) - cf. leurs fiches (W2, versees)
+- Monkey D. Luffy - Motobaro, le poing, le refus, le Rois nomme, la defaite, dernier efface - cf. Personnages/Monkey_D_Luffy
+- Roronoa Zoro - le "1", Charloss, Kizaru, premier efface - cf. Personnages/Roronoa_Zoro
+- Sanji - Duval, les Riders appeles, Flambage, efface - cf. Personnages/Sanji
+- Usopp - Gaon Cannon, Roswald, la question du One Piece, Atlas Suisei - cf. Personnages/Usopp
+- Tony Tony Chopper - Roseo Metel, Monster Point - cf. Personnages/Tony_Tony_Chopper
+- Nami - Hatchan, Grove 30, les 500M, Thunderbolt - cf. Personnages/Nami
+- Franky - Chicken Voyage, Gaon, Coup de Vent, le poing sur Kuma - cf. Personnages/Franky
+- Brook - premier combat, la berceuse, Kizaru - cf. Personnages/Brook
+- Silvers Rayleigh - la cage, la salle, le bar, Kizaru - cf. Personnages/Silvers_Rayleigh
+- Shakuyaku - le bar - cf. Personnages/Shakuyaku
+- Borsalino (Kizaru) - Grove 27, les Supernovae, Zoro, Rayleigh ; Sentomaru en silhouette portee - cf. Personnages/Borsalino
+- Bartholomew Kuma - Mary Geoise, la bulle - cf. Personnages/Bartholomew_Kuma
+- Trafalgar Law, Eustass Kid et Killer, Jewelry Bonney, Supernovae (Hawkins, Apoo, Drake, Urouge, Bege) - cf. leurs fiches
 - Silhouettes : Camie, Pappag, Hatchan, Duval (Motobaro, les Flying Fish / Rosy Life Riders), les Macro, Disco, Peterman, PX-4, PX-1, Sentomaru (fiche Borsalino), Charloss, Roswald, Shalulia, le geant esclave, Jean Bart, Lucueva, Bepo, Doflamingo (voix, hors POV - fiche NOYAU a la boucle R12), Sengoku (hors POV)
 - Historiques : Roger, Crocus, Shanks, Buggy (recit de Rayleigh), Clover (nomme), Arlong (Hatchan), Fisher Tiger (la marque)
 - Hors scene : Kuzan (contrainte BIBLE), Dragon (jamais nomme), Sabo (jamais nomme), Jinbe (evoque au journal seulement), Ace (jamais appris)

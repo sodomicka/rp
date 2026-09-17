@@ -1,7 +1,6 @@
 # Iceburg
 
-- version : W5
-- note de version : W5 - correctif chrono (B10, signale au Resume) : le delai entre l'annee Tom et l'an 0 passe de "onze" a "huit" - annee Tom an -9/-8, retombees an 0, huit ans apres la fuite (BIBLE SB3 ; Roadmap_6 le disait deja). W4 - versement du paquet R6 (journal W25) : retrofits de noyau sur l'annee Tom (surnom "Tete de granite" donne par Sonia ; la lecon du noeud, heritee des veillees de Tom) ; Trajectoire an 0 (R6) - grille par le surnom, assomme, amnesie FEINTE, la voix du Merry a l'Aqua Laguna, le chantier du Sunny, le mot du depart a Franky.
+- version : W6
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= ouverture de l'arc Water 7 (an 0).
 

@@ -1,7 +1,6 @@
 # Tom et Kokoro
 
-- version : W6
-- note de version : W6 - correctif chrono (B10, signale au Resume) : le delai entre l'annee Tom et l'an 0 passe de "onze" a "huit" - annee Tom an -9/-8, retombees an 0, huit ans apres la fuite (BIBLE SB3 ; Roadmap_6 le disait deja). W5 - versement du paquet R6 (journal W25) : retrofit de noyau (Tom - la lecon du noeud, transmise aux veillees d'atelier) ; Trajectoire de Kokoro alimentee (an 0, R6 : le chevet de Sonia, l'absolution portee a la maisonnee).
+- version : W7
 
 Fiche unique : le maitre charpentier de Water 7 et la secretaire de Tom's Workers - le foyer du sejour des jumelles an -9/-8 [DIVERGENCE RP]. Entites canon.
 FRONTIERES DU NOYAU (par entite, regle actee) : Tom <= sa chute (an -8) - fiche 100 pour cent noyau, aucune Trajectoire ; Kokoro <= ouverture de l'arc Water 7 (an 0).

@@ -1,9 +1,9 @@
 # Perona
 
-- version : W1
-- note de version : W1 - creation au build R7 (boucle serree). Entite canon ; NOYAU tronque a la veille de Thriller Bark (an 0). Fiche pleine (elle reparait pendant l'ellipse et au-dela) ; le posterieur vit en Trajectoire.
+- version : W2
 
 FRONTIERE DU NOYAU : veille de Thriller Bark (an 0), premiere entree en scene face aux jumelles. Tout le posterieur : strate Trajectoire.
+Fiche pleine : elle reparait pendant l'ellipse et au-dela ; le posterieur vit en Trajectoire.
 
 ## Identite
 - Perona, dite "la Princesse Fantome". Commandante des Wild Zombies et des Surprise Zombies de Thriller Bark ; l'un des Quatre Mysterieux. Entite canon.

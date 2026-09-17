@@ -1,7 +1,6 @@
 # Nico Jumelles - chrono 00 - Trajectoire datee, R0 - Ohara
 
-- version : W3
-- note de version : W3 - B10 : mention "exception One Piece" retiree du chapeau (decision worldbuilder). W2 - RENOMMAGE au build B10 (arbitrage worldbuilder, convention v8.4 des pages satellites <Entite>_chrono_<N>) : Trajectoire_Jumelles_00.md -> Nico_Jumelles_chrono_00.md. Contenu inchange, titre et fin de fichier recales. W1 - creation par SCISSION de Trajectoire_Jumelles.md W5 (decision worldbuilder) : UNE page de Trajectoire PAR ROADMAP, numerotee sur l'arc. Contenu repris SANS modification de fond ; la page unique est supprimee du repo.
+- version : W4
 
 Strate Trajectoire datee de Nico Sonia et Nico Robin pour l'arc R0 - Ohara. Deportee des fiches noyau en pages satellites chrono (convention v8.4) ; specificites locales : une page par roadmap, chrono commune aux deux jumelles. Regles inchangees (SPEC) : alimentation a chaud en Passe 2, arc par arc ; canon par defaut, neutre, reutilisable entre parties ; forme telegraphique ; le delta d'une partie va en Parties/ et surclasse cette strate pour la partie concernee.
 Decoupage : une page par roadmap - Nico_Jumelles_chrono_00 (R0) a _15 (R15), creees au fil des builds. Aucun plafond de taille : le decoupage EST le plafond.

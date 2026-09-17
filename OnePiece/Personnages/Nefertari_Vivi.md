@@ -1,6 +1,6 @@
 # Nefertari Vivi
 
-- version : W2
+- version : W3
 
 Entite canon. FRONTIERE DU NOYAU (regle actee : premiere entree en scene dans le RP) : <= veille de l'arrivee des Mugiwara a Whiskey Peak (an 0) - matiere R4. Calibrage acte : du POV des jumelles, princesse de royaume allie - meme etagere que Rebecca et Shirahoshi, pas une co-protagoniste.
 
@@ -28,7 +28,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee : premiere entree en scene dans le
 - an -3/-2 : la secheresse orchestree a la Dance Powder ronge le royaume ; la rumeur accuse le roi Cobra. Erumalu meurt. La colere populaire monte, Kohza en devient la figure.
 - an -2 (14 ans) : avec Igaram, infiltre Baroque Works pour identifier Mr. 0 et prouver le complot contre la couronne [canon verifie]. Gravit les echelons jusqu'au poste d'agente frontaliere : Miss Wednesday, Whiskey Peak.
 - an -2, l'angle mort [DIVERGENCE RP] : sa couverture passe l'ecran de recrutement de BW - mais pas celui des jumelles Nico. Figures royales publiquement documentees, flagrant pour deux specialistes d'histoire et de geopolitique : couverture percee IMMEDIATEMENT par le sommet du renseignement. Savoir a sens unique pendant un an - Vivi ne les a vues que de loin et ne soupconne RIEN. Les jumelles ne disent rien a Mr. 0 : la princesse legitime est leur piece gardee.
-- an -1, LA VISITE (15 ans) [DIVERGENCE RP - R3 W2, etape 7bis] : Robin vient la trouver seule, une journee. Elle lui donne ce que deux ans d'infiltration ne lui avaient pas donne - Mr. 0 est Crocodile, le heros national ; le plan est la misere organisee d'un peuple entier jusqu'a la chute de la couronne. Et un conseil : chercher quelqu'un d'assez solide pour le renverser, parce qu'elle n'y arrivera pas seule. La piece gardee devient une piece ARMEE.
+- an -1, LA VISITE (15 ans) [DIVERGENCE RP - R3, etape 7bis] : Robin vient la trouver seule, une journee. Elle lui donne ce que deux ans d'infiltration ne lui avaient pas donne - Mr. 0 est Crocodile, le heros national ; le plan est la misere organisee d'un peuple entier jusqu'a la chute de la couronne. Et un conseil : chercher quelqu'un d'assez solide pour le renverser, parce qu'elle n'y arrivera pas seule. La piece gardee devient une piece ARMEE.
 - Fin du savoir a sens unique (an -1) : Vivi sait desormais que deux femmes du sommet de Baroque Works connaissent son identite et la couvrent depuis un an. Elle IGNORE leurs noms, leurs visages et leurs raisons.
 - an -1 -> an 0 : elle cherche son homme solide. L'equipage d'un chasseur de pirates nomme Roronoa remonte jusqu'a elle.
 

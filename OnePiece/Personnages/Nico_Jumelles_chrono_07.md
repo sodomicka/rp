@@ -1,7 +1,6 @@
 # Nico Jumelles - chrono 07 - Trajectoire datee, R7 - Thriller Bark
 
-- version : W5
-- note de version : W5 - retrofit du build R8 (decisions worldbuilder) : le JOURNAL des jumelles inaugure aux jours de mer (ligne Sonia et ligne Robin) ; LES COUTEAUX - le centre de la cible rate, frustration (ligne Sonia) ; deltas "Haki toujours tu" recales : tu jusqu'a Sabaody (R8). W4 - B10 : mention "exception One Piece" retiree du chapeau (decision worldbuilder). W3 - RENOMMAGE au build B10 (arbitrage worldbuilder, convention v8.4 des pages satellites <Entite>_chrono_<N>) : Trajectoire_Jumelles_07.md -> Nico_Jumelles_chrono_07.md. Contenu inchange, titre et fin de fichier recales. W2 - decision worldbuilder (pre-build R8) : le carnet rouge retourne dans la sacoche de Sonia apres le pacte de Kuma - ajoute a la ligne Thriller Bark de Sonia (evenement et delta). W1 - creation au build R7 (boucle serree), une page par roadmap. Deux lignes par jumelle : les jours de mer d'ouverture (le Sunny, le bras), puis Thriller Bark.
+- version : W6
 
 Strate Trajectoire datee de Nico Sonia et Nico Robin pour l'arc R7 - Thriller Bark. Deportee des fiches noyau en pages satellites chrono (convention v8.4) ; specificites locales : une page par roadmap, chrono commune aux deux jumelles. Regles inchangees (SPEC) : alimentation a chaud en Passe 2, arc par arc ; canon par defaut, neutre, reutilisable entre parties ; forme telegraphique ; le delta d'une partie va en Parties/ et surclasse cette strate pour la partie concernee.
 Decoupage : une page par roadmap - Nico_Jumelles_chrono_00 (R0) a _15 (R15), creees au fil des builds. Aucun plafond de taille : le decoupage EST le plafond.
