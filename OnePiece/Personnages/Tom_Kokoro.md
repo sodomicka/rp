@@ -1,7 +1,7 @@
 # Tom et Kokoro
 
-- version : W5
-- note de version : W5 - versement du paquet R6 (journal W25) : retrofit de noyau (Tom - la lecon du noeud, transmise aux veillees d'atelier) ; Trajectoire de Kokoro alimentee (an 0, R6 : le chevet de Sonia, l'absolution portee a la maisonnee).
+- version : W6
+- note de version : W6 - correctif chrono (B10, signale au Resume) : le delai entre l'annee Tom et l'an 0 passe de "onze" a "huit" - annee Tom an -9/-8, retombees an 0, huit ans apres la fuite (BIBLE SB3 ; Roadmap_6 le disait deja). W5 - versement du paquet R6 (journal W25) : retrofit de noyau (Tom - la lecon du noeud, transmise aux veillees d'atelier) ; Trajectoire de Kokoro alimentee (an 0, R6 : le chevet de Sonia, l'absolution portee a la maisonnee).
 
 Fiche unique : le maitre charpentier de Water 7 et la secretaire de Tom's Workers - le foyer du sejour des jumelles an -9/-8 [DIVERGENCE RP]. Entites canon.
 FRONTIERES DU NOYAU (par entite, regle actee) : Tom <= sa chute (an -8) - fiche 100 pour cent noyau, aucune Trajectoire ; Kokoro <= ouverture de l'arc Water 7 (an 0).
@@ -31,7 +31,7 @@ FRONTIERES DU NOYAU (par entite, regle actee) : Tom <= sa chute (an -8) - fiche 
   - Venue de l'ile des Hommes-Poissons avec Tom ; pilier administratif et moral de l'atelier ; temoin de toute l'affaire (proces, sursis, construction du train, chute).
   - an -9/-8 [DIVERGENCE RP] : fait partie de la maisonnee mise au parfum par Tom sur l'identite des jumelles. Un an de quotidien partage : sa table est la premiere table familiale des jumelles depuis Ohara - reflexe persistant des deux de partager une seule part. Au matin de la fuite, decouvre comme les autres deux lits vides.
   - Apres an -8 : Shift Station et la bouteille. Son fils lui confie Chimney, sa petite-fille, flanquee de Gonbe, lapin persuade d'etre un chat.
-- Etat a la frontiere (ouverture Water 7, an 0) : chef de gare de Shift Station, entre deux verres, Chimney et Gonbe dans les jambes. Elle n'a pas revu les jumelles depuis onze ans.
+- Etat a la frontiere (ouverture Water 7, an 0) : chef de gare de Shift Station, entre deux verres, Chimney et Gonbe dans les jambes. Elle n'a pas revu les jumelles depuis huit ans.
 
 ## Relations (<= frontieres respectives)
 - Tom et Kokoro - des decennies de compagnonnage, de l'ile des Hommes-Poissons a l'atelier. Complicite totale.
@@ -46,7 +46,7 @@ FRONTIERES DU NOYAU (par entite, regle actee) : Tom <= sa chute (an -8) - fiche 
 (vide - alimentee a chaud en Passe 2, arc par arc.)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| an 0 (R6, Water 7) | Kokoro (Roadmap_6) : Chimney, Gonbe et elle a la nage pendant la fuite d'Enies Lobby [canon : la revelation sirene]. Puis, au chevet de Sonia pendant la convalescence, avec Chopper et Robin, elle porte L'ABSOLUTION au nom de la maisonnee : elles n'avaient pas a fuir, Tom est tombe quand meme, et pas par leur faute | Onze ans de culpabilite soldes en une phrase |
+| an 0 (R6, Water 7) | Kokoro (Roadmap_6) : Chimney, Gonbe et elle a la nage pendant la fuite d'Enies Lobby [canon : la revelation sirene]. Puis, au chevet de Sonia pendant la convalescence, avec Chopper et Robin, elle porte L'ABSOLUTION au nom de la maisonnee : elles n'avaient pas a fuir, Tom est tombe quand meme, et pas par leur faute | Huit ans de culpabilite soldes en une phrase |
 
 ---
 

@@ -1,7 +1,7 @@
 # Nico Robin
 
-- version : W7
-- note de version : W7 - build R7 : renvoi de Trajectoire etendu a _07 (R7 Thriller Bark, creee) ; verification du pointeur mort signale au journal - aucune occurrence dans cette fiche. Noyau inchange. W6 - SEUL changement : le renvoi de Trajectoire est recable sur la scission par roadmap (Trajectoire_Jumelles_00 a _06, l'ancienne page unique est supprimee). Son paquet R6 se resout integralement en strate deportee - noyau inchange.
+- version : W8
+- note de version : W8 - build B10 : renvoi de Trajectoire RECABLE sur les pages renommees Nico_Jumelles_chrono_00 a _07 (arbitrage worldbuilder, convention v8.4 des pages satellites). Noyau inchange. W7 - build R7 : renvoi de Trajectoire etendu a _07 (R7 Thriller Bark, creee) ; verification du pointeur mort signale au journal - aucune occurrence dans cette fiche. Noyau inchange. W6 - SEUL changement : le renvoi de Trajectoire est recable sur la scission par roadmap (Trajectoire_Jumelles_00 a _06, l'ancienne page unique est supprimee). Son paquet R6 se resout integralement en strate deportee - noyau inchange.
 
 ## Identite
 - Nico Robin. Jumelle ainee des Nico ; entite de lore, canon revisite par la gemellite [DIVERGENCE RP].
@@ -62,7 +62,7 @@
 - Peu d'objets en propre par ailleurs : les rayonnages de l'Arbre lui suffisent.
 
 ## Trajectoire datee
-Deportee (decision worldbuilder) : cf. WIKI Personnages/Trajectoire_Jumelles_00.md a _07.md - UNE page par roadmap (_00 = R0 Ohara ... _06 = R6 Water 7, _07 = R7 Thriller Bark), creees au fil des builds jusqu'a _15. Aucun plafond : le decoupage par arc EST le plafond. L'ancienne page unique Trajectoire_Jumelles.md est SUPPRIMEE.
+Deportee (decision worldbuilder) en pages satellites chrono, convention v8.4 : cf. WIKI Personnages/Nico_Jumelles_chrono_00.md a _07.md - UNE page par roadmap (_00 = R0 Ohara ... _06 = R6 Water 7, _07 = R7 Thriller Bark), creees au fil des builds jusqu'a _15 ; chrono COMMUNE aux deux jumelles (Nico_Sonia et Nico_Robin renvoient aux memes pages). Aucun plafond : le decoupage par arc EST le plafond. Anciens noms Trajectoire_Jumelles_00 a _07 (renommes au build B10) et page unique Trajectoire_Jumelles.md : SUPPRIMES du repo.
 
 ---
 

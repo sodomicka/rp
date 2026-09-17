@@ -1,7 +1,7 @@
 # Franky (Cutty Flam)
 
-- version : W3
-- note de version : W3 - versement du paquet R6 (journal W25) : retrofits de noyau sur l'annee Tom (surnoms "petite soeur a lunettes" et "petite soeur a frange" ; la lecon du noeud, heritee des veillees de Tom) ; Trajectoire an 0 (R6) - capture, le wagon, le poing sur Spandam, les plans brules, le fragment du Merry, le Sunny, REJOINT l'equipage.
+- version : W4
+- note de version : W4 - correctif chrono (B10, signale au Resume) : le delai entre l'annee Tom et l'an 0 passe de "onze" a "huit" - annee Tom an -9/-8, retombees an 0, huit ans apres la fuite (BIBLE SB3 ; Roadmap_6 le disait deja). Ligne Trajectoire R7 VERSEE (etait en file au journal). W3 - versement du paquet R6 (journal W25) : retrofits de noyau sur l'annee Tom (surnoms "petite soeur a lunettes" et "petite soeur a frange" ; la lecon du noeud, heritee des veillees de Tom) ; Trajectoire an 0 (R6) - capture, le wagon, le poing sur Spandam, les plans brules, le fragment du Merry, le Sunny, REJOINT l'equipage.
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= ouverture de l'arc Water 7 (an 0).
 Hors perimetre : toute revelation post-Egghead sur ses origines (arc Elbaf, canon en cours) - la fiche s'arrete aux faits etablis jusqu'a Egghead.
@@ -33,7 +33,7 @@ Hors perimetre : toute revelation post-Egghead sur ses origines (arc Elbaf, cano
 - an -4 : retour a Water 7. Nuit a l'entrepot avec Iceburg : les VRAIS plans de Pluton lui sont confies, l'identite "Franky" adoptee, ordre de quitter l'ile - refuse. Fonde la Franky Family : demolisseurs et chasseurs de primes, la maison des parias de la ville. Guerre de facade avec Galley-La.
 
 ## Etat a la frontiere (ouverture Water 7, an 0)
-- Boss de la Franky Family, les vrais plans de Pluton sur lui, mort pour l'etat civil. Onze ans sans revoir les jumelles - il sait, LUI, qui a dormi un an sous le toit de Tom. Ignore que le CP9 est en ville.
+- Boss de la Franky Family, les vrais plans de Pluton sur lui, mort pour l'etat civil. Huit ans sans revoir les jumelles - il sait, LUI, qui a dormi un an sous le toit de Tom. Ignore que le CP9 est en ville.
 
 ## Relations (<= frontiere)
 - Tom - le pere de substitution, la dette et la plaie. Kokoro, Yokozuna - la famille de l'atelier.
@@ -47,6 +47,7 @@ Hors perimetre : toute revelation post-Egghead sur ses origines (arc Elbaf, cano
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | an 0 (R6, Water 7 / Enies Lobby) | Capture par le CP9 et embarque sur le train des mers avec les jumelles. Dans le wagon, coeur ouvert : il ne leur a JAMAIS rien reproche - ses petites soeurs ne feront jamais rien de volontairement mauvais. A Enies Lobby : demande a etre demenotte pour remettre les plans, puis fracasse le visage de Spandam d'un poing - vengeance pour sa petite soeur a lunettes - avant de BRULER les plans de Pluton sous leurs yeux. Recoit ensuite de Sonia un fragment du mat du Merry, un seul mot : "Klabautermann" - il en fera une chasse vitree dans le mat du Thousand Sunny. Construit le Sunny a trois avec Iceburg et Sonia, surprises comprises. REJOINT l'equipage sur le mot d'Iceburg [DIVERGENCE RP - pas de chopage] | Les plans de Pluton n'existent plus. Charpentier des Mugiwara ; prime de 44M [canon]. L'ame du Merry navigue toujours, dans son mat |
+| an 0 (R7, Thriller Bark) | Mini Merry II, Canal 0 ; le pont casse, Tararan aux nunchakus de pierre ; TACTICS 15 - Docking accompli a SIX, Sonia au bras gauche vacant sur un bras Hana Hana de Robin [DIVERGENCE RP] ; cockpit de Moria vise, KO ; a terre a la bombe de Kuma ; tombe des Rumbar dressee avec Usopp. Revele a l'equipage que Brook est des Rumbar de Laboon (Roadmap_7) | Corps principal du Big Emperor ; premier combat d'equipage avec les jumelles a bord. Le Sunny a tenu le Triangle |
 
 ---
 

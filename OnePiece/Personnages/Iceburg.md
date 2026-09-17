@@ -1,7 +1,7 @@
 # Iceburg
 
-- version : W4
-- note de version : W4 - versement du paquet R6 (journal W25) : retrofits de noyau sur l'annee Tom (surnom "Tete de granite" donne par Sonia ; la lecon du noeud, heritee des veillees de Tom) ; Trajectoire an 0 (R6) - grille par le surnom, assomme, amnesie FEINTE, la voix du Merry a l'Aqua Laguna, le chantier du Sunny, le mot du depart a Franky.
+- version : W5
+- note de version : W5 - correctif chrono (B10, signale au Resume) : le delai entre l'annee Tom et l'an 0 passe de "onze" a "huit" - annee Tom an -9/-8, retombees an 0, huit ans apres la fuite (BIBLE SB3 ; Roadmap_6 le disait deja). W4 - versement du paquet R6 (journal W25) : retrofits de noyau sur l'annee Tom (surnom "Tete de granite" donne par Sonia ; la lecon du noeud, heritee des veillees de Tom) ; Trajectoire an 0 (R6) - grille par le surnom, assomme, amnesie FEINTE, la voix du Merry a l'Aqua Laguna, le chantier du Sunny, le mot du depart a Franky.
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= ouverture de l'arc Water 7 (an 0).
 
@@ -32,7 +32,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= ouverture de l'arc Water 7 (
 - an -4 : retour de Cutty Flam, cyborg, presume mort. Rencontre nocturne a l'ancien entrepot de Tom's Workers : "jamais je ne te pardonnerai" - et des larmes de le savoir vivant. Iceburg lui confie les VRAIS plans de Pluton ; Cutty Flam, legalement mort, adopte comme identite le surnom d'enfance "Franky" que lui donnait Iceburg (canon ch. 358) ; ordre de quitter l'ile. Refus. Depuis : ennemis publics (la Franky Family contre Galley-La), freres en prive - et gardiens du meme secret.
 
 ## Etat a la frontiere (ouverture Water 7, an 0)
-- Maire et president adules, Tyrannosaure en poche, saison de l'Aqua Laguna qui approche. Garde un FAUX plan de Pluton ; les vrais sont chez Franky depuis an -4. Entoure sans le savoir de quatre agents du CP9. N'a pas revu les jumelles depuis onze ans ; sait qu'elles ont fui pour proteger Tom - et que Tom est tombe quand meme.
+- Maire et president adules, Tyrannosaure en poche, saison de l'Aqua Laguna qui approche. Garde un FAUX plan de Pluton ; les vrais sont chez Franky depuis an -4. Entoure sans le savoir de quatre agents du CP9. N'a pas revu les jumelles depuis huit ans ; sait qu'elles ont fui pour proteger Tom - et que Tom est tombe quand meme.
 
 ## Relations (<= frontiere)
 - Tom - le maitre, la dette d'une vie. Kokoro - la memoire de l'atelier.
@@ -46,7 +46,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= ouverture de l'arc Water 7 (
 (vide - alimentee a chaud en Passe 2, arc par arc.)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| an 0 (R6, Water 7) | Onze ans apres, les jumelles reviennent - encapuchonnees, chez lui, pour lui voler les plans de Pluton. Sonia le grille en l'appelant "Tete de granite" sous le stress ; il cherche a COMPRENDRE plutot qu'a se defendre, n'a pas les vrais plans, se fait assommer. Retrouve inconscient, il declare une amnesie FEINTE [DIVERGENCE RP] : jamais dupe, jamais complice - leur raison devait etre juste, et terrible, et il refuse de les incriminer sans tout savoir. La nuit de l'Aqua Laguna, il ENTEND la voix du Going Merry et le rafistole - c'est ainsi que le navire arrive seul a Enies Lobby [mecanisme canon]. Apres l'arc : refuse d'abord Sonia au chantier, puis les trois travaillent comme a l'epoque - le Thousand Sunny, co-concu avec elle et Franky, surprises comprises. Au depart, c'est son mot qui fait embarquer Franky : lui veillera sur la maison | Sait desormais ce que les jumelles etaient pretes a lui faire, et pourquoi ; le lien tient. Galley-La a rendu un navire a l'equipage qui a brule le drapeau du GM |
+| an 0 (R6, Water 7) | Huit ans apres, les jumelles reviennent - encapuchonnees, chez lui, pour lui voler les plans de Pluton. Sonia le grille en l'appelant "Tete de granite" sous le stress ; il cherche a COMPRENDRE plutot qu'a se defendre, n'a pas les vrais plans, se fait assommer. Retrouve inconscient, il declare une amnesie FEINTE [DIVERGENCE RP] : jamais dupe, jamais complice - leur raison devait etre juste, et terrible, et il refuse de les incriminer sans tout savoir. La nuit de l'Aqua Laguna, il ENTEND la voix du Going Merry et le rafistole - c'est ainsi que le navire arrive seul a Enies Lobby [mecanisme canon]. Apres l'arc : refuse d'abord Sonia au chantier, puis les trois travaillent comme a l'epoque - le Thousand Sunny, co-concu avec elle et Franky, surprises comprises. Au depart, c'est son mot qui fait embarquer Franky : lui veillera sur la maison | Sait desormais ce que les jumelles etaient pretes a lui faire, et pourquoi ; le lien tient. Galley-La a rendu un navire a l'equipage qui a brule le drapeau du GM |
 
 ---
 
