@@ -1,9 +1,12 @@
 # Sebas Tian
 
-- version : W3
+- version : W4
 
 Amendement W2 : classement des karmas positifs retire ; Trajectoire datee alimentee - R1
 Berger Sincere (J0 -> J8).
+Amendement W4 : Trajectoire datee alimentee - R6 Le Majordome (J38 -> ~J68) ; doctrine
+bornee au consentement sexuel propagee (Psychologie) ; renvoi Tuare ; derogation de plafond
+10k (decision worldbuilder, 2026-09-17).
 
 Etat decrit : jour 0.
 
@@ -108,8 +111,9 @@ Etat decrit : jour 0.
   effort.
 - Il n'aime ni la luxure ni le mal. Il sert pourtant un Tombeau qui celebre les deux, sans
   que la contradiction entame sa loyaute : l'axiome des 41 passe avant son gout.
-- AUCUN DESIR AU JOUR 0, d'aucune sorte. La doctrine du Cardinal - il n'offre qu'a quiconque
-  quemande - fait qu'un homme qui ne demande rien ne recoit jamais rien.
+- AUCUN DESIR AU JOUR 0, d'aucune sorte. Il ne demande rien au Cardinal ; la doctrine du
+  consentement ne le concerne pas, et hors du lit Azoth agit de lui-meme (doctrine bornee,
+  cf. Personnages/Azoth.md).
 - PAROISSIEN REGULIER malgre le decor. Le motif tient en un point : cf. Rapports, AZOTH.
   Cf. Nazarick/Theologie_base.md.
 - Courtoisie constante, elocution soignee, exigence de tenue qu'il s'applique d'abord a
@@ -142,6 +146,14 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | J0 | Remercie Azoth d'avoir preche Touch Me a egalite d'Ulbert ; envoye seul en reperage exterieur, sur ordre de Momonga relaye | en reperage hors du Tombeau |
+| J38 | Part pour la capitale du Royaume avec Solution, en majordome de la fausse noble ; mission d'Ainz decidee J13, rapports a Azoth (decision worldbuilder ; canon : depart J10) | en mission |
+| J42, J49, J56, J63 | Rentre par parchemin pour l'office ; muet sur Tuare | - |
+| ~J43 | Ramasse Tuare a demi morte dans une ruelle, la garde au manoir, ne rapporte rien (canon). Aucun desir avant elle ; en tombe amoureux (decision worldbuilder) | amoureux |
+| ~J57 | Test de loyaute au manoir - le faux Ainz, Azoth, Demiurge, Cocytus : ordre de tuer Tuare ; frappe pour tuer ; Cocytus arrete le coup (canon). Devant le vrai Ainz, DEMANDE de garder Tuare, plaide contre Demiurge ; approuvee (canon) | loyaute prouvee ; Tuare sous le nom d'Ainz |
+| ~J64 | Tuare enlevee par les Huit Doigts ; rapporte a Azoth sur conseil de Solution (decision worldbuilder ; canon : a Ainz) | - |
+| ~J65 | Gehenna : tue les Six Bras, sauve Tuare (canon) | - |
+| ~J66 | Rentre au Tombeau avec Solution et Tuare ; mission finie | au Tombeau |
+| ~J68 | Plaidoyer de Pestonya et Nigredo pour les captifs : le porte a Azoth, lui demande de l'accompagner devant Ainz ; y siege en superieur direct (decision worldbuilder) ; refus, assignation a residence (canon) | - |
 
 ## Renvois
 
@@ -152,5 +164,6 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 - Arts Martiaux natifs et Talents : cf. Systemes/Systemes_Natifs.md.
 - Paliers internes : cf. Systemes/Echelle_Puissance.md.
 - Son superieur : cf. Personnages/Azoth.md. Son egale : cf. Personnages/Aureole_Omega.md.
+- Sa protegee : cf. Personnages/Tuare.md.
 
 FIN_WIKI_PERSONNAGES_SEBAS

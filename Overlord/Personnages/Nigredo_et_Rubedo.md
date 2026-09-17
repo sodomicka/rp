@@ -1,6 +1,9 @@
 # Nigredo et Rubedo - les soeurs d'Albedo
 
-- version : W1
+- version : W2
+
+Amendement W2 : Trajectoire datee alimentee - R6 Le Majordome (~J68, Nigredo) ; derogation
+de plafond 10k (decision worldbuilder, 2026-09-17) ; renvoi corrige (Prison Gelee : 5e).
 
 Etat decrit : jour 0. Fiche legere : les deux soeurs sont des figures de second plan du RP.
 
@@ -160,10 +163,11 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 
 | Date/ere | Entite | Evenement | Delta d'etat |
 |---|---|---|---|
+| ~J68 | Nigredo | Plaide avec Pestonya pour la grace des captifs de Gehenna, devant Ainz, Azoth et Sebas (canon ; forme : decision worldbuilder) ; refus, assignation a residence (canon) | assignee a residence |
 
 ## Renvois
 
-- Prison Gelee, 8e etage : cf. Nazarick/Tombeau.md.
+- Prison Gelee, 5e etage : cf. Nazarick/Tombeau.md.
 - Gardiens de zone, chaine d'ordres : cf. Nazarick/Organigramme.md.
 - Garde-fou, exception CZ, fecondite : cf. Nazarick/Regles_Internes.md et BIBLE SB1.
 - Paliers internes : cf. Systemes/Echelle_Puissance.md.

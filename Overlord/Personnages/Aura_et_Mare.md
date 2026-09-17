@@ -1,9 +1,10 @@
 # Aura Bella Fiora et Mare Bello Fiore
 
-- version : W3
+- version : W4
 
 Amendement W2 : karmas valides (decision worldbuilder) ; VF du baton de Mare fixee.
 Amendement W3 : Trajectoire datee alimentee - R5 Le Stratege (J34 -> J36).
+Amendement W4 : Trajectoire datee alimentee - R6 Le Majordome (~J65, Mare).
 
 Etat decrit : jour 0.
 
@@ -101,6 +102,7 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J12 | Suivent par sort le duel d'Ainz ; Aura taquine Shalltear a son reveil | - |
 | J34 soir | Salle du Trone, Gardiens assembles : la defaite de Cocytus (canon) | - |
 | J35-J36 | Sortent avec Ainz et les Gardiens : ultimatum, duel, resurrection des trois par Azoth (canon : les Gardiens accompagnent Ainz ; Aura attestee au duel) | - |
+| ~J65 | Mare, a Gehenna : envahit la villa d'Hilma Cygnaeus avec Entoma, ecrase son tatouage de vipere a main nue, l'emporte a Nazarick (canon) | - |
 
 ## Renvois
 

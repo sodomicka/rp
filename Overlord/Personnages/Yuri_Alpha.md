@@ -1,8 +1,9 @@
 # Yuri Alpha
 
-- version : W2
+- version : W3
 
 Amendement W2 : Trajectoire datee alimentee - R4 Le Confident (J15-J20).
+Amendement W3 : Trajectoire datee alimentee - R6 Le Majordome (J38 -> ~J68).
 
 Etat decrit : jour 0.
 
@@ -75,6 +76,9 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 |---|---|---|
 | J0 | Mise en etat d'alerte au 9e par Azoth, avec ses soeurs | - |
 | J15-J20 | Seance 1 avec Azoth : demande a apprendre a etre vulnerable ; il parle a coeur ouvert et attend la pareille ; repart genee, mais plus ouverte | fil : seance 1 faite |
+| J38-J41 | Seance 2 avec Azoth, chambre des desirs : discussions plus profondes ; la nudite comme dernier verrou de la gene ; face a face, nus ; repart genee mais plus ouverte | fil : seance 2 faite |
+| ~J65 | Gehenna, en demon de Jaldabaoth : fait eclater le Mur de Cristal d'Evileye d'une paume (canon) | - |
+| ~J68 | Formation de Tuare, servante humaine du 9e, confiee a elle apres l'assignation a residence de Pestonya (canon) | forme Tuare |
 
 ## Renvois
 
@@ -82,5 +86,6 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 - Chaine d'ordres, Six Etoiles : cf. Nazarick/Organigramme.md.
 - Office, corpus preche : cf. Nazarick/Theologie_base.md.
 - Vecteurs de soin : cf. Systemes/Magie.md.
+- Son eleve : cf. Personnages/Tuare.md.
 
 FIN_WIKI_PERSONNAGES_YURI_ALPHA

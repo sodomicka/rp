@@ -1,10 +1,11 @@
 # Demiurge
 
-- version : W5
+- version : W6
 
 Amendement W2 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
 Amendement W3 : Trajectoire datee alimentee - R2 Berger Perdu (J9 -> J11).
 Amendement W5 : Trajectoire datee alimentee - R5 Le Stratege (J34 -> J36).
+Amendement W6 : Trajectoire datee alimentee - R6 Le Majordome (~J57 -> ~J66).
 
 Etat decrit : jour 0.
 
@@ -115,6 +116,10 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J34 soir | Salle du Trone : propose a Ainz de garder les hommes-lezards en vie - l'experience d'un gouvernement sans la peur (canon) | - |
 | J35 | Sort avec Ainz et les Gardiens ; fait plier les chefs au sol devant Ainz (canon) | - |
 | J36 | Sort avec Ainz et les Gardiens : le duel de Cocytus, la resurrection des trois par son jumeau | - |
+| ~J57 | Manoir de la capitale, test de loyaute de Sebas avec "Ainz", Azoth et Cocytus ; devant le vrai Ainz, conteste a Sebas l'utilite de Tuare (canon). Ignore l'echange Ainz / Pandora's Actor | - |
+| ~J64 | Recoit d'Albedo, sur ordre d'Ainz, l'operation contre les Huit Doigts : Jaldabaoth (canon) | Jaldabaoth, pour le Royaume |
+| ~J65 | Gehenna, hors champ (canon) : sauve Entoma, combat truque contre Momon ; l'appareil des Huit Doigts et les captifs remontent a Nazarick | - |
+| ~J66 | Au retour : Azoth le remercie d'avoir sauve Entoma - sincere, sans aucune joute ; voit son frere simplement redevable (decision worldbuilder) | - |
 
 ## Renvois
 

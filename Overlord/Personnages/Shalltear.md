@@ -1,6 +1,6 @@
 # Shalltear Bloodfallen
 
-- version : W9
+- version : W10
 
 Etat decrit : jour 0.
 
@@ -12,6 +12,7 @@ Amendement W6 : Trajectoire datee alimentee - R3 Berger Martyr (J11 -> J12).
 Amendement W7 : le Collier de Rubis de Sang recu au J12.
 Amendement W9 : Trajectoire datee alimentee - R5 Le Stratege (J34 -> J36).
 Amendement W8 : fil recurrent avec Azoth et crise de legitimite (garde-cap W4) ;
+Amendement W10 : Trajectoire datee alimentee - R6 Le Majordome (~J64-J65).
 Trajectoire datee alimentee - R4 Le Confident (J12 soir).
 
 ## Identite
@@ -132,6 +133,7 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J12 soir | Revenue, chez Azoth : sexe, puis seance privee - il l'aide a se pardonner ; CRISE DE LEGITIMITE ouverte (fil recurrent jusqu'a l'arc des nains) | crise ouverte |
 | J34 soir | Salle du Trone, Gardiens assembles : la defaite de Cocytus (canon) | - |
 | J35-J36 | Sort avec Ainz et les Gardiens : ultimatum, duel, resurrection des trois par Azoth (canon : presente) | - |
+| ~J64-J65 | Convoquee par Demiurge pour Gehenna ; sort avec Mare et les Pleiades (canon). Crise de legitimite toujours ouverte | - |
 
 ## Renvois
 

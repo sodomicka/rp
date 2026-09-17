@@ -1,9 +1,11 @@
 # Entoma Vasilissa Zeta
 
-- version : W4
+- version : W5
 
 Amendement W2 : Trajectoire datee alimentee - R4 Le Confident (J14).
 Amendement W4 : Trajectoire datee alimentee - R5 Le Stratege (J28, J34).
+Amendement W5 : Trajectoire datee alimentee - R6 Le Majordome (~J65, ~J66) ; la voix perdue ;
+derogation de plafond 10k (decision worldbuilder, 2026-09-17).
 
 Etat decrit : jour 0.
 
@@ -123,6 +125,9 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J14 | Seance 1 avec Azoth, cuisines du 9e, apres l'office : intronisation - une viande passee pour humaine ; se regale, heureuse d'apprendre que c'etait du porc | fil : seance 1 faite |
 | J28 | Seance 2 avec Azoth, cuisines du 9e, apres l'office : boeuf, annonce cette fois ; il lui essuie une mandibule pleine de sauce, elle sent le contact sous la chitine, apprecie ; demande des caresses en plus de la nourriture | fil : seance 2 faite |
 | J34 | Au poste de commandement de Cocytus, observatrice mandatee par Ainz : rapporte l'ordre d'assaut a Ainz et Albedo ; apres la defaite, transmet a Cocytus le rappel d'Ainz (canon) | - |
+| ~J65 | Gehenna, en demon de Jaldabaoth : devore les gardes d'Hilma Cygnaeus, que Mare capture ; face a Evileye, perd son insecte-levre, a demi morte, sauvee par Jaldabaoth (canon) | sans voix ; a demi morte |
+| ~J66 | Rentre ; soignee par Azoth - le corps entier, rien pour la voix, irremplacable par les moyens du Tombeau. Ne parle plus que par necessite, de sa vraie voix ; reclame Evileye, pour lui prendre la sienne (canon) | sans voix |
+| ~J66 | Seance hors grille avec Azoth : il prend soin d'elle, douceur parfaite ; lui promet qu'elle pourra demander a Ainz une nouvelle voix de son choix ; lui dit que sa voix naturelle est magnifique, qu'elle n'a pas a en avoir honte (decision worldbuilder) | promesse d'une nouvelle voix |
 
 ## Renvois
 
@@ -131,5 +136,6 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 - Office, corpus preche : cf. Nazarick/Theologie_base.md.
 - Corps neufs, garde-manger, frictions : cf. Nazarick/Regles_Internes.md.
 - Ecoles, branches, ventilation : cf. Systemes/Magie.md.
+- La capturee de Gehenna : cf. Personnages/Hilma_Cygnaeus.md.
 
 FIN_WIKI_PERSONNAGES_ENTOMA_VASILISSA_ZETA

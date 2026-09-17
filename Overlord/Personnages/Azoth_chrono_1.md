@@ -1,6 +1,7 @@
 # Azoth - Trajectoire datee, fichier 1
 
-- version : W3
+- version : W4
+- amendement W4 : fichier CLOS a la frontiere R5/R6 ; suite : Azoth_chrono_2.md.
 - role : satellite de Personnages/Azoth.md (fiche protagoniste, plafond derogatoire 20k,
   seuil d'alerte franchi a W8). Porte la TRAJECTOIRE DATEE d'Azoth : ce qu'il DEVIENT apres
   le jour 0, evenement par evenement, en forme telegraphique. Alimentee a chaud, arc par
@@ -9,7 +10,7 @@
   le moment venu.
 - couverture : R1 Berger Sincere (J0 -> J8), R2 Berger Perdu (J9 -> J11), R3 Berger
   Martyr (J11 -> J12), R4 Le Confident (J12 soir -> J26), R5 Le Stratege (J27 -> J36).
-  Suivant : R6, a l'integration - ouvre Azoth_chrono_2.md si le plafond est atteint.
+  CLOS a la sortie de R5 : R6 et la suite vivent dans Azoth_chrono_2.md.
 - lecture : le noyau (identite, capacites, relations et possessions au jour 0) reste dans
   Azoth.md. Quand un RP diverge, le delta va en Parties/ et surclasse ce fichier pour
   cette partie. Datation : J0 = minuit du transfert (BIBLE SB3).

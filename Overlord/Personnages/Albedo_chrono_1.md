@@ -1,6 +1,7 @@
 # Albedo - Trajectoire datee, fichier 1
 
-- version : W1
+- version : W2
+- amendement W2 : R6 Le Majordome (J37 -> ~J68).
 - role : satellite de Personnages/Albedo.md (plafond derogatoire 12k, decision
   worldbuilder, 2026-09-16). Porte la TRAJECTOIRE DATEE : ce que l'entite DEVIENT apres le
   jour 0, evenement par evenement, en forme telegraphique. Alimentee a chaud, arc par arc,
@@ -8,8 +9,8 @@
 - plafond : 8 000 caracteres ; coupe a la frontiere d'arc ; suite dans Albedo_chrono_2.md
   le moment venu.
 - couverture : R1 Berger Sincere (J0 -> J8), R2 Berger Perdu (J9 -> J11), R3 Berger
-  Martyr (J11 -> J12), R4 Le Confident (J12 soir -> J26), R5 Le Stratege (J27 -> J36).
-  Suivant : R6, a l'integration.
+  Martyr (J11 -> J12), R4 Le Confident (J12 soir -> J26), R5 Le Stratege (J27 -> J36),
+  R6 Le Majordome (J37 -> ~J68). Suivant : R7, a l'integration.
 - lecture : le noyau (identite, mecanique, rapports au jour 0) reste dans Albedo.md. Quand un
   RP diverge, le delta va en Parties/ et surclasse ce fichier pour cette partie. Datation :
   J0 = minuit du transfert (BIBLE SB3).
@@ -50,11 +51,18 @@
 | J35 | Ouvre les Portails de la seconde armee, mana de Pestonya et de Lupusregina (canon) ; sort avec Ainz et les Gardiens : l'ultimatum aux chefs | - |
 | J36 | Sort avec Ainz et les Gardiens : le duel de Cocytus, la resurrection des trois par Azoth | - |
 
+## R6 - Le Majordome (J37 -> ~J68)
+
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| J37-~J68 | Conquete continue : sexe et drague avec Azoth, sans compte ; aucun basculement | conquete ouverte |
+| ~J64 | Recoit d'Ainz l'ordre de l'operation contre les Huit Doigts ; envoie Demiurge, Mare, Shalltear et les Pleiades (canon) | - |
+
 ## Renvois
 
 - Noyau : cf. Personnages/Albedo.md.
-- Roadmaps R1-R5 (sources de build, jamais fetchees en narration) : Roadmap/Azoth/.
+- Roadmaps R1-R6 (sources de build, jamais fetchees en narration) : Roadmap/Azoth/.
 - Chronologie condensee : BIBLE SB3.
-- Le Cardinal : cf. Personnages/Azoth_chrono_1.md.
+- Le Cardinal : cf. Personnages/Azoth_chrono_1.md, Azoth_chrono_2.md.
 
 FIN_WIKI_PERSONNAGES_ALBEDO_CHRONO_1

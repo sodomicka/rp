@@ -1,8 +1,9 @@
 # Solution Epsilon
 
-- version : W2
+- version : W3
 
 Amendement W2 : Trajectoire datee alimentee - R4 Le Confident (J15-J20).
+Amendement W3 : Trajectoire datee alimentee - R6 Le Majordome (J38 -> ~J66).
 
 Etat decrit : jour 0.
 
@@ -80,6 +81,13 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J0 | Mise en etat d'alerte au 9e par Azoth, avec ses soeurs | - |
 | J1-J6 | Premier charnel avec Azoth, non date | premier acte de fait |
 | J15-J20 | Seance recurrente avec Azoth : sexe en version slime ; partie de plateau tres serree, victoires alternees | - |
+| J38 | Part pour la capitale du Royaume avec Sebas, en noble ; il est son majordome de facade (decision worldbuilder ; canon : J10) | en mission |
+| J42 et suite | Rentre par parchemin pour les offices ; a chaque retour, seance hors grille avec Azoth - sexe en version slime, partie de plateau serree (fil recurrent, sans compte) | - |
+| ~J43 | Soigne Tuare au manoir sur ordre de Sebas ; desapprouve (canon) | - |
+| ~J55 | Rapporte a Azoth le comportement de Sebas - une humaine au manoir, la mission exposee (decision worldbuilder ; canon : a Ainz) | - |
+| ~J57 | Amene Tuare devant le faux Ainz pour le test de loyaute (canon) | - |
+| ~J64 | Tuare enlevee : conseille a Sebas de rapporter a Azoth (decision worldbuilder ; canon : a Ainz) | - |
+| ~J66 | Rentre au Tombeau ; mission finie ; fil repris | au Tombeau |
 
 ## Renvois
 
@@ -87,5 +95,6 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 - Chaine d'ordres, Six Etoiles : cf. Nazarick/Organigramme.md.
 - Office, corpus preche : cf. Nazarick/Theologie_base.md.
 - Corps neufs, garde-manger : cf. Nazarick/Regles_Internes.md.
+- L'humaine du manoir : cf. Personnages/Tuare.md.
 
 FIN_WIKI_PERSONNAGES_SOLUTION_EPSILON

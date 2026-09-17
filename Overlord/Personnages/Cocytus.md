@@ -1,9 +1,11 @@
 # Cocytus
 
-- version : W2
+- version : W3
 
 Amendement W2 : Trajectoire datee alimentee - R5 Le Stratege (J27 -> J36) ; seigneur des
 hommes-lezards (canon) ; les deux paroles conciliees (decision worldbuilder, 2026-09-16).
+Amendement W3 : Trajectoire datee alimentee - R6 Le Majordome (~J57) ; derogation de plafond
+10k (decision worldbuilder, 2026-09-17).
 
 Etat decrit : jour 0.
 
@@ -105,6 +107,7 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J34 soir | Seance avec Azoth, chambre des desirs, apres la Salle du Trone : relire la defaite par Punitto Moe - aucune information prise ; le duel par Takemikazuchi - l'attaque, mais apres ; les deux paroles conciliees par l'ordre. Reflechit a soumettre tous les chefs | les deux paroles conciliees ; derniere seance |
 | J35 | Sort avec Ainz et les Gardiens : l'ultimatum aux chefs, le duel pour le lendemain (canon) | - |
 | J36 | Duel : tue tous ceux qui l'affrontent - Zaryusu, Shasuryu, Zenberu, Sukyu Juju, Kyuku Zuzu et leurs guerriers (canon). Demande a Ainz la resurrection des trois - Zaryusu, Shasuryu, Zenberu ; Ainz en decide avec Azoth, qui officie. Seigneur des hommes-lezards (canon) | seigneur des hommes-lezards ; plus de seances |
+| ~J57 | Manoir de la capitale, test de loyaute de Sebas avec "Ainz", Azoth et Demiurge : arrete le coup de Sebas sur Tuare - le coup etait mortel, loyaute prouvee (canon). Ignore que cet Ainz est Pandora's Actor | - |
 
 ## Renvois
 
