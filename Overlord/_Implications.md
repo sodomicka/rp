@@ -1,6 +1,6 @@
 # Journal d'implications - Overlord
 
-- version : W21
+- version : W25
 
 Document de TRAVAIL. Jamais fetche en narration. Porte ce qui RESTE : doutes non tranches,
 questions en attente, points a reverifier. Ne garde aucune trace de ce qui est fait.
@@ -17,7 +17,9 @@ questions en attente, points a reverifier. Ne garde aucune trace de ce qui est f
   d'Arche (canon LN 7) : par qui, quand ; etat de Pestonya et Nigredo assignees ; Tuare en
   formation chez Yuri ; Supreme du recit. R8 - datation des fiancailles ; place du mariage
   Sebas-Tuare (Azoth officie). R9 - mariage entre la
-  visite de Jircniv et Katze, ou apres Katze ; rivalite de Shalltear qui perd son objet.
+  visite de Jircniv et Katze, ou apres Katze ; rivalite de Shalltear qui perd son objet ;
+  premiere Ponction passionnelle du couple (jalon a placer) : reservee a l'amour pur et
+  reciproque, elle scelle le depassement de la programmation d'Albedo.
   R10 - l'unite secrete d'Albedo (canon LN 10 [CANON SUPPOSE]) absorbee ou non par la
   surveillance ; forme de la haine des Quarante chez Albedo. Surveillance : aucun resultat
   avant R11 (reco MJ, non tranche). R8 - position de LN 8 : l'ordre fandom le place entre
@@ -25,45 +27,19 @@ questions en attente, points a reverifier. Ne garde aucune trace de ce qui est f
 - SATELLITES CHRONO : Azoth (chrono_1 CLOS a R5, chrono_2 ouvert a R6), Ainz et Albedo
   ont les leurs (8k, coupe a la frontiere d'arc). Pour toute autre fiche qui franchirait
   8k par sa Trajectoire datee : demander au worldbuilder (satellite ou derogation), ne pas
-  trancher seul. Derogations 10k ACTEES au build R6 : Sebas.md, Entoma_Vasilissa_Zeta.md,
-  Cocytus.md (a inscrire en SB0).
+  trancher seul.
 - VF : "Six Bras" (Six Arms) employe a R6 dans Roadmap_6, Sebas.md, Tuare.md - a confirmer
   ou remplacer.
 - VF A FIXER, reste : les noms des Arts Martiaux (a la relivraison de
   Systemes/Systemes_Natifs.md ; Zenberu Gugu en use, Hommes_Lezards.md renvoie) ; noms
   anglais conserves, actes : Worldslicer, Frost Pain ; le diminutif d'Aureole par Yuri ("Oh-chan" au canon,
   Aureole_Omega.md porte encore un [INCERTAIN]). Worldslicer reste en anglais (acte).
-- PAGES HORS BUDGET sans derogation (plafond 8k) : Etres_Supremes.md 9,9k a W6 (Pestonya
-  ajoutee). Derogation a inscrire en SB0 ou compression : au choix du worldbuilder.
-  Nigredo_et_Rubedo.md : derogation 10k ACTEE (2026-09-17), a inscrire en SB0.
 - LES TROIS ESSENCES DE RUBEDO : lesquelles, et ce que chacune lui donne. Ouvert tant qu'elle
   ne sert pas. Nigredo_et_Rubedo.md porte un [INCERTAIN].
 
 ## A porter au prochain BIBLE BUILD
 
-- Deltas R6 (2026-09-17) : SB0 - Personnages 25 pages (Tuare, Hilma_Cygnaeus,
-  Azoth_chrono_2), Roadmap/Azoth 7 fichiers (R6 buildee, garde-cap W9), derogations 10k
-  actees : Nigredo_et_Rubedo.md, Sebas.md, Entoma_Vasilissa_Zeta.md, Cocytus.md ; SB5
-  createurs - Ankoro Mocchi Mochi creatrice de Pestonya (canon, Etres_Supremes W6) ; SB3 - lignes J37 ->
-  ~J68 (departs J37-J38, rapport de Solution a Azoth, test par Pandora's Actor en Ainz avec
-  Azoth au manoir, Tuare approuvee, Gehenna, Entoma sans voix, Hilma brisee par Azoth,
-  recit de Touch Me, plaidoyer et assignation de Pestonya et Nigredo) ; SB4 - notice des
-  Huit Doigts (infiltres par Nazarick des Gehenna) ; SB5 - Sebas amoureux de Tuare, mariage
-  R8 ; Tuare et Hilma en notices ou renvois ; Pestonya : bonte, assignee ; Entoma sans voix
-  jusqu'a R7, promesse d'Azoth d'une nouvelle voix ; Azoth redevable a Demiurge ; SB8 - raccord Sebas et Tuare DETONE ; les six autres chefs des Huit Doigts :
-  arme (R10).
-
-- Deltas R5 (2026-09-16) : SB0 - NouveauMonde 4 pages, Personnages 22 pages (satellites
-  Ainz_chrono_1, Albedo_chrono_1), Roadmap/Azoth 6 fichiers (R5 buildee), derogations
-  Ainz.md 12k et Albedo.md 12k (actees), satellites chrono 8k coupes a la frontiere d'arc ; SB1/SB5 - doctrine "Il n'offre qu'a
-  quiconque quemande" bornee au consentement sexuel (Azoth.md W11) ; SB5 Azoth - sorties
-  en corps avec les Gardiens, resurrecteur de Nazarick de fait ; SB3 - lignes J27 -> J36
-  (ultimatum, defaite J34, seance de Cocytus, sorties J35 et J36, les trois ressuscites
-  par Azoth, Lupusregina affectee a Carne) ; SB4/SB5 - hommes-lezards vassaux sous
-  Cocytus, notice ou renvoi a Hommes_Lezards.md ; SB5 Cocytus - seigneur des
-  hommes-lezards, plus de seances ; SB5 Ainz - tient Azoth pour un egal sans le montrer ;
-  SB8 - sous-programmes de CZ : DETONE (R5, J31) ; deux paroles de Cocytus : DETONE (R5) ;
-  SB9 - garde-cap W8.
+- Aucun : deltas R5, R6 et Ponction passionnelle portes a B7 (2026-09-17).
 
 ## Fiches en attente
 
@@ -105,7 +81,8 @@ questions en attente, points a reverifier. Ne garde aucune trace de ce qui est f
   (guerre contre la Theocratie) par une vassalite. Verifier qu'aucune fiche NouveauMonde ne
   contredit l'aval une fois R11 detaille.
 - RECONCILIATION : au prochain build, verifier page = Sommaire. Verifiee a B3 sur les 28
-  pages indexees ; W27 : 34 pages, versions reportees au build B6.
+  pages indexees ; W27 : 34 pages, versions reportees au build B6 ; W33 : 40 pages, B7 -
+  verification partielle (pages relivrees ce jour seulement), a completer au prochain build.
 - TROUS DE TRAJECTOIRE R1-R3 : Albedo.md n'avait aucune ligne J12 (ajoutee a W5) ;
   verifier a la relecture croisee Demiurge, Sebas, Aura_et_Mare, Victim, CZ2128,
   Pandoras_Actor pour les jalons R1-R3 qui les convoquent (J12 Salle du Trone, J0 arene).

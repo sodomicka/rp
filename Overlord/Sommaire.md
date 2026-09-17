@@ -1,6 +1,6 @@
 # Sommaire - WIKI Overlord
 
-- version : W30
+- version : W33
 
 Index de navigation. Fetche en debut de chaque thread. L'URL d'une page se construit :
 raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire est l'index.
@@ -39,12 +39,12 @@ raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire e
 ## Personnages (25 pages)
 | Page | V | Contenu |
 |---|---|---|
-| Personnages/Ainz.md | W9 | Suzuki Satoru, la guilde, le calibre, l'ecart de savoir sur les quarante ; derogation 12k |
+| Personnages/Ainz.md | W10 | Suzuki Satoru, la guilde, le calibre, l'ecart de savoir sur les quarante, la Ponction connue ; derogation 12k |
 | Personnages/Ainz_chrono_1.md | W2 | Satellite d'Ainz.md : Trajectoire datee, R1 -> R6 (J0 -> ~J68) |
-| Personnages/Azoth.md | W11 | Le Cardinal : setting d'Ulbert, deux formes, Passion d'Incube, prodige de cuisine, le 9e, parchemins de guidance |
+| Personnages/Azoth.md | W14 | Le Cardinal : setting d'Ulbert, deux formes, Passion d'Incube, Ponction passionnelle, prodige de cuisine, le 9e, parchemins de guidance |
 | Personnages/Azoth_chrono_1.md | W4 | Satellite d'Azoth.md : Trajectoire datee, R1 -> R5 (J0 -> J36), CLOS |
 | Personnages/Azoth_chrono_2.md | W1 | Satellite d'Azoth.md : Trajectoire datee, R6 (J37 -> ~J68) |
-| Personnages/Albedo.md | W8 | Regente, le parametre reecrit, Hermes Trismegistus, Ginnungagap ; derogation 12k |
+| Personnages/Albedo.md | W11 | Regente, le parametre reecrit, Hermes Trismegistus, Ginnungagap, Ponction passionnelle ; derogation 12k |
 | Personnages/Albedo_chrono_1.md | W2 | Satellite d'Albedo.md : Trajectoire datee, R1 -> R6 (J0 -> ~J68) |
 | Personnages/Demiurge.md | W6 | Le jumeau, arsenal de competences, la Lave, luxure a zero |
 | Personnages/Shalltear.md | W10 | Valkyrie de Sang, Lance Pipette, Frenesie Sanglante, nymphomanie, crise de legitimite |
