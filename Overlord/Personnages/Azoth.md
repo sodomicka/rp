@@ -1,6 +1,6 @@
 # Azoth, le Cardinal Demoniaque
 
-- version : W11
+- version : W14
 
 Etat decrit : jour 0. Fiche protagoniste, plafond derogatoire 20 000 caracteres.
 
@@ -17,6 +17,12 @@ joueur de plateau ; parchemins de guidance (regle in-world, decision worldbuilde
 Amendement W10 : origine du nom et creation en parallele d'Albedo (decision worldbuilder).
 Amendement W11 : doctrine bornee au consentement sexuel ; sorties en corps avec les Gardiens
 (decisions worldbuilder, 2026-09-16).
+Amendement W12 : la Ponction passionnelle - capacite de race, secrete (decisions
+worldbuilder, 2026-09-17).
+Amendement W13 : Ponction passionnelle - geste, sensation, sens ; Ainz la connait
+(decisions worldbuilder, 2026-09-17).
+Amendement W14 : le souvenir ecrit du couple ne comporte aucune ponction (decision
+worldbuilder, 2026-09-17).
 
 ## Identite
 
@@ -92,6 +98,28 @@ Amendement W11 : doctrine bornee au consentement sexuel ; sorties en corps avec 
 - Consequence sociale : personne ne peut distinguer a l'oeil sa transe magique, sa ferveur
   religieuse et son desir. Les trois ont le meme visage.
 
+## Ponction passionnelle [DIVERGENCE RP]
+
+- Capacite de RACE des incubes et des succubes, pas un sort : hors ecoles, hors vecteurs.
+- EFFET : transfere les points de vie de l'amant vers le draineur. Rendement inferieur a
+  100 % : la part perdue s'evapore.
+- IGNORE TOUTE IMMUNITE, les siennes comprises (sacre, Energie Negative).
+- CONDITION UNIQUE : pendant ou apres un acte sexuel. Hors de ce cadre, inactivable.
+- GESTE : par contact labial. Deux bouches l'une sur l'autre se ponctionnent en meme
+  temps ; couvrir l'autre de baisers, c'est le ponctionner.
+- SENSATION : invisible, indolore, plaisante meme. Rien ne se voit, rien ne se sent qu'un
+  plaisir de plus.
+- SENS, pour son espece : la douleur excite l'incube, mais elle n'est pas le but. Le but
+  est la vulnerabilite - n'etre qu'a deux doigts de la mort, chacun entre les mains de
+  l'autre. Pas un geste de luxure : un geste d'amour pur et reciproque.
+- SECRET : nul ne sait qu'il la porte, hormis Ainz, qui connait la capacite en joueur
+  d'Yggdrasil, et Albedo, de la meme espece de demon et porteuse elle aussi ; il le sait
+  d'elle pour la meme raison.
+- USAGE : jamais exercee au jour 0 (corps neuf, cf. BIBLE SB1), ni dans le souvenir ecrit
+  reciproque du couple : ce souvenir est celui d'amants, la ponction est un geste
+  d'amoureux. Ce qu'il en fait vit en Trajectoire datee.
+- Le nom est le meme pour les deux porteurs (decision worldbuilder).
+
 ## Psychologie
 
 - FERVEUR RELIGIEUSE AUTHENTIQUE envers les 41. Elle n'est pas un role : il croit.
@@ -137,6 +165,8 @@ Amendement W11 : doctrine bornee au consentement sexuel ; sorties en corps avec 
   les 41, non d'un dieu du Nouveau Monde. La dispersion entre branches ne lui coute aucun
   rang [DIVERGENCE RP].
 - Charme d'incube : seduction surnaturelle, arme au meme titre que ses sorts.
+- PONCTION PASSIONNELLE : drain de points de vie propre a son espece, secret. Cf. section
+  dediee.
 - Defenses : esprit inalterable par nature, hors Passion d'Incube ; tenue conferant
   resistance au feu et a la glace.
 - POLYVALENCE : au sommet de Nazarick avec Albedo, Demiurge et Pandora's Actor - pour la
@@ -225,7 +255,9 @@ l'exterieur.
   Elle aime Momonga par ecriture, d'un amour qu'elle n'a pas choisi, et se tourne vers Azoth
   pour ce que son maitre ne lui donne pas. Ce n'est pas une tragedie pour autant : il reste
   un incube, il voudrait davantage et il prend son plaisir avec la succube sans reserve. Ils
-  se devorent du regard a l'office. Elle ignore ce qu'il eprouve. Cf. Personnages/Albedo.md.
+  se devorent du regard a l'office. Elle ignore ce qu'il eprouve. Elle est la seule a
+  savoir qu'il porte la Ponction passionnelle, et lui seul sait qu'elle la porte. Cf.
+  Personnages/Albedo.md.
 - SHALLTEAR BLOODFALLEN. Rapports charnels reguliers, en orgies avec ses epouses vampires ou
   en tete-a-tete. Elle vient chercher ce dont elle a besoin ; il accueille, selon sa doctrine.
   Aucun sentiment de part et d'autre sur ce plan. Cf. Personnages/Shalltear.md.

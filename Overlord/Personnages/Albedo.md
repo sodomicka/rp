@@ -1,6 +1,6 @@
 # Albedo
 
-- version : W8
+- version : W11
 
 Amendement W2 : les rapports charnels avec Azoth qualifies en souvenir ecrit reciproque -
 la fiche portait "non consomme au jour 0".
@@ -14,6 +14,12 @@ d'elle (decisions worldbuilder, 2026-09-15).
 Amendement W7 : Trajectoire datee alimentee - R5 Le Stratege (J27 -> J36).
 Amendement W8 : derogation de plafond a 12 000 caracteres ; Trajectoire datee BASCULEE en
 satellite (Personnages/Albedo_chrono_1.md) (decisions worldbuilder, 2026-09-16).
+Amendement W9 : la Ponction passionnelle - capacite de race, secrete (decisions
+worldbuilder, 2026-09-17).
+Amendement W10 : Ponction passionnelle - geste, sensation, sens ; Ainz la connait
+(decisions worldbuilder, 2026-09-17).
+Amendement W11 : le souvenir ecrit du couple ne comporte aucune ponction (decision
+worldbuilder, 2026-09-17).
 
 Etat decrit : jour 0. Plafond derogatoire : 12 000 caracteres (decision worldbuilder).
 
@@ -63,6 +69,18 @@ Tombeau voue au Mal.
 - Invocation de monture : un bicorne de niveau 100. INACCESSIBLE : la bete ne souffre d'etre
   montee que par une femme impure, et Albedo est vierge.
 - Immunisee a un large eventail de maladies.
+- PONCTION PASSIONNELLE [DIVERGENCE RP] : capacite de race des succubes et des incubes,
+  pas un sort. Transfere les points de vie de l'amant vers elle, a rendement inferieur a
+  100 % (la part perdue s'evapore) ; ignore toute immunite ; activable pendant ou apres un
+  acte sexuel seulement ; par contact labial - un baiser ponctionne, deux bouches se
+  ponctionnent en meme temps. Invisible, indolore, plaisante meme. Sens, pour son espece :
+  pas la douleur, qui l'excite sans etre le but, mais la vulnerabilite - a deux doigts de
+  la mort, entre les mains de l'autre ; un geste d'amour pur et reciproque, pas de luxure.
+  Secrete : nul ne sait qu'elle la porte, hormis Ainz, qui connait la capacite en joueur
+  d'Yggdrasil, et Azoth, de la meme espece de demon et porteur lui aussi. Jamais exercee
+  au jour 0 (corps neuf), ni dans le souvenir ecrit du couple - un souvenir d'amants, la
+  ponction est un geste d'amoureux. Detail : cf. Personnages/Azoth.md, section Ponction
+  passionnelle.
 - Duel pur : Shalltear la surclasse, sans que le palier interne soit remis en cause. Cf.
   Systemes/Echelle_Puissance.md.
 - Intelligence de premier ordre : elle comprend les strategies de son maitre et le devance en
@@ -120,7 +138,8 @@ Point de mecanique central, a ne pas confondre :
   jour 0. Cf. Nazarick/Regles_Internes.md. Elle est aimantee par sa
   luxure ; l'incube et la succube sont le meme condense de la meme passion. L'amour ecrit
   reste tourne vers Momonga ; le versant charnel va vers Azoth. ELLE IGNORE QU'IL L'AIME :
-  il le tait. Elle est sa superieure hierarchique et n'a aucune prise sur son office.
+  il le tait. Elle sait qu'il porte la Ponction passionnelle, et lui seul sait qu'elle la
+  porte. Elle est sa superieure hierarchique et n'a aucune prise sur son office.
 - SHALLTEAR. Rivalite ouverte pour la faveur du maitre.
 - PANDORA'S ACTOR. Aucun rapport particulier [DIVERGENCE RP - la jalousie canon envers la
   seule creation dont le createur est reste n'est pas retenue].

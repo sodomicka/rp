@@ -1,6 +1,6 @@
 # Ainz Ooal Gown (Momonga)
 
-- version : W9
+- version : W10
 
 Amendement W2 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
 Amendement W3 : Trajectoire datee alimentee - R2 Berger Perdu (J9 -> J11).
@@ -15,6 +15,8 @@ Amendement W8 : Trajectoire datee alimentee - R5 Le Stratege (J27 -> J36) ; l'eg
 naissante envers Azoth (decision worldbuilder, 2026-09-16).
 Amendement W9 : derogation de plafond portee a 12 000 caracteres ; Trajectoire datee
 BASCULEE en satellite (Personnages/Ainz_chrono_1.md) (decisions worldbuilder, 2026-09-16).
+Amendement W10 : il connait la Ponction passionnelle d'Azoth et d'Albedo (decision
+worldbuilder, 2026-09-17).
 
 Etat decrit : jour 0. Plafond derogatoire : 12 000 caracteres (decision worldbuilder).
 Au point de depart, il porte encore le nom de Momonga ; il ne prend
@@ -116,6 +118,9 @@ ne peut pas employer lui-meme. Cf. Nazarick/Tombeau.md pour le Mausolee et la Tr
   tient pour un egal - etat atteint au J36, jamais montre ; Azoth le sait et refuse.
 - ALBEDO. Il a reecrit son parametre "epouse" juste avant la fermeture, par plaisanterie, et
   s'en trouve embarrasse des l'eveil. Cf. Personnages/Albedo.md.
+- AZOTH ET ALBEDO, LA PONCTION PASSIONNELLE. En joueur d'Yggdrasil, il sait que les
+  incubes et les succubes portent ce drain de points de vie, et donc qu'eux deux le
+  portent - ce qu'aucun autre PNJ ne sait. Cf. Personnages/Azoth.md, section dediee.
 - PANDORA'S ACTOR. Sa seule creation, concue pour preserver l'identite de la guilde et
   garder la Tresorerie.
 - LES QUARANTE ABSENTS. Ecart de savoir structurant : Nazarick les tient pour attendus, lui
