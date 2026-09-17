@@ -1,6 +1,6 @@
 # _Implications - OnePiece
 
-- version : W41
+- version : W42
 
 Journal de travail du worldbuilding. Pense-bete de coordination : UNIQUEMENT du pendant (questions ouvertes, contenu en attente d'integration, chantiers). L'applique degage au fil de l'eau ; l'historique vit dans les threads et les versions du repo, pas ici.
 
@@ -18,7 +18,6 @@ Journal de travail du worldbuilding. Pense-bete de coordination : UNIQUEMENT du 
 - RESUME.MD (regle de construction actee) : ecrire depuis les roadmaps et les pages chrono, jamais depuis la BIBLE ; mise a jour a chaque BIBLE BUILD, la borne avance d'un arc a chaque boucle close ; longueur hors budget de page standard, a l'arbitrage du worldbuilder.
 - NOTE v8.5 pour la Passe 3 (pas pour la Passe 2) : fiche d'arc = TRAME (Deroule de l'etape, temps par temps, au grain de la scene) + BIBLE D'ETAPE, troncature a la SORTIE de l'etape ; le worldbuilder dicte, le MJ derive et propose. Le CODEX ANNEXE_CHRONO "jalon courant / prochain jalon" designe les temps du Deroule. La fiche d'arc R0 se construira sous ce gabarit.
 - PROCHAIN THREAD : boucle R9 Baltigo (roadmap), BIBLE B11 en fichier de projet.
-- BIBLE B12 (prochain BIBLE BUILD) : retirer les numeros W de SB0 et SB9 (doublon du Sommaire, perimes a chaque build - SB0 porte deja Sommaire W17 et _Implications W40) et le "(actee B10)" de SB8 ; garder les "(actee Rn)", provenance des divergences.
 - CHANTIERS EVACUES DE LA BIBLE (domicile ici, plus jamais en BIBLE) :
   - BOUCLE R9 : Haki de Koala jamais atteste au canon - a baliser au build R9.
   - BOUCLE R14 Wano : Foi Nika - portee de la revelation du fruit de Luffy pour la foi des jumelles, reaction et suites, a cadrer a la boucle ; carnet rouge - revelation du contenu a l'equipage dans la traversee vers Egghead, borne de sortie a poser (garde cap).

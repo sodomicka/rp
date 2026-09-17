@@ -1,6 +1,6 @@
 # Sommaire - OnePiece
 
-- version : W18
+- version : W19
 
 ## WIKI
 
@@ -9,7 +9,7 @@
 ### Racine
 Description : documents transverses.
 - Resume.md (W3) - suivi de l'histoire etablie, en prose, R0 a R8 (borne : sortie de la derniere boucle close) ; seul condense de l'histoire hors BIBLE ; hors budget de page standard (arbitrage worldbuilder).
-- _Implications.md (W41) - journal de travail du worldbuilding ; JAMAIS fetche en narration.
+- _Implications.md (W42) - journal de travail du worldbuilding ; JAMAIS fetche en narration.
 
 ### Personnages/
 Description : fiches neutres des entites du monde (canon et OC promus au lore). 49 pages : 21 de la Passe 1 (close) + 19 ajouts de la Passe 2 (Sakazuki, Nefertari_Vivi, Smoker, Tashigi, Portgas_D_Ace, Marshall_D_Teach, Monkey_D_Garp, Koby, CP9_CP0, Gecko_Moria, Perona, Hogback_Absalom_Ryuma, Silvers_Rayleigh, Shakuyaku, Borsalino, Trafalgar_Law, Eustass_Kid_Killer, Jewelry_Bonney, Supernovae) + les NEUF pages de la strate Trajectoire deportee.
