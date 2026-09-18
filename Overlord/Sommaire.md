@@ -1,6 +1,6 @@
 # Sommaire - WIKI Overlord
 
-- version : W34
+- version : W35
 
 Index de navigation. Fetche en debut de chaque thread. L'URL d'une page se construit :
 raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire est l'index.
@@ -8,13 +8,13 @@ raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire e
 ## Racine (1 page)
 | Page | V | Contenu |
 |---|---|---|
-| Resume.md | W2 | Resume de l'histoire etablie (canon + divergences), arrete a la frontiere de build (sortie R6, ~J68) |
+| Resume.md | W3 | Resume de l'histoire etablie (canon + divergences), arrete a la frontiere de build (sortie R7, ~J80) |
 
 ## Systemes (5 pages)
 | Page | V | Contenu |
 |---|---|---|
 | Systemes/Yggdrasil.md | W1 | Le jeu d'origine, niveaux, races, objets de rang monde, transferts non ordonnes |
-| Systemes/Magie.md | W4 | Cinq ecoles, trois branches, Energie Negative, MP, parchemins, rangs et plafonds |
+| Systemes/Magie.md | W5 | Cinq ecoles, trois branches, Energie Negative, la foi et les deux vecteurs sous les 41, MP, parchemins, rangs et plafonds ; derogation 12k |
 | Systemes/Grande_Magie_et_Signatures.md | W3 | Rang 11 et repertoire des sorts nommes, dont La Mort nous fauchera Tous (Destruction + Guerison) |
 | Systemes/Systemes_Natifs.md | W1 | Arts Martiaux, Talents, Magie Sauvage, guilde des aventuriers |
 | Systemes/Echelle_Puissance.md | W2 | Bandes de niveaux, echelle interne de Nazarick, ancres natives |
@@ -36,34 +36,36 @@ raw_base + <Dossier>/<Page>.md (cf. BIBLE SB0). La page fait foi ; le Sommaire e
 | NouveauMonde/Re-Estize.md | W1 | Le Royaume, E-Rantel, Carne, l'Empire en notice |
 | NouveauMonde/Hommes_Lezards.md | W2 | Les cinq tribus du Grand Lac, les six nommes, Frost Pain, vassaux de Nazarick des J36 |
 
-## Personnages (25 pages)
+## Personnages (27 pages)
 | Page | V | Contenu |
 |---|---|---|
 | Personnages/Ainz.md | W10 | Suzuki Satoru, la guilde, le calibre, l'ecart de savoir sur les quarante, la Ponction connue ; derogation 12k |
-| Personnages/Ainz_chrono_1.md | W2 | Satellite d'Ainz.md : Trajectoire datee, R1 -> R6 (J0 -> ~J68) |
+| Personnages/Ainz_chrono_1.md | W2 | Satellite d'Ainz.md : Trajectoire datee, R1 -> R7 (J0 -> ~J80) ; R6 reconstruit a W2, le W2 precedent n'ayant jamais ete pousse |
 | Personnages/Azoth.md | W14 | Le Cardinal : setting d'Ulbert, deux formes, Passion d'Incube, Ponction passionnelle, prodige de cuisine, le 9e, parchemins de guidance |
 | Personnages/Azoth_chrono_1.md | W4 | Satellite d'Azoth.md : Trajectoire datee, R1 -> R5 (J0 -> J36), CLOS |
-| Personnages/Azoth_chrono_2.md | W1 | Satellite d'Azoth.md : Trajectoire datee, R6 (J37 -> ~J68) |
+| Personnages/Azoth_chrono_2.md | W2 | Satellite d'Azoth.md : Trajectoire datee, R6 -> R7 (J37 -> ~J80) |
 | Personnages/Albedo.md | W11 | Regente, le parametre reecrit, Hermes Trismegistus, Ginnungagap, Ponction passionnelle ; derogation 12k |
-| Personnages/Albedo_chrono_1.md | W2 | Satellite d'Albedo.md : Trajectoire datee, R1 -> R6 (J0 -> ~J68) |
-| Personnages/Demiurge.md | W6 | Le jumeau, arsenal de competences, la Lave, luxure a zero |
-| Personnages/Shalltear.md | W10 | Valkyrie de Sang, Lance Pipette, Frenesie Sanglante, nymphomanie, crise de legitimite |
+| Personnages/Albedo_chrono_1.md | W3 | Satellite d'Albedo.md : Trajectoire datee, R1 -> R7 (J0 -> ~J80) |
+| Personnages/Demiurge.md | W7 | Le jumeau, arsenal de competences, la Lave, luxure a zero |
+| Personnages/Shalltear.md | W11 | Valkyrie de Sang, Lance Pipette, Frenesie Sanglante, nymphomanie, crise de legitimite ; derogation 10k |
 | Personnages/Aureole_Omega.md | W4 | Sainte aveugle, karma +500, Worldslicer, le Sanctuaire des Cerisiers, co-conceptrice des parchemins |
-| Personnages/Cocytus.md | W3 | Le Souverain du Fleuve Gele : Vermin Lord niv. 100, karma +50, maitre d'armes, la strategie apprise, seigneur des hommes-lezards des J36 |
-| Personnages/Sebas.md | W4 | Majordome d'Acier, karma +300, la machoire, le regime dechaine, Tuare |
-| Personnages/CZ2128_Delta.md | W7 | La machine, le verrou de Garnet - leve au J31, munitions magiques, le Docteur |
+| Personnages/Cocytus.md | W4 | Le Souverain du Fleuve Gele : Vermin Lord niv. 100, karma +50, maitre d'armes, la strategie apprise, seigneur des hommes-lezards des J36 |
+| Personnages/Sebas.md | W5 | Majordome d'Acier, karma +300, la machoire, le regime dechaine, Tuare |
+| Personnages/CZ2128_Delta.md | W8 | La machine, le verrou de Garnet - leve au J31, munitions magiques, le Docteur |
 | Personnages/Pleiades.md | W2 | Socle commun des six : tableau, chaine d'ordres, corps neufs, rapports entre soeurs |
-| Personnages/Yuri_Alpha.md | W3 | La grande soeur : dullahan niv. 51, Fa Jin, institutrice, COACH, la garde a baisser |
-| Personnages/Narberal_Gamma.md | W3 | L'inflexible : doppelganger niv. 63, Foudre du Dragon, mepris des humains |
-| Personnages/Solution_Epsilon.md | W3 | La Cage Dissolvante : slime niv. 57, corps creux, se sentir femme, jeux de plateau |
-| Personnages/Lupusregina_Beta.md | W4 | La sadique souriante : garou niv. 59, clerc de combat, oreilles, logique de meute |
-| Personnages/Entoma_Vasilissa_Zeta.md | W5 | La talismanciere : arachnoide niv. 51, insecte-masque, gourmandise, la gene, la voix perdue |
+| Personnages/Yuri_Alpha.md | W4 | La grande soeur : dullahan niv. 51, Fa Jin, institutrice, COACH, la garde a baisser |
+| Personnages/Narberal_Gamma.md | W4 | L'inflexible : doppelganger niv. 63, Foudre du Dragon, mepris des humains |
+| Personnages/Solution_Epsilon.md | W4 | La Cage Dissolvante : slime niv. 57, corps creux, se sentir femme, jeux de plateau |
+| Personnages/Lupusregina_Beta.md | W5 | La sadique souriante : garou niv. 59, clerc de combat, oreilles, logique de meute |
+| Personnages/Entoma_Vasilissa_Zeta.md | W6 | La talismanciere : arachnoide niv. 51, insecte-masque, gourmandise, la gene, la voix perdue puis la voix d'Arche |
 | Personnages/Nigredo_et_Rubedo.md | W2 | Les soeurs d'Albedo : la Prison Gelee, la porcelaine, conscience limitee ; derogation 10k |
-| Personnages/Pandoras_Actor.md | W4 | La creation de Momonga : Tresorerie et Ashurbanipal, les ecrits des Supremes, 999 ans, karma 0 |
+| Personnages/Pandoras_Actor.md | W5 | La creation de Momonga : Tresorerie et Ashurbanipal, les ecrits des Supremes, 999 ans, karma 0 |
 | Personnages/Victim.md | W2 | L'ange du sacrifice : niv. 35, karma +500, la voix, ~400 ans, la protection d'Aureole |
-| Personnages/Aura_et_Mare.md | W4 | Les jumeaux du 6e : enfants hors registre sans exception, dresseuse et druide, 76 ans |
-| Personnages/Tuare.md | W1 | Tuareninya Veyron : soeur de Ninya, sauvee par Sebas, servante du 9e formee par Yuri |
+| Personnages/Aura_et_Mare.md | W5 | Les jumeaux du 6e : enfants hors registre sans exception, dresseuse et druide, 76 ans, les trois elfes |
+| Personnages/Tuare.md | W2 | Tuareninya Veyron : soeur de Ninya, sauvee par Sebas, servante du 9e formee par Yuri |
 | Personnages/Hilma_Cygnaeus.md | W1 | Cheffe de la drogue des Huit Doigts, capturee a Gehenna, brisee par Azoth |
+| Personnages/Roberdyck_Goltron.md | W1 | Pretre des Quatre Dieux de Foresight, confie a Azoth, brise ; la regle de la foi demontree ; tue |
+| Personnages/Workers.md | W1 | Les quatre equipes de l'invasion (Foresight, Heavy Masher, Tenmu, Dragon Hunt), Arche, les trois elfes, le plan de Demiurge |
 
 ## Hors index
 - Overlord/_Implications.md - journal de travail. JAMAIS fetche en narration.

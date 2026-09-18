@@ -1,13 +1,14 @@
 # Resume - Overlord, "Le Cardinal Demoniaque"
 
-- version : W2
+- version : W3
 
+Amendement W3 : frontiere avancee a la sortie de R7 (~J80) ; R7 ajoute (2026-09-18).
 Amendement W2 : le resume suit desormais l'histoire etablie jusqu'a la FRONTIERE DE BUILD
 (sortie de R6, ~J68) ; mis a jour a chaque BIBLE BUILD (decision worldbuilder,
 2026-09-17).
 
 Resume de l'histoire etablie (canon + divergences actees), arrete a la frontiere de build :
-sortie de R6 (~J68). Pour une partie en cours, tout ce qui est posterieur a son jalon
+sortie de R7 (~J80). Pour une partie en cours, tout ce qui est posterieur a son jalon
 courant est du futur non joue ; le delta d'une partie vit dans Parties/.
 
 ## Yggdrasil (2126-2138)
@@ -54,9 +55,9 @@ courant est du futur non joue ; le delta d'une partie vit dans Parties/.
 - Exterieur : l'Ecriture Solaire marche sur Carne, la Noire vers E-Rantel. Le Tombeau
   emerge, ignore de tous, dans la marche du Royaume.
 
-## Le Tombeau dans le Nouveau Monde (J0 -> ~J68)
+## Le Tombeau dans le Nouveau Monde (J0 -> ~J80)
 
-Etabli par les roadmaps R1 -> R6 : canon par defaut, divergences dictees balisees. Dates ~ :
+Etabli par les roadmaps R1 -> R7 : canon par defaut, divergences dictees balisees. Dates ~ :
 positions relatives, le canon ne date rien apres J36.
 
 - R1, BERGER SINCERE (J0 -> J8). Azoth s'eveille en plein office et preche pour de vrai
@@ -99,13 +100,23 @@ positions relatives, le canon ne date rien apres J36.
   Azoth soigne Entoma, lui promet une voix, remercie Demiurge ; brise Hilma dans la chambre
   des desirs [DIVERGENCE RP] ; recit de Touch Me. ~J68 : plaidoyer de Pestonya et Nigredo
   pour les captifs ; refus, assignation a residence ; Tuare servante du 9e, formee par Yuri.
+- R7, LES ENVAHISSEURS (~J69 -> ~J80). ~J69 : honneurs de Gehenna, Demiurge reaffirme la
+  conquete du monde ; Ainz veut Azoth en conseiller pour l'invasion montee par Demiurge
+  - l'Empire pousse quatre equipes de Workers sur le Tombeau. ~J76 : L'INVASION, la
+  seule au canon, vecue aupres d'Ainz et d'Albedo ; Workers aneantis ; les elfes de
+  Tenmu a Aura et Mare ; le mensonge de Hekkeran au nom d'un Supreme ; Roberdyck confie
+  a Azoth [DIVERGENCE RP]. ~J77 -> ~J79 : voix d'Arche posee a Entoma par Azoth ; recit
+  de Genjiro et Tabula ; Roberdyck brise, regle de la foi demontree [DIVERGENCE RP],
+  tue. Azoth et Albedo veulent la meme chose, non dit : Ainz seul maitre ; pas d'unite
+  secrete [DIVERGENCE RP]. ~J80 : Aura et Mare a Arwintar, Jircniv attendu.
 
 ## Renvois
 
 - Index des pages : Sommaire.md. Regles du monde : Systemes/. Le Tombeau et son culte :
   Nazarick/. Les nations : NouveauMonde/. Les entites : Personnages/.
 - Le detail date par entite : Personnages/Azoth_chrono_1.md (R1 -> R5),
-  Azoth_chrono_2.md (R6), Ainz_chrono_1.md, Albedo_chrono_1.md ; les natifs de R5-R6 :
-  NouveauMonde/Hommes_Lezards.md, Personnages/Tuare.md, Personnages/Hilma_Cygnaeus.md.
+  Azoth_chrono_2.md (R6 -> R7), Ainz_chrono_1.md, Albedo_chrono_1.md ; les natifs de
+  R5-R7 : NouveauMonde/Hommes_Lezards.md ; Personnages/ Tuare, Hilma_Cygnaeus,
+  Roberdyck_Goltron, Workers.
 
 FIN_WIKI_RESUME

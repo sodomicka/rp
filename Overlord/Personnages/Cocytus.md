@@ -1,11 +1,12 @@
 # Cocytus
 
-- version : W3
+- version : W4
 
 Amendement W2 : Trajectoire datee alimentee - R5 Le Stratege (J27 -> J36) ; seigneur des
 hommes-lezards (canon) ; les deux paroles conciliees (decision worldbuilder, 2026-09-16).
 Amendement W3 : Trajectoire datee alimentee - R6 Le Majordome (~J57) ; derogation de plafond
 10k (decision worldbuilder, 2026-09-17).
+Amendement W4 : Trajectoire datee alimentee - R7 Les Envahisseurs (~J69, ~J76).
 
 Etat decrit : jour 0.
 
@@ -108,6 +109,8 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J35 | Sort avec Ainz et les Gardiens : l'ultimatum aux chefs, le duel pour le lendemain (canon) | - |
 | J36 | Duel : tue tous ceux qui l'affrontent - Zaryusu, Shasuryu, Zenberu, Sukyu Juju, Kyuku Zuzu et leurs guerriers (canon). Demande a Ainz la resurrection des trois - Zaryusu, Shasuryu, Zenberu ; Ainz en decide avec Azoth, qui officie. Seigneur des hommes-lezards (canon) | seigneur des hommes-lezards ; plus de seances |
 | ~J57 | Manoir de la capitale, test de loyaute de Sebas avec "Ainz", Azoth et Demiurge : arrete le coup de Sebas sur Tuare - le coup etait mortel, loyaute prouvee (canon). Ignore que cet Ainz est Pandora's Actor | - |
+| ~J69 | Salle du Trone : honneurs de Gehenna ; Demiurge reaffirme la conquete du monde (canon) | - |
+| ~J76 | Invasion des Workers : commande la defense de la surface - Yuri et les Pleiades livrent Dragon Hunt aux Old Guarders, exercice de poursuite (canon) ; loge de l'arene du 6e avec Albedo, Azoth, Aura et Shalltear pendant le combat d'Ainz contre Foresight (canon) | - |
 
 ## Renvois
 

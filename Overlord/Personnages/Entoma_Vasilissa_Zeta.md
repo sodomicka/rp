@@ -1,11 +1,13 @@
 # Entoma Vasilissa Zeta
 
-- version : W5
+- version : W6
 
 Amendement W2 : Trajectoire datee alimentee - R4 Le Confident (J14).
 Amendement W4 : Trajectoire datee alimentee - R5 Le Stratege (J28, J34).
 Amendement W5 : Trajectoire datee alimentee - R6 Le Majordome (~J65, ~J66) ; la voix perdue ;
 derogation de plafond 10k (decision worldbuilder, 2026-09-17).
+Amendement W6 : insecte-levre aligne sur le canon (reserves aux voix basiques, dedaignees) ;
+Trajectoire datee alimentee - R7 Les Envahisseurs (~J76, ~J77) : la voix d'Arche.
 
 Etat decrit : jour 0.
 
@@ -38,8 +40,10 @@ Personnages/Pleiades.md.
 - VOIX : un INSECTE-LEVRE loge dans la gorge. Il a mange les cordes vocales d'une victime et
   en reproduit la voix. Au jour 0 : une voix de jeune femme, douce [DIVERGENCE RP - le canon
   donne une voix de fillette ; regle ferme du casting, cf. BIBLE SB1]. A qui elle fut prise :
-  non ecrit au canon. L'insecte-levre ne se reapparait pas en POP : unique, irremplacable
-  par les moyens du Tombeau.
+  non ecrit au canon. L'insecte-levre ne se reapparait pas en POP : perdu, il se remplace
+  par un autre, nourri des cordes vocales d'une nouvelle victime. Elle garde dans sa
+  chambre des insectes-levres de reserve aux voix basiques, qu'elle refuse de porter
+  (canon).
 
 ## Sous le masque
 
@@ -126,8 +130,10 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J28 | Seance 2 avec Azoth, cuisines du 9e, apres l'office : boeuf, annonce cette fois ; il lui essuie une mandibule pleine de sauce, elle sent le contact sous la chitine, apprecie ; demande des caresses en plus de la nourriture | fil : seance 2 faite |
 | J34 | Au poste de commandement de Cocytus, observatrice mandatee par Ainz : rapporte l'ordre d'assaut a Ainz et Albedo ; apres la defaite, transmet a Cocytus le rappel d'Ainz (canon) | - |
 | ~J65 | Gehenna, en demon de Jaldabaoth : devore les gardes d'Hilma Cygnaeus, que Mare capture ; face a Evileye, perd son insecte-levre, a demi morte, sauvee par Jaldabaoth (canon) | sans voix ; a demi morte |
-| ~J66 | Rentre ; soignee par Azoth - le corps entier, rien pour la voix, irremplacable par les moyens du Tombeau. Ne parle plus que par necessite, de sa vraie voix ; reclame Evileye, pour lui prendre la sienne (canon) | sans voix |
+| ~J66 | Rentre ; soignee par Azoth - le corps entier, rien pour la voix - l'insecte-levre perdu ne repousse pas ; ses reserves aux voix basiques, elle refuse de les porter (canon). Ne parle plus que par necessite, de sa vraie voix ; reclame Evileye, pour lui prendre la sienne (canon) | sans voix |
 | ~J66 | Seance hors grille avec Azoth : il prend soin d'elle, douceur parfaite ; lui promet qu'elle pourra demander a Ainz une nouvelle voix de son choix ; lui dit que sa voix naturelle est magnifique, qu'elle n'a pas a en avoir honte (decision worldbuilder) | promesse d'une nouvelle voix |
+| ~J76 | Invasion des Workers : sur la surface avec ses soeurs, sans Narberal, sans voix ; Dragon Hunt livree aux Old Guarders (canon) | - |
+| ~J77 | LA VOIX. Ainz remet a Azoth les cordes vocales d'Arche Eeb Rile Furt, lanceuse de Foresight prise sans dommage par Shalltear (canon : Ainz fait usage du corps). Pose en prive dans la chambre d'Azoth, entre eux deux seulement : un insecte-levre de reserve nourri par lui - sa subordonnee, un moment rien qu'a eux (decision worldbuilder). Elle parle avec la voix d'Arche (canon) | voix d'Arche ; promesse tenue |
 
 ## Renvois
 
@@ -137,5 +143,6 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 - Corps neufs, garde-manger, frictions : cf. Nazarick/Regles_Internes.md.
 - Ecoles, branches, ventilation : cf. Systemes/Magie.md.
 - La capturee de Gehenna : cf. Personnages/Hilma_Cygnaeus.md.
+- Arche et les Workers : cf. Personnages/Workers.md.
 
 FIN_WIKI_PERSONNAGES_ENTOMA_VASILISSA_ZETA

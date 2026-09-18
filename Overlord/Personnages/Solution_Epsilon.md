@@ -1,9 +1,10 @@
 # Solution Epsilon
 
-- version : W3
+- version : W4
 
 Amendement W2 : Trajectoire datee alimentee - R4 Le Confident (J15-J20).
 Amendement W3 : Trajectoire datee alimentee - R6 Le Majordome (J38 -> ~J66).
+Amendement W4 : Trajectoire datee alimentee - R7 Les Envahisseurs (~J69 -> ~J76).
 
 Etat decrit : jour 0.
 
@@ -88,6 +89,8 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | ~J57 | Amene Tuare devant le faux Ainz pour le test de loyaute (canon) | - |
 | ~J64 | Tuare enlevee : conseille a Sebas de rapporter a Azoth (decision worldbuilder ; canon : a Ainz) | - |
 | ~J66 | Rentre au Tombeau ; mission finie ; fil repris | au Tombeau |
+| ~J69 -> ~J75 | Au Tombeau ; seances hors grille avec Azoth reprises - sexe en version slime, partie de plateau serree, sans compte | - |
+| ~J76 | Invasion des Workers : sur la surface avec ses soeurs, sans Narberal ; Dragon Hunt livree aux Old Guarders (canon) | - |
 
 ## Renvois
 

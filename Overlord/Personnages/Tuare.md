@@ -1,6 +1,8 @@
 # Tuare (Tuareninya Veyron)
 
-- version : W1
+- version : W2
+
+Amendement W2 : Trajectoire datee alimentee - R7 Les Envahisseurs (~J69 -> ~J80).
 
 Etat decrit : au premier contact avec Nazarick - sa rencontre avec Sebas Tian dans la
 capitale du Royaume (R6, ~J43). Fiche creee au build de R6 (Roadmap_6_Le_Majordome.md).
@@ -67,6 +69,8 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement. Dates ~ : positions re
 | ~J64 | Enlevee par les Huit Doigts pendant l'absence de Sebas et Solution (canon) ; Sebas rapporte a Azoth, qui porte a Ainz | captive |
 | ~J65 | Sauvee par Sebas, qui tue les Six Bras (canon, hors champ) | libre |
 | ~J66 | Arrivee au Grand Tombeau, 9e etage, comme servante ; formation confiee a Yuri (canon) | servante de Nazarick |
+| ~J69 | Salle du Trone : Sebas, recompense pour Gehenna, demande pour elle vetements et fournitures ; accorde par Ainz, Narberal choisit (canon) | - |
+| ~J69 -> ~J80 | Formation chez Yuri ; toile de fond de R7 (canon) | - |
 
 ## Renvois
 

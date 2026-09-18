@@ -1,6 +1,6 @@
 # Journal d'implications - Overlord
 
-- version : W25
+- version : W27
 
 Document de TRAVAIL. Jamais fetche en narration. Porte ce qui RESTE : doutes non tranches,
 questions en attente, points a reverifier. Ne garde aucune trace de ce qui est fait.
@@ -8,111 +8,109 @@ questions en attente, points a reverifier. Ne garde aucune trace de ce qui est f
 ## En attente de decision du worldbuilder
 
 - PASSE 2 : LN 11-14, par defaut ou en grille, reporte a la creation des fiches roadmap.
-  TITRES R5 -> R11 : choisis par le worldbuilder sur propositions du MJ, au build de
-  chacune (R5 : Le Stratege, 2026-09-16 ; R6 : Le Majordome, 2026-09-17). R1-R3 : les Bergers,
-  conserves (decision 2026-09-15). Roadmap_1 W2 porte encore "premiere conquete d'Albedo",
-  "premier charnel de Solution" (texte valide) - a denumeroter si la regle s'etend a R1.
-- QUESTIONS PARQUEES PAR ROADMAP (a ressortir numerotees au build de chacune) : R7 - Azoth
-  pendant l'invasion des Workers : jalon ou toile de fond ; Entoma retrouve une voix, celle
-  d'Arche (canon LN 7) : par qui, quand ; etat de Pestonya et Nigredo assignees ; Tuare en
-  formation chez Yuri ; Supreme du recit. R8 - datation des fiancailles ; place du mariage
-  Sebas-Tuare (Azoth officie). R9 - mariage entre la
-  visite de Jircniv et Katze, ou apres Katze ; rivalite de Shalltear qui perd son objet ;
-  premiere Ponction passionnelle du couple (jalon a placer) : reservee a l'amour pur et
-  reciproque, elle scelle le depassement de la programmation d'Albedo.
-  R10 - l'unite secrete d'Albedo (canon LN 10 [CANON SUPPOSE]) absorbee ou non par la
-  surveillance ; forme de la haine des Quarante chez Albedo. Surveillance : aucun resultat
-  avant R11 (reco MJ, non tranche). R8 - position de LN 8 : l'ordre fandom le place entre
-  LN 4 et LN 5, la grille en R8 (garde-cap W8) ; trancher la datation relative au build.
-- SATELLITES CHRONO : Azoth (chrono_1 CLOS a R5, chrono_2 ouvert a R6), Ainz et Albedo
-  ont les leurs (8k, coupe a la frontiere d'arc). Pour toute autre fiche qui franchirait
-  8k par sa Trajectoire datee : demander au worldbuilder (satellite ou derogation), ne pas
-  trancher seul.
-- VF : "Six Bras" (Six Arms) employe a R6 dans Roadmap_6, Sebas.md, Tuare.md - a confirmer
-  ou remplacer.
+  TITRES R8 -> R11 : choisis par le worldbuilder sur propositions du MJ, au build de
+  chacune (R5 Le Stratege, R6 Le Majordome, R7 Les Envahisseurs). R1-R3 : les Bergers,
+  conserves. Roadmap_1 W2 porte encore "premiere conquete d'Albedo", "premier charnel de
+  Solution" (texte valide) - a denumeroter si la regle s'etend a R1.
+- QUESTIONS PARQUEES PAR ROADMAP (a ressortir numerotees au build de chacune) : R8 -
+  fenetre COINCEE entre le depart d'Aura et Mare (~J80) et l'arrivee de Jircniv (R9,
+  quelques jours au canon ; source jeu : dix jours demandes, cinq accordes [CANON
+  SUPPOSE]) : Carne, refus, fiancailles, mariage Sebas-Tuare et trois seances y tiennent,
+  ou LN 8 se replace ; ordre refus / fiancailles ; forme de la decision de traque (les
+  raisons de chacun : Albedo n'a aucune rancune contre les Quarante au J0, Albedo.md W11 -
+  d'ou vient la sienne, a poser) ; position canon de LN 8 (ordre fandom : entre LN 4 et
+  LN 5). R9 - mariage entre la visite de Jircniv et Katze, ou apres Katze ; rivalite de
+  Shalltear qui perd son objet ; premiere Ponction passionnelle du couple (jalon a placer).
+  R10 - aucun resultat de la surveillance avant R11 (reco MJ, non tranche).
+- SATELLITES CHRONO : Azoth (chrono_1 CLOS a R5, chrono_2 R6 -> R7), Ainz (chrono_1 R1 ->
+  R7), Albedo (chrono_1 R1 -> R7) ; coupe a 8k, a la frontiere d'arc. Toute autre fiche qui
+  franchirait 8k par sa Trajectoire : demander (satellite ou derogation). PROCHES DU
+  PLAFOND : Entoma 9 853 / 10k et CZ 9 800 / 10k - Entoma 3 (R8) et CZ 3 (R9) ne tiendront
+  pas : question a poser au build de R8.
+- VF : "Six Bras" (Six Arms) employe a R6 - a confirmer ou remplacer. "Dragon Hunt" (VA
+  "Green Leaf") garde en anglais a R7 avec Foresight, Heavy Masher, Tenmu (canon).
 - VF A FIXER, reste : les noms des Arts Martiaux (a la relivraison de
-  Systemes/Systemes_Natifs.md ; Zenberu Gugu en use, Hommes_Lezards.md renvoie) ; noms
-  anglais conserves, actes : Worldslicer, Frost Pain ; le diminutif d'Aureole par Yuri ("Oh-chan" au canon,
-  Aureole_Omega.md porte encore un [INCERTAIN]). Worldslicer reste en anglais (acte).
-- LES TROIS ESSENCES DE RUBEDO : lesquelles, et ce que chacune lui donne. Ouvert tant qu'elle
-  ne sert pas. Nigredo_et_Rubedo.md porte un [INCERTAIN].
+  Systemes/Systemes_Natifs.md ; Zenberu Gugu et Erya Uzruth en usent) ; noms anglais
+  conserves, actes : Worldslicer, Frost Pain ; le diminutif d'Aureole par Yuri ("Oh-chan"
+  au canon, Aureole_Omega.md porte encore un [INCERTAIN]).
+- LES TROIS ESSENCES DE RUBEDO : lesquelles, et ce que chacune lui donne. Ouvert tant
+  qu'elle ne sert pas. Nigredo_et_Rubedo.md porte un [INCERTAIN].
+- TROU SB1, sans objet tant qu'aucun converti ne vit : un natif passe sous la foi des 41
+  peut-il ACQUERIR de nouveaux sorts divins de Nazarick, ou seulement debloquer la version
+  Negative de ce qu'il sait deja. Roberdyck est mort avant que la question se pose.
+- LES TROIS ELFES DE TENMU : esclaves des marches de Slane, village du Pays des Elfes ;
+  raccord possible avec R11 (Pays des Elfes) - a poser au build de R11, jamais deviner.
+- PLAFONDS TOLERES (au choix du worldbuilder, tolerance actee pour R7) : Roadmap_6 W1
+  8 061 ; Roadmap_7 W1 8 090 ; Resume W3 8 122 ; garde-cap W12 20 569 / 20k - coupe
+  possible : la ligne "historique" (W2 -> W6, ~450 car.), ou tolerance.
 
 ## A porter au prochain BIBLE BUILD
 
-- Aucun : deltas R5, R6 et Ponction passionnelle portes a B7 (2026-09-17).
+- Aucun : BIBLE BUILD fait a la sortie de R7 -> B9 (2026-09-18) : deltas R7 et regle de la
+  foi portes ; decroissance faite (SB5 a 3-4 lignes, Azoth 7 lignes en exception
+  protagoniste ; SB8 detones en une ligne ; SB3 R1-R5 au telegraphique strict) ;
+  reconciliation page = Sommaire 42/42. B9 : 34,2k (B8 37,2k ; B7 32,5k).
 
 ## Fiches en attente
 
-- ZESSHI : seule fiche de passe 1 non faite, reportee. L'arbre corrige (petite-fille de
-  Surshana et de Wish III) est deja porte par B3, Etres_Supremes W4 et Echelle_Puissance W2.
-  Son age est redevenu libre (export passe 2). Premiere convocation en R11 (numero
-  provisoire ; hors camera avant) ; noyau a creer a cette boucle.
+- ZESSHI : seule fiche de passe 1 non faite, reportee. L'arbre corrige est porte par B3,
+  Etres_Supremes W4 et Echelle_Puissance W2. Age libre. Premiere convocation en R11 ;
+  noyau a creer a cette boucle.
+- R9 convoquera JIRCNIV et FLUDER (fiches natives absentes) ; l'Empire n'a qu'une notice
+  dans Re-Estize.md W1 - page NouveauMonde/Baharuth.md a envisager au build de R9.
 
 ## Faits a durcir ou couper
 
 - Soldes le 2026-09-15 (Ainz, Albedo, Demiurge, Sebas, Narberal, CZ2128, Lupusregina,
-  Entoma, Pleiades, Six_Grands_Dieux). R6 : Tuare.md et Hilma_Cygnaeus.md portent "inconnu
-  au canon" (ages, niveaux) - a verifier en source si le canon les donne un jour ;
-  Pestonya : karma chiffre non verifie, notice sans chiffre. Reste : Pandoras_Actor.md, 45 formes a 80 %
-  [INCERTAIN] - a verifier en source a sa prochaine relivraison ; Aureole_Omega.md,
-  diminutif (cf. VF ci-dessus) ; Nigredo_et_Rubedo.md, trois essences (ouvert).
+  Entoma, Pleiades, Six_Grands_Dieux). Tuare.md et Hilma_Cygnaeus.md portent "inconnu au
+  canon" (ages, niveaux) ; Pestonya : karma non verifie, notice sans chiffre ;
+  Pandoras_Actor.md, 45 formes a 80 % [INCERTAIN] ; Aureole_Omega.md, diminutif ;
+  Nigredo_et_Rubedo.md, trois essences. R7 : Roberdyck_Goltron.md, apparence [INCERTAIN]
+  (fandom bloque au fetch) ; Workers.md, ages des elfes et niveaux "inconnus au canon" -
+  a verifier en source si le canon les donne un jour.
 
 ## Trajectoires connues, en attente de roadmap
 
-- Portees par le garde-cap (Roadmap/Azoth/Chronologie.md W7) : grille R4-R11,
-  section "Fils transversaux" (six fils Pleiades, Shalltear, Solution) et "Raccords
-  parques". R1-R3 sont en roadmap. Ce journal n'en tient plus la liste.
-- Les fiches Pleiades W1 portent l'AXE de chaque soeur (noyau) ; les seances datees entrent
-  en Trajectoire datee a mesure que les roadmaps R4-R10 les placent.
+- Portees par le garde-cap (Roadmap/Azoth/Chronologie.md W12) : grille R8-R11, "Fils
+  transversaux", "Raccords parques". R1-R7 sont en roadmap.
 
 ## A verifier a la cloture de passe 2
 
-- Coherence de la double horloge (conscience / age programme) sur toutes les fiches
-  d'entites.
-- Que l'exception CZ2128 n'ait fuite dans aucune fiche : le garde-fou de
-  Nazarick/Regles_Internes.md doit rester intact pour tout autre PNJ.
+- Coherence de la double horloge (conscience / age programme) sur toutes les fiches.
+- Que l'exception CZ2128 n'ait fuite dans aucune fiche : garde-fou de Regles_Internes.md
+  intact pour tout autre PNJ.
 - Que la Trajectoire datee de chaque fiche ne contienne rien qui n'ait ete roadmappe.
-- Pandoras_Actor.md porte un [INCERTAIN] : 45 formes a 80 % (fandom bloque au fetch).
-- Regle de tenue des jalons (annulation du tour, reformulation) : repliquee dans chaque
-  roadmap ; a centraliser en SPEC ou Instructions RP si le worldbuilder le souhaite.
-- Que la troncature d'arc n'ait laisse passer aucune preteriton : une Note de frontiere
+- Regle de tenue des jalons : repliquee dans chaque roadmap ; a centraliser en SPEC ou
+  Instructions RP si le worldbuilder le souhaite.
+- Que la troncature d'arc n'ait laisse passer aucune preterition : une Note de frontiere
   dit QU'IL MANQUE quelque chose, jamais QUOI.
-- PAPILLON LN 16 : R11 (provisoire) extrait Zesshi de la Theocratie et remplace la fin canon du tome 16
-  (guerre contre la Theocratie) par une vassalite. Verifier qu'aucune fiche NouveauMonde ne
-  contredit l'aval une fois R11 detaille.
-- RECONCILIATION : au prochain build, verifier page = Sommaire. Verifiee a B3 sur les 28
-  pages indexees ; W27 : 34 pages, versions reportees au build B6 ; W33 : 40 pages, B7 -
-  verification partielle (pages relivrees ce jour seulement), a completer au prochain build.
-- TROUS DE TRAJECTOIRE R1-R3 : Albedo.md n'avait aucune ligne J12 (ajoutee a W5) ;
-  verifier a la relecture croisee Demiurge, Sebas, Aura_et_Mare, Victim, CZ2128,
-  Pandoras_Actor pour les jalons R1-R3 qui les convoquent (J12 Salle du Trone, J0 arene).
-- VICTIM.md : Aureole_Omega W4 dit "ne quitte son etage que pour les sermons, toujours en
-  garde du corps de Victim" ; verifier la formulation cote Victim a sa prochaine
-  relivraison.
-- ROADMAP_4 W1 : la demande de Narberal (etape 3) est attribuee a la doctrine de la
-  quemande, bornee depuis au consentement sexuel ; "Arc suivant" sans nom de fichier.
-  Relivrer W2 a la relecture croisee, les deux corrections en un lot.
-- THEOLOGIE_BASE W5 : verifier que la doctrine y est bornee au consentement sexuel comme
-  dans Azoth.md W11 ; corriger a sa prochaine relivraison.
-- MARE au J35-J36 : les Gardiens accompagnent Ainz (canon, Timeline) ; Aura attestee au
-  duel, Mare non verifie individuellement. A verifier en source avant la fiche d'arc R5.
-- SHALLTEAR au J36 : au canon, elle sert de siege a Ainz pendant le duel (suite de sa
-  punition, exigee par Albedo) ; le RP a remplace le chatiment par la seance du J12 soir.
-  Detail de scene : trancher a la fiche d'arc R5 (passe 3), pas en roadmap.
-- HOMMES_LEZARDS.md : niveaux inconnus au canon ; si Echelle_Puissance les chiffre un jour,
-  reporter.
-- GEHENNA, composition des Pleiades sorties en demons : Yuri et Entoma attestees (canon) ;
-  Lupusregina (a Carne au RP), Solution (au manoir), CZ et Narberal (Nabe avec Momon) non
-  verifiees individuellement - CZ2128_Delta.md et Narberal_Gamma.md non enrichies a R6.
-  Verifier en source avant la fiche d'arc R6.
-- ROADMAP_6 W1 : 8 061 car. apres les coupes 1-6 validees (2026-09-17), 61 au-dessus du
-  plafond 8k ; derniere coupe ou tolerance : au choix du worldbuilder.
-- LIEUX DE SCENE R6 laisses a la passe 3 : remerciements d'Azoth a Demiurge (~J66) ; seance
-  hors grille d'Entoma (~J66) ; plaidoyer (~J68).
-- NIGREDO AU PLAIDOYER (~J68) : son setting la cloue a la Prison Gelee et son superieur est
-  Cocytus, non Sebas. Forme de sa participation (Ainz descend au 5e ? plaide par Pestonya ?)
-  : detail de scene, a trancher a la fiche d'arc R6 (passe 3).
-- VICTIM.md : rien a R6 (reste au Tombeau pendant le test, decision worldbuilder) ; le
-  Sommaire l'indique inchange.
+- PAPILLON LN 16 : R11 extrait Zesshi de la Theocratie et remplace la guerre canon par une
+  vassalite. Verifier qu'aucune fiche NouveauMonde ne contredit l'aval.
+- RECONCILIATION page = Sommaire : W35 (42 pages) verifiee 42/42 en raw le 2026-09-18 ;
+  seul ecart : les pages relivrees a R7, en attente de push. Ainz_chrono_1 : le W2 du
+  thread R6 n'a jamais ete pousse ; W2 reconstruit a R7 depuis Roadmap_6 W1 - si un W2
+  local existe chez le worldbuilder, ne pas le pousser par-dessus.
+- TROUS DE TRAJECTOIRE R1-R3 : verifier a la relecture croisee Demiurge, Sebas,
+  Aura_et_Mare, Victim, CZ2128, Pandoras_Actor pour les jalons R1-R3 qui les convoquent.
+- VICTIM.md : formulation "garde du corps d'Aureole" a verifier a sa prochaine relivraison.
+- ROADMAP_4 W1 : demande de Narberal (etape 3) attribuee a la doctrine de la quemande,
+  bornee depuis au consentement sexuel ; "Arc suivant" sans nom de fichier. Relivrer W2 a
+  la relecture croisee.
+- THEOLOGIE_BASE W5 : verifier que la doctrine y est bornee au consentement sexuel.
+- MARE au J35-J36 : Aura attestee au duel, Mare non verifie. Avant la fiche d'arc R5.
+- SHALLTEAR au J36 : siege d'Ainz au canon ; detail de scene a la fiche d'arc R5.
+- HOMMES_LEZARDS.md : niveaux inconnus au canon.
+- GEHENNA, composition des Pleiades en demons : Yuri et Entoma attestees ; les autres non
+  verifiees individuellement. Avant la fiche d'arc R6.
+- R7, POUR LA FICHE D'ARC (passe 3) : la loge de l'arene - Albedo, Aura, Cocytus,
+  Shalltear attestees, Mare et Demiurge non verifies ; la surface - Yuri, CZ, Lupusregina
+  attestees, Solution et Entoma actees par decision, non verifiees ; le Talent d'Arche lit
+  le RANG, pas la branche - l'Amulette du Saint Maudit ne detone pas, ne pas le jouer
+  comme un test ; qui porte le coup a Erya : Hamsuke (canon LN et anime) ; lieux de scene :
+  la pose de la voix (chambre d'Azoth), Roberdyck (chambre des desirs).
+- LIEUX DE SCENE R6 laisses a la passe 3 : remerciements a Demiurge ; seance hors grille
+  d'Entoma ; plaidoyer. NIGREDO AU PLAIDOYER : clouee au 5e, superieur Cocytus - forme a
+  trancher a la fiche d'arc R6.
+- VICTIM.md : rien a R6 ni R7 ; le Sommaire l'indique inchange.
 
 FIN_WIKI__IMPLICATIONS

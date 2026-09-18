@@ -1,12 +1,13 @@
 # Sebas Tian
 
-- version : W4
+- version : W5
 
 Amendement W2 : classement des karmas positifs retire ; Trajectoire datee alimentee - R1
 Berger Sincere (J0 -> J8).
 Amendement W4 : Trajectoire datee alimentee - R6 Le Majordome (J38 -> ~J68) ; doctrine
 bornee au consentement sexuel propagee (Psychologie) ; renvoi Tuare ; derogation de plafond
 10k (decision worldbuilder, 2026-09-17).
+Amendement W5 : Trajectoire datee alimentee - R7 Les Envahisseurs (~J69 -> ~J80).
 
 Etat decrit : jour 0.
 
@@ -154,6 +155,9 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | ~J65 | Gehenna : tue les Six Bras, sauve Tuare (canon) | - |
 | ~J66 | Rentre au Tombeau avec Solution et Tuare ; mission finie | au Tombeau |
 | ~J68 | Plaidoyer de Pestonya et Nigredo pour les captifs : le porte a Azoth, lui demande de l'accompagner devant Ainz ; y siege en superieur direct (decision worldbuilder) ; refus, assignation a residence (canon) | - |
+| ~J69 | Salle du Trone, honneurs de Gehenna : recompense, demande des vetements et fournitures pour Tuare ; accorde, Narberal pour le choix (canon) | - |
+| ~J69 -> ~J80 | Pestonya confinee : commande ses servantes lui-meme, sans suppleante nommee (decision worldbuilder) | - |
+| ~J76 | Invasion des Workers : tient le 9e, Azoth aupres d'Ainz et d'Albedo (decision worldbuilder) ; le 9e n'est jamais atteint (canon) | - |
 
 ## Renvois
 

@@ -1,6 +1,11 @@
 # Chronologie des roadmaps - Azoth / Le Cardinal Demoniaque
 
-- version : W11
+- version : W12
+- amendement W12 : R7 builde (Les Envahisseurs) ; pas d'unite secrete d'Albedo, la traque
+  est l'affaire du couple seul (R10 corrige) ; refus d'Ainz precise (R8) ; voix d'Arche
+  deplacee de R8 en R7 ; regle de la foi completee (Magie.md W5) ; fiches
+  Roberdyck_Goltron et Workers creees ; Shalltear.md 10k, Magie.md 12k (decisions
+  worldbuilder, 2026-09-18).
 - amendement W11 : R11, sens de la lisiere partagee avec Zesshi - pedagogie amoureuse
   (decision worldbuilder, 2026-09-17).
 - amendement W10 : etiquette R3 corrigee (W3) ; R9 : premiere Ponction passionnelle du
@@ -120,30 +125,42 @@
   Carne ; Sebas et Solution rentres ; Yuri 2 et Lupusregina 1 faites ; recit de Touch Me
   fait, opposition Touch Me / Ulbert enoncee. Detail : roadmap et fiches.
 
-## R7 - [TITRE A POSER] - LN 7 [A BUILDER]
+## R7 - Les Envahisseurs [BUILDE - W1]
 
-- Fenetre : quelques jours - invasion des Workers.
-- Face Tombeau : NAZARICK ENVAHI ; Azoth Gardien du 9e, jamais atteint ; Shalltear dans
-  l'arene (canon) ; les elfes de Tenmu donnes a Aura et Mare (canon) ; seance : CZ 2.
-- Element central : [A POSER].
-- Fichier : [A POSER au build]
-- [A POSER] : Azoth en jalon ou en toile de fond ; ce qu'il fait pendant l'alerte ; ce
-  qu'il voit (arene ?).
+- Bornes : ~J69, Salle du Trone -> ~J80, Aura et Mare partis pour Arwintar (LN 7).
+  Fichier : Roadmap_7_Les_Envahisseurs.md.
+- Etapes : (1) ~J69 -> ~J75 Le Trone et l'attente ; (2) ~J76 L'invasion ; (3) ~J77 -> ~J80
+  La voix, le pretre, Arwintar.
+- Element central : l'invasion du Tombeau - la seule au canon, voulue par Nazarick.
+- Ce que R7 a pose pour la suite : Azoth vit l'invasion aupres d'Ainz et d'Albedo, miroir
+  puis loge, Sebas tient le 9e ; seul a ne pas se boucher les oreilles ; le mensonge de
+  Hekkeran au nom d'un Supreme - but commun d'Azoth et d'Albedo, non dit, raisons
+  differentes : Ainz seul maitre, les autres un souvenir ; PAS D'UNITE SECRETE [DIVERGENCE
+  RP], la traque se decide aux fiancailles (R8) ; voix d'Arche posee a Entoma par Azoth,
+  en prive ; Roberdyck brise et lave, regle de la foi demontree (Magie.md W5), tue ; les
+  trois elfes de Tenmu au 6e, sans contact ; recit Genjiro + Tabula fait ; CZ 2 faite ;
+  Aura et Mare partis, Jircniv attendu ; aucune sortie en corps. Detail : roadmap et
+  fiches (Personnages/Roberdyck_Goltron.md, Personnages/Workers.md).
 
 ## R8 - [TITRE A POSER] - LN 8 [A BUILDER]
 
-- Fenetre : calme relatif - Carne, repos d'Ainz.
+- Fenetre : calme relatif - Carne, repos d'Ainz. COINCEE entre le depart d'Aura et Mare
+  pour Arwintar (~J80) et l'arrivee de Jircniv au Tombeau (R9), quelques jours au canon.
 - Face Tombeau : jour de repos d'Ainz avec Aura et Mare (canon) ; rapports de Lupusregina
-  depuis Carne ; CONQUETE D'ALBEDO ACHEVEE : Ainz dit clairement a Albedo qu'il ne
-  l'aimera jamais en epouse ; FIANCAILLES decidees ; MARIAGE de Sebas et Tuare, Azoth
-  officie (decision worldbuilder, 2026-09-17) ; Entoma retrouve une voix, celle d'Arche
-  (canon LN 7, en R7) ; seances : Entoma 3, Lupusregina 2, Narberal 2 (cours de cuisine
-  avec Tuare).
+  depuis Carne ; CONQUETE D'ALBEDO ACHEVEE : Ainz dit clairement a Albedo qu'il ne l'aime
+  pas d'amour, qu'elle merite quelqu'un qui l'aimera avec la meme passion et la meme
+  luxure qu'elle a a offrir - Azoth (decision worldbuilder, 2026-09-18) ; FIANCAILLES
+  decidees ; LA TRAQUE decidee par le couple aux fiancailles - aneantir tout autre Supreme
+  avant qu'Ainz ou un PNJ n'apprenne son existence, but commun des R7 pour des raisons
+  differentes (decision worldbuilder, 2026-09-18) ; MARIAGE de Sebas et Tuare, Azoth
+  officie (decision worldbuilder, 2026-09-17) ; seances : Entoma 3, Lupusregina 2,
+  Narberal 2 (cours de cuisine avec Tuare).
 - Element central : [A POSER].
 - Fichier : [A POSER au build]
-- [A POSER] : ordre entre le refus d'Ainz et les fiancailles ; datation relative ;
-  Shalltear devant les fiancailles ; Demiurge devant les fiancailles ; place du mariage
-  Sebas-Tuare dans le bloc.
+- [A POSER] : ordre entre le refus d'Ainz et les fiancailles ; datation relative dans la
+  fenetre coincee, ou LN 8 se replace ; Shalltear devant les fiancailles ; Demiurge devant
+  les fiancailles ; place du mariage Sebas-Tuare dans le bloc ; forme de la decision de
+  traque (les raisons de chacun).
 
 ## R9 - [TITRE A POSER] - LN 9 [A BUILDER]
 
@@ -165,7 +182,8 @@
   PASSIONNELLE du couple, des le mariage - reservee a l'amour pur et reciproque, jamais a
   la luxure (BIBLE SB1, SB8) ; epoux en union tres libre - chacun couche ailleurs tant que
   le coeur n'appartient qu'a l'autre ;
-  ultra-protecteurs des autres, Demiurge compris ; debut de la SURVEILLANCE (cf. R10) ;
+  ultra-protecteurs des autres, Demiurge compris ; la SURVEILLANCE decidee en R8 est
+  CONFIRMEE, Albedo sachant tout (cf. R10) ;
   Ainz et Mare partent pour Katze, Nazarick regarde ; seance : CZ 3.
 - Element central : Albedo - de l'ecriture au choix.
 - Fichier : [A POSER au build]
@@ -179,18 +197,17 @@
 
 - Fenetre : fondation du Royaume Sorcier -> E-Rantel cedee, printemps.
 - Face Tombeau : fondation ; Albedo REGENTE, mariee ; Yuri et CZ a l'orphelinat
-  d'E-Rantel [CANON SUPPOSE] ; unite secrete d'Albedo, officiellement pour retrouver les
-  Supremes [CANON SUPPOSE] ; creux de Shalltear ; SURVEILLANCE DU COUPLE : dans le dos
-  d'Ainz, aneantir tout ancien Supreme avant qu'Ainz ou un PNJ n'apprenne son existence
-  - prets a tuer leurs propres createurs, en faire le SEUL maitre (ironie joueur ->
-  CODEX) ; les six autres chefs des Huit Doigts amenes via Hilma, brises facon canon -
+  d'E-Rantel [CANON SUPPOSE] ; PAS D'UNITE SECRETE [DIVERGENCE RP - canon LN 7 : Albedo
+  la propose apres Foresight] : le couple seul porte le fardeau ; creux de Shalltear ;
+  SURVEILLANCE DU COUPLE : dans le dos d'Ainz, aneantir tout ancien Supreme avant qu'Ainz
+  ou un PNJ n'apprenne son existence - prets a tuer leurs propres createurs, en faire le
+  SEUL maitre (ironie joueur -> CODEX) ; les six autres chefs des Huit Doigts amenes via Hilma, brises facon canon -
   Kyouhukou (canon LN 10 ; decision worldbuilder, 2026-09-17) ; seances : Yuri 3,
   Lupusregina 3, Narberal 3.
 - Element central : [A POSER].
 - Fichier : [A POSER au build]
-- [A POSER] : l'unite secrete canon absorbee par la surveillance, ou non ; aucun
-  resultat de la surveillance avant R11 (reco MJ, non tranche) ; Albedo Regente hors du
-  Tombeau et les seances.
+- [A POSER] : aucun resultat de la surveillance avant R11 (reco MJ, non tranche) ; Albedo
+  Regente hors du Tombeau et les seances.
 
 ## LN 11 -> 14 - [A POSER a la creation des fiches roadmap]
 
@@ -248,8 +265,8 @@ CZ 3 ; R10 Yuri 3, Lupusregina 3, Narberal 3.
   go) tres serree, victoires alternees. Pendant sa mission (R6) : a chacun de ses retours
   par parchemin, sans compte.
 - ENTOMA VASILISSA ZETA - axe : la gene de ne manger que de l'humain ; Azoth lui cuisine.
-  1 (R4) et 2 (R5) : faites, cf. Entoma_Vasilissa_Zeta.md. Sans voix des R6 (Gehenna),
-  voix d'Arche en R7 (canon). 3 (R8) : nouvelle viande, simple
+  1 (R4) et 2 (R5) : faites, cf. Entoma_Vasilissa_Zeta.md. Sans voix des R6 (Gehenna) ;
+  voix d'Arche en R7 (~J77, canon), posee par Azoth en prive. 3 (R8) : nouvelle viande, simple
   pretexte - elle veut decouvrir le sexe ; ils couchent ensemble.
 - LUPUSREGINA BETA - axe : accepter son cote bestial dans ce qu'il a de vulnerable. 1 (R6)
   : faite, cf. Lupusregina_Beta.md. 2 (R8) :
@@ -258,9 +275,8 @@ CZ 3 ; R10 Yuri 3, Lupusregina 3, Narberal 3.
   se laisser faire, animal ; puis fecondee. FECONDATION AU CHOIX DU JOUEUR ; elle elevera
   sa portee seule quoi qu'il arrive - Azoth est son Alpha, pas son male. Issue en
   Parties/, jamais roadmappee.
-- CZ2128 DELTA - axe : sentir. 1 (R5) : faite, verrous leves, cf. CZ2128_Delta.md. 2 (R7) : elle a connu la tristesse, le bonheur, la jalousie, un peu malgre
-  elle ; difficile a gerer ; laquelle est la plus dure a maitriser ? Azoth la briefe sur
-  l'amour ; un instant elle croit l'aimer ; en reflechissant correctement, un ami. 3 (R9)
+- CZ2128 DELTA - axe : sentir. 1 (R5) : faite, verrous leves, cf. CZ2128_Delta.md. 2 (R7)
+  : faite (~J78-J79), cf. CZ2128_Delta.md. 3 (R9)
   : elle revient pour experimenter le plaisir ; separe de l'amour, ca la derange ? non ;
   ils baisent.
 - SHALLTEAR BLOODFALLEN - fil RECURRENT, non jalonne : plaisir charnel, place par le MJ
@@ -273,7 +289,9 @@ CZ 3 ; R10 Yuri 3, Lupusregina 3, Narberal 3.
   Azoth la convainc peu a peu qu'il a a lui offrir tout ce qu'elle veut, qu'Ainz est hors
   d'atteinte et surtout pas interesse - Ainz le lui dira en personne (R8) ; refus d'Ainz
   et fiancailles en R8 ; verite, acceptation et mariage en R9, apres la visite de Jircniv
-  (confirme) ; surveillance du couple des R9-R10.
+  (confirme). LA TRAQUE : but commun des R7 (le mensonge de Hekkeran), pour des raisons
+  differentes, sans se le dire ; decidee aux fiancailles (R8) ; confirmee apres la verite
+  (R9) ; sans unite secrete (R10).
 - AINZ OOAL GOWN - fil des RECITS : un recit par roadmap, R4 -> R8 (cinq recits), a
   donner des details sur les autres Supremes ; la discussion interceptee par Albedo (R9)
   clot la serie. Ensuite plus de seances privees : conseils de guerre et discussions entre
@@ -281,14 +299,16 @@ CZ 3 ; R10 Yuri 3, Lupusregina 3, Narberal 3.
   Azoth est son SEUL CONFIDENT et l'etre le plus stable de Nazarick des J12 ;
   officieusement son bras droit. R4 : PERORONCINO (fait) ; R5 : PUNITTO MOE et WARRIOR
   TAKEMIKAZUCHI en un recit (fait) ; R6 : TOUCH ME (fait), opposition Touch Me / Ulbert
-  enoncee ; Ulbert reserve au dernier recit, R8 (reco MJ acceptee 2026-09-14) ; R7 : au
-  build, avec ce qui y ebranle Azoth.
+  enoncee ; R7 : GENJIRO et TABULA en un recit (fait) ; Ulbert reserve au dernier recit,
+  R8 (reco MJ acceptee 2026-09-14).
 
 ## Raccords parques (hors blocs, en attente d'arc)
 
 - SEBAS ET TUARE : rencontre faite (R6) ; MARIAGE en R8, Azoth officie (decision
   worldbuilder, 2026-09-17).
 - SOLUTION ET SEBAS : mission faite (R6) - depart J38, retour ~J66.
+- LES TROIS ELFES DE TENMU (R7) : esclaves des marches de Slane, village du Pays des Elfes
+  ; au service d'Aura et Mare ; raccord possible avec R11, non tranche.
 - THEOLOGIE SANS FAILLE : chantier permanent d'Azoth des R3, travaille entre chaque
   sermon ; quasi parfaite au J21 (R4) ; un preche integralement sans faille : non date,
   hors R4 ; future page soeur de Theologie_base [a builder quand elle se preche].

@@ -1,9 +1,10 @@
 # Narberal Gamma
 
-- version : W3
+- version : W4
 
 Amendement W2 : Trajectoire datee alimentee - detachement a E-Rantel (~J8, canon) ; R4 Le
 Confident (J13 -> J22).
+Amendement W4 : Trajectoire datee alimentee - R7 Les Envahisseurs (~J69 -> ~J76).
 
 Etat decrit : jour 0.
 
@@ -75,6 +76,8 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J14, J21 | Offices, rentree par parchemin | - |
 | J21 | Ainz lui reproche sa froideur avec les humains ; veut etre une meilleure alliee et le demande a Azoth | - |
 | J22 | Carne avec Azoth, sous illusion humaine ; elle en Nabe : apprendre a mieux s'exprimer avec des humains - seance 1 | fil : seance 1 faite |
+| ~J69 | Salle du Trone : Sebas, recompense pour Gehenna, demande des vetements pour Tuare ; Ainz la designe pour le choix (canon) | - |
+| ~J70 -> ~J76 | En Nabe avec Momon : engages par le comte Femel en escorte des Workers jusqu'au Tombeau (canon) ; au camp, reste avec Pandora's Actor en Momon quand Ainz rentre (canon) | hors du Tombeau |
 
 ## Renvois
 

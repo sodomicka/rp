@@ -1,6 +1,7 @@
 # Albedo - Trajectoire datee, fichier 1
 
-- version : W2
+- version : W3
+- amendement W3 : R7 Les Envahisseurs (~J69 -> ~J80).
 - amendement W2 : R6 Le Majordome (J37 -> ~J68).
 - role : satellite de Personnages/Albedo.md (plafond derogatoire 12k, decision
   worldbuilder, 2026-09-16). Porte la TRAJECTOIRE DATEE : ce que l'entite DEVIENT apres le
@@ -10,7 +11,7 @@
   le moment venu.
 - couverture : R1 Berger Sincere (J0 -> J8), R2 Berger Perdu (J9 -> J11), R3 Berger
   Martyr (J11 -> J12), R4 Le Confident (J12 soir -> J26), R5 Le Stratege (J27 -> J36),
-  R6 Le Majordome (J37 -> ~J68). Suivant : R7, a l'integration.
+  R6 Le Majordome (J37 -> ~J68), R7 Les Envahisseurs (~J69 -> ~J80). Suivant : R8.
 - lecture : le noyau (identite, mecanique, rapports au jour 0) reste dans Albedo.md. Quand un
   RP diverge, le delta va en Parties/ et surclasse ce fichier pour cette partie. Datation :
   J0 = minuit du transfert (BIBLE SB3).
@@ -57,6 +58,14 @@
 |---|---|---|
 | J37-~J68 | Conquete continue : sexe et drague avec Azoth, sans compte ; aucun basculement | conquete ouverte |
 | ~J64 | Recoit d'Ainz l'ordre de l'operation contre les Huit Doigts ; envoie Demiurge, Mare, Shalltear et les Pleiades (canon) | - |
+
+## R7 - Les Envahisseurs (~J69 -> ~J80)
+
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| ~J69 -> ~J80 | Conquete continue : sexe et drague avec Azoth, sans compte ; aucun basculement | conquete ouverte |
+| ~J69 | Salle du Trone : honneurs de Gehenna ; Demiurge reaffirme la conquete du monde, Ainz acquiesce (canon) | - |
+| ~J76 | Devant le miroir avec Ainz et Azoth : l'invasion des Workers. Loge de l'arene avec Azoth, Aura, Cocytus, Shalltear : Hekkeran pretend tenir d'un compagnon d'Ainz la permission d'entrer, Ainz saigne sur le nom d'un Supreme (canon). Elle veut la meme chose qu'Azoth - Ainz seul maitre, les autres un souvenir - pour ses raisons a elle ; rien n'est dit (decision worldbuilder) | but commun, non dit ; decision aux fiancailles (R8) |
 
 ## Renvois
 

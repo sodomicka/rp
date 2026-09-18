@@ -1,10 +1,11 @@
 # Pandora's Actor
 
-- version : W4
+- version : W5
 
 Amendement W2 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
 Amendement W3 : la jalousie canon d'Albedo n'est pas retenue (decision worldbuilder).
 Amendement W4 : Trajectoire datee alimentee - R6 Le Majordome (~J57).
+Amendement W5 : Trajectoire datee alimentee - R7 Les Envahisseurs (~J76).
 
 Etat decrit : jour 0.
 
@@ -118,6 +119,7 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J0 | Accueille Ainz et Azoth a Ashurbanipal sous la forme d'Ulbert ; reconfigure a la seule voix par son createur | fin du salut martial et de l'allemand ; tempere en toutes circonstances |
 | J0 | Ouvre les ecrits des Supremes a Azoth, qui s'installe aux archives | - |
 | ~J57 | Prend la forme d'Ainz, occupe en Momon, pour le test de loyaute de Sebas au manoir de la capitale, avec Azoth, Demiurge et Cocytus (canon LN) ; seul Azoth sait (decision worldbuilder) ; repart avant que le vrai Ainz se presente (canon) | - |
+| ~J76 | Double Momon au camp des Workers, Narberal en Nabe a ses cotes, pendant qu'Ainz rentre diriger l'invasion (canon) | - |
 
 ## Renvois
 

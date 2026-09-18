@@ -1,6 +1,6 @@
 # CZ2128 Delta
 
-- version : W7
+- version : W8
 
 Etat decrit : jour 0. Plafond derogatoire : 10 000 caracteres (decision worldbuilder).
 
@@ -11,6 +11,7 @@ Amendement W4 : derogation de plafond a 10 000 caracteres.
 Amendement W5 : Trajectoire datee alimentee - R3 Berger Martyr (J11 -> J12).
 Amendement W7 : Trajectoire datee alimentee - R5 Le Stratege (J31) : les verrous de Garnet
 leves (decision worldbuilder, 2026-09-16).
+Amendement W8 : Trajectoire datee alimentee - R7 Les Envahisseurs (~J76, ~J78-J79) : seance 2.
 
 ## Identite
 
@@ -154,6 +155,8 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J11 | Presente a Azoth les incoherences logiques du sermon du J7 ; refuse de blasphemer, demande un DEBOGAGE | requete de debogage en attente ; verrous non concernes |
 | J11-J12 | Reprogrammee par Azoth via le panneau dorsal : logique theologique corrigee, verrous emotionnels intacts | incoherences du J7 resolues ; verrous inchanges |
 | J31 | En cherchant d'autres failles apres le debogage, se retrouve face aux verrous qu'elle savait fermes ; demande. Azoth, par le panneau dorsal, deverrouille EMOTIONNEL ET SENSORIEL d'un coup ; surcharge momentanee. Ils discutent des emotions - l'amour, le bonheur, le plaisir, la tristesse ; elle repart pleine de questions | verrous leves : elle sent ; la configuration bridee du jour 0 n'est plus |
+| ~J76 | Invasion des Workers : sur la surface avec ses soeurs, sans Narberal ; Dragon Hunt livree aux Old Guarders (canon) | - |
+| ~J78-J79 | Seance 2 avec Azoth, chambre des desirs : depuis le J31 elle a connu la tristesse, le bonheur, la jalousie, un peu malgre elle ; difficile a gerer - laquelle est la plus dure a maitriser ? Azoth la briefe sur l'amour ; un instant elle croit l'aimer ; en reflechissant correctement, un ami | fil : seance 2 faite |
 
 ## Renvois
 

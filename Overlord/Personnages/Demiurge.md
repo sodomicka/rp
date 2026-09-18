@@ -1,11 +1,12 @@
 # Demiurge
 
-- version : W6
+- version : W7
 
 Amendement W2 : Trajectoire datee alimentee - R1 Berger Sincere (J0 -> J8).
 Amendement W3 : Trajectoire datee alimentee - R2 Berger Perdu (J9 -> J11).
 Amendement W5 : Trajectoire datee alimentee - R5 Le Stratege (J34 -> J36).
 Amendement W6 : Trajectoire datee alimentee - R6 Le Majordome (~J57 -> ~J66).
+Amendement W7 : Trajectoire datee alimentee - R7 Les Envahisseurs (~J69, ~J76).
 
 Etat decrit : jour 0.
 
@@ -120,6 +121,8 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | ~J64 | Recoit d'Albedo, sur ordre d'Ainz, l'operation contre les Huit Doigts : Jaldabaoth (canon) | Jaldabaoth, pour le Royaume |
 | ~J65 | Gehenna, hors champ (canon) : sauve Entoma, combat truque contre Momon ; l'appareil des Huit Doigts et les captifs remontent a Nazarick | - |
 | ~J66 | Au retour : Azoth le remercie d'avoir sauve Entoma - sincere, sans aucune joute ; voit son frere simplement redevable (decision worldbuilder) | - |
+| ~J69 | Salle du Trone, honneurs de Gehenna : reaffirme l'objectif final, la conquete du monde, propose Nazarick en nation ; Ainz acquiesce (canon). Le plan des Workers est le sien - Fluder rallie, l'Empire pousse a envoyer des Workers (canon) | - |
+| ~J76 | Invasion des Workers, son plan : Ainz, oreilles de tous bouchees, le nomme comme auteur - il ne voulait pas les faire entrer (canon) ; Azoth seul l'entend (decision worldbuilder) | - |
 
 ## Renvois
 
@@ -129,5 +132,6 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 - Ulbert et les 41 : cf. Nazarick/Etres_Supremes.md.
 - Paliers internes : cf. Systemes/Echelle_Puissance.md.
 - Son jumeau : cf. Personnages/Azoth.md.
+- Les Workers, son plan : cf. Personnages/Workers.md.
 
 FIN_WIKI_PERSONNAGES_DEMIURGE

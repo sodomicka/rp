@@ -1,6 +1,6 @@
 # Shalltear Bloodfallen
 
-- version : W10
+- version : W11
 
 Etat decrit : jour 0.
 
@@ -14,6 +14,8 @@ Amendement W9 : Trajectoire datee alimentee - R5 Le Stratege (J34 -> J36).
 Amendement W8 : fil recurrent avec Azoth et crise de legitimite (garde-cap W4) ;
 Amendement W10 : Trajectoire datee alimentee - R6 Le Majordome (~J64-J65).
 Trajectoire datee alimentee - R4 Le Confident (J12 soir).
+Amendement W11 : Trajectoire datee alimentee - R7 Les Envahisseurs (~J76) ; derogation de
+plafond 10k (decision worldbuilder, 2026-09-18).
 
 ## Identite
 
@@ -134,6 +136,7 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J34 soir | Salle du Trone, Gardiens assembles : la defaite de Cocytus (canon) | - |
 | J35-J36 | Sort avec Ainz et les Gardiens : ultimatum, duel, resurrection des trois par Azoth (canon : presente) | - |
 | ~J64-J65 | Convoquee par Demiurge pour Gehenna ; sort avec Mare et les Pleiades (canon). Crise de legitimite toujours ouverte | - |
+| ~J76 | Invasion des Workers : loge de l'arene du 6e avec Albedo, Azoth, Aura et Cocytus pendant le combat d'Ainz contre Foresight ; ordre d'Ainz - prendre Arche Eeb Rile Furt sans l'abimer ; la rattrape en fuite, mort misericordieuse, corps a Nazarick, la voix ira a Entoma (canon). Crise de legitimite toujours ouverte | - |
 
 ## Renvois
 
@@ -143,5 +146,6 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap uniquement.
 - Peroroncino et les 41 : cf. Nazarick/Etres_Supremes.md.
 - Paliers et duel pur : cf. Systemes/Echelle_Puissance.md.
 - Objets de rang monde et Mausolee : cf. BIBLE SB7.
+- Arche et les Workers : cf. Personnages/Workers.md.
 
 FIN_WIKI_PERSONNAGES_SHALLTEAR

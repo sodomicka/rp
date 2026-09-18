@@ -1,10 +1,12 @@
 # Aura Bella Fiora et Mare Bello Fiore
 
-- version : W4
+- version : W5
 
 Amendement W2 : karmas valides (decision worldbuilder) ; VF du baton de Mare fixee.
 Amendement W3 : Trajectoire datee alimentee - R5 Le Stratege (J34 -> J36).
 Amendement W4 : Trajectoire datee alimentee - R6 Le Majordome (~J65, Mare).
+Amendement W5 : Trajectoire datee alimentee - R7 Les Envahisseurs (~J69 -> ~J80) : les trois
+elfes de Tenmu.
 
 Etat decrit : jour 0.
 
@@ -103,6 +105,9 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J34 soir | Salle du Trone, Gardiens assembles : la defaite de Cocytus (canon) | - |
 | J35-J36 | Sortent avec Ainz et les Gardiens : ultimatum, duel, resurrection des trois par Azoth (canon : les Gardiens accompagnent Ainz ; Aura attestee au duel) | - |
 | ~J65 | Mare, a Gehenna : envahit la villa d'Hilma Cygnaeus avec Entoma, ecrase son tatouage de vipere a main nue, l'emporte a Nazarick (canon) | - |
+| ~J69 | Salle du Trone : honneurs de Gehenna ; Demiurge reaffirme la conquete du monde, Ainz acquiesce (canon) | - |
+| ~J76 | Invasion des Workers, 6e : Hamsuke decapite Erya Uzruth, de Tenmu, devant les hommes-lezards a l'entrainement ; ses trois esclaves elfes, epargnees par Ainz, leur sont confiees - qu'elles fassent grandir les jumeaux (canon). Loge de l'arene pour Foresight : Aura attestee ; Mare livre Hekkeran et Imina a Gashokukochuuou (canon). Aucun registre sensuel avec les elfes, sans exception (BIBLE SB1) | trois elfes a leur service |
+| ~J80 | Partent seuls pour Arwintar, sur un dragon, porter a Jircniv la reclamation de Nazarick (canon, hors champ) | hors du Tombeau ; retour au build de R8 |
 
 ## Renvois
 
@@ -111,5 +116,6 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 - Regle ferme du casting, double horloge : cf. BIBLE SB1, Nazarick/Regles_Internes.md.
 - Office et guidance : cf. Nazarick/Theologie_base.md.
 - Paliers internes : cf. Systemes/Echelle_Puissance.md.
+- Les trois elfes, les Workers : cf. Personnages/Workers.md.
 
 FIN_WIKI_PERSONNAGES_AURA_ET_MARE

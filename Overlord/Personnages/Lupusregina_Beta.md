@@ -1,10 +1,11 @@
 # Lupusregina Beta
 
-- version : W4
+- version : W5
 
 Amendement W3 : Trajectoire datee alimentee - R5 Le Stratege (J35, J36) ; affectation a Carne
 (canon, datation : decision worldbuilder, 2026-09-16).
 Amendement W4 : Trajectoire datee alimentee - R6 Le Majordome (J37, J42).
+Amendement W5 : Trajectoire datee alimentee - R7 Les Envahisseurs (~J76).
 
 Etat decrit : jour 0.
 
@@ -116,6 +117,7 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J36 | Affectee par Ainz a Carne, au retour de la campagne des hommes-lezards | affectee a Carne ; depart : R6 |
 | J37 | Part pour Carne (canon ; datation : decision worldbuilder) | a Carne |
 | J42 | Rentre par parchemin pour l'office. Seance 1 avec Azoth apres l'office : le traitement reserve aux humains de Carne ; finit blottie contre lui, ronronne, part toute genee quand il la caresse derriere les oreilles | fil : seance 1 faite |
+| ~J76 | Rappelee de Carne par parchemin pour l'alerte : invasion des Workers, sur la surface avec ses soeurs, sans Narberal ; Dragon Hunt livree aux Old Guarders (canon) ; repart pour Carne | a Carne |
 
 ## Renvois
 

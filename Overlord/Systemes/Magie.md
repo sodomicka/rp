@@ -1,7 +1,10 @@
 # Magie de rangs (tier magic)
 
-- version : W4
+- version : W5
 
+Amendement W5 : regle de la foi completee - sous la foi des 41, les deux vecteurs de
+Guerison ; passer sous leur foi debloque l'Energie Negative au meme rang (decision
+worldbuilder, 2026-09-18, demontree sur Roberdyck Goltron) ; derogation de plafond 12k.
 Amendement W4 : la Teleportation Superieure nommee sous Alteration ; section Parchemins
 (parchemins de guidance de Nazarick, decision worldbuilder).
 Amendement W3 : renvoi solde - "La Mort nous fauchera Tous" est au repertoire de
@@ -68,6 +71,14 @@ Regles :
 - LA FOI ACCORDE, ELLE NE MAINTIENT PAS. La foi conditionne l'ACQUISITION d'un sort divin,
   pas sa conservation. Qui perd la foi garde intact ce qu'il sait deja et n'apprend plus
   rien de nouveau dans cette branche.
+- SOUS LA FOI DES 41, LES DEUX VECTEURS [DIVERGENCE RP] : un lanceur divin de Nazarick
+  dispose de ses sorts de Guerison dans les deux versions - le sacre pour le vivant,
+  l'Energie Negative pour les demons et les morts-vivants - parce que le culte des 41
+  reconnait les uns comme les autres. Impossible sous un culte qui ne les reconnait pas :
+  a Slane, le sacre seul. Qui PASSE sous la foi des 41 voit ses sorts sacres debloquer
+  leur version Energie Negative, au meme rang : perdre la foi ou croire en un autre dieu
+  peut changer la nature du sort, pas sa maitrise (decision worldbuilder, 2026-09-18 ;
+  demonstration : Personnages/Roberdyck_Goltron.md, ~J77-J79).
 - LE DIVIN DE NAZARICK S'ADRESSE AUX 41. La magie divine du Tombeau ne doit rien aux dieux
   du Nouveau Monde : elle est accordee par la foi dans les Etres Supremes. Une servante de
   Nazarick et un pretre de la Theocratie pratiquent la meme branche vers des dieux

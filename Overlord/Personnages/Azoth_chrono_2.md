@@ -1,13 +1,14 @@
 # Azoth - Trajectoire datee, fichier 2
 
-- version : W1
+- version : W2
 - role : satellite de Personnages/Azoth.md (fiche protagoniste, plafond derogatoire 20k).
   Porte la TRAJECTOIRE DATEE d'Azoth : ce qu'il DEVIENT apres le jour 0, evenement par
   evenement, en forme telegraphique. Alimentee a chaud, arc par arc, apres roadmap
   uniquement. Suite de Azoth_chrono_1.md (R1 -> R5, J0 -> J36).
 - plafond : 8 000 caracteres ; coupe a la frontiere d'arc ; suite dans Azoth_chrono_3.md
   le moment venu.
-- couverture : R6 Le Majordome (J37 -> ~J68). Suivant : R7, a l'integration.
+- amendement W2 : R7 Les Envahisseurs (~J69 -> ~J80) (2026-09-18).
+- couverture : R6 Le Majordome (J37 -> ~J68), R7 Les Envahisseurs (~J69 -> ~J80). Suivant : R8.
 - lecture : le noyau (identite, capacites, relations et possessions au jour 0) reste dans
   Azoth.md. Quand un RP diverge, le delta va en Parties/ et surclasse ce fichier pour
   cette partie. Datation : J0 = minuit du transfert (BIBLE SB3) ; dates ~ : positions
@@ -35,6 +36,21 @@
 | ~J67 soir | Chambre des desirs : recit de Touch Me par Ainz (SELON SATORU) ; l'opposition Touch Me / Ulbert sur la justice enoncee, detail reserve a R8. Ebranle : le desaccord entre son createur et celui de Sebas, dit par un dieu | - |
 | ~J68 | Accompagne Sebas, a sa demande, au plaidoyer de Pestonya et Nigredo pour les captifs ; au sommet avec Ainz, Sebas en superieur direct ; refus, assignation a residence (canon) | - |
 | J37-~J68 | Albedo : conquete continue, sexe et drague, sans compte ; Shalltear : sexe, sans compte, crise ouverte | - |
+
+## R7 - Les Envahisseurs (~J69 -> ~J80)
+
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+| ~J69 | Salle du Trone, honneurs de Gehenna : Demiurge reaffirme la conquete du monde, Ainz acquiesce sans comprendre ; Azoth seul le sait (IRONIE JOUEUR -> CODEX) | - |
+| ~J69 soir | Chambre des desirs : Ainz lui expose le plan de Demiurge et le veut a ses cotes en conseiller pendant l'invasion (decision worldbuilder) | conseiller d'Ainz pour l'invasion |
+| J70 | Office | - |
+| ~J76 | Invasion des Workers : Salle du Trone devant le miroir avec Ainz et Albedo, Sebas tient le 9e ; loge de l'arene avec Albedo, Aura, Cocytus, Shalltear. Le mensonge de Hekkeran - un compagnon d'Ainz aurait permis l'entree - et la fureur d'Ainz : voit le nom d'un Supreme servir de cle et Ainz saigner dessus ; veut, comme Albedo et sans se le dire, Ainz seul maitre, les autres un souvenir (decision worldbuilder). Seul a ne pas se boucher les oreilles quand Ainz rale contre le plan de Demiurge ; Ainz le voit, acquiesce (decision worldbuilder). Comprend pour qui Arche est prise sans dommage. Recoit Roberdyck avec la question du divin (decision worldbuilder) | but commun avec Albedo, non dit ; Roberdyck captif |
+| J77 | Office | - |
+| ~J77 | Chambre d'Azoth : recoit d'Ainz les cordes vocales d'Arche ; nourrit lui-meme un insecte-levre de reserve pour Entoma, en prive, entre eux deux seulement (decision worldbuilder) ; elle parle avec la voix d'Arche (canon) | promesse a Entoma tenue |
+| ~J77 -> ~J79 | Chambre des desirs : brise et lave Roberdyck, precedent Hilma ; lui retire sa foi - sorts intacts, meme rang ; lui impose la foi des 41 - version Energie Negative debloquee, meme rang ; demonstration a Ainz : Azoth n'est pas une exception (decision worldbuilder). Le tue sans douleur, corps aux materiaux | regle de la foi demontree |
+| ~J77 soir | Chambre des desirs : recit d'Ainz, Genjiro et Tabula (SELON SATORU) ; ebranle - le createur le plus aimant a quitte le jeu comme les autres | - |
+| ~J78-J79 | Seance CZ 2, chambre des desirs (cf. CZ2128_Delta.md) | fil CZ : seance 2 faite |
+| ~J80 | Aura et Mare partent pour Arwintar ; Ainz reste, Azoth aussi - aucune sortie en corps dans ce bloc | - |
 
 ## Renvois
 

@@ -1,9 +1,10 @@
 # Yuri Alpha
 
-- version : W3
+- version : W4
 
 Amendement W2 : Trajectoire datee alimentee - R4 Le Confident (J15-J20).
 Amendement W3 : Trajectoire datee alimentee - R6 Le Majordome (J38 -> ~J68).
+Amendement W4 : Trajectoire datee alimentee - R7 Les Envahisseurs (~J69 -> ~J80).
 
 Etat decrit : jour 0.
 
@@ -79,6 +80,8 @@ Alimentee a chaud, arc par arc, apres roadmap uniquement.
 | J38-J41 | Seance 2 avec Azoth, chambre des desirs : discussions plus profondes ; la nudite comme dernier verrou de la gene ; face a face, nus ; repart genee mais plus ouverte | fil : seance 2 faite |
 | ~J65 | Gehenna, en demon de Jaldabaoth : fait eclater le Mur de Cristal d'Evileye d'une paume (canon) | - |
 | ~J68 | Formation de Tuare, servante humaine du 9e, confiee a elle apres l'assignation a residence de Pestonya (canon) | forme Tuare |
+| ~J69 -> ~J80 | Forme Tuare au service du 9e ; toile de fond (canon) | - |
+| ~J76 | Invasion des Workers : mene ses soeurs sur la surface, sans Narberal, sur les ordres de Cocytus ; invoque les Old Guarders, qui aneantissent Dragon Hunt ; survivants soignes pour la torture (canon) | - |
 
 ## Renvois
 
