@@ -1,6 +1,6 @@
 # Sommaire - Cyberpunk
 
-- version : W1
+- version : W2
 
 ## WIKI
 
@@ -15,14 +15,14 @@
 
 ### Monde/
 Description : regles du monde, Net, Blackwall, netrunning, chrome, cadre de Night City.
-- Net_et_Blackwall.md (W3) - Net d'avant, DataKrash, Blackwall (IA-ICE), contact = prise de corps, J0RMUN94ND, Blue Eyes, Bartmoss, entites d'au-dela
+- Net_et_Blackwall.md (W4) - Net d'avant, DataKrash, Blackwall (IA-ICE), second outil IA de NetWatch, contact = prise de corps, J0RMUN94ND, Blue Eyes, Bartmoss, entites d'au-dela
 - Netrunning_2077.md (W1) - decks, quickhacks, Blackwall Gateway, reseaux locaux, ICE, flatline, plongees profondes, echelle indicative
 - Chrome_et_Cyberpsychose.md (W2) - cyberware, cyberpsychose canon, vrais cyberpsychos = IA en corps de chair, Yor tampon de Silas
 - Night_City_2077.md (W2) - cadre politique, corpos, districts et gangs, fixers, colonne vertebrale canon de V
 
 ### Factions/
 Description : organisations du focus, nature, direction, trajectoire canon 2077, divergences RP.
-- NetWatch.md (W1) - police du Net, Blackwall, methodes, angle mort sur les clones de Yor
+- NetWatch.md (W2) - police du Net, Blackwall, doctrine de l'outil IA, projet devoreur detruit, angle mort sur les fragments de Yor
 - Voodoo_Boys.md (W3) - origine haitienne 2062, Coastview, Brigitte, Placide, schisme LaGuerre (mentor de Silas, indic FIA), ligne canon de V
 - Maelstrom.md (W2) - Northside, chrome, Royce mort, Brick chef, Totentanz, All Foods, Lilith et le rituel
 - Barghest.md (W1) - milice de Hansen, Dogtown, Phantom Liberty, Silas gamin de Dogtown
@@ -41,7 +41,12 @@ Description : chronologie condensee de l'univers et colonne vertebrale de 2077.
 - Chrono_2077.md (W2) - etat du monde au T0, R0 intro, R1 Konpeki, acte 2 de V, Phantom Liberty, fins, ordre des arcs de Silas
 
 ### IA/
-Description : entites numeriques du focus. Passe 1, aucune page livree.
+Description : entites numeriques du focus. Fiches noyau, Passe 1.
+- J0RMUN94ND.md (W1) - origine NetWatch (AI_Devourer_V0.94), rebellion, nom et graphie, paradigme, noyau et fragments, avatar, symbiose avec Silas, cibles
+- Alt_Cunningham.md (W1) - Soulkiller, 2013, entite du vieux Net, contact des Voodoo Boys, reference d'echelle, absorption manquee de Yor
+- Lilith.md (W1) - Queen Lilith, invocation Maelstrom, Zaria Hughes, dixieme cercle, esthetique satanique, cible 1 de Yor
+- Entites_du_Blackwall.md (W1) - taxonomie canon des IA, Transcendentaux et Fantomes, entites de Cynosure, Cerberus, population anonyme, index des entites nommees
+- IA_Mineures.md (W1) - economie de l'appetit, Delamain, Skippy, Brendan, CN-07, ICE et daemons, braindances hors perimetre
 
 ### Personnages/
 Description : fiches neutres, canon et OC promus au lore. Passe 1, aucune page livree.
