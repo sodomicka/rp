@@ -1,14 +1,14 @@
 # Chronologie 2077
 
-- version : W2
+- version : W3
 
 Colonne vertebrale de l'annee : l'ordre canon des evenements de V, avec les ancrages du RP. Les mois sont [INCERTAIN] : le canon ne date pas ses jalons. Ordre relatif fiable.
 
 ## 1. Avant le point de depart (etat du monde au T0)
 - V : six mois de montage avec Jackie Welles ; The Pickup a All Foods (Royce mort, Brick libere et chef de Maelstrom, cf. Factions/Maelstrom.md S3) ; The Information (Evelyn Parker, Judy Alvarez, Clouds).
-- Elections municipales en cours : Lucius Rhyne assassine, Jefferson Peralez candidat, Weldon Holt implique. cf. Personnages/Peralez.md.
+- Elections municipales en cours : mort du maire Lucius Rhyne, cause [INCERTAIN] ; Jefferson Peralez candidat favori contre Weldon Holt, l'ex-adjoint. cf. Personnages/Peralez.md.
 - Songbird sous Myers a la FIA, corruption Blackwall en cours. Reed dormant a Night City. Hansen regne sur Dogtown.
-- [DIVERGENCE RP] Silas Null, 22 ans, netrunner independant, hote de J0RMUN94ND depuis deux ans. NetWatch ne sait rien. T-Bug lui demande de rester en plan B pour le Konpeki.
+- [DIVERGENCE RP] Silas Null, 22 ans, Voodoo Boy parti en solo, netrunner sous contrat, hote de J0RMUN94ND depuis deux ans. NetWatch ne sait rien. T-Bug lui demande de rester en plan B pour le Konpeki.
 
 ## 1bis. R0 - Introduction (avant le Konpeki)
 - [DIVERGENCE RP] Arc d'introduction, anterieur au braquage : contrat solo pour Mr. Hands [orientation worldbuilder, detail en Passe 2]. Pose Silas, Yor, Dogtown, les VDB, avant que T-Bug n'appelle.
@@ -26,7 +26,7 @@ Colonne vertebrale de l'annee : l'ordre canon des evenements de V, avec les ancr
 
 ## 4. Phantom Liberty (apres la ligne Voodoo Boys)
 - Songbird contacte V ; Space Force One s'ecrase sur Dogtown ; Myers retenue par Hansen ; Reed et Alex ; Black Sapphire ; choix Songbird ou Reed.
-- [DIVERGENCE RP] Wilky LaGuerre, indic FIA, meurt pendant que Reed cherche Songbird [canon selon le worldbuilder].
+- Wilky LaGuerre (Slider), indic FIA : V et Reed passent par sa planque de l'Eventide pour joindre Songbird (The Damned) ; il y meurt peu apres (canon verifie). [DIVERGENCE RP] Mentor de Silas.
 - Branche Songbird : spatioport, billet Lune fourni par Blue Eyes. [DIVERGENCE RP] Piege : Blue Eyes veut absorber l'IA de Songbird.
 - Branche Reed : Cynosure, Cerberus, Songbird retrouvee, livree ou tuee ; remede NUSA pour V (deux ans de coma, plus de chrome).
 - [DIVERGENCE RP] ARC SONGBIRD. Etat par defaut des branches : a fixer en roadmap.

@@ -1,6 +1,6 @@
 # Chronologie de l'univers
 
-- version : W1
+- version : W4
 
 Chronologie condensee de Night City et du Net, du fondateur a la veille du RP. Detail des lieux et factions dans leurs pages. Les entrees [DIVERGENCE RP] sont les faits propres a ce monde.
 
@@ -28,17 +28,17 @@ Chronologie condensee de Night City et du Net, du fondateur a la veille du RP. D
 | 2024-2045 | Reconstruction de Night City ; gangs et pillards dans la Hot Zone | Maelstrom grandit en absorbant d'autres gangs chromes |
 | 2044 | NetWatch lance en secret le projet Blackwall, avec l'aide de Transcendentaux et de Fantomes | Le Net coupe en deux ; netrunners coinces au-dela morts |
 | Vers 2045 | Totentanz et Maelstrom migrent de Burleson Tower vers Northside | Northside devient territoire Maelstrom |
-| 2055 | [DIVERGENCE RP] Naissance de Silas Null (30 janvier), gamin sans nom des ruines de Pacifica | Prota |
+| 2055 | [DIVERGENCE RP] Naissance de Silas Null (30 janvier), parents inconnus, lieu [INCERTAIN] | Prota, haitien |
 
 ## 4. Haiti, Unification, Dogtown (2062-2076)
 | Date | Evenement | Consequence |
 |---|---|---|
-| 2062 | Haiti rayee de la carte par le climat ; refugies embauches sur le chantier de Pacifica | Communaute creole de Pacifica ; futurs Voodoo Boys |
+| 2062 | Haiti rayee de la carte par le climat ; refugies embauches sur le chantier de Pacifica | Communaute creole de Pacifica ; futurs Voodoo Boys ; [DIVERGENCE RP] Silas (7 ans) arrive avec eux, orphelin pris en charge par le clan |
 | Annees 2060 | Projet balneaire de Pacifica ; investisseurs chasses apres la decouverte d'un labo ; Militech mure le quartier | Chantiers figes ; Dogtown en gestation |
 | 2069-2070 | Guerre d'Unification, NUSA contre Free States, Militech contre Arasaka par procuration | Night City reste independante ; Arasaka revient |
+| 2070 | Schisme Voodoo Boys, juste avant la secession de Hansen : Wilky LaGuerre (Slider), aveugle et tenu par la FIA, quitte Brigitte pour Dogtown | [DIVERGENCE RP] Silas (15 ans), son eleve, le suit sans rompre avec Brigitte ; ignore que Slider est un indic |
 | 2070 | Hansen et son unite gardent leur part de Pacifica, secession | Dogtown sous Barghest ; Silas a 15 ans |
 | 2070 | Pacifica abandonnee par la ville, emeutes contre les investisseurs | Voodoo Boys maitres de Coastview |
-| Annees 2070 | Schisme Voodoo Boys : Wilky LaGuerre s'installe a Dogtown [INCERTAIN sur la date] | [DIVERGENCE RP] LaGuerre devient le mentor de Silas ; indic FIA a l'insu de Silas |
 | 2075 | [DIVERGENCE RP] Silas (20 ans) perce le Blackwall seul ; rencontre J0RMUN94ND, alors moins forte qu'Alt | Yor passe sur le nouveau Net ; noyau dans Silas ; symbiose |
 | 2075-2077 | [DIVERGENCE RP] Yor absorbe des IA, fragmentee ; NetWatch capture des "clones" isoles | Yor au calibre d'Alt en taille |
 | 2076 | Edgerunners : David Martinez, Lucy, programme Arasaka de plongee dans l'Old Net | Precedent canon des plongeurs brises |
@@ -48,7 +48,7 @@ Chronologie condensee de Night City et du Net, du fondateur a la veille du RP. D
 
 ## 6. Notes
 - Toute date d'age de Silas se calcule depuis le 30/01/2055 (2077 - 2055 = 22 apres son anniversaire).
-- Dates de recrutement de Songbird par la FIA et d'abandon de Reed a Night City : [INCERTAIN], a fixer en Passe 1 si les arcs l'exigent.
+- Abandon de Reed a Night City : 2070, fin de la guerre d'Unification (canon verifie). Recrutement de Songbird par la FIA : [INCERTAIN].
 
 ---
 

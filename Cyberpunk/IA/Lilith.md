@@ -1,6 +1,6 @@
 # Lilith
 
-- version : W1
+- version : W2
 
 ## 1. Identite
 
@@ -24,7 +24,7 @@
 - Le dixieme cercle : extension de l'Enfer de Dante appliquee a la logique du monde. Le cercle ou resident les demons numeriques, c'est-a-dire l'au-dela du mur.
 - Nature de la formule : SUPERSTITION DE MAELSTROMERS. Lilith n'en est pas l'auteur ; elle en profite.
 - Style : Lilith reprend des codes sataniques. C'est une esthetique adoptee, pas une nature. Rien ne la distingue en substance des autres entites d'au-dela.
-- La formule circule au-dela du seul cercle des invocateurs : elle sert de signe de reconnaissance lors d'un echange entre des Maelstrom et des corpos, dans une vieille usine de Kabuki. cf. Personnages/ (Gary le Prophete, Passe 1, a livrer).
+- La formule circule au-dela du seul cercle des invocateurs : elle sert de signe de reconnaissance lors d'un echange entre des Maelstrom et des corpos, dans une vieille usine de Kabuki. cf. Factions/Night_Corp.md S3 (Gary le Prophete, The Prophet's Song).
 - [DIVERGENCE RP] Les corpos de cet echange sont Arasaka. Source : documentation du worldbuilder. Le canon consulte ne nomme pas les parties et situe la scene a Kabuki, pas a Northside.
 - Journal Maelstrom associe : des membres modifies se degradent apres la ceremonie. Hallucinations auditives et visuelles, puis violence.
 

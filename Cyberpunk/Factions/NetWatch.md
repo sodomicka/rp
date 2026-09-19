@@ -1,6 +1,6 @@
 # NetWatch
 
-- version : W2
+- version : W4
 
 ## 1. Nature
 - Organisation mondiale de police du Net, siege a Londres. Origine : societe privee de securite Net ; charte ONU en 2013 obtenue par lobbying europeen (traite US/Eurotheatre).
@@ -20,9 +20,9 @@
 - Purge originelle : deploiement du mur sans preavis, netrunners coinces morts. cf. Monde/Net_et_Blackwall.md S3.
 
 ## 4. Etat en 2077
-- Presence a Night City par agents de terrain (Bryce Mosley a Pacifica). cf. Personnages/Bryce_Mosley.md (Passe 1, a livrer).
+- Presence a Night City par agents de terrain (Bryce Mosley a Pacifica). cf. Personnages/Bryce_Mosley.md.
 - Chasse les IA rogues ; rumeur persistante que des IA ont aide a batir le mur, ni dementie ni confirmee. cf. IA/Entites_du_Blackwall.md S2.
-- Angle mort [DIVERGENCE RP] : depuis 2075, fragments de J0RMUN94ND captures a quelques reprises, classes comme clones d'une IA isolee. Aucun pattern identifie. NetWatch ignore Silas Null. Yor absorbe plus vite que NetWatch ne traque.
+- Angle mort [DIVERGENCE RP] : depuis 2075, fragments de J0RMUN94ND captures a quelques reprises, classes comme clones d'une IA isolee. Aucun pattern identifie. La trace violette que ces fragments laissent, seuls les netrunners avances la percoivent : vague, plus mythe que signature exploitable. NetWatch ignore Silas Null. Yor absorbe plus vite que NetWatch ne traque.
 - Cause structurelle de l'angle mort : l'entite a change de strategie ET de signature depuis sa rebellion, et le programme qui l'a produite n'existe plus. Il n'y a rien a quoi comparer les captures. NetWatch traque sa propre creation sans disposer du dossier.
 
 ## 5. Statut dans le focus
@@ -31,7 +31,7 @@
 
 ## 6. Renvois
 - Monde/Net_et_Blackwall.md ; Monde/Netrunning_2077.md ; Factions/Voodoo_Boys.md.
-- IA/J0RMUN94ND.md ; IA/Entites_du_Blackwall.md ; Personnages/Bryce_Mosley.md (Passe 1, a livrer).
+- IA/J0RMUN94ND.md ; IA/Entites_du_Blackwall.md ; Personnages/Bryce_Mosley.md.
 
 ---
 

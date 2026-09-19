@@ -1,6 +1,6 @@
 # Sommaire - Cyberpunk
 
-- version : W2
+- version : W7
 
 ## WIKI
 
@@ -15,41 +15,57 @@
 
 ### Monde/
 Description : regles du monde, Net, Blackwall, netrunning, chrome, cadre de Night City.
-- Net_et_Blackwall.md (W4) - Net d'avant, DataKrash, Blackwall (IA-ICE), second outil IA de NetWatch, contact = prise de corps, J0RMUN94ND, Blue Eyes, Bartmoss, entites d'au-dela
+- Net_et_Blackwall.md (W5) - Net d'avant, DataKrash, Blackwall (IA-ICE), second outil IA de NetWatch, contact = prise de corps, J0RMUN94ND, Blue Eyes, Bartmoss, entites d'au-dela
 - Netrunning_2077.md (W1) - decks, quickhacks, Blackwall Gateway, reseaux locaux, ICE, flatline, plongees profondes, echelle indicative
-- Chrome_et_Cyberpsychose.md (W2) - cyberware, cyberpsychose canon, vrais cyberpsychos = IA en corps de chair, Yor tampon de Silas
-- Night_City_2077.md (W2) - cadre politique, corpos, districts et gangs, fixers, colonne vertebrale canon de V
+- Chrome_et_Cyberpsychose.md (W4) - cyberware, cyberpsychose canon, vrais cyberpsychos = IA en corps de chair, Yor tampon de Silas
+- Night_City_2077.md (W3) - cadre politique, corpos, districts et gangs, fixers, colonne vertebrale canon de V
 
 ### Factions/
 Description : organisations du focus, nature, direction, trajectoire canon 2077, divergences RP.
-- NetWatch.md (W2) - police du Net, Blackwall, doctrine de l'outil IA, projet devoreur detruit, angle mort sur les fragments de Yor
-- Voodoo_Boys.md (W3) - origine haitienne 2062, Coastview, Brigitte, Placide, schisme LaGuerre (mentor de Silas, indic FIA), ligne canon de V
+- NetWatch.md (W4) - police du Net, Blackwall, doctrine de l'outil IA, projet devoreur detruit, angle mort sur les fragments de Yor
+- Voodoo_Boys.md (W5) - origine haitienne 2062, Coastview, Brigitte, Placide, schisme LaGuerre dit Slider (mentor de Silas, indic FIA), Silas VDB haitien en solo, ligne canon de V
 - Maelstrom.md (W2) - Northside, chrome, Royce mort, Brick chef, Totentanz, All Foods, Lilith et le rituel
-- Barghest.md (W1) - milice de Hansen, Dogtown, Phantom Liberty, Silas gamin de Dogtown
+- Barghest.md (W2) - milice de Hansen, Dogtown, Phantom Liberty, Silas a Dogtown depuis ses 15 ans
 - FIA_NUSA.md (W1) - Myers, Reed, Alex, Songbird augmentee de force, Cynosure, piege de la Lune
-- Night_Corp.md (W2) - heritage de Richard Night, CN-07 esclave de Blue Eyes, Dorsett, Peralez, Gary
+- Night_Corp.md (W3) - heritage de Richard Night, CN-07 esclave de Blue Eyes, Dorsett, Peralez, Gary
 
 ### Lieux/
 Description : lieux du focus, par district, avec leur trajectoire canon.
-- Pacifica_et_Dogtown.md (W1) - Pacifica, Coastview, Batty's Hotel, Dogtown, Black Sapphire, Cynosure
+- Pacifica_et_Dogtown.md (W2) - Pacifica, Coastview, Batty's Hotel, Dogtown, Black Sapphire, Cynosure
 - Watson.md (W1) - district, Northside, All Foods, Totentanz, Kabuki, Little China, contrats Regina Jones
 - Sites_Arasaka.md (W1) - Konpeki Plaza et le braquage (T0), Mikoshi et Soulkiller
 
 ### Chronologie/
 Description : chronologie condensee de l'univers et colonne vertebrale de 2077.
-- Chrono_Univers.md (W1) - 1990-2076, fondation, DataKrash, Blackwall, Haiti, Unification, Dogtown, Silas, percee 2075
-- Chrono_2077.md (W2) - etat du monde au T0, R0 intro, R1 Konpeki, acte 2 de V, Phantom Liberty, fins, ordre des arcs de Silas
+- Chrono_Univers.md (W4) - 1990-2076, fondation, DataKrash, Blackwall, Haiti, Unification, Dogtown, Silas, percee 2075
+- Chrono_2077.md (W3) - etat du monde au T0, R0 intro, R1 Konpeki, acte 2 de V, Phantom Liberty, fins, ordre des arcs de Silas
 
 ### IA/
 Description : entites numeriques du focus. Fiches noyau, Passe 1.
-- J0RMUN94ND.md (W1) - origine NetWatch (AI_Devourer_V0.94), rebellion, nom et graphie, paradigme, noyau et fragments, avatar, symbiose avec Silas, cibles
-- Alt_Cunningham.md (W1) - Soulkiller, 2013, entite du vieux Net, contact des Voodoo Boys, reference d'echelle, absorption manquee de Yor
-- Lilith.md (W1) - Queen Lilith, invocation Maelstrom, Zaria Hughes, dixieme cercle, esthetique satanique, cible 1 de Yor
-- Entites_du_Blackwall.md (W1) - taxonomie canon des IA, Transcendentaux et Fantomes, entites de Cynosure, Cerberus, population anonyme, index des entites nommees
+- J0RMUN94ND.md (W3) - origine NetWatch (AI_Devourer_V0.94), rebellion, nom et graphie, paradigme, noyau et fragments, signature violette, avatar, symbiose avec Silas, cibles, chasse aux cyberpsychos
+- Alt_Cunningham.md (W2) - Soulkiller, 2013, entite du vieux Net, contact des Voodoo Boys, reference d'echelle, absorption manquee de Yor
+- Lilith.md (W2) - Queen Lilith, invocation Maelstrom, Zaria Hughes, dixieme cercle, esthetique satanique, cible 1 de Yor
+- Entites_du_Blackwall.md (W3) - taxonomie canon des IA, Transcendentaux et Fantomes, entites de Cynosure, Cerberus, population anonyme, index des entites nommees
 - IA_Mineures.md (W1) - economie de l'appetit, Delamain, Skippy, Brendan, CN-07, ICE et daemons, braindances hors perimetre
 
 ### Personnages/
-Description : fiches neutres, canon et OC promus au lore. Passe 1, aucune page livree.
+Description : fiches neutres, canon et OC promus au lore. Passe 1, lot livre (14 fiches + 2 satellites).
+- Silas_Null.md (W4) - PROTAGONISTE : identite, nom et handle Zer0, physique, personnalite, histoire jusqu'au T0, domiciles, chrome, capacites et signature violette, symbiose, metier, langue et lexique creole
+- Silas_Null_relations_1.md (W2) - satellite : Yor, Slider, Brigitte, Placide (surnoms, rituels, dynamique, ce que l'autre sait)
+- Silas_Null_relations_2.md (W2) - satellite : T-Bug, Mr. Hands, Rogue, Regina Jones
+- Maman_Brigitte.md (W2) - cheffe des VDB, doctrine, Alt, vol de la Relic commandite, Silas
+- Placide.md (W1) - second de Brigitte, presence, Rezo Agwe, ranyon, grand frere de Silas
+- Wilky_LaGuerre.md (W1) - Slider, ex-bras droit de Brigitte, aveugle et indic de la FIA, schisme de 2070, Dogtown, mentor de Silas
+- Kurt_Hansen.md (W1) - colonel deserteur, Barghest, Dogtown, contrebande, image, lien a Silas
+- T_Bug.md (W1) - netrunneuse merc, profil, Rhino et Coastview, Dex, V et Jackie, plan B Silas
+- Songbird.md (W1) - Song So Mi, FIA, trahison de Reed (2070), bras droit de Myers, corruption
+- Solomon_Reed.md (W1) - agent FIA dormant, abandon de 2070, Songbird, Alex, LaGuerre
+- Rosalind_Myers.md (W1) - presidente NUSA, ex-PDG Militech, guerre d'Unification, Blackwall arme d'Etat, Songbird
+- V.md (W1) - merc, femme, Gosse des rues, divergence Valentinos (Jackie grand frere), look promo, etat au T0
+- Mr_Blue_Eyes.md (W1) - IA en corps proxy, reseau d'esclaves, agents aux yeux bleus, instruments, concurrent de Yor
+- Peralez.md (W2) - le couple, bourse Night Corp, election, SSI, cobayes de Blue Eyes
+- Sandra_Dorsett.md (W1) - netrunneuse Night Corp, Operation Carpe Noctem (CN-07), The Rescue, databank perdu
+- Bryce_Mosley.md (W1) - agent NetWatch a Pacifica, mission anti-VDB, fragment de Yor capture
 
 ### Power_Scaling/
 Description : echelles IA et netrunners. Passe 1, aucune page livree.

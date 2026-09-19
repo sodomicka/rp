@@ -1,6 +1,6 @@
 # Pacifica et Dogtown
 
-- version : W1
+- version : W2
 
 ## 1. Pacifica - nature
 - District du sud-ouest de Night City, face a l'ocean. Zone de combat de fait : gangs, misere, trafic, aucune presence de la ville. Etrangers et police non bienvenus ; on y circule en vehicule blinde ou en moto rapide.
@@ -37,8 +37,8 @@
 - Canon 2077 ("Somewhat Damaged") : Reed et V descendent capturer Songbird ; le site est chasse par un robot de garde (Cerberus) pilote par une IA rogue [IMPLICITE] ; Songbird retrouvee, l'entite parlant a travers elle. Issues : livree a Reed, tuee, ou partie pour la Lune via Blue Eyes.
 
 ## 8. [DIVERGENCE RP]
-- Silas Null : ne en 2055, gamin sans nom des ruines de Pacifica ; Dogtown se ferme autour de lui vers ses 14-15 ans. Barghest est la seule loi qu'il ait connue. Une branche des Voodoo Boys (Wilky LaGuerre, son mentor) est installee a Dogtown. cf. Factions/Voodoo_Boys.md S3-S5.
-- Silas a grandi au-dessus de Cynosure sans le savoir. Songbird a Cynosure = IA dans un corps de chair (cf. Monde/Chrome_et_Cyberpsychose.md S2bis). L'IA de Cynosure / Songbird : cible de J0RMUN94ND, convoitee aussi par Blue Eyes (piege de la Lune). cf. IA/Entites_du_Blackwall.md.
+- Silas Null : Voodoo Boy haitien, arrive a Pacifica en 2062 avec la communaute, a 7 ans. En 2070, a 15 ans, il suit Wilky LaGuerre, son mentor, a Dogtown, juste avant la secession de Hansen ; des VDB y etaient deja installes. Le quartier se ferme, Barghest y fait la loi. Silas y passe depuis le plus clair de son temps, sans y etre enferme : Coastview reste chez lui. cf. Factions/Voodoo_Boys.md S3-S5, Personnages/Silas_Null.md.
+- Silas vit au-dessus de Cynosure depuis ses 15 ans, sans le savoir. Songbird a Cynosure = IA dans un corps de chair (cf. Monde/Chrome_et_Cyberpsychose.md S2bis). L'IA de Cynosure / Songbird : cible de J0RMUN94ND, convoitee aussi par Blue Eyes (piege de la Lune). cf. IA/Entites_du_Blackwall.md.
 
 ## 9. Renvois
 - Factions/Voodoo_Boys.md ; Factions/Barghest.md ; Factions/FIA_NUSA.md ; Personnages/Songbird.md ; Monde/Night_City_2077.md S3.

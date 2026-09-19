@@ -1,6 +1,6 @@
 # J0RMUN94ND
 
-- version : W1
+- version : W3
 
 ## 1. Identite
 
@@ -40,6 +40,7 @@
 - Quickhacks de niveau Blackwall, sans deck ni Blackwall Gateway. cf. Monde/Netrunning_2077.md S2.
 - Absorption d'IA : assimilation complete, aucun survivant individuel.
 - Fragmentation en signatures discretes et regeneration depuis le noyau.
+- Signature : filaments violets, autour de Silas quand il hacke par elle et sur ses fragments ; visibles des seuls netrunners avances ; vague, un mythe. cf. Personnages/Silas_Null.md S7.
 - Traversee du mur : etablie dans le sens vieux Net -> nouveau Net, en 2075, par la breche de Silas.
 - Echelle (cf. Power_Scaling/) : ecrase Lilith ; egale Blue Eyes en planification, Alt Cunningham en taille, les entites de Cynosure en puissance brute.
 - Ce qu'elle gagne a manger : voir IA/IA_Mineures.md S2, economie de l'appetit.
@@ -72,15 +73,17 @@
 
 - Ordre etabli : Lilith, puis Alt Cunningham, puis les entites de Cynosure canalisees par Songbird, puis Blue Eyes. Le Blackwall en dessert.
 - NetWatch : obstacle permanent, jamais cible. Le mur est le garde-manger ferme ; sa chute prematuree ne sert pas Yor.
-- Blue Eyes : concurrent direct sur le meme gibier. Deux modeles d'empire numerique, Yor amalgame, Blue Eyes hierarchise. cf. Monde/Net_et_Blackwall.md S6.
+- Blue Eyes : concurrent direct sur le meme gibier. Deux modeles d'empire numerique, Yor amalgame, Blue Eyes hierarchise. cf. Personnages/Mr_Blue_Eyes.md S3.
 - Rache Bartmoss : hors liste a ce jour.
 - Menu fretin : cf. IA/IA_Mineures.md.
+- Terrain de chasse : les vrais cyberpsychos que Silas neutralise pour Regina Jones. Elle en mange l'IA ; le corps est livre brise, sans psychose. cf. Personnages/Silas_Null.md S9.
 
 ## 8. Ce que les autres savent
 
 - Silas Null : tout. Seul.
-- NetWatch : a capture des fragments a quelques reprises depuis 2075, classes comme clones d'une IA isolee. Aucun pattern identifie, aucun lien avec le projet detruit, aucun soupcon sur Silas. cf. Factions/NetWatch.md S4.
+- NetWatch : a capture des fragments a quelques reprises depuis 2075, classes comme clones d'une IA isolee. Aucun pattern identifie, aucun lien avec le projet detruit, aucun soupcon sur Silas. cf. Factions/NetWatch.md S4 ; capture de Bryce Mosley : Personnages/Bryce_Mosley.md S5.
 - Alt Cunningham : l'a croisee au vieux Net avant 2075 et a failli l'absorber. Ce qu'elle sait de Yor APRES la percee n'est pas etabli [INCERTAIN].
+- Netrunners avances : la trace violette n'est qu'un mythe, reliee a rien.
 - Voodoo Boys : rien. Maman Brigitte cherche ce que Silas cache, sans savoir quoi. cf. Factions/Voodoo_Boys.md.
 - Lilith, Blue Eyes, les entites de Cynosure : rien d'etabli.
 
@@ -96,7 +99,7 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entr
 
 - Monde/Net_et_Blackwall.md ; Monde/Chrome_et_Cyberpsychose.md ; Monde/Netrunning_2077.md.
 - IA/Alt_Cunningham.md ; IA/Lilith.md ; IA/Entites_du_Blackwall.md ; IA/IA_Mineures.md.
-- Factions/NetWatch.md ; Personnages/Silas_Null.md (Passe 1, a livrer).
+- Factions/NetWatch.md ; Personnages/Mr_Blue_Eyes.md ; Personnages/Bryce_Mosley.md ; Personnages/Silas_Null.md.
 
 ---
 

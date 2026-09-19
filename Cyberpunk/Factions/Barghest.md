@@ -1,6 +1,6 @@
 # Barghest
 
-- version : W1
+- version : W2
 
 ## 1. Nature
 - Milice paramilitaire de Dogtown. Nom : creature spectrale canine du folklore europeen, presage de malheur.
@@ -22,8 +22,8 @@
 - Apres Hansen : Barghest sans tete. Sort exact [INCERTAIN selon les branches].
 
 ## 5. [DIVERGENCE RP] Silas Null
-- Enfance dans la Pacifica en ruine, adolescence sous Barghest (Dogtown se ferme quand il a 14-15 ans). Sa loi de reference, jamais la NCPD.
-- Le bunker Cynosure sous ses pieds d'enfant : l'IA de Songbird y sera plus tard cible de J0RMUN94ND.
+- Enfance a Pacifica, dans le clan des Voodoo Boys. En 2070, a 15 ans, suit LaGuerre a Dogtown juste avant la secession : adolescence sous la loi de Barghest, la ou il passe depuis le plus clair de son temps. Jamais la NCPD. cf. Personnages/Silas_Null.md.
+- Le bunker Cynosure sous ses pieds depuis ses 15 ans : l'IA de Songbird y sera plus tard cible de J0RMUN94ND.
 
 ## 6. Renvois
 - Lieux/Pacifica_et_Dogtown.md S7 ; Factions/FIA_NUSA.md ; Personnages/Kurt_Hansen.md.

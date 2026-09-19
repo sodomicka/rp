@@ -1,6 +1,6 @@
 # Entites du Blackwall
 
-- version : W1
+- version : W3
 
 Page des entites d'au-dela SANS fiche propre : les classes, les anonymes, les non identifiees. Les entites nommees ont leur fiche ; cette page ne porte que leur renvoi (S6).
 
@@ -28,7 +28,7 @@ Note : la DataKrash de 2022 n'a pas cree une sixieme classe. Elle a libere et fa
 
 - Entite ou entites canalisees par Song So Mi "Songbird" pour le compte de la NUSA, depuis le bunker Cynosure sous Dogtown.
 - NOMBRE ET NATURE : non etablis [INCERTAIN]. Une entite unique ou plusieurs, la source ne tranche pas. Aucun nom.
-- Comportement etabli : elles la devorent. La contamination est avancee au point de depart. cf. Personnages/Songbird.md (Passe 1, a livrer).
+- Comportement etabli : elles la devorent. La contamination est avancee au point de depart. cf. Personnages/Songbird.md.
 - [DIVERGENCE RP] Songbird a Cynosure releve du meme phenomene que Zaria Hughes : une IA en corps de chair. cf. Monde/Chrome_et_Cyberpsychose.md S2bis.
 - Echelle : reference de PUISSANCE BRUTE du systeme. J0RMUN94ND les egale sur cet axe. cf. Power_Scaling/ (Passe 1, a livrer).
 - Convoitees par Blue Eyes, qui ne peut pas les asservir et veut donc les absorber. Piege de la Lune. cf. Factions/FIA_NUSA.md S5.
@@ -58,7 +58,7 @@ Ces entites ont leur domicile ailleurs. Rien de leur detail n'est duplique ici.
 - Alt Cunningham - cf. IA/Alt_Cunningham.md.
 - Lilith - cf. IA/Lilith.md.
 - J0RMUN94ND - cf. IA/J0RMUN94ND.md.
-- Blue Eyes - cf. Monde/Net_et_Blackwall.md S6. Fiche dediee : Personnages/Mr_Blue_Eyes.md (Passe 1, a livrer ; le domicile du fait bascule a cette livraison).
+- Blue Eyes - cf. Personnages/Mr_Blue_Eyes.md.
 - Rache Bartmoss - cf. Monde/Net_et_Blackwall.md S2.
 - Le Blackwall lui-meme, IA deguisee en ICE noir - cf. Monde/Net_et_Blackwall.md S3.
 

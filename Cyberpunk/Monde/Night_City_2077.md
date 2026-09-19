@@ -1,6 +1,6 @@
 # Night City 2077
 
-- version : W2
+- version : W3
 
 ## 1. Cadre general
 - Ville-Etat de facto du Free State of Northern California, cote Pacifique. Fondee par Richard Night dans les annees 1990, devastee par la 4e Guerre corporatiste (bombe sur l'Arasaka Tower, 2023), rebatie sous influence corpo.
@@ -32,7 +32,7 @@
 - Rogue Amendiares : reine de l'Afterlife, ex-compagne de Johnny Silverhand.
 - Mr. Hands : Pacifica. Seul acces aux Voodoo Boys pour "les gens de la ville".
 - Wakako Okada (Japantown), Padre (Heywood), Dino Dinovic (Downtown), El Capitan (Santo Domingo) [INCERTAIN sur l'exhaustivite].
-- Maire : Lucius Rhyne assassine ; Weldon Holt (bras droit) implique ; election en cours, Jefferson Peralez candidat favori. cf. Personnages/Peralez.md.
+- Maire : Lucius Rhyne mort, cause [INCERTAIN] ; election en cours, Jefferson Peralez favori contre Weldon Holt, l'ex-adjoint. cf. Personnages/Peralez.md.
 
 ## 5. Colonne vertebrale 2077 (ordre canon des evenements de V)
 - Acte 1 : braquage du Konpeki Plaza (Watson). V et Jackie Welles volent la Relic ; T-Bug tracee et flatlinee ; Saburo Arasaka tue par Yorinobu ; Jackie meurt dans la fuite ; V recoit l'engramme de Silverhand.

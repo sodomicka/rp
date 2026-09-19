@@ -1,6 +1,6 @@
 # Chrome et Cyberpsychose
 
-- version : W2
+- version : W4
 
 ## 1. Cyberware (chrome)
 - Posee par des ripperdocs, de la clinique de rue au cabinet corpo. Omnipresente a Night City, du simple bras chrome au corps entier.
@@ -21,8 +21,9 @@
 - Deux realites sous un meme mot.
 - Petage de plombs : le corps et la psyche ne supportent pas la charge ; crise, rage, effondrement. Cas ordinaire, sans IA.
 - Vrais cyberpsychos : la chrome a pris le dessus, la chair etait trop faible pour resister a une influence IA ; une IA occupe le corps de chair. Sauvage dans la plupart des cas. Cas canon relus sous cette regle : Zaria Hughes (Lilith), Songbird a Cynosure.
+- Chasse : Silas Null neutralise de vrais cyberpsychos pour Regina Jones ; J0RMUN94ND en mange l'IA ; le corps est livre vivant, brise, sans psychose. cf. Personnages/Silas_Null.md S9.
 - Corollaire : la chrome est une porte. Plus il y en a, plus une IA peut entrer. La cyberpsychose est le mode d'entree "sauvage" d'une IA dans un corps.
-- Contre-exemples de la meme porte : Blue Eyes (IA installee, psyche de l'hote morte, cf. IA/Entites_du_Blackwall.md) ; Silas Null (IA installee, hote vivant et consentant, cf. S4).
+- Contre-exemples de la meme porte : Blue Eyes (IA installee, psyche de l'hote morte, cf. Personnages/Mr_Blue_Eyes.md) ; Silas Null (IA installee, hote vivant et consentant, cf. S4).
 
 ## 3. Chrome des netrunners
 - Deck + cortex + nerfs : le netrunner charge surtout du neural. Combinaison de refroidissement, cf. Netrunning_2077.md S1.

@@ -1,6 +1,6 @@
 # Night Corp
 
-- version : W2
+- version : W3
 
 ## 1. Nature
 - Night Corporation, siege a Night City. Corporation entierement tournee vers la ville et ses affaires.
@@ -15,10 +15,10 @@
 - Sandra Dorsett : netrunneuse Night Corp (Trauma Team platine), enlevee par les Scavs, sauvee par V au prologue. Ligne "Full Disclosure" : ses donnees volees revelent le projet CN-07, une IA apprenante capable de manipuler le comportement humain en temps reel ; testee sur des cobayes, employes compris ; a pousse un employe au meurtre-suicide ; "employee ensuite sur la vraie cible". Shard "Carpe Noctem". cf. Personnages/Sandra_Dorsett.md.
 - Affaire Peralez ("Dream On") : le couple Peralez est cobaye d'un programme de controle mental ; la societe de securite SSI couvre ; un homme aux yeux bleus surveille. Formule "Carpe Noctem" reprise lors d'une reunion secrete Arasaka / Maelstrom ("The Prophet's Song"). cf. Personnages/Peralez.md.
 - Gary le Prophete : enleve par des hommes en costume aux yeux bleus. cf. Personnages/Mr_Blue_Eyes.md.
-- Nom de programme "Project Oracle" cite par la communaute [INCERTAIN, non verifie en source].
+- Nom de programme "Project Oracle" : reference contenue dans la puce de Gary une fois decryptee, selon la presse (PC Gamer) [INCERTAIN, texte du shard non consulte].
 
 ## 4. [DIVERGENCE RP] Night Corp et Blue Eyes
-- Night Corp, SSI et la mise sous controle des Peralez sont des instruments de l'IA Blue Eyes, dont le noyau vit dans un corps proxy hors Net. cf. Monde/Net_et_Blackwall.md S6, IA/Entites_du_Blackwall.md.
+- Night Corp, SSI et la mise sous controle des Peralez sont des instruments de l'IA Blue Eyes, dont le noyau vit dans un corps proxy hors Net. cf. Personnages/Mr_Blue_Eyes.md.
 - CN-07 est un ESCLAVE de Blue Eyes : IA subordonnee, paradigme impose, outil de conditionnement. Blue Eyes gouverne par reseau d'esclaves, n'assimile que par exception.
 - Night Corp est son bras civil ; l'election municipale est son levier. Cible 4 de J0RMUN94ND.
 

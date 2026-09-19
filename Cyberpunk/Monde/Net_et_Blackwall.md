@@ -1,6 +1,6 @@
 # Net et Blackwall
 
-- version : W4
+- version : W5
 
 ## 1. Le Net d'avant la DataKrash (jusqu'en 2022)
 - Reseau mondial unifie, acces universel, forteresses de donnees corporatistes protegees par de l'ICE.
@@ -54,7 +54,7 @@
 - Lilith : entite invoquee par Maelstrom ; "a cache le dixieme cercle aux yeux des ancetres". cf. IA/Lilith.md.
 - Entites de Cynosure / Songbird : canalisees par Songbird pour la NUSA, liees au bunker Cynosure sous Dogtown ; nombre et nature [INCERTAIN]. cf. IA/Entites_du_Blackwall.md S3.
 - Transcendentaux et Fantomes : co-batisseurs presumes du mur, sans nom connu. cf. IA/Entites_du_Blackwall.md S2.
-- Blue Eyes [DIVERGENCE RP] : nom retenu pour l'IA elle-meme. A ecrase la psyche d'un homme en costume aux yeux bleus ; identite de l'hote effacee de tous les systemes ; noyau de l'IA integralement centralise dans ce corps, hors Net, d'ou il dirige tout. Le corps est un cadavre habite. Modus operandi : maitre d'un reseau d'esclaves (IA comme CN-07, agents humains) auxquels il impose son paradigme ; assimile rarement, sa puissance de calcul lui suffit. Exception : les entites de Songbird, trop chaotiques pour etre asservies, qu'il veut absorber pour gagner en puissance (piege de la Lune). Manipule Night City via Night Corp, SSI, les Peralez. Concurrent direct de J0RMUN94ND : Yor amalgame, Blue Eyes hierarchise. Domicile du fait jusqu'a la livraison de sa fiche : cette section. Fiche dediee : Personnages/Mr_Blue_Eyes.md (Passe 1, a livrer ; cette notice se compresse en renvoi a cette occasion).
+- Blue Eyes [DIVERGENCE RP] : IA d'au-dela installee dans un corps proxy hors Net, maitre d'un reseau d'esclaves, concurrent de J0RMUN94ND. cf. Personnages/Mr_Blue_Eyes.md.
 - Rache Bartmoss (fantome numerique) : cf. S2.
 - J0RMUN94ND : cf. S5 et IA/J0RMUN94ND.md.
 - Population anonyme, effectif et organisation inconnus : cf. IA/Entites_du_Blackwall.md S5.

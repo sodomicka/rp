@@ -1,6 +1,6 @@
 # Voodoo Boys
 
-- version : W3
+- version : W5
 
 ## 1. Origine
 - Sans lien avec le gang du meme nom des annees 2020.
@@ -16,10 +16,10 @@
 - Rivaux : les Animals (boostergang de Pacifica).
 
 ## 3. Direction et acces
-- Maman Brigitte : chefine, netrunneuse. Mene le contact avec Alt Cunningham. Ne plonge pas elle-meme au-dela : envoie un intermediaire, un "ranyon". cf. Personnages/Brigitte.md.
+- Maman Brigitte : chefine, netrunneuse. Mene le contact avec Alt Cunningham. Ne plonge pas elle-meme au-dela : envoie un intermediaire, un "ranyon". cf. Personnages/Maman_Brigitte.md.
 - Placide : bras droit. Peu loquace, meprise l'aide aux etrangers. cf. Personnages/Placide.md.
-- Schisme : Wilky LaGuerre a quitte Brigitte pour s'installer a Dogtown avec ses gens (Phantom Liberty). Date [INCERTAIN].
-- LaGuerre est un indic de la FIA ; il meurt pendant que Reed tente de localiser Songbird (Phantom Liberty) [canon selon le worldbuilder, a reverifier sur source]. Silas Null ignore qu'il balance.
+- Schisme : Wilky LaGuerre, dit Slider, ex-bras droit de Brigitte, rompt avec elle sur l'ideal (elle veut percer le mur, lui prefere les casses corpo et juge le mur trop dangereux) et part pour Dogtown, ou des VDB sont deja installes. En 2070, juste avant la secession de Hansen. cf. Personnages/Wilky_LaGuerre.md.
+- LaGuerre est un indic de la FIA, qui l'a aveugle puis tenu par chantage avant sa fuite a Dogtown. Il meurt en 2077 dans sa planque de l'Eventide, peu apres avoir servi de relais vers Songbird a Reed et V (Phantom Liberty, canon verifie). Silas Null ignore qu'il balance.
 - Acces pour un etranger : Mr. Hands, fixer de Pacifica, arrange la rencontre avec Placide.
 
 ## 4. Trajectoire canon 2077 (acte 2 de V)
@@ -27,8 +27,9 @@
 - Bifurcation canon : V peut tuer Brigitte et Placide, ou repartir. Phantom Liberty reagit selon le sort de Brigitte.
 
 ## 5. [DIVERGENCE RP] Silas Null
-- Ancien Voodoo Boy, non haitien, gamin sans nom de Dogtown. Entre chez les VDB par Wilky LaGuerre, son MENTOR, via la branche installee a Dogtown. Silas ne sait pas que LaGuerre est un indic (cf. S3).
-- A perce le mur seul en 2075 et ne l'a jamais dit. Garde de tres bonnes relations, surtout avec Brigitte.
+- Voodoo Boy haitien, parti en solo, toujours a sa place parmi les VDB. Orphelin arrive a Pacifica avec la communaute en 2062, a 7 ans ; eleve par le clan sous Brigitte et Slider, Placide en "grand frere". Slider lui donne son nom, Null.
+- Au schisme, suit Slider, plus proche de ses idees, sans tourner le dos aux autres ; fait des boulots pour Brigitte tant qu'ils ne visent pas Slider ; refuse de servir de balance. Ignore que Slider est un indic (cf. S3).
+- A perce le mur seul en 2075 et ne l'a jamais dit. Liens encore forts, surtout avec Brigitte. cf. Personnages/Silas_Null.md.
 - Tension structurelle : Brigitte cherche ce que Silas a deja fait ; Alt est sur la liste de J0RMUN94ND.
 
 ## 6. Renvois

@@ -1,6 +1,6 @@
 # Alt Cunningham
 
-- version : W1
+- version : W2
 
 ## 1. Identite
 
@@ -11,7 +11,7 @@
 ## 2. Avant la numerisation
 
 - Invente la version beta de Soulkiller : un programme qui produit une emulation numerique de l'esprit d'un netrunner.
-- Relation avec Johnny Silverhand, chanteur du groupe Samurai. cf. Personnages/ (Passe 1, a livrer).
+- Relation avec Johnny Silverhand, chanteur du groupe Samurai. Johnny, engramme de la Relic : cf. Lieux/Sites_Arasaka.md S3.
 - 2013 : Saburo Arasaka la fait enlever et lui extrait son programme.
 - Arasaka en produit une version armee : elle sauvegarde la psyche, PUIS grille l'esprit du netrunner. Arasaka la deploie contre Alt elle-meme, n'ayant plus d'usage d'elle.
 - Son fantome numerique echappe a Arasaka et se libere sur le Net.
