@@ -1,6 +1,6 @@
 # _Implications - Cyberpunk
 
-- version : W8
+- version : W9
 - Document de travail. Non indexe au Sommaire. Jamais fetche en narration.
 
 ## Sources en attente (worldbuilder)
@@ -46,7 +46,7 @@ Normalisation des noms : Rasaka = Arasaka ; Kengtao = Kang Tao ; Dexter Di Shur 
 
 ## Trous a combler en Passe 1 (fiches noyau)
 - Silas : description physique (obligatoire, OC, depuis les deux images), deck precis, QG actuel, fixer attitre. Entree chez les VDB : RESOLU (LaGuerre).
-- Silas et le creole haitien (decision worldbuilder) : il parle creole avec les Voodoo Boys et emploie lui-meme quelques expressions. A poser en fiche neutre Personnages/Silas_Null.md : le FAIT (langue, avec qui, depuis quand) + un petit lexique de ses expressions courantes, en ASCII (kreyol romanise sans accents). Le registre et les tics de voix restent matiere de CODEX ANNEXE_PNJ. Le worldbuilder ne connait que quelques mots : le MJ propose le lexique, le worldbuilder valide. Ajouter les termes retenus au SB2 de la BIBLE au build B2.
+- Silas et le creole haitien (decision worldbuilder) : il parle creole avec les Voodoo Boys et emploie lui-meme quelques expressions. A poser en fiche neutre Personnages/Silas_Null.md : le FAIT (langue, avec qui, depuis quand) + un petit lexique de ses expressions courantes, en ASCII (kreyol romanise sans accents). Le registre et les tics de voix restent matiere de CODEX ANNEXE_PNJ. Le worldbuilder ne connait que quelques mots : le MJ propose le lexique, le worldbuilder valide. Ajouter les termes retenus au SB2 de la BIBLE au build suivant.
 - Yor : age apparent de l'avatar ; cout residuel eventuel de la symbiose (aucun declare a ce jour) ; voix et ton relevent du CODEX (ANNEXE_PNJ), pas du WIKI.
 
 ## Questions ouvertes apres le lot Factions
@@ -67,7 +67,7 @@ Normalisation des noms : Rasaka = Arasaka ; Kengtao = Kang Tao ; Dexter Di Shur 
 - Precedent canon de non-Haitiens chez les Voodoo Boys.
 
 ## Regles de forme (worldbuilder, 2026-09-19)
-- Creole haitien, tous threads (build et jeu) : un paragraphe du joueur precede de [Creole] est a traduire en creole ; tout passage ecrit en creole par le MJ est suivi, juste en dessous, de sa traduction francaise en italique. Dans les fichiers ASCII, le creole est romanise sans accents. A reporter dans les Instructions RP (par le worldbuilder) et dans le CODEX V1, ANNEXE_STYLE (par le MJ au CODEX BUILD).
+- Creole haitien, tous threads (build et jeu) : regle ecrite en BIBLE SB0 (B2), a reporter dans le CODEX V1, ANNEXE_STYLE, au CODEX BUILD. Pas dans les Instructions RP (decision worldbuilder).
 
 ## Decisions actees (rappel de cadrage)
 - Prota : Silas "Zer0_Null" Null, masculin, ne le 30/01/2055, fiche NEUTRE.
