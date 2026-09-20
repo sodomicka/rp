@@ -1,29 +1,30 @@
 # _Implications - Cyberpunk
 
-- version : W25
+- version : W26
 - Document de travail. Non indexe au Sommaire. Jamais fetche en narration.
 - Purge (decision worldbuilder) : ce journal ne garde que le VIVANT. Tout fait acte vit en BIBLE ou en WIKI ; aucun historique ici.
 
 ## Etat du build
-- Passes 0 et 1 closes. BIBLE B3, Sommaire W15, Resume W3. 40 pages WIKI.
-- Passe 2 : GARDE-CAP DICTE, saga complete R0 a R15. Il vit dans son propre fichier : Roadmap/Silas/00_Garde_Cap.md (W2), cite au Sommaire par exception de build. Ce journal n'en porte plus rien.
-- Suite : BIBLE BUILD B4 d'abord (thread dedie, decision worldbuilder), puis les roadmaps, en boucle serree, a partir de R0.
+- Passes 0 et 1 closes. BIBLE B4, Sommaire W16, Resume W4. 40 pages WIKI.
+- Passe 2 : GARDE-CAP DICTE, saga complete R0 a R15. Il vit dans son propre fichier : Roadmap/Silas/00_Garde_Cap.md (W3), cite au Sommaire par exception de build. Ce journal n'en porte plus rien.
+- Suite : les roadmaps, en boucle serree, a partir de R0 (thread a part, decision worldbuilder).
 
 ## HANDOFF PASSE 2 - roadmaps
-- Ouverture d'un thread de roadmap : BIBLE B3 en projet ; lire Roadmap/Silas/00_Garde_Cap.md, puis ce journal, puis le Sommaire (W15). SPEC a la derniere verification par listing de Config/ (a refaire a chaque build) : SPEC_BIBLE_LORE_WIKI_v8_5, SPEC_CODEX_v8_4.
-- BIBLE B3 est en retard sur le WIKI et sur le garde-cap (cf. Dettes). En cas d'ecart : le garde-cap et le WIKI font foi.
+- Ouverture d'un thread de roadmap : BIBLE B4 en projet ; lire Roadmap/Silas/00_Garde_Cap.md, puis ce journal, puis le Sommaire (W16). SPEC a la derniere verification par listing de Config/ (a refaire a chaque build) : SPEC_BIBLE_LORE_WIKI_v8_5, SPEC_CODEX_v8_4.
+- BIBLE B4 est a jour du WIKI et du garde-cap W3. Elle est EN AVANCE sur les fiches pour les implications de noyau (cf. Dettes) : sur ces points, le garde-cap fait foi jusqu'au versement dans la fiche. Toute evolution du garde-cap au-dela de W3 est une dette B5.
 - REGLE DE METHODE : un ordre, un calendrier ou une orientation d'arc n'entre dans les pages qu'avec sa source : la parole du worldbuilder, tracee par la mention "decision worldbuilder". PAS DE DATE dans les pages : c'est du meta, le versionning W<N> suffit. Sans source, ce n'est pas acte. Precedent a ne pas refaire : l'"orientation Crystal Palace" de la fin de V, posee sans le worldbuilder, retiree depuis.
 - Forme : le worldbuilder veut des messages COURTS. Points groupes par sujet ; questions numerotees en repartant de 1 a CHAQUE message, une idee par numero ; jamais de probleme evoque sans question ou il puisse repondre.
 
 ## Dettes de build
-- BIBLE B4 (fin de passe) : B3 est en retard sur des decisions du worldbuilder deja portees par le WIKI. A corriger : SB4 Animals ("sous-traitants de NetWatch au Grand Imperial Mall" : seulement a partir de l'ellipse) ; SB5 Lilith et Zaria Hughes (derriere le mur au point de depart, prise de corps et signalement pendant l'ellipse) ; SB5 Bryce Mosley (installe a Pacifica pendant l'ellipse ; fragment capture vers aout-octobre 2076) ; SB6 Grand Imperial Mall (ni Animals ni NetWatch au point de depart) ; SB8 Clones de Yor (date de la capture de Mosley) ; SB3 (ellipse de 3 semaines, acte 2 en seconde quinzaine de mai) ; SB6 Watson ("boucle apres le T0" : faux ; boucle pendant R0 et R1, leve juste apres le braquage). D'ici la, sur ces points, le WIKI fait foi.
-- BIBLE B4, apport du garde-cap : SB3 (arcs R0 a R15) ; SB5 Slider (meurt PENDANT The Damned, grille par le lien de Songbird ; "tueur INCERTAIN" faux) ; SB5 V et SB8 "Fin de V" (orientation Crystal Palace retiree ; corps repris, 6 mois, legende) ; SB5 Bartmoss et SB8 "Ping" (Yor prend la console, la conscience reste libre) ; SB5 Silas (percu comme second de Slider ; fin en fauteuil roulant) ; sorts de Mosley, Lilith, Songbird, Alex, Hansen, Blue Eyes, Alt, Johnny ; SB8 : statuts des Tchekhov, cf. le dispatch du garde-cap ; "NetWatch jamais cible" tient.
-- Implications d'arc sur des NOYAUX (<= point de depart), a verser a chaud pendant la boucle : Wilky_LaGuerre (a vendu des Voodoo de Brigitte a la FIA) ; Silas_Null (motif de la haine des indics : il protege sa famille ; percu comme second et petit prodige de Slider, bien que parti en solo) ; J0RMUN94ND S4 (la copie du Soulkiller NetWatch ne tue pas par elle-meme) ; Mr_Blue_Eyes (reseau comprenant des IA gouvernementales et de corpos) ; Sandra_Dorsett (veut du controle sur les IA).
+- Implications d'arc sur des NOYAUX (<= point de depart), a verser a chaud pendant la boucle ; B4 et Resume W4 les portent deja, les fiches pas encore : Wilky_LaGuerre (a vendu des Voodoo de Brigitte a la FIA ; en fauteuil roulant adapte au netrunning, canon, decision worldbuilder : la fiche S2 dit seulement "fauteuil relie a une machine") ; Silas_Null (motif de la haine des indics : il protege sa famille ; percu comme second et petit prodige de Slider, bien que parti en solo) ; J0RMUN94ND S4 (la copie du Soulkiller NetWatch ne tue pas par elle-meme) ; Mr_Blue_Eyes (reseau comprenant des IA gouvernementales et de corpos) ; Sandra_Dorsett (veut du controle sur les IA).
 - Trajectoires datees, a verser APRES la roadmap qui les produit : Lilith, Bryce_Mosley (R2, R3), puis chaque entite au fil des arcs.
+- Rosalind Myers, mention "otage de Hansen" / "retenue par Hansen" : elle n'a rien a faire la, c'est de l'apres R0 (decision worldbuilder). Retiree de B4. A retirer des pages quand elles sont relivrees, en boucle R5 : Rosalind_Myers.md S6, Chrono_2077.md S4, Pacifica_et_Dogtown.md S6 ; a relire : FIA_NUSA.md S4, Barghest.md S4. Repere canon pour R5 : jamais capturee ; V la sort de l'epave et la met a l'abri, Reed l'exfiltre.
 - WIKI encore "selon la branche" sur Phantom Liberty : Factions/Barghest.md, Factions/FIA_NUSA.md (branche Reed fixee ; a corriger en boucle R10-R11).
 
 ## Points a relire
 - V.md S4 : le lien "Dexter DeShawn, fixer du braquage" est posterieur au point de depart. Cosmetique.
+- V.md S6 : "Sort par defaut : a trancher en fin de roadmap (BIBLE SB5)" est perime : la fin de V est fixee (garde-cap, B4 SB5). A corriger quand la fiche est relivree (boucle R14 au plus tard).
+- T_Bug.md, Silas_Null_relations_2.md : au roadmapping R1, verifier qu'aucune "dette morale" n'y figure. Decision worldbuilder : pas de dette morale ; motif au garde-cap R1.
 
 ## Trous ouverts
 - Jour exact de l'ouverture de R0 et de The Rescue (vers avril 2077).
@@ -41,6 +42,7 @@
 - A reverifier sur le canon : sous-district du Konpeki Plaza ; nom du traite de fin de guerre d'Unification ; developpe de R.A.B.I.D.S. ; population de Night City en 2077 ; fenetre de disponibilite de "Bloody Ritual" (des l'acte 1 ?).
 
 ## Regles et derogations actives
+- BIBLE B4 : 41 532 caracteres apres les compressions a, b, c validees (arcs SB3 en une clause, SB2 sans argot generique, notices de Silas et Yor). Plafond dur 55 000 tenu ; cible 35-40k depassee d'environ 1 500. Decroissance attendue a B5 : SB5 s'allege quand la boucle verse les implications de noyau dans les fiches.
 - Budgets : Sommaire, plafond 20 000 caracteres ; IA/J0RMUN94ND.md, plafond 12 000 ; fiche protagoniste, 20 000 (SPEC).
 - Pages proches du plancher de 2 000 caracteres, a surveiller : Rosalind_Myers (2 007), Silas_Null_relations_2 (2 099), Solomon_Reed (2 131), T_Bug (2 177). Sous le plancher, un satellite refusionne dans sa fiche mere.
 - Page proche du plafond de 8 000 caracteres, a surveiller : Monde/Net_et_Blackwall.md.

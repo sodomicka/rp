@@ -1,6 +1,6 @@
 # 00_Garde_Cap - saga de Silas Null
 
-- version : W2
+- version : W3
 - dossier : Roadmap/Silas. Cite au Sommaire pour la duree de la Passe 2 (decision worldbuilder) ; les roadmaps, elles, restent non indexees.
 - nature : SOURCE DE BUILD UNIQUEMENT, jamais fetche en narration. Briefing dicte par le worldbuilder. Le MJ a confronte au lore et au canon ; rien n'a ete comble.
 - role : garder le cap de la Passe 2. Charge en ouverture de chaque thread de roadmap, mis a jour en cloture.
@@ -19,6 +19,7 @@
 - Appel de T-Bug, direct, sans fixer : surveiller ses arrieres sur une mission au Konpeki ; elle refuse les details. Elle le sait meilleur qu'elle. Il y va en freelance, pas en VDB.
 - Il fait le boulot, espionne tant qu'a faire. En voyant la Relic et la mort de Saburo, il decide de se sauver.
 - Yor copie l'engramme de T-Bug SANS la griller ; Silas se barre et la laisse a ses seules defenses ; Arasaka la grille aussitot. T-Bug sert d'homme de paille (canon preserve).
+- Motif : il la laisse crever parce qu'elle ne lui a pas dit a quel point la mission etait risquee ; il en fait donc une diversion, pour faire comme s'il n'avait jamais ete la. Pas de dette morale.
 - Silas pete un cable : elle a failli indiquer la planque a Arasaka, avec ses secrets, et elle l'a implique. Puis il appelle Rogue pour se dire disponible.
 
 ### R2 - "dyabes la" (la diablesse)
@@ -86,7 +87,7 @@
 - Peralez : Yor leur reimplante leurs vrais souvenirs, lentement, par la methode qui a servi a les conditionner, via le dispositif deja installe chez eux. Lettre anonyme de Silas : ce qui leur est arrive, et que l'IA a ete neutralisee.
 
 ### R14 - "tret dijital" (traitre numerique)
-- V va voir Hanako, appelle Silas pour Mikoshi ; tour Arasaka, juste eux deux. 2 contre 1 face a Smasher, acces a Mikoshi.
+- V va voir Hanako, appelle Silas pour Mikoshi ; tour Arasaka, juste eux deux. 2 contre 1 face a Smasher, qui meurt ; acces a Mikoshi.
 - Alt trahit : elle tente d'absorber Yor une fois toutes deux dans Mikoshi. Yor la domine, absorbe Alt et Silverhand (avec l'accord de Johnny).
 - Yor fait de V un engramme et l'implante dans son propre cerveau : V reprend son corps. Pas de contournement du canon : elle vivra 6 mois, en pure legende de Night City ; Silas lui laisse volontiers la lumiere.
 - Yor absorbe Mikoshi et le tueur d'ames.
@@ -94,7 +95,7 @@
 ### R15 - "miray nwa" (le mur noir)
 - NetWatch tente de confiner le reseau de Night City, trop lentement : Miray nwa est brise avant.
 - Brigitte propose a Silas d'unifier les deux clans en abattant ensemble le mur noir. Ils y parviennent : Silas chef legitime des VDB de Dogtown, clans unifies, Yor en monopole absolu, corpos a genoux sur le plan numerique.
-- Le prix : le systeme nerveux de Silas finit sature ; il est en fauteuil roulant, comme feu son mentor.
+- Le prix : le systeme nerveux de Silas finit sature ; il est en fauteuil roulant, comme feu son mentor (Slider : fauteuil roulant adapte au netrunning, canon).
 
 ## Ordre des cibles de Yor
 Lilith (R2) -> cellule NetWatch de Mosley (R3, hors liste) -> console de Bartmoss (R9, conscience laissee libre) -> entites de Cynosure et Songbird (R11) -> Blue Eyes et son reseau, CN-07 compris (R13) -> Alt, Silverhand, Mikoshi, Soulkiller (R14) -> le Blackwall (R15).
