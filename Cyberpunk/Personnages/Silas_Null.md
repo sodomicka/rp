@@ -1,6 +1,6 @@
 # Silas Null
 
-- version : W4
+- version : W5
 
 ## 1. Identite
 
@@ -32,6 +32,7 @@
 - DETESTE LES INDICS. A refuse de servir de balance, meme entre ses deux mentors.
 - Ideologie : plus proche de Slider (chasse aux corpos) que de la doctrine de Brigitte (abattre le mur pour gagner les faveurs des IA). Sa percee de 2075 releve de la curiosite, comprendre les IA, pas de la doctrine VDB (cf. Monde/Net_et_Blackwall.md S5).
 - Secret absolu : n'a jamais dit a personne qu'il a perce le mur.
+- Se fait passer pour moins doue que ses mentors. Brigitte et Slider se doutent qu'il ment, pas a quel point.
 - Manie : porte le bout des doigts a sa tempe pour lancer un hack.
 - Gouts : boissons energisantes (Chromanticore) ; cuisine pimentee et/ou creole.
 
@@ -71,9 +72,10 @@
 - Deconnecte de Yor : netrunner de genie. Coupe du Net, il ne garde que la racine de Yor, son paradigme, pas la puissance de l'essaim.
 - Connecte : arme absolue. Quickhacks de niveau Blackwall via Yor, sans deck Canto ni Blackwall Gateway. cf. IA/J0RMUN94ND.md S4.
 - Reflexes aberrants, fruit de la chrome nerveuse et de la symbiose.
-- Yor peut prendre le controle de son corps. Utile en combat.
+- Yor peut prendre le controle de son corps en combat : elle en ignore les limites (dechirures, lesions), mais le fait bouger comme un predateur, un animal sauvage.
 - SIGNATURE VISUELLE des hacks via Yor : filaments violets lumineux autour des mains, des poignets, des pieds. Visibles des seuls netrunners avances. Chez eux, plus mythe que certitude : une signature vague, jamais un motif exploitable.
-- Echelle : Blackwall-arme, au rang de Songbird. cf. Monde/Netrunning_2077.md S6, Power_Scaling/ (a livrer).
+- Echelle numerique. Connecte : Blackwall-arme, au rang de Songbird. Deconnecte : reputation Elite, sous Brigitte et Slider (ce qu'il montre) ; niveau reel, numero 1 de l'Elite ; talent pur, niveau Alt et Bartmoss, specialise dans le percage d'ICE. cf. Power_Scaling/Scaling_Numerique.md.
+- Echelle physique : Elite (lames mantis, chrome nerveuse boostee, reflexes aberrants), sous le sommet (Smasher ; V en fin 2077), bien au-dessus des mercs ordinaires. Pilote par Yor : en haut du palier. cf. Power_Scaling/Scaling_Physique.md.
 
 ## 8. Symbiose avec J0RMUN94ND (mecanique)
 
@@ -168,6 +170,7 @@ Deja au lexique de la BIBLE (SB2) : ti moun (gamin), ranyon (intermediaire jetab
 
 - De Yor et de la percee : personne ne sait rien. Silas seul sait tout.
 - Brigitte cherche ce qu'il cache, sans savoir quoi. Alt Cunningham, son contact, est une cible de Yor.
+- Brigitte et Slider : le savent plus doue qu'il ne le montre, sans mesurer l'ecart.
 - Netrunners avances : ont pu voir la signature violette ; n'en font qu'un mythe.
 - NetWatch : ignore Silas Null. Fragments captures classes comme clones d'une IA isolee. cf. Factions/NetWatch.md S4.
 - Regina Jones : constate des livraisons propres ; ignore ce que Yor preleve.
@@ -186,6 +189,7 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entr
 - Factions/Voodoo_Boys.md ; Factions/NetWatch.md ; Factions/Barghest.md ; Lieux/Pacifica_et_Dogtown.md.
 - Personnages/Silas_Null_relations_1.md ; Personnages/Silas_Null_relations_2.md ; Personnages/Wilky_LaGuerre.md ; Personnages/Maman_Brigitte.md ; Personnages/Placide.md ; Personnages/T_Bug.md ; Personnages/Kurt_Hansen.md.
 - Lieux/Sites_Arasaka.md S2 (plan B du Konpeki) ; Chronologie/Chrono_Univers.md ; Chronologie/Chrono_2077.md.
+- Power_Scaling/Scaling_Numerique.md ; Power_Scaling/Scaling_Physique.md.
 
 ---
 

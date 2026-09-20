@@ -1,6 +1,6 @@
 # Night Corp
 
-- version : W3
+- version : W4
 
 ## 1. Nature
 - Night Corporation, siege a Night City. Corporation entierement tournee vers la ville et ses affaires.
@@ -20,7 +20,7 @@
 ## 4. [DIVERGENCE RP] Night Corp et Blue Eyes
 - Night Corp, SSI et la mise sous controle des Peralez sont des instruments de l'IA Blue Eyes, dont le noyau vit dans un corps proxy hors Net. cf. Personnages/Mr_Blue_Eyes.md.
 - CN-07 est un ESCLAVE de Blue Eyes : IA subordonnee, paradigme impose, outil de conditionnement. Blue Eyes gouverne par reseau d'esclaves, n'assimile que par exception.
-- Night Corp est son bras civil ; l'election municipale est son levier. Cible 4 de J0RMUN94ND.
+- Night Corp est son bras civil ; l'election municipale est son levier. Blue Eyes est une cible de J0RMUN94ND.
 
 ## 5. Renvois
 - Personnages/Mr_Blue_Eyes.md ; Personnages/Peralez.md ; Personnages/Sandra_Dorsett.md ; Monde/Night_City_2077.md ; Factions/Maelstrom.md S5.

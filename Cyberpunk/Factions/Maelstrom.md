@@ -1,6 +1,6 @@
 # Maelstrom
 
-- version : W2
+- version : W3
 
 ## 1. Nature
 - Gang de Watson : Northside Industrial District et nord de Kabuki. Environ 1 300 membres. Menace : extreme.
@@ -23,7 +23,7 @@
 ## 5. Lilith et le rituel
 - Cyberpsycho Sighting "Bloody Ritual" : rituel Maelstrom pour invoquer Lilith depuis l'au-dela du Blackwall. Zaria Hughes possedee, devenue cyberpsycho.
 - Gig "The Prophet's Song" : reunion secrete Arasaka / Maelstrom enregistree. Un Maelstromer : "Lilith a cache le dixieme cercle aux yeux des ancetres". Formule "Carpe Noctem", aussi sur le shard de Sandra Dorsett (Night Corp).
-- [DIVERGENCE RP] Zaria Hughes = IA dans un corps de chair, cf. Monde/Chrome_et_Cyberpsychose.md S2bis. Lilith = cible 1 de J0RMUN94ND, par un contrat a Watson/Northside. cf. IA/Lilith.md.
+- [DIVERGENCE RP] Zaria Hughes = IA dans un corps de chair, cf. Monde/Chrome_et_Cyberpsychose.md S2bis. Lilith = cible de J0RMUN94ND. cf. IA/Lilith.md.
 
 ## 6. Renvois
 - Lieux/Watson.md ; IA/Lilith.md ; Monde/Chrome_et_Cyberpsychose.md ; Factions/Night_Corp.md (Carpe Noctem).

@@ -1,6 +1,6 @@
 # Netrunning 2077
 
-- version : W1
+- version : W2
 
 ## 1. Equipement de base
 - Interface neurale (port d'interface) obligatoire : le netrunner se branche par cable ou a courte portee sans fil.
@@ -33,11 +33,14 @@
 - Ceux qui l'ont fait : Alt (de l'interieur) ; Songbird (par breche NUSA) ; Silas Null (seul, 2075, [DIVERGENCE RP]).
 
 ## 6. Echelle indicative des netrunners
-- Legendes : Rache Bartmoss (mort), Alt Cunningham (numerisee).
-- Blackwall-armes : Songbird (NUSA), Silas Null (symbiose, [DIVERGENCE RP]).
-- Elite : Brigitte, Placide (Voodoo Boys), Lucy (ex-plongeuse Arasaka).
-- Pro merc : T-Bug.
-- Detail : cf. Power_Scaling/Scaling_Netrunners.md.
+- Paliers de reputation, du haut vers le bas :
+  - Legendes : Rache Bartmoss (mort), Alt Cunningham (numerisee).
+  - Blackwall-armes : Songbird (NUSA), Silas Null connecte (symbiose, [DIVERGENCE RP]).
+  - Elite : Brigitte, Placide, Slider (Voodoo Boys), Lucy (ex-plongeuse Arasaka), Silas Null deconnecte.
+  - Pro : T-Bug, Bryce Mosley, Sandra Dorsett.
+  - Rue : runners de gang.
+- V n'a pas de deck : hors echelle numerique.
+- Talent, specialites, runners corpo, entites : cf. Power_Scaling/Scaling_Numerique.md. Capacites physiques des runners : cf. Power_Scaling/Scaling_Physique.md.
 
 ## 7. Renvois
 - Net_et_Blackwall.md ; Chrome_et_Cyberpsychose.md ; Factions/NetWatch.md ; Factions/Voodoo_Boys.md.

@@ -1,6 +1,6 @@
 # Silas Null - Relations (Yor et le clan)
 
-- version : W2
+- version : W3
 
 Texture des relations. La mecanique de la symbiose vit dans la fiche mere : cf. Personnages/Silas_Null.md S8. Cercle metier : cf. Personnages/Silas_Null_relations_2.md.
 
@@ -23,6 +23,7 @@ Texture des relations. La mecanique de la symbiose vit dans la fiche mere : cf. 
 - Dynamique : affinite d'idees, la chasse aux corpos plutot que le mur. Loyaute totale : il l'a suivi au schisme. Il a vu son mentor devenir aveugle et l'a cru sur parole.
 - Ce que Silas sait : la version de Slider, une ICE trop bien protegee qui lui a grille le cortex visuel. Il ignore que la FIA l'a aveugle et en a fait son indic. Silas deteste les indics.
 - Ce que Slider sait : rien de la percee, rien de Yor. Netrunner avance, il a pu voir la signature violette ; un mythe, pour lui comme pour les autres.
+- Ce que Slider soupconne : Silas se fait passer pour moins doue que lui ; il se doute qu'il ment, pas a quel point.
 - Evolution datee :
   - 2062 : figure d'autorite du clan, pour l'orphelin de 7 ans.
   - Annees 2060 : lui donne son nom, devient son mentor.
@@ -37,6 +38,7 @@ Texture des relations. La mecanique de la symbiose vit dans la fiche mere : cf. 
 - Rituels / habitudes : il fait encore des boulots pour elle, tant qu'ils ne visent pas Slider. Il refuse de lui rapporter quoi que ce soit sur Slider, et l'inverse.
 - Dynamique : lien anterieur au schisme, jamais rompu. Tension structurelle : elle cherche ce que lui a deja fait, et il le lui cache. Alt Cunningham, son contact au-dela du mur, est une cible de Yor.
 - Ce que Brigitte sait : qu'il cache quelque chose, pas quoi. Netrunneuse d'elite, elle a pu voir la signature violette ; elle n'en tient qu'un mythe.
+- Ce que Brigitte soupconne aussi : il se fait passer pour moins doue qu'elle ; elle se doute qu'il ment, pas a quel point.
 - Evolution datee :
   - 2062 : figure d'autorite du clan.
   - 2070 : schisme ; il suit Slider sans lui tourner le dos.

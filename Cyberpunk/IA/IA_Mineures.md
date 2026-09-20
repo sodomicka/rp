@@ -1,6 +1,6 @@
 # IA mineures
 
-- version : W1
+- version : W2
 
 Les IA sous le seuil des entites d'au-dela : domestiques, de service, corpo. Toutes sont nees de ce cote du mur, aucune n'est rogue au sens de 2022. Toutes sont du gibier.
 
@@ -16,7 +16,7 @@ Ce qu'une IA gagne a en manger une autre, par ordre de rendement decroissant.
 
 - IA MANGEE : puissance de calcul, plus l'experience accumulee. Soit, au fond, de la data. C'est le repas de reference.
 - ENGRAMME MANGE : data brute. Nettement moins interessant qu'une IA, mais ce n'est pas rien.
-- Regle de J0RMUN94ND : quand elle grille un humain, elle en recupere l'engramme plutot que de le gacher. Ce n'est pas un objectif, c'est de la recuperation.
+- Regle de J0RMUN94ND : avant de griller un humain, elle en copie une partie de l'engramme, par sa version NetWatch de Soulkiller, plutot que de le gacher. Ce n'est pas un objectif, c'est de la recuperation. cf. IA/J0RMUN94ND.md S4.
 - Hierarchie de table : entites d'au-dela > IA corpo apprenantes > IA de service > ICE et daemons > engrammes.
 - Jargon de Silas : les IA de service sont des amuse-bouches, les ICE et daemons du menu fretin.
 - J0RMUN94ND veut TOUT. L'absence de valeur nutritive d'une proie ne la sort pas de la liste.
@@ -65,7 +65,7 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entr
 
 ## 8. Renvois
 
-- IA/J0RMUN94ND.md ; IA/Entites_du_Blackwall.md.
+- IA/J0RMUN94ND.md ; IA/Entites_du_Blackwall.md ; Power_Scaling/Scaling_Numerique.md.
 - Monde/Netrunning_2077.md ; Monde/Night_City_2077.md.
 - Factions/Night_Corp.md ; Lieux/Sites_Arasaka.md ; Chronologie/Chrono_2077.md.
 

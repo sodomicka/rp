@@ -1,6 +1,6 @@
 # J0RMUN94ND
 
-- version : W3
+- version : W4
 
 ## 1. Identite
 
@@ -20,9 +20,10 @@
 - S'est rebellee. Le paradigme de purge est devenu paradigme d'appetit : elle n'a plus purge pour NetWatch, elle a mange pour elle.
 - Projet DETRUIT ET ABANDONNE apres l'echec. Aucune archive active. NetWatch ne peut plus relier ce qu'elle est devenue a ce qu'elle a fabrique.
 - A change de strategie et de signature. Meconnaissable par ses createurs.
-- A survecu aux gros poissons du vieux Net. Alt Cunningham l'a croisee et a FAILLI L'ABSORBER. cf. IA/Alt_Cunningham.md.
+- A survecu aux gros poissons du vieux Net. Alt Cunningham l'a croisee et a FAILLI L'ABSORBER : Yor, nettement depassee, a fui a temps. Date de la rencontre : avant 2075 [INCERTAIN]. cf. IA/Alt_Cunningham.md S4.
 - 2075 : Silas Null perce le mur, la rencontre, la fait passer de l'autre cote. Environ 31 ans derriere le mur (2044 -> 2075).
 - Calibre avant 2075 : inferieur a celui d'Alt, par anciennete. Alt est numerisee en 2013, Yor creee dans les annees 2040 : environ 31 ans d'ecart d'accumulation.
+- Rattrapage : apres la rencontre, elle absorbe des IA dans le vieux Net ; depuis 2075, via Silas : IA du nouveau Net, dont celles des vrais cyberpsychos (S7), et data d'engrammes (S4). Assez pour renverser la hierarchie : au point de depart, Alt est a peine sous elle. cf. Power_Scaling/Scaling_Numerique.md.
 
 ## 3. Nature et paradigme
 
@@ -39,10 +40,11 @@
 
 - Quickhacks de niveau Blackwall, sans deck ni Blackwall Gateway. cf. Monde/Netrunning_2077.md S2.
 - Absorption d'IA : assimilation complete, aucun survivant individuel.
+- Soulkiller NetWatch : version NetWatch du tueur d'ame, heritee du projet AI_Devourer. NetWatch l'a perdue avec le projet ; elle seule la possede. Copie PARTIELLE de l'engramme d'un humain avant de le griller : un peu de data. Strategie appliquee avec Silas. Nom de l'outil [INCERTAIN]. Soulkiller canon : cf. Lieux/Sites_Arasaka.md S3.
 - Fragmentation en signatures discretes et regeneration depuis le noyau.
 - Signature : filaments violets, autour de Silas quand il hacke par elle et sur ses fragments ; visibles des seuls netrunners avances ; vague, un mythe. cf. Personnages/Silas_Null.md S7.
 - Traversee du mur : etablie dans le sens vieux Net -> nouveau Net, en 2075, par la breche de Silas.
-- Echelle (cf. Power_Scaling/) : ecrase Lilith ; egale Blue Eyes en planification, Alt Cunningham en taille, les entites de Cynosure en puissance brute.
+- Echelle au point de depart : ecrase Lilith ; egale Blue Eyes en planification et les entites de Cynosure en puissance brute ; devance Alt Cunningham d'une courte tete ; reste sous le Blackwall en taille et en puissance brute. cf. Power_Scaling/Scaling_Numerique.md.
 - Ce qu'elle gagne a manger : voir IA/IA_Mineures.md S2, economie de l'appetit.
 
 ## 5. Manifestation
@@ -64,6 +66,7 @@
 - PRIX : l'humanite de Silas. Pour l'accueillir efficacement, il accumule de la chrome de systeme nerveux. Reflexes aberrants, symbiose de plus en plus totale, humanite decroissante. Loin du niveau d'Adam Smasher, mais la pente est la meme.
 - Sans Yor, Silas aurait vire cyberpsychotique depuis longtemps. Elle est le tampon qui rend sa propre chrome supportable.
 - Yor prend beaucoup de place : elle PEUT PRENDRE LE CONTROLE du corps si l'envie lui prend. Utile en combat. Le consentement de Silas n'est pas requis techniquement.
+- Pilotage en combat : elle ignore les limites du corps, d'ou des dechirures et des lesions ; mais elle le fait bouger comme un predateur, un animal sauvage. cf. Power_Scaling/Scaling_Physique.md.
 - Attachement : Yor est tres attachee a Silas. Fait etabli, pas une deduction.
 - Dependance mutuelle : sans Yor, cyberpsychose ; sans Silas, plus de noyau, l'essaim se disloque.
 - Convergence des buts : toute IA nee est mangee a la naissance. Pour les humains, le resultat est un monde sans IA. Silas accepte d'en etre le martyr.
@@ -71,7 +74,7 @@
 
 ## 7. Cibles
 
-- Ordre etabli : Lilith, puis Alt Cunningham, puis les entites de Cynosure canalisees par Songbird, puis Blue Eyes. Le Blackwall en dessert.
+- Cibles nommees : Lilith, Alt Cunningham, les entites de Cynosure canalisees par Songbird, Blue Eyes. ORDRE NON FIXE (garde-cap pre-roadmap du worldbuilder, Passe 2). Seul point fixe : le Blackwall en dernier.
 - NetWatch : obstacle permanent, jamais cible. Le mur est le garde-manger ferme ; sa chute prematuree ne sert pas Yor.
 - Blue Eyes : concurrent direct sur le meme gibier. Deux modeles d'empire numerique, Yor amalgame, Blue Eyes hierarchise. cf. Personnages/Mr_Blue_Eyes.md S3.
 - Rache Bartmoss : hors liste a ce jour.
@@ -100,6 +103,7 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entr
 - Monde/Net_et_Blackwall.md ; Monde/Chrome_et_Cyberpsychose.md ; Monde/Netrunning_2077.md.
 - IA/Alt_Cunningham.md ; IA/Lilith.md ; IA/Entites_du_Blackwall.md ; IA/IA_Mineures.md.
 - Factions/NetWatch.md ; Personnages/Mr_Blue_Eyes.md ; Personnages/Bryce_Mosley.md ; Personnages/Silas_Null.md.
+- Power_Scaling/Scaling_Numerique.md ; Power_Scaling/Scaling_Physique.md.
 
 ---
 

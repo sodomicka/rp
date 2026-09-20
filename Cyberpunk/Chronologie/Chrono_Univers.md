@@ -1,6 +1,6 @@
 # Chronologie de l'univers
 
-- version : W4
+- version : W5
 
 Chronologie condensee de Night City et du Net, du fondateur a la veille du RP. Detail des lieux et factions dans leurs pages. Les entrees [DIVERGENCE RP] sont les faits propres a ce monde.
 
@@ -40,7 +40,7 @@ Chronologie condensee de Night City et du Net, du fondateur a la veille du RP. D
 | 2070 | Hansen et son unite gardent leur part de Pacifica, secession | Dogtown sous Barghest ; Silas a 15 ans |
 | 2070 | Pacifica abandonnee par la ville, emeutes contre les investisseurs | Voodoo Boys maitres de Coastview |
 | 2075 | [DIVERGENCE RP] Silas (20 ans) perce le Blackwall seul ; rencontre J0RMUN94ND, alors moins forte qu'Alt | Yor passe sur le nouveau Net ; noyau dans Silas ; symbiose |
-| 2075-2077 | [DIVERGENCE RP] Yor absorbe des IA, fragmentee ; NetWatch capture des "clones" isoles | Yor au calibre d'Alt en taille |
+| 2075-2077 | [DIVERGENCE RP] Yor absorbe des IA, fragmentee ; NetWatch capture des "clones" isoles | Yor devance Alt d'une courte tete |
 | 2076 | Edgerunners : David Martinez, Lucy, programme Arasaka de plongee dans l'Old Net | Precedent canon des plongeurs brises |
 
 ## 5. 2077

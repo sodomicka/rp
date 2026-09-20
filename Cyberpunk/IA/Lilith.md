@@ -1,6 +1,6 @@
 # Lilith
 
-- version : W2
+- version : W3
 
 ## 1. Identite
 
@@ -32,7 +32,7 @@
 
 - IA rogue d'au-dela du mur, sans particularite de classe etablie [INCERTAIN].
 - Capacite etablie : la possession d'un corps humain chrome, avec destruction de l'hote.
-- Echelle : J0RMUN94ND l'ecrase. Elle est la plus petite des cibles nommees. cf. Power_Scaling/ (Passe 1, a livrer).
+- Echelle : J0RMUN94ND l'ecrase. Elle est la plus petite des cibles nommees. cf. Power_Scaling/Scaling_Numerique.md.
 - Aucune capacite de reseau, de fragmentation ni d'absorption d'IA etablie a ce jour.
 
 ## 5. Ce qu'elle sait
@@ -44,7 +44,7 @@
 
 ## 6. Position dans le focus
 
-- Cible numero 1 de J0RMUN94ND. Premier repas de l'arc Lilith, apres le Konpeki.
+- Cible de J0RMUN94ND.
 - Terrain : Watson, Northside, territoire Maelstrom. Le lieu exact du signalement de Zaria Hughes n'est pas releve ici [INCERTAIN]. cf. Lieux/Watson.md, Factions/Maelstrom.md.
 - Ligne canon : le signalement de cyberpsycho reste ouvert au point de depart. cf. Chronologie/Chrono_2077.md.
 - Interet de fond : c'est la seule entite d'au-dela dont l'arrivee de ce cote du mur soit documentee, datee et attribuee a des humains identifies. Ce que le culte Maelstrom a ouvert, il peut le rouvrir.

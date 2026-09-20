@@ -1,6 +1,6 @@
 # FIA et NUSA
 
-- version : W1
+- version : W2
 
 ## 1. NUSA
 - New United States of America. Presidente : Rosalind Myers, ex-Militech ; le pouvoir federal et Militech sont imbriques.
@@ -23,7 +23,7 @@
 
 ## 5. [DIVERGENCE RP]
 - La Lune est un piege : Blue Eyes veut absorber l'IA que Songbird porte sans que personne, FIA en tete, ne pose de questions.
-- Cette meme IA est une cible de J0RMUN94ND. Songbird est l'un des deux points de collision directe entre Yor et Blue Eyes (l'autre : le mur lui-meme).
+- Cette meme IA est une cible de J0RMUN94ND.
 
 ## 6. Renvois
 - Factions/Barghest.md ; Lieux/Pacifica_et_Dogtown.md S7 ; Personnages/Songbird.md ; Personnages/Solomon_Reed.md ; Personnages/Rosalind_Myers.md.

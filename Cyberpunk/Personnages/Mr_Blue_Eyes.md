@@ -1,6 +1,6 @@
 # Mr Blue Eyes
 
-- version : W1
+- version : W2
 
 ## 1. Identite
 
@@ -25,7 +25,8 @@
 - Exception d'absorption : les entites de Cynosure portees par Songbird, trop chaotiques pour etre asservies. Il veut les absorber pour gagner en puissance : piege de la Lune. cf. Factions/FIA_NUSA.md S5.
 - Concurrent direct de J0RMUN94ND sur le meme gibier. Deux modeles d'empire numerique : Yor amalgame, Blue Eyes hierarchise. Yor l'egale en planification. cf. IA/J0RMUN94ND.md S4, S7.
 - Meme porte que les vrais cyberpsychos, autre issue : IA installee, psyche de l'hote morte. A l'oppose exact de Silas Null, hote vivant et consentant. cf. Monde/Chrome_et_Cyberpsychose.md S2bis.
-- Cible 4 de J0RMUN94ND, apres Lilith, Alt Cunningham et les entites de Cynosure.
+- Cible de J0RMUN94ND.
+- Echelle : etalon de PLANIFICATION ; en tete de l'emprise physique (un corps et un reseau d'esclaves). cf. Power_Scaling/Scaling_Numerique.md ; Power_Scaling/Scaling_Physique.md.
 
 ## 4. Instruments a Night City
 

@@ -1,6 +1,6 @@
 # _Implications - Cyberpunk
 
-- version : W15
+- version : W17
 - Document de travail. Non indexe au Sommaire. Jamais fetche en narration.
 
 ## Etat du build
@@ -8,7 +8,87 @@
 - Lot IA : LIVRE (5 pages).
 - Lot Personnages : LIVRE (2026-09-19). 14 fiches + 2 satellites : Silas_Null (W4), Silas_Null_relations_1 et _2 (W2), Mr_Blue_Eyes, Peralez (W2), Sandra_Dorsett, Bryce_Mosley, Maman_Brigitte (W2), Placide, Wilky_LaGuerre, Kurt_Hansen, T_Bug, Songbird, Solomon_Reed, Rosalind_Myers, V.
 - Propagations du lot : Net_et_Blackwall W5, Entites_du_Blackwall W3, J0RMUN94ND W3, Alt_Cunningham W2, Lilith W2, Night_Corp W3, Chrome_et_Cyberpsychose W4, NetWatch W4, Voodoo_Boys W5, Barghest W2, Pacifica_et_Dogtown W2, Chrono_Univers W4, Chrono_2077 W3, Night_City_2077 W3, Sommaire W7.
-- A FAIRE : lot Power_Scaling (Passe 1), puis BIBLE B3 (cloture de Passe 1), puis Passe 2 (roadmaps, boucle serree).
+- Lot Power_Scaling : LIVRE (2026-09-20). 2 pages W1 : Power_Scaling/Scaling_Numerique.md, Power_Scaling/Scaling_Physique.md. Propagations : J0RMUN94ND W4, Alt_Cunningham W3, Lilith W3, Entites_du_Blackwall W4, IA_Mineures W2, Silas_Null W5, Silas_Null_relations_1 W3, Maman_Brigitte W3, Wilky_LaGuerre W2, Mr_Blue_Eyes W2, V W2, Netrunning_2077 W2, Night_Corp W4, Maelstrom W3, FIA_NUSA W2, Chrono_2077 W4, Chrono_Univers W5, Sites_Arasaka W2, Sommaire W8.
+- Point de depart fixe (2026-09-20) : ouverture de R0. Propagations WIKI : RESTE, cf. HANDOFF B3 S1.
+- A FAIRE : BIBLE B3 + Resume (cloture de Passe 1), dans un THREAD DEDIE (decision worldbuilder 2026-09-20). Tout le necessaire : HANDOFF B3 ci-dessous. Puis Passe 2.
+
+## HANDOFF B3 - thread dedie (consolide 2026-09-20)
+
+Tout est ACTE sauf mention [A VALIDER]. Ordre d'execution recommande : S0, S1, S2, S3, S4.
+
+### S0. Ouverture du thread
+- Lire ce journal (W17), puis Sommaire (W8). BIBLE B2 en fichier de projet.
+- Verifier sur le depot que le lot Power_Scaling est pousse (Sommaire en W8, Power_Scaling/ present).
+- SPEC : v8_5 a reverifier par listing de Config/.
+- Budget : 10 consultations WIKI par tour. Tour 1 suggere : Chrono_2077, Sites_Arasaka, Silas_Null, T_Bug, Silas_Null_relations_2, Resume, Night_City_2077 (Rhyne), Net_et_Blackwall (Bartmoss). Tour 2 : fiches SB5 restantes (Peralez, Rosalind_Myers, Songbird, Kurt_Hansen, Solomon_Reed, Placide, Maman_Brigitte, Wilky_LaGuerre, Bryce_Mosley, Sandra_Dorsett, V, Mr_Blue_Eyes, IA/).
+- Localiser par grep sur le clone (audit, hors budget) avant d'editer ; lire en entier toute page editee.
+
+### S1. Propagations WIKI du point de depart (AVANT la BIBLE)
+Decision : point de depart = ouverture de R0. Appel de T-Bug = premier beat de R1 (sort des fiches noyau). Detail : Decisions actees - lot Power_Scaling, Point de depart.
+- Chronologie/Chrono_2077.md (W4 -> W5)
+  - S1 : titre -> "Avant le point de depart (ouverture de R0)". Ligne Silas : retirer "T-Bug lui demande de rester en plan B pour le Konpeki" ; age selon la date de R0 [A VALIDER].
+  - S1bis : R0 = un contrat de Mr. Hands ; decor de Silas (VDB en solo, genie du hack, symbiose avec Yor, neutre dans les conflits internes aux VDB, proche de Brigitte, Placide et Slider) ; "Point de depart du RP : ouverture de R0". Retirer l'appel de T-Bug de S1bis.
+  - S2 : premier beat de R1, T-Bug contacte Silas directement, sans fixer, pour l'avoir en assurance. Ligne Silas : retirer "Point de depart du RP".
+- Lieux/Sites_Arasaka.md (W2 -> W3) : S2, retirer "Point de depart du RP".
+- Personnages/Silas_Null.md (W5 -> W6)
+  - S1 : "Age au point de depart" selon la date de R0 [A VALIDER] ; l'age au T0 (braquage) reste 22 ans.
+  - Table d'histoire : retirer la ligne "2077, veille du T0" (appel de T-Bug), en GARDANT le fait "il ignore que Brigitte est derriere le vol de la Relic" (le loger en S12 s'il n'y est pas).
+  - Liens : "T-Bug : collegue occasionnelle ; plan B au Konpeki" -> retirer "plan B au Konpeki".
+- Personnages/T_Bug.md (W1 -> W2) : S4, retirer "Veille du T0 : elle lui demande de rester en plan B pour le Konpeki. Silas y est en freelance, pas en tant que VDB." (matiere roadmap R1).
+- Personnages/Silas_Null_relations_2.md (W2 -> W3), bloc T-Bug : Statut, retirer "Au T0, elle lui demande de rester en plan B..." ; Dynamique, garder "Elle sait qu'il est meilleur qu'elle", la suite ("c'est pour ca qu'elle le veut en plan B") part en matiere roadmap R1 ; Evolution datee, retirer "2077, veille du T0 : plan B du Konpeki".
+- Tiennent sans changement : V.md et Sites_Arasaka "Silas a 22 ans" (age au braquage) ; Chrono_Univers intro "a la veille du RP".
+- Sommaire (W8 -> W9) : descriptions de Resume ("arrete a l'ouverture de R0") et de T_Bug (retirer "plan B Silas") ; W de toutes les pages relivrees.
+
+### S2. BIBLE B3 (livraison complete, FIN_BIBLE_B3, cible 35-40k, plafond 55k, wc -m)
+- SB0
+  - Protagoniste : Silas "Zer0" Null (ex-"Zer0_Null").
+  - Focus narratif : de R0 (contrat de Mr. Hands, avant le Konpeki) jusqu'au Blackwall. Point de depart : ouverture de R0.
+  - Sources : images de Yor, de Silas et de V RECUES (retirer "a venir, Passe 1").
+  - Pages rattachees : IA 5 ; Personnages 16 (14 fiches + 2 satellites) ; Power_Scaling 2 ; recompter au listing.
+  - Etat du build : Passe 1 close ; suite : Passe 2 (garde-cap pre-roadmap du worldbuilder, puis roadmaps).
+- SB1
+  - Retirer "Collision sur Songbird, puis sur le mur." (matiere de Passe 2). Garder "Deux modeles d'empire numerique : Yor amalgame, Blue Eyes hierarchise."
+- SB2
+  - Lexique creole de Silas, depuis Silas_Null.md S10 : dont "manje l", "vale l", "Miray nwa", "tchwip". Handle Zer0.
+- SB3 (verifier chaque date, montrer les calculs)
+  - 2055 : naissance, lieu [INCERTAIN] (retirer "Pacifica").
+  - 2062 : Silas, 7 ans, arrive a Pacifica avec les refugies haitiens.
+  - 2069 : premier mort, un netrunner NetWatch, sous Slider ; il garde sa Netdriver (14 ans : du 30/01/2069 au 29/01/2070).
+  - 2070 : schisme VDB, juste avant la secession de Hansen ; Silas (15 ans) suit Slider a Dogtown (retirer "annees 2070 [INCERTAIN]").
+  - 2075-2077 : Yor devance Alt d'une courte tete (retirer "au calibre d'Alt").
+  - 2077 : Konpeki fin avril-debut mai.
+  - Notes : retirer "Mois du Konpeki : canon muet" et "Ordre des arcs". Poser : R0 (contrat de Mr. Hands) -> R1 (premier beat : appel de T-Bug ; puis le Konpeki, depuis l'appartement de Coastview) -> ellipse de convalescence de V, Silas traque Lilith ; la suite en garde-cap ; le Blackwall en dernier. Point de depart : ouverture de R0, date [A VALIDER].
+- SB4
+  - Maelstrom : retirer "arc 2".
+  - Barghest : "loi d'enfance de Silas" -> loi du quartier de son adolescence (depuis 2070, 15 ans).
+  - Voodoo Boys : Silas en solo, pas sorti ; neutre dans les conflits internes.
+- SB5 (decroissance : 3-4 lignes + renvoi pour chaque entite a fiche)
+  - A fiche : Silas_Null (+ relations_1, relations_2), J0RMUN94ND, Alt_Cunningham, Lilith, Entites_du_Blackwall (Cynosure, Cerberus, co-batisseurs), IA_Mineures (CN-07, Delamain, Skippy, Brendan), Mr_Blue_Eyes, Peralez, Sandra_Dorsett, Bryce_Mosley, Maman_Brigitte, Placide, Wilky_LaGuerre, Kurt_Hansen, T_Bug, Songbird, Solomon_Reed, Rosalind_Myers, V. Bartmoss : domicile Net_et_Blackwall S2.
+  - Silas : Zer0 ; haitien ; VDB en solo, pas "ex-VDB" ; orphelin arrive en 2062 (retirer "gamin sans nom de Dogtown") ; nom donne par Slider ; echelles et fausse modestie (renvoi Power_Scaling).
+  - Yor : scaling corrige ; Soulkiller NetWatch ; origine actee (AI_Devourer_V0.94) ; image recue.
+  - V : Sandevistan, pas de deck ; meilleure des Valentinos au Sandevistan ; sommet physique en fin 2077.
+  - LaGuerre : canon verifie (vivant pendant The Damned ; mort en 2077 dans sa planque de l'Eventide, evoquee dans I've Seen That Face Before ; tueur [INCERTAIN]). Retirer "a reverifier".
+  - Rhyne et Holt : aligner sur Night_City_2077 S4 (Rhyne mort, cause [INCERTAIN] ; Holt ex-adjoint, candidat). Detail du cyberpsycho : C2 ouvert.
+  - Lilith : "Cible 1" -> cible.
+  - Sans fiche, restent en SB5 comme domicile du fait : Jackie, Dex, Johnny, Smasher, famille Arasaka, Takemura, Brick, Royce, Patricia et Dum Dum, Zaria, Regina, Meredith, Rogue, Gary, Mr. Hands, Alex.
+- SB6 : relire les mentions de point de depart ; rien d'autre releve.
+- SB7 : ajouter le Soulkiller NetWatch (outil de Yor, copie partielle d'engramme, herite du projet AI_Devourer).
+- SB8
+  - Mysteres : fermer "Origine de J0RMUN94ND" (actee, lot IA) et "Nature exacte de Lilith" (dixieme cercle acte, lot IA).
+  - Tchekhov "LaGuerre indic FIA" : aligner sur le canon verifie.
+  - Tchekhov "Trahison de T-Bug" : "plante au T0 (plan B)" -> plante au premier beat de R1.
+- SB9 : inchange.
+
+### S3. Resume.md (W1 -> W2)
+- Intro : "Etat arrete a l'ouverture de R0" (au lieu de la veille du Konpeki).
+- S2 : orphelin arrive en 2062 avec les refugies (retirer "gamin sans nom", "entree par LaGuerre") ; Dogtown en 2070, a 15 ans ; nom "Null" donne par Slider ; handle Zer0.
+- Cibles de Yor : retirer "dans l'ordre" ; le mur en dernier, garde-manger ferme.
+- S4 : titre -> "Etat du monde a l'ouverture de R0" ; retirer "T-Bug demande a Silas de rester en plan B" ; Rhyne mort, cause [INCERTAIN].
+- Integrer : Yor devance Alt ; V au Sandevistan.
+
+### S4. Journal
+- Proposer au worldbuilder une purge de ce journal : tours soldes compresses en une ligne, seules les sections vivantes gardees en detail. [A VALIDER]
+- Puis W18.
 
 ## Sources (worldbuilder)
 - Image de Yor : RECUE, integree en IA/J0RMUN94ND.md S5.
@@ -19,6 +99,40 @@
 - SPEC courante : `SPEC_BIBLE_LORE_WIKI_v8_5.md`. SPEC_CODEX : `v8_4.md`. Verifies par listing reel de Config/.
 - Rev. v8.5 : la fiche d'arc porte le DEROULE de l'etape ; troncature deplacee de l'OUVERTURE a la SORTIE de l'etape. Les Instructions Wiki ont ete reecrites en consequence (MODE OUTIL - FICHES D'ARC).
 - Listing de dossier : `github.com/.../tree/...` peut renvoyer 403 selon l'environnement. Methode de listing remplacee par un clone sans blobs. Cf. Instructions Wiki S8.
+
+## Decisions actees - lot Power_Scaling (2026-09-20)
+
+### Architecture
+- Deux pages. Scaling_Numerique : entites sur trois axes (planification, etalon Blue Eyes ; taille, etalon Alt ; puissance brute, etalon Cynosure) et netrunners par paliers de reputation, avec talent et specialite. Scaling_Physique : combat hors hack, Smasher et V (fin 2077) au sommet, plus l'axe emprise physique des entites. Les runners figurent sur les deux : talent en numerique, corps en physique.
+- Etat au point de depart ; section Deltas dates vide, alimentee a chaud.
+- Sommaire : DEROGATION, plafond porte a 20 000 caracteres. Pas de resserrage.
+
+### Echelle numerique
+- Croisements : Alt, planification haute sous Blue Eyes, puissance brute haute sous Cynosure. Blue Eyes, taille sous Alt, puissance brute sous Cynosure. Cynosure, planification basse, taille non mesuree. Lilith basse, petite, petite.
+- Blackwall : au-dessus de Yor au point de depart, en taille et en puissance brute ; les autres repas la rendent capable du dessert.
+- Bartmoss : hors echelle, puissance dormante non mesuree.
+- Yor et Alt : a leur rencontre (avant 2075), Yor nettement depassee, a fui a temps. Puis absorptions dans le vieux Net, puis via Silas. Hierarchie renversee : Alt a peine sous Yor au point de depart. REMPLACE "egale Alt en taille".
+- Soulkiller NetWatch : version NetWatch du tueur d'ame, copie PARTIELLE d'un engramme avant de griller un humain (un peu de data). Heritee du projet AI_Devourer, perdue par NetWatch avec lui ; Yor seule la possede. Nom [INCERTAIN].
+- Paliers netrunners : Legendes, Blackwall-armes, Elite, Pro, Rue. Slider Elite, Mosley Pro haut, Dorsett Pro, runners corpo Pro a Elite.
+- Silas. Connecte : Blackwall-arme. Deconnecte : reputation Elite sous Brigitte et Slider ; il se fait passer pour moins doue que ses mentors, qui se doutent qu'il ment, pas a quel point. Niveau reel : numero 1 de l'Elite. Talent pur : niveau Alt et Bartmoss, specialite percage d'ICE (Bartmoss : conception de daemons).
+
+### Echelle physique
+- Paliers : Sommet (Smasher ; V fin 2077) ; reference 2076 (David Martinez) ; Elite (Takemura, Reed, Hansen, MaxTac, Cerberus, Placide, Silas ; Silas pilote par Yor en haut) ; Pro (V au point de depart en haut, Jackie, Alex, vrais cyberpsychos en haut) ; Rue. T-Bug : douee sur le Net seulement.
+- Yor pilotant Silas : ignore les limites du corps (dechirures, lesions), le fait bouger comme un predateur, un animal sauvage.
+- V : Sandevistan des le depart, pas de deck ; meilleure utilisatrice de Sandevistan des Valentinos avant le Konpeki ; build a la David Martinez, moins accro a la chrome. Hors echelle numerique.
+- Emprise physique : Blue Eyes > Yor > Lilith = Cynosure > Alt.
+
+### Ordre des arcs (correction worldbuilder)
+- L'ordre des cibles et des arcs inscrit au rappel de cadrage n'avait jamais ete donne par le worldbuilder. RETIRE de 9 pages et du Sommaire ; reste a retirer de la BIBLE et de Resume au B3.
+- Fixe : R0 = un contrat de Mr. Hands (intro). R1 = premier beat, T-Bug contacte Silas directement, sans fixer, pour l'avoir en assurance ; puis le Konpeki, que Silas travaille depuis son appartement de Coastview. Puis ellipse de convalescence de V, pendant laquelle Silas traque Lilith.
+- La suite : garde-cap pre-roadmap du worldbuilder (grandes lignes, Tchekhov, pre-decoupage en roadmaps). Seul point fixe au-dela : le Blackwall en dernier.
+- Lecon de methode : une ligne de cadrage n'entre ici qu'avec sa source (date et parole du worldbuilder). Un ordre, un calendrier ou une orientation d'arc sans source n'est pas acte.
+
+### Point de depart (2026-09-20)
+- Point de depart du RP = OUVERTURE DE R0 (et non plus la veille du Konpeki).
+- R0 = arc d'introduction : un contrat de Mr. Hands. Il pose le decor de Silas : Voodoo Boy en solo, genie du hack, symbiose avec Yor, neutre dans les conflits internes aux VDB, proche de Brigitte, Placide et Slider.
+- Appel de T-Bug (plan B, sans fixer) : PREMIER BEAT DE R1. Choix laisse au MJ par le worldbuilder ("peu importe") ; option propre retenue : l'appel sort des fiches noyau.
+- Date de R0 : [INCERTAIN], anterieure au braquage (fin avril-debut mai 2077). Si elle precede le 30/01/2077, Silas a 21 ans au point de depart (2076 - 2055) ; sinon 22 (2077 - 2055). Question posee au worldbuilder. [A VALIDER]
 
 ## Decisions actees - lot Personnages (2026-09-19)
 
@@ -78,12 +192,13 @@
 - Johnny Silverhand et Gary le Prophete : pas de fiche prevue. Renvois morts repointes vers leur domicile actuel (Alt_Cunningham S2 -> Sites_Arasaka S3 ; Lilith S3 -> Night_Corp S3). Lot complementaire possible si le worldbuilder le veut.
 
 ## Conflits ouverts - attente worldbuilder
-- Aucun.
+- SOLDE (2026-09-20) : point de depart. Tranche : ouverture de R0 ; appel de T-Bug en premier beat de R1. Propagations : HANDOFF B3 S1.
+- Date de R0, donc age de Silas au point de depart (21 ou 22 ans). [A VALIDER]
 
 ## Propagations a executer apres C-S1 a C-S4 (actees sur le fond, formulation dependante)
 - FAIT : Voodoo_Boys (W4-W5), Chrono_Univers (W2-W3), Chrono_2077 W3, Night_City_2077 W3, Peralez W2, Pacifica_et_Dogtown W2 (S8), Barghest W2 (S5).
-- RESTE, au B3 : Resume S2 (gamin sans nom, entree par LaGuerre, Dogtown a 15 ans, nom choisi par Silas, handle Zer0_Null) et S4 (Rhyne assassine) ; BIBLE SB0 et SB5 (handle Zer0_Null -> Zer0), SB3 (2055 "Pacifica" ; schisme "annees 2070 [INCERTAIN]" -> 2070), SB5 Silas (ex-VDB, non haitien, gamin sans nom de Dogtown), SB5 Rhyne et Holt, SB5 LaGuerre ("a reverifier"), SB4 Barghest ("loi d'enfance de Silas").
-- RESTE, au prochain passage : Lieux/Sites_Arasaka.md S2. Canon verifie : Dex contacte V et Jackie vers la derniere semaine d'avril 2077 ; braquage fin avril ou debut mai 2077 ; Silas a 22 ans.
+- RESTE, au B3 : repris integralement dans HANDOFF B3 (S2, S3).
+- FAIT : Lieux/Sites_Arasaka.md S2 (W2) : braquage fin avril ou debut mai 2077 ; renvoi vers _Implications retire (document non fetchable en narration).
 
 ## Canon verifie (2026-09-19)
 - Wilky LaGuerre, alias Slider (fandom) : ex-bras droit de Brigitte. Rupture sur l'ideal : elle veut percer le mur, lui prefere casses corpo et assassinats par le Net et juge le mur trop dangereux. Un casse attire la FIA, qui l'aveugle definitivement puis en fait un indic par chantage. Fuit Pacifica pour Dogtown, y rejoint des VDB deja installes, prend la tete d'un trafic de logiciels illegaux ; la FIA l'y rattrape. Yeux blancs. Planque : Eventide Resort & Spa, Dogtown. Vivant pendant The Damned (V et Reed passent par lui pour joindre Songbird) ; mort en 2077 dans sa planque, evoquee dans I've Seen That Face Before. Tueur [INCERTAIN]. Rapport medical : 39 ans, date du rapport inconnue.
@@ -91,6 +206,7 @@
 - Project Oracle : reference de la puce de Gary decryptee, selon PC Gamer. Integre en Night_Corp W3.
 
 ## Matiere roadmap (post-T0, hors fiches noyau)
+- R1, premier beat (2026-09-20) : T-Bug contacte Silas directement, sans fixer, pour l'avoir en assurance sur le Konpeki. Il y est en freelance, pas en tant que VDB. Motif, cote T-Bug : elle le sait meilleur qu'elle.
 - Mosley : sa prochaine rencontre avec Yor sera sa fin (decision worldbuilder 2026-09-19).
 - Detonation de C-S10 : quand V appelle Mr. Hands, Hands lui donne le contact de Silas (decision worldbuilder 2026-09-19).
 - Mr. Hands : jamais rencontre en personne avant R1 (formulation du worldbuilder, qui laisse une rencontre possible a partir de R1).
@@ -114,9 +230,9 @@
 ## Dettes de build a solder
 - SOLDEE : notice Blue Eyes de Net_et_Blackwall S6, compressee en renvoi (W5, 7 668 car., sous le plafond). Renvois repointes en Entites_du_Blackwall S6, J0RMUN94ND S7, Night_Corp S4, Chrome_et_Cyberpsychose S2bis.
 - Renvois en avant vers Personnages/ : TOUS SOLDES.
-- Sommaire a 7 762 caracteres (plafond page 8 000) : le lot Power_Scaling le fera deborder. A traiter en ouverture du prochain lot : resserrer les descriptions, scinder, ou deroger (decision worldbuilder).
-- Renvois en avant vers Power_Scaling/ : lot suivant.
-- BIBLE B3, decroissance attendue : SB5 plafonne a 3-4 lignes + renvoi pour chaque entite a fiche (les 14 du lot Personnages) ; SB2 enrichi du lexique creole (dont vale l, tchwip) ; SB0 compte de pages ; SB8 ferme "Origine de J0RMUN94ND" et "Nature exacte de Lilith".
+- SOLDEE : Sommaire, derogation a 20 000 caracteres (2026-09-20).
+- SOLDEE : renvois vers Power_Scaling/, repointes vers les pages livrees (J0RMUN94ND S4, Alt S3, Lilith S4, Entites S3, Silas S7, Netrunning S6).
+- BIBLE B3 et Resume : dette consolidee dans HANDOFF B3.
 
 ## Extraction transcript video lore (recu 2026-09-18, audio->texte avec erreurs)
 
@@ -160,7 +276,7 @@ Normalisation des noms : Rasaka = Arasaka ; Kengtao = Kang Tao ; Dexter Di Shur 
 - Metaphore du serpent : CONSTRICTION du monde = contention des IA. Pas la devoration (confusion initiale avec le God Devouring Serpent d'Elden Ring, corrigee par le worldbuilder). Elle garde la fonction de contention et change le beneficiaire.
 - Avatar : image fournie. Fillette, age apparent 6 ans [INTERPRETATION]. Description en IA/J0RMUN94ND.md S5.
 - Cout de la symbiose : l'humanite de Silas. Yor peut prendre le controle du corps. Yor est tres attachee a Silas.
-- Alt Cunningham a croise Yor avant 2075 et a failli l'absorber. Rien d'autre d'etabli.
+- Alt Cunningham a croise Yor avant 2075 et a failli l'absorber. Precise le 2026-09-20 : Yor nettement depassee, a fui a temps ; hierarchie renversee depuis.
 - Lilith : le dixieme cercle = extension de Dante, le cercle des demons numeriques, superstition de Maelstromers dont Lilith profite ; esthetique satanique adoptee ; alias "Queen Lilith" (canon). Elle sait que les IA cherchent a se posseder entre elles pour gagner en puissance de calcul et en data ; elle ignore Yor.
 - Reunion Maelstrom / corpos de The Prophet's Song : les corpos sont Arasaka, balise [DIVERGENCE RP] (le canon consulte ne nomme pas les parties et situe la scene a Kabuki).
 - Economie de l'appetit : IA mangee = puissance de calcul + experience (data). Engramme mange = data brute, moins interessante ; Yor le recupere plutot que le gacher quand elle grille un humain. CN-07 est une proie. ICE et daemons = menu fretin. IA de service = amuse-bouches. Yor veut tout.
@@ -170,12 +286,13 @@ Normalisation des noms : Rasaka = Arasaka ; Kengtao = Kang Tao ; Dexter Di Shur 
 ## Decisions actees (rappel de cadrage)
 - Prota : Silas "Zer0" Null (handle change le 2026-09-19, ex-"Zer0_Null"), masculin, ne le 30/01/2055, fiche NEUTRE.
 - IA : J0RMUN94ND (Yor), agglomerat sous paradigme unique, fiche NEUTRE. Noyau hors Net dans le systeme nerveux de Silas.
-- Scaling Yor : ecrase Lilith ; egale Blue Eyes en planification, Alt en taille, les entites de Cynosure/Songbird en puissance brute.
+- Scaling Yor (corrige 2026-09-20) : ecrase Lilith ; egale Blue Eyes en planification et les entites de Cynosure en puissance brute ; devance Alt d'une courte tete ; sous le Blackwall en taille et puissance brute.
 - Convergence des buts : Yor gardienne unique des IA, Silas seul proxy ; Silas martyr consentant.
-- Ordre des arcs : R0 intro -> R1 Konpeki (T0) -> Lilith -> Alt et VDB -> Songbird -> Blue Eyes -> le Blackwall en dessert.
+- Ordre des arcs : RETIRE le 2026-09-20, jamais donne par le worldbuilder. Fixe : R0 -> R1 Konpeki -> ellipse (Silas traque Lilith) ; puis garde-cap ; le Blackwall en dernier. cf. Decisions actees - lot Power_Scaling.
 - Blue Eyes absorbe les IA lui aussi : concurrent direct de Yor sur le meme gibier.
 - Bartmoss : hors liste de cibles a ce jour ; a trancher en roadmap.
 - Trahison de T-Bug par Silas au Konpeki : matiere de roadmap (Passe 2).
+- Point de depart : ouverture de R0 (2026-09-20).
 - NetWatch : obstacle, pas cible. Le mur = garde-manger ferme, ultime repas de Yor.
 - Sources validees : wiki Cyberpunk fandom, Edgerunners, lore Cyberpunk 2020/RED.
 - Limites : aucune, sauf sexualite (hors objectifs de Silas et de Yor).
@@ -184,7 +301,7 @@ Normalisation des noms : Rasaka = Arasaka ; Kengtao = Kang Tao ; Dexter Di Shur 
 - Creole haitien, tous threads (build et jeu) : regle ecrite en BIBLE SB0 (B2), a reporter dans le CODEX V1, ANNEXE_STYLE, au CODEX BUILD. Pas dans les Instructions RP (decision worldbuilder).
 
 ## A reverifier
-- Mois du braquage du Konpeki Plaza : mois exact toujours muet. MAIS coherence d'age CONFIRMEE : The Rescue (Sandra Dorsett) se situe vers avril 2077 (fandom) et precede le braquage ; le Konpeki est donc posterieur au 30/01/2077, Silas a 22 ans. A reporter en Lieux/Sites_Arasaka.md S2 au prochain passage.
+- SOLDE (2026-09-20) : braquage fin avril ou debut mai 2077, reporte en Lieux/Sites_Arasaka.md S2 (W2). Jour [INCERTAIN].
 - Sous-district exact du Konpeki Plaza dans Watson.
 - Nom du traite de fin de guerre d'Unification.
 - Developpe exact de R.A.B.I.D.S.

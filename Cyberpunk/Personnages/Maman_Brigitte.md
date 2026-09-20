@@ -1,6 +1,6 @@
 # Maman Brigitte
 
-- version : W2
+- version : W3
 
 ## 1. Identite
 
@@ -35,6 +35,7 @@
 - Lui a offert un appartement a Coastview. Il fait encore des boulots pour elle, tant qu'ils ne visent pas Slider.
 - Tension structurelle : elle cherche ce que Silas cache, sans savoir quoi. Il a fait en 2075 ce qu'elle reve de faire, percer le mur, et le lui cache. Alt, son contact, est une cible de J0RMUN94ND.
 - Netrunneuse d'elite, elle a pu voir la signature violette de Silas ; elle n'en tient qu'un mythe.
+- Silas se fait passer pour moins doue qu'elle et que Slider ; elle se doute qu'il ment, pas a quel point.
 - Texture de la relation : cf. Personnages/Silas_Null_relations_1.md.
 
 ## 6. Trajectoire datee

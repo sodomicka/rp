@@ -1,6 +1,6 @@
 # Wilky LaGuerre
 
-- version : W1
+- version : W2
 
 ## 1. Identite
 
@@ -40,6 +40,7 @@
 - Au schisme, Silas le suit, par affinite d'idees. Le QG de Slider est une des deux maisons de Silas, celle ou il passe le plus clair de son temps.
 - Ce que Silas ignore : que la FIA l'a aveugle, et qu'il est indic. Silas deteste les indics.
 - Ce que Slider ignore : la percee de 2075, et J0RMUN94ND. Netrunner avance, il a pu voir la signature violette ; un mythe pour lui.
+- Ce qu'il soupconne : Silas se fait passer pour moins doue que ses mentors ; Slider se doute qu'il ment, pas a quel point.
 - Texture de la relation : cf. Personnages/Silas_Null_relations_1.md.
 
 ## 6. Liens

@@ -1,6 +1,6 @@
 # Entites du Blackwall
 
-- version : W3
+- version : W4
 
 Page des entites d'au-dela SANS fiche propre : les classes, les anonymes, les non identifiees. Les entites nommees ont leur fiche ; cette page ne porte que leur renvoi (S6).
 
@@ -30,7 +30,7 @@ Note : la DataKrash de 2022 n'a pas cree une sixieme classe. Elle a libere et fa
 - NOMBRE ET NATURE : non etablis [INCERTAIN]. Une entite unique ou plusieurs, la source ne tranche pas. Aucun nom.
 - Comportement etabli : elles la devorent. La contamination est avancee au point de depart. cf. Personnages/Songbird.md.
 - [DIVERGENCE RP] Songbird a Cynosure releve du meme phenomene que Zaria Hughes : une IA en corps de chair. cf. Monde/Chrome_et_Cyberpsychose.md S2bis.
-- Echelle : reference de PUISSANCE BRUTE du systeme. J0RMUN94ND les egale sur cet axe. cf. Power_Scaling/ (Passe 1, a livrer).
+- Echelle : reference de PUISSANCE BRUTE du systeme. J0RMUN94ND les egale sur cet axe. cf. Power_Scaling/Scaling_Numerique.md.
 - Convoitees par Blue Eyes, qui ne peut pas les asservir et veut donc les absorber. Piege de la Lune. cf. Factions/FIA_NUSA.md S5.
 - Cerberus : robot de garde de Cynosure, pilote par une IA rogue [IMPLICITE]. Lien avec les entites canalisees non etabli. cf. Lieux/Pacifica_et_Dogtown.md S7.
 
