@@ -1,17 +1,19 @@
 # Lilith
 
-- version : W3
+- version : W5
 
 ## 1. Identite
 
 - Lilith. IA rogue venue d'au-dela du Blackwall.
 - Alias : "Queen Lilith". Titre que lui donnent ses invocateurs, pas une fonction.
 - Genre de la manifestation : feminin.
-- Affiliation : Maelstrom, par le culte qui l'a fait venir. Aucune allegeance reelle a un humain.
-- Statut au point de depart : active, dans le corps de Zaria Hughes.
+- Affiliation : Maelstrom, par le culte qui la fait venir (apres le point de depart, cf. S2). Aucune allegeance reelle a un humain.
+- Statut au point de depart : encore au-dela du Blackwall, pas invoquee. Aucun corps de ce cote du mur.
+- [DIVERGENCE RP] Rituel, prise de corps de Zaria Hughes et signalement de Regina Jones : tous posterieurs au point de depart, pendant l'ellipse de convalescence de V, entre le braquage du Konpeki et le debut de l'acte 2 (decision worldbuilder, 2026-09-20). cf. Chronologie/Chrono_2077.md S2.
 
 ## 2. Invocation et prise de corps
 
+- Datation : pendant l'ellipse de convalescence de V (2077), apres le point de depart. cf. S1.
 - Des membres de Maelstrom conduisent un rituel et font venir une entite d'au-dela du mur.
 - Lilith prend le corps de l'une d'eux, Zaria Hughes. Zaria sombre dans la cyberpsychose.
 - Conforme a la regle du monde : le contact est une prise de corps, l'entite entre par la chrome et remplace la chair qui cede. cf. Monde/Net_et_Blackwall.md S4.
@@ -45,8 +47,8 @@
 ## 6. Position dans le focus
 
 - Cible de J0RMUN94ND.
-- Terrain : Watson, Northside, territoire Maelstrom. Le lieu exact du signalement de Zaria Hughes n'est pas releve ici [INCERTAIN]. cf. Lieux/Watson.md, Factions/Maelstrom.md.
-- Ligne canon : le signalement de cyberpsycho reste ouvert au point de depart. cf. Chronologie/Chrono_2077.md.
+- Terrain : Watson, Northside, territoire Maelstrom. Le signalement de Zaria Hughes est a Northside (wiki fandom, table des Cyberpsycho Sightings) ; lieu exact [INCERTAIN]. cf. Lieux/Watson.md, Factions/Maelstrom.md.
+- Signalement de cyberpsycho (Regina Jones, "Bloody Ritual") : ouvert pendant l'ellipse de convalescence de V, pas avant (decision worldbuilder, 2026-09-20). cf. Chronologie/Chrono_2077.md S2.
 - Interet de fond : c'est la seule entite d'au-dela dont l'arrivee de ce cote du mur soit documentee, datee et attribuee a des humains identifies. Ce que le culte Maelstrom a ouvert, il peut le rouvrir.
 
 ## 7. Trajectoire datee

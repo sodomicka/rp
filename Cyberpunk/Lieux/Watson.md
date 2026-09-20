@@ -1,6 +1,6 @@
 # Watson
 
-- version : W1
+- version : W5
 
 ## 1. Le district
 - District nord de Night City, en declin depuis le retour d'Arasaka. Sous-districts : Kabuki, Little China, Northside Industrial District (NID), Arasaka Waterfront.
@@ -8,7 +8,7 @@
 - Fixer de reference : Regina Jones (Cyberpsycho Sightings, contrats a Northside).
 - Konpeki Plaza est a Watson. cf. Sites_Arasaka.md S1.
 - Histoire courte : ancien pole corpo et de loisirs, vide de ses corpos quand Arasaka a repris pied a Night City ; les megabuildings et les marches ont pris la place, les gangs ont suivi.
-- Canon 2077 : apres le braquage du Konpeki, Watson est boucle par la NCPD et Arasaka pendant des semaines ; V y est confine au debut de l'acte 2 [INCERTAIN sur la duree].
+- Canon 2077 : la NCPD boucle Watson a la fin de The Rescue (vers avril 2077, pendant R0). Le bouclage tient R0 et R1, braquage du Konpeki compris, et il est leve juste apres : l'ellipse de convalescence de V se joue hors bouclage (decision worldbuilder, 2026-09-20 ; le canon dit seulement qu'il est leve quand V se releve, wiki fandom, The Gig). Motif [INCERTAIN]. cf. Chronologie/Chrono_2077.md S1bis.
 - Renvois utiles au RP : Regina Jones pour tout contrat a Northside ; Lizzie's Bar pour croiser des netrunners hors VDB ; l'Afterlife pour le marche des mercs.
 
 ## 2. Northside Industrial District
@@ -19,7 +19,7 @@
 
 ## 3. Trajectoire canon 2077
 - The Pickup (acte 1, avant le Konpeki) : V et Jackie a All Foods pour le Flathead ; issue variable (Royce, Brick). Etat par defaut du RP : cf. Factions/Maelstrom.md S3.
-- Cyberpsycho Sighting "Bloody Ritual" : rituel Maelstrom d'invocation de Lilith, Zaria Hughes. Lieu exact [INCERTAIN, Northside presume].
+- Cyberpsycho Sighting "Bloody Ritual" : rituel Maelstrom d'invocation de Lilith, Zaria Hughes. Sous-district : Northside (wiki fandom, table des Cyberpsycho Sightings) ; lieu exact [INCERTAIN]. [DIVERGENCE RP] Datation : pendant l'ellipse de convalescence de V, posterieur au point de depart. cf. IA/Lilith.md S1-S2.
 
 ## 4. [DIVERGENCE RP]
 - Contrat de Silas a Watson/Northside : point d'entree de l'arc Lilith. Detail en roadmap.

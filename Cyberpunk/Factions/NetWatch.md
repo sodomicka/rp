@@ -1,6 +1,6 @@
 # NetWatch
 
-- version : W4
+- version : W6
 
 ## 1. Nature
 - Organisation mondiale de police du Net, siege a Londres. Origine : societe privee de securite Net ; charte ONU en 2013 obtenue par lobbying europeen (traite US/Eurotheatre).
@@ -16,11 +16,11 @@
 
 ## 3. Methodes
 - Tracage, ICE noir, daemons de trace, informateurs. Flatline sans proces des netrunners pris au-dela du mur.
-- Intermediaires jetables : en canon, l'agent Bryce Mosley infecte V d'un malware pour griller les netrunners VDB pendant leur plongee ("I Walk the Line" / "Transmission").
+- Intermediaires jetables : en canon, l'agent Bryce Mosley infecte V d'un malware pour griller les netrunners VDB pendant leur plongee ("I Walk the Line" / "Transmission"). [DIVERGENCE RP] Dans le RP, cela n'arrive pas : Silas se charge de Mosley, qui meurt au Grand Imperial Mall avec sa cellule ; pas de malware (garde-cap du worldbuilder, 2026-09-20).
 - Purge originelle : deploiement du mur sans preavis, netrunners coinces morts. cf. Monde/Net_et_Blackwall.md S3.
 
 ## 4. Etat en 2077
-- Presence a Night City par agents de terrain (Bryce Mosley a Pacifica). cf. Personnages/Bryce_Mosley.md.
+- Presence a Night City par agents de terrain. Bryce Mosley a Pacifica : installe pendant l'ellipse de convalescence de V, absent de Pacifica au point de depart (decision worldbuilder, 2026-09-20). cf. Personnages/Bryce_Mosley.md S1-S2.
 - Chasse les IA rogues ; rumeur persistante que des IA ont aide a batir le mur, ni dementie ni confirmee. cf. IA/Entites_du_Blackwall.md S2.
 - Angle mort [DIVERGENCE RP] : depuis 2075, fragments de J0RMUN94ND captures a quelques reprises, classes comme clones d'une IA isolee. Aucun pattern identifie. La trace violette que ces fragments laissent, seuls les netrunners avances la percoivent : vague, plus mythe que signature exploitable. NetWatch ignore Silas Null. Yor absorbe plus vite que NetWatch ne traque.
 - Cause structurelle de l'angle mort : l'entite a change de strategie ET de signature depuis sa rebellion, et le programme qui l'a produite n'existe plus. Il n'y a rien a quoi comparer les captures. NetWatch traque sa propre creation sans disposer du dossier.

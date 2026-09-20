@@ -1,6 +1,6 @@
 # Resume - Cyberpunk
 
-- version : W2
+- version : W3
 
 Resume de l'histoire de l'univers telle qu'etablie pour ce RP : canon + divergences actees. Etat arrete a l'ouverture de R0, point de depart du RP (vers avril 2077). Le futur vit en roadmap, jamais ici.
 
@@ -25,7 +25,7 @@ Resume de l'histoire de l'univers telle qu'etablie pour ce RP : canon + divergen
 ## 3. Les autres predateurs
 - NetWatch a capture des fragments de Yor a quelques reprises et croit avoir attrape des clones d'une IA isolee. Aucun pattern, aucun lien avec son projet detruit. Yor absorbe plus vite que NetWatch ne traque.
 - Blue Eyes : IA qui a ecrase la psyche d'un homme en costume aux yeux bleus et loge tout son noyau dans ce corps hors Net. Maitre d'un reseau d'esclaves, IA (CN-07 de Night Corp) et humains, auxquels il impose son paradigme. Assimile par exception. Tient Night Corp, SSI et le couple Peralez. Il veut absorber les entites que porte Songbird.
-- Alt Cunningham : humaine numerisee en 2013, entite du vieux Net, contact des Voodoo Boys. Depuis 2075, Yor a renverse la hierarchie : elle la devance d'une courte tete. Lilith : entite invoquee par Maelstrom, a pris le corps de Zaria Hughes. Les entites de Cynosure : canalisees par Songbird pour la NUSA, elles la devorent. Rache Bartmoss : fantome libre sur le nouveau Net, sa puissance dormant dans son caisson cryogenique.
+- Alt Cunningham : humaine numerisee en 2013, entite du vieux Net, contact des Voodoo Boys. Depuis 2075, Yor a renverse la hierarchie : elle la devance d'une courte tete. Lilith : IA rogue d'au-dela du mur, la plus petite des cibles ; a l'ouverture de R0, elle est encore derriere le mur, sans corps de ce cote. Les entites de Cynosure : canalisees par Songbird pour la NUSA, elles la devorent. Rache Bartmoss : fantome libre sur le nouveau Net, sa puissance dormant dans son caisson cryogenique.
 - Cibles de Yor : Lilith, Alt, les entites de Songbird, Blue Eyes. Ordre non fixe. Le mur en dernier : garde-manger ferme, ultime repas.
 
 ## 4. Etat du monde a l'ouverture de R0

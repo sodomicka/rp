@@ -1,6 +1,6 @@
 # Sommaire - Cyberpunk
 
-- version : W9
+- version : W15
 
 ## WIKI
 
@@ -11,40 +11,40 @@
 > - AU BIBLE BUILD : toute page relivree incremente son `W<N>` et son entree au Sommaire est mise a jour DANS LE MEME BUILD. C'est ici que se solde un `[VERSION DECALEE]` remonte en jeu. Cf. Instructions Wiki, MODE OUTIL - BIBLE + WIKI.
 
 ### Racine
-- Resume.md (W2) - resume de l'histoire etablie, canon + divergences, arrete a l'ouverture de R0
+- Resume.md (W3) - resume de l'histoire etablie, canon + divergences, arrete a l'ouverture de R0
 
 ### Monde/
 Description : regles du monde, Net, Blackwall, netrunning, chrome, cadre de Night City.
-- Net_et_Blackwall.md (W5) - Net d'avant, DataKrash, Blackwall (IA-ICE), second outil IA de NetWatch, contact = prise de corps, J0RMUN94ND, Blue Eyes, Bartmoss, entites d'au-dela
+- Net_et_Blackwall.md (W6) - Net d'avant, DataKrash, Blackwall (IA-ICE), second outil IA de NetWatch, contact = prise de corps, J0RMUN94ND, Blue Eyes, Bartmoss, entites d'au-dela
 - Netrunning_2077.md (W2) - decks, quickhacks, Blackwall Gateway, reseaux locaux, ICE, flatline, plongees profondes, echelle indicative
-- Chrome_et_Cyberpsychose.md (W4) - cyberware, cyberpsychose canon, vrais cyberpsychos = IA en corps de chair, Yor tampon de Silas
+- Chrome_et_Cyberpsychose.md (W5) - cyberware, cyberpsychose canon, vrais cyberpsychos = IA en corps de chair, Yor tampon de Silas
 - Night_City_2077.md (W4) - cadre politique, corpos, districts et gangs, fixers, colonne vertebrale canon de V
 
 ### Factions/
 Description : organisations du focus, nature, direction, trajectoire canon 2077, divergences RP.
-- NetWatch.md (W4) - police du Net, Blackwall, doctrine de l'outil IA, projet devoreur detruit, angle mort sur les fragments de Yor
-- Voodoo_Boys.md (W5) - origine haitienne 2062, Coastview, Brigitte, Placide, schisme LaGuerre dit Slider (mentor de Silas, indic FIA), Silas VDB haitien en solo, ligne canon de V
-- Maelstrom.md (W3) - Northside, chrome, Royce mort, Brick chef, Totentanz, All Foods, Lilith et le rituel
+- NetWatch.md (W6) - police du Net, Blackwall, doctrine de l'outil IA, projet devoreur detruit, angle mort sur les fragments de Yor
+- Voodoo_Boys.md (W6) - origine haitienne 2062, Coastview, Brigitte, Placide, schisme LaGuerre dit Slider (mentor de Silas, indic FIA), Silas VDB haitien en solo, ligne canon de V
+- Maelstrom.md (W4) - Northside, chrome, Royce mort, Brick chef, Totentanz, All Foods, Lilith et le rituel (date a l'ellipse)
 - Barghest.md (W2) - milice de Hansen, Dogtown, Phantom Liberty, Silas a Dogtown depuis ses 15 ans
 - FIA_NUSA.md (W2) - Myers, Reed, Alex, Songbird augmentee de force, Cynosure, piege de la Lune
 - Night_Corp.md (W4) - heritage de Richard Night, CN-07 esclave de Blue Eyes, Dorsett, Peralez, Gary
 
 ### Lieux/
 Description : lieux du focus, par district, avec leur trajectoire canon.
-- Pacifica_et_Dogtown.md (W2) - Pacifica, Coastview, Batty's Hotel, Dogtown, Black Sapphire, Cynosure
-- Watson.md (W1) - district, Northside, All Foods, Totentanz, Kabuki, Little China, contrats Regina Jones
+- Pacifica_et_Dogtown.md (W3) - Pacifica, Coastview, Batty's Hotel, Grand Imperial Mall (vide au point de depart), Dogtown, Black Sapphire, Cynosure
+- Watson.md (W5) - district, bouclage NCPD (R0 et R1, leve apres le braquage), Northside, All Foods, Totentanz, Kabuki, Little China, contrats Regina Jones
 - Sites_Arasaka.md (W3) - Konpeki Plaza et le braquage (T0, fin avril-debut mai 2077), Mikoshi et Soulkiller
 
 ### Chronologie/
 Description : chronologie condensee de l'univers et colonne vertebrale de 2077.
 - Chrono_Univers.md (W5) - 1990-2076, fondation, DataKrash, Blackwall, Haiti, Unification, Dogtown, Silas, percee 2075
-- Chrono_2077.md (W5) - etat du monde a l'ouverture de R0 (point de depart, en parallele de The Rescue), fin d'acte 1, R1 Konpeki, ellipse (mort de Rhyne, Lilith), acte 2 de V, Phantom Liberty, fins
+- Chrono_2077.md (W10) - etat du monde a l'ouverture de R0 (point de depart, en parallele de The Rescue), fin d'acte 1, R1 Konpeki, ellipse de 3 semaines (mort de Rhyne, venue et traque de Lilith, arrivee de Mosley et des Animals au Mall), acte 2 de V, Phantom Liberty, fins
 
 ### IA/
 Description : entites numeriques du focus. Fiches noyau, Passe 1.
 - J0RMUN94ND.md (W4) - origine NetWatch (AI_Devourer_V0.94), rebellion, nom et graphie, paradigme, noyau et fragments, signature violette, Soulkiller NetWatch, avatar, symbiose avec Silas, cibles, chasse aux cyberpsychos
 - Alt_Cunningham.md (W3) - Soulkiller, 2013, entite du vieux Net, contact des Voodoo Boys, etalon de taille, Yor en fuite puis hierarchie renversee
-- Lilith.md (W3) - Queen Lilith, invocation Maelstrom, Zaria Hughes, dixieme cercle, esthetique satanique, cible de Yor
+- Lilith.md (W5) - Queen Lilith, derriere le mur au point de depart, invocation Maelstrom et Zaria Hughes pendant l'ellipse, dixieme cercle, esthetique satanique, cible de Yor
 - Entites_du_Blackwall.md (W4) - taxonomie canon des IA, Transcendentaux et Fantomes, entites de Cynosure, Cerberus, population anonyme, index des entites nommees
 - IA_Mineures.md (W2) - economie de l'appetit, Delamain, Skippy, Brendan, CN-07, ICE et daemons, braindances hors perimetre
 
@@ -65,12 +65,12 @@ Description : fiches neutres, canon et OC promus au lore. Passe 1, lot livre (14
 - Mr_Blue_Eyes.md (W2) - IA en corps proxy, reseau d'esclaves, agents aux yeux bleus, instruments, concurrent de Yor
 - Peralez.md (W3) - le couple, bourse Night Corp, election, Rhyne (maire en exercice, mort pendant l'ellipse), SSI, cobayes de Blue Eyes
 - Sandra_Dorsett.md (W2) - netrunneuse Night Corp, Operation Carpe Noctem (CN-07), The Rescue (au point de depart), databank perdu
-- Bryce_Mosley.md (W1) - agent NetWatch a Pacifica, mission anti-VDB, fragment de Yor capture
+- Bryce_Mosley.md (W2) - agent NetWatch, installe a Pacifica pendant l'ellipse, mission anti-VDB, fragment de Yor capture vers aout-octobre 2076
 
 ### Power_Scaling/
 Description : echelles de puissance, etat au point de depart, deltas dates alimentes a chaud. Passe 1, lot livre.
 - Scaling_Numerique.md (W1) - entites sur trois axes (planification, taille, puissance brute) et etalons, Blackwall au sommet, netrunners par paliers, talent et specialite
-- Scaling_Physique.md (W1) - combat hors hack par paliers, Smasher et V (fin 2077) au sommet, Silas et Yor pilote, emprise physique des entites
+- Scaling_Physique.md (W2) - combat hors hack par paliers, Smasher et V (fin 2077) au sommet, Silas et Yor pilote, emprise physique des entites
 
 ### Fiches_Arc/Silas/
 Description : fiches de narration par arc (trame + bible de l'etape : Deroule au grain de la scene + mini-bible autosuffisante, tronquees a la sortie de l'etape), par PERSPECTIVE de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs `arc precedent` / `arc suivant` de chaque fiche), pas par un index des roadmaps.
@@ -79,6 +79,8 @@ Description : fiches de narration par arc (trame + bible de l'etape : Deroule au
 > MEMOIRES NON INDEXEES (v8.3). `Parties/<Partie>/Memoires/` n'est pas liste ici non plus, pour la meme raison que les roadmaps : indexer un dossier le fait paraitre fetchable en narration. Les Memoires sont des archives narratives cumulatives, interdites en jeu (sauf ordre OOC explicite) et consultees au BUILD seulement, par listing direct du dossier. Cf. SPEC_CODEX 4ter, livrable 3.
 
 > ROADMAPS NON INDEXEES EN JEU (v8.2). Le dossier `Roadmap/<Prota>/` n'est PLUS liste au Sommaire. Les roadmaps restent physiquement au repo - ce sont des SOURCES DE BUILD (matiere premiere des fiches d'arc), lues en mode Wiki en listant directement le dossier `Roadmap/<Prota>/` (cf. ACCES GITHUB), jamais via le Sommaire. En jeu (RP), le MJ ne fetch jamais de roadmap : il navigue d'arc en arc par les fiches, et tient le fil long via le CODEX ANNEXE_CHRONO.
+
+> GARDE-CAP, EXCEPTION DE BUILD (decision worldbuilder, 2026-09-20). `Roadmap/Silas/00_Garde_Cap.md` (W2) : saga de Silas de R0 a R15, ordre des cibles, dispatch des Tchekhov, branches canon fixees, points parques. A lire en OUVERTURE de chaque thread de Passe 2. SOURCE DE BUILD UNIQUEMENT : jamais fetche en narration. Pointeur a RETIRER a la bascule jeu (SETUP).
 
 > JOURNAL D'IMPLICATIONS NON INDEXE. `Cyberpunk/_Implications.md` est un document de travail du build, jamais fetche en narration.
 

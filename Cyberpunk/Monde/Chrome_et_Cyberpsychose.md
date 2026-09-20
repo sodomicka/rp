@@ -1,6 +1,6 @@
 # Chrome et Cyberpsychose
 
-- version : W4
+- version : W5
 
 ## 1. Cyberware (chrome)
 - Posee par des ripperdocs, de la clinique de rue au cabinet corpo. Omnipresente a Night City, du simple bras chrome au corps entier.
@@ -14,7 +14,7 @@
 - Susceptibilite individuelle (Pondsmith) : modele de l'addiction. Capital d'"humanite" (empathie, resilience, liens sociaux) propre a chacun ; pas de seuil universel.
 - Aucun remede fiable en 2077. Prevention : therapie, liens, moderation.
 - Traitement de fait : MaxTac, unite d'elite du NCPD, abat les cyberpsychos. Regina Jones, fixer de Watson, paie pour les neutraliser vivants (Cyberpsycho Sightings).
-- Cas canon : David Martinez (Edgerunners) ; Zaria Hughes, possedee par Lilith (cf. IA/Lilith.md).
+- Cas canon : David Martinez (Edgerunners) ; Zaria Hughes, possedee par Lilith (2077, pendant l'ellipse de convalescence de V, apres le point de depart ; cf. IA/Lilith.md).
 - Precedent d'attenuation : V, chrome a l'extreme sans basculer. Explication de Pondsmith : l'engramme de Johnny Silverhand agit comme un therapeute dans la tete [INTERPRETATION, declaration hors oeuvre rapportee].
 
 ## 2bis. [DIVERGENCE RP] Ce qu'est vraiment la cyberpsychose

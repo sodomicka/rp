@@ -1,6 +1,6 @@
 # Net et Blackwall
 
-- version : W5
+- version : W6
 
 ## 1. Le Net d'avant la DataKrash (jusqu'en 2022)
 - Reseau mondial unifie, acces universel, forteresses de donnees corporatistes protegees par de l'ICE.
@@ -32,7 +32,7 @@
 
 ## 4. Contact = corruption (regle du monde par defaut)
 - Toute exposition prolongee aux IA d'au-dela degrade l'hote : blackouts, degradation physique, l'entite parle a travers lui, mort a terme. Cas canon : Songbird (cf. Personnages/Songbird.md).
-- Possession : Lilith, invoquee par rituel Maelstrom, a pris le controle de Zaria Hughes, devenue cyberpsychotique (cf. IA/Lilith.md).
+- Possession : Lilith, invoquee par rituel Maelstrom, prend le controle de Zaria Hughes, qui devient cyberpsychotique (2077, pendant l'ellipse de convalescence de V, apres le point de depart ; cf. IA/Lilith.md S1-S2).
 - Moteur du phenomene, enonce par Alt : les IA d'au-dela veulent desesperement des plateformes physiques pour agir sur le reel. cf. IA/Alt_Cunningham.md S3.
 - Plongeurs de l'ancien Net : programme Arasaka d'enfants netrunners envoyes fouiller l'Old Net (Edgerunners, passe de Lucy) ; taux de mort et de folie massifs.
 - Corollaire canon : aucun humain ne cohabite durablement avec une IA d'au-dela.
@@ -51,7 +51,7 @@
 
 ## 6. Entites connues d'au-dela (2077)
 - Alt Cunningham : humaine numerisee par Soulkiller (2013), devenue entite du vieux Net, contact des Voodoo Boys. Ni IA rogue pure, ni humaine. cf. IA/Alt_Cunningham.md.
-- Lilith : entite invoquee par Maelstrom ; "a cache le dixieme cercle aux yeux des ancetres". cf. IA/Lilith.md.
+- Lilith : entite invoquee par Maelstrom pendant l'ellipse de convalescence de V (derriere le mur au point de depart) ; "a cache le dixieme cercle aux yeux des ancetres". cf. IA/Lilith.md.
 - Entites de Cynosure / Songbird : canalisees par Songbird pour la NUSA, liees au bunker Cynosure sous Dogtown ; nombre et nature [INCERTAIN]. cf. IA/Entites_du_Blackwall.md S3.
 - Transcendentaux et Fantomes : co-batisseurs presumes du mur, sans nom connu. cf. IA/Entites_du_Blackwall.md S2.
 - Blue Eyes [DIVERGENCE RP] : IA d'au-dela installee dans un corps proxy hors Net, maitre d'un reseau d'esclaves, concurrent de J0RMUN94ND. cf. Personnages/Mr_Blue_Eyes.md.
