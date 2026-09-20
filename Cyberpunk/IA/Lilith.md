@@ -9,7 +9,7 @@
 - Genre de la manifestation : feminin.
 - Affiliation : Maelstrom, par le culte qui la fait venir (apres le point de depart, cf. S2). Aucune allegeance reelle a un humain.
 - Statut au point de depart : encore au-dela du Blackwall, pas invoquee. Aucun corps de ce cote du mur.
-- [DIVERGENCE RP] Rituel, prise de corps de Zaria Hughes et signalement de Regina Jones : tous posterieurs au point de depart, pendant l'ellipse de convalescence de V, entre le braquage du Konpeki et le debut de l'acte 2 (decision worldbuilder, 2026-09-20). cf. Chronologie/Chrono_2077.md S2.
+- [DIVERGENCE RP] Rituel, prise de corps de Zaria Hughes et signalement de Regina Jones : tous posterieurs au point de depart, pendant l'ellipse de convalescence de V, entre le braquage du Konpeki et le debut de l'acte 2 (decision worldbuilder). cf. Chronologie/Chrono_2077.md S2.
 
 ## 2. Invocation et prise de corps
 
@@ -48,7 +48,7 @@
 
 - Cible de J0RMUN94ND.
 - Terrain : Watson, Northside, territoire Maelstrom. Le signalement de Zaria Hughes est a Northside (wiki fandom, table des Cyberpsycho Sightings) ; lieu exact [INCERTAIN]. cf. Lieux/Watson.md, Factions/Maelstrom.md.
-- Signalement de cyberpsycho (Regina Jones, "Bloody Ritual") : ouvert pendant l'ellipse de convalescence de V, pas avant (decision worldbuilder, 2026-09-20). cf. Chronologie/Chrono_2077.md S2.
+- Signalement de cyberpsycho (Regina Jones, "Bloody Ritual") : ouvert pendant l'ellipse de convalescence de V, pas avant (decision worldbuilder). cf. Chronologie/Chrono_2077.md S2.
 - Interet de fond : c'est la seule entite d'au-dela dont l'arrivee de ce cote du mur soit documentee, datee et attribuee a des humains identifies. Ce que le culte Maelstrom a ouvert, il peut le rouvrir.
 
 ## 7. Trajectoire datee

@@ -12,7 +12,7 @@
 - Resultat : marche de biens rares et de chrome illegale, communaute creole soudee, violence de gangs quotidienne.
 
 ## 3. Pacifica - lieux et factions
-- Coastview : coeur creole. Grand Imperial Mall (centre commercial abandonne ; au point de depart, ni Animals ni NetWatch : ils s'y installent pendant l'ellipse de convalescence de V, decision worldbuilder, 2026-09-20 ; ensuite theatre canon du piege NetWatch de "I Walk the Line"). Batty's Hotel et sa chapelle : base des Voodoo Boys en sous-sol.
+- Coastview : coeur creole. Grand Imperial Mall (centre commercial abandonne ; au point de depart, ni Animals ni NetWatch : ils s'y installent pendant l'ellipse de convalescence de V, decision worldbuilder ; ensuite theatre canon du piege NetWatch de "I Walk the Line"). Batty's Hotel et sa chapelle : base des Voodoo Boys en sous-sol.
 - West Wind Estate : ancien complexe residentiel de luxe, favela.
 - Factions : Voodoo Boys (netrunners), Animals (boostergang), Barghest (Dogtown), scavengers. Fixer : Mr. Hands.
 - Canon 2077 : ligne Voodoo Boys de V (acte 2), Grand Imperial Mall, Bryce Mosley, plongee sous la chapelle, rencontre d'Alt. cf. Factions/Voodoo_Boys.md S4.

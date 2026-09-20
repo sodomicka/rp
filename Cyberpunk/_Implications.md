@@ -2,21 +2,21 @@
 
 - version : W25
 - Document de travail. Non indexe au Sommaire. Jamais fetche en narration.
-- Purge le 2026-09-20 (decision worldbuilder) : ce journal ne garde que le VIVANT. Tout fait acte vit en BIBLE ou en WIKI ; aucun historique ici.
+- Purge (decision worldbuilder) : ce journal ne garde que le VIVANT. Tout fait acte vit en BIBLE ou en WIKI ; aucun historique ici.
 
 ## Etat du build
 - Passes 0 et 1 closes. BIBLE B3, Sommaire W15, Resume W3. 40 pages WIKI.
-- Passe 2 : GARDE-CAP DICTE le 2026-09-20, saga complete R0 a R15. Il vit dans son propre fichier : Roadmap/Silas/00_Garde_Cap.md (W2), cite au Sommaire par exception de build. Ce journal n'en porte plus rien.
-- Suite : BIBLE BUILD B4 d'abord (thread dedie, decision worldbuilder du 2026-09-20), puis les roadmaps, en boucle serree, a partir de R0.
+- Passe 2 : GARDE-CAP DICTE, saga complete R0 a R15. Il vit dans son propre fichier : Roadmap/Silas/00_Garde_Cap.md (W2), cite au Sommaire par exception de build. Ce journal n'en porte plus rien.
+- Suite : BIBLE BUILD B4 d'abord (thread dedie, decision worldbuilder), puis les roadmaps, en boucle serree, a partir de R0.
 
 ## HANDOFF PASSE 2 - roadmaps
-- Ouverture d'un thread de roadmap : BIBLE B3 en projet ; lire Roadmap/Silas/00_Garde_Cap.md, puis ce journal, puis le Sommaire (W15). SPEC verifiees par listing de Config/ le 2026-09-20 : SPEC_BIBLE_LORE_WIKI_v8_5, SPEC_CODEX_v8_4.
+- Ouverture d'un thread de roadmap : BIBLE B3 en projet ; lire Roadmap/Silas/00_Garde_Cap.md, puis ce journal, puis le Sommaire (W15). SPEC a la derniere verification par listing de Config/ (a refaire a chaque build) : SPEC_BIBLE_LORE_WIKI_v8_5, SPEC_CODEX_v8_4.
 - BIBLE B3 est en retard sur le WIKI et sur le garde-cap (cf. Dettes). En cas d'ecart : le garde-cap et le WIKI font foi.
-- REGLE DE METHODE : un ordre, un calendrier ou une orientation d'arc n'entre dans les pages qu'avec sa source (date et parole du worldbuilder). Sans source, ce n'est pas acte. Precedent a ne pas refaire : l'"orientation Crystal Palace" de la fin de V, posee sans le worldbuilder, retiree le 2026-09-20.
+- REGLE DE METHODE : un ordre, un calendrier ou une orientation d'arc n'entre dans les pages qu'avec sa source : la parole du worldbuilder, tracee par la mention "decision worldbuilder". PAS DE DATE dans les pages : c'est du meta, le versionning W<N> suffit. Sans source, ce n'est pas acte. Precedent a ne pas refaire : l'"orientation Crystal Palace" de la fin de V, posee sans le worldbuilder, retiree depuis.
 - Forme : le worldbuilder veut des messages COURTS. Points groupes par sujet ; questions numerotees en repartant de 1 a CHAQUE message, une idee par numero ; jamais de probleme evoque sans question ou il puisse repondre.
 
 ## Dettes de build
-- BIBLE B4 (fin de passe) : B3 est en retard sur trois decisions du 2026-09-20, deja portees par le WIKI. A corriger : SB4 Animals ("sous-traitants de NetWatch au Grand Imperial Mall" : seulement a partir de l'ellipse) ; SB5 Lilith et Zaria Hughes (derriere le mur au point de depart, prise de corps et signalement pendant l'ellipse) ; SB5 Bryce Mosley (installe a Pacifica pendant l'ellipse ; fragment capture vers aout-octobre 2076) ; SB6 Grand Imperial Mall (ni Animals ni NetWatch au point de depart) ; SB8 Clones de Yor (date de la capture de Mosley) ; SB3 (ellipse de 3 semaines, acte 2 en seconde quinzaine de mai) ; SB6 Watson ("boucle apres le T0" : faux ; boucle pendant R0 et R1, leve juste apres le braquage). D'ici la, sur ces points, le WIKI fait foi.
+- BIBLE B4 (fin de passe) : B3 est en retard sur des decisions du worldbuilder deja portees par le WIKI. A corriger : SB4 Animals ("sous-traitants de NetWatch au Grand Imperial Mall" : seulement a partir de l'ellipse) ; SB5 Lilith et Zaria Hughes (derriere le mur au point de depart, prise de corps et signalement pendant l'ellipse) ; SB5 Bryce Mosley (installe a Pacifica pendant l'ellipse ; fragment capture vers aout-octobre 2076) ; SB6 Grand Imperial Mall (ni Animals ni NetWatch au point de depart) ; SB8 Clones de Yor (date de la capture de Mosley) ; SB3 (ellipse de 3 semaines, acte 2 en seconde quinzaine de mai) ; SB6 Watson ("boucle apres le T0" : faux ; boucle pendant R0 et R1, leve juste apres le braquage). D'ici la, sur ces points, le WIKI fait foi.
 - BIBLE B4, apport du garde-cap : SB3 (arcs R0 a R15) ; SB5 Slider (meurt PENDANT The Damned, grille par le lien de Songbird ; "tueur INCERTAIN" faux) ; SB5 V et SB8 "Fin de V" (orientation Crystal Palace retiree ; corps repris, 6 mois, legende) ; SB5 Bartmoss et SB8 "Ping" (Yor prend la console, la conscience reste libre) ; SB5 Silas (percu comme second de Slider ; fin en fauteuil roulant) ; sorts de Mosley, Lilith, Songbird, Alex, Hansen, Blue Eyes, Alt, Johnny ; SB8 : statuts des Tchekhov, cf. le dispatch du garde-cap ; "NetWatch jamais cible" tient.
 - Implications d'arc sur des NOYAUX (<= point de depart), a verser a chaud pendant la boucle : Wilky_LaGuerre (a vendu des Voodoo de Brigitte a la FIA) ; Silas_Null (motif de la haine des indics : il protege sa famille ; percu comme second et petit prodige de Slider, bien que parti en solo) ; J0RMUN94ND S4 (la copie du Soulkiller NetWatch ne tue pas par elle-meme) ; Mr_Blue_Eyes (reseau comprenant des IA gouvernementales et de corpos) ; Sandra_Dorsett (veut du controle sur les IA).
 - Trajectoires datees, a verser APRES la roadmap qui les produit : Lilith, Bryce_Mosley (R2, R3), puis chaque entite au fil des arcs.

@@ -47,7 +47,7 @@ Ce qu'une entite tient dans le reel. C'est l'axe ou Blue Eyes domine Yor.
 | 4 | Alt Cunningham | aucun corps ; agit par intermediaires |
 
 - Fondement : les IA rogues veulent des plateformes physiques pour agir sur le reel (enonce canon d'Alt). cf. IA/Entites_du_Blackwall.md S5.
-- Lilith au point de depart : aucun corps de ce cote du mur, aucune prise etablie sur le reel. Elle entre au rang 3 a sa prise de corps (mention datee ; decision worldbuilder, 2026-09-20). cf. IA/Lilith.md S1-S2.
+- Lilith au point de depart : aucun corps de ce cote du mur, aucune prise etablie sur le reel. Elle entre au rang 3 a sa prise de corps (mention datee ; decision worldbuilder). cf. IA/Lilith.md S1-S2.
 - Non mesures : le Blackwall, Rache Bartmoss.
 
 ## 5. Deltas dates

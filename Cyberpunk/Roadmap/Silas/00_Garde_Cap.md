@@ -1,8 +1,8 @@
 # 00_Garde_Cap - saga de Silas Null
 
 - version : W2
-- dossier : Roadmap/Silas. Cite au Sommaire pour la duree de la Passe 2 (decision worldbuilder, 2026-09-20) ; les roadmaps, elles, restent non indexees.
-- nature : SOURCE DE BUILD UNIQUEMENT, jamais fetche en narration. Briefing du worldbuilder, dicte le 2026-09-20. Le MJ a confronte au lore et au canon ; rien n'a ete comble.
+- dossier : Roadmap/Silas. Cite au Sommaire pour la duree de la Passe 2 (decision worldbuilder) ; les roadmaps, elles, restent non indexees.
+- nature : SOURCE DE BUILD UNIQUEMENT, jamais fetche en narration. Briefing dicte par le worldbuilder. Le MJ a confronte au lore et au canon ; rien n'a ete comble.
 - role : garder le cap de la Passe 2. Charge en ouverture de chaque thread de roadmap, mis a jour en cloture.
 - conventions : V est une femme. Titres en creole romanise, traductions validees. Point de depart : ouverture de R0, vers avril 2077. T0 : braquage du Konpeki, fin avril-debut mai. Ellipse de convalescence de V : 3 semaines. Watson boucle pendant R0 et R1, leve juste apres le braquage.
 

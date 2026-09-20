@@ -25,7 +25,7 @@
 ## 4. Trajectoire canon 2077 (acte 2 de V)
 - Mr. Hands -> Placide utilise V comme ranyon contre NetWatch au Grand Imperial Mall -> Bryce Mosley (NetWatch) infecte V d'un malware -> Placide tente de tuer V -> Brigitte impose une plongee au-dela du mur avec V, rencontre d'Alt -> le malware NetWatch grille des netrunners VDB.
 - Bifurcation canon : V peut tuer Brigitte et Placide, ou repartir. Phantom Liberty reagit selon le sort de Brigitte.
-- [DIVERGENCE RP] Branche du RP (garde-cap du worldbuilder, 2026-09-20) : la ligne ci-dessus est ECARTEE. Silas accompagne V au Grand Imperial Mall et se charge de Mosley, qui meurt avec sa cellule. Pas de piege de Placide dans V, pas de pacte ni de malware NetWatch, aucun netrunner VDB grille pendant la plongee. Alt ne dit rien aux VDB. V repart sans bain de sang : Brigitte et Placide vivants.
+- [DIVERGENCE RP] Branche du RP (garde-cap du worldbuilder) : la ligne ci-dessus est ECARTEE. Silas accompagne V au Grand Imperial Mall et se charge de Mosley, qui meurt avec sa cellule. Pas de piege de Placide dans V, pas de pacte ni de malware NetWatch, aucun netrunner VDB grille pendant la plongee. Alt ne dit rien aux VDB. V repart sans bain de sang : Brigitte et Placide vivants.
 
 ## 5. [DIVERGENCE RP] Silas Null
 - Voodoo Boy haitien, parti en solo, toujours a sa place parmi les VDB. Orphelin arrive a Pacifica avec la communaute en 2062, a 7 ans ; eleve par le clan sous Brigitte et Slider, Placide en "grand frere". Slider lui donne son nom, Null.

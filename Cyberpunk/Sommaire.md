@@ -80,7 +80,7 @@ Description : fiches de narration par arc (trame + bible de l'etape : Deroule au
 
 > ROADMAPS NON INDEXEES EN JEU (v8.2). Le dossier `Roadmap/<Prota>/` n'est PLUS liste au Sommaire. Les roadmaps restent physiquement au repo - ce sont des SOURCES DE BUILD (matiere premiere des fiches d'arc), lues en mode Wiki en listant directement le dossier `Roadmap/<Prota>/` (cf. ACCES GITHUB), jamais via le Sommaire. En jeu (RP), le MJ ne fetch jamais de roadmap : il navigue d'arc en arc par les fiches, et tient le fil long via le CODEX ANNEXE_CHRONO.
 
-> GARDE-CAP, EXCEPTION DE BUILD (decision worldbuilder, 2026-09-20). `Roadmap/Silas/00_Garde_Cap.md` (W2) : saga de Silas de R0 a R15, ordre des cibles, dispatch des Tchekhov, branches canon fixees, points parques. A lire en OUVERTURE de chaque thread de Passe 2. SOURCE DE BUILD UNIQUEMENT : jamais fetche en narration. Pointeur a RETIRER a la bascule jeu (SETUP).
+> GARDE-CAP, EXCEPTION DE BUILD (decision worldbuilder). `Roadmap/Silas/00_Garde_Cap.md` (W2) : saga de Silas de R0 a R15, ordre des cibles, dispatch des Tchekhov, branches canon fixees, points parques. A lire en OUVERTURE de chaque thread de Passe 2. SOURCE DE BUILD UNIQUEMENT : jamais fetche en narration. Pointeur a RETIRER a la bascule jeu (SETUP).
 
 > JOURNAL D'IMPLICATIONS NON INDEXE. `Cyberpunk/_Implications.md` est un document de travail du build, jamais fetche en narration.
 

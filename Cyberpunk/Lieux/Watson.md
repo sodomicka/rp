@@ -8,7 +8,7 @@
 - Fixer de reference : Regina Jones (Cyberpsycho Sightings, contrats a Northside).
 - Konpeki Plaza est a Watson. cf. Sites_Arasaka.md S1.
 - Histoire courte : ancien pole corpo et de loisirs, vide de ses corpos quand Arasaka a repris pied a Night City ; les megabuildings et les marches ont pris la place, les gangs ont suivi.
-- Canon 2077 : la NCPD boucle Watson a la fin de The Rescue (vers avril 2077, pendant R0). Le bouclage tient R0 et R1, braquage du Konpeki compris, et il est leve juste apres : l'ellipse de convalescence de V se joue hors bouclage (decision worldbuilder, 2026-09-20 ; le canon dit seulement qu'il est leve quand V se releve, wiki fandom, The Gig). Motif [INCERTAIN]. cf. Chronologie/Chrono_2077.md S1bis.
+- Canon 2077 : la NCPD boucle Watson a la fin de The Rescue (vers avril 2077, pendant R0). Le bouclage tient R0 et R1, braquage du Konpeki compris, et il est leve juste apres : l'ellipse de convalescence de V se joue hors bouclage (decision worldbuilder ; le canon dit seulement qu'il est leve quand V se releve, wiki fandom, The Gig). Motif [INCERTAIN]. cf. Chronologie/Chrono_2077.md S1bis.
 - Renvois utiles au RP : Regina Jones pour tout contrat a Northside ; Lizzie's Bar pour croiser des netrunners hors VDB ; l'Afterlife pour le marche des mercs.
 
 ## 2. Northside Industrial District
