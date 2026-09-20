@@ -1,6 +1,6 @@
 # Barghest
 
-- version : W2
+- version : W3
 
 ## 1. Nature
 - Milice paramilitaire de Dogtown. Nom : creature spectrale canine du folklore europeen, presage de malheur.
@@ -12,13 +12,13 @@
 - Partie de Pacifica muree, points d'entree gardes par la milice. NCPD interdite ; Trauma Team n'y va presque jamais (quasi personne n'y est assure). Barghest fait office de loi, a sa maniere : eviter l'anarchie totale, pas rendre la justice.
 - Sous-sol : projet militaire secret Militech des annees 2020 (bunkers, laboratoires) ; la decouverte d'un labo par des investisseurs a fait murer le quartier par Militech. cf. Lieux/Pacifica_et_Dogtown.md, Lieux/Pacifica_et_Dogtown.md S7.
 - Financement : reseau de contrebande de Hansen. Marche noir de chrome et de tech volee.
-- Barghest sort rarement des murs ; dehors, ce n'est qu'un gang de plus, tres arme.
+- Barghest sort rarement des murs ; dehors, ce n'est qu'un gang de plus, tres arme. Exception canon : Carl "Dodger" Robinson, haut grade monte par l'argent de la drogue, tient un ancien commissariat NCPD de Coastview, face a la porte. cf. Personnages/Dodger.md.
 
 ## 3. Kurt Hansen
 - Presence, charisme, intelligence ; ne ressemble pas au seigneur de guerre qu'on imagine. QG : le Black Sapphire. cf. Personnages/Kurt_Hansen.md.
 
 ## 4. Trajectoire canon 2077 (Phantom Liberty)
-- Songbird fait s'ecraser l'avion presidentiel (Space Force One) sur Dogtown ; Hansen retient Myers ; Reed, Alex Xenakis (sous couverture, barmaid) et V interviennent. Hansen meurt (tue par Alex ou par V selon la branche).
+- Songbird fait s'ecraser l'avion presidentiel (Space Force One) sur Dogtown ; Myers, sortie de l'epave par V, n'est jamais capturee ; Reed, Alex Xenakis (sous couverture, barmaid) et V interviennent. Hansen meurt (tue par Alex ou par V selon la branche).
 - Apres Hansen : Barghest sans tete. Sort exact [INCERTAIN selon les branches].
 
 ## 5. [DIVERGENCE RP] Silas Null

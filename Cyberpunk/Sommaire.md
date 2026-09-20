@@ -1,6 +1,6 @@
 # Sommaire - Cyberpunk
 
-- version : W16
+- version : W17
 
 ## WIKI
 
@@ -23,22 +23,22 @@ Description : regles du monde, Net, Blackwall, netrunning, chrome, cadre de Nigh
 ### Factions/
 Description : organisations du focus, nature, direction, trajectoire canon 2077, divergences RP.
 - NetWatch.md (W6) - police du Net, Blackwall, doctrine de l'outil IA, projet devoreur detruit, angle mort sur les fragments de Yor
-- Voodoo_Boys.md (W6) - origine haitienne 2062, Coastview, Brigitte, Placide, schisme LaGuerre dit Slider (mentor de Silas, indic FIA), Silas VDB haitien en solo, ligne canon de V
+- Voodoo_Boys.md (W7) - origine haitienne 2062, Coastview, Brigitte, Placide, schisme LaGuerre dit Slider (mentor de Silas, indic FIA ; clan coupe, rancoeur de Brigitte), sites de Dogtown, Silas VDB haitien en solo, ligne canon de V
 - Maelstrom.md (W4) - Northside, chrome, Royce mort, Brick chef, Totentanz, All Foods, Lilith et le rituel (date a l'ellipse)
-- Barghest.md (W2) - milice de Hansen, Dogtown, Phantom Liberty, Silas a Dogtown depuis ses 15 ans
+- Barghest.md (W3) - milice de Hansen, Dogtown, Dodger hors les murs, Phantom Liberty, Silas a Dogtown depuis ses 15 ans
 - FIA_NUSA.md (W2) - Myers, Reed, Alex, Songbird augmentee de force, Cynosure, piege de la Lune
 - Night_Corp.md (W4) - heritage de Richard Night, CN-07 esclave de Blue Eyes, Dorsett, Peralez, Gary
 
 ### Lieux/
 Description : lieux du focus, par district, avec leur trajectoire canon.
-- Pacifica_et_Dogtown.md (W3) - Pacifica, Coastview, Batty's Hotel, Grand Imperial Mall (vide au point de depart), Dogtown, Black Sapphire, Cynosure
+- Pacifica_et_Dogtown.md (W4) - Pacifica, Coastview, Batty's Hotel, Grand Imperial Mall (vide au point de depart), ancien commissariat NCPD (base de Dodger), Dogtown, Black Sapphire, Eventide Resort & Spa, Luxor High Wellness Spa, Cynosure
 - Watson.md (W5) - district, bouclage NCPD (R0 et R1, leve apres le braquage), Northside, All Foods, Totentanz, Kabuki, Little China, contrats Regina Jones
 - Sites_Arasaka.md (W3) - Konpeki Plaza et le braquage (T0, fin avril-debut mai 2077), Mikoshi et Soulkiller
 
 ### Chronologie/
 Description : chronologie condensee de l'univers et colonne vertebrale de 2077.
 - Chrono_Univers.md (W5) - 1990-2076, fondation, DataKrash, Blackwall, Haiti, Unification, Dogtown, Silas, percee 2075
-- Chrono_2077.md (W10) - etat du monde a l'ouverture de R0 (point de depart, en parallele de The Rescue), fin d'acte 1, R1 Konpeki, ellipse de 3 semaines (mort de Rhyne, venue et traque de Lilith, arrivee de Mosley et des Animals au Mall), acte 2 de V, Phantom Liberty, fins
+- Chrono_2077.md (W11) - etat du monde a l'ouverture de R0 (point de depart, J0 = soir de The Rescue), R0 en trois jalons, fin d'acte 1, R1 Konpeki, ellipse de 3 semaines (mort de Rhyne, venue et traque de Lilith, arrivee de Mosley et des Animals au Mall), acte 2 de V, Phantom Liberty, fins
 
 ### IA/
 Description : entites numeriques du focus. Fiches noyau, Passe 1.
@@ -49,13 +49,13 @@ Description : entites numeriques du focus. Fiches noyau, Passe 1.
 - IA_Mineures.md (W2) - economie de l'appetit, Delamain, Skippy, Brendan, CN-07, ICE et daemons, braindances hors perimetre
 
 ### Personnages/
-Description : fiches neutres, canon et OC promus au lore. Passe 1, lot livre (14 fiches + 2 satellites).
-- Silas_Null.md (W6) - PROTAGONISTE : identite, nom et handle Zer0, physique, personnalite, histoire jusqu'au point de depart, domiciles, chrome, capacites, echelles et signature violette, symbiose, metier, langue et lexique creole
+Description : fiches neutres, canon et OC promus au lore. Passe 1 : 14 fiches + 2 satellites ; Passe 2, boucle R0 : 2 fiches.
+- Silas_Null.md (W7) - PROTAGONISTE : identite, nom et handle Zer0, physique, personnalite, histoire jusqu'au point de depart, domiciles, chrome, capacites, echelles et signature violette, symbiose, metier, langue et lexique creole
 - Silas_Null_relations_1.md (W3) - satellite : Yor, Slider, Brigitte, Placide (surnoms, rituels, dynamique, ce que l'autre sait)
-- Silas_Null_relations_2.md (W3) - satellite : T-Bug, Mr. Hands, Rogue, Regina Jones
-- Maman_Brigitte.md (W4) - cheffe des VDB, doctrine, Alt, vol de la Relic commandite, Silas
-- Placide.md (W1) - second de Brigitte, presence, Rezo Agwe, ranyon, grand frere de Silas
-- Wilky_LaGuerre.md (W2) - Slider, ex-bras droit de Brigitte, aveugle et indic de la FIA, schisme de 2070, Dogtown, mentor de Silas
+- Silas_Null_relations_2.md (W4) - satellite : T-Bug, Mr. Hands, Rogue, Regina Jones
+- Maman_Brigitte.md (W5) - cheffe des VDB, doctrine, Alt, vol de la Relic commandite, rancoeur envers Slider, Silas
+- Placide.md (W2) - second de Brigitte, presence, Rezo Agwe, ranyon, grand frere de Silas
+- Wilky_LaGuerre.md (W3) - Slider, ex-bras droit de Brigitte, aveugle, en fauteuil roulant, indic de la FIA (a vendu des Voodoo), schisme de 2070, Eventide, mentor de Silas
 - Kurt_Hansen.md (W1) - colonel deserteur, Barghest, Dogtown, contrebande, image, lien a Silas
 - T_Bug.md (W2) - netrunneuse merc, profil, Rhino et Coastview, Dex, V et Jackie, The Rescue, lien a Silas
 - Songbird.md (W1) - Song So Mi, FIA, trahison de Reed (2070), bras droit de Myers, corruption
@@ -66,6 +66,8 @@ Description : fiches neutres, canon et OC promus au lore. Passe 1, lot livre (14
 - Peralez.md (W3) - le couple, bourse Night Corp, election, Rhyne (maire en exercice, mort pendant l'ellipse), SSI, cobayes de Blue Eyes
 - Sandra_Dorsett.md (W2) - netrunneuse Night Corp, Operation Carpe Noctem (CN-07), The Rescue (au point de depart), databank perdu
 - Bryce_Mosley.md (W2) - agent NetWatch, installe a Pacifica pendant l'ellipse, mission anti-VDB, fragment de Yor capture vers aout-octobre 2076
+- Mr_Hands.md (W1) - fixer de Pacifica, dernier corpo, desseins sur Dogtown, fixer principal de Silas, contrats lies a sa conquete
+- Dodger.md (W1) - Carl Robinson, haut grade de Barghest, ancien commissariat de Coastview ; casting du contrat "Waiting for Dodger" (Stella Ramos, Bill Mitchel, Charles Wilson), l'affaire, issues
 
 ### Power_Scaling/
 Description : echelles de puissance, etat au point de depart, deltas dates alimentes a chaud. Passe 1, lot livre.
@@ -80,7 +82,7 @@ Description : fiches de narration par arc (trame + bible de l'etape : Deroule au
 
 > ROADMAPS NON INDEXEES EN JEU (v8.2). Le dossier `Roadmap/<Prota>/` n'est PLUS liste au Sommaire. Les roadmaps restent physiquement au repo - ce sont des SOURCES DE BUILD (matiere premiere des fiches d'arc), lues en mode Wiki en listant directement le dossier `Roadmap/<Prota>/` (cf. ACCES GITHUB), jamais via le Sommaire. En jeu (RP), le MJ ne fetch jamais de roadmap : il navigue d'arc en arc par les fiches, et tient le fil long via le CODEX ANNEXE_CHRONO.
 
-> GARDE-CAP, EXCEPTION DE BUILD (decision worldbuilder). `Roadmap/Silas/00_Garde_Cap.md` (W3) : saga de Silas de R0 a R15, ordre des cibles, dispatch des Tchekhov, branches canon fixees, points parques. A lire en OUVERTURE de chaque thread de Passe 2. SOURCE DE BUILD UNIQUEMENT : jamais fetche en narration. Pointeur a RETIRER a la bascule jeu (SETUP).
+> GARDE-CAP, EXCEPTION DE BUILD (decision worldbuilder). `Roadmap/Silas/00_Garde_Cap.md` (W4) : saga de Silas de R0 a R15, ordre des cibles, dispatch des Tchekhov, branches canon fixees, points parques. A lire en OUVERTURE de chaque thread de Passe 2. SOURCE DE BUILD UNIQUEMENT : jamais fetche en narration. Pointeur a RETIRER a la bascule jeu (SETUP).
 
 > JOURNAL D'IMPLICATIONS NON INDEXE. `Cyberpunk/_Implications.md` est un document de travail du build, jamais fetche en narration.
 

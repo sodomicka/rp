@@ -1,6 +1,6 @@
 # Pacifica et Dogtown
 
-- version : W3
+- version : W4
 
 ## 1. Pacifica - nature
 - District du sud-ouest de Night City, face a l'ocean. Zone de combat de fait : gangs, misere, trafic, aucune presence de la ville. Etrangers et police non bienvenus ; on y circule en vehicule blinde ou en moto rapide.
@@ -13,6 +13,8 @@
 
 ## 3. Pacifica - lieux et factions
 - Coastview : coeur creole. Grand Imperial Mall (centre commercial abandonne ; au point de depart, ni Animals ni NetWatch : ils s'y installent pendant l'ellipse de convalescence de V, decision worldbuilder ; ensuite theatre canon du piege NetWatch de "I Walk the Line"). Batty's Hotel et sa chapelle : base des Voodoo Boys en sous-sol.
+- Ancien commissariat NCPD de Coastview (canon) : en service peu avant encore, reconverti en point de deal par Dodger, haut grade de Barghest. Hors les murs, face a la porte de Dogtown, a portee du Grand Imperial Mall. Porte principale a carte NCPD, accueil garde, porte laterale, trappe sur le toit d'une annexe ; sous-sol par ascenseur ; salle de serveurs ; reserve ; garage ou dort une voiture de patrouille. Garde par des soldats Barghest. [DIVERGENCE RP] Theatre du contrat de R0. cf. Personnages/Dodger.md.
+- [DIVERGENCE RP] Appartement de Silas Null, offert par Brigitte : 3e etage du Batty's Hotel. Luxueux, abandonne par les corpos en meme temps que Pacifica, amenage facon VDB, matos et veves (decision worldbuilder). Ouverture de R0. cf. Personnages/Silas_Null.md S5.
 - West Wind Estate : ancien complexe residentiel de luxe, favela.
 - Factions : Voodoo Boys (netrunners), Animals (boostergang), Barghest (Dogtown), scavengers. Fixer : Mr. Hands.
 - Canon 2077 : ligne Voodoo Boys de V (acte 2), Grand Imperial Mall, Bryce Mosley, plongee sous la chapelle, rencontre d'Alt. cf. Factions/Voodoo_Boys.md S4.
@@ -29,7 +31,9 @@
 ## 6. Dogtown - paysage
 - Vestiges du luxe jamais acheve : hotels, piscines, villas somptueuses devenues carcasses. Engins de chantier abandonnes. Batiments vides, effondres. Les scavengers ont amenage les ruines avec de la chrome volee.
 - Lieux nommes : Black Sapphire (hotel-casino, QG de Hansen) ; EBM Petrochem Stadium (entree principale, marche noir) [INCERTAIN sur la fonction exacte du stade].
-- Canon 2077 : crash de Space Force One, Myers retenue par Hansen, intervention de Reed et V, mort de Hansen. cf. Factions/FIA_NUSA.md S4.
+- Eventide Resort & Spa (canon) : sur les hauteurs de Luxor Heights, complexe inacheve bati par HFS, dessine en forme de piece de monnaie, coiffe d'une grande structure circulaire ; un des exemples les plus marquants du brutalisme de Pacifica, repere pour tout Dogtown. Repaire d'un groupe de Voodoo Boys : on y fabrique programmes illegaux, daemons, hacks, decks overclockes, processeurs debrides, pilotes pirates, vendus sous le manteau a Kabuki. Le sous-sol est converti en antre de netrunning pour Slider, qui plonge de la dans le Net local de Dogtown et dirige ses VDB a distance. [DIVERGENCE RP] L'autre maison de Silas, le "QG". cf. Personnages/Wilky_LaGuerre.md S4.
+- Luxor High Wellness Spa (canon) : ancien spa pres du stade, QG des Voodoo Boys de Dogtown dans Phantom Liberty (contrat "Treating Symptoms"). [DIVERGENCE RP] Les deux sont des sites VDB ; a l'Eventide, Silas a sa chambre et de quoi plonger (decision worldbuilder).
+- Canon 2077 : crash de Space Force One ; V sort Myers de l'epave et la met a l'abri, Reed l'exfiltre (elle n'est jamais capturee) ; mort de Hansen. cf. Factions/FIA_NUSA.md S4.
 
 ## 7. Cynosure (sous Dogtown)
 - Bunker secret Militech / NUSA herite du projet des annees 2020. Site de recherche sur l'IA d'au-dela du Blackwall. Origine des techniques Blackwall de la NUSA (deck Militech Canto MK6, quickhack Blackwall Gateway ; cf. Monde/Netrunning_2077.md S2).
@@ -41,7 +45,7 @@
 - Silas vit au-dessus de Cynosure depuis ses 15 ans, sans le savoir. Songbird a Cynosure = IA dans un corps de chair (cf. Monde/Chrome_et_Cyberpsychose.md S2bis). L'IA de Cynosure / Songbird : cible de J0RMUN94ND, convoitee aussi par Blue Eyes (piege de la Lune). cf. IA/Entites_du_Blackwall.md.
 
 ## 9. Renvois
-- Factions/Voodoo_Boys.md ; Factions/Barghest.md ; Factions/FIA_NUSA.md ; Personnages/Songbird.md ; Monde/Night_City_2077.md S3.
+- Factions/Voodoo_Boys.md ; Factions/Barghest.md ; Factions/FIA_NUSA.md ; Personnages/Songbird.md ; Personnages/Dodger.md ; Personnages/Wilky_LaGuerre.md ; Monde/Night_City_2077.md S3.
 
 ---
 

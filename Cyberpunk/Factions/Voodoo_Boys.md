@@ -1,6 +1,6 @@
 # Voodoo Boys
 
-- version : W6
+- version : W7
 
 ## 1. Origine
 - Sans lien avec le gang du meme nom des annees 2020.
@@ -19,8 +19,10 @@
 - Maman Brigitte : chefine, netrunneuse. Mene le contact avec Alt Cunningham. Ne plonge pas elle-meme au-dela : envoie un intermediaire, un "ranyon". cf. Personnages/Maman_Brigitte.md.
 - Placide : bras droit. Peu loquace, meprise l'aide aux etrangers. cf. Personnages/Placide.md.
 - Schisme : Wilky LaGuerre, dit Slider, ex-bras droit de Brigitte, rompt avec elle sur l'ideal (elle veut percer le mur, lui prefere les casses corpo et juge le mur trop dangereux) et part pour Dogtown, ou des VDB sont deja installes. En 2070, juste avant la secession de Hansen. cf. Personnages/Wilky_LaGuerre.md.
-- LaGuerre est un indic de la FIA, qui l'a aveugle puis tenu par chantage avant sa fuite a Dogtown. Il meurt en 2077 dans sa planque de l'Eventide, pendant The Damned, en servant de pont entre V et Songbird : le lien Blackwall de Songbird le grille (Phantom Liberty ; wiki fandom, Slider's Hideout). Silas Null ignore qu'il balance.
-- Acces pour un etranger : Mr. Hands, fixer de Pacifica, arrange la rencontre avec Placide.
+- [DIVERGENCE RP] Le schisme coupe le clan (decision worldbuilder) : bon nombre de VDB, tirailles entre les deux leaders, partent avec Slider. Brigitte lui en garde rancoeur. Silas Null est l'un des seuls assez doues pour ne pas avoir a choisir de camp.
+- Sites canon de la branche de Dogtown : l'Eventide Resort & Spa (planque de Slider, atelier de hacks vendus a Kabuki) et le Luxor High Wellness Spa (QG dans Phantom Liberty). Les deux sont des sites VDB dans le RP (decision worldbuilder). cf. Lieux/Pacifica_et_Dogtown.md S6.
+- LaGuerre est un indic de la FIA, qui l'a aveugle puis tenu par chantage avant sa fuite a Dogtown. Il meurt en 2077 dans sa planque de l'Eventide, pendant The Damned, en servant de pont entre V et Songbird : le lien Blackwall de Songbird le grille (Phantom Liberty ; wiki fandom, Slider's Hideout). Silas Null ignore qu'il balance ; Brigitte aussi (decision worldbuilder).
+- Acces pour un etranger : Mr. Hands, fixer de Pacifica, arrange la rencontre avec Placide. cf. Personnages/Mr_Hands.md.
 
 ## 4. Trajectoire canon 2077 (acte 2 de V)
 - Mr. Hands -> Placide utilise V comme ranyon contre NetWatch au Grand Imperial Mall -> Bryce Mosley (NetWatch) infecte V d'un malware -> Placide tente de tuer V -> Brigitte impose une plongee au-dela du mur avec V, rencontre d'Alt -> le malware NetWatch grille des netrunners VDB.

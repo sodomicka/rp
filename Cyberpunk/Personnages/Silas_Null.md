@@ -1,6 +1,6 @@
 # Silas Null
 
-- version : W6
+- version : W7
 
 ## 1. Identite
 
@@ -29,7 +29,7 @@
 
 - Nihiliste. Veut un monde sans IA, hors celle qui les devore. Martyr consentant de ce projet (cf. S8).
 - Sang-froid a toute epreuve. En contrat : sans coeur tant que la mission est remplie.
-- DETESTE LES INDICS. A refuse de servir de balance, meme entre ses deux mentors.
+- DETESTE LES INDICS. A refuse de servir de balance, meme entre ses deux mentors. Motif de fond (decision worldbuilder) : il est protecteur envers sa famille, et c'est notamment pour ca qu'il hait ceux qui la vendent.
 - Ideologie : plus proche de Slider (chasse aux corpos) que de la doctrine de Brigitte (abattre le mur pour gagner les faveurs des IA). Sa percee de 2075 releve de la curiosite, comprendre les IA, pas de la doctrine VDB (cf. Monde/Net_et_Blackwall.md S5).
 - Secret absolu : n'a jamais dit a personne qu'il a perce le mur.
 - Se fait passer pour moins doue que ses mentors. Brigitte et Slider se doutent qu'il ment, pas a quel point.
@@ -46,15 +46,15 @@
 | Annees 2060 | Brigitte et Slider, figures d'autorite, puis mentors, chacun a sa maniere. Slider lui donne son nom : Null |
 | 2069 (14 ans) | Premier mort, sous la supervision de Slider : un netrunner NetWatch, grille. Silas prend sa NetWatch Netdriver. 14 ans : du 30/01/2069 au 29/01/2070 |
 | Avant 2070 [date exacte INCERTAIN] | Slider devient aveugle. Silas accepte sa version : une ICE trop bien protegee lui a grille le cortex visuel. En realite, la FIA l'a aveugle et en a fait son indic ; Silas l'ignore |
-| 2070 (15 ans) | Schisme, juste avant la secession de Hansen : Slider quitte Brigitte pour Dogtown. Silas le suit, plus proche de ses idees, sans tourner le dos aux autres VDB ; fait meme des boulots pour eux tant qu'ils ne visent pas Slider. Puis Dogtown se ferme sous Barghest : il y passe desormais le plus clair de son temps, sans y etre enferme |
+| 2070 (15 ans) | Schisme, juste avant la secession de Hansen : Slider quitte Brigitte pour Dogtown. Silas le suit, plus proche de ses idees, sans tourner le dos aux autres VDB ; fait meme des boulots pour eux tant qu'ils ne visent pas Slider. Beaucoup de VDB, tirailles entre les deux leaders, ont du choisir ; Silas est l'un des seuls assez doues pour ne pas avoir a choisir de camp (decision worldbuilder). Puis Dogtown se ferme sous Barghest : il y passe desormais le plus clair de son temps, sans y etre enferme |
 | 2075 (20 ans) | Perce le Blackwall seul, depuis Night City, pour comprendre les IA. Rencontre J0RMUN94ND, alors moins forte qu'Alt. Symbiose. N'en parle a personne |
 | 2075-2077 | Yor absorbe des IA, NetWatch capture des fragments sans rien relier. Silas travaille en solo, reputation de fantome |
 
 ## 5. Domiciles
 
 - N'a jamais quitte Pacifica. Deux maisons :
-  - le QG de Slider a Dogtown (en 2077 : sa planque de l'Eventide Resort & Spa). C'est la qu'il passe le plus clair de son temps depuis 2070 ;
-  - un appartement a Coastview, offert par Brigitte.
+  - le QG de Slider a Dogtown (en 2077 : sa planque de l'Eventide Resort & Spa). C'est la qu'il passe le plus clair de son temps depuis 2070 ; il y a sa chambre et de quoi plonger (decision worldbuilder) ;
+  - un appartement a Coastview, offert par Brigitte : au 3e etage du Batty's Hotel. Appartement luxueux, abandonne par les corpos en meme temps que Pacifica, amenage facon VDB : matos de netrunning et veves, les symboles vaudou (decision worldbuilder).
 - N'est enferme nulle part : il circule entre Dogtown et le reste de Pacifica.
 
 ## 6. Chrome et equipement
@@ -88,8 +88,9 @@
 
 ## 9. Metier
 
-- Offre ses services a tous. Fixers : Mr. Hands surtout ; aussi Rogue et Regina Jones ; un peu tous les autres.
+- Offre ses services a tous. Fixers : Mr. Hands surtout (cf. Personnages/Mr_Hands.md) ; aussi Rogue et Regina Jones ; un peu tous les autres.
 - Reputation : fantome dans ses contrats ; sans coeur tant que la mission est remplie ; sang-froid a toute epreuve.
+- Regle de metier (decision worldbuilder) : sous contrat, ce qu'il apprend est a lui et au commanditaire, d'autant plus quand c'est un fixer.
 - Chasses aux cyberpsychos pour Regina Jones : les vrais cyberpsychos sont des IA en corps de chair (cf. Monde/Chrome_et_Cyberpsychose.md S2bis). Yor en mange l'IA au passage. Silas livre des corps vivants, brises, sans psychose. Regina recoit des echantillons corrompus, sans savoir pourquoi.
 - T-Bug : collegue occasionnelle.
 
@@ -170,6 +171,7 @@ Deja au lexique de la BIBLE (SB2) : ti moun (gamin), ranyon (intermediaire jetab
 - De Yor et de la percee : personne ne sait rien. Silas seul sait tout.
 - Brigitte cherche ce qu'il cache, sans savoir quoi. Alt Cunningham, son contact, est une cible de Yor.
 - Brigitte et Slider : le savent plus doue qu'il ne le montre, sans mesurer l'ecart.
+- VDB de Dogtown : le tiennent pour le second de Slider et son petit prodige, bien qu'il soit parti en solo (decision worldbuilder).
 - Netrunners avances : ont pu voir la signature violette ; n'en font qu'un mythe.
 - NetWatch : ignore Silas Null. Fragments captures classes comme clones d'une IA isolee. cf. Factions/NetWatch.md S4.
 - Regina Jones : constate des livraisons propres ; ignore ce que Yor preleve.
@@ -177,17 +179,17 @@ Deja au lexique de la BIBLE (SB2) : ti moun (gamin), ranyon (intermediaire jetab
 
 ## 13. Trajectoire datee
 
-Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entrees.
+Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entrees.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| R0, nuit de J0 (soir de The Rescue, vers avril 2077) | Soiree avec Placide a l'appartement ; appel de Brigitte sur Slider, il ne rapporte rien ; contrat "Waiting for Dodger" de Hands rempli, Bill et Charles exfiltres ; tombe sur l'eclat Dodger / Bennett, passe l'info a Hands ; se pose a l'Eventide | Aucun secret n'a bouge. Sort de Dodger : branche jouee (Parties/, Decisions) |
 
 ## 14. Renvois
 
 - IA/J0RMUN94ND.md ; Monde/Chrome_et_Cyberpsychose.md S2bis, S4 ; Monde/Net_et_Blackwall.md S5 ; Monde/Netrunning_2077.md.
 - Factions/Voodoo_Boys.md ; Factions/NetWatch.md ; Factions/Barghest.md ; Lieux/Pacifica_et_Dogtown.md.
-- Personnages/Silas_Null_relations_1.md ; Personnages/Silas_Null_relations_2.md ; Personnages/Wilky_LaGuerre.md ; Personnages/Maman_Brigitte.md ; Personnages/Placide.md ; Personnages/T_Bug.md ; Personnages/Kurt_Hansen.md.
+- Personnages/Silas_Null_relations_1.md ; Personnages/Silas_Null_relations_2.md ; Personnages/Mr_Hands.md ; Personnages/Dodger.md ; Personnages/Wilky_LaGuerre.md ; Personnages/Maman_Brigitte.md ; Personnages/Placide.md ; Personnages/T_Bug.md ; Personnages/Kurt_Hansen.md.
 - Lieux/Sites_Arasaka.md S2 (nuit du Konpeki) ; Chronologie/Chrono_Univers.md ; Chronologie/Chrono_2077.md.
 - Power_Scaling/Scaling_Numerique.md ; Power_Scaling/Scaling_Physique.md.
 

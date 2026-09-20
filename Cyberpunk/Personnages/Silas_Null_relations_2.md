@@ -1,6 +1,6 @@
 # Silas Null - Relations (le metier)
 
-- version : W3
+- version : W4
 
 Texture des relations de travail. Fiche mere : cf. Personnages/Silas_Null.md S9. Cercle de Yor et du clan : cf. Personnages/Silas_Null_relations_1.md.
 
@@ -15,11 +15,13 @@ Texture des relations de travail. Fiche mere : cf. Personnages/Silas_Null.md S9.
 
 ## Mr. Hands
 
-- Statut : son fixer principal.
+- Statut : son fixer principal. Fiche : cf. Personnages/Mr_Hands.md.
 - Surnoms / adresses : Hands le designe par son handle, Zer0.
 - Rituels / habitudes : contrats par holo et intermediaires. Silas ne l'a jamais rencontre en personne.
 - Dynamique : Hands est le seul acces aux Voodoo Boys pour les gens de la ville (cf. Monde/Night_City_2077.md S4). Silas, VDB lui-meme, n'a pas besoin de lui pour ca : leur relation est de pures affaires. Hands paie pour un fantome qui ne rate pas.
 - Ce que Hands sait : la reputation. Un fantome, sans coeur tant que la mission est remplie. Rien de Yor.
+- Evolution datee :
+  - R0, nuit de J0 : contrat "Waiting for Dodger", rempli. cf. Personnages/Dodger.md.
 
 ## Rogue Amendiares
 

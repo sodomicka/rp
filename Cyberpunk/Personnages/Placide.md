@@ -1,6 +1,6 @@
 # Placide
 
-- version : W1
+- version : W2
 
 ## 1. Identite
 
@@ -30,11 +30,11 @@
 
 ## 5. Trajectoire datee
 
-Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entrees.
+Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entrees.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| R0, nuit de J0 (soir de The Rescue, vers avril 2077) | Soiree chez Silas, a Coastview : bieres et cuisine pimentee | Aucun |
 
 ## 6. Notes de certitude
 

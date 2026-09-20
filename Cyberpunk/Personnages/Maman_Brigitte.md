@@ -1,6 +1,6 @@
 # Maman Brigitte
 
-- version : W4
+- version : W5
 
 ## 1. Identite
 
@@ -27,12 +27,13 @@
 
 - Placide : son second. cf. Personnages/Placide.md.
 - Wilky LaGuerre, dit Slider : son ancien bras droit. Rupture sur l'ideal : elle veut percer le mur, lui juge ca trop dangereux. En 2070, il part pour Dogtown. cf. Personnages/Wilky_LaGuerre.md.
+- [DIVERGENCE RP] Rancoeur depuis cette separation ideologique (decision worldbuilder) : il est parti avec bon nombre de VDB, tirailles entre les deux leaders. Quand elle prend de ses nouvelles, c'est autant par espoir qu'il soit mort que pour un vieil ami. Elle ne se doute pas qu'il est un indic.
 - [DIVERGENCE RP] Des 2062, avec Slider, elle a la charge des orphelins du clan.
 
 ## 5. [DIVERGENCE RP] Silas Null
 
 - Figure d'autorite de l'orphelin des 2062, puis mentor, a sa maniere. Lien anterieur au schisme, jamais rompu.
-- Lui a offert un appartement a Coastview. Il fait encore des boulots pour elle, tant qu'ils ne visent pas Slider.
+- Lui a offert un appartement a Coastview, au 3e etage du Batty's Hotel. Il fait encore des boulots pour elle, tant qu'ils ne visent pas Slider. Au schisme, il est l'un des seuls assez doues pour ne pas avoir eu a choisir de camp (decision worldbuilder).
 - Tension structurelle : elle cherche ce que Silas cache, sans savoir quoi. Il a fait en 2075 ce qu'elle reve de faire, percer le mur, et le lui cache. Alt, son contact, est une cible de J0RMUN94ND.
 - Netrunneuse d'elite, elle a pu voir la signature violette de Silas ; elle n'en tient qu'un mythe.
 - Silas se fait passer pour moins doue qu'elle et que Slider ; elle se doute qu'il ment, pas a quel point.
@@ -40,11 +41,11 @@
 
 ## 6. Trajectoire datee
 
-Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entrees.
+Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entrees.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| R0, nuit de J0 (soir de The Rescue, vers avril 2077) | Appelle Silas pour des nouvelles de Slider ; il ne rapporte rien | Aucun |
 
 ## 7. Notes de certitude
 

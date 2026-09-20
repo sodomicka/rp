@@ -1,6 +1,6 @@
 # Chronologie 2077
 
-- version : W10
+- version : W11
 
 Colonne vertebrale de l'annee : l'ordre canon des evenements de V, avec les ancrages du RP. Les mois sont [INCERTAIN] : le canon ne date pas ses jalons. Seule date posee : le braquage, fin avril ou debut mai 2077 (cf. Lieux/Sites_Arasaka.md S2). Ordre relatif fiable.
 
@@ -12,14 +12,15 @@ Colonne vertebrale de l'annee : l'ordre canon des evenements de V, avec les ancr
 - [DIVERGENCE RP] Silas Null, 22 ans (R0 s'ouvre vers avril 2077, apres le 30/01 : 2077 - 2055 = 22), Voodoo Boy parti en solo, netrunner sous contrat, hote de J0RMUN94ND depuis deux ans (2077 - 2075 = 2). NetWatch ne sait rien.
 
 ## 1bis. R0 - Introduction (avant le Konpeki)
-- [DIVERGENCE RP] Arc d'introduction, anterieur au braquage : un contrat de Mr. Hands, en parallele de The Rescue (sauvetage de Sandra Dorsett par V, Jackie Welles et T-Bug, cf. Personnages/Sandra_Dorsett.md S3). Il pose le decor de Silas : Voodoo Boy en solo, genie du hack, symbiose avec Yor, neutre dans les conflits internes aux VDB, proche de Brigitte, Placide et Slider. Detail en Passe 2.
-- POINT DE DEPART DU RP : ouverture de R0, en parallele de The Rescue (decision worldbuilder) : vers avril 2077, jour [INCERTAIN].
+- [DIVERGENCE RP] Arc d'introduction, anterieur au braquage : un contrat de Mr. Hands, en parallele de The Rescue (sauvetage de Sandra Dorsett par V, Jackie Welles et T-Bug, cf. Personnages/Sandra_Dorsett.md S3). Il pose le decor de Silas : Voodoo Boy en solo, genie du hack, symbiose avec Yor, neutre dans les conflits internes aux VDB, proche de Brigitte, Placide et Slider.
+- Trois jalons, une seule nuit (decisions worldbuilder) : soiree avec Placide a l'appartement de Coastview, appels de Brigitte puis de Hands ; contrat "Waiting for Dodger" (canon de Phantom Liberty avance en avril), deux agents NCPD exfiltres de l'ancien commissariat tenu par Dodger, de Barghest, sort de Dodger au choix du joueur ; Silas se pose a l'Eventide, chez Slider. cf. Personnages/Dodger.md, Personnages/Mr_Hands.md.
+- POINT DE DEPART DU RP : ouverture de R0, en parallele de The Rescue (decision worldbuilder) : vers avril 2077. Calendrier relatif : J0 = le soir de The Rescue, aucun jour calendaire fixe (decision worldbuilder).
 - Bouclage de Watson (canon) : la NCPD boucle le district a la fin de The Rescue, donc pendant R0. Il tient R0 et R1, braquage compris, et il est leve juste apres : l'ellipse se joue hors bouclage (decision worldbuilder ; le canon dit seulement qu'il est leve quand V se releve, wiki fandom, The Gig). Motif [INCERTAIN]. cf. Lieux/Watson.md S1.
 - Ensuite, avant le T0 (acte 1 de V, canon) : fin avril, Dexter DeShawn recrute V, Jackie et T-Bug, sur suggestion de celle-ci, pour voler la Relic a Yorinobu Arasaka au Konpeki Plaza, pour le compte d'Evelyn Parker. Preparation : The Pickup a All Foods, Flathead recupere (Royce mort, Brick libere et chef de Maelstrom, cf. Factions/Maelstrom.md S3) ; The Information, reperage avec Evelyn Parker (Judy Alvarez, Clouds).
 
 ## 2. T0 - Le braquage du Konpeki Plaza (R1)
 - [DIVERGENCE RP] Premier beat de R1, avant la nuit du braquage : T-Bug contacte Silas directement, sans passer par un fixer, pour l'avoir en assurance sur le Konpeki. Detail en Passe 2.
-- Une nuit, fin avril ou debut mai 2077, jour [INCERTAIN]. V et Jackie volent la Relic ; Yorinobu tue Saburo ; T-Bug tracee et flatlinee ; Jackie meurt ; Dex tire sur V a la decharge ; V survit par la Relic, Johnny Silverhand s'eveille en elle.
+- Une nuit, fin avril ou debut mai 2077, jour [INCERTAIN]. V et Jackie volent la Relic ; Yorinobu tue Saburo ; T-Bug tracee, puis trait plat ; Jackie meurt ; Dex tire sur V a la decharge ; V survit par la Relic, Johnny Silverhand s'eveille en elle.
 - [DIVERGENCE RP] Silas est branche cette nuit-la, depuis son appartement de Coastview (Pacifica). Ce qu'il y fait : roadmap, Passe 2.
 - Apres : Takemura tue Dex ; V passe a l'acte 2. Le bouclage de Watson, en place depuis The Rescue (S1bis), est leve juste apres le braquage.
 - Pendant l'ellipse de convalescence de V : mort du maire Lucius Rhyne, cause [INCERTAIN]. Vu vivant par une camera du Konpeki la nuit du braquage ; annonce mort aux infos une fois Johnny eveille. Weldon Holt, l'ex-adjoint, le remplace face a Peralez.
@@ -33,7 +34,7 @@ Colonne vertebrale de l'annee : l'ordre canon des evenements de V, avec les ancr
 - Ligne Voodoo Boys (Pacifica) : Mr. Hands, Placide, piege NetWatch au Grand Imperial Mall, Bryce Mosley, plongee sous la chapelle avec Brigitte, rencontre d'Alt. [DIVERGENCE RP] Branche du RP (garde-cap du worldbuilder) : Silas accompagne V ; pas de piege de Placide, pas de malware NetWatch ; Mosley et sa cellule meurent au Mall ; aucun netrunner VDB grille ; Brigitte et Placide vivants. Canon ecarte : netrunners VDB grilles par le malware, V libre de tuer Brigitte et Placide.
 
 ## 4. Phantom Liberty (apres la ligne Voodoo Boys)
-- Songbird contacte V ; Space Force One s'ecrase sur Dogtown ; Myers retenue par Hansen ; Reed et Alex ; Black Sapphire ; choix Songbird ou Reed.
+- Songbird contacte V ; Space Force One s'ecrase sur Dogtown ; Myers sortie de l'epave par V, mise a l'abri, exfiltree par Reed ; Reed et Alex ; Black Sapphire ; choix Songbird ou Reed.
 - Wilky LaGuerre (Slider), indic FIA : V et Reed passent par sa planque de l'Eventide pour joindre Songbird (The Damned) ; il y meurt pendant la mission, en servant de pont : le lien Blackwall de Songbird le grille (wiki fandom, Slider's Hideout). [DIVERGENCE RP] Mentor de Silas.
 - Branche Songbird : spatioport, billet Lune fourni par Blue Eyes. [DIVERGENCE RP] Piege : Blue Eyes veut absorber l'IA de Songbird.
 - Branche Reed : Cynosure, Cerberus, Songbird retrouvee, livree ou tuee ; remede NUSA pour V (deux ans de coma, plus de chrome).

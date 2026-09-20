@@ -1,10 +1,10 @@
 # 00_Garde_Cap - saga de Silas Null
 
-- version : W3
+- version : W4
 - dossier : Roadmap/Silas. Cite au Sommaire pour la duree de la Passe 2 (decision worldbuilder) ; les roadmaps, elles, restent non indexees.
 - nature : SOURCE DE BUILD UNIQUEMENT, jamais fetche en narration. Briefing dicte par le worldbuilder. Le MJ a confronte au lore et au canon ; rien n'a ete comble.
 - role : garder le cap de la Passe 2. Charge en ouverture de chaque thread de roadmap, mis a jour en cloture.
-- conventions : V est une femme. Titres en creole romanise, traductions validees. Point de depart : ouverture de R0, vers avril 2077. T0 : braquage du Konpeki, fin avril-debut mai. Ellipse de convalescence de V : 3 semaines. Watson boucle pendant R0 et R1, leve juste apres le braquage.
+- conventions : V est une femme. Titres en creole romanise, traductions validees. Point de depart : ouverture de R0, vers avril 2077. T0 : braquage du Konpeki, fin avril-debut mai. Ellipse de convalescence de V : 3 semaines. Watson boucle pendant R0 et R1, leve juste apres le braquage. Calendrier relatif : J0 = le soir de The Rescue, aucun jour calendaire fixe ; tout R0 tient dans la nuit de J0. Contrats de V : on n'evoque que ceux qui touchent a ceux de Silas.
 
 ## Saga, roadmap par roadmap
 
@@ -13,6 +13,10 @@
 - Appel de Brigitte : des nouvelles de Slider, autant par espoir qu'il soit mort que pour prendre des nouvelles d'un vieil ami.
 - Appel de Hands : contrat "Waiting for Dodger" (canon : extraire des agents NCPD de la base de Dodger, Coastview ; contrat de Phantom Liberty avance en avril, divergence de date assumee). Principe : tous les contrats de Hands sont lies a sa future conquete de Dogtown.
 - Fin de mission : il se pose au QG de Dogtown, chez Slider.
+- Decisions du thread R0 : 3 etapes (appartement ; contrat ; Eventide). Bill et Charles exfiltres dans tous les cas, Silas reussit toujours un boulot ; confrontation au garage dans tous les cas, Silas les accompagne pour s'assurer de leur survie. Sort de Dodger au choix du joueur : il vit, ou Silas le tue pour ne laisser aucune trace. Interet de Hands : une interaction avec un haut grade de Barghest ; mort, Hansen perd un pion ; vivant, il sera moins fiable envers Hansen. Levier : Dodger traite avec Chester Bennett dans le dos de Hansen et doit garder le secret ; Silas tombe sur l'eclat qui le prouve et passe l'info a Hands ; Hands et les VDB, par Silas, tiennent ce secret : compromis, Dodger leur doit des comptes, par chantage. Bennett est lui-meme du genre a manigancer, pas 100% fiable envers Hansen. Regle de metier de Silas : sous contrat, l'info est a lui et au commanditaire, d'autant plus quand c'est un fixer.
+- Lieux : l'appartement de Silas est au 3e etage du Batty's Hotel (luxueux, abandonne par les corpos avec Pacifica, amenage facon VDB, matos et veves). Eventide et Luxor High Wellness Spa sont deux sites VDB de Dogtown ; a l'Eventide, Silas a sa chambre et de quoi plonger.
+- Brigitte et Slider : rancoeur depuis la separation ideologique ; il est parti avec bon nombre de VDB tirailles entre les deux leaders ; Silas etait l'un des seuls assez doues pour ne pas avoir a choisir de camp. Elle ne se doute pas que Slider est une balance.
+- Roadmap : Roadmap_R0_Sepan_Dogtown_Nan.md.
 - En parallele : The Rescue. Etats d'avril : Lilith derriere le mur ; ni Animals ni NetWatch au GIM ; vol de la Relic deja commandite par Brigitte, prepare depuis des mois, Silas l'ignore.
 
 ### R1 - "otel liksye" (l'hotel de luxe)
@@ -57,11 +61,13 @@
 - Retour a Dogtown. Reed veut passer par un indic ; Silas refuse de risquer de se frotter au mur noir, tacitement pour proteger Yor. Reed : c'est un indic que Silas doit connaitre.
 - Au QG, Silas pret a buter Reed au moindre faux pas. Il decouvre que son mentor est pile ce qu'il deteste le plus au monde, et qu'il a vendu des tas de Voodoo de Brigitte pour le compte de la FIA. Motif de fond : Silas est protecteur envers sa famille, c'est notamment pour ca qu'il deteste les indics.
 - Songbird grille Slider (canon : The Damned). Silas crache sur son cadavre.
+- Brigitte ne se doute de rien : elle tombera des nues quand Silas lui revelera que Slider balancait (decision du thread R0 ; moment : parque).
 - Silas prend la tete du QG : percu comme le second de Slider bien que parti en solo, petit prodige de Slider, juge le plus legitime par les autres. Le titre lui est donne, il ne le reclame pas. Il dit aux Voodoo de Dogtown de se rallier a Brigitte, leader solide et juste, pas un "salop tret". Ils refusent : ils veulent le prince qui a renverse le roi corrompu.
 - Suite de Dogtown jusqu'au point d'attente d'avant la fete chez Hansen, ou Silas est invite en qualite de chef des VDB de Dogtown. Reed et V doivent toujours s'infiltrer.
 
 ### R8 - "m ap tann sourit vil la toujou" (j'attends toujours la souris de la ville)
 - V : defile d'Arasaka, puis offre d'Hanako.
+- Acquis de R0 : Hands sait par l'eclat que Bennett manigance dans le dos de Hansen.
 - Silas : 2 autres missions pour Hands, puis premiere rencontre en personne. Ils discutent de l'apres-Hansen, s'il venait a malencontreusement mourir : Hands veut Bennett, Silas veut Jago ; ils attendent pour se mettre d'accord.
 
 ### R9 - "nich vipe" (nid de viperes)
@@ -114,11 +120,14 @@ Lilith (R2) -> cellule NetWatch de Mosley (R3, hors liste) -> console de Bartmos
 - Fin de V : assaut de la tour a deux avec Silas ; son corps repris, 6 mois a vivre, legende de Night City. L'ancienne "orientation Crystal Palace / Blue Eyes" est RETIREE : decision prise sans le worldbuilder.
 
 ## Etat des roadmaps
-- R0 a R15 : aucune ecrite. Boucle serree par roadmap (grandes lignes -> confrontation -> fiches a chaud -> peaufinage).
+- R0 : ecrite (Roadmap_R0_Sepan_Dogtown_Nan.md, W1). Fiches creees : Mr_Hands, Dodger.
+- R1 a R15 : aucune ecrite. Boucle serree par roadmap (grandes lignes -> confrontation -> fiches a chaud -> peaufinage).
 
 ## Points parques (a regler au roadmapping, pas avant)
-- R0 : jour exact de l'ouverture. R3 : calage fin de l'arrivee des Animals ("une semaine + trois jours" face a la sortie de V a T0 + 3 semaines).
+- R3 : calage fin de l'arrivee des Animals ("une semaine + trois jours" face a la sortie de V a T0 + 3 semaines).
 - R6, R8 : choix des 4 contrats de Hands. Canon restant : Two Wrongs Makes Us Right, Dogtown Saints, Heaviest of Hearts, Prototype in the Scraper, Roads to Redemption, Spy in the Jungle, Talent Academy, The Man Who Killed Jason Foreman, Treating Symptoms. Critere : les plus lies a Hands marionnettiste de Dogtown.
+- R6, R8 : "Treating Symptoms" vise en canon le QG des VDB de Dogtown (Luxor High Wellness Spa), site VDB dans le RP aussi ; a peser pour un Silas VDB.
+- R7 ou apres : moment ou Silas revele a Brigitte que Slider etait un indic.
 - R1 : Smasher au Konpeki (marque "vous a repere", n'agit pas). R9 : lieu du caisson, maniere d'atteindre la console.
 - R10 : canon [a verifier], branche Reed : Hansen meurt pendant l'infiltration, Alex plus tard.
 - R13 : place exacte de la restauration des Peralez ; sort de l'election.
