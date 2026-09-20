@@ -1,22 +1,26 @@
 # Chronologie 2077
 
-- version : W4
+- version : W5
 
-Colonne vertebrale de l'annee : l'ordre canon des evenements de V, avec les ancrages du RP. Les mois sont [INCERTAIN] : le canon ne date pas ses jalons. Ordre relatif fiable.
+Colonne vertebrale de l'annee : l'ordre canon des evenements de V, avec les ancrages du RP. Les mois sont [INCERTAIN] : le canon ne date pas ses jalons. Seule date posee : le braquage, fin avril ou debut mai 2077 (cf. Lieux/Sites_Arasaka.md S2). Ordre relatif fiable.
 
-## 1. Avant le point de depart (etat du monde au T0)
-- V : six mois de montage avec Jackie Welles ; The Pickup a All Foods (Royce mort, Brick libere et chef de Maelstrom, cf. Factions/Maelstrom.md S3) ; The Information (Evelyn Parker, Judy Alvarez, Clouds).
-- Elections municipales en cours : mort du maire Lucius Rhyne, cause [INCERTAIN] ; Jefferson Peralez candidat favori contre Weldon Holt, l'ex-adjoint. cf. Personnages/Peralez.md.
+## 1. Avant le point de depart (ouverture de R0)
+- V : six mois de montage avec Jackie Welles, T-Bug en support. Maelstrom : Royce chef, Brick enferme a All Foods (cf. Factions/Maelstrom.md S3).
+- Mairie : Lucius Rhyne, maire en exercice ; Jefferson Peralez candidat a la mairie. cf. Personnages/Peralez.md.
 - Songbird sous Myers a la FIA, corruption Blackwall en cours. Reed dormant a Night City. Hansen regne sur Dogtown.
-- [DIVERGENCE RP] Silas Null, 22 ans, Voodoo Boy parti en solo, netrunner sous contrat, hote de J0RMUN94ND depuis deux ans. NetWatch ne sait rien. T-Bug lui demande de rester en plan B pour le Konpeki.
+- [DIVERGENCE RP] Silas Null, 22 ans (R0 s'ouvre vers avril 2077, apres le 30/01 : 2077 - 2055 = 22), Voodoo Boy parti en solo, netrunner sous contrat, hote de J0RMUN94ND depuis deux ans (2077 - 2075 = 2). NetWatch ne sait rien.
 
 ## 1bis. R0 - Introduction (avant le Konpeki)
-- [DIVERGENCE RP] Arc d'introduction, anterieur au braquage : un contrat de Mr. Hands ; puis T-Bug contacte Silas directement, sans passer par un fixer, pour l'avoir en assurance sur le Konpeki. Detail en Passe 2.
+- [DIVERGENCE RP] Arc d'introduction, anterieur au braquage : un contrat de Mr. Hands, en parallele de The Rescue (sauvetage de Sandra Dorsett par V, Jackie Welles et T-Bug, cf. Personnages/Sandra_Dorsett.md S3). Il pose le decor de Silas : Voodoo Boy en solo, genie du hack, symbiose avec Yor, neutre dans les conflits internes aux VDB, proche de Brigitte, Placide et Slider. Detail en Passe 2.
+- POINT DE DEPART DU RP : ouverture de R0, en parallele de The Rescue (decision worldbuilder) : vers avril 2077, jour [INCERTAIN].
+- Ensuite, avant le T0 (acte 1 de V, canon) : fin avril, Dexter DeShawn recrute V, Jackie et T-Bug, sur suggestion de celle-ci, pour voler la Relic a Yorinobu Arasaka au Konpeki Plaza, pour le compte d'Evelyn Parker. Preparation : The Pickup a All Foods, Flathead recupere (Royce mort, Brick libere et chef de Maelstrom, cf. Factions/Maelstrom.md S3) ; The Information, reperage avec Evelyn Parker (Judy Alvarez, Clouds).
 
 ## 2. T0 - Le braquage du Konpeki Plaza (R1)
-- Une nuit. V et Jackie volent la Relic ; Yorinobu tue Saburo ; T-Bug tracee et flatlinee ; Jackie meurt ; Dex tire sur V a la decharge ; V survit par la Relic, Johnny Silverhand s'eveille en lui.
-- [DIVERGENCE RP] Silas est branche cette nuit-la, depuis son appartement de Coastview (Pacifica). Point de depart du RP. Ce qu'il y fait : roadmap, Passe 2.
+- [DIVERGENCE RP] Premier beat de R1, avant la nuit du braquage : T-Bug contacte Silas directement, sans passer par un fixer, pour l'avoir en assurance sur le Konpeki. Detail en Passe 2.
+- Une nuit, fin avril ou debut mai 2077, jour [INCERTAIN]. V et Jackie volent la Relic ; Yorinobu tue Saburo ; T-Bug tracee et flatlinee ; Jackie meurt ; Dex tire sur V a la decharge ; V survit par la Relic, Johnny Silverhand s'eveille en elle.
+- [DIVERGENCE RP] Silas est branche cette nuit-la, depuis son appartement de Coastview (Pacifica). Ce qu'il y fait : roadmap, Passe 2.
 - Apres : Watson boucle par NCPD et Arasaka [INCERTAIN sur la duree] ; Takemura tue Dex ; V passe a l'acte 2.
+- Pendant l'ellipse de convalescence de V : mort du maire Lucius Rhyne, cause [INCERTAIN]. Vu vivant par une camera du Konpeki la nuit du braquage ; annonce mort aux infos une fois Johnny eveille. Weldon Holt, l'ex-adjoint, le remplace face a Peralez.
 - [DIVERGENCE RP] Ellipse de convalescence de V : Silas traque Lilith. Detail en Passe 2.
 - [DIVERGENCE RP] Fil arme : le ping de Bartmoss vers son caisson est emis apres la trahison de Dex.
 
@@ -37,7 +41,7 @@ Colonne vertebrale de l'annee : l'ordre canon des evenements de V, avec les ancr
 - Sort de V par defaut : oriente Crystal Palace / manipulation par Blue Eyes, tranche en fin de roadmap.
 
 ## 6. Lecture d'ensemble
-- Arcs de Silas, fixes : R0 (contrat de Mr. Hands, puis appel de T-Bug) -> R1 Konpeki (T0) -> ellipse de convalescence de V, Silas traque Lilith. La suite : garde-cap pre-roadmap du worldbuilder (Passe 2). Seul point fixe au-dela : le Blackwall en dernier.
+- Arcs de Silas, fixes : R0 (contrat de Mr. Hands ; point de depart a son ouverture) -> R1 (premier beat : appel de T-Bug ; puis le Konpeki, T0) -> ellipse de convalescence de V, Silas traque Lilith. La suite : garde-cap pre-roadmap du worldbuilder (Passe 2). Seul point fixe au-dela : le Blackwall en dernier.
 - Deux predateurs d'IA courent en parallele toute l'annee : J0RMUN94ND (amalgame) et Blue Eyes (reseau d'esclaves).
 
 ---

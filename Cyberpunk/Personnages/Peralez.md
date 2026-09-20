@@ -1,6 +1,6 @@
 # Peralez
 
-- version : W2
+- version : W3
 
 Fiche du couple Jefferson et Elizabeth Peralez.
 
@@ -26,9 +26,10 @@ Fiche du couple Jefferson et Elizabeth Peralez.
 - Penthouse a Charter Hill, Westbrook, entierement converti en bureau de campagne.
 - Jefferson porte une bague Jinguji, meme modele que Blue Eyes (en or chez lui) et Gary le Prophete [source presse]. cf. Personnages/Mr_Blue_Eyes.md S2.
 
-## 4. Election et mort de Rhyne (etat au T0)
+## 4. Election et mort de Rhyne
 
-- Le maire Lucius Rhyne est mort ; son adjoint Weldon Holt le remplace comme adversaire de Peralez.
+- Au point de depart et au T0 : Lucius Rhyne est maire en exercice ; Jefferson est candidat a la mairie.
+- Rhyne meurt apres le T0, pendant l'ellipse de convalescence de V (decision worldbuilder). Son adjoint Weldon Holt le remplace alors comme adversaire de Peralez. cf. Chronologie/Chrono_2077.md S2.
 - Les Peralez doutent de la version officielle de cette mort.
 - Nature de la mort : [INCERTAIN], a trancher plus tard (decision worldbuilder). Le canon laisse plusieurs lectures a l'enquete "I Fought the Law" : accident couvert par la NCPD, Holt, braindance piegee.
 

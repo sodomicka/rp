@@ -1,6 +1,6 @@
 # Sandra Dorsett
 
-- version : W1
+- version : W2
 
 ## 1. Identite
 
@@ -17,15 +17,16 @@
 - [DIVERGENCE RP] CN-07 est un esclave de Blue Eyes : le databank de Sandra documente un instrument de l'IA. cf. Personnages/Mr_Blue_Eyes.md S3-S4.
 - Ce que Sandra sait de Blue Eyes : rien d'etabli.
 
-## 3. The Rescue (avant le point de depart)
+## 3. The Rescue (au point de depart)
 
+- [DIVERGENCE RP] L'ouverture de R0, point de depart du RP, se joue en parallele. cf. Chronologie/Chrono_2077.md S1bis.
 - Vers avril 2077 : capturee par des Scavengers qui visent sa chrome. Une puce brouilleuse forcee dans son neuroport rend son biomoniteur muet : Trauma Team ne voit rien. Retrouvee dans une baignoire de glace.
 - Sauvee par V et Jackie Welles, T-Bug en support, sur contrat de Wakako Okada. V retire la puce ; arret cardiaque ; stabilisee a l'airhypo ; Trauma Team la recupere depuis le balcon.
 - Le databank est perdu pendant l'enlevement et reste aux mains des Scavengers.
 
-## 4. Etat au point de depart
+## 4. Apres The Rescue (canon)
 
-- Survivante de The Rescue. Databank toujours perdu, quelque part a Kabuki (Watson).
+- Survivante. Databank toujours perdu, quelque part a Kabuki (Watson).
 - Canon, dans l'ordre : retablissement complet, retour a Night Corp, puis cavale. Ou elle en est au T0 dans cette sequence : [INCERTAIN].
 - Domicile connu en canon : appartement a Little China, Watson, protege par une tourelle.
 

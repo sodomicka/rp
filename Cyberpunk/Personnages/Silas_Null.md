@@ -1,13 +1,13 @@
 # Silas Null
 
-- version : W5
+- version : W6
 
 ## 1. Identite
 
 - Nom : Silas Null. Handle : Zer0, derive de Null, pour plus d'anonymat.
 - "Silas" : tout ce qui lui reste de parents qu'il n'a jamais connus.
 - "Null" : donne par Wilky LaGuerre, dit Slider, pour qui tout le monde merite un nom.
-- Masculin. Ne le 30/01/2055. Age au point de depart : 22 ans (2077 - 2055 = 22 ; le braquage du Konpeki suit The Rescue, situee vers avril 2077, cf. Personnages/Sandra_Dorsett.md S3).
+- Masculin. Ne le 30/01/2055. Age au point de depart : 22 ans (ouverture de R0, posterieure au 30/01/2077, decision worldbuilder : 2077 - 2055 = 22). Meme age au braquage du Konpeki, fin avril ou debut mai 2077 (cf. Lieux/Sites_Arasaka.md S2).
 - Haitien, autant que les autres Voodoo Boys. Lieu de naissance non etabli [INCERTAIN] : il est deja avec la communaute haitienne quand elle arrive a Pacifica, en 2062.
 - Statut : Voodoo Boy parti en solo. Netrunner sous contrat, toujours a sa place parmi les VDB.
 - Hote de J0RMUN94ND ("Yor") depuis 2075. Exception unique au monde. cf. S8.
@@ -49,7 +49,6 @@
 | 2070 (15 ans) | Schisme, juste avant la secession de Hansen : Slider quitte Brigitte pour Dogtown. Silas le suit, plus proche de ses idees, sans tourner le dos aux autres VDB ; fait meme des boulots pour eux tant qu'ils ne visent pas Slider. Puis Dogtown se ferme sous Barghest : il y passe desormais le plus clair de son temps, sans y etre enferme |
 | 2075 (20 ans) | Perce le Blackwall seul, depuis Night City, pour comprendre les IA. Rencontre J0RMUN94ND, alors moins forte qu'Alt. Symbiose. N'en parle a personne |
 | 2075-2077 | Yor absorbe des IA, NetWatch capture des fragments sans rien relier. Silas travaille en solo, reputation de fantome |
-| 2077, veille du T0 | T-Bug lui demande de rester en plan B pour le braquage du Konpeki Plaza. Il y est en freelance, pas en tant que VDB, et ignore que Brigitte est au bout de la chaine du vol de la Relic |
 
 ## 5. Domiciles
 
@@ -92,7 +91,7 @@
 - Offre ses services a tous. Fixers : Mr. Hands surtout ; aussi Rogue et Regina Jones ; un peu tous les autres.
 - Reputation : fantome dans ses contrats ; sans coeur tant que la mission est remplie ; sang-froid a toute epreuve.
 - Chasses aux cyberpsychos pour Regina Jones : les vrais cyberpsychos sont des IA en corps de chair (cf. Monde/Chrome_et_Cyberpsychose.md S2bis). Yor en mange l'IA au passage. Silas livre des corps vivants, brises, sans psychose. Regina recoit des echantillons corrompus, sans savoir pourquoi.
-- T-Bug : collegue occasionnelle ; plan B au Konpeki.
+- T-Bug : collegue occasionnelle.
 
 ## 10. Langue
 
@@ -174,6 +173,7 @@ Deja au lexique de la BIBLE (SB2) : ti moun (gamin), ranyon (intermediaire jetab
 - Netrunners avances : ont pu voir la signature violette ; n'en font qu'un mythe.
 - NetWatch : ignore Silas Null. Fragments captures classes comme clones d'une IA isolee. cf. Factions/NetWatch.md S4.
 - Regina Jones : constate des livraisons propres ; ignore ce que Yor preleve.
+- A l'inverse, ce que Silas ignore : que Brigitte est au bout de la chaine du vol de la Relic. cf. Personnages/Maman_Brigitte.md S7.
 
 ## 13. Trajectoire datee
 
@@ -188,7 +188,7 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entr
 - IA/J0RMUN94ND.md ; Monde/Chrome_et_Cyberpsychose.md S2bis, S4 ; Monde/Net_et_Blackwall.md S5 ; Monde/Netrunning_2077.md.
 - Factions/Voodoo_Boys.md ; Factions/NetWatch.md ; Factions/Barghest.md ; Lieux/Pacifica_et_Dogtown.md.
 - Personnages/Silas_Null_relations_1.md ; Personnages/Silas_Null_relations_2.md ; Personnages/Wilky_LaGuerre.md ; Personnages/Maman_Brigitte.md ; Personnages/Placide.md ; Personnages/T_Bug.md ; Personnages/Kurt_Hansen.md.
-- Lieux/Sites_Arasaka.md S2 (plan B du Konpeki) ; Chronologie/Chrono_Univers.md ; Chronologie/Chrono_2077.md.
+- Lieux/Sites_Arasaka.md S2 (nuit du Konpeki) ; Chronologie/Chrono_Univers.md ; Chronologie/Chrono_2077.md.
 - Power_Scaling/Scaling_Numerique.md ; Power_Scaling/Scaling_Physique.md.
 
 ---

@@ -1,6 +1,6 @@
 # T-Bug
 
-- version : W1
+- version : W2
 
 ## 1. Identite
 
@@ -14,17 +14,16 @@
 - Pas une tete brulee : elle compte atteindre l'age de la retraite, avec assez d'eddies pour quitter Night City pour de bon.
 - Peu sociable selon Dex ; se frotte volontiers a Jackie Welles. Cite volontiers des auteurs antiques, Marc Aurele ou Aristote [source secondaire].
 
-## 3. Parcours avant le point de depart
+## 3. Parcours jusqu'au point de depart
 
 - Debut-milieu des annees 2070 : travaille en duo avec un solo, Rhino, sur des gigs a Coastview (Pacifica).
 - Travaille avec Dexter DeShawn depuis longtemps [source secondaire].
-- 2077 : fait equipe avec V et Jackie Welles. Support du sauvetage de Sandra Dorsett (vers avril 2077). cf. Personnages/Sandra_Dorsett.md S3.
-- A sa suggestion, Dex recrute V et Jackie pour le braquage de la Relic au Konpeki Plaza, pour le compte d'Evelyn Parker.
+- 2077 : fait equipe avec V et Jackie Welles. Au point de depart : support du sauvetage de Sandra Dorsett (The Rescue, vers avril 2077). cf. Personnages/Sandra_Dorsett.md S3.
+- Suite d'acte 1 (recrutement par Dex, a sa suggestion ; braquage) : cf. Chronologie/Chrono_2077.md S1bis, S2.
 
 ## 4. [DIVERGENCE RP] Silas Null
 
 - Collegue occasionnelle. Rencontres sur des forums de runners du dark net. Entre eux, les handles : elle l'appelle "Zer0".
-- Veille du T0 : elle lui demande de rester en plan B pour le Konpeki. Silas y est en freelance, pas en tant que VDB.
 - Ce qu'elle sait : un netrunner VDB en solo, fiable, tres fort. Rien de Yor.
 - Texture : cf. Personnages/Silas_Null_relations_2.md.
 

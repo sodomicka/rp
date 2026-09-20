@@ -1,19 +1,17 @@
 # Silas Null - Relations (le metier)
 
-- version : W2
+- version : W3
 
 Texture des relations de travail. Fiche mere : cf. Personnages/Silas_Null.md S9. Cercle de Yor et du clan : cf. Personnages/Silas_Null_relations_1.md.
 
 ## T-Bug
 
-- Statut : collegue occasionnelle. Au T0, elle lui demande de rester en plan B pour le braquage du Konpeki Plaza.
+- Statut : collegue occasionnelle.
 - Surnoms / adresses : entre eux, les handles. Elle l'appelle "Zer0".
 - Rituels / habitudes : ils se croisent sur le Net, rarement en chair. Support l'un de l'autre sur des contrats ou il faut deux netrunners.
-- Dynamique : respect de pros. Elle sait qu'il est meilleur qu'elle ; c'est pour ca qu'elle le veut en plan B.
+- Dynamique : respect de pros. Elle sait qu'il est meilleur qu'elle.
 - Ce que T-Bug sait : un netrunner VDB en solo, fiable, tres fort. Rien de Yor.
 - Origine de la collaboration : rencontres sur des forums de runners du dark net.
-- Evolution datee :
-  - 2077, veille du T0 : plan B du Konpeki.
 
 ## Mr. Hands
 

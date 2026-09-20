@@ -1,6 +1,6 @@
 # Maman Brigitte
 
-- version : W3
+- version : W4
 
 ## 1. Identite
 
@@ -49,7 +49,7 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entr
 ## 7. Notes de certitude
 
 - Sa ligne canon dans l'annee de V (Mosley, plongee avec V, rencontre d'Alt, sort selon les choix de V) n'est pas reproduite ici : cf. Factions/Voodoo_Boys.md S4, Chronologie/Chrono_2077.md S3.
-- Ce que Silas sait du vol de la Relic commandite par Brigitte : rien. Il est sur le Konpeki en freelance, pas en tant que VDB.
+- Ce que Silas sait du vol de la Relic commandite par Brigitte : rien.
 
 ## 8. Renvois
 

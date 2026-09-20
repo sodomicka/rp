@@ -1,6 +1,6 @@
 # V
 
-- version : W2
+- version : W3
 
 ## 1. Identite
 
@@ -24,9 +24,9 @@
 
 ## 3. Etat au point de depart (canon)
 
-- Six mois de mercenariat en duo avec Jackie. T-Bug en support ; sauvetage de Sandra Dorsett pour Wakako Okada (vers avril 2077).
-- Fin avril 2077 : Dexter DeShawn les recrute, avec T-Bug, sur suggestion de celle-ci, pour voler la Relic a Yorinobu Arasaka au Konpeki Plaza, pour le compte d'Evelyn Parker. Preparation : Flathead recupere chez Maelstrom (The Pickup, Royce mort, Brick chef), repere avec Evelyn (The Information).
-- cf. Chronologie/Chrono_2077.md S1.
+- Six mois de mercenariat en duo avec Jackie, T-Bug en support.
+- Au point de depart (ouverture de R0, vers avril 2077) : sauvetage de Sandra Dorsett pour Wakako Okada (The Rescue). cf. Personnages/Sandra_Dorsett.md S3.
+- Suite d'acte 1, avant le T0 (recrutement par Dex, The Pickup, The Information) : cf. Chronologie/Chrono_2077.md S1bis.
 
 ## 4. Liens
 
