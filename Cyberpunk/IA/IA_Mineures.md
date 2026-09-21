@@ -1,6 +1,6 @@
 # IA mineures
 
-- version : W2
+- version : W3
 
 Les IA sous le seuil des entites d'au-dela : domestiques, de service, corpo. Toutes sont nees de ce cote du mur, aucune n'est rogue au sens de 2022. Toutes sont du gibier.
 
@@ -15,12 +15,13 @@ Les IA sous le seuil des entites d'au-dela : domestiques, de service, corpo. Tou
 Ce qu'une IA gagne a en manger une autre, par ordre de rendement decroissant.
 
 - IA MANGEE : puissance de calcul, plus l'experience accumulee. Soit, au fond, de la data. C'est le repas de reference.
-- ENGRAMME MANGE : data brute. Nettement moins interessant qu'une IA, mais ce n'est pas rien.
-- Regle de J0RMUN94ND : avant de griller un humain, elle en copie une partie de l'engramme, par sa version NetWatch de Soulkiller, plutot que de le gacher. Ce n'est pas un objectif, c'est de la recuperation. cf. IA/J0RMUN94ND.md S4.
+- ENGRAMME COMPLET MANGE (vrai tueur d'ames, Soulkiller canon) : data brute. Nettement moins interessant qu'une IA, mais ce n'est pas rien.
+- COPIE PARTIELLE MANGEE (version douce NetWatch du tueur d'ames ; decision worldbuilder) : limitee a l'experience utile au netrunning, ni connaissances sociales ni le reste. Un peu de puissance de calcul, rien de plus ; rien d'appris, aucune information n'en sort. cf. IA/J0RMUN94ND.md S4.
+- Regle de J0RMUN94ND : avant de griller un humain, elle en copie une partie de l'engramme, par cette version douce, plutot que de le gacher. Ce n'est pas un objectif, c'est de la recuperation. La copie ne tue pas par elle-meme.
 - Hierarchie de table : entites d'au-dela > IA corpo apprenantes > IA de service > ICE et daemons > engrammes.
 - Jargon de Silas : les IA de service sont des amuse-bouches, les ICE et daemons du menu fretin.
 - J0RMUN94ND veut TOUT. L'absence de valeur nutritive d'une proie ne la sort pas de la liste.
-- Reservoirs d'engrammes dans le focus : l'engramme de Johnny Silverhand, porte par la Relic ; Mikoshi. cf. Lieux/Sites_Arasaka.md S3, BIBLE SB7.
+- Reservoirs d'engrammes complets dans le focus : l'engramme de Johnny Silverhand, porte par la Relic ; Mikoshi. cf. Lieux/Sites_Arasaka.md S3, BIBLE SB7.
 
 ## 3. Delamain
 

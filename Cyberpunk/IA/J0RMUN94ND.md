@@ -1,6 +1,6 @@
 # J0RMUN94ND
 
-- version : W5
+- version : W6
 
 ## 1. Identite
 
@@ -23,7 +23,7 @@
 - A survecu aux gros poissons du vieux Net. Alt Cunningham l'a croisee et a FAILLI L'ABSORBER : Yor, nettement depassee, a fui a temps. Date de la rencontre : avant 2075 [INCERTAIN]. cf. IA/Alt_Cunningham.md S4.
 - 2075 : Silas Null perce le mur, la rencontre, la fait passer de l'autre cote. Environ 31 ans derriere le mur (2044 -> 2075).
 - Calibre avant 2075 : inferieur a celui d'Alt, par anciennete. Alt est numerisee en 2013, Yor creee dans les annees 2040 : environ 31 ans d'ecart d'accumulation.
-- Rattrapage : apres la rencontre, elle absorbe des IA dans le vieux Net ; depuis 2075, via Silas : IA du nouveau Net, dont celles des vrais cyberpsychos (S7), et data d'engrammes (S4). Assez pour renverser la hierarchie : au point de depart, Alt est a peine sous elle. cf. Power_Scaling/Scaling_Numerique.md.
+- Rattrapage : apres la rencontre, elle absorbe des IA dans le vieux Net ; depuis 2075, via Silas : IA du nouveau Net, dont celles des vrais cyberpsychos (S7), et copies partielles d'engrammes, pour un peu de puissance de calcul (S4). Assez pour renverser la hierarchie : au point de depart, Alt est a peine sous elle. cf. Power_Scaling/Scaling_Numerique.md.
 
 ## 3. Nature et paradigme
 
@@ -40,7 +40,7 @@
 
 - Quickhacks de niveau Blackwall, sans deck ni Blackwall Gateway. cf. Monde/Netrunning_2077.md S2.
 - Absorption d'IA : assimilation complete, aucun survivant individuel.
-- Soulkiller NetWatch : version NetWatch du tueur d'ame, heritee du projet AI_Devourer. NetWatch l'a perdue avec le projet ; elle seule la possede. Version douce : copie PARTIELLE de l'engramme d'un humain, limitee a l'experience utile au netrunning ; ni connaissances sociales, ni le reste. Mangee, elle donne de quoi tirer un peu de puissance de calcul, rien de plus (decision worldbuilder). La copie ne tue pas par elle-meme (decision worldbuilder) : Yor copie, puis la cible est grillee ou non. Strategie appliquee avec Silas : copier avant de griller plutot que gacher. Nom de l'outil [INCERTAIN]. Soulkiller canon : cf. Lieux/Sites_Arasaka.md S3.
+- Soulkiller NetWatch : version NetWatch du tueur d'ame, heritee du projet AI_Devourer. NetWatch l'a perdue avec le projet ; elle seule la possede. Version douce : copie PARTIELLE de l'engramme d'un humain, limitee a l'experience utile au netrunning ; ni connaissances sociales, ni le reste. Mangee, elle donne de quoi tirer un peu de puissance de calcul, rien de plus ; rien d'appris, aucune information n'en sort (decisions worldbuilder). Un engramme COMPLET demande le vrai tueur d'ames ; rendement compare : cf. IA/IA_Mineures.md S2. La copie ne tue pas par elle-meme (decision worldbuilder) : Yor copie, puis la cible est grillee ou non. Strategie appliquee avec Silas : copier avant de griller plutot que gacher. Nom de l'outil [INCERTAIN]. Soulkiller canon : cf. Lieux/Sites_Arasaka.md S3.
 - Fragmentation en signatures discretes et regeneration depuis le noyau.
 - Signature : filaments violets, autour de Silas quand il hacke par elle et sur ses fragments ; visibles des seuls netrunners avances ; vague, un mythe. cf. Personnages/Silas_Null.md S7.
 - Traversee du mur : etablie dans le sens vieux Net -> nouveau Net, en 2075, par la breche de Silas.

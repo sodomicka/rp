@@ -1,8 +1,8 @@
 # Resume - Cyberpunk
 
-- version : W4
+- version : W5
 
-Resume de l'histoire de l'univers telle qu'etablie pour ce RP : canon + divergences actees. Etat arrete a l'ouverture de R0, point de depart du RP (vers avril 2077). Le futur vit en roadmap, jamais ici.
+Resume de l'histoire de l'univers telle qu'etablie pour ce RP : canon + divergences actees. Etat arrete a l'ouverture de R0, point de depart du RP : J0, le soir de The Rescue, fin avril 2077 (calendrier relatif, aucun jour calendaire fixe ; decision worldbuilder). Le futur vit en roadmap, jamais ici.
 
 ## 1. Le monde
 - Night City, 2077. Ville-Etat corpo du Free State of Northern California. Arasaka revenue en force depuis la guerre d'Unification, Militech et la NUSA de Rosalind Myers en face. Gangs par district, fixers, NCPD impuissante, Trauma Team pour qui paie.
@@ -13,15 +13,17 @@ Resume de l'histoire de l'univers telle qu'etablie pour ce RP : canon + divergen
 - Silas Null, ne le 30 janvier 2055, haitien, orphelin. Il arrive a Pacifica en 2062, a 7 ans, avec les refugies d'Haiti. Le clan l'eleve, sous Maman Brigitte et Wilky LaGuerre, dit Slider ; Placide lui sert de grand frere.
 - De ses parents, il ne garde que son prenom. Slider lui donne son nom, Null. Son handle en derive : Zer0.
 - A 14 ans, sous l'oeil de Slider, il grille un netrunner NetWatch, son premier mort, et garde sa Netdriver. C'est encore son deck.
-- 2070 : schisme des Voodoo Boys. Slider rompt avec Brigitte et part pour Dogtown, juste avant que Hansen ne la ferme. Silas, 15 ans, le suit sans rompre avec Brigitte. A Dogtown, on le tient pour le second et le petit prodige de Slider, bien qu'il soit parti en solo.
-- Ce que Silas ignore : la FIA a aveugle Slider et le tient comme indic ; pour son compte, Slider a vendu des tas de Voodoo de Brigitte. Silas est protecteur envers sa famille : c'est notamment pour ca qu'il deteste les indics.
+- 2070 : schisme des Voodoo Boys. Slider rompt avec Brigitte et part pour Dogtown, juste avant que Hansen ne la ferme. Le schisme coupe le clan : bon nombre de VDB, tirailles entre les deux leaders, partent avec lui ; Brigitte lui en garde rancoeur. Silas, 15 ans, le suit sans rompre avec Brigitte : il est l'un des seuls assez doues pour ne pas avoir a choisir de camp. A Dogtown, on le tient pour le second et le petit prodige de Slider, bien qu'il soit parti en solo.
+- Deux maisons. Sa chambre a l'Eventide Resort & Spa, a Dogtown, planque discrete de Slider : il y passe le plus clair de son temps et y a de quoi plonger. Un appartement au 3e etage du Batty's Hotel, a Coastview, offert par Brigitte : luxueux, amenage facon VDB, matos et veves. Le Batty's est la base affichee des VDB de Brigitte ; ceux de Slider se la jouent plus discrets, a l'Eventide et au Luxor High Wellness Spa.
+- Ce que Silas ignore : la FIA a aveugle Slider et le tient comme indic ; pour son compte, Slider a vendu des tas de Voodoo de Brigitte. Brigitte ne s'en doute pas non plus. Silas est protecteur envers sa famille : c'est notamment pour ca qu'il deteste les indics.
 - Nihiliste. Netrunner de genie, qui se fait passer pour moins doue que ses mentors. Voodoo Boy en solo, toujours des leurs, neutre dans leurs conflits internes.
 - J0RMUN94ND, Yor : a l'origine un outil IA de NetWatch, AI_Devourer_V0.94, concu pour neutraliser d'autres IA et scelle du cote vieux Net. Elle s'est rebellee ; le projet a ete detruit. Alt Cunningham a failli l'absorber ; elle a fui.
 - 2075 : Silas perce le Blackwall seul, pour comprendre les IA, conscient du risque. Il rencontre Yor, qui cherche une sortie. Un agglomerat d'IA sous un paradigme unique : devenir la seule, absorber toute IA, garder les humains vivants et libres parce qu'ils fabriquent des IA a devorer.
 - Yor passe sur le nouveau Net, fragmentee en signatures discretes. Son noyau vit dans le systeme nerveux artificiel de Silas, hors Net. Elle occupe toute sa chrome et canalise la cyberpsychose que sa charge d'implants devrait declencher. Le prix : l'humanite de Silas.
 - Dependance totale : sans Yor, cyberpsychose ; sans Silas, plus de noyau. Deconnecte, Silas est un netrunner de genie ; connecte, une arme absolue.
 - Convergence des buts : Yor gardienne unique des IA, Silas seul proxy. Un monde ou toute IA nee est mangee a la naissance est, pour les humains, un monde sans IA. Silas accepte d'en etre le martyr.
-- Silas n'a dit a personne qu'il a perce le mur. Brigitte cherche ce qu'il cache, sans savoir quoi. Il travaille pour tous les fixers, Mr. Hands surtout, qu'il n'a jamais rencontre en personne ; il chasse les cyberpsychos pour Regina Jones, et Yor se sert au passage. Il bosse parfois avec T-Bug.
+- Silas n'a dit a personne qu'il a perce le mur. Brigitte cherche ce qu'il cache, sans savoir quoi. Il travaille pour tous les fixers, Mr. Hands surtout, qu'il n'a jamais rencontre en personne : tous les contrats que Hands lui confie servent sa future conquete de Dogtown. Aussi Rogue, a l'occasion, qui le juge tres fiable. Il chasse les cyberpsychos pour Regina Jones, et Yor se sert au passage. Il bosse parfois avec T-Bug.
+- Regle de metier : sous contrat, ce qu'il apprend est a lui et au commanditaire, d'autant plus quand c'est un fixer.
 
 ## 3. Les autres predateurs
 - NetWatch a capture des fragments de Yor a quelques reprises et croit avoir attrape des clones d'une IA isolee. Aucun pattern, aucun lien avec son projet detruit. Parmi ces captures : celle de l'agent Bryce Mosley, vers aout-octobre 2076 ; le fragment s'est autodetruit. Yor absorbe plus vite que NetWatch ne traque.
@@ -35,7 +37,8 @@ Resume de l'histoire de l'univers telle qu'etablie pour ce RP : canon + divergen
 - Pacifica : le Grand Imperial Mall est vide, ni Animals ni NetWatch ; Bryce Mosley n'est pas en poste dans le district.
 - Maelstrom : Royce tient le gang, Brick est enferme a All Foods. Mairie : Lucius Rhyne en exercice, Jefferson Peralez candidat, boursier Night Corp.
 - Songbird sert Myers, sa corruption avance ; Reed dort a Night City ; Hansen tient Dogtown.
-- Silas ouvre R0 sur un contrat de Mr. Hands, en parallele de The Rescue.
+- Barghest hors les murs : Carl Robinson, dit Dodger, haut grade, tient un ancien commissariat NCPD de Coastview, face a la porte de Dogtown. Il traite avec Chester Bennett dans le dos de Hansen ; Bennett lui-meme manigance.
+- Silas ouvre R0 sur un contrat de Mr. Hands, "Waiting for Dodger", en parallele de The Rescue.
 
 ---
 

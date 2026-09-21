@@ -1,6 +1,6 @@
 # Sommaire - Cyberpunk
 
-- version : W18
+- version : W21
 
 ## WIKI
 
@@ -11,7 +11,7 @@
 > - AU BIBLE BUILD : toute page relivree incremente son `W<N>` et son entree au Sommaire est mise a jour DANS LE MEME BUILD. C'est ici que se solde un `[VERSION DECALEE]` remonte en jeu. Cf. Instructions Wiki, MODE OUTIL - BIBLE + WIKI.
 
 ### Racine
-- Resume.md (W4) - resume de l'histoire etablie, canon + divergences, arrete a l'ouverture de R0 (etats d'avril, implications de noyau du garde-cap)
+- Resume.md (W5) - resume de l'histoire etablie, canon + divergences, arrete a l'ouverture de R0 (J0 ; etats d'avril, implications de noyau du garde-cap, schisme et clan coupe, deux maisons de Silas, regle de metier, Dodger et Bennett)
 
 ### Monde/
 Description : regles du monde, Net, Blackwall, netrunning, chrome, cadre de Night City.
@@ -43,11 +43,11 @@ Description : chronologie condensee de l'univers et colonne vertebrale de 2077.
 
 ### IA/
 Description : entites numeriques du focus. Fiches noyau, Passe 1.
-- J0RMUN94ND.md (W5) - origine NetWatch (AI_Devourer_V0.94), rebellion, nom et graphie, paradigme, noyau et fragments, signature violette, Soulkiller NetWatch (version douce : experience de netrunning seulement, la copie ne tue pas), avatar, symbiose avec Silas, cibles, chasse aux cyberpsychos
+- J0RMUN94ND.md (W6) - origine NetWatch (AI_Devourer_V0.94), rebellion, nom et graphie, paradigme, noyau et fragments, signature violette, Soulkiller NetWatch (version douce : experience de netrunning seulement, rien d'appris, la copie ne tue pas), avatar, symbiose avec Silas, cibles, chasse aux cyberpsychos
 - Alt_Cunningham.md (W3) - Soulkiller, 2013, entite du vieux Net, contact des Voodoo Boys, etalon de taille, Yor en fuite puis hierarchie renversee
 - Lilith.md (W6) - Queen Lilith, derriere le mur au point de depart, invocation Maelstrom et Zaria Hughes pendant l'ellipse, dixieme cercle, esthetique satanique, cible de Yor
 - Entites_du_Blackwall.md (W4) - taxonomie canon des IA, Transcendentaux et Fantomes, entites de Cynosure, Cerberus, population anonyme, index des entites nommees
-- IA_Mineures.md (W2) - economie de l'appetit, Delamain, Skippy, Brendan, CN-07, ICE et daemons, braindances hors perimetre
+- IA_Mineures.md (W3) - economie de l'appetit (engramme complet = data brute ; copie partielle = un peu de puissance de calcul), Delamain, Skippy, Brendan, CN-07, ICE et daemons, braindances hors perimetre
 
 ### Personnages/
 Description : fiches neutres, canon et OC promus au lore. Passe 1 : 14 fiches + 2 satellites ; Passe 2, boucle R0 : 2 fiches ; boucle R1 : 1 fiche.
@@ -84,7 +84,7 @@ Description : fiches de narration par arc (trame + bible de l'etape : Deroule au
 
 > ROADMAPS NON INDEXEES EN JEU (v8.2). Le dossier `Roadmap/<Prota>/` n'est PLUS liste au Sommaire. Les roadmaps restent physiquement au repo - ce sont des SOURCES DE BUILD (matiere premiere des fiches d'arc), lues en mode Wiki en listant directement le dossier `Roadmap/<Prota>/` (cf. ACCES GITHUB), jamais via le Sommaire. En jeu (RP), le MJ ne fetch jamais de roadmap : il navigue d'arc en arc par les fiches, et tient le fil long via le CODEX ANNEXE_CHRONO.
 
-> GARDE-CAP, EXCEPTION DE BUILD (decision worldbuilder). `Roadmap/Silas/00_Garde_Cap.md` (W5) : saga de Silas de R0 a R15, ordre des cibles, dispatch des Tchekhov, branches canon fixees, points parques. A lire en OUVERTURE de chaque thread de Passe 2. SOURCE DE BUILD UNIQUEMENT : jamais fetche en narration. Pointeur a RETIRER a la bascule jeu (SETUP).
+> GARDE-CAP, EXCEPTION DE BUILD (decision worldbuilder). `Roadmap/Silas/00_Garde_Cap.md` (W6) : saga de Silas de R0 a R15, ordre des cibles, dispatch des Tchekhov, branches canon fixees, points parques. A lire en OUVERTURE de chaque thread de Passe 2. SOURCE DE BUILD UNIQUEMENT : jamais fetche en narration. Pointeur a RETIRER a la bascule jeu (SETUP).
 
 > JOURNAL D'IMPLICATIONS NON INDEXE. `Cyberpunk/_Implications.md` est un document de travail du build, jamais fetche en narration.
 

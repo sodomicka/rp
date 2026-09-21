@@ -1,6 +1,6 @@
 # 00_Garde_Cap - saga de Silas Null
 
-- version : W5
+- version : W6
 - dossier : Roadmap/Silas. Cite au Sommaire pour la duree de la Passe 2 (decision worldbuilder) ; les roadmaps, elles, restent non indexees.
 - nature : SOURCE DE BUILD UNIQUEMENT, jamais fetche en narration. Briefing dicte par le worldbuilder. Le MJ a confronte au lore et au canon ; rien n'a ete comble.
 - role : garder le cap de la Passe 2. Charge en ouverture de chaque thread de roadmap, mis a jour en cloture.
@@ -112,6 +112,7 @@ Lilith (R2) -> cellule NetWatch de Mosley (R3, hors liste) -> console de Bartmos
 ## Dispatch des Tchekhov (BIBLE SB8)
 - Trahison de T-Bug : R1. Relic et Brigitte commanditaire : R3. Mosley : R3.
 - Ce que Brigitte cherche : R6, issue alliance. LaGuerre indic FIA : R7.
+- Eclat Dodger / Bennett : plante en R0 (Silas le passe a Hands, quelle que soit la branche) ; pese sur l'apres-Hansen, R8 et R12 (decision worldbuilder : fil ouvert en SB8).
 - Ping de Bartmoss : R9 (Yor prend la console ; Bartmoss ne recupere pas sa puissance). Silas au-dessus de Cynosure : R11.
 - Piege de la Lune : desamorce (branche Reed). Clones de Yor : NetWatch tente un confinement, trop tard (R15).
 - Election Peralez : conditionnement defait apres R13. Fin de V : R14.
@@ -132,6 +133,7 @@ Lilith (R2) -> cellule NetWatch de Mosley (R3, hors liste) -> console de Bartmos
 - R6, R8 : choix des 4 contrats de Hands. Canon restant : Two Wrongs Makes Us Right, Dogtown Saints, Heaviest of Hearts, Prototype in the Scraper, Roads to Redemption, Spy in the Jungle, Talent Academy, The Man Who Killed Jason Foreman, Treating Symptoms. Critere : les plus lies a Hands marionnettiste de Dogtown.
 - R6, R8 : "Treating Symptoms" vise en canon le QG des VDB de Dogtown (Luxor High Wellness Spa), site VDB dans le RP aussi ; a peser pour un Silas VDB.
 - R7 ou apres : moment ou Silas revele a Brigitte que Slider etait un indic.
+- R8, R12 : usage exact de l'eclat Dodger / Bennett dans l'apres-Hansen.
 - R2 : l'appel de fin de R1 et le contrat de Rogue tombent tous deux a J11 : meme appel ou non. Mort de Rhyne et rituel Maelstrom, non dates dans l'ellipse : a situer par rapport a J11, R1 couvrant deja J4 -> J11.
 - R3 ou apres : moment ou V apprend de Silas lui-meme qu'il couvrait T-Bug au Konpeki.
 - R9 : lieu du caisson, maniere d'atteindre la console.
