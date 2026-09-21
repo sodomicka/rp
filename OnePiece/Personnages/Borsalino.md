@@ -1,6 +1,6 @@
 # Borsalino (Kizaru)
 
-- version : W3
+- version : W4
 
 FRONTIERE DU NOYAU : veille de Sabaody (an 0), premiere entree en scene face aux jumelles. Tout le posterieur : strate Trajectoire.
 PERIMETRE : ecartes - Zephyr et la formation commune avec Sakazuki (Film Z, non canon).
@@ -28,14 +28,14 @@ PERIMETRE : ecartes - Zephyr et la formation commune avec Sakazuki (Film Z, non 
 - Vegapunk - l'ami de longue date ; il l'a laisse etudier son fruit (d'ou les lasers des Pacifista).
 - Sentomaru - le garde du corps de Vegapunk, recueilli enfant lors d'une mission avec le savant ; le "petit" qu'il traine et qui l'appelle "Kizaru l'oncle" en tempetant. Hache, Haki de l'Armement ("Ashigara Dokkoi"). Il commande les PX. [silhouette portee par cette fiche]
 - Pacifista - les cyborgs a l'image de Kuma, armes de sa lumiere.
-- Arlong - capture par lui an -13.
+- Arlong - capture par lui an -10.
 - Jumelles Nico - aucun lien. Il connait leurs avis. Echelle de savoir Ohara (BIBLE SB1) : il est au SECRET - il sait pourquoi l'ile a brule. Decision worldbuilder : aucun beat ne le relie aux jumelles ; c'est un fait de fiche, pas une scene.
 
 ## Histoire (noyau, <= veille de Sabaody)
 - an -56 : naissance, North Blue.
 - an -25 : vice-amiral au QG avec Garp et Sengoku, face au probleme Roger / Shiki [canon ch. 0].
 - Puis : mission aupres de Vegapunk, rencontre de Sentomaru ; le fruit etudie [dates : INCERTAIN].
-- an -13 : capture Arlong sur l'ile de Koala apres la mort de Fisher Tiger [grade a l'epoque : INCERTAIN].
+- an -10 : capture Arlong, venu seul massacrer le village de Koala apres la mort de Fisher Tiger ; vice-amiral [resume de l'episode 544 ; planche ch. 623 a verifier] [chrono recalee au build R10 : W3 portait an -13 ; reference : fiche Fisher_Tiger].
 - Amiral [date : INCERTAIN]. Apprend en accedant au grade le vrai motif du Buster Call d'Ohara (BIBLE SB1).
 - an 0 : un Dragon Celeste frappe a Sabaody ; il se propose a Sengoku - "je n'en aurai pas pour longtemps".
 
@@ -47,6 +47,7 @@ PERIMETRE : ecartes - Zephyr et la formation commune avec Sakazuki (Film Z, non 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | an 0 (R8 - Sabaody) [canon] | Debarque au Grove 27 debout sur un boulet de canon ; cherche Sentomaru ; rase une mangrove d'un coup de pied de trop ; bat Hawkins (coups transferes aux poupees), Apoo (qui lui coupe un bras de lumiere, en vain), Drake et Urouge. Grove 12 : Zoro a l'agonie, Usopp et Brook impuissants - Pika Pika no Mi revele ; Rayleigh devie son coup de pied, duel au sabre de lumiere, joue entaillee ; Kuma disperse l'equipage sous ses yeux - il demande, Kuma l'ignore. Sentomaru [silhouette] : Luffy blesse a mains nues (Ashigara Dokkoi), PX-1 a ses cotes (PX-4 detruit par l'equipage). AUCUN contact avec les jumelles [decision worldbuilder : canon pur] | Mission a moitie faite : le petit-fils de Garp lui echappe par Kuma ; les quatre Supernovae du Grove 24 tombes |
+| an +2 (R10 - Sabaody) [canon + dicte] | Sentomaru [silhouette] debarque du G-1 avec PX-5 et PX-7 sur les faux Chapeaux de Paille ; PX-5, qui vise Luffy, ecrase par les jumelles entre un pilier de graphene et une Gigantesco Mano [DIVERGENCE RP - canon : Luffy] ; PX-7 tranche par Zoro et Sanji ; Rayleigh trace sa ligne. Borsalino hors scene | Sentomaru bredouille |
 
 ---
 

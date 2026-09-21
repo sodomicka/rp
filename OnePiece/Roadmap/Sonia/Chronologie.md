@@ -1,6 +1,6 @@
 # Chronologie des roadmaps - Sonia / Jumelles d'Ohara
 
-- version : W16
+- version : W17
 - convention de nommage (actee) : chaque roadmap porte le nom du LIEU ou de l'etape de son arc. Exception acceptee : Baroque Works (R3).
 - indexation (tranchee thread 12) : le garde cap SEUL est indexe au Sommaire ; les roadmaps individuelles restent hors Sommaire, listees ici.
 - prota / POV : Nico Sonia (les jumelles, jamais separees).
@@ -14,6 +14,7 @@
 - Execution de Roger : an -22.
 - Attaque de Barbe Noire sur Drum : an 0, environ 2-3 mois avant l'arrivee des Mugiwara a Drum [canon verifie] - donc anterieure a Whiskey Peak. Fenetre de la livraison Wapol : cf. R4.
 - Casting Marine de R4 (fiches NOYAU) : Smoker 34 ans an 0 (ne an -34, 12 ans a l'execution de Roger, 14 ans au Buster Call) ; Tashigi 21 ans an 0 (nee an -21, soit UN AN APRES le Buster Call). Portgas D. Ace : 20 ans an 0 (ne an -20, trois ans de plus que Luffy).
+- Fisher Tiger (chrono recalee au build R10, fiche Fisher_Tiger) : retour a l'ile an -14, raid de Mary Geoise an -13, mort an -10 (Koala 11 ans), Jinbe Corsaire et Arlong relache an -9, Otohime abattue an -8. REGLE : les "il y a N ans" du canon se comptent depuis le present post-ellipse (an +2) - an = 2 - N.
 
 ## Fils flottants (sans arc attitre)
 - (aucun) - Carnet rouge rattache a R14, cf. section R14.
@@ -85,15 +86,19 @@
 - Detonations : fil Dragon ; bras de Sonia ; Crocodile libre (seconde fois).
 - Fichier : Roadmap_9_Baltigo.md
 
-## R10 - Hommes-Poissons [A BUILDER]
-- Bornes : retrouvailles a Sabaody (an +2) -> depart de l'Ile des Hommes-Poissons.
-- Jalons : premiere rencontre des jumelles avec Jinbe (frontiere actee).
-- Retombee R7/R8 : le Haki a ete revele a l'equipage chez Shakky (R8, fin du "Haki tu") - l'ancien [A POSER] "revelation du Haki des jumelles aux Mugiwara" est SANS OBJET ; en R10, l'equipage revient de l'ellipse avec le sien, et les jumelles avec l'Armement (R9).
-- Retombees R9 : les jumelles DEBARQUENT A SABAODY AVEC SANJI (Koala les depose et repart) - l'ordre canon des retrouvailles bouge ; le journal du Sunny REPREND, avec des INTERVIEWS d'ellipse : chaque Mugiwara y raconte ses deux ans (decision worldbuilder - aucune ellipse d'equipage roadmappee ni versee en fiche avant) ; Kuma gardien du Sunny : appris ici ; les jumelles reviennent avec l'Armement, le karate des hommes-poissons, le bras a volonte et le lancer, le Demonio recouvert de Haki ; Robin sans frange ; Koala et les Pirates du Soleil : Jinbe connait l'enfant que Tiger a ramenee - les jumelles connaissent l'adulte.
+## R10 - Hommes-Poissons [ECRITE ; BOUCLE CLOSE]
+- Bornes : debarquement a Sabaody, jour J (an +2, 30 ans) -> le Sunny creve la surface du Nouveau Monde [borne de sortie DEPLACEE au build : la remontee porte la seconde moitie des interviews et la morsure Crocodile ; aucun jour de mer dans l'arc].
+- Detail complet : cf. Roadmap_10_Hommes_Poissons.md - itineraire en 7 etapes par lieu (POV jumelles strict), sections dictees (Sabaody ; le journal - les interviews d'ellipse ; Den ; Jinbe - la rencontre ; le recit de Jinbe ; la stele et Neptune ; la place Gyoncorde ; Crocodile - la morsure ; Sabo - le silence), ellipse preparee (la ville), toile de fond hors POV, notes de frontiere.
+- Jalons cles (ordre chrono) : Sabaody - debarquement a trois, bar de Shakky (ordre des retours, rien sur Kuma), Zoro sur la cote (le secret a quatre au complet, sans un mot), PX-5 ECRASE par les jumelles sous les yeux de Luffy (pilier de graphene, Gigantesco Mano), PX-7 par Zoro et Sanji ; descente - LE JOURNAL REPREND en deux moities : Franky (la garde de Kuma), les jumelles (le PACTE DIT sans Nika, "il a fait son choix", KOALA nommee, Sabo tu), Sanji, Usopp ; Caribou au tonneau, Kraken, Hammond ; l'ile - Franky repeche les deux, l'info du poneglyphe, le fish-bus ; Foret Marine - Den (les lettres de Kokoro, sans noms), JINBE AVANT LUFFY (a genoux, merci pour Marineford ; "une amie commune"), l'aveu sur Arlong face a Nami, LE RECIT (Tiger corrige, KOALA en echo, Jinbe comprend), le soleil en lecture privee, LA STELE de Joy Boy a la fin du recit ; Gyoncorde - le char d'Hammond (esclaves liberes), la vitrine (karate, bras, lancer, Armement), DEMONIO RETENU, le sang de Jinbe ; Ryugu - apartes Jinbe (Koala, l'Armee) et Neptune (la promesse, Poseidon = Shirahoshi, "quelqu'un viendra" - second indice), la stele au carnet rouge, Big Mom, le Log Pose a trois aiguilles, le petit doigt ; remontee - Zoro (Mihawk, pas une ordure), Nami, Chopper, Brook, LUFFY : "mes compagnons d'evasion" - Crocodile, la pause (Sonia et Robin, Nami qui devine ; Sanji a Luffy : allie de circonstance), le "reste" (grand frere protecteur), Sabo nomme mort, le silence tenu ; surface.
+- Divergences actees au build : PX-5 aux jumelles (Luffy n'a rien a prouver) ; fausse Sonia ; bar de Shakky a trois ; Franky repeche les deux ; rencontre de Jinbe AVANT Luffy ; jumelles presentes au recit ; stele a la fin du recit ; Demonio retenu jusqu'a Black Maria ; Nami devine la cage ; Sanji dans la confidence Sabo (depuis Baltigo) ; chrono Tiger recalee (an = 2 - N).
+- Fiches : NOYAU creees - Fisher_Tiger, Shirahoshi, Neptune_Otohime, Hody_Jones_Vander_Decken ; Jinbe rebuild (chrono Tiger) ; Trajectoires de tout l'equipage (Jinbe compris), de Kuma et de Crocodile deportees en satellites chrono_01.
+- Detonations : Crocodile libre (troisieme fois, statut ARME R14) ; pacte Kuma dit ; foi Nika - second indice engrange, rien ne detone.
+- Silhouettes actees, sans fiche : Den (fiche Tom_Kokoro), Hatchan, Camie, Pappag, Duval, Shyarly, Caribou et Mohmoo, Sentomaru (fiche Borsalino), PX-5, PX-7, Demalo Black et les faux (fausse Robin, fausse Sonia), Splash et Splatter, Fukaboshi, Ryuboshi, Manboshi et les ministres (fiche Neptune_Otohime), Megalo (fiche Shirahoshi), Hyouzou, Dosun, Zeo, Daruma, Ikaros Much, Hammond, Wadatsumi (fiche Hody_Jones_Vander_Decken), le Kraken (Surume), Pekoms, Tamago, Big Mom (voix).
 - Fichier : Roadmap_10_Hommes_Poissons.md
 
 ## R11 - Punk Hazard [A BUILDER]
-- Bornes : entree dans le Nouveau Monde -> depart de Punk Hazard.
+- Bornes : le Sunny a la surface du Nouveau Monde (sortie R10) -> depart de Punk Hazard ; l'appel de detresse ouvre l'arc.
+- Retombees R10 : le duel des deux amiraux su par Jinbe, sans nom d'ile [CANON SUPPOSE, ch. 650] - l'ile du duel reconnue ici ; Demonio toujours retenu (premiere sortie R14).
 - Jalons : trame canon suivie par defaut ; AU a poser au build ; retrouvailles Smoker/Tashigi (fiches NOYAU creees a la boucle R4) - premieres depuis le relink d'Alubarna ; regle de direction Zoro (actee R5) : il salue Law qui tranche Vergo sans hesiter.
 - Fichier : Roadmap_11_Punk_Hazard.md
 
@@ -102,6 +107,7 @@
 - Jalons : trame canon suivie par defaut ; AU a poser au build ; detonation du Tchekhov "Miroir Viola" (plant R3) - rencontre de Viola, confidence de Sonia sur l'arrangement (cercle du secret etendu, acte R3) ; regle de direction Zoro (actee R5) : meme reproche - Doflamingo laisse en vie.
 - [A POSER] : modalites de la rencontre et de la confidence ; consequence de la detonation.
 - Retombee R9 : Sabo, Koala et Hack a Dressrosa sont des RETROUVAILLES pour les jumelles (deux ans a Baltigo), pas une rencontre ; Sabo retrouve Luffy.
+- Retombees R10 : SABO - silence tenu (motif dicte : Sabo veut faire lui-meme la surprise a son frere ; elles ne voudraient pas apprendre pareille chose d'une autre bouche que celle de leur moitie) ; Sanji dans la confidence ; Luffy l'a nomme mort a l'antenne. ARRANGEMENT - Nami a DEVINE la cage (R10, garde-fous) : Viola reste la premiere confidence DITE.
 - Fichier : Roadmap_12_Dressrosa.md
 
 ## R13 - Zou [A BUILDER]
@@ -113,6 +119,7 @@
 - Bornes : arrivee a Wano -> liberation de Wano.
 - Jalons : infiltration des DEUX jumelles en geisha (dicte) ; Gear 5 revele - detonation du fil Foi Nika (indice engrange R5 : la danse au feu de camp shandia, dansee avant qu'on la lui montre) ; CARNET ROUGE (dicte) : APRES la revelation du fruit de Luffy et AVANT Egghead, dans la traversee Wano -> Egghead, les jumelles revelent le CONTENU du carnet a l'equipage - detonation du fil SB8, fin du secret le plus dangereux a bord.
 - [A POSER] : reaction des jumelles a la revelation ; gestion du secret Nika vis-a-vis de l'equipage (la revelation du carnet en est une reponse - ordre des deux a poser) ; BORNE DE SORTIE : etendre R14 a la traversee vers Egghead pour porter la revelation du carnet, ou l'ouvrir en tete de R15.
+- Retombees R10 : DEMONIO FLEUR retenu depuis Baltigo - premiere sortie face a Black Maria (dicte). FIL CROCODILE LIBRE ARME : la Cross Guild redore un peu son blason - elle fait le tri dans la Marine, retourne le concept de prime que les jumelles ont craint des annees, s'allie a Mihawk, que Zoro leur a fait connaitre comme pas une ordure (interview R10) - direction actee, a cadrer a la boucle. NOTE MJ (canon) : la Guilde tarife au grade, elle ne trie pas ; T-Bone, epargne en R6, est tue par un civil qu'elle recompense (ch. 1082, pendant Egghead) - a traiter aux boucles R14/R15. FOI NIKA : second indice engrange en R10 ("quelqu'un viendra tenir la promesse", Neptune). JINBE embarque a Wano (route des jumelles).
 - Fichier : Roadmap_14_Wano.md
 
 ## R15 - Egghead [A BUILDER - horizon de couverture]

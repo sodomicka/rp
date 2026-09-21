@@ -1,6 +1,6 @@
 # Silvers Rayleigh
 
-- version : W4
+- version : W5
 
 FRONTIERE DU NOYAU : rencontre avec l'equipage, Sabaody (an 0). Tout le posterieur : strate Trajectoire.
 PERIMETRE : revelations post-Egghead (arc Elbaf : details de God Valley, enlevement de Shakky) HORS PERIMETRE, non importees.
@@ -58,6 +58,7 @@ PERIMETRE : revelations post-Egghead (arc Elbaf : details de God Valley, enlevem
 | an 0 (R8 - Grove 12) [canon] | Sauve Zoro de Kizaru : coup de pied a l'ARMEMENT qui devie la lumiere - "ne cueillez pas les jeunes pousses, leur ere commence" ; duel sabre contre sabre de lumiere, la joue de l'amiral entaillee - sous les yeux des jumelles : l'Armement sur un Logia, lisible. Kuma lui murmure quelque chose en passant (contenu hors POV, posterieur a l'arc) | Reste sur l'archipel, l'equipage disperse ; le Sunny a coater sans equipage |
 | an 0 (R9 - Amazon Lily, Marineford) [canon, hors POV] | Rejoint Luffy a Amazon Lily a la nage ; lui propose deux ans d'entrainement ; l'accompagne a Marineford pour la cloche et le message 3D2Y | Maitre de Luffy |
 | an 0 -> an +2 (R9 - Rusukaina, puis Sabaody) [canon, hors POV] | Un an et demi a Rusukaina a former Luffy aux trois formes ; retour a Sabaody, pres de Shakky ; le Sunny sous son patronage (BIBLE SB6) | Present au retour (R10) |
+| an +2 (R10 - Sabaody) [canon + dicte] | Au bar avec Shakky, recoit Sanji et les jumelles : un an et demi a former Luffy, pas revu depuis six mois ; RIEN sur Kuma [defaut acte : la revelation est a Franky]. Trace une ligne devant les Marines pour couvrir le depart ; au Sunny, lecon de coating a Nami | Le Sunny rendu a son equipage |
 
 ---
 

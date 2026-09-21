@@ -1,6 +1,6 @@
 # Franky (Cutty Flam)
 
-- version : W5
+- version : W6
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= ouverture de l'arc Water 7 (an 0).
 Hors perimetre : toute revelation post-Egghead sur ses origines (arc Elbaf, canon en cours) - la fiche s'arrete aux faits etablis jusqu'a Egghead.
@@ -42,12 +42,7 @@ Hors perimetre : toute revelation post-Egghead sur ses origines (arc Elbaf, cano
 - Spandam - l'homme qu'il a defigure. Le croit toujours quelque part au sommet du GM.
 
 ## Trajectoire datee
-(alimentee a chaud en Passe 2, arc par arc)
-| Date/ere | Evenement | Delta d'etat |
-|---|---|---|
-| an 0 (R6, Water 7 / Enies Lobby) | Capture par le CP9 et embarque sur le train des mers avec les jumelles. Dans le wagon, coeur ouvert : il ne leur a JAMAIS rien reproche - ses petites soeurs ne feront jamais rien de volontairement mauvais. A Enies Lobby : demande a etre demenotte pour remettre les plans, puis fracasse le visage de Spandam d'un poing - vengeance pour sa petite soeur a lunettes - avant de BRULER les plans de Pluton sous leurs yeux. Recoit ensuite de Sonia un fragment du mat du Merry, un seul mot : "Klabautermann" - il en fera une chasse vitree dans le mat du Thousand Sunny. Construit le Sunny a trois avec Iceburg et Sonia, surprises comprises. REJOINT l'equipage sur le mot d'Iceburg [DIVERGENCE RP - pas de chopage] | Les plans de Pluton n'existent plus. Charpentier des Mugiwara ; prime de 44M [canon]. L'ame du Merry navigue toujours, dans son mat |
-| an 0 (R7, Thriller Bark) | Mini Merry II, Canal 0 ; le pont casse, Tararan aux nunchakus de pierre ; TACTICS 15 - Docking accompli a SIX, Sonia au bras gauche vacant sur un bras Hana Hana de Robin [DIVERGENCE RP] ; cockpit de Moria vise, KO ; a terre a la bombe de Kuma ; tombe des Rumbar dressee avec Usopp. Revele a l'equipage que Brook est des Rumbar de Laboon (Roadmap_7) | Corps principal du Big Emperor ; premier combat d'equipage avec les jumelles a bord. Le Sunny a tenu le Triangle |
-| an 0 (R8 - Sabaody) | Chicken Voyage et Gaon Cannon reveles ; reparations au Grove 41 ; porte la nouvelle de Camie aux jumelles et a Nami. Encheres : les cles des esclaves. Coup de Vent sur PX-4, Strong Hammer, rattrape par Robin ; Coup de Vent de fuite ; le poing sur le vrai Kuma, sans effet ; efface cinquieme | Disperse |
+Deportee (decision worldbuilder, build R10 : tout l'equipage) en page satellite, convention v8.4 : cf. WIKI Personnages/Franky_chrono_01.md. La page suivante (_02) s'ouvre quand _01 atteint le plafond de page standard.
 
 ---
 

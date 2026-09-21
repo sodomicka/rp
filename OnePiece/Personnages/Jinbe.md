@@ -1,12 +1,13 @@
 # Jinbe
 
-- version : W2
+- version : W3
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= retrouvailles a l'Ile des Hommes-Poissons (an +2) - premiere rencontre avec les jumelles.
+CHRONO RECALEE (acte build R10) : cf. fiche Fisher_Tiger - an = 2 - N pour les "il y a N ans" du canon. W2 portait le raid an -16, la mort de Tiger an -15 et le titre de Corsaire an -11 (N transpose brut) : corriges.
 
 ## Identite
 - Homme-poisson requin-baleine, "Jinbe le Paladin des Mers". Ne an -44 (2 avril), Ile des Hommes-Poissons. 46 ans a la frontiere.
-- Ex-soldat de l'armee de Neptune ; second puis deuxieme capitaine des Pirates du Soleil, successeur de Fisher Tiger ; ex-Shichibukai (an -11 -> an 0, demission).
+- Ex-soldat de l'armee de Neptune ; second puis deuxieme capitaine des Pirates du Soleil, successeur de Fisher Tiger ; ex-Shichibukai (an -9 -> an 0, demission).
 - Prime : reactivee depuis sa demission (an 0) ; derniere prime affichee avant le poste : 250 000 000 berrys [montant courant a la frontiere : non affiche au canon].
 
 ## Physique
@@ -23,34 +24,33 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= retrouvailles a l'Ile des Ho
 - Maitre du karate des hommes-poissons : frapper l'eau elle-meme comme un mur ou un projectile ; puissance colossale, sur terre comme sous la mer. Timonier d'exception.
 - Endurance monstrueuse : a survecu au poing de magma d'Akainu pris en bouclier (Marineford).
 - Haki de l'Armement [demonstrations canon posterieures a la frontiere ; acquis de longue date : IMPLICITE].
+- Groupe sanguin F, celui de Luffy [canon].
 
 ## Histoire
-- Jeunesse : soldat de l'armee de Neptune ; y recadrait deja Arlong, petite frappe montante.
-- an -16 env. : Fisher Tiger escalade Marie-Joie et libere les esclaves des Nobles Mondiaux. Jinbe demissionne de l'armee et rejoint les Pirates du Soleil naissants. La marque solaire pour tous.
-- an -15 env. : l'embuscade de la Marine au retour de Koala, l'enfant ex-esclave ramenee chez elle. Tiger mourant refuse le sang humain, confesse son passe d'esclave et sa haine qu'il n'a jamais vaincue. Il meurt entoure des siens. Jinbe prend le capitanat ; Arlong, capture puis relache, ment sur la mort de Tiger et part vers East Blue [-> iles Conomi an -8, cf. fiche Nami].
-- an -11 : prime a 250M ; invitation du GM au poste de Shichibukai - acceptee pour servir la cause de paix de la reine Otohime.
-- an -8 env. : assassinat d'Otohime ; un humain accuse a tort. Le reve de paix vacille, Jinbe le porte quand meme.
+- Jeunesse : District des Hommes-Poissons, dans le sillage de Tiger ; soldat de l'armee de Neptune ; y recadrait deja Arlong, petite frappe montante.
+- an -14 : accueille Tiger rentre d'un "long voyage" - ses annees d'esclave, qu'il ignore.
+- an -13 : Tiger escalade Marie-Joie et libere les esclaves des Nobles Mondiaux. Jinbe demissionne de l'armee le jour meme et rejoint les Pirates du Soleil naissants. La marque solaire pour tous.
+- an -10 : l'enfant ex-esclave Koala a bord quelques semaines ; l'embuscade de la Marine au retour chez elle. Tiger mourant refuse le sang humain, confesse son passe d'esclave et sa haine jamais vaincue ; il meurt entoure des siens. Jinbe prend le capitanat ; Arlong, capture par Borsalino, ment sur la mort de Tiger.
+- an -9 : prime a 250M ; invitation du GM au poste de Shichibukai - acceptee pour servir la cause de paix d'Otohime, contre la grace des siens. Arlong relache ; l'equipage se scinde en trois (Jinbe, Arlong, Macro) ; Arlong part vers East Blue [-> iles Conomi an -8, cf. fiche Nami].
+- an -8 : assassinat d'Otohime ; un humain accuse a tort. Le reve de paix vacille, Jinbe le porte quand meme.
 - an 0 : seul des Sept a refuser la guerre contre Barbe Blanche - la securite de l'ile depend de sa protection. Demission de fait, prime reactivee, Impel Down niveau 6, aux cotes d'Ace. Evasion avec Luffy ; Marineford aux cotes des Barbe Blanche ; prend le poing de magma d'Akainu en protegeant Luffy.
 - an 0, apres la guerre : au chevet de Luffy detruit par le deuil d'Ace - "il te reste tes compagnons !". Aide Rayleigh et Luffy pour le message de la cloche d'Ox (le rendez-vous dans deux ans). Rentre a l'ile, promet a Luffy de l'attendre.
 - an 0 -> +2 : recree les Pirates du Soleil (ses anciens redevenus hors-la-loi par sa demission) et place l'ile sous la protection de Big Mom - orpheline de defense depuis la mort de Barbe Blanche. Un pacte de necessite, pas d'allegeance.
 
 ## Etat a la frontiere (Ile des Hommes-Poissons, an +2)
-- A l'ile quand l'equipage reconstitue arrive du monde d'en haut. Lie a Big Mom par le pacte de protection ; capitaine des Pirates du Soleil recrees. Il connait deja Luffy - Impel Down, la guerre, l'heure la plus noire - mais pas son equipage.
+- En Foret Marine, pres de la tombe d'Otohime, quand l'equipage reconstitue arrive du monde d'en haut : recherche, il ne peut entrer sur l'ile ; il attend Luffy. Lie a Big Mom par le pacte de protection ; capitaine des Pirates du Soleil recrees. Il connait deja Luffy - Impel Down, la guerre, l'heure la plus noire - mais pas son equipage.
 
 ## Relations (<= frontiere)
 - Fisher Tiger - le capitaine, le credo, la plaie. Otohime - l'ideal servi jusqu'au bout. Aladdin et les Pirates du Soleil - les siens, deux fois rassembles.
+- Koala - l'enfant ramenee par Tiger (an -10), perdue de vue depuis [il la croit hors de sa vie a la frontiere].
 - Luffy - le gamin d'Impel Down et de Marineford, veille dans le deuil. Une dette et une promesse mutuelles. L'equipage - des inconnus, hormis leur legende.
 - Ace - le codetenu du niveau 6, pleure comme un frere d'armes. Neptune et la famille royale - l'ancienne allegeance, le lien intact.
 - Arlong - le frere d'armes devoye, la haine qu'il n'a pas su endiguer. Big Mom - la protectrice de necessite, pas de coeur.
 - Akainu - le poing pris en bouclier. Rayleigh - le complice du message d'Ox Bell.
-- Jumelles Nico - aucun lien direct a la frontiere ; il connait "les Enfants du Demon" de reputation d'ex-Shichibukai [IMPLICITE]. Premiere rencontre : Ile des Hommes-Poissons (P2).
+- Jumelles Nico - aucun lien direct a la frontiere ; il les connait par la presse [IMPLICITE : avis individuels a 80M]. Premiere rencontre : Foret Marine (R10, cf. Trajectoire).
 
 ## Trajectoire datee
-(alimentee a chaud en Passe 2, arc par arc. Hody, le refus de l'invitation, Whole Cake, Wano et l'embarquement officiel y seront verses.)
-| Date/ere | Evenement | Delta d'etat |
-|---|---|---|
-| an 0 (R9 - avant Marineford) [canon, hors POV] | Refuse de combattre Barbe Blanche ; demissionne de son titre de Corsaire ; incarcere au niveau 6 d'Impel Down | Ex-Corsaire ; les Pirates du Soleil perdent leur grace |
-| an 0 (R9 - Impel Down, Marineford, Amazon Lily) [canon, hors POV] | Libere par Luffy ; combat a Marineford ; porte Luffy apres la mort d'Ace, blesse par Sakazuki ; a Amazon Lily, le releve - ce qu'il lui reste, ce sont ses compagnons | Allie de Luffy ; rencontre avec les jumelles : R10 (frontiere actee) |
+Deportee (decision worldbuilder, build R10 : tout l'equipage) en page satellite, convention v8.4 : cf. WIKI Personnages/Jinbe_chrono_01.md. La page suivante (_02) s'ouvre quand _01 atteint le plafond de page standard.
 
 ---
 

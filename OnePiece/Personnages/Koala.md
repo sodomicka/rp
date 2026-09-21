@@ -1,6 +1,6 @@
 # Koala (et Hack)
 
-- version : W2
+- version : W3
 
 Entite canon ; Hack en silhouette dans cette fiche (decision worldbuilder, build R9). FRONTIERE DU NOYAU : arrivee des jumelles a Baltigo (an 0, une semaine apres la dispersion de Sabaody), premiere entree en scene face aux jumelles. Tout le posterieur : strate Trajectoire.
 
@@ -37,7 +37,7 @@ Entite canon ; Hack en silhouette dans cette fiche (decision worldbuilder, build
 ## Histoire (noyau, <= frontiere)
 - an -21 : naissance a Foolshout.
 - Enfance : enlevee, vendue comme esclave aux Dragons Celestes, marquee dans le dos [date de la capture : INCERTAIN].
-- an -13 env. (8 ans) : Fisher Tiger prend d'assaut Mary Geoise et libere les esclaves. Koala fuit avec un groupe d'evades qui n'a aucun moyen de rentrer. [CONFLIT DE DATES a trancher : la fiche Jinbe W1 place le raid an -16 env. et la mort de Tiger an -15 env. ; chrono de cette fiche tenue sur le canon de Koala - 11 ans au retour chez elle, 23 ans an +2]
+- an -13 (8 ans) : Fisher Tiger prend d'assaut Mary Geoise et libere les esclaves. Koala fuit avec un groupe d'evades qui n'a aucun moyen de rentrer. [Chrono recalee au build R10 sur ce canon - 11 ans au retour chez elle, 23 ans an +2 ; reference : fiche Fisher_Tiger]
 - an -13 -> -10 : trois ans refugiee sur une ile, avec d'autres evades.
 - an -10 : les Pirates du Soleil passent ; les gens de l'ile les chargent de la ramener chez elle. Quelques semaines a bord [canon]. Le reflexe d'esclave - nettoyer, sourire, ne jamais pleurer - ; Arlong hostile ; Tiger jette son pistolet a la mer et lui dit qu'elle a le droit de pleurer ; le soleil tatoue sur la marque. Un Eternal Pose pour Foolshout.
 - an -10 (11 ans) : Tiger la ramene lui-meme au village. Fete, peur des habitants. Des bruits, la nuit ; Tiger est tombe dans une embuscade de la Marine, prevenue par l'ile precedente et toleree par la sienne contre la promesse qu'on ne la reprendrait pas. Tiger meurt. Ce que Koala en sait au juste : [INCERTAIN au canon].
@@ -59,8 +59,9 @@ Entite canon ; Hack en silhouette dans cette fiche (decision worldbuilder, build
 | an 0 (R9 - le direct de Marineford) | Suit la guerre avec Baltigo. Voit Sonia sortir en courant au nom de Crocodile, Robin derriere elle ; ne demande rien. Ace meurt, Sabo hurle et se souvient : elle le tient | Temoin de la crise privee des jumelles, sans explication |
 | an 0 (R9 - Ohara) | Expedition a cinq avec Sabo, Hack et les jumelles, six semaines. Les ruines, l'Arbre en fragments, la stele indestructible dessous ; Hack plonge dans le lac et ne remonte rien. Sonia en paix : son bras de graphene pousse sans menace | Temoin du premier bras volontaire |
 | an 0 -> an +1 (R9 - les six premiers mois) | Karate des hommes-poissons aux deux jumelles, Hack en appui ; a six mois, les bases sont acquises. Sabo tient l'Armement | Deux eleves aux bases |
-| an +1 -> an +2 (R9 - l'ellipse) | Entrainement continu. Mois 22-24 : deux mois avec Sanji a Baltigo | - |
+| an +1 -> an +2 (R9 - l'ellipse) | Entrainement continu. Au fil des deux ans, raconte aux jumelles sa vie a bord des Pirates du Soleil et Jinbe - jamais la fin du voyage [acte R10]. Mois 22-24 : deux mois avec Sanji a Baltigo | Les jumelles connaissent Jinbe par ses anecdotes |
 | an +2 (R9 - le depart) | Ramene elle-meme les jumelles et Sanji a Sabaody, pile au jour du rendez-vous, et repart discretement | Sortie de R9 ; retombee R10 : Sanji arrive AVEC les jumelles [DIVERGENCE RP] |
+| an +2 (R10, hors scene) [dicte] | Nommee au journal du Sunny par les jumelles - une alliee de confiance, leur professeure, son passe tu ; en Foret Marine, Jinbe apprend d'elles qu'elle vit, puis qu'elle est officier de l'Armee | Jinbe la sait vivante |
 
 ---
 

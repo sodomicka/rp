@@ -1,6 +1,6 @@
 # Perona
 
-- version : W2
+- version : W3
 
 FRONTIERE DU NOYAU : veille de Thriller Bark (an 0), premiere entree en scene face aux jumelles. Tout le posterieur : strate Trajectoire.
 Fiche pleine : elle reparait pendant l'ellipse et au-dela ; le posterieur vit en Trajectoire.
@@ -41,9 +41,12 @@ Fiche pleine : elle reparait pendant l'ellipse et au-dela ; le posterieur vit en
 - Dans sa chambre de la tour, Kumashi a ses pieds, un fantome envoye reperer les nouveaux venus. Elle ne sait rien d'eux sinon que l'un vaut 300 millions.
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc)
+(alimentee a chaud en Passe 2, arc par arc)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R7 - Thriller Bark) [canon, retropropage au build R10] | Negative Hollow sur l'equipage ; vaincue par Usopp, immunise car deja negatif ; expediee par Kuma d'une paume, sur sa demande d'un "vieux chateau sinistre" | Hors de Thriller Bark |
+| an 0 -> an +2 (R9 - l'ellipse) [canon, hors POV] | Atterrit a Kuraigana, chez Mihawk ; y voit arriver Zoro, puis deux ans d'entrainement | - |
+| an +2 (R10 - la remontee) [canon + dicte] | Nommee par Zoro dans son interview au journal du Sunny | Connue des jumelles par ce seul recit |
 
 ---
 

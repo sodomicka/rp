@@ -1,6 +1,6 @@
 # Sommaire - OnePiece
 
-- version : W21
+- version : W22
 
 ## WIKI
 
@@ -8,12 +8,13 @@
 
 ### Racine
 Description : documents transverses.
-- Resume.md (W4) - suivi de l'histoire etablie, en prose, R0 a R9 (borne : sortie de la derniere boucle close) ; seul condense de l'histoire hors BIBLE ; hors budget de page standard (arbitrage worldbuilder).
-- _Implications.md (W44) - journal de travail du worldbuilding ; JAMAIS fetche en narration.
+- Resume.md (W5) - suivi de l'histoire etablie, en prose, R0 a R10 (borne : sortie de la derniere boucle close) ; seul condense de l'histoire hors BIBLE ; hors budget de page standard (arbitrage worldbuilder).
+- _Implications.md (W45) - journal de travail du worldbuilding ; JAMAIS fetche en narration.
 
 ### Personnages/
-Description : fiches neutres des entites du monde (canon et OC promus au lore). 54 pages : 21 de la Passe 1 (close) + 23 ajouts de la Passe 2 (Sakazuki, Nefertari_Vivi, Smoker, Tashigi, Portgas_D_Ace, Marshall_D_Teach, Monkey_D_Garp, Koby, CP9_CP0, Gecko_Moria, Perona, Hogback_Absalom_Ryuma, Silvers_Rayleigh, Shakuyaku, Borsalino, Trafalgar_Law, Eustass_Kid_Killer, Jewelry_Bonney, Supernovae, Sabo, Monkey_D_Dragon, Koala, Emporio_Ivankov) + les DIX pages de la strate Trajectoire deportee.
+Description : fiches neutres des entites du monde (canon et OC promus au lore). 70 pages : 21 de la Passe 1 (close) + 27 ajouts de la Passe 2 (Sakazuki, Nefertari_Vivi, Smoker, Tashigi, Portgas_D_Ace, Marshall_D_Teach, Monkey_D_Garp, Koby, CP9_CP0, Gecko_Moria, Perona, Hogback_Absalom_Ryuma, Silvers_Rayleigh, Shakuyaku, Borsalino, Trafalgar_Law, Eustass_Kid_Killer, Jewelry_Bonney, Supernovae, Sabo, Monkey_D_Dragon, Koala, Emporio_Ivankov, Fisher_Tiger, Shirahoshi, Neptune_Otohime, Hody_Jones_Vander_Decken) + les ONZE pages de la strate Trajectoire des jumelles + ONZE satellites chrono_01.
 > STRATE TRAJECTOIRE : la Trajectoire datee des jumelles vit hors de leurs fiches noyau, en pages satellites chrono (convention v8.4 : <Entite>_chrono_<N>). Deux specificites locales : chrono COMMUNE aux deux jumelles, UNE PAGE PAR ROADMAP - Nico_Jumelles_chrono_00 (R0) a _15 (R15), creees au fil des builds. Aucun plafond de taille : le decoupage par arc EST le plafond.
+> SATELLITES (build R10) : meme convention v8.4 etendue a tout l'equipage (Jinbe compris), a Kuma et a Crocodile - <Entite>_chrono_01 ; la page suivante s'ouvre au plafond de page standard (pas une page par roadmap). La fiche noyau renvoie a son satellite.
 - Nico_Sonia.md (W11) - protagoniste ; jumelle cadette, Kaki Kaki no Mi ; chrono separee : Nico_Jumelles_chrono_*.
 - Nico_Robin.md (W9) - jumelle ainee, Hana Hana no Mi ; chrono separee : Nico_Jumelles_chrono_* (commune).
 - Nico_Jumelles_chrono_00.md (W4) - chrono commune des deux jumelles, arc R0 Ohara.
@@ -25,45 +26,61 @@ Description : fiches neutres des entites du monde (canon et OC promus au lore). 
 - Nico_Jumelles_chrono_06.md (W5) - arc R6 Water 7.
 - Nico_Jumelles_chrono_07.md (W6) - arc R7 Thriller Bark (Docking a six, ombres, bras, pacte Kuma ; journal inaugure, cible ratee).
 - Nico_Jumelles_chrono_08.md (W2) - arc R8 Sabaody (le journal, les couteaux, encheres apres le poing, beat Haki chez Shakky, PX-4 sans Bible, la bulle a deux).
-- Nico_Jumelles_chrono_09.md (W1) - arc R9 Baltigo (Tequila Wolf, le direct de Marineford, Dragon, Ohara revisitee, les deux ans : Armement, bras a volonte, Demonio ; Kedetrav et Sanji).
+- Nico_Jumelles_chrono_09.md (W2) - arc R9 Baltigo (Tequila Wolf, le direct de Marineford, Dragon, Ohara revisitee, les deux ans : Armement, bras a volonte, Demonio ; Kedetrav et Sanji ; les anecdotes de Koala, le silence sur Sabo convenu).
+- Nico_Jumelles_chrono_10.md (W1) - arc R10 Hommes-Poissons (PX-5, le journal repris et le pacte dit, Jinbe a genoux, Tiger corrige, la stele de Joy Boy, Poseidon, le Demonio retenu, la morsure Crocodile, Sabo tu).
 - Nico_Olivia.md (W3) - mere des jumelles, archeologue d'Ohara.
 - Jaguar_D_Saul.md (W2) - geant ex-vice-amiral, ami d'Ohara.
 - Clou_D_Clover.md (W2) - directeur de la bibliotheque d'Ohara.
 - Foyer_Oran_Roji.md (W3) - foyer d'accueil des jumelles (Oran, Roji, Mizuira).
 - Kuzan.md (W5) - amiral Aokiji ; la condition, le juge patient ; quitte la Marine (R9, hors POV).
 - Sakazuki.md (W1) - le futur amiral Akainu ; destructeur du navire d'evacuation au Buster Call d'Ohara.
-- Borsalino.md (W3) - amiral Kizaru ; canon pur, aucun beat jumelles ; porte la silhouette de Sentomaru (R8).
+- Borsalino.md (W4) - amiral Kizaru ; canon pur, aucun beat jumelles ; porte la silhouette de Sentomaru (R8, R10) ; capture d'Arlong recalee an -10.
 - Monkey_D_Garp.md (W2) - vice-amiral, grand-pere de Luffy ; revelateur de la filiation Dragon (R6) ; Trajectoire a jour R9.
 - Smoker.md (W1) - capitaine de la Marine, le Chasseur Blanc ; chasseur recurrent (R4, R11).
 - Tashigi.md (W1) - Sergent-Chef, subordonnee de Smoker ; agent du relink public des identites Nico (R4).
 - Koby.md (W2) - Marine ; ses excuses declenchent la detonation du Tchekhov "Bons Marines" (R6).
-- Crocodile.md (W5) - Mr. 0, protecteur-exploiteur de la periode BW ; chute an 0 ; libere par Luffy (R9).
+- Crocodile.md (W6) - Mr. 0, protecteur-exploiteur de la periode BW ; chute an 0 ; libere par Luffy (R9) ; Trajectoire en satellite.
+- Crocodile_chrono_01.md (W1) - Trajectoire datee de Crocodile (R3 -> R10 : nomme au journal du Sunny, fil arme R14).
 - Nefertari_Vivi.md (W3) - princesse d'Alabasta ; Miss Wednesday, couverture percee puis piece ARMEE (an -1).
-- Bartholomew_Kuma.md (W5) - Shichibukai adepte de Nika (croix au soleil) ; le PACTE de Thriller Bark (R7), HONORE a Sabaody (R8) ; PX-0 (R9).
+- Bartholomew_Kuma.md (W6) - Shichibukai adepte de Nika (croix au soleil) ; le PACTE de Thriller Bark (R7), HONORE a Sabaody (R8) ; PX-0 (R9) ; Trajectoire en satellite.
+- Bartholomew_Kuma_chrono_01.md (W1) - Trajectoire datee de Kuma (R7 -> R10 : la garde du Sunny racontee, le pacte dit).
 - Monkey_D_Dragon.md (W2) - chef de l'Armee Revolutionnaire, fils de Garp, pere de Luffy ; ami de Clover ; la surprise de Baltigo (R9).
 - Sabo.md (W2) - chef d'etat-major de l'Armee, frere jure d'Ace et de Luffy ; memoire rendue par la mort d'Ace, professeur d'Armement des jumelles (R9).
-- Koala.md (W2) - officier de l'Armee, instructrice de karate des hommes-poissons, liberee par Fisher Tiger ; Hack en silhouette (R9).
+- Koala.md (W3) - officier de l'Armee, instructrice de karate des hommes-poissons, liberee par Fisher Tiger ; Hack en silhouette (R9) ; chrono Tiger recalee, nommee au journal (R10).
 - Emporio_Ivankov.md (W2) - reine de Kamabakka (Kedetrav), fondatrice de l'Armee ; hote de Sanji pendant l'ellipse (R9).
 - Spandam_Spandine.md (W4) - bourreaux d'Ohara et d'Enies Lobby (avec Funkfreed).
 - CP9_CP0.md (W1) - fiche groupee : Lucci, Kaku, Kalifa, Blueno ; infiltration de Water 7 et Enies Lobby.
-- Tom_Kokoro.md (W7) - maitre charpentier de Water 7 et secretaire de l'atelier ; foyer du sejour an -9/-8.
+- Tom_Kokoro.md (W8) - maitre charpentier de Water 7 et secretaire de l'atelier ; foyer du sejour an -9/-8 ; Den en silhouette (R10).
 - Iceburg.md (W6) - apprenti senior de Tom ; president de Galley-La, maire de Water 7.
-- Franky.md (W5) - Cutty Flam, apprenti cadet de Tom, cyborg ; rejoint l'equipage en R6 ; Trajectoire a jour R8.
-- Monkey_D_Luffy.md (W8) - capitaine des Mugiwara ; Trajectoire a jour R9 (Marineford, 3D2Y, Rusukaina).
-- Roronoa_Zoro.md (W6) - sabreur des Mugiwara ; sacrifice face a Kuma, Shusui (R7).
-- Nami.md (W5) - navigatrice des Mugiwara.
-- Usopp.md (W6) - tireur des Mugiwara.
-- Sanji.md (W7) - cuisinier des Mugiwara ; secret a quatre (R7) ; fin d'ellipse a Baltigo avec les jumelles (R9).
-- Tony_Tony_Chopper.md (W6) - medecin des Mugiwara.
-- Brook.md (W4) - musicien des Mugiwara, rejoint en R7 ; porte la section Culture (Binks).
-- Jinbe.md (W2) - timonier des Mugiwara (rejoint an +2).
+- Franky.md (W6) - Cutty Flam, apprenti cadet de Tom, cyborg ; rejoint l'equipage en R6 ; Trajectoire en satellite.
+- Franky_chrono_01.md (W1) - Trajectoire datee de Franky (R6 -> R10 : Karakuri, Kuma raconte, Den).
+- Monkey_D_Luffy.md (W9) - capitaine des Mugiwara ; Trajectoire en satellite.
+- Monkey_D_Luffy_chrono_01.md (W1) - Trajectoire datee de Luffy (R4 -> R10 : PX-5 vu, Gyoncorde, Big Mom, l'interview - compagnons d'evasion, Sabo nomme mort).
+- Roronoa_Zoro.md (W7) - sabreur des Mugiwara ; sacrifice face a Kuma, Shusui (R7) ; Trajectoire en satellite.
+- Roronoa_Zoro_chrono_01.md (W1) - Trajectoire datee de Zoro (R4 -> R10 : Kuraigana, PX-7, Hyouzou, Mihawk a l'antenne).
+- Nami.md (W6) - navigatrice des Mugiwara ; Trajectoire en satellite.
+- Nami_chrono_01.md (W1) - Trajectoire datee de Nami (R5 -> R10 : Weatheria, Jinbe et Arlong, la cage devinee).
+- Usopp.md (W7) - tireur des Mugiwara ; Trajectoire en satellite.
+- Usopp_chrono_01.md (W1) - Trajectoire datee d'Usopp (R5 -> R10 : Boin, Daruma).
+- Sanji.md (W8) - cuisinier des Mugiwara ; secret a quatre (R7) ; fin d'ellipse a Baltigo avec les jumelles (R9) ; Trajectoire en satellite.
+- Sanji_chrono_01.md (W1) - Trajectoire datee de Sanji (R4 -> R10 : confidence Sabo, PX-7, allie de circonstance, le "reste").
+- Tony_Tony_Chopper.md (W7) - medecin des Mugiwara ; Trajectoire en satellite.
+- Tony_Tony_Chopper_chrono_01.md (W1) - Trajectoire datee de Chopper (R5 -> R10 : Torino, l'oiseau, Dosun, la loi tacite contestee).
+- Brook.md (W5) - musicien des Mugiwara, rejoint en R7 ; porte la section Culture (Binks) ; Trajectoire en satellite.
+- Brook_chrono_01.md (W1) - Trajectoire datee de Brook (R7 -> R10 : Soul King, Zeo).
+- Jinbe.md (W3) - timonier des Mugiwara (rejoint an +2) ; chrono Tiger recalee (R10) ; Trajectoire en satellite.
+- Jinbe_chrono_01.md (W1) - Trajectoire datee de Jinbe (R9 -> R10 : la rencontre a genoux, le recit, Koala, le sang, Big Mom).
+- Fisher_Tiger.md (W1) - fondateur des Pirates du Soleil, 100 pour cent noyau (mort an -10) ; REFERENCE de la chrono recalee (an = 2 - N) ; Pirates du Soleil en silhouette.
+- Shirahoshi.md (W1) - princesse sirene du Royaume Ryugu ; POSEIDON ; su des jumelles par Neptune (R10) ; Megalo en silhouette.
+- Neptune_Otohime.md (W1) - roi et reine du Royaume Ryugu ; la legende de Joy Boy ; princes et ministres en silhouette.
+- Hody_Jones_Vander_Decken.md (W1) - fiche groupee, adversaires de R10 ; officiers et Wadatsumi en silhouette.
 - Portgas_D_Ace.md (W2) - commandant de la 2e flotte de Barbe Blanche ; mort a Marineford (R9).
 - Marshall_D_Teach.md (W2) - Barbe Noire ; nomme par les jumelles a Jaya (R5), jamais croise ; Gura Gura (R9).
 - Gecko_Moria.md (W2) - Shichibukai de Thriller Bark, Kage Kage no Mi ; adversaire de R7.
-- Perona.md (W2) - la Princesse Fantome, Horo Horo no Mi ; fiche pleine (reparait pendant l'ellipse).
+- Perona.md (W3) - la Princesse Fantome, Horo Horo no Mi ; fiche pleine ; Kuraigana (ellipse), nommee au journal (R10).
 - Hogback_Absalom_Ryuma.md (W2) - fiche groupee : les officiers de Thriller Bark, Cindry en silhouette.
-- Silvers_Rayleigh.md (W4) - second de Roger, mecanicien de coating a Sabaody ; casting R8 ; maitre de Luffy (R9).
-- Shakuyaku.md (W3) - Shakky, tenanciere du Grove 13, ex-imperatrice Kuja ; casting R8.
+- Silvers_Rayleigh.md (W5) - second de Roger, mecanicien de coating a Sabaody ; casting R8 ; maitre de Luffy (R9) ; le retour (R10).
+- Shakuyaku.md (W4) - Shakky, tenanciere du Grove 13, ex-imperatrice Kuja ; casting R8 ; l'ordre des retours (R10).
 - Trafalgar_Law.md (W3) - Supernova, Heart Pirates ; casting R8.
 - Eustass_Kid_Killer.md (W3) - fiche groupee : Kid et Killer, Supernovae ; casting R8.
 - Jewelry_Bonney.md (W3) - Supernova, fille adoptive de Kuma ; GARDE-FOU : rien avant Egghead.
@@ -83,7 +100,7 @@ Description : organisations detaillees au-dela du resume SB4.
 
 ### Roadmap/Sonia/
 Description : sources de build de la Passe 2. SEUL le garde cap est indexe ici ; les roadmaps individuelles restent hors Sommaire, listees dans le garde cap.
-- Chronologie.md (W16) - garde cap : chronologie des roadmaps (R0-R15), statuts, jalons et [A POSER] par arc. Boucles R0 a R9 CLOSES ; prochaine boucle : R10 Hommes-Poissons.
+- Chronologie.md (W17) - garde cap : chronologie des roadmaps (R0-R15), statuts, jalons et [A POSER] par arc. Boucles R0 a R10 CLOSES ; prochaine boucle : R11 Punk Hazard.
 
 ### Fiches_Arc/Sonia/
 Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), par perspective de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs `arc precedent` / `arc suivant`), pas par un index des roadmaps.

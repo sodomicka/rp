@@ -1,6 +1,6 @@
 # Sanji
 
-- version : W7
+- version : W8
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 Calibration psycho actee par le worldbuilder (thread 10) : confiance, sensibilite, rapport aux femmes.
@@ -45,21 +45,7 @@ Calibration psycho actee par le worldbuilder (thread 10) : confiance, sensibilit
 - Jumelles Nico - aucun lien a la frontiere. Premiere rencontre : Whiskey Peak, an 0 (cf. Trajectoire).
 
 ## Trajectoire datee
-(alimentee a chaud en Passe 2, arc par arc)
-| Date/ere | Evenement | Delta d'etat |
-|---|---|---|
-| an 0 (R4 - Whiskey Peak) | Face aux jumelles sur le Merry : fige-frustre, REFUSE de menacer deux adversaires qui se sont clairement identifiees comme femmes | Premier contact avec les jumelles ; l'interdit tenu meme face au sommet de Baroque Works |
-| an 0 (R4 - casino de Rainbase, hors de sa connaissance) | Devient "le blondinet" de l'aveu du soir de Sonia : l'homme respectueux qu'elle espere croiser si elle doit recommencer - il n'en saura jamais rien | Seed du beat R5 |
-| an 0 (R5 - premiere nuit apres l'intronisation) | LE BEAT : Sonia lui propose de coucher pour s'acheter une securite, comme avec Crocodile ; il s'approche, la serre dans ses bras et pleure pour elle - compris sans un mot. AUCUN amour, aucune attirance, jamais. Garde-fous integraux : jamais nomme, jamais verbalise, jamais repete a quiconque | Fin de la methode de survie de Sonia ; consequence durable : ultra-vigilance sur la misogynie et les VSS envers les femmes de l'equipage, Sonia en particulier |
-| an 0 (R5 - debat en mer, avant le Davy Back Fight) | Expose sa position au debat sur le rapport a la mort : comprend la necessite, refuse de tuer pour ne pas LEUR ressembler - motif interne, Germa tu | Position posee devant l'equipage, raison tue |
-| an 0 (R6 - Water 7) | Apercoit les jumelles en route vers la gare : course-poursuite, elles le sement - il ne saura pas avec certitude que c'etait elles. Puis l'intrus a bord du train des mers, avec Sogeking [hors POV des jumelles, canon par defaut] | Aucune certitude, aucun mot dit a l'equipage |
-| an 0 (R7 - Thriller Bark, le Sunny) | Ridiculise par l'invisible avec Luffy, Franky et Zoro ; voit Sonia le stopper d'un coup de pied plein centre quand il fond sur Robin - "joli coup", rien de plus [Haki tu] | Aucune question posee |
-| an 0 (R7 - Thriller Bark) | Ombre volee par Moria ; Inuppe, son zombie, refuse de frapper une dame. Sauve Nami du mariage d'Absalom, le demonte a coups de pied ; identifie le Suke Suke no Mi - le fruit qu'il convoitait. Oars : jambe du Big Emperor - Docking accompli a six [DIVERGENCE RP]. Quand Moria vole les DEUX ombres des jumelles et qu'Oars vise le Bazooka sur les deux soeurs inconscientes : DIABLE JAMBE INAUGURAL, la jambe en feu, le Bazooka devie [DIVERGENCE RP - canon : Robin seule]. Gatling d'Oars, KO. Ombre rendue a l'aube | Diable Jambe ACQUIS, ne pour deux ; la vigilance de R5 en actes, sans un mot |
-| an 0 (R7 - Kuma) | A terre a la bombe. Se releve pour offrir SA vie a la place de celle de Zoro - assomme par Zoro d'un coup. Reveille, trouve Zoro debout dans son sang : "il ne s'est rien passe". Les jumelles reviennent : secret a QUATRE [DIVERGENCE RP]. Au banquet, fait jurer le silence aux temoins des Rolling Pirates [canon] | Le secret tient a quatre, jamais Luffy |
-| an 0 (R8 - Sabaody) | Camie sur lui ; Duval = son avis, Parage Shot ; piege au filet, sauve par Camie ; appelle les Flying Fish Riders pour la recherche ; encheres avant Luffy. Flambage Shot sur PX-4 ; groupe Nami-Franky ; PX-1, au sol ; efface quatrieme | Le beat Haki chez Shakky lui explique le coup de pied de Sonia sur Absalom. Disperse |
-| an 0 (R9 - Kamabakka, hors POV) [canon] | Expedie par Kuma sur l'ile Momoiro (VF : Kedetrav), royaume des okamas ; Ivankov rentre de la guerre ; 3D2Y lu ; demande la cuisine energetique - 99 maitres du Newkama Kenpo a battre | Son ellipse se racontera au journal du Sunny (R10) |
-| an +2 (R9 - Kedetrav, mois 22) [DIVERGENCE RP, dicte] | Ivankov amene les jumelles : il PLEURE, heureux de les revoir, coince deux ans sur une ile sans belles femmes a admirer ; aux petits soins. Entrainement avec elles : Armement, Observation et pas de lune (Sky Walk) acquis ; 99 recettes bouclees. Rien de R5 dit, rien demande | Rendu aux jumelles |
-| an +2 (R9 - Baltigo, mois 22 -> 24) [DIVERGENCE RP, dicte] | Retour a Baltigo avec elles, par le navire d'Ivankov ; deux mois d'entrainement commun aupres de Koala, Hack et Sabo ; croise Dragon une fois, sans un mot de part et d'autre. Jour J : Koala le ramene a Sabaody avec les jumelles | Retombee R10 : arrive AVEC les jumelles, pas poursuivi par les okamas |
+Deportee (decision worldbuilder, build R10 : tout l'equipage) en page satellite, convention v8.4 : cf. WIKI Personnages/Sanji_chrono_01.md. La page suivante (_02) s'ouvre quand _01 atteint le plafond de page standard.
 
 ---
 

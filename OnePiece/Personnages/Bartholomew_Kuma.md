@@ -1,6 +1,6 @@
 # Bartholomew Kuma
 
-- version : W5
+- version : W6
 
 FRONTIERE DU NOYAU : veille de Thriller Bark (an 0), premiere entree en scene face aux jumelles. Tout le posterieur : strate Trajectoire.
 
@@ -59,17 +59,7 @@ FRONTIERE DU NOYAU : veille de Thriller Bark (an 0), premiere entree en scene fa
 - Frontiere (veille de Thriller Bark) : corps largement machine, esprit encore sien - a echeance connue. La derniere volonte d'un homme qui sait ses jours d'homme comptes.
 
 ## Trajectoire datee
-(alimentee a chaud en Passe 2, arc par arc)
-| Date/ere | Evenement | Delta d'etat |
-|---|---|---|
-| an 0 (R7 - Thriller Bark, avant la bombe) [canon, hors POV des jumelles] | Arrive sur le Sunny en pleine mise a sac ; expedie Perona d'une paume ("un vieux chateau sinistre") ; demande a Nami si Luffy a bien un frere ; annonce a Moria que Marshall D. Teach succede a Crocodile et que le GM craint un second Corsaire tombe devant les Mugiwara - Moria monte dans Oars | Aucun contact avec les jumelles a ce stade |
-| an 0 (R7 - la bombe et la bulle) [canon] | Ordre du GM : ranimer Moria, tuer tous les temoins. Paw-blasts sur les Rolling Pirates ; "je commence par Zoro" ; la bombe de paume contre "livrez Luffy" - "JAMAIS" : tout le monde a terre sauf Zoro [et les jumelles, mur de graphene - DIVERGENCE RP] ; Zoro l'entaille (Pacifista revele), est defait, offre sa vie pour Luffy ; Sanji offre la sienne, Zoro l'assomme ; il accepte, extrait la douleur de Luffy en bulle, Zoro y entre | Test de Zoro reussi (ch. 1097) ; le fils de Dragon a un bon equipage |
-| an 0 (R7 - LE PACTE) [DIVERGENCE RP, dicte] | Apres la bulle, un detour : il vient aux deux jumelles restees conscientes a l'ecart. Elles reconnaissent la CROIX AU SOLEIL de sa Bible - trois adeptes de Nika face a face. Il leur dit : l'Armee Revolutionnaire ; un sacrifice, sans dire lequel ; l'equipage manque de puissance - le Haki, nomme entre eux ; il perdra bientot son humanite. Comme elles tiennent Luffy pour Nika, le MARCHE : avant de se perdre, il interviendra pour les envoyer loin - assez pour se faire oublier et s'entrainer. "Ou voulez-vous aller ?" - "Peu importe, tant qu'on est ensemble." Il accepte. Il part. Dragon JAMAIS nomme, Bonney jamais nommee | Pacte scelle - detonation R8 (Sabaody) : les projeter ENSEMBLE ; il choisira la destination, elles n'en ont exprime aucune. Les jumelles savent qu'il est revolutionnaire et adepte de Nika ; rien de plus |
-| an 0 (R8 - Mary Geoise, avant Sabaody) [canon, hors POV] | Sermonne par Sengoku pour avoir laisse filer l'equipage a Thriller Bark, Garp present et amuse | Couverture intacte |
-| an 0 (R8 - Sabaody, Grove 12) [canon + dicte] | Le vrai Kuma arrive apres PX-4 (detruit par l'equipage) et PX-1 (Sentomaru). Reconnu d'un regard par les jumelles - A LA BIBLE : les Pacifista n'en portent pas, c'est a elle qu'on reconnait le vrai [dicte]. Arrete PX-1 sur Zoro ; la question rituelle a Zoro seul ; Zoro efface ; efface PX-1 lui-meme ; Brook, Usopp, Sanji ; murmure a Rayleigh en passant (contenu hors POV) ; Franky, Nami, Chopper ; LES JUMELLES : avant-dernieres, seules calmes, SANS UN MOT - une seule bulle pour deux [DIVERGENCE RP : pacte honore] ; "nous ne nous reverrons pas" a Luffy, Luffy efface | PACTE HONORE - detonation R8 : ensemble, destination choisie par lui, elles n'en ont exprime aucune - Tequila Wolf (atterrissage R9) |
-| an 0 (R9 - avant Marineford) [canon, hors POV] | Conversion achevee chez Vegapunk : personnalite effacee, Pacifista integral (PX-0). Derniere volonte programmee avant l'effacement : proteger le Thousand Sunny a Sabaody jusqu'au retour d'un Chapeau de Paille | L'homme parti ; le corps obeit au GM, sauf sur un point |
-| an 0 (R9 - Marineford) [canon ; entendu par les jumelles sur le direct de Baltigo] | Deploye avec les Pacifista. Face a Ivankov, ne la reconnait pas et l'attaque : c'est la voix d'Ivankov qui apprend aux jumelles ce qu'il est devenu. Apres 3D2Y, elles le nomment a Dragon : "il a fait son choix" | Le pacte honore par un homme qui n'est plus - appris a Baltigo |
-| an 0 -> an +2 (R9 - l'ellipse) [canon, hors POV] | Monte la garde du Sunny a Sabaody, aux cotes de la bande d'Hatchan et de Duval, sous le patronage de Rayleigh | Sunny intact au retour ; la mission revelee aux jumelles en R10, rien avant |
+Deportee (decision worldbuilder, build R10 : fiche au-dela de 8 000 caracteres) en page satellite, convention v8.4 : cf. WIKI Personnages/Bartholomew_Kuma_chrono_01.md. La page suivante (_02) s'ouvre quand _01 atteint le plafond de page standard.
 
 ---
 

@@ -1,6 +1,6 @@
 # Shakuyaku (Shakky)
 
-- version : W3
+- version : W4
 
 FRONTIERE DU NOYAU : rencontre avec l'equipage, Sabaody (an 0). Tout le posterieur : strate Trajectoire.
 PERIMETRE : sous horizon - ch. 498 (Sabaody), 1059 (Imperatrice Kuja, soeurs Boa), 1096 (Hachinosu). HORS PERIMETRE, non importes : son enlevement pour God Valley et son sauvetage (ch. 1160, arc Elbaf).
@@ -50,6 +50,7 @@ PERIMETRE : sous horizon - ch. 498 (Sabaody), 1059 (Imperatrice Kuja, soeurs Boa
 |---|---|---|
 | an 0 (R8 - Grove 13, premiere visite) [canon] | Luffy, Chopper, Brook, Hatchan, Camie, Pappag entrent - PAS les jumelles, parties avec Nami ; elle suit l'equipage par la presse depuis longtemps, a compris Luffy petit-fils de Garp au seul nom ; Rayleigh absent depuis six mois (bars, casinos - elle sait la cage du Grove 1 et ne s'inquiete pas) ; le tableau des onze rookies ; "je suis pour vous" ; les Marines ont "autre chose" a faire (l'execution d'Ace, jamais dite) | - |
 | an 0 (R8 - le bar, apres les encheres) [canon + dicte] | Hatchan soigne chez elle. Face aux jumelles [DIVERGENCE RP] : elles savent TOUT d'elle (dossier BW - Kuja, imperatrice, Rocks et Roger a ses pieds, Rayleigh, Garp semee), elle ne sait d'elles que la presse - et reconnait deux lionnes, des survivantes comme elle ; respect mutuel, sans effusion. Temoin du recit de Roger, du beat Haki et du refus de Luffy ; distribue les Vivre Cards de Rayleigh, "trois jours" | Une premiere en quarante ans : deux personnes qui savent qui elle fut, assises a son comptoir |
+| an +2 (R10 - Grove 13) [canon + dicte] | Recoit Sanji et les jumelles au bar, Duval en bandages [DIVERGENCE RP - canon : Sanji seul] ; l'ordre des retours : Zoro, Franky il y a dix jours, Nami, Usopp il y a trois jours, Chopper la veille, Brook en concert ; au Sunny avec Rayleigh | Seconde rencontre des lionnes, sans effusion |
 
 ---
 

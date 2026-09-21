@@ -1,6 +1,6 @@
 # Nami
 
-- version : W5
+- version : W6
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 
@@ -45,15 +45,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 - Jumelles Nico - aucun lien a la frontiere. Premiere rencontre : Whiskey Peak (P2).
 
 ## Trajectoire datee
-(alimentee a chaud en Passe 2, arc par arc)
-| Date/ere | Evenement | Delta d'etat |
-|---|---|---|
-| an 0 (R5 - Skypiea) | Epargnee par Enel au decompte des survivants, emmenee vers l'arche Maxim - TEMOIN de son eclat de rage ("D'abord on tranche mon prelat et egorge mon commandant...") | Vecteur : c'est par elle que l'equipage SAIT, pour Yama et pour Ohm |
-| an 0 (R5 - debat en mer) | Rapporte l'eclat d'Enel a l'equipage ; position au debat sur le rapport a la mort : comprend la necessite - elle l'a souhaitee a Arlong cent fois | - |
-| an 0 (R6, Water 7 / Enies Lobby) | Assaut d'Enies Lobby, Kalifa vaincue au Clima-Tact neuf [hors POV des jumelles, canon par defaut] | Premier avis de recherche a son nom : 16M [canon] |
-| an 0 (R7, jours de mer) | Auditrice du premier JOURNAL des jumelles aux haut-parleurs du Sunny [ajout R8, retropropage] : contexte, primes, et histoires d'epouvante avant le Triangle de Florian - flippe comme prevu | - |
-| an 0 (R7 - Thriller Bark) | Absalom, Lola ("je suis un homme"), le mariage, Thunderbolt, Swing Arm ; le tresor vide ; Kuma en face ("Luffy a-t-il un frere ?" - oui) ; sauvee du Pistol par Robin ; Vivre Card de Lola recue | - |
-| an 0 (R8 - Sabaody) | Hatchan : "pas pardonne, mais bons takoyaki" ; combo Clima-Tact avec Robin contre les Riders ; l'histoire des hommes-poissons entendue au journal, avant de voir le Grove 30 avec les jumelles ; Maison des Encheres : "on joue selon leurs regles, on achete Camie" - la douche des 500M de Charloss ; Thunderbolt Tempo couvre la sortie ; le bar de Shakky ; Grove 12 : Thunderlance sur PX-4 ; groupe Sanji-Franky ; effacee en appelant Luffy, SIXIEME | Dispersee |
+Deportee (decision worldbuilder, build R10 : tout l'equipage) en page satellite, convention v8.4 : cf. WIKI Personnages/Nami_chrono_01.md. La page suivante (_02) s'ouvre quand _01 atteint le plafond de page standard.
 
 ---
 
