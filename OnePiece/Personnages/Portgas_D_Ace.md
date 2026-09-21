@@ -1,6 +1,6 @@
 # Portgas D. Ace
 
-- version : W1
+- version : W2
 
 Entite canon. FRONTIERE DU NOYAU (regle actee : premiere entree en scene dans le RP) : <= Nanohana (an 0), sa premiere apparition dans l'arc R4. Calibrage acte : AUCUNE interaction avec les jumelles sur R4 - il passe hors de leur champ. La fiche est un SOCLE pose pour R9 (nouvelle de Marineford recue a Baltigo, deuil). Ce que les jumelles savent de lui a la frontiere : un commandant de flotte de Barbe Blanche qui porte le D. Rien d'autre.
 
@@ -44,7 +44,7 @@ Entite canon. FRONTIERE DU NOYAU (regle actee : premiere entree en scene dans le
 ## Relations (<= frontiere)
 - Edward Newgate (Barbe Blanche) - le pere choisi, celui pour qui il tuerait et mourrait.
 - Monkey D. Luffy - le petit frere. Le seul point du monde ou il baisse la garde.
-- Sabo - le frere jure mort a douze ans, dont il porte l'initiale barree.
+- Sabo - le frere jure mort a dix ans, dont il porte l'initiale barree.
 - Monkey D. Garp, Curly Dadan - l'enfance imposee, l'affection bourrue.
 - Marshall D. Teach - la cible. Un traitre, pas un rival.
 - Thatch - le mort a venger.
@@ -55,6 +55,8 @@ Entite canon. FRONTIERE DU NOYAU (regle actee : premiere entree en scene dans le
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | an 0 (R4, Alabasta) | Nanohana : retrouvailles avec Luffy, tient Smoker en respect le temps de la fuite, laisse une Vivre Card a son frere et repart sur la piste de Teach. Entierement hors du champ des jumelles | Aucun - le socle reste intact pour R9 |
+| an 0 (Banaro, contemporain de R6-R7) [canon, hors POV ; verse au build R9] | Rattrape Teach a Banaro ; duel perdu contre les tenebres ; livre au GM, Impel Down niveau 6 ; execution publique annoncee a Marineford | Captif ; les jumelles n'en apprennent rien avant Baltigo (R8 : presse arretee avant) |
+| an 0 (R9 - Marineford) [canon ; entendu par les jumelles sur le direct de Baltigo] | Sengoku revele au monde qu'il est le fils de Roger. Libere par Luffy sur l'echafaud ; tue par Sakazuki en faisant rempart de son corps a son frere ; meurt dans ses bras en remerciant d'avoir ete aime. Enterre avec Barbe Blanche par Shanks | MORT. A Baltigo, sa mort rend a Sabo toute sa memoire, sous les yeux des jumelles ; leur deuil d'un homme jamais vu |
 
 ---
 

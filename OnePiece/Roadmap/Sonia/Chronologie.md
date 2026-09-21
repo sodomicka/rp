@@ -1,6 +1,6 @@
 # Chronologie des roadmaps - Sonia / Jumelles d'Ohara
 
-- version : W14
+- version : W16
 - convention de nommage (actee) : chaque roadmap porte le nom du LIEU ou de l'etape de son arc. Exception acceptee : Baroque Works (R3).
 - indexation (tranchee thread 12) : le garde cap SEUL est indexe au Sommaire ; les roadmaps individuelles restent hors Sommaire, listees ici.
 - prota / POV : Nico Sonia (les jumelles, jamais separees).
@@ -76,18 +76,20 @@
 - Silhouettes actees, sans fiche : Camie, Pappag, Hatchan, Duval (Motobaro, Flying Fish / Rosy Life Riders), les Macro, Disco, Peterman, PX-4, PX-1, Sentomaru (fiche Borsalino), Charloss, Roswald, Shalulia, le geant esclave, Jean Bart, Lucueva, Bepo, Doflamingo (voix - fiche NOYAU a R12), Sengoku.
 - Fichier : Roadmap_8_Sabaody.md
 
-## R9 - Baltigo [A BUILDER]
-- Bornes : atterrissage a Tequila Wolf (an 0) -> depart pour le retour a Sabaody (an +2).
-- Jalons : Tequila Wolf ; prise en charge par l'Armee Revolutionnaire, Baltigo ; elles arrivent DEJA TITREES (legende "Les Lumieres de la Revolution" nee an -12, temoins revolutionnaires - acte R2) ; DETONATION du fil Dragon, en pleine SURPRISE (acte) : elles decouvrent l'homme, sa desertion de la Marine et God Valley - un savoir reserve aux temoins de God Valley ; nouvelles d'Impel Down et de Marineford - deuil d'Ace (socle : fiche NOYAU creee en boucle R4 ; les jumelles n'en savaient qu'un commandant de Barbe Blanche portant le D. ; le recit d'Ace fait par Luffy a Jaya, R5, prend ici tout son sens) ; Crocodile libere par Luffy : crise privee des jumelles (RETOUR des nausees - grammaire plantee R5 : leur absence etait la liberation ; secret maintenu) - seconde detonation du serment (retourne) ; deux ans de formation - Armement appris aupres de Sabo et Koala (acte R3 ; motivation actee R5 : le combo clutch/egorgement, efficace sur la chair, NUL sur un Logia) [Haki de Koala : jamais atteste au canon - a baliser au build] ; Baltigo detruit APRES leur depart (an +2).
-- Retombees R7 : les jumelles ARRIVENT en sachant Kuma revolutionnaire et adepte de Nika (pacte R7) - c'est un nom qu'elles peuvent donner a l'Armee ; Dragon l'HOMME reste entier (Kuma ne l'a jamais nomme), la detonation-surprise tient. LE BRAS (BIBLE B10 : SB1 trois etages + fil SB8 "Le bras de Sonia", detonation R9) : c'est ICI que se travaillent la maitrise de l'eveil et la prothese PERMANENTE, et que nait la routine (dissoute la nuit pour dormir contre Robin, recreee au matin) - la percee de R7 (declenchement par la menace) est le socle, pas l'arrivee.
-- Retombees R8 : l'equipage entre dans l'ellipse en SACHANT ce qu'est le Haki (beat chez Shakky, fin du "Haki tu") ; les jumelles connaissent la taxonomie et ont VU l'Armement sur un Logia (Rayleigh contre Kizaru) - c'est cette forme qu'elles demandent a Baltigo ; LES COUTEAUX : la prothese permanente rend l'equilibre du lancer - le retour de la combattante, mesure concrete du fil SB8 ; Kuma a choisi la destination sans un mot (Tequila Wolf), elles savent qu'il a tenu parole ; Ace, Crocodile libere, Impel Down et Marineford : tout s'apprend ICI, rien avant.
-- [A POSER] : contenu de l'ellipse (formation, rapports avec Dragon) ; reception de la legende cote Armee (dossier, attente depuis an -12 ?) ; fiche NOYAU Sabo (a creer a CETTE boucle - seule entite de l'entourage d'Ace pertinente pour le RP) ; ce que Kuma a dit ou non a Dragon du pacte.
+## R9 - Baltigo [ECRITE ; BOUCLE CLOSE]
+- Bornes : atterrissage a Tequila Wolf, D+3 apres la dispersion (an 0, 28 ans) -> depart de Baltigo sous la garde de Koala, cap sur Sabaody, jour J (an +2, 30 ans). Mois comptes depuis 3D2Y (mois 0 = D+30 env.).
+- Detail complet : cf. Roadmap_9_Baltigo.md - itineraire en 7 etapes par lieu (POV jumelles strict), sections dictees (Tequila Wolf ; l'accueil ; le direct de Marineford ; 3D2Y ; la discussion avec Dragon ; Ohara ; les deux ans ; Kedetrav et Sanji ; le depart), ellipse PREPAREE (mois 2 -> 22, vides declares vides), toile de fond hors POV, notes de frontiere.
+- Jalons cles (ordre chrono) : Tequila Wolf - la revolte a deux (hauts grades executes, les autres prisonniers, le chantier souleve), Bunny Joe arrive pour une bataille gagnee, invitation acceptee en INVITEES ; Baltigo - Dragon, Sabo, Koala, Hack, Betty, Morley, Karasu, Lindbergh, admiratifs ; elles ne comprennent pas (liberer, comme Nika - jamais dit) ; Sabo a l'Armement pour Robin, Koala au karate pour Sonia ; le direct - Sonia veut Marineford, ROBIN refuse, ligne Marine interceptee : Kuma PX-0 par la voix d'Ivankov, CROCODILE nomme - Sonia vomit, les nausees reviennent (secret), Ace mort, le cri de Sabo, sa memoire, Dragon et son fils ; 3D2Y compris a l'instant ; la discussion - Clover, Vegapunk, Kuma, la SURPRISE (desertion, God Valley, dites par Dragon), les livres sans reponse ; Ohara a cinq - l'Arbre en fragments, la STELE INTACTE dessous, le lac vide, la paix : le bras pousse sans menace ; mois 3 Ivankov, Sanji localise ; mois 6 Armement (Sabo, pour les deux) et bases du karate ; mois 12 eveil quasi parfait (dessin econome / contact couteux), bras a volonte, LE LANCER, Demonio apercu ; mois 18 plafond, Demonio recouvert de Haki ; mois 22 Kedetrav, Sanji en larmes ; deux mois a trois a Baltigo ; jour J, Koala ramene les trois.
+- [A POSER] de genese, TOUS TRANCHES : contenu de l'ellipse (dicte) ; rapports avec Dragon (une discussion, puis presence distante, aucune mission) ; reception de la legende (suivies depuis l'avis de an -20, ordre de protection an -12) ; Kuma n'a RIEN dit a Dragon du pacte - Dragon comprend seul ; fiches NOYAU Sabo et Dragon creees, plus Koala (Hack en silhouette) et Emporio_Ivankov.
+- Divergences actees au build : Armement enseigne par SABO SEUL ; Koala et Hack au karate, Koala meilleure professeure que Hack, Armement defensif pour elle seule (non atteste au canon) ; Demonio Fleur = forme, pas eveil ; Sanji finit son ellipse a Baltigo et rentre AVEC les jumelles ; Dragon sait les livres (Elbaf, canon ch. 1066) et se tait - ironie chez le worldbuilder, jamais au CODEX.
+- Detonations : fil Dragon ; bras de Sonia ; Crocodile libre (seconde fois).
 - Fichier : Roadmap_9_Baltigo.md
 
 ## R10 - Hommes-Poissons [A BUILDER]
 - Bornes : retrouvailles a Sabaody (an +2) -> depart de l'Ile des Hommes-Poissons.
 - Jalons : premiere rencontre des jumelles avec Jinbe (frontiere actee).
 - Retombee R7/R8 : le Haki a ete revele a l'equipage chez Shakky (R8, fin du "Haki tu") - l'ancien [A POSER] "revelation du Haki des jumelles aux Mugiwara" est SANS OBJET ; en R10, l'equipage revient de l'ellipse avec le sien, et les jumelles avec l'Armement (R9).
+- Retombees R9 : les jumelles DEBARQUENT A SABAODY AVEC SANJI (Koala les depose et repart) - l'ordre canon des retrouvailles bouge ; le journal du Sunny REPREND, avec des INTERVIEWS d'ellipse : chaque Mugiwara y raconte ses deux ans (decision worldbuilder - aucune ellipse d'equipage roadmappee ni versee en fiche avant) ; Kuma gardien du Sunny : appris ici ; les jumelles reviennent avec l'Armement, le karate des hommes-poissons, le bras a volonte et le lancer, le Demonio recouvert de Haki ; Robin sans frange ; Koala et les Pirates du Soleil : Jinbe connait l'enfant que Tiger a ramenee - les jumelles connaissent l'adulte.
 - Fichier : Roadmap_10_Hommes_Poissons.md
 
 ## R11 - Punk Hazard [A BUILDER]
@@ -99,6 +101,7 @@
 - Bornes : arrivee a Dressrosa -> chute de Doflamingo, depart.
 - Jalons : trame canon suivie par defaut ; AU a poser au build ; detonation du Tchekhov "Miroir Viola" (plant R3) - rencontre de Viola, confidence de Sonia sur l'arrangement (cercle du secret etendu, acte R3) ; regle de direction Zoro (actee R5) : meme reproche - Doflamingo laisse en vie.
 - [A POSER] : modalites de la rencontre et de la confidence ; consequence de la detonation.
+- Retombee R9 : Sabo, Koala et Hack a Dressrosa sont des RETROUVAILLES pour les jumelles (deux ans a Baltigo), pas une rencontre ; Sabo retrouve Luffy.
 - Fichier : Roadmap_12_Dressrosa.md
 
 ## R13 - Zou [A BUILDER]
@@ -115,6 +118,7 @@
 ## R15 - Egghead [A BUILDER - horizon de couverture]
 - Bornes : arrivee a Egghead (an +2) -> fin d'arc (au-dela : canon en cours, hors perimetre).
 - Jalons : Saul revele VIVANT et livres d'Ohara conserves sur Elbaf - revelation faite A EGGHEAD par Vegapunk (canon ch. 1066, conforme BIBLE SB3) ; affrontement Marine et CP0 ; sort de Kuma.
+- Retombee R9 : les jumelles savent Vegapunk ami de Dragon et de Clover (discussion de Baltigo) ; Dragon savait les livres et s'est tu (ironie chez le worldbuilder) ; le lac vide d'Ohara (R9) est la question a laquelle Egghead repond.
 - Fichier : Roadmap_15_Egghead.md
 
 FIN_ROADMAP_SONIA_CHRONOLOGIE

@@ -1,6 +1,6 @@
 # Kuzan
 
-- version : W4
+- version : W5
 
 ## Identite
 - Kuzan. L'alias "Aokiji" est un titre d'amiral, posterieur au point de depart. Entite canon.
@@ -52,6 +52,8 @@
 | an -20 -> an 0 (cavale et annees BW) | Radar DORMANT sur les jumelles : aucune preuve officielle, aucun rapport transmis a temps, prime figee a 120M (mecanique de radar : Roadmap_0) ; aucune re-rencontre | Condition en sommeil |
 | an 0 (R4 - Alubarna, hors scene) | Dog whistle : le relink public des identites Nico (Tashigi) reveille le radar ; il remonte la trace des Mugiwara | Route vers Long Ring Long Land |
 | an 0 (R5 - Long Ring Long Land) | Jugement rendu : discours SANS Ohara, sans Buster Call, sans Saul (le pattern des organisations mortes + l'avis des Enfants du Demon) - TEST MUET, repetition generale de sa condition de R0, jamais enoncee ; combo des jumelles (clutch + egorgement) nul sur son Logia ; congelation SIMULTANEE des deux ; tentative de les briser bloquee par Luffy ; duel accepte, Luffy gele puis EPARGNE (dette Crocodile - il a tenu, au moins en determination) ; DECISION : n'en emporter aucune, ne JAMAIS les separer ; depart a velo sur la mer | Dog whistle SOLDE - venu, juge, reparti ; detonation de la condition : R6 (Enies Lobby) |
+| an 0 (R9 - Marineford) [canon ; entendu par les jumelles sur le direct de Baltigo] | Amiral en premiere ligne : gele la baie, affronte Barbe Blanche et Jozu | Dernier acte en amiral |
+| an 0 -> an +1 (R9 - l'ellipse) [canon, hors POV] | Candidat au poste d'amiral en chef contre Sakazuki ; duel de dix jours a Punk Hazard, perdu (une jambe) ; quitte la Marine | Son depart lu dans la presse a Baltigo, sans jalon ; les jumelles ne le revoient pas en R9 |
 
 ---
 

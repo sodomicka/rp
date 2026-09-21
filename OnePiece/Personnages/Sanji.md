@@ -1,6 +1,6 @@
 # Sanji
 
-- version : W6
+- version : W7
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0).
 Calibration psycho actee par le worldbuilder (thread 10) : confiance, sensibilite, rapport aux femmes.
@@ -57,6 +57,9 @@ Calibration psycho actee par le worldbuilder (thread 10) : confiance, sensibilit
 | an 0 (R7 - Thriller Bark) | Ombre volee par Moria ; Inuppe, son zombie, refuse de frapper une dame. Sauve Nami du mariage d'Absalom, le demonte a coups de pied ; identifie le Suke Suke no Mi - le fruit qu'il convoitait. Oars : jambe du Big Emperor - Docking accompli a six [DIVERGENCE RP]. Quand Moria vole les DEUX ombres des jumelles et qu'Oars vise le Bazooka sur les deux soeurs inconscientes : DIABLE JAMBE INAUGURAL, la jambe en feu, le Bazooka devie [DIVERGENCE RP - canon : Robin seule]. Gatling d'Oars, KO. Ombre rendue a l'aube | Diable Jambe ACQUIS, ne pour deux ; la vigilance de R5 en actes, sans un mot |
 | an 0 (R7 - Kuma) | A terre a la bombe. Se releve pour offrir SA vie a la place de celle de Zoro - assomme par Zoro d'un coup. Reveille, trouve Zoro debout dans son sang : "il ne s'est rien passe". Les jumelles reviennent : secret a QUATRE [DIVERGENCE RP]. Au banquet, fait jurer le silence aux temoins des Rolling Pirates [canon] | Le secret tient a quatre, jamais Luffy |
 | an 0 (R8 - Sabaody) | Camie sur lui ; Duval = son avis, Parage Shot ; piege au filet, sauve par Camie ; appelle les Flying Fish Riders pour la recherche ; encheres avant Luffy. Flambage Shot sur PX-4 ; groupe Nami-Franky ; PX-1, au sol ; efface quatrieme | Le beat Haki chez Shakky lui explique le coup de pied de Sonia sur Absalom. Disperse |
+| an 0 (R9 - Kamabakka, hors POV) [canon] | Expedie par Kuma sur l'ile Momoiro (VF : Kedetrav), royaume des okamas ; Ivankov rentre de la guerre ; 3D2Y lu ; demande la cuisine energetique - 99 maitres du Newkama Kenpo a battre | Son ellipse se racontera au journal du Sunny (R10) |
+| an +2 (R9 - Kedetrav, mois 22) [DIVERGENCE RP, dicte] | Ivankov amene les jumelles : il PLEURE, heureux de les revoir, coince deux ans sur une ile sans belles femmes a admirer ; aux petits soins. Entrainement avec elles : Armement, Observation et pas de lune (Sky Walk) acquis ; 99 recettes bouclees. Rien de R5 dit, rien demande | Rendu aux jumelles |
+| an +2 (R9 - Baltigo, mois 22 -> 24) [DIVERGENCE RP, dicte] | Retour a Baltigo avec elles, par le navire d'Ivankov ; deux mois d'entrainement commun aupres de Koala, Hack et Sabo ; croise Dragon une fois, sans un mot de part et d'autre. Jour J : Koala le ramene a Sabaody avec les jumelles | Retombee R10 : arrive AVEC les jumelles, pas poursuivi par les okamas |
 
 ---
 

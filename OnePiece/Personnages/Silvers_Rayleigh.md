@@ -1,6 +1,6 @@
 # Silvers Rayleigh
 
-- version : W3
+- version : W4
 
 FRONTIERE DU NOYAU : rencontre avec l'equipage, Sabaody (an 0). Tout le posterieur : strate Trajectoire.
 PERIMETRE : revelations post-Egghead (arc Elbaf : details de God Valley, enlevement de Shakky) HORS PERIMETRE, non importees.
@@ -56,6 +56,8 @@ PERIMETRE : revelations post-Egghead (arc Elbaf : details de God Valley, enlevem
 | an 0 (R8 - Sabaody, Maison des Encheres, Grove 1) [canon] | Dans sa cage, couche Disco d'une salve (Rois) pour Camie ; sort de la cage APRES le poing de Luffy sur Charloss ; foudroie Shalulia sur le point de tuer Camie, couche les gardes ; "je t'attendais" a Luffy ; arrache le collier de Camie a mains nues ; s'excuse aupres de Kid et Law - "un simple mecanicien de coating". Face aux jumelles pour la premiere fois : elles le reconnaissent au premier regard (dossier BW), sans le relier au mecanicien dont parlait Hatchan [DIVERGENCE RP] | Sorti de sa cachette pour le petit-fils de Garp ; deux archeologues d'Ohara en face de lui |
 | an 0 (R8 - le bar de Shakky, Grove 13) [canon + dicte] | Se revele second de Roger - revelation pour l'equipage, rien pour les jumelles ; recit de Roger (Crocus, la maladie, la conquete, la dissolution, la reddition, "je ne mourrai pas, partenaire") ; Shanks et Buggy mousses ; coating GRATUIT. Au Siecle Oublie : les Roger ont tout lu ; "cherchez par vous-memes, vous arriverez peut-etre a une autre conclusion" ; Roger ne dechiffrait pas "comme un genie tel que CLOVER", il entendait la voix de toutes choses [canon ch. 507] - confirmation indirecte de l'hypothese R5 des jumelles (la gravure de Skypiea n'est pas de la main de Roger), Oden jamais nomme ; il OFFRE, Luffy refuse net, les jumelles rient. BEAT HAKI [DIVERGENCE RP] : l'equipage demande ce qu'il a fait aux encheres ; les jumelles exposent les trois formes ; il COMPLETE sans en dire trop - il existe des formes avancees. Vivre Cards par Shakky, trois jours, il ira deplacer le Sunny. Le carnet rouge : il ne le voit pas | La generation qu'il attendait, rencontree ; Ohara en face de lui, et il n'a pas donne |
 | an 0 (R8 - Grove 12) [canon] | Sauve Zoro de Kizaru : coup de pied a l'ARMEMENT qui devie la lumiere - "ne cueillez pas les jeunes pousses, leur ere commence" ; duel sabre contre sabre de lumiere, la joue de l'amiral entaillee - sous les yeux des jumelles : l'Armement sur un Logia, lisible. Kuma lui murmure quelque chose en passant (contenu hors POV, posterieur a l'arc) | Reste sur l'archipel, l'equipage disperse ; le Sunny a coater sans equipage |
+| an 0 (R9 - Amazon Lily, Marineford) [canon, hors POV] | Rejoint Luffy a Amazon Lily a la nage ; lui propose deux ans d'entrainement ; l'accompagne a Marineford pour la cloche et le message 3D2Y | Maitre de Luffy |
+| an 0 -> an +2 (R9 - Rusukaina, puis Sabaody) [canon, hors POV] | Un an et demi a Rusukaina a former Luffy aux trois formes ; retour a Sabaody, pres de Shakky ; le Sunny sous son patronage (BIBLE SB6) | Present au retour (R10) |
 
 ---
 

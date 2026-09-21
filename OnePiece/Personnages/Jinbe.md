@@ -1,6 +1,6 @@
 # Jinbe
 
-- version : W1
+- version : W2
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= retrouvailles a l'Ile des Hommes-Poissons (an +2) - premiere rencontre avec les jumelles.
 
@@ -46,9 +46,11 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= retrouvailles a l'Ile des Ho
 - Jumelles Nico - aucun lien direct a la frontiere ; il connait "les Enfants du Demon" de reputation d'ex-Shichibukai [IMPLICITE]. Premiere rencontre : Ile des Hommes-Poissons (P2).
 
 ## Trajectoire datee
-(vide - alimentee a chaud en Passe 2, arc par arc. Hody, le refus de l'invitation, Whole Cake, Wano et l'embarquement officiel y seront verses.)
+(alimentee a chaud en Passe 2, arc par arc. Hody, le refus de l'invitation, Whole Cake, Wano et l'embarquement officiel y seront verses.)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| an 0 (R9 - avant Marineford) [canon, hors POV] | Refuse de combattre Barbe Blanche ; demissionne de son titre de Corsaire ; incarcere au niveau 6 d'Impel Down | Ex-Corsaire ; les Pirates du Soleil perdent leur grace |
+| an 0 (R9 - Impel Down, Marineford, Amazon Lily) [canon, hors POV] | Libere par Luffy ; combat a Marineford ; porte Luffy apres la mort d'Ace, blesse par Sakazuki ; a Amazon Lily, le releve - ce qu'il lui reste, ce sont ses compagnons | Allie de Luffy ; rencontre avec les jumelles : R10 (frontiere actee) |
 
 ---
 

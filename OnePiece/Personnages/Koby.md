@@ -1,6 +1,6 @@
 # Koby
 
-- version : W1
+- version : W2
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille du debarquement a Water 7 avec Garp (an 0) - sa premiere entree en scene dans le RP. Helmeppo : silhouette logee ici.
 
@@ -40,6 +40,8 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille du debarquement a Wat
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | an 0 | R6 (Roadmap_6, etape 16) : retrouvailles avec Luffy et Zoro [Soru montre, canon] ; LA DISCUSSION avec Sonia, Robin et Garp - excuses aux jumelles AU NOM DE TOUTE LA MARINE, pour la traque depuis l'enfance et pour le bras coupe [acte] ; declencheur du declic de Sonia [DETONATION du Tchekhov "Bons Marines"] | Le premier uniforme auquel les jumelles n'ont pas envie de faire du mal |
+| an 0 (R9 - Marineford) [canon ; entendu par les jumelles sur le direct de Baltigo] | Se jette devant Sakazuki lance sur Luffy et crie d'arreter la guerre, que des vies se perdent pour rien ; son Observation s'eveille ; Shanks arrive et clot la guerre | La voix qui s'est excusee aupres d'elles (R6), entendue a Baltigo |
+| an 0 -> an +2 (R9 - l'ellipse) [canon, hors POV] | Forme par Garp | - |
 
 ---
 

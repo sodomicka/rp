@@ -1,6 +1,6 @@
 # Monkey D. Luffy
 
-- version : W7
+- version : W8
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0) - premiere apparition des jumelles devant l'equipage.
 
@@ -59,6 +59,10 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de Whiskey Peak (an 0
 | an 0 (R6, Water 7 / Enies Lobby) | Guerre declaree au Gouvernement Mondial pour deux membres d'equipage : drapeau du GM brule sur son ordre, assaut d'Enies Lobby, Rob Lucci vaincu, fuite sous le Buster Call [hors POV des jumelles - elles l'apprennent au reveil]. Duel et depart d'Usopp, retour d'Usopp aux funerailles du Merry. Franky embarque | Le cri a deux voix exauce - la condition d'Aokiji est remplie par sa main. Prime portee a 300M [canon] |
 | an 0 (R7 - Thriller Bark) | Methode de la balle avec Usopp pour le bras de Sonia (bras valide attache, balle lancee, preavis in extremis - ca marche) ; Brook invite sur-le-champ ; ombre volee, Oars ; Moria poursuivi ; Nightmare Luffy ; Gear 3 Gigant Bazooka, Gear 2+3 sur Shadow's Asgard ; a terre a la bombe de Kuma, sa douleur portee par Zoro sans le savoir ; Laboon raconte a Brook ; la Vivre Card d'Ace brule, il ne le poursuit pas | Brook a bord ; ignore tout du sacrifice de Zoro (secret a quatre) et du pacte des jumelles |
 | an 0 (R8 - Sabaody) | Shark Submerge, Camie ; Duval - Motobaro couche d'un regard (Rois inconscient, canon) ; la visite avec Hatchan : le collier, Roswald et Shalulia, retenu par Hatchan ; le bar de Shakky, Sabaody Park, Camie enlevee. Maison des Encheres : entre par le mur sur un poisson volant, LE POING sur Charloss pour Hatchan ; "je t'attendais" de Rayleigh ; Gear 3 contre les Marines aux cotes de Kid et Law. Le bar : le recit de Roger ; REFUSE le Siecle Oublie, menace de quitter la piraterie si quelqu'un demande le One Piece ; "le plus libre des mers". BEAT HAKI [DIVERGENCE RP] : les jumelles exposent les trois formes et lui disent qu'il a le ROIS (Motobaro) ; il comprend qu'Ace l'a utilise d'instinct pour le sauver enfant [canon ch. 583 - Sabo jamais nomme] ; Rayleigh complete : des formes avancees existent. Grove 12 : PX-4 (Gear 2, Gigant Rifle), Sentomaru le blesse a mains nues ; "on ne peut pas se battre, fuyez" ; huit effaces devant lui, sa main tendue vers les jumelles trop tard, leur sourire ; dernier, "nous ne nous reverrons pas" | SAIT qu'il a le Haki des Rois (nomme par les jumelles, R8) ; capitaine sans equipage |
+| an 0 (R9 - Amazon Lily, Impel Down) [canon, hors POV] | Expedie par Kuma sur Amazon Lily ; Hancock ; apprend l'execution d'Ace. Impel Down : Buggy, Bon Clay, Mr. 3 ; le poison de Magellan, les hormones d'Ivankov, qui apprend qu'il est le fils de Dragon ; libere Crocodile et Jinbe au niveau 6 - Ace deja transfere | Vivant de justesse ; allie de circonstance de Crocodile |
+| an 0 (R9 - Marineford) [canon ; entendu par les jumelles sur le direct de Baltigo] | Tombe du ciel avec les evades ; rendu public par Sengoku comme fils de Dragon ; atteint l'echafaud, libere Ace ; Ace meurt dans ses bras ; effondrement ; Law l'emporte, Jinbe avec lui | Brise ; fils de Dragon aux yeux du monde |
+| an 0 (R9 - Amazon Lily, puis Marineford) [canon] | Releve par Jinbe ; Rayleigh propose deux ans ; retour a Marineford avec lui : la cloche, le bras, le message 3D2Y. Lu par Robin a Baltigo, compris a l'instant par les jumelles : deux ans d'entrainement offerts par un capitaine qui a vu qu'il ne faisait pas le poids | Rendez-vous fixe : Sabaody, dans deux ans |
+| an 0 -> an +2 (R9 - Rusukaina) [canon, hors POV] | Un an et demi avec Rayleigh : les trois formes du Haki, le Rois domine ; puis seul | Retour a Sabaody (R10) ; son ellipse se racontera au journal du Sunny |
 
 ---
 

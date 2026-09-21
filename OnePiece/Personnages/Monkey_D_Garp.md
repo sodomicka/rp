@@ -1,6 +1,6 @@
 # Monkey D. Garp
 
-- version : W1
+- version : W2
 
 Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de son debarquement a Water 7 (an 0, apres Enies Lobby) - sa premiere entree en scene dans le RP.
 
@@ -47,6 +47,9 @@ Entite canon. FRONTIERE DU NOYAU (regle actee) : <= veille de son debarquement a
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | an 0 | R6 (Roadmap_6, etapes 16-17) : mur du QG Galley-La, Poing de l'Amour ; revelation PUBLIQUE de la paternite de Dragon [canon ch. 432 - plant du fil Dragon] ; le regard pendant les excuses de Koby aux jumelles [acte] ; boulets sur le Sunny au depart, poursuite sans conviction | Le monde sait pour Dragon ; les jumelles savent pour le fils |
+| an 0 (R8 - Sabaody) [canon ch. 500, hors POV] | Apprend que Rayleigh s'est vendu aux encheres du Grove 1 ; ordonne le silence - il s'en occupe | Couvre le vieil ennemi |
+| an 0 (R9 - Marineford) [canon ; entendu par les jumelles sur le direct de Baltigo] | Sur l'echafaud aux cotes de Sengoku ; se laisse frapper par Luffy plutot que de l'arreter ; apres la mort d'Ace, se jette sur Sakazuki, retenu par Sengoku | Le heros de la Marine, brise en public |
+| an 0 -> an +2 (R9 - l'ellipse) [canon, hors POV] | Se retire du front ; instructeur des recrues, Koby en tete | - |
 
 ---
 

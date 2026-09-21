@@ -1,6 +1,6 @@
 # Crocodile
 
-- version : W4
+- version : W5
 
 FRONTIERE DU NOYAU : veille du recrutement des jumelles par Baroque Works - an -8, date actee (fuite de Water 7, jumelles agees de 20 ans). Tout le posterieur : strate Trajectoire.
 
@@ -63,6 +63,8 @@ FRONTIERE DU NOYAU : veille du recrutement des jumelles par Baroque Works - an -
 | an -1 | Accord pour l'operation de recrutement de Roronoa Zoro commanditee par les jumelles (l'ex-Mr. 7 envoye seul a Sixis ; echec, mort) | Perte sans retour sur investissement ; le sommet de BW connait l'incident |
 | an 0 | Accorde aux jumelles d'aller a Whiskey Peak - persuade qu'elles vont reparer la perte de l'ex-Mr. 7 aupres de Roronoa | Ses deux partenaires convergent vers les pieces qu'il ignore ; veille des evenements de l'an 0 |
 | an 0 (R4, Alabasta) | Rainbase : cage de kairoseki, evasion des Chapeaux de Paille. Route d'Alubarna : Luffy embroche et jete aux sables mouvants ; il VIOLE l'accord des noms - "les soeurs Nico" devant temoin - et tolere l'insolence de Sonia en retour, trop precieuse pour etre punie ; il ne voit pas la diversion qui permet a Robin de sauver Luffy. Alubarna : Pluton revele, escorte de Cobra a la tombe des rois. Fausse traduction de Sonia, soutenue par Robin - il menace, n'obtient rien, jette Sonia contre le mur et lache le mot de la fin : "INUTILES". Battu par Luffy, arrete par la Marine ; le GM etouffe l'affaire et en attribue le merite a Smoker | Huit ans d'arrangement soldes par un mot ; Pluton perdu, Alabasta perdue, la licence de Shichibukai avec. Detonation 1 du serment de Sonia : il tombe par la main d'un autre |
+| an 0 (R9 - Impel Down) [canon, hors POV] | Detenu au niveau 6 depuis Alabasta ; libere par Luffy, pousse par Ivankov, contre son aide pour sauver Ace ; sort avec Jinbe, Daz Bonez libere en route | LIBRE, par la main du Liberateur : le serment de Sonia (an -3 : mort ou Impel Down) RETOURNE (BIBLE SB8) |
+| an 0 (R9 - Marineford) [canon ; entendu par les jumelles sur le direct de Baltigo] | Combat pour son propre compte : tente d'abattre Barbe Blanche, puis couvre Luffy a plusieurs reprises [canon, detail non importe] ; repart avec Daz Bonez, cap sur le Nouveau Monde | A Baltigo, son nom seul rend les NAUSEES a Sonia (grammaire R5) : secret des soeurs, Koala temoin muet |
 
 ---
 

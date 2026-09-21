@@ -1,6 +1,6 @@
 # Marshall D. Teach
 
-- version : W1
+- version : W2
 
 Entite canon. FRONTIERE DU NOYAU (regle actee : premiere entree en scene dans le RP) : <= Jaya (an 0), sa premiere apparition dans l'arc R5. Calibrage acte : AUCUNE interaction avec les jumelles - elles sont en courses pendant la scene du bar et ne le voient jamais ; elles le NOMMENT a posteriori, sur la description de Luffy croisee avec leur dossier BW. La fiche est un SOCLE pose pour R9 (Marineford recue a Baltigo) et l'apres-ellipse. Ce que les jumelles savent de lui a la frontiere : le dossier Baroque Works (cf. section).
 
@@ -57,6 +57,9 @@ Entite canon. FRONTIERE DU NOYAU (regle actee : premiere entree en scene dans le
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | an 0 (R5, Jaya) | Mock Town : les tartes aux cerises, la tirade des reves devant Luffy humilie ; releve l'avis a 100 millions et en fait sa cle de Corsaire ; Lafitte depeche a Mary Geoise ; tentative d'interception au large, radeau brise par le Knock-Up Stream [canon]. Jamais vu des jumelles - nomme a posteriori | Aucun - le socle reste intact pour R9 |
+| an 0 (Banaro, contemporain de R6-R7) [canon, hors POV ; verse au build R9] | Bat Ace a Banaro et le livre au GM : la cle du titre de Corsaire (succession de Crocodile, annoncee par Kuma en R7) | Corsaire |
+| an 0 (R9 - Impel Down, Marineford) [canon ; entendu par les jumelles sur le direct de Baltigo] | Entre a Impel Down, recrute au niveau 6 (Shiliew, Avalo Pizarro, Catarina Devon, Vasco Shot, San Juan Wolf) ; a Marineford, abat Barbe Blanche avec son equipage et lui prend le Gura Gura no Mi - deux fruits en un seul corps ; titre de Corsaire jete | L'homme que les jumelles ont nomme a Jaya (R5) herite de la plus grande force du monde |
+| an 0 -> an +2 (R9 - l'ellipse) [canon, hors POV] | Monte jusqu'au rang d'Empereur (BIBLE SB4) | Presse lue a Baltigo, sans jalon |
 
 ---
 
