@@ -1,10 +1,10 @@
 # 00_Garde_Cap - saga de Silas Null
 
-- version : W4
+- version : W5
 - dossier : Roadmap/Silas. Cite au Sommaire pour la duree de la Passe 2 (decision worldbuilder) ; les roadmaps, elles, restent non indexees.
 - nature : SOURCE DE BUILD UNIQUEMENT, jamais fetche en narration. Briefing dicte par le worldbuilder. Le MJ a confronte au lore et au canon ; rien n'a ete comble.
 - role : garder le cap de la Passe 2. Charge en ouverture de chaque thread de roadmap, mis a jour en cloture.
-- conventions : V est une femme. Titres en creole romanise, traductions validees. Point de depart : ouverture de R0, vers avril 2077. T0 : braquage du Konpeki, fin avril-debut mai. Ellipse de convalescence de V : 3 semaines. Watson boucle pendant R0 et R1, leve juste apres le braquage. Calendrier relatif : J0 = le soir de The Rescue, aucun jour calendaire fixe ; tout R0 tient dans la nuit de J0. Contrats de V : on n'evoque que ceux qui touchent a ceux de Silas.
+- conventions : V est une femme. Titres en creole romanise, traductions validees. Point de depart : ouverture de R0, vers avril 2077. T0 : braquage du Konpeki, fin avril-debut mai. Ellipse de convalescence de V : 3 semaines. Watson boucle pendant R0 et R1, leve juste apres le braquage. Calendrier relatif : J0 = le soir de The Rescue, aucun jour calendaire fixe ; tout R0 tient dans la nuit de J0 ; J1, Dex recrute V (canon) ; J2, appel de T-Bug ; J4 = T0 ; J11 = T0 + 1 semaine, appel a Rogue et ouverture de R2. J0 tombe donc fin avril. Contrats de V : on n'evoque que ceux qui touchent a ceux de Silas.
 
 ## Saga, roadmap par roadmap
 
@@ -25,6 +25,8 @@
 - Yor copie l'engramme de T-Bug SANS la griller ; Silas se barre et la laisse a ses seules defenses ; Arasaka la grille aussitot. T-Bug sert d'homme de paille (canon preserve).
 - Motif : il la laisse crever parce qu'elle ne lui a pas dit a quel point la mission etait risquee ; il en fait donc une diversion, pour faire comme s'il n'avait jamais ete la. Pas de dette morale.
 - Silas pete un cable : elle a failli indiquer la planque a Arasaka, avec ses secrets, et elle l'a implique. Puis il appelle Rogue pour se dire disponible.
+- Decisions du thread R1 : 3 etapes (appel ; nuit du Konpeki ; contrecoup). Calage : Dex recrute a J1 (canon), appel de T-Bug a J2, T0 = J4, ~2 jours de preparation. Tout R1 se joue depuis la chambre de Silas a l'Eventide. La planque qu'elle a failli indiquer, c'est l'Eventide, d'ou le petage de cable : le Batty's est clairement la base des VDB de Brigitte, ceux de Slider se la jouent plus discrets. Silas espionne tout en plus de proteger T-Bug : il voit V et Jackie, la Relic, Smasher (c'est connu dans le milieu des solos qu'il sert les Arasaka ; rien de plus n'est explique), le meurtre de Saburo. Ordre : il decroche au confinement ; T-Bug, seule, ouvre le balcon puis grille (canon intact). Yor mange l'engramme immediatement apres copie. Version douce du tueur d'ames : seulement l'experience utile au netrunning, ni connaissances sociales ni le reste, juste de quoi tirer un peu de puissance de calcul. T-Bug n'a dit a personne qu'elle avait un filet ; V l'apprendra de Silas lui-meme. Appel a Rogue : pas dans la foulee ; il attend une semaine, elle doit recevoir des appels par centaines dans une crise pareille, et la convalescence de V dure 3 semaines : appel a J11 = T0 + 1 semaine (4 + 7).
+- Roadmap : Roadmap_R1_Otel_Liksye.md.
 
 ### R2 - "dyabes la" (la diablesse)
 - T0 + 1 semaine : contrat de Rogue, "Hot Merchandise" (canon : neutraliser Rebeca Price, Wellsprings).
@@ -97,6 +99,7 @@
 - Alt trahit : elle tente d'absorber Yor une fois toutes deux dans Mikoshi. Yor la domine, absorbe Alt et Silverhand (avec l'accord de Johnny).
 - Yor fait de V un engramme et l'implante dans son propre cerveau : V reprend son corps. Pas de contournement du canon : elle vivra 6 mois, en pure legende de Night City ; Silas lui laisse volontiers la lumiere.
 - Yor absorbe Mikoshi et le tueur d'ames.
+- Decision du thread R1 : l'engramme de V se fait a Mikoshi, ou Yor a le materiel et le vrai tueur d'ames sous la main ; pas avec sa version douce NetWatch, qui ne copie que l'experience de netrunning.
 
 ### R15 - "miray nwa" (le mur noir)
 - NetWatch tente de confiner le reseau de Night City, trop lentement : Miray nwa est brise avant.
@@ -121,14 +124,17 @@ Lilith (R2) -> cellule NetWatch de Mosley (R3, hors liste) -> console de Bartmos
 
 ## Etat des roadmaps
 - R0 : ecrite (Roadmap_R0_Sepan_Dogtown_Nan.md, W1). Fiches creees : Mr_Hands, Dodger.
-- R1 a R15 : aucune ecrite. Boucle serree par roadmap (grandes lignes -> confrontation -> fiches a chaud -> peaufinage).
+- R1 : ecrite (Roadmap_R1_Otel_Liksye.md, W1). Fiche creee : Rogue_Amendiares. Chrono_2077 scindee : Chrono_2077_Acte1.md (acte 1, ellipse) et Chrono_2077.md (suite).
+- R2 a R15 : aucune ecrite. Boucle serree par roadmap (grandes lignes -> confrontation -> fiches a chaud -> peaufinage).
 
 ## Points parques (a regler au roadmapping, pas avant)
 - R3 : calage fin de l'arrivee des Animals ("une semaine + trois jours" face a la sortie de V a T0 + 3 semaines).
 - R6, R8 : choix des 4 contrats de Hands. Canon restant : Two Wrongs Makes Us Right, Dogtown Saints, Heaviest of Hearts, Prototype in the Scraper, Roads to Redemption, Spy in the Jungle, Talent Academy, The Man Who Killed Jason Foreman, Treating Symptoms. Critere : les plus lies a Hands marionnettiste de Dogtown.
 - R6, R8 : "Treating Symptoms" vise en canon le QG des VDB de Dogtown (Luxor High Wellness Spa), site VDB dans le RP aussi ; a peser pour un Silas VDB.
 - R7 ou apres : moment ou Silas revele a Brigitte que Slider etait un indic.
-- R1 : Smasher au Konpeki (marque "vous a repere", n'agit pas). R9 : lieu du caisson, maniere d'atteindre la console.
+- R2 : l'appel de fin de R1 et le contrat de Rogue tombent tous deux a J11 : meme appel ou non. Mort de Rhyne et rituel Maelstrom, non dates dans l'ellipse : a situer par rapport a J11, R1 couvrant deja J4 -> J11.
+- R3 ou apres : moment ou V apprend de Silas lui-meme qu'il couvrait T-Bug au Konpeki.
+- R9 : lieu du caisson, maniere d'atteindre la console.
 - R10 : canon [a verifier], branche Reed : Hansen meurt pendant l'infiltration, Alex plus tard.
 - R13 : place exacte de la restauration des Peralez ; sort de l'election.
 - Reperes canon : I Walk the Line (Brigitte et Ti Neptune en stase, canon ecarte en partie) ; Dream On (appel holo anonyme, Blue Eyes sur une terrasse, main a la tempe ; Elizabeth avait d'abord approche Judy Alvarez) ; The Damned (si Brigitte et Placide sont epargnes, les gardes de l'Eventide laissent entrer V sans combat).

@@ -1,6 +1,6 @@
 # Peralez
 
-- version : W3
+- version : W4
 
 Fiche du couple Jefferson et Elizabeth Peralez.
 
@@ -29,7 +29,7 @@ Fiche du couple Jefferson et Elizabeth Peralez.
 ## 4. Election et mort de Rhyne
 
 - Au point de depart et au T0 : Lucius Rhyne est maire en exercice ; Jefferson est candidat a la mairie.
-- Rhyne meurt apres le T0, pendant l'ellipse de convalescence de V (decision worldbuilder). Son adjoint Weldon Holt le remplace alors comme adversaire de Peralez. cf. Chronologie/Chrono_2077.md S2.
+- Rhyne meurt apres le T0, pendant l'ellipse de convalescence de V (decision worldbuilder). Son adjoint Weldon Holt le remplace alors comme adversaire de Peralez. cf. Chronologie/Chrono_2077_Acte1.md S2.
 - Les Peralez doutent de la version officielle de cette mort.
 - Nature de la mort : [INCERTAIN], a trancher plus tard (decision worldbuilder). Le canon laisse plusieurs lectures a l'enquete "I Fought the Law" : accident couvert par la NCPD, Holt, braindance piegee.
 
@@ -56,12 +56,12 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entr
 
 ## 8. Notes de certitude
 
-- Le detail de leur ligne dans l'annee de V (I Fought the Law, Dream On, election) n'est pas reproduit ici : cf. Chronologie/Chrono_2077.md S1, S3.
+- Le detail de leur ligne dans l'annee de V (I Fought the Law, Dream On, election) n'est pas reproduit ici : cf. Chronologie/Chrono_2077_Acte1.md S1, Chronologie/Chrono_2077.md S3.
 - Nom de la societe de securite : SSI, confirme (point C4 solde).
 
 ## 9. Renvois
 
-- Personnages/Mr_Blue_Eyes.md ; Factions/Night_Corp.md ; Monde/Night_City_2077.md S4 ; Chronologie/Chrono_2077.md.
+- Personnages/Mr_Blue_Eyes.md ; Factions/Night_Corp.md ; Monde/Night_City_2077.md S4 ; Chronologie/Chrono_2077_Acte1.md ; Chronologie/Chrono_2077.md.
 
 ---
 

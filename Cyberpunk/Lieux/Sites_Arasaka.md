@@ -1,6 +1,6 @@
 # Sites Arasaka
 
-- version : W3
+- version : W4
 
 ## 1. Konpeki Plaza
 - Hotel de luxe Arasaka a Watson, ultra securise. Sous-district exact [INCERTAIN]. Penthouse prive de Yorinobu Arasaka au sommet.
@@ -9,10 +9,10 @@
 ## 2. Le braquage (acte 1 de V)
 - Commanditaire : Dexter DeShawn. Cible : la Relic, biopuce d'engramme, dans le coffre thermique du penthouse. Equipe : V, Jackie Welles, T-Bug en support distant, bot Flathead pour l'intrusion.
 - Deroule canon : infiltration sous couverture, Flathead dans les conduits, vol de la Relic. Arrivee impromptue de Saburo Arasaka, Adam Smasher, Yorinobu : Yorinobu tue son pere. V et Jackie caches assistent a la scene ; Smasher est marque comme les ayant reperes et n'agit pas [INTERPRETATION sur le sens].
-- Confinement ; T-Bug tracee par Arasaka et flatlinee en direct ; fuite par l'hotel jusqu'a un taxi Delamain ; Jackie blesse insere la Relic dans son port neural, meurt, la remet a V. Dex tire sur V a la decharge.
+- Confinement ; T-Bug tracee par Arasaka, puis trait plat, en direct, a l'instant ou elle ouvre les portes du balcon ; fuite par l'hotel jusqu'a un taxi Delamain ; Jackie blesse insere la Relic dans son port neural, meurt, la remet a V. Dex tire sur V au No-Tell Motel et la fait jeter a la decharge.
 - Apres le braquage : hotel verrouille par Arasaka, inaccessible.
-- Echelle temporelle : une nuit. Date : fin avril ou debut mai 2077 (Dex recrute V et Jackie vers la derniere semaine d'avril) ; jour [INCERTAIN]. Silas a 22 ans (ne le 30/01/2055).
-- [DIVERGENCE RP] Silas Null, plan B de T-Bug, est branche cette nuit-la. Suite en roadmap (Passe 2).
+- Echelle temporelle : une apres-midi et une nuit (canon : check-in de jour, T-Bug demande quelques heures pour contourner la securite, vol de nuit). Date : fin avril ou debut mai 2077 (Dex recrute V et Jackie vers la derniere semaine d'avril) ; jour [INCERTAIN]. Calendrier relatif (decisions worldbuilder) : J0 = le soir de The Rescue, Dex recrute a J1, T0 = J4. Silas a 22 ans (ne le 30/01/2055).
+- [DIVERGENCE RP] R1 (decisions worldbuilder) : Silas Null, en assurance de T-Bug a l'insu de tous, est branche cette nuit-la depuis sa chambre de l'Eventide, a Dogtown. Il la couvre et espionne tout : V et Jackie, la Relic, Smasher, le meurtre de Saburo. Yor copie l'engramme de T-Bug sans la griller ; au confinement, Silas decroche sans laisser de trace ; Arasaka ne trouve que T-Bug. cf. Personnages/T_Bug.md S5.
 
 ## 3. Mikoshi
 - Serveur-prison d'Arasaka ou sont stockes les engrammes des personnes passees au Soulkiller. Programme commercial "Secure Your Soul" en facade ; en realite, une prison d'ames.
@@ -23,7 +23,7 @@
 - [DIVERGENCE RP] Depot d'ames numerisees : gibier potentiel pour deux predateurs (Yor, Blue Eyes) et objectif d'Alt. Statut dans le focus : a fixer en roadmap.
 
 ## 4. Renvois
-- Watson.md ; Personnages/T_Bug.md ; Personnages/V.md ; IA/Alt_Cunningham.md ; Monde/Night_City_2077.md S2, S5 ; Chronologie/Chrono_2077.md.
+- Watson.md ; Personnages/T_Bug.md ; Personnages/V.md ; IA/Alt_Cunningham.md ; Monde/Night_City_2077.md S2, S5 ; Chronologie/Chrono_2077_Acte1.md S2 ; Chronologie/Chrono_2077.md S5.
 
 ---
 

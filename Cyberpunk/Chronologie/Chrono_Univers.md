@@ -1,6 +1,6 @@
 # Chronologie de l'univers
 
-- version : W5
+- version : W6
 
 Chronologie condensee de Night City et du Net, du fondateur a la veille du RP. Detail des lieux et factions dans leurs pages. Les entrees [DIVERGENCE RP] sont les faits propres a ce monde.
 
@@ -44,7 +44,7 @@ Chronologie condensee de Night City et du Net, du fondateur a la veille du RP. D
 | 2076 | Edgerunners : David Martinez, Lucy, programme Arasaka de plongee dans l'Old Net | Precedent canon des plongeurs brises |
 
 ## 5. 2077
-- Detail de l'annee : cf. Chrono_2077.md.
+- Detail de l'annee : cf. Chrono_2077_Acte1.md (point de depart, acte 1 de V, ellipse) ; Chrono_2077.md (acte 2 de V, Phantom Liberty, fins).
 
 ## 6. Notes
 - Toute date d'age de Silas se calcule depuis le 30/01/2055 (2077 - 2055 = 22 apres son anniversaire).

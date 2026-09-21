@@ -1,6 +1,6 @@
 # Scaling numerique
 
-- version : W1
+- version : W2
 
 Echelle de tout ce qui agit sur le Net : entites (IA, fantomes) et netrunners humains. Etat au point de depart, sauf mention datee. Capacites physiques des memes personnes : cf. Power_Scaling/Scaling_Physique.md.
 
@@ -72,11 +72,11 @@ Echelle de tout ce qui agit sur le Net : entites (IA, fantomes) et netrunners hu
 
 ## 5. Deltas dates
 
-Vide a la genese. Alimente a chaud, arc par arc, apres roadmap : chaque repas de Yor deplace l'echelle. Plafond 30 entrees.
+Alimente a chaud, arc par arc, apres roadmap : chaque repas de Yor deplace l'echelle. Plafond 30 entrees.
 
 | Date/ere | Evenement | Delta d'echelle |
 |---|---|---|
-| | | |
+| R1, T0 (J4) | Yor mange l'engramme partiel de T-Bug (palier Pro), copie par le Soulkiller NetWatch : experience de netrunning seulement. cf. IA/J0RMUN94ND.md S4 | Negligeable : un peu de puissance de calcul. Aucun rang ne bouge |
 
 ## 6. Renvois
 

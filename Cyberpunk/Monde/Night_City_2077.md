@@ -1,6 +1,6 @@
 # Night City 2077
 
-- version : W4
+- version : W5
 
 ## 1. Cadre general
 - Ville-Etat de facto du Free State of Northern California, cote Pacifique. Fondee par Richard Night dans les annees 1990, devastee par la 4e Guerre corporatiste (bombe sur l'Arasaka Tower, 2023), rebatie sous influence corpo.
@@ -32,17 +32,17 @@
 - Rogue Amendiares : reine de l'Afterlife, ex-compagne de Johnny Silverhand.
 - Mr. Hands : Pacifica. Seul acces aux Voodoo Boys pour "les gens de la ville".
 - Wakako Okada (Japantown), Padre (Heywood), Dino Dinovic (Downtown), El Capitan (Santo Domingo) [INCERTAIN sur l'exhaustivite].
-- Maire : Lucius Rhyne, en exercice au point de depart et au T0. Il meurt pendant l'ellipse de convalescence de V, cause [INCERTAIN] ; Weldon Holt, son adjoint, le remplace alors face a Jefferson Peralez, candidat favori. cf. Personnages/Peralez.md S4, Chronologie/Chrono_2077.md S2.
+- Maire : Lucius Rhyne, en exercice au point de depart et au T0. Il meurt pendant l'ellipse de convalescence de V, cause [INCERTAIN] ; Weldon Holt, son adjoint, le remplace alors face a Jefferson Peralez, candidat favori. cf. Personnages/Peralez.md S4, Chronologie/Chrono_2077_Acte1.md S2.
 
 ## 5. Colonne vertebrale 2077 (ordre canon des evenements de V)
-- Acte 1 : braquage du Konpeki Plaza (Watson). V et Jackie Welles volent la Relic ; T-Bug tracee et flatlinee ; Saburo Arasaka tue par Yorinobu ; Jackie meurt dans la fuite ; V recoit l'engramme de Silverhand.
+- Acte 1 : braquage du Konpeki Plaza (Watson). V et Jackie Welles volent la Relic ; T-Bug tracee, puis trait plat ; Saburo Arasaka tue par Yorinobu ; Jackie meurt dans la fuite ; V recoit l'engramme de Silverhand.
 - Acte 2 : V cherche un remede. Ligne Voodoo Boys (Pacifica) : NetWatch (Bryce Mosley) se sert de V pour griller les netrunners VDB ; Brigitte mene V a Alt ; Placide veut tuer V.
 - Phantom Liberty (Dogtown) se declenche apres la ligne Voodoo Boys : crash de l'avion presidentiel, Songbird, Reed, Hansen, Cynosure.
 - Fins : assaut de Mikoshi (Arasaka / Aldecaldos / Rogue), remede NUSA (Songbird livree a Reed), Lune (Songbird libre), ou coup de Blue Eyes (Crystal Palace).
-- Detail : cf. Chronologie/Chrono_2077.md.
+- Detail : cf. Chronologie/Chrono_2077_Acte1.md (acte 1, ellipse), Chronologie/Chrono_2077.md (acte 2, Phantom Liberty, fins).
 
 ## 6. Renvois
-- Lieux/ ; Factions/ ; Chronologie/Chrono_2077.md ; Net_et_Blackwall.md.
+- Lieux/ ; Factions/ ; Chronologie/Chrono_2077_Acte1.md ; Chronologie/Chrono_2077.md ; Net_et_Blackwall.md.
 
 ---
 

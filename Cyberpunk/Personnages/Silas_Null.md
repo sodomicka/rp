@@ -1,6 +1,6 @@
 # Silas Null
 
-- version : W7
+- version : W8
 
 ## 1. Identite
 
@@ -88,7 +88,7 @@
 
 ## 9. Metier
 
-- Offre ses services a tous. Fixers : Mr. Hands surtout (cf. Personnages/Mr_Hands.md) ; aussi Rogue et Regina Jones ; un peu tous les autres.
+- Offre ses services a tous. Fixers : Mr. Hands surtout (cf. Personnages/Mr_Hands.md) ; aussi Rogue (cf. Personnages/Rogue_Amendiares.md) et Regina Jones ; un peu tous les autres.
 - Reputation : fantome dans ses contrats ; sans coeur tant que la mission est remplie ; sang-froid a toute epreuve.
 - Regle de metier (decision worldbuilder) : sous contrat, ce qu'il apprend est a lui et au commanditaire, d'autant plus quand c'est un fixer.
 - Chasses aux cyberpsychos pour Regina Jones : les vrais cyberpsychos sont des IA en corps de chair (cf. Monde/Chrome_et_Cyberpsychose.md S2bis). Yor en mange l'IA au passage. Silas livre des corps vivants, brises, sans psychose. Regina recoit des echantillons corrompus, sans savoir pourquoi.
@@ -184,13 +184,16 @@ Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entrees.
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | R0, nuit de J0 (soir de The Rescue, vers avril 2077) | Soiree avec Placide a l'appartement ; appel de Brigitte sur Slider, il ne rapporte rien ; contrat "Waiting for Dodger" de Hands rempli, Bill et Charles exfiltres ; tombe sur l'eclat Dodger / Bennett, passe l'info a Hands ; se pose a l'Eventide | Aucun secret n'a bouge. Sort de Dodger : branche jouee (Parties/, Decisions) |
+| R1, J2 | Dans sa chambre de l'Eventide, appel de T-Bug, direct, sans fixer : surveiller ses arrieres au Konpeki, details refuses. Il accepte en freelance, pas en VDB ; ~2 jours de preparation | Engage sur le Konpeki, a l'insu de tous |
+| R1, T0 (J4) | Depuis sa chambre, couvre T-Bug et espionne tout : voit V et Jackie, la Relic, Smasher, puis Yorinobu tuer Saburo. Decide de se sauver : Yor copie puis mange l'engramme de T-Bug ; il decroche au confinement sans laisser de trace et la laisse a Arasaka | Temoin du parricide ; connait les visages de V et de Jackie ; a vu la Relic sans savoir qui la veut. Personne ne sait qu'il y etait. Pas de dette morale (decision worldbuilder) |
+| R1, J4 -> J11 | Pete un cable : elle a failli indiquer l'Eventide a Arasaka, avec ses secrets, et elle l'a implique. Attend une semaine, puis appelle Rogue a J11 (T0 + 1 semaine) pour se dire disponible | Disponible pour Rogue. Aucun secret n'a bouge |
 
 ## 14. Renvois
 
 - IA/J0RMUN94ND.md ; Monde/Chrome_et_Cyberpsychose.md S2bis, S4 ; Monde/Net_et_Blackwall.md S5 ; Monde/Netrunning_2077.md.
 - Factions/Voodoo_Boys.md ; Factions/NetWatch.md ; Factions/Barghest.md ; Lieux/Pacifica_et_Dogtown.md.
-- Personnages/Silas_Null_relations_1.md ; Personnages/Silas_Null_relations_2.md ; Personnages/Mr_Hands.md ; Personnages/Dodger.md ; Personnages/Wilky_LaGuerre.md ; Personnages/Maman_Brigitte.md ; Personnages/Placide.md ; Personnages/T_Bug.md ; Personnages/Kurt_Hansen.md.
-- Lieux/Sites_Arasaka.md S2 (nuit du Konpeki) ; Chronologie/Chrono_Univers.md ; Chronologie/Chrono_2077.md.
+- Personnages/Silas_Null_relations_1.md ; Personnages/Silas_Null_relations_2.md ; Personnages/Mr_Hands.md ; Personnages/Rogue_Amendiares.md ; Personnages/Dodger.md ; Personnages/Wilky_LaGuerre.md ; Personnages/Maman_Brigitte.md ; Personnages/Placide.md ; Personnages/T_Bug.md ; Personnages/Kurt_Hansen.md.
+- Lieux/Sites_Arasaka.md S2 (nuit du Konpeki) ; Chronologie/Chrono_Univers.md ; Chronologie/Chrono_2077_Acte1.md ; Chronologie/Chrono_2077.md.
 - Power_Scaling/Scaling_Numerique.md ; Power_Scaling/Scaling_Physique.md.
 
 ---

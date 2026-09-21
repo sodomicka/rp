@@ -1,6 +1,6 @@
 # Pacifica et Dogtown
 
-- version : W4
+- version : W5
 
 ## 1. Pacifica - nature
 - District du sud-ouest de Night City, face a l'ocean. Zone de combat de fait : gangs, misere, trafic, aucune presence de la ville. Etrangers et police non bienvenus ; on y circule en vehicule blinde ou en moto rapide.
@@ -31,7 +31,7 @@
 ## 6. Dogtown - paysage
 - Vestiges du luxe jamais acheve : hotels, piscines, villas somptueuses devenues carcasses. Engins de chantier abandonnes. Batiments vides, effondres. Les scavengers ont amenage les ruines avec de la chrome volee.
 - Lieux nommes : Black Sapphire (hotel-casino, QG de Hansen) ; EBM Petrochem Stadium (entree principale, marche noir) [INCERTAIN sur la fonction exacte du stade].
-- Eventide Resort & Spa (canon) : sur les hauteurs de Luxor Heights, complexe inacheve bati par HFS, dessine en forme de piece de monnaie, coiffe d'une grande structure circulaire ; un des exemples les plus marquants du brutalisme de Pacifica, repere pour tout Dogtown. Repaire d'un groupe de Voodoo Boys : on y fabrique programmes illegaux, daemons, hacks, decks overclockes, processeurs debrides, pilotes pirates, vendus sous le manteau a Kabuki. Le sous-sol est converti en antre de netrunning pour Slider, qui plonge de la dans le Net local de Dogtown et dirige ses VDB a distance. [DIVERGENCE RP] L'autre maison de Silas, le "QG". cf. Personnages/Wilky_LaGuerre.md S4.
+- Eventide Resort & Spa (canon) : sur les hauteurs de Luxor Heights, complexe inacheve bati par HFS, dessine en forme de piece de monnaie, coiffe d'une grande structure circulaire ; un des exemples les plus marquants du brutalisme de Pacifica, repere pour tout Dogtown. Repaire d'un groupe de Voodoo Boys : on y fabrique programmes illegaux, daemons, hacks, decks overclockes, processeurs debrides, pilotes pirates, vendus sous le manteau a Kabuki. Le sous-sol est converti en antre de netrunning pour Slider, qui plonge de la dans le Net local de Dogtown et dirige ses VDB a distance. [DIVERGENCE RP] L'autre maison de Silas, le "QG". Planque discrete (decision worldbuilder) : le Batty's est clairement la base des VDB de Brigitte ; ceux de Slider se la jouent plus discrets. Theatre de R1 : Silas y couvre T-Bug depuis sa chambre, la nuit du Konpeki. cf. Personnages/Wilky_LaGuerre.md S4.
 - Luxor High Wellness Spa (canon) : ancien spa pres du stade, QG des Voodoo Boys de Dogtown dans Phantom Liberty (contrat "Treating Symptoms"). [DIVERGENCE RP] Les deux sont des sites VDB ; a l'Eventide, Silas a sa chambre et de quoi plonger (decision worldbuilder).
 - Canon 2077 : crash de Space Force One ; V sort Myers de l'epave et la met a l'abri, Reed l'exfiltre (elle n'est jamais capturee) ; mort de Hansen. cf. Factions/FIA_NUSA.md S4.
 

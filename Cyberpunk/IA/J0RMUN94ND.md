@@ -1,6 +1,6 @@
 # J0RMUN94ND
 
-- version : W4
+- version : W5
 
 ## 1. Identite
 
@@ -40,7 +40,7 @@
 
 - Quickhacks de niveau Blackwall, sans deck ni Blackwall Gateway. cf. Monde/Netrunning_2077.md S2.
 - Absorption d'IA : assimilation complete, aucun survivant individuel.
-- Soulkiller NetWatch : version NetWatch du tueur d'ame, heritee du projet AI_Devourer. NetWatch l'a perdue avec le projet ; elle seule la possede. Copie PARTIELLE de l'engramme d'un humain avant de le griller : un peu de data. Strategie appliquee avec Silas. Nom de l'outil [INCERTAIN]. Soulkiller canon : cf. Lieux/Sites_Arasaka.md S3.
+- Soulkiller NetWatch : version NetWatch du tueur d'ame, heritee du projet AI_Devourer. NetWatch l'a perdue avec le projet ; elle seule la possede. Version douce : copie PARTIELLE de l'engramme d'un humain, limitee a l'experience utile au netrunning ; ni connaissances sociales, ni le reste. Mangee, elle donne de quoi tirer un peu de puissance de calcul, rien de plus (decision worldbuilder). La copie ne tue pas par elle-meme (decision worldbuilder) : Yor copie, puis la cible est grillee ou non. Strategie appliquee avec Silas : copier avant de griller plutot que gacher. Nom de l'outil [INCERTAIN]. Soulkiller canon : cf. Lieux/Sites_Arasaka.md S3.
 - Fragmentation en signatures discretes et regeneration depuis le noyau.
 - Signature : filaments violets, autour de Silas quand il hacke par elle et sur ses fragments ; visibles des seuls netrunners avances ; vague, un mythe. cf. Personnages/Silas_Null.md S7.
 - Traversee du mur : etablie dans le sens vieux Net -> nouveau Net, en 2075, par la breche de Silas.
@@ -74,10 +74,10 @@
 
 ## 7. Cibles
 
-- Cibles nommees : Lilith, Alt Cunningham, les entites de Cynosure canalisees par Songbird, Blue Eyes. ORDRE NON FIXE (garde-cap pre-roadmap du worldbuilder, Passe 2). Seul point fixe : le Blackwall en dernier.
+- Cibles nommees : Lilith, Alt Cunningham, les entites de Cynosure canalisees par Songbird, Blue Eyes. ORDRE FIXE par le worldbuilder : cf. BIBLE SB3, Notes (ordre des cibles de Yor). Dernier repas : le Blackwall.
 - NetWatch : obstacle permanent, jamais cible. Le mur est le garde-manger ferme ; sa chute prematuree ne sert pas Yor.
 - Blue Eyes : concurrent direct sur le meme gibier. Deux modeles d'empire numerique, Yor amalgame, Blue Eyes hierarchise. cf. Personnages/Mr_Blue_Eyes.md S3.
-- Rache Bartmoss : hors liste a ce jour.
+- Rache Bartmoss : place dans l'ordre des cibles, cf. BIBLE SB3, Notes.
 - Menu fretin : cf. IA/IA_Mineures.md.
 - Terrain de chasse : les vrais cyberpsychos que Silas neutralise pour Regina Jones. Elle en mange l'IA ; le corps est livre brise, sans psychose. cf. Personnages/Silas_Null.md S9.
 
@@ -92,11 +92,11 @@
 
 ## 9. Trajectoire datee
 
-Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entrees.
+Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entrees. Calendrier relatif : J0 = le soir de The Rescue.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| | | |
+| R1, T0 (J4) | Nuit du Konpeki : copie l'engramme de T-Bug SANS la griller, puis le mange immediatement. Arasaka grille T-Bug ensuite, pas elle | Un peu de puissance de calcul ; aucune echelle ne bouge. Toujours inconnue de tous |
 
 ## 10. Renvois
 

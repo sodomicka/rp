@@ -1,6 +1,6 @@
 # Sandra Dorsett
 
-- version : W2
+- version : W3
 
 ## 1. Identite
 
@@ -19,7 +19,7 @@
 
 ## 3. The Rescue (au point de depart)
 
-- [DIVERGENCE RP] L'ouverture de R0, point de depart du RP, se joue en parallele. cf. Chronologie/Chrono_2077.md S1bis.
+- [DIVERGENCE RP] L'ouverture de R0, point de depart du RP, se joue en parallele. cf. Chronologie/Chrono_2077_Acte1.md S1bis.
 - Vers avril 2077 : capturee par des Scavengers qui visent sa chrome. Une puce brouilleuse forcee dans son neuroport rend son biomoniteur muet : Trauma Team ne voit rien. Retrouvee dans une baignoire de glace.
 - Sauvee par V et Jackie Welles, T-Bug en support, sur contrat de Wakako Okada. V retire la puce ; arret cardiaque ; stabilisee a l'airhypo ; Trauma Team la recupere depuis le balcon.
 - Le databank est perdu pendant l'enlevement et reste aux mains des Scavengers.
@@ -51,7 +51,7 @@ Vide a la genese. Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entr
 
 ## 8. Renvois
 
-- Factions/Night_Corp.md ; Personnages/Mr_Blue_Eyes.md ; IA/IA_Mineures.md S6 ; Chronologie/Chrono_2077.md ; Lieux/Watson.md.
+- Factions/Night_Corp.md ; Personnages/Mr_Blue_Eyes.md ; IA/IA_Mineures.md S6 ; Chronologie/Chrono_2077_Acte1.md ; Chronologie/Chrono_2077.md ; Lieux/Watson.md.
 
 ---
 
