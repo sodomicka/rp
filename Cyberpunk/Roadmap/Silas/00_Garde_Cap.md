@@ -1,10 +1,10 @@
 # 00_Garde_Cap - saga de Silas Null
 
-- version : W6
+- version : W7
 - dossier : Roadmap/Silas. Cite au Sommaire pour la duree de la Passe 2 (decision worldbuilder) ; les roadmaps, elles, restent non indexees.
 - nature : SOURCE DE BUILD UNIQUEMENT, jamais fetche en narration. Briefing dicte par le worldbuilder. Le MJ a confronte au lore et au canon ; rien n'a ete comble.
 - role : garder le cap de la Passe 2. Charge en ouverture de chaque thread de roadmap, mis a jour en cloture.
-- conventions : V est une femme. Titres en creole romanise, traductions validees. Point de depart : ouverture de R0, vers avril 2077. T0 : braquage du Konpeki, fin avril-debut mai. Ellipse de convalescence de V : 3 semaines. Watson boucle pendant R0 et R1, leve juste apres le braquage. Calendrier relatif : J0 = le soir de The Rescue, aucun jour calendaire fixe ; tout R0 tient dans la nuit de J0 ; J1, Dex recrute V (canon) ; J2, appel de T-Bug ; J4 = T0 ; J11 = T0 + 1 semaine, appel a Rogue et ouverture de R2. J0 tombe donc fin avril. Contrats de V : on n'evoque que ceux qui touchent a ceux de Silas.
+- conventions : V est une femme. Titres en creole romanise, traductions validees. Point de depart : ouverture de R0, vers avril 2077. T0 : braquage du Konpeki, fin avril-debut mai. Ellipse de convalescence de V : 3 semaines. Watson boucle pendant R0 et R1, leve juste apres le braquage. Calendrier relatif : J0 = le soir de The Rescue, aucun jour calendaire fixe ; tout R0 tient dans la nuit de J0 ; J1, Dex recrute V (canon) ; J2, appel de T-Bug ; J4 = T0 ; J11 = T0 + 1 semaine (4 + 7), appel a Rogue et ouverture de R2 ; J18 = T0 + 2 semaines (4 + 14), appel de Regina ; J25 = T0 + 3 semaines (4 + 21), sortie de V. J0 tombe donc fin avril. Contrats de V : on n'evoque que ceux qui touchent a ceux de Silas.
 
 ## Saga, roadmap par roadmap
 
@@ -32,6 +32,8 @@
 - T0 + 1 semaine : contrat de Rogue, "Hot Merchandise" (canon : neutraliser Rebeca Price, Wellsprings).
 - Dans l'ellipse, avant l'appel de Regina : rituel Maelstrom, prise de corps de Zaria Hughes par Lilith.
 - T0 + 2 semaines : appel de Regina, traque de Lilith (Northside). Yor se nourrit de mieux que l'engramme d'une runneuse moyenne. V, convalescente, ne traite jamais "Bloody Ritual".
+- Decisions du thread R2 : 2 etapes (contrat de Rogue ; traque de Lilith), la semaine J11 -> J18 en ellipse seche, rien de jouable. J11, deux appels : au premier (fin de R1), Rogue demande quelques heures et raccroche ; R2 s'ouvre sur son rappel. Elle pese le pour et le contre : impliquer un VDB, c'est foutre la merde politiquement ; mais elle sait les VDB en guerre ouverte contre les Animals, donc au pire ca donne un alibi a Silas ; elle le juge parfait pour son contrat le plus exigeant du moment. "Hot Merchandise" : divergence de date assumee, Silas a la place de V ; execution dans la nuit de J11 ; sort de Rebeca Price laisse libre ; Rebeca est une bonne runneuse, palier Pro, comme T-Bug : Yor copie son engramme (version douce) et s'en nourrit un peu. Animals de Data Inc. : aucun lien avec ceux du GIM, mais VDB et Animals ne peuvent pas se supporter : un acte de merc qui sert la guerre de son clan. Entre J11 et J18, non dates, hors scene : rituel Maelstrom et prise de corps de Zaria Hughes ; mort de Rhyne, aux infos. J18 : appel de Regina, traque la nuit meme, corps livre avant l'aube, comme tout contrat : une voiture au coin de la rue, le corps inconscient dans le coffre. Yor peut manger par le reseau une IA logee dans un corps ; le plus simple est que Silas branche sa liaison personnelle dans le port neural, comme avec Mosley. Zaria : coquille vide ; aucun autre role dans le recit, sa notice vit dans la fiche de Lilith. Le rituel : Lilith pose une ambiance satanique, mais ca reste une IA ; c'est la connexion au Net, chair a l'agonie, qui ouvre la porte. Ce que Yor tire de Lilith : une puissance de calcul brute non negligeable ; de la data sur sa traversee du mur, laissee vague (elle apprend un peu plus de failles de son dessert tant convoite), sur le controle de l'hote (Zaria aussi se battait aux lames mantis), sur le lien Arasaka / Maelstrom (curiosite, pas exploite). Echelle : aucun rang ne bouge, l'avance sur Alt s'elargit un peu, pas suffisant pour intimider Alt en R4. Pilotage : Yor ne prend pas le controle du corps de Silas avant MaxTac (R11) et Smasher (R14) : ce sera juste face a eux.
+- Roadmap : Roadmap_R2_Dyabes_La.md.
 
 ### R3 - "bet ak ajan" (betes et agents)
 - Animals au GIM, avec une camionnette high tech : NetWatch, selon Brigitte et Silas. Arrivee pendant l'ellipse.
@@ -86,6 +88,7 @@
 ### R11 - "fanm fou miray nwa a" (la folle du mur noir)
 - Phantom Liberty jusqu'a Cynosure, ou Songbird supplie V et Silas de la tuer. Debat, puis accord : Yor cree l'engramme, absorbe les IA et l'engramme, puis grille Songbird avant l'arrivee de Reed. Fin du DLC.
 - L'engramme est partiel (Soulkiller NetWatch) : Songbird est perdue dans tous les cas, le peu que Silas a a offrir vaut mieux que rien et suffit a reconforter la mourante.
+- Decision du thread R2 : face a MaxTac, Yor prend le controle du corps de Silas ; aucun pilotage avant dans la saga.
 
 ### R12 - "viv wa a" (vive le roi)
 - V engagee par Hands pour incarner Aguilar (canon : Run This Town). Enquete sur Bennett et Jago ; V penche aussi pour Jago. Ils forcent la main a Hands : Dogtown a un nouveau roi fantoche, influence par les VDB et Hands.
@@ -99,6 +102,7 @@
 - Alt trahit : elle tente d'absorber Yor une fois toutes deux dans Mikoshi. Yor la domine, absorbe Alt et Silverhand (avec l'accord de Johnny).
 - Yor fait de V un engramme et l'implante dans son propre cerveau : V reprend son corps. Pas de contournement du canon : elle vivra 6 mois, en pure legende de Night City ; Silas lui laisse volontiers la lumiere.
 - Yor absorbe Mikoshi et le tueur d'ames.
+- Decision du thread R2 : face a Smasher, Yor prend le controle du corps de Silas ; seul autre pilotage de la saga avec celui de R11.
 - Decision du thread R1 : l'engramme de V se fait a Mikoshi, ou Yor a le materiel et le vrai tueur d'ames sous la main ; pas avec sa version douce NetWatch, qui ne copie que l'experience de netrunning.
 
 ### R15 - "miray nwa" (le mur noir)
@@ -126,7 +130,8 @@ Lilith (R2) -> cellule NetWatch de Mosley (R3, hors liste) -> console de Bartmos
 ## Etat des roadmaps
 - R0 : ecrite (Roadmap_R0_Sepan_Dogtown_Nan.md, W1). Fiches creees : Mr_Hands, Dodger.
 - R1 : ecrite (Roadmap_R1_Otel_Liksye.md, W1). Fiche creee : Rogue_Amendiares. Chrono_2077 scindee : Chrono_2077_Acte1.md (acte 1, ellipse) et Chrono_2077.md (suite).
-- R2 a R15 : aucune ecrite. Boucle serree par roadmap (grandes lignes -> confrontation -> fiches a chaud -> peaufinage).
+- R2 : ecrite (Roadmap_R2_Dyabes_La.md, W1). Fiches creees : Regina_Jones, Rebeca_Price ; Zaria Hughes en section de IA/Lilith.md (S2bis).
+- R3 a R15 : aucune ecrite. Boucle serree par roadmap (grandes lignes -> confrontation -> fiches a chaud -> peaufinage).
 
 ## Points parques (a regler au roadmapping, pas avant)
 - R3 : calage fin de l'arrivee des Animals ("une semaine + trois jours" face a la sortie de V a T0 + 3 semaines).
@@ -134,7 +139,6 @@ Lilith (R2) -> cellule NetWatch de Mosley (R3, hors liste) -> console de Bartmos
 - R6, R8 : "Treating Symptoms" vise en canon le QG des VDB de Dogtown (Luxor High Wellness Spa), site VDB dans le RP aussi ; a peser pour un Silas VDB.
 - R7 ou apres : moment ou Silas revele a Brigitte que Slider etait un indic.
 - R8, R12 : usage exact de l'eclat Dodger / Bennett dans l'apres-Hansen.
-- R2 : l'appel de fin de R1 et le contrat de Rogue tombent tous deux a J11 : meme appel ou non. Mort de Rhyne et rituel Maelstrom, non dates dans l'ellipse : a situer par rapport a J11, R1 couvrant deja J4 -> J11.
 - R3 ou apres : moment ou V apprend de Silas lui-meme qu'il couvrait T-Bug au Konpeki.
 - R9 : lieu du caisson, maniere d'atteindre la console.
 - R10 : canon [a verifier], branche Reed : Hansen meurt pendant l'infiltration, Alex plus tard.

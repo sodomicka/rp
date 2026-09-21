@@ -1,25 +1,29 @@
 # _Implications - Cyberpunk
 
-- version : W31
+- version : W32
 - Document de travail. Non indexe au Sommaire. Jamais fetche en narration.
 - Purge (decision worldbuilder) : ce journal ne garde que le VIVANT. Tout fait acte vit en BIBLE ou en WIKI ; aucun historique ici.
 
 ## Etat du build
-- Passes 0 et 1 closes. BIBLE B6, Sommaire W21, Resume W5. 44 pages WIKI.
-- Passe 2 : GARDE-CAP DICTE, saga complete R0 a R15. Il vit dans son propre fichier : Roadmap/Silas/00_Garde_Cap.md (W6), cite au Sommaire par exception de build. Ce journal n'en porte plus rien.
+- Passes 0 et 1 closes. BIBLE B6, Sommaire W22, Resume W5. 46 pages WIKI (boucle R2 : Regina_Jones, Rebeca_Price).
+- Passe 2 : GARDE-CAP DICTE, saga complete R0 a R15. Il vit dans son propre fichier : Roadmap/Silas/00_Garde_Cap.md (W7), cite au Sommaire par exception de build. Ce journal n'en porte plus rien.
 - Roadmap R0 ecrite (Roadmap_R0_Sepan_Dogtown_Nan.md, W1) : 3 etapes, calendrier relatif J0.
-- Roadmap R1 ecrite (Roadmap_R1_Otel_Liksye.md, W1) : 3 etapes, J2 -> J4 (T0) -> J11 (appel a Rogue), tout depuis la chambre de l'Eventide. Suite : R2, thread a part (decision worldbuilder).
+- Roadmap R1 ecrite (Roadmap_R1_Otel_Liksye.md, W1) : 3 etapes, J2 -> J4 (T0) -> J11 (appel a Rogue), tout depuis la chambre de l'Eventide.
+- Roadmap R2 ecrite (Roadmap_R2_Dyabes_La.md, W1) : 2 etapes, J11 ("Hot Merchandise", Rogue) -> ellipse seche -> J18 ("Bloody Ritual", Regina ; Lilith mangee). Suite : R3, thread a part (decision worldbuilder).
 
 ## HANDOFF PASSE 2 - roadmaps
-- Ouverture d'un thread de roadmap : BIBLE B6 en projet ; lire Roadmap/Silas/00_Garde_Cap.md, puis ce journal, puis le Sommaire (W21), puis la roadmap precedente. SPEC a la derniere verification par listing de Config/ (a refaire a chaque build) : SPEC_BIBLE_LORE_WIKI_v8_5, SPEC_CODEX_v8_4.
-- BIBLE B6 est a jour du WIKI (44 pages) et du garde-cap W6 : dettes des boucles R0 et R1 soldees. Elle est EN AVANCE sur les fiches pour les implications de noyau (cf. Dettes) : sur ces points, le garde-cap fait foi jusqu'au versement dans la fiche. Toute evolution du garde-cap au-dela de W6 est une dette B7.
+- Ouverture d'un thread de roadmap : BIBLE B6 en projet ; lire Roadmap/Silas/00_Garde_Cap.md, puis ce journal, puis le Sommaire (W22), puis la roadmap precedente. SPEC a la derniere verification par listing de Config/ (a refaire a chaque build) : SPEC_BIBLE_LORE_WIKI_v8_5, SPEC_CODEX_v8_4.
+- BIBLE B6 est a jour du garde-cap W6 et du WIKI a 44 pages : dettes des boucles R0 et R1 soldees. Elle est EN AVANCE sur les fiches pour les implications de noyau (cf. Dettes) : sur ces points, le garde-cap fait foi jusqu'au versement dans la fiche. Toute evolution du garde-cap au-dela de W6 est une dette B7 (cf. Dettes, boucle R2).
 - REGLE DE METHODE : un ordre, un calendrier ou une orientation d'arc n'entre dans les pages qu'avec sa source : la parole du worldbuilder, tracee par la mention "decision worldbuilder". PAS DE DATE dans les pages : c'est du meta, le versionning W<N> suffit. Sans source, ce n'est pas acte. Precedent a ne pas refaire : l'"orientation Crystal Palace" de la fin de V, posee sans le worldbuilder, retiree depuis.
 - Forme : le worldbuilder veut des messages COURTS. Points groupes par sujet ; questions numerotees en repartant de 1 a CHAQUE message, une idee par numero ; jamais de probleme evoque sans question ou il puisse repondre.
 
 ## Dettes de build
 - Implications d'arc sur des NOYAUX (<= point de depart), a verser a chaud pendant la boucle ; la BIBLE (B6) et le Resume (W5) les portent deja, les fiches pas encore : Mr_Blue_Eyes (reseau comprenant des IA gouvernementales et de corpos) ; Sandra_Dorsett (veut du controle sur les IA). Versee en boucle R1 : J0RMUN94ND S4 (completee a B6, W6).
 - Chester Bennett, sans fiche (evoque en R0 par l'eclat, pas en scene) : le fait vit en Personnages/Dodger.md S4 et au garde-cap. Fiche quand il sera plus qu'une silhouette (decision worldbuilder) ; a y verser alors : manigance, traite avec Dodger par le tunnel, pas 100% fiable envers Hansen (decision worldbuilder).
-- Trajectoires datees, a verser APRES la roadmap qui les produit : R0 versee (Silas, Placide, Brigitte, Slider, Mr_Hands, Dodger) ; R1 versee (Silas, relations_2, T_Bug, V, J0RMUN94ND, Rogue_Amendiares, Scaling_Numerique) ; Lilith, Bryce_Mosley (R2, R3), puis chaque entite au fil des arcs.
+- Trajectoires datees, a verser APRES la roadmap qui les produit : R0 versee (Silas, Placide, Brigitte, Slider, Mr_Hands, Dodger) ; R1 versee (Silas, relations_2, T_Bug, V, J0RMUN94ND, Rogue_Amendiares, Scaling_Numerique) ; R2 versee (Silas, relations_2, Rogue_Amendiares, Regina_Jones, Rebeca_Price, Lilith, J0RMUN94ND, Scaling_Numerique, Scaling_Physique) ; Bryce_Mosley (R3), puis chaque entite au fil des arcs.
+- Dette B7, boucle R2 (la BIBLE n'a pas ete rebuildee : decision worldbuilder) : SB0 (46 pages ; roadmaps R0 a R2 ecrites) ; SB3 (J18, J25 ; rituel et mort de Rhyne entre J11 et J18 ; R2 en deux jalons) ; SB4 (VDB et Animals en guerre ouverte) ; SB5 (Regina Jones et Rebeca Price ont une fiche : notice + renvoi ; Zaria Hughes : renvoi a IA/Lilith.md S2bis ; Lilith : decroissance) ; SB6 (Data Inc., Wellsprings) ; SB8 (Yor connait un peu mieux les failles du mur, contenu vague) ; garde-cap W7 (pilotage du corps de Silas par Yor : R11 et R14 seulement).
+- Passe 3, fiche d'arc de R1 etape 3 : la replique de Rogue au premier appel de J11, dictee au thread R2. Domicile : Roadmap_R2_Dyabes_La.md, section Matiere dictee (la roadmap R1 est au plafond).
+- Passe 3, fiches d'arc de R2 : lieu ou Silas recoit l'appel de Regina a J18, non dicte ; physique de Rebeca Price, non documente par le canon consulte ; physique de Regina Jones non verse (elle ne parait qu'en holo).
 - Rosalind Myers, mention "otage de Hansen" / "retenue par Hansen" : elle n'a rien a faire la, c'est de l'apres R0 (decision worldbuilder). Retiree de B4. Retiree a la boucle R0 des pages relivrees : Chrono_2077.md S4, Pacifica_et_Dogtown.md S6, Barghest.md S4. Reste, en boucle R5 : Rosalind_Myers.md S6 ; a relire : FIA_NUSA.md S4. Repere canon pour R5 : jamais capturee ; V la sort de l'epave et la met a l'abri, Reed l'exfiltre.
 - WIKI encore "selon la branche" sur Phantom Liberty : Factions/Barghest.md S4 (qui tue Hansen), Factions/FIA_NUSA.md (branche Reed fixee ; a corriger en boucle R10-R11).
 
@@ -30,8 +34,6 @@
 ## Trous ouverts
 - Eclat Dodger / Bennett (fil SB8, ouvert a B6 : decision worldbuilder) : usage exact dans l'apres-Hansen, R8 et R12. Parque au garde-cap.
 - Mr. Hands : nom civil Wade Bleecker a recouper sur le wiki fandom ; description physique a verser avant R8.
-- R2 : l'appel de fin de R1 et le contrat de Rogue tombent tous deux a J11 : meme appel ou non. Mort de Rhyne et rituel Maelstrom : a situer par rapport a J11 (R1 couvre deja J4 -> J11). Parques au garde-cap.
-- R2, canon verifie au thread R1 : "Hot Merchandise" est bien donne par Rogue ; gig d'acte 2 en canon (apres Ghost Town) : l'avancer a T0 + 1 semaine est une divergence de date a assumer, comme "Waiting for Dodger".
 - Dialogues de "Waiting for Dodger" : pas de transcription accessible au build ; le worldbuilder peut les decrire pour la fiche d'arc de l'etape 2.
 - Cause de la mort de Rhyne ; role eventuel d'un cyberpsycho.
 - Bartmoss : version canon de sa mort (frigo, arret cardiaque, date) contre declenchement du virus.
@@ -43,14 +45,14 @@
 - Date de la cecite de Slider (avant 2070).
 - Mosley : lieu de l'altercation de 2076 ; son poste avant Pacifica.
 - Bouclage de Watson : motif canon.
-- Sort de l'IA extraite de Skippy. Nature du virus de Delamain. Lieu exact du signalement de Zaria Hughes (sous-district : Northside, confirme).
-- A reverifier sur le canon : sous-district du Konpeki Plaza ; nom du traite de fin de guerre d'Unification ; developpe de R.A.B.I.D.S. ; population de Night City en 2077 ; fenetre de disponibilite de "Bloody Ritual" (des l'acte 1 ?).
+- Sort de l'IA extraite de Skippy. Nature du virus de Delamain. Lieu exact du signalement de Zaria Hughes (sous-district : Northside, confirme ; les guides divergent sur le point exact, cf. IA/Lilith.md S2bis).
+- A reverifier sur le canon : sous-district du Konpeki Plaza ; nom du traite de fin de guerre d'Unification ; developpe de R.A.B.I.D.S. ; population de Night City en 2077.
 
 ## Regles et derogations actives
 - BIBLE B6 : 46 046 caracteres (B4 : 41 532 ; ecart : dettes des boucles R0 et R1, fil SB8 de l'eclat). Compressions a, b, c de B4 conservees (arcs SB3 en une clause, SB2 sans argot generique, notices de Silas et Yor). Plafond dur 55 000 tenu ; cible 35-40k depassee d'environ 6 000. Motif : les faits de saga (Rn) gardent leur domicile en BIBLE tant que la roadmap qui les produit n'est pas ecrite (anti-boucle). Pas de campagne de compression : la decroissance se fait au fil des boucles (decision worldbuilder).
 - Budgets : Sommaire, plafond 20 000 caracteres ; IA/J0RMUN94ND.md, plafond 12 000 ; fiche protagoniste, 20 000 (SPEC).
 - Pages proches du plancher de 2 000 caracteres, a surveiller : Rosalind_Myers (2 007), Solomon_Reed (2 131), Placide (2 321). Sous le plancher, un satellite refusionne dans sa fiche mere.
-- Pages proches du plafond de 8 000 caracteres : Monde/Net_et_Blackwall.md ; Roadmap/Silas/Roadmap_R1_Otel_Liksye.md (7 936). Chrono_2077 scindee en boucle R1 : Chrono_2077_Acte1.md (6 283 ; recoit encore R2) et Chrono_2077.md (3 576 ; grossira de R3 a R15, nouvelle scission probable).
+- Pages proches du plafond de 8 000 caracteres : Monde/Net_et_Blackwall.md ; Roadmap/Silas/Roadmap_R1_Otel_Liksye.md (7 936) ; Roadmap/Silas/Roadmap_R2_Dyabes_La.md (7 906) ; IA/Lilith.md (7 430, section Zaria comprise) ; Chronologie/Chrono_2077_Acte1.md (7 275 apres R2 : l'ouverture de R3, dans l'ellipse, n'y tiendra qu'en tres court ; le reste de R3 va a Chrono_2077.md, 3 576, qui grossira jusqu'a R15, nouvelle scission probable). IA/J0RMUN94ND.md : 11 162 sur 12 000, a surveiller des R3. Garde-cap : 20 835, sans plafond fixe.
 - Contrats de V : on n'evoque que ceux qui touchent a ceux de Silas (decision worldbuilder).
 - Vocabulaire (decision worldbuilder) : l'argot et les termes canon restent en VO (deck, quickhack, hack, ICE, daemon, fixer, merc, netrunner...). Trois exceptions francisees : eclat (shard), trait plat (flatline), cracheur (terme d'argot Cyberpunk pour une arme a feu, en VF ; VO : "iron" [a confirmer]). Ce sont des termes d'argot du monde, pas des remplacements litteraux : "revolver", "arme", "pistolet" restent des mots ordinaires. Le worldbuilder signale au fil de l'eau ce qui le derange. Applique aux pages relivrees et a la BIBLE (SB2 : les trois termes au lexique) ; le reste du WIKI au fil des relivraisons.
 - Lexique creole : le worldbuilder dicte en francais, le MJ traduit. Le reste se traduit a la volee en jeu, sur balise [Creole].

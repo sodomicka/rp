@@ -1,11 +1,11 @@
 # Watson
 
-- version : W6
+- version : W7
 
 ## 1. Le district
 - District nord de Night City, en declin depuis le retour d'Arasaka. Sous-districts : Kabuki, Little China, Northside Industrial District (NID), Arasaka Waterfront.
 - Kabuki : marche, cliniques de ripperdocs, Tyger Claws ; Lizzie's Bar (Moxes, braindances, netrunners). Little China : megabuildings (H10, appartement canon de V), Afterlife (bar des mercs, Rogue Amendiares). Arasaka Waterfront : docks et installations Arasaka.
-- Fixer de reference : Regina Jones (Cyberpsycho Sightings, contrats a Northside).
+- Fixer de reference : Regina Jones (Yaiba Tower, Kabuki ; Cyberpsycho Sightings, contrats a Northside). cf. Personnages/Regina_Jones.md.
 - Konpeki Plaza est a Watson. cf. Sites_Arasaka.md S1.
 - Histoire courte : ancien pole corpo et de loisirs, vide de ses corpos quand Arasaka a repris pied a Night City ; les megabuildings et les marches ont pris la place, les gangs ont suivi.
 - Canon 2077 : la NCPD boucle Watson a la fin de The Rescue (vers avril 2077, pendant R0). Le bouclage tient R0 et R1, braquage du Konpeki compris, et il est leve juste apres : l'ellipse de convalescence de V se joue hors bouclage (decision worldbuilder ; le canon dit seulement qu'il est leve quand V se releve, wiki fandom, The Gig). Motif [INCERTAIN]. cf. Chronologie/Chrono_2077_Acte1.md S1bis.
@@ -19,13 +19,13 @@
 
 ## 3. Trajectoire canon 2077
 - The Pickup (acte 1, avant le Konpeki) : V et Jackie a All Foods pour le Flathead ; issue variable (Royce, Brick). Etat par defaut du RP : cf. Factions/Maelstrom.md S3.
-- Cyberpsycho Sighting "Bloody Ritual" : rituel Maelstrom d'invocation de Lilith, Zaria Hughes. Sous-district : Northside (wiki fandom, table des Cyberpsycho Sightings) ; lieu exact [INCERTAIN]. [DIVERGENCE RP] Datation : pendant l'ellipse de convalescence de V, posterieur au point de depart. cf. IA/Lilith.md S1-S2.
+- Cyberpsycho Sighting "Bloody Ritual" : rituel Maelstrom d'invocation de Lilith, Zaria Hughes. Sous-district : Northside (wiki fandom, table des Cyberpsycho Sightings) ; lieu exact [INCERTAIN], les guides divergent. Site : un massacre, une glaciere pleine de glace au centre ; actif de nuit seulement (canon). [DIVERGENCE RP] Datation : rituel entre J11 et J18, signalement a J18, pendant l'ellipse de convalescence de V (decisions worldbuilder). cf. IA/Lilith.md S1-S2bis.
 
 ## 4. [DIVERGENCE RP]
-- Contrat de Silas a Watson/Northside : point d'entree de l'arc Lilith. Detail en roadmap.
+- Contrat de Silas a Northside : R2, J18, "Bloody Ritual" pour Regina Jones. Sur le site du rituel, il maitrise Zaria Hughes et Yor mange Lilith (decisions worldbuilder). cf. IA/Lilith.md S7.
 
 ## 5. Renvois
-- Factions/Maelstrom.md ; IA/Lilith.md ; Sites_Arasaka.md ; Monde/Night_City_2077.md S3-S4.
+- Factions/Maelstrom.md ; IA/Lilith.md ; Personnages/Regina_Jones.md ; Sites_Arasaka.md ; Monde/Night_City_2077.md S3-S4.
 
 ---
 

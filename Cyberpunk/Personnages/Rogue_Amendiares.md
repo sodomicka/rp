@@ -1,6 +1,6 @@
 # Rogue Amendiares
 
-- version : W1
+- version : W2
 
 ## 1. Identite (canon)
 
@@ -26,7 +26,7 @@
 ## 4. [DIVERGENCE RP] Silas Null
 
 - Fixer occasionnelle de Silas. Elle le juge tres fiable et lui confie les contrats ou l'echec n'est pas une option.
-- Ce que Rogue sait : la reputation, verifiee contrat apres contrat. Rien de Yor.
+- Ce que Rogue sait : la reputation, verifiee contrat apres contrat. Qu'il est Voodoo Boy, et que les VDB sont en guerre ouverte contre les Animals (decision worldbuilder). Rien de Yor.
 - Texture de la relation : cf. Personnages/Silas_Null_relations_2.md.
 
 ## 5. Trajectoire datee
@@ -36,6 +36,8 @@ Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entrees.
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | R1, J11 (T0 + 1 semaine) | Silas l'appelle pour se dire disponible. Il a attendu une semaine : elle recoit des appels par centaines depuis la mort de Saburo Arasaka (decision worldbuilder) | Sait Silas disponible |
+| R2, J11 | Au bout de cet appel, elle lui demande quelques heures : elle pense avoir un boulot de premier choix qui exige sa discretion et son efficacite, et veut verifier les details. Elle pese le pour et le contre : impliquer un VDB, c'est foutre la merde politiquement ; mais les VDB sont en guerre ouverte contre les Animals, donc au pire ca donne un alibi a Silas. Elle le rappelle : il est parfait pour le job (decisions worldbuilder) | Lui confie "Hot Merchandise", son contrat le plus exigeant du moment. cf. Personnages/Rebeca_Price.md |
+| R2, nuit de J11 | Silas neutralise Rebeca Price a Data Inc., Wellsprings | Contrat rempli. Sort de Rebeca : branche jouee (Parties/, Decisions) |
 
 ## 6. Notes de certitude
 
@@ -43,7 +45,7 @@ Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entrees.
 
 ## 7. Renvois
 
-- Personnages/Silas_Null.md S9 ; Personnages/Silas_Null_relations_2.md ; Lieux/Watson.md S1 ; IA/Alt_Cunningham.md ; Monde/Night_City_2077.md S4.
+- Personnages/Silas_Null.md S9 ; Personnages/Silas_Null_relations_2.md ; Personnages/Rebeca_Price.md ; Lieux/Watson.md S1 ; IA/Alt_Cunningham.md ; Monde/Night_City_2077.md S4.
 
 ---
 

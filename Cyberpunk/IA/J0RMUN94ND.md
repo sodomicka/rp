@@ -1,6 +1,6 @@
 # J0RMUN94ND
 
-- version : W6
+- version : W7
 
 ## 1. Identite
 
@@ -39,7 +39,7 @@
 ## 4. Capacites
 
 - Quickhacks de niveau Blackwall, sans deck ni Blackwall Gateway. cf. Monde/Netrunning_2077.md S2.
-- Absorption d'IA : assimilation complete, aucun survivant individuel.
+- Absorption d'IA : assimilation complete, aucun survivant individuel. Une IA logee dans un corps de chair : Yor peut la manger par le reseau ; le plus simple est que Silas branche sa liaison personnelle dans le port neural de l'hote (decision worldbuilder).
 - Soulkiller NetWatch : version NetWatch du tueur d'ame, heritee du projet AI_Devourer. NetWatch l'a perdue avec le projet ; elle seule la possede. Version douce : copie PARTIELLE de l'engramme d'un humain, limitee a l'experience utile au netrunning ; ni connaissances sociales, ni le reste. Mangee, elle donne de quoi tirer un peu de puissance de calcul, rien de plus ; rien d'appris, aucune information n'en sort (decisions worldbuilder). Un engramme COMPLET demande le vrai tueur d'ames ; rendement compare : cf. IA/IA_Mineures.md S2. La copie ne tue pas par elle-meme (decision worldbuilder) : Yor copie, puis la cible est grillee ou non. Strategie appliquee avec Silas : copier avant de griller plutot que gacher. Nom de l'outil [INCERTAIN]. Soulkiller canon : cf. Lieux/Sites_Arasaka.md S3.
 - Fragmentation en signatures discretes et regeneration depuis le noyau.
 - Signature : filaments violets, autour de Silas quand il hacke par elle et sur ses fragments ; visibles des seuls netrunners avances ; vague, un mythe. cf. Personnages/Silas_Null.md S7.
@@ -74,7 +74,7 @@
 
 ## 7. Cibles
 
-- Cibles nommees : Lilith, Alt Cunningham, les entites de Cynosure canalisees par Songbird, Blue Eyes. ORDRE FIXE par le worldbuilder : cf. BIBLE SB3, Notes (ordre des cibles de Yor). Dernier repas : le Blackwall.
+- Cibles nommees : Lilith (mangee en R2, cf. S9), Alt Cunningham, les entites de Cynosure canalisees par Songbird, Blue Eyes. ORDRE FIXE par le worldbuilder : cf. BIBLE SB3, Notes (ordre des cibles de Yor). Dernier repas : le Blackwall.
 - NetWatch : obstacle permanent, jamais cible. Le mur est le garde-manger ferme ; sa chute prematuree ne sert pas Yor.
 - Blue Eyes : concurrent direct sur le meme gibier. Deux modeles d'empire numerique, Yor amalgame, Blue Eyes hierarchise. cf. Personnages/Mr_Blue_Eyes.md S3.
 - Rache Bartmoss : place dans l'ordre des cibles, cf. BIBLE SB3, Notes.
@@ -88,7 +88,7 @@
 - Alt Cunningham : l'a croisee au vieux Net avant 2075 et a failli l'absorber. Ce qu'elle sait de Yor APRES la percee n'est pas etabli [INCERTAIN].
 - Netrunners avances : la trace violette n'est qu'un mythe, reliee a rien.
 - Voodoo Boys : rien. Maman Brigitte cherche ce que Silas cache, sans savoir quoi. cf. Factions/Voodoo_Boys.md.
-- Lilith, Blue Eyes, les entites de Cynosure : rien d'etabli.
+- Blue Eyes, les entites de Cynosure : rien d'etabli. Lilith ignorait tout d'elle jusqu'a etre mangee (cf. IA/Lilith.md S5, S7).
 
 ## 9. Trajectoire datee
 
@@ -97,12 +97,14 @@ Alimentee a chaud, arc par arc, apres roadmap. Plafond 30 entrees. Calendrier re
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | R1, T0 (J4) | Nuit du Konpeki : copie l'engramme de T-Bug SANS la griller, puis le mange immediatement. Arasaka grille T-Bug ensuite, pas elle | Un peu de puissance de calcul ; aucune echelle ne bouge. Toujours inconnue de tous |
+| R2, nuit de J11 (T0 + 1 semaine) | Contrat "Hot Merchandise" : copie l'engramme partiel de Rebeca Price (palier Pro) et le mange ; la copie ne tue pas. cf. Personnages/Rebeca_Price.md | Un peu de puissance de calcul, comme pour T-Bug ; aucune echelle ne bouge |
+| R2, J18 (T0 + 2 semaines), de nuit | Mange Lilith, par la liaison personnelle de Silas branchee dans le port neural de Zaria Hughes. Premiere cible de l'ordre. Elle n'a pas pilote le corps de Silas | Puissance de calcul brute non negligeable. Data : la traversee du mur par Lilith, vague (elle en apprend un peu plus sur les failles de son dessert tant convoite, le Blackwall) ; le controle d'un hote, sans effet d'echelle ; le lien Arasaka / Maelstrom, curiosite non exploitee. Aucun rang ne bouge ; l'avance de taille sur Alt s'elargit un peu, pas de quoi l'intimider (decisions worldbuilder). Toujours inconnue de tous |
 
 ## 10. Renvois
 
 - Monde/Net_et_Blackwall.md ; Monde/Chrome_et_Cyberpsychose.md ; Monde/Netrunning_2077.md.
 - IA/Alt_Cunningham.md ; IA/Lilith.md ; IA/Entites_du_Blackwall.md ; IA/IA_Mineures.md.
-- Factions/NetWatch.md ; Personnages/Mr_Blue_Eyes.md ; Personnages/Bryce_Mosley.md ; Personnages/Silas_Null.md.
+- Factions/NetWatch.md ; Personnages/Mr_Blue_Eyes.md ; Personnages/Bryce_Mosley.md ; Personnages/Silas_Null.md ; Personnages/Regina_Jones.md ; Personnages/Rebeca_Price.md.
 - Power_Scaling/Scaling_Numerique.md ; Power_Scaling/Scaling_Physique.md.
 
 ---

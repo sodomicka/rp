@@ -1,6 +1,6 @@
 # Maelstrom
 
-- version : W4
+- version : W5
 
 ## 1. Nature
 - Gang de Watson : Northside Industrial District et nord de Kabuki. Environ 1 300 membres. Menace : extreme.
@@ -21,9 +21,9 @@
 - Totentanz : club dans un hotel abandonne de Northside. Regle maison : moins d'une douzaine de morts par soiree, soiree ennuyeuse.
 
 ## 5. Lilith et le rituel
-- Cyberpsycho Sighting "Bloody Ritual" : rituel Maelstrom pour invoquer Lilith depuis l'au-dela du Blackwall. Zaria Hughes possedee, devenue cyberpsycho. [DIVERGENCE RP] Datation : rituel, prise de corps et signalement pendant l'ellipse de convalescence de V, posterieurs au point de depart (decision worldbuilder). cf. IA/Lilith.md S1-S2.
+- Cyberpsycho Sighting "Bloody Ritual" : rituel Maelstrom pour invoquer Lilith depuis l'au-dela du Blackwall. Zaria Hughes possedee, devenue cyberpsycho. [DIVERGENCE RP] Datation : rituel et prise de corps entre J11 et J18, non dates, pendant l'ellipse de convalescence de V ; signalement de Regina Jones a J18, confie a Silas Null (decisions worldbuilder). Issue : cultistes retrouves morts sur le site (canon) ; Lilith mangee par J0RMUN94ND ; Zaria, coquille vide, remise a Regina. cf. IA/Lilith.md S1-S2bis, S7.
 - Gig "The Prophet's Song" : reunion secrete Arasaka / Maelstrom enregistree. Un Maelstromer : "Lilith a cache le dixieme cercle aux yeux des ancetres". Formule "Carpe Noctem", aussi sur le shard de Sandra Dorsett (Night Corp).
-- [DIVERGENCE RP] Zaria Hughes = IA dans un corps de chair, cf. Monde/Chrome_et_Cyberpsychose.md S2bis. Lilith = cible de J0RMUN94ND. cf. IA/Lilith.md.
+- [DIVERGENCE RP] Zaria Hughes = IA dans un corps de chair, cf. Monde/Chrome_et_Cyberpsychose.md S2bis ; sa notice vit en IA/Lilith.md S2bis (decision worldbuilder). Lilith = premiere cible de J0RMUN94ND. cf. IA/Lilith.md.
 
 ## 6. Renvois
 - Lieux/Watson.md ; IA/Lilith.md ; Monde/Chrome_et_Cyberpsychose.md ; Factions/Night_Corp.md (Carpe Noctem).

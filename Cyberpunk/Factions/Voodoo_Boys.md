@@ -1,6 +1,6 @@
 # Voodoo Boys
 
-- version : W7
+- version : W8
 
 ## 1. Origine
 - Sans lien avec le gang du meme nom des annees 2020.
@@ -13,7 +13,7 @@
 - But : percer les secrets de l'Old Net et de l'au-dela du Blackwall, contacter les IA rogues. Croient la chute du mur inevitable et veulent s'attirer les faveurs des IA a leur retour. Ennemi jure de NetWatch.
 - Culture vaudou affichee : tatouages, os et cranes de petits oiseaux et rongeurs en amulettes, pretres et pretresses.
 - Base : sous la chapelle de Batty's Hotel, Coastview. Salle de netrunning, bains de glace.
-- Rivaux : les Animals (boostergang de Pacifica).
+- Rivaux : les Animals (boostergang de Pacifica). Guerre ouverte entre les deux gangs (decision worldbuilder).
 
 ## 3. Direction et acces
 - Maman Brigitte : chefine, netrunneuse. Mene le contact avec Alt Cunningham. Ne plonge pas elle-meme au-dela : envoie un intermediaire, un "ranyon". cf. Personnages/Maman_Brigitte.md.

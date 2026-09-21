@@ -1,6 +1,6 @@
 # Silas Null - Relations (le metier)
 
-- version : W5
+- version : W6
 
 Texture des relations de travail. Fiche mere : cf. Personnages/Silas_Null.md S9. Cercle de Yor et du clan : cf. Personnages/Silas_Null_relations_1.md.
 
@@ -31,17 +31,23 @@ Texture des relations de travail. Fiche mere : cf. Personnages/Silas_Null.md S9.
 ## Rogue Amendiares
 
 - Statut : fixer occasionnelle, reine de l'Afterlife. Fiche : cf. Personnages/Rogue_Amendiares.md.
+- Surnoms / adresses : elle l'appelle par son handle, Zer0.
 - Dynamique : elle le juge tres fiable. Elle lui confie les contrats ou l'echec n'est pas une option.
 - Ce que Rogue sait : la reputation, verifiee contrat apres contrat. Rien de Yor.
 - Evolution datee :
   - R1, J11 (T0 + 1 semaine) : il a attendu une semaine, elle doit recevoir des appels par centaines depuis la mort de Saburo Arasaka ; il l'appelle pour se dire disponible.
+  - R2, J11 : elle lui demande quelques heures, le temps de verifier les details d'un boulot qui exige sa discretion et son efficacite, puis le rappelle : "Hot Merchandise", son contrat le plus exigeant du moment. Elle a pese le risque politique d'impliquer un VDB ; la guerre ouverte entre VDB et Animals lui fait au pire un alibi (decisions worldbuilder).
+  - R2, nuit de J11 : contrat rempli, Rebeca Price neutralisee. cf. Personnages/Rebeca_Price.md.
 
 ## Regina Jones
 
-- Statut : fixer occasionnelle, Watson.
+- Statut : fixer occasionnelle, Watson. Fiche : cf. Personnages/Regina_Jones.md.
 - Dynamique : elle le trouve tres efficace, surtout en chasse aux cyberpsychos. Elle paie pour des cyberpsychos neutralises vivants (cf. Monde/Chrome_et_Cyberpsychose.md S2) ; il les livre vivants.
-- Mecanique cachee : sur les vrais cyberpsychos, IA en corps de chair, Yor a deja pris sa part. Silas livre des corps brises, plus psychotiques. Regina recoit des echantillons corrompus.
+- Mecanique cachee : sur les vrais cyberpsychos, IA en corps de chair, Yor a deja pris sa part. Silas livre des corps vivants, brises, sans psychose. Regina recoit des echantillons corrompus.
+- Rituels / habitudes : contrats par holo. Remise d'un corps comme tout contrat : une voiture au coin de la rue, le corps inconscient mis dans le coffre (decision worldbuilder).
 - Ce que Regina sait : des livraisons propres et rapides. Rien de ce que Yor preleve.
+- Evolution datee :
+  - R2, J18 (T0 + 2 semaines) : elle l'appelle pour "Bloody Ritual", a Northside. La nuit meme, il maitrise Zaria Hughes vivante ; Yor mange Lilith ; le corps, coquille vide, est dans le coffre avant l'aube. Regina n'y voit qu'une Maelstromer qui a mal supporte sa chrome. cf. IA/Lilith.md S2bis, S7.
 
 ---
 

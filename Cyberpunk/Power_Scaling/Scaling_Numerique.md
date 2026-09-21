@@ -1,6 +1,6 @@
 # Scaling numerique
 
-- version : W2
+- version : W3
 
 Echelle de tout ce qui agit sur le Net : entites (IA, fantomes) et netrunners humains. Etat au point de depart, sauf mention datee. Capacites physiques des memes personnes : cf. Power_Scaling/Scaling_Physique.md.
 
@@ -28,7 +28,7 @@ Echelle de tout ce qui agit sur le Net : entites (IA, fantomes) et netrunners hu
 - Blackwall : IA deguisee en ICE noir (cf. Monde/Net_et_Blackwall.md S3). Ultime repas de Yor ; les autres repas sont ce qui l'en rend capable.
 - Blue Eyes, taille : noyau centralise dans un corps, sa puissance de calcul lui suffit. Puissance brute : il veut absorber les entites de Cynosure pour en gagner. cf. Personnages/Mr_Blue_Eyes.md S3.
 - Entites de Cynosure, planification : trop chaotiques pour etre asservies. Taille : nombre des entites [INCERTAIN]. cf. IA/Entites_du_Blackwall.md S3.
-- Lilith : la plus petite des cibles nommees ; Yor l'ecrase. cf. IA/Lilith.md S4.
+- Lilith : la plus petite des cibles nommees ; Yor l'ecrase. Mangee en R2 (S5). cf. IA/Lilith.md S4.
 
 ## 3. Lecture
 
@@ -61,6 +61,7 @@ Echelle de tout ce qui agit sur le Net : entites (IA, fantomes) et netrunners hu
 | Runners corpo (Arasaka, NetWatch) | Pro a Elite | - | tracage, contre-intrusion |
 | Bryce Mosley | Pro, haut du palier | - | colmater les breches du Blackwall |
 | T-Bug | Pro | - | support d'operation a distance |
+| Rebeca Price | Pro, une bonne runneuse, du niveau de T-Bug (decision worldbuilder) | - | netrunning de boutique (Data Inc.), tracage d'intrus |
 | Sandra Dorsett | Pro | - | netrunning corpo (Night Corp) |
 | Runners de gang | Rue | - | - |
 
@@ -77,12 +78,14 @@ Alimente a chaud, arc par arc, apres roadmap : chaque repas de Yor deplace l'ech
 | Date/ere | Evenement | Delta d'echelle |
 |---|---|---|
 | R1, T0 (J4) | Yor mange l'engramme partiel de T-Bug (palier Pro), copie par le Soulkiller NetWatch : experience de netrunning seulement. cf. IA/J0RMUN94ND.md S4 | Negligeable : un peu de puissance de calcul. Aucun rang ne bouge |
+| R2, nuit de J11 | Yor mange l'engramme partiel de Rebeca Price (palier Pro), meme outil. cf. Personnages/Rebeca_Price.md | Negligeable : nourrit un peu Yor, comme T-Bug. Aucun rang ne bouge |
+| R2, J18, de nuit | Yor mange Lilith, premiere cible de l'ordre. cf. IA/Lilith.md S7 | Puissance de calcul brute non negligeable, plus de la data. Aucun rang ne bouge ; l'avance de taille sur Alt s'elargit un peu, pas de quoi l'intimider. Lilith sort du tableau (decisions worldbuilder) |
 
 ## 6. Renvois
 
 - IA/J0RMUN94ND.md ; IA/Alt_Cunningham.md ; IA/Lilith.md ; IA/Entites_du_Blackwall.md ; IA/IA_Mineures.md ; Personnages/Mr_Blue_Eyes.md.
 - Monde/Netrunning_2077.md S6 ; Monde/Net_et_Blackwall.md.
-- Personnages/Silas_Null.md ; Personnages/Songbird.md ; Personnages/Maman_Brigitte.md ; Personnages/Wilky_LaGuerre.md ; Personnages/Placide.md ; Personnages/T_Bug.md ; Personnages/Bryce_Mosley.md ; Personnages/Sandra_Dorsett.md.
+- Personnages/Silas_Null.md ; Personnages/Rebeca_Price.md ; Personnages/Songbird.md ; Personnages/Maman_Brigitte.md ; Personnages/Wilky_LaGuerre.md ; Personnages/Placide.md ; Personnages/T_Bug.md ; Personnages/Bryce_Mosley.md ; Personnages/Sandra_Dorsett.md.
 - Power_Scaling/Scaling_Physique.md.
 
 ---

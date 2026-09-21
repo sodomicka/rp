@@ -1,6 +1,6 @@
 # Scaling physique
 
-- version : W2
+- version : W3
 
 Echelle du corps au combat, capacites de hack exclues : mercs, soldats, runners, machines, corps possedes. Puis l'emprise physique des entites. Etat au point de depart, sauf mention datee. Talent de netrunner des memes personnes : cf. Power_Scaling/Scaling_Numerique.md.
 
@@ -25,7 +25,7 @@ Echelle du corps au combat, capacites de hack exclues : mercs, soldats, runners,
 - David Martinez : Sandevistan militaire ; tombe face a Smasher (canon, 2076).
 - Takemura : garde du corps de Saburo Arasaka. Reed : ancien des forces speciales, espion et combattant (cf. Personnages/Solomon_Reed.md). Hansen : officier commando deserteur, seigneur de guerre de Dogtown (cf. Personnages/Kurt_Hansen.md). MaxTac : unite d'elite qui abat les cyberpsychos. Cerberus : robot de garde de Cynosure (cf. IA/Entites_du_Blackwall.md S3).
 - Placide : lui faire face, c'est se retrouver enferme avec un grizzly (cf. Personnages/Placide.md S2).
-- Vrais cyberpsychos : IA sauvage dans un corps de chair, cas de Zaria Hughes et Lilith (prise de corps pendant l'ellipse de convalescence de V, posterieure au point de depart). Il faut MaxTac pour les abattre ; Silas les chasse pour Regina Jones. cf. Monde/Chrome_et_Cyberpsychose.md S2bis.
+- Vrais cyberpsychos : IA sauvage dans un corps de chair, cas de Zaria Hughes et Lilith (prise de corps pendant l'ellipse de convalescence de V, posterieure au point de depart ; Zaria : lames mantis, camouflage optique, tres rapide, cf. IA/Lilith.md S2bis). Il faut MaxTac pour les abattre ; Silas les chasse pour Regina Jones. cf. Monde/Chrome_et_Cyberpsychose.md S2bis.
 - T-Bug : douee sur le Net seulement. Brigitte : corps lourdement modifie pour le Net, faible menace physique (canon, cf. Personnages/Maman_Brigitte.md S2).
 
 ## 3. Silas et V
@@ -43,7 +43,7 @@ Ce qu'une entite tient dans le reel. C'est l'axe ou Blue Eyes domine Yor.
 |---|---|---|
 | 1 | Blue Eyes | un corps (cadavre habite) et un reseau d'esclaves, humains et IA en corps |
 | 2 | J0RMUN94ND | un hote vivant et consentant, qu'elle peut piloter |
-| 3 | entites de Cynosure ; Lilith a partir de sa prise de corps (pendant l'ellipse de convalescence de V) | un corps chacune, qui cede (Songbird ; Zaria Hughes) |
+| 3 | entites de Cynosure ; Lilith, de sa prise de corps a son absorption (pendant l'ellipse de convalescence de V, cf. S5) | un corps chacune, qui cede (Songbird ; Zaria Hughes) |
 | 4 | Alt Cunningham | aucun corps ; agit par intermediaires |
 
 - Fondement : les IA rogues veulent des plateformes physiques pour agir sur le reel (enonce canon d'Alt). cf. IA/Entites_du_Blackwall.md S5.
@@ -52,11 +52,12 @@ Ce qu'une entite tient dans le reel. C'est l'axe ou Blue Eyes domine Yor.
 
 ## 5. Deltas dates
 
-Vide a la genese. Alimente a chaud, arc par arc, apres roadmap. Plafond 30 entrees.
+Alimente a chaud, arc par arc, apres roadmap. Plafond 30 entrees.
 
 | Date/ere | Evenement | Delta d'echelle |
 |---|---|---|
-| | | |
+| R2, entre J11 et J18 (non date) | Lilith prend le corps de Zaria Hughes | Lilith entre au rang 3 de l'emprise physique |
+| R2, J18, de nuit | Silas maitrise Zaria Hughes vivante, seul : Yor ne pilote pas. Yor mange Lilith | Lilith quitte le tableau de l'emprise physique. Data de controle d'hote acquise par Yor : sans effet d'echelle (decision worldbuilder). Aucun palier ne bouge |
 
 ## 6. Renvois
 
