@@ -1,6 +1,6 @@
 # Especes_Taxonomie
 
-- version : W2
+- version : W3
 
 ## Principe
 - Personne = espece douee de raison, dite "sapiens". Critere : la RAISON (logique de niveau humain). Sinon : animal.
@@ -30,6 +30,7 @@
 - Hybrides : notes Genre x Genre (ex. Lupus x Homo, Lepus x Homo). Peu documentes : personne ne sait vraiment ce qu'ils sont.
 - Fusions (meme espece reelle) : oursons -> ours ; lapins + lievres -> Lepus ; vaches + taureaux -> Bos ; cochons + sangliers -> Sus.
 - Genre fixe par personnage (plusieurs genres reels) : oiseaux (hors hirondelles), aigles, singes, elephants.
+- Ex. : Niko, langur gris -> Semnopithecus sapiens.
 - "Lupus Lupus" : nom de la ville de Lupus, pas d'une espece.
 
 ## Mammiferes (voie sexuee)
@@ -39,8 +40,10 @@ Toutes communes sauf mention.
 - Canis sapiens : chiens.
 - Panthera sapiens leo : lions.
 - Panthera sapiens tigris : tigres.
+- Panthera sapiens pardus : pantheres (leopards, pantheres noires comprises). Grand felin, donc apex.
 - Lepus sapiens : lapins et lievres.
 - Vulpes sapiens : renards.
+- Lutra sapiens : loutres.
 - Erinaceus sapiens : herissons.
 - Felis sapiens : chats.
 - Ursus sapiens : ours.
@@ -54,6 +57,8 @@ Toutes communes sauf mention.
 - Camelus sapiens : chameaux.
 - Vicugna sapiens : alpagas.
 - Hippopotamus sapiens : hippopotames.
+- Giraffa sapiens : girafes.
+- Trichechus sapiens : lamantins.
 - Rhinoceros sapiens : rhinoceros.
 - Gorilla sapiens : gorilles.
 - Macropus sapiens : kangourous.
@@ -75,6 +80,7 @@ Toutes communes. Vivipares [IMPLICITE - organes reproducteurs d'Homo].
 - Chrysemys sapiens : tortues.
 - Rana sapiens : grenouilles.
 - Dendrobates sapiens : dendrobates.
+- Ambystoma sapiens : axolotls.
 - Crocodylus sapiens : crocodiles (alligators en VO).
 - Octopus sapiens : pieuvres.
 - Gallus sapiens : poules.

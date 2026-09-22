@@ -1,6 +1,6 @@
 # Gyroides
 
-- version : W1
+- version : W3
 
 ## Nature
 - Golems nes pour servir les especes douees de raison.
@@ -8,13 +8,20 @@
 - Ne se reproduisent pas entre eux.
 - Intelligents : repondent comme une IA, par un reseau neural exempt de toute architecture dediee a la conscience.
 - Juges non conscients ; leur conscience fait pourtant debat. Raisonnent sans etre des personnes : dissonance assumee du monde.
-- Vendus comme main-d'oeuvre (encheres a Lupus).
 - Ex. canon : Lloid, Gyroide au service de la mairie de Pont-la-Plaine.
+
+## Commerce
+- Gyroides courants, assez communs : les musicaux et ceux de chantier. Ils sont vendus directement par GyroCorp, l'entreprise qui les produit.
+- Gyroides specialises (cuisine, art, sexe, etc.) : des raretes. Ils se vendent :
+  - aux encheres, a la salle des ventes de Lupus ;
+  - en boutiques de luxe ;
+  - en boutiques specialisees.
+- Certains sont concus comme jouets sexuels et vendus en sex-shop.
 
 ## Origine : l'horreur des Gyroides
 - Pendant leurs in vitro "immondes", humains et pieuvres tombent sur une mousse qui reagit. Reaction infime : la plante reagit au son. Aucune raison (echec de l'in vitro).
 - La mousse est mutee jusqu'a devenir Bryum sensitivum.
-- Des siecles apres la decouverte, APRES l'interdiction de l'in vitro, quand le vent tourne : humains et pieuvres fondent une entreprise tenue par des hirondelles (Hirundo sapiens). Un moyen de continuer en cachette.
+- Des siecles apres la decouverte, APRES l'interdiction de l'in vitro, quand le vent tourne : humains et pieuvres fondent GyroCorp, une entreprise tenue par des hirondelles (Hirundo sapiens). Un moyen de continuer en cachette.
 - Couverture : le secret de fabrication.
 - Secret d'entreprise protege par les humains et les autres apex.
 
@@ -25,10 +32,13 @@
 - Mouvement : la mousse fait vibrer le coeur la ou elle veut bouger. L'articulation se liquefie, le membre part, tout se refige a l'arret. Certains Gyroides bougent tres vite les bras.
 - Le son les fait bouger : canon, ils gigotent et font du bruit quand la musique joue.
 
-## Naissance : les fragments
+## Fragments : naissance et reparation
 - Fragment : eclat d'argile tapisse de mousse en dormance. Les mousses du genre Bryum survivent a la dessiccation et reviennent a la vie au contact de l'eau.
 - A la pluie, la mousse se reveille et batit son coeur avec la boue du sol, comme l'hirondelle son nid. Puis elle cimente sa croute.
 - Canon NH : un fragment enterre et arrose donne un Gyroide le lendemain.
+- Reparation : quand un Gyroide se brise, son proprietaire en enterre les morceaux. Une nuit de pluie suffit, et le Gyroide ressort ressoude.
+- Usure : chaque enterrement le fragilise. Apres deux ou trois, il n'est plus fonctionnel.
+- D'ou les fragments qu'on trouve dans le sol apres la pluie : ce sont des Gyroides brises, enterres pour etre ramenes.
 
 ## Symbolique
 Chaque espece co-creatrice apporte son approche culturelle :
