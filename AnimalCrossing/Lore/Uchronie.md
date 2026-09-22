@@ -1,6 +1,6 @@
 # Uchronie
 
-- version : W4
+- version : W5
 
 ## Point de bascule
 - Divergence UNIQUE avec notre monde : l'humain s'hybride tres facilement avec les autres especes.
@@ -60,6 +60,11 @@ Etiquettes de travail, pas en usage dans le monde. Eres non datees ; seul repere
 - Fragments de la verite : archives, musee de Thibou. Ils ne livrent pas la cle [IMPLICITE].
 - La cle - la voie sexuee des mammiferes, l'origine par zoophilie - n'est connue que des familles nobles, dont la Meute.
 - Personne dans le monde ne detient le passe en entier.
+
+## Litterature
+- Des oeuvres de l'age d'or survivent et se lisent encore, chez ceux qui lisent de l'age d'or.
+- Chez ces lecteurs, lecture commune : les fables et recits animaliers de l'age d'or, La Fontaine et Orwell notamment, ont predit les Anthros.
+- Depuis l'age d'or, de nombreux ecrivains, humains et Anthros, ont emerge.
 
 ---
 

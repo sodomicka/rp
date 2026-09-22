@@ -1,6 +1,6 @@
 # Nook_Inc
 
-- version : W2
+- version : W3
 
 ## Nature
 - Groupe de Tom Nook (tanuki ; Tanuki sapiens, espece rare).
@@ -40,7 +40,7 @@
 - Nook Immobilier : agence immobiliere a Pont-la-Plaine.
   - Tente et pret pour les nouveaux venus.
   - Lionel (loutre) y note les interieurs.
-  - Max (shih tzu ; Digby en VO), frere jumeau de Marie, y dirige les services a la communaute.
+  - Max (shih tzu ; Digby en VO), frere jumeau de Marie, en est le gerant ; lundi et jeudi au siege (cf. Personnages/Max.md).
 - Nook Inc. :
   - colonisation des iles d'escapade par un forfait d'installation ;
   - miles Nook : monnaie de compagnie, gagnee contre du travail sur les iles ;
@@ -51,6 +51,9 @@
   - elle APPARTIENT A LA MEUTE. Nook n'en est que la figure publique ;
   - Daniel et Antoine de la Meute y sont banquiers ;
   - elle finance les prets de Nook Immobilier (cf. Le modele).
+
+## Cadres
+- Logement contre salaire : Nook "offre" un appartement a ses jeunes cadres contre un salaire reduit de 60 % pendant leurs trois premieres annees. Cas etabli : Max (cf. Personnages/Max.md).
 
 ## Meli et Melo
 - Tanukis jumeaux, apprentis de Nook.

@@ -1,6 +1,6 @@
 # Pont_la_Plaine
 
-- version : W3
+- version : W6
 
 ## Categorie et situation
 - Bergerie : village. Les trois categories d'etablissement du monde sont Menagerie (ville), Bergerie (village) et Reserve (ile).
@@ -21,6 +21,7 @@
 
 ## Gouvernance
 - Designation : le maire d'une Bergerie est designe par le cercle haut de la Menagerie dont elle depend. Pour Pont-la-Plaine, c'est le cercle haut de Lupus, aux mains de la Meute.
+- Insigne : le maire porte la tete de loup de profil, signe d'affiliation a Lupus (cf. Lieux/Lupus.md).
 - Pouvoirs : le maire a les pleins pouvoirs sur le village.
   - Les habitants n'ont pas leur mot a dire. Leur avis s'exprime par les dons, ou en faisant remonter a la mairie.
   - La confiance du village n'est pas une condition prealable : elle decoule de ses choix.
@@ -36,11 +37,12 @@
   - Lloid collecte les dons du maire et des habitants ;
   - Nook Inc. est le seul maitre d'oeuvre. Il est fiable et fournit main-d'oeuvre et materiaux, mais tout l'argent passe par lui ;
   - les Pontois ont l'habitude de financer les projets publics : c'est l'heritage de Tortimer.
-- Maire actuel : le fils loup-garou de la Meute (Lupus x Homo). Prenom [INCERTAIN].
+- Maire actuel : Remus de la Meute, le fils loup-garou (Lupus x Homo). Fiche : cf. Personnages/Remus_de_la_Meute.md.
   - Sa nomination est un placard dore : l'eloigner de Lupus sans le tuer.
   - Il a le sang bleu : la dette ne le concerne pas.
   - Maire de la Meute, il ne touche pas de traitement : il dispose de sa part des fonds familiaux et de leurs dividendes.
 - Predecesseur : Tortimer (tortue).
+  - Il portait lui aussi l'insigne de Lupus.
   - Il avait ete choisi pour son approche communautaire : il convainquait les habitants de financer les projets publics.
   - La Meute a annonce sa retraite sans le prevenir.
   - Il est mis au vert a Tortiland (cf. Lieux/Reserves.md).
@@ -48,7 +50,7 @@
 - Elite locale : Blanche de la Meute (louve), soeur ainee du maire. Installee au village par choix [IMPLICITE].
 
 ## Mairie (ile centrale)
-- Marie (shih tzu, Canis sapiens) : secretaire du maire.
+- Marie (shih tzu, Canis sapiens) : secretaire du maire depuis ses 21 ans, quatre ans sous Tortimer. Fiche : cf. Personnages/Marie.md.
 - Lloid (Gyroide) : collecte des fonds des travaux publics (cf. Systemes/Gyroides.md).
 
 ## Poste de police
@@ -63,7 +65,7 @@
 - Nook Immobilier : agence de Nook.
   - Tente et pret immobilier pour les nouveaux venus : c'est la porte d'entree de la dette au village.
   - Lionel (loutre) y note les interieurs.
-  - Max (shih tzu ; Digby en VO), frere jumeau de Marie, y dirige les services a la communaute.
+  - Max (shih tzu ; Digby en VO), frere jumeau de Marie, en est le gerant ; deux jours par semaine au siege de Lupus (cf. Personnages/Max.md).
 - Couturieres : Layette, Cousette, Tiquette (herissons).
 - Racine (paresseux) : graines et jardinerie.
 - Re-Tail : Serge et Risette (alpagas), depot-vente.

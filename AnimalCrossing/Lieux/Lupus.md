@@ -1,11 +1,13 @@
 # Lupus
 
-- version : W3
+- version : W5
 
 ## Categorie et nom
 - Menagerie : ville. C'est la grande ville de la region.
 - Nom complet : Lupus Lupus, dite Lupus. Le nom est tire de la classification scientifique, le classement ultime de l'age d'or humain.
 - La ville est aux mains des loups, c'est-a-dire de la Meute.
+- Embleme : une tete de loup de profil, symbole de Lupus et des de la Meute (cf. Factions/La_Meute.md).
+  - Les maires des Bergeries de Lupus la portent en insigne : c'est le signe de leur affiliation a la ville.
 - A Lupus :
   - l'argent ;
   - la nuit, les clubs, le theatre ;
@@ -29,6 +31,7 @@
   - il designe les maires des Bergeries alentour, dont Pont-la-Plaine ;
   - plusieurs membres de la Meute y siegent.
 - Siege de Nook Inc. : c'est le seul non-apex perche dans les Hauts. C'est le signe de la protection de la Meute.
+- Cathedrale : Henry de la Meute en est l'eveque (cf. Personnages/Henry_de_la_Meute.md).
 
 ## Le Milieu (cercle intermediaire)
 - La place : c'est le coeur marchand. Des habitants d'autres villes y flanent.

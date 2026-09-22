@@ -1,6 +1,6 @@
 # La_Meute
 
-- version : W2
+- version : W9
 
 ## Nature
 - La Meute, c'est a la fois :
@@ -10,10 +10,12 @@
 - C'est l'elite de la region.
 - Branches :
   - Viviane est l'Alpha des de la Meute de Lupus, la branche la plus puissante ;
+  - les branches secondaires ont pour doyens ses freres Wolfgang et Loupiot, soumis a l'Alpha ;
   - il existe des branches secondaires dans la ville ;
   - d'autres de la Meute vivent ailleurs dans le monde.
 - Doctrine : les loups ne jurent que par les affaires et la hierarchie. Ils ne sont PAS obsedes par la purete : le clan accepte des epoux apex, au pire des canides.
-- Savoir : comme les autres familles nobles, la Meute detient la cle de l'origine du monde (cf. Lore/Uchronie.md).
+- Embleme : une tete de loup de profil. C'est aussi le symbole de Lupus (cf. Lieux/Lupus.md).
+- Savoir : comme les autres familles nobles, la Meute detient la cle de l'origine du monde (cf. Lore/Uchronie.md). Elle la transmet a tous ses enfants, Remus compris : ils sont l'elite.
 - Secret de GyroCorp : les apex le protegent, donc la Meute aussi [IMPLICITE] (cf. Systemes/Gyroides.md).
 
 ## Domaines
@@ -30,58 +32,46 @@
 Les portees sont mixtes, puisque la mere est louve et le pere humain (cf. Systemes/Reproduction_Hybridation.md).
 
 ### Parents
-- Viviane de la Meute (louve ; Vivian en VO) :
-  - Alpha, siege au Conseil municipal ;
-  - arrogante ;
-  - louve pure : son pelage beige, au museau gris et aux extremites grises et marron, lui donne un aspect de malinois.
-- Arthur de la Meute, ne Fontaine (humain) :
-  - il vient d'une famille noble humaine ;
-  - au depart simple epoux de Viviane, il s'est montre aussi froid et calculateur que le reste de la Meute, ce qui le rend tres legitime ;
-  - siege au Conseil municipal ;
-  - environ 60 ans, 1 m 85, cheveux gris courts, cicatrice de deux griffures de loup sur la joue gauche.
+- Viviane de la Meute (louve ; Vivian en VO) : Alpha, siege au Conseil ; arrogante ; louve pure a l'aspect de malinois ; 58 ans. Fiche : cf. Personnages/Viviane_de_la_Meute.md.
+- Arthur de la Meute, ne Fontaine (humain) : noblesse humaine ; simple epoux devenu aussi froid et calculateur que le reste, donc tres legitime ; siege au Conseil ; 60 ans. Fiche : cf. Personnages/Arthur_de_la_Meute.md.
+- Le couple cogere l'empire : ils font tout ensemble. Mariage arrange vire a l'amour sincere.
 
 ### Portee ainee (nee un 17/09, 29 ans)
 - Blanche (louve ; Whitney en VO) :
   - consultante en finance ;
   - pleinement sortie du systeme familial, mais elle a toujours acces a sa part de la fortune ;
-  - installee a Pont-la-Plaine (cf. Lieux/Pont_la_Plaine.md).
-- Monica (louve ; Audie en VO) :
-  - louve pure, pelage roux aux extremites blond platine ;
-  - electron libre, nomade, partie en voyage.
-- Henry (humain) :
-  - entre dans les ordres comme l'exigeaient ses parents, il est devenu eveque ; absent ;
-  - 1 m 79, cheveux gris courts ;
-  - le fils loup-garou se souvient de lui comme du seul qui ait ete genereux. En realite, c'etait un syndrome du sauveur : Henry le trouvait pitoyable, au sens premier, digne de sa pitie. Le fils loup-garou l'ignore.
-- Charlotte (humaine) :
-  - calculatrice mais pas froide, meme assez chaleureuse ;
-  - siege au Conseil municipal ;
-  - 1 m 62, cheveux chatains.
-- Sebastien (humain) :
-  - arrogant mais idiot ;
-  - siege au Conseil municipal ;
-  - 1 m 82, tres semblable a son pere, mais cheveux noirs.
+  - installee a Pont-la-Plaine (cf. Lieux/Pont_la_Plaine.md) ;
+  - fiche : cf. Personnages/Blanche_de_la_Meute.md.
+- Monica (louve ; Audie en VO) : louve pure rousse ; chargee de com', en tour du monde a moto, officiellement pour demarcher des allies. Fiche : cf. Personnages/Monica_de_la_Meute.md.
+- Henry (humain) : eveque a la cathedrale des Hauts ; seul croyant, seul a avoir renonce a la fortune (voeu de pauvrete). Fiche : cf. Personnages/Henry_de_la_Meute.md.
+- Charlotte (humaine) : Conseil ; le gentil visage de la famille, au service des memes interets. Fiche : cf. Personnages/Charlotte_de_la_Meute.md.
+- Sebastien (humain) : Conseil ; arrogant mais idiot, fidele et serviable. Fiche : cf. Personnages/Sebastien_de_la_Meute.md.
 
 ### Portee cadette (nee un 16/12, 26 ans)
-- Le fils loup-garou (Lupus x Homo) : prenom [INCERTAIN].
-  - Seul hybride de la portee ; il a survecu, au grand dam de ses parents.
-  - Traite en paria.
-  - Etudes de politique, puis nomme maire de Pont-la-Plaine. C'est un placard dore : l'eloigner sans le tuer.
-  - Maire de la Meute, il ne touche pas de traitement : il dispose de sa part des fonds familiaux et de leurs dividendes scandaleux.
-- Chef (loup ; Chief en VO) : siege au Conseil municipal.
-- Luppa (louve ; Freya en VO) : gerante de la salle des ventes, dont elle tient aussi le marteau.
-- Pierrot (loup arctique ; Fang en VO) : siege au Conseil municipal.
-- Daniel et Antoine (humains) :
-  - complices, naifs et moqueurs ;
-  - banquiers a la banque Nook ;
-  - 1 m 75, cheveux bruns. Ils se ressemblent comme des jumeaux, mais sont seulement de la meme portee.
-- Sophie (humaine) :
-  - froide, calculatrice, dedaigneuse. C'est la plus semblable a ses parents ;
-  - siege au Conseil municipal ;
-  - 1 m 67, cheveux blond platine a meches grises et chatain, comme le pelage de sa mere.
+- Remus (Lupus x Homo), le fils loup-garou :
+  - seul hybride de la portee ; il a survecu, au grand dam de ses parents ;
+  - traite en paria, harcele enfant par la plupart de la fratrie ;
+  - etudes de politique, puis nomme maire de Pont-la-Plaine. C'est un placard dore : l'eloigner sans le tuer ;
+  - maire de la Meute, il ne touche pas de traitement : il dispose de sa part des fonds familiaux et de leurs dividendes scandaleux ;
+  - fiche : cf. Personnages/Remus_de_la_Meute.md.
+- Chef (loup ; Chief en VO) : Conseil ; le calculateur. Fiche : cf. Personnages/Chef_de_la_Meute.md.
+- Luppa (louve ; Freya en VO) : salle des ventes et marteau ; avare et passionnee. En couple avec Gary de la Meute (ci-dessous). Fiche : cf. Personnages/Luppa_de_la_Meute.md.
+- Pierrot (loup arctique ; Fang en VO) : Conseil ; le vantard. Fiche : cf. Personnages/Pierrot_de_la_Meute.md.
+- Daniel et Antoine (humains) : banquiers a la banque Nook ; complices, naifs, moqueurs ; meneurs du harcelement de Remus. Fiche commune : cf. Personnages/Daniel_et_Antoine_de_la_Meute.md.
+- Sophie (humaine) : Conseil, la plus impliquee dans les affaires illegales ; la plus semblable aux parents ; mariage arrange en preparation. Fiche : cf. Personnages/Sophie_de_la_Meute.md.
+
+### Parents eloignes
+- Gary de la Meute : cousin tres eloigne venu de loin, Lycaon sapiens ; avare, devoue a la Meute ; compagnon de Luppa. Pas de fiche.
+
+## Moeurs
+- Clan : seul le clan compte. Qu'une ou deux brebis galeuses quittent le groupe n'importe pas ; les parents y voient un detour de jeunesse avant le retour dans le rang.
+- Conseil : les enfants qui y siegent se partagent la gestion de la ville.
+- Malediction des pleines lunes de Remus : les parents la savent fausse et l'entretiennent par cynisme, pour le punir d'etre ne hybride. Blanche la sait fausse et refuse le jeu. Les dix autres enfants la croient vraie ; Monica et Henry refusent de l'entretenir, les autres l'entretiennent.
+- Table : la Meute mange de l'Anthro pour les grandes occasions. Le plat passe pour du sanglier : il suffit de ne pas preciser que c'est un sapiens.
 
 ## Regards de la Meute
-- Sur l'eglise : c'est l'opium du peuple, la croyance en un dieu qui sert a mener les foules a la baguette. La famille est cynique sur ce sujet. Henry est le seul a y croire vraiment.
-- Sur Marie : parfaite. Une banale chienne de classe moyenne, bonne pour l'aberration.
+- Sur l'eglise : c'est l'opium du peuple, la croyance en un dieu qui sert a mener les foules a la baguette. La famille est cynique sur ce sujet : les parents y voulaient de l'influence. Henry est le seul a y croire vraiment ; pour lui parler du clan, ses parents passent par le confessionnal.
+- Sur Marie : parfaite. Une banale chienne de classe moyenne, bonne pour l'aberration. Constat apres coup : si Remus sort avec sa secretaire, c'est au moins une Canis, pas encore le bas de l'echelle, et pas une lignee noble qu'il souillerait (cf. Personnages/Marie.md).
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |

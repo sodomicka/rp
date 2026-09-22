@@ -1,6 +1,6 @@
 # Resume - AnimalCrossing
 
-- version : W3
+- version : W4
 
 ## Le monde tel qu'etabli (uchronie)
 
@@ -28,7 +28,7 @@
 - Tom Nook et Rounard, nouveaux bourgeois, sont partis ensemble. Nook a choisi la legalite : immobilier, credit sans interets, monopole de la construction, colonisation des iles par la dette.
 - Rounard a choisi le marche noir : art vole et contrefait, drogue, armes, viande d'Anthro, Anthros esclaves. La Meute protege les deux et encaisse des deux cotes.
 - La branche de Lupus est menee par Viviane, l'Alpha, louve, et son epoux humain Arthur, ne Fontaine. Leurs deux portees mixtes comptent douze enfants, loups et humains.
-- Dans la portee cadette nait un hybride vrai, loup et humain : un loup-garou. Il survit, au grand dam de ses parents, et grandit en paria.
+- Dans la portee cadette nait un hybride vrai, loup et humain : un loup-garou, Remus. Il survit, au grand dam de ses parents, et grandit en paria.
 - La legende lui prete une bestialite de pleine lune. Elle est fausse ; mais traite ainsi, il le devient.
 - Apres des etudes de politique, il est designe maire de Pont-la-Plaine, une Bergerie de proies a vingt minutes de bus au sud. C'est un placard dore : l'eloigner sans le tuer.
 - Son predecesseur, Tortimer, a ete mis a la retraite par la Meute sans etre prevenu, puis mis au vert a Tortiland.
@@ -36,7 +36,7 @@
 - Blanche, soeur ainee du maire, sortie du systeme familial, s'est installee au village.
 - Divergences marquantes avec le canon : Charly conduit le bus ; Luppa tient la salle des ventes ; l'archipel de villegiature est reserve aux apex.
 - Jacqu'O est un humain deguise ; Albin, un hybride lievre-humain dans un costume de mascotte. Follet et les bonhommes de neige n'existent pas.
-- Le point de depart est le 12 juin 632 : le fils loup-garou entre en poste. Il a 26 ans. Son prenom n'est pas fixe [INCERTAIN].
+- Le point de depart est le 12 juin 632 : Remus de la Meute, le fils loup-garou, entre en poste. Il a 26 ans.
 
 ---
 
