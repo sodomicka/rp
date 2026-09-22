@@ -1,6 +1,6 @@
 # Gyroides
 
-- version : W3
+- version : W4
 
 ## Nature
 - Golems nes pour servir les especes douees de raison.
@@ -8,6 +8,8 @@
 - Ne se reproduisent pas entre eux.
 - Intelligents : repondent comme une IA, par un reseau neural exempt de toute architecture dediee a la conscience.
 - Juges non conscients ; leur conscience fait pourtant debat. Raisonnent sans etre des personnes : dissonance assumee du monde.
+- Pour la plupart des gens : une technologie, rien de plus.
+- Pour ceux sensibles a leur condition, un miroir : les premiers Anthros furent mis a mort malgre leur raison ; leurs descendants refusent une conscience aux Gyroides.
 - Ex. canon : Lloid, Gyroide au service de la mairie de Pont-la-Plaine.
 
 ## Commerce

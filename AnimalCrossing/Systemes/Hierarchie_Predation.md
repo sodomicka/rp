@@ -1,6 +1,6 @@
 # Hierarchie_Predation
 
-- version : W1
+- version : W2
 
 ## Principe
 - Loi du plus fort.
@@ -31,7 +31,6 @@
 - Racisme a tous les niveaux : sexuel, societal.
 - Entre-soi par niveau trophique (carnivores / herbivores ; superpredateurs / predateurs / proies) : surtout vu comme une vieille pensee.
 - Fantasme d'une espece d'un autre niveau de predation : deviance sexuelle pour certains.
-- "Zoophilie" : insulte des conservateurs pour ces unions. Elle porte le poids de l'origine du monde.
 - Animaux de compagnie mammiferes sans raison : choquent surtout "ceux d'en bas", proies et classes populaires.
 
 ## Predation d'Anthros

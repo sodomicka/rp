@@ -1,6 +1,6 @@
 # Especes_Taxonomie
 
-- version : W3
+- version : W4
 
 ## Principe
 - Personne = espece douee de raison, dite "sapiens". Critere : la RAISON (logique de niveau humain). Sinon : animal.
@@ -13,7 +13,9 @@
 
 ## Vocabulaire
 - sapiens : toute espece douee de raison, humains compris. Terme de la norme actuelle.
-- Anthro : sapiens non humain. Terme maintenu par lobbying humain : se distinguer en rappelant que les humains precedaient, au risque de rappeler l'acte a l'origine des Anthros.
+- Anthro : sapiens non humain. Terme commun, employe sans penser a son etymologie ; assez raciste dans la bouche d'un humain.
+  - Maintenu par lobbying humain : se distinguer en rappelant que les humains precedaient.
+  - Le lobbying prend le risque de rappeler l'acte a l'origine des Anthros ; dans l'usage, personne ne pense a l'etymologie.
 - hybride : aujourd'hui, uniquement le cas hors norme a ~1/10 000. A l'origine, designait les premiers Anthros ; devenus la norme, ils ont perdu l'etiquette.
 - Comptage des parts : un Anthro etant mi-bete mi-humain par origine, les parts d'ascendance se comptent. Ex. un Lepus sapiens x Homo sapiens = 1/4 lievre, 3/4 humain. Le dire est TABOU : ca rappelle que tout Anthro est un hybride d'origine.
 
