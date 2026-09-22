@@ -2,7 +2,7 @@
 # Capture de session (brainstorm 2026-09-21) - fichier unique de reprise
 
 ## S0 Statut du document
-- version : W13 (fichier unique : decisions + canon de reference + reste a trancher + reprise). Remplace W12.
+- version : W14 (fichier unique : decisions + canon de reference + reste a trancher + reprise). Remplace W13.
 - Le journal _Implications.md sera recree au premier BIBLE BUILD a partir de S17.
 - Nature : document de TRAVAIL. Source d'integration pour la BIBLE B1, les pages WIKI et les fiches noyau. Jamais fetche en narration. Non indexe au Sommaire.
 - Emplacement : AnimalCrossing/_Chantier_Passe0_Cadrage.md (nom de dossier valide).
@@ -147,6 +147,18 @@
 - Marie, vue par la Meute : parfaite - une banale chienne de classe moyenne, bonne pour l'aberration.
 - Ironie shih tzu : ABANDONNEE (jugee pas utile par le worldbuilder).
 
+## S13bis Economie
+- Detail complet : cf. WIKI Systemes/Economie.md (W2). Resume :
+- Economie fondee sur la hierarchie. Clochette : monnaie legale ; nom tire des sonnailles du betail et des betes de trait des enclos de l'age d'or (meme famille honteuse que Menagerie, Bergerie, Reserve).
+- Echelle : 1 clochette ~ 1 yen de pouvoir d'achat. Vie courante : canon x1. Immobilier, ouvrages publics, art : canon x100 (maison de depart ~15 m2 : 9 800 000).
+- Banque Nook (Meute) : finance les prets de Nook Immobilier ; Nook lui reverse une part de sa marge de chantier. Epargne libre pendant un pret (Nook veut des gens endettes).
+- Dette Nook : credit = produit d'appel, marge sur le chantier. Levier : reserve de propriete ; au depart, parties soldees rachetees par Nook a 25 %, partie non soldee perdue.
+- Gagne-pain populaire : vrais metiers ; revente au magasin Nook (acheteur quasi unique, fixe le cours des navets) ; petits boulots d'interet general payes par la mairie.
+- Bergeries : aucun impot local ; dotation du Conseil de la Menagerie (non chiffree, levier politique) pour petits boulots et traitement du maire. Maire de la Meute : traitement suspendu (part des fonds familiaux et dividendes). Travaux publics par dons (tradition de Tortimer, choisi pour son approche communautaire). Ordonnances sans frais, approuvees par le Conseil (appel, mail, lettre ; grosses ordonnances : consultation physique). Pleins pouvoirs = face aux habitants, sans voix hors dons et doleances ; l'aval de la Menagerie n'est pas une contradiction.
+- Monnaies de compagnie (circuit ferme) : miles Nook (travail sur les iles ; forfait payable seulement en miles), medailles (Tortiland), Poki (personnel de Paradis sur mesure).
+- Rounard : entree 4 000 a chaque visite ; regle dans son illegalite, prix fixes selon l'oeuvre, l'espece (viande, esclaves, animaux de compagnie) ou le produit (drogues, armes).
+- Doctrine : les montants ne vivent QUE dans Systemes/Economie.md ; les autres pages portent le mecanisme et un renvoi.
+
 ## S14 Protagoniste
 - LOUP-GAROU : Lupus x Homo, le ~1/10 000 (S4). Fruit de l'union d'une louve et d'un humain. De la Meute (S13) : nom de famille "de la Meute".
 - Seul hybride de sa portee. A survecu, au grand dam de ses parents. Traite en paria.
@@ -154,7 +166,7 @@
 - Etudes de politique, puis designe maire de Pont-la-Plaine. Nomination = PLACARD DORE : l'eloigner sans le tuer. Designe par le cercle haut de Lupus (regle des Bergeries) ; pleins pouvoirs (cf. Lieux/Pont_la_Plaine.md).
 - Parents : Viviane de la Meute (Alpha) et Arthur, ne Fontaine. Deux lignees nobles.
 - Portee : nee le 16/12 ; 26 ans. Chef, Luppa, Pierrot (loups), Daniel, Antoine, Sophie (humains), et lui, seul hybride (S13).
-- Sang bleu : la dette ne le concerne pas (S2).
+- Sang bleu : la dette ne le concerne pas (S2). Dispose de sa part des fonds familiaux et de leurs dividendes ; maire sans traitement (S13bis).
 - Physique : beau. Le worldbuilder a des images de reference (a fournir en passe 1).
 - Masculin ; romance avec Marie probable (couple hetero). Au canon NL, Marie est la secretaire du maire.
 - Piste "frere de Nook" abandonnee. Meli et Melo : tanukis secourus par Nook, qu'il appelle ses neveux (canon NH, S13).
@@ -202,10 +214,17 @@
   - Max = Digby [CANON SUPPOSE - nom VF, source fan] : frere jumeau de Marie ; chef des services a la communaute de Nook's Homes (Happy Home Designer).
   - Loups (VF / VO, anniversaire canon) : Chef = Chief (19/12) ; Pierrot = Fang (18/12, loup arctique, versatile) ; Luppa = Freya (14/12, arrogante, fratrie de sept) ; Viviane = Vivian (26/01, arrogante, allure de malinois) ; Monica = Audie (31/08, seule louve vive, allure de renarde) ; Blanche = Whitney (17/09, louve arctique).
   - Divergences assumees : Viviane et Monica louves pures (pelage) ; anniversaires regroupes par portee (16/12, 17/09).
+- Releves du lot 4bis (2026-09-22) :
+  - Prets NH : 98 000 puis 198 000, 348 000, 548 000, 758 000, 1 248 000, 2 498 000 (total 5 696 000) ; sans interets, minimum ni delai. Premiers opus : epargne bloquee tant que le pret court (non repris) ; part du premier pret effacee en travaillant au magasin Nook.
+  - Miles : "Tanuki Mileage" en VO. Forfait 49 800 ou 5 000 miles, payable en fait en miles seulement. Ticket clochettes (VF verifiee) : 500 miles -> 3 000 (1 mile ~ 6).
+  - Epargne ABD NH : 0,05 % par mois.
+  - Medailles : gagnees aux excursions (animees par Tortimer au canon), depensees a la boutique de Mamiral ; l'ile ne prend pas les clochettes.
+  - Poki : salaire verse par Lou, 6 000 par residence au depart ; boutique de Wardell (credit canon) ; distributeur Poki/clochettes a taux quotidien variable, plafonne.
+  - Navets : Porcelette le dimanche avant midi, 90-110, lots de dix ; rachat lundi-samedi au magasin, qui fait le cours deux fois par jour (20-660) ; pourrissent en une semaine.
+  - Travaux publics NL : dons collectes par Lloid ; camping 59 800, poste de police 264 000, cafe 298 000 ; demolition 10 %.
+  - Rounard NH : tableau propose a 498 000 puis "remise" a 4 980 ; art authentique rachete 1 245 par le magasin (25 %). Bateau de Rounard : "Rounarama" en VF [CANON SUPPOSE - nom VF, liste de langues Nookipedia].
 
 ## S17 Reste a trancher
-En attente - lot 4bis, avant BIBLE B1 :
-- Systemes/Economie.md : systeme monetaire (monnaies et montants canon releves en S16). Les pages Lieux et Factions ne portent aucun montant d'ici la.
 Pistes non tranchees :
 - Ecosysteme Nook : Lionel ex-escroc a l'assurance (canon Wild World) ; Paradis sur mesure fondee par Lou, ancienne de Nook Immobilier - lien avec Nook Inc. non precise.
 Dettes de build :
@@ -213,13 +232,14 @@ Dettes de build :
 - Hors univers : SPEC_BIBLE_LORE_WIKI v8_5, ligne "Emplacement" qui pointe encore vers v8_3. A corriger a la prochaine revision SPEC.
 - Noms VF [CANON SUPPOSE] a confirmer (S16) ; Gracie, Niko, Wardell : VF non trouvees.
 Fiches en attente (passe 1) :
-- PROTAGONISTE : prenom, apparence (images de reference du worldbuilder) ; sait-il que sa bestialite des pleines lunes est conditionnee ? ; paria d'une famille noble : connait-il la cle de l'origine (zoophilie) ? Acquis : 26 ans, ne le 16/12, parents Viviane et Arthur (S13).
+- PROTAGONISTE : prenom, apparence (images de reference du worldbuilder) ; sait-il que sa bestialite des pleines lunes est conditionnee ? ; paria d'une famille noble : connait-il la cle de l'origine (zoophilie) ? Acquis : 26 ans, ne le 16/12, parents Viviane et Arthur (S13) ; part des fonds familiaux et dividendes, maire sans traitement (S13bis).
+- TORTIMER : choisi comme maire pour son approche communautaire ; convainquait les habitants de financer les projets publics (S13bis).
 - LA FAMILLE (S13) : noyaux de Viviane (age non fixe), Arthur, Blanche, Monica, Henry, Charlotte, Sebastien, Chef, Luppa, Pierrot, Daniel, Antoine, Sophie. Henry : page relations (ironie dramatique sur le prota).
 - TOM NOOK : enfance (il se reconnait dans Meli et Melo, secourus dans la rue [IMPLICITE : enfance pauvre]) ; carriere ratee en ville (canon CF) ; depart commun avec Rounard.
 - Noyaux a prevoir : Marie, Tom Nook, Rounard, Meli et Melo, Max, Tortimer, Jacqu'O, Albin, Charly, Amiral, et les piliers retenus.
 
 ## S18 Reprise - prochain thread
-- Etat : Passe 0, lots 1 a 4 boucles (2026-09-22). Reste le lot 4bis.
+- Etat : Passe 0, lots 1 a 4bis boucles (2026-09-22). Reste la cloture : BIBLE B1, Resume.md, Sommaire.md, _Implications.md.
 - SPEC verifiees le 2026-09-22 : SPEC_BIBLE_LORE_WIKI_v8_5, SPEC_CODEX_v8_4. Reverifier par listing de Config/ a chaque nouveau thread.
 - Architecture WIKI validee (precedents : Systemes/ Lieux/ Factions/ comme ClairObscur, Lore/ comme Witcher) :
 ```
@@ -246,12 +266,13 @@ AnimalCrossing/
   Personnages/                  passe 1
 ```
 - Ordre des lots : 1a Reproduction_Hybridation + Especes_Taxonomie ; 1b Hierarchie_Predation + Gyroides ; 2 Lore ; 3 Lieux ; 4 Factions ; 4bis Systemes/Economie ; puis BIBLE B1, Resume.md, Sommaire.md et _Implications.md (recree depuis S17).
-- LOTS 1, 2, 3, 4 BOUCLES.
-- Versions courantes : Systemes/Especes_Taxonomie W3 ; Systemes/Reproduction_Hybridation W2 ; Systemes/Hierarchie_Predation W1 ; Systemes/Gyroides W3 ; Lore/Uchronie W2 ; Lieux/Lupus W2 ; Lieux/Pont_la_Plaine W2 ; Lieux/Reserves W2 ; Factions/La_Meute W1 ; Factions/Nook_Inc W1.
+- LOTS 1, 2, 3, 4, 4BIS BOUCLES.
+- Versions courantes : Systemes/Especes_Taxonomie W3 ; Systemes/Reproduction_Hybridation W2 ; Systemes/Hierarchie_Predation W1 ; Systemes/Gyroides W3 ; Systemes/Economie W2 ; Lore/Uchronie W2 ; Lieux/Lupus W3 ; Lieux/Pont_la_Plaine W3 ; Lieux/Reserves W3 ; Factions/La_Meute W2 ; Factions/Nook_Inc W2.
 - Livre au lot 4 : Factions/La_Meute.md W1, Factions/Nook_Inc.md W1 ; mises a jour Systemes/Gyroides.md W3 (GyroCorp, reparation par enterrement), Lieux/Lupus.md W2 (Conseil municipal, Luppa), Lieux/Pont_la_Plaine.md W2 (Meli et Melo, Max).
-- A pousser sur le depot avant tout nouveau thread : toutes les versions courantes ci-dessus qui n'y sont pas encore, et _Chantier_Passe0_Cadrage.md W13. Les pages Lieux et Factions se renvoient les unes aux autres : les pousser ensemble.
-- Prochaine etape : lot 4bis - Systemes/Economie.md. Poser le canon monetaire (S16), confronter, trancher, construire.
-- Ensuite : BIBLE B1, Resume.md, Sommaire.md, _Implications.md ; puis PASSE 1, fiches noyau.
+- Livre au lot 4bis : Systemes/Economie.md W2 ; mises a jour Lieux/Pont_la_Plaine.md W3, Lieux/Reserves.md W3, Lieux/Lupus.md W3, Factions/Nook_Inc.md W2, Factions/La_Meute.md W2.
+- A pousser sur le depot avant tout nouveau thread : toutes les versions courantes ci-dessus qui n'y sont pas encore, et _Chantier_Passe0_Cadrage.md W14. Les pages Lieux, Factions et Economie se renvoient les unes aux autres : les pousser ensemble.
+- Prochaine etape : cloture de Passe 0 - BIBLE B1, Resume.md, Sommaire.md, _Implications.md (recree depuis S17).
+- Ensuite : PASSE 1, fiches noyau.
 - Regles de contenu : S1, valables pour tout le build et le jeu.
 
 ---
