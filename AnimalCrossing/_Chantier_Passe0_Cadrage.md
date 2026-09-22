@@ -2,12 +2,12 @@
 # Capture de session (brainstorm 2026-09-21) - fichier unique de reprise
 
 ## S0 Statut du document
-- version : W11 (fichier unique : decisions + canon de reference + reste a trancher + reprise). Remplace W10.
+- version : W13 (fichier unique : decisions + canon de reference + reste a trancher + reprise). Remplace W12.
 - Le journal _Implications.md sera recree au premier BIBLE BUILD a partir de S17.
 - Nature : document de TRAVAIL. Source d'integration pour la BIBLE B1, les pages WIKI et les fiches noyau. Jamais fetche en narration. Non indexe au Sommaire.
 - Emplacement : AnimalCrossing/_Chantier_Passe0_Cadrage.md (nom de dossier valide).
 - Toutes les decisions sont VALIDEES par le worldbuilder sauf mention [NON TRANCHE], [PROPOSE], [IMPLICITE], [INTERPRETATION] ou [CANON SUPPOSE].
-- Sources : conversations de cadrage ; canon verifie au web (guides FR, Vikidia, Nookipedia, Wikipedia) ; lecture des univers JJK, CSM, FMA, Overlord, KNY, LOP du depot (modus operandi, S14) ; depot verifie le 2026-09-21 (aucun dossier AnimalCrossing ; SPEC courantes v8_5 / v8_4).
+- Sources : conversations de cadrage ; canon verifie au web (guides FR, Vikidia, Nookipedia, Wikipedia) ; lecture des univers JJK, CSM, FMA, Overlord, KNY, LOP du depot (modus operandi, S14) ; depot verifie le 2026-09-21 (aucun dossier AnimalCrossing ; SPEC courantes v8_5 / v8_4), re-verifie le 2026-09-22 (SPEC inchangees).
 - Convention de travail : questions du MJ numerotees ; numerotation remise a zero a chaque message.
 
 ## S1 Intention et ton
@@ -70,7 +70,7 @@
 - Lupus Lupus : nom de la VILLE (S12), pas de l'espece.
 - Plusieurs sapiens dans un meme genre : troisieme terme = epithete reelle (ex. Panthera sapiens leo, Panthera sapiens tigris). Sans le retrait de "Canis", les loups seraient Canis sapiens lupus, meme espece que les chiens [IMPLICITE].
 - Fusions : oursons -> ours ; lapins + lievres -> Lepus ; vaches + taureaux -> Bos ; cochons + sangliers -> Sus.
-- Table complete des noms : cf. WIKI Systemes/Especes_Taxonomie.md (W1).
+- Table complete des noms : cf. WIKI Systemes/Especes_Taxonomie.md (W3).
 
 ## S7 Hierarchie
 - Loi du plus fort.
@@ -79,7 +79,7 @@
 - Elitisme des apex : VOULOIR etre peu nombreux. Les grands felins laissent mourir les plus faibles a la naissance pour ne garder que quelques petits, par mimetisme des apex de l'age d'or : les humains.
 - Selection consanguine chez des predateurs d'elite ("a la Lannister") : les CROCODILES. PAS chez les loups (S13).
 - Racisme a tous les niveaux : sexuel, societal.
-- Crocodiles "imprevisibles" : instinct de chasseur. Quiconque est a portee de gueule LATERALEMENT s'expose a un reflexe ; il se contient, mais ressort vite en etat second (rage, fatigue, epuisement, drogue, alcool). Lien aux domaines de faction : lot 4.
+- Crocodiles "imprevisibles" : instinct de chasseur. Quiconque est a portee de gueule LATERALEMENT s'expose a un reflexe ; il se contient, mais ressort vite en etat second (rage, fatigue, epuisement, drogue, alcool). Lien aux factions : nobles reputes pour leur violence, ils gardent les etablissements de la Meute ; le gros de la mafia Crocodile est ailleurs (S13).
 
 ## S8 Predation et sexualite
 - Certains predateurs mangent des proies ANTHROPOMORPHES : marche noir (filiere Rounard, S13) ou chasse.
@@ -87,7 +87,7 @@
 - Fantasme d'une espece d'un autre niveau de predation : deviance sexuelle pour certains, voire "zoophilie" - insulte des conservateurs, qui porte le poids de l'origine (S9).
 
 ## S9 Cosmogonie - l'uchronie
-- Detail complet : cf. WIKI Lore/Uchronie.md (W1). Eres (etiquettes de travail, jamais en usage dans le monde, jamais creusees en RP) : Age d'or -> Temps des proces -> Avenement -> Interdiction de l'in vitro -> Nivellement -> Present. Toutes precedent le present de plusieurs siecles.
+- Detail complet : cf. WIKI Lore/Uchronie.md (W2). Eres (etiquettes de travail, jamais en usage dans le monde, jamais creusees en RP) : Age d'or -> Temps des proces -> Avenement -> Interdiction de l'in vitro -> Nivellement -> Present. Toutes precedent le present de plusieurs siecles.
 - Point de bascule UNIQUE : l'humain s'hybride tres facilement avec les autres especes (mammiferes ; voie sexuee, S4).
 - Age d'or humain : domination totale, comme dans notre monde actuel.
 - Au depart : la zoophilie est une deviance immonde ; des lois dures interdisent cette reproduction jugee contre nature. Les premiers Anthros, alors appeles "hybrides", sont mis a mort, malgre l'indignation de tuer un etre doue de raison pour le seul fait d'exister.
@@ -103,12 +103,13 @@
 - Transmission du passe : developpe en entier en BIBLE ; dans le monde, personne ne le detient en entier. Legende officielle (age d'or vague et prestigieux, qui justifie le rang humain). Fragments : archives, musee de Thibou. La cle - l'origine par zoophilie - n'est connue que des familles nobles, dont la Meute. Tabou quasi inconnu aujourd'hui. Version publique de l'origine des Anthros : savante, l'in vitro (reel pour les non-mammiferes) sert de recit pour toutes les especes.
 
 ## S10 Gyroides
-- Detail complet : cf. WIKI Systemes/Gyroides.md (W1). Resume :
+- Detail complet : cf. WIKI Systemes/Gyroides.md (W3). Resume :
 - Etres ARTIFICIELS (argile + mousse mutee), sans taxonomie, qui ne se reproduisent pas entre eux (S10 amende).
 - Origine : mousse (Bryum) qui reagit au son, decouverte par humains et pieuvres pendant l'in vitro ; mutee en Bryum sensitivum.
-- Entreprise fondee APRES l'interdiction de l'in vitro, tenue par des hirondelles (Hirundo sapiens) : moyen de continuer en cachette. Secret d'entreprise protege par les humains et les autres apex.
+- GYROCORP : entreprise fondee APRES l'interdiction de l'in vitro, tenue par des hirondelles (Hirundo sapiens) : moyen de continuer en cachette. Secret d'entreprise protege par les humains et les autres apex.
 - Corps : coeur d'argile thixotrope (montmorillonite) que la mousse liquefie par vibration pour bouger ; croute de calcite en plaques cimentee par la mousse, dure au toucher. Le son les fait bouger.
-- Fragments : eclat d'argile + mousse en dormance ; a la pluie, la mousse batit son corps avec la boue du sol.
+- Fragments : eclat d'argile + mousse en dormance ; a la pluie, la mousse batit son corps avec la boue du sol. Reparation : un Gyroide brise est enterre par son proprietaire, une nuit de pluie le ressoude ; hors d'usage apres 2 ou 3 enterrements. Les fragments trouves dans le sol sont ces Gyroides enterres.
+- Commerce : courants (musicaux, de chantier) vendus par GyroCorp ; specialises (cuisine, art, sexe, etc.) = raretes, vendus aux encheres, en boutiques de luxe ou specialisees (dont sex-shops : certains sont concus comme jouets sexuels).
 - Symbolique : Homo = haniwa ; Octopus = takotsubo ; Hirundo = pousse des graines.
 - Miroir [PROPOSE] : les premiers Anthros ont ete mis a mort malgre leur raison ; leurs descendants refusent une conscience aux Gyroides.
 - Lien Meute [IMPLICITE] : les loups sont apex, donc parmi les protecteurs du secret.
@@ -118,36 +119,49 @@
 - Magie de la feuille : piste MJ retiree (aucune magie, S3). Logo feuille de Nook Inc. : fait canon, sans pouvoir.
 
 ## S12 Carte
+- Detail complet : cf. WIKI Lieux/Lupus.md (W2), Lieux/Pont_la_Plaine.md (W2), Lieux/Reserves.md (W2). Resume :
 - TYPOLOGIE des etablissements (noms de CATEGORIE, pas noms propres) : MENAGERIES (villes), BERGERIES (villages), RESERVES (iles). Noms herites des enclos ou les humains de l'age d'or parquaient les animaux ; le monde n'ose plus dire d'ou ils viennent.
-- Deux niveaux d'urbanisme (ville / village) ; les iles ajoutent la variete.
-- LUPUS LUPUS, dite Lupus : la grande ville, une Menagerie aux mains des loups (S13). Nom tire de la classification scientifique, le classement ultime de l'age d'or humain. Urbanisme vertical : apex en hauteur, proies en bas. L'argent, la nuit, les clubs, le theatre ; le siege de Nook Inc. ; la salle des ventes (Gyroides aux encheres) ; la boutique de Rounard, sur carte de membre au canon City Folk [CANON SUPPOSE] - tripot clandestin, plaque tournante de sa contrebande (S13).
-- PONT-LA-PLAINE : le village du prota, une Bergerie a 20 minutes en bus de Lupus. Simple, cliche, banal : pile ce que la Meute veut. Population surtout de proies. Mairie, Marie, Lloid, ordonnances (le vrai pouvoir du maire au canon NL), succursale Nook tenue par Meli et Melo, bus vers Lupus. Elite locale : Blanche (S15).
-- LES RESERVES (iles), une fonction chacune : escapades de Nook Inc. (colonisation par la dette) ; iles mysteres (extraction de ressources) ; archipel paradisiaque de Happy Home Paradise (residences secondaires des apex) ; bateau de Rounard (marche noir flottant) ; ile Tortimer (un ancien maire mis au vert - precedent possible du placard dore du prota).
+- GEOGRAPHIE : la LYKAINA, bras de mer (fleuve sale), traverse Lupus puis borde Pont-la-Plaine a l'ouest et au sud (plages). Riviere de Pont-la-Plaine : partie est ; se scinde puis se rejoint autour de l'ile centrale (mairie) ; se jette dans la Lykaina. Pont-la-Plaine a 20 min de bus au sud de Lupus. Tortiland au sud de Pont-la-Plaine.
+- LUPUS LUPUS, dite Lupus : Menagerie aux mains de la Meute. Relief reel, en coteaux depuis la Lykaina ; seule la basse ville a acces au fleuve (pecheurs, chalutiers).
+  - Hauts (cercle haut = Conseil municipal de Lupus : gouverne la ville et ses trois niveaux, designe les maires des Bergeries) : Meute, apex, siege de Nook Inc. (seul non-apex perche).
+  - Milieu (cercle intermediaire) : place, GracieGrace, salon de Ginette, voyante Astrid (sans pouvoir), theatre et club de Ciboulot (Keke aux platines), salle des ventes ou hotel des ventes (geree par Luppa de la Meute, qui tient aussi le marteau ; art, reliques de l'age d'or, mobilier rare, Gyroides rares), terminal Dodo Airlines.
+  - Bas (basse ville) : arrivee du bus, pontons des hydravions, Blaise, boutique de Rounard. Les apex descendent pour le vice.
+  - Rounard : trouver l'adresse (deja une invitation) ; entree payante ; achat au prix fort (art vole et contrefait) ; arriere-boutique sur confiance de Rounard (viande d'Anthro, drogue, animaux de compagnie, Anthros esclaves, armes).
+- PONT-LA-PLAINE : Bergerie. Maire designe par le cercle haut de la Menagerie dont la Bergerie depend ; pleins pouvoirs ; la confiance du village decoule de ses choix. Ordonnances : pouvoir ouvert (les 4 du canon NL = usages). Travaux : Lloid collecte, Nook Inc. seul maitre d'oeuvre, fiable, tout l'argent passe par lui. Tortimer : predecesseur, retraite annoncee par la Meute sans le prevenir. Poste de police voulu par la Meute (Maret, Chausset). Bus : Charly au volant (divergence assumee). Pas de gare.
+- RESERVES : iles d'escapade (Nook Inc., sans maire, colonisation par la dette) ; iles mysteres (extraction) ; archipel de villegiature des apex (Paradis sur mesure, Lou) ; bateau de Rounard (plages secretes, baie ouest de Pont-la-Plaine) ; Tortiland (mise au vert ; famille d'Amiral). Acces : aeroport de Lupus ; quai de Pont-la-Plaine (bateau d'Amiral).
 
 ## S13 La Meute et ses proteges
-- La Meute : a la fois la noblesse louve de Lupus, la famille du prota ET une MAFIA. Elite de la region. D'autres meutes existent ailleurs dans le monde.
-- Proteges de la Meute : Rounard et la famille Nook uniquement (pas leurs especes), car aussi ambitieux qu'elle.
-- NOOK ET ROUNARD : nouveaux bourgeois. Ont commence ensemble. Deux monstres d'avarice, les pires escrocs :
-  - Nook par la legalite : magnat de l'immobilier insatiable.
-  - Rounard par le marche noir : contrebande de tout - art vole ET contrefait, viande d'Anthro, trafic d'etres vivants (sapiens ou non).
-- La Meute a vu les deux et a integre leurs business a sa mafia : le capital officiel et la pegre paient le meme clan.
-- Les loups ne jurent que par les affaires et la hierarchie. PAS obsedes par la purete : le clan accepte des epoux apex ; au pire, des canides.
+- Detail complet : cf. WIKI Factions/La_Meute.md (W1), Factions/Nook_Inc.md (W1). Resume :
+- La Meute : noblesse louve de Lupus, famille "de la Meute" (celle du prota) ET MAFIA. Elite de la region. Viviane est l'Alpha de la branche de Lupus, la plus puissante ; branches secondaires en ville ; d'autres de la Meute dans le monde.
+- Doctrine : affaires et hierarchie ; PAS obsedes par la purete (epoux apex, au pire canides).
+- Domaines : Conseil municipal de Lupus (sept de la Meute y siegent) ; banque Nook (propriete de la Meute, Nook = figure publique) ; salle des ventes (Luppa) ; pegre (protection de Rounard, contrebande integree) ; protection de Nook ; police de Pont-la-Plaine (stabilite) ; securite des etablissements assuree par des crocodiles, nobles reputes pour leur violence (le gros de la mafia Crocodile est ailleurs).
+- Proteges : Rounard et la famille Nook uniquement (pas leurs especes), car aussi ambitieux qu'elle.
+- NOOK ET ROUNARD : nouveaux bourgeois, partis ensemble. Nook par la legalite (immobilier, credit sans interets mais extensions de plus en plus cheres, monopole de la construction) ; Rounard par le marche noir (art vole et contrefait, viande d'Anthro, drogue, animaux de compagnie, Anthros esclaves, armes).
+- Meli et Melo : tanukis secourus dans la rue par Nook, qui a vu en eux celui qu'il etait et les hisse a son niveau ; il les appelle ses neveux.
+- Max (shih tzu ; Digby en VO), frere jumeau de Marie : services a la communaute chez Nook Immobilier (canon).
+- FAMILLE (branche de Lupus) :
+  - Parents : Viviane (louve pure, aspect de malinois par son pelage ; Alpha) et Arthur, ne Fontaine (famille noble humaine ; aussi froid et calculateur que la Meute ; ~60 ans, 1 m 85, cheveux gris courts, deux griffures de loup sur la joue gauche). Tous deux au Conseil.
+  - Portee ainee (17/09, 29 ans) : Blanche (louve, consultante en finance, sortie du systeme, garde sa part) ; Monica (louve pure, pelage roux a extremites blond platine, nomade) ; Henry (humain, eveque, absent, seul croyant ; trouvait le prota pitoyable, syndrome du sauveur - le prota l'ignore ; 1 m 79, gris) ; Charlotte (humaine, calculatrice mais chaleureuse, Conseil ; 1 m 62, chatain) ; Sebastien (humain, arrogant mais idiot, Conseil ; 1 m 82, portrait du pere, cheveux noirs).
+  - Portee cadette (16/12, 26 ans) : le prota (seul hybride) ; Chef (loup, Conseil) ; Luppa (louve, gerante de la salle des ventes, tient le marteau) ; Pierrot (loup arctique, Conseil) ; Daniel et Antoine (humains, banquiers a la banque Nook, complices, naifs, moqueurs ; 1 m 75, bruns) ; Sophie (humaine, froide, calculatrice, dedaigneuse, Conseil ; 1 m 67, blond platine a meches grises et chatain).
+- L'eglise : opium du peuple pour la famille, cynique ; Henry seul a y croire.
 - Marie, vue par la Meute : parfaite - une banale chienne de classe moyenne, bonne pour l'aberration.
-- Ironie [PROPOSE] : Marie est un shih tzu ; la race compte parmi les plus proches du loup genetiquement, fut un chien de palais, et son nom signifie a peu pres "petit lion". Les loups ont raye "Canis" de leur nom ; la "banale chienne" reste l'une des plus proches d'eux.
+- Ironie shih tzu : ABANDONNEE (jugee pas utile par le worldbuilder).
 
 ## S14 Protagoniste
 - LOUP-GAROU : Lupus x Homo, le ~1/10 000 (S4). Fruit de l'union d'une louve et d'un humain. De la Meute (S13) : nom de famille "de la Meute".
 - Seul hybride de sa portee. A survecu, au grand dam de ses parents. Traite en paria.
 - Hybride STABLE, sans metamorphose. Pleines lunes : bestialite accrue, facon Malediction du Soleil Noir (The Witcher) - faux, mais on le traite comme tel, donc il le devient. Conditionnement folklorique de paria plutot que reflexe reel ; l'absence de documentation sur les hybrides laisse la legende remplir le vide.
-- Etudes de politique, puis designe maire de Pont-la-Plaine. Nomination = PLACARD DORE : l'eloigner sans le tuer.
+- Etudes de politique, puis designe maire de Pont-la-Plaine. Nomination = PLACARD DORE : l'eloigner sans le tuer. Designe par le cercle haut de Lupus (regle des Bergeries) ; pleins pouvoirs (cf. Lieux/Pont_la_Plaine.md).
+- Parents : Viviane de la Meute (Alpha) et Arthur, ne Fontaine. Deux lignees nobles.
+- Portee : nee le 16/12 ; 26 ans. Chef, Luppa, Pierrot (loups), Daniel, Antoine, Sophie (humains), et lui, seul hybride (S13).
 - Sang bleu : la dette ne le concerne pas (S2).
 - Physique : beau. Le worldbuilder a des images de reference (a fournir en passe 1).
 - Masculin ; romance avec Marie probable (couple hetero). Au canon NL, Marie est la secretaire du maire.
-- Piste "frere de Nook" abandonnee : Meli et Melo restent les neveux de Nook (canon).
+- Piste "frere de Nook" abandonnee. Meli et Melo : tanukis secourus par Nook, qu'il appelle ses neveux (canon NH, S13).
 - Modus operandi du worldbuilder (lecture MJ, pour memoire) : prota = pilier cache de l'envers du canon ; double lien (sang ou creation + couple avec un poids lourd) ; cote systeme ; parentalite ; cosmogonie cachee. Variante ici : le pilier cache est un paria.
 
 ## S15 Blanche de la Meute
-- Grande soeur du prota. Louve, Lupus sapiens (villageoise canon, Whitney en VO). Luxueuse ; rejette la doctrine familiale. A tout mais ne veut que peu ; reste sur un piedestal, parce que c'est une louve.
+- Grande soeur du prota : memes parents (Viviane et Arthur), portee ainee (17/09, 29 ans ; cf. S13). Louve, Lupus sapiens (villageoise canon, Whitney en VO). Consultante en finance, pleinement sortie du systeme familial, garde l'acces a sa part de la fortune. Luxueuse ; rejette la doctrine familiale. A tout mais ne veut que peu ; reste sur un piedestal, parce que c'est une louve.
 - Elite locale de Pont-la-Plaine, par choix [IMPLICITE].
 - Joue la rationnelle qui ne s'investit que dans ses interets. Son frere est le seul a avoir suivi le meme chemin qu'elle - mais pas par choix.
 - Jamais de "je t'aime" : des manigances tacites pour que personne ne touche au seul membre de SA meute.
@@ -172,23 +186,41 @@
 - Especes d'habitants (canon NH, apres ajustements) : crocodiles, fourmiliers, ours (oursons fusionnes), oiseaux, taureaux, chats, poules, vaches, cerfs, chiens, canards, aigles, elephants, grenouilles, chevres, gorilles, hamsters, hippopotames, chevaux, kangourous, koalas, lions, singes, souris, pieuvres, autruches, pingouins, cochons, lapins, rhinoceros, moutons, ecureuils, tigres, loups. Plus : humains (rares).
 - Dont lignees in vitro (S4) : crocodiles, oiseaux, poules, canards, aigles, grenouilles, pieuvres, autruches, pingouins.
 - Especes presentes au canon uniquement via des personnages speciaux (tanuki, renard, hibou, kappa, herisson, alpaga, taupe, tortue, mouette, dodo, sanglier, mouffette, paresseux, chameau, renne) : toutes COMMUNES dans le monde, sauf tanuki et kappa (hybrides normalises, rares). Especes ancetres toujours existantes en sapiens : Procyon, Nyctereutes, Chrysemys, Dendrobates.
+- Releves du lot 3 (2026-09-22) :
+  - VF verifiees : Amiral = Kapp'n (taxi WW, bus CF, bateau AC/NL/NH) ; Charly = Rover (passager au canon, jamais chauffeur) ; Luppa = Freya ; Maret = Copper ; Chausset = Booker ; Liliane = Leilani ; Lila = Leila ; Mamiral = Grams ; Tortiland = Tortimer Island ; Morris = Orville ; Rodrigue = Wilbur ; Lou = Lottie ; Astrid = Katrina ; Nook Immobilier = Nook's Homes.
+  - VF [CANON SUPPOSE] (source fan, ou VF non europeenne) : Ginette = Harriet ; Lionel = Lyle ; Ciboulot = Dr Shrunk ; Club Mdr = Club LOL ; Paradis sur mesure = Paradise Planning. Non trouvees : Gracie, Niko, Wardell.
+  - City Folk : Rounard en ruelle sombre, sans enseigne, invitation + adhesion + parrainage paye (remplace ici, S12) ; ouvert 10 h - 1 h, arrivages le mercredi. Salle des ventes tenue par Lloid au canon (ici : Luppa). Bus conduit par Amiral (ici : Charly). Boutiques fermees a 21 h sauf Rounard (non repris). Nook evoque une carriere ratee en ville ; Thibou a grandi en ville. La pluie en ville fait apparaitre des Gyroides enterres au village le lendemain.
+  - New Leaf : joueur maire par meprise + permis a 100 % d'approbation (non repris) ; Tortimer retraite ; Club LOL (Ciboulot proprietaire, Keke DJ) ; Nook Immobilier (Nook, Lionel, Lou) ; poste de police (Maret, Chausset).
+  - New Horizons : forfait (billet, hebergement, main-d'oeuvre, taxes, NookPhone) ; Nook Inc. gouverne via les Services aux habitants ; ordonnances d'ile ; iles mysteres ; Paradis sur mesure (Lou, Niko langur gris, Wardell lamantin qui fait credit) ; bateau de Rounard ; hydravions Dodo Airlines.
+  - Lionel : escroc a l'assurance (Wild World), president de la HRA (City Folk), agent de Nook Immobilier (New Leaf). Lou est sa niece.
+  - Luppa (canon) : arrogante ; reve de devenir veterinaire ; issue d'une fratrie de sept.
+  - Mamiral : doyenne grincheuse (traite son fils de bon a rien, sa belle-fille de laide).
+  - Monnaies canon (pour Systemes/Economie) : clochettes ; miles Nook (monnaie propre a Nook Inc.) ; medailles (Tortiland) ; Poki (Paradis sur mesure).
+  - Montants canon (pour Systemes/Economie) : forfait ile deserte 49 800 clochettes (ou 5 000 miles) ; ordonnance 20 000 ; traversee vers Tortiland 1 000 ; adhesion Rounard 3 000, parrainage 1 000 ; coiffure 3 000 ; billet ile mystere 2 000 miles.
+- Releves du lot 4 (2026-09-22) :
+  - Nook : prets sans interets ni echeance ; chaque remboursement ouvre une extension plus chere ; boutique qui grandit par etapes ; agence Nook Immobilier (New Leaf) ; Nook Inc. (New Horizons). Meli et Melo : jumeaux, apprentis, sans lien de sang - Nook les a trouves dans la rue et eleves, les appelle ses neveux, veut leur eviter les ecueils de sa propre jeunesse.
+  - Max = Digby [CANON SUPPOSE - nom VF, source fan] : frere jumeau de Marie ; chef des services a la communaute de Nook's Homes (Happy Home Designer).
+  - Loups (VF / VO, anniversaire canon) : Chef = Chief (19/12) ; Pierrot = Fang (18/12, loup arctique, versatile) ; Luppa = Freya (14/12, arrogante, fratrie de sept) ; Viviane = Vivian (26/01, arrogante, allure de malinois) ; Monica = Audie (31/08, seule louve vive, allure de renarde) ; Blanche = Whitney (17/09, louve arctique).
+  - Divergences assumees : Viviane et Monica louves pures (pelage) ; anniversaires regroupes par portee (16/12, 17/09).
 
 ## S17 Reste a trancher
-En attente - lots suivants :
-- LOT 4 : NOM DE L'ENTREPRISE des Gyroides.
-- DOMAINES D'ACTIVITE DES FACTIONS : a definir (annonce du worldbuilder) - lot 4.
-- Proposition MJ non validee : ironie shih tzu (S13).
+En attente - lot 4bis, avant BIBLE B1 :
+- Systemes/Economie.md : systeme monetaire (monnaies et montants canon releves en S16). Les pages Lieux et Factions ne portent aucun montant d'ici la.
+Pistes non tranchees :
+- Ecosysteme Nook : Lionel ex-escroc a l'assurance (canon Wild World) ; Paradis sur mesure fondee par Lou, ancienne de Nook Immobilier - lien avec Nook Inc. non precise.
 Dettes de build :
 - FICHE GARDE-CAP : a produire apres le worldbuilding (le RP brassera de nombreux aspects) ; format a definir.
 - Hors univers : SPEC_BIBLE_LORE_WIKI v8_5, ligne "Emplacement" qui pointe encore vers v8_3. A corriger a la prochaine revision SPEC.
+- Noms VF [CANON SUPPOSE] a confirmer (S16) ; Gracie, Niko, Wardell : VF non trouvees.
 Fiches en attente (passe 1) :
-- PROTAGONISTE : prenom, age, apparence ; lequel des parents porte la noblesse (le pere humain est-il noble ?) ; sait-il que sa bestialite des pleines lunes est conditionnee ? ; paria d'une famille noble : connait-il la cle de l'origine (zoophilie) ?
-- BLANCHE : memes parents que le prota (pere humain), ou autre union ? Base canon : Whitney.
-- Noyaux a prevoir : Marie, Tom Nook, Rounard, Meli et Melo, Tortimer, Jacqu'O, Albin, et les piliers retenus.
+- PROTAGONISTE : prenom, apparence (images de reference du worldbuilder) ; sait-il que sa bestialite des pleines lunes est conditionnee ? ; paria d'une famille noble : connait-il la cle de l'origine (zoophilie) ? Acquis : 26 ans, ne le 16/12, parents Viviane et Arthur (S13).
+- LA FAMILLE (S13) : noyaux de Viviane (age non fixe), Arthur, Blanche, Monica, Henry, Charlotte, Sebastien, Chef, Luppa, Pierrot, Daniel, Antoine, Sophie. Henry : page relations (ironie dramatique sur le prota).
+- TOM NOOK : enfance (il se reconnait dans Meli et Melo, secourus dans la rue [IMPLICITE : enfance pauvre]) ; carriere ratee en ville (canon CF) ; depart commun avec Rounard.
+- Noyaux a prevoir : Marie, Tom Nook, Rounard, Meli et Melo, Max, Tortimer, Jacqu'O, Albin, Charly, Amiral, et les piliers retenus.
 
 ## S18 Reprise - prochain thread
-- Etat : cadrage clos (2026-09-21). Rien n'existe encore au depot pour cet univers.
-- SPEC verifiees le 2026-09-21 : SPEC_BIBLE_LORE_WIKI_v8_5, SPEC_CODEX_v8_4. Reverifier par listing de Config/ a chaque nouveau thread.
+- Etat : Passe 0, lots 1 a 4 boucles (2026-09-22). Reste le lot 4bis.
+- SPEC verifiees le 2026-09-22 : SPEC_BIBLE_LORE_WIKI_v8_5, SPEC_CODEX_v8_4. Reverifier par listing de Config/ a chaque nouveau thread.
 - Architecture WIKI validee (precedents : Systemes/ Lieux/ Factions/ comme ClairObscur, Lore/ comme Witcher) :
 ```
 AnimalCrossing/
@@ -201,6 +233,7 @@ AnimalCrossing/
     Especes_Taxonomie.md
     Hierarchie_Predation.md
     Gyroides.md
+    Economie.md                 lot 4bis
   Lore/
     Uchronie.md
   Lieux/
@@ -212,12 +245,13 @@ AnimalCrossing/
     Nook_Inc.md
   Personnages/                  passe 1
 ```
-- Ordre des lots : 1a Reproduction_Hybridation + Especes_Taxonomie ; 1b Hierarchie_Predation + Gyroides ; 2 Lore ; 3 Lieux ; 4 Factions ; puis BIBLE B1, Resume.md, Sommaire.md et _Implications.md (recree depuis S17).
-- LOT 1 BOUCLE. Livre : Systemes/Especes_Taxonomie.md W2, Systemes/Reproduction_Hybridation.md W2, Systemes/Hierarchie_Predation.md W1, Systemes/Gyroides.md W1.
-- LOT 2 BOUCLE. Livre : Lore/Uchronie.md W2.
-- A pousser sur le depot avant tout nouveau thread : AnimalCrossing/Systemes/ (4 pages), AnimalCrossing/Lore/Uchronie.md, AnimalCrossing/_Chantier_Passe0_Cadrage.md.
-- Prochaine etape : lot 3 (Lieux) - poser le canon City Folk / New Leaf / New Horizons, confronter a S12, trancher, construire.
-- Ensuite : PASSE 1, fiches noyau.
+- Ordre des lots : 1a Reproduction_Hybridation + Especes_Taxonomie ; 1b Hierarchie_Predation + Gyroides ; 2 Lore ; 3 Lieux ; 4 Factions ; 4bis Systemes/Economie ; puis BIBLE B1, Resume.md, Sommaire.md et _Implications.md (recree depuis S17).
+- LOTS 1, 2, 3, 4 BOUCLES.
+- Versions courantes : Systemes/Especes_Taxonomie W3 ; Systemes/Reproduction_Hybridation W2 ; Systemes/Hierarchie_Predation W1 ; Systemes/Gyroides W3 ; Lore/Uchronie W2 ; Lieux/Lupus W2 ; Lieux/Pont_la_Plaine W2 ; Lieux/Reserves W2 ; Factions/La_Meute W1 ; Factions/Nook_Inc W1.
+- Livre au lot 4 : Factions/La_Meute.md W1, Factions/Nook_Inc.md W1 ; mises a jour Systemes/Gyroides.md W3 (GyroCorp, reparation par enterrement), Lieux/Lupus.md W2 (Conseil municipal, Luppa), Lieux/Pont_la_Plaine.md W2 (Meli et Melo, Max).
+- A pousser sur le depot avant tout nouveau thread : toutes les versions courantes ci-dessus qui n'y sont pas encore, et _Chantier_Passe0_Cadrage.md W13. Les pages Lieux et Factions se renvoient les unes aux autres : les pousser ensemble.
+- Prochaine etape : lot 4bis - Systemes/Economie.md. Poser le canon monetaire (S16), confronter, trancher, construire.
+- Ensuite : BIBLE B1, Resume.md, Sommaire.md, _Implications.md ; puis PASSE 1, fiches noyau.
 - Regles de contenu : S1, valables pour tout le build et le jeu.
 
 ---
