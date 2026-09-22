@@ -1,15 +1,15 @@
 # Uchronie
 
-- version : W2
+- version : W4
 
 ## Point de bascule
 - Divergence UNIQUE avec notre monde : l'humain s'hybride tres facilement avec les autres especes.
 - Un croisement bete x humain peut donner un etre doue de raison (~1/100). Voie sexuee chez les mammiferes seulement ; in vitro pour les autres. Detail : cf. Systemes/Reproduction_Hybridation.md.
 
 ## Eres
-Etiquettes de travail, pas en usage dans le monde. Aucune date absolue. Toutes les eres ci-dessous, nivellement compris, precedent le present de plusieurs siecles.
+Etiquettes de travail, pas en usage dans le monde. Eres non datees ; seul repere absolu : l'an 0 du calendrier (cf. Calendrier). Toutes les eres ci-dessous, nivellement compris, precedent le present de plusieurs siecles.
 
-### Age d'or
+### Age des enclos
 - Domination humaine totale, comme dans notre monde actuel.
 - Les humains classent le vivant : la classification scientifique est le classement ultime de l'age d'or.
 - Les animaux sont parques dans des enclos : menageries, bergeries, reserves. Les etablissements actuels en heritent le nom ; le monde n'ose plus dire d'ou il vient.
@@ -37,16 +37,25 @@ Etiquettes de travail, pas en usage dans le monde. Aucune date absolue. Toutes l
 - Ex. pour un humain ne, un couple lionne x renard donne 3 lionceaux + 3 renardeaux.
 - Quand l'humanite admet que le tabou n'en est plus un, elle est deja minoritaire.
 - "Hybride" quitte les Anthros : le mot ne designe plus que le cas hors norme a ~1/10 000.
+- An 0, pendant le nivellement [IMPLICITE] : les humains deviennent les moins nombreux des apex. C'est la fin officielle de l'age d'or des Homo.
 
 ### Present
-- Des siecles apres le nivellement.
+- Des siecles apres le nivellement. Present de reference : an 632.
 - Humains : espece rare, au meme rang d'espece que les autres sapiens. Statut d'apex herite de l'age d'or.
 - Vocabulaire issu du passe : "Anthro" maintenu par lobbying humain ; "Canis" retire du nom des loups par leur lobbying (cf. Systemes/Especes_Taxonomie.md).
+
+## Calendrier
+- Jours et mois comme les notres.
+- Annees comptees depuis l'an 0 : l'annee ou les humains sont devenus les moins nombreux des apex.
+- Cette annee signe officiellement la fin de l'age d'or des Homo. Pour le commun des gens, c'est simplement "la fin de l'age d'or".
+- L'age d'or du monde s'acheve a l'an 0. L'ere de travail "Age des enclos" n'en est que le debut [IMPLICITE].
+- Eres anterieures a l'an 0 : non datees.
 
 ## Honte et transmission
 - Le monde a honte de son histoire et la tait. L'age d'or humain et un tabou de toujours ont cause ENSEMBLE le monde actuel.
 - Le tabou de l'origine est aujourd'hui quasi inconnu. Tombe pendant l'avenement, il a ete reenfoui par la honte [IMPLICITE].
 - Version publique : une legende officielle. Un age d'or vague et prestigieux, qui justifie le rang des humains.
+- Pour les Anthros, "age d'or" est de la propagande humaine.
 - Origine des Anthros, version publique : le public sait qu'ils furent des "hybrides", et croit a une origine savante. L'in vitro, reel pour les non-mammiferes, sert de recit pour toutes les especes.
 - Fragments de la verite : archives, musee de Thibou. Ils ne livrent pas la cle [IMPLICITE].
 - La cle - la voie sexuee des mammiferes, l'origine par zoophilie - n'est connue que des familles nobles, dont la Meute.
