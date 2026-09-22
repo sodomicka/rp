@@ -1,0 +1,59 @@
+# Nook_Inc
+
+- version : W1
+
+## Nature
+- Groupe de Tom Nook (tanuki ; Tanuki sapiens, espece rare).
+- Siege a Lupus, dans les Hauts : Nook est le seul non-apex perche (cf. Lieux/Lupus.md).
+- C'est le capital par la legalite : Nook est un magnat de l'immobilier insatiable, un monstre d'avarice.
+- Image publique : le magnat de l'immobilier parti de rien, qui s'est diversifie dans la banque.
+- Protege de la Meute, comme Rounard. La Meute a integre ses affaires a sa mafia : le capital officiel et la pegre paient le meme clan.
+
+## Origines
+- Nook et Rounard sont des nouveaux bourgeois et ont commence ensemble.
+- Nook a choisi la legalite, Rounard le marche noir.
+
+## Le modele : la dette sans interets
+- Nook vend la maison :
+  - pas de loyer ;
+  - pas d'interets ;
+  - pas d'echeance.
+- Chaque extension se paie d'un paiement unique, de plus en plus eleve. Chaque remboursement ouvre l'extension suivante : le confort a un prix demesure.
+- Monopoles :
+  - l'immobilier et son credit ;
+  - la construction : seul maitre d'oeuvre des travaux publics a Pont-la-Plaine (cf. Lieux/Pont_la_Plaine.md), seul constructeur sur les iles d'escapade (cf. Lieux/Reserves.md).
+- Sur les travaux publics, Nook est fiable : il fournit main-d'oeuvre et materiaux, mais tout l'argent passe par lui.
+
+## Branches
+- Magasin Nook :
+  - tenu par Meli et Melo ;
+  - au canon, il grandit par etapes, de l'echoppe au grand magasin ;
+  - succursale a Pont-la-Plaine.
+- Nook Immobilier : agence immobiliere a Pont-la-Plaine.
+  - Tente et pret pour les nouveaux venus.
+  - Lionel (loutre) y note les interieurs.
+  - Max (shih tzu ; Digby en VO), frere jumeau de Marie, y dirige les services a la communaute.
+- Nook Inc. :
+  - colonisation des iles d'escapade par un forfait d'installation ;
+  - administration de ces iles par les Services aux habitants ;
+  - telephone NookPhone ;
+  - vente par correspondance (cf. Lieux/Reserves.md).
+- Banque Nook :
+  - elle APPARTIENT A LA MEUTE. Nook n'en est que la figure publique ;
+  - Daniel et Antoine de la Meute y sont banquiers.
+
+## Meli et Melo
+- Tanukis jumeaux, apprentis de Nook.
+- Aucun lien de sang : Nook les a secourus dans la rue.
+- Il a vu en eux celui qu'il etait et a decide de les hisser a son niveau. Il les appelle ses neveux.
+
+## Liens
+- Paradis sur mesure (archipel de villegiature) : fondee par Lou, ancienne de Nook Immobilier et niece de Lionel (cf. Lieux/Reserves.md).
+
+## Trajectoire datee
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+
+---
+
+FIN_WIKI_FACTIONS_NOOK_INC
