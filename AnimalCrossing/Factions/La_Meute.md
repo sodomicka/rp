@@ -1,6 +1,6 @@
 # La_Meute
 
-- version : W1
+- version : W2
 
 ## Nature
 - La Meute, c'est a la fois :
@@ -17,8 +17,8 @@
 - Secret de GyroCorp : les apex le protegent, donc la Meute aussi [IMPLICITE] (cf. Systemes/Gyroides.md).
 
 ## Domaines
-- Politique : plusieurs de la Meute siegent au Conseil municipal de Lupus, le cercle haut. Ce Conseil gouverne la ville et designe les maires des Bergeries alentour (cf. Lieux/Lupus.md).
-- Banque : la banque Nook appartient a la Meute. Nook n'en est que la figure publique (cf. Factions/Nook_Inc.md).
+- Politique : plusieurs de la Meute siegent au Conseil municipal de Lupus, le cercle haut. Ce Conseil gouverne la ville et designe les maires des Bergeries alentour (cf. Lieux/Lupus.md). Il leur alloue leur dotation et approuve leurs ordonnances (cf. Systemes/Economie.md).
+- Banque : la banque Nook appartient a la Meute. Nook n'en est que la figure publique (cf. Factions/Nook_Inc.md). Elle finance les prets de Nook Immobilier ; Nook lui reverse une part de sa marge de chantier.
 - Encheres : la salle des ventes de Lupus.
 - Pegre : la Meute protege Rounard et a integre sa contrebande a sa mafia (detail : cf. Lieux/Lupus.md).
 - Capital officiel : elle protege aussi Nook. Le capital officiel et la pegre paient le meme clan.
@@ -66,6 +66,7 @@ Les portees sont mixtes, puisque la mere est louve et le pere humain (cf. System
   - Seul hybride de la portee ; il a survecu, au grand dam de ses parents.
   - Traite en paria.
   - Etudes de politique, puis nomme maire de Pont-la-Plaine. C'est un placard dore : l'eloigner sans le tuer.
+  - Maire de la Meute, il ne touche pas de traitement : il dispose de sa part des fonds familiaux et de leurs dividendes scandaleux.
 - Chef (loup ; Chief en VO) : siege au Conseil municipal.
 - Luppa (louve ; Freya en VO) : gerante de la salle des ventes, dont elle tient aussi le marteau.
 - Pierrot (loup arctique ; Fang en VO) : siege au Conseil municipal.
