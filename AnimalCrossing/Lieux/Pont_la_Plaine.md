@@ -1,6 +1,6 @@
 # Pont_la_Plaine
 
-- version : W2
+- version : W3
 
 ## Categorie et situation
 - Bergerie : village. Les trois categories d'etablissement du monde sont Menagerie (ville), Bergerie (village) et Reserve (ile).
@@ -21,20 +21,27 @@
 
 ## Gouvernance
 - Designation : le maire d'une Bergerie est designe par le cercle haut de la Menagerie dont elle depend. Pour Pont-la-Plaine, c'est le cercle haut de Lupus, aux mains de la Meute.
-- Pouvoirs : le maire a les pleins pouvoirs. La confiance du village n'est pas une condition prealable : elle decoule de ses choix.
-- Ordonnances : pouvoir reglementaire local, ouvert. Usages etablis :
+- Pouvoirs : le maire a les pleins pouvoirs sur le village.
+  - Les habitants n'ont pas leur mot a dire. Leur avis s'exprime par les dons, ou en faisant remonter a la mairie.
+  - La confiance du village n'est pas une condition prealable : elle decoule de ses choix.
+  - Le maire reste soumis a l'aval de la Menagerie : ses ordonnances passent par l'approbation du Conseil de Lupus.
+- Ordonnances : pouvoir reglementaire local, ouvert. Sans frais (procedure d'approbation : cf. Systemes/Economie.md). Usages etablis :
   - ville propre ;
   - leve-tot (horaires avances) ;
   - oiseau de nuit (horaires prolonges) ;
   - prosperite (prix a la hausse, a l'achat comme a la vente).
+- Finances : aucun impot local. La mairie vit d'une dotation allouee par le Conseil de Lupus, donc par les de la Meute. Elle paie les petits boulots d'interet general (desherbage, entretiens divers) et le traitement du maire (detail : cf. Systemes/Economie.md).
 - Travaux publics :
   - le maire choisit le projet ;
   - Lloid collecte les dons du maire et des habitants ;
-  - Nook Inc. est le seul maitre d'oeuvre. Il est fiable et fournit main-d'oeuvre et materiaux, mais tout l'argent passe par lui.
+  - Nook Inc. est le seul maitre d'oeuvre. Il est fiable et fournit main-d'oeuvre et materiaux, mais tout l'argent passe par lui ;
+  - les Pontois ont l'habitude de financer les projets publics : c'est l'heritage de Tortimer.
 - Maire actuel : le fils loup-garou de la Meute (Lupus x Homo). Prenom [INCERTAIN].
   - Sa nomination est un placard dore : l'eloigner de Lupus sans le tuer.
   - Il a le sang bleu : la dette ne le concerne pas.
+  - Maire de la Meute, il ne touche pas de traitement : il dispose de sa part des fonds familiaux et de leurs dividendes.
 - Predecesseur : Tortimer (tortue).
+  - Il avait ete choisi pour son approche communautaire : il convainquait les habitants de financer les projets publics.
   - La Meute a annonce sa retraite sans le prevenir.
   - Il est mis au vert a Tortiland (cf. Lieux/Reserves.md).
   - C'est le precedent du placard dore.
@@ -52,6 +59,7 @@
 
 ## Commerces et services
 - Succursale Nook : tenue par Meli et Melo, tanukis jumeaux secourus dans la rue par Nook, qui les appelle ses neveux (cf. Factions/Nook_Inc.md). Au canon, elle grandit par etapes, de l'echoppe au grand magasin.
+  - Acheteur quasi unique du village : peche, prises, recoltes. Elle fixe le cours des navets (cf. Systemes/Economie.md).
 - Nook Immobilier : agence de Nook.
   - Tente et pret immobilier pour les nouveaux venus : c'est la porte d'entree de la dette au village.
   - Lionel (loutre) y note les interieurs.
@@ -66,7 +74,7 @@
 - Bureau de poste : sans titulaire nomme.
 
 ## Visiteurs
-- Porcelette (laie) : vend des navets le dimanche matin. C'est de la speculation.
+- Porcelette (laie) : vend des navets le dimanche matin. C'est de la speculation, la bourse du pauvre (cf. Systemes/Economie.md).
 - Sarah (chameau) : vend des tapis.
 - Gulliver (mouette) : marin, s'echoue sur la plage.
 

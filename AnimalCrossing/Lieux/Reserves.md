@@ -1,6 +1,6 @@
 # Reserves
 
-- version : W2
+- version : W3
 
 ## Categorie
 - Reserve : categorie d'etablissement pour les iles. Les deux autres categories : Menagerie (ville), Bergerie (village).
@@ -26,7 +26,7 @@
   - la main-d'oeuvre ;
   - les taxes ;
   - un telephone NookPhone.
-- Le colon arrive sans le sou et demarre endette. Vient ensuite le pret pour une vraie maison.
+- Le colon arrive sans le sou et demarre endette : le forfait ne se paie qu'en miles Nook, monnaie de compagnie gagnee contre du travail sur l'ile (cf. Systemes/Economie.md). Vient ensuite le pret pour une vraie maison.
 - A la fondation, l'ile compte deux batiments : les Services aux habitants, et le terminal Dodo Airlines, qui fait aussi office de poste.
 - Pas de maire. Nook Inc. administre l'ile par les Services aux habitants.
 - Un habitant porte le titre de representant des habitants. Il peut edicter des ordonnances d'ile.
@@ -38,7 +38,7 @@
 
 ## Iles mysteres
 - Fonction : extraction de ressources.
-- Iles sauvages, sans etablissement. On y va avec un billet emis par Nook Inc., sur un vol Dodo Airlines.
+- Iles sauvages, sans etablissement. On y va avec un billet emis par Nook Inc. et paye en miles, sur un vol Dodo Airlines.
 - Chaque vol mene a une ile differente : on ne revient jamais sur la meme. Ce qu'on y laisse est perdu.
 - On en rapporte materiaux, flore et faune.
 - Parfois, un habitant isole y campe. On peut lui proposer de s'installer sur une ile d'escapade.
@@ -52,6 +52,7 @@
   - Wardell (lamantin) fournit le mobilier et tient la boutique du siege. Il fait credit : on achete tout de suite, on paie plus tard.
   - Noms VF de Niko et Wardell : [CANON SUPPOSE - nom VF].
 - Uniforme obligatoire pour tout le personnel (politique d'entreprise).
+- Le personnel est paye en Poki, monnaie de compagnie depensable a la boutique du siege (cf. Systemes/Economie.md).
 - Le siege est sur l'ile principale.
 - Les residences sont concues a la demande du client : interieur, exterieur, jardin.
 - L'archipel compte aussi des installations : ecole, restaurant, hopital, boutique de vetements.
@@ -74,11 +75,11 @@
   - C'est le precedent d'une mise au placard par la Meute.
 - Le hall d'accueil est tenu par la famille d'Amiral, quatre kappas (Kappa sapiens, espece rare) :
   - Liliane, femme d'Amiral : reception et excursions ;
-  - Mamiral, mere d'Amiral : boutique de souvenirs. Doyenne grincheuse, qui traite son fils de bon a rien et sa belle-fille de laide ;
+  - Mamiral, mere d'Amiral : boutique de souvenirs, payable en medailles seulement. Doyenne grincheuse, qui traite son fils de bon a rien et sa belle-fille de laide ;
   - Lila, fille d'Amiral : rachete a vil prix les trouvailles des visiteurs. Lila est une ENFANT : hors de tout champ sexuel ;
   - Amiral fait la navette en bateau.
 - Activites :
-  - excursions organisees ;
+  - excursions organisees, recompensees en medailles, la monnaie de l'ile (cf. Systemes/Economie.md) ;
   - peche, requins compris : ce sont des animaux sans raison, aucun poisson n'est sapiens (cf. Systemes/Especes_Taxonomie.md) ;
   - faune et flore exclusives, dont le requin-baleine.
 

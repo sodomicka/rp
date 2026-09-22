@@ -1,6 +1,6 @@
 # Lupus
 
-- version : W2
+- version : W3
 
 ## Categorie et nom
 - Menagerie : ville. C'est la grande ville de la region.
@@ -68,8 +68,8 @@
 - Horaires (canon) : ouverte de 10 h a 1 h ; arrivages le mercredi.
 - Acces, en trois barrieres :
   - trouver l'adresse. C'est le plus dur : la connaitre, c'est deja une forme d'invitation ;
-  - payer pour entrer ;
-  - payer au prix fort pour acheter.
+  - payer pour entrer, a chaque visite ;
+  - payer au prix fort pour acheter. Rounard est regle dans son illegalite : prix fixes, jamais a la tete du client (tarifs : cf. Systemes/Economie.md).
 - Boutique : oeuvres d'art volees et contrefaites.
 - Arriere-boutique, la vraie boutique :
   - il faut inspirer confiance a Rounard, qui juge lui-meme ce que chaque client peut voir ;
