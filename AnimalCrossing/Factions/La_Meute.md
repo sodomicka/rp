@@ -1,6 +1,6 @@
 # La_Meute
 
-- version : W9
+- version : W10
 
 ## Nature
 - La Meute, c'est a la fois :
@@ -23,7 +23,7 @@
 - Banque : la banque Nook appartient a la Meute. Nook n'en est que la figure publique (cf. Factions/Nook_Inc.md). Elle finance les prets de Nook Immobilier ; Nook lui reverse une part de sa marge de chantier.
 - Encheres : la salle des ventes de Lupus.
 - Pegre : la Meute protege Rounard et a integre sa contrebande a sa mafia (detail : cf. Lieux/Lupus.md).
-- Capital officiel : elle protege aussi Nook. Le capital officiel et la pegre paient le meme clan.
+- Capital officiel : elle protege aussi Nook. Le capital officiel et la pegre paient le meme clan. C'est Rounard qui a recommande Nook a Viviane (detail : cf. Personnages/Tom_Nook.md).
 - Proteges : Rounard et la famille Nook uniquement, pas leurs especes, car ils sont aussi ambitieux qu'elle.
 - Ordre : le poste de police de Pont-la-Plaine existe parce que la Meute aime la stabilite.
 - Securite : des crocodiles, nobles reputes pour leur violence, gardent les etablissements de la Meute. Le gros de la mafia Crocodile est ailleurs (instinct des crocodiles : cf. Systemes/Hierarchie_Predation.md).
@@ -61,7 +61,7 @@ Les portees sont mixtes, puisque la mere est louve et le pere humain (cf. System
 - Sophie (humaine) : Conseil, la plus impliquee dans les affaires illegales ; la plus semblable aux parents ; mariage arrange en preparation. Fiche : cf. Personnages/Sophie_de_la_Meute.md.
 
 ### Parents eloignes
-- Gary de la Meute : cousin tres eloigne venu de loin, Lycaon sapiens ; avare, devoue a la Meute ; compagnon de Luppa. Pas de fiche.
+- Gary de la Meute (Kyle en VO) : cousin tres eloigne venu de loin, Lycaon sapiens ; avare, devoue a la Meute ; compagnon de Luppa. Pas de fiche.
 
 ## Moeurs
 - Clan : seul le clan compte. Qu'une ou deux brebis galeuses quittent le groupe n'importe pas ; les parents y voient un detour de jeunesse avant le retour dans le rang.
@@ -72,6 +72,7 @@ Les portees sont mixtes, puisque la mere est louve et le pere humain (cf. System
 ## Regards de la Meute
 - Sur l'eglise : c'est l'opium du peuple, la croyance en un dieu qui sert a mener les foules a la baguette. La famille est cynique sur ce sujet : les parents y voulaient de l'influence. Henry est le seul a y croire vraiment ; pour lui parler du clan, ses parents passent par le confessionnal.
 - Sur Marie : parfaite. Une banale chienne de classe moyenne, bonne pour l'aberration. Constat apres coup : si Remus sort avec sa secretaire, c'est au moins une Canis, pas encore le bas de l'echelle, et pas une lignee noble qu'il souillerait (cf. Personnages/Marie.md).
+- Sur Tom Nook : tres pragmatique, juge par Viviane et Arthur des sa recommandation par Rounard. Il n'est un de la Meute que par convergence d'interets, certainement pas digne d'epouser une fille de la branche principale : Viviane le lui a signifie quand il a courtise Luppa a ses 18 ans (cf. Personnages/Tom_Nook.md).
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |

@@ -1,9 +1,9 @@
 # Nook_Inc
 
-- version : W3
+- version : W6
 
 ## Nature
-- Groupe de Tom Nook (tanuki ; Tanuki sapiens, espece rare).
+- Groupe de Tom Nook (tanuki ; Tanuki sapiens, espece rare). Nook lui-meme : cf. Personnages/Tom_Nook.md.
 - Siege a Lupus, dans les Hauts : Nook est le seul non-apex perche (cf. Lieux/Lupus.md).
 - C'est le capital par la legalite : Nook est un magnat de l'immobilier insatiable, un monstre d'avarice.
 - Image publique : le magnat de l'immobilier parti de rien, qui s'est diversifie dans la banque.
@@ -11,7 +11,8 @@
 
 ## Origines
 - Nook et Rounard sont des nouveaux bourgeois et ont commence ensemble.
-- Nook a choisi la legalite, Rounard le marche noir.
+- Nook a choisi la legalite, Rounard le marche noir (cf. Personnages/Rounard.md).
+- Detail (vente a la sauvette, echec face a l'hotel des ventes, boutique en vrac, rupture sur les armes, recommandation de Nook a la Meute par Rounard) : cf. Personnages/Tom_Nook.md.
 
 ## Le modele : la dette sans interets
 - Nook vend la maison :
@@ -33,13 +34,13 @@
 
 ## Branches
 - Magasin Nook :
-  - tenu par Meli et Melo ;
+  - tenu par Meli et Melo (cf. Personnages/Meli_et_Melo.md) ;
   - au canon, il grandit par etapes, de l'echoppe au grand magasin ;
   - succursale a Pont-la-Plaine ;
   - acheteur quasi unique des habitants (peche, prises, recoltes) ; il fixe le cours des navets.
 - Nook Immobilier : agence immobiliere a Pont-la-Plaine.
   - Tente et pret pour les nouveaux venus.
-  - Lionel (loutre) y note les interieurs.
+  - Lionel (loutre) y evalue les interieurs pour le jeu de l'evaluation, ci-dessous (cf. Personnages/Lionel.md).
   - Max (shih tzu ; Digby en VO), frere jumeau de Marie, en est le gerant ; lundi et jeudi au siege (cf. Personnages/Max.md).
 - Nook Inc. :
   - colonisation des iles d'escapade par un forfait d'installation ;
@@ -52,16 +53,24 @@
   - Daniel et Antoine de la Meute y sont banquiers ;
   - elle finance les prets de Nook Immobilier (cf. Le modele).
 
+## Le jeu de l'evaluation
+- Jeu d'argent organise par Nook autour des interieurs : contre un abonnement non resiliable, Lionel vient noter l'interieur de l'abonne, qui recoit des prix selon sa note.
+- Recompense a partir de 5/10 ; rentable seulement a partir de 7/10. Tout le monde veut jouer.
+- Heritier de l'Academie de l'habitat du canon, fondue dans Nook Immobilier (cf. Lieux/Lupus.md, Absents).
+- Montants : cf. Systemes/Economie.md.
+
 ## Cadres
 - Logement contre salaire : Nook "offre" un appartement a ses jeunes cadres contre un salaire reduit de 60 % pendant leurs trois premieres annees. Cas etabli : Max (cf. Personnages/Max.md).
 
 ## Meli et Melo
-- Tanukis jumeaux, apprentis de Nook.
-- Aucun lien de sang : Nook les a secourus dans la rue.
+- Tanukis jumeaux, 13 ans a P, apprentis de Nook. ENFANTS : hors de tout champ sexuel.
+- Aucun lien de sang : Nook les a recueillis a 8 ans, vendeurs a la sauvette dans la Basse Lupus.
 - Il a vu en eux celui qu'il etait et a decide de les hisser a son niveau. Il les appelle ses neveux.
+- Ils tiennent la succursale de Pont-la-Plaine depuis peu avant P : Nook a grassement paye la famille d'Amiral, qui la tenait, pour qu'elle la leur laisse (cf. Lieux/Reserves.md).
+- Fiche : cf. Personnages/Meli_et_Melo.md.
 
 ## Liens
-- Paradis sur mesure (archipel de villegiature) : fondee par Lou, ancienne de Nook Immobilier et niece de Lionel (cf. Lieux/Reserves.md).
+- Paradis sur mesure (archipel de villegiature) : FILIALE de Nook Inc. Fondee par Lou, niece de Lionel, entree chez Nook Inc. grace a lui ; c'est Lionel qui a vendu le projet a Nook comme une filiale (cf. Personnages/Lionel.md, Lieux/Reserves.md). Lou : fiche a venir.
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
