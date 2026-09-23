@@ -1,6 +1,6 @@
 # Tortimer
 
-- version : W2
+- version : W3
 
 ## Identite
 - Nom : Tortimer (Tortimer en VO ; Kotobuki en VO japonaise, aussi appele Sonchou, "le maire").
@@ -40,7 +40,7 @@
 - Nomme en 546, a 25 ans, par le grand-pere maternel de Viviane, alors Alpha de la Meute [nom : INCERTAIN] (cf. Factions/La_Meute.md).
 - Approche communautaire : il convainquait les habitants de financer les projets publics. Les Pontois y sont habitues (cf. Systemes/Economie.md).
 - Realisations, tout ce qui est en place a P : la mairie, les ponts, le poste de police, l'agence Nook Immobilier, la boutique d'Amiral puis de Meli et Melo, le musee (sans extensions, peu rempli). Certains ouvrages ont ete finances par des entreprises [lesquels : INCERTAIN] ; tout ce qui est propre a la ville vient du financement participatif des habitants (cf. Lieux/Pont_la_Plaine.md).
-- Pourquoi lui : les autres maires sous la Meute sont moins sensibles et passent par un impot concret ; il est le seul a passer par le volontariat. Ca, plus son age : il etait tout designe pour laisser la place [A RECONCILIER avec Systemes/Economie.md, "aucun impot local" ; question posee].
+- Pourquoi lui : Lupus n'impose aucun modele de gestion a ses Bergeries. Les autres maires sous la Meute, moins sensibles, passent par un systeme ferme d'impot local et de redistribution en depenses publiques ; il est le seul a passer par le volontariat, modele collaboratif unique (cf. Systemes/Economie.md). Ca, plus son age : il etait tout designe pour laisser la place.
 - Insigne : il portait la broche de Lupus (cf. Lieux/Pont_la_Plaine.md).
 
 ## Histoire jusqu'au point de depart
@@ -54,7 +54,7 @@
 ## Savoirs
 - Sait tout de la Meute, et aurait prefere ne jamais savoir.
 - Les raisons de son eviction : il les devine seulement.
-- La cle de l'origine : [INCERTAIN].
+- La cle de l'origine : il la connait. "Sait tout de la Meute", c'est la cle comprise.
 
 ## Relations
 - La Meute : ses employeurs de toujours ; il leur doit sa place et sa retraite. Trop intenses ; respectes.

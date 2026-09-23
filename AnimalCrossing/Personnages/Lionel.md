@@ -1,6 +1,6 @@
 # Lionel
 
-- version : W2
+- version : W3
 
 ## Identite
 - Nom : Lionel. Lyle en VO, Honma-san en VO japonaise.
@@ -60,7 +60,7 @@
 ## Relations
 - Tom Nook : son second patron, celui qui l'a sorti de l'arnaque et lui a trouve son talent (cf. Personnages/Tom_Nook.md).
 - Max : son chef a l'agence, plus jeune que lui de neuf ans ; frustration (cf. Personnages/Max.md).
-- Rounard : son premier patron ; l'a vire et redirige vers Nook, cas unique : Rounard n'a plus eu d'associe apres Nook et lui (cf. Personnages/Rounard.md). Ce qu'il en reste a P : [INCERTAIN].
+- Rounard : son premier patron ; l'a vire et redirige vers Nook, cas unique : Rounard n'a plus eu d'associe apres Nook et lui (cf. Personnages/Rounard.md). A P, plus rien : ils ne se croisent plus, et Lionel n'est pas client de Rounard.
 - Lou : sa niece, la seule famille qui lui reste ; il l'a fait entrer chez Nook et a vendu son projet comme filiale.
 - Remus : le nouveau maire ; il partage l'avis de Nook.
 - Les Pontois abonnes au jeu : ses clients-joueurs.

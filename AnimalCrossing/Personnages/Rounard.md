@@ -1,6 +1,6 @@
 # Rounard
 
-- version : W1
+- version : W2
 
 ## Identite
 - Nom : Rounard. Redd en VO ("Crazy Redd", puis "Jolly Redd"), Tsunekichi en VO japonaise.
@@ -35,7 +35,7 @@
 
 ## Domicile
 - Pas la boutique. Il dort toujours dans la cale de son bateau, amenagee tres luxueusement (cf. Lieux/Reserves.md). Pret a lever l'ancre a tout moment.
-- Ou le bateau mouille quand la boutique est ouverte : [INCERTAIN].
+- Quand la boutique est ouverte, le bateau mouille sur la Lykaina, en basse ville, a un quai prive (cf. Lieux/Lupus.md).
 
 ## Vie privee
 - Couche avec certaines clientes en echange de ristournes. Paiement en nature, pas prix a la tete du client.
@@ -58,11 +58,11 @@
 
 ## Savoirs
 - Sait tout de la Meute et de ses affaires, et s'en accommode. Sait donc que la nomination de Remus est un placard dore [IMPLICITE].
-- La cle de l'origine : [INCERTAIN].
+- La cle de l'origine : il la connait. "Sait tout de la Meute", c'est la cle comprise.
 
 ## Relations
 - Tom Nook : ancien associe ; rapports cordiaux a P, cote Nook rejet du parcours et nostalgie du partenaire (cf. Personnages/Tom_Nook.md). Cote Rounard : un lache, qu'il envie un peu.
-- Lionel : ancien employe, vire avec une carte de Nook. Ce qu'il en reste a P : [INCERTAIN].
+- Lionel : ancien employe, vire avec une carte de Nook. A P, plus rien : ils ne se croisent plus, et Lionel n'est pas client.
 - La Meute : ses protecteurs ; Viviane, sa cliente pour la viande. Dangereux, fiables pour le moment.
 - Remus : un paria comme lui.
 - Ses clientes a ristourne.
