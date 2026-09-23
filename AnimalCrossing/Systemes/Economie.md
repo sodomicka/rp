@@ -1,6 +1,6 @@
 # Economie
 
-- version : W3
+- version : W6
 
 ## Principe
 - Economie fondee sur la hierarchie (cf. Systemes/Hierarchie_Predation.md) :
@@ -49,8 +49,10 @@
   - Ils pourrissent en une semaine.
 
 ## Finances municipales (Bergeries)
-- Aucun impot local.
-- Dotation : la mairie recoit des fonds alloues par le Conseil de sa Menagerie. Pour Pont-la-Plaine, ce sont les de la Meute (cf. Lieux/Lupus.md).
+- Lupus n'impose aucun modele de gestion des entrees et des depenses a ses Bergeries : chaque mairie choisit le sien.
+- Modele courant, celui des autres Bergeries sous la Meute : systeme ferme, impot local et redistribution en depenses publiques.
+- Modele pontois, unique, herite de Tortimer : aucun impot local ; les projets publics passent par le volontariat (cf. Tradition ci-dessous, Personnages/Tortimer.md).
+- Dotation : la mairie recoit des fonds alloues par le Conseil de sa Menagerie. Pour Pont-la-Plaine, ce sont les de la Meute (cf. Lieux/Lupus.md). Toutes les Bergeries la recoivent : dans celles qui taxent, elle s'ajoute a l'impot.
   - Montant non chiffre, a la discretion du Conseil : levier politique.
   - Elle paie les petits boulots d'interet general.
   - Elle paie le traitement du maire. Pour un maire de la Meute, ce traitement est suspendu : il dispose deja de sa part des fonds familiaux et de leurs dividendes.
@@ -75,7 +77,7 @@ Principe : des jetons en circuit ferme, qui ne valent que chez l'emetteur. Le tr
   - non convertibles.
 - Poki (Paradis sur mesure) :
   - salaire du personnel, paye a la realisation ;
-  - depensables seulement a la boutique du siege, tenue par Wardell. Il fait credit ; le solde doit etre regle avant tout nouveau credit ;
+  - depensables seulement a la boutique du siege, tenue par Mantin (Wardell en VO). Il fait credit ; le solde doit etre regle avant tout nouveau credit ;
   - un distributeur convertit Poki et clochettes a un taux qui change chaque jour, avec plafonds.
 
 ## Pegre : Rounard
@@ -96,6 +98,7 @@ En clochettes, sauf mention.
 | Navet, rachat (magasin Nook, lundi-samedi) | 20 a 660 |
 | Coupe (salon de Ginette) | 3 000 |
 | Traversee vers Tortiland | 1 000 |
+| Bus Pont-la-Plaine - Lupus, le trajet (cf. Personnages/Charly.md) | 600 |
 | Entree chez Rounard, par visite | 4 000 |
 | Abonnement au jeu de l'evaluation, par mois | 10 000 |
 | Prix du jeu de l'evaluation, par note | 5/10 : 4 000 ; 6/10 : 8 000 ; 7/10 : 12 000 ; 8/10 : 16 000 ; 9/10 : 20 000 ; 10/10 : 24 000 ; rien sous 5 |
