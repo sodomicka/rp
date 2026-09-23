@@ -1,6 +1,7 @@
 # Sommaire - AnimalCrossing
 
-- version : W17
+- version : W26
+- budget : derogation a 14 000 car. pour cette page (decision worldbuilder 2026-09-23) ; les autres pages restent au plafond de 8 000.
 
 ## WIKI
 
@@ -18,7 +19,7 @@ Description : regles du monde - especes, reproduction, hierarchie, Gyroides, eco
 - Reproduction_Hybridation.md (W2) - regle fondatrice (~1/100), deux voies d'origine, interfecondite, portees, hybrides (~1/10 000), stabilisation, consanguinite
 - Hierarchie_Predation.md (W2) - loi du plus fort, apex, elitisme, instinct des crocodiles, racisme et sexualite, predation d'Anthros
 - Gyroides.md (W4) - nature et regard du monde, commerce, origine (GyroCorp), constitution, fragments et reparation, symbolique
-- Economie.md (W3) - clochette, banque Nook, dette Nook, jeu de l'evaluation, gagne-pain populaire, finances municipales, monnaies de compagnie, Rounard ; grille des montants (seul domicile des chiffres)
+- Economie.md (W6) - clochette, banque Nook, dette Nook, jeu de l'evaluation, gagne-pain populaire, finances municipales (modele libre par Bergerie : impot ailleurs, volontariat a Pont-la-Plaine), monnaies de compagnie, Rounard ; grille des montants (seul domicile des chiffres, bus compris)
 
 ### Lore/
 Description : lore structurel et transversal.
@@ -54,9 +55,14 @@ Description : fiches noyau des entites du monde (neutres, reutilisables entre pa
 - Max.md (W1) - jumeau cadet de Marie, shih tzu, cadre Nook ; gerant de l'agence du village, deux jours au siege, appartement contre salaire reduit, naif sur Nook
 - Tom_Nook.md (W3) - patron de Nook Inc., tanuki, 46 ans, ne 30/05/586 ; physique, avarice et pragmatisme, autruche, chambre au sous-sol du siege, debuts avec Rounard et echec face a l'hotel des ventes, recommande a la Meute par Rounard, cour a Luppa ecartee par Viviane, Meli et Melo recueillis a 8 ans (627) et envoyes a Pont-la-Plaine peu avant P, Cousette, regard sur Remus (hybride comme lui), rapports cordiaux avec Rounard, savoirs, angles morts
 - Meli_et_Melo.md (W2) - fiche commune ; tanukis jumeaux, 13 ans a P (ENFANTS : hors champ sexuel), proteges de Nook, magasin de Pont-la-Plaine ; physique, echo, prix fixes et coeur tendre, cartes, sous-sol a lits superposes, orphelins du Bas, foyer clandestin, sauvette, recueil a 8 ans, succursale rachetee a la famille d'Amiral, savoirs (le passe de Nook), angles morts
-- Lionel.md (W2) - evaluateur des interieurs a Nook Immobilier, loutre, 34 ans, ne 06/06/598 ; physique, repenti, esthete, frustre par Max, faux sourire, domicile-vitrine sous l'agence, jeu de l'evaluation, passe avec Rounard et carte de visite, Lou et Paradis sur mesure (filiale), savoirs, angles morts
-- Rounard.md (W1) - pegre de Lupus, renard, 47 ans ; physique et tenue (gants de latex), vengeance d'un renard traite en dechet, canon "cousin", regle des prix, parano et portes de sortie, peigne fin, poules Anthros, dort dans la cale de son bateau, clientes a ristourne, fournisseurs (mafia Crocodile, sans-papiers et endettes), debuts avec Nook, Lionel, regards sur Nook, la Meute, Remus
-- Tortimer.md (W2) - ancien maire de Pont-la-Plaine (546-632), tortue, 111 ans, ne 31/12/520 ; physique, vrai bon maire, conservateur, jus de fruits, Tortiland, nomme par l'Alpha de 546, realisations et financement participatif, eviction du 09/06/632 et ses raisons, passation de la broche, regards sur la Meute et Remus, famille d'Amiral, Cornimer en reserve
+- Lionel.md (W3) - evaluateur des interieurs a Nook Immobilier, loutre, 34 ans, ne 06/06/598 ; physique, repenti, esthete, frustre par Max, faux sourire, domicile-vitrine sous l'agence, jeu de l'evaluation, passe avec Rounard et carte de visite, Lou et Paradis sur mesure (filiale), savoirs, angles morts
+- Rounard.md (W2) - pegre de Lupus, renard, 47 ans ; physique et tenue (gants de latex), vengeance d'un renard traite en dechet, canon "cousin", regle des prix, parano et portes de sortie, peigne fin, poules Anthros, dort dans la cale de son bateau, clientes a ristourne, fournisseurs (mafia Crocodile, sans-papiers et endettes), debuts avec Nook, Lionel, regards sur Nook, la Meute, Remus
+- Tortimer.md (W3) - ancien maire de Pont-la-Plaine (546-632), tortue, 111 ans, ne 31/12/520 ; physique, vrai bon maire, conservateur, jus de fruits, Tortiland, nomme par l'Alpha de 546, realisations et financement participatif, eviction du 09/06/632 et ses raisons, passation de la broche, regards sur la Meute et Remus, famille d'Amiral, Cornimer en reserve
+- Charly.md (W3) - chauffeur du bus Pont-la-Plaine - Lupus, chat, 32 ans, ne 01/02/600 ; physique, ecoute sans juger, porte-cles pelote de laine, thermos de cafe, deux pieces au Milieu de Lupus, marie a Mirza en 627 (sans fiche), employe municipal de Lupus sous la Meute, sur la ligne depuis 624, cinq arrets, table des cinq rotations, tarif, savoirs (rien de la Meute), regard sur Remus (respect et crainte de naissance)
+- Amiral_et_sa_famille.md (W3) - fiche commune ; kappas de Tortiland, exploitee pour la Meute : Amiral (43 ans, ne 12/07/588, navette sur reservation, chansons, concombres), Liliane (39), Mamiral (72), Lila (11, ENFANT) ; physiques, maison en paille offerte par la Meute, boutique familiale de Pont-la-Plaine depuis la fondation (546) rachetee par Nook le 01/05/632, chronologie familiale datee (grand-pere 522-592, pere 558-628, mariage 618), passage a Tortiland sur ordre direct de Viviane pour preparer la venue de Tortimer, grand-pere ami de Tortimer, savoirs (rien de la Meute), regards sur Remus, Nook, Tortimer
+- Jacqu_O.md (W4) - socle leger ; Jacqu'O de Pont-la-Plaine, nom de scene partage par une dizaine de nobles humains (un par village), identite volontairement inconnue meme du MJ (nom, visage, age, domicile) ; jeune adulte, 1 m 78 ; citrouille, cape, anonymat ; detient la cle, Halloween pour l'oublier une nuit puis masque de salaryman ; l'espece mysterieuse, histoire qu'il fait courir
+- Albin.md (W5) - socle leger ; hybride vrai Lepus x Homo, 29 ans, ne 11/03/603, seul hybride de sa generation (300+ lapins et humains), pas le premier du village ; village hors secteur Lupus non nomme (convention du couple unique : matriarche lapine x etranger humain ; hybrides fertiles jamais reproduits), parents vivants, marchand de legumes ; portrait sous le masque (yeux de face a l'ecart aberrant), costume de mascotte jamais ote pendant la fete, uniforme porte par toute la fratrie par solidarite ; a choisi Pont-la-Plaine, village le plus tolerant de la region (oeuvre de Tortimer) ; Fete des oeufs (dimanche de Paques, Eglise, toute la region), seul affecte a Pont-la-Plaine ; son village sait, personne a Lupus
+- Lou.md (W2) - socle leger ; fondatrice de Paradis sur mesure (filiale Nook Inc.), loutre, 30 ans, nee 12/09/601, niece de Lionel ; physique canon, muumuu, pragmatique et solaire, sous-sol du siege meuble haut de gamme, ponts coupes avec ses parents, equipe Gratien (Niko en VO) et Mantin (Wardell en VO), sait Nook vassal de la Meute et s'en contente
 
 > ROADMAPS NON INDEXEES EN JEU. `Roadmap/<Prota>/` n'est pas liste ici : sources de build, lues en listant directement le dossier, jamais fetchees en narration.
 >
