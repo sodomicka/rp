@@ -1,6 +1,6 @@
 # Economie
 
-- version : W2
+- version : W3
 
 ## Principe
 - Economie fondee sur la hierarchie (cf. Systemes/Hierarchie_Predation.md) :
@@ -32,6 +32,10 @@
   - tant qu'une extension n'est pas soldee, elle appartient a Nook ;
   - qui part revend a Nook les parties deja soldees, au taux de rachat du magasin Nook ;
   - la partie non soldee est perdue, meme remboursee en partie.
+
+## Jeu de l'evaluation (Nook Immobilier)
+- Jeu d'argent organise par Nook : contre un abonnement mensuel non resiliable, Lionel vient noter l'interieur de l'abonne, qui recoit un prix selon sa note (cf. Factions/Nook_Inc.md, Personnages/Lionel.md).
+- Rien sous 5/10. De 5/10 a 10/10, lineaire : 4 000 par point. Rentable a partir de 7/10 seulement ; tout le monde veut jouer.
 
 ## Gagne-pain des classes populaires
 - Vrais metiers : une partie des habitants en a un.
@@ -75,8 +79,9 @@ Principe : des jetons en circuit ferme, qui ne valent que chez l'emetteur. Le tr
   - un distributeur convertit Poki et clochettes a un taux qui change chaque jour, avec plafonds.
 
 ## Pegre : Rounard
+- Fiche : cf. Personnages/Rounard.md.
 - Frais d'entree a chaque visite de la boutique (cf. Lieux/Lupus.md).
-- Regle dans son illegalite : pas de prix a la tete du client.
+- Regle dans son illegalite : pas de prix a la tete du client. Les ristournes qu'il accorde a certaines clientes se paient en nature : un paiement, pas un prix.
   - Oeuvres d'art : selon l'oeuvre.
   - Viande d'Anthro, Anthros esclaves, animaux de compagnie : selon l'espece.
   - Drogues, armes : selon le produit.
@@ -92,6 +97,8 @@ En clochettes, sauf mention.
 | Coupe (salon de Ginette) | 3 000 |
 | Traversee vers Tortiland | 1 000 |
 | Entree chez Rounard, par visite | 4 000 |
+| Abonnement au jeu de l'evaluation, par mois | 10 000 |
+| Prix du jeu de l'evaluation, par note | 5/10 : 4 000 ; 6/10 : 8 000 ; 7/10 : 12 000 ; 8/10 : 16 000 ; 9/10 : 20 000 ; 10/10 : 24 000 ; rien sous 5 |
 | Petit boulot municipal | ~1 000 de l'heure |
 | Epargne (banque Nook) | 0,05 % par mois |
 | Rachat par le magasin Nook | 25 % du prix d'achat |
