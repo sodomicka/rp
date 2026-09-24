@@ -2,8 +2,8 @@
 
 Journal de travail. Jamais fetche en narration. Hors Sommaire. Regle de tenue (reprise d'AnimalCrossing) : une ligne vit ici tant qu'elle n'a PAS de domicile (BIBLE, fiche, roadmap) ou attend une decision. Des qu'elle en a un, elle sort.
 
-Etat : PRE-PASSE 0 (brainstorm). Thread 1 (biologie) et thread 2 (theologie, chronologie, clan, Poke Ball) clos le 2026-09-24. Rien d'autre au depot pour cet univers : ni BIBLE, ni WIKI, ni Sommaire. Les decisions ci-dessous sont ACTEES par le worldbuilder mais SANS DOMICILE : elles migreront en BIBLE a la passe 0, puis en fiches.
-Balises : [CANON] = verifie en source ; [CANON SUPPOSE] = de memoire, a verifier avant de le poser ; [INCERTAIN] = le canon ne tranche pas ; [INTERPRETATION] = lecture MJ d'un fait canon ; [PROPOSITION MJ] = non tranche.
+Etat : PRE-PASSE 0 (brainstorm). Thread 1 (biologie) et thread 2 (theologie, chronologie, clan, Poke Ball) clos le 2026-09-24. Thread 3 (clos le 2026-09-24) : allie BOUCLE (Zeraora), nommage des especes pose, biais des sources poses, traversee actee, version definitive de Zeraora posee ; chapitre 2 : PC et Centres actes. Thread 4 : reprend le chapitre 2 a "badges et Ligue". Rien d'autre au depot pour cet univers : ni BIBLE, ni WIKI, ni Sommaire. Les decisions ci-dessous sont ACTEES par le worldbuilder mais SANS DOMICILE : elles migreront en BIBLE a la passe 0, puis en fiches.
+Balises : [CANON] = verifie en source ; [CANON SUPPOSE] = de memoire, a verifier avant de le poser ; [INCERTAIN] = le canon ne tranche pas ; [INTERPRETATION] = lecture MJ d'un fait canon ; [PROPOSITION MJ] = non tranche ; [DIVERGENCE RP] = ecart assume avec le canon, decide par le worldbuilder ; [POKEDEX] = tire d'une entree du Pokedex, formulee avec certitude (trait observe par des humains) ; [POKEDEX, rumeur] = formulee en rumeur ("on dit", "selon la legende") : potentiel mensonge.
 
 ## Methode (heritee d'AnimalCrossing)
 
@@ -11,35 +11,118 @@ Balises : [CANON] = verifie en source ; [CANON SUPPOSE] = de memoire, a verifier
 - Moteur du recit = la societe que la premisse fabrique, pas la trame des jeux (jugee sans interet).
 - Recit vecu cote Pokemon. Langue de narration = langue des Pokemon.
 
-## Methode MJ (lecon du thread 2, non negociable)
+## Methode MJ (lecons des threads 2 et 3, non negociable)
 
 - Avant toute question au worldbuilder : poser le canon VERIFIE (recherche) qui la concerne. Le worldbuilder connait mal le canon.
 - Ne jamais demander ce que le canon tranche : l'integrer directement.
 - Avant de proposer une entite : verifier sa disponibilite canon (region, jeu, epoque, role dans l'histoire) contre la chronologie ci-dessous.
 - Le lore d'Unys reste intact : l'histoire de N et de la Team Plasma sert de base.
+- Ne jamais soumettre au worldbuilder un choix qui suppose de connaitre le canon : poser le canon, recommander UNE option, demander oui ou non.
+- Une divergence se signale en une ligne ; maintenue par le worldbuilder, elle se balise [DIVERGENCE RP]. Pas de plaidoyer.
+- Ne jamais conclure d'une absence (espece absente d'une region, d'un jeu, d'un Pokedex) : biais de generation (cf. Sources).
+- Un fait tire du Pokedex se balise [POKEDEX] ou [POKEDEX, rumeur] (cf. Sources).
+- Le worldbuilder ecrit ses histoires. Le MJ apporte le contexte canon, signale trous et contradictions ; aucune suggestion narrative non demandee, ni dans le fil ni dans ce journal.
 
 ## Pitch (acte)
 
 - Guerilla de Pokemon sauvages contre les technologies de capture et d'asservissement. Lutte desesperee : la violence pure est aussi perdue d'avance que la negociation directe.
-- Clan de Zoroark. Le prota et son aine sont en forme commune. Les revenants de Hisui sont d'anciens membres du clan : greffables a la tribu, plus au clan.
-- Chef : Zoroark, Tenebres pur, pere d'un Zorua (forme commune).
-- PROTA : Zoroark, cadet du chef, oncle du Zorua, bras droit du chef (pas roi). Pas legendaire, mais exceptionnel. Age : plusieurs millenaires. Type : Tenebres (le double type Glace est retire avec Kyurem ; un second type acquis reste possible, cf. En attente). Tueur d'humains froid et calculateur, anthropophage. Prie Giratina.
+- Clan de Vulpes illusoria (nom humain : Zoroark, cf. Nommage). Le prota et son aine sont en forme commune. Les revenants de Hisui (Vulpes spectralis) sont d'anciens membres du clan : greffables a la tribu, plus au clan.
+- Chef : il s'appelle Zoroark (son nom, crie au combat, a nomme l'espece chez les humains). Tenebres pur, gardien de la brume. Compagne : Zeraora. Pere de Zorua (forme commune).
+- Trio de tete : le chef ; Zeraora (autrefois la plus impulsive, aujourd'hui la plus sauvage) ; le prota.
+- PROTA : Vulpes illusoria (nom individuel non pose), cadet du chef, oncle de Zorua, beau-frere de Zeraora, bras droit du chef (pas roi), et aux cotes de Zeraora a la tete de l'unite d'elite. Pas legendaire, mais exceptionnel. Age : plusieurs millenaires. Type : Tenebres/Electrik. Il acquiert l'Electrik en combattant avec la meme brutalite que Zeraora, mais reste ruse et stratege ; il doit parfois la retenir, car la violence pure empecherait de liberer des Pokemon. Il garde l'allure d'un Zoroark (il reste Vulpes illusoria), sauf que ses poils rouges virent au jaune orange ; plus vif et plus brutal qu'avant. [CANON, contexte : les formes regionales montrent deja un type different et une apparence differente dans une meme espece, ex. Goupix d'Alola, Zoroark de Hisui.] Tueur d'humains froid et calculateur, anthropophage. Prie Giratina.
 - Moteur du prota : ne pas condamner son neveu et les petits du clan a vivre dans la crainte de l'esclavage. Il reclame du sang sans voir qu'il s'eloigne de la paix et risque l'extinction des siens. Il n'a PAS la bonne methode : la violence appelle la violence.
 - Prehistoire du clan : les Zoroark cachent leur repaire derriere des illusions [CANON SUPPOSE, Pokedex]. On devient desespere quand se cacher n'a pas suffi (cf. Histoire du clan).
 - La paix possible : passer par N ou Mewtwo, seuls capables de faire communiquer humains et Pokemon, pour que le monde sache. Dur de la vouloir quand l'autre camp mange les tiens, les asservit, et les fait se battre jusqu'a l'epuisement en exploitant leurs faiblesses elementaires.
 - Mewtwo : legende, "Che Guevara du RP". Dieu cree par l'homme, symbole de la resistance. Parle par telepathie dans la serie [CANON SUPPOSE] : admis par la porte du caractere. Origine : cf. Theologie (oeuf de Mew).
 - N : plus grand allie humain de la tribu. Le plus sain d'esprit, par hasard, grace a sa capacite a comprendre les Pokemon.
   - [CANON] Orphelin des bois, il vivait avec ses seuls amis Pokemon et a appris a les comprendre ainsi. Ghetis l'a adopte, ne lui a laisse cotoyer que des Pokemon maltraites par des humains, et l'a garde enferme dans sa chambre la plupart du temps. Sa lucidite est reelle ET fabriquee.
-  - ACTE : la tribu EST la famille Pokemon de N orphelin, dans les bois d'Unys, jusqu'a ce que Ghetis le recueille. Le Zorua, ne la meme annee que lui, est son frere de lait.
+  - ACTE : la tribu EST la famille Pokemon de N orphelin, dans les bois d'Unys, jusqu'a ce que Ghetis le recueille. Zorua, le neveu, ne la meme annee que lui, est son frere de lait.
   - [CANON] 20 ans dans Noir/Blanc.
   - [CANON, anime] Il convainc Reshiram que tous les humains ne sont pas mauvais : il a vecu l'angle mort du prota et en est sorti. Miroir humain du prota.
+
+## Zeraora, l'alliee (actee, thread 3 ; version definitive du worldbuilder)
+
+Identite
+- Zeraora : nom individuel devenu nom d'espece (cf. Nommage). Vulpes interfectrix, seule representante. Femelle [DIVERGENCE RP : canon = sexe inconnu, aucun oeuf].
+- Nee Vulpes illusoria (Zoroark) au Bois aux Chenes. Compagne du chef ; belle-soeur du prota ; mere de Zorua (An 0) [DIVERGENCE RP].
+- Trio de tete : autrefois la plus impulsive ; depuis Hisui, la plus sauvage. Elle a perdu la ruse (critere "moins fute qu'un Zoroark" satisfait).
+
+Exil
+- Elle part avec ceux qui ne veulent pas vivre caches face aux humains qui developpent les Poke Balls, et laisse son male derriere elle. Avec elle, entre autres, d'autres Vulpes illusoria. L'exil est son choix, sous la pression de la superstition (cf. Histoire du clan, canon de Hisui).
+- Contexte canon : Balls inventees en Noigrume pres d'Ecorcia [CANON SUPPOSE] ; Ecorcia borde le Bois aux Chenes [CANON].
+
+Le massacre
+- Pres de sa terre promise, une vallee des Alabaster Icelands (VO ; nord glaciaire de Hisui, ou le jeu place Zoroark et Zorua de Hisui [CANON]), elle se confronte a des humains : des mercenaires, dont les Pokemon esclaves sont des Pohmarmottes (VO Pawmot, Electrik/Combat [CANON]) ; les humains connaissent la faiblesse des Tenebres face au Combat. Massacre des humains. Ne survivent qu'elle et des Pohmarmottes liberees pendant la bataille, passees de son cote. Festin des esclavagistes.
+- Les Zoroark morts (petits compris : les Zorua de Hisui existent en canon) sont emmenes dans la vallee et y recoivent une sepulture. Ils reviennent d'entre les morts par pure rancoeur, en ames vengeresses (Vulpes spectralis) : plus de ruse, plus de discretion, juste des spectres assoiffes de vengeance et de sang. Ils gardent le talent d'illusion [CANON], mais en pur leurre, pour dechainer la brutalite ensuite. Zeraora, elle, a perdu toute forme de leurre.
+- [CANON] Zoroark et Zorua de Hisui : Normal/Spectre, plus de Tenebres. [POKEDEX] Zoroark de Hisui : fourrure blanche hirsute, incarnation de la mort ; attaque ses ennemis avec une energie amere si intense qu'elle lui lacere le corps.
+
+La mutation
+- Elle apprend a se battre comme une Pohmarmotte, et son corps change : des elements de son pelage virent au jaune et au bleu electrique, son visage prend des traits plus felins, plus predateurs. Elle developpe non pas le Combat qu'elle escomptait, mais l'Electrik. Elle perd les Tenebres, decidant que les humains doivent payer pour ses freres morts, qui voulaient juste vivre en paix.
+- Resultat : Vulpes interfectrix, Electrik pur, design canon de Zeraora. Precedent canon de mutation individuelle : Diancie, mutation spontanee de Strassie.
+- Plus vive et violente que jamais : elle et ses Zoroark vengeurs terrifient la region.
+
+Le retour
+- Ne trouvant pas le calme espere, elle decide de rentrer. La vallee reste peuplee de quelques spectres qui choisissent de la hanter et d'y chasser les humains (ceux du jeu).
+- La Team Galaxie arrive peu apres son depart, par coincidence : son depart de Hisui precede donc de peu 202 av. N (cf. Chronologie).
+- Son ancien male l'accueille avec surprise, puis deuil, mais soulagement ; ils se remettent aussitot en couple.
+- Unite d'elite : les spectres qui l'ont suivie et les Pohmarmottes, dirigee par Zeraora aux cotes du prota. En l'An 0, les Pohmarmottes de l'unite sont les descendantes des survivantes [CANON : Pohmarmotte, groupe d'oeuf Terrestre]. Revenants : tribu, plus clan (regle actee).
+- Exclusion "legendaires d'Alola" levee pour elle.
+
+Canon de reference
+- [CANON] Electrik, Fabuleux (USUL, evenement ; HOME ; DLC de Z-A). 1,5 m, 44,5 kg. Felin bipede, fourrure jaune et noire, zigzags aux cuisses et aux avant-bras, touffes bleu clair (torse, front), moustaches bleues en eclair, longue meche en queue-de-cheval entre les epaules, grandes oreilles, yeux bleus, quatre doigts griffus devant, trois orteils derriere.
+- [POKEDEX] griffes electrifiees qui dechiquettent (les etincelles touchent meme en cas d'esquive) ; fond sur l'ennemi a la vitesse de l'eclair et le demembre ; eclairs et tonnerre a sa course. Mega (DLC de Z-A) : leve un limiteur interne, stocke l'equivalent de dix eclairs.
+- [CANON] Zeraora apprend deux techniques Tenebres : Aboiement, Centrifugifle.
+- Hors canon ecarte : naissance d'un eclair frappant un volcan (manga) ; film 21.
+- [INCERTAIN] Le Zeraora du DLC de Z-A (Illumis hyperspatiale, Cadeau Mystere) serait forcement elle ; Kalos hors echelle.
+
+Ecartes pour l'alliance (thread 3)
+- Zygarde : canon Z-A (2025) = volonte, sens du devoir, role majeur a Kalos ; gardien de l'ecosysteme mondial = piece de la creation probable ; puissance qui casse le pitch.
+- Amovenus : non retenue.
+- Examines sans suite : Volcanion, Marshadow, Manaphy, Diancie, Shaymin, Meltan.
+- Fabuleux exclus : Mew, Arceus, Celebi (actes) ; Victini, Keldeo, Meloetta, Genesect (Unys) ; Darkrai, Zarude, Hoopa (Tenebres ; Hoopa au coeur du DLC de Z-A) ; Jirachi (eveille sept jours tous les mille ans) ; Deoxys (tres intelligent, Pokedex Saphir) ; Pecharunt (histoire d'EV [CANON SUPPOSE]) ; Magearna (etre artificiel).
+
+## Nommage (acte, thread 3)
+
+- Les humains ont pris des noms d'individus pour nommer des especes. Ils les tiennent des cris de combat : seuls mots de la langue Pokemon que l'oreille humaine isole.
+- Portee : actee pour les legendaires. Extension a toutes les especes : penchant du worldbuilder, a formaliser dans la fiche nommage (passe 1).
+- Zoroark = le chef. Avant N, les humains disent "Zoroark juvenile" pour les petits.
+- Zorua = le neveu. Le nom entre au Pokedex par N, malgre ses protestations. N est le seul humain a porter le fardeau d'entendre des prenoms servir de noms d'espece. [DIVERGENCE RP : Legends Arceus nomme deja les petits "Zorua" a Hisui.]
+- Zeraora = elle.
+- L'evolution ne change pas l'espece : Zorua et Zoroark sont une seule espece ; le Pokedex qui les separe se trompe.
+- Noms scientifiques poses :
+  - Vulpes illusoria : Zorua, Zoroark.
+  - Vulpes interfectrix : Zeraora, seule representante.
+  - Vulpes spectralis : revenants de Hisui.
+  - Vulpes ostentatrix : Goupix, Feunard.
+  - Vulpes furans : Goupilou, Roublenard (meme espece, l'evolution ne change pas l'espece).
+  - Virgo sanatrix : Ptiravi, Leveinard, Leuphorie [CANON : lignee exclusivement femelle].
+  - Nympha sanatrix : Melo, Melofee, Melodelfe.
+  - Corvus minax : Cornebre, Corboss.
+  - Vultur improbus : Vostourno, Vaututrice.
+  - Furetta glacialis : Farfuret, Dimoret.
+- Latin verifie : illusoria (trompeur), interfectrix (la meurtriere), ostentatrix (celle qui fait etalage), furans (qui vole, de furari), spectralis (neo-latin) ; accords au feminin de Vulpes corrects. Minax (menacant) ; improbus (sans vergogne), au masculin car Vultur dicte l'accord, meme pour une espece toute femelle ; Furetta = genre neo-latin (legitime en taxonomie), glacialis accorde. Sanatrix (celle qui soigne, feminin regulier de sanator) s'accorde a Virgo et a Nympha, tous deux feminins ; un meme epithete dans deux genres est licite.
+- [CANON] Toutes ces lignees sont du groupe d'oeuf Terrestre (les Pohmarmottes et Noctali aussi) : coherent avec la regle de fertilite actee.
+- Fiche dediee en passe 1 : usage des binomes (BIBLE, fiches, narration ; latin ou traduit), extension de la regle a toutes les especes, genre Vulpes (autres renards candidats ; Goupix d'Alola = variante regionale), Farfuret de Hisui et Farfurex (variante regionale de Furetta glacialis ?), fertilite intra-genre et groupes d'oeuf.
+
+## Traversee Johto -> Unys, An 0 (actee, thread 3)
+
+- Route : la voie du nord, par Hisui et Sinnoh, ou la mer est froide et les detroits etroits. [CANON] Unys est loin de Kanto, Johto, Hoenn et Sinnoh ; aucune route Johto-Unys en jeu ; avion et bateau de l'anime = hors canon.
+- Ponts de glace : seulement sur les detroits froids, batis par les Dimoret (Furetta glacialis) de la tribu. Le reste a pied et en vol.
+- Grands voyages et emport leger : Corboss (Corvus minax) et Vaututrices (Vultur improbus) de la tribu. Capacite d'emport = a peu pres le poids d'un humain (lecture litterale de la mecanique Vol, qui porte un dresseur [INTERPRETATION]) : Zorua (12,5 kg) et les petits volent ; les lourds (Zoroark adultes, 81 kg) passent a pied et sur la glace.
+- Les Vaututrices ont toujours ete dans la tribu : Unys est un saut dans l'inconnu pour elles aussi. Elles survolent en eclaireuses.
+- Contrainte chrono : "frere de lait" (acte) impose d'arriver en Unys pendant la petite enfance de N et de Zorua ; la traversee tient en quelques mois.
+- Declencheur et destination (actes : l'ouroboros). Par temps clair, on voit au loin une terre qu'on prend pour une ile, coupee des regions que la tribu sait habitees par les hommes : Unys, peut-etre le refuge loin de la guerre. Cet espoir decide la naissance de Zorua ; sa naissance acheve de convaincre qu'il faut partir vers une terre plus isolee et plus calme. Zorua est la cause et la consequence : le besoin de perdurer et l'espoir d'y parvenir. Coherent avec la biologie actee (un petit se decide par peur de l'extinction).
+- Point de vue : on apercoit Unys depuis l'extreme nord de la route, au-dessus du detroit froid, d'un sommet ou en vol (a 1 000 m d'altitude, l'horizon est a environ 113 km : 3,57 x racine de 1000).
+- Reste : qui porte Zorua (detail de scene).
 
 ## Epoque, region et sources (acte)
 
 - Datation : An 0 = naissance de N. Dates en "av. N" / "ap. N". Noir/Blanc = An 20. Cf. Chronologie.
 - Epoque : capture bien implantee ; epoque Sacha, Cynthia, N.
 - Perimetre : Unys (gros du recit, lore canon intact), Johto (patrie perdue du clan), Kanto ; peut-etre plus.
-- Sources : jeux = canon. Anime = uniquement le caractere et les relations de ses personnages. Films = hors canon. Livres officiels annexes : au cas par cas (retenus pour la date de la Ball moderne).
+- Biais de population : la repartition des especes dans les jeux depend de chaque generation (ajouts a chaque jeu, aucune retrocompatibilite). Qu'une espece manque a une region en canon ne prouve ni son absence ni son origine : une espece n'est pas forcement originaire de la region du jeu qui l'a introduite.
+- Biais du Pokedex : ses entrees sont de l'anecdote, du cherry picking, un cas potentiellement particulier ou une rumeur. Base et inspiration. Une entree formulee avec certitude vaut trait observe par des humains ; une rumeur est traitee comme un potentiel mensonge. Balises : [POKEDEX], [POKEDEX, rumeur]. (Coherent avec la theologie actee : le Pokedex est un texte humain.)
+- Sources : jeux = canon (Legends Z-A et son DLC compris). Anime = uniquement le caractere et les relations de ses personnages. Films = hors canon. Livres officiels annexes : au cas par cas (retenus pour la date de la Ball moderne).
 
 ## Biologie (actee, chapitre boucle)
 
@@ -94,7 +177,7 @@ Legendaires
 - Uniques par conception : les pieces de la creation, et elles seules. Liste : Dialga, Palkia, Giratina, Groudon, Kyogre, Rayquaza, Regigigas et ses golems, Mew, Crehelf, Crefollet, Crefadet. Plus les legendaires conceptuels que le critere de tri designera.
 - Critere de tri : unique par conception si le canon lui attache une fonction sans laquelle le monde ne tourne pas (temps, espace, antimatiere, terre, mer, ciel, savoir, emotion, volonte...). Sinon : mutation. Application region par region, quand la region entre en jeu.
 - Regle des architectes : un architecte faconne ce qui existe sans la vie. Toute fonction qui suppose du vivant (fertilite, ecosysteme) vient apres Mew (ex. Zygarde).
-- La plupart sont des mutations : individus exceptionnels issus d'une espece connue ou d'un ancetre commun (proto-Pokemon de Mew). Electhor = oiseau mute par son milieu, par eveil ou par puissance, pas une creation ex nihilo.
+- La plupart sont des mutations : individus exceptionnels issus d'une espece connue ou d'un ancetre commun (proto-Pokemon de Mew). Electhor = oiseau mute par son milieu, par eveil ou par puissance, pas une creation ex nihilo. Zeraora = mutation d'une Zoroark (cf. Zeraora).
 - Rares exceptions : reincarnation facon Yveltal, ou facon Fruit du Demon version oeuf.
 - Gradient : ordinaire -> exceptionnel (precedents canon : Alpha, Dominants, Titans) -> legendaire. Le vieillissement ralentit avec la puissance et s'arrete au seuil du legendaire. Tous ne sont pas sans age ; tous restent tuables.
 - Une espece commune peut s'eteindre pour de bon, en emportant les legendaires qui auraient pu en sortir. Un legendaire peut mourir sans jamais etre remplace.
@@ -141,12 +224,15 @@ Cultes et mythes
 - Creation : hors echelle.
 - Millenaires av. N : naissance du prota (apres l'ere des proto-Pokemon et des prehistoriques, qu'il n'a pas connus). Le clan vit au Bois aux Chenes.
 - Environ 3000 ans avant X/Y : guerre de Kalos, arme ultime d'AZ [CANON SUPPOSE]. X/Y non place sur l'echelle.
-- Avant 200 av. N : invention des Balls en Noigrume a Johto, pres d'Ecorcia [CANON SUPPOSE, source sans reference].
-- 200 av. N : Hisui (Legends Arceus). [CANON : Ball d'invention recente, fabriquee a la main ; ni Centre ni PC.] Premiere vague (cf. Histoire du clan).
+- Avant 200 av. N : invention des Balls en Noigrume a Johto, pres d'Ecorcia [CANON SUPPOSE, source sans reference]. Ecorcia borde le Bois aux Chenes [CANON].
+- Apres l'invention des Balls, avant 202 av. N : exil mene par Zeraora ; massacre de la vallee ; revenants ; mutation de Zeraora ; elle quitte Hisui peu avant l'arrivee de la Team Galaxie, et rentre a Johto (duree du trajet non fixee) ; unite d'elite. Dates exactes [INCERTAIN].
+- 202 av. N : la Team Galaxie arrive a Hisui deux ans avant le jeu (200 + 2) [CANON], peu apres le depart de Zeraora : colons de nombreuses regions, mefiants envers les Pokemon, porteurs des Poke Balls, technologie d'invention recente [CANON].
+- 200 av. N : Hisui (Legends Arceus). [CANON : Ball d'invention recente, fabriquee a la main ; ni Centre ni PC.] Les revenants de la premiere vague y sont deja (cf. Histoire du clan).
 - 55 av. N : Ball moderne. [CANON SUPPOSE, livres officiels annexes : mise au point en 1925 par le professeur Westwood, universite de Celadopole, apres avoir vu un Colossinge se rouler en boule et retrecir.] Conversion : Rouge/Bleu suppose vers 1996 [INTERPRETATION]. Production de masse juste apres (Sylphe a Kanto, Devon a Hoenn, usine de Kalos). Le monde tombe, le Bois tient.
 - 20 av. N : deuxieme vague (le Scope perce la brume). La tribu devient nomade.
-- An 0 : naissance de N et du Zorua (meme annee). Exode de la tribu de Johto vers Unys.
+- An 0 : naissance de N et de Zorua, fils du chef et de Zeraora [DIVERGENCE RP] (meme annee). L'espoir d'Unys decide sa naissance ; sa naissance decide l'exode (cf. Traversee). Exode de la tribu de Johto vers Unys.
 - Enfance de N : la tribu est sa famille dans les bois d'Unys, jusqu'a son adoption par Ghetis (age non fixe [INCERTAIN]).
+- Entre l'adoption de N et l'An 20 : le nom "Zorua" entre au Pokedex par N, malgre ses protestations (cf. Nommage).
 - Vers An 15-17 : Rouge/Bleu. [CANON SUPPOSE : Agatha dit que Chen se battait deja "il y a des decennies".]
 - Vers An 18-20 : Or/Argent (HGSS, 3 ans apres Rouge/Bleu [CANON]) et Platine (contemporain [CANON SUPPOSE]). Ecart avec Noir/Blanc non chiffre [INCERTAIN].
 - An 20 : Noir/Blanc (N a 20 ans [CANON]).
@@ -156,10 +242,10 @@ Cultes et mythes
 
 - Vocabulaire : CLAN = la lignee Zoroark (le sang). TRIBU = le domaine Tenebres au sens large ou vivait le clan, qui s'elargit a la deuxieme vague en refuge multi-especes.
 - Premier temps : le Bois aux Chenes (Johto) est un domaine tenu par des Pokemon Tenebres au sens large, volants compris. Les Zoroark, gregaires, y vivent dans des repaires noyes de brume illusoire. Ils chassent humains et Pokemon faibles par la ruse, juste de quoi nourrir la tribu. Le camouflage cache la tribu pendant que les forts chassent. Le chef est l'aine ; le prota est son bras droit.
-- Premiere vague (Hisui, 200 av. N) : la superstition chasse. Une partie du clan s'exile vers le nord et meurt a Hisui ; ses ames reviennent en Spectres. [CANON : les Zorua de Hisui ont ete chasses d'autres terres par des humains que leurs illusions derangeaient ; morts du climat et des conflits, ils sont revenus portes par leur haine des humains et des Pokemon. Le Zoroark de Hisui, feroce avec tous, reste tendre avec ceux qu'il tient pour sa famille.]
+- Premiere vague (Hisui, avant 202 av. N) : la superstition chasse. Refusant de se cacher, Zeraora mene une partie du clan (et d'autres especes de la tribu) vers le nord ; tous meurent a Hisui, sauf elle ; leurs ames reviennent en Spectres (Vulpes spectralis). Zeraora rentre a Johto peu avant 202 av. N ; unite d'elite (spectres qui l'ont suivie + Pohmarmottes), dirigee par elle aux cotes du prota. Detail : cf. Zeraora. [CANON : les Zorua de Hisui ont ete chasses d'autres terres par des humains que leurs illusions derangeaient ; morts du climat et des conflits, ils sont revenus portes par leur haine des humains et des Pokemon. Le Zoroark de Hisui, feroce avec tous, reste tendre avec ceux qu'il tient pour sa famille.]
 - Ere de la Ball de masse (55 av. N ->) : le camouflage protege desormais les faibles autant que les forts.
 - Deuxieme vague (20 av. N) : l'ancetre des Scopes perce la brume. [CANON SUPPOSE : le Scope Sylphe demasque les Spectres de Lavanville, le Scope Devon revele les Kecleon invisibles.] Les humains traquent. Les plus faibles meurent ; les aines se dechainent pour couvrir les fuites ; les repaires changent, periodiquement et methodiquement. Les anciens apex devenus proies servent de refuge aux derniers etres libres. Ceux qui commencent a craindre la mort decident d'avoir une descendance, pour combler les rangs et assurer une posterite.
-- An 0 : le Zorua nait a Johto. Il traverse la mer vers Unys dans la criniere de son oncle ou de son pere. La tribu devient la famille de N orphelin.
+- An 0 : Zorua nait a Johto, de Zeraora et du chef. Il traverse la mer vers Unys (porteur : detail de scene). La tribu devient la famille de N orphelin.
 
 ## La machine humaine (chapitre 2, entame)
 
@@ -173,31 +259,47 @@ La Poke Ball (actee)
 - La Ball est destructible ; la briser ne blesse ou ne tue le captif que s'il est dedans. Deux cles pour la guerilla : la porte (briser la Ball pendant que le captif est dehors) et la serrure (forcer le relachement). Piege : fracasser une Ball fermee tue celui qu'elle contient.
 - [CANON SUPPOSE] Capture verrouillee : on ne capture pas le Pokemon d'un autre dresseur. Seule la Snag Machine d'Orre (VO) sait le voler.
 
+Le PC (acte, thread 3)
+- [CANON] Le systeme de stockage stocke et transmet les Pokemon sous forme de donnees. Premier systeme : Leo (VO Bill) ; tous les autres en derivent : Leo (Kanto, Johto), Lanette (VO, Hoenn), Bebe (VO, Sinnoh), Amanita (VO, Unys), Cassius (VO, Kalos) ; a Alola, Molayne (VO) l'entretient. A Hisui, pas de PC : des paturages.
+- Date : technologie recente, de la meme epoque que l'industrialisation des Balls (ere de la Ball de masse, 55 av. N ->). [CANON] Leo : age inconnu ; parents et grand-pere vivants, une soeur cadette (Rouge/Bleu, HGSS) ; originaire de Doublonville, que la Route 34 relie au Bois aux Chenes.
+- Le PC existe deja en l'An 0, avant le depart de la tribu. Verif chrono : invente au moins 15 ans avant Rouge/Bleu (An 15 - An 0 = 15) ; si Leo l'a invente adulte, il a au moins la trentaine a Rouge/Bleu. Compatible avec le canon : age inconnu, une soeur adulte, un neveu [CANON].
+- Meme technologie que la Ball (stockage, miniaturisation, semi-hibernation) : un Pokemon stocke vit ce que vit un Pokemon en Ball ; detruire le systeme avec des Pokemon dedans les tue (meme regle que la Ball fermee qu'on fracasse).
+- Le depot au PC soigne en plus, comme en clinique [CANON : le depot soigne depuis la 2e generation].
+- Limite de six : elle n'existe pas dans le monde. Six chacun, c'est la regle des combats de dresseurs ; hors combat, seule compte la place que prennent les Balls.
+
+Les Centres Pokemon (actes, thread 3)
+- [CANON] Un poste de soin tenu par une employee derriere un comptoir rend aux Pokemon de l'equipe tous leurs PV et PP et guerit leurs alterations, gratuitement. Jusqu'a la 9e generation, chaque Centre contient un PC ; a Unys, Kalos, Alola, Galar et Paldea, la boutique est integree au Centre. En 1re generation, deux Centres sont poses sur des routes (Routes 4 et 10) ; plus tard, de simples maisons de repos soignent. L'employee des jeux n'est pas l'Infirmiere Joelle de l'anime ; dans Jaune (puis Let's Go), un Leveinard l'accompagne dans chaque Centre.
+- Date : les Centres apparaissent en meme temps que les Balls industrielles (ere de la Ball de masse, 55 av. N ->). Avant, des infirmeries classiques. Aucun Centre a Hisui [CANON].
+- Gratuite : financee par les gouvernements. Les Pokemon sont trop importants dans la vie des humains pour risquer de les freiner par des soins payants.
+- Personnel Pokemon : Virgo sanatrix (Ptiravi, Leveinard, Leuphorie) et Nympha sanatrix (Melo, Melofee, Melodelfe), a tous les stades, meme juveniles.
+
 ## Retire (ne pas ressusciter)
 
-- Kyurem dans la tribu : retire pour garder intact le canon d'Unys [CANON SUPPOSE : dans Noir 2/Blanc 2, Ghetis s'empare de Kyurem au gouffre]. Tombent avec lui : la laisse tenue par les freres Zoroark, le double type Glace/Tenebres du prota, la proposition "ascension ratee", Kyurem comme exception au critere de personne, le pont de glace de la traversee, la munition "Kyurem tenu en laisse".
+- Kyurem dans la tribu : retire pour garder intact le canon d'Unys [CANON SUPPOSE : dans Noir 2/Blanc 2, Ghetis s'empare de Kyurem au gouffre]. Tombent avec lui : la laisse tenue par les freres Zoroark, le double type Glace/Tenebres du prota, la proposition "ascension ratee", Kyurem comme exception au critere de personne, le pont de glace bati par Kyurem (la traversee garde des ponts de glace, batis par les Dimoret : cf. Traversee), la munition "Kyurem tenu en laisse".
 - "Pas de revenants" : remplace (cf. Pitch).
 - Ball de masse en 100 av. N : remplace par 55 av. N.
 - Legendaires d'Unys comme allies de la tribu (Terrakium, Fulguris, Genesect...) : contrainte "lore d'Unys intact".
+- Allie legendaire exterieur au clan (Zygarde, Amovenus...) : remplace par Zeraora (cf. Zeraora, ecartes).
+- Second type du prota "aucun ou a definir" : remplace par Tenebres/Electrik.
+- Piste Amovenus pour la traversee : remplacee par les volants et les Dimoret de la tribu.
 
 ## En attente de decision worldbuilder
 
-- PRIORITE 1 - Allie legendaire de la tribu (remplace Kyurem).
-  - Criteres : pas d'Unys ; recrutable a Johto avant l'An 0, puis capable de suivre la tribu ; aucune presence canon incompatible jusqu'a Noir 2/Blanc 2, HGSS compris ; ni Tenebres ; moins fute qu'un Zoroark ; ni architecte ni piece de la creation.
-  - Ecartes [CANON SUPPOSE] : Raikou, Entei, Suicune (dorment dans la Tour Cendree jusqu'a HGSS) ; Artikodin, Electhor, Sulfura (postes fixes a Kanto dans Rouge/Bleu et HGSS) ; Lugia, Ho-Oh, Celebi (histoire de HGSS, trop malins) ; Mewtwo, Latias, Latios, Cresselia (trop malins) ; Heatran (son volcan dans Platine) ; legendaires de Galar, Alola, Paldea (pris par l'histoire de leurs jeux) ; architectes et pieces de la creation (acte) ; Tenebres.
-  - Candidat A (reco MJ) : Zygarde (Dragon/Sol). [CANON : apparait quand l'ecosysteme d'une region est mis a mal ; surveille ceux qui le detruisent ; sa forme a 50 % elimine sans pitie tous ceux qui s'opposent a lui ; fait de Coeurs (cerveau) et de Cellules ; forme a 10 % canine ; vole sous toutes ses formes ; le canon compte plusieurs Zygarde distincts (Kalos ; deux en Alola dans Ultra-Soleil/Ultra-Lune).] Un Zygarde forme a Johto a partir de cellules locales quand les humains ravagent le Bois aux Chenes (20 av. N) ne touche aucun jeu. Intelligence : le canon ne dit rien.
-  - Candidat B : Amovenus (Fee/Vol). [CANON : quand elle traverse la mer jusqu'a une terre, l'hiver prend fin et son amour y fait eclore la vie ; sous son autre forme, elle fond des nuages sur ceux qui meprisent la vie et les chatie sans pitie ; parcourt les oceans en quete d'une region ou s'etablir ; veneree par un peuple de Hisui ; seule apparition dans les jeux : Hisui.] Presente a Hisui en meme temps que les exiles du clan. Intelligence : le canon ne dit rien. Friction mineure : ses trois compagnons des Forces de la Nature sont des legendaires d'Unys.
-- Traversee Johto -> Unys en An 0 : moyen a redefinir (volants de la tribu ? l'allie ?). Le pont de glace est tombe avec Kyurem.
-- Second type du prota : aucun, ou un type acquis aupres de l'allie.
-- Oncle ou pere : qui porte le Zorua pendant la traversee (detail de scene).
+- Repasse [POKEDEX] sur les faits Pokedex anciens du journal (Feunard 1000 ans, Mew et le code genetique, Zorua et l'enfant silencieux, trio des lacs, Zorua de Hisui) : verifier la formulation, certitude ou rumeur.
+- Zorua peut tenir des traits de sa mere (hybridation de traits, regle actee) : lesquels, s'il y en a.
+- Fiche nommage et taxonomie (passe 1) : cf. Nommage.
+- Chapitre 3 (Unys) :
+  - [CANON, biais de population : lecture d'ambiance, pas une preuve] Dans Noir/Blanc, Zorua et Zoroark n'existent qu'en evenement, declenches par des Pokemon de Johto : Celebi pour Zorua a Volucite ; Raikou, Entei ou Suicune chromatiques pour Zoroark (Lostlorn Forest, VO). Dans N2/B2, aucun sauvage non plus : seul le Zorua offert par Rood (VO), dresseur d'origine N. Lecture : un clan cache arrive en l'An 0 = aucune rencontre sauvage [INTERPRETATION].
+  - Le Zorua de N est-il le neveu ? Ca percute : le neveu dans une Ball, puis offert a un dresseur. A trancher au chapitre 3.
+  - N a aussi un Zoroark dans Noir/Blanc [CANON SUPPOSE].
 - Parents de N : trou ouvert. Une tribu anthropophage qui eleve un orphelin humain pose la question de ce qui l'a rendu orphelin.
 - Age de N quand Ghetis le recueille : non fixe par le canon.
 - Mewtwo (dette de build) : raison de la ponte exceptionnelle de Mew ; labo et lieu de decouverte (Guyane dans le canon). Auteur du labo : laisse ouvert (Rocket = films, hors canon).
-- Dates des Centres, du PC et de la Ligue : entre 200 av. N (absents a Hisui) et Rouge/Bleu.
-- Especes de la tribu au premier temps (domaine Tenebres) : chapitre 4.
+- Date de la Ligue : entre 200 av. N (absente a Hisui) et Rouge/Bleu.
+- Especes de la tribu au premier temps (domaine Tenebres) : chapitre 4. Deja posees : Corvus minax, Vultur improbus, Furetta glacialis ; unite d'elite : Vulpes spectralis et Pohmarmottes.
 - Spectres qui ont ete humains (Tutafeh et son masque [CANON SUPPOSE]) : a articuler avec l'option C (esprit commun).
 - Legendaires reincarnes (rares exceptions) : lesquels, et ou atterrit l'oeuf (au hasard dans le monde, pres du lieu de la mort, dans une lignee). Piste canon : les betes ressuscitees par Ho-Oh [CANON SUPPOSE].
-- Noms : prota, chef, neveu. Aucun pose.
+- Noms : chef = Zoroark, neveu = Zorua, belle-soeur = Zeraora ; prota : non pose.
 - Nom du dossier au depot : "Pokemon/" de facto (le journal y vit).
 - Noctali Shiny : evoquee comme exemple de romance, pas actee comme personnage.
 
@@ -212,7 +314,7 @@ La Poke Ball (actee)
 - Le "niveau" = regle graduee humaine, a traiter dans la machine, pas dans la biologie. La tribu parle de force, de maturite, d'eveil ("niveau 90+" = exceptionnel).
 - Le Pokedex fige des types fixes : simplification humaine d'un vivant mouvant.
 - CT = technologie d'asservissement : ecrire un ordre dans un corps.
-- Lieutenants ou factions candidats pour la coalition : Scalpereur (armee, force brute, pas stratege [CANON]), Dimoret (commando, signes graves [CANON SUPPOSE]), Corboss (parrain impitoyable [CANON SUPPOSE]), Branette (voix des abandonnes [CANON SUPPOSE]).
+- Lieutenants ou factions candidats pour la coalition : Scalpereur (armee, force brute, pas stratege [CANON]), Dimoret (desormais dans la tribu : ponts de glace ; commando, meutes coordonnees, signes graves dans la glace et la roche [POKEDEX]), Corboss (desormais dans la tribu : grands voyages ; rassemble ses Cornebre d'un cri [POKEDEX] ; ne pardonnerait jamais une erreur a ses sbires [POKEDEX, rumeur]), Branette (voix des abandonnes [CANON SUPPOSE]).
 
 ## Munitions (fils candidats, non plantes)
 
@@ -249,8 +351,9 @@ La Poke Ball (actee)
 
 1. Biologie : BOUCLEE (thread 1).
 1bis. Theologie, origines, chronologie, histoire du clan : largement posees (thread 2).
-2. La machine humaine : EN COURS. Fait : Poke Ball. Reste : PC, Centres, badges et Ligue, argent des combats, Pension, CT, Super Bonbon, Pokedex, niveau, echanges, relacher ; dater Centres, PC et Ligue.
-   -> PROCHAIN THREAD : d'abord l'allie legendaire (En attente, priorite 1), puis la traversee, puis la suite du chapitre 2.
+1ter. Allie : BOUCLE (thread 3) : Zeraora. Nommage des especes pose (fiche dediee en passe 1). Traversee : BOUCLEE (thread 3).
+2. La machine humaine : EN COURS. Fait : Poke Ball, PC, Centres. Reste : badges et Ligue, argent des combats, Pension, CT, Super Bonbon, Pokedex, niveau, echanges, relacher ; dater la Ligue.
+   -> PROCHAIN THREAD (4) : la suite du chapitre 2, a partir de "badges et Ligue".
 3. Unys : Ligue, Plasma, N et Ghetis, Rocket, coalition, terrain de la guerilla. Lore canon d'Unys intact.
 4. Le clan et le prota.
 Puis passe 0 proprement dite : BIBLE SB0-SB8 (fetch SPEC_BIBLE_LORE_WIKI, version courante relevee dans Config/).
