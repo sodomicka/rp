@@ -2,7 +2,7 @@
 
 Journal de travail. Jamais fetche en narration. Hors Sommaire. Regle de tenue (reprise d'AnimalCrossing) : une ligne vit ici tant qu'elle n'a PAS de domicile (BIBLE, fiche, roadmap) ou attend une decision. Des qu'elle en a un, elle sort.
 
-Etat : PASSE 0 CLOSE (thread 5, 2026-09-25). Livres : BIBLE B1 ; WIKI : Resume W1, Sommaire W1, Lore/ (Chronologie W3, Creation_et_Theologie W3, Histoire_du_Clan W2), Systemes/ (6 pages), Machine/ (5 pages), Factions/ (La_Tribu W2, Team_Plasma W2), Lieux/ (Johto_et_Hisui W1, Unys W2) ; Personnages/ vide. Versions exactes : cf. Sommaire. Tout le lore acte des threads 1 a 5 a migre en BIBLE et WIKI ; ne restent ici que la methode, les attentes et les fils non plantes. Prochaine etape : PASSE 1 (fiches noyau), nouveau thread, BIBLE B1 en fichier de projet.
+Etat : PASSE 1 EN COURS (thread 6, 2026-09-26). Lots 1 et 2 livres en un seul ZIP : Personnages/ (Zoltraak, Zoroark, Nyx, Zeraora, Zorua, N), Lore/Histoire_du_Clan W3, Systemes/ (Personne_Langue_Alimentation W3, Reproduction W2), Sommaire W2. Versions exactes : cf. Sommaire. Prochaine etape : lot 3 en thread 7 (Mewtwo, Zoroark du Bois, taxonomie et systemes), puis BIBLE B2.
 Balises : cf. BIBLE SB1.
 
 ## Methode
@@ -29,28 +29,41 @@ Balises : cf. BIBLE SB1.
 
 ## Fiches en attente (passe 1)
 
+- Images (thread 6) : plus aucune image personnalisee a venir. Mewtwo, Zoroark du Bois, Zorua au stade Zoroark (passe 2) : physique canon ; pour Zorua, plus la meche bleue actee.
 - Placement : Personnages/ neutre. Le prota est une entite du monde (decision thread 5).
-- Zoltraak (le prota) : noyau en BIBLE SB5. OC : viser le niveau fiche fandom ; manquent la description physique complete (images du worldbuilder), manies, gouts. Page protagoniste : plafond 20 000 car.
-- Zoroark (le chef) : apparence (images du worldbuilder) ; noyau en BIBLE SB5.
-- Zeraora : fiche a tirer de Histoire_du_Clan et de BIBLE SB5 (canon de reference).
-- Zorua : noyau (le recit de son enfance releve de la passe 2).
-- Nyx : Shiny ou non, lien exact avec Zoltraak, histoire, physique.
-- N : fiche canon (Team_Plasma, BIBLE SB5).
-- Mewtwo (dette de build) : raison de la ponte exceptionnelle de Mew ; labo et lieu de decouverte (Guyane en canon). Auteur du labo : laisse ouvert (Rocket = films, hors canon).
+- Mewtwo (dette de build) : raison de la ponte exceptionnelle de Mew ; labo et lieu de decouverte (Guyane en canon) ; date de creation. Mewtwo x Team Rocket : films, exception voulue par le worldbuilder (thread 6), [DIVERGENCE RP] a baliser ; tranche du meme coup l'auteur du labo.
 - Zoroark du Bois des Illusions : identite (passe 1 ou 2).
 - Especes et taxonomie, points ouverts : usage des binomes (BIBLE, fiches, narration ; latin ou traduit) ; extension du nommage par les cris a toutes les especes (penchant du worldbuilder, non acte) ; genre Vulpes (autres renards candidats) ; Farfuret de Hisui et Farfurex (variante regionale de Furetta glacialis ?) ; fertilite intra-genre.
 
+## Point de depart (thread 6)
+
+- Depart du RP : debut de R1 (An 1-2 : Zorua et N vers 18 mois). Le noyau des fiches s'arrete la.
+- R0 : l'exode (An 0 -> arrivee a Unys), intro narree, pas jouee.
+- An 0 : repere du clan (naissance de Zorua, meme annee que N). Domicile : Histoire_du_Clan W3. Notation av. N / ap. N inchangee.
+- A ranger selon le depart (noyau s'il precede R1, trajectoire sinon) : priere de Zoltraak a Mewtwo (tardive, apres les evenements Mewtwo x Team Rocket) ; priere du chef a Mewtwo (date de creation de Mewtwo non fixee) ; Nyx (meme foi que Zoltraak).
+
+## Matiere dictee R0-R2 (thread 6) -> Roadmap/Zoltraak/ en passe 2
+
+- R0 : migration ; Unys decoit, deja peuplee d'humains aussi avances qu'ailleurs. Zorua murit plus vite qu'un humain.
+- R1 (An 1-2, N vers 18 mois) : Zeraora et Zoltraak convainquent le chef et Nyx d'initier Zorua a la chasse aux humains, pour qu'il n'ait pas besoin d'un trauma comme eux. Chasse violente, Balls redoutables : Zoltraak sort Zorua de sa criniere pour qu'il se cache. Zorua suit des pleurs et rassure un enfant seul sous apparence humaine. Zoltraak le retrouve a l'odeur ; Zorua : "ce n'est qu'un enfant". Zeraora convaincue par Zoltraak, lui-meme convaincu par Zorua : voir comment l'humain grandit, le nourrir sans blesser les leurs (fruits, legumes, baies, lait, cereales). Eleve au camp, membre du clan. Protege des quatre ; Nyx a reculons, puis comme son propre petit. Mouchoir a monogramme ; parents probablement tues par les Vulpes ; on le nomme N.
+- R2 (An 7, N vers 7 ans ; son nom civil Natural, donne par Ghetis, est deja domicilie dans la fiche N) : N et Zorua captures/secourus par Ghetis pendant une fugue de curiosite. Battues et incursions en ville sous traits humains : jamais retrouves. N, plus grand et plus libre, recontactera le clan ; Ghetis lui offre des Pokemon, dont un Darumacho.
+- Ages valides (thread 6) : decouverte vers 18 mois (le clan le nomme d'apres le monogramme : il ne sait pas dire son nom) ; disparition vers 7 ans (memoire durable du clan ; enfance au chateau).
+- A caler en passe 2 : canon (Colombe) = N craint des gens et mis a l'ecart en foret, contre parents tues par les Vulpes ; Darumacho en foret (canon) contre offert par Ghetis [DIVERGENCE RP] ; BIBLE : Ghetis ne laisse N cotoyer que des Pokemon maltraites -> place de Zorua chez Ghetis.
+
 ## Reperes pour la passe 2 (ne pas poser avant)
 
-- N : comment il quitte la tribu, son adoption et son age, ses parents.
 - Zorua : comment il devient le Zoroark de N (An 20) ; garde de la Route Victoire (An 22).
-- Traversee : qui porte Zorua.
+- Ou etait Zoltraak pendant la premiere vague.
+- Origine des cicatrices du chef.
+- Formation de Zorua a la chasse : confiee a Zoltraak sur ordre du chef ; Zeraora ne proteste pas.
 - [INTERPRETATION] Biais de population, lecture d'ambiance : dans Noir/Blanc, Zorua et Zoroark n'existent qu'en evenement (Celebi a Volucite ; betes de Johto chromatiques au Bois des Illusions). Clan cache arrive a l'An 0 = aucune rencontre sauvage.
 - Zoroark du Bois des Illusions : reaction violente aux betes legendaires de Johto chromatiques ; un randonneur suppose un conflit passe.
 
 ## En attente de decision worldbuilder
 
 - Langue de narration (parole des Pokemon, des humains, comment elle est rendue) : a poser au SETUP. Rien d'acte.
+- Mega-evolution : statut dans le lore non pose (Zeraora, DLC de Z-A).
+- Regime de ponte de Vulpes illusoria : non pose (rien ne l'exige pour l'instant).
 - Spectres qui ont ete humains (Tutafeh et son masque [CANON SUPPOSE]) : a articuler avec l'option C.
 - Legendaires reincarnes (rares exceptions) : lesquels ; ou atterrit l'oeuf (au hasard, pres du lieu de la mort, dans une lignee). Piste canon : les betes ressuscitees par Ho-Oh (cf. Chronologie, vers 142 av. N).
 
@@ -98,9 +111,15 @@ Balises : cf. BIBLE SB1.
 ## Dettes de build
 
 - Systeme (hors univers) : SPEC_BIBLE_LORE_WIKI v8.5 se designe encore "v8_3" (ligne Emplacement et S12).
+- Lot 3 : Especes_Taxonomie W2 : Evolutio intacta (Evoli), Evolutio nocturna (Noctali) ; regle : les branches d'Evoli sont des mutations, donc des especes ; ce qui eclot d'un oeuf de Noctali. Puis compresser la fiche Nyx + renvoi.
+- Lot 3 : Evolution_et_Majorite W3 : entree Bonheur (Evoli -> Noctali) requalifiee en mutation ; pas de croissance continue (ne au premier stade, grandir = murir, le corps change par paliers) ; les Pokemon murissent plus vite que les humains, plancher de majorite inchange (>= 18 ans).
+- Team_Plasma W3 : VF des soeurs adoptives de N (Anthea = Venus, Concordia = Colombe).
+- B2 : SB2 Lexique, An 0 -> renvoi Histoire_du_Clan (repere du clan) ; compression SB5 des entites fichees.
 
 ## Retire (ne pas ressusciter)
 
+- Zorua en vol pendant la traversee : remplace par la criniere de son pere et de son oncle (thread 6).
+- R1 a 5 ans (premiere idee du worldbuilder) : remplace par 18 mois (thread 6).
 - Enfance longue des Zoroark (proposition MJ) : tombe, Zorua est Zoroark a l'An 20 (thread 4).
 - Zorua offert par Rood : n'existe pas dans ce RP (thread 4).
 - Kyurem dans la tribu : retire pour garder intact le canon d'Unys. Tombent avec lui : la laisse tenue par les freres Zoroark, le double type Glace/Tenebres du prota, la proposition "ascension ratee", Kyurem comme exception au critere de personne, le pont de glace bati par Kyurem, la munition "Kyurem tenu en laisse".
@@ -125,7 +144,7 @@ Balises : cf. BIBLE SB1.
 
 1. Pre-passe 0 (threads 1 a 4) : CLOSE.
 2. Passe 0 (thread 5) : CLOSE. WIKI et BIBLE B1 livres.
-   -> SUITE : passe 1, fiches noyau (Personnages/), nouveau thread ; BIBLE B1 en fichier de projet ; images du worldbuilder pour les OC.
-3. Passe 2 : roadmaps, en boucle serree avec les fiches.
+3. Passe 1 (thread 6) : EN COURS. Lot 1 livre (Zoltraak, Zoroark, Nyx, Zeraora). Lot 2 livre (Zorua, N, Personne_Langue_Alimentation, Reproduction). Lot 3 : Mewtwo, Zoroark du Bois, Especes_Taxonomie, Evolution_et_Majorite, Team_Plasma. Puis BIBLE B2.
+4. Passe 2 : roadmaps, en boucle serree avec les fiches ; R0 a R2 deja dictees (cf. Matiere dictee).
 
 FIN_WIKI__IMPLICATIONS
