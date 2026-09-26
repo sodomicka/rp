@@ -1,6 +1,6 @@
 # Histoire du clan
 
-- version : W2
+- version : W3
 
 ## Vocabulaire
 
@@ -57,10 +57,11 @@
 - Par temps clair, on voit au loin une terre qu'on prend pour une ile, coupee des regions habitees par les hommes : Unys, peut-etre le refuge loin de la guerre.
 - Cet espoir decide la naissance de Zorua. Sa naissance acheve de convaincre qu'il faut partir vers une terre plus isolee et plus calme.
 - Zorua est la cause et la consequence : le besoin de perdurer, et l'espoir d'y parvenir.
+- Pour le clan, cette naissance devient le repere d'une vie nouvelle : l'An 0. Elle tombe la meme annee que celle de N ; la maniere humaine de dater, le clan s'en moque.
 - Zorua : fils du chef et de Zeraora [DIVERGENCE RP], ne a Johto. Il porte une meche bleue heritee de sa mere.
 - Traversee de quelques mois, par la route du nord (cf. Johto_et_Hisui). Ponts de glace des Dimoret sur les detroits froids ; le reste a pied et en vol.
 - Emport : Corboss et Vaututrices portent a peu pres le poids d'un humain [INTERPRETATION : mecanique Vol lue au pied de la lettre] ; l'emport croit avec la taille du porteur.
-- Zorua (12,5 kg) et les petits volent. Les Zoroark adultes (81 kg) passent a pied et sur la glace. La Trioxhydre (160 kg, six ailes) peut porter un Zoroark adulte [LOGIQUE MJ].
+- Les petits volent. Zorua (12,5 kg) fait toute la traversee dans la criniere de son pere et de son oncle : au chaud sur un pont de glace instable plutot qu'en hauteur sur un volant. Les Zoroark adultes (81 kg) passent a pied et sur la glace. La Trioxhydre (160 kg, six ailes) peut porter un Zoroark adulte [LOGIQUE MJ].
 - Les Vaututrices, dans la tribu depuis toujours, survolent en eclaireuses : Unys est un saut dans l'inconnu pour elles aussi.
 - Contrainte : "frere de lait" impose d'arriver a Unys pendant la petite enfance de N et de Zorua.
 
