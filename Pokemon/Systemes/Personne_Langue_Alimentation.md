@@ -1,6 +1,6 @@
 # Personne, langue, alimentation
 
-- version : W2
+- version : W3
 
 ## Personne
 
@@ -15,6 +15,9 @@
 - Les Pokemon comprennent les ordres et la parole des humains. Precedent : Feunard comprend la parole humaine [POKEDEX, Saphir].
 - L'inverse est rarissime. N en est un cas.
 - Certains Pokemon parlent aux humains. Precedents : le Miaouss de la Team Rocket (anime) ; Crehelf, Crefollet et Crefadet par telepathie (Legendes Arceus).
+- Parler humain demande deux choses : une capacite physiologique, propre a chaque espece, puis un apprentissage. Sans l'appareil vocal, pas de parole ; avec, il faut encore apprendre (le Miaouss de la Team Rocket a appris ; les autres Miaouss ne parlent pas). Decision du worldbuilder (thread 6).
+- Les Vulpes illusoria n'ont pas l'appareil. L'illusion change l'apparence, pas la gorge : leurs deguisements humains sont muets (Zorua en enfant silencieux, cf. La_Tribu ; la Zoroark du Bois des Illusions en femme silencieuse, cf. Unys).
+- La telepathie est une voie a part, qui contourne la gorge (trio des lacs ; Mewtwo, cf. BIBLE SB5).
 - Les cris de combat sont les seuls mots de la langue Pokemon que l'oreille humaine isole (cf. Especes_Taxonomie).
 
 ## Statut des Pokemon chez les humains
