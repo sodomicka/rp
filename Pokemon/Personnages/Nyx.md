@@ -1,6 +1,6 @@
 # Nyx
 
-- version : W2
+- version : W3
 
 ## Identite
 
@@ -60,6 +60,7 @@ Base : la Noctali du canon (corps noir, grands yeux rouges, anneaux lumineux jau
 - Zoroark (le chef) : beau-frere. Celui a qui elle ressemble le plus. Ils gardent ensemble la tribu pendant la chasse.
 - Zeraora : belle-soeur. Part chasser avec Zoltraak.
 - Zorua : neveu par alliance, qu'elle traite comme son propre petit. Il se toilette en l'imitant.
+- N : "le petit d'homme", tant qu'elle le tient a distance. La plus dure du clan a convaincre : quelques jours pour l'accepter, quelques annees pour l'apprecier. A ses cinq ans, elle l'appelle fils sans hesiter.
 - Les jeunes de la tribu : elle les eduque.
 
 ## Histoire
@@ -76,8 +77,9 @@ Base : la Noctali du canon (corps noir, grands yeux rouges, anneaux lumineux jau
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-Vide : alimentee a chaud a partir de la passe 2.
+| An 0-1 | Arrivee au Bois des Illusions : elle donne au clan l'idee de la dame de la brume, un bois hante par une seule femme. Le chef et Zoltraak l'incarnent | - |
+| An 1-2 | Accepte N apres quelques jours ; l'appelle "le petit d'homme" | - |
+| An 5 (0 + 5) | Appelle N fils sans hesiter | l'un des quatre parents de N |
 
 ---
 

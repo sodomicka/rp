@@ -1,6 +1,6 @@
 # Legendaires
 
-- version : W3
+- version : W4
 
 ## Uniques par conception
 
@@ -26,7 +26,7 @@
 
 ## Rejeton de Mew
 
-- Troisieme cas, ni piece de la creation ni mutation : Mewtwo, proto-Pokemon pondu par Mew en 15 av. N (decision du worldbuilder, thread 7 ; cf. Mewtwo).
+- Troisieme cas, ni piece de la creation ni mutation : Mewtwo, proto-Pokemon pondu par Mew en 15 av. N (cf. Mewtwo).
 - Legendaire par sa proximite genetique avec Mew et par le renforcement subi au labo [LOGIQUE MJ].
 
 ## Exceptions

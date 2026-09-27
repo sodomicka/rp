@@ -1,10 +1,10 @@
 # Les Revenants
 
-- version : W1
+- version : W2
 
 ## Nature
 
-- Bande de Vulpes spectralis de la vallee des revenants : Terres Immaculees, dans le Hisui d'autrefois puis le nord de Sinnoh (cf. Johto_et_Hisui). Nom : les Revenants (decision du worldbuilder, thread 8).
+- Bande de Vulpes spectralis de la vallee des revenants : Terres Immaculees, dans le Hisui d'autrefois puis le nord de Sinnoh (cf. Johto_et_Hisui). Nom : les Revenants.
 - A ne pas confondre avec les revenants de l'unite d'elite, partis de Hisui avec Zeraora (cf. La_Tribu).
 - Rupture franche avec le clan : ils n'en font plus partie et ne s'en reclament pas.
 - Un condense de vengeance pure. Ils ne vivent que pour la guerre.

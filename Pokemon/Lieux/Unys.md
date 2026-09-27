@@ -1,6 +1,6 @@
 # Unys
 
-- version : W4
+- version : W5
 
 ## La region
 
@@ -15,12 +15,15 @@
 - Canon : petit bois au centre d'Unys, au nord de la Route 16, pres de Meanville (VO Lostlorn Forest ; JP "la foret ou l'on s'egare").
 - Canon : autrefois connu comme un lieu ou l'on se perdait sans raison.
 - Canon (Noir/Blanc) : une "Zoroark femelle" y vit, deguisee en femme silencieuse, seule dans une caravane ; un randonneur dit qu'elle prefere une vie seule et tranquille a courir le monde. Elle trompe humains et Pokemon par ses illusions pour proteger son foyer.
-- Dans le monde : c'est le chef, deguise en femme ; "femelle" est une lecture humaine [DIVERGENCE RP : canon = femelle] (decision du worldbuilder, thread 7 ; cf. Zoroark).
+- Dans le monde : c'est le chef, deguise en femme ; "femelle" est une lecture humaine [DIVERGENCE RP : canon = femelle] (cf. Zoroark).
 - Canon : le cul-de-sac visible est une illusion ; quand la "Zoroark" est vaincue, l'illusion tombe et revele une plaine ouverte et ventee.
-- Dans le monde : cette illusion est la brume du chef (thread 7 ; cf. Zoroark).
+- Dans le monde : cette illusion est la brume du chef (cf. Zoroark).
 - Canon : elle reagit violemment a une bete legendaire de Johto chromatique (Raikou, Entei ou Suicune) ; un randonneur suppose un conflit passe.
 - Canon : dans Noir 2/Blanc 2, un randonneur qui est en realite un Zoroark parle d'elle.
 - Dans le monde : refuge principal de la tribu a Unys, le bois et la plaine qu'il cache, au coeur des forets centrales. La tribu (environ 150 membres) y forme un vrai village [LOGIQUE MJ : seul lieu ou le canon installe un Zoroark sauvage chez lui, cache par illusion].
+- Dans le monde, des l'arrivee (An 0-1) : sur l'idee de Nyx, le chef et Zoltraak epouvantent les habitues du bois sous les traits d'une meme femme. Pour les humains d'Unys, le bois est hante par la dame de la brume.
+- Legende humaine : des villageois superstitieux se sont forge la croyance qu'offrir un bebe a la dame de la brume apporte la prosperite, des terres plus fertiles.
+- Regle du Bois (intrus epouvantes, puis tues et cuisines s'ils insistent) : cf. La_Tribu.
 
 ## Ruines du Palais de N : poste avance
 

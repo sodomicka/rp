@@ -1,12 +1,12 @@
 # Especes et taxonomie
 
-- version : W4
+- version : W5
 
 ## Nommage des especes
 
 - Les humains ont pris des noms d'individus pour nommer des especes.
-- Ils les tiennent des cris. Le nom qu'un Pokemon crie, au combat ou dans tout autre contexte, est le seul contenu intelligible pour un humain qui n'a pas entendu la langue Pokemon dans son enfance (decision du worldbuilder, thread 7 ; cf. Personne_Langue_Alimentation).
-- Portee (thread 7) : toutes les especes. Chaque nom d'espece a d'abord ete le nom d'un individu.
+- Ils les tiennent des cris. Le nom qu'un Pokemon crie, au combat ou dans tout autre contexte, est le seul contenu intelligible pour un humain qui n'a pas entendu la langue Pokemon dans son enfance (cf. Personne_Langue_Alimentation).
+- Portee : toutes les especes. Chaque nom d'espece a d'abord ete le nom d'un individu.
 - Zoroark : nom du chef, crie au combat. Avant N, les humains disent "Zoroark juvenile" pour les petits.
 - Zorua : nom du neveu. Il entre au Pokedex par N, malgre ses protestations [DIVERGENCE RP : Legendes Arceus nomme deja les petits "Zorua" a Hisui].
 - N est le seul humain a porter le fardeau d'entendre des prenoms servir de noms d'espece.
@@ -24,14 +24,14 @@
 ## Mutations et heredite
 
 - Une mutation fait une espece distincte (cf. Legendaires). Exemples : Vulpes interfectrix (Zeraora), nee Vulpes illusoria ; les branches d'Evoli. Mewtwo n'en est pas une : c'est un proto-Pokemon, rejeton de Mew (cf. Mewtwo).
-- Les branches d'Evoli sont des mutations d'Evolutio intacta (Evoli), donc des especes distinctes, comme Zeraora l'est de Zoroark (decision du worldbuilder, thread 6). Declencheurs et appui Pokedex : cf. Evolution_et_Majorite.
+- Les branches d'Evoli sont des mutations d'Evolutio intacta (Evoli), donc des especes distinctes, comme Zeraora l'est de Zoroark. Declencheurs et appui Pokedex : cf. Evolution_et_Majorite.
 - La mutation est individuelle, jamais transmise. Un parent mute compte pour son espece d'origine dans le 50/50 (cf. Reproduction).
   - Canon : l'oeuf d'un Noctali donne un Evoli. Cote Nyx, un petit est donc Evolutio intacta.
   - Meme regle pour Vulpes interfectrix [LOGIQUE MJ] : cote Zeraora, un petit est Vulpes illusoria. Coherent avec Zorua. L'espece reste a une seule representante.
   - Hors regle : Mewtwo, qui n'est pas une mutation. Sa descendance n'est pas posee (Metamorph seul partenaire, cf. Reproduction).
 - Les variantes regionales, elles, se transmettent (cf. Types_et_Spectre).
-- Revenir d'entre les morts n'est pas une mutation : Vulpes spectralis se transmet (decision du worldbuilder, thread 8 ; cf. Reproduction).
-- Vocabulaire : "revenant" designe tout Vulpes spectralis, mort revenu par rancoeur ou ne d'un oeuf ; ceux de la vallee se nomment tous ainsi (decision du worldbuilder, thread 8 ; cf. Revenants). Au besoin, on precise : mort revenu, ou ne a la vallee.
+- Revenir d'entre les morts n'est pas une mutation : Vulpes spectralis se transmet (cf. Reproduction).
+- Vocabulaire : "revenant" designe tout Vulpes spectralis, mort revenu par rancoeur ou ne d'un oeuf ; ceux de la vallee se nomment tous ainsi (cf. Revenants). Au besoin, on precise : mort revenu, ou ne a la vallee.
 
 ## Binomes poses
 

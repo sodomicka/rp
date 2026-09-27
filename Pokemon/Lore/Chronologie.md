@@ -1,12 +1,12 @@
 # Chronologie
 
-- version : W5
+- version : W6
 
 ## Statut
 
-- VERROUILLEE depuis le thread 4 : aucun recalcul d'un build a l'autre.
+- VERROUILLEE : aucun recalcul d'un build a l'autre.
 - Seule une source canon nouvelle peut la toucher : signalement au worldbuilder, rien ne bouge sans son feu vert.
-- Ajouts (thread 7), feu vert du worldbuilder : sequence de Mewtwo, 16-10 av. N. Aucune date existante recalculee.
+- Ajout avec feu vert du worldbuilder : sequence de Mewtwo, 16-10 av. N. Aucune date existante recalculee.
 - Datation en "av. N" / "ap. N" ; An 0 = naissance de N. Annee reelle = 1991 + An (ex. 66 av. N = 1991 - 66 = 1925).
 
 ## Regle de datation
@@ -34,7 +34,7 @@
 | 45 av. N (1946) | Opal (VO) prend l'Arene de Ballonlea a 18 ans | 70 ans de charge a Epee/Bouclier : An 25 - 70 = 45 av. N |
 | 25 av. N (1966) | Mustard (VO) bat Opal et devient Maitre de Galar ; regne 18 ans | "Il y a environ 50 ans" a Epee/Bouclier : An 25 - 50 = 25 av. N ; fin de regne : 25 - 18 = 7 av. N |
 | 20 av. N (1971) | Deuxieme vague : l'ancetre des Scopes perce la brume | Traque ; la tribu devient nomade ; detail : cf. Histoire_du_Clan |
-| 16-15 av. N (1975-1976) | Journal du manoir de Cramois'Ile : Mew decouvert en Guyane (5 juillet 16 av. N) ; captif, pousse a pondre, il pond seul ; naissance de Mewtwo, proto-Pokemon (6 fevrier 15 av. N) ; incontrolable le 1er septembre, il rase le labo et Mew s'evade ; Giovanni le recupere dans l'annee | Commanditaire et maitre : Giovanni, 20 ans, chef de la Team Rocket, armure [DIVERGENCE RP : film 1]. Annee de naissance : decision du worldbuilder (thread 7) ; jour et mois : journal ; annee de la decouverte : juillet precede fevrier [LOGIQUE MJ]. Majeur le 6 fevrier An 3 (-15 + 18 = 3). Detail : cf. Mewtwo |
+| 16-15 av. N (1975-1976) | Journal du manoir de Cramois'Ile : Mew decouvert en Guyane (5 juillet 16 av. N) ; captif, pousse a pondre, il pond seul ; naissance de Mewtwo, proto-Pokemon (6 fevrier 15 av. N) ; incontrolable le 1er septembre, il rase le labo et Mew s'evade ; Giovanni le recupere dans l'annee | Commanditaire et maitre : Giovanni, 20 ans, chef de la Team Rocket, armure [DIVERGENCE RP : film 1]. Jour et mois : journal, sans annee ; annee de la decouverte : juillet precede fevrier [LOGIQUE MJ]. Majeur le 6 fevrier An 3 (-15 + 18 = 3). Detail : cf. Mewtwo |
 | 10 av. N (1981) | Apres cinq ans de servitude (-15 + 5 = -10), Mewtwo detruit la base de la Team Rocket ; la meme annee, Mew le trouve en plein massacre d'une Pension, combat nul, pacte | Mewtwo ne tue plus que les monstres ; Giovanni, obsede, le traque ; Mewtwo frappe les bases de la Rocket. Detail : cf. Mewtwo |
 | An 0 (1991) | Naissance de N ; naissance de Zorua, fils du chef et de Zeraora [DIVERGENCE RP] ; exode de la tribu de Johto vers Unys | L'espoir d'Unys decide la naissance de Zorua ; sa naissance decide l'exode |
 | Enfance de N | La tribu est sa famille dans les bois d'Unys, jusqu'a son adoption par Ghetis | Age a l'adoption : non fixe |

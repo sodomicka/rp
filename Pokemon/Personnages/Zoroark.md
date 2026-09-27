@@ -1,6 +1,6 @@
 # Zoroark
 
-- version : W2
+- version : W3
 
 ## Identite
 
@@ -32,9 +32,10 @@ Base : le Zoroark du canon, palette conservee.
 
 - Tenebres : illusion de l'espece ; spectre au Pokedex, cf. La_Tribu.
 - Gardien de la brume : l'illusion qui cache les repaires du clan (au Pokedex : le decor illusoire qui protege le repaire). Percee en 20 av. N par l'ancetre des Scopes (cf. Histoire_du_Clan).
-- A Unys, sa brume cache la plaine du Bois des Illusions et le village de la tribu (decision du worldbuilder, thread 7 ; cf. Unys).
-- Deguisement face aux humains : une femme. Il a vu que les humains se soucient davantage d'une femme en detresse que d'un homme (thread 7). La femme reste muette : l'illusion ne donne pas la parole (cf. Personne_Langue_Alimentation).
+- A Unys, sa brume cache la plaine du Bois des Illusions et le village de la tribu (cf. Unys).
+- Deguisement face aux humains : une femme. Il a vu que les humains se soucient davantage d'une femme en detresse que d'un homme. La femme reste muette : l'illusion ne donne pas la parole (cf. Personne_Langue_Alimentation).
 - C'est la "Zoroark femelle" que le canon installe au Bois des Illusions : "femelle" est la lecture humaine de son deguisement [DIVERGENCE RP : canon = femelle] (cf. Unys).
+- Pour les humains d'Unys, cette femme est la dame de la brume. Zoltraak l'incarne aussi (cf. Unys).
 - Exceptionnel (cf. Identite).
 - Maniere de combattre : evite le risque et la violence quand il le peut. Perd rarement le controle ; quand il le perd, il massacre (cf. Histoire).
 
@@ -63,6 +64,7 @@ Base : le Zoroark du canon, palette conservee.
 - Zeraora : compagne, mere de Zorua. Pendant la premiere vague, elle part au nord et le laisse derriere elle, par choix. A son retour : surprise, puis deuil, mais soulagement ; ils se remettent aussitot en couple (cf. Histoire_du_Clan).
 - Zoltraak : frere cadet, bras droit, qui le suit sans discuter son autorite. Lui laisse toujours le dernier mot, apres avoir ronchonne dans son coin. Il l'a sauve des braconniers (cf. Zoltraak).
 - Zorua : fils, ne a l'An 0 ; sa naissance decide l'exode (cf. Histoire_du_Clan). Il essaie de lui enseigner la strategie et la reflexion.
+- N : l'un de ses quatre parents, le plus facile a convaincre : il l'accepte d'emblee.
 - Nyx : compagne de son frere. Celle qui lui ressemble le plus par la reflexion, deuxieme plus sage de la tribu apres lui. Elle garde la tribu a ses cotes pendant que Zeraora et Zoltraak chassent, et eduque les jeunes (cf. Nyx).
 - La tribu : environ 150 membres a l'An 0 (cf. La_Tribu).
 
@@ -79,8 +81,8 @@ Base : le Zoroark du canon, palette conservee.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-Vide : alimentee a chaud a partir de la passe 2.
+| An 0-1 | Arrivee : sa brume couvre la plaine du Bois des Illusions. Sur l'idee de Nyx, il epouvante les habitues du bois avec Zoltraak, tous deux sous les traits de la meme femme. Nait la dame de la brume | - |
+| An 1-2 | Convaincu d'initier Zorua a la chasse aux humains, il confie sa formation a Zoltraak. Accepte N d'emblee | l'un des quatre parents de N |
 
 ---
 

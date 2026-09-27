@@ -1,6 +1,6 @@
 # La tribu
 
-- version : W2
+- version : W3
 
 ## Nature
 
@@ -14,7 +14,7 @@
 ## Le clan en tete
 
 - Clan : la famille directe du chef, par le sang et l'alliance.
-- A l'An 0 : Zoroark (le chef), Zeraora (sa compagne), Zorua (leur fils, ne cette annee-la), Zoltraak (le prota, cadet du chef), Nyx (Noctali femelle de Zoltraak).
+- A l'An 0 : Zoroark (le chef), Zeraora (sa compagne), Zorua (leur fils, ne cette annee-la), Zoltraak (le prota, cadet du chef), Nyx (Noctali femelle de Zoltraak). Puis N (An 1-2), enfant humain recueilli par le clan (cf. N).
 - Trio de tete depuis la fondation du clan : Zoroark, Zeraora, Zoltraak.
 - Zoroark commande parce qu'il est le plus experimente et le plus sage. Qu'il soit l'aine est un simple fait, pas une regle de succession.
 - Zoltraak est son bras droit, pas roi. Il suit son frere depuis toujours sans discuter son autorite.
@@ -33,6 +33,7 @@
 - Les revenants (Vulpes spectralis) qui ont suivi Zeraora depuis Hisui.
 - Des Pohmarmottes : a l'An 0, les descendantes des survivantes de la vallee.
 - Quelques Zarude (Simia improba) et un Angoliath (Folletus petulans).
+- Chasse : en principe Zoltraak et Zeraora seuls ; l'unite d'elite quand la menace est grande.
 
 ## Vulpes illusoria au Pokedex
 
@@ -63,6 +64,10 @@
 ## Regles internes
 
 - Predation : les predateurs de la tribu mangent des Pokemon exterieurs a la tribu (cf. Personne_Langue_Alimentation).
+- Regle du Bois des Illusions (des l'arrivee, An 0-1) : tout ce qui s'approche trop du bois est une menace. Un groupe qui ne semble pas mal intentionne est d'abord intimide et epouvante (la dame de la brume, cf. Unys). S'il insiste, il est traite en groupe hostile : chasse jusqu'a la mort, puis ramene et cuisine pour un festin au village. Sans remords.
+- Victimes typiques aux abords du bois : des gamins en quete de sensations, et surtout des dresseurs venus chercher des ennuis a ce qui hante le bois.
+- Au-dela du bois : chasses plus lointaines vers les lieux d'oppression, fermes et refuges.
+- Cuisine : cf. Personne_Langue_Alimentation (Cultures).
 - Contexte canon : a Unys, Pieris (Conseil 4) et Ghetis alignent un Scalproie captif.
 
 ---

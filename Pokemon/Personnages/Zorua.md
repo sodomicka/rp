@@ -1,6 +1,6 @@
 # Zorua
 
-- version : W1
+- version : W2
 
 ## Identite
 
@@ -11,7 +11,7 @@
 - Ne a l'An 0, a Johto. Sa naissance decide l'exode et devient le repere du clan (cf. Histoire_du_Clan).
 - Mineur : enfant jusqu'a son evolution (cf. Evolution_et_Majorite). Murit plus vite qu'un humain.
 - Taille, poids : ceux du canon, 0,7 m et 12,5 kg. Ne au premier stade, a cette taille : pas de croissance continue, le corps change a l'evolution.
-- Portee de la fiche : ses traits jusqu'a sa disparition avec N (R2, vers An 7), par decision du worldbuilder (thread 6). Les faits dates actes plus tard (le Zoroark de N a l'An 20, le gardien de la Route Victoire a l'An 22, son nom au Pokedex) vivent en BIBLE SB5 et dans Team_Plasma jusqu'a la passe 2.
+- Portee de la fiche : ses traits jusqu'a sa disparition avec N (R2, vers An 7). Les faits dates actes plus tard (le Zoroark de N a l'An 20, le gardien de la Route Victoire a l'An 22, son nom au Pokedex) vivent en BIBLE SB5 et dans Team_Plasma jusqu'a ce que leurs roadmaps soient ecrites.
 
 ## Apparence (stade Zorua)
 
@@ -31,6 +31,7 @@
 - Illusion (Tenebres). Spectre de l'espece au Pokedex : prendre la forme des autres, souvent celle d'un enfant silencieux ; entrer en ville sous forme humaine (cf. La_Tribu).
 - Ne parle pas humain : les Vulpes illusoria n'en ont pas l'appareil vocal, et l'illusion change l'apparence, pas la gorge. Ses deguisements humains sont muets (cf. Personne_Langue_Alimentation). Il comprend les humains, comme tous les Pokemon.
 - Combat : assomme, met KO, ne tue pas. Apprend vite a se defendre, avec justesse, sans la brutalite de sa mere et de son oncle.
+- Protecteur : pacifiste, mais membre du clan, l'elite de la tribu, et l'un de ses protecteurs. Combat humains et Pokemon esclaves pour proteger les siens, jamais pour tuer ni pour se nourrir.
 
 ## Psychologie
 
@@ -53,9 +54,9 @@
 
 - Zoroark (le chef) : pere. Lui enseigne la strategie et la reflexion ; lui raconte le temps ou les humains n'etaient que des proies comme les autres (cf. Zoroark).
 - Zeraora : mere, qui l'allaite. Il tient d'elle sa meche bleue.
-- Zoltraak : oncle, qui l'a porte dans sa criniere pendant l'exode.
+- Zoltraak : oncle, qui l'a porte dans sa criniere pendant l'exode, puis l'a forme a la chasse sur ordre du chef.
 - Nyx : tante par alliance, qui le traite comme son propre petit. Il se toilette en l'imitant.
-- N : frere de lait, ne la meme annee, eleve avec lui au clan depuis R1 (An 1-2) (cf. N).
+- N : frere de lait, ne la meme annee, eleve avec lui au clan depuis An 1-2. C'est Zorua qui l'a trouve et qui a convaincu Zoltraak de l'epargner (cf. N).
 
 ## Histoire
 
@@ -66,8 +67,8 @@
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-Vide : alimentee a chaud a partir de la passe 2.
+| An 1-2 (vers 18 mois) | Premiere chasse, formee par Zoltraak : poste dans un buisson, il voit sa mere et son oncle massacrer des villageois venus offrir un enfant a la dame de la brume. Il suit les pleurs, console l'enfant sous traits humains, puis dit a Zoltraak : "ce n'est qu'un enfant" | frere de N ; ne mange plus d'humain |
+| An 1-2 -> An 7 | D'autres chasses suivent : il combat pour proteger le clan, jamais pour tuer ni pour se nourrir | protecteur du clan |
 
 ---
 

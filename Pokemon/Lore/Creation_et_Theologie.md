@@ -1,6 +1,6 @@
 # Creation et theologie
 
-- version : W5
+- version : W6
 
 ## Statut de ce recit
 
@@ -20,7 +20,7 @@
 
 - La faille du mont Couronne est l'oeuvre de Giratina et de Percupio (VO Volo) : forcer le createur a sortir.
 - Arceus arrache un humain a l'epoque moderne (annee non fixee) et l'envoie a Hisui avec un mandat : rencontrer tous les Pokemon.
-- Lecture actee (thread 5) : Arceus a dit rencontrer ; les humains ont compris capturer. Le pionnier accomplit le mandat en achevant le premier Pokedex, c'est-a-dire en capturant tout.
+- Lecture actee : Arceus a dit rencontrer ; les humains ont compris capturer. Le pionnier accomplit le mandat en achevant le premier Pokedex, c'est-a-dire en capturant tout.
 - L'humain envoye fait basculer le rapport de force, librement. Pour vaincre le Lucifer de la domination Pokemon, Arceus a envoye un pionnier de la domination humaine.
 - Fin : vaincu, Arceus felicite le pionnier et lui remet une part de lui-meme, qui souhaite l'accompagner, plus la Plaque Legende. Le pionnier finit ses jours a Hisui.
 - Devenir du fragment d'Arceus apres 200 av. N : mystere, hors perimetre.
@@ -46,8 +46,8 @@
 
 ## Mew
 
-- Ancetre commun de tous les Pokemon ; sans sexe. Seul etre capable de parthenogenese : il pond seul (decision du worldbuilder, thread 7).
-- A l'aube de la vie, il pond des proto-Pokemon : des oeufs dont la genetique lui ressemble, presque tous Psy. Puis il s'arrete, son oeuvre accomplie. Leurs descendances, d'une grande variabilite genetique, divergent en especes sur des millenaires, et le milieu leur donne des types de toutes sortes (thread 7 ; cf. Types_et_Spectre).
+- Ancetre commun de tous les Pokemon ; sans sexe. Seul etre capable de parthenogenese : il pond seul.
+- A l'aube de la vie, il pond des proto-Pokemon : des oeufs dont la genetique lui ressemble, presque tous Psy. Puis il s'arrete, son oeuvre accomplie. Leurs descendances, d'une grande variabilite genetique, divergent en especes sur des millenaires, et le milieu leur donne des types de toutes sortes (cf. Types_et_Spectre).
 - Image : Adam et Eve en un seul etre, ovipare et parthenogenetique. L'option C tient : Mew est faconne a part du premier couple humain.
 - Il ne pond plus depuis la prehistoire, mais le peut toujours. Exception : captif au labo de Cramois'Ile (16-15 av. N), il y est pousse par le chercheur ; la captivite est une perte, et la perte fait pondre (regle de la perte, cf. Reproduction) [LOGIQUE MJ]. De cet oeuf nait Mewtwo, proto-Pokemon, le seul Pokemon actuel aussi proche de lui (cf. Mewtwo).
 - Sources humaines : son ADN contiendrait le code genetique de tous les Pokemon [POKEDEX, rumeur] ; beaucoup de scientifiques le croient ancetre des Pokemon [POKEDEX, rumeur] ; Pokemon d'Amerique du Sud cru eteint, tres intelligent [POKEDEX].

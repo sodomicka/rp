@@ -2,7 +2,7 @@
 
 Journal de travail. Jamais fetche en narration. Hors Sommaire. Regle de tenue (reprise d'AnimalCrossing) : une ligne vit ici tant qu'elle n'a PAS de domicile (BIBLE, fiche, roadmap) ou attend une decision. Des qu'elle en a un, elle sort.
 
-Etat : PASSE 2 EN COURS (thread 8 clos, 2026-09-27). Methode bac a sable. Livres au thread 8 : garde-cap W1, Roadmap_0_L_Exode W1 (boucle close), Factions/Revenants W1 (nouvelle), Johto_et_Hisui W2, Unys W4, Reproduction W5, Especes_Taxonomie W4, Resume W3, Sommaire W5, BIBLE B3. Prochaine etape : R1, en thread neuf.
+Etat : PASSE 2 EN COURS (thread 9 clos, 2026-09-27). Methode bac a sable. Livres au thread 9 : Roadmap_1_Le_Petit_d_Homme W1 (boucle close), Roadmap_0_L_Exode W2 (coupee a l'arrivee au Bois), garde-cap W2 ; fiches du clan N W3, Zorua W2, Nyx W3, Zoltraak W2, Zoroark W3, Zeraora W2 ; La_Tribu W3, Unys W5, Personne_Langue_Alimentation W5, Mewtwo W3 ; purge de la datation par thread : Reproduction W6, Especes_Taxonomie W5, Evolution_et_Majorite W5, Creation_et_Theologie W6, Chronologie W6, Legendaires W4, Revenants W2 ; Resume W4, Sommaire W6, BIBLE B4. Prochaine etape : R2, en thread neuf.
 Balises : cf. BIBLE SB1.
 
 ## Methode
@@ -26,24 +26,26 @@ Balises : cf. BIBLE SB1.
 - Noms : forme VF des jeux, VO entre parentheses quand elle aide (ex. Percupio (VO Volo), Groupe Galaxie a Hisui, Team Galaxie d'Helio a Sinnoh).
 - Le worldbuilder ecrit ses histoires. Le MJ apporte le contexte canon, signale trous et contradictions ; aucune suggestion narrative non demandee.
 - Respect des passes : les evenements du recit (qui fait quoi, quand, comment un personnage arrive quelque part) relevent de la passe 2. Ne JAMAIS les demander avant.
-- Versions : +1 par page et par thread, quel que soit le nombre de retouches. Le worldbuilder uploade en fin de thread ; les livraisons intermediaires ne comptent pas (thread 8).
+- Versions : +1 par page et par thread, quel que soit le nombre de retouches. Le worldbuilder uploade en fin de thread ; les livraisons intermediaires ne comptent pas.
+- Aucune datation par thread, ni dans les pages ni dans ce journal (hors ligne d'Etat) : les balises (BIBLE SB1) et le versioning Wn suffisent. Sans balise, un fait est acte.
+- Biais humain : ne jamais traiter les Pokemon en betes par defaut. Ils ont des cultures, des coutumes, des preferences, et certains cuisinent (cf. Personne_Langue_Alimentation, Cultures). Douter de leur culture, c'est deja le biais.
 
 ## Fiches en attente
 
 - Aucune fiche noyau en attente : passe 1 complete cote fiches.
 - Images : aucune image personnalisee. Zorua au stade Zoroark (passe 2) : physique canon, plus la meche bleue actee.
-- Placement : Personnages/ neutre. Le prota est une entite du monde (decision thread 5).
+- Placement : Personnages/ neutre. Le prota est une entite du monde.
 
-## Matiere dictee R1-R2 (thread 6) -> Roadmap/Zoltraak/
+## Matiere dictee R2 -> Roadmap/Zoltraak/
 
-Chaque ligne sort d'ici quand sa roadmap est ecrite. Point de depart et statut de R0 : cf. garde-cap.
+Chaque ligne sort d'ici quand sa roadmap est ecrite. R1 est ecrite : sa matiere en est sortie. Statut et bornes de R2 : cf. garde-cap.
 
-- R1 (An 1-2, N vers 18 mois) : Zeraora et Zoltraak convainquent le chef et Nyx d'initier Zorua a la chasse aux humains, pour qu'il n'ait pas besoin d'un trauma comme eux. Chasse violente, Balls redoutables : Zoltraak sort Zorua de sa criniere pour qu'il se cache. Zorua suit des pleurs et rassure un enfant seul sous apparence humaine. Zoltraak le retrouve a l'odeur ; Zorua : "ce n'est qu'un enfant". Zeraora convaincue par Zoltraak, lui-meme convaincu par Zorua : voir comment l'humain grandit, le nourrir sans blesser les leurs (fruits, legumes, baies, lait, cereales). Eleve au camp, membre du clan. Protege des quatre ; Nyx a reculons, puis comme son propre petit. Mouchoir a monogramme ; parents probablement tues par les Vulpes ; on le nomme N.
 - R2 (An 7, N vers 7 ans ; son nom civil Natural, donne par Ghetis, est deja domicilie dans la fiche N) : N et Zorua captures/secourus par Ghetis pendant une fugue de curiosite. Battues et incursions en ville sous traits humains : jamais retrouves. Ghetis offre a N des Pokemon, dont un Darumacho.
-- Ages valides (thread 6) : decouverte vers 18 mois (le clan le nomme d'apres le monogramme : il ne sait pas dire son nom) ; disparition vers 7 ans (memoire durable du clan ; enfance au chateau).
-- Canon verifie (thread 8, Bulbapedia) : Colombe, Noir 2/Blanc 2 (refuge de Port Yoneuve) : N etait orphelin ; on-dit : des sa naissance, il troublait les gens par un comportement qui laissait croire qu'il parlait aux Pokemon ; Ghetis l'a recueilli alors qu'il vivait dans les bois avec Darumacho et Zorua ; Venus, Colombe et N sont tous des orphelins recueillis par Ghetis. Colombe, Noir/Blanc (Palais de N) : N a ete separe des gens tout petit, eleve avec des Pokemon maltraites que Ghetis choisissait.
-- Tranche (thread 8) : compatible avec des parents tues par la chasse a ses 18 mois [LOGIQUE MJ] ; R2 conforme (Zorua recueilli avec N). Place de Zorua chez Ghetis : reglee par le mensonge (cf. garde-cap R2) ; se croyant orphelin du fait des humains, Zorua est exactement le Pokemon blesse par les humains que Ghetis place aupres de N, et le mensonge nourrit l'ideal canon de N [LOGIQUE MJ]. Reste a caler au build de R2 : Darumacho offert par Ghetis [DIVERGENCE RP] contre present dans les bois en canon. Domicile a terme : fiche N (relivraison) et roadmaps R1, R2.
-- R2, barriere de langue [LOGIQUE MJ, thread 8] : a 7 ans, N ne parle pas humain (fiche N) et ne le comprend sans doute pas [IMPLICITE] ; Zorua comprend les humains mais reste muet. Ghetis parle, Zorua comprend et traduit a N ; de leurs reponses, Ghetis ne saisit que les noms cries ("Zoroark") et les hochements de tete. D'ou ses questions qui font comme s'il savait deja : l'outil de celui qui ne comprend pas les reponses.
+- Age valide : disparition vers 7 ans (memoire durable du clan ; enfance au chateau).
+- Canon verifie (Bulbapedia) : Colombe, Noir 2/Blanc 2 (refuge de Port Yoneuve) : N etait orphelin ; Ghetis l'a recueilli alors qu'il vivait dans les bois avec Darumacho et Zorua ; Venus, Colombe et N sont tous des orphelins recueillis par Ghetis. Colombe, Noir/Blanc (Palais de N) : N a ete separe des gens tout petit, eleve avec des Pokemon maltraites que Ghetis choisissait (domicile : fiche N, Au-dela de R2).
+- Tranche : R2 conforme (Zorua recueilli avec N). Place de Zorua chez Ghetis : reglee par le mensonge (cf. garde-cap R2) ; se croyant orphelin du fait des humains, Zorua est exactement le Pokemon blesse par les humains que Ghetis place aupres de N, et le mensonge nourrit l'ideal canon de N [LOGIQUE MJ]. Reste a caler au build de R2 : Darumacho offert par Ghetis [DIVERGENCE RP] contre present dans les bois en canon. Domicile a terme : fiche N et roadmap R2.
+- R2, barriere de langue [LOGIQUE MJ] : a 7 ans, N ne parle pas humain (fiche N) et ne le comprend sans doute pas [IMPLICITE] ; Zorua comprend les humains mais reste muet. Ghetis parle, Zorua comprend et traduit a N ; de leurs reponses, Ghetis ne saisit que les noms cries ("Zoroark") et les hochements de tete. D'ou ses questions qui font comme s'il savait deja : l'outil de celui qui ne comprend pas les reponses.
+- R2, trou a poser au build : comment Ghetis apprend que l'enfant s'appelle N, alors que N ne parle pas humain et que Zorua est muet (fiche N : Ghetis trouve absurde qu'on ne s'appelle que d'une lettre). Le mouchoir a monogramme, seul bien de N, est dans la fiche.
 
 ## Reperes de saga (trous ouverts ; portes canon : cf. garde-cap)
 
@@ -52,18 +54,19 @@ A poser au build de l'arc qui les convoque, pas avant.
 - Zorua : comment il devient le Zoroark de N (An 20) ; garde de la Route Victoire (An 22).
 - Ou etait Zoltraak pendant la premiere vague.
 - Origine des cicatrices du chef.
-- Formation de Zorua a la chasse : confiee a Zoltraak sur ordre du chef ; Zeraora ne proteste pas.
 - [INTERPRETATION] Biais de population, lecture d'ambiance : dans Noir/Blanc, Zorua et Zoroark n'existent qu'en evenement (Celebi a Volucite ; betes de Johto chromatiques au Bois des Illusions). Clan cache arrive a l'An 0 = aucune rencontre sauvage.
 - Porte An 20 : origine du conflit du chef avec les betes de Johto (un randonneur suppose un conflit passe) ; ce que devient le village quand l'illusion de la plaine tombe.
+- Porte An 20 : le canon dit le Bois autrefois connu comme un lieu ou l'on se perd ; ce que devient d'ici la la legende de la dame de la brume (cf. Unys).
+- Porte An 5 (Rouge/Bleu, dissolution de la Rocket) : elle tombe pendant R1, a Kanto, hors du regard de Zoltraak. Ce qui en parvient au clan, rumeur ou rien : a poser si un arc le convoque.
 - Porte An 22 : ou est le chef, dont le randonneur Zoroark parle au passe ("la Zoroark qui vivait dans le bois").
 - Porte An 22 : circonstances de la mort de Giovanni (57 ans ; 22 - 57 = -35 : ne en 35 av. N, coherent).
-- Mewtwo apres R1 : il traque les bases de la Rocket, que Giovanni dissout en l'An 5 (canon) ; ce que devient la traque ensuite : a poser. Canon : terre a la Caverne Azuree en Rouge/Bleu. Canon utile : en Rouge/Bleu, Giovanni se cache derriere l'Arene de Jadielle, fermee presque tout le jeu, champion en silhouette.
+- Mewtwo a partir de R1 : il traque les bases de la Rocket, que Giovanni dissout en l'An 5 (canon) ; ce que devient la traque ensuite : a poser. Canon : terre a la Caverne Azuree en Rouge/Bleu. Canon utile : en Rouge/Bleu, Giovanni se cache derriere l'Arene de Jadielle, fermee presque tout le jeu, champion en silhouette.
 - Canon jeux posterieur au depart : Caverne Azuree (Grotte Inconnue dans la VF de Rouge/Bleu) ; M. Fuji a Lavanville (An 5) reproche a la Team Rocket de maltraiter les Pokemon ; Ultra-Soleil/Ultra-Lune (An 24) : le Giovanni d'un monde ou la Rocket a gagne aligne un Mewtwo qui mega-evolue (autre monde, sans effet ici).
-- Prieres de Zoltraak et de Nyx a Mewtwo : "tardives, apres les evenements Mewtwo x Team Rocket" (thread 6). Ces evenements sont desormais avant R1 (15-10 av. N) ; "tardive" les laisse en trajectoire par defaut, a dater en passe 2. Celle du chef est au noyau (Zoroark W2).
+- Prieres de Zoltraak et de Nyx a Mewtwo : "tardives, apres les evenements Mewtwo x Team Rocket". Ces evenements sont desormais avant R1 (15-10 av. N) ; "tardive" les laisse en trajectoire par defaut, a dater en passe 2. Celle du chef est au noyau (cf. Zoroark).
 
 ## En attente de decision worldbuilder
 
-- Arrivee de la saga : non dictee (thread 8). Idees d'An 7 a An 20 parquees au garde-cap.
+- Arrivee de la saga : non dictee. Idees d'An 7 a An 20 parquees au garde-cap.
 - Langue de narration (parole des Pokemon, des humains, comment elle est rendue) : a poser au SETUP. Rien d'acte. Y rattacher l'usage des binomes en narration.
 - Mega-evolution : statut dans le lore non pose (Zeraora, DLC de Z-A ; Mewtwo X et Y).
 - Regime de ponte de Vulpes illusoria : non pose (rien ne l'exige pour l'instant).
@@ -117,51 +120,57 @@ A poser au build de l'arc qui les convoque, pas avant.
 - Systeme : forme de la fiche d'arc d'une roadmap NON JOUABLE (R0) a trancher en passe 3. Le precedent CSM n'a pas encore de fiches d'arc.
 - Systeme (hors univers) : SPEC_BIBLE_LORE_WIKI v8.5 se designe encore "v8_3" (ligne Emplacement et S12).
 - Systeme (hors univers) : les instructions WIKI disent en passe 3 "CODEX V1, puis SETUP", alors que le mode CODEX V1 exige un setup termine.
-- Zeraora (fiche) : son canon de distribution (Fabuleux, evenement Ultra-Soleil/Ultra-Lune, HOME, DLC de Z-A) et les ecarts (manga, film 21) ne vivent qu'en BIBLE SB5 ; a verser dans la fiche a sa prochaine relivraison.
-- N (fiche) : "orphelin des bois, il vivait avec ses seuls amis Pokemon", Reshiram (anime), lucidite fabriquee par Ghetis et miroir de Zoltraak ne vivent qu'en BIBLE SB5 ; idem.
 - VF introuvables dans les sources verifiees : Shadow Triad, Zinzolin, Rood, Dudley (restent en VO).
 
 ## Retire (ne pas ressusciter)
 
-- "N, plus grand et plus libre, recontactera le clan" (thread 6) : remplace par des retrouvailles fortuites a l'An 20, N et Zorua croyant le clan mort (thread 8).
-- Mewtwo "mutation forcee d'un oeuf de Mew" (BIBLE B1) : c'est un proto-Pokemon, rejeton de Mew, sans mutation (thread 7).
-- Mewtwo clone de labo (film 1) : ecarte, l'oeuf reste (thread 7).
-- Mewtwo en cavale des 15 av. N : remplace par cinq ans de servitude chez Giovanni (thread 7).
-- Episode Mewtwo x Giovanni a l'An 20, puis vers l'An 4-5 : ramene avant R1 (15-10 av. N) (thread 7).
-- Giovanni tue par Mewtwo en l'An 5, demantelement de la Rocket par sa mort : retire ; mort en l'An 22, a la roadmap (thread 7).
-- Sacha comme repere d'epoque ("epoque de Sacha" en SB0) : l'anime ne date rien (thread 7).
-- Mewtwo ne le 6 fevrier An 3 (proposition MJ, thread 7) : remplace par 15 av. N (thread 7).
-- Portee Rocket etendue au Retour de Mewtwo et aux clones : ecartee (thread 7). Du film 1, seul le fil Mewtwo x Giovanni.
-- Zoroark du Bois = femelle distincte du chef (canon ; options MJ : native d'Unys, ou membre venue de Johto) : c'est le chef deguise (thread 7).
-- Illusion de la plaine tenue par la Zoroark du Bois sous l'autorite du chef (proposition MJ) : sans objet, c'est le chef (thread 7).
-- Nommage par les cris limite aux legendaires et au clan : etendu a toutes les especes (thread 7).
-- Zorua en vol pendant la traversee : remplace par la criniere de son pere et de son oncle (thread 6).
-- R1 a 5 ans (premiere idee du worldbuilder) : remplace par 18 mois (thread 6).
-- Enfance longue des Zoroark (proposition MJ) : tombe, Zorua est Zoroark a l'An 20 (thread 4).
-- Zorua offert par Rood : n'existe pas dans ce RP (thread 4).
+- "N, plus grand et plus libre, recontactera le clan" : remplace par des retrouvailles fortuites a l'An 20, N et Zorua croyant le clan mort.
+- Mewtwo "mutation forcee d'un oeuf de Mew" (BIBLE B1) : c'est un proto-Pokemon, rejeton de Mew, sans mutation.
+- Mewtwo clone de labo (film 1) : ecarte, l'oeuf reste.
+- Mewtwo en cavale des 15 av. N : remplace par cinq ans de servitude chez Giovanni.
+- Episode Mewtwo x Giovanni a l'An 20, puis vers l'An 4-5 : ramene avant R1 (15-10 av. N).
+- Giovanni tue par Mewtwo en l'An 5, demantelement de la Rocket par sa mort : retire ; mort en l'An 22, a la roadmap.
+- Sacha comme repere d'epoque ("epoque de Sacha" en SB0) : l'anime ne date rien.
+- Mewtwo ne le 6 fevrier An 3 (proposition MJ) : remplace par 15 av. N.
+- Portee Rocket etendue au Retour de Mewtwo et aux clones : ecartee. Du film 1, seul le fil Mewtwo x Giovanni.
+- Zoroark du Bois = femelle distincte du chef (canon ; options MJ : native d'Unys, ou membre venue de Johto) : c'est le chef deguise.
+- Illusion de la plaine tenue par la Zoroark du Bois sous l'autorite du chef (proposition MJ) : sans objet, c'est le chef.
+- Nommage par les cris limite aux legendaires et au clan : etendu a toutes les especes.
+- Zorua en vol pendant la traversee : remplace par la criniere de son pere et de son oncle.
+- R1 a 5 ans (premiere idee du worldbuilder) : remplace par 18 mois.
+- Enfance longue des Zoroark (proposition MJ) : tombe, Zorua est Zoroark a l'An 20.
+- Zorua offert par Rood : n'existe pas dans ce RP.
 - Kyurem dans la tribu : retire pour garder intact le canon d'Unys. Tombent avec lui : la laisse tenue par les freres Zoroark, le double type Glace/Tenebres du prota, la proposition "ascension ratee", Kyurem comme exception au critere de personne, le pont de glace bati par Kyurem, la munition "Kyurem tenu en laisse".
 - "Pas de revenants" : remplace (revenants actes).
-- Ball de masse en 100 av. N, puis 55 av. N : remplace par 66 av. N (thread 4).
-- Rouge/Bleu vers An 15-17, Or/Argent vers An 18-20 : remplaces (thread 4).
+- Ball de masse en 100 av. N, puis 55 av. N : remplace par 66 av. N.
+- Rouge/Bleu vers An 15-17, Or/Argent vers An 18-20 : remplaces.
 - Bonus de stats et de types conferes par les badges : pur gameplay, ecarte.
-- Forme regionale par lieu de naissance : ecartee (thread 4).
+- Forme regionale par lieu de naissance : ecartee.
 - Revenants steriles (proposition MJ) : contredit, ils sont fertiles.
 - Legendaires d'Unys comme allies de la tribu : contrainte "lore d'Unys intact".
 - Allie legendaire exterieur au clan (Zygarde, Amovenus...) : remplace par Zeraora. Fabuleux exclus comme allies : Mew, Arceus, Celebi ; Victini, Keldeo, Meloetta, Genesect ; Darkrai, Hoopa ; Jirachi ; Deoxys ; Pecharunt ; Magearna. Examines sans suite : Volcanion, Marshadow, Manaphy, Diancie, Shaymin, Meltan.
 - Second type du prota "aucun ou a definir" : remplace par Tenebres/Electrik.
 - Piste Amovenus pour la traversee : remplacee par les volants et les Dimoret de la tribu.
-- "Toutes les lignees posees avant le thread 4 sont du groupe Terrestre" : faux (Virgo et Nympha sanatrix : Fee ; Corvus et Vultur : Vol), corrige au thread 5.
-- "Team Galaxie" pour les colons de Hisui : c'est le Groupe Galaxie en VF (thread 5).
-- Pinces de Crabagarre "a Galar" : c'est Paldea (Pokedex Violet), thread 5.
-- Clan = "la lignee Zoroark (le sang)" : remplace par la famille directe du chef, sang et alliance (thread 5).
-- "Langue de narration = langue des Pokemon", presentee comme heritee d'AnimalCrossing : fausse (a AnimalCrossing, tout le monde parle humain), retiree au thread 5.
-- Refus du retrecissement dans la Ball [LOGIQUE MJ, thread 5] : mauvaise lecture. Le worldbuilder parlait de la tribu qui brise la Ball d'un captif dont le dresseur est mort, quitte a le blesser ou le tuer.
+- "Toutes les lignees posees sont du groupe Terrestre" (premiere version) : faux (Virgo et Nympha sanatrix : Fee ; Corvus et Vultur : Vol), corrige.
+- "Team Galaxie" pour les colons de Hisui : c'est le Groupe Galaxie en VF.
+- Pinces de Crabagarre "a Galar" : c'est Paldea (Pokedex Violet).
+- Clan = "la lignee Zoroark (le sang)" : remplace par la famille directe du chef, sang et alliance.
+- "Langue de narration = langue des Pokemon", presentee comme heritee d'AnimalCrossing : fausse (a AnimalCrossing, tout le monde parle humain), retiree.
+- Refus du retrecissement dans la Ball [LOGIQUE MJ] : mauvaise lecture. Le worldbuilder parlait de la tribu qui brise la Ball d'un captif dont le dresseur est mort, quitte a le blesser ou le tuer.
+- Datation par thread dans les pages ("decision du worldbuilder, thread N") : purgee partout ; balises et Wn suffisent.
+- R0 jusqu'a Zorua vers 18 mois, R1 ouverte a l'An 1-2 : R0 se clot a l'arrivee au Bois (An 0-1), R1 s'ouvre sur l'installation.
+- Chasse de R1 aux Balls redoutables, Zorua cache a cause d'elles : remplaces par des villageois armes sans Balls, Zorua poste dans un buisson pour observer.
+- Parents de N "probablement tues par les Vulpes" : ils sont parmi les villageois massacres.
+- On-dit de Colombe (Noir 2/Blanc 2) : des sa naissance, N troublait les gens en semblant parler aux Pokemon. Degage : a 18 mois il ne parle pas, et comprendre les Pokemon s'acquiert en baignant dans leur langue.
+- Cuisine de la tribu "au feu des Demolosse" [LOGIQUE MJ] et doute sur "ragout" (image ?) : biais humain ; les Vulpes illusoria savent cuisiner (cf. Personne_Langue_Alimentation).
+- Dame de la brume incarnee par le seul chef : Zoltraak porte le meme deguisement, pour qu'une seule femme hante le bois.
+- Verrouillage technique du thread si le joueur refuse l'enfant (R1, etape 5) : remplace par une fin de RP declaree par le MJ ; fermeture technique seulement sur demande explicite et confirmee du joueur.
 
 ## Feuille de route
 
-1. Pre-passe 0 (threads 1 a 4) : CLOSE.
-2. Passe 0 (thread 5) : CLOSE. WIKI et BIBLE B1 livres.
-3. Passe 1 (threads 6 et 7) : CLOSE. Lots 1 a 3 et BIBLE B2 livres.
-4. Passe 2 (thread 8 ->) : EN COURS, methode bac a sable. Thread 8 : garde-cap, R0 ecrite (boucle close), BIBLE B3. Suite : R1, R2, puis au fil de l'avancement, en boucle serree avec les fiches.
+1. Pre-passe 0 : CLOSE.
+2. Passe 0 : CLOSE. WIKI et BIBLE B1 livres.
+3. Passe 1 : CLOSE. Lots 1 a 3 et BIBLE B2 livres.
+4. Passe 2 : EN COURS, methode bac a sable. Faits : garde-cap, R0 (coupee a l'arrivee au Bois), R1 (boucle close), BIBLE B4. Suite : R2 en thread neuf, puis au fil de l'avancement, en boucle serree avec les fiches.
 
 FIN_WIKI__IMPLICATIONS

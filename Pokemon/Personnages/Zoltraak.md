@@ -1,6 +1,6 @@
 # Zoltraak
 
-- version : W1
+- version : W2
 
 ## Identite
 
@@ -70,7 +70,8 @@ Base : le Zoroark du canon (renard bipede, pelage gris et noir, collerette, long
 
 - Zoroark (le chef) : frere aine. Zoltraak est son bras droit et le suit sans discuter. Il lui doit la vie (cf. Histoire).
 - Zeraora : belle-soeur, compagne du chef. Trio de tete ; ils dirigent ensemble l'unite d'elite. Il acquiert l'Electrik a son contact et doit parfois la retenir.
-- Zorua : neveu, fils du chef et de Zeraora. Moteur de son combat.
+- Zorua : neveu, fils du chef et de Zeraora. Moteur de son combat. Le forme a la chasse sur ordre du chef.
+- N : l'un de ses quatre parents. Convaincu par Zorua de l'epargner, il convainc Zeraora. N est son miroir humain : N a vecu l'angle mort de Zoltraak et en est sorti (cf. N).
 - Nyx : Noctali femelle, sa compagne, membre du clan par alliance. Il l'a liberee d'un humain qui la tenait captive et lui a jure qu'elle n'aurait jamais a craindre les humains. C'est elle qui lui a demande a devenir sa femelle ; leur intimite est leur langage sans mots pour dire leur amour (cf. Nyx).
 - Unite d'elite : revenants de Hisui, Pohmarmottes, quelques Zarude, un Angoliath (cf. La_Tribu).
 - Revenants (Vulpes spectralis) : anciens membres du clan.
@@ -90,8 +91,8 @@ Base : le Zoroark du canon (renard bipede, pelage gris et noir, collerette, long
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-Vide : alimentee a chaud a partir de la passe 2.
+| An 0-1 | Arrivee au Bois des Illusions : sur l'idee de Nyx, il epouvante les habitues du bois avec le chef, tous deux sous les traits de la meme femme. Nait la dame de la brume | - |
+| An 1-2 | Avec Zeraora, convainc le chef et Nyx d'initier Zorua a la chasse aux humains ; le chef lui confie sa formation. Premiere chasse de Zorua : avec Zeraora, il massacre des villageois venus offrir un enfant a la dame. Convaincu par Zorua d'epargner l'enfant, il convainc Zeraora | l'un des quatre parents de N |
 
 ---
 

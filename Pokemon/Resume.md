@@ -1,6 +1,6 @@
 # Resume
 
-- version : W3
+- version : W4
 
 ## Premisse
 
@@ -50,7 +50,9 @@
 - L'espoir d'une terre isolee, Unys, decide la naissance de Zorua ; sa naissance decide l'exode.
 - La tribu (environ 150 membres) passe par la route du nord. A la vallee des revenants, quelques jours de chasse avec les Revenants suffisent : meme Zeraora et Zoltraak jugent leur violence excessive et trop risquee.
 - Unys decoit : elle est deja aux humains, aussi avances qu'ailleurs. La tribu s'installe au Bois des Illusions, ou elle forme un village cache par la brume du chef.
-- Elle devient la famille de N, un orphelin humain des bois, frere de lait de Zorua, jusqu'a ce que Ghetis l'adopte.
+- Sur l'idee de Nyx, le chef et Zoltraak epouvantent les habitues du bois sous les traits d'une meme femme : pour les humains d'Unys, le bois est hante par la dame de la brume. Qui insiste est tue, puis cuisine pour un festin au village.
+- An 1-2 : des villageois superstitieux viennent offrir un bebe a la dame, contre la promesse de terres plus fertiles. A la premiere chasse de Zorua, Zeraora et Zoltraak les massacrent, parents compris ; Zorua trouve l'enfant et convainc son oncle de l'epargner.
+- Le clan le recueille et le nomme N, d'apres le monogramme de son mouchoir : le seul humain qu'il ait jamais traite en famille. Frere de lait de Zorua, fils du chef, de Zeraora, de Zoltraak et de Nyx, il grandit au clan jusqu'a ce que Ghetis l'adopte.
 
 ## Le temps des jeux
 
@@ -67,7 +69,7 @@
 - Toutes les especes portent le nom d'un individu, crie ; seule exception : Mewtwo.
 - Les branches d'Evoli sont des mutations, donc des especes.
 - Le nom "Zorua" entre au Pokedex par N ; le Zorua offert par Rood n'existe pas.
-- La "Zoroark femelle" du Bois des Illusions est le chef, deguise en femme.
+- La "Zoroark femelle" du Bois des Illusions est le chef, deguise en femme ; Zoltraak porte le meme deguisement : pour les humains, la dame de la brume.
 - Mewtwo : proto-Pokemon ne d'un oeuf de Mew, pas un clone ; du film 1, seul le fil Mewtwo x Giovanni.
 - Les Revenants ne haissent que les humains (canon : les humains et les Pokemon) ; l'espece Vulpes spectralis se transmet.
 

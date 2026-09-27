@@ -1,6 +1,6 @@
 # Personne, langue, alimentation
 
-- version : W4
+- version : W5
 
 ## Personne
 
@@ -9,16 +9,23 @@
 - Origine de la raison : le don du trio des lacs a tous les etres (cf. Creation_et_Theologie).
 - Intelligence : moyenne par espece, avec variabilite individuelle. Tous les Zoroark ne peuvent pas mener une rebellion ; tous les Ramoloss ne sont pas simplets.
 
+## Cultures
+
+- Les Pokemon ne sont pas tous des betes sauvages : ils ont des cultures, des traditions, des coutumes, des preferences. C'est un spectre, qui suit l'intelligence.
+- Cuisine : les Vulpes illusoria, parmi les plus intelligents, sont parmi les rares a savoir cuisiner. Les autres ne se comportent pas pour autant tous comme les Vulpes spectralis (cf. Revenants).
+- Les humains preferent les croire sauvages : c'est ce qui leur permet de les manger la conscience tranquille.
+- Festin de la tribu : cf. La_Tribu.
+
 ## Langue
 
 - Une seule langue commune a tous les Pokemon. Lexique et registre varient avec l'intelligence.
 - Les Pokemon comprennent les ordres et la parole des humains. Precedent : Feunard comprend la parole humaine [POKEDEX, Saphir].
-- L'inverse est rarissime : il faut avoir baigne dans la langue Pokemon enfant, eleve parmi des Pokemon qui la parlent entre eux, comme N (decision du worldbuilder, thread 7 ; "baigne" [LOGIQUE MJ] : sinon tout enfant de dresseur la comprendrait).
+- L'inverse est rarissime : il faut avoir baigne dans la langue Pokemon enfant, eleve parmi des Pokemon qui la parlent entre eux, comme N ("baigne" [LOGIQUE MJ] : sinon tout enfant de dresseur la comprendrait).
 - Certains Pokemon parlent aux humains. Precedents : le Miaouss de la Team Rocket (anime) ; Crehelf, Crefollet et Crefadet par telepathie (Legendes Arceus).
-- Parler humain demande deux choses : une capacite physiologique, propre a chaque espece, puis un apprentissage. Sans l'appareil vocal, pas de parole ; avec, il faut encore apprendre (le Miaouss de la Team Rocket a appris ; les autres Miaouss ne parlent pas). Decision du worldbuilder (thread 6).
-- Les Vulpes illusoria n'ont pas l'appareil. L'illusion change l'apparence, pas la gorge : leurs deguisements humains sont muets (Zorua en enfant silencieux, cf. La_Tribu ; le chef en femme silencieuse au Bois des Illusions, cf. Zoroark).
+- Parler humain demande deux choses : une capacite physiologique, propre a chaque espece, puis un apprentissage. Sans l'appareil vocal, pas de parole ; avec, il faut encore apprendre (le Miaouss de la Team Rocket a appris ; les autres Miaouss ne parlent pas).
+- Les Vulpes illusoria n'ont pas l'appareil. L'illusion change l'apparence, pas la gorge : leurs deguisements humains sont muets (Zorua en enfant silencieux, cf. La_Tribu ; le chef et Zoltraak en dame de la brume, femme silencieuse du Bois des Illusions, cf. Zoroark).
 - La telepathie est une voie a part, qui contourne la gorge (trio des lacs ; Mewtwo, cf. Mewtwo).
-- Pour un humain qui ne l'a pas entendue dans son enfance, le seul contenu intelligible est le nom qu'un Pokemon crie, au combat ou dans tout autre contexte (thread 7 ; nommage des especes : cf. Especes_Taxonomie).
+- Pour un humain qui ne l'a pas entendue dans son enfance, le seul contenu intelligible est le nom qu'un Pokemon crie, au combat ou dans tout autre contexte (nommage des especes : cf. Especes_Taxonomie).
 
 ## Statut des Pokemon chez les humains
 

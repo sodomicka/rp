@@ -1,6 +1,6 @@
 # Evolution et majorite
 
-- version : W4
+- version : W5
 
 ## Majorite
 
@@ -14,9 +14,9 @@
 
 ## Croissance et maturation
 
-- Pas de croissance continue (decision du worldbuilder, thread 6). Le Pokemon nait a la taille de son premier stade (cf. Reproduction, retrecissement prenatal). Grandir, c'est murir : le corps change par paliers, a l'evolution.
+- Pas de croissance continue. Le Pokemon nait a la taille de son premier stade (cf. Reproduction, retrecissement prenatal). Grandir, c'est murir : le corps change par paliers, a l'evolution.
 - Espece a stade unique : elle nait a sa taille adulte ; seul le plancher d'age la garde mineure [LOGIQUE MJ]. Exemple : Mewtwo, mineur jusqu'a ses 18 ans (cf. Mewtwo).
-- Les Pokemon murissent plus vite que les humains. Le plancher de majorite ne bouge pas : 18 ans (thread 6).
+- Les Pokemon murissent plus vite que les humains. Le plancher de majorite ne bouge pas : 18 ans.
 
 ## Declencheurs d'evolution
 
@@ -29,7 +29,7 @@
 
 ## Evoli : mutation, pas evolution
 
-- Les branches d'Evoli sont des mutations, donc des especes distinctes : Evoli (Evolutio intacta) devient une autre espece, par exemple Noctali (Evolutio nocturna) (decision du worldbuilder, thread 6 ; classement et heredite : cf. Especes_Taxonomie).
+- Les branches d'Evoli sont des mutations, donc des especes distinctes : Evoli (Evolutio intacta) devient une autre espece, par exemple Noctali (Evolutio nocturna) (classement et heredite : cf. Especes_Taxonomie).
 - Appui canon : le code genetique d'Evoli est irregulier, il peut muter sous les radiations des pierres [POKEDEX] ; la lumiere de la lune a modifie le code genetique d'Evoli pour en faire un Noctali [POKEDEX].
 - Declencheurs : ceux du jeu, pris au pied de la lettre, sur ce code instable [LOGIQUE MJ] :
   - milieu : pierres ; lune (Noctali) ;

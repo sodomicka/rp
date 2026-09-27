@@ -1,10 +1,10 @@
 # Reproduction
 
-- version : W5
+- version : W6
 
 ## Principe
 
-- Le vivant suit le modele reel le plus proche, sauf quand le Pokedex le contredit (decision du worldbuilder, thread 6).
+- Le vivant suit le modele reel le plus proche, sauf quand le Pokedex le contredit.
 - Une entree [POKEDEX] l'emporte sur le modele reel ; une entree [POKEDEX, rumeur] n'y suffit pas [LOGIQUE MJ].
 
 ## Naissance
@@ -13,10 +13,10 @@
 - Les humains sont les seuls etres NES hors d'un oeuf.
 - Naitre n'est pas etre fabrique [LOGIQUE MJ] : les golems de Regigigas et le premier Porygon sont fabriques, pas nes.
 - Les Porygon suivants naissent d'un oeuf (groupe Mineral, avec Metamorph).
-- Reproduction sexuee. Fecondation interne par defaut, puis ponte (thread 6).
-- Seule exception : Mew, seul etre capable de parthenogenese (thread 7 ; cf. Creation_et_Theologie).
+- Reproduction sexuee. Fecondation interne par defaut, puis ponte.
+- Seule exception : Mew, seul etre capable de parthenogenese (cf. Creation_et_Theologie).
 - Fecondation externe pour les especes qui fraient, fixee espece par espece. Modele canon : Poissoroy a sa saison des amours dans les rivieres et les lacs ; le male creuse un nid dans le lit de la riviere ; les deux parents gardent le nid et les oeufs un peu plus d'un mois [POKEDEX].
-- Retrecissement prenatal (thread 6) : dans l'oeuf, l'embryon est replie par le reflexe de retrecissement que la Ball exploite (cf. Poke_Ball), et se deploie a l'eclosion. Le petit nait a la taille de son premier stade, et l'oeuf reste portable. Sans ce reflexe, un Ptiravi (24,4 kg) ne tiendrait pas dans l'oeuf d'une Leveinard (34,6 kg).
+- Retrecissement prenatal : dans l'oeuf, l'embryon est replie par le reflexe de retrecissement que la Ball exploite (cf. Poke_Ball), et se deploie a l'eclosion. Le petit nait a la taille de son premier stade, et l'oeuf reste portable. Sans ce reflexe, un Ptiravi (24,4 kg) ne tiendrait pas dans l'oeuf d'une Leveinard (34,6 kg).
 
 ## Ponte
 
@@ -30,7 +30,7 @@
 
 ## Lactation
 
-- Les especes d'allure mammifere allaitent, les Vulpes comprises (thread 6).
+- Les especes d'allure mammifere allaitent, les Vulpes comprises.
 - La lactation suit une ponte, fecondee ou non (modele reel : la chienne en pseudo-gestation). Le clan a donc du lait entre deux portees.
 - Zeraora allaite Zorua, puis N.
 
@@ -48,7 +48,7 @@
 - Fertilite = majorite : un mineur ne pond ni ne feconde, quel que soit son stade ; une evolution forcee ne rend pas fertile [LOGIQUE MJ ; ecart canon : le jeu fait pondre des premiers stades comme Zorua. Le canon exclut deja les bebes (Pichu, Melo)].
 - "Aucun oeuf decouvert" (groupe des legendaires et des bebes) : constat humain, pas une sterilite [LOGIQUE MJ]. Coherent avec Zeraora mere de Zorua.
 - Les revenants (Vulpes spectralis) sont fertiles : les Spectres ont une descendance.
-- Le petit de deux Vulpes spectralis est un Vulpes spectralis : revenir d'entre les morts n'est pas une mutation, l'espece se transmet (decision du worldbuilder, thread 8). Couple mixte spectralis x illusoria : petit a 50/50, regle generale [LOGIQUE MJ].
+- Le petit de deux Vulpes spectralis est un Vulpes spectralis : revenir d'entre les morts n'est pas une mutation, l'espece se transmet. Couple mixte spectralis x illusoria : petit a 50/50, regle generale [LOGIQUE MJ].
 
 ## Le petit
 

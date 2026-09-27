@@ -1,6 +1,6 @@
 # Zeraora
 
-- version : W1
+- version : W2
 
 ## Identite
 
@@ -13,6 +13,7 @@
 - Rang : trio de tete du clan avec Zoroark (le chef) et Zoltraak. A la tete de l'unite d'elite, Zoltraak a ses cotes (cf. La_Tribu).
 - Gradient : legendaire, par mutation. Reste tuable.
 - Taille, poids : ceux du canon, 1,5 m et 44,5 kg.
+- Canon : Fabuleux, distribue en evenement (Ultra-Soleil/Ultra-Lune), via HOME et dans le DLC de Legendes Z-A. Ecartes : sa naissance d'un eclair frappant un volcan (manga) ; le film 21.
 
 ## Apparence
 
@@ -70,6 +71,7 @@
 - Zoroark (le chef) : compagnon, pere de Zorua. Pendant la premiere vague, elle part au nord et le laisse derriere elle, par choix ; a son retour, ils se remettent aussitot en couple. Il lui souhaite toujours bonne chasse et lui demande de rester prudente (cf. Zoroark).
 - Zoltraak : beau-frere. Ils chassent ensemble et dirigent ensemble l'unite d'elite. Il a acquis l'Electrik a son contact et doit parfois la retenir (cf. Zoltraak).
 - Zorua : fils, ne a l'An 0 ; il tient d'elle sa meche bleue.
+- N : l'un de ses quatre parents. Convaincue par Zoltraak de l'epargner, avant meme de rentrer au village ; elle l'allaite avec Zorua.
 - Nyx : belle-soeur, qui garde la tribu aux cotes du chef pendant qu'elle chasse avec Zoltraak (cf. Nyx).
 - Unite d'elite : les revenants qui l'ont suivie et les Pohmarmottes liberees a Hisui, passees de son cote (cf. La_Tribu).
 
@@ -87,8 +89,7 @@
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-Vide : alimentee a chaud a partir de la passe 2.
+| An 1-2 | Avec Zoltraak, convainc le chef et Nyx d'initier Zorua a la chasse aux humains ; la formation revient a Zoltraak. Premiere chasse de Zorua : avec Zoltraak, elle massacre des villageois venus offrir un enfant a la dame de la brume. Convaincue par Zoltraak d'epargner l'enfant, elle l'allaite avec Zorua | l'un des quatre parents de N |
 
 ---
 
