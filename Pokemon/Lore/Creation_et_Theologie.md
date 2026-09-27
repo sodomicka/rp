@@ -1,6 +1,6 @@
 # Creation et theologie
 
-- version : W3
+- version : W5
 
 ## Statut de ce recit
 
@@ -40,16 +40,17 @@
 ## Origine des humains (option C)
 
 - Chair a part, esprit commun : Adam, Eve et Mew faconnes separement (le ventre d'un cote, l'oeuf de l'autre). Le don du trio fait naitre UN esprit partage.
-- L'humain reste stable et varie peu ; les proto-Pokemon mutent sur des millenaires.
+- L'humain reste stable et varie peu ; les proto-Pokemon divergent sur des millenaires.
 - Memoire deformee : un montagnard de Platine raconte qu'au debut, humains et Pokemon etaient une meme presence, partageaient esprit et conscience, prenaient la place les uns des autres. Contes de Sinnoh : ci-dessous.
 - Lecture actee : souvenir de l'esprit commun, gonfle par le folklore en chair commune.
 
 ## Mew
 
-- Ancetre commun de tous les Pokemon ; sans sexe.
-- A l'origine, il pond seul des oeufs de proto-Pokemon, qui divergent en especes sur des millenaires. Puis il ne pond plus ; s'il pond, c'est exceptionnel, jamais pour peupler.
+- Ancetre commun de tous les Pokemon ; sans sexe. Seul etre capable de parthenogenese : il pond seul (decision du worldbuilder, thread 7).
+- A l'aube de la vie, il pond des proto-Pokemon : des oeufs dont la genetique lui ressemble, presque tous Psy. Puis il s'arrete, son oeuvre accomplie. Leurs descendances, d'une grande variabilite genetique, divergent en especes sur des millenaires, et le milieu leur donne des types de toutes sortes (thread 7 ; cf. Types_et_Spectre).
+- Image : Adam et Eve en un seul etre, ovipare et parthenogenetique. L'option C tient : Mew est faconne a part du premier couple humain.
+- Il ne pond plus depuis la prehistoire, mais le peut toujours. Exception : captif au labo de Cramois'Ile (16-15 av. N), il y est pousse par le chercheur ; la captivite est une perte, et la perte fait pondre (regle de la perte, cf. Reproduction) [LOGIQUE MJ]. De cet oeuf nait Mewtwo, proto-Pokemon, le seul Pokemon actuel aussi proche de lui (cf. Mewtwo).
 - Sources humaines : son ADN contiendrait le code genetique de tous les Pokemon [POKEDEX, rumeur] ; beaucoup de scientifiques le croient ancetre des Pokemon [POKEDEX, rumeur] ; Pokemon d'Amerique du Sud cru eteint, tres intelligent [POKEDEX].
-- Mewtwo : un oeuf de Mew dont la mutation, normalement millenaire, a ete forcee en labo. Journal du manoir de Cramois'Ile (Rouge/Bleu) : Mew decouvert dans une jungle de Guyane, puis "donne naissance" a un petit nomme Mewtwo, trop puissant pour etre maitrise. VO japonaise : un chercheur seul ; traductions : une equipe.
 
 ## Giratina
 
@@ -62,7 +63,7 @@
 
 ## Cultes et mythes
 
-- Cultes varies : Arceus, Giratina, d'autres legendaires, des individus a l'action concrete. Mewtwo : dieu cree par l'homme, symbole de la resistance.
+- Cultes varies : Arceus, Giratina, d'autres legendaires, des individus a l'action concrete. Mewtwo : dieu cree par l'homme, symbole de la resistance (cf. Mewtwo).
 - Les mythes sont des textes humains : meme traitement que le Pokedex.
   - Unys : deux freres heros et un dragon, scinde en Reshiram et Zekrom quand ils se dechirent. Ghetis s'en sert pour faire de N le heros.
   - Contes de Sinnoh (bibliotheque de Joliberges) : on mangeait les Pokemon peches et on rendait les os a l'eau pour qu'ils reviennent ; un Pokemon otait sa peau pour dormir en humain ; humains et Pokemon mangeaient a la meme table, indiscernables. VO japonaise : ils se mariaient [INCERTAIN : traduction non officielle].

@@ -2,7 +2,7 @@
 
 Journal de travail. Jamais fetche en narration. Hors Sommaire. Regle de tenue (reprise d'AnimalCrossing) : une ligne vit ici tant qu'elle n'a PAS de domicile (BIBLE, fiche, roadmap) ou attend une decision. Des qu'elle en a un, elle sort.
 
-Etat : PASSE 1 EN COURS (thread 6, 2026-09-26). Lots 1 et 2 livres en un seul ZIP : Personnages/ (Zoltraak, Zoroark, Nyx, Zeraora, Zorua, N), Lore/Histoire_du_Clan W3, Systemes/ (Personne_Langue_Alimentation W3, Reproduction W2), Sommaire W2. Versions exactes : cf. Sommaire. Prochaine etape : lot 3 en thread 7 (Mewtwo, Zoroark du Bois, taxonomie et systemes), puis BIBLE B2.
+Etat : PASSE 1 CLOSE (thread 7, 2026-09-27). Lot 3 livre, puis BIBLE B2 avec Mewtwo W2, N W2, Creation_et_Theologie W5, Legendaires W3, Especes_Taxonomie W3, Reproduction W4, Evolution_et_Majorite W4, Chronologie W5, Resume W2, Sommaire W4. Versions exactes : cf. Sommaire. Prochaine etape : passe 2 (roadmaps), en thread neuf.
 Balises : cf. BIBLE SB1.
 
 ## Methode
@@ -27,20 +27,17 @@ Balises : cf. BIBLE SB1.
 - Le worldbuilder ecrit ses histoires. Le MJ apporte le contexte canon, signale trous et contradictions ; aucune suggestion narrative non demandee.
 - Respect des passes : les evenements du recit (qui fait quoi, quand, comment un personnage arrive quelque part) relevent de la passe 2. Ne JAMAIS les demander avant.
 
-## Fiches en attente (passe 1)
+## Fiches en attente
 
-- Images (thread 6) : plus aucune image personnalisee a venir. Mewtwo, Zoroark du Bois, Zorua au stade Zoroark (passe 2) : physique canon ; pour Zorua, plus la meche bleue actee.
+- Aucune fiche noyau en attente : passe 1 complete cote fiches.
+- Images : aucune image personnalisee. Zorua au stade Zoroark (passe 2) : physique canon, plus la meche bleue actee.
 - Placement : Personnages/ neutre. Le prota est une entite du monde (decision thread 5).
-- Mewtwo (dette de build) : raison de la ponte exceptionnelle de Mew ; labo et lieu de decouverte (Guyane en canon) ; date de creation. Mewtwo x Team Rocket : films, exception voulue par le worldbuilder (thread 6), [DIVERGENCE RP] a baliser ; tranche du meme coup l'auteur du labo.
-- Zoroark du Bois des Illusions : identite (passe 1 ou 2).
-- Especes et taxonomie, points ouverts : usage des binomes (BIBLE, fiches, narration ; latin ou traduit) ; extension du nommage par les cris a toutes les especes (penchant du worldbuilder, non acte) ; genre Vulpes (autres renards candidats) ; Farfuret de Hisui et Farfurex (variante regionale de Furetta glacialis ?) ; fertilite intra-genre.
 
 ## Point de depart (thread 6)
 
 - Depart du RP : debut de R1 (An 1-2 : Zorua et N vers 18 mois). Le noyau des fiches s'arrete la.
 - R0 : l'exode (An 0 -> arrivee a Unys), intro narree, pas jouee.
 - An 0 : repere du clan (naissance de Zorua, meme annee que N). Domicile : Histoire_du_Clan W3. Notation av. N / ap. N inchangee.
-- A ranger selon le depart (noyau s'il precede R1, trajectoire sinon) : priere de Zoltraak a Mewtwo (tardive, apres les evenements Mewtwo x Team Rocket) ; priere du chef a Mewtwo (date de creation de Mewtwo non fixee) ; Nyx (meme foi que Zoltraak).
 
 ## Matiere dictee R0-R2 (thread 6) -> Roadmap/Zoltraak/ en passe 2
 
@@ -57,15 +54,22 @@ Balises : cf. BIBLE SB1.
 - Origine des cicatrices du chef.
 - Formation de Zorua a la chasse : confiee a Zoltraak sur ordre du chef ; Zeraora ne proteste pas.
 - [INTERPRETATION] Biais de population, lecture d'ambiance : dans Noir/Blanc, Zorua et Zoroark n'existent qu'en evenement (Celebi a Volucite ; betes de Johto chromatiques au Bois des Illusions). Clan cache arrive a l'An 0 = aucune rencontre sauvage.
-- Zoroark du Bois des Illusions : reaction violente aux betes legendaires de Johto chromatiques ; un randonneur suppose un conflit passe.
+- Le chef au Bois des Illusions (Noir/Blanc, An 20) : sous ses traits de femme, reaction violente aux betes de Johto chromatiques ; un randonneur suppose un conflit passe. Origine du conflit (Johto) : a poser. Canon : vaincu, l'illusion de la plaine tombe.
+- Noir 2/Blanc 2 (An 22) : un randonneur qui est un Zoroark parle de "la Zoroark qui vivait dans le bois" (au passe) : qui, et ou est le chef a l'An 22 ?
+- Giovanni meurt en l'An 22, a 57 ans (22 - 57 = -35 : ne en 35 av. N, coherent). Circonstances : a la roadmap. Canon compatible : vivant en Rouge/Bleu (An 5), appele en vain par les restes de la Rocket (An 8), present au PWT (Noir 2/Blanc 2, An 22), mort ensuite.
+- Mewtwo apres R1 : il traque les bases de la Rocket, que Giovanni dissout en l'An 5 (canon) ; ce que devient la traque ensuite : a poser. Canon : terre a la Caverne Azuree en Rouge/Bleu. Canon utile : en Rouge/Bleu, Giovanni se cache derriere l'Arene de Jadielle, fermee presque tout le jeu, champion en silhouette.
+- Canon jeux posterieur au depart : Caverne Azuree (Grotte Inconnue dans la VF de Rouge/Bleu) ; M. Fuji a Lavanville (An 5) reproche a la Team Rocket de maltraiter les Pokemon ; Ultra-Soleil/Ultra-Lune (An 24) : le Giovanni d'un monde ou la Rocket a gagne aligne un Mewtwo qui mega-evolue (autre monde, sans effet ici).
+- Prieres de Zoltraak et de Nyx a Mewtwo : "tardives, apres les evenements Mewtwo x Team Rocket" (thread 6). Ces evenements sont desormais avant R1 (15-10 av. N) ; "tardive" les laisse en trajectoire par defaut, a dater en passe 2. Celle du chef est au noyau (Zoroark W2).
 
 ## En attente de decision worldbuilder
 
-- Langue de narration (parole des Pokemon, des humains, comment elle est rendue) : a poser au SETUP. Rien d'acte.
-- Mega-evolution : statut dans le lore non pose (Zeraora, DLC de Z-A).
+- Langue de narration (parole des Pokemon, des humains, comment elle est rendue) : a poser au SETUP. Rien d'acte. Y rattacher l'usage des binomes en narration.
+- Mega-evolution : statut dans le lore non pose (Zeraora, DLC de Z-A ; Mewtwo X et Y).
 - Regime de ponte de Vulpes illusoria : non pose (rien ne l'exige pour l'instant).
 - Spectres qui ont ete humains (Tutafeh et son masque [CANON SUPPOSE]) : a articuler avec l'option C.
 - Legendaires reincarnes (rares exceptions) : lesquels ; ou atterrit l'oeuf (au hasard, pres du lieu de la mort, dans une lignee). Piste canon : les betes ressuscitees par Ho-Oh (cf. Chronologie, vers 142 av. N).
+- Descendance des revenants (Vulpes spectralis) : espece du petit non posee ; la regle des mutations (non hereditaires) ne les couvre pas.
+- Descendance de Mewtwo : non posee. Sans sexe, il ne peut avoir de petit qu'avec un Metamorph ; un Metamorph qui le copie donne 100 % de son espece : un proto-Pokemon pourrait refaire souche. Garde-fou : Mew reste seul capable de parthenogenese.
 
 ## Propositions MJ non tranchees
 
@@ -95,7 +99,7 @@ Balises : cf. BIBLE SB1.
 - Mythe de la region de Sinnoh (fait : cf. Creation_et_Theologie) : mythe de servitude consentie, texte humain.
 - Mythe de Voilaroc (fait : cf. Creation_et_Theologie) : l'epee brisee par celui qu'elle avait aveugle.
 - Regidrago scelle par peur (fait : cf. Creation_et_Theologie) : avant la Ball, il y avait le temple.
-- Arsenal d'asservissement : Pokemon Obscurs d'Orre (coeur ferme de force), Chaine Rouge, ondes Rocket du Lac Colere (evolution forcee), Genesect (ressuscite et arme par la Plasma ; N aurait fait arreter le projet [INCERTAIN, wiki de fans]), arme ultime d'AZ.
+- Arsenal d'asservissement : Pokemon Obscurs d'Orre (coeur ferme de force), Chaine Rouge, ondes Rocket du Lac Colere (evolution forcee), Genesect (modifie par la Plasma ; N a rejete le projet, fait : cf. Team_Plasma), arme ultime d'AZ.
 - La Chaine Rouge se forge avec des gemmes tirees du trio des lacs : la laisse des dieux est taillee dans ceux qui ont donne la raison.
 - Evolution forcee de juveniles -> enfants-soldats au corps adulte.
 - Pension = reproduction forcee (horreur, hors champ). Metamorph = l'esclave le plus precieux de la machine.
@@ -106,18 +110,29 @@ Balises : cf. BIBLE SB1.
 - Contrepoids humain a soigner (N, vegetariens, dresseurs dont les Pokemon aiment vraiment) : sans lui, le "tous esclavagistes" de Zoltraak n'a plus de contradicteur.
 - Contes de Sinnoh (fait : cf. Creation_et_Theologie) : humains et Pokemon a la meme table, indiscernables.
 - Zorua en enfant silencieux [POKEDEX, rumeur] (fait : cf. La_Tribu) : clin d'oeil au heros muet des jeux ; echo de N enfant.
-- Mewtwo protege des Pokemon maltraites par des humains (anime, caractere ; fait : cf. BIBLE SB5).
+- Mewtwo protege des Pokemon maltraites par des humains (anime, caractere ; fait : cf. Mewtwo).
 
 ## Dettes de build
 
 - Systeme (hors univers) : SPEC_BIBLE_LORE_WIKI v8.5 se designe encore "v8_3" (ligne Emplacement et S12).
-- Lot 3 : Especes_Taxonomie W2 : Evolutio intacta (Evoli), Evolutio nocturna (Noctali) ; regle : les branches d'Evoli sont des mutations, donc des especes ; ce qui eclot d'un oeuf de Noctali. Puis compresser la fiche Nyx + renvoi.
-- Lot 3 : Evolution_et_Majorite W3 : entree Bonheur (Evoli -> Noctali) requalifiee en mutation ; pas de croissance continue (ne au premier stade, grandir = murir, le corps change par paliers) ; les Pokemon murissent plus vite que les humains, plancher de majorite inchange (>= 18 ans).
-- Team_Plasma W3 : VF des soeurs adoptives de N (Anthea = Venus, Concordia = Colombe).
-- B2 : SB2 Lexique, An 0 -> renvoi Histoire_du_Clan (repere du clan) ; compression SB5 des entites fichees.
+- Systeme (hors univers) : les instructions WIKI disent en passe 3 "CODEX V1, puis SETUP", alors que le mode CODEX V1 exige un setup termine.
+- Zeraora (fiche) : son canon de distribution (Fabuleux, evenement Ultra-Soleil/Ultra-Lune, HOME, DLC de Z-A) et les ecarts (manga, film 21) ne vivent qu'en BIBLE SB5 ; a verser dans la fiche a sa prochaine relivraison.
+- N (fiche) : "orphelin des bois, il vivait avec ses seuls amis Pokemon", Reshiram (anime), lucidite fabriquee par Ghetis et miroir de Zoltraak ne vivent qu'en BIBLE SB5 ; idem.
+- VF introuvables dans les sources verifiees : Shadow Triad, Zinzolin, Rood, Dudley (restent en VO).
 
 ## Retire (ne pas ressusciter)
 
+- Mewtwo "mutation forcee d'un oeuf de Mew" (BIBLE B1) : c'est un proto-Pokemon, rejeton de Mew, sans mutation (thread 7).
+- Mewtwo clone de labo (film 1) : ecarte, l'oeuf reste (thread 7).
+- Mewtwo en cavale des 15 av. N : remplace par cinq ans de servitude chez Giovanni (thread 7).
+- Episode Mewtwo x Giovanni a l'An 20, puis vers l'An 4-5 : ramene avant R1 (15-10 av. N) (thread 7).
+- Giovanni tue par Mewtwo en l'An 5, demantelement de la Rocket par sa mort : retire ; mort en l'An 22, a la roadmap (thread 7).
+- Sacha comme repere d'epoque ("epoque de Sacha" en SB0) : l'anime ne date rien (thread 7).
+- Mewtwo ne le 6 fevrier An 3 (proposition MJ, thread 7) : remplace par 15 av. N (thread 7).
+- Portee Rocket etendue au Retour de Mewtwo et aux clones : ecartee (thread 7). Du film 1, seul le fil Mewtwo x Giovanni.
+- Zoroark du Bois = femelle distincte du chef (canon ; options MJ : native d'Unys, ou membre venue de Johto) : c'est le chef deguise (thread 7).
+- Illusion de la plaine tenue par la Zoroark du Bois sous l'autorite du chef (proposition MJ) : sans objet, c'est le chef (thread 7).
+- Nommage par les cris limite aux legendaires et au clan : etendu a toutes les especes (thread 7).
 - Zorua en vol pendant la traversee : remplace par la criniere de son pere et de son oncle (thread 6).
 - R1 a 5 ans (premiere idee du worldbuilder) : remplace par 18 mois (thread 6).
 - Enfance longue des Zoroark (proposition MJ) : tombe, Zorua est Zoroark a l'An 20 (thread 4).
@@ -144,7 +159,7 @@ Balises : cf. BIBLE SB1.
 
 1. Pre-passe 0 (threads 1 a 4) : CLOSE.
 2. Passe 0 (thread 5) : CLOSE. WIKI et BIBLE B1 livres.
-3. Passe 1 (thread 6) : EN COURS. Lot 1 livre (Zoltraak, Zoroark, Nyx, Zeraora). Lot 2 livre (Zorua, N, Personne_Langue_Alimentation, Reproduction). Lot 3 : Mewtwo, Zoroark du Bois, Especes_Taxonomie, Evolution_et_Majorite, Team_Plasma. Puis BIBLE B2.
+3. Passe 1 (threads 6 et 7) : CLOSE. Lots 1 a 3 et BIBLE B2 livres.
 4. Passe 2 : roadmaps, en boucle serree avec les fiches ; R0 a R2 deja dictees (cf. Matiere dictee).
 
 FIN_WIKI__IMPLICATIONS

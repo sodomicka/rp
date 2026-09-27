@@ -1,12 +1,12 @@
 # Resume
 
-- version : W1
+- version : W2
 
 ## Premisse
 
 - Les humains, au mieux aveugles, au pire des salauds, ont fait des Pokemon, etres intelligents, des proies apres en avoir ete les proies.
 - Recit vecu cote Pokemon : une guerilla de sauvages contre les technologies de capture et d'asservissement.
-- Epoque du recit : ere de la Ball de masse, au temps de Sacha, Cynthia et N. Perimetre : Unys surtout, Johto, Kanto.
+- Epoque du recit : ere de la Ball de masse, au temps des jeux, de la naissance de N a Legendes Z-A (An 0 a An 27). Perimetre : Unys surtout, Johto, Kanto. L'anime inspire des caracteres, jamais des dates.
 - Datation : An 0 = naissance de N = 1991 (cf. Chronologie).
 
 ## La creation
@@ -14,7 +14,7 @@
 - Arceus, ne d'un oeuf au coeur du chaos, cree les architectes : Dialga, Palkia, Giratina, puis la terre, la mer, le ciel (Groudon, Kyogre, Rayquaza) et Regigigas avec ses golems.
 - Il faconne ensuite les premiers vivants : un homme, une femme, et Mew.
 - Le trio des lacs donne la conscience a tous les etres. Humains et Pokemon partagent d'abord un seul esprit.
-- Mew pond les proto-Pokemon, qui divergent en especes sur des millenaires. Les humains, eux, changent peu.
+- Mew, seul etre capable de parthenogenese, pond a l'aube de la vie des proto-Pokemon proches de lui, presque tous Psy, puis s'arrete. Leurs descendances divergent en especes sur des millenaires ; le milieu leur donne leurs types. Les humains, eux, changent peu.
 - Giratina, eveille, veut mettre sa violence au service d'une domination des Pokemon. Arceus le bannit.
 - Arceus veut la liberte de ses creations, quitte a les laisser se faire dominer. Il se tait (cf. Creation_et_Theologie).
 
@@ -40,27 +40,33 @@
 - Les Pokemon deviennent jouets, armes, compagnons et nourriture. Le monde tombe ; le Bois tient.
 - La tribu devient un refuge cosmopolite pour les derniers etres libres.
 - 20 av. N, deuxieme vague : le Scope perce la brume. Traque, la tribu devient nomade. La plupart des Zoroark du clan finissent revenants.
+- 16-15 av. N : au labo de Cramois'Ile, Mew captif pond pour la premiere fois depuis la prehistoire. Il en nait Mewtwo, proto-Pokemon (15 av. N). Mewtwo rase le labo, Mew s'evade ; Giovanni, jeune chef de la Team Rocket, fait de Mewtwo son esclave sous armure.
+- 10 av. N : Mewtwo detruit la base de la Rocket. Mew l'arrete en plein massacre d'une Pension ; apres un combat nul, Mewtwo accepte sa voie : ne tuer que les monstres. Il devient le sauveur brutal dont parlent les Pokemon rebelles.
 
 ## L'An 0 et Unys
 
 - A l'An 0, le clan n'est plus que la famille directe : Zoroark, Zeraora, Zoltraak, Nyx.
 - L'espoir d'une terre isolee, Unys, decide la naissance de Zorua ; sa naissance decide l'exode.
-- La tribu (environ 150 membres) passe par la route du nord et s'installe au Bois des Illusions, ou elle forme un village.
+- La tribu (environ 150 membres) passe par la route du nord et s'installe au Bois des Illusions, ou elle forme un village cache par la brume du chef.
 - Elle devient la famille de N, un orphelin humain des bois, frere de lait de Zorua, jusqu'a ce que Ghetis l'adopte.
 
 ## Le temps des jeux
 
-- An 5 : Rouge/Bleu et Rubis/Saphir. An 8 : Or/Argent et Diamant/Perle.
+- An 5 : Rouge/Bleu et Rubis/Saphir ; Giovanni dissout la Team Rocket. An 8 : Or/Argent et Diamant/Perle.
 - An 20 : Noir/Blanc. N, roi fantoche de la Team Plasma, prend la Ligue d'Unys ; son Zoroark est Zorua.
 - An 22 : Noir 2/Blanc 2 et X/Y. An 24 : Soleil/Lune. An 25 : Epee/Bouclier. An 27 : Legendes Z-A.
 
 ## Divergences actees (principales)
 
 - Zeraora : femelle, nee Zoroark, mere de Zorua.
-- Tous les Pokemon naissent d'un oeuf, dieux compris ; l'espece du petit est a 50/50.
+- Tous les Pokemon naissent d'un oeuf, dieux compris ; l'espece du petit est a 50/50 ; une mutation ne se transmet pas.
 - Le lieu de naissance ne change pas la forme regionale.
 - Le trio des lacs vient apres les premiers vivants.
+- Toutes les especes portent le nom d'un individu, crie ; seule exception : Mewtwo.
+- Les branches d'Evoli sont des mutations, donc des especes.
 - Le nom "Zorua" entre au Pokedex par N ; le Zorua offert par Rood n'existe pas.
+- La "Zoroark femelle" du Bois des Illusions est le chef, deguise en femme.
+- Mewtwo : proto-Pokemon ne d'un oeuf de Mew, pas un clone ; du film 1, seul le fil Mewtwo x Giovanni.
 
 ---
 

@@ -1,6 +1,6 @@
 # Sommaire - Pokemon
 
-- version : W2
+- version : W4
 
 ## WIKI
 
@@ -10,22 +10,22 @@
 
 ### Racine
 Description : pages transversales de l'univers.
-- Resume.md (W1) - histoire du monde telle qu'etablie : premisse, creation, ancien temps, invention de la capture et premiere vague, ere de la Ball de masse et deuxieme vague, An 0 et Unys, temps des jeux (An 5-27), divergences principales
+- Resume.md (W2) - histoire du monde telle qu'etablie : premisse, creation (Mew et les proto-Pokemon), ancien temps, invention de la capture et premiere vague, ere de la Ball de masse, deuxieme vague et Mewtwo (15-10 av. N), An 0 et Unys, temps des jeux (An 5-27), divergences principales
 
 ### Lore/
 Description : lore structurel et transversal.
-- Chronologie.md (W3) - VERROUILLEE ; regle de datation (An 0 = 1991), frise de la creation a l'An 27, notes (PC, retard des Balls a Unys, sources)
-- Creation_et_Theologie.md (W3) - Arceus (une seule intervention, Hisui : mandat "rencontrer", fragment remis au pionnier), ordre de creation, option C (esprit commun), Mew et Mewtwo, Giratina et Percupio, cultes et mythes humains
+- Chronologie.md (W5) - VERROUILLEE ; regle de datation (An 0 = 1991), frise de la creation a l'An 27 (dont la sequence de Mewtwo, 16-10 av. N), notes (PC, retard des Balls a Unys, sources)
+- Creation_et_Theologie.md (W5) - Arceus (une seule intervention, Hisui : mandat "rencontrer", fragment remis au pionnier), ordre de creation, option C (esprit commun), Mew (parthenogenese, proto-Pokemon, ponte en captivite), Giratina et Percupio, cultes et mythes humains
 - Histoire_du_Clan.md (W3) - vocabulaire clan/tribu, Bois aux Chenes, premiere vague (exil, massacre, revenants, mutation et retour de Zeraora), ere de la Ball de masse, deuxieme vague, le clan fond, An 0 (Zorua, repere du clan, exode, traversee), installation a Unys, N
 
 ### Systemes/
 Description : regles du vivant.
-- Legendaires.md (W1) - uniques par conception, critere de tri, regle des architectes, mutations, exceptions, gradient de puissance, extinction
-- Personne_Langue_Alimentation.md (W3) - critere de personne, langue commune et asymetrie, parole humaine (physiologie puis apprentissage ; Vulpes illusoria muets), statut des Pokemon chez les humains, faune sans animaux, predation, anthropophagie, canon culinaire
+- Legendaires.md (W3) - uniques par conception, critere de tri, regle des architectes, mutations (non hereditaires), rejeton de Mew (Mewtwo), exceptions, gradient de puissance, extinction
+- Personne_Langue_Alimentation.md (W4) - critere de personne, langue commune et asymetrie (bain de langue dans l'enfance, sinon les seuls noms cries), parole humaine (physiologie puis apprentissage ; Vulpes illusoria muets), statut des Pokemon chez les humains, faune sans animaux, predation, anthropophagie, canon culinaire
 - Types_et_Spectre.md (W2) - variation, variantes regionales, types a trois etages, attaques = grammaire humaine, spectre et bandes, atrophie, "quatre"
-- Evolution_et_Majorite.md (W2) - majorite (ET logique), cinq declencheurs d'evolution, esperance de vie
-- Reproduction.md (W2) - principe (modele reel, sauf Pokedex contraire), oeuf universel, fecondation interne ou externe, retrecissement prenatal, ponte cyclique ou induite, oeufs non fecondes = nourriture, lactation, regle de la perte, couples fertiles, fertilite = majorite, petit a 50/50, Metamorph, soins aux petits
-- Especes_Taxonomie.md (W1) - nommage des especes par les cris, espece et Pokedex, table des binomes et groupes d'oeuf, latin, biais de population
+- Evolution_et_Majorite.md (W4) - majorite (ET logique), croissance par paliers et maturation, cinq declencheurs d'evolution, Evoli (mutation, pas evolution), esperance de vie
+- Reproduction.md (W4) - principe (modele reel, sauf Pokedex contraire), oeuf universel, parthenogenese (Mew seul), fecondation interne ou externe, retrecissement prenatal, ponte cyclique ou induite, oeufs non fecondes = nourriture, lactation, regle de la perte, couples fertiles, fertilite = majorite, petit a 50/50 (parent mute = espece d'origine), Metamorph, soins aux petits
+- Especes_Taxonomie.md (W3) - nommage par les cris (toutes les especes ; Mew, exception Mewtwo), espece et Pokedex, mutations et heredite, table des binomes (dont Evolutio) et groupes d'oeuf, latin, genres (Vulpes, Furetta), usage des binomes, biais de population
 
 ### Machine/
 Description : la machine humaine, technologies et institutions de capture ; pour chaque mecanique, canon (jeu) puis lecture dans le monde.
@@ -38,22 +38,22 @@ Description : la machine humaine, technologies et institutions de capture ; pour
 ### Factions/
 Description : groupes de pouvoir et collectifs.
 - La_Tribu.md (W2) - nature (guerilla, refuge cosmopolite, ~150 membres), clan en tete (famille directe a l'An 0), face a la capture, unite d'elite, Zoroark et Zorua au Pokedex, especes actees, regles internes
-- Team_Plasma.md (W2) - structure (Ghetis, Sages), doctrine et actes, N roi fantoche (An 20), les deux Plasma (An 22)
+- Team_Plasma.md (W3) - structure (Ghetis, Sages, Genesect et Labo P2), doctrine et actes, N roi fantoche (An 20), les deux Plasma (An 22 ; Venus et Colombe)
 
 ### Lieux/
 Description : regions et lieux du perimetre.
 - Johto_et_Hisui.md (W1) - Bois aux Chenes, Ecorcia, Route 34 et Doublonville, reperes de Johto ; Hisui, vallee des revenants ; route du nord
-- Unys.md (W2) - la region, Bois des Illusions (refuge principal, village), ruines du chateau de N, Ligue d'Unys, Rocket absente, autres lieux, precedent de resistance
+- Unys.md (W3) - la region, Bois des Illusions (refuge principal, village ; la "Zoroark femelle" est le chef), ruines du Palais de N, Ligue d'Unys, Rocket absente, autres lieux, precedent de resistance
 
 ### Personnages/
 Description : fiches noyau des entites du monde (neutres, reutilisables entre parties). Trajectoire datee alimentee a chaud arc par arc.
 - Zoltraak.md (W1) - le prota : identite, apparence, capacites (illusion, Electrik acquis), psychologie, manies et gouts, croyance, relations, histoire (enfance, Nyx, exode)
-- Zoroark.md (W1) - le chef : identite (nom devenu espece, exceptionnel), apparence, gardien de la brume, sagesse, manies et gouts, croyance, relations, histoire
-- Nyx.md (W1) - Noctali (Evolutio nocturna), compagne de Zoltraak : identite, apparence (marque du milieu), capacites, gardienne et educatrice, captivite et liberation, relations
+- Zoroark.md (W2) - le chef : identite (nom devenu espece, exceptionnel), apparence, gardien de la brume (dont le Bois des Illusions), deguisement en femme (la "Zoroark du Bois" du canon), sagesse, manies et gouts, croyance (Arceus, Mewtwo), relations, histoire
+- Nyx.md (W2) - Noctali (Evolutio nocturna), compagne de Zoltraak : identite, apparence (marque du milieu), capacites, gardienne et educatrice, captivite et liberation, relations
 - Zeraora.md (W1) - legendaire (Vulpes interfectrix) : identite, apparence, lecture de la mutation, capacites, psychologie, croyance (dieux de la foudre), relations, histoire
 - Zorua.md (W1) - fils du chef et de Zeraora : identite, apparence (stade Zorua), illusion muette, psychologie, gouts (ni humain ni chair), croyance, relations ; traits jusqu'a R2
-- N.md (W1) - l'enfant du clan : nom (N, puis Natural), apparence (enfant), comprend et parle la langue des Pokemon, gouts, croyance, relations ; traits jusqu'a R2
-- A venir : Mewtwo, Zoroark du Bois des Illusions. En attendant, leurs notices vivent en BIBLE SB5.
+- N.md (W2) - l'enfant du clan : nom (N, puis Natural), apparence (enfant), comprend et parle la langue des Pokemon, gouts, croyance, relations (miroir de Mewtwo) ; traits jusqu'a R2
+- Mewtwo.md (W2) - legendaire, proto-Pokemon ne d'un oeuf de Mew : identite (ne en 15 av. N, mineur a R1), apparence, capacites, psychologie (voie de Mew, textes humains), culte (sauveur brutal a R1), relations (Mew, Fuji, Giovanni, miroir de N), histoire (labo, servitude, pacte), sources et divergences (film 1 : fil Mewtwo x Giovanni seul)
 
 > ROADMAPS NON INDEXEES EN JEU. `Roadmap/<Prota>/` n'est pas liste ici : sources de build, lues en listant directement le dossier, jamais fetchees en narration.
 >

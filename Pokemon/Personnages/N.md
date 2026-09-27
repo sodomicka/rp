@@ -1,6 +1,6 @@
 # N
 
-- version : W1
+- version : W2
 
 ## Identite
 
@@ -47,6 +47,7 @@
 - Nyx : plus a reculons, puis elle le traite comme son propre petit, comme elle le faisait deja avec Zorua.
 - La tribu : ses Pokemon les plus habiles lui tissent ses vetements.
 - Ghetis : pere adoptif apres R2 (cf. Team_Plasma).
+- Mewtwo : son miroir, selon le worldbuilder (thread 7). Chacun nait dans le camp adverse et s'en voit imposer la vision : N par l'opprime, Mewtwo par l'oppresseur (cf. Mewtwo).
 
 ## Histoire
 

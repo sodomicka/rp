@@ -1,6 +1,6 @@
 # Reproduction
 
-- version : W2
+- version : W4
 
 ## Principe
 
@@ -14,6 +14,7 @@
 - Naitre n'est pas etre fabrique [LOGIQUE MJ] : les golems de Regigigas et le premier Porygon sont fabriques, pas nes.
 - Les Porygon suivants naissent d'un oeuf (groupe Mineral, avec Metamorph).
 - Reproduction sexuee. Fecondation interne par defaut, puis ponte (thread 6).
+- Seule exception : Mew, seul etre capable de parthenogenese (thread 7 ; cf. Creation_et_Theologie).
 - Fecondation externe pour les especes qui fraient, fixee espece par espece. Modele canon : Poissoroy a sa saison des amours dans les rivieres et les lacs ; le male creuse un nid dans le lit de la riviere ; les deux parents gardent le nid et les oeufs un peu plus d'un mois [POKEDEX].
 - Retrecissement prenatal (thread 6) : dans l'oeuf, l'embryon est replie par le reflexe de retrecissement que la Ball exploite (cf. Poke_Ball), et se deploie a l'eclosion. Le petit nait a la taille de son premier stade, et l'oeuf reste portable. Sans ce reflexe, un Ptiravi (24,4 kg) ne tiendrait pas dans l'oeuf d'une Leveinard (34,6 kg).
 
@@ -51,13 +52,14 @@
 ## Le petit
 
 - Espece du petit : 50/50 entre pere et mere [DIVERGENCE RP : canon = espece de la mere].
+- Un parent mute compte pour son espece d'origine : la mutation n'est pas hereditaire (cf. Especes_Taxonomie). Canon : l'oeuf d'un Noctali donne un Evoli.
 - Hybridation de certains traits possible ; l'espece reste toujours clairement l'une des deux. Exemple : Zorua porte une meche bleue heritee de Zeraora.
 - Forme du petit : heredite, jamais le lieu de naissance (cf. Types_et_Spectre).
 - Especes d'un seul sexe : elles se perpetuent avec l'autre sexe d'especes de leurs groupes d'oeuf, petit a 50/50. Exemple : Folletus petulans, tout male [LOGIQUE MJ].
 
 ## Metamorph
 
-- Seul partenaire des especes sans sexe.
+- Seul partenaire des especes sans sexe, Mew excepte (parthenogenese).
 - En copie : materiel genetique neutre -> 100 % espece du partenaire.
 - Non transforme : 50 % Metamorph.
 - Tres prise des eleveurs : conservation ciblee, elevage mono-espece.

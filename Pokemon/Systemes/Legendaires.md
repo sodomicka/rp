@@ -1,6 +1,6 @@
 # Legendaires
 
-- version : W1
+- version : W3
 
 ## Uniques par conception
 
@@ -11,7 +11,7 @@
 ## Critere de tri
 
 - Unique par conception si le canon lui attache une fonction sans laquelle le monde ne tourne pas : temps, espace, antimatiere, terre, mer, ciel, savoir, emotion, volonte...
-- Sinon : mutation.
+- Sinon : mutation. Seule exception : Mewtwo, rejeton de Mew (ci-dessous).
 - Application region par region, quand la region entre en jeu.
 - Regle des architectes : un architecte faconne ce qui existe sans la vie. Toute fonction qui suppose du vivant (fertilite, ecosysteme) vient apres Mew. Exemple : Zygarde.
 
@@ -20,9 +20,14 @@
 - La plupart des legendaires sont des mutations : individus exceptionnels issus d'une espece connue, ou d'un ancetre commun (proto-Pokemon de Mew).
 - Electhor : oiseau mute par son milieu, par eveil ou par puissance ; pas une creation ex nihilo.
 - Zeraora : mutation d'une Zoroark, seule representante de son espece (cf. Histoire_du_Clan).
-- Mewtwo : mutation forcee en labo d'un oeuf de Mew (cf. Creation_et_Theologie).
+- Une mutation n'est pas hereditaire : le parent mute transmet son espece d'origine (cf. Especes_Taxonomie).
 - Precedent canon de mutation individuelle : Diancie, transformation soudaine d'un Strassie [POKEDEX].
 - "Fabuleux" est une etiquette humaine de rarete. "Sans sexe" et "aucun oeuf decouvert" sont des constats humains, pas des sterilites [LOGIQUE MJ].
+
+## Rejeton de Mew
+
+- Troisieme cas, ni piece de la creation ni mutation : Mewtwo, proto-Pokemon pondu par Mew en 15 av. N (decision du worldbuilder, thread 7 ; cf. Mewtwo).
+- Legendaire par sa proximite genetique avec Mew et par le renforcement subi au labo [LOGIQUE MJ].
 
 ## Exceptions
 

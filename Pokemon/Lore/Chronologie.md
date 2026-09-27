@@ -1,11 +1,12 @@
 # Chronologie
 
-- version : W3
+- version : W5
 
 ## Statut
 
 - VERROUILLEE depuis le thread 4 : aucun recalcul d'un build a l'autre.
 - Seule une source canon nouvelle peut la toucher : signalement au worldbuilder, rien ne bouge sans son feu vert.
+- Ajouts (thread 7), feu vert du worldbuilder : sequence de Mewtwo, 16-10 av. N. Aucune date existante recalculee.
 - Datation en "av. N" / "ap. N" ; An 0 = naissance de N. Annee reelle = 1991 + An (ex. 66 av. N = 1991 - 66 = 1925).
 
 ## Regle de datation
@@ -33,6 +34,8 @@
 | 45 av. N (1946) | Opal (VO) prend l'Arene de Ballonlea a 18 ans | 70 ans de charge a Epee/Bouclier : An 25 - 70 = 45 av. N |
 | 25 av. N (1966) | Mustard (VO) bat Opal et devient Maitre de Galar ; regne 18 ans | "Il y a environ 50 ans" a Epee/Bouclier : An 25 - 50 = 25 av. N ; fin de regne : 25 - 18 = 7 av. N |
 | 20 av. N (1971) | Deuxieme vague : l'ancetre des Scopes perce la brume | Traque ; la tribu devient nomade ; detail : cf. Histoire_du_Clan |
+| 16-15 av. N (1975-1976) | Journal du manoir de Cramois'Ile : Mew decouvert en Guyane (5 juillet 16 av. N) ; captif, pousse a pondre, il pond seul ; naissance de Mewtwo, proto-Pokemon (6 fevrier 15 av. N) ; incontrolable le 1er septembre, il rase le labo et Mew s'evade ; Giovanni le recupere dans l'annee | Commanditaire et maitre : Giovanni, 20 ans, chef de la Team Rocket, armure [DIVERGENCE RP : film 1]. Annee de naissance : decision du worldbuilder (thread 7) ; jour et mois : journal ; annee de la decouverte : juillet precede fevrier [LOGIQUE MJ]. Majeur le 6 fevrier An 3 (-15 + 18 = 3). Detail : cf. Mewtwo |
+| 10 av. N (1981) | Apres cinq ans de servitude (-15 + 5 = -10), Mewtwo detruit la base de la Team Rocket ; la meme annee, Mew le trouve en plein massacre d'une Pension, combat nul, pacte | Mewtwo ne tue plus que les monstres ; Giovanni, obsede, le traque ; Mewtwo frappe les bases de la Rocket. Detail : cf. Mewtwo |
 | An 0 (1991) | Naissance de N ; naissance de Zorua, fils du chef et de Zeraora [DIVERGENCE RP] ; exode de la tribu de Johto vers Unys | L'espoir d'Unys decide la naissance de Zorua ; sa naissance decide l'exode |
 | Enfance de N | La tribu est sa famille dans les bois d'Unys, jusqu'a son adoption par Ghetis | Age a l'adoption : non fixe |
 | Entre l'adoption de N et l'An 20 | Le nom "Zorua" entre au Pokedex par N, malgre ses protestations | Nommage : cf. Especes_Taxonomie |
@@ -51,7 +54,7 @@
 - Legendes Arceus se situe au plus 300 ans avant Diamant/Perle (Spiritomb scelle 500 ans avant, "il y a des siecles" a Hisui) : 200 + 8 = 208 <= 300.
 - PC : invente par Leo dans l'ere de la Ball de masse, avant l'An 0. Leo est jeune en canon (parents et grand-pere vivants a l'An 8) -> invention recente, peu avant l'An 0 [LOGIQUE MJ]. Aucune date fixee.
 - Unys : Drayden (Noir 2/Blanc 2) dit que les Poke Balls n'existaient pas quand il etait petit. Les Balls existent ailleurs depuis avant 200 av. N -> retard regional d'Unys [INTERPRETATION]. Age de Drayden inconnu : aucune date.
-- Sources de datation : jeux = canon ; livres officiels annexes retenus pour la Ball moderne et Porygon ; films et anime hors datation.
+- Sources de datation : jeux = canon ; livres officiels annexes retenus pour la Ball moderne et Porygon ; films et anime hors datation, sauf l'exception Mewtwo x Giovanni (film 1), dont la suite posterieure au depart se date en passe 2.
 
 ---
 
