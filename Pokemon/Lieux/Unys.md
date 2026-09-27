@@ -1,6 +1,6 @@
 # Unys
 
-- version : W2
+- version : W3
 
 ## La region
 
@@ -13,22 +13,23 @@
 
 - Canon : petit bois au centre d'Unys, au nord de la Route 16, pres de Meanville (VO Lostlorn Forest ; JP "la foret ou l'on s'egare").
 - Canon : autrefois connu comme un lieu ou l'on se perdait sans raison.
-- Canon : une Zoroark femelle y vit. Elle se deguise en femme silencieuse, seule dans une caravane, et trompe humains et Pokemon par ses illusions pour proteger son foyer.
-- Canon : le cul-de-sac visible est une illusion. Derriere s'etend une plaine ouverte et ventee.
+- Canon (Noir/Blanc) : une "Zoroark femelle" y vit, deguisee en femme silencieuse, seule dans une caravane ; un randonneur dit qu'elle prefere une vie seule et tranquille a courir le monde. Elle trompe humains et Pokemon par ses illusions pour proteger son foyer.
+- Dans le monde : c'est le chef, deguise en femme ; "femelle" est une lecture humaine [DIVERGENCE RP : canon = femelle] (decision du worldbuilder, thread 7 ; cf. Zoroark).
+- Canon : le cul-de-sac visible est une illusion ; quand la "Zoroark" est vaincue, l'illusion tombe et revele une plaine ouverte et ventee.
+- Dans le monde : cette illusion est la brume du chef (thread 7 ; cf. Zoroark).
 - Canon : elle reagit violemment a une bete legendaire de Johto chromatique (Raikou, Entei ou Suicune) ; un randonneur suppose un conflit passe.
 - Canon : dans Noir 2/Blanc 2, un randonneur qui est en realite un Zoroark parle d'elle.
 - Dans le monde : refuge principal de la tribu a Unys, le bois et la plaine qu'il cache, au coeur des forets centrales. La tribu (environ 150 membres) y forme un vrai village [LOGIQUE MJ : seul lieu ou le canon installe un Zoroark sauvage chez lui, cache par illusion].
-- Identite de la Zoroark du Bois : non posee.
 
-## Ruines du chateau de N : poste avance
+## Ruines du Palais de N : poste avance
 
-- Canon : N fait surgir son chateau autour de la Ligue (Noir/Blanc, An 20).
-- Canon : dans Noir 2/Blanc 2 (An 22), un Zoroark garde une entree de la Route Victoire, puis guide le joueur jusqu'aux ruines du chateau.
+- Canon : N fait surgir son Palais autour de la Ligue (Noir/Blanc, An 20).
+- Canon : dans Noir 2/Blanc 2 (An 22), un Zoroark garde une entree de la Route Victoire, puis guide le joueur jusqu'aux ruines du Palais.
 - Dans le monde : poste avance de la tribu, sous la Ligue, garde par Zorua.
 
 ## Ligue d'Unys
 
-- Canon : Maitre Goyah. N le bat, puis fait surgir son chateau autour de la Ligue ; les Champions d'Arene d'Unys viennent ouvrir la voie au joueur.
+- Canon : Maitre Goyah. N le bat, puis fait surgir son Palais autour de la Ligue ; les Champions d'Arene d'Unys viennent ouvrir la voie au joueur.
 - Canon : entre Noir/Blanc et Noir 2/Blanc 2, Goyah se retire ; Iris devient Maitre.
 - Canon : Pieris, du Conseil 4, est specialiste Tenebres ; il aligne un Scalproie, comme Ghetis.
 - Dans le monde : la Ligue d'Unys existe bien avant l'An 0 [LOGIQUE MJ].
@@ -41,7 +42,7 @@
 ## Autres lieux canon
 
 - Grotte Electrolithe : N y dit son degout du Pokedex.
-- Giant Chasm (VO) : Kyurem ; la Plasma de Ghetis y opere (An 22).
+- Grotte Cyclopeenne (VO Giant Chasm) : Kyurem ; la Plasma de Ghetis y opere (An 22).
 - Port Yoneuve : planque de la Plasma de Rood (An 22).
 
 ## Un precedent de resistance

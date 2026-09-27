@@ -1,6 +1,6 @@
 # Zoroark
 
-- version : W1
+- version : W2
 
 ## Identite
 
@@ -32,6 +32,9 @@ Base : le Zoroark du canon, palette conservee.
 
 - Tenebres : illusion de l'espece ; spectre au Pokedex, cf. La_Tribu.
 - Gardien de la brume : l'illusion qui cache les repaires du clan (au Pokedex : le decor illusoire qui protege le repaire). Percee en 20 av. N par l'ancetre des Scopes (cf. Histoire_du_Clan).
+- A Unys, sa brume cache la plaine du Bois des Illusions et le village de la tribu (decision du worldbuilder, thread 7 ; cf. Unys).
+- Deguisement face aux humains : une femme. Il a vu que les humains se soucient davantage d'une femme en detresse que d'un homme (thread 7). La femme reste muette : l'illusion ne donne pas la parole (cf. Personne_Langue_Alimentation).
+- C'est la "Zoroark femelle" que le canon installe au Bois des Illusions : "femelle" est la lecture humaine de son deguisement [DIVERGENCE RP : canon = femelle] (cf. Unys).
 - Exceptionnel (cf. Identite).
 - Maniere de combattre : evite le risque et la violence quand il le peut. Perd rarement le controle ; quand il le perd, il massacre (cf. Histoire).
 
@@ -52,6 +55,7 @@ Base : le Zoroark du canon, palette conservee.
 ## Croyance
 
 - Prie Arceus.
+- Prie aussi Mewtwo, figure liberatrice deja connue des rebelles (cf. Mewtwo).
 - Ne prie jamais Giratina : le symbole d'une violence qu'il juge necessaire, mais immonde (cf. Creation_et_Theologie).
 
 ## Relations

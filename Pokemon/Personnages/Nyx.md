@@ -1,12 +1,11 @@
 # Nyx
 
-- version : W1
+- version : W2
 
 ## Identite
 
 - Membre du clan par alliance : compagne de Zoltraak.
-- Espece : Evolutio nocturna (nom humain Noctali), mutation d'Evolutio intacta (nom humain Evoli).
-- Les branches d'Evoli sont des mutations, donc des especes distinctes, comme Zeraora l'est de Zoroark (decision du worldbuilder, thread 6). Appui canon : le code genetique d'Evoli est irregulier, il peut muter sous les radiations des pierres [POKEDEX] ; la lumiere de la lune a modifie le code genetique d'Evoli pour en faire un Noctali [POKEDEX].
+- Espece : Evolutio nocturna (nom humain Noctali), mutation d'Evolutio intacta (nom humain Evoli). Classement et heredite : cf. Especes_Taxonomie ; declencheurs : cf. Evolution_et_Majorite.
 - Groupe d'oeuf : Terrestre (cf. Especes_Taxonomie).
 - Type : Tenebres pur.
 - Sexe : femelle.
