@@ -1,6 +1,6 @@
 # Reproduction
 
-- version : W4
+- version : W5
 
 ## Principe
 
@@ -48,11 +48,12 @@
 - Fertilite = majorite : un mineur ne pond ni ne feconde, quel que soit son stade ; une evolution forcee ne rend pas fertile [LOGIQUE MJ ; ecart canon : le jeu fait pondre des premiers stades comme Zorua. Le canon exclut deja les bebes (Pichu, Melo)].
 - "Aucun oeuf decouvert" (groupe des legendaires et des bebes) : constat humain, pas une sterilite [LOGIQUE MJ]. Coherent avec Zeraora mere de Zorua.
 - Les revenants (Vulpes spectralis) sont fertiles : les Spectres ont une descendance.
+- Le petit de deux Vulpes spectralis est un Vulpes spectralis : revenir d'entre les morts n'est pas une mutation, l'espece se transmet (decision du worldbuilder, thread 8). Couple mixte spectralis x illusoria : petit a 50/50, regle generale [LOGIQUE MJ].
 
 ## Le petit
 
 - Espece du petit : 50/50 entre pere et mere [DIVERGENCE RP : canon = espece de la mere].
-- Un parent mute compte pour son espece d'origine : la mutation n'est pas hereditaire (cf. Especes_Taxonomie). Canon : l'oeuf d'un Noctali donne un Evoli.
+- Un parent mute compte pour son espece d'origine : la mutation n'est pas hereditaire (cf. Especes_Taxonomie). Canon : l'oeuf d'un Noctali donne un Evoli. Un revenant n'est pas un mute : il compte pour Vulpes spectralis.
 - Hybridation de certains traits possible ; l'espece reste toujours clairement l'une des deux. Exemple : Zorua porte une meche bleue heritee de Zeraora.
 - Forme du petit : heredite, jamais le lieu de naissance (cf. Types_et_Spectre).
 - Especes d'un seul sexe : elles se perpetuent avec l'autre sexe d'especes de leurs groupes d'oeuf, petit a 50/50. Exemple : Folletus petulans, tout male [LOGIQUE MJ].

@@ -1,6 +1,6 @@
 # Resume
 
-- version : W2
+- version : W3
 
 ## Premisse
 
@@ -29,6 +29,7 @@
 - Avant 200 av. N, des humains inventent la Poke Ball, taillee dans des Noigrumes, pres d'Ecorcia.
 - Premiere vague : refusant de vivre cachee, Zeraora mene une partie du clan vers le nord. A Hisui, des mercenaires et leurs Pohmarmottes esclaves massacrent les siens.
 - Les morts reviennent en revenants. Zeraora mute en Vulpes interfectrix, Electrik pur, puis rentre a Johto avec ses spectres et des Pohmarmottes liberees : l'unite d'elite.
+- Quelques spectres restent dans la vallee, pour la guerre. Leurs descendants forment les Revenants : une bande sans nom ni hierarchie, qui ne vit que pour tuer des humains.
 - 202 av. N : le Groupe Galaxie colonise Hisui avec ses Balls.
 - 200 av. N : Arceus intervient pour la seule fois. Il envoie a Hisui un humain de l'epoque moderne, avec le mandat de rencontrer tous les Pokemon. Les humains comprennent capturer.
 - Le pionnier bat Giratina et Percupio, acheve le premier Pokedex et recoit une part d'Arceus.
@@ -47,7 +48,8 @@
 
 - A l'An 0, le clan n'est plus que la famille directe : Zoroark, Zeraora, Zoltraak, Nyx.
 - L'espoir d'une terre isolee, Unys, decide la naissance de Zorua ; sa naissance decide l'exode.
-- La tribu (environ 150 membres) passe par la route du nord et s'installe au Bois des Illusions, ou elle forme un village cache par la brume du chef.
+- La tribu (environ 150 membres) passe par la route du nord. A la vallee des revenants, quelques jours de chasse avec les Revenants suffisent : meme Zeraora et Zoltraak jugent leur violence excessive et trop risquee.
+- Unys decoit : elle est deja aux humains, aussi avances qu'ailleurs. La tribu s'installe au Bois des Illusions, ou elle forme un village cache par la brume du chef.
 - Elle devient la famille de N, un orphelin humain des bois, frere de lait de Zorua, jusqu'a ce que Ghetis l'adopte.
 
 ## Le temps des jeux
@@ -67,6 +69,7 @@
 - Le nom "Zorua" entre au Pokedex par N ; le Zorua offert par Rood n'existe pas.
 - La "Zoroark femelle" du Bois des Illusions est le chef, deguise en femme.
 - Mewtwo : proto-Pokemon ne d'un oeuf de Mew, pas un clone ; du film 1, seul le fil Mewtwo x Giovanni.
+- Les Revenants ne haissent que les humains (canon : les humains et les Pokemon) ; l'espece Vulpes spectralis se transmet.
 
 ---
 

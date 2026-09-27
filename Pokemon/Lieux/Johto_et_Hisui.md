@@ -1,6 +1,6 @@
 # Johto et Hisui
 
-- version : W1
+- version : W2
 
 ## Johto : patrie perdue du clan
 
@@ -33,16 +33,19 @@
 
 - Canon : le Sinnoh d'autrefois. Balls recentes et artisanales ; ni Centre, ni PC, ni Arene ; des paturages.
 - Le Groupe Galaxie s'installe a Rusti-Cite (future Feli-Cite). Les clans Diamant et Perle y vivent deja.
-- Alabaster Icelands (VO) : le nord glaciaire. Le jeu y place Zorua et Zoroark de Hisui.
+- Terres Immaculees (VO Alabaster Icelands) : le nord glaciaire. Le jeu y place Zorua et Zoroark de Hisui.
 - Canon (site officiel) : des Zorua chasses d'autres terres par des humains, que leurs illusions derangeaient, migrent a Hisui. Ils perissent du climat et des conflits. Leurs ames renaissent en Spectres, par haine des humains et des Pokemon.
 - Canon (site officiel) : le Zoroark de Hisui, feroce avec tous, protege ceux qu'il tient pour sa famille, dont les Zorua de Hisui.
-- Zoroark de Hisui : fourrure blanche hirsute, incarnation de la mort ; il attaque avec une energie amere si intense qu'elle lui lacere le corps [POKEDEX].
+- Zorua de Hisui : serait une ame disparue, ressuscitee a Hisui ; sa rancoeur s'eleve en energie au-dessus de sa tete, prend l'apparence de ses ennemis, puis se dissipe [POKEDEX, rumeur, Legendes Arceus].
+- Zoroark de Hisui : sa criniere blanche echevelee lui donne l'allure d'un dieu de la mort ; son ressentiment le dechire physiquement, mais lui donne une energie capable d'abattre tout ennemi [POKEDEX, Legendes Arceus]. Les populations de Hisui l'assimilent a un dieu de la mort (Pokepedia).
+- Dans le monde : ce sont les Vulpes spectralis (cf. Especes_Taxonomie).
 
 ### La vallee des revenants
 
-- Vallee des Alabaster Icelands, pres de la terre promise de Zeraora.
+- Vallee des Terres Immaculees, pres de la terre promise de Zeraora. A l'An 0, le nord de Sinnoh.
 - Lieu du massacre de la premiere vague (cf. Histoire_du_Clan). Les Zoroark morts, petits compris, y ont recu une sepulture.
-- Quelques spectres choisissent de la hanter et d'y chasser les humains : ce sont ceux que montre le jeu.
+- Au retour de Zeraora, quelques spectres choisissent de la hanter et d'y chasser les humains : ce sont ceux que montre le jeu.
+- Eux et leurs descendants forment les Revenants, une quinzaine a l'An 0 : cf. Factions/Revenants (nature, methode, halte de la tribu a l'An 0).
 
 ## Route du nord
 

@@ -1,12 +1,13 @@
 # Unys
 
-- version : W3
+- version : W4
 
 ## La region
 
 - Canon : loin de Kanto, Johto, Hoenn et Sinnoh.
 - Pour la tribu : une terre qu'on prenait pour une ile, coupee des regions habitees par les hommes. Le refuge espere, loin de la guerre.
-- Les Balls y seraient arrivees tard [INTERPRETATION] (Drayden : cf. Chronologie, Notes).
+- Les Balls y seraient arrivees tard [INTERPRETATION] (Drayden : cf. Chronologie, Notes). Mais avant l'An 0 : l'enfance de Drayden precede leur arrivee [LOGIQUE MJ].
+- A l'arrivee de la tribu (An 0), Unys decoit : deja peuplee d'humains aussi avances qu'ailleurs. Le refuge espere n'existe pas (decision du worldbuilder).
 - Lore canon d'Unys garde intact (histoire de N et de la Team Plasma : cf. Team_Plasma).
 
 ## Bois des Illusions : refuge principal
@@ -41,6 +42,7 @@
 
 ## Autres lieux canon
 
+- Meanville, ville voisine du Bois des Illusions : sur sa grande roue, N se revele roi de la Team Plasma au joueur (Noir/Blanc, An 20).
 - Grotte Electrolithe : N y dit son degout du Pokedex.
 - Grotte Cyclopeenne (VO Giant Chasm) : Kyurem ; la Plasma de Ghetis y opere (An 22).
 - Port Yoneuve : planque de la Plasma de Rood (An 22).

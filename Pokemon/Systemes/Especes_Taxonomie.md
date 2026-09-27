@@ -1,6 +1,6 @@
 # Especes et taxonomie
 
-- version : W3
+- version : W4
 
 ## Nommage des especes
 
@@ -30,6 +30,8 @@
   - Meme regle pour Vulpes interfectrix [LOGIQUE MJ] : cote Zeraora, un petit est Vulpes illusoria. Coherent avec Zorua. L'espece reste a une seule representante.
   - Hors regle : Mewtwo, qui n'est pas une mutation. Sa descendance n'est pas posee (Metamorph seul partenaire, cf. Reproduction).
 - Les variantes regionales, elles, se transmettent (cf. Types_et_Spectre).
+- Revenir d'entre les morts n'est pas une mutation : Vulpes spectralis se transmet (decision du worldbuilder, thread 8 ; cf. Reproduction).
+- Vocabulaire : "revenant" designe tout Vulpes spectralis, mort revenu par rancoeur ou ne d'un oeuf ; ceux de la vallee se nomment tous ainsi (decision du worldbuilder, thread 8 ; cf. Revenants). Au besoin, on precise : mort revenu, ou ne a la vallee.
 
 ## Binomes poses
 
@@ -37,7 +39,7 @@
 |---|---|---|---|
 | Vulpes illusoria | trompeur | Zorua, Zoroark | Terrestre |
 | Vulpes interfectrix | la meurtriere | Zeraora, seule representante | aucun oeuf decouvert (constat humain) ; nee Vulpes illusoria |
-| Vulpes spectralis | spectral (neo-latin) | revenants de Hisui (Zorua et Zoroark de Hisui) | Terrestre |
+| Vulpes spectralis | spectral (neo-latin) | revenants de Hisui et leurs petits (Zorua et Zoroark de Hisui) | Terrestre |
 | Vulpes ostentatrix | celle qui fait etalage | Goupix, Feunard | Terrestre |
 | Vulpes furans | qui vole (de furari) | Goupilou, Roublenard | Terrestre |
 | Virgo sanatrix | celle qui soigne | Ptiravi, Leveinard, Leuphorie (lignee toute femelle) | Fee ; Ptiravi : aucun oeuf decouvert (bebe) |

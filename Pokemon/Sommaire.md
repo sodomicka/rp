@@ -1,6 +1,6 @@
 # Sommaire - Pokemon
 
-- version : W4
+- version : W5
 
 ## WIKI
 
@@ -10,7 +10,7 @@
 
 ### Racine
 Description : pages transversales de l'univers.
-- Resume.md (W2) - histoire du monde telle qu'etablie : premisse, creation (Mew et les proto-Pokemon), ancien temps, invention de la capture et premiere vague, ere de la Ball de masse, deuxieme vague et Mewtwo (15-10 av. N), An 0 et Unys, temps des jeux (An 5-27), divergences principales
+- Resume.md (W3) - histoire du monde telle qu'etablie : premisse, creation (Mew et les proto-Pokemon), ancien temps, invention de la capture et premiere vague, ere de la Ball de masse, deuxieme vague et Mewtwo (15-10 av. N), An 0 et Unys, temps des jeux (An 5-27), divergences principales
 
 ### Lore/
 Description : lore structurel et transversal.
@@ -24,8 +24,8 @@ Description : regles du vivant.
 - Personne_Langue_Alimentation.md (W4) - critere de personne, langue commune et asymetrie (bain de langue dans l'enfance, sinon les seuls noms cries), parole humaine (physiologie puis apprentissage ; Vulpes illusoria muets), statut des Pokemon chez les humains, faune sans animaux, predation, anthropophagie, canon culinaire
 - Types_et_Spectre.md (W2) - variation, variantes regionales, types a trois etages, attaques = grammaire humaine, spectre et bandes, atrophie, "quatre"
 - Evolution_et_Majorite.md (W4) - majorite (ET logique), croissance par paliers et maturation, cinq declencheurs d'evolution, Evoli (mutation, pas evolution), esperance de vie
-- Reproduction.md (W4) - principe (modele reel, sauf Pokedex contraire), oeuf universel, parthenogenese (Mew seul), fecondation interne ou externe, retrecissement prenatal, ponte cyclique ou induite, oeufs non fecondes = nourriture, lactation, regle de la perte, couples fertiles, fertilite = majorite, petit a 50/50 (parent mute = espece d'origine), Metamorph, soins aux petits
-- Especes_Taxonomie.md (W3) - nommage par les cris (toutes les especes ; Mew, exception Mewtwo), espece et Pokedex, mutations et heredite, table des binomes (dont Evolutio) et groupes d'oeuf, latin, genres (Vulpes, Furetta), usage des binomes, biais de population
+- Reproduction.md (W5) - principe (modele reel, sauf Pokedex contraire), oeuf universel, parthenogenese (Mew seul), fecondation interne ou externe, retrecissement prenatal, ponte cyclique ou induite, oeufs non fecondes = nourriture, lactation, regle de la perte, couples fertiles, fertilite = majorite, petit a 50/50 (parent mute = espece d'origine ; Vulpes spectralis hereditaire), Metamorph, soins aux petits
+- Especes_Taxonomie.md (W4) - nommage par les cris (toutes les especes ; Mew, exception Mewtwo), espece et Pokedex, mutations et heredite (spectralis hereditaire ; "revenant" = tout spectralis), table des binomes (dont Evolutio) et groupes d'oeuf, latin, genres (Vulpes, Furetta), usage des binomes, biais de population
 
 ### Machine/
 Description : la machine humaine, technologies et institutions de capture ; pour chaque mecanique, canon (jeu) puis lecture dans le monde.
@@ -39,11 +39,12 @@ Description : la machine humaine, technologies et institutions de capture ; pour
 Description : groupes de pouvoir et collectifs.
 - La_Tribu.md (W2) - nature (guerilla, refuge cosmopolite, ~150 membres), clan en tete (famille directe a l'An 0), face a la capture, unite d'elite, Zoroark et Zorua au Pokedex, especes actees, regles internes
 - Team_Plasma.md (W3) - structure (Ghetis, Sages, Genesect et Labo P2), doctrine et actes, N roi fantoche (An 20), les deux Plasma (An 22 ; Venus et Colombe)
+- Revenants.md (W1) - la bande de la vallee (~15 a l'An 0) : nature (rupture avec le clan, vengeance pure), origine, anarchie sans nom, motivation, methode de chasse, alimentation, physique canon de Hisui, rapports aux autres, halte de la tribu a l'An 0
 
 ### Lieux/
 Description : regions et lieux du perimetre.
-- Johto_et_Hisui.md (W1) - Bois aux Chenes, Ecorcia, Route 34 et Doublonville, reperes de Johto ; Hisui, vallee des revenants ; route du nord
-- Unys.md (W3) - la region, Bois des Illusions (refuge principal, village ; la "Zoroark femelle" est le chef), ruines du Palais de N, Ligue d'Unys, Rocket absente, autres lieux, precedent de resistance
+- Johto_et_Hisui.md (W2) - Bois aux Chenes, Ecorcia, Route 34 et Doublonville, reperes de Johto ; Hisui (Terres Immaculees, Pokedex de Zorua et Zoroark de Hisui), vallee des revenants ; route du nord
+- Unys.md (W4) - la region (deception de la tribu a l'An 0), Bois des Illusions (refuge principal, village ; la "Zoroark femelle" est le chef), ruines du Palais de N, Ligue d'Unys, Rocket absente, autres lieux, precedent de resistance
 
 ### Personnages/
 Description : fiches noyau des entites du monde (neutres, reutilisables entre parties). Trajectoire datee alimentee a chaud arc par arc.
