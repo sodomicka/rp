@@ -1,6 +1,6 @@
 # Personne, langue, alimentation
 
-- version : W5
+- version : W6
 
 ## Personne
 
@@ -24,6 +24,8 @@
 - Certains Pokemon parlent aux humains. Precedents : le Miaouss de la Team Rocket (anime) ; Crehelf, Crefollet et Crefadet par telepathie (Legendes Arceus).
 - Parler humain demande deux choses : une capacite physiologique, propre a chaque espece, puis un apprentissage. Sans l'appareil vocal, pas de parole ; avec, il faut encore apprendre (le Miaouss de la Team Rocket a appris ; les autres Miaouss ne parlent pas).
 - Les Vulpes illusoria n'ont pas l'appareil. L'illusion change l'apparence, pas la gorge : leurs deguisements humains sont muets (Zorua en enfant silencieux, cf. La_Tribu ; le chef et Zoltraak en dame de la brume, femme silencieuse du Bois des Illusions, cf. Zoroark).
+- Un prenom d'une seule lettre, tout Pokemon peut le prononcer, comme un nom crie : le clan appelle N par son nom humain (cf. N). Les lettres, elles, demandent la gorge.
+- Ecrit : le clan ne lit pas. Nyx seule connait le son de quelques lettres, appris de son tortionnaire (cf. Nyx).
 - La telepathie est une voie a part, qui contourne la gorge (trio des lacs ; Mewtwo, cf. Mewtwo).
 - Pour un humain qui ne l'a pas entendue dans son enfance, le seul contenu intelligible est le nom qu'un Pokemon crie, au combat ou dans tout autre contexte (nommage des especes : cf. Especes_Taxonomie).
 

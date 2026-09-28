@@ -1,13 +1,15 @@
 # Chronologie
 
-- version : W6
+- version : W7
 
 ## Statut
 
 - VERROUILLEE : aucun recalcul d'un build a l'autre.
 - Seule une source canon nouvelle peut la toucher : signalement au worldbuilder, rien ne bouge sans son feu vert.
 - Ajout avec feu vert du worldbuilder : sequence de Mewtwo, 16-10 av. N. Aucune date existante recalculee.
+- Deplacement avec feu vert du worldbuilder : Zorua passe de l'An 0 au 24 decembre An -1. Dates ajoutees : N (30 janvier An 0), Elpis (21 mars An 7), fugue et adoption de N (nuit du 1er au 2 janvier An 7).
 - Datation en "av. N" / "ap. N" ; An 0 = naissance de N. Annee reelle = 1991 + An (ex. 66 av. N = 1991 - 66 = 1925).
+- Le clan, lui, compte depuis la naissance de Zorua, cinq semaines plus tot (cf. Histoire_du_Clan).
 
 ## Regle de datation
 
@@ -36,13 +38,15 @@
 | 20 av. N (1971) | Deuxieme vague : l'ancetre des Scopes perce la brume | Traque ; la tribu devient nomade ; detail : cf. Histoire_du_Clan |
 | 16-15 av. N (1975-1976) | Journal du manoir de Cramois'Ile : Mew decouvert en Guyane (5 juillet 16 av. N) ; captif, pousse a pondre, il pond seul ; naissance de Mewtwo, proto-Pokemon (6 fevrier 15 av. N) ; incontrolable le 1er septembre, il rase le labo et Mew s'evade ; Giovanni le recupere dans l'annee | Commanditaire et maitre : Giovanni, 20 ans, chef de la Team Rocket, armure [DIVERGENCE RP : film 1]. Jour et mois : journal, sans annee ; annee de la decouverte : juillet precede fevrier [LOGIQUE MJ]. Majeur le 6 fevrier An 3 (-15 + 18 = 3). Detail : cf. Mewtwo |
 | 10 av. N (1981) | Apres cinq ans de servitude (-15 + 5 = -10), Mewtwo detruit la base de la Team Rocket ; la meme annee, Mew le trouve en plein massacre d'une Pension, combat nul, pacte | Mewtwo ne tue plus que les monstres ; Giovanni, obsede, le traque ; Mewtwo frappe les bases de la Rocket. Detail : cf. Mewtwo |
-| An 0 (1991) | Naissance de N ; naissance de Zorua, fils du chef et de Zeraora [DIVERGENCE RP] ; exode de la tribu de Johto vers Unys | L'espoir d'Unys decide la naissance de Zorua ; sa naissance decide l'exode |
-| Enfance de N | La tribu est sa famille dans les bois d'Unys, jusqu'a son adoption par Ghetis | Age a l'adoption : non fixe |
+| An -1 (1990), 24 decembre | Naissance de Zorua, fils du chef et de Zeraora [DIVERGENCE RP], au Bois aux Chenes | L'espoir d'Unys decide sa naissance ; sa naissance decide l'exode, qui part en plein hiver. Pour le clan, l'An 0 commence la |
+| An 0 (1991) | Naissance de N (30 janvier), dans un village d'Unys ; exode de la tribu de Johto vers Unys, arrivee au Bois des Illusions apres quelques mois | - |
+| Ete An 1 -> An 7 | Enfance de N : recueilli a 18 mois (fin juillet An 1 : 30 janvier An 0 + 18 mois), la tribu est sa famille dans les bois d'Unys | Detail : cf. N |
 | Entre l'adoption de N et l'An 20 | Le nom "Zorua" entre au Pokedex par N, malgre ses protestations | Nommage : cf. Especes_Taxonomie |
 | An 4 (1995) | Creation de Porygon ; Sorbier etudie les systemes Pokedex avec Chen | - |
 | An 5 (1996) | Rouge/Bleu/Jaune, Rouge Feu/Vert Feuille ; Rubis/Saphir/Emeraude, simultanes | - |
+| An 7 (1998) | Nuit du 1er au 2 janvier : N et Zorua, en fugue, recueillis par Ghetis (42 ans), qui leur fait croire le clan mort. 21 mars : eclosion d'Elpis, fille de Zoltraak et de Nyx | Adoption de N a 6 ans et 11 mois ; le clan croit les deux freres tues par des humains. Detail : cf. N, Ghetis, Elpis |
 | An 8 (1999) | Or/Argent/Cristal, HeartGold/SoulSilver (3 ans apres Rouge/Bleu) ; Diamant/Perle/Platine, contemporains [INCERTAIN] | Contemporaneite : tweet de Matsumiya (scenariste, supprime depuis) ; dialogues en jeu contradictoires sur l'ordre |
-| An 20 (2011) | Noir/Blanc (N a 20 ans) | Zorua a 20 ans : Zoroark, majeur (An 20 - An 0 = 20 >= 18) |
+| An 20 (2011) | Noir/Blanc (N a 20 ans) | Zorua a 20 ans jusqu'au 24 decembre, 21 ensuite (ne le 24 decembre An -1) : Zoroark, majeur (>= 18) |
 | An 22 (2013) | Noir 2/Blanc 2 (2 ans apres Noir/Blanc) ; X/Y, contemporains | - |
 | An 24 (2015) | Soleil/Lune, Ultra-Soleil/Ultra-Lune ; fondation de la Ligue d'Alola | Premier Maitre de l'histoire de la region |
 | An 25 (2016) | Epee/Bouclier [LOGIQUE MJ] | Fenetre canon An 24-27, entre Soleil/Lune et Legendes Z-A |

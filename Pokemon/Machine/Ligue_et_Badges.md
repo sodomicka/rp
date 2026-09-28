@@ -1,6 +1,6 @@
 # Ligue et badges
 
-- version : W1
+- version : W2
 
 ## Parcours (canon)
 
@@ -35,6 +35,11 @@
 - Dans le monde : le badge est un PERMIS, delivre par la Ligue, d'employer ses Pokemon hors combat (abattre, franchir l'eau, voler, deplacer la roche).
 - Pour faire se battre des Pokemon, aucune qualification ni precaution. Pour couper un arbre, un permis.
 - Ecarte (gameplay) : bonus de stats et de types conferes par les badges (1re a 3e generation).
+
+## Tournois
+
+- Dans le monde : un Pokemon engage en tournoi doit l'etre depuis une Ball.
+- Exception unique : N (Team Plasma) la demande pour tous ses Pokemon et se la voit refuser ; ils combattent depuis des Balls sur mesure, simples receptacles sans contrainte. Il la redemande pour Zorua seul et l'obtient, grace au lobbying de Ghetis (cf. N, Ghetis).
 
 ## Argent des combats
 

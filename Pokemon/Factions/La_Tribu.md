@@ -1,6 +1,6 @@
 # La tribu
 
-- version : W3
+- version : W4
 
 ## Nature
 
@@ -14,7 +14,8 @@
 ## Le clan en tete
 
 - Clan : la famille directe du chef, par le sang et l'alliance.
-- A l'An 0 : Zoroark (le chef), Zeraora (sa compagne), Zorua (leur fils, ne cette annee-la), Zoltraak (le prota, cadet du chef), Nyx (Noctali femelle de Zoltraak). Puis N (An 1-2), enfant humain recueilli par le clan (cf. N).
+- A l'An 0 : Zoroark (le chef), Zeraora (sa compagne), Zorua (leur fils, ne le 24 decembre An -1 ; pour le clan, sa naissance ouvre l'An 0), Zoltraak (le prota, cadet du chef), Nyx (Noctali femelle de Zoltraak). Puis N (ete de l'An 1), enfant humain recueilli par le clan (cf. N).
+- An 7 : N et Zorua disparaissent dans la nuit du 1er au 2 janvier ; le clan les croit morts. Elpis (Evoli), fille de Zoltraak et de Nyx, eclot le 21 mars (cf. Elpis).
 - Trio de tete depuis la fondation du clan : Zoroark, Zeraora, Zoltraak.
 - Zoroark commande parce qu'il est le plus experimente et le plus sage. Qu'il soit l'aine est un simple fait, pas une regle de succession.
 - Zoltraak est son bras droit, pas roi. Il suit son frere depuis toujours sans discuter son autorite.
@@ -26,6 +27,7 @@
 - Peu de Zoroark du clan se font attraper. Captifs, ils preferent la mort a la servitude.
 - Pratique de la tribu : si elle ne parvient pas a faire sortir un captif de sa Ball et que son dresseur est mort, elle brise la Ball fermee, quitte a blesser ou tuer le captif.
 - Raison : dresseur mort, plus de relachement possible, et la Ball reste active (cf. Poke_Ball).
+- Captifs brises : la tribu les recueille. Victimes rendues machinales, ils ne temoignent pas (cf. Personne_Langue_Alimentation). Precedent : les captifs des sbires de la Plasma, fin An 6.
 
 ## Unite d'elite
 
@@ -64,9 +66,10 @@
 ## Regles internes
 
 - Predation : les predateurs de la tribu mangent des Pokemon exterieurs a la tribu (cf. Personne_Langue_Alimentation).
-- Regle du Bois des Illusions (des l'arrivee, An 0-1) : tout ce qui s'approche trop du bois est une menace. Un groupe qui ne semble pas mal intentionne est d'abord intimide et epouvante (la dame de la brume, cf. Unys). S'il insiste, il est traite en groupe hostile : chasse jusqu'a la mort, puis ramene et cuisine pour un festin au village. Sans remords.
+- Regle du Bois des Illusions (des l'arrivee, An 0) : tout ce qui s'approche trop du bois est une menace. Un groupe qui ne semble pas mal intentionne est d'abord intimide et epouvante (la dame de la brume, cf. Unys). S'il insiste, il est traite en groupe hostile : chasse jusqu'a la mort, puis ramene et cuisine pour un festin au village. Sans remords.
 - Victimes typiques aux abords du bois : des gamins en quete de sensations, et surtout des dresseurs venus chercher des ennuis a ce qui hante le bois.
 - Au-dela du bois : chasses plus lointaines vers les lieux d'oppression, fermes et refuges.
+- Les petits n'ont pas le droit de trainer seuls, meme au Bois des Illusions. La nuit, le village est surveille.
 - Cuisine : cf. Personne_Langue_Alimentation (Cultures).
 - Contexte canon : a Unys, Pieris (Conseil 4) et Ghetis alignent un Scalproie captif.
 

@@ -1,6 +1,6 @@
 # Zoroark
 
-- version : W3
+- version : W4
 
 ## Identite
 
@@ -63,7 +63,8 @@ Base : le Zoroark du canon, palette conservee.
 
 - Zeraora : compagne, mere de Zorua. Pendant la premiere vague, elle part au nord et le laisse derriere elle, par choix. A son retour : surprise, puis deuil, mais soulagement ; ils se remettent aussitot en couple (cf. Histoire_du_Clan).
 - Zoltraak : frere cadet, bras droit, qui le suit sans discuter son autorite. Lui laisse toujours le dernier mot, apres avoir ronchonne dans son coin. Il l'a sauve des braconniers (cf. Zoltraak).
-- Zorua : fils, ne a l'An 0 ; sa naissance decide l'exode (cf. Histoire_du_Clan). Il essaie de lui enseigner la strategie et la reflexion.
+- Zorua : fils, ne le 24 decembre An -1 ; sa naissance decide l'exode (cf. Histoire_du_Clan). Il essaie de lui enseigner la strategie et la reflexion.
+- Elpis : niece, fille de Zoltraak et de Nyx ; sa naissance le reconforte un peu apres la perte de ses deux fils (cf. Elpis).
 - N : l'un de ses quatre parents, le plus facile a convaincre : il l'accepte d'emblee.
 - Nyx : compagne de son frere. Celle qui lui ressemble le plus par la reflexion, deuxieme plus sage de la tribu apres lui. Elle garde la tribu a ses cotes pendant que Zeraora et Zoltraak chassent, et eduque les jeunes (cf. Nyx).
 - La tribu : environ 150 membres a l'An 0 (cf. La_Tribu).
@@ -75,14 +76,16 @@ Base : le Zoroark du canon, palette conservee.
 - Premiere vague (avant 202 av. N) : Zeraora part en exil au nord ; il reste. Elle revient mutee.
 - Ere de la Ball de masse (66 av. N ->) : le Bois tient ; la tribu devient cosmopolite.
 - Deuxieme vague (20 av. N) : la brume est percee ; la tribu devient nomade.
-- An 0 : naissance de Zorua, exode vers Unys par la route du nord, installation au Bois des Illusions (cf. Histoire_du_Clan, Unys). Avec son frere, il porte Zorua dans sa criniere d'un bout a l'autre de la traversee.
+- 24 decembre An -1 : naissance de Zorua. Exode vers Unys par la route du nord, en plein hiver, et installation au Bois des Illusions a l'An 0 (cf. Histoire_du_Clan, Unys). Avec son frere, il porte Zorua dans sa criniere d'un bout a l'autre de la traversee.
 
 ## Trajectoire datee
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| An 0-1 | Arrivee : sa brume couvre la plaine du Bois des Illusions. Sur l'idee de Nyx, il epouvante les habitues du bois avec Zoltraak, tous deux sous les traits de la meme femme. Nait la dame de la brume | - |
-| An 1-2 | Convaincu d'initier Zorua a la chasse aux humains, il confie sa formation a Zoltraak. Accepte N d'emblee | l'un des quatre parents de N |
+| An 0 | Arrivee : sa brume couvre la plaine du Bois des Illusions. Sur l'idee de Nyx, il epouvante les habitues du bois avec Zoltraak, tous deux sous les traits de la meme femme. Nait la dame de la brume | - |
+| Ete An 1 | Convaincu d'initier Zorua a la chasse aux humains, il confie sa formation a Zoltraak. Accepte N d'emblee | l'un des quatre parents de N |
+| 2 -> 23 janvier An 7 | Perd ses deux fils en une nuit : N et Zorua ont passe la surveillance du village et sa brume. Conseil de clan, battues ; avec Zeraora, il refuse de perdre espoir et prolonge les recherches d'une semaine a trois, jusqu'a une derniere recherche sans espoir. Le clan les croit tues par des humains | impuissant et brise |
+| 21 mars An 7 | Eclosion de sa niece Elpis, qui le reconforte un peu | - |
 
 ---
 

@@ -1,6 +1,6 @@
 # Mewtwo
 
-- version : W3
+- version : W4
 
 ## Identite
 
@@ -10,7 +10,7 @@
 - Type : Psy pur, comme presque tous les proto-Pokemon (cf. Creation_et_Theologie).
 - Sexe : aucun (canon). Seul Mew pond par parthenogenese : Mewtwo ne pourrait avoir de petit qu'avec un Metamorph (cf. Reproduction). Espece du petit non posee.
 - Naissance : 6 fevrier 15 av. N (1991 - 15 = 1976). Jour et mois : journal du manoir, qui ne donne pas d'annee.
-- Age a l'ouverture de R1 (An 0-1) : 14 a 16 ans (0 + 15 = 15, 14 avant le 6 fevrier ; 1 + 15 = 16). Ne a sa taille adulte, il reste mineur : seul le plancher d'age compte (cf. Evolution_et_Majorite). Majeur le 6 fevrier An 3 (-15 + 18 = 3), au cours de R1.
+- Age a l'ouverture de R1 (An 0) : 14 ou 15 ans (0 + 15 = 15 apres le 6 fevrier, 14 avant). L'arrivee, quelques mois apres le 24 decembre An -1, tombe sans doute apres le 6 fevrier [IMPLICITE]. Ne a sa taille adulte, il reste mineur : seul le plancher d'age compte (cf. Evolution_et_Majorite). Majeur le 6 fevrier An 3 (-15 + 18 = 3), au cours de R1.
 - Gradient : legendaire, par sa proximite genetique avec Mew et par le renforcement subi au labo [LOGIQUE MJ]. Son vieillissement s'arrete au seuil ; il reste tuable (cf. Legendaires).
 - Taille : 2,0 m. Poids : 122 kg (canon).
 

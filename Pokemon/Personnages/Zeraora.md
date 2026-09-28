@@ -1,6 +1,6 @@
 # Zeraora
 
-- version : W2
+- version : W3
 
 ## Identite
 
@@ -70,7 +70,8 @@
 
 - Zoroark (le chef) : compagnon, pere de Zorua. Pendant la premiere vague, elle part au nord et le laisse derriere elle, par choix ; a son retour, ils se remettent aussitot en couple. Il lui souhaite toujours bonne chasse et lui demande de rester prudente (cf. Zoroark).
 - Zoltraak : beau-frere. Ils chassent ensemble et dirigent ensemble l'unite d'elite. Il a acquis l'Electrik a son contact et doit parfois la retenir (cf. Zoltraak).
-- Zorua : fils, ne a l'An 0 ; il tient d'elle sa meche bleue.
+- Zorua : fils, ne le 24 decembre An -1 ; il tient d'elle sa meche bleue.
+- Elpis : niece, fille de Zoltraak et de Nyx ; sa naissance la reconforte un peu apres la perte de ses deux fils (cf. Elpis).
 - N : l'un de ses quatre parents. Convaincue par Zoltraak de l'epargner, avant meme de rentrer au village ; elle l'allaite avec Zorua.
 - Nyx : belle-soeur, qui garde la tribu aux cotes du chef pendant qu'elle chasse avec Zoltraak (cf. Nyx).
 - Unite d'elite : les revenants qui l'ont suivie et les Pohmarmottes liberees a Hisui, passees de son cote (cf. La_Tribu).
@@ -83,13 +84,16 @@
 - La mutation : elle apprend a se battre comme une Pohmarmotte, developpe l'Electrik au lieu du Combat qu'elle escomptait, perd les Tenebres et tout leurre. Elle et ses revenants terrifient la region.
 - Le retour, peu avant l'arrivee du Groupe Galaxie a Hisui (202 av. N) : couple reforme avec le chef ; naissance de l'unite d'elite.
 - Deuxieme vague (20 av. N) : la tribu devient nomade.
-- An 0 : naissance de Zorua, exode vers Unys, installation au Bois des Illusions (cf. Histoire_du_Clan).
+- 24 decembre An -1 : naissance de Zorua. Exode vers Unys, en plein hiver, et installation au Bois des Illusions a l'An 0 (cf. Histoire_du_Clan).
 
 ## Trajectoire datee
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| An 1-2 | Avec Zoltraak, convainc le chef et Nyx d'initier Zorua a la chasse aux humains ; la formation revient a Zoltraak. Premiere chasse de Zorua : avec Zoltraak, elle massacre des villageois venus offrir un enfant a la dame de la brume. Convaincue par Zoltraak d'epargner l'enfant, elle l'allaite avec Zorua | l'un des quatre parents de N |
+| Ete An 1 | Avec Zoltraak, convainc le chef et Nyx d'initier Zorua a la chasse aux humains ; la formation revient a Zoltraak. Premiere chasse de Zorua : avec Zoltraak, elle massacre des villageois venus offrir un enfant a la dame de la brume. Convaincue par Zoltraak d'epargner l'enfant, elle l'allaite avec Zorua | l'un des quatre parents de N |
+| Hiver An 6-7 | Derniere chasse avant la fugue : avec Zoltraak, elle emmene N et Zorua proteger le village d'humains mal intentionnes, des sbires de la Team Plasma en civil | - |
+| 2 -> 23 janvier An 7 | Perd ses deux fils en une nuit. Conseil de clan, battues ; avec le chef, elle refuse de perdre espoir et prolonge les recherches d'une semaine a trois, jusqu'a une derniere recherche sans espoir. Le clan les croit tues par des humains | impuissante et brisee |
+| 21 mars An 7 | Eclosion de sa niece Elpis, qui la reconforte un peu | - |
 
 ---
 

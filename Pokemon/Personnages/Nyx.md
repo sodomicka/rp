@@ -1,14 +1,14 @@
 # Nyx
 
-- version : W3
+- version : W4
 
 ## Identite
 
-- Membre du clan par alliance : compagne de Zoltraak.
+- Membre du clan par alliance : compagne de Zoltraak, mere d'Elpis.
 - Espece : Evolutio nocturna (nom humain Noctali), mutation d'Evolutio intacta (nom humain Evoli). Classement et heredite : cf. Especes_Taxonomie ; declencheurs : cf. Evolution_et_Majorite.
 - Groupe d'oeuf : Terrestre (cf. Especes_Taxonomie).
 - Type : Tenebres pur.
-- Sexe : femelle.
+- Sexe : femelle. Ponte cyclique : elle pond regulierement ; ses oeufs non fecondes nourrissent N et Zorua (cf. Reproduction).
 - Age : plusieurs siecles. Capturee vers vingt ans, deja majeure (20 >= 18 ; stade Noctali ; aspect adulte ; cf. Evolution_et_Majorite).
 - Rang : deuxieme plus sage de la tribu, apres le chef. Garde la tribu a ses cotes pendant que Zeraora et Zoltraak chassent. Eduque les jeunes.
 - Gradient : exceptionnelle. Sa puissance, proche de celle de Zoltraak, vient de son entrainement dans la tribu, puis dans le clan ; sa longevite en decoule (cf. Legendaires, Evolution_et_Majorite).
@@ -35,12 +35,14 @@ Base : la Noctali du canon (corps noir, grands yeux rouges, anneaux lumineux jau
   - son pelage la fond dans la nuit ; larges pupilles qui voient dans l'obscurite ;
   - chasse a l'affut : attend que la proie baisse sa garde, puis vise la gorge.
 - Marque du milieu : des siecles de frequentations exclusivement Tenebres (le Bois aux Chenes, domaine Tenebres avant l'ere cosmopolite) ont assombri son pelage et vire au violet ses anneaux et ses yeux. Le milieu approfondit ici un type inne, sans en ajouter un (cas voisin : l'Electrik acquis de Zoltraak, cf. Types_et_Spectre).
+- Lettres : elle connait le son de quelques lettres, dont celles de Noctali, le nom que lui donnait son tortionnaire. Pas de quoi lire. Elle n'a ni la gorge ni la bouche pour les dire ; un prenom d'une seule lettre, si, comme tout Pokemon. Seule du clan a les connaitre.
 - Exceptionnelle (cf. Identite).
 
 ## Psychologie
 
 - Sagesse : reflechie, calculatrice, peu impulsive. De tout le clan, celle qui ressemble le plus au chef.
 - Paranoiaque envers les humains : redoute toujours qu'un humain soit imprevisible ou trompeur.
+- N'a jamais voulu de petit : se reproduire, c'est avouer sa faiblesse (cf. Reproduction, regle de la perte). Elle le pense encore quand elle porte Elpis. En des siecles de couple, elle et Zoltraak evitent ses jours fertiles [LOGIQUE MJ].
 
 ## Manies et gouts
 
@@ -56,16 +58,17 @@ Base : la Noctali du canon (corps noir, grands yeux rouges, anneaux lumineux jau
 
 ## Relations
 
-- Zoltraak : compagnon. Il l'a liberee et lui a jure qu'elle n'aurait jamais a craindre les humains. Avec le temps, elle s'est rapprochee de son protecteur. C'est elle qui lui a demande a devenir sa femelle, pour decouvrir une sexualite consentie, avec quelqu'un de confiance qu'elle aime. Depuis, leur intimite est leur langage sans mots pour dire leur amour.
+- Zoltraak : compagnon. Il l'a liberee et lui a jure qu'elle n'aurait jamais a craindre les humains. Avec le temps, elle s'est rapprochee de son protecteur. C'est elle qui lui a demande a devenir sa femelle, pour decouvrir une sexualite consentie, avec quelqu'un de confiance qu'elle aime. Depuis, leur intimite est leur langage sans mots pour dire leur amour. C'est elle encore qui demande a porter leur premier petit.
+- Elpis : fille, son premier petit (cf. Elpis).
 - Zoroark (le chef) : beau-frere. Celui a qui elle ressemble le plus. Ils gardent ensemble la tribu pendant la chasse.
 - Zeraora : belle-soeur. Part chasser avec Zoltraak.
 - Zorua : neveu par alliance, qu'elle traite comme son propre petit. Il se toilette en l'imitant.
-- N : "le petit d'homme", tant qu'elle le tient a distance. La plus dure du clan a convaincre : quelques jours pour l'accepter, quelques annees pour l'apprecier. A ses cinq ans, elle l'appelle fils sans hesiter.
+- N : "le petit d'homme", tant qu'elle le tient a distance. La plus dure du clan a convaincre : quelques jours pour l'accepter, quelques annees pour l'apprecier. A ses cinq ans, elle l'appelle fils sans hesiter. C'est pourtant elle qui donne a son nom sa prononciation humaine (cf. N).
 - Les jeunes de la tribu : elle les eduque.
 
 ## Histoire
 
-- Plusieurs siecles av. N, avant les Balls. Vers vingt ans, deja Noctali mais encore jaune et noire, elle est capturee endormie par un humain qui la tient enchainee. Il la viole souvent, la nourrit de chair de "beaux" Pokemon pour la rendre toujours plus parfaite, et la frappe chaque fois qu'elle se rebelle.
+- Plusieurs siecles av. N, avant les Balls. Vers vingt ans, deja Noctali mais encore jaune et noire, elle est capturee endormie par un humain qui la tient enchainee. Il la viole souvent, la nourrit de chair de "beaux" Pokemon pour la rendre toujours plus parfaite, et la frappe chaque fois qu'elle se rebelle. Elle le voit employer le nom Noctali : elle y apprend le son de quelques lettres.
 - Zoltraak arrive la par hasard et chasse l'humain, brutal et efficace. Avant de le tuer, il entend ses pleurs. Il lui tranche les tendons pour l'empecher de fuir, suit les bruits, la trouve enchainee et comprend aussitot. Il la rassure comme il peut et la libere.
 - En partant, il lui propose d'achever l'humain. Elle refuse, de peur qu'il la frappe comme chaque fois qu'elle se rebellait. Zoltraak l'aneantit d'une puissante attaque Tenebres, lui jure qu'elle n'aura jamais a craindre les humains, et la ramene a la tribu.
 - Avant les Balls, donc avant la premiere vague et l'Electrik de Zoltraak : d'ou une attaque Tenebres.
@@ -77,9 +80,13 @@ Base : la Noctali du canon (corps noir, grands yeux rouges, anneaux lumineux jau
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| An 0-1 | Arrivee au Bois des Illusions : elle donne au clan l'idee de la dame de la brume, un bois hante par une seule femme. Le chef et Zoltraak l'incarnent | - |
-| An 1-2 | Accepte N apres quelques jours ; l'appelle "le petit d'homme" | - |
-| An 5 (0 + 5) | Appelle N fils sans hesiter | l'un des quatre parents de N |
+| An 0 | Arrivee au Bois des Illusions : elle donne au clan l'idee de la dame de la brume, un bois hante par une seule femme. Le chef et Zoltraak l'incarnent | - |
+| Ete An 1 | Accepte N apres quelques jours ; l'appelle "le petit d'homme". Reconnait le N brode sur son mouchoir et lui donne sa prononciation | - |
+| 30 janvier An 5 | Appelle N fils sans hesiter | l'un des quatre parents de N |
+| 2 -> 23 janvier An 7 | N et Zorua disparaissent. A Meanville, elle joue le Pokemon de Zoltraak, deguise en humain muet, et appelle les gamins a sa place. L'ecrit partout, la parole dans la bouche de l'ennemi : debut de sa pierre de Rosette | perd son neveu et son fils humain |
+| 23 janvier An 7 | Apres la derniere recherche, demande a porter un petit, sincerement affectee par la perte de son neveu et de son fils humain. Ponte le lendemain | - |
+| 24 janvier -> 21 mars An 7 | Couve l'oeuf avec Zoltraak, de leur chaleur combinee ; il ne sort que pour chasser de quoi la nourrir | - |
+| 21 mars An 7 | Eclosion d'Elpis | mere |
 
 ---
 

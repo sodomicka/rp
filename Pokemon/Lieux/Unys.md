@@ -1,6 +1,6 @@
 # Unys
 
-- version : W5
+- version : W6
 
 ## La region
 
@@ -21,7 +21,7 @@
 - Canon : elle reagit violemment a une bete legendaire de Johto chromatique (Raikou, Entei ou Suicune) ; un randonneur suppose un conflit passe.
 - Canon : dans Noir 2/Blanc 2, un randonneur qui est en realite un Zoroark parle d'elle.
 - Dans le monde : refuge principal de la tribu a Unys, le bois et la plaine qu'il cache, au coeur des forets centrales. La tribu (environ 150 membres) y forme un vrai village [LOGIQUE MJ : seul lieu ou le canon installe un Zoroark sauvage chez lui, cache par illusion].
-- Dans le monde, des l'arrivee (An 0-1) : sur l'idee de Nyx, le chef et Zoltraak epouvantent les habitues du bois sous les traits d'une meme femme. Pour les humains d'Unys, le bois est hante par la dame de la brume.
+- Dans le monde, des l'arrivee (An 0) : sur l'idee de Nyx, le chef et Zoltraak epouvantent les habitues du bois sous les traits d'une meme femme. Pour les humains d'Unys, le bois est hante par la dame de la brume.
 - Legende humaine : des villageois superstitieux se sont forge la croyance qu'offrir un bebe a la dame de la brume apporte la prosperite, des terres plus fertiles.
 - Regle du Bois (intrus epouvantes, puis tues et cuisines s'ils insistent) : cf. La_Tribu.
 

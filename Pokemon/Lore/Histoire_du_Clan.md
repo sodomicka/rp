@@ -1,6 +1,6 @@
 # Histoire du clan
 
-- version : W3
+- version : W4
 
 ## Vocabulaire
 
@@ -57,9 +57,9 @@
 - Par temps clair, on voit au loin une terre qu'on prend pour une ile, coupee des regions habitees par les hommes : Unys, peut-etre le refuge loin de la guerre.
 - Cet espoir decide la naissance de Zorua. Sa naissance acheve de convaincre qu'il faut partir vers une terre plus isolee et plus calme.
 - Zorua est la cause et la consequence : le besoin de perdurer, et l'espoir d'y parvenir.
-- Pour le clan, cette naissance devient le repere d'une vie nouvelle : l'An 0. Elle tombe la meme annee que celle de N ; la maniere humaine de dater, le clan s'en moque.
+- Pour le clan, cette naissance devient le repere d'une vie nouvelle : l'An 0. Elle tombe le 24 decembre An -1, cinq semaines avant celle de N (30 janvier An 0), a la veille d'un Nouvel An qui ne compte que pour les humains ; la maniere humaine de dater, le clan s'en moque.
 - Zorua : fils du chef et de Zeraora [DIVERGENCE RP], ne a Johto. Il porte une meche bleue heritee de sa mere.
-- Traversee de quelques mois, par la route du nord (cf. Johto_et_Hisui). Ponts de glace des Dimoret sur les detroits froids ; le reste a pied et en vol.
+- Traversee de quelques mois, en plein hiver, par la route du nord (cf. Johto_et_Hisui). Arrivee au Bois des Illusions a l'An 0. Ponts de glace des Dimoret sur les detroits froids ; le reste a pied et en vol.
 - Emport : Corboss et Vaututrices portent a peu pres le poids d'un humain [INTERPRETATION : mecanique Vol lue au pied de la lettre] ; l'emport croit avec la taille du porteur.
 - Les petits volent. Zorua (12,5 kg) fait toute la traversee dans la criniere de son pere et de son oncle : au chaud sur un pont de glace instable plutot qu'en hauteur sur un volant. Les Zoroark adultes (81 kg) passent a pied et sur la glace. La Trioxhydre (160 kg, six ailes) peut porter un Zoroark adulte [LOGIQUE MJ].
 - Les Vaututrices, dans la tribu depuis toujours, survolent en eclaireuses : Unys est un saut dans l'inconnu pour elles aussi.
@@ -68,7 +68,7 @@
 ## Unys (An 0 ->)
 
 - La tribu s'installe au Bois des Illusions et dans la plaine qu'il cache (cf. Unys). Elle y forme un vrai village.
-- Elle est la famille de N orphelin, dans les bois d'Unys, jusqu'a ce que Ghetis le recueille. Zorua, ne la meme annee, est son frere de lait.
+- Elle est la famille de N orphelin, dans les bois d'Unys, de l'ete de l'An 1 jusqu'a ce que Ghetis le recueille, dans la nuit du 1er au 2 janvier An 7. Zorua, ne cinq semaines avant lui, est son frere de lait ; il disparait avec lui (cf. N, Zorua).
 - Canon : orphelin des bois, N vivait avec ses seuls amis Pokemon et a appris a les comprendre ainsi.
 
 ---

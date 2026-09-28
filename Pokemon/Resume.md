@@ -1,6 +1,6 @@
 # Resume
 
-- version : W4
+- version : W5
 
 ## Premisse
 
@@ -51,8 +51,9 @@
 - La tribu (environ 150 membres) passe par la route du nord. A la vallee des revenants, quelques jours de chasse avec les Revenants suffisent : meme Zeraora et Zoltraak jugent leur violence excessive et trop risquee.
 - Unys decoit : elle est deja aux humains, aussi avances qu'ailleurs. La tribu s'installe au Bois des Illusions, ou elle forme un village cache par la brume du chef.
 - Sur l'idee de Nyx, le chef et Zoltraak epouvantent les habitues du bois sous les traits d'une meme femme : pour les humains d'Unys, le bois est hante par la dame de la brume. Qui insiste est tue, puis cuisine pour un festin au village.
-- An 1-2 : des villageois superstitieux viennent offrir un bebe a la dame, contre la promesse de terres plus fertiles. A la premiere chasse de Zorua, Zeraora et Zoltraak les massacrent, parents compris ; Zorua trouve l'enfant et convainc son oncle de l'epargner.
+- Ete de l'An 1 : des villageois superstitieux viennent offrir un bebe a la dame, contre la promesse de terres plus fertiles. A la premiere chasse de Zorua, Zeraora et Zoltraak les massacrent, parents compris ; Zorua trouve l'enfant et convainc son oncle de l'epargner.
 - Le clan le recueille et le nomme N, d'apres le monogramme de son mouchoir : le seul humain qu'il ait jamais traite en famille. Frere de lait de Zorua, fils du chef, de Zeraora, de Zoltraak et de Nyx, il grandit au clan jusqu'a ce que Ghetis l'adopte.
+- An 7 : dans la nuit du 1er au 2 janvier, N et Zorua fuguent au-dela de la brume. Ghetis, venu pour la dame de la brume, les recueille et leur fait croire le clan mort. Apres trois semaines de battues, le clan les croit tues par des humains. Le 21 mars, Nyx et Zoltraak ont leur premier petit, Elpis (Evoli).
 
 ## Le temps des jeux
 

@@ -1,6 +1,6 @@
 # Zoltraak
 
-- version : W2
+- version : W3
 
 ## Identite
 
@@ -52,6 +52,7 @@ Base : le Zoroark du canon (renard bipede, pelage gris et noir, collerette, long
 - Gout de la violence : ne de l'episode des braconniers (cf. Histoire). La brutalite monte d'un cran avec l'Electrik.
 - Autorite : suit son frere depuis toujours sans discuter son autorite.
 - Angle mort : il reclame du sang sans voir qu'il s'eloigne de la paix et risque l'extinction des siens. Il n'a pas la bonne methode : la violence appelle la violence.
+- N'a jamais voulu de petit : se reproduire, c'est avouer sa faiblesse (cf. Reproduction, regle de la perte). Il le pense encore quand il a Elpis avec Nyx.
 
 ## Manies et gouts
 
@@ -72,7 +73,8 @@ Base : le Zoroark du canon (renard bipede, pelage gris et noir, collerette, long
 - Zeraora : belle-soeur, compagne du chef. Trio de tete ; ils dirigent ensemble l'unite d'elite. Il acquiert l'Electrik a son contact et doit parfois la retenir.
 - Zorua : neveu, fils du chef et de Zeraora. Moteur de son combat. Le forme a la chasse sur ordre du chef.
 - N : l'un de ses quatre parents. Convaincu par Zorua de l'epargner, il convainc Zeraora. N est son miroir humain : N a vecu l'angle mort de Zoltraak et en est sorti (cf. N).
-- Nyx : Noctali femelle, sa compagne, membre du clan par alliance. Il l'a liberee d'un humain qui la tenait captive et lui a jure qu'elle n'aurait jamais a craindre les humains. C'est elle qui lui a demande a devenir sa femelle ; leur intimite est leur langage sans mots pour dire leur amour (cf. Nyx).
+- Nyx : Noctali femelle, sa compagne, membre du clan par alliance. Il l'a liberee d'un humain qui la tenait captive et lui a jure qu'elle n'aurait jamais a craindre les humains. C'est elle qui lui a demande a devenir sa femelle ; leur intimite est leur langage sans mots pour dire leur amour (cf. Nyx). C'est elle encore qui demande a porter leur premier petit.
+- Elpis : fille, son premier petit avec Nyx (cf. Elpis).
 - Unite d'elite : revenants de Hisui, Pohmarmottes, quelques Zarude, un Angoliath (cf. La_Tribu).
 - Revenants (Vulpes spectralis) : anciens membres du clan.
 
@@ -85,14 +87,19 @@ Base : le Zoroark du canon (renard bipede, pelage gris et noir, collerette, long
 - Premiere vague (avant 202 av. N) : Zeraora part au nord et revient mutee ; naissance de l'unite d'elite, sous elle et a ses cotes.
 - Deuxieme vague (20 av. N) : la tribu devient nomade ; les aines, dont lui [IMPLICITE], se dechainent pour couvrir les fuites.
 - Le clan fond : a l'An 0, il n'est plus que la famille directe du chef (lui, son frere, Zeraora, Nyx, puis Zorua).
-- An 0 : naissance de Zorua, exode vers Unys par la route du nord, installation au Bois des Illusions (cf. Histoire_du_Clan, Unys). Avec son frere, il porte Zorua dans sa criniere d'un bout a l'autre de la traversee.
+- 24 decembre An -1 : naissance de Zorua. Exode vers Unys par la route du nord, en plein hiver, et installation au Bois des Illusions a l'An 0 (cf. Histoire_du_Clan, Unys). Avec son frere, il porte Zorua dans sa criniere d'un bout a l'autre de la traversee.
 
 ## Trajectoire datee
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| An 0-1 | Arrivee au Bois des Illusions : sur l'idee de Nyx, il epouvante les habitues du bois avec le chef, tous deux sous les traits de la meme femme. Nait la dame de la brume | - |
-| An 1-2 | Avec Zeraora, convainc le chef et Nyx d'initier Zorua a la chasse aux humains ; le chef lui confie sa formation. Premiere chasse de Zorua : avec Zeraora, il massacre des villageois venus offrir un enfant a la dame. Convaincu par Zorua d'epargner l'enfant, il convainc Zeraora | l'un des quatre parents de N |
+| An 0 | Arrivee au Bois des Illusions : sur l'idee de Nyx, il epouvante les habitues du bois avec le chef, tous deux sous les traits de la meme femme. Nait la dame de la brume | - |
+| Ete An 1 | Avec Zeraora, convainc le chef et Nyx d'initier Zorua a la chasse aux humains ; le chef lui confie sa formation. Premiere chasse de Zorua : avec Zeraora, il massacre des villageois venus offrir un enfant a la dame. Convaincu par Zorua d'epargner l'enfant, il convainc Zeraora | l'un des quatre parents de N |
+| Hiver An 6-7 | Derniere chasse avant la fugue : avec Zeraora, il emmene N et Zorua proteger le village d'humains mal intentionnes, des sbires de la Team Plasma en civil. Les deux freres forment un binome parfait et ne tuent pas | - |
+| 2 -> 23 janvier An 7 | Au reveil, N et Zorua ont disparu. Fouille du village, conseil de clan, puis battues. Il entre a Meanville deguise en humain muet, Nyx jouant son Pokemon pour appeler les gamins. Au lieu de la disparition, l'odeur d'un humain qui n'est pas N ; la piste des gamins s'arrete la, celle de l'humain mene en ville et s'y perd [LOGIQUE MJ : les gamins ont ete portes]. Une semaine, prolongee a trois ; derniere recherche sans espoir. Le clan les croit tues par des humains | perd son neveu et son fils humain ; garde l'odeur de l'humain en memoire |
+| 23-24 janvier An 7 | Nyx demande a porter un petit ; ponte le lendemain | - |
+| 24 janvier -> 21 mars An 7 | Couve l'oeuf avec Nyx, de leur chaleur combinee ; ne sort que pour chasser de quoi nourrir sa dame, de l'humain | - |
+| 21 mars An 7 | Eclosion d'Elpis | pere |
 
 ---
 

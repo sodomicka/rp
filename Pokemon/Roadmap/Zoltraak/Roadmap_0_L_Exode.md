@@ -1,11 +1,11 @@
 # Roadmap_0 - L'Exode
 
 - statut : a venir. NON JOUABLE : sequence d'introduction narree (cf. 00_Garde_Cap)
-- version : W2
+- version : W3
 - prota / POV : Zoltraak, POV unique ; le joueur observe par ses yeux, il ne joue pas
-- echelle temporelle : quelques mois, de la naissance de Zorua (An 0) a l'arrivee au Bois des Illusions (An 0-1)
-- borne d'entree : naissance de Zorua, Bois aux Chenes (Johto)
-- borne de sortie : la tribu se pose au Bois des Illusions (An 0-1) -> bascule Roadmap 1
+- echelle temporelle : quelques mois, de la naissance de Zorua (24 decembre An -1) a l'arrivee au Bois des Illusions (An 0)
+- borne d'entree : naissance de Zorua, 24 decembre An -1, Bois aux Chenes (Johto)
+- borne de sortie : la tribu se pose au Bois des Illusions (An 0) -> bascule Roadmap 1
 - arc precedent : aucun (ouverture de la saga) ; arc suivant : R1
 
 SOURCE DE BUILD UNIQUEMENT, jamais fetchee en narration. Matiere : dictee du worldbuilder, noyau des fiches (Histoire_du_Clan, Johto_et_Hisui, Unys, La_Tribu), confrontee au canon.
@@ -31,7 +31,7 @@ Ouvrir la saga sur deux refuges qui n'en sont pas. A la vallee des revenants, le
 | 4 | Les detroits froids. Unys, apercue depuis l'extreme nord de la route ; ponts de glace des Dimoret | nord de Sinnoh -> Unys | la tribu | - | le reste de la traversee (cf. note) | la tribu touche Unys |
 | 5 | La deception : Unys est deja peuplee d'humains aussi avances qu'ailleurs. Le refuge espere n'existe pas | Unys | la tribu ; humains d'Unys (figurants) | - | fin de la traversee (cf. note) | la tribu se pose au Bois des Illusions : bascule R1 |
 
-Note de duree : la traversee (etapes 2 a 5, halte comprise) dure quelques mois en tout (cf. Histoire_du_Clan). Son partage entre les etapes n'est pas fixe.
+Note de duree : la traversee (etapes 2 a 5, halte comprise) dure quelques mois en tout (cf. Histoire_du_Clan). Son partage entre les etapes n'est pas fixe. Depart fin decembre An -1 : la traversee se fait en plein hiver, sur des detroits geles.
 
 ## Casting convoque
 

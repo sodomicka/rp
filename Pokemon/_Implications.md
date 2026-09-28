@@ -2,7 +2,7 @@
 
 Journal de travail. Jamais fetche en narration. Hors Sommaire. Regle de tenue (reprise d'AnimalCrossing) : une ligne vit ici tant qu'elle n'a PAS de domicile (BIBLE, fiche, roadmap) ou attend une decision. Des qu'elle en a un, elle sort.
 
-Etat : PASSE 2 EN COURS (thread 9 clos, 2026-09-27). Methode bac a sable. Livres au thread 9 : Roadmap_1_Le_Petit_d_Homme W1 (boucle close), Roadmap_0_L_Exode W2 (coupee a l'arrivee au Bois), garde-cap W2 ; fiches du clan N W3, Zorua W2, Nyx W3, Zoltraak W2, Zoroark W3, Zeraora W2 ; La_Tribu W3, Unys W5, Personne_Langue_Alimentation W5, Mewtwo W3 ; purge de la datation par thread : Reproduction W6, Especes_Taxonomie W5, Evolution_et_Majorite W5, Creation_et_Theologie W6, Chronologie W6, Legendaires W4, Revenants W2 ; Resume W4, Sommaire W6, BIBLE B4. Prochaine etape : R2, en thread neuf.
+Etat : PASSE 2 EN COURS (thread 10 clos, 2026-09-28). Methode bac a sable. Livres au thread 10 : Roadmap_2_Les_Disparus W1 (boucle close), garde-cap W3, Roadmap_0 W3, Roadmap_1 W2 ; fiches nouvelles Elpis W1, Ghetis W1 ; N W4, Zorua W3, Nyx W4, Zoltraak W3, Zoroark W4, Zeraora W3, Mewtwo W4 ; La_Tribu W4, Team_Plasma W4, Reproduction W7, Personne_Langue_Alimentation W6, Ligue_et_Badges W2, Chronologie W7 (Zorua deplace, feu vert), Histoire_du_Clan W4, Unys W6, Resume W5, Sommaire W7 ; BIBLE B5. Prochaine etape : R3, en thread neuf.
 Balises : cf. BIBLE SB1.
 
 ## Methode
@@ -35,23 +35,20 @@ Balises : cf. BIBLE SB1.
 - Aucune fiche noyau en attente : passe 1 complete cote fiches.
 - Images : aucune image personnalisee. Zorua au stade Zoroark (passe 2) : physique canon, plus la meche bleue actee.
 - Placement : Personnages/ neutre. Le prota est une entite du monde.
+- Derogations de plafond : N et Sommaire, 15 000 caracteres chacun. Domicile : en-tete de chaque page.
 
-## Matiere dictee R2 -> Roadmap/Zoltraak/
+## Matiere dictee -> Roadmap/Zoltraak/
 
-Chaque ligne sort d'ici quand sa roadmap est ecrite. R1 est ecrite : sa matiere en est sortie. Statut et bornes de R2 : cf. garde-cap.
-
-- R2 (An 7, N vers 7 ans ; son nom civil Natural, donne par Ghetis, est deja domicilie dans la fiche N) : N et Zorua captures/secourus par Ghetis pendant une fugue de curiosite. Battues et incursions en ville sous traits humains : jamais retrouves. Ghetis offre a N des Pokemon, dont un Darumacho.
-- Age valide : disparition vers 7 ans (memoire durable du clan ; enfance au chateau).
-- Canon verifie (Bulbapedia) : Colombe, Noir 2/Blanc 2 (refuge de Port Yoneuve) : N etait orphelin ; Ghetis l'a recueilli alors qu'il vivait dans les bois avec Darumacho et Zorua ; Venus, Colombe et N sont tous des orphelins recueillis par Ghetis. Colombe, Noir/Blanc (Palais de N) : N a ete separe des gens tout petit, eleve avec des Pokemon maltraites que Ghetis choisissait (domicile : fiche N, Au-dela de R2).
-- Tranche : R2 conforme (Zorua recueilli avec N). Place de Zorua chez Ghetis : reglee par le mensonge (cf. garde-cap R2) ; se croyant orphelin du fait des humains, Zorua est exactement le Pokemon blesse par les humains que Ghetis place aupres de N, et le mensonge nourrit l'ideal canon de N [LOGIQUE MJ]. Reste a caler au build de R2 : Darumacho offert par Ghetis [DIVERGENCE RP] contre present dans les bois en canon. Domicile a terme : fiche N et roadmap R2.
-- R2, barriere de langue [LOGIQUE MJ] : a 7 ans, N ne parle pas humain (fiche N) et ne le comprend sans doute pas [IMPLICITE] ; Zorua comprend les humains mais reste muet. Ghetis parle, Zorua comprend et traduit a N ; de leurs reponses, Ghetis ne saisit que les noms cries ("Zoroark") et les hochements de tete. D'ou ses questions qui font comme s'il savait deja : l'outil de celui qui ne comprend pas les reponses.
-- R2, trou a poser au build : comment Ghetis apprend que l'enfant s'appelle N, alors que N ne parle pas humain et que Zorua est muet (fiche N : Ghetis trouve absurde qu'on ne s'appelle que d'une lettre). Le mouchoir a monogramme, seul bien de N, est dans la fiche.
+- R2 est ecrite : sa matiere en est sortie. R3 : cf. garde-cap.
 
 ## Reperes de saga (trous ouverts ; portes canon : cf. garde-cap)
 
 A poser au build de l'arc qui les convoque, pas avant.
 
 - Zorua : comment il devient le Zoroark de N (An 20) ; garde de la Route Victoire (An 22).
+- Tchekhov (plante en R2, etape 4) : l'odeur de Ghetis, relevee sur la piste des gamins et gardee en memoire par le clan. Detonation et consequence : a poser. Domicile : BIBLE SB8 (B5).
+- Porte An 20 : les Balls sur mesure de N sont des receptacles sans contrainte ; comment un ami y entre sans le reflexe de retrecissement (peur ou blessure, cf. Poke_Ball) : trou a poser.
+- R3 : la pierre de Rosette de Nyx (quelques lettres a l'An 7) ; jusqu'ou elle apprend a lire : a poser au build de R3.
 - Ou etait Zoltraak pendant la premiere vague.
 - Origine des cicatrices du chef.
 - [INTERPRETATION] Biais de population, lecture d'ambiance : dans Noir/Blanc, Zorua et Zoroark n'existent qu'en evenement (Celebi a Volucite ; betes de Johto chromatiques au Bois des Illusions). Clan cache arrive a l'An 0 = aucune rencontre sauvage.
@@ -96,7 +93,7 @@ A poser au build de l'arc qui les convoque, pas avant.
 - Les humains pourront citer la limite humain x Pokemon : "ils ne sont pas comme nous".
 - Coalition contre nature : des especes qui se mangent entre elles. La tribu comme pacte de protection (y entrer = cesser d'etre une proie). Ses predateurs chassent dehors -> des ennemis chez les sauvages eux-memes. La Ball a fabrique le "peuple Pokemon" : la coalition n'a aucun precedent.
 - Especes reputees betes (Qulbutoke, Ramoloss) : elles nourrissent le prejuge humain. La comestibilite suit la reputation d'intelligence, et un Ramoloss malin se fait aussi couper la queue.
-- Ghetis a deja fabrique un prophete de la liberation ; une tribu de sauvages armes, il saurait quoi en faire. Ironie : N a grandi dans cette tribu.
+- Ironie : Ghetis venait chercher la dame de la brume pour s'en servir, et repart avec l'enfant qu'elle a eleve (fait : cf. Ghetis). Son mensonge d'une attaque humaine s'appuie sur du vrai : ses propres sbires.
 - Revenants : un avertissement vivant de ce que devient un Zoroark qui meurt dans la haine ; certains sont des visages que Zoltraak a vus partir.
 - [CANON SUPPOSE] Platine : Giratina entraine Helio, qui enchaine Dialga et Palkia avec la Chaine Rouge, dans le Monde Distorsion. Sa doctrine en acte ; un signe pour Zoltraak qui le prie.
 - Mythe de la region de Sinnoh (fait : cf. Creation_et_Theologie) : mythe de servitude consentie, texte humain.
@@ -120,7 +117,7 @@ A poser au build de l'arc qui les convoque, pas avant.
 - Systeme : forme de la fiche d'arc d'une roadmap NON JOUABLE (R0) a trancher en passe 3. Le precedent CSM n'a pas encore de fiches d'arc.
 - Systeme (hors univers) : SPEC_BIBLE_LORE_WIKI v8.5 se designe encore "v8_3" (ligne Emplacement et S12).
 - Systeme (hors univers) : les instructions WIKI disent en passe 3 "CODEX V1, puis SETUP", alors que le mode CODEX V1 exige un setup termine.
-- VF introuvables dans les sources verifiees : Shadow Triad, Zinzolin, Rood, Dudley (restent en VO).
+- VF introuvables dans les sources verifiees : Shadow Triad, Zinzolin, Rood, Dudley, Colress, DNA Splicers (restent en VO).
 
 ## Retire (ne pas ressusciter)
 
@@ -166,11 +163,22 @@ A poser au build de l'arc qui les convoque, pas avant.
 - Dame de la brume incarnee par le seul chef : Zoltraak porte le meme deguisement, pour qu'une seule femme hante le bois.
 - Verrouillage technique du thread si le joueur refuse l'enfant (R1, etape 5) : remplace par une fin de RP declaree par le MJ ; fermeture technique seulement sur demande explicite et confirmee du joueur.
 
+## Retire (suite)
+
+- Perception du passe et de l'avenir de N (chronique de Masuda) : degagee.
+- Darumacho relaye par Colombe comme version de Ghetis [INTERPRETATION] : non retenu, divergence maintenue.
+- Ghetis connaissant le clan de Zoroark par reputation : non, c'est N qui prononce "Zoroark".
+- Evoli a l'An 8 : Elpis eclot le 21 mars An 7.
+- Zorua ne a l'An 0 : ne le 24 decembre An -1.
+- Nyx qui couve seule : le couple couve.
+- Compression de N a 8 000 caracteres : derogation a 15 000.
+- Sbires de la Plasma en uniforme : en civil, pour que N ne puisse pas les reconnaitre.
+
 ## Feuille de route
 
 1. Pre-passe 0 : CLOSE.
 2. Passe 0 : CLOSE. WIKI et BIBLE B1 livres.
 3. Passe 1 : CLOSE. Lots 1 a 3 et BIBLE B2 livres.
-4. Passe 2 : EN COURS, methode bac a sable. Faits : garde-cap, R0 (coupee a l'arrivee au Bois), R1 (boucle close), BIBLE B4. Suite : R2 en thread neuf, puis au fil de l'avancement, en boucle serree avec les fiches.
+4. Passe 2 : EN COURS, methode bac a sable. Faits : garde-cap, R0 (coupee a l'arrivee au Bois), R1 (boucle close), R2 (boucle close), BIBLE B5. Suite : R3 en thread neuf, puis au fil de l'avancement, en boucle serree avec les fiches.
 
 FIN_WIKI__IMPLICATIONS

@@ -1,6 +1,6 @@
 # Reproduction
 
-- version : W6
+- version : W7
 
 ## Principe
 
@@ -26,6 +26,9 @@
 - Rythme propre a chaque espece, de la ponte quotidienne a la saison annuelle (Poissoroy).
 - Vulpes interfectrix et Evolutio nocturna : ponte cyclique. Zeraora et Nyx pondent regulierement. Vulpes illusoria : regime non pose.
 - Seule une majeure pond (cf. Couples fertiles) : la ponte cyclique commence a la majorite.
+- Jours fertiles [LOGIQUE MJ] : chaque ponte a quelques jours fertiles, que la femelle sent venir (ses chaleurs). C'est par la que passe le choix des especes intelligentes (cf. Regle de la perte) : un couple qui ne veut pas de petit evite ces jours ; en vouloir un, c'est cesser de les eviter. Precedent : Nyx et Zoltraak, des siecles sans petit (cf. Nyx).
+- Delai fecondation -> ponte : modele de la poule, environ un jour [LOGIQUE MJ].
+- Duree de couvaison [LOGIQUE MJ] : proportionnelle aux cycles d'eclosion du canon de jeu, etalonnee sur Poissoroy (un peu plus d'un mois, soit environ 32 jours pour 20 cycles) : duree = 32 x cycles / 20 jours. Evoli (35 cycles) : 56 jours (cf. Elpis).
 - Un oeuf non feconde ne contient aucun embryon, donc aucune personne : c'est une nourriture, et le manger ne tue personne. Au clan, les oeufs de Zeraora et de Nyx nourrissent ceux qui refusent la chair (Zorua, N). Modele reel : des grenouilles pondent des oeufs non fecondes pour nourrir leurs tetards.
 
 ## Lactation
@@ -39,6 +42,7 @@
 - Chaque espece se reproduit a la mesure de ce qu'elle perd.
 - Chez les especes intelligentes, c'est un CHOIX. L'instinct n'est possible que pour certaines especes.
 - Zoroark : un petit se decide par peur de l'extinction, pour faire durer l'espece et la lutte.
+- Lue au pied de la lettre, la regle fait du petit un aveu : on se reproduit parce qu'on perd. Nyx et Zoltraak n'en ont jamais voulu pour cette raison ; Elpis (An 7) repond a la perte de N et de Zorua (cf. Elpis).
 - La captivite est une perte : c'est le ressort de la Pension (cf. Pension).
 
 ## Couples fertiles
@@ -55,6 +59,7 @@
 - Espece du petit : 50/50 entre pere et mere [DIVERGENCE RP : canon = espece de la mere].
 - Un parent mute compte pour son espece d'origine : la mutation n'est pas hereditaire (cf. Especes_Taxonomie). Canon : l'oeuf d'un Noctali donne un Evoli. Un revenant n'est pas un mute : il compte pour Vulpes spectralis.
 - Hybridation de certains traits possible ; l'espece reste toujours clairement l'une des deux. Exemple : Zorua porte une meche bleue heritee de Zeraora.
+- L'hybridation puise dans l'apparence d'un parent, quelle que soit l'origine du trait : inne, mutation, milieu ou type acquis [LOGIQUE MJ]. Exemples : le bleu de Zorua vient de la mutation de Zeraora ; l'or d'Elpis, de l'Electrik acquis de Zoltraak ; son violet, du milieu de Nyx (cf. Elpis).
 - Forme du petit : heredite, jamais le lieu de naissance (cf. Types_et_Spectre).
 - Especes d'un seul sexe : elles se perpetuent avec l'autre sexe d'especes de leurs groupes d'oeuf, petit a 50/50. Exemple : Folletus petulans, tout male [LOGIQUE MJ].
 

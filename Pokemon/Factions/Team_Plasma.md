@@ -1,6 +1,6 @@
 # Team Plasma
 
-- version : W3
+- version : W4
 
 ## Statut
 
@@ -9,7 +9,9 @@
 
 ## Structure
 
-- Ghetis, l'un des Sept Sages, adopte N et fait de lui le roi fantoche de la Team Plasma.
+- Ghetis, l'un des Sept Sages (cf. Ghetis), recueille N dans la nuit du 1er au 2 janvier An 7 (R2) et fait de lui le roi fantoche de la Team Plasma.
+- Fin decembre An 6 : la Plasma existe deja, sans tenue reconnaissable. Ses sbires sont en civil ; l'uniforme ne viendra que sous N, qui ne doit pas pouvoir reconnaitre ceux qu'il a combattus. Des sbires rodent aux abords du Bois des Illusions ; la tribu les tue et recueille leurs captifs, brises par la Plasma, donc incapables de temoigner (cf. Ghetis).
+- N vit la plupart du temps dans sa chambre, au chateau : le Palais de N existe donc des l'adoption [IMPLICITE : bati avant l'An 7].
 - But reel de Ghetis : separer humains et Pokemon pour etre le seul au monde a en posseder.
 - Le Shadow Triad (VO) le sert.
 - Genesect : Pokemon vieux de 300 millions d'annees, modifie par la Plasma, qui a ameliore le canon sur son dos [POKEDEX]. Projet de Dudley (VO), scientifique de la Plasma.
@@ -23,6 +25,7 @@
 - Ses sbires gardent leurs propres Pokemon pour se battre.
 - Deux sbires frappent un Munna pour sa Brume Reve.
 - Le Palais de N a ete bati en surmenant des Pokemon captures.
+- Pour N seul, la Plasma developpe des Balls sur mesure, simples receptacles sans contrainte, pour satisfaire la regle des tournois (cf. N, Ligue_et_Badges).
 
 ## N, roi fantoche (Noir/Blanc, An 20)
 
@@ -34,6 +37,7 @@
 - Ce Zoroark est Zorua, le neveu de Zoltraak (le prota) (acte ; detail en passe 2). Verif : a l'An 20, Zorua a 20 ans, Zoroark et majeur.
 - Venus et Colombe (VO Anthea et Concordia), Muses de l'Amour et de la Paix, assistent a son sacre. Au Palais, elles renseignent le joueur sur le passe de N et sur Ghetis, et soignent son equipe.
 - Enfance de N dans la tribu, avant son adoption : cf. Histoire_du_Clan.
+- Colombe (Noir 2/Blanc 2) dit que Ghetis a trouve N vivant dans les bois avec un Darumacho et Zorua [DIVERGENCE RP : le Darumacho vient de Ghetis, apres ; cf. N].
 
 ## Apres Noir/Blanc
 
