@@ -1,6 +1,6 @@
 # Meli et Melo
 
-- version : W2
+- version : W3
 
 ## Identite
 - Noms : Meli (Timothy "Timmy" Nook en VO) et Melo (Thomas "Tommy" Nook en VO). Nom de famille Nook (canon) ; aucun lien de sang avec Tom Nook.
@@ -33,7 +33,7 @@
 - Au travail, leur professionnalisme ne laisse presque rien voir de leurs gouts.
 
 ## Domicile
-- A P : sous-sol amenage a budget moyen, comme leur oncle [sous le magasin de Pont-la-Plaine : IMPLICITE]. Lits superposes, Meli en haut. Emplacement dans le village : attend la carte.
+- A P : sous-sol amenage a budget moyen, comme leur oncle [sous le magasin de Pont-la-Plaine : IMPLICITE]. Lits superposes, Meli en haut. Emplacement : haut de la rue commercante, cote ouest, terrain libre a cote pour l'agrandissement (repere 6, cf. Lieux/Pont_la_Plaine_plan.md).
 - Avant P : Lupus, pendant des annees, chez Nook [au siege : IMPLICITE].
 
 ## Vie privee

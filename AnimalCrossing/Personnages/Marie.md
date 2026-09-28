@@ -1,6 +1,6 @@
 # Marie
 
-- version : W2
+- version : W3
 
 ## Identite
 - Nom : Marie. Isabelle en VO. Nom de famille non fixe.
@@ -39,7 +39,7 @@
 ## Domicile
 - Maison de Pont-la-Plaine a deux extensions, deja payee. Elle s'en contente.
 - Une grande piece principale en bordel ; une chambre rangee a la perfection.
-- Emplacement dans le village : attend la carte.
+- Emplacement : quartier est, a cent metres du pont est, au sud du musee ; elle va a la mairie a pied (repere 24, cf. Lieux/Pont_la_Plaine_plan.md).
 
 ## Vie privee
 - Cherche quelqu'un pour partager sa vie.

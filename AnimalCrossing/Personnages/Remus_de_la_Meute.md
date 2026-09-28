@@ -1,6 +1,6 @@
 # Remus de la Meute
 
-- version : W3
+- version : W4
 
 ## Identite
 - Nom : Remus de la Meute. Fils de Viviane de la Meute (louve, Alpha) et d'Arthur de la Meute, ne Fontaine (humain) (cf. Factions/La_Meute.md).
@@ -10,6 +10,9 @@
 - Fonction a P : maire de Pont-la-Plaine, entre en poste le 12/06/632. Nomme par le Conseil de Lupus : placard dore, l'eloigner de Lupus sans le tuer (cf. Lieux/Pont_la_Plaine.md).
 - Formation : etudes de politique.
 - Fortune : sang bleu, la dette ne le concerne pas. Maire sans traitement : il vit de sa part des fonds familiaux et de leurs dividendes.
+
+## Domicile
+- A P : une tente Nook, celle des nouveaux venus, plantee sur l'herbe entre la place, la route de l'est, la riviere et l'ile de la mairie (decision 2026-09-27 ; repere 21, cf. Lieux/Pont_la_Plaine_plan.md). Le placard dore jusque dans le logement.
 
 ## Description physique
 - 1 m 98. Carrure athletique, epaules larges.

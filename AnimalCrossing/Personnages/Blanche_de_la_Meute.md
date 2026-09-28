@@ -1,6 +1,6 @@
 # Blanche de la Meute
 
-- version : W4
+- version : W5
 
 ## Identite
 - Nom : Blanche de la Meute. Whitney en VO.
@@ -8,7 +8,7 @@
 - Naissance : 17/09/602, portee ainee. 29 ans a P (632 - 602 - 1, P tombe avant son anniversaire). C'est sa date d'anniversaire canon.
 - Parents : Viviane de la Meute (Alpha) et Arthur de la Meute, ne Fontaine. Fratrie : cf. Factions/La_Meute.md.
 - Statut : sortie du systeme familial, sans rupture. Elle garde sa part des fonds familiaux et l'acces aux ressources de la Meute.
-- Domicile a P : une villa a Pont-la-Plaine, dont elle est l'elite locale (cf. Lieux/Pont_la_Plaine.md). Style moderne, deux etages, marbre blanc au sol, immenses baies vitrees. Elle y vit seule.
+- Domicile a P : une villa a Pont-la-Plaine, dont elle est l'elite locale (cf. Lieux/Pont_la_Plaine.md). Style moderne, deux etages, marbre blanc au sol, immenses baies vitrees. Elle y vit seule. Emplacement : sur le promontoire rocheux a l'est de la plage sud, chemin prive depuis la plage, loin de la route et du quai ; depuis ses baies, toute la plage et le quai (repere 31, cf. Lieux/Pont_la_Plaine_plan.md).
 - Metier : consultante en finance.
 
 ## Description physique

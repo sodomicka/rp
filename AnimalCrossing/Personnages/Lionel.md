@@ -1,6 +1,6 @@
 # Lionel
 
-- version : W3
+- version : W4
 
 ## Identite
 - Nom : Lionel. Lyle en VO, Honma-san en VO japonaise.
@@ -31,7 +31,7 @@
 - Table : carnivore et piscivore assume ; pas le moindre vegetal.
 
 ## Domicile
-- Sous-sol de l'agence Nook Immobilier, dans la rue commercante de Pont-la-Plaine (emplacement : attend la carte).
+- Sous-sol de l'agence Nook Immobilier, dans la rue commercante de Pont-la-Plaine (cote ouest, entre le magasin Nook et Groin et Trompe : repere 7, cf. Lieux/Pont_la_Plaine_plan.md).
 - Contrairement aux Nook, il s'est pris des meubles haut de gamme, qu'il a personnalises lui-meme.
 - Il le fait visiter en exemple aux clients de l'agence : ce qu'un 10/10 peut donner meme dans un endroit qui ne s'y prete pas. En son absence, Max a le droit de montrer sa chambre ; Lionel verrouille ses placards et range tout nickel.
 
