@@ -1,6 +1,6 @@
 # Gyokko
 
-- version : W1
+- version : W2
 
 ## Identite
 - nom demon : Gyokko
@@ -55,16 +55,17 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - autres Lunes : pairs qu'il toise et "gratifie" de cadeaux empoisonnes ; jalousie envers les plus talentueux.
 
 ## Trajectoire datee
-Vide a la genese (Passe 1). Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
+Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
 Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| XIXe s. (R5) | Humain mourant (harponne) deniche par Tsukiyo ; Muzan, appele via la Forteresse, le tourne en personne | humain (Managi) -> demon ; Lune Superieure Cinq (place liberee par la montee de Doma) ; creation et propriete pleine de Muzan (hors sang de la lignee) ; derniere recrue, grille figee |
 
 ## Notes
 - certitude : canon (Gyokko / Managi, art du sang, rang Sup 5, devotion a Muzan), inflechi par les divergences RP (decouverte par Tsukiyo et appel a Muzan via la Forteresse ; Muzan reste createur et proprietaire).
 - detail de la scene de decouverte (Tsukiyo tombe sur le mourant, appel de Muzan via la Forteresse, demonisation) : -> roadmap (Passe 2).
-- implication a trancher hors de cette fiche : "Tsukiyo dispose librement de la Forteresse via Nakime" est un fait stable a reporter eventuellement sur les fiches Tsukiyo et/ou Nakime - a decider par le worldbuilder, non grave ici.
+- implication soldee : l'acces libre de Tsukiyo a la Forteresse via Nakime est grave sur les fiches Tsukiyo (Capacites) et Nakime (Role et statut), et en BIBLE.
 - detail des formes et des pots : -> WIKI Systemes (a construire).
 - ecarte comme parasite : la mention "controle des metaux / cyborgs / pere de deux fils" issue d'un wiki tiers (confusion IA avec un film d'horreur japonais), sans aucune valeur canon.
 

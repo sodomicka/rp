@@ -1,6 +1,6 @@
 # Nakime
 
-- version : W2
+- version : W3
 
 ## Identite
 - nom demon : Nakime
@@ -50,17 +50,18 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - gibier : ne chasse pas ; se nourrit de jeunes hommes vierges fournis par ses parents.
 
 ## Trajectoire datee
-Vide a la genese (Passe 1). Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
+Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
 Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| XVIIIe s. (R5) | Reperee humaine par le couple (quartier des plaisirs d'une petite ville ; l'odeur de ses proies-predateurs les attire) ; coup de coeur de Tsukiyo, qui la tourne et l'adopte | humaine (Tsumiki, joueuse de biwa) -> demone ; fille adoptive, satellite de Kokushibo (pas de rang) ; Forteresse integree comme infra de l'empire et levier latent du trio |
 
 ## Notes
 - certitude : canon (entite, biwa, Forteresse), inflechie par les divergences RP (nom humain Tsumiki, filiation et lignee Tsukiyo, statut hors-rang / satellite de Kokushibo, allegeance au couple).
 - nom humain : "Otogawa" (parfois avance) ecarte car non source au databook ; retenu "Tsumiki" par choix RP. [DIVERGENCE RP]
 - desambiguisation wiki : Tsukiyo humaine = toujours "Tsumiki Tsugikuni" (nom complet) ; Nakime humaine = "Tsumiki" seul ou "la joueuse de biwa".
-- TODO worldbuilding (hors fiche) : patch BIBLE SB5 - remplacer Nakime "Otogawa [INCERTAIN]" par "Tsumiki [DIVERGENCE RP]" (DEJA APPLIQUE en B3/B4) ; enrichir la relation Nakime de la fiche Tsukiyo avec le crochet du nom-echo (Passe 2, roadmap de la rencontre).
+- TODO worldbuilding : solde (patch BIBLE SB5 applique en B3/B4 ; crochet du nom-echo reporte sur la relation Nakime de la fiche Tsukiyo, W7).
 - detail de la rencontre et de la demonisation (le plafond de la salle, l'ecoute du biwa, la promesse de la nourrir) : -> roadmap (Passe 2).
 
 ---

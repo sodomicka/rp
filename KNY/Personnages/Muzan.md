@@ -1,6 +1,6 @@
 # Muzan
 
-- version : W3
+- version : W4
 
 ## Identite
 - nom demon : Muzan Kibutsuji
@@ -66,11 +66,13 @@ Plafond : 15 entrees max.
 | XVIe s. (R4) | Recoit Akaza de Tsukiyo et se l'approprie par reinjection | gagne une Lune Sup Trois (a lui, non a la lignee) |
 | XVIe s. (R4) | Accorde Doma a l'obedience de Tsukiyo, mais pose le principe : tout vassal garde se paiera en offrandes | dette ouverte sur la lignee (soldee R5) |
 | XVIIe s. (R4) | Recoit Hantengu en don gratuit (reinjection) | gagne une Lune Sup Quatre, jouet partage |
+| XVIIIe s. (R5) | Encaisse Daki & Gyutaro (offrande soldant le vassalat de Doma) et concede Nakime a l'obedience de Tsukiyo (couverte par le surplus) | dette de la lignee soldee ; gagne une Lune Sup Six ; deux vassaux concedes a Tsukiyo (Doma, Nakime) |
+| XIXe s. (R5) | Tourne Gyokko en personne (deniche par Tsukiyo) ; la grille des Douze Kizuki se complete et se fige | gagne une Lune Sup Cinq (a lui, hors lignee) ; Douze Kizuki au complet ; gel des rangs jusqu'a Taisho |
 
 ## Notes
 - certitude : canon (Muzan Kibutsuji), inflechi par les divergences RP.
 - remede au soleil : la voie reelle de guerison et l'issue a l'ere Taisho sont tranchees HORS noyau (elles figeraient du futur dans la fiche). Renvois : ironie "programme condamne, les deux genies l'ignorent" -> CODEX ANNEXE_SAVOIRS (Passe 3) ; evenement date -> Trajectoire datee (Passe 2).
-- TODO worldbuilding (hors fiche) : patch BIBLE SB8 (mystere du remede desormais tranche) au prochain BIBLE BUILD ; creer la fiche Nezuko (entite-remede, absorbee par Muzan) - son entree en scene et sa branche familiale Kamado relevant de la roadmap / du SETUP.
+- TODO worldbuilding (hors fiche) : creer la fiche Nezuko (entite-remede, absorbee par Muzan) - entree en scene et branche familiale Kamado relevant de la roadmap R6. (Patch BIBLE SB8 : solde, mystere du remede tranche en BIBLE.)
 
 ---
 

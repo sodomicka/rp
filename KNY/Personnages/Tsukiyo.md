@@ -1,6 +1,6 @@
 # Tsukiyo
 
-- version : W6
+- version : W7
 - autre forme : cf. WIKI Personnages/Tsumiki.md (forme humaine, vie close a 21 ans)
 
 ## Identite
@@ -66,7 +66,7 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 ## Relations
 - Kokushibo (Michikatsu Tsugikuni) : epoux, egal, jumeau aine de Yoriichi. Amour fou et reciproque. A elle, pas a Muzan.
 - Muzan Kibutsuji : rival et allie force ; froideur clinique. Equilibre de destruction mutuelle.
-- Nakime : fille adoptive et protegee ; aussi sa creation et sa favorite. Satellite de Kokushibo comme elle.
+- Nakime : fille adoptive et protegee ; aussi sa creation et sa favorite. Satellite de Kokushibo comme elle. Lien amorce par l'homonymie : humaine, Nakime s'appelait Tsumiki - l'echo d'un prenom que Tsukiyo se croyait avoir oublie.
 - Doma : prodige et favori joue (un jeu et un levier de plus, zero affection - seule Nakime compte) ; sa creation. Lune sous son obedience (deal negocie avec Muzan).
 - Akaza : sa creation directe ; indifference, brute sans psyche distrayante a ses yeux.
 - Hantengu : sa creation-jouet, maltraitee pour le plaisir puis donnee a Muzan.
@@ -91,6 +91,10 @@ Plafond : 15 entrees max.
 | XVIe s. (R4) | Cree Akaza (carnage du dojo rival) ; n'y voit qu'une brute, l'offre a Muzan qui se l'approprie | premiere Lune de la lignee ; Akaza echu a Muzan (Lune Sup Trois), non vassal |
 | XVIe s. (R4) | Cree Doma (la secte) ; le garde en vassal, lui ordonne de paraitre faible (Lune Six) et de monter vite pour aiguillonner Akaza ; Muzan pose le principe des offrandes | vassal-prodige acquis (dette : tout vassal garde se paie en offrandes) ; reseau de rabattage integre |
 | XVIIe s. (R4) | Cree Hantengu par cruaute ludique (souffre-douleur de Doma et Akaza) ; l'offre gratuitement a Muzan | jouet cede a Muzan (Lune Sup Quatre) ; trois Lunes anciennes en grille |
+| XVIIIe s. (R5) | Rabat Daki & Gyutaro (mourants, quartier des plaisirs) via Doma, les tourne, les offre a Muzan pour solder le principe des offrandes (prix du vassalat de Doma) | dette de vassalite soldee (et au-dela) ; deux Lunes Sup Six cedees a Muzan ; surplus couvrant la future vassalite de Nakime |
+| XVIIIe s. (R5) | Met sa place de Lune Sup Deux en jeu au duel, galvanise Doma (son champion) qui demolit Akaza ; puis SE RETIRE dans l'ombre | perd le rang Deux officiel -> satellite de Kokushibo (seule epouse en facade) ; vraie puissance dissimulee aux Lunes |
+| XVIIIe s. (R5) | Coup de coeur pour une joueuse de biwa humaine (quartier des plaisirs d'une petite ville, attiree par l'odeur de ses proies-predateurs) ; la tourne, l'adopte, integre sa Forteresse comme infra de l'empire | fille adoptive acquise ; Forteresse = levier latent du trio, librement accessible ; cellule familiale amorcee |
+| XIXe s. (R5) | Deniche Gyokko mourant et le livre a Muzan (tourne par le roi en personne, hors de son sang) | dernier reperage livre ; grille des Douze Kizuki complete et figee |
 
 ## Notes
 - certitude globale : OC [DIVERGENCE RP]. Aucun filet canon hors de cette fiche.

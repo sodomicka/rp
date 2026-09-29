@@ -1,6 +1,6 @@
 # Secte du Paradis eternel
 
-- version : W1
+- version : W2
 
 ## Nature
 Secte religieuse centree sur le culte de Doma, faux prophete depuis l'enfance. Nom canon : Eternal Paradise Faith. Sanctuaire a iconographie de lotus, ou Doma trone, ecoute les peines de ses fideles et les conseille - avant de les devorer. [canon, inflechi RP]
@@ -9,7 +9,7 @@ Secte religieuse centree sur le culte de Doma, faux prophete depuis l'enfance. N
 Non localisee precisement (generique) : a caler si un RP s'y pose. Sanctuaire isole, a la maniere des cultes qui prosperent en marge.
 
 ## Fonction narrative
-Antenne de rabattage de la lignee de Tsukiyo et garde-manger de Doma. Fondee par les parents de Doma autour de l'enfant aux yeux d'arc-en-ciel, tenu pour un elu capable d'entendre les dieux. Apres la mort des parents et la demonisation de Doma par Tsukiyo (R4), elle devient la machine a rabattre de la lignee : Doma y preche, console, puis devore - de preference des femmes parmi ses fideles - et y repere les humains interessants. C'est par ce reseau qu'il trouvera Daki et Gyutaro humains et reperera Nakime (R5). Pont narratif R4 -> R5.
+Antenne de rabattage de la lignee de Tsukiyo et garde-manger de Doma. Fondee par les parents de Doma autour de l'enfant aux yeux d'arc-en-ciel, tenu pour un elu capable d'entendre les dieux. Apres la mort des parents et la demonisation de Doma par Tsukiyo (R4), elle devient la machine a rabattre de la lignee : Doma y preche, console, puis devore - de preference des femmes parmi ses fideles - et y repere les humains interessants. C'est par ce reseau qu'il trouvera Daki et Gyutaro humains (R5) ; Nakime, elle, sera reperee par le couple, pas par la secte. Pont narratif R4 -> R5.
 
 ## Culte et devotion
 - Figure de culte (pour les fideles) : Doma, dieu vivant ; ils ignorent sa vraie nature.

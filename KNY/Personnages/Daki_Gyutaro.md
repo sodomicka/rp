@@ -1,6 +1,6 @@
 # Daki et Gyutaro
 
-- version : W1
+- version : W2
 
 ## Identite
 - entite : fratrie demon a corps et rang partages - indissociable
@@ -68,11 +68,12 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - Lunes Inferieures : rivales qui lorgnent leur rang ; menace de fond permanente.
 
 ## Trajectoire datee
-Vide a la genese (Passe 1). Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
+Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
 Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| XVIIIe s. (R5) | Trouves humains mourants (quartier des plaisirs) par Doma-rabatteur, tournes par Tsukiyo, offerts a Muzan comme monnaie de vassalite (soldent Doma) | humains -> demons ; Lune Superieure Six (corps et rang partages) ; Kizuki de Muzan, non vassaux de la lignee ; psyche transactionnelle tournee vers Muzan |
 
 ## Notes
 - certitude : canon (Ume/Daki, Gyutaro), inflechie par les divergences RP (rabattus par Doma puis tournes par Tsukiyo - et non par Doma directement ; donnes a Muzan comme monnaie de vassalite ; psyche de lignee transactionnelle, tournee vers Muzan).

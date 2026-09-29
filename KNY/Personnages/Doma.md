@@ -1,6 +1,6 @@
 # Doma
 
-- version : W3
+- version : W4
 
 ## Identite
 - nom demon : Doma
@@ -40,7 +40,7 @@
 Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - prodige et favori de Tsukiyo, sa creation ; l'une de ses plus belles reussites. Mais le favoritisme qu'elle lui temoigne est un role qu'elle JOUE - un jeu et un levier de plus, jamais de l'affection (seule Nakime compte). [DIVERGENCE RP]
 - accede au rang de Lune Superieure Deux en l'emportant sur Akaza, lors du duel que Tsukiyo arbitre en liberant son propre rang pour se retirer dans l'ombre (Akaza echoit a la Trois). [DIVERGENCE RP]
-- rabatteur de la lignee : son reseau d'influence - la secte (la Secte du Paradis eternel) - est l'un des atouts qui interessent le plus Tsukiyo chez lui. Machine a rabattre les proies et a reperer les humains interessants pour la lignee. A trouve Daki et Gyutaro humains, et repere Nakime humaine. [DIVERGENCE RP]
+- rabatteur de la lignee : son reseau d'influence - la secte (la Secte du Paradis eternel) - est l'un des atouts qui interessent le plus Tsukiyo chez lui. Machine a rabattre les proies et a reperer les humains interessants pour la lignee. A trouve Daki et Gyutaro humains. [DIVERGENCE RP]
 - vassal sous l'obedience de Tsukiyo (deal negocie avec Muzan).
 - ressort de sa loyaute : il doit a Tsukiyo son eternite et sa vraie puissance de dieu - non plus le statut creux de faux-prophete. Tant qu'il la voit comme une deesse hors d'atteinte, il est l'outil parfait. [DIVERGENCE RP]
 - sandbag sur consigne : Tsukiyo lui ordonne de debuter Lune Superieure Six en jouant la Lune faible, puis de monter vite - un appat tendu a l'orgueil d'Akaza pour le pousser a se depasser. [DIVERGENCE RP]
@@ -50,18 +50,20 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - Muzan Kibutsuji : suzerain qu'il respecte, servi via Tsukiyo ; nulle adoration - celle-ci va tout entiere a sa maitresse.
 - Akaza : co-creation de Tsukiyo et rival de rang, qu'il a battu pour la place de Lune Superieure Deux.
 - Hantengu : souffre-douleur commun avec Akaza. Creature-jouet creee par Tsukiyo justement pour etre maltraitee par Doma et Akaza - defouloir partage des deux Lunes.
-- Nakime : reperee humaine par lui ; satellite du couple.
+- Nakime : satellite du couple ; fille adoptive de leur matriarche.
 - Daki et Gyutaro : trouves humains par lui, remis a Tsukiyo.
 - ses fideles : troupeau, garde-manger et antennes de rabattage ; nulle valeur a ses yeux hors de leur utilite.
 
 ## Trajectoire datee
-Vide a la genese (Passe 1). Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
+Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
 Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | XVIe s. (R4) | Tourne par Tsukiyo (la secte, a la mort de ses parents) ; nait sa fascination unique pour elle | humain -> demon ; vassal sous l'obedience de Tsukiyo ; premiere et seule emotion de sa vie |
 | XVIe s. (R4) | Sur consigne, debute Lune Superieure Six (sandbag) et grimpe vite, en appat tendu a Akaza ; sa secte devient l'antenne de rabattage de la lignee | Lune Sup Six (force reelle masquee) ; rabatteur officiel ; rivalite avec Akaza installee |
+| XVIIIe s. (R5) | Rabat Daki & Gyutaro (mourants, quartier des plaisirs) et les remet a Tsukiyo ; monte Lune Sup Six -> Cinq (libere la Six pour la fratrie) | Lune Sup Cinq ; sa montee graduelle commence a agacer Akaza |
+| XVIIIe s. (R5) | Au duel, galvanise par Tsukiyo (qui met son propre rang en jeu), leve le sandbag et demolit Akaza | Lune Sup Cinq -> Deux ; supplante Akaza ; reste vassal-prodige de Tsukiyo |
 
 ## Notes
 - certitude : canon (Doma), inflechie par les divergences RP (createur = Tsukiyo et non Muzan, vassalite, fascination-loyaute envers elle, rabatteur de la lignee).

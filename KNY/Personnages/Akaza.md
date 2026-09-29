@@ -1,6 +1,6 @@
 # Akaza
 
-- version : W3
+- version : W4
 
 ## Identite
 - nom demon : Akaza
@@ -59,13 +59,14 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - Nakime : satellite du couple ; pas de rapport notable.
 
 ## Trajectoire datee
-Vide a la genese (Passe 1). Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
+Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
 Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | XVIe s. (R4) | Tourne par Tsukiyo (reperee au carnage du dojo) ; offert a Muzan qui se l'approprie par reinjection | humain (Hakuji) -> demon ; Lune Superieure Trois ; appartient a Muzan, non a la lignee ; besoin frustre de plaire a Tsukiyo |
 | XVIe s. (R4) | Tsukiyo lance Doma comme rival monte de Lune Six : aiguillon pour le pousser a se depasser | rivalite (en partie fabriquee) avec Doma installee ; rancoeur de fond amorcee |
+| XVIIIe s. (R5) | Jubile a l'idee d'ecraser Doma au duel (le croit parvenu monte trop vite), mais mange le parquet ; reste Lune Sup Trois | humiliation fondatrice ; rancoeur envers Doma soudee ; revanche perpetuelle installee (deversee aussi sur Hantengu) |
 
 ## Notes
 - certitude : canon (Akaza / Hakuji), inflechie par les divergences RP (createur = Tsukiyo et non Muzan ; indifference subie ; reprise par Muzan via reinjection ; defaite a la loyale contre Doma et revanche perpetuelle ; appartenance a Muzan plutot qu'a la lignee).
