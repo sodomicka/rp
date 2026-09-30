@@ -1,7 +1,7 @@
 # Roadmap_R5_Lunes_Modernes
 
 - statut : a venir (grandes lignes validees ; detail pose)
-- version : W1
+- version : W2
 - perspective : Tsukiyo (matriarche d'une lignee de Lunes)
 - portee : ere Edo, XVIIIe a XIXe s., de Daki et Gyutaro au gel des rangs ; l'arc qui complete et FIGE la grille des Douze Kizuki, puis ouvre la longue accalmie avant Taisho
 
@@ -30,7 +30,6 @@
 ## Conditions de cloture
 - Grille des Lunes Superieures complete et FIGEE : Kokushibo Un, Doma Deux (vassal de Tsukiyo, sandbag leve), Akaza Trois (humilie), Hantengu Quatre, Gyokko Cinq, Daki et Gyutaro Six.
 - Kokushibo atteint son apogee pendant l'accalmie : six yeux ouverts (4 -> 6), maitrise pleine du Souffle de la Lune.
-- Reconciliation du "Doma Lune Quatre" de la chrono (incompatible avec Hantengu Quatre) : Doma TRANSITE par la Cinq - Six->Cinq a l'etape 1 (pour liberer la Six a D&G), puis Cinq->Deux au duel ; la Cinq revient ensuite a Gyokko. PATCH A REPERCUTER sur Chronologie_KNY.md : "Doma (Lune Quatre)" -> "Doma (Lune Cinq)" au duel.
 - Satellites de Kokushibo : Nakime (fille adoptive, maitresse de la Forteresse) et Tsukiyo (retiree, sans rang officiel, puissance dissimulee).
 - Principe des offrandes solde (Daki et Gyutaro ont paye le vassalat de Doma ; Nakime couverte par le surplus).
 - Forteresse Infinie integree comme infrastructure de l'empire et levier latent du trio (n'appartient pas a Muzan, accessible a Tsukiyo).
@@ -38,7 +37,6 @@
 - Cellule familiale couple + Nakime esquissee (prefigure la paix finale).
 - Gel des rangs : aucune Lune n'est abattue du XIXe au conflit final.
 - Echelle temporelle de l'arc : XVIIIe-XIXe s. (Daki et Gyutaro, duel, Nakime au XVIIIe ; Gyokko au XIXe ; gel XIXe->Taisho [SNAPSHOTS]).
-- A CREER A CHAUD (cloture de boucle R5) : fiche Lieu Forteresse Infinie ; trajectoires datees de Tsukiyo, Doma, Akaza, Daki_Gyutaro, Nakime, Gyokko, Muzan et Kokushibo (apogee des six yeux actee).
 - Enchaine sur R6 - Conflit final Taisho (branche Kamado/Nezuko differee ici ; arc sans doute eclate en R6+).
 
 ---

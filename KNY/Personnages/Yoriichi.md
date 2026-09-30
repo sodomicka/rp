@@ -1,6 +1,6 @@
 # Yoriichi Tsugikuni
 
-- version : W2
+- version : W5
 
 ## Identite
 - nom : Yoriichi Tsugikuni
@@ -23,7 +23,7 @@
 - vue transparente comme seconde nature : il lit le vivant a nu, ce qui le rend a la fois invincible et etranger au commun des hommes.
 
 ## Capacites
-- Souffle du Soleil : style originel qu'il cree, source de tous les souffles derives (la Lune comprise, batie par opposition). Le plus dangereux pour les demons. Detail des formes : cf. WIKI Systemes (a construire).
+- Souffle du Soleil : style originel qu'il cree, source de tous les souffles derives (la Lune comprise, batie par opposition). Le plus dangereux pour les demons. Detail des formes : cf. WIKI Systemes/Souffles.md.
 - vue transparente (le Monde Transparent) : percoit muscles, flux sanguin et articulations de l'adversaire ; anticipe et neutralise tout mouvement avant qu'il n'aboutisse.
 - Marque de Pourfendeur : decuple ses capacites. Il la porte sans mourir a 25 ans (l'exception canon) ; mais dans le RP, c'est le couple, non la vieillesse, qui l'emporte.
 - niveau : le plus grand sabreur de l'histoire. Superieur a tout pourfendeur, a tout demon pris isolement, et au seul Muzan - qu'il a force a se diviser pour survivre. Battu uniquement par le couple UNI, au prix de la Danse des Dieux de la Lune developpee specialement contre lui. [DIVERGENCE RP / power-scaling]
@@ -31,10 +31,10 @@
 ## Histoire
 - cadet des jumeaux Tsugikuni ; tache de naissance au front, cru muet et simplet enfant, en realite prodige. Devoue a sa mere au bras infirme. Les jumeaux passent pour un mauvais presage de l'epoque.
 - epouse Uta ; elle et leur enfant a naitre sont tues par un demon pendant son absence. Le deuil le jette au Corps des Pourfendeurs.
-- cree le Souffle du Soleil et le transmet (branche Kamado / Hinokami Kagura). La fenetre temporelle entre cette diffusion et sa mort prematuree reste a caler -> Passe 2 (cf. SB3), pour que les souffles derives existent deja a l'ere Taisho.
-- affronte Muzan et le decoupe ; Muzan se divise en fragments pour survivre. [canon conserve]
+- cree le Souffle du Soleil et le transmet (branche Kamado / Hinokami Kagura). Il enseigne les Souffles au QG du Corps avant sa mort : les souffles derives existent a l'ere Taisho (calage R1-R2).
+- affronte Muzan et le decoupe ; Muzan se divise en fragments pour survivre. [canon conserve] Tamayo n'accompagne pas encore le roi ce jour-la. [DIVERGENCE RP]
 - craint et marginalise par le Corps, que sa puissance monstrueuse effraie.
-- croit son frere et Tsumiki disparus : pendant que le couple infiltre le Corps pour traquer Muzan, Michikatsu joue le pourfendeur modele et se rapproche de Yoriichi, qui les croit reconcilies et revenus dans sa vie. Puis ils s'evanouissent - un village rase, nul cadavre, une lettre les disant partis venger l'Oyakata. Yoriichi les pleure, les pensant devores comme les autres. [DIVERGENCE RP - en realite : demonisation maquillee, cf. roadmap Passe 2]
+- croit son frere et Tsumiki disparus : pendant que le couple infiltre le Corps pour traquer Muzan, Michikatsu joue le pourfendeur modele et se rapproche de Yoriichi, qui les croit reconcilies et revenus dans sa vie. Puis ils s'evanouissent. Une lettre signee Michikatsu impute a des demons la mort de Tsumiki et de l'Oyakata, et l'annonce parti les venger. Plus tard, un village rase sans cadavre et la lame abandonnee de son frere lui font conclure que Michikatsu y a peri, devore. Yoriichi les pleure tous deux. [DIVERGENCE RP - mort maquillee du couple]
 - le duel fatal : il les retrouve demons. Aucune hesitation, il frappe a pleine puissance. Mais voir Tsumiki - qu'il rangeait en epouse soumise ordinaire de l'ere - enragee et toutes armes dehors l'etonne autant qu'il le decoit ; constater son frere dans le meme aveuglement l'attriste. Cette tristesse, le couple la lit comme la pitie condescendante qu'il deteste. Tue a deux, dans la force de l'age. [DIVERGENCE RP]
 
 ## Relations
@@ -45,17 +45,17 @@
 - Corps des Pourfendeurs : membre marginalise, craint pour sa puissance.
 
 ## Trajectoire datee
-Ligne close : une seule entree, sa mort (force de l'age, fin R2). Yoriichi est mort bien avant le point de depart du RP (ere Taisho) ; aucune evolution post-mortem.
+Ligne close : une seule entree, sa mort (force de l'age, fin R2) ; aucune evolution post-mortem.
 Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| Ere Sengoku, XVe s. (R2) | Accourt au massacre-appat de Sasayama, retrouve sa famille faite demons, frappe a pleine puissance ; tombe a deux contre un sous la Danse des Dieux de la Lune | mort dans la force de l'age (~35 ans) ; ligne close |
+| Ere Sengoku, XVe s. (R2) | Accourt au massacre-appat d'un bourg de la frontiere Hyogo/Kyoto, retrouve sa famille faite demons, frappe a pleine puissance ; tombe a deux contre un sous la Danse des Dieux de la Lune | mort dans la force de l'age (~35 ans) ; ligne close |
 
 ## Notes
 - certitude : canon (Yoriichi), inflechi par la divergence RP (tue jeune par le couple au lieu de la vieillesse ; le reste conserve).
-- detail du duel fatal et de la disparition maquillee (plan des archives par Tsumiki, meurtre de l'Oyakata, fuite vers Muzan, demonisation, village rase) : -> roadmap (Passe 2).
-- la descendance Tsugikuni qui mene a Muichiro Tokito (Pilier de la Brume) descend du frere (Michikatsu), non de Yoriichi : sa lignee s'eteint avec Uta. [INTERPRETATION - usage a decider en Passe 2]
+- detail du duel fatal et de la disparition maquillee (plan des archives par Tsumiki, meurtre de l'Oyakata, fuite vers Muzan, demonisation, village rase) : -> roadmaps R1-R2.
+- la descendance Tsugikuni qui mene a Muichiro Tokito (Pilier de la Brume) descend du frere (Michikatsu), non de Yoriichi : sa lignee s'eteint avec Uta. [canon] ; usage narratif : ouvert (cf. BIBLE SB8).
 
 ---
 

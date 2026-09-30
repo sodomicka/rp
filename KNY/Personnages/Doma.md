@@ -1,6 +1,6 @@
 # Doma
 
-- version : W4
+- version : W6
 
 ## Identite
 - nom demon : Doma
@@ -29,9 +29,10 @@
 - preche et console : tient sa secte par le verbe, reconforte les fideles - larmes de glace a l'appui - avant de les devorer.
 - devore de preference des femmes, parmi ses fideles ; son garde-manger sert aussi d'antenne de rabattage.
 - joue la chaleur jusque dans le combat : badin, souriant, complimente l'adversaire ; le masque ne tombe jamais en public.
+- sous le masque jovial, arrogance misogyne : les femmes sont a ses yeux des mets de choix, jamais des adversaires a prendre au serieux.
 
 ## Capacites
-- Art demoniaque du sang - cryokinesie : givre et glace a volonte. Poudre de glace gelante et sedative qu'il diffuse et que les victimes inhalent ; fragments et lames de glace ; constructs animes (lotus, effigies de glace) ; congelation de l'air et des fluides. Detail des formes : cf. WIKI Systemes (a construire).
+- Art demoniaque du sang - cryokinesie : givre et glace a volonte. Poudre de glace gelante et sedative qu'il diffuse et que les victimes inhalent ; fragments et lames de glace ; constructs animes (lotus, effigies de glace) ; congelation de l'air et des fluides. Detail des formes : cf. WIKI Systemes/Arts_Demoniaques.md.
 - combattant de premier ordre : Lune Superieure Deux, l'une des Lunes les plus puissantes. Martialement au-dessus d'Akaza ; sous Tsukiyo (et a fortiori le couple uni et Muzan).
 - arme sociale : son vide emotionnel comme atout strategique - lecture et manipulation sans angle mort affectif.
 - issu de la lignee de Tsukiyo : transforme par un sang de fort calibre, dont sa puissance de Lune Superieure Deux est a la hauteur.

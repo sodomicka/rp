@@ -1,6 +1,6 @@
 # Nakime
 
-- version : W3
+- version : W4
 
 ## Identite
 - nom demon : Nakime
@@ -61,7 +61,6 @@ Plafond : 15 entrees max.
 - certitude : canon (entite, biwa, Forteresse), inflechie par les divergences RP (nom humain Tsumiki, filiation et lignee Tsukiyo, statut hors-rang / satellite de Kokushibo, allegeance au couple).
 - nom humain : "Otogawa" (parfois avance) ecarte car non source au databook ; retenu "Tsumiki" par choix RP. [DIVERGENCE RP]
 - desambiguisation wiki : Tsukiyo humaine = toujours "Tsumiki Tsugikuni" (nom complet) ; Nakime humaine = "Tsumiki" seul ou "la joueuse de biwa".
-- TODO worldbuilding : solde (patch BIBLE SB5 applique en B3/B4 ; crochet du nom-echo reporte sur la relation Nakime de la fiche Tsukiyo, W7).
 - detail de la rencontre et de la demonisation (le plafond de la salle, l'ecoute du biwa, la promesse de la nourrir) : -> roadmap (Passe 2).
 
 ---

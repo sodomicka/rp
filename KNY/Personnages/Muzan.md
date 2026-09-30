@@ -1,13 +1,13 @@
 # Muzan
 
-- version : W4
+- version : W6
 
 ## Identite
 - nom demon : Muzan Kibutsuji
 - espece : demon - le premier de l'histoire
 - rang : roi des demons, progeniteur de l'espece ; au-dessus des Douze Kizuki (aucun rang Kizuki, il les domine tous)
 - affiliation : trio dominant (Muzan, Kokushibo, Tsukiyo) ; suzerain des Douze Kizuki
-- demonisation : ere Heian - devenu le premier demon lors d'un traitement medical ; origine de l'espece demoniaque
+- demonisation : ere Heian (IXe-Xe s. : plus de mille ans avant l'ere Taisho) - devenu le premier demon lors d'un traitement medical ; origine de l'espece demoniaque
 - certitude : canon, inflechi [DIVERGENCE RP]
 
 ## Apparence
@@ -34,7 +34,7 @@
 - malediction du nom : prononcer "Kibutsuji" detruit les cellules du demon qui le dit - mort immediate. Fail-safe contre la delation.
 - regeneration extreme, immortalite biologique (ne vieillit pas).
 - faiblesses : le soleil (seule vraie mort), les lames Nichirin (decapitation durable), la glycine.
-- niveau : sommet individuel absolu de l'univers, au-dessus de chaque Kizuki d'un ordre de grandeur. Seul le couple UNI le depasse - fondement de l'equilibre de terreur.
+- niveau : sommet individuel absolu de l'univers, un ordre de grandeur au-dessus de chaque Kizuki, hors Kokushibo qui s'en approche. Seul le couple UNI le depasse et le terrifie - fondement de l'equilibre de terreur.
 
 ## Role et statut etablis
 Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
@@ -43,7 +43,7 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - co-conception du programme des Douze Kizuki avec Tsukiyo (vivier anti-soleil) : elle concoit, Kokushibo legitime, Muzan acte. Il tient ce programme pour LA voie de guerison. [DIVERGENCE RP]
 - du sang et du temps y sont investis, mais les Kizuki restent du betail : tous des pions. Il a mille fois la puissance d'Akaza et, s'il le voulait, cent fois l'influence de Doma.
 - exception unique - le couple : des joueurs, pas des pions. Allies de circonstance qui se sont extraits de la condition de betail en tuant Yoriichi, LE pourfendeur. [DIVERGENCE RP]
-- equilibre de terreur a trois - destruction mutuelle assuree (Muzan, Kokushibo, Tsukiyo). La laisse de sang est rompue pour le couple : independance absolue, plus aucune commande a distance sur eux. Eux seuls peuvent prononcer "Kibutsuji" sans mourir ; Tsukiyo s'en sert comme rappel a l'ordre de leur objectif commun. Muzan fulmine mais ne leve pas la main contre eux. [DIVERGENCE RP]
+- equilibre de terreur a trois (Muzan, Kokushibo, Tsukiyo) - impasse mutuelle : ni Muzan ni le couple ne peut tuer l'autre, sinon par le soleil. La laisse de sang est rompue pour le couple : independance absolue, plus aucune commande a distance sur eux. Eux - et Tamayo, seule exception hors-couple - peuvent prononcer "Kibutsuji" sans mourir ; Tsukiyo s'en sert comme rappel a l'ordre de leur objectif commun. Muzan fulmine mais ne leve pas la main contre eux. [DIVERGENCE RP]
 
 ## Relations
 - Kokushibo (Michikatsu Tsugikuni) : allie de circonstance. Muzan respecte sa force et sa franchise. Joueur, pas pion.
@@ -72,7 +72,6 @@ Plafond : 15 entrees max.
 ## Notes
 - certitude : canon (Muzan Kibutsuji), inflechi par les divergences RP.
 - remede au soleil : la voie reelle de guerison et l'issue a l'ere Taisho sont tranchees HORS noyau (elles figeraient du futur dans la fiche). Renvois : ironie "programme condamne, les deux genies l'ignorent" -> CODEX ANNEXE_SAVOIRS (Passe 3) ; evenement date -> Trajectoire datee (Passe 2).
-- TODO worldbuilding (hors fiche) : creer la fiche Nezuko (entite-remede, absorbee par Muzan) - entree en scene et branche familiale Kamado relevant de la roadmap R6. (Patch BIBLE SB8 : solde, mystere du remede tranche en BIBLE.)
 
 ---
 

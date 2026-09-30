@@ -1,6 +1,6 @@
 # Akaza
 
-- version : W4
+- version : W6
 
 ## Identite
 - nom demon : Akaza
@@ -34,7 +34,7 @@ Fanatique de la force pure, structure par une seule loi : devenir le plus fort. 
 - harcele Doma de demandes de revanche, encore et encore ; refuse net d'avoir perdu a la loyale.
 
 ## Capacites
-- Art demoniaque du sang - technique martiale destructrice a mains nues : art du combat rapproche pousse au surnaturel, frappes capables de pulveriser la matiere. Detail des formes : cf. WIKI Systemes (a construire).
+- Art demoniaque du sang - technique martiale destructrice a mains nues : art du combat rapproche pousse au surnaturel, frappes capables de pulveriser la matiere. Detail des formes : cf. WIKI Systemes/Arts_Demoniaques.md.
 - detection de combat ("boussole" interne) : lit l'aura combative et l'intention de tuer de l'adversaire, anticipe et apprend les techniques adverses en plein affrontement.
 - combattant de premier ordre, mais martialement SOUS Doma ; loin sous Tsukiyo, le couple uni et Muzan.
 - issu de la lignee de Tsukiyo : transforme par un sang de fort calibre (saturation equivalent Lune Superieure Deux) ; sa puissance realisee s'arrete a la Trois.
@@ -54,7 +54,7 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - Muzan Kibutsuji : son suzerain reel ; c'est a lui qu'Akaza appartient, et non a la lignee qui l'a fait. Muzan se l'est approprie en lui reinjectant son sang a l'offre de Tsukiyo.
 - Doma : co-creation de Tsukiyo, rival de rang et favori visible de la maitresse. Cible de toute la frustration d'Akaza. L'a battu a la loyale pour la Lune Superieure Deux ; Akaza nie la defaite et exige revanche, Doma repond par un rire insincere. Akaza ignore le vrai ressort du favoritisme : l'utilite, pas la force. Il ignore aussi que l'ascension de Doma (parti faible, Lune Six) fut un aiguillon tendu par Tsukiyo pour le pousser, lui, a se depasser.
 - Hantengu : souffre-douleur commun avec Doma. Creature-jouet de Tsukiyo, defouloir partage des deux Lunes.
-- Tamayo (miroir, sans contact) : le seul autre demon qui POURRAIT connaitre un reveil de l'humanite, mais la sienne reste muree faute de souvenirs. S'il les retrouvait, il detesterait ce qu'il est devenu. Miroir noir de Tamayo - aucun contact entre eux, simple echo thematique (hypothese contrefactuelle ; ne pas presumer une recuperation de memoire, cf. Notes).
+- Tamayo (miroir, sans contact) : le seul autre demon qui POURRAIT connaitre un reveil de l'humanite, mais la sienne reste muree faute de souvenirs. S'il les retrouvait, il detesterait ce qu'il est devenu. Miroir noir de Tamayo - aucun contact entre eux, simple echo thematique ; le devenir de cette memoire releve de la Trajectoire (apres R6).
 - Kokushibo : moitie du couple, tres au-dessus de lui ; rapport lointain, sans lien particulier.
 - Nakime : satellite du couple ; pas de rapport notable.
 
@@ -71,8 +71,7 @@ Plafond : 15 entrees max.
 ## Notes
 - certitude : canon (Akaza / Hakuji), inflechie par les divergences RP (createur = Tsukiyo et non Muzan ; indifference subie ; reprise par Muzan via reinjection ; defaite a la loyale contre Doma et revanche perpetuelle ; appartenance a Muzan plutot qu'a la lignee).
 - detail de la rencontre et du tournage (scene du massacre, couple attire par l'odeur du sang, indifference de Tsukiyo) : -> roadmap (Passe 2).
-- amnesie de la vie humaine : conforme au canon ; ici exploitee comme table rase. Sort final non encore defini (cf. SB5, a definir en Passe 2) - ne pas presumer une recuperation de memoire.
-- detail des formes du Kekkijutsu (combat martial + detection de combat) : -> WIKI Systemes (a construire).
+- amnesie de la vie humaine : conforme au canon ; ici exploitee comme table rase. Sort final : grandes lignes actees (Roadmap/Tsukiyo/00_Garde_Cap.md, build uniquement) ; Trajectoire a alimenter apres R6.
 - backstory humaine de reference : misere, pere malade puis suicide, vols, tatouages de criminel ; recueilli par un maitre de dojo et sa fille Koyuki ; puits empoisonne par un dojo rival, mort du maitre et de Koyuki ; massacre du dojo rival a mains nues. [le nom du maitre et le compte exact des morts a confirmer si besoin en scene]
 
 ---

@@ -1,6 +1,6 @@
 # Gyokko
 
-- version : W2
+- version : W3
 
 ## Identite
 - nom demon : Gyokko
@@ -38,7 +38,7 @@ Gyokko est le plus monstrueux des Lunes Superieures, celui qui a conserve le moi
   - Manipulation de chair : il materialise des pots a volonte depuis son propre corps et remodele son apparence (petits bras, ecailles, forme de triton).
   - manipulation de l'eau et creation de monstres aquatiques surgis des pots.
 - puissance : Lune Superieure Cinq, un cran au-dessus de Daki et Gyutaro ; regeneration, changement de forme, haute vitesse, endurance quasi illimitee.
-- detail des formes : cf. WIKI Systemes (a construire).
+- detail des formes canon : a documenter a la boucle R6.
 
 ## Role et statut etablis
 Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
@@ -66,7 +66,6 @@ Plafond : 15 entrees max.
 - certitude : canon (Gyokko / Managi, art du sang, rang Sup 5, devotion a Muzan), inflechi par les divergences RP (decouverte par Tsukiyo et appel a Muzan via la Forteresse ; Muzan reste createur et proprietaire).
 - detail de la scene de decouverte (Tsukiyo tombe sur le mourant, appel de Muzan via la Forteresse, demonisation) : -> roadmap (Passe 2).
 - implication soldee : l'acces libre de Tsukiyo a la Forteresse via Nakime est grave sur les fiches Tsukiyo (Capacites) et Nakime (Role et statut), et en BIBLE.
-- detail des formes et des pots : -> WIKI Systemes (a construire).
 - ecarte comme parasite : la mention "controle des metaux / cyborgs / pere de deux fils" issue d'un wiki tiers (confusion IA avec un film d'horreur japonais), sans aucune valeur canon.
 
 ---

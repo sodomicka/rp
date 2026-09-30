@@ -1,6 +1,6 @@
 # Kokushibo
 
-- version : W6
+- version : W8
 - autre forme : cf. WIKI Personnages/Michikatsu.md (forme humaine, vie close a 24 ans)
 
 ## Identite
@@ -17,6 +17,7 @@
 - six yeux disposes en trois paires ; la paire naturelle porte le kanji du rang (Un), iris jaunes, sclere de chair rouge
 - longs cheveux noirs
 - kimono sombre a motif hexagonal
+- Marque de Pourfendeur conservee sous forme demoniaque : motifs au visage [canon]
 
 ## Personnalite
 Meme noyau que l'humain (cf. Michikatsu), plus franc que sa femme : il dissimule moins, va droit.
@@ -26,7 +27,7 @@ Meme noyau que l'humain (cf. Michikatsu), plus franc que sa femme : il dissimule
 - constante : follement amoureux de Tsukiyo, reciproque.
 
 ## Capacites
-- niveau de combat : sommet des Lunes, le plus fort apres Muzan. Tier-Muzan quasi acquis d'office ; l'union avec Tsukiyo scelle le reste.
+- niveau de combat : tres largement au-dessus des autres Lunes, pas loin du niveau de Muzan. Uni a Tsukiyo, le couple depasse Muzan et le terrifie (cf. WIKI Power_Scaling/Hierarchie.md).
 - privilegie le sabre et le Souffle de la Lune sur les arts demoniaques bruts.
 - six yeux : vision percant le mouvement (muscles, flux sanguin, articulations) ; lit et anticipe les souffles adverses.
 - katana de chair : lame rouge veinee, couverte d'yeux, forgee de son propre corps ; s'allonge et se deforme a volonte ; aussi dure qu'un Nichirin.
@@ -34,25 +35,25 @@ Meme noyau que l'humain (cf. Michikatsu), plus franc que sa femme : il dissimule
 - regeneration superieure : survit a la decapitation tant que sa volonte tient.
 
 ### Souffle de la Lune
-Style originel cree par Michikatsu, derive par opposition au Souffle du Soleil. Seize formes : slashes doubles de croissants de lune. Detail des formes : cf. WIKI Systemes (a construire). De ce souffle, Tsukiyo a derive le Souffle des Tenebres.
+Style originel cree par Michikatsu, derive par opposition au Souffle du Soleil. Seize formes : slashes doubles de croissants de lune. Detail des formes : cf. WIKI Systemes/Souffles.md. De ce souffle, Tsukiyo a derive le Souffle des Tenebres.
 - Danse des Dieux de la Lune : technique de couple, forme demoniaque exclusivement, developpee pour abattre Yoriichi. Detail : cf. WIKI Personnages/Tsukiyo.md.
 
 ## Role et statut etablis
 Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
-- tue l'Oyakata de son epoque pour Muzan ; trahison du Corps. [canon]
 - avec Tsukiyo, tue Yoriichi a deux (force de l'age). L'exploit hisse le couple au tier-Muzan : unis, ils ne craignent plus que le soleil, ni les souffles ordinaires, ni les autres demons. [DIVERGENCE RP]
 - bascule apres la mort de Yoriichi : il realise que son frere n'a jamais ete le probleme. Yoriichi reste a ses yeux un etre de compassion condescendante, mais c'est sa propre quete - jalousie, honneur, legitimite, puissance - qui l'a perdu. Le couple aurait du se contenter d'une vie simple, a deux, loin des clans et de Muzan. [DIVERGENCE RP]
 - ce constat fonde l'obsession du couple pour la guerison du soleil : une fois libres, ils auront l'eternite pour savourer la vie simple qu'ils ne savaient pas posseder. [DIVERGENCE RP]
 - co-conception du programme des Douze Kizuki avec Muzan ; il est la moitie du couple qui legitime les idees de Tsukiyo (elle concoit, il legitime, Muzan acte).
-- equilibre de la terreur a trois (Muzan, Kokushibo, Tsukiyo) : collaboration forcee, destruction mutuelle assuree ; objectif de fond du couple, la liberte hors de Muzan. [DIVERGENCE RP]
+- Lune Superieure Un par etalon : son titre sert de but a depasser pour les autres Lunes, cense forcer l'eveil d'une resistance au soleil. [DIVERGENCE RP]
+- equilibre de la terreur a trois (Muzan, Kokushibo, Tsukiyo) : collaboration forcee, impasse mutuelle : ni Muzan ni le couple ne peut tuer l'autre, sinon par le soleil ; objectif de fond du couple, la liberte hors de Muzan. [DIVERGENCE RP]
 
 ## Relations
 - Tsukiyo (Tsumiki) : epouse, egale, amour fou et reciproque. Elle pense et manigance ; lui, la franchise et la force.
 - Yoriichi Tsugikuni : jumeau cadet ; jalousie muee, apres l'avoir tue, en lucidite (le vrai ennemi etait sa propre quete).
-- Muzan Kibutsuji : allie force. Muzan respecte sa force et sa franchise, a l'inverse de la mefiance qu'il voue a la fourbe Tsukiyo. Equilibre de destruction mutuelle.
+- Muzan Kibutsuji : allie force. Muzan respecte sa force et sa franchise, a l'inverse de la mefiance qu'il voue a la fourbe Tsukiyo. Impasse mutuelle : aucun ne peut tuer l'autre, sinon par le soleil.
 - Nakime : fille adoptive du couple.
 - Lunes Superieures (Doma Deux, Akaza Trois, Hantengu Quatre, Gyokko Cinq, Daki et Gyutaro Six) : creatures de son epouse pour la plupart (Gyokko excepte - simple reperage de Tsukiyo, tourne par Muzan) ; il en est le bras et le garant de l'ordre. A ses yeux, seules les Lunes Superieures comptent.
-- enfants humains : confies a un avant-poste du Corps ; indifference, la dynastie planifiee rendue obsolete par l'eternite.
+- enfants humains : laisses a un avant-poste du Corps au depart du QG - un frein a la soif de puissance et de vengeance du couple ; indifference, la dynastie planifiee rendue obsolete par l'eternite.
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
@@ -71,7 +72,8 @@ Plafond : 15 entrees max.
 
 ## Notes
 - certitude : canon (Kokushibo / Michikatsu), inflechi par les divergences RP.
-- Tchekhov a planter en Passe 2 : descendance des enfants abandonnes -> Muichiro Tokito, Pilier de la Brume (cf. Tsukiyo). [INTERPRETATION - usage a decider]
+- descendance des enfants abandonnes -> Muichiro Tokito, Pilier de la Brume [canon] ; usage narratif : ouvert (cf. BIBLE SB8).
+- meurtre de l'Oyakata de l'ere Sengoku : acte HUMAIN de Michikatsu (R1), anterieur a la demonisation - ne releve pas des faits post-demonisation de cette fiche.
 
 ---
 

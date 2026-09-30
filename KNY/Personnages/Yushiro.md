@@ -1,6 +1,6 @@
 # Yushiro
 
-- version : W2
+- version : W3
 
 ## Identite
 - nom demon : Yushiro
@@ -61,9 +61,9 @@ Plafond : 15 entrees max.
 ## Notes
 - certitude : canon (Yushiro, cree par Tamayo, art du sang de perception, tsundere devot, refus de la chair humaine, immunite a Muzan), inflechi par les divergences RP (epoque de creation -> plusieurs siecles, sang libre).
 - divergence de sources ecartee : un pouvoir sur les "reves" prete par une source isolee ; le consensus le rattache a la vision et a la perception, retenu ici.
-- age et epoque de creation : ne a la rupture de Tamayo (ere Sengoku/Edo) ; datation precise -> roadmap (Passe 2).
-- sort final : -> roadmap (Passe 2).
-- note de coherence (roadmap) : au canon, Yushiro arrache a Muzan le controle de Nakime ; chez nous Nakime n'appartient pas a Muzan (sang libre de Tsukiyo), ce duel perd son sens -> a retraiter en roadmap.
+- age et epoque de creation : ne a la rupture de Tamayo, XVIe s. (cf. Trajectoire).
+- sort final : grandes lignes actees (Roadmap/Tsukiyo/00_Garde_Cap.md, build uniquement) ; Trajectoire a alimenter apres R6.
+- note de coherence (roadmap) : au canon, Yushiro arrache a Muzan le controle de Nakime ; chez nous Nakime n'appartient pas a Muzan (sang libre de Tsukiyo), ce duel perd son sens - retraite en grandes lignes (00_Garde_Cap), detail en R6.
 
 ---
 

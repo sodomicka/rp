@@ -1,6 +1,6 @@
 # Tamayo
 
-- version : W3
+- version : W5
 
 ## Identite
 - nom demon : Tamayo
@@ -8,8 +8,8 @@
 - espece : demon - briseuse de laisse (affranchie de Muzan)
 - rang : aucun (hors Kizuki ; demone renegate)
 - affiliation : ennemie de Muzan ; medecin recluse ; aucune allegeance au trio, alliee de fait des humains contre le roi
-- demonisation : transformee par Muzan vers 19 ans, sous couvert de soigner sa maladie mortelle [canon]
-- certitude : canon, inflechi [DIVERGENCE RP] (mecanisme de rupture, cible juree du couple, brise les deux leviers)
+- demonisation : transformee par Muzan vers 19 ans, sous couvert de soigner sa maladie mortelle [canon] ; tournee des annees apres la demonisation du couple, donc absente du duel de Yoriichi contre Muzan [DIVERGENCE RP - canon : elle accompagne Muzan ce jour-la et s'affranchit a cette occasion]
+- certitude : canon, inflechi [DIVERGENCE RP] (conversion posterieure au duel Yoriichi / Muzan, mecanisme de rupture, cible juree du couple, brise les deux leviers)
 
 ## Apparence
 - belle femme, longs cheveux brun fonce separes au milieu, ramenes en grand chignon bas tenu par une epingle florale
@@ -37,7 +37,7 @@
 
 ## Role et statut etablis
 Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
-- briseuse de laisse : affranchie des DEUX leviers de Muzan - controle sanguin ET malediction du nom. Elle peut prononcer "Kibutsuji" sans mourir. Seule exception hors-couple a beneficier de cette double rupture. [DIVERGENCE RP - cf. correction BIBLE SB1]
+- briseuse de laisse : affranchie des DEUX leviers de Muzan - controle sanguin ET malediction du nom. Elle peut prononcer "Kibutsuji" sans mourir. Seule exception hors-couple a beneficier de cette double rupture. [DIVERGENCE RP - cf. BIBLE SB1]
 - mecanisme de rupture distinct du couple : non par la crainte qu'elle inspirerait a Muzan (elle ne lui en inspire aucune - il pourrait techniquement la recontroler en lui redonnant de son sang), mais par le reveil de son humanite, jamais vraiment perdue. Envoyee raser un village, elle se brise devant un enfant eventre qui lui rappelle les siens ; l'humaine reprend le dessus. [DIVERGENCE RP]
 - premiere a accomplir ce que Nezuko refera des siecles plus tard : l'humanite qui surclasse la faim demoniaque. [DIVERGENCE RP - lien Tchekhov Nezuko]
 - creatrice de Yushiro : elle lui offre son sang libre pour le sauver ; il lui est fidele comme Nakime et Doma le sont au sang libre de Tsukiyo. [DIVERGENCE RP]
@@ -61,13 +61,9 @@ Plafond : 15 entrees max.
 
 ## Notes
 - certitude : canon (Tamayo, medecin demone affranchie de Muzan, art du sang olfactif, creatrice de Yushiro, refus de tuer), inflechi par les divergences RP (mecanisme de rupture par le village et l'enfant, cible juree du couple, rivalite avec Tsukiyo, double rupture des leviers).
-- retour pour tuer Muzan et sort final : -> roadmap (Passe 2).
-- corrections BIBLE declenchees par cette fiche, a appliquer au BIBLE BUILD final de Passe 1 :
-  - SB1 (verrou du nom) : remplacer "eux seuls" (le couple) par "le couple, plus Tamayo - seule exception hors-couple - peuvent prononcer le nom sans mourir ; le verrou tient pour tout autre demon".
-  - SB1 (regle du sang libre) : un demon affranchi transmet la fidelite a lui-meme, non a Muzan. Muzan ne reprend un tel demon qu'en lui redonnant de son propre sang, et seulement s'il ne le craint pas (possible sur Tamayo, impossible sur le couple qui le terrifie).
+- retour pour tuer Muzan et sort final : grandes lignes actees (Roadmap/Tsukiyo/00_Garde_Cap.md, build uniquement) ; Trajectoire a alimenter apres R6.
 - parallele Tamayo / Nezuko : -> Tchekhov SB8.
-- relation Tsukiyo <-> Tamayo : ligne a ajouter sur la fiche Tsukiyo au BIBLE BUILD.
-- contraste avec Akaza : seul autre demon qui pourrait connaitre un tel reveil, mais son humanite reste muree faute de souvenirs - s'il les retrouvait, il detesterait ce qu'il est devenu. A confirmer / integrer sur la fiche Akaza.
+- contraste avec Akaza : seul autre demon qui pourrait connaitre un tel reveil, mais son humanite reste muree faute de souvenirs (cf. fiche Akaza, Relations).
 
 ---
 

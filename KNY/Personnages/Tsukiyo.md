@@ -1,6 +1,6 @@
 # Tsukiyo
 
-- version : W7
+- version : W9
 - autre forme : cf. WIKI Personnages/Tsumiki.md (forme humaine, vie close a 21 ans)
 
 ## Identite
@@ -17,6 +17,7 @@
 - corps de predateur : musculature tres developpee, contraste total avec la frele humaine
 - cheveux argentes, longs de plusieurs metres
 - yeux vires au violet
+- Marque de Pourfendeur conservee : croissant de lune a la base du cou, entre les clavicules [DIVERGENCE RP]
 - aucune autre alteration
 
 ## Personnalite
@@ -40,6 +41,8 @@ Dimensions amplifiees par la nature demoniaque :
 
 ## Capacites
 - abandon des membres humains au combat : ne se bat plus aux bras ni aux jambes.
+- Marque de Pourfendeur conservee : son effet (puissance, vitesse, precision accrues) persiste dans la forme demoniaque, comme chez Kokushibo. [DIVERGENCE RP]
+- sens amplifies par la demonisation ; la lecture des trajectoires reste un talent, pas le Monde Transparent. [DIVERGENCE RP]
 - Kekkijutsu capillaire : cheveux extensibles, prehensiles, aceres. Combat par meches-lames ; deplacement en se portant sur ses cheveux ; don de sang en se percant la jugulaire pour en imbiber une meche.
 - niveau de puissance : superieur a Doma et a Akaza en permanence ; inferieur a Kokushibo et a Muzan. La force du couple vient de leur union.
 - sang createur de Lunes : transforme un humain en demon de calibre Lune Superieure (saturation equivalent Lune Superieure Deux). Source d'une lignee de Lunes.
@@ -61,11 +64,11 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 - cree Hantengu, creature-jouet tournee par pure cruaute ludique, puis offerte gratuitement a Muzan (qui se l'approprie par reinjection). [DIVERGENCE RP]
 - deniche Gyokko, humain mourant, et appelle Muzan pour le tourner lui-meme : simple reperage livre au roi, hors de son propre sang. [DIVERGENCE RP]
 - pouvoir de l'ombre : Lune Superieure Deux un temps, puis retrait volontaire. En facade, satellite de Kokushibo - sa seule epouse, sans rang officiel ; vrai pouvoir dissimule.
-- equilibre de la terreur a trois (Muzan, Kokushibo, Tsukiyo) : destruction mutuelle assuree, collaboration forcee. Objectif de fond du couple : la liberte hors de Muzan. [DIVERGENCE RP]
+- equilibre de la terreur a trois (Muzan, Kokushibo, Tsukiyo) : impasse mutuelle : ni Muzan ni le couple ne peut tuer l'autre, sinon par le soleil, collaboration forcee. Objectif de fond du couple : la liberte hors de Muzan. [DIVERGENCE RP]
 
 ## Relations
 - Kokushibo (Michikatsu Tsugikuni) : epoux, egal, jumeau aine de Yoriichi. Amour fou et reciproque. A elle, pas a Muzan.
-- Muzan Kibutsuji : rival et allie force ; froideur clinique. Equilibre de destruction mutuelle.
+- Muzan Kibutsuji : rival et allie force ; froideur clinique. Impasse mutuelle : aucun ne peut tuer l'autre, sinon par le soleil.
 - Nakime : fille adoptive et protegee ; aussi sa creation et sa favorite. Satellite de Kokushibo comme elle. Lien amorce par l'homonymie : humaine, Nakime s'appelait Tsumiki - l'echo d'un prenom que Tsukiyo se croyait avoir oublie.
 - Doma : prodige et favori joue (un jeu et un levier de plus, zero affection - seule Nakime compte) ; sa creation. Lune sous son obedience (deal negocie avec Muzan).
 - Akaza : sa creation directe ; indifference, brute sans psyche distrayante a ses yeux.
@@ -74,7 +77,7 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 - Daki et Gyutaro : trouves humains par Doma (rabatteur), remis a Tsukiyo, tournes par elle, puis offerts a Muzan comme monnaie d'echange de vassalite - solde une part du prix de Doma (securise comme sa Lune contre d'autres Lunes promises) et sert de levier pour obtenir que Nakime aussi reponde a son sang plutot qu'a celui de Muzan.
 - Tamayo : nemesis juree. Une autre demone a l'intellect surdeveloppe qui joue les egales aupres de Muzan - Tsukiyo la jalouse, a predit sa trahison, et jure de la tuer le jour ou elle reviendra abattre le roi.
 - Yoriichi Tsugikuni : haine froide muee en fierte apres sa mort. Cible de la Danse des Dieux de la Lune.
-- enfants humains : confies a un avant-poste du Corps ; indifference, la dynastie planifiee rendue obsolete par l'eternite (cf. Tsumiki).
+- enfants humains : laisses a un avant-poste du Corps au depart du QG - un frein a la soif de puissance et de vengeance du couple ; indifference, la dynastie planifiee rendue obsolete par l'eternite (cf. Tsumiki).
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
@@ -98,7 +101,7 @@ Plafond : 15 entrees max.
 
 ## Notes
 - certitude globale : OC [DIVERGENCE RP]. Aucun filet canon hors de cette fiche.
-- Tchekhov a planter en Passe 2, hors noyau : au canon, les enfants Tsugikuni abandonnes sont les ancetres de Muichiro Tokito, Pilier de la Brume. Fil potentiel d'un Hashira descendant du couple. [INTERPRETATION - usage a decider]
+- descendance [canon] : les enfants Tsugikuni abandonnes sont les ancetres de Muichiro Tokito, Pilier de la Brume. Fil potentiel d'un Hashira descendant du couple ; usage narratif ouvert (cf. BIBLE SB8).
 
 ---
 

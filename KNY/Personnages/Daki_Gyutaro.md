@@ -1,6 +1,6 @@
 # Daki et Gyutaro
 
-- version : W2
+- version : W3
 
 ## Identite
 - entite : fratrie demon a corps et rang partages - indissociable
@@ -79,8 +79,8 @@ Plafond : 15 entrees max.
 - certitude : canon (Ume/Daki, Gyutaro), inflechie par les divergences RP (rabattus par Doma puis tournes par Tsukiyo - et non par Doma directement ; donnes a Muzan comme monnaie de vassalite ; psyche de lignee transactionnelle, tournee vers Muzan).
 - age d'Ume au bucher : ~13 ans [a confirmer si besoin en scene].
 - detail de la rencontre/livraison et de la negociation de vassalite (Doma -> Tsukiyo -> Muzan, levier Nakime) : -> roadmap (Passe 2).
-- detail des formes des deux Arts demoniaques du sang : -> WIKI Systemes (a construire).
-- backstory humaine de reference : quartier des plaisirs (Yoshiwara) ; Gyutaro ne dans la misere, laid et maladif, rejete, devenu collecteur de dettes violent et redoute ; Ume placee courtisane enfant, brulee vive vers 13 ans pour avoir creve l'oeil d'un samourai qui la maltraitait ; Gyutaro la rejoint, blesse a mort. [canon]
+- detail des formes canon des deux Arts demoniaques du sang : a documenter a la boucle R6.
+- backstory humaine de reference : quartier des plaisirs (Yoshiwara) ; Gyutaro ne dans la misere, laid et maladif, rejete, devenu collecteur de dettes violent et redoute ; Ume, enfant du quartier des plaisirs, brulee vive vers 13 ans pour avoir creve l'oeil d'un samourai qui la maltraitait ; Gyutaro la rejoint, blesse a mort. [canon]
 
 ---
 
