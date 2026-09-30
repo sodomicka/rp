@@ -1,9 +1,10 @@
 # Bleuet
 
-- version : W3
+- version : W5
 
 ## Identite
 - Nom d'usage : Bleuet, donne par Violet a la clinique (R0). Premier nom : Mercure. Nom de naissance : Alexei Sokolov, qu'il ignore. Surnom de guerre : "le fantome".
+- Nom administratif : Mercure, reste sur les registres de l'armee et de l'Etat (subvention comprise). Surnom de couloir a la clinique : "l'amnesique".
 - OC promu au lore [DIVERGENCE RP] : hors mention "canon", tout ce qui suit est propre au RP.
 - Origine : Gardarik, capitale (non nommee). Orphelin, parents inconnus.
 - Age : 18 ans a 0 (fin de la guerre).
@@ -59,9 +60,10 @@
   - Il baisse sa garde, croyant Gilbert desarme. Mais Gilbert tient un pistolet et tire la ou il a vu le coup de feu (cf. Apparence). Dans le vacarme, Gilbert ne l'entend ni gemir ni s'effondrer, et le croit mort.
   - Laisse pour mort dans les ruines ; Gardarik bombarde son propre QG (canon, ep. 8-9).
 - Ramasse dans les ruines en meme temps que Violet. Sans uniforme ni plaques, rien ne le designe comme ennemi : presume des leurs, il est soigne comme un soldat de Leidenschaftlich.
-- R0, clinique militaire de Leidenschaftlich :
-  - Lit voisin, a la droite de Violet ; le sillon est bien visible pour elle. Attache au lit, trop agite pour tenir en place (agitation post-traumatique).
-  - Interroge sur son nom, il lit l'etiquette d'un flacon de Mercurochrome et repond "Mercure", sous pression, sans reflechir. Il regrette vite ce nom, qui n'est clairement pas le sien.
+- R0, hopital militaire d'Enchaine, royaume d'Enciel (base arriere des blesses du front) :
+  - Lit voisin de celui de Violet, qui est a sa droite : de son lit, elle voit bien le sillon de sa tempe droite. Attache au lit, trop agite pour tenir en place (agitation post-traumatique).
+  - Presse de donner un nom pour les registres, il lit l'etiquette d'un flacon de Mercurochrome et repond "Mercure", sous pression, sans reflechir. Il regrette vite ce nom, qui n'est clairement pas le sien ; il reste sur les registres, purement administratif.
+  - Dans les couloirs, on l'appelle "l'amnesique".
   - Longues discussions avec Violet, surtout pendant les soins, pour penser a autre chose que la douleur.
   - Violet, perdue, le renomme par mimetisme, comme Gilbert l'a nommee d'une fleur : Bleuet, fleur sauvage, compagne de la violette en infusion.
   - Hodgins vient chercher Violet, appareillee entre-temps. Elle demande a emmener Bleuet, qu'elle trouve reconfortant. Sans elle, son sort par defaut : l'asile.

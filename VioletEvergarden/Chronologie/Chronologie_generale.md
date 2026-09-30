@@ -1,7 +1,6 @@
 # Chronologie generale
 
-- version : W1
-- sources : episodes, OVA, Gaiden, film (via Wikipedia EN) ; site officiel de l'anime (rubrique Monde, via fandom). Roman exclu.
+- version : W2
 
 ## Reperes
 - An 0 = bataille d'Intense, fin des combats de la Grande Guerre. Dates relatives : -8 = huit ans avant, +1 = un an apres.
@@ -16,15 +15,19 @@
 
 ## La guerre (-8 a 0)
 - -8 : Salbert et l'Empire de Gardarik forment l'Alliance du Nord et declarent la guerre a l'Union du Sud. Gardarik prend Intense.
-- -8 : Violet, orpheline d'environ 10 ans, est ramassee dans le secteur nord-est par Dietfried. Il la donne a son frere Gilbert, 21 ans, pour sa promotion au grade de major [DIVERGENCE RP : major a 21 ans].
+- -8 : Violet, orpheline d'environ 10 ans, est ramassee sur le theatre d'operations du nord-est par Dietfried (25 ans). Il la donne a son frere Gilbert, 21 ans, pour sa promotion au grade de Major [DIVERGENCE RP : Major a 21 ans].
+- -8 : en Gardarik, rafle des gamins des rues juges nuisibles dans les grandes villes. Alexei Sokolov, 10 ans, est enrole de force ; son talent de tireur revele, il est forme comme tireur d'elite et espion, et devient "le fantome" [DIVERGENCE RP].
+- -8 a -2 : Gardarik occupe Machtig [DIVERGENCE RP : 6 ans ; 3 en canon].
 - Premiers temps : l'offensive du Nord s'essouffle, Salbert refusant d'aller au-dela d'Intense. Le Sud se retranche, le front se fige.
-- Pendant la guerre : Gilbert nomme Violet, lui apprend a lire et a ecrire. Ses superieurs l'obligent a l'envoyer au front, ou elle decide de batailles cles. Il lui offre une broche emeraude.
-- Pendant la guerre : Alexei Sokolov, orphelin de Gardarik, est enrole de force puis forme comme sniper et espion ; il devient "le fantome". [INCERTAIN] date de l'enrolement.
+- Pendant la guerre : Gilbert nomme Violet, lui apprend a lire et a ecrire. Ses superieurs l'obligent a l'envoyer au front, ou elle decide de batailles cles.
 - Pendant la guerre : mobilisation totale. Les femmes prennent les ecritures ; l'armee ouvre des ecoles de dactylographie.
-- 0 : bataille d'Intense. L'unite de Gilbert prend le QG ennemi et donne le signal de l'assaut. Gilbert est touche. Violet perd ses deux bras : l'un par une balle du fantome [DIVERGENCE RP], l'autre par une grenade. Gilbert blesse le fantome a la tempe et le croit mort [DIVERGENCE RP]. Gardarik bombarde son propre QG. Gilbert disparait ; on ne retrouve que sa plaque.
+- -2 : Machtig liberee apres une bataille a Bociaccia. Gilbert y achete a Violet (environ 16 ans) la broche emeraude.
+- Fin de guerre : front ouest, puis Intense.
+- 0 : bataille d'Intense. L'unite de Gilbert prend le QG ennemi et donne le signal de l'assaut. Gilbert est touche. Violet perd ses deux bras : l'un par une balle du fantome, qui la desarme plutot que de la tuer [DIVERGENCE RP] ; l'autre par une grenade. Gilbert tire au pistolet vers le tireur et le croit mort, sans savoir que c'etait le fantome [DIVERGENCE RP]. Gardarik fait sauter son propre QG. Gilbert disparait ; on ne retrouve que sa plaque.
 
 ## Apres Intense (0 a S)
-- 0 : clinique militaire, Violet et Bleuet sur des lits voisins (R0). Violet est appareillee. Hodgins l'emmene a Leiden, chez les Evergarden puis a CH Postal (ep. 1).
+- 0 : Violet et Bleuet, ramasses dans les ruines, sont soignes a l'hopital militaire d'Enchaine, royaume d'Enciel, sur des lits voisins (R0). Violet y passe au moins 120 jours et y est appareillee.
+- Sortie de R0 : Hodgins emmene Violet, et Bleuet, a Leiden : chez les Evergarden, puis a la Compagnie des Postes CH (ep. 1).
 - Entre 0 et S : paix instable, sans traite. La serie se deroule (ep. 1-13, OVA entre ep. 4 et 5).
 - Violet apprend que Gilbert est presume mort (fin de l'ep. 7).
 - S : attentat de la faction anti-paix de Merkulov contre le train de l'envoye, dejoue (ep. 12-13). Le traite de paix est signe entre Leidenschaftlich et Gardarik.
@@ -32,14 +35,20 @@
 
 ## Apres la serie
 - S : Violet sert de preceptrice a Isabella York dans un pensionnat de jeunes filles (Gaiden, 1re moitie).
-- S+3 : Taylor Bartlett arrive a CH Postal et y devient apprentie facteur (Gaiden, 2e moitie).
+- S+3 : Taylor Bartlett arrive a la Compagnie des Postes CH et y devient apprentie facteur (Gaiden, 2e moitie).
 - S+4 : Yuris, garcon condamne, commande des lettres a Violet. Hodgins retrouve la trace de Gilbert sur l'ile d'Ecarte (film).
 
 ## Ages de reference
-- Violet : environ 10 ans a -8 ; 18 ans a 0.
+- Violet : environ 10 ans a -8 ; 18 ans a 0. Accueillie par les Evergarden jusqu'a ses 22 ans.
 - Bleuet (Alexei Sokolov) : 10 ans a -8 ; 18 ans a 0.
 - Gilbert : 21 ans a -8 ; 29 ans a 0.
+- Hodgins : 21 ans a -8 ; 29 ans a 0 (meme promotion que Gilbert).
+- Dietfried : 25 ans a -8 ; 33 ans a 0.
+- Iris : 19 ans a 0.
 - Age a S+4 : age a 0 + S + 4.
+
+## Sources
+- Episodes, OVA, Gaiden, film (via Wikipedia EN, NamuWiki) ; site officiel de l'anime (rubrique Monde, via fandom). Roman exclu.
 
 ---
 

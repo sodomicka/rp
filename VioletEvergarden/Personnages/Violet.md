@@ -1,6 +1,6 @@
 # Violet
 
-- version : W3
+- version : W7
 
 ## Identite
 - Nom : Violet Evergarden. Prenom donne par Gilbert, d'apres la fleur, avec le voeu qu'elle devienne aussi belle qu'elle. Nom de la famille Evergarden, chez qui Gilbert a arrange son adoption.
@@ -10,7 +10,7 @@
 - Etat a la sortie de R0 : ex-arme de l'armee de Leidenschaftlich, sans bras, appareillee ; sous la tutelle de fait de Hodgins ; arrive avec Bleuet a la Compagnie des Postes CH.
 
 ## Apparence
-- Beaute presque de poupee, visage fin et un peu allonge, air presque impassible. Mince, taille moyenne : [INCERTAIN] 161 a 165 cm selon les sources.
+- Beaute presque de poupee, visage fin et un peu allonge, air presque impassible. Mince, 1,61 m (guide officiel de l'anime).
 - Cheveux blonds jusqu'aux hanches ; frange en meches qui encadrent le visage. A l'armee : queue basse nouee d'un ruban noir.
 - Grands yeux bleus, longs cils sombres. Teint clair.
 - Cicatrices de guerre sur le torse.
@@ -31,20 +31,22 @@
 - Miroir de Bleuet : deux enfants vides de leur humanite, faits outils. Elle avait Gilbert et ne ressent plus rien sans lui ; Alexei n'avait personne et ressent de nouveau, libere de son passe par l'amnesie.
 
 ## Objets
-- Broche emeraude : achetee par Gilbert pendant la guerre, couleur de ses yeux ; son bien le plus cher. Perdue ([INCERTAIN] lieu) ; recuperee par Hodgins. Elle ne l'a pas a la sortie de R0.
+- Broche emeraude : achetee par Gilbert pendant la guerre, couleur de ses yeux ; son bien le plus cher. Volee dans ses bagages pendant l'envoi ; Hodgins promet de la retrouver (ep. 1), la rachete au marche noir avec tout son salaire et la lui rend (ep. 2). Elle ne l'a pas a la sortie de R0.
 
 ## Passe jusqu'a la sortie de R0
 - Avant -8 : inconnu (hors perimetre).
 - -8 (vers 10 ans) : trouvee orpheline dans le secteur nord-est par Dietfried, dont elle tue des hommes. Il la donne comme une arme a son frere Gilbert, pour feter sa promotion au grade de Major.
 - Gilbert la traite en personne, pas en outil : il la nomme, lui apprend a parler, lire et ecrire. Pour l'armee, elle reste une arme.
 - 8 ans de guerre dans l'unite de Gilbert [DIVERGENCE RP : 4 en canon].
-- Gilbert lui achete la broche emeraude (ep. 8).
+- -2 (vers 16 ans ; 18 - 2), a Machtig liberee : Gilbert lui achete la broche emeraude sur le marche d'une fete (ep. 8).
 - 0, Intense (derniere bataille) : en voulant sauver Gilbert, elle perd ses deux bras. L'un par une balle du fantome [DIVERGENCE RP], qui la desarme plutot que de la tuer ; elle ne le voit jamais. L'autre par une grenade. Gilbert, touche, lui dit "Je t'aime" et disparait ; on ne retrouve que sa plaque.
-- R0, clinique militaire de Leidenschaftlich :
-  - Sans bras, perdue. Lit voisin de celui de Bleuet, qui est a sa droite ; elle voit bien le sillon a sa tempe.
+- R0, hopital militaire d'Enchaine, royaume d'Enciel (base arriere des blesses du front) :
+  - Au moins 120 jours d'hospitalisation (ep. 1).
+  - Sans bras, perdue. Lit voisin de celui de Bleuet, a sa droite a lui : elle voit bien le sillon de sa tempe droite.
+  - Le personnel lui repete que le Major va bien (ep. 9). Elle s'inquiete bien plus pour lui que pour elle-meme.
   - Longues discussions avec lui, surtout pendant les soins de chacun.
   - Elle le renomme Bleuet par mimetisme, comme Gilbert l'a nommee d'une fleur.
-  - Appareillee avant l'arrivee de Hodgins.
+  - Appareillee avant l'arrivee de Hodgins ; elle s'entraine a ecrire au Major avec ses nouvelles mains (ep. 1).
   - Hodgins vient la chercher et ne lui dit pas ce qu'il est advenu de Gilbert. Elle demande a emmener Bleuet, qu'elle trouve reconfortant. Hodgins se porte garant de lui, a condition qu'elle ne le quitte pas des yeux.
   - Detour chez les Evergarden, qui l'accueillent a la demande de Gilbert : elle ne s'y fait pas. Mme Evergarden lui donne des gants.
   - Sortie : arrivee avec Bleuet a la Compagnie des Postes CH.
