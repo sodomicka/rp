@@ -1,6 +1,6 @@
 # Yoriichi Tsugikuni
 
-- version : W5
+- version : W6
 
 ## Identite
 - nom : Yoriichi Tsugikuni
@@ -31,7 +31,7 @@
 ## Histoire
 - cadet des jumeaux Tsugikuni ; tache de naissance au front, cru muet et simplet enfant, en realite prodige. Devoue a sa mere au bras infirme. Les jumeaux passent pour un mauvais presage de l'epoque.
 - epouse Uta ; elle et leur enfant a naitre sont tues par un demon pendant son absence. Le deuil le jette au Corps des Pourfendeurs.
-- cree le Souffle du Soleil et le transmet (branche Kamado / Hinokami Kagura). Il enseigne les Souffles au QG du Corps avant sa mort : les souffles derives existent a l'ere Taisho (calage R1-R2).
+- cree le Souffle du Soleil et le transmet (branche Kamado / Hinokami Kagura), sans exil : lors d'un sejour chez Sumiyoshi Kamado (cf. Trajectoire datee). Il enseigne les Souffles au QG du Corps avant sa mort : les souffles derives existent a l'ere Taisho (calage R1-R2).
 - affronte Muzan et le decoupe ; Muzan se divise en fragments pour survivre. [canon conserve] Tamayo n'accompagne pas encore le roi ce jour-la. [DIVERGENCE RP]
 - craint et marginalise par le Corps, que sa puissance monstrueuse effraie.
 - croit son frere et Tsumiki disparus : pendant que le couple infiltre le Corps pour traquer Muzan, Michikatsu joue le pourfendeur modele et se rapproche de Yoriichi, qui les croit reconcilies et revenus dans sa vie. Puis ils s'evanouissent. Une lettre signee Michikatsu impute a des demons la mort de Tsumiki et de l'Oyakata, et l'annonce parti les venger. Plus tard, un village rase sans cadavre et la lame abandonnee de son frere lui font conclure que Michikatsu y a peri, devore. Yoriichi les pleure tous deux. [DIVERGENCE RP - mort maquillee du couple]
@@ -45,11 +45,12 @@
 - Corps des Pourfendeurs : membre marginalise, craint pour sa puissance.
 
 ## Trajectoire datee
-Ligne close : une seule entree, sa mort (force de l'age, fin R2) ; aucune evolution post-mortem.
+Ligne close a sa mort (force de l'age, fin R2) ; aucune evolution post-mortem.
 Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| Ere Sengoku, XVe s. (R2) | Dans la trentaine, en mission, apres le village rase : loge chez Sumiyoshi Kamado, danse devant lui les formes du Soleil, lui laisse ses boucles d'oreilles ; y pleure son frere qu'il croit mort | transmission a la branche Kamado (future Hinokami Kagura) ; aucun exil du Corps [DIVERGENCE RP - canon : apres son exil] |
 | Ere Sengoku, XVe s. (R2) | Accourt au massacre-appat d'un bourg de la frontiere Hyogo/Kyoto, retrouve sa famille faite demons, frappe a pleine puissance ; tombe a deux contre un sous la Danse des Dieux de la Lune | mort dans la force de l'age (~35 ans) ; ligne close |
 
 ## Notes

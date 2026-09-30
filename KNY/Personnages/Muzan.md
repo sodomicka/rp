@@ -1,6 +1,6 @@
 # Muzan
 
-- version : W6
+- version : W7
 
 ## Identite
 - nom demon : Muzan Kibutsuji
@@ -23,7 +23,7 @@
 - cruaute froide et purement instrumentale : autrui est un outil ou une proie, jamais un egal (sauf le couple, par contrainte).
 - lachete sous la grandeur : la posture de roi recouvre une peur tenace, exposee par Yoriichi.
 - paranoia seculaire depuis que Yoriichi l'a presque tue (canon conserve).
-- gout du masque : se mele aux humains la nuit, sous des ages et des genres differents, par jeu autant que par couverture.
+- gout du masque : se mele aux humains la nuit, sous des ages et des genres differents, par jeu autant que par couverture. A l'ere Sengoku : negociant en the et en simples, avec halte a Sakai (cf. WIKI Lieux/Salon_The_Sakai.md).
 
 ## Capacites
 - biokinesie : controle total de sa propre chair. Sept coeurs et cinq cerveaux disperses dans le corps - aucun point vital unique a frapper.
@@ -58,6 +58,7 @@ Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
+| Ere Sengoku, XVe s. (R1) | Sous couverture de negociant en the et en simples, recoit a Sakai le couple humain qui l'a devine ; accepte la tete de l'Oyakata et l'offre de leur vie | surpris d'avoir ete devine, lui qui se croit imprevisible depuis Yoriichi |
 | Ere Sengoku, XVe s. (R2) | Tourne le couple (les eprouve d'une dose quasi-mortelle apres avoir ete devine) | gagne Kokushibo et Tsukiyo, demons sous sa laisse (encore pions a ce stade) |
 | Ere Sengoku, XVe s. (R2) | Tourne Tamayo (sous couvert de soin) devant le couple, au fil de la decennie d'errance | gagne Tamayo, demone sous sa laisse |
 | Ere Sengoku tardive, XVe s. (R3) | Comprend qu'unis le couple le depasse et se met a les craindre | perd ses deux leviers sur le couple (laisse + nom) ; equilibre de terreur a trois ; fulmine sans pouvoir agir |
@@ -66,7 +67,7 @@ Plafond : 15 entrees max.
 | XVIe s. (R4) | Recoit Akaza de Tsukiyo et se l'approprie par reinjection | gagne une Lune Sup Trois (a lui, non a la lignee) |
 | XVIe s. (R4) | Accorde Doma a l'obedience de Tsukiyo, mais pose le principe : tout vassal garde se paiera en offrandes | dette ouverte sur la lignee (soldee R5) |
 | XVIIe s. (R4) | Recoit Hantengu en don gratuit (reinjection) | gagne une Lune Sup Quatre, jouet partage |
-| XVIIIe s. (R5) | Encaisse Daki & Gyutaro (offrande soldant le vassalat de Doma) et concede Nakime a l'obedience de Tsukiyo (couverte par le surplus) | dette de la lignee soldee ; gagne une Lune Sup Six ; deux vassaux concedes a Tsukiyo (Doma, Nakime) |
+| XVIIIe s. (R5) | Encaisse Daki & Gyutaro (offrande soldant le vassalat de Doma) et concede Nakime a l'obedience de Tsukiyo (prix couvert par le surplus ; concession arrachee sous la pression de Tsukiyo, Nakime sortant du systeme pour appartenir ouvertement au couple) | dette de la lignee soldee ; gagne une Lune Sup Six ; deux vassaux concedes a Tsukiyo (Doma, Nakime) |
 | XIXe s. (R5) | Tourne Gyokko en personne (deniche par Tsukiyo) ; la grille des Douze Kizuki se complete et se fige | gagne une Lune Sup Cinq (a lui, hors lignee) ; Douze Kizuki au complet ; gel des rangs jusqu'a Taisho |
 
 ## Notes

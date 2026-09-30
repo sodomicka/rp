@@ -1,6 +1,6 @@
 # Kokushibo
 
-- version : W8
+- version : W9
 - autre forme : cf. WIKI Personnages/Michikatsu.md (forme humaine, vie close a 24 ans)
 
 ## Identite
@@ -53,7 +53,7 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 - Muzan Kibutsuji : allie force. Muzan respecte sa force et sa franchise, a l'inverse de la mefiance qu'il voue a la fourbe Tsukiyo. Impasse mutuelle : aucun ne peut tuer l'autre, sinon par le soleil.
 - Nakime : fille adoptive du couple.
 - Lunes Superieures (Doma Deux, Akaza Trois, Hantengu Quatre, Gyokko Cinq, Daki et Gyutaro Six) : creatures de son epouse pour la plupart (Gyokko excepte - simple reperage de Tsukiyo, tourne par Muzan) ; il en est le bras et le garant de l'ordre. A ses yeux, seules les Lunes Superieures comptent.
-- enfants humains : laisses a un avant-poste du Corps au depart du QG - un frein a la soif de puissance et de vengeance du couple ; indifference, la dynastie planifiee rendue obsolete par l'eternite.
+- enfants humains (Katsuhisa, Chiyo - cf. WIKI Personnages/Katsuhisa_Chiyo.md) : laisses a l'avant-poste des enfants du Corps au depart du QG - un frein a la soif de puissance et de vengeance du couple ; indifference, la dynastie planifiee rendue obsolete par l'eternite.
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.

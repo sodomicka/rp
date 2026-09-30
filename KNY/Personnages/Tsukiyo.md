@@ -1,6 +1,6 @@
 # Tsukiyo
 
-- version : W9
+- version : W10
 - autre forme : cf. WIKI Personnages/Tsumiki.md (forme humaine, vie close a 21 ans)
 
 ## Identite
@@ -77,7 +77,7 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 - Daki et Gyutaro : trouves humains par Doma (rabatteur), remis a Tsukiyo, tournes par elle, puis offerts a Muzan comme monnaie d'echange de vassalite - solde une part du prix de Doma (securise comme sa Lune contre d'autres Lunes promises) et sert de levier pour obtenir que Nakime aussi reponde a son sang plutot qu'a celui de Muzan.
 - Tamayo : nemesis juree. Une autre demone a l'intellect surdeveloppe qui joue les egales aupres de Muzan - Tsukiyo la jalouse, a predit sa trahison, et jure de la tuer le jour ou elle reviendra abattre le roi.
 - Yoriichi Tsugikuni : haine froide muee en fierte apres sa mort. Cible de la Danse des Dieux de la Lune.
-- enfants humains : laisses a un avant-poste du Corps au depart du QG - un frein a la soif de puissance et de vengeance du couple ; indifference, la dynastie planifiee rendue obsolete par l'eternite (cf. Tsumiki).
+- enfants humains (Katsuhisa, Chiyo - cf. WIKI Personnages/Katsuhisa_Chiyo.md) : laisses a l'avant-poste des enfants du Corps au depart du QG - un frein a la soif de puissance et de vengeance du couple ; indifference, la dynastie planifiee rendue obsolete par l'eternite (cf. Tsumiki).
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.

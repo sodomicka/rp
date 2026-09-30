@@ -1,6 +1,6 @@
 # Nakime
 
-- version : W4
+- version : W5
 
 ## Identite
 - nom demon : Nakime
@@ -38,7 +38,7 @@
 Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - piece logistique maitresse de l'empire demoniaque : la Forteresse Dimensionnelle Infinie est le QG de la guerre de Muzan et le traquenard ultime contre le Corps - un lieu de pouvoir centralise, deconnecte de toute geographie japonaise precise.
 - levier structurel du trio [DIVERGENCE RP] : la Forteresse n'appartient pas a Muzan mais a la lignee de Tsukiyo. Muzan en depend tant qu'il est l'allie du couple ; le jour ou l'equilibre bascule, il perd l'acces au chateau modulable. (Le retrait effectif releve de la trajectoire -> roadmap.) Elle est en revanche librement accessible a Tsukiyo, sa mere - levier partage qui donne au couple une quasi-teleportation a volonte.
-- fille adoptive et creation de Tsukiyo, sa favorite ; vassale sous son obedience (deal negocie avec Muzan). Tant que Muzan reste allie, cette supervision n'est qu'un detail de facade.
+- fille adoptive et creation de Tsukiyo, sa favorite ; vassale sous son obedience (deal negocie avec Muzan). Seule creation pour laquelle Tsukiyo doit faire pression sur Muzan : Nakime sort du systeme (sans rang Kizuki) et appartient ouvertement au couple. Le prix, lui, est couvert par le surplus des Lunes offertes. Tant que Muzan reste allie, cette supervision n'est qu'un detail de facade.
 - arrivee tardive dans la lignee, les autres Lunes deja implantees : Tsukiyo refuse de lui faire jouer le jeu des rangs Kizuki et la place d'emblee comme satellite de Kokushibo, sous l'aile directe du couple. [DIVERGENCE RP]
 - amenage la demeure de ses parents demons : le foyer de la cellule familiale.
 
