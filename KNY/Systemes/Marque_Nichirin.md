@@ -1,6 +1,6 @@
 # Marque et Nichirin
 
-- version : W1
+- version : W2
 
 ## Marque de Pourfendeur [canon]
 - Nature : motif qui apparait sur le corps du pourfendeur, propre a chacun et lie a son souffle.
@@ -30,7 +30,7 @@
 
 ### Nichirin du RP
 - Sabre de Michikatsu : abandonne dans le village devore au premier festin (R2) ; Yoriichi y lit la mort de son frere.
-- Tanto de Tsumiki : Nichirin brise pile a longueur de tanto, derobe au depart du QG ; abandonne a la demonisation.
+- Lame de Tsumiki : sabre Nichirin de pourfendeur brise pile a longueur de tanto, derobe au depart du QG, dissimule a tous sauf a Michikatsu ; abandonne a la demonisation.
 
 ## Lame ecarlate (Kakuto) [canon]
 - La lame vire au rouge vif quand sa temperature monte a l'extreme : poigne ecrasante, ou choc de deux lames Nichirin. Troisieme voie a l'ere Taisho : l'art du sang de Nezuko.

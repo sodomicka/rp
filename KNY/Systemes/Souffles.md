@@ -1,6 +1,6 @@
 # Souffles
 
-- version : W1
+- version : W2
 
 ## Principe [canon]
 - Souffle (Kokyu) : technique de respiration de combat. Une respiration profonde et maitrisee sature le sang d'oxygene et decuple force, vitesse et endurance.
@@ -51,7 +51,7 @@
 - Rendu a l'etat humain (Michikatsu, R1) : slashes en croissant, sans la nuee demoniaque. [INTERPRETATION]
 
 ## Souffle des Tenebres [DIVERGENCE RP]
-- Createur : Tsumiki, a partir de la Lune enseignee en secret par Michikatsu. Humaine : au tanto Nichirin. Demone : re-canalise par les cheveux.
+- Createur : Tsumiki, a partir de la Lune enseignee en secret par Michikatsu. Humaine : au Nichirin brise (sabre de pourfendeur brise a longueur de tanto). Demone : re-canalise par les cheveux.
 - 1 Tranchee Sombre : disparaitre dans une ombre, ressortir d'une autre, trancher entre les deux.
 - 2 Eclats de Lune Noire : chaque coup projette des croissants de lune noirs et tranchants.
 - Difference humaine / demone (duree sensible de la translation chez l'humaine, quasi instantanee chez la demone) : cf. WIKI Personnages/Tsumiki.md et Personnages/Tsukiyo.md.
