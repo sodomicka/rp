@@ -1,6 +1,6 @@
 # Melina
 
-- version : W1
+- version : W2
 
 ## Identite
 
@@ -57,7 +57,7 @@
 ## Relations de base
 
 - Marika : mere [IMPLICITE]. L'a fait naitre comme bucher, a scelle son oeil.
-- Messmer : frere aine [IMPLICITE].
+- Messmer : frere aine [IMPLICITE]. Lui aussi scelle a l'oeil par Marika : l'oeil droit (canon). Meme vision de feu, rattachee au Fell God (cf. Personnages/Messmer). [DIVERGENCE RP] sur la source du feu.
 - Godwyn : porte l'autre part de la Mort destinee liberee.
 - Maliketh : gardien de la lame dont la Mort destinee a fui. Veut la recuperer.
 - Rykard et le Serpent devoreur de dieux : fidele a elle si elle montre son oeil.

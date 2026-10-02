@@ -1,6 +1,6 @@
 # Rennala
 
-- version : W1
+- version : W3
 
 ## Identite
 
@@ -19,7 +19,7 @@
 
 ## Psychologie
 
-- Son coeur est parti avec Radagon. Elle le desire toujours. (canon + [DIVERGENCE RP] sur le desir)
+- Son coeur est parti avec Radagon. Elle le desire toujours, et il le lui rend : il n'a jamais cesse de l'aimer (cf. Personnages/Radagon). (canon + [DIVERGENCE RP] sur le desir)
 - Dissociee. Tout entiere vouee a la renaissance, elle berce l'oeuf d'ambre et fait renaitre sans fin ceux qui l'entourent. (canon)
 - Douceur maternelle : parle a chacun comme a un enfant qu'elle s'apprete a faire renaitre. VO : anata, "bon enfant". (canon)
 - Jadis astrologue qui suivait les etoiles en marchant, puis championne qui charma l'Academie, puis reine fondatrice. (canon)
@@ -37,7 +37,7 @@
 
 - Jeune astrologue, elle rencontre avec sa soeur cadette Rellana les lunes qui feront d'elles des championnes. La sienne : une pleine lune enchanteresse. (canon)
 - Ensorcelle l'Academie de Raya Lucaria et en devient la maitresse. Y interdit l'etude du courant primordial et exile ses fondateurs, Azur et Lusat. Fonde la maison royale de Caria et adoube les chevaliers enchantes. (canon)
-- Offre une tresse de ses cheveux noirs a Rellana, qui renonce a sa lignee pour suivre Messmer. (canon)
+- Offre sa longue chevelure noire et lustree a Rellana, qui renonce a sa lignee pour suivre Messmer. (canon)
 - Deux guerres liurniennes contre Radagon, general de Marika, sans vainqueur. Radagon se repent et lui jure son amour. Mariage a l'Eglise des voeux, union des maisons de l'Arbre-Monde et de la Lune. Selon la tradition carienne, elle lui offre une Grande epee de lune. (canon)
 - Trois enfants : Radahn, Rykard, Ranni. Elle mene Ranni par la main a sa Lune noire. (canon)
 - Radagon lui offre l'oeuf d'ambre, puis la quitte pour devenir le second Seigneur d'Elden de Marika. Son coeur part avec lui. (canon)
@@ -50,10 +50,10 @@
 
 ## Relations de base
 
-- Radagon : epoux, parti pour Marika, dont il est l'autre moitie. Elle le desire toujours. (canon + [DIVERGENCE RP])
+- Radagon : epoux, parti pour Marika, dont il est l'autre moitie. Elle le desire toujours ; reciproque (cf. Personnages/Radagon). (canon + [DIVERGENCE RP])
 - Ranni : fille ; elle benit sa voie de nuit. (canon)
 - Radahn, Rykard : fils. (canon)
-- Rellana : soeur cadette, partie suivre Messmer. (canon)
+- Rellana : soeur cadette, partie suivre Messmer (cf. Personnages/Rellana). (canon)
 - Azur et Lusat : fondateurs de l'Academie, exiles par elle pour l'etude du courant primordial. Ironie : chez nous, ce courant est l'origine lointaine des lunes, la sienne comprise (cf. Personnages/Notteros). (canon + [DIVERGENCE RP])
 - Jeunes erudits : ses "petits", renes sans fin. (canon)
 - Academie de Raya Lucaria : l'a deposee et enfermee. (canon)

@@ -1,6 +1,6 @@
 # Notteros
 
-- version : W4
+- version : W7
 
 ## Identite
 
@@ -14,6 +14,8 @@
 ## Lignee et nature
 
 - Lignee : Courant primordial (Volonte supreme) -> lunes -> dieu de la mort -> Nuit. Origine lointaine, par lignee : les astres ne relevent pas de la Nuit. [DIVERGENCE RP]
+- Courant primordial : traces de l'intervention de la Volonte supreme, quand elle crea les astres. [DIVERGENCE RP]
+- La Nuit, donc Notteros, est une manifestation directe d'un fragment de l'Outer God des lunes, le dieu de la mort. D'ou, pour Sellen, une engeance quasi directe du courant (cf. Personnages/Sellen). [DIVERGENCE RP]
 - Seul fragment de la mort a avoir vecu dans l'Anneau, en rune otage. [DIVERGENCE RP]
 - Corps : materialise par lui-meme a son eveil. Traits numen, comme la GEQ dont il faisait partie. [DIVERGENCE RP]
 
@@ -75,7 +77,7 @@
 
 ### Ce qu'il a traverse sans le savoir
 
-- L'Anneau arrache au corps de la GEQ. [INTERPRETATION] Ouverture du trailer de Shadow of the Erdtree : Marika tire des fils d'or d'un cadavre.
+- Marika arrache l'Anneau au cadavre de la GEQ, puis franchit la Porte de la divinite (cf. Personnages/Marika). [DIVERGENCE RP] Appui : ouverture du trailer de Shadow of the Erdtree, ou Marika tire des fils d'or d'un cadavre.
 - La bete doree fragmente le dieu de la mort. La Nuit reste dans l'Anneau, rune otage de Marika, pour s'assurer de la fidelite des Nox. [DIVERGENCE RP]
 - Les Nox tranchent l'annulaire de Metyr avec la Fingerslayer Blade, pour avoir trahi leur reine et leur Nuit. Marika, alors fidele a Metyr, les bannit sous terre. [DIVERGENCE RP]
 - Fracture : Ranni et les Couteaux Noirs liberent la Nuit ; la rune se scinde. Notteros s'endort. [DIVERGENCE RP]
@@ -96,7 +98,7 @@
 - Maliketh : a tue la GEQ ; dans ses souvenirs, son meurtrier.
 - Metyr : a trahi la GEQ. Ennemie structurelle.
 - Heolstor et le Nightreign : sa moitie vorace. Aucune perception de sa part, seulement le manque.
-- Consorts : tous desirent Notteros. Le desir entre consorts est permis, sauf inceste : aucun desir entre consorts lies par le sang. Marika et Radagon ne faisant qu'un, les demi-dieux de la generation de Ranni sont tous lies entre eux ; seuls les consorts sans lien de sang peuvent se desirer.
+- Consorts : tous desirent Notteros. Le desir entre consorts est permis, sauf inceste : aucun desir entre consorts lies par le sang. Chez Marika et Radagon, la chair suit l'esprit et le sang passe par la forme qui engendre : Ranni, Radahn et Rykard n'ont que le sang de Radagon, aucun lien de sang avec Marika ni avec Godwyn, Morgott, Mohg. Malenia, Miquella, Messmer et Melina ont le sang des deux (cf. Personnages/Marika).
 
 ## Implications d'arc
 

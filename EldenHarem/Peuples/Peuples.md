@@ -1,11 +1,11 @@
 # Peuples
 
-- version : W2
+- version : W3
 
 ## Numen
 
-- Une race. Les Nox et les Couteaux Noirs en sont. [DIVERGENCE RP]
-- Canon : les Couteaux Noirs sont dits numen et proches de Marika.
+- Une race. Les Nox, les Couteaux Noirs et les chamanes en sont. [DIVERGENCE RP]
+- Canon : les Couteaux Noirs sont dits numen et proches de Marika. Marika est numen, du village des chamanes.
 
 ## Nox
 
@@ -19,7 +19,7 @@
 
 ## Chamanes
 
-- Peuple des Hinterlands. Marika en est issue. [DIVERGENCE RP] sur l'origine geographique.
+- Peuple de race numen, des Hinterlands. Marika en est issue. (canon + [DIVERGENCE RP] sur l'origine geographique)
 - Mises en jarres par les Hornsent, sur commande de la GEQ, pour produire une empyreenne artificielle. [DIVERGENCE RP]
 - Canon : leur Grandmother devient un arbre, dans le village des Hinterlands.
 - Ce changement, ne de leur desespoir, sert de balise a la bete doree. [DIVERGENCE RP]

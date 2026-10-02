@@ -1,6 +1,6 @@
 # Ranni
 
-- version : W2
+- version : W3
 
 ## Identite
 
@@ -84,6 +84,7 @@
 
 - Rennala : mere. (canon)
 - Radagon : pere, parti epouser Marika. (canon)
+- Marika : belle-mere, qui l'a elevee au rang de demi-deesse. Aucun lien de sang : la chair suit l'esprit, et Ranni est nee de la forme Radagon (cf. Personnages/Marika). Le desir entre elles est permis. (canon + [DIVERGENCE RP])
 - Radahn : frere ; retient les etoiles et son destin. (canon)
 - Rykard : frere ; detient la trace de la Rune de la mort qu'elle lui a confiee. (canon)
 - Rellana : tante, soeur de Rennala. (canon, SotE)

@@ -1,6 +1,6 @@
 # Malenia
 
-- version : W1
+- version : W2
 
 ## Identite
 
@@ -8,7 +8,7 @@
 - Fille de Marika et de Radagon. Jumelle cadette de Miquella. Empyreenne, comme lui. (canon)
 - Marika et Radagon etant un seul etre, les jumeaux naissent maudits. Elle : la Putrefaction ecarlate, qui lui coute plusieurs membres. (canon)
 - Putrefaction ecarlate dans le RP : fragment du dieu de la mort ; maladie non letale, stagnation (cf. Cosmologie/Fragments_de_la_Mort). [DIVERGENCE RP] Canon : produit d'un Outer God de la putrefaction.
-- Rejette sa Putrefaction. [DIVERGENCE RP]
+- Rejette sa Putrefaction : elle lui a ete imposee, et elle deteste la voir chercher a prendre le controle. Empyreenne, Malenia est pour la Putrefaction un moyen de devenir Inner God. [DIVERGENCE RP]
 - Jamais vaincue. (canon)
 
 ## Apparence
@@ -67,6 +67,7 @@
 - Maison Marais : fideles nes souffreteux, attires par elle. (canon)
 - Kindred of Rot : adorateurs nes de sa floraison. (canon)
 - Millicent et ses soeurs : bourgeons de sa floraison, plutot que des filles. (canon)
+- Romina : porte la meme Putrefaction, mais l'a choisie et la tient pour une benediction ; elle recueille ce que Malenia a rejete (cf. Personnages/Romina). [DIVERGENCE RP]
 - Notteros : la Nuit, autre fragment du meme dieu de la mort que sa Putrefaction (cf. Personnages/Notteros).
 
 ## Implications d'arc
