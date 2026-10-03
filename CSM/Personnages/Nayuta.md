@@ -1,6 +1,6 @@
 # Nayuta
 
-- version : W6
+- version : W7
 
 Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'entite telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -15,13 +15,13 @@ Note : a part son ORIGINE (fille biologique, non une reincarnation) et son NOM D
 ## Divergence vs canon
 - En canon, Nayuta est la REINCARNATION du demon du Controle (apres la mort de Makima), trouvee enfant en Chine par Kishibe. Ici : NON - elle est la fille BIOLOGIQUE d'Effroi et de Controle, un etre neuf. [DIVERGENCE RP]
 - Son concept se nomme Autorite (la part pure cedee), non Controle. Tout le reste - apparence, caractere, pouvoirs - suit le canon. [DIVERGENCE RP]
-- Ses trois soeurs (equivalent divergent des trois soeurs de la Nayuta canon - Mort, Famine, Guerre) : OC a inventer de zero, hors de cette fiche. [DIVERGENCE RP - a faire]
+- Ses trois soeurs (equivalent divergent des trois soeurs de la Nayuta canon - Mort, Famine, Guerre) : des REINCARNATIONS adoptees, chacune en fiche propre - Asa (Guerre) et Kiga (Famine) sont arrivees en 1998 ; la troisieme, reincarnation de Mort, reste un horizon. [DIVERGENCE RP]
 
 ## Apparence
 - ENFANT : cheveux noirs courts (mi-nuque), une longue meche couvrant l'oeil GAUCHE, un petit grain de beaute sous l'oeil gauche. [CANON]
 - Yeux jaunes cercles de multiples anneaux rouges en spirale - la marque des heritiers de l'autorite. [CANON]
-- ADOLESCENTE ET AU-DELA (etat de 1998, douze-treize ans) : PETITE - une petite taille qu'elle ne tient de personne (Makoto : 1 m 85 ; Makima : 168 cm). FINE - pas maigre, fine. Une silhouette de bureaucrate qui n'aura jamais a se battre, et qui n'en a aucun besoin : rien de sa puissance de demone ne se lit sur elle. [DIVERGENCE RP]
-- Derivation parentale : les cheveux noirs viennent de Makoto (longs cheveux noirs raides sous sa forme humaine), les yeux de Makima. Hors ces deux traits, elle ne ressemble a aucun des deux - ni la rousseur de sa mere, ni la stature de l'un ou de l'autre : sa petite taille est a elle. [DIVERGENCE RP]
+- ADOLESCENTE ET AU-DELA (etat de 1998, douze-treize ans) : PETITE comme sa mere - 168 cm a l'age adulte, stature heritee de Makima ; les deux sont petites face a Makoto (1 m 85). FINE - pas maigre, fine. Une silhouette de bureaucrate qui n'aura jamais a se battre, et qui n'en a aucun besoin : rien de sa puissance de demone ne se lit sur elle. [DIVERGENCE RP]
+- Derivation parentale : les cheveux noirs viennent de Makoto (longs cheveux noirs raides sous sa forme humaine), les yeux et la stature de Makima. Hors ces traits, elle ne ressemble a aucun des deux - ni la rousseur de sa mere, ni la carrure de son pere. [DIVERGENCE RP]
 
 ## Immortalite
 - Capacites demoniaques standard : reincarnation, regeneration par le sang, contrats. [CANON]
@@ -51,7 +51,9 @@ Note : a part son ORIGINE (fille biologique, non une reincarnation) et son NOM D
 - Ange - son gardien attitre, qu'elle malmene et traite en chien via l'autorite pure. Gardiennat CLOS a l'hiver 1997-1998 : grande desormais, mentalement plus mure que la quasi-totalite des adultes, elle n'a plus besoin de gardien - Ange reintegre a la Division 4. cf. Personnages/Ange. [DIVERGENCE RP]
 - Le Chien - son demon de compagnie depuis l'hiver 1997-1998 : fauve de la meute du Predateur, trop mignon a ses yeux, SOUMIS par son autorite en pleine bataille de Tokyo - en plus des chiens de Makima. Sa lecture : il incarne l'ANIMAL APPRIVOISE - ce qu'il aime, c'est la servitude. Il vit au QG aupres d'elle. cf. Personnages/Predateur (la meute). [DIVERGENCE RP]
 - Le pantin-Tolka (Poupee) - dernier receptacle de la demone Poupee, livre par Tenebres et SOUMIS par son autorite (hiver 1997-1998) ; prisonnier litteral du trone, devenir ouvert. cf. Personnages/Assassins_Internationaux. [DIVERGENCE RP]
-- Ses trois soeurs - a naitre / a inventer (OC, hors fiche). [DIVERGENCE RP - a faire]
+- Asa - premiere petite soeur, adoptee en janvier-fevrier 1998 et elevee en EGALE ; la "petite soeur" promise a Guerre mourante. cf. Personnages/Asa. [DIVERGENCE RP]
+- Kiga - seconde petite soeur (avril 1998) ; consternee par son gout des noms sans finesse, complice pour le reste ; toujours de quoi manger sur elle pour la petite. cf. Personnages/Kiga. [DIVERGENCE RP]
+- La troisieme soeur (reincarnation de Mort) - horizon ouvert. [DIVERGENCE RP]
 - Kishibe - present a sa naissance : il s'agenouille sous son premier ordre. Plus tard son TROISIEME MAITRE - la justice, a l'ecole de la gouvernance (1990-94, cf. Trajectoire). [DIVERGENCE RP]
 - Denji - le "grand frere" arrime au foyer (~1997) : recrute avec elle en ancre emotionnelle ; depuis les revelations, il sait ce qu'elle est - et elle aime etre traitee en petite soeur. cf. Trajectoire. [DIVERGENCE RP]
 
@@ -59,7 +61,7 @@ Note : a part son ORIGINE (fille biologique, non une reincarnation) et son NOM D
 - R2 exige que la conception ait eu lieu au point de depart (2 dec 84) - couvert par le NOYAU et l'Histoire. Le reste de sa vie (naissance, enfance) est POST-depart : cf. Trajectoire.
 
 ## Trajectoire datee
-(Alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
+(Alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : illimite - revu si trop lourd. Le canon par defaut vit ici ; si une partie diverge, le delta va en Parties/.)
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
@@ -74,5 +76,8 @@ Note : a part son ORIGINE (fille biologique, non une reincarnation) et son NOM D
 | hiver 1997-1998 (R6 - La Guerre) | Bataille de Tokyo : escortee d'Ange - reintegre a la Division 4, car grande desormais, mentalement plus mure que la quasi-totalite des adultes, elle n'a plus besoin de gardien -, elle est sur place pour dompter le demon CHIEN de la meute du Predateur, trop mignon a ses yeux. Elle le soumet par son autorite, en plus des chiens de Makima ; sa lecture : il incarne l'animal apprivoise - ce qu'il aime, c'est la servitude. Elle rentre au QG avec son demon de compagnie. | Fin du gardiennat d'Ange ; un demon de compagnie a son autorite - la lecture juste d'un concept, en pleine bataille. |
 | hiver 1997-1998 (R6 - La Guerre) | LECON DE POLITIQUE en Enfer : Makoto la prend avec lui pour la descente qui suit la frappe de Poupee - le domaine de Tenebres, la collecte interrompue avant l'encaissement, la menace de REINITIALISATION servie a un Primordial. Apres la purge mondiale, Tenebres livre le pantin-Tolka, dernier receptacle de Poupee : elle le SOUMET - ils verront ce qu'ils en font ensuite. | Temoin directe de la diplomatie du Roi au sommet ; un prisonnier de plus a son autorite (Poupee captive, devenir ouvert). |
 | hiver 1997-1998 (R6 - La Guerre) | Washington : au sein de la cellule, elle suit la mise a mort de Guerre depuis l'helicoptere, avec ses parents et Aki. Devant la Cavaliere a terre - qui insulte le trio royal venu l'achever, puis, desesperee, demande a porter le nom de son choix dans sa prochaine vie -, elle lui fait un CALIN sous les regards surprotecteurs de tous : "a bientot, petite soeur". | Le geste qui scelle l'adieu - et l'attente : la prochaine Guerre est deja, a ses yeux, une petite soeur a venir. |
+| janvier-fevrier 1998 (R7 - La Famine) | LE BERCEAU : du voyage au Kosovo avec ses parents et Aki. A la rencontre, elle veut porter Asa - qui tend les bras vers Aki. Asa adoptee, elevee en EGALE d'elle : la petite soeur promise a Washington est arrivee. | Grande soeur ; premiere fille adoptee au foyer. |
+| avril 1998 -> mars 1999 (R7 - La Famine) | Arrivee de Kiga, ramenee de Somalie par Ange. Quand la petite choisit et EXIGE son nom - qui dit "famine" en japonais -, elle desespere d'avance du manque de subtilite : elle a l'habitude de mieux. Complice pour le reste ; comme ses parents, toujours quelque chose a manger sur elle pour Kiga. | Ainee d'une fratrie a trois. |
+| ete-automne 1998 (R7 - La Famine) | TRACTS CODES de la branche nihiliste : la SP les tenait depuis des mois sans y voir de code. Elle les demonte en quelques minutes - l'en-tete "LA LUMIERE REVELE LA VERITE" pris au pied de la lettre, le tract leve a contre-jour, des lettres sans sens, des F partout ou l'on attendrait des E, un cran de recul : LE NEANT EST LE REMEDE, CONTACTER ADEPTE TANAKA. Ses parents l'ont lu aussi vite, et s'en amusent. (Detail du code : cf. Factions/Eglise_Chainsaw_Man.) | La piste nihiliste s'ouvre par elle : l'heritiere lit ce que les humains ratent depuis des mois. |
 
 FIN_WIKI_PERSONNAGES_NAYUTA

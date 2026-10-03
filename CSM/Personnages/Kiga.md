@@ -1,6 +1,6 @@
 # Kiga
 
-- version : W3
+- version : W4
 
 Entite [CANON + DIVERGENCE RP] - reincarnation de la Cavaliere Famine. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie. Vie anterieure du concept : cf. Personnages/Famine.
 
@@ -48,7 +48,7 @@ Famine a paye sa vie pour offrir a sa suivante exactement ce qu'on lui avait tou
 ## Psychologie et manies
 - Elevee en demone, jamais en enfant humaine - meme regime que Nayuta et Asa. On lui raconte qui elle FUT des qu'elle comprend les mots.
 - Besoin de manger EN PERMANENCE. Prend tres vite l'habitude de se deplacer avec un sac plein de nourriture, qu'elle partage volontiers avec ses soeurs. Makoto, Makima et Nayuta ont toujours quelque chose a manger sur eux pour elle - reflexe de maisonnee, jamais presente comme une corvee.
-- Accro aux calins autant qu'a la nourriture, et sans hierarchie entre les deux : ses parents et ses soeurs sont l'autre moitie de son appetit.
+- Accro aux calins autant qu'a la nourriture, et sans hierarchie entre les deux : ses parents, ses soeurs - et Ange - sont l'autre moitie de son appetit.
 - Cherit ses parents plus que tout.
 - TENSION AVEC ASA, permanente et sans gravite : Kiga engloutit tout sans que rien ne se voie, tandis qu'Asa s'entraine sans relache et voit le moindre grignotage marquer son corps de combattante.
 
@@ -58,7 +58,7 @@ Famine a paye sa vie pour offrir a sa suivante exactement ce qu'on lui avait tou
 - Nayuta - grande soeur. Consternee par son gout des noms sans finesse, complice pour le reste.
 - Asa - soeur ainee de quelques mois, grandie au meme rythme. Binome de fratrie, chamailleries de corps et d'appetit.
 - Famine - son incarnation precedente. Aucune continuite vecue, seulement une continuite de concept - et un pacte paye pour elle.
-- Ange - son ravisseur et son premier porteur. Durant le vol du retour, elle tente par pur reflexe de le drainer ; il riposte avec le juste oppose de son propre pouvoir, et les deux drains se mettent en equilibre. Premier etre a avoir tenu son siphon en respect.
+- Ange - son ravisseur et son premier porteur. Durant le vol du retour, elle tente par pur reflexe de le drainer ; il riposte avec le juste oppose de son propre pouvoir, et les deux drains se mettent en equilibre. Premier etre a avoir tenu son siphon en respect. Son GARDIEN, de fait, des ce vol (principe des gardiens des Cavalieres) : garde-fou conditionnel, Ange etant loyaliste du Royaume plus que du Roi. CO-DEPENDANCE : elle reclame des calins a tout age a ses parents, a ses soeurs ET a Ange ; aucun ne refuse, Ange moins que quiconque - elle est la seule sensibilite comme la sienne qu'il ne puisse pas drainer malgre lui (son drain ne touche que les humains). La dependance est le champ de son concept, et la condition achetee "zero jugement sur ses addictions" la couvre.
 - Denji, Reze, Aki - membres de la maisonnee et de la Division 4 ; aucun lien privilegie a ce stade.
 
 ## Histoire (jusqu'au perimetre)
@@ -77,7 +77,7 @@ Famine a paye sa vie pour offrir a sa suivante exactement ce qu'on lui avait tou
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | printemps 1998 (R7 - La Famine) | Naissance en Somalie, quelques semaines apres la mort de Famine | Le concept reprend corps ; table rase - aucun contrat, aucune memoire ; siphon vital incontrole des le berceau |
-| avril 1998 (R7 - La Famine) | LOCALISEE sur signalement de Fievre (Mogadiscio) ; ENLEVEE par Ange pendant que sa mere est en soins intensifs ; ramenee en vol au foyer familial, les deux drains en equilibre tout du long ; integree d'emblee, seconde fille adoptee | Passe de nourrisson anonyme a fille du trone ; les conditions achetees par Famine entrent en application ; sa famille de naissance ne saura jamais rien |
+| avril 1998 (R7 - La Famine) | LOCALISEE sur signalement de Fievre (Mogadiscio) ; ENLEVEE par Ange pendant que sa mere est en soins intensifs ; ramenee en vol au foyer familial, les deux drains en equilibre tout du long ; integree d'emblee, seconde fille adoptee | Passe de nourrisson anonyme a fille du trone ; les conditions achetees par Famine entrent en application ; Ange devient son gardien de fait ; sa famille de naissance ne saura jamais rien |
 | avril 1998 -> mars 1999 (R7 - La Famine) | Croissance acceleree ; education de demone ; choisit et impose son nom ; premiers paliers de maitrise du drain ; installation des habitudes (le sac de nourriture, les calins, la maisonnee qui s'y accorde) | Nom acte ; siphon partiellement maitrise ; place de cadette installee dans la fratrie |
 | fevrier-mars 1999 (R7 - La Famine) | LE CHOIX : elle pese ce qu'elle pourrait avoir ailleurs, et choisit de rester. Pas une habitude - une decision reflechie | La promesse faite a une morte est tenue ; l'arc se ferme sur son consentement |
 

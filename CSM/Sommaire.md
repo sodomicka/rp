@@ -1,6 +1,6 @@
 # Sommaire - CSM
 
-- version : W25
+- version : W29
 
 ## WIKI
 
@@ -9,14 +9,14 @@
 
 ### (racine)
 Description : index, resume et journal de travail.
-- Resume.md (W1) - resume de l'histoire etablie, des origines a mars 1999
-- _Implications.md (W38) - journal de travail du build (jamais fetche en narration)
+- Resume.md (W2) - resume de l'histoire etablie, des origines a mars 1999
+- _Implications.md (W42) - journal de travail du build (jamais fetche en narration)
 
 ### Roadmap/Makoto/
 Description : garde-cap de la campagne Makoto (Passe 2).
-- Chronologie.md (W5) - garde-cap du decoupage R0 -> R8+ : bornes, jalons, statuts a jour jusqu'a R7
+- Chronologie.md (W8) - garde-cap du decoupage R0 -> R10 : bornes, jalons, statuts a jour jusqu'a R7 ; R8-R10 en grandes lignes
 
-> Les roadmaps d'arc (R0 La Peur W2, R1 Le Controle W5, R2 Le Flingue W3, R3 L'Autorite W1, R4 La Tronconneuse W1, R5 La Bombe W1, R6 La Guerre W1, R7 La Famine W1) restent NON indexees : sources de build uniquement, lues par listing de dossier, jamais fetchees en narration.
+> Les roadmaps d'arc (R0 La Peur W2, R1 Le Controle W5, R2 Le Flingue W3, R3 L'Autorite W1, R4 La Tronconneuse W1, R5 La Bombe W1, R6 La Guerre W1, R7 La Famine W3) restent NON indexees : sources de build uniquement, lues par listing de dossier, jamais fetchees en narration.
 
 ### Personnages/
 Description : fiches d'entites neutres (NOYAU + Trajectoire datee).
@@ -41,8 +41,8 @@ Description : fiches d'entites neutres (NOYAU + Trajectoire datee).
 - Vaudous.md (W6) - Machette, Aiguille, Griffe ; filet de renseignement du trone ; contractants Kishibe et Aki
 - Kishibe.md (W8) - le Gardien, hybride de Flingue complet ; chef d'escouade Division 4 ; garde-fou de l'empire
 - Aki.md (W7) - orphelin de Flingue ; hybride du Katana (1998) ; parrain-gardien d'Asa
-- Ange.md (W3) - le forgeron du trone ; ravisseur-porteur de Kiga (avril 1998)
-- Nayuta.md (W6) - Autorite, fille biologique du couple ; heritiere ; grande soeur d'Asa et Kiga
+- Ange.md (W4) - le forgeron du trone ; ravisseur-porteur puis gardien de Kiga (avril 1998)
+- Nayuta.md (W7) - Autorite, fille biologique du couple ; heritiere ; grande soeur d'Asa et Kiga
 - Predateur.md (W6) - le Chasseur, renegat ; meute decimee, REPLIE ; ravageurs passes a Kiga
 - Renarde.md (W3) - demone animale loyaliste ; ex-contractante d'Aki
 - Serpent.md (W3) - demone animale loyaliste ; extension de devoration (captation de contrats)
@@ -55,9 +55,9 @@ Description : fiches d'entites neutres (NOYAU + Trajectoire datee).
 - Malediction.md (W1) - engeance de Mort ; neutre absolu
 - Chauve_Souris.md (W2) - la paire du Predateur ; MORTS (~1997) - Trajectoire close
 - Assassins_Internationaux.md (W1) - reseau de tueurs de Guerre ; ANEANTIS ; reliquat : le pantin-Tolka
-- Neant.md (W4) - engeance reniee de Tenebres ; antagoniste de 1998 ; MORT (hiver 1998-1999)
-- Asa.md (W3) - reincarnation de Guerre ; fille adoptee du trone ; filleule d'Aki
-- Kiga.md (W3) - reincarnation de Famine ; seconde fille adoptee ; le choix de mars 1999
+- Neant.md (W5) - engeance reniee de Tenebres ; antagoniste de 1998 ; MORT (hiver 1998-1999)
+- Asa.md (W4) - reincarnation de Guerre ; fille adoptee du trone ; filleule d'Aki
+- Kiga.md (W4) - reincarnation de Famine ; seconde fille adoptee ; le choix de mars 1999
 - Feu.md (W2) - engeance de Cataclysme au service de Mort ; infiltre de l'Eglise ; INTROUVABLE
 
 ### Lieux/
@@ -72,9 +72,9 @@ Description : pages systeme transversales.
 ### Factions/
 Description : factions et groupes ; etat neutre + Trajectoire datee.
 - Securite_Publique.md (W9) - agence anti-demons ; Makima cheffe (1998) ; cinq divisions, cinq hybrides ; instrument d'Effroi
-- Eglise_Chainsaw_Man.md (W1) - culte mondial ne a Washington ; trois couches ; organigramme reel Mort -> Feu
+- Eglise_Chainsaw_Man.md (W2) - culte mondial ne a Washington ; trois couches ; tracts codes de la branche nihiliste ; organigramme reel Mort -> Feu
 
-PASSE 2 EN COURS : roadmaps R0 -> R7 ecrites ; prochain : peaufinage R7, cloture Passe 2 (relecture croisee), Passe 3 (fiches d'arc), CODEX V1, SETUP.
+PASSE 2 EN COURS : roadmaps R0 -> R7 ecrites, R7 peaufinee ; prochain : roadmaps R8, R9 (temps calme) et R10 (finale), cloture Passe 2 (relecture croisee), Passe 3 (fiches d'arc), CODEX V1, SETUP.
 
 ## PARTIES (Partie1)
 

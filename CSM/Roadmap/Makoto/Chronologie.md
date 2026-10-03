@@ -1,7 +1,7 @@
 # Chronologie des roadmaps - Makoto / Effroi
 
-- version : W5
-- role : GARDE-CAP de la campagne. Decoupage R0 -> R8+ DICTE par le worldbuilder. Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de Passe 2) ; les [A POSER] listes ici s'y tranchent.
+- version : W8
+- role : GARDE-CAP de la campagne. Decoupage R0 -> R10 DICTE par le worldbuilder. Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de Passe 2) ; les [A POSER] listes ici s'y tranchent.
 - convention de nommage : chaque roadmap porte le nom du DEMON le plus important de son arc.
 - prota / POV : Makoto / Effroi.
 
@@ -60,17 +60,27 @@
 - Demon central : Guerre. LE CONFLIT EST TOMBE ICI.
 - Fichier : Roadmap_6_La_Guerre.md
 
-## R7 - La Famine [ECRITE - W1 ; jouable - peaufinage en attente]
+## R7 - La Famine [ECRITE - W3 ; jouable - PEAUFINEE]
 - Bornes : reincarnation de Guerre localisee (janvier 1998) -> le choix de Kiga (fevrier-mars 1999).
-- Jalons : le berceau (Asa localisee par chasse CIBLEE, rachetee - couverture de veuf d'Aki ; adoptee, egale de Nayuta ; Aki DEMANDE et recoit l'hybridation au Katana, gel a 23 ans) ; la guetteuse (Famine reperee vite, laissee regarder des semaines) ; la negociation (ultimatum a commutateur inverse - la crise repose sur des engeances AUTONOMES ; voix au chapitre, conditions acceptees ; crise desarmee ; execution a sa demande, de la main du Roi) ; la rentree (avril 1998 : Denji et Reze en 1e annee de FAC - vie normale + couverture ; Kiga localisee sur signalement de Fievre, enlevee par Ange, integree d'emblee) ; le rangement (Tank descelle et jure a Asa ; Flingue COMPLET - Kishibe 100 ; 5e division levee, Quanxi en tete ; creance d'epouse soldee - donnant-donnant Quanxi-Power ; Makima cheffe de la SP de Tokyo) ; l'Eglise (enquete, couches demelees, piste dans la promo de Denji) ; la revelation (TOTALE - trois exclusions levees ; manifestation de Pochita, tensions puis approbation ; doctrine Pochita revisee) ; le vide (Neant demasque, semi-demon, abattu par Denji et Reze, Makoto assistant sans intervenir ; le Feu nomme par le mourant, introuvable ; transformation de masse jamais tiree) ; le choix de Kiga (rester - decision reflechie).
-- Resolus au build : executants du climax ; extractions (rachat au Kosovo / enlevement a Mogadiscio) ; conditions de Famine ; principe des gardiens des Cavalieres ; doctrine Pochita revisee ; donnant-donnant Quanxi-Power ; extension genealogique (maladies vegetales -> Famine ; ravageurs -> lignee Predateur, allegeance Famine puis Kiga).
-- Peaufinage en attente (etape 4 de la boucle serree) : enigme des tracts a construire ; etape 1 a reecrire en chasse ciblee ; etapes 4 et 6 lycee -> FAC ; scenes d'extraction a integrer ; casting a completer (Ange, Fievre et ravageurs en figurants) ; Intention a corriger ("deux Cavalieres mortes en dix-huit mois" -> une Cavaliere abattue et une capitale eventree au reveil de Mort ; deux Cavalieres en trois mois comme nourriture de R7).
+- Jalons : le berceau (Asa localisee par chasse CIBLEE au Kosovo - appel d'un ministre yougoslave ; rachetee - couverture de veuf d'Aki ; adoptee, egale de Nayuta ; Aki DEMANDE et recoit l'hybridation au Katana, gel a 23 ans) ; la guetteuse (Famine reperee vite, laissee regarder des semaines) ; la negociation (ultimatum a commutateur inverse - la crise repose sur des engeances AUTONOMES ; voix au chapitre, conditions acceptees ; crise desarmee ; execution a sa demande, de la main du Roi) ; la rentree (avril 1998 : Denji et Reze en 1e annee de FAC - vie normale + couverture ; Kiga localisee sur signalement de Fievre, enlevee par Ange - son gardien de fait des le vol retour -, integree d'emblee) ; le rangement (Tank descelle et jure a Asa ; Flingue COMPLET - Kishibe 100 ; 5e division levee, Quanxi en tete ; creance d'epouse soldee - donnant-donnant Quanxi-Power ; Makima cheffe de la SP de Tokyo) ; l'Eglise (enquete, couches demelees ; tracts codes - lettres opaques a contre-jour, recul d'un cran - demontes par Nayuta ; piste dans la promo de Denji jusqu'a Kenji, pris pour un simple adepte) ; la revelation (TOTALE - trois exclusions levees ; manifestation de Pochita - muet, dialogue par questions fermees -, tensions puis approbation ; doctrine Pochita CONFIRMEE) ; le vide (Neant demasque, semi-demon, abattu par Denji et Reze, Makoto assistant sans intervenir ; le Feu nomme par le mourant, introuvable ; transformation de masse jamais tiree ; coda : Barem Bridge infiltre l'Eglise en taupe) ; le choix de Kiga (rester - decision reflechie).
+- Resolus au build : executants du climax ; extractions (rachat au Kosovo / enlevement a Mogadiscio) ; conditions de Famine ; principe des gardiens des Cavalieres (Ange pour Kiga, avril 1998) ; doctrine Pochita revisee - ACQUISE en ouverture d'arc, brandie a la negociation, confirmee a l'automne ; code des tracts nihilistes ; taupe Barem en coda ; donnant-donnant Quanxi-Power ; extension genealogique (maladies vegetales -> Famine ; ravageurs -> lignee Predateur, allegeance Famine puis Kiga).
 - Demon central : Famine.
 - Fichier : Roadmap_7_La_Famine.md
 
-## R8+ - [DICTE EN GRANDES LIGNES - A BUILDER]
+## R8 - [DICTE EN GRANDES LIGNES - A BUILDER]
+- Demon central : Mort.
 - Demarre en avril 1999 : rentree de Denji et Reze en 2e annee de fac (Denji 20 ans, Reze 21 ; couverture de Reze a poser).
-- Matiere dictee (parquee au journal) : revisite de la Partie 2 canon a notre sauce - Eglise de Chainsaw Man, fac, MORT QUI S'INFILTRE parmi eux ; Mort aux commandes de l'Eglise depuis Washington ; le Feu son pion, introuvable (modalites de cavale et de traque a fixer au build) ; transformation de masse ARMEE - detonation pour quelqu'un d'autre ; retour de Kobeni (hybride pressenti : Tank) ; reincarnation de Mort : horizon R8+.
+- Matiere dictee (parquee au journal) : revisite de la Partie 2 canon a notre sauce - Eglise de Chainsaw Man, fac, MORT QUI S'INFILTRE parmi eux ; Mort aux commandes de l'Eglise depuis Washington ; le Feu son pion, introuvable (modalites de cavale et de traque a fixer au build) ; transformation de masse ARMEE - detonation pour quelqu'un d'autre ; retour de Kobeni (hybride pressenti : Tank) ; Barem Bridge, taupe dans l'Eglise, instrument de la traque du Feu ; reincarnation de Mort : horizon R8+.
 - Reste au moins : le plan long contre Mort (l'acculer a choisir sa propre reincarnation comme seule issue viable) et l'achevement du quatuor reforme des Cavalieres.
+
+## R9 - [DICTE EN GRANDES LIGNES - A BUILDER]
+- Nature : un TEMPS CALME. Les filles grandissent, jusqu'a ce qu'elles soient TOUTES adultes.
+- Reperes : Nayuta (croissance humaine, nee ~septembre 1985) atteint 18 ans en septembre 2003 ; Asa et Kiga (reincarnees) suivent la croissance acceleree en courbe qui s'aplatit, jusqu'au gel adulte.
+- [A POSER] : perimetre de "toutes" (la reincarnation de Mort en fait-elle partie - ce qui suppose le plan long abouti en R8) ; date du gel adulte des reincarnees (courbe non chiffree au-dela d'un an) ; bornes ; demon central.
+
+## R10 - [DICTE EN GRANDES LIGNES - A BUILDER] - le finale
+- Nature : en finir avec les DERNIERS REBELLES pour imposer un MONOPOLE MONDIAL.
+- Etat final dicte : le couple regnant se nourrit du controle et de l'equilibre de la peur ; juste en dessous, les filles, REINES TACITES du monde, sous le protectorat des deux demons les plus puissants et calculateurs au monde.
+- [A POSER] : liste des derniers rebelles ; articulation du monopole avec la condition des gardiens des Cavalieres (garde-fous armes si le trone devie de l'equilibre) ; bornes ; demon central.
 
 FIN_ROADMAP_MAKOTO_CHRONOLOGIE

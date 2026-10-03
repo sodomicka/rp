@@ -1,6 +1,6 @@
 # Asa
 
-- version : W3
+- version : W4
 
 Entite [CANON + DIVERGENCE RP] - reincarnation de la Cavaliere Guerre. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie. Vie anterieure du concept : cf. Personnages/Guerre.
 
@@ -20,7 +20,7 @@ Entite [CANON + DIVERGENCE RP] - reincarnation de la Cavaliere Guerre. Fiche NEU
 - REGLE ACTEE : le pays de naissance d'une reincarnation suit la PRESENCE de son concept a l'instant t. On ne cherche pas un berceau au hasard - on cherche Guerre sur une carte des guerres.
 - Nee a l'hiver 1997-1998, quelques semaines apres la mort de Guerre a Washington (R6).
 - Pays de naissance : le KOSOVO. L'insurrection y est deja armee ; l'embrasement suivra en fevrier-mars 1998. Le concept s'y concentre avant que le monde ne le nomme.
-- Localisee en janvier-fevrier 1998 (R7, etape 1) : un ministre du Kosovo appelle Makima - dans une clinique de campagne, une gamine aux yeux cercles vient de changer son hochet en marteau, eclatant du materiel medical.
+- Localisee en janvier-fevrier 1998 (R7, etape 1) : un ministre yougoslave appelle Makima - dans une clinique de campagne, une gamine aux yeux cercles vient de changer son hochet en marteau, eclatant du materiel medical.
 - EXTRACTION PAR RACHAT. Le trio royal se rend au Kosovo en avion, accompagne d'Aki, qui a prepare un plan pour sa filleule et prend les choses en main : il se presente en jeune veuf ayant perdu femme et fille, touristes a Washington, et demande a adopter la leur. Il presente une somme demesuree de dinars yougoslaves, convertis a l'avance. Le couple accepte, honteux. La famille biologique est VIVANTE - et l'a vendue.
 - A la rencontre, Nayuta veut la porter ; Asa tend les bras vers AKI. Il la porte tout le trajet du retour, plus serieux dans son travail que jamais, pas meme mal a l'aise face a un nourrisson : il la sait etre Guerre.
 - MEMOIRE : AUCUNE. Pas de bribes, pas de reminiscences, rien. Ce qu'elle sait de sa vie anterieure, on le lui a raconte - savoir transmis, jamais souvenir.
@@ -71,7 +71,7 @@ Entite [CANON + DIVERGENCE RP] - reincarnation de la Cavaliere Guerre. Fiche NEU
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | hiver 1997-1998 | Naissance au Kosovo, quelques semaines apres la mort de Guerre a Washington | Le concept reprend corps ; table rase - aucun contrat, aucune memoire |
-| janvier-fevrier 1998 (R7 - La Famine) | LOCALISEE (appel d'un ministre du Kosovo a Makima) ; hochet mue en marteau dans une clinique de campagne. RACHETEE a sa famille biologique par Aki, en couverture de jeune veuf, contre une somme demesuree de dinars ; des la rencontre, elle tend les bras vers lui et il la porte tout le retour. Adoptee par la famille royale, elevee en egale de Nayuta. Parrainage d'Aki accorde ; dans la foulee, Aki se fait hybrider au Katana pour devenir son gardien permanent | Passe de nourrisson anonyme a fille du trone ; acquiert un parrain-gardien hybride ; famille biologique vivante, payee et honteuse |
+| janvier-fevrier 1998 (R7 - La Famine) | LOCALISEE (appel d'un ministre yougoslave a Makima) ; hochet mue en marteau dans une clinique de campagne. RACHETEE a sa famille biologique par Aki, en couverture de jeune veuf, contre une somme demesuree de dinars ; des la rencontre, elle tend les bras vers lui et il la porte tout le retour. Adoptee par la famille royale, elevee en egale de Nayuta. Parrainage d'Aki accorde ; dans la foulee, Aki se fait hybrider au Katana pour devenir son gardien permanent | Passe de nourrisson anonyme a fille du trone ; acquiert un parrain-gardien hybride ; famille biologique vivante, payee et honteuse |
 | printemps-ete 1998 (R7 - La Famine) | Tank descelle par le trone lui jure l'allegeance promise avant sa naissance | Premiere allegeance personnelle d'une arme majeure |
 | avril 1998 -> mars 1999 (R7 - La Famine) | Croissance acceleree (environ dix a douze ans d'aspect en un an) ; education de demone ; arrivee de Kiga en seconde soeur ; entrainements contre les hybrides de la maison | Corps et caractere de combattante installes ; fratrie a trois |
 

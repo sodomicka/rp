@@ -1,6 +1,6 @@
 # Neant
 
-- version : W4
+- version : W5
 
 Entite [DIVERGENCE RP] - OC promu au lore (antagoniste de l'arc R7). Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
 
@@ -38,7 +38,7 @@ Trois etats, de puissance CROISSANTE en descendant vers l'humain - l'inverse du 
 - BLESSURE MOTRICE : il s'est toujours vu comme le SECOND EFFACEMENT - meme famille de vide, prive du pouvoir. Tout son projet decoule de cette place jamais obtenue.
 - DELIRE COMPLET : il se croit admire, respecte, obei. Il croit commander le Feu, qui l'a approche des Washington. Il ne voit aucune main au-dessus de lui.
 - Ses nihilistes - quelques dizaines d'humains, aucun demon : en avoir est deja infiniment plus qu'il n'a jamais eu.
-- EN KENJI : l'homme qui s'excuse. Parle peu, laisse les autres finir leurs phrases, s'efface d'une piece sans qu'on le remarque. Va au bureau tous les jours, parce que disparaitre attirerait l'oeil.
+- EN KENJI : l'homme qui s'excuse. Parle peu, laisse les autres finir leurs phrases, s'efface d'une piece sans qu'on le remarque. Va au bureau tous les jours, parce que disparaitre attirerait l'oeil. Aupres des recrues, il se presente en simple ADEPTE : le chef se deguise en pion.
 - EN SEMI-DEMON : bascule totale. Precheur, verbeux, grandiloquent - enfin regarde, enfin ecoute.
 
 ## Relations de base
@@ -69,7 +69,7 @@ Trois etats, de puissance CROISSANTE en descendant vers l'humain - l'inverse du 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | hiver 1997-1998 (post-R6) | Devore l'esprit de Kenji Tanaka et prend sa coquille. Approche par le Feu, qu'il croit des lors commander. Prend la tete de la branche nihiliste qui se terre sous l'Eglise de Chainsaw Man naissante. | Passe d'isole seculaire a chef de file d'une secte ; croit tenir un allie demoniaque et un levier |
-| ete-automne 1998 (R7 - La Famine) | Sa branche affleure a l'enquete menee sur l'Eglise : des contrats vers un demon non identifie remontent chez certains membres. Le recrutement sur les campus des facs ramene la piste dans la promo de Denji. Toute l'annee, il pousse a declencher la transformation de masse ; le Feu temporise. | Expose sans le savoir ; son levier reste arme et jamais tire |
+| ete-automne 1998 (R7 - La Famine) | Sa branche affleure a l'enquete menee sur l'Eglise : des contrats vers un demon non identifie remontent chez certains membres. Le recrutement sur les campus des facs ramene la piste dans la promo de Denji, ou un etudiant distribue ses TRACTS CODES (LE NEANT EST LE REMEDE ; CONTACTER ADEPTE TANAKA - mecanique et texte : cf. Factions/Eglise_Chainsaw_Man). Nayuta les demonte ; la piste mene a sa coquille, prise pour un petit recruteur humain, un pion - on le surveille pour remonter plus haut. Toute l'annee, il pousse a declencher la transformation de masse ; le Feu temporise. | Expose sans le savoir, mais pris pour un pion ; son levier reste arme et jamais tire |
 | hiver 1998-1999 (R7 - La Famine) | DEMASQUE. Fusionne avec la coquille, passe semi-demon, dissolution locale au toucher ; climax de l'arc. ABATTU PAR DENJI ET REZE - les pions places par le trone. Makoto assiste en personne, sans intervenir : Neant comprend en mourant qu'il n'a jamais ete qu'un pion, y compris chez ses adversaires - un faire-valoir, un trophee de chasse pour l'hybride de l'Effacement. Il accuse le Feu, sans jamais voir la main derriere. Sa branche nihiliste tombe avec lui. Son levier n'aura jamais servi. | MORT sur Terre - renaissance en Enfer selon le cycle, hors perimetre R7. Le levier reste arme, aux mains du Feu |
 
 ---
