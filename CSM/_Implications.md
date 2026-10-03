@@ -1,10 +1,10 @@
 # _Implications - CSM
 
-- version : W37
+- version : W38
 
 Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus et les taches faites sont PURGES (leur trace vivante est en BIBLE + fiches + Systemes/). Ne restent ici que le vivant - dettes, questions ouvertes, chantiers.
 
-> ETAT : BIBLE B11 livree (conforme SPEC courante, integration R7) ; chantier fiches R7 CLOS ; Sommaire W24 reconcilie (+5 pages indexees, entrees ramenees a une ligne) ; Resume.md cree (W1) ; Chronologie W5. PROCHAIN : peaufinage roadmap R7 (etape 4) -> cloture Passe 2 (relecture croisee inter-arcs) -> Passe 3 (fiches d'arc) -> CODEX V1 -> SETUP.
+> ETAT : BIBLE B11 livree (conforme SPEC courante, integration R7) ; Sommaire W25 ; Resume.md W1 ; Chronologie W5. Thread de reprise (recap integral des personnages, octobre 2026) : D18 enrichie, D21-D23 actees et parquees, dettes de fiches ajoutees (a servir au prochain BIBLE BUILD). PROCHAIN : peaufinage roadmap R7 (etape 4, Barem et D23 inclus) -> cloture Passe 2 (relecture croisee inter-arcs) -> Passe 3 (fiches d'arc) -> CODEX V1 -> SETUP.
 
 ## DOCTRINE - ce qui va en roadmap et ce qui n'y va pas
 - La roadmap est un outil MJ au POV du prota (Makoto). Les faits que Makoto IGNORE n'y deviennent pas des etapes.
@@ -13,8 +13,11 @@ Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus
 - Corollaire Trajectoires (rappel SPEC) : la Trajectoire datee d'une fiche ne s'alimente qu'APRES le build de l'arc qui la produit. Les faits R8 dictes (cf. D18-D19) restent PARQUES ici jusqu'au build R8.
 
 ## Decisions dictees en attente de leur arc (parquees)
-- D18 - Kobeni post-R6 : retour en R8 ; hybride pressenti : TANK (hote), le char restant d'ALLEGEANCE a Asa - Makoto proposera le Tank, le Katana etant pris (Aki). Sa fiche future vivra dans celle de son hybride, au build R8.
+- D18 - Kobeni post-R6 : retour en R8 ; hybride pressenti : TANK (hote), le char restant d'ALLEGEANCE a Asa - Makoto proposera le Tank, le Katana etant pris (Aki). Trajectoire dictee : d'abord un role aupres d'Asa (la reincarnation de Guerre, a qui le Tank est jure), puis GARDIENNE de Mort reincarnee (principe des gardiens des Cavalieres). Corollaire : son poste final suppose le plan long abouti (Mort acculee a choisir sa reincarnation). Sa fiche future vivra dans celle de son hybride, au build R8.
 - D19 - Arc R8 (Mort) - dicte, parque : demarre en avril 1999 (rentree de Denji et Reze en 2E ANNEE de fac ; Denji 20 ans, Reze 21, entree tardive assumee - contrainte derivee : leurs anniversaires tombent entre janvier et avril ; couverture a poser pour Reze) ; revisite la Partie 2 canon a notre sauce - Eglise de Chainsaw Man, fac, MORT QUI S'INFILTRE parmi eux ; Mort aux commandes de l'Eglise depuis Washington (reveil : elle est NOURRIE - une Cavaliere abattue et une capitale eventree au reveil, puis deux Cavalieres en trois mois et une crise alimentaire frolee en nourriture de R7) ; le Feu est son pion (il a approche Neant des Washington sur sa consigne) ; la transformation de masse reste ARMEE - detonation en R8, pour quelqu'un d'autre ; le Feu, nomme par Neant mourant, est introuvable a la cloture de R7 (modalites de cavale et de traque : a fixer au build R8) ; reincarnation de Mort : horizon R8+ (achevement du quatuor).
+- D21 - Barem Bridge (hote de Lance-flammes, fidele au trone) : TAUPE DE MAKOTO dans l'Eglise de Chainsaw Man. Infiltration a la toute FIN de R7, une fois le Feu nomme par Neant mourant ; il devient l'instrument de la TRAQUE du Feu en R8. Compatible avec l'etat de cloture R7 (Feu introuvable, Mort insoupconnee) : la taupe entre apres la chute de la branche nihiliste. Deja dans la confidence de l'identite Makoto (hote du programme d'Effroi). Echo canon : Barem y est le numero deux de l'Eglise et detient le savoir sur les contrats du Feu - son ascension interne se pose au build R8. A integrer au peaufinage R7 (cloture d'arc).
+- D22 - Ange, GARDIEN de Kiga (principe des gardiens des Cavalieres). Ange est un loyaliste du ROYAUME plus que du Roi : son gardiennat releve donc de la definition commune (garde-fou conditionnel), sans regime a part. Texture : CO-DEPENDANCE avec Kiga - elle reclame des calins a tout age a ses parents, a ses soeurs ET a Ange ; aucun ne refuse, Ange moins que quiconque : elle est la seule sensibilite comme la sienne qu'il ne puisse pas drainer malgre lui (son drain ne touche que les humains). Ecrin conceptuel : la dependance est le champ de Famine, et la condition achetee "zero jugement sur ses addictions" la couvre. Datation de l'investiture : a poser (peaufinage R7 ou build R8). Liste des gardiens a date : Kishibe (l'empire, 1990), Aki (Asa, 1998), Ange (Kiga), Kobeni (Mort reincarnee, D18).
+- D23 - Pochita ne PARLE pas (mutique, conforme a Tronconneuse.md) mais il est TRES EXPRESSIF. A la manifestation de l'automne 1998, le dialogue avec le Roi passe par des QUESTIONS FERMEES : les coups d'avance de Makoto lui font poser les bonnes questions, Pochita n'a plus qu'a repondre oui ou non. Formulation a corriger partout ou il "parle a son ancien Roi" : Tronconneuse.md (Relations + Trajectoire), Denji.md (Relations + Trajectoire), Effroi.md (Trajectoire), Roadmap_7_La_Famine.md (etape 7).
 
 ## Peaufinage roadmap R7 - pile (etape 4)
 - Enigme des tracts de Neant : A CONSTRUIRE (contraintes : en francais, crackable A VUE par Nayuta, credible que des humains l'aient manquee des mois ; Nayuta decrypte au premier coup d'oeil sous l'oeil amuse de ses parents qui l'ont lue aussi vite).
@@ -23,6 +26,8 @@ Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus
 - Scenes d'extraction a integrer (Asa : rachat au Kosovo ; Kiga : enlevement a Mogadiscio - detail acte dans les fiches Asa.md et Kiga.md).
 - Casting a completer : ANGE (ravisseur-porteur de Kiga) ; Fievre et ravageurs en figurants.
 - Intention a corriger : "deux Cavalieres mortes en dix-huit mois" est faux dans tous les comptages -> formule actee : une Cavaliere abattue et une capitale eventree au reveil de Mort ; deux Cavalieres en trois mois comme nourriture de R7.
+- Barem Bridge (D21) : son infiltration dans l'Eglise en cloture d'arc, une fois le Feu nomme ; amorce de la traque R8.
+- Etape 7 (la revelation) : la manifestation de Pochita en dialogue par questions fermees (D23).
 
 ## Dettes de fiches (a servir au prochain passage sur chaque fiche)
 - Nayuta.md : (a) TAILLE - patch acte : 168 cm a l'age adulte, stature heritee de Makima, les deux petites face a Makoto (remplace "une petite taille qu'elle ne tient de personne") ; (b) Trajectoire R7 ABSENTE (adoption d'Asa et de Kiga, role de grande soeur, decryptage des tracts) ; (c) Relations : "ses trois soeurs - a naitre / a inventer" perime (Asa.md et Kiga.md existent).
@@ -34,6 +39,12 @@ Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus
 - Feu.md et Eglise_Chainsaw_Man.md : leurs Trajectoires portent "detonation attendue en R8" (anticipation contraire a la SPEC) - a nettoyer, ou tolerance a acter par le worldbuilder.
 - Noms d'arcs : Effroi.md et Controle.md nomment R1 "Le Contrat" et R2 "Le Gardien" ; le garde-cap et les fichiers disent "Le Controle" / "Le Flingue". Cosmetique, a aligner.
 - Balises datees d'une version ("actee au build RN", "(W<n>)", "(D<n>)") encore presentes dans plusieurs fiches : a purger au prochain passage sur chacune (regle actee : plus aucune balise datee d'une version dans les fichiers livres).
+- Guerre.md : Reze "nee 1981" (Implications d'arc R2 + Trajectoire 1988) -> 1978 (D20 ; Bombe.md et BIBLE deja a jour).
+- Tronconneuse.md : Relations - Beam et Princi "aujourd'hui captifs de Controle" -> perime depuis R4 (liberes, Division 4, servent de gre).
+- Effroi.md : Relations - Famine encore "insoumise" (-> morte en mars 1998 de sa main, a sa demande ; reincarnation : Kiga) ; Reseau "seul depositaire du secret Makoto" (-> depositaire ORIGINEL, le cercle s'est elargi).
+- Propagation D18 + D22 - liste des gardiens des Cavalieres : Effroi.md (Psychologie), BIBLE SB1 (Doctrines du trone) et SB2 (Lexique) -> Kishibe (l'empire), Aki (Asa), Ange (Kiga), Kobeni (Mort reincarnee) ; Ange.md et Kiga.md : gardiennat a ajouter aux Relations.
+- Propagation D22 - loyaute d'Ange : Ange.md (Psychologie) et Factions/Securite_Publique.md (tableau de la Division 3) disent "loyaliste inconditionnel du Roi" -> loyaliste du Royaume plus que du Roi.
+- Propagation D23 : cf. D23 (quatre fichiers).
 - Doublon Personnages/Genealogie.md (non indexe, perime) : suppression par le worldbuilder.
 
 ## Dette SPEC
@@ -47,7 +58,7 @@ Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus
 - Ironie R7 (la grosse) : MORT AUX COMMANDES - le Feu est son pion, Neant le pion du pion ; le JOUEUR le sait, PERSONNE en scene ne le sait, Makoto compris ; Neant est mort en accusant le Feu seul ; la transformation de masse reste armee pour R8.
 
 ## Differes roadmap (a traiter quand l'arc concerne les convoque)
-- Identites / hotes des hybrides de la fiche Armes : reste a faire Miri Sugo (Espadon), Barem Bridge (Lance-flammes) -> a poser quand un arc les convoque.
+- Identites / hotes des hybrides de la fiche Armes : reste a faire Miri Sugo (Espadon) -> a poser quand un arc le convoque ; Barem Bridge (Lance-flammes) : role acte (D21), identite fine a poser au peaufinage R7 / build R8.
 - Roadmap R5 (texte) : reformulation "rumeur" -> "images" si la roadmap est retouchee un jour ; la BIBLE est deja a jour, non prioritaire.
 
 ## Questions ouvertes (non bloquantes)
@@ -70,7 +81,7 @@ Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus
 ## Thread Passe 2 - etat
 - POV joue : Makoto / Effroi. Point de depart : 2 decembre 1984.
 - Roadmaps dans Roadmap/Makoto/ : R0 La Peur (W2), R1 Le Controle (W5), R2 Le Flingue (W3), R3 L'Autorite (W1), R4 La Tronconneuse (W1), R5 La Bombe (W1), R6 La Guerre (W1), R7 La Famine (W1, grandes lignes - peaufinage en attente) - ECRITES ; Chronologie W5 = garde-cap R0 -> R8+.
-- BIBLE B11 ; 44 pages indexees (39 Personnages, 1 Lieux, 2 Systemes, 2 Factions) + racine (Sommaire W24, Resume W1, _Implications W37) ; roadmaps non indexees.
+- BIBLE B11 ; 44 pages indexees (39 Personnages, 1 Lieux, 2 Systemes, 2 Factions) + racine (Sommaire W25, Resume W1, _Implications W38) ; roadmaps non indexees.
 - SEQUENCE restante : (1) peaufinage roadmap R7 (etape 4) ; (2) cloture Passe 2 (relecture croisee inter-arcs) ; (3) Passe 3 (decoupage en arcs + fiches d'arc) ; (4) CODEX V1 ; (5) SETUP.
 - LECON (a garder) : confronter systematiquement la BIBLE aux FICHES avant de "resoudre" un chiffrage - une erreur nee en roadmap avait ete recopiee par un bible build au lieu d'etre detectee.
 - LECON (a garder) : verifier le Sommaire et la Genealogie AVANT de poser une filiation.
