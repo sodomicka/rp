@@ -1,10 +1,10 @@
 # Resume - KNY
 
-- version : W4
+- version : W5
 
 ## Usage
 - Condense du recit tel qu'etabli (canon + divergences actees), pour le worldbuilder. Outil hors RP et hors build : jamais fetche, non indexe au Sommaire. Mis a jour a chaque BIBLE BUILD.
-- Etat du recit : R1 a R6 roadmappees ; R7 "La Forteresse" et R8 "La Paix" = grandes lignes actees, a roadmapper. Le previsionnel (beats voulus) vit dans Roadmap/Tsukiyo/00_Garde_Cap.md.
+- Etat du recit : R1 a R7 roadmappees ; R8 "La Paix" = grandes lignes actees, a roadmapper. Le previsionnel (beats voulus) vit dans Roadmap/Tsukiyo/00_Garde_Cap.md.
 - Premisse : Kimetsu no Yaiba en univers alternatif, point de vue demons, victoire demoniaque. Perspective : Tsumiki, devenue Tsukiyo.
 
 ## Le monde
@@ -34,10 +34,13 @@ Tsukiyo faconne une lignee de son sang. Au XVIe siecle, elle tourne Akaza, flair
 Au XVIIIe siecle, Doma rabat deux mourants du quartier des plaisirs, Daki et Gyutaro. Tsukiyo les tourne et les offre a Muzan pour solder le prix de Doma (Lune Six). Au duel, elle met sa propre place en jeu : Doma leve le sandbag, ecrase Akaza et prend la Deux. Tsukiyo se retire dans l'ombre, simple epouse en facade, le "1" de Kokushibo grave dans l'oeil : une demie lune. Puis vient Nakime, joueuse de biwa qui tue des hommes predateurs, et dont le nom humain fait echo au sien. Tsukiyo l'adopte comme fille ; sa Forteresse Infinie devient l'infrastructure de l'empire, hors de la main de Muzan. Au XIXe siecle, elle livre Gyokko a Muzan, qui le tourne en personne (Lune Cinq). La grille se fige. Longue accalmie : la famille s'installe, Kokushibo atteint son apogee.
 
 ## VI. La Piste (R6)
-Muzan tourne Nezuko et massacre les Kamado, sans jamais croiser le garcon ; le couple s'en desinteresse. Les Lunes Inferieures tombent ; au Train, Akaza tue Rengoku. Aux quartiers de plaisir, Daki et Gyutaro tombent : Tsukiyo vient en personne, tue les epouses de Tengen sous ses yeux, puis Tengen. Elle reconnait aux oreilles de Tanjiro les boucles de Yoriichi et epargne la fratrie. Son rapport intrigue Muzan, qui purge les Lunes Inferieures. Au village des forgerons, Gyokko et Hantengu tombent ; un oeil de Nakime voit Nezuko surmonter le soleil. Kokushibo prend Kaigaku pour premier disciple, decevant. La famille vit ses derniers jours de calme.
+Muzan tourne Nezuko et massacre les Kamado, sans jamais croiser le garcon ; le couple s'en desinteresse. Les Lunes Inferieures tombent ; au Train, Akaza tue Rengoku. Aux quartiers de plaisir, Daki et Gyutaro tombent : Tsukiyo vient en personne, tue les epouses de Tengen sous ses yeux, puis Tengen. Elle reconnait aux oreilles de Tanjiro les boucles de Yoriichi et epargne la fratrie. Son rapport intrigue Muzan, qui purge les Lunes Inferieures. Tamayo, alliee secrete de la fratrie, reconnait Tsukiyo dans le recit des temoins et la nomme au Corps. Au village des forgerons, Gyokko et Hantengu tombent ; un oeil de Nakime voit Nezuko surmonter le soleil. Kokushibo prend Kaigaku pour premier disciple, decevant. La famille vit ses derniers jours de calme.
 
-## VII. La Forteresse et la paix (R7-R8, grandes lignes)
-Dans la Forteresse, Nakime aspire le Corps sur ordre de sa mere. Tsukiyo intervient de salle en salle : elle tue Shinobu avant que Doma ne l'absorbe, puis Yushiro et Tamayo, dont le poison n'atteindra jamais Muzan, puis Zenitsu, qui vient d'abattre Kaigaku. Akaza retrouve ses souvenirs et s'autodetruit. Doma tue Inosuke et Kanao. Nakime ecrase Gyomei pour proteger ses parents. Muzan absorbe Nezuko et tient enfin la resistance au soleil ; le couple acheve Tanjiro. Tsukiyo brise Doma et le cede a Muzan. Le roi transmet le don du soleil a la famille. Muzan batit son empire de l'ombre ; le couple et Nakime se retirent dans la paix, pour l'eternite.
+## VII. La Forteresse (R7)
+Muzan trouve le manoir de l'Oyakata, qui l'attend et se fait sauter avec les siens. Dans une attaque suicide, Tamayo lui injecte un poison tres puissant, a base de glycine. Au signal de Tsukiyo, dissimulee non loin, Nakime aspire le Corps dans la Forteresse et isole Muzan ; Tsukiyo somme le roi affaibli de lui ceder Tamayo, et il se retire digerer. La nuit se joue de salle en salle. Akaza, accule par Tanjiro et Giyu, retrouve ses souvenirs et s'autodetruit. Tsukiyo tue Shinobu avant que Doma ne l'absorbe et le juge pathetique ; Doma tue Inosuke et Kanao. Yushiro fond sur Nakime : Tsukiyo le massacre sous les yeux de Tamayo, puis la torture, ses meches dans les veines, jusqu'a ce qu'elle supplie de mourir et livre la planque de Nezuko, que Nakime capture ; Tsukiyo la tue. Zenitsu abat Kaigaku et fonce sur Nakime ; Tsukiyo le tue. Kokushibo, face a Muichiro, Genya, Sanemi et Gyomei, tue Genya puis Sanemi et passe en forme mutee. Le couple reuni tue Muichiro, ce descendant dont il ignore la branche. Gyomei domine les epoux epuises ; Nakime l'ecrase. Muzan, le poison digere, tue Giyu, Mitsuri et Obanai et absorbe Nezuko sous les yeux de son frere : il tient enfin la resistance au soleil. Le couple acheve Tanjiro.
+
+## VIII. La paix (R8, grandes lignes)
+Tsukiyo cede Doma, pathetique, a Muzan. Le roi transmet le don du soleil a la famille et sort savourer le jour ; il batit son empire de l'ombre. Le couple et Nakime se retirent dans la paix, pour l'eternite ; avec le temps, sa femme et sa fille soignent les stigmates de Kokushibo.
 
 ---
 
