@@ -1,6 +1,6 @@
 # Kokushibo
 
-- version : W11
+- version : W13
 - autre forme : cf. WIKI Personnages/Michikatsu.md (forme humaine, vie close a 24 ans)
 
 ## Identite
@@ -76,6 +76,8 @@ Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 | Taisho (R6) | Entraine Kaigaku ; jours de calme avec Tsukiyo et Nakime, la piste confirmee | se projette enfin dans l'avenir |
 | Taisho (R7) | Forteresse : affronte Muichiro, Genya, Sanemi et Gyomei ; reconnait en Muichiro un descendant ; tue Genya puis Sanemi ; decapite, repousse et passe en forme mutee | stigmates durables |
 | Taisho (R7) | Reuni a Tsukiyo, tue Muichiro avec elle ; domines par Gyomei, sauves par Nakime ; rejoint Muzan et acheve Tanjiro | epuise ; a tue sa propre descendance |
+| Taisho (R8) | Dans la salle close du vide, pose l'ultimatum avec Tsukiyo et recoit de Muzan le don du soleil ; a l'aube, sort au jour avec elle et Nakime, premier soleil depuis le XVe s. | resiste au soleil ; Souffle du Soleil eteint : plus rien ne peut le tuer [IMPLICITE] |
+| Apres Taisho (R8) [echelle INCERTAIN - Passe 3] | Retraite de la famille ; au fil du temps, Tsukiyo et Nakime soignent ses stigmates (cf. WIKI Systemes/Arts_Demoniaques.md) | la vie simple enfin vecue ; stigmates effaces peu a peu |
 
 ## Notes
 - certitude : canon (Kokushibo / Michikatsu), inflechi par les divergences RP.

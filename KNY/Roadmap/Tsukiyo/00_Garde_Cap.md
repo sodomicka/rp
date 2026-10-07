@@ -1,12 +1,12 @@
 # 00_Garde_Cap
 
-- version : W5
+- version : W7
 
 ## Cadre
 - role : ligne directrice de la saga, perspective Tsukiyo. Porte les beats voulus depuis la Passe 1 ; previsionnel, mis a jour pour coller aux roadmaps. Sert de base de decoupage des roadmaps.
 - statut : source de BUILD uniquement (dossier Roadmap/ : non indexe au Sommaire, jamais fetche en narration). Budget : derogation worldbuilder a 15 000 caracteres.
 - portee : trajectoire complete, ere Heian a la paix Taisho, perspective de la lignee Tsukiyo / Kokushibo.
-- resolution : R1-R7 roadmappees (en cas d'ecart, la roadmap fait foi) ; R8 = grandes lignes actees, a roadmapper.
+- resolution : R1-R8 roadmappees (en cas d'ecart, la roadmap fait foi).
 - datation : par ere ET par siecle. L'ordre d'arrivee des demons est fixe par le worldbuilder ; le canon, imprecis sur ce point, est cale sur cette timeline. Exception : Muzan, cale sur le canon (plus de mille ans a l'ere Taisho).
 - convention : canon et divergences fondus. Le marqueur [RP] signale un beat qui devie du manga ; l'absence de marqueur = conforme au canon.
 
@@ -56,7 +56,7 @@ Muzan (IXe-Xe) ; Kokushibo & Tsukiyo (XVe) ; Tamayo (XVe) ; Yushiro (XVIe) ; Aka
 - La liste des Lunes Superieures est desormais figee : du XIXe siecle jusqu'au conflit final de Taisho, les pourfendeurs n'en abattent aucune.
 - Longue accalmie : la cellule familiale (le couple et Nakime) s'installe dans une routine paisible. Apogee de Kokushibo : ses six yeux s'ouvrent, pleine maitrise du Souffle de la Lune.
 
-## Ere Taisho (XXe siecle) - R6-R7 roadmappees, R8 en grandes lignes actees
+## Ere Taisho (XXe siecle) et au-dela - R6-R8 roadmappees
 
 ### La Piste (R6)
 - [XXe siecle] Muzan convertit Nezuko et massacre les Kamado ; le couple s'en desinteresse, le roi a bien le droit de s'amuser. Muzan ne croise jamais Tanjiro et ignore la fratrie. [RP] Les Lunes Inferieures commencent a tomber face a une nouvelle generation de pourfendeurs (Rui a Natagumo).
@@ -67,17 +67,18 @@ Muzan (IXe-Xe) ; Kokushibo & Tsukiyo (XVe) ; Tamayo (XVe) ; Yushiro (XVIe) ; Aka
 - [XXe siecle] Le disciple : l'avenir enfin en vue, Kokushibo prend Kaigaku, qui implore le sang par peur, pour premier disciple ; il le tourne et le garde (sang libre). Kaigaku comble le siege vacant et devient la quatrieme des quatre Lunes restantes. Kokushibo n'en tire que de la deception : le couple s'est fait demon par ambition, jamais par lachete. [RP]
 - Le calme : Kokushibo entraine Kaigaku ; la cellule familiale vit ses derniers jours de calme et se projette enfin. Nakime demeure en retrait, sans titre. Angle mort de Tsukiyo : les Hashira generalisent la Marque a partir de celle de Tanjiro. [RP]
 
-### La Forteresse Infinie [RP]
+### La Forteresse (R7) [RP]
 - Muzan trouve le manoir de l'Oyakata, qui s'y sacrifie ; dans une attaque suicide, Tamayo lui injecte un poison tres puissant, a base de glycine. Au signal de Tsukiyo, Nakime aspire le Corps dans la Forteresse et isole Muzan, qui doit lui ceder Tamayo et se retire digerer.
-- Akaza, accule par Tanjiro et le pilier de l'Eau, retrouve ses souvenirs et s'autodetruit sous le regard de Tsukiyo. Elle tue Shinobu avant que Doma ne l'absorbe et le juge pathetique ; Doma tue Inosuke et Kanao.
+- Akaza, accule par Tanjiro et le pilier de l'Eau, retrouve ses souvenirs et s'autodetruit sous le regard de Tsukiyo. Elle tue Shinobu avant que Doma ne l'absorbe et le juge pathetique ; des lors, elle ne feint plus de l'apprecier. Doma tue Inosuke et Kanao.
 - Tsukiyo massacre Yushiro sous les yeux de Tamayo, la torture jusqu'a ce qu'elle supplie de mourir, obtient la planque de Nezuko - que Nakime capture - puis la tue. Zenitsu abat Kaigaku et fonce sur Nakime ; Tsukiyo le tue.
 - Kokushibo, face a Muichiro, Genya, Sanemi et Gyomei, tue Genya puis Sanemi et passe en forme mutee. Le couple reuni tue Muichiro, leur descendant ; Gyomei les domine, epuises, et Nakime l'ecrase.
-- Muzan, le poison digere, tue Giyu, Mitsuri et Obanai, terrasse Tanjiro et absorbe Nezuko : il tient la resistance au soleil. Le couple acheve le garcon.
+- Muzan, le poison digere, tue Giyu, Mitsuri et Obanai et terrasse Tanjiro. Nakime amene Nezuko par un passage : le couple acheve son frere sous ses yeux, pour la briser et la rendre docile. Avec Tanjiro s'eteint le Souffle du Soleil.
 
-### La victoire et la paix [RP]
-- Les derniers demons se reunissent. Tsukiyo brise Doma une derniere fois - il n'a toujours ete qu'une coquille vide dans laquelle elle s'est engouffree - et le cede a Muzan : dernier present, dernier jouet brise. Il ne sert plus a rien.
-- Muzan accepte le cadeau, transmet le don de resistance au soleil a la famille, puis sort savourer le jour.
-- Le couple et Nakime se trouvent un coin paisible ou vivre sans pretention pour l'eternite ; Nakime ouvre des passages vers des terrains de chasse lointains, pour ne pas attirer l'attention sur leur retraite. Muzan, lui, batit un empire de l'ombre et planifie de dominer l'humanite, jamais satisfait de ce qu'il possede, accompagne d'un Doma au regard vide qui le sert comme le meilleur des esclaves.
+### La Paix (R8) [RP]
+- La maison de Nakime doit etre vide et propre : la famille se repait des pourfendeurs du rang retenus. Nakime reduit la Forteresse a une salle close au milieu d'un vide infini et y enferme les derniers survivants : Muzan, le couple, Nakime, Doma, Nezuko.
+- Avant toute negociation, Tsukiyo cede Doma, coquille vide ou elle s'etait engouffree : un objet, un animal de compagnie, qui change de proprietaire sans le sang de Muzan. Puis le couple pose l'ultimatum : la paix demandee depuis des siecles, celle pour laquelle il a cree les Lunes et est reste aupres de Muzan sans laisse. Il laisse Muzan absorber Nezuko, puis exige l'immunite. Refuser, attaquer le couple ou tuer Nakime laisserait Muzan dans le vide pour toujours : Tsukiyo tuerait sa propre fille plutot que de lui rendre la sortie. Il immunise le couple, et donne a Doma le soleil par une laisse qui lui ote a jamais tout libre arbitre ; Tsukiyo immunise Nakime de son sang libre.
+- A l'aube, Muzan sort savourer le jour ; la famille le suit, premier soleil du couple depuis le XVe siecle.
+- Muzan batit son empire de l'ombre, au jour et sans la Forteresse ; la secte en devient un outil, et Doma, au regard vide, le sert en esclave. Il se cree des demons resistant au soleil ; son premier but : ecraser le Corps, en lambeaux. Le couple et Nakime vivent sans pretention dans un coin paisible ; la Forteresse se retire avec eux, Nakime n'ouvrant plus que des passages de chasse lointains, pour ne pas attirer l'attention. Au fil du temps, sa femme et sa fille soignent les stigmates de Kokushibo.
 
 ---
 

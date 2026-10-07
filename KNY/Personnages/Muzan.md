@@ -1,6 +1,6 @@
 # Muzan
 
-- version : W9
+- version : W11
 
 ## Identite
 - nom demon : Muzan Kibutsuji
@@ -77,7 +77,9 @@ Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 | Taisho (R6) | Perd Gyokko et Hantengu ; Nezuko surmonte le soleil | piste confirmee (preuve tenue d'abord par Tsukiyo) ; Nezuko cible |
 | Taisho (R6) | Grave la Six a Kaigaku | Six pourvue, hors de sa main |
 | Taisho (R7) | Trouve le manoir de l'Oyakata, qui l'y attend et s'y sacrifie ; Tamayo lui injecte un poison tres puissant, a base de glycine, et il la retient dans sa chair ; isole par Nakime au signal de Tsukiyo, il doit lui ceder Tamayo | empoisonne, affaibli le temps de le digerer ; plie devant Tsukiyo |
-| Taisho (R7) | Digere le poison ; tue Giyu, Mitsuri et Obanai ; terrasse Tanjiro ; absorbe Nezuko, capturee par Nakime | poison digere sans sequelle ; resistance au soleil acquise, pas encore eprouvee |
+| Taisho (R7) | Digere le poison ; tue Giyu, Mitsuri et Obanai ; terrasse Tanjiro, que le couple acheve sous les yeux de Nezuko | poison digere sans sequelle ; Nezuko hors de sa main, brisee, aux mains de Nakime |
+| Taisho (R8) | Enferme par Nakime avec la famille, Doma et Nezuko dans une salle close au milieu du vide ; ultimatum du couple. Recoit Doma, cede en objet avant les negociations ; absorbe Nezuko ; coince (refuser, frapper le couple ou tuer Nakime le laisserait dans le vide pour toujours), immunise le couple, puis donne le soleil a Doma par sa laisse | resistance au soleil acquise ; le couple uni le depasse toujours ; Doma son esclave, sans libre arbitre |
+| Taisho (R8) | A l'aube, sort savourer le jour ; batit son empire, desormais au jour, sans la Forteresse ; la secte de Doma en devient un outil | empereur de l'ombre ; choisit quelles creations resistent au soleil ; premier but : ecraser le Corps |
 
 ## Notes
 - certitude : canon (Muzan Kibutsuji), inflechi par les divergences RP.

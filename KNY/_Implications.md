@@ -1,39 +1,35 @@
 # _Implications - KNY
 
-- version : W6
+- version : W8
 
 ## Statut
 - Document de TRAVAIL : jamais fetche en narration, non indexe au Sommaire. Budget : derogation worldbuilder a 12 000 caracteres.
-- Passe 2 en cours : R1-R7 roadmappees (boucle R7 "La Forteresse" close : roadmap au grain de l'itineraire, detail de scene en Passe 3 ; casting et enrichissements livres, Sommaire W9) ; reste R8 "La Paix" (roadmap propre de conclusion) ; relecture croisee de cloture non faite.
-- Build B10 livre (cloture de la boucle R7) ; Resume W5.
+- Passe 2 : R1-R8 roadmappees, boucle R8 "La Paix" close (Sommaire W11). Reste la relecture croisee de cloture (thread d'audit dedie).
+- Build B11 livre (cloture de la boucle R8) ; Resume W6.
 
 ## Decisions en attente (worldbuilder)
 - Yoriichi, oncle paternel de Katsuhisa et Chiyo : rapport aux orphelins non etabli (pas d'exil : il reste au Corps jusqu'a sa mort).
 
 ## Dettes de build
-### Prochain BIBLE BUILD (B11)
-- Rien en attente (B10 a solde la boucle R7).
+### Prochain BIBLE BUILD (B12)
+- Rien en attente (B11 a solde la boucle R8).
 ### Passe 3 - mise en scene
 - R1 : nom d'emprunt de Muzan a Sakai ; heritier Ubuyashiki (six ans) sans nom.
 - R6 : etat de Tengen a l'arrivee de Tsukiyo ; lieu et circonstances de la prosternation de Kaigaku ; palier de Tengen absent de l'entrainement des Piliers.
-- R7 : comment Tsukiyo sait l'assaut ; vue sur Akaza (oeil de Nakime ou en personne) ; lecture du "1" ; Zenitsu surprend Tsukiyo (a-t-elle vu son combat contre Kaigaku ?) ; clairvoyance de Kagaya face a Tsukiyo dissimulee.
-### Boucle R8 (La Paix) - points reperes
-- Roadmap propre de conclusion, a l'aube.
-- Doma cede a Muzan : juge pathetique (si presse de devorer Shinobu qu'il n'a pas senti la glycine) ; seule Lune survivante hors la famille.
-- Don du soleil a la famille : Muzan ne craint pas Nakime, sa chair la reprendrait par reinjection (SB1). Piste : Tsukiyo lui transmet le don de son sang libre.
-- Muzan sort savourer le jour ; empire de l'ombre.
-- Stigmates de la forme mutee de Kokushibo, soignes au fil du temps par Tsukiyo et Nakime (outro).
-- Survivants du Corps : Kiriya, Kuina, Kanata (hors du manoir), Urokodaki, kakushi, pourfendeurs hors Forteresse.
-- Retraite de la famille, passages de chasse lointains.
-- Budget : Nakime pleine (7 842) - R8 la fera deborder.
+- R7 : presence d'Urokodaki a la capture de Nezuko ; comment Tsukiyo sait l'assaut ; vue sur Akaza (oeil de Nakime ou en personne) ; lecture du "1" ; Zenitsu surprend Tsukiyo (a-t-elle vu son combat contre Kaigaku ?) ; clairvoyance de Kagaya face a Tsukiyo dissimulee.
+- R8 : lieux du Jour et du foyer ; echelle des etapes 3 et 4 ; maniere dont Muzan eprouve le soleil a l'aube.
+### Relecture croisee de cloture (Passe 2) - a faire
+- Audit inter-arcs de toutes les pages : incoherences, fils Tchekhov restes armes dans les fiches, oublis. Thread dedie, en autonomie.
 ### Trous canon
 - Souffle de la Lune : formes 4, 11, 12, 13 et 15 jamais montrees au canon. A definir seulement si une scene l'exige.
 - Canon R7 non verifie (fetch fandom refuse) : details Ubuyashiki, panoplie de Muzan, forme mutee - balises [INCERTAIN].
 ### Passe 3
 - Fiches_Arc/Tsukiyo : 0 page.
 ### Budgets
-- Roadmap_R5 : 7 975 ; R6 : 7 932 ; R7 : 6 738. 00_Garde_Cap : 13 943 sous derogation a 15k.
-- Derogations : Muzan 12k (9 259) ; Kokushibo 12k (8 674) ; Resume 12k ; _Implications 12k. Tsukiyo sous 20k (15 160), Trajectoire sans plafond.
+- Roadmap_R5 : 7 975 ; R6 : 7 932 ; R7 : 6 973 ; R8 : 5 002. 00_Garde_Cap : 14 804 sous derogation a 15k.
+- Derogations : Muzan 12k (9 981) ; Kokushibo 12k (9 187) ; Nakime 12k (8 672, depuis la boucle R8) ; Resume 12k (10 500) ; _Implications 12k. Tsukiyo sous 20k (16 039), Trajectoire sans plafond.
+- Pleine : Doma (7 999 / 8 000) - tout ajout exige une derogation ou une page satellite.
+- BIBLE B11 : 40 206 (cible 35-40k, plafond 55k).
 - Plafond d'entrees de Trajectoire : aucun en nombre, seul le budget compte (fiches alignees a chaque relivraison).
 
 ## Vigilance narration - mineurs
@@ -56,6 +52,8 @@ Regle : aucune sexualisation de mineur montree ni racontee, ni registre de seduc
 - Plafond de Trajectoire : instructions "30 par defaut", fiches "15" ; decision worldbuilder : aucun plafond en nombre -> patcher instructions + SPEC.
 
 ## Soldes
+- Boucle R8 (thread dedie) : roadmap propre en 4 etapes (ultimatum, jour, retraite, cicatrices) ; spirale sur R7 : Tanjiro acheve sous les yeux de Nezuko pour la briser, absorption decalee au huis clos de l'ultimatum (salle close dans le vide ; mort de Nakime = vide scelle, contre le canon) ; festin des pourfendeurs du rang avant ; Doma cede en objet avant les negociations (sans le sang de Muzan), puis dote du soleil par une laisse sans libre arbitre ; Tsukiyo ne feint plus de l'apprecier depuis Shinobu ; absorption = trait, pas puissance ; Muzan choisit quelles creations resistent au soleil ; Nakime immunisee par le sang libre de sa mere ; Forteresse retiree avec la famille ; Corps en lambeaux, cible de Muzan ; stigmates chair et ame ; programme Kizuki clos ; secte outil de l'empire. Pages relivrees (versions finales) : R8 W2, R7 W2, Garde_Cap W7, Muzan W11, Tsukiyo W14, Nakime W8, Kokushibo W13, Doma W11, Nezuko W3, Tanjiro W3, Ubuyashiki W2, Forteresse W6, Secte W3, Demons W4, Arts W4, Hierarchie W4.
+- Build B11 (cloture de la boucle R8) : SB0 9 pages Roadmap, R8 roadmappee ; SB1 mort de Nakime, ultimatum et paix, don du soleil, impasse perpetuelle, reinjection de Doma ; SB2 don du soleil, ultimatum du vide, Souffle du Soleil eteint ; SB3 ligne R7 reecrite, 3 lignes R8, notes ; SB4 Kizuki clos, trio, Corps, Ubuyashiki, Doma ; SB5 sorts R8 ; SB6 Forteresse, Secte, lieux generiques R8 ; SB8 remede resolu en R8, fils Forteresse et Doma detones. Resume W6.
 - Build B10 (cloture de la boucle R7) : SB0 inventaire (26 Personnages, 8 pages Roadmap) ; SB1 demons tres forts ; SB2 lame ecarlate, demons tres forts ; SB3 chrono R7 (4 lignes) ; SB4 Kizuki reduits a Un et Deux, renegats eteints, Corps vaincu, Ubuyashiki ; SB5 sorts R7, entrees Kanao et Ubuyashiki dotees de fiche ; SB6 lieux generiques R7 ; SB7 poison de Tamayo ; SB8 fils R7 detones en une ligne, fil Doma ouvert pour R8. Resume W5.
 - Boucle R7 (thread dedie) : 7 etapes (piege, Akaza, Doma, Tamayo, garde de Nakime, Kokushibo, absorption), une nuit ; Tamayo empoisonne Muzan (attaque suicide, poison a base de glycine, digere sans sequelle), cedee a Tsukiyo, torturee, livre la planque de Nezuko (chez Urokodaki) ; Corps informe par Tamayo de l'identite de Tsukiyo ; Nakime cible prioritaire ; Muichiro tue par le couple (descendant reconnu) ; Genya et Sanemi par Kokushibo ; Mitsuri, Obanai, Giyu par Muzan ; Gyomei domine le couple, ecrase par Nakime ; forme mutee a stigmates ; demons tres forts ; Kaigaku = enfant du temple (sans usage) ; fiches Kanao, Ubuyashiki_Taisho ; 19 pages relivrees ; Garde_Cap R7 reecrit.
 - Build B9 (cloture de la boucle R6) : SB0 inventaire (24 Personnages, 6 Lieux, 7 roadmaps) ; SB1 jeunesse du couple, demies lunes, perception de Muzan a proximite, rang grave chez les vassaux ; SB2 demie lune, Hinokami Kagura, Hashira ; SB3 chrono R6 (7 lignes) + duree ; SB4 Kizuki eteints en R6, Kaigaku, yeux de Nakime ; SB5 8 entrees du casting R6, Kanao et Oyakata Taisho sans fiche ; SB6 lieux generiques R5-R6 ; SB7 boucles reconnues ; SB8 Kamado detone, remede detone en partie, 4 fils R6 (poison, demie lune, Marques, Kaigaku / Zenitsu) ; balise [CANON SUPPOSE] des pages WIKI normalisee en [INCERTAIN].

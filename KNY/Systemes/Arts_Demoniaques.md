@@ -1,6 +1,6 @@
 # Arts Demoniaques du Sang
 
-- version : W3
+- version : W4
 
 ## Principe [canon]
 - Kekkijutsu : pouvoir propre a un demon assez puissant, alimente par son sang ; il prolonge souvent sa nature, son histoire ou sa technique humaine.
@@ -24,7 +24,7 @@
 - Katana de chair : lame rouge veinee, couverte d'yeux, forgee de son propre corps. Elle s'allonge, se deforme et se ramifie ; dure comme un Nichirin.
 - Nuees de croissants chaotiques, de tailles et de vitesses variables, qui accompagnent chaque forme du Souffle de la Lune.
 - Regeneration superieure : demon tres fort, seuls le soleil et le Souffle du Soleil le blessent durablement (cf. Systemes/Demons.md).
-- Forme mutee, ultime recours [canon, inflechi] : decapite, il refuse de ceder ; sa tete repousse et des lames de chair lui jaillissent de tout le corps. Au canon, son reflet dans une lame l'horrifie et il se desagrege ; ici son complexe est tombe en R3 : il tient. La mutation laisse des stigmates durables. [DIVERGENCE RP]
+- Forme mutee, ultime recours [canon, inflechi] : decapite, il refuse de ceder ; sa tete repousse et des lames de chair lui jaillissent de tout le corps. Au canon, son reflet dans une lame l'horrifie et il se desagrege ; ici son complexe est tombe en R3 : il tient. La mutation laisse des stigmates durables, de chair et d'ame : sa regeneration traite la forme mutee comme sa forme normale, et elle tient depuis la nuit ou il a tue sa propre descendance. Seuls des soins patients la defont, au rythme ou la vie simple le repare (R8). [DIVERGENCE RP]
 
 ## Doma - cryokinesie [canon]
 - Genere glace et givre de sa chair et de son sang. Combat avec deux eventails de guerre.

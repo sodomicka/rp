@@ -1,6 +1,6 @@
 # Ubuyashiki de l'ere Taisho
 
-- version : W1
+- version : W2
 
 ## Identite
 - entite : la famille Ubuyashiki a l'ere Taisho, chefs du Corps des Pourfendeurs - Kagaya (l'Oyakata), son epouse Amane, leurs cinq enfants
@@ -58,10 +58,11 @@ Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 | Taisho (R6) | Tamayo reconnait Tsukiyo dans le recit des temoins des Quartiers : l'epouse de la Lune Superieure Un, ancienne Lune Deux, qui a abattu Yoriichi avec lui | le Corps sait qui a tue le pilier du Son ; Tsukiyo l'ignore [DIVERGENCE RP] |
 | Taisho (R6) | Apres le Village, ordonne l'entrainement des Piliers [canon] | Hashira marques (angle mort de Tsukiyo) |
 | Taisho (R7) | Se laisse trouver par Muzan, l'attend, lui parle, puis se fait sauter avec Amane, Hinaki et Nichika [canon] ; Tamayo injecte son poison a Muzan [canon]. Au signal de Tsukiyo, Nakime aspire le Corps dans la Forteresse | Kagaya, Amane, Hinaki, Nichika morts ; le poison affaiblit Muzan sans sauver le Corps [DIVERGENCE RP] |
+| Taisho (R8) | Kiriya, Kuina et Kanata survivent hors du manoir ; Kiriya succede a son pere [canon]. Le Corps survit en lambeaux, sans Hashira ni Souffle du Soleil ; ecraser le Corps sera le premier but de Muzan, qui peut se creer des demons resistant au soleil, Doma a son service | Corps inoffensif et traque ; Muzan vivant, la malediction de la lignee tient [canon] [DIVERGENCE RP] |
 
 ## Notes
 - mineurs (enfants Ubuyashiki) : violence possible, aucune romance ni sexualisation.
-- Kiriya, Kuina, Kanata : sort apres R7 a trancher en R8 (survivants du Corps).
+- Kiriya, Kuina, Kanata : survivants du Corps en R8 (cf. Trajectoire).
 
 ---
 

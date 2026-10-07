@@ -1,6 +1,6 @@
 # Nezuko Kamado
 
-- version : W2
+- version : W3
 
 ## Identite
 - nom : Nezuko Kamado
@@ -59,12 +59,13 @@ Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 | Taisho (R6) | Tamayo preleve son sang | echantillon au coeur de la recherche du remede (angle mort de Tsukiyo) |
 | Taisho (R6) | Quartiers de plaisir : combat Daki ; Tsukiyo l'epargne avec son frere | forme d'eveil ; reperee par Tsukiyo |
 | Taisho (R6) | Village des forgerons : surmonte le soleil a l'aube, vu par un oeil de Nakime | resistance au soleil ; parole partielle ; devient la cible de Muzan |
-| Taisho (R7) | Cachee chez Urokodaki, livree par Tamayo sous la torture ; capturee par Nakime a sa planque ; absorbee par Muzan sous les yeux de son frere | absorbee : Muzan tient la resistance au soleil |
+| Taisho (R7) | Cachee chez Urokodaki, livree par Tamayo sous la torture ; capturee par Nakime a sa planque ; amenee par un passage, voit le couple achever son frere | brisee, docile ; aux mains de Nakime |
+| Taisho (R8) | Enfermee dans la salle close de l'ultimatum ; le couple laisse Muzan l'absorber | absorbee : Muzan tient la resistance au soleil |
 
 ## Notes
 - mineure : violence possible, aucune romance ni sexualisation.
-- sort final : R7 (cf. Trajectoire).
-- Tchekhov SB8 "Le remede Nezuko" : plante en R2 (Tamayo tournee devant le couple), detone en partie au Village (R6).
+- sort final : R8 (cf. Trajectoire).
+- Tchekhov SB8 "Le remede Nezuko" : plante en R2 (Tamayo tournee devant le couple), detone en partie au Village (R6), pleinement a l'absorption (R8).
 
 ---
 

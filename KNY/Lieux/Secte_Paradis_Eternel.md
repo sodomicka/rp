@@ -1,6 +1,6 @@
 # Secte du Paradis eternel
 
-- version : W2
+- version : W3
 
 ## Nature
 Secte religieuse centree sur le culte de Doma, faux prophete depuis l'enfance. Nom canon : Eternal Paradise Faith. Sanctuaire a iconographie de lotus, ou Doma trone, ecoute les peines de ses fideles et les conseille - avant de les devorer. [canon, inflechi RP]
@@ -27,6 +27,7 @@ Sanctuaire actif, lotus a profusion, Doma sur un lit de lotus. Facade de consola
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | XVIe s. (R4) | A la mort des parents fondateurs et la demonisation de Doma par Tsukiyo, la secte passe sous la lignee | de culte familial a antenne de rabattage et garde-manger de la lignee |
+| Taisho (R8) | Doma cede a Muzan : la secte devient un outil de l'empire de Muzan, qui peut desormais exister le jour ; le prophete brise y sourit plus faux que jamais | sort de la lignee de Tsukiyo ; outil de l'empire de Muzan |
 
 ---
 FIN_WIKI_LIEUX_SECTE_PARADIS_ETERNEL

@@ -1,6 +1,6 @@
 # Tanjiro Kamado
 
-- version : W2
+- version : W3
 
 ## Identite
 - nom : Tanjiro Kamado
@@ -67,7 +67,7 @@ Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 | Taisho (R6) | Village des forgerons : Hantengu tombe ; Nezuko surmonte le soleil | sa soeur echappe au soleil |
 | Taisho (R6) | Entrainement des Piliers | sa Marque sert de modele a celle des Hashira |
 | Taisho (R7) | Forteresse : avec Giyu, accule Akaza, qui s'autodetruit | Lune Sup Trois tombee |
-| Taisho (R7) | Rejoint Muzan avec Giyu ; Muzan tue Giyu, Mitsuri et Obanai, le terrasse et absorbe Nezuko sous ses yeux ; le couple l'acheve | mort ; la danse du Soleil s'eteint avec lui [IMPLICITE] |
+| Taisho (R7) | Rejoint Muzan avec Giyu ; Muzan tue Giyu, Mitsuri et Obanai et le terrasse ; le couple l'acheve sous les yeux de Nezuko, amenee par Nakime pour la briser | mort ; la danse du Soleil s'eteint avec lui [IMPLICITE] |
 
 ## Notes
 - mineur : violence possible, aucune romance ni sexualisation.

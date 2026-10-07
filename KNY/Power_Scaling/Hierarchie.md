@@ -1,6 +1,6 @@
 # Hierarchie de puissance
 
-- version : W3
+- version : W4
 
 ## Regles de lecture
 - Le couple UNI est la seule force au-dessus de Muzan, et Muzan le craint. [DIVERGENCE RP]
@@ -58,7 +58,7 @@
 | Palier | Entite | Reperes |
 |---|---|---|
 | au-dessus de Muzan | le couple uni | epuise par la nuit, domine par Gyomei marque, sans pouvoir etre tue ; sauve par Nakime |
-| sommet individuel | Muzan | affaibli par le poison de Tamayo le temps de le digerer ; tue Giyu, Mitsuri et Obanai ; absorbe Nezuko |
+| sommet individuel | Muzan | affaibli par le poison de Tamayo le temps de le digerer ; tue Giyu, Mitsuri et Obanai |
 | proche de Muzan | Kokushibo | en difficulte face a Muichiro, Genya, Sanemi et Gyomei : forme mutee |
 | sous Kokushibo | Tsukiyo | tue Shinobu, Yushiro, Tamayo et Zenitsu |
 | Hashira marques | Gyomei au sommet | dominent le couple epuise sans pouvoir le tuer |
@@ -66,6 +66,18 @@
 | Lune Sup Trois | Akaza | s'autodetruit face a Tanjiro et Giyu |
 | Lune Sup Six | Kaigaku | abattu par Zenitsu |
 - Nakime (~Lune Sup Quatre en force brute) : la Forteresse lui suffit a ecraser un Hashira marque.
+
+## Ere Taisho et au-dela (R8, la paix)
+| Palier | Entite | Reperes |
+|---|---|---|
+| au-dessus de Muzan | le couple uni | inchange : l'absorption de Nezuko donne a Muzan le trait solaire, pas la puissance |
+| sommet individuel | Muzan | resiste au soleil ; peut se creer des demons resistant au soleil |
+| proche de Muzan | Kokushibo | stigmates de la forme mutee, soignes au fil du temps |
+| sous Kokushibo | Tsukiyo | inchangee |
+| Lune Sup Deux | Doma | esclave de Muzan ; resiste au soleil |
+| ~Lune Sup Quatre | Nakime | resiste au soleil ; seule de la famille encore mortelle sous un Nichirin [IMPLICITE] |
+| pourfendeurs | Corps en lambeaux | sans Hashira ni Souffle du Soleil : plus aucune lame ne blesse durablement un demon tres fort |
+- Au soleil, et le Souffle du Soleil eteint, plus rien ne tue le trio ni Doma, hors la laisse de Muzan pour ce dernier. [IMPLICITE]
 
 ---
 

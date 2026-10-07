@@ -1,6 +1,6 @@
 # Doma
 
-- version : W8
+- version : W11
 
 ## Identite
 - nom demon : Doma
@@ -68,7 +68,8 @@ Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 | XVIe s. (R4) | Sur consigne, debute Lune Superieure Six (sandbag) et grimpe vite, en appat tendu a Akaza ; sa secte devient l'antenne de rabattage de la lignee | Lune Sup Six (force reelle masquee) ; rabatteur officiel ; rivalite avec Akaza installee |
 | XVIIIe s. (R5) | Rabat Daki & Gyutaro (mourants, quartier des plaisirs) et les remet a Tsukiyo ; monte Lune Sup Six -> Cinq (libere la Six pour la fratrie) | Lune Sup Cinq ; sa montee graduelle commence a agacer Akaza |
 | XVIIIe s. (R5) | Au duel, galvanise par Tsukiyo (qui met son propre rang en jeu), leve le sandbag et demolit Akaza | Lune Sup Cinq -> Deux ; supplante Akaza ; reste vassal-prodige de Tsukiyo |
-| Taisho (R7) | Forteresse : se jette sur Shinobu, saturee de glycine, si presse de la devorer qu'il ne sent pas le poison ; Tsukiyo la tue avant l'absorption et le juge pathetique. Tue Inosuke et Kanao, se repait du cadavre de Kanao | intact ; deconsidere aux yeux de Tsukiyo ; seule Lune survivante hors la famille |
+| Taisho (R7) | Forteresse : se jette sur Shinobu, saturee de glycine, si presse de la devorer qu'il ne sent pas le poison ; Tsukiyo la tue avant l'absorption et le juge pathetique. Tue Inosuke et Kanao, se repait du cadavre de Kanao | intact ; deconsidere : Tsukiyo ne feint plus de l'apprecier ; seule Lune survivante hors la famille |
+| Taisho (R8) | Avant l'ultimatum, Tsukiyo le brise une derniere fois (coquille vide ou elle s'etait engouffree) et le cede a Muzan en objet ; Nezuko absorbee, Muzan lui donne le soleil par une laisse, sans plus aucun libre arbitre | esclave de Muzan au regard vide, au sourire plus faux que jamais ; resiste au soleil ; mortel par sa seule laisse [IMPLICITE] ; sa secte passe a l'empire |
 
 ## Notes
 - certitude : canon (Doma), inflechie par les divergences RP (createur = Tsukiyo et non Muzan, vassalite, fascination-loyaute envers elle, rabatteur de la lignee).

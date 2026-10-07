@@ -1,6 +1,6 @@
 # Demons
 
-- version : W3
+- version : W4
 
 ## Biologie [canon]
 - Origine : tout demon descend du sang de Muzan, premier demon (ere Heian, IXe-Xe s.).
@@ -31,12 +31,20 @@
 - Voie du reveil de l'humanite : Tamayo, dont l'humain resurgit devant un enfant eventre (XVIe s.). Pas une redemption : le retour de l'humain sous le demon. Au canon, elle s'affranchit apres le duel Yoriichi / Muzan.
 - Affranchis : le couple et Tamayo peuvent prononcer "Kibutsuji" sans mourir. Le verrou tient pour tout autre demon.
 - Regle du sang libre : un affranchi transmet la fidelite a lui-meme, non a Muzan (Tsukiyo -> Doma, Nakime ; Kokushibo -> Kaigaku, a Taisho ; Tamayo -> Yushiro).
-- Reinjection : Muzan reprend un demon de sang libre en lui injectant sa chair ou son sang, seulement s'il ne le craint pas. Fait sur Akaza, Hantengu, Daki et Gyutaro ; possible en theorie sur Tamayo ; impossible sur le couple.
+- Reinjection : Muzan reprend un demon de sang libre en lui injectant sa chair ou son sang, seulement s'il ne le craint pas. Fait sur Akaza, Hantengu, Daki et Gyutaro, puis Doma (R8) ; possible en theorie sur Tamayo ; impossible sur le couple.
 
 ## L'equilibre du trio [DIVERGENCE RP]
 - Muzan craint le couple uni, la seule force qui le depasse.
 - Impasse mutuelle : ni Muzan ni le couple ne peut tuer l'autre, sinon par le soleil. Il ne peut plus les commander ; eux ne peuvent le detruire.
 - Collaboration forcee par l'objectif commun : vaincre le soleil. Tsukiyo rappelle Muzan a l'ordre en prononcant son nom.
+- La paix (R8) : le don du soleil se negocie dans le vide de la Forteresse. Refuser, frapper le couple ou tuer Nakime y laisserait Muzan pour toujours ; sa crainte tient, et sa reinjection ne peut reprendre le couple.
+- Au-dela : le trio au soleil et le Souffle du Soleil eteint, plus rien ne tue le trio ; l'impasse devient perpetuelle. [IMPLICITE]
+
+## Le don du soleil [DIVERGENCE RP]
+- Absorption : Muzan prend le trait solaire de Nezuko (R8), pas un surcroit de puissance ; le couple uni le depasse toujours.
+- Transmission : le trait voyage dans le sang. Muzan choisit si ses creations le portent, et s'en cree desormais qui resistent au soleil.
+- Sang libre : un affranchi porteur le transmet de son propre sang, fidelite inchangee (Tsukiyo -> Nakime).
+- Reinjection : un sang porteur donne le trait au demon repris (Doma, R8).
 
 ## Douze Kizuki
 - Structure [canon] : douze demons d'elite au service de Muzan - six Lunes Superieures, six Lunes Inferieures. Le rang est inscrit dans les yeux, grave par Muzan - y compris chez les vassaux de sang libre (Doma, Kaigaku). [canon ; DIVERGENCE RP pour les vassaux]
@@ -47,7 +55,8 @@
 - Aux yeux du trio, les Kizuki sont du betail ; seul le couple compte comme joueur.
 - Gel des rangs : grille des Lunes Superieures figee du XIXe s. a l'ere Taisho. [DIVERGENCE RP]
 - Ere Taisho (R6) : les Lunes Inferieures s'eteignent (combats, puis purge par Muzan apres la chute de Daki et Gyutaro) ; le gel se rompt (Six, Quatre et Cinq tombent) ; Kaigaku, vassal de Kokushibo, pourvoit la Six. [DIVERGENCE RP]
-- Ere Taisho (R7), la Forteresse : Akaza et Kaigaku tombent ; restent Kokushibo et Doma. Le programme aboutit par une autre voie : Muzan absorbe Nezuko et tient la resistance au soleil. [DIVERGENCE RP]
+- Ere Taisho (R7), la Forteresse : Akaza et Kaigaku tombent ; restent Kokushibo et Doma. [DIVERGENCE RP]
+- Ere Taisho (R8), la paix : le programme aboutit par une autre voie, Muzan absorbant Nezuko. Programme clos : son seul rouage survivant, Doma, passe a Muzan ; son horizon, Kokushibo, se retire. [DIVERGENCE RP]
 
 ---
 

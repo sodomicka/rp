@@ -1,6 +1,6 @@
 # Tsukiyo
 
-- version : W12
+- version : W14
 - autre forme : cf. WIKI Personnages/Tsumiki.md (forme humaine, vie close a 21 ans)
 
 ## Identite
@@ -109,11 +109,14 @@ Plafond : leve - la Trajectoire reste dans la fiche principale tant que le budge
 | Taisho (R6) | Quartiers de plaisir : vient en personne se charger du tueur des Six ; tue les trois epouses de Tengen sous ses yeux, puis Tengen ; reconnait les boucles de Yoriichi aux oreilles de Tanjiro et epargne la fratrie ; rapport intrigue a Muzan a la Forteresse | le Corps a vu la demie lune ; piste posee devant Muzan, qui purge les Lunes Inferieures |
 | Taisho (R6) | Au Village, un oeil de Nakime voit Nezuko surmonter le soleil ; Kokushibo prend Kaigaku pour disciple ; jours de calme en famille | tient la preuve avant Muzan ; nouveau jouet ; la famille se projette enfin dans l'avenir |
 | Taisho (R7) | Accompagne Muzan au manoir de l'Oyakata, dissimulee ; apres le sacrifice de l'Oyakata et l'attaque suicide de Tamayo, donne le signal : Nakime aspire le Corps et isole Muzan ; somme le roi empoisonne de lui ceder Tamayo | levier de la Forteresse joue ; Tamayo prisonniere ; se poste pres de sa fille |
-| Taisho (R7) | Regarde Akaza s'autodetruire ; tue Shinobu avant que Doma ne l'absorbe et le juge pathetique (il n'a pas senti la glycine) | satisfaite de ne pas avoir garde Akaza ; Doma prive du poison, deconsidere |
+| Taisho (R7) | Regarde Akaza s'autodetruire ; tue Shinobu avant que Doma ne l'absorbe et le juge pathetique (il n'a pas senti la glycine) | satisfaite de ne pas avoir garde Akaza ; Doma prive du poison, deconsidere : elle ne feint plus de l'apprecier |
 | Taisho (R7) | Massacre Yushiro tres lentement sous les yeux de Tamayo ; torture Tamayo, ses meches dans les veines, jusqu'a ce qu'elle supplie de mourir ; Tamayo livre la planque de Nezuko, que Nakime capture ; tue Tamayo | promesse tenue ; decouvre l'alliance de Tamayo avec la fratrie ; Nezuko capturee |
 | Taisho (R7) | Tue Zenitsu, surprise par sa vitesse, quand il fonce sur Nakime | garde de Nakime tenue |
 | Taisho (R7) | Rejoint Kokushibo en forme mutee ; flaire le sang de Muichiro et le tue avec lui ; domines par Gyomei, sauves par Nakime | epuisee ; a tue sa propre descendance |
-| Taisho (R7) | Rejoint Muzan, qui a absorbe Nezuko ; acheve Tanjiro avec Kokushibo | la piste paie : Muzan tient la resistance au soleil |
+| Taisho (R7) | Rejoint Muzan, qui a terrasse Tanjiro ; l'acheve avec Kokushibo sous les yeux de Nezuko, amenee par Nakime pour la briser | Nezuko docile, aux mains de sa fille : la famille tient le remede |
+| Taisho (R8) | Avant l'aube, la famille se repait des pourfendeurs du rang retenus ; dans la salle close que Nakime cree au milieu du vide, cede Doma, objet juge inutile, avant toute negociation ; pose l'ultimatum avec Kokushibo, laisse Muzan absorber Nezuko, exige l'immunite - prete a tuer sa fille pour sceller le vide si Muzan refuse ou frappe | immunisee par Muzan ; immunise Nakime de son sang libre ; plus de Lune hors la famille |
+| Taisho (R8) | A l'aube, sort au jour avec Kokushibo et Nakime | premier soleil depuis le XVe s. ; plus rien ne la tue [IMPLICITE] |
+| Apres Taisho (R8) [echelle INCERTAIN - Passe 3] | Retraite de la famille ; passages de chasse lointains ; soigne avec Nakime les stigmates de Kokushibo | la vie simple enfin vecue, pour l'eternite |
 
 ## Notes
 - certitude globale : OC [DIVERGENCE RP]. Aucun filet canon hors de cette fiche.

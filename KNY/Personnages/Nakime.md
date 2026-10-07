@@ -1,6 +1,6 @@
 # Nakime
 
-- version : W7
+- version : W8
 
 ## Identite
 - nom demon : Nakime
@@ -59,8 +59,11 @@ Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 | XVIIIe s. (R5) | Reperee humaine par le couple (quartier des plaisirs d'une petite ville ; l'odeur de ses proies-predateurs les attire) ; coup de coeur de Tsukiyo, qui la tourne et l'adopte | humaine (Tsumiki, joueuse de biwa) -> demone ; fille adoptive, satellite de Kokushibo (pas de rang) ; Muzan grave le "1" de Kokushibo dans son oeil (demie lune) ; Forteresse integree comme infra de l'empire et levier latent du trio |
 | Taisho (R6) | Ses yeux sur les Lunes Superieures annoncent a sa mere la chute de Daki et Gyutaro ; la Forteresse accueille la reunion du rapport et la purge des Lunes Inferieures | messagere de la piste |
 | Taisho (R6) | Au Village, l'oeil planque sur Hantengu voit Nezuko surmonter le soleil ; jours de calme en famille | livre a sa mere la preuve avant Muzan ; toujours sans titre |
-| Taisho (R7) | Au signal de sa mere, aspire le Corps dans la Forteresse et isole Muzan ; cible prioritaire du Corps (son "1" lu), gardee par Tsukiyo contre Yushiro et Zenitsu ; capture Nezuko a sa planque | levier de la Forteresse joue |
+| Taisho (R7) | Au signal de sa mere, aspire le Corps dans la Forteresse et isole Muzan ; cible prioritaire du Corps (son "1" lu), gardee par Tsukiyo contre Yushiro et Zenitsu ; capture Nezuko a sa planque, puis l'amene voir ses parents achever son frere | levier de la Forteresse joue ; Nezuko brisee, entre ses mains |
 | Taisho (R7) | Ecrase Gyomei entre un sol et un plafond quand il domine ses parents epuises | sauve le couple ; intacte |
+| Taisho (R8) | Vide la Forteresse (festin des pourfendeurs du rang retenus), puis la reduit a une salle close au milieu d'un vide infini, ou elle s'enferme avec Muzan, ses parents, Doma et Nezuko : gage vivant de l'ultimatum, sa mort scellerait le vide a jamais | immunisee par le sang libre de sa mere |
+| Taisho (R8) | Rouvre un passage ; a l'aube, sort au jour avec ses parents | premier soleil ; seule de la famille encore mortelle sous un Nichirin [IMPLICITE] |
+| Apres Taisho (R8) [echelle INCERTAIN - Passe 3] | La Forteresse ne sert plus l'empire et se retire avec la famille ; n'ouvre plus que des passages vers des terrains de chasse lointains ; soigne avec sa mere les stigmates de son pere | demeure et porte de chasse de la famille |
 
 ## Notes
 - certitude : canon (entite, biwa, Forteresse), inflechie par les divergences RP (nom humain Tsumiki, filiation et lignee Tsukiyo, statut hors-rang / satellite de Kokushibo, allegeance au couple).
