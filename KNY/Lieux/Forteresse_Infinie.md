@@ -1,6 +1,6 @@
 # Forteresse Dimensionnelle Infinie
 
-- version : W3
+- version : W4
 
 ## Nature
 Espace-poche extradimensionnel, hors de l'espace ordinaire. Reseau de salles, escaliers et couloirs recomposables a volonte : la geometrie interne se plie, se retourne et se reconfigure sur commande. Batie et commandee par l'Art demoniaque du sang de Nakime, via son biwa. Espace clos et sans ciel, donc refuge diurne absolu contre le soleil. (Lieu canon ; son integration comme infrastructure de l'empire est [DIVERGENCE RP].)
@@ -13,7 +13,7 @@ Revelee lors de l'adoption de Nakime (R5, XVIIIe s.) : une fois la demone tourne
 - Parade a la contrainte spatiale : Nakime ouvre des passages vers des terrains de chasse et des points de rendez-vous lointains ; l'empire s'affranchit des distances.
 - Refuge modulable anti-soleil : abri diurne total, salles reconfigurables a la demande.
 - Levier latent du trio : la Forteresse est la force reelle de Nakime et un atout du trio - elle N'APPARTIENT PAS a Muzan et reste librement accessible a Tsukiyo (via sa fille). Un pouvoir sur lequel le roi n'a pas la main.
-Destinee connue (grandes lignes : Roadmap/Tsukiyo/00_Garde_Cap.md, build uniquement ; detail en R7) : QG de Muzan et theatre du conflit final de l'ere Taisho.
+QG de Muzan et theatre du conflit final de l'ere Taisho (R7, cf. Trajectoire).
 
 ## Occupants (etat R5)
 - Nakime - maitresse et architecte du lieu ; le commande par son biwa. Satellite de Kokushibo, fille adoptive de Tsukiyo.
@@ -29,6 +29,7 @@ Reseau de salles modulables a volonte, recompose en temps reel par Nakime. Comma
 |---|---|---|
 | Ere Edo (XVIIIe s., R5) | Nakime tournee par Tsukiyo ; sa Forteresse est revelee et integree comme infrastructure de l'empire de l'ombre | de pouvoir personnel de Nakime a colonne vertebrale spatiale de l'empire demoniaque et levier latent du trio |
 | Ere Taisho (R6) | Accueille la reunion ou Tsukiyo fait son rapport sur la fratrie Kamado et ou Muzan purge les Lunes Inferieures | inchangee ; cadre du pouvoir de l'empire |
+| Ere Taisho (R7) | Au signal de Tsukiyo, Nakime y aspire le Corps depuis le manoir de l'Oyakata et y isole Muzan empoisonne ; theatre de toute la nuit : Akaza, Doma, Tamayo, Zenitsu, Kokushibo, l'absorption de Nezuko | le Corps y meurt ; Nakime, intacte, garde la main |
 
 ---
 FIN_WIKI_LIEUX_FORTERESSE_INFINIE
