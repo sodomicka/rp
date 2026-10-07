@@ -1,10 +1,18 @@
 # Arts Demoniaques du Sang
 
-- version : W2
+- version : W3
 
 ## Principe [canon]
 - Kekkijutsu : pouvoir propre a un demon assez puissant, alimente par son sang ; il prolonge souvent sa nature, son histoire ou sa technique humaine.
-- Perimetre : les arts qui servent jusqu'a R6. Les techniques de combat de Muzan et la forme mutee de Kokushibo seront documentees a la boucle R7 : leur detail ne sert qu'a la Forteresse.
+- Perimetre : les arts qui servent jusqu'a R7, techniques de combat de Muzan et forme mutee de Kokushibo comprises. Details canon non verifies (fetch echoue) : [INCERTAIN].
+
+## Muzan - biokinesie de combat [canon]
+- Fouets dorsaux et tentacules des cuisses (neuf et huit [INCERTAIN]) : chair tranchante, plus rapide que l'oeil, d'une allonge de plusieurs dizaines de metres.
+- Sang-poison : chaque plaie qu'il ouvre recoit de son sang, qui detruit les cellules humaines de l'interieur.
+- Bouches sur le corps : aspiration violente qui attire ou dechiquette ce qui l'approche [INCERTAIN].
+- Absorption : assimile un corps, humain ou demon, et ses proprietes ; c'est la voie prevue du programme anti-soleil (cf. Systemes/Demons.md).
+- Organes vitaux mobiles : sept coeurs et cinq cerveaux qu'il deplace dans sa chair ; division en fragments pour fuir.
+- Regeneration quasi instantanee.
 
 ## Tsukiyo - art capillaire [DIVERGENCE RP]
 - Cheveux argentes de plusieurs metres, extensibles, prehensiles, aceres.
@@ -15,8 +23,8 @@
 ## Kokushibo - croissants de lune [canon]
 - Katana de chair : lame rouge veinee, couverte d'yeux, forgee de son propre corps. Elle s'allonge, se deforme et se ramifie ; dure comme un Nichirin.
 - Nuees de croissants chaotiques, de tailles et de vitesses variables, qui accompagnent chaque forme du Souffle de la Lune.
-- Regeneration superieure : survit a la decapitation tant que sa volonte tient.
-- Forme mutee, ultime recours : ere Taisho, boucle R7.
+- Regeneration superieure : demon tres fort, seuls le soleil et le Souffle du Soleil le blessent durablement (cf. Systemes/Demons.md).
+- Forme mutee, ultime recours [canon, inflechi] : decapite, il refuse de ceder ; sa tete repousse et des lames de chair lui jaillissent de tout le corps. Au canon, son reflet dans une lame l'horrifie et il se desagrege ; ici son complexe est tombe en R3 : il tient. La mutation laisse des stigmates durables. [DIVERGENCE RP]
 
 ## Doma - cryokinesie [canon]
 - Genere glace et givre de sa chair et de son sang. Combat avec deux eventails de guerre.

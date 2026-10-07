@@ -1,6 +1,6 @@
 # Demons
 
-- version : W2
+- version : W3
 
 ## Biologie [canon]
 - Origine : tout demon descend du sang de Muzan, premier demon (ere Heian, IXe-Xe s.).
@@ -13,9 +13,10 @@
 
 ## Faiblesses [canon]
 - Soleil : seule mort certaine, pour tous, Muzan compris.
-- Nichirin : la decapitation tue durablement un demon ordinaire. Echappent a cette regle : Muzan (aucun point vital unique) et Kokushibo (survit tant que sa volonte tient).
+- Nichirin : la decapitation tue durablement un demon ordinaire.
 - Glycine : toxique ; le Corps s'en sert pour proteger ses maisons et empoisonner les demons.
 - Poisons : ceux de Tamayo, medecin demone, visent jusqu'a Muzan.
+- Demons tres forts (Muzan, Kokushibo, Tsukiyo, Doma, Akaza) : seuls le soleil et le Souffle du Soleil les blessent durablement ; ni Nichirin ordinaire ni glycine ne les tuent. Deux nuances : la lame ecarlate les brule et ralentit leur regeneration, sans pouvoir les tuer ; un poison concu contre eux les affaiblit - au canon, Doma, sature du poison de Shinobu, s'affaiblit assez pour etre decapite ; en R7, le poison de Tamayo, a base de glycine, affaiblit Muzan le temps de le digerer. [DIVERGENCE RP]
 
 ## Transmission du sang
 - Creation par delegation : une haute Lune saturee du sang de Muzan peut tourner un humain ; le sang transmis reste celui de Muzan, en cascade. [canon]
@@ -46,6 +47,7 @@
 - Aux yeux du trio, les Kizuki sont du betail ; seul le couple compte comme joueur.
 - Gel des rangs : grille des Lunes Superieures figee du XIXe s. a l'ere Taisho. [DIVERGENCE RP]
 - Ere Taisho (R6) : les Lunes Inferieures s'eteignent (combats, puis purge par Muzan apres la chute de Daki et Gyutaro) ; le gel se rompt (Six, Quatre et Cinq tombent) ; Kaigaku, vassal de Kokushibo, pourvoit la Six. [DIVERGENCE RP]
+- Ere Taisho (R7), la Forteresse : Akaza et Kaigaku tombent ; restent Kokushibo et Doma. Le programme aboutit par une autre voie : Muzan absorbe Nezuko et tient la resistance au soleil. [DIVERGENCE RP]
 
 ---
 

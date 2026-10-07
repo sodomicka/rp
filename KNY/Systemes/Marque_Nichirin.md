@@ -1,6 +1,6 @@
 # Marque et Nichirin
 
-- version : W3
+- version : W4
 
 ## Marque de Pourfendeur [canon]
 - Nature : motif qui apparait sur le corps du pourfendeur, propre a chacun et lie a son souffle.
@@ -26,7 +26,7 @@
 ## Nichirin [canon]
 - Matiere : sable de fer et minerai ecarlates du Mont Yoko, montagne exposee au soleil toute l'annee.
 - Propriete : le metal absorbe la lumiere solaire. Une decapitation par Nichirin tue durablement un demon ordinaire.
-- Limites : Muzan (sept coeurs, cinq cerveaux, aucun point vital unique) ; Kokushibo (survit a la decapitation tant que sa volonte tient).
+- Limites : sans effet durable sur les demons tres forts (Muzan, Kokushibo, Tsukiyo, Doma, Akaza), que seuls le soleil et le Souffle du Soleil blessent durablement (cf. Systemes/Demons.md). [DIVERGENCE RP]
 - Couleur : la lame change de teinte a la premiere prise en main, selon le porteur et son souffle.
 - Forge : forgerons attaches au Corps.
 
@@ -36,7 +36,7 @@
 
 ## Lame ecarlate (Kakuto) [canon]
 - La lame vire au rouge vif quand sa temperature monte a l'extreme : poigne ecrasante, ou choc de deux lames Nichirin. Troisieme voie a l'ere Taisho : l'art du sang de Nezuko.
-- Effet : brule les chairs demoniaques et entrave la regeneration, a la maniere du soleil.
+- Effet : brule les chairs demoniaques et entrave la regeneration, a la maniere du soleil. Sur les demons tres forts : brule et ralentit, sans pouvoir tuer. [DIVERGENCE RP]
 
 ---
 
