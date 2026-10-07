@@ -1,17 +1,17 @@
 # Resume - KNY
 
-- version : W3
+- version : W4
 
 ## Usage
 - Condense du recit tel qu'etabli (canon + divergences actees), pour le worldbuilder. Outil hors RP et hors build : jamais fetche, non indexe au Sommaire. Mis a jour a chaque BIBLE BUILD.
-- Etat du recit : R1 a R5 roadmappees ; ere Taisho = grandes lignes actees ; architecture R6 "La Piste", R7 "La Forteresse", R8 "La Paix", a roadmapper. Le previsionnel (beats voulus) vit dans Roadmap/Tsukiyo/00_Garde_Cap.md.
+- Etat du recit : R1 a R6 roadmappees ; R7 "La Forteresse" et R8 "La Paix" = grandes lignes actees, a roadmapper. Le previsionnel (beats voulus) vit dans Roadmap/Tsukiyo/00_Garde_Cap.md.
 - Premisse : Kimetsu no Yaiba en univers alternatif, point de vue demons, victoire demoniaque. Perspective : Tsumiki, devenue Tsukiyo.
 
 ## Le monde
 Muzan Kibutsuji devient le premier demon a l'ere Heian, plus de mille ans avant l'ere Taisho. Sa quete : vaincre le soleil, sa seule mort certaine. Face a lui, le Corps des Pourfendeurs, dirige par la famille Ubuyashiki. A l'ere Sengoku, Yoriichi Tsugikuni cree les Souffles et manque de tuer Muzan, qui se divise pour survivre et reste paranoiaque des siecles durant. Son jumeau aine, Michikatsu, incapable de maitriser le Soleil, cree par opposition le Souffle de la Lune.
 
 ## I. Les annees humaines (R1)
-A 12 ans, Tsumiki egorge son pere, un veuf alcoolique qui la battait. Mourante apres deux semaines d'errance, elle est recueillie par Michikatsu, 15 ans, heritier Tsugikuni qui a quitte le domaine et bati de ses mains un dojo dans une vallee du Tanba. Il la soigne et la forme : un lien de sauvetage et d'apprentissage. Il lui raconte son enfance : la flute, le talent inne de Yoriichi, le journal de leur mere Akeno, et la haine qui en est nee. Tsumiki epouse cette haine. Trop frele pour le sabre long, elle devient une combattante de precision au tanto.
+A 12 ans, Tsumiki egorge son pere, un veuf alcoolique qui la battait. Mourante apres deux semaines d'errance, elle est recueillie par Michikatsu, 15 ans, heritier Tsugikuni qui a quitte le domaine et bati de ses mains un dojo dans une vallee du Tanba. Il la soigne et la nourrit : deux paumes refugies dans la rage, une amitie farouche qui vire a la possessivite, sans romance. Il lui raconte son enfance : la flute, le talent inne de Yoriichi, le journal de leur mere Akeno, et la haine qui en est nee. Tsumiki epouse cette haine. Trop frele pour le sabre long, elle devient une combattante de precision au tanto.
 
 De ses 16 a ses 20 ans, le couple sejourne au QG du Corps, demeure-forteresse des Ubuyashiki sur le Mont Kasagata. Intendante le jour, elle apprend la nuit un souffle derive de la Lune, le Souffle des Tenebres, et eveille sa Marque. L'amour nait a l'age adulte : ils se marient quand elle a 18 ans. Deux enfants naissent, Katsuhisa et Chiyo. Ne supportant plus Yoriichi, ils quittent le QG et laissent les enfants a l'avant-poste du Corps, une maison au pied du mont : un frein a leur soif de puissance et de vengeance. Tsumiki emporte un sabre Nichirin brise a longueur de tanto, qu'elle cache a tous sauf a son epoux.
 
@@ -31,11 +31,12 @@ Tsukiyo concoit avec Muzan le programme des Douze Kizuki, un vivier cense produi
 Tsukiyo faconne une lignee de son sang. Au XVIe siecle, elle tourne Akaza, flaire au carnage d'un dojo rival ; n'y voyant qu'une brute, elle l'offre a Muzan (Lune Trois). Puis Doma, enfant-prophete d'une secte, reste de marbre devant la mort de ses parents : elle le garde en vassal, et il l'adore. Sur son ordre, il joue la Lune faible pour aiguillonner Akaza. Muzan pose le prix : tout vassal garde se paiera en offrandes. Au XVIIe siecle, Hantengu nait d'une cruaute ludique, souffre-douleur de Doma et Akaza, donne a Muzan (Lune Quatre).
 
 ## V. Les Lunes modernes (R5)
-Au XVIIIe siecle, Doma rabat deux mourants du quartier des plaisirs, Daki et Gyutaro. Tsukiyo les tourne et les offre a Muzan pour solder le prix de Doma (Lune Six). Au duel, elle met sa propre place en jeu : Doma leve le sandbag, ecrase Akaza et prend la Deux. Tsukiyo se retire dans l'ombre, simple epouse en facade. Puis vient Nakime, joueuse de biwa qui tue des hommes predateurs, et dont le nom humain fait echo au sien. Tsukiyo l'adopte comme fille ; sa Forteresse Infinie devient l'infrastructure de l'empire, hors de la main de Muzan. Au XIXe siecle, elle livre Gyokko a Muzan, qui le tourne en personne (Lune Cinq). La grille se fige. Longue accalmie : la famille s'installe, Kokushibo atteint son apogee.
+Au XVIIIe siecle, Doma rabat deux mourants du quartier des plaisirs, Daki et Gyutaro. Tsukiyo les tourne et les offre a Muzan pour solder le prix de Doma (Lune Six). Au duel, elle met sa propre place en jeu : Doma leve le sandbag, ecrase Akaza et prend la Deux. Tsukiyo se retire dans l'ombre, simple epouse en facade, le "1" de Kokushibo grave dans l'oeil : une demie lune. Puis vient Nakime, joueuse de biwa qui tue des hommes predateurs, et dont le nom humain fait echo au sien. Tsukiyo l'adopte comme fille ; sa Forteresse Infinie devient l'infrastructure de l'empire, hors de la main de Muzan. Au XIXe siecle, elle livre Gyokko a Muzan, qui le tourne en personne (Lune Cinq). La grille se fige. Longue accalmie : la famille s'installe, Kokushibo atteint son apogee.
 
-## VI. Taisho (grandes lignes actees, a roadmapper en R6-R8)
-Muzan tourne Nezuko et massacre les Kamado ; le couple s'en desinteresse. Akaza tue Rengoku. Daki et Gyutaro tombent ; Tsukiyo abat Tengen, mais epargne Tanjiro et sa soeur demone : elle a reconnu aux oreilles du garcon les boucles de Yoriichi et flaire une piste. Au village des forgerons, Nezuko surmonte le soleil ; Gyokko et Hantengu tombent. Kaigaku, tourne et garde par Kokushibo, comble un siege vacant.
+## VI. La Piste (R6)
+Muzan tourne Nezuko et massacre les Kamado, sans jamais croiser le garcon ; le couple s'en desinteresse. Les Lunes Inferieures tombent ; au Train, Akaza tue Rengoku. Aux quartiers de plaisir, Daki et Gyutaro tombent : Tsukiyo vient en personne, tue les epouses de Tengen sous ses yeux, puis Tengen. Elle reconnait aux oreilles de Tanjiro les boucles de Yoriichi et epargne la fratrie. Son rapport intrigue Muzan, qui purge les Lunes Inferieures. Au village des forgerons, Gyokko et Hantengu tombent ; un oeil de Nakime voit Nezuko surmonter le soleil. Kokushibo prend Kaigaku pour premier disciple, decevant. La famille vit ses derniers jours de calme.
 
+## VII. La Forteresse et la paix (R7-R8, grandes lignes)
 Dans la Forteresse, Nakime aspire le Corps sur ordre de sa mere. Tsukiyo intervient de salle en salle : elle tue Shinobu avant que Doma ne l'absorbe, puis Yushiro et Tamayo, dont le poison n'atteindra jamais Muzan, puis Zenitsu, qui vient d'abattre Kaigaku. Akaza retrouve ses souvenirs et s'autodetruit. Doma tue Inosuke et Kanao. Nakime ecrase Gyomei pour proteger ses parents. Muzan absorbe Nezuko et tient enfin la resistance au soleil ; le couple acheve Tanjiro. Tsukiyo brise Doma et le cede a Muzan. Le roi transmet le don du soleil a la famille. Muzan batit son empire de l'ombre ; le couple et Nakime se retirent dans la paix, pour l'eternite.
 
 ---

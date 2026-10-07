@@ -1,6 +1,6 @@
 # Tsukiyo
 
-- version : W10
+- version : W11
 - autre forme : cf. WIKI Personnages/Tsumiki.md (forme humaine, vie close a 21 ans)
 
 ## Identite
@@ -17,6 +17,7 @@
 - corps de predateur : musculature tres developpee, contraste total avec la frele humaine
 - cheveux argentes, longs de plusieurs metres
 - yeux vires au violet
+- oeil gauche : le "1" de Kokushibo, seul, sans mention de Lune Superieure - une "demie lune" ; grave par Muzan a son retrait (XVIIIe). Auparavant (R3-R5), le rang de Lune Superieure Deux inscrit dans les yeux, selon la regle des Kizuki. [DIVERGENCE RP]
 - Marque de Pourfendeur conservee : croissant de lune a la base du cou, entre les clavicules [DIVERGENCE RP]
 - aucune autre alteration
 
@@ -30,6 +31,7 @@ Dimensions amplifiees par la nature demoniaque :
 - avec Muzan : froideur clinique, jamais une once de chaleur.
 - avec Kokushibo, Nakime et Doma : douce, et horriblement possessive.
 - Yoriichi : de declencheur de rage (humaine, de son vivant) a source de fierte (une fois mort).
+- indifference au sort des demons, hors son epoux et sa fille. Ses creations la representent pourtant : leur echec l'affaiblit face a Muzan, devant qui elle ne peut paraitre faible.
 
 ### Manies, gouts, habitudes
 - soin des cheveux comme rituel ; sous tension, une meche bouge seule avant qu'elle ne se trahisse (tell). Caresser une meche vers un tiers vaut menace voilee.
@@ -47,6 +49,7 @@ Dimensions amplifiees par la nature demoniaque :
 - niveau de puissance : superieur a Doma et a Akaza en permanence ; inferieur a Kokushibo et a Muzan. La force du couple vient de leur union.
 - sang createur de Lunes : transforme un humain en demon de calibre Lune Superieure (saturation equivalent Lune Superieure Deux). Source d'une lignee de Lunes.
 - acces libre a la Forteresse Dimensionnelle Infinie via Nakime, sa fille : quasi-teleportation a volonte, levier partage de la lignee (la Forteresse n'appartient pas a Muzan).
+- yeux de Nakime : sa fille planque pour elle des yeux espions sur les Lunes Superieures et lui rapporte ce qu'ils voient.
 
 ### Souffle des Tenebres (forme demoniaque)
 Souffle re-canalise par les cheveux. Le Nichirin, lame solaire, ne lui sert plus : elle n'en est plus la cible mais l'espece. Translation d'ombre quasi instantanee, la duree sensible de l'etat humain disparait.
@@ -78,10 +81,13 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 - Tamayo : nemesis juree. Une autre demone a l'intellect surdeveloppe qui joue les egales aupres de Muzan - Tsukiyo la jalouse, a predit sa trahison, et jure de la tuer le jour ou elle reviendra abattre le roi.
 - Yoriichi Tsugikuni : haine froide muee en fierte apres sa mort. Cible de la Danse des Dieux de la Lune.
 - enfants humains (Katsuhisa, Chiyo - cf. WIKI Personnages/Katsuhisa_Chiyo.md) : laisses a l'avant-poste des enfants du Corps au depart du QG - un frein a la soif de puissance et de vengeance du couple ; indifference, la dynastie planifiee rendue obsolete par l'eternite (cf. Tsumiki).
+- Kaigaku : premier disciple de son epoux, decevant ; un jouet dont elle s'amuse, sans enjeu.
+- Tanjiro et Nezuko Kamado : la piste. Aux oreilles du garcon, les boucles de Yoriichi ; a ses cotes, une petite demone. Elle les epargne aux Quartiers.
+- Tengen Uzui : pilier du Son, tueur des Six ; elle l'abat apres avoir tue ses trois epouses sous ses yeux.
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : 15 entrees max.
+Plafond : leve - la Trajectoire reste dans la fiche principale tant que le budget protagoniste (20 000 car.) le permet.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
@@ -95,13 +101,15 @@ Plafond : 15 entrees max.
 | XVIe s. (R4) | Cree Doma (la secte) ; le garde en vassal, lui ordonne de paraitre faible (Lune Six) et de monter vite pour aiguillonner Akaza ; Muzan pose le principe des offrandes | vassal-prodige acquis (dette : tout vassal garde se paie en offrandes) ; reseau de rabattage integre |
 | XVIIe s. (R4) | Cree Hantengu par cruaute ludique (souffre-douleur de Doma et Akaza) ; l'offre gratuitement a Muzan | jouet cede a Muzan (Lune Sup Quatre) ; trois Lunes anciennes en grille |
 | XVIIIe s. (R5) | Rabat Daki & Gyutaro (mourants, quartier des plaisirs) via Doma, les tourne, les offre a Muzan pour solder le principe des offrandes (prix du vassalat de Doma) | dette de vassalite soldee (et au-dela) ; deux Lunes Sup Six cedees a Muzan ; surplus couvrant la future vassalite de Nakime |
-| XVIIIe s. (R5) | Met sa place de Lune Sup Deux en jeu au duel, galvanise Doma (son champion) qui demolit Akaza ; puis SE RETIRE dans l'ombre | perd le rang Deux officiel -> satellite de Kokushibo (seule epouse en facade) ; vraie puissance dissimulee aux Lunes |
+| XVIIIe s. (R5) | Met sa place de Lune Sup Deux en jeu au duel, galvanise Doma (son champion) qui demolit Akaza ; puis SE RETIRE dans l'ombre | perd le rang Deux officiel -> satellite de Kokushibo (seule epouse en facade) ; Muzan grave le "1" de Kokushibo dans son oeil gauche (demie lune) ; vraie puissance dissimulee aux Lunes |
 | XVIIIe s. (R5) | Coup de coeur pour une joueuse de biwa humaine (quartier des plaisirs d'une petite ville, attiree par l'odeur de ses proies-predateurs) ; la tourne, l'adopte, integre sa Forteresse comme infra de l'empire | fille adoptive acquise ; Forteresse = levier latent du trio, librement accessible ; cellule familiale amorcee |
 | XIXe s. (R5) | Deniche Gyokko mourant et le livre a Muzan (tourne par le roi en personne, hors de son sang) | dernier reperage livre ; grille des Douze Kizuki complete et figee |
+| Taisho (R6) | Quartiers de plaisir : vient en personne se charger du tueur des Six ; tue les trois epouses de Tengen sous ses yeux, puis Tengen ; reconnait les boucles de Yoriichi aux oreilles de Tanjiro et epargne la fratrie ; rapport intrigue a Muzan a la Forteresse | le Corps a vu la demie lune ; piste posee devant Muzan, qui purge les Lunes Inferieures |
+| Taisho (R6) | Au Village, un oeil de Nakime voit Nezuko surmonter le soleil ; Kokushibo prend Kaigaku pour disciple ; jours de calme en famille | tient la preuve avant Muzan ; nouveau jouet ; la famille se projette enfin dans l'avenir |
 
 ## Notes
 - certitude globale : OC [DIVERGENCE RP]. Aucun filet canon hors de cette fiche.
-- descendance [canon] : les enfants Tsugikuni abandonnes sont les ancetres de Muichiro Tokito, Pilier de la Brume. Fil potentiel d'un Hashira descendant du couple ; usage narratif ouvert (cf. BIBLE SB8).
+- descendance [canon] : les enfants Tsugikuni abandonnes sont les ancetres de Muichiro Tokito, pilier de la Brume (cf. Personnages/Muichiro.md) ; la branche exacte est inconnue de tous. Usage narratif a trancher en R7 (cf. BIBLE SB8).
 
 ---
 

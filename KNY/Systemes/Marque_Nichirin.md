@@ -1,6 +1,6 @@
 # Marque et Nichirin
 
-- version : W2
+- version : W3
 
 ## Marque de Pourfendeur [canon]
 - Nature : motif qui apparait sur le corps du pourfendeur, propre a chacun et lie a son souffle.
@@ -13,7 +13,9 @@
 - Yoriichi : Marque innee au front, confondue avec sa tache de naissance. Tue a ~35 ans par le couple. [canon ; DIVERGENCE RP]
 - Michikatsu : eveillee en pourfendeur. Demonise a 24 ans, il echappe a la sentence ; Kokushibo garde la Marque et son effet, motifs au visage. [canon]
 - Tsumiki : croissant de lune a la base du cou, entre les clavicules ; eveillee au QG, la nuit, aupres de Michikatsu. Demonisee a 21 ans, elle echappe a la sentence. Tsukiyo garde la Marque et son effet. [DIVERGENCE RP]
-- Ere Taisho : Marque generalisee aux Hashira a partir de celle de Tanjiro ; porteurs a caler a la boucle R6.
+- Tanjiro : cicatrice de brulure au front devenue Marque, eveillee aux Quartiers de plaisir (R6). [canon]
+- Muichiro (nuage au visage) et Mitsuri : eveillees au Village des forgerons (R6). [canon]
+- Hashira de l'ere Taisho : la Marque se generalise a l'entrainement des Piliers, sur le modele de Tanjiro (R6). Angle mort de Tsukiyo. La sentence des 25 ans vaut pour tous ces porteurs humains. [canon ; angle mort RP]
 
 ## Monde Transparent [canon]
 - Perception du vivant a nu : muscles, flux sanguin, articulations. Le combattant anticipe tout mouvement avant qu'il n'aboutisse.

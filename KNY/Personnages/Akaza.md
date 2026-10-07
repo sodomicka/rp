@@ -1,6 +1,6 @@
 # Akaza
 
-- version : W6
+- version : W7
 
 ## Identite
 - nom demon : Akaza
@@ -54,7 +54,7 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - Muzan Kibutsuji : son suzerain reel ; c'est a lui qu'Akaza appartient, et non a la lignee qui l'a fait. Muzan se l'est approprie en lui reinjectant son sang a l'offre de Tsukiyo.
 - Doma : co-creation de Tsukiyo, rival de rang et favori visible de la maitresse. Cible de toute la frustration d'Akaza. L'a battu a la loyale pour la Lune Superieure Deux ; Akaza nie la defaite et exige revanche, Doma repond par un rire insincere. Akaza ignore le vrai ressort du favoritisme : l'utilite, pas la force. Il ignore aussi que l'ascension de Doma (parti faible, Lune Six) fut un aiguillon tendu par Tsukiyo pour le pousser, lui, a se depasser.
 - Hantengu : souffre-douleur commun avec Doma. Creature-jouet de Tsukiyo, defouloir partage des deux Lunes.
-- Tamayo (miroir, sans contact) : le seul autre demon qui POURRAIT connaitre un reveil de l'humanite, mais la sienne reste muree faute de souvenirs. S'il les retrouvait, il detesterait ce qu'il est devenu. Miroir noir de Tamayo - aucun contact entre eux, simple echo thematique ; le devenir de cette memoire releve de la Trajectoire (apres R6).
+- Tamayo (miroir, sans contact) : le seul autre demon qui POURRAIT connaitre un reveil de l'humanite, mais la sienne reste muree faute de souvenirs. S'il les retrouvait, il detesterait ce qu'il est devenu. Miroir noir de Tamayo - aucun contact entre eux, simple echo thematique ; le devenir de cette memoire releve de la Trajectoire (R7).
 - Kokushibo : moitie du couple, tres au-dessus de lui ; rapport lointain, sans lien particulier.
 - Nakime : satellite du couple ; pas de rapport notable.
 
@@ -67,11 +67,12 @@ Plafond : 15 entrees max.
 | XVIe s. (R4) | Tourne par Tsukiyo (reperee au carnage du dojo) ; offert a Muzan qui se l'approprie par reinjection | humain (Hakuji) -> demon ; Lune Superieure Trois ; appartient a Muzan, non a la lignee ; besoin frustre de plaire a Tsukiyo |
 | XVIe s. (R4) | Tsukiyo lance Doma comme rival monte de Lune Six : aiguillon pour le pousser a se depasser | rivalite (en partie fabriquee) avec Doma installee ; rancoeur de fond amorcee |
 | XVIIIe s. (R5) | Jubile a l'idee d'ecraser Doma au duel (le croit parvenu monte trop vite), mais mange le parquet ; reste Lune Sup Trois | humiliation fondatrice ; rancoeur envers Doma soudee ; revanche perpetuelle installee (deversee aussi sur Hantengu) |
+| Taisho (R6) | Envoye par Muzan mater l'audace des pourfendeurs : tue Rengoku, pilier de la Flamme, au Train de l'Infini ; fuit l'aube | premier pilier tombe a l'ere Taisho ; dette du Corps envers lui |
 
 ## Notes
 - certitude : canon (Akaza / Hakuji), inflechie par les divergences RP (createur = Tsukiyo et non Muzan ; indifference subie ; reprise par Muzan via reinjection ; defaite a la loyale contre Doma et revanche perpetuelle ; appartenance a Muzan plutot qu'a la lignee).
 - detail de la rencontre et du tournage (scene du massacre, couple attire par l'odeur du sang, indifference de Tsukiyo) : -> roadmap (Passe 2).
-- amnesie de la vie humaine : conforme au canon ; ici exploitee comme table rase. Sort final : grandes lignes actees (Roadmap/Tsukiyo/00_Garde_Cap.md, build uniquement) ; Trajectoire a alimenter apres R6.
+- amnesie de la vie humaine : conforme au canon ; ici exploitee comme table rase. Sort final : grandes lignes actees (Roadmap/Tsukiyo/00_Garde_Cap.md, build uniquement) ; Trajectoire a alimenter apres R7.
 - backstory humaine de reference : misere, pere malade puis suicide, vols, tatouages de criminel ; recueilli par un maitre de dojo et sa fille Koyuki ; puits empoisonne par un dojo rival, mort du maitre et de Koyuki ; massacre du dojo rival a mains nues. [le nom du maitre et le compte exact des morts a confirmer si besoin en scene]
 
 ---

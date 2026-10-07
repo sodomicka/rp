@@ -1,6 +1,6 @@
 # Tamayo
 
-- version : W5
+- version : W6
 
 ## Identite
 - nom demon : Tamayo
@@ -58,10 +58,11 @@ Plafond : 15 entrees max.
 |---|---|---|
 | Ere Sengoku, XVe s. (R2) | Tournee par Muzan vers 19 ans (sous couvert de soigner sa maladie), devant le couple ; rejoint la troupe | humaine -> demone sous la laisse de Muzan ; massacre de sa famille sous l'emprise (jeune demone) [reveil/depart = R3] |
 | XVIe s. (R3) | Envoyee raser un village, retrouve son humanite devant un enfant eventre ; brise les DEUX leviers (reveil de l'humain, non terreur) ; cree Yushiro de son sang libre | affranchie de Muzan ; troisieme pole renegate ; Tsukiyo jure sa perte |
+| Taisho (R6) | Croise la fratrie Kamado (sans Muzan : pas d'Asakusa) ; preleve le sang de Nezuko ; pacte avec Tanjiro (sang des Kizuki) ; collabore avec Shinobu au poison anti-Muzan | alliee secrete du Corps ; recherche du remede ; angle mort de Tsukiyo |
 
 ## Notes
 - certitude : canon (Tamayo, medecin demone affranchie de Muzan, art du sang olfactif, creatrice de Yushiro, refus de tuer), inflechi par les divergences RP (mecanisme de rupture par le village et l'enfant, cible juree du couple, rivalite avec Tsukiyo, double rupture des leviers).
-- retour pour tuer Muzan et sort final : grandes lignes actees (Roadmap/Tsukiyo/00_Garde_Cap.md, build uniquement) ; Trajectoire a alimenter apres R6.
+- retour pour tuer Muzan et sort final : grandes lignes actees (Roadmap/Tsukiyo/00_Garde_Cap.md, build uniquement) ; Trajectoire a alimenter apres R7.
 - parallele Tamayo / Nezuko : -> Tchekhov SB8.
 - contraste avec Akaza : seul autre demon qui pourrait connaitre un tel reveil, mais son humanite reste muree faute de souvenirs (cf. fiche Akaza, Relations).
 

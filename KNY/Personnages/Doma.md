@@ -1,6 +1,6 @@
 # Doma
 
-- version : W6
+- version : W7
 
 ## Identite
 - nom demon : Doma
@@ -53,6 +53,8 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - Hantengu : souffre-douleur commun avec Akaza. Creature-jouet creee par Tsukiyo justement pour etre maltraitee par Doma et Akaza - defouloir partage des deux Lunes.
 - Nakime : satellite du couple ; fille adoptive de leur matriarche.
 - Daki et Gyutaro : trouves humains par lui, remis a Tsukiyo.
+- Kanae Kocho : pilier de la Fleur, tuee par lui avant l'ere de Tanjiro ; sa soeur Shinobu prepare sa vengeance [canon].
+- Kotoha : fidele de sa secte, mere d'Inosuke Hashibira ; il l'a tuee quand elle a fui avec son bebe, qu'elle a sauve [canon].
 - ses fideles : troupeau, garde-manger et antennes de rabattage ; nulle valeur a ses yeux hors de leur utilite.
 
 ## Trajectoire datee

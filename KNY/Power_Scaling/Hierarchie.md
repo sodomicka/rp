@@ -1,6 +1,6 @@
 # Hierarchie de puissance
 
-- version : W1
+- version : W2
 
 ## Regles de lecture
 - Le couple UNI est la seule force au-dessus de Muzan, et Muzan le craint. [DIVERGENCE RP]
@@ -37,8 +37,21 @@
 | Lune Sup Six | Daki et Gyutaro | bas de l'echelle ; Gyutaro est le vrai moteur du duo |
 | hors grille | Tamayo, Yushiro | faibles au combat direct ; leurs forces sont la chimie et la perception |
 
-## Ere Taisho
-- Paliers des Hashira et effet de la Marque generalisee : a caler a la boucle R6.
+## Ere Taisho (R6)
+| Palier | Entite | Reperes |
+|---|---|---|
+| au-dessus de Muzan | le couple uni | inchange |
+| sommet individuel | Muzan > Kokushibo > Tsukiyo | ordre inchange ; Tsukiyo abat un pilier d'un coup (Tengen) |
+| (gouffre) | - | - |
+| Lune Sup Deux, Trois | Doma, Akaza | Akaza tue Rengoku, pilier non marque |
+| Hashira marques | Gyomei au sommet | un marque abat une Lune Sup Quatre ou Cinq, seul ou assiste (Muichiro, Mitsuri au Village) |
+| Lune Sup Quatre, Cinq | Hantengu, Gyokko | tombes au Village |
+| Hashira non marques | - | il faut Tengen et le trio pour abattre la Six |
+| Lune Sup Six | Daki et Gyutaro, puis Kaigaku | bas de l'echelle des Lunes Superieures |
+| pourfendeur marque | Tanjiro (fin R6) | marque, encore sous les Hashira |
+| Lunes Inferieures | Enmu, Rui... | tombent face a un Hashira seul ou a des pourfendeurs aguerris |
+- Inchanges : Nakime (~Lune Sup Quatre, valeur logistique), Tamayo et Yushiro (hors grille, faibles au combat direct).
+- La Marque generalisee aux Hashira (fin R6) leur ouvre le palier des Hashira marques ; Tsukiyo l'ignore. [angle mort RP]
 
 ---
 

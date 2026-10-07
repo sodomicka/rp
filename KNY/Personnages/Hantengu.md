@@ -1,6 +1,6 @@
 # Hantengu
 
-- version : W3
+- version : W4
 
 ## Identite
 - nom demon : Hantengu
@@ -56,6 +56,7 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - Doma : tortionnaire designe ; Tsukiyo l'a concu, entre autres, pour qu'il subisse les sevices de Doma.
 - Akaza : tortionnaire designe au meme titre que Doma.
 - ses clones : ses propres emotions externalisees, a qui il delegue toute violence, refusant de porter lui-meme et son combat et ses affects.
+- Nakime : un de ses yeux espions est planque sur lui pour le compte de Tsukiyo. [DIVERGENCE RP]
 
 ## Trajectoire datee
 Vide a la genese (Passe 1). Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
@@ -64,6 +65,7 @@ Plafond : 15 entrees max.
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | XVIIe s. (R4) | Tourne par Tsukiyo par pure cruaute ludique (deja d'age avance), souffre-douleur de Doma et Akaza ; offert gratuitement a Muzan (reinjection) | humain -> demon ; Lune Superieure Quatre ; defouloir des deux Lunes ; non-candidat anti-soleil |
+| Taisho (R6) | Envoye avec Gyokko raser le village des forgerons ; accule par Tanjiro, Nezuko, Genya et Mitsuri, tombe a l'aube ; l'oeil de Nakime planque sur lui voit Nezuko surmonter le soleil | mort ; Quatre vacante ; sa chute livre a Tsukiyo la preuve de la piste |
 
 ## Notes
 - certitude : canon (Hantengu, art du sang, six manifestations, rang Sup 4), inflechi par les divergences RP (createur = Tsukiyo et non Muzan, creature-jouet, don gratuit a Muzan, souffre-douleur de Doma/Akaza).

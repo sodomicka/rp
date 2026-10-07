@@ -1,6 +1,6 @@
 # Muzan
 
-- version : W7
+- version : W8
 
 ## Identite
 - nom demon : Muzan Kibutsuji
@@ -48,7 +48,9 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 ## Relations
 - Kokushibo (Michikatsu Tsugikuni) : allie de circonstance. Muzan respecte sa force et sa franchise. Joueur, pas pion.
 - Tsukiyo (Tsumiki) : allie de circonstance. Muzan se mefie de la fourbe ; froideur clinique reciproque. Joueuse, pas pion ; le rappelle a l'ordre en prononcant son nom.
-- Douze Kizuki (Nakime, Doma, Akaza, Daki et Gyutaro...) : pions et betail a son service. Doma et Nakime concedes a l'obedience de Tsukiyo (deal negocie).
+- Douze Kizuki (Doma, Akaza, Hantengu, Gyokko, Daki et Gyutaro, Lunes Inferieures) : pions et betail ; Doma concede a l'obedience de Tsukiyo (deal negocie). Nakime, hors grille, concedee au couple.
+- Kaigaku : Lune Sup Six de son gravage, vassal du sang libre de Kokushibo.
+- Nezuko et Tanjiro Kamado : l'une tournee sans suite, l'autre ignore jusqu'au rapport de Tsukiyo. [DIVERGENCE RP]
 - Yoriichi Tsugikuni : LE pourfendeur ; l'a decoupe et presque detruit a l'ere Sengoku, source de sa paranoia seculaire. Tue plus tard par le couple. [canon, inflechi]
 - les humains : proies, et terrain de jeu nocturne sous identites multiples.
 
@@ -67,8 +69,12 @@ Plafond : 15 entrees max.
 | XVIe s. (R4) | Recoit Akaza de Tsukiyo et se l'approprie par reinjection | gagne une Lune Sup Trois (a lui, non a la lignee) |
 | XVIe s. (R4) | Accorde Doma a l'obedience de Tsukiyo, mais pose le principe : tout vassal garde se paiera en offrandes | dette ouverte sur la lignee (soldee R5) |
 | XVIIe s. (R4) | Recoit Hantengu en don gratuit (reinjection) | gagne une Lune Sup Quatre, jouet partage |
-| XVIIIe s. (R5) | Encaisse Daki & Gyutaro (offrande soldant le vassalat de Doma) et concede Nakime a l'obedience de Tsukiyo (prix couvert par le surplus ; concession arrachee sous la pression de Tsukiyo, Nakime sortant du systeme pour appartenir ouvertement au couple) | dette de la lignee soldee ; gagne une Lune Sup Six ; deux vassaux concedes a Tsukiyo (Doma, Nakime) |
+| XVIIIe s. (R5) | Encaisse Daki & Gyutaro (offrande soldant le vassalat de Doma) et concede Nakime a l'obedience de Tsukiyo (prix couvert par le surplus ; concession arrachee sous la pression de Tsukiyo, Nakime sortant du systeme pour appartenir ouvertement au couple) | dette de la lignee soldee ; gagne une Lune Sup Six ; deux vassaux concedes a Tsukiyo (Doma, Nakime) ; grave le "1" de Kokushibo dans l'oeil de Tsukiyo (retrait) et de Nakime (adoption) |
 | XIXe s. (R5) | Tourne Gyokko en personne (deniche par Tsukiyo) ; la grille des Douze Kizuki se complete et se fige | gagne une Lune Sup Cinq (a lui, hors lignee) ; Douze Kizuki au complet ; gel des rangs jusqu'a Taisho |
+| Taisho (R6) | Massacre les Kamado, tourne Nezuko sans la suivre ; envoie Akaza au Train | ignore la fratrie ; Rengoku tue |
+| Taisho (R6) | Rapport de Tsukiyo a la Forteresse ; purge les Lunes Inferieures ; envoie Gyokko et Hantengu au Village | apprend la fratrie par Tsukiyo |
+| Taisho (R6) | Perd Gyokko et Hantengu ; Nezuko surmonte le soleil | piste confirmee (preuve tenue d'abord par Tsukiyo) ; Nezuko cible |
+| Taisho (R6) | Grave la Six a Kaigaku | Six pourvue, hors de sa main |
 
 ## Notes
 - certitude : canon (Muzan Kibutsuji), inflechi par les divergences RP.

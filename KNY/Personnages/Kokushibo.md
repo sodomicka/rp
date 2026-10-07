@@ -1,6 +1,6 @@
 # Kokushibo
 
-- version : W9
+- version : W10
 - autre forme : cf. WIKI Personnages/Michikatsu.md (forme humaine, vie close a 24 ans)
 
 ## Identite
@@ -46,13 +46,15 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 - co-conception du programme des Douze Kizuki avec Muzan ; il est la moitie du couple qui legitime les idees de Tsukiyo (elle concoit, il legitime, Muzan acte).
 - Lune Superieure Un par etalon : son titre sert de but a depasser pour les autres Lunes, cense forcer l'eveil d'une resistance au soleil. [DIVERGENCE RP]
 - equilibre de la terreur a trois (Muzan, Kokushibo, Tsukiyo) : collaboration forcee, impasse mutuelle : ni Muzan ni le couple ne peut tuer l'autre, sinon par le soleil ; objectif de fond du couple, la liberte hors de Muzan. [DIVERGENCE RP]
+- premier disciple : la piste Nezuko ouvre un avenir au couple ; il veut transmettre et prend Kaigaku. Deception : Kaigaku s'est fait demon par peur et lachete, le couple par ambition - des exceptions. [DIVERGENCE RP]
 
 ## Relations
 - Tsukiyo (Tsumiki) : epouse, egale, amour fou et reciproque. Elle pense et manigance ; lui, la franchise et la force.
 - Yoriichi Tsugikuni : jumeau cadet ; jalousie muee, apres l'avoir tue, en lucidite (le vrai ennemi etait sa propre quete).
 - Muzan Kibutsuji : allie force. Muzan respecte sa force et sa franchise, a l'inverse de la mefiance qu'il voue a la fourbe Tsukiyo. Impasse mutuelle : aucun ne peut tuer l'autre, sinon par le soleil.
-- Nakime : fille adoptive du couple.
+- Nakime : fille adoptive du couple ; il chasse pour la nourrir. Muzan a grave le "1" de Kokushibo dans son oeil, comme dans l'oeil gauche de Tsukiyo : les deux demies lunes de la famille.
 - Lunes Superieures (Doma Deux, Akaza Trois, Hantengu Quatre, Gyokko Cinq, Daki et Gyutaro Six) : creatures de son epouse pour la plupart (Gyokko excepte - simple reperage de Tsukiyo, tourne par Muzan) ; il en est le bras et le garant de l'ordre. A ses yeux, seules les Lunes Superieures comptent.
+- Kaigaku : premier disciple et vassal (sang libre), Lune Superieure Six ; le craint ; le decoit.
 - enfants humains (Katsuhisa, Chiyo - cf. WIKI Personnages/Katsuhisa_Chiyo.md) : laisses a l'avant-poste des enfants du Corps au depart du QG - un frein a la soif de puissance et de vengeance du couple ; indifference, la dynastie planifiee rendue obsolete par l'eternite.
 
 ## Trajectoire datee
@@ -69,10 +71,12 @@ Plafond : 15 entrees max.
 | Ere Sengoku tardive, XVe s. (R3) | Accede a Lune Superieure Un ; ouvre 2 yeux de plus ; legitime le programme Kizuki concu par Tsukiyo | Lune Sup Un (des siecles durant) ; 4 yeux ouverts / 2 fermes |
 | XVIe-XVIIe s. (R4) | S'entraine sans relache pendant que Tsukiyo forge ses Lunes | reste a 4 yeux ouverts / 2 fermes ; maitrise affinee, en retrait des creations (apogee reportee a l'accalmie R5) |
 | XIXe s. -> Taisho, accalmie (R5) | Apogee pendant la longue accalmie | ouvre ses 2 derniers yeux (4 -> 6, tous) ; maitrise pleine du Souffle de la Lune ; plein potentiel de demon atteint |
+| Taisho (R6) | Prend Kaigaku pour premier disciple : le tourne et le garde (sang libre) ; Muzan lui grave la Six | premier vassal de son sang ; deception |
+| Taisho (R6) | Entraine Kaigaku ; jours de calme avec Tsukiyo et Nakime, la piste confirmee | se projette enfin dans l'avenir |
 
 ## Notes
 - certitude : canon (Kokushibo / Michikatsu), inflechi par les divergences RP.
-- descendance des enfants abandonnes -> Muichiro Tokito, Pilier de la Brume [canon] ; usage narratif : ouvert (cf. BIBLE SB8).
+- descendance des enfants abandonnes -> Muichiro Tokito, pilier de la Brume [canon] (cf. Personnages/Muichiro.md) ; branche exacte inconnue de tous ; usage narratif a trancher en R7 (cf. BIBLE SB8).
 - meurtre de l'Oyakata de l'ere Sengoku : acte HUMAIN de Michikatsu (R1), anterieur a la demonisation - ne releve pas des faits post-demonisation de cette fiche.
 
 ---

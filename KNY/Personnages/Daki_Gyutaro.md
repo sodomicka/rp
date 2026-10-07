@@ -1,6 +1,6 @@
 # Daki et Gyutaro
 
-- version : W3
+- version : W4
 
 ## Identite
 - entite : fratrie demon a corps et rang partages - indissociable
@@ -74,6 +74,7 @@ Plafond : 15 entrees max.
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | XVIIIe s. (R5) | Trouves humains mourants (quartier des plaisirs) par Doma-rabatteur, tournes par Tsukiyo, offerts a Muzan comme monnaie de vassalite (soldent Doma) | humains -> demons ; Lune Superieure Six (corps et rang partages) ; Kizuki de Muzan, non vassaux de la lignee ; psyche transactionnelle tournee vers Muzan |
+| Taisho (R6) | Quartiers de plaisir : tombent face a Tengen et au trio de Tanjiro ; leur mort fait venir Tsukiyo en personne | morts la ou ils sont nes ; Six vacante |
 
 ## Notes
 - certitude : canon (Ume/Daki, Gyutaro), inflechie par les divergences RP (rabattus par Doma puis tournes par Tsukiyo - et non par Doma directement ; donnes a Muzan comme monnaie de vassalite ; psyche de lignee transactionnelle, tournee vers Muzan).

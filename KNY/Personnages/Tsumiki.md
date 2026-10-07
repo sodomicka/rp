@@ -1,6 +1,6 @@
 # Tsumiki
 
-- version : W4
+- version : W5
 - autre forme : cf. WIKI Personnages/Tsukiyo.md (forme demoniaque)
 
 ## Identite
@@ -45,8 +45,8 @@ Souffle OC derive du Souffle de la Lune, donc posterieur a sa creation. Maitrise
 ## Histoire
 Noyau : jusqu'au point de depart (R1, etape 2). La suite vit en Trajectoire datee.
 - patricide a 12 ans : fille battue d'un pere veuf alcoolique, qu'elle egorge une nuit sans ciller. Deux semaines d'errance aux portes de la mort (pas un vrai repas depuis des mois, eau de flaques).
-- recueillie a 12 ans par Michikatsu (15 ans), surpris a tailler le bois de son futur dojo, dans une vallee isolee du Tanba (cf. WIKI Lieux/Dojo_Tanba.md). Il la soigne, la nourrit, la forme : lien de sauvetage et d'apprentissage, sans romance. Les deux passes se racontent (cote Michikatsu : enfance des jumeaux, la flute, Akeno leur mere et son journal, le talent inne de Yoriichi - cf. fiche Michikatsu). La haine de Yoriichi prend racine des cette confidence.
-- formation (12-16 ans) : Michikatsu lui enseigne les arts du sabre samurai ; de faible carrure, elle se specialise au tanto et excelle a lire et corriger les trajectoires (l'oeil avant le muscle).
+- recueillie a 12 ans par Michikatsu (15 ans), surpris a tailler le bois de son futur dojo, dans une vallee isolee du Tanba (cf. WIKI Lieux/Dojo_Tanba.md). Il la soigne et la nourrit. Ni maitre ni eleve : deux paumes qui se refugient dans la rage ; une amitie farouche qui vire a la possessivite, sans romance, avant de devenir amour une fois adultes. Les deux passes se racontent (cote Michikatsu : enfance des jumeaux, la flute, Akeno leur mere et son journal, le talent inne de Yoriichi - cf. fiche Michikatsu). La haine de Yoriichi prend racine des cette confidence.
+- escrime (12-16 ans) : Michikatsu, fort de son education de samurai, lui apprend le sabre - le seul terrain ou elle est son eleve ; de faible carrure, elle se specialise au tanto et excelle a lire et corriger les trajectoires (l'oeil avant le muscle).
 - quatre ans au QG du Corps (Mont Kasagata, Hyogo ; cf. WIKI Lieux/QG_Corps_Kasagata.md), de ses 16 a ses 20 ans : formee en intendante de facade ; la nuit, elle apprend en secret son propre souffle aupres de Michikatsu et eveille sa Marque.
 - l'amour nait a l'age adulte : mariage au QG (elle 18, lui 21). Deux enfants, Katsuhisa et Chiyo (cf. WIKI Personnages/Katsuhisa_Chiyo.md), nes vers ses 19 et 20 ans, planifies comme une dynastie de mortels.
 - au depart du QG (elle ~20, lui ~23), ne supportant plus Yoriichi, le couple laisse les deux enfants a un avant-poste du Corps : un frein a leur soif de puissance et de vengeance. Tsumiki derobe un Nichirin brise, pile a longueur de tanto.
@@ -54,7 +54,7 @@ Noyau : jusqu'au point de depart (R1, etape 2). La suite vit en Trajectoire date
 - haine de Yoriichi : moteur central ; elle s'en nourrit pour pousser Michikatsu a franchir le pas - depasser la mortalite et gagner la force de tuer cet homme a la compassion condescendante.
 
 ## Relations
-- Michikatsu Tsugikuni : sauveur et maitre de ses 12 ans, epoux a ses 18 ans ; amour fou et reciproque, ne a l'age adulte. Jumeau aine de Yoriichi. Forme humaine de Kokushibo.
+- Michikatsu Tsugikuni : compagnon d'infortune de ses 12 ans (son maitre en escrime, rien d'autre), epoux a ses 18 ans ; amour fou et reciproque, ne a l'age adulte. Jumeau aine de Yoriichi. Forme humaine de Kokushibo.
 - Yoriichi Tsugikuni : haine froide ; de son vivant, source de rage.
 - enfants humains (Katsuhisa, Chiyo) : laisses a l'avant-poste des enfants du Corps (soins et education) au depart du QG - un frein a la soif de puissance et de vengeance du couple.
 - Corps des Pourfendeurs : appartenance secrete.

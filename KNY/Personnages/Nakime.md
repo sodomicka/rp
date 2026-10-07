@@ -1,6 +1,6 @@
 # Nakime
 
-- version : W5
+- version : W6
 
 ## Identite
 - nom demon : Nakime
@@ -15,22 +15,23 @@
 - peau tres pale, poudree, facon masque de No
 - longs cheveux noirs
 - doigts effiles de musicienne
-- yeux supplementaires qui apparaissent au fil des promotions (canon)
+- un seul oeil visible, voile par ses cheveux [INCERTAIN] ; il porte le "1" de Kokushibo, sans mention de Lune Superieure - une demie lune, gravee par Muzan a son adoption [DIVERGENCE RP - canon : Lune Superieure Quatre apres promotion]
 - kimono sombre
 
 ## Personnalite
 - calme, formelle, econome de mots : s'exprime peu, joue beaucoup.
 - devouement total et aimant envers ses parents demons ; executante impeccable.
 - allegeance de coeur au couple, non a Muzan (nuance RP) : elle le sert par utilite, pas par loyaute.
-- ethique humaine residuelle : humaine, elle ne tuait que des hommes qui le meritaient ; demone, elle n'aime pas tuer pour chasser - d'ou un regime fourni par sa mere (cf. Manies).
+- ethique humaine residuelle : humaine, elle ne tuait que des hommes qui le meritaient ; demone, elle n'aime pas tuer pour chasser - d'ou un regime fourni par ses parents (cf. Manies).
 
 ### Manies, gouts, habitudes
 - le biwa : identite et instrument de pouvoir confondus. Joue pour elle-meme autant que pour commander la Forteresse.
-- regime : ne chasse pas elle-meme. Tsukiyo la nourrit de jeunes hommes vierges - le meilleur gibier, par tendresse maternelle, pour une demone qui n'aimera jamais tuer. Vestige de son refus humain de frapper l'innocent.
+- regime : ne chasse pas elle-meme. Son pere et sa mere chassent pour elle et la nourrissent de jeunes hommes vierges - le meilleur gibier, par tendresse parentale, pour une demone qui n'aimera jamais tuer. Vestige de son refus humain de frapper l'innocent.
 
 ## Capacites
 - maitrise de la Forteresse Dimensionnelle Infinie : par le biwa, reagence l'espace a volonte - cree, deplace, fusionne et renverse des salles ; teleporte les occupants ; isole ou reunit des combattants.
-- traque : yeux flottants-familiers dissemines pour localiser cibles et intrus a grande echelle.
+- yeux espions : familiers flottants qu'elle produit pour localiser cibles et intrus a grande echelle. Leur nombre et leur portee dependent de sa puissance, donc de ce que son pere et sa mere chassent pour elle. [DIVERGENCE RP - canon : don de Muzan apres sa promotion]
+- surveillance des Lunes Superieures : elle y planque des yeux pour le compte de sa mere et rapporte ce qu'ils voient, sans tout savoir lire - les boucles de Yoriichi ne lui disent rien (seuls Muzan et le couple les connaissent). [DIVERGENCE RP]
 - profil utilitaire : sa valeur est logistique et strategique, jamais martiale. Faible en duel direct face aux Lunes de combat ; on ne la met pas en premiere ligne, on ne la perd jamais.
 - creation directe de Tsukiyo (sa lignee de Lunes). Sa puissance reelle est de l'ordre d'une Lune Superieure Quatre ; sa valeur n'a jamais ete martiale mais logistique - on ne l'evalue pas a l'aune du duel.
 
@@ -55,7 +56,9 @@ Plafond : 15 entrees max.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| XVIIIe s. (R5) | Reperee humaine par le couple (quartier des plaisirs d'une petite ville ; l'odeur de ses proies-predateurs les attire) ; coup de coeur de Tsukiyo, qui la tourne et l'adopte | humaine (Tsumiki, joueuse de biwa) -> demone ; fille adoptive, satellite de Kokushibo (pas de rang) ; Forteresse integree comme infra de l'empire et levier latent du trio |
+| XVIIIe s. (R5) | Reperee humaine par le couple (quartier des plaisirs d'une petite ville ; l'odeur de ses proies-predateurs les attire) ; coup de coeur de Tsukiyo, qui la tourne et l'adopte | humaine (Tsumiki, joueuse de biwa) -> demone ; fille adoptive, satellite de Kokushibo (pas de rang) ; Muzan grave le "1" de Kokushibo dans son oeil (demie lune) ; Forteresse integree comme infra de l'empire et levier latent du trio |
+| Taisho (R6) | Ses yeux sur les Lunes Superieures annoncent a sa mere la chute de Daki et Gyutaro ; la Forteresse accueille la reunion du rapport et la purge des Lunes Inferieures | messagere de la piste |
+| Taisho (R6) | Au Village, l'oeil planque sur Hantengu voit Nezuko surmonter le soleil ; jours de calme en famille | livre a sa mere la preuve avant Muzan ; toujours sans titre |
 
 ## Notes
 - certitude : canon (entite, biwa, Forteresse), inflechie par les divergences RP (nom humain Tsumiki, filiation et lignee Tsukiyo, statut hors-rang / satellite de Kokushibo, allegeance au couple).

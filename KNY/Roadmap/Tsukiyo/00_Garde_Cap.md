@@ -1,12 +1,12 @@
 # 00_Garde_Cap
 
-- version : W3
+- version : W4
 
 ## Cadre
 - role : ligne directrice de la saga, perspective Tsukiyo. Porte les beats voulus depuis la Passe 1 ; previsionnel, mis a jour pour coller aux roadmaps. Sert de base de decoupage des roadmaps.
 - statut : source de BUILD uniquement (dossier Roadmap/ : non indexe au Sommaire, jamais fetche en narration). Budget : derogation worldbuilder a 15 000 caracteres.
 - portee : trajectoire complete, ere Heian a la paix Taisho, perspective de la lignee Tsukiyo / Kokushibo.
-- resolution : R1-R5 roadmappees (en cas d'ecart, la roadmap fait foi) ; ere Taisho = grandes lignes actees, R6+ a roadmapper.
+- resolution : R1-R6 roadmappees (en cas d'ecart, la roadmap fait foi) ; R7+ = grandes lignes actees, a roadmapper.
 - datation : par ere ET par siecle. L'ordre d'arrivee des demons est fixe par le worldbuilder ; le canon, imprecis sur ce point, est cale sur cette timeline. Exception : Muzan, cale sur le canon (plus de mille ans a l'ere Taisho).
 - convention : canon et divergences fondus. Le marqueur [RP] signale un beat qui devie du manga ; l'absence de marqueur = conforme au canon.
 
@@ -48,23 +48,24 @@ Muzan (IXe-Xe) ; Kokushibo & Tsukiyo (XVe) ; Tamayo (XVe) ; Yushiro (XVIe) ; Aka
 - [XVIe siecle] Doma. Dans une secte, un enfant-prophete regarde ses parents se donner la mort sans flancher ; Tsukiyo le tourne et le garde. Il se met a l'adorer. Elle lui ordonne de paraitre faible - Lune Superieure Six - et de monter vite, aiguillon tendu a l'orgueil d'Akaza. Quand elle le revendique devant Muzan, le roi pose le principe : tout vassal garde se paiera desormais en offrandes. La secte devient l'antenne de rabattage de la lignee.
 - [XVIIe siecle] Hantengu. Un jouet, cree par pure cruaute ludique pour servir de souffre-douleur a Doma et Akaza, puis offert gratuitement a Muzan. Il devient Lune Superieure Quatre.
 - [XVIIIe siecle] Daki & Gyutaro. Deux humains mourants du quartier des plaisirs, ramenes par Doma (rabatteur), que Tsukiyo tourne ; aucun ne lui plaisant, elle les offre a Muzan, soldant le prix de ses vassaux. Ils deviennent Lune Superieure Six ; Doma glisse de Six a Cinq.
-- [XVIIIe siecle] Le duel. Akaza (Lune Trois) et Doma (Lune Cinq) se disputent les rangs ; Tsukiyo met alors sa propre place de Lune Superieure Deux en jeu et galvanise Doma - son champion, qui doit vaincre pour prouver son admiration. Doma leve le sandbag, demolit Akaza et prend la place ; Tsukiyo se retire dans l'ombre, redevenant en facade la seule epouse de Kokushibo, sans rang officiel, sa vraie puissance dissimulee aux yeux des Lunes.
-- [XVIIIe siecle] Nakime. Coup de coeur : dans le quartier des plaisirs d'une petite ville, une joueuse de biwa tue des hommes au comportement de predateurs ; l'odeur du sang attire le couple. Son nom humain, Tsumiki, fait echo au prenom enterre de Tsukiyo. Une fois la demone tournee, sa Forteresse Infinie se revele l'infrastructure ideale d'un empire de l'ombre devenu trop vaste, une parade a la contrainte spatiale et un refuge modulable contre le soleil. Tsukiyo la garde comme fille adoptive ; le prix des vassaux est deja largement solde.
+- [XVIIIe siecle] Le duel. Akaza (Lune Trois) et Doma (Lune Cinq) se disputent les rangs ; Tsukiyo met alors sa propre place de Lune Superieure Deux en jeu et galvanise Doma - son champion, qui doit vaincre pour prouver son admiration. Doma leve le sandbag, demolit Akaza et prend la place ; Tsukiyo se retire dans l'ombre, redevenant en facade la seule epouse de Kokushibo, sans rang officiel, sa vraie puissance dissimulee aux yeux des Lunes ; Muzan grave dans son oeil gauche le "1" de Kokushibo, sans rang : une demie lune.
+- [XVIIIe siecle] Nakime. Coup de coeur : dans le quartier des plaisirs d'une petite ville, une joueuse de biwa tue des hommes au comportement de predateurs ; l'odeur du sang attire le couple. Son nom humain, Tsumiki, fait echo au prenom enterre de Tsukiyo. Une fois la demone tournee, sa Forteresse Infinie se revele l'infrastructure ideale d'un empire de l'ombre devenu trop vaste, une parade a la contrainte spatiale et un refuge modulable contre le soleil. Tsukiyo la garde comme fille adoptive, demie lune elle aussi ; le prix des vassaux est deja largement solde.
 - [XIXe siecle] Gyokko. Humain mourant qu'elle deniche et livre a Muzan, qui le tourne en personne - seul de la lignee a ne pas porter le sang de Tsukiyo. Il devient Lune Superieure Cinq, et la derniere Lune recrutee.
 
 ### Le gel des rangs [RP]
 - La liste des Lunes Superieures est desormais figee : du XIXe siecle jusqu'au conflit final de Taisho, les pourfendeurs n'en abattent aucune.
 - Longue accalmie : la cellule familiale (le couple et Nakime) s'installe dans une routine paisible. Apogee de Kokushibo : ses six yeux s'ouvrent, pleine maitrise du Souffle de la Lune.
 
-## Ere Taisho (XXe siecle) - grandes lignes actees, R6+ a roadmapper
+## Ere Taisho (XXe siecle) - R6 roadmappee, R7+ en grandes lignes actees
 
-### Le conflit final (canon revisite)
-- [XXe siecle] Muzan convertit Nezuko et massacre les Kamado ; le couple s'en desinteresse, le roi a bien le droit de s'amuser. Les Lunes Inferieures commencent a tomber face a une nouvelle generation de pourfendeurs.
-- Train de l'Infini : Akaza, envoye mater leur audace, tue le pilier des Flammes, Rengoku.
-- Quartiers de plaisir : Daki & Gyutaro tombent. A l'annonce de leur mort, Tsukiyo intervient en personne pour donner une lecon. Elle tue les epouses de Tengen sous ses yeux pour l'enrager, puis abat le pilier du Son sans le moindre effort. En voyant le jeune Tanjiro - boucles de Yoriichi aux oreilles, Marque eveillee, protegeant une petite demone - elle flaire une piste et choisit de les epargner ; elle rentre n'ayant tue que le pilier du Son. [RP]
-- De retour aupres de Muzan, Tsukiyo annonce une piste plus prometteuse que l'echec des Lunes ; les Lunes Inferieures survivantes sont purgees.
-- Village des forgerons : Nezuko surmonte le soleil. Gyokko et Hantengu tombent. La piste de Tsukiyo se confirme.
-- Entrainement des Piliers : les Hashira generalisent la Marque a partir de celle de Tanjiro. [XXe siecle] Kaigaku comble le siege vacant et devient la quatrieme des quatre Lunes restantes ; Nakime demeure en retrait, sans titre.
+### La Piste (R6)
+- [XXe siecle] Muzan convertit Nezuko et massacre les Kamado ; le couple s'en desinteresse, le roi a bien le droit de s'amuser. Muzan ne croise jamais Tanjiro et ignore la fratrie. [RP] Les Lunes Inferieures commencent a tomber face a une nouvelle generation de pourfendeurs (Rui a Natagumo).
+- Train de l'Infini : Enmu y chasse sans cible designee et tombe [RP] ; Akaza, envoye mater l'audace des pourfendeurs, tue le pilier des Flammes, Rengoku.
+- Quartiers de plaisir : Daki & Gyutaro tombent. Alertee par les yeux de Nakime, Tsukiyo vient en personne se charger du tueur des Six : ses creations la representent, elle ne peut paraitre faible face a Muzan. Elle tue les epouses de Tengen sous ses yeux pour l'enrager, puis abat le pilier du Son sans le moindre effort. En voyant le jeune Tanjiro - boucles de Yoriichi aux oreilles, Marque eveillee, protegeant une petite demone - elle flaire une piste et choisit de les epargner ; elle rentre n'ayant tue que le pilier et ses epouses. Le trio et Nezuko ont vu la demie lune a l'oeuvre. [RP]
+- De retour a la Forteresse, Tsukiyo, intriguee, fait son rapport a Muzan : une piste plus prometteuse que l'echec des Lunes. Les Lunes Inferieures survivantes sont purgees [RP - canon : avant le Train] ; Gyokko et Hantengu partent pour le village des forgerons.
+- Village des forgerons : Gyokko et Hantengu tombent. Nezuko surmonte le soleil ; un oeil de Nakime planque sur Hantengu le voit, et Tsukiyo tient la preuve avant Muzan. [RP] La piste se confirme.
+- [XXe siecle] Le disciple : l'avenir enfin en vue, Kokushibo prend Kaigaku, qui implore le sang par peur, pour premier disciple ; il le tourne et le garde (sang libre). Kaigaku comble le siege vacant et devient la quatrieme des quatre Lunes restantes. Kokushibo n'en tire que de la deception : le couple s'est fait demon par ambition, jamais par lachete. [RP]
+- Le calme : Kokushibo entraine Kaigaku ; la cellule familiale vit ses derniers jours de calme et se projette enfin. Nakime demeure en retrait, sans titre. Angle mort de Tsukiyo : les Hashira generalisent la Marque a partir de celle de Tanjiro. [RP]
 
 ### La Forteresse Infinie [RP]
 - Muzan attaque le QG du Corps et tombe dans le piege-sacrifice de l'Oyakata. Sur ordre de Tsukiyo, Nakime aspire le Corps tout entier dans la Forteresse et en extrait Muzan. Tsukiyo se poste pres de sa fille et intervient de combat en combat par les passages de la Forteresse.

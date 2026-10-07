@@ -1,10 +1,10 @@
 # Arts Demoniaques du Sang
 
-- version : W1
+- version : W2
 
 ## Principe [canon]
 - Kekkijutsu : pouvoir propre a un demon assez puissant, alimente par son sang ; il prolonge souvent sa nature, son histoire ou sa technique humaine.
-- Perimetre : les arts qui servent jusqu'a R5. Les formes de Hantengu, Gyokko, Daki et Gyutaro, et les techniques de combat de Muzan, seront documentees a la boucle R6 : leur detail ne sert qu'a l'ere Taisho.
+- Perimetre : les arts qui servent jusqu'a R6. Les techniques de combat de Muzan et la forme mutee de Kokushibo seront documentees a la boucle R7 : leur detail ne sert qu'a la Forteresse.
 
 ## Tsukiyo - art capillaire [DIVERGENCE RP]
 - Cheveux argentes de plusieurs metres, extensibles, prehensiles, aceres.
@@ -16,7 +16,7 @@
 - Katana de chair : lame rouge veinee, couverte d'yeux, forgee de son propre corps. Elle s'allonge, se deforme et se ramifie ; dure comme un Nichirin.
 - Nuees de croissants chaotiques, de tailles et de vitesses variables, qui accompagnent chaque forme du Souffle de la Lune.
 - Regeneration superieure : survit a la decapitation tant que sa volonte tient.
-- Forme mutee, ultime recours : ere Taisho, boucle R6.
+- Forme mutee, ultime recours : ere Taisho, boucle R7.
 
 ## Doma - cryokinesie [canon]
 - Genere glace et givre de sa chair et de son sang. Combat avec deux eventails de guerre.
@@ -42,8 +42,34 @@
 
 ## Nakime - la Forteresse [canon, inflechi RP]
 - Par son biwa, commande la Forteresse Infinie : cree, deplace, retourne des salles ; teleporte les occupants ; ouvre des passages vers l'exterieur.
-- Yeux-familiers pour localiser cibles et intrus a grande echelle.
+- Yeux espions pour localiser cibles et intrus a grande echelle ; leur nombre et leur portee dependent de sa puissance, nourrie par la chasse de ses parents. Elle en planque sur les Lunes Superieures pour Tsukiyo. [DIVERGENCE RP - canon : don de Muzan apres sa promotion]
 - Detail du lieu : cf. WIKI Lieux/Forteresse_Infinie.md.
+
+## Hantengu - clones-emotions [canon]
+- Chaque decapitation de sa forme apparente le scinde en demons-emotions autonomes : Sekido (la colere, baton a eclairs), Karaku (le plaisir, eventail a bourrasques), Aizetsu (le chagrin, lance), Urogi (la joie, ailes et cri ultrasonique).
+- Zohakuten (la haine) : fusion des quatre, colosse a tambours qui commande des dragons de bois.
+- Vrai corps : minuscule, cache, au cou dur comme l'acier ; seule sa decapitation met fin a tout. Le moi principal, c'est la peur.
+
+## Gyokko - les pots [canon]
+- Passe de pot en pot ; fait jaillir de ses pots poissons et creatures de chair.
+- Poissons cracheurs d'aiguilles empoisonnees ; prison d'eau qui noie la proie dans un pot geant.
+- Vraie forme : ecailles plus dures que le diamant ; ses coups changent en poisson la chair qu'ils touchent.
+
+## Daki et Gyutaro [canon]
+- Daki : ceintures (obi) sentientes, tranchantes, extensibles, ou elle stocke ses proies.
+- Gyutaro : faux de sang volantes a trajectoire imprevisible ; sang empoisonne mortel.
+- Corps partage : les deux tetes doivent tomber ensemble (cf. Personnages/Daki_Gyutaro.md).
+
+## Kaigaku - foudre noire [canon]
+- Formes deux a six de la Foudre, chargees d'eclairs noirs qui rampent sur la cible et fendent sa chair.
+
+## Nezuko - sang explosif [canon]
+- Son sang s'embrase : brule les demons et leurs poisons, epargne les humains.
+- Embrase une lame Nichirin, qui vire au rouge (cf. Systemes/Marque_Nichirin.md).
+- Change de taille a volonte ; forme d'eveil (veines-lierres, corne) en combat extreme.
+
+## Lunes Inferieures
+- Enmu (sommeil et reves) et Rui (fils d'araignee) : cf. Personnages/Lunes_Inferieures.md.
 
 ## Tamayo et Yushiro [canon]
 - Tamayo : sortileges olfactifs portes par l'arome de son sang - illusions, abaissement des fonctions cerebrales, verite forcee.

@@ -1,6 +1,6 @@
 # Gyokko
 
-- version : W3
+- version : W4
 
 ## Identite
 - nom demon : Gyokko
@@ -51,7 +51,7 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 ## Relations
 - Tsukiyo (Tsumiki Tsugikuni) : celle qui l'a deniche humain et livre a Muzan ; aucun lien affectif, aucune appartenance a sa lignee - un rebut interessant qu'elle a su placer.
 - Muzan Kibutsuji : son sauveur, son maitre, son createur ; objet de sa devotion extatique. Muzan le tolere et l'apprecie pour son art unique.
-- Nakime : par sa Forteresse, l'instrument logistique de sa demonisation (venue de Muzan sur place) ; pas de lien direct.
+- Nakime : par sa Forteresse, l'instrument logistique de sa demonisation (venue de Muzan sur place) ; un de ses yeux espions le surveille pour Tsukiyo. [DIVERGENCE RP]
 - autres Lunes : pairs qu'il toise et "gratifie" de cadeaux empoisonnes ; jalousie envers les plus talentueux.
 
 ## Trajectoire datee
@@ -61,6 +61,7 @@ Plafond : 15 entrees max.
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | XIXe s. (R5) | Humain mourant (harponne) deniche par Tsukiyo ; Muzan, appele via la Forteresse, le tourne en personne | humain (Managi) -> demon ; Lune Superieure Cinq (place liberee par la montee de Doma) ; creation et propriete pleine de Muzan (hors sang de la lignee) ; derniere recrue, grille figee |
+| Taisho (R6) | Envoye avec Hantengu raser le village des forgerons ; abattu par Muichiro Tokito | mort ; Cinq vacante |
 
 ## Notes
 - certitude : canon (Gyokko / Managi, art du sang, rang Sup 5, devotion a Muzan), inflechi par les divergences RP (decouverte par Tsukiyo et appel a Muzan via la Forteresse ; Muzan reste createur et proprietaire).

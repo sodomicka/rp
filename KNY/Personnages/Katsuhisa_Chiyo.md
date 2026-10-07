@@ -1,6 +1,6 @@
 # Katsuhisa et Chiyo
 
-- version : W1
+- version : W2
 
 ## Identite
 - noms : Katsuhisa Tsugikuni (aine, garcon) ; Chiyo Tsugikuni (cadette, fille)
@@ -36,7 +36,7 @@ Avant-poste des enfants du Corps : maison de hameau au blason de glycine, au pie
 - version officielle apres R1 : mere tuee par des demons, pere parti la venger (lettre de fausse vengeance).
 
 ## Descendance [canon]
-Les enfants de Michikatsu sont les ancetres de Muichiro Tokito, Pilier de la Brume. Lequel des deux porte la lignee, et par quel chemin le nom devient Tokito : usage narratif ouvert (cf. BIBLE SB8).
+Les enfants de Michikatsu sont les ancetres de Muichiro Tokito, Pilier de la Brume. Lequel des deux porte la lignee : inconnu de tous, dans le monde comme hors du monde (decision worldbuilder). Origine du nom Tokito : non expliquee au canon, sans objet. Usage narratif du fil : a trancher en R7 (cf. BIBLE SB8 ; Personnages/Muichiro.md).
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
