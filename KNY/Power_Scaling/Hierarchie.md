@@ -1,6 +1,6 @@
 # Hierarchie de puissance
 
-- version : W2
+- version : W3
 
 ## Regles de lecture
 - Le couple UNI est la seule force au-dessus de Muzan, et Muzan le craint. [DIVERGENCE RP]
@@ -8,6 +8,7 @@
 - Hierarchie reelle des R3 : Muzan > Kokushibo > Tsukiyo >> gouffre >> Lunes Superieures Deux a Six. Elle est notoire jusqu'au retrait de Tsukiyo (R5), puis dissimulee aux Lunes.
 - Le rang Kizuki ne mesure pas le haut de la grille : Kokushibo porte la Lune Un comme etalon a depasser ; Tsukiyo et Nakime sont hors rang.
 - La Marque hisse un pourfendeur d'elite au niveau de certaines Lunes Superieures. [canon]
+- Demons tres forts (Muzan, Kokushibo, Tsukiyo, Doma, Akaza) : seuls le soleil et le Souffle du Soleil les blessent durablement ; la lame ecarlate les brule sans les tuer (cf. Systemes/Demons.md). Un pourfendeur peut les dominer, pas les tuer. [DIVERGENCE RP]
 
 ## Ere Sengoku, avant la demonisation (R1)
 | Palier | Entite | Reperes |
@@ -52,6 +53,19 @@
 | Lunes Inferieures | Enmu, Rui... | tombent face a un Hashira seul ou a des pourfendeurs aguerris |
 - Inchanges : Nakime (~Lune Sup Quatre, valeur logistique), Tamayo et Yushiro (hors grille, faibles au combat direct).
 - La Marque generalisee aux Hashira (fin R6) leur ouvre le palier des Hashira marques ; Tsukiyo l'ignore. [angle mort RP]
+
+## Ere Taisho (R7, la Forteresse)
+| Palier | Entite | Reperes |
+|---|---|---|
+| au-dessus de Muzan | le couple uni | epuise par la nuit, domine par Gyomei marque, sans pouvoir etre tue ; sauve par Nakime |
+| sommet individuel | Muzan | affaibli par le poison de Tamayo le temps de le digerer ; tue Giyu, Mitsuri et Obanai ; absorbe Nezuko |
+| proche de Muzan | Kokushibo | en difficulte face a Muichiro, Genya, Sanemi et Gyomei : forme mutee |
+| sous Kokushibo | Tsukiyo | tue Shinobu, Yushiro, Tamayo et Zenitsu |
+| Hashira marques | Gyomei au sommet | dominent le couple epuise sans pouvoir le tuer |
+| Lune Sup Deux | Doma | tue Inosuke et Kanao ; seule Lune survivante hors la famille |
+| Lune Sup Trois | Akaza | s'autodetruit face a Tanjiro et Giyu |
+| Lune Sup Six | Kaigaku | abattu par Zenitsu |
+- Nakime (~Lune Sup Quatre en force brute) : la Forteresse lui suffit a ecraser un Hashira marque.
 
 ---
 
