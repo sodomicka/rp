@@ -1,7 +1,7 @@
 # Roadmap_R6_La_Piste
 
 - statut : validee au grain de l'itineraire ; detail de scene en Passe 3
-- version : W1
+- version : W2
 - perspective : Tsukiyo (retiree sans rang, "demie lune" de Kokushibo)
 - portee : ere Taisho, du massacre des Kamado a la veille de l'attaque du QG du Corps ; l'arc ou l'echec des Lunes cede la place a la piste Nezuko
 
@@ -23,22 +23,22 @@
 | 4 | RETOUR ET PURGE (jouable). Reunion a la Forteresse. Tsukiyo, intriguee, fait son rapport a Muzan : un garcon portant les boucles de Yoriichi et la Marque, une petite demone a ses cotes - une piste plus prometteuse que l'echec des Lunes. Muzan purge les Lunes Inferieures survivantes (Rokuro, Wakuraba, Mukago, Kamanue) et envoie Gyokko et Hantengu raser le village des forgerons [canon]. | Forteresse Infinie | Tsukiyo ; Muzan ; Kokushibo ; Nakime ; Doma ; Akaza ; Hantengu ; Gyokko ; Lunes Inferieures | Muzan apprend la fratrie par Tsukiyo [DIVERGENCE RP] ; purge apres les Quartiers [DIVERGENCE RP - canon : avant le Train] | une nuit | Lunes Inferieures eteintes ; piste posee devant Muzan ; Gyokko et Hantengu en route. |
 | 5 | LE VILLAGE DES FORGERONS (charniere, [SNAPSHOTS]). Muichiro abat Gyokko ; Tanjiro, Nezuko, Genya et Mitsuri acculent Hantengu [canon]. A l'aube, Nezuko surmonte le soleil. Un oeil de Nakime planque sur Hantengu le voit : Tsukiyo tient la preuve avant Muzan [DIVERGENCE RP - canon : Hantengu previent Muzan]. Gyokko et Hantengu tombent. | village des forgerons | Gyokko ; Hantengu ; Tanjiro ; Nezuko ; Muichiro ; Mitsuri ; Genya ; Nakime (yeux) | fil Nezuko (R2, precedent Tamayo) : la piste se confirme ; Muichiro, descendant du couple (fil Tokito, R7) | jours ; combat : une nuit jusqu'a l'aube | Gyokko et Hantengu tombent ; Nezuko surmonte le soleil ; piste confirmee ; Nezuko devient la cible de Muzan. |
 | 6 | LE DISCIPLE (jouable). L'eternite enfin en vue, Kokushibo prend pour la premiere fois un disciple : Kaigaku, pourfendeur du Tonnerre, qui se prosterne et implore le sang par peur [canon]. Kokushibo le tourne et le garde (sang libre : son vassal) ; Muzan lui grave la Lune Superieure Six. Kokushibo n'en tire que de la deception : lui et son epouse sont des exceptions, pourfendeurs faits demons par ambition, jamais par peur ni lachete. Tsukiyo s'amuse du nouveau jouet. Jigoro Kuwajima, maitre de Kaigaku, se donne la mort [canon, hors champ]. | lieu a poser ; Forteresse | Kokushibo ; Kaigaku ; Tsukiyo ; Muzan | Kaigaku / Zenitsu (Forteresse, R7) | [INCERTAIN] | Kaigaku tourne, vassal de Kokushibo, Lune Superieure Six. |
-| 7 | LE CALME (jouable). Kokushibo entraine Kaigaku, son disciple decevant ; Tsukiyo s'en amuse. Derniers moments de calme de la cellule familiale (le couple et Nakime) : la piste confirmee, ils peuvent enfin se projeter dans l'avenir. [Angle mort de Tsukiyo] : les Hashira generalisent la Marque a partir de celle de Tanjiro ; Zenitsu apprend la trahison de Kaigaku [canon]. | repaire du couple ; Forteresse | Tsukiyo ; Kokushibo ; Nakime ; Kaigaku | cellule familiale (paix finale) ; Marques generalisees ignorees de Tsukiyo (Forteresse, R7) | semaines | Kaigaku forme ; famille projetee vers l'avenir ; veille de l'attaque du QG -> ferme R6. |
+| 7 | LE CALME (jouable). Kokushibo entraine Kaigaku, son disciple decevant ; Tsukiyo s'en amuse. Derniers moments de calme de la cellule familiale (le couple et Nakime) : la piste confirmee, ils peuvent enfin se projeter dans l'avenir. [Angle mort de Tsukiyo] : les Hashira generalisent la Marque a partir de celle de Tanjiro ; Zenitsu apprend la trahison de Kaigaku [canon] ; Tamayo identifie Tsukiyo pour le Corps. | repaire du couple ; Forteresse | Tsukiyo ; Kokushibo ; Nakime ; Kaigaku | cellule familiale (paix finale) ; Marques generalisees ignorees de Tsukiyo (Forteresse, R7) | semaines | Kaigaku forme ; famille projetee vers l'avenir ; veille de l'attaque du QG -> ferme R6. |
 
 ## Bifurcations
 - Aucune. Trajectoire canon-RP figee.
 
 ## Conditions de cloture
 - Lunes Superieures : Kokushibo Un, Doma Deux (vassal de Tsukiyo), Akaza Trois, Kaigaku Six (vassal de Kokushibo) ; Quatre et Cinq vacantes. Daki et Gyutaro, Hantengu, Gyokko tombes.
-- Lunes Inferieures eteintes : Rui et Enmu au combat ; Rokuro, Wakuraba, Mukago, Kamanue purges.
+- Lunes Inferieures eteintes (combats, puis purge).
 - Morts du Corps : Rengoku (Akaza) ; Tengen et ses trois epouses (Tsukiyo).
 - Fratrie Kamado epargnee ; Nezuko a surmonte le soleil, cible de Muzan ; piste de Tsukiyo confirmee.
 - Le Corps a vu la "demie lune" : cheveux prehensiles, un "1" dans l'oeil gauche, un pilier abattu d'un coup.
-- Tamayo et Yushiro allies de la fratrie, porteurs du sang de Nezuko : angle mort de Tsukiyo.
+- Tamayo et Yushiro allies de la fratrie, porteurs du sang de Nezuko ; Tamayo a identifie Tsukiyo pour le Corps : angle mort de Tsukiyo.
 - Angle mort de Tsukiyo : Hashira marques sur le modele de Tanjiro ; Zenitsu sait la trahison de Kaigaku.
-- Kaigaku entraine par Kokushibo. Cellule familiale en paix, projetee vers l'avenir. Nakime toujours satellite sans titre, yeux espions sur les Lunes Superieures.
+- Kaigaku entraine par Kokushibo. Cellule familiale en paix, projetee vers l'avenir.
 - Echelle temporelle de l'arc : ~3 ans, ere Taisho (13 ans au massacre [canon] + 2 ans chez Urokodaki = 15 ans a la Selection ; puis ~11 mois de service [INCERTAIN]).
-- Enchaine sur R7 - La Forteresse (piege de l'Oyakata -> absorption de Nezuko).
+- Enchaine sur R7 - La Forteresse (cf. Roadmap_R7_La_Forteresse.md).
 
 ---
 FIN_WIKI_ROADMAP_R6_LA_PISTE

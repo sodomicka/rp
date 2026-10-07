@@ -1,12 +1,12 @@
 # 00_Garde_Cap
 
-- version : W4
+- version : W5
 
 ## Cadre
 - role : ligne directrice de la saga, perspective Tsukiyo. Porte les beats voulus depuis la Passe 1 ; previsionnel, mis a jour pour coller aux roadmaps. Sert de base de decoupage des roadmaps.
 - statut : source de BUILD uniquement (dossier Roadmap/ : non indexe au Sommaire, jamais fetche en narration). Budget : derogation worldbuilder a 15 000 caracteres.
 - portee : trajectoire complete, ere Heian a la paix Taisho, perspective de la lignee Tsukiyo / Kokushibo.
-- resolution : R1-R6 roadmappees (en cas d'ecart, la roadmap fait foi) ; R7+ = grandes lignes actees, a roadmapper.
+- resolution : R1-R7 roadmappees (en cas d'ecart, la roadmap fait foi) ; R8 = grandes lignes actees, a roadmapper.
 - datation : par ere ET par siecle. L'ordre d'arrivee des demons est fixe par le worldbuilder ; le canon, imprecis sur ce point, est cale sur cette timeline. Exception : Muzan, cale sur le canon (plus de mille ans a l'ere Taisho).
 - convention : canon et divergences fondus. Le marqueur [RP] signale un beat qui devie du manga ; l'absence de marqueur = conforme au canon.
 
@@ -56,7 +56,7 @@ Muzan (IXe-Xe) ; Kokushibo & Tsukiyo (XVe) ; Tamayo (XVe) ; Yushiro (XVIe) ; Aka
 - La liste des Lunes Superieures est desormais figee : du XIXe siecle jusqu'au conflit final de Taisho, les pourfendeurs n'en abattent aucune.
 - Longue accalmie : la cellule familiale (le couple et Nakime) s'installe dans une routine paisible. Apogee de Kokushibo : ses six yeux s'ouvrent, pleine maitrise du Souffle de la Lune.
 
-## Ere Taisho (XXe siecle) - R6 roadmappee, R7+ en grandes lignes actees
+## Ere Taisho (XXe siecle) - R6-R7 roadmappees, R8 en grandes lignes actees
 
 ### La Piste (R6)
 - [XXe siecle] Muzan convertit Nezuko et massacre les Kamado ; le couple s'en desinteresse, le roi a bien le droit de s'amuser. Muzan ne croise jamais Tanjiro et ignore la fratrie. [RP] Les Lunes Inferieures commencent a tomber face a une nouvelle generation de pourfendeurs (Rui a Natagumo).
@@ -68,12 +68,11 @@ Muzan (IXe-Xe) ; Kokushibo & Tsukiyo (XVe) ; Tamayo (XVe) ; Yushiro (XVIe) ; Aka
 - Le calme : Kokushibo entraine Kaigaku ; la cellule familiale vit ses derniers jours de calme et se projette enfin. Nakime demeure en retrait, sans titre. Angle mort de Tsukiyo : les Hashira generalisent la Marque a partir de celle de Tanjiro. [RP]
 
 ### La Forteresse Infinie [RP]
-- Muzan attaque le QG du Corps et tombe dans le piege-sacrifice de l'Oyakata. Sur ordre de Tsukiyo, Nakime aspire le Corps tout entier dans la Forteresse et en extrait Muzan. Tsukiyo se poste pres de sa fille et intervient de combat en combat par les passages de la Forteresse.
-- Akaza, accule par Tanjiro et le pilier de l'Eau, retrouve ses souvenirs humains et s'autodetruit. Tsukiyo regarde sans bouger, satisfaite de ne pas l'avoir garde pour elle.
-- Face a Doma, Tsukiyo tue Shinobu avant qu'il ne l'absorbe, lui glissant qu'il est idiot de n'avoir pas senti la glycine dans ce sang. Prive du poison qui l'aurait tue, Doma affronte Inosuke et Kanao, les tue, et se repait du cadavre de Kanao.
-- Yushiro se jette sur Nakime ; Tsukiyo le tue tres lentement sous les yeux de Tamayo, puis tue Tamayo - le poison qui aurait du sauver le Corps n'atteindra jamais Muzan. Zenitsu abat Kaigaku puis fonce vers Nakime ; surprise par sa vitesse, Tsukiyo le tue.
-- Kokushibo, en difficulte, combat dans une forme mutee et monstrueuse, ultime recours. Le couple se reunit, epuise par la nuit de combats. Reste Gyomei, le Hashira le plus puissant, marque, qui manque de les tuer ; c'est Nakime qui l'ecrase entre un sol et un plafond pour proteger ses parents.
-- Le couple rejoint Muzan, qui a tue le pilier de l'Eau, terrasse Tanjiro et absorbe Nezuko sous ses yeux : le roi tient enfin la resistance au soleil. Le couple acheve le garcon brise.
+- Muzan trouve le manoir de l'Oyakata, qui s'y sacrifie ; dans une attaque suicide, Tamayo lui injecte un poison tres puissant, a base de glycine. Au signal de Tsukiyo, Nakime aspire le Corps dans la Forteresse et isole Muzan, qui doit lui ceder Tamayo et se retire digerer.
+- Akaza, accule par Tanjiro et le pilier de l'Eau, retrouve ses souvenirs et s'autodetruit sous le regard de Tsukiyo. Elle tue Shinobu avant que Doma ne l'absorbe et le juge pathetique ; Doma tue Inosuke et Kanao.
+- Tsukiyo massacre Yushiro sous les yeux de Tamayo, la torture jusqu'a ce qu'elle supplie de mourir, obtient la planque de Nezuko - que Nakime capture - puis la tue. Zenitsu abat Kaigaku et fonce sur Nakime ; Tsukiyo le tue.
+- Kokushibo, face a Muichiro, Genya, Sanemi et Gyomei, tue Genya puis Sanemi et passe en forme mutee. Le couple reuni tue Muichiro, leur descendant ; Gyomei les domine, epuises, et Nakime l'ecrase.
+- Muzan, le poison digere, tue Giyu, Mitsuri et Obanai, terrasse Tanjiro et absorbe Nezuko : il tient la resistance au soleil. Le couple acheve le garcon.
 
 ### La victoire et la paix [RP]
 - Les derniers demons se reunissent. Tsukiyo brise Doma une derniere fois - il n'a toujours ete qu'une coquille vide dans laquelle elle s'est engouffree - et le cede a Muzan : dernier present, dernier jouet brise. Il ne sert plus a rien.
