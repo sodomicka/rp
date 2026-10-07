@@ -1,6 +1,6 @@
 # Tsukiyo
 
-- version : W11
+- version : W12
 - autre forme : cf. WIKI Personnages/Tsumiki.md (forme humaine, vie close a 21 ans)
 
 ## Identite
@@ -44,6 +44,7 @@ Dimensions amplifiees par la nature demoniaque :
 ## Capacites
 - abandon des membres humains au combat : ne se bat plus aux bras ni aux jambes.
 - Marque de Pourfendeur conservee : son effet (puissance, vitesse, precision accrues) persiste dans la forme demoniaque, comme chez Kokushibo. [DIVERGENCE RP]
+- point faible : le soleil et le Souffle du Soleil seuls ; la lame ecarlate la brule sans la tuer (cf. WIKI Systemes/Demons.md). [DIVERGENCE RP]
 - sens amplifies par la demonisation ; la lecture des trajectoires reste un talent, pas le Monde Transparent. [DIVERGENCE RP]
 - Kekkijutsu capillaire : cheveux extensibles, prehensiles, aceres. Combat par meches-lames ; deplacement en se portant sur ses cheveux ; don de sang en se percant la jugulaire pour en imbiber une meche.
 - niveau de puissance : superieur a Doma et a Akaza en permanence ; inferieur a Kokushibo et a Muzan. La force du couple vient de leur union.
@@ -84,6 +85,7 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 - Kaigaku : premier disciple de son epoux, decevant ; un jouet dont elle s'amuse, sans enjeu.
 - Tanjiro et Nezuko Kamado : la piste. Aux oreilles du garcon, les boucles de Yoriichi ; a ses cotes, une petite demone. Elle les epargne aux Quartiers.
 - Tengen Uzui : pilier du Son, tueur des Six ; elle l'abat apres avoir tue ses trois epouses sous ses yeux.
+- Muichiro Tokito : descendant du couple par un enfant qu'elle ne saura jamais nommer ; elle flaire ce sang a la Forteresse et le tue avec Kokushibo.
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
@@ -106,10 +108,16 @@ Plafond : leve - la Trajectoire reste dans la fiche principale tant que le budge
 | XIXe s. (R5) | Deniche Gyokko mourant et le livre a Muzan (tourne par le roi en personne, hors de son sang) | dernier reperage livre ; grille des Douze Kizuki complete et figee |
 | Taisho (R6) | Quartiers de plaisir : vient en personne se charger du tueur des Six ; tue les trois epouses de Tengen sous ses yeux, puis Tengen ; reconnait les boucles de Yoriichi aux oreilles de Tanjiro et epargne la fratrie ; rapport intrigue a Muzan a la Forteresse | le Corps a vu la demie lune ; piste posee devant Muzan, qui purge les Lunes Inferieures |
 | Taisho (R6) | Au Village, un oeil de Nakime voit Nezuko surmonter le soleil ; Kokushibo prend Kaigaku pour disciple ; jours de calme en famille | tient la preuve avant Muzan ; nouveau jouet ; la famille se projette enfin dans l'avenir |
+| Taisho (R7) | Accompagne Muzan au manoir de l'Oyakata, dissimulee ; apres le sacrifice de l'Oyakata et l'attaque suicide de Tamayo, donne le signal : Nakime aspire le Corps et isole Muzan ; somme le roi empoisonne de lui ceder Tamayo | levier de la Forteresse joue ; Tamayo prisonniere ; se poste pres de sa fille |
+| Taisho (R7) | Regarde Akaza s'autodetruire ; tue Shinobu avant que Doma ne l'absorbe et le juge pathetique (il n'a pas senti la glycine) | satisfaite de ne pas avoir garde Akaza ; Doma prive du poison, deconsidere |
+| Taisho (R7) | Massacre Yushiro tres lentement sous les yeux de Tamayo ; torture Tamayo, ses meches dans les veines, jusqu'a ce qu'elle supplie de mourir ; Tamayo livre la planque de Nezuko, que Nakime capture ; tue Tamayo | promesse tenue ; decouvre l'alliance de Tamayo avec la fratrie ; Nezuko capturee |
+| Taisho (R7) | Tue Zenitsu, surprise par sa vitesse, quand il fonce sur Nakime | garde de Nakime tenue |
+| Taisho (R7) | Rejoint Kokushibo en forme mutee ; flaire le sang de Muichiro et le tue avec lui ; domines par Gyomei, sauves par Nakime | epuisee ; a tue sa propre descendance |
+| Taisho (R7) | Rejoint Muzan, qui a absorbe Nezuko ; acheve Tanjiro avec Kokushibo | la piste paie : Muzan tient la resistance au soleil |
 
 ## Notes
 - certitude globale : OC [DIVERGENCE RP]. Aucun filet canon hors de cette fiche.
-- descendance [canon] : les enfants Tsugikuni abandonnes sont les ancetres de Muichiro Tokito, pilier de la Brume (cf. Personnages/Muichiro.md) ; la branche exacte est inconnue de tous. Usage narratif a trancher en R7 (cf. BIBLE SB8).
+- descendance [canon] : les enfants Tsugikuni abandonnes sont les ancetres de Muichiro Tokito, pilier de la Brume (cf. Personnages/Muichiro.md) ; la branche exacte est inconnue de tous. Usage en R7 : Kokushibo reconnait un descendant, Tsukiyo flaire son sang ; ils le tuent ensemble (cf. Trajectoire).
 
 ---
 

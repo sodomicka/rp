@@ -1,6 +1,6 @@
 # Akaza
 
-- version : W7
+- version : W8
 
 ## Identite
 - nom demon : Akaza
@@ -36,6 +36,7 @@ Fanatique de la force pure, structure par une seule loi : devenir le plus fort. 
 ## Capacites
 - Art demoniaque du sang - technique martiale destructrice a mains nues : art du combat rapproche pousse au surnaturel, frappes capables de pulveriser la matiere. Detail des formes : cf. WIKI Systemes/Arts_Demoniaques.md.
 - detection de combat ("boussole" interne) : lit l'aura combative et l'intention de tuer de l'adversaire, anticipe et apprend les techniques adverses en plein affrontement.
+- demon tres fort : seuls le soleil et le Souffle du Soleil le blessent durablement ; la lame ecarlate le brule sans le tuer ; un poison concu contre lui l'affaiblit (cf. WIKI Systemes/Demons.md). [DIVERGENCE RP]
 - combattant de premier ordre, mais martialement SOUS Doma ; loin sous Tsukiyo, le couple uni et Muzan.
 - issu de la lignee de Tsukiyo : transforme par un sang de fort calibre (saturation equivalent Lune Superieure Deux) ; sa puissance realisee s'arrete a la Trois.
 - amnesie exploitee : Tsukiyo se sert de sa table rase pour le forger en arme de combat brute, sans psyche encombrante.
@@ -52,15 +53,15 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 ## Relations
 - Tsukiyo (Tsumiki Tsugikuni) : sa creatrice, indifferente a lui. Il cherche a lui plaire, n'obtient rien : le sens unique le ronge. Il ne lui appartient pas - elle ne le revendique pas comme ses favoris.
 - Muzan Kibutsuji : son suzerain reel ; c'est a lui qu'Akaza appartient, et non a la lignee qui l'a fait. Muzan se l'est approprie en lui reinjectant son sang a l'offre de Tsukiyo.
-- Doma : co-creation de Tsukiyo, rival de rang et favori visible de la maitresse. Cible de toute la frustration d'Akaza. L'a battu a la loyale pour la Lune Superieure Deux ; Akaza nie la defaite et exige revanche, Doma repond par un rire insincere. Akaza ignore le vrai ressort du favoritisme : l'utilite, pas la force. Il ignore aussi que l'ascension de Doma (parti faible, Lune Six) fut un aiguillon tendu par Tsukiyo pour le pousser, lui, a se depasser.
+- Doma : co-creation de Tsukiyo, rival de rang et favori visible ; cible de toute sa frustration (cf. Personnalite). Il ignore que l'ascension de Doma fut un aiguillon tendu par Tsukiyo pour le pousser, lui, a se depasser.
 - Hantengu : souffre-douleur commun avec Doma. Creature-jouet de Tsukiyo, defouloir partage des deux Lunes.
-- Tamayo (miroir, sans contact) : le seul autre demon qui POURRAIT connaitre un reveil de l'humanite, mais la sienne reste muree faute de souvenirs. S'il les retrouvait, il detesterait ce qu'il est devenu. Miroir noir de Tamayo - aucun contact entre eux, simple echo thematique ; le devenir de cette memoire releve de la Trajectoire (R7).
+- Tamayo (miroir, sans contact) : seul autre demon capable d'un reveil de l'humanite ; le sien attend des souvenirs perdus (cf. Trajectoire R7).
 - Kokushibo : moitie du couple, tres au-dessus de lui ; rapport lointain, sans lien particulier.
 - Nakime : satellite du couple ; pas de rapport notable.
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : 15 entrees max.
+Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
@@ -68,11 +69,12 @@ Plafond : 15 entrees max.
 | XVIe s. (R4) | Tsukiyo lance Doma comme rival monte de Lune Six : aiguillon pour le pousser a se depasser | rivalite (en partie fabriquee) avec Doma installee ; rancoeur de fond amorcee |
 | XVIIIe s. (R5) | Jubile a l'idee d'ecraser Doma au duel (le croit parvenu monte trop vite), mais mange le parquet ; reste Lune Sup Trois | humiliation fondatrice ; rancoeur envers Doma soudee ; revanche perpetuelle installee (deversee aussi sur Hantengu) |
 | Taisho (R6) | Envoye par Muzan mater l'audace des pourfendeurs : tue Rengoku, pilier de la Flamme, au Train de l'Infini ; fuit l'aube | premier pilier tombe a l'ere Taisho ; dette du Corps envers lui |
+| Taisho (R7) | Forteresse : accule par Tanjiro et Giyu, retrouve ses souvenirs humains et s'autodetruit, sous le regard immobile de Tsukiyo | mort ; humanite retrouvee trop tard |
 
 ## Notes
 - certitude : canon (Akaza / Hakuji), inflechie par les divergences RP (createur = Tsukiyo et non Muzan ; indifference subie ; reprise par Muzan via reinjection ; defaite a la loyale contre Doma et revanche perpetuelle ; appartenance a Muzan plutot qu'a la lignee).
 - detail de la rencontre et du tournage (scene du massacre, couple attire par l'odeur du sang, indifference de Tsukiyo) : -> roadmap (Passe 2).
-- amnesie de la vie humaine : conforme au canon ; ici exploitee comme table rase. Sort final : grandes lignes actees (Roadmap/Tsukiyo/00_Garde_Cap.md, build uniquement) ; Trajectoire a alimenter apres R7.
+- amnesie de la vie humaine : conforme au canon ; ici exploitee comme table rase. Sort final : R7 (cf. Trajectoire).
 - backstory humaine de reference : misere, pere malade puis suicide, vols, tatouages de criminel ; recueilli par un maitre de dojo et sa fille Koyuki ; puits empoisonne par un dojo rival, mort du maitre et de Koyuki ; massacre du dojo rival a mains nues. [le nom du maitre et le compte exact des morts a confirmer si besoin en scene]
 
 ---

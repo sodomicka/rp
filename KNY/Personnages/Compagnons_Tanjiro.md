@@ -1,6 +1,6 @@
 # Compagnons de Tanjiro
 
-- version : W1
+- version : W2
 
 ## Identite
 - entite : les pourfendeurs de la generation de Tanjiro qui combattent a ses cotes - Zenitsu Agatsuma, Inosuke Hashibira, Genya Shinazugawa
@@ -56,7 +56,7 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee).
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : 15 entrees max.
+Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
@@ -65,10 +65,13 @@ Plafond : 15 entrees max.
 | Taisho (R6) | Quartiers : Zenitsu et Inosuke abattent Daki ; temoins de Tsukiyo, epargnes | ont vu la "demie lune" |
 | Taisho (R6) | Village des forgerons : Genya face a Hantengu | Lune Superieure Quatre tombee |
 | Taisho (R6) | Entrainement des Piliers : Zenitsu apprend la trahison de Kaigaku et la mort de Jigoro | haine de Kaigaku (angle mort de Tsukiyo) |
+| Taisho (R7) | Inosuke affronte Doma avec Kanao apres la mort de Shinobu ; tue | Inosuke mort |
+| Taisho (R7) | Zenitsu abat Kaigaku, puis fonce sur Nakime ; tue par Tsukiyo | Zenitsu mort |
+| Taisho (R7) | Genya combat Kokushibo aux cotes de Muichiro, Sanemi et Gyomei ; tue par Kokushibo | Genya mort |
 
 ## Notes
 - mineurs : violence possible, aucune romance ni sexualisation.
-- sorts : grandes lignes actees pour Zenitsu et Inosuke (Roadmap/Tsukiyo/00_Garde_Cap.md, build uniquement) ; Genya a trancher en R7. Trajectoire a alimenter apres R7.
+- sorts : R7 (cf. Trajectoire).
 
 ---
 

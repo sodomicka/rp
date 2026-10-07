@@ -1,6 +1,6 @@
 # Nakime
 
-- version : W6
+- version : W7
 
 ## Identite
 - nom demon : Nakime
@@ -52,13 +52,15 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : 15 entrees max.
+Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | XVIIIe s. (R5) | Reperee humaine par le couple (quartier des plaisirs d'une petite ville ; l'odeur de ses proies-predateurs les attire) ; coup de coeur de Tsukiyo, qui la tourne et l'adopte | humaine (Tsumiki, joueuse de biwa) -> demone ; fille adoptive, satellite de Kokushibo (pas de rang) ; Muzan grave le "1" de Kokushibo dans son oeil (demie lune) ; Forteresse integree comme infra de l'empire et levier latent du trio |
 | Taisho (R6) | Ses yeux sur les Lunes Superieures annoncent a sa mere la chute de Daki et Gyutaro ; la Forteresse accueille la reunion du rapport et la purge des Lunes Inferieures | messagere de la piste |
 | Taisho (R6) | Au Village, l'oeil planque sur Hantengu voit Nezuko surmonter le soleil ; jours de calme en famille | livre a sa mere la preuve avant Muzan ; toujours sans titre |
+| Taisho (R7) | Au signal de sa mere, aspire le Corps dans la Forteresse et isole Muzan ; cible prioritaire du Corps (son "1" lu), gardee par Tsukiyo contre Yushiro et Zenitsu ; capture Nezuko a sa planque | levier de la Forteresse joue |
+| Taisho (R7) | Ecrase Gyomei entre un sol et un plafond quand il domine ses parents epuises | sauve le couple ; intacte |
 
 ## Notes
 - certitude : canon (entite, biwa, Forteresse), inflechie par les divergences RP (nom humain Tsumiki, filiation et lignee Tsukiyo, statut hors-rang / satellite de Kokushibo, allegeance au couple).

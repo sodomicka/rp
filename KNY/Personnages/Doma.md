@@ -1,6 +1,6 @@
 # Doma
 
-- version : W7
+- version : W8
 
 ## Identite
 - nom demon : Doma
@@ -34,6 +34,7 @@
 ## Capacites
 - Art demoniaque du sang - cryokinesie : givre et glace a volonte. Poudre de glace gelante et sedative qu'il diffuse et que les victimes inhalent ; fragments et lames de glace ; constructs animes (lotus, effigies de glace) ; congelation de l'air et des fluides. Detail des formes : cf. WIKI Systemes/Arts_Demoniaques.md.
 - combattant de premier ordre : Lune Superieure Deux, l'une des Lunes les plus puissantes. Martialement au-dessus d'Akaza ; sous Tsukiyo (et a fortiori le couple uni et Muzan).
+- demon tres fort : seuls le soleil et le Souffle du Soleil le blessent durablement ; la lame ecarlate le brule sans le tuer ; un poison concu contre lui l'affaiblit (cf. WIKI Systemes/Demons.md). [DIVERGENCE RP]
 - arme sociale : son vide emotionnel comme atout strategique - lecture et manipulation sans angle mort affectif.
 - issu de la lignee de Tsukiyo : transforme par un sang de fort calibre, dont sa puissance de Lune Superieure Deux est a la hauteur.
 
@@ -59,7 +60,7 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : 15 entrees max.
+Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
@@ -67,6 +68,7 @@ Plafond : 15 entrees max.
 | XVIe s. (R4) | Sur consigne, debute Lune Superieure Six (sandbag) et grimpe vite, en appat tendu a Akaza ; sa secte devient l'antenne de rabattage de la lignee | Lune Sup Six (force reelle masquee) ; rabatteur officiel ; rivalite avec Akaza installee |
 | XVIIIe s. (R5) | Rabat Daki & Gyutaro (mourants, quartier des plaisirs) et les remet a Tsukiyo ; monte Lune Sup Six -> Cinq (libere la Six pour la fratrie) | Lune Sup Cinq ; sa montee graduelle commence a agacer Akaza |
 | XVIIIe s. (R5) | Au duel, galvanise par Tsukiyo (qui met son propre rang en jeu), leve le sandbag et demolit Akaza | Lune Sup Cinq -> Deux ; supplante Akaza ; reste vassal-prodige de Tsukiyo |
+| Taisho (R7) | Forteresse : se jette sur Shinobu, saturee de glycine, si presse de la devorer qu'il ne sent pas le poison ; Tsukiyo la tue avant l'absorption et le juge pathetique. Tue Inosuke et Kanao, se repait du cadavre de Kanao | intact ; deconsidere aux yeux de Tsukiyo ; seule Lune survivante hors la famille |
 
 ## Notes
 - certitude : canon (Doma), inflechie par les divergences RP (createur = Tsukiyo et non Muzan, vassalite, fascination-loyaute envers elle, rabatteur de la lignee).

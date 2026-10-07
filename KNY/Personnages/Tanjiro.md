@@ -1,6 +1,6 @@
 # Tanjiro Kamado
 
-- version : W1
+- version : W2
 
 ## Identite
 - nom : Tanjiro Kamado
@@ -30,7 +30,7 @@
 
 ## Capacites
 - odorat d'exception : flaire les emotions, les mensonges, et le "fil de l'ouverture" qui guide sa lame vers le point faible [canon].
-- Souffle de l'Eau (Urokodaki), puis Hinokami Kagura, souvenir de la danse de son pere, qui s'avere etre le Souffle du Soleil sous forme ritualisee [canon]. Detail des formes : cf. Systemes/Souffles.md.
+- Souffle de l'Eau (Urokodaki), puis Hinokami Kagura, souvenir de la danse de son pere, qui s'avere etre le Souffle du Soleil sous forme ritualisee [canon] : seule arme capable de blesser durablement les demons tres forts (cf. Systemes/Demons.md). Detail des formes : cf. Systemes/Souffles.md.
 - Concentration totale constante acquise au domaine des papillons, apres Natagumo et avant le Train [canon].
 - Marque de Pourfendeur eveillee aux Quartiers de plaisir [canon] ; modele a partir duquel les Hashira generalisent la Marque.
 - lame Nichirin noire, couleur rare [canon].
@@ -50,12 +50,12 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee).
 - Tamayo et Yushiro : allies secrets, chercheurs du remede [canon].
 - Rengoku : figure d'aine, mort au Train sous ses yeux.
 - Tengen Uzui : chef de mission aux Quartiers, abattu sous ses yeux par Tsukiyo. [DIVERGENCE RP]
-- Tsukiyo : la "demie lune" qui l'a epargne sans qu'il sache pourquoi ; il ignore son nom et son lien a ses boucles. [DIVERGENCE RP]
+- Tsukiyo : la "demie lune" qui l'a epargne sans qu'il sache pourquoi ; par Tamayo, il apprend qui elle est - l'epouse de la Lune Superieure Un - sans rien savoir de son lien a ses boucles. [DIVERGENCE RP]
 - Muzan : meurtrier de sa famille ; connu par l'odeur et par Tamayo, jamais vu en R6. [DIVERGENCE RP]
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : 15 entrees max.
+Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
@@ -66,10 +66,12 @@ Plafond : 15 entrees max.
 | Taisho (R6) | Quartiers de plaisir : Daki et Gyutaro tombent ; Tsukiyo tue les epouses de Tengen puis Tengen sous ses yeux, et l'epargne avec sa soeur | Marque eveillee ; a vu la "demie lune" ; epargne sur une piste qu'il ignore |
 | Taisho (R6) | Village des forgerons : Hantengu tombe ; Nezuko surmonte le soleil | sa soeur echappe au soleil |
 | Taisho (R6) | Entrainement des Piliers | sa Marque sert de modele a celle des Hashira |
+| Taisho (R7) | Forteresse : avec Giyu, accule Akaza, qui s'autodetruit | Lune Sup Trois tombee |
+| Taisho (R7) | Rejoint Muzan avec Giyu ; Muzan tue Giyu, Mitsuri et Obanai, le terrasse et absorbe Nezuko sous ses yeux ; le couple l'acheve | mort ; la danse du Soleil s'eteint avec lui [IMPLICITE] |
 
 ## Notes
 - mineur : violence possible, aucune romance ni sexualisation.
-- sort final : grandes lignes actees (Roadmap/Tsukiyo/00_Garde_Cap.md, build uniquement) ; Trajectoire a alimenter apres R7.
+- sort final : R7 (cf. Trajectoire).
 - noms des freres et soeurs Kamado : canon ; ages et detail du massacre a confirmer si une scene l'exige.
 
 ---

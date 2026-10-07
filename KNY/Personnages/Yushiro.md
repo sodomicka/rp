@@ -1,6 +1,6 @@
 # Yushiro
 
-- version : W4
+- version : W5
 
 ## Identite
 - nom demon : Yushiro
@@ -52,19 +52,20 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 
 ## Trajectoire datee
 Vide a la genese (Passe 1). Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : 15 entrees max.
+Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | XVIe s. (R3) | Cree par Tamayo de son sang libre | naissance ; demon au sang libre (fidele a Tamayo, non a Muzan) ; debut de plusieurs siecles d'existence |
 | Taisho (R6) | Avec Tamayo, croise la fratrie Kamado et seconde la recherche du remede | allie de fait du Corps ; angle mort de Tsukiyo |
+| Taisho (R7) | Forteresse : entre avec le Corps ; fonce sur Nakime pour s'emparer des passages et liberer Tamayo, prisonniere de Tsukiyo ; massacre tres lentement sous les yeux impuissants de Tamayo | mort |
 
 ## Notes
 - certitude : canon (Yushiro, cree par Tamayo, art du sang de perception, tsundere devot, refus de la chair humaine, immunite a Muzan), inflechi par les divergences RP (epoque de creation -> plusieurs siecles, sang libre).
 - divergence de sources ecartee : un pouvoir sur les "reves" prete par une source isolee ; le consensus le rattache a la vision et a la perception, retenu ici.
 - age et epoque de creation : ne a la rupture de Tamayo, XVIe s. (cf. Trajectoire).
-- sort final : grandes lignes actees (Roadmap/Tsukiyo/00_Garde_Cap.md, build uniquement) ; Trajectoire a alimenter apres R7.
-- note de coherence (roadmap) : au canon, Yushiro arrache a Muzan le controle de Nakime ; chez nous Nakime n'appartient pas a Muzan (sang libre de Tsukiyo), ce duel perd son sens - retraite en grandes lignes (00_Garde_Cap), detail en R7.
+- sort final : R7 (cf. Trajectoire).
+- note de coherence (roadmap) : au canon, Yushiro arrache a Muzan le controle de Nakime ; chez nous Nakime n'appartient pas a Muzan (sang libre de Tsukiyo), ce duel perd son sens : en R7, il fonce sur elle pour les passages et pour liberer Tamayo.
 
 ---
 

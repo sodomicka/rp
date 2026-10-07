@@ -1,6 +1,6 @@
 # Kokushibo
 
-- version : W10
+- version : W11
 - autre forme : cf. WIKI Personnages/Michikatsu.md (forme humaine, vie close a 24 ans)
 
 ## Identite
@@ -32,7 +32,8 @@ Meme noyau que l'humain (cf. Michikatsu), plus franc que sa femme : il dissimule
 - six yeux : vision percant le mouvement (muscles, flux sanguin, articulations) ; lit et anticipe les souffles adverses.
 - katana de chair : lame rouge veinee, couverte d'yeux, forgee de son propre corps ; s'allonge et se deforme a volonte ; aussi dure qu'un Nichirin.
 - Kekkijutsu : nuees de croissants de lune chaotiques, de tailles et vitesses variables, imprevisibles, projetes en symbiose avec le Souffle de la Lune.
-- regeneration superieure : survit a la decapitation tant que sa volonte tient.
+- regeneration superieure : seuls le soleil et le Souffle du Soleil le blessent durablement ; la lame ecarlate le brule sans le tuer (cf. WIKI Systemes/Demons.md).
+- forme mutee, ultime recours (ere Taisho) : lames de chair jaillies de tout le corps ; laisse des stigmates durables. Detail : cf. WIKI Systemes/Arts_Demoniaques.md.
 
 ### Souffle de la Lune
 Style originel cree par Michikatsu, derive par opposition au Souffle du Soleil. Seize formes : slashes doubles de croissants de lune. Detail des formes : cf. WIKI Systemes/Souffles.md. De ce souffle, Tsukiyo a derive le Souffle des Tenebres.
@@ -59,7 +60,7 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : 15 entrees max.
+Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
@@ -73,10 +74,12 @@ Plafond : 15 entrees max.
 | XIXe s. -> Taisho, accalmie (R5) | Apogee pendant la longue accalmie | ouvre ses 2 derniers yeux (4 -> 6, tous) ; maitrise pleine du Souffle de la Lune ; plein potentiel de demon atteint |
 | Taisho (R6) | Prend Kaigaku pour premier disciple : le tourne et le garde (sang libre) ; Muzan lui grave la Six | premier vassal de son sang ; deception |
 | Taisho (R6) | Entraine Kaigaku ; jours de calme avec Tsukiyo et Nakime, la piste confirmee | se projette enfin dans l'avenir |
+| Taisho (R7) | Forteresse : affronte Muichiro, Genya, Sanemi et Gyomei ; reconnait en Muichiro un descendant ; tue Genya puis Sanemi ; decapite, repousse et passe en forme mutee | stigmates durables |
+| Taisho (R7) | Reuni a Tsukiyo, tue Muichiro avec elle ; domines par Gyomei, sauves par Nakime ; rejoint Muzan et acheve Tanjiro | epuise ; a tue sa propre descendance |
 
 ## Notes
 - certitude : canon (Kokushibo / Michikatsu), inflechi par les divergences RP.
-- descendance des enfants abandonnes -> Muichiro Tokito, pilier de la Brume [canon] (cf. Personnages/Muichiro.md) ; branche exacte inconnue de tous ; usage narratif a trancher en R7 (cf. BIBLE SB8).
+- descendance des enfants abandonnes -> Muichiro Tokito, pilier de la Brume [canon] (cf. Personnages/Muichiro.md) ; branche exacte inconnue de tous ; en R7, il le reconnait au combat et le tue avec Tsukiyo (cf. Trajectoire).
 - meurtre de l'Oyakata de l'ere Sengoku : acte HUMAIN de Michikatsu (R1), anterieur a la demonisation - ne releve pas des faits post-demonisation de cette fiche.
 
 ---

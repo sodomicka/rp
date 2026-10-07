@@ -1,6 +1,6 @@
 # Kaigaku
 
-- version : W1
+- version : W2
 
 ## Identite
 - nom : Kaigaku (nom de famille inconnu au canon)
@@ -45,21 +45,22 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee).
 - Muzan : grave son rang ; ne le tient pas (sang libre de Kokushibo).
 - Jigoro Kuwajima : ancien maitre, ex-pilier de la Foudre ; se donne la mort a l'annonce de la trahison [canon].
 - Zenitsu Agatsuma : condisciple cadet, objet de sa haine (cf. Personnages/Compagnons_Tanjiro.md).
-- Gyomei Himejima : orphelin de son temple dans l'enfance, il y aurait laisse entrer le demon [INCERTAIN - fanbook, non verifie].
+- Gyomei Himejima : enfant, orphelin de son temple, il y a laisse entrer le demon pour sauver sa vie [canon - acte par le worldbuilder] ; Gyomei l'ignore [IMPLICITE]. Aucun usage en scene : ils ne se croisent pas.
 - autres Lunes : sans lien notable.
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : 15 entrees max.
+Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | Taisho (R6) | Se prosterne devant Kokushibo et implore le sang ; tourne et garde par lui ; Muzan lui grave la Six | pourfendeur -> demon ; Lune Superieure Six ; vassal de sang libre de Kokushibo ; jouet de Tsukiyo |
 | Taisho (R6) | Jigoro Kuwajima se donne la mort | rupture definitive avec le Corps |
 | Taisho (R6) | Entraine par Kokushibo | disciple decevant ; foudre noire affutee |
+| Taisho (R7) | Forteresse : affronte Zenitsu, qui l'abat ; meurt miserablement | mort |
 
 ## Notes
-- sort final : grandes lignes actees (Roadmap/Tsukiyo/00_Garde_Cap.md, build uniquement) ; Trajectoire a alimenter apres R7.
+- sort final : R7 (cf. Trajectoire).
 - lieu et circonstances de la prosternation : a poser en Passe 3.
 
 ---

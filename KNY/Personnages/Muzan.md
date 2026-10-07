@@ -1,6 +1,6 @@
 # Muzan
 
-- version : W8
+- version : W9
 
 ## Identite
 - nom demon : Muzan Kibutsuji
@@ -28,12 +28,13 @@
 ## Capacites
 - biokinesie : controle total de sa propre chair. Sept coeurs et cinq cerveaux disperses dans le corps - aucun point vital unique a frapper.
 - division corporelle : se scinde en fragments autonomes pour survivre ou fuir (recours employe face a Yoriichi).
-- sang-arme : projections et tentacules tranchants, cellules qu'il fait exploser a distance.
+- sang-arme : projections et tentacules tranchants, cellules qu'il fait exploser a distance. Panoplie de combat (fouets, sang-poison, bouches, absorption) : cf. WIKI Systemes/Arts_Demoniaques.md.
+- absorption : assimile un corps, humain ou demon, et ses proprietes - la voie par laquelle il compte prendre la resistance au soleil.
 - creation de demons : transforme un humain en demon par injection de son sang. Selectif - la plupart des humains meurent ; lui choisit.
 - controle du sang (la laisse) : commande a distance tout demon porteur de son sang, et percoit la trahison.
 - malediction du nom : prononcer "Kibutsuji" detruit les cellules du demon qui le dit - mort immediate. Fail-safe contre la delation.
 - regeneration extreme, immortalite biologique (ne vieillit pas).
-- faiblesses : le soleil (seule vraie mort), les lames Nichirin (decapitation durable), la glycine.
+- faiblesses : le soleil et le Souffle du Soleil, seuls a le blesser durablement ; la lame ecarlate le brule sans le tuer ; un poison concu contre lui l'affaiblit (cf. WIKI Systemes/Demons.md). [DIVERGENCE RP]
 - niveau : sommet individuel absolu de l'univers, un ordre de grandeur au-dessus de chaque Kizuki, hors Kokushibo qui s'en approche. Seul le couple UNI le depasse et le terrifie - fondement de l'equilibre de terreur.
 
 ## Role et statut etablis
@@ -56,7 +57,7 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : 15 entrees max.
+Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
@@ -75,6 +76,8 @@ Plafond : 15 entrees max.
 | Taisho (R6) | Rapport de Tsukiyo a la Forteresse ; purge les Lunes Inferieures ; envoie Gyokko et Hantengu au Village | apprend la fratrie par Tsukiyo |
 | Taisho (R6) | Perd Gyokko et Hantengu ; Nezuko surmonte le soleil | piste confirmee (preuve tenue d'abord par Tsukiyo) ; Nezuko cible |
 | Taisho (R6) | Grave la Six a Kaigaku | Six pourvue, hors de sa main |
+| Taisho (R7) | Trouve le manoir de l'Oyakata, qui l'y attend et s'y sacrifie ; Tamayo lui injecte un poison tres puissant, a base de glycine, et il la retient dans sa chair ; isole par Nakime au signal de Tsukiyo, il doit lui ceder Tamayo | empoisonne, affaibli le temps de le digerer ; plie devant Tsukiyo |
+| Taisho (R7) | Digere le poison ; tue Giyu, Mitsuri et Obanai ; terrasse Tanjiro ; absorbe Nezuko, capturee par Nakime | poison digere sans sequelle ; resistance au soleil acquise, pas encore eprouvee |
 
 ## Notes
 - certitude : canon (Muzan Kibutsuji), inflechi par les divergences RP.

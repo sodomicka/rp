@@ -1,6 +1,6 @@
 # Muichiro Tokito
 
-- version : W1
+- version : W2
 
 ## Identite
 - nom : Muichiro Tokito
@@ -37,7 +37,7 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee).
 - orphelin : pere bucheron mort en cherchant un remede pour sa mere malade, morte a son tour [canon].
 - recrute avec son frere par Amane, epouse de l'Oyakata, qui les sait descendants d'une lignee de pourfendeurs [INCERTAIN].
 - jumeau, descendant d'un jumeau (Michikatsu) : la lignee Tsugikuni repete ses jumeaux. [INTERPRETATION]
-- fil Tokito (Tchekhov SB8, plante en R1) : usage narratif a trancher en R7.
+- fil Tokito (Tchekhov SB8, plante en R1) : en R7, Kokushibo le reconnait pour descendant et Tsukiyo flaire son sang ; ils le tuent ensemble.
 
 ## Relations
 - Yuichiro : jumeau mort ; dur en paroles, protecteur en actes [canon].
@@ -45,22 +45,23 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee).
 - Hashira : pairs (cf. Personnages/Hashira_Taisho.md).
 - Tanjiro : la gentillesse de Tanjiro au Village l'aide a retrouver sa memoire [canon].
 - Gyokko : Lune Superieure Cinq, qu'il abat au Village.
-- Kokushibo, Tsukiyo : ancetres qu'il ignore ; aucun contact en R6.
+- Kokushibo, Tsukiyo : ses ancetres ; aucun contact en R6 ; ils le tuent ensemble a la Forteresse (R7).
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : 15 entrees max.
+Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | Taisho (R6) | Village des forgerons : abat Gyokko | Marque eveillee ; memoire retrouvee |
 | Taisho (R6) | Entrainement des Piliers | Hashira marque |
+| Taisho (R7) | Forteresse : affronte Kokushibo avec Genya, Sanemi et Gyomei ; reconnu par lui comme descendant [canon] ; tient jusqu'a l'arrivee de Tsukiyo ; finale contre le couple aux cotes de Gyomei ; tue par le couple ensemble | mort |
 
 ## Notes
 - mineur : violence possible, aucune romance ni sexualisation.
 - au Village, l'oeil de Nakime planque sur Gyokko le voit a l'oeuvre ; nul n'y lit une parente. [IMPLICITE]
 - origine du nom Tokito : non expliquee au canon ; sans objet.
-- sort : a trancher en R7 (cf. journal) ; Trajectoire a alimenter apres R7.
+- sort : R7 (cf. Trajectoire).
 
 ---
 

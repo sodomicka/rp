@@ -1,11 +1,11 @@
 # Hashira de l'ere Taisho
 
-- version : W1
+- version : W2
 
 ## Identite
 - entite : les piliers du Corps a l'ere Taisho, hors Tengen Uzui et Muichiro Tokito (fiches propres : Personnages/Tengen_Epouses.md, Personnages/Muichiro.md)
 - espece : humains
-- affiliation : Corps des Pourfendeurs, sous l'Oyakata de l'ere Taisho [canon]
+- affiliation : Corps des Pourfendeurs, sous l'Oyakata de l'ere Taisho [canon] (cf. Personnages/Ubuyashiki_Taisho.md)
 - ages : au canon [INCERTAIN]
 - certitude : canon, inflechi [DIVERGENCE RP]
 - detail des souffles et des formes : cf. Systemes/Souffles.md
@@ -22,7 +22,7 @@
 - trop frele pour decapiter : lame-dard injectant un poison de glycine de sa composition. Souffle de l'Insecte.
 - tient le domaine des papillons, infirmerie et centre d'entrainement du Corps ; tsuguko : Kanao.
 - plan secret : saturer son propre corps de glycine pour empoisonner Doma s'il la devore [canon].
-- collabore avec Tamayo sur le poison anti-Muzan [canon] - angle mort de Tsukiyo.
+- collabore avec Tamayo sur le poison anti-Muzan, tres puissant, a base de glycine [canon, inflechi] - angle mort de Tsukiyo.
 
 ## Kyojuro Rengoku - pilier de la Flamme
 - 20 ans. Chevelure en flammes, or et rouge ; regard grand ouvert.
@@ -38,7 +38,7 @@
 ## Gyomei Himejima - pilier de la Pierre
 - 27 ans. Aveugle, colossal ; chapelet aux mains, larmes constantes.
 - moine ; le plus fort des Hashira. Fleau et hache relies par une chaine.
-- ses orphelins du temple massacres par un demon, il fut accuse du carnage ; l'Oyakata l'a sauve.
+- ses orphelins du temple massacres par un demon, il fut accuse du carnage ; l'Oyakata l'a sauve. L'enfant qui a laisse entrer le demon etait Kaigaku [canon - acte par le worldbuilder] ; Gyomei l'ignore [IMPLICITE].
 
 ## Sanemi Shinazugawa - pilier du Vent
 - 21 ans. Cheveux blancs en bataille ; corps couvert de cicatrices.
@@ -54,12 +54,12 @@
 ## Role et statut etablis
 Faits stables (le devenir date arc par arc vit en Trajectoire datee).
 - elite du Corps ; aucune Lune Superieure n'est tombee depuis le XIXe s. (gel des rangs). [DIVERGENCE RP]
-- ignorent tout de Tsukiyo jusqu'aux Quartiers ; apres, ils savent qu'une demone sans rang, un "1" dans l'oeil gauche, abat un pilier d'un coup. [DIVERGENCE RP]
+- ignorent tout de Tsukiyo jusqu'aux Quartiers ; apres, ils savent qu'une demone sans rang, un "1" dans l'oeil gauche, abat un pilier d'un coup ; puis, par Tamayo, qui elle est : l'epouse de la Lune Superieure Un. [DIVERGENCE RP]
 - generalisent la Marque a partir de celle de Tanjiro ; Tsukiyo l'ignore. [canon ; angle mort RP]
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : 15 entrees max.
+Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
@@ -67,11 +67,16 @@ Plafond : 15 entrees max.
 | Taisho (R6) | Train de l'Infini : Rengoku tue par Akaza | pilier de la Flamme mort |
 | Taisho (R6) | Quartiers : rapport des temoins sur la "demie lune" | le Corps connait une demone hors grille |
 | Taisho (R6) | Village des forgerons : Mitsuri face a Hantengu | Marque eveillee (Mitsuri) |
+| Taisho (R6) | Tamayo identifie la demie lune : l'epouse de la Lune Superieure Un | le Corps sait qui a tue le pilier du Son |
 | Taisho (R6) | Entrainement des Piliers, sans le palier de Tengen | Hashira marques (angle mort de Tsukiyo) |
+| Taisho (R7) | Piege de l'Oyakata ; aspires dans la Forteresse | combat sur le terrain des demons |
+| Taisho (R7) | Shinobu tuee par Tsukiyo avant que Doma ne l'absorbe | pilier de l'Insecte mort ; plan contre Doma avorte |
+| Taisho (R7) | Sanemi tue par Kokushibo ; Gyomei domine le couple epuise, puis Nakime l'ecrase | piliers du Vent et de la Pierre morts |
+| Taisho (R7) | Giyu accule Akaza avec Tanjiro ; puis Muzan tue Giyu, Mitsuri et Obanai | piliers de l'Eau, de l'Amour et du Serpent morts ; plus aucun Hashira |
 
 ## Notes
-- sorts : grandes lignes actees pour Giyu, Shinobu et Gyomei (Roadmap/Tsukiyo/00_Garde_Cap.md, build uniquement) ; Sanemi, Mitsuri, Obanai a trancher en R7. Trajectoire a alimenter apres R7.
-- Kanao Tsuyuri : fiche en R7.
+- sorts : R7 (cf. Trajectoire).
+- Kanao Tsuyuri, tsuguko de Shinobu : cf. Personnages/Kanao.md.
 
 ---
 
