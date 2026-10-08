@@ -1,7 +1,7 @@
 # Roadmap_R4_Lunes_Anciennes
 
-- statut : a venir (grandes lignes ; detail a peaufiner)
-- version : W2
+- statut : validee au grain de l'itineraire ; detail de scene en Passe 3
+- version : W3
 - perspective : Tsukiyo (matriarche d'une lignee de Lunes)
 - portee : ere Sengoku tardive a XVIIe s., de la creation d'Akaza a celle de Hantengu (les trois Lunes anciennes)
 
@@ -9,7 +9,7 @@
 - Cloture R3 acquise : le couple est affranchi des deux leviers de Muzan ; l'obsession du soleil est l'objectif de fond du couple.
 - Kokushibo Lune Superieure Un (4 yeux ouverts / 2 fermes) ; Tsukiyo Lune Superieure Deux.
 - Hierarchie reelle, notoire : Muzan > Kokushibo > Tsukiyo >> gouffre >> Lunes 3+.
-- Programme des Douze Kizuki concu mais PAS encore peuple : aucune Lune de la lignee n'existe (Akaza sera la premiere).
+- Programme des Douze Kizuki concu mais PAS encore peuple : aucune Lune n'existe sous le couple (Akaza sera la premiere).
 - Tamayo est passee renegate (troisieme pole) ; Tsukiyo a jure sa perte. Yushiro existe (cree par Tamayo en R3).
 - Le haut de la grille tient ; le bas reste a remplir.
 

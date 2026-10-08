@@ -1,6 +1,6 @@
 # Daki et Gyutaro
 
-- version : W4
+- version : W5
 
 ## Identite
 - entite : fratrie demon a corps et rang partages - indissociable
@@ -55,7 +55,7 @@ Axe unique et dominant : la codependance fusionnelle. L'un sans l'autre n'est ri
 Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 - fratrie indissociable, un seul rang partage (Lune Superieure Six). [canon]
 - trouves humains et mourants par Doma (rabatteur), remis a Tsukiyo qui les tourne, puis offerts a Muzan. [DIVERGENCE RP]
-- monnaie d'echange de vassalite : avoir securise Doma comme SA Lune a coute a Tsukiyo d'autres Lunes promises a Muzan. Offrir Daki et Gyutaro - deux demons pour un seul rang - solde une part de ce du et facilite la negociation suivante : obtenir que Nakime, elle aussi, reponde a son sang plutot qu'a celui de Muzan. [DIVERGENCE RP]
+- monnaie d'echange de vassalite : avoir securise Doma comme SA Lune a coute a Tsukiyo d'autres Lunes promises a Muzan. Offrir Daki et Gyutaro - deux demons pour un seul rang - solde ce du, et au-dela : le surplus couvrira plus tard Nakime, qui repondra a son sang plutot qu'a celui de Muzan. [DIVERGENCE RP]
 - present bien choisi : Muzan prise les desesperes (precedent : Akaza, qu'il a adore) ; Tsukiyo le sait et livre exactement ce qui le ravira. [DIVERGENCE RP]
 - Kizuki de Muzan, non vassaux de la lignee : comme Akaza, ils appartiennent au roi, pas a Tsukiyo. [DIVERGENCE RP]
 - rang le plus precaire : la place de Sixieme est la cible des ambitions des Lunes Inferieures - d'ou leur insecurite et leur acharnement a se prouver.
@@ -69,7 +69,7 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : 15 entrees max.
+Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
@@ -79,8 +79,8 @@ Plafond : 15 entrees max.
 ## Notes
 - certitude : canon (Ume/Daki, Gyutaro), inflechie par les divergences RP (rabattus par Doma puis tournes par Tsukiyo - et non par Doma directement ; donnes a Muzan comme monnaie de vassalite ; psyche de lignee transactionnelle, tournee vers Muzan).
 - age d'Ume au bucher : ~13 ans [a confirmer si besoin en scene].
-- detail de la rencontre/livraison et de la negociation de vassalite (Doma -> Tsukiyo -> Muzan, levier Nakime) : -> roadmap (Passe 2).
-- detail des formes canon des deux Arts demoniaques du sang : a documenter a la boucle R6.
+- detail de la rencontre/livraison et de la negociation de vassalite (Doma -> Tsukiyo -> Muzan, surplus pour Nakime) : -> roadmap (Passe 2).
+- Arts demoniaques du sang : cf. WIKI Systemes/Arts_Demoniaques.md ; formes nommees du canon non documentees, a poser si une scene l'exige.
 - backstory humaine de reference : quartier des plaisirs (Yoshiwara) ; Gyutaro ne dans la misere, laid et maladif, rejete, devenu collecteur de dettes violent et redoute ; Ume, enfant du quartier des plaisirs, brulee vive vers 13 ans pour avoir creve l'oeil d'un samourai qui la maltraitait ; Gyutaro la rejoint, blesse a mort. [canon]
 
 ---

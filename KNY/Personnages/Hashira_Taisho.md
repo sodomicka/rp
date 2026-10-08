@@ -1,6 +1,6 @@
 # Hashira de l'ere Taisho
 
-- version : W2
+- version : W3
 
 ## Identite
 - entite : les piliers du Corps a l'ere Taisho, hors Tengen Uzui et Muichiro Tokito (fiches propres : Personnages/Tengen_Epouses.md, Personnages/Muichiro.md)
@@ -54,7 +54,7 @@
 ## Role et statut etablis
 Faits stables (le devenir date arc par arc vit en Trajectoire datee).
 - elite du Corps ; aucune Lune Superieure n'est tombee depuis le XIXe s. (gel des rangs). [DIVERGENCE RP]
-- ignorent tout de Tsukiyo jusqu'aux Quartiers ; apres, ils savent qu'une demone sans rang, un "1" dans l'oeil gauche, abat un pilier d'un coup ; puis, par Tamayo, qui elle est : l'epouse de la Lune Superieure Un. [DIVERGENCE RP]
+- ignorent tout de Tsukiyo jusqu'aux Quartiers ; apres, ils savent qu'une demone sans rang, un "1" dans l'oeil gauche, abat un pilier d'un coup ; puis, par Tamayo, qui elle est : l'epouse de la Lune Superieure Un ; et qui fut le couple, Michikatsu Tsugikuni et Tsumiki, meurtriers de l'Oyakata Teruya. [DIVERGENCE RP]
 - generalisent la Marque a partir de celle de Tanjiro ; Tsukiyo l'ignore. [canon ; angle mort RP]
 
 ## Trajectoire datee
@@ -67,7 +67,7 @@ Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 | Taisho (R6) | Train de l'Infini : Rengoku tue par Akaza | pilier de la Flamme mort |
 | Taisho (R6) | Quartiers : rapport des temoins sur la "demie lune" | le Corps connait une demone hors grille |
 | Taisho (R6) | Village des forgerons : Mitsuri face a Hantengu | Marque eveillee (Mitsuri) |
-| Taisho (R6) | Tamayo identifie la demie lune : l'epouse de la Lune Superieure Un | le Corps sait qui a tue le pilier du Son |
+| Taisho (R6) | Tamayo identifie la demie lune : l'epouse de la Lune Superieure Un ; le couple fut Michikatsu Tsugikuni et Tsumiki, meurtriers de Teruya | le Corps sait qui a tue le pilier du Son, et la verite de la nuit du coup |
 | Taisho (R6) | Entrainement des Piliers, sans le palier de Tengen | Hashira marques (angle mort de Tsukiyo) |
 | Taisho (R7) | Piege de l'Oyakata ; aspires dans la Forteresse | combat sur le terrain des demons |
 | Taisho (R7) | Shinobu tuee par Tsukiyo avant que Doma ne l'absorbe | pilier de l'Insecte mort ; plan contre Doma avorte |

@@ -1,6 +1,6 @@
 # Nezuko Kamado
 
-- version : W3
+- version : W4
 
 ## Identite
 - nom : Nezuko Kamado
@@ -43,7 +43,7 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee).
 ## Relations
 - Tanjiro : frere aine, protecteur ; elle le protege en retour.
 - famille Kamado : massacree ; l'hypnose lui fait voir chaque humain comme l'un des siens.
-- Muzan : son createur, qui ignore ce qu'il a fait d'elle.
+- Muzan : son createur, qui ignore ce qu'il a fait d'elle jusqu'au rapport de Tsukiyo (R6) ; il l'absorbe a l'ultimatum (R8).
 - Tamayo et Yushiro : allies de son frere ; Tamayo etudie son sang [canon].
 - Zenitsu, Inosuke : compagnons de route ; Zenitsu se fait son protecteur (aucune romance : vigilance mineurs).
 - Tsukiyo : l'a vue proteger son frere aux Quartiers et l'a epargnee ; Nezuko n'en sait rien. [DIVERGENCE RP]

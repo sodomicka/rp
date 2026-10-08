@@ -1,6 +1,6 @@
 # Kokushibo
 
-- version : W13
+- version : W14
 - autre forme : cf. WIKI Personnages/Michikatsu.md (forme humaine, vie close a 24 ans)
 
 ## Identite
@@ -36,7 +36,7 @@ Meme noyau que l'humain (cf. Michikatsu), plus franc que sa femme : il dissimule
 - forme mutee, ultime recours (ere Taisho) : lames de chair jaillies de tout le corps ; laisse des stigmates durables. Detail : cf. WIKI Systemes/Arts_Demoniaques.md.
 
 ### Souffle de la Lune
-Style originel cree par Michikatsu, derive par opposition au Souffle du Soleil. Seize formes : slashes doubles de croissants de lune. Detail des formes : cf. WIKI Systemes/Souffles.md. De ce souffle, Tsukiyo a derive le Souffle des Tenebres.
+Style originel cree par Michikatsu, derive par opposition au Souffle du Soleil. Seize formes : slashes doubles de croissants de lune. Detail des formes : cf. WIKI Systemes/Souffles.md. De ce souffle, Tsumiki (humaine) a derive le Souffle des Tenebres.
 - Danse des Dieux de la Lune : technique de couple, forme demoniaque exclusivement, developpee pour abattre Yoriichi. Detail : cf. WIKI Personnages/Tsukiyo.md.
 
 ## Role et statut etablis
@@ -71,6 +71,7 @@ Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 | Ere Sengoku tardive, XVe s. (R3) | Le couple affranchi des deux leviers ; bascule (le complexe d'inferiorite envers Yoriichi tombe) | de pion a joueur ; le frere n'a jamais ete le probleme ; obsession du soleil partagee |
 | Ere Sengoku tardive, XVe s. (R3) | Accede a Lune Superieure Un ; ouvre 2 yeux de plus ; legitime le programme Kizuki concu par Tsukiyo | Lune Sup Un (des siecles durant) ; 4 yeux ouverts / 2 fermes |
 | XVIe-XVIIe s. (R4) | S'entraine sans relache pendant que Tsukiyo forge ses Lunes | reste a 4 yeux ouverts / 2 fermes ; maitrise affinee, en retrait des creations (apogee reportee a l'accalmie R5) |
+| XVIIIe s. (R5) | Au duel Doma / Akaza, son epouse met son rang de Lune Deux en jeu puis se retire : son satellite, seule epouse en facade. Avec elle, repere une joueuse de biwa et l'adopte (Nakime) | pere adoptif de Nakime, pour qui il chasse ; Muzan grave son "1" dans l'oeil gauche de Tsukiyo et dans celui de Nakime : les deux demies lunes de la famille |
 | XIXe s. -> Taisho, accalmie (R5) | Apogee pendant la longue accalmie | ouvre ses 2 derniers yeux (4 -> 6, tous) ; maitrise pleine du Souffle de la Lune ; plein potentiel de demon atteint |
 | Taisho (R6) | Prend Kaigaku pour premier disciple : le tourne et le garde (sang libre) ; Muzan lui grave la Six | premier vassal de son sang ; deception |
 | Taisho (R6) | Entraine Kaigaku ; jours de calme avec Tsukiyo et Nakime, la piste confirmee | se projette enfin dans l'avenir |

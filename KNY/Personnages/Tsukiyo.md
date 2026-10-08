@@ -1,6 +1,6 @@
 # Tsukiyo
 
-- version : W14
+- version : W15
 - autre forme : cf. WIKI Personnages/Tsumiki.md (forme humaine, vie close a 21 ans)
 
 ## Identite
@@ -74,16 +74,16 @@ Faits stables post-demonisation (le devenir date arc par arc vit en Trajectoire 
 - Kokushibo (Michikatsu Tsugikuni) : epoux, egal, jumeau aine de Yoriichi. Amour fou et reciproque. A elle, pas a Muzan.
 - Muzan Kibutsuji : rival et allie force ; froideur clinique. Impasse mutuelle : aucun ne peut tuer l'autre, sinon par le soleil.
 - Nakime : fille adoptive et protegee ; aussi sa creation et sa favorite. Satellite de Kokushibo comme elle. Lien amorce par l'homonymie : humaine, Nakime s'appelait Tsumiki - l'echo d'un prenom que Tsukiyo se croyait avoir oublie.
-- Doma : prodige et favori joue (un jeu et un levier de plus, zero affection - seule Nakime compte) ; sa creation. Lune sous son obedience (deal negocie avec Muzan).
+- Doma : prodige et favori joue (un jeu et un levier de plus, zero affection - seule Nakime compte) ; sa creation. Lune sous son obedience (deal negocie avec Muzan). Juge pathetique a la Forteresse, elle ne feint plus de l'apprecier (R7) ; elle le cede a Muzan en objet avant l'ultimatum (R8).
 - Akaza : sa creation directe ; indifference, brute sans psyche distrayante a ses yeux.
 - Hantengu : sa creation-jouet, maltraitee pour le plaisir puis donnee a Muzan.
 - Gyokko : humain mourant qu'elle deniche et livre a Muzan ; tourne par le roi, pas par elle.
-- Daki et Gyutaro : trouves humains par Doma (rabatteur), remis a Tsukiyo, tournes par elle, puis offerts a Muzan comme monnaie d'echange de vassalite - solde une part du prix de Doma (securise comme sa Lune contre d'autres Lunes promises) et sert de levier pour obtenir que Nakime aussi reponde a son sang plutot qu'a celui de Muzan.
-- Tamayo : nemesis juree. Une autre demone a l'intellect surdeveloppe qui joue les egales aupres de Muzan - Tsukiyo la jalouse, a predit sa trahison, et jure de la tuer le jour ou elle reviendra abattre le roi.
+- Daki et Gyutaro : trouves humains par Doma (rabatteur), remis a Tsukiyo, tournes par elle, puis offerts a Muzan comme monnaie d'echange de vassalite - soldent le prix de Doma (securise comme sa Lune contre d'autres Lunes promises), et au-dela : le surplus couvrira plus tard Nakime.
+- Tamayo : nemesis juree. Une autre demone a l'intellect surdeveloppe qui joue les egales aupres de Muzan - Tsukiyo la jalouse, a predit sa trahison, et jure de la tuer le jour ou elle reviendra abattre le roi. Promesse tenue a la Forteresse : elle la torture, puis la tue (R7).
 - Yoriichi Tsugikuni : haine froide muee en fierte apres sa mort. Cible de la Danse des Dieux de la Lune.
 - enfants humains (Katsuhisa, Chiyo - cf. WIKI Personnages/Katsuhisa_Chiyo.md) : laisses a l'avant-poste des enfants du Corps au depart du QG - un frein a la soif de puissance et de vengeance du couple ; indifference, la dynastie planifiee rendue obsolete par l'eternite (cf. Tsumiki).
-- Kaigaku : premier disciple de son epoux, decevant ; un jouet dont elle s'amuse, sans enjeu.
-- Tanjiro et Nezuko Kamado : la piste. Aux oreilles du garcon, les boucles de Yoriichi ; a ses cotes, une petite demone. Elle les epargne aux Quartiers.
+- Kaigaku : premier disciple de son epoux, decevant ; un jouet dont elle s'amuse, sans enjeu. Abattu par Zenitsu, qu'elle tue (R7).
+- Tanjiro et Nezuko Kamado : la piste. Aux oreilles du garcon, les boucles de Yoriichi ; a ses cotes, une petite demone. Elle les epargne aux Quartiers. A la Forteresse, elle acheve Tanjiro avec Kokushibo sous les yeux de Nezuko, pour la briser (R7) ; Nezuko est absorbee par Muzan a l'ultimatum (R8).
 - Tengen Uzui : pilier du Son, tueur des Six ; elle l'abat apres avoir tue ses trois epouses sous ses yeux.
 - Muichiro Tokito : descendant du couple par un enfant qu'elle ne saura jamais nommer ; elle flaire ce sang a la Forteresse et le tue avec Kokushibo.
 
@@ -94,6 +94,7 @@ Plafond : leve - la Trajectoire reste dans la fiche principale tant que le budge
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | Ere Sengoku, XVe s. (R2) | Demonisation a 21 ans (Muzan l'eprouve d'une dose quasi-mortelle) | humaine -> demone ; echappe a la sentence des 25 ans de la Marque ; Souffle des Tenebres re-canalise par les cheveux (Kekkijutsu capillaire naissant) ; laisse sanguine de Muzan ACTIVE |
+| Ere Sengoku, XVe s. (R2) | Premier festin : avec Kokushibo, devore un village entier, sans un cadavre laisse ; il y abandonne son Nichirin | fausse mort du couple scellee (Yoriichi les croit devores) |
 | Ere Sengoku, XVe s. (R2) | Decennie d'errance : forge avec Kokushibo la Danse des Dieux de la Lune (demon-only, anti-Yoriichi) ; voit Muzan tourner Tamayo | maitrise la Danse ; inimitie envers Tamayo pre-chargee (la voit faite demone sous ses yeux) |
 | Ere Sengoku, XVe s. (R2) | Tue Yoriichi a deux avec Kokushibo (Danse des Dieux de la Lune) | couple au tier-Muzan EN PUISSANCE (laisse encore active, rupture = R3) ; haine de Yoriichi commence a muer en fierte |
 | Ere Sengoku tardive, XVe s. (R3) | Le couple affranchi des deux leviers (Muzan les craint) ; bascule vers l'obsession du soleil | de pion a joueuse ; equilibre de terreur a trois ; peut prononcer "Kibutsuji" sans mourir ; obsession du soleil = objectif de fond |
@@ -106,6 +107,7 @@ Plafond : leve - la Trajectoire reste dans la fiche principale tant que le budge
 | XVIIIe s. (R5) | Met sa place de Lune Sup Deux en jeu au duel, galvanise Doma (son champion) qui demolit Akaza ; puis SE RETIRE dans l'ombre | perd le rang Deux officiel -> satellite de Kokushibo (seule epouse en facade) ; Muzan grave le "1" de Kokushibo dans son oeil gauche (demie lune) ; vraie puissance dissimulee aux Lunes |
 | XVIIIe s. (R5) | Coup de coeur pour une joueuse de biwa humaine (quartier des plaisirs d'une petite ville, attiree par l'odeur de ses proies-predateurs) ; la tourne, l'adopte, integre sa Forteresse comme infra de l'empire | fille adoptive acquise ; Forteresse = levier latent du trio, librement accessible ; cellule familiale amorcee |
 | XIXe s. (R5) | Deniche Gyokko mourant et le livre a Muzan (tourne par le roi en personne, hors de son sang) | dernier reperage livre ; grille des Douze Kizuki complete et figee |
+| XIXe s. -> Taisho, accalmie (R5) | Gel des rangs, longue accalmie : la cellule familiale (le couple et Nakime) s'installe dans une routine paisible | paix finale esquissee ; aucune Lune ne tombe jusqu'a Taisho |
 | Taisho (R6) | Quartiers de plaisir : vient en personne se charger du tueur des Six ; tue les trois epouses de Tengen sous ses yeux, puis Tengen ; reconnait les boucles de Yoriichi aux oreilles de Tanjiro et epargne la fratrie ; rapport intrigue a Muzan a la Forteresse | le Corps a vu la demie lune ; piste posee devant Muzan, qui purge les Lunes Inferieures |
 | Taisho (R6) | Au Village, un oeil de Nakime voit Nezuko surmonter le soleil ; Kokushibo prend Kaigaku pour disciple ; jours de calme en famille | tient la preuve avant Muzan ; nouveau jouet ; la famille se projette enfin dans l'avenir |
 | Taisho (R7) | Accompagne Muzan au manoir de l'Oyakata, dissimulee ; apres le sacrifice de l'Oyakata et l'attaque suicide de Tamayo, donne le signal : Nakime aspire le Corps et isole Muzan ; somme le roi empoisonne de lui ceder Tamayo | levier de la Forteresse joue ; Tamayo prisonniere ; se poste pres de sa fille |

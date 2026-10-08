@@ -1,11 +1,11 @@
 # Hierarchie de puissance
 
-- version : W4
+- version : W5
 
 ## Regles de lecture
 - Le couple UNI est la seule force au-dessus de Muzan, et Muzan le craint. [DIVERGENCE RP]
 - Impasse mutuelle : ni Muzan ni le couple ne peut tuer l'autre, sinon par le soleil. [DIVERGENCE RP]
-- Hierarchie reelle des R3 : Muzan > Kokushibo > Tsukiyo >> gouffre >> Lunes Superieures Deux a Six. Elle est notoire jusqu'au retrait de Tsukiyo (R5), puis dissimulee aux Lunes.
+- Hierarchie reelle des R3 : Muzan > Kokushibo > Tsukiyo >> gouffre >> les Lunes suivantes (aucune avant Akaza, R4). Elle est notoire jusqu'au retrait de Tsukiyo (R5), puis dissimulee aux Lunes.
 - Le rang Kizuki ne mesure pas le haut de la grille : Kokushibo porte la Lune Un comme etalon a depasser ; Tsukiyo et Nakime sont hors rang.
 - La Marque hisse un pourfendeur d'elite au niveau de certaines Lunes Superieures. [canon]
 - Demons tres forts (Muzan, Kokushibo, Tsukiyo, Doma, Akaza) : seuls le soleil et le Souffle du Soleil les blessent durablement ; la lame ecarlate les brule sans les tuer (cf. Systemes/Demons.md). Un pourfendeur peut les dominer, pas les tuer. [DIVERGENCE RP]
@@ -26,7 +26,7 @@
 | Palier | Entite | Reperes |
 |---|---|---|
 | au-dessus de Muzan | le couple uni | seule force qui le depasse ; le terrifie |
-| sommet individuel | Muzan | un ordre de grandeur au-dessus de chaque Kizuki, hors Kokushibo ; mille fois la puissance d'Akaza |
+| sommet individuel | Muzan | un ordre de grandeur au-dessus de chaque Kizuki, hors Kokushibo |
 | proche de Muzan | Kokushibo | tres largement au-dessus des autres Lunes ; Lune Un comme etalon du programme |
 | sous Kokushibo | Tsukiyo | au-dessus de Doma et d'Akaza en permanence ; sous Kokushibo et Muzan |
 | (gouffre) | - | - |

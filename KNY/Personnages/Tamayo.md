@@ -1,6 +1,6 @@
 # Tamayo
 
-- version : W7
+- version : W8
 
 ## Identite
 - nom demon : Tamayo
@@ -59,7 +59,7 @@ Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 | Ere Sengoku, XVe s. (R2) | Tournee par Muzan vers 19 ans (sous couvert de soigner sa maladie), devant le couple ; rejoint la troupe | humaine -> demone sous la laisse de Muzan ; massacre de sa famille sous l'emprise (jeune demone) [reveil/depart = R3] |
 | XVIe s. (R3) | Envoyee raser un village, retrouve son humanite devant un enfant eventre ; brise les DEUX leviers (reveil de l'humain, non terreur) ; cree Yushiro de son sang libre | affranchie de Muzan ; troisieme pole renegate ; Tsukiyo jure sa perte |
 | Taisho (R6) | Croise la fratrie Kamado (sans Muzan : pas d'Asakusa) ; preleve le sang de Nezuko ; pacte avec Tanjiro (sang des Kizuki) ; collabore avec Shinobu au poison anti-Muzan | alliee secrete du Corps ; recherche du remede ; angle mort de Tsukiyo |
-| Taisho (R6) | Dans le recit des temoins des Quartiers, reconnait Tsukiyo, connue dans la troupe ; la nomme au Corps : l'epouse de la Lune Superieure Un, ancienne Lune Deux, qui a abattu Yoriichi avec lui | le Corps sait qui a tue le pilier du Son ; Tsukiyo l'ignore |
+| Taisho (R6) | Dans le recit des temoins des Quartiers, reconnait Tsukiyo, connue dans la troupe ; la nomme au Corps : l'epouse de la Lune Superieure Un, ancienne Lune Deux, qui a abattu Yoriichi avec lui ; revele aussi qui fut le couple, Michikatsu Tsugikuni et Tsumiki, meurtriers de l'Oyakata Teruya | le Corps sait qui a tue le pilier du Son, et la verite de la nuit du coup ; Tsukiyo l'ignore |
 | Taisho (R7) | Manoir de l'Oyakata : attaque suicide, injecte a Muzan son poison ; il la retient dans sa chair ; isolee avec lui dans la Forteresse, cedee a Tsukiyo qui la reclame | Muzan affaibli le temps de digerer ; prisonniere de Tsukiyo |
 | Taisho (R7) | Voit Tsukiyo massacrer Yushiro tres lentement ; torturee, les meches de Tsukiyo dans les veines, jusqu'a supplier qu'on la tue ; livre la planque de Nezuko ; tuee par Tsukiyo | morte ; son poison n'a pas sauve le Corps |
 
@@ -67,7 +67,7 @@ Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 - certitude : canon (Tamayo, medecin demone affranchie de Muzan, art du sang olfactif, creatrice de Yushiro, refus de tuer), inflechi par les divergences RP (mecanisme de rupture par le village et l'enfant, cible juree du couple, rivalite avec Tsukiyo, double rupture des leviers).
 - retour contre Muzan et sort final : R7 (cf. Trajectoire).
 - parallele Tamayo / Nezuko : -> Tchekhov SB8.
-- contraste avec Akaza : seul autre demon qui pourrait connaitre un tel reveil, mais son humanite reste muree faute de souvenirs (cf. fiche Akaza, Relations).
+- contraste avec Akaza : seul autre demon qui pourrait connaitre un tel reveil ; son humanite reste muree faute de souvenirs jusqu'a la Forteresse (R7), ou ils reviennent trop tard : il s'autodetruit (cf. fiche Akaza, Trajectoire).
 
 ---
 

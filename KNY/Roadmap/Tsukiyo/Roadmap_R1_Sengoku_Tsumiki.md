@@ -1,14 +1,14 @@
 # Roadmap_R1_Sengoku_Tsumiki
 
-- statut : a venir
-- version : W5
+- statut : validee au grain de l'itineraire ; detail de scene en Passe 3
+- version : W6
 - perspective : Tsukiyo (periode humaine - Tsumiki)
 - portee : ere Sengoku humaine, de la jeunesse de Tsumiki a la rencontre avec Muzan (avant demonisation)
 
 ## Conditions de depart
 - Ere Sengoku. Muzan regne dans l'ombre depuis plus de cinq siecles (demon depuis l'ere Heian, IXe-Xe s.).
 - Yoriichi a cree les Souffles et integre le Corps des Pourfendeurs : le Souffle du Soleil existe et s'enseigne au QG.
-- Tsumiki et Michikatsu ne se connaissent pas encore. Michikatsu est l'aine Tsugikuni, pourfendeur sous l'ombre permanente de son jumeau.
+- Tsumiki et Michikatsu ne se connaissent pas encore. Michikatsu est l'aine Tsugikuni, heritier sous l'ombre permanente de son jumeau ; il n'entrera au Corps qu'a 19 ans, au QG.
 
 ## Etapes
 | # | Etape | Lieu | PNJ impliques | Tchekhov lies | Duree | Condition d'avancement |

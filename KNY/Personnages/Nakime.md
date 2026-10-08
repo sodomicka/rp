@@ -1,6 +1,6 @@
 # Nakime
 
-- version : W8
+- version : W9
 
 ## Identite
 - nom demon : Nakime
@@ -57,6 +57,7 @@ Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | XVIIIe s. (R5) | Reperee humaine par le couple (quartier des plaisirs d'une petite ville ; l'odeur de ses proies-predateurs les attire) ; coup de coeur de Tsukiyo, qui la tourne et l'adopte | humaine (Tsumiki, joueuse de biwa) -> demone ; fille adoptive, satellite de Kokushibo (pas de rang) ; Muzan grave le "1" de Kokushibo dans son oeil (demie lune) ; Forteresse integree comme infra de l'empire et levier latent du trio |
+| XIXe s. -> Taisho, accalmie (R5) | Longue accalmie : la cellule familiale (ses parents et elle) s'installe dans une routine paisible | foyer de la famille ; toujours sans rang |
 | Taisho (R6) | Ses yeux sur les Lunes Superieures annoncent a sa mere la chute de Daki et Gyutaro ; la Forteresse accueille la reunion du rapport et la purge des Lunes Inferieures | messagere de la piste |
 | Taisho (R6) | Au Village, l'oeil planque sur Hantengu voit Nezuko surmonter le soleil ; jours de calme en famille | livre a sa mere la preuve avant Muzan ; toujours sans titre |
 | Taisho (R7) | Au signal de sa mere, aspire le Corps dans la Forteresse et isole Muzan ; cible prioritaire du Corps (son "1" lu), gardee par Tsukiyo contre Yushiro et Zenitsu ; capture Nezuko a sa planque, puis l'amene voir ses parents achever son frere | levier de la Forteresse joue ; Nezuko brisee, entre ses mains |
@@ -69,7 +70,7 @@ Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 - certitude : canon (entite, biwa, Forteresse), inflechie par les divergences RP (nom humain Tsumiki, filiation et lignee Tsukiyo, statut hors-rang / satellite de Kokushibo, allegeance au couple).
 - nom humain : "Otogawa" (parfois avance) ecarte car non source au databook ; retenu "Tsumiki" par choix RP. [DIVERGENCE RP]
 - desambiguisation wiki : Tsukiyo humaine = toujours "Tsumiki Tsugikuni" (nom complet) ; Nakime humaine = "Tsumiki" seul ou "la joueuse de biwa".
-- detail de la rencontre et de la demonisation (le plafond de la salle, l'ecoute du biwa, la promesse de la nourrir) : -> roadmap (Passe 2).
+- rencontre et demonisation : le plafond de la salle, l'ecoute du biwa, la promesse de la nourrir. Cette note est le domicile de ces faits (la roadmap R5 ne les porte pas) ; mise en scene en Passe 3.
 
 ---
 

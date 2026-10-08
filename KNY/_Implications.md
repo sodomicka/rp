@@ -1,43 +1,43 @@
 # _Implications - KNY
 
-- version : W8
+- version : W9
 
 ## Statut
 - Document de TRAVAIL : jamais fetche en narration, non indexe au Sommaire. Budget : derogation worldbuilder a 12 000 caracteres.
-- Passe 2 : R1-R8 roadmappees, boucle R8 "La Paix" close (Sommaire W11). Reste la relecture croisee de cloture (thread d'audit dedie).
-- Build B11 livre (cloture de la boucle R8) ; Resume W6.
+- Passe 2 : CLOSE. R1-R8 roadmappees ; relecture croisee de cloture faite et validee (Sommaire W12). Ensuite : Passe 3.
+- Build B12 livre (relecture croisee) ; Resume W7.
 
 ## Decisions en attente (worldbuilder)
 - Yoriichi, oncle paternel de Katsuhisa et Chiyo : rapport aux orphelins non etabli (pas d'exil : il reste au Corps jusqu'a sa mort).
 
 ## Dettes de build
-### Prochain BIBLE BUILD (B12)
-- Rien en attente (B11 a solde la boucle R8).
+### Prochain BIBLE BUILD (B13)
+- Rien en attente (B12 solde la relecture croisee).
 ### Passe 3 - mise en scene
 - R1 : nom d'emprunt de Muzan a Sakai ; heritier Ubuyashiki (six ans) sans nom.
+- R5 : rencontre de Nakime (plafond de la salle, ecoute du biwa, promesse de la nourrir) ; domicile : Nakime.md, Notes.
 - R6 : etat de Tengen a l'arrivee de Tsukiyo ; lieu et circonstances de la prosternation de Kaigaku ; palier de Tengen absent de l'entrainement des Piliers.
-- R7 : presence d'Urokodaki a la capture de Nezuko ; comment Tsukiyo sait l'assaut ; vue sur Akaza (oeil de Nakime ou en personne) ; lecture du "1" ; Zenitsu surprend Tsukiyo (a-t-elle vu son combat contre Kaigaku ?) ; clairvoyance de Kagaya face a Tsukiyo dissimulee.
+- R7 : presence d'Urokodaki a la capture de Nezuko ; comment Tsukiyo sait l'assaut ; vue sur Akaza (oeil de Nakime ou en personne) ; lecture du "1" ; Zenitsu surprend Tsukiyo (a-t-elle vu son combat contre Kaigaku ?) ; clairvoyance de Kagaya face a Tsukiyo dissimulee ; Kagaya sait, par Tamayo, que le couple a tue Teruya : poids dans le dialogue du piege.
 - R8 : lieux du Jour et du foyer ; echelle des etapes 3 et 4 ; maniere dont Muzan eprouve le soleil a l'aube.
-### Relecture croisee de cloture (Passe 2) - a faire
-- Audit inter-arcs de toutes les pages : incoherences, fils Tchekhov restes armes dans les fiches, oublis. Thread dedie, en autonomie.
 ### Trous canon
 - Souffle de la Lune : formes 4, 11, 12, 13 et 15 jamais montrees au canon. A definir seulement si une scene l'exige.
-- Canon R7 non verifie (fetch fandom refuse) : details Ubuyashiki, panoplie de Muzan, forme mutee - balises [INCERTAIN].
+- Daki et Gyutaro : formes nommees du canon non documentees. Si une scene l'exige.
+- Canon R7 non verifie (fandom refuse, encore HTTP 402 a l'audit) : details Ubuyashiki, panoplie de Muzan, forme mutee - balises [INCERTAIN].
 ### Passe 3
 - Fiches_Arc/Tsukiyo : 0 page.
 ### Budgets
-- Roadmap_R5 : 7 975 ; R6 : 7 932 ; R7 : 6 973 ; R8 : 5 002. 00_Garde_Cap : 14 804 sous derogation a 15k.
-- Derogations : Muzan 12k (9 981) ; Kokushibo 12k (9 187) ; Nakime 12k (8 672, depuis la boucle R8) ; Resume 12k (10 500) ; _Implications 12k. Tsukiyo sous 20k (16 039), Trajectoire sans plafond.
-- Pleine : Doma (7 999 / 8 000) - tout ajout exige une derogation ou une page satellite.
-- BIBLE B11 : 40 206 (cible 35-40k, plafond 55k).
-- Plafond d'entrees de Trajectoire : aucun en nombre, seul le budget compte (fiches alignees a chaque relivraison).
+- Roadmap_R5 : 7 975 ; R6 : 7 968 ; R7 : 7 093 ; R8 : 5 002. 00_Garde_Cap : 14 804 sous derogation a 15k.
+- Derogations : Muzan 12k (10 241) ; Kokushibo 12k (9 558) ; Nakime 12k (8 911) ; Resume 12k (10 645) ; _Implications 12k. Tsukiyo sous 20k (16 790), Trajectoire sans plafond.
+- Pleine : Doma (7 927 / 8 000) - tout ajout exige une derogation ou une page satellite.
+- BIBLE B12 : 40 740 (cible 35-40k, plafond 55k).
+- Plafond d'entrees de Trajectoire : aucun en nombre, seul le budget compte (fiches alignees a chaque relivraison ; restent a 15 : Tsumiki, Lunes_Inferieures, Tengen_Epouses).
 
 ## Vigilance narration - mineurs
 Regle : aucune sexualisation de mineur montree ni racontee, ni registre de seduction vers un mineur.
 - Tsumiki / Michikatsu : jeunesse refondue (option A). De 12/15 ans : deux paumes refugies dans la rage, amitie farouche qui vire a la possessivite, sans romance ; amour et mariage a l'age adulte (18/21). Registre inscrit dans la fiche Dojo_Tanba.
 - Katsuhisa et Chiyo : nourrissons dans tout le jouable R1-R2 ; aucune romance ni sexualisation, a aucun age.
 - Enfants Ubuyashiki (R1 et R7) : idem.
-- Nakime : regime de jeunes hommes vierges conserve - exigence de purete de la nourriture offerte par ses parents, sans sexualisation montree.
+- Nakime : regime de jeunes hommes vierges conserve - exigence de purete de la nourriture offerte par ses parents, sans sexualisation montree. "Jeunes hommes" au sens large, jeunes adultes ou adolescents : chez un adolescent, la virginite reste un critere de purete hors champ, jamais montree ni commentee.
 - Daki : tournee vers 13 ans. Son passe se dit au niveau des faits (enfant du quartier des plaisirs, maltraitee, samourai eborgne, bucher), jamais sexualise, en direct comme en recit. Sa forme demone d'oiran reste silhouette et couverture, jamais sexualisee.
 - Akaza : souvenirs de Koyuki hors POV (RP en POV Tsumiki / Tsukiyo) - non joues.
 - Doma / Kanao (mineure) : pas d'objectification sexuelle, meme condamnee par la narration. Registre retenu : arrogance misogyne (fiche Doma).
@@ -52,6 +52,7 @@ Regle : aucune sexualisation de mineur montree ni racontee, ni registre de seduc
 - Plafond de Trajectoire : instructions "30 par defaut", fiches "15" ; decision worldbuilder : aucun plafond en nombre -> patcher instructions + SPEC.
 
 ## Soldes
+- Relecture croisee de cloture (audit de nuit, validee au matin) : 34 constats, tous soldes ; trois detonations propagees ; B12, Sommaire W12, Resume W7. Decisions : Michikatsu au Corps a 19 ans ; Tamayo revele au Corps l'identite humaine du couple et le meurtre de Teruya ; aucune Lune avant Akaza ; "mille fois Akaza" hors Hierarchie ; regime de Nakime au sens large ; statuts R1-R5 alignes ; dossier local NKY renomme KNY. Detail : _Audit_Passe2.md (hors wiki).
 - Boucle R8 (thread dedie) : roadmap propre en 4 etapes (ultimatum, jour, retraite, cicatrices) ; spirale sur R7 : Tanjiro acheve sous les yeux de Nezuko pour la briser, absorption decalee au huis clos de l'ultimatum (salle close dans le vide ; mort de Nakime = vide scelle, contre le canon) ; festin des pourfendeurs du rang avant ; Doma cede en objet avant les negociations (sans le sang de Muzan), puis dote du soleil par une laisse sans libre arbitre ; Tsukiyo ne feint plus de l'apprecier depuis Shinobu ; absorption = trait, pas puissance ; Muzan choisit quelles creations resistent au soleil ; Nakime immunisee par le sang libre de sa mere ; Forteresse retiree avec la famille ; Corps en lambeaux, cible de Muzan ; stigmates chair et ame ; programme Kizuki clos ; secte outil de l'empire. Pages relivrees (versions finales) : R8 W2, R7 W2, Garde_Cap W7, Muzan W11, Tsukiyo W14, Nakime W8, Kokushibo W13, Doma W11, Nezuko W3, Tanjiro W3, Ubuyashiki W2, Forteresse W6, Secte W3, Demons W4, Arts W4, Hierarchie W4.
 - Build B11 (cloture de la boucle R8) : SB0 9 pages Roadmap, R8 roadmappee ; SB1 mort de Nakime, ultimatum et paix, don du soleil, impasse perpetuelle, reinjection de Doma ; SB2 don du soleil, ultimatum du vide, Souffle du Soleil eteint ; SB3 ligne R7 reecrite, 3 lignes R8, notes ; SB4 Kizuki clos, trio, Corps, Ubuyashiki, Doma ; SB5 sorts R8 ; SB6 Forteresse, Secte, lieux generiques R8 ; SB8 remede resolu en R8, fils Forteresse et Doma detones. Resume W6.
 - Build B10 (cloture de la boucle R7) : SB0 inventaire (26 Personnages, 8 pages Roadmap) ; SB1 demons tres forts ; SB2 lame ecarlate, demons tres forts ; SB3 chrono R7 (4 lignes) ; SB4 Kizuki reduits a Un et Deux, renegats eteints, Corps vaincu, Ubuyashiki ; SB5 sorts R7, entrees Kanao et Ubuyashiki dotees de fiche ; SB6 lieux generiques R7 ; SB7 poison de Tamayo ; SB8 fils R7 detones en une ligne, fil Doma ouvert pour R8. Resume W5.

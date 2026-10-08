@@ -1,7 +1,7 @@
 # Roadmap_R5_Lunes_Modernes
 
-- statut : a venir (grandes lignes validees ; detail pose)
-- version : W3
+- statut : validee au grain de l'itineraire ; detail de scene en Passe 3
+- version : W4
 - perspective : Tsukiyo (matriarche d'une lignee de Lunes)
 - portee : ere Edo, XVIIIe a XIXe s., de Daki et Gyutaro au gel des rangs ; l'arc qui complete et FIGE la grille des Douze Kizuki, puis ouvre la longue accalmie avant Taisho
 

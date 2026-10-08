@@ -1,6 +1,6 @@
 # Ubuyashiki de l'ere Taisho
 
-- version : W2
+- version : W3
 
 ## Identite
 - entite : la famille Ubuyashiki a l'ere Taisho, chefs du Corps des Pourfendeurs - Kagaya (l'Oyakata), son epouse Amane, leurs cinq enfants
@@ -39,12 +39,12 @@
 Faits stables (le devenir date arc par arc vit en Trajectoire datee).
 - Kagaya commande le Corps ; les Hashira lui vouent un devouement filial. Il a sauve Gyomei, accuse du massacre de son temple [canon] (cf. Personnages/Hashira_Taisho.md).
 - allie secret de Tamayo : ensemble ils preparent le piege contre Muzan [canon].
-- ignore la verite de la nuit du coup (R1) : pour la lignee, le meurtre de Teruya reste l'oeuvre de demons. [IMPLICITE]
+- sait, par Tamayo (R6), la verite de la nuit du coup (R1) : Teruya tue par le couple, Michikatsu Tsugikuni et Tsumiki ; la lettre de fausse vengeance etait un leurre. Jusque-la, pour la lignee, le meurtre restait l'oeuvre de demons. [DIVERGENCE RP]
 
 ## Relations
 - Muzan : ennemi hereditaire, du meme sang ; Kagaya l'attend et lui parle avant de se sacrifier [canon].
 - Hashira : ses "enfants" ; devouement reciproque [canon].
-- Tamayo : alliee secrete ; c'est par elle qu'il sait qui est la demie lune. [DIVERGENCE RP]
+- Tamayo : alliee secrete ; c'est par elle qu'il sait qui est la demie lune, et qui tua Teruya. [DIVERGENCE RP]
 - Tsukiyo : la demie lune des Quartiers, identifiee grace a Tamayo. [DIVERGENCE RP]
 - Teruya : ancetre, Oyakata de l'ere Sengoku.
 
@@ -55,7 +55,7 @@ Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | Taisho (R6) | Tolere Nezuko au sein du Corps [canon] | la fratrie Kamado sert le Corps |
-| Taisho (R6) | Tamayo reconnait Tsukiyo dans le recit des temoins des Quartiers : l'epouse de la Lune Superieure Un, ancienne Lune Deux, qui a abattu Yoriichi avec lui | le Corps sait qui a tue le pilier du Son ; Tsukiyo l'ignore [DIVERGENCE RP] |
+| Taisho (R6, apres le Village) | Tamayo reconnait Tsukiyo dans le recit des temoins des Quartiers : l'epouse de la Lune Superieure Un, ancienne Lune Deux, qui a abattu Yoriichi avec lui ; elle revele qui fut le couple, Michikatsu Tsugikuni et Tsumiki, meurtriers de Teruya | le Corps sait qui a tue le pilier du Son ; Kagaya sait la verite de la nuit du coup ; Tsukiyo l'ignore [DIVERGENCE RP] |
 | Taisho (R6) | Apres le Village, ordonne l'entrainement des Piliers [canon] | Hashira marques (angle mort de Tsukiyo) |
 | Taisho (R7) | Se laisse trouver par Muzan, l'attend, lui parle, puis se fait sauter avec Amane, Hinaki et Nichika [canon] ; Tamayo injecte son poison a Muzan [canon]. Au signal de Tsukiyo, Nakime aspire le Corps dans la Forteresse | Kagaya, Amane, Hinaki, Nichika morts ; le poison affaiblit Muzan sans sauver le Corps [DIVERGENCE RP] |
 | Taisho (R8) | Kiriya, Kuina et Kanata survivent hors du manoir ; Kiriya succede a son pere [canon]. Le Corps survit en lambeaux, sans Hashira ni Souffle du Soleil ; ecraser le Corps sera le premier but de Muzan, qui peut se creer des demons resistant au soleil, Doma a son service | Corps inoffensif et traque ; Muzan vivant, la malediction de la lignee tient [canon] [DIVERGENCE RP] |

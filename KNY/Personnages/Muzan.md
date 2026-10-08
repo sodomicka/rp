@@ -1,6 +1,6 @@
 # Muzan
 
-- version : W11
+- version : W12
 
 ## Identite
 - nom demon : Muzan Kibutsuji
@@ -64,6 +64,7 @@ Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 | Ere Sengoku, XVe s. (R1) | Sous couverture de negociant en the et en simples, recoit a Sakai le couple humain qui l'a devine ; accepte la tete de l'Oyakata et l'offre de leur vie | surpris d'avoir ete devine, lui qui se croit imprevisible depuis Yoriichi |
 | Ere Sengoku, XVe s. (R2) | Tourne le couple (les eprouve d'une dose quasi-mortelle apres avoir ete devine) | gagne Kokushibo et Tsukiyo, demons sous sa laisse (encore pions a ce stade) |
 | Ere Sengoku, XVe s. (R2) | Tourne Tamayo (sous couvert de soin) devant le couple, au fil de la decennie d'errance | gagne Tamayo, demone sous sa laisse |
+| Ere Sengoku, XVe s. (R2) | A une reunion au manoir de Shizushishonyudo, evoque sa hantise de Yoriichi ; le couple propose sa tete, massacre un bourg pour l'attirer et l'abat a deux | delivre de Yoriichi ; ne mesure pas encore que le couple le depasse (R3) |
 | Ere Sengoku tardive, XVe s. (R3) | Comprend qu'unis le couple le depasse et se met a les craindre | perd ses deux leviers sur le couple (laisse + nom) ; equilibre de terreur a trois ; fulmine sans pouvoir agir |
 | Ere Sengoku tardive, XVe s. (R3) | Co-acte le programme des Douze Kizuki (concu par Tsukiyo) ; balaie l'avertissement sur Tamayo | tient le programme pour LA voie de guerison ; Kokushibo Lune Un, Tsukiyo Lune Deux |
 | XVIe s. (R3) | Sent la laisse de Tamayo ceder | perd le controle d'une demone (renegate) ; enrage |

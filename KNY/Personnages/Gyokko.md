@@ -1,6 +1,6 @@
 # Gyokko
 
-- version : W4
+- version : W5
 
 ## Identite
 - nom demon : Gyokko
@@ -38,7 +38,7 @@ Gyokko est le plus monstrueux des Lunes Superieures, celui qui a conserve le moi
   - Manipulation de chair : il materialise des pots a volonte depuis son propre corps et remodele son apparence (petits bras, ecailles, forme de triton).
   - manipulation de l'eau et creation de monstres aquatiques surgis des pots.
 - puissance : Lune Superieure Cinq, un cran au-dessus de Daki et Gyutaro ; regeneration, changement de forme, haute vitesse, endurance quasi illimitee.
-- detail des formes canon : a documenter a la boucle R6.
+- detail des formes canon : cf. WIKI Systemes/Arts_Demoniaques.md.
 
 ## Role et statut etablis
 Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
@@ -56,7 +56,7 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 
 ## Trajectoire datee
 Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : 15 entrees max.
+Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|

@@ -1,13 +1,13 @@
 # Yoriichi Tsugikuni
 
-- version : W6
+- version : W7
 
 ## Identite
 - nom : Yoriichi Tsugikuni
 - espece : humain - pourfendeur
 - ere : Sengoku
 - statut : vie close - tue dans la force de l'age par le couple (Kokushibo + Tsukiyo) [DIVERGENCE RP - canon : mort de vieillesse]
-- role : jumeau cadet de Michikatsu ; createur du Souffle du Soleil ; le plus grand sabreur de l'histoire ; le seul etre que Muzan ait jamais craint
+- role : jumeau cadet de Michikatsu ; createur du Souffle du Soleil ; le plus grand sabreur de l'histoire ; le seul humain que Muzan ait jamais craint
 - certitude : canon, inflechi [DIVERGENCE RP] (mort jeune par le couple au lieu de la vieillesse)
 
 ## Apparence
@@ -41,12 +41,12 @@
 - Michikatsu / Kokushibo : jumeau aine. Yoriichi l'aime et veut son bien ; le reconforte sans voir l'humiliation que son propre don inne represente. Le croit mort, le retrouve demon - et le combat sans hesiter. (Son cote : affection. Le cote du frere : jalousie, complexe d'inferiorite. Cf. fiches Michikatsu / Kokushibo.)
 - Tsumiki / Tsukiyo : belle-soeur. Il la croyait epouse soumise sans relief ; la decouvre pourfendeuse enragee, puis demone. Sa deception et sa tristesse, lues par le couple comme du mepris.
 - Uta : epouse defunte, et leur enfant a naitre. Sa lignee s'eteint avec eux.
-- Muzan Kibutsuji : l'ennemi qu'il a presque aneanti ; le seul que Muzan ait jamais craint, au point d'en faire des cauchemars des siecles durant.
+- Muzan Kibutsuji : l'ennemi qu'il a presque aneanti ; le seul humain que Muzan ait jamais craint, au point d'en faire des cauchemars des siecles durant.
 - Corps des Pourfendeurs : membre marginalise, craint pour sa puissance.
 
 ## Trajectoire datee
 Ligne close a sa mort (force de l'age, fin R2) ; aucune evolution post-mortem.
-Plafond : 15 entrees max.
+Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
@@ -56,7 +56,7 @@ Plafond : 15 entrees max.
 ## Notes
 - certitude : canon (Yoriichi), inflechi par la divergence RP (tue jeune par le couple au lieu de la vieillesse ; le reste conserve).
 - detail du duel fatal et de la disparition maquillee (plan des archives par Tsumiki, meurtre de l'Oyakata, fuite vers Muzan, demonisation, village rase) : -> roadmaps R1-R2.
-- la descendance Tsugikuni qui mene a Muichiro Tokito (Pilier de la Brume) descend du frere (Michikatsu), non de Yoriichi : sa lignee s'eteint avec Uta. [canon] ; usage narratif : ouvert (cf. BIBLE SB8).
+- la descendance Tsugikuni qui mene a Muichiro Tokito (Pilier de la Brume) descend du frere (Michikatsu), non de Yoriichi : sa lignee s'eteint avec Uta. [canon] ; fil detone en R7 : le couple reconnait Muichiro et le tue, branche inconnue de tous (cf. Personnages/Muichiro.md).
 
 ---
 

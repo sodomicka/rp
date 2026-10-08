@@ -1,7 +1,7 @@
 # Roadmap_R2_Sengoku_Tsukiyo
 
-- statut : a venir
-- version : W4
+- statut : validee au grain de l'itineraire ; detail de scene en Passe 3
+- version : W5
 - perspective : Tsukiyo (genese demoniaque)
 - portee : ere Sengoku (XVe-XVIe s.), de la demonisation du couple a la mort de Yoriichi
 
@@ -10,7 +10,7 @@
 - Tsumiki 21 ans, Michikatsu 24 ans, a l'instant ou Muzan les eprouve. Yoriichi, jumeau de Michikatsu, a donc lui aussi 24 ans.
 - Souffle de la Lune (Michikatsu) et Souffle des Tenebres formes terrestres (Tsumiki) maitrises ; Marque portee par les deux. Danse des Dieux de la Lune PAS encore forgee (demon-only).
 - Muzan vient d'etre surpris d'avoir ete devine (cf. R1) : il se croit imprevisible depuis Yoriichi.
-- Yoriichi est vivant et le sait de tous les demons : il aurait du mourir de sa Marque a 25 ans et ne l'a pas fait. Le seul homme que Muzan ait jamais craint.
+- Yoriichi est vivant, porteur de la Marque, 24 ans : la sentence des 25 ans l'attend (il y survivra, cf. etape 3). Le seul homme que Muzan ait jamais craint.
 
 ## Etapes
 | # | Etape | Lieu | PNJ impliques | Tchekhov lies | Duree | Condition d'avancement |

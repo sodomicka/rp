@@ -1,6 +1,6 @@
 # Hantengu
 
-- version : W4
+- version : W5
 
 ## Identite
 - nom demon : Hantengu
@@ -39,7 +39,7 @@
   - Urami (ressentiment) : le veritable corps principal dissimule.
 - puissance : Lune Superieure Quatre. Le "moi" principal est negligeable au combat direct ; la menace vient du systeme de clones, qui ensemble exigent l'effort combine de plusieurs pourfendeurs d'elite pour etre vaincus.
 - issu du sang de Tsukiyo : sang de fort calibre. Meme pose sur un sujet aussi minable, il hisse Hantengu jusqu'a Sup 4 - c'est le sang qui porte, non le sujet.
-- detail des formes canon : a documenter a la boucle R6.
+- detail des formes canon : cf. WIKI Systemes/Arts_Demoniaques.md.
 
 ## Role et statut etablis
 Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
@@ -60,7 +60,7 @@ Faits stables (le devenir date arc par arc vit en Trajectoire datee, Passe 2).
 
 ## Trajectoire datee
 Vide a la genese (Passe 1). Alimentee a chaud arc par arc en Passe 2, des qu'une roadmap produit un evenement date pour l'entite.
-Plafond : 15 entrees max.
+Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
@@ -70,7 +70,7 @@ Plafond : 15 entrees max.
 ## Notes
 - certitude : canon (Hantengu, art du sang, six manifestations, rang Sup 4), inflechi par les divergences RP (createur = Tsukiyo et non Muzan, creature-jouet, don gratuit a Muzan, souffre-douleur de Doma/Akaza).
 - passe humain (tueur en serie et voleur jouant la victime, plus de 200 ans au canon) conserve comme socle psychologique ; datation precise de sa demonisation -> roadmap (Passe 2).
-- maltraitance par Doma et Akaza : fait stable ; un eventuel ajout a chaud sur les fiches Doma et Akaza (souffre-douleur commun) est a decider par le worldbuilder, non grave ici.
+- maltraitance par Doma et Akaza : fait stable, porte aussi par les fiches Doma et Akaza (Relations).
 
 ---
 

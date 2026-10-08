@@ -1,6 +1,6 @@
 # Doma
 
-- version : W11
+- version : W12
 
 ## Identite
 - nom demon : Doma
@@ -74,7 +74,7 @@ Plafond : aucun en nombre d'entrees ; seul le budget de la fiche compte.
 ## Notes
 - certitude : canon (Doma), inflechie par les divergences RP (createur = Tsukiyo et non Muzan, vassalite, fascination-loyaute envers elle, rabatteur de la lignee).
 - detail de la rencontre et de la creation (mort des parents, Tsukiyo attiree par l'odeur du sang, naissance de la fascination) : -> roadmap (Passe 2).
-- secte / reseau d'influence : antenne de rabattage de la lignee ; structure et etendue a preciser (roadmap, et possible entree dossier Lieux).
+- secte / reseau d'influence : cf. WIKI Lieux/Secte_Paradis_Eternel.md.
 
 ---
 
