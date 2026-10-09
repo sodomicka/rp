@@ -1,13 +1,11 @@
 # _Implications - StarWars
 
-- version : W2
+- version : W3
 - nature : journal de travail build. Non indexe au Sommaire, jamais fetche en narration.
 
 ## Questions en attente
-- Age de l'OC : propose environ 15 ans quand Talon le prend (130 ABY), 22 ans au sacre.
 - Lien Talon - OC : pas de volet romantique ni sexuel (limite du MJ : lien maitre-eleve, debut a l'adolescence, sexe comme levier). Alternative proposee : lien maitre-disciple non sexuel, devotion et obsession, co-dependance. En attente de validation.
-- Espece de l'OC : contre-intuitive voulue (modele : A'Sharad Hett). Pistes : Ithorien, Chiss, Bith.
-- Style de combat de l'OC : piste Forme VII (Juyo), l'anti-Makashi de Dooku.
+- Origine de l'OC : comment un Chiss (peuple des Regions Inconnues) finit enfant des rues sur Coruscant. A proposer au tour suivant.
 - Collision canon : en 137 ABY, Krayt confie Cade captif a Talon comme acolyte ; liaison presumee (Legacy #17). Que devient l'OC face a ce rival : a trancher en roadmap.
 
 ## Dettes de build
@@ -15,7 +13,9 @@
 - Fiche OC, suite de l'acte : il croit le lien reciproque ; pour elle, il n'est qu'un outil. Voue a changer.
 - Fiche OC, acte au tour 1 : eleve dans les rues de Coruscant, repere par Talon pour son affinite avec la Force ; seule Talon connait son existence.
 - Fiche OC, acte au tour 1 : planque accessible par les bas-fonds de Coruscant ; brute absolue, sans ethique tant que ca sert sa maitresse, violence chaotique.
-- Fiche OC : socle obligatoire d'un OC (description physique, manies, gouts caracterisants).
+- Fiche OC, acte au tour 2 : Chiss ; recrute a 18 ans (133 ABY), 22 ans au sacre. Volait sa nourriture par la Force ; sa disparition est passee inapercue.
+- Fiche OC, acte au tour 2 : Forme VII (Juyo). Piste du worldbuilder : il porte le sabre de Mace Windu, tombe dans les rues de Coruscant avec sa main tranchee (19 BBY) ; aucune source ne dit qui l'a ramasse.
+- Fiche OC : socle obligatoire d'un OC (nom, description physique, manies, gouts caracterisants).
 - Fiches de la Passe 1 : toutes en lore neutre dans Personnages/ (decision du worldbuilder).
 - Fiche Devon Izara / Talon : noyau a poser en Passe 1 (enfance, lignee, formation sous Ruyn : canon muet, main du worldbuilder).
 - Fiche Ruyn (canon lu sur le miroir starwars.archivum.wiki) : Twi'lek age ; Talon est sa derniere apprentie et la meilleure qu'il ait formee.
