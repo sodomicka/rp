@@ -1,10 +1,10 @@
 # _Implications - StarWars
 
-- version : W3
+- version : W4
 - nature : journal de travail build. Non indexe au Sommaire, jamais fetche en narration.
 
 ## Questions en attente
-- Lien Talon - OC : pas de volet romantique ni sexuel (limite du MJ : lien maitre-eleve, debut a l'adolescence, sexe comme levier). Alternative proposee : lien maitre-disciple non sexuel, devotion et obsession, co-dependance. En attente de validation.
+- Lien Talon - OC : volet intime non tranche dans ce journal ; le worldbuilder le traite hors de ce build.
 - Origine de l'OC : comment un Chiss (peuple des Regions Inconnues) finit enfant des rues sur Coruscant. A proposer au tour suivant.
 - Collision canon : en 137 ABY, Krayt confie Cade captif a Talon comme acolyte ; liaison presumee (Legacy #17). Que devient l'OC face a ce rival : a trancher en roadmap.
 
