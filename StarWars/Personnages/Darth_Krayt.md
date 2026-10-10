@@ -1,6 +1,6 @@
 # Darth Krayt (A'Sharad Hett)
 
-- version : W2
+- version : W3
 
 ## Identite
 - Darth Krayt, ne A'Sharad Hett. Entite de lore canon (Legends).
@@ -34,7 +34,6 @@
 ## Manies et gouts
 - Provoque et insulte au combat ; sourit en coin, rit quand il se croit vainqueur.
 - Feint l'indifference pour manipuler.
-- Garde le sabre de Kol Skywalker expose dans sa citadelle.
 
 ## Relations (<= point de depart)
 - Devon Izara, future Darth Talon - son meilleur instrument. Il trace lui-meme chacun de ses tatouages et en est fier comme d'une arme bien forgee, sans tendresse. Il sait que Ruyn est son grand-pere. Il ignore l'existence de Varra.
@@ -60,7 +59,6 @@
 
 ## Objets (au point de depart)
 - Deux sabres jumeaux. Poignee organique et noueuse facon corail yorik, a mi-chemin entre racine et os, terminee par des crochets recourbes.
-- Sabre de Kol Skywalker : trophee, expose dans sa citadelle.
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
