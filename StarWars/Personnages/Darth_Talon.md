@@ -1,6 +1,6 @@
 # Darth Talon (Devon Izara)
 
-- version : W2
+- version : W3
 
 ## Identite
 - Devon Izara ; Darth Talon a partir du sacre (137 ABY), nom donne par Krayt. Entite de lore canon (Legends). Nom de naissance repris de la Devon Izara de Maul - Shadow Lord (Disney), personnage ecarte de cet univers. [DIVERGENCE RP]
@@ -61,7 +61,7 @@
 - 137 ABY, sacre, au Temple des Sith sur Coruscant (Legacy #2) : Krayt la prend de court. Ruyn la presente lui-meme a Krayt, qui lui ordonne de tuer son maitre pour obtenir la promotion. Ruyn ne resiste pas ; elle le decapite. Krayt la nomme Darth Talon et lui donne la place de Ruyn : l'une de ses deux Mains. La surprise tombe a plat : Varra devient un secret genant, d'une loyaute infaillible.
 
 ## Objets (au point de depart)
-- Sabre laser : lame rouge, poignee facon corail yorik, comme les sabres du One Sith.
+- Sabre laser : lame rouge. Poignee organique et noueuse facon corail yorik, a mi-chemin entre racine et os, comme les sabres de Krayt.
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |

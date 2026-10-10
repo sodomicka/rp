@@ -1,6 +1,6 @@
 # Darth Krayt (A'Sharad Hett)
 
-- version : W1
+- version : W2
 
 ## Identite
 - Darth Krayt, ne A'Sharad Hett. Entite de lore canon (Legends).
@@ -59,6 +59,7 @@
 - 137 ABY, sacre, au Temple des Sith (Legacy #2) : Ruyn, l'une de ses deux Mains, vieillit et faiblit ; Krayt le fait remplacer par sa disciple, sang ou non. Ruyn amene Talon ; Krayt lui ordonne de tuer son maitre, elle le decapite. Il la nomme Darth Talon et fait d'elle sa Main.
 
 ## Objets (au point de depart)
+- Deux sabres jumeaux. Poignee organique et noueuse facon corail yorik, a mi-chemin entre racine et os, terminee par des crochets recourbes.
 - Sabre de Kol Skywalker : trophee, expose dans sa citadelle.
 
 ## Trajectoire datee

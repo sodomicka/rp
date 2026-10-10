@@ -1,6 +1,6 @@
 # Varra
 
-- version : W2
+- version : W3
 
 ## Identite
 - Varra. Protagoniste ; OC, entite de lore neutre. [DIVERGENCE RP]
@@ -61,7 +61,7 @@
 
 ## Objets (au point de depart)
 - Sabre de Mace Windu, le vrai : lame violette (amethyste), poignee finition electrum. Canon Legends : des recuperateurs duros pretendent l'avoir trouve, casse (18 BBY), et le cedent au senateur Sano Sauro, qui l'expose dans son bureau ; pretention jamais verifiee. Ici, le sabre de Sauro est un faux et le vrai est reste dans les profondeurs jusqu'a Varra. Il refuse de le faire saigner.
-- Second sabre : cristal pris au premier Jedi qu'il abat. Il l'a fait saigner si brutalement que le cristal s'est fendu. [DIVERGENCE RP] Lame rouge, instable et gresillante.
+- Second sabre : cristal pris au premier Jedi qu'il abat. Il l'a fait saigner si brutalement que le cristal s'est fendu. [DIVERGENCE RP] Lame rouge, instable et gresillante. Poignee organique et noueuse facon corail yorik, a mi-chemin entre racine et os, comme les sabres du One Sith.
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
