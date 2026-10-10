@@ -6,7 +6,6 @@
 ## Questions en attente
 - Echo canon : a Vendaxa (137-138 ABY), Talon controle des vanx ; la meute de Varra en fait des betes qu'elle connait deja. A exploiter ou non en roadmap.
 - Collision canon : en 137 ABY, Krayt confie Cade captif a Talon comme acolyte ; liaison presumee (Legacy #17). Que devient l'OC face a ce rival : a trancher en roadmap.
-- Mobile de Talon (fiche Darth_Talon) : se montrer digne, pas l'ambition. Resume, Formation_Sith (W3) et BIBLE (SB1, Tchekhov SB8) parlent d'aveu d'ambition si l'acolyte est revele. A aligner ou non au BIBLE BUILD : question posee au worldbuilder.
 
 ## Dettes de build
 - Lien Varra - Talon, a poser en roadmap : pour elle, il n'est qu'un outil, et c'est voue a changer. Abusive au depart, la relation tourne lentement reciproque et la hierarchie s'efface.
