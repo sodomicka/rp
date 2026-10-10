@@ -1,6 +1,6 @@
 # Varra
 
-- version : W2
+- version : W1
 
 ## Identite
 - Varra. Protagoniste ; OC, entite de lore neutre. [DIVERGENCE RP]

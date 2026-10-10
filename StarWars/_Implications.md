@@ -9,8 +9,8 @@
 
 ## Dettes de build
 - Lien Varra - Talon, a poser en roadmap : pour elle, il n'est qu'un outil, et c'est voue a changer. Abusive au depart, la relation tourne lentement reciproque et la hierarchie s'efface.
-- BIBLE BUILD de cloture : verser la fiche Varra (Personnages/Varra.md, W2) en BIBLE.
-- Sommaire : indexer Personnages/ et les fiches de la Passe 1 (dont Varra.md, W2) au BIBLE BUILD de cloture.
+- BIBLE BUILD de cloture : verser la fiche Varra (Personnages/Varra.md, W1) en BIBLE.
+- Sommaire : indexer Personnages/ et les fiches de la Passe 1 (dont Varra.md, W1) au BIBLE BUILD de cloture.
 - Fiches de la Passe 1 : toutes en lore neutre dans Personnages/ (decision du worldbuilder).
 - Regle de placement a patcher, a la demande du worldbuilder : la SPEC (S7, Placement d'une fiche) et Config/INSTRUCTION_WIKI_FICHES.md font encore demander neutre ou perspective. Contenu du patch a proposer au worldbuilder.
 - Fiche Devon Izara / Talon, acte a la fiche Varra : elle pratique le Juyo, avec une technique presque dansee.
