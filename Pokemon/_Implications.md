@@ -115,8 +115,6 @@ A poser au build de l'arc qui les convoque, pas avant.
 ## Dettes de build
 
 - Systeme : forme de la fiche d'arc d'une roadmap NON JOUABLE (R0) a trancher en passe 3. Le precedent CSM n'a pas encore de fiches d'arc.
-- Systeme (hors univers) : SPEC_BIBLE_LORE_WIKI v8.5 se designe encore "v8_3" (ligne Emplacement et S12).
-- Systeme (hors univers) : les instructions WIKI disent en passe 3 "CODEX V1, puis SETUP", alors que le mode CODEX V1 exige un setup termine.
 - VF introuvables dans les sources verifiees : Shadow Triad, Zinzolin, Rood, Dudley, Colress, DNA Splicers (restent en VO).
 
 ## Retire (ne pas ressusciter)

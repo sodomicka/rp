@@ -1,6 +1,6 @@
 # Sommaire - CSM
 
-- version : W29
+- version : W30
 
 ## WIKI
 
@@ -10,7 +10,7 @@
 ### (racine)
 Description : index, resume et journal de travail.
 - Resume.md (W2) - resume de l'histoire etablie, des origines a mars 1999
-- _Implications.md (W42) - journal de travail du build (jamais fetche en narration)
+- _Implications.md (W43) - journal de travail du build (jamais fetche en narration)
 
 ### Roadmap/Makoto/
 Description : garde-cap de la campagne Makoto (Passe 2).

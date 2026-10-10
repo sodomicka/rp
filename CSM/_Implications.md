@@ -1,6 +1,6 @@
 # _Implications - CSM
 
-- version : W42
+- version : W43
 
 Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus et les taches faites sont PURGES (leur trace vivante est en BIBLE + fiches + Systemes/). Ne restent ici que le vivant - dettes, questions ouvertes, chantiers.
 
@@ -43,8 +43,6 @@ Document de TRAVAIL. Jamais fetche en narration. Allege : les arbitrages resolus
 ## Dette SPEC
 - Plafonds de page ACTES : 8k par defaut ; 15k pour les fiches de CAVALIERES (Mort, Famine, Guerre, Controle, Nayuta, Asa, Kiga - et les incarnations a venir) ; 20k pour le protagoniste (Effroi). Tolerances individuelles : Neant 9k (OC), Ange 10k.
 - Scission en satellites a planifier : Effroi.md (~30,7k > 20k), Guerre.md (~17,2k > 15k), Controle.md (~16,9k > 15k), Securite_Publique.md (~16,8k > 8k). Chantier de fiches separe, hors builds courants.
-
-- SPEC v8.5 - pointeurs internes perimes (constat B12, maintenance worldbuilder) : la ligne "Emplacement" et la structure de depot de S12 citent SPEC_BIBLE_LORE_WIKI_v8_3 ; le fetch de S9 liste Config/ par github.com/tree (methode de secours des Instructions, 403 possible) au lieu du clone sans blobs.
 
 ## Dette CODEX - ANNEXE_SAVOIRS (a servir au CODEX V1)
 - Ironie R1 : pendant R1, le couple analyse les douilles et planifie l'hybridation EN CROYANT Flingue inerte et disperse - il ne l'est pas, et il parle a Guerre pendant que celle-ci monte son raid. Le JOUEUR le sait, Makoto non. Refermee en 1989 (aveux de Flingue).

@@ -23,7 +23,7 @@ Declenchement : le worldbuilder demande explicitement la generation du CODEX V1 
 Prerequis : setup termine, BIBLE_LORE + WIKI existent, fiche d'arc de depart normalement buildee juste avant (sinon la builder d'abord).
 
 Regles :
-- Fetch SPEC_CODEX obligatoire. **Verifier d'abord le numero de version courant** par le listing de `Config/` (S8) : un CODEX V1 builde sur une SPEC perimee contamine toute la lignee. Dernier connu : `SPEC_CODEX_v8_4.md`.
+- Fetch SPEC_CODEX obligatoire. **Verifier d'abord le numero de version courant** par le listing de `Config/` (S8) : un CODEX V1 builde sur une SPEC perimee contamine toute la lignee. Dernier connu : `SPEC_CODEX_v8_5.md`.
 - Identifier les pages WIKI pertinentes a l'etat initial (protagoniste, PNJ en scene, lieu de depart, arc de depart). Fetch selectif - ne pas charger le wiki complet.
 - ANNEXE_CHRONO > Arcs : pour l'arc de depart, renseigner les DEUX renvois (`roadmap:` ET `fiche_arc:`), plus le jalon courant et le prochain jalon (= temps du Deroule de la fiche chargee).
 - ANNEXE_SAVOIRS : y verser l'ironie dramatique notee au journal d'implications (section "A verser au CODEX V1"), puis solder la section.
