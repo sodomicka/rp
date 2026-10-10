@@ -14,11 +14,11 @@
 ## Description physique
 - Chiss : peau bleue, yeux rouges, cheveux noir de jais.
 - 1,93 m, tres large d'epaules.
-- Longs cheveux tresses en dreadlocks, auxquels il tient.
+- Longs cheveux tresses en dreadlocks, ornees d'anneaux de metal, auxquels il tient.
 - Rase : c'est Talon qui le rase. Il ne s'etait jamais rase avant elle.
 - Brulures a la main gauche, heritees de sa facon de se battre avant Talon (barre de metal aiguisee au sabre laser).
 - Bien pourvu : membre genereux.
-- Reference visuelle : artwork du worldbuilder, `Personnages/Varra.png`. Torse nu, harnais de cuir croise, etoffe rouge au bras gauche et a la ceinture, pantalon noir ample, bottes noires ; sabre violet en main droite, sabre rouge en main gauche.
+- Reference visuelle : artwork du worldbuilder, `Personnages/Varra.png`. Torse nu, fines cicatrices sur les bras et le torse ; harnais de cuir croise a anneau central ; etoffe rouge nouee au bras gauche et dechiree a la ceinture ; pantalon noir ample ; hautes bottes noires a boucles. Sabre violet en main droite ; en main gauche, sabre rouge gresillant a poignee d'os recourbee en crochet.
 
 ## Psychologie (noyau)
 - Brute absolue : violence chaotique, sans ethique tant que ca sert sa maitresse. L'inverse de Dooku sur ce point.
@@ -61,7 +61,7 @@
 
 ## Objets (au point de depart)
 - Sabre de Mace Windu, le vrai : lame violette (amethyste), poignee finition electrum. Canon Legends : des recuperateurs duros pretendent l'avoir trouve, casse (18 BBY), et le cedent au senateur Sano Sauro, qui l'expose dans son bureau ; pretention jamais verifiee. Ici, le sabre de Sauro est un faux et le vrai est reste dans les profondeurs jusqu'a Varra. Il refuse de le faire saigner.
-- Second sabre : cristal pris au premier Jedi qu'il abat. Il l'a fait saigner si brutalement que le cristal s'est fendu. [DIVERGENCE RP] Lame rouge, instable et gresillante. Poignee organique et noueuse facon corail yorik, a mi-chemin entre racine et os, comme les sabres du One Sith.
+- Second sabre : cristal pris au premier Jedi qu'il abat. Il l'a fait saigner si brutalement que le cristal s'est fendu. [DIVERGENCE RP] Lame rouge, instable et gresillante. Poignee organique et noueuse facon corail yorik, a mi-chemin entre racine et os, comme les sabres du One Sith : couleur d'os, recourbee en crochet.
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |

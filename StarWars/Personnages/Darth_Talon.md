@@ -12,10 +12,11 @@
 - Apres le sacre : Darth Talon, l'une des deux Mains de Krayt, a la place de Ruyn.
 
 ## Description physique
-- Twi'lek lethane : peau rouge, lekku.
+- Twi'lek lethane : peau rouge. Longs lekku qui descendent jusqu'aux cuisses, ornes pres du sommet d'agrafes de metal.
 - 1,75 m.
 - Yeux jaunes de Sith.
-- Tatouages Sith noirs sur le corps, la tete et les lekku. Au point de depart, elle en est deja couverte, apres des annees de combats rituels gagnes : chacun est gagne en combat rituel et trace par Krayt lui-meme.
+- Tatouages Sith noirs a motifs tribaux sur le corps, le visage et les lekku. Au point de depart, elle en est deja couverte, apres des annees de combats rituels gagnes : chacun est gagne en combat rituel et trace par Krayt lui-meme.
+- Tenue (artworks) : bandeau de plaques de metal gris sur la poitrine, echancre en V au centre ; anneaux de metal en haut des bras ; longs gants noirs sous des brassards de metal ; ras-du-cou noir. Ceinture de lanieres de cuir noir a plaque de metal, d'ou pendent devant de longues bandes de tissu noir jusqu'aux chevilles. Cuissardes noires sous des jambieres de metal rivetees, bottes noires a talons. Ventre et hanches nus, qui montrent les tatouages.
 
 ## Psychologie (noyau)
 - Loyaute conditionnee par Ruyn envers l'Ordre et Krayt. Servir l'Ordre reste sa priorite.
@@ -61,7 +62,7 @@
 - 137 ABY, sacre, au Temple des Sith sur Coruscant (Legacy #2) : Krayt la prend de court. Ruyn la presente lui-meme a Krayt, qui lui ordonne de tuer son maitre pour obtenir la promotion. Ruyn ne resiste pas ; elle le decapite. Krayt la nomme Darth Talon et lui donne la place de Ruyn : l'une de ses deux Mains. La surprise tombe a plat : Varra devient un secret genant, d'une loyaute infaillible.
 
 ## Objets (au point de depart)
-- Sabre laser : lame rouge. Poignee organique et noueuse facon corail yorik, a mi-chemin entre racine et os, comme les sabres de Krayt.
+- Sabre laser : lame rouge. Poignee organique facon corail yorik, a mi-chemin entre racine et os, comme les sabres de Krayt : gris acier sombre, enlacee de nervures comme des racines, un cabochon rouge en son milieu, des griffes recourbees a pointes cuivrees aux deux extremites.
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
