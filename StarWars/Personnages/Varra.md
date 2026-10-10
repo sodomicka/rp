@@ -1,9 +1,9 @@
 # Varra
 
-- version : W1
+- version : W2
 
 ## Identite
-- Varra. Protagoniste ; OC, entite de lore neutre (decision du worldbuilder). [DIVERGENCE RP]
+- Varra. Protagoniste ; OC, entite de lore neutre. [DIVERGENCE RP]
 - Nom : mot twi'leki pour "sauvage" ou "tempete", donne par Talon. Aucun nom avant elle. Une fois lettre, il refuse le nom chiss qu'elle lui propose : il ne veut que celui que sa maitresse lui a donne.
 - Espece : Chiss.
 - Ne en 115 ABY dans les bas-fonds de Coruscant (recrute a 18 ans en 133 ABY : 133 - 18 = 115).
@@ -50,17 +50,17 @@
 ## Histoire (noyau, <= point de depart)
 - 115 ABY : naissance dans les bas-fonds de Coruscant, d'un parent chiss exile de l'Ascendance.
 - Vers 120 ABY, vers 5 ans : la Force se manifeste chez lui. Son parent l'abandonne : chez les Chiss, la sensibilite a la Force est une impurete honteuse.
-- 120-133 ABY, treize ans a l'etat sauvage dans les egouts. Une meute de vanx le recueille au lieu de le manger. Deduction de Talon sur leur presence : arrives sur Coruscant dans un transport de marchandises illegales dont ils faisaient partie, ils se sont echappes et caches dans les egouts. Il mange ce que la meute lui rapporte ; devenu plus fort qu'eux, c'est lui qui la nourrit. Il oublie tout, son identite comme sa langue.
+- 120-133 ABY, treize ans a l'etat sauvage dans les egouts. Une meute de vanx le recueille au lieu de le manger. [DIVERGENCE RP] Deduction de Talon sur leur presence : arrives sur Coruscant dans un transport de marchandises illegales dont ils faisaient partie, ils se sont echappes et caches dans les egouts. Il mange ce que la meute lui rapporte ; devenu plus fort qu'eux, c'est lui qui la nourrit. Il oublie tout, son identite comme sa langue.
 - Pendant ces annees (date non fixee) : il trouve le vrai sabre de Mace Windu, tombe dans les rues de Coruscant avec la main tranchee de Windu (19 BBY). Il se bat avec ce sabre et une barre de metal aiguisee au sabre laser, qui lui sert a trancher la viande d'aliens : d'ou les brulures de sa main gauche.
 - La bete des bas-fonds : la legende d'un monstre aux yeux rouges qui se deplace comme une bete, arme d'un sabre violet et d'une barre de metal tranchante. Les temoins, trop loin, n'ont vu que des yeux rouges et un humanoide bougeant comme une bete. Il tue et mange des aliens : la legende parle d'un cannibale.
 - 133 ABY : un sabre violet dans les bas-fonds evoque un Jedi cache, traque depuis 130 ABY. Devon Izara descend tuer un Jedi et trouve une bete de 18 ans qui ne parle pas. Elle le repere pour son affinite avec la Force et en fait son acolyte secret. Sa disparition passe inapercue ; les disparitions cessent, il ne reste que la legende.
 - 133-137 ABY, formation secrete. Elle le nomme Varra et lui apprend le basic, puis a lire. Il refuse le nom chiss qu'elle lui propose. Elle reconnait le sabre de Windu, lui en raconte l'histoire et combien il convient a son style, et propose de le faire saigner : il refuse, trop attache.
-- Premier Jedi abattu (date non fixee) : une mission que Talon devait mener seule et dont elle se sert pour tester son disciple. Le cristal de ce Jedi devient celui de son second sabre, qui remplace sa barre de metal. Il le fait saigner si brutalement que le cristal se fend. Talon y comprend combien elle doit garder sa brutalite sous controle.
+- Premier Jedi abattu (date non fixee) : une mission que Talon devait mener seule et dont elle se sert pour tester son disciple. Le cristal de ce Jedi devient celui de son second sabre, qui remplace sa barre de metal. Il le fait saigner si brutalement que le cristal se fend. [DIVERGENCE RP] Talon y comprend combien elle doit garder sa brutalite sous controle.
 - Point de depart : 137 ABY, quelques jours avant le sacre de Talon.
 
 ## Objets (au point de depart)
 - Sabre de Mace Windu, le vrai : lame violette (amethyste), poignee finition electrum. Canon Legends : des recuperateurs duros pretendent l'avoir trouve, casse (18 BBY), et le cedent au senateur Sano Sauro, qui l'expose dans son bureau ; pretention jamais verifiee. Ici, le sabre de Sauro est un faux et le vrai est reste dans les profondeurs jusqu'a Varra. Il refuse de le faire saigner.
-- Second sabre : cristal pris au premier Jedi qu'il abat, saigne si brutalement qu'il s'est fendu. Lame rouge, instable et gresillante. Saignement d'un kyber : import Disney (roman Ahsoka, E. K. Johnston), Legends muet, decision du worldbuilder.
+- Second sabre : cristal pris au premier Jedi qu'il abat. Il l'a fait saigner si brutalement que le cristal s'est fendu. [DIVERGENCE RP] Lame rouge, instable et gresillante.
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
