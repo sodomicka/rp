@@ -1,0 +1,61 @@
+# Darth Talon (Devon Izara)
+
+- version : W1
+
+## Identite
+- Devon Izara ; Darth Talon a partir du sacre (137 ABY), nom donne par Krayt. Entite de lore canon (Legends). Nom de naissance repris de la Devon Izara de Maul - Shadow Lord (Disney), personnage ecarte de cet univers. [DIVERGENCE RP]
+- Espece : Twi'lek lethane.
+- Lignee : Sith de troisieme generation. Izara est le nom de la lignee, porte par les trois generations.
+- Nee en 108 ABY (29 ans en 137 ABY : 137 - 29 = 108).
+- Age au point de depart (137 ABY, quelques jours avant le sacre) : 29 ans.
+- Statut au point de depart : apprentie de Darth Ruyn, non sacree. Forme en secret un acolyte, Varra, depuis 133 ABY.
+- Apres le sacre : Darth Talon, l'une des deux Mains de Krayt.
+
+## Description physique
+- Twi'lek lethane : peau rouge, lekku.
+- 1,75 m.
+- Yeux jaunes de Sith.
+- Tatouages Sith noirs sur le corps, la tete et les lekku. Au point de depart, elle en est deja couverte, apres des annees de combats rituels gagnes : chacun est gagne en combat rituel et trace par Krayt lui-meme.
+
+## Psychologie (noyau)
+- Loyaute conditionnee par Ruyn envers l'Ordre et Krayt. Servir l'Ordre reste sa priorite.
+- Pour elle, chacun est un outil : Ruyn l'etait pour sa formation, Varra l'est pour faire ses preuves.
+- Elle forme Varra en secret pour le presenter par surprise a l'Ordre et se montrer digne, pas par ambition.
+
+## Capacites (noyau, <= point de depart)
+- Formee comme assassin par Ruyn.
+- Combat : Forme VII, le Juyo, avec une technique presque dansee. Elle y forme Varra : a lui la brutalite, a elle la technique.
+- Force : eclair, poussee, illusion de Force, controle des betes.
+- Bonne pilote.
+
+## Relations (<= point de depart)
+- Darth Ruyn - maitre. Twi'lek age ; elle est sa derniere apprentie et la meilleure qu'il ait formee. Il fait d'elle une assassin et conditionne sa loyaute. Elle n'eprouve rien pour lui, tout au plus un respect froid : il etait l'outil de sa formation.
+- Darth Krayt - Seigneur Noir, objet de sa loyaute. Il trace lui-meme chacun de ses tatouages.
+- Ordre Sith - sa seule famille. Il ignore l'existence de Varra.
+- Varra - acolyte secret depuis 133 ABY ; elle domine. Elle le trouve dans les bas-fonds de Coruscant, le nomme, lui apprend le basic, la lecture, le Juyo et l'eclair. Pour elle, il n'est qu'un outil.
+  - Relation sexuelle depuis le recrutement (il a 18 ans), rien avant : pour le dompter au debut, puis par habitude et pour le calmer.
+  - Elle decide qui il peut chasser. Detail : cf. Personnages/Varra.md.
+- Darth Nihl - Nagai, Main de Krayt depuis 130 ABY ; son rival.
+- Parents - Sith de rang modeste, morts ou disparus, qui l'ont laissee enfant a l'academie Sith de Korriban.
+
+## Histoire (noyau, jusqu'au sacre)
+- 108 ABY : naissance dans une lignee Sith, troisieme generation des Izara.
+- Enfance : ses parents, Sith de rang modeste, la laissent a l'academie Sith de Korriban ; ils sont aujourd'hui morts ou disparus. L'Ordre devient sa seule famille.
+- Elevee et formee a l'academie. Apprentie de Ruyn : formation d'assassin, loyaute conditionnee. Chaque tatouage est gagne en combat rituel et trace par Krayt.
+- 133 ABY, a 25 ans : descendue dans les bas-fonds de Coruscant tuer un Jedi cache, elle trouve Varra, une bete de 18 ans qui ne parle pas, et en fait son acolyte secret (cf. Personnages/Varra.md).
+- 133-137 ABY : elle le forme en secret pour le presenter par surprise a l'Ordre et se montrer digne.
+- Point de depart : 137 ABY, quelques jours avant le sacre.
+- 137 ABY, sacre, au Temple des Sith sur Coruscant (Legacy #2) : Krayt la prend de court. Ruyn la presente lui-meme a Krayt, qui lui ordonne de tuer son maitre pour obtenir la promotion. Ruyn ne resiste pas ; elle le decapite. Krayt la nomme Darth Talon et fait d'elle l'une de ses deux Mains. La surprise tombe a plat : Varra devient un secret genant, d'une loyaute infaillible.
+
+## Objets (au point de depart)
+- Sabre laser : lame rouge, poignee facon corail yorik, comme les sabres du One Sith.
+
+## Trajectoire datee
+| Date/ere | Evenement | Delta d'etat |
+|---|---|---|
+
+- (aucune entree : alimentee a chaud a partir de la Passe 2)
+
+---
+
+FIN_WIKI_PERSONNAGES_DARTH_TALON
