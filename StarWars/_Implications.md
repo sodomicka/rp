@@ -17,7 +17,7 @@
 - Suite du canon : One Sith en clandestinite sous Nihl ; Darth Wredd et bataille du Monde Flottant (139 ABY) ; Legacy vol. 2 (Ania Solo).
 
 ## Doutes non tranches
-- Reprise de Bastion par Fel : avant ou apres le sacre.
+- Reprise de Bastion par Fel : avant ou apres le sacre. Indice canon : Marasiah est deja mise a l'abri en secret sur Bastion au moment du coup d'Etat de 130 ABY, ce qui cadre mal avec une reprise en 137. Lieu laisse hors de sa fiche tant que ce n'est pas tranche.
 
 ## Points a reverifier a la cloture
 - (aucun)
