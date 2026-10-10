@@ -1,6 +1,6 @@
 # Darth Ruyn
 
-- version : W1
+- version : W2
 
 ## Identite
 - Darth Ruyn. Entite de lore canon (Legends).
@@ -32,7 +32,7 @@
 
 ## Relations (<= point de depart)
 - Devon Izara, future Darth Talon - sa derniere apprentie, la meilleure qu'il ait formee, et sa petite-fille, ce qu'elle ignore. Il la juge prete. Il ignore l'existence de Varra.
-- Darth Krayt - Seigneur Noir, qu'il sert comme seconde Main. Le seul autre a connaitre son nom de naissance et sa parente avec Talon.
+- Darth Krayt - Seigneur Noir, qu'il sert comme seconde Main. Krayt le voit vieillir et faiblir dans ce role. Le seul autre a connaitre son nom de naissance et sa parente avec Talon.
 - Son enfant, parent de Talon - porte le nom Izara et a grandi sans savoir que Ruyn etait son pere. Sith de rang modeste, mort ou disparu (cf. Personnages/Darth_Talon.md).
 - Anciens apprentis - nombreux, aucun nomme.
 
@@ -42,7 +42,7 @@
 - Il forme de nombreux apprentis ; Talon est la derniere.
 - Il forme Talon comme assassin, a l'academie Sith de Korriban, et souvent dans la Chambre d'art Sith du Temple des Sith, sur Coruscant.
 - Point de depart : 137 ABY, quelques jours avant le sacre.
-- 137 ABY, sacre, au Temple des Sith (Legacy #2) : la jugeant prete, il amene Talon devant Krayt et declare sa formation achevee. Krayt ordonne a Talon de tuer son maitre. Ruyn ne resiste pas ; elle le decapite sans hesiter et prend sa place de Main. Selon Talon, il a accepte de mourir pour qu'elle acheve sa formation.
+- 137 ABY, sacre, au Temple des Sith (Legacy #2) : avec l'age, il faiblit dans son role de Main, et Krayt decide de le remplacer par sa disciple, sang ou non (cf. Personnages/Darth_Krayt.md). La jugeant prete, il amene Talon devant Krayt et declare sa formation achevee. Krayt ordonne a Talon de tuer son maitre. Ruyn ne resiste pas ; elle le decapite sans hesiter et prend sa place de Main. Selon Talon, il a accepte de mourir pour qu'elle acheve sa formation.
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
