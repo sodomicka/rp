@@ -23,7 +23,8 @@
 - Sacre, salle du trone du Temple des Sith : sur ordre de Krayt, Devon Izara decapite Ruyn. Krayt la nomme Darth Talon, l'une de ses deux Mains. Varra devient un secret genant.
 - Krayt l'envoie capturer la princesse Marasiah Fel.
 - Socorro : Marasiah lui echappe. Talon mutile puis tue le Chevalier Imperial Elke Vetter. Marasiah fuit a bord du Mynock, le cargo de Cade Skywalker.
-- Vendaxa : Talon rattrape le groupe (Wolf Sazen, Shado Vao, puis les Chevaliers Draco et Krieg) et lance des vanx sur eux. Marasiah est grievement blessee, mais Talon echoue encore.
+- Vendaxa : Talon rattrape le groupe (Wolf Sazen, Shado Vao, puis les Chevaliers Draco et Krieg) et lance des vanx sur eux ; d'autres Sith, dont Nihl, la rejoignent pour l'assaut final. Marasiah est grievement blessee, mais Talon echoue encore.
+- [RP] Les vanx de Vendaxa sont la meute de Varra, que Talon teste sur le terrain. Toute la meute y passe.
 - Cause de l'echec [RP] : pendant la traque, Talon exige de Varra qu'il reste en retrait et se contente de l'observer traquer. Elle passe trop de temps a le discipliner : cette rigueur envers son disciple la distrait. Ce n'est pas l'incompetence du canon.
 - Retour a Coruscant : Talon s'attend a etre executee. Elle revele a Krayt qu'un Skywalker est dans le coup.
 - [RP] Varra se presente de lui-meme et demande a etre execute pour sauver sa maitresse : l'echec est sa faute. L'Ordre decouvre l'acolyte secret.
