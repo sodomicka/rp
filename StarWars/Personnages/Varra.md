@@ -1,6 +1,6 @@
 # Varra
 
-- version : W3
+- version : W4
 
 ## Identite
 - Varra. Protagoniste ; OC, entite de lore neutre. [DIVERGENCE RP]
@@ -9,7 +9,7 @@
 - Ne en 115 ABY dans les bas-fonds de Coruscant (recrute a 18 ans en 133 ABY : 133 - 18 = 115).
 - Age au point de depart (137 ABY, quelques jours avant le sacre de Talon) : 22 ans.
 - Statut : acolyte forme en secret par Devon Izara, la future Darth Talon, depuis 133 ABY. Seule Talon connait son existence.
-- Planque : accessible par les bas-fonds de Coruscant. Sa meute vit avec lui.
+- Planque : l'antre, une station de pompage abandonnee des bas-fonds de Coruscant, choisie par Talon (cf. Lieux/L_Antre.md). Sa meute vit avec lui.
 
 ## Description physique
 - Chiss : peau bleue, yeux rouges, cheveux noir de jais.
