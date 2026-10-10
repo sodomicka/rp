@@ -21,6 +21,9 @@
 - Loyaute conditionnee par Ruyn envers l'Ordre et Krayt. Servir l'Ordre reste sa priorite.
 - Pour elle, chacun est un outil : Ruyn l'etait pour sa formation, Varra l'est pour faire ses preuves.
 - Elle forme Varra en secret pour le presenter par surprise a l'Ordre et se montrer digne, pas par ambition.
+- Seductrice : son corps est une arme, et elle aime s'en servir autant que se sentir desiree.
+- Tue avec efficacite, et y prend plaisir. Froide en mission, cruelle avec ceux qui la decoivent.
+- Ironie froide et mordante, surtout envers ses rivaux, comme Nihl.
 
 ## Capacites (noyau, <= point de depart)
 - Formee comme assassin par Ruyn.
@@ -28,12 +31,22 @@
 - Force : eclair, poussee, illusion de Force, controle des betes.
 - Bonne pilote.
 
+## Manies et gouts
+- Raffinee a table : bons vins et mets fins de Coruscant. De temps en temps, elle s'autorise a manger comme Varra, par une sorte d'instinct gregaire et comme outil de manipulation.
+- Plaisirs hors devoir : le pilotage, pour la vitesse et le controle total ; le Juyo pour lui-meme, la danse plus que le combat, facon capoeira.
+- Deteste etre prise de court. Elle a appris comment Varra fonctionne pour ne plus jamais l'etre par lui.
+- Deteste les Jedi, par reflexion plus que par conditionnement : ils refusent leurs emotions, ce qui a cause Vador et leur ferme quantite de formes de Force et de combat.
+- Corrige le basic de Varra phrase par phrase, des annees apres le lui avoir appris.
+- Entretient son sabre avec un soin maniaque, a l'oppose de Varra qui aiguise les siens l'un contre l'autre. Ce tic de Varra ne l'agace pas : il fait une trop bonne diversion.
+- Rase Varra elle-meme.
+- La strategie et les longues phrases lui reviennent : Varra les lui laisse volontiers.
+
 ## Relations (<= point de depart)
 - Darth Ruyn - maitre. Twi'lek age ; elle est sa derniere apprentie et la meilleure qu'il ait formee. Il fait d'elle une assassin et conditionne sa loyaute. Elle n'eprouve rien pour lui, tout au plus un respect froid : il etait l'outil de sa formation.
 - Darth Krayt - Seigneur Noir, objet de sa loyaute. Il trace lui-meme chacun de ses tatouages.
 - Ordre Sith - sa seule famille. Il ignore l'existence de Varra.
 - Varra - acolyte secret depuis 133 ABY ; elle domine. Elle le trouve dans les bas-fonds de Coruscant, le nomme, lui apprend le basic, la lecture, le Juyo et l'eclair. Pour elle, il n'est qu'un outil.
-  - Relation sexuelle depuis le recrutement (il a 18 ans), rien avant : pour le dompter au debut, puis par habitude et pour le calmer.
+  - Relation sexuelle depuis le recrutement (il a 18 ans), rien avant : pour le dompter au debut, puis par habitude et pour le calmer. Avec lui, elle n'a pas a feindre : elle prend vraiment son pied.
   - Elle decide qui il peut chasser. Detail : cf. Personnages/Varra.md.
 - Darth Nihl - Nagai, Main de Krayt depuis 130 ABY ; son rival.
 - Parents - Sith de rang modeste, morts ou disparus, qui l'ont laissee enfant a l'academie Sith de Korriban.
