@@ -1,6 +1,6 @@
 # Histoire galactique
 
-- version : W1
+- version : W2
 
 Grandes eres, des origines a 127 ABY. Base Legends ; la postlogie Disney est ecartee. Dates en BBY / ABY (avant / apres la bataille de Yavin).
 
@@ -48,7 +48,7 @@ Grandes eres, des origines a 127 ABY. Base Legends ; la postlogie Disney est eca
 
 ## Notes
 - La periode 44-127 ABY est presque vide dans les sources : la croissance du Nouvel Ordre Jedi et le sort de Luke, Leia, Han, Ben Skywalker et Jaina Solo Fel n'y sont pas racontes.
-- Cade Skywalker serait ne en 116 ABY selon Jan Duursema, date jamais confirmee en canon. [INCERTAIN]
+- Annee de naissance de Cade Skywalker jamais confirmee en canon : environ 21 ans en 137 ABY selon Jan Duursema (cf. Personnages/Cade_Skywalker.md). [INCERTAIN]
 - Suite : cf. Chronologie/Ere_Legacy.md.
 
 ---

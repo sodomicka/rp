@@ -25,7 +25,7 @@ Description : regles de fonctionnement du monde.
 
 ### Chronologie/
 Description : histoire galactique en tables datees (BBY / ABY).
-- Histoire_Galactique.md (W1) - grandes eres, des origines a 127 ABY.
+- Histoire_Galactique.md (W2) - grandes eres, des origines a 127 ABY.
 - Ere_Legacy.md (W2) - de 127 ABY au sacre de Talon (137 ABY).
 
 ### Personnages/
