@@ -31,8 +31,9 @@
 ## 137 ABY - Cade au Temple
 - Cade s'infiltre au Temple des Sith avec le Jedi Hosk Trey'lis. Talon le combat et perd ; Nihl capture Cade.
 - Maladi torture Cade. Krayt veut le convertir et nomme Talon son maitre ; un lien dans la Force se tisse entre eux.
-- Krayt tue Hosk. Cade empale Talon avec le sabre de son pere et s'evade de Coruscant ; Talon passe un long moment en cuve de bacta. [QUESTION EN ATTENTE : evasion gardee telle quelle, ou empechee par Varra]
 - [RP] Varra est sous la coupe de Nihl.
+- Krayt tue Hosk. Cade empale Talon avec le sabre de son pere et s'evade de Coruscant ; Talon passe un long moment en cuve de bacta.
+- [RP] Varra quitte son poste : il sent une perturbation dans la Force, celle qu'il aime est aux portes de la mort. Pas le temps de rattraper le traitre : le plus urgent est de sauver sa maitresse. Cade lui echappe ; il le demontera plus tard (cf. Fils transverses).
 
 ## 137-138 ABY - Had Abbadon
 - Karness Muur, esprit Sith qui possede la Jedi Celeste Morne, offre a Krayt de le guerir et de lui livrer Cade s'il vient sur Had Abbadon. C'est un piege.
@@ -55,7 +56,7 @@
 - Canon : l'Empire de Krayt s'effondre, un triumvirat lui succede. Talon passe dans la clandestinite avec les Sith survivants ; Nihl devient Seigneur Noir et ordonne d'infiltrer les gouvernements planetaires. Le canon s'arrete la.
 - [RP] A ecrire quand on y sera, jusqu'a la destination.
 
-## Decoupage en roadmaps (propose, a valider)
+## Decoupage en roadmaps
 - R1 - Le sacre et la princesse (137 ABY) : du sacre a la sentence.
 - R2 - Cade au Temple (137 ABY) : de la sentence a l'evasion de Cade.
 - R3 - Had Abbadon (137-138 ABY) : de la convalescence de Talon a la chute de Krayt.

@@ -5,7 +5,8 @@
 
 ## Questions en attente
 - Echo canon : a Vendaxa (137-138 ABY), Talon controle des vanx ; la meute de Varra en fait des betes qu'elle connait deja. A exploiter ou non en roadmap.
-- Cade (cap pose au garde-cap) : evasion de Cade en empalant Talon, gardee telle quelle ou empechee par Varra. Question posee au worldbuilder. Echo : les aventures d'un soir de Cade sont une aberration pour Varra, qui ne connait que le sexe regulier avec Talon.
+- Varra quitte son poste sous Nihl pour sauver Talon (garde-cap, R2) : reaction de Nihl a trancher en roadmap R2.
+- Echo Cade - Varra : les aventures d'un soir de Cade sont une aberration pour Varra, qui ne connait que le sexe regulier avec Talon.
 - Echo Nihl - Varra : Nihl aime la brutalite sans habilete ; celle de Varra lui plairait. A exploiter en R1-R2 : Varra lui est confie a la sentence (garde-cap).
 - Echo Maladi - Varra : la bete des bas-fonds au sabre violet a ete rayee de la liste de Maladi sur la parole de Talon (fausse piste, 133 ABY). Et pour Maladi, est un cobaye quiconque n'est ni Darth ni sous la protection d'un seigneur Sith : avant le sacre, Talon n'est pas Darth. Varra se revele a l'Ordre en fin de R1 (garde-cap) : Maladi decouvre-t-elle alors le mensonge ? A trancher en roadmap R1.
 
