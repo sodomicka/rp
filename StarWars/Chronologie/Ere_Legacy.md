@@ -1,6 +1,6 @@
 # Ere Legacy
 
-- version : W1
+- version : W2
 
 Chronologie de 127 ABY au sacre de Talon (137 ABY). Le detail par faction vit dans Factions/ ; ce qui suit le sacre vit en roadmap.
 
@@ -18,11 +18,11 @@ Chronologie de 127 ABY au sacre de Talon (137 ABY). Le detail par faction vit da
 | 130 ABY | Nihl promu Main ; Stryfe lui succede comme Poing | - |
 | 130-137 ABY | Exil de Fel (raids eclair) ; raids du Reste de l'Alliance ; Jedi caches et traques ; stases de Krayt sous la regence de la Voix | equilibre de guerre larvee |
 | 137 ABY | Roan Fel reprend Bastion avec Draco, Krieg, Dare et le general Oron Jaeger | empire en exil installe a Bastion ; avant ou apres le sacre de Talon : non documente [INCERTAIN] |
-| 137 ABY | Sacre de Talon : sur ordre de Krayt, l'apprentie de Ruyn tue son maitre ; Krayt la nomme Darth Talon et fait d'elle l'une de ses deux Mains | borne de cette page |
+| 137 ABY | Sacre de Talon, dans la salle du trone de la tour de Krayt, au Temple des Sith : sur ordre de Krayt, l'apprentie de Ruyn decapite son maitre ; Krayt la nomme Darth Talon et lui donne la place de Ruyn, l'une de ses deux Mains | borne de cette page |
 
 ## Notes
 - Sacre de Talon en 137 ABY (Legacy #2), retenu contre 130 ABY (Jedi vs. Sith, 2007) par decision du worldbuilder.
-- Ordre des evenements de 130 ABY : Caamas, chute de Coruscant, Ossus deux jours plus tard, puis le coup d'Etat. Seul l'ecart Coruscant-Ossus est date ; la place du coup apres Ossus est deduite (le massacre aide Krayt a evincer Fel). [IMPLICITE]
+- Ordre des evenements de 130 ABY : Caamas, chute de Coruscant, Ossus deux jours plus tard, puis le coup d'Etat. Krayt gagne Coruscant apres Ossus, avec Wyyrlok III (cf. Personnages/Darth_Wyyrlok_III.md).
 - Fondation du Reste de l'Alliance : apres Caamas (130 ABY).
 - Avant cette ere : cf. Chronologie/Histoire_Galactique.md.
 

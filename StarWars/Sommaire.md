@@ -1,6 +1,6 @@
 # Sommaire - StarWars
 
-- version : W1
+- version : W2
 
 ## WIKI
 
@@ -14,7 +14,7 @@ Description : la Force, ses deux cotes et ses regles (base Legends).
 
 ### Factions/
 Description : factions de l'ere Legacy, decrites jusqu'au sacre de Talon (137 ABY).
-- One_Sith.md (W4) - ordre Sith de Krayt : Regle de l'Un, hierarchie, membres avant 137 ABY (dont Devon Izara, future Talon), role 127-137 ABY, Temple des Sith, etat de Krayt.
+- One_Sith.md (W6) - ordre Sith de Krayt : Regle de l'Un, hierarchie, membres avant 137 ABY (dont Devon Izara, future Talon), role 127-137 ABY, Temple des Sith, etat de Krayt.
 - Empire_de_Krayt.md (W1) - empire ne du coup d'Etat de 130 ABY : gouvernement, Conseil des Moffs, figures (Veed, Calixte, Yage), forces, ennemis.
 - Empire_Fel.md (W1) - empire de la dynastie Fel : origine, gouvernement, Chevaliers Imperiaux, guerre et exil (127-137 ABY).
 - Alliance_et_Jedi.md (W1) - Alliance Galactique, Reste de l'Alliance de Stazi, Nouvel Ordre Jedi apres Ossus, Cade Skywalker (130-137 ABY).
@@ -25,8 +25,24 @@ Description : regles de fonctionnement du monde.
 
 ### Chronologie/
 Description : histoire galactique en tables datees (BBY / ABY).
-- Histoire_Galactique.md (W1) - grandes eres, des origines a 127 ABY.
-- Ere_Legacy.md (W1) - de 127 ABY au sacre de Talon (137 ABY).
+- Histoire_Galactique.md (W2) - grandes eres, des origines a 127 ABY.
+- Ere_Legacy.md (W2) - de 127 ABY au sacre de Talon (137 ABY).
+
+### Personnages/
+Description : personnages decrits au point de depart (137 ABY, quelques jours avant le sacre de Talon), en lore neutre.
+- Varra.md (W4) - protagoniste, OC chiss, acolyte secret de Devon Izara : identite, physique, psychologie, capacites, manies, relations, histoire, sabres.
+- Darth_Talon.md (W4) - Devon Izara, future Darth Talon : lignee Izara, physique, psychologie, capacites, manies, relations, histoire jusqu'au sacre, sabre.
+- Darth_Ruyn.md (W2) - maitre de Talon, seconde Main de Krayt et grand-pere secret de Talon.
+- Darth_Krayt.md (W3) - Seigneur Noir et Empereur : apparence, psychologie, capacites, relations, histoire jusqu'au sacre.
+- Darth_Nihl.md (W1) - Main de Krayt depuis 130 ABY, rival de Talon.
+- Cade_Skywalker.md (W1) - fils de Kol, capitaine du Mynock, traque par Krayt.
+- Darth_Wyyrlok_III.md (W1) - la Voix, Maitre du savoir et regent ; lignee des Wyyrlok.
+- Darth_Maladi.md (W1) - Renseignement et Assassinat Sith, medecin de l'Ordre ; fournit ses contrats a Talon.
+
+### Lieux/
+Description : lieux decrits au point de depart.
+- Temple_des_Sith.md (W1) - siege du One Sith sur Coruscant : architecture, tour de Krayt, Chambre d'art Sith, laboratoire de Maladi, defenses, lieu du sacre.
+- L_Antre.md (W1) - planque OC de Varra dans les bas-fonds de Coruscant, lieu de sa formation secrete.
 
 > ROADMAPS NON INDEXEES EN JEU. Le dossier `Roadmap/<Prota>/` n'est pas liste ici : SOURCES DE BUILD, lues en mode Wiki par listing direct du dossier, JAMAIS fetchees en narration. En jeu, le MJ navigue d'arc en arc par les fiches d'arc et tient le fil long via le CODEX ANNEXE_CHRONO.
 >

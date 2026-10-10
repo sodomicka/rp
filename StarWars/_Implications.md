@@ -1,37 +1,28 @@
 # _Implications - StarWars
 
-- version : W4
+- version : W18
 - nature : journal de travail build. Non indexe au Sommaire, jamais fetche en narration.
 
 ## Questions en attente
-- Lien Talon - OC : volet intime non tranche dans ce journal ; le worldbuilder le traite hors de ce build.
-- Origine de l'OC : comment un Chiss (peuple des Regions Inconnues) finit enfant des rues sur Coruscant. A proposer au tour suivant.
-- Collision canon : en 137 ABY, Krayt confie Cade captif a Talon comme acolyte ; liaison presumee (Legacy #17). Que devient l'OC face a ce rival : a trancher en roadmap.
+- Echo canon : a Vendaxa (137-138 ABY), Talon controle des vanx ; la meute de Varra en fait des betes qu'elle connait deja. A exploiter ou non en roadmap.
+- Collision canon : en 137 ABY, Krayt confie Cade captif a Talon comme acolyte ; liaison presumee (Legacy #17). Que devient l'OC face a ce rival : a trancher en roadmap. Cap du worldbuilder : pas touche a Talon ; Varra demonte Cade s'il l'approche, meme si c'est une strategie de Talon. Echo : les aventures d'un soir de Cade sont une aberration pour Varra, qui ne connait que le sexe regulier avec Talon.
+- Secret de lignee : Talon ignore que Ruyn, ne Izara, est son grand-pere ; seuls Krayt et Ruyn le savent. Revelation a exploiter ou non en roadmap.
+- Echo Nihl - Varra : Nihl aime la brutalite sans habilete ; celle de Varra lui plairait. A exploiter ou non en roadmap, le jour ou il le decouvre.
+- Echo Maladi - Varra : la bete des bas-fonds au sabre violet a ete rayee de la liste de Maladi sur la parole de Talon (fausse piste, 133 ABY). Et pour Maladi, est un cobaye quiconque n'est ni Darth ni sous la protection d'un seigneur Sith : avant le sacre, Talon n'est pas Darth. A exploiter ou non en roadmap.
 
 ## Dettes de build
-- Fiche OC : brainstorm en Passe 1. Acte : homme jeune, sincerement accro a Talon ; relation maitre-eleve, elle domine.
-- Fiche OC, suite de l'acte : il croit le lien reciproque ; pour elle, il n'est qu'un outil. Voue a changer.
-- Fiche OC, acte au tour 1 : eleve dans les rues de Coruscant, repere par Talon pour son affinite avec la Force ; seule Talon connait son existence.
-- Fiche OC, acte au tour 1 : planque accessible par les bas-fonds de Coruscant ; brute absolue, sans ethique tant que ca sert sa maitresse, violence chaotique.
-- Fiche OC, acte au tour 2 : Chiss ; recrute a 18 ans (133 ABY), 22 ans au sacre. Volait sa nourriture par la Force ; sa disparition est passee inapercue.
-- Fiche OC, acte au tour 2 : Forme VII (Juyo). Piste du worldbuilder : il porte le sabre de Mace Windu, tombe dans les rues de Coruscant avec sa main tranchee (19 BBY) ; aucune source ne dit qui l'a ramasse.
-- Fiche OC : socle obligatoire d'un OC (nom, description physique, manies, gouts caracterisants).
+- Lien Varra - Talon, a poser en roadmap : pour elle, il n'est qu'un outil, et c'est voue a changer. Abusive au depart, la relation tourne lentement reciproque et la hierarchie s'efface.
 - Fiches de la Passe 1 : toutes en lore neutre dans Personnages/ (decision du worldbuilder).
-- Fiche Devon Izara / Talon : noyau a poser en Passe 1 (enfance, lignee, formation sous Ruyn : canon muet, main du worldbuilder).
-- Fiche Ruyn (canon lu sur le miroir starwars.archivum.wiki) : Twi'lek age ; Talon est sa derniere apprentie et la meilleure qu'il ait formee.
-- Fiche Ruyn, suite : il la forme souvent dans la Chambre d'art Sith (Sith Art Chamber) du Temple des Sith, propice a la meditation. Il la presente lui-meme a Krayt en 137 ABY, ne resiste pas, et elle le decapite (Legacy #2).
-- Sacre de Talon : au Temple des Sith, sur Coruscant (Legacy #2). A verser en BIBLE SB3/SB5/SB6 et dans Ere_Legacy au prochain build.
+- Passe 1 close au BIBLE BUILD B2. Darth Stryfe plus tard.
+- Regle de placement a patcher, a la demande du worldbuilder : la SPEC (S7, Placement d'une fiche) et Config/INSTRUCTION_WIKI_FICHES.md font encore demander neutre ou perspective. Contenu du patch a proposer au worldbuilder.
 - Canon posterieur au sacre, a rassembler pour les roadmaps de Passe 2 : missions de Talon (137-138 ABY), Had Abbadon, mort et retour de Krayt, bataille de Coruscant.
 - Suite du canon : One Sith en clandestinite sous Nihl ; Darth Wredd et bataille du Monde Flottant (139 ABY) ; Legacy vol. 2 (Ania Solo).
 
 ## Doutes non tranches
-- Tatouages de Talon avant le sacre : etendue non documentee. A trancher a la fiche ou a la roadmap d'intro.
-- Seconde Main avant 137 ABY : titulaire non nomme. Talon prend-elle une place vacante ou celle d'un titulaire ?
 - Reprise de Bastion par Fel : avant ou apres le sacre.
-- Lignee "Izara" : une lignee Sith de trois generations portant ce nom ? Ouvert.
 
 ## Points a reverifier a la cloture
-- Ordre des evenements de 130 ABY (coup d'Etat apres Ossus) : deduit, pas date. [IMPLICITE]
+- (aucun)
 
 ## Fils de Passe 3
 - (aucun - Passe 3 a venir)
