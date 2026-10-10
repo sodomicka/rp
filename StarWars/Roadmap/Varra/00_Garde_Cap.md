@@ -17,6 +17,7 @@
 - Varra et les missions de Talon : il l'accompagne ou non au cas par cas, mission par mission (tranche en roadmap). [RP]
 - Cade : une liaison Talon - Cade reste possible, y compris comme manipulation de Talon. Dans tous les cas, Cade se fait demonter par Varra. [RP]
 - Secret de lignee : Krayt revele a Talon que Ruyn etait son grand-pere. Moment a placer en roadmap. [RP]
+- Fausse piste de 133 : quand Varra se revele, Maladi reconnait la bete qu'elle a rayee sur la parole de Talon et se tait. Elle garde cette carte et l'utilisera plus tard (moment a placer en roadmap). [RP]
 
 ## 137 ABY - Le sacre et la princesse
 - Sacre, salle du trone du Temple des Sith : sur ordre de Krayt, Devon Izara decapite Ruyn. Krayt la nomme Darth Talon, l'une de ses deux Mains. Varra devient un secret genant.
