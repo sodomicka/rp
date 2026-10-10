@@ -6,7 +6,7 @@
 ## Questions en attente
 - Varra quitte son poste sous Nihl pour sauver Talon (garde-cap, R2) : reaction de Nihl a trancher en roadmap R2.
 - Echo Cade - Varra : les aventures d'un soir de Cade sont une aberration pour Varra, qui ne connait que le sexe regulier avec Talon.
-- Echo Nihl - Varra : Nihl aime la brutalite sans habilete ; celle de Varra lui plairait. A exploiter en R1-R2 : Varra lui est confie a la sentence (garde-cap).
+- Echo Nihl - Varra : Nihl aime la brutalite sans habilete ; il voit Varra se battre a Vendaxa (R1) et le recoit a la sentence. Suite a exploiter en R2.
 
 ## Dettes de build
 - BIBLE SB5 Varra : verser la Force incarnee (fiche Varra W5) au BIBLE BUILD de fin de R1.
