@@ -9,8 +9,8 @@
 
 ## Dettes de build
 - Lien Varra - Talon, a poser en roadmap : pour elle, il n'est qu'un outil, et c'est voue a changer. Abusive au depart, la relation tourne lentement reciproque et la hierarchie s'efface.
-- BIBLE BUILD de cloture : verser les fiches Varra (Personnages/Varra.md, W1) et Darth Talon (Personnages/Darth_Talon.md, W1) en BIBLE. Pour Talon : solder en SB8 les mysteres lignee, naissance et age, tatouages avant le sacre ; mettre a jour son entree SB5.
-- Sommaire : indexer Personnages/ et les fiches de la Passe 1 (dont Varra.md et Darth_Talon.md, W1) au BIBLE BUILD de cloture.
+- BIBLE BUILD de cloture : verser les fiches Varra (Personnages/Varra.md, W2) et Darth Talon (Personnages/Darth_Talon.md, W1) en BIBLE. Pour Talon : solder en SB8 les mysteres lignee, naissance et age, tatouages avant le sacre ; mettre a jour son entree SB5.
+- Sommaire : indexer Personnages/ et les fiches de la Passe 1 (dont Varra.md W2 et Darth_Talon.md W1) au BIBLE BUILD de cloture.
 - Fiches de la Passe 1 : toutes en lore neutre dans Personnages/ (decision du worldbuilder).
 - Regle de placement a patcher, a la demande du worldbuilder : la SPEC (S7, Placement d'une fiche) et Config/INSTRUCTION_WIKI_FICHES.md font encore demander neutre ou perspective. Contenu du patch a proposer au worldbuilder.
 - Fiche Ruyn (canon lu sur le miroir starwars.archivum.wiki) : Twi'lek age ; Talon est sa derniere apprentie et la meilleure qu'il ait formee.

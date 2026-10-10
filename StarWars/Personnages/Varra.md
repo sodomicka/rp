@@ -1,6 +1,6 @@
 # Varra
 
-- version : W1
+- version : W2
 
 ## Identite
 - Varra. Protagoniste ; OC, entite de lore neutre. [DIVERGENCE RP]
@@ -17,6 +17,7 @@
 - Longs cheveux tresses en dreadlocks, auxquels il tient.
 - Rase : c'est Talon qui le rase. Il ne s'etait jamais rase avant elle.
 - Brulures a la main gauche, heritees de sa facon de se battre avant Talon (barre de metal aiguisee au sabre laser).
+- Bien pourvu : membre genereux.
 - Reference visuelle : artwork du worldbuilder, `Personnages/Varra.png`. Torse nu, harnais de cuir croise, etoffe rouge au bras gauche et a la ceinture, pantalon noir ample, bottes noires ; sabre violet en main droite, sabre rouge en main gauche.
 
 ## Psychologie (noyau)
