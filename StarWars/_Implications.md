@@ -11,6 +11,7 @@
 - Echo Maladi - Varra : la bete des bas-fonds au sabre violet a ete rayee de la liste de Maladi sur la parole de Talon (fausse piste, 133 ABY). Et pour Maladi, est un cobaye quiconque n'est ni Darth ni sous la protection d'un seigneur Sith : avant le sacre, Talon n'est pas Darth. Varra se revele a l'Ordre en fin de R1 (garde-cap) : Maladi decouvre-t-elle alors le mensonge ? A trancher en roadmap R1.
 
 ## Dettes de build
+- BIBLE SB5 Varra : verser la Force incarnee (fiche Varra W5) au BIBLE BUILD de fin de R1.
 - Lien Varra - Talon, a poser en roadmap : pour elle, il n'est qu'un outil, et c'est voue a changer. Abusive au depart, la relation tourne lentement reciproque et la hierarchie s'efface.
 - Fiches de la Passe 1 : toutes en lore neutre dans Personnages/ (decision du worldbuilder).
 - Passe 1 close au BIBLE BUILD B2. Darth Stryfe plus tard.

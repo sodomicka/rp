@@ -1,6 +1,6 @@
 # Sommaire - StarWars
 
-- version : W2
+- version : W3
 
 ## WIKI
 
@@ -30,7 +30,7 @@ Description : histoire galactique en tables datees (BBY / ABY).
 
 ### Personnages/
 Description : personnages decrits au point de depart (137 ABY, quelques jours avant le sacre de Talon), en lore neutre.
-- Varra.md (W4) - protagoniste, OC chiss, acolyte secret de Devon Izara : identite, physique, psychologie, capacites, manies, relations, histoire, sabres.
+- Varra.md (W5) - protagoniste, OC chiss, acolyte secret de Devon Izara : identite, physique, psychologie, capacites, manies, relations, histoire, sabres.
 - Darth_Talon.md (W4) - Devon Izara, future Darth Talon : lignee Izara, physique, psychologie, capacites, manies, relations, histoire jusqu'au sacre, sabre.
 - Darth_Ruyn.md (W2) - maitre de Talon, seconde Main de Krayt et grand-pere secret de Talon.
 - Darth_Krayt.md (W3) - Seigneur Noir et Empereur : apparence, psychologie, capacites, relations, histoire jusqu'au sacre.
