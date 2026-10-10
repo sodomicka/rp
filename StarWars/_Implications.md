@@ -1,6 +1,6 @@
 # _Implications - StarWars
 
-- version : W5
+- version : W6
 - nature : journal de travail build. Non indexe au Sommaire, jamais fetche en narration.
 
 ## Questions en attente
@@ -17,7 +17,11 @@
 - Fiche OC, acte au tour 3 : nom Varra, mot twi'leki pour sauvage / tempete, donne par Talon. Aucun nom avant elle. Une fois lettre, il refuse le nom chiss qu'elle lui propose : il ne veut que le nom donne par sa maitresse.
 - Fiche OC, acte au tour 3 : ne dans les bas-fonds de Coruscant d'un parent chiss exile, qui l'abandonne quand la Force se manifeste (impurete honteuse chez les Chiss). Enfant sauvage : au recrutement, il ne sait pas parler ; Talon lui apprend le basic.
 - Fiche OC, acte au tour 3 : legende de la bete des bas-fonds. Un monstre aux yeux rouges qui se deplace comme une bete, arme d'un sabre violet et d'une barre de metal tranchante ; les temoins, trop loin, n'ont vu que des yeux rouges et un humanoide bougeant comme une bete. Il tuait et mangeait des aliens : la legende parle d'un cannibale. Depuis le recrutement, plus de disparitions ; reste la legende.
-- Fiche OC, acte au tour 3 : 1,93 m, tres large d'epaules. Talon le rase (il ne s'etait jamais rase avant elle) ; il tient a ses longs cheveux tresses en dreadlocks. Brulures a la main gauche, heritees de son combat d'avant : barre de metal aiguisee au sabre laser, pour trancher la viande d'aliens. Aucun tatouage Sith : Krayt ignore son existence. [IMPLICITE]
+- Fiche OC, acte au tour 3 : 1,93 m, tres large d'epaules. Talon le rase (il ne s'etait jamais rase avant elle) ; il tient a ses longs cheveux tresses en dreadlocks. Brulures a la main gauche, heritees de son combat d'avant : barre de metal aiguisee au sabre laser, pour trancher la viande d'aliens.
+- Fiche OC, acte au tour 4 : abandonne vers 5 ans, en 120 ABY (ne en 115 ABY : 133 - 18 = 115 ; 115 + 5 = 120). Treize ans a l'etat sauvage (120 -> 133) : il oublie tout, son identite comme sa langue.
+- Fiche OC, acte au tour 4 : des betes des bas-fonds le recueillent. Il garde avec lui une petite meute de 3 ou 4 betes, qui lui obeissent par terreur. Espece a trancher.
+- Fiche OC, acte au tour 4 : Talon chasse la legende. Un sabre violet dans les bas-fonds evoque un Jedi cache, traque depuis 130 ABY : elle descend tuer un Jedi et trouve une bete.
+- Fiche OC, acte au tour 4 : Talon reconnait le sabre de Windu, lui raconte son histoire et combien il convient a son style, et propose de le faire saigner. Il refuse, trop attache. Il remplace sa barre de metal par un second sabre, qu'il fait saigner volontiers, si brutalement que le cristal se fend : lame rouge, instable et gresillante (reference visuelle du worldbuilder : le sabre de Kylo Ren). Saignement d'un kyber : import Disney (roman Ahsoka, E. K. Johnston), Legends muet, decision du worldbuilder. Origine du second cristal a trancher.
 - Fiche OC, acte au tour 3, volet intime : relation sexuelle entre adultes des le recrutement (il a 18 ans), rien avant. Au debut, Talon s'en sert pour le dompter et repondre a ses instincts ; avec le temps, c'est une habitude et un moyen de le calmer. Abusive au depart, la relation tourne lentement reciproque et la hierarchie s'efface : trajectoire a poser en roadmap.
 - Fiche OC : socle obligatoire d'un OC ; restent a trancher la tenue, les manies et les gouts caracterisants.
 - Fiches de la Passe 1 : toutes en lore neutre dans Personnages/ (decision du worldbuilder).
