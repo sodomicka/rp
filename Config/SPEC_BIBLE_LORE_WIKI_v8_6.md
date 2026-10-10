@@ -1,8 +1,4 @@
-# SPEC_BIBLE_LORE_WIKI v8.5
-
-<!-- rev. v8.5 (correction structurelle, 2026-09-15) : FICHE D'ARC = TRAME + BIBLE D'ETAPE. (a) S3 trois roles + Gabarit Fiche d'arc : la fiche d'arc porte desormais le DEROULE de l'etape (les temps de l'etape de roadmap, detailles au grain de la scene) en plus de la mini-bible ; la troncature passe de l'OUVERTURE a la SORTIE de l'etape (les sections d'etat restent decrites a l'ouverture ; le Deroule porte l'evolution DANS l'etape). Motif : en v8.4 la trame vivait dans la roadmap, donnee a la fois comme "cadrage MJ hors prose" et "jamais fetchee en narration" - contradiction ; en jeu le MJ ne voyait que l'etat d'ouverture et deux jalons CODEX, et improvisait tout l'intervalle. La passe 3 ne produisait qu'une recondensation de la BIBLE. Alignement sur la fiche one-shot (DEROULE jusqu'a l'Issue, troncature apres l'Issue). (b) Passe 3 = MISE EN SCENE : le worldbuilder dicte le detail de scene, le MJ derive, propose, confronte au lore et ne fige rien sans validation. (c) Budget : plafond souple 20k inchange ; au-dela, compresser la mini-bible avant le Deroule, scinder sinon. (d) SPEC_CODEX v8.4 inchangee : "jalon courant / prochain jalon" de l'ANNEXE_CHRONO designent desormais les temps du Deroule de la fiche chargee. -->
-<!-- rev. v8.4 (revision systeme, 2026-08-26) : (a) S4 - doctrine "le monde en notices" : but de la BIBLE grave (radar de faits vs Sommaire index de pages vs fiches detail), test d'admission d'une ligne, regles derivees (plafond d'entree 3-4 lignes si fiche existante, chantier interdit en BIBLE, decroissance obligatoire au build). Motif : BIBLE JJK a 80k car. (+45% du plafond dur), derive en "wiki fantome", bascule RAG du projet. (b) S5 - cible indicative 35-40k sous le plafond dur de 55k. (c) SB8 - reduit a definition + statut ; deroules interdits. (d) S7 - famille de pages satellites d'entite codifiee (<Entite>_chrono_N / _inventaire / _relations_N, precedent Nisha_chrono_A/B) + frontiere mecanique/texture pour les relations + gabarit page relations. (e) S7 - derogation fiche protagoniste : plafond propre 20 000 car. -->
-<!-- rev. v8.3 (corrections, 2026-07-24) : (a) CRITIQUE - suppression du renvoi SB3 "Roadmap : fetch obligatoire en debut de thread", present en DOUBLE (section SB3 et GABARIT DE SORTIE) et en contradiction frontale avec S3, S7-Sommaire, SPEC_CODEX et Instructions RP S4.1.d. Etant dans le gabarit, il se recopiait dans CHAQUE BIBLE generee : il ordonnait au MJ exactement le comportement que la troncature des fiches d'arc existe pour empecher. (b) BIBLE "lue a chaque tour" corrigee en "a chaque tour de BUILD" : elle est RETIREE des fichiers de projet a la bascule jeu (regle tout-ou-rien), doctrine deja portee par S5, S7-budget, SPEC_CODEX S3 et les deux jeux d'instructions - S6 et S10 disaient l'inverse. (c) S12 : SPEC_CODEX_v8_2 -> v8_4 (pointeur perime). (d) S9 : fetch de la SPEC par verification de version, plus par numero fige. (e) Plafond souple sur la fiche d'arc (seul document de lore charge en jeu, seul sans garde-fou chiffre). (f) Placeholder [A FIXER PAR LE WORLDBUILDER] de la Trajectoire datee remplace par une valeur derivee du budget de page. (g) S5 : note de budget de PROJET (le plafond BIBLE ne vaut que pour la BIBLE seule). Numerotation independante de SPEC_CODEX (qui est en v8.4) : les deux specs ont toujours evolue separement. -->
+# SPEC_BIBLE_LORE_WIKI v8.6
 
 Ce fichier definit la forme, les regles de construction et le gabarit du systeme BIBLE_LORE + WIKI + Parties :
 - `BIBLE_LORE_{UNIVERS}.md` - index de routage + lore condense. Fichier de projet lu en integralite PENDANT LA PHASE DE BUILD (worldbuilding). RETIRE des fichiers de projet a la bascule jeu : en narration, c'est la fiche d'arc qui prend le relais (cf. S10).
@@ -11,7 +7,7 @@ Ce fichier definit la forme, les regles de construction et le gabarit du systeme
 
 Le modele doit produire des documents factuels, structures, sans narration, sans interpretation non balisee.
 
-Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_WIKI_v8_3.md`.
+Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_WIKI_v8_6.md`.
 
 ---
 
@@ -26,7 +22,7 @@ Le WIKI (`{Univers}/`) contient le monde : fiches personnages, chronologie detai
 
 Les Parties (`Parties/{Univers}/Partie<n>/`) contiennent la memoire froide d'un RP donne : arcs joues, CHRONO archivee, fiches de suivi des PNJ affectes par la narration, fiche protagoniste, decisions et bifurcations prises. Chaque Partie<n> est un RP autonome dans le meme univers.
 
-Hierarchie - ECHELLE DE REFERENCE DU SYSTEME (v8.3), declinee par mode :
+Hierarchie - ECHELLE DE REFERENCE DU SYSTEME, declinee par mode :
 `OOC joueur > CODEX > { BIBLE_LORE, WIKI } > Canon externe > #SITES_REF > improvisation`
 - En NARRATION : echelle complete (Instructions RP S1). `#SITES_REF` est la liste de sources du CODEX S7 : elle sert a VERIFIER le canon externe, jamais a l'ecraser.
 - En WORLDBUILDING : `decision du worldbuilder` remplace `OOC joueur`, et le barreau CODEX est absent - il n'existe pas encore (Instructions Wiki S2).
@@ -61,7 +57,7 @@ Le CODEX ANNEXE_CHRONO pointe vers la fiche d'arc COURANTE via `fiche_arc: cf. W
 - FICHE D'ARC (`Fiches_Arc/<Prota>/`) : la TRAME + la BIBLE de l'etape. (1) DEROULE de l'etape : les temps de l'etape de roadmap, dans l'ordre, detailles au grain de la scene, jusqu'a la condition de sortie. (2) Mini-bible autosuffisante : casting + lieux + objets + lore d'arc condense, decrits dans l'etat ou ils sont A L'OUVERTURE de l'etape. Tronquee a la SORTIE de l'etape : rien de ce qui suit la condition de sortie. Document de jeu permanent : charge une fois a l'ouverture de thread, reste tout le thread ; remplace en jeu le fetch entite-par-entite ET la lecture de la grosse BIBLE. Le Deroule est un CADRAGE MJ : il ne se narre pas d'avance, il se joue quand les choix du joueur y menent, et sert a raccorder ces choix a la trame. Maillon de navigation : porte `arc precedent` / `arc suivant` (chainage local de proche en proche, sans index global). La troncature a la sortie empeche le MJ de prefigurer au-dela de l'etape.
 - CODEX (ANNEXE_CHRONO) : l'ETAT D'ARC vivant ET LE FIL LONG - jalon courant, prochain jalon (= temps du Deroule de la fiche d'arc chargee), statut, PLUS la suite ordonnee des arcs deja traverses (memoire du chemin parcouru). Reinjecte en tete chaque tour (immunite lost-in-the-middle). C'est le CODEX - pas la roadmap (futur prevu, hors jeu), pas la fiche d'arc (qui ignore le passe) - qui tient ou on en est ET d'ou l'on vient. Le detail archive du passe joue (scenes closes) vit dans Parties/Archives, fetchable a la demande.
 
-> ANTI-AMNESIE (v8.2). En jeu on ne consulte ni la grosse BIBLE ni les roadmaps. La memoire de l'histoire ne repose donc PAS sur ces deux sources mais sur deux autres, par horizon : (a) MEMOIRE LONGUE / coherence du chemin -> CODEX ANNEXE_CHRONO (fil ordonne des arcs traverses) + Parties/Archives (detail des scenes closes, fetch a la demande) ; (b) ARC COURANT -> la fiche d'arc chargee. La roadmap decrit le FUTUR PREVU, pas le PASSE VECU : ce n'est pas un substitut de memoire. Si un fait de fond profond manque vraiment et n'est ni en CODEX, ni en fiche, ni en Archives -> fetch cible Parties/Archives ou, en dernier recours hors jeu, la BIBLE complete.
+> ANTI-AMNESIE. En jeu on ne consulte ni la grosse BIBLE ni les roadmaps. La memoire de l'histoire ne repose donc PAS sur ces deux sources mais sur deux autres, par horizon : (a) MEMOIRE LONGUE / coherence du chemin -> CODEX ANNEXE_CHRONO (fil ordonne des arcs traverses) + Parties/Archives (detail des scenes closes, fetch a la demande) ; (b) ARC COURANT -> la fiche d'arc chargee. La roadmap decrit le FUTUR PREVU, pas le PASSE VECU : ce n'est pas un substitut de memoire. Si un fait de fond profond manque vraiment et n'est ni en CODEX, ni en fiche, ni en Archives -> fetch cible Parties/Archives ou, en dernier recours hors jeu, la BIBLE complete.
 
 ### Flux de resolution d'un fait lore
 1. CODEX (divergence fraiche du RP ?) -> si oui, utiliser.
@@ -74,7 +70,7 @@ Le CODEX ANNEXE_CHRONO pointe vers la fiche d'arc COURANTE via `fiche_arc: cf. W
 
 ## 4. BIBLE_LORE - Principes redactionnels
 
-### But : le monde en notices (v8.4)
+### But : le monde en notices
 
 La BIBLE dit qu'un fait EXISTE, ce qu'il est en une phrase, et a quoi il s'articule. Jamais comment il se deroule en detail : ca, c'est la fiche. Test d'admission d'une ligne de BIBLE : "sans elle, le MJ risque-t-il d'ecrire une contradiction sans savoir qu'il faut fetcher ?" Non -> la ligne vit en fiche, pas en BIBLE.
 
@@ -113,9 +109,9 @@ Chaque fait porte implicitement le niveau "etabli" sauf balisage contraire :
 ## 5. BIBLE_LORE - Budget
 
 Plafond dur : 55 000 caracteres.
-Cible indicative (v8.4) : 35 000 a 40 000 caracteres. Le plafond dur reste la limite de securite ; la cible est le regime de croisiere d'une BIBLE en notices. Un build qui livre au-dela de la cible justifie l'ecart (univers a tres large cast, etc.).
-Plus de contrainte de cohabitation CODEX + BIBLE (v8.2) : le CODEX V1 se build a la fin des instructions Wiki, une fois la BIBLE retiree des fichiers de projet (bascule jeu, tout-ou-rien). BIBLE et CODEX ne sont jamais charges simultanement ; l'ancien plafond commun (<= 100 000, seuil RAG) est retire. La BIBLE garde son plafond propre de 55 000 caracteres pour la phase build.
-ATTENTION (v8.3) - ce plafond ne vaut que pour la BIBLE SEULE. Le seuil de bascule retrieval (RAG) porte sur la SOMME des fichiers de projet, mesuree a 100 000 caracteres cumules (cf. SPEC_CODEX S3, mesure empirique reproduite sur decoupages varies). En phase build, compter : BIBLE + Instructions Wiki + tout autre fichier de projet. Corollaire : les SPEC se FETCHENT, elles ne se chargent JAMAIS comme fichiers de projet - une SPEC de 40 000 caracteres en projet fait sauter le budget a elle seule.
+Cible indicative : 35 000 a 40 000 caracteres. Le plafond dur reste la limite de securite ; la cible est le regime de croisiere d'une BIBLE en notices. Un build qui livre au-dela de la cible justifie l'ecart (univers a tres large cast, etc.).
+Pas de contrainte de cohabitation CODEX + BIBLE : le CODEX V1 se build a la fin des instructions Wiki, une fois la BIBLE retiree des fichiers de projet (bascule jeu, tout-ou-rien). BIBLE et CODEX ne sont jamais charges simultanement, donc pas de plafond commun. La BIBLE garde son plafond propre de 55 000 caracteres pour la phase build.
+ATTENTION - ce plafond ne vaut que pour la BIBLE SEULE. Le seuil de bascule retrieval (RAG) porte sur la SOMME des fichiers de projet, mesuree a 100 000 caracteres cumules (cf. SPEC_CODEX S3, mesure empirique reproduite sur decoupages varies). En phase build, compter : BIBLE + Instructions Wiki + tout autre fichier de projet. Corollaire : les SPEC se FETCHENT, elles ne se chargent JAMAIS comme fichiers de projet - une SPEC de 40 000 caracteres en projet fait sauter le budget a elle seule.
 Verification au build : `wc -m` (caracteres, locale UTF-8) sur le fichier genere. Depassement : signaler, proposer des compressions par gain decroissant (caracteres recuperes + ce qu'on perd), le worldbuilder tranche. Compresser, jamais supprimer l'information utile sans validation.
 
 Repartition indicative (guide, pas plafonds rigides par section) :
@@ -210,7 +206,7 @@ Objets narrativement significatifs (pas l'inventaire du RP - cf. CODEX ANNEXE_IN
 
 #### SB8 Mysteres ouverts et fils Tchekhov
 
-Regle v8.4 : SB8 porte, par mystere ou fil, la DEFINITION et le STATUT (ouvert / arme / detone / resolu) + renvoi. Les deroules de detonation, consequences jouees et captures d'etat vivent en roadmap, chrono ou _Chantier_* - jamais ici. Un fil detone ou resolu se compresse en une ligne au build suivant (decroissance, cf. S4).
+Regle : SB8 porte, par mystere ou fil, la DEFINITION et le STATUT (ouvert / arme / detone / resolu) + renvoi. Les deroules de detonation, consequences jouees et captures d'etat vivent en roadmap, chrono ou _Chantier_* - jamais ici. Un fil detone ou resolu se compresse en une ligne au build suivant (decroissance, cf. S4).
 Deux sous-sections :
 
 ##### Mysteres
@@ -269,7 +265,7 @@ Types de pages possibles :
 - Au-dela de 2000 tokens : scinder en sous-pages.
 - Exception : pages transcript jusqu'a 4000 tokens.
 
-### Pages satellites d'entite (v8.4)
+### Pages satellites d'entite
 
 Quand une fiche d'entite sature son budget, elle se scinde en pages satellites nommees par volet :
 - `<Entite>_chrono_<N>.md` : trajectoire datee par ere (precedent : Nisha_chrono_A/B).
@@ -292,7 +288,7 @@ Gabarit page relations :
 - Evolution datee : <telegraphique, par date>
 ```
 
-### Derogation fiche protagoniste (v8.4)
+### Derogation fiche protagoniste
 
 La fiche d'un PROTAGONISTE echappe au plafond de page standard : plafond propre de 20 000 caracteres (verification : wc -m). Raison : c'est le document le plus central du WIKI ; la decouper pour respecter un budget pense pour des fiches PNJ multiplierait les fetchs obligatoires. Au-dela de 20k : scinder par pages satellites (ci-dessus), jamais gonfler.
 
@@ -343,7 +339,7 @@ Les roadmaps vivent dans `{Univers}/Roadmap/<Prota>/`. Elles decrivent les itine
 |---|---|---|---|---|---|---|
 | 1 | <jalon> | <lieu> | <noms> | <fils> | <echelle temporelle reelle du bloc, ex. ~190 ans, ~3 jours, instantane> | <declencheur> |
 
-Colonne DUREE (correctif ellipse v8.2) : chaque bloc jouable porte son echelle temporelle REELLE in-world ("~190 ans", "~3 jours", "une saison"). Elle dit au MJ a quelle vitesse le temps s'ecoule SUR CE BLOC, pour qu'il cale l'ecoulement par defaut sur l'arc et non sur son envie de scenes. Sans duree chiffree, le MJ condense des siecles en jours (bug constate). Regle d'ecoulement cote narration : Instructions RP S3 (ellipse par defaut bornee).
+Colonne DUREE : chaque bloc jouable porte son echelle temporelle REELLE in-world ("~190 ans", "~3 jours", "une saison"). Elle dit au MJ a quelle vitesse le temps s'ecoule SUR CE BLOC, pour qu'il cale l'ecoulement par defaut sur l'arc et non sur son envie de scenes. Sans duree chiffree, le MJ condense des siecles en jours (bug constate). Regle d'ecoulement cote narration : Instructions RP S3 (ellipse par defaut bornee).
 
 Bloc couvrant un long laps (annees/decennies) a rendre en vignettes : marquer la section `[SNAPSHOTS]`. Le MJ compresse alors en vignettes evocatrices au lieu de jouer chaque etape - compresser n'est PAS supprimer, le joueur doit sentir le temps passer (cf. Instructions RP, sequence de roadmap). Un bloc `[SNAPSHOTS]` porte d'autant plus une duree chiffree : c'est elle qui borne l'ampleur de l'ellipse.
 
@@ -381,7 +377,7 @@ IRONIE STRUCTURELLE vs PREFIGURATION SPECIFIQUE (distinction a ne pas confondre)
 - La PREFIGURATION SPECIFIQUE en prose est une FUITE, de deux especes : (i) au-dela de l'etape ("ce qu'il ne comprendra que des siecles plus tard", un evenement d'un arc ulterieur annonce dans le recit) - coupee par la troncature ; (ii) a l'interieur de l'etape - un temps du Deroule narre ou annonce avant que les choix du joueur n'y menent. Le Deroule se joue, il ne s'annonce pas.
 - Test : un fait sert l'ironie connue du JOUEUR -> CODEX (ANNEXE_SAVOIRS). Un fait dit au MJ ce qui arrive APRES la sortie de l'etape -> roadmap, hors fiche d'arc. Un fait dit au MJ comment se joue un temps de l'etape -> Deroule de la fiche d'arc.
 
-Budget : la fiche d'arc est l'EXCEPTION au plafond des pages WIKI. Comme c'est le SEUL document de lore charge a l'ouverture (la BIBLE n'est plus lue en jeu), elle a le droit d'etre lourde : aussi courte que possible, aussi longue que necessaire pour etre autosuffisante sur l'etape. Pas de plafond serre type 500-2000 tokens. Reste oriente "ce qu'il faut pour jouer l'etape" : on rapatrie le lore PERTINENT, condense (pas d'extraits integraux de la BIBLE), jamais du remplissage. PLAFOND SOUPLE (v8.3) : viser <= 20 000 caracteres ; au-dela, SIGNALER, puis dans l'ordre : compresser la mini-bible (renvois vers les fiches neutres a la place du condense) avant de toucher au Deroule, qui est la raison d'etre de la fiche ; scinder en dernier recours (ex. `Fiches_Arc/<Prota>/<Arc>_partie1.md`) ; jamais gonfler. Raison : la fiche d'arc n'est pas gratuite parce qu'elle est fetchee. Elle occupe le contexte de jeu EN FACE du CODEX (jusqu'a 90 000 car. au terminal du bareme) et reste chargee tout le thread. "Aussi longue que necessaire" sans repere chiffre etait la seule regle du systeme sans garde-fou - portant justement le document le plus lu de la phase de jeu.
+Budget : la fiche d'arc est l'EXCEPTION au plafond des pages WIKI. Comme c'est le SEUL document de lore charge a l'ouverture (la BIBLE n'est plus lue en jeu), elle a le droit d'etre lourde : aussi courte que possible, aussi longue que necessaire pour etre autosuffisante sur l'etape. Pas de plafond serre type 500-2000 tokens. Reste oriente "ce qu'il faut pour jouer l'etape" : on rapatrie le lore PERTINENT, condense (pas d'extraits integraux de la BIBLE), jamais du remplissage. PLAFOND SOUPLE : viser <= 20 000 caracteres ; au-dela, SIGNALER, puis dans l'ordre : compresser la mini-bible (renvois vers les fiches neutres a la place du condense) avant de toucher au Deroule, qui est la raison d'etre de la fiche ; scinder en dernier recours (ex. `Fiches_Arc/<Prota>/<Arc>_partie1.md`) ; jamais gonfler. Raison : la fiche d'arc n'est pas gratuite parce qu'elle est fetchee. Elle occupe le contexte de jeu EN FACE du CODEX (jusqu'a 90 000 car. au terminal du bareme) et reste chargee tout le thread. "Aussi longue que necessaire" sans repere chiffre etait la seule regle du systeme sans garde-fou - portant justement le document le plus lu de la phase de jeu.
 
 ```
 # Fiche_Arc_<Arc>
@@ -392,7 +388,7 @@ Budget : la fiche d'arc est l'EXCEPTION au plafond des pages WIKI. Comme c'est l
 - arc precedent : cf. WIKI Fiches_Arc/<Prota>/Fiche_Arc_<ArcPrecedent>.md   (ou "aucun - premier arc")
 - arc suivant : cf. WIKI Fiches_Arc/<Prota>/Fiche_Arc_<ArcSuivant>.md   (ou "aucun - fin ouverte / dernier arc")
 
-> CHAINAGE LOCAL (v8.2). Les champs `arc precedent` / `arc suivant` font de chaque fiche un maillon : la navigation entre arcs se fait DE PROCHE EN PROCHE par ces pointeurs, sans repasser par un index global des roadmaps (les roadmaps ne sont plus indexees au Sommaire en jeu - cf. note Roadmap du Sommaire). BIFURCATION : si l'arc debouche sur plusieurs suites (ex. branche canon vs branche divergente), lister UN pointeur `arc suivant` par sortie, chacun annote de sa condition (ex. "si <condition A> -> Fiche_Arc_<X>.md ; si <condition B> -> Fiche_Arc_<Y>.md"). FIN OUVERTE : `arc suivant : aucun`. La MEMOIRE du chemin deja parcouru ne vit PAS ici (la fiche ignore le passe joue) : elle vit dans le CODEX ANNEXE_CHRONO (fil long des arcs traverses) et dans Parties/Archives - cf. section 3, trois roles.
+> CHAINAGE LOCAL. Les champs `arc precedent` / `arc suivant` font de chaque fiche un maillon : la navigation entre arcs se fait DE PROCHE EN PROCHE par ces pointeurs, sans repasser par un index global des roadmaps (les roadmaps ne sont plus indexees au Sommaire en jeu - cf. note Roadmap du Sommaire). BIFURCATION : si l'arc debouche sur plusieurs suites (ex. branche canon vs branche divergente), lister UN pointeur `arc suivant` par sortie, chacun annote de sa condition (ex. "si <condition A> -> Fiche_Arc_<X>.md ; si <condition B> -> Fiche_Arc_<Y>.md"). FIN OUVERTE : `arc suivant : aucun`. La MEMOIRE du chemin deja parcouru ne vit PAS ici (la fiche ignore le passe joue) : elle vit dans le CODEX ANNEXE_CHRONO (fil long des arcs traverses) et dans Parties/Archives - cf. section 3, trois roles.
 
 ## Cadre d'ouverture
 - Lieu(x) de depart : <ou commence l'arc>
@@ -446,7 +442,7 @@ FIN_WIKI_FICHE_ARC_<ARC>
 
 > Chaque entree porte la version `(W<N>)` de la page : inventaire de versions. Un ecart entre ce W<N> et celui ecrit dans la page elle-meme signale une copie perimee (canari, non bloquant).
 >
-> QUI LIT LE CANARI (v8.3). Un canari sans lecteur n'est pas un detecteur, c'est un enregistrement. Deux lecteurs, deux moments :
+> QUI LIT LE CANARI. Un canari sans lecteur n'est pas un detecteur, c'est un enregistrement. Deux lecteurs, deux moments :
 > - EN NARRATION, a chaque page fetchee : le MJ compare le `W<N>` de la page au `W<N>` de son entree au Sommaire. Ecart -> `[VERSION DECALEE - <page> : Sommaire W<x>, page W<y>]` en OOC bref, NON BLOQUANT. Arbitrage : la PAGE fait foi (c'est le fichier reel ; le Sommaire n'est qu'un index). Cf. Instructions RP S4.2ter.
 > - AU BIBLE BUILD : toute page relivree incremente son `W<N>` et son entree au Sommaire est mise a jour DANS LE MEME BUILD. C'est ici que se solde un `[VERSION DECALEE]` remonte en jeu. Cf. Instructions Wiki, MODE OUTIL - BIBLE + WIKI.
 
@@ -458,9 +454,9 @@ Description : <contenu du dossier en 1 ligne>
 Description : fiches de narration par arc (trame + bible de l'etape : Deroule au grain de la scene + mini-bible autosuffisante, tronquees a la sortie de l'etape), par PERSPECTIVE de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs `arc precedent` / `arc suivant` de chaque fiche), pas par un index des roadmaps.
 - Fiche_Arc_<Arc>.md (W<N>) - <description courte>
 
-> MEMOIRES NON INDEXEES (v8.3). `Parties/<Partie>/Memoires/` n'est pas liste ici non plus, pour la meme raison que les roadmaps : indexer un dossier le fait paraitre fetchable en narration. Les Memoires sont des archives narratives cumulatives, interdites en jeu (sauf ordre OOC explicite) et consultees au BUILD seulement, par listing direct du dossier. Cf. SPEC_CODEX 4ter, livrable 3.
+> MEMOIRES NON INDEXEES. `Parties/<Partie>/Memoires/` n'est pas liste ici non plus, pour la meme raison que les roadmaps : indexer un dossier le fait paraitre fetchable en narration. Les Memoires sont des archives narratives cumulatives, interdites en jeu (sauf ordre OOC explicite) et consultees au BUILD seulement, par listing direct du dossier. Cf. SPEC_CODEX 4ter, livrable 3.
 
-> ROADMAPS NON INDEXEES EN JEU (v8.2). Le dossier `Roadmap/<Prota>/` n'est PLUS liste au Sommaire. Les roadmaps restent physiquement au repo - ce sont des SOURCES DE BUILD (matiere premiere des fiches d'arc), lues en mode Wiki en listant directement le dossier `Roadmap/<Prota>/` (cf. ACCES GITHUB), jamais via le Sommaire. En jeu (RP), le MJ ne fetch jamais de roadmap : il navigue d'arc en arc par les fiches, et tient le fil long via le CODEX ANNEXE_CHRONO. Indexer les roadmaps au Sommaire les ferait croire fetchables en narration et alourdirait l'index sans usage de jeu - on les en sort donc volontairement.
+> ROADMAPS NON INDEXEES EN JEU. Le dossier `Roadmap/<Prota>/` n'est PLUS liste au Sommaire. Les roadmaps restent physiquement au repo - ce sont des SOURCES DE BUILD (matiere premiere des fiches d'arc), lues en mode Wiki en listant directement le dossier `Roadmap/<Prota>/` (cf. ACCES GITHUB), jamais via le Sommaire. En jeu (RP), le MJ ne fetch jamais de roadmap : il navigue d'arc en arc par les fiches, et tient le fil long via le CODEX ANNEXE_CHRONO. Indexer les roadmaps au Sommaire les ferait croire fetchables en narration et alourdirait l'index sans usage de jeu - on les en sort donc volontairement.
 
 ## PARTIES (Partie<n>)
 
@@ -557,10 +553,7 @@ Le joueur fournit :
 4. La liste des dossiers/pages souhaitees (ou "a determiner ensemble").
 
 ### Fetch de la SPEC
-Au premier BIBLE BUILD (aucune BIBLE existante), le MJ LISTE d'abord `Config/` pour relever le numero de version courant, PUIS fetche la SPEC correspondante :
-```bash
-curl -sL https://github.com/sodomicka/rp/tree/main/Config | grep -oP '(?<=")Config/[^"]+\.md' | sort -u
-```
+Au premier BIBLE BUILD (aucune BIBLE existante), le MJ LISTE d'abord `Config/` pour relever le numero de version courant (Instructions Wiki S8 : clone sans blobs par defaut, listing github.com/tree en secours), PUIS fetche la SPEC correspondante.
 Ne JAMAIS recopier un numero de version fige depuis un document (SPEC, instructions, BIBLE) : c'est le mecanisme de la spec fantome - un build fait sur une revision perimee dont personne ne s'apercoit. Si la SPEC n'est pas encore sur le depot (tout premier build, rien n'existe), le joueur la fournit en fichier joint ou dans le chat pour ce premier thread. Apres ce premier build, la SPEC est uploadee dans Config/ et tout passe en fetch.
 
 Pour les builds suivants, la BIBLE elle-meme sert de reference (gabarit integre dans les sections vides). Le fetch de la SPEC n'est necessaire que si le MJ a besoin de verifier une regle de construction.
@@ -662,8 +655,8 @@ Le joueur uploade les fichiers mis a jour sur le depot GitHub.
 ```
 sodomicka/rp/
   Config/
-    SPEC_CODEX_v8_4.md
-    SPEC_BIBLE_LORE_WIKI_v8_3.md
+    SPEC_CODEX_v8_5.md
+    SPEC_BIBLE_LORE_WIKI_v8_6.md
     (numeros indicatifs : verifier le listing reel de Config/ avant tout fetch)
   <Univers>/
     <Dossier_thematique>/
@@ -687,6 +680,11 @@ sodomicka/rp/
 - Pages : Snake_Case, descriptives.
 - Pas d'accents dans les noms de fichiers et dossiers.
 - Pas d'espaces (underscores).
+
+### Version des SPEC
+- Une SPEC modifiee change de numero (nom de fichier + titre) : sinon deux fichiers differents revendiquent le meme numero, c'est le mecanisme meme de la spec fantome.
+- Chaque SPEC a sa propre numerotation : SPEC_BIBLE_LORE_WIKI et SPEC_CODEX evoluent separement.
+- L'historique des changements vit dans git (log + diff), jamais dans le fichier : ni commentaire de revision, ni ligne Revision, ni etiquette de version sur une regle (SPEC et instructions).
 
 ### URL de consultation
 FETCH (defaut) - forme raw, markdown brut, sans parsing :

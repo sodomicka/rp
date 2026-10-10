@@ -1,6 +1,6 @@
 # Sommaire - OnePiece
 
-- version : W22
+- version : W23
 
 ## WIKI
 
@@ -9,7 +9,7 @@
 ### Racine
 Description : documents transverses.
 - Resume.md (W5) - suivi de l'histoire etablie, en prose, R0 a R10 (borne : sortie de la derniere boucle close) ; seul condense de l'histoire hors BIBLE ; hors budget de page standard (arbitrage worldbuilder).
-- _Implications.md (W45) - journal de travail du worldbuilding ; JAMAIS fetche en narration.
+- _Implications.md (W46) - journal de travail du worldbuilding ; JAMAIS fetche en narration.
 
 ### Personnages/
 Description : fiches neutres des entites du monde (canon et OC promus au lore). 70 pages : 21 de la Passe 1 (close) + 27 ajouts de la Passe 2 (Sakazuki, Nefertari_Vivi, Smoker, Tashigi, Portgas_D_Ace, Marshall_D_Teach, Monkey_D_Garp, Koby, CP9_CP0, Gecko_Moria, Perona, Hogback_Absalom_Ryuma, Silvers_Rayleigh, Shakuyaku, Borsalino, Trafalgar_Law, Eustass_Kid_Killer, Jewelry_Bonney, Supernovae, Sabo, Monkey_D_Dragon, Koala, Emporio_Ivankov, Fisher_Tiger, Shirahoshi, Neptune_Otohime, Hody_Jones_Vander_Decken) + les ONZE pages de la strate Trajectoire des jumelles + ONZE satellites chrono_01.

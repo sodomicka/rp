@@ -1,13 +1,12 @@
 # _Implications - OnePiece
 
-- version : W45
+- version : W46
 
 Journal de travail du worldbuilding. Pense-bete de coordination : UNIQUEMENT du pendant (questions ouvertes, contenu en attente d'integration, chantiers). L'applique degage au fil de l'eau ; l'historique vit dans les threads et les versions du repo, pas ici.
 
 ## Questions ouvertes (worldbuilder)
 - BIBLE SB1 (echelle de savoir Ohara, etage SECRET) : "Sakazuki, Kuzan - ces deux derniers en DEVENANT amiraux" ; la fiche Borsalino dit que Kizaru l'a appris lui aussi en accedant au grade. Aligner SB1 ("ces trois derniers") ? Signale build R10, non tranche.
 - ROADMAP_9 : les [DEFAUT MJ] proposes avant ecriture ont ete valides en bloc ("tout OK sauf deux choses") ; restent a relire, a l'occasion, ceux ajoutes a l'ecriture : "Ohara vaut le voyage" (reponse de Dragon), position de Baltigo (deux jours des Twin Capes), retour de Kedetrav par le navire d'Ivankov, Koala temoin muet des nausees. Non bloquant.
-- SPEC_BIBLE_LORE_WIKI et SPEC_CODEX : purger les commentaires <!-- rev. --> de tete (4,8k car. a eux deux ; meme doctrine que le WIKI, l'historique vit dans git) ? En attente.
 
 ## Chantiers hors repo (worldbuilder)
 - SPEC / Instructions : la regle "le NOYAU va jusqu'a la PREMIERE ENTREE EN SCENE" (t0 pour le casting d'Ohara, la rencontre pour les PNJ tardifs) reste NON repercutee - tranche : One Piece est un cas particulier, pas de patch du texte des Instructions.
