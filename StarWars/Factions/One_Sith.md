@@ -1,6 +1,6 @@
 # One Sith
 
-- version : W5
+- version : W6
 
 Etat decrit : structure de l'Ordre et situation avant le sacre de Talon (137 ABY), point de depart du RP. Le devenir posterieur vit en roadmap.
 
@@ -38,7 +38,7 @@ Etat decrit : structure de l'Ordre et situation avant le sacre de Talon (137 ABY
 - Darth Nihl - Nagai, ancien seigneur de guerre de Nagi (Regions Inconnues). Poing, puis Main en 130 ABY a la mort de son predecesseur. Mene le massacre d'Ossus. Rival de Talon.
 - Seconde Main avant 137 ABY : Darth Ruyn, jusqu'au sacre.
 - Darth Stryfe - Poing depuis la promotion de Nihl.
-- Darth Maladi - Devaronienne ; nee sur Devaron, ou sur Korriban selon le Legacy Era Campaign Guide. [INCERTAIN] Dirige le Renseignement et Assassinat Sith ; medecin principal de l'Ordre. Poisons, biotoxines, alchimie Sith, bio-ingenierie vong.
+- Darth Maladi - Devaronienne, nee Malincha sur Devaron. Dirige le Renseignement et Assassinat Sith ; medecin principal de l'Ordre. Poisons, biotoxines, alchimie Sith, bio-ingenierie vong. Detail : cf. Personnages/Darth_Maladi.md.
 - Darth Havok - Inquisiteur ; ancien Chevalier Imperial Eshkar Niin, passe au cote obscur.
 - Darth Kruhl - agent du Renseignement Sith, sous Maladi.
 - Darth Ruyn - Seigneur Sith twi'lek, seconde Main de Krayt, maitre de Talon a l'academie de Korriban. Detail : cf. Personnages/Darth_Ruyn.md.

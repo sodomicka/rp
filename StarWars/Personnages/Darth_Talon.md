@@ -1,6 +1,6 @@
 # Darth Talon (Devon Izara)
 
-- version : W3
+- version : W4
 
 ## Identite
 - Devon Izara ; Darth Talon a partir du sacre (137 ABY), nom donne par Krayt. Entite de lore canon (Legends). Nom de naissance repris de la Devon Izara de Maul - Shadow Lord (Disney), personnage ecarte de cet univers. [DIVERGENCE RP]
@@ -50,13 +50,14 @@
   - Relation sexuelle depuis le recrutement (il a 18 ans), rien avant : pour le dompter au debut, puis par habitude et pour le calmer. Avec lui, elle n'a pas a feindre : elle prend vraiment son pied.
   - Elle decide qui il peut chasser. Detail : cf. Personnages/Varra.md.
 - Darth Nihl - Nagai, Main de Krayt depuis 130 ABY ; son rival.
+- Darth Maladi - medecin de l'Ordre, qui l'a recousue apres chaque combat rituel. Elle lui fournit ses contrats d'assassinat. En 133 ABY, Talon lui ment sur l'un d'eux (cf. Histoire).
 - Parents - Sith de rang modeste, morts ou disparus, qui l'ont laissee enfant a l'academie Sith de Korriban. Le parent Izara est l'enfant de Ruyn et a grandi sans le savoir.
 
 ## Histoire (noyau, jusqu'au sacre)
 - 108 ABY : naissance dans une lignee Sith, troisieme generation des Izara.
 - Enfance : ses parents, Sith de rang modeste, la laissent a l'academie Sith de Korriban ; ils sont aujourd'hui morts ou disparus. L'Ordre devient sa seule famille.
 - Elevee et formee a l'academie. Apprentie de Ruyn : formation d'assassin, loyaute conditionnee. Chaque tatouage est gagne en combat rituel et trace par Krayt.
-- 133 ABY, a 25 ans : descendue dans les bas-fonds de Coruscant tuer un Jedi cache, elle trouve Varra, une bete de 18 ans qui ne parle pas, et en fait son acolyte secret (cf. Personnages/Varra.md).
+- 133 ABY, a 25 ans : descendue dans les bas-fonds de Coruscant tuer un Jedi cache, sur un contrat tire de la liste de Maladi, elle trouve Varra, une bete de 18 ans qui ne parle pas, et en fait son acolyte secret (cf. Personnages/Varra.md). A Maladi, elle rapporte une fausse piste : pas de Jedi, juste une bete des bas-fonds, abattue. Maladi raye la ligne.
 - 133-137 ABY : elle le forme en secret pour le presenter par surprise a l'Ordre et se montrer digne.
 - Point de depart : 137 ABY, quelques jours avant le sacre.
 - 137 ABY, sacre, au Temple des Sith sur Coruscant (Legacy #2) : Krayt la prend de court. Ruyn la presente lui-meme a Krayt, qui lui ordonne de tuer son maitre pour obtenir la promotion. Ruyn ne resiste pas ; elle le decapite. Krayt la nomme Darth Talon et lui donne la place de Ruyn : l'une de ses deux Mains. La surprise tombe a plat : Varra devient un secret genant, d'une loyaute infaillible.
