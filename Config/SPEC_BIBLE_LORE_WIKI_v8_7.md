@@ -1,13 +1,13 @@
-# SPEC_BIBLE_LORE_WIKI v8.6
+# SPEC_BIBLE_LORE_WIKI v8.7
 
 Ce fichier definit la forme, les regles de construction et le gabarit du systeme BIBLE_LORE + WIKI + Parties :
-- `BIBLE_LORE_{UNIVERS}.md` - index de routage + lore condense. Fichier de projet lu en integralite PENDANT LA PHASE DE BUILD (worldbuilding). RETIRE des fichiers de projet a la bascule jeu : en narration, c'est la fiche d'arc qui prend le relais (cf. S10).
+- `BIBLE_LORE_{UNIVERS}.md` - index de routage + lore condense. Vit sur le depot, a la racine de `{Univers}/`. Lue EN ENTIER a l'ouverture de chaque thread de build (worldbuilding), avec le Sommaire et le journal d'implications. Pas lue en jeu : en narration, c'est la fiche d'arc qui prend le relais (cf. S10).
 - WIKI GitHub (`{Univers}/`) - pages .md du monde, consultees par fetch a la demande. Cout zero en contexte tant que non fetchees.
 - Parties GitHub (`Parties/{Univers}/Partie<n>/`) - memoire froide du RP, arcs joues, tracking PNJ, CHRONO archivee. Consultees par fetch a la demande. Chaque `<n>` correspond a un RP distinct dans le meme univers.
 
 Le modele doit produire des documents factuels, structures, sans narration, sans interpretation non balisee.
 
-Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_WIKI_v8_6.md`.
+Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_WIKI_v8_7.md`.
 
 ---
 
@@ -40,7 +40,7 @@ Le systeme BIBLE_LORE + WIKI est utilise des que l'univers necessite un socle de
 
 ```
 CODEX (vivant, memoire chaude de session)
-  |-> BIBLE_LORE (index + lore condense, fichier de projet, lue en entier)
+  |-> BIBLE_LORE (index + lore condense, sur le depot, lue en entier a l'ouverture de chaque thread de build)
   |     |-> WIKI GitHub {Univers}/ (pages .md du monde, fetch a la demande)
   |     |     |-> {Univers}/Roadmap/<Prota>/ (itineraires par arc, par perspective de prota)
   |     |     |-> {Univers}/Fiches_Arc/<Prota>/ (fiches de narration par arc : trame + bible de l'etape, tronquees a la sortie de l'etape, chargees une fois a l'ouverture de thread)
@@ -110,8 +110,8 @@ Chaque fait porte implicitement le niveau "etabli" sauf balisage contraire :
 
 Plafond dur : 55 000 caracteres.
 Cible indicative : 35 000 a 40 000 caracteres. Le plafond dur reste la limite de securite ; la cible est le regime de croisiere d'une BIBLE en notices. Un build qui livre au-dela de la cible justifie l'ecart (univers a tres large cast, etc.).
-Pas de contrainte de cohabitation CODEX + BIBLE : le CODEX V1 se build a la fin des instructions Wiki, une fois la BIBLE retiree des fichiers de projet (bascule jeu, tout-ou-rien). BIBLE et CODEX ne sont jamais charges simultanement, donc pas de plafond commun. La BIBLE garde son plafond propre de 55 000 caracteres pour la phase build.
-ATTENTION - ce plafond ne vaut que pour la BIBLE SEULE. Le seuil de bascule retrieval (RAG) porte sur la SOMME des fichiers de projet, mesuree a 100 000 caracteres cumules (cf. SPEC_CODEX S3, mesure empirique reproduite sur decoupages varies). En phase build, compter : BIBLE + Instructions Wiki + tout autre fichier de projet. Corollaire : les SPEC se FETCHENT, elles ne se chargent JAMAIS comme fichiers de projet - une SPEC de 40 000 caracteres en projet fait sauter le budget a elle seule.
+Pas de contrainte de cohabitation CODEX + BIBLE : la BIBLE n'est pas lue en jeu, donc BIBLE et CODEX ne sont jamais en contexte ensemble. La BIBLE garde son plafond propre de 55 000 caracteres : lue en entier a chaque ouverture de thread de build, elle se paie en contexte a chaque thread.
+Le seuil de bascule retrieval (RAG) des fichiers de projet (SPEC_CODEX S3) ne concerne plus la phase build : BIBLE, SPEC et pages se fetchent, aucune ne se charge comme fichier de projet.
 Verification au build : `wc -m` (caracteres, locale UTF-8) sur le fichier genere. Depassement : signaler, proposer des compressions par gain decroissant (caracteres recuperes + ce qu'on perd), le worldbuilder tranche. Compresser, jamais supprimer l'information utile sans validation.
 
 Repartition indicative (guide, pas plafonds rigides par section) :
@@ -589,7 +589,7 @@ Si sources completes et plan clair :
 4. Livrer tous les fichiers.
 
 ### Sortie du build
-- BIBLE_LORE : un fichier .md, fichier de projet. Les sections pas encore remplies conservent le gabarit (structure, champs, format) pour les builds futurs.
+- BIBLE_LORE : un fichier .md, a la racine de `{Univers}/` sur le depot. Les sections pas encore remplies conservent le gabarit (structure, champs, format) pour les builds futurs.
 - Pages WIKI : fichiers .md individuels par dossier, a uploader sur le depot GitHub par le joueur.
 - Pages Parties/ : fichiers .md si necessaire, a uploader dans Parties/{Univers}/Partie<n>/.
 - Structure de sortie :
@@ -636,7 +636,7 @@ Les regles d'usage en narration (declencheur objectif de fetch, TTL, budgets par
 
 Seuls invariants cote SPEC :
 - Chaque page WIKI/Parties est une unite autonome, fetchee en entier.
-- La BIBLE_LORE est un fichier de projet DE LA PHASE BUILD : integralement en contexte pendant le worldbuilding, elle sert d'index permanent. A LA BASCULE JEU elle est RETIREE des fichiers de projet (regle tout-ou-rien : un fichier de projet est charge en entier ou pas du tout, on n'allege pas par lecture partielle). En narration, le lore pertinent est deja condense dans la FICHE D'ARC ; la BIBLE ne se recupere que par fetch cible via le Sommaire, en dernier recours (cf. Instructions RP S1, S2.1).
+- La BIBLE_LORE est le document DE LA PHASE BUILD : lue en entier a l'ouverture de chaque thread de worldbuilding, elle sert d'index permanent. En jeu elle n'est PAS lue : le lore pertinent est deja condense dans la FICHE D'ARC ; la BIBLE ne se recupere que par fetch cible via le Sommaire, en dernier recours (cf. Instructions RP S1, S2.1).
 
 ### Ce que la BIBLE, le WIKI et Parties/ ne font PAS
 - Pas de voix PNJ (ANNEXE_PNJ du CODEX).
@@ -669,8 +669,8 @@ Le joueur uploade les fichiers mis a jour sur le depot GitHub.
 ```
 sodomicka/rp/
   Config/
-    SPEC_CODEX_v8_5.md
-    SPEC_BIBLE_LORE_WIKI_v8_6.md
+    SPEC_CODEX_v8_6.md
+    SPEC_BIBLE_LORE_WIKI_v8_7.md
     (numeros indicatifs : verifier le listing reel de Config/ avant tout fetch)
   <Univers>/
     <Dossier_thematique>/
