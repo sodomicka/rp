@@ -1,5 +1,7 @@
 # BIBLE_LORE_STARWARS
 
+> Worldbuilder : connait Star Wars par les films seulement. Tout point de canon hors films s'explique en clair avant d'etre soumis a son choix ; les arbitrages de canon sont a la charge du MJ.
+
 ## Table des matieres
 - SB0 Metadonnees
 - SB1 Cosmogonie et regles du monde
