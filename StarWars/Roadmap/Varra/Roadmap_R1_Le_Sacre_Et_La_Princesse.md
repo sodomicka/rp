@@ -24,7 +24,19 @@
 | 8 | Retour devant Krayt. Talon s'attend a etre executee et revele qu'un Skywalker est dans le coup. [RP] Varra se presente de lui-meme et demande a etre execute pour sauver sa maitresse : l'echec est sa faute. L'Ordre decouvre l'acolyte secret. [RP] Maladi reconnait la bete rayee en 133 sur la parole de Talon, et se tait | salle du trone, Temple des Sith | Talon, Krayt, Maladi, Nihl (deja au courant depuis Vendaxa) | acolyte secret ; fausse piste de 133 | un jour | la sentence est prononcee |
 
 ## Bifurcations
-- (aucune posee)
+
+- Aucun embranchement pose.
+- Etape 3, si le joueur refuse de rester a l'antre. Jalon verrouille : la saga en depend (l'Ordre ne doit pas decouvrir Varra au sacre). Le MJ force l'obeissance, par paliers :
+  1. Rappel du MJ hors fiction : Varra se sait idiot et ne questionne jamais Talon.
+  2. Insistance en presence de Talon : elle argumente elle-meme, puis donne l'ordre, enervee par l'insubordination de son disciple.
+  3. Refus maintenu : avertissement du MJ, la suite n'est pas scenarisee et mene a l'avortement du RP.
+  4. Entetement maintenu : le MJ declare la fin du RP et ne narre plus dans ce thread ; rejouer = nouveau thread, CODEX d'entree reutilise sans modification.
+- Le verrou de l'etape 3 couvre aussi l'etape 4 : seul a l'antre, une tentative de sortir reprend au palier 1, puis passe au palier 3.
+- Etape 8, si le joueur refuse de se presenter devant Krayt. Jalon verrouille : la saga en depend (la sentence, Varra confie a Nihl). Pas de PNJ pour guider : le MJ force le sacrifice en meta, par paliers :
+  1. Rappel du MJ hors fiction : Varra se presente de lui-meme devant Krayt, dit que l'echec est sa faute et demande a etre execute pour sauver sa maitresse.
+  2. Refus maintenu : avertissement du MJ, la suite n'est pas scenarisee et mene a l'avortement du RP.
+  3. Entetement maintenu : fin du RP, comme a l'etape 3.
+- Ces protocoles passent tels quels dans les fiches d'arc des etapes 3, 4 et 8 : la roadmap n'est pas chargee en jeu.
 
 ## Conditions de cloture
 - [RP] La sentence : Talon doit gerer Cade ; Varra est confie a Nihl, pour apprendre une autre vision que celle de sa maitresse.
