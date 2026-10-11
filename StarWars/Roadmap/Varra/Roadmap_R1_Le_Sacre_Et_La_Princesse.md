@@ -1,11 +1,12 @@
 # Roadmap_R1_Le_Sacre_Et_La_Princesse
 
-- statut : en cours
+- statut : validee au grain de l'itineraire ; detail de scene en Passe 3
 - version : W1
 - cadrage : cale sur 00_Garde_Cap.md, section "137 ABY - Le sacre et la princesse". Grain : le jalon ; le detail de scene releve de la fiche d'arc (Passe 3).
 - convention : [RP] = beat qui devie de Legends ; sans marqueur = conforme au canon.
 
 ## Conditions de depart
+- Duree totale de l'arc : environ deux semaines.
 - 137 ABY, quelques jours avant le sacre (point de depart du RP).
 - Devon Izara, apprentie de Darth Ruyn, non sacree. Elle forme Varra en secret depuis 133 ABY ; seule elle connait son existence.
 - Varra vit a l'antre avec sa meute de vanx.
@@ -13,14 +14,14 @@
 ## Etapes
 | # | Etape | Lieu | PNJ impliques | Tchekhov lies | Duree | Condition d'avancement |
 |---|---|---|---|---|---|---|
-| 1 | [RP] Une derniere mission ensemble : un contrat de Maladi, comme d'habitude. [cible a fixer au peaufinage] | [a fixer] | Talon, Maladi (commanditaire) | acolyte secret | [a fixer] | mission bouclee, retour a l'antre |
-| 2 | [RP] Vie a l'antre : Talon prepare la presentation surprise de Varra a l'Ordre | l'antre | Talon | acolyte secret | [a fixer] | Talon est convoquee au Temple |
-| 3 | [RP] La convocation : Talon couche une derniere fois avec Varra, puis lui ordonne de rester sagement a l'antre | l'antre | Talon | acolyte secret | [a fixer] | Talon part |
-| 4 | [RP] L'attente. Sacre hors champ : au Temple, Talon decapite Ruyn sur ordre de Krayt et devient Darth Talon, Main. A l'antre, Varra bute sur un exercice de logique niveau college, s'enerve et casse des choses | l'antre | - (Talon hors champ) | secret de lignee (Ruyn meurt) | [a fixer] | Talon revient |
-| 5 | Talon revient Darth Talon : la surprise est tombee a plat, Varra devient un secret genant | l'antre | Talon | acolyte secret | [a fixer] | Krayt envoie Talon capturer la princesse Marasiah Fel |
-| 6 | Socorro. [RP] Varra suit, en retrait : Talon exige qu'il se contente de l'observer traquer, et passe trop de temps a le discipliner. Marasiah lui echappe ; Talon mutile puis tue la Chevaliere Imperiale Elke Vetter ; Marasiah fuit sur le Mynock de Cade | Socorro | Talon, Marasiah Fel, Elke Vetter, Astraal Vao, Cade Skywalker, Jariah Syn, Deliah Blue | - | [a fixer] | Talon remonte la piste jusqu'a Vendaxa |
-| 7 | Vendaxa. [RP] Talon teste la meute de Varra sur le terrain et la lance sur le groupe ; Varra toujours en retrait, Talon toujours distraite par sa discipline. Toute la meute y passe : Varra, tenu en retrait, la regarde mourir et bouillonne ; Talon s'en rend compte et l'envoie les venger. Les renforts des deux camps arrivent juste apres, trop tard pour cacher son disciple. Talon sabote le Mynock, affronte Wolf Sazen et Shado Vao ; renfort des Chevaliers Draco et Krieg ; assaut final avec d'autres Sith, dont Nihl. [RP] Nihl voit Varra se battre : il ne pose pas de question, consigne, et garde ca comme un poignard potentiel contre sa rivale. Il ne voit pas Varra en nuisible : il reconnait une excellente arme obeissante, sans savoir quelle monnaie l'achete. Marasiah grievement blessee ; Talon echoue, Draco la pousse hors du Mynock | Vendaxa | Talon, meute de Varra, Marasiah Fel, Cade, Wolf Sazen, Shado Vao, Antares Draco, Ganner Krieg, Nihl | echo vanx | [a fixer] | retour a Coruscant |
-| 8 | Retour devant Krayt. Talon s'attend a etre executee et revele qu'un Skywalker est dans le coup. [RP] Varra se presente de lui-meme et demande a etre execute pour sauver sa maitresse : l'echec est sa faute. L'Ordre decouvre l'acolyte secret. [RP] Maladi reconnait la bete rayee en 133 sur la parole de Talon, et se tait | [a fixer] | Talon, Krayt, Maladi, Nihl (deja au courant depuis Vendaxa) | acolyte secret ; fausse piste de 133 | [a fixer] | la sentence est prononcee |
+| 1 | [RP] Une derniere mission ensemble : un contrat de Maladi, comme d'habitude. Cible : un fonctionnaire imperial qui sape Krayt en douce | [Passe 3] | Talon, Maladi (commanditaire) | acolyte secret | 2 jours | mission bouclee, retour a l'antre |
+| 2 | [RP] Vie a l'antre : Talon prepare la presentation surprise de Varra a l'Ordre | l'antre | Talon | acolyte secret | 3 jours | Talon est convoquee au Temple |
+| 3 | [RP] La convocation : Talon couche une derniere fois avec Varra, puis lui ordonne de rester sagement a l'antre | l'antre | Talon | acolyte secret | une nuit | Talon part |
+| 4 | [RP] L'attente. Sacre hors champ : au Temple, Talon decapite Ruyn sur ordre de Krayt et devient Darth Talon, Main. A l'antre, Varra bute sur un exercice de logique niveau college, s'enerve et casse des choses | l'antre | - (Talon hors champ) | secret de lignee (Ruyn meurt) | quelques heures | Talon revient |
+| 5 | Talon revient Darth Talon : la surprise est tombee a plat, Varra devient un secret genant | l'antre | Talon | acolyte secret | un jour | Krayt envoie Talon capturer la princesse Marasiah Fel |
+| 6 | Socorro. [RP] Varra suit, en retrait : Talon exige qu'il se contente de l'observer traquer, et passe trop de temps a le discipliner. Marasiah lui echappe ; Talon mutile puis tue la Chevaliere Imperiale Elke Vetter ; Marasiah fuit sur le Mynock de Cade | Socorro | Talon, Marasiah Fel, Elke Vetter, Astraal Vao, Cade Skywalker, Jariah Syn, Deliah Blue | - | 3 jours | Talon remonte la piste jusqu'a Vendaxa |
+| 7 | Vendaxa. [RP] Talon teste la meute de Varra sur le terrain et la lance sur le groupe ; Varra toujours en retrait, Talon toujours distraite par sa discipline. Toute la meute y passe : Varra, tenu en retrait, la regarde mourir et bouillonne ; Talon s'en rend compte et l'envoie les venger. Les renforts des deux camps arrivent juste apres, trop tard pour cacher son disciple. Talon sabote le Mynock, affronte Wolf Sazen et Shado Vao ; renfort des Chevaliers Draco et Krieg ; assaut final avec d'autres Sith, dont Nihl. [RP] Nihl voit Varra se battre : il ne pose pas de question, consigne, et garde ca comme un poignard potentiel contre sa rivale. Il ne voit pas Varra en nuisible : il reconnait une excellente arme obeissante, sans savoir quelle monnaie l'achete. Marasiah grievement blessee ; Talon echoue, Draco la pousse hors du Mynock | Vendaxa | Talon, meute de Varra, Marasiah Fel, Cade, Wolf Sazen, Shado Vao, Antares Draco, Ganner Krieg, Nihl | echo vanx | 2 jours | retour a Coruscant |
+| 8 | Retour devant Krayt. Talon s'attend a etre executee et revele qu'un Skywalker est dans le coup. [RP] Varra se presente de lui-meme et demande a etre execute pour sauver sa maitresse : l'echec est sa faute. L'Ordre decouvre l'acolyte secret. [RP] Maladi reconnait la bete rayee en 133 sur la parole de Talon, et se tait | salle du trone, Temple des Sith | Talon, Krayt, Maladi, Nihl (deja au courant depuis Vendaxa) | acolyte secret ; fausse piste de 133 | un jour | la sentence est prononcee |
 
 ## Bifurcations
 - (aucune posee)

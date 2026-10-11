@@ -71,7 +71,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| 137 ABY | Fournit a Talon un dernier contrat, avant le sacre | - |
+| 137 ABY | Fournit a Talon un dernier contrat, avant le sacre : un fonctionnaire imperial qui sape Krayt en douce | - |
 | 137 ABY | Varra se revele devant Krayt : elle reconnait la bete rayee en 133 sur la parole de Talon | se tait et garde la carte du mensonge pour plus tard |
 
 ---
