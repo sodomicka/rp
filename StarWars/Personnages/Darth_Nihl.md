@@ -1,6 +1,6 @@
 # Darth Nihl
 
-- version : W1
+- version : W2
 
 ## Identite
 - Darth Nihl. Entite de lore canon (Legends).
@@ -52,8 +52,8 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-- (aucune entree : alimentee a chaud a partir de la Passe 2)
+| 137 ABY | Vendaxa : rejoint Talon pour l'assaut final ; voit Varra se battre | consigne sans rien dire : un poignard potentiel contre sa rivale, et une excellente arme a ses yeux |
+| 137 ABY | Sentence de Krayt | recoit Varra, pour lui apprendre une autre vision que celle de Talon |
 
 ---
 

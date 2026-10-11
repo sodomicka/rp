@@ -30,14 +30,18 @@ Description : histoire galactique en tables datees (BBY / ABY).
 
 ### Personnages/
 Description : personnages decrits au point de depart (137 ABY, quelques jours avant le sacre de Talon), en lore neutre.
-- Varra.md (W5) - protagoniste, OC chiss, acolyte secret de Devon Izara : identite, physique, psychologie, capacites, manies, relations, histoire, sabres.
-- Darth_Talon.md (W4) - Devon Izara, future Darth Talon : lignee Izara, physique, psychologie, capacites, manies, relations, histoire jusqu'au sacre, sabre.
+- Varra.md (W6) - protagoniste, OC chiss, acolyte secret de Devon Izara : identite, physique, psychologie, capacites, manies, relations, histoire, sabres.
+- Darth_Talon.md (W5) - Devon Izara, future Darth Talon : lignee Izara, physique, psychologie, capacites, manies, relations, histoire jusqu'au sacre, sabre.
 - Darth_Ruyn.md (W2) - maitre de Talon, seconde Main de Krayt et grand-pere secret de Talon.
-- Darth_Krayt.md (W3) - Seigneur Noir et Empereur : apparence, psychologie, capacites, relations, histoire jusqu'au sacre.
-- Darth_Nihl.md (W1) - Main de Krayt depuis 130 ABY, rival de Talon.
-- Cade_Skywalker.md (W1) - fils de Kol, capitaine du Mynock, traque par Krayt.
+- Darth_Krayt.md (W4) - Seigneur Noir et Empereur : apparence, psychologie, capacites, relations, histoire jusqu'au sacre.
+- Darth_Nihl.md (W2) - Main de Krayt depuis 130 ABY, rival de Talon.
+- Cade_Skywalker.md (W2) - fils de Kol, capitaine du Mynock, traque par Krayt.
 - Darth_Wyyrlok_III.md (W1) - la Voix, Maitre du savoir et regent ; lignee des Wyyrlok.
-- Darth_Maladi.md (W1) - Renseignement et Assassinat Sith, medecin de l'Ordre ; fournit ses contrats a Talon.
+- Darth_Maladi.md (W2) - Renseignement et Assassinat Sith, medecin de l'Ordre ; fournit ses contrats a Talon.
+- Marasiah_Fel.md (W1) - princesse heritiere de l'Empire Fel en exil, Chevaliere Imperiale en formation.
+- Antares_Draco.md (W1) - Chevalier Imperial, second de Roan Fel, amant de Marasiah.
+- Wolf_Sazen.md (W1) - maitre Jedi zabrak, ancien maitre de Cade, manchot depuis Ossus.
+- Shado_Vao.md (W1) - chevalier Jedi twi'lek, meilleur ami d'enfance de Cade.
 
 ### Lieux/
 Description : lieux decrits au point de depart.

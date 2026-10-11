@@ -1,6 +1,6 @@
 # Varra
 
-- version : W5
+- version : W6
 
 ## Identite
 - Varra. Protagoniste ; OC, entite de lore neutre. [DIVERGENCE RP]
@@ -67,8 +67,10 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-- (aucune entree : alimentee a chaud a partir de la Passe 2)
+| 137 ABY | Derniere mission avec Talon (contrat de Maladi). A la convocation, elle couche une derniere fois avec lui et lui ordonne de rester a l'antre | - |
+| 137 ABY | Attente a l'antre pendant le sacre, hors champ | Talon devient Darth Talon ; il devient un secret genant |
+| 137 ABY | Suit la traque de Marasiah Fel en retrait (Socorro, Vendaxa). A Vendaxa, sa meute meurt ; Talon l'envoie la venger | perd sa meute ; Nihl le voit se battre |
+| 137 ABY | Se presente devant Krayt et demande a etre execute : l'echec est sa faute | l'Ordre le connait ; confie a Nihl |
 
 ---
 

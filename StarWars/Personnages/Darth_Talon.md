@@ -1,6 +1,6 @@
 # Darth Talon (Devon Izara)
 
-- version : W4
+- version : W5
 
 ## Identite
 - Devon Izara ; Darth Talon a partir du sacre (137 ABY), nom donne par Krayt. Entite de lore canon (Legends). Nom de naissance repris de la Devon Izara de Maul - Shadow Lord (Disney), personnage ecarte de cet univers. [DIVERGENCE RP]
@@ -68,8 +68,9 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-- (aucune entree : alimentee a chaud a partir de la Passe 2)
+| 137 ABY | Krayt l'envoie capturer la princesse Marasiah Fel. Socorro : elle tue la Chevaliere Imperiale Elke Vetter, Marasiah lui echappe | - |
+| 137 ABY | Vendaxa : elle lance la meute de Varra sur le groupe de Marasiah ; distraite par la discipline qu'elle impose a Varra, elle echoue | la meute de Varra meurt ; Nihl a vu Varra se battre |
+| 137 ABY | Retour devant Krayt : Varra se presente et demande a mourir a sa place | l'Ordre connait Varra ; sentence : elle doit gerer Cade, Varra est confie a Nihl ; Maladi sait qu'elle lui a menti en 133 |
 
 ---
 
