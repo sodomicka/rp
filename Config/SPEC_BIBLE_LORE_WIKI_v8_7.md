@@ -669,7 +669,7 @@ Le joueur uploade les fichiers mis a jour sur le depot GitHub.
 ```
 sodomicka/rp/
   Config/
-    SPEC_CODEX_v8_5.md
+    SPEC_CODEX_v8_6.md
     SPEC_BIBLE_LORE_WIKI_v8_7.md
     (numeros indicatifs : verifier le listing reel de Config/ avant tout fetch)
   <Univers>/

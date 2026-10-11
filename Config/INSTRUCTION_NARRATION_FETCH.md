@@ -10,7 +10,7 @@ Fichier `Config/` de l'instruction de projet "INSTRUCTION - NARRATION" (le coeur
 
 **Quoi.** Charger ces instructions, c'est venir jouer.
 
-**Ordre imperatif.** Seul le CODEX (avec le Fil des arcs) est en contexte : c'est un fichier de projet. La FICHE D'ARC et le SOMMAIRE n'y sont PAS -> les fetcher via S4.1 **AVANT toute chose**, recap compris. Un recap ecrit sans la fiche d'arc en contexte est un recap improvise (S2.1). Fetch fait, le MJ pose alors, en deux temps et dans le MEME tour :
+**Ordre imperatif.** Rien n'est en contexte d'office : ni le CODEX, ni la fiche d'arc, ni le Sommaire. Les fetcher via S4.1 **AVANT toute chose**, recap compris, dans cet ordre : CODEX (`Parties/{Univers}/Partie<n>/CODEX_NARRATIF.md`), Sommaire, fiche d'arc. Un recap ecrit sans la fiche d'arc en contexte est un recap improvise (S2.1). Fetch fait, le MJ pose alors, en deux temps et dans le MEME tour :
 
 **1. Recap de reprise (hors-fiction, bref).** Avant toute prose narrative, un bloc OOC court :
    - **Arc courant** : nom de l'arc + jalon courant et prochain jalon (CODEX ANNEXE_CHRONO > Arcs).
@@ -55,6 +55,7 @@ for seg in html.split('\"rawLines\":')[1:]:
 Par defaut, methode 1 (raw). Sortie vide ou erreur -> methode 2 (blob + parser). Echec reel des DEUX -> `[FETCH ECHOUE - <page>]`.
 
 **1. A l'ouverture de thread (proactif, fixe).**
+   a0. Fetch le **CODEX** de la partie, EN ENTIER - reste en contexte tout le thread ; sorti du contexte (thread long ou resume) -> le refetcher avant de narrer.
    a. Identifier l'arc courant via CODEX ANNEXE_CHRONO > Arcs (jalon courant, prochain jalon, renvoi `fiche_arc:`). Lire le FIL DES ARCS du CODEX (suite ordonnee des arcs traverses -> arc courant -> arc suivant prevu).
    b. Fetch `Sommaire.md` - reste en contexte tout le thread.
    c. Fetch la **FICHE D'ARC** de l'arc courant (`Fiches_Arc/<Prota>/Fiche_Arc_<Arc>.md`) - reste en contexte tout le thread. Mini-bible autosuffisante : casting + lieux + objets + lore d'arc condense, tronques a la frontiere (etat d'ouverture + deroule jusqu'aux conditions de sortie de l'etape ; rien de l'etape suivante). Porte aussi `arc precedent` / `arc suivant` (chainage local pour la bascule, cf. 1bis).
