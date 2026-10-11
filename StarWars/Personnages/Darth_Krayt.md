@@ -1,6 +1,6 @@
 # Darth Krayt (A'Sharad Hett)
 
-- version : W3
+- version : W4
 
 ## Identite
 - Darth Krayt, ne A'Sharad Hett. Entite de lore canon (Legends).
@@ -63,8 +63,8 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-- (aucune entree : alimentee a chaud a partir de la Passe 2)
+| 137 ABY | Envoie Talon capturer Marasiah Fel, appat pour faire sortir Roan Fel | - |
+| 137 ABY | Talon revient bredouille et lui apprend qu'un Skywalker est en jeu ; Varra se presente devant lui | sentence : Talon chargee de Cade, Varra confie a Nihl |
 
 ---
 

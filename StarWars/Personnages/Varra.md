@@ -1,6 +1,6 @@
 # Varra
 
-- version : W4
+- version : W6
 
 ## Identite
 - Varra. Protagoniste ; OC, entite de lore neutre. [DIVERGENCE RP]
@@ -13,7 +13,7 @@
 
 ## Description physique
 - Chiss : peau bleue, yeux rouges, cheveux noir de jais.
-- 1,93 m, tres large d'epaules.
+- 1,93 m, tres large d'epaules : physique aberrant pour un Chiss (cf. Capacites, Force incarnee).
 - Longs cheveux tresses en dreadlocks, ornees d'anneaux de metal, auxquels il tient.
 - Rase : c'est Talon qui le rase. Il ne s'etait jamais rase avant elle.
 - Brulures a la main gauche, heritees de sa facon de se battre avant Talon (barre de metal aiguisee au sabre laser).
@@ -29,7 +29,8 @@
 
 ## Capacites (noyau, <= point de depart)
 - Combat : Forme VII, le Juyo, a deux sabres. Talon le pratique aussi et le forme : a lui la brutalite, a elle la technique. Le Juyo de Talon est presque une danse ; celui de Varra, un chaos que lui seul sait lire.
-- Force : aucun usage avant Talon. Depuis : bases de telekinesie ; reflechir et se canaliser ne sont pas son fort.
+- Force : aucun usage conscient avant Talon. Depuis : bases de telekinesie ; reflechir et se canaliser ne sont pas son fort.
+- Force incarnee [DIVERGENCE RP] : faute de passer dans des techniques, sa Force passe dans son corps depuis l'enfance, sans qu'il le veuille ni le sache. C'est ce qui explique son physique aberrant, a fortiori pour un Chiss. Force, endurance et detente hors normes. Sous le coup d'une emotion forte (rage, inquietude pour Talon), il franchit sans effort des bonds d'immeuble en immeuble.
 - Eclair de Force : le seul pouvoir que Talon parvient a lui enseigner. Il ne s'en sert que desarme.
 - Langue : le basic, appris de Talon apres le recrutement (il ne savait pas parler). Il sait lire.
 
@@ -51,7 +52,7 @@
 ## Histoire (noyau, <= point de depart)
 - 115 ABY : naissance dans les bas-fonds de Coruscant, d'un parent chiss exile de l'Ascendance.
 - Vers 120 ABY, vers 5 ans : la Force se manifeste chez lui. Son parent l'abandonne : chez les Chiss, la sensibilite a la Force est une impurete honteuse.
-- 120-133 ABY, treize ans a l'etat sauvage dans les egouts. Une meute de vanx le recueille au lieu de le manger. [DIVERGENCE RP] Deduction de Talon sur leur presence : arrives sur Coruscant dans un transport de marchandises illegales dont ils faisaient partie, ils se sont echappes et caches dans les egouts. Il mange ce que la meute lui rapporte ; devenu plus fort qu'eux, c'est lui qui la nourrit. Il oublie tout, son identite comme sa langue.
+- 120-133 ABY, treize ans a l'etat sauvage dans les egouts. Une meute de vanx le recueille au lieu de le manger. [DIVERGENCE RP] Deduction de Talon sur leur presence : arrives sur Coruscant dans un transport de marchandises illegales dont ils faisaient partie, ils se sont echappes et caches dans les egouts. Il mange ce que la meute lui rapporte ; devenu plus fort qu'eux (cf. Capacites, Force incarnee), c'est lui qui la nourrit. Il oublie tout, son identite comme sa langue.
 - Pendant ces annees (date non fixee) : il trouve le vrai sabre de Mace Windu, tombe dans les rues de Coruscant avec la main tranchee de Windu (19 BBY). Il se bat avec ce sabre et une barre de metal aiguisee au sabre laser, qui lui sert a trancher la viande d'aliens : d'ou les brulures de sa main gauche.
 - La bete des bas-fonds : la legende d'un monstre aux yeux rouges qui se deplace comme une bete, arme d'un sabre violet et d'une barre de metal tranchante. Les temoins, trop loin, n'ont vu que des yeux rouges et un humanoide bougeant comme une bete. Il tue et mange des aliens : la legende parle d'un cannibale.
 - 133 ABY : un sabre violet dans les bas-fonds evoque un Jedi cache, traque depuis 130 ABY. Devon Izara descend tuer un Jedi et trouve une bete de 18 ans qui ne parle pas. Elle le repere pour son affinite avec la Force et en fait son acolyte secret. Sa disparition passe inapercue ; les disparitions cessent, il ne reste que la legende.
@@ -66,8 +67,10 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-- (aucune entree : alimentee a chaud a partir de la Passe 2)
+| 137 ABY | Derniere mission avec Talon (contrat de Maladi sur un fonctionnaire imperial qui sape Krayt). A la convocation, elle couche une derniere fois avec lui et lui ordonne de rester a l'antre | - |
+| 137 ABY | Attente a l'antre pendant le sacre, hors champ | Talon devient Darth Talon ; il devient un secret genant |
+| 137 ABY | Suit la traque de Marasiah Fel en retrait (Socorro, Vendaxa). A Vendaxa, sa meute meurt ; Talon l'envoie la venger | perd sa meute ; Nihl le voit se battre |
+| 137 ABY | Se presente devant Krayt et demande a etre execute : l'echec est sa faute | l'Ordre le connait ; confie a Nihl |
 
 ---
 

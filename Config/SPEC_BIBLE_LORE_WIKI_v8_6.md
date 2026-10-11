@@ -344,7 +344,20 @@ Colonne DUREE : chaque bloc jouable porte son echelle temporelle REELLE in-world
 Bloc couvrant un long laps (annees/decennies) a rendre en vignettes : marquer la section `[SNAPSHOTS]`. Le MJ compresse alors en vignettes evocatrices au lieu de jouer chaque etape - compresser n'est PAS supprimer, le joueur doit sentir le temps passer (cf. Instructions RP, sequence de roadmap). Un bloc `[SNAPSHOTS]` porte d'autant plus une duree chiffree : c'est elle qui borne l'ampleur de l'ellipse.
 
 ## Bifurcations
-- Apres etape <N> : si <condition A> -> <consequence>. Si <condition B> -> <consequence>.
+- Embranchement, apres etape <N> : si <condition A> -> <consequence>. Si <condition B> -> <consequence>.
+- Etape <N>, si le joueur <refus>. Jalon verrouille : la saga en depend. Le MJ force la main, par paliers :
+  1. <palier le plus doux>
+  2. Refus maintenu : <palier suivant>
+  ...
+  n-1. Avertissement du MJ : la suite n'est pas scenarisee et mene a l'avortement du RP.
+  n. Entetement maintenu : le MJ declare la fin du RP et ne narre plus dans ce thread ; rejouer = nouveau thread, CODEX d'entree reutilise sans modification.
+- Ce protocole passe tel quel dans la fiche d'arc de l'etape <N> : la roadmap n'est pas chargee en jeu.
+
+BIFURCATIONS, deux usages.
+- EMBRANCHEMENT : le recit se separe en deux chemins (tuer ou epargner un personnage central...). Couteux : chaque branche exige ses propres suites.
+- JALON VERROUILLE : un choix du joueur dont la saga depend. Pas de seconde branche : le MJ force la main par paliers, du plus doux au plus dur, en jeu (un PNJ insiste, un autre vient en renfort, le groupe fait pression, une autorite tranche) ou en meta quand aucun PNJ ne peut le porter (rappel du MJ hors fiction). Si le refus tient, le MJ avertit que la suite n'est pas scenarisee, puis declare la fin du RP en dernier recours : rejouer, c'est un nouveau thread sans modification du CODEX d'entree, on reutilise le meme.
+- A chaque roadmap, le MJ repere les choix du joueur dont la saga depend et propose un verrou pour chacun.
+- Le protocole d'un verrou passe tel quel dans le Deroule de la fiche d'arc de l'etape : la roadmap n'est pas chargee en jeu.
 
 ## Conditions de cloture
 - <condition de fin d'arc>
@@ -388,7 +401,7 @@ Budget : la fiche d'arc est l'EXCEPTION au plafond des pages WIKI. Comme c'est l
 - arc precedent : cf. WIKI Fiches_Arc/<Prota>/Fiche_Arc_<ArcPrecedent>.md   (ou "aucun - premier arc")
 - arc suivant : cf. WIKI Fiches_Arc/<Prota>/Fiche_Arc_<ArcSuivant>.md   (ou "aucun - fin ouverte / dernier arc")
 
-> CHAINAGE LOCAL. Les champs `arc precedent` / `arc suivant` font de chaque fiche un maillon : la navigation entre arcs se fait DE PROCHE EN PROCHE par ces pointeurs, sans repasser par un index global des roadmaps (les roadmaps ne sont plus indexees au Sommaire en jeu - cf. note Roadmap du Sommaire). BIFURCATION : si l'arc debouche sur plusieurs suites (ex. branche canon vs branche divergente), lister UN pointeur `arc suivant` par sortie, chacun annote de sa condition (ex. "si <condition A> -> Fiche_Arc_<X>.md ; si <condition B> -> Fiche_Arc_<Y>.md"). FIN OUVERTE : `arc suivant : aucun`. La MEMOIRE du chemin deja parcouru ne vit PAS ici (la fiche ignore le passe joue) : elle vit dans le CODEX ANNEXE_CHRONO (fil long des arcs traverses) et dans Parties/Archives - cf. section 3, trois roles.
+> CHAINAGE LOCAL. Les champs `arc precedent` / `arc suivant` font de chaque fiche un maillon : la navigation entre arcs se fait DE PROCHE EN PROCHE par ces pointeurs, sans repasser par un index global des roadmaps (les roadmaps ne sont plus indexees au Sommaire en jeu - cf. note Roadmap du Sommaire). EMBRANCHEMENT (cf. gabarit Roadmap, Bifurcations) : si l'arc debouche sur plusieurs suites (ex. branche canon vs branche divergente), lister UN pointeur `arc suivant` par sortie, chacun annote de sa condition (ex. "si <condition A> -> Fiche_Arc_<X>.md ; si <condition B> -> Fiche_Arc_<Y>.md"). FIN OUVERTE : `arc suivant : aucun`. La MEMOIRE du chemin deja parcouru ne vit PAS ici (la fiche ignore le passe joue) : elle vit dans le CODEX ANNEXE_CHRONO (fil long des arcs traverses) et dans Parties/Archives - cf. section 3, trois roles.
 
 ## Cadre d'ouverture
 - Lieu(x) de depart : <ou commence l'arc>
@@ -417,6 +430,7 @@ Les temps de l'etape, dans l'ordre, du premier battement jouable a la condition 
 ### T1. <date IW> - <jalon, repris de la roadmap>
 - Lieu / presents : <...>
 - Detail de scene : <...>
+- Jalon verrouille (si la roadmap en pose un sur ce temps) : <protocole par paliers, copie tel quel de la roadmap>
 - Passage a T2 : <condition ; ou "libre">
 ### T2. <date IW> - <jalon>
 - ...

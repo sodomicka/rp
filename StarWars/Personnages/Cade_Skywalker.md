@@ -1,6 +1,6 @@
 # Cade Skywalker
 
-- version : W1
+- version : W2
 
 ## Identite
 - Cade Skywalker. Entite de lore canon (Legends).
@@ -72,8 +72,8 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-- (aucune entree : alimentee a chaud a partir de la Passe 2)
+| 137 ABY | Socorro : embarque Marasiah Fel et Astraal Vao sur le Mynock, pour la prime | - |
+| 137 ABY | Vendaxa : retrouve Wolf et Shado ; ranime Marasiah par transfert obscur et reprend un sabre | renoue avec la Force et le sabre ; Krayt apprend qu'un Skywalker est en jeu |
 
 ---
 

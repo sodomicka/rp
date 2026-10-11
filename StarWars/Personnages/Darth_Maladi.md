@@ -1,6 +1,6 @@
 # Darth Maladi
 
-- version : W1
+- version : W2
 
 ## Identite
 - Darth Maladi, dite Lady Maladi, nee Malincha. Entite de lore canon (Legends).
@@ -71,8 +71,8 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-- (aucune entree : alimentee a chaud a partir de la Passe 2)
+| 137 ABY | Fournit a Talon un dernier contrat, avant le sacre : un fonctionnaire imperial qui sape Krayt en douce | - |
+| 137 ABY | Varra se revele devant Krayt : elle reconnait la bete rayee en 133 sur la parole de Talon | se tait et garde la carte du mensonge pour plus tard |
 
 ---
 
