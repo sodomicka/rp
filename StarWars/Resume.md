@@ -1,10 +1,10 @@
 # Resume - StarWars
 
-- version : W2
+- version : W3
 
 ## Usage
 - Condense du recit tel qu'etabli (canon + divergences actees), pour le worldbuilder. Outil hors RP et hors build : jamais fetche, non indexe au Sommaire. Mis a jour a chaque BIBLE BUILD.
-- Etat du recit : Passe 1 close (BIBLE B2, 18 pages WIKI). Aucune roadmap ecrite : le resume s'arrete au sacre de Talon.
+- Etat du recit : Passe 2 ouverte (BIBLE B3, 22 pages WIKI). Garde-cap pose, roadmap R1 ecrite : le resume s'arrete a la sentence qui clot R1.
 - Premisse : Star Wars Legends, ere Legacy. Perspective : Varra, OC chiss, acolyte forme en secret par Devon Izara, la future Darth Talon. Perimetre : la vie entiere de Talon.
 
 ## Le monde
@@ -23,12 +23,22 @@ Krayt regne depuis Coruscant ; l'ancien Temple Jedi est devenu le Temple des Sit
 Devon Izara est une Twi'lek lethane nee en 108 ABY, Sith de troisieme generation. Ses parents, Sith de rang modeste, l'ont laissee enfant a l'academie de Korriban ; l'Ordre est sa seule famille. Son maitre, Darth Ruyn, seconde Main de Krayt, a fait d'elle une assassin et a conditionne sa loyaute. Il est aussi son grand-pere, ce qu'elle ignore : seuls Krayt et lui le savent. Depuis 133 ABY, elle forme en secret un acolyte pour le presenter par surprise et pretendre au sacre et au rang de Main de Krayt.
 
 ## Varra
-Varra est un Chiss ne en 115 ABY dans les bas-fonds de Coruscant. Vers 5 ans, la Force se manifeste chez lui et son parent, exile de l'Ascendance, l'abandonne. Une meute de vanx le recueille : treize ans durant, il vit a l'etat sauvage dans les egouts et oublie tout, jusqu'a sa langue. Arme du vrai sabre de Mace Windu, trouve dans les profondeurs, il devient la bete des bas-fonds, legende d'un cannibale aux yeux rouges.
+Varra est un Chiss ne en 115 ABY dans les bas-fonds de Coruscant. Vers 5 ans, la Force se manifeste chez lui et son parent, exile de l'Ascendance, l'abandonne. Une meute de vanx le recueille : treize ans durant, il vit a l'etat sauvage dans les egouts et oublie tout, jusqu'a sa langue. Arme du vrai sabre de Mace Windu, trouve dans les profondeurs, il devient la bete des bas-fonds, legende d'un cannibale aux yeux rouges. Faute de passer dans des techniques, sa Force passe dans son corps depuis l'enfance : d'ou un physique aberrant, a fortiori pour un Chiss.
 
 En 133 ABY, sur un contrat de Maladi, Devon Izara descend tuer un Jedi cache et trouve une bete de 18 ans qui ne parle pas. Elle en fait son acolyte secret et rapporte a Maladi une fausse piste. Elle le nomme, lui apprend le basic, la lecture, le Juyo et l'eclair, et l'installe avec sa meute a l'antre, une station de pompage abandonnee. Ils couchent ensemble depuis le recrutement. Il est sincerement accro a elle ; pour elle, il n'est qu'un outil. Seule Talon connait son existence.
 
 ## Le sacre
-En 137 ABY, quelques jours avant le sacre, Krayt prend Devon Izara de court : Ruyn faiblit, et Krayt veut sa disciple a sa place. Dans la salle du trone, il lui ordonne de tuer son maitre pour obtenir la promotion. Elle le decapite ; Krayt la nomme Darth Talon et lui donne la place de Ruyn, l'une de ses deux Mains. La surprise tombe a plat. Reveler l'acolyte avouerait desormais ses manigances et son ambition. Il devient un cadavre dans le placard : genant, mais d'une loyaute infaillible.
+En 137 ABY, Talon et Varra bouclent une derniere mission ensemble, un contrat de Maladi sur un fonctionnaire imperial qui sape Krayt en douce. A l'antre, Talon prepare la presentation surprise de son acolyte a l'Ordre. Mais Krayt la prend de court : Ruyn faiblit, et il veut sa disciple a sa place. Convoquee au Temple, elle couche une derniere fois avec Varra et lui ordonne de rester sagement a l'antre. Dans la salle du trone, Krayt lui ordonne de tuer son maitre pour obtenir la promotion. Elle le decapite ; Krayt la nomme Darth Talon et lui donne la place de Ruyn, l'une de ses deux Mains. Pendant ce temps, a l'antre, Varra bute sur un exercice de logique niveau college et casse des choses.
+
+La surprise tombe a plat. Reveler l'acolyte avouerait desormais ses manigances et son ambition. Il devient un cadavre dans le placard : genant, mais d'une loyaute infaillible.
+
+## La princesse
+Krayt envoie ensuite Talon capturer Marasiah Fel, fille et heritiere de l'empereur en exil Roan Fel. Varra la suit. Sur Socorro, elle exige qu'il se contente de l'observer traquer et passe trop de temps a le discipliner. Distraite, elle tue la Chevaliere Imperiale Elke Vetter, mais Marasiah lui echappe a bord du Mynock, le vaisseau de Cade Skywalker.
+
+Sur Vendaxa, Talon teste la meute de Varra sur le terrain. Toute la meute y passe. Varra bouillonne ; Talon le voit et l'envoie la venger, juste avant que les renforts des deux camps n'arrivent, trop tard pour le cacher. Darth Nihl, l'autre Main et le rival de Talon, voit Varra se battre. Il ne pose pas de question et consigne : un poignard potentiel contre sa rivale, et une excellente arme a ses yeux. Talon echoue ; le Chevalier Imperial Antares Draco la pousse hors du Mynock.
+
+## La sentence
+De retour devant Krayt, dans la salle du trone, Talon s'attend a etre executee et revele qu'un Skywalker est dans le coup. Varra se presente de lui-meme et demande a etre execute pour sauver sa maitresse : l'echec est sa faute. L'Ordre decouvre l'acolyte secret. Darth Maladi reconnait la bete qu'elle a rayee en 133 sur la parole de Talon, et se tait : elle garde la carte du mensonge pour plus tard. La sentence tombe : Talon doit gerer Cade, et Varra est confie a Nihl, pour apprendre une autre vision que celle de sa maitresse.
 
 ## L'axe du recit
 Deux Sith qui restent des enflures, mais qui developpent une co-dependance plutot qu'une ambition solitaire.

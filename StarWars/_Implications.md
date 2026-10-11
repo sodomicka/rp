@@ -1,6 +1,6 @@
 # _Implications - StarWars
 
-- version : W19
+- version : W20
 - nature : journal de travail build. Non indexe au Sommaire, jamais fetche en narration.
 
 ## Questions en attente
@@ -9,7 +9,6 @@
 - Echo Nihl - Varra : Nihl aime la brutalite sans habilete ; il voit Varra se battre a Vendaxa (R1) et le recoit a la sentence. Suite a exploiter en R2.
 
 ## Dettes de build
-- BIBLE BUILD de fin de R1 : Force incarnee de Varra (SB5) ; nouvelles fiches Marasiah, Draco, Wolf, Shado (SB0, SB5 compresses en renvois) ; Elke Vetter, Astraal Vao, Krieg (SB5) et Socorro (SB6) en une ligne.
 - Lien Varra - Talon, a poser en roadmap : pour elle, il n'est qu'un outil, et c'est voue a changer. Abusive au depart, la relation tourne lentement reciproque et la hierarchie s'efface.
 - Fiches de la Passe 1 : toutes en lore neutre dans Personnages/ (decision du worldbuilder).
 - Passe 1 close au BIBLE BUILD B2. Darth Stryfe plus tard.
