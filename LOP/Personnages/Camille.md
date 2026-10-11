@@ -1,6 +1,7 @@
 # Camille
 
-- version : W4
+- version : W5
+- note W5 : forage 5.1. Camille = mentor de Markiona (ACTE par le worldbuilder ; etait [INCERTAIN]). Parlement des Artisans (VO : Workshop Union).
 
 ## Identite
 
@@ -29,8 +30,8 @@
 - L'Ergo de Camil est pense etre l'Ergo / l'esprit de Camille (l'epouse humaine). Geppetto a travaille avec les Alchimistes precisement dans l'espoir de "faire vivre Camille" via ce pantin.
 - Camil etait elle-meme une Listener (capacite detenue par certains humains). Les Alchimistes apprennent cela et l'experimentent sur elle -> c'est l'accident qui cause la mort de Camille (humaine).
 - Camil dit les mots : "Renvoie-moi aupres de mon enfant" (Send me back to my child). Ces mots poussent Geppetto a formuler son plan de resurrection de Carlo.
-- Markiona (ancienne technicienne du Workshop Union) a decouvert le pantin qui deviendrait Camil. Pour elle, c'etait un signe de Dieu montrant le potentiel de l'immortalite. Cette decouverte l'a poussee vers les Alchimistes. [DIVERGENCE RP] Camil -- une personne preservee dans un second corps via l'Ergo -- est le PROTOTYPE canon de ce que P sera (l'identite d'un mort portee par l'Ergo), et l'etincelle de toute la chaine createur/creature. cf. Systemes/Genies_et_Chef_D_Oeuvres.md.
-- Un document d'interrogatoire alchimiste suggere que l'Ergo de Camil etait celui d'une personne qui aurait "eleve" Markiona -> possible lien mentor/eleve entre Camille et Markiona avant la mort de Camille. [INCERTAIN / interpretation de la source]
+- Markiona (ancienne technicienne du Parlement des Artisans, VO : Workshop Union) a decouvert le pantin qui deviendrait Camil. Pour elle, c'etait un signe de Dieu montrant le potentiel de l'immortalite. Cette decouverte l'a poussee vers les Alchimistes. [DIVERGENCE RP] Camil -- une personne preservee dans un second corps via l'Ergo -- est le PROTOTYPE canon de ce que P sera (l'identite d'un mort portee par l'Ergo), et l'etincelle de toute la chaine createur/creature. cf. Systemes/Genies_et_Chef_D_Oeuvres.md.
+- Un document d'interrogatoire alchimiste suggere que l'Ergo de Camil etait celui d'une personne qui aurait "eleve" Markiona -> lien mentor/eleve entre Camille et Markiona avant la mort de Camille. [DIVERGENCE RP - acte] Camille fut la MENTOR de Markiona (decision du worldbuilder ; l'indice canon reste une interpretation de la source).
 
 ## Capacites
 
@@ -47,7 +48,7 @@
 
 - Geppetto (epoux) : sa mort est l'evenement fondateur de toute l'obsession de Geppetto. Geppetto "travaillait avec les Alchimistes dans son desir et sa desperation que Camille vive, d'une certaine facon." [DIVERGENCE RP] Mais il ne peut plus la ressusciter : le cristal d'Ergo de Camille est passe entre les mains de Markiona, et Geppetto le croit detruit. Camille est, pour lui, definitivement perdue ; toute son energie se reporte sur Carlo.
 - Carlo (fils) : sa mort prive Carlo de sa mere et indirectement de son pere (Geppetto s'effondre et abandonne Carlo).
-- Markiona (lien indirect) : Markiona decouvre le pantin qui deviendra Camil. Son Ergo aurait pu etre celui d'une personne ayant eleve Markiona. [INCERTAIN] [DIVERGENCE RP] Markiona detient le cristal d'Ergo de Camille (cf. Sort connu). cf. Personnages/Markiona.md.
+- Markiona (lien indirect) : Markiona decouvre le pantin qui deviendra Camil. [DIVERGENCE RP - acte] Camille fut sa MENTOR : en 1852, Markiona refuse de livrer ses secrets a Geppetto, "le veuf de feue sa mentor". [DIVERGENCE RP] Markiona detient le cristal d'Ergo de Camille (cf. Sort connu). cf. Personnages/Markiona.md.
 - Sophia Monad (lien systemique) : les Listener experiments qui ont cause la mort de Camille visaient a lier les Listeners aux reliques des Great Ones. Sophia est l'autre Listener du jeu. cf. Personnages/Sophia_Monad.md.
 - Valentinus Monad : condoleances officielles ; bon rapport entre le Workshop et l'Ordre confirme.
 

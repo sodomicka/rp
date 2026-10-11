@@ -1,13 +1,14 @@
 # BIBLE_LORE_LOP - Lies of P
 
-- version : B7
+- version : B8
 - univers : Lies of P (Neowiz / Round8 Studio, 2023) + DLC Overture
 - source canon : transcript video "complete story of Lies of P" (base game + DLC)
 - regime canonique : canon principal interprete (narrateur video). Tout fait absent = [INCERTAIN].
 - regime RP/OC : depuis B4, la couche RP (OC, divergences assumees) est tissee INLINE dans les SB, balisee [DIVERGENCE RP], par-dessus le socle canon. Le canon pur reste la base ; la divergence se greffe, jamais ne la masque.
-- date reelle de derniere mise a jour : 2026-06-25
+- date reelle de derniere mise a jour : 2026-10-11
 - note B6 : (1) retrait de l'apparat coquilles transcript ; suppression de _Table_Noms_Canon.md ; SB9.5 ne renvoie plus a la table. (2) francisation des noms anglais selon la loc FR officielle, propagee a tout le wiki + roadmaps (noms propres et noms de fichiers inchanges).
 - note B7 : integration du duo Claudia Volfe (la Renarde Rousse) / Lucio Volfe (le Chat Noir) en SB7. Personnages canon (Red Fox / Black Cat) desormais dotes d'une fiche commune dediee (Personnages/Claudia_et_Lucio.md) ; le detail (filiation Volfe legitime/batard, double-jeu Bastards/Sweepers, regle du coeur pur pour le Fruit d'Or, trajectoire jusqu'en 1851) vit dans la fiche.
+- note B8 : BIBLE BUILD de cloture des forages 5.1 et 5.2 (dettes I14 soldees). (1) SB3, SB4 : Workshop Union -> Parlement des Artisans (SB4 uniformise avec SB3) ; Venigni Works -> Fabrique Artisanale Venigni. (2) SB0 mis aux normes S8 : raw_base et parties_raw_base stockes, fetch en raw par defaut, inventaire des pages rattachees. (3) SB5 : [DIVERGENCE RP] entree de P a l'Hotel Krat sans mensonge (Humanity System). (4) Coquilles (SB2, SB6).
 
 > Cette BIBLE est la couche de fondation (Passe 0) de la couche canon LOP. Elle pose le socle partage
 > par toutes les fiches noyau (Passe 1). Un fait = un seul emplacement canonique ; les fiches renvoient
@@ -24,11 +25,21 @@
 
 ### Routage WIKI / Parties (acces GitHub, cf. S8 de l'INSTRUCTION)
 - wiki_base : https://github.com/sodomicka/rp/blob/main/LOP/
-  (racine du WIKI. URL d'une page = wiki_base + dossier + fichier. Ex. : wiki_base + "Personnages/Markiona.md".)
+- raw_base : https://raw.githubusercontent.com/sodomicka/rp/main/LOP/
+  (racine du WIKI. On fetche en raw, on cite en blob. URL d'une page = base + dossier + fichier. Ex. : raw_base + "Personnages/Markiona.md".)
 - sommaire : https://github.com/sodomicka/rp/blob/main/LOP/Sommaire.md
   (carte de navigation du WIKI et des Parties ; point d'entree pour localiser toute page.)
 - parties_base : [INCERTAIN - aucun RP en cours. Forme attendue au lancement : https://github.com/sodomicka/rp/blob/main/Parties/LOP/Partie<n>/ ; valeur a fixer quand une Partie<n> est ouverte.]
-- Filet de fetch : extraction par defaut via la page blob (parser de S8). Si le parser revient vide, basculer sur le raw -> remplacer "github.com/sodomicka/rp/blob/main/" par "raw.githubusercontent.com/sodomicka/rp/main/" (meme chemin ensuite).
+- parties_raw_base : [INCERTAIN - idem. Forme attendue : https://raw.githubusercontent.com/sodomicka/rp/main/Parties/LOP/Partie<n>/]
+- Filet de fetch : raw par defaut (markdown brut, sans parsing). Secours : page blob + parser (S8, methode 4) si le raw revient vide ou inaccessible.
+- pages wiki rattachees :
+  - Personnages - fiches noyau des personnages, canon et OC (Magnus), et satellites de Magnus et Markiona (chrono, relations) (35 pages)
+  - Creatures - boss et creatures notables, fiche groupee (1 page)
+  - Lieux - Krat et ses lieux, dont Aurus [DIVERGENCE RP] (12 pages)
+  - Factions - Alchimistes, Stalkers, Confrerie des Lapins Noirs, Parlement des Artisans (4 pages)
+  - Systemes - Ergo, Grand Covenant, Petrification, Frenesie, Listeners, etc. (11 pages)
+  - Objets - objets et reliques, fiche groupee (1 page)
+  - Roadmap/Magnus/ - roadmaps par ere, non indexees au Sommaire : sources de build, jamais fetchees en narration
 
 ## SB1 - Verites fondatrices du monde
 
@@ -45,7 +56,7 @@
 
 - Croyance : un "star" / ange descendit sur Terre sous forme humaine, voulant offrir l'immortalite apres avoir entendu les voeux des humains. Le don fut decevant ; le dieu fut dechire.
 - Hypothese : ce dieu vint peut-etre sous forme de meteorite de Crowd = la toute premiere source d'Ergo.
-- Reveiller ce dieu viau Bras de Dieu = objectif premier des Alchimistes. Motto de l'Ordre : "wake up, evolve, ascend" (s'eveiller, evoluer, ascender).
+- Reveiller ce dieu via le Bras de Dieu = objectif premier des Alchimistes. Motto de l'Ordre : "wake up, evolve, ascend" (s'eveiller, evoluer, ascender).
 - Symbole : l'OUROBOROS (serpent se mordant la queue) = cycle d'eternite, naissance-vie-mort, fin = nouveau commencement.
 - La Cathedrale St Frangelico fut fondee, selon la legende, quand St Frangelico rencontra l'Ange a une Aile (l'ange a une aile). Andreas, en mutant, se proclame lui-meme l'Ange a une Aile.
 
@@ -54,14 +65,14 @@
 - Passe lointain : Krat = ville cotiere pauvre, dirigee par des ANCIENNES LIGNEES (caretakers privilegies, possessions transmises par generations).
 - ~600 ans avant le jeu : effondrement du sol -> decouverte du cluster inorganique, de corps, et du Crowd. Le puits est nomme Relique de Trismegistus.
 - Arrivee des Alchimistes (fondes par Valentinus Monad) : d'abord a Village Clair-de-Lune, puis controle de la Relique. Krat passe du charbon a l'Ergo ; les mines de charbon ferment et deviennent le Marais Aride.
-- Geppetto (Parlement des Artisans) + famille Venigni produisent en masse les pantins. Ergo = energie + monnaie. Krat devient un hub d'innovation. Pouvoir des anciennes lignees decline face aux Alchimistes et au Parlement des Artisans.
+- Geppetto (Parlement des Artisans) + famille Venigni (Fabrique Artisanale Venigni) produisent en masse les pantins. Ergo = energie + monnaie. Krat devient un hub d'innovation. Pouvoir des anciennes lignees decline face aux Alchimistes et au Parlement des Artisans.
 - La Grande Exposition devait montrer au monde le futur de l'automation et l'Ergo. Il n'aura jamais lieu (annule a cause de la maladie ; voir DLC).
 - Chute : mort de Camille (epouse de Geppetto) ; eveil de l'Ego des pantins ; experiences alchimiques sur l'Ergo -> Maladie de Petrification ; schisme Simon/Valentinus ; Bataille de la Tour des Artisans ; Frenesie des Pantins declenchee par Geppetto via Romeo. Krat s'effondre.
 
 ## SB4 - Factions
 
 - ALCHEMISTS (l'Ordre) : mystiques, medecins et scientifiques, quete de la vie eternelle. Fondateur Valentinus Monad. Bases a l'Abbaye de l'Arche, Allee des Alchimistes (terre etrangere, ile = lieu le + efficace au monde pour les ondes d'Ergo). Scission : Simon Manus prend le controle, excommunie/elimine les loyaux a Valentinus.
-- WORKSHOP UNION : techniciens horlogers, menes par Geppetto, allies a la famille Venigni. Fabriquent les pantins. NB : Geppetto pratique l'alchimie par methode/necessite mais n'est PAS membre de l'Ordre (cf. Giuseppe_Geppetto.md).
+- PARLEMENT DES ARTISANS (VO : Workshop Union) : techniciens horlogers, menes par Geppetto, allies a la famille Venigni et a sa Fabrique Artisanale Venigni (VO : Venigni Works). Fabriquent les pantins. NB : Geppetto pratique l'alchimie par methode/necessite mais n'est PAS membre de l'Ordre (cf. Giuseppe_Geppetto.md).
 - STALKERS : protecteurs/chasseurs de Krat, deux factions :
   - BASTARDS (nobles familles, motto "honor or nothing", menes par Lumacchio, gardes des Alchimistes).
   - SWEEPERS (issus des ruelles, motto "we always repay what is owed", menes par Veronique, installaient les Stargazers).
@@ -76,6 +87,7 @@
 - P-ORGAN : organe-coeur de pantin concu par Geppetto, stocke et amplifie l'Ergo. Implante avec succes dans Pinocchio (echec dans le Pantin sans Nom).
 - METHODE DU DIABLE : procede de Geppetto pour transformer un corps humain (mourant ou mort) en pantin en preservant l'Ergo. Preuve canon : Romeo (humain -> Roi des Pantins). cf. Giuseppe_Geppetto.md, Personnages/Romeo.md. [DIVERGENCE RP] Appliquee a Pinocchio : un chassis de pantin de guerre recouvert de chair humaine d'emprunt (la peau de Lea Florence Monad), anime par l'Ergo de Carlo, avec un bras gauche mecanique (Bras Legion) servant de leurre ostensible. P est ainsi indiscernable d'un humain. cf. Pinocchio.md, Systemes/Genies_et_Chef_D_Oeuvres.md.
 - HUMANITY SYSTEM : mentir, ecouter de la musique, choix moraux -> humanite croissante de P (coeur qui bat, chaleur, cheveux qui poussent et grisonnent = eveil de l'Ego de Carlo). Conditionne la fin.
+  - [DIVERGENCE RP] P entre a l'Hotel Krat SANS mentir (Magnus negocie l'entree, Markiona humaine les accompagne) : son eveil ne s'ouvre pas par le mensonge mais aussi par d'autres vecteurs, d'abord le modele familial du duo Magnus / Markiona. Le mensonge reste un vecteur. cf. Personnages/Pinocchio.md.
 - STARGAZERS : invention des rodeurs ; teleportation, absorption des spores d'Ergo (zones sures temporaires), indicateur de la boucle temporelle (cadrans de l'Hotel Krat). Golden stargazer = voyage temporel (DLC).
 - PETRIFICATION DISEASE : voir SB1. Ecailles, perte de la voix/vue, mutation en Carcasse.
 - LISTENERS / GOLD COIN TREE : les Oreilles peuvent etre transformes en Arbre a Fruits d'Or (arbre dont les fruits, Fruit d'Or, controlent l'Ergo). Selon Sophia : "les larmes tristes de ceux devenus arbres".
@@ -89,7 +101,7 @@
 - Mort de Camille ; eveil de l'Ego de Camil (le pantin-servante portant l'Ergo de Camille) ; debut des experiences sur les Oreilles et de l'interet alchimique pour l'immortalite.
 - Mort de Carlo (Maladie de Petrification a la charity house) ; debut du plan de resurrection de Geppetto.
 - Schisme Simon/Valentinus ; prime sur Lea Florence ; excommunication de Valentinus ; assaut de Simon (mort de Valentinus et Isabelle ; Sophia capturee).
-- DLC Overture : voyage temporel de P (avant l'annulation de la Grande Exposition). Mort de Veronique, du Surveillant aux Deux Visages, de Lumacchio, de l'Gardien Tourmente, d'Arlecchino ; mort de Lea (par le Pantin sans Nom) ; capture de Romeo par Geppetto. NB : P est rappele au present AVANT l'arrivee de Geppetto a la Domaine de la Rose ; il n'assiste pas aux morts de Romeo et Lea (cf. Pinocchio.md).
+- DLC Overture : voyage temporel de P (avant l'annulation de la Grande Exposition). Mort de Veronique, du Surveillant aux Deux Visages, de Lumacchio, du Gardien Tourmente, d'Arlecchino ; mort de Lea (par le Pantin sans Nom) ; capture de Romeo par Geppetto. NB : P est rappele au present AVANT l'arrivee de Geppetto au Domaine de la Rose ; il n'assiste pas aux morts de Romeo et Lea (cf. Pinocchio.md).
 - Bataille de la Tour des Artisans : effondrement (shards de Crowd) ; decimation des rodeurs.
 - Romeo transforme en pantin ; Loi Zero ; Frenesie des Pantins ; Romeo devient Roi des Pantins et se rebelle.
 - Base game : reveil de P a Krat Central Station ; trame principale jusqu'aux fins.
@@ -132,4 +144,4 @@
 
 ---
 
-FIN_BIBLE_B7
+FIN_BIBLE_B8

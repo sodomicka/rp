@@ -1,7 +1,8 @@
 # Roadmap 05.2 - La Ville Malade (Magnus, Ere 5)
 
 - statut : DETAILLEE (remplie au gabarit, 2026-06-29)
-- version : R1
+- version : R2
+- note R2 : lien Magnus/Sophia purge de toute romance -> PLATONIQUE d'ames soeurs (decision worldbuilder, BIBLE BUILD B8 : Magnus est psychologiquement mineur). Aucun autre changement.
 - arc : Ere 5 - Le reveil et la fin (base game, 1852+) | PARTIE 5.2 - La Ville Malade (chapitres 3-4 du jeu)
 - prota : Magnus
 - nature : itineraire jouable de la 2e partie de l'Ere 5 - du depart de l'Hotel Krat (apres le Veilleur Desarticule) jusqu'a la premiere ombre de Simon Manus apres la chute d'Andreas. DEUXIEME des 6 parties de l'Ere 5 (cf. Chronologie C7, decoupage). SOURCE DE BUILD (non indexee au Sommaire ; se lit en listant LOP/Roadmap/Magnus/). Detient la prescience COMPLETE de la partie (aucune troncature).
@@ -24,7 +25,7 @@
 Ces fils ne sont PAS des etapes : ils courent en continu sous les etapes ci-dessous.
 - FIL TCHEKHOV MARKIONA [DIVERGENCE RP - NOUVEAU]. Au hub (etape 1), Geppetto revele a Markiona TROIS choses (il la juge moralement elastique) : (a) son propre role dans la Frenesie (Loi Zero) ; (b) la peau de Lea qui donne a P son aspect humain ; (c) le role de Romeo. Markiona, changee par Magnus, voudrait denoncer mais refuse de faire souffrir son fils : elle le TAIT et le laissera comprendre par lui-meme. Le fusil court sous toute la partie. Decharge -> grosse discussion Mere/Fils, calee APRES le reveal Romeo (-> 5.4 ; placement exact a acter au forage 5.4). cf. Personnages/Markiona.md, Magnus.md, Giuseppe_Geppetto.md.
 - FIL MARKIONA / PETRIFICATION [DIVERGENCE RP]. Declin pulmonaire continu, AGGRAVATION marquee en 5.2 : apres la chute d'Andreas (etape 8), quinte plus severe que d'habitude - elle crache du sang ET une poudre de cristaux bleue (l'Ergo se cristallise en bleu ; sa peau bleutee et sa maladie viennent de la meme surexposition - elle expulse l'Ergo cristallise de ses poumons). N'INTERFERE PAS avec le cristal de Camille (objet distinct, en reserve, ignore de Magnus). Mort reservee plus loin dans l'Ere 5. cf. Personnages/Markiona.md, Systemes/Petrification_Disease.md.
-- FIL SOPHIA [DIVERGENCE RP]. Romance + voeu de delivrance courent en fond (Manus reste la cible, ennemi de Magnus depuis 1847). Peu sollicite en 5.2 ; paiement -> 5.6. cf. Personnages/Sophia_Monad.md.
+- FIL SOPHIA [DIVERGENCE RP]. Lien platonique d'ames soeurs + voeu de delivrance courent en fond (Manus reste la cible, ennemi de Magnus depuis 1847). Peu sollicite en 5.2 ; paiement -> 5.6. cf. Personnages/Sophia_Monad.md.
 
 ## Etapes
 

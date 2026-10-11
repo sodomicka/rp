@@ -1,6 +1,7 @@
 # Boss et Creatures
 
-- version : W3
+- version : W4
+- note W4 : forages 5.1 et 5.2 [DIVERGENCE RP]. Parade Master, Scrapped Watchman et Fuoco vaincus par P ET Magnus ; laius du Watchman traduit par Magnus (conforme au canon).
 - note W3 : retrait du bloc Mad Donkey (repositionne en ALLIE de Magnus [DIVERGENCE RP] ; vit desormais dans Personnages/PNJ_secondaires.md, sans pointeur ici).
 - note W2 : ajout du bloc Ange de l'Arc reforge (Overture / Ere 3, 1850 ; [DIVERGENCE RP]). Reforge de son epave laissee a Zelator en 1847, gardien du Krat Zoo pour le compte de l'Ordre, battu par Magnus en solo.
 
@@ -32,6 +33,7 @@
 
 ### Sort
 - Vaincu par P deux fois.
+- [DIVERGENCE RP - 1852] Premier combat : vaincu par P et Magnus (Gare de Krat / Ruelle Cerasani), Markiona en retrait.
 
 ---
 
@@ -55,6 +57,7 @@
 
 ### Sort
 - Vaincu par P a la City Hall.
+- [DIVERGENCE RP - 1852] Vaincu par P et Magnus. Magnus, qui comprend la langue des pantins, traduit a P ses ondes d'Ergo : la rage d'un gardien dont les enfants avec qui il jouait sont morts, impossible a raisonner a cause de la Frenesie (conforme au canon ci-dessus). cf. Personnages/Magnus.md.
 - Corps probablement recycle/fusionne avec le Green Monster of the Swamp.
 
 ---
@@ -85,6 +88,7 @@
 
 ### Sort
 - Vaincu par P a la Venigni Works.
+- [DIVERGENCE RP - 1852] Vaincu par P et Magnus ; Markiona en retrait. Pulcinella est retrouve derriere l'arene. cf. Personnages/Pulcinella.md.
 
 ---
 

@@ -1,6 +1,7 @@
 # Archbishop Andreas
 
-- version : W1
+- version : W2
+- note W2 : forage 5.2 [DIVERGENCE RP]. Vaincu par P et Magnus ; jubilation de Markiona (sens : son fils depasse l'apogee de l'alchimie).
 
 ## Identite
 - Nom : Archbishop Andreas.
@@ -59,6 +60,7 @@
 - Mute en forme grotesque (One-Winged Angel auto-proclame).
 - Boss de la cathedrale.
 - Tue par P.
+- [DIVERGENCE RP - 1852] Vaincu par P ET Magnus. Markiona jubile : non d'abattre un agent de l'Ordre (Andreas en est alors l'ennemi), mais de voir son fils, le pantin parfait, terrasser le faux ange. Cutscene canon : premiere ombre de Simon Manus. cf. Personnages/Markiona.md.
 
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
@@ -69,7 +71,7 @@
 | Post-cure | Decouvre le mensonge ; jure vengeance | Rage contre l'Ordre |
 | Recueille Cecile | Fait voler l'Arm of God via Cecile | Possession de la relique |
 | Base game | Mute ; folie ; declare etre le One-Winged Angel | Perte d'humanite |
-| Base game (cathedrale) | Boss : combat P -> tue | Mort |
+| 1852 (5.2, cathedrale) | Boss : combat P et Magnus [DIV RP] -> tue | Mort |
 
 ---
 

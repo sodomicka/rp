@@ -1,6 +1,7 @@
 # Antonia
 
-- version : W1
+- version : W2
+- note W2 : forage 5.1 [DIVERGENCE RP]. Markiona la soigne a l'Hotel Krat : deux petrifiees.
 
 ## Identite
 - Nom : Antonia (alias "Lady Antonia" dans les lettres de Geppetto).
@@ -31,6 +32,7 @@
 - P : l'accueille, lui remet la cle de Rosa Isabel St, lui fait confiance.
 - Carlo (decede) : l'a eleve a la charity house, lui a appris le piano ; considerait que son pere le negligeait.
 - Geppetto : correspondance tendue ; elle lui reprochait son absence paternelle.
+- Markiona [DIVERGENCE RP - 1852] : a l'arrivee du trio, elle discute avec Antonia et la soigne - deux petrifiees. cf. Personnages/Markiona_relations.md.
 - Cecile : nun qui resida a la cathedrale, pas de lien direct etabli avec Antonia.
 
 ## Sort connu
@@ -46,6 +48,7 @@
 | Periode charity house | Reprimande Geppetto sur Carlo ; apprend le piano a Carlo | Figure maternelle de substitution |
 | Pre-outbreak | Tient l'hotel ; joue du piano pour maintenir le moral | Gestionnaire de crise |
 | Base game | Malade (ecailles visibles) ; remet la cle a P ; concede le passage secret | Affaiblie, lucide |
+| 1852 (5.1) [DIVERGENCE RP] | Soignee par Markiona, petrifiee comme elle | Soulagee |
 | Base game (fin) | Mort de la Petrification Disease ; lettre laissee | Mort paisible (si cure donne) ou douloureuse |
 | Timeline DLC affectee | Lettre modifiee (enveloppe verte, page 2) | Impact temporel de P visible |
 

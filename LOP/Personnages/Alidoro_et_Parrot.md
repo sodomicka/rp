@@ -1,6 +1,7 @@
 # Alidoro et Parrot
 
-- version : W2
+- version : W3
+- note W3 : forage 5.2 [DIVERGENCE RP]. Alidoro = AMI de Magnus (Stalkers). Parrot demasque a la voix par Magnus a St Frangelico (1852) ; il admet etre le Perroquet, tait le meurtre, rejoint l'Hotel Krat.
 
 > Deux personnages partageant une identite : le vrai Alidoro (alias "the Tracker") et Parrot (imposteur).
 > Traites ensemble car leur histoire est indissociable.
@@ -67,6 +68,7 @@
 - Valentinus Monad (indirectement) : meme camp anti-Simon.
 - Markiona [DIVERGENCE RP - Ere 2] : il a documente les crimes de l'Ordre dont elle a profite (Colonel Little -> maitrise du Zoo). Au reveal, il enrage puis, par raisonnement, valide la sincerite de son changement. cf. Personnages/Markiona.md.
 - Lea Florence Monad, Romeo [DIVERGENCE RP - Ere 2] : co-membres de l'union des Stalkers ; presents avec lui au reveal. cf. Personnages/Lea_Florence_Monad.md, Romeo.md.
+- Magnus [DIVERGENCE RP] : un AMI, pas un simple collegue (cotoye chez les Stalkers, 1849-1850 ; combat le Two-Faced Overseer avec lui et P en 1850). C'est parce qu'il connaissait sa voix que Magnus demasque l'imposteur en 1852. cf. Personnages/Magnus.md.
 
 ### Sort connu
 - Tue par Parrot lors d'une dispute violente apres que Parrot vendit des objets sans accord.
@@ -81,7 +83,7 @@
 | Avant Frenzy | Rejoint les Sweepers ; devient stalker puis chasseur de tresor ; transmet infos a Madoro | Article banni, en fuite |
 | 1848-1850 (Les Loups) [DIVERGENCE RP] | Membre de l'union des Stalkers ; role pivot au reveal de Markiona (enrage puis desamorce) | Stalker etabli, juge de la sincerite du duo |
 | Battle of Workshop Tower | Sauve Eugenie lors de l'effondrement ; perd un doigt | Separe de sa soeur |
-| DLC Overture (passee) | Opere comme "the Tracker" ; allie de P contre Two-Faced Overseer | Identite secrete maintenue |
+| DLC Overture (passee) | Opere comme "the Tracker" ; allie de P [et de Magnus, DIV RP] contre Two-Faced Overseer | Identite secrete maintenue |
 | Post-Tower (base game) | Mort : tue par Parrot dans une dispute | Identite usurpee |
 
 ---
@@ -110,6 +112,7 @@
   - Revele que les Alchimistes lui ont promis de l'aider a fuir la ville.
   - Trahit l'hotel en echange de cette promesse.
 - Choix de P : tuer ou epargner Parrot.
+- [DIVERGENCE RP - 1852] A St Frangelico, Magnus le demasque : non par un detail physique, mais parce que la VOIX n'est pas celle de son ami. L'imposteur admet etre le Perroquet mais cache la vraie histoire (le meurtre) ; il rejoint l'Hotel Krat comme marchand (canon). Suite (Relic, confession) -> roadmaps Ere 5.
 
 ### Indice de l'usurpation
 - Les gants qu'Eugenie a fabriques pour Alidoro ne vont pas a Parrot ; il les appelle "a mess".
@@ -126,6 +129,7 @@
 - Eugenie : la considere comme "annoying" ; ne se doute pas (ou fait semblant) de son lien fraternel avec la victime.
 - P : client/interlocuteur dans le base game ; le manipule sous couverture.
 - Alchimistes : traite avec eux pour s'assurer une sortie de Krat.
+- Magnus [DIVERGENCE RP - 1852] : l'ami d'Alidoro ; le demasque a la voix. cf. Personnages/Magnus.md.
 
 ### Sort connu
 - Choix du joueur : P peut le tuer ou l'epargner dans la Relic.
@@ -138,6 +142,7 @@
 | Avant Frenzy | Partenaire d'Alidoro (chasse aux tresors) | Ressentiment croissant |
 | Avant/pendant Frenzy | Vend des objets ; dispute ; tue Alidoro | Meurtrier, imposteur |
 | Post-Frenzy (base game) | "Faux Alidoro" ; marchand de P a Krat | Identite usurpee active |
+| 1852 (5.2, St Frangelico) [DIV RP] | Demasque a la voix par Magnus ; admet etre Parrot, tait le meurtre ; rejoint l'Hotel Krat | Imposture eventee, meurtre cache |
 | Base game (mi-parcours) | Trahit l'hotel ; se terre dans la Relic | Deserteur |
 | Base game (fin de sous-intrigue) | Confesse a P ; tue ou epargne | Sorti de la narration |
 

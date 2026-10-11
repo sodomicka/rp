@@ -1,6 +1,7 @@
 # Aurus
 
-- version : W1
+- version : W2
+- note W2 : forages 5.1 et 5.2 [DIVERGENCE RP]. Aurus devient un refuge pour les Rodeurs epargnes par le duo (l'Ane fou, la Redemptee).
 - STATUT : quartier [DIVERGENCE RP] - n'existe pas dans le jeu. Canon local du RP (decision worldbuilder). Quartier de Krat invente pour servir de planque au duo Magnus / Markiona a l'Ere 1. cf. chronologie Magnus, Personnages/Magnus.md, Personnages/Markiona.md.
 
 ## Nature
@@ -24,11 +25,18 @@
   - Echo thematique : Magnus se nourrit d'Ergo et raffole du the noir (cf. Personnages/Magnus.md) ; leur the est parfume de ce que le jardin fait pousser sous Ergo.
 - Tonalite : le cadre de l'annee de routine confortable, d'egal a egal, qui suit la fuite du Zelator (cf. trajectoire Ere 1).
 
+## Refuge des Rodeurs epargnes (1852) [DIVERGENCE RP]
+- Le havre du duo accueille les Rodeurs que Magnus epargne au lieu de les abattre comme au canon :
+  - l'Ane fou (5.1, Pont des Alchimistes) : refuse l'Hotel Krat, accepte Aurus ;
+  - la Redemptee (5.2, funiculaire) : rallie Aurus, confiante dans la reputation des Loups parmi les Rodeurs.
+- Organisation de leur presence sur place : non fixee. cf. Personnages/PNJ_secondaires.md.
+
 ## Routage / note
 - Le quartier Aurus existerait sans le RP -> il vit en {Univers}/Lieux/. Le havre, cree par le duo, est porte ici comme cadre de vie de l'Ere 1 (lore de l'OC, build-side) ; si une Partie l'altere, son etat joue forkera vers Parties/ (cf. INSTRUCTION S7). Choix de routage revisable par le worldbuilder.
 
 ## Liens
 - Magnus / Markiona : occupants du havre. cf. Personnages/Magnus.md, Personnages/Markiona.md.
+- L'Ane fou, la Redemptee [DIVERGENCE RP - 1852] : refugies. cf. Personnages/PNJ_secondaires.md.
 - Sweepers : faction tutelaire du quartier ; porte d'entree vers les Stalkers (Ere 2). cf. Factions/Les_Stalkers.md.
 - Krat : ville-cadre, ascendance cotiere pauvre. cf. Lieux/Krat.md, SB3.
 

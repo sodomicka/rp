@@ -1,6 +1,7 @@
 # Sophia Monad
 
-- version : W3
+- version : W4
+- note W4 : (1) Lien avec Magnus PURGE de toute romance (decision worldbuilder, B8) : Magnus est psychologiquement mineur, aussi adultes soient son corps et son intellect ; lien PLATONIQUE d'ames soeurs, pas un amour de desir. Remplace la "romance" des W3 et anterieures. (2) Forage 5.1 [DIVERGENCE RP] : a l'Hotel Krat, elle apparait au grand Stargazer "plus presente que jamais" (deux percepteurs presents, P et Magnus) ; communion avec Magnus (leurs Ergos se touchent et se melent un peu), promesse de delivrance renouvelee. 5.2 : fil en fond.
 - note W3 : couche La Frenzy (Ere 4, 1850-1852). Suite directe de l'Overture : apres sa capture (1850), Sophia est MENEE a sa cage des 1850 (Simon : "ta cage t'attend") puis BRANCHEE a la machine et JOIGNABLE des 1851 (et NON "base game" comme pose en W2 : le branchement est avance au fil de l'Ere 4). [DIVERGENCE RP] Magnus devient le 2e percepteur (apres P) de sa projection ACTIVE, captee a proximite d'un Stargazer, contact BIDIRECTIONNEL - a DISTINGUER de la resonance Ergo PASSIVE des mines a l'Overture (anterieure, aleatoire, sens unique). Au fil des patrouilles : romance avec Magnus + voeu de delivrance. C'est elle qui envoie Magnus a la Gare de Krat au printemps 1852.
 
 ## Identite
@@ -28,7 +29,7 @@
 - Lore petrification : decouvre que la Petrification Disease piege l'Ergo dans le corps petrife et utilise l'Ergo pour manipuler le temps (cf. journal de Sophia trouve dans sa chambre au DLC).
 - DLC Overture (1850) : Simon tente de l'attirer au port ; elle decline (timing suspect). Simon assaut la Rose Estate (domaine Monad) -> mort de Valentinus et Isabelle -> il CAPTURE Sophia et l'EMMENE vers l'Aisle of Alchemists. A ce stade elle n'est PAS ENCORE en cage ni branchee a la machine (le branchement vient plus tard). [DIVERGENCE RP] Lea et les survivants la croient MORTE au domaine Monad, alors qu'elle est vivante - Magnus la "percoit" captive par resonance Ergo passive (cf. Personnages/Magnus.md), distincte de la projection spectrale ulterieure (issue de la machine).
 - Best ending : si P a assez d'humanite (cheveux gris), il place l'Ergo de Sophia dans un pantin pour lui permettre de vivre.
-- [DIVERGENCE RP - Ere 4, La Frenzy] Suite du fil RP : menee a sa cage des 1850 (Simon : "ta cage t'attend"), branchee a la machine et JOIGNABLE des 1851. Elle projette alors activement et atteint Magnus (2e percepteur apres P) aux Stargazers : contact bidirectionnel, conversable. Au fil des patrouilles, le lien devient romance ; Magnus jure de la delivrer (Manus dans son viseur depuis 1847). Au printemps 1852, c'est elle qui envoie Magnus a la Gare de Krat - ou P git inerte. cf. Personnages/Magnus.md, roadmap Ere 4.
+- [DIVERGENCE RP - Ere 4, La Frenzy] Suite du fil RP : menee a sa cage des 1850 (Simon : "ta cage t'attend"), branchee a la machine et JOIGNABLE des 1851. Elle projette alors activement et atteint Magnus (2e percepteur apres P) aux Stargazers : contact bidirectionnel, conversable. Au fil des patrouilles, le lien devient un attachement d'ames soeurs, PLATONIQUE (Magnus est psychologiquement mineur) ; Magnus jure de la delivrer (Manus dans son viseur depuis 1847). Au printemps 1852, c'est elle qui envoie Magnus a la Gare de Krat - ou P git inerte. cf. Personnages/Magnus.md, roadmap Ere 4.
 
 ## Capacites
 
@@ -56,7 +57,7 @@
 - Isabelle Monad (mere) : source de l'aptitude Listener de Sophia. Morte lors de l'assaut de Simon.
 - Simon Manus (geolier / admirateur obsessionnel) : "il l'a branchee a la machine non pas pour ses capacites, mais parce qu'il l'admirait et etait jaloux de son pouvoir." Simon avoue mourant : "sans Sophia, il n'aurait pas pu supporter le fardeau de lire les esprits des gens." cf. Personnages/Simon_Manus.md.
 - Pinocchio / P (protege / seul interlocuteur) : guide, renforce, echange avec P tout au long du jeu. Sa relation evolue au-dela du simple outil.
-- Magnus [DIVERGENCE RP - Ere 4] : 2e percepteur de sa projection active (apres P), capte aux Stargazers des 1851. Contact bidirectionnel ne au fil des patrouilles -> confiance, affection, amour. Magnus lui promet de la delivrer ; elle l'envoie a la Gare de Krat au printemps 1852. cf. Personnages/Magnus.md.
+- Magnus [DIVERGENCE RP - Ere 4] : 2e percepteur de sa projection active (apres P), capte aux Stargazers des 1851. Contact bidirectionnel ne au fil des patrouilles -> confiance, affection, attachement d'ames soeurs. Lien PLATONIQUE : pas un amour de desir, mais l'elan de Magnus (psychologiquement mineur) a retrouver son ame soeur emprisonnee. Magnus lui promet de la delivrer ; elle l'envoie a la Gare de Krat au printemps 1852. [DIVERGENCE RP - 1852] A l'Hotel Krat, devant le grand Stargazer, leurs Ergos se touchent et se melent un peu ; il lui promet de venir bientot la delivrer. cf. Personnages/Magnus.md.
 - Lea Florence Monad : soeur adoptive (Valentinus et Isabelle ont adopte Lea Florence). Sophia evoque ses apprentis avec emotion. cf. Personnages/Lea_Florence_Monad.md.
 - Carlo (lien indirect) : P porte l'Ergo de Carlo ; Sophia connaissait Carlo jeune (visions sur la plage : jeune Sophia parlant au jeune Carlo abandonne par son pere).
 - Camille (lien Listener) : Camil (le pantin maid) etait une Listener avec probablement l'Ergo de Camille. Les experiences Listener cherchaient a lier les Listeners aux reliques des Great Ones. Camille morte par accident lors de ces experiences.
@@ -79,8 +80,9 @@
 | DLC (passe) | Simon tente de l'attirer au port ; elle decline | Mefiance envers Simon |
 | 1850 (Overture, Ere 3) | Assaut de Simon au domaine Monad : mort de Valentinus et Isabelle ; Sophia capturee et emmenee vers l'Aisle. Crue morte par Lea (vivante en fait) | Captive, PAS encore en cage ni branchee a la machine |
 | 1850 (fin Ere 3 / debut Ere 4) | Menee a sa cage ("ta cage t'attend", Simon) | En cage |
-| 1851 (Ere 4) [DIVERGENCE RP] | Branchee a la machine -> projection active, joignable. Magnus la capte aux Stargazers (2e percepteur apres P) : contact bidirectionnel, romance naissante | Branchee ; fil Magnus actif |
+| 1851 (Ere 4) [DIVERGENCE RP] | Branchee a la machine -> projection active, joignable. Magnus la capte aux Stargazers (2e percepteur apres P) : contact bidirectionnel, lien d'ames soeurs (platonique) | Branchee ; fil Magnus actif |
 | printemps 1852 (Ere 4) [DIVERGENCE RP] | Envoie Magnus a la Gare de Krat (ou P git inerte) | Declencheur de la charniere vers l'Ere 5 |
+| 1852 (5.1, Hotel Krat) [DIVERGENCE RP] | Apparait au grand Stargazer "plus presente que jamais" ; Ergos meles avec Magnus ; promesse renouvelee | Lien affermi |
 | Trame base game | Projection spectrale dans tout Krat, guide P, alimente les Stargazers, rewind a chaque mort | Corps en souffrance ; ame fragmentee |
 | Confrontation finale | Demande a P la liberation | Bifurcation : mort ou survie dans pantin |
 | Best ending | P place son Ergo dans un pantin | Nouvelle vie |

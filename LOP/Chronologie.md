@@ -1,19 +1,20 @@
 # Chronologie - Magnus (timeline globale)
 
-- version : C7
+- version : C8
+- note C8 : parties 5.1 (Le Reveil) et 5.2 (La Ville Malade) passees de "a forer" a ROADMAPPEES (R1) ; grosses mailles ajoutees sous chacune. Lien Magnus/Sophia purge de toute romance -> PLATONIQUE (decision worldbuilder). Fils ouverts mis a jour (Tchekhov Markiona, aggravation de la Petrification, peau de Lea, graine sequel Paracelsus). Parlement des Artisans (VO : Workshop Union).
 - note C7 : Ere 5 (base game, 1852+) DECOUPEE en 6 parties (= 6 roadmaps a forer), decision worldbuilder ; decoupage cale sur les climax narratifs canon du jeu (11 chapitres). Inscription des 6 sous-parties dans le bloc Ere 5 + la section "Decoupage en eres" (grosses mailles : jalons + casting cle + pointeur par partie). Aucune roadmap Ere 5 encore produite : forage partie par partie (boucle serree). Nommage : Roadmap_05_<k>_<Nom>.md. Titre P1 = "Le Reveil" (PAS "Eveil", deja pris par Roadmap_01 / Ere 1). Deux lieux francises (decision worldbuilder) : Workshop Union -> Parlement des Artisans (uniformise l'incoherence BIBLE SB3/SB4 ; propagation BIBLE au prochain build) ; Venigni Works -> Fabrique Artisanale Venigni. NB : trads FR de plusieurs sous-lieux du base game encore A VALIDER (fiches Lieux/ toujours en VO ; dette de francisation ouverte).
 - note C6 : Ere 4 (La Frenzy) passee de "a forer" a ROADMAPPEE (R1). Son echafaudage detaille est EXTRAIT vers Roadmap_04_La_Frenzy.md (meme traitement que les Eres 1-3) ; ne restent ici que les grosses mailles + pointeur. CADRE DE DATES grave : "hiver 1850-1851 -> printemps 1852" (R03 clot en hiver 1850 ; la convalescence fait le pont vers 1851 ; l'echelle court jusqu'au printemps 1852). Fils ouverts purges des deux entrees Overture RESOLUES par R03 (logistique Overture, Ange reconstruit) ; ajout du fil Sophia (lien actif noue en Ere 4) et de l'ironie King of Puppets. Ere 5 garde son echafaudage (pas encore roadmappee).
 - note C5 : Ere 3 (Overture, 1850) passee de "a forer" a ROADMAPPEE (R1). Son echafaudage detaille est EXTRAIT vers Roadmap_03_Overture.md (meme traitement que les Eres 1-2 en C4) ; ne restent ici que les grosses mailles + pointeur. Eres 4-5 gardent leur echafaudage (pas encore roadmappees).
 - note C4 : allegement (decision worldbuilder). Le detail jouable des Eres 1 et 2 est EXTRAIT vers les roadmaps (Roadmap_01_Eveil, Roadmap_02_Les_Loups) ; ne restent ici que les grosses mailles + un pointeur "-> Roadmap/Magnus/..." par ere. Les Eres 3-5 gardent leur echafaudage (pas encore roadmappees). Le suivi des versions de fiches vit dans le Sommaire (plus duplique ici).
 - nature : TIMELINE GLOBALE du parcours de Magnus, grosses mailles. Echafaudage de conception build-side ; les roadmaps (eres) en detaillent chaque tranche.
-- remplace : C6 (qui remplacait C5 / C4 / ...). Ne garder que cette version.
+- remplace : C7 (qui remplacait C6 / C5 / ...). Ne garder que cette version.
 - scope : parcours de Magnus (OC, prota du seul RP LOP), du premier souffle (1847) a la fin (chute de Manus + conclusion de Geppetto).
 - regime : canon LOP + [DIVERGENCE RP] tisse inline. Tout ce qui touche Magnus / Markiona-alliee et n'est pas marque canon = divergence assumee (cf. BIBLE SB9.1).
 - a NE PAS confondre avec BIBLE SB6 "Chronologie canon" = histoire du MONDE (Krat). Ici = parcours d'UN personnage.
 - note calendrier : les annees (1847-1852) sont le calendrier in-world choisi par le worldbuilder (le jeu n'en donne aucun). La "Belle Epoque (1871-1914)" de BIBLE SB0 est une REFERENCE ESTHETIQUE, pas le calendrier de Krat : aucune contradiction.
 - POINT DE DEPART JOUABLE : l'eveil de Magnus (1847). Le joueur incarne Magnus du premier souffle a la conclusion.
 - regle d'usage : grosses mailles. AUCUNE fiche n'est gravee depuis ce document ; le detail vit dans les roadmaps. La discipline fiches-a-chaud s'allume au forage de chaque ere.
-- date reelle : 2026-06-29
+- date reelle : 2026-10-11
 
 ## Axes de divergence fondateurs (rappel)
 - Magnus existe : OC, pantin parfait de Markiona, ego inne et vierge (cf. fiches Magnus / Markiona, BIBLE SB1.3 [DIVERGENCE RP]).
@@ -21,7 +22,7 @@
 - L'Ange de l'Arc : l'original est detruit en 1847 (fuite du Zelator). Les Alchimistes en reconstruisent une copie, qui garde le Zoo et sert de boss a P en 1850 (Ordre aux commandes, Markiona partie).
 
 ## Anteriorite (pre-1847) - canon Markiona, a racheter
-- Technicienne du Workshop Union -> conversion alchimiste (decouverte de Camil) -> haut rang : l'Illuminee, Marionnettiste de la Mort, Brotherhood of Truth.
+- Technicienne du Parlement des Artisans (VO : Workshop Union), eleve de Camille [DIVERGENCE RP - acte] -> conversion alchimiste (decouverte de Camil) -> haut rang : l'Illuminee, Marionnettiste de la Mort, Brotherhood of Truth.
 - Maitresse du Zoo de Krat (Colonel Little et Philato elimines par l'Ordre) ; Zelator Labs, experiences, Carcasses ; vecteur de l'elixir.
 - Detention du cristal d'Ergo de Camille (Ergo + ego, preleve dans Camil) ; Geppetto le croit detruit.
 - Decouverte du cristal d'Ergo emeraude (purete inedite) -> Magnum Opus SECRET au complexe Zelator (Simon la tuerait s'il savait).
@@ -45,18 +46,21 @@
 
 ## 1850-1852 - La Frenzy (Ere 4) [hiver 1850-1851 -> printemps 1852]
 - Cadre de dates : l'ere s'amorce en continuite directe avec l'Overture (R03 clot en hiver 1850) ; la convalescence de Markiona fait le pont vers 1851 ; l'echelle court jusqu'au printemps 1852 (arrivee a la Gare).
-- Grosses mailles : sortie de la Rose Estate + convalescence de Markiona (portee a Aurus) ; reprise des masques de Loup ; lien ACTIF Magnus-Sophia aux Stargazers (Sophia branchee/joignable des 1851, Magnus 2e percepteur apres P, contact bidirectionnel -> romance + voeu de delivrance) ; la Tour des Artisans TROP TARD (duo absent, arrivee au charnier, rage bridee par Markiona "le sang a assez coule", 1er contact glacial avec les 4 -> Confrerie) ; quadrillage d'une Aurus orpheline + remede maison qui ralentit la Petrification de Markiona ; Law Zero (Geppetto) -> Romeo en King of Puppets -> Puppet Frenzy (canon, hors-champ pour Magnus, qui ignore que le roi est Romeo) ; ville devastee, duo terre ; Sophia envoie Magnus a la Gare, ou P git inerte (charniere vers l'Ere 5).
+- Grosses mailles : sortie de la Rose Estate + convalescence de Markiona (portee a Aurus) ; reprise des masques de Loup ; lien ACTIF Magnus-Sophia aux Stargazers (Sophia branchee/joignable des 1851, Magnus 2e percepteur apres P, contact bidirectionnel -> lien platonique d'ames soeurs + voeu de delivrance) ; la Tour des Artisans TROP TARD (duo absent, arrivee au charnier, rage bridee par Markiona "le sang a assez coule", 1er contact glacial avec les 4 -> Confrerie) ; quadrillage d'une Aurus orpheline + remede maison qui ralentit la Petrification de Markiona ; Law Zero (Geppetto) -> Romeo en King of Puppets -> Puppet Frenzy (canon, hors-champ pour Magnus, qui ignore que le roi est Romeo) ; ville devastee, duo terre ; Sophia envoie Magnus a la Gare, ou P git inerte (charniere vers l'Ere 5).
 - Detail jouable -> Roadmap/Magnus/Roadmap_04_La_Frenzy.md (R1, 6 etapes + 2 fils paralleles).
 
 ## 1852 - Le reveil de P et la fin (Ere 5)
 - Charniere d'entree (depuis l'Ere 4) : le duo est a la Gare de Krat, P inerte dans son wagon ; Sophia a envoye Magnus. Le reveil de P et la reconnaissance ("a bientot, mon ami" enfin compris) ouvrent l'ere.
 - P se reveille a Krat Central Station : evenements du base game.
 - Magnus reconnait P au premier regard (il l'a connu en 1850 ; il vit en ligne droite, ne voyage pas dans le temps). P ne reconnait PAS Magnus (il n'a pas encore fait le saut vers 1850). Complicite et amitie.
+- Voyage de P dans le passe (Overture) : canon, il se fait PENDANT le base game, depuis le golden Stargazer du Pilgrim's Path (pres de St Frangelico) -> au plus tot a la charniere 5.2 / 5.3 ; moment exact a fixer au forage concerne. Chacun connait deja l'autre a sa premiere rencontre (P connait Magnus en 1850, Magnus connait P en 1852).
 - Trame jusqu'a la chute de Simon Manus (Awakened God) et des Alchimistes, et la conclusion de l'histoire de Geppetto (les fins).
 
 ### Decoupage en 6 parties (= 6 roadmaps a forer, climax narratifs du base game)
-- 5.1 Le Reveil (ch.1-2) : Gare Centrale -> Maitre du Defile -> Hotel Krat (Sophia, Eugenie, Antonia, Polendina, Gemini ; mission "trouver Geppetto") -> Boulevard Elysion -> Pont des Alchimistes (sauvetage de Geppetto, Ane Enrage) -> Hotel de Ville (Veilleur Desarticule). CHARNIERE D'ENTREE MAGNUS = ici (duo a la Gare, Sophia envoie Magnus). -> Roadmap_05_1_Le_Reveil.md
+- 5.1 Le Reveil (ch.1-2) : Gare Centrale -> Maitre du Defile -> Hotel Krat (Sophia, Eugenie, Antonia, Polendina, Gemini ; mission "trouver Geppetto") -> Boulevard Elysion -> Pont des Alchimistes (sauvetage de Geppetto, Ane fou) -> Hotel de Ville (Veilleur Desarticule). CHARNIERE D'ENTREE MAGNUS = ici (duo a la Gare, Sophia envoie Magnus). -> Roadmap_05_1_Le_Reveil.md
+  - Grosses mailles (ROADMAPPEE, R1) [DIVERGENCE RP] : reconnaissance asymetrique a la Gare, Magnus baptise P "Pinocchio" et se pose en grand frere ; entree a l'Hotel Krat SANS mensonge (Magnus negocie, Markiona les accompagne) ; Sophia plus presente que jamais, promesse renouvelee ; Markiona soigne Antonia ; quinte severe a Elysion ; au Pont, l'Ane fou EPARGNE (refugie a Aurus), Geppetto jauge Magnus et presse Markiona (secrets tenus) ; Magnus traduit a P la rage du Veilleur.
 - 5.2 La Ville Malade (ch.3-4) : Parlement des Artisans / Fabrique Artisanale Venigni (Venigni, Pulcinella ; Fuoco) -> Village Clair-de-Lune / Cathedrale St Frangelico (la Redemptee, Cecile, Aine des Lapins Noirs ; Andreas -> One-Winged Angel). Premiere ombre de Simon Manus (silhouette, fin ch.4). -> Roadmap_05_2_La_Ville_Malade.md
+  - Grosses mailles (ROADMAPPEE, R1) [DIVERGENCE RP] : au hub, Geppetto revele a Markiona Frenesie + peau de Lea + role de Romeo, elle se tait ; a la Fabrique, "on a tue Arlecchino il y a deux ans" (closure de Venigni avancee), Fuoco detruit, Pulcinella repare, Renarde Rousse et Chat Noir vers Malum ; aveu de Markiona devant les Carcasses ; la Redemptee epargnee, ralliee a Aurus ; Giangio/Paracelsus fascine par Magnus, reconnu muettement par Markiona ; Parrot demasque a la voix ; Andreas abattu par P et Magnus, jubilation de Markiona ; sang + poudre de cristaux bleue. Aine des Lapins Noirs : ECARTE de 5.2 (a trancher, cf. _Implications).
 - 5.3 Le Roi des Pantins (ch.5-6) : District Malum (Confrerie des Lapins Noirs ; Renarde Rousse / Chat Noir ; Pantin Clown Enrage) -> Rue Rosa Isabelle / Opera Estella (Adelina ; Roi des Pantins -> Romeo). FIL "ironie King of Puppets" PAYE ici (Magnus apprend que le roi etait Romeo). -> Roadmap_05_3_Le_Roi_des_Pantins.md
 - 5.4 La Verite de Geppetto (ch.7-8) : Arcade Lorenzini -> Grande Exposition (Belle ; Champion Victor ; reveal Simon Manus, Ergo = ames cristallisees) -> Marais Aride (Chouette Medecin ; Monstre Vert du Marais). Message de Romeo (Geppetto controle la Frenzy depuis le debut). -> Roadmap_05_4_La_Verite_de_Geppetto.md
 - 5.5 L'Effondrement (ch.9-10) : retour Gare Centrale / Tour des Artisans effondree (Marcheur d'Illusions) / Maitre du Defile Corrompu -> Relique de Trismegistus (Confrerie des Lapins Noirs, 2e combat). Souvenirs de Carlo (enfance, Romeo) ; montee vers l'ile des Alchimistes. -> Roadmap_05_5_L_Effondrement.md
@@ -64,19 +68,22 @@
 - Role precis de Magnus dans chaque partie + arbitrage des fils ouverts ci-dessous : -> roadmaps (forage partie par partie, version Magnus tissee a chaque forage).
 
 ## Fils ouverts / en reserve (pour les roadmaps)
-- Cristal de Camille [reserve] : Markiona le detient (Ergo + ego de Camille) et veut le faire absorber a Magnus "quand elle le jugera digne". L'absorption met fin a l'ego vierge de Magnus (charge dramatique majeure). L'Ere 4 le laisse EN RESERVE (non convoque) ; detonation -> roadmap Ere 5.
-- Mort de Markiona [condamnee] : CAUSE FIXEE = Petrification pulmonaire (terminale, lente, incurable, inamputable), anterieure a 1847. L'Ere 4 est passee SANS la tuer (vivante a la Gare, declin ralenti par le remede maison de Magnus). Le QUAND et le COMMENT exacts -> roadmap Ere 5.
-- Sort de Sophia [DIVERGENCE RP] : lien actif noue en Ere 4 (Magnus 2e percepteur de sa projection, romance, voeu de delivrance ; Manus cible depuis 1847). TENSION avec le role canon de P (qui libere Sophia a l'Aisle) : qui la delivre, et comment -> arbitrage roadmap Ere 5.
+- Cristal de Camille [reserve] : Markiona le detient (Ergo + ego de Camille) et veut le faire absorber a Magnus "quand elle le jugera digne". L'absorption met fin a l'ego vierge de Magnus (charge dramatique majeure). L'Ere 4 le laisse EN RESERVE (non convoque) ; FROLE en 5.1 (Pont des Alchimistes), non frole en 5.2 ; detonation -> roadmaps 5.3 a 5.6.
+- Mort de Markiona [condamnee] : CAUSE FIXEE = Petrification pulmonaire (terminale, lente, incurable, inamputable), anterieure a 1847. L'Ere 4 est passee SANS la tuer (vivante a la Gare, declin ralenti par le remede maison de Magnus). Aggravation marquee en 5.2 (sang + poudre de cristaux bleue, Ergo cristallise pulmonaire - distinct du cristal de Camille). Le QUAND et le COMMENT exacts -> roadmaps 5.3 a 5.6.
+- Sort de Sophia [DIVERGENCE RP] : lien actif noue en Ere 4 (Magnus 2e percepteur de sa projection, lien platonique d'ames soeurs - Magnus psychologiquement mineur -, voeu de delivrance ; Manus cible depuis 1847). TENSION avec le role canon de P (qui libere Sophia a l'Aisle) : qui la delivre, et comment -> arbitrage roadmap Ere 5.
 - Ironie King of Puppets [DIVERGENCE RP] : Magnus a subi la Frenzy (Ere 4) sans savoir que le roi des pantins est Romeo, son ami. Revelation et coup emotionnel -> payes en roadmap Ere 5 (partie 5.3).
+- Tchekhov Markiona [DIVERGENCE RP] : depuis 5.2, elle sait (Frenesie, peau de Lea, role de Romeo) et se tait. Decharge -> discussion Mere/Fils apres le reveal de Romeo (placement a acter au forage 5.4).
+- Peau de Lea [DIVERGENCE RP] : connue de Markiona depuis 5.2, cachee a Magnus et P ; paiement public -> 5.6.
+- Graine sequel Paracelsus [DIVERGENCE RP] : fascination pour Magnus, reconnaissance muette de Markiona (5.2). Ne pas detoner avant arbitrage.
 
 ## Decoupage en eres (= roadmaps)
 1. Genese et fuite (1847) -- ROADMAPPEE (R1). Detail -> Roadmap_01_Eveil.md.
 2. Les Loups (1848-1850) -- ROADMAPPEE (R1). Detail -> Roadmap_02_Les_Loups.md.
 3. Overture (1850) -- ROADMAPPEE (R1). Detail -> Roadmap_03_Overture.md.
 4. La Frenzy (hiver 1850-1851 -> printemps 1852) -- ROADMAPPEE (R1). Detail -> Roadmap_04_La_Frenzy.md.
-5. Le reveil et la fin (base game, 1852+) -- DECOUPEE en 6 parties, toutes A FORER :
-   5.1 Le Reveil (ch.1-2) -- a forer. -> Roadmap_05_1_Le_Reveil.md
-   5.2 La Ville Malade (ch.3-4) -- a forer. -> Roadmap_05_2_La_Ville_Malade.md
+5. Le reveil et la fin (base game, 1852+) -- DECOUPEE en 6 parties ; 5.1 et 5.2 ROADMAPPEES, 5.3 a 5.6 A FORER :
+   5.1 Le Reveil (ch.1-2) -- ROADMAPPEE (R1). -> Roadmap_05_1_Le_Reveil.md
+   5.2 La Ville Malade (ch.3-4) -- ROADMAPPEE (R1). -> Roadmap_05_2_La_Ville_Malade.md
    5.3 Le Roi des Pantins (ch.5-6) -- a forer. -> Roadmap_05_3_Le_Roi_des_Pantins.md
    5.4 La Verite de Geppetto (ch.7-8) -- a forer. -> Roadmap_05_4_La_Verite_de_Geppetto.md
    5.5 L'Effondrement (ch.9-10) -- a forer. -> Roadmap_05_5_L_Effondrement.md

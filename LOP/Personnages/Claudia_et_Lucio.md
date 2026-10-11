@@ -1,6 +1,7 @@
 # Claudia et Lucio
 
-- version : W2
+- version : W3
+- note W3 : numerotation des eres alignee sur la Chronologie (Frenesie = Ere 4 ; base game = Ere 5). + Passage a la Fabrique Artisanale Venigni (5.2) : discussion entre Rodeurs, Markiona prudente, depart vers le District Malum.
 
 > Le Renard et le Chat de Collodi, refondus en demi-fratrie : Claudia la legitime, flamboyante,
 > bras droit chez les Bastards ; Lucio le batard, efface, simple rodeur Sweeper. Chacun infiltre
@@ -42,9 +43,9 @@
 - Lumacchio : son chef chez les Bastards ; mentor pro-Alchimistes (cf. Personnages/Lumacchio.md).
 - Maison Volfe : sa famille (cf. Factions/Les_Stalkers.md, Maison Volfe).
 
-### Sort connu / Etat (a fin Ere 3, 1851)
+### Sort connu / Etat (a fin Ere 4, printemps 1852)
 - Survivante de la decimation : absente de la Bataille de la Tour des Artisans (cf. section 3), elle echappe au massacre des rodeurs.
-- Trajectoire Ere 4 (1852 et au-dela : ralliement, quete du Fruit d'Or pour son frere) : a etablir en roadmap (cf. section 4).
+- Trajectoire Ere 5 (1852 et au-dela : ralliement, quete du Fruit d'Or pour son frere) : a etablir en roadmap (cf. section 4).
 
 ---
 
@@ -80,9 +81,9 @@
 - Les Sweepers : sa faction de couverture (cf. Factions/Les_Stalkers.md).
 - Maison Volfe : sa famille (par batardise).
 
-### Sort connu / Etat (a fin Ere 3, 1851)
+### Sort connu / Etat (a fin Ere 4, printemps 1852)
 - Survivant de la decimation : absent de la Tour des Artisans (cf. section 3), vue de plus en plus faible.
-- Trajectoire Ere 4 (1852 et au-dela : cecite, ralliement aux Alchimistes, etc.) : a etablir en roadmap (cf. section 4).
+- Trajectoire Ere 5 (1852 et au-dela : cecite, ralliement aux Alchimistes, etc.) : a etablir en roadmap (cf. section 4).
 
 ---
 
@@ -94,13 +95,16 @@
 - Marque commune du binome : grelots dores a cordon rouge (lui a la taille, elle au revers) - signe d'appartenance au duo.
 - [DIVERGENCE RP] Motif transversal du denuement-recup : la City Longspear de Lucio, bricolee dans les ruines de Krat, porte cote Chat le motif de faction du denuement (cf. Factions/Les_Stalkers.md).
 
-### Ere 3 (1851) - la decimation evitee
+### Ere 4 (1851) - la decimation evitee
 - Quand les deux factions se ruent a la Bataille de la Tour des Artisans pour contenir la Frenesie des Pantins, le duo N'Y VA PAS. A force d'espionner les deux camps, ils sont les seuls a sentir le sale coup venir (ils savent ce que chaque clan prepare). Leur vice les sauve : la bataille decime les rodeurs, eux survivent. [DIVERGENCE RP, greffee sur le canon de la decimation.]
-- Le detail de "ce que chaque clan preparait", et toute la suite (ralliement aux Alchimistes, etc.), relevent de la roadmap (Ere 4, 1852+).
+- Le detail de "ce que chaque clan preparait", et toute la suite (ralliement aux Alchimistes, etc.), relevent de la roadmap (Ere 5, 1852+).
+
+### Ere 5 (1852) - le passage a la Fabrique [DIVERGENCE RP]
+- A la Fabrique Artisanale Venigni, apres Fuoco, ils croisent P, Magnus et Markiona : simple discussion entre Rodeurs, sans ralliement. Markiona reste prudente : elle ne se fie a aucun Rodeur de faction. Le duo file vers le District Malum (pose pour 5.3). cf. Roadmap_05_2_La_Ville_Malade, Personnages/Markiona_relations.md.
 
 ### Echos et regles a exploiter en roadmap
 - Echo Collodi [matiere narrative] : dans le roman, le Renard et le Chat FEIGNENT un handicap pour arnaquer Pinocchio, et le poussent a enterrer ses pieces d'or pour qu'elles "poussent" (racine de l'Arbre a Fruits d'Or). Ici l'ironie se referme : la cecite de Lucio est REELLE (Maladie de Petrification), et c'est un Fruit d'Or qu'il faudra pour la soigner. L'arnaque du roman se retourne sur l'arnaqueur.
-- [DIVERGENCE RP] Regle du coeur pur : seul un coeur pur peut cueillir un Fruit d'Or ; dans tout le monde, seuls Pinocchio et Magnus en sont capables. Implication (Ere 4, hors de cette fiche) : pour sauver la vue de son frere, Claudia depend du prota - Magnus OU Pinocchio selon le RP. cf. Personnages/Magnus.md, Pinocchio.md.
+- [DIVERGENCE RP] Regle du coeur pur : seul un coeur pur peut cueillir un Fruit d'Or ; dans tout le monde, seuls Pinocchio et Magnus en sont capables. Implication (Ere 5, hors de cette fiche) : pour sauver la vue de son frere, Claudia depend du prota - Magnus OU Pinocchio selon le RP. cf. Personnages/Magnus.md, Pinocchio.md.
 
 ---
 
@@ -111,8 +115,9 @@
 | Ere 2 (1848-1850) | Claudia bras droit de Lumacchio (Bastards) ; Lucio rodeur Sweeper de l'ombre ; double-jeu inter-factions | Duo etabli, infiltre |
 | ~1850 (fin Ere 2) | Lucio soupconne d'espionnage par les Sweepers ; interrogatoire prevu avant la Frenesie (issue inconnue) | Filet qui se resserre |
 | Des 1850 | La vue de Lucio commence a baisser (Maladie de Petrification oculaire naissante) | Tchekhov pose |
-| Ere 3 (1851) | Absents de la Bataille de la Tour des Artisans ; survivent a la decimation des rodeurs | Survivants |
-| Ere 4 (1852+) | A ETABLIR EN ROADMAP. Le canon post-Frenesie (assaut de l'Hotel Krat, garde de Geppetto, cecite avancee, epuisement au combat, quete du Fruit d'Or, sort selon les choix du prota) n'est PAS repris par defaut. | (en attente) |
+| Ere 4 (1851) | Absents de la Bataille de la Tour des Artisans ; survivent a la decimation des rodeurs | Survivants |
+| 1852 (5.2, Fabrique Artisanale Venigni) [DIV RP] | Croisent P, Magnus et Markiona ; discussion entre Rodeurs ; filent vers le District Malum | En route vers Malum |
+| Suite (Ere 5, 5.3+) | A ETABLIR EN ROADMAP. Le canon post-Frenesie (assaut de l'Hotel Krat, garde de Geppetto, cecite avancee, epuisement au combat, quete du Fruit d'Or, sort selon les choix du prota) n'est PAS repris par defaut. | (en attente) |
 
 ---
 

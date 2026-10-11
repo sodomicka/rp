@@ -1,6 +1,7 @@
 # PNJ Secondaires
 
-- version : W5
+- version : W6
+- note W6 : forages 5.1 et 5.2. Ane fou : role 1852 fixe (epargne au Pont des Alchimistes, refugie a Aurus). La Redemptee : Sweeper confirmee, epargnee au funiculaire, ralliee a Aurus.
 
 > Fiche groupee. Chaque entite = un bloc independant.
 > Personnages : Belle, Julian + Melody, la Redemptee, Ane fou, Klaus, Hugo, Godard,
@@ -47,7 +48,7 @@
 
 ### Identite
 - Nom/titre : la Redemptee ("the Atoned" ; "Redemptee" = neologisme assume comme nom propre stylise). Nature : humaine, Stalker.
-- Faction : Sweeper [DEDUCTION - non explicite dans le canon].
+- Faction : Sweeper. [DIVERGENCE RP - acte B8] Deduction confirmee par le worldbuilder (non explicite dans le canon).
 - Lieu : cable car menant a la Cathedrale St Frangelico (Moonlight Town).
 
 ### Masque, tenue et arme
@@ -64,6 +65,7 @@
 
 ### Sort connu
 - Meurt en combattant P si P dit la verite. Sort dans les autres cas non specifie.
+- [DIVERGENCE RP - 1852] Vaincue au funiculaire puis EPARGNEE (meme schema que l'Ane fou). Elle rallie Aurus, le havre du duo : elle sait que le Loup Noir (Magnus) et la Louve Blanche (Markiona) etaient respectes parmi les Rodeurs, et leur fait confiance. [A FIXER] Articulation avec son lien a la cathedrale (pourquoi elle bascule). cf. Roadmap_05_2_La_Ville_Malade, Lieux/Aurus.md.
 
 ---
 
@@ -81,11 +83,11 @@
 
 ### [DIVERGENCE RP]
 - Repositionne en ALLIE de Magnus (Magnus etant lui-meme Stalker). De ce fait, retire de Creatures/Boss_et_Creatures.md (plus de pointeur) et rapatrie ici.
-- Son role en 1852 diverge du canon (ou il finit mini-boss tue par P). Role 1852 precis NON encore fixe : il se calera avec les roadmaps des Eres 4-5 (non encore produites). Ne pas inventer ce role ici.
+- Role 1852 (5.1, Pont des Alchimistes) : il menace Geppetto coince dans sa caleche. P s'elance pour proteger son pere ; Magnus s'interpose, croise le fer avec P pour l'arreter, puis convainc l'Ane d'epargner Geppetto. L'Ane refuse l'Hotel Krat (anti-hotel) mais accepte Aurus comme refuge.
 - cf. Personnages/Magnus.md, Personnages/Markiona.md, Factions/Les_Stalkers.md.
 
 ### Sort connu
-- [DIVERGENCE RP] Indetermine : le sort canon (tue par P) ne s'applique plus dans la continuite Magnus. A fixer avec les Eres 4-5.
+- [DIVERGENCE RP] EPARGNE en 1852 (et non tue par P) ; refugie a Aurus. Suite -> roadmaps Ere 5.
 
 ---
 

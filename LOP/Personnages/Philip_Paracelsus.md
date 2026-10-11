@@ -1,6 +1,7 @@
 # Philip Paracelsus
 
-- version : W1
+- version : W2
+- note W2 : forage 5.2 [DIVERGENCE RP]. + Fascination ACCRUE pour Magnus (graine sequel, muette). + Reconnu muettement par Markiona (lien neuf). + Trajectoire 1852.
 - Note : Philip Paracelsus est l'identite reelle du personnage connu en jeu sous le nom de Giangio. Les deux noms sont utilises selon le contexte narratif.
 
 ## Identite
@@ -82,6 +83,7 @@
 - [INTERPRETATION] L'arbre qui lui brule la main = sanction symbolique de ses intentions impures (la source naturelle repousse celui qui vient la piller pour de mauvaises raisons).
 - Curieux et theoricien : qualifie P de "nouveau type d'humanite", voit le succes de l'experience de Krat comme preuve.
 - Prepare l'avenir : Dorothy = prochaine cle, prochaine experience, continuite du projet.
+- [DIVERGENCE RP - 1852] A St Frangelico, voir Magnus deja accompli le fascine PLUS que P seul : un pantin de chair parfait, "nouveau type d'humanite" plus pur encore. Il le cache. Graine sequel : fil ouvert, a ne pas detoner avant arbitrage du worldbuilder.
 
 ## Relations
 - Valentinus Monad : [THEORIE] possible second right-hand man ; lien direct evoque mais non certifie.
@@ -92,6 +94,8 @@
 - Antonia : P peut lui obtenir un Gold Coin Fruit via Giangio contre un remede (soulagement de la douleur, pas cure).
 - Red Fox + Black Cat : dependent de lui pour le Gold Coin Fruit ; il les tient a sa merci via cette dependance.
 - Dorothy : prochaine "cle", sujet du sequel presume.
+- Magnus [DIVERGENCE RP - 1852] : objet d'une fascination accrue, tue (graine sequel). cf. Personnages/Magnus.md.
+- Markiona [DIVERGENCE RP - 1852] : elle le reconnait sous Giangio et comprend a son regard qu'il n'a plus d'allegeance aux Alchimistes ; elle se tait. Lien muet entre deux anciens de l'Ordre. cf. Personnages/Markiona_relations.md.
 
 ## Sort connu
 - Vivant a la fin du jeu ; vu dans la scene post-credits dans un train.
@@ -105,6 +109,7 @@
 | Origine | Paracelsus = alchimiste ; donne l'Arm of God aux Alchimistes ; [THEORIE] right-hand man de Valentinus ou Grandmaster | Paracelsus -> operateur de l'ombre |
 | Pre-jeu | Se deguise en Giangio, survivant terrifi a Krat ; positionne pres de la Cathedrale | Giangio -> persona d'infiltration etablie |
 | Base game - premier contact | Rencontre P a la Cathedrale ; demande le Gold Coin Fruit ; "presque laisse echapper" son affiliation | Giangio -> etablit sa relation utilitaire avec P |
+| 1852 (5.2, St Frangelico) [DIV RP] | Croise P, Magnus et Markiona ; fascine par Magnus ; reconnu par Markiona, qui se tait | Graine sequel posee, muette |
 | Base game - second contact | Annonce ne pas avoir pu cueillir le fruit (arbre lui brule la main) ; obtient le fruit via P | Giangio -> dependant de P, observation continue |
 | Base game - fond | Observe P tout au long du jeu ; tire des conclusions sur l'Ergo et la vie eternelle | Paracelsus -> analyste en temps reel |
 | Post-credits | Dans un train ; parle a une femme ; bilan de l'experience Krat ; P = nouveau type d'humanite ; prochaine cle = Dorothy | Paracelsus -> architecte d'un projet global, sequel annonce |

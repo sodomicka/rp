@@ -1,12 +1,13 @@
 # Lorenzini Venigni
 
-- version : W1
+- version : W2
+- note W2 : forage 5.2 [DIVERGENCE RP]. + Passif avec Markiona (ex-collegues au Parlement des Artisans). + Closure Arlecchino AVANCEE en 1852 (il savait deja qui avait tue ses parents ; Markiona lui apprend la mort du tueur) ; fil du jouet-chevalier vole SUPPRIME. + Trajectoire 1852.
 
 ## Identite
 - Nom : Lorenzini Venigni (forme canon). Aussi designe simplement "Venigni" / "Vanini".
 - Coquilles transcript : "Lauren Xini Vanini", "Vanini", "Venini", "Venini", "Lauren Evenini", "Lorenzini Venini".
 - Nature : humain. Inventeur de genie de Krat ; heritier de la famille Venigni (Veninis).
-- Statut : fondateur et exploitant de la Venigni Works (usine de pantins) ; allie de la Workshop Union.
+- Statut : fondateur et exploitant de la Fabrique Artisanale Venigni (VO : Venigni Works ; usine de pantins) ; allie du Parlement des Artisans (VO : Workshop Union).
 
 ## Role
 - Fils des Venigni, famille associee a Giuseppe Geppetto pour la fabrication de masse des pantins (cf. Factions/Workshop_Union.md, SB3).
@@ -23,6 +24,7 @@
   - P trouve Venigni cache ; celui-ci croit d'abord que P vient le tuer, puis se rend compte qu'il n'est pas hostile.
   - Venigni demande de l'aide pour retrouver son majordome Pulcinella, parti barricader la porte arriere et non revenu (cf. Personnages/Pulcinella.md).
   - Apres que P vainc Fuoco (le King's Flame qui tenait l'usine), Venigni et Pulcinella sont ramenes sains et saufs a l'Hotel Krat.
+  - [DIVERGENCE RP - 1852] P vient avec Magnus et Markiona. Venigni et Markiona, ex-collegues au Parlement des Artisans, ont un passif : hostilite d'entree. Elle la desamorce d'une phrase : "on a tue Arlecchino il y a deux ans" (1850, Rose Estate : P, Lea, Magnus, Markiona). Venigni s'effondre en larmes et les remercie. Fuoco est detruit par P et Magnus ; Venigni repare Pulcinella et s'installe au hub. cf. Roadmap_05_2_La_Ville_Malade.
 - Apres la fermeture de l'usine, Venigni devient un PNJ ressource a l'Hotel Krat :
   - donne a P l'Ergo Wavelength Decoder, qu'il a cree pour trouver l'erreur dans l'imprint des pantins et decrypter les ondes d'Ergo de la Frenzy (cf. Objets/Objets_et_Reliques.md, Systemes/Puppet_Frenzy.md) ;
   - decode le message de Romeo capte dans les ondes ("Carlo, j'espere que tu peux m'entendre... Law Zero, le nom du createur est Geppetto") ;
@@ -43,13 +45,16 @@
   - jeune homme, il a tente d'acceder aux dossiers officiels du meurtre de ses parents, mais l'acces lui a toujours ete refuse ;
   - ce blocage venait des Alchimistes et de la Workshop Union, qui ne voulaient pas que les details soient rendus publics ;
   - il decouvre la verite via les evenements du DLC.
+  - [DIVERGENCE RP - 1852] Closure AVANCEE : il savait deja qu'Arlecchino avait tue ses parents (par quelle voie : non fixe) ; ce qu'il ignorait, c'est la mort du tueur, que Markiona lui apprend. Le fil canon du jouet-chevalier vole est SUPPRIME (decision worldbuilder).
 - [INTERPRETATION] Rival involontaire de Geppetto : son genie precoce a rendu Geppetto jaloux et menace.
 
 ## Relations
 - Famille Venigni / les Venignis : ses parents, associes de Geppetto pour la fabrication des pantins ; assassines par Arlecchino.
 - Arlecchino : meurtrier de ses parents ; les a tues parce qu'il haissait leur bonheur, non pour leur role dans les pantins (cf. Personnages/Arlecchino.md).
 - Giuseppe Geppetto : associe de la famille Venigni ; jaloux et menace par le genie de Lorenzini (cf. Personnages/Giuseppe_Geppetto.md).
-- Workshop Union : faction alliee (fabrication des pantins) ; complice du secret sur le meurtre de ses parents (cf. Factions/Workshop_Union.md).
+- Parlement des Artisans (VO : Workshop Union) : faction alliee (fabrication des pantins) ; complice du secret sur le meurtre de ses parents (cf. Factions/Workshop_Union.md).
+- Markiona [DIVERGENCE RP - 1852] : ex-collegue au Parlement des Artisans, passif hostile, desamorce par la nouvelle de la mort d'Arlecchino ; reconcilies. cf. Personnages/Markiona_relations.md.
+- Magnus [DIVERGENCE RP - 1852] : l'un des tueurs d'Arlecchino (1850) ; detruit Fuoco avec P. cf. Personnages/Magnus.md.
 - Les Alchimistes : commanditaires d'un vehicule special ; responsables de la degradation de l'Ergo ; complices du secret sur le meurtre de ses parents (cf. Factions/Les_Alchimistes.md).
 - Pulcinella : son majordome pantin (cf. Personnages/Pulcinella.md).
 - Pinocchio (P) : le sauve dans l'usine, lui fournit decodeur et analyses cles ; relais d'information majeur de la trame.
@@ -69,10 +74,11 @@
 | Pre-jeu | Meurtre de ses parents par Arlecchino ; acces aux dossiers refuse | Quete de verite bloquee |
 | Pre-jeu | Detecte la degradation de l'Ergo ; rapport du factory manager | Soupcon sur les Alchimistes |
 | Base game | Prisonnier dans l'usine prise par Fuoco | En danger |
+| 1852 (5.2) [DIV RP] | Markiona, Magnus et P le retrouvent ; "on a tue Arlecchino il y a deux ans" : larmes, reconciliation | Closure avancee |
 | Base game | Sauve par P ; ramene a l'Hotel Krat | Allie ressource |
 | Base game | Donne l'Ergo Wavelength Decoder ; decode le message de Romeo | Revele Law Zero / Geppetto |
 | Base game | Dechiffre la lettre d'Alidoro (Eugenie = sa soeur) | Verite sur Alidoro |
-| DLC | Apprend la verite sur le meurtre de ses parents | Resolution |
+| DLC | Apprend la verite sur le meurtre de ses parents [canon ; DIVERGENCE RP : remplace par la closure de 1852] | Resolution |
 
 ---
 
