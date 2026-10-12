@@ -1,7 +1,7 @@
 # Pinocchio
 
 - version : W6
-- note W6 : forages 5.1 et 5.2 (Ere 5). + Bapteme "Pinocchio" par Magnus. + Entree a l'Hotel Krat SANS mensonge : l'eveil s'ouvre par d'autres vecteurs (modele familial Magnus / Markiona). + Ane fou epargne. + Role DLC aligne sur Roadmap_03 (Markiona alliee, pas boss). + Voyage de l'Overture replace dans l'Ere 5 (canon : point d'entree = golden Stargazer du Pilgrim's Path, pres de St Frangelico). + Relations Magnus et Markiona. + Trajectoire 5.1 et 5.2.
+- note W6 : forages 5.1 et 5.2 (Ere 5). + Bapteme "Pinocchio" par Magnus. + Entree a l'Hotel Krat SANS mensonge : l'eveil s'ouvre par d'autres vecteurs (modele familial Magnus / Markiona). + Ane fou epargne. + Role DLC aligne sur Roadmap_03 (Markiona alliee, pas boss). + Voyage de l'Overture replace dans l'Ere 5 (canon : point d'entree = golden Stargazer du Pilgrim's Path, pres de St Frangelico). + Relations Magnus et Markiona. + Trajectoire 5.1 et 5.2. + Francisation VF (Rodeurs, Balayeurs, Batards).
 
 ## Identite
 
@@ -15,7 +15,7 @@
 - Particularite unique : exempte du Grand Covenant en ce qui concerne l'interdiction de mentir ; c'est precisement sa capacite a mentir qui declenche son eveil humain. cf. SB1, SB5. [DIVERGENCE RP] Dans le RP, l'eveil ne s'ouvre pas par le mensonge (cf. Role, entree a l'Hotel Krat).
 - [DIVERGENCE RP] Nature physique reelle : un chassis de guerre mecanique (pantin haute performance) recouvert d'une couche de chair humaine d'emprunt. Le metal est le vrai corps, la chair est le deguisement -- voie exactement inverse de Magnus (chair vraie, renfort de metal au-dedans). cf. Systemes/Genies_et_Chef_D_Oeuvres.md.
 - [DIVERGENCE RP] Origine de la chair : peau prelevee sur Lea Florence Monad via la "methode du diable" de Geppetto (cf. Giuseppe_Geppetto.md). Visuel canon observe in-game : par defaut, P presente des taches de rousseur et des yeux bleus (signature de Lea) ; en fin Real Boy, des yeux marrons et des pommettes claires (signature de Carlo). Lecture : le visage est sculpte vers Carlo, mais la chair native est celle de Lea ; l'eveil de l'Ego de Carlo resout progressivement l'apparence vers Carlo.
-- [DIVERGENCE RP] Le bras gauche mecanique (Legion Arm) sert aussi de leurre : une prothese ostensiblement metallique qui detourne l'oeil et fait imputer au bras les micro-imperfections (grincements) du reste du corps. Un faux flagrant pour camoufler le faux total -- c'est ce qui permet a P de passer pour un stalker humain a prothese (cf. Lumacchio, the Atoned, qui le prennent pour un humain en face a face).
+- [DIVERGENCE RP] Le bras gauche mecanique (Legion Arm) sert aussi de leurre : une prothese ostensiblement metallique qui detourne l'oeil et fait imputer au bras les micro-imperfections (grincements) du reste du corps. Un faux flagrant pour camoufler le faux total -- c'est ce qui permet a P de passer pour un rodeur humain a prothese (cf. Lumacchio, the Atoned, qui le prennent pour un humain en face a face).
 - [DIVERGENCE RP] Pourquoi le bras GAUCHE precisement : au bras gauche, la peau de Lea etait inexploitable -- son bras gauche etait petrifie (Petrification localisee, non terminale ; cf. Lea_Florence_Monad.md, Giuseppe_Geppetto.md). Geppetto n'a pas pu y prelever de chair viable et a remplace ce membre par la prothese mecanique. La laterite du leurre n'est donc pas un choix esthetique mais une consequence de la maladie de Lea : le cote ou la chair manquait devient le faux assume.
 
 ## Role
@@ -54,7 +54,7 @@
 - Mensonge = humanite : chaque mensonge volontaire et chaque ecoute musicale fait avancer l'Humanity System (cf. SB5, Systemes/Humanity_System.md). Effets physiques : coeur qui bat, chaleur, cheveux qui poussent et grisonnent.
 - Ergo de Carlo : l'Ergo de Carlo dans le P-Organ provoque des "memoires fantomes" (ex. reaction physique au pendentif de Romeo, reconnaissance vague de Sophia lors des visions sur la plage noire).
 - Compatibilite DLC : dans le passe, capable d'agir et de modifier des evenements sans etre reconnu comme futur P. Lea Florence le reconnait partiellement via le locket de Romeo ; elle ne comprend pleinement qui il etait qu'apres son rappel au present (trop tard).
-- [DIVERGENCE RP] Memoire musculaire heritee : la chair de Lea (Legendary Stalker, bretteuse) porte sa memoire de combat, ce qui expliquerait la maitrise de l'epee de P alors que l'Ego de Carlo, lui, n'a jamais appris a se battre (Lea avait refuse de l'enseigner a Carlo). Indice canon : Alidoro, qui connaissait Lea, trouve que le style de combat de P "lui rappelle quelqu'un" (cf. Relations).
+- [DIVERGENCE RP] Memoire musculaire heritee : la chair de Lea (Rodeuse Legendaire, bretteuse) porte sa memoire de combat, ce qui expliquerait la maitrise de l'epee de P alors que l'Ego de Carlo, lui, n'a jamais appris a se battre (Lea avait refuse de l'enseigner a Carlo). Indice canon : Alidoro, qui connaissait Lea, trouve que le style de combat de P "lui rappelle quelqu'un" (cf. Relations).
 
 ## Psychologie
 

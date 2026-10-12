@@ -1,6 +1,7 @@
 # Carlo
 
-- version : W4
+- version : W5
+- note W5 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Identite
 
@@ -8,7 +9,7 @@
 - Coquilles transcript : "Carlo" (stable dans le transcript).
 - Nature : humain, fils de Giuseppe Geppetto et de Camille (epouse de Geppetto).
 - Statut au debut du jeu : mort (decede de la Petrification Disease avant le base game).
-- Date de mort [DIVERGENCE RP - calendrier in-world] : 1843, encore enfant, du meme age que Romeo. Le jeu ne date rien ; annee fixee par le worldbuilder (cf. Chronologie.md). Implication : positionne Romeo comme jeune chez les Stalkers (1848-1850) et jeune King of Puppets (1851).
+- Date de mort [DIVERGENCE RP - calendrier in-world] : 1843, encore enfant, du meme age que Romeo. Le jeu ne date rien ; annee fixee par le worldbuilder (cf. Chronologie.md). Implication : positionne Romeo comme jeune chez les Rodeurs (1848-1850) et jeune King of Puppets (1851).
 - Presence dans le jeu : indirect - via l'Ergo de Carlo dans le P-Organ de P, via les visions sur la plage noire (a l'Aisle), via les memoires extraites par le Ergo Wavelength Decoder, via Rosaura (DLC).
 - Modele de P : Geppetto a sculpte le VISAGE de P vers l'apparence de Carlo. [DIVERGENCE RP] La chair sous ce visage n'est pas celle de Carlo mais celle de Lea Florence Monad (cf. Personnages/Pinocchio.md) ; l'eveil de l'Ego de Carlo resout progressivement l'apparence vers Carlo (yeux marrons, pommettes claires en fin Real Boy).
 - Role moteur : l'integralite du plan de Geppetto (Puppet Frenzy, creation de P, manipulation de Romeo) vise uniquement a ressusciter Carlo.
@@ -19,7 +20,7 @@
 
 - Apres la mort de Camille, Geppetto envoie Carlo au Monad Charity House. Geppetto ne lui rend jamais visite ; absent meme a la remise de diplome de Carlo.
 - Lady Antonia condamne l'attitude de Geppetto (negligence paternelle) et apprend elle-meme a jouer du piano a Carlo. Carlo s'y revele doue.
-- Carlo noue une amitie profonde avec Romeo. Tous deux aspirent a devenir stalkers.
+- Carlo noue une amitie profonde avec Romeo. Tous deux aspirent a devenir rodeurs.
 - Carlo offre a Romeo son pendentif de remise de diplome. Ce geste est central : c'est ce pendentif que P recupere en tuant le King of Puppets, et la reaction physique de P (l'Ergo de Carlo "se souvient") signale l'identite profonde entre P et Carlo.
 - Carlo, Romeo et Lea Florence Monad jouent de la musique ensemble.
 - Carlo supplie Lea de lui enseigner l'epee. Lea trouve sa persistence agacante (pas attendrissante). Elle dit a Geppetto de "se debarrasser de lui" et part. [DIVERGENCE RP] Carlo n'apprend donc JAMAIS l'epee -- ce qui rend la maitrise de P enigmatique, son Ego venant de Carlo. La memoire musculaire viendrait de la chair de Lea, bretteuse legendaire (indice : Alidoro trouve que le style de P "lui rappelle quelqu'un"). cf. Personnages/Pinocchio.md, Systemes/Genies_et_Chef_D_Oeuvres.md.

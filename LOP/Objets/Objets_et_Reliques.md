@@ -1,6 +1,7 @@
 # Objets et Reliques
 
-- version : W3
+- version : W4
+- note W4 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 - note W3 : Broche Monad - precision de forme (insigne en forme de rose, "M" dore au coeur) ; resout #2 (l'embleme rose de Lea = la Broche Monad ROUGE, cf. Personnages/Lea_Florence_Monad.md).
 - note W2 : + bloc Broche Monad (insigne Monad code couleur, canon ; circulation Carlo/Romeo/Lea). - bloc Monad Locket (retire : son role de reconnaissance de Lea est supplante par le combat dans la continuite Magnus, cf. Roadmap_03_Overture etape 13 ; references a nettoyer dans Romeo.md et Lea.md au lot des trajectoires).
 
@@ -84,13 +85,13 @@
 ## Rose Sword
 
 ### Nature
-- Epee signature de Lea Florence Monad (la Legendary Stalker). Offerte par Valentinus Monad a Lea.
+- Epee signature de Lea Florence Monad (la Rodeuse Legendaire). Offerte par Valentinus Monad a Lea.
 
 ### Description / Faits canon
 - Valentinus Monad offre la Rose Sword a Lea Florence.
 - Lea en parle dans sa lettre a Valentinus : "la Rose Sword m'a ete offerte par Valentinus, fierte envers mes apprentis."
-- Apparait dans le lore comme l'arme emblematique de la Legendary Stalker.
-- Arlecchino (DLC) reconnait la tenue de la Legendary Stalker portee par P apres le DLC et evoque son "Magnum Opus" inacheve.
+- Apparait dans le lore comme l'arme emblematique de la Rodeuse Legendaire.
+- Arlecchino (DLC) reconnait la tenue de la Rodeuse Legendaire portee par P apres le DLC et evoque son "Magnum Opus" inacheve.
 - P obtient la tenue de Lea apres les evenements du DLC (apres avoir vaincu Arlecchino).
 
 ### Liens
@@ -123,7 +124,7 @@
 ### Description / Faits canon
 - Permet de soulager la douleur de la Petrification Disease (confirme par le narrateur et par l'experience d'Antonia).
 - Antonia meurt paisiblement et sans douleur grace au Gold Coin Fruit.
-- Black Cat (stalker) en a besoin ; les Alchimistes lui donnent juste assez pour le maintenir sous leur dependance.
+- Black Cat (rodeur) en a besoin ; les Alchimistes lui donnent juste assez pour le maintenir sous leur dependance.
 - P peut donner du Gold Coin Fruit a Red Fox et Black Cat (choix moral).
 - Giangio (Philip Paracelsus) pretend avoir la maladie pour obtenir le fruit (sa vraie motivation est [INCERTAIN] mais lie a l'arbre et a l'Ergo).
 - Giangio trouve le Gold Coin Tree mais ne peut pas en cueillir les fruits (sa main brule au contact).

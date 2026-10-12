@@ -1,6 +1,7 @@
 # Humanity_System (Systeme d'humanite de P)
 
-- version : W1
+- version : W2
+- note W2 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Nature
 
@@ -18,7 +19,7 @@
 
 - Premier mensonge de P : a l'entree de l'Hotel Krat, P dit "je suis humain" alors que les pantins ne sont pas autorises. Premier acte volontaire de deception.
 - Les choix de mensonge/verite jalonnent tout le jeu :
-  - The Atoned : dire qu'il est un stalker ou non.
+  - The Atoned : dire qu'il est un rodeur ou non.
   - Le faux Alidoro (Parrot) : epargner ou tuer, avec choix de verite.
   - Julian the Gentleman : dire si les pantins peuvent aimer ou non.
   - Lumakio (DLC) : mentir sur les derniers mots de Veronique ou dire la verite.

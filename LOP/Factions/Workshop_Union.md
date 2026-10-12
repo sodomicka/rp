@@ -1,6 +1,7 @@
 # Workshop Union
 
-- version : W1
+- version : W2
+- note W2 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Nature
 
@@ -38,7 +39,7 @@
   - Genie qui rend Geppetto jaloux.
 - Parents de Lorenzini tues par Arlecchino (pantin meurtrier) ; Lorenzini, jeune adulte, tente d'acceder aux dossiers officiels sur ce meurtre -- toujours bloque par les Alchimistes et le Workshop Union (ne voulant pas que la verite soit publiee).
 - Lorenzini et sa "butler" Pulcinella (Pulsella) sont pieges dans Venigni Works pendant la Puppet Frenzy ; P les sauve.
-- A l'Hotel Krat, Lorenzini travaille avec P et fournit l'Ergo Wavelength Decoder. Apprend la verite sur le meurtre de ses parents via les evenements du DLC (en reconnaissant la tenue de Lea Florence sur le personnage de P apres le DLC, il comprend que c'est la Legendary Stalker).
+- A l'Hotel Krat, Lorenzini travaille avec P et fournit l'Ergo Wavelength Decoder. Apprend la verite sur le meurtre de ses parents via les evenements du DLC (en reconnaissant la tenue de Lea Florence sur le personnage de P apres le DLC, il comprend que c'est la Rodeuse Legendaire).
 - La Golden Ergo (necessaire pour alimenter le vehicule alchimique qui menera P a l'Aisle of Alchemists) est commandee par les Alchimistes a Lorenzini.
 - Lorenzini donne aussi la golden lead acid battery a P pour alimenter le transport sous-marin.
 

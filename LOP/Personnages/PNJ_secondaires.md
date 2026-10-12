@@ -1,7 +1,7 @@
 # PNJ Secondaires
 
 - version : W6
-- note W6 : forages 5.1 et 5.2. Ane fou : role 1852 fixe (epargne au Pont des Alchimistes, refugie a Aurus). La Redemptee : Sweeper confirmee, epargnee au funiculaire, ralliee a Aurus.
+- note W6 : forages 5.1 et 5.2. Ane fou : role 1852 fixe (epargne au Pont des Alchimistes, refugie a Aurus). La Redemptee : Balayeuse confirmee, epargnee au funiculaire, ralliee a Aurus. + Francisation VF (Rodeurs, Balayeurs, Batards).
 
 > Fiche groupee. Chaque entite = un bloc independant.
 > Personnages : Belle, Julian + Melody, la Redemptee, Ane fou, Klaus, Hugo, Godard,
@@ -47,8 +47,8 @@
 ## LA REDEMPTEE (the Atoned)
 
 ### Identite
-- Nom/titre : la Redemptee ("the Atoned" ; "Redemptee" = neologisme assume comme nom propre stylise). Nature : humaine, Stalker.
-- Faction : Sweeper. [DIVERGENCE RP - acte B8] Deduction confirmee par le worldbuilder (non explicite dans le canon).
+- Nom/titre : la Redemptee ("the Atoned" ; "Redemptee" = neologisme assume comme nom propre stylise). Nature : humaine, Rodeuse.
+- Faction : Balayeurs (elle est Balayeuse). [DIVERGENCE RP - acte B8] Deduction confirmee par le worldbuilder (non explicite dans le canon).
 - Lieu : cable car menant a la Cathedrale St Frangelico (Moonlight Town).
 
 ### Masque, tenue et arme
@@ -59,9 +59,9 @@
 ### Role
 - Gardienne du cable car vers la cathedrale.
 - Avertit P que la cathedrale n'est plus le sanctuaire qu'elle etait.
-- Choix de P : "nothing" (verite froide) -> elle combat P, P obtient la cle en la battant ; "yes" + salut des stalkers -> elle est intriguee, reconnait un stalker, laisse passer.
+- Choix de P : "nothing" (verite froide) -> elle combat P, P obtient la cle en la battant ; "yes" + salut des rodeurs -> elle est intriguee, reconnait un rodeur, laisse passer.
 - Arriere-plan : guidait des refugies vers la cathedrale ; apres leur mort (cathedrale surenvahie de Carcasses), culpabilite immense ; se renomme "la Redemptee" pour expier.
-- Troisieme type de Stalker rencontre par P (avec la Dame Blanche et le Chouette Medecin).
+- Troisieme type de Rodeur rencontre par P (avec la Dame Blanche et le Chouette Medecin).
 
 ### Sort connu
 - Meurt en combattant P si P dit la verite. Sort dans les autres cas non specifie.
@@ -72,17 +72,17 @@
 ## ANE FOU (Mad Donkey)
 
 ### Identite
-- Nom/titre : l'Ane fou ("Mad Donkey"). Nature : humain, Stalker (faction Sweepers).
+- Nom/titre : l'Ane fou ("Mad Donkey"). Nature : humain, Rodeur (faction Balayeurs).
 - Masque d'ane (longues oreilles) ; aucune couleur d'identite (bas du roster recup). cf. Factions/Les_Stalkers.md (grille).
-- Gueux en lambeaux (allure de Sweeper).
+- Gueux en lambeaux (allure de Balayeur).
 - Arme : epee-scie improvisee.
 
 ### Role (canon)
-- Membre des Sweepers, obsede par Geppetto : il le tient pour responsable de la Puppet Frenzy et le pourchasse a travers Krat.
+- Membre des Balayeurs, obsede par Geppetto : il le tient pour responsable de la Puppet Frenzy et le pourchasse a travers Krat.
 - Dans le base game, sa traque de Geppetto l'oppose a P (qui protege Geppetto) ; il y est un mini-boss vaincu et tue par P devant l'Hotel Krat.
 
 ### [DIVERGENCE RP]
-- Repositionne en ALLIE de Magnus (Magnus etant lui-meme Stalker). De ce fait, retire de Creatures/Boss_et_Creatures.md (plus de pointeur) et rapatrie ici.
+- Repositionne en ALLIE de Magnus (Magnus etant lui-meme Rodeur). De ce fait, retire de Creatures/Boss_et_Creatures.md (plus de pointeur) et rapatrie ici.
 - Role 1852 (5.1, Pont des Alchimistes) : il menace Geppetto coince dans sa caleche. P s'elance pour proteger son pere ; Magnus s'interpose, croise le fer avec P pour l'arreter, puis convainc l'Ane d'epargner Geppetto. L'Ane refuse l'Hotel Krat (anti-hotel) mais accepte Aurus comme refuge.
 - cf. Personnages/Magnus.md, Personnages/Markiona.md, Factions/Les_Stalkers.md.
 

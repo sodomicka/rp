@@ -2,7 +2,7 @@
 
 - statut : DETAILLEE (remplie au gabarit, 2026-06-23)
 - version : R2
-- note R2 : coquille corrigee (Lumakio -> Lumacchio, orthographe canon ; cf. Personnages/Lumacchio.md). Aucun autre changement.
+- note R2 : coquille corrigee (Lumakio -> Lumacchio, orthographe canon ; cf. Personnages/Lumacchio.md). + Francisation VF (Rodeurs, Balayeurs, Batards). Aucun autre changement.
 - arc : Ere 3 - Overture (1850, plein hiver)
 - prota : Magnus
 - nature : itineraire jouable du croisement avec P-du-futur. SOURCE DE BUILD (non indexee au Sommaire ; se lit en listant LOP/Roadmap/Magnus/). Detaille la tranche que la Chronologie (C4) n'annonce qu'en grosses mailles (Ere 3 - Overture).
@@ -12,7 +12,7 @@
 
 ## Conditions de depart
 - REPRISE EXACTE de la cloture de Roadmap_02 : Romeo est parti SEUL en reconnaissance au Krat Zoo sur la rumeur de "l'Artiste de sang" (moniker 1850 d'Arlecchino) ; il aurait deja du rentrer. Le duo est a Aurus, 1850, plein hiver. cf. Roadmap_02_Les_Loups (Conditions de cloture).
-- Etat de Magnus a l'ouverture : pleinement integre a l'union des Stalkers sous le masque du Loup Noir, identite connue et acceptee du noyau (Lea / Romeo / Alidoro). Amitie franche avec Romeo. Surprotecteur envers Markiona. cf. Personnages/Magnus.md.
+- Etat de Magnus a l'ouverture : pleinement integre a l'union des Rodeurs sous le masque du Loup Noir, identite connue et acceptee du noyau (Lea / Romeo / Alidoro). Amitie franche avec Romeo. Surprotecteur envers Markiona. cf. Personnages/Magnus.md.
 - Etat de Markiona a l'ouverture : Louve Blanche, reconciliee avec Lea (R02) ; toujours en sursis (Petrification pulmonaire lente, repoussee par les soins de Magnus). Sa fuite de l'Ordre date de 1847 : elle n'a JAMAIS remis les pieds dans ses anciens terrains (Zoo, complexe Zelator) depuis. cf. Personnages/Markiona.md.
 - Etat de Lea a l'ouverture : cheffe de l'union, malade (Petrification au bras gauche, dissimulee) ; vient chercher de l'aide apres une cascade de pertes. cf. Personnages/Lea_Florence_Monad.md.
 - Etat hors-champ (canon, deja acquis, INCONNU des persos) : Simon a deja assailli la Rose Estate (mort de Valentinus et Isabelle, capture de Sophia). Sophia est captive mais PAS encore en cage : Simon est en train de l'emmener vers l'Aisle. cf. Personnages/Sophia_Monad.md, BIBLE SB6.

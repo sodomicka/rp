@@ -6,10 +6,10 @@ Satellite de Personnages/Markiona, scindee pour le poids. Texture des relations 
 
 ## Magnus
 - Statut : sa creation parfaite (Magnum Opus), devenue son fils [DIVERGENCE RP]. cf. Personnages/Magnus.md.
-- Surnoms / adresses : il l'appelle "Dame Markiona", puis aussi "Mere" depuis Aurus, quand elle le lui permet. Chez les Stalkers : le Loup Noir et la Louve Blanche.
+- Surnoms / adresses : il l'appelle "Dame Markiona", puis aussi "Mere" depuis Aurus, quand elle le lui permet. Chez les Rodeurs : le Loup Noir et la Louve Blanche.
 - Dynamique : traite d'abord en outil (le MK I) ; il devient son fils a l'Ere 1, glissement muet declenche par sa desobeissance. Protection mutuelle : il la soigne et la porte, elle bride sa rage ("le sang a assez coule").
 - Ce que Magnus sait : il ignore le cristal de Camille, et ce que Geppetto a revele a sa mere en 1852 (Frenesie, peau de Lea, role de Romeo). Elle se tait pour l'epargner.
-- Evolution datee : 1847 eveil, desobeissance, fils -> 1847-1848 Aurus, "Mere" -> 1848 Stalkers (son envie a lui) -> hiver 1850 il la porte blessee jusqu'a Aurus -> 1851 Tour des Artisans -> 1852 (5.2) elle jubile a la chute d'Andreas et se tait sur le Tchekhov.
+- Evolution datee : 1847 eveil, desobeissance, fils -> 1847-1848 Aurus, "Mere" -> 1848 Rodeurs (son envie a lui) -> hiver 1850 il la porte blessee jusqu'a Aurus -> 1851 Tour des Artisans -> 1852 (5.2) elle jubile a la chute d'Andreas et se tait sur le Tchekhov.
 
 ## Geppetto
 - Statut : ancien collegue au Parlement des Artisans (VO : Workshop Union ; meme dispositif de bras) ; veuf de sa mentor Camille. Il est reste artisan quand elle a rejoint les Alchimistes. cf. Personnages/Giuseppe_Geppetto.md.

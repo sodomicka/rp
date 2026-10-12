@@ -1,6 +1,7 @@
 # Valentinus Monad
 
-- version : W1
+- version : W2
+- note W2 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Identite
 - Humain ; fondateur et premier leader de l'Ordre des Alchimistes.
@@ -38,7 +39,7 @@
 - Simon Manus : right-hand man jusqu'au schisme ; antagoniste final qui orchestre l'elimination de Valentinus.
 - Archbishop Andreas : a qui Valentinus confie l'Arm of God (decision contestee).
 - Grandmaster de l'Ordre : superieur hierarchique qui l'excommunie a la fin. [THEORIE] Paracelsus pourrait etre ce Grandmaster (cf. Personnages/Philip_Paracelsus.md).
-- Familia Monad : fonde le Monad Charity House pour eduquer les enfants pauvres sur 3 voies (stalker, alchimiste, workshop technician).
+- Familia Monad : fonde le Monad Charity House pour eduquer les enfants pauvres sur 3 voies (rodeur, alchimiste, workshop technician).
 
 ## Sort connu
 - Excommunie par le Grandmaster de l'Ordre dans la periode pre-DLC.

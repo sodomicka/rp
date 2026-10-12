@@ -1,6 +1,7 @@
 # Quartiers de Krat
 
-- version : W2
+- version : W3
+- note W3 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 - Fiche groupee : un bloc par quartier/lieu de la ville de Krat. Cf. Lieux/Krat.md pour l'histoire
   generale de la ville.
 
@@ -67,7 +68,7 @@
   la Zelator Facility est accessible depuis ici. Cf. Lieux/Zelator_Facility.md.
 - The Atoned (la Pleureuse) est presente au bas du cable car menant a la cathedrale. Elle avertit P que
   la cathedrale "n'est plus ce qu'elle etait" et que personne qui y monte n'est revenu. Elle pose une
-  question a P : est-il un stalker ? Si P repond oui (salut des stalkers), elle est intriguee. Si non ou
+  question a P : est-il un rodeur ? Si P repond oui (salut des rodeurs), elle est intriguee. Si non ou
   si P ne fait rien, il doit la combattre pour obtenir la cle. Cf. Personnages/Boss_et_Creatures.md.
 - Apres Venigni Works : P sort par les portes arrieres de l'usine, traverse une mine, arrive a Moonlight
   Town. Enchaineant logique de la progression. Cf. Lieux/Venigni_Works.md.
@@ -158,8 +159,8 @@
   pour leurs experiences. Cf. SB3.
 - Golden Ergo localise ici : P se rend au Barren Swamp (tram) pour trouver le Golden Ergo necessaire
   pour alimenter le sous-marin Pistrus. Divers pantins jetes, restes de Crowd. Combat. Cf. SB6.
-- Green Monster of the Swamp : monstre de la zone (boss). Un stalker avait ete envoye le gerer mais
-  avait rapporte n'avoir pas realise sa taille reelle -> equipe refusee. Journal du stalker trouve par
+- Green Monster of the Swamp : monstre de la zone (boss). Un rodeur avait ete envoye le gerer mais
+  avait rapporte n'avoir pas realise sa taille reelle -> equipe refusee. Journal du rodeur trouve par
   P (centuries notebook). Cf. Personnages/Boss_et_Creatures.md.
 - Owl Doctor : amant d'Adelina Corde. Boss rencontre ici (au Barren Swamp). Cf.
   Personnages/Adelina_et_Patricia.md.
@@ -194,11 +195,11 @@
 
 ### Faits canon
 - Workshop Tower = lieu de travail de Geppetto et des craftsmen du Workshop Union. Cf. SB3.
-- Battle of the Workshop Tower : les stalkers arrivent pour eliminer les pantins attaquant les gens.
-  Des shards de Crowd eruptent du sol -> la tour s'effondre. Nombreux morts ; stalkers quasi extermines.
+- Battle of the Workshop Tower : les rodeurs arrivent pour eliminer les pantins attaquant les gens.
+  Des shards de Crowd eruptent du sol -> la tour s'effondre. Nombreux morts ; rodeurs quasi extermines.
   Cf. SB3, SB6.
-- Consequences : plus de law enforcement (automatise), plus de stalkers -> Krat condamnee. Survivants
-  stalkers : fous, criminels (Black Rabbit Brotherhood), ou allies aux Alchimistes. Cf. SB4.
+- Consequences : plus de law enforcement (automatise), plus de rodeurs -> Krat condamnee. Survivants
+  rodeurs : fous, criminels (Black Rabbit Brotherhood), ou allies aux Alchimistes. Cf. SB4.
 - Alidoro (vrai) a ete temoin de l'effondrement de la tour depuis l'exterieur. Il a sauve Eugenie
   (qui y travaillait), l'a amenee a Madoro (medic). Il y a perdu un doigt. C'est la raison pour laquelle
   il la surveillait de loin. Cf. Personnages/Alidoro_et_Parrot.md.

@@ -1,7 +1,7 @@
 # Alidoro et Parrot
 
 - version : W3
-- note W3 : forage 5.2 [DIVERGENCE RP]. Alidoro = AMI de Magnus (Stalkers). Parrot demasque a la voix par Magnus a St Frangelico (1852) ; il admet etre le Perroquet, tait le meurtre, rejoint l'Hotel Krat.
+- note W3 : forage 5.2 [DIVERGENCE RP]. Alidoro = AMI de Magnus (Rodeurs). Parrot demasque a la voix par Magnus a St Frangelico (1852) ; il admet etre le Perroquet, tait le meurtre, rejoint l'Hotel Krat. + Francisation VF (Rodeurs, Balayeurs, Batards).
 
 > Deux personnages partageant une identite : le vrai Alidoro (alias "the Tracker") et Parrot (imposteur).
 > Traites ensemble car leur histoire est indissociable.
@@ -13,7 +13,7 @@
 ### Identite
 - Vrai nom : Alidoro.
 - Alias actif : "the Tracker" (cache son identite pour proteger sa soeur).
-- Nature : humain, ex-alchimiste desillusionne devenu stalker/sweeper puis chasseur de tresor.
+- Nature : humain, ex-alchimiste desillusionne devenu rodeur/Balayeur puis chasseur de tresor.
 - Origine : "country of the morning" (meme pays que sa soeur Eugenie).
   - Indice de confirmation : le Daylight-Wreathed Horn est decrit comme "bought from the country of the morning".
   - Indice supplementaire : le geste de "deep bow" effectue par P devant Eugenie est du meme pays d'origine.
@@ -26,13 +26,13 @@
   2. Disparition des taxidermistes (Philato en particulier).
   3. Mineur enterre vivant avec un pantin dans la Relic of Trismegistus.
   4. Meurtre du gardien de phare Columbo (enferme dans sa salle au tresor pour avoir vole un lot d'elixir).
-- Quitte l'Ordre, rejoint les Sweepers, devient stalker, puis chasseur de tresor.
+- Quitte l'Ordre, rejoint les Balayeurs, devient rodeur, puis chasseur de tresor.
 - Transmet toutes ces informations au reporter Madoro pour les rendre publiques.
 
-### Union des Stalkers (Ere 2, 1848-1850) [DIVERGENCE RP]
-- Membre de l'union des Stalkers aux cotes de Lea et Romeo (cote Sweepers, dans la continuite de son parcours). cf. Factions/Les_Stalkers.md.
+### Union des Rodeurs (Ere 2, 1848-1850) [DIVERGENCE RP]
+- Membre de l'union des Rodeurs aux cotes de Lea et Romeo (cote Balayeurs, dans la continuite de son parcours). cf. Factions/Les_Stalkers.md.
 - ROLE PIVOT AU REVEAL (1849) : present quand le masque de Markiona tombe. Il enrage d'abord - et a de bonnes raisons : c'est lui qui a documente les crimes de l'Ordre dont Markiona a directement profite (le meurtre du Colonel Little = exactement ce qui l'a faite maitresse du Zoo - cf. Personnages/Markiona.md).
-  - MAIS Alidoro est le moins impulsif des trois (Lea rage a chaud, Romeo suit par loyaute). En enqueteur, il raisonne vite : la Marionnettiste de la Mort n'aurait JAMAIS aide les Stalkers - meme par calcul, meme pour s'infiltrer. Donc le devouement du duo au peuple est sincere, donc Magnus ne ment pas quand il dit qu'elle a change.
+  - MAIS Alidoro est le moins impulsif des trois (Lea rage a chaud, Romeo suit par loyaute). En enqueteur, il raisonne vite : la Marionnettiste de la Mort n'aurait JAMAIS aide les Rodeurs - meme par calcul, meme pour s'infiltrer. Donc le devouement du duo au peuple est sincere, donc Magnus ne ment pas quand il dit qu'elle a change.
   - C'est ce raisonnement qui amorce le desamorcage de la scene (Lea se reconcilie ensuite au fil des missions). Ironie : l'homme qui a documente ses crimes est le premier a croire a sa redemption, precisement parce qu'il sait ce qu'elle etait. cf. Personnages/Lea_Florence_Monad.md, Magnus.md.
 
 ### Role (suite : DLC et apres)
@@ -67,8 +67,8 @@
 - P : rencontre dans la Zelator Facility ; lui fait confiance en voyant le locket de Monad ; allie de combat.
 - Valentinus Monad (indirectement) : meme camp anti-Simon.
 - Markiona [DIVERGENCE RP - Ere 2] : il a documente les crimes de l'Ordre dont elle a profite (Colonel Little -> maitrise du Zoo). Au reveal, il enrage puis, par raisonnement, valide la sincerite de son changement. cf. Personnages/Markiona.md.
-- Lea Florence Monad, Romeo [DIVERGENCE RP - Ere 2] : co-membres de l'union des Stalkers ; presents avec lui au reveal. cf. Personnages/Lea_Florence_Monad.md, Romeo.md.
-- Magnus [DIVERGENCE RP] : un AMI, pas un simple collegue (cotoye chez les Stalkers, 1849-1850 ; combat le Two-Faced Overseer avec lui et P en 1850). C'est parce qu'il connaissait sa voix que Magnus demasque l'imposteur en 1852. cf. Personnages/Magnus.md.
+- Lea Florence Monad, Romeo [DIVERGENCE RP - Ere 2] : co-membres de l'union des Rodeurs ; presents avec lui au reveal. cf. Personnages/Lea_Florence_Monad.md, Romeo.md.
+- Magnus [DIVERGENCE RP] : un AMI, pas un simple collegue (cotoye chez les Rodeurs, 1849-1850 ; combat le Two-Faced Overseer avec lui et P en 1850). C'est parce qu'il connaissait sa voix que Magnus demasque l'imposteur en 1852. cf. Personnages/Magnus.md.
 
 ### Sort connu
 - Tue par Parrot lors d'une dispute violente apres que Parrot vendit des objets sans accord.
@@ -80,8 +80,8 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | Passe (avant DLC) | Ex-alchimiste ; decouvre les crimes de l'Ordre | Desillusion, fuite de l'Ordre |
-| Avant Frenzy | Rejoint les Sweepers ; devient stalker puis chasseur de tresor ; transmet infos a Madoro | Article banni, en fuite |
-| 1848-1850 (Les Loups) [DIVERGENCE RP] | Membre de l'union des Stalkers ; role pivot au reveal de Markiona (enrage puis desamorce) | Stalker etabli, juge de la sincerite du duo |
+| Avant Frenzy | Rejoint les Balayeurs ; devient rodeur puis chasseur de tresor ; transmet infos a Madoro | Article banni, en fuite |
+| 1848-1850 (Les Loups) [DIVERGENCE RP] | Membre de l'union des Rodeurs ; role pivot au reveal de Markiona (enrage puis desamorce) | Rodeur etabli, juge de la sincerite du duo |
 | Battle of Workshop Tower | Sauve Eugenie lors de l'effondrement ; perd un doigt | Separe de sa soeur |
 | DLC Overture (passee) | Opere comme "the Tracker" ; allie de P [et de Magnus, DIV RP] contre Two-Faced Overseer | Identite secrete maintenue |
 | Post-Tower (base game) | Mort : tue par Parrot dans une dispute | Identite usurpee |
@@ -92,7 +92,7 @@
 
 ### Identite
 - Vrai nom : Parrot.
-- Identite usurpee : celle du vrai Alidoro (stalker/chasseur de tresor renomme).
+- Identite usurpee : celle du vrai Alidoro (rodeur/chasseur de tresor renomme).
 - Nature : humain, ex-partenaire de chasse aux tresors d'Alidoro.
 - Coquilles transcript : "Parrot" (nom exact).
 

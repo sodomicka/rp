@@ -1,6 +1,7 @@
 # Aisle of Alchemists / Arch Abbey
 
-- version : W1
+- version : W2
+- note W2 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Nature
 
@@ -44,7 +45,7 @@
   phase 2. Vaincu par P. Mort de Simon apres le combat. Cf. Personnages/Simon_Manus.md.
 - Post-Simon : la machine est arretee. Geppetto revele son plan (besoin du coeur de P pour faire revivre
   Carlo) et demande a P d'ascender la tour apres avoir vaincu Simon. Cf. SB6.
-- Avant la confrontation : Black Cat (stalker) est present sur le chemin vers Laxasia, demandant des
+- Avant la confrontation : Black Cat (rodeur) est present sur le chemin vers Laxasia, demandant des
   Gold Coin Fruits. Choix de P. Cf. Personnages/Alidoro_et_Parrot.md (contexte freres).
 
 ## Faits canon

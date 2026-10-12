@@ -1,6 +1,7 @@
 # Rose Estate / Monad Charity House
 
-- version : W2
+- version : W3
+- note W3 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Nature
 
@@ -12,12 +13,12 @@
 
 - Fondation et role de la Monad Charity House : la famille Monad (riche et influente) fonde le Monad
   Charity House pour aider les enfants pauvres de la ville. Selon le Guide de la Monad Charity House,
-  les enfants recoivent une education adaptee a leur aptitude et parcours. Trois voies : stalker,
+  les enfants recoivent une education adaptee a leur aptitude et parcours. Trois voies : rodeur,
   alchimiste, ou workshop technician. Cf. SB4, SB3.
 - Enfance de Carlo et Romeo : Carlo est envoye ici par Geppetto apres la mort de Camille (Geppetto trop
   absorbe par son travail pour s'en occuper). Geppetto ne rend jamais visite a Carlo, n'assiste meme pas
   a sa remise de diplome -> Antonia critique Geppetto (neglige ses devoirs de pere). Antonia apprend
-  a Carlo a jouer du piano. Carlo et Romeo se lient d'amitie ici (deux garcons voulant devenir stalkers).
+  a Carlo a jouer du piano. Carlo et Romeo se lient d'amitie ici (deux garcons voulant devenir rodeurs).
   Carlo offre son pendentif de remise de diplome a Romeo. Carlo, Romeo et Lea Florence jouent de la
   musique ensemble. Carlo supplie Lea de lui apprendre l'epee. Cf. Personnages/Carlo.md, SB3.
 - Rosaura a la Rose Estate : Geppetto cree un pantin-ami pour Carlo (Rosaura) car Carlo souhaitait un
@@ -66,10 +67,10 @@
 
 ## Faits canon
 
-- Monad Charity House : fondee par la famille Monad, education en 3 voies (stalker / alchimiste / workshop
+- Monad Charity House : fondee par la famille Monad, education en 3 voies (rodeur / alchimiste / workshop
   technician). Cf. SB4.
 - Carlo envoye ici apres mort de Camille ; Geppetto absent ; Antonia apprend le piano a Carlo. Cf. SB3, SB6.
-- Carlo + Romeo se lient ici ; tous deux aspirent a etre stalkers ; pendentif de diplome offert par Carlo. Cf. SB3.
+- Carlo + Romeo se lient ici ; tous deux aspirent a etre rodeurs ; pendentif de diplome offert par Carlo. Cf. SB3.
 - Rosaura y vit ; joue avec Carlo. Cf. Personnages/Rosaura.md.
 - Arm of God garde pres de Valentinus ici avant transfert a Andreas. Cf. Systemes/Arm_of_God.md, SB6.
 - Simon assaute : Valentinus et Isabelle Monad morts ici. Sophia capturee. Cf. SB6.

@@ -1,6 +1,7 @@
 # Krat
 
-- version : W1
+- version : W2
+- note W2 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Nature
 
@@ -30,17 +31,17 @@
   ont aide les Alchimistes a eliminer des ouvriers de construction dans la Relic of Trismegistus, protegerant
   la valeur secrete de la mine.
 - Monad Charity House : la famille Monad fonde une maison de charite educative pour les enfants pauvres de
-  Krat. Trois voies proposees : stalker, alchimiste, ou workshop technician. Carlo et Romeo y sont eleves.
+  Krat. Trois voies proposees : rodeur, alchimiste, ou workshop technician. Carlo et Romeo y sont eleves.
   Cf. Lieux/Rose_Estate_Monad_Charity_House.md.
 - Declin et chute : mort de Camille (epouse de Geppetto) -> eveil de l'Ego des pantins ->
   experiences alchimiques sur l'Ergo -> Petrification Disease -> faux remedes qui tuent -> Carcasses ;
   schisme Simon/Valentinus ; assaut de Simon sur la Rose Estate, la Monad Charity House et la cathedrale ;
-  Battle of the Workshop Tower (effondrement, shards de Crowd, decimation des stalkers) ; Law Zero de
+  Battle of the Workshop Tower (effondrement, shards de Crowd, decimation des rodeurs) ; Law Zero de
   Geppetto -> Puppet Frenzy declenchee par Romeo -> massacre de la population. Cf. SB3, SB6.
 - Grand Exhibition annule : l'evenement-showcase du futur n'aura jamais lieu, emporte par la maladie.
   C'est durant le DLC Overture (avant cette annulation) que P voyage dans le temps.
 - Etat au debut du base game : ville devastee, pantins devenus hostiles (Frenzy), Carcasses errant dans
-  les rues, stargazers detruits, stalkers quasi disparus, loi et ordre absents.
+  les rues, stargazers detruits, rodeurs quasi disparus, loi et ordre absents.
 
 ## Faits canon
 
@@ -51,14 +52,14 @@
   La famille V impliquee dans l'elimination de temoins de la Relic. Cf. SB3, SB4.
 - Workshop Union (Geppetto + Venigni) : production de masse des pantins ; Lorenzini Venigni = fils de la
   famille Venigni, inventeur du tram et du sous-marin Pistrus des 18 ans. Cf. Personnages/Lorenzini_Venigni.md.
-- Monad Charity House : fondee par la famille Monad, education en 3 voies (stalker / alchimiste / workshop
+- Monad Charity House : fondee par la famille Monad, education en 3 voies (rodeur / alchimiste / workshop
   technician). Carlo et Romeo y grandissent. Cf. Lieux/Rose_Estate_Monad_Charity_House.md.
 - Battle of the Workshop Tower : shards de Crowd eruption -> effondrement de la tour -> nombreux morts,
-  stalkers quasi extermines. Cf. SB3, SB6.
+  rodeurs quasi extermines. Cf. SB3, SB6.
 - Petrification Disease d'origine alchimique (spores d'Ergo manipulees). Faux remedes = Carcasses. Cf. SB1.
 - Puppet Frenzy : declenchee par Law Zero de Geppetto via Romeo. Romeo devient King of Puppets et se rebelle
   contre Geppetto, mais les pantins massacrent la population entre-temps. Cf. SB6, SB5.
-- Stargazers : invention des stalkers, installes dans toute la ville (Sweepers). Au reveil de P, tous
+- Stargazers : invention des rodeurs, installes dans toute la ville (Balayeurs). Au reveil de P, tous
   detruits. Le golden stargazer pres de la cathedrale permet le voyage temporel (DLC). Cf. SB5.
 - Simon Manus utilise une machine dans la tour de l'abbaye pour absorber tout l'Ergo de Krat. Cf. SB4.
 - Qualite de l'Ergo degradee par les experiences alchimiques -> defauts dans les pantins (rapport du
@@ -78,12 +79,12 @@
 - Ergo : fondement economique et energetique. Cf. Systemes/Ergo.md.
 - Alchimistes (l'Ordre) : principaux agents de la transformation et de la chute. Cf. Factions/Les_Alchimistes.md.
 - Workshop Union : producteurs de pantins. Cf. Factions/Workshop_Union.md.
-- Stalkers : protecteurs decimis. Cf. Factions/Les_Stalkers.md.
+- Rodeurs : protecteurs decimis. Cf. Factions/Les_Stalkers.md.
 
 ## Sort connu / Etat
 
 - Base game : Krat est en ruines. Puppet Frenzy active, Carcasses dans les rues, law enforcement absent,
-  stalkers quasi inexistants, stargazers detruits. Population en grande partie morte ou mutee.
+  rodeurs quasi inexistants, stargazers detruits. Population en grande partie morte ou mutee.
 - Post-jeu : etat indetermine selon la fin choisie. Geppetto evoquait vouloir "stabiliser Krat" dans la
   lettre Bad Ending (cf. Personnages/Giuseppe_Geppetto.md). Le sequel (teaser Dorothy) laisse la ville dans
   un etat ouvert. [INCERTAIN] sur la reconstruction.

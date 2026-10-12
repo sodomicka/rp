@@ -1,6 +1,7 @@
 # Venigni Works
 
-- version : W1
+- version : W2
+- note W2 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Nature
 
@@ -24,9 +25,9 @@
   Puppets, Romeo). Entendant les mots de Romeo via les ondes Ergo, Fuoco prend le controle de l'usine
   pour produire davantage de pantins en renfort pour la revolte. Cf. Personnages/Boss_et_Creatures.md.
 - Venigni pris au piege : quand P arrive, Venigni est cache dans l'usine. Il croyait d'abord que P allait
-  le tuer. Il explique que les stalkers (Red Fox et Black Cat) etaient censes travailler pour lui mais
+  le tuer. Il explique que les rodeurs (Red Fox et Black Cat) etaient censes travailler pour lui mais
   l'ont abandonne. Son butler Pulsella est parti barricader la porte arriere et n'est pas revenu.
-- Red Fox et Black Cat : les deux stalkers etaient employes par Venigni. A l'arrivee de P, Red Fox
+- Red Fox et Black Cat : les deux rodeurs etaient employes par Venigni. A l'arrivee de P, Red Fox
   commente que P a traverse l'usine en vie, ce qu'elle trouve impressionnant. Elle mentionne que cela
   beneficie a leur "ancien client" (Venigni). Ils souhaitent bonne chance a P.
 - Combat de Fuoco : Fuoco garde la porte arriere. Boss de la zone (King's Flame). Utilise le feu comme
@@ -48,7 +49,7 @@
 - Rapport degradation Ergo : factory manager de Venigni -> Alchimistes responsables. Cf. SB5.
 - Fuoco prend le controle de l'usine (foi en le King of Puppets, ondes Ergo) pour produire des renforts.
   Cf. Personnages/Boss_et_Creatures.md, SB6.
-- Venigni cache dans l'usine ; stalkers Red Fox + Black Cat l'ont abandonne. Cf. Factions/Les_Stalkers.md.
+- Venigni cache dans l'usine ; rodeurs Red Fox + Black Cat l'ont abandonne. Cf. Factions/Les_Stalkers.md.
 - Butler Pulsella : allait barricader la porte arriere -> n'est pas revenu avant que P nettoie la zone.
 - Fuoco vaincu par P -> Venigni + Pulsella en securite a Hotel Krat. Ergo de Fuoco collecte par Simon. Cf. SB6.
 - Genie de Venigni suscite la jalousie de Geppetto. Cf. SB3, Personnages/Giuseppe_Geppetto.md.
@@ -57,7 +58,7 @@
 
 - Lorenzini Venigni : fondateur, proprietaire, prisonnier. Cf. Personnages/Lorenzini_Venigni.md.
 - Fuoco : boss de la zone, King's Flame. Cf. Personnages/Boss_et_Creatures.md.
-- Red Fox et Black Cat : stalkers employes par Venigni, abandonnent l'usine. Cf. Factions/Les_Stalkers.md.
+- Red Fox et Black Cat : rodeurs employes par Venigni, abandonnent l'usine. Cf. Factions/Les_Stalkers.md.
 - Pulsella : butler de Venigni. Cf. Personnages/PNJ_secondaires.md.
 - Romeo (King of Puppets) : maitre spirituel de Fuoco via les ondes Ergo. Cf. Personnages/Romeo.md.
 - Sous-marin Pistrus : concu dans l'usine sur commande alchimiste. Cf. SB3.

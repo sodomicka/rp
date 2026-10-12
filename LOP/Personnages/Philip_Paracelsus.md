@@ -1,7 +1,7 @@
 # Philip Paracelsus
 
 - version : W2
-- note W2 : forage 5.2 [DIVERGENCE RP]. + Fascination ACCRUE pour Magnus (graine sequel, muette). + Reconnu muettement par Markiona (lien neuf). + Trajectoire 1852.
+- note W2 : forage 5.2 [DIVERGENCE RP]. + Fascination ACCRUE pour Magnus (graine sequel, muette). + Reconnu muettement par Markiona (lien neuf). + Trajectoire 1852. + Francisation VF (Rodeurs, Balayeurs, Batards).
 - Note : Philip Paracelsus est l'identite reelle du personnage connu en jeu sous le nom de Giangio. Les deux noms sont utilises selon le contexte narratif.
 
 ## Identite
@@ -19,7 +19,7 @@
 - Demande a P de le prevenir s'il trouve le fruit.
 - Deuxieme rencontre : pres de City Hall, apres le combat avec le Black Rabbit Brotherhood. Il revele avoir trouve le Gold Coin Tree mais ne pas avoir pu cueillir le fruit : l'arbre a brule sa main. Attribue ca a sa maladie.
 - P peut choisir de lui donner ou non du Gold Coin Fruit ; si P donne le fruit, Giangio peut fournir un "cure" pour Antonia (qui soulage sa douleur mais n'est pas un vrai remede).
-- Interaction avec Red Fox et Black Cat : ils cherchent aussi le Gold Coin Fruit aupres de Giangio (qui en recoit des Alchimistes selon eux, mais jamais assez pour guerir - moyen de maintenir ces deux stalkers a leur service).
+- Interaction avec Red Fox et Black Cat : ils cherchent aussi le Gold Coin Fruit aupres de Giangio (qui en recoit des Alchimistes selon eux, mais jamais assez pour guerir - moyen de maintenir ces deux rodeurs a leur service).
 
 ### Post-credits : la revelation
 - La scene post-credits est declenchee dans l'ending considere comme le meilleur (Real Boy) et probablement d'autres.

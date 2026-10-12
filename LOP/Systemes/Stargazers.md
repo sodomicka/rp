@@ -1,15 +1,16 @@
 # Stargazers
 
-- version : W2
+- version : W3
+- note W3 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Nature
 
-- Dispositifs de teleportation inventes par les stalkers de Krat. Aussi utiles comme zones de securite pendant l'outbreak. Indicateurs d'une boucle temporelle.
+- Dispositifs de teleportation inventes par les rodeurs de Krat. Aussi utiles comme zones de securite pendant l'outbreak. Indicateurs d'une boucle temporelle.
 - Coquilles transcript : "stargazer" (minuscules dans le transcript oral).
 
 ## Description / Histoire
 
-- Invention des stalkers. Les Sweepers (faction stalker issue des ruelles) avaient pour mission d'installer les Stargazers dans toute la ville de Krat.
+- Invention des rodeurs. Les Balayeurs (faction rodeur issue des ruelles) avaient pour mission d'installer les Stargazers dans toute la ville de Krat.
 - Permettent de teleporter entre Stargazers actifs partout dans Krat (mecanique de base du gameplay).
 - Pendant l'outbreak de la Petrification Disease : les Stargazers absorbent les spores d'Ergo de l'air -> zones sures (temporairement) pour les residents.
 - Au reveil de P (debut du base game), tous les Stargazers sont detruits.
@@ -44,7 +45,7 @@
 
 ## Faits canon
 
-- Invention des stalkers ; installation par les Sweepers.
+- Invention des rodeurs ; installation par les Balayeurs.
 - Teleportation entre Stargazers actifs.
 - Absorption des spores d'Ergo -> zones sures temporaires pendant l'outbreak.
 - Tous detruits au reveil de P ; Sophia les alimente depuis son emprisonnement pour les remettre en route.
@@ -55,7 +56,7 @@
 
 ## Liens
 
-- Sweepers : faction qui installe les Stargazers (cf. Factions/Les_Stalkers.md).
+- Balayeurs : faction qui installe les Stargazers (cf. Factions/Les_Stalkers.md).
 - Sophia Monad : alimente les Stargazers (cf. Systemes/Listeners.md et Personnages/Sophia_Monad.md).
 - Stars Chrysalis : cle du voyage temporel (cf. Objets/Objets_et_Reliques.md).
 - Gold Coin Tree : autre element dont l'Hotel Krat cache des secrets (cf. Systemes/Gold_Coin_Tree.md).

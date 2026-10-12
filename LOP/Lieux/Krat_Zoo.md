@@ -1,6 +1,7 @@
 # Krat Zoo
 
-- version : W2
+- version : W3
+- note W3 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Nature
 
@@ -36,7 +37,7 @@
   eternel regne sur le zoo, quelqu'un appele Mariona". Cf. Personnages/Markiona.md.
 - Tyrant Predator : crocodile geant completement envahi par la Petrification Disease. Boss de la zone
   Savannah Experience Center. Vaincu par P. Cf. Personnages/Boss_et_Creatures.md.
-- Savannah Experience Center : section du zoo ; traces de la stalker rousse (Lea Florence) indiquent
+- Savannah Experience Center : section du zoo ; traces de la rodeuse rousse (Lea Florence) indiquent
   qu'elle est passee. Boss Tyrant Predator (crocodile geant petrifie).
 - Greenhouse : batiment adjacent ; P y cherche la cle de la zone carnival.
 - Markiona boss : Markiona interpelle P plusieurs fois (arch puppet : "tu oses troubler ce zoo avec tes
@@ -64,7 +65,7 @@
   C'est a la suite d'une information ici qu'Arlecchino a appris que Lea tenait a Romeo -> plan de
   vengeance. Cf. Personnages/Lea_Florence_Monad.md, Personnages/Arlecchino.md.
 - Homme mourant sur le balcon : un homme au 2e etage balcon pense d'abord que P est "Madam Stalker"
-  (Lea). Il dit que la stalker aux cheveux roux l'a aide a s'echapper. Il avait trouve une piste au
+  (Lea). Il dit que la rodeuse aux cheveux roux l'a aide a s'echapper. Il avait trouve une piste au
   Savannah Experience Center, une prime l'avait aveugle. Il donne a P un "missing person's poster"
   (de Romeo) et meurt.
 - Incendie du zoo (timeline normale) : dans la timeline normale (base game), le zoo a brule. C'est pour

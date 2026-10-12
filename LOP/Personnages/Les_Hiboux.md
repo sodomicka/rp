@@ -1,10 +1,11 @@
 # Les Hiboux
 
-- version : W2
+- version : W3
+- note W3 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 > Le cercle d'Adelina Corde, la chanteuse a la robe rouge : sa soeur Patricia, la Dame Blanche,
 > et son amant le Chouette Medecin. Trois destins lies par le sang, l'amour et une trahison.
-> "Les Hiboux" est une etiquette de cercle (le motif aviaire de leurs masques de Stalkers) - assumee
+> "Les Hiboux" est une etiquette de cercle (le motif aviaire de leurs masques de Rodeurs) - assumee
 > malgre la chouette qui s'y glisse : la Dame Blanche porte un masque de HIBOU (a aigrettes), le
 > Chouette Medecin un masque de CHOUETTE effraie (sans aigrettes). Distinction a tenir absolument.
 
@@ -14,7 +15,7 @@
 
 ### Identite
 - Nom complet : Adelina Corde.
-- Nature : humaine, chanteuse legendaire de Rosa Isabel Street. NB : pas une Stalker - elle est le pivot du cercle, pas une porteuse de masque.
+- Nature : humaine, chanteuse legendaire de Rosa Isabel Street. NB : pas une Rodeuse - elle est le pivot du cercle, pas une porteuse de masque.
 - Surnom / description : "the singer in the red dress" (robe rouge iconique).
 - Atteinte de la Petrification Disease (perd la voix).
 - Coquilles transcript : "Adelina Corde", "Adelina".
@@ -38,7 +39,7 @@
 
 ### Relations
 - Patricia / la Dame Blanche (soeur) : relation de rivalite et haine ; Adelina l'a empoisonnee.
-- le Chouette Medecin / Owl Doctor (amant) : son amant ; combat P comme boss au Barren Swamp ; Stalker.
+- le Chouette Medecin / Owl Doctor (amant) : son amant ; combat P comme boss au Barren Swamp ; Rodeur.
 
 ### Sort connu
 - Meurt de la Petrification Disease dans sa loge de l'Estella Opera House (apres la defaite du King of Puppets ; P retourne dans la loge et la trouve morte).
@@ -50,7 +51,7 @@
 ### Identite
 - Nom : Patricia.
 - Alias : la Dame Blanche ("the White Lady").
-- Nature : humaine, Stalker.
+- Nature : humaine, Rodeuse.
 - Soeur d'Adelina Corde.
 - Coquilles transcript : "Patricia".
 
@@ -61,7 +62,7 @@
 - Arme : rapiere.
 
 ### Role
-- Stalker operant sur Rosa Isabel Street pendant la crise.
+- Rodeuse operant sur Rosa Isabel Street pendant la crise.
 - Convaincue qu'Adelina est morte, tuee par des puppets (elle ignore la survie de sa soeur dans l'opera).
 - Veut venger la mort presumee d'Adelina.
 - P doit la combattre et la tuer pour passer.
@@ -84,7 +85,7 @@
 
 ### Identite
 - Nom/titre : le Chouette Medecin ("the Owl Doctor").
-- Nature : humain, Stalker (categorie dans la source : "we encounter a few more stalkers : the survivor, the white lady, and the owl doctor").
+- Nature : humain, Rodeur (categorie dans la source : "we encounter a few more stalkers : the survivor, the white lady, and the owl doctor").
 - Amant d'Adelina Corde.
 
 ### Masque, tenue et arme

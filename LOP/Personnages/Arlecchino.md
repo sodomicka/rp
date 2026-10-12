@@ -1,6 +1,7 @@
 # Arlecchino
 
-- version : W2
+- version : W3
+- note W3 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Identite
 - Pantin (puppet) a Ego eveille ; serial killer. Aussi designe comme "puppet meurtrier" dans la source.
@@ -34,7 +35,7 @@
 ### Frontiere de l'Ere 2 (1850) [DIVERGENCE RP]
 - A la charniere Ere 2 -> Overture : echappe de la flotte, repare et re-membre (plus dangereux que jamais), Arlecchino rode pres du Zoo de Krat (ancien domaine alchimiste de Markiona) pour preparer sa vengeance contre Lea. Une RUMEUR court - "l'Artiste de sang est de retour".
 - Cette rumeur est un APPAT (deliberement ou de fait) : elle tire Romeo - second de Lea - en reconnaissance SOLO au Zoo. C'est la que Romeo se fait enlever (cf. DLC ci-dessous), declencheur d'Overture.
-- Cadrage de l'union des Stalkers : Arlecchino est l'Ego-pantin dangereux ULTIME - exactement le genre d'eveil que l'union traque, porte a son paroxysme (tier SB8 "tres haut"). cf. Personnages/Romeo.md, Lea_Florence_Monad.md, roadmap Ere 2 (cloture) / Ere 3.
+- Cadrage de l'union des Rodeurs : Arlecchino est l'Ego-pantin dangereux ULTIME - exactement le genre d'eveil que l'union traque, porte a son paroxysme (tier SB8 "tres haut"). cf. Personnages/Romeo.md, Lea_Florence_Monad.md, roadmap Ere 2 (cloture) / Ere 3.
 
 ### DLC Overture : plan de vengeance
 - Kidnappe Romeo (apprenti de Lea) pour attirer Lea dans un piege au Zoo.
@@ -48,7 +49,7 @@
 ### Base game
 - Dans le base game, P peut repondre aux cabines telephoniques et resoudre les devinettes d'Arlecchino -> Trinity Keys -> salles secretes.
 - P peut rencontrer ce qui reste d'Arlecchino a l'Aisle of Alchemists. Leur dialogue revele son histoire complete.
-- Si P porte la tenue de Legendary Stalker de Lea, Arlecchino la reconnait : mentionne ne pas avoir pu completer son Magnum Opus. [INTERPRETATION] Dans la timeline originale, il aurait tue Lea (affaiblie par la maladie) et en aurait fait son oeuvre maitresse ; P a empeche ca.
+- Si P porte la tenue de Rodeuse Legendaire de Lea, Arlecchino la reconnait : mentionne ne pas avoir pu completer son Magnum Opus. [INTERPRETATION] Dans la timeline originale, il aurait tue Lea (affaiblie par la maladie) et en aurait fait son oeuvre maitresse ; P a empeche ca.
 
 ## Capacites
 - Combat melee intense : pantin repare et augmente par les alchimistes avant son transport ; membres nouveaux le rendent encore plus dangereux.

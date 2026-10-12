@@ -1,7 +1,7 @@
 # Markiona
 
 - version : W10
-- note W10 : forages 5.1 et 5.2. Trajectoire et texture des relations sorties en satellites (Markiona_chrono_A, _B, Markiona_relations) ; plafond 20k applique. + Camille mentor (ACTE). + Petrification aggravee. + Tchekhov : elle sait, se tait. + Aveu devant les Carcasses. + Jubilation reformulee.
+- note W10 : forages 5.1 et 5.2. Trajectoire et texture des relations sorties en satellites (Markiona_chrono_A, _B, Markiona_relations) ; plafond 20k applique. + Camille mentor (ACTE). + Petrification aggravee. + Tchekhov : elle sait, se tait. + Aveu devant les Carcasses. + Jubilation reformulee. + Francisation VF (Rodeurs, Balayeurs, Batards).
 
 ## Identite
 - Humaine (transformee / alchimiste de haut rang). Titres : l'Illuminee (the Enlightened One) ; Marionnettiste de la Mort (Puppeteer of Death - sa renommee dans la societe).
@@ -78,7 +78,7 @@
 - Markiona n'est PLUS au Zoo en 1850 : elle est fugitive de l'Ordre depuis 1847 (cf. Markiona_chrono_A). Le Zoo reste sous controle de l'Ordre.
 - P n'affronte PAS Markiona. Le boss du Zoo en 1850 est l'Ange de l'Arc RECONSTRUIT par l'Ordre (cf. typologie, SORT de l'Ange).
 - Le Two-Faced Overseer (boss canon de l'Overture) est [DIVERGENCE RP] SA creation : un chef de labo. En son absence (depuis sa fuite de 1847) et au service de l'Ordre, il est devenu l'instrument de la degenerescence des Listeners en Gold Coin Trees - une horreur qu'elle n'a JAMAIS commandee. Le decouvrir est un palier de son chemin de croix a l'Overture (cf. Markiona_chrono_A ; detail -> roadmap Ere 3). cf. Creatures/Boss_et_Creatures.md, Systemes/Gold_Coin_Tree.md.
-- En 1850, Markiona est aux cotes de Magnus (Stalkers - cf. roadmap Ere 2/3) ; lors des evenements d'Overture, elle est blessee face a Arlecchino dans la melee de la Rose Estate (P + Lea + Magnus + Markiona). Detail -> roadmap Ere 3.
+- En 1850, Markiona est aux cotes de Magnus (Rodeurs - cf. roadmap Ere 2/3) ; lors des evenements d'Overture, elle est blessee face a Arlecchino dans la melee de la Rose Estate (P + Lea + Magnus + Markiona). Detail -> roadmap Ere 3.
 
 ## Capacites
 - Master puppeteer : gantelet de marionnettiste (similaire a celui de Geppetto), permet de se lier a ses Pantins de l'Arc via l'Ergo et de les controler. C'est cet outil qui eveille Magnus.

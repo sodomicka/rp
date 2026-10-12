@@ -1,6 +1,7 @@
 # Zelator Facility
 
-- version : W2
+- version : W3
+- note W3 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Nature
 
@@ -14,7 +15,7 @@
 - Gold Coin Tree en croissance : P et le Tracker observent un Gold Coin Tree que les Alchimistes tentent de cultiver. [THEORIE] : apres la mort de Camille (enceinte), son enfant non ne (porteur de capacites Listener) aurait ete preleve et transforme en Gold Coin Tree ici. Cf. Systemes/Gold_Coin_Tree.md, Systemes/Listeners.md.
 - Paint set de Godard : P peut trouver le paint set de Godard (peintre aveugle) ici. Le rapporter a Godard (gare du tram) lui permet de finir une peinture avant de mourir ; P peut la placer a l'Hotel Krat (timeline affectee). Cf. Personnages/PNJ_secondaires.md.
 - Arrivee de P : P voit d'entree le cadavre d'un alchimiste entoure de petales (passage de Lea Florence). Il combat des sujets d'experience rates et abandonnes, ainsi que des gardes. Il entend par intermittence les cris d'une femme.
-- Veronique boss : Veronique (chef des Sweepers) et son vanguard ont ete attires dans un piege par les Alchimistes. Veronique est infectee ; elle lutte pour conserver son humanite mais la rage la submerge. P la combat (boss). Derniers mots : des excuses ; elle evoque "le lab maudit", l'abomination en dessous (Two-Faced Overseer), demande a P de la tuer et d'aller trouver Lea sur la cote. Elle meurt en coupant le systeme de refroidissement (air glacial libere). Cf. Personnages/Veronique.md, SB6.
+- Veronique boss : Veronique (chef des Balayeurs) et son vanguard ont ete attires dans un piege par les Alchimistes. Veronique est infectee ; elle lutte pour conserver son humanite mais la rage la submerge. P la combat (boss). Derniers mots : des excuses ; elle evoque "le lab maudit", l'abomination en dessous (Two-Faced Overseer), demande a P de la tuer et d'aller trouver Lea sur la cote. Elle meurt en coupant le systeme de refroidissement (air glacial libere). Cf. Personnages/Veronique.md, SB6.
 - Two-Faced Overseer : abomination de la partie profonde. P doit sonner le Daylight-Wreathed Horn pour appeler le Tracker. Combat avec le Tracker. Victoire. Cf. Personnages/Boss_et_Creatures.md.
 - Rencontre avec le Tracker (vrai Alidoro) : garde son identite secrete (protege Eugenie, sa soeur). Hait les Alchimistes, traque l'Arm of God. En montrant le Monad locket trouve au zoo, P le convainc. Le Tracker donne le Daylight-Wreathed Horn, puis dit qu'il se rendra a l'Hotel Krat (le style de combat de P lui rappelle quelqu'un). Cf. Personnages/Alidoro_et_Parrot.md.
 - Acces a la Rose Estate : au fond se trouve normalement un tram souterrain vers la Rose Estate, hors service au moment du DLC. Lumakio (zone suivante) donne a P une cle pour un passage secret vers la cote. Cf. Lieux/Rose_Estate_Monad_Charity_House.md.

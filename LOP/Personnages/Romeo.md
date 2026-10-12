@@ -1,31 +1,32 @@
 # Romeo
 
-- version : W6
+- version : W7
+- note W7 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Identite
 
 - Nom canon : Romeo.
 - Coquilles transcript : aucune (nom stable dans le transcript).
-- Nature initiale : humain. Ami d'enfance de Carlo, tous deux eleves au Monad Charity House. Aspirant stalker.
+- Nature initiale : humain. Ami d'enfance de Carlo, tous deux eleves au Monad Charity House. Aspirant rodeur.
 - Nature transformee : pantin a Ego eveille, "King of Puppets" (roi des pantins), boss majeur de l'acte central du base game.
 - Titre ennemi : King of Puppets (et son predecessor : Romeo sous forme humaine emerge de la machine apres le boss fight principal).
 - Lien familial / sentimental : orphelin (ou fils de famille ordinaire, pas precise). Meilleur ami de Carlo.
 - Age : jeune adulte en 1850 (~16-20 ans). cf. Personnages/Carlo.md (Carlo, du meme age, mort vers 1843).
 - [DIVERGENCE RP] Physique : cheveux blond platine mi-longs, traits fins.
-- [DIVERGENCE RP] Masque de Stalker (Ere 2) : le ROI - AUCUNE couleur d'identite (ni animal ni couleur). cf. Factions/Les_Stalkers.md (convention) ; design detaille dans la section Union des Stalkers.
+- [DIVERGENCE RP] Masque de Rodeur (Ere 2) : le ROI - AUCUNE couleur d'identite (ni animal ni couleur). cf. Factions/Les_Stalkers.md (convention) ; design detaille dans la section Union des Rodeurs.
 
 ## Role
 
 ### Enfance et vie humaine
 
 - Grandit au Monad Charity House en meme temps que Carlo. Les deux garcons sont meilleurs amis.
-- Aspiration commune : devenir stalker (l'une des trois voies proposees par le Charity House).
+- Aspiration commune : devenir rodeur (l'une des trois voies proposees par le Charity House).
 - Carlo lui offre son pendentif de remise de diplome. Romeo le conserve jusqu'a sa mort.
 - Joue de la musique avec Carlo et Lea Florence Monad.
 - Romeo tente de s'entrainner a l'epee ; Carlo supplie Lea de les enseigner tous les deux.
 
-### Union des Stalkers (Ere 2, 1848-1850) [DIVERGENCE RP]
-- Apprenti vedette devenu le SECOND de Lea Florence dans l'union des Stalkers d'avant la chute ; porte un masque de ROI (presage ironique de ce que Geppetto fera de lui - le King of Puppets ; l'ironie vit cote CODEX, pas en prose de jeu). [DIVERGENCE RP] Design : plaque FACIALE de fer rivete, ouverture aux yeux seulement, surmontee d'une COURONNE DE DOIGTS DE PANTIN cloues - couronne par les mains de ceux qu'il commandera, declaration d'intention macabre vissee sur le front. Aucune couleur d'identite (cf. Factions/Les_Stalkers.md).
+### Union des Rodeurs (Ere 2, 1848-1850) [DIVERGENCE RP]
+- Apprenti vedette devenu le SECOND de Lea Florence dans l'union des Rodeurs d'avant la chute ; porte un masque de ROI (presage ironique de ce que Geppetto fera de lui - le King of Puppets ; l'ironie vit cote CODEX, pas en prose de jeu). [DIVERGENCE RP] Design : plaque FACIALE de fer rivete, ouverture aux yeux seulement, surmontee d'une COURONNE DE DOIGTS DE PANTIN cloues - couronne par les mains de ceux qu'il commandera, declaration d'intention macabre vissee sur le front. Aucune couleur d'identite (cf. Factions/Les_Stalkers.md).
 - Participe a l'aide au peuple et a la coordination des trois factions aux cotes de Lea (cf. Factions/Les_Stalkers.md).
 - Noue une amitie avec le duo Loup Noir / Louve Blanche, en particulier avec Magnus (cf. Personnages/Magnus.md).
 - [DIVERGENCE RP - soin] Connait la Petrification (bras gauche) de Lea et lui prodigue soins et soutien au quotidien - binome soignant en miroir exact de Magnus aupres de Markiona. Les deux femmes sont trop fieres pour en parler ; Alidoro fournit les anti-douleurs (canon), Romeo assure le reste. cf. Personnages/Lea_Florence_Monad.md.
@@ -64,10 +65,10 @@
 
 ## Capacites
 
-### Romeo stalker (forme humaine, Ere 2) [DIVERGENCE RP]
+### Romeo rodeur (forme humaine, Ere 2) [DIVERGENCE RP]
 
-- Arme : la FAUX - second de Lea, combattant aguerri de l'union des Stalkers.
-- Apprenti vedette de Lea Florence (la Stalker Legendaire) ; entraine a l'epee dans l'enfance, devenu redoutable au sein de l'union.
+- Arme : la FAUX - second de Lea, combattant aguerri de l'union des Rodeurs.
+- Apprenti vedette de Lea Florence (la Rodeuse Legendaire) ; entraine a l'epee dans l'enfance, devenu redoutable au sein de l'union.
 
 ### Forme King of Puppets (boss)
 
@@ -83,7 +84,7 @@
 
 ## Psychologie
 
-- Enfance : optimiste, ambitieux (veut devenir stalker), loyal (amitie profonde avec Carlo).
+- Enfance : optimiste, ambitieux (veut devenir rodeur), loyal (amitie profonde avec Carlo).
 - [DIVERGENCE RP - Ere 2] Jeune adulte : loyal jusqu'au bout envers Lea (sa mentore) - sa colere au reveal de Markiona est entierement empruntee a celle de Lea ; chaleureux avec le duo, surtout Magnus.
 - Post-transformation (avant prise de conscience) : execute les ordres de Geppetto (tue des humains via la Frenzy) sans comprendre.
 - Post-prise de conscience : rage contre la trahison de Geppetto, deuil de Carlo, determination a proteger les pantins de Krat. Se rebelle activement.
@@ -95,7 +96,7 @@
 
 - Carlo (meilleur ami) : relation d'enfance au coeur de sa psychologie. Romeo porte le pendentif de remise de diplome de Carlo jusqu'a sa mort. L'Ergo de Carlo dans P = "Carlo est encore la d'une certaine maniere". Romeo agit en partie pour Carlo.
 - Pinocchio / P (P porte l'Ergo de Carlo) : Romeo essaie de ne pas combattre P. Lui envoie des messages (les boss). Lui montre l'indice a l'opera. Apres le combat, le remercie.
-- Lea Florence Monad (mentor / figure protectrice) : Romeo est "son apprenti prefere". [DIVERGENCE RP - Ere 2] Son SECOND dans l'union des Stalkers (masque de Roi) ; suit sa colere au reveal par loyaute ; lui prodigue des soins au quotidien pour sa Petrification (bras gauche), qu'elle cache par fierte (binome soignant en miroir de Magnus / Markiona). Arlecchino le kidnappe precisement pour se venger de Lea. Lea tient Romeo mourant dans ses bras a la fin du DLC.
+- Lea Florence Monad (mentor / figure protectrice) : Romeo est "son apprenti prefere". [DIVERGENCE RP - Ere 2] Son SECOND dans l'union des Rodeurs (masque de Roi) ; suit sa colere au reveal par loyaute ; lui prodigue des soins au quotidien pour sa Petrification (bras gauche), qu'elle cache par fierte (binome soignant en miroir de Magnus / Markiona). Arlecchino le kidnappe precisement pour se venger de Lea. Lea tient Romeo mourant dans ses bras a la fin du DLC.
 - Magnus / Markiona [DIVERGENCE RP - Ere 2] : le duo Loup Noir / Louve Blanche ; Romeo se lie d'amitie avec eux (surtout Magnus). cf. Personnages/Magnus.md.
 - Geppetto (manipulateur / createur de la forme pantin) : trahison fondamentale. Romeo le tient pour responsable de la Puppet Frenzy et de son instrumentalisation.
 - Arlecchino (ravisseur DLC) : kidnappe Romeo pour faire souffrir Lea. cf. Personnages/Arlecchino.md.
@@ -112,8 +113,8 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | Enfance | Monad Charity House ; amitie avec Carlo ; don du pendentif de diplome | Humain, ami loyal |
-| Jeunesse | Joue de la musique avec Carlo et Lea ; entrainement stalker | Humain, aspirant stalker |
-| 1848-1850 (Les Loups) [DIVERGENCE RP] | Second de Lea dans l'union des Stalkers (masque de Roi) ; amitie avec le duo ; suit la colere de Lea au reveal | Apprenti -> bras droit de l'union |
+| Jeunesse | Joue de la musique avec Carlo et Lea ; entrainement rodeur | Humain, aspirant rodeur |
+| 1848-1850 (Les Loups) [DIVERGENCE RP] | Second de Lea dans l'union des Rodeurs (masque de Roi) ; amitie avec le duo ; suit la colere de Lea au reveal | Apprenti -> bras droit de l'union |
 | 1850 (frontiere) [DIVERGENCE RP] | Sur la rumeur du retour de "l'Artiste de sang" (Arlecchino) pres du Zoo, part SEUL en reconnaissance - sa derniere erreur | Sur le point d'etre enleve |
 | 1850 (Overture, Ere 3) [DIVERGENCE RP] | Kidnappe par Arlecchino (vengeance contre Lea), mutile en trois "oeuvres" exposees de la foire au domaine Monad ; descendu mourant, veille par Lea. Corps recupere par Geppetto APRES, hors-champ (Ere 4) | Mourant ; au seuil de la transformation |
 | Post-DLC (hors ecran) | Transforme en pantin par Geppetto ; Law Zero ; Puppet Frenzy | King of Puppets |

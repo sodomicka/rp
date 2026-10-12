@@ -1,9 +1,10 @@
 # Lea Florence Monad
 
-- version : W7
+- version : W8
+- note W8 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Identite
-- Humaine ; stalker legendaire de Krat. Titre : Legendary Stalker.
+- Humaine ; rodeuse legendaire de Krat. Titre : Rodeuse Legendaire.
 - Nom complet : Lea Florence Monad.
 - Fille adoptee de Valentinus Monad et Isabelle Monad (adoption a une date non precisee dans la source).
 - Coquilles transcript : "Leia Florence Monad", "Leia", "Leia Florence".
@@ -12,26 +13,26 @@
 - Possede la Rose Sword, epee offerte par Valentinus.
 
 ## Physique et sante
-- [DIVERGENCE RP] Masque de Stalker : heaume dore a haute plume grise, visiere a grille, gravures en spirales (triskeles) - allure romaine / gladiateur (lecture du DESIGN, PAS un titre : son moniker reste "la Stalker Legendaire", sans animal ni couleur). Comme tous les Stalkers de l'union, elle est masquee (cf. Factions/Les_Stalkers.md, convention).
+- [DIVERGENCE RP] Masque de Rodeur : heaume dore a haute plume grise, visiere a grille, gravures en spirales (triskeles) - allure romaine / gladiateur (lecture du DESIGN, PAS un titre : son moniker reste "la Rodeuse Legendaire", sans animal ni couleur). Comme tous les Rodeurs de l'union, elle est masquee (cf. Factions/Les_Stalkers.md, convention).
 - [DIVERGENCE RP] Apparence : cheveux auburn, raie au milieu ; yeux verts ; traits fins ; peau pale. Porte sur la poitrine la Broche Monad ROUGE - celle de Romeo, qu'elle a reprise a la mort de Carlo (1843) -, un insigne en forme de rose au "M" dore, embleme de la maison Monad (a rapprocher de la Rose Sword, de la Rose Estate et de ses calling cards en petales ; a ne pas confondre avec la broche BLEUE que Romeo porte desormais, celle de feu Carlo). cf. Objets/Objets_et_Reliques.md (Broche Monad).
 - Petrification Disease : concentree sur le FLANC GAUCHE. Le bras GAUCHE est severement petrifie - d'ou manches longues et gants en permanence pour le dissimuler ; s'y ajoute une MARQUE de pierre visible sous l'OEIL GAUCHE (le seul foyer qu'elle ne peut pas cacher). Sous anti-douleurs (fournis par le Tracker, canon). Progression LENTE ; la maladie n'est PAS terminale chez elle (c'est le Nameless Puppet qui la tue, pas la pierre - cf. Sort connu).
-- [DIVERGENCE RP] Trop fiere pour en parler : elle l'encaisse en silence (comme Markiona et Veronique - les trois fieres de l'orbite stalker ; motif laisse IMPLICITE en prose). La fierte porte sur le SILENCE, pas sur la dissimulation totale : le bras, elle le cache ; la marque sous l'oeil, elle la porte sans un mot, sans jamais quemander de pitie. Son cercle de soin est restreint : Alidoro fournit la chimie (anti-douleurs), et Romeo - son second - assure le soin au quotidien. Binome soignant en miroir exact de Magnus aupres de Markiona. cf. Personnages/Romeo.md.
+- [DIVERGENCE RP] Trop fiere pour en parler : elle l'encaisse en silence (comme Markiona et Veronique - les trois fieres de l'orbite rodeur ; motif laisse IMPLICITE en prose). La fierte porte sur le SILENCE, pas sur la dissimulation totale : le bras, elle le cache ; la marque sous l'oeil, elle la porte sans un mot, sans jamais quemander de pitie. Son cercle de soin est restreint : Alidoro fournit la chimie (anti-douleurs), et Romeo - son second - assure le soin au quotidien. Binome soignant en miroir exact de Magnus aupres de Markiona. cf. Personnages/Romeo.md.
 - [DIVERGENCE RP] Justification du Legion Arm de P : quand Geppetto preleve la peau de Lea comme matiere premiere de la couche-chair de Pinocchio, le bras gauche petrifie est inutilisable -> P n'a pas de chair au bras gauche et recoit le Legion Arm mecanique a cet endroit. C'est ce qui cale le canon (Legion Arm = bras gauche). cf. Personnages/Pinocchio.md, Personnages/Giuseppe_Geppetto.md.
 
 ## Role
-- Stalker formee au Monad Charity House ; choisit la voie stalker parmi les trois voies proposees.
+- Rodeuse formee au Monad Charity House ; choisit la voie rodeur parmi les trois voies proposees.
 - Rencontre Carlo et Romeo au Charity House ; les trois jouent de la musique ensemble.
 - Carlo la supplie de lui apprendre l'epee ; elle trouve sa persistance agacante plutot qu'attendrissante, dit a Geppetto de s'en debarrasser, puis part pour des raisons evoquees ailleurs dans la source (clash croissant avec Simon, prime officieuse posee par Simon).
 - Retourne au Charity House apres la mort de Carlo de la Petrification Disease ; regrette d'avoir abandonne Carlo.
-- Apres avoir quitte le Charity House, affronte Arlecchino (puppet meurtrier) et le vainc completement : le reduit a un torse sans bras ni jambes (Ergo intact). C'est cet acte qui solidifie sa legende de Legendary Stalker.
+- Apres avoir quitte le Charity House, affronte Arlecchino (puppet meurtrier) et le vainc completement : le reduit a un torse sans bras ni jambes (Ergo intact). C'est cet acte qui solidifie sa legende de Rodeuse Legendaire.
 - Lea possede deux apprentis : Romeo est le survivant a cette periode (l'autre est perdu ou mort selon le contexte).
 
-### Union des Stalkers (Ere 2, 1848-1850) [DIVERGENCE RP]
-- Figure UNIFICATRICE de l'union des Stalkers d'avant la chute (1848-1850), assistee de Romeo (masque de Roi). Coordonne les trois factions internes (Sweepers, Bastards, Assemblee des Lapins Noirs) dans l'aide au peuple. cf. Factions/Les_Stalkers.md.
-- Rencontre le duo masque Loup Noir / Louve Blanche (Magnus / Markiona) qui gravit les echelons cote Sweepers ; une relation de confiance s'etablit.
+### Union des Rodeurs (Ere 2, 1848-1850) [DIVERGENCE RP]
+- Figure UNIFICATRICE de l'union des Rodeurs d'avant la chute (1848-1850), assistee de Romeo (masque de Roi). Coordonne les trois factions internes (Balayeurs, Batards, Assemblee des Lapins Noirs) dans l'aide au peuple. cf. Factions/Les_Stalkers.md.
+- Rencontre le duo masque Loup Noir / Louve Blanche (Magnus / Markiona) qui gravit les echelons cote Balayeurs ; une relation de confiance s'etablit.
 - LE REVEAL (1849) : apres une mission de liberation d'un quartier sous influence alchimiste, le masque blanc de Markiona tombe. Lea reconnait la Marionnettiste de la Mort - une ancienne amie avec qui elle s'etait perdue de vue - et entre dans une rage froide et meurtriere, menacant de la tuer pour les horreurs commises depuis leur brouille (Romeo et Alidoro presents).
   - Magnus s'interpose : il plaide qu'elle a change, qu'il l'a creee, et que c'est LUI qui lui apprend a faire le bien (revelant du meme coup sa propre nature de pantin - cf. Personnages/Magnus.md).
-  - Resolution amorcee par Alidoro, pas par Lea : le Tracker, qui a documente les crimes de l'Ordre dont Markiona a profite, raisonne que la Marionnettiste de la Mort n'aiderait JAMAIS les Stalkers, meme en couverture, donc que Magnus ne ment pas (cf. Personnages/Alidoro_et_Parrot.md).
+  - Resolution amorcee par Alidoro, pas par Lea : le Tracker, qui a documente les crimes de l'Ordre dont Markiona a profite, raisonne que la Marionnettiste de la Mort n'aiderait JAMAIS les Rodeurs, meme en couverture, donc que Magnus ne ment pas (cf. Personnages/Alidoro_et_Parrot.md).
 - RECONCILIATION (1849-1850) : au fil des missions, l'evidence que Markiona a change ramene l'amitie d'antan. Lea finit par apprecier qu'elle se rende utile au peuple. (Prepare le "my sadly not departed friend" du message canon de Lea.)
 
 ### DLC Overture (1850)
@@ -50,7 +51,7 @@
 - La lettre/paroles de Lea a Carlo changent dans la timeline affectee : elle exprime sa gratitude envers Carlo plutot que ses regrets.
 
 ## Capacites
-- Stalker elite : combat melee a l'epee, niveau hors-normes (peut tuer Geppetto facilement meme malade, selon le narrateur).
+- Rodeuse d'elite : combat melee a l'epee, niveau hors-normes (peut tuer Geppetto facilement meme malade, selon le narrateur).
 - Rose Sword : epee signature offerte par Valentinus ; arme de combat principal. [DIVERGENCE RP] Forme : epee COURBE (sabre), garde doree filigranee, fusee et garde rouges. Remise a P en mains propres a la fin d'Overture (cf. Role / DLC). cf. Objets/Objets_et_Reliques.md.
 - Expertise en assassination/tracking (calling cards, petales).
 - Maitrise du travail de terrain (camps, trackers, zones dangereuses).
@@ -68,12 +69,12 @@
 - Valentinus Monad : pere adoptif ; lui offre la Rose Sword. Elle lui ecrit une lettre de pardon (trahison sentimentale de sa part, douleur du Monad path, fierte pour ses apprentis). Cf. Personnages/Valentinus_Monad.md.
 - Sophia Monad : soeur adoptive. Cf. Personnages/Sophia_Monad.md.
 - Carlo : enfant du Monad Charity House ; la supplie de lui apprendre l'epee ; meurt pendant son absence. Elle regrette de l'avoir abandonne.
-- Romeo : apprenti stalker vedette ; [DIVERGENCE RP - Ere 2] son second dans l'union des Stalkers (masque de Roi) ; son binome soignant - il prend soin de sa Petrification (bras gauche) au quotidien, elle qui est trop fiere pour en parler. Elle cherche Romeo enleve par Arlecchino tout au long du DLC. Cf. Personnages/Romeo.md.
+- Romeo : apprenti rodeur vedette ; [DIVERGENCE RP - Ere 2] son second dans l'union des Rodeurs (masque de Roi) ; son binome soignant - il prend soin de sa Petrification (bras gauche) au quotidien, elle qui est trop fiere pour en parler. Elle cherche Romeo enleve par Arlecchino tout au long du DLC. Cf. Personnages/Romeo.md.
 - Simon Manus : adversaire ; prime officieuse posee par Simon sur sa tete -> sa disparition. Cf. Personnages/Simon_Manus.md.
 - Arlecchino : ennemi jure ; l'a vaincu dans le passe (lui a retire bras et jambes) ; Arlecchino prend sa revanche via le kidnapping de Romeo. Combat final du DLC.
 - Markiona : ancienne amie BROUILLEE ("my sadly not departed friend" dans son message canon). [DIVERGENCE RP - Ere 2] Les deux s'etaient perdues de vue ; au reveal (1849), Lea reconnait la Louve Blanche, enrage et menace de la tuer pour ses horreurs passees, puis - convaincue par la logique d'Alidoro et l'utilite reelle de Markiona aupres du peuple - se reconcilie au fil des missions. cf. Personnages/Markiona.md.
 - Geppetto : relation complexe - lui dit de se debarrasser de Carlo (puis le regrette). Geppetto utilise le Nameless Puppet pour tuer Lea et recuperer le corps de Romeo. [DIVERGENCE RP] Il preleve aussi sa peau, matiere premiere de la couche chair de P ; le bras gauche petrifie est inutilisable, d'ou le Legion Arm gauche de P (cf. Physique et sante, Personnages/Pinocchio.md, Giuseppe_Geppetto.md).
-- Le Tracker (Alidoro) : lui a fourni des anti-douleurs pour supporter la maladie ; connait sa situation et son emplacement. [DIVERGENCE RP - Ere 2] Membre de l'union des Stalkers a ses cotes ; present au reveal, c'est lui qui desamorce la scene. Cote soin, il fournit la chimie ; le quotidien revient a Romeo. cf. Personnages/Alidoro_et_Parrot.md, Romeo.md.
+- Le Tracker (Alidoro) : lui a fourni des anti-douleurs pour supporter la maladie ; connait sa situation et son emplacement. [DIVERGENCE RP - Ere 2] Membre de l'union des Rodeurs a ses cotes ; present au reveal, c'est lui qui desamorce la scene. Cote soin, il fournit la chimie ; le quotidien revient a Romeo. cf. Personnages/Alidoro_et_Parrot.md, Romeo.md.
 - Magnus [DIVERGENCE RP - Ere 2] : le Loup Noir, pantin a Ego du duo ; s'interpose pour defendre Markiona au reveal et revele sa propre nature. cf. Personnages/Magnus.md.
 - Klaus (marchand) : Lea l'a sauve au zoo et amene a l'hotel ; Klaus confirme a P que Lea cherchait son apprenti dans un laboratoire.
 
@@ -89,10 +90,10 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | Enfance (adoptee) | Adoptee par Valentinus et Isabelle Monad | Lea -> membre de la famille Monad |
-| Monad Charity House | Rencontre Carlo et Romeo ; joue de la musique ; Carlo supplie de lui apprendre l'epee ; Lea part | Lea -> stalker en formation/activite, depart du Charity House |
-| Post-Charity House | Affronte et detruit Arlecchino (torse sans membres) ; legende solidifiee | Lea -> Legendary Stalker reconnue |
+| Monad Charity House | Rencontre Carlo et Romeo ; joue de la musique ; Carlo supplie de lui apprendre l'epee ; Lea part | Lea -> rodeuse en formation/activite, depart du Charity House |
+| Post-Charity House | Affronte et detruit Arlecchino (torse sans membres) ; legende solidifiee | Lea -> Rodeuse Legendaire reconnue |
 | Pre-schisme | Clashes croissants avec Simon ; prime officieuse posee sur elle par Simon ; lettre a Valentinus | Lea -> cible de Simon, disparition officielle |
-| 1848-1850 (Les Loups) [DIVERGENCE RP] | Figure unificatrice de l'union des Stalkers, assistee de Romeo ; rencontre et confiance avec le duo Loup Noir/Louve Blanche | Lea -> cheffe de l'union pre-Frenzy |
+| 1848-1850 (Les Loups) [DIVERGENCE RP] | Figure unificatrice de l'union des Rodeurs, assistee de Romeo ; rencontre et confiance avec le duo Loup Noir/Louve Blanche | Lea -> cheffe de l'union pre-Frenzy |
 | 1849 (reveal) [DIVERGENCE RP] | Le masque de Markiona tombe ; rage, menace de mort ; Magnus s'interpose ; Alidoro desamorce | Amie trahie -> en froid arme |
 | 1849-1850 (reconciliation) [DIVERGENCE RP] | Au fil des missions, l'amitie d'antan reprend : Markiona a change | Reconciliee |
 | 1850 (Overture, Ere 3) [DIVERGENCE RP] | Malade (bras), sous anti-douleurs ; cherche Romeo enleve par Arlecchino ; parcours zoo -> Zelator -> cote -> Rose Estate. En chemin : abat Veronique (rendue folle par la neurotoxine de Lumacchio) et acheve Lumacchio (traitre de Simon, tourne carcasse) | En mission de sauvetage ; premieres pertes |

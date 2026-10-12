@@ -1,13 +1,13 @@
 # Aurus
 
 - version : W2
-- note W2 : forages 5.1 et 5.2 [DIVERGENCE RP]. Aurus devient un refuge pour les Rodeurs epargnes par le duo (l'Ane fou, la Redemptee).
+- note W2 : forages 5.1 et 5.2 [DIVERGENCE RP]. Aurus devient un refuge pour les Rodeurs epargnes par le duo (l'Ane fou, la Redemptee). + Francisation VF (Rodeurs, Balayeurs, Batards).
 - STATUT : quartier [DIVERGENCE RP] - n'existe pas dans le jeu. Canon local du RP (decision worldbuilder). Quartier de Krat invente pour servir de planque au duo Magnus / Markiona a l'Ere 1. cf. chronologie Magnus, Personnages/Magnus.md, Personnages/Markiona.md.
 
 ## Nature
 - Quartier pauvre et populaire de Krat, d'ascendance pecheuse - vestige de la vieille Krat cotiere d'avant l'Ergo (cf. SB3 : Krat, ancienne ville cotiere pauvre devenue metropole).
 - Marche en plein air sur la place centrale, le dimanche.
-- Terrain des Sweepers (les ruelles, "we always repay what is owed", le peuple des quartiers pauvres) : c'est par eux et par ce quartier que Magnus voudra rejoindre les Stalkers (cf. Ere 2). [DIVERGENCE RP]
+- Terrain des Balayeurs (les ruelles, "we always repay what is owed", le peuple des quartiers pauvres) : c'est par eux et par ce quartier que Magnus voudra rejoindre les Rodeurs (cf. Ere 2). [DIVERGENCE RP]
 - Note de nommage : "Aurus" (proche de aurum, l'or) pour le plus pauvre des quartiers - ironie assumee.
 
 ## Le havre souterrain (planque du duo) [DIVERGENCE RP]
@@ -37,7 +37,7 @@
 ## Liens
 - Magnus / Markiona : occupants du havre. cf. Personnages/Magnus.md, Personnages/Markiona.md.
 - L'Ane fou, la Redemptee [DIVERGENCE RP - 1852] : refugies. cf. Personnages/PNJ_secondaires.md.
-- Sweepers : faction tutelaire du quartier ; porte d'entree vers les Stalkers (Ere 2). cf. Factions/Les_Stalkers.md.
+- Balayeurs : faction tutelaire du quartier ; porte d'entree vers les Rodeurs (Ere 2). cf. Factions/Les_Stalkers.md.
 - Krat : ville-cadre, ascendance cotiere pauvre. cf. Lieux/Krat.md, SB3.
 
 ---

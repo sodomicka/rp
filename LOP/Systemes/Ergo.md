@@ -1,6 +1,7 @@
 # Ergo
 
-- version : W1
+- version : W2
+- note W2 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Nature
 
@@ -11,7 +12,7 @@
 
 - A la mort d'un humain, l'Ergo quitte naturellement le corps et "ascende" (monte). Lorsqu'il est piege dans le mineral Crowd, il se cristallise au lieu d'ascender.
 - Le Crowd est un mineral inorganique decouvert ~600 ans avant le jeu dans le gouffre (Relic of Trismegistus) sous Krat. La Relic = immense mine d'Ergo (cf. CANON_EXTRAIT_LOP.md, chronologie).
-- Les Alchimistes (apres l'excavation par les stalkers/pionniers) prennent le controle de la Relic et fournissent l'Ergo a Krat.
+- Les Alchimistes (apres l'excavation par les rodeurs/pionniers) prennent le controle de la Relic et fournissent l'Ergo a Krat.
 - Krat passe du charbon a l'Ergo comme source d'energie principale. Les mines de charbon ferment -> deviennent le Barren Swamp.
 - L'Ergo = aussi monnaie de Krat (fournie par les Alchimistes).
 - Les pantins sont alimentes par l'Ergo et y "puisent" quand ils se deplacent.

@@ -7,8 +7,8 @@
 - regime RP/OC : depuis B4, la couche RP (OC, divergences assumees) est tissee INLINE dans les SB, balisee [DIVERGENCE RP], par-dessus le socle canon. Le canon pur reste la base ; la divergence se greffe, jamais ne la masque.
 - date reelle de derniere mise a jour : 2026-10-11
 - note B6 : (1) retrait de l'apparat coquilles transcript ; suppression de _Table_Noms_Canon.md ; SB9.5 ne renvoie plus a la table. (2) francisation des noms anglais selon la loc FR officielle, propagee a tout le wiki + roadmaps (noms propres et noms de fichiers inchanges).
-- note B7 : integration du duo Claudia Volfe (la Renarde Rousse) / Lucio Volfe (le Chat Noir) en SB7. Personnages canon (Red Fox / Black Cat) desormais dotes d'une fiche commune dediee (Personnages/Claudia_et_Lucio.md) ; le detail (filiation Volfe legitime/batard, double-jeu Bastards/Sweepers, regle du coeur pur pour le Fruit d'Or, trajectoire jusqu'en 1851) vit dans la fiche.
-- note B8 : BIBLE BUILD de cloture des forages 5.1 et 5.2 (dettes I14 soldees). (1) SB3, SB4 : Workshop Union -> Parlement des Artisans (SB4 uniformise avec SB3) ; Venigni Works -> Fabrique Artisanale Venigni. (2) SB0 mis aux normes S8 : raw_base et parties_raw_base stockes, fetch en raw par defaut, inventaire des pages rattachees. (3) SB5 : [DIVERGENCE RP] entree de P a l'Hotel Krat sans mensonge (Humanity System). (4) Coquilles (SB2, SB6).
+- note B7 : integration du duo Claudia Volfe (la Renarde Rousse) / Lucio Volfe (le Chat Noir) en SB7. Personnages canon (Red Fox / Black Cat) desormais dotes d'une fiche commune dediee (Personnages/Claudia_et_Lucio.md) ; le detail (filiation Volfe legitime/batard, double-jeu Batards/Sweepers, regle du coeur pur pour le Fruit d'Or, trajectoire jusqu'en 1851) vit dans la fiche.
+- note B8 : BIBLE BUILD de cloture des forages 5.1 et 5.2 (dettes I14 soldees). (1) SB3, SB4 : Workshop Union -> Parlement des Artisans (SB4 uniformise avec SB3) ; Venigni Works -> Fabrique Artisanale Venigni. (2) SB0 mis aux normes S8 : raw_base et parties_raw_base stockes, fetch en raw par defaut, inventaire des pages rattachees. (3) SB5 : [DIVERGENCE RP] entree de P a l'Hotel Krat sans mensonge (Humanity System). (4) Coquilles (SB2, SB6). (5) Francisation VF (decision worldbuilder) : RODEURS (VO : Stalkers), BATARDS (VO : Bastards), BALAYEURS (VO : Sweepers) en SB4.
 
 > Cette BIBLE est la couche de fondation (Passe 0) de la couche canon LOP. Elle pose le socle partage
 > par toutes les fiches noyau (Passe 1). Un fait = un seul emplacement canonique ; les fiches renvoient
@@ -36,7 +36,7 @@
   - Personnages - fiches noyau des personnages, canon et OC (Magnus), et satellites de Magnus et Markiona (chrono, relations) (35 pages)
   - Creatures - boss et creatures notables, fiche groupee (1 page)
   - Lieux - Krat et ses lieux, dont Aurus [DIVERGENCE RP] (12 pages)
-  - Factions - Alchimistes, Stalkers, Confrerie des Lapins Noirs, Parlement des Artisans (4 pages)
+  - Factions - Alchimistes, Rodeurs, Confrerie des Lapins Noirs, Parlement des Artisans (4 pages)
   - Systemes - Ergo, Grand Covenant, Petrification, Frenesie, Listeners, etc. (11 pages)
   - Objets - objets et reliques, fiche groupee (1 page)
   - Roadmap/Magnus/ - roadmaps par ere, non indexees au Sommaire : sources de build, jamais fetchees en narration
@@ -73,9 +73,9 @@
 
 - ALCHEMISTS (l'Ordre) : mystiques, medecins et scientifiques, quete de la vie eternelle. Fondateur Valentinus Monad. Bases a l'Abbaye de l'Arche, Allee des Alchimistes (terre etrangere, ile = lieu le + efficace au monde pour les ondes d'Ergo). Scission : Simon Manus prend le controle, excommunie/elimine les loyaux a Valentinus.
 - PARLEMENT DES ARTISANS (VO : Workshop Union) : techniciens horlogers, menes par Geppetto, allies a la famille Venigni et a sa Fabrique Artisanale Venigni (VO : Venigni Works). Fabriquent les pantins. NB : Geppetto pratique l'alchimie par methode/necessite mais n'est PAS membre de l'Ordre (cf. Giuseppe_Geppetto.md).
-- STALKERS : protecteurs/chasseurs de Krat, deux factions :
-  - BASTARDS (nobles familles, motto "honor or nothing", menes par Lumacchio, gardes des Alchimistes).
-  - SWEEPERS (issus des ruelles, motto "we always repay what is owed", menes par Veronique, installaient les Stargazers).
+- RODEURS (VO : Stalkers) : protecteurs/chasseurs de Krat, deux factions :
+  - BATARDS (VO : Bastards ; nobles familles, motto "honor or nothing", menes par Lumacchio, gardes des Alchimistes).
+  - BALAYEURS (VO : Sweepers ; issus des ruelles, motto "we always repay what is owed", menes par Veronique, installaient les Stargazers).
   Decimes a la Bataille de la Tour des Artisans ; survivants devenus fous, criminels ou allies des Alchimistes.
 - BLACK RABBIT BROTHERHOOD : gang de rodeurs survivants ; extorsion/protection ; voleurs de corps pour les Alchimistes (extraction d'Ergo). Probablement issu du systeme de "choix de voie" de la Maison de Charite Monad.
 - MONAD FAMILY : famille riche et influente ; fonde la Maison de Charite Monad (education des enfants pauvres selon 3 voies : rodeur, alchimiste, workshop technician).
@@ -120,7 +120,7 @@
 - Markiona / Lumacchio / Veronique : pivots DLC. cf. fiches dediees.
 - Philip Paracelsus (= Giangio) : alchimiste cache, fil du sequel. cf. Personnages/Philip_Paracelsus.md
 - Alidoro / Parrot : le Tracker / faux Alidoro. cf. Personnages/Alidoro_et_Parrot.md
-- Claudia Volfe (la Renarde Rousse) / Lucio Volfe (le Chat Noir) : demi-fratrie de rodeurs (le Renard et le Chat de Collodi) ; bases canon + [DIVERGENCE RP] (double-jeu Bastards/Sweepers, regle du coeur pur pour le Fruit d'Or). cf. Personnages/Claudia_et_Lucio.md
+- Claudia Volfe (la Renarde Rousse) / Lucio Volfe (le Chat Noir) : demi-fratrie de rodeurs (le Renard et le Chat de Collodi) ; bases canon + [DIVERGENCE RP] (double-jeu Batards/Sweepers, regle du coeur pur pour le Fruit d'Or). cf. Personnages/Claudia_et_Lucio.md
 - [DIVERGENCE RP] Magnus (OC) : pantin parfait de Markiona, Ego inne et vierge (ne d'un Ergo pur). cf. Personnages/Magnus.md
 - [DIVERGENCE RP] Miroir createur/creature (Geppetto/P vs Markiona/Magnus ; le deuil comme moteur). cf. Systemes/Genies_et_Chef_D_Oeuvres.md
 

@@ -1,6 +1,7 @@
 # Les Alchimistes
 
-- version : W2
+- version : W3
+- note W3 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Nature
 
@@ -14,7 +15,7 @@
 - Premiere implantation a Krat : Moonlight Town (communaute de fideles, point bas de la ville ou les pelerins se preparent avant d'ascender vers la cathedrale). Les Alchimistes aident a transformer ce quartier.
 - Decouvrent que la Relic of Trismegistus sous l'Hotel Krat est une immense mine d'Ergo ; prennent le controle de la mine, fournissent l'Ergo comme source d'energie et monnaie de Krat.
 - Collaborent avec le Workshop Union (Geppetto + famille Venigni) pour la production de masse des pantins alimentes par l'Ergo.
-- La famille Monad (tres riche et influente) fonde le Monad Charity House pour eduquer les enfants pauvres selon trois voies : stalker, alchimiste, ou workshop technician. Source probable d'origine du Black Rabbit Brotherhood.
+- La famille Monad (tres riche et influente) fonde le Monad Charity House pour eduquer les enfants pauvres selon trois voies : rodeur, alchimiste, ou workshop technician. Source probable d'origine du Black Rabbit Brotherhood.
 - Experimentent sur les corps de pantins jetes au Barren Swamp et sur l'Ergo -> decouvrent les effets des spores d'Ergo sur les humains. Leurs faux "remedes" de la Petrification Disease causent en realite une mort douloureuse -> creation de nombreux Carcasses.
 - Utilisent le Black Rabbit Brotherhood pour voler des corps et en extraire l'Ergo.
 - Simon Manus construit une machine dans la tour de l'abbaye destinee a absorber tout l'Ergo de Krat (visible pendant le jeu quand P tue des ennemis : l'Ergo est collecte a distance).
@@ -22,10 +23,10 @@
 
 ### La famille Monad
 
-- Valentinus Monad : fondateur, marie a Isabelle, pere de Sophia. A adopte Lea Florence (future Legendary Stalker).
+- Valentinus Monad : fondateur, marie a Isabelle, pere de Sophia. A adopte Lea Florence (future Rodeuse Legendaire).
 - Isabelle Monad : epouse de Valentinus.
 - Sophia Monad : fille de Valentinus et Isabelle, Listener (capacite heritee de sa mere Isabelle).
-- Lea Florence Monad : stalker legendaire, adoptee par Valentinus.
+- Lea Florence Monad : la Rodeuse Legendaire, adoptee par Valentinus.
 - Luca : protege direct de Valentinus ; tente neuf fois d'inculper Simon Manus pour ses agissements.
 
 ### Theologie alchimique (cf. SB2)
@@ -49,8 +50,8 @@
 - "Archon fleet incident" : flotte de l'Archon rentrant a l'Aisle ; Simon planifie d'eliminer tous ses opposants loyaux a Valentinus. Lettre paniquee d'un membre de la flotte decrivant ce plan de nettoyage.
 - Alchimistes corrompent Archbishop Andreas avec une grosse donation en echange de terres (~30 ans avant le jeu).
 - Alchimistes accusent des crimes : meurtre du Colonel Little, disparition de taxidermistes via le zoo, ensevelissement vivant d'un mineur humain avec un pantin dans un tunnel (decouverte des ruines anciennes), meurtre du gardien du phare Columbo (vole des biens de l'Ordre).
-- La famille Wolf (Red Fox = Claudia est une bastard stalker de cette maison) finance la construction des labs alchimiques. La famille V aide a eliminer des ouvriers de construction dans la Relic of Trismegistus (valeur de la mine).
-- Elixir = arme de manipulation : promesse de recompense a Lumacchio (chef des Bastards) -> en realite infection -> transformation en abomination.
+- La famille Wolf (Red Fox = Claudia est une rodeuse Batarde de cette maison) finance la construction des labs alchimiques. La famille V aide a eliminer des ouvriers de construction dans la Relic of Trismegistus (valeur de la mine).
+- Elixir = arme de manipulation : promesse de recompense a Lumacchio (chef des Batards) -> en realite infection -> transformation en abomination.
 
 ### Pistrus books et excommunication de Valentinus
 

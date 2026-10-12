@@ -1,6 +1,7 @@
 # Puppet Frenzy
 
-- version : W1
+- version : W2
+- note W2 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
 
 ## Nature
 
@@ -45,7 +46,7 @@
 ### Consequences de la Frenzy
 
 - Massacres dans toute la ville de Krat.
-- Les stalkers, envoyes pour proteger les habitants, sont decimes (Battle of the Workshop Tower).
+- Les rodeurs, envoyes pour proteger les habitants, sont decimes (Battle of the Workshop Tower).
 - Plus de law enforcement (entierement automatise par des pantins desormais frenetiques).
 - Contexte dans lequel P est eveille par Sophia pour aider a contenir la situation.
 
@@ -75,7 +76,7 @@
 - Geppetto : commanditaire de la Frenzy (cf. Personnages/Giuseppe_Geppetto.md).
 - Romeo / King of Puppets : executeur malgre lui, puis rebelle (cf. Personnages/Romeo.md).
 - Ergo Wavelength Decoder : outil qui revele la nature des messagers (cf. Objets/Objets_et_Reliques.md).
-- Stalkers : decimes pendant la Frenzy (cf. Factions/Les_Stalkers.md).
+- Rodeurs : decimes pendant la Frenzy (cf. Factions/Les_Stalkers.md).
 - Petrification Disease : fleau simultane (cf. Systemes/Petrification_Disease.md).
 
 ## Sort connu / Etat

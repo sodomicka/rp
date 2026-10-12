@@ -1,16 +1,16 @@
 # Claudia et Lucio
 
 - version : W3
-- note W3 : numerotation des eres alignee sur la Chronologie (Frenesie = Ere 4 ; base game = Ere 5). + Passage a la Fabrique Artisanale Venigni (5.2) : discussion entre Rodeurs, Markiona prudente, depart vers le District Malum.
+- note W3 : numerotation des eres alignee sur la Chronologie (Frenesie = Ere 4 ; base game = Ere 5). + Passage a la Fabrique Artisanale Venigni (5.2) : discussion entre Rodeurs, Markiona prudente, depart vers le District Malum. + Francisation VF (Rodeurs, Balayeurs, Batards).
 
 > Le Renard et le Chat de Collodi, refondus en demi-fratrie : Claudia la legitime, flamboyante,
-> bras droit chez les Bastards ; Lucio le batard, efface, simple rodeur Sweeper. Chacun infiltre
+> bras droit chez les Batards ; Lucio le batard, efface, simple rodeur Balayeur. Chacun infiltre
 > dans le camp rival de l'autre, ils n'ont jamais joue que pour eux - le monde entier est un terrain
 > de chasse, sauf l'autre. L'"exact negatif" est dans le sang autant que dans la silhouette.
 >
-> NB de lecture - "Bastards" est le nom d'une FACTION de rodeurs (les nobles) ; "batard" est une
-> filiation. Lucio est un batard (filiation) qui n'est PAS chez les Bastards (faction) : il est
-> rodeur Sweeper, et il cache son illegitimite. Claudia, la legitime, est chez les Bastards. L'ironie est voulue.
+> NB de lecture - "Batards" (majuscule) est le nom d'une FACTION de rodeurs (les nobles) ; "batard" (minuscule) est une
+> filiation. Lucio est un batard (filiation) qui n'est PAS chez les Batards (faction) : il est
+> rodeur Balayeur, et il cache son illegitimite. Claudia, la legitime, est chez les Batards. L'ironie est voulue.
 
 ---
 
@@ -21,7 +21,7 @@
 - Alias : la Renarde Rousse (etiquette de routage canon : Red Fox).
 - Nature : humaine, rodeuse.
 - Filiation : fille LEGITIME de la maison Volfe (vieille famille noble qui finance la construction des labos alchimiques - les installations Zelator sous l'Hotel Krat). Demi-soeur de Lucio. [DIVERGENCE RP : le canon ne precise pas sa legitimite ; rien ne s'y oppose.]
-- Faction : les Bastards (rodeurs issus des nobles familles - cf. Factions/Les_Stalkers.md). NB : "Bastards" est ici un nom de faction, sans rapport avec une batardise - Claudia est la legitime de la fratrie.
+- Faction : les Batards (rodeurs issus des nobles familles - cf. Factions/Les_Stalkers.md). NB : "Batards" est ici un nom de faction, sans rapport avec une batardise - Claudia est la legitime de la fratrie.
 
 ### Masque, tenue et arme
 - Masque de renard en cuivre (volutes dorees au front, museau allonge, oreilles dressees) ; couleur d'identite : roux-orange. cf. Factions/Les_Stalkers.md (grille).
@@ -29,9 +29,9 @@
 - Arme : rapiere raffinee (duelliste).
 
 ### Role (Ere 2, 1848-1850)
-- Membre importante des Bastards, bras droit de Lumacchio (leader charismatique et pro-Simon de la faction). [DIVERGENCE RP]
+- Membre importante des Batards, bras droit de Lumacchio (leader charismatique et pro-Simon de la faction). [DIVERGENCE RP]
 - Sous les projecteurs : elle assume et affiche ses origines nobles.
-- Volet cache : elle alimente en secret son demi-frere Lucio, infiltre chez les Sweepers rivaux, en informations des Bastards - et recoit les siennes en retour. Le duo joue les deux camps l'un contre l'autre, pour eux seuls. [DIVERGENCE RP, compatible canon]
+- Volet cache : elle alimente en secret son demi-frere Lucio, infiltre chez les Balayeurs rivaux, en informations des Batards - et recoit les siennes en retour. Le duo joue les deux camps l'un contre l'autre, pour eux seuls. [DIVERGENCE RP, compatible canon]
 
 ### Psychologie
 - Fiere, flamboyante, joueuse. Elle assume le rang que son frere doit cacher.
@@ -40,7 +40,7 @@
 
 ### Relations
 - Lucio Volfe / le Chat Noir : demi-frere, unique loyaute (cf. sections 2 et 3).
-- Lumacchio : son chef chez les Bastards ; mentor pro-Alchimistes (cf. Personnages/Lumacchio.md).
+- Lumacchio : son chef chez les Batards ; mentor pro-Alchimistes (cf. Personnages/Lumacchio.md).
 - Maison Volfe : sa famille (cf. Factions/Les_Stalkers.md, Maison Volfe).
 
 ### Sort connu / Etat (a fin Ere 4, printemps 1852)
@@ -55,8 +55,8 @@
 - Nom complet : Lucio Volfe. [Nom deduit du canon : la Renarde lache "Lucio" apres avoir vaincu le joueur ; credits du jeu = "Lucio the Cat" (voix Islam Bouakkaz).]
 - Alias : le Chat Noir (etiquette de routage canon : Black Cat).
 - Nature : humain, rodeur.
-- Filiation : fils BATARD de la maison Volfe (canon : bulletin de la section des Sweepers, "believed to be the bastard son of the Volfe family"). Demi-frere de Claudia.
-- Faction : les Sweepers (rodeurs issus des ruelles) - encore apprenti. NB : batard par le sang, il n'est PAS chez les Bastards mais chez leurs rivaux ; il cache son illegitimite.
+- Filiation : fils BATARD de la maison Volfe (canon : bulletin de la section des Balayeurs, "believed to be the bastard son of the Volfe family"). Demi-frere de Claudia.
+- Faction : les Balayeurs (rodeurs issus des ruelles) - encore apprenti. NB : batard par le sang, il n'est PAS chez les Batards mais chez leurs rivaux ; il cache son illegitimite.
 
 ### Masque, tenue et arme
 - Demi-masque de chat (moitie metal de recup cuivre verdi, rivete et grossierement cousu) ; couleur d'identite : noir. cf. Factions/Les_Stalkers.md (grille).
@@ -64,9 +64,9 @@
 - Arme : City Longspear - lance de fortune, lame forgee d'une cloture brisee, manche taille dans un poteau de signalisation dont les marques de lieu se sont effacees. "Arme du peuple" (canon ; l'artiste Bastian la disait representer la ville de Krat).
 
 ### Role (Ere 2, 1848-1850)
-- Rodeur de bas rang chez les Sweepers, encore apprenti. Efface : il cache son illegitimite, donc il disparait dans l'ombre - l'inverse exact de sa soeur.
+- Rodeur de bas rang chez les Balayeurs, encore apprenti. Efface : il cache son illegitimite, donc il disparait dans l'ombre - l'inverse exact de sa soeur.
 - Indiscipline : signale plusieurs fois pour avoir ignore les rangs et neglige son devoir (canon).
-- Espion de fait pour le camp de sa soeur : il refile aux Bastards (via Claudia) les informations des Sweepers. Le bulletin de la section des Sweepers note qu'ils sont en contact depuis un an, le soupconne d'etre un espion des Bastards, et mentionne un interrogatoire prevu juste avant la Frenesie (issue inconnue - cf. section 4). [canon, valide par le double-jeu RP]
+- Espion de fait pour le camp de sa soeur : il refile aux Batards (via Claudia) les informations des Balayeurs. Le bulletin de la section des Balayeurs note qu'ils sont en contact depuis un an, le soupconne d'etre un espion des Batards, et mentionne un interrogatoire prevu juste avant la Frenesie (issue inconnue - cf. section 4). [canon, valide par le double-jeu RP]
 
 ### Psychologie
 - Efface, insaisissable, indiscipline. Le contraire exact du panache de sa soeur.
@@ -78,7 +78,7 @@
 
 ### Relations
 - Claudia Volfe / la Renarde Rousse : demi-soeur, unique loyaute (cf. sections 1 et 3).
-- Les Sweepers : sa faction de couverture (cf. Factions/Les_Stalkers.md).
+- Les Balayeurs : sa faction de couverture (cf. Factions/Les_Stalkers.md).
 - Maison Volfe : sa famille (par batardise).
 
 ### Sort connu / Etat (a fin Ere 4, printemps 1852)
@@ -91,7 +91,7 @@
 
 - References directes au Renard et au Chat de Collodi : duo d'arnaqueurs inseparables.
 - Loyaute mutuelle et EXCLUSIVE : ils n'ont jamais joue que pour eux. Le monde entier est un terrain de chasse ; l'autre est la seule exception.
-- Asymetrie fondatrice (filiation + posture) : elle legitime / lui batard, elle exposee / lui cache, elle Bastards / lui Sweepers. L'"exact negatif" visuel redouble une opposition de sang et de statut.
+- Asymetrie fondatrice (filiation + posture) : elle legitime / lui batard, elle exposee / lui cache, elle Batards / lui Balayeurs. L'"exact negatif" visuel redouble une opposition de sang et de statut.
 - Marque commune du binome : grelots dores a cordon rouge (lui a la taille, elle au revers) - signe d'appartenance au duo.
 - [DIVERGENCE RP] Motif transversal du denuement-recup : la City Longspear de Lucio, bricolee dans les ruines de Krat, porte cote Chat le motif de faction du denuement (cf. Factions/Les_Stalkers.md).
 
@@ -112,8 +112,8 @@
 
 | Date / ere | Evenement | Delta d'etat |
 |---|---|---|
-| Ere 2 (1848-1850) | Claudia bras droit de Lumacchio (Bastards) ; Lucio rodeur Sweeper de l'ombre ; double-jeu inter-factions | Duo etabli, infiltre |
-| ~1850 (fin Ere 2) | Lucio soupconne d'espionnage par les Sweepers ; interrogatoire prevu avant la Frenesie (issue inconnue) | Filet qui se resserre |
+| Ere 2 (1848-1850) | Claudia bras droit de Lumacchio (Batards) ; Lucio rodeur Balayeur de l'ombre ; double-jeu inter-factions | Duo etabli, infiltre |
+| ~1850 (fin Ere 2) | Lucio soupconne d'espionnage par les Balayeurs ; interrogatoire prevu avant la Frenesie (issue inconnue) | Filet qui se resserre |
 | Des 1850 | La vue de Lucio commence a baisser (Maladie de Petrification oculaire naissante) | Tchekhov pose |
 | Ere 4 (1851) | Absents de la Bataille de la Tour des Artisans ; survivent a la decimation des rodeurs | Survivants |
 | 1852 (5.2, Fabrique Artisanale Venigni) [DIV RP] | Croisent P, Magnus et Markiona ; discussion entre Rodeurs ; filent vers le District Malum | En route vers Malum |
