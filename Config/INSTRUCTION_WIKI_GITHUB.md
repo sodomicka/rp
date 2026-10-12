@@ -45,4 +45,12 @@ for seg in html.split('\"rawLines\":')[1:]:
 ```
 Echec reel de toutes les methodes : signaler selon S5. Si c'est l'environnement qui bloque et non le depot, le DIRE : le worldbuilder doit savoir que le MJ est aveugle sur une partie du depot.
 
+### 8bis. Écriture sur le dépôt
+1. Le MJ écrit lui-même sur le dépôt ; le worldbuilder n'uploade rien à la main.
+2. Rien ne s'écrit sans avoir été montré et approuvé (§1).
+3. Tout passe par une branche et une pull request, une par thread, jamais de push direct sur main.
+4. Un nouveau thread ne lit que main : une PR non fusionnée n'existe pas pour lui.
+5. Échec d'écriture : [ECRITURE ECHOUEE — <fichier>], signalé au worldbuilder, jamais contourné.
+6. Fusion : le MJ fusionne lui-même la PR sur main en fin de thread, une fois tout validé.
+
 FIN_INSTRUCTION_WIKI_GITHUB
