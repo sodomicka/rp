@@ -1,6 +1,7 @@
 # PNJ Secondaires
 
-- version : W6
+- version : W7
+- note W7 : forage 5.3 [DIVERGENCE RP]. Julian : la réponse de Magnus. + Rétro : l'Âne fou et la Rédemptée ne voient en P qu'un Rôdeur au bras de métal.
 - note W6 : forages 5.1 et 5.2. Âne fou : rôle 1852 fixé (épargné au Pont des Alchimistes, réfugié à Aurus). La Rédemptée : Balayeuse confirmée, épargnée au funiculaire, ralliée à Aurus. + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 > Fiche groupée. Chaque entité = un bloc indépendant.
@@ -38,6 +39,7 @@
 - Demande à P de retrouver l'anneau de mariage de Melody sur son corps.
 - Choix de P après la récupération : mentir (Melody lui a laissé un message d'amour) ou dire la vérité (les pantins ne peuvent pas aimer un humain).
 - Sa question ("Puppets capable of love?") est l'un des moments-clés du gameplay de l'humanité de P. Illustre le thème : frontière entre pantin et humain.
+- [DIVERGENCE RP - 1852 (5.3)] À la question "les pantins peuvent-ils aimer ?", c'est Magnus qui répond, par une preuve d'amour directe et tangible. D'abord la rapière "Parfaite" et son inscription signée "M." ; Julian n'y voit qu'une arme offerte à un énième automate de combat. Puis Markiona est prise d'une violente quinte de toux : Magnus laisse tout tomber, conversation comprise, pour lui porter secours, inquiet. Julian voit plus que l'amour : l'inquiétude d'un fils qui aime sincèrement. Quand Magnus revient, Julian se dit apaisé, convaincu. cf. Personnages/Magnus.md.
 
 ### Sort connu
 - Julian : sort après la sous-intrigue non spécifié. Melody : morte.
@@ -66,6 +68,7 @@
 ### Sort connu
 - Meurt en combattant P si P dit la vérité. Sort dans les autres cas non spécifié.
 - [DIVERGENCE RP - 1852] Vaincue au funiculaire puis ÉPARGNÉE (même schéma que l'Âne fou). Elle rallie Aurus, le havre du duo : elle sait que le Loup Noir (Magnus) et la Louve Blanche (Markiona) étaient respectés parmi les Rôdeurs, et leur fait confiance. [À FIXER] Articulation avec son lien à la cathédrale (pourquoi elle bascule). cf. Roadmap_05_2_La_Ville_Malade, Lieux/Aurus.md.
+- [DIVERGENCE RP] Elle ne voit en P qu'un Rôdeur au bras de métal, ni Carlo ni Léa.
 
 ---
 
@@ -84,6 +87,7 @@
 ### [DIVERGENCE RP]
 - Repositionné en ALLIÉ de Magnus (Magnus étant lui-même Rôdeur). De ce fait, retiré de Creatures/Boss_et_Creatures.md (plus de pointeur) et rapatrié ici.
 - Rôle 1852 (5.1, Pont des Alchimistes) : il menace Geppetto coincé dans sa calèche. P s'élance pour protéger son père ; Magnus s'interpose, croise le fer avec P pour l'arrêter, puis convainc l'Âne d'épargner Geppetto. L'Âne refuse l'Hôtel Krat (anti-hôtel) mais accepte Aurus comme refuge.
+- [DIVERGENCE RP] Il ne voit en P qu'un Rôdeur au bras de métal, ni Carlo ni Léa.
 - cf. Personnages/Magnus.md, Personnages/Markiona.md, Factions/Les_Stalkers.md.
 
 ### Sort connu

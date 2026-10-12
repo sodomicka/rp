@@ -1,6 +1,7 @@
 # Maladie de Pétrification
 
-- version : W2
+- version : W3
+- note W3 : forage 5.3 [DIVERGENCE RP]. Fruit d'Or : remède de Giangio recalé sur le canon (il enraye sans réparer) [CANON SUPPOSÉ] ; ersatz des Alchimistes ; Lucio.
 - note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
@@ -38,14 +39,14 @@
 - Les Alchimistes distribuent des "remèdes" qui sont en réalité soit une accélération de la maladie, soit des instruments d'infection/transformation.
 - Andreas distribue le "remède" alchimique en croyant "purifier l'hérésie" -- il est lui-même victime de la manipulation.
 - L'élixir donné à Lumacchio comme "récompense" par les Alchimistes = en réalité un vecteur d'infection -> Lumacchio transformé en abomination.
-- Le Fruit d'Or (cf. Systemes/Gold_Coin_Tree.md) = seule substance qui soulage réellement la douleur (mais ne guérit pas). Antonia meurt paisiblement grâce au Fruit d'Or.
+- Le Fruit d'Or (cf. Systemes/Gold_Coin_Tree.md) = seul vrai recours : Giangio en tire un remède qui enraye la propagation sans réparer les dégâts (il ne guérit pas) [CANON SUPPOSÉ]. Antonia meurt paisiblement grâce à ce remède. [DIVERGENCE RP] Les Alchimistes n'en ont jamais eu de vrai : des promesses et un ersatz.
 - Giangio (Paracelsus) cherche le Fruit d'Or en prétendant avoir la maladie (prétexte pour obtenir les fruits et accéder aux Oreilles).
 
 ### Personnes touchées (liste source)
 
-- Antonia : propriétaire de l'Hôtel Krat. Écailles sur le visage. Meurt paisiblement avec Fruit d'Or.
+- Antonia : propriétaire de l'Hôtel Krat. Écailles sur le visage. Meurt paisiblement grâce au remède tiré du Fruit d'Or ; sans lui, plus tôt [CANON SUPPOSÉ].
 - Adelina Corde : perd la voix. Succombe en fin de jeu.
-- Chat Noir : perd la vue progressivement. Les Alchimistes lui donnent juste assez de Fruit d'Or pour le maintenir comme employé.
+- Chat Noir (Lucio) : perd la vue progressivement. Canon : les Alchimistes lui donnent juste assez de Fruit d'Or pour le maintenir comme employé. [DIVERGENCE RP] Ils n'en ont jamais eu de vrai : des promesses et un ersatz, d'où le "jamais assez". En 5.3, Magnus lui cueille un vrai fruit ([À FIXER] remise). cf. Personnages/Claudia_et_Lucio.md.
 - Véronique : infectée délibérément par les Alchimistes via les Zelator labs (DLC). Transformée en boss, meurt.
 - Léa Florence Monad : atteinte de la maladie au moment du DLC. Souffre intensément.
 - Romeo : atteint de la maladie au moment de sa transformation en pantin (Geppetto le transforme alors qu'il mourait de la Maladie de Pétrification).
@@ -58,7 +59,7 @@
 
 - Cause : spores d'Ergo issues des expérimentations alchimiques (SB1).
 - Les "cures" officiels sont faux et aggravent la situation.
-- Seul soulagement réel confirmé : Fruit d'Or (cf. Systemes/Gold_Coin_Tree.md).
+- Seul vrai recours confirmé : le remède tiré du Fruit d'Or, qui enraye la propagation sans réparer les dégâts [CANON SUPPOSÉ] (cf. Systemes/Gold_Coin_Tree.md).
 - La maladie et la Frénésie des Pantins frappent simultanément -> double catastrophe.
 - Dégradation de l'Ergo causée par les Alchimistes = lien direct (Lorenzini le confirme via rapport du factory manager).
 - Carlos meurt de la maladie à la Maison de Charité Monad -- fait moteur de toute l'intrigue.
@@ -67,7 +68,7 @@
 
 - Ergo : source de la maladie via la dégradation des spores (cf. Systemes/Ergo.md).
 - Alchimistes : responsables de la propagation (cf. Factions/Les_Alchimistes.md).
-- Arbre à Fruits d'Or / Fruit d'Or : seul soulagement partiel (cf. Systemes/Gold_Coin_Tree.md).
+- Arbre à Fruits d'Or / Fruit d'Or : seul vrai recours, partiel (cf. Systemes/Gold_Coin_Tree.md).
 - Frénésie des Pantins : fléau simultané (cf. Systemes/Puppet_Frenzy.md).
 - Archbishop Andreas : victime et vecteur involontaire (cf. Personnages/Archbishop_Andreas.md).
 

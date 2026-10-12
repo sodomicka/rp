@@ -1,6 +1,7 @@
 # Philip Paracelsus
 
-- version : W2
+- version : W3
+- note W3 : forage 5.3 [DIVERGENCE RP]. Second contact recalé sur le canon (jardins à l'arrière de l'Hôtel Krat, par l'ascenseur de l'Hôtel de Ville du District Malum) ; remède d'Antonia ; règle du coeur pur ; ersatz des Alchimistes ; il regarde Magnus approcher l'arbre.
 - note W2 : forage 5.2 [DIVERGENCE RP]. + Fascination ACCRUE pour Magnus (graine sequel, muette). + Reconnu muettement par Markiona (lien neuf). + Trajectoire 1852. + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 - Note : Philip Paracelsus est l'identité réelle du personnage connu en jeu sous le nom de Giangio. Les deux noms sont utilisés selon le contexte narratif.
 
@@ -17,9 +18,9 @@
 - Première rencontre : extérieur de la Cathédrale St Frangelico. Giangio est légèrement terrifi ; au premier instant, il croit que P est membre de "l'organisation" (alchimistes ou entité interne non nommée) et le supplie de ne pas le tuer.
 - Déclare être malade de la Maladie de Pétrification et rechercher le Fruit d'Or comme remède.
 - Demande à P de le prévenir s'il trouve le fruit.
-- Deuxième rencontre : près de l'Hôtel de Ville, après le combat avec la Confrérie des Lapins Noirs. Il révèle avoir trouvé l'Arbre à Fruits d'Or mais ne pas avoir pu cueillir le fruit : l'arbre a brûlé sa main. Attribue ça à sa maladie.
-- P peut choisir de lui donner ou non du Fruit d'Or ; si P donne le fruit, Giangio peut fournir un "cure" pour Antonia (qui soulage sa douleur mais n'est pas un vrai remède).
-- Interaction avec Renarde Rousse et Chat Noir : ils cherchent aussi le Fruit d'Or auprès de Giangio (qui en reçoit des Alchimistes selon eux, mais jamais assez pour guérir - moyen de maintenir ces deux rôdeurs à leur service).
+- Deuxième rencontre : après le combat avec la Confrérie des Lapins Noirs, dans les jardins à l'arrière de l'Hôtel Krat, où mène l'ascenseur de l'Hôtel de Ville du District Malum. Il révèle avoir trouvé l'Arbre à Fruits d'Or mais ne pas avoir pu cueillir le fruit : l'arbre a brûlé sa main. Attribue ça à sa maladie.
+- P peut choisir de lui donner ou non un Fruit d'Or ; s'il le donne, Giangio en tire un remède pour Antonia, qui enraye la propagation sans réparer les dégâts [CANON SUPPOSÉ]. [DIVERGENCE RP - 1852 (5.3)] P lui cueille l'un des deux seuls fruits de l'arbre ; Giangio promet le remède.
+- Canon : interaction avec Renarde Rousse et Chat Noir : ils cherchent aussi le Fruit d'Or auprès de Giangio (qui en reçoit des Alchimistes selon eux, mais jamais assez pour guérir - moyen de maintenir ces deux rôdeurs à leur service). [DIVERGENCE RP] Les Alchimistes n'en ont jamais eu de vrai : des promesses et un ersatz, d'où le "jamais assez". Pour un vrai fruit, Claudia dépend de Magnus et de P.
 
 ### Post-credits : la révélation
 - La scène post-credits est déclenchée dans l'ending considéré comme le meilleur (Real Boy) et probablement d'autres.
@@ -38,6 +39,7 @@
 - Parle de P comme "becoming a brother" (frère dans une fraternité ou expérimentation commune).
 - Son arme spéciale : l'oeil d'Ouroboros (Ura Baros eye dans le transcript). Arme liée au symbole de l'Ordre des Alchimistes (ouroboros = serpent se mordant la queue, cycle d'éternité).
 - [INTERPRÉTATION] L'Arbre à Fruits d'Or (dans les jardins de l'Hôtel Krat) aurait brûlé sa main parce que l'arbre posséderait un pouvoir divin capable de sentir les mauvaises intentions de Paracelsus - raison pour laquelle il avait besoin de P pour cueillir le fruit à sa place.
+- [DIVERGENCE RP] Règle du coeur pur : quiconque peut approcher l'arbre, mais seul un coeur pur peut cueillir ; dans tout le monde, seuls P et Magnus le peuvent. cf. Systemes/Gold_Coin_Tree.md.
 
 ## Théories du narrateur
 
@@ -84,6 +86,7 @@
 - Curieux et théoricien : qualifie P de "nouveau type d'humanité", voit le succès de l'expérience de Krat comme preuve.
 - Prépare l'avenir : Dorothy = prochaine clé, prochaine expérience, continuité du projet.
 - [DIVERGENCE RP - 1852] À St Frangelico, voir Magnus déjà accompli le fascine PLUS que P seul : un pantin de chair parfait, "nouveau type d'humanité" plus pur encore. Il le cache. Graine sequel : fil ouvert, à ne pas détoner avant arbitrage du worldbuilder.
+- [DIVERGENCE RP - 1852 (5.3)] Dans les jardins de l'Hôtel Krat, il regarde Magnus approcher l'arbre et cueillir : fascination muette.
 
 ## Relations
 - Valentinus Monad : [THÉORIE] possible second right-hand man ; lien direct évoqué mais non certifié.
@@ -91,10 +94,10 @@
 - Simon Manus : alchimiste que Paracelsus a observé et dont les expériences (notamment Laxasia) valident sa propre vision de l'évolution.
 - Sister Adriana / Laxasia : sa transformation = "grand pas vers l'évolution" selon Paracelsus. Cf. Personnages/Laxasia.md.
 - Pinocchio (P) : sujet d'observation tout au long du jeu ; "experiment de Krat" ; "nouveau type d'humanité" ; potentiellement invité à devenir "frère" (brother).
-- Antonia : P peut lui obtenir un Fruit d'Or via Giangio contre un remède (soulagement de la douleur, pas cure).
-- Renarde Rousse + Chat Noir : dépendent de lui pour le Fruit d'Or ; il les tient à sa merci via cette dépendance.
+- Antonia : du Fruit d'Or que P lui cueille, Giangio tire le remède d'Antonia (il enraye la propagation sans réparer les dégâts [CANON SUPPOSÉ]).
+- Renarde Rousse + Chat Noir : au canon, dépendent de lui pour le Fruit d'Or ; il les tient à sa merci via cette dépendance. [DIVERGENCE RP] Pour un vrai fruit, Claudia dépend de Magnus et de P. cf. Personnages/Claudia_et_Lucio.md.
 - Dorothy : prochaine "clé", sujet du sequel présumé.
-- Magnus [DIVERGENCE RP - 1852] : objet d'une fascination accrue, tue (graine sequel). cf. Personnages/Magnus.md.
+- Magnus [DIVERGENCE RP - 1852] : objet d'une fascination accrue, tue (graine sequel). cf. Personnages/Magnus.md. [1852 (5.3)] Il le regarde approcher l'arbre et cueillir.
 - Markiona [DIVERGENCE RP - 1852] : elle le reconnaît sous Giangio et comprend à son regard qu'il n'a plus d'allégeance aux Alchimistes ; elle se tait. Lien muet entre deux anciens de l'Ordre. cf. Personnages/Markiona_relations.md.
 
 ## Sort connu
@@ -110,7 +113,7 @@
 | Pré-jeu | Se déguise en Giangio, survivant terrifi à Krat ; positionné près de la Cathédrale | Giangio -> persona d'infiltration établie |
 | Base game - premier contact | Rencontre P à la Cathédrale ; demande le Fruit d'Or ; "presque laisse échapper" son affiliation | Giangio -> établit sa relation utilitaire avec P |
 | 1852 (5.2, St Frangelico) [DIV RP] | Croise P, Magnus et Markiona ; fasciné par Magnus ; reconnu par Markiona, qui se tait | Graine sequel posée, muette |
-| Base game - second contact | Annonce ne pas avoir pu cueillir le fruit (arbre lui brûle la main) ; obtient le fruit via P | Giangio -> dépendant de P, observation continue |
+| 1852 (5.3, jardins de l'Hôtel Krat) [DIV RP] | Second contact (canon) : l'arbre lui a brûlé la main ; P lui cueille un fruit, il promet le remède d'Antonia ; il regarde Magnus approcher l'arbre et cueillir | Giangio -> dépendant de P ; fascination accrue, muette |
 | Base game - fond | Observe P tout au long du jeu ; tire des conclusions sur l'Ergo et la vie éternelle | Paracelsus -> analyste en temps réel |
 | Post-credits | Dans un train ; parle à une femme ; bilan de l'expérience Krat ; P = nouveau type d'humanité ; prochaine clé = Dorothy | Paracelsus -> architecte d'un projet global, sequel annoncé |
 

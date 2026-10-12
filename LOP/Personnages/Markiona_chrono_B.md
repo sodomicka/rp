@@ -1,6 +1,7 @@
 # Markiona - Chronologie B (Ère 5, 1852+)
 
-- version : W1
+- version : W2
+- note W2 : forage 5.3 [DIVERGENCE RP]. Lignes 5.3 ; ligne "Suite" recalée sur 5.4-5.6.
 
 Satellite de Personnages/Markiona, suite de Personnages/Markiona_chrono_A. Trajectoire datée de l'Ère 5 (base game), une ligne par événement, alimentée partie par partie après chaque roadmap (Roadmap_05_<k>). Override par Parties/ en cas de divergence d'une partie jouée.
 
@@ -16,7 +17,16 @@ Satellite de Personnages/Markiona, suite de Personnages/Markiona_chrono_A. Traje
 | 1852 (5.2, Village Clair-de-Lune) | Devant les Carcasses, ADMET ses horreurs (contraste avec le "je ne regrette rien" de 1850), tout en maintenant que son passé entier fut nécessaire pour concevoir son fils | Palier de rachat : l'aveu |
 | 1852 (5.2, Cathédrale St Frangelico) | Reconnaît Giangio = Paracelsus ; comprend à son regard qu'il n'a plus d'allégeance aux Alchimistes ; se tait. Le faux Alidoro démasqué lui confirme la mort du vrai | Lien muet avec Paracelsus |
 | 1852 (5.2, autel) | Jubile à la chute d'Andreas : son fils, le pantin parfait, dépasse l'apogée de l'alchimie en terrassant le faux ange. Puis quinte plus sévère que jamais : crache du sang et une poudre de cristaux bleue (Ergo cristallisé pulmonaire) | Aggravation marquée ; mort réservée |
-| Suite (Ère 5) | Fin de la Pétrification + détonation du cristal de Camille (en réserve) -> roadmaps 5.3 à 5.6 | Terminale ; dénouement réservé |
+| 1852 (5.3, District Malum) | Accepte la route proposée par la Renarde Rousse, sur ses gardes | Méfiante |
+| 1852 (5.3, cour de l'Hôtel de Ville de Malum) | Devant l'Aîné, ne bride plus Magnus : en 1851 il voulait se venger, cette fois il protège | Inversion nuancée |
+| 1852 (5.3, Hôtel de Ville de Malum) | Reconnaît Carlo sur le portrait volé ; se tait | Silence tenu |
+| 1852 (5.3, jardins de l'Hôtel Krat) | Terrifiée de voir qu'une Oreille peut dégénérer à ce point ; tente de cueillir et se brûle (coeur non pur). Deux fruits seulement : elle se désiste et demande à son fils de penser d'abord aux autres Rôdeurs | Traitement retardé, par choix |
+| 1852 (5.3, Hôtel Krat, le soir) | Soignée par Magnus (absorption des cristaux), P pour seul témoin ; lui dit pourquoi elle ne l'a pas retenu cette fois | Déclin aggravé malgré les soins |
+| 1852 (5.3, hub) | Sait que le Roi des Pantins est Romeo ; se tait et suit | Tchekhov à son comble |
+| 1852 (5.3, Aurus, veille de l'Opéra) | Remarque les tensions entre ses invités, que Magnus ne voit pas. Soins ; la nuit, dans son lit (P resté à l'Hôtel Krat), le garde contre elle plus longtemps que d'habitude. À son "je serais perdu sans vous", angoissée par l'après, elle répond comme simplement flattée. Feint le sommeil (rythme cardiaque ralenti), puis travaille à l'extracteur derrière le rideau de l'atelier. Magnus la rejoint ; elle esquive sans mentir : "C'est un projet pour plus tard. Cependant, ce n'est qu'un prototype loin d'être fonctionnel. Mais c'est mon projet, je le réalise seule, ne t'en préoccupe pas." | Prototype toujours secret ; peur de le laisser seul |
+| 1852 (5.3, Rue Rosa Isabel) | Violente quinte de toux devant Julian : Magnus laisse tout tomber pour la secourir ; Julian y voit l'inquiétude d'un fils qui aime sincèrement | Déclin visible ; pudeur gardée |
+| 1852 (5.3, Opéra Estella) | Devant Romeo, se contente de fermer les yeux : seul Romeo voit ce geste. Derrière la scène, sait ce que Geppetto a fait de lui | Tchekhov intact ; décharge en 5.4 |
+| Suite (Ère 5) | Fin de la Pétrification + détonation du cristal de Camille (en réserve) -> roadmaps 5.4 à 5.6 | Terminale ; dénouement réservé |
 
 ---
 

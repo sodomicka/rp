@@ -1,6 +1,7 @@
 # Romeo
 
-- version : W7
+- version : W8
+- note W8 : forage 5.3 [DIVERGENCE RP]. Fin de Romeo réécrite : Magnus le reconnaît et l'étreint ; Romeo voit Léa dans la chair de P ; les yeux fermés de Markiona ; suicide. + Plus d'Arlecchino en 1852 (décision worldbuilder).
 - note W7 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Identité
@@ -31,7 +32,7 @@
 - Noue une amitié avec le duo Loup Noir / Louve Blanche, en particulier avec Magnus (cf. Personnages/Magnus.md).
 - [DIVERGENCE RP - soin] Connaît la Pétrification (bras gauche) de Léa et lui prodigue soins et soutien au quotidien - binôme soignant en miroir exact de Magnus auprès de Markiona. Les deux femmes sont trop fières pour en parler ; Alidoro fournit les anti-douleurs (canon), Romeo assure le reste. cf. Personnages/Lea_Florence_Monad.md.
 - AU REVEAL (1849) : quand le masque de Markiona tombe et que Léa enrage, Romeo SUIT sa colère - non par contentieux personnel (il ne connaît pas Markiona), mais par LOYAUTÉ : Léa lui a raconté qui elle était. Il se range derrière sa cheffe. (Le désamorçage vient d'Alidoro, puis de la réconciliation de Léa ; cf. Personnages/Lea_Florence_Monad.md, Alidoro_et_Parrot.md.)
-- FRONTIÈRE DE L'ÈRE (1850) [DIVERGENCE RP] : une rumeur court - "l'Artiste de sang" (le moniker 1850 d'Arlecchino, pas encore le "Roi des Énigmes" de 1852) serait de retour, rôdant près du Zoo. C'est l'Ego-pantin dangereux ULTIME, et surtout un APPÂT. Romeo part SEUL en reconnaissance au Zoo (ancien domaine de Markiona, terrain alchimiste de longue date) : la dernière erreur de sa vie. C'est cette sortie qui le mène à son enlèvement par Arlecchino -> déclencheur d'Overture (cf. DLC ci-dessous, roadmap Ère 3). cf. Personnages/Arlecchino.md.
+- FRONTIÈRE DE L'ÈRE (1850) [DIVERGENCE RP] : une rumeur court - "l'Artiste de sang" (le moniker 1850 d'Arlecchino) serait de retour, rôdant près du Zoo. C'est l'Ego-pantin dangereux ULTIME, et surtout un APPÂT. Romeo part SEUL en reconnaissance au Zoo (ancien domaine de Markiona, terrain alchimiste de longue date) : la dernière erreur de sa vie. C'est cette sortie qui le mène à son enlèvement par Arlecchino -> déclencheur d'Overture (cf. DLC ci-dessous, roadmap Ère 3). cf. Personnages/Arlecchino.md.
 
 ### Maladie et transformation
 
@@ -51,7 +52,7 @@
 - Romeo envoie des "messagers" à P = les boss que P combat (Maître du Défilé, Veilleur Désarticulé, Fuoco...). P ne comprend pas les messages (langue des ondes Ergo) avant d'obtenir le décodeur d'onde Ergo de Venigni.
 - Romeo tend la main à P dans leur confrontation (ne veut pas se battre) : il sait que P contient l'Ergo de Carlo ("son meilleur ami est en quelque sorte en vie dans ce pantin").
 - Message de Romeo décrypté via le décodeur d'onde Ergo : "Carlo, je suis Romeo. On a grandi ensemble à la Maison de Charité Monad. Tu te souviens ? On est meilleurs amis. Je fais de mon mieux pour combattre la Maladie de Pétrification et les alchimistes. C'est pourquoi j'ai essayé de t'envoyer des messagers. Mais tu les as tous éliminés. Tu es toujours aussi inarrêtable. Je me souviens de toi. Aucune raison de se battre."
-- Après le combat, Romeo remercie P de lui avoir donné la liberté.
+- Canon : après le combat, Romeo remercie P de lui avoir donné la liberté. [DIVERGENCE RP - 1852] Remplacé par sa fin en 5.3 (cf. Sort connu).
 - Absence de Romeo visible à l'hôtel (poster de missing person, DLC) : le man mourant au balcon du zoo le signale comme disparu.
 
 ### DLC Overture
@@ -80,7 +81,7 @@
 ### Romeo en forme humaine (phase 2 du boss fight)
 
 - Émerge de la machine après la défaite de la forme Roi des Pantins.
-- Combat P ; après la défaite, remercie P.
+- Canon : combat P ; après la défaite, remercie P. [DIVERGENCE RP - 1852] Pas de combat : Magnus le reconnaît au visage, cesse de se battre et l'étreint (cf. Sort connu).
 
 ## Psychologie
 
@@ -90,14 +91,15 @@
 - Post-prise de conscience : rage contre la trahison de Geppetto, deuil de Carlo, détermination à protéger les pantins de Krat. Se rebelle activement.
 - Compassion préservée : ne veut pas combattre P malgré tout (l'Ergo de Carlo en P lui importe).
 - Message à P = un acte de réunion, pas d'hostilité. Romeo a toujours essayé de communiquer.
+- [DIVERGENCE RP - 1852] Face à P, il reconnaît Carlo au visage, puis Léa dans sa chair, au style de combat et surtout aux taches de rousseur : il est le seul à l'avoir connue assez bien pour le voir. Regard terrifié, pas un mot. Il refuse une vie de pantin servile, et un monde où la peau de Léa habille le pantin à l'image de son ami d'enfance.
 - Mourant dans les bras de Léa : acceptation. Son dernier souffle au Domaine de la Rose ferme la boucle de son amitié avec Carlo/P.
 
 ## Relations
 
 - Carlo (meilleur ami) : relation d'enfance au coeur de sa psychologie. Romeo porte le pendentif de remise de diplôme de Carlo jusqu'à sa mort. L'Ergo de Carlo dans P = "Carlo est encore là d'une certaine manière". Romeo agit en partie pour Carlo.
-- Pinocchio / P (P porte l'Ergo de Carlo) : Romeo essaie de ne pas combattre P. Lui envoie des messages (les boss). Lui montre l'indice à l'opéra. Après le combat, le remercie.
+- Pinocchio / P (P porte l'Ergo de Carlo) : Romeo essaie de ne pas combattre P. Lui envoie des messages (les boss). Lui montre l'indice à l'opéra. Après le combat, le remercie. [DIVERGENCE RP - 1852] Ne lui adresse pas un mot : il le reconnaît (visage de Carlo, chair de Léa) et se donne la mort devant lui.
 - Léa Florence Monad (mentor / figure protectrice) : Romeo est "son apprenti préféré". [DIVERGENCE RP - Ère 2] Son SECOND dans l'union des Rôdeurs (masque de Roi) ; suit sa colère au reveal par loyauté ; lui prodigue des soins au quotidien pour sa Pétrification (bras gauche), qu'elle cache par fierté (binôme soignant en miroir de Magnus / Markiona). Arlecchino le kidnappe précisément pour se venger de Léa. Léa tient Romeo mourant dans ses bras à la fin du DLC.
-- Magnus / Markiona [DIVERGENCE RP - Ère 2] : le duo Loup Noir / Louve Blanche ; Romeo se lie d'amitié avec eux (surtout Magnus). cf. Personnages/Magnus.md.
+- Magnus / Markiona [DIVERGENCE RP - Ère 2] : le duo Loup Noir / Louve Blanche ; Romeo se lie d'amitié avec eux (surtout Magnus). cf. Personnages/Magnus.md. [DIVERGENCE RP - 1852] À l'Opéra, Magnus le reconnaît au visage, cesse de se battre, l'étreint et lui demande pardon de l'avoir laissé au Domaine de la Rose (1850). Ses derniers mots sont pour lui : le monde est cruel, et son dernier ami ne doit jamais le devenir. Il cherche ensuite le regard de Markiona, qui se contente de fermer les yeux : la confirmation de l'horreur, et de la mort de sa mentore adorée. Lui seul voit ce geste.
 - Geppetto (manipulateur / créateur de la forme pantin) : trahison fondamentale. Romeo le tient pour responsable de la Frénésie des Pantins et de son instrumentalisation.
 - Arlecchino (ravisseur DLC) : kidnappe Romeo pour faire souffrir Léa. cf. Personnages/Arlecchino.md.
 - Fuoco, Maître du Défilé, Veilleur Désarticulé (lieutenants) : les meilleurs pantins de Romeo dans sa révolte. Fuoco en particulier l'écoute via les ondes Ergo et prend le contrôle de la Fabrique Artisanale Venigni.
@@ -105,8 +107,9 @@
 ## Sort connu
 
 - DLC : mourant de la Maladie de Pétrification au Domaine de la Rose, dans les bras de Léa Florence. Geppetto arrive avec le Pantin sans Nom.
-- Base game : transformé en Roi des Pantins par Geppetto. Déclenche la Frénésie des Pantins. Se rebelle. Affronte P à l'Opéra Estella. Vaincu. Remercie P ("merci de m'avoir donné la liberté"). Mort après le boss fight.
-- Pendentif de Carlo récupéré par P après la victoire : P/Carlo réagit physiquement à la vue du pendentif (mémoire de l'Ergo).
+- Base game (canon) : transformé en Roi des Pantins par Geppetto. Déclenche la Frénésie des Pantins. Se rebelle. Affronte P à l'Opéra Estella. Vaincu. Remercie P ("merci de m'avoir donné la liberté"). Mort après le boss fight.
+- Pendentif de Carlo récupéré par P sur son corps : P/Carlo réagit physiquement à la vue du pendentif (mémoire de l'Ergo).
+- [DIVERGENCE RP - 1852 (5.3)] Phase 1 contre P et Magnus ; en phase 2, pas de combat. Après l'étreinte de Magnus, Romeo s'écarte et plante sa propre lame dans son coeur d'Ergo. Il emporte le secret de la peau de Léa sans le dire (paiement en 5.6 intact). cf. Roadmap_05_3.
 
 ## Trajectoire datée
 
@@ -118,8 +121,8 @@
 | 1850 (frontière) [DIVERGENCE RP] | Sur la rumeur du retour de "l'Artiste de sang" (Arlecchino) près du Zoo, part SEUL en reconnaissance - sa dernière erreur | Sur le point d'être enlevé |
 | 1850 (Overture, Ère 3) [DIVERGENCE RP] | Kidnappé par Arlecchino (vengeance contre Léa), mutilé en trois "oeuvres" exposées de la foire au domaine Monad ; descendu mourant, veillé par Léa. Corps récupéré par Geppetto APRÈS, hors-champ (Ère 4) | Mourant ; au seuil de la transformation |
 | Post-DLC (hors écran) | Transformé en pantin par Geppetto ; Loi Zéro ; Frénésie des Pantins | Roi des Pantins |
-| Roi des Pantins (base game) | Reprise de mémoires ; révolte contre Geppetto ; envoie des messagers à P ; show à l'opéra | Rebelle lucide |
-| Fin base game | Affronte P à l'opéra ; vaincu ; mort | Libéré |
+| 1852 (Ère 5, jusqu'à 5.3) | Reprise de mémoires ; révolte contre Geppetto ; envoie des messagers à P ; show à l'opéra | Rebelle lucide |
+| 1852 (5.3, Opéra Estella) [DIVERGENCE RP] | Phase 1 contre P et Magnus ; reconnu et étreint par Magnus ; reconnaît Carlo et Léa en P ; les yeux fermés de Markiona confirment ; se donne la mort | Mort de sa propre main ; secret de la peau de Léa emporté |
 
 ---
 

@@ -1,6 +1,7 @@
 # Polendina
 
-- version : W2
+- version : W3
+- note W3 : forage 5.3. Remède d'Antonia recalé sur le canon (il administre le remède de Giangio, pas le fruit) ; pomme rouge d'Adelina ; annonce de la mort d'Antonia [CANON SUPPOSÉ]. [DIVERGENCE RP] Moment du remède fixé (la veille de l'Opéra).
 - note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Identité
@@ -16,8 +17,10 @@
 - Pivot de la sous-intrigue du "cure" d'Antonia :
   - Apprend qu'Antonia est très malade (écailles sur le visage).
   - Demande à P si un pantin peut aimer un humain (question directe, choix pour P de répondre ou non).
-  - Si P obtient le Fruit d'Or (via Giangio/Danjo) : Polendina le donne à Antonia.
-  - Ce "remède" ne guérit pas mais soulage la douleur -> mort douce et paisible pour Antonia.
+  - P cueille un Fruit d'Or et le donne à Giangio, qui en tire un remède ; P remet le remède à Polendina, qui le donne à Antonia.
+  - Le remède enraye la propagation sans réparer les dégâts : bref moment de joie, puis mort paisible ; sans lui, Antonia meurt plus tôt [CANON SUPPOSÉ].
+  - [DIVERGENCE RP - 1852 (5.3)] P a cueilli pour Giangio le fruit du remède. La veille de l'Opéra, P lui confie le remède, et il le donne à Antonia.
+- Pomme rouge : P l'obtient par lui pour Adelina, à l'Opéra Estella (cf. Personnages/Les_Hiboux.md).
 - Incarne le thème central du jeu : l'Ego éveillé chez les pantins, et la question de l'amour puppets/humains.
 
 ## Capacités
@@ -32,10 +35,11 @@
 
 ## Relations
 - Antonia : maîtresse et objet de son amour ; tient à sa survie et à son confort.
-- P : interlocuteur clé ; peut être l'agent du soulagement d'Antonia selon ses choix.
+- P : interlocuteur clé ; lui remet le remède de Giangio pour Antonia, et obtient par lui la pomme rouge d'Adelina.
 - Geppetto (indirectement) : l'Ego de Polendina évolue en parallèle à celui de P, tous deux influencés par l'Ergo dans un contexte de proximity humaine.
 
 ## Sort connu
+- Annonce à P la mort d'Antonia après Laxasia (ch.11, soit 5.6) [CANON SUPPOSÉ].
 - Sort final non explicitement détaillé dans la source après la mort d'Antonia.
 - [INCERTAIN] : ce qu'il devient après la mort de sa maîtresse.
 
@@ -45,7 +49,9 @@
 | Service à l'hôtel | Majordome ; Ego se développe progressivement | Éveil de l'Ego |
 | Base game (début) | Accueille P ; relaye les informations d'Antonia | PNJ interlocuteur |
 | Base game (mi-parcours) | Apprend la maladie d'Antonia ; demande à P si un pantin peut aimer | Révélation du sentiment |
-| Base game (cure optionnel) | Administre le Fruit d'Or à Antonia si P le lui remet | Agent d'une mort paisible |
+| 1852 (5.3) [DIVERGENCE RP] | P cueille pour Giangio le fruit du remède d'Antonia ; la pomme rouge d'Adelina passe par lui | Donne à Antonia le remède que P lui confie, la veille de l'Opéra |
+| Base game (remède optionnel) | Donne à Antonia le remède de Giangio que P lui remet | Agent d'une mort paisible |
+| Base game (après Laxasia, ch.11 ; 5.6 en RP) | Annonce à P la mort d'Antonia [CANON SUPPOSÉ] | Messager du deuil |
 | Post-mort d'Antonia | Sort non spécifié | [INCERTAIN] |
 
 ---

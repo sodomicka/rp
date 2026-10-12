@@ -1,6 +1,7 @@
 # Alidoro et Parrot
 
-- version : W3
+- version : W4
+- note W4 : forage 5.3 [DIVERGENCE RP]. Le "quelqu'un" que P rappelle au Limier est Léa : il reconnaît le style sans pouvoir le nommer (1850, joué en 5.5 côté P). Locket marqué retiré du RP dans la relation P (motif de confiance : Roadmap_03, étape 7).
 - note W3 : forage 5.2 [DIVERGENCE RP]. Alidoro = AMI de Magnus (Rôdeurs). Parrot démasqué à la voix par Magnus à St Frangelico (1852) ; il admet être le Perroquet, tait le meurtre, rejoint l'Hôtel Krat. + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 > Deux personnages partageant une identité : le vrai Alidoro (alias "le Limier" (VO : the Tracker)) et Parrot (imposteur).
@@ -45,6 +46,7 @@
   - Rencontre P à la Zelator Facility ; lui donne le Cor nimbé d'aurore pour le summoner contre le Surveillant aux Deux Visages.
   - Combat le Surveillant aux Deux Visages aux côtés de P.
   - Départ vers Hôtel Krat après la victoire ; dit que le style de combat de P lui rappelle quelqu'un.
+    - [DIVERGENCE RP - Ère 3 (1850 ; joué en 5.5 côté P)] Ce "quelqu'un" est Léa : la chair de P est la sienne et garde sa mémoire musculaire. L'un des cinq seuls Rôdeurs importants et neutres (avec Magnus, Markiona, Léa et Romeo), Alidoro a très bien connu Léa : il reconnaît le style sans pouvoir le nommer, d'autant que Léa est vivante à son époque. Seul Romeo saura la nommer (1852, 5.3). cf. Personnages/Pinocchio.md.
   - À l'hôtel (passé) : évoque Léa Florence, dit que les Alchimistes développent soi-disant un cure mais s'en méfie.
   - Révèle la raison de l'enlèvement de Romeo : acte de vengeance d'Arlecchino.
 
@@ -64,7 +66,7 @@
 - Eugénie (sa soeur) : la surveille de loin, a risqué sa vie pour la sauver, lui avait écrit une lettre cryptée.
 - Parrot (ex-partenaire, son meurtrier) : l'a élevé comme partenaire de chasse aux trésors ; tué par lui. [DIVERGENCE RP - Ère 2] À cette période, Parrot est encore son partenaire vivant ; la trahison est postérieure.
 - Madoro (reporter/medic) : intermédiaire pour les révélations ; ami.
-- P : rencontré dans la Zelator Facility ; lui fait confiance en voyant le locket de Monad ; allié de combat.
+- P : rencontré dans la Zelator Facility ; canon : lui fait confiance en voyant le locket de Monad ; allié de combat. [DIVERGENCE RP - Ère 3] Locket retiré du RP (Objets_et_Reliques, note W2) : il se joint au groupe de Léa pour détruire la création de Markiona (Roadmap_03, étape 7). Le style de P lui rappelle Léa, sans qu'il puisse la nommer (cf. Rôle, DLC).
 - Valentinus Monad (indirectement) : même camp anti-Simon.
 - Markiona [DIVERGENCE RP - Ère 2] : il a documenté les crimes de l'Ordre dont elle a profité (Colonel Little -> maîtrise du Zoo). Au reveal, il enrage puis, par raisonnement, valide la sincérité de son changement. cf. Personnages/Markiona.md.
 - Léa Florence Monad, Romeo [DIVERGENCE RP - Ère 2] : co-membres de l'union des Rôdeurs ; présents avec lui au reveal. cf. Personnages/Lea_Florence_Monad.md, Romeo.md.
@@ -83,7 +85,7 @@
 | Avant Frénésie | Rejoint les Balayeurs ; devient rôdeur puis chasseur de trésor ; transmet infos à Madoro | Article banni, en fuite |
 | 1848-1850 (Les Loups) [DIVERGENCE RP] | Membre de l'union des Rôdeurs ; rôle pivot au reveal de Markiona (enrage puis désamorce) | Rôdeur établi, juge de la sincérité du duo |
 | Bataille de la Tour des Artisans | Sauve Eugénie lors de l'effondrement ; perd un doigt | Séparé de sa soeur |
-| DLC Overture (passée) | Opère comme "le Limier" ; allié de P [et de Magnus, DIV RP] contre Surveillant aux Deux Visages | Identité secrète maintenue |
+| DLC Overture (passée) | Opère comme "le Limier" ; allié de P [et de Magnus, DIV RP] contre Surveillant aux Deux Visages ; reconnaît chez P le style de Léa sans le nommer [DIV RP] | Identité secrète maintenue |
 | Post-Tour (base game) | Mort : tué par Parrot dans une dispute | Identité usurpée |
 
 ---

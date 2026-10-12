@@ -1,6 +1,7 @@
 # Grande Exposition
 
-- version : W2
+- version : W3
+- note W3 : forage 5.3. Ordre des zones recalé (le District Malum, ch.5, précède la Grande Exposition, ch.7) ; décodeur et message de Romeo recalés (message décodé en 5.4) ; liens Boss_et_Creatures réparés.
 - note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
@@ -16,7 +17,7 @@
   Krat était "enfin prête à montrer le futur de l'automation et de la puissance de l'Ergo au reste du
   monde" via un showcase à la Grande Exposition (VO : Grand Exhibition). L'événement n'aura jamais lieu. Cf. SB3.
 - Maître du Défilé : pantin construit spécifiquement pour divertir les foules et célébrer la Grande Exposition.
-  Se retrouve hostile lors de la Frénésie, bloque l'entrée de l'Hôtel Krat -> P le bat. Cf. Personnages/Boss_et_Creatures.md.
+  Se retrouve hostile lors de la Frénésie, bloque l'entrée de l'Hôtel Krat -> P le bat. Cf. Creatures/Boss_et_Creatures.md.
 - Annulation (DLC contexte) : le DLC Overture se passe avant l'annulation de la Grande Exposition.
   Klaus (marchand) révèle à P (dans le passé) que la maladie n'a pas encore frappé la ville principale
   et que la Grande Exposition n'a pas encore été annulée. Cf. Personnages/PNJ_secondaires.md.
@@ -31,7 +32,7 @@
 - Champion Victor : boxeur "ramené à la vie" par les Alchimistes dans l'exposition. Surnommé "Hercules
   de Krat". Parle d'évolution devenant réelle. Vaincu une première fois, puis pompé de drogue -> second
   combat. Avant que P puisse le finir, il est achevé par Simon Manus qui extrait et collecte l'Ergo
-  de P avait vaincu. Premier contact direct de P avec Simon. Cf. Personnages/Boss_et_Creatures.md,
+  de P avait vaincu. Premier contact direct de P avec Simon. Cf. Creatures/Boss_et_Creatures.md,
   Personnages/Simon_Manus.md.
 - Rencontre avec Simon : Simon se présente, applaudit P, explique que l'Ergo est "la forme cristallisée
   de l'essence de la vie humaine, les âmes en substance", que c'est pourquoi il fonctionne si bien avec
@@ -42,21 +43,20 @@
   à survivre sans devenir Carcasse mais avec effets secondaires -> transformée en Laxasia la Complète.
   "Premier être complet baptisé par l'élixir". L'élixir est ensuite produit en masse. Cf.
   Personnages/Laxasia.md, Systemes/Petrification_Disease.md.
-- Après la Grande Exposition : P se rend au District Malum pour décrypter les ondes Ergo des pantins
-  avec le décodeur d'onde Ergo de Venigni (obtenu après la mort d'Andreas). Cf. Systemes/Ergo.md.
+- Ordre des zones : la Grande Exposition (ch.7, 5.4) vient APRÈS le District Malum (ch.5) et la Rue Rosa Isabel / l'Opéra Estella (ch.6), soit 5.3. Le décodeur d'onde Ergo de Venigni, remis après la mort d'Andreas, mène P à Malum ; Venigni décode le message de Romeo en 5.4. Cf. Lieux/Quartiers_de_Krat.md, Objets/Objets_et_Reliques.md.
 
 ## Faits canon
 
 - Événement planifié = showcase mondial du futur de Krat (automation + Ergo). Jamais tenu ; annulé
   avant le base game (après le DLC Overture). Cf. SB3, SB6.
 - Maître du Défilé : pantin créé spécifiquement pour célébrer la Grande Exposition ; premier boss de P. Cf.
-  Personnages/Boss_et_Creatures.md.
+  Creatures/Boss_et_Creatures.md.
 - DLC (temporalité) : Klaus confirme que l'exposition n'a pas encore été annulée au moment du DLC. Cf. SB6.
 - Site du bâtiment accessible base game : rempli de Carcasses, individus armés, vats d'élixir.
 - Belle (survivante) : évoque une drogue prise par des gens dans l'exposition + expériences biologiques. Cf.
   Personnages/PNJ_secondaires.md.
 - Champion Victor : boxeur ressuscité par les Alchimistes, "Hercules de Krat", boss en 2 phases. Achevé
-  par Simon. Ergo collecté. Cf. Personnages/Boss_et_Creatures.md.
+  par Simon. Ergo collecté. Cf. Creatures/Boss_et_Creatures.md.
 - Première rencontre P/Simon Manus : ici. Simon explique l'Ergo, l'élixir, invite P à l'Allée. Cf.
   Personnages/Simon_Manus.md.
 - Expérimentation de l'élixir sur malades de la Maladie de Pétrification : majorité -> Carcasses. Sujet 890
@@ -66,12 +66,12 @@
 ## Liens
 
 - Simon Manus : première rencontre ici. Cf. Personnages/Simon_Manus.md.
-- Champion Victor : boss de la zone. Cf. Personnages/Boss_et_Creatures.md.
-- Maître du Défilé : pantin célébratoire -> boss. Cf. Personnages/Boss_et_Creatures.md.
+- Champion Victor : boss de la zone. Cf. Creatures/Boss_et_Creatures.md.
+- Maître du Défilé : pantin célébratoire -> boss. Cf. Creatures/Boss_et_Creatures.md.
 - Belle : survivante dans le bâtiment. Cf. Personnages/PNJ_secondaires.md.
 - Laxasia la Complète (Sister Adriana) : produit de l'élixir testé ici. Cf. Personnages/Laxasia.md.
 - Arcade Lorenzini : chemin d'accès. Cf. Lieux/Quartiers_de_Krat.md.
-- Décodeur d'onde Ergo : obtenu après Andreas, utilisé après l'exposition. Cf. Systemes/Ergo.md.
+- Décodeur d'onde Ergo : obtenu après Andreas, avant Malum (5.3) ; message de Romeo décodé par Venigni en 5.4. Cf. Objets/Objets_et_Reliques.md.
 - Élixir alchimiste : cf. Systemes/Petrification_Disease.md.
 - Krat : cf. Lieux/Krat.md.
 

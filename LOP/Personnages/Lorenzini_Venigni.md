@@ -1,6 +1,7 @@
 # Lorenzini Venigni
 
-- version : W2
+- version : W3
+- note W3 : forage 5.3 [DIVERGENCE RP]. Décodeur remis au hub au retour de la cathédrale ; Venigni découvre que Magnus entend les pantins sans appareil ; ni P ni Magnus ne répondent au Grand Covenant. Message de Romeo (Loi Zéro) décodé en 5.4.
 - note W2 : forage 5.2 [DIVERGENCE RP]. + Passif avec Markiona (ex-collègues au Parlement des Artisans). + Closure Arlecchino AVANCÉE en 1852 (il savait déjà qui avait tué ses parents ; Markiona lui apprend la mort du tueur) ; fil du jouet-chevalier volé SUPPRIMÉ. + Trajectoire 1852. + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Identité
@@ -27,7 +28,8 @@
   - [DIVERGENCE RP - 1852] P vient avec Magnus et Markiona. Venigni et Markiona, ex-collègues au Parlement des Artisans, ont un passif : hostilité d'entrée. Elle la désamorce d'une phrase : "on a tué Arlecchino il y a deux ans" (1850, Domaine de la Rose : P, Léa, Magnus, Markiona). Venigni s'effondre en larmes et les remercie. Fuoco est détruit par P et Magnus ; Venigni répare Pulcinella et s'installe au hub. cf. Roadmap_05_2_La_Ville_Malade.
 - Après la fermeture de l'usine, Venigni devient un PNJ ressource à l'Hôtel Krat :
   - donne à P le décodeur d'onde Ergo, qu'il a créé pour trouver l'erreur dans l'imprint des pantins et décrypter les ondes d'Ergo de la Frénésie (cf. Objets/Objets_et_Reliques.md, Systemes/Puppet_Frenzy.md) ;
-  - décode le message de Romeo capté dans les ondes ("Carlo, j'espère que tu peux m'entendre... Loi Zéro, le nom du créateur est Geppetto") ;
+    - [DIVERGENCE RP - 1852 (5.3)] Remis à P au hub, au retour de la cathédrale : cap sur Malum ; P le garde. Venigni découvre alors que Magnus entend les pantins SANS appareil. Ni Magnus ni P ne répondent au Grand Covenant ; ni l'un ni l'autre ne sait rien de la Loi Zéro.
+  - décode le message de Romeo capté dans les ondes (1852 : en 5.4) ("Carlo, j'espère que tu peux m'entendre... Loi Zéro, le nom du créateur est Geppetto") ;
   - en déduit qu'il faut retrouver Geppetto, révélant son implication (Loi Zéro) ;
   - explique à P que les pantins, en plus du Grand Covenant, communiquaient entre eux via les ondes - surpris et excité, car ils n'ont pas été construits avec cette intelligence ;
   - déchiffre la lettre d'Alidoro destinée à sa soeur, établissant qu'Eugénie est la véritable soeur d'Alidoro (cf. Personnages/Alidoro_et_Parrot.md, Personnages/Eugenie.md) ;
@@ -54,7 +56,7 @@
 - Giuseppe Geppetto : associé de la famille Venigni ; jaloux et menacé par le génie de Lorenzini (cf. Personnages/Giuseppe_Geppetto.md).
 - Parlement des Artisans (VO : Workshop Union) : faction alliée (fabrication des pantins) ; complice du secret sur le meurtre de ses parents (cf. Factions/Workshop_Union.md).
 - Markiona [DIVERGENCE RP - 1852] : ex-collègue au Parlement des Artisans, passif hostile, désamorcé par la nouvelle de la mort d'Arlecchino ; réconciliés. cf. Personnages/Markiona_relations.md.
-- Magnus [DIVERGENCE RP - 1852] : l'un des tueurs d'Arlecchino (1850) ; détruit Fuoco avec P. cf. Personnages/Magnus.md.
+- Magnus [DIVERGENCE RP - 1852] : l'un des tueurs d'Arlecchino (1850) ; détruit Fuoco avec P. cf. Personnages/Magnus.md. [DIVERGENCE RP - 1852 (5.3)] Découvre au hub que Magnus entend les pantins sans appareil.
 - Les Alchimistes : commanditaires d'un véhicule spécial ; responsables de la dégradation de l'Ergo ; complices du secret sur le meurtre de ses parents (cf. Factions/Les_Alchimistes.md).
 - Pulcinella : son majordome pantin (cf. Personnages/Pulcinella.md).
 - Pinocchio (P) : le sauve dans l'usine, lui fournit décodeur et analyses clés ; relais d'information majeur de la trame.
@@ -76,7 +78,8 @@
 | Base game | Prisonnier dans l'usine prise par Fuoco | En danger |
 | 1852 (5.2) [DIV RP] | Markiona, Magnus et P le retrouvent ; "on a tué Arlecchino il y a deux ans" : larmes, réconciliation | Closure avancée |
 | Base game | Sauvé par P ; ramené à l'Hôtel Krat | Allié ressource |
-| Base game | Donne le décodeur d'onde Ergo ; décode le message de Romeo | Révèle Loi Zéro / Geppetto |
+| 1852 (5.3, Hôtel Krat) [DIV RP] | Au retour de la cathédrale, donne à P le décodeur d'onde Ergo (cap sur Malum) ; découvre que Magnus entend les pantins sans appareil | P garde le décodeur ; ni P ni Magnus ne répondent au Grand Covenant |
+| 1852 (5.4) | Décode le message de Romeo | Révèle Loi Zéro / Geppetto |
 | Base game | Déchiffre la lettre d'Alidoro (Eugénie = sa soeur) | Vérité sur Alidoro |
 | DLC | Apprend la vérité sur le meurtre de ses parents [canon ; DIVERGENCE RP : remplacé par la closure de 1852] | Résolution |
 
