@@ -1,6 +1,6 @@
 # L'antre
 
-- version : W1
+- version : W2
 
 ## Nature
 - Planque de Varra, sur Coruscant. Lieu OC, de lore neutre. [DIVERGENCE RP]
@@ -43,8 +43,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-- (aucune entree : alimentee a chaud a partir de la Passe 2)
+| 137 ABY | Varra y revient sans sa meute et la quitte pour le Temple | abandonnee |
 
 ---
 

@@ -1,6 +1,6 @@
 # Darth Krayt (A'Sharad Hett)
 
-- version : W4
+- version : W5
 
 ## Identite
 - Darth Krayt, ne A'Sharad Hett. Entite de lore canon (Legends).
@@ -65,6 +65,10 @@
 |---|---|---|
 | 137 ABY | Envoie Talon capturer Marasiah Fel, appat pour faire sortir Roan Fel | - |
 | 137 ABY | Talon revient bredouille et lui apprend qu'un Skywalker est en jeu ; Varra se presente devant lui | sentence : Talon chargee de Cade, Varra confie a Nihl |
+| 137 ABY | Cade capture : confisque le sabre de Kol et l'expose sous vitrine | - |
+| 137 ABY | Revele a Cade qu'il fut A'Sharad Hett ; lui fait guerir Talon et la nomme son maitre | - |
+| 137 ABY | Tue Hosk Trey'lis devant Cade | - |
+| 137 ABY | Evasion : Morrigan Corde lui tire dans le dos ; Cade lui echappe | Stryfe remplace Nihl comme Main ; Varra rendu a Talon, gardien de sa stase |
 
 ---
 

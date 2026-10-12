@@ -1,6 +1,6 @@
 # Darth Maladi
 
-- version : W2
+- version : W3
 
 ## Identite
 - Darth Maladi, dite Lady Maladi, nee Malincha. Entite de lore canon (Legends).
@@ -73,6 +73,8 @@
 |---|---|---|
 | 137 ABY | Fournit a Talon un dernier contrat, avant le sacre : un fonctionnaire imperial qui sape Krayt en douce | - |
 | 137 ABY | Varra se revele devant Krayt : elle reconnait la bete rayee en 133 sur la parole de Talon | se tait et garde la carte du mensonge pour plus tard |
+| 137 ABY | Torture Cade au poison, sans effet ; implante des graines vong a Jariah Syn et Deliah Blue | - |
+| 137 ABY | Krayt lui interdit de recoudre le bras de Nihl | - |
 
 ---
 

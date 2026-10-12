@@ -1,7 +1,7 @@
 # Roadmap_R1_Le_Sacre_Et_La_Princesse
 
 - statut : validee au grain de l'itineraire ; detail de scene en Passe 3
-- version : W1
+- version : W2
 - cadrage : cale sur 00_Garde_Cap.md, section "137 ABY - Le sacre et la princesse". Grain : le jalon ; le detail de scene releve de la fiche d'arc (Passe 3).
 - convention : [RP] = beat qui devie de Legends ; sans marqueur = conforme au canon.
 
@@ -40,6 +40,7 @@
 
 ## Conditions de cloture
 - [RP] La sentence : Talon doit gerer Cade ; Varra est confie a Nihl, pour apprendre une autre vision que celle de sa maitresse.
+- [RP] Motif de Krayt : une epreuve, pas une punition. A Vendaxa, discipliner Varra a distrait Talon. Il lui retire ce qui la distrait, puis lui fera former un disciple dans les regles, sous son oeil.
 - L'Ordre connait Varra. Maladi sait que Talon lui a menti en 133 et garde cette carte pour plus tard.
 
 ---

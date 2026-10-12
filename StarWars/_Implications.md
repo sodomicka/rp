@@ -1,17 +1,15 @@
 # _Implications - StarWars
 
-- version : W20
+- version : W21
 - nature : journal de travail build. Non indexe au Sommaire, jamais fetche en narration.
 
 ## Questions en attente
-- Varra quitte son poste sous Nihl pour sauver Talon (garde-cap, R2) : reaction de Nihl a trancher en roadmap R2.
 - Echo Cade - Varra : les aventures d'un soir de Cade sont une aberration pour Varra, qui ne connait que le sexe regulier avec Talon.
-- Echo Nihl - Varra : Nihl aime la brutalite sans habilete ; il voit Varra se battre a Vendaxa (R1) et le recoit a la sentence. Suite a exploiter en R2.
 
 ## Dettes de build
 - Lien Varra - Talon, a poser en roadmap : pour elle, il n'est qu'un outil, et c'est voue a changer. Abusive au depart, la relation tourne lentement reciproque et la hierarchie s'efface.
 - Fiches de la Passe 1 : toutes en lore neutre dans Personnages/ (decision du worldbuilder).
-- Passe 1 close au BIBLE BUILD B2. Darth Stryfe plus tard.
+- Passe 1 close au BIBLE BUILD B2.
 - Regle de placement a patcher, a la demande du worldbuilder : la SPEC (S7, Placement d'une fiche) et Config/INSTRUCTION_WIKI_FICHES.md font encore demander neutre ou perspective. Contenu du patch a proposer au worldbuilder.
 - Suite du canon : One Sith en clandestinite sous Nihl ; Darth Wredd et bataille du Monde Flottant (139 ABY) ; Legacy vol. 2 (Ania Solo).
 

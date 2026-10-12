@@ -1,6 +1,6 @@
 # Varra
 
-- version : W6
+- version : W7
 
 ## Identite
 - Varra. Protagoniste ; OC, entite de lore neutre. [DIVERGENCE RP]
@@ -71,6 +71,12 @@
 | 137 ABY | Attente a l'antre pendant le sacre, hors champ | Talon devient Darth Talon ; il devient un secret genant |
 | 137 ABY | Suit la traque de Marasiah Fel en retrait (Socorro, Vendaxa). A Vendaxa, sa meute meurt ; Talon l'envoie la venger | perd sa meute ; Nihl le voit se battre |
 | 137 ABY | Se presente devant Krayt et demande a etre execute : l'echec est sa faute | l'Ordre le connait ; confie a Nihl |
+| 137 ABY | Sous Nihl : l'antre est mort sans sa meute ; il demande une chambre au Temple | vit au Temple ; Nihl le lache sans laisse |
+| 137 ABY | Terrasse Cade a mains nues, par reflexe, alors qu'il va tuer Talon ; ne l'epargne que sur ordre de Nihl | Cade capture vivant |
+| 137 ABY | Audience : se jette sur Cade, qui rouvre les blessures de Talon ; Krayt l'arrete | - |
+| 137 ABY | Poste en sentinelle dans les bas-fonds, sur les tunnels de l'infiltration | - |
+| 137 ABY | Evasion de Cade : sent Talon mourante, deserte son poste et la rejoint d'immeuble en immeuble ; Cade est deja parti | - |
+| 137 ABY | Sur suggestion de Nihl, Krayt le rend a Talon et en fait le gardien de sa stase | de nouveau aupres de Talon ; ignore sa liaison avec Cade |
 
 ---
 

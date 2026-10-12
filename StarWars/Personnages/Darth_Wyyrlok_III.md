@@ -1,6 +1,6 @@
 # Darth Wyyrlok III
 
-- version : W1
+- version : W2
 
 ## Identite
 - Darth Wyyrlok, troisieme du nom. Entite de lore canon (Legends).
@@ -66,8 +66,7 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-- (aucune entree : alimentee a chaud a partir de la Passe 2)
+| 137 ABY | Assiste a l'audience ou Krayt revele son passe a Cade | - |
 
 ---
 

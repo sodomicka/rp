@@ -1,6 +1,6 @@
 # Sommaire - StarWars
 
-- version : W3
+- version : W4
 
 ## WIKI
 
@@ -30,14 +30,15 @@ Description : histoire galactique en tables datees (BBY / ABY).
 
 ### Personnages/
 Description : personnages decrits au point de depart (137 ABY, quelques jours avant le sacre de Talon), en lore neutre.
-- Varra.md (W6) - protagoniste, OC chiss, acolyte secret de Devon Izara : identite, physique, psychologie, capacites, manies, relations, histoire, sabres.
-- Darth_Talon.md (W5) - Devon Izara, future Darth Talon : lignee Izara, physique, psychologie, capacites, manies, relations, histoire jusqu'au sacre, sabre.
+- Varra.md (W7) - protagoniste, OC chiss, acolyte secret de Devon Izara : identite, physique, psychologie, capacites, manies, relations, histoire, sabres.
+- Darth_Talon.md (W6) - Devon Izara, future Darth Talon : lignee Izara, physique, psychologie, capacites, manies, relations, histoire jusqu'au sacre, sabre.
 - Darth_Ruyn.md (W2) - maitre de Talon, seconde Main de Krayt et grand-pere secret de Talon.
-- Darth_Krayt.md (W4) - Seigneur Noir et Empereur : apparence, psychologie, capacites, relations, histoire jusqu'au sacre.
-- Darth_Nihl.md (W2) - Main de Krayt depuis 130 ABY, rival de Talon.
-- Cade_Skywalker.md (W2) - fils de Kol, capitaine du Mynock, traque par Krayt.
-- Darth_Wyyrlok_III.md (W1) - la Voix, Maitre du savoir et regent ; lignee des Wyyrlok.
-- Darth_Maladi.md (W2) - Renseignement et Assassinat Sith, medecin de l'Ordre ; fournit ses contrats a Talon.
+- Darth_Krayt.md (W5) - Seigneur Noir et Empereur : apparence, psychologie, capacites, relations, histoire jusqu'au sacre.
+- Darth_Nihl.md (W3) - Main de Krayt depuis 130 ABY, rival de Talon.
+- Darth_Stryfe.md (W1) - Poing de Krayt au point de depart ; brute fidele a la lettre a Krayt.
+- Cade_Skywalker.md (W3) - fils de Kol, capitaine du Mynock, traque par Krayt.
+- Darth_Wyyrlok_III.md (W2) - la Voix, Maitre du savoir et regent ; lignee des Wyyrlok.
+- Darth_Maladi.md (W3) - Renseignement et Assassinat Sith, medecin de l'Ordre ; fournit ses contrats a Talon.
 - Marasiah_Fel.md (W1) - princesse heritiere de l'Empire Fel en exil, Chevaliere Imperiale en formation.
 - Antares_Draco.md (W1) - Chevalier Imperial, second de Roan Fel, amant de Marasiah.
 - Wolf_Sazen.md (W1) - maitre Jedi zabrak, ancien maitre de Cade, manchot depuis Ossus.
@@ -45,8 +46,8 @@ Description : personnages decrits au point de depart (137 ABY, quelques jours av
 
 ### Lieux/
 Description : lieux decrits au point de depart.
-- Temple_des_Sith.md (W1) - siege du One Sith sur Coruscant : architecture, tour de Krayt, Chambre d'art Sith, laboratoire de Maladi, defenses, lieu du sacre.
-- L_Antre.md (W1) - planque OC de Varra dans les bas-fonds de Coruscant, lieu de sa formation secrete.
+- Temple_des_Sith.md (W2) - siege du One Sith sur Coruscant : architecture, tour de Krayt, Chambre d'art Sith, laboratoire de Maladi, defenses, lieu du sacre.
+- L_Antre.md (W2) - planque OC de Varra dans les bas-fonds de Coruscant, lieu de sa formation secrete.
 
 > ROADMAPS NON INDEXEES EN JEU. Le dossier `Roadmap/<Prota>/` n'est pas liste ici : SOURCES DE BUILD, lues en mode Wiki par listing direct du dossier, JAMAIS fetchees en narration. En jeu, le MJ navigue d'arc en arc par les fiches d'arc et tient le fil long via le CODEX ANNEXE_CHRONO.
 >

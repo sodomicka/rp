@@ -1,6 +1,6 @@
 # Cade Skywalker
 
-- version : W2
+- version : W3
 
 ## Identite
 - Cade Skywalker. Entite de lore canon (Legends).
@@ -48,7 +48,7 @@
 - Rav - pirate qui l'a recueilli et forme apres Ossus. Dette remboursee vers 137 ABY.
 - Wolf Sazen - son ancien maitre. Cade l'a ranime a Ossus par transfert obscur et le sait vivant, mais il a coupe tout contact et ignore ou il se cache.
 - Azlyn Rae - amie d'enfance, padawan a Ossus. Il la croit morte la-bas ; elle a survecu et sert comme Chevalier imperial.
-- Kol Skywalker - son pere, tue par Nihl a Ossus ; Cade l'a senti mourir. Son sabre (artwork) : poignee d'argent lisse, prise noire cannelee cote pommeau, anneau au pommeau, emetteur biseaute. Au point de depart, Cade ne l'a pas : il est entre les mains de Nei Rin, Faconneur vong d'Ossus. [IMPLICITE]
+- Kol Skywalker - son pere, tue par Nihl a Ossus ; Cade l'a senti mourir. Son sabre (artwork) : poignee d'argent lisse, prise noire cannelee cote pommeau, anneau au pommeau, emetteur biseaute. Au point de depart, Cade ne l'a pas : il est entre les mains de Nei Rin, Faconneuse vong d'Ossus. [IMPLICITE]
 - Morrigan Corde - sa mere, agente imperiale, qui l'a abandonne bebe. Elle le piste en secret ; il l'ignore.
 - Nat Skywalker, alias Bantha Rawk - son oncle, qui a fabrique sa carabine. Cade ignore leur parente. [INCERTAIN]
 - Fantome de Luke Skywalker - le harcele pour qu'il revienne aux Jedi.
@@ -74,6 +74,12 @@
 |---|---|---|
 | 137 ABY | Socorro : embarque Marasiah Fel et Astraal Vao sur le Mynock, pour la prime | - |
 | 137 ABY | Vendaxa : retrouve Wolf et Shado ; ranime Marasiah par transfert obscur et reprend un sabre | renoue avec la Force et le sabre ; Krayt apprend qu'un Skywalker est en jeu |
+| 137 ABY | Ossus : Nei Rin lui rend le sabre de Kol ; R2-D2 le rejoint ; il part liberer Hosk Trey'lis | - |
+| 137 ABY | S'infiltre au Temple, domine Talon ; Varra le terrasse a mains nues | captif ; sabre de Kol confisque |
+| 137 ABY | Torture au poison sans effet ; guerit Jariah et Deliah par le cote obscur | - |
+| 137 ABY | Audience : rouvre les blessures de Talon, puis la soigne | lien de Force avec Talon |
+| 137 ABY | Forme par Talon, liaison avec elle ; Etreinte de la douleur ; fuite ratee ; refuse de tuer Hosk | - |
+| 137 ABY | Evasion : empale Talon, tranche le bras de Nihl, refuse de l'achever ; sa mere tire sur Krayt, il fuit sur le Mynock | reprend le sabre de son pere ; apprend que Morrigan Corde est sa mere |
 
 ---
 
