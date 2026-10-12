@@ -1,10 +1,11 @@
 # Résumé - LOP
 
-- version : W1
+- version : W2
+- note W2 : BIBLE BUILD B9. + partie 5.3 (Le Roi des Pantins).
 
 ## Usage
 - Condensé du récit tel qu'établi (canon + divergences actées), pour le worldbuilder. Outil hors RP et hors build : jamais fetché, non indexé au Sommaire. Mis à jour à chaque BIBLE BUILD.
-- État du récit : Passe 2 en cours (BIBLE B8). Roadmaps des Ères 1 à 4 et des parties 5.1 et 5.2 écrites : le résumé s'arrête à la clôture de la partie 5.2 (la Ville Malade).
+- État du récit : Passe 2 en cours (BIBLE B9). Roadmaps des Ères 1 à 4 et des parties 5.1 à 5.3 écrites : le résumé s'arrête à la clôture de la partie 5.3 (le Roi des Pantins).
 - Prémisse : Lies of P (base game + DLC Overture). Perspective : Magnus, OC, pantin parfait créé par l'alchimiste Markiona. Calendrier in-world choisi par le worldbuilder : 1847 (éveil de Magnus) -> 1852 (réveil de P et fin).
 
 ## Le monde
@@ -43,6 +44,15 @@ Sur le Pont des Alchimistes, l'Âne fou menace Geppetto. P s'élance pour proté
 De retour à l'hôtel, Markiona se dispute violemment avec Geppetto. Il lui a tout avoué : la Loi Zéro, la peau de Léa sur P, le rôle de Romeo. Elle refuse de suivre son plan et se tait, pour épargner Magnus. À la Fabrique Artisanale Venigni, une phrase d'elle, "on a tué Arlecchino il y a deux ans", fait fondre en larmes Venigni, son ancien collègue, qui les remercie. P et Magnus détruisent Fuoco et ramènent Pulcinella. La Renarde Rousse et le Chat Noir passent, puis filent vers le District Malum ; Markiona reste méfiante.
 
 Au Village Clair-de-Lune, devant les Carcasses, Markiona admet ses horreurs, tout en maintenant que son passé entier était nécessaire pour concevoir son fils. Au funiculaire, la Rédemptée est épargnée et rallie Aurus, parce qu'elle sait les Loups respectés parmi les Rôdeurs. À la cathédrale, Giangio, qui est Paracelsus, se montre plus fasciné encore par Magnus que par P, et Markiona le reconnaît sans rien dire. Magnus démasque le faux Alidoro à la voix ; Parrot avoue l'imposture et rejoint l'hôtel. P et Magnus abattent Andreas devenu l'Ange à une Aile, et Markiona jubile : son fils dépasse l'apogée de l'alchimie. Une silhouette, celle de Simon Manus, apparaît. Puis Markiona crache du sang et une poudre de cristaux bleue.
+
+## Le Roi des Pantins (1852)
+Au hub, Venigni remet à P un décodeur d'ondes d'Ergo et découvre que Magnus entend les pantins sans appareil. Au grand Stargazer, Magnus voit enfin Sophia, et sa promesse devient concrète. Par le chemin du pèlerin, où P remarque un Stargazer doré inactif, le trio gagne le District Malum. La Renarde Rousse et le Chat Noir font route avec eux : ils servent Simon, mais veulent surtout un Fruit d'Or pour les yeux de Lucio. Dans la cour de l'Hôtel de Ville, Magnus solde le massacre de la Tour, et cette fois Markiona ne le retient pas : l'Aîné de la Confrérie meurt, ses trois frères fuient en jurant vengeance.
+
+Dans l'Hôtel de Ville, le portrait de Carlo montre à Magnus le visage de P ; Markiona le reconnaît et se tait. Un ascenseur mène aux jardins de l'Hôtel Krat, où pousse l'Arbre à Fruits d'Or. Seuls les coeurs purs peuvent y cueillir, et Markiona s'y brûle. L'arbre ne porte que deux fruits : P cueille celui dont Giangio tire le remède d'Antonia, Magnus celui de Lucio. Geppetto envoie P abattre le Roi des Pantins ; Markiona sait qui il est, et suit.
+
+La veille de l'Opéra, pendant que P reste auprès de son père, Magnus et sa mère rentrent à Aurus, où l'Âne fou et la Rédemptée ont trouvé refuge. Les invités occupant sa chambre, Magnus dort avec elle. Sous les draps, il avoue sa honte d'avoir été soulagé à la mort de l'Aîné : il serait très triste de perdre quelqu'un de sa famille, comme P, Romeo ou Léa. Elle sait Léa morte et Romeo changé en pantin. Une fois son fils endormi, elle travaille en secret à un extracteur d'Ergo, inquiète de devoir un jour le laisser seul.
+
+Rue Rosa Isabel, Julian demande si un pantin peut aimer. Quand Markiona est prise d'une violente quinte, Magnus lâche tout pour la secourir, et Julian est convaincu. La Dame Blanche est épargnée ; à l'Opéra, elle entend la confession d'Adelina, la soeur qui l'avait empoisonnée, puis rentre à Aurus. Sur scène, le Roi des Pantins tombe et Romeo en sort. Magnus le reconnaît, l'étreint et lui demande pardon de l'avoir laissé en 1850. Romeo, lui, voit Carlo dans le visage de P, puis Léa dans sa chair ; Markiona se contente de fermer les yeux. Il dit à Magnus que le monde est cruel, puis plante sa propre lame dans son coeur. P garde le pendentif de Carlo. Au hub, Sophia, qui a senti l'Ergo de Romeo se libérer, console Magnus.
 
 ## L'axe du récit
 Deux créateurs, deux chefs-d'oeuvre : Geppetto fabrique le faux parfait, un pantin qui devient humain par le mensonge ; Markiona a fait le vrai parfait, un pantin qui le devient par l'introspection. La Marionnettiste de la Mort, elle, se rachète en devenant mère.

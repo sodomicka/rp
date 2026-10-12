@@ -1,7 +1,7 @@
 # Antonia
 
 - version : W3
-- note W3 : forage 5.3. Remède recalé sur le canon : P cueille, Giangio fabrique, Polendina administre ; il enraye sans réparer [CANON SUPPOSÉ pour l'effet, la joie, la date]. [DIVERGENCE RP] P cueille le fruit en 5.3 ; passage par Polendina [À FIXER].
+- note W3 : forage 5.3. Remède recalé sur le canon : P cueille, Giangio fabrique, Polendina administre ; il enraye sans réparer [CANON SUPPOSÉ pour l'effet, la joie, la date]. [DIVERGENCE RP] P cueille le fruit en 5.3 ; passage par Polendina fixé (la veille de l'Opéra).
 - note W2 : forage 5.1 [DIVERGENCE RP]. Markiona la soigne à l'Hôtel Krat : deux pétrifiées. + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Identité
@@ -39,7 +39,7 @@
 ## Sort connu
 - Meurt de la Maladie de Pétrification.
 - Avec le remède de Giangio (via Polendina) : bref moment de joie, puis mort paisible ; Polendina l'annonce après Laxasia (ch.11, soit 5.6). Sans le remède, elle meurt plus tôt [CANON SUPPOSÉ].
-- [DIVERGENCE RP - 1852 (5.3)] P cueille pour Giangio l'un des deux seuls fruits de l'arbre ; Giangio promet le remède. [À FIXER] moment où le remède passe par Polendina.
+- [DIVERGENCE RP - 1852 (5.3)] P cueille pour Giangio l'un des deux seuls fruits de l'arbre ; Giangio en tire le remède ; la veille de l'Opéra, P le confie à Polendina, qui le lui donne.
 - Laisse une lettre à sa mort :
   - Timeline originale : dit que P ressemblait à Carlo.
   - Timeline affectée par le DLC (Stargazer doré) : lettre avec enveloppe verte, deuxième page ajoutée ; évoque P comme "a force for good", le massacre du Domaine de la Rose, la capacité de P à connecter avec les gens et leur apporter de la chaleur ; mentionne que "fates change for the better".
@@ -51,7 +51,7 @@
 | Pré-outbreak | Tient l'hôtel ; joue du piano pour maintenir le moral | Gestionnaire de crise |
 | Base game | Malade (écailles visibles) ; remet la clé à P ; concède le passage secret | Affaiblie, lucide |
 | 1852 (5.1) [DIVERGENCE RP] | Soignée par Markiona, pétrifiée comme elle | Soulagée |
-| 1852 (5.3) [DIVERGENCE RP] | Remet à P la clé de la Rue Rosa Isabel (canon) ; P cueille pour Giangio le fruit de son remède | Remède promis ; [À FIXER] passage par Polendina |
+| 1852 (5.3) [DIVERGENCE RP] | Remet à P la clé de la Rue Rosa Isabel (canon) ; P cueille pour Giangio le fruit de son remède | Remède reçu des mains de Polendina, la veille de l'Opéra |
 | Base game (après Laxasia, ch.11 ; 5.6 en RP) | Mort de la Maladie de Pétrification, annoncée par Polendina ; lettre laissée | Mort paisible avec le remède ; plus tôt sans [CANON SUPPOSÉ] |
 | Timeline DLC affectée | Lettre modifiée (enveloppe verte, page 2) | Impact temporel de P visible |
 
