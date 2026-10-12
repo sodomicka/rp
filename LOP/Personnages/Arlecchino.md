@@ -1,14 +1,15 @@
 # Arlecchino
 
-- version : W3
+- version : W4
+- note W4 : forage 5.3. Plus d'Arlecchino en 1852 (décision worldbuilder) : moniker "Roi des Énigmes", cabines et restes de l'Allée caducs. + Mêlée finale à quatre (alignement sur Roadmap_03).
 - note W3 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Identité
 - Pantin (puppet) à Ego éveillé ; serial killer. Aussi désigné comme "puppet meurtrier" dans la source.
 - Coquilles transcript : "Arino", "Arleino", "Arlino", "Alakino", "Arleino".
 - L'Ergo placé dans son corps de pantin est celui d'un tueur en série humain (l'Ego du serial killer humain a été transféré dans le corps de pantin).
-- [DIVERGENCE RP - chronologie de nommage] Son surnom évolue avec l'époque : en 1850 (DLC / Ère 3) il est connu comme "l'Artiste de sang" (écho de son Magnum Opus - ses meurtres conçus comme art) ; ce n'est qu'au base game (1852 / Ère 5) qu'il devient "le Roi des Énigmes". En roadmap et en jeu, employer le moniker de l'époque (1850 = l'Artiste de sang). Comprend qui peut : le public ignore que l'Artiste de sang est le pantin que Léa a jadis réduit à un torse (crime maquillé par l'Ordre et le Parlement des Artisans) ; les initiés - Léa la première - savent.
-- Connu in-game comme le King of Riddles : dans le base game (1852), il répond aux cabines téléphoniques publiques et pose des devinettes à P ; résoudre les devinettes donne des Trinity Keys ouvrant des salles secrètes (peut-être réunions d'une société secrète des 3 personnages les plus puissants de Krat).
+- [DIVERGENCE RP - chronologie de nommage] Son surnom évolue avec l'époque : en 1850 (DLC / Ère 3) il est connu comme "l'Artiste de sang" (écho de son Magnum Opus - ses meurtres conçus comme art). Le moniker canon de "Roi des Énigmes" (base game, 1852) est caduc : il ne survit pas à 1850 (décision worldbuilder). En roadmap et en jeu, employer "l'Artiste de sang". Comprend qui peut : le public ignore que l'Artiste de sang est le pantin que Léa a jadis réduit à un torse (crime maquillé par l'Ordre et le Parlement des Artisans) ; les initiés - Léa la première - savent.
+- Canon : connu in-game comme le Roi des Énigmes (VO : King of Riddles) ; dans le base game (1852), il répond aux cabines téléphoniques publiques et pose des devinettes à P (Trinity Keys, salles secrètes). [DIVERGENCE RP] Sans objet : plus d'Arlecchino en 1852, donc ni cabines ni devinettes.
 - Boss final du DLC Overture (deux phases).
 
 ## Rôle
@@ -42,14 +43,15 @@
 - Romeo prend le bait, va au zoo, est capturé.
 - Message audio laissé à Léa : "tu m'as pris bras, jambes... puis 9 lames" (référence aux 9 tentatives de Luca d'inculper Simon - ou plus probablement référence directe à Léa qui l'a vaincu) ; fixe un rendez-vous au Domaine de la Rose.
 - Le passage d'Arlecchino dans le Domaine de la Rose tue les nombreuses personnes qui s'y réfugiaient (handiwork reconnu par Gemini lors du DLC).
-- Combat final du DLC : P (seul ou avec Léa) affronte Arlecchino dans les jardins du Domaine de la Rose.
+- Combat final du DLC : P (seul ou avec Léa, canon) affronte Arlecchino dans les jardins du Domaine de la Rose. [DIVERGENCE RP] Mêlée à quatre : P, Léa, Magnus, Markiona (cf. Roadmap_03_Overture).
 - Phase 1 : combat ; phase 2 : transformation après dommages suffisants.
 - Vaincu après deux phases. Ses mots finaux évoquent le Magnum Opus qu'il n'a pas pu compléter.
 
-### Base game
+### Base game (canon, caduc en RP)
 - Dans le base game, P peut répondre aux cabines téléphoniques et résoudre les devinettes d'Arlecchino -> Trinity Keys -> salles secrètes.
 - P peut rencontrer ce qui reste d'Arlecchino à l'Allée des Alchimistes. Leur dialogue révèle son histoire complète.
 - Si P porte la tenue de Rôdeuse Légendaire de Léa, Arlecchino la reconnaît : mentionne ne pas avoir pu compléter son Magnum Opus. [INTERPRÉTATION] Dans la timeline originale, il aurait tué Léa (affaiblie par la maladie) et en aurait fait son oeuvre maîtresse ; P a empêché ça.
+- [DIVERGENCE RP] Rien de tout cela n'existe en 1852 : Arlecchino est détruit pour de bon en 1850.
 
 ## Capacités
 - Combat mêlée intense : pantin réparé et augmenté par les alchimistes avant son transport ; membres nouveaux le rendent encore plus dangereux.
@@ -71,12 +73,12 @@
 - Simon Manus : alchimiste qui le prend en main pour étudier son Ergo ; Arlecchino échappe à ce contrôle. Cf. Personnages/Simon_Manus.md.
 - Valentinus Monad : pétitionné par des membres de l'Ordre contre Simon au sujet des expériences sur Arlecchino.
 - Lorenzini Venigni : sa famille (parents) a été la victime de prédilection d'Arlecchino.
-- Pinocchio (P) : affronte P dans le DLC ; reconnu par P via la tenue de Léa dans le base game.
+- Pinocchio (P) : affronte P dans le DLC (mêlée à quatre en RP). Canon : reconnaît la tenue de Léa sur P dans le base game ; caduc en RP.
 
 ## Sort connu
-- Vaincu par P (et optionnellement Léa) dans les jardins du Domaine de la Rose (DLC final boss phase 2).
+- Vaincu dans les jardins du Domaine de la Rose (DLC final boss phase 2) : par P, et optionnellement Léa, au canon ; [DIVERGENCE RP] par la mêlée à quatre (P, Léa, Magnus, Markiona).
 - Magnum Opus non accompli.
-- Dans le base game, ses restes sont à l'Allée des Alchimistes (fragment d'ego / corps résiduel).
+- Canon : dans le base game, ses restes sont à l'Allée des Alchimistes (fragment d'ego / corps résiduel). [DIVERGENCE RP] Aucune présence en 1852.
 
 ## Trajectoire datée
 | Date/ère | Événement | Delta d'état |
@@ -87,8 +89,8 @@
 | Transport Archon fleet | Simon le récupère, répare, équipe de nouveaux membres ; enfermé dans le brig ; s'échappe après avoir tué les gardes | Arlecchino -> libre et plus dangereux |
 | 1850 (frontière Ère 2) [DIVERGENCE RP] | Échappé, réparé ; rôde près du Zoo ; la rumeur du retour de "l'Artiste de sang" sert d'appât | Arlecchino -> embusqué, ULTIME |
 | Plan de vengeance (Overture) | Apprend l'affection de Léa pour Romeo ; kidnappe Romeo (venu en reco solo) ; message à Léa | Arlecchino -> stratège de la vengeance |
-| DLC Overture | Domaine de la Rose ; massacre des réfugiés ; combat vs P (+/-Léa) ; deux phases ; vaincu | Arlecchino -> mort (vaincu) |
-| Base game (résiduel) | Restes à l'Allée des Alchimistes ; devinettes téléphoniques ; reconnaissait le costume de Léa | Arlecchino -> fragment / esprit résiduel |
+| DLC Overture | Domaine de la Rose ; massacre des réfugiés ; mêlée à quatre, P, Léa, Magnus, Markiona [DIVERGENCE RP] ; deux phases ; vaincu | Arlecchino -> mort (vaincu) |
+| 1852 [DIVERGENCE RP] | Aucune présence : restes, devinettes et cabines du canon caducs | - |
 
 ---
 

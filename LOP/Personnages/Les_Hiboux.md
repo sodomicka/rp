@@ -1,6 +1,7 @@
 # Les Hiboux
 
-- version : W3
+- version : W4
+- note W4 : forage 5.3 [DIVERGENCE RP]. La Dame Blanche épargnée, présente à la confession d'Adelina, rentrée à Aurus.
 - note W3 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 > Le cercle d'Adelina Corde, la chanteuse à la robe rouge : sa soeur Patricia, la Dame Blanche,
@@ -26,10 +27,11 @@
 - Au moment du base game :
   - Cachée dans sa loge, vivante mais infectée.
   - La maladie lui a fait perdre la voix (issue tragique pour une chanteuse).
-  - Demande à P de lui apporter un fruit.
+  - Demande à P de lui apporter une pomme rouge, que P obtient par Polendina.
   - Confesse, après avoir reçu le fruit : elle a empoisonné sa propre soeur Patricia par jalousie (Patricia chantait mieux qu'elle).
   - Montre un locket : la photo intérieure a été tailladée (haine et jalousie intenses envers sa soeur).
 - Meurt après la confession (la maladie progresse).
+- [DIVERGENCE RP - 1852 (5.3)] Confesse devant le trio ET devant Patricia, venue avec eux : sa soeur entend la vérité de sa bouche. Retrouvée morte dans sa loge après la chute du Roi.
 
 ### Psychologie
 - Rongée par la jalousie envers sa soeur Patricia, qui avait une meilleure voix.
@@ -65,19 +67,22 @@
 - Rôdeuse opérant sur la Rue Rosa Isabel pendant la crise.
 - Convaincue qu'Adelina est morte, tuée par des puppets (elle ignore la survie de sa soeur dans l'opéra).
 - Veut venger la mort présumée d'Adelina.
-- P doit la combattre et la tuer pour passer.
+- Canon : P doit la combattre et la tuer pour passer.
+- [DIVERGENCE RP - 1852 (5.3)] Rôdeuse de l'union d'avant la chute (Ère 2). Attaque le trio sur la Rue Rosa Isabel ; vaincue, ÉPARGNÉE. Elle ne voit en P qu'un Rôdeur au bras de métal. Elle accompagne le trio jusqu'à l'Opéra, entend la confession de sa soeur, puis rentre à Aurus.
 
 ### Psychologie
 - Dévouée à sa soeur jusqu'au bout (veut la venger).
-- Ignore qu'elle a été empoisonnée par Adelina elle-même.
-- [INTERPRÉTATION] Victime d'une double tragédie : le poison de sa soeur, puis la mort par P.
+- Canon : ignore qu'elle a été empoisonnée par Adelina elle-même. [DIVERGENCE RP - 1852] L'apprend de la bouche de sa soeur, à l'Opéra.
+- [INTERPRÉTATION] Au canon, victime d'une double tragédie : le poison de sa soeur, puis la mort par P.
 
 ### Relations
-- Adelina (soeur) : amour intense, ne sait pas qu'elle a été sa victime.
-- P : adversaire ; combat à mort.
+- Adelina (soeur) : amour intense, ne sait pas qu'elle a été sa victime. [DIVERGENCE RP - 1852] L'apprend par sa confession.
+- P : adversaire ; combat à mort (canon). [DIVERGENCE RP - 1852] Épargnée par le trio.
+- Magnus / Markiona, Aurus [DIVERGENCE RP - 1852] : rejoint le refuge d'Aurus après l'Opéra. cf. Lieux/Aurus.md.
 
 ### Sort connu
-- Tuée par P sur la Rue Rosa Isabel.
+- Canon : tuée par P sur la Rue Rosa Isabel.
+- [DIVERGENCE RP - 1852] Vivante, réfugiée à Aurus ; elle sait.
 
 ---
 
@@ -113,8 +118,8 @@
 | Pré-Frénésie | Adelina chanteuse célèbre à la Rue Rosa Isabel | En vue |
 | Passé (non daté) | Adelina empoisonne Patricia par jalousie | Crime commis |
 | Onset de la Frénésie | Patricia (la Dame Blanche) croit Adelina morte (puppets) | Deuil, rage |
-| Base game (Rue Rosa Isabel) | la Dame Blanche combat P -> tuée | Mort |
-| Base game (Opéra) | Adelina confesse à P, meurt peu après de la maladie | Fin avec confession |
+| 1852 (5.3, Rue Rosa Isabel) [DIVERGENCE RP] | la Dame Blanche attaque le trio ; vaincue, épargnée ; l'accompagne jusqu'à l'Opéra | Vivante, alliée de route |
+| 1852 (5.3, Opéra Estella) [DIVERGENCE RP] | Adelina confesse devant le trio et Patricia ; Patricia rentre à Aurus ; Adelina retrouvée morte après la chute du Roi | Adelina morte ; Patricia à Aurus, sait |
 | Base game (Marais Aride) | le Chouette Médecin combat P -> tué | Mort |
 
 ---

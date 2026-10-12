@@ -1,6 +1,7 @@
 # Objets et Reliques
 
-- version : W4
+- version : W5
+- note W5 : forage 5.3 [DIVERGENCE RP]. Pendentif (suicide de Romeo ; Magnus le reconnaît) ; Portrait de Carlo (Hôtel de Ville du District Malum ; vu par Magnus) ; Épée de la Rose (plus d'Arlecchino en 1852).
 - note W4 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 - note W3 : Broche Monad - précision de forme (insigne en forme de rose, "M" doré au coeur) ; résout #2 (l'emblème rose de Léa = la Broche Monad ROUGE, cf. Personnages/Lea_Florence_Monad.md).
 - note W2 : + bloc Broche Monad (insigne Monad code couleur, canon ; circulation Carlo/Romeo/Léa). - bloc Monad Locket (retiré : son rôle de reconnaissance de Léa est supplanté par le combat dans la continuité Magnus, cf. Roadmap_03_Overture étape 13 ; références à nettoyer dans Romeo.md et Lea.md au lot des trajectoires).
@@ -91,7 +92,7 @@
 - Valentinus Monad offre l'épée de la Rose à Léa Florence.
 - Léa en parle dans sa lettre à Valentinus : "l'épée de la Rose m'a été offerte par Valentinus, fierté envers mes apprentis."
 - Apparaît dans le lore comme l'arme emblématique de la Rôdeuse Légendaire.
-- Arlecchino (DLC) reconnaît la tenue de la Rôdeuse Légendaire portée par P après le DLC et évoque son "Magnum Opus" inachevé.
+- Canon : Arlecchino, résiduel, reconnaît la tenue de la Rôdeuse Légendaire portée par P après le DLC et évoque son "Magnum Opus" inachevé. [DIVERGENCE RP] Sans objet : plus d'Arlecchino en 1852 (détruit pour de bon en 1850).
 - P obtient la tenue de Léa après les événements du DLC (après avoir vaincu Arlecchino).
 
 ### Liens
@@ -190,14 +191,15 @@
 ## Portrait de Carlo
 
 ### Nature
-- Portrait de Pinocchio (qui ressemble à Carlo) trouvé à l'hôtel de ville. Volé par la Confrérie des Lapins Noirs.
+- Portrait de Carlo, auquel P ressemble trait pour trait. Volé à Geppetto par la Confrérie des Lapins Noirs ; retrouvé à l'Hôtel de Ville du District Malum.
 
 ### Description / Faits canon
-- P découvre un portrait qui lui ressemble exactement à l'Hôtel de Ville de Krat.
+- P découvre un portrait qui lui ressemble exactement à l'Hôtel de Ville du District Malum, juste après la Confrérie.
 - Geppetto, quand P lui apporte le portrait, est "pris de court", disant que la Confrérie des Lapins Noirs l'avait volé.
 - Ce portrait = indice visuel que P ressemble à Carlo.
 - Lien avec le plan de Geppetto : le portrait existe parce que Carlo = modèle de P.
 - Timeline affectée (DLC) : dans la version altérée, ce portrait est aussi visible.
+- [DIVERGENCE RP - 1852 (5.3)] Magnus y voit pour la première fois le visage de Carlo, qu'il ne connaissait que par les mots de Léa : c'est celui de P. Markiona le reconnaît et se tait.
 
 ### Liens
 - cf. Personnages/Carlo.md, Personnages/Giuseppe_Geppetto.md, Factions/Black_Rabbit_Brotherhood.md.
@@ -228,7 +230,8 @@
 ### Description / Faits canon
 - Carlo offre son pendentif de remise de diplôme à Romeo lors de leur amitié à la Maison de Charité Monad.
 - Romeo porte ce pendentif jusqu'à sa mort.
-- P, en battant Romeo (Roi des Pantins), reçoit le necklace (collier) comme loot.
+- Canon : P, en battant Romeo (Roi des Pantins), reçoit le pendentif comme loot.
+- [DIVERGENCE RP] 1850 (Ère 3) : Léa le reprend dans la main arrachée de Romeo et le lui rend, sous les yeux de Magnus. 1852 (5.3) : P le récupère sur le corps de Romeo, qui s'est donné la mort ; Magnus le reconnaît et dit à P à qui il a appartenu.
 - Quand P apprend la vérité via le Stargazer doré sur l'origine du collier, il "semble malade" -- l'Ergo de Carlo en P reconnaît vaguement l'objet de son ancien ami.
 - Sophia avait dit que "l'Ergo contient les mémoires et la durée de vie distillée de la victime" -- cette réaction de P illustre ce principe.
 - Romeo dans son message à P : "Carlo, I'm Romeo. We grew up together in the Monad Charity House. Remember? We're best friends."

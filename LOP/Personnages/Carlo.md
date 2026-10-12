@@ -1,6 +1,7 @@
 # Carlo
 
-- version : W5
+- version : W6
+- note W6 : forage 5.3 [DIVERGENCE RP]. Pendentif récupéré après le suicide de Romeo ; portrait de Carlo vu par Magnus.
 - note W5 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Identité
@@ -21,7 +22,7 @@
 - Après la mort de Camille, Geppetto envoie Carlo à la Maison de Charité Monad. Geppetto ne lui rend jamais visite ; absent même à la remise de diplôme de Carlo.
 - Lady Antonia condamne l'attitude de Geppetto (négligence paternelle) et apprend elle-même à jouer du piano à Carlo. Carlo s'y révèle doué.
 - Carlo noue une amitié profonde avec Romeo. Tous deux aspirent à devenir rôdeurs.
-- Carlo offre à Romeo son pendentif de remise de diplôme. Ce geste est central : c'est ce pendentif que P récupère en tuant le Roi des Pantins, et la réaction physique de P (l'Ergo de Carlo "se souvient") signale l'identité profonde entre P et Carlo.
+- Carlo offre à Romeo son pendentif de remise de diplôme. Ce geste est central : c'est ce pendentif que P récupère sur le corps du Roi des Pantins (canon : en le tuant ; [DIVERGENCE RP] Romeo se donne la mort, cf. Personnages/Romeo.md), et la réaction physique de P (l'Ergo de Carlo "se souvient") signale l'identité profonde entre P et Carlo.
 - Carlo, Romeo et Léa Florence Monad jouent de la musique ensemble.
 - Carlo supplie Léa de lui enseigner l'épée. Léa trouve sa persistence agaçante (pas attendrissante). Elle dit à Geppetto de "se débarrasser de lui" et part. [DIVERGENCE RP] Carlo n'apprend donc JAMAIS l'épée -- ce qui rend la maîtrise de P énigmatique, son Ego venant de Carlo. La mémoire musculaire viendrait de la chair de Léa, bretteuse légendaire (indice : Alidoro trouve que le style de P "lui rappelle quelqu'un"). cf. Personnages/Pinocchio.md, Systemes/Genies_et_Chef_D_Oeuvres.md.
 - Outbreak de la Maladie de Pétrification à la Maison de Charité Monad -> Carlo meurt (1843 ; cf. Date de mort).
@@ -34,6 +35,7 @@
 - Plan final : extraire l'Organe-P de P après un maximum d'Ergo accumulé, le placer dans le Pantin sans Nom -> Carlo ressuscite dans un corps pantin.
 - Bad ending : Carlo renaît via le coeur de P placé dans le Pantin sans Nom. "Carlo" sort de l'hôtel avec Geppetto. Les résidents de l'hôtel sont morts (Carlo les a tués). Geppetto le décrit comme "son fils" retrouvé.
 - [INTERPRÉTATION] Ce "Carlo" issu du bad ending est-il vraiment Carlo ou une version dominée par la haine du Pantin sans Nom ? La source ne tranche pas explicitement, mais la mort des résidents de l'hôtel est attribuée à "Carlo".
+- Portrait de Carlo : volé à Geppetto par la Confrérie des Lapins Noirs, retrouvé par P à l'Hôtel de Ville du District Malum et rendu à Geppetto, pris de court (canon). [DIVERGENCE RP - 1852 (5.3)] Magnus y voit pour la première fois le visage de Carlo, qu'il ne connaissait que par les mots de Léa : c'est celui de P. Markiona le reconnaît et se tait. cf. Objets/Objets_et_Reliques.md.
 
 ### Présence dans P (Ergo / Ego)
 

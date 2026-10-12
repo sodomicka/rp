@@ -1,12 +1,13 @@
 # Boss et Créatures
 
-- version : W4
+- version : W5
+- note W5 : forage 5.3 [DIVERGENCE RP]. + bloc PANTIN CLOWN ENRAGÉ (noyau, canon). Roi des Pantins : fin 1852 (étreinte de Magnus, suicide de Romeo).
 - note W4 : forages 5.1 et 5.2 [DIVERGENCE RP]. Parade Master, Scrapped Watchman et Fuoco vaincus par P ET Magnus ; laïus du Watchman traduit par Magnus (conforme au canon). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 - note W3 : retrait du bloc Mad Donkey (repositionné en ALLIÉ de Magnus [DIVERGENCE RP] ; vit désormais dans Personnages/PNJ_secondaires.md, sans pointeur ici).
 - note W2 : ajout du bloc Ange de l'Arc reforgé (Overture / Ère 3, 1850 ; [DIVERGENCE RP]). Reforgé de son épave laissée à Zelator en 1847, gardien du Krat Zoo pour le compte de l'Ordre, battu par Magnus en solo.
 
 > Fiche groupée. Chaque entité = un bloc indépendant.
-> Entités : Maître du Défilé, Veilleur Désarticulé / Murphy, Fuoco, Roi des Pantins,
+> Entités : Maître du Défilé, Veilleur Désarticulé / Murphy, Fuoco, Roi des Pantins, Pantin Clown Enragé,
 >            Marcheur d'Illusions, Champion Victor, Monstre Vert du Marais,
 >            Gardien Tourmenté des Ruines, Surveillant aux Deux Visages, prédateur tyrannique,
 >            Ange de l'Arc reforgé ([DIVERGENCE RP]), Pantin sans Nom, Gardien de la Porte.
@@ -106,17 +107,34 @@
 - Boss final de la zone Rue Rosa Isabel / Opéra Estella :
   - Phase 1 : combat en forme de pantin géant.
   - Phase 2 : Romeo émerge de la machine après la défaite du pantin.
-  - Après la défaite : remercie P de lui avoir donné la liberté.
+  - Canon : après la défaite, remercie P de lui avoir donné la liberté.
 - DLC Overture (timeline passée, fin) : Romeo mourant dans les bras de Léa après le combat d'Arlecchino ; Léa lui sourit (acceptation de l'inévitable).
 
 ### Capacités
 - Contrôle de tous les pantins via les ondes Ergo.
 - Combat en deux phases.
-- A "tend la main" à P (ne voulait pas combattre) -> P la repousse par incompréhension.
+- Canon : a "tendu la main" à P (ne voulait pas combattre) -> P la repousse par incompréhension.
 
 ### Sort
-- Vaincu par P à l'Opéra.
+- Canon : vaincu par P à l'Opéra.
+- [DIVERGENCE RP - 1852 (5.3)] Phase 1 : vaincu par P et Magnus, Markiona présente. Phase 2 : pas de combat ; Magnus le reconnaît et l'étreint ; Romeo se donne la mort (sa lame dans son coeur d'Ergo). P récupère le Pendentif de diplôme de Carlo. cf. Personnages/Romeo.md.
 - Timeline passée DLC : mourant après le combat contre Arlecchino et P.
+
+---
+
+## PANTIN CLOWN ENRAGÉ
+
+### Identité
+- Nom : Pantin Clown Enragé (VO : Mad Clown Puppet).
+- Nature : pantin frénétique.
+
+### Rôle (résumé boss)
+- Boss optionnel du chapitre 6, sur la Rue Rosa Isabel, près du Stargazer de l'entrée de la rue.
+- Deux pantins lance-flammes l'escortent et engagent le combat avant lui.
+- Récompense canon : du Quartz.
+
+### Sort
+- [DIVERGENCE RP - 1852 (5.3)] Vaincu par P et Magnus, Markiona en retrait.
 
 ---
 
