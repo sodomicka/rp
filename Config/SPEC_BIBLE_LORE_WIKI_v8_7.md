@@ -90,13 +90,7 @@ Regles derivees :
 - Pas de narration, pas de prose, pas de metaphores.
 - Pas d'adjectifs decoratifs ni de jugements de valeur.
 - Phrases > 25 mots interdites.
-- Redaction ASCII STRICTE (diacritiques retires des lettres ET tout caractere non-ASCII converti), meme regle que le CODEX et que l'INSTRUCTION S3.4 :
-  - Symboles : signe section U+00A7 -> "S" (donc SB0..SB9) ; tiret cadratin U+2014 -> "-" ; guillemets U+00AB / U+00BB -> guillemet droit " ; fleche U+2192 -> -> ; apostrophe courbe U+2019 -> apostrophe droite '.
-  - Allemand : u-trema -> u ; o-trema -> oe ; a-trema -> ae ; eszett -> ss (ex. Ubung, schoen, Maedchen, Strasse).
-  - Francais : accents retires dans les fichiers ; reaccentues en narration.
-  - Japonais / coreen : romanisation ASCII ; kanji et hangul jamais ecrits (romanisation + glose si mot porteur).
-  - Verification avant chaque sortie : grep -nP '[^\x00-\x7F]' sur le fichier genere doit revenir vide. Regle de portee : tout fichier .md du systeme est en ASCII strict (BIBLE_LORE, pages WIKI, fichiers Parties/, SPEC, et le CODEX - cf. SPEC_CODEX, qui n'exempte plus le signe section ni le cadratin) ; les instructions de projet (.txt) restent accentuees pour la lisibilite humaine.
-- Ingestion : nom fetche en forme accentuee converti en ASCII a l'ecriture, jamais reinjecte accentue. Pour interroger le canon, requeter la forme d'origine accentuee.
+- Ingestion : pour interroger le canon, requêter la forme d'origine du nom (accentuée si elle l'est : meilleur rappel).
 - Aucune theorie de fans. Aucune speculation non balisee.
 
 ### Niveaux de certitude
@@ -256,7 +250,7 @@ Types de pages possibles :
 - Tout decoupage thematique pertinent au RP.
 
 ### Principes redactionnels
-- Meme registre que la BIBLE : factuel, sans accent, sans narration.
+- Meme registre que la BIBLE : factuel, sans narration.
 - Niveaux de certitude identiques : etabli / [IMPLICITE] / [INTERPRETATION] / [INCERTAIN] / [DIVERGENCE RP].
 
 ### Budget par page
@@ -632,7 +626,7 @@ Le MJ ne fetche PAS de sources supplementaires de sa propre initiative. Trou cri
 
 ## 10. Utilisation en narration
 
-Les regles d'usage en narration (declencheur objectif de fetch, TTL, budgets par tour, sequence d'ouverture de thread, gestion des echecs de fetch et backstop anti-invention) vivent dans les Instructions RP (S4) et ne sont PAS dupliquees ici : une regle de narration ecrite dans une SPEC que la narration ne charge jamais est du texte mort qui desynchronise en silence.
+Les regles d'usage en narration (declencheur objectif de fetch, TTL, sequence d'ouverture de thread, gestion des echecs de fetch et backstop anti-invention) vivent dans les Instructions RP (S4) et ne sont PAS dupliquees ici : une regle de narration ecrite dans une SPEC que la narration ne charge jamais est du texte mort qui desynchronise en silence.
 
 Seuls invariants cote SPEC :
 - Chaque page WIKI/Parties est une unite autonome, fetchee en entier.

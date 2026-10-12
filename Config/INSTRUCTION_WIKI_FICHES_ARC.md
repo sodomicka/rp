@@ -44,7 +44,7 @@ Protocole de build :
 - **DUREE.** Reporter l'echelle temporelle de l'etape ("Echelle temporelle de l'arc") depuis la colonne Duree de la roadmap.
 - Section "Notes de frontiere" : lister les faits volontairement ABSENTS parce que posterieurs, SANS les enoncer.
 - **Budget.** Plafond souple : viser <= 20 000 caracteres par defaut ; un univers peut le relever par decision du worldbuilder, notee en BIBLE SB0 (KNY : 25 000). Au-dela : signaler, puis dans l'ordre - compresser la mini-bible (renvois vers les fiches neutres a la place du condense) AVANT de toucher au Deroule, qui est la raison d'etre de la fiche ; scinder en dernier recours. Jamais gonfler.
-- Sortie : Markdown brut, ASCII strict, fin : FIN_WIKI_FICHE_ARC_<ARC>. Mettre a jour le Sommaire au prochain BIBLE BUILD.
+- Sortie : Markdown brut, fin : FIN_WIKI_FICHE_ARC_<ARC>. Mettre a jour le Sommaire au prochain BIBLE BUILD.
 
 ROUTAGE DES FAITS DE PASSE 3. Contrairement a la Passe 2, la Passe 3 n'est pas retroactive : une fiche d'arc ne repasse PAS sur les fiches neutres qui lui ont servi de source. Chaque fait nouveau decide par le worldbuilder pendant la mise en scene se route ainsi :
 1. CONTRADICTION avec l'etabli (BIBLE, WIKI, roadmap) -> STOP. Le MJ expose les deux versions ; le worldbuilder choisit celle qui fait foi ; la version perdante est corrigee la ou elle vit. C'est le seul cas de retour en arriere.
