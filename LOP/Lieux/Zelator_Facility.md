@@ -1,6 +1,7 @@
 # Zelator Facility
 
-- version : W3
+- version : W4
+- note W4 : forage 5.3 [DIVERGENCE RP]. + le prototype de Markiona récupéré en 1850.
 - note W3 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
@@ -58,6 +59,7 @@
 
 - En 1847 (Ère 1) : lab actif, peuplé, atelier secret de Markiona.
 - En 1850 (DLC) : lab abandonné, sujets d'expérience ratés errent. Véronique et Surveillant aux Deux Visages vaincus. État post-DLC : [INCERTAIN]. P retourne dans sa timeline d'origine.
+- [DIVERGENCE RP - 1850] Markiona y récupère le prototype d'extraction d'Ergo qui lui a servi à concevoir la nutrition de Magnus. cf. Objets/Objets_et_Reliques.md.
 
 ---
 

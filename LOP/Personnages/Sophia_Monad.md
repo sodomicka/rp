@@ -1,6 +1,7 @@
 # Sophia Monad
 
-- version : W4
+- version : W5
+- note W5 : forage 5.3 [DIVERGENCE RP]. Magnus la voit au hub, promesse concrète ; elle sent l'Ergo de Romeo se libérer et console Magnus ; + relation Markiona (prototype).
 - note W4 : (1) Lien avec Magnus PURGÉ de toute romance (décision worldbuilder, B8) : Magnus est psychologiquement mineur, aussi adultes soient son corps et son intellect ; lien PLATONIQUE d'âmes soeurs, pas un amour de désir. Remplace la "romance" des W3 et antérieures. (2) Forage 5.1 [DIVERGENCE RP] : à l'Hôtel Krat, elle apparaît au grand Stargazer "plus présente que jamais" (deux percepteurs présents, P et Magnus) ; communion avec Magnus (leurs Ergos se touchent et se mêlent un peu), promesse de délivrance renouvelée. 5.2 : fil en fond. + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 - note W3 : couche La Frenzy (Ère 4, 1850-1852). Suite directe de l'Overture : après sa capture (1850), Sophia est MENÉE à sa cage dès 1850 (Simon : "ta cage t'attend") puis BRANCHÉE à la machine et JOIGNABLE dès 1851 (et NON "base game" comme posé en W2 : le branchement est avancé au fil de l'Ère 4). [DIVERGENCE RP] Magnus devient le 2e percepteur (après P) de sa projection ACTIVE, captée à proximité d'un Stargazer, contact BIDIRECTIONNEL - à DISTINGUER de la résonance Ergo PASSIVE des mines à l'Overture (antérieure, aléatoire, sens unique). Au fil des patrouilles : romance avec Magnus + voeu de délivrance. C'est elle qui envoie Magnus à la Gare de Krat au printemps 1852.
 
@@ -57,7 +58,8 @@
 - Isabelle Monad (mère) : source de l'aptitude d'Oreille de Sophia. Morte lors de l'assaut de Simon.
 - Simon Manus (geôlier / admirateur obsessionnel) : "il l'a branchée à la machine non pas pour ses capacités, mais parce qu'il l'admirait et était jaloux de son pouvoir." Simon avoue mourant : "sans Sophia, il n'aurait pas pu supporter le fardeau de lire les esprits des gens." cf. Personnages/Simon_Manus.md.
 - Pinocchio / P (protégé / seul interlocuteur) : guide, renforce, échange avec P tout au long du jeu. Sa relation évolue au-delà du simple outil.
-- Magnus [DIVERGENCE RP - Ère 4] : 2e percepteur de sa projection active (après P), capté aux Stargazers dès 1851. Contact bidirectionnel né au fil des patrouilles -> confiance, affection, attachement d'âmes soeurs. Lien PLATONIQUE : pas un amour de désir, mais l'élan de Magnus (psychologiquement mineur) à retrouver son âme soeur emprisonnée. Magnus lui promet de la délivrer ; elle l'envoie à la Gare de Krat au printemps 1852. [DIVERGENCE RP - 1852] À l'Hôtel Krat, devant le grand Stargazer, leurs Ergos se touchent et se mêlent un peu ; il lui promet de venir bientôt la délivrer. cf. Personnages/Magnus.md.
+- Magnus [DIVERGENCE RP - Ère 4] : 2e percepteur de sa projection active (après P), capté aux Stargazers dès 1851. Contact bidirectionnel né au fil des patrouilles -> confiance, affection, attachement d'âmes soeurs. Lien PLATONIQUE : pas un amour de désir, mais l'élan de Magnus (psychologiquement mineur) à retrouver son âme soeur emprisonnée. Magnus lui promet de la délivrer ; elle l'envoie à la Gare de Krat au printemps 1852. [DIVERGENCE RP - 1852] À l'Hôtel Krat, devant le grand Stargazer, leurs Ergos se touchent et se mêlent un peu ; il lui promet de venir bientôt la délivrer. cf. Personnages/Magnus.md. [DIVERGENCE RP - 1852 (5.3)] À chaque passage au hub, il la VOIT au grand Stargazer. Après la silhouette de Manus, la promesse devient concrète : "il est réel, je viendrai". Après la mort de Romeo, dont elle a senti l'Ergo se libérer, elle le console.
+- Markiona [DIVERGENCE RP] : se doute de l'état de santé de Sophia ; son prototype de Zelator vise à extraire l'Ergo et l'Ego de Sophia vers un pantin, pour que Magnus ait de la compagnie pour toujours après sa mort. cf. Objets/Objets_et_Reliques.md.
 - Léa Florence Monad : soeur adoptive (Valentinus et Isabelle ont adopté Léa Florence). Sophia évoque ses apprentis avec émotion. cf. Personnages/Lea_Florence_Monad.md.
 - Carlo (lien indirect) : P porte l'Ergo de Carlo ; Sophia connaissait Carlo jeune (visions sur la plage : jeune Sophia parlant au jeune Carlo abandonné par son père).
 - Camille (lien d'Oreille) : Camil (le pantin maid) était une Oreille avec probablement l'Ergo de Camille. Les expériences d'Oreille cherchaient à lier les Oreilles aux reliques des Great Ones. Camille morte par accident lors de ces expériences.
@@ -69,7 +71,7 @@
 - Demande à P de lui donner la mort (libération). P a le choix.
 - Good/Best ending : sort non explicit pour le corps de Sophia. Best ending : si P a assez d'humanité, il place l'Ergo de Sophia dans un pantin -> Sophia vit dans ce corps.
 - [INCERTAIN] Ce que devient Sophia si P choisit de la "laisser" (ne pas la libérer) n'est pas détaillé au-delà de la prolongation de sa souffrance.
-- [DIVERGENCE RP] Le fil RP ouvre une tension à arbitrer : le voeu de délivrance de Magnus (dès 1851) vs le rôle canon de P (libération à l'Allée). L'arbitrage (qui délivre Sophia, et comment) -> roadmap Ère 5.
+- [DIVERGENCE RP] Le fil RP ouvre une tension à arbitrer : le voeu de délivrance de Magnus (dès 1851) vs le rôle canon de P (libération à l'Allée). L'arbitrage (qui délivre Sophia, et comment) -> roadmap Ère 5. Le prototype secret de Markiona (l'Ergo et l'Ego de Sophia dans un pantin, en écho à la best ending) ajoute un vecteur à cet arbitrage ; issue non fixée.
 
 ## Trajectoire datée
 
@@ -83,6 +85,8 @@
 | 1851 (Ère 4) [DIVERGENCE RP] | Branchée à la machine -> projection active, joignable. Magnus la capte aux Stargazers (2e percepteur après P) : contact bidirectionnel, lien d'âmes soeurs (platonique) | Branchée ; fil Magnus actif |
 | printemps 1852 (Ère 4) [DIVERGENCE RP] | Envoie Magnus à la Gare de Krat (où P gît inerte) | Déclencheur de la charnière vers l'Ère 5 |
 | 1852 (5.1, Hôtel Krat) [DIVERGENCE RP] | Apparaît au grand Stargazer "plus présente que jamais" ; Ergos mêlés avec Magnus ; promesse renouvelée | Lien affermi |
+| 1852 (5.3, Hôtel Krat) [DIVERGENCE RP] | Au grand Stargazer, Magnus a vu la silhouette de Manus : "il est réel, je viendrai" | Promesse concrète |
+| 1852 (5.3, après l'Opéra) [DIVERGENCE RP] | Sent l'Ergo de Romeo se libérer ; console Magnus. Conversation canon avec P : ses cheveux poussent | Lien affermi |
 | Trame base game | Projection spectrale dans tout Krat, guide P, alimente les Stargazers, rewind à chaque mort | Corps en souffrance ; âme fragmentée |
 | Confrontation finale | Demande à P la libération | Bifurcation : mort ou survie dans pantin |
 | Best ending | P place son Ergo dans un pantin | Nouvelle vie |

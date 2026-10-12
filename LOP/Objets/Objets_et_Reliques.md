@@ -1,7 +1,7 @@
 # Objets et Reliques
 
 - version : W5
-- note W5 : forage 5.3 [DIVERGENCE RP]. Pendentif (suicide de Romeo ; Magnus le reconnaît) ; Portrait de Carlo (Hôtel de Ville du District Malum ; vu par Magnus) ; Épée de la Rose (plus d'Arlecchino en 1852).
+- note W5 : forage 5.3 [DIVERGENCE RP]. Pendentif (suicide de Romeo ; Magnus le reconnaît) ; Portrait de Carlo (Hôtel de Ville du District Malum ; vu par Magnus) ; Épée de la Rose (plus d'Arlecchino en 1852). + bloc Prototype de Zelator.
 - note W4 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 - note W3 : Broche Monad - précision de forme (insigne en forme de rose, "M" doré au coeur) ; résout #2 (l'emblème rose de Léa = la Broche Monad ROUGE, cf. Personnages/Lea_Florence_Monad.md).
 - note W2 : + bloc Broche Monad (insigne Monad code couleur, canon ; circulation Carlo/Romeo/Léa). - bloc Monad Locket (retiré : son rôle de reconnaissance de Léa est supplanté par le combat dans la continuité Magnus, cf. Roadmap_03_Overture étape 13 ; références à nettoyer dans Romeo.md et Lea.md au lot des trajectoires).
@@ -238,6 +238,23 @@
 
 ### Liens
 - cf. Personnages/Carlo.md, Personnages/Romeo.md, Systemes/Ergo.md.
+
+---
+
+## Prototype de Zelator [DIVERGENCE RP]
+
+### Nature
+- Appareil d'extraction d'Ergo : le prototype qui a servi à Markiona pour concevoir la nutrition de Magnus.
+
+### Description / Faits RP
+- Récupéré par Markiona au complexe Zelator en 1850 (Overture, Ère 3).
+- Elle n'y travaille qu'à Aurus, jamais à l'Hôtel Krat ni en voyage, et ne dit jamais à Magnus ce qu'est ce projet.
+- But secret : elle se doute de l'état de santé de Sophia et veut extraire son Ergo et son Ego pour la mettre dans un pantin, afin que Magnus ait de la compagnie pour toujours après que la maladie aura emporté sa mère.
+- 1852 (5.3) : la veille de l'Opéra, à Aurus, Magnus la surprend penchée dessus. Elle esquive sans mentir à son fils : "C'est un projet pour plus tard. Cependant, ce n'est qu'un prototype loin d'être fonctionnel. Mais c'est mon projet, je le réalise seule, ne t'en préoccupe pas." Puis elle détourne la conversation.
+- Issue du projet et moment de la révélation : non fixés (-> roadmaps Ère 5).
+
+### Liens
+- cf. Personnages/Markiona.md, Personnages/Magnus.md, Personnages/Sophia_Monad.md, Lieux/Aurus.md, Lieux/Zelator_Facility.md.
 
 ---
 

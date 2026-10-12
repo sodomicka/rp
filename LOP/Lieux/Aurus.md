@@ -1,6 +1,7 @@
 # Aurus
 
-- version : W2
+- version : W3
+- note W3 : forage 5.3 [DIVERGENCE RP]. + la Dame Blanche réfugiée ; l'atelier du prototype ; le rituel d'Aurus et la veille d'Opéra (1852).
 - note W2 : forages 5.1 et 5.2 [DIVERGENCE RP]. Aurus devient un refuge pour les Rôdeurs épargnés par le duo (l'Âne fou, la Rédemptée). + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 - STATUT : quartier [DIVERGENCE RP] - n'existe pas dans le jeu. Canon local du RP (décision worldbuilder). Quartier de Krat inventé pour servir de planque au duo Magnus / Markiona à l'Ère 1. cf. chronologie Magnus, Personnages/Magnus.md, Personnages/Markiona.md.
 
@@ -24,11 +25,14 @@
   - Arbustes : Cassis, Bergamote, Framboise.
   - Écho thématique : Magnus se nourrit d'Ergo et raffole du thé noir (cf. Personnages/Magnus.md) ; leur thé est parfumé de ce que le jardin fait pousser sous Ergo.
 - Tonalité : le cadre de l'année de routine confortable, d'égal à égal, qui suit la fuite du Zelator (cf. trajectoire Ère 1).
+- Le rituel d'Aurus : lectures du soir, thé noir préparé à deux, soins (Magnus absorbe les cristaux de Markiona ; remède maison depuis l'Ère 4). En 1852 (5.3), le trio y revient pour un battement, la veille de l'Opéra.
+- L'atelier de Markiona [DIVERGENCE RP - 1850+] : c'est ici, et nulle part ailleurs (ni à l'Hôtel Krat, ni en voyage), qu'elle travaille au prototype récupéré au complexe Zelator ; projet secret, jamais expliqué à Magnus. cf. Objets/Objets_et_Reliques.md.
 
 ## Refuge des Rôdeurs épargnés (1852) [DIVERGENCE RP]
 - Le havre du duo accueille les Rôdeurs que Magnus épargne au lieu de les abattre comme au canon :
   - l'Âne fou (5.1, Pont des Alchimistes) : refuse l'Hôtel Krat, accepte Aurus ;
   - la Rédemptée (5.2, funiculaire) : rallie Aurus, confiante dans la réputation des Loups parmi les Rôdeurs.
+  - la Dame Blanche, Patricia (5.3, Rue Rosa Isabel) : épargnée, elle accompagne le trio jusqu'à l'Opéra, entend la confession de sa soeur, puis rentre à Aurus.
 - Organisation de leur présence sur place : non fixée. cf. Personnages/PNJ_secondaires.md.
 
 ## Routage / note
@@ -36,7 +40,7 @@
 
 ## Liens
 - Magnus / Markiona : occupants du havre. cf. Personnages/Magnus.md, Personnages/Markiona.md.
-- L'Âne fou, la Rédemptée [DIVERGENCE RP - 1852] : réfugiés. cf. Personnages/PNJ_secondaires.md.
+- L'Âne fou, la Rédemptée, la Dame Blanche [DIVERGENCE RP - 1852] : réfugiés. cf. Personnages/PNJ_secondaires.md, Personnages/Les_Hiboux.md.
 - Balayeurs : faction tutélaire du quartier ; porte d'entrée vers les Rôdeurs (Ère 2). cf. Factions/Les_Stalkers.md.
 - Krat : ville-cadre, ascendance côtière pauvre. cf. Lieux/Krat.md, SB3.
 
