@@ -1,7 +1,7 @@
 # Aurus
 
 - version : W3
-- note W3 : forage 5.3 [DIVERGENCE RP]. + la Dame Blanche réfugiée ; l'atelier du prototype ; le rituel d'Aurus et la veille d'Opéra (1852).
+- note W3 : forage 5.3 [DIVERGENCE RP]. + la Dame Blanche réfugiée ; l'atelier du prototype ; le rituel d'Aurus et la veille d'Opéra (1852). + les nuits d'Aurus.
 - note W2 : forages 5.1 et 5.2 [DIVERGENCE RP]. Aurus devient un refuge pour les Rôdeurs épargnés par le duo (l'Âne fou, la Rédemptée). + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 - STATUT : quartier [DIVERGENCE RP] - n'existe pas dans le jeu. Canon local du RP (décision worldbuilder). Quartier de Krat inventé pour servir de planque au duo Magnus / Markiona à l'Ère 1. cf. chronologie Magnus, Personnages/Magnus.md, Personnages/Markiona.md.
 
@@ -25,7 +25,8 @@
   - Arbustes : Cassis, Bergamote, Framboise.
   - Écho thématique : Magnus se nourrit d'Ergo et raffole du thé noir (cf. Personnages/Magnus.md) ; leur thé est parfumé de ce que le jardin fait pousser sous Ergo.
 - Tonalité : le cadre de l'année de routine confortable, d'égal à égal, qui suit la fuite du Zelator (cf. trajectoire Ère 1).
-- Le rituel d'Aurus : lectures du soir, thé noir préparé à deux, soins (Magnus absorbe les cristaux de Markiona ; remède maison depuis l'Ère 4). En 1852 (5.3), le trio y revient pour un battement, la veille de l'Opéra.
+- Le rituel d'Aurus : lectures du soir, thé noir préparé à deux, soins (Magnus absorbe les cristaux de Markiona ; remède maison depuis l'Ère 4). En 1852 (5.3), Magnus et Markiona y reviennent pour un battement, la veille de l'Opéra ; P, qui ne dort pas, reste à l'Hôtel Krat auprès de son père.
+- Les nuits d'Aurus [DIVERGENCE RP - Ère 5] : depuis que des invités squattent sa chambre (répartis entre le salon et la chambre), Magnus partage le lit de sa mère ; avant, il avait le sien. Lien purement familial, sans la moindre ambiguïté (cf. Personnages/Markiona_relations.md).
 - L'atelier de Markiona [DIVERGENCE RP - 1850+] : c'est ici, et nulle part ailleurs (ni à l'Hôtel Krat, ni en voyage), qu'elle travaille au prototype récupéré au complexe Zelator ; projet secret, jamais expliqué à Magnus. cf. Objets/Objets_et_Reliques.md.
 
 ## Refuge des Rôdeurs épargnés (1852) [DIVERGENCE RP]

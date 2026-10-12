@@ -19,7 +19,7 @@ Satellite de Personnages/Pinocchio. Trajectoire datée, de sa création à l'Èr
 | 1852 (5.3, chemin du pèlerin) | Remarque le Stargazer doré, inactif | Voyage de 1850 posé (5.5) |
 | 1852 (5.3, District Malum) | Fait route avec Claudia et Lucio, qui ne voient en lui qu'un Rôdeur au bras de métal ; la Confrérie affrontée en trio dans la cour de l'Hôtel de Ville : l'Aîné meurt, les trois autres fuient | Vengeance jurée contre le trio |
 | 1852 (5.3, Hôtel de Ville -> jardins de l'Hôtel Krat) | Trouve le portrait de Carlo : son propre visage. À l'Arbre, cueille un Fruit d'Or pour Giangio (remède d'Antonia). Le soir, seul témoin des soins de Magnus à Markiona | Coeur pur avéré |
-| 1852 (5.3, Hôtel Krat -> Aurus) | Rend le portrait à Geppetto, pris de court ; reçoit l'ordre d'abattre le Roi des Pantins ; Antonia remet la clé. Veille d'opéra à Aurus avec Magnus et Markiona | En mission contre le Roi |
+| 1852 (5.3, Hôtel Krat) | Rend le portrait à Geppetto, pris de court ; reçoit l'ordre d'abattre le Roi des Pantins ; Antonia remet la clé. Veille d'opéra : il ne dort pas et reste à l'Hôtel Krat auprès de son père, pendant que Magnus et Markiona passent la nuit à Aurus | En mission contre le Roi |
 | 1852 (5.3, Rue Rosa Isabel) | Pantin Clown Enragé détruit avec Magnus ; Julian ; la Dame Blanche vaincue et épargnée | |
 | 1852 (5.3, Opéra Estella) | Pomme rouge pour Adelina via Polendina ; confession. Roi des Pantins vaincu avec Magnus (phase 1) ; Romeo le reconnaît, le regarde, terrifié, sans un mot, et se donne la mort ; P récupère le pendentif | Pendentif de Carlo en main |
 | 1852 (5.3, Opéra -> Hôtel Krat) | Magnus lui dit à qui appartenait le pendentif ; au hub, fin de la conversation canon : ses cheveux poussent | Humanité en marche |
