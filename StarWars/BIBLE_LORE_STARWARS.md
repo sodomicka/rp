@@ -17,7 +17,7 @@
 ## SB0 Metadonnees
 - univers : Star Wars, base Legends, ere Legacy. Focus : la vie de Darth Talon.
 - sources primaires : comics Star Wars: Legacy et Legacy - War (John Ostrander, Jan Duursema, Dark Horse) ; Wookieepedia, articles Legends ; Legacy Era Campaign Guide ; Jedi vs. Sith: The Essential Guide to the Force (date de 130 ABY ecartee, cf. SB1). Complement Disney : Maul - Shadow Lord (nom Devon Izara seulement).
-- bible_version : B3
+- bible_version : B4
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/StarWars/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/StarWars/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/StarWars/Partie1/`
@@ -27,9 +27,10 @@
   - Factions - One Sith, Empire de Krayt, Empire Fel, Alliance et Jedi (4 pages)
   - Systemes - formation Sith (1 page)
   - Chronologie - histoire galactique, ere Legacy (2 pages)
-  - Personnages - Varra, Darth Talon, Darth Ruyn, Darth Krayt, Darth Nihl, Cade Skywalker, Darth Wyyrlok III, Darth Maladi, Marasiah Fel, Antares Draco, Wolf Sazen, Shado Vao (12 pages)
+  - Personnages - Varra, Darth Talon, Darth Ruyn, Darth Krayt, Darth Nihl, Darth Stryfe, Cade Skywalker, Darth Wyyrlok III, Darth Maladi, Marasiah Fel, Antares Draco, Wolf Sazen, Shado Vao (13 pages)
   - Roadmap/Varra/ - garde-cap et roadmaps, non indexes au Sommaire : sources de build, jamais fetches en narration
   - Lieux - Temple des Sith, l'antre (2 pages)
+- derogation de budget : fiches de Varra et de Talon, plafond 20 000 caracteres (personnages principaux ; decision du worldbuilder).
 
 ## SB1 Cosmogonie et regles du monde
 
@@ -198,7 +199,7 @@ Etat decrit : au point de depart (137 ABY, avant le sacre). Le devenir posterieu
 - Darth Wyyrlok III - Chagrien a peau rouge cuivre, 62 ans ; Voix, Maitre du savoir, regent pendant les stases | second en puissance ; deux sabres, eclair, sorcellerie, illusions, guerison | fidele a l'Ordre plus qu'a l'homme ; confident du sacre ; fils de Wyyrlok II, petit-fils de Wyyrlok I | vivant. Detail : cf. WIKI Personnages/Darth_Wyyrlok_III.md.
 - Saarai - Chagrienne, fille de Wyyrlok III ; apprentie sans tatouages formee sur Korriban, heritiere pressentie du titre (Darth Wyyrlok IV) | vivante.
 - Darth Nihl - Nagai, Main depuis 130 ABY, environ 45 ans apparents | sabre a long manche ; eclair, etranglement ; tuk'ata | rival de Talon ; compte que la place de Ruyn disparaitra avec lui ; tueur de Kol Skywalker a Ossus | vivant, Main. Detail : cf. WIKI Personnages/Darth_Nihl.md.
-- Darth Stryfe - Poing depuis la promotion de Nihl (130 ABY) | - | - | vivant | peu documente avant 137 ABY.
+- Darth Stryfe - humain ; Poing depuis la promotion de Nihl (130 ABY) | brute, sabre, poussee, eclair, sent les Jedi de loin | fidele a Krayt a la lettre | vivant. Detail : cf. WIKI Personnages/Darth_Stryfe.md.
 - Darth Maladi, nee Malincha - Devaronienne, 53 ans (nee en 84 ABY sur Devaron) ; Renseignement et Assassinat Sith, medecin de l'Ordre | poisons, armes biologiques, alchimie Sith, bio-ingenierie vong ; eclair | parents tues par Krayt ; recoud Talon et lui fournit ses contrats ; a raye la bete des bas-fonds sur sa parole ; pas dans la confidence du sacre | vivante. Detail : cf. WIKI Personnages/Darth_Maladi.md.
 - Darth Havok (Eshkar Niin) - Inquisiteur ; ancien Chevalier Imperial passe au cote obscur | - | a tue Elliah, epouse de Roan Fel (date non documentee) | vivant.
 - Darth Kruhl - agent du Renseignement Sith, sous Maladi | vivant.
@@ -230,10 +231,12 @@ Etat decrit : au point de depart (137 ABY, avant le sacre). Le devenir posterieu
 - Astraal Vao - soeur jumelle de Shado, elevee par la Mission Imperiale | vivante.
 - K'Kruhk - maitre Jedi whiphide, un des formateurs de Cade | vivant.
 - Nat Skywalker - frere de Kol, alias Bantha Rawk ; a choisi le site du Temple Cache de Taivas | vivant.
-- Hosk Trey'lis - chevalier Jedi | vivant.
+- Hosk Trey'lis - chevalier Jedi bothan ; capture par Cade pour une prime et vendu a Krayt, prisonnier au Temple au point de depart [INCERTAIN] | vivant.
 - Ellu Viss - Jedi, fuit Ossus avec un livre d'histoire de la Force | vivant.
-- Nei Rin - Faconneur vong du projet Ossus ; a le sabre de Kol au point de depart. [IMPLICITE]
+- Nei Rin - Faconneuse vong du projet Ossus ; a le sabre de Kol au point de depart. [IMPLICITE]
 - Rav - pirate ; son equipage recueille Cade apres Ossus ; Cade se fait son apprenti et rembourse sa dette.
+- Chak et Kee - contrebandiers, un Wookiee et sa partenaire, habitues de chez Rik | vivants.
+- R2-D2 - astromech, celui des films ; son detenteur au point de depart n'est pas documente [INCERTAIN] | actif.
 
 ### Figures du passe
 - Darth Bane - fonde la Regle des Deux (1000 BBY) ; son holocron condamne la Regle de l'Un.
@@ -262,7 +265,7 @@ Etat decrit : au point de depart (137 ABY, avant le sacre). Le devenir posterieu
 
 ## SB7 Artefacts et objets
 `Objet - nature | origine | pouvoir/fonction | localisation connue | certitude`
-- Sabres du One Sith - poignees organiques et noueuses facon corail yorik, a mi-chemin entre racine et os | heritage vong | arme ; Krayt, Talon, Nihl, Wyyrlok III, second sabre de Varra. Exception : Maladi, poignee de metal toute simple | portes par les Sith.
+- Sabres du One Sith - poignees organiques et noueuses facon corail yorik, a mi-chemin entre racine et os | heritage vong | arme ; Krayt, Talon, Nihl, Wyyrlok III, second sabre de Varra. Exceptions : Maladi et Stryfe, poignees de metal lisses | portes par les Sith.
 - Sabre de Mace Windu, le vrai - lame violette, poignee finition electrum | tombe dans les rues de Coruscant en 19 BBY ; celui de Sano Sauro est un faux [DIVERGENCE RP] | premier sabre de Varra, qui refuse de le faire saigner | Varra.
 - Second sabre de Varra - cristal du premier Jedi qu'il abat, saigne si brutalement qu'il s'est fendu ; lame rouge instable [DIVERGENCE RP] | - | arme | Varra.
 - Sabre de Kol Skywalker - poignee d'argent lisse, anneau au pommeau | Kol | arme | chez Nei Rin au point de depart [IMPLICITE].
@@ -292,7 +295,8 @@ Etat decrit : au point de depart (137 ABY, avant le sacre). Le devenir posterieu
 - L'acolyte secret de Devon Izara - DETONE en R1 : Varra se revele lui-meme devant Krayt (cf. roadmap R1).
 - Secret de lignee - Talon ignore que Ruyn, ne Izara, est son grand-pere ; seuls Krayt et Ruyn le savent | Krayt le lui revele (moment a placer en roadmap, cf. garde-cap) | arme.
 - Fausse piste de 133 - ARMEE en R1 : Maladi reconnait Varra, se tait et garde la carte du mensonge de Talon pour plus tard (cf. garde-cap).
-- Le poignard de Nihl - plante en R1 (Vendaxa) : Nihl voit Varra se battre, ne pose pas de question et consigne | detonation a placer en roadmap | un poignard potentiel contre sa rivale, Talon.
+- Le poignard de Nihl - plante en R1 (Vendaxa), DESAMORCE en R2 : en rendant Varra a Talon, Nihl choisit l'Ordre plutot que sa rivalite (cf. roadmap R2).
+- Liaison Talon - Cade - ARMEE en R2 : Talon couche avec Cade pour le manipuler et ne pense qu'a Varra ; Varra l'ignore | il l'apprend dans une roadmap suivante | la rage de Varra contre Cade.
 
 ## SB9 Index - routage
 
@@ -301,4 +305,4 @@ Index detaille page-par-page : cf. WIKI StarWars/Sommaire.md
 
 ---
 
-FIN_BIBLE_B3
+FIN_BIBLE_B4

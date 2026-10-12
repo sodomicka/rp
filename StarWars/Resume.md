@@ -1,6 +1,6 @@
 # Resume - StarWars
 
-- version : W3
+- version : W4
 
 ## Usage
 - Condense du recit tel qu'etabli (canon + divergences actees), pour le worldbuilder. Outil hors RP et hors build : jamais fetche, non indexe au Sommaire. Mis a jour a chaque BIBLE BUILD.
@@ -38,7 +38,16 @@ Krayt envoie ensuite Talon capturer Marasiah Fel, fille et heritiere de l'empere
 Sur Vendaxa, Talon teste la meute de Varra sur le terrain. Toute la meute y passe. Varra bouillonne ; Talon le voit et l'envoie la venger, juste avant que les renforts des deux camps n'arrivent, trop tard pour le cacher. Darth Nihl, l'autre Main et le rival de Talon, voit Varra se battre. Il ne pose pas de question et consigne : un poignard potentiel contre sa rivale, et une excellente arme a ses yeux. Talon echoue ; le Chevalier Imperial Antares Draco la pousse hors du Mynock.
 
 ## La sentence
-De retour devant Krayt, dans la salle du trone, Talon s'attend a etre executee et revele qu'un Skywalker est dans le coup. Varra se presente de lui-meme et demande a etre execute pour sauver sa maitresse : l'echec est sa faute. L'Ordre decouvre l'acolyte secret. Darth Maladi reconnait la bete qu'elle a rayee en 133 sur la parole de Talon, et se tait : elle garde la carte du mensonge pour plus tard. La sentence tombe : Talon doit gerer Cade, et Varra est confie a Nihl, pour apprendre une autre vision que celle de sa maitresse.
+De retour devant Krayt, dans la salle du trone, Talon s'attend a etre executee et revele qu'un Skywalker est dans le coup. Varra se presente de lui-meme et demande a etre execute pour sauver sa maitresse : l'echec est sa faute. L'Ordre decouvre l'acolyte secret. Darth Maladi reconnait la bete qu'elle a rayee en 133 sur la parole de Talon, et se tait : elle garde la carte du mensonge pour plus tard. La sentence tombe : Talon doit gerer Cade, et Varra est confie a Nihl, pour apprendre une autre vision que celle de sa maitresse. Pour Krayt, c'est une epreuve plus qu'une punition : a Vendaxa, discipliner Varra a distrait Talon.
+
+## Cade au Temple
+Sous la coupe de Nihl, Varra tente de revenir a l'antre, mais sans sa meute l'endroit est mort ; il demande une chambre au Temple, un lieu qui vive. Nihl le lache sans laisse et savoure sa destruction debridee.
+
+Cade Skywalker, qui a recupere a Ossus le sabre de son pere, s'infiltre au Temple pour liberer le Jedi Hosk Trey'lis. Talon l'affronte et perd. Au moment ou il va la tuer, Varra se jette sur lui par reflexe et le terrasse a mains nues ; il ne l'epargne que sur ordre de Nihl, car Krayt le veut vivant. Talon voit que Varra s'est battu pour elle ; envers Nihl, elle eprouve un melange de mepris et de respect.
+
+Maladi torture Cade, qui guerit ses amis par le cote obscur et accepte d'ecouter Krayt. A l'audience, Krayt lui revele qu'il fut le Jedi A'Sharad Hett. Cade rouvre toutes les blessures de Talon ; Varra manque de le demonter, et Krayt l'arrete. Sur son ordre, Cade soigne Talon, et un lien dans la Force se noue entre eux. Krayt fait de Talon son maitre : c'est l'epreuve annoncee a la sentence. Trois semaines durant, elle couche avec Cade pour le rendre accro, mais n'y prend plaisir qu'en pensant a Varra, un pressentiment qu'elle refoule. Varra n'en sait rien.
+
+Apres une fuite ratee, Krayt tue Hosk devant Cade, et Nihl poste Varra en sentinelle dans les bas-fonds. Cade s'evade : il empale Talon avec le sabre de son pere, tranche le bras droit de Nihl, et sa mere, Morrigan Corde, l'arrache au Temple. Varra sent Talon mourante, deserte son poste et la rejoint d'immeuble en immeuble ; Cade est deja loin. Krayt remplace Nihl comme Main par Darth Stryfe. Nihl ne juge pas la desertion de Varra et suggere a Krayt de le rendre a Talon. Krayt en fait le gardien de sa stase, pendant qu'elle se remet en cuve de bacta.
 
 ## L'axe du recit
 Deux Sith qui restent des enflures, mais qui developpent une co-dependance plutot qu'une ambition solitaire.
