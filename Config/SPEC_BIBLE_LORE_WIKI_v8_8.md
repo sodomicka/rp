@@ -1,4 +1,4 @@
-# SPEC_BIBLE_LORE_WIKI v8.7
+# SPEC_BIBLE_LORE_WIKI v8.8
 
 Ce fichier definit la forme, les regles de construction et le gabarit du systeme BIBLE_LORE + WIKI + Parties :
 - `BIBLE_LORE_{UNIVERS}.md` - index de routage + lore condense. Vit sur le depot, a la racine de `{Univers}/`. Lue EN ENTIER a l'ouverture de chaque thread de build (worldbuilding), avec le Sommaire et le journal d'implications. Pas lue en jeu : en narration, c'est la fiche d'arc qui prend le relais (cf. S10).
@@ -7,7 +7,7 @@ Ce fichier definit la forme, les regles de construction et le gabarit du systeme
 
 Le modele doit produire des documents factuels, structures, sans narration, sans interpretation non balisee.
 
-Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_WIKI_v8_7.md`.
+Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_WIKI_v8_8.md`.
 
 ---
 
@@ -562,7 +562,7 @@ Le joueur fournit :
 
 ### Fetch de la SPEC
 Au premier BIBLE BUILD (aucune BIBLE existante), le MJ LISTE d'abord `Config/` pour relever le numero de version courant (Instructions Wiki S8 : clone sans blobs par defaut, listing github.com/tree en secours), PUIS fetche la SPEC correspondante.
-Ne JAMAIS recopier un numero de version fige depuis un document (SPEC, instructions, BIBLE) : c'est le mecanisme de la spec fantome - un build fait sur une revision perimee dont personne ne s'apercoit. Si la SPEC n'est pas encore sur le depot (tout premier build, rien n'existe), le joueur la fournit en fichier joint ou dans le chat pour ce premier thread. Apres ce premier build, la SPEC est uploadee dans Config/ et tout passe en fetch.
+Ne JAMAIS recopier un numero de version fige depuis un document (SPEC, instructions, BIBLE) : c'est le mecanisme de la spec fantome - un build fait sur une revision perimee dont personne ne s'apercoit. Si la SPEC n'est pas encore sur le depot (tout premier build, rien n'existe), le joueur la fournit en fichier joint ou dans le chat pour ce premier thread. Après ce premier build, le MJ écrit la SPEC dans Config/ (Instructions Wiki §8bis) et tout passe en fetch.
 
 Pour les builds suivants, la BIBLE elle-meme sert de reference (gabarit integre dans les sections vides). Le fetch de la SPEC n'est necessaire que si le MJ a besoin de verifier une regle de construction.
 
@@ -584,8 +584,8 @@ Si sources completes et plan clair :
 
 ### Sortie du build
 - BIBLE_LORE : un fichier .md, a la racine de `{Univers}/` sur le depot. Les sections pas encore remplies conservent le gabarit (structure, champs, format) pour les builds futurs.
-- Pages WIKI : fichiers .md individuels par dossier, a uploader sur le depot GitHub par le joueur.
-- Pages Parties/ : fichiers .md si necessaire, a uploader dans Parties/{Univers}/Partie<n>/.
+- Pages WIKI : fichiers .md individuels par dossier, écrits sur le dépôt par le MJ (Instructions Wiki §8bis).
+- Pages Parties/ : fichiers .md si nécessaire, écrits de la même façon dans Parties/{Univers}/Partie<n>/.
 - Structure de sortie :
 ```
 BIBLE_LORE_{UNIVERS}.md
@@ -653,7 +653,7 @@ Le joueur peut demander un BIBLE BUILD entre deux sessions pour :
 
 Lors d'un rebuild, le numero de version de la BIBLE incremente (B1 -> B2 -> ...). L'historique des changements vit dans git (log + diff), pas dans un journal interne au fichier.
 Les pages WIKI/Parties modifiees sont re-livrees ; les autres restent intactes.
-Le joueur uploade les fichiers mis a jour sur le depot GitHub.
+Le MJ écrit les fichiers mis à jour sur le dépôt (Instructions Wiki §8bis).
 
 ---
 
@@ -663,8 +663,8 @@ Le joueur uploade les fichiers mis a jour sur le depot GitHub.
 ```
 sodomicka/rp/
   Config/
-    SPEC_CODEX_v8_6.md
-    SPEC_BIBLE_LORE_WIKI_v8_7.md
+    SPEC_CODEX_v8_7.md
+    SPEC_BIBLE_LORE_WIKI_v8_8.md
     (numeros indicatifs : verifier le listing reel de Config/ avant tout fetch)
   <Univers>/
     <Dossier_thematique>/
