@@ -1,4 +1,4 @@
-# SPEC_BIBLE_LORE_WIKI v8.8
+# SPEC_BIBLE_LORE_WIKI v8.9
 
 Ce fichier definit la forme, les regles de construction et le gabarit du systeme BIBLE_LORE + WIKI + Parties :
 - `BIBLE_LORE_{UNIVERS}.md` - index de routage + lore condense. Vit sur le depot, a la racine de `{Univers}/`. Lue EN ENTIER a l'ouverture de chaque thread de build (worldbuilding), avec le Sommaire et le journal d'implications. Pas lue en jeu : en narration, c'est la fiche d'arc qui prend le relais (cf. S10).
@@ -7,7 +7,7 @@ Ce fichier definit la forme, les regles de construction et le gabarit du systeme
 
 Le modele doit produire des documents factuels, structures, sans narration, sans interpretation non balisee.
 
-Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_WIKI_v8_8.md`.
+Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_WIKI_v8_9.md`.
 
 ---
 
@@ -254,18 +254,34 @@ Types de pages possibles :
 - Niveaux de certitude identiques : etabli / [IMPLICITE] / [INTERPRETATION] / [INCERTAIN] / [DIVERGENCE RP].
 
 ### Budget par page
-- Fourchette : 500 a 2000 tokens (~2000 a 8000 caracteres).
-- En dessous de 500 tokens : fusionner avec une page voisine.
-- Au-dela de 2000 tokens : scinder en sous-pages.
-- Exception : pages transcript jusqu'a 4000 tokens.
+- Fourchette : 2 000 à 12 000 caractères (vérification : wc -m).
+- En dessous de 2 000 : fusionner avec une page voisine.
+- Au-delà de 12 000 : scinder (pages satellites pour une fiche d'entité, cf. ci-dessous ; sous-pages sinon).
+- Exception : pages transcript jusqu'à 16 000 caractères.
 
 ### Pages satellites d'entite
 
 Quand une fiche d'entite sature son budget, elle se scinde en pages satellites nommees par volet :
 - `<Entite>_chrono_<N>.md` : trajectoire datee par ere (precedent : Nisha_chrono_A/B).
 - `<Entite>_inventaire.md` : objets, arsenal, possessions recurrentes.
-- `<Entite>_relations_<N>.md` : reseau relationnel ; decoupe par cercles (clan/famille, intimes, collegues/eleves) si le volume l'exige.
-La fiche mere garde le NOYAU (identite, mecanique, psychologie) et renvoie vers ses satellites. Un satellite respecte le budget de page standard ; sous le plancher de 500 tokens, il refusionne dans la fiche mere.
+- `<Entite>_relations_<N>.md` : reseau relationnel (règles propres : Satellite relations, ci-dessous).
+La fiche mere garde le NOYAU (identite, mecanique, psychologie) et renvoie vers ses satellites. Un satellite respecte le budget de page standard (12 000) ; sous le plancher de 2 000, il refusionne dans la fiche mere.
+Un satellite suit sa fiche mère : une fiche de groupe (précédent : Claudia_et_Lucio) a des satellites de groupe ; deux fiches distinctes ne partagent jamais un satellite.
+
+### Satellite relations
+
+OPTIONNEL. Tous les personnages n'y ont pas droit. Le worldbuilder le décide, le MJ peut le proposer, dans deux cas :
+- la fiche mère sature son budget ;
+- les relations portent assez de texture pour mériter leur page (adresses qui changent selon l'interlocuteur, régimes avant/après une bascule, rituels), même sans saturation.
+Sans satellite, les relations restent dans la fiche mère, avec les mêmes rubriques, adresses comprises.
+
+DÉCOUPE. Une page par cercle quand le volume l'exige (précédent : Nisha_relations_proches, _famille, _boulot, _eleves_tokyo).
+
+GROUPABLE. Une entrée peut viser un GROUPE (faction, cercle, fratrie) au lieu d'un individu, quand ses membres partagent la même relation à l'entité. Les membres qui font exception sont nommés dans l'entrée de groupe, avec leur usage propre. Un membre dont la relation va au-delà de l'exception garde sa propre entrée ; l'entrée de groupe le nomme sans redire son détail.
+
+ADRESSES. Rubrique obligatoire de chaque entrée, individuelle ou de groupe : qui appelle qui comment, dans les deux sens ; tutoiement ou vouvoiement ; surnoms et leurs conditions (en privé, devant témoins, depuis telle date) ; exceptions nominatives. La liste est EXHAUSTIVE : une adresse qui n'y figure pas ne s'emploie pas, prénom compris. Un satellite peut poser la convention inverse en tête (« les appellatifs listés s'ajoutent aux prénoms, toujours disponibles » : précédent Nisha).
+
+RÈGLES GÉNÉRALES. Une habitude d'adresse ou de comportement qui vaut pour tous les interlocuteurs (précédent : Nisha appelle toute femme « ma belle ») s'écrit une fois, en tête du satellite (ou de la première page d'une série), jamais entrée par entrée.
 
 Frontiere fiche/relations : la fiche mere garde la MECANIQUE d'une relation (domination, symbiose, pool partage - tout ce qui touche au systeme de pouvoir) ; la page relations porte la TEXTURE (surnoms et adresses reciproques, rituels et habitudes, dynamique, ce que l'autre sait de l'entite, evolution datee telegraphique). Cross-renvois obligatoires dans les deux sens.
 
@@ -273,18 +289,35 @@ Gabarit page relations :
 ```
 # <Entite> - Relations (<cercle>)
 
+- version : W<N>
+
+<Une ligne : satellite de quelle fiche, pages soeurs, où vit la mécanique.>
+
+## Règles générales (si besoin)
+- <habitude d'adresse ou de comportement valable pour tous les interlocuteurs>
+
 ## <Autre entite>
 - Statut : <une ligne>
-- Surnoms / adresses : <reciproques ; qui appelle qui comment, registre>
+- Surnoms / adresses : <dans les deux sens ; tu/vous ; surnoms et conditions ; ce qui ne s'emploie pas>
 - Rituels / habitudes : <...>
 - Dynamique : <...>
 - Ce que <l'autre> sait : <acces au secret, angles morts>
 - Evolution datee : <telegraphique, par date>
+
+## <Groupe> (entrée de groupe)
+- Statut : <la relation commune aux membres>
+- Surnoms / adresses : <usage du groupe> ; exceptions : <membres nommés, leur usage>
+- Dynamique : <...>
+```
+Exemple de FORMAT (illustratif, NE PAS inscrire tel quel) :
+```
+## Les Rôdeurs (entrée de groupe)
+- Surnoms / adresses : pour eux, Magnus et Markiona sont le Loup Noir et la Louve Blanche, jamais leurs vrais noms ; exceptions : Alidoro, Romeo et Léa emploient les vrais noms.
 ```
 
 ### Derogation fiche protagoniste
 
-La fiche d'un PROTAGONISTE echappe au plafond de page standard : plafond propre de 20 000 caracteres (verification : wc -m). Raison : c'est le document le plus central du WIKI ; la decouper pour respecter un budget pense pour des fiches PNJ multiplierait les fetchs obligatoires. Au-dela de 20k : scinder par pages satellites (ci-dessus), jamais gonfler.
+La fiche d'un PROTAGONISTE echappe au plafond de page standard : plafond propre de 30 000 caracteres (verification : wc -m). Même dérogation pour un personnage PIVOT désigné par le worldbuilder, noté en BIBLE SB0. Raison : c'est le document le plus central du WIKI ; la decouper pour respecter un budget pense pour des fiches PNJ multiplierait les fetchs obligatoires. Au-dela de 30k : scinder par pages satellites (ci-dessus), jamais gonfler.
 
 ### Structure interne d'une page
 Pas de gabarit impose sauf pour les Roadmaps (cf. gabarit ci-dessous). Obligations :
@@ -301,7 +334,7 @@ Regles :
 - CANON PAR DEFAUT, neutre, reutilisable entre parties (comme roadmaps et fiches d'arc).
 - OVERRIDE PAR PARTIES/ : quand une partie diverge, le delta va en Parties/{Univers}/Partie<n>/ et SURCLASSE cette strate pour la partie concernee (routage S7 inchange).
 - CONSOLIDATION : les pointeurs dates jadis en Notes de frontiere (mort canon, eveil, depart...) migrent ici sous forme datee ; Notes de frontiere ne garde que les renvois non dates et les hors-perimetre.
-- PLAFOND : par defaut 30 entrees max par fiche. Derivation : une ligne telegraphique fait ~120 car., 30 lignes ~3 600 car., soit moins de la moitie du plafond de page (8 000). Le worldbuilder ajuste par univers ; il ne laisse PAS le champ vide - un placeholder non rempli dans une SPEC est une regle morte, et les Instructions Wiki interdisent explicitement de laisser un [A definir] pour esquiver une question. Au-dela du plafond : compresser ou deporter en roadmap ; depassement signale, jamais compresse seul.
+- PLAFOND : par defaut 30 entrees max par fiche. Derivation : une ligne telegraphique fait ~120 car., 30 lignes ~3 600 car., soit moins du tiers du plafond de page (12 000). Le worldbuilder ajuste par univers ; il ne laisse PAS le champ vide - un placeholder non rempli dans une SPEC est une regle morte, et les Instructions Wiki interdisent explicitement de laisser un [A definir] pour esquiver une question. Au-dela du plafond : compresser ou deporter en roadmap ; depassement signale, jamais compresse seul.
 Gabarit :
 ```
 ## Trajectoire datee
@@ -384,7 +417,7 @@ IRONIE STRUCTURELLE vs PREFIGURATION SPECIFIQUE (distinction a ne pas confondre)
 - La PREFIGURATION SPECIFIQUE en prose est une FUITE, de deux especes : (i) au-dela de l'etape ("ce qu'il ne comprendra que des siecles plus tard", un evenement d'un arc ulterieur annonce dans le recit) - coupee par la troncature ; (ii) a l'interieur de l'etape - un temps du Deroule narre ou annonce avant que les choix du joueur n'y menent. Le Deroule se joue, il ne s'annonce pas.
 - Test : un fait sert l'ironie connue du JOUEUR -> CODEX (ANNEXE_SAVOIRS). Un fait dit au MJ ce qui arrive APRES la sortie de l'etape -> roadmap, hors fiche d'arc. Un fait dit au MJ comment se joue un temps de l'etape -> Deroule de la fiche d'arc.
 
-Budget : la fiche d'arc est l'EXCEPTION au plafond des pages WIKI. Comme c'est le SEUL document de lore charge a l'ouverture (la BIBLE n'est plus lue en jeu), elle a le droit d'etre lourde : aussi courte que possible, aussi longue que necessaire pour etre autosuffisante sur l'etape. Pas de plafond serre type 500-2000 tokens. Reste oriente "ce qu'il faut pour jouer l'etape" : on rapatrie le lore PERTINENT, condense (pas d'extraits integraux de la BIBLE), jamais du remplissage. PLAFOND SOUPLE : viser <= 20 000 caracteres ; au-dela, SIGNALER, puis dans l'ordre : compresser la mini-bible (renvois vers les fiches neutres a la place du condense) avant de toucher au Deroule, qui est la raison d'etre de la fiche ; scinder en dernier recours (ex. `Fiches_Arc/<Prota>/<Arc>_partie1.md`) ; jamais gonfler. Raison : la fiche d'arc n'est pas gratuite parce qu'elle est fetchee. Elle occupe le contexte de jeu EN FACE du CODEX (jusqu'a 90 000 car. au terminal du bareme) et reste chargee tout le thread. "Aussi longue que necessaire" sans repere chiffre etait la seule regle du systeme sans garde-fou - portant justement le document le plus lu de la phase de jeu.
+Budget : la fiche d'arc est l'EXCEPTION au plafond des pages WIKI. Comme c'est le SEUL document de lore charge a l'ouverture (la BIBLE n'est plus lue en jeu), elle a le droit d'etre lourde : aussi courte que possible, aussi longue que necessaire pour etre autosuffisante sur l'etape. Pas de plafond serre de page standard. Reste oriente "ce qu'il faut pour jouer l'etape" : on rapatrie le lore PERTINENT, condense (pas d'extraits integraux de la BIBLE), jamais du remplissage. PLAFOND SOUPLE : viser <= 20 000 caracteres ; au-dela, SIGNALER, puis dans l'ordre : compresser la mini-bible (renvois vers les fiches neutres a la place du condense) avant de toucher au Deroule, qui est la raison d'etre de la fiche ; scinder en dernier recours (ex. `Fiches_Arc/<Prota>/<Arc>_partie1.md`) ; jamais gonfler. Raison : la fiche d'arc n'est pas gratuite parce qu'elle est fetchee. Elle occupe le contexte de jeu EN FACE du CODEX (jusqu'a 90 000 car. au terminal du bareme) et reste chargee tout le thread. "Aussi longue que necessaire" sans repere chiffre etait la seule regle du systeme sans garde-fou - portant justement le document le plus lu de la phase de jeu.
 
 ```
 # Fiche_Arc_<Arc>
@@ -411,7 +444,7 @@ Le lore strictement necessaire pour jouer cette etape sans rouvrir la grosse BIB
 
 ## PNJ presents ou evoques a l'ouverture
 Pour chaque PNJ : etat A L'OUVERTURE uniquement.
-- <PNJ> - role a l'ouverture | relation au prota a l'ouverture | savoir a l'ouverture | fiche neutre : cf. WIKI <Type>/<page>.md
+- <PNJ> - role a l'ouverture | relation au prota a l'ouverture | adresses en vigueur entre présents (tu/vous, surnoms, ce qui ne s'emploie pas), reprises du satellite relations ou de la fiche | savoir a l'ouverture | fiche neutre : cf. WIKI <Type>/<page>.md
 
 ## Lieux de l'arc
 - <Lieu> - etat/fonction a l'ouverture | fiche : cf. WIKI <Type>/<page>.md
@@ -541,7 +574,7 @@ FIN_PARTIES_DECISIONS_<ARC>
 ### Regles
 - Les fiches Suivi/ sont mises a jour entre les sessions via BIBLE BUILD ou manuellement par le joueur.
 - Les Archives/ sont en ecriture seule : une fois archivee, une CHRONO n'est plus modifiee (sauf correction d'erreur).
-- Budget par page : meme contrainte que le WIKI (500-2000 tokens). EXCEPTION : `Memoires/` (archive narrative, non bornee, hors budget).
+- Budget par page : meme contrainte que le WIKI (2 000 à 12 000 caractères). EXCEPTION : `Memoires/` (archive narrative, non bornee, hors budget).
 
 ### Fetch
 - Regles, declencheurs et budgets : cf. Instructions RP S4 (ouverture de thread, declencheur objectif, TTL). Non dupliques ici.
@@ -664,7 +697,7 @@ Le MJ écrit les fichiers mis à jour sur le dépôt (Instructions Wiki §8bis).
 sodomicka/rp/
   Config/
     SPEC_CODEX_v8_7.md
-    SPEC_BIBLE_LORE_WIKI_v8_8.md
+    SPEC_BIBLE_LORE_WIKI_v8_9.md
     (numeros indicatifs : verifier le listing reel de Config/ avant tout fetch)
   <Univers>/
     <Dossier_thematique>/
