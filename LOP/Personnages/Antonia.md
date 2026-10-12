@@ -1,6 +1,7 @@
 # Antonia
 
-- version : W2
+- version : W3
+- note W3 : forage 5.3. Remède recalé sur le canon : P cueille, Giangio fabrique, Polendina administre ; il enraye sans réparer [CANON SUPPOSÉ pour l'effet, la joie, la date]. [DIVERGENCE RP] P cueille le fruit en 5.3 ; passage par Polendina [À FIXER].
 - note W2 : forage 5.1 [DIVERGENCE RP]. Markiona la soigne à l'Hôtel Krat : deux pétrifiées. + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Identité
@@ -19,7 +20,7 @@
 - A appris à Carlo à jouer du piano quand il était à la Maison de Charité.
 - Déclare avoir menti précédemment ("Antonia, revealing that she had lied beforehand") pour cacher l'existence d'un passage secret : en jouant un accord spécial sur le piano, le portrait s'ouvre.
 - Révèle que des Alchimistes occupent la tour effondrée de la gare.
-- Lié à la cure optionnelle : P peut obtenir un Fruit d'Or via Giangio/Danjo et le donner à Polendina pour Antonia. Ce "remède" ne guérit pas mais soulage la douleur -> mort paisible.
+- Liée au remède optionnel (canon) : P cueille un Fruit d'Or et le donne à Giangio, qui en tire un remède ; P le remet à Polendina, qui le donne à Antonia. Le remède enraye la propagation sans réparer les dégâts : bref moment de joie, puis mort paisible [CANON SUPPOSÉ].
 
 ## Psychologie
 - Femme de devoir et de compassion : tient l'hôtel comme sanctuaire malgré sa propre maladie.
@@ -37,7 +38,8 @@
 
 ## Sort connu
 - Meurt de la Maladie de Pétrification.
-- Si P donne le Fruit d'Or à Polendina (remède optionnel via Giangio) : mort paisible, sans douleur.
+- Avec le remède de Giangio (via Polendina) : bref moment de joie, puis mort paisible ; Polendina l'annonce après Laxasia (ch.11, soit 5.6). Sans le remède, elle meurt plus tôt [CANON SUPPOSÉ].
+- [DIVERGENCE RP - 1852 (5.3)] P cueille pour Giangio l'un des deux seuls fruits de l'arbre ; Giangio promet le remède. [À FIXER] moment où le remède passe par Polendina.
 - Laisse une lettre à sa mort :
   - Timeline originale : dit que P ressemblait à Carlo.
   - Timeline affectée par le DLC (Stargazer doré) : lettre avec enveloppe verte, deuxième page ajoutée ; évoque P comme "a force for good", le massacre du Domaine de la Rose, la capacité de P à connecter avec les gens et leur apporter de la chaleur ; mentionne que "fates change for the better".
@@ -49,7 +51,8 @@
 | Pré-outbreak | Tient l'hôtel ; joue du piano pour maintenir le moral | Gestionnaire de crise |
 | Base game | Malade (écailles visibles) ; remet la clé à P ; concède le passage secret | Affaiblie, lucide |
 | 1852 (5.1) [DIVERGENCE RP] | Soignée par Markiona, pétrifiée comme elle | Soulagée |
-| Base game (fin) | Mort de la Maladie de Pétrification ; lettre laissée | Mort paisible (si cure donné) ou douloureuse |
+| 1852 (5.3) [DIVERGENCE RP] | Remet à P la clé de la Rue Rosa Isabel (canon) ; P cueille pour Giangio le fruit de son remède | Remède promis ; [À FIXER] passage par Polendina |
+| Base game (après Laxasia, ch.11 ; 5.6 en RP) | Mort de la Maladie de Pétrification, annoncée par Polendina ; lettre laissée | Mort paisible avec le remède ; plus tôt sans [CANON SUPPOSÉ] |
 | Timeline DLC affectée | Lettre modifiée (enveloppe verte, page 2) | Impact temporel de P visible |
 
 ---

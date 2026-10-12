@@ -24,7 +24,7 @@ Satellite de Personnages/Markiona, suite de Personnages/Markiona_chrono_A. Traje
 | 1852 (5.3, Hôtel Krat, le soir) | Soignée par Magnus (absorption des cristaux), P pour seul témoin ; lui dit pourquoi elle ne l'a pas retenu cette fois | Déclin aggravé malgré les soins |
 | 1852 (5.3, hub) | Sait que le Roi des Pantins est Romeo ; se tait et suit | Tchekhov à son comble |
 | 1852 (5.3, Aurus, veille de l'Opéra) | Rituel : cristaux absorbés, remède, thé noir, lecture ; le garde contre elle plus longtemps que d'habitude. Surprise sur le prototype, elle esquive sans mentir : "C'est un projet pour plus tard. Cependant, ce n'est qu'un prototype loin d'être fonctionnel. Mais c'est mon projet, je le réalise seule, ne t'en préoccupe pas." | Prototype toujours secret |
-| 1852 (5.3, Rue Rosa Isabel) | Devant Julian, s'approche ; Magnus l'étreint sans hésiter | Preuve d'amour reçue |
+| 1852 (5.3, Rue Rosa Isabel) | Violente quinte de toux devant Julian : Magnus laisse tout tomber pour la secourir ; Julian y voit l'inquiétude d'un fils qui aime sincèrement | Déclin visible ; pudeur gardée |
 | 1852 (5.3, Opéra Estella) | Devant Romeo, se contente de fermer les yeux : seul Romeo voit ce geste. Derrière la scène, sait ce que Geppetto a fait de lui | Tchekhov intact ; décharge en 5.4 |
 | Suite (Ère 5) | Fin de la Pétrification + détonation du cristal de Camille (en réserve) -> roadmaps 5.4 à 5.6 | Terminale ; dénouement réservé |
 

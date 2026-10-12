@@ -1,7 +1,7 @@
 # Objets et Reliques
 
 - version : W5
-- note W5 : forage 5.3 [DIVERGENCE RP]. Pendentif (suicide de Romeo ; Magnus le reconnaît) ; Portrait de Carlo (Hôtel de Ville du District Malum ; vu par Magnus) ; Épée de la Rose (plus d'Arlecchino en 1852). + bloc Prototype de Zelator.
+- note W5 : forage 5.3 [DIVERGENCE RP]. Pendentif (suicide de Romeo ; Magnus le reconnaît) ; Portrait de Carlo (Hôtel de Ville du District Malum ; vu par Magnus) ; Épée de la Rose (plus d'Arlecchino en 1852). + bloc Prototype de Zelator. + Fruit d'Or (remède de Giangio, canon ; règle du coeur pur ; ersatz des Alchimistes ; les deux fruits de 5.3) ; Décodeur d'onde Ergo (Magnus entend les pantins sans appareil ; Grand Covenant ; Loi Zéro en 5.4).
 - note W4 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 - note W3 : Broche Monad - précision de forme (insigne en forme de rose, "M" doré au coeur) ; résout #2 (l'emblème rose de Léa = la Broche Monad ROUGE, cf. Personnages/Lea_Florence_Monad.md).
 - note W2 : + bloc Broche Monad (insigne Monad code couleur, canon ; circulation Carlo/Romeo/Léa). - bloc Monad Locket (retiré : son rôle de reconnaissance de Léa est supplanté par le combat dans la continuité Magnus, cf. Roadmap_03_Overture étape 13 ; références à nettoyer dans Romeo.md et Lea.md au lot des trajectoires).
@@ -54,14 +54,15 @@
 
 ### Description / Faits canon
 - Créé "pour trouver les erreurs dans l'imprint des pantins" -- objectif officiel de Lorenzini.
-- Donné à P par Lorenzini après la mort de l'Archbishop Andreas.
+- Donné à P par Lorenzini après la mort de l'Archbishop Andreas, au retour de la cathédrale : cap sur le District Malum.
 - Grâce au décodeur, P peut déchiffrer les ondes Ergo des pantins frénétiques.
 - Lorenzini décode un message de Romeo (Roi des Pantins) : "Carlo, I hope you can hear me. The laws of the Grand Covenant bind us. We're his puppets. First law, all puppets must obey their creator's commands. Law zero, the creator's name is Geppetto." -- révèle que Geppetto est le responsable de la Frénésie des Pantins.
 - Révèle aussi que les pantins communiquent entre eux via les ondes d'Ergo -- mécanique non prévue dans leur design originel.
 - Révèle la nature des "messagers" de Romeo (les boss que P a détruits = tentatives de communication de Romeo).
+- [DIVERGENCE RP - 1852 (5.3)] Au hub, après la cathédrale, Venigni découvre que Magnus entend les pantins sans appareil. Magnus entend les ondes des pantins, pas la Loi Zéro. Ni P ni Magnus ne répondent au Grand Covenant ; ni l'un ni l'autre ne sait rien de la Loi Zéro, que Venigni décode au message de Romeo en 5.4.
 
 ### Liens
-- cf. Systemes/Grand_Covenant.md, Systemes/Puppet_Frenzy.md, Systemes/Ergo.md, Personnages/Lorenzini_Venigni.md, Personnages/Romeo.md.
+- cf. Systemes/Grand_Covenant.md, Systemes/Puppet_Frenzy.md, Systemes/Ergo.md, Personnages/Lorenzini_Venigni.md, Personnages/Romeo.md, Personnages/Magnus.md.
 
 ---
 
@@ -120,19 +121,21 @@
 ## Fruit d'Or (VO : Gold Coin Fruit)
 
 ### Nature
-- Fruit de l'Arbre à Fruits d'Or. Seul soulagement réel connu contre la Maladie de Pétrification (soulage la douleur, ne guérit pas).
+- Fruit de l'Arbre à Fruits d'Or. Seule matière connue d'un vrai remède contre la Maladie de Pétrification : il en enraye la propagation sans réparer les dégâts [CANON SUPPOSÉ].
 
 ### Description / Faits canon
-- Permet de soulager la douleur de la Maladie de Pétrification (confirmé par le narrateur et par l'expérience d'Antonia).
-- Antonia meurt paisiblement et sans douleur grâce au Fruit d'Or.
-- Le Chat Noir (rôdeur) en a besoin ; les Alchimistes lui donnent juste assez pour le maintenir sous leur dépendance.
-- P peut donner du Fruit d'Or à la Renarde Rousse et au Chat Noir (choix moral).
+- Canon : P cueille le fruit et le donne à Giangio, qui en tire un remède ; P remet le remède à Polendina pour Antonia. Le remède enraye la propagation sans réparer les dégâts [CANON SUPPOSÉ].
+- Antonia : bref moment de joie, puis mort paisible (Polendina l'annonce après Laxasia, ch.11) ; sans le remède, elle meurt plus tôt [CANON SUPPOSÉ].
+- Canon : le Chat Noir (rôdeur) en a besoin ; les Alchimistes lui donnent juste assez pour le maintenir sous leur dépendance. [DIVERGENCE RP] Les Alchimistes n'en ont jamais eu de vrai : des promesses et un ersatz, d'où le "jamais assez" du Chat.
+- Canon : P peut donner du Fruit d'Or à la Renarde Rousse et au Chat Noir (choix moral). [DIVERGENCE RP] C'est Magnus qui cueille le fruit de Lucio (5.3). [À FIXER] remise du fruit (au prochain croisement).
 - Giangio (Philip Paracelsus) prétend avoir la maladie pour obtenir le fruit (sa vraie motivation est [INCERTAIN] mais lié à l'arbre et à l'Ergo).
 - Giangio trouve l'Arbre à Fruits d'Or mais ne peut pas en cueillir les fruits (sa main brûle au contact).
+- [DIVERGENCE RP] Règle du coeur pur : seul un coeur pur peut cueillir un Fruit d'Or ; dans tout le monde, seuls P et Magnus le peuvent. Tout autre peut approcher l'arbre, mais se brûle la main en voulant cueillir (comme Giangio).
+- [DIVERGENCE RP - 1852 (5.3)] Les deux premiers fruits : l'arbre n'en porte que deux. P en cueille un pour Giangio (le remède d'Antonia), Magnus l'autre pour Lucio. Markiona se brûle en essayant, se désiste et n'en prend pas. cf. Systemes/Gold_Coin_Tree.md.
 - La légende de Paracelsus évoque "un arbre avec un esprit piégé" = Arbre à Fruits d'Or (lien mythologique).
 
 ### Liens
-- cf. Systemes/Gold_Coin_Tree.md, Systemes/Petrification_Disease.md, Personnages/Philip_Paracelsus.md.
+- cf. Systemes/Gold_Coin_Tree.md, Systemes/Petrification_Disease.md, Personnages/Philip_Paracelsus.md, Personnages/Antonia.md, Personnages/Polendina.md, Personnages/Claudia_et_Lucio.md.
 
 ---
 

@@ -1,7 +1,7 @@
 # Zelator Facility
 
 - version : W4
-- note W4 : forage 5.3 [DIVERGENCE RP]. + le prototype de Markiona récupéré en 1850.
+- note W4 : forage 5.3 [DIVERGENCE RP]. + le prototype de Markiona récupéré en 1850. + Indice d'Alidoro : le "quelqu'un" est Léa ; locket retiré du RP.
 - note W3 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
@@ -18,7 +18,7 @@
 - Arrivée de P : P voit d'entrée le cadavre d'un alchimiste entouré de pétales (passage de Léa Florence). Il combat des sujets d'expérience ratés et abandonnés, ainsi que des gardes. Il entend par intermittence les cris d'une femme.
 - Véronique boss : Véronique (chef des Balayeurs) et son vanguard ont été attirés dans un piège par les Alchimistes. Véronique est infectée ; elle lutte pour conserver son humanité mais la rage la submerge. P la combat (boss). Derniers mots : des excuses ; elle évoque "le lab maudit", l'abomination en dessous (Surveillant aux Deux Visages), demande à P de la tuer et d'aller trouver Léa sur la côte. Elle meurt en coupant le système de refroidissement (air glacial libéré). Cf. Personnages/Veronique.md, SB6.
 - Surveillant aux Deux Visages : abomination de la partie profonde. P doit sonner le Cor nimbé d'aurore pour appeler le Limier. Combat avec le Limier. Victoire. Cf. Personnages/Boss_et_Creatures.md.
-- Rencontre avec le Limier (vrai Alidoro) : garde son identité secrète (protège Eugénie, sa soeur). Hait les Alchimistes, traque le Bras de Dieu. En montrant le Monad locket trouvé au zoo, P le convainc. Le Limier donne le Cor nimbé d'aurore, puis dit qu'il se rendra à l'Hôtel Krat (le style de combat de P lui rappelle quelqu'un). Cf. Personnages/Alidoro_et_Parrot.md.
+- Rencontre avec le Limier (vrai Alidoro) : garde son identité secrète (protège Eugénie, sa soeur). Hait les Alchimistes, traque le Bras de Dieu. En montrant le Monad locket trouvé au zoo, P le convainc. Le Limier donne le Cor nimbé d'aurore, puis dit qu'il se rendra à l'Hôtel Krat (le style de combat de P lui rappelle quelqu'un). Cf. Personnages/Alidoro_et_Parrot.md. [DIVERGENCE RP - Ère 3] Locket retiré du RP (Objets_et_Reliques, note W2) ; le "quelqu'un" est Léa, reconnue au style sans être nommée (cf. Personnages/Alidoro_et_Parrot.md).
 - Accès au Domaine de la Rose : au fond se trouve normalement un tram souterrain vers le Domaine de la Rose, hors service au moment du DLC. Lumacchio (zone suivante) donne à P une clé pour un passage secret vers la côte. Cf. Lieux/Rose_Estate_Monad_Charity_House.md.
 - Lumacchio dans la zone adjacente (ruines anciennes) : feint la peine pour Véronique, demande ce qu'elle a dit (choix mensonge/vérité), donne la clé du passage secret. Cf. Personnages/Lumacchio.md.
 - Contexte Limier : lié à plusieurs révélations sombres (meurtre du Colonel Little, disparition des taxidermistes, mineur enterré vivant, meurtre de Columbo) partagées avec Madoro (reporter). Cf. Personnages/Alidoro_et_Parrot.md, Personnages/Madoro.md.

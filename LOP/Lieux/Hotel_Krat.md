@@ -1,6 +1,7 @@
 # Hôtel Krat
 
-- version : W2
+- version : W3
+- note W3 : forage 5.3 [DIVERGENCE RP]. Arbre : accès par l'arrière (ascenseur de l'Hôtel de Ville du District Malum), règle du coeur pur, les deux fruits de 5.3 ; remède d'Antonia recalé sur le canon ; portrait localisé. + Coquille Pulsella -> Pulcinella.
 - note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
@@ -27,7 +28,7 @@
 - Arbre à Fruits d'Or : l'arbre se trouve dans les jardins de l'hôtel depuis toujours. Sa présence est la raison
   pour laquelle le château a été bâti à cet emplacement. L'Arbre à Fruits d'Or blossoms quand la peste frappe
   les terres (selon les récits). Giangio (Philip Paracelsus) cherche à cueillir son fruit, mais l'arbre
-  brûle sa main -> P est envoyé le cueillir à sa place. Selon Sophia, l'Arbre à Fruits d'Or est une créature
+  brûle sa main -> P est envoyé le cueillir à sa place. Accès (canon) : par l'arrière de l'hôtel, où mène l'ascenseur de l'Hôtel de Ville du District Malum ; Giangio s'y tient. [DIVERGENCE RP] Seul un coeur pur peut cueillir : P et Magnus. En 1852 (5.3), ils cueillent les deux seuls fruits de l'arbre ; Markiona s'y brûle. Selon Sophia, l'Arbre à Fruits d'Or est une créature
   pathétique créée par les Alchimistes à partir d'Oreilles ("les larmes tristes de ceux devenus arbres").
   Cf. Systemes/Gold_Coin_Tree.md, Systemes/Listeners.md.
 - Zelator labs (sous l'hôtel) : laboratoires des Alchimistes destinés aux expériences sur les Oreilles.
@@ -40,13 +41,13 @@
   Stargazer doré près de la cathédrale -> voyage dans le temps (passé, zoo intact). Cf. SB5.
 - Refuge des survivants (base game) : dans la crise, l'hôtel devient le seul sanctuaire de Krat.
   Antonia (propriétaire, malade de la Maladie de Pétrification) y accueille Sophia (projection spectrale),
-  Polendina (majordome pantin), Eugénie (armurier), Geppetto, Lorenzini Venigni, Pulsella, Alidoro
+  Polendina (majordome pantin), Eugénie (armurier), Geppetto, Lorenzini Venigni, Pulcinella, Alidoro
   (si P l'y amène), le Limier (fin DLC, si P l'y amène).
 - Premier mensonge de P : à l'entrée, les pantins ne sont pas admis. P est questionné ("es-tu humain ?").
   S'il ment et répond qu'il est humain, il entre. Premier mensonge volontaire de P, déclencheur de son
   humanisation. Cf. Systemes/Humanity_System.md, SB5.
 - Atelier de Geppetto : Geppetto s'installe dans une chambre supérieure de l'hôtel comme atelier.
-- Portrait de Carlo : P trouve un portrait à l'hôtel de ville qui ressemble à lui-même (image de Carlo) ;
+- Portrait de Carlo : P trouve à l'Hôtel de Ville du District Malum un portrait qui lui ressemble (image de Carlo) ;
   le donne à Geppetto qui est pris de court. L'histoire du portrait est liée au plan de résurrection
   de Carlo. Cf. Personnages/Giuseppe_Geppetto.md.
 - Peinture de Godard (DLC timeline affectée) : Godard (peintre aveugle) peint pour le carnival de
@@ -67,24 +68,24 @@
 - Arbre à Fruits d'Or présent dans les jardins depuis la fondation du château. Blossoms à la plague. Giangio
   ne peut cueillir le fruit (brûle sa main). Sophia : "les larmes tristes de ceux devenus arbres". Cf.
   Systemes/Gold_Coin_Tree.md.
+- Accès aux jardins par l'arrière : ascenseur de l'Hôtel de Ville du District Malum, après la Confrérie. Cf. Lieux/Quartiers_de_Krat.md.
 - Zelator labs sous l'hôtel : expériences sur les Oreilles (dont Camil, la mort de Camille couverte).
   Zelator labs = accès DLC via ascenseur. Cf. Lieux/Zelator_Facility.md.
 - Stargazer principal : plus grand de Krat, cadrans indicateurs de la boucle temporelle. Chrysalide stellaire
   active le Stargazer doré pour le voyage temporel (DLC). Cf. SB5.
 - Premier mensonge de P à l'entrée -> début de son humanisation. Cf. SB7.
-- Refuge de : Antonia, Polendina, Sophia (projection), Eugénie, Geppetto, Lorenzini Venigni, Pulsella,
+- Refuge de : Antonia, Polendina, Sophia (projection), Eugénie, Geppetto, Lorenzini Venigni, Pulcinella,
   Alidoro (conditionnel), Limier (fin DLC conditionnel). Cf. SB7.
 - Antonia = propriétaire ; malade (Maladie de Pétrification, écailles sur le visage). Polendina = majordome
   pantin amoureux d'elle (Ego éveillé). Cf. Personnages/Antonia.md, Personnages/Polendina.md.
-- Fruit d'Or : P peut l'obtenir via Giangio ; le cure de Giangio soulage la douleur d'Antonia
-  (mort paisible). Cf. Personnages/Philip_Paracelsus.md.
+- Fruit d'Or : P cueille le fruit et le donne à Giangio, qui en tire un remède ; P le remet à Polendina pour Antonia. Le remède enraye la propagation sans réparer les dégâts (mort paisible) [CANON SUPPOSÉ]. Cf. Personnages/Philip_Paracelsus.md, Personnages/Antonia.md.
 - Galerie d'art dans la timeline affectée : peinture de Godard placée sur le mur (si P rend son paint set).
 
 ## Liens
 
 - Relique de Trismegistus : directement en dessous. Cf. Lieux/Relic_of_Trismegistus.md.
 - Zelator Facility : sous l'hôtel, accès via ascenseur (DLC). Cf. Lieux/Zelator_Facility.md.
-- Arbre à Fruits d'Or : dans les jardins. Cf. Systemes/Gold_Coin_Tree.md.
+- Arbre à Fruits d'Or : dans les jardins, à l'arrière. Cf. Systemes/Gold_Coin_Tree.md.
 - Antonia : propriétaire. Cf. Personnages/Antonia.md.
 - Polendina : majordome. Cf. Personnages/Polendina.md.
 - Sophia Monad : projection spectrale au stargazer. Cf. Personnages/Sophia_Monad.md.

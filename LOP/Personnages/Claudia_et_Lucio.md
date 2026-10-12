@@ -1,6 +1,7 @@
 # Claudia et Lucio
 
-- version : W3
+- version : W4
+- note W4 : forage 5.3 [DIVERGENCE RP]. Aux ordres de Simon, pour leur propre compte ; la route de Malum (proposition de la Renarde, aide du Chat, départ avant le Red Lobster) ; règle du coeur pur précisée (tout le monde approche l'arbre, seuls P et Magnus cueillent) ; ersatz des Alchimistes ; Magnus cueille le fruit de Lucio.
 - note W3 : numérotation des ères alignée sur la Chronologie (Frénésie = Ère 4 ; base game = Ère 5). + Passage à la Fabrique Artisanale Venigni (5.2) : discussion entre Rôdeurs, Markiona prudente, départ vers le District Malum. + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 > Le Renard et le Chat de Collodi, refondus en demi-fratrie : Claudia la légitime, flamboyante,
@@ -45,7 +46,7 @@
 
 ### Sort connu / État (à fin Ère 4, printemps 1852)
 - Survivante de la décimation : absente de la Bataille de la Tour des Artisans (cf. section 3), elle échappe au massacre des rôdeurs.
-- Trajectoire Ère 5 (1852 et au-delà : ralliement, quête du Fruit d'Or pour son frère) : à établir en roadmap (cf. section 4).
+- Ère 5 (1852) : travaille pour Simon, toujours pour son propre compte ; quête du Fruit d'Or pour les yeux de son frère (cf. sections 3 et 4). Suite : roadmaps 5.4 à 5.6.
 
 ---
 
@@ -74,7 +75,8 @@
 - Arnaqueur (héritage du Chat de Collodi).
 
 ### Santé
-- Dès 1850 (fin d'Ère 2), sa vue commence à baisser : Maladie de Pétrification naissante, focalisée sur les yeux. [Datation : DIVERGENCE RP. La maladie oculaire elle-même est canon, attestée plus tard dans le jeu (malade à la Grande Exposition, atteinte centrée sur les yeux).] Fusil de Tchekhov posé ici, décroché en Ère 4 - hors de cette fiche.
+- Dès 1850 (fin d'Ère 2), sa vue commence à baisser : Maladie de Pétrification naissante, focalisée sur les yeux. [Datation : DIVERGENCE RP. La maladie oculaire elle-même est canon, attestée plus tard dans le jeu (malade à la Grande Exposition, atteinte centrée sur les yeux).] Fusil de Tchekhov posé ici ; suite datée ci-dessous.
+- 1852 (5.3) : la vue continue de baisser (Pétrification oculaire). Un Fruit d'Or l'attend, cueilli pour lui par Magnus. [À FIXER] remise du fruit (au prochain croisement).
 
 ### Relations
 - Claudia Volfe / la Renarde Rousse : demi-soeur, unique loyauté (cf. sections 1 et 3).
@@ -83,7 +85,7 @@
 
 ### Sort connu / État (à fin Ère 4, printemps 1852)
 - Survivant de la décimation : absent de la Tour des Artisans (cf. section 3), vue de plus en plus faible.
-- Trajectoire Ère 5 (1852 et au-delà : cécité, ralliement aux Alchimistes, etc.) : à établir en roadmap (cf. section 4).
+- Ère 5 (1852) : travaille pour Simon, toujours pour son propre compte ; vue en baisse ; un Fruit d'Or cueilli pour lui par Magnus en 5.3 (cf. sections 3 et 4). Suite : roadmaps 5.4 à 5.6.
 
 ---
 
@@ -104,7 +106,7 @@
 
 ### Échos et règles à exploiter en roadmap
 - Écho Collodi [matière narrative] : dans le roman, le Renard et le Chat FEIGNENT un handicap pour arnaquer Pinocchio, et le poussent à enterrer ses pièces d'or pour qu'elles "poussent" (racine de l'Arbre à Fruits d'Or). Ici l'ironie se referme : la cécité de Lucio est RÉELLE (Maladie de Pétrification), et c'est un Fruit d'Or qu'il faudra pour la soigner. L'arnaque du roman se retourne sur l'arnaqueur.
-- [DIVERGENCE RP] Règle du coeur pur : seul un coeur pur peut cueillir un Fruit d'Or ; dans tout le monde, seuls Pinocchio et Magnus en sont capables. Implication (Ère 5, hors de cette fiche) : pour sauver la vue de son frère, Claudia dépend du prota - Magnus OU Pinocchio selon le RP. cf. Personnages/Magnus.md, Pinocchio.md.
+- [DIVERGENCE RP] Règle du coeur pur : seul un coeur pur peut cueillir un Fruit d'Or ; dans tout le monde, seuls Pinocchio et Magnus en sont capables. Tout autre peut approcher l'arbre, mais se brûle la main en voulant cueillir (comme Giangio, canon). Les Alchimistes n'en ont jamais eu de vrai : des promesses et un ersatz, d'où le "jamais assez" du Chat. Pour sauver la vue de son frère, Claudia dépend de Magnus et de Pinocchio ; en 5.3, c'est Magnus qui cueille le fruit de Lucio. cf. Personnages/Magnus.md, Personnages/Pinocchio.md.
 
 ---
 
@@ -117,7 +119,8 @@
 | Dès 1850 | La vue de Lucio commence à baisser (Maladie de Pétrification oculaire naissante) | Tchekhov posé |
 | Ère 4 (1851) | Absents de la Bataille de la Tour des Artisans ; survivent à la décimation des rôdeurs | Survivants |
 | 1852 (5.2, Fabrique Artisanale Venigni) [DIV RP] | Croisent P, Magnus et Markiona ; discussion entre Rôdeurs ; filent vers le District Malum | En route vers Malum |
-| Suite (Ère 5, 5.3+) | À ÉTABLIR EN ROADMAP. Le canon post-Frénésie (assaut de l'Hôtel Krat, garde de Geppetto, cécité avancée, épuisement au combat, quête du Fruit d'Or, sort selon les choix du prota) n'est PAS repris par défaut. | (en attente) |
+| 1852 (5.3, District Malum) [DIV RP] | Aux ordres de Simon, pour leur compte : Claudia propose au trio de faire route (le fruit pour Lucio) ; le Chat aide contre un ennemi d'élite ; ils ne voient en P qu'un Rôdeur au bras de métal ; partis avant le Red Lobster. À l'arbre, Magnus cueille un fruit pour Lucio | Alliés de route le temps de Malum ; un fruit attend Lucio ([À FIXER] remise) |
+| Suite (Ère 5, 5.4+) | À ÉTABLIR EN ROADMAP. Le canon post-Frénésie (assaut de l'Hôtel Krat, garde de Geppetto, cécité avancée, épuisement au combat, quête du Fruit d'Or, sort selon les choix du prota) n'est PAS repris par défaut. | (en attente) |
 
 ---
 

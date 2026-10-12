@@ -1,7 +1,7 @@
 # Boss et Créatures
 
 - version : W5
-- note W5 : forage 5.3 [DIVERGENCE RP]. + bloc PANTIN CLOWN ENRAGÉ (noyau, canon). Roi des Pantins : fin 1852 (étreinte de Magnus, suicide de Romeo).
+- note W5 : forage 5.3 [DIVERGENCE RP]. + bloc PANTIN CLOWN ENRAGÉ (noyau, canon). Roi des Pantins : fin 1852 (étreinte de Magnus, suicide de Romeo). + Surveillant aux Deux Visages : le "quelqu'un" du Limier est Léa, reconnue au style sans être nommée.
 - note W4 : forages 5.1 et 5.2 [DIVERGENCE RP]. Parade Master, Scrapped Watchman et Fuoco vaincus par P ET Magnus ; laïus du Watchman traduit par Magnus (conforme au canon). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 - note W3 : retrait du bloc Mad Donkey (repositionné en ALLIÉ de Magnus [DIVERGENCE RP] ; vit désormais dans Personnages/PNJ_secondaires.md, sans pointeur ici).
 - note W2 : ajout du bloc Ange de l'Arc reforgé (Overture / Ère 3, 1850 ; [DIVERGENCE RP]). Reforgé de son épave laissée à Zelator en 1847, gardien du Krat Zoo pour le compte de l'Ordre, battu par Magnus en solo.
@@ -255,7 +255,7 @@
 - Le Limier (vrai Alidoro) summonable via le Cor nimbé d'aurore.
   - P sonne le cor -> le Limier arrive et combat aux côtés de P.
   - Victoire à deux.
-- Après la victoire : le Limier remercie P ; remarque que son style de combat "reminds him of someone."
+- Après la victoire : le Limier remercie P ; remarque que son style de combat "reminds him of someone." (canon). [DIVERGENCE RP - Ère 3 (1850 ; joué en 5.5 côté P)] Ce "quelqu'un" est Léa, dont la chair compose P : Alidoro reconnaît le style sans pouvoir le nommer, Léa étant vivante à son époque. cf. Personnages/Pinocchio.md.
 
 ### Sort
 - Vaincu par P + le Limier (co-op).

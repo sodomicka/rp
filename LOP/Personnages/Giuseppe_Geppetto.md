@@ -1,6 +1,7 @@
 # Giuseppe Geppetto
 
-- version : W5
+- version : W6
+- note W6 : forage 5.3 [DIVERGENCE RP]. Portrait de Carlo rapporté par P (pris de court) ; ordre d'abattre le Roi des Pantins ; rejoint le trio derrière la scène ; Markiona sait ce qu'il a fait de Romeo, Magnus non. Enlèvement -> 5.5.
 - note W5 : forages 5.1 et 5.2. + Pont des Alchimistes (Magnus jaugé, Markiona pressée). + Dispute au hub : il révèle à Markiona Frénésie, peau de Léa, rôle de Romeo. + Parlement des Artisans (VO : Workshop Union). + Relation Magnus. + Trajectoire 1852. + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Identité
@@ -22,7 +23,8 @@
 - Premier usage du Pantin sans Nom : envoie le Pantin sans Nom tuer Léa Florence Monad pour récupérer le corps de Romeo. [DIVERGENCE RP] Il en profite pour prélever la peau de Léa, matière première de la couche chair de P (cf. Pinocchio.md). Exception : le bras gauche de Léa, pétrifié (Pétrification localisée, non terminale), ne donne aucune chair exploitable ; Geppetto le remplace par une prothèse mécanique (Bras Légion gauche) sur P. La maladie de Léa dicte ainsi le côté du bras-leurre.
 - Dans le base game : retrouvé par P sur l'Elysion Boulevard (pourchassé par l'Âne fou). Installe son atelier dans une chambre haute de l'Hôtel Krat. Guide P dans sa mission (tue le Roi des Pantins, va à la Grande Exposition, rejoins l'Allée des Alchimistes).
   - [DIVERGENCE RP - 1852] Sauvé au Pont des Alchimistes : Magnus arrête P et épargne l'Âne fou. Geppetto comprend aussitôt ce qu'est Magnus (un pantin de chair parfait) et presse Markiona, son ancienne collègue, qui refuse de livrer ses secrets. Au hub, la jugeant moralement élastique, il lui révèle son rôle dans la Frénésie (Loi Zéro), la peau de Léa sur P et le rôle de Romeo ; elle rejette son plan avec fureur. Il envoie ensuite P aider Venigni (canon) ; Magnus et Markiona l'accompagnent. Il croit toujours le cristal de Camille détruit. cf. Personnages/Markiona.md, Roadmap_05_2_La_Ville_Malade.
-- Kidnappé par la Confrérie des Lapins Noirs (à l'instigation de Simon) depuis l'hôtel ; P le retrouve à l'Allée.
+  - [DIVERGENCE RP - 1852 (5.3)] P lui rapporte le portrait de Carlo volé par la Confrérie des Lapins Noirs : il est pris de court (canon). Il envoie P abattre le Roi des Pantins à la Rue Rosa Isabel (Antonia remet la clé). Après la chute du Roi, il rejoint le trio derrière la scène (canon). Markiona sait ce qu'il a fait de Romeo ; Magnus l'ignore.
+- Kidnappé par la Confrérie des Lapins Noirs (à l'instigation de Simon) depuis l'hôtel ; P le retrouve à l'Allée. [1852 : en 5.5]
 - Confrontation finale : révèle à P la vérité (Carlo, Organe-P, sa manipulation). Demande le coeur de P pour ressusciter Carlo. Si P refuse : déclenche le Pantin sans Nom via son bras mécanique (canal d'Ergo). Se sacrifie pour empêcher le Pantin sans Nom de tuer P (coeur crucial pour Carlo). Tué par le Pantin sans Nom.
 - DLC (passé) : apparaît à la fin. P a déjà été rappelé au présent quand Geppetto monte les escaliers du Domaine de la Rose avec la caisse contenant le Pantin sans Nom ; ils ne se croisent pas sur place. Le Pantin sans Nom tue Léa Florence (présumée) et récupère le corps de Romeo.
 
@@ -50,7 +52,7 @@
 ## Relations
 
 - Camille (épouse) : mort = événement fondateur de toute sa trajectoire post-normale. Travailla avec les alchimistes pour "la faire vivre" à travers le pantin Camil. cf. Personnages/Camille.md.
-- Carlo (fils) : raison d'être de tout le plan. Abandonné après la mort de Camille, envoyé à la Maison de Charité Monad, jamais visité, absent de la remise de diplôme. Mais l'intégralité de la Frénésie des Pantins et de la création de P vise à le faire revivre.
+- Carlo (fils) : raison d'être de tout le plan. Abandonné après la mort de Camille, envoyé à la Maison de Charité Monad, jamais visité, absent de la remise de diplôme. Mais l'intégralité de la Frénésie des Pantins et de la création de P vise à le faire revivre. Son portrait de Carlo, volé par la Confrérie des Lapins Noirs, lui est rapporté par P (canon ; 1852, 5.3) : il en est pris de court.
 - Pinocchio / P (création) : l'appelle "fils", voit en lui un outil. Contradiction unresolved jusqu'à son sacrifice final.
 - Romeo (ami de Carlo / pantin instrumenté) : accepte la proposition de Romeo de se faire transformer en pantin. Le manipule pour déclencher la Frénésie. Romeo comprend la trahison, se rebelle, devient Roi des Pantins.
 - Léa Florence Monad : la tue via le Pantin sans Nom pour récupérer le corps de Romeo. [DIVERGENCE RP] Il prélève aussi sa peau (matière première de la couche chair de P) -- sauf au bras gauche, pétrifié et inexploitable, remplacé par la prothèse Bras Légion sur P. Léa aurait pu tuer Geppetto facilement malgré la maladie.
@@ -58,8 +60,8 @@
 - Antonia : échange des lettres. Antonia le juge sur son abandon de Carlo. Geppetto lui répond de façon défensive.
 - Alchimistes : collabore avec eux pour les expériences sur les Oreilles et le travail sur l'Ergo. Rompt avec eux une fois son plan en place.
 - Simon Manus : adversaire indirect. La machine de Simon aspire l'Ergo que Geppetto récolte aussi. Simon le kidnappe (via la Confrérie des Lapins Noirs) pour le contrôler.
-- Markiona : ancienne collègue du Parlement des Artisans (dispositif de bras similaire), partie rejoindre les Alchimistes ; Geppetto reste du côté des artisans. [DIVERGENCE RP] Élève de Camille (cf. Camille.md). En 1852, il la presse de questions sur Magnus, puis lui confie ses secrets (Frénésie, peau de Léa, Romeo) en la croyant aussi peu scrupuleuse que lui ; elle refuse son plan et se tait auprès de Magnus. cf. Personnages/Markiona_relations.md.
-- Magnus [DIVERGENCE RP - 1852] : au Pont des Alchimistes, il comprend d'un regard ce qu'est Magnus, un pantin de chair parfait, oeuvre de Markiona. Magnus, lui, ne lui fait pas confiance. cf. Personnages/Magnus.md.
+- Markiona : ancienne collègue du Parlement des Artisans (dispositif de bras similaire), partie rejoindre les Alchimistes ; Geppetto reste du côté des artisans. [DIVERGENCE RP] Élève de Camille (cf. Camille.md). En 1852, il la presse de questions sur Magnus, puis lui confie ses secrets (Frénésie, peau de Léa, Romeo) en la croyant aussi peu scrupuleuse que lui ; elle refuse son plan et se tait auprès de Magnus. cf. Personnages/Markiona_relations.md. [DIVERGENCE RP - 1852 (5.3)] Elle sait qui est le Roi des Pantins et ce qu'il a fait de Romeo ; quand il envoie P l'abattre, elle se tait et suit.
+- Magnus [DIVERGENCE RP - 1852] : au Pont des Alchimistes, il comprend d'un regard ce qu'est Magnus, un pantin de chair parfait, oeuvre de Markiona. Magnus, lui, ne lui fait pas confiance. cf. Personnages/Magnus.md. [DIVERGENCE RP - 1852 (5.3)] Magnus ignore ce qu'il a fait de Romeo.
 
 ## Sort connu
 
@@ -79,7 +81,8 @@
 | Plan Romeo | Romeo mourant accepte d'être transformé en pantin ; Geppetto exécute la Loi Zéro ; Frénésie déclenchée | Antagoniste caché de Krat |
 | 1852 (5.1, Pont des Alchimistes) [DIV RP] | Sauvé de l'Âne fou par Magnus ; jauge Magnus, presse Markiona | Retour à l'Hôtel Krat avec Markiona |
 | 1852 (5.2, Hôtel Krat) [DIV RP] | Révèle à Markiona Frénésie, peau de Léa, rôle de Romeo ; dispute ; envoie P aider Venigni | Markiona sait et refuse son plan |
-| Base game | À l'hôtel, guide P ; kidnappé par la Confrérie des Lapins Noirs ; retrouvé à l'Allée | Exposé progressivement |
+| 1852 (5.3) [DIV RP] | Pris de court par le portrait de Carlo, rapporté par P ; envoie P abattre le Roi des Pantins (Rue Rosa Isabel) ; après la chute, rejoint le trio derrière la scène | Markiona sait ce qu'il a fait de Romeo ; Magnus non |
+| Base game (5.4-5.6) | À l'hôtel, guide P ; kidnappé par la Confrérie des Lapins Noirs (5.5) ; retrouvé à l'Allée | Exposé progressivement |
 | Confrontation finale | Demande le coeur de P ; bifurcation selon le choix de P | Mort (good/best) ou départ avec Carlo (bad) |
 
 ---

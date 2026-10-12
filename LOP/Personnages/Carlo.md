@@ -1,7 +1,7 @@
 # Carlo
 
 - version : W6
-- note W6 : forage 5.3 [DIVERGENCE RP]. Pendentif récupéré après le suicide de Romeo ; portrait de Carlo vu par Magnus.
+- note W6 : forage 5.3 [DIVERGENCE RP]. Pendentif récupéré après le suicide de Romeo ; portrait de Carlo vu par Magnus. + Indice d'Alidoro : seul Romeo voit et nomme Léa dans la chair de P ; Alidoro reconnaît le style sans le nommer.
 - note W5 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Identité
@@ -24,7 +24,7 @@
 - Carlo noue une amitié profonde avec Romeo. Tous deux aspirent à devenir rôdeurs.
 - Carlo offre à Romeo son pendentif de remise de diplôme. Ce geste est central : c'est ce pendentif que P récupère sur le corps du Roi des Pantins (canon : en le tuant ; [DIVERGENCE RP] Romeo se donne la mort, cf. Personnages/Romeo.md), et la réaction physique de P (l'Ergo de Carlo "se souvient") signale l'identité profonde entre P et Carlo.
 - Carlo, Romeo et Léa Florence Monad jouent de la musique ensemble.
-- Carlo supplie Léa de lui enseigner l'épée. Léa trouve sa persistence agaçante (pas attendrissante). Elle dit à Geppetto de "se débarrasser de lui" et part. [DIVERGENCE RP] Carlo n'apprend donc JAMAIS l'épée -- ce qui rend la maîtrise de P énigmatique, son Ego venant de Carlo. La mémoire musculaire viendrait de la chair de Léa, bretteuse légendaire (indice : Alidoro trouve que le style de P "lui rappelle quelqu'un"). cf. Personnages/Pinocchio.md, Systemes/Genies_et_Chef_D_Oeuvres.md.
+- Carlo supplie Léa de lui enseigner l'épée. Léa trouve sa persistence agaçante (pas attendrissante). Elle dit à Geppetto de "se débarrasser de lui" et part. [DIVERGENCE RP] Carlo n'apprend donc JAMAIS l'épée -- ce qui rend la maîtrise de P énigmatique, son Ego venant de Carlo. La mémoire musculaire viendrait de la chair de Léa, bretteuse légendaire (indice canon : Alidoro trouve que le style de P "lui rappelle quelqu'un" ; en RP, il reconnaît le style sans pouvoir le nommer, Léa étant vivante en 1850). Seul Romeo la connaissait assez bien pour la voir et la nommer (1852, 5.3 : le style, et surtout les taches de rousseur) ; ni Magnus, ni Markiona, ni Léa elle-même ne l'ont remarqué. cf. Personnages/Pinocchio.md, Systemes/Genies_et_Chef_D_Oeuvres.md.
 - Outbreak de la Maladie de Pétrification à la Maison de Charité Monad -> Carlo meurt (1843 ; cf. Date de mort).
 - Léa revient à la Maison de Charité et regrette d'avoir abandonné Carlo. Dans la timeline altérée (DLC), les mots de Léa envers Carlo mort changent : elle exprime sa gratitude.
 

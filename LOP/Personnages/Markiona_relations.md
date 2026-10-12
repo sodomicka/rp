@@ -8,7 +8,7 @@ Satellite de Personnages/Markiona, scindée pour le poids. Texture des relations
 ## Magnus
 - Statut : sa création parfaite (Magnum Opus), devenue son fils [DIVERGENCE RP]. cf. Personnages/Magnus.md.
 - Surnoms / adresses : il l'appelle "Dame Markiona", puis aussi "Mère" depuis Aurus, quand elle le lui permet. Chez les Rôdeurs : le Loup Noir et la Louve Blanche.
-- Dynamique : traité d'abord en outil (le MK I) ; il devient son fils à l'Ère 1, glissement muet déclenché par sa désobéissance. Protection mutuelle : il la soigne et la porte, elle bride sa rage ("le sang a assez coulé"). En 5.3, elle ne bride plus sa rage devant l'Aîné ; il la soigne en absorbant ses cristaux ; devant Julian, il l'étreint sans hésiter.
+- Dynamique : traité d'abord en outil (le MK I) ; il devient son fils à l'Ère 1, glissement muet déclenché par sa désobéissance. Protection mutuelle : il la soigne et la porte, elle bride sa rage ("le sang a assez coulé"). En 5.3, elle ne bride plus sa rage devant l'Aîné ; il la soigne en absorbant ses cristaux ; devant Julian, il laisse tout tomber pour la secourir pendant une quinte.
 - Ce que Magnus sait : il ignore le cristal de Camille, et ce que Geppetto a révélé à sa mère en 1852 (Frénésie, peau de Léa, rôle de Romeo). Elle se tait pour l'épargner. Il ignore ce qu'est le prototype qu'elle travaille à Aurus. Depuis 5.3, il sait que le Roi était Romeo, mais ignore qu'elle le savait.
 - Évolution datée : 1847 éveil, désobéissance, fils -> 1847-1848 Aurus, "Mère" -> 1848 Rôdeurs (son envie à lui) -> hiver 1850 il la porte blessée jusqu'à Aurus -> 1851 Tour des Artisans -> 1852 (5.2) elle jubile à la chute d'Andreas et se tait sur le Tchekhov. -> 1852 (5.3) veille d'Opéra à Aurus.
 

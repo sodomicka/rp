@@ -1,7 +1,7 @@
 # Markiona
 
 - version : W11
-- note W11 : forage 5.3 [DIVERGENCE RP]. Soins par absorption des cristaux ; traitement retardé ; prototype de Zelator (bloc complet dans Objets_et_Reliques) ; elle ne bride plus Magnus devant l'Aîné ; silence à son comble. + Délestage (décision worldbuilder : trajectoire séparée, 8k par satellite) : passages datés déjà portés par Markiona_chrono_A / B retirés de la fiche mère.
+- note W11 : forage 5.3 [DIVERGENCE RP]. Soins par absorption des cristaux ; traitement retardé ; prototype de Zelator (bloc complet dans Objets_et_Reliques) ; elle ne bride plus Magnus devant l'Aîné ; silence à son comble. + Délestage (décision worldbuilder : trajectoire séparée, 8k par satellite) : passages datés déjà portés par Markiona_chrono_A / B retirés de la fiche mère. + Pudeur : seul son fils voit ce niveau d'intimité.
 - note W10 : forages 5.1 et 5.2. Trajectoire et texture des relations sorties en satellites (Markiona_chrono_A, _B, Markiona_relations) ; plafond 20k appliqué. + Camille mentor (ACTÉ). + Pétrification aggravée. + Tchekhov : elle sait, se tait. + Aveu devant les Carcasses. + Jubilation reformulée. + Francisation VF (lots 1 et 2) et réaccentuation.
 
 ## Identité
@@ -99,6 +99,7 @@
 - Inversion accomplie [DIVERGENCE RP - Ère 4] : à la Tour des Artisans, devant le charnier et les 4 Lapins Noirs debout, c'est ELLE - la Marionnettiste de la Mort - qui bride la rage de Magnus : "le sang a assez coulé". Le rachat amorcé à l'Ère 1 ("aider la vie après tant avoir oeuvré pour la mort") passe ici à l'ACTE : celle qui semait la mort est devenue celle qui l'arrête. cf. roadmap Ère 4, Personnages/Magnus.md. En 1852 (5.3), devant l'Aîné, elle ne le bride plus : en 1851 il voulait se venger, cette fois il protège.
 - Le silence [DIVERGENCE RP - Ère 5] : Geppetto lui révèle (5.2) son rôle dans la Frénésie, la peau de Léa sur P et le rôle de Romeo. L'ancienne Marionnettiste de la Mort voudrait le dénoncer, mais refuse de faire souffrir son fils : elle se tait et le laissera comprendre seul. À son comble en 5.3 : elle sait que le Roi des Pantins est Romeo et suit sans un mot ; seul aveu, ses yeux fermés devant lui, que lui seul voit. Décharge -> grande discussion Mère/Fils en 5.4.
 - Le luxe d'être soignée [DIVERGENCE RP - Ère 5] : elle retarde un vrai traitement (Fruit d'Or, remède de Giangio) pour rester aux bons soins de son fils, autant que pour faire passer les autres avant elle et racheter ses fautes : "pense d'abord aux autres Rôdeurs". Coeur non pur : elle se brûle en voulant cueillir à l'Arbre à Fruits d'Or.
+- Pudeur [DIVERGENCE RP] : très pudique, elle ne laisse voir une étreinte, ce niveau d'intimité, qu'à son fils, jamais à personne d'autre (cf. Julian, 5.3).
 - [THÉORIE] Peut-être cherchait-elle à supplanter Simon : amulette = besoin de dominer.
 
 ## Relations

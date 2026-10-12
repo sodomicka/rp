@@ -39,7 +39,7 @@
 - Demande à P de retrouver l'anneau de mariage de Melody sur son corps.
 - Choix de P après la récupération : mentir (Melody lui a laissé un message d'amour) ou dire la vérité (les pantins ne peuvent pas aimer un humain).
 - Sa question ("Puppets capable of love?") est l'un des moments-clés du gameplay de l'humanité de P. Illustre le thème : frontière entre pantin et humain.
-- [DIVERGENCE RP - 1852 (5.3)] À la question "les pantins peuvent-ils aimer ?", c'est Magnus qui répond, par une preuve d'amour directe et tangible. D'abord la rapière "Parfaite" et son inscription signée "M." ; Julian reste sceptique devant le symbole, il n'y voit qu'une arme destinée à un énième automate guerrier. Alors Markiona s'approche, et Magnus l'étreint sans hésiter. cf. Personnages/Magnus.md.
+- [DIVERGENCE RP - 1852 (5.3)] À la question "les pantins peuvent-ils aimer ?", c'est Magnus qui répond, par une preuve d'amour directe et tangible. D'abord la rapière "Parfaite" et son inscription signée "M." ; Julian n'y voit qu'une arme offerte à un énième automate de combat. Puis Markiona est prise d'une violente quinte de toux : Magnus laisse tout tomber, conversation comprise, pour lui porter secours, inquiet. Julian voit plus que l'amour : l'inquiétude d'un fils qui aime sincèrement. Quand Magnus revient, Julian se dit apaisé, convaincu. cf. Personnages/Magnus.md.
 
 ### Sort connu
 - Julian : sort après la sous-intrigue non spécifié. Melody : morte.

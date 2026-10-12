@@ -1,6 +1,7 @@
 # Quartiers de Krat
 
-- version : W3
+- version : W4
+- note W4 : forage 5.3 [DIVERGENCE RP]. District Malum (route du trio, Claudia et Lucio, la Confrérie dans la cour de l'Hôtel de Ville, ascenseur vers l'Hôtel Krat) ; chemin du pèlerin (route de 5.3, Stargazer doré inactif) ; Rue Rosa Isabel (Clown, Julian, la Dame Blanche épargnée) ; Opéra (confession devant Patricia ; fin de Romeo ; message décodé en 5.4). + Retour par les tunnels détaché de Malum ; liens morts réparés.
 - note W3 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 - Fiche groupée : un bloc par quartier/lieu de la ville de Krat. Cf. Lieux/Krat.md pour l'histoire
   générale de la ville.
@@ -19,7 +20,6 @@
 - Hugo (explorateur débutant) est présenté près de la Gare Centrale. Il cherche Alidoro, fan de
   lui. Il a entendu des rumeurs de fraude/vol/agression sur Alidoro mais les attribue à la jalousie.
   Cf. Personnages/PNJ_secondaires.md.
-- Après les tunnels post-District Malum, P est ramené à la Gare Centrale (retour boucle géographique).
 - Geppetto place P dans un wagon de la gare pour l'activer et le destiner à sa mission (collecte d'Ergo,
   élimination de Romeo et Simon). Plan de Geppetto. Cf. Personnages/Giuseppe_Geppetto.md, SB6.
 - DLC (passé) : station de tram avant de quitter le zoo. Godard (peintre aveugle) se trouve à la station
@@ -69,7 +69,7 @@
 - La Rédemptée (la Pleureuse) est présente au bas du cable car menant à la cathédrale. Elle avertit P que
   la cathédrale "n'est plus ce qu'elle était" et que personne qui y monte n'est revenu. Elle pose une
   question à P : est-il un rôdeur ? Si P répond oui (salut des rôdeurs), elle est intriguée. Si non ou
-  si P ne fait rien, il doit la combattre pour obtenir la clé. Cf. Personnages/Boss_et_Creatures.md.
+  si P ne fait rien, il doit la combattre pour obtenir la clé. Cf. Personnages/PNJ_secondaires.md.
 - Après la Fabrique Artisanale Venigni : P sort par les portes arrières de l'usine, traverse une mine, arrive au Village
   Clair-de-Lune. Enchaînement logique de la progression. Cf. Lieux/Venigni_Works.md.
 - État dans le jeu : Carcasses erre, cable car opérationnel mais accès bloqué par la Rédemptée. Bourg vide.
@@ -87,10 +87,10 @@
   Terrorise et exploite le voisinage (offre "protection services"). Cf. SB4, Factions/Black_Rabbit_Brotherhood.md.
 - P doit aller au District Malum après avoir battu Andreas (objectif : décrypter les ondes Ergo des pantins
   frénétiques avec le décodeur d'onde Ergo de Venigni). Cf. SB6.
-- Grande salle dans le quartier : confrontation avec la Confrérie des Lapins Noirs (combat). Cf.
-  Personnages/Boss_et_Creatures.md.
-- Après le District Malum : P traverse la Relique de Trismegistus (tunnels) puis revient à la Gare Centrale.
-  Trajectoire géographique confirmée.
+- Près du Stargazer de Malum, la Renarde Rousse propose à P de faire route ; le Chat Noir l'aide contre un ennemi d'élite ; le duo cesse de l'accompagner avant le Red Lobster. Cf. Personnages/Claudia_et_Lucio.md.
+- Cour de l'Hôtel de Ville du District Malum, après le Red Lobster : confrontation avec la Confrérie des Lapins Noirs (l'Aîné, ses frères le rejoignant). Cf. Factions/Black_Rabbit_Brotherhood.md.
+- Hôtel de Ville du District Malum, après la Confrérie : le portrait de Carlo (cf. Objets/Objets_et_Reliques.md) ; Stargazer de Malum réparé ; l'ascenseur de l'Hôtel de Ville mène à l'arrière de l'Hôtel Krat (jardins, Giangio, Arbre à Fruits d'Or). Cf. Lieux/Hotel_Krat.md, Systemes/Gold_Coin_Tree.md.
+- [DIVERGENCE RP - 1852 (5.3)] Parcouru par le trio P, Magnus, Markiona. Claudia et Lucio font route avec lui jusqu'avant le Red Lobster (mandat de Simon, et le fruit pour Lucio) ; ils ne voient en P qu'un Rôdeur au bras de métal. Devant l'Aîné, Magnus solde la Tour ; Markiona ne le bride plus. L'Aîné meurt, les trois autres fuient. cf. Factions/Black_Rabbit_Brotherhood.md, Personnages/Claudia_et_Lucio.md.
 
 ---
 
@@ -104,10 +104,12 @@
 - Geppetto envoie P à la Rue Rosa Isabel : "c'était l'épicentre de la Frénésie des Pantins". P doit y aller
   et abattre le Roi des Pantins pour que les pantins deviennent leaderless et confus. Cf. SB6.
 - P prend la clé auprès d'Antonia pour y accéder. Cf. Personnages/Antonia.md.
-- Nombreux pantins frénétiques + "Pantin Clown Enragé" (ennemi douchebag). Cf. Personnages/Boss_et_Creatures.md.
+- Nombreux pantins frénétiques + Pantin Clown Enragé (VO : Mad Clown Puppet ; boss optionnel du ch.6). Cf. Creatures/Boss_et_Creatures.md.
+- Julian le Gentleman y cherche l'anneau de Melody, puis demande si les pantins peuvent aimer. La Dame Blanche (Patricia), Rôdeuse, y combat P (canon : tuée). Cf. Personnages/PNJ_secondaires.md, Personnages/Les_Hiboux.md.
 - P gagne accès à l'Opéra Estella dans cette zone. Cf. Opéra Estella ci-dessous.
 - Subject 826 rencontré ici après l'abbaye. "Il parle d'une relique retournée à sa place sacrée et les
   portes qui s'ouvrent." Donne un indice à P. Cf. Personnages/PNJ_secondaires.md.
+- [DIVERGENCE RP - 1852 (5.3)] Le trio y entre avec la clé d'Antonia. À Julian, Magnus répond par une preuve d'amour. La Dame Blanche attaque le trio ; vaincue, épargnée, elle l'accompagne jusqu'à l'Opéra. Le Clown, vaincu par P et Magnus, Markiona en retrait.
 
 ---
 
@@ -123,12 +125,12 @@
 - "L'opera house": P se fraie un chemin à travers l'opéra, combat des pantins frénétiques.
 - Adelina Corde (chanteuse légendaire, robe rouge) : P la trouve dans sa loge, cachée, vivante mais
   infectée par la Maladie de Pétrification (perd la voix). Elle avoue avoir empoisonné sa soeur Patricia
-  (la Dame Blanche) par jalousie (Patricia chantait mieux). Cf. Personnages/Adelina_et_Patricia.md.
+  (la Dame Blanche) par jalousie (Patricia chantait mieux). Elle demande à P une pomme rouge, qu'il obtient par Polendina. Retrouvée morte dans sa loge après la chute du Roi. Cf. Personnages/Les_Hiboux.md.
+- [DIVERGENCE RP - 1852 (5.3)] Elle confesse devant le trio et devant Patricia, qui rentre ensuite à Aurus.
 - Après l'opéra : P affronte le Roi des Pantins (Romeo). Combat final du Roi des Pantins. Cf.
   Personnages/Romeo.md, SB6.
-- Roi des Pantins vaincu : Romeo reconnaît P comme porteur de l'Ergo de Carlo. Il tend la main, ne
-  veut pas le combattre. Vaincu -> message à P (Carlo, je suis Romeo, nous avons grandi ensemble à la
-  Maison de Charité Monad. Je t'ai envoyé des messagers mais tu les as éliminés). Cf. Personnages/Romeo.md.
+- Canon : Romeo reconnaît P comme porteur de l'Ergo de Carlo ; il tend la main, ne veut pas le combattre ; vaincu, il remercie P et meurt. Son message (Carlo, je suis Romeo, nous avons grandi ensemble à la Maison de Charité Monad. Je t'ai envoyé des messagers mais tu les as éliminés) est décodé par Venigni au décodeur d'onde Ergo, en 5.4. Cf. Personnages/Romeo.md, Objets/Objets_et_Reliques.md.
+- [DIVERGENCE RP - 1852 (5.3)] Phase 1 contre P et Magnus ; en phase 2, pas de combat : Magnus le reconnaît et l'étreint ; Romeo se donne la mort. P récupère le Pendentif de diplôme de Carlo. Geppetto rejoint le trio derrière la scène (canon). cf. Personnages/Romeo.md, Creatures/Boss_et_Creatures.md.
 
 ---
 
@@ -161,9 +163,9 @@
   pour alimenter le sous-marin Pistrus. Divers pantins jetés, restes de Crowd. Combat. Cf. SB6.
 - Monstre Vert du Marais : monstre de la zone (boss). Un rôdeur avait été envoyé le gérer mais
   avait rapporté n'avoir pas réalisé sa taille réelle -> équipe refusée. Journal du rôdeur trouvé par
-  P (centuries notebook). Cf. Personnages/Boss_et_Creatures.md.
+  P (centuries notebook). Cf. Creatures/Boss_et_Creatures.md.
 - Chouette Médecin : amant d'Adelina Corde. Boss rencontré ici (au Marais Aride). Cf.
-  Personnages/Adelina_et_Patricia.md.
+  Personnages/Les_Hiboux.md.
 - Madoro (reporter/medic) : retraite dans une grotte d'ermite près du Marais Aride durant l'outbreak.
   Journal : contaminé, manque d'eau, aidé par un ermite. Mentionne ses amis (Lumacchio malade, Sophia
   disparue, Venigni sans espoir, H=Alidoro présumé mort). Meurt ; grand carcass dans la grotte. Cf.
@@ -183,6 +185,7 @@
 - Le Stargazer doré se trouve sur le chemin du pèlerin près de la cathédrale. P l'y a déjà vu lors de
   son parcours. DLC : P retourne sur le chemin du pèlerin, utilise la Chrysalide stellaire, renouvelle le
   Stargazer doré -> voyage temporel (zoo intact). Cf. SB5, SB6.
+- [DIVERGENCE RP - 1852 (5.3)] Route du trio vers Malum : de l'autel de St Frangelico au chemin du pèlerin, puis les Taudis des Tombes (VF à valider), jusqu'au District Malum. P remarque le Stargazer doré, inactif (canon). Il servira au voyage de 1850, en 5.5 (fin ch.9).
 - Carcasses errent sur le chemin pendant la progression de base game.
 
 ---
@@ -204,7 +207,7 @@
   (qui y travaillait), l'a amenée à Madoro (medic). Il y a perdu un doigt. C'est la raison pour laquelle
   il la surveillait de loin. Cf. Personnages/Alidoro_et_Parrot.md.
 - Base game : P arrive à la tour effondrée. Combat en montant. Au sommet : Marcheur d'Illusions (boss,
-  crée un double illusoire de lui-même). Vaincu par P. Cf. Personnages/Boss_et_Creatures.md.
+  crée un double illusoire de lui-même). Vaincu par P. Cf. Creatures/Boss_et_Creatures.md.
 - Après le Marcheur d'Illusions : série de tunnels -> retour à la Gare Centrale. Cf. SB6.
 
 ---

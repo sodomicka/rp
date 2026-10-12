@@ -1,6 +1,7 @@
 # Cathédrale St Frangelico
 
-- version : W2
+- version : W3
+- note W3 : forage 5.3 [DIVERGENCE RP]. Départ du trio par le chemin du pèlerin (Stargazer doré vu inactif ; voyage en 5.5) ; la Renarde et le Chat aux ordres de Simon, pour leur propre compte. + Liens morts réparés.
 - note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
@@ -26,6 +27,7 @@
   être averti des intentions de Simon). Cette décision est la "plus grande faute" de Valentinus selon le
   Grandmaster de l'Ordre (lettre d'excommunication). Simon envoie la Renarde Rousse + le Chat Noir suivre P pour
   le mener au Bras de Dieu qu'Andreas a volé. Cf. Systemes/Arm_of_God.md, SB6.
+- [DIVERGENCE RP - 1852] Claudia (la Renarde) et Lucio (le Chat) travaillent pour Simon, mais toujours pour leur propre intérêt. En 5.3, à Malum, Claudia propose au trio de faire route : mandat de Simon, et le fruit pour les yeux de Lucio. cf. Personnages/Claudia_et_Lucio.md.
 - La Maladie de Pétrification et la "mission divine" d'Andreas : à l'arrivée de la maladie, Andreas la
   perçue comme un jugement divin. Il se voit comme le sauveur de Krat. Il travaille avec la Rédemptée
   pour amener les survivants à la cathédrale (refuge). Il distribue un "remède" fourni par les
@@ -43,12 +45,13 @@
   Maître du Défilé, Veilleur Désarticulé) est extrait et collecté par la machine de Simon. Cf. SB2, SB6.
 - État au moment du passage de P (base game) : cathédrale "plus le sanctuaire d'antan". Les gens qui y
   sont montés ne sont pas revenus. Carcasses nombreux dans et autour du bâtiment. La Rédemptée garde
-  l'entrée du cable car et avertit P de ne pas monter. Cf. Personnages/Boss_et_Creatures.md.
+  l'entrée du cable car et avertit P de ne pas monter. Cf. Personnages/PNJ_secondaires.md.
 - Village Clair-de-Lune et cable car : le Village Clair-de-Lune est le point de départ du cable car vers la cathédrale.
   Les pulleys d'origine ont été transformés en cable cars par les Alchimistes (dans le DLC, les
   télécabines sont à l'arrière de ce qui deviendra la Zelator Facility). Cf. Lieux/Quartiers_de_Krat.md.
 - Chemin du pèlerin et Stargazer doré : le Stargazer doré se trouve sur le chemin du pèlerin près de
   la cathédrale. P utilise la Chrysalide stellaire pour le renouveler -> voyage dans le temps (DLC). Cf. SB5.
+- [DIVERGENCE RP - 1852 (5.3)] Après la chute d'Andreas, le trio quitte l'autel par le chemin du pèlerin, cap sur Malum ; P remarque le Stargazer doré, inactif (canon). Le voyage de 1850 se fait en 5.5 (fin ch.9). cf. Lieux/Quartiers_de_Krat.md.
 - Subject 826 : rencontré dans l'abbaye (= Abbaye de l'Arche) puis plus tard à la Rue Rosa Isabel. Forcé à
   consommer de l'Ergo dans les expériences alchimistes. Il parle d'une relique "retournée à sa place
   sacrée" et des "portes qui s'ouvrent". Cf. Personnages/PNJ_secondaires.md.
@@ -62,7 +65,7 @@
 - Andreas se proclame l'Ange à une Aile en mutant -> boss final de la zone. Mort par P. Cf. SB2, SB6.
 - Remède des Alchimistes distribué par Andreas = faux remède -> Carcasses. Andreas jure vengeance.
 - Cécile (nonne, passée criminelle) recueillie par Andreas ; disparaît après confession. Cf. Personnages/Cecile.md.
-- La Renarde Rousse + le Chat Noir chargés par Simon de suivre P pour localiser le Bras de Dieu. Cf. Factions/Les_Stalkers.md.
+- La Renarde Rousse + le Chat Noir chargés par Simon de suivre P pour localiser le Bras de Dieu. Cf. Personnages/Claudia_et_Lucio.md.
 - Après mort d'Andreas : Ergo des boss tués collecté par la machine de Simon. Cf. SB4.
 - Chemin du pèlerin / Stargazer doré près de la cathédrale -> voyage temporel (DLC). Cf. SB5.
 - Subject 826 : rencontré dans l'abbaye puis à la Rue Rosa Isabel. Cf. Personnages/PNJ_secondaires.md.
@@ -72,11 +75,11 @@
 - Archbishop Andreas : prêtre + boss de la zone. Cf. Personnages/Archbishop_Andreas.md.
 - Cécile : nonne recueillie par Andreas. Cf. Personnages/Cecile.md.
 - Bras de Dieu : confié ici puis volé. Cf. Systemes/Arm_of_God.md.
-- La Rédemptée : gardien du cable car au Village Clair-de-Lune. Cf. Personnages/Boss_et_Creatures.md.
+- La Rédemptée : gardienne du cable car au Village Clair-de-Lune. Cf. Personnages/PNJ_secondaires.md.
 - Village Clair-de-Lune : quartier de départ du cable car. Cf. Lieux/Quartiers_de_Krat.md.
-- Ange à une Aile / théologie du Star : cf. SB2, Systemes/One_Winged_Angel_et_le_Star.md.
+- Ange à une Aile / théologie du Star : cf. SB2, Systemes/Theologie_du_Star.md.
 - Simon Manus : collecte l'Ergo des boss via la machine. Cf. Personnages/Simon_Manus.md.
-- La Renarde Rousse + le Chat Noir : pistent P vers le Bras de Dieu. Cf. Factions/Les_Stalkers.md.
+- La Renarde Rousse + le Chat Noir : pistent P vers le Bras de Dieu. Cf. Personnages/Claudia_et_Lucio.md.
 - Stargazers / chemin du pèlerin : cf. Systemes/Stargazers.md, Lieux/Quartiers_de_Krat.md.
 
 ## Sort connu / État
