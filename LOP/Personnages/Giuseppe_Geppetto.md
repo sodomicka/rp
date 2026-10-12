@@ -1,86 +1,86 @@
 # Giuseppe Geppetto
 
 - version : W5
-- note W5 : forages 5.1 et 5.2. + Pont des Alchimistes (Magnus jauge, Markiona pressee). + Dispute au hub : il revele a Markiona Frenesie, peau de Lea, role de Romeo. + Parlement des Artisans (VO : Workshop Union). + Relation Magnus. + Trajectoire 1852.
+- note W5 : forages 5.1 et 5.2. + Pont des Alchimistes (Magnus jaugé, Markiona pressée). + Dispute au hub : il révèle à Markiona Frénésie, peau de Léa, rôle de Romeo. + Parlement des Artisans (VO : Workshop Union). + Relation Magnus. + Trajectoire 1852. + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
-## Identite
+## Identité
 
 - Nom canon : Giuseppe Geppetto.
 - Coquilles transcript : "Jeppe Japetto", "Jeppetto", "Jupetto", "Chapetto".
-- Nature : humain. Inventeur et horloger, leader du Parlement des Artisans (VO : Workshop Union) ; praticien de l'alchimie par necessite (pas membre de l'Ordre). Son terrain de predilection : la mecanique pure et le travail sur l'Ergo.
-- Alias dans les dialogues : souvent appele "Japetto" ou "Jeppetto" par le narrateur (coquilles).
-- Epoux de Camille (morte en accident de laboratoire). Pere de Carlo (mort de la Petrification Disease).
+- Nature : humain. Inventeur et horloger, leader du Parlement des Artisans ; praticien de l'alchimie par nécessité (pas membre de l'Ordre). Son terrain de prédilection : la mécanique pure et le travail sur l'Ergo.
+- Alias dans les dialogues : souvent appelé "Japetto" ou "Jeppetto" par le narrateur (coquilles).
+- Époux de Camille (morte en accident de laboratoire). Père de Carlo (mort de la Maladie de Pétrification).
 
-## Role
+## Rôle
 
-- Fondateur et leader du Parlement des Artisans (VO : Workshop Union ; anciens horlogers / techniciens craftsmen). cf. SB4.
-- S'associe a la famille Venigni pour produire en masse les pantins alimentes par l'Ergo, lies au Grand Covenant. cf. SB3, SB5.
-- Architecte du systeme de puppets de Krat : concevoir, fabriquer, deployer les pantins pour les taches quotidiennes et l'application des lois.
-- Jaloux du genie de Lorenzini Venigni (fils de la famille Venigni) depuis les 18 ans de celui-ci.
-- Instigateur (cache) de la Puppet Frenzy : execute Law Zero ("le nom du createur est Geppetto") -> commande a Romeo de faire tuer les humains par les pantins -> recolte l'Ergo des morts pour le plan de resurrection de Carlo. cf. SB5, SB6.
-- Createur du P-Organ (coeur de pantin) et de Pinocchio (P). cf. SB5.
-- Premier usage du Nameless Puppet : envoie le Nameless tuer Lea Florence Monad pour recuperer le corps de Romeo. [DIVERGENCE RP] Il en profite pour prelever la peau de Lea, matiere premiere de la couche chair de P (cf. Pinocchio.md). Exception : le bras gauche de Lea, petrifie (Petrification localisee, non terminale), ne donne aucune chair exploitable ; Geppetto le remplace par une prothese mecanique (Legion Arm gauche) sur P. La maladie de Lea dicte ainsi le cote du bras-leurre.
-- Dans le base game : retrouve par P sur l'Alician Boulevard (pourchasse par le Mad Donkey). Installe son atelier dans une chambre haute de l'Hotel Krat. Guide P dans sa mission (tue le King of Puppets, va au Grand Exhibition, rejoins l'Aisle of Alchemists).
-  - [DIVERGENCE RP - 1852] Sauve au Pont des Alchimistes : Magnus arrete P et epargne l'Ane fou. Geppetto comprend aussitot ce qu'est Magnus (un pantin de chair parfait) et presse Markiona, son ancienne collegue, qui refuse de livrer ses secrets. Au hub, la jugeant moralement elastique, il lui revele son role dans la Frenesie (Loi Zero), la peau de Lea sur P et le role de Romeo ; elle rejette son plan avec fureur. Il envoie ensuite P aider Venigni (canon) ; Magnus et Markiona l'accompagnent. Il croit toujours le cristal de Camille detruit. cf. Personnages/Markiona.md, Roadmap_05_2_La_Ville_Malade.
-- Kidnappe par le Black Rabbit Brotherhood (a l'instigation de Simon) depuis l'hotel ; P le retrouve a l'Aisle.
-- Confrontation finale : revele a P la verite (Carlo, P-Organ, sa manipulation). Demande le coeur de P pour ressusciter Carlo. Si P refuse : declenche le Nameless Puppet via son bras mecanique (canal d'Ergo). Se sacrifie pour empecher le Nameless de tuer P (coeur crucial pour Carlo). Tue par le Nameless.
-- DLC (passe) : apparait a la fin. P a deja ete rappele au present quand Geppetto monte les escaliers de la Rose Estate avec la caisse contenant le Nameless Puppet ; ils ne se croisent pas sur place. Le Nameless tue Lea Florence (presumee) et recupere le corps de Romeo.
+- Fondateur et leader du Parlement des Artisans (anciens horlogers / techniciens craftsmen). cf. SB4.
+- S'associe à la famille Venigni pour produire en masse les pantins alimentés par l'Ergo, liés au Grand Covenant. cf. SB3, SB5.
+- Architecte du système de puppets de Krat : concevoir, fabriquer, déployer les pantins pour les tâches quotidiennes et l'application des lois.
+- Jaloux du génie de Lorenzini Venigni (fils de la famille Venigni) depuis les 18 ans de celui-ci.
+- Instigateur (caché) de la Frénésie des Pantins : exécute la Loi Zéro ("le nom du créateur est Geppetto") -> commande à Romeo de faire tuer les humains par les pantins -> récolte l'Ergo des morts pour le plan de résurrection de Carlo. cf. SB5, SB6.
+- Créateur de l'Organe-P (coeur de pantin) et de Pinocchio (P). cf. SB5.
+- Premier usage du Pantin sans Nom : envoie le Pantin sans Nom tuer Léa Florence Monad pour récupérer le corps de Romeo. [DIVERGENCE RP] Il en profite pour prélever la peau de Léa, matière première de la couche chair de P (cf. Pinocchio.md). Exception : le bras gauche de Léa, pétrifié (Pétrification localisée, non terminale), ne donne aucune chair exploitable ; Geppetto le remplace par une prothèse mécanique (Bras Légion gauche) sur P. La maladie de Léa dicte ainsi le côté du bras-leurre.
+- Dans le base game : retrouvé par P sur l'Elysion Boulevard (pourchassé par l'Âne fou). Installe son atelier dans une chambre haute de l'Hôtel Krat. Guide P dans sa mission (tue le Roi des Pantins, va à la Grande Exposition, rejoins l'Allée des Alchimistes).
+  - [DIVERGENCE RP - 1852] Sauvé au Pont des Alchimistes : Magnus arrête P et épargne l'Âne fou. Geppetto comprend aussitôt ce qu'est Magnus (un pantin de chair parfait) et presse Markiona, son ancienne collègue, qui refuse de livrer ses secrets. Au hub, la jugeant moralement élastique, il lui révèle son rôle dans la Frénésie (Loi Zéro), la peau de Léa sur P et le rôle de Romeo ; elle rejette son plan avec fureur. Il envoie ensuite P aider Venigni (canon) ; Magnus et Markiona l'accompagnent. Il croit toujours le cristal de Camille détruit. cf. Personnages/Markiona.md, Roadmap_05_2_La_Ville_Malade.
+- Kidnappé par la Confrérie des Lapins Noirs (à l'instigation de Simon) depuis l'hôtel ; P le retrouve à l'Allée.
+- Confrontation finale : révèle à P la vérité (Carlo, Organe-P, sa manipulation). Demande le coeur de P pour ressusciter Carlo. Si P refuse : déclenche le Pantin sans Nom via son bras mécanique (canal d'Ergo). Se sacrifie pour empêcher le Pantin sans Nom de tuer P (coeur crucial pour Carlo). Tué par le Pantin sans Nom.
+- DLC (passé) : apparaît à la fin. P a déjà été rappelé au présent quand Geppetto monte les escaliers du Domaine de la Rose avec la caisse contenant le Pantin sans Nom ; ils ne se croisent pas sur place. Le Pantin sans Nom tue Léa Florence (présumée) et récupère le corps de Romeo.
 
-## Capacites
+## Capacités
 
-- Bras mecanique (bras droit) : dispositif du meme type que celui de Markiona, permet de canaliser l'Ergo et de controler un pantin a distance (demontre lors de la fin good/best : controle du Nameless Puppet via ce bras). Visible quand il retire son gant.
-- Expertise en puppeterie : concevoir des pantins complexes, implanter un P-Organ, manipuler l'Ergo pour encoder la conscience/identite (methode dite "du diable" apprise pour transformer Romeo en pantin).
-- Law Zero : loi secrete encodee dans le Grand Covenant, permettant de passer outre les 4 lois normales : "le nom du createur est Geppetto" -> tous les pantins obeissent a ses ordres. cf. SB5.
-- Manipulation politique : maintient une facade de savant benevolant tout en orchestrant la Frenzy, en manipulant Romeo, en utilisant P comme outil.
-- "Madman's Journal" : document ou Geppetto consigne avoir appris "la methode du diable" = probablement la methode pour transformer un humain mourant en pantin en preservant son Ergo.
-- [DIVERGENCE RP] La "methode du diable" est le coeur de sa biomecanique : transformer un corps humain (mourant ou mort) en pantin en preservant l'Ergo. Romeo en est la preuve canon (humain -> King of Puppets). Appliquee a P : un chassis de pantin recouvert de la peau de Lea, anime par l'Ergo de Carlo. cf. Pinocchio.md, Systemes/Genies_et_Chef_D_Oeuvres.md.
+- Bras mécanique (bras droit) : dispositif du même type que celui de Markiona, permet de canaliser l'Ergo et de contrôler un pantin à distance (démontré lors de la fin good/best : contrôle du Pantin sans Nom via ce bras). Visible quand il retire son gant.
+- Expertise en puppeterie : concevoir des pantins complexes, implanter un Organe-P, manipuler l'Ergo pour encoder la conscience/identité (méthode dite "du diable" apprise pour transformer Romeo en pantin).
+- Loi Zéro : loi secrète encodée dans le Grand Covenant, permettant de passer outre les 4 lois normales : "le nom du créateur est Geppetto" -> tous les pantins obéissent à ses ordres. cf. SB5.
+- Manipulation politique : maintient une façade de savant bénévolant tout en orchestrant la Frénésie, en manipulant Romeo, en utilisant P comme outil.
+- "Madman's Journal" : document où Geppetto consigne avoir appris "la méthode du diable" = probablement la méthode pour transformer un humain mourant en pantin en préservant son Ergo.
+- [DIVERGENCE RP] La "méthode du diable" est le coeur de sa biomécanique : transformer un corps humain (mourant ou mort) en pantin en préservant l'Ergo. Romeo en est la preuve canon (humain -> Roi des Pantins). Appliquée à P : un châssis de pantin recouvert de la peau de Léa, animé par l'Ergo de Carlo. cf. Pinocchio.md, Systemes/Genies_et_Chef_D_Oeuvres.md.
 
 ## Psychologie
 
-- Avant la mort de Camille : inventeur ambitieux, orgueilleux (jalousie envers Venigni), marie et pere.
-- Apres la mort de Camille : effondrement total. Lettre a Antonia : "depuis que Camille est morte, je ne reconnais plus le monde". Besoin d'adoration, de louanges, d'attention. Se justifie de l'abandon de Carlo en disant qu'il veut que Carlo grandisse "dans le monde de Camille" (sans lui).
-- [INTERPRETATION] Geppetto se ment a lui-meme : il presente son plan comme un acte d'amour pour Carlo, mais c'est aussi une quete de redemption pour ne pas avoir su proteger Camille ni elever Carlo.
-- Froid et calculateur dans l'execution : pret a sacrifier des milliers de vies (Puppet Frenzy, mort de Romeo, mort de Lea) pour resusciter Carlo.
-- Montre une affection reelle pour P ("my son", "greatest puppet I ever made") tout en le voyant comme un outil. Cette contradiction est centrale.
-- A la fin good/best ending : se sacrifie (protege le coeur de P), moment ou l'amour paternel l'emporte sur le plan.
-- Declare a P (en colere si refus) : "tu m'as brise le coeur" - "c'est toi le pantin qui ramenera mon fils Carlo."
-- [DIVERGENCE RP] Axe createur : Geppetto est le faiseur du faux parfait. P est un mensonge a tous les etages -- chassis cache, peau d'emprunt (Lea), ame d'emprunt (Carlo), visage sculpte, bras-leurre -- et c'est par le mensonge que ce pantin gagne son humanite. Miroir inverse de Markiona, faiseuse du vrai parfait. cf. Systemes/Genies_et_Chef_D_Oeuvres.md.
-- [DIVERGENCE RP] Rapport a l'alchimie et a la chair : Geppetto MEPRISE l'alchimie et le travail de la chair ; son terrain, c'est la mecanique pure et l'Ergo. Il n'use de la "methode du diable" que par necessite, pour P. Ironie : le faiseur du faux a du depecer Lea et coudre sa peau -- travailler le medium qu'il abhorre (le terrain de Markiona, genie biomecanique) pour son chef-d'oeuvre. Tout, jusqu'a ce qu'il deteste, est un outil pour recuperer Carlo (la seule fin ; les autres -- Lea, Romeo, les morts de la Frenzy, P -- sont des moyens).
+- Avant la mort de Camille : inventeur ambitieux, orgueilleux (jalousie envers Venigni), marié et père.
+- Après la mort de Camille : effondrement total. Lettre à Antonia : "depuis que Camille est morte, je ne reconnais plus le monde". Besoin d'adoration, de louanges, d'attention. Se justifie de l'abandon de Carlo en disant qu'il veut que Carlo grandisse "dans le monde de Camille" (sans lui).
+- [INTERPRÉTATION] Geppetto se ment à lui-même : il présente son plan comme un acte d'amour pour Carlo, mais c'est aussi une quête de rédemption pour ne pas avoir su protéger Camille ni élever Carlo.
+- Froid et calculateur dans l'exécution : prêt à sacrifier des milliers de vies (Frénésie des Pantins, mort de Romeo, mort de Léa) pour ressusciter Carlo.
+- Montre une affection réelle pour P ("my son", "greatest puppet I ever made") tout en le voyant comme un outil. Cette contradiction est centrale.
+- À la fin good/best ending : se sacrifie (protège le coeur de P), moment où l'amour paternel l'emporte sur le plan.
+- Déclare à P (en colère si refus) : "tu m'as brisé le coeur" - "c'est toi le pantin qui ramènera mon fils Carlo."
+- [DIVERGENCE RP] Axe créateur : Geppetto est le faiseur du faux parfait. P est un mensonge à tous les étages -- châssis caché, peau d'emprunt (Léa), âme d'emprunt (Carlo), visage sculpté, bras-leurre -- et c'est par le mensonge que ce pantin gagne son humanité. Miroir inverse de Markiona, faiseuse du vrai parfait. cf. Systemes/Genies_et_Chef_D_Oeuvres.md.
+- [DIVERGENCE RP] Rapport à l'alchimie et à la chair : Geppetto MÉPRISE l'alchimie et le travail de la chair ; son terrain, c'est la mécanique pure et l'Ergo. Il n'use de la "méthode du diable" que par nécessité, pour P. Ironie : le faiseur du faux a dû dépecer Léa et coudre sa peau -- travailler le médium qu'il abhorre (le terrain de Markiona, génie biomécanique) pour son chef-d'oeuvre. Tout, jusqu'à ce qu'il déteste, est un outil pour récupérer Carlo (la seule fin ; les autres -- Léa, Romeo, les morts de la Frénésie, P -- sont des moyens).
 
 ## Relations
 
-- Camille (epouse) : mort = evenement fondateur de toute sa trajectoire post-normale. Travailla avec les alchimistes pour "la faire vivre" a travers le pantin Camil. cf. Personnages/Camille.md.
-- Carlo (fils) : raison d'etre de tout le plan. Abandonne apres la mort de Camille, envoye au Monad Charity House, jamais visite, absent de la remise de diplome. Mais l'integralite de la Puppet Frenzy et de la creation de P vise a le faire revivre.
-- Pinocchio / P (creation) : l'appelle "fils", voit en lui un outil. Contradiction unresolved jusqu'a son sacrifice final.
-- Romeo (ami de Carlo / pantin instrumente) : accepte la proposition de Romeo de se faire transformer en pantin. Le manipule pour declencher la Frenzy. Romeo comprend la trahison, se rebelle, devient King of Puppets.
-- Lea Florence Monad : la tue via le Nameless Puppet pour recuperer le corps de Romeo. [DIVERGENCE RP] Il preleve aussi sa peau (matiere premiere de la couche chair de P) -- sauf au bras gauche, petrifie et inexploitable, remplace par la prothese Legion Arm sur P. Lea aurait pu tuer Geppetto facilement malgre la maladie.
-- Lorenzini Venigni : associe de production, mais jalousie profonde envers le genie de Venigni.
-- Antonia : echange des lettres. Antonia le juge sur son abandon de Carlo. Geppetto lui repond de facon defensive.
-- Alchimistes : collabore avec eux pour les listener experiments et le travail sur l'Ergo. Rompt avec eux une fois son plan en place.
-- Simon Manus : adversaire indirect. La machine de Simon aspire l'Ergo que Geppetto recolte aussi. Simon le kidnappe (via le Black Rabbit Brotherhood) pour le controler.
-- Markiona : ancienne collegue du Parlement des Artisans (dispositif de bras similaire), partie rejoindre les Alchimistes ; Geppetto reste du cote des artisans. [DIVERGENCE RP] Eleve de Camille (cf. Camille.md). En 1852, il la presse de questions sur Magnus, puis lui confie ses secrets (Frenesie, peau de Lea, Romeo) en la croyant aussi peu scrupuleuse que lui ; elle refuse son plan et se tait aupres de Magnus. cf. Personnages/Markiona_relations.md.
+- Camille (épouse) : mort = événement fondateur de toute sa trajectoire post-normale. Travailla avec les alchimistes pour "la faire vivre" à travers le pantin Camil. cf. Personnages/Camille.md.
+- Carlo (fils) : raison d'être de tout le plan. Abandonné après la mort de Camille, envoyé à la Maison de Charité Monad, jamais visité, absent de la remise de diplôme. Mais l'intégralité de la Frénésie des Pantins et de la création de P vise à le faire revivre.
+- Pinocchio / P (création) : l'appelle "fils", voit en lui un outil. Contradiction unresolved jusqu'à son sacrifice final.
+- Romeo (ami de Carlo / pantin instrumenté) : accepte la proposition de Romeo de se faire transformer en pantin. Le manipule pour déclencher la Frénésie. Romeo comprend la trahison, se rebelle, devient Roi des Pantins.
+- Léa Florence Monad : la tue via le Pantin sans Nom pour récupérer le corps de Romeo. [DIVERGENCE RP] Il prélève aussi sa peau (matière première de la couche chair de P) -- sauf au bras gauche, pétrifié et inexploitable, remplacé par la prothèse Bras Légion sur P. Léa aurait pu tuer Geppetto facilement malgré la maladie.
+- Lorenzini Venigni : associé de production, mais jalousie profonde envers le génie de Venigni.
+- Antonia : échange des lettres. Antonia le juge sur son abandon de Carlo. Geppetto lui répond de façon défensive.
+- Alchimistes : collabore avec eux pour les expériences sur les Oreilles et le travail sur l'Ergo. Rompt avec eux une fois son plan en place.
+- Simon Manus : adversaire indirect. La machine de Simon aspire l'Ergo que Geppetto récolte aussi. Simon le kidnappe (via la Confrérie des Lapins Noirs) pour le contrôler.
+- Markiona : ancienne collègue du Parlement des Artisans (dispositif de bras similaire), partie rejoindre les Alchimistes ; Geppetto reste du côté des artisans. [DIVERGENCE RP] Élève de Camille (cf. Camille.md). En 1852, il la presse de questions sur Magnus, puis lui confie ses secrets (Frénésie, peau de Léa, Romeo) en la croyant aussi peu scrupuleuse que lui ; elle refuse son plan et se tait auprès de Magnus. cf. Personnages/Markiona_relations.md.
 - Magnus [DIVERGENCE RP - 1852] : au Pont des Alchimistes, il comprend d'un regard ce qu'est Magnus, un pantin de chair parfait, oeuvre de Markiona. Magnus, lui, ne lui fait pas confiance. cf. Personnages/Magnus.md.
 
 ## Sort connu
 
-- Bad ending : Geppetto extrait le coeur de P, le place dans le Nameless Puppet -> Carlo renait. Geppetto + Carlo quittent l'hotel. Les residents de l'hotel sont morts (tues par Carlo). Lettre sur son bureau : plan pour stabiliser Krat, avertissement a P de se proteger (le corps de P reagit a l'Ergo a cause de l'Arm of God).
-- Good ending / Best ending : Geppetto se sacrifie en se mettant entre le Nameless Puppet et P (le Nameless le tue) pour preserver le coeur de P. P detruit ensuite le Nameless.
-- DLC (passe) : apparition finale a la Rose Estate. Reconnait P comme Carlo avant que P ne se reveille dans sa timeline d'origine.
-- [INCERTAIN] Sort de Geppetto dans la timeline affectee par le DLC non detaille au-dela de la scene finale.
+- Bad ending : Geppetto extrait le coeur de P, le place dans le Pantin sans Nom -> Carlo renaît. Geppetto + Carlo quittent l'hôtel. Les résidents de l'hôtel sont morts (tués par Carlo). Lettre sur son bureau : plan pour stabiliser Krat, avertissement à P de se protéger (le corps de P réagit à l'Ergo à cause du Bras de Dieu).
+- Good ending / Best ending : Geppetto se sacrifie en se mettant entre le Pantin sans Nom et P (le Pantin sans Nom le tue) pour préserver le coeur de P. P détruit ensuite le Pantin sans Nom.
+- DLC (passé) : apparition finale au Domaine de la Rose. Reconnaît P comme Carlo avant que P ne se réveille dans sa timeline d'origine.
+- [INCERTAIN] Sort de Geppetto dans la timeline affectée par le DLC non détaillé au-delà de la scène finale.
 
-## Trajectoire datee
+## Trajectoire datée
 
-| Date/ere | Evenement | Delta d'etat |
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| Pre-jeu | Leader du Workshop Union, s'associe aux Venigni, produit des pantins en masse | Statut : inventeur respecte, epoux et pere |
-| Mort de Camille | Accident laboratoire (Zelator experiments) ; mort de Camille | Effondrement psychologique ; abandon de Carlo |
-| Post-mort Camille | Travaille avec les alchimistes pour "perpetuer" Camille via le pantin Camil | Obsession croissante pour la resurrection |
-| Mort de Carlo | Carlo meurt de la Petrification Disease a la Monad Charity House | Formule le plan de resurrection ; cree Nameless + P-Organ |
-| Plan Romeo | Romeo mourant accepte d'etre transforme en pantin ; Geppetto execute Law Zero ; Frenzy declenchee | Antagoniste cache de Krat |
-| 1852 (5.1, Pont des Alchimistes) [DIV RP] | Sauve de l'Ane fou par Magnus ; jauge Magnus, presse Markiona | Retour a l'Hotel Krat avec Markiona |
-| 1852 (5.2, Hotel Krat) [DIV RP] | Revele a Markiona Frenesie, peau de Lea, role de Romeo ; dispute ; envoie P aider Venigni | Markiona sait et refuse son plan |
-| Base game | A l'hotel, guide P ; kidnappe par Black Rabbit ; retrouve a l'Aisle | Expose progressivement |
-| Confrontation finale | Demande le coeur de P ; bifurcation selon le choix de P | Mort (good/best) ou depart avec Carlo (bad) |
+| Pré-jeu | Leader du Parlement des Artisans, s'associe aux Venigni, produit des pantins en masse | Statut : inventeur respecté, époux et père |
+| Mort de Camille | Accident laboratoire (expériences de Zelator) ; mort de Camille | Effondrement psychologique ; abandon de Carlo |
+| Post-mort Camille | Travaille avec les alchimistes pour "perpétuer" Camille via le pantin Camil | Obsession croissante pour la résurrection |
+| Mort de Carlo | Carlo meurt de la Maladie de Pétrification à la Maison de Charité Monad | Formule le plan de résurrection ; crée Pantin sans Nom + Organe-P |
+| Plan Romeo | Romeo mourant accepte d'être transformé en pantin ; Geppetto exécute la Loi Zéro ; Frénésie déclenchée | Antagoniste caché de Krat |
+| 1852 (5.1, Pont des Alchimistes) [DIV RP] | Sauvé de l'Âne fou par Magnus ; jauge Magnus, presse Markiona | Retour à l'Hôtel Krat avec Markiona |
+| 1852 (5.2, Hôtel Krat) [DIV RP] | Révèle à Markiona Frénésie, peau de Léa, rôle de Romeo ; dispute ; envoie P aider Venigni | Markiona sait et refuse son plan |
+| Base game | À l'hôtel, guide P ; kidnappé par la Confrérie des Lapins Noirs ; retrouvé à l'Allée | Exposé progressivement |
+| Confrontation finale | Demande le coeur de P ; bifurcation selon le choix de P | Mort (good/best) ou départ avec Carlo (bad) |
 
 ---
 

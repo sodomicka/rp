@@ -1,80 +1,81 @@
-# Petrification Disease
+# Maladie de Pétrification
 
-- version : W1
+- version : W2
+- note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
 
-- Maladie petrifiante frappant les humains de Krat, provoquee par les spores d'Ergo manipulees par les Alchimistes (cf. SB1).
-- Frappe simultanement a la Puppet Frenzy -> double fleau qui ravage Krat.
+- Maladie pétrifiante frappant les humains de Krat, provoquée par les spores d'Ergo manipulées par les Alchimistes (cf. SB1).
+- Frappe simultanément à la Frénésie des Pantins -> double fléau qui ravage Krat.
 
 ## Description / Histoire
 
-- Origine : les Alchimistes experimentent sur des corps de pantins abandonnes au Barren Swamp et sur l'Ergo. Ces experimentations decouvrent et/ou liberent des "spores d'Ergo" aux effets devastateurs sur les humains.
-- La degradation de l'Ergo causee par ces experimentations est la source indirecte de la maladie (cf. Systemes/Ergo.md).
-- Parce que l'Ergo est integre dans toute la ville (energie, monnaie, pantins partout), la maladie etait "inevitablement inevitable" selon le narrateur.
-- La maladie se repand dans Krat, tuant de nombreux habitants avant et pendant la Puppet Frenzy.
-- Au moment du DLC (avant le base game), la maladie n'a pas encore "frappe la ville principale" (Klaus le confirme : "nous sommes avant l'annulation du Grand Exhibition").
+- Origine : les Alchimistes expérimentent sur des corps de pantins abandonnés au Marais Aride et sur l'Ergo. Ces expérimentations découvrent et/ou libèrent des "spores d'Ergo" aux effets dévastateurs sur les humains.
+- La dégradation de l'Ergo causée par ces expérimentations est la source indirecte de la maladie (cf. Systemes/Ergo.md).
+- Parce que l'Ergo est intégré dans toute la ville (énergie, monnaie, pantins partout), la maladie était "inévitablement inévitable" selon le narrateur.
+- La maladie se répand dans Krat, tuant de nombreux habitants avant et pendant la Frénésie des Pantins.
+- Au moment du DLC (avant le base game), la maladie n'a pas encore "frappé la ville principale" (Klaus le confirme : "nous sommes avant l'annulation de la Grande Exposition").
 
-### Symptomes
+### Symptômes
 
-- Ecailles sur le corps (visibles sur le visage d'Antonia).
+- Écailles sur le corps (visibles sur le visage d'Antonia).
 - Perte de la voix (Adelina Corde perd sa voix de chanteuse).
-- Perte de la vue (Black Cat perd la vue ; Godard le peintre devient aveugle via un accident de lab).
-- Douleur intense et progressive (Veronique lutte pour garder son humanite ; Lea Florence souffre intensement -> l'Alidoro/Tracker lui donne des antidouleurs).
-- Transformation progressive en Carcasse si les faux remedes sont pris.
-- La maladie peut aussi toucher les animaux (Tyrant Predator au zoo = crocodile petrificait).
+- Perte de la vue (le Chat Noir perd la vue ; Godard le peintre devient aveugle via un accident de lab).
+- Douleur intense et progressive (Véronique lutte pour garder son humanité ; Léa Florence souffre intensément -> l'Alidoro/Limier lui donne des antidouleurs).
+- Transformation progressive en Carcasse si les faux remèdes sont pris.
+- La maladie peut aussi toucher les animaux (prédateur tyrannique au zoo = crocodile pétrifié).
 
 ### Carcasses
 
-- Stade final de la Petrification Disease : les faux "remedes" distribues par les Alchimistes (et par Archbishop Andreas, qui les distribue en croyant guerir) aggravent la maladie -> mort douloureuse et transformation en Carcasse.
-- Les Carcasses sont des ex-humains hostiles, deformes. Peuplent les rues, la cathedrale, le Barren Swamp.
-- Archbishop Andreas distribue ce "remede" en croyant "purifier l'heresie". Quand il comprend que c'etait un faux remede, il jure vengeance contre les Alchimistes.
-- Andreas lui-meme mute -> se proclame le One-Winged Angel ; devient le boss de la cathedrale (grand Carcasse).
-- Madoro (reporter/medecin) se retrouve reclus dans sa grotte pres du Barren Swamp pendant l'outbreak ; contamination, manque d'eau, aide d'un hermit. Meurt ; un grand Carcasse se trouve a la fin de la grotte (Madoro ou le hermit).
+- Stade final de la Maladie de Pétrification (VO : Petrification Disease) : les faux "remèdes" distribués par les Alchimistes (et par Archbishop Andreas, qui les distribue en croyant guérir) aggravent la maladie -> mort douloureuse et transformation en Carcasse.
+- Les Carcasses sont des ex-humains hostiles, déformés. Peuplent les rues, la cathédrale, le Marais Aride.
+- Archbishop Andreas distribue ce "remède" en croyant "purifier l'hérésie". Quand il comprend que c'était un faux remède, il jure vengeance contre les Alchimistes.
+- Andreas lui-même mute -> se proclame l'Ange à une Aile ; devient le boss de la cathédrale (grand Carcasse).
+- Madoro (reporter/médecin) se retrouve reclus dans sa grotte près du Marais Aride pendant l'outbreak ; contamination, manque d'eau, aide d'un hermit. Meurt ; un grand Carcasse se trouve à la fin de la grotte (Madoro ou le hermit).
 
-### Faux remedes
+### Faux remèdes
 
-- Les Alchimistes distribuent des "remedes" qui sont en realite soit une acceleration de la maladie, soit des instruments d'infection/transformation.
-- Andreas distribue le "remede" alchimique en croyant "purifier l'heresie" -- il est lui-meme victime de la manipulation.
-- L'elixir donne a Lumakio comme "recompense" par les Alchimistes = en realite un vecteur d'infection -> Lumakio transforme en abomination.
-- Le Gold Coin Fruit (cf. Systemes/Gold_Coin_Tree.md) = seule substance qui soulage reellement la douleur (mais ne guerit pas). Antonia meurt paisiblement grace au Gold Coin Fruit.
-- Giangio (Paracelsus) cherche le Gold Coin Fruit en pretendant avoir la maladie (pretexte pour obtenir les fruits et acceder aux Listeners).
+- Les Alchimistes distribuent des "remèdes" qui sont en réalité soit une accélération de la maladie, soit des instruments d'infection/transformation.
+- Andreas distribue le "remède" alchimique en croyant "purifier l'hérésie" -- il est lui-même victime de la manipulation.
+- L'élixir donné à Lumacchio comme "récompense" par les Alchimistes = en réalité un vecteur d'infection -> Lumacchio transformé en abomination.
+- Le Fruit d'Or (cf. Systemes/Gold_Coin_Tree.md) = seule substance qui soulage réellement la douleur (mais ne guérit pas). Antonia meurt paisiblement grâce au Fruit d'Or.
+- Giangio (Paracelsus) cherche le Fruit d'Or en prétendant avoir la maladie (prétexte pour obtenir les fruits et accéder aux Oreilles).
 
-### Personnes touchees (liste source)
+### Personnes touchées (liste source)
 
-- Antonia : proprietaire de l'Hotel Krat. Ecailles sur le visage. Meurt paisiblement avec Gold Coin Fruit.
+- Antonia : propriétaire de l'Hôtel Krat. Écailles sur le visage. Meurt paisiblement avec Fruit d'Or.
 - Adelina Corde : perd la voix. Succombe en fin de jeu.
-- Black Cat : perd la vue progressivement. Les Alchimistes lui donnent juste assez de Gold Coin Fruit pour le maintenir comme employe.
-- Veronique : infectee deliberement par les Alchimistes via les Zelator labs (DLC). Transformee en boss, meurt.
-- Lea Florence Monad : atteinte de la maladie au moment du DLC. Souffre intensement.
-- Romeo : atteint de la maladie au moment de sa transformation en pantin (Geppetto le transforme alors qu'il mourait de la Petrification Disease).
-- Madoro : contamine dans sa grotte.
-- Archbishop Andreas : mute, se proclame le One-Winged Angel.
-- Lumakio : infection forcee via l'elixir des Alchimistes.
-- Carlo : mort de la Petrification Disease lors d'un outbreak a la Monad Charity House (evenement determinant du lore).
+- Chat Noir : perd la vue progressivement. Les Alchimistes lui donnent juste assez de Fruit d'Or pour le maintenir comme employé.
+- Véronique : infectée délibérément par les Alchimistes via les Zelator labs (DLC). Transformée en boss, meurt.
+- Léa Florence Monad : atteinte de la maladie au moment du DLC. Souffre intensément.
+- Romeo : atteint de la maladie au moment de sa transformation en pantin (Geppetto le transforme alors qu'il mourait de la Maladie de Pétrification).
+- Madoro : contaminé dans sa grotte.
+- Archbishop Andreas : mute, se proclame l'Ange à une Aile.
+- Lumacchio : infection forcée via l'élixir des Alchimistes.
+- Carlo : mort de la Maladie de Pétrification lors d'un outbreak à la Maison de Charité Monad (événement déterminant du lore).
 
 ## Faits canon
 
-- Cause : spores d'Ergo issues des experimentations alchimiques (SB1).
+- Cause : spores d'Ergo issues des expérimentations alchimiques (SB1).
 - Les "cures" officiels sont faux et aggravent la situation.
-- Seul soulagement reel confirme : Gold Coin Fruit (cf. Systemes/Gold_Coin_Tree.md).
-- La maladie et la Puppet Frenzy frappent simultanement -> double catastrophe.
-- Degradation de l'Ergo causee par les Alchimistes = lien direct (Lorenzini le confirme via rapport du factory manager).
-- Carlos meurt de la maladie a la Monad Charity House -- fait moteur de toute l'intrigue.
+- Seul soulagement réel confirmé : Fruit d'Or (cf. Systemes/Gold_Coin_Tree.md).
+- La maladie et la Frénésie des Pantins frappent simultanément -> double catastrophe.
+- Dégradation de l'Ergo causée par les Alchimistes = lien direct (Lorenzini le confirme via rapport du factory manager).
+- Carlos meurt de la maladie à la Maison de Charité Monad -- fait moteur de toute l'intrigue.
 
 ## Liens
 
-- Ergo : source de la maladie via la degradation des spores (cf. Systemes/Ergo.md).
+- Ergo : source de la maladie via la dégradation des spores (cf. Systemes/Ergo.md).
 - Alchimistes : responsables de la propagation (cf. Factions/Les_Alchimistes.md).
-- Gold Coin Tree / Gold Coin Fruit : seul soulagement partiel (cf. Systemes/Gold_Coin_Tree.md).
-- Puppet Frenzy : fleau simultane (cf. Systemes/Puppet_Frenzy.md).
+- Arbre à Fruits d'Or / Fruit d'Or : seul soulagement partiel (cf. Systemes/Gold_Coin_Tree.md).
+- Frénésie des Pantins : fléau simultané (cf. Systemes/Puppet_Frenzy.md).
 - Archbishop Andreas : victime et vecteur involontaire (cf. Personnages/Archbishop_Andreas.md).
 
-## Sort connu / Etat
+## Sort connu / État
 
-- La Petrification Disease persiste apres la mort du King of Puppets (Geppetto le confirme a P).
-- Aucun vrai remede n'est trouve pendant les evenements du jeu.
-- L'eradication de la maladie reste un probleme ouvert a la fin du base game.
+- La Maladie de Pétrification persiste après la mort du Roi des Pantins (Geppetto le confirme à P).
+- Aucun vrai remède n'est trouvé pendant les événements du jeu.
+- L'éradication de la maladie reste un problème ouvert à la fin du base game.
 
 ---
 

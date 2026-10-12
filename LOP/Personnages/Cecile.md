@@ -1,52 +1,53 @@
-# Cecile
+# Cécile
 
-- version : W1
+- version : W2
+- note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
-## Identite
-- Nom : Cecile.
-- Nature : humaine, nonne de la Cathedrale St Frangelico.
-- Statut particulier : ancienne meurtriere, recueillie par Andreas malgre son passe.
+## Identité
+- Nom : Cécile.
+- Nature : humaine, nonne de la Cathédrale St Frangelico.
+- Statut particulier : ancienne meurtrière, recueillie par Andreas malgré son passé.
 - Coquilles transcript : "Ceil", "Cecil".
 
-## Role
-- Nonne de St Frangelico ; se presente comme la seule restante (les autres nonnes sont mortes de la Petrification Disease ou des monstres).
-- Premiere rencontre avec P dans la cathedrale :
-  - Demande a P d'apporter le Holy Mark depuis les quartiers de l'archeveque.
+## Rôle
+- Nonne de St Frangelico ; se présente comme la seule restante (les autres nonnes sont mortes de la Maladie de Pétrification ou des monstres).
+- Première rencontre avec P dans la cathédrale :
+  - Demande à P d'apporter la Marque Sainte depuis les quartiers de l'archevêque.
   - P peut choisir d'aider ou non.
-  - Si P rapporte le Holy Mark : Cecile le remercie.
-- Disparait ensuite de la cathedrale (plus la quand P revient).
-  - A laisse un mot indiquant qu'elle avait vecu une bonne vie une fois (allusion a son passe de meurtriere et a sa redemption presumee).
-- Role confie par Andreas : a vole l'Arm of God pour le compte de l'archeveque.
-  - Andreas l'a recueillie et lui a confie cette mission precise.
+  - Si P rapporte la Marque Sainte : Cécile le remercie.
+- Disparaît ensuite de la cathédrale (plus là quand P revient).
+  - A laissé un mot indiquant qu'elle avait vécu une bonne vie une fois (allusion à son passé de meurtrière et à sa rédemption présumée).
+- Rôle confié par Andreas : a volé le Bras de Dieu pour le compte de l'archevêque.
+  - Andreas l'a recueillie et lui a confié cette mission précise.
 
 ## Psychologie
-- Passe de meurtriere : recueillie par l'archeveque malgre (ou a cause de) ce passe.
-- Cherche une forme de redemption ou d'appartenance dans la vie religieuse.
-- Son mot de depart evoque une vie vecue "bien une fois" -> signe de paix acquise.
-- [INTERPRETATION] Personnage de rachat : la cathedrale lui a offert un second chemin.
+- Passé de meurtrière : recueillie par l'archevêque malgré (ou à cause de) ce passé.
+- Cherche une forme de rédemption ou d'appartenance dans la vie religieuse.
+- Son mot de départ évoque une vie vécue "bien une fois" -> signe de paix acquise.
+- [INTERPRÉTATION] Personnage de rachat : la cathédrale lui a offert un second chemin.
 
-## Capacites
-- Meurtriere competente (passe, non detaille dans la source).
-- Capable de voler une relique alchimique de haute importance (Arm of God).
+## Capacités
+- Meurtrière compétente (passé, non détaillé dans la source).
+- Capable de voler une relique alchimique de haute importance (Bras de Dieu).
 
 ## Relations
-- Archbishop Andreas : bienfaiteur qui l'a recueillie ; lui a confie la mission du vol de l'Arm of God.
-- P : l'aide temporairement dans la cathedrale (Holy Mark) ; disparait avant le retour de P.
+- Archbishop Andreas : bienfaiteur qui l'a recueillie ; lui a confié la mission du vol du Bras de Dieu.
+- P : l'aide temporairement dans la cathédrale (Marque Sainte) ; disparaît avant le retour de P.
 
 ## Sort connu
-- Disparait de la cathedrale apres la premiere rencontre avec P.
-- Son mot : evoque une bonne vie vecue une fois.
-- Sort final inconnu (hors cathedrale).
-- [INCERTAIN] : si elle survit aux evenements de la maladie et de la Frenzy.
+- Disparaît de la cathédrale après la première rencontre avec P.
+- Son mot : évoque une bonne vie vécue une fois.
+- Sort final inconnu (hors cathédrale).
+- [INCERTAIN] : si elle survit aux événements de la maladie et de la Frénésie.
 
-## Trajectoire datee
-| Date/ere | Evenement | Delta d'etat |
+## Trajectoire datée
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| Passe (non date) | Commet des meurtres | Meurtriere |
-| Pre-base game | Recueillie par Andreas a la cathedrale | Nonne, nouvelle vie |
-| Pre-base game | Vole l'Arm of God pour Andreas | Mission accomplie |
-| Base game (cathedrale) | Rencontre P ; lui demande le Holy Mark | PNJ interlocuteur |
-| Base game (post-Holy Mark) | Laisse un mot ; disparait | Depart mysterieux |
+| Passé (non daté) | Commet des meurtres | Meurtrière |
+| Pré-base game | Recueillie par Andreas à la cathédrale | Nonne, nouvelle vie |
+| Pré-base game | Vole le Bras de Dieu pour Andreas | Mission accomplie |
+| Base game (cathédrale) | Rencontre P ; lui demande la Marque Sainte | PNJ interlocuteur |
+| Base game (post-Marque Sainte) | Laisse un mot ; disparaît | Départ mystérieux |
 
 ---
 

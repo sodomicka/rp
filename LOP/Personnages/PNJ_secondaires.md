@@ -1,261 +1,261 @@
 # PNJ Secondaires
 
 - version : W6
-- note W6 : forages 5.1 et 5.2. Ane fou : role 1852 fixe (epargne au Pont des Alchimistes, refugie a Aurus). La Redemptee : Balayeuse confirmee, epargnee au funiculaire, ralliee a Aurus. + Francisation VF (Rodeurs, Balayeurs, Batards).
+- note W6 : forages 5.1 et 5.2. Âne fou : rôle 1852 fixé (épargné au Pont des Alchimistes, réfugié à Aurus). La Rédemptée : Balayeuse confirmée, épargnée au funiculaire, ralliée à Aurus. + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
-> Fiche groupee. Chaque entite = un bloc independant.
-> Personnages : Belle, Julian + Melody, la Redemptee, Ane fou, Klaus, Hugo, Godard,
+> Fiche groupée. Chaque entité = un bloc indépendant.
+> Personnages : Belle, Julian + Melody, la Rédemptée, Âne fou, Klaus, Hugo, Godard,
 >               Colonel Little + Rex, Luca, Subject 826, Columbo, Dorothy, Decart, Cassius.
 
 ---
 
 ## BELLE
 
-### Identite
+### Identité
 - Nom : Belle.
 - Nature : humaine, survivante.
-- Zone : Grand Exhibition.
+- Zone : Grande Exposition.
 
-### Role
-- Rencontree par P dans la galerie du Grand Exhibition.
-- Signale que des personnes au Grand Exhibition ont pris une drogue.
-- Parle aussi d'experiences biologiques menees sur le site.
-- Alerte P sur la presence de vats contenant un liquide etrange (probablement la drogue).
+### Rôle
+- Rencontrée par P dans la galerie de la Grande Exposition.
+- Signale que des personnes à la Grande Exposition ont pris une drogue.
+- Parle aussi d'expériences biologiques menées sur le site.
+- Alerte P sur la présence de vats contenant un liquide étrange (probablement la drogue).
 
 ### Sort connu
-- Sort apres la rencontre non specifie dans la source.
+- Sort après la rencontre non spécifié dans la source.
 
 ---
 
 ## JULIAN THE GENTLEMAN et MELODY
 
-### Identite
-- Julian : humain, "the Gentleman". Premiere personne a avoir epouse un pantin.
-- Melody : pantin, epouse de Julian. Morte au moment de la rencontre avec P.
+### Identité
+- Julian : humain, "the Gentleman". Première personne à avoir épousé un pantin.
+- Melody : pantin, épouse de Julian. Morte au moment de la rencontre avec P.
 
-### Role (Julian)
-- Rencontre P sur Rosa Isabel Street.
-- Demande a P de retrouver l'anneau de mariage de Melody sur son corps.
-- Choix de P apres la recuperation : mentir (Melody lui a laisse un message d'amour) ou dire la verite (les pantins ne peuvent pas aimer un humain).
-- Sa question ("Puppets capable of love?") est l'un des moments-cles du gameplay de l'humanite de P. Illustre le theme : frontiere entre pantin et humain.
+### Rôle (Julian)
+- Rencontre P sur la Rue Rosa Isabel.
+- Demande à P de retrouver l'anneau de mariage de Melody sur son corps.
+- Choix de P après la récupération : mentir (Melody lui a laissé un message d'amour) ou dire la vérité (les pantins ne peuvent pas aimer un humain).
+- Sa question ("Puppets capable of love?") est l'un des moments-clés du gameplay de l'humanité de P. Illustre le thème : frontière entre pantin et humain.
 
 ### Sort connu
-- Julian : sort apres la sous-intrigue non specifie. Melody : morte.
+- Julian : sort après la sous-intrigue non spécifié. Melody : morte.
 
 ---
 
-## LA REDEMPTEE (the Atoned)
+## LA RÉDEMPTÉE
 
-### Identite
-- Nom/titre : la Redemptee ("the Atoned" ; "Redemptee" = neologisme assume comme nom propre stylise). Nature : humaine, Rodeuse.
-- Faction : Balayeurs (elle est Balayeuse). [DIVERGENCE RP - acte B8] Deduction confirmee par le worldbuilder (non explicite dans le canon).
-- Lieu : cable car menant a la Cathedrale St Frangelico (Moonlight Town).
+### Identité
+- Nom/titre : la Rédemptée (VO : the Atoned ; "Rédemptée" = néologisme assumé comme nom propre stylisé). Nature : humaine, Rôdeuse.
+- Faction : Balayeurs (elle est Balayeuse). [DIVERGENCE RP - acté B8] Déduction confirmée par le worldbuilder (non explicite dans le canon).
+- Lieu : cable car menant à la Cathédrale St Frangelico (Village Clair-de-Lune).
 
 ### Masque, tenue et arme
-- Masque de CHIEN (matin, longues oreilles tombantes) ; aucune couleur d'identite (bas du roster recup). cf. Factions/Les_Stalkers.md (grille).
-- Manteau de cuir rapiece.
+- Masque de CHIEN (mâtin, longues oreilles tombantes) ; aucune couleur d'identité (bas du roster récup). cf. Factions/Les_Stalkers.md (grille).
+- Manteau de cuir rapiécé.
 - Arme : pioche hydraulique.
 
-### Role
-- Gardienne du cable car vers la cathedrale.
-- Avertit P que la cathedrale n'est plus le sanctuaire qu'elle etait.
-- Choix de P : "nothing" (verite froide) -> elle combat P, P obtient la cle en la battant ; "yes" + salut des rodeurs -> elle est intriguee, reconnait un rodeur, laisse passer.
-- Arriere-plan : guidait des refugies vers la cathedrale ; apres leur mort (cathedrale surenvahie de Carcasses), culpabilite immense ; se renomme "la Redemptee" pour expier.
-- Troisieme type de Rodeur rencontre par P (avec la Dame Blanche et le Chouette Medecin).
+### Rôle
+- Gardienne du cable car vers la cathédrale.
+- Avertit P que la cathédrale n'est plus le sanctuaire qu'elle était.
+- Choix de P : "nothing" (vérité froide) -> elle combat P, P obtient la clé en la battant ; "yes" + salut des rôdeurs -> elle est intriguée, reconnaît un rôdeur, laisse passer.
+- Arrière-plan : guidait des réfugiés vers la cathédrale ; après leur mort (cathédrale surenvahie de Carcasses), culpabilité immense ; se renomme "la Rédemptée" pour expier.
+- Troisième type de Rôdeur rencontré par P (avec la Dame Blanche et le Chouette Médecin).
 
 ### Sort connu
-- Meurt en combattant P si P dit la verite. Sort dans les autres cas non specifie.
-- [DIVERGENCE RP - 1852] Vaincue au funiculaire puis EPARGNEE (meme schema que l'Ane fou). Elle rallie Aurus, le havre du duo : elle sait que le Loup Noir (Magnus) et la Louve Blanche (Markiona) etaient respectes parmi les Rodeurs, et leur fait confiance. [A FIXER] Articulation avec son lien a la cathedrale (pourquoi elle bascule). cf. Roadmap_05_2_La_Ville_Malade, Lieux/Aurus.md.
+- Meurt en combattant P si P dit la vérité. Sort dans les autres cas non spécifié.
+- [DIVERGENCE RP - 1852] Vaincue au funiculaire puis ÉPARGNÉE (même schéma que l'Âne fou). Elle rallie Aurus, le havre du duo : elle sait que le Loup Noir (Magnus) et la Louve Blanche (Markiona) étaient respectés parmi les Rôdeurs, et leur fait confiance. [À FIXER] Articulation avec son lien à la cathédrale (pourquoi elle bascule). cf. Roadmap_05_2_La_Ville_Malade, Lieux/Aurus.md.
 
 ---
 
-## ANE FOU (Mad Donkey)
+## ÂNE FOU
 
-### Identite
-- Nom/titre : l'Ane fou ("Mad Donkey"). Nature : humain, Rodeur (faction Balayeurs).
-- Masque d'ane (longues oreilles) ; aucune couleur d'identite (bas du roster recup). cf. Factions/Les_Stalkers.md (grille).
+### Identité
+- Nom/titre : l'Âne fou (VO : Mad Donkey). Nature : humain, Rôdeur (faction Balayeurs).
+- Masque d'âne (longues oreilles) ; aucune couleur d'identité (bas du roster récup). cf. Factions/Les_Stalkers.md (grille).
 - Gueux en lambeaux (allure de Balayeur).
-- Arme : epee-scie improvisee.
+- Arme : épée-scie improvisée.
 
-### Role (canon)
-- Membre des Balayeurs, obsede par Geppetto : il le tient pour responsable de la Puppet Frenzy et le pourchasse a travers Krat.
-- Dans le base game, sa traque de Geppetto l'oppose a P (qui protege Geppetto) ; il y est un mini-boss vaincu et tue par P devant l'Hotel Krat.
+### Rôle (canon)
+- Membre des Balayeurs, obsédé par Geppetto : il le tient pour responsable de la Frénésie des Pantins et le pourchasse à travers Krat.
+- Dans le base game, sa traque de Geppetto l'oppose à P (qui protège Geppetto) ; il y est un mini-boss vaincu et tué par P devant l'Hôtel Krat.
 
 ### [DIVERGENCE RP]
-- Repositionne en ALLIE de Magnus (Magnus etant lui-meme Rodeur). De ce fait, retire de Creatures/Boss_et_Creatures.md (plus de pointeur) et rapatrie ici.
-- Role 1852 (5.1, Pont des Alchimistes) : il menace Geppetto coince dans sa caleche. P s'elance pour proteger son pere ; Magnus s'interpose, croise le fer avec P pour l'arreter, puis convainc l'Ane d'epargner Geppetto. L'Ane refuse l'Hotel Krat (anti-hotel) mais accepte Aurus comme refuge.
+- Repositionné en ALLIÉ de Magnus (Magnus étant lui-même Rôdeur). De ce fait, retiré de Creatures/Boss_et_Creatures.md (plus de pointeur) et rapatrié ici.
+- Rôle 1852 (5.1, Pont des Alchimistes) : il menace Geppetto coincé dans sa calèche. P s'élance pour protéger son père ; Magnus s'interpose, croise le fer avec P pour l'arrêter, puis convainc l'Âne d'épargner Geppetto. L'Âne refuse l'Hôtel Krat (anti-hôtel) mais accepte Aurus comme refuge.
 - cf. Personnages/Magnus.md, Personnages/Markiona.md, Factions/Les_Stalkers.md.
 
 ### Sort connu
-- [DIVERGENCE RP] EPARGNE en 1852 (et non tue par P) ; refugie a Aurus. Suite -> roadmaps Ere 5.
+- [DIVERGENCE RP] ÉPARGNÉ en 1852 (et non tué par P) ; réfugié à Aurus. Suite -> roadmaps Ère 5.
 
 ---
 
 ## KLAUS
 
-### Identite
+### Identité
 - Nom : Klaus. Nature : humain, marchand et collectionneur d'Ergo rare.
 - Coquilles transcript : "Klouse", "Claus".
 
-### Role
-- DLC Overture (passe) : present a Hotel Krat. Sauve par Lea Florence au zoo, amene a l'hotel ; elle repart chercher son apprenti dans un laboratoire.
-- Revele a P que cette periode est anterieure a l'annulation du Grand Exhibition -> la maladie n'a pas encore touche la ville principale. Role d'oracle temporel : confirme le voyage dans le temps.
-- Base game : revele que Lumacchio n'est plus a l'hotel (parti apres reception de documents).
+### Rôle
+- DLC Overture (passé) : présent à Hôtel Krat. Sauvé par Léa Florence au zoo, amené à l'hôtel ; elle repart chercher son apprenti dans un laboratoire.
+- Révèle à P que cette période est antérieure à l'annulation de la Grande Exposition -> la maladie n'a pas encore touché la ville principale. Rôle d'oracle temporel : confirme le voyage dans le temps.
+- Base game : révèle que Lumacchio n'est plus à l'hôtel (parti après réception de documents).
 
 ### Sort connu
-- Sort non specifie au-dela de ses roles d'informateur.
+- Sort non spécifié au-delà de ses rôles d'informateur.
 
 ---
 
 ## HUGO
 
-### Identite
-- Nom : Hugo. Nature : humain, "rookie explorer". Fan declare d'Alidoro.
+### Identité
+- Nom : Hugo. Nature : humain, "rookie explorer". Fan déclaré d'Alidoro.
 
-### Role
-- Rencontre P sur les falaises au-dela du Barren Swamp.
-- Fan admiratif d'Alidoro ; a suivi ses traces jusqu'a une impasse.
-- Evoque les rumeurs sur Alidoro (fraude, vol, agression), les attribue a la jalousie ; confirme la wanted poster ; affirme qu'Alidoro a sauve de nombreuses vies a l'effondrement de la Workshop Tower.
-- Trouve un journal (a centuries notebook). Envoye s'occuper du monstre du marecage, surpris par sa taille ; renfort refuse.
+### Rôle
+- Rencontre P sur les falaises au-delà du Marais Aride.
+- Fan admiratif d'Alidoro ; a suivi ses traces jusqu'à une impasse.
+- Évoque les rumeurs sur Alidoro (fraude, vol, agression), les attribue à la jalousie ; confirme la wanted poster ; affirme qu'Alidoro a sauvé de nombreuses vies à l'effondrement de la Tour des Artisans.
+- Trouve un journal (a centuries notebook). Envoyé s'occuper du monstre du marécage, surpris par sa taille ; renfort refusé.
 
 ### Sort connu
-- Sort non specifie au-dela de la rencontre.
+- Sort non spécifié au-delà de la rencontre.
 
 ---
 
 ## GODARD (peintre aveugle)
 
-### Identite
+### Identité
 - Nom : Godard. Nature : humaine, peintre. A perdu la vue dans un accident de laboratoire.
 
-### Role
-- DLC Overture (passe) : rencontree a la station de tram avant de quitter le carnival pour Hotel Krat.
-- P peut trouver son set de peinture dans la Zelator Facility. S'il le rapporte, elle complete une peinture avant de mourir ; P peut la placer a l'hotel.
-- Timeline affectee : la peinture est presente a l'hotel = preuve de l'impact de P.
+### Rôle
+- DLC Overture (passé) : rencontrée à la station de tram avant de quitter le carnival pour Hôtel Krat.
+- P peut trouver son set de peinture dans la Zelator Facility. S'il le rapporte, elle complète une peinture avant de mourir ; P peut la placer à l'hôtel.
+- Timeline affectée : la peinture est présente à l'hôtel = preuve de l'impact de P.
 
 ### Sort connu
-- Meurt (apres completion de son oeuvre). Sa peinture persiste dans la timeline affectee.
+- Meurt (après complétion de son oeuvre). Sa peinture persiste dans la timeline affectée.
 
 ---
 
 ## COLONEL LITTLE et REX
 
-### Identite
-- Colonel Little : humain, explorateur, fondateur du Krat Zoo.
+### Identité
+- Colonel Little : humain, explorateur, fondateur du Zoo de Krat.
 - Rex : crocodile compagnon du Colonel Little.
 
-### Role (Colonel Little)
-- A tue un lion geant avec Rex. A fonde le zoo.
-- Mort : dit "tue et mange par Rex". Necropsie de Philato : aucun tissu humain entre les dents de Rex, blessure incompatible avec une morsure -> assassine par les Alchimistes. Timing : au moment ou les Alchimistes voulaient acquerir le zoo.
+### Rôle (Colonel Little)
+- A tué un lion géant avec Rex. A fondé le zoo.
+- Mort : dit "tué et mangé par Rex". Nécropsie de Philato : aucun tissu humain entre les dents de Rex, blessure incompatible avec une morsure -> assassiné par les Alchimistes. Timing : au moment où les Alchimistes voulaient acquérir le zoo.
 
-### Role (Rex)
-- Compagnon du Colonel. Monte en taxidermie par Philato sur ordre des Alchimistes.
-- La monture contient un rapport de necropsie cache dans la gueule (un bouton l'ouvre -> trouve par P).
-- L'"esprit" de Rex aurait tue et mange Philato (disparu un jour ; mystere attribue au croc empaille).
+### Rôle (Rex)
+- Compagnon du Colonel. Monté en taxidermie par Philato sur ordre des Alchimistes.
+- La monture contient un rapport de nécropsie caché dans la gueule (un bouton l'ouvre -> trouvé par P).
+- L'"esprit" de Rex aurait tué et mangé Philato (disparu un jour ; mystère attribué au croc empaillé).
 
 ### Implication alchimique
-- Les Alchimistes achetent le zoo apres la mort de Little ; le zoo = terrain d'experimentation pour Markiona et le Brotherhood of Truth.
-- Rapport du Tracker : les Alchimistes ont tue Columbo, Little et d'autres pour controler ressources et lieux.
+- Les Alchimistes achètent le zoo après la mort de Little ; le zoo = terrain d'expérimentation pour Markiona et la Fraternité de la Vérité.
+- Rapport du Limier : les Alchimistes ont tué Columbo, Little et d'autres pour contrôler ressources et lieux.
 
 ### Sort connu
-- Colonel Little : assassine par les Alchimistes. Rex : mort (taxidermie) ; "esprit" presume avoir tue Philato.
+- Colonel Little : assassiné par les Alchimistes. Rex : mort (taxidermie) ; "esprit" présumé avoir tué Philato.
 
 ---
 
 ## LUCA
 
-### Identite
-- Nom : Luca. Nature : humain, protege de Valentinus Monad.
+### Identité
+- Nom : Luca. Nature : humain, protégé de Valentinus Monad.
 
-### Role
-- Alchimiste loyal a Valentinus. A tente 9 fois d'inculper Simon Manus. A supplie Valentinus de convoquer une assemblee contre Simon. Incarne la resistance interne a la montee de Simon.
+### Rôle
+- Alchimiste loyal à Valentinus. A tenté 9 fois d'inculper Simon Manus. A supplié Valentinus de convoquer une assemblée contre Simon. Incarne la résistance interne à la montée de Simon.
 
 ### Sort connu
-- Non specifie. [INCERTAIN] apres l'assaut de Simon sur la Rose Estate.
+- Non spécifié. [INCERTAIN] après l'assaut de Simon sur le Domaine de la Rose.
 
 ---
 
 ## SUBJECT 826
 
-### Identite
-- Designation : Subject 826. Nature : humain, sujet d'experimentation alchimique.
-- Lieu : abbaye (Arch Abbey) puis Rosa Isabel Street.
+### Identité
+- Désignation : Subject 826. Nature : humain, sujet d'expérimentation alchimique.
+- Lieu : abbaye (Abbaye de l'Arche) puis Rue Rosa Isabel.
 
-### Role
-- Force a consommer de l'Ergo (but : lire les memoires contenues dedans). Dit a P qu'il y etait force.
-- P peut le rencontrer deux fois : abbaye, puis Rosa Isabel Street.
+### Rôle
+- Forcé à consommer de l'Ergo (but : lire les mémoires contenues dedans). Dit à P qu'il y était forcé.
+- P peut le rencontrer deux fois : abbaye, puis Rue Rosa Isabel.
 
 ### Sort connu
-- Non specifie. [INCERTAIN] : survie ou non.
+- Non spécifié. [INCERTAIN] : survie ou non.
 
 ---
 
 ## COLUMBO (gardien de phare)
 
-### Identite
+### Identité
 - Nom : Columbo. Nature : humain, gardien du phare. Coquilles transcript : "Columbbo".
 
-### Role
-- A vole une boite d'elixir des Alchimistes et l'a vendue au marche noir (avidite) -> le village pres du phare est submerge (l'elixir empire tout).
-- Les Alchimistes decouvrent son vol ; l'enferment dans sa salle au tresor secrete. Des cris dans le phare (le nouveau gardien demissionne, croyant a un fantome). Corps retrouve par P dans la salle au tresor.
-- Le Tracker cite son meurtre parmi les crimes documentes des Alchimistes.
+### Rôle
+- A volé une boîte d'élixir des Alchimistes et l'a vendue au marché noir (avidité) -> le village près du phare est submergé (l'élixir empire tout).
+- Les Alchimistes découvrent son vol ; l'enferment dans sa salle au trésor secrète. Des cris dans le phare (le nouveau gardien démissionne, croyant à un fantôme). Corps retrouvé par P dans la salle au trésor.
+- Le Limier cite son meurtre parmi les crimes documentés des Alchimistes.
 
 ### Sort connu
-- Mort : enferme vivant dans sa salle au tresor.
+- Mort : enfermé vivant dans sa salle au trésor.
 
 ---
 
 ## DOROTHY
 
-### Identite
+### Identité
 - Nom : Dorothy. Nature : humaine / personnage du sequel (teaser post-credits).
-- Reference : "Le Magicien d'Oz" (L. Frank Baum) -> teaser d'une suite.
+- Référence : "Le Magicien d'Oz" (L. Frank Baum) -> teaser d'une suite.
 
-### Role
-- Mentionnee par Philip Paracelsus dans son monologue du train (post-credits) : P est un "nouveau type d'humanite", les experiences continuent, "another key is Dorothy".
-- Scene post-credits a Krat : une fille en chaussures rouges tape ses talons ensemble. Teaser d'un sequel dans l'univers d'Oz.
+### Rôle
+- Mentionnée par Philip Paracelsus dans son monologue du train (post-credits) : P est un "nouveau type d'humanité", les expériences continuent, "another key is Dorothy".
+- Scène post-credits à Krat : une fille en chaussures rouges tape ses talons ensemble. Teaser d'un sequel dans l'univers d'Oz.
 
 ### Sort connu
-- Non etabli dans le jeu actuel (teaser uniquement).
+- Non établi dans le jeu actuel (teaser uniquement).
 
 ---
 
 ## DECART
 
-### Identite
-- Nom : Decart. Nature : humain (probable), manager ou technicien de la Venigni Works.
+### Identité
+- Nom : Decart. Nature : humain (probable), manager ou technicien de la Fabrique Artisanale Venigni.
 
-### Role
-- Auteur d'une note documentant le comportement de Fuoco : Fuoco a commence a "obeir a autre chose que des humains, comme s'il avait developpe une foi en un dieu".
-- Fuoco, entendant les mots de Romeo via les ondes Ergo, prend le controle de l'usine pour produire des pantins pour la revolte. La note de Decart = source primaire sur sa transformation ideologique.
+### Rôle
+- Auteur d'une note documentant le comportement de Fuoco : Fuoco a commencé à "obéir à autre chose que des humains, comme s'il avait développé une foi en un dieu".
+- Fuoco, entendant les mots de Romeo via les ondes Ergo, prend le contrôle de l'usine pour produire des pantins pour la révolte. La note de Decart = source primaire sur sa transformation idéologique.
 
 ### Sort connu
-- Non specifie.
+- Non spécifié.
 
 ---
 
 ## CASSIUS [DIVERGENCE RP]
 
-### Identite
+### Identité
 - Nom : Cassius. Nature : humain, alchimiste de haut rang au complexe Zelator.
-- STATUT : PNJ invente, n'existe pas dans le jeu. Canon local du RP (worldbuilder). PNJ jetable de l'Ere 1 de Magnus. cf. chronologie, Personnages/Markiona.md, Lieux/Zelator_Facility.md.
+- STATUT : PNJ inventé, n'existe pas dans le jeu. Canon local du RP (worldbuilder). PNJ jetable de l'Ère 1 de Magnus. cf. chronologie, Personnages/Markiona.md, Lieux/Zelator_Facility.md.
 
-### Role
-- Fidele de Simon Manus.
-- En 1847, a la sortie du complexe ou Markiona tente de faire passer Magnus pour son "nouvel assistant", reconnait en lui les traits d'un jeune alchimiste porte disparu des mois plus tot (un avis de disparition avait circule). Il comprend aussitot : Markiona a cree une vie hors des voies sanctionnees de l'Ordre - une heresie.
-- Sonne l'alarme et declenche l'assaut de tout le Zelator contre le duo Markiona + Magnus (et l'Ange de l'Arc).
-- Meurt dans cet assaut (tue par Magnus).
-- [INTERPRETATION / coherence] Connaissait le disparu de par son rang au Zelator ; sa loyaute a Simon presuppose Simon deja influent dans l'Ordre en 1847 - coherent avec le secret du Magnum Opus (Markiona craint deja que Simon la fasse tuer).
+### Rôle
+- Fidèle de Simon Manus.
+- En 1847, à la sortie du complexe où Markiona tente de faire passer Magnus pour son "nouvel assistant", reconnaît en lui les traits d'un jeune alchimiste porté disparu des mois plus tôt (un avis de disparition avait circulé). Il comprend aussitôt : Markiona a créé une vie hors des voies sanctionnées de l'Ordre - une hérésie.
+- Sonne l'alarme et déclenche l'assaut de tout le Zelator contre le duo Markiona + Magnus (et l'Ange de l'Arc).
+- Meurt dans cet assaut (tué par Magnus).
+- [INTERPRÉTATION / cohérence] Connaissait le disparu de par son rang au Zelator ; sa loyauté à Simon présuppose Simon déjà influent dans l'Ordre en 1847 - cohérent avec le secret du Magnum Opus (Markiona craint déjà que Simon la fasse tuer).
 
 ### Physique
 - Borgne de l'oeil gauche.
-- Bras boostes a l'elixir (force augmentee).
+- Bras boostés à l'élixir (force augmentée).
 
 ### Psychologie
-- Zele, rigide, devot a la ligne de l'Ordre.
+- Zélé, rigide, dévot à la ligne de l'Ordre.
 
 ### Sort connu
-- Mort en 1847, tue par Magnus lors de l'assaut qu'il a lui-meme declenche.
+- Mort en 1847, tué par Magnus lors de l'assaut qu'il a lui-même déclenché.
 
 ---
 

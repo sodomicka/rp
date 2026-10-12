@@ -1,82 +1,82 @@
-# Workshop Union
+# Parlement des Artisans
 
 - version : W2
-- note W2 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
+- note W2 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
 
-- Faction de techniciens et artisans de Krat specialises dans la fabrication de pantins et de technologies alimentees par l'Ergo.
+- Faction de techniciens et artisans de Krat spécialisés dans la fabrication de pantins et de technologies alimentées par l'Ergo.
 - Leader historique : Giuseppe Geppetto. Partenaire industriel principal : la famille Venigni.
-- Les workshop technicians = anciens horlogers (watchmakers) reconvertis.
+- Les techniciennes des artisans = anciens horlogers (watchmakers) reconvertis.
 
 ## Description / Histoire
 
-- Le Workshop Union nait de la reconversion d'horlogers qualifies en techniciens d'Ergo-technologie.
-- Geppetto dirige l'Union et s'associe a la famille Venigni pour la production en masse de pantins alimentes par l'Ergo, lies au code Grand Covenant.
-- Les pantins sont concus pour effectuer les taches quotidiennes (menage, etc.) et pour le maintien de l'ordre (law enforcement) dans toute la ville.
-- Cette integration cree un desequilibre social mais la population accepte de bon gre que les taches penibles soient confiees aux pantins, leur liberant du temps.
-- Le Workshop Tower = lieu de travail principal de Geppetto et des artisans qualifies.
-- Le Grand Exhibition devait presenter au monde entier le futur de l'automation et la puissance de l'Ergo. Il n'aura jamais lieu (annule a cause de la maladie ; DLC : Klaus le confirme en parlant d'une "epoque avant l'annulation du Grand Exhibition").
+- Le Parlement des Artisans (VO : Workshop Union) naît de la reconversion d'horlogers qualifiés en techniciens d'Ergo-technologie.
+- Geppetto dirige le Parlement et s'associe à la famille Venigni pour la production en masse de pantins alimentés par l'Ergo, liés au code Grand Covenant.
+- Les pantins sont conçus pour effectuer les tâches quotidiennes (ménage, etc.) et pour le maintien de l'ordre (law enforcement) dans toute la ville.
+- Cette intégration crée un déséquilibre social mais la population accepte de bon gré que les tâches pénibles soient confiées aux pantins, leur libérant du temps.
+- La Tour des Artisans = lieu de travail principal de Geppetto et des artisans qualifiés.
+- La Grande Exposition devait présenter au monde entier le futur de l'automation et la puissance de l'Ergo. Elle n'aura jamais lieu (annulée à cause de la maladie ; DLC : Klaus le confirme en parlant d'une "époque avant l'annulation de la Grande Exposition").
 
 ### Geppetto
 
-- Inventeur alchimiste, leader de la Workshop Union. Arrive a Krat et transforme son economie avec les pantins.
-- Marie a Camille (ingenieure/alchimiste brillante, a cree la Saintess of Mercy statue). Fils : Carlo.
-- Le genie de Lorenzini Venigni lui cause de la jalousie : Geppetto se sent menace par lui.
-- A la mort de Camille, Geppetto se jette dans le travail, envoie Carlo a la Monad Charity House, ne le visite plus (absent meme a la remise de diplome de Carlo). Antonia juge qu'il neglige son role de pere.
-- Plan de resurrection de Carlo : cree le P-Organ, le place dans le Nameless Puppet (corps de Carlo) -- echec (effet oppose). Cree ensuite Pinocchio (P) avec un P-Organ modifie impregnee de l'Ergo de Carlo.
-- Force Romeo a declencher la Puppet Frenzy via Law Zero. Recolte l'Ergo. Geppetto est suspecte par certains humains (dont le Mad Donkey) apres la Frenzy.
-- Dans le base game, Black Rabbit Brotherhood (sous instruction de Simon) kidnappe Geppetto ; P doit le recuperer.
-- Fins : donne l'Arm of God + l'Ergo accumule pour ressusciter Carlo. Selon le choix de P : donne son coeur (bad ending) ou refuse -> Geppetto revele que son bras peut canaliser l'Ergo, controle le Nameless Puppet -> Geppetto se sacrifie quand le Nameless va poignarder P.
+- Inventeur alchimiste, leader du Parlement des Artisans. Arrive à Krat et transforme son économie avec les pantins.
+- Marié à Camille (ingénieure/alchimiste brillante, a créé la statue de la sainte de la miséricorde). Fils : Carlo.
+- Le génie de Lorenzini Venigni lui cause de la jalousie : Geppetto se sent menacé par lui.
+- À la mort de Camille, Geppetto se jette dans le travail, envoie Carlo à la Maison de Charité Monad, ne le visite plus (absent même à la remise de diplôme de Carlo). Antonia juge qu'il néglige son rôle de père.
+- Plan de résurrection de Carlo : crée l'Organe-P, le place dans le Pantin sans Nom (corps de Carlo) -- échec (effet opposé). Crée ensuite Pinocchio (P) avec un Organe-P modifié imprégné de l'Ergo de Carlo.
+- Force Romeo à déclencher la Frénésie des Pantins via la Loi Zéro. Récolte l'Ergo. Geppetto est suspecté par certains humains (dont l'Âne fou) après la Frénésie.
+- Dans le base game, la Confrérie des Lapins Noirs (sous instruction de Simon) kidnappe Geppetto ; P doit le récupérer.
+- Fins : donne le Bras de Dieu + l'Ergo accumulé pour ressusciter Carlo. Selon le choix de P : donne son coeur (bad ending) ou refuse -> Geppetto révèle que son bras peut canaliser l'Ergo, contrôle le Pantin sans Nom -> Geppetto se sacrifie quand le Pantin sans Nom va poignarder P.
 
 ### Famille Venigni
 
 - Partenaire industriel de Geppetto pour la production de masse des pantins.
-- Lorenzini Venigni (fils des Venigni) : inventeur genial des 18 ans, gere la Venigni Works depuis cet age.
-  - Invente le systeme de tramway de Krat.
-  - Concoite le sous-marin Pistrus (batteries plomb-acide / lead acid batteries).
-  - Invente l'Ergo Wavelength Decoder (outil cle du base game : dechiffre les longueurs d'onde Ergo des pantins).
-  - Genie qui rend Geppetto jaloux.
-- Parents de Lorenzini tues par Arlecchino (pantin meurtrier) ; Lorenzini, jeune adulte, tente d'acceder aux dossiers officiels sur ce meurtre -- toujours bloque par les Alchimistes et le Workshop Union (ne voulant pas que la verite soit publiee).
-- Lorenzini et sa "butler" Pulcinella (Pulsella) sont pieges dans Venigni Works pendant la Puppet Frenzy ; P les sauve.
-- A l'Hotel Krat, Lorenzini travaille avec P et fournit l'Ergo Wavelength Decoder. Apprend la verite sur le meurtre de ses parents via les evenements du DLC (en reconnaissant la tenue de Lea Florence sur le personnage de P apres le DLC, il comprend que c'est la Rodeuse Legendaire).
-- La Golden Ergo (necessaire pour alimenter le vehicule alchimique qui menera P a l'Aisle of Alchemists) est commandee par les Alchimistes a Lorenzini.
-- Lorenzini donne aussi la golden lead acid battery a P pour alimenter le transport sous-marin.
+- Lorenzini Venigni (fils des Venigni) : inventeur génial dès 18 ans, gère la Fabrique Artisanale Venigni depuis cet âge.
+  - Invente le système de tramway de Krat.
+  - Conçoit le sous-marin Pistrus (batteries plomb-acide / lead acid batteries).
+  - Invente le décodeur d'onde Ergo (outil clé du base game : déchiffre les longueurs d'onde Ergo des pantins).
+  - Génie qui rend Geppetto jaloux.
+- Parents de Lorenzini tués par Arlecchino (pantin meurtrier) ; Lorenzini, jeune adulte, tente d'accéder aux dossiers officiels sur ce meurtre -- toujours bloqué par les Alchimistes et le Parlement des Artisans (ne voulant pas que la vérité soit publiée).
+- Lorenzini et sa "butler" Pulcinella (Pulsella) sont piégés dans la Fabrique Artisanale Venigni pendant la Frénésie des Pantins ; P les sauve.
+- À l'Hôtel Krat, Lorenzini travaille avec P et fournit le décodeur d'onde Ergo. Apprend la vérité sur le meurtre de ses parents via les événements du DLC (en reconnaissant la tenue de Léa Florence sur le personnage de P après le DLC, il comprend que c'est la Rôdeuse Légendaire).
+- L'Ergo doré (nécessaire pour alimenter le véhicule alchimique qui mènera P à l'Allée des Alchimistes) est commandé par les Alchimistes à Lorenzini.
+- Lorenzini donne aussi la golden lead acid battery à P pour alimenter le transport sous-marin.
 
-### Markiona (lien Workshop Union)
+### Markiona (lien Parlement des Artisans)
 
-- Markiona = ancienne technicienne du Workshop Union, travaillait aux cotes de Geppetto. Portait un bras-device similaire a celui de Geppetto pour controler les pantins via l'Ergo (master puppeteer).
-- C'est elle qui decouvre le pantin qui deviendra Camil (le puppet maid liant Ergo de Camille). Interprete cela comme un signe de Dieu. Rejoint les Alchimistes.
-- Elevee a haut rang dans l'Ordre, gagne le titre de "l'Illuminee" (the Enlightened One). Fonde le Brotherhood of Truth.
+- Markiona = ancienne technicienne du Parlement des Artisans, travaillait aux côtés de Geppetto. Portait un bras-device similaire à celui de Geppetto pour contrôler les pantins via l'Ergo (master puppeteer).
+- C'est elle qui découvre le pantin qui deviendra Camil (le puppet maid liant Ergo de Camille). Interprète cela comme un signe de Dieu. Rejoint les Alchimistes.
+- Élevée à haut rang dans l'Ordre, gagne le titre de "l'Illuminée" (the Enlightened One). Fonde la Fraternité de la Vérité.
 
 ## Faits canon
 
-- Technicians = anciens horlogers, reconvertis en fabricants de pantins.
-- Pantins alimentes par l'Ergo, lies au Grand Covenant.
-- Lorenzini Venigni repere la degradation de l'Ergo via un rapport de son factory manager : degradation trop large pour etre un hasard -> les Alchimistes sont responsables (experiences sur l'Ergo).
-- Workshop Union et Alchimistes n'ont pas voulu publier les details du meurtre des parents de Lorenzini -> censure conjointe.
-- Pulcinella (butler de Lorenzini) va barricader la porte arriere de l'usine pendant la Frenzy ; ne revient pas -> P decouvre Fuoco qui garde le passage.
-- Fuoco (King's Flame) : pantin alloue pour garder les flammes de Venigni Works. Note de Decart : Fuoco a developpe une "foi" en un dieu (le King of Puppets) ; entendant les mots de Romeo via les ondes Ergo, prend le controle de l'usine pour produire plus de pantins pour la revolte de Romeo.
-- Geppetto creat la Saintess of Mercy statue avec / pour Camille.
-- Geppetto dispose d'un "bras" pouvant canaliser l'Ergo et controler les pantins (revele a la fin).
+- Techniciens = anciens horlogers, reconvertis en fabricants de pantins.
+- Pantins alimentés par l'Ergo, liés au Grand Covenant.
+- Lorenzini Venigni repère la dégradation de l'Ergo via un rapport de son factory manager : dégradation trop large pour être un hasard -> les Alchimistes sont responsables (expériences sur l'Ergo).
+- Parlement des Artisans et Alchimistes n'ont pas voulu publier les détails du meurtre des parents de Lorenzini -> censure conjointe.
+- Pulcinella (butler de Lorenzini) va barricader la porte arrière de l'usine pendant la Frénésie ; ne revient pas -> P découvre Fuoco qui garde le passage.
+- Fuoco (Flamme du Roi) : pantin alloué pour garder les flammes de la Fabrique Artisanale Venigni. Note de Decart : Fuoco a développé une "foi" en un dieu (le Roi des Pantins) ; entendant les mots de Romeo via les ondes Ergo, prend le contrôle de l'usine pour produire plus de pantins pour la révolte de Romeo.
+- Geppetto crée la statue de la sainte de la miséricorde avec / pour Camille.
+- Geppetto dispose d'un "bras" pouvant canaliser l'Ergo et contrôler les pantins (révélé à la fin).
 
 ## Liens
 
 - Les Alchimistes : partenaires puis complices (cf. Factions/Les_Alchimistes.md).
-- Grand Covenant : code grave dans les pantins par le Workshop Union (cf. Systemes/Grand_Covenant.md).
-- Ergo : matiere premiere des pantins (cf. Systemes/Ergo.md).
-- Puppet Frenzy : Geppetto en est le declencheur via Law Zero (cf. Systemes/Puppet_Frenzy.md).
-- P-Organ : creation de Geppetto (cf. Systemes/Humanity_System.md et Objets/Objets_et_Reliques.md).
+- Grand Covenant : code gravé dans les pantins par le Parlement des Artisans (cf. Systemes/Grand_Covenant.md).
+- Ergo : matière première des pantins (cf. Systemes/Ergo.md).
+- Frénésie des Pantins : Geppetto en est le déclencheur via la Loi Zéro (cf. Systemes/Puppet_Frenzy.md).
+- Organe-P : création de Geppetto (cf. Systemes/Humanity_System.md et Objets/Objets_et_Reliques.md).
 - Lorenzini Venigni (cf. Personnages/Lorenzini_Venigni.md).
 - Geppetto (cf. Personnages/Giuseppe_Geppetto.md).
 - Markiona (cf. Personnages/Markiona.md).
 
-## Sort connu / Etat
+## Sort connu / État
 
-- Geppetto mort (soit sacrifice volontaire, soit tue par Pinocchio selon la fin).
-- Lorenzini Venigni : sort post-credits non precise par la source.
-- Venigni Works : usine sauvagee par P (Fuoco vaincu), Lorenzini et Pulcinella exfilters vers l'Hotel Krat.
-- Le Workshop Tower : detruit lors de la Battle of the Workshop Tower (shards de Crowd).
+- Geppetto mort (soit sacrifice volontaire, soit tué par Pinocchio selon la fin).
+- Lorenzini Venigni : sort post-crédits non précisé par la source.
+- Fabrique Artisanale Venigni : usine sauvée par P (Fuoco vaincu), Lorenzini et Pulcinella exfiltrés vers l'Hôtel Krat.
+- La Tour des Artisans : détruite lors de la Bataille de la Tour des Artisans (shards de Crowd).
 
 ---
 

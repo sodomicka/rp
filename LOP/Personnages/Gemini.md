@@ -1,58 +1,59 @@
 # Gemini
 
-- version : W1
+- version : W2
+- note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
-## Identite
+## Identité
 
 - Nom canon : Gemini.
 - Coquilles transcript : "Geminy", "Germany".
-- Nature : entite lumineuse portative. Se presente sous la forme d'une petite lumiere (lampion / lanterne) que P trouve sur le sol du wagon au reveil. Le message dit : "Geminy will restart soon. Geminy is to escort P to the hotel."
-- Fonction declaree : guide / escorte de P vers l'Hotel Krat.
-- Mode de communication : voix dans l'oreille de P (parle directement a P tout au long du jeu et du DLC).
-- Origine exacte et createur : [INCERTAIN] - la source ne precise pas qui a fabrique ou programme Gemini, ni ce qu'il est exactement (A.I. de pantin, Ergo, outil de Geppetto ou de Sophia).
+- Nature : entité lumineuse portative. Se présente sous la forme d'une petite lumière (lampion / lanterne) que P trouve sur le sol du wagon au réveil. Le message dit : "Geminy will restart soon. Geminy is to escort P to the hotel."
+- Fonction déclarée : guide / escorte de P vers l'Hôtel Krat.
+- Mode de communication : voix dans l'oreille de P (parle directement à P tout au long du jeu et du DLC).
+- Origine exacte et créateur : [INCERTAIN] - la source ne précise pas qui a fabriqué ou programmé Gemini, ni ce qu'il est exactement (A.I. de pantin, Ergo, outil de Geppetto ou de Sophia).
 
-## Role
+## Rôle
 
-- Presente des le debut du jeu (trouve dans le wagon avec P), redresse operationnelle au moment ou P s'active.
+- Présente dès le début du jeu (trouvé dans le wagon avec P), redresse opérationnelle au moment où P s'active.
 - Accompagne P tout au long du base game et du DLC Overture.
-- Avertit P des dangers immediatement apres la sortie de l'hotel : mentionne le Black Rabbit Brotherhood lors de la premiere sortie.
-- Fournit des commentaires situationnels pendant l'exploration : ex. ressent un tremblement de sol, l'attribue a la direction de Krat Central Station.
-- DLC Overture : premier a deduire le voyage temporel. En voyant le Krat Zoo intact (alors qu'il a brule dans la timeline presente), Gemini dit que "le golden stargazer les a probablement envoyes dans le passe." Confirme cela en declarant : "je me souviens d'un jour ou il neigeait sur le zoo." -> sa memoire precede la destruction du zoo.
-- DLC : reconnait le mode operatoire d'un tueur en entrant dans une piece a la Savannah Experience Center du zoo : "je reconnais la signature du tueur" = Lea Florence Monad (petales pres des corps). Donne ainsi a P une premiere identification de Lea avant que cette derniere soit rencontree directement.
-- Commentateur de l'evolution de P : temoigne de l'etrangete des situations, reagit aux decouvertes narratives.
+- Avertit P des dangers immédiatement après la sortie de l'hôtel : mentionne la Confrérie des Lapins Noirs lors de la première sortie.
+- Fournit des commentaires situationnels pendant l'exploration : ex. ressent un tremblement de sol, l'attribue à la direction de la Gare Centrale.
+- DLC Overture : premier à déduire le voyage temporel. En voyant le Zoo de Krat intact (alors qu'il a brûlé dans la timeline présente), Gemini dit que "le Stargazer doré les a probablement envoyés dans le passé." Confirme cela en déclarant : "je me souviens d'un jour où il neigeait sur le zoo." -> sa mémoire précède la destruction du zoo.
+- DLC : reconnaît le mode opératoire d'un tueur en entrant dans une pièce à la Savannah Experience Center du zoo : "je reconnais la signature du tueur" = Léa Florence Monad (pétales près des corps). Donne ainsi à P une première identification de Léa avant que cette dernière soit rencontrée directement.
+- Commentateur de l'évolution de P : témoigne de l'étrangeté des situations, réagit aux découvertes narratives.
 
-## Capacites
+## Capacités
 
-- Mobilite : suit P partout ; lampion portable.
-- Perception / deduction : capable d'identifier des traces (style de combat, mode operatoire d'un tueur). Capable de raisonnement temporel (deduction du voyage dans le passe).
-- Memoire ancienne : se souvient d'evenements anterieurs a la destruction du zoo -> possede une memoire qui s'etend avant la Puppet Frenzy.
+- Mobilité : suit P partout ; lampion portable.
+- Perception / déduction : capable d'identifier des traces (style de combat, mode opératoire d'un tueur). Capable de raisonnement temporel (déduction du voyage dans le passé).
+- Mémoire ancienne : se souvient d'événements antérieurs à la destruction du zoo -> possède une mémoire qui s'étend avant la Frénésie des Pantins.
 - Communication verbale continue avec P.
 
 ## Psychologie
 
-- Ton : pratique, direct, parfois tonique. Pas d'emotivite marquee dans la source.
-- Loyal a P : son role est d'escorter et guider P.
-- Curieux : s'interroge sur l'etrangete des situations (zoo intact, neige du passe).
-- [INCERTAIN] Ses motivations profondes, son rapport a Geppetto ou a Sophia, et sa nature ontologique (conscience, simple programme) ne sont pas explicites dans la source.
+- Ton : pratique, direct, parfois tonique. Pas d'émotivité marquée dans la source.
+- Loyal à P : son rôle est d'escorter et guider P.
+- Curieux : s'interroge sur l'étrangeté des situations (zoo intact, neige du passé).
+- [INCERTAIN] Ses motivations profondes, son rapport à Geppetto ou à Sophia, et sa nature ontologique (conscience, simple programme) ne sont pas explicites dans la source.
 
 ## Relations
 
-- Pinocchio / P (charge / escorte) : relation fonctionnelle principale. Gemini est lie a P de facon continue.
-- [INCERTAIN] Relation a Geppetto (createur probable) non confirmee par la source.
-- [INCERTAIN] Relation a Sophia non confirmee par la source.
+- Pinocchio / P (charge / escorte) : relation fonctionnelle principale. Gemini est lié à P de façon continue.
+- [INCERTAIN] Relation à Geppetto (créateur probable) non confirmée par la source.
+- [INCERTAIN] Relation à Sophia non confirmée par la source.
 
 ## Sort connu
 
 - Actif tout au long du base game et du DLC.
-- [INCERTAIN] Sort final de Gemini apres les evenements du jeu non explicite dans la source.
+- [INCERTAIN] Sort final de Gemini après les événements du jeu non explicite dans la source.
 
-## Trajectoire datee
+## Trajectoire datée
 
-| Date/ere | Evenement | Delta d'etat |
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| Debut base game | Trouve dans le wagon ; "Geminy will restart soon" ; escorte P a l'hotel | Actif, role de guide |
-| DLC Overture | Deduit le voyage temporel ; identifie la signature de Lea Florence | Guide et analyste |
-| (vide - alimentee a chaud par les roadmaps) | | |
+| Début base game | Trouvé dans le wagon ; "Geminy will restart soon" ; escorte P à l'hôtel | Actif, rôle de guide |
+| DLC Overture | Déduit le voyage temporel ; identifie la signature de Léa Florence | Guide et analyste |
+| (vide - alimentée à chaud par les roadmaps) | | |
 
 ---
 

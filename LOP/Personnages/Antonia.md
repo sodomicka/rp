@@ -1,56 +1,56 @@
 # Antonia
 
 - version : W2
-- note W2 : forage 5.1 [DIVERGENCE RP]. Markiona la soigne a l'Hotel Krat : deux petrifiees.
+- note W2 : forage 5.1 [DIVERGENCE RP]. Markiona la soigne à l'Hôtel Krat : deux pétrifiées. + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
-## Identite
+## Identité
 - Nom : Antonia (alias "Lady Antonia" dans les lettres de Geppetto).
-- Nature : humaine, proprietaire de l'Hotel Krat.
-- Condition : atteinte de la Petrification Disease (ecailles sur le visage progressivement visibles).
+- Nature : humaine, propriétaire de l'Hôtel Krat.
+- Condition : atteinte de la Maladie de Pétrification (écailles sur le visage progressivement visibles).
 - Coquilles transcript : "Antonia", "Lady Antonia", "Antonius" (erreur du transcript pour Antonia dans certains passages).
 
-## Role
-- Proprietaire et responsable de l'Hotel Krat, qui sert de refuge aux survivants pendant la Puppet Frenzy et la Petrification Disease.
-- Accueille P a son arrivee a l'hotel.
-- Detient la cle donnant acces a Rosa Isabel Street (remise a P pour qu'il traque le King of Puppets).
-- Figure d'autorite morale dans l'hotel ; connait les residents et gere leurs relations.
-- Interlocutrice de Geppetto : lui a ecrit pour lui reprocher de negliger Carlo. Geppetto lui a repondu que depuis la mort de Camille, il ne reconnait plus qui il est.
-- A joue du piano pour maintenir le moral des residents a la Monad Charity House pendant la quarantaine liee a la maladie (avant l'outbreak officiel).
-- A appris a Carlo a jouer du piano quand il etait a la charity house.
-- Declare avoir menti precedemment ("Antonia, revealing that she had lied beforehand") pour cacher l'existence d'un passage secret : en jouant un accord special sur le piano, le portrait s'ouvre.
-- Revele que des Alchimistes occupent la tour effondree de la gare.
-- Lie a la cure optionnelle : P peut obtenir un Gold Coin Fruit via Giangio/Danjo et le donner a Polendina pour Antonia. Ce "remede" ne guerit pas mais soulage la douleur -> mort paisible.
+## Rôle
+- Propriétaire et responsable de l'Hôtel Krat, qui sert de refuge aux survivants pendant la Frénésie des Pantins et la Maladie de Pétrification.
+- Accueille P à son arrivée à l'hôtel.
+- Détient la clé donnant accès à la Rue Rosa Isabel (remise à P pour qu'il traque le Roi des Pantins).
+- Figure d'autorité morale dans l'hôtel ; connaît les résidents et gère leurs relations.
+- Interlocutrice de Geppetto : lui a écrit pour lui reprocher de négliger Carlo. Geppetto lui a répondu que depuis la mort de Camille, il ne reconnaît plus qui il est.
+- A joué du piano pour maintenir le moral des résidents à la Maison de Charité Monad pendant la quarantaine liée à la maladie (avant l'outbreak officiel).
+- A appris à Carlo à jouer du piano quand il était à la Maison de Charité.
+- Déclare avoir menti précédemment ("Antonia, revealing that she had lied beforehand") pour cacher l'existence d'un passage secret : en jouant un accord spécial sur le piano, le portrait s'ouvre.
+- Révèle que des Alchimistes occupent la tour effondrée de la gare.
+- Lié à la cure optionnelle : P peut obtenir un Fruit d'Or via Giangio/Danjo et le donner à Polendina pour Antonia. Ce "remède" ne guérit pas mais soulage la douleur -> mort paisible.
 
 ## Psychologie
-- Femme de devoir et de compassion : tient l'hotel comme sanctuaire malgre sa propre maladie.
-- Juge moral de Geppetto : le reprimande sur son role de pere absent envers Carlo.
-- Stoique face a sa propre mort imminente.
-- [INTERPRETATION] Aime P d'un amour maternel indirect : sa lettre originale dit qu'elle pensait que P "resembled Carlo" ; dans la timeline affectee (DLC), sa lettre prend un ton different.
+- Femme de devoir et de compassion : tient l'hôtel comme sanctuaire malgré sa propre maladie.
+- Juge moral de Geppetto : le réprimande sur son rôle de père absent envers Carlo.
+- Stoïque face à sa propre mort imminente.
+- [INTERPRÉTATION] Aime P d'un amour maternel indirect : sa lettre originale dit qu'elle pensait que P "resembled Carlo" ; dans la timeline affectée (DLC), sa lettre prend un ton différent.
 
 ## Relations
-- Polendina (majordome pantin) : lien tres fort ; Polendina a developpe un Ego et est tombe amoureux d'elle.
-- P : l'accueille, lui remet la cle de Rosa Isabel St, lui fait confiance.
-- Carlo (decede) : l'a eleve a la charity house, lui a appris le piano ; considerait que son pere le negligeait.
+- Polendina (majordome pantin) : lien très fort ; Polendina a développé un Ego et est tombé amoureux d'elle.
+- P : l'accueille, lui remet la clé de la Rue Rosa Isabel, lui fait confiance.
+- Carlo (décédé) : l'a élevé à la Maison de Charité, lui a appris le piano ; considérait que son père le négligeait.
 - Geppetto : correspondance tendue ; elle lui reprochait son absence paternelle.
-- Markiona [DIVERGENCE RP - 1852] : a l'arrivee du trio, elle discute avec Antonia et la soigne - deux petrifiees. cf. Personnages/Markiona_relations.md.
-- Cecile : nun qui resida a la cathedrale, pas de lien direct etabli avec Antonia.
+- Markiona [DIVERGENCE RP - 1852] : à l'arrivée du trio, elle discute avec Antonia et la soigne - deux pétrifiées. cf. Personnages/Markiona_relations.md.
+- Cécile : nun qui résida à la cathédrale, pas de lien direct établi avec Antonia.
 
 ## Sort connu
-- Meurt de la Petrification Disease.
-- Si P donne le Gold Coin Fruit a Polendina (remede optionnel via Giangio) : mort paisible, sans douleur.
-- Laisse une lettre a sa mort :
-  - Timeline originale : dit que P ressemblait a Carlo.
-  - Timeline affectee par le DLC (golden stargazer) : lettre avec enveloppe verte, deuxieme page ajoutee ; evoque P comme "a force for good", le massacre de la Rose Estate, la capacite de P a connecter avec les gens et leur apporter de la chaleur ; mentionne que "fates change for the better".
+- Meurt de la Maladie de Pétrification.
+- Si P donne le Fruit d'Or à Polendina (remède optionnel via Giangio) : mort paisible, sans douleur.
+- Laisse une lettre à sa mort :
+  - Timeline originale : dit que P ressemblait à Carlo.
+  - Timeline affectée par le DLC (Stargazer doré) : lettre avec enveloppe verte, deuxième page ajoutée ; évoque P comme "a force for good", le massacre du Domaine de la Rose, la capacité de P à connecter avec les gens et leur apporter de la chaleur ; mentionne que "fates change for the better".
 
-## Trajectoire datee
-| Date/ere | Evenement | Delta d'etat |
+## Trajectoire datée
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| Periode charity house | Reprimande Geppetto sur Carlo ; apprend le piano a Carlo | Figure maternelle de substitution |
-| Pre-outbreak | Tient l'hotel ; joue du piano pour maintenir le moral | Gestionnaire de crise |
-| Base game | Malade (ecailles visibles) ; remet la cle a P ; concede le passage secret | Affaiblie, lucide |
-| 1852 (5.1) [DIVERGENCE RP] | Soignee par Markiona, petrifiee comme elle | Soulagee |
-| Base game (fin) | Mort de la Petrification Disease ; lettre laissee | Mort paisible (si cure donne) ou douloureuse |
-| Timeline DLC affectee | Lettre modifiee (enveloppe verte, page 2) | Impact temporel de P visible |
+| Période Maison de Charité | Réprimande Geppetto sur Carlo ; apprend le piano à Carlo | Figure maternelle de substitution |
+| Pré-outbreak | Tient l'hôtel ; joue du piano pour maintenir le moral | Gestionnaire de crise |
+| Base game | Malade (écailles visibles) ; remet la clé à P ; concède le passage secret | Affaiblie, lucide |
+| 1852 (5.1) [DIVERGENCE RP] | Soignée par Markiona, pétrifiée comme elle | Soulagée |
+| Base game (fin) | Mort de la Maladie de Pétrification ; lettre laissée | Mort paisible (si cure donné) ou douloureuse |
+| Timeline DLC affectée | Lettre modifiée (enveloppe verte, page 2) | Impact temporel de P visible |
 
 ---
 

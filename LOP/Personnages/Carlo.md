@@ -1,91 +1,91 @@
 # Carlo
 
 - version : W5
-- note W5 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
+- note W5 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
-## Identite
+## Identité
 
 - Nom canon : Carlo.
 - Coquilles transcript : "Carlo" (stable dans le transcript).
-- Nature : humain, fils de Giuseppe Geppetto et de Camille (epouse de Geppetto).
-- Statut au debut du jeu : mort (decede de la Petrification Disease avant le base game).
-- Date de mort [DIVERGENCE RP - calendrier in-world] : 1843, encore enfant, du meme age que Romeo. Le jeu ne date rien ; annee fixee par le worldbuilder (cf. Chronologie.md). Implication : positionne Romeo comme jeune chez les Rodeurs (1848-1850) et jeune King of Puppets (1851).
-- Presence dans le jeu : indirect - via l'Ergo de Carlo dans le P-Organ de P, via les visions sur la plage noire (a l'Aisle), via les memoires extraites par le Ergo Wavelength Decoder, via Rosaura (DLC).
-- Modele de P : Geppetto a sculpte le VISAGE de P vers l'apparence de Carlo. [DIVERGENCE RP] La chair sous ce visage n'est pas celle de Carlo mais celle de Lea Florence Monad (cf. Personnages/Pinocchio.md) ; l'eveil de l'Ego de Carlo resout progressivement l'apparence vers Carlo (yeux marrons, pommettes claires en fin Real Boy).
-- Role moteur : l'integralite du plan de Geppetto (Puppet Frenzy, creation de P, manipulation de Romeo) vise uniquement a ressusciter Carlo.
+- Nature : humain, fils de Giuseppe Geppetto et de Camille (épouse de Geppetto).
+- Statut au début du jeu : mort (décédé de la Maladie de Pétrification avant le base game).
+- Date de mort [DIVERGENCE RP - calendrier in-world] : 1843, encore enfant, du même âge que Romeo. Le jeu ne date rien ; année fixée par le worldbuilder (cf. Chronologie.md). Implication : positionne Romeo comme jeune chez les Rôdeurs (1848-1850) et jeune Roi des Pantins (1851).
+- Présence dans le jeu : indirect - via l'Ergo de Carlo dans l'Organe-P de P, via les visions sur la plage noire (à l'Allée), via les mémoires extraites par le décodeur d'onde Ergo, via Rosaura (DLC).
+- Modèle de P : Geppetto a sculpté le VISAGE de P vers l'apparence de Carlo. [DIVERGENCE RP] La chair sous ce visage n'est pas celle de Carlo mais celle de Léa Florence Monad (cf. Personnages/Pinocchio.md) ; l'éveil de l'Ego de Carlo résout progressivement l'apparence vers Carlo (yeux marrons, pommettes claires en fin Real Boy).
+- Rôle moteur : l'intégralité du plan de Geppetto (Frénésie des Pantins, création de P, manipulation de Romeo) vise uniquement à ressusciter Carlo.
 
-## Role
+## Rôle
 
-### Enfance au Monad Charity House
+### Enfance à la Maison de Charité Monad
 
-- Apres la mort de Camille, Geppetto envoie Carlo au Monad Charity House. Geppetto ne lui rend jamais visite ; absent meme a la remise de diplome de Carlo.
-- Lady Antonia condamne l'attitude de Geppetto (negligence paternelle) et apprend elle-meme a jouer du piano a Carlo. Carlo s'y revele doue.
-- Carlo noue une amitie profonde avec Romeo. Tous deux aspirent a devenir rodeurs.
-- Carlo offre a Romeo son pendentif de remise de diplome. Ce geste est central : c'est ce pendentif que P recupere en tuant le King of Puppets, et la reaction physique de P (l'Ergo de Carlo "se souvient") signale l'identite profonde entre P et Carlo.
-- Carlo, Romeo et Lea Florence Monad jouent de la musique ensemble.
-- Carlo supplie Lea de lui enseigner l'epee. Lea trouve sa persistence agacante (pas attendrissante). Elle dit a Geppetto de "se debarrasser de lui" et part. [DIVERGENCE RP] Carlo n'apprend donc JAMAIS l'epee -- ce qui rend la maitrise de P enigmatique, son Ego venant de Carlo. La memoire musculaire viendrait de la chair de Lea, bretteuse legendaire (indice : Alidoro trouve que le style de P "lui rappelle quelqu'un"). cf. Personnages/Pinocchio.md, Systemes/Genies_et_Chef_D_Oeuvres.md.
-- Outbreak de la Petrification Disease a la Monad Charity House -> Carlo meurt (1843 ; cf. Date de mort).
-- Lea revient a la charity house et regrette d'avoir abandonne Carlo. Dans la timeline alteree (DLC), les mots de Lea envers Carlo mort changent : elle exprime sa gratitude.
+- Après la mort de Camille, Geppetto envoie Carlo à la Maison de Charité Monad. Geppetto ne lui rend jamais visite ; absent même à la remise de diplôme de Carlo.
+- Lady Antonia condamne l'attitude de Geppetto (négligence paternelle) et apprend elle-même à jouer du piano à Carlo. Carlo s'y révèle doué.
+- Carlo noue une amitié profonde avec Romeo. Tous deux aspirent à devenir rôdeurs.
+- Carlo offre à Romeo son pendentif de remise de diplôme. Ce geste est central : c'est ce pendentif que P récupère en tuant le Roi des Pantins, et la réaction physique de P (l'Ergo de Carlo "se souvient") signale l'identité profonde entre P et Carlo.
+- Carlo, Romeo et Léa Florence Monad jouent de la musique ensemble.
+- Carlo supplie Léa de lui enseigner l'épée. Léa trouve sa persistence agaçante (pas attendrissante). Elle dit à Geppetto de "se débarrasser de lui" et part. [DIVERGENCE RP] Carlo n'apprend donc JAMAIS l'épée -- ce qui rend la maîtrise de P énigmatique, son Ego venant de Carlo. La mémoire musculaire viendrait de la chair de Léa, bretteuse légendaire (indice : Alidoro trouve que le style de P "lui rappelle quelqu'un"). cf. Personnages/Pinocchio.md, Systemes/Genies_et_Chef_D_Oeuvres.md.
+- Outbreak de la Maladie de Pétrification à la Maison de Charité Monad -> Carlo meurt (1843 ; cf. Date de mort).
+- Léa revient à la Maison de Charité et regrette d'avoir abandonné Carlo. Dans la timeline altérée (DLC), les mots de Léa envers Carlo mort changent : elle exprime sa gratitude.
 
-### Post-mort (tentative de resurrection)
+### Post-mort (tentative de résurrection)
 
-- Geppetto tente de ressusciter Carlo directement -> echec. Resultat : le Nameless Puppet (le corps emacie de Carlo). Le P-Organ mis dans le Nameless produit l'effet inverse (destruction de l'Ergo de Carlo probable). Le Nameless ne ressent que de la haine.
-- Geppetto formule alors le plan P : creer un nouveau pantin (P) modelise sur Carlo, avec un P-Organ modifie imbibe de l'Ergo de Carlo. L'idee : en accumulant assez d'Ergo, l'Ego de Carlo s'eveillera dans P progressivement.
-- Plan final : extraire le P-Organ de P apres un maximum d'Ergo accumule, le placer dans le Nameless Puppet -> Carlo ressuscite dans un corps pantin.
-- Bad ending : Carlo renait via le coeur de P place dans le Nameless Puppet. "Carlo" sort de l'hotel avec Geppetto. Les residents de l'hotel sont morts (Carlo les a tues). Geppetto le decrit comme "son fils" retrouve.
-- [INTERPRETATION] Ce "Carlo" issu du bad ending est-il vraiment Carlo ou une version dominee par la haine du Nameless ? La source ne tranche pas explicitement, mais la mort des residents de l'hotel est attribuee a "Carlo".
+- Geppetto tente de ressusciter Carlo directement -> échec. Résultat : le Pantin sans Nom (le corps émacié de Carlo). L'Organe-P mis dans le Pantin sans Nom produit l'effet inverse (destruction de l'Ergo de Carlo probable). Le Pantin sans Nom ne ressent que de la haine.
+- Geppetto formule alors le plan P : créer un nouveau pantin (P) modélisé sur Carlo, avec un Organe-P modifié imbibé de l'Ergo de Carlo. L'idée : en accumulant assez d'Ergo, l'Ego de Carlo s'éveillera dans P progressivement.
+- Plan final : extraire l'Organe-P de P après un maximum d'Ergo accumulé, le placer dans le Pantin sans Nom -> Carlo ressuscite dans un corps pantin.
+- Bad ending : Carlo renaît via le coeur de P placé dans le Pantin sans Nom. "Carlo" sort de l'hôtel avec Geppetto. Les résidents de l'hôtel sont morts (Carlo les a tués). Geppetto le décrit comme "son fils" retrouvé.
+- [INTERPRÉTATION] Ce "Carlo" issu du bad ending est-il vraiment Carlo ou une version dominée par la haine du Pantin sans Nom ? La source ne tranche pas explicitement, mais la mort des résidents de l'hôtel est attribuée à "Carlo".
 
-### Presence dans P (Ergo / Ego)
+### Présence dans P (Ergo / Ego)
 
-- L'Ergo de Carlo imbibe le P-Organ de P -> "les memoires et la duree de vie distillee" de Carlo sont en P.
-- Manifestations physiques dans P : cheveux qui poussent et grisonnent (Ego de Carlo qui s'eveille), reaction physique au pendentif de Romeo, visions sur la plage noire de l'Aisle (jeune Carlo abandonne, parle a Sophia, amitie avec Romeo, echec avec Lea).
-- Sophia confirme : "l'Ergo contient les memoires et la duree de vie distillee de la victime."
+- L'Ergo de Carlo imbibe l'Organe-P de P -> "les mémoires et la durée de vie distillée" de Carlo sont en P.
+- Manifestations physiques dans P : cheveux qui poussent et grisonnent (Ego de Carlo qui s'éveille), réaction physique au pendentif de Romeo, visions sur la plage noire de l'Allée (jeune Carlo abandonné, parle à Sophia, amitié avec Romeo, échec avec Léa).
+- Sophia confirme : "l'Ergo contient les mémoires et la durée de vie distillée de la victime."
 
 ### DLC et Rosaura
 
-- Geppetto cree Rosaura, pantin amie, pour Carlo (Carlo voulait peut-etre un frere ou une soeur). Rosaura vit a la Rose Estate et joue avec Carlo. Ils sont representement comme une "famille heureuse" dans le dessin que Rosaura donne a P.
-- Rosaura decrit Carlo comme "mon precieux ami que je regrette tant" ; elle attend P/Carlo au "bout du monde quand elle partira".
-- Rosaura donne a P un dessin de Geppetto, Camille, Carlo et Rosaura (famille heureuse). Camille y semble possiblement enceinte -> theorie : enfant non-ne, listener, transforme en Gold Coin Tree. [THEORIE] cf. Systemes/Gold_Coin_Tree.md.
+- Geppetto crée Rosaura, pantin amie, pour Carlo (Carlo voulait peut-être un frère ou une soeur). Rosaura vit au Domaine de la Rose et joue avec Carlo. Ils sont représentement comme une "famille heureuse" dans le dessin que Rosaura donne à P.
+- Rosaura décrit Carlo comme "mon précieux ami que je regrette tant" ; elle attend P/Carlo au "bout du monde quand elle partira".
+- Rosaura donne à P un dessin de Geppetto, Camille, Carlo et Rosaura (famille heureuse). Camille y semble possiblement enceinte -> théorie : enfant non-né, Oreille, transformé en Arbre à Fruits d'Or. [THÉORIE] cf. Systemes/Gold_Coin_Tree.md.
 
 ## Psychologie
 
-- Enfant : isole (abandon paternel), mais jovial, curieux, sociable. S'integre bien au Monad Charity House.
-- Doue musicalement (piano, appris avec Antonia).
-- Perseverant : supplie Lea de lui apprendre l'epee malgre ses refus. Cette persistance est qualifiee d'agacante par Lea mais reflete un caractere obstine et determine.
-- Fort en amitie : l'amitie avec Romeo est la plus profonde relation de sa vie d'enfant (pendentif de diplome offert).
-- Mort jeune : la Petrification Disease le tue a la charity house avant qu'il ait pu realiser ses aspirations.
-- [INTERPRETATION] L'Ergo de Carlo dans P est le vecteur de sa presence post-mortem. "Carlo" dans P agit comme une memoire latente, pas comme une conscience explicite, jusqu'aux fins ou son eveil est plus manifeste (cheveux gris = eveil avance).
+- Enfant : isolé (abandon paternel), mais jovial, curieux, sociable. S'intègre bien à la Maison de Charité Monad.
+- Doué musicalement (piano, appris avec Antonia).
+- Persévérant : supplie Léa de lui apprendre l'épée malgré ses refus. Cette persistance est qualifiée d'agaçante par Léa mais reflète un caractère obstiné et déterminé.
+- Fort en amitié : l'amitié avec Romeo est la plus profonde relation de sa vie d'enfant (pendentif de diplôme offert).
+- Mort jeune : la Maladie de Pétrification le tue à la Maison de Charité avant qu'il ait pu réaliser ses aspirations.
+- [INTERPRÉTATION] L'Ergo de Carlo dans P est le vecteur de sa présence post-mortem. "Carlo" dans P agit comme une mémoire latente, pas comme une conscience explicite, jusqu'aux fins où son éveil est plus manifeste (cheveux gris = éveil avancé).
 
 ## Relations
 
-- Geppetto (pere) : relation distante et douloureuse. Geppetto l'abandonne, ne le visite pas, rate sa remise de diplome. Carlo grandit sans figure paternelle. Geppetto consacre pourtant le reste de sa vie a le ressusciter.
-- Camille (mere) : morte avant que Carlo n'ait grandi. La mort de Camille est l'evenement qui prive Carlo de son pere et de sa mere simultanement.
-- Romeo (meilleur ami) : amitie cimentee au Charity House. Pendentif de diplome offert. Romeo lui enverra des messages "de l'autre monde" via l'Ergo a P.
-- Lea Florence Monad (figure quasi-maternelle ratee) : joue de la musique avec eux, puis part. Regrette de l'avoir abandonne. Dans la timeline alteree, lui exprime sa gratitude.
+- Geppetto (père) : relation distante et douloureuse. Geppetto l'abandonne, ne le visite pas, rate sa remise de diplôme. Carlo grandit sans figure paternelle. Geppetto consacre pourtant le reste de sa vie à le ressusciter.
+- Camille (mère) : morte avant que Carlo n'ait grandi. La mort de Camille est l'événement qui prive Carlo de son père et de sa mère simultanément.
+- Romeo (meilleur ami) : amitié cimentée à la Maison de Charité. Pendentif de diplôme offert. Romeo lui enverra des messages "de l'autre monde" via l'Ergo à P.
+- Léa Florence Monad (figure quasi-maternelle ratée) : joue de la musique avec eux, puis part. Regrette de l'avoir abandonné. Dans la timeline altérée, lui exprime sa gratitude.
 - Antonia (tutrice de facto) : lui apprend le piano, juge l'attitude de Geppetto.
-- Rosaura (amie pantin cree par Geppetto) : compagne de jeu a la Rose Estate.
-- Pinocchio / P (extension de l'Ergo de Carlo) : P porte l'Ego et le visage de Carlo (son Ergo dans le P-Organ, ses memoires). [DIVERGENCE RP] Mais la chair de P est celle de Lea, pas de Carlo : P est un palimpseste -- chair de Lea, visage et ame de Carlo. La "reunion" de Carlo et P est le coeur de l'intrigue. cf. Systemes/Genies_et_Chef_D_Oeuvres.md.
+- Rosaura (amie pantin créé par Geppetto) : compagne de jeu au Domaine de la Rose.
+- Pinocchio / P (extension de l'Ergo de Carlo) : P porte l'Ego et le visage de Carlo (son Ergo dans l'Organe-P, ses mémoires). [DIVERGENCE RP] Mais la chair de P est celle de Léa, pas de Carlo : P est un palimpseste -- chair de Léa, visage et âme de Carlo. La "réunion" de Carlo et P est le coeur de l'intrigue. cf. Systemes/Genies_et_Chef_D_Oeuvres.md.
 
 ## Sort connu
 
-- Mort : decede de la Petrification Disease a la Monad Charity House en 1843 (encore enfant), avant le base game.
-- Tentative de resurrection 1 : echec -> Nameless Puppet (corps de Carlo, Ergo potentiellement detruit dans cette configuration).
-- Presence persistante : Ergo de Carlo dans P-Organ de P tout au long du jeu.
-- Bad ending : Carlo renait dans le corps du Nameless (via le P-Organ de P). Tue les residents de l'hotel. Repart avec Geppetto.
-- Good/Best ending : Carlo ne renait pas comme personnage distinct. L'Ergo de Carlo dans P continue a faire vivre P sous une identite hybride.
+- Mort : décédé de la Maladie de Pétrification à la Maison de Charité Monad en 1843 (encore enfant), avant le base game.
+- Tentative de résurrection 1 : échec -> Pantin sans Nom (corps de Carlo, Ergo potentiellement détruit dans cette configuration).
+- Présence persistante : Ergo de Carlo dans Organe-P de P tout au long du jeu.
+- Bad ending : Carlo renaît dans le corps du Pantin sans Nom (via l'Organe-P de P). Tue les résidents de l'hôtel. Repart avec Geppetto.
+- Good/Best ending : Carlo ne renaît pas comme personnage distinct. L'Ergo de Carlo dans P continue à faire vivre P sous une identité hybride.
 
-## Trajectoire datee
+## Trajectoire datée
 
-| Date/ere | Evenement | Delta d'etat |
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| Naissance | Nait de Geppetto et Camille | Humain |
-| Mort de Camille | Abandonne par Geppetto au Monad Charity House | Orphelin de fait |
-| Charity House | Amitie avec Romeo ; piano avec Antonia ; musique avec Lea ; don du pendentif | Enfant qui grandit sans pere |
-| 1843 (Outbreak) | Petrification Disease a la charity house ; mort, encore enfant | Decede |
-| Post-mort (echec) | Geppetto echoue a le ressusciter -> Nameless Puppet | Ergo en danger |
-| Creation de P | Ergo de Carlo place dans P-Organ de P | Presence diffuse dans P |
-| Base game | Ego de Carlo emerge progressivement dans P (cheveux, visions, memoires) | Semi-conscient via P |
-| Bad ending | Carlo renait dans le Nameless via le coeur de P | Carlo actif mais violent |
+| Naissance | Naît de Geppetto et Camille | Humain |
+| Mort de Camille | Abandonné par Geppetto à la Maison de Charité Monad | Orphelin de fait |
+| Maison de Charité | Amitié avec Romeo ; piano avec Antonia ; musique avec Léa ; don du pendentif | Enfant qui grandit sans père |
+| 1843 (Outbreak) | Maladie de Pétrification à la Maison de Charité ; mort, encore enfant | Décédé |
+| Post-mort (échec) | Geppetto échoue à le ressusciter -> Pantin sans Nom | Ergo en danger |
+| Création de P | Ergo de Carlo placé dans Organe-P de P | Présence diffuse dans P |
+| Base game | Ego de Carlo émerge progressivement dans P (cheveux, visions, mémoires) | Semi-conscient via P |
+| Bad ending | Carlo renaît dans le Pantin sans Nom via le coeur de P | Carlo actif mais violent |
 
 ---
 

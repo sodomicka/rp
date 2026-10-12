@@ -1,58 +1,59 @@
-# Eugenie
+# Eugénie
 
-- version : W1
+- version : W2
+- note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
-## Identite
-- Nom : Eugenie.
-- Nature : humaine, armuriere (weaponsmith) a l'Hotel Krat.
-- Origine : "country of the morning" (meme pays que le vrai Alidoro, son frere).
-- A perdu la plupart de ses souvenirs de son passe (memories from her past partiellement effacees).
+## Identité
+- Nom : Eugénie.
+- Nature : humaine, armurière (weaponsmith) à l'Hôtel Krat.
+- Origine : "country of the morning" (même pays que le vrai Alidoro, son frère).
+- A perdu la plupart de ses souvenirs de son passé (memories from her past partiellement effacées).
 - Coquilles transcript : "Eugenei".
 
-## Role
-- Armuriere principale de P : offre des upgrades d'armes et d'equipement significatifs tout au long du jeu.
-- PNJ recurrent et indispensable a Hotel Krat.
-- Lien a Alidoro :
-  - Alidoro (le vrai) lui a sauve la vie lors de l'effondrement de la Workshop Tower (elle y travaillait).
-  - L'a emmenee a Madoro (medic) apres la sauvetage.
-  - L'a idolisee pour avoir sauve sa vie.
-  - Est sa soeur (revelation tardive) : une lettre chiffree interceptee par Parrot, dechiffree par Venigni, confirme le lien fraternel.
-- Reaction a Parrot (faux Alidoro) :
-  - Heureuse de voir "Alidoro" en securite a l'hotel, sans savoir qu'il s'agit de Parrot.
-  - Confie des gants fabrique pour Alidoro a P -> P les remet a Parrot ; ils ne vont pas a Parrot, il les appelle "a mess" (indice de l'usurpation).
-- Disparait pendant l'attaque de l'hotel.
-- Geste de reconnaissance : P effectue le "deep bow" (geste de son pays natal devant elle) -> elle repond "my heart hurts" (tristesse profonde, signe que ce geste resonates avec son origine).
+## Rôle
+- Armurière principale de P : offre des upgrades d'armes et d'équipement significatifs tout au long du jeu.
+- PNJ récurrent et indispensable à Hôtel Krat.
+- Lien à Alidoro :
+  - Alidoro (le vrai) lui a sauvé la vie lors de l'effondrement de la Tour des Artisans (elle y travaillait).
+  - L'a emmenée à Madoro (medic) après le sauvetage.
+  - L'a idolisée pour avoir sauvé sa vie.
+  - Est sa soeur (révélation tardive) : une lettre chiffrée interceptée par Parrot, déchiffrée par Venigni, confirme le lien fraternel.
+- Réaction à Parrot (faux Alidoro) :
+  - Heureuse de voir "Alidoro" en sécurité à l'hôtel, sans savoir qu'il s'agit de Parrot.
+  - Confie des gants fabriqués pour Alidoro à P -> P les remet à Parrot ; ils ne vont pas à Parrot, il les appelle "a mess" (indice de l'usurpation).
+- Disparaît pendant l'attaque de l'hôtel.
+- Geste de reconnaissance : P effectue le "deep bow" (geste de son pays natal devant elle) -> elle répond "my heart hurts" (tristesse profonde, signe que ce geste resonates avec son origine).
 
-## Capacites
-- Armuriere experte : upgrade d'armes et d'equipement de haut niveau.
-- Souvenirs partiels de son passe : reconnait des gestes specifiques de sa culture d'origine.
+## Capacités
+- Armurière experte : upgrade d'armes et d'équipement de haut niveau.
+- Souvenirs partiels de son passé : reconnaît des gestes spécifiques de sa culture d'origine.
 
 ## Psychologie
-- Admiration sincere pour Alidoro (sans savoir que c'est Parrot qui se presente a elle).
-- Traumatisee par l'effondrement de la Workshop Tower (travaillait sur le site).
-- [INTERPRETATION] Nostalgie de son pays d'origine, malgre la perte des souvenirs.
-- Resiliente : continue de travailler comme armuriere en pleine crise.
+- Admiration sincère pour Alidoro (sans savoir que c'est Parrot qui se présente à elle).
+- Traumatisée par l'effondrement de la Tour des Artisans (travaillait sur le site).
+- [INTERPRÉTATION] Nostalgie de son pays d'origine, malgré la perte des souvenirs.
+- Résiliente : continue de travailler comme armurière en pleine crise.
 
 ## Relations
-- Alidoro (le vrai, son frere) : le croit avoir ete sauve et refugie a l'hotel ; ignore qu'il est mort.
+- Alidoro (le vrai, son frère) : le croit avoir été sauvé et réfugié à l'hôtel ; ignore qu'il est mort.
 - Parrot (faux Alidoro) : entretient une relation de confiance en ignorant l'usurpation.
 - P : client et interlocuteur principal ; lui remet les gants pour Alidoro.
-- Madoro (medic) : l'a soignee apres l'effondrement de la Tower (contact via Alidoro).
-- Venigni : a dechiffre la lettre qui confirme son lien fraternel avec Alidoro.
+- Madoro (medic) : l'a soignée après l'effondrement de la Tour (contact via Alidoro).
+- Venigni : a déchiffré la lettre qui confirme son lien fraternel avec Alidoro.
 
 ## Sort connu
-- Disparait pendant l'attaque de l'hotel par les forces alchimiques.
-- Sort final non specifie dans la source post-attaque.
-- [INCERTAIN] : survie ou non apres l'attaque.
+- Disparaît pendant l'attaque de l'hôtel par les forces alchimiques.
+- Sort final non spécifié dans la source post-attaque.
+- [INCERTAIN] : survie ou non après l'attaque.
 
-## Trajectoire datee
-| Date/ere | Evenement | Delta d'etat |
+## Trajectoire datée
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| Avant Frenzy | Travaille a la Workshop Tower | Artisane active |
-| Battle of Workshop Tower | Sauvee par Alidoro ; emmenee a Madoro (perd un doigt, lui) | Traumatisee, idolise Alidoro |
-| Base game | Armuriere a l'hotel ; croit que le faux Alidoro est son sauveur | Ignorance du meurtre de son frere |
-| Base game (mi-parcours) | Remet les gants a P -> indice de l'usurpation | Passive dans la decouverte |
-| Attaque de l'hotel | Disparait | Sort inconnu |
+| Avant Frénésie | Travaille à la Tour des Artisans | Artisane active |
+| Bataille de la Tour des Artisans | Sauvée par Alidoro ; emmenée à Madoro (perd un doigt, lui) | Traumatisée, idolise Alidoro |
+| Base game | Armurière à l'hôtel ; croit que le faux Alidoro est son sauveur | Ignorance du meurtre de son frère |
+| Base game (mi-parcours) | Remet les gants à P -> indice de l'usurpation | Passive dans la découverte |
+| Attaque de l'hôtel | Disparaît | Sort inconnu |
 
 ---
 

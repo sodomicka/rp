@@ -1,63 +1,63 @@
 # Zelator Facility
 
 - version : W3
-- note W3 : francisation VF : Stalkers -> Rodeurs (Lea = la Rodeuse Legendaire), Sweepers -> Balayeurs, Bastards -> Batards (decision worldbuilder).
+- note W3 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
 
-- Laboratoire souterrain des Alchimistes situe sous l'Hotel Krat (DLC : l'ascenseur de l'hotel y mene au lieu de la Relic of Trismegistus). Lieu des Listener experiments. Zone de detention et d'interrogatoire (Zelator labs). Contient un Gold Coin Tree en croissance et le Two-Faced Overseer.
+- Laboratoire souterrain des Alchimistes situé sous l'Hôtel Krat (DLC : l'ascenseur de l'hôtel y mène au lieu de la Relique de Trismegistus). Lieu des expériences sur les Oreilles. Zone de détention et d'interrogatoire (Zelator labs). Contient un Arbre à Fruits d'Or en croissance et le Surveillant aux Deux Visages.
 
 ## Description / Histoire
 
-- Localisation et acces : les Zelator labs sont situes sous l'Hotel Krat. Dans la timeline normale (base game), l'ascenseur descend vers la Relic of Trismegistus. Dans le DLC (passe), l'ascenseur mene a la Zelator Facility a la place. Les Zelator labs etaient connus de certaines vieilles familles de Krat. Cf. Lieux/Hotel_Krat.md, Lieux/Relic_of_Trismegistus.md.
-- Listener experiments : les experiences sur les Listeners ont lieu ici. Camil (le pantin maid de Geppetto) etait une Listener. Les Alchimistes l'experimentent. Une erreur de negligence des chercheurs cause la mort de Camille (epouse de Geppetto). L'Ordre couvre la vraie cause via un faux desastre de paquebot. Les experiences cherchaient a lier les Listeners aux reliques des Great Ones. Cf. Personnages/Camille.md, Systemes/Listeners.md, SB6.
-- Interrogatoires et Brotherhood of Truth : personnes diffamant Markiona amenees ici pour interrogatoire par le Brotherhood of Truth (cree par Markiona). Dans un interrogatoire, un membre alchimiste a mis fin a une experience a cause des abominations creees. Cf. Personnages/Markiona.md.
-- Gold Coin Tree en croissance : P et le Tracker observent un Gold Coin Tree que les Alchimistes tentent de cultiver. [THEORIE] : apres la mort de Camille (enceinte), son enfant non ne (porteur de capacites Listener) aurait ete preleve et transforme en Gold Coin Tree ici. Cf. Systemes/Gold_Coin_Tree.md, Systemes/Listeners.md.
-- Paint set de Godard : P peut trouver le paint set de Godard (peintre aveugle) ici. Le rapporter a Godard (gare du tram) lui permet de finir une peinture avant de mourir ; P peut la placer a l'Hotel Krat (timeline affectee). Cf. Personnages/PNJ_secondaires.md.
-- Arrivee de P : P voit d'entree le cadavre d'un alchimiste entoure de petales (passage de Lea Florence). Il combat des sujets d'experience rates et abandonnes, ainsi que des gardes. Il entend par intermittence les cris d'une femme.
-- Veronique boss : Veronique (chef des Balayeurs) et son vanguard ont ete attires dans un piege par les Alchimistes. Veronique est infectee ; elle lutte pour conserver son humanite mais la rage la submerge. P la combat (boss). Derniers mots : des excuses ; elle evoque "le lab maudit", l'abomination en dessous (Two-Faced Overseer), demande a P de la tuer et d'aller trouver Lea sur la cote. Elle meurt en coupant le systeme de refroidissement (air glacial libere). Cf. Personnages/Veronique.md, SB6.
-- Two-Faced Overseer : abomination de la partie profonde. P doit sonner le Daylight-Wreathed Horn pour appeler le Tracker. Combat avec le Tracker. Victoire. Cf. Personnages/Boss_et_Creatures.md.
-- Rencontre avec le Tracker (vrai Alidoro) : garde son identite secrete (protege Eugenie, sa soeur). Hait les Alchimistes, traque l'Arm of God. En montrant le Monad locket trouve au zoo, P le convainc. Le Tracker donne le Daylight-Wreathed Horn, puis dit qu'il se rendra a l'Hotel Krat (le style de combat de P lui rappelle quelqu'un). Cf. Personnages/Alidoro_et_Parrot.md.
-- Acces a la Rose Estate : au fond se trouve normalement un tram souterrain vers la Rose Estate, hors service au moment du DLC. Lumakio (zone suivante) donne a P une cle pour un passage secret vers la cote. Cf. Lieux/Rose_Estate_Monad_Charity_House.md.
-- Lumakio dans la zone adjacente (ruines anciennes) : feint la peine pour Veronique, demande ce qu'elle a dit (choix mensonge/verite), donne la cle du passage secret. Cf. Personnages/Lumakio.md.
-- Contexte Tracker : lie a plusieurs revelations sombres (meurtre du Colonel Little, disparition des taxidermistes, mineur enterre vivant, meurtre de Columbo) partagees avec Madoro (reporter). Cf. Personnages/Alidoro_et_Parrot.md, Personnages/Madoro.md.
+- Localisation et accès : les Zelator labs sont situés sous l'Hôtel Krat. Dans la timeline normale (base game), l'ascenseur descend vers la Relique de Trismegistus. Dans le DLC (passé), l'ascenseur mène à la Zelator Facility à la place. Les Zelator labs étaient connus de certaines vieilles familles de Krat. Cf. Lieux/Hotel_Krat.md, Lieux/Relic_of_Trismegistus.md.
+- Expériences sur les Oreilles : elles ont lieu ici. Camil (le pantin maid de Geppetto) était une Oreille. Les Alchimistes l'expérimentent. Une erreur de négligence des chercheurs cause la mort de Camille (épouse de Geppetto). L'Ordre couvre la vraie cause via un faux désastre de paquebot. Les expériences cherchaient à lier les Oreilles aux reliques des Great Ones. Cf. Personnages/Camille.md, Systemes/Listeners.md, SB6.
+- Interrogatoires et Fraternité de la Vérité : personnes diffamant Markiona amenées ici pour interrogatoire par la Fraternité de la Vérité (créée par Markiona). Dans un interrogatoire, un membre alchimiste a mis fin à une expérience à cause des abominations créées. Cf. Personnages/Markiona.md.
+- Arbre à Fruits d'Or en croissance : P et le Limier observent un Arbre à Fruits d'Or que les Alchimistes tentent de cultiver. [THÉORIE] : après la mort de Camille (enceinte), son enfant non né (porteur de capacités d'Oreille) aurait été prélevé et transformé en Arbre à Fruits d'Or ici. Cf. Systemes/Gold_Coin_Tree.md, Systemes/Listeners.md.
+- Paint set de Godard : P peut trouver le paint set de Godard (peintre aveugle) ici. Le rapporter à Godard (gare du tram) lui permet de finir une peinture avant de mourir ; P peut la placer à l'Hôtel Krat (timeline affectée). Cf. Personnages/PNJ_secondaires.md.
+- Arrivée de P : P voit d'entrée le cadavre d'un alchimiste entouré de pétales (passage de Léa Florence). Il combat des sujets d'expérience ratés et abandonnés, ainsi que des gardes. Il entend par intermittence les cris d'une femme.
+- Véronique boss : Véronique (chef des Balayeurs) et son vanguard ont été attirés dans un piège par les Alchimistes. Véronique est infectée ; elle lutte pour conserver son humanité mais la rage la submerge. P la combat (boss). Derniers mots : des excuses ; elle évoque "le lab maudit", l'abomination en dessous (Surveillant aux Deux Visages), demande à P de la tuer et d'aller trouver Léa sur la côte. Elle meurt en coupant le système de refroidissement (air glacial libéré). Cf. Personnages/Veronique.md, SB6.
+- Surveillant aux Deux Visages : abomination de la partie profonde. P doit sonner le Cor nimbé d'aurore pour appeler le Limier. Combat avec le Limier. Victoire. Cf. Personnages/Boss_et_Creatures.md.
+- Rencontre avec le Limier (vrai Alidoro) : garde son identité secrète (protège Eugénie, sa soeur). Hait les Alchimistes, traque le Bras de Dieu. En montrant le Monad locket trouvé au zoo, P le convainc. Le Limier donne le Cor nimbé d'aurore, puis dit qu'il se rendra à l'Hôtel Krat (le style de combat de P lui rappelle quelqu'un). Cf. Personnages/Alidoro_et_Parrot.md.
+- Accès au Domaine de la Rose : au fond se trouve normalement un tram souterrain vers le Domaine de la Rose, hors service au moment du DLC. Lumacchio (zone suivante) donne à P une clé pour un passage secret vers la côte. Cf. Lieux/Rose_Estate_Monad_Charity_House.md.
+- Lumacchio dans la zone adjacente (ruines anciennes) : feint la peine pour Véronique, demande ce qu'elle a dit (choix mensonge/vérité), donne la clé du passage secret. Cf. Personnages/Lumacchio.md.
+- Contexte Limier : lié à plusieurs révélations sombres (meurtre du Colonel Little, disparition des taxidermistes, mineur enterré vivant, meurtre de Columbo) partagées avec Madoro (reporter). Cf. Personnages/Alidoro_et_Parrot.md, Personnages/Madoro.md.
 
-## Etat en 1847 (Ere 1 de Magnus) [DIVERGENCE RP]
+## État en 1847 (Ère 1 de Magnus) [DIVERGENCE RP]
 
-- A cette date, le lab n'est PAS encore a l'abandon (contrairement a son etat de 1850 / DLC decrit ci-dessus) : il est en pleine activite, peuple d'alchimistes, et Markiona y tient son atelier secret - le Magnum Opus, c'est-a-dire la creation de Magnus. cf. chronologie, Personnages/Markiona.md, Personnages/Magnus.md.
-- Axes de recherche du Zelator en 1847 : technologies du froid (coherent avec le systeme de refroidissement du lab, cf. la mort de Veronique ci-dessus) ; comprehension de l'Arm of God (le Bras de Dieu) ; mise au point de l'elixir ; etude de la Petrification Disease (la Maladie Petrificatrice). cf. SB1, SB2, SB5.
-- Fuite du duo (1847) : Cassius, alchimiste fidele de Simon, decouvre le Magnum Opus et y voit une heresie -> assaut de tout le Zelator contre Markiona + Magnus + l'Ange de l'Arc. La traversee du complexe n'est pas detaillee cote lieu : l'obstacle est le COMBAT, pas le dedale. cf. roadmap Ere 1, Personnages/PNJ_secondaires.md (Cassius).
+- À cette date, le lab n'est PAS encore à l'abandon (contrairement à son état de 1850 / DLC décrit ci-dessus) : il est en pleine activité, peuplé d'alchimistes, et Markiona y tient son atelier secret - le Magnum Opus, c'est-à-dire la création de Magnus. cf. chronologie, Personnages/Markiona.md, Personnages/Magnus.md.
+- Axes de recherche du Zelator en 1847 : technologies du froid (cohérent avec le système de refroidissement du lab, cf. la mort de Véronique ci-dessus) ; compréhension du Bras de Dieu ; mise au point de l'élixir ; étude de la Maladie de Pétrification. cf. SB1, SB2, SB5.
+- Fuite du duo (1847) : Cassius, alchimiste fidèle de Simon, découvre le Magnum Opus et y voit une hérésie -> assaut de tout le Zelator contre Markiona + Magnus + l'Ange de l'Arc. La traversée du complexe n'est pas détaillée côté lieu : l'obstacle est le COMBAT, pas le dédale. cf. roadmap Ère 1, Personnages/PNJ_secondaires.md (Cassius).
 
 ## Faits canon
 
-- Situe sous l'Hotel Krat ; acces via ascenseur (DLC). Zelator labs connus de certaines vieilles familles. Cf. SB3.
-- Listener experiments : Camil = Listener experimentee ici ; mort de Camille par erreur des chercheurs ; couverture par faux desastre de paquebot. Cf. SB6, Systemes/Listeners.md.
-- Interrogatoires du Brotherhood of Truth de Markiona. Cf. SB4.
-- Gold Coin Tree en croissance ; [THEORIE] issu de l'enfant non ne de Camille. Cf. Systemes/Gold_Coin_Tree.md.
-- Paint set de Godard trouve ici. Cf. Personnages/PNJ_secondaires.md.
-- Veronique et son vanguard : piege alchimiste, infectes, Veronique boss, meurt en coupant le coolant. Cf. Personnages/Veronique.md.
-- Two-Faced Overseer : abomination du lab, boss co-combattu avec le Tracker. Cf. Personnages/Boss_et_Creatures.md.
-- Tracker (vrai Alidoro) : rencontre ici, donne le Horn, rejoint P, puis Hotel Krat. Cf. Personnages/Alidoro_et_Parrot.md.
-- Tram vers Rose Estate hors service ; passage secret via cle de Lumakio. Cf. Lieux/Rose_Estate_Monad_Charity_House.md.
+- Situé sous l'Hôtel Krat ; accès via ascenseur (DLC). Zelator labs connus de certaines vieilles familles. Cf. SB3.
+- Expériences sur les Oreilles : Camil = Oreille expérimentée ici ; mort de Camille par erreur des chercheurs ; couverture par faux désastre de paquebot. Cf. SB6, Systemes/Listeners.md.
+- Interrogatoires de la Fraternité de la Vérité de Markiona. Cf. SB4.
+- Arbre à Fruits d'Or en croissance ; [THÉORIE] issu de l'enfant non né de Camille. Cf. Systemes/Gold_Coin_Tree.md.
+- Paint set de Godard trouvé ici. Cf. Personnages/PNJ_secondaires.md.
+- Véronique et son vanguard : piège alchimiste, infectés, Véronique boss, meurt en coupant le coolant. Cf. Personnages/Veronique.md.
+- Surveillant aux Deux Visages : abomination du lab, boss co-combattu avec le Limier. Cf. Personnages/Boss_et_Creatures.md.
+- Limier (vrai Alidoro) : rencontré ici, donne le Cor, rejoint P, puis Hôtel Krat. Cf. Personnages/Alidoro_et_Parrot.md.
+- Tram vers le Domaine de la Rose hors service ; passage secret via clé de Lumacchio. Cf. Lieux/Rose_Estate_Monad_Charity_House.md.
 
 ## Liens
 
-- Hotel Krat : au-dessus, acces direct. Cf. Lieux/Hotel_Krat.md.
-- Relic of Trismegistus : en dessous. Cf. Lieux/Relic_of_Trismegistus.md.
+- Hôtel Krat : au-dessus, accès direct. Cf. Lieux/Hotel_Krat.md.
+- Relique de Trismegistus : en dessous. Cf. Lieux/Relic_of_Trismegistus.md.
 - Markiona : atelier secret du Magnum Opus en 1847 (-> Magnus). Cf. Personnages/Markiona.md, Personnages/Magnus.md.
-- Cassius : alchimiste qui declenche l'assaut de 1847. Cf. Personnages/PNJ_secondaires.md.
-- Veronique : boss de la zone (1850). Cf. Personnages/Veronique.md.
-- Alidoro / Tracker : rencontre cle (1850). Cf. Personnages/Alidoro_et_Parrot.md.
-- Two-Faced Overseer : abomination du lab. Cf. Personnages/Boss_et_Creatures.md.
-- Gold Coin Tree : en croissance ici. Cf. Systemes/Gold_Coin_Tree.md.
-- Listeners / Camille / Camil : centre des experiences. Cf. Systemes/Listeners.md, Personnages/Camille.md.
-- Lumakio : zone adjacente. Cf. Personnages/Lumakio.md.
-- Rose Estate : acces via tram ou passage secret. Cf. Lieux/Rose_Estate_Monad_Charity_House.md.
+- Cassius : alchimiste qui déclenche l'assaut de 1847. Cf. Personnages/PNJ_secondaires.md.
+- Véronique : boss de la zone (1850). Cf. Personnages/Veronique.md.
+- Alidoro / Limier : rencontre clé (1850). Cf. Personnages/Alidoro_et_Parrot.md.
+- Surveillant aux Deux Visages : abomination du lab. Cf. Personnages/Boss_et_Creatures.md.
+- Arbre à Fruits d'Or : en croissance ici. Cf. Systemes/Gold_Coin_Tree.md.
+- Oreilles / Camille / Camil : centre des expériences. Cf. Systemes/Listeners.md, Personnages/Camille.md.
+- Lumacchio : zone adjacente. Cf. Personnages/Lumacchio.md.
+- Domaine de la Rose : accès via tram ou passage secret. Cf. Lieux/Rose_Estate_Monad_Charity_House.md.
 
-## Sort connu / Etat
+## Sort connu / État
 
-- En 1847 (Ere 1) : lab actif, peuple, atelier secret de Markiona.
-- En 1850 (DLC) : lab abandonne, sujets d'experience rates errent. Veronique et Two-Faced Overseer vaincus. Etat post-DLC : [INCERTAIN]. P retourne dans sa timeline d'origine.
+- En 1847 (Ère 1) : lab actif, peuplé, atelier secret de Markiona.
+- En 1850 (DLC) : lab abandonné, sujets d'expérience ratés errent. Véronique et Surveillant aux Deux Visages vaincus. État post-DLC : [INCERTAIN]. P retourne dans sa timeline d'origine.
 
 ---
 
