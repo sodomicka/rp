@@ -1,68 +1,69 @@
 # Simon Manus
 
-- version : W1
+- version : W2
+- note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
-## Identite
-- Humain (ascension vers le divin via l'Ergo). Titre final : Simon the Awakened God.
-- Alias : Simon of Pistrus (Pistrus = sea monster en latin/krat). Mentionnes dans la source comme "Simon Manis" (coquille transcript).
-- Chef de facto de l'Ordre des Alchimistes apres le schisme avec Valentinus Monad.
+## Identité
+- Humain (ascension vers le divin via l'Ergo). Titre final : Simon le Dieu Éveillé.
+- Alias : Simon of Pistrus (Pistrus = sea monster en latin/krat). Mentionnés dans la source comme "Simon Manis" (coquille transcript).
+- Chef de facto de l'Ordre des Alchimistes après le schisme avec Valentinus Monad.
 - Antagoniste principal du base game.
 
-## Role
-- Leader de l'Ordre des Alchimistes, successeur de facto de Valentinus Monad apres avoir orchestre son elimination.
-- Dirige les assauts sur la Rose Estate, le Monad Charity House et la Cathedrale pour eliminer les loyaux a Valentinus et s'emparer de Sophia et de l'Arm of God.
-- Capture Sophia Monad et la branche a une machine dans la tour de l'Aisle of Alchemists pour absorber l'Ergo de Krat (admiration et jalousie de son pouvoir, pas seulement utilite fonctionnelle).
-- Fait construire la machine dans la tour de l'abbaye dont le but est d'absorber tout l'Ergo de Krat ; chaque ennemi tue par P en-remet l'Ergo a cette machine.
-- Place une prime officieuse sur la tete de Lea Florence Monad pour l'ecarter ; provoque sa disparition.
-- Utilise Red Fox et Black Cat pour suivre P et le mener a l'Arm of God que l'archeveque Andreas a vole.
-- Confie des preparations pour le transport d'Arlecchino (Archon fleet) vers l'Aisle pour etudier l'eveil de l'Ego.
-- Rencontre P directement lors de la montee de l'abbaye : mentionne l'elixir, invite P a l'Aisle pour temoin de la triumphant evolution des Alchimistes.
-- Affronte P au sommet de la tour dans deux phases : Simon Manus puis Simon the Awakened God.
-- Meurt combat contre P ; dialogue final : demande ce que P a fait de Sophia, confesse que la purete du coeur de Sophia etait son baume contre la douleur, qu'il a utilise l'Ergo pour la retenir.
+## Rôle
+- Leader de l'Ordre des Alchimistes, successeur de facto de Valentinus Monad après avoir orchestré son élimination.
+- Dirige les assauts sur le Domaine de la Rose, la Maison de Charité Monad et la Cathédrale pour éliminer les loyaux à Valentinus et s'emparer de Sophia et du Bras de Dieu.
+- Capture Sophia Monad et la branche à une machine dans la tour de l'Allée des Alchimistes pour absorber l'Ergo de Krat (admiration et jalousie de son pouvoir, pas seulement utilité fonctionnelle).
+- Fait construire la machine dans la tour de l'abbaye dont le but est d'absorber tout l'Ergo de Krat ; chaque ennemi tué par P en-remet l'Ergo à cette machine.
+- Place une prime officieuse sur la tête de Léa Florence Monad pour l'écarter ; provoque sa disparition.
+- Utilise la Renarde Rousse et le Chat Noir pour suivre P et le mener au Bras de Dieu que l'archevêque Andreas a volé.
+- Confie des préparations pour le transport d'Arlecchino (Archon fleet) vers l'Allée des Alchimistes pour étudier l'éveil de l'Ego.
+- Rencontre P directement lors de la montée de l'abbaye : mentionne l'élixir, invite P à l'Allée des Alchimistes pour témoin de la triumphant évolution des Alchimistes.
+- Affronte P au sommet de la tour dans deux phases : Simon Manus puis Simon le Dieu Éveillé.
+- Meurt combat contre P ; dialogue final : demande ce que P a fait de Sophia, confesse que la pureté du coeur de Sophia était son baume contre la douleur, qu'il a utilisé l'Ergo pour la retenir.
 
-## Capacites
-- Capacite surhumaine de lire les esprits (manipulation de l'Ergo) ; acquise en partie par les experimentations que son pere lui a infligees.
-- Phase 1 - Simon Manus : combat melee, pouvoirs alchimiques centres sur l'Ergo ; boss majeur.
-- Phase 2 - Simon the Awakened God : transformation apres activation de l'Ergo attache a lui, puissance considerablement augmentee, "sac de tricks encore plus fort" selon le narrateur.
-- Controle l'Arm of God via la machine de l'abbaye pour sa propre ascension divine.
-- Accede a une forme de divinite via l'absorption massive d'Ergo.
+## Capacités
+- Capacité surhumaine de lire les esprits (manipulation de l'Ergo) ; acquise en partie par les expérimentations que son père lui a infligées.
+- Phase 1 - Simon Manus : combat mêlée, pouvoirs alchimiques centrés sur l'Ergo ; boss majeur.
+- Phase 2 - Simon le Dieu Éveillé : transformation après activation de l'Ergo attaché à lui, puissance considérablement augmentée, "sac de tricks encore plus fort" selon le narrateur.
+- Contrôle le Bras de Dieu via la machine de l'abbaye pour sa propre ascension divine.
+- Accède à une forme de divinité via l'absorption massive d'Ergo.
 
 ## Psychologie
-- Desire fondamental : un monde sans mensonge, sans trahison, uniquement la verite. Renonce a son humanite pour marcher le chemin de l'immortalite et devenir Dieu.
-- [INTERPRETATION] La douleur de lire les esprits (voir les mensonges et trahisons des autres en permanence) est le moteur de sa quete d'un monde de verite pure ; Sophia = seul etre dont la purete apaisait cette souffrance.
-- Doctrine pour ses fideles : eternal life, le dieu dechire et l'espoir de le reveiller, evolution comme chemin vers la divinite.
-- Capacite de lire les esprits vecue comme une malediction ; "if it wasn't for Sophia, I wouldn't have been able to bear it".
-- Enfance traumatique : son pere (non humain normal selon Simon) a experimente sur lui ; capacites extraordinaires mais acquises dans la douleur.
-- Jaloux du pouvoir de Sophia autant qu'admiratif ; ambivalence documentee.
-- Se pense au-dela de la morale humaine : nettoyage systematique des opposants, sans hesitation.
+- Désir fondamental : un monde sans mensonge, sans trahison, uniquement la vérité. Renonce à son humanité pour marcher le chemin de l'immortalité et devenir Dieu.
+- [INTERPRÉTATION] La douleur de lire les esprits (voir les mensonges et trahisons des autres en permanence) est le moteur de sa quête d'un monde de vérité pure ; Sophia = seul être dont la pureté apaisait cette souffrance.
+- Doctrine pour ses fidèles : eternal life, le dieu déchiré et l'espoir de le réveiller, évolution comme chemin vers la divinité.
+- Capacité de lire les esprits vécue comme une malédiction ; "if it wasn't for Sophia, I wouldn't have been able to bear it".
+- Enfance traumatique : son père (non humain normal selon Simon) a expérimenté sur lui ; capacités extraordinaires mais acquises dans la douleur.
+- Jaloux du pouvoir de Sophia autant qu'admiratif ; ambivalence documentée.
+- Se pense au-delà de la morale humaine : nettoyage systématique des opposants, sans hésitation.
 
 ## Relations
-- Valentinus Monad : mentor et superieur hierarchique avant le schisme ; Simon = right-hand man de Valentinus selon la source. Fait tuer Valentinus et Isabelle lors de l'assaut de la Rose Estate.
-- Sophia Monad : objet d'admiration et de jalousie ; capturee, branchee a la machine par lui. Liaison emotionnelle veritable (douleur avouee a sa mort).
-- Lea Florence Monad : adversaire ; prime placee sur sa tete pour la faire disparaitre.
-- Sister Adriana (devenue Laxasia) : fidele devouee, sa documentariste (Pistrus books), amoureuse de lui. Transformee en Laxasia par l'elixir. Cf. Personnages/Laxasia.md.
-- Luca : protege de Valentinus ; a tente 9 fois d'inculper Simon sans succes.
-- Red Fox (Claudia) + Black Cat : employes comme pisteurs pour retrouver l'Arm of God vole par Andreas.
-- Pinocchio (P) : l'affronte au sommet de la tour ; le voit avec interet (pantin a Ego eveille, experimente par Simon via Arlecchino).
-- Arlecchino : pantin a Ego eveille dont Simon etudie l'Ergo. Cf. Personnages/Arlecchino.md.
-- Archbishop Andreas : utilise puis trahi ; lui distribue un faux cure qui empire la maladie. Andreas vole l'Arm of God en represailles.
-- Grandmaster de l'Ordre : qui signe la lettre d'excommunication de Valentinus, appelle Simon "sea monster" en mouvement. Lien ambigu (cf. theorie Paracelsus dans Personnages/Philip_Paracelsus.md).
+- Valentinus Monad : mentor et supérieur hiérarchique avant le schisme ; Simon = right-hand man de Valentinus selon la source. Fait tuer Valentinus et Isabelle lors de l'assaut du Domaine de la Rose.
+- Sophia Monad : objet d'admiration et de jalousie ; capturée, branchée à la machine par lui. Liaison émotionnelle véritable (douleur avouée à sa mort).
+- Léa Florence Monad : adversaire ; prime placée sur sa tête pour la faire disparaître.
+- Sister Adriana (devenue Laxasia) : fidèle dévouée, sa documentariste (Pistrus books), amoureuse de lui. Transformée en Laxasia par l'élixir. Cf. Personnages/Laxasia.md.
+- Luca : protégé de Valentinus ; a tenté 9 fois d'inculper Simon sans succès.
+- Renarde Rousse (Claudia) + Chat Noir : employés comme pisteurs pour retrouver le Bras de Dieu volé par Andreas.
+- Pinocchio (P) : l'affronte au sommet de la tour ; le voit avec intérêt (pantin à Ego éveillé, expérimenté par Simon via Arlecchino).
+- Arlecchino : pantin à Ego éveillé dont Simon étudie l'Ergo. Cf. Personnages/Arlecchino.md.
+- Archbishop Andreas : utilisé puis trahi ; lui distribue un faux cure qui empire la maladie. Andreas vole le Bras de Dieu en représailles.
+- Grandmaster de l'Ordre : qui signe la lettre d'excommunication de Valentinus, appelle Simon "sea monster" en mouvement. Lien ambigu (cf. théorie Paracelsus dans Personnages/Philip_Paracelsus.md).
 
 ## Sort connu
-- Vaincu par P en deux phases de combat au sommet de la tour de l'Aisle.
-- Meurt apres le combat ; dernier dialogue lucide sur Sophia et sa propre souffrance.
-- N'accede pas a la divinite complete : ascension interrompue par P.
-- La machine absorbe bien l'Ergo tout au long du jeu mais le plan final echoue.
+- Vaincu par P en deux phases de combat au sommet de la tour de l'Allée des Alchimistes.
+- Meurt après le combat ; dernier dialogue lucide sur Sophia et sa propre souffrance.
+- N'accède pas à la divinité complète : ascension interrompue par P.
+- La machine absorbe bien l'Ergo tout au long du jeu mais le plan final échoue.
 
-## Trajectoire datee
-| Date/ere | Evenement | Delta d'etat |
+## Trajectoire datée
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| Enfance | Experimente par son pere (non-humain ordinaire) ; development de la capacite de lire les esprits | Simon -> enfant traumatise aux capacites hors-normes |
+| Enfance | Expérimenté par son père (non-humain ordinaire) ; development de la capacité de lire les esprits | Simon -> enfant traumatisé aux capacités hors-normes |
 | Avant schisme | Right-hand man de Valentinus Monad ; co-dirige l'Ordre ; monte en influence | Simon -> leader de facto d'une large faction |
-| Schisme (avant DLC) | Poursuit sa propre voie ; Luca tente 9 fois de l'inculper ; Lea Florence clashes avec lui | Simon -> acteur du schisme ouvert |
-| Pre-DLC | Prime sur Lea Florence ; Valentinus confie l'Arm of God a Andreas -> Simon voit ca comme trahison | Simon -> prend le controle effectif de l'Ordre |
-| DLC (avant base game) | Assauts sur Rose Estate + Monad Charity House + Cathedrale ; mort de Valentinus et Isabelle ; capture de Sophia ; Archon fleet incident / preparation transport Arlecchino | Simon -> chef inconteste, Sophia prisonniere |
-| Base game | Machine active, absorbe Ergo de Krat via P et les morts ; rencontre P a l'abbaye ; combat final | Simon -> Simon the Awakened God -> mort |
+| Schisme (avant DLC) | Poursuit sa propre voie ; Luca tente 9 fois de l'inculper ; Léa Florence clashes avec lui | Simon -> acteur du schisme ouvert |
+| Pré-DLC | Prime sur Léa Florence ; Valentinus confie le Bras de Dieu à Andreas -> Simon voit ça comme trahison | Simon -> prend le contrôle effectif de l'Ordre |
+| DLC (avant base game) | Assauts sur Domaine de la Rose + Maison de Charité Monad + Cathédrale ; mort de Valentinus et Isabelle ; capture de Sophia ; Archon fleet incident / préparation transport Arlecchino | Simon -> chef incontesté, Sophia prisonnière |
+| Base game | Machine active, absorbe Ergo de Krat via P et les morts ; rencontre P à l'abbaye ; combat final | Simon -> Simon le Dieu Éveillé -> mort |
 
 ---
 

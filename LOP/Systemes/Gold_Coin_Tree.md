@@ -1,59 +1,60 @@
-# Gold_Coin_Tree (Gold Coin Tree)
+# Arbre à Fruits d'Or
 
-- version : W1
+- version : W2
+- note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
 
-- Creature / entite organique ancienne resultant de la transformation d'un Listener en arbre. Produit les Gold Coin Fruit (seul soulagement reel connu de la Petrification Disease).
-- Situada dans les jardins de l'Hotel Krat (sous l'hotel, dans la Relic of Trismegistus) depuis toujours.
+- Créature / entité organique ancienne résultant de la transformation d'une Oreille en arbre. Produit les Fruits d'Or (VO : Gold Coin Fruit) (seul soulagement réel connu de la Maladie de Pétrification).
+- Situé dans les jardins de l'Hôtel Krat (sous l'hôtel, dans la Relique de Trismegistus) depuis toujours.
 
 ## Description / Histoire
 
-- Sophia a propos du Gold Coin Tree : "les larmes tristes de ceux devenus arbres" ("pathetique creature creee a partir des Listeners").
-- L'Hotel Krat = ancien chateau, "toujours centre sur un arbre glowing" (arbre lumineux) depuis sa construction. Le Gold Coin Tree est la depuis l'origine du chateau.
-- La decouverte du Gold Coin Tree par Giangio (Geppetto dans la narration, mais ici c'est Giangio / Paracelsus) : trouve l'arbre, ne peut pas en cueillir les fruits car "ils ont brule sa main".
-- Lien confirme par le narrateur : les Listeners peuvent etre transformes en Gold Coin Tree. Les fruits (Gold Coin Fruit) permettent de controler l'Ergo.
+- Sophia à propos de l'Arbre à Fruits d'Or (VO : Gold Coin Tree) : "les larmes tristes de ceux devenus arbres" ("pathétique créature créée à partir des Oreilles").
+- L'Hôtel Krat = ancien château, "toujours centré sur un arbre glowing" (arbre lumineux) depuis sa construction. L'Arbre à Fruits d'Or est là depuis l'origine du château.
+- La découverte de l'Arbre à Fruits d'Or par Giangio (Geppetto dans la narration, mais ici c'est Giangio / Paracelsus) : trouve l'arbre, ne peut pas en cueillir les fruits car "ils ont brûlé sa main".
+- Lien confirmé par le narrateur : les Oreilles peuvent être transformées en Arbre à Fruits d'Or. Les fruits (Fruits d'Or) permettent de contrôler l'Ergo.
 
-### Gold Coin Fruit
+### Fruit d'Or
 
-- Seul remede partiel connu contre la Petrification Disease : soulage la douleur, ne guerit pas.
-- Antonia : reoit le Gold Coin Fruit via Giangio (qui l'obtient de P) -> meurt paisiblement et sans douleur.
-- Black Cat : reoit du Gold Coin Fruit des Alchimistes, mais jamais assez pour une guerison -> maintenu comme employe dependant.
-- Giangio (Philip Paracelsus) : pretend avoir la Petrification Disease pour obtenir le Gold Coin Fruit. Sa vraie motivation : [THEORIE narrateur] = acceder a l'arbre et controler l'Ergo.
-- P peut choisir de donner ou non le Gold Coin Fruit a Red Fox et Black Cat (choix moral in-game).
-- Gold Coin Fruit liee a la legende de Paracelsus (Phillip Paracelsus, medecin de la Renaissance allemande) : "arbre avec un esprit piege = Gold Coin Tree".
+- Seul remède partiel connu contre la Maladie de Pétrification : soulage la douleur, ne guérit pas.
+- Antonia : reçoit le Fruit d'Or via Giangio (qui l'obtient de P) -> meurt paisiblement et sans douleur.
+- Le Chat Noir : reçoit du Fruit d'Or des Alchimistes, mais jamais assez pour une guérison -> maintenu comme employé dépendant.
+- Giangio (Philip Paracelsus) : prétend avoir la Maladie de Pétrification pour obtenir le Fruit d'Or. Sa vraie motivation : [THÉORIE narrateur] = accéder à l'arbre et contrôler l'Ergo.
+- P peut choisir de donner ou non le Fruit d'Or à la Renarde Rousse et au Chat Noir (choix moral in-game).
+- Fruit d'Or lié à la légende de Paracelsus (Phillip Paracelsus, médecin de la Renaissance allemande) : "arbre avec un esprit piégé = Arbre à Fruits d'Or".
 
-### Theorie Camille enceinte
+### Théorie Camille enceinte
 
-- Document d'interrogatoire aux Zelator labs (membre de la "division Salamandre de l'Ordre") : suggere que Camille etait enceinte a sa mort et que l'enfant a naitra avec les capacites Listener de Camille.
-- [THEORIE narrateur] : cet enfant, porteur de capacites Listener, a ete transforme en Gold Coin Tree (celui a Zelator Facility, potentiellement distinct de celui de l'Hotel Krat).
-- Soutien textuel : "The interrogation document seems to imply that Camille, the secret maid puppet [Camil], had the urge..." (source texte fragmentaire ; le narrateur deduit).
-- La legende de Philip Paracelsus dit qu'il a piege un esprit dans un arbre (Gold Coin Tree) -- forme alternative/parallele de la meme theorie.
+- Document d'interrogatoire aux Zelator labs (membre de la "division Salamandre de l'Ordre") : suggère que Camille était enceinte à sa mort et que l'enfant naîtra avec les capacités d'Oreille de Camille.
+- [THÉORIE narrateur] : cet enfant, porteur de capacités d'Oreille, a été transformé en Arbre à Fruits d'Or (celui à Zelator Facility, potentiellement distinct de celui de l'Hôtel Krat).
+- Soutien textuel : "The interrogation document seems to imply that Camille, the secret maid puppet [Camil], had the urge..." (source texte fragmentaire ; le narrateur déduit).
+- La légende de Philip Paracelsus dit qu'il a piégé un esprit dans un arbre (Arbre à Fruits d'Or) -- forme alternative/parallèle de la même théorie.
 
 ## Faits canon
 
-- Le Gold Coin Tree est dans les jardins de l'Hotel Krat depuis toujours (confirme : chateau toujours centre sur un arbre lumineux).
-- Sophia : "les larmes tristes de ceux devenus arbres" = Gold Coin Tree vu comme creature pathethique issue de Listeners transformes.
-- Les fruits soulage la douleur de la Petrification Disease (pas guerison).
-- Giangio trouve l'arbre mais ne peut en cueillir les fruits (brulure a la main).
-- Les Listeners peuvent etre transformes en Gold Coin Tree (fait confirme par Sophia).
-- [THEORIE narrateur] Camille enceinte -> enfant Listener -> transforme en Gold Coin Tree (a Zelator).
+- L'Arbre à Fruits d'Or est dans les jardins de l'Hôtel Krat depuis toujours (confirmé : château toujours centré sur un arbre lumineux).
+- Sophia : "les larmes tristes de ceux devenus arbres" = Arbre à Fruits d'Or vu comme créature pathétique issue d'Oreilles transformées.
+- Les fruits soulage la douleur de la Maladie de Pétrification (pas guérison).
+- Giangio trouve l'arbre mais ne peut en cueillir les fruits (brûlure à la main).
+- Les Oreilles peuvent être transformées en Arbre à Fruits d'Or (fait confirmé par Sophia).
+- [THÉORIE narrateur] Camille enceinte -> enfant Oreille -> transformé en Arbre à Fruits d'Or (à Zelator).
 
 ## Liens
 
-- Listeners : source de la transformation (cf. Systemes/Listeners.md).
-- Camille / Camil : theorie de l'enfant (cf. Personnages/Camille.md).
+- Oreilles : source de la transformation (cf. Systemes/Listeners.md).
+- Camille / Camil : théorie de l'enfant (cf. Personnages/Camille.md).
 - Philip Paracelsus / Giangio : cherche l'arbre et les fruits (cf. Personnages/Philip_Paracelsus.md).
-- Petrification Disease : Gold Coin Fruit = seul soulagement (cf. Systemes/Petrification_Disease.md).
-- Hotel Krat / Relic of Trismegistus : emplacement de l'arbre (cf. Lieux/Hotel_Krat.md, Lieux/Relic_of_Trismegistus.md).
-- Ergo : controler l'Ergo via les fruits (cf. Systemes/Ergo.md).
-- Zelator Facility : possiblement un deuxieme Gold Coin Tree (lien Camille) (cf. Lieux/Zelator_Facility.md).
+- Maladie de Pétrification : Fruit d'Or = seul soulagement (cf. Systemes/Petrification_Disease.md).
+- Hôtel Krat / Relique de Trismegistus : emplacement de l'arbre (cf. Lieux/Hotel_Krat.md, Lieux/Relic_of_Trismegistus.md).
+- Ergo : contrôler l'Ergo via les fruits (cf. Systemes/Ergo.md).
+- Zelator Facility : possiblement un deuxième Arbre à Fruits d'Or (lien Camille) (cf. Lieux/Zelator_Facility.md).
 
-## Sort connu / Etat
+## Sort connu / État
 
-- Le Gold Coin Tree dans l'Hotel Krat est intact au fil du jeu.
-- Post-evenements : sort [INCERTAIN] avec l'effondrement de Krat.
-- Philip Paracelsus (post-credits) evoque la poursuite des experiences -> potentiellement lien au sequel.
+- L'Arbre à Fruits d'Or dans l'Hôtel Krat est intact au fil du jeu.
+- Post-événements : sort [INCERTAIN] avec l'effondrement de Krat.
+- Philip Paracelsus (post-credits) évoque la poursuite des expériences -> potentiellement lien au sequel.
 
 ---
 

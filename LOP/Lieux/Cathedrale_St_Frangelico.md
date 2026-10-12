@@ -1,87 +1,88 @@
-# Cathedrale St Frangelico
+# Cathédrale St Frangelico
 
-- version : W1
+- version : W2
+- note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
 
-- Cathedrale fondee selon la legende lors de la rencontre de St Frangelico avec le One-Winged Angel.
-  Situee en hauteur, accessible depuis Moonlight Town par cable car (remontees mecaniques transformees
-  en telecabines par les Alchimistes). Lieu de culte, refuge, et site d'un boss majeur (Archbishop Andreas).
-- Donne acces au Path of the Pilgrim et au golden stargazer (DLC). Cf. Systemes/Stargazers.md.
+- Cathédrale (VO : St Frangelico Cathedral) fondée selon la légende lors de la rencontre de St Frangelico avec l'Ange à une Aile.
+  Située en hauteur, accessible depuis le Village Clair-de-Lune par cable car (remontées mécaniques transformées
+  en télécabines par les Alchimistes). Lieu de culte, refuge, et site d'un boss majeur (Archbishop Andreas).
+- Donne accès au chemin du pèlerin et au Stargazer doré (DLC). Cf. Systemes/Stargazers.md.
 
 ## Description / Histoire
 
-- Fondation et legende : la cathedrale fut fondee selon la legende lors de la rencontre de St Frangelico
-  (saint eponyme) avec le One-Winged Angel (ange a une aile). Moonlight Town est "le lieu le plus bas de
-  la ville ou les pelerins se preparent pour leur voyage en etant eleves vers la cathedrale". La legende
-  est au coeur de la theologie alchimiste du Star/ange tombe. Cf. SB2.
-- Relation avec les Alchimistes (~30 ans avant le jeu) : Archbishop Andreas nomme pretre de la cathedrale
-  ~30 ans avant le jeu. Les Alchimistes font une tres grosse donation a la cathedrale en echange de
-  terres. Andreas accepte ; corruption progressive par avidite. Relation durable mais non durable :
-  les activites nefastes des Alchimistes depuis les ombres finissent par etre connues. Cf. SB3, SB6.
-- Andreas avant la crise : Andreas est si respecte que les gens le comparent a St Frangelico lui-meme.
-  Il est appele "le saint de Krat". Tres influent dans la ville.
-- Arm of God confie a la cathedrale : Valentinus Monad confie l'Arm of God a Archbishop Andreas (peut-
-  etre averti des intentions de Simon). Cette decision est la "plus grande faute" de Valentinus selon le
-  Grandmaster de l'Ordre (lettre d'excommunication). Simon envoie Red Fox + Black Cat suivre P pour
-  le mener a l'Arm of God qu'Andreas a vole. Cf. Systemes/Arm_of_God.md, SB6.
-- La Petrification Disease et la "mission divine" d'Andreas : a l'arrivee de la maladie, Andreas la
-  percie comme un jugement divin. Il se voit comme le sauveur de Krat. Il travaille avec the Atoned
-  pour amener les survivants a la cathedrale (refuge). Il distribue un "remede" fourni par les
-  Alchimistes en realite destine a "purifier l'heresie des incroyants" : en fait pas un remede du tout ;
-  les malades meurent douloureusement -> nombreux Carcasses dans et autour de la cathedrale. Cf. SB2, SB6.
-- Andreas jure vengeance contre les Alchimistes apres avoir compris la trahison du remede.
-- Cecile et le vol de l'Arm of God : Cecile (nonne recueillie par Andreas), nonne meurtriere ayant un
-  passe sombre (confession laissee avant de disparaitre : "j'ai tue des gens dans le passe, je suis un
-  monstre"). Andreas lui fait voler l'Arm of God. P peut choisir d'aider Cecile en lui rapportant la
-  Holy Mark des quartiers de l'archeveque ; Cecile disparait ensuite. Cf. Personnages/Cecile.md.
-- Mutation d'Andreas et boss : Andreas, ayant voulu utiliser l'Arm of God pour soigner Krat, mute avant
-  de pouvoir le faire. Dans sa folie, il se proclame lui-meme le One-Winged Angel. Il devient un boss
-  ("This Hercules... ce saint de Krat") : "gargantuan grotesque mess of flesh". P met fin a ses
-  souffrances. Apres la mort d'Andreas, l'Ergo contenu dans les pantins que P a tues (Andreas, Fuoco,
-  Parade Master, Scrapped Watchman) est extrait et collecte par la machine de Simon. Cf. SB2, SB6.
-- Etat au moment du passage de P (base game) : cathedrale "plus le sanctuaire d'antan". Les gens qui y
-  sont montes ne sont pas revenus. Carcasses nombreux dans et autour du batiment. The Atoned garde
-  l'entree du cable car et avertit P de ne pas monter. Cf. Personnages/Boss_et_Creatures.md.
-- Moonlight Town et cable car : Moonlight Town est le point de depart du cable car vers la cathedrale.
-  Les pulleys d'origine ont ete transformes en cable cars par les Alchimistes (dans le DLC, les
-  telecabines sont a l'arriere de ce qui deviendra la Zelator Facility). Cf. Lieux/Quartiers_de_Krat.md.
-- Path of the Pilgrim et golden stargazer : le golden stargazer se trouve sur le Pilgrim's Path pres de
-  la cathedrale. P utilise le Stars Chrysalis pour le renouveler -> voyage dans le temps (DLC). Cf. SB5.
-- Subject 826 : rencontre dans l'abbaye (= Arch Abbey) puis plus tard a Rosa Isabel Street. Force a
-  consommer de l'Ergo dans les experiences alchimistes. Il parle d'une relique "retournee a sa place
-  sacree" et des "portes qui s'ouvrent". Cf. Personnages/PNJ_secondaires.md.
+- Fondation et légende : la cathédrale fut fondée selon la légende lors de la rencontre de St Frangelico
+  (saint éponyme) avec l'Ange à une Aile. Le Village Clair-de-Lune est "le lieu le plus bas de
+  la ville où les pèlerins se préparent pour leur voyage en étant élevés vers la cathédrale". La légende
+  est au coeur de la théologie alchimiste du Star/ange tombé. Cf. SB2.
+- Relation avec les Alchimistes (~30 ans avant le jeu) : Archbishop Andreas nommé prêtre de la cathédrale
+  ~30 ans avant le jeu. Les Alchimistes font une très grosse donation à la cathédrale en échange de
+  terres. Andreas accepte ; corruption progressive par avidité. Relation durable mais non durable :
+  les activités néfastes des Alchimistes depuis les ombres finissent par être connues. Cf. SB3, SB6.
+- Andreas avant la crise : Andreas est si respecté que les gens le comparent à St Frangelico lui-même.
+  Il est appelé "le saint de Krat". Très influent dans la ville.
+- Bras de Dieu confié à la cathédrale : Valentinus Monad confie le Bras de Dieu à Archbishop Andreas (peut-
+  être averti des intentions de Simon). Cette décision est la "plus grande faute" de Valentinus selon le
+  Grandmaster de l'Ordre (lettre d'excommunication). Simon envoie la Renarde Rousse + le Chat Noir suivre P pour
+  le mener au Bras de Dieu qu'Andreas a volé. Cf. Systemes/Arm_of_God.md, SB6.
+- La Maladie de Pétrification et la "mission divine" d'Andreas : à l'arrivée de la maladie, Andreas la
+  perçue comme un jugement divin. Il se voit comme le sauveur de Krat. Il travaille avec la Rédemptée
+  pour amener les survivants à la cathédrale (refuge). Il distribue un "remède" fourni par les
+  Alchimistes en réalité destiné à "purifier l'hérésie des incroyants" : en fait pas un remède du tout ;
+  les malades meurent douloureusement -> nombreux Carcasses dans et autour de la cathédrale. Cf. SB2, SB6.
+- Andreas jure vengeance contre les Alchimistes après avoir compris la trahison du remède.
+- Cécile et le vol du Bras de Dieu : Cécile (nonne recueillie par Andreas), nonne meurtrière ayant un
+  passé sombre (confession laissée avant de disparaître : "j'ai tué des gens dans le passé, je suis un
+  monstre"). Andreas lui fait voler le Bras de Dieu. P peut choisir d'aider Cécile en lui rapportant la
+  Marque Sainte des quartiers de l'archevêque ; Cécile disparaît ensuite. Cf. Personnages/Cecile.md.
+- Mutation d'Andreas et boss : Andreas, ayant voulu utiliser le Bras de Dieu pour soigner Krat, mute avant
+  de pouvoir le faire. Dans sa folie, il se proclame lui-même l'Ange à une Aile. Il devient un boss
+  ("This Hercules... ce saint de Krat") : "gargantuan grotesque mess of flesh". P met fin à ses
+  souffrances. Après la mort d'Andreas, l'Ergo contenu dans les pantins que P a tués (Andreas, Fuoco,
+  Maître du Défilé, Veilleur Désarticulé) est extrait et collecté par la machine de Simon. Cf. SB2, SB6.
+- État au moment du passage de P (base game) : cathédrale "plus le sanctuaire d'antan". Les gens qui y
+  sont montés ne sont pas revenus. Carcasses nombreux dans et autour du bâtiment. La Rédemptée garde
+  l'entrée du cable car et avertit P de ne pas monter. Cf. Personnages/Boss_et_Creatures.md.
+- Village Clair-de-Lune et cable car : le Village Clair-de-Lune est le point de départ du cable car vers la cathédrale.
+  Les pulleys d'origine ont été transformés en cable cars par les Alchimistes (dans le DLC, les
+  télécabines sont à l'arrière de ce qui deviendra la Zelator Facility). Cf. Lieux/Quartiers_de_Krat.md.
+- Chemin du pèlerin et Stargazer doré : le Stargazer doré se trouve sur le chemin du pèlerin près de
+  la cathédrale. P utilise la Chrysalide stellaire pour le renouveler -> voyage dans le temps (DLC). Cf. SB5.
+- Subject 826 : rencontré dans l'abbaye (= Abbaye de l'Arche) puis plus tard à la Rue Rosa Isabel. Forcé à
+  consommer de l'Ergo dans les expériences alchimistes. Il parle d'une relique "retournée à sa place
+  sacrée" et des "portes qui s'ouvrent". Cf. Personnages/PNJ_secondaires.md.
 
 ## Faits canon
 
-- Fondee selon la legende lors de la rencontre de St Frangelico avec le One-Winged Angel. Cf. SB2.
-- Accessible depuis Moonlight Town par cable car (pulleys transformes par les Alchimistes). Cf. SB3.
-- Andreas nomme pretre ~30 ans avant le jeu. Accepte grosse donation alchimiste contre des terres -> corrompu. Cf. SB6.
-- Arm of God confie par Valentinus a Andreas -> vol par Cecile sur ordre d'Andreas. Cf. Systemes/Arm_of_God.md.
-- Andreas se proclame le One-Winged Angel en mutant -> boss final de la zone. Mort par P. Cf. SB2, SB6.
-- Remede des Alchimistes distribue par Andreas = faux remede -> Carcasses. Andreas jure vengeance.
-- Cecile (nonne, passee criminelle) recueillie par Andreas ; disparait apres confession. Cf. Personnages/Cecile.md.
-- Red Fox + Black Cat charges par Simon de suivre P pour localiser l'Arm of God. Cf. Factions/Les_Stalkers.md.
-- Apres mort d'Andreas : Ergo des boss tues collecte par la machine de Simon. Cf. SB4.
-- Path of the Pilgrim / golden stargazer pres de la cathedrale -> voyage temporel (DLC). Cf. SB5.
-- Subject 826 : rencontre dans l'abbaye puis a Rosa Isabel Street. Cf. Personnages/PNJ_secondaires.md.
+- Fondée selon la légende lors de la rencontre de St Frangelico avec l'Ange à une Aile. Cf. SB2.
+- Accessible depuis le Village Clair-de-Lune par cable car (pulleys transformés par les Alchimistes). Cf. SB3.
+- Andreas nommé prêtre ~30 ans avant le jeu. Accepte grosse donation alchimiste contre des terres -> corrompu. Cf. SB6.
+- Bras de Dieu confié par Valentinus à Andreas -> vol par Cécile sur ordre d'Andreas. Cf. Systemes/Arm_of_God.md.
+- Andreas se proclame l'Ange à une Aile en mutant -> boss final de la zone. Mort par P. Cf. SB2, SB6.
+- Remède des Alchimistes distribué par Andreas = faux remède -> Carcasses. Andreas jure vengeance.
+- Cécile (nonne, passée criminelle) recueillie par Andreas ; disparaît après confession. Cf. Personnages/Cecile.md.
+- La Renarde Rousse + le Chat Noir chargés par Simon de suivre P pour localiser le Bras de Dieu. Cf. Factions/Les_Stalkers.md.
+- Après mort d'Andreas : Ergo des boss tués collecté par la machine de Simon. Cf. SB4.
+- Chemin du pèlerin / Stargazer doré près de la cathédrale -> voyage temporel (DLC). Cf. SB5.
+- Subject 826 : rencontré dans l'abbaye puis à la Rue Rosa Isabel. Cf. Personnages/PNJ_secondaires.md.
 
 ## Liens
 
-- Archbishop Andreas : pretre + boss de la zone. Cf. Personnages/Archbishop_Andreas.md.
-- Cecile : nonne recueillie par Andreas. Cf. Personnages/Cecile.md.
-- Arm of God : confie ici puis vole. Cf. Systemes/Arm_of_God.md.
-- The Atoned : gardien du cable car a Moonlight Town. Cf. Personnages/Boss_et_Creatures.md.
-- Moonlight Town : quartier de depart du cable car. Cf. Lieux/Quartiers_de_Krat.md.
-- One-Winged Angel / theologie du Star : cf. SB2, Systemes/One_Winged_Angel_et_le_Star.md.
+- Archbishop Andreas : prêtre + boss de la zone. Cf. Personnages/Archbishop_Andreas.md.
+- Cécile : nonne recueillie par Andreas. Cf. Personnages/Cecile.md.
+- Bras de Dieu : confié ici puis volé. Cf. Systemes/Arm_of_God.md.
+- La Rédemptée : gardien du cable car au Village Clair-de-Lune. Cf. Personnages/Boss_et_Creatures.md.
+- Village Clair-de-Lune : quartier de départ du cable car. Cf. Lieux/Quartiers_de_Krat.md.
+- Ange à une Aile / théologie du Star : cf. SB2, Systemes/One_Winged_Angel_et_le_Star.md.
 - Simon Manus : collecte l'Ergo des boss via la machine. Cf. Personnages/Simon_Manus.md.
-- Red Fox + Black Cat : pistent P vers l'Arm of God. Cf. Factions/Les_Stalkers.md.
-- Stargazers / Path of the Pilgrim : cf. Systemes/Stargazers.md, Lieux/Quartiers_de_Krat.md.
+- La Renarde Rousse + le Chat Noir : pistent P vers le Bras de Dieu. Cf. Factions/Les_Stalkers.md.
+- Stargazers / chemin du pèlerin : cf. Systemes/Stargazers.md, Lieux/Quartiers_de_Krat.md.
 
-## Sort connu / Etat
+## Sort connu / État
 
-- Andreas mort (boss vaincu par P). Cathedrale transformee en champ de Carcasses. Plus fonctionnelle
-  comme lieu de culte. Arm of God recupere (evenements base game). Etat structurel post-jeu : [INCERTAIN].
+- Andreas mort (boss vaincu par P). Cathédrale transformée en champ de Carcasses. Plus fonctionnelle
+  comme lieu de culte. Bras de Dieu récupéré (événements base game). État structurel post-jeu : [INCERTAIN].
 
 ---
 

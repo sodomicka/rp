@@ -1,51 +1,52 @@
 # Polendina
 
-- version : W1
+- version : W2
+- note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
-## Identite
+## Identité
 - Nom : Polendina.
-- Nature : pantin (puppet), majordome de l'Hotel Krat.
+- Nature : pantin (puppet), majordome de l'Hôtel Krat.
 - Coquilles transcript : "Pollandina", "Polandina".
-- Reference litteraire : Polendina = personnage de la version originale des Aventures de Pinocchio (Collodi) ; nom de la perruque de la fee bleue.
+- Référence littéraire : Polendina = personnage de la version originale des Aventures de Pinocchio (Collodi) ; nom de la perruque de la fée bleue.
 
-## Role
-- Majordome de l'Hotel Krat, au service d'Antonia.
-- Premier contact de P a son arrivee a l'hotel (avec Antonia).
-- Intermediaire entre P et Antonia pour les questions d'ordre pratique.
+## Rôle
+- Majordome de l'Hôtel Krat, au service d'Antonia.
+- Premier contact de P à son arrivée à l'hôtel (avec Antonia).
+- Intermédiaire entre P et Antonia pour les questions d'ordre pratique.
 - Pivot de la sous-intrigue du "cure" d'Antonia :
-  - Apprend qu'Antonia est tres malade (ecailles sur le visage).
-  - Demande a P si un pantin peut aimer un humain (question directe, choix pour P de repondre ou non).
-  - Si P obtient le Gold Coin Fruit (via Giangio/Danjo) : Polendina le donne a Antonia.
-  - Ce "remede" ne guerit pas mais soulage la douleur -> mort douce et paisible pour Antonia.
-- Incarne le theme central du jeu : l'Ego eveille chez les pantins, et la question de l'amour puppets/humains.
+  - Apprend qu'Antonia est très malade (écailles sur le visage).
+  - Demande à P si un pantin peut aimer un humain (question directe, choix pour P de répondre ou non).
+  - Si P obtient le Fruit d'Or (via Giangio/Danjo) : Polendina le donne à Antonia.
+  - Ce "remède" ne guérit pas mais soulage la douleur -> mort douce et paisible pour Antonia.
+- Incarne le thème central du jeu : l'Ego éveillé chez les pantins, et la question de l'amour puppets/humains.
 
-## Capacites
-- Majordome efficace : gestion de l'hotel et des residents.
-- Ego eveille : capable de ressentir de l'amour romantique (cas rare et notable).
+## Capacités
+- Majordome efficace : gestion de l'hôtel et des résidents.
+- Ego éveillé : capable de ressentir de l'amour romantique (cas rare et notable).
 
 ## Psychologie
-- A developpe un Ego au fil du temps grace a l'accumulation d'Ergo.
-- Tombe amoureux d'Antonia (la maitresse dont il est charge).
-- Question philosophique posee explicitement : "Is it possible for a puppet to love a human?" -> choix de P de repondre oui (mensonge humanisant) ou non (verite froide).
-- [INTERPRETATION] Son amour pour Antonia est sincere et non programme : illustration de l'eveil de l'Ego.
+- A développé un Ego au fil du temps grâce à l'accumulation d'Ergo.
+- Tombe amoureux d'Antonia (la maîtresse dont il est chargé).
+- Question philosophique posée explicitement : "Is it possible for a puppet to love a human?" -> choix de P de répondre oui (mensonge humanisant) ou non (vérité froide).
+- [INTERPRÉTATION] Son amour pour Antonia est sincère et non programmé : illustration de l'éveil de l'Ego.
 
 ## Relations
-- Antonia : maitresse et objet de son amour ; tient a sa survie et a son confort.
-- P : interlocuteur cle ; peut etre l'agent du soulagement d'Antonia selon ses choix.
-- Geppetto (indirectement) : l'Ego de Polendina evolue en parallele a celui de P, tous deux influences par l'Ergo dans un contexte de proximity humaine.
+- Antonia : maîtresse et objet de son amour ; tient à sa survie et à son confort.
+- P : interlocuteur clé ; peut être l'agent du soulagement d'Antonia selon ses choix.
+- Geppetto (indirectement) : l'Ego de Polendina évolue en parallèle à celui de P, tous deux influencés par l'Ergo dans un contexte de proximity humaine.
 
 ## Sort connu
-- Sort final non explicitement detaille dans la source apres la mort d'Antonia.
-- [INCERTAIN] : ce qu'il devient apres la mort de sa maitresse.
+- Sort final non explicitement détaillé dans la source après la mort d'Antonia.
+- [INCERTAIN] : ce qu'il devient après la mort de sa maîtresse.
 
-## Trajectoire datee
-| Date/ere | Evenement | Delta d'etat |
+## Trajectoire datée
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| Service a l'hotel | Majordome ; Ego se developpe progressivement | Eveil de l'Ego |
-| Base game (debut) | Accueille P ; relaye les informations d'Antonia | PNJ interlocuteur |
-| Base game (mi-parcours) | Apprend la maladie d'Antonia ; demande a P si un pantin peut aimer | Revelation du sentiment |
-| Base game (cure optionnel) | Administre le Gold Coin Fruit a Antonia si P le lui remet | Agent d'une mort paisible |
-| Post-mort d'Antonia | Sort non specifie | [INCERTAIN] |
+| Service à l'hôtel | Majordome ; Ego se développe progressivement | Éveil de l'Ego |
+| Base game (début) | Accueille P ; relaye les informations d'Antonia | PNJ interlocuteur |
+| Base game (mi-parcours) | Apprend la maladie d'Antonia ; demande à P si un pantin peut aimer | Révélation du sentiment |
+| Base game (cure optionnel) | Administre le Fruit d'Or à Antonia si P le lui remet | Agent d'une mort paisible |
+| Post-mort d'Antonia | Sort non spécifié | [INCERTAIN] |
 
 ---
 

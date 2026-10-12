@@ -1,135 +1,139 @@
-# Boss et Creatures
+# Boss et Créatures
 
-- version : W3
-- note W3 : retrait du bloc Mad Donkey (repositionne en ALLIE de Magnus [DIVERGENCE RP] ; vit desormais dans Personnages/PNJ_secondaires.md, sans pointeur ici).
-- note W2 : ajout du bloc Ange de l'Arc reforge (Overture / Ere 3, 1850 ; [DIVERGENCE RP]). Reforge de son epave laissee a Zelator en 1847, gardien du Krat Zoo pour le compte de l'Ordre, battu par Magnus en solo.
+- version : W4
+- note W4 : forages 5.1 et 5.2 [DIVERGENCE RP]. Parade Master, Scrapped Watchman et Fuoco vaincus par P ET Magnus ; laïus du Watchman traduit par Magnus (conforme au canon). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
+- note W3 : retrait du bloc Mad Donkey (repositionné en ALLIÉ de Magnus [DIVERGENCE RP] ; vit désormais dans Personnages/PNJ_secondaires.md, sans pointeur ici).
+- note W2 : ajout du bloc Ange de l'Arc reforgé (Overture / Ère 3, 1850 ; [DIVERGENCE RP]). Reforgé de son épave laissée à Zelator en 1847, gardien du Krat Zoo pour le compte de l'Ordre, battu par Magnus en solo.
 
-> Fiche groupee. Chaque entite = un bloc independant.
-> Entites : Parade Master, Scrapped Watchman / Murphy, Fuoco, King of Puppets,
->            Walker of Illusions, Champion Victor, Green Monster of the Swamp,
->            Anguished Guardian of the Ruins, Two-Faced Overseer, Tyrant Predator,
->            Ange de l'Arc reforge ([DIVERGENCE RP]), Nameless Puppet, Door Guardian.
+> Fiche groupée. Chaque entité = un bloc indépendant.
+> Entités : Maître du Défilé, Veilleur Désarticulé / Murphy, Fuoco, Roi des Pantins,
+>            Marcheur d'Illusions, Champion Victor, Monstre Vert du Marais,
+>            Gardien Tourmenté des Ruines, Surveillant aux Deux Visages, prédateur tyrannique,
+>            Ange de l'Arc reforgé ([DIVERGENCE RP]), Pantin sans Nom, Gardien de la Porte.
 
 ---
 
-## PARADE MASTER
+## MAÎTRE DU DÉFILÉ
 
-### Identite
-- Nom : Parade Master.
-- Nature : pantin geant, boss.
+### Identité
+- Nom : Maître du Défilé (VO : Parade Master).
+- Nature : pantin géant, boss.
 
-### Role
-- Concu et bati pour divertir les foules de Krat ; celebre le Grand Exhibition.
-- Pendant la Puppet Frenzy : devient hostile comme tous les pantins.
-- Bloque l'entree de l'Hotel Krat (premier obstacle de P apres son reveil).
-- Premier boss du jeu : P le combat et le vainc a l'entree de l'hotel.
-- Reapparition : P doit le combattre a nouveau a mi-parcours (version corrompue, avec des allies) quand le stargazer ne fonctionne plus et qu'il faut revenir a l'hotel.
+### Rôle
+- Conçu et bâti pour divertir les foules de Krat ; célèbre la Grande Exposition.
+- Pendant la Frénésie des Pantins : devient hostile comme tous les pantins.
+- Bloque l'entrée de l'Hôtel Krat (premier obstacle de P après son réveil).
+- Premier boss du jeu : P le combat et le vainc à l'entrée de l'hôtel.
+- Réapparition : P doit le combattre à nouveau à mi-parcours (version corrompue, avec des alliés) quand le stargazer ne fonctionne plus et qu'il faut revenir à l'hôtel.
   - Cette fois il est "corrupted and he's got friends."
-- Classement Romeo : l'un des "meilleurs pantins" de Romeo (avec Scrapped Watchman et Fuoco) selon la source. [INTERPRETATION] Pas totalement confirme si Romeo l'a envoye consciemment comme "messager" ou si P ne comprend pas encore le message.
+- Classement Romeo : l'un des "meilleurs pantins" de Romeo (avec Veilleur Désarticulé et Fuoco) selon la source. [INTERPRÉTATION] Pas totalement confirmé si Romeo l'a envoyé consciemment comme "messager" ou si P ne comprend pas encore le message.
 
 ### Lien narratif
-- L'Ergo des pantins tues par P (incluant Parade Master, Fuoco, Scrapped Watchman, Archbishop) est extrait et collecte par la machine de Simon (observable post-defaite Archbishop dans la grande tour).
+- L'Ergo des pantins tués par P (incluant Maître du Défilé, Fuoco, Veilleur Désarticulé, Archbishop) est extrait et collecté par la machine de Simon (observable post-défaite Archbishop dans la grande tour).
 
 ### Sort
 - Vaincu par P deux fois.
+- [DIVERGENCE RP - 1852] Premier combat : vaincu par P et Magnus (Gare de Krat / Ruelle Cerasani), Markiona en retrait.
 
 ---
 
-## SCRAPPED WATCHMAN (Murphy)
+## VEILLEUR DÉSARTICULÉ (Murphy)
 
-### Identite
-- Nom : Scrapped Watchman. Nom propre : Murphy.
-- Nature : creation pantin de grande taille, boss.
+### Identité
+- Nom : Veilleur Désarticulé (VO : Scrapped Watchman). Nom propre : Murphy.
+- Nature : création pantin de grande taille, boss.
 
-### Role
-- Concu pour garder la cour de la City Hall ; divertissait aussi les enfants de Krat.
-- Etait ami avec les enfants (fonction d'entertainment secondaire).
-- Pendant la Frenzy : ses amis enfants ont ete tues par les pantins frenzied.
+### Rôle
+- Conçu pour garder la cour de l'Hôtel de Ville ; divertissait aussi les enfants de Krat.
+- Était ami avec les enfants (fonction d'entertainment secondaire).
+- Pendant la Frénésie : ses amis enfants ont été tués par les pantins frénétiques.
 - Combat P pour venger ses amis morts (motivation explicite).
-- Boss de la City Hall : combat P et perd.
-- Reapparition possible : le Green Monster of the Swamp "merges with what could be the now discarded body of the Scrapped Watchman" dans le Barren Swamp.
-  - Implication : son corps inerte rejette dans le marais sert de support a la fusion du monstre.
+- Boss de l'Hôtel de Ville : combat P et perd.
+- Réapparition possible : le Monstre Vert du Marais "merges with what could be the now discarded body of the Scrapped Watchman" dans le Marais Aride.
+  - Implication : son corps inerte rejette dans le marais sert de support à la fusion du monstre.
 
 ### Lien narratif
-- L'un des "meilleurs pantins" de Romeo ; Ergo collecte post-mort par la machine de Simon.
+- L'un des "meilleurs pantins" de Romeo ; Ergo collecté post-mort par la machine de Simon.
 
 ### Sort
-- Vaincu par P a la City Hall.
-- Corps probablement recycle/fusionne avec le Green Monster of the Swamp.
+- Vaincu par P à l'Hôtel de Ville.
+- [DIVERGENCE RP - 1852] Vaincu par P et Magnus. Magnus, qui comprend la langue des pantins, traduit à P ses ondes d'Ergo : la rage d'un gardien dont les enfants avec qui il jouait sont morts, impossible à raisonner à cause de la Frénésie (conforme au canon ci-dessus). cf. Personnages/Magnus.md.
+- Corps probablement recyclé/fusionné avec le Monstre Vert du Marais.
 
 ---
 
-## FUOCO (King's Flame)
+## FUOCO (Flamme du Roi)
 
-### Identite
+### Identité
 - Nom : Fuoco.
-- Titre : King's Flame.
-- Nature : pantin, gardien de la Venigni Works (usine de pantins).
+- Titre : Flamme du Roi (VO : King's Flame).
+- Nature : pantin, gardien de la Fabrique Artisanale Venigni (usine de pantins).
 - Coquilles transcript : "Fuco", "Froo", "Fuoko".
 
-### Role
-- Charge initialement de garder les flammes de la Venigni Works.
-- Evolution via la foi :
-  - Note de Decart : Fuoco a commence a "obeir a autre chose que des humains, comme s'il avait developpe une foi en un dieu."
-  - Ce dieu = le King of Puppets (Romeo).
+### Rôle
+- Chargé initialement de garder les flammes de la Fabrique Artisanale Venigni.
+- Évolution via la foi :
+  - Note de Decart : Fuoco a commencé à "obéir à autre chose que des humains, comme s'il avait développé une foi en un dieu."
+  - Ce dieu = le Roi des Pantins (Romeo).
   - Entend les mots de Romeo via les ondes Ergo.
-  - Prend le controle de l'usine.
-  - Utilise l'usine pour produire plus de pantins pour la revolte de Romeo (au lieu de la production normale).
-- Boss de la Venigni Works : P doit le combattre apres que Venigni l'envoie fermer la porte arriere.
+  - Prend le contrôle de l'usine.
+  - Utilise l'usine pour produire plus de pantins pour la révolte de Romeo (au lieu de la production normale).
+- Boss de la Fabrique Artisanale Venigni : P doit le combattre après que Venigni l'envoie fermer la porte arrière.
   - Fuoco utilise le feu comme offense principale.
   - Vaincu par P.
 
 ### Lien narratif
 - L'un des "meilleurs pantins" de Romeo.
-- Ergo collecte post-mort par la machine de Simon (cite explicitement dans la source post-defaite Archbishop).
+- Ergo collecté post-mort par la machine de Simon (cité explicitement dans la source post-défaite Archbishop).
 
 ### Sort
-- Vaincu par P a la Venigni Works.
+- Vaincu par P à la Fabrique Artisanale Venigni.
+- [DIVERGENCE RP - 1852] Vaincu par P et Magnus ; Markiona en retrait. Pulcinella est retrouvé derrière l'arène. cf. Personnages/Pulcinella.md.
 
 ---
 
-## KING OF PUPPETS (Romeo)
+## ROI DES PANTINS (Romeo)
 
-### Identite
-- Nom : King of Puppets. Nom propre : Romeo.
-- Nature : pantin (corps original humain, transforme).
-- cf. fiche dedicace Personnages/Romeo.md pour l'integralite du lore.
+### Identité
+- Nom : Roi des Pantins (VO : King of Puppets). Nom propre : Romeo.
+- Nature : pantin (corps original humain, transformé).
+- cf. fiche dédicace Personnages/Romeo.md pour l'intégralité du lore.
 
-### Role (resume boss)
-- Dirige tous les pantins frenzied de Krat apres sa transformation.
-- Ses "messagers" (bosses envoyes par lui) = Parade Master, Scrapped Watchman, Fuoco.
-  - Romeo monte un show a l'Estella Opera House pour donner un indice a P (ne veut pas le combattre car P contient l'Ergo de Carlo).
-- Boss final de la zone Rosa Isabel Street / Estella Opera House :
-  - Phase 1 : combat en forme de pantin geant.
-  - Phase 2 : Romeo emerge de la machine apres la defaite du pantin.
-  - Apres la defaite : remercie P de lui avoir donne la liberte.
-- DLC Overture (timeline passee, fin) : Romeo mourant dans les bras de Lea apres le combat d'Arlecchino ; Lea lui sourit (acceptation de l'inevitable).
+### Rôle (résumé boss)
+- Dirige tous les pantins frénétiques de Krat après sa transformation.
+- Ses "messagers" (bosses envoyés par lui) = Maître du Défilé, Veilleur Désarticulé, Fuoco.
+  - Romeo monte un show à l'Opéra Estella pour donner un indice à P (ne veut pas le combattre car P contient l'Ergo de Carlo).
+- Boss final de la zone Rue Rosa Isabel / Opéra Estella :
+  - Phase 1 : combat en forme de pantin géant.
+  - Phase 2 : Romeo émerge de la machine après la défaite du pantin.
+  - Après la défaite : remercie P de lui avoir donné la liberté.
+- DLC Overture (timeline passée, fin) : Romeo mourant dans les bras de Léa après le combat d'Arlecchino ; Léa lui sourit (acceptation de l'inévitable).
 
-### Capacites
-- Controle de tous les pantins via les ondes Ergo.
+### Capacités
+- Contrôle de tous les pantins via les ondes Ergo.
 - Combat en deux phases.
-- A "tend la main" a P (ne voulait pas combattre) -> P la repousse par incomprehension.
+- A "tend la main" à P (ne voulait pas combattre) -> P la repousse par incompréhension.
 
 ### Sort
-- Vaincu par P a l'Opera House.
-- Timeline passee DLC : mourant apres le combat contre Arlecchino et P.
+- Vaincu par P à l'Opéra.
+- Timeline passée DLC : mourant après le combat contre Arlecchino et P.
 
 ---
 
-## WALKER OF ILLUSIONS
+## MARCHEUR D'ILLUSIONS
 
-### Identite
-- Nom : Walker of Illusions.
-- Nature : entite ennemie (nature exacte non precisee - pantin ou humain-puppet hybrid ?).
+### Identité
+- Nom : Marcheur d'Illusions (VO : Walker of Illusions).
+- Nature : entité ennemie (nature exacte non précisée - pantin ou humain-puppet hybrid ?).
 
-### Role
-- Boss au sommet de la collapsed Workshop Tower.
-- Capacite signature : cree un duplicat de lui-meme (une illusion).
-- P doit gerer le veritable combattant et l'illusion simultanement.
-- Vaincu malgre la difficulte.
+### Rôle
+- Boss au sommet de la Tour des Artisans effondrée.
+- Capacité signature : crée un duplicat de lui-même (une illusion).
+- P doit gérer le véritable combattant et l'illusion simultanément.
+- Vaincu malgré la difficulté.
 
 ### Lien narratif
-- Gardien/obstacle au sommet de la Workshop Tower, zone devastee par la Battle of the Workshop Tower.
+- Gardien/obstacle au sommet de la Tour des Artisans, zone dévastée par la Bataille de la Tour des Artisans.
 
 ### Sort
 - Vaincu par P.
@@ -138,209 +142,209 @@
 
 ## CHAMPION VICTOR
 
-### Identite
+### Identité
 - Nom : Champion Victor.
 - Surnom : "the Hercules of Krat" (homme le plus fort du monde).
-- Nature : humain ressuscite/transforme par les Alchimistes.
+- Nature : humain ressuscité/transformé par les Alchimistes.
 
-### Role
-- Etait le boxeur et l'homme le plus fort du monde de son vivant.
-- A un moment perdu toute sa force ; mourant, s'est tourne vers les Alchimistes.
-- Les Alchimistes ont feint sa mort et l'ont en realite expose a la Petrification Disease.
-- Resultat : transforme, ressuscite/renforce -> "preuve vivante" de l'avancement de la science alchimique.
-- Simon voyait en Victor la demonstration du potentiel de l'evolution via la maladie.
-- Dans le Grand Exhibition : parle d'"evolution becoming real."
-- Boss du Grand Exhibition :
+### Rôle
+- Était le boxeur et l'homme le plus fort du monde de son vivant.
+- A un moment perdu toute sa force ; mourant, s'est tourné vers les Alchimistes.
+- Les Alchimistes ont feint sa mort et l'ont en réalité exposé à la Maladie de Pétrification.
+- Résultat : transformé, ressuscité/renforcé -> "preuve vivante" de l'avancement de la science alchimique.
+- Simon voyait en Victor la démonstration du potentiel de l'évolution via la maladie.
+- Dans la Grande Exposition : parle d'"evolution becoming real."
+- Boss de la Grande Exposition :
   - Phase 1 : combat P.
   - Phase 2 : pumped full of the drug/elixir -> plus fort.
-  - Avant que P puisse le finir : tue par un individu en armure (= Giangio / Philip Paracelsus, qui collecte l'Ergo via sa machine).
+  - Avant que P puisse le finir : tué par un individu en armure (= Giangio / Philip Paracelsus, qui collecte l'Ergo via sa machine).
 
 ### Lien narratif
 - Exemple principal de la transformation alchimique via la maladie.
-- Sa mort achevee par Paracelsus -> lien avec la collecte d'Ergo de Simon.
+- Sa mort achevée par Paracelsus -> lien avec la collecte d'Ergo de Simon.
 
 ### Sort
 - Vaincu par P (deux phases).
-- Acheve par Paracelsus / Giangio avant que P puisse le finir.
+- Achevé par Paracelsus / Giangio avant que P puisse le finir.
 
 ---
 
-## GREEN MONSTER OF THE SWAMP
+## MONSTRE VERT DU MARAIS
 
-### Identite
-- Nom : Green Monster of the Swamp.
-- Nature : creature composite, origine pantin/degenere.
+### Identité
+- Nom : Monstre Vert du Marais (VO : Green Monster of the Swamp).
+- Nature : créature composite, origine pantin/dégénéré.
 
-### Role
-- Vit sur la falaise au bout du Barren Swamp.
+### Rôle
+- Vit sur la falaise au bout du Marais Aride.
 - Comportement : "comme une corneille qui collecte des objets brillants."
-- Origine : se nourrit de l'Ergo des pantins discardes dans le marais.
-  - Son nid est jonche de pantins vides d'Ergo.
+- Origine : se nourrit de l'Ergo des pantins discardés dans le marais.
+  - Son nid est jonché de pantins vides d'Ergo.
   - Sa grande taille s'explique par cette alimentation abondante.
-- Hugo avait ete envoye pour s'en occuper mais ne s'attendait pas a sa taille ; rapport soumis ; renforts refuses ; "la creature savait qu'ils etaient la."
+- Hugo avait été envoyé pour s'en occuper mais ne s'attendait pas à sa taille ; rapport soumis ; renforts refusés ; "la créature savait qu'ils étaient là."
 - Combat P dans le marais/falaises :
-  - Combat difficile qui s'intensifie au fur et a mesure qu'il enrage.
-  - A mi-combat ou en fin de combat : "merges with what could be the now discarded body of the Scrapped Watchman."
+  - Combat difficile qui s'intensifie au fur et à mesure qu'il enrage.
+  - À mi-combat ou en fin de combat : "merges with what could be the now discarded body of the Scrapped Watchman."
   - Cette fusion le renforce.
-- P le vainc et recupere le Golden Ergo.
-- Parrot (faux Alidoro) attend P apres la victoire ; appelle P "Alidoro's best bait."
+- P le vainc et récupère l'Ergo doré.
+- Parrot (faux Alidoro) attend P après la victoire ; appelle P "Alidoro's best bait."
 
 ### Sort
-- Vaincu par P. Corps laisse dans le marais.
+- Vaincu par P. Corps laissé dans le marais.
 
 ---
 
-## ANGUISHED GUARDIAN OF THE RUINS
+## GARDIEN TOURMENTÉ DES RUINES
 
-### Identite
-- Nom : Anguished Guardian of the Ruins.
-- Nature : etre ancien, gardien de l'Arm of God.
+### Identité
+- Nom : Gardien Tourmenté des Ruines (VO : Anguished Guardian of the Ruins).
+- Nature : être ancien, gardien du Bras de Dieu.
 
-### Role
+### Rôle
 - Origine lointaine :
-  - Ancien guerrier ayant jure un sommeil eternel en echange de la protection de son peuple contre l'immortalite.
+  - Ancien guerrier ayant juré un sommeil éternel en échange de la protection de son peuple contre l'immortalité.
   - "An ancient being that was initially there in order to protect the arm of God."
-  - Decouvert par les Alchimistes lors de l'excavation des ruines anciennes ("qqch de vivant mais pas humain, scelle").
-  - La plupart des Alchimistes ont fui a sa decouverte.
-  - Garde initialement pres de Valentinus a la Rose Estate.
-  - A ete "horrifically mutated as a result of the petrification disease."
-  - L'Ergo de P (le reveille en passant pres du site) le reveille.
-- DLC Overture : boss du site le plus profond des ruines anciennes, apres le Pistrus Harbor.
+  - Découvert par les Alchimistes lors de l'excavation des ruines anciennes ("qqch de vivant mais pas humain, scellé").
+  - La plupart des Alchimistes ont fui à sa découverte.
+  - Gardé initialement près de Valentinus au Domaine de la Rose.
+  - A été "horrifically mutated as a result of the petrification disease."
+  - L'Ergo de P (le réveille en passant près du site) le réveille.
+- DLC Overture : boss du site le plus profond des ruines anciennes, après le Port de Pistrus.
 - Combat P :
   - "Makes use of some ancient magic in order to try and kill P."
-  - Vaincu malgre ses capacites.
+  - Vaincu malgré ses capacités.
 
 ### Lien narratif
-- Gardien de l'Arm of God, relique centrale du schema de Simon Manus.
-- Lie au pacte ancien : protection du peuple contre l'immortalite = opposition directe au projet alchimique.
+- Gardien du Bras de Dieu, relique centrale du schéma de Simon Manus.
+- Lié au pacte ancien : protection du peuple contre l'immortalité = opposition directe au projet alchimique.
 
 ### Sort
 - Vaincu par P.
 
 ---
 
-## TWO-FACED OVERSEER
+## SURVEILLANT AUX DEUX VISAGES
 
-### Identite
-- Nom : Two-Faced Overseer.
-- Nature : "abomination" ; sujet d'experimentation transforme en arme vivante.
+### Identité
+- Nom : Surveillant aux Deux Visages (VO : Two-Faced Overseer).
+- Nature : "abomination" ; sujet d'expérimentation transformé en arme vivante.
 
-### Role
-- Cree dans la Zelator Facility (experiments sur les Listeners et l'Ergo).
-- "One subject has become a living weapon" -> le Two-Faced Overseer.
-- Veronique l'evoque comme "an abomination below" dans ses derniers mots.
-- P combat le Two-Faced Overseer dans la Zelator Facility apres avoir traverse les labs.
-- Le Tracker (vrai Alidoro) summonable via le Daylight-Wreathed Horn.
-  - P sonne le horn -> le Tracker arrive et combat aux cotes de P.
-  - Victoire a deux.
-- Apres la victoire : le Tracker remercie P ; remarque que son style de combat "reminds him of someone."
+### Rôle
+- Créé dans la Zelator Facility (expériences sur les Oreilles et l'Ergo).
+- "One subject has become a living weapon" -> le Surveillant aux Deux Visages.
+- Véronique l'évoque comme "an abomination below" dans ses derniers mots.
+- P combat le Surveillant aux Deux Visages dans la Zelator Facility après avoir traversé les labs.
+- Le Limier (vrai Alidoro) summonable via le Cor nimbé d'aurore.
+  - P sonne le cor -> le Limier arrive et combat aux côtés de P.
+  - Victoire à deux.
+- Après la victoire : le Limier remercie P ; remarque que son style de combat "reminds him of someone."
 
 ### Sort
-- Vaincu par P + le Tracker (co-op).
+- Vaincu par P + le Limier (co-op).
 
 ---
 
-## TYRANT PREDATOR
+## PRÉDATEUR TYRANNIQUE
 
-### Identite
-- Nom : Tyrant Predator.
-- Nature : crocodile geant, completement envahi par la Petrification Disease.
+### Identité
+- Nom : prédateur tyrannique (VO : Tyrant Predator).
+- Nature : crocodile géant, complètement envahi par la Maladie de Pétrification.
 - Coquilles transcript : "tyrannical predator".
 
-### Role
-- Zone : Savannah Experience Center du Krat Zoo (DLC Overture).
-- Completement dompte/transforme par la Petrification Disease.
-- Tres grand et tres agressif.
-- P est force dans un affrontement avant de pouvoir quitter la zone.
+### Rôle
+- Zone : Savannah Experience Center du Zoo de Krat (DLC Overture).
+- Complètement dompté/transformé par la Maladie de Pétrification.
+- Très grand et très agressif.
+- P est forcé dans un affrontement avant de pouvoir quitter la zone.
 - Vaincu ; P continue vers la zone carnival.
 
 ### Lien narratif
-- Lien possible avec Rex (crocodile compagnon du Colonel Little) : meme zone, meme type animal, meme zoo.
-  - [INCERTAIN] Si Tyrant Predator = Rex devenu monstrueux sous l'effet de la maladie.
+- Lien possible avec Rex (crocodile compagnon du Colonel Little) : même zone, même type animal, même zoo.
+  - [INCERTAIN] Si le prédateur tyrannique = Rex devenu monstrueux sous l'effet de la maladie.
 
 ### Sort
 - Vaincu par P.
 
 ---
 
-## ANGE DE L'ARC (reforge)
+## ANGE DE L'ARC (reforgé)
 
-> [DIVERGENCE RP] Entite issue de l'OC. cf. Personnages/Markiona.md (typologie des Pantins de l'Arc),
-> Personnages/Magnus.md, Roadmap/Magnus/Roadmap_03_Overture.md (etapes 3-4).
+> [DIVERGENCE RP] Entité issue de l'OC. cf. Personnages/Markiona.md (typologie des Pantins de l'Arc),
+> Personnages/Magnus.md, Roadmap/Magnus/Roadmap_03_Overture.md (étapes 3-4).
 
-### Identite
-- Nom : Ange de l'Arc (etat reforge).
-- Nature : Pantin de l'Arc de type "ange", creation de Markiona du temps de l'Ordre. [DIVERGENCE RP]
-- Pour la nature exacte d'un Pantin de l'Arc : cf. Personnages/Markiona.md (typologie). Ne pas rededuire ici.
+### Identité
+- Nom : Ange de l'Arc (état reforgé).
+- Nature : Pantin de l'Arc de type "ange", création de Markiona du temps de l'Ordre. [DIVERGENCE RP]
+- Pour la nature exacte d'un Pantin de l'Arc : cf. Personnages/Markiona.md (typologie). Ne pas redéduire ici.
 
-### Role
-- Origine : l'un des Pantins de l'Arc de Markiona ; reduit a l'etat d'epave et laisse a la Zelator
-  Facility en 1847, lors de la fuite de Markiona et de l'eveil de Magnus (cf. Roadmap_01,
+### Rôle
+- Origine : l'un des Pantins de l'Arc de Markiona ; réduit à l'état d'épave et laissé à la Zelator
+  Facility en 1847, lors de la fuite de Markiona et de l'éveil de Magnus (cf. Roadmap_01,
   Personnages/Magnus.md, Personnages/Markiona.md).
-- Apres le depart de Markiona, l'Ordre l'a REFORGE a partir de cette epave et poste comme gardien
-  du Krat Zoo pour son propre compte. Markiona n'a plus aucune autorite sur lui (pas plus que sur les
-  Pantins de l'Arc reprogrammes qui infestent le Zoo).
-- Overture (1850, plein hiver) : trouve dans la voliere du Zoo, au bout de la serre ; il garde l'acces
-  au tunnel verrouille menant a la foire / au carnaval.
-- [DIVERGENCE RP] Magnus demande a l'affronter SEUL et le detruit. La cle du tunnel verrouille (cle du
-  carnaval) est recuperee sur sa carcasse. Canon : c'est P qui recupere la cle du carnaval ; ici, Magnus.
+- Après le départ de Markiona, l'Ordre l'a REFORGÉ à partir de cette épave et posté comme gardien
+  du Zoo de Krat pour son propre compte. Markiona n'a plus aucune autorité sur lui (pas plus que sur les
+  Pantins de l'Arc reprogrammés qui infestent le Zoo).
+- Overture (1850, plein hiver) : trouvé dans la volière du Zoo, au bout de la serre ; il garde l'accès
+  au tunnel verrouillé menant à la foire / au carnaval.
+- [DIVERGENCE RP] Magnus demande à l'affronter SEUL et le détruit. La clé du tunnel verrouillé (clé du
+  carnaval) est récupérée sur sa carcasse. Canon : c'est P qui récupère la clé du carnaval ; ici, Magnus.
 
 ### Lien narratif
-- Boucle un fil de l'Ere 1 : l'epave laissee a Zelator en 1847 revient en gardien reforge en 1850.
-- Sa chute en combat singulier sert de jalon a la montee en puissance de Magnus dans l'Overture
+- Boucle un fil de l'Ère 1 : l'épave laissée à Zelator en 1847 revient en gardien reforgé en 1850.
+- Sa chute en combat singulier sert de jalon à la montée en puissance de Magnus dans l'Overture
   (synergie avec P aux abords, mais l'Ange tombe de la seule main de Magnus).
 
 ### Sort
-- Detruit par Magnus seul (Overture, 1850).
+- Détruit par Magnus seul (Overture, 1850).
 
 ---
 
-## NAMELESS PUPPET
+## PANTIN SANS NOM
 
-### Identite
-- Nom : Nameless Puppet.
-- Nature : pantin (corps emaciation de Carlo, fils de Geppetto).
+### Identité
+- Nom : Pantin sans Nom (VO : Nameless Puppet).
+- Nature : pantin (corps émaciation de Carlo, fils de Geppetto).
 
-### Role
-- Origine : Geppetto a tente de faire revivre Carlo apres sa mort (echec).
-  - Resultat : Nameless Puppet = corps emaciation de Carlo.
-  - Geppetto y a place le P-Organ (coeur de pantin).
-  - Mais le corps = coque vide -> effet oppose, destruction probable de l'Ergo de Carlo.
-  - Nameless ne ressent que de la haine.
-- Premiere utilisation par Geppetto : envoye tuer Lea Florence (pour prendre le corps de Romeo).
-  - Lea aurait pu tuer Geppetto facilement meme mourante, mais ne l'a pas fait.
+### Rôle
+- Origine : Geppetto a tenté de faire revivre Carlo après sa mort (échec).
+  - Résultat : Pantin sans Nom = corps émaciation de Carlo.
+  - Geppetto y a placé l'Organe-P (coeur de pantin).
+  - Mais le corps = coque vide -> effet opposé, destruction probable de l'Ergo de Carlo.
+  - Pantin sans Nom ne ressent que de la haine.
+- Première utilisation par Geppetto : envoyé tuer Léa Florence (pour prendre le corps de Romeo).
+  - Léa aurait pu tuer Geppetto facilement même mourante, mais ne l'a pas fait.
 - Fin du base game :
-  - Si P refuse de donner son coeur a Geppetto : Geppetto revele qu'il peut canaliser l'Ergo via son bras de pantin.
-  - Utilise ce bras pour controler le Nameless Puppet (sort de sa caisse).
-  - Le Nameless combat P.
-  - P coupe une partie de la tete du Nameless -> brise le controle de Geppetto -> Nameless devient plus fort.
-  - Le Nameless va poignarder P au coeur.
-  - Geppetto se sacrifie (realise que le coeur de P est crucial pour Carlo) -> le Nameless tue Geppetto.
-  - P transperce le Nameless -> le tue.
-- DLC Overture (fin, timeline passee) : tue Lea Florence (presume) apres la defaite d'Arlecchino.
+  - Si P refuse de donner son coeur à Geppetto : Geppetto révèle qu'il peut canaliser l'Ergo via son bras de pantin.
+  - Utilise ce bras pour contrôler le Pantin sans Nom (sort de sa caisse).
+  - Le Pantin sans Nom combat P.
+  - P coupe une partie de la tête du Pantin sans Nom -> brise le contrôle de Geppetto -> Pantin sans Nom devient plus fort.
+  - Le Pantin sans Nom va poignarder P au coeur.
+  - Geppetto se sacrifie (réalise que le coeur de P est crucial pour Carlo) -> le Pantin sans Nom tue Geppetto.
+  - P transperce le Pantin sans Nom -> le tue.
+- DLC Overture (fin, timeline passée) : tue Léa Florence (présumé) après la défaite d'Arlecchino.
 
-### Capacites
-- Extreme puissance physique.
-- Sans controle de Geppetto : encore plus dangereux.
+### Capacités
+- Extrême puissance physique.
+- Sans contrôle de Geppetto : encore plus dangereux.
 - Haine pure, sans aucune empathie.
 
 ### Sort
-- Tue par P (base game).
-- Dans la bad ending : Geppetto extrait le coeur de P et le place dans un autre pantin (Carlo renait).
+- Tué par P (base game).
+- Dans la bad ending : Geppetto extrait le coeur de P et le place dans un autre pantin (Carlo renaît).
 
 ---
 
-## DOOR GUARDIAN
+## GARDIEN DE LA PORTE
 
-### Identite
-- Nom : Door Guardian.
+### Identité
+- Nom : Gardien de la Porte (VO : Door Guardian).
 - Nature : gardien massif, boss.
 
-### Role
-- Garde l'entree profonde de l'Arch Abbey.
-- P le combat sur les plages noires de l'aisle (avant d'entrer dans l'abbaye).
+### Rôle
+- Garde l'entrée profonde de l'Abbaye de l'Arche.
+- P le combat sur les plages noires de l'Allée (avant d'entrer dans l'abbaye).
   - Context : P arrive via les memories de la plage noire, voit les souvenirs de Carlo enfant.
-  - Defie le Door Guardian pour acceder a l'abbaye.
+  - Défie le Gardien de la Porte pour accéder à l'abbaye.
   - Vaincu.
 
 ### Sort

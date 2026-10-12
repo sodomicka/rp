@@ -1,92 +1,93 @@
 # Krat
 
-- version : W1
+- version : W2
+- note W2 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
 
-- Cite cotiere fictive, cadre central de Lies of P. Inspiree de la Belle Epoque europeenne (1871-1914).
-- Ville ayant connu une trajectoire complete : pauvrete -> age d'or economique via l'Ergo -> effondrement catastrophique.
+- Cité côtière fictive, cadre central de Lies of P. Inspirée de la Belle Époque européenne (1871-1914).
+- Ville ayant connu une trajectoire complète : pauvreté -> âge d'or économique via l'Ergo -> effondrement catastrophique.
 
 ## Description / Histoire
 
-- Fondation et periode pre-Ergo : Krat est a l'origine une ville cotiere pauvre, dirigee par les OLD FAMILIES
-  (caretakers privilegies heritant leurs possessions de generation en generation). Pas d'infrastructure
-  significative ; le charbon est la principale source d'energie.
-- Decouverte fondatrice (~600 ans avant le jeu) : effondrement du sol -> decouverte d'une structure de
-  cluster inorganique, de corps anciens, et d'un mineral inconnu nomme Crowd. Le puits est nomme Relic of
-  Trismegistus. Ce mineral contient de l'Ergo cristallise (cf. SB1, SB3). Cf. Lieux/Relic_of_Trismegistus.md.
-- Arrivee des Alchimistes : les Alchimistes (fondes par Valentinus Monad) arrivent d'abord a Moonlight Town
-  puis prennent le controle de la Relic. Krat passe du charbon a l'Ergo comme source d'energie. Les mines de
-  charbon sont fermees ; leur emplacement devient le Barren Swamp. L'Ergo devient a la fois la source
-  d'energie principale de la ville ET sa monnaie, fournie par les Alchimistes. Cf. SB3.
-- Age d'or (Belle Epoque) : Krat devient un hub d'innovation. Geppetto (Workshop Union) + famille Venigni
-  produisent des pantins (puppets) en masse, alimentes par l'Ergo et lies au Grand Covenant. Les pantins
-  assurent les taches quotidiennes et le maintien de l'ordre (law enforcement automatise). Les citoyens
-  apprennent a apprendre la liberte que cela leur offre, meme si cela cree une imbalance sociale. Le jeune
-  Lorenzini Venigni (Venigni Works) conoit le systeme de tram et le sous-marin Pistrus. La ville planifie le
-  Grand Exhibition pour montrer le futur de l'automation et de l'Ergo au reste du monde.
-- Role des Old Families : les vieilles familles possedaient et dirigeaient des zones de Krat, mais leur
-  pouvoir declin avec l'arrivee des Alchimistes et du Workshop Union. Certaines familles (dont la famille V)
-  ont aide les Alchimistes a eliminer des ouvriers de construction dans la Relic of Trismegistus, protegerant
-  la valeur secrete de la mine.
-- Monad Charity House : la famille Monad fonde une maison de charite educative pour les enfants pauvres de
-  Krat. Trois voies proposees : stalker, alchimiste, ou workshop technician. Carlo et Romeo y sont eleves.
+- Fondation et période pré-Ergo : Krat est à l'origine une ville côtière pauvre, dirigée par les OLD FAMILIES
+  (caretakers privilégiés héritant leurs possessions de génération en génération). Pas d'infrastructure
+  significative ; le charbon est la principale source d'énergie.
+- Découverte fondatrice (~600 ans avant le jeu) : effondrement du sol -> découverte d'une structure de
+  cluster inorganique, de corps anciens, et d'un minéral inconnu nommé Crowd. Le puits est nommé Relique de
+  Trismegistus. Ce minéral contient de l'Ergo cristallisé (cf. SB1, SB3). Cf. Lieux/Relic_of_Trismegistus.md.
+- Arrivée des Alchimistes : les Alchimistes (fondés par Valentinus Monad) arrivent d'abord au Village Clair-de-Lune
+  puis prennent le contrôle de la Relique. Krat passe du charbon à l'Ergo comme source d'énergie. Les mines de
+  charbon sont fermées ; leur emplacement devient le Marais Aride. L'Ergo devient à la fois la source
+  d'énergie principale de la ville ET sa monnaie, fournie par les Alchimistes. Cf. SB3.
+- Âge d'or (Belle Époque) : Krat devient un hub d'innovation. Geppetto (Parlement des Artisans) + famille Venigni
+  produisent des pantins (puppets) en masse, alimentés par l'Ergo et liés au Grand Covenant. Les pantins
+  assurent les tâches quotidiennes et le maintien de l'ordre (law enforcement automatisé). Les citoyens
+  apprennent à apprendre la liberté que cela leur offre, même si cela crée une imbalance sociale. Le jeune
+  Lorenzini Venigni (Fabrique Artisanale Venigni) conçoit le système de tram et le sous-marin Pistrus. La ville planifie la
+  Grande Exposition pour montrer le futur de l'automation et de l'Ergo au reste du monde.
+- Rôle des Old Families : les vieilles familles possédaient et dirigeaient des zones de Krat, mais leur
+  pouvoir déclin avec l'arrivée des Alchimistes et du Parlement des Artisans. Certaines familles (dont la famille V)
+  ont aidé les Alchimistes à éliminer des ouvriers de construction dans la Relique de Trismegistus, protégeant
+  la valeur secrète de la mine.
+- Maison de Charité Monad : la famille Monad fonde une maison de charité éducative pour les enfants pauvres de
+  Krat. Trois voies proposées : rôdeur, alchimiste, ou technicienne des artisans. Carlo et Romeo y sont élevés.
   Cf. Lieux/Rose_Estate_Monad_Charity_House.md.
-- Declin et chute : mort de Camille (epouse de Geppetto) -> eveil de l'Ego des pantins ->
-  experiences alchimiques sur l'Ergo -> Petrification Disease -> faux remedes qui tuent -> Carcasses ;
-  schisme Simon/Valentinus ; assaut de Simon sur la Rose Estate, la Monad Charity House et la cathedrale ;
-  Battle of the Workshop Tower (effondrement, shards de Crowd, decimation des stalkers) ; Law Zero de
-  Geppetto -> Puppet Frenzy declenchee par Romeo -> massacre de la population. Cf. SB3, SB6.
-- Grand Exhibition annule : l'evenement-showcase du futur n'aura jamais lieu, emporte par la maladie.
+- Déclin et chute : mort de Camille (épouse de Geppetto) -> éveil de l'Ego des pantins ->
+  expériences alchimiques sur l'Ergo -> Maladie de Pétrification -> faux remèdes qui tuent -> Carcasses ;
+  schisme Simon/Valentinus ; assaut de Simon sur le Domaine de la Rose, la Maison de Charité Monad et la cathédrale ;
+  Bataille de la Tour des Artisans (effondrement, shards de Crowd, décimation des rôdeurs) ; Loi Zéro de
+  Geppetto -> Frénésie des Pantins déclenchée par Romeo -> massacre de la population. Cf. SB3, SB6.
+- Grande Exposition annulée : l'événement-showcase du futur n'aura jamais lieu, emporté par la maladie.
   C'est durant le DLC Overture (avant cette annulation) que P voyage dans le temps.
-- Etat au debut du base game : ville devastee, pantins devenus hostiles (Frenzy), Carcasses errant dans
-  les rues, stargazers detruits, stalkers quasi disparus, loi et ordre absents.
+- État au début du base game : ville dévastée, pantins devenus hostiles (Frénésie), Carcasses errant dans
+  les rues, stargazers détruits, rôdeurs quasi disparus, loi et ordre absents.
 
 ## Faits canon
 
-- Krat = ville cotiere fictive, cadre de toute l'intrigue. Cf. SB0, SB3.
-- Charbon -> Ergo : transition economique et energetique totale grace a la Relic. Cf. SB3.
-- Mines de charbon fermees = origine du Barren Swamp (lieu de dechetterie de pantins mis au rebut). Cf. SB3.
-- Old Families : caretakers hereditaires ; pouvoir decline avec l'arrivee des Alchimistes et du Workshop.
-  La famille V impliquee dans l'elimination de temoins de la Relic. Cf. SB3, SB4.
-- Workshop Union (Geppetto + Venigni) : production de masse des pantins ; Lorenzini Venigni = fils de la
-  famille Venigni, inventeur du tram et du sous-marin Pistrus des 18 ans. Cf. Personnages/Lorenzini_Venigni.md.
-- Monad Charity House : fondee par la famille Monad, education en 3 voies (stalker / alchimiste / workshop
-  technician). Carlo et Romeo y grandissent. Cf. Lieux/Rose_Estate_Monad_Charity_House.md.
-- Battle of the Workshop Tower : shards de Crowd eruption -> effondrement de la tour -> nombreux morts,
-  stalkers quasi extermines. Cf. SB3, SB6.
-- Petrification Disease d'origine alchimique (spores d'Ergo manipulees). Faux remedes = Carcasses. Cf. SB1.
-- Puppet Frenzy : declenchee par Law Zero de Geppetto via Romeo. Romeo devient King of Puppets et se rebelle
+- Krat = ville côtière fictive, cadre de toute l'intrigue. Cf. SB0, SB3.
+- Charbon -> Ergo : transition économique et énergétique totale grâce à la Relique. Cf. SB3.
+- Mines de charbon fermées = origine du Marais Aride (lieu de déchetterie de pantins mis au rebut). Cf. SB3.
+- Old Families : caretakers héréditaires ; pouvoir décline avec l'arrivée des Alchimistes et du Parlement des Artisans.
+  La famille V impliquée dans l'élimination de témoins de la Relique. Cf. SB3, SB4.
+- Parlement des Artisans (Geppetto + Venigni) : production de masse des pantins ; Lorenzini Venigni = fils de la
+  famille Venigni, inventeur du tram et du sous-marin Pistrus dès 18 ans. Cf. Personnages/Lorenzini_Venigni.md.
+- Maison de Charité Monad : fondée par la famille Monad, éducation en 3 voies (rôdeur / alchimiste / technicienne des
+  artisans). Carlo et Romeo y grandissent. Cf. Lieux/Rose_Estate_Monad_Charity_House.md.
+- Bataille de la Tour des Artisans : shards de Crowd éruption -> effondrement de la tour -> nombreux morts,
+  rôdeurs quasi exterminés. Cf. SB3, SB6.
+- Maladie de Pétrification d'origine alchimique (spores d'Ergo manipulées). Faux remèdes = Carcasses. Cf. SB1.
+- Frénésie des Pantins : déclenchée par la Loi Zéro de Geppetto via Romeo. Romeo devient Roi des Pantins et se rebelle
   contre Geppetto, mais les pantins massacrent la population entre-temps. Cf. SB6, SB5.
-- Stargazers : invention des stalkers, installes dans toute la ville (Sweepers). Au reveil de P, tous
-  detruits. Le golden stargazer pres de la cathedrale permet le voyage temporel (DLC). Cf. SB5.
+- Stargazers : invention des rôdeurs, installés dans toute la ville (Balayeurs). Au réveil de P, tous
+  détruits. Le Stargazer doré près de la cathédrale permet le voyage temporel (DLC). Cf. SB5.
 - Simon Manus utilise une machine dans la tour de l'abbaye pour absorber tout l'Ergo de Krat. Cf. SB4.
-- Qualite de l'Ergo degradee par les experiences alchimiques -> defauts dans les pantins (rapport du
+- Qualité de l'Ergo dégradée par les expériences alchimiques -> défauts dans les pantins (rapport du
   factory manager de Venigni). Cf. SB5, Personnages/Lorenzini_Venigni.md.
-- Grand Exhibition : jamais tenu ; annulation due a la maladie. Krat etait prete a se presenter au monde.
+- Grande Exposition : jamais tenue ; annulation due à la maladie. Krat était prête à se présenter au monde.
   Cf. Lieux/Grand_Exhibition.md.
-- Cadre esthetique : Belle Epoque (1871-1914). Cf. SB0.
+- Cadre esthétique : Belle Époque (1871-1914). Cf. SB0.
 
 ## Liens
 
-- Relic of Trismegistus : gouffre sous la ville, mine d'Ergo, fondement economique. Cf. Lieux/Relic_of_Trismegistus.md.
-- Hotel Krat : refuge des survivants, au-dessus de la Relic. Cf. Lieux/Hotel_Krat.md.
-- Rose Estate / Monad Charity House : refuge des notables, education. Cf. Lieux/Rose_Estate_Monad_Charity_House.md.
-- Venigni Works : usine de Lorenzini Venigni. Cf. Lieux/Venigni_Works.md.
-- Grand Exhibition : showcase avorte. Cf. Lieux/Grand_Exhibition.md.
-- Quartiers detailles : cf. Lieux/Quartiers_de_Krat.md.
-- Ergo : fondement economique et energetique. Cf. Systemes/Ergo.md.
+- Relique de Trismegistus : gouffre sous la ville, mine d'Ergo, fondement économique. Cf. Lieux/Relic_of_Trismegistus.md.
+- Hôtel Krat : refuge des survivants, au-dessus de la Relique. Cf. Lieux/Hotel_Krat.md.
+- Domaine de la Rose / Maison de Charité Monad : refuge des notables, éducation. Cf. Lieux/Rose_Estate_Monad_Charity_House.md.
+- Fabrique Artisanale Venigni : usine de Lorenzini Venigni. Cf. Lieux/Venigni_Works.md.
+- Grande Exposition : showcase avorté. Cf. Lieux/Grand_Exhibition.md.
+- Quartiers détaillés : cf. Lieux/Quartiers_de_Krat.md.
+- Ergo : fondement économique et énergétique. Cf. Systemes/Ergo.md.
 - Alchimistes (l'Ordre) : principaux agents de la transformation et de la chute. Cf. Factions/Les_Alchimistes.md.
-- Workshop Union : producteurs de pantins. Cf. Factions/Workshop_Union.md.
-- Stalkers : protecteurs decimis. Cf. Factions/Les_Stalkers.md.
+- Parlement des Artisans : producteurs de pantins. Cf. Factions/Workshop_Union.md.
+- Rôdeurs : protecteurs décimés. Cf. Factions/Les_Stalkers.md.
 
-## Sort connu / Etat
+## Sort connu / État
 
-- Base game : Krat est en ruines. Puppet Frenzy active, Carcasses dans les rues, law enforcement absent,
-  stalkers quasi inexistants, stargazers detruits. Population en grande partie morte ou mutee.
-- Post-jeu : etat indetermine selon la fin choisie. Geppetto evoquait vouloir "stabiliser Krat" dans la
+- Base game : Krat est en ruines. Frénésie des Pantins active, Carcasses dans les rues, law enforcement absent,
+  rôdeurs quasi inexistants, stargazers détruits. Population en grande partie morte ou mutée.
+- Post-jeu : état indéterminé selon la fin choisie. Geppetto évoquait vouloir "stabiliser Krat" dans la
   lettre Bad Ending (cf. Personnages/Giuseppe_Geppetto.md). Le sequel (teaser Dorothy) laisse la ville dans
-  un etat ouvert. [INCERTAIN] sur la reconstruction.
+  un état ouvert. [INCERTAIN] sur la reconstruction.
 
 ---
 

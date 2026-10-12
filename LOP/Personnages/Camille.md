@@ -1,71 +1,72 @@
 # Camille
 
-- version : W4
+- version : W5
+- note W5 : forage 5.1. Camille = mentor de Markiona (ACTÉ par le worldbuilder ; était [INCERTAIN]). Parlement des Artisans (VO : Workshop Union). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
-## Identite
+## Identité
 
-- Nom canon : Camille (epouse de Geppetto). UNE SEULE personne, deux corps successifs ; le wiki distingue les deux supports par une convention de nommage interne :
-  1. CAMILLE (humaine) : epouse de Giuseppe Geppetto, ingenieure et alchimiste brillante. Mere de Carlo.
-  2. CAMIL (pantin) : le pantin-servante anime par l'Ergo de Camille. "Camil" = etiquette interne du wiki pour ce support-pantin, PAS un autre individu.
-- Convention de nommage : "Camille" = l'humaine, "Camil" = le pantin de son Ergo. NB : convention INTERNE du wiki ; la source ecrit "Camille" pour les deux (cf. doc d'interrogatoire "Camille, the secret maid puppet", Systemes/Gold_Coin_Tree.md).
-- Statut : morte avant le debut du jeu (accident lors des Listener experiments aux Zelator labs).
-- Couverture de sa mort : fausse catastrophe de paquebot (signalement indirect que Camille etait a bord).
+- Nom canon : Camille (épouse de Geppetto). UNE SEULE personne, deux corps successifs ; le wiki distingue les deux supports par une convention de nommage interne :
+  1. CAMILLE (humaine) : épouse de Giuseppe Geppetto, ingénieure et alchimiste brillante. Mère de Carlo.
+  2. CAMIL (pantin) : le pantin-servante animé par l'Ergo de Camille. "Camil" = étiquette interne du wiki pour ce support-pantin, PAS un autre individu.
+- Convention de nommage : "Camille" = l'humaine, "Camil" = le pantin de son Ergo. NB : convention INTERNE du wiki ; la source écrit "Camille" pour les deux (cf. doc d'interrogatoire "Camille, the secret maid puppet", Systemes/Gold_Coin_Tree.md).
+- Statut : morte avant le début du jeu (accident lors des expériences sur les Oreilles aux Zelator labs).
+- Couverture de sa mort : fausse catastrophe de paquebot (signalement indirect que Camille était à bord).
 
-## Role
+## Rôle
 
 ### Camille (humaine)
 
-- Ingenieure et alchimiste brillante. Creee la "Saintess of Mercy" statue (oeuvre majeure de Krat).
-- Epouse de Geppetto. Mere de Carlo.
-- Decede dans un accident lors des Listener experiments aux Zelator labs : "une erreur et une negligence des chercheurs a cause sa mort." L'Ordre couvre la cause reelle via un faux desastre de paquebot.
-- Valentinus Monad ecrit a Geppetto pour exprimer ses condoleances et assurer le support de l'Ordre pour les funerailles. Il souligne le "bon rapport entre le Workshop et l'Ordre".
-- Sa mort effondre Geppetto et amorce sa quete (travail avec les Alchimistes, listener experiments, pantin Camil) ; mais c'est la mort de CARLO qui declenchera le PLAN complet (Puppet Frenzy, P, Law Zero) -- quand Geppetto n'a plus rien a perdre. Camille est la PREMIERE perte de la famille, pas le declencheur final.
-- [THEORIE source] Camille etait peut-etre enceinte a sa mort. Le dessin que Rosaura donne a P (famille heureuse : Geppetto, Camille, Carlo, Rosaura) semble montrer Camille enceinte. Si oui : l'enfant non-ne, porteur de capacites Listener, aurait ete transforme en Gold Coin Tree (celui que P voit dans la Zelator Facility). cf. SB5, Systemes/Gold_Coin_Tree.md.
+- Ingénieure et alchimiste brillante. Crée la statue de la "sainte de la miséricorde" (oeuvre majeure de Krat).
+- Épouse de Geppetto. Mère de Carlo.
+- Décède dans un accident lors des expériences sur les Oreilles aux Zelator labs : "une erreur et une négligence des chercheurs a causé sa mort." L'Ordre couvre la cause réelle via un faux désastre de paquebot.
+- Valentinus Monad écrit à Geppetto pour exprimer ses condoléances et assurer le support de l'Ordre pour les funérailles. Il souligne le "bon rapport entre le Parlement des Artisans et l'Ordre".
+- Sa mort effondre Geppetto et amorce sa quête (travail avec les Alchimistes, expériences sur les Oreilles, pantin Camil) ; mais c'est la mort de CARLO qui déclenchera le PLAN complet (Frénésie des Pantins, P, Loi Zéro) -- quand Geppetto n'a plus rien à perdre. Camille est la PREMIÈRE perte de la famille, pas le déclencheur final.
+- [THÉORIE source] Camille était peut-être enceinte à sa mort. Le dessin que Rosaura donne à P (famille heureuse : Geppetto, Camille, Carlo, Rosaura) semble montrer Camille enceinte. Si oui : l'enfant non-né, porteur de capacités Oreille, aurait été transformé en Arbre à Fruits d'Or (celui que P voit dans la Zelator Facility). cf. SB5, Systemes/Gold_Coin_Tree.md.
 
-### Camil (pantin maid / Listener)
+### Camil (pantin maid / Oreille)
 
-- Pantin maid qui developpe un Ego eveille : attrape un bebe tombant de son berceau -> commence a comprendre le langage humain.
-- Cet eveil est le premier signe observe que les pantins alimentes par l'Ergo developpent un Ego. cf. SB1.
-- L'Ergo de Camil est pense etre l'Ergo / l'esprit de Camille (l'epouse humaine). Geppetto a travaille avec les Alchimistes precisement dans l'espoir de "faire vivre Camille" via ce pantin.
-- Camil etait elle-meme une Listener (capacite detenue par certains humains). Les Alchimistes apprennent cela et l'experimentent sur elle -> c'est l'accident qui cause la mort de Camille (humaine).
-- Camil dit les mots : "Renvoie-moi aupres de mon enfant" (Send me back to my child). Ces mots poussent Geppetto a formuler son plan de resurrection de Carlo.
-- Markiona (ancienne technicienne du Workshop Union) a decouvert le pantin qui deviendrait Camil. Pour elle, c'etait un signe de Dieu montrant le potentiel de l'immortalite. Cette decouverte l'a poussee vers les Alchimistes. [DIVERGENCE RP] Camil -- une personne preservee dans un second corps via l'Ergo -- est le PROTOTYPE canon de ce que P sera (l'identite d'un mort portee par l'Ergo), et l'etincelle de toute la chaine createur/creature. cf. Systemes/Genies_et_Chef_D_Oeuvres.md.
-- Un document d'interrogatoire alchimiste suggere que l'Ergo de Camil etait celui d'une personne qui aurait "eleve" Markiona -> possible lien mentor/eleve entre Camille et Markiona avant la mort de Camille. [INCERTAIN / interpretation de la source]
+- Pantin maid qui développe un Ego éveillé : attrape un bébé tombant de son berceau -> commence à comprendre le langage humain.
+- Cet éveil est le premier signe observé que les pantins alimentés par l'Ergo développent un Ego. cf. SB1.
+- L'Ergo de Camil est pensé être l'Ergo / l'esprit de Camille (l'épouse humaine). Geppetto a travaillé avec les Alchimistes précisément dans l'espoir de "faire vivre Camille" via ce pantin.
+- Camil était elle-même une Oreille (capacité détenue par certains humains). Les Alchimistes apprennent cela et l'expérimentent sur elle -> c'est l'accident qui cause la mort de Camille (humaine).
+- Camil dit les mots : "Renvoie-moi auprès de mon enfant" (Send me back to my child). Ces mots poussent Geppetto à formuler son plan de résurrection de Carlo.
+- Markiona (ancienne technicienne du Parlement des Artisans) a découvert le pantin qui deviendrait Camil. Pour elle, c'était un signe de Dieu montrant le potentiel de l'immortalité. Cette découverte l'a poussée vers les Alchimistes. [DIVERGENCE RP] Camil -- une personne préservée dans un second corps via l'Ergo -- est le PROTOTYPE canon de ce que P sera (l'identité d'un mort portée par l'Ergo), et l'étincelle de toute la chaîne créateur/créature. cf. Systemes/Genies_et_Chef_D_Oeuvres.md.
+- Un document d'interrogatoire alchimiste suggère que l'Ergo de Camil était celui d'une personne qui aurait "élevé" Markiona -> lien mentor/élève entre Camille et Markiona avant la mort de Camille. [DIVERGENCE RP - acté] Camille fut la MENTOR de Markiona (décision du worldbuilder ; l'indice canon reste une interprétation de la source).
 
-## Capacites
+## Capacités
 
-- Camille (humaine) : ingenieure de haut niveau, alchimiste. Creee la Saintess of Mercy statue (prouesse technique et artistique). Capacite Listener (selon les experiences alchimistes qui lui ont coute la vie).
-- Camil (pantin) : Listener -> peut communiquer avec l'Ergo, developpe la comprehension du langage humain. Ego eveille. Capacites de manipulation temporelle liees a etre Listener. cf. SB1, Systemes/Listeners.md.
+- Camille (humaine) : ingénieure de haut niveau, alchimiste. Crée la statue de la sainte de la miséricorde (prouesse technique et artistique). Capacité d'Oreille (selon les expériences alchimistes qui lui ont coûté la vie).
+- Camil (pantin) : Oreille -> peut communiquer avec l'Ergo, développe la compréhension du langage humain. Ego éveillé. Capacités de manipulation temporelle liées à être Oreille. cf. SB1, Systemes/Listeners.md.
 
 ## Psychologie
 
-- Camille (humaine) : [INCERTAIN] peu d'elements directs sur sa personnalite dans la source. Decrite uniquement par son excellence (ingenieure/alchimiste), sa creation (statue), et le fait que Geppetto s'est effondre a sa mort.
-- L'Ergo de Camille dans Camil (pantin) : la phrase "Renvoie-moi aupres de mon enfant" suggere que l'essence de Camille preserve un lien maternel avec Carlo, meme apres la mort et la transition en Ergo.
-- La mort de Camille dechire Geppetto : "depuis que Camille est morte, je ne reconnais plus le monde."
+- Camille (humaine) : [INCERTAIN] peu d'éléments directs sur sa personnalité dans la source. Décrite uniquement par son excellence (ingénieure/alchimiste), sa création (statue), et le fait que Geppetto s'est effondré à sa mort.
+- L'Ergo de Camille dans Camil (pantin) : la phrase "Renvoie-moi auprès de mon enfant" suggère que l'essence de Camille préserve un lien maternel avec Carlo, même après la mort et la transition en Ergo.
+- La mort de Camille déchire Geppetto : "depuis que Camille est morte, je ne reconnais plus le monde."
 
 ## Relations
 
-- Geppetto (epoux) : sa mort est l'evenement fondateur de toute l'obsession de Geppetto. Geppetto "travaillait avec les Alchimistes dans son desir et sa desperation que Camille vive, d'une certaine facon." [DIVERGENCE RP] Mais il ne peut plus la ressusciter : le cristal d'Ergo de Camille est passe entre les mains de Markiona, et Geppetto le croit detruit. Camille est, pour lui, definitivement perdue ; toute son energie se reporte sur Carlo.
-- Carlo (fils) : sa mort prive Carlo de sa mere et indirectement de son pere (Geppetto s'effondre et abandonne Carlo).
-- Markiona (lien indirect) : Markiona decouvre le pantin qui deviendra Camil. Son Ergo aurait pu etre celui d'une personne ayant eleve Markiona. [INCERTAIN] [DIVERGENCE RP] Markiona detient le cristal d'Ergo de Camille (cf. Sort connu). cf. Personnages/Markiona.md.
-- Sophia Monad (lien systemique) : les Listener experiments qui ont cause la mort de Camille visaient a lier les Listeners aux reliques des Great Ones. Sophia est l'autre Listener du jeu. cf. Personnages/Sophia_Monad.md.
-- Valentinus Monad : condoleances officielles ; bon rapport entre le Workshop et l'Ordre confirme.
+- Geppetto (époux) : sa mort est l'événement fondateur de toute l'obsession de Geppetto. Geppetto "travaillait avec les Alchimistes dans son désir et sa desperation que Camille vive, d'une certaine façon." [DIVERGENCE RP] Mais il ne peut plus la ressusciter : le cristal d'Ergo de Camille est passé entre les mains de Markiona, et Geppetto le croit détruit. Camille est, pour lui, définitivement perdue ; toute son énergie se reporte sur Carlo.
+- Carlo (fils) : sa mort prive Carlo de sa mère et indirectement de son père (Geppetto s'effondre et abandonne Carlo).
+- Markiona (lien indirect) : Markiona découvre le pantin qui deviendra Camil. [DIVERGENCE RP - acté] Camille fut sa MENTOR : en 1852, Markiona refuse de livrer ses secrets à Geppetto, "le veuf de feue sa mentor". [DIVERGENCE RP] Markiona détient le cristal d'Ergo de Camille (cf. Sort connu). cf. Personnages/Markiona.md.
+- Sophia Monad (lien systémique) : les expériences sur les Oreilles qui ont causé la mort de Camille visaient à lier les Oreilles aux reliques des Great Ones. Sophia est l'autre Oreille du jeu. cf. Personnages/Sophia_Monad.md.
+- Valentinus Monad : condoléances officielles ; bon rapport entre le Parlement des Artisans et l'Ordre confirmé.
 
 ## Sort connu
 
-- Camille (humaine) : morte lors des Listener experiments aux Zelator labs. Mort couverte par un faux desastre de paquebot.
-- Camil (pantin) : sort final apres les experiments non explicite dans la source. Probablement disparait dans les Zelator labs apres les experiences.
-- L'Ergo / l'essence de Camille : potentiellement perpetuee dans le pantin Camil, puis dispersee ou transmise. Lien avec le Gold Coin Tree possible. [THEORIE] cf. Systemes/Gold_Coin_Tree.md.
-- [DIVERGENCE RP] Le cristal d'Ergo de Camille -- contenant son Ergo ET son ego, preleve dans Camil (a DISTINGUER de l'Ergo pur jamais habite dont nait Magnus) -- est entre les mains de Markiona ; Geppetto le croit detruit. C'est pourquoi il ne tente jamais de ressusciter Camille (a la difference de Carlo). Le devenir de ce cristal est un fil de roadmap (cf. _Implications). cf. Personnages/Markiona.md, Personnages/Magnus.md.
+- Camille (humaine) : morte lors des expériences sur les Oreilles aux Zelator labs. Mort couverte par un faux désastre de paquebot.
+- Camil (pantin) : sort final après les expériences non explicite dans la source. Probablement disparaît dans les Zelator labs après les expériences.
+- L'Ergo / l'essence de Camille : potentiellement perpétuée dans le pantin Camil, puis dispersée ou transmise. Lien avec l'Arbre à Fruits d'Or possible. [THÉORIE] cf. Systemes/Gold_Coin_Tree.md.
+- [DIVERGENCE RP] Le cristal d'Ergo de Camille -- contenant son Ergo ET son ego, prélevé dans Camil (à DISTINGUER de l'Ergo pur jamais habité dont naît Magnus) -- est entre les mains de Markiona ; Geppetto le croit détruit. C'est pourquoi il ne tente jamais de ressusciter Camille (à la différence de Carlo). Le devenir de ce cristal est un fil de roadmap (cf. _Implications). cf. Personnages/Markiona.md, Personnages/Magnus.md.
 
-## Trajectoire datee
+## Trajectoire datée
 
-| Date/ere | Evenement | Delta d'etat |
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| Pre-jeu | Ingenieure/alchimiste brillante ; epouse de Geppetto ; cree la Saintess of Mercy statue | Humaine active |
-| Pre-jeu | Morte dans accident aux Zelator labs (Listener experiments) | Decedee ; Ergo potentiellement transmis a Camil |
-| Post-mort | L'Ergo de Camil = pense etre celui de Camille ; Camil dit "Renvoie-moi aupres de mon enfant" | Presence via Ergo du pantin |
-| (vide - alimentee a chaud par les roadmaps) | | |
+| Pré-jeu | Ingénieure/alchimiste brillante ; épouse de Geppetto ; crée la statue de la sainte de la miséricorde | Humaine active |
+| Pré-jeu | Morte dans accident aux Zelator labs (expériences sur les Oreilles) | Décédée ; Ergo potentiellement transmis à Camil |
+| Post-mort | L'Ergo de Camil = pensé être celui de Camille ; Camil dit "Renvoie-moi auprès de mon enfant" | Présence via Ergo du pantin |
+| (vide - alimentée à chaud par les roadmaps) | | |
 
 ---
 

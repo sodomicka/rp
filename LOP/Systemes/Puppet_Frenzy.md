@@ -1,88 +1,89 @@
-# Puppet Frenzy
+# Frénésie des Pantins
 
-- version : W1
+- version : W2
+- note W2 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
 
-- Phenomene par lequel tous les pantins de Krat deviennent frenetiques et attaquent les humains (et tout ce qu'ils voient) de facon indiscriminee, massacrant la population.
-- Evenement central du base game ; commence avant le reveil de P a Krat Central Station.
+- Phénomène par lequel tous les pantins de Krat deviennent frénétiques et attaquent les humains (et tout ce qu'ils voient) de façon indiscriminée, massacrant la population.
+- Événement central du base game ; commence avant le réveil de P à la Gare Centrale.
 
 ## Description / Histoire
 
-- La Puppet Frenzy est un evenement planifie et deliberement declenche par Geppetto via l'execution de Law Zero du Grand Covenant.
-- Objectif de Geppetto : recolter une quantite enorme d'Ergo pour ressusciter son fils Carlo, tout en faisant porter la responsabilite sur Romeo (le King of Puppets) pour se disculper.
+- La Frénésie des Pantins (VO : Puppet Frenzy) est un événement planifié et délibérément déclenché par Geppetto via l'exécution de la Loi Zéro du Grand Covenant.
+- Objectif de Geppetto : récolter une quantité énorme d'Ergo pour ressusciter son fils Carlo, tout en faisant porter la responsabilité sur Romeo (le Roi des Pantins) pour se disculper.
 
-### Mecanisme de declenchement
+### Mécanisme de déclenchement
 
-1. Geppetto execute Law Zero : "le nom du createur est Geppetto" -> tous les pantins lui obeissent (cf. Systemes/Grand_Covenant.md).
-2. Romeo, alors transforme en pantin et lie par le Grand Covenant, commande aux pantins de tuer les humains.
-3. Les pantins se soulvent et massacrent la population de Krat.
-4. Geppetto recolte l'Ergo libere par les morts pour son plan de resurrection de Carlo.
+1. Geppetto exécute la Loi Zéro : "le nom du créateur est Geppetto" -> tous les pantins lui obéissent (cf. Systemes/Grand_Covenant.md).
+2. Romeo, alors transformé en pantin et lié par le Grand Covenant, commande aux pantins de tuer les humains.
+3. Les pantins se soulèvent et massacrent la population de Krat.
+4. Geppetto récolte l'Ergo libéré par les morts pour son plan de résurrection de Carlo.
 
-### Romeo et la Frenzy
+### Romeo et la Frénésie
 
-- Romeo est transforme en pantin par Geppetto juste avant la Frenzy. Il mourait de la Petrification Disease et a accepte la transformation.
-- Geppetto complote : forcer Romeo a mener les pantins -> Romeo devient le bouc emissaire, pas Geppetto. En plus, cela prive les Alchimistes d'Ergo.
-- Apres la transformation, Romeo retrouve graduellement ses memoires, comprend le plan de Geppetto, et se rebelle. Il devient alors le King of Puppets.
-- Romeo mene ensuite les pantins contre Geppetto, les Alchimistes ET les Carcasses (il se retourne contre son commanditaire).
-- Romeo tend la main a P (il ne veut pas le combattre) car P contient l'Ergo de Carlo -- Romeo reconnait en P son ami d'enfance.
-- Romeo met en scene un spectacle a l'Estella Opera House pour donner un indice a P sur ce que fait Geppetto.
+- Romeo est transformé en pantin par Geppetto juste avant la Frénésie. Il mourait de la Maladie de Pétrification et a accepté la transformation.
+- Geppetto complote : forcer Romeo à mener les pantins -> Romeo devient le bouc émissaire, pas Geppetto. En plus, cela prive les Alchimistes d'Ergo.
+- Après la transformation, Romeo retrouve graduellement ses mémoires, comprend le plan de Geppetto, et se rebelle. Il devient alors le Roi des Pantins.
+- Romeo mène ensuite les pantins contre Geppetto, les Alchimistes ET les Carcasses (il se retourne contre son commanditaire).
+- Romeo tend la main à P (il ne veut pas le combattre) car P contient l'Ergo de Carlo -- Romeo reconnaît en P son ami d'enfance.
+- Romeo met en scène un spectacle à l'Opéra Estella pour donner un indice à P sur ce que fait Geppetto.
 
 ### Les Messagers de Romeo
 
 - Romeo tente de communiquer avec P tout au long du jeu (les boss que P combat = les "messagers" de Romeo).
-- P ne comprend pas leurs messages car il n'a pas encore l'Ergo Wavelength Decoder.
-- Romeo envoie le Parade Master, le Scrapped Watchman (Murphy), et Fuoco comme ses "meilleurs pantins" -> ces messagers deviennent des boss de jeu.
-- Romeo message decode : "Carlo, I hope you can hear me. The laws of the Grand Covenant bind us. We're his puppets."
-- Message direct a P : "Carlo, I'm Romeo. We grew up together in the Monad Charity House. Remember? We're best friends. I'm doing what I can to fend off both the petrification disease and the alchemists. That's why I tried sending you messengers. But you got rid of them."
+- P ne comprend pas leurs messages car il n'a pas encore le décodeur d'onde Ergo.
+- Romeo envoie le Maître du Défilé, le Veilleur Désarticulé (Murphy), et Fuoco comme ses "meilleurs pantins" -> ces messagers deviennent des boss de jeu.
+- Romeo message décodé : "Carlo, I hope you can hear me. The laws of the Grand Covenant bind us. We're his puppets."
+- Message direct à P : "Carlo, I'm Romeo. We grew up together in the Monad Charity House. Remember? We're best friends. I'm doing what I can to fend off both the petrification disease and the alchemists. That's why I tried sending you messengers. But you got rid of them."
 
 ### Fuoco et la fabrique
 
-- Fuoco (King's Flame) = pantin affecte a la garde des flammes de Venigni Works.
-- Note de Decart : Fuoco a developpe une "foi" en un dieu = le King of Puppets.
-- En entendant les mots de Romeo via les ondes Ergo, Fuoco prend le controle de l'usine pour produire plus de pantins pour la revolte de Romeo.
+- Fuoco (Flamme du Roi) = pantin affecté à la garde des flammes de la Fabrique Artisanale Venigni.
+- Note de Decart : Fuoco a développé une "foi" en un dieu = le Roi des Pantins.
+- En entendant les mots de Romeo via les ondes Ergo, Fuoco prend le contrôle de l'usine pour produire plus de pantins pour la révolte de Romeo.
 
-### Consequences de la Frenzy
+### Conséquences de la Frénésie
 
 - Massacres dans toute la ville de Krat.
-- Les stalkers, envoyes pour proteger les habitants, sont decimes (Battle of the Workshop Tower).
-- Plus de law enforcement (entierement automatise par des pantins desormais frenetiques).
-- Contexte dans lequel P est eveille par Sophia pour aider a contenir la situation.
+- Les rôdeurs, envoyés pour protéger les habitants, sont décimés (Bataille de la Tour des Artisans).
+- Plus de law enforcement (entièrement automatisé par des pantins désormais frénétiques).
+- Contexte dans lequel P est éveillé par Sophia pour aider à contenir la situation.
 
-### Apres la mort du King of Puppets
+### Après la mort du Roi des Pantins
 
-- Geppetto (apres la mort de Romeo) : "Maintenant que le King of Puppets est mort, les pantins leaderless devraient se calmer progressivement."
-- La Frenzy ne disparait pas instantanement ; les pantins restants sont "confus et sans chef".
+- Geppetto (après la mort de Romeo) : "Maintenant que le Roi des Pantins est mort, les pantins leaderless devraient se calmer progressivement."
+- La Frénésie ne disparaît pas instantanément ; les pantins restants sont "confus et sans chef".
 
 ### Les Messagers comme signal d'alarme non compris
 
 - "These messengers that P kept destroying were the bosses that he fought and killed. This is why during those fights they appear to say things to P, but he cannot understand them as at this point he doesn't yet have Venigni's erggo wavelength detector."
-- Une fois le decoder obtenu, P comprend les wavelengths : le message de Romeo = Romeo voulait aider P, pas lui nuire.
+- Une fois le décodeur obtenu, P comprend les ondes : le message de Romeo = Romeo voulait aider P, pas lui nuire.
 
 ## Faits canon
 
-- Declenchee deliberement par Geppetto via Law Zero.
-- Romeo transforme en pantin = vecteur de la Frenzy, puis rebelle contre Geppetto.
-- Fuoco, Parade Master, Scrapped Watchman = "meilleurs pantins" de Romeo, envoyes comme messagers.
-- P detruit ces messagers sans comprendre leur nature jusqu'a avoir le decoder.
-- La Frenzy commence avant le reveil de P (debut in medias res du jeu).
-- Romeo reconnait l'Ergo de Carlo dans P -> ne veut pas se battre contre lui.
-- Romeo : "No reason for us to fight. I suppose I'm Romeo. We grew up together." (tendant la main a P).
+- Déclenchée délibérément par Geppetto via la Loi Zéro.
+- Romeo transformé en pantin = vecteur de la Frénésie, puis rebelle contre Geppetto.
+- Fuoco, Maître du Défilé, Veilleur Désarticulé = "meilleurs pantins" de Romeo, envoyés comme messagers.
+- P détruit ces messagers sans comprendre leur nature jusqu'à avoir le décodeur.
+- La Frénésie commence avant le réveil de P (début in medias res du jeu).
+- Romeo reconnaît l'Ergo de Carlo dans P -> ne veut pas se battre contre lui.
+- Romeo : "No reason for us to fight. I suppose I'm Romeo. We grew up together." (tendant la main à P).
 
 ## Liens
 
-- Grand Covenant / Law Zero : mecanisme declencheur (cf. Systemes/Grand_Covenant.md).
-- Geppetto : commanditaire de la Frenzy (cf. Personnages/Giuseppe_Geppetto.md).
-- Romeo / King of Puppets : executeur malgre lui, puis rebelle (cf. Personnages/Romeo.md).
-- Ergo Wavelength Decoder : outil qui revele la nature des messagers (cf. Objets/Objets_et_Reliques.md).
-- Stalkers : decimes pendant la Frenzy (cf. Factions/Les_Stalkers.md).
-- Petrification Disease : fleau simultane (cf. Systemes/Petrification_Disease.md).
+- Grand Covenant / Loi Zéro : mécanisme déclencheur (cf. Systemes/Grand_Covenant.md).
+- Geppetto : commanditaire de la Frénésie (cf. Personnages/Giuseppe_Geppetto.md).
+- Romeo / Roi des Pantins : exécuteur malgré lui, puis rebelle (cf. Personnages/Romeo.md).
+- Décodeur d'onde Ergo : outil qui révèle la nature des messagers (cf. Objets/Objets_et_Reliques.md).
+- Rôdeurs : décimés pendant la Frénésie (cf. Factions/Les_Stalkers.md).
+- Maladie de Pétrification : fléau simultané (cf. Systemes/Petrification_Disease.md).
 
-## Sort connu / Etat
+## Sort connu / État
 
-- La Frenzy s'attenue apres la defaite de Romeo (King of Puppets) -> pantins "leaderless".
-- Geppetto reste la cause non reconnue publiquement jusqu'a la revelation de Law Zero.
-- Post-Frenzy : Krat en ruines, double frappe de la maladie et de la Frenzy.
+- La Frénésie s'atténue après la défaite de Romeo (Roi des Pantins) -> pantins "leaderless".
+- Geppetto reste la cause non reconnue publiquement jusqu'à la révélation de la Loi Zéro.
+- Post-Frénésie : Krat en ruines, double frappe de la maladie et de la Frénésie.
 
 ---
 

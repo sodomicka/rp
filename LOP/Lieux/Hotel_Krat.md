@@ -1,105 +1,106 @@
-# Hotel Krat
+# Hôtel Krat
 
-- version : W1
+- version : W2
+- note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
 
-- Ancien chateau d'aristocrate occultiste transforme successivement en asile, en etablissement de
-  rehabilitation, puis en hotel de luxe. Situe au-dessus de la Relic of Trismegistus. Refuge principal
+- Ancien château d'aristocrate occultiste transformé successivement en asile, en établissement de
+  réhabilitation, puis en hôtel de luxe. Situé au-dessus de la Relique de Trismegistus. Refuge principal
   des survivants durant la crise.
-- Bati autour d'un arbre lumineux et radieux : le Gold Coin Tree. Cf. Systemes/Gold_Coin_Tree.md.
+- Bâti autour d'un arbre lumineux et radieux : l'Arbre à Fruits d'Or. Cf. Systemes/Gold_Coin_Tree.md.
 
 ## Description / Histoire
 
-- Origines (chateau occultiste) : l'Hotel Krat etait initialement un chateau bati par un aristocrate
-  occultiste. Il etait centre sur un arbre brillant et rayonnant, le Gold Coin Tree. Le chateau fut
-  detruit dans un incendie. Repute connecte a \"un enfer inconnu\". Source : Vini's Landmark Guide
+- Origines (château occultiste) : l'Hôtel Krat était initialement un château bâti par un aristocrate
+  occultiste. Il était centré sur un arbre brillant et rayonnant, l'Arbre à Fruits d'Or. Le château fut
+  détruit dans un incendie. Réputé connecté à \"un enfer inconnu\". Source : Vini's Landmark Guide
   (mention in-game).
-- Renovation Belle Epoque : le chateau est renove dans un style Belle Epoque. Sa legende obscure renforce
-  paradoxalement son attrait. Il devient un asile (insane asylum), puis un etablissement de rehabilitation,
-  puis est achete par une femme tres aisee (Antonia), renove et transforme en hotel. L'hotel recoit
+- Rénovation Belle Époque : le château est rénové dans un style Belle Époque. Sa légende obscure renforce
+  paradoxalement son attrait. Il devient un asile (insane asylum), puis un établissement de réhabilitation,
+  puis est acheté par une femme très aisée (Antonia), rénové et transformé en hôtel. L'hôtel reçoit
   d'excellentes critiques de ses clients.
-- Lien avec la Relic of Trismegistus : l'Hotel Krat est situe directement au-dessus du puits de la Relic.
-  L'ascenseur interne descend normalement vers la Relic. Les Alchimistes et l'hotel collaborent autour
-  de l'exploitation de la mine d'Ergo. Les Zelator labs (laboratoires d'experiences sur les Listeners)
-  sont localises sous l'hotel (DLC : l'ascenseur mene aux Zelator labs au lieu de la Relic). Cf. SB1, SB3.
-- Gold Coin Tree : l'arbre se trouve dans les jardins de l'hotel depuis toujours. Sa presence est la raison
-  pour laquelle le chateau a ete bati a cet emplacement. Le Gold Coin Tree blossoms quand la peste frappe
-  les terres (selon les recits). Giangio (Philip Paracelsus) cherche a cueillir son fruit, mais l'arbre
-  brule sa main -> P est envoye le cueillir a sa place. Selon Sophia, le Gold Coin Tree est une creature
-  pathethique creee par les Alchimistes a partir de Listeners ("les larmes tristes de ceux devenus arbres").
+- Lien avec la Relique de Trismegistus : l'Hôtel Krat est situé directement au-dessus du puits de la Relique.
+  L'ascenseur interne descend normalement vers la Relique. Les Alchimistes et l'hôtel collaborent autour
+  de l'exploitation de la mine d'Ergo. Les Zelator labs (laboratoires d'expériences sur les Oreilles)
+  sont localisés sous l'hôtel (DLC : l'ascenseur mène aux Zelator labs au lieu de la Relique). Cf. SB1, SB3.
+- Arbre à Fruits d'Or : l'arbre se trouve dans les jardins de l'hôtel depuis toujours. Sa présence est la raison
+  pour laquelle le château a été bâti à cet emplacement. L'Arbre à Fruits d'Or blossoms quand la peste frappe
+  les terres (selon les récits). Giangio (Philip Paracelsus) cherche à cueillir son fruit, mais l'arbre
+  brûle sa main -> P est envoyé le cueillir à sa place. Selon Sophia, l'Arbre à Fruits d'Or est une créature
+  pathétique créée par les Alchimistes à partir d'Oreilles ("les larmes tristes de ceux devenus arbres").
   Cf. Systemes/Gold_Coin_Tree.md, Systemes/Listeners.md.
-- Zelator labs (sous l'hotel) : laboratoires des Alchimistes destines aux experiences sur les Listeners.
-  Camil etait une Listener ; elle y a ete experimentee ; une erreur des chercheurs causa la mort de
-  Camille. L'Ordre couvrit la cause reelle. Certaines vieilles familles de Krat cherchaient a en savoir
+- Zelator labs (sous l'hôtel) : laboratoires des Alchimistes destinés aux expériences sur les Oreilles.
+  Camil était une Oreille ; elle y a été expérimentée ; une erreur des chercheurs causa la mort de
+  Camille. L'Ordre couvrit la cause réelle. Certaines vieilles familles de Krat cherchaient à en savoir
   plus sur ces labs. Cf. Lieux/Zelator_Facility.md.
-- Stargazer de l'hotel : le plus grand stargazer vu dans le jeu, situe dans l'hotel. Ses cadrans bougent
-  avec la progression du joueur = indicateur de la boucle temporelle. Permet la teleportation entre
-  stargazers actifs. DLC : P recoit un Stars Chrysalis au stargazer de l'hotel -> vision du golden
-  stargazer pres de la cathedrale -> voyage dans le temps (passe, zoo intact). Cf. SB5.
-- Refuge des survivants (base game) : dans la crise, l'hotel devient le seul sanctuaire de Krat.
-  Antonia (proprietaire, malade de la Petrification Disease) y accueille Sophia (projection spectrale),
-  Polendina (majordome pantin), Eugenie (armurier), Geppetto, Lorenzini Venigni, Pulsella, Alidoro
-  (si P l'y amene), le Tracker (fin DLC, si P l'y amene).
-- Premier mensonge de P : a l'entree, les pantins ne sont pas admis. P est questionne ("es-tu humain ?").
-  S'il ment et repond qu'il est humain, il entre. Premier mensonge volontaire de P, declencheur de son
+- Stargazer de l'hôtel : le plus grand stargazer vu dans le jeu, situé dans l'hôtel. Ses cadrans bougent
+  avec la progression du joueur = indicateur de la boucle temporelle. Permet la téléportation entre
+  stargazers actifs. DLC : P reçoit une Chrysalide stellaire au stargazer de l'hôtel -> vision du
+  Stargazer doré près de la cathédrale -> voyage dans le temps (passé, zoo intact). Cf. SB5.
+- Refuge des survivants (base game) : dans la crise, l'hôtel devient le seul sanctuaire de Krat.
+  Antonia (propriétaire, malade de la Maladie de Pétrification) y accueille Sophia (projection spectrale),
+  Polendina (majordome pantin), Eugénie (armurier), Geppetto, Lorenzini Venigni, Pulsella, Alidoro
+  (si P l'y amène), le Limier (fin DLC, si P l'y amène).
+- Premier mensonge de P : à l'entrée, les pantins ne sont pas admis. P est questionné ("es-tu humain ?").
+  S'il ment et répond qu'il est humain, il entre. Premier mensonge volontaire de P, déclencheur de son
   humanisation. Cf. Systemes/Humanity_System.md, SB5.
-- Atelier de Geppetto : Geppetto s'installe dans une chambre superieure de l'hotel comme atelier.
-- Portrait de Carlo : P trouve un portrait a l'hotel de ville qui ressemble a lui-meme (image de Carlo) ;
-  le donne a Geppetto qui est pris de court. L'histoire du portrait est liee au plan de resurrection
+- Atelier de Geppetto : Geppetto s'installe dans une chambre supérieure de l'hôtel comme atelier.
+- Portrait de Carlo : P trouve un portrait à l'hôtel de ville qui ressemble à lui-même (image de Carlo) ;
+  le donne à Geppetto qui est pris de court. L'histoire du portrait est liée au plan de résurrection
   de Carlo. Cf. Personnages/Giuseppe_Geppetto.md.
-- Peinture de Godard (DLC timeline affectee) : Godard (peintre aveugle) peint pour le carnival de
-  l'Hotel Krat. Elle perd la vue dans un accident de laboratoire. Si P trouve son paint set dans la
-  Zelator Facility et le lui rend, elle complete sa peinture avant de mourir. P place la peinture
-  sur un mur de l'hotel dans la timeline affectee. Cf. Personnages/PNJ_secondaires.md.
-- Lettre d'Antonia (DLC timeline affectee) : la lettre d'Antonia change selon la timeline (enveloppe
+- Peinture de Godard (DLC timeline affectée) : Godard (peintre aveugle) peint pour le carnival de
+  l'Hôtel Krat. Elle perd la vue dans un accident de laboratoire. Si P trouve son paint set dans la
+  Zelator Facility et le lui rend, elle complète sa peinture avant de mourir. P place la peinture
+  sur un mur de l'hôtel dans la timeline affectée. Cf. Personnages/PNJ_secondaires.md.
+- Lettre d'Antonia (DLC timeline affectée) : la lettre d'Antonia change selon la timeline (enveloppe
   verte, 2e page). Cf. Personnages/Antonia.md.
 
 ## Faits canon
 
-- Chateau original : bati par un aristocrate occultiste, centre sur le Gold Coin Tree, detruit dans un
-  incendie, repute connecte a "un enfer inconnu". Renovation Belle Epoque. Cf. SB3.
-- Trajectoire du batiment : chateau occultiste -> incendie -> asile (insane asylum) -> etablissement
-  de rehabilitation -> hotel de luxe (achete par Antonia).
-- Situe au-dessus de la Relic of Trismegistus ; ascenseur interne vers la Relic (ou Zelator labs, DLC).
-- Collaboration hotel / Alchimistes autour de la mine d'Ergo. Cf. SB3.
-- Gold Coin Tree present dans les jardins depuis la fondation du chateau. Blossoms a la plague. Giangio
-  ne peut cueillir le fruit (brule sa main). Sophia : "les larmes tristes de ceux devenus arbres". Cf.
+- Château original : bâti par un aristocrate occultiste, centré sur l'Arbre à Fruits d'Or, détruit dans un
+  incendie, réputé connecté à "un enfer inconnu". Rénovation Belle Époque. Cf. SB3.
+- Trajectoire du bâtiment : château occultiste -> incendie -> asile (insane asylum) -> établissement
+  de réhabilitation -> hôtel de luxe (acheté par Antonia).
+- Situé au-dessus de la Relique de Trismegistus ; ascenseur interne vers la Relique (ou Zelator labs, DLC).
+- Collaboration hôtel / Alchimistes autour de la mine d'Ergo. Cf. SB3.
+- Arbre à Fruits d'Or présent dans les jardins depuis la fondation du château. Blossoms à la plague. Giangio
+  ne peut cueillir le fruit (brûle sa main). Sophia : "les larmes tristes de ceux devenus arbres". Cf.
   Systemes/Gold_Coin_Tree.md.
-- Zelator labs sous l'hotel : experiences sur les Listeners (dont Camil, la mort de Camille couverte).
-  Zelator labs = acces DLC via ascenseur. Cf. Lieux/Zelator_Facility.md.
-- Stargazer principal : plus grand de Krat, cadrans indicateurs de la boucle temporelle. Stars Chrysalis
-  active le golden stargazer pour le voyage temporel (DLC). Cf. SB5.
-- Premier mensonge de P a l'entree -> debut de son humanisation. Cf. SB7.
-- Refuge de : Antonia, Polendina, Sophia (projection), Eugenie, Geppetto, Lorenzini Venigni, Pulsella,
-  Alidoro (conditionnel), Tracker (fin DLC conditionnel). Cf. SB7.
-- Antonia = proprietaire ; malade (Petrification Disease, ecailles sur le visage). Polendina = majordome
-  pantin amoureux d'elle (Ego eveille). Cf. Personnages/Antonia.md, Personnages/Polendina.md.
-- Gold Coin Fruit : P peut l'obtenir via Giangio ; le cure de Giangio soulage la douleur d'Antonia
+- Zelator labs sous l'hôtel : expériences sur les Oreilles (dont Camil, la mort de Camille couverte).
+  Zelator labs = accès DLC via ascenseur. Cf. Lieux/Zelator_Facility.md.
+- Stargazer principal : plus grand de Krat, cadrans indicateurs de la boucle temporelle. Chrysalide stellaire
+  active le Stargazer doré pour le voyage temporel (DLC). Cf. SB5.
+- Premier mensonge de P à l'entrée -> début de son humanisation. Cf. SB7.
+- Refuge de : Antonia, Polendina, Sophia (projection), Eugénie, Geppetto, Lorenzini Venigni, Pulsella,
+  Alidoro (conditionnel), Limier (fin DLC conditionnel). Cf. SB7.
+- Antonia = propriétaire ; malade (Maladie de Pétrification, écailles sur le visage). Polendina = majordome
+  pantin amoureux d'elle (Ego éveillé). Cf. Personnages/Antonia.md, Personnages/Polendina.md.
+- Fruit d'Or : P peut l'obtenir via Giangio ; le cure de Giangio soulage la douleur d'Antonia
   (mort paisible). Cf. Personnages/Philip_Paracelsus.md.
-- Galerie d'art dans la timeline affectee : peinture de Godard placee sur le mur (si P rend son paint set).
+- Galerie d'art dans la timeline affectée : peinture de Godard placée sur le mur (si P rend son paint set).
 
 ## Liens
 
-- Relic of Trismegistus : directement en dessous. Cf. Lieux/Relic_of_Trismegistus.md.
-- Zelator Facility : sous l'hotel, acces via ascenseur (DLC). Cf. Lieux/Zelator_Facility.md.
-- Gold Coin Tree : dans les jardins. Cf. Systemes/Gold_Coin_Tree.md.
-- Antonia : proprietaire. Cf. Personnages/Antonia.md.
+- Relique de Trismegistus : directement en dessous. Cf. Lieux/Relic_of_Trismegistus.md.
+- Zelator Facility : sous l'hôtel, accès via ascenseur (DLC). Cf. Lieux/Zelator_Facility.md.
+- Arbre à Fruits d'Or : dans les jardins. Cf. Systemes/Gold_Coin_Tree.md.
+- Antonia : propriétaire. Cf. Personnages/Antonia.md.
 - Polendina : majordome. Cf. Personnages/Polendina.md.
 - Sophia Monad : projection spectrale au stargazer. Cf. Personnages/Sophia_Monad.md.
-- Philip Paracelsus (Giangio) : cherche le Gold Coin Fruit. Cf. Personnages/Philip_Paracelsus.md.
+- Philip Paracelsus (Giangio) : cherche le Fruit d'Or. Cf. Personnages/Philip_Paracelsus.md.
 - Stargazers : cf. Systemes/Stargazers.md.
-- Listeners / Gold Coin Tree : cf. Systemes/Listeners.md, Systemes/Gold_Coin_Tree.md.
+- Oreilles / Arbre à Fruits d'Or : cf. Systemes/Listeners.md, Systemes/Gold_Coin_Tree.md.
 - Krat (ville globale) : cf. Lieux/Krat.md.
 
-## Sort connu / Etat
+## Sort connu / État
 
-- Base game : intact, seul refuge de la ville devastee. Abrite les derniers survivants.
-- Bad ending : Geppetto extrait le coeur de P, place l'Ergo dans un autre pantin -> Carlo renait. Carlo
-  tue les residents. Geppetto et Carlo quittent l'hotel.
-- Best ending ("Real Boy") : P verse une larme ; si humanite suffisante, place l'Ergo de Sophia dans un
-  pantin pour la faire vivre. Hotel = lieu de la fin de l'intrigue.
-- Post-jeu : etat indetermine. [INCERTAIN] sur le devenir de l'hotel apres les fins.
+- Base game : intact, seul refuge de la ville dévastée. Abrite les derniers survivants.
+- Bad ending : Geppetto extrait le coeur de P, place l'Ergo dans un autre pantin -> Carlo renaît. Carlo
+  tue les résidents. Geppetto et Carlo quittent l'hôtel.
+- Best ending ("Real Boy") : P verse une larme ; si humanité suffisante, place l'Ergo de Sophia dans un
+  pantin pour la faire vivre. Hôtel = lieu de la fin de l'intrigue.
+- Post-jeu : état indéterminé. [INCERTAIN] sur le devenir de l'hôtel après les fins.
 
 ---
 

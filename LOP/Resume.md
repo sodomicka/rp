@@ -1,0 +1,52 @@
+# Résumé - LOP
+
+- version : W1
+
+## Usage
+- Condensé du récit tel qu'établi (canon + divergences actées), pour le worldbuilder. Outil hors RP et hors build : jamais fetché, non indexé au Sommaire. Mis à jour à chaque BIBLE BUILD.
+- État du récit : Passe 2 en cours (BIBLE B8). Roadmaps des Ères 1 à 4 et des parties 5.1 et 5.2 écrites : le résumé s'arrête à la clôture de la partie 5.2 (la Ville Malade).
+- Prémisse : Lies of P (base game + DLC Overture). Perspective : Magnus, OC, pantin parfait créé par l'alchimiste Markiona. Calendrier in-world choisi par le worldbuilder : 1847 (éveil de Magnus) -> 1852 (réveil de P et fin).
+
+## Le monde
+Krat était une ville côtière pauvre. Il y a six siècles, le sol s'effondre et révèle le Crowd, un minéral qui piège l'Ergo, l'essence de la vie humaine. Les Alchimistes de Valentinus Monad prennent le contrôle du gouffre, la Relique de Trismegistus, et l'Ergo devient à la fois l'énergie, la monnaie et la matière première de Krat. Geppetto, à la tête du Parlement des Artisans, et la famille Venigni produisent en masse des pantins liés au Grand Covenant : obéir, ne pas mentir, ne jamais tuer un humain. Au contact prolongé de l'Ergo, certains pantins s'éveillent à un Ego.
+
+Puis tout se gâte. Camille, l'épouse de Geppetto, meurt dans les expériences sur les Oreilles ; son Ergo survit un temps dans Camil, un pantin-servante. Les expériences alchimiques sur l'Ergo engendrent la Maladie de Pétrification, que les faux remèdes de l'Ordre aggravent jusqu'à changer les malades en Carcasses. Carlo, le fils de Geppetto, en meurt en 1843 à la Maison de Charité Monad. Au sein de l'Ordre, Simon Manus prend le dessus sur Valentinus.
+
+## Markiona et Magnus (1847)
+Markiona fut technicienne au Parlement des Artisans, collègue de Geppetto et élève de Camille. C'est elle qui découvre Camil : elle y voit un signe de Dieu, rejoint les Alchimistes et s'y élève jusqu'aux titres d'Illuminée et de Marionnettiste de la Mort. Maîtresse du Zoo de Krat, elle mène au complexe Zelator des expériences qui engendrent des Carcasses, et elle construit les Pantins de l'Arc. Elle détient en secret le cristal d'Ergo de Camille, que Geppetto croit détruit. À force de baigner dans l'Ergo, elle porte déjà une Pétrification pulmonaire, lente et incurable.
+
+Un cristal d'Ergo émeraude d'une pureté inédite lui inspire son Magnum Opus, tenu secret parce que Simon la ferait tuer s'il l'apprenait. Elle scelle ce cristal dans le coeur de chair d'un jeune alchimiste anonyme, efface son esprit et renforce son corps de métal et de laiton. En 1847, au Zelator, Magnus s'éveille : un pantin de chair indiscernable d'un humain, né avec un Ego vierge. Il demande comment l'appeler ; elle refuse net le mot "Mère", et il l'appelle "Dame Markiona". Trois semaines d'apprentissage suivent, avec la rapière "Parfaite" qu'elle lui forge et un ordre : ne jamais se mettre en danger pour autrui.
+
+À la sortie du complexe, l'alchimiste Cassius reconnaît le visage du disparu et sonne l'alarme. Dans l'assaut, l'Ange de l'Arc de Markiona est détruit. Magnus désobéit, s'interpose, est blessé et tue Cassius. Sans un mot, Markiona comprend ce jour-là qu'il est son fils. Ils fuient ; elle abandonne le Zoo et ses Pantins de l'Arc à l'Ordre. Pendant un an, ils vivent cachés dans un sous-sol du quartier pauvre d'Aurus, entre thé noir et jardin d'arômes, et c'est elle qui finit par lui permettre de l'appeler "Mère".
+
+## Les Loups (1848-1850)
+Magnus voit la Balayeuse Véronique abattre au marteau un pantin éveillé devenu fou, et le duo rejoint les Rôdeurs sous les masques du Loup Noir et de la Louve Blanche. L'union est tenue par Léa Florence Monad, secondée par Romeo au masque de Roi, avec trois factions : les Balayeurs de Véronique, les Bâtards de Lumacchio et l'Assemblée des Lapins Noirs. Au fil des missions, Magnus se lie d'amitié avec Romeo. Chacun soigne sa malade : Magnus la Pétrification pulmonaire de Markiona, Romeo le bras gauche pétrifié de Léa.
+
+En 1849, le masque blanc tombe. Léa reconnaît la Marionnettiste de la Mort, son ancienne amie, et menace de la tuer ; Magnus avoue naïvement qu'il est un pantin, et Alidoro désamorce la scène. Léa et Markiona se réconcilient au fil des missions. En 1850, une rumeur annonce le retour de l'Artiste de sang, Arlecchino, près du Zoo, et Romeo part seul en reconnaissance.
+
+## Overture (hiver 1850)
+Léa frappe à la porte d'Aurus avec trois deuils : Romeo n'est pas rentré, Simon a massacré le domaine Monad, et ses généraux sont introuvables. Au Zoo, le trio masqué croise P, venu du futur : Magnus et Markiona voient d'emblée un pantin sous une chair humaine. P et Magnus se battent avec une complicité immédiate. Markiona affronte son passé à chaque étape : le Zoo, où Magnus détruit seul l'Ange de l'Arc reforgé par l'Ordre ; le Zelator, où le Surveillant aux Deux Visages qu'elle avait créé change les Oreilles en arbres à fruits d'or ; puis le charnier Monad. Véronique, rendue folle par un faux remède, est achevée par Léa et dénonce la trahison de Lumacchio, que le groupe abat sur la côte. Dans les mines d'Ergo, Magnus a une vision : Sophia captive, et Simon qui lui annonce que sa cage l'attend.
+
+Au Domaine de la Rose, Arlecchino a crucifié Romeo, mutilé, sur des bras de pantin. Il blesse Markiona à la cuisse avant d'être détruit. Léa sent que P est Carlo et lui offre son épée de la Rose ; P disparaît dans l'Ergo en lançant "à bientôt, mon ami", et Léa confie à Magnus qu'elle pense que P était Carlo. Magnus emporte sa mère. Derrière eux arrive Geppetto avec le Pantin sans Nom : Léa meurt, Romeo est emporté, et Geppetto prélève la peau de Léa. P sera un châssis de guerre recouvert de cette peau, animé par l'Ergo de Carlo, avec un bras gauche mécanique là où la chair de Léa était pétrifiée.
+
+## La Frénésie (hiver 1850 - printemps 1852)
+Magnus porte Markiona jusqu'à Aurus. Plus aucune nouvelle de Léa ni de Romeo. Une fois Markiona remise, les Loups reprennent la traque des pantins renégats. Sophia, mise en cage dès 1850, est branchée à la machine en 1851 : elle projette près des Stargazers, et Magnus est le seul, avec P, à pouvoir la percevoir. La confiance devient un lien d'âmes soeurs, platonique : Magnus, aussi adultes soient son corps et son intellect, reste psychologiquement un enfant. Il lui jure de la délivrer et vise Simon depuis l'assaut du Zelator.
+
+Sans plus aucun chef, l'assemblée des Rôdeurs à la Tour des Artisans tourne au carnage, entre factions qui se croient toutes légitimes et quatre Lapins Noirs que plus rien ne bride. Le duo arrive trop tard. Devant les morts de ses missions sous Véronique, Magnus veut frapper les quatre survivants ; Markiona l'arrête : "le sang a assez coulé". Le remède que Magnus lui fabrique ralentit sa maladie sans la guérir. Fin 1851, la Loi Zéro de Geppetto fait de Romeo le Roi des Pantins et déclenche la Frénésie. Magnus ignore que le roi est son ami. Au printemps 1852, Sophia l'envoie à la Gare de Krat.
+
+## Le Réveil (1852)
+Le duo nettoie la Gare pendant que P s'éveille dans son wagon. Magnus reconnaît l'ami de 1850 et comprend enfin le "à bientôt" ; P ne le reconnaît pas. Fort de la confidence de Léa, Magnus voit en lui Carlo en un sens et se pose en grand frère : c'est lui qui le baptise Pinocchio. À l'Hôtel Krat, Magnus, qui comprend la langue des pantins, le fait entrer sans mentir. Sophia apparaît au grand Stargazer, plus présente que jamais, et son Ergo touche celui de Magnus, qui renouvelle sa promesse. Pendant ce temps, Markiona soigne Antonia.
+
+Sur le Pont des Alchimistes, l'Âne fou menace Geppetto. P s'élance pour protéger son père comme Magnus protège sa mère ; Magnus croise le fer avec lui pour l'arrêter, convainc l'Âne, son ami Rôdeur, d'épargner Geppetto et lui offre Aurus pour refuge. Geppetto comprend aussitôt ce qu'est Magnus et presse Markiona, son ancienne collègue, qui refuse ses secrets au veuf de sa mentor. À l'Hôtel de Ville, Magnus traduit à P la rage du Veilleur Désarticulé, qui pleure les enfants avec qui il jouait.
+
+## La Ville Malade (1852)
+De retour à l'hôtel, Markiona se dispute violemment avec Geppetto. Il lui a tout avoué : la Loi Zéro, la peau de Léa sur P, le rôle de Romeo. Elle refuse de suivre son plan et se tait, pour épargner Magnus. À la Fabrique Artisanale Venigni, une phrase d'elle, "on a tué Arlecchino il y a deux ans", fait fondre en larmes Venigni, son ancien collègue, qui les remercie. P et Magnus détruisent Fuoco et ramènent Pulcinella. La Renarde Rousse et le Chat Noir passent, puis filent vers le District Malum ; Markiona reste méfiante.
+
+Au Village Clair-de-Lune, devant les Carcasses, Markiona admet ses horreurs, tout en maintenant que son passé entier était nécessaire pour concevoir son fils. Au funiculaire, la Rédemptée est épargnée et rallie Aurus, parce qu'elle sait les Loups respectés parmi les Rôdeurs. À la cathédrale, Giangio, qui est Paracelsus, se montre plus fasciné encore par Magnus que par P, et Markiona le reconnaît sans rien dire. Magnus démasque le faux Alidoro à la voix ; Parrot avoue l'imposture et rejoint l'hôtel. P et Magnus abattent Andreas devenu l'Ange à une Aile, et Markiona jubile : son fils dépasse l'apogée de l'alchimie. Une silhouette, celle de Simon Manus, apparaît. Puis Markiona crache du sang et une poudre de cristaux bleue.
+
+## L'axe du récit
+Deux créateurs, deux chefs-d'oeuvre : Geppetto fabrique le faux parfait, un pantin qui devient humain par le mensonge ; Markiona a fait le vrai parfait, un pantin qui le devient par l'introspection. La Marionnettiste de la Mort, elle, se rachète en devenant mère.
+
+---
+
+FIN_WIKI_RESUME

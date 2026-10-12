@@ -1,46 +1,48 @@
 # Pulcinella
 
-- version : W1
+- version : W2
+- note W2 : forage 5.2. Retrouvé détruit mais réparable derrière l'arène de Fuoco ; réparé par Venigni ; marchand à l'Hôtel Krat. Trajectoire 1852. + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
-## Identite
-- Nom : Pulcinella (forme canon ; nom tire du personnage de la commedia dell'arte, comme Arlecchino).
+## Identité
+- Nom : Pulcinella (forme canon ; nom tiré du personnage de la commedia dell'arte, comme Arlecchino).
 - Coquilles transcript : "Pulsonella", "Pulsella".
-- Nature : pantin (puppet) de Krat, alimente par l'Ergo et lie au Grand Covenant (cf. Systemes/Grand_Covenant.md, Systemes/Ergo.md).
+- Nature : pantin (puppet) de Krat, alimenté par l'Ergo et lié au Grand Covenant (cf. Systemes/Grand_Covenant.md, Systemes/Ergo.md).
 - Fonction : majordome (butler) au service de l'inventeur Lorenzini Venigni.
 
-## Role
-- Majordome personnel de Lorenzini Venigni a la Venigni Works (cf. Personnages/Lorenzini_Venigni.md, Lieux/Venigni_Works.md).
-- Lors de la prise de l'usine pendant la Puppet Frenzy :
-  - les stalkers censes proteger l'usine l'ont abandonnee, ainsi que Venigni ;
-  - Pulcinella est parti barricader la porte arriere de l'usine, puis n'est pas revenu ;
-  - sa disparition est ce qui pousse Venigni a demander l'aide de P (Venigni demande a P de retrouver son majordome).
-- P se dirige vers la porte arriere pour le retrouver et y affronte Fuoco, le King's Flame, qui garde le passage (cf. Creatures/Boss_et_Creatures.md).
-- Apres la defaite de Fuoco et la fermeture de l'usine, Pulcinella et Venigni sont ramenes sains et saufs a l'Hotel Krat.
+## Rôle
+- Majordome personnel de Lorenzini Venigni à la Fabrique Artisanale Venigni (VO : Venigni Works) (cf. Personnages/Lorenzini_Venigni.md, Lieux/Venigni_Works.md).
+- Lors de la prise de l'usine pendant la Frénésie des Pantins :
+  - les rôdeurs censés protéger l'usine l'ont abandonnée, ainsi que Venigni ;
+  - Pulcinella est parti barricader la porte arrière de l'usine, puis n'est pas revenu ;
+  - sa disparition est ce qui pousse Venigni à demander l'aide de P (Venigni demande à P de retrouver son majordome).
+- P se dirige vers la porte arrière pour le retrouver et y affronte Fuoco, la Flamme du Roi, qui garde le passage (cf. Creatures/Boss_et_Creatures.md).
+- Après la défaite de Fuoco et la fermeture de l'usine, Pulcinella et Venigni sont ramenés à l'Hôtel Krat.
+- Précision 1852 (Roadmap_05_2) : P et Magnus le retrouvent derrière l'arène de Fuoco, détruit mais réparable. Venigni le remet sur pied ; il s'installe à l'Hôtel Krat comme marchand.
 
-## Capacites
-- [INCERTAIN] : capacites de combat ou competences specifiques non detaillees par la source.
-- Fonctions de majordome/serviteur (taches domestiques et de service typiques des pantins de Krat).
+## Capacités
+- [INCERTAIN] : capacités de combat ou compétences spécifiques non détaillées par la source.
+- Fonctions de majordome/serviteur (tâches domestiques et de service typiques des pantins de Krat).
 
 ## Psychologie
-- [INCERTAIN] : la source ne detaille pas d'Ego eveille ni de psychologie propre (contrairement a d'autres pantins comme Polendina).
-- [INTERPRETATION] Loyaute envers Venigni suggeree par son geste : il reste pour barricader la porte arriere alors que les stalkers ont fui.
+- [INCERTAIN] : la source ne détaille pas d'Ego éveillé ni de psychologie propre (contrairement à d'autres pantins comme Polendina).
+- [INTERPRÉTATION] Loyauté envers Venigni suggérée par son geste : il reste pour barricader la porte arrière alors que les rôdeurs ont fui.
 
 ## Relations
-- Lorenzini Venigni : son maitre ; l'inventeur qu'il sert comme majordome.
-- Pinocchio (P) : retrouve/secouru indirectement par P lors du nettoyage de l'usine.
-- Fuoco : le boss qui gardait la porte arriere ou Pulcinella s'etait rendu (cf. Creatures/Boss_et_Creatures.md).
+- Lorenzini Venigni : son maître ; l'inventeur qu'il sert comme majordome.
+- Pinocchio (P) et Magnus [DIVERGENCE RP - 1852] : le retrouvent en nettoyant l'usine.
+- Fuoco : le boss qui gardait la porte arrière où Pulcinella s'était rendu (cf. Creatures/Boss_et_Creatures.md).
 
 ## Sort connu
-- Retrouve sain et sauf apres la defaite de Fuoco ; ramene a l'Hotel Krat avec Venigni.
-- [INCERTAIN] : sort final au-dela de l'Hotel Krat.
+- Retrouvé détruit mais réparable après la défaite de Fuoco ; réparé par Venigni ; marchand à l'Hôtel Krat.
+- [INCERTAIN] : sort final au-delà de l'Hôtel Krat.
 
-## Trajectoire datee
-| Date/ere | Evenement | Delta d'etat |
+## Trajectoire datée
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| Age d'or de Krat | Majordome pantin au service de Venigni | En fonction |
-| Base game (Frenzy) | Stalkers abandonnent l'usine ; part barricader la porte arriere | Disparu |
-| Base game | P traverse l'usine, vainc Fuoco | Secourable |
-| Base game | Ramene sain et sauf a l'Hotel Krat avec Venigni | En securite |
+| Âge d'or de Krat | Majordome pantin au service de Venigni | En fonction |
+| Base game (Frénésie) | Rôdeurs abandonnent l'usine ; part barricader la porte arrière | Disparu |
+| 1852 (5.2) | P et Magnus vainquent Fuoco ; Pulcinella retrouvé détruit mais réparable | Secourable |
+| 1852 (5.2) | Réparé par Venigni ; s'installe marchand à l'Hôtel Krat | En sécurité, au hub |
 
 ---
 

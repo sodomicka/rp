@@ -1,72 +1,73 @@
 # Stargazers
 
-- version : W2
+- version : W3
+- note W3 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
 
-- Dispositifs de teleportation inventes par les stalkers de Krat. Aussi utiles comme zones de securite pendant l'outbreak. Indicateurs d'une boucle temporelle.
+- Dispositifs de téléportation inventés par les rôdeurs de Krat. Aussi utiles comme zones de sécurité pendant l'outbreak. Indicateurs d'une boucle temporelle.
 - Coquilles transcript : "stargazer" (minuscules dans le transcript oral).
 
 ## Description / Histoire
 
-- Invention des stalkers. Les Sweepers (faction stalker issue des ruelles) avaient pour mission d'installer les Stargazers dans toute la ville de Krat.
-- Permettent de teleporter entre Stargazers actifs partout dans Krat (mecanique de base du gameplay).
-- Pendant l'outbreak de la Petrification Disease : les Stargazers absorbent les spores d'Ergo de l'air -> zones sures (temporairement) pour les residents.
-- Au reveil de P (debut du base game), tous les Stargazers sont detruits.
+- Invention des rôdeurs. Les Balayeurs (faction rôdeur issue des ruelles) avaient pour mission d'installer les Stargazers dans toute la ville de Krat.
+- Permettent de téléporter entre Stargazers actifs partout dans Krat (mécanique de base du gameplay).
+- Pendant l'outbreak de la Maladie de Pétrification : les Stargazers absorbent les spores d'Ergo de l'air -> zones sûres (temporairement) pour les résidents.
+- Au réveil de P (début du base game), tous les Stargazers sont détruits.
 
 ### Sophia et les Stargazers
 
-- Sophia, prisonniere de Simon, branchee a la machine, souffre intensement -> ame mutee et fragmentee -> projection spectrale partout dans Krat.
-- Via ces fragments d'ame et les ondes Ergo, Sophia peut alimenter les Stargazers restants et les remettre en fonction.
-- La presence de Sophia dans l'Hotel Krat permet a P d'utiliser les Stargazers comme points de sauvegarde/teleportation.
-- Sophia renforce aussi P en puisant dans l'Ergo a travers les Stargazers.
+- Sophia, prisonnière de Simon, branchée à la machine, souffre intensément -> âme mutée et fragmentée -> projection spectrale partout dans Krat.
+- Via ces fragments d'âme et les ondes Ergo, Sophia peut alimenter les Stargazers restants et les remettre en fonction.
+- La présence de Sophia dans l'Hôtel Krat permet à P d'utiliser les Stargazers comme points de sauvegarde/téléportation.
+- Sophia renforce aussi P en puisant dans l'Ergo à travers les Stargazers.
 
 ### Le plus grand Stargazer
 
-- Celui de l'Hotel Krat = le plus grand. Les cadrans autour du Stargazer se deplacent avec la progression de P dans l'intrigue.
+- Celui de l'Hôtel Krat = le plus grand. Les cadrans autour du Stargazer se déplacent avec la progression de P dans l'intrigue.
 - Ces cadrans qui bougent = indicateur d'une boucle temporelle selon le narrateur.
 
-### Golden Stargazer (DLC)
+### Stargazer doré (DLC)
 
-- P recoit un Stars Chrysalis au Stargazer de l'Hotel Krat -> vision d'un Stargazer dore (golden stargazer), apercu pres de la cathedrale sur la Pilgrim's Path.
-- En utilisant le Stars Chrysalis sur ce golden Stargazer, le Stargazer est "renew" -> P voyage dans le temps (passe).
-- Gemini comprend qu'il s'agit d'un voyage temporel quand il voit le zoo intact (alors qu'il a brule dans la timeline principale).
-- [INTERPRETATION narrateur] : les cadrans de l'Hotel Krat = indicateur de la boucle temporelle creee par ce dispositif.
-- Le papillon blanc (white butterfly) = lie au golden Stargazer ; il mene Rosaura a la liberation de sa cage a la Markiona's workshop, et mene aussi P au golden Stargazer (meme papillon).
+- P reçoit une Chrysalide stellaire au Stargazer de l'Hôtel Krat -> vision d'un Stargazer doré (VO : golden stargazer), aperçu près de la cathédrale sur le chemin du pèlerin.
+- En utilisant la Chrysalide stellaire sur ce Stargazer doré, le Stargazer est "renew" -> P voyage dans le temps (passé).
+- Gemini comprend qu'il s'agit d'un voyage temporel quand il voit le zoo intact (alors qu'il a brûlé dans la timeline principale).
+- [INTERPRÉTATION narrateur] : les cadrans de l'Hôtel Krat = indicateur de la boucle temporelle créée par ce dispositif.
+- Le papillon blanc (white butterfly) = lié au Stargazer doré ; il mène Rosaura à la libération de sa cage à la Markiona's workshop, et mène aussi P au Stargazer doré (même papillon).
 
-### Alteration de la timeline
+### Altération de la timeline
 
-- Via le golden Stargazer, P peut alterer sa propre timeline en agissant dans le passe, sans pouvoir sauver Romeo ni Lea Florence.
-- Exemples d'alterations confirmees :
-  - Godard (peintre aveugle) : P trouve son paint set a Zelator, le lui rend ; elle finit une peinture avant sa mort ; P la place a l'hotel -> presente dans la timeline affectee.
+- Via le Stargazer doré, P peut altérer sa propre timeline en agissant dans le passé, sans pouvoir sauver Romeo ni Léa Florence.
+- Exemples d'altérations confirmées :
+  - Godard (peintre aveugle) : P trouve son paint set à Zelator, le lui rend ; elle finit une peinture avant sa mort ; P la place à l'hôtel -> présente dans la timeline affectée.
   - Carving de l'arbre de Rosaura change (relation entre Rosaura et Carlo).
-  - Lettre d'Antonia change (enveloppe verte, 2e page) : Antonia reconnait P comme force du bien, mentionne le massacre de la Rose Estate, dit que P peut connecter les gens et apporter de la chaleur.
+  - Lettre d'Antonia change (enveloppe verte, 2e page) : Antonia reconnaît P comme force du bien, mentionne le massacre du Domaine de la Rose, dit que P peut connecter les gens et apporter de la chaleur.
 
 ## Faits canon
 
-- Invention des stalkers ; installation par les Sweepers.
-- Teleportation entre Stargazers actifs.
-- Absorption des spores d'Ergo -> zones sures temporaires pendant l'outbreak.
-- Tous detruits au reveil de P ; Sophia les alimente depuis son emprisonnement pour les remettre en route.
-- Golden Stargazer (Pilgrim's Path) = dispositif de voyage temporel active par le Stars Chrysalis (DLC).
-- Cadrans de l'Hotel Krat = indicateur de la boucle temporelle.
-- Papillon blanc associe au golden Stargazer.
-- P ne peut pas sauver Romeo ni Lea via le voyage temporel, mais peut faire des micro-alterations.
+- Invention des rôdeurs ; installation par les Balayeurs.
+- Téléportation entre Stargazers actifs.
+- Absorption des spores d'Ergo -> zones sûres temporaires pendant l'outbreak.
+- Tous détruits au réveil de P ; Sophia les alimente depuis son emprisonnement pour les remettre en route.
+- Stargazer doré (chemin du pèlerin) = dispositif de voyage temporel activé par la Chrysalide stellaire (DLC).
+- Cadrans de l'Hôtel Krat = indicateur de la boucle temporelle.
+- Papillon blanc associé au Stargazer doré.
+- P ne peut pas sauver Romeo ni Léa via le voyage temporel, mais peut faire des micro-altérations.
 
 ## Liens
 
-- Sweepers : faction qui installe les Stargazers (cf. Factions/Les_Stalkers.md).
+- Balayeurs : faction qui installe les Stargazers (cf. Factions/Les_Stalkers.md).
 - Sophia Monad : alimente les Stargazers (cf. Systemes/Listeners.md et Personnages/Sophia_Monad.md).
-- Stars Chrysalis : cle du voyage temporel (cf. Objets/Objets_et_Reliques.md).
-- Gold Coin Tree : autre element dont l'Hotel Krat cache des secrets (cf. Systemes/Gold_Coin_Tree.md).
-- Humanity System : le voyage temporel permet des choix additionnels affectant l'humanite de P (cf. Systemes/Humanity_System.md).
+- Chrysalide stellaire : clé du voyage temporel (cf. Objets/Objets_et_Reliques.md).
+- Arbre à Fruits d'Or : autre élément dont l'Hôtel Krat cache des secrets (cf. Systemes/Gold_Coin_Tree.md).
+- Système d'humanité : le voyage temporel permet des choix additionnels affectant l'humanité de P (cf. Systemes/Humanity_System.md).
 
-## Sort connu / Etat
+## Sort connu / État
 
-- La plupart des Stargazers detruits au debut du base game.
-- Ceux alimentes par Sophia = actifs pendant le jeu.
-- Sophia liberee / tuee a la fin -> sort des Stargazers post-jeu [INCERTAIN].
-- Golden Stargazer : fonction de voyage temporel demeure, accessible via le DLC.
+- La plupart des Stargazers détruits au début du base game.
+- Ceux alimentés par Sophia = actifs pendant le jeu.
+- Sophia libérée / tuée à la fin -> sort des Stargazers post-jeu [INCERTAIN].
+- Stargazer doré : fonction de voyage temporel demeure, accessible via le DLC.
 
 ---
 
