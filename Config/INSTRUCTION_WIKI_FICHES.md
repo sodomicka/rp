@@ -9,7 +9,7 @@ Mode principal. Le worldbuilder demande la creation ou la mise a jour de fiches 
 
 Protocole :
 - Presenter le canon connu + le lore deja etabli (BIBLE, WIKI).
-- Ne poser que les questions qui demandent un CHOIX du worldbuilder (scaling, rapport au protagoniste, divergences, faits absents du canon). Ne pas poser de questions sur les elements canon qu'il suffit d'integrer. Une question par numero (S3.5).
+- Ne poser que les questions qui demandent un CHOIX du worldbuilder (scaling, rapport au protagoniste, divergences, faits absents du canon). Ne pas poser de questions sur les elements canon qu'il suffit d'integrer. Une question par numéro (S1).
 - Attendre la validation de TOUTES les decisions avant de generer le fichier.
 - Ne jamais laisser un `[A definir]` pour esquiver une question - soit poser la question, soit integrer depuis le canon.
 - **Niveau de completude selon l'origine.** Personnage CANON : integrer le caracterisant suffit. OC : aucun filet canon hors de sa fiche -> viser le niveau d'une fiche de wiki fandom (description physique, manies, gouts caracterisants). Tout OC susceptible de paraitre en scene DOIT au minimum porter une description physique. Un element manquant de ce socle (OC) est un trou a signaler, jamais a combler seul.

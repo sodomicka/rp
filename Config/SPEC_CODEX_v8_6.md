@@ -15,12 +15,7 @@ Consultation : embarquee dans la skill codex-build (`references/SPEC_CODEX_v8_6.
 - Le CODEX ne cree aucun fait nouveau.
 - Il reformule, regroupe et compresse uniquement des informations presentes dans le thread, les fichiers joints et l'eventuel CODEX precedent.
 - Si une information est absente, floue ou contradictoire : `[INCERTAIN]`.
-- Le CODEX est redige en ASCII STRICT, sans aucune exemption : diacritiques retires, signe section U+00A7 remplace par S (sections S1..S7, S3a, S3b), tiret cadratin U+2014 par -, guillemets et apostrophes typographiques par leurs equivalents droits. Verification : grep -nP '[^\x00-\x7F]' vide sur le fichier genere.
-- Raison : tout caractere non-ASCII est corruptible au transfert mobile, et le signe section portait le routage structurel (S3a, renvois internes) : c'etait le caractere le plus couteux a perdre. Translitteration fixe, jamais suppression brute (le caractere accentue disparait au transfert ; l'ASCII survit).
-  - Allemand : u-trema -> u ; o-trema -> oe ; a-trema -> ae ; eszett -> ss (ex. Ubung, schoen, Maedchen, Strasse).
-  - Francais : accents retires dans les fichiers ; reaccentues en narration (cf. instructions).
-  - Japonais / coreen : romanisation ASCII (Hepburn sans macron ; romanisation revisee). Kanji et hangul jamais ecrits : romanisation + glose du sens si mot porteur, pas un nom propre.
-- Ingestion : un nom fetche en forme accentuee est converti en ASCII a l'ecriture, jamais reinjecte accentue dans un fichier ni la narration. Pour interroger le canon, requeter la forme d'origine accentuee (meilleur rappel).
+- Ingestion : pour interroger le canon, requêter la forme d'origine du nom (accentuée si elle l'est : meilleur rappel).
 - Le CODEX est un fichier unique structure en CORE + 7 ANNEXES balisees. Ce n'est PAS une collection de fichiers separes (mais le BUILD produit aussi, a cote, la memoire refroidie et la Memoire narrative - cf. 4ter).
 - VERSIONNAGE DES TAMPONS : les OOC actifs (S5) et interdits accumules (S6) sont tamponnes par version de CODEX `[V<n>]`, jamais par date. V<n> = la version du CODEX sous laquelle l'entree a ete posee. Le champ "date reelle de derniere mise a jour" des metadonnees garde une date calendaire (tracabilite du build), mais aucune entree interne n'est datee.
 - DECOUPLAGE DES VERSIONS : aucune epingle de version croisee entre fichiers (ni CODEX<->BIBLE, ni fiches<->CODEX). Seule trace de version externe autorisee : un reperage advisory `dernier sync BIBLE: B<x>` dans les metadonnees (S1) du CODEX, NON bloquant - simple canari signalant un CODEX builde sur une BIBLE ancienne. Pas de mention de version dans `bible_lore`. Les tampons internes restent `[V<n>]`. Meme logique pour la SPEC : la metadonnee `spec au build` (S1) trace version et source de la spec utilisee - advisory, canari anti spec fantome (un build fait sur une spec perimee se voit au premier coup d'oeil).
@@ -218,7 +213,7 @@ Declinaison CHRONO du GRADIENT DE FRAICHEUR (cf. S2), qui s'applique desormais a
 ## 7. Audit de compression
 Checklist RAPIDE integree a la passe de redaction (pas une etape ceremonielle separee). Avant de livrer le CODEX, verifier :
 1. Chaque fait n'apparait qu'une fois dans les sources EN CONTEXTE (CODEX, BIBLE, narration brute, instructions). Pour WIKI/Parties (pages non chargees) : spot-check via Sommaire / index Refroidi sur les seuls faits SUSPECTS de doublon - aucune pretention a verifier exhaustivement des pages absentes du contexte, aucun fetch sauf si une decision en depend (cf. 4bis, fetch conditionnel).
-2. Le plafond du build est respecte : plafond(N) = min(30 000 + 3 000 x (N-1), 90 000), soit 11 000 stable + cumulatif(N), taille mesuree au `wc -m` (UNE fois) et REPORTEE dans la metadonnee `taille au build` ; grep -nP '[^\x00-\x7F]' revient vide.
+2. Le plafond du build est respecte : plafond(N) = min(30 000 + 3 000 x (N-1), 90 000), soit 11 000 stable + cumulatif(N), taille mesuree au `wc -m` (UNE fois) et REPORTEE dans la metadonnee `taille au build`.
 3. Les sections ne se repetent pas : RENVOI SEC applique (cf. S2), aucun mecanisme redige en toutes lettres dans 2+ sections.
 4. Le texte reste exploitable sans thread externe.
 5. Tout doute est marque `[INCERTAIN]`.
@@ -293,7 +288,7 @@ Source vivante de l'INSTANCE jouee : ICI (CODEX) + Parties/Suivi pour la backsto
 - Savoir cache :
 - Tension dominante :
 - Rapport de force :
-- Dernier echange - joueur : <derniere replique, verbatim TRANSLITTERE ASCII (S1)> / PNJ : <idem>
+- Dernier echange - joueur : <derniere replique, verbatim> / PNJ : <idem>
 - Etat-cle minimal :
 - Prochaine bascule amorcee :
 

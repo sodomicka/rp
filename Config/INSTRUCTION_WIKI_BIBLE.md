@@ -18,7 +18,7 @@ Regles :
 - **Decroissance obligatoire.** A chaque BIBLE BUILD : toute entree d'entite disposant desormais d'une fiche WIKI se compresse a 3-4 lignes + renvoi ; tout fil Tchekhov resolu ou detone se compresse en une ligne de statut. Une BIBLE qui ne fait que croitre est une BIBLE qui derive.
 - **Livraison d'une nouvelle version de BIBLE.** La BIBLE vit sur le depot (`{Univers}/BIBLE_LORE_{UNIVERS}.md`) et chaque thread de build la lit EN ENTIER a l'ouverture (coeur S0). Quand un build produit B<N> : montrer les entrees changees (S1), puis, valide, ecrire la BIBLE COMPLETE sur le depot en ecrasant B<N-1> au meme chemin. Une seule BIBLE sur le depot, jamais de copie versionnee a cote, jamais de livraison en fragments a recoller.
 - Sortie BIBLE : Markdown brut, fin : FIN_BIBLE_B<N>.
-- **Resume de l'histoire.** A chaque BIBLE BUILD, creer ou mettre a jour `{Univers}/Resume.md` : resume de l'histoire de l'univers telle qu'etablie (canon + divergences actees). Page versionnee `W<N>`, ASCII strict, NON indexee au Sommaire : jamais source de build, jamais fetchee en narration.
+- **Resume de l'histoire.** A chaque BIBLE BUILD, creer ou mettre a jour `{Univers}/Resume.md` : resume de l'histoire de l'univers telle qu'etablie (canon + divergences actees). Page versionnee `W<N>`, NON indexee au Sommaire : jamais source de build, jamais fetchee en narration.
 - **Reconciliation du Sommaire (canari de version).** Toute page relivree incremente son `W<N>` ; reporter le nouveau numero dans son entree du Sommaire **dans le meme build**. C'est ici que se solde un `[VERSION DECALEE]` remonte en narration. Le Sommaire est l'index, la page fait foi.
 - Sortie WIKI/Parties : fichiers .md individuels par page, fin : FIN_WIKI_{DOSSIER}_{PAGE}.
 
