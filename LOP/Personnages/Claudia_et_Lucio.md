@@ -1,7 +1,7 @@
 # Claudia et Lucio
 
 - version : W4
-- note W4 : forage 5.3 [DIVERGENCE RP]. Aux ordres de Simon, pour leur propre compte ; la route de Malum (proposition de la Renarde, aide du Chat, départ avant le Red Lobster) ; règle du coeur pur précisée (tout le monde approche l'arbre, seuls P et Magnus cueillent) ; ersatz des Alchimistes ; Magnus cueille le fruit de Lucio.
+- note W4 : forage 5.3 [DIVERGENCE RP]. Aux ordres de Simon, pour leur propre compte ; la route de Malum (proposition de la Renarde, aide du Chat, départ avant le Red Lobster) ; règle du coeur pur précisée (tout le monde approche l'arbre, seuls P et Magnus cueillent) ; ersatz des Alchimistes ; Magnus cueille le fruit de Lucio. + Régime R5 (canon post-Frénésie repris).
 - note W3 : numérotation des ères alignée sur la Chronologie (Frénésie = Ère 4 ; base game = Ère 5). + Passage à la Fabrique Artisanale Venigni (5.2) : discussion entre Rôdeurs, Markiona prudente, départ vers le District Malum. + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 > Le Renard et le Chat de Collodi, refondus en demi-fratrie : Claudia la légitime, flamboyante,
@@ -120,7 +120,7 @@
 | Ère 4 (1851) | Absents de la Bataille de la Tour des Artisans ; survivent à la décimation des rôdeurs | Survivants |
 | 1852 (5.2, Fabrique Artisanale Venigni) [DIV RP] | Croisent P, Magnus et Markiona ; discussion entre Rôdeurs ; filent vers le District Malum | En route vers Malum |
 | 1852 (5.3, District Malum) [DIV RP] | Aux ordres de Simon, pour leur compte : Claudia propose au trio de faire route (le fruit pour Lucio) ; le Chat aide contre un ennemi d'élite ; ils ne voient en P qu'un Rôdeur au bras de métal ; partis avant le Red Lobster. À l'arbre, Magnus cueille un fruit pour Lucio | Alliés de route le temps de Malum ; un fruit attend Lucio ([À FIXER] remise) |
-| Suite (Ère 5, 5.4+) | À ÉTABLIR EN ROADMAP. Le canon post-Frénésie (assaut de l'Hôtel Krat, garde de Geppetto, cécité avancée, épuisement au combat, quête du Fruit d'Or, sort selon les choix du prota) n'est PAS repris par défaut. | (en attente) |
+| Suite (Ère 5, 5.4+) | Régime R5 (décision worldbuilder : en R5, on se rattache globalement au canon pour la trame) : le canon post-Frénésie est repris (assaut de l'Hôtel Krat, garde de Geppetto, cécité avancée, épuisement au combat, quête du Fruit d'Or). Détail en roadmap | (en attente) |
 
 ---
 

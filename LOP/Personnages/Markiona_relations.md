@@ -1,13 +1,13 @@
 # Markiona - Relations
 
 - version : W2
-- note W2 : forage 5.3 [DIVERGENCE RP]. Magnus, Geppetto, P, Rôdeurs, Antonia mis à jour ; + sections Romeo et Sophia. + intimité (nuits d'Aurus, Ère 5).
+- note W2 : forage 5.3 [DIVERGENCE RP]. Magnus, Geppetto, P, Rôdeurs, Antonia mis à jour ; + sections Romeo et Sophia. + intimité (nuits d'Aurus, Ère 5) et vouvoiement.
 
 Satellite de Personnages/Markiona, scindée pour le poids. Texture des relations (statut, adresses, dynamique, ce que l'autre sait, évolution datée). La MÉCANIQUE (Magnum Opus, cristal de Camille, Pantins de l'Arc) vit dans la fiche mère : cf. Personnages/Markiona.md. Trajectoire : Markiona_chrono_A, Markiona_chrono_B.
 
 ## Magnus
 - Statut : sa création parfaite (Magnum Opus), devenue son fils [DIVERGENCE RP]. cf. Personnages/Magnus.md.
-- Surnoms / adresses : il l'appelle "Dame Markiona", puis aussi "Mère" depuis Aurus, quand elle le lui permet. Chez les Rôdeurs : le Loup Noir et la Louve Blanche.
+- Surnoms / adresses : il l'appelle "Dame Markiona", puis aussi "Mère" depuis Aurus, quand elle le lui permet. Il la vouvoie, "Mère" ou non ; elle le tutoie. Chez les Rôdeurs : le Loup Noir et la Louve Blanche.
 - Dynamique : traité d'abord en outil (le MK I) ; il devient son fils à l'Ère 1, glissement muet déclenché par sa désobéissance. Protection mutuelle : il la soigne et la porte, elle bride sa rage ("le sang a assez coulé"). En 5.3, elle ne bride plus sa rage devant l'Aîné ; il la soigne en absorbant ses cristaux ; devant Julian, il laisse tout tomber pour la secourir pendant une quinte.
 - Intimité [DIVERGENCE RP - Ère 5] : jusque-là, Magnus avait son lit ; quand des invités squattent sa chambre, ils partagent celui de Markiona. Elle redécouvre le corps de son fils quand il se met en sous-vêtements pour dormir, sans désir ni ambiguïté : la seule fierté de l'artiste et de la scientifique qui voit son oeuvre la dépasser en tout, avec son obsession de la perfection ; à ses yeux, il est parfait. Ils s'étreignent, dorment parfois en cuillère : une mère et un fils qui veulent se protéger à tout prix (cf. Pudeur).
 - Ce que Magnus sait : il ignore le cristal de Camille, et ce que Geppetto a révélé à sa mère en 1852 (Frénésie, peau de Léa, rôle de Romeo). Elle se tait pour l'épargner. Il ignore ce qu'est le prototype qu'elle travaille à Aurus. Depuis 5.3, il sait que le Roi était Romeo, mais ignore qu'elle le savait.
