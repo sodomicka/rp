@@ -1,6 +1,6 @@
 # 00_Garde_Cap
 
-- version : W1
+- version : W2
 
 ## Cadre
 - role : ligne directrice de la saga, perspective Varra. Porte les beats voulus par le worldbuilder et sert de base au decoupage des roadmaps. Previsionnel : quand une roadmap s'en ecarte, la roadmap fait foi et le garde-cap se recale.
@@ -15,7 +15,7 @@
 
 ## Fils transverses
 - Varra et les missions de Talon : il l'accompagne ou non au cas par cas, mission par mission (tranche en roadmap). [RP]
-- Cade : une liaison Talon - Cade reste possible, y compris comme manipulation de Talon. Dans tous les cas, Cade se fait demonter par Varra. [RP]
+- Cade : liaison Talon - Cade en R2, manipulation de Talon, qui n'y pense qu'a Varra. Varra l'apprend apres l'evasion de Cade, dans une roadmap suivante. Dans tous les cas, Cade se fait demonter par Varra. [RP]
 - Secret de lignee : Krayt revele a Talon que Ruyn etait son grand-pere. Moment a placer en roadmap. [RP]
 - Fausse piste de 133 : quand Varra se revele, Maladi reconnait la bete qu'elle a rayee sur la parole de Talon et se tait. Elle garde cette carte et l'utilisera plus tard (moment a placer en roadmap). [RP]
 
@@ -32,11 +32,13 @@
 - [RP] La sentence : Talon doit gerer Cade ; Varra est confie a Nihl, pour apprendre une autre vision que celle de sa maitresse.
 
 ## 137 ABY - Cade au Temple
-- Cade s'infiltre au Temple des Sith avec le Jedi Hosk Trey'lis. Talon le combat et perd ; Nihl capture Cade.
+- Cade s'infiltre au Temple des Sith pour liberer le Jedi Hosk Trey'lis. Talon le combat et perd. [RP] Varra, aux cotes de Nihl, terrasse Cade a mains nues par reflexe pour proteger Talon ; il ne l'epargne que sur ordre de Nihl : Krayt le veut vivant.
 - Maladi torture Cade. Krayt veut le convertir et nomme Talon son maitre ; un lien dans la Force se tisse entre eux.
-- [RP] Varra est sous la coupe de Nihl.
-- Krayt tue Hosk. Cade empale Talon avec le sabre de son pere et s'evade de Coruscant ; Talon passe un long moment en cuve de bacta.
+- [RP] Varra est sous la coupe de Nihl, qui le lache sans laisse. A l'audience, il manque de demonter Cade ; Krayt l'arrete.
+- [RP] Talon couche avec Cade pour le rendre accro, mais ne pense qu'a Varra.
+- Krayt tue Hosk. Cade empale Talon avec le sabre de son pere, tranche le bras de Nihl et s'evade de Coruscant ; Talon passe un long moment en cuve de bacta. Stryfe remplace Nihl comme Main.
 - [RP] Varra quitte son poste : il sent une perturbation dans la Force, celle qu'il aime est aux portes de la mort. Pas le temps de rattraper le traitre : le plus urgent est de sauver sa maitresse. Inquiet, il la rejoint en bondissant sans effort d'immeuble en immeuble, facon Hulk. Cade lui echappe ; il le demontera plus tard (cf. Fils transverses).
+- [RP] Sur suggestion de Nihl, Krayt rend Varra a Talon et en fait le gardien de sa stase.
 
 ## 137-138 ABY - Had Abbadon
 - Karness Muur, esprit Sith qui possede la Jedi Celeste Morne, offre a Krayt de le guerir et de lui livrer Cade s'il vient sur Had Abbadon. C'est un piege.

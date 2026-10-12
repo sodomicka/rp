@@ -1,6 +1,6 @@
 # Temple des Sith
 
-- version : W1
+- version : W2
 
 ## Nature
 - Siege du One Sith sur Coruscant depuis 130 ABY. Lieu canon (Legends).
@@ -53,8 +53,10 @@
 ## Trajectoire datee
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-
-- (aucune entree : alimentee a chaud a partir de la Passe 2)
+| 137 ABY | Cade s'y infiltre par les passages de l'epoque Jedi | - |
+| 137 ABY | Varra y recoit une chambre | Varra parmi les occupants |
+| 137 ABY | Sabre de Kol expose sous vitrine dans la salle du trone | - |
+| 137 ABY | Evasion de Cade par une baie vitree | - |
 
 ---
 

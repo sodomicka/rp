@@ -1,6 +1,6 @@
 # Darth Talon (Devon Izara)
 
-- version : W5
+- version : W6
 
 ## Identite
 - Devon Izara ; Darth Talon a partir du sacre (137 ABY), nom donne par Krayt. Entite de lore canon (Legends). Nom de naissance repris de la Devon Izara de Maul - Shadow Lord (Disney), personnage ecarte de cet univers. [DIVERGENCE RP]
@@ -71,6 +71,11 @@
 | 137 ABY | Krayt l'envoie capturer la princesse Marasiah Fel. Socorro : elle tue la Chevaliere Imperiale Elke Vetter, Marasiah lui echappe | - |
 | 137 ABY | Vendaxa : elle lance la meute de Varra sur le groupe de Marasiah ; distraite par la discipline qu'elle impose a Varra, elle echoue | la meute de Varra meurt ; Nihl a vu Varra se battre |
 | 137 ABY | Retour devant Krayt : Varra se presente et demande a mourir a sa place | l'Ordre connait Varra ; sentence : elle doit gerer Cade, Varra est confie a Nihl ; Maladi sait qu'elle lui a menti en 133 |
+| 137 ABY | Capture de Cade : il la domine ; Varra le terrasse par reflexe et ne l'epargne que sur ordre de Nihl | voit que Varra s'est battu pour elle ; meprise et respecte Nihl a la fois : il use bien de son disciple, mais aurait du le tenir en retrait pour la laisser finir Cade |
+| 137 ABY | Audience : Cade rouvre toutes ses blessures, puis la soigne sur ordre de Krayt | lien de Force avec Cade |
+| 137 ABY | Krayt la fait maitre de Cade : une epreuve, former un disciple dans les regles | couche avec Cade pour le rendre accro ; n'y prend plaisir qu'en pensant a Varra, pressentiment refoule |
+| 137 ABY | Rattrape Cade qui fuit de nuit | - |
+| 137 ABY | Evasion : Cade l'empale avec le sabre de son pere | mourante ; longue cuve de bacta, Varra gardien de sa stase |
 
 ---
 

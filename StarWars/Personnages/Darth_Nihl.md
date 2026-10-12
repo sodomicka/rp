@@ -1,6 +1,6 @@
 # Darth Nihl
 
-- version : W2
+- version : W3
 
 ## Identite
 - Darth Nihl. Entite de lore canon (Legends).
@@ -53,7 +53,10 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 137 ABY | Vendaxa : rejoint Talon pour l'assaut final ; voit Varra se battre | consigne sans rien dire : un poignard potentiel contre sa rivale, et une excellente arme a ses yeux |
-| 137 ABY | Sentence de Krayt | recoit Varra, pour lui apprendre une autre vision que celle de Talon |
+| 137 ABY | Sentence de Krayt : recoit Varra ; le loge au Temple, le lache sans laisse | savoure sa destruction debridee |
+| 137 ABY | Capture de Cade : Varra s'y jette par reflexe ; Nihl lui ordonne de le prendre vivant | - |
+| 137 ABY | Evasion : Cade lui tranche le bras droit | Krayt refuse qu'on le recouse : bras vong ; Stryfe le remplace comme Main |
+| 137 ABY | Ne juge pas la desertion de Varra et suggere a Krayt de le rendre a Talon | sait quelle monnaie achete Varra |
 
 ---
 
