@@ -1,6 +1,7 @@
 # Hôtel Krat
 
-- version : W3
+- version : W4
+- note W4 : forage 5.4 [DIVERGENCE RP]. Téléportation du grand Stargazer réservée à P ; Belle réfugiée ; Markiona résidente à partir de la 5.5. + Attaque de l'hôtel (ch.9-10) [CANON SUPPOSÉ] et mort de Markiona prévue en 5.5.
 - note W3 : forage 5.3 [DIVERGENCE RP]. Arbre : accès par l'arrière (ascenseur de l'Hôtel de Ville du District Malum), règle du coeur pur, les deux fruits de 5.3 ; remède d'Antonia recalé sur le canon ; portrait localisé. + Coquille Pulsella -> Pulcinella.
 - note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
@@ -37,12 +38,23 @@
   plus sur ces labs. Cf. Lieux/Zelator_Facility.md.
 - Stargazer de l'hôtel : le plus grand stargazer vu dans le jeu, situé dans l'hôtel. Ses cadrans bougent
   avec la progression du joueur = indicateur de la boucle temporelle. Permet la téléportation entre
-  stargazers actifs. DLC : P reçoit une Chrysalide stellaire au stargazer de l'hôtel -> vision du
+  stargazers actifs. [DIVERGENCE RP] Dans le RP, la téléportation est réservée à P ; Magnus et Markiona vont
+  à pied ou en tram (cf. Lieux/Krat.md, Géographie du RP). DLC : P reçoit une Chrysalide stellaire au stargazer de l'hôtel -> vision du
   Stargazer doré près de la cathédrale -> voyage dans le temps (passé, zoo intact). Cf. SB5.
 - Refuge des survivants (base game) : dans la crise, l'hôtel devient le seul sanctuaire de Krat.
   Antonia (propriétaire, malade de la Maladie de Pétrification) y accueille Sophia (projection spectrale),
   Polendina (majordome pantin), Eugénie (armurier), Geppetto, Lorenzini Venigni, Pulcinella, Alidoro
-  (si P l'y amène), le Limier (fin DLC, si P l'y amène).
+  (si P l'y amène), le Limier (fin DLC, si P l'y amène). [CANON SUPPOSÉ] Belle, survivante de la Grande
+  Exposition, s'y réfugie (ch.7). [DIVERGENCE RP - 1852] Markiona y reste à partir de la 5.5, sous la garde
+  de Venigni (cf. Personnages/Markiona.md).
+- Attaque de l'hôtel (ch.9-10) [CANON SUPPOSÉ : sources externes, absente du transcript] : hors champ, pendant
+  que P est à la Gare Centrale. Parrot, le faux Alidoro, désactive la sécurité de l'intérieur et vend l'hôtel
+  pour s'acheter une sortie de Krat ; il espérait la mort d'Eugénie. La Confrérie des Lapins Noirs, sur ordre
+  de Simon, avec la Renarde Rousse et le Chat Noir (qui attendent des Alchimistes un remède aux yeux du Chat),
+  enlève Geppetto. Les sources consultées ne nomment aucun mort. P trouve l'hôtel saccagé ; le piano de la
+  chambre d'Antonia ouvre le passage vers la Relique. Cf. Factions/Black_Rabbit_Brotherhood.md,
+  Personnages/Alidoro_et_Parrot.md, Personnages/Antonia.md.
+  - [DIVERGENCE RP - 1852 (5.5)] Markiona, restée à l'hôtel, y meurt [ACTÉ]. Qui la tue et comment : roadmap 5.5.
 - Premier mensonge de P : à l'entrée, les pantins ne sont pas admis. P est questionné ("es-tu humain ?").
   S'il ment et répond qu'il est humain, il entre. Premier mensonge volontaire de P, déclencheur de son
   humanisation. Cf. Systemes/Humanity_System.md, SB5.

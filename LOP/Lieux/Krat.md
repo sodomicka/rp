@@ -1,6 +1,7 @@
 # Krat
 
-- version : W2
+- version : W3
+- note W3 : forage 5.4 [DIVERGENCE RP]. + section Géographie du RP (temps de trajet depuis l'Hôtel Krat, Aurus, téléportation réservée à P ; décision worldbuilder).
 - note W2 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
@@ -67,6 +68,20 @@
 - Grande Exposition : jamais tenue ; annulation due à la maladie. Krat était prête à se présenter au monde.
   Cf. Lieux/Grand_Exhibition.md.
 - Cadre esthétique : Belle Époque (1871-1914). Cf. SB0.
+
+## Géographie du RP [DIVERGENCE RP - décision worldbuilder]
+
+- Le jeu ne donne aucune distance ; le RP fixe les siennes. L'Hôtel Krat est le centre. Temps à pied depuis l'hôtel :
+  - Pont des Alchimistes, Boulevard Elysion : 15 min ;
+  - District Malum : 15 min (l'ascenseur de l'Hôtel de Ville mène à l'arrière de l'hôtel) ;
+  - Rue Rosa Isabel, Opéra Estella : 30 min ;
+  - Gare Centrale, Fabrique Artisanale Venigni : 30 à 45 min ;
+  - Arcade Lorenzini puis Grande Exposition : 1 h, téléphérique compris ;
+  - Village Clair-de-Lune, Cathédrale St Frangelico : 1 h ;
+  - Marais Aride : 2 h en tram, aux confins de la ville (anciennes mines).
+- Aurus : 10 min à pied de l'hôtel ; Magnus couvre le trajet en 2 min 30 à pleine vitesse. Cf. Lieux/Aurus.md.
+- Toute mission peut se clore sur une nuit à Aurus ou à l'Hôtel Krat.
+- La téléportation des Stargazers est réservée à P (décision worldbuilder ; sinon, pas d'Overture). Magnus et Markiona vont à pied ou en tram. Cf. Systemes/Stargazers.md.
 
 ## Liens
 

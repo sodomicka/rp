@@ -1,6 +1,7 @@
 # Boss et Créatures
 
-- version : W5
+- version : W6
+- note W6 : forage 5.4 [DIVERGENCE RP]. Champion Victor achevé par Laxasia (canon vérifié ; Paracelsus retiré) ; second Pantin Clown Enragé (Marais Aride) ; Monstre Vert : la sentinelle, et non Hugo ; Murphy reconnu par Magnus.
 - note W5 : forage 5.3 [DIVERGENCE RP]. + bloc PANTIN CLOWN ENRAGÉ (noyau, canon). Roi des Pantins : fin 1852 (étreinte de Magnus, suicide de Romeo). + Surveillant aux Deux Visages : le "quelqu'un" du Limier est Léa, reconnue au style sans être nommée.
 - note W4 : forages 5.1 et 5.2 [DIVERGENCE RP]. Parade Master, Scrapped Watchman et Fuoco vaincus par P ET Magnus ; laïus du Watchman traduit par Magnus (conforme au canon). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 - note W3 : retrait du bloc Mad Donkey (repositionné en ALLIÉ de Magnus [DIVERGENCE RP] ; vit désormais dans Personnages/PNJ_secondaires.md, sans pointeur ici).
@@ -60,6 +61,7 @@
 - Vaincu par P à l'Hôtel de Ville.
 - [DIVERGENCE RP - 1852] Vaincu par P et Magnus. Magnus, qui comprend la langue des pantins, traduit à P ses ondes d'Ergo : la rage d'un gardien dont les enfants avec qui il jouait sont morts, impossible à raisonner à cause de la Frénésie (conforme au canon ci-dessus). cf. Personnages/Magnus.md.
 - Corps probablement recyclé/fusionné avec le Monstre Vert du Marais.
+- [DIVERGENCE RP - 1852 (5.4)] Au Marais Aride, Magnus reconnaît son corps dans le Monstre Vert : le messager de Romeo dont il avait traduit la rage. Un deuil de plus.
 
 ---
 
@@ -132,9 +134,11 @@
 - Boss optionnel du chapitre 6, sur la Rue Rosa Isabel, près du Stargazer de l'entrée de la rue.
 - Deux pantins lance-flammes l'escortent et engagent le combat avant lui.
 - Récompense canon : du Quartz.
+- Un second exemplaire, électrique, garde l'entrée du Marais Aride (ch.8 ; mêmes attaques) [CANON SUPPOSÉ].
 
 ### Sort
 - [DIVERGENCE RP - 1852 (5.3)] Vaincu par P et Magnus, Markiona en retrait.
+- [DIVERGENCE RP - 1852 (5.4)] Le second, au Marais Aride, détruit par P et Magnus.
 
 ---
 
@@ -175,15 +179,16 @@
 - Boss de la Grande Exposition :
   - Phase 1 : combat P.
   - Phase 2 : pumped full of the drug/elixir -> plus fort.
-  - Avant que P puisse le finir : tué par un individu en armure (= Giangio / Philip Paracelsus, qui collecte l'Ergo via sa machine).
+  - Avant que P puisse le finir : Laxasia lui lance son épée dans le dos et le tue d'un coup (canon vérifié : TV Tropes) ; Simon Manus paraît ensuite.
 
 ### Lien narratif
 - Exemple principal de la transformation alchimique via la maladie.
-- Sa mort achevée par Paracelsus -> lien avec la collecte d'Ergo de Simon.
+- Achevé par Laxasia, bras droit de Simon. cf. Personnages/Laxasia.md.
 
 ### Sort
 - Vaincu par P (deux phases).
-- Achevé par Paracelsus / Giangio avant que P puisse le finir.
+- Achevé par Laxasia avant que P puisse le finir.
+- [DIVERGENCE RP - 1852 (5.4)] Affronté par P et Magnus.
 
 ---
 
@@ -199,7 +204,7 @@
 - Origine : se nourrit de l'Ergo des pantins discardés dans le marais.
   - Son nid est jonché de pantins vides d'Ergo.
   - Sa grande taille s'explique par cette alimentation abondante.
-- Hugo avait été envoyé pour s'en occuper mais ne s'attendait pas à sa taille ; rapport soumis ; renforts refusés ; "la créature savait qu'ils étaient là."
+- Une sentinelle avait été envoyée pour s'en occuper mais ne s'attendait pas à sa taille ; rapport soumis ; renforts refusés ; "la créature savait qu'ils étaient là" (Carnet de la sentinelle, VO : Sentry's Notebook [CANON SUPPOSÉ] ; le transcript l'attribuait à Hugo).
 - Combat P dans le marais/falaises :
   - Combat difficile qui s'intensifie au fur et à mesure qu'il enrage.
   - À mi-combat ou en fin de combat : "merges with what could be the now discarded body of the Scrapped Watchman."
@@ -209,6 +214,7 @@
 
 ### Sort
 - Vaincu par P. Corps laissé dans le marais.
+- [DIVERGENCE RP - 1852 (5.4)] Vaincu par P et Magnus. Quand il fusionne avec le corps du Veilleur, Magnus reconnaît Murphy. P récupère l'Ergo doré ; Parrot l'appelle "le meilleur appât d'Alidoro". Après le combat, Markiona fait sa pire quinte.
 
 ---
 
