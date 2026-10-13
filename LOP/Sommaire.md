@@ -1,6 +1,7 @@
 # Sommaire - LOP
 
-- version : W18
+- version : W19
+- note W19 : BIBLE BUILD B10 (clôture du forage 5.4, La Vérité de Geppetto). (1) BIBLE B9 -> B10 : SB0 (37 pages Personnages ; Markiona inscrite en pivot, plafond 30k), SB5 (téléportation des Stargazers réservée à P), SB7 (Alidoro / Parrot, renvoi vers Hugo). (2) Fiches 5.4 propagées à chaud dans le thread. Bumps : Pinocchio W8, Pinocchio_chrono_A W2, Giuseppe_Geppetto W7, Sophia_Monad W6, Simon_Manus W3, Markiona W12, Markiona_chrono_B W3, Markiona_relations W3, Magnus W9, Magnus_chrono_B W3, Laxasia W3, Alidoro_et_Parrot W5, Antonia W4, Eugenie W3, Lorenzini_Venigni W4, Les_Hiboux W5, Claudia_et_Lucio W5, PNJ_secondaires W8, Boss_et_Creatures W6, Krat W3, Hotel_Krat W4, Grand_Exhibition W4, Quartiers_de_Krat W5, Aurus W4, Stargazers W5, Objets_et_Reliques W6. (3) NOUVELLE FICHE : Personnages/Hugo.md (W1), sortie de PNJ_secondaires. (4) NOUVELLE ROADMAP : Roadmap_05_4_La_Verite_de_Geppetto (R1, NON indexée) ; rétro de Roadmap_05_3 (R2 : décodage du message de Romeo en 5.5, décharge partielle du Tchekhov). (5) Chronologie C9 -> C10 ; _Implications I16 -> I17 ; Resume.md W2 -> W3 (hors index).
 - note W18 : BIBLE BUILD B9 (clôture du forage 5.3, Le Roi des Pantins). (1) BIBLE B8 -> B9 : SB0 (36 pages Personnages), SB1.7 (Magnus hors du Grand Covenant), SB5 (P : visage de Carlo, signature et mémoire musculaire de Léa ; règle du coeur pur), SB7 (fin de Romeo ; plus d'Arlecchino en 1852). (2) Fiches 5.3 propagées à chaud dans le thread, aucune dette. Bumps : Pinocchio W7, Giuseppe_Geppetto W6, Sophia_Monad W5, Romeo W8, Carlo W6, Lea_Florence_Monad W9, Arlecchino W4, Markiona W11, Markiona_chrono_A W2, Markiona_chrono_B W2, Markiona_relations W2, Magnus W8, Magnus_chrono_B W2, Philip_Paracelsus W3, Alidoro_et_Parrot W4, Antonia W3, Polendina W3, Lorenzini_Venigni W3, Les_Hiboux W4, Claudia_et_Lucio W4, PNJ_secondaires W7, Boss_et_Creatures W5, Hotel_Krat W3, Cathedrale_St_Frangelico W3, Grand_Exhibition W3, Zelator_Facility W4, Quartiers_de_Krat W4, Aurus W3, Black_Rabbit_Brotherhood W7, Stargazers W4, Gold_Coin_Tree W3, Petrification_Disease W3, Objets_et_Reliques W5. (3) NOUVEAU SATELLITE (budget, décision worldbuilder) : Pinocchio_chrono_A (W1). (4) NOUVELLE ROADMAP : Roadmap_05_3_Le_Roi_des_Pantins (R1, NON indexée) ; rétro des Roadmap_02, 03, 05_1 et 05_2 (R3). (5) Chronologie C8 -> C9 ; _Implications I15 -> I16 ; Resume.md W1 -> W2 (hors index).
 - note W17 : BIBLE BUILD B8 (clôture des forages 5.1 et 5.2). (1) BIBLE B7 -> B8 : Parlement des Artisans / Fabrique Artisanale Venigni propagés (SB3, SB4), SB0 aux normes du dépôt, divergence P sans mensonge (SB5), coquilles. (2) Dettes de fiches 5.1 ET 5.2 SOLDÉES. Bumps : Pinocchio W6, Giuseppe_Geppetto W5, Sophia_Monad W4, Camille W5, Markiona W10, Magnus W7, Philip_Paracelsus W2, Alidoro_et_Parrot W3, Antonia W2, Lorenzini_Venigni W2, Pulcinella W2, Claudia_et_Lucio W3 (ères renumérotées), Archbishop_Andreas W2, PNJ_secondaires W6, Boss_et_Creatures W4, Aurus W2. (3) NOUVEAUX SATELLITES (budget) : Magnus_chrono_A, Magnus_chrono_B, Markiona_chrono_A, Markiona_chrono_B, Markiona_relations (W1). (4) Chronologie C7 -> C8 ; _Implications I14 -> I15 (dettes 5.1/5.2 retirées ; budgets, Lumakio résiduel, points non fixés). (5) Roadmap_03_Overture R1 -> R2 (coquille Lumakio). (6) Lien Magnus/Sophia purgé de toute romance -> PLATONIQUE (décision worldbuilder : Magnus psychologiquement mineur) : Sophia_Monad, Magnus, Magnus_chrono_A/B, Chronologie, _Implications, Roadmap_04 / 05_1 / 05_2 (R1 -> R2). (7) Voyage de P dans le passé replacé dans l'Ère 5 (canon : point d'entrée = golden Stargazer du Pilgrim's Path, près de St Frangelico). (8) Resume.md W1 créé (hors index, jamais fetché). (9) Francisation VF (décision worldbuilder) : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards, propagée à tout LOP/. Bumps : Les_Alchimistes W3, Les_Stalkers W8, Workshop_Union W2, Aisle_of_Alchemists_Arch_Abbey W2, Krat W2, Krat_Zoo W3, Quartiers_de_Krat W3, Rose_Estate_Monad_Charity_House W3, Venigni_Works W2, Zelator_Facility W3, Objets_et_Reliques W4, Arlecchino W3, Carlo W5, Lea_Florence_Monad W8, Les_Hiboux W3, Lumacchio W4, Romeo W7, Valentinus_Monad W2, Veronique W6, Ergo W2, Humanity_System W2, Puppet_Frenzy W2, Stargazers W3, Roadmap_01 et Roadmap_02 (R2). Noms de fichiers inchangés (Les_Stalkers.md, etc.). (10) Réaccentuation de tout LOP/ (fin de la règle ASCII, décision worldbuilder) et francisation VF lot 2 : glossaire validé par le worldbuilder (lots A, B, C), VO gardée en glose dans les fiches dédiées, la BIBLE et cet index ; restent en VO par décision Stargazer(s), Grand Covenant, Ergo, Zelator, Pistrus, Crowd, Elysion Boulevard. Bumps : Black_Rabbit_Brotherhood W6, Cathedrale_St_Frangelico W2, Grand_Exhibition W2, Hotel_Krat W2, Relic_of_Trismegistus W2, Cecile W2, Eugenie W2, Gemini W2, Laxasia W2, Madoro W3, Polendina W2, Rosaura W3, Simon_Manus W2, Arm_of_God W2, Genies_et_Chef_D_Oeuvres W2, Gold_Coin_Tree W2, Grand_Covenant W2, Listeners W2, Petrification_Disease W2, Theologie_du_Star W2 ; les autres pages, déjà bumpées dans ce build, le portent en note. Noms de fichiers inchangés.
 - note W16 : forage de la partie 5.2 (La Ville Malade, ch.3-4). (1) NOUVELLE ROADMAP : Roadmap_05_2_La_Ville_Malade (R1, NON indexée, source de build). (2) _Implications I13 -> I14 : dettes de fiches du forage 5.2 consignées (passif Venigni/Markiona au Parlement + closure d'Arlecchino AVANCÉE au ch.3, fil du jouet-chevalier SUPPRIMÉ ; Tchekhov Markiona = Geppetto lui révèle son rôle dans la Frénésie + la peau de Léa + le rôle de Romeo, elle se tait pour épargner Magnus ; jubilation à la chute d'Andreas REFORMULÉE = "Magnus dépasse l'apogée de l'alchimie" ; la Rédemptée épargnée/ralliée à Aurus via la réputation des Loups ; démasquage de Parrot par la VOIX [Alidoro = ami] ; reconnaissance muette + fascination accrue de Paracelsus pour Magnus ; aveu des horreurs de Markiona devant les Carcasses ; aggravation Pétrification = sang + poudre de cristaux bleue) + pense-bêtes (discussion Mère/Fils calée post-reveal Romeo ; Aîné des Lapins Noirs à trancher 5.2-option/5.3-Malum ; graine sequel Paracelsus/Magnus) + flag relecture peau-de-Léa. (3) BIBLE INCHANGÉE (B7) : dette B8 inchangée (Parlement des Artisans / Fabrique Artisanale Venigni). AUCUNE fiche bumpée (bumps 5.1 ET 5.2 en DETTE, cf. I14).
@@ -16,65 +17,66 @@
 ## WIKI
 
 > Couche canon LOP (univers Lies of P), construite de zéro à partir du transcript (base game + DLC Overture).
-> BIBLE : BIBLE_LORE_LOP.md (racine du dossier LOP/, B9). Chaque entrée porte la version (W<N>) de la page.
+> BIBLE : BIBLE_LORE_LOP.md (racine du dossier LOP/, B10). Chaque entrée porte la version (W<N>) de la page.
 
 ### Personnages/
 Description : fiches noyau des personnages (canon), état au point de départ.
-- Pinocchio.md (W7) - le pantin "P", protagoniste du jeu, créé par Geppetto à l'image de Carlo ; peut mentir ; [DIVERGENCE RP] baptisé par Magnus, entré à l'Hôtel Krat sans mentir.
-- Pinocchio_chrono_A.md (W1) - satellite : Trajectoire datée de Pinocchio, de sa création à l'Ère 5 (1852 ; voyage de 1850 placé en 5.5).
-- Giuseppe_Geppetto.md (W6) - créateur des pantins ; antagoniste caché (Loi Zéro, Frénésie des Pantins).
-- Sophia_Monad.md (W5) - Oreille / "Fée bleue" ; fille de Valentinus ; guide P ; prisonnière de Simon.
+- Pinocchio.md (W8) - le pantin "P", protagoniste du jeu, créé par Geppetto à l'image de Carlo ; peut mentir ; [DIVERGENCE RP] baptisé par Magnus, entré à l'Hôtel Krat sans mentir.
+- Pinocchio_chrono_A.md (W2) - satellite : Trajectoire datée de Pinocchio, de sa création à l'Ère 5 (1852 ; voyage de 1850 placé en 5.5).
+- Giuseppe_Geppetto.md (W7) - créateur des pantins ; antagoniste caché (Loi Zéro, Frénésie des Pantins).
+- Sophia_Monad.md (W6) - Oreille / "Fée bleue" ; fille de Valentinus ; guide P ; prisonnière de Simon.
 - Gemini.md (W2) - grillon-lanterne ; guide permanent de P.
 - Romeo.md (W8) - Roi des Pantins (VO : King of Puppets) ; ami d'enfance de Carlo ; meneur de la révolte des pantins ; [DIVERGENCE RP] ami de Magnus, se donne la mort à l'Opéra (1852).
 - Carlo.md (W6) - fils mort de Geppetto ; modèle de Pinocchio ; moteur de l'intrigue.
 - Camille.md (W5) - Camille, épouse de Geppetto, mentor de Markiona [DIVERGENCE RP] ; "Camil" = le pantin-servante animé par son Ergo (une personne, deux corps) ; éveil de l'Ego ; Oreille.
-- Simon_Manus.md (W2) - antagoniste principal ; alchimiste devenant Dieu Éveillé.
+- Simon_Manus.md (W3) - antagoniste principal ; alchimiste devenant Dieu Éveillé.
 - Valentinus_Monad.md (W2) - fondateur des Alchimistes ; père de Sophia ; excommunié.
 - Lea_Florence_Monad.md (W9) - Rôdeuse Légendaire ; mentor de Carlo et Romeo ; traque Arlecchino.
 - Arlecchino.md (W4) - pantin meurtrier (DLC) ; "l'Artiste de sang" (1850) ; vengeance contre Léa ; [DIVERGENCE RP] détruit en 1850, plus d'Arlecchino en 1852.
-- Markiona.md (W11) - fiche NOYAU : alchimiste, la Marionnettiste de la Mort ; typologie des Pantins de l'Arc ; son Magnum Opus = Magnus ; mécanique du cristal de Camille.
+- Markiona.md (W12) - fiche NOYAU : alchimiste, la Marionnettiste de la Mort ; typologie des Pantins de l'Arc ; son Magnum Opus = Magnus ; mécanique du cristal de Camille.
 - Markiona_chrono_A.md (W2) - satellite : Trajectoire datée de Markiona, antériorité et Ères 1-4 (pré-1847 -> printemps 1852).
-- Markiona_chrono_B.md (W2) - satellite : Trajectoire datée de Markiona, Ère 5 (1852+) : parties 5.1 à 5.3.
-- Markiona_relations.md (W2) - satellite : texture des relations (Magnus, Geppetto, Camille, Léa, Romeo, Sophia, P, Rôdeurs, Venigni, Paracelsus, etc.).
-- Magnus.md (W8) - fiche NOYAU : [OC] pantin parfait né du Coeur de l'Arc (cristal d'Ergo émeraude), indiscernable d'un humain, Ego inné ; Magnum Opus de Markiona ; comprend la langue des pantins.
+- Markiona_chrono_B.md (W3) - satellite : Trajectoire datée de Markiona, Ère 5 (1852+) : parties 5.1 à 5.4.
+- Markiona_relations.md (W3) - satellite : texture des relations (Magnus, Geppetto, Camille, Léa, Romeo, Sophia, P, Rôdeurs, Venigni, Paracelsus, etc.).
+- Magnus.md (W9) - fiche NOYAU : [OC] pantin parfait né du Coeur de l'Arc (cristal d'Ergo émeraude), indiscernable d'un humain, Ego inné ; Magnum Opus de Markiona ; comprend la langue des pantins.
 - Magnus_chrono_A.md (W1) - satellite : Trajectoire datée de Magnus, Ères 1-4 (1847 -> printemps 1852).
-- Magnus_chrono_B.md (W2) - satellite : Trajectoire datée de Magnus, Ère 5 (1852+) : parties 5.1 à 5.3.
-- Laxasia.md (W2) - la Complète (VO : the Complete) / ex-Sister Adriana ; bras droit de Simon ; boss majeur.
+- Magnus_chrono_B.md (W3) - satellite : Trajectoire datée de Magnus, Ère 5 (1852+) : parties 5.1 à 5.4.
+- Laxasia.md (W3) - la Complète (VO : the Complete) / ex-Sister Adriana ; bras droit de Simon ; boss majeur.
 - Philip_Paracelsus.md (W3) - alias Giangio ; alchimiste caché ; fil du sequel (Dorothy).
-- Alidoro_et_Parrot.md (W4) - le vrai Alidoro / le Limier (VO : Tracker), et l'imposteur Parrot.
-- Antonia.md (W3) - propriétaire de l'Hôtel Krat ; atteinte de Pétrification.
+- Alidoro_et_Parrot.md (W5) - le vrai Alidoro / le Limier (VO : Tracker), et l'imposteur Parrot.
+- Hugo.md (W1) - explorateur débutant, fan d'Alidoro (Marais Aride) ; [DIVERGENCE RP] apprend de Magnus l'imposture de Parrot (1852), futur Limier.
+- Antonia.md (W4) - propriétaire de l'Hôtel Krat ; atteinte de Pétrification.
 - Polendina.md (W3) - majordome pantin à Ego éveillé ; amoureux d'Antonia.
-- Eugenie.md (W2) - armurière de l'hôtel ; soeur du vrai Alidoro.
-- Lorenzini_Venigni.md (W3) - inventeur prodige de Krat ; fonde et dirige la Fabrique Artisanale Venigni ; tram et sous-marin Pistrus ; allié du Parlement des Artisans / de l'Hôtel.
+- Eugenie.md (W3) - armurière de l'hôtel ; soeur du vrai Alidoro.
+- Lorenzini_Venigni.md (W4) - inventeur prodige de Krat ; fonde et dirige la Fabrique Artisanale Venigni ; tram et sous-marin Pistrus ; allié du Parlement des Artisans / de l'Hôtel.
 - Pulcinella.md (W2) - majordome pantin de Lorenzini Venigni ; disparaît à la Fabrique pendant la Frénésie ; retrouvé détruit mais réparable, marchand de l'hôtel.
-- Les_Hiboux.md (W4) - le cercle d'Adelina Corde : sa soeur la Dame Blanche (Patricia) et son amant le Chouette Médecin (VO : Owl Doctor).
+- Les_Hiboux.md (W5) - le cercle d'Adelina Corde : sa soeur la Dame Blanche (Patricia) et son amant le Chouette Médecin (VO : Owl Doctor).
 - Lumacchio.md (W4) - chef des Bâtards ; traître au service de Simon.
 - Veronique.md (W6) - cheffe des Balayeurs ; piégée par les Alchimistes.
-- Claudia_et_Lucio.md (W4) - le duo d'arnaqueurs de Collodi : la Renarde Rousse (Claudia Volfe, légitime, Bâtards) et le Chat Noir (Lucio Volfe, bâtard, Balayeurs), demi-fratrie en double-jeu inter-factions.
+- Claudia_et_Lucio.md (W5) - le duo d'arnaqueurs de Collodi : la Renarde Rousse (Claudia Volfe, légitime, Bâtards) et le Chat Noir (Lucio Volfe, bâtard, Balayeurs), demi-fratrie en double-jeu inter-factions.
 - Archbishop_Andreas.md (W2) - archevêque corrompu ; muté en Ange à une Aile.
 - Cecile.md (W2) - nonne meurtrière ; voleuse du Bras de Dieu pour Andreas.
 - Rosaura.md (W3) - pantin-amie de Carlo ; clé échappée (DLC).
 - Madoro.md (W3) - reporter/medic ; relais de la vérité sur les Alchimistes.
-- PNJ_secondaires.md (W7) - fiche groupée (Belle, Julian/Melody, la Rédemptée, Âne fou, Klaus, Hugo, Godard, Colonel Little/Rex, Luca, Subject 826, Columbo, Dorothy, Decart, Cassius).
+- PNJ_secondaires.md (W8) - fiche groupée (Belle, Julian/Melody, la Rédemptée, Âne fou, Klaus, Godard, Colonel Little/Rex, Luca, Subject 826, Columbo, Dorothy, Decart, Cassius).
 
 ### Creatures/
 Description : boss et créatures notables.
-- Boss_et_Creatures.md (W5) - fiche groupée (Maître du Défilé (VO : Parade Master), Veilleur Désarticulé/Murphy (VO : Scrapped Watchman), Fuoco, Roi des Pantins (VO : King of Puppets), Pantin Clown Enragé (VO : Mad Clown Puppet), Marcheur d'Illusions (VO : Walker of Illusions), Champion Victor, Monstre Vert du Marais (VO : Green Monster of the Swamp), Gardien Tourmenté (VO : Anguished Guardian), Surveillant aux Deux Visages (VO : Two-Faced Overseer), prédateur tyrannique (VO : Tyrant Predator), Pantin sans Nom (VO : Nameless Puppet), Gardien de la Porte (VO : Door Guardian), Ange de l'Arc reforgé).
+- Boss_et_Creatures.md (W6) - fiche groupée (Maître du Défilé (VO : Parade Master), Veilleur Désarticulé/Murphy (VO : Scrapped Watchman), Fuoco, Roi des Pantins (VO : King of Puppets), Pantin Clown Enragé (VO : Mad Clown Puppet), Marcheur d'Illusions (VO : Walker of Illusions), Champion Victor, Monstre Vert du Marais (VO : Green Monster of the Swamp), Gardien Tourmenté (VO : Anguished Guardian), Surveillant aux Deux Visages (VO : Two-Faced Overseer), prédateur tyrannique (VO : Tyrant Predator), Pantin sans Nom (VO : Nameless Puppet), Gardien de la Porte (VO : Door Guardian), Ange de l'Arc reforgé).
 
 ### Lieux/
 Description : fiches des lieux du monde.
-- Krat.md (W2) - la ville-cadre ; pauvreté -> âge d'or via l'Ergo -> chute.
-- Hotel_Krat.md (W3) - refuge ; ancien château/asile ; Arbre à Fruits d'Or ; au-dessus de la Relique.
+- Krat.md (W3) - la ville-cadre ; pauvreté -> âge d'or via l'Ergo -> chute ; [DIVERGENCE RP] géographie du RP (temps de trajet depuis l'Hôtel Krat).
+- Hotel_Krat.md (W4) - refuge ; ancien château/asile ; Arbre à Fruits d'Or ; au-dessus de la Relique.
 - Relic_of_Trismegistus.md (W2) - gouffre, Crowd, mine d'Ergo.
 - Aisle_of_Alchemists_Arch_Abbey.md (W2) - île étrangère des Alchimistes ; machine d'Ergo.
 - Cathedrale_St_Frangelico.md (W3) - cathédrale d'Andreas ; Bras de Dieu.
 - Venigni_Works.md (W2) - usine de Lorenzini Venigni (= Fabrique Artisanale Venigni) ; prise par Fuoco.
-- Grand_Exhibition.md (W3) - showcase jamais tenu ; drogue/élixir ; Champion Victor.
+- Grand_Exhibition.md (W4) - showcase jamais tenu ; drogue/élixir ; Champion Victor.
 - Krat_Zoo.md (W3) - DLC : Colonel Little, Markiona, carnival.
 - Zelator_Facility.md (W4) - DLC : expériences sur les Oreilles ; Arbre à Fruits d'Or.
 - Rose_Estate_Monad_Charity_House.md (W3) - DLC : refuge des notables ; maison de charité (VO : charity house).
-- Quartiers_de_Krat.md (W4) - fiche groupée des sous-lieux (gare, boulevards, Malum, opéra, Marais Aride (VO : Barren Swamp), Tour des Artisans (VO : Workshop Tower), etc.).
-- Aurus.md (W3) - [DIVERGENCE RP] havre souterrain où se terre le duo Magnus / Markiona après la fuite du Zelator (1847-1848) ; quartier pauvre et pêcheur, terrain des Balayeurs ; jardin à arômes sous lampe à Ergo ; refuge des Rôdeurs épargnés (1852).
+- Quartiers_de_Krat.md (W5) - fiche groupée des sous-lieux (gare, boulevards, Malum, opéra, Marais Aride (VO : Barren Swamp), Tour des Artisans (VO : Workshop Tower), etc.).
+- Aurus.md (W4) - [DIVERGENCE RP] havre souterrain où se terre le duo Magnus / Markiona après la fuite du Zelator (1847-1848) ; quartier pauvre et pêcheur, terrain des Balayeurs ; jardin à arômes sous lampe à Ergo ; refuge des Rôdeurs épargnés (1852).
 
 ### Factions/
 Description : factions et groupes organisés.
@@ -91,7 +93,7 @@ Description : systèmes et règles du monde.
 - Puppet_Frenzy.md (W2) - révolte des pantins ; causes ; Romeo.
 - Listeners.md (W2) - écouteurs de l'Ergo ; manipulation du temps.
 - Arm_of_God.md (W2) - relique ; Guardian ; ascension de Simon.
-- Stargazers.md (W4) - téléportation ; boucle temporelle ; Stargazer doré (VO : golden stargazer).
+- Stargazers.md (W5) - téléportation ([DIVERGENCE RP] réservée à P) ; boucle temporelle ; Stargazer doré (VO : golden stargazer).
 - Gold_Coin_Tree.md (W3) - arbre issu des Oreilles ; Fruit d'Or ; [DIVERGENCE RP] règle du coeur pur.
 - Humanity_System.md (W2) - mensonge, musique, Organe-P, fins.
 - Theologie_du_Star.md (W2) - le Star/ange tombé ; Ange à une Aile (VO : One-Winged Angel) ; doctrine alchimique.
@@ -99,16 +101,16 @@ Description : systèmes et règles du monde.
 
 ### Objets/
 Description : objets et reliques narrativement significatifs.
-- Objets_et_Reliques.md (W5) - fiche groupée (Organe-P (VO : P-Organ), Ergo doré (VO : Golden Ergo), décodeur d'onde Ergo (VO : Ergo Wavelength Decoder), Chrysalide stellaire (VO : Stars Chrysalis), épée de la Rose (VO : Rose Sword), Marque Sainte (VO : Holy Mark), Fruit d'Or (VO : Gold Coin Fruit), Broche Monad, Cor nimbé d'aurore (VO : Daylight-Wreathed Horn), oeil d'Ouroboros (VO : Ouroboros Eye), portrait de Carlo, sainte de la miséricorde (VO : Saintess of Mercy), pendentif de Carlo, prototype de Zelator [DIVERGENCE RP]).
+- Objets_et_Reliques.md (W6) - fiche groupée (Organe-P (VO : P-Organ), Ergo doré (VO : Golden Ergo), décodeur d'onde Ergo (VO : Ergo Wavelength Decoder), Chrysalide stellaire (VO : Stars Chrysalis), épée de la Rose (VO : Rose Sword), Marque Sainte (VO : Holy Mark), Fruit d'Or (VO : Gold Coin Fruit), Broche Monad, Cor nimbé d'aurore (VO : Daylight-Wreathed Horn), oeil d'Ouroboros (VO : Ouroboros Eye), portrait de Carlo, sainte de la miséricorde (VO : Saintess of Mercy), pendentif de Carlo, prototype de Zelator [DIVERGENCE RP]).
 
 ### Documents de travail (non fetchés en narration)
-- _Implications.md (I16) - bloc de coordination (règles transversales, dettes, pense-bêtes ouverts).
-- Chronologie.md (C9) - timeline GLOBALE du parcours de Magnus (calendrier in-world 1847-1852), grosses mailles ; allégée (détail Ères 1-4 -> roadmaps) ; Ère 5 découpée en 6 parties, 5.1 à 5.3 roadmappées. Échafaudage build-side, jamais fetché en narration. À NE PAS confondre avec BIBLE SB6 (chronologie du MONDE).
+- _Implications.md (I17) - bloc de coordination (règles transversales, dettes, pense-bêtes ouverts).
+- Chronologie.md (C10) - timeline GLOBALE du parcours de Magnus (calendrier in-world 1847-1852), grosses mailles ; allégée (détail Ères 1-4 -> roadmaps) ; Ère 5 découpée en 6 parties, 5.1 à 5.4 roadmappées. Échafaudage build-side, jamais fetché en narration. À NE PAS confondre avec BIBLE SB6 (chronologie du MONDE).
 
-> ROADMAPS (par arc) : Roadmap_01_Eveil (Ère 1, R2), Roadmap_02_Les_Loups (Ère 2, R3), Roadmap_03_Overture (Ère 3, R3), Roadmap_04_La_Frenzy (Ère 4, R2), Roadmap_05_1_Le_Reveil (Ère 5, partie 1/6, R3), Roadmap_05_2_La_Ville_Malade (Ère 5, partie 2/6, R3) et Roadmap_05_3_Le_Roi_des_Pantins (Ère 5, partie 3/6, R1) PRODUITES. NON indexées (sources de build, v8.2 : jamais fetchées en jeu ; se lisent en listant LOP/Roadmap/Magnus/). Ère 5 DÉCOUPÉE en 6 parties (cf. Chronologie C9) : 5.1-5.3 PRODUITES, 5.4-5.6 à forer.
+> ROADMAPS (par arc) : Roadmap_01_Eveil (Ère 1, R2), Roadmap_02_Les_Loups (Ère 2, R3), Roadmap_03_Overture (Ère 3, R3), Roadmap_04_La_Frenzy (Ère 4, R2), Roadmap_05_1_Le_Reveil (Ère 5, partie 1/6, R3), Roadmap_05_2_La_Ville_Malade (Ère 5, partie 2/6, R3) Roadmap_05_3_Le_Roi_des_Pantins (Ère 5, partie 3/6, R2) et Roadmap_05_4_La_Verite_de_Geppetto (Ère 5, partie 4/6, R1) PRODUITES. NON indexées (sources de build, v8.2 : jamais fetchées en jeu ; se lisent en listant LOP/Roadmap/Magnus/). Ère 5 DÉCOUPÉE en 6 parties (cf. Chronologie C10) : 5.1-5.4 PRODUITES, 5.5-5.6 à forer.
 > FICHES D'ARC / CODEX : pas encore produits comme livrables dédiés (Passe 3).
-> Statut Passe 2 (boucle serrée) : Ères 1 (1847), 2 (1848-1850), 3 (Overture, 1850) et 4 (La Frénésie, hiver 1850-1851 -> printemps 1852) DÉTAILLÉES et CLÔTURÉES côté fiches ; roadmaps Ères 1-4 produites. Ère 5 (base game, 1852+) DÉCOUPÉE en 6 parties : 5.1 (Le Réveil), 5.2 (La Ville Malade) et 5.3 (Le Roi des Pantins) FORÉES ; 5.4-5.6 à forer. Bumps de fiches des forages 5.1 et 5.2 SOLDÉS (BIBLE BUILD B8), 5.3 propagés à chaud (BIBLE BUILD B9). Relecture croisée de clôture : APRÈS la dernière partie (5.6).
-> L'échafaudage des ères vit dans Chronologie.md (Documents de travail, C9 ; Ères 1-4 -> roadmaps, Ère 5 découpée) ; les Fiches_Arc/ et le CODEX viendront en Passe 3.
+> Statut Passe 2 (boucle serrée) : Ères 1 (1847), 2 (1848-1850), 3 (Overture, 1850) et 4 (La Frénésie, hiver 1850-1851 -> printemps 1852) DÉTAILLÉES et CLÔTURÉES côté fiches ; roadmaps Ères 1-4 produites. Ère 5 (base game, 1852+) DÉCOUPÉE en 6 parties : 5.1 (Le Réveil), 5.2 (La Ville Malade), 5.3 (Le Roi des Pantins) et 5.4 (La Vérité de Geppetto) FORÉES ; 5.5-5.6 à forer. Bumps de fiches des forages 5.1 et 5.2 SOLDÉS (BIBLE BUILD B8), 5.3 et 5.4 propagés à chaud (BIBLE BUILD B9, B10). Relecture croisée de clôture : APRÈS la dernière partie (5.6).
+> L'échafaudage des ères vit dans Chronologie.md (Documents de travail, C10 ; Ères 1-4 -> roadmaps, Ère 5 découpée) ; les Fiches_Arc/ et le CODEX viendront en Passe 3.
 
 ---
 

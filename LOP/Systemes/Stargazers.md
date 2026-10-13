@@ -1,6 +1,7 @@
 # Stargazers
 
-- version : W4
+- version : W5
+- note W5 : forage 5.4 [DIVERGENCE RP]. Téléportation réservée à P (décision worldbuilder).
 - note W4 : forage 5.3 [DIVERGENCE RP]. Magnus voit Sophia au grand Stargazer ; Stargazer doré vu inactif en 5.3 (voyage en 5.5) ; + sous-bloc Stargazers du District Malum.
 - note W3 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
@@ -13,6 +14,7 @@
 
 - Invention des rôdeurs. Les Balayeurs (faction rôdeur issue des ruelles) avaient pour mission d'installer les Stargazers dans toute la ville de Krat.
 - Permettent de téléporter entre Stargazers actifs partout dans Krat (mécanique de base du gameplay).
+  - [DIVERGENCE RP] Dans le RP, la téléportation est réservée à P (décision worldbuilder ; sinon, pas d'Overture). Magnus et Markiona vont à pied ou en tram. cf. Lieux/Krat.md (Géographie du RP).
 - Pendant l'outbreak de la Maladie de Pétrification : les Stargazers absorbent les spores d'Ergo de l'air -> zones sûres (temporairement) pour les résidents.
 - Au réveil de P (début du base game), tous les Stargazers sont détruits.
 

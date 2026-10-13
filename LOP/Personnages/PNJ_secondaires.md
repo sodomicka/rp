@@ -1,11 +1,12 @@
 # PNJ Secondaires
 
-- version : W7
+- version : W8
+- note W8 : forage 5.4. Hugo sorti en fiche dédiée (Personnages/Hugo.md, décision worldbuilder). Belle : rejoint l'Hôtel Krat [CANON SUPPOSÉ] ; le trio la croise (5.4).
 - note W7 : forage 5.3 [DIVERGENCE RP]. Julian : la réponse de Magnus. + Rétro : l'Âne fou et la Rédemptée ne voient en P qu'un Rôdeur au bras de métal.
 - note W6 : forages 5.1 et 5.2. Âne fou : rôle 1852 fixé (épargné au Pont des Alchimistes, réfugié à Aurus). La Rédemptée : Balayeuse confirmée, épargnée au funiculaire, ralliée à Aurus. + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 > Fiche groupée. Chaque entité = un bloc indépendant.
-> Personnages : Belle, Julian + Melody, la Rédemptée, Âne fou, Klaus, Hugo, Godard,
+> Personnages : Belle, Julian + Melody, la Rédemptée, Âne fou, Klaus, Godard,
 >               Colonel Little + Rex, Luca, Subject 826, Columbo, Dorothy, Decart, Cassius.
 
 ---
@@ -24,7 +25,8 @@
 - Alerte P sur la présence de vats contenant un liquide étrange (probablement la drogue).
 
 ### Sort connu
-- Sort après la rencontre non spécifié dans la source.
+- Sort après la rencontre non spécifié dans la source. [CANON SUPPOSÉ] Elle rejoint l'Hôtel Krat (ch.7), puis demande à P de retrouver son compagnon.
+- [DIVERGENCE RP - 1852 (5.4)] Le trio la croise à la Grande Exposition ; elle rejoint l'hôtel, en arrière-plan.
 
 ---
 
@@ -108,22 +110,6 @@
 
 ### Sort connu
 - Sort non spécifié au-delà de ses rôles d'informateur.
-
----
-
-## HUGO
-
-### Identité
-- Nom : Hugo. Nature : humain, "rookie explorer". Fan déclaré d'Alidoro.
-
-### Rôle
-- Rencontre P sur les falaises au-delà du Marais Aride.
-- Fan admiratif d'Alidoro ; a suivi ses traces jusqu'à une impasse.
-- Évoque les rumeurs sur Alidoro (fraude, vol, agression), les attribue à la jalousie ; confirme la wanted poster ; affirme qu'Alidoro a sauvé de nombreuses vies à l'effondrement de la Tour des Artisans.
-- Trouve un journal (a centuries notebook). Envoyé s'occuper du monstre du marécage, surpris par sa taille ; renfort refusé.
-
-### Sort connu
-- Sort non spécifié au-delà de la rencontre.
 
 ---
 

@@ -1,7 +1,8 @@
 # Roadmap 05.3 - Le Roi des Pantins (Magnus, Ère 5)
 
 - statut : DÉTAILLÉE (remplie au gabarit, 2026-10-12)
-- version : R1
+- version : R2
+- note R2 : rétro du forage 5.4. Le message de Romeo est décodé en 5.5 (canon : ch.10, après l'enlèvement de Geppetto), et non en 5.4. La décharge du Tchekhov Markiona en 5.4 est partielle (Romeo seul).
 - note R1 : création (forage 5.3 ; grandes lignes v7 validées par le worldbuilder ; fiches propagées aux lots 1 à 4 et révisions Julian, Aurus et nuit d'Aurus).
 - arc : Ère 5 - Le réveil et la fin (base game, 1852+) | PARTIE 5.3 - Le Roi des Pantins (chapitres 5-6 du jeu)
 - prota : Magnus
@@ -18,7 +19,7 @@
 - État de Magnus à l'ouverture : fraternel avec P ; aime sa mère ; ne fait pas confiance à Geppetto ; ennemi de Manus depuis 1847. Sait depuis 1850, par la confidence de Léa, que P est Carlo "en un sens" ; n'a JAMAIS vu Carlo. cf. Personnages/Magnus.md.
 - État de Markiona à l'ouverture : VIVANTE, déclin AGGRAVÉ et visible. Tchekhov en place : elle sait (Frénésie, peau de Léa, rôle de Romeo) et se tait. Cristal de Camille EN RÉSERVE ; prototype de Zelator (récupéré en 1850) toujours secret. cf. Personnages/Markiona.md, Markiona_chrono_B.
 - Claudia (la Renarde Rousse) et Lucio (le Chat Noir) : partis vers Malum depuis la Fabrique (5.2). Ils travaillent pour Simon, mais toujours pour leur propre intérêt. La vue de Lucio baisse (Pétrification oculaire). cf. Personnages/Claudia_et_Lucio.md.
-- Tchekhov en place (NE PAS détoner ici) : cristal de Camille (EN RÉSERVE) ; peau de Léa -> paiement public en 5.6 ; message de Romeo / Loi Zéro -> décodé par Venigni en 5.4 ; sort de Sophia / voeu de délivrance -> 5.6 ; prototype de Zelator (issue non fixée).
+- Tchekhov en place (NE PAS détoner ici) : cristal de Camille (EN RÉSERVE) ; peau de Léa -> paiement public en 5.6 ; message de Romeo / Loi Zéro -> décodé par Venigni en 5.5 ; sort de Sophia / voeu de délivrance -> 5.6 ; prototype de Zelator (issue non fixée).
 
 ## Les trois moteurs de Magnus (fil directeur, décision worldbuilder)
 - Sa MÈRE (Markiona), son ÂME SOEUR (Sophia), son PETIT FRÈRE (P). Chaque partie nourrit les trois. À chaque passage au hub, Magnus VOIT Sophia au grand Stargazer, pas seulement sa voix. cf. Personnages/Sophia_Monad.md.
@@ -30,7 +31,7 @@ Ces fils ne sont PAS des étapes : ils courent en continu sous les étapes ci-de
 - FIL "P SE BAT COMME LÉA" [DIVERGENCE RP] : la chair de Léa garde sa mémoire musculaire. Seul Romeo la connaissait assez bien pour la voir ET la nommer (étape 9 : le style, surtout les taches de rousseur) ; il n'en dit rien. Alidoro (1850, joué en 5.5 côté P), l'un des cinq seuls Rôdeurs importants et neutres (avec Magnus, Markiona, Léa et Romeo), reconnaît le style sans pouvoir le nommer. Magnus et Markiona ne s'en sont jamais rendu compte ; Léa non plus, trop bouleversée de revoir le visage de Carlo. Les autres Rôdeurs (Claudia, Lucio, la Dame Blanche ici ; l'Âne fou et la Rédemptée avant) ne voient qu'un Rôdeur au bras de métal, ni Carlo ni Léa. Signature physique : Carlo = Real Boy (yeux marrons) ; P = Léa (yeux bleus, taches de rousseur). cf. Personnages/Pinocchio.md, Lea_Florence_Monad.md.
 - FIL PROTOTYPE DE ZELATOR [DIVERGENCE RP] : récupéré par Markiona au complexe Zelator en 1850 (rétro Roadmap_03) ; il a servi à concevoir la nutrition de Magnus (extraction d'Ergo). Elle n'y travaille qu'à Aurus, jamais à l'Hôtel Krat ni en voyage, et ne dit jamais à Magnus ce qu'est ce projet. En vérité, elle se doute de l'état de santé de Sophia et veut extraire son Ergo et son Ego vers un pantin, pour que Magnus ait de la compagnie pour toujours après sa mort à elle. Issue et révélation non fixées. cf. Objets/Objets_et_Reliques.md.
 - FIL FRUIT D'OR [DIVERGENCE RP] : règle du coeur pur - tout le monde peut approcher l'arbre, seuls Magnus et P peuvent cueillir ; les autres s'y brûlent. Claudia dépend d'eux pour les yeux de Lucio. Les Alchimistes n'en ont jamais eu de vrai : des promesses et un ersatz, d'où le "jamais assez" du Chat. En 5.3, l'arbre ne porte que deux fruits. cf. Systemes/Gold_Coin_Tree.md, Personnages/Claudia_et_Lucio.md.
-- FIL GRAND COVENANT [DIVERGENCE RP] : P et Magnus ont en commun de ne pas y répondre ; ni l'un ni l'autre ne sait rien de la Loi Zéro (décodée par Venigni en 5.4). Magnus entend les ondes des pantins, pas la Loi Zéro. cf. Systemes/Grand_Covenant.md, Objets/Objets_et_Reliques.md (décodeur).
+- FIL GRAND COVENANT [DIVERGENCE RP] : P et Magnus ont en commun de ne pas y répondre ; ni l'un ni l'autre ne sait rien de la Loi Zéro (décodée par Venigni en 5.5). Magnus entend les ondes des pantins, pas la Loi Zéro. cf. Systemes/Grand_Covenant.md, Objets/Objets_et_Reliques.md (décodeur).
 
 ## Étapes
 
@@ -61,8 +62,8 @@ Ces fils ne sont PAS des étapes : ils courent en continu sous les étapes ci-de
   - Antonia : remède donné (bref moment de joie, canon supposé) ; Giangio, fasciné par Magnus.
   - P : décodeur en poche ; ses cheveux poussent ; toujours fraternel avec Magnus. Le trio poursuit.
 - FUSILS ARMÉS, pointant la suite de l'Ère 5 :
-  1. Tchekhov Markiona (Frénésie + peau de Léa + Romeo) : à son comble, tu -> décharge en discussion Mère/Fils (5.4).
-  2. message de Romeo (Loi Zéro, Geppetto contrôle la Frénésie) : capté, décodé par Venigni -> 5.4.
+  1. Tchekhov Markiona (Frénésie + peau de Léa + Romeo) : à son comble, tu -> décharge partielle en discussion Mère/Fils (5.4 : Romeo seul).
+  2. message de Romeo (Loi Zéro, Geppetto contrôle la Frénésie) : capté, décodé par Venigni -> 5.5.
   3. peau de Léa : indice planté (Romeo l'a vue, emportée dans sa mort) -> paiement public en 5.6.
   4. fruit de Lucio : cueilli par Magnus, à remettre au prochain croisement avec Claudia et Lucio.
   5. prototype de Zelator : vu par Magnus, projet tu -> issue et révélation non fixées.
@@ -70,7 +71,7 @@ Ces fils ne sont PAS des étapes : ils courent en continu sous les étapes ci-de
   7. Confrérie : l'Aîné ressuscité par les Alchimistes, vengeance jurée -> rematch à la Relique de Trismegistus (5.5).
   8. cristal de Camille : en réserve, non frôlé -> plus loin dans l'Ère 5.
   9. sort de Sophia / voeu de délivrance ; ombre de Manus -> 5.6.
-- Charnière vers 5.4 (La Vérité de Geppetto) : depuis le hub, le parcours canon enchaîne sur l'Arcade Lorenzini puis la Grande Exposition (Belle ; Champion Victor ; reveal de Simon Manus, Ergo = âmes cristallisées) et le Marais Aride. Venigni décode le message de Romeo. Le duo OC poursuit avec P ; décharge du Tchekhov Markiona.
+- Charnière vers 5.4 (La Vérité de Geppetto) : depuis le hub, le parcours canon enchaîne sur l'Arcade Lorenzini puis la Grande Exposition (Belle ; Champion Victor ; reveal de Simon Manus, Ergo = âmes cristallisées) et le Marais Aride. Le message de Romeo attend la 5.5. Le duo OC poursuit avec P ; décharge partielle du Tchekhov Markiona.
 
 ## Fils de la Chronologie résolus par cette partie
 - Ironie Roi des Pantins = Romeo -> PAYÉE : Magnus le reconnaît au visage, l'étreint ; Romeo se donne la mort.

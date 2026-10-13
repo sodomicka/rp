@@ -1,6 +1,7 @@
 # Claudia et Lucio
 
-- version : W4
+- version : W5
+- note W5 : forage 5.4 [DIVERGENCE RP]. Fruit de Lucio remis : cécité freinée, pas guérie.
 - note W4 : forage 5.3 [DIVERGENCE RP]. Aux ordres de Simon, pour leur propre compte ; la route de Malum (proposition de la Renarde, aide du Chat, départ avant le Red Lobster) ; règle du coeur pur précisée (tout le monde approche l'arbre, seuls P et Magnus cueillent) ; ersatz des Alchimistes ; Magnus cueille le fruit de Lucio. + Régime R5 (canon post-Frénésie repris).
 - note W3 : numérotation des ères alignée sur la Chronologie (Frénésie = Ère 4 ; base game = Ère 5). + Passage à la Fabrique Artisanale Venigni (5.2) : discussion entre Rôdeurs, Markiona prudente, départ vers le District Malum. + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
@@ -46,7 +47,7 @@
 
 ### Sort connu / État (à fin Ère 4, printemps 1852)
 - Survivante de la décimation : absente de la Bataille de la Tour des Artisans (cf. section 3), elle échappe au massacre des rôdeurs.
-- Ère 5 (1852) : travaille pour Simon, toujours pour son propre compte ; quête du Fruit d'Or pour les yeux de son frère (cf. sections 3 et 4). Suite : roadmaps 5.4 à 5.6.
+- Ère 5 (1852) : travaille pour Simon, toujours pour son propre compte ; quête du Fruit d'Or pour les yeux de son frère (cf. sections 3 et 4). Suite : roadmaps 5.5 et 5.6.
 
 ---
 
@@ -76,7 +77,7 @@
 
 ### Santé
 - Dès 1850 (fin d'Ère 2), sa vue commence à baisser : Maladie de Pétrification naissante, focalisée sur les yeux. [Datation : DIVERGENCE RP. La maladie oculaire elle-même est canon, attestée plus tard dans le jeu (malade à la Grande Exposition, atteinte centrée sur les yeux).] Fusil de Tchekhov posé ici ; suite datée ci-dessous.
-- 1852 (5.3) : la vue continue de baisser (Pétrification oculaire). Un Fruit d'Or l'attend, cueilli pour lui par Magnus. [À FIXER] remise du fruit (au prochain croisement).
+- 1852 (5.3) : la vue continue de baisser (Pétrification oculaire). Un Fruit d'Or l'attend, cueilli pour lui par Magnus. [DIVERGENCE RP - 1852 (5.4)] Remis à la Renarde : il freine la cécité sans la guérir.
 
 ### Relations
 - Claudia Volfe / la Renarde Rousse : demi-soeur, unique loyauté (cf. sections 1 et 3).
@@ -85,7 +86,7 @@
 
 ### Sort connu / État (à fin Ère 4, printemps 1852)
 - Survivant de la décimation : absent de la Tour des Artisans (cf. section 3), vue de plus en plus faible.
-- Ère 5 (1852) : travaille pour Simon, toujours pour son propre compte ; vue en baisse ; un Fruit d'Or cueilli pour lui par Magnus en 5.3 (cf. sections 3 et 4). Suite : roadmaps 5.4 à 5.6.
+- Ère 5 (1852) : travaille pour Simon, toujours pour son propre compte ; vue en baisse ; un Fruit d'Or cueilli pour lui par Magnus en 5.3, remis en 5.4 (cf. sections 3 et 4). Suite : roadmaps 5.5 et 5.6.
 
 ---
 
@@ -120,7 +121,8 @@
 | Ère 4 (1851) | Absents de la Bataille de la Tour des Artisans ; survivent à la décimation des rôdeurs | Survivants |
 | 1852 (5.2, Fabrique Artisanale Venigni) [DIV RP] | Croisent P, Magnus et Markiona ; discussion entre Rôdeurs ; filent vers le District Malum | En route vers Malum |
 | 1852 (5.3, District Malum) [DIV RP] | Aux ordres de Simon, pour leur compte : Claudia propose au trio de faire route (le fruit pour Lucio) ; le Chat aide contre un ennemi d'élite ; ils ne voient en P qu'un Rôdeur au bras de métal ; partis avant le Red Lobster. À l'arbre, Magnus cueille un fruit pour Lucio | Alliés de route le temps de Malum ; un fruit attend Lucio ([À FIXER] remise) |
-| Suite (Ère 5, 5.4+) | Régime R5 (décision worldbuilder : en R5, on se rattache globalement au canon pour la trame) : le canon post-Frénésie est repris (assaut de l'Hôtel Krat, garde de Geppetto, cécité avancée, épuisement au combat, quête du Fruit d'Or). Détail en roadmap | (en attente) |
+| 1852 (5.4, Grande Exposition) [DIV RP] | Magnus remet à la Renarde le fruit de Lucio | Cécité freinée |
+| Suite (Ère 5, 5.5+) | Régime R5 (décision worldbuilder : en R5, on se rattache globalement au canon pour la trame) : le canon post-Frénésie est repris (assaut de l'Hôtel Krat, garde de Geppetto, cécité avancée, épuisement au combat, quête du Fruit d'Or). Détail en roadmap | (en attente) |
 
 ---
 

@@ -1,6 +1,7 @@
 # Les Hiboux
 
-- version : W4
+- version : W5
+- note W5 : forage 5.4 [DIVERGENCE RP]. Le Chouette Médecin épargné : il apprend du trio la mort d'Adelina et rallie Aurus, où vit Patricia. + Lieu du combat précisé (cabane du ravin).
 - note W4 : forage 5.3 [DIVERGENCE RP]. La Dame Blanche épargnée, présente à la confession d'Adelina, rentrée à Aurus.
 - note W3 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
@@ -99,16 +100,18 @@
 - Armes : scie à os + couteau de chasseur.
 
 ### Rôle
-- Rencontré après la zone du Marais Aride (ravine).
+- Rencontré dans sa cabane, dans le ravin du Marais Aride [CANON SUPPOSÉ].
 - Décrit comme le "dernier survivant humain" dans cette zone.
 - Extrêmement hostile à P ; engage le combat (boss au Marais Aride).
 - P le tue.
+- [DIVERGENCE RP - 1852 (5.4)] Vaincu par P et Magnus, il est ÉPARGNÉ. Il apprend de la bouche du trio la mort d'Adelina et rallie Aurus, où vit Patricia, la soeur de celle qu'il aimait. cf. Lieux/Aurus.md.
 
 ### Psychologie
 - Haine violente de P : défend peut-être le souvenir d'Adelina, ou simplement hostile par instinct de survie.
 
 ### Sort connu
 - Tué par P dans le combat au Marais Aride / ravine.
+- [DIVERGENCE RP - 1852] Vivant, réfugié à Aurus ; il sait Adelina morte.
 
 ---
 
@@ -121,6 +124,7 @@
 | 1852 (5.3, Rue Rosa Isabel) [DIVERGENCE RP] | la Dame Blanche attaque le trio ; vaincue, épargnée ; l'accompagne jusqu'à l'Opéra | Vivante, alliée de route |
 | 1852 (5.3, Opéra Estella) [DIVERGENCE RP] | Adelina confesse devant le trio et Patricia ; Patricia rentre à Aurus ; Adelina retrouvée morte après la chute du Roi | Adelina morte ; Patricia à Aurus, sait |
 | Base game (Marais Aride) | le Chouette Médecin combat P -> tué | Mort |
+| 1852 (5.4, Marais Aride) [DIVERGENCE RP] | le Chouette Médecin attaque le trio dans sa cabane ; vaincu, épargné ; apprend la mort d'Adelina ; rallie Aurus | Vivant, réfugié à Aurus |
 
 ---
 

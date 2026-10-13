@@ -1,6 +1,7 @@
 # Eugénie
 
-- version : W2
+- version : W3
+- note W3 : forage 5.4 [DIVERGENCE RP]. Les gants : quatre doigts (Alidoro, son frère, en a perdu un) ; livrés par P et Magnus, qui lui disent qu'il les a aimés (mensonge par bonté ; canon : humanité). + Pendant l'attaque de l'hôtel (5.5), elle se cache dans le bureau de Geppetto avec les autres résidents (décision worldbuilder ; remplace "disparaît pendant l'attaque").
 - note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Identité
@@ -21,7 +22,8 @@
 - Réaction à Parrot (faux Alidoro) :
   - Heureuse de voir "Alidoro" en sécurité à l'hôtel, sans savoir qu'il s'agit de Parrot.
   - Confie des gants fabriqués pour Alidoro à P -> P les remet à Parrot ; ils ne vont pas à Parrot, il les appelle "a mess" (indice de l'usurpation).
-- Disparaît pendant l'attaque de l'hôtel.
+  - [DIVERGENCE RP - 1852 (5.4)] Les gants ont quatre doigts : elle sait que son frère en a perdu un. P et Magnus les livrent au Marais ; Parrot, qui en a cinq, les trouve absurdes. Ils savent et se taisent ; à leur retour, ils lui disent que son frère les a aimés (canon : ce mensonge fait gagner de l'humanité à P). Paiement : la trahison de Parrot (5.5).
+- [DIVERGENCE RP - 1852 (5.5)] Pendant l'attaque de l'hôtel, elle se cache dans le bureau de Geppetto avec les autres résidents [ACTÉ]. Elle est présente au ch.10 (canon).
 - Geste de reconnaissance : P effectue le "deep bow" (geste de son pays natal devant elle) -> elle répond "my heart hurts" (tristesse profonde, signe que ce geste resonates avec son origine).
 
 ## Capacités
@@ -42,9 +44,8 @@
 - Venigni : a déchiffré la lettre qui confirme son lien fraternel avec Alidoro.
 
 ## Sort connu
-- Disparaît pendant l'attaque de l'hôtel par les forces alchimiques.
+- Source : disparaît pendant l'attaque de l'hôtel par les forces alchimiques ; elle est pourtant présente au ch.10 (canon). [DIVERGENCE RP] Elle survit à l'attaque, cachée dans le bureau de Geppetto (cf. Rôle).
 - Sort final non spécifié dans la source post-attaque.
-- [INCERTAIN] : survie ou non après l'attaque.
 
 ## Trajectoire datée
 | Date/ère | Événement | Delta d'état |
@@ -53,7 +54,8 @@
 | Bataille de la Tour des Artisans | Sauvée par Alidoro ; emmenée à Madoro (perd un doigt, lui) | Traumatisée, idolise Alidoro |
 | Base game | Armurière à l'hôtel ; croit que le faux Alidoro est son sauveur | Ignorance du meurtre de son frère |
 | Base game (mi-parcours) | Remet les gants à P -> indice de l'usurpation | Passive dans la découverte |
-| Attaque de l'hôtel | Disparaît | Sort inconnu |
+| 1852 (5.4) [DIVERGENCE RP] | Confie à P les gants à quatre doigts pour son frère ; P et Magnus lui disent qu'il les a aimés | Trompée par bonté |
+| 1852 (5.5), attaque de l'hôtel [DIVERGENCE RP] | Se cache dans le bureau de Geppetto avec les autres résidents | Survit |
 
 ---
 

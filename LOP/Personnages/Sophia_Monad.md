@@ -1,6 +1,7 @@
 # Sophia Monad
 
-- version : W5
+- version : W6
+- note W6 : forage 5.4 [DIVERGENCE RP]. Magnus a vu son geôlier, qui la garde "pour son utilité" ; il le lui dit au hub.
 - note W5 : forage 5.3 [DIVERGENCE RP]. Magnus la voit au hub, promesse concrète ; elle sent l'Ergo de Romeo se libérer et console Magnus ; + relation Markiona (prototype).
 - note W4 : (1) Lien avec Magnus PURGÉ de toute romance (décision worldbuilder, B8) : Magnus est psychologiquement mineur, aussi adultes soient son corps et son intellect ; lien PLATONIQUE d'âmes soeurs, pas un amour de désir. Remplace la "romance" des W3 et antérieures. (2) Forage 5.1 [DIVERGENCE RP] : à l'Hôtel Krat, elle apparaît au grand Stargazer "plus présente que jamais" (deux percepteurs présents, P et Magnus) ; communion avec Magnus (leurs Ergos se touchent et se mêlent un peu), promesse de délivrance renouvelée. 5.2 : fil en fond. + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 - note W3 : couche La Frenzy (Ère 4, 1850-1852). Suite directe de l'Overture : après sa capture (1850), Sophia est MENÉE à sa cage dès 1850 (Simon : "ta cage t'attend") puis BRANCHÉE à la machine et JOIGNABLE dès 1851 (et NON "base game" comme posé en W2 : le branchement est avancé au fil de l'Ère 4). [DIVERGENCE RP] Magnus devient le 2e percepteur (après P) de sa projection ACTIVE, captée à proximité d'un Stargazer, contact BIDIRECTIONNEL - à DISTINGUER de la résonance Ergo PASSIVE des mines à l'Overture (antérieure, aléatoire, sens unique). Au fil des patrouilles : romance avec Magnus + voeu de délivrance. C'est elle qui envoie Magnus à la Gare de Krat au printemps 1852.
@@ -87,6 +88,7 @@
 | 1852 (5.1, Hôtel Krat) [DIVERGENCE RP] | Apparaît au grand Stargazer "plus présente que jamais" ; Ergos mêlés avec Magnus ; promesse renouvelée | Lien affermi |
 | 1852 (5.3, Hôtel Krat) [DIVERGENCE RP] | Au grand Stargazer, Magnus a vu la silhouette de Manus : "il est réel, je viendrai" | Promesse concrète |
 | 1852 (5.3, après l'Opéra) [DIVERGENCE RP] | Sent l'Ergo de Romeo se libérer ; console Magnus. Conversation canon avec P : ses cheveux poussent | Lien affermi |
+| 1852 (5.4, Hôtel Krat) [DIVERGENCE RP] | Au retour de la Grande Exposition, Magnus lui dit qu'il a vu son geôlier, qui la garde "pour son utilité", sans pouvoir l'atteindre ; elle est là à chacun de ses passages au hub | Promesse intacte |
 | Trame base game | Projection spectrale dans tout Krat, guide P, alimente les Stargazers, rewind à chaque mort | Corps en souffrance ; âme fragmentée |
 | Confrontation finale | Demande à P la libération | Bifurcation : mort ou survie dans pantin |
 | Best ending | P place son Ergo dans un pantin | Nouvelle vie |

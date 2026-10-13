@@ -1,6 +1,7 @@
 # Giuseppe Geppetto
 
-- version : W6
+- version : W7
+- note W7 : forage 5.4 [DIVERGENCE RP]. "Je sais tout" : Magnus le confronte (Romeo seul) ; mal nécessaire, comptes promis, mensonge maintenu. Enlèvement et décodage -> 5.5.
 - note W6 : forage 5.3 [DIVERGENCE RP]. Portrait de Carlo rapporté par P (pris de court) ; ordre d'abattre le Roi des Pantins ; rejoint le trio derrière la scène ; Markiona sait ce qu'il a fait de Romeo, Magnus non. Enlèvement -> 5.5.
 - note W5 : forages 5.1 et 5.2. + Pont des Alchimistes (Magnus jaugé, Markiona pressée). + Dispute au hub : il révèle à Markiona Frénésie, peau de Léa, rôle de Romeo. + Parlement des Artisans (VO : Workshop Union). + Relation Magnus. + Trajectoire 1852. + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
@@ -24,6 +25,7 @@
 - Dans le base game : retrouvé par P sur l'Elysion Boulevard (pourchassé par l'Âne fou). Installe son atelier dans une chambre haute de l'Hôtel Krat. Guide P dans sa mission (tue le Roi des Pantins, va à la Grande Exposition, rejoins l'Allée des Alchimistes).
   - [DIVERGENCE RP - 1852] Sauvé au Pont des Alchimistes : Magnus arrête P et épargne l'Âne fou. Geppetto comprend aussitôt ce qu'est Magnus (un pantin de chair parfait) et presse Markiona, son ancienne collègue, qui refuse de livrer ses secrets. Au hub, la jugeant moralement élastique, il lui révèle son rôle dans la Frénésie (Loi Zéro), la peau de Léa sur P et le rôle de Romeo ; elle rejette son plan avec fureur. Il envoie ensuite P aider Venigni (canon) ; Magnus et Markiona l'accompagnent. Il croit toujours le cristal de Camille détruit. cf. Personnages/Markiona.md, Roadmap_05_2_La_Ville_Malade.
   - [DIVERGENCE RP - 1852 (5.3)] P lui rapporte le portrait de Carlo volé par la Confrérie des Lapins Noirs : il est pris de court (canon). Il envoie P abattre le Roi des Pantins à la Rue Rosa Isabel (Antonia remet la clé). Après la chute du Roi, il rejoint le trio derrière la scène (canon). Markiona sait ce qu'il a fait de Romeo ; Magnus l'ignore.
+  - [DIVERGENCE RP - 1852 (5.4)] Au retour de la nuit du deuil, Magnus lui dit qu'il sait tout. Il lui demande ce qu'il sait : Magnus ne sait que pour Romeo. Il plaide un mal nécessaire et promet de répondre volontiers à sa soif de justice "une fois cette sale histoire passée". Il continue de mentir ; Markiona enrage en silence ; P, présent, se fige. Il oriente ensuite P vers la Grande Exposition (canon).
 - Kidnappé par la Confrérie des Lapins Noirs (à l'instigation de Simon) depuis l'hôtel ; P le retrouve à l'Allée. [1852 : en 5.5]
 - Confrontation finale : révèle à P la vérité (Carlo, Organe-P, sa manipulation). Demande le coeur de P pour ressusciter Carlo. Si P refuse : déclenche le Pantin sans Nom via son bras mécanique (canal d'Ergo). Se sacrifie pour empêcher le Pantin sans Nom de tuer P (coeur crucial pour Carlo). Tué par le Pantin sans Nom.
 - DLC (passé) : apparaît à la fin. P a déjà été rappelé au présent quand Geppetto monte les escaliers du Domaine de la Rose avec la caisse contenant le Pantin sans Nom ; ils ne se croisent pas sur place. Le Pantin sans Nom tue Léa Florence (présumée) et récupère le corps de Romeo.
@@ -60,8 +62,8 @@
 - Antonia : échange des lettres. Antonia le juge sur son abandon de Carlo. Geppetto lui répond de façon défensive.
 - Alchimistes : collabore avec eux pour les expériences sur les Oreilles et le travail sur l'Ergo. Rompt avec eux une fois son plan en place.
 - Simon Manus : adversaire indirect. La machine de Simon aspire l'Ergo que Geppetto récolte aussi. Simon le kidnappe (via la Confrérie des Lapins Noirs) pour le contrôler.
-- Markiona : ancienne collègue du Parlement des Artisans (dispositif de bras similaire), partie rejoindre les Alchimistes ; Geppetto reste du côté des artisans. [DIVERGENCE RP] Élève de Camille (cf. Camille.md). En 1852, il la presse de questions sur Magnus, puis lui confie ses secrets (Frénésie, peau de Léa, Romeo) en la croyant aussi peu scrupuleuse que lui ; elle refuse son plan et se tait auprès de Magnus. cf. Personnages/Markiona_relations.md. [DIVERGENCE RP - 1852 (5.3)] Elle sait qui est le Roi des Pantins et ce qu'il a fait de Romeo ; quand il envoie P l'abattre, elle se tait et suit.
-- Magnus [DIVERGENCE RP - 1852] : au Pont des Alchimistes, il comprend d'un regard ce qu'est Magnus, un pantin de chair parfait, oeuvre de Markiona. Magnus, lui, ne lui fait pas confiance. cf. Personnages/Magnus.md. [DIVERGENCE RP - 1852 (5.3)] Magnus ignore ce qu'il a fait de Romeo.
+- Markiona : ancienne collègue du Parlement des Artisans (dispositif de bras similaire), partie rejoindre les Alchimistes ; Geppetto reste du côté des artisans. [DIVERGENCE RP] Élève de Camille (cf. Camille.md). En 1852, il la presse de questions sur Magnus, puis lui confie ses secrets (Frénésie, peau de Léa, Romeo) en la croyant aussi peu scrupuleuse que lui ; elle refuse son plan et se tait auprès de Magnus. cf. Personnages/Markiona_relations.md. [DIVERGENCE RP - 1852 (5.3)] Elle sait qui est le Roi des Pantins et ce qu'il a fait de Romeo ; quand il envoie P l'abattre, elle se tait et suit. [DIVERGENCE RP - 1852 (5.4)] Quand Magnus lui dit qu'il sait tout, il continue de mentir ; elle enrage en silence.
+- Magnus [DIVERGENCE RP - 1852] : au Pont des Alchimistes, il comprend d'un regard ce qu'est Magnus, un pantin de chair parfait, oeuvre de Markiona. Magnus, lui, ne lui fait pas confiance. cf. Personnages/Magnus.md. [DIVERGENCE RP - 1852 (5.3)] Magnus ignore ce qu'il a fait de Romeo. [DIVERGENCE RP - 1852 (5.4)] Magnus le sait désormais, par sa mère, derrière le sort de Romeo (cf. Rôle, "je sais tout").
 
 ## Sort connu
 
@@ -82,7 +84,8 @@
 | 1852 (5.1, Pont des Alchimistes) [DIV RP] | Sauvé de l'Âne fou par Magnus ; jauge Magnus, presse Markiona | Retour à l'Hôtel Krat avec Markiona |
 | 1852 (5.2, Hôtel Krat) [DIV RP] | Révèle à Markiona Frénésie, peau de Léa, rôle de Romeo ; dispute ; envoie P aider Venigni | Markiona sait et refuse son plan |
 | 1852 (5.3) [DIV RP] | Pris de court par le portrait de Carlo, rapporté par P ; envoie P abattre le Roi des Pantins (Rue Rosa Isabel) ; après la chute, rejoint le trio derrière la scène | Markiona sait ce qu'il a fait de Romeo ; Magnus non |
-| Base game (5.4-5.6) | À l'hôtel, guide P ; kidnappé par la Confrérie des Lapins Noirs (5.5) ; retrouvé à l'Allée | Exposé progressivement |
+| 1852 (5.4) [DIV RP] | Confronté par Magnus ("je sais tout") ; plaide le mal nécessaire, promet des comptes "une fois cette sale histoire passée" ; oriente P vers la Grande Exposition | Ment toujours ; Magnus et P le savent derrière le sort de Romeo, pas la Frénésie |
+| Base game (5.5-5.6) | À l'hôtel, guide P ; kidnappé par la Confrérie des Lapins Noirs (5.5) ; retrouvé à l'Allée | Exposé progressivement |
 | Confrontation finale | Demande le coeur de P ; bifurcation selon le choix de P | Mort (good/best) ou départ avec Carlo (bad) |
 
 ---

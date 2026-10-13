@@ -1,11 +1,12 @@
 # Résumé - LOP
 
-- version : W2
+- version : W3
+- note W3 : BIBLE BUILD B10. + partie 5.4 (La Vérité de Geppetto).
 - note W2 : BIBLE BUILD B9. + partie 5.3 (Le Roi des Pantins).
 
 ## Usage
 - Condensé du récit tel qu'établi (canon + divergences actées), pour le worldbuilder. Outil hors RP et hors build : jamais fetché, non indexé au Sommaire. Mis à jour à chaque BIBLE BUILD.
-- État du récit : Passe 2 en cours (BIBLE B9). Roadmaps des Ères 1 à 4 et des parties 5.1 à 5.3 écrites : le résumé s'arrête à la clôture de la partie 5.3 (le Roi des Pantins).
+- État du récit : Passe 2 en cours (BIBLE B10). Roadmaps des Ères 1 à 4 et des parties 5.1 à 5.4 écrites : le résumé s'arrête à la clôture de la partie 5.4 (la Vérité de Geppetto).
 - Prémisse : Lies of P (base game + DLC Overture). Perspective : Magnus, OC, pantin parfait créé par l'alchimiste Markiona. Calendrier in-world choisi par le worldbuilder : 1847 (éveil de Magnus) -> 1852 (réveil de P et fin).
 
 ## Le monde
@@ -53,6 +54,15 @@ Dans l'Hôtel de Ville, le portrait de Carlo montre à Magnus le visage de P ; M
 La veille de l'Opéra, pendant que P reste auprès de son père, Magnus et sa mère rentrent à Aurus, où l'Âne fou et la Rédemptée ont trouvé refuge. Les invités occupant sa chambre, Magnus dort avec elle. Sous les draps, il avoue sa honte d'avoir été soulagé à la mort de l'Aîné : il serait très triste de perdre quelqu'un de sa famille, comme P, Romeo ou Léa. Elle sait Léa morte et Romeo changé en pantin. Une fois son fils endormi, elle travaille en secret à un extracteur d'Ergo, inquiète de devoir un jour le laisser seul.
 
 Rue Rosa Isabel, Julian demande si un pantin peut aimer. Quand Markiona est prise d'une violente quinte, Magnus lâche tout pour la secourir, et Julian est convaincu. La Dame Blanche est épargnée ; à l'Opéra, elle entend la confession d'Adelina, la soeur qui l'avait empoisonnée, puis rentre à Aurus. Sur scène, le Roi des Pantins tombe et Romeo en sort. Magnus le reconnaît, l'étreint et lui demande pardon de l'avoir laissé en 1850. Romeo, lui, voit Carlo dans le visage de P, puis Léa dans sa chair ; Markiona se contente de fermer les yeux. Il dit à Magnus que le monde est cruel, puis plante sa propre lame dans son coeur. P garde le pendentif de Carlo. Au hub, Sophia, qui a senti l'Ergo de Romeo se libérer, console Magnus.
+
+## La Vérité de Geppetto (1852)
+Le soir de la mort de Romeo, Magnus et sa mère rentrent à Aurus. Pendant qu'il la soigne, il lui demande si elle sait qui a fait ça. Elle craque : c'est Geppetto. Il y a encore bien des horreurs qu'il n'est pas prêt à entendre ; ce soir, on pleure un ami. Au matin, à l'hôtel, Magnus dit à Geppetto qu'il sait tout. Geppetto lui demande ce qu'il sait, parle d'un mal nécessaire et promet de rendre des comptes une fois cette sale histoire passée. Il ment toujours, et Markiona enrage en silence. Entre son grand frère et son père, P se fige.
+
+Par l'Arcade Lorenzini et son téléphérique, le trio gagne la Grande Exposition. Champion Victor, l'Hercule de Krat, tombe sous les coups de P et de Magnus, et Laxasia l'achève d'une épée lancée dans le dos. Simon Manus paraît enfin en chair. Il reconnaît la traîtresse de 1847, puis parle aux deux pantins qui se croient humains : l'Ergo, ce sont les âmes en substance. Magnus le savait déjà ; Markiona pense au cristal de Camille sans un mot. À sa question, P répond, guidé par Magnus, que le remède des Alchimistes a créé des monstres. Magnus reconnaît le geôlier de Sophia et lui hurle de la relâcher ; Simon répond qu'il la garde pour son utilité. Magnus le charge, Laxasia l'arrête, et Simon repart indemne après les avoir invités à l'Allée des Alchimistes. Au téléphérique, Magnus remet à la Renarde le Fruit d'Or de Lucio : la cécité de son frère ralentit, sans guérir.
+
+Au hub, Magnus dit à Sophia qu'il a vu son geôlier sans pouvoir l'atteindre, et Eugénie confie à P des gants pour son frère, à quatre doigts, puisqu'il en a perdu un. Au Marais Aride, Parrot trouve les gants absurdes : il en a cinq. P et Magnus savent, et se taisent. Le Chouette Médecin, l'amant d'Adelina, est vaincu et épargné ; il apprend sa mort et rallie Aurus. Au pont, Hugo, jeune explorateur admirateur d'Alidoro, apprend de Magnus que l'Alidoro de l'hôtel est un imposteur. Dans son antre, le Monstre Vert fusionne avec le corps du Veilleur Désarticulé, et Magnus reconnaît Murphy, le messager de Romeo. Après le combat, Markiona fait sa pire quinte, du sang et des cristaux, malgré les soins de son fils.
+
+De retour à l'hôtel, Venigni reçoit l'Ergo doré. Magnus impose à sa mère de rester à l'hôtel la prochaine fois ; elle n'a pas la force de le contredire, et Venigni promet de veiller sur elle. P et Magnus disent à Eugénie que son frère a aimé les gants. Antonia, qui avait appris le piano à Carlo, se remet à jouer.
 
 ## L'axe du récit
 Deux créateurs, deux chefs-d'oeuvre : Geppetto fabrique le faux parfait, un pantin qui devient humain par le mensonge ; Markiona a fait le vrai parfait, un pantin qui le devient par l'introspection. La Marionnettiste de la Mort, elle, se rachète en devenant mère.

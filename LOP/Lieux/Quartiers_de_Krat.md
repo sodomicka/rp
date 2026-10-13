@@ -1,6 +1,7 @@
 # Quartiers de Krat
 
-- version : W4
+- version : W5
+- note W5 : forage 5.4 [DIVERGENCE RP]. Hugo retiré de la Gare Centrale (il n'y apparaît pas) ; Arcade Lorenzini (téléphérique, passage du trio) ; Marais Aride : Carnet de la sentinelle au lieu du "journal du rôdeur", Ergo doré (destination à vérifier), Hugo, second Clown, Chouette Médecin dans sa cabane, passage du trio.
 - note W4 : forage 5.3 [DIVERGENCE RP]. District Malum (route du trio, Claudia et Lucio, la Confrérie dans la cour de l'Hôtel de Ville, ascenseur vers l'Hôtel Krat) ; chemin du pèlerin (route de 5.3, Stargazer doré inactif) ; Rue Rosa Isabel (Clown, Julian, la Dame Blanche épargnée) ; Opéra (confession devant Patricia ; fin de Romeo ; message décodé en 5.4). + Retour par les tunnels détaché de Malum ; liens morts réparés.
 - note W3 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 - Fiche groupée : un bloc par quartier/lieu de la ville de Krat. Cf. Lieux/Krat.md pour l'histoire
@@ -17,9 +18,6 @@
 - P se réveille dans un wagon abandonné sur le quai de la gare. Décor : quais déserts, pantins
   frénétiques, population massacrée. Les rues "de Karat ne sont pas sûres". Cf. SB6.
 - Gemini activé ("Geminy will restart soon") ; escorte P vers l'hôtel. Cf. Personnages/Gemini.md.
-- Hugo (explorateur débutant) est présenté près de la Gare Centrale. Il cherche Alidoro, fan de
-  lui. Il a entendu des rumeurs de fraude/vol/agression sur Alidoro mais les attribue à la jalousie.
-  Cf. Personnages/PNJ_secondaires.md.
 - Geppetto place P dans un wagon de la gare pour l'activer et le destiner à sa mission (collecte d'Ergo,
   élimination de Romeo et Simon). Plan de Geppetto. Cf. Personnages/Giuseppe_Geppetto.md, SB6.
 - DLC (passé) : station de tram avant de quitter le zoo. Godard (peintre aveugle) se trouve à la station
@@ -142,7 +140,10 @@
 ### Faits canon
 - P y passe via la "charity house path". Description : shopping district. Au moment du jeu : "plein de
   décadence et de mort", Carcasses y errent. Cf. SB6, Lieux/Grand_Exhibition.md.
-- Cave à vin périlleuse traversée pour en sortir (entre l'arcade et l'extérieur de la Grande Exposition).
+- Cave à vin périlleuse traversée pour en sortir (entre l'arcade et l'extérieur de la Grande Exposition),
+  puis téléphérique vers la Grande Exposition.
+- [DIVERGENCE RP - 1852 (5.4)] Le trio la traverse ; Venigni lui parle depuis un Stargazer [CANON SUPPOSÉ].
+  Pas de cabine à énigme : plus d'Arlecchino en 1852.
 - Arcade Lorenzini = référence à Lorenzini (surnom d'auteur de Pinocchio, Carlo Collodi avait le
   pseudonyme Lorenzini) + structure arcade. [INTERPRÉTATION : hommage au nom de l'auteur original.]
 
@@ -159,17 +160,29 @@
   Leur emplacement est devenu le Marais Aride. Cf. SB3.
 - Les Alchimistes déchargent ici les corps de pantins mis au rebut, puis en essorent l'Ergo résiduel
   pour leurs expériences. Cf. SB3.
-- Ergo doré localisé ici : P se rend au Marais Aride (tram) pour trouver l'Ergo doré nécessaire
-  pour alimenter le sous-marin Pistrus. Divers pantins jetés, restes de Crowd. Combat. Cf. SB6.
-- Monstre Vert du Marais : monstre de la zone (boss). Un rôdeur avait été envoyé le gérer mais
-  avait rapporté n'avoir pas réalisé sa taille réelle -> équipe refusée. Journal du rôdeur trouvé par
-  P (centuries notebook). Cf. Creatures/Boss_et_Creatures.md.
-- Chouette Médecin : amant d'Adelina Corde. Boss rencontré ici (au Marais Aride). Cf.
-  Personnages/Les_Hiboux.md.
+- Ergo doré localisé ici : P se rend au Marais Aride (tram) pour trouver l'Ergo doré que Venigni
+  réclame. Divers pantins jetés, restes de Crowd. Combat. Cf. SB6. Sa destination est [À VÉRIFIER] : sous-marin
+  Pistrus ou transport commandé par les Alchimistes, selon les fiches (cf. Objets/Objets_et_Reliques.md).
+- Second Pantin Clown Enragé, électrique, à l'entrée du Marais (boss optionnel du ch.8) [CANON SUPPOSÉ].
+  Cf. Creatures/Boss_et_Creatures.md.
+- Hugo (explorateur débutant, fan d'Alidoro) : au pont du Marais, devant une grille qu'il ne sait pas
+  ouvrir (grotte de l'ermite). Cf. Personnages/Hugo.md.
+- Monstre Vert du Marais : monstre de la zone (boss). Une sentinelle avait été envoyée s'en occuper ;
+  elle n'avait pas mesuré sa taille, et les renforts lui ont été refusés. P trouve son carnet près du
+  Stargazer qui précède l'antre : le Carnet de la sentinelle (VO : Sentry's Notebook) [CANON SUPPOSÉ].
+  Cf. Creatures/Boss_et_Creatures.md.
+- Chouette Médecin : amant d'Adelina Corde. Boss rencontré dans sa cabane, dans le ravin du Marais Aride
+  [CANON SUPPOSÉ]. Cf. Personnages/Les_Hiboux.md.
 - Madoro (reporter/medic) : retraite dans une grotte d'ermite près du Marais Aride durant l'outbreak.
   Journal : contaminé, manque d'eau, aidé par un ermite. Mentionne ses amis (Lumacchio malade, Sophia
   disparue, Venigni sans espoir, H=Alidoro présumé mort). Meurt ; grand carcass dans la grotte. Cf.
   Personnages/Madoro.md.
+- [DIVERGENCE RP - 1852 (5.4)] Le trio y va en tram. P et Magnus détruisent le second Clown. Parrot y
+  chasse le trésor et reçoit les gants d'Eugénie ; un pantin blanc brisé, à qui P apprend les émotions par
+  les gestes (canon), et que Magnus entend sans appareil. Le Chouette Médecin, vaincu, est épargné et rallie
+  Aurus. Au pont, Magnus apprend à Hugo que l'Alidoro de l'hôtel est un imposteur. Dans le Monstre Vert,
+  Magnus reconnaît le corps de Murphy. Après le combat, Markiona fait sa pire quinte (sang et cristaux).
+  Cf. Personnages/Magnus_chrono_B.md.
 - État : marais, ruines de mines, corps de pantins jetés. Très hostile.
 
 ---

@@ -1,6 +1,7 @@
 # Markiona - Chronologie B (Ère 5, 1852+)
 
-- version : W2
+- version : W3
+- note W3 : forage 5.4 [DIVERGENCE RP]. Lignes 5.4 ; ligne "Suite" recalée (mort en 5.5, pendant l'attaque de l'hôtel). Alidoro dit disparu par Parrot (5.2), et non mort.
 - note W2 : forage 5.3 [DIVERGENCE RP]. Lignes 5.3 ; ligne "Suite" recalée sur 5.4-5.6.
 
 Satellite de Personnages/Markiona, suite de Personnages/Markiona_chrono_A. Trajectoire datée de l'Ère 5 (base game), une ligne par événement, alimentée partie par partie après chaque roadmap (Roadmap_05_<k>). Override par Parties/ en cas de divergence d'une partie jouée.
@@ -15,7 +16,7 @@ Satellite de Personnages/Markiona, suite de Personnages/Markiona_chrono_A. Traje
 | 1852 (5.2, Hôtel Krat) | Dispute violente avec Geppetto : il lui a révélé son rôle dans la Frénésie (Loi Zéro), la peau de Léa sur P, le rôle de Romeo, la jugeant moralement élastique. Elle refuse son plan ("il est allé trop loin, même pour elle") : seul son fils compte. Elle se TAIT pour épargner Magnus, qui comprendra seul | Tchekhov posé : elle sait, Magnus non |
 | 1852 (5.2, Fabrique Artisanale Venigni) | Passif avec Venigni (ex-collègues au Parlement des Artisans), désamorcé d'une phrase : "on a tué Arlecchino il y a deux ans". En marge, méfiance envers la Renarde Rousse et le Chat Noir | Venigni réconcilié |
 | 1852 (5.2, Village Clair-de-Lune) | Devant les Carcasses, ADMET ses horreurs (contraste avec le "je ne regrette rien" de 1850), tout en maintenant que son passé entier fut nécessaire pour concevoir son fils | Palier de rachat : l'aveu |
-| 1852 (5.2, Cathédrale St Frangelico) | Reconnaît Giangio = Paracelsus ; comprend à son regard qu'il n'a plus d'allégeance aux Alchimistes ; se tait. Le faux Alidoro démasqué lui confirme la mort du vrai | Lien muet avec Paracelsus |
+| 1852 (5.2, Cathédrale St Frangelico) | Reconnaît Giangio = Paracelsus ; comprend à son regard qu'il n'a plus d'allégeance aux Alchimistes ; se tait. Le faux Alidoro démasqué dit le vrai disparu | Lien muet avec Paracelsus |
 | 1852 (5.2, autel) | Jubile à la chute d'Andreas : son fils, le pantin parfait, dépasse l'apogée de l'alchimie en terrassant le faux ange. Puis quinte plus sévère que jamais : crache du sang et une poudre de cristaux bleue (Ergo cristallisé pulmonaire) | Aggravation marquée ; mort réservée |
 | 1852 (5.3, District Malum) | Accepte la route proposée par la Renarde Rousse, sur ses gardes | Méfiante |
 | 1852 (5.3, cour de l'Hôtel de Ville de Malum) | Devant l'Aîné, ne bride plus Magnus : en 1851 il voulait se venger, cette fois il protège | Inversion nuancée |
@@ -26,7 +27,12 @@ Satellite de Personnages/Markiona, suite de Personnages/Markiona_chrono_A. Traje
 | 1852 (5.3, Aurus, veille de l'Opéra) | Remarque les tensions entre ses invités, que Magnus ne voit pas. Soins ; la nuit, dans son lit (P resté à l'Hôtel Krat), le garde contre elle plus longtemps que d'habitude. À son "je serais perdu sans vous", angoissée par l'après, elle répond comme simplement flattée. Feint le sommeil (rythme cardiaque ralenti), puis travaille à l'extracteur derrière le rideau de l'atelier. Magnus la rejoint ; elle esquive sans mentir : "C'est un projet pour plus tard. Cependant, ce n'est qu'un prototype loin d'être fonctionnel. Mais c'est mon projet, je le réalise seule, ne t'en préoccupe pas." | Prototype toujours secret ; peur de le laisser seul |
 | 1852 (5.3, Rue Rosa Isabel) | Violente quinte de toux devant Julian : Magnus laisse tout tomber pour la secourir ; Julian y voit l'inquiétude d'un fils qui aime sincèrement | Déclin visible ; pudeur gardée |
 | 1852 (5.3, Opéra Estella) | Devant Romeo, se contente de fermer les yeux : seul Romeo voit ce geste. Derrière la scène, sait ce que Geppetto a fait de lui | Tchekhov intact ; décharge en 5.4 |
-| Suite (Ère 5) | Fin de la Pétrification + détonation du cristal de Camille (en réserve) -> roadmaps 5.4 à 5.6 | Terminale ; dénouement réservé |
+| 1852 (5.4, Aurus, nuit du deuil) | Magnus lui demande si elle sait qui a fait ça. Elle craque, ne supportant pas de le voir souffrir : Geppetto est derrière tout ça ; il reste bien des horreurs qu'il n'est pas prêt à entendre ; ce soir, on pleure un ami ; on confrontera Geppetto plus tard, la priorité est la maladie qui gagne la ville | Silence déchargé en partie (Romeo seul) |
+| 1852 (5.4, Hôtel Krat) | Magnus dit à Geppetto qu'il sait tout ; Geppetto plaide le mal nécessaire et continue de mentir. Elle enrage intérieurement | Frénésie et peau de Léa toujours tues |
+| 1852 (5.4, Grande Exposition) | Simon la reconnaît et se plaint du départ précipité de la traîtresse. Quand il dit que l'Ergo, ce sont des âmes, elle pense au cristal de Camille, sans un mot | Ennemie reconnue ; cristal frôlé, EN RÉSERVE |
+| 1852 (5.4, falaise du Marais) | Après le Monstre Vert, sa pire quinte : elle tousse plus fort que jamais, crache du sang et des cristaux, malgré les soins de Magnus | Déclin terminal visible |
+| 1852 (5.4, Hôtel Krat) | Magnus lui impose de rester à l'hôtel la prochaine fois ; elle n'a pas la force de le contredire. Venigni promet de la protéger | Résidente de l'hôtel à partir de la 5.5 |
+| Suite (Ère 5) | Mort pendant l'attaque de l'Hôtel Krat (5.5) [ACTÉ]. Comment ; sort du cristal de Camille et du prototype de Zelator -> roadmaps 5.5 et 5.6 | Terminale |
 
 ---
 
