@@ -1,6 +1,7 @@
 # Magnus - Chronologie B (Ère 5, 1852+)
 
-- version : W2
+- version : W3
+- note W3 : forage 5.4 [DIVERGENCE RP]. Lignes 1852 (5.4), une par étape.
 - note W2 : forage 5.3 [DIVERGENCE RP]. Lignes 1852 (5.3), une par étape.
 
 Satellite de Personnages/Magnus, suite de Personnages/Magnus_chrono_A. Trajectoire datée de l'Ère 5 (base game), une ligne par événement, alimentée partie par partie après chaque roadmap (Roadmap_05_<k>). Override par Parties/ en cas de divergence d'une partie jouée.
@@ -28,6 +29,14 @@ Satellite de Personnages/Magnus, suite de Personnages/Magnus_chrono_A. Trajectoi
 | 1852 (5.3, Opéra Estella) | Spectacle monté par Romeo ; Adelina confesse devant le trio et Patricia, qui rentre ensuite à Aurus | |
 | 1852 (5.3, Opéra Estella, scène) | Phase 1 contre le Roi des Pantins, avec P. Phase 2 : il reconnaît Romeo au visage, cesse de se battre, l'étreint et lui demande pardon de l'avoir laissé au Domaine de la Rose (1850). Romeo lui dit que le monde est cruel et que son dernier ami ne doit jamais le devenir, puis se donne la mort | Ironie payée : sait que le Roi était Romeo ; ignore que Markiona le savait |
 | 1852 (5.3, Opéra -> Hôtel Krat) | Geppetto rejoint le trio derrière la scène ; Magnus ignore ce qu'il a fait de Romeo. Adelina retrouvée morte. Il reconnaît le pendentif (rendu à Romeo en 1850) et dit à P à qui il a appartenu. Au grand Stargazer, Sophia, qui a senti l'Ergo de Romeo se libérer, le console | Romeo perdu une seconde fois ; Tchekhov Markiona intact (5.4) |
+| 1852 (5.4, Aurus, nuit du deuil) | Au rituel des soins, demande à sa mère si elle sait qui a fait ça. Elle craque : Geppetto est derrière tout ça ; le reste, il n'est pas prêt à l'entendre ; ce soir, on pleure un ami ; la priorité, c'est la maladie qui gagne la ville | Sait Geppetto derrière le sort de Romeo ; ni la Frénésie, ni la Loi Zéro |
+| 1852 (5.4, Hôtel Krat) | Dit à Geppetto qu'il sait tout ; il ne sait que pour Romeo. Geppetto plaide le "mal nécessaire" et promet des comptes "une fois cette sale histoire passée". P se fige entre eux. Au grand Stargazer, il voit Sophia | Colère contenue |
+| 1852 (5.4, Arcade Lorenzini -> Grande Exposition) | Belle rencontrée ; Champion Victor affronté avec P, achevé par Laxasia | |
+| 1852 (5.4, Grande Exposition) | Simon voit le trio : la traîtresse, puis les deux pantins qui se croient humains. Il guide P vers la vérité ("des monstres"). Reconnaît le geôlier de Sophia et lui hurle de la relâcher ; Simon la garde "pour son utilité" ; il le charge, Laxasia l'arrête, Simon repart indemne. Remet à la Renarde le fruit de Lucio | Le geôlier vu en chair |
+| 1852 (5.4, Hôtel Krat) | Dit à Sophia qu'il a vu son geôlier sans pouvoir l'atteindre | |
+| 1852 (5.4, Marais Aride) | Tram ; second Clown détruit avec P. Avec P, livre à Parrot les gants à quatre doigts d'Eugénie ; Parrot, qui en a cinq, les trouve absurdes ; ils savent, et ne disent rien. Entend sans appareil le pantin blanc brisé. Le Chouette Médecin, vaincu, épargné, rallie Aurus. Au pont, apprend à Hugo que l'Alidoro de l'hôtel est un imposteur et que le vrai a disparu | Quête d'Hugo lancée |
+| 1852 (5.4, falaise du Marais) | Monstre Vert vaincu avec P ; reconnaît le corps de Murphy, un deuil de plus. Sa mère fait sa pire quinte, sang et cristaux, malgré ses soins | Peur pour sa mère |
+| 1852 (5.4, Hôtel Krat) | Impose à sa mère de rester à l'hôtel la prochaine fois ; elle n'a pas la force de le contredire ; Venigni promet de la protéger. Avec P, dit à Eugénie que son frère a aimé les gants : un mensonge par bonté. Piano d'Antonia. Au grand Stargazer, il voit Sophia | Charnière 5.5 : Markiona à l'hôtel, P et lui vers la Gare |
 
 ---
 

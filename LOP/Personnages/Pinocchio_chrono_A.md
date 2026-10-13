@@ -1,6 +1,7 @@
 # Pinocchio - Chronologie A (création et Ère 5)
 
-- version : W1
+- version : W2
+- note W2 : forage 5.4 [DIVERGENCE RP]. Lignes 5.4 ; ligne "Suite" recalée sur 5.5-5.6.
 - note W1 : création (décision worldbuilder : délestage de la fiche mère, plafond 20k). Trajectoire datée reprise telle quelle de Pinocchio W6, + lignes 5.3 ; voyage de 1850 placé en 5.5.
 
 Satellite de Personnages/Pinocchio. Trajectoire datée, de sa création à l'Ère 5, une ligne par événement ; le détail des scènes vit dans les roadmaps (Roadmap_03, Roadmap_05_1 et suivantes). La mécanique (chair de Léa, Organe-P, Grand Covenant) reste dans la fiche mère.
@@ -23,8 +24,13 @@ Satellite de Personnages/Pinocchio. Trajectoire datée, de sa création à l'Èr
 | 1852 (5.3, Rue Rosa Isabel) | Pantin Clown Enragé détruit avec Magnus ; Julian ; la Dame Blanche vaincue et épargnée | |
 | 1852 (5.3, Opéra Estella) | Pomme rouge pour Adelina via Polendina ; confession. Roi des Pantins vaincu avec Magnus (phase 1) ; Romeo le reconnaît, le regarde, terrifié, sans un mot, et se donne la mort ; P récupère le pendentif | Pendentif de Carlo en main |
 | 1852 (5.3, Opéra -> Hôtel Krat) | Magnus lui dit à qui appartenait le pendentif ; au hub, fin de la conversation canon : ses cheveux poussent | Humanité en marche |
+| 1852 (5.4, Hôtel Krat) | Présent quand Magnus dit à Geppetto qu'il sait tout : tiraillé entre son grand frère et son père, il se fige, perdu. Geppetto l'oriente vers la Grande Exposition | Sait son père derrière le sort de Romeo ; pas la Frénésie |
+| 1852 (5.4, Grande Exposition) | Champion Victor affronté avec Magnus, achevé par Laxasia. À Simon, qui demande ce que le remède a créé, il répond la vérité, guidé par Magnus : "des monstres" ; invitation à l'Allée, clé de la galerie | Simon vu en chair |
+| 1852 (5.4, hub -> Marais Aride) | Eugénie lui confie les gants qu'elle a faits pour son frère, à quatre doigts ; au Marais, Parrot, qui en a cinq, les trouve absurdes ; Magnus et lui savent, et ne disent rien. Apprend les émotions au pantin blanc brisé par les gestes. Le Chouette Médecin épargné | |
+| 1852 (5.4, falaise du Marais) | Monstre Vert vaincu avec Magnus ; récupère l'Ergo doré ; Parrot l'appelle "le meilleur appât d'Alidoro" | Ergo doré livré à Venigni |
+| 1852 (5.4, Hôtel Krat) | Avec Magnus, dit à Eugénie que son frère a aimé les gants : un mensonge par bonté (canon : humanité). Antonia joue du piano ; c'est elle qui l'avait appris à Carlo, dont il porte l'Ergo | Humanité en marche |
 | 1852 (5.5, canon : fin du ch.9) | Voyage dans le passé (Overture, hiver 1850) via le Stargazer doré du chemin du pèlerin ; combat Arlecchino aux côtés de Léa, Magnus et Markiona ; rappelé au présent avant l'arrivée de Geppetto | Le "à bientôt" de 1850 se boucle |
-| Suite (Ère 5) | -> roadmaps 5.4 à 5.6 (canon : message de Romeo, Laxasia, Simon Manus, choix final) | |
+| Suite (Ère 5) | -> roadmaps 5.5 et 5.6 (canon : Gare Centrale, attaque de l'hôtel, message de Romeo, Laxasia, Simon Manus, choix final) | |
 
 ---
 
