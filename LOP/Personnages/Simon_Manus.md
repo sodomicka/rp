@@ -1,6 +1,7 @@
 # Simon Manus
 
-- version : W2
+- version : W3
+- note W3 : forage 5.4 [DIVERGENCE RP]. Première rencontre avec P recalée à la Grande Exposition (canon), et non à l'abbaye. + Face au trio : la traîtresse, les deux pantins, Sophia gardée "pour son utilité" ; Magnus arrêté par Laxasia. + Relations Markiona, Magnus.
 - note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Identité
@@ -17,7 +18,8 @@
 - Place une prime officieuse sur la tête de Léa Florence Monad pour l'écarter ; provoque sa disparition.
 - Utilise la Renarde Rousse et le Chat Noir pour suivre P et le mener au Bras de Dieu que l'archevêque Andreas a volé.
 - Confie des préparations pour le transport d'Arlecchino (Archon fleet) vers l'Allée des Alchimistes pour étudier l'éveil de l'Ego.
-- Rencontre P directement lors de la montée de l'abbaye : mentionne l'élixir, invite P à l'Allée des Alchimistes pour témoin de la triumphant évolution des Alchimistes.
+- Rencontre P à la Grande Exposition, après la mort de Champion Victor (achevé par Laxasia) : l'Ergo, ce sont "les âmes en substance" ; il mentionne l'élixir et invite P à l'Allée des Alchimistes pour assister au triomphe de leur évolution ; il laisse la clé de la galerie [CANON SUPPOSÉ]. Cf. Lieux/Grand_Exhibition.md.
+  - [DIVERGENCE RP - 1852 (5.4)] Il voit le trio. Il se plaint d'abord du départ précipité de la traîtresse (Markiona, 1847), puis fait son discours aux deux pantins qui se croient humains ; P répond "des monstres". Magnus lui hurle de relâcher Sophia ; il le provoque : il la garde pour son utilité. Magnus le charge ; Laxasia l'arrête ; Simon repart indemne.
 - Affronte P au sommet de la tour dans deux phases : Simon Manus puis Simon le Dieu Éveillé.
 - Meurt combat contre P ; dialogue final : demande ce que P a fait de Sophia, confesse que la pureté du coeur de Sophia était son baume contre la douleur, qu'il a utilisé l'Ergo pour la retenir.
 
@@ -46,6 +48,8 @@
 - Renarde Rousse (Claudia) + Chat Noir : employés comme pisteurs pour retrouver le Bras de Dieu volé par Andreas.
 - Pinocchio (P) : l'affronte au sommet de la tour ; le voit avec intérêt (pantin à Ego éveillé, expérimenté par Simon via Arlecchino).
 - Arlecchino : pantin à Ego éveillé dont Simon étudie l'Ergo. Cf. Personnages/Arlecchino.md.
+- Markiona [DIVERGENCE RP] : ancienne de l'Ordre (Zelator), traîtresse déclarée depuis 1847 ; il la reconnaît à la Grande Exposition (1852, 5.4). Cf. Personnages/Markiona_relations.md.
+- Magnus [DIVERGENCE RP - 1852 (5.4)] : l'oeuvre de la traîtresse, qu'il prend pour un pantin qui se croit humain ; Magnus le charge pour Sophia, Laxasia l'arrête. Cf. Personnages/Magnus.md.
 - Archbishop Andreas : utilisé puis trahi ; lui distribue un faux cure qui empire la maladie. Andreas vole le Bras de Dieu en représailles.
 - Grandmaster de l'Ordre : qui signe la lettre d'excommunication de Valentinus, appelle Simon "sea monster" en mouvement. Lien ambigu (cf. théorie Paracelsus dans Personnages/Philip_Paracelsus.md).
 
@@ -63,7 +67,8 @@
 | Schisme (avant DLC) | Poursuit sa propre voie ; Luca tente 9 fois de l'inculper ; Léa Florence clashes avec lui | Simon -> acteur du schisme ouvert |
 | Pré-DLC | Prime sur Léa Florence ; Valentinus confie le Bras de Dieu à Andreas -> Simon voit ça comme trahison | Simon -> prend le contrôle effectif de l'Ordre |
 | DLC (avant base game) | Assauts sur Domaine de la Rose + Maison de Charité Monad + Cathédrale ; mort de Valentinus et Isabelle ; capture de Sophia ; Archon fleet incident / préparation transport Arlecchino | Simon -> chef incontesté, Sophia prisonnière |
-| Base game | Machine active, absorbe Ergo de Krat via P et les morts ; rencontre P à l'abbaye ; combat final | Simon -> Simon le Dieu Éveillé -> mort |
+| 1852 (5.4, Grande Exposition) [DIV RP] | Face au trio : la traîtresse, les deux pantins, Sophia gardée "pour son utilité" ; chargé par Magnus, couvert par Laxasia | Indemne |
+| Base game | Machine active, absorbe Ergo de Krat via P et les morts ; rencontre P à la Grande Exposition ; combat final | Simon -> Simon le Dieu Éveillé -> mort |
 
 ---
 

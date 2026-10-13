@@ -1,6 +1,7 @@
 # Alidoro et Parrot
 
-- version : W4
+- version : W5
+- note W5 : forage 5.4 [DIVERGENCE RP]. Parrot a dit le vrai Alidoro disparu (5.2). Au Marais (5.4) : les gants, "le meilleur appât", Hugo informé par Magnus. + Hugo (fiche dédiée).
 - note W4 : forage 5.3 [DIVERGENCE RP]. Le "quelqu'un" que P rappelle au Limier est Léa : il reconnaît le style sans pouvoir le nommer (1850, joué en 5.5 côté P). Locket marqué retiré du RP dans la relation P (motif de confiance : Roadmap_03, étape 7).
 - note W3 : forage 5.2 [DIVERGENCE RP]. Alidoro = AMI de Magnus (Rôdeurs). Parrot démasqué à la voix par Magnus à St Frangelico (1852) ; il admet être le Perroquet, tait le meurtre, rejoint l'Hôtel Krat. + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
@@ -70,7 +71,8 @@
 - Valentinus Monad (indirectement) : même camp anti-Simon.
 - Markiona [DIVERGENCE RP - Ère 2] : il a documenté les crimes de l'Ordre dont elle a profité (Colonel Little -> maîtrise du Zoo). Au reveal, il enrage puis, par raisonnement, valide la sincérité de son changement. cf. Personnages/Markiona.md.
 - Léa Florence Monad, Romeo [DIVERGENCE RP - Ère 2] : co-membres de l'union des Rôdeurs ; présents avec lui au reveal. cf. Personnages/Lea_Florence_Monad.md, Romeo.md.
-- Magnus [DIVERGENCE RP] : un AMI, pas un simple collègue (côtoyé chez les Rôdeurs, 1849-1850 ; combat le Surveillant aux Deux Visages avec lui et P en 1850). C'est parce qu'il connaissait sa voix que Magnus démasque l'imposteur en 1852. cf. Personnages/Magnus.md.
+- Magnus [DIVERGENCE RP] : un AMI, pas un simple collègue (côtoyé chez les Rôdeurs, 1849-1850 ; combat le Surveillant aux Deux Visages avec lui et P en 1850). C'est parce qu'il connaissait sa voix que Magnus démasque l'imposteur en 1852. En 5.4, Magnus apprend à Hugo que l'Alidoro de l'hôtel est un imposteur et que le vrai a disparu. cf. Personnages/Magnus.md.
+- Hugo : jeune explorateur, son admirateur ; reprend le flambeau du Limier (canon : fins "hôtel" ; RP : après la confrontation de Parrot, 5.5). cf. Personnages/Hugo.md.
 
 ### Sort connu
 - Tué par Parrot lors d'une dispute violente après que Parrot vendit des objets sans accord.
@@ -114,10 +116,11 @@
   - Révèle que les Alchimistes lui ont promis de l'aider à fuir la ville.
   - Trahit l'hôtel en échange de cette promesse.
 - Choix de P : tuer ou épargner Parrot.
-- [DIVERGENCE RP - 1852] À St Frangelico, Magnus le démasque : non par un détail physique, mais parce que la VOIX n'est pas celle de son ami. L'imposteur admet être le Perroquet mais cache la vraie histoire (le meurtre) ; il rejoint l'Hôtel Krat comme marchand (canon). Suite (Relique, confession) -> roadmaps Ère 5.
+- [DIVERGENCE RP - 1852] À St Frangelico, Magnus le démasque : non par un détail physique, mais parce que la VOIX n'est pas celle de son ami. L'imposteur admet être le Perroquet mais cache la vraie histoire (le meurtre) : il dit le vrai Alidoro disparu (canon : il n'avoue le meurtre qu'acculé dans la Relique, ch.10). Il rejoint l'Hôtel Krat comme marchand (canon). Suite (Relique, confession) -> roadmaps Ère 5.
+- [DIVERGENCE RP - 1852 (5.4)] Au Marais Aride, en chasse au trésor, il reçoit de P et Magnus les gants qu'Eugénie a faits pour son frère ; il les trouve absurdes, il a cinq doigts (canon). Ils savent, et ne disent rien ; à Eugénie, ils disent que son frère les a aimés. Après le Monstre Vert, il appelle P "le meilleur appât d'Alidoro" (canon). Le même jour, Magnus révèle l'imposture à Hugo : l'étau se resserre (trahison de l'hôtel, 5.5).
 
 ### Indice de l'usurpation
-- Les gants qu'Eugénie a fabriqués pour Alidoro ne vont pas à Parrot ; il les appelle "a mess".
+- Les gants qu'Eugénie a fabriqués pour Alidoro ne vont pas à Parrot ; il les appelle "a mess". Ils ont quatre doigts : Alidoro en a perdu un en la sauvant à la Tour des Artisans.
 - Lettre chiffrée interceptée + déchiffrage de Venigni : confirme qu'Eugénie est la vraie soeur d'Alidoro, pas de Parrot.
 
 ### Psychologie
@@ -145,6 +148,7 @@
 | Avant/pendant Frénésie | Vend des objets ; dispute ; tue Alidoro | Meurtrier, imposteur |
 | Post-Frénésie (base game) | "Faux Alidoro" ; marchand de P à Krat | Identité usurpée active |
 | 1852 (5.2, St Frangelico) [DIV RP] | Démasqué à la voix par Magnus ; admet être Parrot, tait le meurtre ; rejoint l'Hôtel Krat | Imposture éventée, meurtre caché |
+| 1852 (5.4, Marais Aride) [DIV RP] | Gants absurdes pour lui ; "le meilleur appât d'Alidoro" ; Hugo sait | L'étau se resserre |
 | Base game (mi-parcours) | Trahit l'hôtel ; se terre dans la Relique | Déserteur |
 | Base game (fin de sous-intrigue) | Confesse à P ; tué ou épargné | Sorti de la narration |
 

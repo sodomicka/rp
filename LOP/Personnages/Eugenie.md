@@ -1,6 +1,7 @@
 # Eugénie
 
-- version : W2
+- version : W3
+- note W3 : forage 5.4 [DIVERGENCE RP]. Les gants : quatre doigts (Alidoro, son frère, en a perdu un) ; livrés par P et Magnus, qui lui disent qu'il les a aimés (mensonge par bonté ; canon : humanité). + Incohérence signalée : "disparaît pendant l'attaque", alors qu'elle est présente au ch.10 [À VÉRIFIER, forage 5.5].
 - note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Identité
@@ -21,7 +22,8 @@
 - Réaction à Parrot (faux Alidoro) :
   - Heureuse de voir "Alidoro" en sécurité à l'hôtel, sans savoir qu'il s'agit de Parrot.
   - Confie des gants fabriqués pour Alidoro à P -> P les remet à Parrot ; ils ne vont pas à Parrot, il les appelle "a mess" (indice de l'usurpation).
-- Disparaît pendant l'attaque de l'hôtel.
+  - [DIVERGENCE RP - 1852 (5.4)] Les gants ont quatre doigts : elle sait que son frère en a perdu un. P et Magnus les livrent au Marais ; Parrot, qui en a cinq, les trouve absurdes. Ils savent et se taisent ; à leur retour, ils lui disent que son frère les a aimés (canon : ce mensonge fait gagner de l'humanité à P). Paiement : la trahison de Parrot (5.5).
+- Disparaît pendant l'attaque de l'hôtel. [À VÉRIFIER] Elle est pourtant présente au ch.10 (PowerPyx) ; à trancher au forage 5.5.
 - Geste de reconnaissance : P effectue le "deep bow" (geste de son pays natal devant elle) -> elle répond "my heart hurts" (tristesse profonde, signe que ce geste resonates avec son origine).
 
 ## Capacités
@@ -53,6 +55,7 @@
 | Bataille de la Tour des Artisans | Sauvée par Alidoro ; emmenée à Madoro (perd un doigt, lui) | Traumatisée, idolise Alidoro |
 | Base game | Armurière à l'hôtel ; croit que le faux Alidoro est son sauveur | Ignorance du meurtre de son frère |
 | Base game (mi-parcours) | Remet les gants à P -> indice de l'usurpation | Passive dans la découverte |
+| 1852 (5.4) [DIVERGENCE RP] | Confie à P les gants à quatre doigts pour son frère ; P et Magnus lui disent qu'il les a aimés | Trompée par bonté |
 | Attaque de l'hôtel | Disparaît | Sort inconnu |
 
 ---

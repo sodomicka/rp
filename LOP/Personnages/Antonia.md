@@ -1,6 +1,7 @@
 # Antonia
 
-- version : W3
+- version : W4
+- note W4 : forage 5.4 [DIVERGENCE RP]. Le piano (ch.8) : après son remède, Antonia joue ; elle avait appris le piano à Carlo, et P porte son Ergo.
 - note W3 : forage 5.3. Remède recalé sur le canon : P cueille, Giangio fabrique, Polendina administre ; il enraye sans réparer [CANON SUPPOSÉ pour l'effet, la joie, la date]. [DIVERGENCE RP] P cueille le fruit en 5.3 ; passage par Polendina fixé (la veille de l'Opéra).
 - note W2 : forage 5.1 [DIVERGENCE RP]. Markiona la soigne à l'Hôtel Krat : deux pétrifiées. + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
@@ -18,6 +19,7 @@
 - Interlocutrice de Geppetto : lui a écrit pour lui reprocher de négliger Carlo. Geppetto lui a répondu que depuis la mort de Camille, il ne reconnaît plus qui il est.
 - A joué du piano pour maintenir le moral des résidents à la Maison de Charité Monad pendant la quarantaine liée à la maladie (avant l'outbreak officiel).
 - A appris à Carlo à jouer du piano quand il était à la Maison de Charité.
+- Après avoir reçu son remède, elle joue du piano à l'hôtel (ch.8) [CANON SUPPOSÉ].
 - Déclare avoir menti précédemment ("Antonia, revealing that she had lied beforehand") pour cacher l'existence d'un passage secret : en jouant un accord spécial sur le piano, le portrait s'ouvre.
 - Révèle que des Alchimistes occupent la tour effondrée de la gare.
 - Liée au remède optionnel (canon) : P cueille un Fruit d'Or et le donne à Giangio, qui en tire un remède ; P le remet à Polendina, qui le donne à Antonia. Le remède enraye la propagation sans réparer les dégâts : bref moment de joie, puis mort paisible [CANON SUPPOSÉ].
@@ -52,6 +54,7 @@
 | Base game | Malade (écailles visibles) ; remet la clé à P ; concède le passage secret | Affaiblie, lucide |
 | 1852 (5.1) [DIVERGENCE RP] | Soignée par Markiona, pétrifiée comme elle | Soulagée |
 | 1852 (5.3) [DIVERGENCE RP] | Remet à P la clé de la Rue Rosa Isabel (canon) ; P cueille pour Giangio le fruit de son remède | Remède reçu des mains de Polendina, la veille de l'Opéra |
+| 1852 (5.4) [DIVERGENCE RP] | Au retour du trio du Marais, joue du piano ; elle l'avait appris à Carlo, dont P porte l'Ergo | Moment de grâce |
 | Base game (après Laxasia, ch.11 ; 5.6 en RP) | Mort de la Maladie de Pétrification, annoncée par Polendina ; lettre laissée | Mort paisible avec le remède ; plus tôt sans [CANON SUPPOSÉ] |
 | Timeline DLC affectée | Lettre modifiée (enveloppe verte, page 2) | Impact temporel de P visible |
 

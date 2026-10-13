@@ -1,6 +1,7 @@
 # Laxasia
 
-- version : W2
+- version : W3
+- note W3 : forage 5.4. Achève Champion Victor à la Grande Exposition (canon vérifié : épée lancée dans le dos). [DIVERGENCE RP] Y arrête Magnus, qui charge Simon.
 - note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 - Note : inclut la section sur Sister Adriana (identité antérieure de Laxasia).
 
@@ -37,6 +38,8 @@
 ## Laxasia la Complète
 
 ### Rôle
+- À la Grande Exposition (ch.7), elle lance son épée dans le dos de Champion Victor et le tue d'un coup, avant que P puisse le finir (canon vérifié : TV Tropes, Characters/LiesOfP) ; Simon paraît ensuite. Cf. Lieux/Grand_Exhibition.md.
+  - [DIVERGENCE RP - 1852 (5.4)] Quand Magnus charge Simon pour Sophia, elle l'arrête ; Simon repart indemne.
 - Bras droit de Simon Manus dans l'Allée des Alchimistes / Abbaye de l'Arche pendant le base game.
 - Se tient sur le chemin de P lors de sa montée vers Simon, "se dresse en travers du progrès".
 - Combat P dans une confrontation directe à l'abbaye.
@@ -58,6 +61,7 @@
 - Les Alchimistes : sa création par l'élixir sert de preuve de concept pour la production en masse de l'élixir.
 - Philip Paracelsus (Giangio) : voit sa transformation comme validation de l'évolution. Cf. Personnages/Philip_Paracelsus.md.
 - Pinocchio (P) : l'affronte au bas de la tour de l'abbaye ; vaincue par P.
+- Magnus [DIVERGENCE RP - 1852 (5.4)] : elle l'arrête quand il charge Simon, à la Grande Exposition. Cf. Personnages/Magnus.md.
 
 ### Sort connu
 - Vaincue par P lors de l'ascension de l'Allée des Alchimistes / Abbaye de l'Arche (base game).
@@ -70,6 +74,7 @@
 | Expérimentation élixir | Injectée (Test Subject 890) ; ne meurt pas contrairement à la majorité des sujets ; subit des effets secondaires | Adriana -> en transformation |
 | Post-transformation | Devient Laxasia la Complète ; décrite comme "the first whole being baptized by the elixir" | Laxasia -> bras droit de Simon, gardienne |
 | Élixir produit en masse | Sa transformation valide le processus ; élixir distribué et masse de Carcasses créées | Laxasia -> preuve de concept de l'Ordre |
+| 1852 (5.4, Grande Exposition) | Achève Champion Victor ; [DIV RP] arrête Magnus qui charge Simon | Vue par le trio avant l'abbaye |
 | Base game | Bras droit de Simon ; affronte P à l'abbaye ; vaincue | Laxasia -> morte (défaite au combat) |
 
 ---
