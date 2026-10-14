@@ -1,6 +1,7 @@
 # Markiona - Relations
 
-- version : W3
+- version : W4
+- note W4 : forage 5.5 [DIVERGENCE RP]. Magnus (le choix, les derniers mots, ce qu'il sait), Geppetto (il la tue), Camille (cristal confié à P), Sophia (l'extracteur), P (le cristal), Venigni (la promesse déjouée, le corps).
 - note W3 : forage 5.4 [DIVERGENCE RP]. Magnus (l'aveu du deuil ; l'hôtel imposé), Geppetto (elle enrage en silence), Romeo, Venigni (promesse), Simon (menace au passé ; la traîtresse reconnue).
 - note W2 : forage 5.3 [DIVERGENCE RP]. Magnus, Geppetto, P, Rôdeurs, Antonia mis à jour ; + sections Romeo et Sophia. + intimité (nuits d'Aurus, Ère 5) et vouvoiement.
 
@@ -9,22 +10,22 @@ Satellite de Personnages/Markiona, scindée pour le poids. Texture des relations
 ## Magnus
 - Statut : sa création parfaite (Magnum Opus), devenue son fils [DIVERGENCE RP]. cf. Personnages/Magnus.md.
 - Surnoms / adresses : il l'appelle "Dame Markiona", puis aussi "Mère" depuis Aurus, quand elle le lui permet. Il la vouvoie, "Mère" ou non ; elle le tutoie. Chez les Rôdeurs : le Loup Noir et la Louve Blanche.
-- Dynamique : traité d'abord en outil (le MK I) ; il devient son fils à l'Ère 1, glissement muet déclenché par sa désobéissance. Protection mutuelle : il la soigne et la porte, elle bride sa rage ("le sang a assez coulé"). En 5.3, elle ne bride plus sa rage devant l'Aîné ; il la soigne en absorbant ses cristaux ; devant Julian, il laisse tout tomber pour la secourir pendant une quinte. En 5.4, le soir du deuil, elle lui livre que Geppetto est derrière le sort de Romeo, et rien de plus ; après sa pire quinte, il lui impose l'hôtel, et elle n'a pas la force de le contredire.
+- Dynamique : traité d'abord en outil (le MK I) ; il devient son fils à l'Ère 1, glissement muet déclenché par sa désobéissance. Protection mutuelle : il la soigne et la porte, elle bride sa rage ("le sang a assez coulé"). En 5.3, elle ne bride plus sa rage devant l'Aîné ; il la soigne en absorbant ses cristaux ; devant Julian, il laisse tout tomber pour la secourir pendant une quinte. En 5.4, le soir du deuil, elle lui livre que Geppetto est derrière le sort de Romeo, et rien de plus ; après sa pire quinte, il lui impose l'hôtel, et elle n'a pas la force de le contredire. En 5.5, elle lui laisse le choix de l'extraire, et ses derniers mots sont pour lui.
 - Intimité [DIVERGENCE RP - Ère 5] : jusque-là, Magnus avait son lit ; quand des invités squattent sa chambre, ils partagent celui de Markiona. Elle redécouvre le corps de son fils quand il se met en sous-vêtements pour dormir, sans désir ni ambiguïté : la seule fierté de l'artiste et de la scientifique qui voit son oeuvre la dépasser en tout, avec son obsession de la perfection ; à ses yeux, il est parfait. Ils s'étreignent, dorment parfois en cuillère : une mère et un fils qui veulent se protéger à tout prix (cf. Pudeur).
-- Ce que Magnus sait : il ignore le cristal de Camille, et ce que Geppetto a révélé à sa mère en 1852 (Frénésie, peau de Léa, rôle de Romeo). Elle se tait pour l'épargner. Il ignore ce qu'est le prototype qu'elle travaille à Aurus. Depuis 5.3, il sait que le Roi était Romeo, mais ignore qu'elle le savait.
-- Évolution datée : 1847 éveil, désobéissance, fils -> 1847-1848 Aurus, "Mère" -> 1848 Rôdeurs (son envie à lui) -> hiver 1850 il la porte blessée jusqu'à Aurus -> 1851 Tour des Artisans -> 1852 (5.2) elle jubile à la chute d'Andreas et se tait sur le Tchekhov. -> 1852 (5.3) veille d'Opéra à Aurus.
+- Ce que Magnus sait : il ignore le cristal de Camille, et ce que Geppetto a révélé à sa mère en 1852 (Frénésie, peau de Léa, rôle de Romeo). Elle se tait pour l'épargner. Il ignore ce qu'est le prototype qu'elle travaille à Aurus. Depuis 5.3, il sait que le Roi était Romeo, mais ignore qu'elle le savait. En 5.5, il apprend le but du prototype (Sophia) et entend la Loi Zéro, sans comprendre qu'elle savait pour la Frénésie. Il ignore qui l'a tuée. Il assiste au don d'un cristal à P sans savoir de qui elle parle : il sait que Camille était la mentor de sa mère, pas qu'elle était la femme de Geppetto [ACTÉ].
+- Évolution datée : 1847 éveil, désobéissance, fils -> 1847-1848 Aurus, "Mère" -> 1848 Rôdeurs (son envie à lui) -> hiver 1850 il la porte blessée jusqu'à Aurus -> 1851 Tour des Artisans -> 1852 (5.2) elle jubile à la chute d'Andreas et se tait sur le Tchekhov. -> 1852 (5.3) veille d'Opéra à Aurus -> 1852 (5.4) le deuil, l'hôtel imposé -> 1852 (5.5) sa mort, le choix laissé à son fils.
 
 ## Geppetto
 - Statut : ancien collègue au Parlement des Artisans (VO : Workshop Union ; même dispositif de bras) ; veuf de sa mentor Camille. Il est resté artisan quand elle a rejoint les Alchimistes. cf. Personnages/Giuseppe_Geppetto.md.
-- Dynamique [DIVERGENCE RP - 1852] : il la presse de questions au Pont des Alchimistes ; elle se dérobe. Au hub, la jugeant moralement élastique, il lui déballe ses secrets ; elle rejette son plan avec fureur ("il est allé trop loin, même pour elle") : seul son fils compte.
+- Dynamique [DIVERGENCE RP - 1852] : il la presse de questions au Pont des Alchimistes ; elle se dérobe. Au hub, la jugeant moralement élastique, il lui déballe ses secrets ; elle rejette son plan avec fureur ("il est allé trop loin, même pour elle") : seul son fils compte. En 5.5, c'est lui qui la poignarde, pendant que les Lapins la tiennent : elle a rompu le silence sur Romeo. Elle tait son nom jusqu'au bout.
 - Ce que Geppetto sait : il croit le cristal de Camille détruit ; il comprend d'un regard ce qu'est Magnus, mais elle tait le Magnum Opus.
 - Ce que Markiona sait (depuis 5.2) : son rôle dans la Frénésie (Loi Zéro), la peau de Léa sur P, le rôle de Romeo. En 5.3, il ordonne la mort du Roi des Pantins ; elle se tait et suit. En 5.4, quand Magnus lui dit qu'il sait tout, il plaide le mal nécessaire et continue de mentir ; elle enrage intérieurement.
-- Évolution datée : pré-1847 collègues -> 1852 (5.1) Pont des Alchimistes -> 1852 (5.2) dispute au hub.
+- Évolution datée : pré-1847 collègues -> 1852 (5.1) Pont des Alchimistes -> 1852 (5.2) dispute au hub -> 1852 (5.5) il la tue.
 
 ## Camille (et Camil)
 - Statut : sa MENTOR [DIVERGENCE RP - acté] (indice canon du document d'interrogatoire, solidifié par le worldbuilder). cf. Personnages/Camille.md.
 - Dynamique : la découverte de Camil = bascule de sa conversion, et matrice conceptuelle du Magnum Opus.
-- Évolution datée : pré-1847 mentor -> mort de Camille -> Markiona détient son cristal (mécanique : fiche mère) -> 1852 (5.1) elle refuse ses secrets au "veuf de feue sa mentor".
+- Évolution datée : pré-1847 mentor -> mort de Camille -> Markiona détient son cristal (mécanique : fiche mère) -> 1852 (5.1) elle refuse ses secrets au "veuf de feue sa mentor" -> 1852 (5.5) elle confie son cristal à P.
 
 ## Léa Florence Monad
 - Statut : ancienne amie BROUILLÉE ("my sadly not departed friend", message canon de Léa), réconciliée [DIVERGENCE RP - Ère 2]. cf. Personnages/Lea_Florence_Monad.md.
@@ -37,12 +38,12 @@ Satellite de Personnages/Markiona, scindée pour le poids. Texture des relations
 
 ## Sophia Monad
 - Statut : l'âme soeur de son fils, lien platonique [DIVERGENCE RP]. cf. Personnages/Sophia_Monad.md.
-- Ce que Markiona sait : elle se doute de son état de santé. D'où le prototype de Zelator : extraire son Ergo et son Ego vers un pantin, pour que Magnus ait de la compagnie pour toujours après sa mort à elle (mécanique : Objets/Objets_et_Reliques.md).
+- Ce que Markiona sait : elle se doute de son état de santé. D'où le prototype de Zelator : extraire son Ergo et son Ego vers un pantin, pour que Magnus ait de la compagnie pour toujours après sa mort à elle (mécanique : Objets/Objets_et_Reliques.md). En 5.5, elle achève l'extracteur avec Magnus et lui en révèle le but.
 
 ## Pinocchio (P)
 - Statut : allié, jamais affronté [DIVERGENCE RP - révisé W5]. cf. Personnages/Pinocchio.md.
 - Dynamique : en 1850 (Overture), elle voit avec effroi un pantin sous chair humaine. En 1852, elle l'accompagne avec Magnus ; sa présence d'humaine le fait entrer à l'Hôtel Krat sans mentir, et leur protection mutuelle est pour lui un premier modèle de famille. En 1852, il est le seul témoin des soins que lui prodigue Magnus.
-- Ce que Markiona sait : depuis 5.2, que sa chair est la peau de Léa. Elle se tait. Elle reconnaît Carlo sur le portrait (5.3) et se tait. Elle n'a pas remarqué qu'il se bat comme Léa.
+- Ce que Markiona sait : depuis 5.2, que sa chair est la peau de Léa. Elle se tait. Elle reconnaît Carlo sur le portrait (5.3) et se tait. Elle n'a pas remarqué qu'il se bat comme Léa. En 5.5, mourante, elle lui confie le cristal de Camille : il est ce qui se rapproche le plus de Carlo sans être Carlo, c'est à lui de décider. Elle ne lui dit rien de sa peau.
 
 ## Les Rôdeurs
 - Statut : elle ne se fie à aucun Rôdeur de faction [DIVERGENCE RP].
@@ -50,7 +51,7 @@ Satellite de Personnages/Markiona, scindée pour le poids. Texture des relations
 
 ## Lorenzini Venigni
 - Statut : ex-collègue au Parlement des Artisans [DIVERGENCE RP - 1852]. cf. Personnages/Lorenzini_Venigni.md.
-- Dynamique : passif hostile, désamorcé d'une phrase - "on a tué Arlecchino il y a deux ans". Réconciliés. En 5.4, il promet à Magnus de prendre soin d'elle à l'hôtel.
+- Dynamique : passif hostile, désamorcé d'une phrase - "on a tué Arlecchino il y a deux ans". Réconciliés. En 5.4, il promet à Magnus de prendre soin d'elle à l'hôtel. En 5.5, elle déjoue cette promesse : elle lui fait croire qu'elle le suit, puis l'enferme avec les autres pour garder la porte. Son corps lui est confié jusqu'à l'outro (R6).
 
 ## Antonia
 - Statut : patiente [DIVERGENCE RP - 1852] : Markiona la soigne à l'Hôtel Krat, deux pétrifiées. cf. Personnages/Antonia.md. En 5.3, son remède sort du fruit cueilli par P (via Giangio, puis Polendina).

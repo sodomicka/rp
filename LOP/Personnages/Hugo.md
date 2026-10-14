@@ -1,7 +1,7 @@
 # Hugo
 
 - version : W2
-- note W2 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder.
+- note W2 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder. + [DIVERGENCE RP] 5.5 : le masque de chien repris au Perroquet ; le commerce de l'hôtel (canon).
 - note W1 : création (forage 5.4, décision worldbuilder : Hugo sort de l'arrière-plan). Bloc repris de Personnages/PNJ_secondaires.md (W7) et corrigé : l'homme envoyé contre le Monstre Vert est l'auteur du Carnet de la sentinelle, pas Hugo ; Hugo n'apparaît pas à la Gare Centrale. + Suite canon (sources externes) et quête de 1852 [DIVERGENCE RP].
 
 ## Identité
@@ -17,7 +17,7 @@
 
 ## [DIVERGENCE RP] 1852
 - 5.4 (Marais Aride, le pont) : Magnus, l'ami du vrai Alidoro, lui apprend que l'Alidoro de l'hôtel est un imposteur et que le vrai a disparu. Sa quête démarre là [ACTÉ].
-- Suite [ACTÉ] : il devient le nouveau Traqueur après la confrontation de Parrot (5.5). Détail -> roadmap 5.5.
+- 5.5 (Relique) [ACTÉ] : sur la piste d'Alidoro, il reprend au Perroquet, abattu par P, le masque de chien : il devient le nouveau Traqueur. Il reprend ensuite le commerce de Parrot à l'Hôtel Krat (canon).
 
 ## Psychologie
 - Admiration têtue pour Alidoro : il préfère croire à un complot qu'aux rumeurs.
@@ -31,14 +31,14 @@
 
 ## Sort connu
 - Canon : marchand de l'Hôtel Krat après Parrot ; nouveau Traqueur dans les fins "hôtel" ; remplacé par un pantin à tête de chien dans la fin Real Boy [CANON SUPPOSÉ : NamuWiki].
-- RP : nouveau Traqueur après la confrontation de Parrot (5.5) [ACTÉ].
+- RP : nouveau Traqueur à la Relique (5.5) [ACTÉ], puis marchand de l'Hôtel Krat (canon).
 
 ## Trajectoire datée
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
 | Avant Frénésie | Fan d'Alidoro ; [INCERTAIN] sauvé par lui à l'effondrement de la Tour (NamuWiki) | Admirateur |
 | 1852 (5.4, Marais Aride) [DIVERGENCE RP] | Au pont, devant la grille de la grotte de l'ermite ; remet à P l'avis de recherche et le vieux vase cryptique ; Magnus lui apprend l'imposture | Quête lancée |
-| 1852 (5.5) [ACTÉ] | Nouveau Traqueur après la confrontation de Parrot (détail -> roadmap 5.5) | Successeur |
+| 1852 (5.5, Relique) [ACTÉ] | Reprend au Perroquet, abattu par P, le masque de chien ; reprend son commerce à l'hôtel (canon) | Nouveau Traqueur |
 
 ---
 

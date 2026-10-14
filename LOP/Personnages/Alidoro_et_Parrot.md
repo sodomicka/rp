@@ -1,7 +1,7 @@
 # Alidoro et Parrot
 
 - version : W6
-- note W6 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder.
+- note W6 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder. + [DIVERGENCE RP] 5.5 : Parrot ouvre la porte et part avec les assaillants (Sophia le voit) ; aveu à la Relique ; P l'abat, Magnus retenu ; Hugo reprend le masque. Relations Eugénie, Magnus, Hugo.
 - note W5 : forage 5.4 [DIVERGENCE RP]. Parrot a dit le vrai Alidoro disparu (5.2). Au Marais (5.4) : les gants, "le meilleur appât", Hugo informé par Magnus. + Hugo (fiche dédiée).
 - note W4 : forage 5.3 [DIVERGENCE RP]. Le "quelqu'un" que P rappelle au Traqueur est Léa : il reconnaît le style sans pouvoir le nommer (1850, joué en 5.5 côté P). Locket marqué retiré du RP dans la relation P (motif de confiance : Roadmap_03, étape 7).
 - note W3 : forage 5.2 [DIVERGENCE RP]. Alidoro = AMI de Magnus (Rôdeurs). Parrot démasqué à la voix par Magnus à St Frangelico (1852) ; il admet être le Perroquet, tait le meurtre, rejoint l'Hôtel Krat. + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -65,15 +65,15 @@
 - Intégriste moral : était "furieux" quand Parrot vendit des objets sans son accord.
 
 ### Relations
-- Eugénie (sa soeur) : la surveille de loin, a risqué sa vie pour la sauver, lui avait écrit une lettre cryptée.
+- Eugénie (sa soeur) : la surveille de loin, a risqué sa vie pour la sauver, lui avait écrit une lettre cryptée. [DIVERGENCE RP - 1852 (5.5)] Son vase cryptique, déchiffré par Venigni, révèle qu'il gardait ses distances pour la protéger (canon). Chemin de référence : P et Magnus disent à Eugénie qu'« Alidoro » est mort en héros dans la Relique, mensonge par bonté [ACTÉ].
 - Parrot (ex-partenaire, son meurtrier) : l'a élevé comme partenaire de chasse aux trésors ; tué par lui. [DIVERGENCE RP - Ère 2] À cette période, Parrot est encore son partenaire vivant ; la trahison est postérieure.
 - Madoro (reporter/medic) : intermédiaire pour les révélations ; ami.
 - P : rencontré dans la Zelator Facility ; canon : lui fait confiance en voyant le locket de Monad ; allié de combat. [DIVERGENCE RP - Ère 3] Locket retiré du RP (Objets_et_Reliques, note W2) : il se joint au groupe de Léa pour détruire la création de Markiona (Roadmap_03, étape 7). Le style de P lui rappelle Léa, sans qu'il puisse la nommer (cf. Rôle, DLC).
 - Valentinus Monad (indirectement) : même camp anti-Simon.
 - Markiona [DIVERGENCE RP - Ère 2] : il a documenté les crimes de l'Ordre dont elle a profité (Colonel Little -> maîtrise du Zoo). Au reveal, il enrage puis, par raisonnement, valide la sincérité de son changement. cf. Personnages/Markiona.md.
 - Léa Florence Monad, Romeo [DIVERGENCE RP - Ère 2] : co-membres de l'union des Rôdeurs ; présents avec lui au reveal. cf. Personnages/Lea_Florence_Monad.md, Romeo.md.
-- Magnus [DIVERGENCE RP] : un AMI, pas un simple collègue (côtoyé chez les Rôdeurs, 1849-1850 ; combat le Surveillant aux Deux Visages avec lui et P en 1850). C'est parce qu'il connaissait sa voix que Magnus démasque l'imposteur en 1852. En 5.4, Magnus apprend à Hugo que l'Alidoro de l'hôtel est un imposteur et que le vrai a disparu. cf. Personnages/Magnus.md.
-- Hugo : jeune explorateur, son admirateur ; reprend le flambeau du Traqueur (canon : fins "hôtel" ; RP : après la confrontation de Parrot, 5.5). cf. Personnages/Hugo.md.
+- Magnus [DIVERGENCE RP] : un AMI, pas un simple collègue (côtoyé chez les Rôdeurs, 1849-1850 ; combat le Surveillant aux Deux Visages avec lui et P en 1850). C'est parce qu'il connaissait sa voix que Magnus démasque l'imposteur en 1852. En 5.4, Magnus apprend à Hugo que l'Alidoro de l'hôtel est un imposteur et que le vrai a disparu. En 5.5, P abat Parrot, l'assassin de son ami, pour épargner à Magnus la vengeance. cf. Personnages/Magnus.md.
+- Hugo : jeune explorateur, son admirateur ; reprend le flambeau du Traqueur (canon : fins "hôtel" ; RP : à la Relique, il reprend au Perroquet le masque de chien, 5.5). cf. Personnages/Hugo.md.
 
 ### Sort connu
 - Tué par Parrot lors d'une dispute violente après que Parrot vendit des objets sans accord.
@@ -109,7 +109,8 @@
   - Se comporte de façon à éviter la découverte (prudence, mensonge permanent).
   - Dit à P que celui-ci est "Alidoro's best bait" après avoir récupéré la dernière arme de héros.
   - Délivre des armes et objets précieux à P tout au long du base game (rôle marchand/PNJ récurrent).
-- Au moment de l'attaque de l'hôtel : disparaît pendant l'assaut.
+- Au moment de l'attaque de l'hôtel : coupe la sécurité de l'intérieur, ouvre la porte aux assaillants et part avec eux (canon ; il attend les renforts alchimistes au dock [SOURCE UNIQUE : namu]).
+  - [DIVERGENCE RP - 1852 (5.5)] Sophia le voit ouvrir la porte, la seule trahison qu'elle ait pu voir : P et Magnus la savent avant la Relique [ACTÉ].
 - Dans la Relique de Trismegistus : retrouvé par P, retranché, apeuré.
   - Confesse qu'il n'est pas le vrai Alidoro.
   - Révèle avoir tué Alidoro dans une dispute.
@@ -119,6 +120,7 @@
 - Choix de P : tuer ou épargner Parrot.
 - [DIVERGENCE RP - 1852] À St Frangelico, Magnus le démasque : non par un détail physique, mais parce que la VOIX n'est pas celle de son ami. L'imposteur admet être le Perroquet mais cache la vraie histoire (le meurtre) : il dit le vrai Alidoro disparu (canon : il n'avoue le meurtre qu'acculé dans la Relique, ch.10). Il rejoint l'Hôtel Krat comme marchand (canon). Suite (Relique, confession) -> roadmaps Ère 5.
 - [DIVERGENCE RP - 1852 (5.4)] Au Marais Aride, en chasse au trésor, il reçoit de P et Magnus les gants qu'Eugénie a faits pour son frère ; il les trouve absurdes, il a cinq doigts (canon). Ils savent, et ne disent rien ; à Eugénie, ils disent que son frère les a aimés. Après le Monstre Vert, il appelle P "le meilleur appât d'Alidoro" (canon). Le même jour, Magnus révèle l'imposture à Hugo : l'étau se resserre (trahison de l'hôtel, 5.5).
+- [DIVERGENCE RP - 1852 (5.5)] Dans la Relique, recroquevillé près d'un feu, il indique le dock où la Renarde et le Chat ont emmené Geppetto. Acculé, il avoue (canon) : le Perroquet, l'associé du vrai Alidoro, tué pour de l'argent ; l'offre des Alchimistes pour fuir Krat ; il espérait la mort d'Eugénie dans le raid ; il se croit protégé par le Grand Covenant. Magnus veut le tuer ; P l'en empêche et l'abat lui-même : Markiona aurait détesté la vengeance, et ce n'est qu'un fou dangereux acculé [ACTÉ]. Derniers mots : « Tu es… comme un humain… » [SOURCE UNIQUE : namu]. Hugo reprend au Perroquet le masque de chien et devient le nouveau Traqueur [ACTÉ].
 
 ### Indice de l'usurpation
 - Les gants qu'Eugénie a fabriqués pour Alidoro ne vont pas à Parrot ; il les appelle "a mess". Ils ont quatre doigts : Alidoro en a perdu un en la sauvant à la Tour des Artisans.
@@ -135,11 +137,12 @@
 - Eugénie : la considère comme "annoying" ; ne se doute pas (ou fait semblant) de son lien fraternel avec la victime.
 - P : client/interlocuteur dans le base game ; le manipule sous couverture.
 - Alchimistes : traite avec eux pour s'assurer une sortie de Krat.
-- Magnus [DIVERGENCE RP - 1852] : l'ami d'Alidoro ; le démasque à la voix. cf. Personnages/Magnus.md.
+- Magnus [DIVERGENCE RP - 1852] : l'ami d'Alidoro ; le démasque à la voix. En 5.5, il veut le tuer ; P l'en empêche et s'en charge. cf. Personnages/Magnus.md.
 
 ### Sort connu
 - Choix du joueur : P peut le tuer ou l'épargner dans la Relique.
 - Dans tous les cas, aucune mention de survie ultérieure dans la source.
+- [DIVERGENCE RP - 1852 (5.5)] Abattu par P dans la Relique [ACTÉ].
 
 ### Trajectoire datée
 | Date/ère | Événement | Delta d'état |
@@ -150,6 +153,8 @@
 | Post-Frénésie (base game) | "Faux Alidoro" ; marchand de P à Krat | Identité usurpée active |
 | 1852 (5.2, St Frangelico) [DIV RP] | Démasqué à la voix par Magnus ; admet être Parrot, tait le meurtre ; rejoint l'Hôtel Krat | Imposture éventée, meurtre caché |
 | 1852 (5.4, Marais Aride) [DIV RP] | Gants absurdes pour lui ; "le meilleur appât d'Alidoro" ; Hugo sait | L'étau se resserre |
+| 1852 (5.5, Hôtel Krat) [DIV RP] | Coupe la sécurité, ouvre la porte aux assaillants, part avec eux ; Sophia le voit | Traître démasqué |
+| 1852 (5.5, Relique) [DIV RP] | Acculé, avoue ; abattu par P, qui retient Magnus ; Hugo reprend le masque | Mort |
 | Base game (mi-parcours) | Trahit l'hôtel ; se terre dans la Relique | Déserteur |
 | Base game (fin de sous-intrigue) | Confesse à P ; tué ou épargné | Sorti de la narration |
 

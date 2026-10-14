@@ -1,6 +1,7 @@
 # Claudia et Lucio
 
-- version : W5
+- version : W6
+- note W6 : forage 5.5 [DIVERGENCE RP]. L'assaut de l'hôtel : ils emmènent Geppetto, de mèche avec Simon, sans toucher Markiona ni l'aider ; la réplique de la Renarde sur l'île (5.6).
 - note W5 : forage 5.4 [DIVERGENCE RP]. Fruit de Lucio remis : cécité freinée, pas guérie.
 - note W4 : forage 5.3 [DIVERGENCE RP]. Aux ordres de Simon, pour leur propre compte ; la route de Malum (proposition de la Renarde, aide du Chat, départ avant le Red Lobster) ; règle du coeur pur précisée (tout le monde approche l'arbre, seuls P et Magnus cueillent) ; ersatz des Alchimistes ; Magnus cueille le fruit de Lucio. + Régime R5 (canon post-Frénésie repris).
 - note W3 : numérotation des ères alignée sur la Chronologie (Frénésie = Ère 4 ; base game = Ère 5). + Passage à la Fabrique Artisanale Venigni (5.2) : discussion entre Rôdeurs, Markiona prudente, départ vers le District Malum. + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -47,7 +48,7 @@
 
 ### Sort connu / État (à fin Ère 4, printemps 1852)
 - Survivante de la décimation : absente de la Bataille de la Tour des Artisans (cf. section 3), elle échappe au massacre des rôdeurs.
-- Ère 5 (1852) : travaille pour Simon, toujours pour son propre compte ; quête du Fruit d'Or pour les yeux de son frère (cf. sections 3 et 4). Suite : roadmaps 5.5 et 5.6.
+- Ère 5 (1852) : travaille pour Simon, toujours pour son propre compte ; quête du Fruit d'Or pour les yeux de son frère (cf. sections 3 et 4). En 5.5, avec le Chat, elle emmène Geppetto pendant l'assaut de l'hôtel (cf. section 3). Suite : roadmap 5.6.
 
 ---
 
@@ -86,7 +87,7 @@
 
 ### Sort connu / État (à fin Ère 4, printemps 1852)
 - Survivant de la décimation : absent de la Tour des Artisans (cf. section 3), vue de plus en plus faible.
-- Ère 5 (1852) : travaille pour Simon, toujours pour son propre compte ; vue en baisse ; un Fruit d'Or cueilli pour lui par Magnus en 5.3, remis en 5.4 (cf. sections 3 et 4). Suite : roadmaps 5.5 et 5.6.
+- Ère 5 (1852) : travaille pour Simon, toujours pour son propre compte ; vue en baisse ; un Fruit d'Or cueilli pour lui par Magnus en 5.3, remis en 5.4 (cf. sections 3 et 4). En 5.5, il emmène Geppetto avec la Renarde (cf. section 3). Suite : roadmap 5.6.
 
 ---
 
@@ -105,6 +106,10 @@
 ### Ère 5 (1852) - le passage à la Fabrique [DIVERGENCE RP]
 - À la Fabrique Artisanale Venigni, après Fuoco, ils croisent P, Magnus et Markiona : simple discussion entre Rôdeurs, sans ralliement. Markiona reste prudente : elle ne se fie à aucun Rôdeur de faction. Le duo file vers le District Malum (pose pour 5.3). cf. Roadmap_05_2_La_Ville_Malade, Personnages/Markiona_relations.md.
 
+### Ère 5 (1852, 5.5) - l'assaut de l'Hôtel Krat [DIVERGENCE RP]
+- Sur ordre de Simon, avec la Confrérie, par la porte que Parrot ouvre (canon). La Renarde veut toujours le remède aux yeux du Chat (canon). Ils emmènent Geppetto vers l'île, par le dock, sans toucher Markiona ni l'aider [ACTÉ] : l'enlèvement est une mise en scène, Geppetto est de mèche avec Simon [ACTÉ ; canon selon le worldbuilder].
+- 5.6 [ACTÉ] : sur l'île, la Renarde dira à P que s'il s'attend à voir un prisonnier, il sera surpris.
+
 ### Échos et règles à exploiter en roadmap
 - Écho Collodi [matière narrative] : dans le roman, le Renard et le Chat FEIGNENT un handicap pour arnaquer Pinocchio, et le poussent à enterrer ses pièces d'or pour qu'elles "poussent" (racine de l'Arbre à Fruits d'Or). Ici l'ironie se referme : la cécité de Lucio est RÉELLE (Maladie de Pétrification), et c'est un Fruit d'Or qu'il faudra pour la soigner. L'arnaque du roman se retourne sur l'arnaqueur.
 - [DIVERGENCE RP] Règle du coeur pur : seul un coeur pur peut cueillir un Fruit d'Or ; dans tout le monde, seuls Pinocchio et Magnus en sont capables. Tout autre peut approcher l'arbre, mais se brûle la main en voulant cueillir (comme Giangio, canon). Les Alchimistes n'en ont jamais eu de vrai : des promesses et un ersatz, d'où le "jamais assez" du Chat. Pour sauver la vue de son frère, Claudia dépend de Magnus et de Pinocchio ; en 5.3, c'est Magnus qui cueille le fruit de Lucio. cf. Personnages/Magnus.md, Personnages/Pinocchio.md.
@@ -122,7 +127,8 @@
 | 1852 (5.2, Fabrique Artisanale Venigni) [DIV RP] | Croisent P, Magnus et Markiona ; discussion entre Rôdeurs ; filent vers le District Malum | En route vers Malum |
 | 1852 (5.3, District Malum) [DIV RP] | Aux ordres de Simon, pour leur compte : Claudia propose au trio de faire route (le fruit pour Lucio) ; le Chat aide contre un ennemi d'élite ; ils ne voient en P qu'un Rôdeur au bras de métal ; partis avant le Red Lobster. À l'arbre, Magnus cueille un fruit pour Lucio | Alliés de route le temps de Malum ; un fruit attend Lucio ([À FIXER] remise) |
 | 1852 (5.4, Grande Exposition) [DIV RP] | Magnus remet à la Renarde le fruit de Lucio | Cécité freinée |
-| Suite (Ère 5, 5.5+) | Régime R5 (décision worldbuilder : en R5, on se rattache globalement au canon pour la trame) : le canon post-Frénésie est repris (assaut de l'Hôtel Krat, garde de Geppetto, cécité avancée, épuisement au combat, quête du Fruit d'Or). Détail en roadmap | (en attente) |
+| 1852 (5.5, Hôtel Krat) [DIV RP] | Assaut avec la Confrérie, sur ordre de Simon ; emmènent Geppetto, de mèche avec Simon, sans toucher Markiona ni l'aider | Geppetto sur l'île |
+| Suite (Ère 5, 5.6) | Régime R5 (décision worldbuilder : en R5, on se rattache globalement au canon pour la trame) : le canon post-Frénésie est repris (assaut de l'Hôtel Krat, garde de Geppetto, cécité avancée, épuisement au combat, quête du Fruit d'Or). Détail en roadmap | (en attente) |
 
 ---
 

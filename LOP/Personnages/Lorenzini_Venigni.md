@@ -1,6 +1,7 @@
 # Lorenzini Venigni
 
-- version : W4
+- version : W5
+- note W5 : forage 5.5 [DIVERGENCE RP]. Promesse déjouée par Markiona ; Stargazer relancé ; corps confié jusqu'à la R6 ; décodage sans le nom ; confidences à Magnus, par confiance (Arlecchino). Ergo doré : le sous-marin (rectifie W4). + Sort R6 selon la branche.
 - note W4 : forage 5.4 [DIVERGENCE RP]. Message de Romeo décodé en 5.5 (rectifie W3). + Guide le trio depuis un Stargazer ; reçoit l'Ergo doré (destination à vérifier) et le vase d'Hugo ; promet de protéger Markiona.
 - note W3 : forage 5.3 [DIVERGENCE RP]. Décodeur remis au hub au retour de la cathédrale ; Venigni découvre que Magnus entend les pantins sans appareil ; ni P ni Magnus ne répondent au Grand Covenant. Message de Romeo (Loi Zéro) décodé en 5.4.
 - note W2 : forage 5.2 [DIVERGENCE RP]. + Passif avec Markiona (ex-collègues au Parlement des Artisans). + Closure Arlecchino AVANCÉE en 1852 (il savait déjà qui avait tué ses parents ; Markiona lui apprend la mort du tueur) ; fil du jouet-chevalier volé SUPPRIMÉ. + Trajectoire 1852. + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -32,10 +33,13 @@
     - [DIVERGENCE RP - 1852 (5.3)] Remis à P au hub, au retour de la cathédrale : cap sur Malum ; P le garde. Venigni découvre alors que Magnus entend les pantins SANS appareil. Ni Magnus ni P ne répondent au Grand Covenant ; ni l'un ni l'autre ne sait rien de la Loi Zéro.
   - décode le message de Romeo capté dans les ondes (1852 : en 5.5, après l'enlèvement de Geppetto) ("Carlo, j'espère que tu peux m'entendre... Loi Zéro, le nom du créateur est Geppetto") ;
   - en déduit qu'il faut retrouver Geppetto, révélant son implication (Loi Zéro) ;
+    - [DIVERGENCE RP - 1852 (5.5)] Le bruit lui cache le nom ; P l'entend, Magnus aussi, sans appareil. Magnus tente de lui mentir ("je n'ai pas entendu") ; P le convainc d'attendre de tout savoir avant de le révéler aux autres. Venigni ignore donc encore le nom. Il se confie quand même à Magnus, parce qu'il lui fait confiance : Magnus a tué Arlecchino [ACTÉ]. Ses parents, l'affaire étouffée, le Grand Covenant écrit avec Geppetto [CANON SUPPOSÉ].
   - explique à P que les pantins, en plus du Grand Covenant, communiquaient entre eux via les ondes - surpris et excité, car ils n'ont pas été construits avec cette intelligence ;
   - déchiffre la lettre d'Alidoro destinée à sa soeur, établissant qu'Eugénie est la véritable soeur d'Alidoro (cf. Personnages/Alidoro_et_Parrot.md, Personnages/Eugenie.md) ;
+    - [DIVERGENCE RP - 1852 (5.5)] Au retour de la Relique, il déchiffre le vieux vase cryptique confié en 5.4 : le vrai Alidoro gardait ses distances avec Eugénie pour la protéger (canon).
   - reçoit l'Ergo doré rapporté par P et confirme que les Alchimistes lui avaient commandé un transport alimenté par l'Ergo doré, qu'il pense situé dans leur base souterraine.
-    - [DIVERGENCE RP - 1852 (5.4)] Il parle au trio depuis un Stargazer en route vers la Grande Exposition [CANON SUPPOSÉ], réclame l'Ergo doré, le reçoit au hub et remet la batterie au plomb dorée [CANON SUPPOSÉ] ; on lui confie le vieux vase cryptique d'Hugo. Destination de l'Ergo doré [À VÉRIFIER] (cf. Objets/Objets_et_Reliques.md). Quand Magnus impose à sa mère de rester à l'hôtel, il promet de la protéger.
+    - [DIVERGENCE RP - 1852 (5.4)] Il parle au trio depuis un Stargazer en route vers la Grande Exposition [CANON SUPPOSÉ], réclame l'Ergo doré, le reçoit au hub et remet la batterie au plomb dorée [CANON SUPPOSÉ] ; on lui confie le vieux vase cryptique d'Hugo. L'Ergo doré alimente le sous-marin Pistrus, le transport commandé par les Alchimistes (tranché au forage 5.5 ; cf. Objets/Objets_et_Reliques.md). Quand Magnus impose à sa mère de rester à l'hôtel, il promet de la protéger.
+    - [DIVERGENCE RP - 1852 (5.5)] Markiona déjoue sa promesse : elle lui fait croire qu'elle le suit, l'enferme avec les autres résidents dans le bureau de Geppetto et garde la porte. Les assaillants partis, elle ouvre ; il relance le grand Stargazer avant le retour de P et Magnus. Son corps lui est confié jusqu'à la roadmap d'outro (R6). Branche A : il promet de mettre du coeur à l'ouvrage ; Magnus lui demande de l'attendre et tient à superviser lui-même le prochain corps de sa mère.
 
 ## Capacités
 - Génie inventif précoce (inventeur reconnu dès 18 ans).
@@ -55,10 +59,10 @@
 ## Relations
 - Famille Venigni / les Venignis : ses parents, associés de Geppetto pour la fabrication des pantins ; assassinés par Arlecchino.
 - Arlecchino : meurtrier de ses parents ; les a tués parce qu'il haïssait leur bonheur, non pour leur rôle dans les pantins (cf. Personnages/Arlecchino.md).
-- Giuseppe Geppetto : associé de la famille Venigni ; jaloux et menacé par le génie de Lorenzini (cf. Personnages/Giuseppe_Geppetto.md).
+- Giuseppe Geppetto : associé de la famille Venigni ; jaloux et menacé par le génie de Lorenzini (cf. Personnages/Giuseppe_Geppetto.md). Ils ont écrit ensemble le Grand Covenant [CANON SUPPOSÉ]. [DIVERGENCE RP - 1852 (5.5)] Venigni ignore encore que le nom du message de Romeo est le sien.
 - Parlement des Artisans (VO : Workshop Union) : faction alliée (fabrication des pantins) ; complice du secret sur le meurtre de ses parents (cf. Factions/Workshop_Union.md).
-- Markiona [DIVERGENCE RP - 1852] : ex-collègue au Parlement des Artisans, passif hostile, désamorcé par la nouvelle de la mort d'Arlecchino ; réconciliés. En 5.4, il promet de la protéger à l'hôtel. cf. Personnages/Markiona_relations.md.
-- Magnus [DIVERGENCE RP - 1852] : l'un des tueurs d'Arlecchino (1850) ; détruit Fuoco avec P. cf. Personnages/Magnus.md. [DIVERGENCE RP - 1852 (5.3)] Découvre au hub que Magnus entend les pantins sans appareil.
+- Markiona [DIVERGENCE RP - 1852] : ex-collègue au Parlement des Artisans, passif hostile, désamorcé par la nouvelle de la mort d'Arlecchino ; réconciliés. En 5.4, il promet de la protéger à l'hôtel. En 5.5, elle déjoue cette promesse en l'enfermant avec les autres ; son corps lui est confié jusqu'à l'outro. cf. Personnages/Markiona_relations.md.
+- Magnus [DIVERGENCE RP - 1852] : l'un des tueurs d'Arlecchino (1850) ; détruit Fuoco avec P. cf. Personnages/Magnus.md. [DIVERGENCE RP - 1852 (5.3)] Découvre au hub que Magnus entend les pantins sans appareil. [DIVERGENCE RP - 1852 (5.5)] Il lui fait confiance, parce qu'il a tué Arlecchino : il se confie à lui au décodage, sans savoir que Magnus lui tait le nom.
 - Les Alchimistes : commanditaires d'un véhicule spécial ; responsables de la dégradation de l'Ergo ; complices du secret sur le meurtre de ses parents (cf. Factions/Les_Alchimistes.md).
 - Pulcinella : son majordome pantin (cf. Personnages/Pulcinella.md).
 - Pinocchio (P) : le sauve dans l'usine, lui fournit décodeur et analyses clés ; relais d'information majeur de la trame.
@@ -68,6 +72,7 @@
 - Sauvé par P dans l'usine et ramené sain et sauf à l'Hôtel Krat avec Pulcinella.
 - Devient un allié permanent à l'hôtel (décodeur, analyses, déchiffrements).
 - [INCERTAIN] : sort final au-delà des événements de l'Hôtel Krat.
+- [DIVERGENCE RP] [ACTÉ] R6 (roadmap d'outro) : gardien du corps de Markiona jusque-là. Branche A : il réassemble l'Ange de l'Arc avec Magnus, qui fait seul le corps de sa mère. Branche B : il fabrique avec Magnus et P le corps mécanique de Sophia.
 
 ## Trajectoire datée
 | Date/ère | Événement | Delta d'état |
@@ -82,7 +87,8 @@
 | Base game | Sauvé par P ; ramené à l'Hôtel Krat | Allié ressource |
 | 1852 (5.3, Hôtel Krat) [DIV RP] | Au retour de la cathédrale, donne à P le décodeur d'onde Ergo (cap sur Malum) ; découvre que Magnus entend les pantins sans appareil | P garde le décodeur ; ni P ni Magnus ne répondent au Grand Covenant |
 | 1852 (5.4, Hôtel Krat) [DIV RP] | Guide le trio depuis un Stargazer ; reçoit l'Ergo doré et le vase d'Hugo ; promet à Magnus de protéger Markiona | Gardien de Markiona à l'hôtel |
-| 1852 (5.5) | Décode le message de Romeo | Révèle Loi Zéro / Geppetto |
+| 1852 (5.5, l'attaque) [DIV RP] | Enfermé par Markiona avec les résidents ; relance le grand Stargazer ; garde son corps | Promesse déjouée |
+| 1852 (5.5, le message) [DIV RP] | Déchiffre le vase d'Alidoro ; décode le message de Romeo, le bruit lui cache le nom ; se confie à Magnus | Loi Zéro révélée, sans le nom de Geppetto |
 | Base game | Déchiffre la lettre d'Alidoro (Eugénie = sa soeur) | Vérité sur Alidoro |
 | DLC | Apprend la vérité sur le meurtre de ses parents [canon ; DIVERGENCE RP : remplacé par la closure de 1852] | Résolution |
 

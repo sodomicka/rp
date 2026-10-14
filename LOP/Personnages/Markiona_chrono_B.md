@@ -1,6 +1,7 @@
 # Markiona - Chronologie B (Ère 5, 1852+)
 
-- version : W3
+- version : W4
+- note W4 : forage 5.5 [DIVERGENCE RP]. Lignes 5.5 (l'attaque, les adieux) ; ligne Suite recalée sur la R6.
 - note W3 : forage 5.4 [DIVERGENCE RP]. Lignes 5.4 ; ligne "Suite" recalée (mort en 5.5, pendant l'attaque de l'hôtel). Alidoro dit disparu par Parrot (5.2), et non mort.
 - note W2 : forage 5.3 [DIVERGENCE RP]. Lignes 5.3 ; ligne "Suite" recalée sur 5.4-5.6.
 
@@ -32,7 +33,9 @@ Satellite de Personnages/Markiona, suite de Personnages/Markiona_chrono_A. Traje
 | 1852 (5.4, Grande Exposition) | Simon la reconnaît et se plaint du départ précipité de la traîtresse. Quand il dit que l'Ergo, ce sont des âmes, elle pense au cristal de Camille, sans un mot | Ennemie reconnue ; cristal frôlé, EN RÉSERVE |
 | 1852 (5.4, falaise du Marais) | Après le Monstre Vert, sa pire quinte : elle tousse plus fort que jamais, crache du sang et des cristaux, malgré les soins de Magnus | Déclin terminal visible |
 | 1852 (5.4, Hôtel Krat) | Magnus lui impose de rester à l'hôtel la prochaine fois ; elle n'a pas la force de le contredire. Venigni promet de la protéger | Résidente de l'hôtel à partir de la 5.5 |
-| Suite (Ère 5) | Mort pendant l'attaque de l'Hôtel Krat (5.5) [ACTÉ]. Comment ; sort du cristal de Camille et du prototype de Zelator -> roadmaps 5.5 et 5.6 | Terminale |
+| 1852 (5.5, Hôtel Krat, l'attaque) | Fait entrer les résidents dans le bureau de Geppetto, fait croire à Venigni qu'elle suit, les enferme et garde la porte. Les Lapins la tiennent ; Geppetto la poignarde au ventre. Les assaillants partis, elle ouvre la porte ; les résidents la maintiennent en vie | Blessure fatale |
+| 1852 (5.5, Hôtel Krat, les adieux) | Rassure Magnus et l'envoie chercher l'extracteur à Aurus ; ils l'achèvent ensemble, elle lui en révèle le but (Sophia). Il veut l'extraire : elle ne veut pas d'une vie éternelle à ruminer ses erreurs, mais lui laisse le choix. Tait son meurtrier : le destin l'a tuée avant la maladie. Confie à P, devant Magnus, le cristal de Camille. Derniers mots : « Tu es ma plus belle création, mon fils, la plus parfaite, et la seule qui puisse me survivre. » | Morte (branche B) ou en cristal (branche A) |
+| Suite | Corps à l'Hôtel Krat, confié à Venigni, jusqu'à la roadmap d'outro (R6) : les adieux ; branche A, son nouveau corps, refait par Magnus avec l'Ange de l'Arc | |
 
 ---
 

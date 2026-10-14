@@ -1,6 +1,7 @@
 # Antonia
 
-- version : W4
+- version : W5
+- note W5 : forage 5.5 [DIVERGENCE RP]. La Tour des Artisans indiquée [CANON SUPPOSÉ] ; enfermée par Markiona pendant l'attaque ; la partition secrète (canon).
 - note W4 : forage 5.4 [DIVERGENCE RP]. Le piano (ch.8) : après son remède, Antonia joue ; elle avait appris le piano à Carlo, et P porte son Ergo.
 - note W3 : forage 5.3. Remède recalé sur le canon : P cueille, Giangio fabrique, Polendina administre ; il enraye sans réparer [CANON SUPPOSÉ pour l'effet, la joie, la date]. [DIVERGENCE RP] P cueille le fruit en 5.3 ; passage par Polendina fixé (la veille de l'Opéra).
 - note W2 : forage 5.1 [DIVERGENCE RP]. Markiona la soigne à l'Hôtel Krat : deux pétrifiées. + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -21,7 +22,7 @@
 - A appris à Carlo à jouer du piano quand il était à la Maison de Charité.
 - Après avoir reçu son remède, elle joue du piano à l'hôtel (ch.8) [CANON SUPPOSÉ].
 - Déclare avoir menti précédemment ("Antonia, revealing that she had lied beforehand") pour cacher l'existence d'un passage secret : en jouant un accord spécial sur le piano, le portrait s'ouvre.
-- Révèle que des Alchimistes occupent la tour effondrée de la gare.
+- Révèle que des Alchimistes occupent la tour effondrée de la gare. [DIVERGENCE RP - 1852 (5.5)] Au départ de P et Magnus, elle indique que les Alchimistes tiennent la Tour des Artisans effondrée, chemin de leur base (et de Sophia) [CANON SUPPOSÉ]. Pendant l'attaque, Markiona l'enferme avec les autres résidents dans le bureau de Geppetto. Après, elle remet sa partition secrète (canon) : jouée au piano, elle ouvre le passage vers la Relique.
 - Liée au remède optionnel (canon) : P cueille un Fruit d'Or et le donne à Giangio, qui en tire un remède ; P le remet à Polendina, qui le donne à Antonia. Le remède enraye la propagation sans réparer les dégâts : bref moment de joie, puis mort paisible [CANON SUPPOSÉ].
 
 ## Psychologie
@@ -35,7 +36,7 @@
 - P : l'accueille, lui remet la clé de la Rue Rosa Isabel, lui fait confiance.
 - Carlo (décédé) : l'a élevé à la Maison de Charité, lui a appris le piano ; considérait que son père le négligeait.
 - Geppetto : correspondance tendue ; elle lui reprochait son absence paternelle.
-- Markiona [DIVERGENCE RP - 1852] : à l'arrivée du trio, elle discute avec Antonia et la soigne - deux pétrifiées. cf. Personnages/Markiona_relations.md.
+- Markiona [DIVERGENCE RP - 1852] : à l'arrivée du trio, elle discute avec Antonia et la soigne - deux pétrifiées. En 5.5, Markiona l'enferme avec les autres résidents pour les protéger. cf. Personnages/Markiona_relations.md.
 - Cécile : nun qui résida à la cathédrale, pas de lien direct établi avec Antonia.
 
 ## Sort connu
@@ -55,6 +56,7 @@
 | 1852 (5.1) [DIVERGENCE RP] | Soignée par Markiona, pétrifiée comme elle | Soulagée |
 | 1852 (5.3) [DIVERGENCE RP] | Remet à P la clé de la Rue Rosa Isabel (canon) ; P cueille pour Giangio le fruit de son remède | Remède reçu des mains de Polendina, la veille de l'Opéra |
 | 1852 (5.4) [DIVERGENCE RP] | Au retour du trio du Marais, joue du piano ; elle l'avait appris à Carlo, dont P porte l'Ergo | Moment de grâce |
+| 1852 (5.5) [DIVERGENCE RP] | Indique la Tour des Artisans ; enfermée par Markiona avec les résidents pendant l'attaque ; remet sa partition secrète (canon) | Passage vers la Relique ouvert |
 | Base game (après Laxasia, ch.11 ; 5.6 en RP) | Mort de la Maladie de Pétrification, annoncée par Polendina ; lettre laissée | Mort paisible avec le remède ; plus tôt sans [CANON SUPPOSÉ] |
 | Timeline DLC affectée | Lettre modifiée (enveloppe verte, page 2) | Impact temporel de P visible |
 
