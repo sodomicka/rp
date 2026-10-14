@@ -1,7 +1,7 @@
 # Boss et Créatures
 
 - version : W7
-- note W7 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder.
+- note W7 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder. + [DIVERGENCE RP] Maître du Défilé Corrompu battu à deux ; Marcheur d'Illusions au féminin ; pièces de l'Ange retrouvées (5.6) et leur destin en R6 ; Pantin sans Nom dans les deux fins de Geppetto (5.6).
 - note W6 : forage 5.4 [DIVERGENCE RP]. Champion Victor achevé par Laxasia (canon vérifié ; Paracelsus retiré) ; second Pantin Clown Enragé (Marais Aride) ; Monstre Vert : la sentinelle, et non Hugo ; Murphy reconnu par Magnus.
 - note W5 : forage 5.3 [DIVERGENCE RP]. + bloc PANTIN CLOWN ENRAGÉ (noyau, canon). Roi des Pantins : fin 1852 (étreinte de Magnus, suicide de Romeo). + Surveillant aux Deux Visages : le "quelqu'un" du Traqueur est Léa, reconnue au style sans être nommée.
 - note W4 : forages 5.1 et 5.2 [DIVERGENCE RP]. Parade Master, Scrapped Watchman et Fuoco vaincus par P ET Magnus ; laïus du Watchman traduit par Magnus (conforme au canon). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -37,6 +37,7 @@
 ### Sort
 - Vaincu par P deux fois.
 - [DIVERGENCE RP - 1852] Premier combat : vaincu par P et Magnus (Gare de Krat / Ruelle Cerasani), Markiona en retrait.
+- [DIVERGENCE RP - 1852 (5.5)] Second combat : sa version corrompue, ruelle Cerasani, sur la course vers l'hôtel attaqué. P et Magnus le battent ensemble ; P court désormais aussi vite que son frère.
 
 ---
 
@@ -147,11 +148,11 @@
 
 ### Identité
 - Nom : Marcheur d'Illusions (VO : Walker of Illusions).
-- Nature : entité ennemie (nature exacte non précisée - pantin ou humain-puppet hybrid ?).
+- Nature : boss féminin, « une expérience ratée » [CANON SUPPOSÉ : soluces].
 
 ### Rôle
 - Boss au sommet de la Tour des Artisans effondrée.
-- Capacité signature : crée un duplicat de lui-même (une illusion).
+- Capacité signature : crée un duplicat d'elle-même (une illusion).
 - P doit gérer le véritable combattant et l'illusion simultanément.
 - Vaincu malgré la difficulté.
 
@@ -159,7 +160,8 @@
 - Gardien/obstacle au sommet de la Tour des Artisans, zone dévastée par la Bataille de la Tour des Artisans.
 
 ### Sort
-- Vaincu par P.
+- Vaincue par P.
+- [DIVERGENCE RP - 1852 (5.5)] Vaincue par P et Magnus, au sommet du charnier de 1851.
 
 ---
 
@@ -321,6 +323,7 @@
 
 ### Sort
 - Détruit par Magnus seul (Overture, 1850).
+- [DIVERGENCE RP - 5.6 et R6] [ACTÉ] Ses pièces ont été récupérées : Magnus, qui le croyait détruit, les retrouve par hasard sur l'île des Alchimistes (5.6) et y voit un signe. Selon la bifurcation de la 5.5 : branche A, Magnus et Venigni le réassemblent en R6 et il devient, par la main de Magnus seul, le corps de Markiona ; son visage, qui ne lui convient pas, sert à celui de Sophia. Branche B, Magnus n'en garde que le visage, pour Sophia ; le reste lui rappelle les derniers mots de sa mère. cf. Personnages/Markiona.md, Personnages/Sophia_Monad.md.
 
 ---
 
@@ -355,6 +358,7 @@
 
 ### Sort
 - Tué par P (base game).
+- [DIVERGENCE RP - 1852 (5.6)] [ACTÉ] Fin « père qui vit » : il ne sort jamais ; Geppetto l'emporte dans sa malle et en fera l'hôte du cristal de Camille, loin de Krat. Fin « père qui meurt », seulement si P et Magnus refusent de pardonner : le combat a lieu, et Geppetto meurt en s'interposant entre lui et P, comme au canon. cf. Personnages/Giuseppe_Geppetto.md, Personnages/Camille.md.
 - Dans la bad ending : Geppetto extrait le coeur de P et le place dans un autre pantin (Carlo renaît).
 
 ---

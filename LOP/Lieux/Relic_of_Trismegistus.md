@@ -1,6 +1,7 @@
 # Relique de Trismegistus
 
-- version : W2
+- version : W3
+- note W3 : forage 5.5 [DIVERGENCE RP]. + le passage du duo (partition d'Antonia, la Confrérie, Parrot abattu par P, Hugo).
 - note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
@@ -37,6 +38,10 @@
   combat. Robots industriels et mining puppets encore actifs (travaillant comme si rien ne s'était
   passé). Confrérie des Lapins Noirs s'y retrouve (combat final de la faction). Tunnel menant aux
   passages secrets vers la côte (clé donnée par Lumacchio dans le DLC).
+- [DIVERGENCE RP - 1852 (5.5)] P et Magnus y descendent par le passage qu'ouvre la partition d'Antonia (canon).
+  Dans l'arène, les trois Lapins, puis l'Aîné ressuscité par l'Élixir : tous meurent (canon). Près d'un feu,
+  Parrot, acculé, avoue ; P l'abat pour empêcher Magnus de se venger. Hugo y reprend au Perroquet le masque de
+  chien. Cf. Factions/Black_Rabbit_Brotherhood.md, Personnages/Alidoro_et_Parrot.md.
 - DLC : l'ascenseur de l'Hôtel Krat qui menait normalement à la Relique mène maintenant aux Zelator labs
   (avant l'outbreak). Cela situe la Zelator Facility entre l'hôtel et la Relique dans la stratigraphie
   du bâtiment. Cf. Lieux/Zelator_Facility.md.

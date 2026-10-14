@@ -1,6 +1,7 @@
 # Stargazers
 
-- version : W5
+- version : W6
+- note W6 : forage 5.5 [DIVERGENCE RP]. Alerte de Sophia et ligne de Simon ; grand Stargazer coupé puis relancé, banderole (canon) ; la nuit Magnus-Sophia ; nom « Stargazer doré » marqué [INCERTAIN].
 - note W5 : forage 5.4 [DIVERGENCE RP]. Téléportation réservée à P (décision worldbuilder).
 - note W4 : forage 5.3 [DIVERGENCE RP]. Magnus voit Sophia au grand Stargazer ; Stargazer doré vu inactif en 5.3 (voyage en 5.5) ; + sous-bloc Stargazers du District Malum.
 - note W3 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -25,11 +26,14 @@
 - La présence de Sophia dans l'Hôtel Krat permet à P d'utiliser les Stargazers comme points de sauvegarde/téléportation.
 - [DIVERGENCE RP] Magnus, 2e percepteur de sa projection (dès 1851), la VOIT, pas seulement sa voix. En 1852, à chaque passage au hub, il la voit au grand Stargazer de l'Hôtel Krat. cf. Personnages/Magnus.md, Personnages/Sophia_Monad.md.
 - Sophia renforce aussi P en puisant dans l'Ergo à travers les Stargazers.
+- [DIVERGENCE RP - 1852 (5.5)] Au pied de la Tour des Artisans, Sophia prévient P et Magnus que l'hôtel est attaqué ; Simon s'invite sur sa ligne pour se moquer de P (cf. Systemes/Humanity_System.md).
 
 ### Le plus grand Stargazer
 
 - Celui de l'Hôtel Krat = le plus grand. Les cadrans autour du Stargazer se déplacent avec la progression de P dans l'intrigue.
 - Ces cadrans qui bougent = indicateur d'une boucle temporelle selon le narrateur.
+- Attaque de l'hôtel (ch.9, canon) : la téléportation tombe, P rentre à pied ; une banderole « HYPOCRITE » barre le grand Stargazer [SOURCE UNIQUE : namu]. Une fois réparé, P y reçoit la Chrysalide stellaire.
+- [DIVERGENCE RP - 1852 (5.5)] Sophia donne l'alerte et voit le Traqueur ouvrir la porte, puis les Lapins coupent le grand Stargazer. Venigni le relance avant le retour de P et Magnus. La nuit du voyage de P, Magnus y parle à coeur ouvert avec Sophia jusqu'à l'aube.
 
 ### Stargazers du District Malum
 - Près d'un Stargazer du quartier, la Renarde Rousse propose à P de faire route (canon). [DIVERGENCE RP - 1852 (5.3)] Elle le propose au trio. cf. Personnages/Claudia_et_Lucio.md.
@@ -38,6 +42,7 @@
 ### Stargazer doré (DLC)
 
 - P reçoit une Chrysalide stellaire au Stargazer de l'Hôtel Krat -> vision d'un Stargazer doré (VO : golden stargazer), aperçu près de la cathédrale sur le chemin du pèlerin.
+- [INCERTAIN] Le nom « Stargazer doré » n'est attesté dans aucune source consultée (forage 5.5) : c'est le nom du wiki, conservé.
 - [DIVERGENCE RP - 1852 (5.3)] En route pour Malum, P remarque le Stargazer doré sur le chemin du pèlerin, inactif (canon). Il sert au voyage de 1850, en 5.5 (fin ch.9).
 - En utilisant la Chrysalide stellaire sur ce Stargazer doré, le Stargazer est "renew" -> P voyage dans le temps (passé).
 - Gemini comprend qu'il s'agit d'un voyage temporel quand il voit le zoo intact (alors qu'il a brûlé dans la timeline principale).

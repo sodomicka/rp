@@ -1,6 +1,7 @@
 # Système d'humanité de P (VO : Humanity System)
 
-- version : W2
+- version : W3
+- note W3 : forage 5.5. Réplique de Simon corrigée (sur la ligne de Sophia, les mensonges de P) ; Belle et le message de Romeo ajoutés aux choix ; + section Dans le RP (choix laissés au joueur, humanité de P seul).
 - note W2 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
@@ -22,6 +23,8 @@
   - La Rédemptée : dire qu'il est un rôdeur ou non.
   - Le faux Alidoro (Parrot) : épargner ou tuer, avec choix de vérité.
   - Julian the Gentleman : dire si les pantins peuvent aimer ou non.
+  - Belle (ch.9) : son compagnon Atkinson est-il « mort au combat » ou « devenu un monstre » ?
+  - Le message de Romeo (ch.10) : « je n'ai pas entendu » ou « Geppetto a causé la Frénésie ».
   - Lumacchio (DLC) : mentir sur les derniers mots de Véronique ou dire la vérité.
   - Et d'autres NPC tout au long du jeu.
 - Si P dit la vérité (programmé par le Grand Covenant), "rien ne change" mécaniquement.
@@ -61,7 +64,12 @@
 - Geppetto révèle en fin de jeu que son bras canalise l'Ergo.
 - L'Organe-P dans Nameless = échec (haine seule) ; dans P = succès (Carlo s'éveille).
 - Post-credits : Paracelsus sur P : "nouveau type d'humanité" ; "expériences continuent" ; clé Dorothy.
-- "Jeppetto's lies will be useless in the new world" (Simon, lors de l'attaque de l'hôtel) -- ironie : les mensonges de P sont justement ce qui le rend humain.
+- Pendant l'attaque de l'hôtel (ch.9), Simon s'invite sur la ligne de Sophia et se moque de P : ses mensonges ne serviront à rien dans le monde de vérité qu'il va créer [SOURCE UNIQUE : namu] -- ironie : les mensonges de P sont justement ce qui le rend humain. (Rectifie « Jeppetto's lies will be useless in the new world ».)
+
+## Dans le RP [DIVERGENCE RP - Ère 5]
+
+- Les choix vérité/mensonge sont laissés au joueur ; les roadmaps notent le chemin le plus humain comme référence (décision worldbuilder, forage 5.5).
+- L'humanité n'affecte que P. Magnus est bien plus humain que son frère dès 1852 (5.1), et P ne le rattrape que très lentement.
 
 ## Liens
 

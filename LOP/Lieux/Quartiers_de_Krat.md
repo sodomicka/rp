@@ -1,6 +1,7 @@
 # Quartiers de Krat
 
-- version : W5
+- version : W6
+- note W6 : forage 5.5 [DIVERGENCE RP]. Gare (ch.9 : corruption, wagon d'éveil et petit atelier de Geppetto, Atkinson ; retour du duo) ; Tour des Artisans (Marcheur d'Illusions au féminin ; retour de Magnus sur le charnier de 1851, alerte de Sophia) ; Opéra : message décodé en 5.5 (rectifie W5).
 - note W5 : forage 5.4 [DIVERGENCE RP]. Hugo retiré de la Gare Centrale (il n'y apparaît pas) ; Arcade Lorenzini (téléphérique, passage du trio) ; Marais Aride : Carnet de la sentinelle au lieu du "journal du rôdeur", Ergo doré (destination à vérifier), Hugo, second Clown, Chouette Médecin dans sa cabane, passage du trio.
 - note W4 : forage 5.3 [DIVERGENCE RP]. District Malum (route du trio, Claudia et Lucio, la Confrérie dans la cour de l'Hôtel de Ville, ascenseur vers l'Hôtel Krat) ; chemin du pèlerin (route de 5.3, Stargazer doré inactif) ; Rue Rosa Isabel (Clown, Julian, la Dame Blanche épargnée) ; Opéra (confession devant Patricia ; fin de Romeo ; message décodé en 5.4). + Retour par les tunnels détaché de Malum ; liens morts réparés.
 - note W3 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -20,6 +21,10 @@
 - Gemini activé ("Geminy will restart soon") ; escorte P vers l'hôtel. Cf. Personnages/Gemini.md.
 - Geppetto place P dans un wagon de la gare pour l'activer et le destiner à sa mission (collecte d'Ergo,
   élimination de Romeo et Simon). Plan de Geppetto. Cf. Personnages/Giuseppe_Geppetto.md, SB6.
+- Ch.9 (canon) : la gare est gagnée par la corruption des Carcasses, jusqu'aux pantins. Le wagon où P s'est éveillé
+  se visite ; un petit atelier de Geppetto s'y cache derrière le siège de P, inaccessible au début du jeu (version du
+  worldbuilder). Atkinson, le compagnon de Belle, y est retrouvé infecté dans un wagon. Cf. Personnages/PNJ_secondaires.md.
+- [DIVERGENCE RP - 1852 (5.5)] P et Magnus y reviennent, au wagon où le duo avait trouvé P en 5.1.
 - DLC (passé) : station de tram avant de quitter le zoo. Godard (peintre aveugle) se trouve à la station
   de tram. Si P a trouvé son paint set à la Zelator Facility, il le lui remet avant de partir. Cf.
   Personnages/PNJ_secondaires.md, SB5.
@@ -127,7 +132,7 @@
 - [DIVERGENCE RP - 1852 (5.3)] Elle confesse devant le trio et devant Patricia, qui rentre ensuite à Aurus.
 - Après l'opéra : P affronte le Roi des Pantins (Romeo). Combat final du Roi des Pantins. Cf.
   Personnages/Romeo.md, SB6.
-- Canon : Romeo reconnaît P comme porteur de l'Ergo de Carlo ; il tend la main, ne veut pas le combattre ; vaincu, il remercie P et meurt. Son message (Carlo, je suis Romeo, nous avons grandi ensemble à la Maison de Charité Monad. Je t'ai envoyé des messagers mais tu les as éliminés) est décodé par Venigni au décodeur d'onde Ergo, en 5.4. Cf. Personnages/Romeo.md, Objets/Objets_et_Reliques.md.
+- Canon : Romeo reconnaît P comme porteur de l'Ergo de Carlo ; il tend la main, ne veut pas le combattre ; vaincu, il remercie P et meurt. Son message (Carlo, je suis Romeo, nous avons grandi ensemble à la Maison de Charité Monad. Je t'ai envoyé des messagers mais tu les as éliminés) est décodé par Venigni au décodeur d'onde Ergo, en 5.5. Cf. Personnages/Romeo.md, Objets/Objets_et_Reliques.md.
 - [DIVERGENCE RP - 1852 (5.3)] Phase 1 contre P et Magnus ; en phase 2, pas de combat : Magnus le reconnaît et l'étreint ; Romeo se donne la mort. P récupère le Pendentif de diplôme de Carlo. Geppetto rejoint le trio derrière la scène (canon). cf. Personnages/Romeo.md, Creatures/Boss_et_Creatures.md.
 
 ---
@@ -219,9 +224,12 @@
 - Alidoro (vrai) a été témoin de l'effondrement de la tour depuis l'extérieur. Il a sauvé Eugénie
   (qui y travaillait), l'a amenée à Madoro (medic). Il y a perdu un doigt. C'est la raison pour laquelle
   il la surveillait de loin. Cf. Personnages/Alidoro_et_Parrot.md.
-- Base game : P arrive à la tour effondrée. Combat en montant. Au sommet : Marcheur d'Illusions (boss,
-  crée un double illusoire de lui-même). Vaincu par P. Cf. Creatures/Boss_et_Creatures.md.
+- Base game : P arrive à la tour effondrée. Combat en montant. Au sommet : Marcheur d'Illusions (boss
+  féminin, crée un double illusoire d'elle-même). Vaincue par P. Cf. Creatures/Boss_et_Creatures.md.
 - Après le Marcheur d'Illusions : série de tunnels -> retour à la Gare Centrale. Cf. SB6.
+- [DIVERGENCE RP - 1852 (5.5)] Magnus y revient avec P : c'est le charnier de 1851, où sont morts ses camarades
+  Rôdeurs (cf. Factions/Les_Stalkers.md). Ils battent ensemble le Marcheur d'Illusions ; au pied de la tour, Sophia
+  donne l'alerte de l'hôtel attaqué, et la course commence.
 
 ---
 
