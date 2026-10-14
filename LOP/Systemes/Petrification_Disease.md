@@ -1,6 +1,7 @@
 # Maladie de Pétrification
 
-- version : W3
+- version : W4
+- note W4 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder.
 - note W3 : forage 5.3 [DIVERGENCE RP]. Fruit d'Or : remède de Giangio recalé sur le canon (il enraye sans réparer) [CANON SUPPOSÉ] ; ersatz des Alchimistes ; Lucio.
 - note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
@@ -22,7 +23,7 @@
 - Écailles sur le corps (visibles sur le visage d'Antonia).
 - Perte de la voix (Adelina Corde perd sa voix de chanteuse).
 - Perte de la vue (le Chat Noir perd la vue ; Godard le peintre devient aveugle via un accident de lab).
-- Douleur intense et progressive (Véronique lutte pour garder son humanité ; Léa Florence souffre intensément -> l'Alidoro/Limier lui donne des antidouleurs).
+- Douleur intense et progressive (Véronique lutte pour garder son humanité ; Léa Florence souffre intensément -> l'Alidoro/Traqueur lui donne des antidouleurs).
 - Transformation progressive en Carcasse si les faux remèdes sont pris.
 - La maladie peut aussi toucher les animaux (prédateur tyrannique au zoo = crocodile pétrifié).
 

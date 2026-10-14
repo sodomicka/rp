@@ -1,6 +1,7 @@
 # Objets et Reliques
 
-- version : W6
+- version : W7
+- note W7 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder. + [DIVERGENCE RP] Ergo doré : destination tranchée (le sous-marin de Venigni) ; message de Romeo entendu (5.5) ; Chrysalide reçue (5.5) ; prototype achevé, l'extracteur ; + bloc Cristal de Camille.
 - note W6 : forage 5.4 [DIVERGENCE RP]. Message de Romeo décodé en 5.5 (rectifie W5) ; fruit de Lucio remis (Grande Exposition) ; Ergo doré livré à Venigni, destination à vérifier.
 - note W5 : forage 5.3 [DIVERGENCE RP]. Pendentif (suicide de Romeo ; Magnus le reconnaît) ; Portrait de Carlo (Hôtel de Ville du District Malum ; vu par Magnus) ; Épée de la Rose (plus d'Arlecchino en 1852). + bloc Prototype de Zelator. + Fruit d'Or (remède de Giangio, canon ; règle du coeur pur ; ersatz des Alchimistes ; les deux fruits de 5.3) ; Décodeur d'onde Ergo (Magnus entend les pantins sans appareil ; Grand Covenant ; Loi Zéro en 5.4). + l'extracteur (nuit d'Aurus).
 - note W4 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -42,7 +43,7 @@
 - Alidoro (faux, i.e. Parrot) attendait P après le combat : "tu as servi de parfait appât" ; prend "la dernière arme du héros" ; surnomme P "Alidoro's best bait".
 - Lorenzini Venigni donne ensuite à P une "golden lead acid battery" pour alimenter le véhicule de transport.
 - Valeur narrative : clé d'accès à l'Allée des Alchimistes.
-- [À VÉRIFIER] Destination : cette fiche parle d'un transport commandé par les Alchimistes ; Lieux/Quartiers_de_Krat.md et Lieux/Aisle_of_Alchemists_Arch_Abbey.md, du sous-marin Pistrus. À trancher au forage 5.6.
+- Destination tranchée (forage 5.5) [CANON SUPPOSÉ : Fextralife, namu] : la batterie au plomb dorée alimente le sous-marin de Venigni, commandé par les Alchimistes et amarré à leur base sous l'hôtel ; le « transport » et le sous-marin ne font qu'un. P l'embarque au dock, à la fin du ch.10. Graphie : le wiki écrit Pistrus, Fextralife « Pistris » [À VÉRIFIER au forage 5.6].
 - [DIVERGENCE RP - 1852 (5.4)] P le récupère au Monstre Vert, combattu avec Magnus ; au hub, Venigni le reçoit et remet la batterie au plomb dorée [CANON SUPPOSÉ].
 
 ### Liens
@@ -63,6 +64,7 @@
 - Révèle aussi que les pantins communiquent entre eux via les ondes d'Ergo -- mécanique non prévue dans leur design originel.
 - Révèle la nature des "messagers" de Romeo (les boss que P a détruits = tentatives de communication de Romeo).
 - [DIVERGENCE RP - 1852 (5.3)] Au hub, après la cathédrale, Venigni découvre que Magnus entend les pantins sans appareil. Magnus entend les ondes des pantins, pas la Loi Zéro. Ni P ni Magnus ne répondent au Grand Covenant ; ni l'un ni l'autre ne sait rien de la Loi Zéro, que Venigni décode au message de Romeo en 5.5, après l'enlèvement de Geppetto (canon : ch.10).
+- [DIVERGENCE RP - 1852 (5.5)] Au retour de la Relique, Venigni fait écouter le message ; le bruit lui cache le nom. P l'entend, Magnus aussi, sans appareil. Magnus tente le mensonge ; P le convainc d'attendre de tout savoir avant de révéler le nom aux autres (choix d'humanité laissé au joueur ; chemin de référence).
 
 ### Liens
 - cf. Systemes/Grand_Covenant.md, Systemes/Puppet_Frenzy.md, Systemes/Ergo.md, Personnages/Lorenzini_Venigni.md, Personnages/Romeo.md, Personnages/Magnus.md.
@@ -81,6 +83,7 @@
 - Gemini comprend que c'est un voyage temporel en voyant le zoo intact (le zoo avait brûlé dans la timeline principale).
 - Le papillon blanc (white butterfly) est associé à cet objet : il mène P au Stargazer doré.
 - Via ce dispositif, P peut altérer des détails de sa propre timeline (sans pouvoir sauver Romeo ni Léa Florence).
+- [DIVERGENCE RP - 1852 (5.5)] P la reçoit au grand Stargazer relancé par Venigni, le jour de la mort de Markiona ; il part le soir, avec la bénédiction de Magnus, et revient à l'aube.
 
 ### Liens
 - cf. Systemes/Stargazers.md.
@@ -163,10 +166,10 @@
 ## Cor nimbé d'aurore (VO : Daylight-Wreathed Horn)
 
 ### Nature
-- Corne utilisée pour invoquer/appeler le Limier (vrai Alidoro) au combat contre le Surveillant aux Deux Visages.
+- Corne utilisée pour invoquer/appeler le Traqueur (vrai Alidoro) au combat contre le Surveillant aux Deux Visages.
 
 ### Description / Faits canon
-- Donné à P par le Limier (vrai Alidoro) lors de leur rencontre à la Zelator Facility (DLC).
+- Donné à P par le Traqueur (vrai Alidoro) lors de leur rencontre à la Zelator Facility (DLC).
 - Instruction : trouver le Surveillant aux Deux Visages et sonner le Cor -> Alidoro viendra combattre à ses côtés.
 - P utilise le Cor devant le Surveillant aux Deux Visages -> Alidoro arrive en renfort.
 - Décrit dans le jeu comme "une corne achetée au pays du matin" ("country of the morning").
@@ -257,10 +260,26 @@
 - Elle n'y travaille qu'à Aurus, jamais à l'Hôtel Krat ni en voyage, et ne dit jamais à Magnus ce qu'est ce projet.
 - But secret : elle se doute de l'état de santé de Sophia et veut extraire son Ergo et son Ego pour la mettre dans un pantin, afin que Magnus ait de la compagnie pour toujours après que la maladie aura emporté sa mère.
 - 1852 (5.3) : la nuit de la veille de l'Opéra, à Aurus, elle feint le sommeil jusqu'à ce que Magnus s'endorme, puis y travaille derrière le rideau de son coin atelier, inquiète de devoir un jour le laisser seul. Réveillé quelques heures plus tard, Magnus la rejoint. Elle esquive sans mentir à son fils : "C'est un projet pour plus tard. Cependant, ce n'est qu'un prototype loin d'être fonctionnel. Mais c'est mon projet, je le réalise seule, ne t'en préoccupe pas." Puis elle détourne la conversation.
-- Issue du projet et moment de la révélation : non fixés (-> roadmaps Ère 5).
+- 1852 (5.5) [ACTÉ] : poignardée pendant l'attaque de l'hôtel, Markiona demande à Magnus de le lui rapporter d'Aurus ; elle est à deux doigts de le finir. Mère et fils l'achèvent ensemble à l'Hôtel Krat, et elle lui en révèle, difficilement, le but. L'extracteur est fonctionnel. Magnus veut extraire aussi l'Ergo et l'Ego de sa mère ; elle lui laisse le choix (bifurcation, cf. Personnages/Markiona.md).
+- Suite : en 5.6, Sophia accepte l'extraction [ACTÉ].
 
 ### Liens
 - cf. Personnages/Markiona.md, Personnages/Magnus.md, Personnages/Sophia_Monad.md, Lieux/Aurus.md, Lieux/Zelator_Facility.md.
+
+---
+
+## Cristal de Camille [DIVERGENCE RP]
+
+### Nature
+- Cristal d'Ergo qui contient l'Ergo ET l'Ego de Camille, l'épouse de Geppetto et la mère de Carlo, prélevé dans Camil. Détail : cf. Personnages/Camille.md.
+
+### Description / Faits RP
+- Détenu par Markiona ; Geppetto le croit détruit.
+- 1852 (5.5) [ACTÉ] : mourante, Markiona le confie à P, « le cristal de quelqu'un qui compte beaucoup pour ton père ». P est ce qui se rapproche le plus de Carlo sans être Carlo : c'est à lui de décider du sort de Camille et de son père.
+- 1852 (5.6) [ACTÉ] : c'est ce que Geppetto cherche vraiment. Il n'en apprend l'existence qu'en 5.6 ; P l'offre ou le refuse, et décide ainsi de la fin de son père (cf. Personnages/Giuseppe_Geppetto.md).
+
+### Liens
+- cf. Personnages/Camille.md, Personnages/Markiona.md, Personnages/Pinocchio.md, Personnages/Giuseppe_Geppetto.md.
 
 ---
 

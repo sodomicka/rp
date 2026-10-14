@@ -1,12 +1,13 @@
 # Résumé - LOP
 
-- version : W3
+- version : W4
+- note W4 : BIBLE BUILD B11. + partie 5.5 (L'Effondrement).
 - note W3 : BIBLE BUILD B10. + partie 5.4 (La Vérité de Geppetto).
 - note W2 : BIBLE BUILD B9. + partie 5.3 (Le Roi des Pantins).
 
 ## Usage
 - Condensé du récit tel qu'établi (canon + divergences actées), pour le worldbuilder. Outil hors RP et hors build : jamais fetché, non indexé au Sommaire. Mis à jour à chaque BIBLE BUILD.
-- État du récit : Passe 2 en cours (BIBLE B10). Roadmaps des Ères 1 à 4 et des parties 5.1 à 5.4 écrites : le résumé s'arrête à la clôture de la partie 5.4 (la Vérité de Geppetto).
+- État du récit : Passe 2 en cours (BIBLE B11). Roadmaps des Ères 1 à 4 et des parties 5.1 à 5.5 écrites : le résumé s'arrête à la clôture de la partie 5.5 (L'Effondrement).
 - Prémisse : Lies of P (base game + DLC Overture). Perspective : Magnus, OC, pantin parfait créé par l'alchimiste Markiona. Calendrier in-world choisi par le worldbuilder : 1847 (éveil de Magnus) -> 1852 (réveil de P et fin).
 
 ## Le monde
@@ -63,6 +64,19 @@ Par l'Arcade Lorenzini et son téléphérique, le trio gagne la Grande Expositio
 Au hub, Magnus dit à Sophia qu'il a vu son geôlier sans pouvoir l'atteindre, et Eugénie confie à P des gants pour son frère, à quatre doigts, puisqu'il en a perdu un. Au Marais Aride, Parrot trouve les gants absurdes : il en a cinq. P et Magnus savent, et se taisent. Le Chouette Médecin, l'amant d'Adelina, est vaincu et épargné ; il apprend sa mort et rallie Aurus. Au pont, Hugo, jeune explorateur admirateur d'Alidoro, apprend de Magnus que l'Alidoro de l'hôtel est un imposteur. Dans son antre, le Monstre Vert fusionne avec le corps du Veilleur Désarticulé, et Magnus reconnaît Murphy, le messager de Romeo. Après le combat, Markiona fait sa pire quinte, du sang et des cristaux, malgré les soins de son fils.
 
 De retour à l'hôtel, Venigni reçoit l'Ergo doré. Magnus impose à sa mère de rester à l'hôtel la prochaine fois ; elle n'a pas la force de le contredire, et Venigni promet de veiller sur elle. P et Magnus disent à Eugénie que son frère a aimé les gants. Antonia, qui avait appris le piano à Carlo, se remet à jouer.
+
+## L'Effondrement (1852)
+P et Magnus partent pour la Gare Centrale, laissant Markiona à l'hôtel sous la garde de Venigni. La gare est gagnée par la corruption. Derrière le siège du wagon où P s'est éveillé se cache un petit atelier de Geppetto ; plus loin, Atkinson, le compagnon de Belle, est infecté. À la Tour des Artisans effondrée, sur le charnier de 1851, les deux frères battent le Marcheur d'Illusions. Au pied de la tour, Sophia les prévient : l'hôtel est attaqué, et Simon s'invite sur la ligne pour railler P. La téléportation est coupée. Ils courent, P désormais aussi vite que Magnus, et battent en chemin le Maître du Défilé, ranimé par la corruption.
+
+Pendant ce temps, Parrot a ouvert la porte à la Confrérie, à la Renarde et au Chat, envoyés par Simon. Markiona enferme les résidents dans le bureau de Geppetto, Venigni compris, et garde la porte. L'enlèvement de Geppetto est une mise en scène : il hurle comme si on le capturait puis, pendant que les Lapins tiennent Markiona, il la poignarde au ventre. La Renarde et le Chat l'emmènent sans la toucher.
+
+Magnus arrive à temps. Sa mère le rassure et l'envoie chercher son extracteur à Aurus ; ils l'achèvent ensemble, et elle lui en révèle le but : l'Ergo et l'Ego de Sophia dans un pantin, pour qu'il ne reste pas seul. Il veut l'extraire, elle aussi. Elle ne veut pas d'une vie éternelle à ruminer ses erreurs, mais lui laisse le choix. Quand il demande qui a fait ça, elle répond que le destin l'a tuée avant la maladie. Devant lui, elle confie à P le cristal de quelqu'un qui compte beaucoup pour son père ; Magnus ne sait pas de qui elle parle. Ses derniers mots sont pour son fils : « Tu es ma plus belle création, mon fils, la plus parfaite, et la seule qui puisse me survivre. » Le récit bifurque ici : Magnus garde son cristal, sans corps, et lui en refera un ; ou il lui accorde son dernier souhait, et elle meurt. Son corps reste à l'hôtel, confié à Venigni, et les Rôdeurs d'Aurus viennent prêter main-forte ; l'Âne fou y entre enfin. Sophia leur apprend que c'est le Traqueur qui a ouvert la porte.
+
+Le soir même, Magnus comprend que P va partir pour 1850. Il lui demande de ne pas laisser deviner la mort de sa mère, puis le laisse libre. P revoit Markiona vivante en la sachant morte, et revient à l'aube. Toute la nuit, Magnus parle à Sophia.
+
+Par la partition d'Antonia, ils descendent dans la Relique. Les trois Lapins, puis l'Aîné ressuscité par l'Élixir, y meurent. Parrot, acculé, avoue le meurtre d'Alidoro. Magnus veut le tuer ; P l'en empêche et l'abat lui-même : Markiona aurait détesté la vengeance. Hugo reprend son masque de chien et devient le nouveau Traqueur.
+
+À l'hôtel, Venigni déchiffre le vase d'Alidoro : le vrai gardait ses distances pour protéger sa soeur. À Eugénie, P et Magnus disent que son frère est mort en héros ; à Belle, qu'Atkinson est mort au combat. Puis Venigni fait écouter le message de Romeo. Le bruit lui cache le nom, mais P et Magnus l'entendent : la Loi Zéro, le nom du créateur, Giuseppe Geppetto. Magnus tente de mentir ; P le convainc d'attendre de tout savoir. Venigni, qui fait confiance à celui qui a tué l'assassin de ses parents, se confie à Magnus. Au dock, le sous-marin les attend.
 
 ## L'axe du récit
 Deux créateurs, deux chefs-d'oeuvre : Geppetto fabrique le faux parfait, un pantin qui devient humain par le mensonge ; Markiona a fait le vrai parfait, un pantin qui le devient par l'introspection. La Marionnettiste de la Mort, elle, se rachète en devenant mère.

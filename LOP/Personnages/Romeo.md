@@ -1,6 +1,7 @@
 # Romeo
 
-- version : W8
+- version : W9
+- note W9 : forage 5.5 [DIVERGENCE RP]. Message décodé en 5.5 : P et Magnus entendent la Loi Zéro et le nom de Geppetto ; le bruit le cache à Venigni.
 - note W8 : forage 5.3 [DIVERGENCE RP]. Fin de Romeo réécrite : Magnus le reconnaît et l'étreint ; Romeo voit Léa dans la chair de P ; les yeux fermés de Markiona ; suicide. + Plus d'Arlecchino en 1852 (décision worldbuilder).
 - note W7 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
@@ -51,7 +52,7 @@
 - Romeo monte un show à l'Opéra Estella pour donner un indice à P sur ce que Geppetto fait.
 - Romeo envoie des "messagers" à P = les boss que P combat (Maître du Défilé, Veilleur Désarticulé, Fuoco...). P ne comprend pas les messages (langue des ondes Ergo) avant d'obtenir le décodeur d'onde Ergo de Venigni.
 - Romeo tend la main à P dans leur confrontation (ne veut pas se battre) : il sait que P contient l'Ergo de Carlo ("son meilleur ami est en quelque sorte en vie dans ce pantin").
-- Message de Romeo décrypté via le décodeur d'onde Ergo : "Carlo, je suis Romeo. On a grandi ensemble à la Maison de Charité Monad. Tu te souviens ? On est meilleurs amis. Je fais de mon mieux pour combattre la Maladie de Pétrification et les alchimistes. C'est pourquoi j'ai essayé de t'envoyer des messagers. Mais tu les as tous éliminés. Tu es toujours aussi inarrêtable. Je me souviens de toi. Aucune raison de se battre."
+- Message de Romeo décrypté via le décodeur d'onde Ergo : "Carlo, je suis Romeo. On a grandi ensemble à la Maison de Charité Monad. Tu te souviens ? On est meilleurs amis. Je fais de mon mieux pour combattre la Maladie de Pétrification et les alchimistes. C'est pourquoi j'ai essayé de t'envoyer des messagers. Mais tu les as tous éliminés. Tu es toujours aussi inarrêtable. Je me souviens de toi. Aucune raison de se battre." [DIVERGENCE RP - 1852 (5.5)] Décodé par Venigni au retour de la Relique : Loi Un, Loi Zéro, « Giuseppe Geppetto ». Le bruit cache le nom à Venigni ; P l'entend, Magnus aussi, sans appareil. Ils le taisent aux autres.
 - Canon : après le combat, Romeo remercie P de lui avoir donné la liberté. [DIVERGENCE RP - 1852] Remplacé par sa fin en 5.3 (cf. Sort connu).
 - Absence de Romeo visible à l'hôtel (poster de missing person, DLC) : le man mourant au balcon du zoo le signale comme disparu.
 
@@ -99,7 +100,7 @@
 - Carlo (meilleur ami) : relation d'enfance au coeur de sa psychologie. Romeo porte le pendentif de remise de diplôme de Carlo jusqu'à sa mort. L'Ergo de Carlo dans P = "Carlo est encore là d'une certaine manière". Romeo agit en partie pour Carlo.
 - Pinocchio / P (P porte l'Ergo de Carlo) : Romeo essaie de ne pas combattre P. Lui envoie des messages (les boss). Lui montre l'indice à l'opéra. Après le combat, le remercie. [DIVERGENCE RP - 1852] Ne lui adresse pas un mot : il le reconnaît (visage de Carlo, chair de Léa) et se donne la mort devant lui.
 - Léa Florence Monad (mentor / figure protectrice) : Romeo est "son apprenti préféré". [DIVERGENCE RP - Ère 2] Son SECOND dans l'union des Rôdeurs (masque de Roi) ; suit sa colère au reveal par loyauté ; lui prodigue des soins au quotidien pour sa Pétrification (bras gauche), qu'elle cache par fierté (binôme soignant en miroir de Magnus / Markiona). Arlecchino le kidnappe précisément pour se venger de Léa. Léa tient Romeo mourant dans ses bras à la fin du DLC.
-- Magnus / Markiona [DIVERGENCE RP - Ère 2] : le duo Loup Noir / Louve Blanche ; Romeo se lie d'amitié avec eux (surtout Magnus). cf. Personnages/Magnus.md. [DIVERGENCE RP - 1852] À l'Opéra, Magnus le reconnaît au visage, cesse de se battre, l'étreint et lui demande pardon de l'avoir laissé au Domaine de la Rose (1850). Ses derniers mots sont pour lui : le monde est cruel, et son dernier ami ne doit jamais le devenir. Il cherche ensuite le regard de Markiona, qui se contente de fermer les yeux : la confirmation de l'horreur, et de la mort de sa mentore adorée. Lui seul voit ce geste.
+- Magnus / Markiona [DIVERGENCE RP - Ère 2] : le duo Loup Noir / Louve Blanche ; Romeo se lie d'amitié avec eux (surtout Magnus). cf. Personnages/Magnus.md. [DIVERGENCE RP - 1852] À l'Opéra, Magnus le reconnaît au visage, cesse de se battre, l'étreint et lui demande pardon de l'avoir laissé au Domaine de la Rose (1850). Ses derniers mots sont pour lui : le monde est cruel, et son dernier ami ne doit jamais le devenir. Il cherche ensuite le regard de Markiona, qui se contente de fermer les yeux : la confirmation de l'horreur, et de la mort de sa mentore adorée. Lui seul voit ce geste. [DIVERGENCE RP - 1852 (5.5)] Magnus entend son message lui-même, sans appareil : il apprend que Geppetto a lancé la Frénésie.
 - Geppetto (manipulateur / créateur de la forme pantin) : trahison fondamentale. Romeo le tient pour responsable de la Frénésie des Pantins et de son instrumentalisation.
 - Arlecchino (ravisseur DLC) : kidnappe Romeo pour faire souffrir Léa. cf. Personnages/Arlecchino.md.
 - Fuoco, Maître du Défilé, Veilleur Désarticulé (lieutenants) : les meilleurs pantins de Romeo dans sa révolte. Fuoco en particulier l'écoute via les ondes Ergo et prend le contrôle de la Fabrique Artisanale Venigni.
@@ -123,6 +124,7 @@
 | Post-DLC (hors écran) | Transformé en pantin par Geppetto ; Loi Zéro ; Frénésie des Pantins | Roi des Pantins |
 | 1852 (Ère 5, jusqu'à 5.3) | Reprise de mémoires ; révolte contre Geppetto ; envoie des messagers à P ; show à l'opéra | Rebelle lucide |
 | 1852 (5.3, Opéra Estella) [DIVERGENCE RP] | Phase 1 contre P et Magnus ; reconnu et étreint par Magnus ; reconnaît Carlo et Léa en P ; les yeux fermés de Markiona confirment ; se donne la mort | Mort de sa propre main ; secret de la peau de Léa emporté |
+| 1852 (5.5, Hôtel Krat) [DIVERGENCE RP] | Son message décodé par Venigni ; P et Magnus entendent la Loi Zéro et le nom de Geppetto | Le secret de la Frénésie passe à P et Magnus |
 
 ---
 

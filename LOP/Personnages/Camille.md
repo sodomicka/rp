@@ -1,6 +1,7 @@
 # Camille
 
-- version : W5
+- version : W6
+- note W6 : forage 5.5 [DIVERGENCE RP]. Cristal confié à P par Markiona mourante ; Geppetto ne l'apprend qu'en 5.6, où son sort se joue (père qui vit, père qui meurt). + Relation P. Trajectoire 5.5 et 5.6.
 - note W5 : forage 5.1. Camille = mentor de Markiona (ACTÉ par le worldbuilder ; était [INCERTAIN]). Parlement des Artisans (VO : Workshop Union). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Identité
@@ -46,9 +47,10 @@
 
 ## Relations
 
-- Geppetto (époux) : sa mort est l'événement fondateur de toute l'obsession de Geppetto. Geppetto "travaillait avec les Alchimistes dans son désir et sa desperation que Camille vive, d'une certaine façon." [DIVERGENCE RP] Mais il ne peut plus la ressusciter : le cristal d'Ergo de Camille est passé entre les mains de Markiona, et Geppetto le croit détruit. Camille est, pour lui, définitivement perdue ; toute son énergie se reporte sur Carlo.
+- Geppetto (époux) : sa mort est l'événement fondateur de toute l'obsession de Geppetto. Geppetto "travaillait avec les Alchimistes dans son désir et sa desperation que Camille vive, d'une certaine façon." [DIVERGENCE RP] Mais il ne peut plus la ressusciter : le cristal d'Ergo de Camille est passé entre les mains de Markiona, et Geppetto le croit détruit. Camille est, pour lui, définitivement perdue ; toute son énergie se reporte sur Carlo. [DIVERGENCE RP - 5.6] Il n'apprend qu'en 5.6 que le cristal existe encore, chez P : c'est ce qu'il cherche vraiment [ACTÉ].
 - Carlo (fils) : sa mort prive Carlo de sa mère et indirectement de son père (Geppetto s'effondre et abandonne Carlo).
-- Markiona (lien indirect) : Markiona découvre le pantin qui deviendra Camil. [DIVERGENCE RP - acté] Camille fut sa MENTOR : en 1852, Markiona refuse de livrer ses secrets à Geppetto, "le veuf de feue sa mentor". [DIVERGENCE RP] Markiona détient le cristal d'Ergo de Camille (cf. Sort connu). cf. Personnages/Markiona.md.
+- Pinocchio (P) [DIVERGENCE RP - 1852 (5.5)] : Markiona, mourante, lui confie le cristal : P est ce qui se rapproche le plus de Carlo sans être Carlo, et c'est à lui de décider du sort de Camille [ACTÉ]. Écho : Camil demandait à être renvoyée auprès de son enfant ; P porte l'Ergo de Carlo. cf. Personnages/Pinocchio.md.
+- Markiona (lien indirect) : Markiona découvre le pantin qui deviendra Camil. [DIVERGENCE RP - acté] Camille fut sa MENTOR : en 1852, Markiona refuse de livrer ses secrets à Geppetto, "le veuf de feue sa mentor". [DIVERGENCE RP] Markiona détient le cristal d'Ergo de Camille (cf. Sort connu) ; mourante, elle le confie à P (5.5). cf. Personnages/Markiona.md.
 - Sophia Monad (lien systémique) : les expériences sur les Oreilles qui ont causé la mort de Camille visaient à lier les Oreilles aux reliques des Great Ones. Sophia est l'autre Oreille du jeu. cf. Personnages/Sophia_Monad.md.
 - Valentinus Monad : condoléances officielles ; bon rapport entre le Parlement des Artisans et l'Ordre confirmé.
 
@@ -57,7 +59,7 @@
 - Camille (humaine) : morte lors des expériences sur les Oreilles aux Zelator labs. Mort couverte par un faux désastre de paquebot.
 - Camil (pantin) : sort final après les expériences non explicite dans la source. Probablement disparaît dans les Zelator labs après les expériences.
 - L'Ergo / l'essence de Camille : potentiellement perpétuée dans le pantin Camil, puis dispersée ou transmise. Lien avec l'Arbre à Fruits d'Or possible. [THÉORIE] cf. Systemes/Gold_Coin_Tree.md.
-- [DIVERGENCE RP] Le cristal d'Ergo de Camille -- contenant son Ergo ET son ego, prélevé dans Camil (à DISTINGUER de l'Ergo pur jamais habité dont naît Magnus) -- est entre les mains de Markiona ; Geppetto le croit détruit. C'est pourquoi il ne tente jamais de ressusciter Camille (à la différence de Carlo). Le devenir de ce cristal est un fil de roadmap (cf. _Implications). cf. Personnages/Markiona.md, Personnages/Magnus.md.
+- [DIVERGENCE RP] Le cristal d'Ergo de Camille -- contenant son Ergo ET son ego, prélevé dans Camil (à DISTINGUER de l'Ergo pur jamais habité dont naît Magnus) -- est entre les mains de Markiona ; Geppetto le croit détruit. C'est pourquoi il ne tente jamais de ressusciter Camille (à la différence de Carlo). En 5.5, Markiona, mourante, le confie à P [ACTÉ]. Son devenir se joue en 5.6 [ACTÉ] : offert à Geppetto (père qui vit), il fera du Pantin sans Nom l'hôte de Camille et vivra avec elle loin de Krat ; refusé ou brisé (père qui meurt), Geppetto devine que c'est l'ego de sa femme qu'on lui refuse. cf. Personnages/Giuseppe_Geppetto.md. cf. Personnages/Markiona.md, Personnages/Magnus.md.
 
 ## Trajectoire datée
 
@@ -66,7 +68,8 @@
 | Pré-jeu | Ingénieure/alchimiste brillante ; épouse de Geppetto ; crée la statue de la sainte de la miséricorde | Humaine active |
 | Pré-jeu | Morte dans accident aux Zelator labs (expériences sur les Oreilles) | Décédée ; Ergo potentiellement transmis à Camil |
 | Post-mort | L'Ergo de Camil = pensé être celui de Camille ; Camil dit "Renvoie-moi auprès de mon enfant" | Présence via Ergo du pantin |
-| (vide - alimentée à chaud par les roadmaps) | | |
+| 1852 (5.5) [DIV RP] | Markiona, mourante, confie son cristal à P | Cristal chez P |
+| 1852 (5.6) [DIV RP] | Geppetto apprend que le cristal existe ; P décide de son sort | Hôte du Pantin sans Nom, loin de Krat (père qui vit) ; cristal refusé ou brisé (père qui meurt) |
 
 ---
 

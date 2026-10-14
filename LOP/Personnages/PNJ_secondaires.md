@@ -1,6 +1,7 @@
 # PNJ Secondaires
 
-- version : W8
+- version : W9
+- note W9 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder. + [DIVERGENCE RP] 5.5 : Belle (Atkinson « mort au combat », chemin de référence) ; l'Âne fou et la Rédemptée viennent prêter main-forte à l'hôtel.
 - note W8 : forage 5.4. Hugo sorti en fiche dédiée (Personnages/Hugo.md, décision worldbuilder). Belle : rejoint l'Hôtel Krat [CANON SUPPOSÉ] ; le trio la croise (5.4).
 - note W7 : forage 5.3 [DIVERGENCE RP]. Julian : la réponse de Magnus. + Rétro : l'Âne fou et la Rédemptée ne voient en P qu'un Rôdeur au bras de métal.
 - note W6 : forages 5.1 et 5.2. Âne fou : rôle 1852 fixé (épargné au Pont des Alchimistes, réfugié à Aurus). La Rédemptée : Balayeuse confirmée, épargnée au funiculaire, ralliée à Aurus. + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -27,6 +28,7 @@
 ### Sort connu
 - Sort après la rencontre non spécifié dans la source. [CANON SUPPOSÉ] Elle rejoint l'Hôtel Krat (ch.7), puis demande à P de retrouver son compagnon.
 - [DIVERGENCE RP - 1852 (5.4)] Le trio la croise à la Grande Exposition ; elle rejoint l'hôtel, en arrière-plan.
+- [DIVERGENCE RP - 1852 (5.5)] Pendant l'attaque, elle est enfermée avec les autres résidents dans le bureau de Geppetto. À la Gare Centrale, P et Magnus trouvent son compagnon Atkinson infecté dans un wagon, et récupèrent sa lettre (canon). Choix laissé au joueur ; chemin de référence [ACTÉ] : ils lui disent qu'Atkinson est « mort au combat », mensonge par bonté.
 
 ---
 
@@ -70,6 +72,7 @@
 ### Sort connu
 - Meurt en combattant P si P dit la vérité. Sort dans les autres cas non spécifié.
 - [DIVERGENCE RP - 1852] Vaincue au funiculaire puis ÉPARGNÉE (même schéma que l'Âne fou). Elle rallie Aurus, le havre du duo : elle sait que le Loup Noir (Magnus) et la Louve Blanche (Markiona) étaient respectés parmi les Rôdeurs, et leur fait confiance. [À FIXER] Articulation avec son lien à la cathédrale (pourquoi elle bascule). cf. Roadmap_05_2_La_Ville_Malade, Lieux/Aurus.md.
+- [DIVERGENCE RP - 1852 (5.5)] Après la mort de Markiona, elle vient prêter main-forte à l'Hôtel Krat avec les Rôdeurs d'Aurus [ACTÉ].
 - [DIVERGENCE RP] Elle ne voit en P qu'un Rôdeur au bras de métal, ni Carlo ni Léa.
 
 ---
@@ -93,7 +96,7 @@
 - cf. Personnages/Magnus.md, Personnages/Markiona.md, Factions/Les_Stalkers.md.
 
 ### Sort connu
-- [DIVERGENCE RP] ÉPARGNÉ en 1852 (et non tué par P) ; réfugié à Aurus. Suite -> roadmaps Ère 5.
+- [DIVERGENCE RP] ÉPARGNÉ en 1852 (et non tué par P) ; réfugié à Aurus. [DIVERGENCE RP - 1852 (5.5)] Après la mort de Markiona, il vient prêter main-forte à l'Hôtel Krat avec les Rôdeurs d'Aurus : lui qui refusait l'hôtel à cause de Geppetto y entre enfin, Geppetto parti [ACTÉ].
 
 ---
 
@@ -145,7 +148,7 @@
 
 ### Implication alchimique
 - Les Alchimistes achètent le zoo après la mort de Little ; le zoo = terrain d'expérimentation pour Markiona et la Fraternité de la Vérité.
-- Rapport du Limier : les Alchimistes ont tué Columbo, Little et d'autres pour contrôler ressources et lieux.
+- Rapport du Traqueur : les Alchimistes ont tué Columbo, Little et d'autres pour contrôler ressources et lieux.
 
 ### Sort connu
 - Colonel Little : assassiné par les Alchimistes. Rex : mort (taxidermie) ; "esprit" présumé avoir tué Philato.
@@ -188,7 +191,7 @@
 ### Rôle
 - A volé une boîte d'élixir des Alchimistes et l'a vendue au marché noir (avidité) -> le village près du phare est submergé (l'élixir empire tout).
 - Les Alchimistes découvrent son vol ; l'enferment dans sa salle au trésor secrète. Des cris dans le phare (le nouveau gardien démissionne, croyant à un fantôme). Corps retrouvé par P dans la salle au trésor.
-- Le Limier cite son meurtre parmi les crimes documentés des Alchimistes.
+- Le Traqueur cite son meurtre parmi les crimes documentés des Alchimistes.
 
 ### Sort connu
 - Mort : enfermé vivant dans sa salle au trésor.

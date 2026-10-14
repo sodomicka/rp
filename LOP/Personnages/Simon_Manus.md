@@ -1,6 +1,7 @@
 # Simon Manus
 
-- version : W3
+- version : W4
+- note W4 : forage 5.5 [DIVERGENCE RP]. Assaut de l'hôtel ordonné ; l'Élixir promis à la Confrérie (canon) ; de mèche avec Geppetto (enlèvement mis en scène, canon selon le worldbuilder) ; raillerie sur la ligne de Sophia. + Relation Geppetto.
 - note W3 : forage 5.4 [DIVERGENCE RP]. Première rencontre avec P recalée à la Grande Exposition (canon), et non à l'abbaye. + Face au trio : la traîtresse, les deux pantins, Sophia gardée "pour son utilité" ; Magnus arrêté par Laxasia. + Relations Markiona, Magnus.
 - note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
@@ -20,6 +21,7 @@
 - Confie des préparations pour le transport d'Arlecchino (Archon fleet) vers l'Allée des Alchimistes pour étudier l'éveil de l'Ego.
 - Rencontre P à la Grande Exposition, après la mort de Champion Victor (achevé par Laxasia) : l'Ergo, ce sont "les âmes en substance" ; il mentionne l'élixir et invite P à l'Allée des Alchimistes pour assister au triomphe de leur évolution ; il laisse la clé de la galerie [CANON SUPPOSÉ]. Cf. Lieux/Grand_Exhibition.md.
   - [DIVERGENCE RP - 1852 (5.4)] Il voit le trio. Il se plaint d'abord du départ précipité de la traîtresse (Markiona, 1847), puis fait son discours aux deux pantins qui se croient humains ; P répond "des monstres". Magnus lui hurle de relâcher Sophia ; il le provoque : il la garde pour son utilité. Magnus le charge ; Laxasia l'arrête ; Simon repart indemne.
+  - [DIVERGENCE RP - 1852 (5.5)] Il ordonne l'assaut de l'Hôtel Krat : Parrot ouvre la porte, la Confrérie (à qui il a promis de ressusciter l'Aîné par l'Élixir) entre avec la Renarde et le Chat (canon). L'enlèvement de Geppetto est une mise en scène : ils sont de mèche [ACTÉ ; canon selon le worldbuilder]. Il s'invite sur la ligne de Sophia pour railler P : ses mensonges ne serviront à rien dans le monde de vérité qu'il va créer [CANON SUPPOSÉ].
 - Affronte P au sommet de la tour dans deux phases : Simon Manus puis Simon le Dieu Éveillé.
 - Meurt combat contre P ; dialogue final : demande ce que P a fait de Sophia, confesse que la pureté du coeur de Sophia était son baume contre la douleur, qu'il a utilisé l'Ergo pour la retenir.
 
@@ -49,6 +51,7 @@
 - Pinocchio (P) : l'affronte au sommet de la tour ; le voit avec intérêt (pantin à Ego éveillé, expérimenté par Simon via Arlecchino).
 - Arlecchino : pantin à Ego éveillé dont Simon étudie l'Ergo. Cf. Personnages/Arlecchino.md.
 - Markiona [DIVERGENCE RP] : ancienne de l'Ordre (Zelator), traîtresse déclarée depuis 1847 ; il la reconnaît à la Grande Exposition (1852, 5.4). Cf. Personnages/Markiona_relations.md.
+- Giuseppe Geppetto [DIVERGENCE RP - 1852 (5.5)] : de mèche avec lui ; l'enlèvement de l'hôtel est une mise en scène [ACTÉ ; canon selon le worldbuilder]. cf. Personnages/Giuseppe_Geppetto.md.
 - Magnus [DIVERGENCE RP - 1852 (5.4)] : l'oeuvre de la traîtresse, qu'il prend pour un pantin qui se croit humain ; Magnus le charge pour Sophia, Laxasia l'arrête. Cf. Personnages/Magnus.md.
 - Archbishop Andreas : utilisé puis trahi ; lui distribue un faux cure qui empire la maladie. Andreas vole le Bras de Dieu en représailles.
 - Grandmaster de l'Ordre : qui signe la lettre d'excommunication de Valentinus, appelle Simon "sea monster" en mouvement. Lien ambigu (cf. théorie Paracelsus dans Personnages/Philip_Paracelsus.md).
@@ -68,6 +71,7 @@
 | Pré-DLC | Prime sur Léa Florence ; Valentinus confie le Bras de Dieu à Andreas -> Simon voit ça comme trahison | Simon -> prend le contrôle effectif de l'Ordre |
 | DLC (avant base game) | Assauts sur Domaine de la Rose + Maison de Charité Monad + Cathédrale ; mort de Valentinus et Isabelle ; capture de Sophia ; Archon fleet incident / préparation transport Arlecchino | Simon -> chef incontesté, Sophia prisonnière |
 | 1852 (5.4, Grande Exposition) [DIV RP] | Face au trio : la traîtresse, les deux pantins, Sophia gardée "pour son utilité" ; chargé par Magnus, couvert par Laxasia | Indemne |
+| 1852 (5.5, Hôtel Krat) [DIV RP] | Ordonne l'assaut ; enlèvement de Geppetto mis en scène, de mèche avec lui ; raille P sur la ligne de Sophia | Geppetto sur l'île |
 | Base game | Machine active, absorbe Ergo de Krat via P et les morts ; rencontre P à la Grande Exposition ; combat final | Simon -> Simon le Dieu Éveillé -> mort |
 
 ---

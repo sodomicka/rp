@@ -1,6 +1,7 @@
 # Zoo de Krat
 
-- version : W3
+- version : W4
+- note W4 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder.
 - note W3 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
@@ -54,7 +55,7 @@
   de l'enfance de Carlo (sculpture de l'arbre de Rosaura change dans la timeline affectée). Cf.
   Personnages/Rosaura.md.
 - Monad locket au zoo : P trouve le locket de Monad au zoo (photo ensanglantée de Léa, Romeo, et une
-  troisième personne). Montrer ce locket au Limier dans la Zelator Facility le convainc de faire
+  troisième personne). Montrer ce locket au Traqueur dans la Zelator Facility le convainc de faire
   confiance à P. Cf. Personnages/Sophia_Monad.md, Personnages/Lea_Florence_Monad.md.
 - Klaus (marchand) au zoo : Klaus (collectionneur d'Ergo rare) a été sauvé par Léa au zoo. Elle l'a
   amené à l'hôtel. Klaus révèle que P est dans le passé (avant l'annulation de la Grande Exposition = avant

@@ -1,6 +1,7 @@
 # Confrérie des Lapins Noirs
 
-- version : W7
+- version : W8
+- note W8 : forage 5.5 [DIVERGENCE RP]. L'assaut de l'hôtel (l'Élixir promis par Simon, canon) ; ils tiennent Markiona, coupent le Stargazer ; rematch de la Relique : les quatre meurent, Confrérie éteinte.
 - note W7 : forage 5.3 [DIVERGENCE RP]. Le règlement de la Tour (cour de l'Hôtel de Ville du District Malum, après le Red Lobster ; l'Aîné mort, les trois autres en fuite) ; Fruit d'Or : rien de vrai à vendre (règle du coeur pur) ; portrait localisé. + "Quartier de Malum" -> "District Malum" (aligné sur Lieux/Quartiers_de_Krat.md) ; liens morts réparés.
 - note W6 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 - note W5 : couche La Frenzy (Ère 4, 1851) côté Loups. + Scène de la Tour des Artisans vue du duo : Magnus et Markiona ABSENTS de la bataille, arrivée trop tard au charnier, les 4 Lapins Noirs seuls debout, l'un qui lâche "vous voulez mourir aussi ?". + Premier contact glacial avec Magnus/Markiona [DIVERGENCE RP] (Magnus reconnaît sous les masques des morts ses comrades, veut frapper, Markiona le bride). La bascule Assemblée -> Confrérie reste gravée en W4 : ici on ajoute la scène, pas la mécanique.
@@ -45,6 +46,7 @@
 - Un "frère aîné" (older brother) de loin le plus dangereux. Canon : dans le District Malum, P combat et défait les membres ; seul le frère aîné compte vraiment ; une fois vaincu, les autres s'en vont, dévastés, mais déclarent vouloir se venger.
 - [DIVERGENCE RP - 1852 (5.3)] Dans la cour de l'Hôtel de Ville du District Malum, après le Red Lobster : l'Aîné, ses frères le rejoignant (canon), contre P, Magnus et Markiona. Magnus solde la Tour (ses camarades massacrés en 1851), le racket, la cruauté ; cette fois Markiona ne le bride pas. L'Aîné meurt ; les trois autres fuient en jurant vengeance. Le Stargazer de Malum est réparé.
 - Second affrontement dans la Relique de Trismegistus : les Alchimistes ont ressuscité le frère aîné, désormais encore plus puissant. P les défait définitivement. (5.5 en RP.)
+- [DIVERGENCE RP - 1852 (5.5)] L'assaut de l'Hôtel Krat, sur ordre de Simon, qui leur a promis de ressusciter l'Aîné par l'Élixir (canon). Avec la Renarde et le Chat, ils entrent par la porte que Parrot leur ouvre ; ce sont eux qui tiennent Markiona pendant que Geppetto la poignarde, et qui coupent le grand Stargazer [ACTÉ]. À la Relique, face à P et Magnus : les trois (« même si on n'est que l'appât »), puis l'Aîné jaillit du cercueil, ressuscité par l'Élixir ; les quatre meurent (canon).
 
 ### Rôle dans le base game
 
@@ -70,7 +72,7 @@
 - La Renarde Rousse et le Chat Noir : alliés dans l'assaut de l'Hôtel Krat (cf. Personnages/Claudia_et_Lucio.md).
 - Simon Manus : commandite le kidnapping de Geppetto via eux (cf. Personnages/Simon_Manus.md).
 - Maison de Charité Monad / Geppetto : contexte de leur origine présupposée.
-- Magnus / Markiona [DIVERGENCE RP - Ère 2] : le duo négocie avec l'Assemblée au fil des missions (cf. Personnages/Magnus.md). [Ère 4] Premier contact glacial post-Tour : devant le charnier, Magnus reconnaît ses anciens comrades parmi les morts et veut frapper les 4 ; Markiona l'arrête. Le sang entre les Loups et la Confrérie ne coulera pas ce jour-là, mais le froid est posé. [1852, 5.3] Le règlement : devant l'Aîné, Magnus solde la Tour ; Markiona ne le bride plus (en 1851 il voulait se venger, aujourd'hui il protégeait). L'Aîné meurt ; les trois autres jurent vengeance.
+- Magnus / Markiona [DIVERGENCE RP - Ère 2] : le duo négocie avec l'Assemblée au fil des missions (cf. Personnages/Magnus.md). [Ère 4] Premier contact glacial post-Tour : devant le charnier, Magnus reconnaît ses anciens comrades parmi les morts et veut frapper les 4 ; Markiona l'arrête. Le sang entre les Loups et la Confrérie ne coulera pas ce jour-là, mais le froid est posé. [1852, 5.3] Le règlement : devant l'Aîné, Magnus solde la Tour ; Markiona ne le bride plus (en 1851 il voulait se venger, aujourd'hui il protégeait). L'Aîné meurt ; les trois autres jurent vengeance. [1852, 5.5] Ils tiennent Markiona pendant que Geppetto la poignarde ; à la Relique, P et Magnus les tuent tous les quatre.
 
 ## Sort connu / État
 
@@ -78,6 +80,7 @@
 - Définitivement défaits à la Relique de Trismegistus.
 - Membres survivants : déclarés désireux de vengeance après la première défaite, mais n'apparaissent plus ensuite.
 - [DIVERGENCE RP] État à la sortie de 5.3 : l'Aîné mort ; le Maniaque de combat, la Cadette et l'Excentrique en fuite, jurant vengeance.
+- [DIVERGENCE RP] 5.5 : les quatre meurent à la Relique, face à P et Magnus. La Confrérie est éteinte.
 
 ---
 

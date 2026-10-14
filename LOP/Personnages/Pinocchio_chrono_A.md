@@ -1,6 +1,7 @@
 # Pinocchio - Chronologie A (création et Ère 5)
 
-- version : W2
+- version : W3
+- note W3 : forage 5.5 [DIVERGENCE RP]. Lignes 5.5 (Gare, Tour, hôtel, voyage de 1850 daté, Relique, message) ; Suite recalée sur 5.6.
 - note W2 : forage 5.4 [DIVERGENCE RP]. Lignes 5.4 ; ligne "Suite" recalée sur 5.5-5.6.
 - note W1 : création (décision worldbuilder : délestage de la fiche mère, plafond 20k). Trajectoire datée reprise telle quelle de Pinocchio W6, + lignes 5.3 ; voyage de 1850 placé en 5.5.
 
@@ -29,8 +30,13 @@ Satellite de Personnages/Pinocchio. Trajectoire datée, de sa création à l'Èr
 | 1852 (5.4, hub -> Marais Aride) | Eugénie lui confie les gants qu'elle a faits pour son frère, à quatre doigts ; au Marais, Parrot, qui en a cinq, les trouve absurdes ; Magnus et lui savent, et ne disent rien. Apprend les émotions au pantin blanc brisé par les gestes. Le Chouette Médecin épargné | |
 | 1852 (5.4, falaise du Marais) | Monstre Vert vaincu avec Magnus ; récupère l'Ergo doré ; Parrot l'appelle "le meilleur appât d'Alidoro" | Ergo doré livré à Venigni |
 | 1852 (5.4, Hôtel Krat) | Avec Magnus, dit à Eugénie que son frère a aimé les gants : un mensonge par bonté (canon : humanité). Antonia joue du piano ; c'est elle qui l'avait appris à Carlo, dont il porte l'Ergo | Humanité en marche |
-| 1852 (5.5, canon : fin du ch.9) | Voyage dans le passé (Overture, hiver 1850) via le Stargazer doré du chemin du pèlerin ; combat Arlecchino aux côtés de Léa, Magnus et Markiona ; rappelé au présent avant l'arrivée de Geppetto | Le "à bientôt" de 1850 se boucle |
-| Suite (Ère 5) | -> roadmaps 5.5 et 5.6 (canon : Gare Centrale, attaque de l'hôtel, message de Romeo, Laxasia, Simon Manus, choix final) | |
+| 1852 (5.5, Gare Centrale) | Revient avec Magnus au wagon où il s'est éveillé ; derrière son siège, un petit atelier de Geppetto. Trouve Atkinson infecté | |
+| 1852 (5.5, Tour des Artisans -> ruelle Cerasani) | Marcheur d'Illusions vaincue avec Magnus. Alerte de Sophia ; Simon le raille sur la ligne : ses mensonges ne serviront à rien dans le monde de vérité. Course : aussi rapide que Magnus ; Maître du Défilé Corrompu battu ensemble | |
+| 1852 (5.5, Hôtel Krat) | Garde l'hôtel pendant l'aller-retour à Aurus. Markiona lui confie le cristal de Camille, devant Magnus. Reçoit la Chrysalide | Cristal de Camille en main |
+| 1852 (5.5, canon : fin du ch.9 ; le soir -> l'aube) | Voyage dans le passé (Overture, hiver 1850) via le Stargazer doré du chemin du pèlerin, avec la bénédiction de Magnus ; combat Arlecchino aux côtés de Léa, Magnus et Markiona, qu'il revoit vivante en la sachant morte ; rappelé au présent avant l'arrivée de Geppetto | Le "à bientôt" de 1850 se boucle |
+| 1852 (5.5, Relique) | Rematch de la Confrérie. Empêche Magnus de se venger et abat Parrot lui-même | |
+| 1852 (5.5, Hôtel Krat, le message) | Mensonges par bonté à Eugénie et à Belle (chemin de référence). Entend la Loi Zéro ; convainc Magnus d'attendre de tout savoir avant de révéler le nom | Sait que son père a lancé la Frénésie |
+| Suite (Ère 5) | -> roadmap 5.6 (Côte Noire, Laxasia, Simon Manus ; le cristal de Camille et la fin de son père) | |
 
 ---
 

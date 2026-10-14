@@ -1,6 +1,7 @@
 # Frénésie des Pantins
 
-- version : W2
+- version : W3
+- note W3 : forage 5.5 [DIVERGENCE RP]. + la Loi Zéro entendue par P et Magnus, tue aux autres.
 - note W2 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
@@ -83,6 +84,7 @@
 
 - La Frénésie s'atténue après la défaite de Romeo (Roi des Pantins) -> pantins "leaderless".
 - Geppetto reste la cause non reconnue publiquement jusqu'à la révélation de la Loi Zéro.
+- [DIVERGENCE RP - 1852 (5.5)] P et Magnus entendent la Loi Zéro dans le message de Romeo : ils savent que Geppetto a lancé la Frénésie. Ils le taisent aux autres, Venigni compris, en attendant de tout savoir.
 - Post-Frénésie : Krat en ruines, double frappe de la maladie et de la Frénésie.
 
 ---

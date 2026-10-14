@@ -1,6 +1,7 @@
 # Magnus - Chronologie B (Ère 5, 1852+)
 
-- version : W3
+- version : W4
+- note W4 : forage 5.5 [DIVERGENCE RP]. Lignes 5.5.
 - note W3 : forage 5.4 [DIVERGENCE RP]. Lignes 1852 (5.4), une par étape.
 - note W2 : forage 5.3 [DIVERGENCE RP]. Lignes 1852 (5.3), une par étape.
 
@@ -37,6 +38,13 @@ Satellite de Personnages/Magnus, suite de Personnages/Magnus_chrono_A. Trajectoi
 | 1852 (5.4, Marais Aride) | Tram ; second Clown détruit avec P. Avec P, livre à Parrot les gants à quatre doigts d'Eugénie ; Parrot, qui en a cinq, les trouve absurdes ; ils savent, et ne disent rien. Entend sans appareil le pantin blanc brisé. Le Chouette Médecin, vaincu, épargné, rallie Aurus. Au pont, apprend à Hugo que l'Alidoro de l'hôtel est un imposteur et que le vrai a disparu | Quête d'Hugo lancée |
 | 1852 (5.4, falaise du Marais) | Monstre Vert vaincu avec P ; reconnaît le corps de Murphy, un deuil de plus. Sa mère fait sa pire quinte, sang et cristaux, malgré ses soins | Peur pour sa mère |
 | 1852 (5.4, Hôtel Krat) | Impose à sa mère de rester à l'hôtel la prochaine fois ; elle n'a pas la force de le contredire ; Venigni promet de la protéger. Avec P, dit à Eugénie que son frère a aimé les gants : un mensonge par bonté. Piano d'Antonia. Au grand Stargazer, il voit Sophia | Charnière 5.5 : Markiona à l'hôtel, P et lui vers la Gare |
+| 1852 (5.5, Gare Centrale) | Avec P, revient au wagon où ils l'avaient trouvé en 5.1 ; Atkinson, le compagnon de Belle, infecté | |
+| 1852 (5.5, Tour des Artisans) | Revient sur le charnier de 1851 ; Marcheur d'Illusions vaincue avec P. Au pied de la tour, Sophia : l'hôtel est attaqué ; Simon sur la ligne | Course contre la mort |
+| 1852 (5.5, ruelle Cerasani) | Course vers l'hôtel, P aussi rapide que lui ; Maître du Défilé Corrompu battu ensemble | |
+| 1852 (5.5, Hôtel Krat) | Arrive à temps. Aller-retour à Aurus pour l'extracteur, achevé avec sa mère ; il en apprend le but. Veut l'extraire : elle lui laisse le choix (bifurcation). Ses derniers mots. Sophia : c'est le Traqueur qui a ouvert | Mère morte (B) ou en cristal (A) |
+| 1852 (5.5, Hôtel Krat, la nuit) | Comprend que P part en 1850 ; lui demande de ne pas lui laisser deviner la mort de sa mère, puis le laisse libre. Parle toute la nuit avec Sophia : rassuré (A) ou en deuil (B) | Boucle de 1850 fermée |
+| 1852 (5.5, Relique) | Les trois Lapins et l'Aîné ressuscité, tous morts. Veut tuer Parrot ; P l'en empêche et s'en charge. Hugo, nouveau Traqueur | Vengeance retenue |
+| 1852 (5.5, Hôtel Krat, le message) | Mensonge par bonté à Eugénie (chemin de référence). Entend la Loi Zéro sans appareil ; tente de mentir à Venigni, P le convainc d'attendre. Sait que Geppetto a lancé la Frénésie, sans comprendre que sa mère le savait. Le dock, le sous-marin | Charnière vers 5.6 |
 
 ---
 

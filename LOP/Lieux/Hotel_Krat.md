@@ -1,6 +1,7 @@
 # Hôtel Krat
 
-- version : W4
+- version : W5
+- note W5 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder. + [DIVERGENCE RP] L'attaque version RP (bureau de Geppetto, meurtre de Markiona, Stargazer coupé puis relancé) ; corps de Markiona jusqu'à l'outro ; réfugiés d'Aurus et l'Âne fou. Canon : résidents barricadés, banderole.
 - note W4 : forage 5.4 [DIVERGENCE RP]. Téléportation du grand Stargazer réservée à P ; Belle réfugiée ; Markiona résidente à partir de la 5.5. + Attaque de l'hôtel (ch.9-10) [CANON SUPPOSÉ] et mort de Markiona prévue en 5.5.
 - note W3 : forage 5.3 [DIVERGENCE RP]. Arbre : accès par l'arrière (ascenseur de l'Hôtel de Ville du District Malum), règle du coeur pur, les deux fruits de 5.3 ; remède d'Antonia recalé sur le canon ; portrait localisé. + Coquille Pulsella -> Pulcinella.
 - note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -44,17 +45,26 @@
 - Refuge des survivants (base game) : dans la crise, l'hôtel devient le seul sanctuaire de Krat.
   Antonia (propriétaire, malade de la Maladie de Pétrification) y accueille Sophia (projection spectrale),
   Polendina (majordome pantin), Eugénie (armurier), Geppetto, Lorenzini Venigni, Pulcinella, Alidoro
-  (si P l'y amène), le Limier (fin DLC, si P l'y amène). [CANON SUPPOSÉ] Belle, survivante de la Grande
+  (si P l'y amène), le Traqueur (fin DLC, si P l'y amène). [CANON SUPPOSÉ] Belle, survivante de la Grande
   Exposition, s'y réfugie (ch.7). [DIVERGENCE RP - 1852] Markiona y reste à partir de la 5.5, sous la garde
   de Venigni (cf. Personnages/Markiona.md).
 - Attaque de l'hôtel (ch.9-10) [CANON SUPPOSÉ : sources externes, absente du transcript] : hors champ, pendant
   que P est à la Gare Centrale. Parrot, le faux Alidoro, désactive la sécurité de l'intérieur et vend l'hôtel
   pour s'acheter une sortie de Krat ; il espérait la mort d'Eugénie. La Confrérie des Lapins Noirs, sur ordre
   de Simon, avec la Renarde Rousse et le Chat Noir (qui attendent des Alchimistes un remède aux yeux du Chat),
-  enlève Geppetto. Les sources consultées ne nomment aucun mort. P trouve l'hôtel saccagé ; le piano de la
+  enlève Geppetto. Les résidents se barricadent dans le bureau de Geppetto, au 2e étage ; aucun blessé ni mort au canon. Une banderole « HYPOCRITE » barre le grand Stargazer [SOURCE UNIQUE : namu]. P trouve l'hôtel saccagé ; le piano de la
   chambre d'Antonia ouvre le passage vers la Relique. Cf. Factions/Black_Rabbit_Brotherhood.md,
   Personnages/Alidoro_et_Parrot.md, Personnages/Antonia.md.
-  - [DIVERGENCE RP - 1852 (5.5)] Markiona, restée à l'hôtel, y meurt [ACTÉ]. Qui la tue et comment : roadmap 5.5.
+  - [DIVERGENCE RP - 1852 (5.5)] L'attaque, version RP [ACTÉ] : Markiona fait entrer les résidents dans le bureau de Geppetto,
+    fait croire à Venigni qu'elle suit, les enferme et garde la porte. Geppetto, resté dehors, hurle comme si on
+    l'enlevait ; les Lapins attrapent Markiona, et c'est lui qui la poignarde au ventre. La Renarde et le Chat
+    l'emmènent sans toucher Markiona ni l'aider : l'enlèvement est consenti. Sophia donne l'alerte et voit le
+    Traqueur ouvrir la porte, puis les Lapins coupent le grand Stargazer. Les assaillants partis, Markiona ouvre
+    la porte ; les résidents la maintiennent en vie, Venigni relance le Stargazer. Elle meurt à l'hôtel le jour
+    même, après avoir achevé l'extracteur avec son fils. Cf. Personnages/Markiona.md.
+  - [DIVERGENCE RP - après 5.5] Son corps y attend la roadmap d'outro (R6), confié à Venigni. Les réfugiés d'Aurus
+    viennent prêter main-forte à l'hôtel ; l'Âne fou, qui le refusait à cause de Geppetto, y entre enfin, Geppetto
+    parti. Cf. Lieux/Aurus.md.
 - Premier mensonge de P : à l'entrée, les pantins ne sont pas admis. P est questionné ("es-tu humain ?").
   S'il ment et répond qu'il est humain, il entre. Premier mensonge volontaire de P, déclencheur de son
   humanisation. Cf. Systemes/Humanity_System.md, SB5.
@@ -87,7 +97,7 @@
   active le Stargazer doré pour le voyage temporel (DLC). Cf. SB5.
 - Premier mensonge de P à l'entrée -> début de son humanisation. Cf. SB7.
 - Refuge de : Antonia, Polendina, Sophia (projection), Eugénie, Geppetto, Lorenzini Venigni, Pulcinella,
-  Alidoro (conditionnel), Limier (fin DLC conditionnel). Cf. SB7.
+  Alidoro (conditionnel), Traqueur (fin DLC conditionnel). Cf. SB7.
 - Antonia = propriétaire ; malade (Maladie de Pétrification, écailles sur le visage). Polendina = majordome
   pantin amoureux d'elle (Ego éveillé). Cf. Personnages/Antonia.md, Personnages/Polendina.md.
 - Fruit d'Or : P cueille le fruit et le donne à Giangio, qui en tire un remède ; P le remet à Polendina pour Antonia. Le remède enraye la propagation sans réparer les dégâts (mort paisible) [CANON SUPPOSÉ]. Cf. Personnages/Philip_Paracelsus.md, Personnages/Antonia.md.
