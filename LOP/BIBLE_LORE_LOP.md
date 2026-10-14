@@ -1,16 +1,17 @@
 # BIBLE_LORE_LOP - Lies of P
 
-- version : B10
+- version : B11
 - univers : Lies of P (Neowiz / Round8 Studio, 2023) + DLC Overture
 - source canon : transcript vidéo "complete story of Lies of P" (base game + DLC)
 - régime canonique : canon principal interprété (narrateur vidéo). Tout fait absent = [INCERTAIN].
 - régime RP/OC : depuis B4, la couche RP (OC, divergences assumées) est tissée INLINE dans les SB, balisée [DIVERGENCE RP], par-dessus le socle canon. Le canon pur reste la base ; la divergence se greffe, jamais ne la masque.
-- date réelle de dernière mise à jour : 2026-10-13
+- date réelle de dernière mise à jour : 2026-10-14
 - note B6 : (1) retrait de l'apparat coquilles transcript ; suppression de _Table_Noms_Canon.md ; SB9.5 ne renvoie plus à la table. (2) francisation des noms anglais selon la loc FR officielle, propagée à tout le wiki + roadmaps (noms propres et noms de fichiers inchangés).
 - note B7 : intégration du duo Claudia Volfe (la Renarde Rousse) / Lucio Volfe (le Chat Noir) en SB7. Personnages canon (Red Fox / Black Cat) désormais dotés d'une fiche commune dédiée (Personnages/Claudia_et_Lucio.md) ; le détail (filiation Volfe légitime/bâtard, double-jeu Bâtards/Balayeurs, règle du coeur pur pour le Fruit d'Or, trajectoire jusqu'en 1851) vit dans la fiche.
 - note B8 : BIBLE BUILD de clôture des forages 5.1 et 5.2 (dettes I14 soldées). (1) SB3, SB4 : Workshop Union -> Parlement des Artisans (SB4 uniformisé avec SB3) ; Venigni Works -> Fabrique Artisanale Venigni. (2) SB0 mis aux normes S8 : raw_base et parties_raw_base stockés, fetch en raw par défaut, inventaire des pages rattachées. (3) SB5 : [DIVERGENCE RP] entrée de P à l'Hôtel Krat sans mensonge (Humanity System). (4) Coquilles (SB2, SB6). (5) Francisation VF (décision worldbuilder) : RÔDEURS (VO : Stalkers), BÂTARDS (VO : Bastards), BALAYEURS (VO : Sweepers) en SB4. (6) Réaccentuation de tout LOP/ : fin de la règle ASCII (décision worldbuilder) ; en-tête et SB9.5 mis à jour. (7) Francisation VF lot 2 : glossaire validé par le worldbuilder (lots A, B, C), la VO gardée en glose à la première mention.
 - note B9 : BIBLE BUILD de clôture du forage 5.3 (Le Roi des Pantins). (1) SB0 : 36 pages Personnages (+ Pinocchio_chrono_A, satellite de P). (2) SB1.7 : [DIVERGENCE RP] Magnus hors du Grand Covenant, comme les Pantins de l'Arc (propagé depuis Magnus.md). (3) SB5 : visage de Carlo, signature et mémoire musculaire de Léa sur P ; règle du coeur pur pour le Fruit d'Or. (4) SB7 : fin de Romeo réécrite (suicide, 1852) ; plus d'Arlecchino en 1852.
 - note B10 : BIBLE BUILD de clôture du forage 5.4 (La Vérité de Geppetto). (1) SB0 : 37 pages Personnages (+ Hugo) ; budgets de fiche (SPEC v8.9) : Markiona inscrite en pivot (plafond 30k), aux côtés des protagonistes P et Magnus. (2) SB5 : [DIVERGENCE RP] téléportation des Stargazers réservée à P. (3) SB7 : Alidoro / Parrot, renvoi vers Hugo.
+- note B11 : BIBLE BUILD de clôture du forage 5.5 (L'Effondrement). (1) SB0 : budgets, dérogation à 20k pour les fiches de personnages qui débordent (décision worldbuilder). (2) SB1.7 : P et Magnus entendent la Loi Zéro (1852, 5.5). (3) SB5 : Système d'humanité, choix laissés au joueur, chemin de référence. (4) SB7 : Geppetto (enlèvement mis en scène, cristal de Camille), Sophia, Markiona, Alidoro / Parrot / Hugo. (5) « le Limier » -> « le Traqueur » (VO : Tracker), traduction corrigée par le worldbuilder.
 
 > Cette BIBLE est la couche de fondation (Passe 0) de la couche canon LOP. Elle pose le socle partagé
 > par toutes les fiches noyau (Passe 1). Un fait = un seul emplacement canonique ; les fiches renvoient
@@ -23,7 +24,7 @@
 - Cadre esthétique : Belle Époque (1871-1914), âge d'or de la civilisation européenne.
 - Lieu central : la cité fictive de Krat, ancienne ville côtière pauvre devenue métropole prospère grâce à l'Ergo, puis ravagée par deux fléaux simultanés : la Frénésie des Pantins (pantins devenus hostiles) et la Maladie de Pétrification (maladie pétrifiante).
 - Protagoniste : Pinocchio (P), pantin à Ego éveillé, créé par Geppetto.
-- Budgets de fiche (SPEC v8.9) : plafond propre de 30k pour les protagonistes, Pinocchio et Magnus [DIVERGENCE RP], et pour le pivot désigné par le worldbuilder, Markiona [DIVERGENCE RP]. Toute autre page : 12k.
+- Budgets de fiche (SPEC v8.9) : plafond propre de 30k pour les protagonistes, Pinocchio et Magnus [DIVERGENCE RP], et pour le pivot désigné par le worldbuilder, Markiona [DIVERGENCE RP]. Toute autre page : 12k ; dérogation à 20k pour les fiches de personnages qui débordent (décision worldbuilder, 2026-10-14). Satellites : 12k.
 - Thème central : l'humanité acquise par le mensonge et le libre arbitre ; la frontière entre pantin et humain.
 
 ### Routage WIKI / Parties (accès GitHub, cf. S8 de l'INSTRUCTION)
@@ -54,7 +55,7 @@
 5. Les OREILLES (écouteurs) sont des humains capables de communiquer avec l'Ergo (l'essence humaine piégée) et de manipuler le temps. Sophia Monad est l'Oreille du jeu ; sa mort/mutation alimente la boucle temporelle du gameplay (rewind à chaque mort de P).
 6. LE BRAS DE DIEU (VO : Arm of God) est une relique ancienne ; réveiller le "dieu" (le Star/ange tombé) via cette relique est le but suprême des Alchimistes.
 7. MENSONGE = humanité. Le Grand Covenant interdit aux pantins de mentir et de tuer des humains. Pinocchio en est exempté : mentir le rend progressivement humain.
-   - [DIVERGENCE RP] Magnus n'y obéit pas non plus, comme tous les Pantins de l'Arc de Markiona. Ni lui ni P ne savent rien de la Loi Zéro avant que Venigni décode le message de Romeo (1852). cf. Personnages/Magnus.md.
+   - [DIVERGENCE RP] Magnus n'y obéit pas non plus, comme tous les Pantins de l'Arc de Markiona. Ni lui ni P ne savent rien de la Loi Zéro avant que Venigni décode le message de Romeo (1852, 5.5) : ils l'entendent alors tous deux, Magnus sans appareil, et n'y obéissent pas. cf. Personnages/Magnus.md.
 
 ## SB2 - Théologie alchimique (le Star et l'Ange à une Aile)
 
@@ -92,6 +93,7 @@
 - MÉTHODE DU DIABLE : procédé de Geppetto pour transformer un corps humain (mourant ou mort) en pantin en préservant l'Ergo. Preuve canon : Romeo (humain -> Roi des Pantins). cf. Giuseppe_Geppetto.md, Personnages/Romeo.md. [DIVERGENCE RP] Appliquée à Pinocchio : un châssis de pantin de guerre recouvert de chair humaine d'emprunt (la peau de Léa Florence Monad), animé par l'Ergo de Carlo, avec un bras gauche mécanique (Bras Légion) servant de leurre ostensible. P est ainsi indiscernable d'un humain : il a le visage de Carlo, mais la peau garde la signature de Léa (yeux bleus, taches de rousseur) et sa mémoire musculaire, si bien que P se bat comme elle. cf. Pinocchio.md, Lea_Florence_Monad.md, Systemes/Genies_et_Chef_D_Oeuvres.md.
 - SYSTÈME D'HUMANITÉ (VO : Humanity System) : mentir, écouter de la musique, choix moraux -> humanité croissante de P (coeur qui bat, chaleur, cheveux qui poussent et grisonnent = éveil de l'Ego de Carlo). Conditionne la fin.
   - [DIVERGENCE RP] P entre à l'Hôtel Krat SANS mentir (Magnus négocie l'entrée, Markiona humaine les accompagne) : son éveil ne s'ouvre pas par le mensonge mais aussi par d'autres vecteurs, d'abord le modèle familial du duo Magnus / Markiona. Le mensonge reste un vecteur. cf. Personnages/Pinocchio.md.
+  - [DIVERGENCE RP] Les choix vérité/mensonge du canon sont laissés au joueur ; les roadmaps notent le chemin le plus humain comme chemin de référence. L'humanité n'affecte que P (décision worldbuilder). cf. Systemes/Humanity_System.md.
 - STARGAZERS : invention des rôdeurs ; téléportation, absorption des spores d'Ergo (zones sûres temporaires), indicateur de la boucle temporelle (cadrans de l'Hôtel Krat). Stargazer doré (VO : golden Stargazer) = voyage temporel (DLC).
   - [DIVERGENCE RP] La téléportation est réservée à P (décision worldbuilder ; sinon, pas d'Overture) : Magnus et Markiona vont à pied ou en tram. cf. Systemes/Stargazers.md, Lieux/Krat.md (Géographie du RP).
 - MALADIE DE PÉTRIFICATION : voir SB1. Écailles, perte de la voix/vue, mutation en Carcasse.
@@ -116,16 +118,16 @@
 ## SB7 - Personnages-pivots (renvois)
 
 - Pinocchio (P) : protagoniste. cf. Personnages/Pinocchio.md
-- Giuseppe Geppetto : créateur, antagoniste caché (Loi Zéro, Frénésie). cf. Personnages/Giuseppe_Geppetto.md
+- Giuseppe Geppetto : créateur, antagoniste caché (Loi Zéro, Frénésie). [DIVERGENCE RP] Son enlèvement de 1852 est une mise en scène, de mèche avec Simon (canon selon le worldbuilder) ; il poignarde Markiona. Sa fin se joue sur le cristal de Camille (5.6). cf. Personnages/Giuseppe_Geppetto.md
 - Simon Manus : antagoniste principal (ascension divine). cf. Personnages/Simon_Manus.md
-- Sophia Monad : Oreille, "Fée bleue". cf. Personnages/Sophia_Monad.md
+- Sophia Monad : Oreille, "Fée bleue". [DIVERGENCE RP] Âme soeur platonique de Magnus ; le dernier projet de Markiona, l'extracteur, était pour elle. cf. Personnages/Sophia_Monad.md
 - Romeo : Roi des Pantins, ami de Carlo. [DIVERGENCE RP] Ami de Magnus (Ère 2). À l'Opéra (1852), Magnus le reconnaît et l'étreint ; Romeo reconnaît Léa dans la chair de P et se donne la mort. cf. Personnages/Romeo.md
 - Carlo / Camille : fils et épouse de Geppetto, moteurs de l'intrigue. cf. Personnages/Carlo.md, Camille.md
 - Valentinus / Léa Florence Monad : fondateur de l'Ordre / Rôdeuse Légendaire. cf. fiches dédiées.
 - Arlecchino : pantin meurtrier (DLC), détruit en 1850 au Domaine de la Rose. [DIVERGENCE RP] Plus d'Arlecchino en 1852 : le "Roi des Énigmes" et ses cabines du base game sont caducs (décision worldbuilder). cf. Personnages/Arlecchino.md
-- Markiona / Lumacchio / Véronique : pivots DLC. cf. fiches dédiées.
+- Markiona / Lumacchio / Véronique : pivots DLC. cf. fiches dédiées. [DIVERGENCE RP] Poignardée par Geppetto en 1852 (5.5), Markiona meurt dans sa chair ; ses adieux ouvrent une bifurcation (Magnus garde son cristal, ou lui accorde son dernier souhait), exception à la règle du RP linéaire. cf. Personnages/Markiona.md
 - Philip Paracelsus (= Giangio) : alchimiste caché, fil du sequel. cf. Personnages/Philip_Paracelsus.md
-- Alidoro / Parrot : le Traqueur (VO : Tracker) / faux Alidoro. [DIVERGENCE RP] Alidoro, ami de Magnus, qui démasque Parrot à la voix (1852) et apprend l'imposture à Hugo, futur Traqueur. cf. Personnages/Alidoro_et_Parrot.md, Hugo.md
+- Alidoro / Parrot : le Traqueur (VO : Tracker) / faux Alidoro. [DIVERGENCE RP] Alidoro, ami de Magnus, qui démasque Parrot à la voix (1852) et apprend l'imposture à Hugo ; P abat Parrot à la Relique, et Hugo devient le nouveau Traqueur (5.5). cf. Personnages/Alidoro_et_Parrot.md, Hugo.md
 - Claudia Volfe (la Renarde Rousse) / Lucio Volfe (le Chat Noir) : demi-fratrie de rôdeurs (le Renard et le Chat de Collodi) ; bases canon + [DIVERGENCE RP] (double-jeu Bâtards/Balayeurs, règle du coeur pur pour le Fruit d'Or). cf. Personnages/Claudia_et_Lucio.md
 - [DIVERGENCE RP] Magnus (OC) : pantin parfait de Markiona, Ego inné et vierge (né d'un Ergo pur). cf. Personnages/Magnus.md
 - [DIVERGENCE RP] Miroir créateur/créature (Geppetto/P vs Markiona/Magnus ; le deuil comme moteur). cf. Systemes/Genies_et_Chef_D_Oeuvres.md
@@ -150,4 +152,4 @@
 
 ---
 
-FIN_BIBLE_B10
+FIN_BIBLE_B11
