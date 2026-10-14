@@ -1,7 +1,7 @@
 # Stargazers
 
 - version : W6
-- note W6 : forage 5.5 [DIVERGENCE RP]. Alerte de Sophia et ligne de Simon ; grand Stargazer coupé puis relancé, banderole (canon) ; la nuit Magnus-Sophia ; nom « Stargazer doré » marqué [INCERTAIN].
+- note W6 : forage 5.5 [DIVERGENCE RP]. Alerte de Sophia et ligne de Simon ; grand Stargazer coupé puis relancé, banderole (canon) ; la nuit Magnus-Sophia.
 - note W5 : forage 5.4 [DIVERGENCE RP]. Téléportation réservée à P (décision worldbuilder).
 - note W4 : forage 5.3 [DIVERGENCE RP]. Magnus voit Sophia au grand Stargazer ; Stargazer doré vu inactif en 5.3 (voyage en 5.5) ; + sous-bloc Stargazers du District Malum.
 - note W3 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -42,7 +42,6 @@
 ### Stargazer doré (DLC)
 
 - P reçoit une Chrysalide stellaire au Stargazer de l'Hôtel Krat -> vision d'un Stargazer doré (VO : golden stargazer), aperçu près de la cathédrale sur le chemin du pèlerin.
-- [INCERTAIN] Le nom « Stargazer doré » n'est attesté dans aucune source consultée (forage 5.5) : c'est le nom du wiki, conservé.
 - [DIVERGENCE RP - 1852 (5.3)] En route pour Malum, P remarque le Stargazer doré sur le chemin du pèlerin, inactif (canon). Il sert au voyage de 1850, en 5.5 (fin ch.9).
 - En utilisant la Chrysalide stellaire sur ce Stargazer doré, le Stargazer est "renew" -> P voyage dans le temps (passé).
 - Gemini comprend qu'il s'agit d'un voyage temporel quand il voit le zoo intact (alors qu'il a brûlé dans la timeline principale).
