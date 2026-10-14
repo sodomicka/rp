@@ -1,20 +1,21 @@
 # Alidoro et Parrot
 
-- version : W5
+- version : W6
+- note W6 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder.
 - note W5 : forage 5.4 [DIVERGENCE RP]. Parrot a dit le vrai Alidoro disparu (5.2). Au Marais (5.4) : les gants, "le meilleur appât", Hugo informé par Magnus. + Hugo (fiche dédiée).
-- note W4 : forage 5.3 [DIVERGENCE RP]. Le "quelqu'un" que P rappelle au Limier est Léa : il reconnaît le style sans pouvoir le nommer (1850, joué en 5.5 côté P). Locket marqué retiré du RP dans la relation P (motif de confiance : Roadmap_03, étape 7).
+- note W4 : forage 5.3 [DIVERGENCE RP]. Le "quelqu'un" que P rappelle au Traqueur est Léa : il reconnaît le style sans pouvoir le nommer (1850, joué en 5.5 côté P). Locket marqué retiré du RP dans la relation P (motif de confiance : Roadmap_03, étape 7).
 - note W3 : forage 5.2 [DIVERGENCE RP]. Alidoro = AMI de Magnus (Rôdeurs). Parrot démasqué à la voix par Magnus à St Frangelico (1852) ; il admet être le Perroquet, tait le meurtre, rejoint l'Hôtel Krat. + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
-> Deux personnages partageant une identité : le vrai Alidoro (alias "le Limier" (VO : the Tracker)) et Parrot (imposteur).
+> Deux personnages partageant une identité : le vrai Alidoro (alias "le Traqueur" (VO : the Tracker)) et Parrot (imposteur).
 > Traités ensemble car leur histoire est indissociable.
 
 ---
 
-## 1. ALIDORO (le vrai) - alias le Limier
+## 1. ALIDORO (le vrai) - alias le Traqueur
 
 ### Identité
 - Vrai nom : Alidoro.
-- Alias actif : "le Limier" (cache son identité pour protéger sa soeur).
+- Alias actif : "le Traqueur" (cache son identité pour protéger sa soeur).
 - Nature : humain, ex-alchimiste désillusionné devenu rôdeur/Balayeur puis chasseur de trésor.
 - Origine : "country of the morning" (même pays que sa soeur Eugénie).
   - Indice de confirmation : le Cor nimbé d'aurore est décrit comme "bought from the country of the morning".
@@ -42,7 +43,7 @@
   - Sauve Eugénie (qui y travaillait) et l'amène à Madoro (medic).
   - Perd un doigt dans l'incident.
 - Après le sauvetage d'Eugénie : devient trésor hunter, acquiert Parrot comme partenaire.
-- Pendant le DLC Overture (timeline passée) : opérer sous le nom "le Limier" pour protéger Eugénie (sa soeur).
+- Pendant le DLC Overture (timeline passée) : opérer sous le nom "le Traqueur" pour protéger Eugénie (sa soeur).
   - Traque le Bras de Dieu dont il veut arrêter les ravages sur Krat.
   - Rencontre P à la Zelator Facility ; lui donne le Cor nimbé d'aurore pour le summoner contre le Surveillant aux Deux Visages.
   - Combat le Surveillant aux Deux Visages aux côtés de P.
@@ -72,7 +73,7 @@
 - Markiona [DIVERGENCE RP - Ère 2] : il a documenté les crimes de l'Ordre dont elle a profité (Colonel Little -> maîtrise du Zoo). Au reveal, il enrage puis, par raisonnement, valide la sincérité de son changement. cf. Personnages/Markiona.md.
 - Léa Florence Monad, Romeo [DIVERGENCE RP - Ère 2] : co-membres de l'union des Rôdeurs ; présents avec lui au reveal. cf. Personnages/Lea_Florence_Monad.md, Romeo.md.
 - Magnus [DIVERGENCE RP] : un AMI, pas un simple collègue (côtoyé chez les Rôdeurs, 1849-1850 ; combat le Surveillant aux Deux Visages avec lui et P en 1850). C'est parce qu'il connaissait sa voix que Magnus démasque l'imposteur en 1852. En 5.4, Magnus apprend à Hugo que l'Alidoro de l'hôtel est un imposteur et que le vrai a disparu. cf. Personnages/Magnus.md.
-- Hugo : jeune explorateur, son admirateur ; reprend le flambeau du Limier (canon : fins "hôtel" ; RP : après la confrontation de Parrot, 5.5). cf. Personnages/Hugo.md.
+- Hugo : jeune explorateur, son admirateur ; reprend le flambeau du Traqueur (canon : fins "hôtel" ; RP : après la confrontation de Parrot, 5.5). cf. Personnages/Hugo.md.
 
 ### Sort connu
 - Tué par Parrot lors d'une dispute violente après que Parrot vendit des objets sans accord.
@@ -87,7 +88,7 @@
 | Avant Frénésie | Rejoint les Balayeurs ; devient rôdeur puis chasseur de trésor ; transmet infos à Madoro | Article banni, en fuite |
 | 1848-1850 (Les Loups) [DIVERGENCE RP] | Membre de l'union des Rôdeurs ; rôle pivot au reveal de Markiona (enrage puis désamorce) | Rôdeur établi, juge de la sincérité du duo |
 | Bataille de la Tour des Artisans | Sauve Eugénie lors de l'effondrement ; perd un doigt | Séparé de sa soeur |
-| DLC Overture (passée) | Opère comme "le Limier" ; allié de P [et de Magnus, DIV RP] contre Surveillant aux Deux Visages ; reconnaît chez P le style de Léa sans le nommer [DIV RP] | Identité secrète maintenue |
+| DLC Overture (passée) | Opère comme "le Traqueur" ; allié de P [et de Magnus, DIV RP] contre Surveillant aux Deux Visages ; reconnaît chez P le style de Léa sans le nommer [DIV RP] | Identité secrète maintenue |
 | Post-Tour (base game) | Mort : tué par Parrot dans une dispute | Identité usurpée |
 
 ---
@@ -104,7 +105,7 @@
 - Partenaire d'Alidoro dans la chasse aux trésors. [DIVERGENCE RP - Ère 2] Déjà à ses côtés durant la période des Loups (1848-1850), bien avant la dispute fatale ; rien encore de la trahison.
 - Vend des objets sans accord d'Alidoro -> dispute violente -> tue Alidoro.
 - Prend l'identité d'Alidoro (wanted poster, réputation détruite par ses propres actes).
-- Dans le base game : opère sous l'identité "Alidoro le Limier", marchand qui offre des armes de héros à P en échange d'objets rares.
+- Dans le base game : opère sous l'identité "Alidoro le Traqueur", marchand qui offre des armes de héros à P en échange d'objets rares.
   - Se comporte de façon à éviter la découverte (prudence, mensonge permanent).
   - Dit à P que celui-ci est "Alidoro's best bait" après avoir récupéré la dernière arme de héros.
   - Délivre des armes et objets précieux à P tout au long du base game (rôle marchand/PNJ récurrent).

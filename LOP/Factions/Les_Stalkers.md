@@ -1,6 +1,7 @@
 # Les Rôdeurs
 
-- version : W8
+- version : W9
+- note W9 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder.
 - note W8 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Nature
@@ -90,7 +91,7 @@
 - Énormes shards de Crowd érumpent du sol -> effondrement de la tour. Nombreux morts.
 - Tant de rôdeurs morts que beaucoup les considèrent exterminés.
 - Conséquences : plus de maintien de l'ordre (entièrement automatisé, i.e. les pantins) ; plus de rôdeurs pour protéger -> Krat est condamné.
-- Alidoro (le Limier) regardait la tour quand elle s'est effondrée : a sauvé Eugénie (la future armurière de l'Hôtel Krat, qui y travaillait), l'a amenée à Madoro (médecin/reporter). Alidoro perd un doigt dans l'incident.
+- Alidoro (le Traqueur) regardait la tour quand elle s'est effondrée : a sauvé Eugénie (la future armurière de l'Hôtel Krat, qui y travaillait), l'a amenée à Madoro (médecin/reporter). Alidoro perd un doigt dans l'incident.
 - Hugo (explorateur novice) mentionne aussi qu'Alidoro a sauvé de nombreuses vies lors de l'effondrement.
 - [DIVERGENCE RP] C'est cette bataille (1851) qui essore l'Assemblée des Lapins Noirs : il n'en reste que les survivants du canon, qui basculent dans le crime (cf. Factions/Black_Rabbit_Brotherhood.md).
 - [DIVERGENCE RP] La Renarde Rousse et le Chat Noir n'y sont PAS : prévenus par leur double-jeu, ils évitent le massacre (cf. Personnages/Claudia_et_Lucio.md).

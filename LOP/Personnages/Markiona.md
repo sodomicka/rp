@@ -1,6 +1,7 @@
 # Markiona
 
-- version : W12
+- version : W13
+- note W13 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder.
 - note W12 : forage 5.4 [DIVERGENCE RP]. Menace de Simon remise au passé (traîtresse déclarée depuis 1847 ; Simon la reconnaît en 5.4). Silence déchargé en partie (Romeo seul). Pire quinte (5.4) ; elle restera à l'Hôtel Krat. QUAND de sa mort fixé : pendant l'attaque de l'hôtel (5.5).
 - note W11 : forage 5.3 [DIVERGENCE RP]. Soins par absorption des cristaux ; traitement retardé ; prototype de Zelator (bloc complet dans Objets_et_Reliques) ; elle ne bride plus Magnus devant l'Aîné ; silence à son comble. + Délestage (décision worldbuilder : trajectoire séparée, 8k par satellite) : passages datés déjà portés par Markiona_chrono_A / B retirés de la fiche mère. + Pudeur : seul son fils voit ce niveau d'intimité.
 - note W10 : forages 5.1 et 5.2. Trajectoire et texture des relations sorties en satellites (Markiona_chrono_A, _B, Markiona_relations) ; plafond 20k appliqué. + Camille mentor (ACTÉ). + Pétrification aggravée. + Tchekhov : elle sait, se tait. + Aveu devant les Carcasses. + Jubilation reformulée. + Francisation VF (lots 1 et 2) et réaccentuation.
@@ -49,7 +50,7 @@
 - Après la mort du Colonel (présumé tué par Rex), un taxidermiste nommé Philato (ami proche du colonel) est placé responsable du zoo par testament.
 - Les Alchimistes achètent le zoo après la mort du Colonel.
 - Les Alchimistes forcent Philato à empailler Rex. Philato disparaît mystérieusement.
-- Un cipher sanglant décrypté par le Limier mène au croc empaillé : "target neutralized, you are now the sole master of the zoo. Congrats, Lady M." (= Markiona, DESTINATAIRE du message : l'Ordre lui annonce qu'elle est désormais seule maîtresse du Zoo - "Lady M." est une adresse, pas une signature d'elle).
+- Un cipher sanglant décrypté par le Traqueur mène au croc empaillé : "target neutralized, you are now the sole master of the zoo. Congrats, Lady M." (= Markiona, DESTINATAIRE du message : l'Ordre lui annonce qu'elle est désormais seule maîtresse du Zoo - "Lady M." est une adresse, pas une signature d'elle).
 - Un rapport de nécroscopie caché dans la gueule du croc (écrit par Philato) révèle : aucun tissu humain entre les dents du reptile, blessure du Colonel incompatible avec une morsure de crocodile -> le Colonel a été assassiné par les Alchimistes.
 - Markiona devient maîtresse du Zoo via l'élimination de Colonel Little et de Philato par les Alchimistes.
 - Le Zoo = terrain d'expérimentation pour la Maladie de Pétrification ; ses Pantins de l'Arc expérimentaux y répandent le divine elixir ; elle écrit à Simon pour proposer de le répandre dans tout Krat.

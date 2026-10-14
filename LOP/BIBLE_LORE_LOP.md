@@ -125,7 +125,7 @@
 - Arlecchino : pantin meurtrier (DLC), détruit en 1850 au Domaine de la Rose. [DIVERGENCE RP] Plus d'Arlecchino en 1852 : le "Roi des Énigmes" et ses cabines du base game sont caducs (décision worldbuilder). cf. Personnages/Arlecchino.md
 - Markiona / Lumacchio / Véronique : pivots DLC. cf. fiches dédiées.
 - Philip Paracelsus (= Giangio) : alchimiste caché, fil du sequel. cf. Personnages/Philip_Paracelsus.md
-- Alidoro / Parrot : le Limier (VO : Tracker) / faux Alidoro. [DIVERGENCE RP] Alidoro, ami de Magnus, qui démasque Parrot à la voix (1852) et apprend l'imposture à Hugo, futur Limier. cf. Personnages/Alidoro_et_Parrot.md, Hugo.md
+- Alidoro / Parrot : le Traqueur (VO : Tracker) / faux Alidoro. [DIVERGENCE RP] Alidoro, ami de Magnus, qui démasque Parrot à la voix (1852) et apprend l'imposture à Hugo, futur Traqueur. cf. Personnages/Alidoro_et_Parrot.md, Hugo.md
 - Claudia Volfe (la Renarde Rousse) / Lucio Volfe (le Chat Noir) : demi-fratrie de rôdeurs (le Renard et le Chat de Collodi) ; bases canon + [DIVERGENCE RP] (double-jeu Bâtards/Balayeurs, règle du coeur pur pour le Fruit d'Or). cf. Personnages/Claudia_et_Lucio.md
 - [DIVERGENCE RP] Magnus (OC) : pantin parfait de Markiona, Ego inné et vierge (né d'un Ergo pur). cf. Personnages/Magnus.md
 - [DIVERGENCE RP] Miroir créateur/créature (Geppetto/P vs Markiona/Magnus ; le deuil comme moteur). cf. Systemes/Genies_et_Chef_D_Oeuvres.md

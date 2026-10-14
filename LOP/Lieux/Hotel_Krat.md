@@ -1,6 +1,7 @@
 # Hôtel Krat
 
-- version : W4
+- version : W5
+- note W5 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder.
 - note W4 : forage 5.4 [DIVERGENCE RP]. Téléportation du grand Stargazer réservée à P ; Belle réfugiée ; Markiona résidente à partir de la 5.5. + Attaque de l'hôtel (ch.9-10) [CANON SUPPOSÉ] et mort de Markiona prévue en 5.5.
 - note W3 : forage 5.3 [DIVERGENCE RP]. Arbre : accès par l'arrière (ascenseur de l'Hôtel de Ville du District Malum), règle du coeur pur, les deux fruits de 5.3 ; remède d'Antonia recalé sur le canon ; portrait localisé. + Coquille Pulsella -> Pulcinella.
 - note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -44,7 +45,7 @@
 - Refuge des survivants (base game) : dans la crise, l'hôtel devient le seul sanctuaire de Krat.
   Antonia (propriétaire, malade de la Maladie de Pétrification) y accueille Sophia (projection spectrale),
   Polendina (majordome pantin), Eugénie (armurier), Geppetto, Lorenzini Venigni, Pulcinella, Alidoro
-  (si P l'y amène), le Limier (fin DLC, si P l'y amène). [CANON SUPPOSÉ] Belle, survivante de la Grande
+  (si P l'y amène), le Traqueur (fin DLC, si P l'y amène). [CANON SUPPOSÉ] Belle, survivante de la Grande
   Exposition, s'y réfugie (ch.7). [DIVERGENCE RP - 1852] Markiona y reste à partir de la 5.5, sous la garde
   de Venigni (cf. Personnages/Markiona.md).
 - Attaque de l'hôtel (ch.9-10) [CANON SUPPOSÉ : sources externes, absente du transcript] : hors champ, pendant
@@ -87,7 +88,7 @@
   active le Stargazer doré pour le voyage temporel (DLC). Cf. SB5.
 - Premier mensonge de P à l'entrée -> début de son humanisation. Cf. SB7.
 - Refuge de : Antonia, Polendina, Sophia (projection), Eugénie, Geppetto, Lorenzini Venigni, Pulcinella,
-  Alidoro (conditionnel), Limier (fin DLC conditionnel). Cf. SB7.
+  Alidoro (conditionnel), Traqueur (fin DLC conditionnel). Cf. SB7.
 - Antonia = propriétaire ; malade (Maladie de Pétrification, écailles sur le visage). Polendina = majordome
   pantin amoureux d'elle (Ego éveillé). Cf. Personnages/Antonia.md, Personnages/Polendina.md.
 - Fruit d'Or : P cueille le fruit et le donne à Giangio, qui en tire un remède ; P le remet à Polendina pour Antonia. Le remède enraye la propagation sans réparer les dégâts (mort paisible) [CANON SUPPOSÉ]. Cf. Personnages/Philip_Paracelsus.md, Personnages/Antonia.md.

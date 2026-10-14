@@ -1,6 +1,7 @@
 # PNJ Secondaires
 
-- version : W8
+- version : W9
+- note W9 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder.
 - note W8 : forage 5.4. Hugo sorti en fiche dédiée (Personnages/Hugo.md, décision worldbuilder). Belle : rejoint l'Hôtel Krat [CANON SUPPOSÉ] ; le trio la croise (5.4).
 - note W7 : forage 5.3 [DIVERGENCE RP]. Julian : la réponse de Magnus. + Rétro : l'Âne fou et la Rédemptée ne voient en P qu'un Rôdeur au bras de métal.
 - note W6 : forages 5.1 et 5.2. Âne fou : rôle 1852 fixé (épargné au Pont des Alchimistes, réfugié à Aurus). La Rédemptée : Balayeuse confirmée, épargnée au funiculaire, ralliée à Aurus. + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -145,7 +146,7 @@
 
 ### Implication alchimique
 - Les Alchimistes achètent le zoo après la mort de Little ; le zoo = terrain d'expérimentation pour Markiona et la Fraternité de la Vérité.
-- Rapport du Limier : les Alchimistes ont tué Columbo, Little et d'autres pour contrôler ressources et lieux.
+- Rapport du Traqueur : les Alchimistes ont tué Columbo, Little et d'autres pour contrôler ressources et lieux.
 
 ### Sort connu
 - Colonel Little : assassiné par les Alchimistes. Rex : mort (taxidermie) ; "esprit" présumé avoir tué Philato.
@@ -188,7 +189,7 @@
 ### Rôle
 - A volé une boîte d'élixir des Alchimistes et l'a vendue au marché noir (avidité) -> le village près du phare est submergé (l'élixir empire tout).
 - Les Alchimistes découvrent son vol ; l'enferment dans sa salle au trésor secrète. Des cris dans le phare (le nouveau gardien démissionne, croyant à un fantôme). Corps retrouvé par P dans la salle au trésor.
-- Le Limier cite son meurtre parmi les crimes documentés des Alchimistes.
+- Le Traqueur cite son meurtre parmi les crimes documentés des Alchimistes.
 
 ### Sort connu
 - Mort : enfermé vivant dans sa salle au trésor.

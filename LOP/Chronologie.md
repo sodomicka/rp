@@ -80,7 +80,7 @@
 - Peau de Léa [DIVERGENCE RP] : connue de Markiona depuis 5.2, vue par Romeo en 5.3 (emportée dans sa mort), cachée à Magnus et P ; paiement public -> 5.6.
 - Graine sequel Paracelsus [DIVERGENCE RP] : fascination pour Magnus, reconnaissance muette de Markiona (5.2) ; il regarde Magnus approcher l'arbre (5.3). Ne pas détoner avant arbitrage.
 - Prototype de Zelator [DIVERGENCE RP] : récupéré par Markiona en 1850 ; elle y travaille en secret à Aurus, pour extraire l'Ergo et l'Ego de Sophia vers un pantin et que Magnus ne reste pas seul après sa mort. Magnus l'a vu sans savoir ce que c'est (5.3). Issue et révélation à trancher au forage 5.5.
-- Parrot et Hugo [DIVERGENCE RP] : Parrot démasqué à la voix (5.2). En 5.4, le mensonge des gants (P et Magnus savent, se taisent, puis disent à Eugénie que son frère les a aimés) ; Hugo apprend l'imposture de la bouche de Magnus. Paiement : trahison de Parrot à l'attaque de l'hôtel (5.5) ; Hugo nouveau Limier après la confrontation de Parrot.
+- Parrot et Hugo [DIVERGENCE RP] : Parrot démasqué à la voix (5.2). En 5.4, le mensonge des gants (P et Magnus savent, se taisent, puis disent à Eugénie que son frère les a aimés) ; Hugo apprend l'imposture de la bouche de Magnus. Paiement : trahison de Parrot à l'attaque de l'hôtel (5.5) ; Hugo nouveau Traqueur après la confrontation de Parrot.
 
 ## Découpage en ères (= roadmaps)
 1. Genèse et fuite (1847) -- ROADMAPPÉE (R1). Détail -> Roadmap_01_Eveil.md.

@@ -1,7 +1,8 @@
 # Roadmap 05.4 - La Vérité de Geppetto (Magnus, Ère 5)
 
 - statut : DÉTAILLÉE (remplie au gabarit, 2026-10-13)
-- version : R1
+- version : R2
+- note R2 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder.
 - note R1 : création (forage 5.4 ; grandes lignes v5 validées par le worldbuilder ; fiches propagées aux lots 1 à 4 ; fiche Hugo créée). 6 étapes, resserrées à la demande du worldbuilder.
 - arc : Ère 5 - Le réveil et la fin (base game, 1852+) | PARTIE 5.4 - La Vérité de Geppetto (chapitres 7-8 du jeu)
 - prota : Magnus
@@ -35,7 +36,7 @@ Ces fils ne sont PAS des étapes : ils courent en continu sous les étapes ci-de
 - FIL PÉTRIFICATION DE MARKIONA [DIVERGENCE RP] : palier de la 5.4, sa pire quinte, sang et cristaux, malgré les soins de Magnus (étape 6). La prochaine fois, elle reste à l'Hôtel Krat ; Venigni promet de prendre soin d'elle (étape 6, au retour). Elle mourra pendant l'attaque de l'hôtel (5.5) [ACTÉ]. cf. Personnages/Markiona.md, Systemes/Petrification_Disease.md.
 - FIL SIMON / SOPHIA [DIVERGENCE RP] : Simon reconnaît la traîtresse de 1847 et voit en P et Magnus deux pantins qui se croient humains. Magnus le charge pour Sophia ; Laxasia l'arrête ; Simon repart indemne (étape 3). Au hub, Magnus dit à Sophia qu'il a vu son geôlier (étape 4). cf. Personnages/Simon_Manus.md, Sophia_Monad.md.
 - FIL FRUIT D'OR [DIVERGENCE RP] : le fruit de Lucio est remis au moment canon (étape 3) ; il freine la cécité sans la guérir. La Renarde a donc toujours besoin des Alchimistes (motif de l'assaut de l'hôtel, 5.5). cf. Personnages/Claudia_et_Lucio.md, Objets/Objets_et_Reliques.md.
-- FIL ALIDORO / HUGO / PARROT [DIVERGENCE RP] : chemin vérité/mensonge le plus humain du canon (décision worldbuilder). Eugénie confie à P les gants qu'elle a faits pour son frère, à quatre doigts : elle sait qu'il en a perdu un. P et Magnus les livrent ; Parrot, qui a cinq doigts, les trouve absurdes. Au Marais, ils savent et ne disent rien ; à Eugénie, ils disent que son frère les a aimés (canon : ce mensonge fait gagner de l'humanité). Paiement : la trahison de la 5.5. Au pont du Marais, Magnus apprend à Hugo que l'Alidoro de l'hôtel est un imposteur : la quête d'Hugo démarre ; Parrot sent l'étau se resserrer. Hugo devient le nouveau Limier après la confrontation de Parrot (5.5). cf. Personnages/Alidoro_et_Parrot.md, Hugo.md, Eugenie.md.
+- FIL ALIDORO / HUGO / PARROT [DIVERGENCE RP] : chemin vérité/mensonge le plus humain du canon (décision worldbuilder). Eugénie confie à P les gants qu'elle a faits pour son frère, à quatre doigts : elle sait qu'il en a perdu un. P et Magnus les livrent ; Parrot, qui a cinq doigts, les trouve absurdes. Au Marais, ils savent et ne disent rien ; à Eugénie, ils disent que son frère les a aimés (canon : ce mensonge fait gagner de l'humanité). Paiement : la trahison de la 5.5. Au pont du Marais, Magnus apprend à Hugo que l'Alidoro de l'hôtel est un imposteur : la quête d'Hugo démarre ; Parrot sent l'étau se resserrer. Hugo devient le nouveau Traqueur après la confrontation de Parrot (5.5). cf. Personnages/Alidoro_et_Parrot.md, Hugo.md, Eugenie.md.
 - FIL GRAND COVENANT [DIVERGENCE RP] : la Loi Zéro reste inconnue de P et de Magnus (décodage en 5.5). cf. Systemes/Grand_Covenant.md.
 - En réserve : cristal de Camille (frôlé en silence, étape 3) ; prototype de Zelator ; peau de Léa (5.6) ; sort de Sophia (5.6) ; graine sequel Paracelsus.
 
@@ -66,7 +67,7 @@ Ces fils ne sont PAS des étapes : ils courent en continu sous les étapes ci-de
   2. message de Romeo (Loi Zéro, Geppetto contrôle la Frénésie) : décodé par Venigni en 5.5, après l'enlèvement de Geppetto.
   3. Geppetto : comptes promis "une fois cette sale histoire passée" -> enlèvement (5.5), confrontation finale (5.6).
   4. Markiona à l'hôtel, sous la garde de Venigni -> attaque de l'Hôtel Krat (5.5), où elle meurt [ACTÉ]. Qui la tue et comment : à trancher au forage 5.5.
-  5. Parrot : le mensonge des gants, Hugo informé -> trahison de l'hôtel (5.5), paiement ; Hugo nouveau Limier après la confrontation de Parrot.
+  5. Parrot : le mensonge des gants, Hugo informé -> trahison de l'hôtel (5.5), paiement ; Hugo nouveau Traqueur après la confrontation de Parrot.
   6. Claudia et Lucio : cécité freinée, pas guérie -> assaut de l'hôtel avec la Confrérie (5.5).
   7. Simon et Laxasia vus en chair ; Sophia gardée "pour son utilité" -> Allée des Alchimistes, sort de Sophia (5.6).
   8. Ergo doré livré -> accès à l'Allée (destination [À VÉRIFIER], 5.6).

@@ -39,7 +39,7 @@
 - Prototype de Zelator [DIVERGENCE RP] | Markiona y travaille en secret à Aurus (extraire l'Ergo et l'Ego de Sophia vers un pantin) ; Magnus l'a vu (5.3) sans savoir ce que c'est. Issue et révélation à trancher au forage 5.5.
 - Cécité de Lucio | fruit remis en 5.4 (Grande Exposition) : il freine la cécité sans la guérir. La Renarde a donc toujours besoin des Alchimistes, motif de l'assaut de l'hôtel (5.5). Au canon, ce don rend leurs combats du ch.11 optionnels : à garder pour la 5.6.
 - Message de Romeo (Loi Zéro, Geppetto contrôle la Frénésie) | décodé par Venigni en 5.5, après l'enlèvement de Geppetto (canon : ch.10). En 5.4, Geppetto a promis des comptes "une fois cette sale histoire passée".
-- Parrot et Hugo [DIVERGENCE RP] | mensonge des gants (5.4 : P et Magnus savent, se taisent, puis disent à Eugénie que son frère les a aimés) ; Hugo informé de l'imposture par Magnus. Paiement : trahison de Parrot à l'attaque de l'hôtel (5.5) ; Hugo nouveau Limier après la confrontation de Parrot.
+- Parrot et Hugo [DIVERGENCE RP] | mensonge des gants (5.4 : P et Magnus savent, se taisent, puis disent à Eugénie que son frère les a aimés) ; Hugo informé de l'imposture par Magnus. Paiement : trahison de Parrot à l'attaque de l'hôtel (5.5) ; Hugo nouveau Traqueur après la confrontation de Parrot.
 - Mandat de Simon (5.3) | ce que Simon attend de Claudia et Lucio n'est pas précisé (seule trace : suivre P pour localiser le Bras de Dieu, canon de la cathédrale).
 - Zone vide Ère 1 | motif de la sortie du Zelator (étape 3 de Roadmap_01) non fixé ; non bloquant.
 - Zone vide Ère 2 | pourquoi Romeo va SEUL au Zoo : laissé à l'initiative tragique ; non bloquant.

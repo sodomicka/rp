@@ -42,8 +42,8 @@ Description : fiches noyau des personnages (canon), état au point de départ.
 - Magnus_chrono_B.md (W3) - satellite : Trajectoire datée de Magnus, Ère 5 (1852+) : parties 5.1 à 5.4.
 - Laxasia.md (W3) - la Complète (VO : the Complete) / ex-Sister Adriana ; bras droit de Simon ; boss majeur.
 - Philip_Paracelsus.md (W3) - alias Giangio ; alchimiste caché ; fil du sequel (Dorothy).
-- Alidoro_et_Parrot.md (W5) - le vrai Alidoro / le Limier (VO : Tracker), et l'imposteur Parrot.
-- Hugo.md (W1) - explorateur débutant, fan d'Alidoro (Marais Aride) ; [DIVERGENCE RP] apprend de Magnus l'imposture de Parrot (1852), futur Limier.
+- Alidoro_et_Parrot.md (W5) - le vrai Alidoro / le Traqueur (VO : Tracker), et l'imposteur Parrot.
+- Hugo.md (W1) - explorateur débutant, fan d'Alidoro (Marais Aride) ; [DIVERGENCE RP] apprend de Magnus l'imposture de Parrot (1852), futur Traqueur.
 - Antonia.md (W4) - propriétaire de l'Hôtel Krat ; atteinte de Pétrification.
 - Polendina.md (W3) - majordome pantin à Ego éveillé ; amoureux d'Antonia.
 - Eugenie.md (W3) - armurière de l'hôtel ; soeur du vrai Alidoro.

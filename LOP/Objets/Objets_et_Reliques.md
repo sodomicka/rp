@@ -1,6 +1,7 @@
 # Objets et Reliques
 
-- version : W6
+- version : W7
+- note W7 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder.
 - note W6 : forage 5.4 [DIVERGENCE RP]. Message de Romeo décodé en 5.5 (rectifie W5) ; fruit de Lucio remis (Grande Exposition) ; Ergo doré livré à Venigni, destination à vérifier.
 - note W5 : forage 5.3 [DIVERGENCE RP]. Pendentif (suicide de Romeo ; Magnus le reconnaît) ; Portrait de Carlo (Hôtel de Ville du District Malum ; vu par Magnus) ; Épée de la Rose (plus d'Arlecchino en 1852). + bloc Prototype de Zelator. + Fruit d'Or (remède de Giangio, canon ; règle du coeur pur ; ersatz des Alchimistes ; les deux fruits de 5.3) ; Décodeur d'onde Ergo (Magnus entend les pantins sans appareil ; Grand Covenant ; Loi Zéro en 5.4). + l'extracteur (nuit d'Aurus).
 - note W4 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -163,10 +164,10 @@
 ## Cor nimbé d'aurore (VO : Daylight-Wreathed Horn)
 
 ### Nature
-- Corne utilisée pour invoquer/appeler le Limier (vrai Alidoro) au combat contre le Surveillant aux Deux Visages.
+- Corne utilisée pour invoquer/appeler le Traqueur (vrai Alidoro) au combat contre le Surveillant aux Deux Visages.
 
 ### Description / Faits canon
-- Donné à P par le Limier (vrai Alidoro) lors de leur rencontre à la Zelator Facility (DLC).
+- Donné à P par le Traqueur (vrai Alidoro) lors de leur rencontre à la Zelator Facility (DLC).
 - Instruction : trouver le Surveillant aux Deux Visages et sonner le Cor -> Alidoro viendra combattre à ses côtés.
 - P utilise le Cor devant le Surveillant aux Deux Visages -> Alidoro arrive en renfort.
 - Décrit dans le jeu comme "une corne achetée au pays du matin" ("country of the morning").

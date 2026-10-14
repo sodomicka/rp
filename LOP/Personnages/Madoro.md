@@ -1,6 +1,7 @@
 # Madoro
 
-- version : W3
+- version : W4
+- note W4 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder.
 - note W3 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Identité
@@ -9,7 +10,7 @@
 - Coquilles transcript : "Midoro", "Maduro".
 
 ## Rôle
-- Reporter : a publié les révélations sur les crimes des Alchimistes transmises par Alidoro (le vrai Limier).
+- Reporter : a publié les révélations sur les crimes des Alchimistes transmises par Alidoro (le vrai Traqueur).
   - Crimes documentés (cf. Alidoro_et_Parrot.md) : meurtre du Colonel Little, disparition de taxidermistes, mineur enterré vivant, meurtre du gardien de phare Columbo.
   - Conséquence : les Alchimistes ont immédiatement agi -> Madoro suspendu, article banni.
   - Alidoro mis en fuite à cause de ses révélations.
@@ -29,7 +30,7 @@
 - Timeline affectée par le DLC (Stargazer doré) :
   - Un mémo final est ajouté à son journal.
   - Ce mémo dit qu'il n'a qu'un seul regret : son ami Lumacchio.
-  - Madoro a appris par le biais d'informations révélés par P (et le Limier) la trahison de Lumacchio : sa collusion avec les Alchimistes, sa responsabilité dans l'infection de Véronique, sa mort.
+  - Madoro a appris par le biais d'informations révélés par P (et le Traqueur) la trahison de Lumacchio : sa collusion avec les Alchimistes, sa responsabilité dans l'infection de Véronique, sa mort.
   - Regret = amitié trahie, non la mort elle-même.
 - Mort : meurt dans la grotte.
   - À la fin de la grotte : un grand Carcasse est présent ; après sa défaite, il dit "perhaps it's better to end this way" -> ce Carcasse est soit Madoro soit l'ermite.
@@ -41,7 +42,7 @@
 - Dans la timeline affectée : seul regret = Lumacchio (trahison d'un ami) -> humanité et attachement.
 
 ## Relations
-- Alidoro (le vrai Limier) : source des révélations ; medic pour Eugénie après la Tour ; présumé mort ("H est mort" dans le journal).
+- Alidoro (le vrai Traqueur) : source des révélations ; medic pour Eugénie après la Tour ; présumé mort ("H est mort" dans le journal).
 - Eugénie : l'a soignée sur ordre/requête d'Alidoro.
 - Lumacchio : ami de longue date ; trahison découverte -> regret final.
 - Sophia Monad : amie, disparue (capturée par Simon).
