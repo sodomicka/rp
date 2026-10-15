@@ -1,6 +1,7 @@
 # Markiona
 
-- version : W13
+- version : W14
+- note W14 : alignement sur le mod Lies of P [DIVERGENCE RP] (décisions worldbuilder, 2026-10-15). Ange de l'Arc reconstruit : mû au Zoo par Rubedo, Marionnettiste des Alchimistes, sa copie bâtie par l'Ordre ; elle les affronte avec Magnus et P (1850).
 - note W13 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder. + [DIVERGENCE RP] Sa mort (poignardée par Geppetto pendant l'attaque), ses adieux et la bifurcation ; le silence tenu jusqu'au bout ; la perfection et ses derniers mots ; cristal de Camille confié à P ; prototype achevé et expliqué.
 - note W12 : forage 5.4 [DIVERGENCE RP]. Menace de Simon remise au passé (traîtresse déclarée depuis 1847 ; Simon la reconnaît en 5.4). Silence déchargé en partie (Romeo seul). Pire quinte (5.4) ; elle restera à l'Hôtel Krat. QUAND de sa mort fixé : pendant l'attaque de l'hôtel (5.5).
 - note W11 : forage 5.3 [DIVERGENCE RP]. Soins par absorption des cristaux ; traitement retardé ; prototype de Zelator (bloc complet dans Objets_et_Reliques) ; elle ne bride plus Magnus devant l'Aîné ; silence à son comble. + Délestage (décision worldbuilder : trajectoire séparée, 8k par satellite) : passages datés déjà portés par Markiona_chrono_A / B retirés de la fiche mère. + Pudeur : seul son fils voit ce niveau d'intimité.
@@ -43,7 +44,7 @@
   - Matériau : nacre sur laiton partout - aspect albâtre iridescent et or. La perfection esthétique de Markiona AVANT son passage à la chair (cf. Magnus). "Le meilleur des deux" lignées.
   - Sans libre arbitre ni Ego : juste un Ergo puissant. Loyale à Markiona SEULE, mais dépourvue de volonté propre.
   - Markiona ne se contente pas de lui donner des ordres : elle la MEUT comme un second corps, se battant avec ses propres outils tout en chorussant les mouvements de l'Ange pour une chorégraphie martiale parfaite. Virtuose à deux corps, pas déléguante.
-  - SORT [DIVERGENCE RP - révisé W5] : l'Ange ORIGINAL est DÉTRUIT en 1847, lors de la fuite du complexe Zelator (assaut de l'Ordre ; cf. Markiona_chrono_A). Les Alchimistes en RECONSTRUISENT ensuite une copie : c'est cette copie, sous contrôle de l'Ordre (Markiona partie), qui garde le Zoo et sert de BOSS à P en 1850. Détail de la réorchestration (qui meut la copie, clé du carnaval) -> roadmap Ère 3.
+  - SORT [DIVERGENCE RP - révisé W5] : l'Ange ORIGINAL est DÉTRUIT en 1847, lors de la fuite du complexe Zelator (assaut de l'Ordre ; cf. Markiona_chrono_A). Les Alchimistes en RECONSTRUISENT ensuite une copie, qui garde le Zoo pour l'Ordre (Markiona partie). Pour la mouvoir, l'Ordre bâtit un automate à son image, Rubedo, Marionnettiste des Alchimistes : en 1850, Markiona, Magnus et P les affrontent à trois contre deux, et la clé du carnaval tombe de Rubedo (cf. Creatures/Boss_et_Creatures.md, roadmap Ère 3).
 
 ### Zoo de Krat : maîtresse des lieux (ANTÉRIORITÉ, pré-1847)
 - Le Zoo de Krat est fondé par l'explorateur Colonel Little (a tué un lion géant, compagnon crocodile Rex).
@@ -78,7 +79,7 @@
 - cf. Personnages/Magnus.md (protagoniste du RP, fiche dédiée).
 
 ### DLC Overture (1850) : pas de confrontation avec P [DIVERGENCE RP - révisé W5]
-- Fugitive de l'Ordre depuis 1847, elle n'est plus au Zoo : P ne l'affronte PAS (le boss du Zoo est l'Ange de l'Arc reconstruit par l'Ordre). Le Surveillant aux Deux Visages est [DIVERGENCE RP] SA création, un chef de labo devenu, en son absence et au service de l'Ordre, l'instrument de la dégénérescence des Oreilles en Arbres à Fruits d'Or : une horreur qu'elle n'a JAMAIS commandée. Détail daté (chemin de croix, prototype récupéré, mêlée du Domaine de la Rose) : Markiona_chrono_A, roadmap Ère 3. cf. Creatures/Boss_et_Creatures.md, Systemes/Gold_Coin_Tree.md.
+- Fugitive de l'Ordre depuis 1847, elle n'est plus au Zoo : P ne l'affronte PAS. Le boss du Zoo est l'Ange de l'Arc reconstruit, mû par Rubedo, sa copie mécanique ; elle le combat aux côtés de Magnus et de P. Le Surveillant aux Deux Visages est [DIVERGENCE RP] SA création, un chef de labo devenu, en son absence et au service de l'Ordre, l'instrument de la dégénérescence des Oreilles en Arbres à Fruits d'Or : une horreur qu'elle n'a JAMAIS commandée. Détail daté (chemin de croix, prototype récupéré, mêlée du Domaine de la Rose) : Markiona_chrono_A, roadmap Ère 3. cf. Creatures/Boss_et_Creatures.md, Systemes/Gold_Coin_Tree.md.
 
 ## Capacités
 - Master puppeteer : gantelet de marionnettiste (similaire à celui de Geppetto), permet de se lier à ses Pantins de l'Arc via l'Ergo et de les contrôler. C'est cet outil qui éveille Magnus.

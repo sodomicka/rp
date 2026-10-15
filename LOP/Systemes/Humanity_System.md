@@ -1,6 +1,7 @@
 # Système d'humanité de P (VO : Humanity System)
 
-- version : W3
+- version : W4
+- note W4 : alignement sur le mod Lies of P [DIVERGENCE RP] (décisions worldbuilder, 2026-10-15). Les choix vérité/mensonge sont ceux de Magnus ; l'humanité qu'ils font monter est celle de P ; Magnus est humain dès son éveil.
 - note W3 : forage 5.5. Réplique de Simon corrigée (sur la ligne de Sophia, les mensonges de P) ; Belle et le message de Romeo ajoutés aux choix ; + section Dans le RP (choix laissés au joueur, humanité de P seul).
 - note W2 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
@@ -68,8 +69,8 @@
 
 ## Dans le RP [DIVERGENCE RP - Ère 5]
 
-- Les choix vérité/mensonge sont laissés au joueur ; les roadmaps notent le chemin le plus humain comme référence (décision worldbuilder, forage 5.5).
-- L'humanité n'affecte que P. Magnus est bien plus humain que son frère dès 1852 (5.1), et P ne le rattrape que très lentement.
+- Les choix vérité/mensonge sont ceux de MAGNUS, que le joueur incarne : c'est lui qui prend la parole aux moments de choix (décision worldbuilder). Les roadmaps notent le chemin le plus humain comme référence (forage 5.5).
+- L'humanité qu'ils font monter est celle de P : l'exemple de son frère l'inspire, et c'est P qui change (marques canon : cheveux, coeur qui bat, chaleur). Magnus n'a pas d'humanité à conquérir : humain dès son éveil (Ego inné), il n'en apprend que les codes (cf. Personnages/Magnus.md). P ne le rattrape que très lentement.
 
 ## Liens
 

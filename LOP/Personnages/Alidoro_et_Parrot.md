@@ -1,6 +1,7 @@
 # Alidoro et Parrot
 
-- version : W6
+- version : W7
+- note W7 : alignement sur le mod Lies of P [DIVERGENCE RP] (décisions worldbuilder, 2026-10-15). En 1850, Léa est partie devant : Alidoro se joint au trio (Magnus, Markiona, P) au complexe Zelator.
 - note W6 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder. + [DIVERGENCE RP] 5.5 : Parrot ouvre la porte et part avec les assaillants (Sophia le voit) ; aveu à la Relique ; P l'abat, Magnus retenu ; Hugo reprend le masque. Relations Eugénie, Magnus, Hugo.
 - note W5 : forage 5.4 [DIVERGENCE RP]. Parrot a dit le vrai Alidoro disparu (5.2). Au Marais (5.4) : les gants, "le meilleur appât", Hugo informé par Magnus. + Hugo (fiche dédiée).
 - note W4 : forage 5.3 [DIVERGENCE RP]. Le "quelqu'un" que P rappelle au Traqueur est Léa : il reconnaît le style sans pouvoir le nommer (1850, joué en 5.5 côté P). Locket marqué retiré du RP dans la relation P (motif de confiance : Roadmap_03, étape 7).
@@ -68,7 +69,7 @@
 - Eugénie (sa soeur) : la surveille de loin, a risqué sa vie pour la sauver, lui avait écrit une lettre cryptée. [DIVERGENCE RP - 1852 (5.5)] Son vase cryptique, déchiffré par Venigni, révèle qu'il gardait ses distances pour la protéger (canon). Chemin de référence : P et Magnus disent à Eugénie qu'« Alidoro » est mort en héros dans la Relique, mensonge par bonté [ACTÉ].
 - Parrot (ex-partenaire, son meurtrier) : l'a élevé comme partenaire de chasse aux trésors ; tué par lui. [DIVERGENCE RP - Ère 2] À cette période, Parrot est encore son partenaire vivant ; la trahison est postérieure.
 - Madoro (reporter/medic) : intermédiaire pour les révélations ; ami.
-- P : rencontré dans la Zelator Facility ; canon : lui fait confiance en voyant le locket de Monad ; allié de combat. [DIVERGENCE RP - Ère 3] Locket retiré du RP (Objets_et_Reliques, note W2) : il se joint au groupe de Léa pour détruire la création de Markiona (Roadmap_03, étape 7). Le style de P lui rappelle Léa, sans qu'il puisse la nommer (cf. Rôle, DLC).
+- P : rencontré dans la Zelator Facility ; canon : lui fait confiance en voyant le locket de Monad ; allié de combat. [DIVERGENCE RP - Ère 3] Locket retiré du RP (Objets_et_Reliques, note W2) : il se joint au trio (Magnus, Markiona, P) pour détruire le Surveillant aux Deux Visages, création de Markiona (Roadmap_03, étape 7). Le style de P lui rappelle Léa, sans qu'il puisse la nommer (cf. Rôle, DLC).
 - Valentinus Monad (indirectement) : même camp anti-Simon.
 - Markiona [DIVERGENCE RP - Ère 2] : il a documenté les crimes de l'Ordre dont elle a profité (Colonel Little -> maîtrise du Zoo). Au reveal, il enrage puis, par raisonnement, valide la sincérité de son changement. cf. Personnages/Markiona.md.
 - Léa Florence Monad, Romeo [DIVERGENCE RP - Ère 2] : co-membres de l'union des Rôdeurs ; présents avec lui au reveal. cf. Personnages/Lea_Florence_Monad.md, Romeo.md.

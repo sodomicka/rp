@@ -1,6 +1,7 @@
 # Boss et Créatures
 
-- version : W7
+- version : W8
+- note W8 : alignement sur le mod Lies of P [DIVERGENCE RP] (décisions worldbuilder, 2026-10-15). Ange de l'Arc reforgé piloté par Rubedo, Marionnettiste des Alchimistes (copie de Markiona par l'Ordre), battu à trois (Magnus, Markiona, P) ; la clé tombe de Rubedo. + bloc RUBEDO.
 - note W7 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder. + [DIVERGENCE RP] Maître du Défilé Corrompu battu à deux ; Marcheur d'Illusions au féminin ; pièces de l'Ange retrouvées (5.6) et leur destin en R6 ; Pantin sans Nom dans les deux fins de Geppetto (5.6).
 - note W6 : forage 5.4 [DIVERGENCE RP]. Champion Victor achevé par Laxasia (canon vérifié ; Paracelsus retiré) ; second Pantin Clown Enragé (Marais Aride) ; Monstre Vert : la sentinelle, et non Hugo ; Murphy reconnu par Magnus.
 - note W5 : forage 5.3 [DIVERGENCE RP]. + bloc PANTIN CLOWN ENRAGÉ (noyau, canon). Roi des Pantins : fin 1852 (étreinte de Magnus, suicide de Romeo). + Surveillant aux Deux Visages : le "quelqu'un" du Traqueur est Léa, reconnue au style sans être nommée.
@@ -12,7 +13,8 @@
 > Entités : Maître du Défilé, Veilleur Désarticulé / Murphy, Fuoco, Roi des Pantins, Pantin Clown Enragé,
 >            Marcheur d'Illusions, Champion Victor, Monstre Vert du Marais,
 >            Gardien Tourmenté des Ruines, Surveillant aux Deux Visages, prédateur tyrannique,
->            Ange de l'Arc reforgé ([DIVERGENCE RP]), Pantin sans Nom, Gardien de la Porte.
+>            Ange de l'Arc reforgé et Rubedo ([DIVERGENCE RP]), Pantin sans Nom,
+>            Gardien de la Porte.
 
 ---
 
@@ -313,17 +315,46 @@
   Pantins de l'Arc reprogrammés qui infestent le Zoo).
 - Overture (1850, plein hiver) : trouvé dans la volière du Zoo, au bout de la serre ; il garde l'accès
   au tunnel verrouillé menant à la foire / au carnaval.
-- [DIVERGENCE RP] Magnus demande à l'affronter SEUL et le détruit. La clé du tunnel verrouillé (clé du
-  carnaval) est récupérée sur sa carcasse. Canon : c'est P qui récupère la clé du carnaval ; ici, Magnus.
+- [DIVERGENCE RP] Sans Ego, il lui faut une pilote : l'Ordre l'a confié à Rubedo, Marionnettiste des Alchimistes,
+  copie de Markiona (bloc suivant). Battus à trois, par Magnus, Markiona et P ; la clé du tunnel verrouillé (clé du
+  carnaval) tombe de Rubedo, comme de Markiona au canon.
 
 ### Lien narratif
 - Boucle un fil de l'Ère 1 : l'épave laissée à Zelator en 1847 revient en gardien reforgé en 1850.
-- Sa chute en combat singulier sert de jalon à la montée en puissance de Magnus dans l'Overture
-  (synergie avec P aux abords, mais l'Ange tombe de la seule main de Magnus).
+- Premier combat du trio Magnus / Markiona / P : Markiona y affronte son ancien second corps, mû par une copie
+  d'elle-même (palier 1 de son chemin de croix).
 
 ### Sort
-- Détruit par Magnus seul (Overture, 1850).
+- Mis en pièces avec sa pilote par Magnus, Markiona et P (Overture, 1850).
 - [DIVERGENCE RP - 5.6 et R6] [ACTÉ] Ses pièces ont été récupérées : Magnus, qui le croyait détruit, les retrouve par hasard sur l'île des Alchimistes (5.6) et y voit un signe. Selon la bifurcation de la 5.5 : branche A, Magnus et Venigni le réassemblent en R6 et il devient, par la main de Magnus seul, le corps de Markiona ; son visage, qui ne lui convient pas, sert à celui de Sophia. Branche B, Magnus n'en garde que le visage, pour Sophia ; le reste lui rappelle les derniers mots de sa mère. cf. Personnages/Markiona.md, Personnages/Sophia_Monad.md.
+
+---
+
+## RUBEDO, MARIONNETTISTE DES ALCHIMISTES
+
+> [DIVERGENCE RP] Entité issue de l'OC (décision worldbuilder). cf. Personnages/Markiona.md,
+> Roadmap/Magnus/Roadmap_03_Overture.md (étape 4).
+
+### Identité
+- Nom : Rubedo, Marionnettiste des Alchimistes (décision worldbuilder). Écho de Markiona, Marionnettiste de la
+  Mort ; la rubedo est l'oeuvre au rouge, dernière phase du Grand Oeuvre alchimique.
+- Nature : automate sans Ego, bâti par l'Ordre à l'image de Markiona pour mouvoir l'Ange de l'Arc reforgé comme
+  elle le mouvait (cf. Personnages/Markiona.md, virtuose à deux corps).
+- Physique : la silhouette de Markiona (femme fine et élancée, cheveux platine), son visage moulé, sa peau
+  bleutée ; un regard fixe de pantin. Magnus et Markiona y reconnaissent un pantin au premier regard.
+- Voix : des phrases apprises de Markiona, rejouées (cf. canon, au Zoo : "tu oses troubler ce zoo avec tes caprices").
+
+### Rôle
+- Après la fuite de Markiona (1847), l'Ordre la met à la tête du Zoo : c'est le "maître éternel" qui y règne, à
+  entendre les Pantins de l'Arc reprogrammés (canon). Elle garde la clé du tunnel du carnaval.
+- Overture (1850) : dans la volière, aux commandes de l'Ange. Combat à trois contre deux (Magnus, Markiona, P).
+
+### Lien narratif
+- Prend au Zoo la place de la Markiona canon (boss du Zoo ; la clé du carnaval tombe d'elle).
+- Palier 1 du chemin de croix de Markiona : elle se voit en face, ses gestes et ses mots au service de l'Ordre.
+
+### Sort
+- Détruite au combat (Overture, 1850) ; la clé tombe d'elle. Rien n'en est récupéré.
 
 ---
 
