@@ -1,7 +1,7 @@
 # Markiona - Chronologie B (Ère 5, 1852+)
 
 - version : W5
-- note W5 : alignement sur le mod Lies of P [DIVERGENCE RP] (décision worldbuilder, 2026-10-15). Elle combat aux côtés des deux pantins (Elysion : la quinte après le combat). Au Pont, elle suit P et Magnus à l'Hôtel de Ville ; au retour, Geppetto la prend à part.
+- note W5 : alignement sur le mod Lies of P [DIVERGENCE RP] (décision worldbuilder, 2026-10-15). Elle combat aux côtés des deux pantins (Elysion : la quinte après le combat). Au Pont, elle reste avec son fils et suit les deux pantins à l'Hôtel de Ville ; au retour, Geppetto la prend à part.
 - note W4 : forage 5.5 [DIVERGENCE RP]. Lignes 5.5 (l'attaque, les adieux) ; ligne Suite recalée sur la R6.
 - note W3 : forage 5.4 [DIVERGENCE RP]. Lignes 5.4 ; ligne "Suite" recalée (mort en 5.5, pendant l'attaque de l'hôtel). Alidoro dit disparu par Parrot (5.2), et non mort.
 - note W2 : forage 5.3 [DIVERGENCE RP]. Lignes 5.3 ; ligne "Suite" recalée sur 5.4-5.6.
@@ -14,7 +14,7 @@ Satellite de Personnages/Markiona, suite de Personnages/Markiona_chrono_A. Traje
 | printemps 1852 (5.1, Gare de Krat) | Nettoie la Gare avec Magnus pendant le réveil de P | Vivante ; déclin ralenti |
 | 1852 (5.1, Hôtel Krat) | Accompagne P et Magnus à l'entrée (sa présence d'humaine permet d'entrer sans mentir) ; discute avec Antonia et la soigne - deux pétrifiées | Soignante |
 | 1852 (5.1, Boulevard Elysion) | Combat aux côtés des deux pantins ; le combat fini, quinte de toux SÉVÈRE | Déclin visible |
-| 1852 (5.1, Pont des Alchimistes) | Geppetto, son ancien collègue, comprend ce qu'est Magnus et la presse de questions ; elle refuse de livrer ses secrets au veuf de feue sa mentor Camille (cristal de Camille et Magnum Opus tus). Le laisse rentrer seul et suit les deux pantins à l'Hôtel de Ville | Secrets tenus ; cristal frôlé, EN RÉSERVE |
+| 1852 (5.1, Pont des Alchimistes) | Geppetto, son ancien collègue, comprend ce qu'est Magnus et la presse de questions ; elle refuse de livrer ses secrets au veuf de feue sa mentor Camille (cristal de Camille et Magnum Opus tus). Veut rester avec son fils : suit les deux pantins à l'Hôtel de Ville ; Geppetto rentre seul l'attendre à l'hôtel | Secrets tenus ; cristal frôlé, EN RÉSERVE |
 | 1852 (5.2, Hôtel Krat) | Au retour du trio, Geppetto la prend à part et lui révèle son rôle dans la Frénésie (Loi Zéro), la peau de Léa sur P, le rôle de Romeo, la jugeant moralement élastique. Dispute violente devant Magnus et P : elle refuse son plan ("il est allé trop loin, même pour elle") : seul son fils compte. Elle se TAIT pour épargner Magnus, qui comprendra seul | Tchekhov posé : elle sait, Magnus non |
 | 1852 (5.2, Fabrique Artisanale Venigni) | Passif avec Venigni (ex-collègues au Parlement des Artisans), désamorcé d'une phrase : "on a tué Arlecchino il y a deux ans". En marge, méfiance envers la Renarde Rousse et le Chat Noir | Venigni réconcilié |
 | 1852 (5.2, Village Clair-de-Lune) | Devant les Carcasses, ADMET ses horreurs (contraste avec le "je ne regrette rien" de 1850), tout en maintenant que son passé entier fut nécessaire pour concevoir son fils | Palier de rachat : l'aveu |
