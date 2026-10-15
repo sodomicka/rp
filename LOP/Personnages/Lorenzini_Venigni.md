@@ -1,6 +1,7 @@
 # Lorenzini Venigni
 
-- version : W5
+- version : W6
+- note W6 : alignement sur le mod Lies of P [DIVERGENCE RP] (décision worldbuilder, 2026-10-15). En 1852, Markiona combat aux côtés de P et de Magnus : Fuoco détruit par le trio.
 - note W5 : forage 5.5 [DIVERGENCE RP]. Promesse déjouée par Markiona ; Stargazer relancé ; corps confié jusqu'à la R6 ; décodage sans le nom ; confidences à Magnus, par confiance (Arlecchino). Ergo doré : le sous-marin (rectifie W4). + Sort R6 selon la branche.
 - note W4 : forage 5.4 [DIVERGENCE RP]. Message de Romeo décodé en 5.5 (rectifie W3). + Guide le trio depuis un Stargazer ; reçoit l'Ergo doré (destination à vérifier) et le vase d'Hugo ; promet de protéger Markiona.
 - note W3 : forage 5.3 [DIVERGENCE RP]. Décodeur remis au hub au retour de la cathédrale ; Venigni découvre que Magnus entend les pantins sans appareil ; ni P ni Magnus ne répondent au Grand Covenant. Message de Romeo (Loi Zéro) décodé en 5.4.
@@ -27,7 +28,7 @@
   - P trouve Venigni caché ; celui-ci croit d'abord que P vient le tuer, puis se rend compte qu'il n'est pas hostile.
   - Venigni demande de l'aide pour retrouver son majordome Pulcinella, parti barricader la porte arrière et non revenu (cf. Personnages/Pulcinella.md).
   - Après que P vainc Fuoco (la Flamme du Roi qui tenait l'usine), Venigni et Pulcinella sont ramenés sains et saufs à l'Hôtel Krat.
-  - [DIVERGENCE RP - 1852] P vient avec Magnus et Markiona. Venigni et Markiona, ex-collègues au Parlement des Artisans, ont un passif : hostilité d'entrée. Elle la désamorce d'une phrase : "on a tué Arlecchino il y a deux ans" (1850, Domaine de la Rose : P, Léa, Magnus, Markiona). Venigni s'effondre en larmes et les remercie. Fuoco est détruit par P et Magnus ; Venigni répare Pulcinella et s'installe au hub. cf. Roadmap_05_2_La_Ville_Malade.
+  - [DIVERGENCE RP - 1852] P vient avec Magnus et Markiona. Venigni et Markiona, ex-collègues au Parlement des Artisans, ont un passif : hostilité d'entrée. Elle la désamorce d'une phrase : "on a tué Arlecchino il y a deux ans" (1850, Domaine de la Rose : P, Léa, Magnus, Markiona). Venigni s'effondre en larmes et les remercie. Fuoco est détruit par le trio ; Venigni répare Pulcinella et s'installe au hub. cf. Roadmap_05_2_La_Ville_Malade.
 - Après la fermeture de l'usine, Venigni devient un PNJ ressource à l'Hôtel Krat :
   - donne à P le décodeur d'onde Ergo, qu'il a créé pour trouver l'erreur dans l'imprint des pantins et décrypter les ondes d'Ergo de la Frénésie (cf. Objets/Objets_et_Reliques.md, Systemes/Puppet_Frenzy.md) ;
     - [DIVERGENCE RP - 1852 (5.3)] Remis à P au hub, au retour de la cathédrale : cap sur Malum ; P le garde. Venigni découvre alors que Magnus entend les pantins SANS appareil. Ni Magnus ni P ne répondent au Grand Covenant ; ni l'un ni l'autre ne sait rien de la Loi Zéro.

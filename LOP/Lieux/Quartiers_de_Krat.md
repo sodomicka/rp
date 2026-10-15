@@ -1,6 +1,7 @@
 # Quartiers de Krat
 
-- version : W6
+- version : W7
+- note W7 : alignement sur le mod Lies of P [DIVERGENCE RP] (décision worldbuilder, 2026-10-15). En 1852, Markiona combat aux côtés de P et de Magnus : le Clown, le Roi des Pantins (phase 1) et le second Clown face au trio.
 - note W6 : forage 5.5 [DIVERGENCE RP]. Gare (ch.9 : corruption, wagon d'éveil et petit atelier de Geppetto, Atkinson ; retour du duo) ; Tour des Artisans (Marcheur d'Illusions au féminin ; retour de Magnus sur le charnier de 1851, alerte de Sophia) ; Opéra : message décodé en 5.5 (rectifie W5).
 - note W5 : forage 5.4 [DIVERGENCE RP]. Hugo retiré de la Gare Centrale (il n'y apparaît pas) ; Arcade Lorenzini (téléphérique, passage du trio) ; Marais Aride : Carnet de la sentinelle au lieu du "journal du rôdeur", Ergo doré (destination à vérifier), Hugo, second Clown, Chouette Médecin dans sa cabane, passage du trio.
 - note W4 : forage 5.3 [DIVERGENCE RP]. District Malum (route du trio, Claudia et Lucio, la Confrérie dans la cour de l'Hôtel de Ville, ascenseur vers l'Hôtel Krat) ; chemin du pèlerin (route de 5.3, Stargazer doré inactif) ; Rue Rosa Isabel (Clown, Julian, la Dame Blanche épargnée) ; Opéra (confession devant Patricia ; fin de Romeo ; message décodé en 5.4). + Retour par les tunnels détaché de Malum ; liens morts réparés.
@@ -112,7 +113,7 @@
 - P gagne accès à l'Opéra Estella dans cette zone. Cf. Opéra Estella ci-dessous.
 - Subject 826 rencontré ici après l'abbaye. "Il parle d'une relique retournée à sa place sacrée et les
   portes qui s'ouvrent." Donne un indice à P. Cf. Personnages/PNJ_secondaires.md.
-- [DIVERGENCE RP - 1852 (5.3)] Le trio y entre avec la clé d'Antonia. À Julian, Magnus répond par une preuve d'amour. La Dame Blanche attaque le trio ; vaincue, épargnée, elle l'accompagne jusqu'à l'Opéra. Le Clown, vaincu par P et Magnus, Markiona en retrait.
+- [DIVERGENCE RP - 1852 (5.3)] Le trio y entre avec la clé d'Antonia. À Julian, Magnus répond par une preuve d'amour. La Dame Blanche attaque le trio ; vaincue, épargnée, elle l'accompagne jusqu'à l'Opéra. Le Clown, vaincu par le trio.
 
 ---
 
@@ -133,7 +134,7 @@
 - Après l'opéra : P affronte le Roi des Pantins (Romeo). Combat final du Roi des Pantins. Cf.
   Personnages/Romeo.md, SB6.
 - Canon : Romeo reconnaît P comme porteur de l'Ergo de Carlo ; il tend la main, ne veut pas le combattre ; vaincu, il remercie P et meurt. Son message (Carlo, je suis Romeo, nous avons grandi ensemble à la Maison de Charité Monad. Je t'ai envoyé des messagers mais tu les as éliminés) est décodé par Venigni au décodeur d'onde Ergo, en 5.5. Cf. Personnages/Romeo.md, Objets/Objets_et_Reliques.md.
-- [DIVERGENCE RP - 1852 (5.3)] Phase 1 contre P et Magnus ; en phase 2, pas de combat : Magnus le reconnaît et l'étreint ; Romeo se donne la mort. P récupère le Pendentif de diplôme de Carlo. Geppetto rejoint le trio derrière la scène (canon). cf. Personnages/Romeo.md, Creatures/Boss_et_Creatures.md.
+- [DIVERGENCE RP - 1852 (5.3)] Phase 1 contre le trio ; en phase 2, pas de combat : Magnus le reconnaît et l'étreint ; Romeo se donne la mort. P récupère le Pendentif de diplôme de Carlo. Geppetto rejoint le trio derrière la scène (canon). cf. Personnages/Romeo.md, Creatures/Boss_et_Creatures.md.
 
 ---
 
@@ -182,7 +183,7 @@
   Journal : contaminé, manque d'eau, aidé par un ermite. Mentionne ses amis (Lumacchio malade, Sophia
   disparue, Venigni sans espoir, H=Alidoro présumé mort). Meurt ; grand carcass dans la grotte. Cf.
   Personnages/Madoro.md.
-- [DIVERGENCE RP - 1852 (5.4)] Le trio y va en tram. P et Magnus détruisent le second Clown. Parrot y
+- [DIVERGENCE RP - 1852 (5.4)] Le trio y va en tram. Le trio détruit le second Clown. Parrot y
   chasse le trésor et reçoit les gants d'Eugénie ; un pantin blanc brisé, à qui P apprend les émotions par
   les gestes (canon), et que Magnus entend sans appareil. Le Chouette Médecin, vaincu, est épargné et rallie
   Aurus. Au pont, Magnus apprend à Hugo que l'Alidoro de l'hôtel est un imposteur. Dans le Monstre Vert,

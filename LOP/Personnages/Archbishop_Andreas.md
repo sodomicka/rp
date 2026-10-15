@@ -1,6 +1,7 @@
 # Archbishop Andreas
 
-- version : W2
+- version : W3
+- note W3 : alignement sur le mod Lies of P [DIVERGENCE RP] (décision worldbuilder, 2026-10-15). En 1852, Markiona combat aux côtés de P et de Magnus : Andreas vaincu par le trio.
 - note W2 : forage 5.2 [DIVERGENCE RP]. Vaincu par P et Magnus ; jubilation de Markiona (sens : son fils dépasse l'apogée de l'alchimie). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Identité
@@ -60,7 +61,7 @@
 - Mute en forme grotesque (Ange à une Aile auto-proclamé).
 - Boss de la cathédrale.
 - Tué par P.
-- [DIVERGENCE RP - 1852] Vaincu par P ET Magnus. Markiona jubile : non d'abattre un agent de l'Ordre (Andreas en est alors l'ennemi), mais de voir son fils, le pantin parfait, terrasser le faux ange. Cutscene canon : première ombre de Simon Manus. cf. Personnages/Markiona.md.
+- [DIVERGENCE RP - 1852] Vaincu par le trio (P, Magnus, Markiona). Markiona jubile : non d'abattre un agent de l'Ordre (Andreas en est alors l'ennemi), mais de voir son fils, le pantin parfait, terrasser le faux ange. Cutscene canon : première ombre de Simon Manus. cf. Personnages/Markiona.md.
 
 ## Trajectoire datée
 | Date/ère | Événement | Delta d'état |
@@ -71,7 +72,7 @@
 | Post-cure | Découvre le mensonge ; jure vengeance | Rage contre l'Ordre |
 | Recueille Cécile | Fait voler le Bras de Dieu via Cécile | Possession de la relique |
 | Base game | Mute ; folie ; déclare être l'Ange à une Aile | Perte d'humanité |
-| 1852 (5.2, cathédrale) | Boss : combat P et Magnus [DIV RP] -> tué | Mort |
+| 1852 (5.2, cathédrale) | Boss : combat le trio [DIV RP] -> tué | Mort |
 
 ---
 

@@ -1,6 +1,7 @@
 # Boss et Créatures
 
-- version : W8
+- version : W9
+- note W9 : alignement sur le mod Lies of P [DIVERGENCE RP] (décision worldbuilder, 2026-10-15). En 1852, Markiona combat aux côtés de P et de Magnus jusqu'au Marais : Maître du Défilé, Veilleur Désarticulé, Fuoco, Roi des Pantins (phase 1), les deux Clowns, Victor et le Monstre Vert vaincus par le trio.
 - note W8 : alignement sur le mod Lies of P [DIVERGENCE RP] (décisions worldbuilder, 2026-10-15). Ange de l'Arc reforgé piloté par Rubedo, Marionnettiste des Alchimistes (copie de Markiona par l'Ordre), battu à trois (Magnus, Markiona, P) ; la clé tombe de Rubedo. + bloc RUBEDO.
 - note W7 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder. + [DIVERGENCE RP] Maître du Défilé Corrompu battu à deux ; Marcheur d'Illusions au féminin ; pièces de l'Ange retrouvées (5.6) et leur destin en R6 ; Pantin sans Nom dans les deux fins de Geppetto (5.6).
 - note W6 : forage 5.4 [DIVERGENCE RP]. Champion Victor achevé par Laxasia (canon vérifié ; Paracelsus retiré) ; second Pantin Clown Enragé (Marais Aride) ; Monstre Vert : la sentinelle, et non Hugo ; Murphy reconnu par Magnus.
@@ -38,7 +39,7 @@
 
 ### Sort
 - Vaincu par P deux fois.
-- [DIVERGENCE RP - 1852] Premier combat : vaincu par P et Magnus (Gare de Krat / Ruelle Cerasani), Markiona en retrait.
+- [DIVERGENCE RP - 1852] Premier combat : vaincu par le trio (P, Magnus, Markiona) (Gare de Krat / Ruelle Cerasani).
 - [DIVERGENCE RP - 1852 (5.5)] Second combat : sa version corrompue, ruelle Cerasani, sur la course vers l'hôtel attaqué. P et Magnus le battent ensemble ; P court désormais aussi vite que son frère.
 
 ---
@@ -63,7 +64,7 @@
 
 ### Sort
 - Vaincu par P à l'Hôtel de Ville.
-- [DIVERGENCE RP - 1852] Vaincu par P et Magnus. Magnus, qui comprend la langue des pantins, traduit à P ses ondes d'Ergo : la rage d'un gardien dont les enfants avec qui il jouait sont morts, impossible à raisonner à cause de la Frénésie (conforme au canon ci-dessus). cf. Personnages/Magnus.md.
+- [DIVERGENCE RP - 1852] Vaincu par le trio (P, Magnus, Markiona). Magnus, qui comprend la langue des pantins, traduit à P ses ondes d'Ergo : la rage d'un gardien dont les enfants avec qui il jouait sont morts, impossible à raisonner à cause de la Frénésie (conforme au canon ci-dessus). cf. Personnages/Magnus.md.
 - Corps probablement recyclé/fusionné avec le Monstre Vert du Marais.
 - [DIVERGENCE RP - 1852 (5.4)] Au Marais Aride, Magnus reconnaît son corps dans le Monstre Vert : le messager de Romeo dont il avait traduit la rage. Un deuil de plus.
 
@@ -95,7 +96,7 @@
 
 ### Sort
 - Vaincu par P à la Fabrique Artisanale Venigni.
-- [DIVERGENCE RP - 1852] Vaincu par P et Magnus ; Markiona en retrait. Pulcinella est retrouvé derrière l'arène. cf. Personnages/Pulcinella.md.
+- [DIVERGENCE RP - 1852] Vaincu par le trio (P, Magnus, Markiona). Pulcinella est retrouvé derrière l'arène. cf. Personnages/Pulcinella.md.
 
 ---
 
@@ -123,7 +124,7 @@
 
 ### Sort
 - Canon : vaincu par P à l'Opéra.
-- [DIVERGENCE RP - 1852 (5.3)] Phase 1 : vaincu par P et Magnus, Markiona présente. Phase 2 : pas de combat ; Magnus le reconnaît et l'étreint ; Romeo se donne la mort (sa lame dans son coeur d'Ergo). P récupère le Pendentif de diplôme de Carlo. cf. Personnages/Romeo.md.
+- [DIVERGENCE RP - 1852 (5.3)] Phase 1 : vaincu par le trio (P, Magnus, Markiona). Phase 2 : pas de combat ; Magnus le reconnaît et l'étreint ; Romeo se donne la mort (sa lame dans son coeur d'Ergo). P récupère le Pendentif de diplôme de Carlo. cf. Personnages/Romeo.md.
 - Timeline passée DLC : mourant après le combat contre Arlecchino et P.
 
 ---
@@ -141,8 +142,8 @@
 - Un second exemplaire, électrique, garde l'entrée du Marais Aride (ch.8 ; mêmes attaques) [CANON SUPPOSÉ].
 
 ### Sort
-- [DIVERGENCE RP - 1852 (5.3)] Vaincu par P et Magnus, Markiona en retrait.
-- [DIVERGENCE RP - 1852 (5.4)] Le second, au Marais Aride, détruit par P et Magnus.
+- [DIVERGENCE RP - 1852 (5.3)] Vaincu par le trio (P, Magnus, Markiona).
+- [DIVERGENCE RP - 1852 (5.4)] Le second, au Marais Aride, détruit par le trio.
 
 ---
 
@@ -193,7 +194,7 @@
 ### Sort
 - Vaincu par P (deux phases).
 - Achevé par Laxasia avant que P puisse le finir.
-- [DIVERGENCE RP - 1852 (5.4)] Affronté par P et Magnus.
+- [DIVERGENCE RP - 1852 (5.4)] Affronté par le trio (P, Magnus, Markiona).
 
 ---
 
@@ -219,7 +220,7 @@
 
 ### Sort
 - Vaincu par P. Corps laissé dans le marais.
-- [DIVERGENCE RP - 1852 (5.4)] Vaincu par P et Magnus. Quand il fusionne avec le corps du Veilleur, Magnus reconnaît Murphy. P récupère l'Ergo doré ; Parrot l'appelle "le meilleur appât d'Alidoro". Après le combat, Markiona fait sa pire quinte.
+- [DIVERGENCE RP - 1852 (5.4)] Vaincu par le trio (P, Magnus, Markiona). Quand il fusionne avec le corps du Veilleur, Magnus reconnaît Murphy. P récupère l'Ergo doré ; Parrot l'appelle "le meilleur appât d'Alidoro". Après le combat, Markiona fait sa pire quinte.
 
 ---
 

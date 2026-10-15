@@ -1,6 +1,7 @@
 # Pulcinella
 
-- version : W2
+- version : W3
+- note W3 : alignement sur le mod Lies of P [DIVERGENCE RP] (décision worldbuilder, 2026-10-15). En 1852, Markiona combat aux côtés de P et de Magnus : Fuoco vaincu par le trio.
 - note W2 : forage 5.2. Retrouvé détruit mais réparable derrière l'arène de Fuoco ; réparé par Venigni ; marchand à l'Hôtel Krat. Trajectoire 1852. + Francisation VF (Rôdeurs, Balayeurs, Bâtards). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
 ## Identité
@@ -41,7 +42,7 @@
 |---|---|---|
 | Âge d'or de Krat | Majordome pantin au service de Venigni | En fonction |
 | Base game (Frénésie) | Rôdeurs abandonnent l'usine ; part barricader la porte arrière | Disparu |
-| 1852 (5.2) | P et Magnus vainquent Fuoco ; Pulcinella retrouvé détruit mais réparable | Secourable |
+| 1852 (5.2) | Le trio vainc Fuoco ; Pulcinella retrouvé détruit mais réparable | Secourable |
 | 1852 (5.2) | Réparé par Venigni ; s'installe marchand à l'Hôtel Krat | En sécurité, au hub |
 
 ---
