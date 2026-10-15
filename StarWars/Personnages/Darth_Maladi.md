@@ -1,6 +1,6 @@
 # Darth Maladi
 
-- version : W3
+- version : W4
 
 ## Identite
 - Darth Maladi, dite Lady Maladi, nee Malincha. Entite de lore canon (Legends).
@@ -75,6 +75,8 @@
 | 137 ABY | Varra se revele devant Krayt : elle reconnait la bete rayee en 133 sur la parole de Talon | se tait et garde la carte du mensonge pour plus tard |
 | 137 ABY | Torture Cade au poison, sans effet ; implante des graines vong a Jariah Syn et Deliah Blue | - |
 | 137 ABY | Krayt lui interdit de recoudre le bras de Nihl | - |
+| 137 ABY | Reconnaît l'alchimie Sith derrière le rakghoul Reave | - |
+| 137 ABY | Had Abbadon : tient Shado en échec, puis combat Muur aux côtés de Krayt ; blessée par la tempête d'éclairs | soignée sur Korriban |
 
 ---
 

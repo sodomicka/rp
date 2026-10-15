@@ -1,6 +1,6 @@
 # Darth Talon (Devon Izara)
 
-- version : W6
+- version : W7
 
 ## Identite
 - Devon Izara ; Darth Talon a partir du sacre (137 ABY), nom donne par Krayt. Entite de lore canon (Legends). Nom de naissance repris de la Devon Izara de Maul - Shadow Lord (Disney), personnage ecarte de cet univers. [DIVERGENCE RP]
@@ -76,6 +76,9 @@
 | 137 ABY | Krayt la fait maitre de Cade : une epreuve, former un disciple dans les regles | couche avec Cade pour le rendre accro ; n'y prend plaisir qu'en pensant a Varra, pressentiment refoule |
 | 137 ABY | Rattrape Cade qui fuit de nuit | - |
 | 137 ABY | Evasion : Cade l'empale avec le sabre de son pere | mourante ; longue cuve de bacta, Varra gardien de sa stase |
+| 137 ABY | Sort de cuve après quelques mois ; froide en façade, remercie Varra de l'avoir protégée et l'embrasse sur la joue | refoule ce qui a bougé |
+| 137 ABY | Had Abbadon : battue par Cade ; à terre, entend Varra dire qu'elle mérite mieux que Cade, et mieux que lui ; assommée par l'explosion | un pas de plus vers l'amour avoué |
+| 137 ABY | Soignée sur Korriban ; Wyyrlok annonce que Krayt dort en stase | - |
 
 ---
 

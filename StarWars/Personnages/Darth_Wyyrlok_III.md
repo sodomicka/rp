@@ -1,6 +1,6 @@
 # Darth Wyyrlok III
 
-- version : W2
+- version : W3
 
 ## Identite
 - Darth Wyyrlok, troisieme du nom. Entite de lore canon (Legends).
@@ -67,6 +67,8 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 137 ABY | Assiste a l'audience ou Krayt revele son passe a Cade | - |
+| 137 ABY | Met Krayt en garde contre Muur ; reste en orbite d'Had Abbadon | - |
+| 137 ABY | Foudroie Krayt au pied de la falaise, le croit mort et cache le corps sur Korriban ; fait soigner les Sith et leur dit que Krayt dort en stase | tient l'Ordre ; Stryfe lui jure fidélité |
 
 ---
 

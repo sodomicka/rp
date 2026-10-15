@@ -1,6 +1,6 @@
 # Cade Skywalker
 
-- version : W3
+- version : W4
 
 ## Identite
 - Cade Skywalker. Entite de lore canon (Legends).
@@ -80,6 +80,9 @@
 | 137 ABY | Audience : rouvre les blessures de Talon, puis la soigne | lien de Force avec Talon |
 | 137 ABY | Forme par Talon, liaison avec elle ; Etreinte de la douleur ; fuite ratee ; refuse de tuer Hosk | - |
 | 137 ABY | Evasion : empale Talon, tranche le bras de Nihl, refuse de l'achever ; sa mere tire sur Krayt, il fuit sur le Mynock | reprend le sabre de son pere ; apprend que Morrigan Corde est sa mere |
+| 137 ABY | Retrouve Azlyn Rae ; au Temple caché de Taivas, les Jedi refusent l'assassinat de Krayt ; il part quand même | - |
+| 137 ABY | Iron Sun : mordu par un rakghoul, se guérit et guérit Azlyn ; s'allie à Celeste Morne | - |
+| 137 ABY | Had Abbadon : bat Talon puis Stryfe ; démonté par Varra, à qui il révèle sa liaison avec Talon ; sauvé par l'explosion de Jariah, il épargne Varra inconscient. Tue Morne à sa demande et brise le talisman | Azlyn mourante, emportée chez les Rawk |
 
 ---
 

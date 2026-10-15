@@ -1,6 +1,6 @@
 # Shado Vao
 
-- version : W1
+- version : W2
 
 ## Identite
 - Shado Vao. Entite de lore canon (Legends).
@@ -43,6 +43,8 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 137 ABY | Vendaxa : retrouve Astraal et Cade ; duel contre Talon, il revele sa seconde lame | - |
+| 137 ABY | Au Temple caché de Taivas, retrouve Cade ; le suit pour tuer Krayt | - |
+| 137 ABY | Had Abbadon : tenu en échec par Maladi | - |
 
 ---
 
