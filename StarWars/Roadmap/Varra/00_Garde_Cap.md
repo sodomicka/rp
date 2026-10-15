@@ -1,6 +1,6 @@
 # 00_Garde_Cap
 
-- version : W2
+- version : W3
 
 ## Cadre
 - role : ligne directrice de la saga, perspective Varra. Porte les beats voulus par le worldbuilder et sert de base au decoupage des roadmaps. Previsionnel : quand une roadmap s'en ecarte, la roadmap fait foi et le garde-cap se recale.
@@ -15,7 +15,7 @@
 
 ## Fils transverses
 - Varra et les missions de Talon : il l'accompagne ou non au cas par cas, mission par mission (tranche en roadmap). [RP]
-- Cade : liaison Talon - Cade en R2, manipulation de Talon, qui n'y pense qu'a Varra. Varra l'apprend apres l'evasion de Cade, dans une roadmap suivante. Dans tous les cas, Cade se fait demonter par Varra. [RP]
+- Cade : liaison Talon - Cade en R2, manipulation de Talon, qui n'y pense qu'a Varra. Varra l'apprend en R3, sur Had Abbadon, de la bouche de Cade, et le demonte. Dans tous les cas, Cade se fait demonter par Varra. [RP]
 - Secret de lignee : Krayt revele a Talon que Ruyn etait son grand-pere. Moment a placer en roadmap. [RP]
 - Fausse piste de 133 : quand Varra se revele, Maladi reconnait la bete qu'elle a rayee sur la parole de Talon et se tait. Elle garde cette carte et l'utilisera plus tard (moment a placer en roadmap). [RP]
 
@@ -40,11 +40,13 @@
 - [RP] Varra quitte son poste : il sent une perturbation dans la Force, celle qu'il aime est aux portes de la mort. Pas le temps de rattraper le traitre : le plus urgent est de sauver sa maitresse. Inquiet, il la rejoint en bondissant sans effort d'immeuble en immeuble, facon Hulk. Cade lui echappe ; il le demontera plus tard (cf. Fils transverses).
 - [RP] Sur suggestion de Nihl, Krayt rend Varra a Talon et en fait le gardien de sa stase.
 
-## 137-138 ABY - Had Abbadon
-- Karness Muur, esprit Sith qui possede la Jedi Celeste Morne, offre a Krayt de le guerir et de lui livrer Cade s'il vient sur Had Abbadon. C'est un piege.
-- Krayt vient avec Maladi, Stryfe et Talon ; Wyyrlok III reste en orbite.
-- Talon affronte Cade ; les explosifs de Jariah Syn assomment tout le monde.
-- Krayt, poignarde par Azlyn Rae et foudroye par Morne, tombe d'une falaise et survit. Wyyrlok III le foudroie, le croit mort et cache le corps en stase dans le temple de XoXaan, sur Korriban.
+## 137 ABY - Had Abbadon
+- [RP] Varra veille la cuve de Talon quelques mois. À son réveil, froide en façade, elle le remercie de l'avoir protégée et l'embrasse sur la joue.
+- Karness Muur, esprit Sith qui possède la Jedi Celeste Morne, offre à Krayt de le guérir et de lui livrer Cade s'il vient sur Had Abbadon. C'est un piège de Cade et de Morne.
+- Krayt vient avec Maladi, Stryfe et Talon ; Wyyrlok III reste en orbite. [RP] Talon emmène Varra.
+- Cade bat Talon, puis Stryfe. [RP] Varra, retenu par les rakghouls, arrive après ; Cade, acculé, lui révèle sa liaison avec Talon. Varra le démonte en prenant son temps, et Talon, à terre, l'entend dire qu'elle mérite mieux que Cade, et mieux que lui. Les explosifs de Jariah Syn assomment Varra, Talon et Stryfe ; Cade, protégé par le corps de Varra, l'épargne.
+- Krayt, poignardé par Azlyn Rae et foudroyé par Muur, tombe d'une falaise et survit. Wyyrlok III le foudroie, le croit mort et cache le corps en stase dans le temple de XoXaan, sur Korriban. Cade tue Morne à sa demande et brise le talisman.
+- Wyyrlok III fait soigner les Sith sur Korriban et leur ment : Krayt dort en stase.
 
 ## 138 ABY - Le tombeau
 - Wyyrlok III poste Talon a la garde du tombeau. Maladi le soupconne et envoie Nihl a Korriban : Nihl et Talon trouvent le corps disparu.
@@ -64,7 +66,7 @@
 ## Decoupage en roadmaps
 - R1 - Le sacre et la princesse (137 ABY) : du sacre a la sentence.
 - R2 - Cade au Temple (137 ABY) : de la sentence a l'evasion de Cade.
-- R3 - Had Abbadon (137-138 ABY) : de la convalescence de Talon a la chute de Krayt.
+- R3 - Had Abbadon (137 ABY) : de la cuve de Talon au reveil sur Korriban.
 - R4 - Le tombeau (138 ABY) : de la regence de Wyyrlok III a sa mort.
 - R5 - La guerre (138 ABY) : de Draco a la mort de Krayt.
 - R6 et suivantes - Apres Krayt : a decouper quand on y sera.

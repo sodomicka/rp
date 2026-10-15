@@ -1,6 +1,6 @@
 # Darth Krayt (A'Sharad Hett)
 
-- version : W5
+- version : W6
 
 ## Identite
 - Darth Krayt, ne A'Sharad Hett. Entite de lore canon (Legends).
@@ -69,6 +69,8 @@
 | 137 ABY | Revele a Cade qu'il fut A'Sharad Hett ; lui fait guerir Talon et la nomme son maitre | - |
 | 137 ABY | Tue Hosk Trey'lis devant Cade | - |
 | 137 ABY | Evasion : Morrigan Corde lui tire dans le dos ; Cade lui echappe | Stryfe remplace Nihl comme Main ; Varra rendu a Talon, gardien de sa stase |
+| 137 ABY | Massacre sur Dac ; retourne en stase | - |
+| 137 ABY | Had Abbadon : attiré par la promesse de guérison de Muur ; poignardé par Azlyn Rae, foudroyé, il tombe d'une falaise et survit. Wyyrlok le foudroie et le croit mort | en stase dans le temple de XoXaan, sur Korriban, à l'insu de l'Ordre |
 
 ---
 

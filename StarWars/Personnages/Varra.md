@@ -1,6 +1,6 @@
 # Varra
 
-- version : W7
+- version : W8
 
 ## Identite
 - Varra. Protagoniste ; OC, entite de lore neutre. [DIVERGENCE RP]
@@ -77,6 +77,10 @@
 | 137 ABY | Poste en sentinelle dans les bas-fonds, sur les tunnels de l'infiltration | - |
 | 137 ABY | Evasion de Cade : sent Talon mourante, deserte son poste et la rejoint d'immeuble en immeuble ; Cade est deja parti | - |
 | 137 ABY | Sur suggestion de Nihl, Krayt le rend a Talon et en fait le gardien de sa stase | de nouveau aupres de Talon ; ignore sa liaison avec Cade |
+| 137 ABY | Veille la cuve de Talon pendant quelques mois | - |
+| 137 ABY | Au réveil, Talon le reprend en main froidement, mais le remercie de l'avoir protégée et l'embrasse sur la joue | - |
+| 137 ABY | Had Abbadon : retenu par les rakghouls, il trouve Talon battue ; Cade lui révèle leur liaison. Il le démonte en prenant son temps et vide son sac devant Talon ; l'explosion de Jariah l'assomme, Cade l'épargne | sait que Talon a couché avec Cade |
+| 137 ABY | Se réveille soigné sur Korriban ; Wyyrlok annonce que Krayt dort en stase | - |
 
 ---
 

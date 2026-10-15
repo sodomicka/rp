@@ -1,6 +1,6 @@
 # Darth Stryfe
 
-- version : W1
+- version : W2
 
 ## Identité
 - Darth Stryfe. Entité de lore canon (Legends).
@@ -45,6 +45,9 @@
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
 | 137 ABY | Après l'évasion de Cade, Krayt le nomme Main à la place de Nihl | seconde Main, aux côtés de Talon |
+| 137 ABY | Décapite Darth Reave, changé en rakghoul devant Krayt | - |
+| 137 ABY | Had Abbadon : battu par Cade, mis hors de combat par l'explosion de Jariah | soigné sur Korriban |
+| 137 ABY | Ne sent plus Krayt, attaque Saarai ; Wyyrlok le convainc que Krayt dort en stase | jure fidélité à Wyyrlok |
 
 ---
 

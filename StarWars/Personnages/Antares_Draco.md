@@ -1,6 +1,6 @@
 # Antares Draco
 
-- version : W1
+- version : W2
 
 ## Identite
 - Antares Draco. Entite de lore canon (Legends).
@@ -47,6 +47,7 @@
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 137 ABY | Vendaxa : vient sauver Marasiah contre les ordres de Fel ; ejecte Talon du Mynock au decollage | - |
+| 137 ABY | Suit Cade pour tuer Krayt ; sur Had Abbadon, tente de voler le talisman de Muur pour Fel | - |
 
 ---
 
