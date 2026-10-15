@@ -1,6 +1,7 @@
 # Grande Exposition
 
-- version : W4
+- version : W5
+- note W5 : alignement sur le mod Lies of P [DIVERGENCE RP] (décision worldbuilder, 2026-10-15). En 1852, Markiona combat aux côtés de P et de Magnus : Victor affronté par le trio.
 - note W4 : forage 5.4 [DIVERGENCE RP]. Victor achevé par Laxasia (canon vérifié), et non par Simon ; Simon face au trio ; Belle rejoint l'hôtel ; la Renarde au téléphérique (fruit de Lucio) ; message de Romeo décodé en 5.5 (rectifie W3).
 - note W3 : forage 5.3. Ordre des zones recalé (le District Malum, ch.5, précède la Grande Exposition, ch.7) ; décodeur et message de Romeo recalés (message décodé en 5.4) ; liens Boss_et_Creatures réparés.
 - note W2 : réaccentuation (fin de la règle ASCII) et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -34,7 +35,7 @@
   de Krat". Parle d'évolution devenant réelle. Vaincu une première fois, puis pompé de drogue -> second
   combat. Avant que P puisse le finir, Laxasia lui lance son épée dans le dos et le tue d'un coup (canon
   vérifié : TV Tropes, Characters/LiesOfP) ; Simon Manus paraît ensuite. Premier contact direct de P avec
-  Simon. [DIVERGENCE RP - 1852 (5.4)] Victor est affronté par P et Magnus. Cf. Creatures/Boss_et_Creatures.md,
+  Simon. [DIVERGENCE RP - 1852 (5.4)] Victor est affronté par le trio. Cf. Creatures/Boss_et_Creatures.md,
   Personnages/Laxasia.md, Personnages/Simon_Manus.md.
 - Rencontre avec Simon : Simon se présente, applaudit P, explique que l'Ergo est "la forme cristallisée
   de l'essence de la vie humaine, les âmes en substance", que c'est pourquoi il fonctionne si bien avec

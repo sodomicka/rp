@@ -1,6 +1,7 @@
 # Markiona
 
-- version : W14
+- version : W15
+- note W15 : alignement sur le mod Lies of P [DIVERGENCE RP] (décision worldbuilder, 2026-10-15). Combattante à distance : sphères d'Ergo pur, soins à distance de son fils ; aux côtés de Magnus et de P en 1850 comme en 1852, jusqu'au Marais Aride. Plus de retrait face aux boss.
 - note W14 : alignement sur le mod Lies of P [DIVERGENCE RP] (décisions worldbuilder, 2026-10-15). Ange de l'Arc reconstruit : mû au Zoo par Rubedo, Marionnettiste des Alchimistes, sa copie bâtie par l'Ordre ; elle les affronte avec Magnus et P (1850).
 - note W13 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder. + [DIVERGENCE RP] Sa mort (poignardée par Geppetto pendant l'attaque), ses adieux et la bifurcation ; le silence tenu jusqu'au bout ; la perfection et ses derniers mots ; cristal de Camille confié à P ; prototype achevé et expliqué.
 - note W12 : forage 5.4 [DIVERGENCE RP]. Menace de Simon remise au passé (traîtresse déclarée depuis 1847 ; Simon la reconnaît en 5.4). Silence déchargé en partie (Romeo seul). Pire quinte (5.4) ; elle restera à l'Hôtel Krat. QUAND de sa mort fixé : pendant l'attaque de l'hôtel (5.5).
@@ -84,6 +85,7 @@
 ## Capacités
 - Master puppeteer : gantelet de marionnettiste (similaire à celui de Geppetto), permet de se lier à ses Pantins de l'Arc via l'Ergo et de les contrôler. C'est cet outil qui éveille Magnus.
 - Virtuose à deux corps : combat avec ses propres outils tout en pilotant l'Ange de l'Arc dans le même mouvement.
+- Combattante à distance [DIVERGENCE RP] (décision worldbuilder, alignement sur le mod) : elle combat avec des sphères d'Ergo pur et soigne son fils à distance quand il faiblit. Ainsi en 1850 comme en 1852, aux côtés de Magnus et de P, jusqu'au Marais Aride ; ses quintes la frappent hors des combats.
 - Override des Pantins de l'Arc [DIVERGENCE RP] : les Pantins de l'Arc obéissent par DÉFAUT aux Alchimistes (couche de fond, canon). Markiona BYPASSE cette couche par commande vocale et/ou gantelet. Lien PERSONNEL tant qu'elle les pilote : quand elle PART (fuite de 1847, abandon), le canal personnel meurt et ses Danseuses/Chanteuses retombent sur l'Ordre (cohérent avec leurs paroles de "maître éternel" au Zoo, et avec le fait qu'ils continuent de fonctionner pour l'Ordre après son départ). Magnus, bâti SANS cette couche, ne retombe sur personne.
 - Bio-ingénierie de pointe [DIVERGENCE RP] : fusion chair / métal / Ergo. Le procédé Magnus en est l'aboutissement.
 - Manipulation politique : fondatrice de la Fraternité de la Vérité, Zelator Labs pour interroger ses détracteurs.

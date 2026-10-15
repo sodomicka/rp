@@ -1,6 +1,7 @@
 # Les Hiboux
 
-- version : W5
+- version : W6
+- note W6 : alignement sur le mod Lies of P [DIVERGENCE RP] (décision worldbuilder, 2026-10-15). En 1852, Markiona combat aux côtés de P et de Magnus : le Chouette Médecin vaincu par le trio.
 - note W5 : forage 5.4 [DIVERGENCE RP]. Le Chouette Médecin épargné : il apprend du trio la mort d'Adelina et rallie Aurus, où vit Patricia. + Lieu du combat précisé (cabane du ravin).
 - note W4 : forage 5.3 [DIVERGENCE RP]. La Dame Blanche épargnée, présente à la confession d'Adelina, rentrée à Aurus.
 - note W3 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -104,7 +105,7 @@
 - Décrit comme le "dernier survivant humain" dans cette zone.
 - Extrêmement hostile à P ; engage le combat (boss au Marais Aride).
 - P le tue.
-- [DIVERGENCE RP - 1852 (5.4)] Vaincu par P et Magnus, il est ÉPARGNÉ. Il apprend de la bouche du trio la mort d'Adelina et rallie Aurus, où vit Patricia, la soeur de celle qu'il aimait. cf. Lieux/Aurus.md.
+- [DIVERGENCE RP - 1852 (5.4)] Vaincu par le trio, il est ÉPARGNÉ. Il apprend de la bouche du trio la mort d'Adelina et rallie Aurus, où vit Patricia, la soeur de celle qu'il aimait. cf. Lieux/Aurus.md.
 
 ### Psychologie
 - Haine violente de P : défend peut-être le souvenir d'Adelina, ou simplement hostile par instinct de survie.

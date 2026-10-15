@@ -1,6 +1,7 @@
 # Giuseppe Geppetto
 
-- version : W8
+- version : W9
+- note W9 : alignement sur le mod Lies of P [DIVERGENCE RP] (décision worldbuilder, 2026-10-15). Au Pont (5.1), il rentre seul à l'Hôtel Krat attendre Markiona, qui veut rester avec son fils ; il la prend à part au retour du trio (5.2).
 - note W8 : forage 5.5 [DIVERGENCE RP]. Enlèvement mis en scène, de mèche avec Simon (canon selon le worldbuilder) ; il poignarde Markiona ; P et Magnus savent pour la Frénésie. + Cristal de Camille : ce qu'il cherche vraiment ; fins de 5.6 (père qui vit, père qui meurt). Relations Camille, Simon, Markiona, Magnus, P. Trajectoire 5.5 et 5.6.
 - note W7 : forage 5.4 [DIVERGENCE RP]. "Je sais tout" : Magnus le confronte (Romeo seul) ; mal nécessaire, comptes promis, mensonge maintenu. Enlèvement et décodage -> 5.5.
 - note W6 : forage 5.3 [DIVERGENCE RP]. Portrait de Carlo rapporté par P (pris de court) ; ordre d'abattre le Roi des Pantins ; rejoint le trio derrière la scène ; Markiona sait ce qu'il a fait de Romeo, Magnus non. Enlèvement -> 5.5.
@@ -87,8 +88,8 @@
 | Post-mort Camille | Travaille avec les alchimistes pour "perpétuer" Camille via le pantin Camil | Obsession croissante pour la résurrection |
 | Mort de Carlo | Carlo meurt de la Maladie de Pétrification à la Maison de Charité Monad | Formule le plan de résurrection ; crée Pantin sans Nom + Organe-P |
 | Plan Romeo | Romeo mourant accepte d'être transformé en pantin ; Geppetto exécute la Loi Zéro ; Frénésie déclenchée | Antagoniste caché de Krat |
-| 1852 (5.1, Pont des Alchimistes) [DIV RP] | Sauvé de l'Âne fou par Magnus ; jauge Magnus, presse Markiona | Retour à l'Hôtel Krat avec Markiona |
-| 1852 (5.2, Hôtel Krat) [DIV RP] | Révèle à Markiona Frénésie, peau de Léa, rôle de Romeo ; dispute ; envoie P aider Venigni | Markiona sait et refuse son plan |
+| 1852 (5.1, Pont des Alchimistes) [DIV RP] | Sauvé de l'Âne fou par Magnus ; jauge Magnus, presse Markiona | Rentre seul à l'Hôtel Krat, où il attendra Markiona |
+| 1852 (5.2, Hôtel Krat) [DIV RP] | Au retour du trio, prend Markiona à part et lui révèle Frénésie, peau de Léa, rôle de Romeo ; dispute ; envoie P aider Venigni | Markiona sait et refuse son plan |
 | 1852 (5.3) [DIV RP] | Pris de court par le portrait de Carlo, rapporté par P ; envoie P abattre le Roi des Pantins (Rue Rosa Isabel) ; après la chute, rejoint le trio derrière la scène | Markiona sait ce qu'il a fait de Romeo ; Magnus non |
 | 1852 (5.4) [DIV RP] | Confronté par Magnus ("je sais tout") ; plaide le mal nécessaire, promet des comptes "une fois cette sale histoire passée" ; oriente P vers la Grande Exposition | Ment toujours ; Magnus et P le savent derrière le sort de Romeo, pas la Frénésie |
 | 1852 (5.5, Hôtel Krat) [DIV RP] | Enlèvement mis en scène, de mèche avec Simon ; poignarde Markiona pendant que les Lapins la tiennent ; emmené vers l'île par la Renarde et le Chat | Meurtrier de Markiona, connu des seuls assaillants ; P et Magnus savent qu'il a lancé la Frénésie |

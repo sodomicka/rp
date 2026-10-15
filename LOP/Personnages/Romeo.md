@@ -1,6 +1,7 @@
 # Romeo
 
-- version : W9
+- version : W10
+- note W10 : alignement sur le mod Lies of P [DIVERGENCE RP] (décision worldbuilder, 2026-10-15). En 1852, Markiona combat aux côtés de P et de Magnus : phase 1 du Roi des Pantins contre le trio.
 - note W9 : forage 5.5 [DIVERGENCE RP]. Message décodé en 5.5 : P et Magnus entendent la Loi Zéro et le nom de Geppetto ; le bruit le cache à Venigni.
 - note W8 : forage 5.3 [DIVERGENCE RP]. Fin de Romeo réécrite : Magnus le reconnaît et l'étreint ; Romeo voit Léa dans la chair de P ; les yeux fermés de Markiona ; suicide. + Plus d'Arlecchino en 1852 (décision worldbuilder).
 - note W7 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -110,7 +111,7 @@
 - DLC : mourant de la Maladie de Pétrification au Domaine de la Rose, dans les bras de Léa Florence. Geppetto arrive avec le Pantin sans Nom.
 - Base game (canon) : transformé en Roi des Pantins par Geppetto. Déclenche la Frénésie des Pantins. Se rebelle. Affronte P à l'Opéra Estella. Vaincu. Remercie P ("merci de m'avoir donné la liberté"). Mort après le boss fight.
 - Pendentif de Carlo récupéré par P sur son corps : P/Carlo réagit physiquement à la vue du pendentif (mémoire de l'Ergo).
-- [DIVERGENCE RP - 1852 (5.3)] Phase 1 contre P et Magnus ; en phase 2, pas de combat. Après l'étreinte de Magnus, Romeo s'écarte et plante sa propre lame dans son coeur d'Ergo. Il emporte le secret de la peau de Léa sans le dire (paiement en 5.6 intact). cf. Roadmap_05_3.
+- [DIVERGENCE RP - 1852 (5.3)] Phase 1 contre le trio (P, Magnus, Markiona) ; en phase 2, pas de combat. Après l'étreinte de Magnus, Romeo s'écarte et plante sa propre lame dans son coeur d'Ergo. Il emporte le secret de la peau de Léa sans le dire (paiement en 5.6 intact). cf. Roadmap_05_3.
 
 ## Trajectoire datée
 
@@ -123,7 +124,7 @@
 | 1850 (Overture, Ère 3) [DIVERGENCE RP] | Kidnappé par Arlecchino (vengeance contre Léa), mutilé en trois "oeuvres" exposées de la foire au domaine Monad ; descendu mourant, veillé par Léa. Corps récupéré par Geppetto APRÈS, hors-champ (Ère 4) | Mourant ; au seuil de la transformation |
 | Post-DLC (hors écran) | Transformé en pantin par Geppetto ; Loi Zéro ; Frénésie des Pantins | Roi des Pantins |
 | 1852 (Ère 5, jusqu'à 5.3) | Reprise de mémoires ; révolte contre Geppetto ; envoie des messagers à P ; show à l'opéra | Rebelle lucide |
-| 1852 (5.3, Opéra Estella) [DIVERGENCE RP] | Phase 1 contre P et Magnus ; reconnu et étreint par Magnus ; reconnaît Carlo et Léa en P ; les yeux fermés de Markiona confirment ; se donne la mort | Mort de sa propre main ; secret de la peau de Léa emporté |
+| 1852 (5.3, Opéra Estella) [DIVERGENCE RP] | Phase 1 contre le trio ; reconnu et étreint par Magnus ; reconnaît Carlo et Léa en P ; les yeux fermés de Markiona confirment ; se donne la mort | Mort de sa propre main ; secret de la peau de Léa emporté |
 | 1852 (5.5, Hôtel Krat) [DIVERGENCE RP] | Son message décodé par Venigni ; P et Magnus entendent la Loi Zéro et le nom de Geppetto | Le secret de la Frénésie passe à P et Magnus |
 
 ---
