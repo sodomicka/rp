@@ -1,7 +1,7 @@
 # Zoo de Krat
 
 - version : W5
-- note W5 : alignement sur le mod Lies of P [DIVERGENCE RP] (décisions worldbuilder, 2026-10-15). Ligne RP ajoutée aux Liens : dans le RP, le Zoo de 1850 est tenu par la Marionnettiste mécanique.
+- note W5 : alignement sur le mod Lies of P [DIVERGENCE RP] (décisions worldbuilder, 2026-10-15). Ligne RP ajoutée aux Liens : dans le RP, le Zoo de 1850 est tenu par Rubedo, Marionnettiste des Alchimistes.
 - note W4 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder.
 - note W3 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 
@@ -97,8 +97,8 @@
 
 - Colonel Little : fondateur. Cf. Personnages/PNJ_secondaires.md.
 - Markiona : maîtresse du zoo, boss. Cf. Personnages/Markiona.md.
-- [DIVERGENCE RP] Dans le RP (1850), Markiona a fui l'Ordre : le Zoo est tenu par la Marionnettiste mécanique, sa
-  copie, aux commandes de l'Ange de l'Arc reforgé. Cf. Creatures/Boss_et_Creatures.md.
+- [DIVERGENCE RP] Dans le RP (1850), Markiona a fui l'Ordre : le Zoo est tenu par Rubedo, Marionnettiste des
+  Alchimistes, sa copie, aux commandes de l'Ange de l'Arc reforgé. Cf. Creatures/Boss_et_Creatures.md.
 - Rosaura : captive dans l'atelier de Markiona. Cf. Personnages/Rosaura.md.
 - Léa Florence Monad : traque Romeo ici. Cf. Personnages/Lea_Florence_Monad.md.
 - Arlecchino : a planifié sa vengeance depuis le zoo. Cf. Personnages/Arlecchino.md.

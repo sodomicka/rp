@@ -1,7 +1,7 @@
 # Boss et Créatures
 
 - version : W8
-- note W8 : alignement sur le mod Lies of P [DIVERGENCE RP] (décisions worldbuilder, 2026-10-15). Ange de l'Arc reforgé piloté par la Marionnettiste mécanique (copie de Markiona par l'Ordre), battu à trois (Magnus, Markiona, P) ; la clé tombe de la copie. + bloc MARIONNETTISTE MÉCANIQUE.
+- note W8 : alignement sur le mod Lies of P [DIVERGENCE RP] (décisions worldbuilder, 2026-10-15). Ange de l'Arc reforgé piloté par Rubedo, Marionnettiste des Alchimistes (copie de Markiona par l'Ordre), battu à trois (Magnus, Markiona, P) ; la clé tombe de Rubedo. + bloc RUBEDO.
 - note W7 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder. + [DIVERGENCE RP] Maître du Défilé Corrompu battu à deux ; Marcheur d'Illusions au féminin ; pièces de l'Ange retrouvées (5.6) et leur destin en R6 ; Pantin sans Nom dans les deux fins de Geppetto (5.6).
 - note W6 : forage 5.4 [DIVERGENCE RP]. Champion Victor achevé par Laxasia (canon vérifié ; Paracelsus retiré) ; second Pantin Clown Enragé (Marais Aride) ; Monstre Vert : la sentinelle, et non Hugo ; Murphy reconnu par Magnus.
 - note W5 : forage 5.3 [DIVERGENCE RP]. + bloc PANTIN CLOWN ENRAGÉ (noyau, canon). Roi des Pantins : fin 1852 (étreinte de Magnus, suicide de Romeo). + Surveillant aux Deux Visages : le "quelqu'un" du Traqueur est Léa, reconnue au style sans être nommée.
@@ -13,7 +13,7 @@
 > Entités : Maître du Défilé, Veilleur Désarticulé / Murphy, Fuoco, Roi des Pantins, Pantin Clown Enragé,
 >            Marcheur d'Illusions, Champion Victor, Monstre Vert du Marais,
 >            Gardien Tourmenté des Ruines, Surveillant aux Deux Visages, prédateur tyrannique,
->            Ange de l'Arc reforgé et Marionnettiste mécanique ([DIVERGENCE RP]), Pantin sans Nom,
+>            Ange de l'Arc reforgé et Rubedo ([DIVERGENCE RP]), Pantin sans Nom,
 >            Gardien de la Porte.
 
 ---
@@ -315,9 +315,9 @@
   Pantins de l'Arc reprogrammés qui infestent le Zoo).
 - Overture (1850, plein hiver) : trouvé dans la volière du Zoo, au bout de la serre ; il garde l'accès
   au tunnel verrouillé menant à la foire / au carnaval.
-- [DIVERGENCE RP] Sans Ego, il lui faut une pilote : l'Ordre l'a confié à la Marionnettiste mécanique, copie de
-  Markiona (bloc suivant). Battus à trois, par Magnus, Markiona et P ; la clé du tunnel verrouillé (clé du
-  carnaval) tombe de la copie, comme de Markiona au canon.
+- [DIVERGENCE RP] Sans Ego, il lui faut une pilote : l'Ordre l'a confié à Rubedo, Marionnettiste des Alchimistes,
+  copie de Markiona (bloc suivant). Battus à trois, par Magnus, Markiona et P ; la clé du tunnel verrouillé (clé du
+  carnaval) tombe de Rubedo, comme de Markiona au canon.
 
 ### Lien narratif
 - Boucle un fil de l'Ère 1 : l'épave laissée à Zelator en 1847 revient en gardien reforgé en 1850.
@@ -330,12 +330,14 @@
 
 ---
 
-## MARIONNETTISTE MÉCANIQUE
+## RUBEDO, MARIONNETTISTE DES ALCHIMISTES
 
-> [DIVERGENCE RP] Entité issue de l'OC (décision worldbuilder). Nom de travail. cf. Personnages/Markiona.md,
+> [DIVERGENCE RP] Entité issue de l'OC (décision worldbuilder). cf. Personnages/Markiona.md,
 > Roadmap/Magnus/Roadmap_03_Overture.md (étape 4).
 
 ### Identité
+- Nom : Rubedo, Marionnettiste des Alchimistes (décision worldbuilder). Écho de Markiona, Marionnettiste de la
+  Mort ; la rubedo est l'oeuvre au rouge, dernière phase du Grand Oeuvre alchimique.
 - Nature : automate sans Ego, bâti par l'Ordre à l'image de Markiona pour mouvoir l'Ange de l'Arc reforgé comme
   elle le mouvait (cf. Personnages/Markiona.md, virtuose à deux corps).
 - Physique : la silhouette de Markiona (femme fine et élancée, cheveux platine), son visage moulé, sa peau

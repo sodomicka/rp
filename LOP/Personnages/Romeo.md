@@ -1,7 +1,6 @@
 # Romeo
 
-- version : W10
-- note W10 : alignement sur le mod Lies of P [DIVERGENCE RP] (décisions worldbuilder, 2026-10-15). 1re oeuvre : la broche, reconnue par Magnus, rendue à Léa dans la cabane près du phare.
+- version : W9
 - note W9 : forage 5.5 [DIVERGENCE RP]. Message décodé en 5.5 : P et Magnus entendent la Loi Zéro et le nom de Geppetto ; le bruit le cache à Venigni.
 - note W8 : forage 5.3 [DIVERGENCE RP]. Fin de Romeo réécrite : Magnus le reconnaît et l'étreint ; Romeo voit Léa dans la chair de P ; les yeux fermés de Markiona ; suicide. + Plus d'Arlecchino en 1852 (décision worldbuilder).
 - note W7 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
@@ -60,7 +59,7 @@
 ### DLC Overture
 
 - Arlecchino kidnappe Romeo (par vengeance contre Léa Florence).
-- [DIVERGENCE RP] Arlecchino ne se contente pas de l'enlever : il le mutile en TROIS "oeuvres" macabres jalonnant le chemin, de la foire au domaine Monad, exposées comme la signature d'un artiste. 1re oeuvre, à la foire : le manteau ensanglanté de Romeo et sa broche Monad (la bleue de feu Carlo) - l'insigne que Magnus reconnaît et rend à Léa (cf. Objets/Objets_et_Reliques.md). 2e oeuvre, au lustre : les bras arrachés, le Pendentif de diplôme de Carlo serré dans une main - Léa le récupère et le LUI rend (le pendentif reste à Romeo : Tchekhov Ère 5 intact). 3e oeuvre, au domaine Monad : Romeo en pose christique sur des bras de pantin. Détail -> roadmap Ère 3.
+- [DIVERGENCE RP] Arlecchino ne se contente pas de l'enlever : il le mutile en TROIS "oeuvres" macabres jalonnant le chemin, de la foire au domaine Monad, exposées comme la signature d'un artiste. 1re oeuvre, à la foire : le manteau ensanglanté de Romeo et sa broche Monad (la bleue de feu Carlo) - l'insigne que Léa reconnaît (cf. Objets/Objets_et_Reliques.md). 2e oeuvre, au lustre : les bras arrachés, le Pendentif de diplôme de Carlo serré dans une main - Léa le récupère et le LUI rend (le pendentif reste à Romeo : Tchekhov Ère 5 intact). 3e oeuvre, au domaine Monad : Romeo en pose christique sur des bras de pantin. Détail -> roadmap Ère 3.
 - P suit la piste de Léa Florence pour retrouver Romeo.
 - Léa Florence trouve Romeo mourant au Domaine de la Rose et le tient dans ses bras.
 - La fin DLC : Romeo mourant dans les bras de Léa. P est rappelé au présent (fin du voyage temporel) AVANT que Geppetto monte les escaliers avec la caisse du Pantin sans Nom ; P ne se croise pas avec Geppetto et n'assiste pas à la suite.

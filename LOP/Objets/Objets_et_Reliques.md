@@ -1,7 +1,6 @@
 # Objets et Reliques
 
-- version : W8
-- note W8 : alignement sur le mod Lies of P [DIVERGENCE RP] (décisions worldbuilder, 2026-10-15). Broche Monad : à la foire, c'est Magnus qui reconnaît la broche de Romeo ; il la rend à Léa dans la cabane près du phare.
+- version : W7
 - note W7 : forage 5.5. Traduction corrigée : « le Limier » -> « le Traqueur » (VO : Tracker), décision worldbuilder. + [DIVERGENCE RP] Ergo doré : destination tranchée (le sous-marin de Venigni) ; message de Romeo entendu (5.5) ; Chrysalide reçue (5.5) ; prototype achevé, l'extracteur ; + bloc Cristal de Camille.
 - note W6 : forage 5.4 [DIVERGENCE RP]. Message de Romeo décodé en 5.5 (rectifie W5) ; fruit de Lucio remis (Grande Exposition) ; Ergo doré livré à Venigni, destination à vérifier.
 - note W5 : forage 5.3 [DIVERGENCE RP]. Pendentif (suicide de Romeo ; Magnus le reconnaît) ; Portrait de Carlo (Hôtel de Ville du District Malum ; vu par Magnus) ; Épée de la Rose (plus d'Arlecchino en 1852). + bloc Prototype de Zelator. + Fruit d'Or (remède de Giangio, canon ; règle du coeur pur ; ersatz des Alchimistes ; les deux fruits de 5.3) ; Décodeur d'onde Ergo (Magnus entend les pantins sans appareil ; Grand Covenant ; Loi Zéro en 5.4). + l'extracteur (nuit d'Aurus).
@@ -159,7 +158,7 @@
 - État durable depuis : Romeo porte la BLEUE (celle de Carlo), Léa porte la ROUGE (celle de Romeo). Pour chacun, la broche devient le souvenir porté d'un autre maillon du trio.
 
 ### Liens
-- Rôle narratif à l'Overture (Ère 3, 1850) : la broche de Romeo (donc la bleue de feu Carlo), laissée par Arlecchino à la foire, sert d'indice : Magnus la reconnaît, Markiona en tire le Domaine de la Rose, et Magnus la rend à Léa dans la cabane près du phare (écho du médaillon canon, que Léa y reconnaît). Détail de la scène -> Roadmap/Magnus/Roadmap_03_Overture.md (étapes 5 et 11) et trajectoire de Léa (Personnages/Lea_Florence_Monad.md). Non dupliqué ici.
+- Rôle narratif à l'Overture (Ère 3, 1850) : la broche de Romeo (donc la bleue de feu Carlo) sert d'indice à Léa. Détail de la scène -> Roadmap/Magnus/Roadmap_03_Overture.md (étape 5) et trajectoire de Léa (Personnages/Lea_Florence_Monad.md). Non dupliqué ici.
 - cf. Personnages/Lea_Florence_Monad.md, Personnages/Romeo.md, Personnages/Carlo.md.
 
 ---

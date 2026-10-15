@@ -1,7 +1,7 @@
 # Lumacchio
 
 - version : W5
-- note W5 : alignement sur le mod Lies of P [DIVERGENCE RP] (décisions worldbuilder, 2026-10-15). Fin réécrite : il traque Léa ; arrêté par Magnus, Markiona et P, il supplie ; Magnus l'épargne, l'élixir le tue quand même (rejoint le canon). Léa ne l'achève plus.
+- note W5 : alignement sur le mod Lies of P [DIVERGENCE RP] (décisions worldbuilder, 2026-10-15). Fin réécrite : il traque Léa ; arrêté par Magnus, Markiona et P, il supplie ; l'épargner ou l'achever est laissé au joueur, et l'élixir le tue de toute façon (rejoint le canon). Léa ne l'achève plus.
 - note W4 : francisation VF : Stalkers -> Rôdeurs (Léa = la Rôdeuse Légendaire), Sweepers -> Balayeurs, Bastards -> Bâtards (décision worldbuilder). + Réaccentuation et francisation VF lot 2 (glossaire validé par le worldbuilder).
 - note W3 : couche masque [DIVERGENCE RP - convention des Rôdeurs]. Moniker l'Escargot Doré, couleur or ; nouvelle section Physique et allure ; arme ajoutée (parapluie-canne à lame). cf. Factions/Les_Stalkers.md (grille masques). Aucun changement de fond au rôle / à la fin.
 - note W2 : nom corrigé en LUMACCHIO (orthographe canon, Lies of P Overture ; "Lumakio" était une forme de travail erronée, longtemps retenue dans ce wiki). Couche Overture (Ère 3, 1850). [DIVERGENCE RP - continuité Magnus] Réorchestration de sa fin : battu par le groupe, il meurt suppliant et est ACHEVÉ par Léa (canon : vaincu par P, mort dans tous les cas - conservé comme antériorité supplantée). Mutation par l'élixir alignée sur le terme canon CARCASSE.
@@ -43,7 +43,7 @@
   - Mute en carcasse après l'élixir (terme canon des mutants de la maladie ; cf. SB1/SB4).
   - Vaincu par P ; supplie d'être épargné ; affirme avoir été forcé de choisir un camp.
   - Meurt de toute façon (spare ou tué = même issue).
-  - [DIVERGENCE RP - continuité Magnus] Dans le RP, c'est le groupe de Magnus (Magnus, Markiona, P) qu'il croise : à l'hôtel, il leur dit que Léa a pris l'ascenseur ; à la côte, ils l'arrêtent avant qu'il ne la trouve. Vaincu, il supplie : Magnus l'épargne, et il meurt quand même de l'élixir (le canon ci-dessus tient). cf. Sort connu, roadmap Ère 3.
+  - [DIVERGENCE RP - continuité Magnus] Dans le RP, c'est le groupe de Magnus (Magnus, Markiona, P) qu'il croise : à l'hôtel, il leur dit que Léa a pris l'ascenseur ; à la côte, ils l'arrêtent avant qu'il ne la trouve. Vaincu, il supplie : l'épargner ou l'achever est laissé au joueur, et il meurt de toute façon de l'élixir (le canon ci-dessus tient). cf. Sort connu, roadmap Ère 3.
 
 ## Capacités
 - Chef de faction : autorité sur les Bâtards.
@@ -69,7 +69,7 @@
 
 ## Sort connu
 - Mute en CARCASSE après ingestion de l'élixir des Alchimistes (présenté comme une récompense, en réalité une infection).
-- [DIVERGENCE RP - continuité Magnus] Battu par Magnus, Markiona et P, il SUPPLIE qu'on l'épargne. Magnus l'épargne : il ne peut plus nuire, et l'achever ne serait qu'une vengeance (décision worldbuilder). L'élixir le tue quand même. cf. Personnages/Magnus.md, roadmap Ère 3.
+- [DIVERGENCE RP - continuité Magnus] Battu par Magnus, Markiona et P, il SUPPLIE qu'on l'épargne. L'épargner ou l'achever est laissé au joueur, comme au canon (décision worldbuilder) : il ne peut plus nuire, et l'élixir le tue de toute façon. La vengeance ne sert à rien. cf. roadmap Ère 3.
 - Canon (conservé par le RP) : vaincu par P ; qu'il soit épargné ou tué, il meurt de toute façon.
 
 ## Trajectoire datée
@@ -79,7 +79,7 @@
 | 1850 (Overture, Ère 3, Hôtel Krat) | Présent à l'hôtel sous couvert ; oriente P ; reçoit des documents ; part précipitamment | Acteur du complot de Simon |
 | 1850 (Overture, Ère 3, ruines) | Retrouvé par P ; donne la clé vers la côte ; hypocrisie sur la mort de Véronique | Complice dévoilé partiellement |
 | 1850 (Overture, Ère 3, naufrage) | Confronte le groupe ; révèle son rôle (traître de Simon, piège de Véronique, projet sur Léa) ; boit l'élixir -> carcasse | Mutation en carcasse |
-| 1850 (Overture, Ère 3, fin) [DIVERGENCE RP] | Battu par Magnus, Markiona et P ; supplie ; épargné par Magnus, meurt quand même de l'élixir (comme au canon) | Mort |
+| 1850 (Overture, Ère 3, fin) [DIVERGENCE RP] | Battu par Magnus, Markiona et P ; supplie ; épargné ou achevé (choix du joueur), meurt de l'élixir (comme au canon) | Mort |
 
 ---
 
