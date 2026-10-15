@@ -1,6 +1,7 @@
 # Markiona - Relations
 
-- version : W4
+- version : W5
+- note W5 : alignement sur le mod Lies of P [DIVERGENCE RP] (décisions worldbuilder, 2026-10-15). Ange de l'Arc : mû au Zoo par sa copie mécanique (1850).
 - note W4 : forage 5.5 [DIVERGENCE RP]. Magnus (le choix, les derniers mots, ce qu'il sait), Geppetto (il la tue), Camille (cristal confié à P), Sophia (l'extracteur), P (le cristal), Venigni (la promesse déjouée, le corps).
 - note W3 : forage 5.4 [DIVERGENCE RP]. Magnus (l'aveu du deuil ; l'hôtel imposé), Geppetto (elle enrage en silence), Romeo, Venigni (promesse), Simon (menace au passé ; la traîtresse reconnue).
 - note W2 : forage 5.3 [DIVERGENCE RP]. Magnus, Geppetto, P, Rôdeurs, Antonia mis à jour ; + sections Romeo et Sophia. + intimité (nuits d'Aurus, Ère 5) et vouvoiement.
@@ -69,7 +70,7 @@ Satellite de Personnages/Markiona, scindée pour le poids. Texture des relations
 - Dynamique : à la sortie du complexe, où elle présente Magnus comme son "nouvel assistant", il reconnaît les traits du jeune alchimiste disparu (matière première du Magnum Opus), comprend l'hérésie et déclenche l'assaut du Zelator (1847).
 
 ## Ange de l'Arc
-- Statut : son garde du corps ailé, sans Ego ni libre arbitre ; second corps de combat [DIVERGENCE RP]. Détruit en 1847, reconstruit par l'Ordre (typologie : fiche mère).
+- Statut : son garde du corps ailé, sans Ego ni libre arbitre ; second corps de combat [DIVERGENCE RP]. Détruit en 1847, reconstruit par l'Ordre et mû au Zoo par sa copie mécanique ; elle les affronte en 1850 (typologie : fiche mère).
 
 ## Colonel Little / Philato
 - Statut : victimes indirectes (Alchimistes) pour que Markiona prenne le Zoo.
