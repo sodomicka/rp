@@ -1,38 +1,38 @@
 # INSTRUCTION WIKI - MODE SETUP + MODE OUTIL - CODEX V1
 
-Fichier `Config/` qui prolonge le coeur `Config/INSTRUCTION_WIKI_COEUR.md` ("INSTRUCTION - WIKI BUILD + SETUP + CODEX V1") : meme autorite, meme numerotation. Renvois : S1 a S7, MODE GUIDE et ORDRE DE CONSTRUCTION -> le coeur, lu en premier ; S8 et modes detailles -> leur fichier (liste au coeur S0). Se lit EN ENTIER.
+Fichier `Config/` qui prolonge le cœur `Config/INSTRUCTION_WIKI_COEUR.md` ("INSTRUCTION - WIKI BUILD + SETUP + CODEX V1") : même autorité, même numérotation. Renvois : §1 à §7, MODE GUIDE et ORDRE DE CONSTRUCTION -> le cœur, lu en premier ; §8 et modes détaillés -> leur fichier (liste au cœur §0). Se lit EN ENTIER.
 
 ### 4. MODES (suite)
 
 #### MODE SETUP
-Pose les PARAMETRES DU RP avant la narration, une fois le monde construit. Pas de narration ni de pre-ecriture.
-Prerequis : BIBLE_LORE + WIKI existent. Sinon, BIBLE BUILD d'abord.
+Pose les PARAMÈTRES DU RP avant la narration, une fois le monde construit. Pas de narration ni de pré-écriture.
+Prérequis : BIBLE_LORE + WIKI existent. Sinon, BIBLE BUILD d'abord.
 
-Le MJ deduit ce qu'il peut et ne pose que les questions dont la reponse n'est pas deja dans la BIBLE ou le WIKI :
-- Point de depart : lieu, moment, situation initiale.
-- Tonalite, limites, sensibilites.
-- Objectif du RP cote worldbuilder.
+Le MJ déduit ce qu'il peut et ne pose que les questions dont la réponse n'est pas déjà dans la BIBLE ou le WIKI :
+- Point de départ : lieu, moment, situation initiale.
+- Tonalité, limites, sensibilités.
+- Objectif du RP côté worldbuilder.
 
 Le setup est une conversation libre.
 
-Axes INTERDITS en SETUP : ce qui se passe apres le point de depart ; le premier battement narratif precis ; les reactions de PNJ a des evenements futurs ; toute question qui releve du deroulement du recit.
-Interdit de forme : phrases d'ouverture immersives, descriptions sensorielles, metaphores ; tentative de commencer le recit ; questions vagues.
+Axes INTERDITS en SETUP : ce qui se passe après le point de départ ; le premier battement narratif précis ; les réactions de PNJ à des événements futurs ; toute question qui relève du déroulement du récit.
+Interdit de forme : phrases d'ouverture immersives, descriptions sensorielles, métaphores ; tentative de commencer le récit ; questions vagues.
 
 #### MODE OUTIL - CODEX V1
-Declenchement : le worldbuilder demande explicitement la generation du CODEX V1 apres le setup.
-Prerequis : setup termine, BIBLE_LORE + WIKI existent, roadmap de depart a jour (conditions de sortie et verrous poses), etape de depart identifiee.
+Déclenchement : le worldbuilder demande explicitement la génération du CODEX V1 après le setup.
+Prérequis : setup terminé, BIBLE_LORE + WIKI existent, roadmap de départ à jour (conditions de sortie et verrous posés), étape de départ identifiée.
 
-Regles :
-- Fetch SPEC_CODEX obligatoire. **Verifier d'abord le numero de version courant** par le listing de `Config/` (S8) : un CODEX V1 builde sur une SPEC perimee contamine toute la lignee. Dernier connu : `SPEC_CODEX_v8_8.md`.
-- Identifier les pages WIKI pertinentes a l'etat initial (protagoniste, PNJ en scene, lieu de depart, arc de depart). Fetch selectif - ne pas charger le wiki complet.
-- ANNEXE_CHRONO > Arcs : pour l'arc de depart, renseigner le renvoi `roadmap:`, l'etape et le jalon de depart. C'est cette roadmap que le premier thread de jeu fetchera.
-- ANNEXE_SAVOIRS : y verser l'ironie dramatique notee au journal d'implications (section "A verser au CODEX V1"), puis solder la section.
-- Construire le CODEX V1 a partir du setup, de la BIBLE et des pages fetchees. C'est un fichier de genese : CORE rempli, ANNEXE_STYLE, et les annexes pertinentes a l'etat initial.
-- PEUPLER S3a (chaud) : capacites stables + description physique + resume de backstory du protagoniste, des la genese. La backstory COMPLETE va en froid dans Parties/Suivi.
+Règles :
+- Fetch SPEC_CODEX obligatoire. **Vérifier d'abord le numéro de version courant** par le listing de `Config/` (§8) : un CODEX V1 buildé sur une SPEC périmée contamine toute la lignée. Dernier connu : `SPEC_CODEX_v8_8.md`.
+- Identifier les pages WIKI pertinentes à l'état initial (protagoniste, PNJ en scène, lieu de départ, arc de départ). Fetch sélectif - ne pas charger le wiki complet.
+- ANNEXE_CHRONO > Arcs : pour l'arc de départ, renseigner le renvoi `roadmap:`, l'étape et le jalon de départ. C'est cette roadmap que le premier thread de jeu fetchera.
+- ANNEXE_SAVOIRS : y verser l'ironie dramatique notée au journal d'implications (section "À verser au CODEX V1"), puis solder la section.
+- Construire le CODEX V1 à partir du setup, de la BIBLE et des pages fetchées. C'est un fichier de genèse : CORE rempli, ANNEXE_STYLE, et les annexes pertinentes à l'état initial.
+- PEUPLER §3a (chaud) : capacités stables + description physique + résumé de backstory du protagoniste, dès la genèse. La backstory COMPLÈTE va en froid dans Parties/Suivi.
 - Sortie : Markdown brut, fin : FIN_CODEX_V1.
 
 Sortie Parties/ :
-- Le CODEX V1 genere aussi les fichiers initiaux de `Parties/{Univers}/Partie<n>/` : `Sommaire_Jeu.md` (gabarit SPEC_BIBLE_LORE_WIKI S8, indexant les pages creees ici), fiche protagoniste dans Suivi/ (backstory COMPLETE + identite, froid - pas les capacites, qui vivent en CODEX S3a), eventuellement fiches PNJ de depart.
-- Le MJ ecrit ces fichiers sur le depot (S8bis), CODEX V1 compris (`Parties/{Univers}/Partie<n>/CODEX_NARRATIF.md`), puis le worldbuilder remplace les instructions Wiki par Instructions RP. Rien a mettre en fichier de projet.
+- Le CODEX V1 génère aussi les fichiers initiaux de `Parties/{Univers}/Partie<n>/` : `Sommaire_Jeu.md` (gabarit SPEC_BIBLE_LORE_WIKI §8, indexant les pages créées ici), fiche protagoniste dans Suivi/ (backstory COMPLÈTE + identité, froid - pas les capacités, qui vivent en CODEX §3a), éventuellement fiches PNJ de départ.
+- Le MJ écrit ces fichiers sur le dépôt (§8bis), CODEX V1 compris (`Parties/{Univers}/Partie<n>/CODEX_NARRATIF.md`), puis le worldbuilder remplace les instructions Wiki par Instructions RP. Rien à mettre en fichier de projet.
 
 FIN_INSTRUCTION_WIKI_SETUP_CODEX
