@@ -1,11 +1,11 @@
-# SPEC_CODEX v8.7
+# SPEC_CODEX v8.8
 
 Ce fichier definit la forme, les regles de construction et le gabarit du `CODEX_NARRATIF.md`. Le CODEX vit sur le depot sous ce nom FIXE, `Parties/{Univers}/Partie<n>/CODEX_NARRATIF.md`, ecrase a chaque build : la version porte dans le titre (`# CODEX_NARRATIF_v<N>`) et la balise `FIN_CODEX_V<N>`, l'historique vit dans git. Une seule version sur le depot, jamais de copie versionnee a cote.
 Il sert de reference unique en mode CODEX BUILD.
 Le modele doit produire un CODEX factuel, compact, autosuffisant, sans narration.
 
-Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_CODEX_v8_7.md`.
-Consultation : embarquee dans la skill codex-build (`references/SPEC_CODEX_v8_7.md`) - lue en local, sans reseau. Le chemin GitHub sert a re-synchroniser la copie embarquee ou a la refetcher en secours. Copie embarquee ABSENTE du montage : fetcher la source canonique GitHub AVANT tout build. Ne JAMAIS builder sur une SPEC trouvee dans les fichiers de projet sans l'avoir confrontee a la canonique. Hierarchie CLOSE : SPEC fournie en conversation > GitHub (source maintenue) > copie embarquee. La copie embarquee est un CACHE, jamais une autorite : contradiction embarquee/GitHub -> GitHub fait foi et la copie se resynchronise ; contradiction conversation/GitHub -> la conversation fait foi pour CE build, signalee en une ligne. Corollaire : un numero de version different entre l'embarquee et Config/ sur le depot est une desynchronisation, pas un arbitrage. Pour les builds suivants dans le meme thread, la version en contexte fait foi. Elle porte le process que le CODEX V(N-1) ne contient pas.
+Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_CODEX_v8_8.md`.
+Consultation : embarquee dans la skill codex-build (`references/SPEC_CODEX_v8_8.md`) - lue en local, sans reseau. Le chemin GitHub sert a re-synchroniser la copie embarquee ou a la refetcher en secours. Copie embarquee ABSENTE du montage : fetcher la source canonique GitHub AVANT tout build. Ne JAMAIS builder sur une SPEC trouvee dans les fichiers de projet sans l'avoir confrontee a la canonique. Hierarchie CLOSE : SPEC fournie en conversation > GitHub (source maintenue) > copie embarquee. La copie embarquee est un CACHE, jamais une autorite : contradiction embarquee/GitHub -> GitHub fait foi et la copie se resynchronise ; contradiction conversation/GitHub -> la conversation fait foi pour CE build, signalee en une ligne. Corollaire : un numero de version different entre l'embarquee et Config/ sur le depot est une desynchronisation, pas un arbitrage. Pour les builds suivants dans le meme thread, la version en contexte fait foi. Elle porte le process que le CODEX V(N-1) ne contient pas.
 
 ---
 
@@ -15,8 +15,8 @@ Consultation : embarquee dans la skill codex-build (`references/SPEC_CODEX_v8_7.
 - Le CODEX ne cree aucun fait nouveau.
 - Il reformule, regroupe et compresse uniquement des informations presentes dans le thread, les fichiers joints et l'eventuel CODEX precedent.
 - Si une information est absente, floue ou contradictoire : `[INCERTAIN]`.
-- Ingestion : pour interroger le canon, requêter la forme d'origine du nom (accentuée si elle l'est : meilleur rappel).
-- Le CODEX est un fichier unique structure en CORE + 7 ANNEXES balisees. Ce n'est PAS une collection de fichiers separes (mais le BUILD produit aussi, a cote, la memoire refroidie et la Memoire narrative - cf. 4ter).
+- Ingestion : pour interroger le canon, requeter la forme d'origine du nom (accentuee si elle l'est : meilleur rappel).
+- Le CODEX est un fichier unique structure en CORE + 7 ANNEXES balisees. Ce n'est PAS une collection de fichiers separes (mais le BUILD produit aussi, a cote, la memoire refroidie, le Sommaire de jeu et la Memoire narrative - cf. 4ter).
 - VERSIONNAGE DES TAMPONS : les OOC actifs (S5) et interdits accumules (S6) sont tamponnes par version de CODEX `[V<n>]`, jamais par date. V<n> = la version du CODEX sous laquelle l'entree a ete posee. Le champ "date reelle de derniere mise a jour" des metadonnees garde une date calendaire (tracabilite du build), mais aucune entree interne n'est datee.
 - DECOUPLAGE DES VERSIONS : aucune epingle de version croisee entre fichiers (ni CODEX<->BIBLE, ni fiches<->CODEX). Seule trace de version externe autorisee : un reperage advisory `dernier sync BIBLE: B<x>` dans les metadonnees (S1) du CODEX, NON bloquant - simple canari signalant un CODEX builde sur une BIBLE ancienne. Pas de mention de version dans `bible_lore`. Les tampons internes restent `[V<n>]`. Meme logique pour la SPEC : la metadonnee `spec au build` (S1) trace version et source de la spec utilisee - advisory, canari anti spec fantome (un build fait sur une spec perimee se voit au premier coup d'oeil).
 
@@ -42,7 +42,7 @@ Consultation : embarquee dans la skill codex-build (`references/SPEC_CODEX_v8_7.
 - Plafond dur du build N : `plafond(N) = min(30 000 + 3 000 x (N - 1), 90 000)` caracteres.
 - Bareme : V1 (fin de worldbuilding) = 30 000 ; +3 000 par generation ; terminal 90 000 atteint a V21 (V20 = 87 000). Absolu et calculable depuis le seul numero de version : aucune dependance a la taille mesuree du V(N-1), un build qui deraille ne contamine pas les suivants.
 - Raison du bareme : un plafond fixe eleve est un mur lointain sans pression locale - le CODEX gonfle de build en build sans jamais le toucher, et le gras s'installe en redites. Le bareme met un plafond PROCHE a chaque generation : la croissance se merite (la saga accumule legitimement arcs et PNJ), la redite se paie comptant.
-- Raison du terminal 90 000 : le CODEX est lu EN ENTIER a l'ouverture de chaque thread de jeu et reste en contexte tout le thread, en face de la fiche d'arc (<= 20 000 visee). 90 000 garde la somme des deux documents permanents sous 110 000 caracteres et laisse la place a la narration. CODEX et BIBLE ne sont jamais en contexte ensemble : la BIBLE n'est pas lue en jeu.
+- Raison du terminal 90 000 : le CODEX est lu EN ENTIER a l'ouverture de chaque thread de jeu et reste en contexte tout le thread, en face de la roadmap en cours, des deux Sommaires et des fiches de l'etape. 90 000 laisse la place a ce socle et a la narration. CODEX et BIBLE ne sont jamais en contexte ensemble : la BIBLE n'est pas lue en jeu.
 - Verification au build : calculer plafond(N), puis `wc -m` (caracteres, locale UTF-8) sur le fichier genere, UNE fois en fin de build. Les deux valeurs sont reportees en S1.
 
 ### Repartition
@@ -122,7 +122,7 @@ Chaque fait n'apparait qu'une seule fois dans tout le systeme. Emplacement canon
 - Power-scaling -> WIKI
 - Roadmaps -> WIKI ({Univers}/Roadmap/<Prota>/)
 - Fiches personnages -> WIKI
-- Arcs joues, CHRONO archivee -> Parties/
+- Arcs joues, CHRONO archivee -> Parties/ (indexes au Sommaire de jeu)
 - Decisions et bifurcations prises -> Parties/ (Decisions/)
 - Regles d'Or, hierarchie des sources, interdits generiques -> Instructions RP/Wiki (lues a chaque tour, jamais dupliquees dans le CODEX)
 
@@ -144,24 +144,26 @@ Chaque fait n'apparait qu'une seule fois dans tout le systeme. Emplacement canon
 - S3a DESCRIPTIF, JAMAIS NARRATIF : une capacite s'ecrit regle + limites (ce qu'elle fait, ce qu'elle ne fait pas, contre quoi elle echoue). Zero exploit, zero historique ("a fait reculer X", "a entame Y" -> CHRONO ou Memoire narrative). L'invariant DECRIT, la CHRONO raconte.
 
 ### Fetch conditionnel au build (vitesse)
-- Ne fetcher une page du repo (fiche d'arc, Sommaire, roadmap, page WIKI/Parties) QUE si une decision de build en DEPEND : resolution d'un renvoi `cf.`, debusquage d'un doublon SUSPECT (pas une verification exhaustive de pages absentes du contexte).
+- Ne fetcher une page du repo (Sommaire, Sommaire de jeu, roadmap, page WIKI/Parties) QUE si une decision de build en DEPEND : resolution d'un renvoi `cf.`, debusquage d'un doublon SUSPECT (pas une verification exhaustive de pages absentes du contexte).
 - Par defaut : NE PAS fetcher. Le doute leger ne justifie pas un aller-retour reseau : marquer `[INCERTAIN]` coute moins cher qu'un fetch et laisse le joueur trancher.
-- Pas de sur-verification : une fiche d'arc / roadmap se consulte au plus une fois, en LECTURE SEULE, si et seulement si l'etat de frontiere ou un renvoi en depend.
+- Pas de sur-verification : une page se consulte au plus une fois, en LECTURE SEULE. Exception obligatoire : la roadmap en cours, pour fixer l'etape courante (cf. 4ter, triage c).
 
 ## 4ter. Sortie de build RP (TROIS LIVRABLES OBLIGATOIRES)
 Tout CODEX BUILD de fin de thread RP produit trois sorties. Les trois EXISTENT toujours ; c'est leur FORME qui s'allege quand il n'y a rien a produire.
 
 1. CODEX_NARRATIF.md (`Parties/{Univers}/Partie<n>/`) - la memoire CHAUDE. Ecrase la version precedente. Etat courant, PNJ en scene, divergences fraiches, Tchekhov (etat), CHRONO de session. Autosuffisant sur la continuite (ou on en est, ou on va), renvoie a BIBLE/WIKI/Parties pour le lore et le passe.
 
-2. La memoire REFROIDIE - fichiers .md dans Parties/ pour ce qui sort durablement de scene a l'arc a venir (PNJ qui disparaissent, factions dissoutes, lieux quittes, arcs clos). Exemple type : une faction ou un groupe de PNJ qui sort durablement de scene. Indexes dans le CODEX via pointeur `cf. PARTIES <dossier>/<page>.md`. Un fichier par entite ou groupe coherent qui refroidit ; on ECRASE si l'entite refroidit davantage, on n'empile pas. SI RIEN NE REFROIDIT a ce build : NE PAS creer de fichier - une seule ligne dans la presentation de build suffit ("refroidi : rien a sortir ce thread"). Pas de livrable .md vide a structurer. Les pointeurs `cf. PARTIES` des pages refroidies sont PERMANENTS : ils survivent au test de saillance et aux builds suivants, regroupes dans l'index Refroidi (ANNEXE_CHRONO, cf. gabarit). Cet index est le substitut du Sommaire pour Parties/ entre deux BIBLE BUILDs (le Sommaire, page WIKI, n'est mis a jour qu'au BIBLE BUILD) : le test de fetch des Instructions RP croise Sommaire OU index Refroidi. PATCH SOMMAIRE : quand le build cree ou ecrase des fichiers refroidis, la presentation de build inclut un bloc `PATCH SOMMAIRE (à transmettre)` : les lignes d'index de la section Parties/ du Sommaire, prêtes à être reportées telles quelles. Le build ne touche JAMAIS au Sommaire lui-meme (perimetre WIKI) ; il fournit le patch, le joueur le transmet au prochain passage WIKI, et c'est le MJ de ce passage qui l'écrit dans le Sommaire. Entre-temps, l'index Refroidi reste le substitut consultable.
+2. La memoire REFROIDIE - fichiers .md dans Parties/ pour ce qui sort durablement de scene a l'arc a venir (PNJ qui disparaissent, factions dissoutes, lieux quittes, arcs clos). Exemple type : une faction ou un groupe de PNJ qui sort durablement de scene. Un fichier par entite ou groupe coherent qui refroidit ; on ECRASE si l'entite refroidit davantage, on n'empile pas. SI RIEN NE REFROIDIT a ce build : NE PAS creer de fichier - une seule ligne dans la presentation de build suffit ("refroidi : rien a sortir ce thread"). Pas de livrable .md vide a structurer.
+
+   SOMMAIRE DE JEU (`Parties/{Univers}/Partie<n>/Sommaire_Jeu.md`, gabarit : SPEC_BIBLE_LORE_WIKI S8). C'est l'INDEX de toute la memoire froide de la partie : une entree par page Parties/ (Suivi, Archives, Decisions), avec les SUJETS qu'elle couvre (personnages, lieux, objets, fils, periode), pour que le MJ sache ou piocher sans tout fouiller. Le build l'ECRIT LUI-MEME, dans le meme build que les pages qu'il cree ou ecrase : toute page creee, relivree ou dont les sujets changent y est reportee, version comprise. Fetche a l'ouverture de chaque thread de jeu. Le Sommaire du WIKI n'indexe pas Parties/ : le build n'y touche pas. Memoires/ n'y figure jamais.
 
 3. Memoire_{Univers}_<n> - l'archive NARRATIVE du thread : recit condense des battements joues, destinee au JOUEUR (topo, relecture, alimentation d'une autre IA) ET au BUILD (recalibrage de style, cf. ci-dessous). Un fichier FIGE par thread, jamais reecrit. Nommage : `Memoire_{Univers}_<n>.md`, empile (n = numero de thread).
 
-   EMPLACEMENT : `Parties/{Univers}/Partie<n>/Memoires/`. Écrit sur le dépôt par le MJ (Instructions Wiki §8bis, valable aussi au CODEX BUILD), comme les autres pages Parties/. Echappe au budget de page Parties (500-2000 tokens) : c'est une archive narrative, pas une fiche.
+   EMPLACEMENT : `Parties/{Univers}/Partie<n>/Memoires/`. Ecrit sur le depot par le MJ (Instructions Wiki S8bis, valable aussi au CODEX BUILD), comme les autres pages Parties/. Echappe au budget de page Parties (500-2000 tokens) : c'est une archive narrative, pas une fiche.
 
    NON INDEXEE AU SOMMAIRE - meme doctrine que `Roadmap/<Prota>/` : un dossier indexe parait fetchable en narration. On y accede par listing direct du dossier au build (cf. ACCES GITHUB, methode dossier).
 
-   INTERDITE EN NARRATION. Le MJ ne la fetche JAMAIS de sa propre initiative. Raisons : (a) elle est cumulative et non bornee - un thread de plus, un fichier de plus ; (b) c'est de la prose longue, exactement ce qui noie un contexte (lost-in-the-middle) ; (c) elle reinjecterait en pleine narration ce que le test de saillance vient d'evacuer. Seule exception : un ordre OOC EXPLICITE du joueur, qui prime par hierarchie. La continuite en jeu passe par le CODEX ; le detail des scenes closes par `Parties/Archives/`.
+   INTERDITE EN NARRATION. Le MJ ne la fetche JAMAIS de sa propre initiative. Raisons : (a) elle est cumulative et non bornee - un thread de plus, un fichier de plus ; (b) c'est de la prose longue, exactement ce qui noie un contexte (lost-in-the-middle) ; (c) elle reinjecterait en pleine narration ce que le test de saillance vient d'evacuer. Seule exception : un ordre OOC EXPLICITE du joueur, qui prime par hierarchie. La continuite en jeu passe par le CODEX ; le detail des scenes closes par les pages indexees au Sommaire de jeu.
 
    FETCHABLE AU BUILD, conditionnel et pour UN usage nomme : RECALIBRER ANNEXE_STYLE (cf. gabarit ANNEXE_STYLE). Ne JAMAIS s'en servir pour reinjecter des faits dans le CODEX - un fait evacue par le test de saillance a ete evacue, le repecher annule la regle. La Memoire fournit du TON, pas du fait.
 
@@ -170,7 +172,8 @@ Tout CODEX BUILD de fin de thread RP produit trois sorties. Les trois EXISTENT t
 Procedure de triage (alimente les livrables 2 et 3) :
 a. Identifier les faits, PNJ, arcs et CHRONO qui ne sont plus pertinents pour l'arc a venir -> memoire refroidie (livrable 2).
 b. Condenser les battements du thread -> Memoire_{Univers}_<n> (livrable 3).
-c. Consulter la roadmap de l'arc a venir pour orienter le CODEX (livrable 1) vers la suite - SEULEMENT si une bascule du CODEX en depend (cf. fetch conditionnel) ; sinon s'en tenir a l'etat d'arc deja connu.
+c. FIXER L'ETAPE COURANTE (obligatoire a chaque build) : consulter la roadmap en cours et reporter dans ANNEXE_CHRONO > Arcs la roadmap, l'etape et le jalon ou reprendra le prochain thread. C'est elle que le thread suivant fetchera.
+d. Reporter au Sommaire de jeu toute page Parties/ creee ou ecrasee (livrable 2).
 
 Convention de nommage Parties/ :
 - Archive narrative : `Memoires/Memoire_{Univers}_<n>.md` (FIGEE, empilee, sur le depot, NON indexee au Sommaire, hors budget de page).
@@ -212,7 +215,7 @@ Declinaison CHRONO du GRADIENT DE FRAICHEUR (cf. S2), qui s'applique desormais a
 
 ## 7. Audit de compression
 Checklist RAPIDE integree a la passe de redaction (pas une etape ceremonielle separee). Avant de livrer le CODEX, verifier :
-1. Chaque fait n'apparait qu'une fois dans les sources EN CONTEXTE (CODEX, BIBLE, narration brute, instructions). Pour WIKI/Parties (pages non chargees) : spot-check via Sommaire / index Refroidi sur les seuls faits SUSPECTS de doublon - aucune pretention a verifier exhaustivement des pages absentes du contexte, aucun fetch sauf si une decision en depend (cf. 4bis, fetch conditionnel).
+1. Chaque fait n'apparait qu'une fois dans les sources EN CONTEXTE (CODEX, BIBLE, narration brute, instructions). Pour WIKI/Parties (pages non chargees) : spot-check via Sommaire / Sommaire de jeu sur les seuls faits SUSPECTS de doublon - aucune pretention a verifier exhaustivement des pages absentes du contexte, aucun fetch sauf si une decision en depend (cf. 4bis, fetch conditionnel).
 2. Le plafond du build est respecte : plafond(N) = min(30 000 + 3 000 x (N-1), 90 000), soit 11 000 stable + cumulatif(N), taille mesuree au `wc -m` (UNE fois) et REPORTEE dans la metadonnee `taille au build`.
 3. Les sections ne se repetent pas : RENVOI SEC applique (cf. S2), aucun mecanisme redige en toutes lettres dans 2+ sections.
 4. Le texte reste exploitable sans thread externe.
@@ -247,7 +250,7 @@ Checklist RAPIDE integree a la passe de redaction (pas une etape ceremonielle se
 - codex_version: V<N>
 - plafond: <plafond(N)> car. (bareme : min(30 000 + 3 000 x (N-1), 90 000))
 - taille au build: <wc -m> car. (<X>% du plafond(N))
-- spec au build: SPEC_CODEX v8.7 (source: embarquee | GitHub | fournie en conversation)
+- spec au build: SPEC_CODEX v8.8 (source: embarquee | GitHub | fournie en conversation)
 - bible_lore: <nom du fichier BIBLE_LORE si presente, sinon "aucune"> (sans numero de version)
 - dernier sync BIBLE: <B<x> si BIBLE presente, advisory non bloquant ; sinon "n/a">
 - wiki_base: <URL racine du WIKI GitHub si present, sinon "aucun">
@@ -355,20 +358,19 @@ Vide = sain.
 - <arc resolu>
 
 ### Fil des arcs (memoire longue - anti-amnesie)
-La suite ORDONNEE des arcs traverses dans ce RP, du premier joue jusqu'a l'arc courant, puis l'arc suivant prevu. C'est ICI que vit la memoire du chemin parcouru : en jeu on ne lit ni la grosse BIBLE ni les roadmaps, donc ce fil est le substitut de memoire pour la coherence de fond (cf. SPEC_BIBLE_LORE_WIKI, note ANTI-AMNESIE). Une ligne par arc, dans l'ordre de jeu.
+La suite ORDONNEE des arcs traverses dans ce RP, du premier joue jusqu'a l'arc courant, puis l'arc suivant prevu. C'est ICI que vit la memoire du chemin parcouru : en jeu on ne lit pas la BIBLE et la roadmap ne porte que l'arc en cours, donc ce fil est le substitut de memoire pour la coherence de fond (cf. SPEC_BIBLE_LORE_WIKI, note ANTI-AMNESIE). Une ligne par arc, dans l'ordre de jeu.
 `<#> - <Arc> : <issue / etat 1 ligne> (detail clos : cf. PARTIES Archives/<page>.md si archive)`
 - 1 - <Arc1> : <issue>
 - 2 - <Arc2> : <issue>
 - ... -> arc courant (cf. section Arcs ci-dessous) -> arc suivant prevu : <Arc suivant>
 
 ### Arcs (etat courant)
-`Arc - enjeu | jalon courant | prochain jalon | statut | fiche_arc: cf. WIKI Fiches_Arc/<Prota>/<page>.md | (build) roadmap: cf. WIKI Roadmap/<Prota>/<page>.md`
-- <arc> - <enjeu> | <jalon> | <prochain> | <ouvert/suspendu/clos> | fiche_arc: cf. WIKI Fiches_Arc/<Prota>/<page>.md | (build) roadmap: cf. WIKI Roadmap/<Prota>/<page>.md
-- L'etat d'arc (jalon courant / prochain jalon) est tenu A JOUR ici au fil du thread ; la fiche d'arc, elle, est figee a l'ouverture (cf. SPEC_BIBLE_LORE_WIKI, gabarit Fiche d'arc). Le renvoi fiche_arc: pointe la page FETCHEE une fois a l'ouverture (hors budget projet). Le renvoi roadmap: est marque (build) : il ne sert qu'a (re)construire une fiche d'arc en mode Wiki, JAMAIS au fetch en narration (la roadmap porte le futur de la saga -> risque de prefiguration).
+`Arc - enjeu | roadmap: cf. WIKI Roadmap/<Prota>/<page>.md | etape: <n> | jalon courant | statut`
+- <arc> - <enjeu> | roadmap: cf. WIKI Roadmap/<Prota>/<page>.md | etape: <n> | <jalon> | <ouvert/suspendu/clos>
+- Fixe a chaque build (4ter, triage c). Le thread de jeu suivant fetche CETTE roadmap a l'ouverture et reprend a CETTE etape.
 
-### Refroidi (index PERMANENT - survit au test de saillance)
-`<entite ou groupe> -> cf. PARTIES <dossier>/<page>.md`
-- <entite> -> cf. PARTIES Suivi/<page>.md
+### Memoire froide
+Index de Parties/ : cf. PARTIES Sommaire_Jeu.md (tenu par le build, fetche a l'ouverture).
 
 ---
 

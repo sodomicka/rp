@@ -1,13 +1,13 @@
-# SPEC_BIBLE_LORE_WIKI v8.9
+# SPEC_BIBLE_LORE_WIKI v9.0
 
 Ce fichier definit la forme, les regles de construction et le gabarit du systeme BIBLE_LORE + WIKI + Parties :
-- `BIBLE_LORE_{UNIVERS}.md` - index de routage + lore condense. Vit sur le depot, a la racine de `{Univers}/`. Lue EN ENTIER a l'ouverture de chaque thread de build (worldbuilding), avec le Sommaire et le journal d'implications. Pas lue en jeu : en narration, c'est la fiche d'arc qui prend le relais (cf. S10).
+- `BIBLE_LORE_{UNIVERS}.md` - index de routage + lore condense. Vit sur le depot, a la racine de `{Univers}/`. Lue EN ENTIER a l'ouverture de chaque thread de build (worldbuilding), avec le Sommaire et le journal d'implications. Pas lue en jeu : en narration, la roadmap en cours et les fiches de l'etape prennent le relais (cf. S10).
 - WIKI GitHub (`{Univers}/`) - pages .md du monde, consultees par fetch a la demande. Cout zero en contexte tant que non fetchees.
-- Parties GitHub (`Parties/{Univers}/Partie<n>/`) - memoire froide du RP, arcs joues, tracking PNJ, CHRONO archivee. Consultees par fetch a la demande. Chaque `<n>` correspond a un RP distinct dans le meme univers.
+- Parties GitHub (`Parties/{Univers}/Partie<n>/`) - memoire froide du RP, arcs joues, tracking PNJ, CHRONO archivee, indexee par le Sommaire de jeu. Consultees par fetch a la demande. Chaque `<n>` correspond a un RP distinct dans le meme univers.
 
 Le modele doit produire des documents factuels, structures, sans narration, sans interpretation non balisee.
 
-Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_WIKI_v8_9.md`.
+Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_WIKI_v9_0.md`.
 
 ---
 
@@ -16,7 +16,7 @@ Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_
 La BIBLE_LORE est le point d'entree du systeme de reference lore. Elle contient :
 1. Le lore condense de l'univers (SB0-SB8), lisible seul, autosuffisant pour les faits essentiels.
 2. Les definitions des fils Tchekhov du RP (SB8), migrees depuis le CODEX.
-3. L'index de routage (SB9) vers les pages WIKI et Parties/ pour le detail.
+3. L'index de routage (SB9) vers le Sommaire du WIKI pour le detail.
 
 Le WIKI (`{Univers}/`) contient le monde : fiches personnages, chronologie detaillee, roadmaps, power-scaling, lore approfondi.
 
@@ -40,29 +40,27 @@ Le systeme BIBLE_LORE + WIKI est utilise des que l'univers necessite un socle de
 
 ```
 CODEX (vivant, memoire chaude de session)
-  |-> BIBLE_LORE (index + lore condense, sur le depot, lue en entier a l'ouverture de chaque thread de build)
-  |     |-> WIKI GitHub {Univers}/ (pages .md du monde, fetch a la demande)
-  |     |     |-> {Univers}/Roadmap/<Prota>/ (itineraires par arc, par perspective de prota)
-  |     |     |-> {Univers}/Fiches_Arc/<Prota>/ (fiches de narration par arc : trame + bible de l'etape, tronquees a la sortie de l'etape, chargees une fois a l'ouverture de thread)
-  |-> Parties/{Univers}/Partie<n>/ (memoire froide d'un RP donne, fetch a la demande)
-        |-> Suivi/ (fiches PNJ affectes, protagoniste)
+  |-> BIBLE_LORE (index + lore condense, sur le depot, lue en entier a l'ouverture de chaque thread de build ; pas lue en jeu)
+  |     |-> WIKI GitHub {Univers}/ (pages .md du monde, fetch a la demande ; index : Sommaire.md)
+  |     |     |-> {Univers}/Roadmap/<Prota>/ (itineraires par arc, par perspective de prota ; la roadmap en cours est un document de jeu)
+  |-> Parties/{Univers}/Partie<n>/ (memoire froide d'un RP donne, fetch a la demande ; index : Sommaire_Jeu.md)
+        |-> Suivi/ (fiches PNJ affectes, protagoniste, memoire refroidie)
         |-> Archives/ (CHRONO archivee, arcs clos)
         |-> Decisions/ (bifurcations prises dans ce RP)
 ```
 
-Le CODEX ANNEXE_CHRONO pointe vers la fiche d'arc COURANTE via `fiche_arc: cf. WIKI Fiches_Arc/<Prota>/<page>.md`, et tient le FIL LONG des arcs traverses (suite ordonnee des arcs deja joues -> arc courant -> arc suivant prevu) : c'est lui, pas la roadmap, qui porte la memoire du chemin parcouru en jeu. Le renvoi `roadmap: cf. WIKI Roadmap/<Prota>/<page>.md` ne sert qu'au BUILD (creer la fiche d'arc) et n'est PAS fetche en narration. La fiche d'arc et la roadmap sont par perspective de prota ; les decisions specifiques a un RP sont tracees dans `Parties/{Univers}/Partie<n>/Decisions/`, et le passe joue archive dans `Parties/{Univers}/Partie<n>/Archives/`.
+Le CODEX ANNEXE_CHRONO pointe vers la roadmap COURANTE et son etape via `roadmap: cf. WIKI Roadmap/<Prota>/<page>.md | etape: <n>`, et tient le FIL LONG des arcs traverses (suite ordonnee des arcs deja joues -> arc courant) : c'est lui qui porte la memoire du chemin parcouru en jeu. Les decisions specifiques a un RP sont tracees dans `Parties/{Univers}/Partie<n>/Decisions/`, et le passe joue archive dans `Parties/{Univers}/Partie<n>/Archives/`.
 
-### Roadmap, fiche d'arc, CODEX : trois roles distincts
-- ROADMAP (`Roadmap/<Prota>/`) : l'ITINERAIRE de toute la saga - les jalons jouables dans l'ordre, conditions d'avancement, bifurcations, futur compris. Grain : le JALON (ce qui arrive, qui est la, ou, quand ; matiere dictee telegraphique) - le detail de scene n'y a pas sa place, il va au Deroule de la fiche d'arc. SOURCE DE BUILD UNIQUEMENT : matiere premiere des fiches d'arc (une etape = une fiche), lue en mode Wiki en listant le dossier. NON indexee au Sommaire, JAMAIS fetchee en narration (le MJ qui lirait le futur de la saga prefigurerait en prose). Reste au repo comme reference de construction.
-- FICHE D'ARC (`Fiches_Arc/<Prota>/`) : la TRAME + la BIBLE de l'etape. (1) DEROULE de l'etape : les temps de l'etape de roadmap, dans l'ordre, detailles au grain de la scene, jusqu'a la condition de sortie. (2) Mini-bible autosuffisante : casting + lieux + objets + lore d'arc condense, decrits dans l'etat ou ils sont A L'OUVERTURE de l'etape. Tronquee a la SORTIE de l'etape : rien de ce qui suit la condition de sortie. Document de jeu permanent : charge une fois a l'ouverture de thread, reste tout le thread ; remplace en jeu le fetch entite-par-entite ET la lecture de la grosse BIBLE. Le Deroule est un CADRAGE MJ : il ne se narre pas d'avance, il se joue quand les choix du joueur y menent, et sert a raccorder ces choix a la trame. Maillon de navigation : porte `arc precedent` / `arc suivant` (chainage local de proche en proche, sans index global). La troncature a la sortie empeche le MJ de prefigurer au-dela de l'etape.
-- CODEX (ANNEXE_CHRONO) : l'ETAT D'ARC vivant ET LE FIL LONG - jalon courant, prochain jalon (= temps du Deroule de la fiche d'arc chargee), statut, PLUS la suite ordonnee des arcs deja traverses (memoire du chemin parcouru). Reinjecte en tete chaque tour (immunite lost-in-the-middle). C'est le CODEX - pas la roadmap (futur prevu, hors jeu), pas la fiche d'arc (qui ignore le passe) - qui tient ou on en est ET d'ou l'on vient. Le detail archive du passe joue (scenes closes) vit dans Parties/Archives, fetchable a la demande.
+### Roadmap et CODEX : deux roles distincts
+- ROADMAP (`Roadmap/<Prota>/`) : l'ITINERAIRE de l'arc - jalons dans l'ordre, casting, lieux, echelle temporelle, conditions de sortie (requis + interdits), verrous, roadmap suivante. Grain : le JALON (ce qui arrive, qui est la, ou, quand ; matiere dictee telegraphique). Le detail de scene n'y a pas sa place : il se met en scene EN JEU, a partir du jalon et des fiches. La roadmap EN COURS est un document de jeu : fetchee a l'ouverture du thread, elle fait foi sur la trame de l'etape. Elle porte aussi du futur : c'est un CADRAGE MJ, jamais un texte a annoncer en prose (Instructions RP S5).
+- CODEX (ANNEXE_CHRONO) : l'ETAT D'ARC vivant ET LE FIL LONG - roadmap et etape courantes, jalon courant, statut, PLUS la suite ordonnee des arcs deja traverses. C'est le CODEX qui tient ou on en est ET d'ou l'on vient ; la roadmap dit ou l'on va. Le detail archive du passe joue vit dans Parties/, indexe au Sommaire de jeu.
 
-> ANTI-AMNESIE. En jeu on ne consulte ni la grosse BIBLE ni les roadmaps. La memoire de l'histoire ne repose donc PAS sur ces deux sources mais sur deux autres, par horizon : (a) MEMOIRE LONGUE / coherence du chemin -> CODEX ANNEXE_CHRONO (fil ordonne des arcs traverses) + Parties/Archives (detail des scenes closes, fetch a la demande) ; (b) ARC COURANT -> la fiche d'arc chargee. La roadmap decrit le FUTUR PREVU, pas le PASSE VECU : ce n'est pas un substitut de memoire. Si un fait de fond profond manque vraiment et n'est ni en CODEX, ni en fiche, ni en Archives -> fetch cible Parties/Archives ou, en dernier recours hors jeu, la BIBLE complete.
+> ANTI-AMNESIE. En jeu on ne consulte pas la BIBLE. La memoire de l'histoire repose sur deux sources, par horizon : (a) MEMOIRE LONGUE / coherence du chemin -> CODEX ANNEXE_CHRONO (fil ordonne des arcs traverses) + pages Parties/ indexees au Sommaire de jeu (fetch a la demande) ; (b) ETAPE COURANTE -> la roadmap en cours + les fiches de l'etape. La roadmap decrit le FUTUR PREVU, pas le PASSE VECU : ce n'est pas un substitut de memoire.
 
 ### Flux de resolution d'un fait lore
 1. CODEX (divergence fraiche du RP ?) -> si oui, utiliser.
-2. BIBLE_LORE SB0-SB8 (fait condense ?) -> si oui, utiliser.
-3. BIBLE_LORE SB9 -> Sommaire.md (deja en contexte depuis le fetch initial) : identifier la page, puis fetch de la page.
+2. Roadmap en cours et fiches deja en contexte -> si oui, utiliser.
+3. Sommaire.md (WIKI) ou Sommaire_Jeu.md (Parties/), deja en contexte : identifier la page, puis fetch de la page.
 4. Fetch / #SITES_REF (canon externe) -> si hors perimetre BIBLE + WIKI.
 5. Invention prudente -> coherente avec les echelons superieurs.
 
@@ -90,7 +88,7 @@ Regles derivees :
 - Pas de narration, pas de prose, pas de metaphores.
 - Pas d'adjectifs decoratifs ni de jugements de valeur.
 - Phrases > 25 mots interdites.
-- Ingestion : pour interroger le canon, requêter la forme d'origine du nom (accentuée si elle l'est : meilleur rappel).
+- Ingestion : pour interroger le canon, requeter la forme d'origine du nom (accentuee si elle l'est : meilleur rappel).
 - Aucune theorie de fans. Aucune speculation non balisee.
 
 ### Niveaux de certitude
@@ -160,9 +158,8 @@ Inclut les divergences RP formalisees (balisees `[DIVERGENCE RP]`).
 #### SB3 Chronologie
 `Date/Ere | Evenement | Consequence`
 
-Detail des etapes par arc : cf. {Univers}/Roadmap/<Prota>/ - SOURCE DE BUILD UNIQUEMENT.
-JAMAIS fetchee en narration : la roadmap porte le FUTUR de la saga, un MJ qui la lit prefigure en prose (cf. S3 "trois roles distincts", note ROADMAPS NON INDEXEES du Sommaire, SPEC_CODEX ANNEXE_CHRONO, Instructions RP S4.1.d).
-En jeu : le cadrage de l'arc courant vient de la FICHE D'ARC (tronquee a la frontiere) ; le fil long des arcs traverses vient du CODEX ANNEXE_CHRONO.
+Detail des etapes par arc : cf. {Univers}/Roadmap/<Prota>/.
+En jeu : la roadmap en cours et son etape (designees par le CODEX ANNEXE_CHRONO) cadrent l'arc ; le fil long des arcs traverses vient du CODEX ANNEXE_CHRONO.
 
 Notes de cadrage chronologique en fin de SB3 sous `### Notes`.
 
@@ -212,7 +209,7 @@ Definitions des fils narratifs plantes dans le RP. L'ETAT de chaque fil (ouvert/
 `Fil - plante en | condition de detonation | consequence attendue`
 
 #### SB9 Index - routage [OBLIGATOIRE si WIKI present]
-SB9 ne contient PAS l'index detaille page-par-page. Cet index vit dans `{Univers}/Sommaire.md` (page WIKI fetchee au debut de chaque thread, cf. Instructions RP S4), pour que SB9 reste de taille fixe et ne croisse plus avec le nombre de pages.
+SB9 ne contient PAS l'index detaille page-par-page. Cet index vit dans `{Univers}/Sommaire.md` (page WIKI fetchee au debut de chaque thread, cf. Instructions RP S4) ; celui de Parties/ vit dans `Sommaire_Jeu.md` de chaque partie, pour que SB9 reste de taille fixe et ne croisse plus avec le nombre de pages.
 
 Contenu de SB9 :
 - `Index detaille page-par-page : cf. WIKI {Univers}/Sommaire.md`
@@ -221,7 +218,7 @@ Regles de SB9 :
 - L'inventaire des dossiers (avec compte de pages) est deja dans SB0 `pages wiki rattachees` - il sert de filet de securite si Sommaire.md tombe (listing direct via la methode dossier de ACCES GITHUB).
 - SB1-SB8 portent le resume ambiant : le MJ sait CE QUI EXISTE sans fetch. Sommaire.md dit OU est le detail. La page cible porte le detail.
 - Sommaire.md est fetche au debut de chaque thread RP (carte de navigation centrale) et reste en contexte. Fetche tot pour rester saillant (eviter le lost-in-the-middle). Regles d'usage : Instructions RP S4.
-- Chaque page reste une unite autonome, fetchee en entier. L'URL se construit : `wiki_base` ou `parties_base` (SB0) + `<Dossier>/<Page>.md`.
+- Chaque page reste une unite autonome, fetchee en entier. L'URL se construit : `raw_base` ou `parties_raw_base` (SB0) + `<Dossier>/<Page>.md`.
 
 ---
 
@@ -240,11 +237,10 @@ Exemples d'arborescence : `Personnages/Macht/` (Macht neutre) ; `Personnages/<Pr
 Les pages WIKI sont des fichiers .md heberges sur un depot GitHub public. Chaque page est une unite de consultation autonome, fetchee en entier.
 
 Types de pages possibles :
-- Sommaire (index detaille de toutes les pages WIKI et Parties - voir gabarit ci-dessous).
+- Sommaire (index detaille de toutes les pages WIKI - voir gabarit ci-dessous).
 - Fiches personnages approfondies (neutres `<Type>/` ou perspective `<Type>/<Prota>/`).
 - Descriptions de lieux.
 - Roadmaps (itineraires par arc, par PERSPECTIVE de prota : `Roadmap/<Prota>/`).
-- Fiches d'arc (trame + bible d'une etape, tronquees a la sortie de l'etape, par PERSPECTIVE de prota : `Fiches_Arc/<Prota>/` - voir gabarit ci-dessous).
 - Power-scaling.
 - Systemes de magie/combat detailles.
 - Tout decoupage thematique pertinent au RP.
@@ -254,34 +250,34 @@ Types de pages possibles :
 - Niveaux de certitude identiques : etabli / [IMPLICITE] / [INTERPRETATION] / [INCERTAIN] / [DIVERGENCE RP].
 
 ### Budget par page
-- Fourchette : 2 000 à 12 000 caractères (vérification : wc -m).
+- Fourchette : 2 000 a 12 000 caracteres (verification : wc -m).
 - En dessous de 2 000 : fusionner avec une page voisine.
-- Au-delà de 12 000 : scinder (pages satellites pour une fiche d'entité, cf. ci-dessous ; sous-pages sinon).
-- Exception : pages transcript jusqu'à 16 000 caractères.
+- Au-dela de 12 000 : scinder (pages satellites pour une fiche d'entite, cf. ci-dessous ; sous-pages sinon).
+- Exception : pages transcript jusqu'a 16 000 caracteres.
 
 ### Pages satellites d'entite
 
 Quand une fiche d'entite sature son budget, elle se scinde en pages satellites nommees par volet :
 - `<Entite>_chrono_<N>.md` : trajectoire datee par ere (precedent : Nisha_chrono_A/B).
 - `<Entite>_inventaire.md` : objets, arsenal, possessions recurrentes.
-- `<Entite>_relations_<N>.md` : reseau relationnel (règles propres : Satellite relations, ci-dessous).
+- `<Entite>_relations_<N>.md` : reseau relationnel (regles propres : Satellite relations, ci-dessous).
 La fiche mere garde le NOYAU (identite, mecanique, psychologie) et renvoie vers ses satellites. Un satellite respecte le budget de page standard (12 000) ; sous le plancher de 2 000, il refusionne dans la fiche mere.
-Un satellite suit sa fiche mère : une fiche de groupe (précédent : Claudia_et_Lucio) a des satellites de groupe ; deux fiches distinctes ne partagent jamais un satellite.
+Un satellite suit sa fiche mere : une fiche de groupe (precedent : Claudia_et_Lucio) a des satellites de groupe ; deux fiches distinctes ne partagent jamais un satellite.
 
 ### Satellite relations
 
-OPTIONNEL. Tous les personnages n'y ont pas droit. Le worldbuilder le décide, le MJ peut le proposer, dans deux cas :
-- la fiche mère sature son budget ;
-- les relations portent assez de texture pour mériter leur page (adresses qui changent selon l'interlocuteur, régimes avant/après une bascule, rituels), même sans saturation.
-Sans satellite, les relations restent dans la fiche mère, avec les mêmes rubriques, adresses comprises.
+OPTIONNEL. Tous les personnages n'y ont pas droit. Le worldbuilder le decide, le MJ peut le proposer, dans deux cas :
+- la fiche mere sature son budget ;
+- les relations portent assez de texture pour meriter leur page (adresses qui changent selon l'interlocuteur, regimes avant/apres une bascule, rituels), meme sans saturation.
+Sans satellite, les relations restent dans la fiche mere, avec les memes rubriques, adresses comprises.
 
-DÉCOUPE. Une page par cercle quand le volume l'exige (précédent : Nisha_relations_proches, _famille, _boulot, _eleves_tokyo).
+DECOUPE. Une page par cercle quand le volume l'exige (precedent : Nisha_relations_proches, _famille, _boulot, _eleves_tokyo).
 
-GROUPABLE. Une entrée peut viser un GROUPE (faction, cercle, fratrie) au lieu d'un individu, quand ses membres partagent la même relation à l'entité. Les membres qui font exception sont nommés dans l'entrée de groupe, avec leur usage propre. Un membre dont la relation va au-delà de l'exception garde sa propre entrée ; l'entrée de groupe le nomme sans redire son détail.
+GROUPABLE. Une entree peut viser un GROUPE (faction, cercle, fratrie) au lieu d'un individu, quand ses membres partagent la meme relation a l'entite. Les membres qui font exception sont nommes dans l'entree de groupe, avec leur usage propre. Un membre dont la relation va au-dela de l'exception garde sa propre entree ; l'entree de groupe le nomme sans redire son detail.
 
-ADRESSES. Rubrique obligatoire de chaque entrée, individuelle ou de groupe : qui appelle qui comment, dans les deux sens ; tutoiement ou vouvoiement ; surnoms et leurs conditions (en privé, devant témoins, depuis telle date) ; exceptions nominatives. La liste est EXHAUSTIVE : une adresse qui n'y figure pas ne s'emploie pas, prénom compris. Un satellite peut poser la convention inverse en tête (« les appellatifs listés s'ajoutent aux prénoms, toujours disponibles » : précédent Nisha).
+ADRESSES. Rubrique obligatoire de chaque entree, individuelle ou de groupe : qui appelle qui comment, dans les deux sens ; tutoiement ou vouvoiement ; surnoms et leurs conditions (en prive, devant temoins, depuis telle date) ; exceptions nominatives. La liste est EXHAUSTIVE : une adresse qui n'y figure pas ne s'emploie pas, prenom compris. Un satellite peut poser la convention inverse en tete (" les appellatifs listes s'ajoutent aux prenoms, toujours disponibles " : precedent Nisha).
 
-RÈGLES GÉNÉRALES. Une habitude d'adresse ou de comportement qui vaut pour tous les interlocuteurs (précédent : Nisha appelle toute femme « ma belle ») s'écrit une fois, en tête du satellite (ou de la première page d'une série), jamais entrée par entrée.
+REGLES GENERALES. Une habitude d'adresse ou de comportement qui vaut pour tous les interlocuteurs (precedent : Nisha appelle toute femme " ma belle ") s'ecrit une fois, en tete du satellite (ou de la premiere page d'une serie), jamais entree par entree.
 
 Frontiere fiche/relations : la fiche mere garde la MECANIQUE d'une relation (domination, symbiose, pool partage - tout ce qui touche au systeme de pouvoir) ; la page relations porte la TEXTURE (surnoms et adresses reciproques, rituels et habitudes, dynamique, ce que l'autre sait de l'entite, evolution datee telegraphique). Cross-renvois obligatoires dans les deux sens.
 
@@ -291,9 +287,9 @@ Gabarit page relations :
 
 - version : W<N>
 
-<Une ligne : satellite de quelle fiche, pages soeurs, où vit la mécanique.>
+<Une ligne : satellite de quelle fiche, pages soeurs, ou vit la mecanique.>
 
-## Règles générales (si besoin)
+## Regles generales (si besoin)
 - <habitude d'adresse ou de comportement valable pour tous les interlocuteurs>
 
 ## <Autre entite>
@@ -304,20 +300,20 @@ Gabarit page relations :
 - Ce que <l'autre> sait : <acces au secret, angles morts>
 - Evolution datee : <telegraphique, par date>
 
-## <Groupe> (entrée de groupe)
+## <Groupe> (entree de groupe)
 - Statut : <la relation commune aux membres>
-- Surnoms / adresses : <usage du groupe> ; exceptions : <membres nommés, leur usage>
+- Surnoms / adresses : <usage du groupe> ; exceptions : <membres nommes, leur usage>
 - Dynamique : <...>
 ```
 Exemple de FORMAT (illustratif, NE PAS inscrire tel quel) :
 ```
-## Les Rôdeurs (entrée de groupe)
-- Surnoms / adresses : pour eux, Magnus et Markiona sont le Loup Noir et la Louve Blanche, jamais leurs vrais noms ; exceptions : Alidoro, Romeo et Léa emploient les vrais noms.
+## Les Rodeurs (entree de groupe)
+- Surnoms / adresses : pour eux, Magnus et Markiona sont le Loup Noir et la Louve Blanche, jamais leurs vrais noms ; exceptions : Alidoro, Romeo et Lea emploient les vrais noms.
 ```
 
 ### Derogation fiche protagoniste
 
-La fiche d'un PROTAGONISTE echappe au plafond de page standard : plafond propre de 30 000 caracteres (verification : wc -m). Même dérogation pour un personnage PIVOT désigné par le worldbuilder, noté en BIBLE SB0. Raison : c'est le document le plus central du WIKI ; la decouper pour respecter un budget pense pour des fiches PNJ multiplierait les fetchs obligatoires. Au-dela de 30k : scinder par pages satellites (ci-dessus), jamais gonfler.
+La fiche d'un PROTAGONISTE echappe au plafond de page standard : plafond propre de 30 000 caracteres (verification : wc -m). Meme derogation pour un personnage PIVOT designe par le worldbuilder, note en BIBLE SB0. Raison : c'est le document le plus central du WIKI ; la decouper pour respecter un budget pense pour des fiches PNJ multiplierait les fetchs obligatoires. Au-dela de 30k : scinder par pages satellites (ci-dessus), jamais gonfler.
 
 ### Structure interne d'une page
 Pas de gabarit impose sauf pour les Roadmaps (cf. gabarit ci-dessous). Obligations :
@@ -327,11 +323,11 @@ Pas de gabarit impose sauf pour les Roadmaps (cf. gabarit ci-dessous). Obligatio
 4. Pas de contenu narratif (sauf pages transcript = verbatim).
 
 ### Trajectoire datee (gabarit fiche d'entite)
-Troisieme strate de toute fiche perso/lieu/objet. Decrit le DEVENIR DATE de l'entite APRES le point de depart. N'existe que dans la fiche pleine ({Univers}/). INTERDITE dans la fiche d'arc.
+Troisieme strate de toute fiche perso/lieu/objet. Decrit le DEVENIR DATE de l'entite APRES le point de depart. N'existe que dans la fiche pleine ({Univers}/). En jeu, l'etat d'une entite a l'ouverture d'une etape se lit dans cette strate, a la date de l'etape ; ce qui est date apres n'est su de personne et ne se joue pas.
 Regles :
 - Forme telegraphique, une ligne par evenement. Pas de prose ; le detail narratif vit dans la roadmap.
 - ALIMENTATION A CHAUD : une entree est ajoutee UNIQUEMENT apres avoir roadmappe l'arc qui la produit. Jamais d'anticipation.
-- CANON PAR DEFAUT, neutre, reutilisable entre parties (comme roadmaps et fiches d'arc).
+- CANON PAR DEFAUT, neutre, reutilisable entre parties (comme les roadmaps).
 - OVERRIDE PAR PARTIES/ : quand une partie diverge, le delta va en Parties/{Univers}/Partie<n>/ et SURCLASSE cette strate pour la partie concernee (routage S7 inchange).
 - CONSOLIDATION : les pointeurs dates jadis en Notes de frontiere (mort canon, eveil, depart...) migrent ici sous forme datee ; Notes de frontiere ne garde que les renvois non dates et les hors-perimetre.
 - PLAFOND : par defaut 30 entrees max par fiche. Derivation : une ligne telegraphique fait ~120 car., 30 lignes ~3 600 car., soit moins du tiers du plafond de page (12 000). Le worldbuilder ajuste par univers ; il ne laisse PAS le champ vide - un placeholder non rempli dans une SPEC est une regle morte, et les Instructions Wiki interdisent explicitement de laisser un [A definir] pour esquiver une question. Au-dela du plafond : compresser ou deporter en roadmap ; depassement signale, jamais compresse seul.
@@ -349,130 +345,78 @@ Exemple de FORMAT (illustratif, NE PAS inscrire tel quel) :
 
 ### Gabarit Roadmap
 
-Les roadmaps vivent dans `{Univers}/Roadmap/<Prota>/`. Elles decrivent les itineraires par arc, par perspective de prota. Les decisions prises dans un RP donne sont tracees dans `Parties/{Univers}/Partie<n>/Decisions/`.
+Les roadmaps vivent dans `{Univers}/Roadmap/<Prota>/`, une par arc, par perspective de prota. Les decisions prises dans un RP donne sont tracees dans `Parties/{Univers}/Partie<n>/Decisions/`.
+
+DOCUMENT DE JEU. La roadmap en cours est fetchee a l'ouverture de chaque thread de jeu (Instructions RP S4) et reste en contexte tout le thread, avec les fiches de son casting. Elle doit donc porter tout ce que le MJ doit savoir pour mener l'arc sans vue d'ensemble de la saga : ou on va, qui est la, ce qui est requis, ce qui est interdit.
+
+GRAIN. Le jalon : ce qui arrive, qui est la, ou, quand. Le detail de scene (mise en scene, repliques, gestes) ne s'ecrit pas : il se joue en jeu, a partir du jalon et des fiches. Test : un detail qui ne deplace pas le jalon n'a pas sa place en roadmap.
 
 ```
-# Roadmap_<Arc>
+# Roadmap <N> - <Titre>
 
-- statut : <en cours | a venir | clos>
 - version : W<N>
+- statut : <a venir | en cours | clos> ; <JOUABLE | NON JOUABLE (narree)>
+- prota / POV : <...>
+- echelle temporelle : <duree reelle in-world, ex. ~190 ans, ~3 jours, une journee>
+- borne d'entree : <situation de depart>
+- borne de sortie : <situation qui clot l'arc> -> <roadmap suivante>
+- roadmap precedente : cf. WIKI Roadmap/<Prota>/<page>.md (ou "aucune - premier arc")
+- roadmap suivante : cf. WIKI Roadmap/<Prota>/<page>.md (ou "aucune - fin" ; embranchement : une ligne par sortie, annotee de sa condition)
 
-## Conditions de depart
-- <prerequis narratif 1>
-- <prerequis narratif 2>
+## Intention
+<1 a 3 lignes : ce que l'arc doit faire ressentir ou etablir>
 
-## Etapes
-| # | Etape | Lieu | PNJ impliques | Tchekhov lies | Duree | Condition d'avancement |
-|---|---|---|---|---|---|---|
-| 1 | <jalon> | <lieu> | <noms> | <fils> | <echelle temporelle reelle du bloc, ex. ~190 ans, ~3 jours, instantane> | <declencheur> |
+## Itineraire (jalons)
+1. <jalon : ce qui arrive, qui, ou, quand>
+2. <jalon>
+...
+Bloc couvrant un long laps a rendre en vignettes : marquer `[SNAPSHOTS - <duree chiffree>]`.
 
-Colonne DUREE : chaque bloc jouable porte son echelle temporelle REELLE in-world ("~190 ans", "~3 jours", "une saison"). Elle dit au MJ a quelle vitesse le temps s'ecoule SUR CE BLOC, pour qu'il cale l'ecoulement par defaut sur l'arc et non sur son envie de scenes. Sans duree chiffree, le MJ condense des siecles en jours (bug constate). Regle d'ecoulement cote narration : Instructions RP S3 (ellipse par defaut bornee).
+## Casting convoque
+- <Nom> - <role dans l'arc> - cf. <Type>/<page>   (ou "non fiche" + description d'une ligne)
 
-Bloc couvrant un long laps (annees/decennies) a rendre en vignettes : marquer la section `[SNAPSHOTS]`. Le MJ compresse alors en vignettes evocatrices au lieu de jouer chaque etape - compresser n'est PAS supprimer, le joueur doit sentir le temps passer (cf. Instructions RP, sequence de roadmap). Un bloc `[SNAPSHOTS]` porte d'autant plus une duree chiffree : c'est elle qui borne l'ampleur de l'ellipse.
+## Lieux et objets
+- <Lieu ou objet> - <fonction dans l'arc> - cf. <Type>/<page>   (ou "non fiche" + description d'une ligne)
 
-## Bifurcations
-- Embranchement, apres etape <N> : si <condition A> -> <consequence>. Si <condition B> -> <consequence>.
-- Etape <N>, si le joueur <refus>. Jalon verrouille : la saga en depend. Le MJ force la main, par paliers :
+## Conditions de sortie
+### Requis
+- <action que le joueur doit avoir accomplie pour que l'arc se close>
+### Interdits
+- <action que le protagoniste ne peut pas accomplir> - <ce qu'elle casserait : arc ou fait ulterieur concerne>
+
+## Verrous
+- Jalon <n> : <choix du joueur dont la saga depend>. Paliers :
   1. <palier le plus doux>
   2. Refus maintenu : <palier suivant>
   ...
   n-1. Avertissement du MJ : la suite n'est pas scenarisee et mene a l'avortement du RP.
   n. Entetement maintenu : le MJ declare la fin du RP et ne narre plus dans ce thread ; rejouer = nouveau thread, CODEX d'entree reutilise sans modification.
-- Ce protocole passe tel quel dans la fiche d'arc de l'etape <N> : la roadmap n'est pas chargee en jeu.
 
-BIFURCATIONS, deux usages.
-- EMBRANCHEMENT : le recit se separe en deux chemins (tuer ou epargner un personnage central...). Couteux : chaque branche exige ses propres suites.
-- JALON VERROUILLE : un choix du joueur dont la saga depend. Pas de seconde branche : le MJ force la main par paliers, du plus doux au plus dur, en jeu (un PNJ insiste, un autre vient en renfort, le groupe fait pression, une autorite tranche) ou en meta quand aucun PNJ ne peut le porter (rappel du MJ hors fiction). Si le refus tient, le MJ avertit que la suite n'est pas scenarisee, puis declare la fin du RP en dernier recours : rejouer, c'est un nouveau thread sans modification du CODEX d'entree, on reutilise le meme.
-- A chaque roadmap, le MJ repere les choix du joueur dont la saga depend et propose un verrou pour chacun.
-- Le protocole d'un verrou passe tel quel dans le Deroule de la fiche d'arc de l'etape : la roadmap n'est pas chargee en jeu.
-
-## Conditions de cloture
-- <condition de fin d'arc>
-- <consequence sur l'univers>
-
----
-FIN_WIKI_ROADMAP_<ARC>
-```
-
-### Gabarit Fiche d'arc
-
-Les fiches d'arc vivent dans `{Univers}/Fiches_Arc/<Prota>/`, par perspective de prota, comme les roadmaps. C'est un DOCUMENT DE JEU PERMANENT : le MJ la charge une fois a l'ouverture de thread (cf. Instructions RP S4) et elle reste en contexte tout le thread, contrairement aux fiches d'entites fetchees a la demande.
-
-GRANULARITE (regle ferme). Une ROADMAP couvre une saga / un gros bloc d'itineraire et se decompose en ETAPES. L'unite-arc, c'est l'ETAPE : UNE etape de roadmap = UN arc = UNE fiche d'arc. Pas de regroupement d'etapes, pas de decoupage a arbitrer - le decoupage est deja porte par la segmentation de la roadmap. Une roadmap de N etapes produit donc N fiches d'arc (le compte total peut etre eleve, c'est attendu et voulu).
-
-Principe directeur : la roadmap dit OU on va (jalons de toute la saga, futur compris) ; la fiche d'arc dit COMMENT SE JOUE l'etape. Elle porte deux choses : (1) le DEROULE de l'etape - les temps de l'etape de roadmap, dans l'ordre, chacun detaille au grain de la scene ; (2) la MINI-BIBLE de l'etape - le casting en scene AU DEPART de l'etape, plus le lore d'arc condense (les points de BIBLE / fiches strictement pertinents, reformules court). Elle reunit TOUT ce qu'il faut pour jouer l'etape sans rouvrir ni la roadmap ni la grosse BIBLE, et remplace en narration le fetch entite-par-entite ET la lecture de la BIBLE. MAIS elle reste tronquee a la SORTIE de l'etape (cf. regle de troncature).
-
-GRAIN (regle de partage roadmap / fiche d'arc). Roadmap : le jalon - ce qui arrive, qui est la, ou, quand, condition d'avancement. Fiche d'arc, Deroule : comment ca se joue - mise en scene, positions, attitudes, ce que chacun percoit, repliques en substance, reactions, apartes. Test : un detail qui ne deplace pas le jalon mais change la scene va au Deroule, pas a la roadmap. Le Deroule reprend chaque jalon de l'etape tel quel, puis lui ajoute ce detail.
-
-BUILD DU DEROULE (passe 3 = mise en scene). Source : l'etape de roadmap (jalons + matiere dictee) + les fiches WIKI neutres des entites convoquees + la BIBLE. Le MJ derive un Deroule au grain de la scene et le PROPOSE temps par temps ; le worldbuilder dicte, corrige, valide ; un temps non valide ne se fige pas. Contrat inchange : le detail de scene est une proposition de mise en scene, jamais un fait de lore invente - tout fait d'univers reste du ressort du worldbuilder et des sources.
-
-REGLE DE TRONCATURE (le coeur de la fiche). La frontiere de la fiche est la CONDITION DE SORTIE de l'etape (roadmap, colonne Condition d'avancement). Tout ce qui se joue entre l'ouverture et cette sortie a sa place dans la fiche ; rien de ce qui la suit.
-- Sections d'etat (Cadre d'ouverture, mini-bible, PNJ, Lieux, Objets) : etat, relations, position, savoir tels qu'ils sont au premier battement jouable de l'etape. L'evolution DANS l'etape est portee par le Deroule, au temps ou elle se produit, une seule fois - pas dupliquee dans les sections d'etat.
-- Un point de lore qui se REVELE au cours de l'etape va dans le Deroule, au temps ou il se revele ; pas dans la mini-bible.
-- INTERDIT : tout fait posterieur a la sortie de l'etape - l'etape suivante, une mort future, une trahison a venir, un pouvoir pas encore acquis, le retournement d'un arc ulterieur. Ces faits vivent dans la ROADMAP (build) et dans les fiches WIKI neutres completes, jamais dans la fiche d'arc chargee en permanence.
-- La fiche d'arc est ce que le MJ peut avoir en tete en permanence : la trame de l'etape, et rien au-dela.
-
-IRONIE STRUCTURELLE vs PREFIGURATION SPECIFIQUE (distinction a ne pas confondre) :
-- L'IRONIE DRAMATIQUE voulue par le worldbuilder (le joueur sait une chose qu'un PNJ ignore) est un MOTEUR de RP. Elle vit dans le CODEX (ANNEXE_SAVOIRS > Ironie dramatique active) et reste. La fiche d'arc tronquee ne la tue pas : elle empeche seulement le MJ d'en savoir trop sur la suite et de le laisser filtrer en prose.
-- La PREFIGURATION SPECIFIQUE en prose est une FUITE, de deux especes : (i) au-dela de l'etape ("ce qu'il ne comprendra que des siecles plus tard", un evenement d'un arc ulterieur annonce dans le recit) - coupee par la troncature ; (ii) a l'interieur de l'etape - un temps du Deroule narre ou annonce avant que les choix du joueur n'y menent. Le Deroule se joue, il ne s'annonce pas.
-- Test : un fait sert l'ironie connue du JOUEUR -> CODEX (ANNEXE_SAVOIRS). Un fait dit au MJ ce qui arrive APRES la sortie de l'etape -> roadmap, hors fiche d'arc. Un fait dit au MJ comment se joue un temps de l'etape -> Deroule de la fiche d'arc.
-
-Budget : la fiche d'arc est l'EXCEPTION au plafond des pages WIKI. Comme c'est le SEUL document de lore charge a l'ouverture (la BIBLE n'est plus lue en jeu), elle a le droit d'etre lourde : aussi courte que possible, aussi longue que necessaire pour etre autosuffisante sur l'etape. Pas de plafond serre de page standard. Reste oriente "ce qu'il faut pour jouer l'etape" : on rapatrie le lore PERTINENT, condense (pas d'extraits integraux de la BIBLE), jamais du remplissage. PLAFOND SOUPLE : viser <= 20 000 caracteres ; au-dela, SIGNALER, puis dans l'ordre : compresser la mini-bible (renvois vers les fiches neutres a la place du condense) avant de toucher au Deroule, qui est la raison d'etre de la fiche ; scinder en dernier recours (ex. `Fiches_Arc/<Prota>/<Arc>_partie1.md`) ; jamais gonfler. Raison : la fiche d'arc n'est pas gratuite parce qu'elle est fetchee. Elle occupe le contexte de jeu EN FACE du CODEX (jusqu'a 90 000 car. au terminal du bareme) et reste chargee tout le thread. "Aussi longue que necessaire" sans repere chiffre etait la seule regle du systeme sans garde-fou - portant justement le document le plus lu de la phase de jeu.
-
-```
-# Fiche_Arc_<Arc>
-
-- version : W<N>
-- roadmap liee : cf. WIKI Roadmap/<Prota>/Roadmap_<Arc>.md
-- frontiere : sections d'etat = OUVERTURE de l'etape ; Deroule = jusqu'a la SORTIE de l'etape. Rien au-dela (cf. SPEC regle de troncature).
-- arc precedent : cf. WIKI Fiches_Arc/<Prota>/Fiche_Arc_<ArcPrecedent>.md   (ou "aucun - premier arc")
-- arc suivant : cf. WIKI Fiches_Arc/<Prota>/Fiche_Arc_<ArcSuivant>.md   (ou "aucun - fin ouverte / dernier arc")
-
-> CHAINAGE LOCAL. Les champs `arc precedent` / `arc suivant` font de chaque fiche un maillon : la navigation entre arcs se fait DE PROCHE EN PROCHE par ces pointeurs, sans repasser par un index global des roadmaps (les roadmaps ne sont plus indexees au Sommaire en jeu - cf. note Roadmap du Sommaire). EMBRANCHEMENT (cf. gabarit Roadmap, Bifurcations) : si l'arc debouche sur plusieurs suites (ex. branche canon vs branche divergente), lister UN pointeur `arc suivant` par sortie, chacun annote de sa condition (ex. "si <condition A> -> Fiche_Arc_<X>.md ; si <condition B> -> Fiche_Arc_<Y>.md"). FIN OUVERTE : `arc suivant : aucun`. La MEMOIRE du chemin deja parcouru ne vit PAS ici (la fiche ignore le passe joue) : elle vit dans le CODEX ANNEXE_CHRONO (fil long des arcs traverses) et dans Parties/Archives - cf. section 3, trois roles.
-
-## Cadre d'ouverture
-- Lieu(x) de depart : <ou commence l'arc>
-- Situation initiale : <etat du monde au premier battement, sans rien annoncer de la suite>
-- Echelle temporelle de l'arc : <duree totale, ex. ~190 ans - cale l'ecoulement par defaut, cf. roadmap colonne Duree>
-- Condition de sortie : <copiee de la roadmap, colonne Condition d'avancement - la frontiere de cette fiche>
-
-## Lore d'arc condense (mini-bible)
-Le lore strictement necessaire pour jouer cette etape sans rouvrir la grosse BIBLE. Condense, reformule court (pas d'extraits integraux). Borne a l'ouverture de l'etape : un point de lore qui ne se REVELE qu'au cours de l'etape va dans le Deroule, au temps ou il se revele (cf. troncature).
-- Contexte de l'etape : <ce qui s'est passe avant, l'enjeu de cette etape, ce qui amene les personnages la - vu depuis l'ouverture>
-- Lore pertinent : <regles du monde, systemes, faits d'univers que le MJ doit avoir en tete pour CETTE etape - condense des sections BIBLE / fiches concernees, reformule>
-- Enjeux et fils chauds : <Tchekhov actifs a l'ouverture (etat initial seul), savoirs / ironies en jeu - sans annoncer leur aboutissement>
-
-## PNJ presents ou evoques a l'ouverture
-Pour chaque PNJ : etat A L'OUVERTURE uniquement.
-- <PNJ> - role a l'ouverture | relation au prota a l'ouverture | adresses en vigueur entre présents (tu/vous, surnoms, ce qui ne s'emploie pas), reprises du satellite relations ou de la fiche | savoir a l'ouverture | fiche neutre : cf. WIKI <Type>/<page>.md
-
-## Lieux de l'arc
-- <Lieu> - etat/fonction a l'ouverture | fiche : cf. WIKI <Type>/<page>.md
-
-## Objets presents ou evoques
-- <Objet> - etat/localisation a l'ouverture | fiche : cf. WIKI <Type>/<page>.md
-
-## Deroule de l'etape
-Les temps de l'etape, dans l'ordre, du premier battement jouable a la condition de sortie. Chaque temps = un jalon de la roadmap, repris tel quel, + son detail de scene (ce qui n'a pas sa place en roadmap : mise en scene, positions, attitudes, ce que chacun percoit, repliques en substance, reactions, apartes). Telegraphique. CADRAGE MJ : se joue quand les choix du joueur y menent, ne se narre pas d'avance ; sert a raccorder les choix du joueur a la trame.
-### T1. <date IW> - <jalon, repris de la roadmap>
-- Lieu / presents : <...>
-- Detail de scene : <...>
-- Jalon verrouille (si la roadmap en pose un sur ce temps) : <protocole par paliers, copie tel quel de la roadmap>
-- Passage a T2 : <condition ; ou "libre">
-### T2. <date IW> - <jalon>
-- ...
-### Sortie : <condition de sortie de l'etape, copiee de la roadmap>
+## Bifurcations
+- Embranchement, apres jalon <n> : si <condition A> -> <consequence, roadmap suivante A>. Si <condition B> -> <consequence, roadmap suivante B>.
 
 ## Notes de frontiere
-- <rappel explicite des faits volontairement ABSENTS de cette fiche parce que posterieurs a la SORTIE de l'etape - sans les enoncer : "l'evolution de X apres cette etape -> roadmap", pas le contenu de l'evolution>
+- <ce qui appartient a l'arc suivant, nomme sans etre deroule>
 
 ---
-FIN_WIKI_FICHE_ARC_<ARC>
+FIN_WIKI_ROADMAP_<PROTA>_<N>
 ```
+
+ECHELLE TEMPORELLE : obligatoire et chiffree. Elle dit au MJ a quelle vitesse le temps s'ecoule sur l'arc, pour qu'il cale l'ecoulement par defaut sur l'arc et non sur son envie de scenes (Instructions RP S3). Un bloc `[SNAPSHOTS]` porte sa propre duree : elle borne l'ellipse. Compresser n'est PAS supprimer : le joueur doit sentir le temps passer.
+
+CONDITIONS DE SORTIE. Le MJ en jeu n'a pas la vue d'ensemble de la saga : la roadmap la lui donne sous forme de regles.
+- REQUIS : ce que le joueur doit avoir fait pour que l'arc se close. Tant qu'un requis manque, la borne de sortie n'est pas atteinte.
+- INTERDITS : ce que le protagoniste ne peut pas faire, parce que ca casserait cet arc OU un arc ulterieur (interdits INTER-ROADMAPS : tuer un personnage dont la saga a besoin plus tard, reveler un secret avant son heure...). Le bon sens n'a pas besoin d'etre ecrit ; ce qui depend de la vue d'ensemble, si. Chaque interdit nomme ce qu'il protege, pour que le MJ en mesure le poids.
+- En jeu, un requis refuse ou un interdit tente se tient par les paliers d'un verrou : le MJ force la main du plus doux au plus dur, jamais en annoncant la raison en prose.
+
+BIFURCATIONS, deux usages.
+- EMBRANCHEMENT : le recit se separe en deux chemins (tuer ou epargner un personnage central...). Couteux : chaque branche exige ses propres suites et une roadmap suivante par sortie.
+- JALON VERROUILLE : un choix du joueur dont la saga depend. Pas de seconde branche : le MJ force la main par paliers, du plus doux au plus dur, en jeu (un PNJ insiste, un autre vient en renfort, le groupe fait pression, une autorite tranche) ou en meta quand aucun PNJ ne peut le porter (rappel du MJ hors fiction). Si le refus tient, le MJ avertit que la suite n'est pas scenarisee, puis declare la fin du RP en dernier recours.
+- A chaque roadmap, le MJ de build repere les choix du joueur dont la saga depend et propose un verrou pour chacun, et les interdits inter-roadmaps que les arcs suivants imposent.
 
 ### Gabarit Sommaire
 
-`{Univers}/Sommaire.md` porte l'index detaille que SB9 ne porte plus : une entree par page, groupee par dossier. C'est la carte de navigation du WIKI et de Parties/. Fetchee au debut de chaque thread RP. Mise a jour via BIBLE BUILD a chaque ajout de page.
+`{Univers}/Sommaire.md` porte l'index detaille du WIKI que SB9 ne porte plus : une entree par page, groupee par dossier. Fetche au debut de chaque thread RP. Mis a jour via BIBLE BUILD a chaque ajout de page. Parties/ a son propre index : le Sommaire de jeu (S8).
 
 ```
 # Sommaire - {Univers}
@@ -483,35 +427,19 @@ FIN_WIKI_FICHE_ARC_<ARC>
 
 > Chaque entree porte la version `(W<N>)` de la page : inventaire de versions. Un ecart entre ce W<N> et celui ecrit dans la page elle-meme signale une copie perimee (canari, non bloquant).
 >
-> QUI LIT LE CANARI. Un canari sans lecteur n'est pas un detecteur, c'est un enregistrement. Deux lecteurs, deux moments :
+> QUI LIT LE CANARI. Deux lecteurs, deux moments :
 > - EN NARRATION, a chaque page fetchee : le MJ compare le `W<N>` de la page au `W<N>` de son entree au Sommaire. Ecart -> `[VERSION DECALEE - <page> : Sommaire W<x>, page W<y>]` en OOC bref, NON BLOQUANT. Arbitrage : la PAGE fait foi (c'est le fichier reel ; le Sommaire n'est qu'un index). Cf. Instructions RP S4.2ter.
-> - AU BIBLE BUILD : toute page relivree incremente son `W<N>` et son entree au Sommaire est mise a jour DANS LE MEME BUILD. C'est ici que se solde un `[VERSION DECALEE]` remonte en jeu. Cf. Instructions Wiki, MODE OUTIL - BIBLE + WIKI.
+> - AU BIBLE BUILD : toute page relivree incremente son `W<N>` et son entree au Sommaire est mise a jour DANS LE MEME BUILD. C'est ici que se solde un `[VERSION DECALEE]` remonte en jeu.
 
 ### <Dossier>/
 Description : <contenu du dossier en 1 ligne>
 - <Page>.md (W<N>) - <description courte du contenu>
 
-### Fiches_Arc/<Prota>/
-Description : fiches de narration par arc (trame + bible de l'etape : Deroule au grain de la scene + mini-bible autosuffisante, tronquees a la sortie de l'etape), par PERSPECTIVE de prota. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs `arc precedent` / `arc suivant` de chaque fiche), pas par un index des roadmaps.
-- Fiche_Arc_<Arc>.md (W<N>) - <description courte>
+### Roadmap/<Prota>/
+Description : itineraires par arc, dans l'ordre de la saga. La roadmap en cours est fetchee a l'ouverture de chaque thread de jeu (designee par le CODEX).
+- <Roadmap>.md (W<N>) - <arc, bornes, echelle temporelle>
 
-> MEMOIRES NON INDEXEES. `Parties/<Partie>/Memoires/` n'est pas liste ici non plus, pour la meme raison que les roadmaps : indexer un dossier le fait paraitre fetchable en narration. Les Memoires sont des archives narratives cumulatives, interdites en jeu (sauf ordre OOC explicite) et consultees au BUILD seulement, par listing direct du dossier. Cf. SPEC_CODEX 4ter, livrable 3.
-
-> ROADMAPS NON INDEXEES EN JEU. Le dossier `Roadmap/<Prota>/` n'est PLUS liste au Sommaire. Les roadmaps restent physiquement au repo - ce sont des SOURCES DE BUILD (matiere premiere des fiches d'arc), lues en mode Wiki en listant directement le dossier `Roadmap/<Prota>/` (cf. ACCES GITHUB), jamais via le Sommaire. En jeu (RP), le MJ ne fetch jamais de roadmap : il navigue d'arc en arc par les fiches, et tient le fil long via le CODEX ANNEXE_CHRONO. Indexer les roadmaps au Sommaire les ferait croire fetchables en narration et alourdirait l'index sans usage de jeu - on les en sort donc volontairement.
-
-## PARTIES (Partie<n>)
-
-### Suivi/
-Description : fiches de suivi des personnages affectes par la narration.
-- <Page>.md (W<N>) - <description courte>
-
-### Archives/
-Description : chronologie archivee, arcs clos.
-- <Page>.md (W<N>) - <description courte>
-
-### Decisions/
-Description : bifurcations prises dans ce RP par rapport aux roadmaps.
-- Decisions_<Arc>.md (W<N>) - <description courte>
+> NON INDEXES. Le garde-cap (`Roadmap/<Prota>/00_Garde_Cap.md`) : source de build, jamais fetche en narration. `Parties/<Partie>/Memoires/` : archives narratives interdites en jeu (sauf ordre OOC explicite), consultees au BUILD seulement par listing direct du dossier. Indexer un dossier le fait paraitre fetchable en narration.
 
 ---
 FIN_WIKI_SOMMAIRE
@@ -519,7 +447,6 @@ FIN_WIKI_SOMMAIRE
 
 ### Maintenance
 Pages WIKI mises a jour via BIBLE BUILD. Statiques entre deux builds.
-Cas particulier du Sommaire : les pages Parties/ creees par un CODEX BUILD (memoire refroidie) n'y apparaissent qu'au prochain BIBLE BUILD. Entre-temps, l'index Refroidi du CODEX (ANNEXE_CHRONO) fait foi - le test de fetch des Instructions RP croise Sommaire OU index Refroidi.
 
 ---
 
@@ -532,6 +459,7 @@ Les pages Parties/ sont des fichiers .md heberges sur le meme depot GitHub, dans
 ```
 Parties/{Univers}/
   Partie1/
+    Sommaire_Jeu.md - index de la memoire de la partie (gabarit ci-dessous). Ecrit par le CODEX V1 puis tenu a jour par chaque CODEX BUILD. Fetche a l'ouverture de chaque thread de jeu.
     Suivi/
       <Protagoniste>_Fiche.md - backstory COMPLETE + identite du protagoniste (froid, fetch a la demande). PAS les capacites ni l'etat : ils vivent dans le CODEX S3 (capacites ancrees en S3a). Le CODEX S3a porte le resume chaud de cette backstory.
       <PNJ>_Suivi.md - tracking des PNJ affectes par la narration
@@ -549,6 +477,30 @@ Parties/{Univers}/
     Suivi/
     Archives/
     Decisions/
+```
+
+### Gabarit Sommaire de jeu
+
+Le MJ doit savoir OU piocher sans tout fouiller : chaque entree liste les SUJETS que la page couvre (personnages, lieux, objets, fils, periode). Un sujet qui n'y figure pas n'est pas dans la page.
+
+```
+# Sommaire de jeu - {Univers} Partie<n>
+
+- version : W<N>
+
+> Index de la memoire froide de la partie. Ecrit par le CODEX BUILD, fetche a l'ouverture de chaque thread de jeu, reste en contexte. Route un trou objectif vers la page qui le porte. `Memoires/` n'est pas indexe (interdit en jeu).
+
+### Suivi/
+- <Page>.md (W<N>) - <contenu en une ligne> | sujets : <personnages, lieux, objets, fils, periode>
+
+### Archives/
+- <Page>.md (W<N>) - <arc clos, periode> | sujets : <...>
+
+### Decisions/
+- Decisions_<Arc>.md (W<N>) - <bifurcations de l'arc> | sujets : <...>
+
+---
+FIN_PARTIES_SOMMAIRE_JEU
 ```
 
 ### Gabarit Decisions
@@ -572,12 +524,12 @@ FIN_PARTIES_DECISIONS_<ARC>
 ```
 
 ### Regles
-- Les fiches Suivi/ sont mises a jour entre les sessions via BIBLE BUILD ou manuellement par le joueur.
+- Les fiches Suivi/ sont mises a jour entre les sessions via CODEX BUILD (memoire refroidie) ou BIBLE BUILD. Toute page Parties/ creee ou relivree est reportee au Sommaire de jeu dans le meme build.
 - Les Archives/ sont en ecriture seule : une fois archivee, une CHRONO n'est plus modifiee (sauf correction d'erreur).
-- Budget par page : meme contrainte que le WIKI (2 000 à 12 000 caractères). EXCEPTION : `Memoires/` (archive narrative, non bornee, hors budget).
+- Budget par page : meme contrainte que le WIKI (2 000 a 12 000 caracteres). EXCEPTION : `Memoires/` (archive narrative, non bornee, hors budget).
 
 ### Fetch
-- Regles, declencheurs et budgets : cf. Instructions RP S4 (ouverture de thread, declencheur objectif, TTL). Non dupliques ici.
+- Regles, declencheurs et budgets : cf. Instructions RP S4 (ouverture de thread, declencheur objectif, TTL). Non dupliques ici. Le routage passe par le Sommaire de jeu.
 - Seules nuances propres a Parties/ : Archives/ en fetch exceptionnel (flashback, verification) ; Decisions/ a la demande pour verifier un choix anterieur ; `Memoires/` JAMAIS en narration (sauf ordre OOC explicite) - reserve au CODEX BUILD, usage unique : recalibrage d'ANNEXE_STYLE.
 
 ---
@@ -595,7 +547,7 @@ Le joueur fournit :
 
 ### Fetch de la SPEC
 Au premier BIBLE BUILD (aucune BIBLE existante), le MJ LISTE d'abord `Config/` pour relever le numero de version courant (Instructions Wiki S8 : clone sans blobs par defaut, listing github.com/tree en secours), PUIS fetche la SPEC correspondante.
-Ne JAMAIS recopier un numero de version fige depuis un document (SPEC, instructions, BIBLE) : c'est le mecanisme de la spec fantome - un build fait sur une revision perimee dont personne ne s'apercoit. Si la SPEC n'est pas encore sur le depot (tout premier build, rien n'existe), le joueur la fournit en fichier joint ou dans le chat pour ce premier thread. Après ce premier build, le MJ écrit la SPEC dans Config/ (Instructions Wiki §8bis) et tout passe en fetch.
+Ne JAMAIS recopier un numero de version fige depuis un document (SPEC, instructions, BIBLE) : c'est le mecanisme de la spec fantome - un build fait sur une revision perimee dont personne ne s'apercoit. Si la SPEC n'est pas encore sur le depot (tout premier build, rien n'existe), le joueur la fournit en fichier joint ou dans le chat pour ce premier thread. Apres ce premier build, le MJ ecrit la SPEC dans Config/ (Instructions Wiki S8bis) et tout passe en fetch.
 
 Pour les builds suivants, la BIBLE elle-meme sert de reference (gabarit integre dans les sections vides). Le fetch de la SPEC n'est necessaire que si le MJ a besoin de verifier une regle de construction.
 
@@ -617,8 +569,8 @@ Si sources completes et plan clair :
 
 ### Sortie du build
 - BIBLE_LORE : un fichier .md, a la racine de `{Univers}/` sur le depot. Les sections pas encore remplies conservent le gabarit (structure, champs, format) pour les builds futurs.
-- Pages WIKI : fichiers .md individuels par dossier, écrits sur le dépôt par le MJ (Instructions Wiki §8bis).
-- Pages Parties/ : fichiers .md si nécessaire, écrits de la même façon dans Parties/{Univers}/Partie<n>/.
+- Pages WIKI : fichiers .md individuels par dossier, ecrits sur le depot par le MJ (Instructions Wiki S8bis).
+- Pages Parties/ : fichiers .md si necessaire, ecrits de la meme facon dans Parties/{Univers}/Partie<n>/.
 - Structure de sortie :
 ```
 BIBLE_LORE_{UNIVERS}.md
@@ -627,10 +579,9 @@ BIBLE_LORE_{UNIVERS}.md
     <Page>.md
   Roadmap/<Prota>/
     <Page>.md
-  Fiches_Arc/<Prota>/
-    <Page>.md
 Parties/{Univers}/
   Partie<n>/
+    Sommaire_Jeu.md
     Suivi/
       <Page>.md
     Archives/
@@ -663,7 +614,7 @@ Les regles d'usage en narration (declencheur objectif de fetch, TTL, sequence d'
 
 Seuls invariants cote SPEC :
 - Chaque page WIKI/Parties est une unite autonome, fetchee en entier.
-- La BIBLE_LORE est le document DE LA PHASE BUILD : lue en entier a l'ouverture de chaque thread de worldbuilding, elle sert d'index permanent. En jeu elle n'est PAS lue : le lore pertinent est deja condense dans la FICHE D'ARC ; la BIBLE ne se recupere que par fetch cible via le Sommaire, en dernier recours (cf. Instructions RP S1, S2.1).
+- La BIBLE_LORE est le document DE LA PHASE BUILD : lue en entier a l'ouverture de chaque thread de worldbuilding, elle sert d'index permanent. En jeu elle n'est PAS lue : la roadmap en cours et les fiches de l'etape portent le lore utile ; la BIBLE ne se recupere qu'en dernier recours, sur trou objectif qu'aucune page ne couvre (cf. Instructions RP S1, S2.1).
 
 ### Ce que la BIBLE, le WIKI et Parties/ ne font PAS
 - Pas de voix PNJ (ANNEXE_PNJ du CODEX).
@@ -686,7 +637,7 @@ Le joueur peut demander un BIBLE BUILD entre deux sessions pour :
 
 Lors d'un rebuild, le numero de version de la BIBLE incremente (B1 -> B2 -> ...). L'historique des changements vit dans git (log + diff), pas dans un journal interne au fichier.
 Les pages WIKI/Parties modifiees sont re-livrees ; les autres restent intactes.
-Le MJ écrit les fichiers mis à jour sur le dépôt (Instructions Wiki §8bis).
+Le MJ ecrit les fichiers mis a jour sur le depot (Instructions Wiki S8bis).
 
 ---
 
@@ -696,18 +647,17 @@ Le MJ écrit les fichiers mis à jour sur le dépôt (Instructions Wiki §8bis).
 ```
 sodomicka/rp/
   Config/
-    SPEC_CODEX_v8_7.md
-    SPEC_BIBLE_LORE_WIKI_v8_9.md
+    SPEC_CODEX_v8_8.md
+    SPEC_BIBLE_LORE_WIKI_v9_0.md
     (numeros indicatifs : verifier le listing reel de Config/ avant tout fetch)
   <Univers>/
     <Dossier_thematique>/
       <Page>.md
     Roadmap/<Prota>/
       <Page>.md
-    Fiches_Arc/<Prota>/
-      <Page>.md
   Parties/<Univers>/
     Partie<n>/
+      Sommaire_Jeu.md
       Suivi/
         <Page>.md
       Archives/
@@ -784,9 +734,8 @@ Le depot doit etre PUBLIC pour que fetch fonctionne sans token.
 |---|---|---|
 | <date> | <evenement> | <consequence> |
 
-Detail des etapes par arc : cf. {Univers}/Roadmap/<Prota>/ - SOURCE DE BUILD UNIQUEMENT.
-JAMAIS fetchee en narration : la roadmap porte le FUTUR de la saga, un MJ qui la lit prefigure en prose (cf. S3 "trois roles distincts", note ROADMAPS NON INDEXEES du Sommaire, SPEC_CODEX ANNEXE_CHRONO, Instructions RP S4.1.d).
-En jeu : le cadrage de l'arc courant vient de la FICHE D'ARC (tronquee a la frontiere) ; le fil long des arcs traverses vient du CODEX ANNEXE_CHRONO.
+Detail des etapes par arc : cf. {Univers}/Roadmap/<Prota>/.
+En jeu : la roadmap en cours et son etape (designees par le CODEX ANNEXE_CHRONO) cadrent l'arc ; le fil long des arcs traverses vient du CODEX ANNEXE_CHRONO.
 
 ### Notes
 - <note de cadrage>

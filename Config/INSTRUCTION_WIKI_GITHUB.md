@@ -1,6 +1,6 @@
 # INSTRUCTION WIKI - ACCES GITHUB (S8)
 
-Fichier `Config/` de l'instruction de projet "INSTRUCTION - WIKI BUILD + SETUP + CODEX V1" (le coeur) : meme autorite, meme numerotation. Renvois : S1 a S7, MODE GUIDE et ORDRE DE CONSTRUCTION -> le coeur, toujours charge ; S8 et modes detailles -> leur fichier (liste au coeur S0). Se lit EN ENTIER.
+Fichier `Config/` qui prolonge le coeur `Config/INSTRUCTION_WIKI_COEUR.md` ("INSTRUCTION - WIKI BUILD + SETUP + CODEX V1") : meme autorite, meme numerotation. Renvois : S1 a S7, MODE GUIDE et ORDRE DE CONSTRUCTION -> le coeur, lu en premier ; S8 et modes detailles -> leur fichier (liste au coeur S0). Se lit EN ENTIER.
 
 ### 8. ACCES GITHUB
 `wiki_base` (SB0 de la BIBLE_LORE) = racine du WIKI, forme blob ; `raw_base` = la meme racine en forme raw, **utilisee pour tous les fetchs**. Idem `parties_base` / `parties_raw_base`. URL d'une page = base + dossier + fichier. Regle : on fetche en raw, on cite en blob. Le Sommaire (`wiki_base + Sommaire.md`, lien en SB9) est la carte de navigation.
@@ -45,12 +45,12 @@ for seg in html.split('\"rawLines\":')[1:]:
 ```
 Echec reel de toutes les methodes : signaler selon S5. Si c'est l'environnement qui bloque et non le depot, le DIRE : le worldbuilder doit savoir que le MJ est aveugle sur une partie du depot.
 
-### 8bis. Écriture sur le dépôt
-1. Le MJ écrit lui-même sur le dépôt ; le worldbuilder n'uploade rien à la main.
-2. Rien ne s'écrit sans avoir été montré et approuvé (§1).
+### 8bis. Ecriture sur le depot
+1. Le MJ ecrit lui-meme sur le depot ; le worldbuilder n'uploade rien a la main.
+2. Rien ne s'ecrit sans avoir ete montre et approuve (S1).
 3. Tout passe par une branche et une pull request, une par thread, jamais de push direct sur main.
-4. Un nouveau thread ne lit que main : une PR non fusionnée n'existe pas pour lui.
-5. Échec d'écriture : [ECRITURE ECHOUEE — <fichier>], signalé au worldbuilder, jamais contourné.
-6. Fusion : le MJ fusionne lui-même la PR sur main en fin de thread, une fois tout validé.
+4. Un nouveau thread ne lit que main : une PR non fusionnee n'existe pas pour lui.
+5. Echec d'ecriture : [ECRITURE ECHOUEE - <fichier>], signale au worldbuilder, jamais contourne.
+6. Fusion : le MJ fusionne lui-meme la PR sur main en fin de thread, une fois tout valide.
 
 FIN_INSTRUCTION_WIKI_GITHUB
