@@ -1,54 +1,54 @@
 # Roadmap 8 - La Mort
 
 - version : W1
-- statut : GRANDES LIGNES (etape 1 de la boucle serree) - peaufinage (etape 4) a venir
-- echelle temporelle : ~5 mois, avril 1999 -> fin d'ete 1999 [A POSER : date du quatrieme berceau]
+- statut : GRANDES LIGNES (étape 1 de la boucle serrée) - peaufinage (étape 4) à venir
+- échelle temporelle : ~5 mois, avril 1999 -> fin d'été 1999 [A POSER : date du quatrième berceau]
 
 ## Intention
-L'arc de la DERNIERE Cavaliere insoumise. Mort, nourrie par deux ans de festin (Washington, puis Famine et la crise alimentaire frolee), sort enfin du hors-scene : elle vient en personne, incognito, au milieu de la fac de Denji et Reze. Le trone, lui, ne sait toujours rien - il traque un Feu introuvable avec sa taupe dans l'Eglise. La prophetie de Nostradamus (Centuries X.72 : "Du ciel viendra un grand Roy d'effrayeur", septieme mois de 1999) fournit l'horloge : quand le nom tombe, Mort jette tout dans une derniere tentative, Tokyo paie, et le grand roi d'effroi qui descend pour y mettre fin est celui du RP. Mort ne veut pas mourir ; a court de pieces, elle s'avoue vaincue et meurt de sa seule volonte - la seule Cavaliere qu'on n'execute pas. Le plan long de 1984 est clos, le quatuor reforme complet. POV Makoto ; doctrine des opportunites d'un bout a l'autre.
+L'arc de la DERNIÈRE Cavalière insoumise. Mort, nourrie par deux ans de festin (Washington, puis Famine et la crise alimentaire frôlée), sort enfin du hors-scène : elle vient en personne, incognito, au milieu de la fac de Denji et Reze. Le trône, lui, ne sait toujours rien - il traque un Feu introuvable avec sa taupe dans l'Église. La prophétie de Nostradamus (Centuries X.72 : "Du ciel viendra un grand Roy d'effrayeur", septième mois de 1999) fournit l'horloge : quand le nom tombe, Mort jette tout dans une dernière tentative, Tokyo paie, et le grand roi d'effroi qui descend pour y mettre fin est celui du RP. Mort ne veut pas mourir ; à court de pièces, elle s'avoue vaincue et meurt de sa seule volonté - la seule Cavalière qu'on n'exécute pas. Le plan long de 1984 est clos, le quatuor réformé complet. POV Makoto ; doctrine des opportunités d'un bout à l'autre.
 
-## Itineraire (etapes)
+## Itinéraire (étapes)
 
-1. LA DEUXIEME ANNEE (avril 1999). Rentree de Denji (20 ans) et Reze (21 ans) en 2e annee de fac. Couverture de Reze a poser. Barem dans l'Eglise depuis la cloture de R7 ; le Feu reste introuvable. Mort hors scene.
+1. LA DEUXIÈME ANNÉE (avril 1999). Rentrée de Denji (20 ans) et Reze (21 ans) en 2e année de fac. Couverture de Reze à poser. Barem dans l'Église depuis la clôture de R7 ; le Feu reste introuvable. Mort hors scène.
 
-2. LE RETOUR DE KOBENI (printemps 1999). Le savoir et l'ennui de la vie civile la ramenent. Makoto lui propose le Tank (le Katana est pris, Aki). Hybridation de la main du Roi : 10e implication personnelle. Regime du coeur plante : Tank est une brute, l'hote fournit l'esprit. Premier role : aupres d'Asa, a qui le char est jure.
+2. LE RETOUR DE KOBENI (printemps 1999). Le savoir et l'ennui de la vie civile la ramènent. Makoto lui propose le Tank (le Katana est pris, Aki). Hybridation de la main du Roi : 10e implication personnelle. Régime du cœur planté : Tank est une brute, l'hôte fournit l'esprit. Premier rôle : auprès d'Asa, à qui le char est juré.
 
-3. LA TAUPE (printemps-ete 1999). Barem grimpe jusqu'au rang de numero deux de l'Eglise (echo canon) et touche au savoir des contrats du Feu. La traque se resserre sans aboutir.
+3. LA TAUPE (printemps-été 1999). Barem grimpe jusqu'au rang de numéro deux de l'Église (écho canon) et touche au savoir des contrats du Feu. La traque se resserre sans aboutir.
 
-4. L'INCOGNITO (1999). Mort est a la fac, parmi Denji et Reze, et personne ne le sait. Ironie joueur : savoir MJ strict.
+4. L'INCOGNITO (1999). Mort est à la fac, parmi Denji et Reze, et personne ne le sait. Ironie joueur : savoir MJ strict.
 
-5. LE NOM (debut d'ete 1999). Barem soupconne Mort. Nayuta propose de croiser les sources : interroge, Cataclysme - le concept dont le Feu decoule - confirme que le Feu sert Mort, sans rien cacher (SB1, deja plante). Le trone apprend enfin ce que le joueur sait depuis R6.
+5. LE NOM (début d'été 1999). Barem soupçonne Mort. Nayuta propose de croiser les sources : interrogé, Cataclysme - le concept dont le Feu découle - confirme que le Feu sert Mort, sans rien cacher (SB1, déjà planté). Le trône apprend enfin ce que le joueur sait depuis R6.
 
-6. JUILLET 1999 - LE ROY D'EFFRAYEUR. Mort se sait demasquee et jette tout dans une derniere tentative : le Feu tire la transformation de masse a son profit (carnage de Chainsaw-Men, le heros public retourne en monstre), Guillotine, ses pions, ses nuees de corbeaux, ses dernieres troupes. Guerre perdue d'avance ; Tokyo prend cher. Le grand roi d'effroi descend y mettre fin.
+6. JUILLET 1999 - LE ROY D'EFFRAYEUR. Mort se sait démasquée et jette tout dans une dernière tentative : le Feu tire la transformation de masse à son profit (carnage de Chainsaw-Men, le héros public retourné en monstre), Guillotine, ses pions, ses nuées de corbeaux, ses dernières troupes. Guerre perdue d'avance ; Tokyo prend cher. Le grand roi d'effroi descend y mettre fin.
 
-7. LA REDDITION (juillet-aout 1999). A court de pieces, Mort s'avoue vaincue. Une seule demande : que son entetement ne soit pas reproche a la suivante. Puis elle meurt de sa seule volonte - personne ne la tue.
+7. LA REDDITION (juillet-août 1999). À court de pièces, Mort s'avoue vaincue. Une seule demande : que son entêtement ne soit pas reproché à la suivante. Puis elle meurt de sa seule volonté - personne ne la tue.
 
-8. LE QUATRIEME BERCEAU (fin d'ete 1999). Regle de presence : Tokyo etait l'epicentre de la mort juste avant qu'elle meure, donc elle renait au Japon, quelques semaines plus tard (SB1). La chasse aux berceaux tient en un coup de fil. Troisieme adoption ; Kobeni investie gardienne de Mort reincarnee. Le quatuor reforme est complet. Bascule vers R9.
+8. LE QUATRIÈME BERCEAU (fin d'été 1999). Règle de présence : Tokyo était l'épicentre de la mort juste avant qu'elle meure, donc elle renaît au Japon, quelques semaines plus tard (SB1). La chasse aux berceaux tient en un coup de fil. Troisième adoption ; Kobeni investie gardienne de Mort réincarnée. Le quatuor réformé est complet. Bascule vers R9.
 
-## Pactes et doctrines actes en R8
-- Gardiens en R10 (pose ici pour memoire, joue en R10) : degaine, non tire - un traitre en attente provoque la scene, qui prouve la loyaute des gardiens.
-- Chute et Tenebres : Tenebres complote contre une fille du Roi ; Chute le tue elle-meme. Plant en Enfer pendant R6, savoir MJ ; en R10, Chute vient raconter ses exploits au Roi - elle veut se savoir fiable. Loyaute prouvee en acte, par motif mele : la convoitise du trone demeure.
+## Pactes et doctrines actés en R8
+- Gardiens en R10 (posé ici pour mémoire, joué en R10) : dégainé, non tiré - un traître en attente provoque la scène, qui prouve la loyauté des gardiens.
+- Chute et Ténèbres : Ténèbres complote contre une fille du Roi ; Chute le tue elle-même. Plant en Enfer pendant R6, savoir MJ ; en R10, Chute vient raconter ses exploits au Roi - elle veut se savoir fiable. Loyauté prouvée en acte, par motif mêlé : la convoitise du trône demeure.
 
-## Casting convoque
-- Mort - centrale ; hors scene puis incognito a la fac ; derniere tentative, reddition, mort volontaire. Ne veut pas mourir (premisse maintenue).
-- Mort reincarnee - nait a l'etape 8 (Japon) ; troisieme fille adoptee.
-- Kobeni - retour a l'etape 2 ; hote du Tank ; aupres d'Asa, puis gardienne de Mort reincarnee.
-- Tank - hote trouve : Kobeni (regime du coeur plante) ; allegeance a Asa inchangee.
-- Barem Bridge - taupe ; numero deux de l'Eglise ; soupconne Mort.
-- Feu - pion de Mort ; tire la transformation de masse a l'etape 6 ; sort a fixer.
-- Cataclysme - interroge a l'etape 5 ; fidele, desinteresse de son engeance, ne cache rien.
-- Guillotine - arsenal de Mort, jetee dans la derniere tentative.
-- Eglise de Chainsaw Man - le theatre ; ses contractants mues en Chainsaw-Men.
-- Nayuta - propose de croiser les sources (etape 5).
-- Denji, Reze - 2e annee de fac ; au contact de Mort sans le savoir.
+## Casting convoqué
+- Mort - centrale ; hors scène puis incognito à la fac ; dernière tentative, reddition, mort volontaire. Ne veut pas mourir (prémisse maintenue).
+- Mort réincarnée - naît à l'étape 8 (Japon) ; troisième fille adoptée.
+- Kobeni - retour à l'étape 2 ; hôte du Tank ; auprès d'Asa, puis gardienne de Mort réincarnée.
+- Tank - hôte trouvé : Kobeni (régime du cœur planté) ; allégeance à Asa inchangée.
+- Barem Bridge - taupe ; numéro deux de l'Église ; soupçonne Mort.
+- Feu - pion de Mort ; tire la transformation de masse à l'étape 6 ; sort à fixer.
+- Cataclysme - interrogé à l'étape 5 ; fidèle, désintéressé de son engeance, ne cache rien.
+- Guillotine - arsenal de Mort, jetée dans la dernière tentative.
+- Église de Chainsaw Man - le théâtre ; ses contractants mués en Chainsaw-Men.
+- Nayuta - propose de croiser les sources (étape 5).
+- Denji, Reze - 2e année de fac ; au contact de Mort sans le savoir.
 - Asa, Kiga - ~10-12 ans d'aspect ; Asa accueille Kobeni et son char.
-- Kishibe - la derniere Cavaliere qu'il visait tombe ; il ne lui reste que son role de gardien de l'empire.
-- Makima - co-regente, cheffe de la SP de Tokyo.
-- Chute, Tenebres - hors scene (Tchekhov de R10).
+- Kishibe - la dernière Cavalière qu'il visait tombe ; il ne lui reste que son rôle de gardien de l'empire.
+- Makima - co-régente, cheffe de la SP de Tokyo.
+- Chute, Ténèbres - hors scène (Tchekhov de R10).
 
-## Notes de frontiere
-- [A POSER au peaufinage] : identite de Mort incognito ; pourquoi elle vient en personne ; couverture de Reze ; sort du Feu (modalite, executant) ; comment Mort se sait demasquee et ce que ca coute a Barem ; forme de l'intervention du Roi a l'etape 6 (force brute rentree) et si elle compte comme implication ; presents a la reddition ; frontiere du savoir de Kobeni a son retour ; dates fines (reddition, naissance, localisation).
-- Parque pour R10 : quel traitre declenche le degaine des gardiens ; quelle fille Tenebres vise ; si Tenebres, tue par Chute en Enfer, renait reinitialise.
+## Notes de frontière
+- [A POSER au peaufinage] : identité de Mort incognito ; pourquoi elle vient en personne ; couverture de Reze ; sort du Feu (modalité, exécutant) ; comment Mort se sait démasquée et ce que ça coûte à Barem ; forme de l'intervention du Roi à l'étape 6 (force brute rentrée) et si elle compte comme implication ; présents à la reddition ; frontière du savoir de Kobeni à son retour ; dates fines (reddition, naissance, localisation).
+- Parqué pour R10 : quel traître déclenche le dégainé des gardiens ; quelle fille Ténèbres vise ; si Ténèbres, tué par Chute en Enfer, renaît réinitialisé.
 - Arc R9 (temps calme) s'ouvre sur un quatuor complet ; la borne de R9 devient le gel adulte de la cadette, pas les 18 ans de Nayuta (septembre 2003).
 
 FIN_ROADMAP_MAKOTO_8
