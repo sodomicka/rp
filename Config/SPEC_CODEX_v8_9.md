@@ -1,11 +1,11 @@
-# SPEC_CODEX v8.8
+# SPEC_CODEX v8.9
 
 Ce fichier définit la forme, les règles de construction et le gabarit du `CODEX_NARRATIF.md`. Le CODEX vit sur le dépôt sous ce nom FIXE, `Parties/{Univers}/Partie<n>/CODEX_NARRATIF.md`, écrase à chaque build : la version porte dans le titre (`# CODEX_NARRATIF_v<N>`) et la balise `FIN_CODEX_V<N>`, l'historique vit dans git. Une seule version sur le dépôt, jamais de copie versionnée à côté.
 Il sert de référence unique en mode CODEX BUILD.
 Le modèle doit produire un CODEX factuel, compact, autosuffisant, sans narration.
 
-Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_CODEX_v8_8.md`.
-Consultation : embarquée dans la skill codex-build (`references/SPEC_CODEX_v8_8.md`) - lue en local, sans réseau. Le chemin GitHub sert à re-synchroniser la copie embarquée ou à la refetcher en secours. Copie embarquée ABSENTE du montage : fetcher la source canonique GitHub AVANT tout build. Ne JAMAIS builder sur une SPEC trouvée dans les fichiers de projet sans l'avoir confrontée à la canonique. Hiérarchie CLOSE : SPEC fournie en conversation > GitHub (source maintenue) > copie embarquée. La copie embarquée est un CACHE, jamais une autorité : contradiction embarquee/GitHub -> GitHub fait foi et la copie se resynchronise ; contradiction conversation/GitHub -> la conversation fait foi pour CE build, signalée en une ligne. Corollaire : un numéro de version différent entre l'embarquée et Config/ sur le dépôt est une désynchronisation, pas un arbitrage. Pour les builds suivants dans le même thread, la version en contexte fait foi. Elle porte le process que le CODEX V(N-1) ne contient pas.
+Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_CODEX_v8_9.md`.
+Consultation : lue EN ENTIER sur le dépôt (raw) à chaque build, avant toute autre action. Aucune copie embarquée ne fait foi : une SPEC trouvée ailleurs (skill, fichiers de projet) se confronte à celle du dépôt, qui tranche. Seule exception : une SPEC fournie en conversation fait foi pour CE build, signalée en une ligne. Vérifier le numéro de version courant par le listing de `Config/`. Elle porte le process que le CODEX V(N-1) ne contient pas.
 
 ---
 
@@ -13,7 +13,8 @@ Consultation : embarquée dans la skill codex-build (`references/SPEC_CODEX_v8_8
 - Le CODEX remplace intégralement la version précédente.
 - Un fait = un seul emplacement canonique.
 - Le CODEX ne crée aucun fait nouveau.
-- Il reformule, regroupe et compresse uniquement des informations présentes dans le thread, les fichiers joints et l'éventuel CODEX précédent.
+- Il reformule, regroupe et compresse uniquement des informations présentes dans le thread de jeu, les fichiers joints et l'éventuel CODEX précédent.
+- THREAD DE JEU = ENTRÉE DE BUILD. Une partie vit dans un seul projet. Le build se fait dans un thread dédié du même projet et LIT lui-même la narration brute dans le thread de jeu (lecture de thread, messages complets, du plus ancien au plus récent) : rien n'est exporté ni collé. Thread de jeu à digérer : celui que nomme le joueur ; à défaut, le thread de jeu du projet le plus récent après le `thread source` du CODEX V(N-1). Doute -> demander. Hors projet seulement : narration brute fournie dans le thread de build.
 - Si une information est absente, floue ou contradictoire : `[INCERTAIN]`.
 - Ingestion : pour interroger le canon, requêter la forme d'origine du nom (accentuée si elle l'est : meilleur rappel).
 - Le CODEX est un fichier unique structuré en CORE + 7 ANNEXES balisées. Ce n'est PAS une collection de fichiers séparés (mais le BUILD produit aussi, à côté, la mémoire refroidie, le Sommaire de jeu et la Mémoire narrative - cf. 4ter).
@@ -173,6 +174,7 @@ Procédure de triage (alimente les livrables 2 et 3) :
 a. Identifier les faits, PNJ, arcs et CHRONO qui ne sont plus pertinents pour l'arc à venir -> mémoire refroidie (livrable 2).
 b. Condenser les battements du thread -> Memoire_{Univers}_<n> (livrable 3).
 c. FIXER L'ÉTAPE COURANTE (obligatoire à chaque build) : consulter la roadmap en cours et reporter dans ANNEXE_CHRONO > Arcs la roadmap, l'étape et le jalon où reprendra le prochain thread. C'est elle que le thread suivant fetchera.
+c2. POSER LE `thread source` (§1, obligatoire à chaque build) : le thread de jeu digéré. Le thread de jeu suivant y lira la fin de la dernière scène pour reprendre en continuité directe.
 d. Reporter au Sommaire de jeu toute page Parties/ créée ou écrasée (livrable 2).
 
 Convention de nommage Parties/ :
@@ -250,7 +252,8 @@ Checklist RAPIDE intégrée à la passe de rédaction (pas une étape cérémoni
 - codex_version: V<N>
 - plafond: <plafond(N)> car. (barème : min(30 000 + 3 000 x (N-1), 90 000))
 - taille au build: <wc -m> car. (<X>% du plafond(N))
-- spec au build: SPEC_CODEX v8.8 (source: embarquée | GitHub | fournie en conversation)
+- thread source: <titre du thread de jeu digéré par ce build> | <id de son message racine, lisible par lecture de thread> ("aucun" pour le V1 ou hors projet)
+- spec au build: SPEC_CODEX v8.9 (source: GitHub | fournie en conversation)
 - bible_lore: <nom du fichier BIBLE_LORE si présente, sinon "aucune"> (sans numéro de version)
 - dernier sync BIBLE: <B<x> si BIBLE présente, advisory non bloquant ; sinon "n/a">
 - wiki_base: <URL racine du WIKI GitHub si présent, sinon "aucun">

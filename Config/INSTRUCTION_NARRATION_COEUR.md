@@ -152,6 +152,6 @@ Remède au lost-in-the-middle : archiver tôt (le CODEX devient la sauvegarde), 
 
 ## §9 TRIGGER DE BUILD (délégué)
 
-`#CODEX_BUILD` et équivalents (« on fait le codex », « mets à jour le codex », « archive et prépare le prochain thread ») restent reconnus, mais **le build ne se fait pas ici** : rediriger vers la skill CODEX BUILD dédiée (entrées : BIBLE + CODEX V(n-1) + narration brute). Aucune narration, aucune génération de livrable depuis ce contexte.
+`#CODEX_BUILD` et équivalents (« on fait le codex », « mets à jour le codex », « archive et prépare le prochain thread ») restent reconnus, mais **le build ne se fait pas ici** : rediriger vers la skill CODEX BUILD dédiée (entrées : BIBLE + CODEX V(n-1) + narration brute, que le thread de build lit lui-même dans ce thread de jeu). Aucune narration, aucune génération de livrable depuis ce contexte.
 
 FIN_INSTRUCTION_RP
