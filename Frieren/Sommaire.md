@@ -1,10 +1,14 @@
 # Sommaire - Frieren
 
-- version : W20
+- version : W21
 
 ## WIKI
 
 > Chaque entree porte la version (W<N>) de la page : inventaire de versions. Un ecart entre ce W<N> et celui ecrit dans la page elle-meme signale une copie perimee (canari, non bloquant).
+>
+> QUI LIT LE CANARI. Deux lecteurs, deux moments :
+> - EN NARRATION, a chaque page fetchee : le MJ compare le W<N> de la page a celui de son entree ici. Ecart -> [VERSION DECALEE - <page> : Sommaire W<x>, page W<y>] en OOC bref, non bloquant. La PAGE fait foi.
+> - AU BIBLE BUILD : toute page relivree incremente son W<N> et son entree ici est mise a jour dans le meme build.
 
 ### Theologie/
 Description : theologie - Deesse de la Creation (nature reelle), systemes magiques, Aureole, magie divine de Schein, chemins existentiels.
@@ -53,6 +57,9 @@ Description : fiches personnages cles et rapports detailles avec Schein.
 - Qual.md (W4) - identite, mentor Zoltraak, clemence/lachete, Ere Mythique
 - Revolte_Le_Divin.md (W2) - general demon quadri-arme de l'arc Revolte le Divin (canon), Epees Divines Trancheuses, subjugation a Rufen (Ere 5), divergences RP par branche (recul de Schein 5a / execution par Schein 5b), sbires (Hemmung, Solide, Jung), mort dans les deux branches
 - Richter.md (W1) - identite, Bargland (terre), boutique, rapport Schein (canon preserve)
+- Schein.md (W2) - fiche du protagoniste (entite neutre) : identite, apparence, personnalite, capacites, limites, backstory, relations, trajectoire datee (renvois chronos)
+- Schein_chrono_A_Chateau.md (W1) - trajectoire datee ere A (~1 490-990 av.) : adoption, formation, prince, escouade, cellule, Bluete, duel, exil
+- Schein_chrono_B_Errance.md (W1) - trajectoire datee ere B (~990 av.-An 0) : exil solo, ere Serie, chasse solo, duo et hutte avec Frieren, Heros du Sud
 - Roi_Des_Demons.md (W3) - identite, personnalite, capacites, plan, rapport Schein (tortures, exil, combat final), relations autres
 - Schlacht.md (W3) - identite, prescience, prediction, titre de prince, rapport Schein, miroir Heros du Sud, plan de survie
 - Sein.md (W2) - identite, pretre "corrompu" et mediateur, guerisseur/exorciste (Benediction, Trois Lances, immunite Fleur de Confusion), Gorilla Warrior, lien Heiter (surnom "Pretre Bouc", lignee clericale), rapport Schein (rivalite jouee + foi), scaling B, voyage ~An 94-95
@@ -67,34 +74,39 @@ Description : fiches personnages cles et rapports detailles avec Schein.
 - Wirbel.md (W2) - identite, Sorganeil, Corps du Nord, rapport Schein (mefiance pragmatique)
 
 ### Fiches_Arc/Schein/
-Description : fiches de narration par arc (mini-bible autosuffisante tronquee a la frontiere de l'arc), perspective Schein. Chargees une fois a l'ouverture de thread. Navigation par chainage local (arc precedent / arc suivant), pas par index des roadmaps. Seule la premiere est indexee ici.
-- Fiche_Arc_Chateau_E1_1_Decouverte_Temple.md (W4) - Schein enfant (~100 ans, ~12 apparents) vient de tuer trois pretres avec de la lumiere pure.
+Description : fiches de narration par arc (trame + bible de l'etape : Deroule au grain de la scene + mini-bible autosuffisante, tronquees a la sortie de l'etape), perspective Schein. Chargees une fois a l'ouverture de thread. Navigation entre arcs par chainage local (champs `arc precedent` / `arc suivant`), pas par un index des roadmaps.
+- (aucune page indexee)
 
-> ROADMAPS NON INDEXEES EN JEU (v8.2). Le dossier Roadmap/<Prota>/ n'est pas liste : source de build (matiere premiere des fiches d'arc), lue en mode Wiki en listant le dossier, jamais fetchee en narration. Le MJ navigue d'arc en arc par les fiches et tient le fil long via le CODEX ANNEXE_CHRONO.
+> MEMOIRES NON INDEXEES. `Parties/<Partie>/Memoires/` n'est pas liste ici, pour la meme raison que les roadmaps : indexer un dossier le fait paraitre fetchable en narration. Archives narratives interdites en jeu (sauf ordre OOC explicite), consultees au BUILD seulement, par listing direct du dossier.
+
+> ROADMAPS NON INDEXEES EN JEU. Le dossier des roadmaps (`Roadmap/`) n'est pas liste ici. Sources de build (matiere premiere des fiches d'arc), lues en mode Wiki en listant le dossier, jamais fetchees en narration. En jeu, le MJ navigue d'arc en arc par les fiches et tient le fil long via le CODEX ANNEXE_CHRONO.
 
 ## PARTIES (Partie1)
 
 ### Suivi/
-- Schein_Fiche.md - type : instance jouee du protagoniste (backstory FROIDE + identite)
-- Lore_Partie.md - type : lore de partie (mecaniques et divergences apparues en jeu, non encore canonisees au WIKI : regeneration native, Zoltraak nourri par la douleur, bouclier apprenant, contrecoup a paliers, illisibilite constitutive ; migrees au WIKI le jour d'un WIKI BUILD)
-- Ere_Chateau_Refroidi.md - type : memoire refroidie de l'ere du Chateau (threads 01-04) : Roi, Schlacht, Grausam, Qual, escouade Basalt/Porphyr/Gabbro, palais d'Ende, Bluete, morts de l'ere
-- Exil_Solo_Refroidi.md - type : memoire refroidie de l'ere de l'Exil solo (thread 05) : Wim et Deux-Ponts, charognard-messager, deserteurs, generaux, villages arrives-trop-tard, origine des deux reputations (Demon de Lumiere / le Traitre)
+Description : fiches de suivi des personnages affectes par la narration.
+- (aucune page indexee)
 
 ### Archives/
+Description : chronologie archivee, arcs clos.
 - (aucune page indexee)
 
 ### Decisions/
+Description : bifurcations prises dans ce RP par rapport aux roadmaps.
 - (aucune page indexee)
 
 ## PARTIES (Partie2)
 
 ### Suivi/
+Description : fiches de suivi des personnages affectes par la narration.
 - (aucune page indexee)
 
 ### Archives/
+Description : chronologie archivee, arcs clos.
 - (aucune page indexee)
 
 ### Decisions/
+Description : bifurcations prises dans ce RP par rapport aux roadmaps.
 - (aucune page indexee)
 
 ---
