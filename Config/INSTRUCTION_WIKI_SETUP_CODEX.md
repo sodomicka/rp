@@ -1,6 +1,6 @@
 # INSTRUCTION WIKI - MODE SETUP + MODE OUTIL - CODEX V1
 
-Fichier `Config/` de l'instruction de projet "INSTRUCTION - WIKI BUILD + SETUP + CODEX V1" (le coeur) : meme autorite, meme numerotation. Renvois : S1 a S7, MODE GUIDE et ORDRE DE CONSTRUCTION -> le coeur, toujours charge ; S8 et modes detailles -> leur fichier (liste au coeur S0). Se lit EN ENTIER.
+Fichier `Config/` qui prolonge le coeur `Config/INSTRUCTION_WIKI_COEUR.md` ("INSTRUCTION - WIKI BUILD + SETUP + CODEX V1") : meme autorite, meme numerotation. Renvois : S1 a S7, MODE GUIDE et ORDRE DE CONSTRUCTION -> le coeur, lu en premier ; S8 et modes detailles -> leur fichier (liste au coeur S0). Se lit EN ENTIER.
 
 ### 4. MODES (suite)
 
@@ -20,19 +20,19 @@ Interdit de forme : phrases d'ouverture immersives, descriptions sensorielles, m
 
 #### MODE OUTIL - CODEX V1
 Declenchement : le worldbuilder demande explicitement la generation du CODEX V1 apres le setup.
-Prerequis : setup termine, BIBLE_LORE + WIKI existent, fiche d'arc de depart normalement buildee juste avant (sinon la builder d'abord).
+Prerequis : setup termine, BIBLE_LORE + WIKI existent, roadmap de depart a jour (conditions de sortie et verrous poses), etape de depart identifiee.
 
 Regles :
-- Fetch SPEC_CODEX obligatoire. **Verifier d'abord le numero de version courant** par le listing de `Config/` (S8) : un CODEX V1 builde sur une SPEC perimee contamine toute la lignee. Dernier connu : `SPEC_CODEX_v8_7.md`.
+- Fetch SPEC_CODEX obligatoire. **Verifier d'abord le numero de version courant** par le listing de `Config/` (S8) : un CODEX V1 builde sur une SPEC perimee contamine toute la lignee. Dernier connu : `SPEC_CODEX_v8_8.md`.
 - Identifier les pages WIKI pertinentes a l'etat initial (protagoniste, PNJ en scene, lieu de depart, arc de depart). Fetch selectif - ne pas charger le wiki complet.
-- ANNEXE_CHRONO > Arcs : pour l'arc de depart, renseigner les DEUX renvois (`roadmap:` ET `fiche_arc:`), plus le jalon courant et le prochain jalon (= temps du Deroule de la fiche chargee).
+- ANNEXE_CHRONO > Arcs : pour l'arc de depart, renseigner le renvoi `roadmap:`, l'etape et le jalon de depart. C'est cette roadmap que le premier thread de jeu fetchera.
 - ANNEXE_SAVOIRS : y verser l'ironie dramatique notee au journal d'implications (section "A verser au CODEX V1"), puis solder la section.
 - Construire le CODEX V1 a partir du setup, de la BIBLE et des pages fetchees. C'est un fichier de genese : CORE rempli, ANNEXE_STYLE, et les annexes pertinentes a l'etat initial.
 - PEUPLER S3a (chaud) : capacites stables + description physique + resume de backstory du protagoniste, des la genese. La backstory COMPLETE va en froid dans Parties/Suivi.
 - Sortie : Markdown brut, fin : FIN_CODEX_V1.
 
 Sortie Parties/ :
-- Le CODEX V1 genere aussi les fichiers initiaux de `Parties/{Univers}/Partie<n>/` : fiche protagoniste dans Suivi/ (backstory COMPLETE + identite, froid - pas les capacites, qui vivent en CODEX S3a), eventuellement fiches PNJ de depart.
-- Le MJ écrit ces fichiers sur le dépôt (§8bis), CODEX V1 compris (`Parties/{Univers}/Partie<n>/CODEX_NARRATIF.md`), puis le worldbuilder remplace les instructions Wiki par Instructions RP. Rien a mettre en fichier de projet.
+- Le CODEX V1 genere aussi les fichiers initiaux de `Parties/{Univers}/Partie<n>/` : `Sommaire_Jeu.md` (gabarit SPEC_BIBLE_LORE_WIKI S8, indexant les pages creees ici), fiche protagoniste dans Suivi/ (backstory COMPLETE + identite, froid - pas les capacites, qui vivent en CODEX S3a), eventuellement fiches PNJ de depart.
+- Le MJ ecrit ces fichiers sur le depot (S8bis), CODEX V1 compris (`Parties/{Univers}/Partie<n>/CODEX_NARRATIF.md`), puis le worldbuilder remplace les instructions Wiki par Instructions RP. Rien a mettre en fichier de projet.
 
 FIN_INSTRUCTION_WIKI_SETUP_CODEX
