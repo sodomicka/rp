@@ -1,6 +1,6 @@
 # Cataclysme
 
-- version : W1
+- version : W2
 
 Entité [DIVERGENCE RP - OC]. Fiche NEUTRE : décrit l'entité telle qu'elle existe dans le monde, indépendamment d'une partie.
 
@@ -15,7 +15,6 @@ Entité [DIVERGENCE RP - OC]. Fiche NEUTRE : décrit l'entité telle qu'elle exi
 - Tête d'une petite lignée, les catastrophes particulières : Typhon (détruit vers 1997, fragment-graine chez le Roi), l'éruption du Mont Hio (effacée au XIXe s., sur ordre d'Effroi), le Feu (renégat au service de Mort). Détail : cf. Systemes/Genealogie.md.
 
 ## Apparence
-- Référence visuelle : artwork du worldbuilder, `Personnages/Cataclysme.png`.
 - Un relief plus qu'un corps : un colosse humanoïde si grand que des humains à ses pieds n'atteignent pas la hauteur d'un orteil. Bien plus grand que le Feu, son engeance, qui a déjà la taille d'un immeuble.
 - Corps de strates géologiques fracturées - grès, basalte, schiste - qui glissent les unes sur les autres comme des plaques tectoniques. De la lave court dans les failles, du torse jusqu'aux jambes.
 - Pas de tête : au-dessus des épaules roule un ciel d'orage bas, traversé d'éclairs, où s'ouvrent par moments deux grands yeux pâles.

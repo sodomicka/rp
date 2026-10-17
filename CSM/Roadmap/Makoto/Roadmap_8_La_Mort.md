@@ -1,6 +1,6 @@
 # Roadmap 8 - La Mort
 
-- version : W1
+- version : W2
 - statut : GRANDES LIGNES (étape 1 de la boucle serrée) - peaufinage (étape 4) à venir
 - échelle temporelle : ~5 mois, avril 1999 -> fin d'été 1999 [A POSER : date du quatrième berceau]
 
@@ -49,6 +49,6 @@ L'arc de la DERNIÈRE Cavalière insoumise. Mort, nourrie par deux ans de festin
 ## Notes de frontière
 - [A POSER au peaufinage] : identité de Mort incognito ; pourquoi elle vient en personne ; couverture de Reze ; sort du Feu (modalité, exécutant) ; comment Mort se sait démasquée et ce que ça coûte à Barem ; forme de l'intervention du Roi à l'étape 6 (force brute rentrée) et si elle compte comme implication ; présents à la reddition ; frontière du savoir de Kobeni à son retour ; dates fines (reddition, naissance, localisation).
 - Parqué pour R10 : quel traître déclenche le dégainé des gardiens ; quelle fille Ténèbres vise ; si Ténèbres, tué par Chute en Enfer, renaît réinitialisé.
-- Arc R9 (temps calme) s'ouvre sur un quatuor complet ; la borne de R9 devient le gel adulte de la cadette, pas les 18 ans de Nayuta (septembre 2003).
+- Arc R9 (temps calme) s'ouvre sur un quatuor complet ; la borne de R9 reste les 18 ans de Nayuta (septembre 2003) : avec le gel adulte à deux ans, la fratrie réincarnée est adulte avant elle (Yomi, la dernière, à la fin de l'été 2001).
 
 FIN_ROADMAP_MAKOTO_8
