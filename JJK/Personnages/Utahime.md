@@ -1,78 +1,77 @@
 # Utahime Iori
 
-- version : W10
+- version : W11
 
-Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
+Page = fiche noyau (état atemporel / point de départ 2005). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Résumé condensé en BIBLE SB5.
 
-## Identite
-- Nom : Utahime Iori. Canon. Professeure a l'universite de Kyoto.
-- Naissance : non donnee par le canon [INCERTAIN]. Promo Kyoto 2004-2007 : en 2005, eleve de 2e annee.
-- Statut 2005 : etudiante de 2e annee a Kyoto. Deviendra professeure de 1ere annee a Kyoto (2009-2018+) - le poste d'enseignante est canon ; [DIVERGENCE RP] sa promo d'eleve (canon muet sur son annee).
+## Identité
+- Nom : Utahime Iori. Canon. Professeure à l'université de Kyoto.
+- Naissance : non donnée par le canon [INCERTAIN]. Promo Kyoto 2004-2007 : en 2005, élève de 2e année.
+- Statut 2005 : étudiante de 2e année à Kyoto. Deviendra professeure de 1re année à Kyoto (2009-2018+) - le poste d'enseignante est canon ; [DIVERGENCE RP] sa promo d'élève (canon muet sur son année).
 
 ## Physique
-- Canon : cheveux noirs longs ; cicatrice en travers du visage (barre du nez) ; tenue de miko, blanc et rouge. Allure serieuse de mentor stricte.
+- Canon : cheveux noirs longs ; cicatrice en travers du visage (barre du nez) ; tenue de miko, blanc et rouge. Allure sérieuse de mentor stricte.
 
 ## Sorts
-Un exorciste = un sort inne en regle generale (canon).
+Un exorciste = un sort inné en règle générale (canon).
 
-### Zone Interdite Individuelle (canon : Solo Forbidden Area) - sort inne
-- Canon (revele tardivement, chap. 223, mais sort inne present depuis toujours) : amplifie le debit d'energie occulte de n'importe quel exorciste a sa portee, elle-meme incluse. Active par un rituel de danse.
-- Pur soutien : elle decuple les autres, n'est pas une combattante directe.
+### Zone Interdite Individuelle (canon : Solo Forbidden Area) - sort inné
+- Canon (révélé tardivement, chap. 223, mais sort inné présent depuis toujours) : amplifie le débit d'énergie occulte de n'importe quel exorciste à sa portée, elle-même incluse. Activé par un rituel de danse.
+- Pur soutien : elle décuple les autres, n'est pas une combattante directe.
 
-## Etat au point de depart (2005)
-- Etudiante de 2e annee a Kyoto (promo 2004-2007).
-- Grade 2, 4 doigts de Sukuna (~6 %). Chiffre en lecture soutien, hors-axe combat (comme Shoko) : sa valeur est de decupler les autres.
+## État au point de départ (2005)
+- Étudiante de 2e année à Kyoto (promo 2004-2007).
+- Grade 2, 4 doigts de Sukuna (~6 %). Chiffre en lecture soutien, hors-axe combat (comme Shoko) : sa valeur est de décupler les autres.
 
 ## Psychologie
-- Canon : serieuse, stricte, consciencieuse ; facilement exasperee (notamment par Gojo, qui la charrie). Mentor exigeante, pas portee au combat - role de soutien assume.
+- Canon : sérieuse, stricte, consciencieuse ; facilement exaspérée (notamment par Gojo, qui la charrie). Mentor exigeante, pas portée au combat - rôle de soutien assumé.
 
 ## Nisha - relation
-Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a Nisha.
-- [DIVERGENCE RP] Avant 2008 (universite) : Nisha la prend pour une rivale aupres de Satoru - alors qu'Utahime et lui ne font que s'amuser de la situation (taquineries, rien de plus). Malentendu a sens unique, cote Nisha, NE a l'Amicale de sept 2005 (Nisha les voit se taquiner avant l'epreuve et ne le supporte pas) et entretenu sans le savoir par le naturel joueur d'Utahime. Il tient par l'aveuglement de Nisha - qui ignore qu'elle pietine le terrain de sa "cousine" -, pas par un secret : la relation avec Yukiko n'est ni cachee ni criee.
-- [DIVERGENCE RP] Apres 2008 : Nisha devient prof un an apres Utahime ; elles installent une dynamique complementaire - Utahime la douceur (1ere annee), Nisha la rigueur (2e annee). Nisha finit par trouver sa technique de soutien tres utile.
-- Evolution fine -> roadmap.
+Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport à Nisha.
+- [DIVERGENCE RP] Le malentendu de l'Amicale (sept 2005) : avant l'épreuve, Nisha la voit se taquiner avec Satoru - qui ne font que s'amuser, rien de plus - et la prend pour une rivale auprès de lui. Malentendu à sens unique, côté Nisha : d'où la démontée du J1. Il MEURT à l'Amicale même : après sa défaite du J2, Nisha discute avec Yukiko, chacune confie qui elle aime (Satoru, Utahime), et elles rient comme des idiotes du danger écarté ; Nisha vient ensuite s'excuser auprès d'Utahime.
+- [DIVERGENCE RP] Après 2008 : Nisha devient prof un an après Utahime ; elles installent une dynamique complémentaire - Utahime la douceur (1re année), Nisha la rigueur (2e année). Nisha finit par trouver sa technique de soutien très utile.
+- Évolution fine -> roadmap.
 
 ## Yukiko Kamo - relation
-- [DIVERGENCE RP] SLOWBURN JOUE EN A1 (cf. Roadmap/Yukiko/Roadmap_A1.md, Yukiko_chrono_A.md) : aucune relation avant avr 2005 (Yukiko arrive en 1re annee, un an derriere elle). L'Amicale de sept 2005 lui OUVRE LES YEUX - la vipere qui ne montre jamais rien la venge en PUBLIC apres que Nisha l'a demontee ; le sentiment prend a l'automne, et c'est ELLE qui se declare en nov 2005, voyant Yukiko y aller a reculons. Chambre partagee sur le campus des lors ; week-ends au palais Kamo ; invitee en CONJOINTE PRINCIERE a la commemoration de Fubuki (1 jan 2006).
-- [DIVERGENCE RP] CE QU'ELLE SAIT (des nov 2005) : tout ce que Nori sait - le niveau reel, la ruse, la devotion (T-Fubuki exclu, comme pour Nori). Yukiko la place a EGALITE de fiabilite avec son frere, meme si l'amour porte a Nori reste indetronable. Elle sait, et se tait : l'amour et la confiance sont reciproques. La condition tacite de la regle d'amour de Yukiko (jamais le moindre signe de jalousie envers Nori) : passee sans meme le savoir, des ses premieres venues au palais.
-- Ce que Yukiko voit en elle : kyotoite a vie, consciente de sa place, respectueuse des roles de soutien, docile envers les Hautes Instances - le seul profil compatible avec une devotion qui interdit de quitter Kyoto. Cf. Personnages/Yukiko.md (le second sourire).
-- [DIVERGENCE RP] Ce qu'Utahime y trouve : elle est la seule personne avec qui "Yuki" soit SINCERE - c'est par la que l'amour a pris. (Vu de Yukiko : la fenetre sur la normalite contre la fenetre sur le clan - cf. Personnages/Yukiko.md, moteur de procuration.)
-- FENETRE STRUCTURELLE : cohabitation quotidienne de campus limitee a avr 2005 - mars 2006 (Utahime passe en 3e annee, purement pratique, des avr 2006) ; le couple se forme AVANT la fermeture - la distance devient a gerer, plus a craindre.
-- Ironie en reserve : Nisha la croit rivale aupres de Satoru (cf. ci-dessus) - le jour ou Nisha comprend avec qui est Utahime, le malentendu meurt.
+- [DIVERGENCE RP] SLOWBURN JOUÉ EN A1 (cf. Roadmap/Yukiko/Roadmap_A1.md, Yukiko_chrono_A.md) : aucune relation avant avr 2005 (Yukiko arrive en 1re année, un an derrière elle). L'Amicale de sept 2005 lui OUVRE LES YEUX - la vipère qui ne montre jamais rien la venge en PUBLIC après que Nisha l'a démontée ; le sentiment prend à l'automne, et c'est ELLE qui se déclare en nov 2005, voyant Yukiko y aller à reculons. Chambre partagée sur le campus dès lors ; week-ends au palais Kamo ; invitée en CONJOINTE PRINCIÈRE à la commémoration de Fubuki (1 jan 2006).
+- [DIVERGENCE RP] CE QU'ELLE SAIT (dès nov 2005) : tout ce que Nori sait - le niveau réel, la ruse, la dévotion (T-Fubuki exclu, comme pour Nori). Yukiko la place à ÉGALITÉ de fiabilité avec son frère, même si l'amour porté à Nori reste indétrônable. Elle sait, et se tait : l'amour et la confiance sont réciproques. La condition tacite de la règle d'amour de Yukiko (jamais le moindre signe de jalousie envers Nori) : passée sans même le savoir, dès ses premières venues au palais.
+- Ce que Yukiko voit en elle : kyotoïte à vie, consciente de sa place, respectueuse des rôles de soutien, docile envers les Hautes Instances - le seul profil compatible avec une dévotion qui interdit de quitter Kyoto. Cf. Personnages/Yukiko.md (le second sourire).
+- [DIVERGENCE RP] Ce qu'Utahime y trouve : elle est la seule personne avec qui "Yuki" soit SINCÈRE - c'est par là que l'amour a pris. (Vu de Yukiko : la fenêtre sur la normalité contre la fenêtre sur le clan - cf. Personnages/Yukiko.md, moteur de procuration.)
+- FENÊTRE STRUCTURELLE : cohabitation quotidienne de campus limitée à avr 2005 - mars 2006 (Utahime passe en 3e année, purement pratique, dès avr 2006) ; le couple se forme AVANT la fermeture - la distance devient à gérer, plus à craindre.
 
-## Role pedagogique (cycle Kyoto, post-2008)
-- 1ere annee = la douceur, premier maillon du cycle (Utahime douceur 1e, Nisha rigueur 2e, Mei Mei perfectionnement 3e). cf. Factions/Universite_Kyoto.md.
+## Rôle pédagogique (cycle Kyoto, post-2008)
+- 1re année = la douceur, premier maillon du cycle (Utahime douceur 1re, Nisha rigueur 2e, Mei Mei perfectionnement 3e). cf. Factions/Universite_Kyoto.md.
 
 ## Grade et scaling
 - 2005 : Grade 2, 4 doigts (~6 %). Post-2008 : Semi-Grade 1, 5 doigts (~7 %, = son grade canon adulte).
-- Lecture soutien, hors-axe combat. Detail et reperes : cf. WIKI Power_Scaling/Doigts_de_Sukuna.md.
+- Lecture soutien, hors-axe combat. Détail et repères : cf. WIKI Power_Scaling/Doigts_de_Sukuna.md.
 
-## Chronologie noyau (jusqu'au point de depart, 2005)
+## Chronologie noyau (jusqu'au point de départ, 2005)
 | Date | Jalon |
 |---|---|
-| pre-2005 | Naissance (non datee, canon muet). Entre a Kyoto en 2004. |
-| 2005 | 2e annee a Kyoto. Grade 2, 4 doigts. Point de depart du RP. (Nisha, a Tokyo, la croit rivale aupres de Satoru.) |
+| pré-2005 | Naissance (non datée, canon muet). Entre à Kyoto en 2004. |
+| 2005 | 2e année à Kyoto. Grade 2, 4 doigts. Point de départ du RP. |
 
-## Trajectoire datee
-| Date/ere | Evenement | Delta d'etat |
+## Trajectoire datée
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| sept 2005 | Tournoi des Universites Jumelees (hote Kyoto). Avant l'epreuve : taquineries avec Satoru, sous les yeux de Nisha. J1 : DEMONTEE par Nisha, parfum de jalousie (soignee par Shoko) ; J2 : se desiste avec Ranta (supports face a des prodiges) - et Yukiko la venge en battant Nisha en duel. La vengeance PUBLIQUE lui ouvre les yeux sur ce que la vipere ressent | prise entre deux feux : demontee par une louve jalouse, vengee par la vipere ; origine du malentendu-rivalite cote Nisha ; le slowburn s'allume |
-| nov 2005 | SE DECLARE a Yukiko, voyant qu'elle n'osera jamais d'elle-meme (Yukiko a reculons : premier attachement hors-Nori de sa vie). Couple ; chambre partagee sur le campus ; premieres venues au palais le week-end. Entre dans le cercle du vrai niveau, au PERIMETRE NORI (niveau reel, ruse, devotion) - elle sait et se tait | en couple ; dans le secret, a egalite de fiabilite avec Nori |
-| 1 jan 2006 | Invitee en CONJOINTE PRINCIERE a la commemoration de Fubuki (Chiryu no Kyuden) : sincerement emue, elle console - sans savoir ce que la commemoration recouvre | statut pose au vu du clan Kamo |
-| mars 2013 (B1) | Resto A QUATRE avec Nisha, Yukiko et Mei Mei (Ui Ui et Noritoshi en accompagnants) : l'idee emerge de la discussion a trois, et avec Nisha elle convainc Mei Mei de prendre la 3e annee a Kyoto ; le cycle a trois maillons (Utahime 1e, Nisha 2e, Mei Mei 3e) est enfin complet | -- |
-| 2015 (B2) | Noces de Nisha et Satoru : invitee en amie, aux cotes de Yukiko et Nori - la copine d'une collegue, hors du ballet diplomatique des emissaires Kamo | -- |
-| avr 2017 (B3) | LA RELEVE : premiere vraie classe de l'ere - 1re annee 2017-2018 : Mai Zenin, Kasumi Miwa, Kokichi Muta (Mechamaru), promo 2017-2020 | classes pleines a nouveau |
-| 24 dec 2017 (B3_4) | Nuit des Cent Fleaux : garde les 1res annees en securite a l'universite pendant que Nisha, le clan Zenin et Gakuganji tiennent la vieille ville | rempart des cadets ; aucun mort de l'universite |
+| sept 2005 | Tournoi des Universités Jumelées (hôte Kyoto). Avant l'épreuve : taquineries avec Satoru, sous les yeux de Nisha. J1 : DÉMONTÉE par Nisha, parfum de jalousie (soignée par Shoko) ; J2 : se désiste avec Ranta (supports face à des prodiges) - et Yukiko la venge en battant Nisha en duel. La vengeance PUBLIQUE lui ouvre les yeux sur ce que la vipère ressent. Nisha vient ensuite s'excuser : le malentendu est mort | prise entre deux feux : démontée par une louve jalouse, vengée par la vipère ; malentendu-rivalité né et soldé à l'Amicale ; le slowburn s'allume |
+| nov 2005 | SE DÉCLARE à Yukiko, voyant qu'elle n'osera jamais d'elle-même (Yukiko à reculons : premier attachement hors-Nori de sa vie). Couple ; chambre partagée sur le campus ; premières venues au palais le week-end. Entre dans le cercle du vrai niveau, au PÉRIMÈTRE NORI (niveau réel, ruse, dévotion) - elle sait et se tait | en couple ; dans le secret, à égalité de fiabilité avec Nori |
+| 1 jan 2006 | Invitée en CONJOINTE PRINCIÈRE à la commémoration de Fubuki (Chiryu no Kyuden) : sincèrement émue, elle console - sans savoir ce que la commémoration recouvre | statut posé au vu du clan Kamo |
+| mars 2013 (B1) | Resto À QUATRE avec Nisha, Yukiko et Mei Mei (Ui Ui et Noritoshi en accompagnants) : l'idée émerge de la discussion à trois, et avec Nisha elle convainc Mei Mei de prendre la 3e année à Kyoto ; le cycle à trois maillons (Utahime 1re, Nisha 2e, Mei Mei 3e) est enfin complet | -- |
+| 2015 (B2) | Noces de Nisha et Satoru : invitée en amie, aux côtés de Yukiko et Nori - la copine d'une collègue, hors du ballet diplomatique des émissaires Kamo | -- |
+| avr 2017 (B3) | LA RELÈVE : première vraie classe de l'ère - 1re année 2017-2018 : Mai Zenin, Kasumi Miwa, Kokichi Muta (Mechamaru), promo 2017-2020 | classes pleines à nouveau |
+| 24 déc 2017 (B3_4) | Nuit des Cent Fléaux : garde les 1res années en sécurité à l'université pendant que Nisha, le clan Zenin et Gakuganji tiennent la vieille ville | rempart des cadets ; aucun mort de l'université |
 
-## Notes de frontiere (reporte hors de cette fiche neutre)
-- Diplome 2007 ; carriere ; passage Semi-Grade 1 ; prof de 1ere annee a Kyoto (post-2008) -> roadmap / cf. Factions/Universite_Kyoto.md.
-- Revelation tardive de sa technique en canon (chap. 223) : detail meta, sans incidence sur l'etat 2005 (le sort inne est present des le depart).
-- Evolution du lien avec Nisha (du malentendu-rivalite a la complementarite d'enseignantes) -> roadmap.
-- Yukiko : amorce et couple SOLDES en A1 (cf. Roadmap/Yukiko/Roadmap_A1.md) ; restent son creux 2007-2009 (diplome -> chaire) et la vie de couple d'ere B -> roadmaps suivantes.
+## Notes de frontière (reporté hors de cette fiche neutre)
+- Diplôme 2007 ; carrière ; passage Semi-Grade 1 ; prof de 1re année à Kyoto (post-2008) -> roadmap / cf. Factions/Universite_Kyoto.md.
+- Révélation tardive de sa technique en canon (chap. 223) : détail méta, sans incidence sur l'état 2005 (le sort inné est présent dès le départ).
+- Évolution du lien avec Nisha (des excuses de l'Amicale à la complémentarité d'enseignantes) -> roadmap.
+- Yukiko : amorce et couple SOLDÉS en A1 (cf. Roadmap/Yukiko/Roadmap_A1.md) ; restent son creux 2007-2009 (diplôme -> chaire) et la vie de couple d'ère B -> roadmaps suivantes.
 
 ## Pointeurs
-- universite de Kyoto / corps enseignant : cf. Factions/Universite_Kyoto.md.
-- Collegue / dynamique : cf. Personnages/Nisha.md ; rapport canon a Gojo : cf. Personnages/Satoru.md.
+- Université de Kyoto / corps enseignant : cf. Factions/Universite_Kyoto.md.
+- Collègue / dynamique : cf. Personnages/Nisha.md ; rapport canon à Gojo : cf. Personnages/Satoru.md.
 - Compagne : cf. Personnages/Yukiko.md, Yukiko_chrono_A.md.
 - Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
 

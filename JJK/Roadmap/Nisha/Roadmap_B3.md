@@ -1,6 +1,6 @@
 # Roadmap B3 - Guérison et autre trauma
 
-- version : W1
+- version : W2
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre ; le front de Tokyo de la Nuit des Cent Fléaux reste HORS POV
 - échelle temporelle : ~2 ans et demi (fin 2015 -> juin 2018) ; journées jouées aux temps forts (Yorozu, la rentrée 2017, la Nuit des Cent Fléaux, la rentrée 2018), le reste en [SNAPSHOTS]
@@ -67,7 +67,7 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 - Nisha quitte Kyoto le 24 déc, affronte Geto ou le sauve - Geto meurt de la main de Satoru, d'où l'autre trauma.
 - Nisha enseigne le temps à Yuta avant la mort de Geto - elle attend d'être certaine que Rika n'est pas une menace.
 - Eien agit hors du Jardin, ou T-Yorozu sert avant l'ère C - elle livrera Nisha à Sukuna-dans-Yuji.
-- Nisha identifie Kenjaku au-delà du vaisseau anonyme - casserait le piège de Takatsuki et Shibuya (ère C).
+- Nisha apprend que Kenjaku porte le corps de Geto, ou comment ils vont piéger Satoru - elle connaît son nom et sa nature depuis le deal (B2), pas le piège ; casserait Takatsuki et Shibuya (ère C).
 - Nisha perce que Mechamaru est une taupe - sa trahison et l'appel à l'aide sont le nœud pré-Shibuya de l'ère C.
 - Le coup d'État Zenin s'amorce, ou le testament de Naobito sort - mi-nov 2018 et post-Shibuya.
 - La façade Grade 2 de Yukiko tombe publiquement, ou le massacre des maîtres des fléaux par les Zenin s'ébruite.

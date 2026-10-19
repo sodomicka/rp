@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W42
+- version : W43
 
 ## WIKI
 
@@ -27,11 +27,11 @@ Description : factions et groupes du monde.
 ### Personnages/
 Description : fiches personnages du monde.
 - Nisha.md (W24) - fiche NOYAU de Nisha Zenin (OC, protagoniste, jumelle de Naoya, née le 30 jan 1987), état <= 2005 : physique détaillé, tenue, objets récurrents (collier, carte bleue), visuel de la Sphère du Temps Infini ; façade (Tokyo : origine des sorts maquillée ; Kyoto et Hautes Instances savent tout) ; trajectoire datée scindée par ère -> Nisha_chrono_A.md, Nisha_chrono_B.md ; relations scindées par cercles -> série Nisha_relations_*.
-- Nisha_chrono_A.md (W7) - trajectoire datée de Nisha, ère A (2005-2008) : entrées A1 + A2.
+- Nisha_chrono_A.md (W8) - trajectoire datée de Nisha, ère A (2005-2008) : entrées A1 + A2.
 - Nisha_chrono_B.md (W7) - trajectoire datée de Nisha, ère B (2008-2018) : entrées B1-B3 (famille de Saitama, resto à quatre 2013, trauma, guérison, Nuit des Cent Fleaux, réparation de Satoru).
 - Nisha_relations_proches.md (W2) - tête de la série relations de Nisha (quatre pages par cercles ; extension de Nisha.md, sections Naoya/Eien condensées au profit de la série) : RÈGLES GÉNÉRALES transversales (vestige du "ma belle" post-2006, la fumeuse) + cercle des PROCHES (dont Naoya - appellatifs, rituels, seul jugement post-2015 - et Eien - deux régimes avant/après la bascule de 2015, putsch de 1997 maquillé).
 - Nisha_relations_famille.md (W3) - relations de Nisha, cercle FAMILLE : le clan par le sang (dont Naobito, Jinichi, Ogi - appellatifs, contentieux, évolutions datées) et la famille choisie du foyer de Saitama (Maki, Panda, Megumi routés ici, pas en _eleves_tokyo).
-- Nisha_relations_boulot.md (W1) - relations de Nisha, cercle BOULOT : collègues des deux universités (dont Gakuganji - le doyen-allié, Utahime - le malentendu à sens unique, Mei Mei - du cliché à l'estime) et élèves de Kyoto ; convention locale des indicatifs tactiques.
+- Nisha_relations_boulot.md (W2) - relations de Nisha, cercle BOULOT : collègues des deux universités (dont Gakuganji - le doyen-allié, Utahime - le malentendu soldé à l'Amicale, Mei Mei - du cliché à l'estime) et élèves de Kyoto ; convention locale des indicatifs tactiques.
 - Nisha_relations_eleves_tokyo.md (W1) - relations de Nisha, cercle des ÉLÈVES DE TOKYO (protégés de Satoru : dont Yuta - miroir inverse, entre dans le cercle du secret par l'enseignement des deux sorts -, Toge, Hakari) ; Maki, Panda et Megumi vivent en _famille, pas de doublon.
 - Eien.md (W13) - fiche noyau d'Eien (OC, fléau Grade Spécial, parasite de Nisha, co-architecte avec Kenjaku ; apparence sans visage dans le Jardin) ; hôtes documentés dont la doyenne Gojo de Genroku (nœud Nozomu, pacte de la Traque) ; putsch de 1997 maquillé en amitié (Nisha se sait maîtresse, jamais geôlière) ; règle des signatures déclinée et extension de la règle de bascule (l'épuisement occulte comme garde baissée) ; + trajectoire datée ère B (B1-B3 : jubilation 2008, bascule 2015 - ouvre le corps à Kenjaku -, T-Yorozu armé, visites punitives).
 - Kenjaku.md (W11) - fiche noyau de Kenjaku (canon + RP : origine Kamo, amant et co-architecte d'Eien) : forme vraie en for intérieur, intrusion 2015 par Eien qui lui ouvre le corps ; Lisière du Supplice de sa main ; rideau de Takatsuki et son DOUBLE FOND (taillé sur la signature gémellaire, il ne touche pas Eien, le but réel étant d'épuiser Nisha : ÉCHEC) ; scellement de Nozomu, Traque Meurtrière en chantier séculaire ; + trajectoire datée (nœud 2006 : prime sur le Plasma Stellaire via le Culte Astral ; deal de 2015).
@@ -41,8 +41,8 @@ Description : fiches personnages du monde.
 - Jinichi.md (W6) - pilier du Hei, frère de Toji, Poings Météores, membre du conseil ; + Nuit des Cent Fleaux (déc 2017).
 - Ogi.md (W6) - frère cadet de Naobito, pilier du Hei, père de Maki/Mai, épéiste ; + Nuit des Cent Fleaux (déc 2017).
 - Ranta.md (W9) - membre du Hei (support des jumeaux), Regard Paralysant : noyau + trajectoire datée (A1).
-- Yukiko.md (W9) - fiche NOYAU de Yukiko Kamo (OC, SECOND OC JOUABLE, princesse Kamo, demi-sœur aînée de Noritoshi, née le 14 juin 1986, promo Kyoto 2005-2008 avec Naoya et Ranta), état <= avr 2005 : Hémotropie (dont le carquois), tissage (pièges dormants, Lucky 7, rideaux entremêlés, record du Dragon 1998), Chi no Meiyo, psychologie (vide d'enfance, masque, la vipère, dévotion-physiologie, règle d'amour, moteur de procuration), statut et relations (Nori, Noriaki, Fubuki, Yasashiku, jumeaux Zenin, Gakuganji, Utahime, Satoru, Shoko), sandbagging Grade 2 / 12 doigts réels ; trajectoire ère A SCINDÉE -> Yukiko_chrono_A.md ; entrées ère B provisoirement en fiche (refus de chaire + resto à quatre 2013, noces 2015, rideaux solo de la Parade 2017).
-- Yukiko_chrono_A.md (W1) - trajectoire datée de Yukiko, ère A (2005-2008) : entrées YA1 (démo Lucky 7 de Nori 1 avr 2005, rentrée, tombée des masques été 2005, Amicale + shogi sept 2005, rapport de Gakuganji automne 2005, couple avec Utahime nov 2005, conjointe princière 1 jan 2006, clôture mars 2006).
+- Yukiko.md (W10) - fiche NOYAU de Yukiko Kamo (OC, SECOND OC JOUABLE, princesse Kamo, demi-sœur aînée de Noritoshi, née le 14 juin 1986, promo Kyoto 2005-2008 avec Naoya et Ranta), état <= avr 2005 : Hémotropie (dont le carquois), tissage (pièges dormants, Lucky 7, rideaux entremêlés, record du Dragon 1998), Chi no Meiyo, psychologie (vide d'enfance, masque, la vipère, dévotion-physiologie, règle d'amour, moteur de procuration), statut et relations (Nori, Noriaki, Fubuki, Yasashiku, jumeaux Zenin, Gakuganji, Utahime, Satoru, Shoko), sandbagging Grade 2 / 12 doigts réels ; trajectoire ère A SCINDÉE -> Yukiko_chrono_A.md ; entrées ère B provisoirement en fiche (refus de chaire + resto à quatre 2013, noces 2015, rideaux solo de la Parade 2017).
+- Yukiko_chrono_A.md (W2) - trajectoire datée de Yukiko, ère A (2005-2008) : entrées YA1 (démo Lucky 7 de Nori 1 avr 2005, rentrée, tombée des masques été 2005, Amicale + shogi sept 2005, rapport de Gakuganji automne 2005, couple avec Utahime nov 2005, conjointe princière 1 jan 2006, clôture mars 2006).
 - Noriaki_Fubuki.md (W2) - fiche noyau commune (OC, niveau fandom) : Noriaki, patriarche fantoche sans sort du sang, et Fubuki, épouse morte en 1992 (portrait de fantôme) - père et mère de Yukiko ; état au 1 avr 2005.
 - Yasashiku.md (W2) - fiche noyau (OC, niveau fandom) : concubine de Noriaki, mère de Noritoshi ; "Douceur" = nom de concubine, vrai nom inconnu ; ATTENTION MJ : l'essentiel est un savoir caché, en scène il n'existe que la douceur ; état au 1 avr 2005.
 - Chojuro.md (W2) - membre du Hei, antithèse de Jinichi, Bras de Terre.
@@ -58,7 +58,7 @@ Description : fiches personnages du monde.
 - Yaga.md (W5) - Masamichi Yaga, professeur à Tokyo (principal en 2009+, prof de 3e année 2009-2013), manipulation de cadavres maudits, progressiste actif, Grade 1 : noyau + trajectoire datée (A1).
 - Gakuganji.md (W6) - Yoshinobu Gakuganji, principal de Kyoto (prof de la promo de Naoya en 2005 ; cumule principalat + 3e année 2009-2013, cède à Mei Mei en avr 2013) et seul visage public des hautes instances, dont il est membre PLEIN, sort musical, Grade Spécial 1, ultra-conservateur ; présent ès qualités aux repas bissextiles ; dispositions d'élèves (Naoya adoré, Ranta trop gentil, Yukiko la plus proche - perce le sandbagging SEUL au printemps 2005 et le respecte, rapport aux Instances automne 2005).
 - Mei_Mei.md (W9) - Mei Mei, exorciste mercenaire (élève à Kyoto en 2005, prof de 3e année à Kyoto dès avr 2013), manipulation de corbeaux, obsédée par l'argent : noyau + trajectoire datée (recrutement au resto à quatre de mars 2013 ; Nuit des Cent Fleaux : commandante des cadets) ; frère Ui Ui (tertiaire rattaché).
-- Utahime.md (W10) - Utahime Iori, professeure à Kyoto (élève de 2e année en 2005), Zone Interdite Individuelle, pur soutien : noyau + relations Nisha (malentendu-rivalité à sens unique né à l'Amicale de sept 2005) et Yukiko (se déclare nov 2005, conjointe princière 1 jan 2006, dans le cercle au périmètre Nori) + trajectoire datée (Amicale et déclaration 2005, resto à quatre 2013, noces 2015, relève 2017, rempart des cadets à la Parade).
+- Utahime.md (W11) - Utahime Iori, professeure à Kyoto (élève de 2e année en 2005), Zone Interdite Individuelle, pur soutien : noyau + relations Nisha (malentendu-rivalité à sens unique né et soldé à l'Amicale de sept 2005) et Yukiko (se déclare nov 2005, conjointe princière 1 jan 2006, dans le cercle au périmètre Nori) + trajectoire datée (Amicale et déclaration 2005, resto à quatre 2013, noces 2015, relève 2017, rempart des cadets à la Parade).
 - Riko.md (W2) - Riko Amanai, 14 ans en 2006, Plasma Stellaire désigné pour la fusion de Tengen 2006 ; escortée par Gojo/Geto puis tuée par Toji - détonateur de la chute de Geto (A2, hors-champ POV Nisha).
 - Haibara.md (W3) - Yu Haibara, 1re année Tokyo (promo 2006-2009), Grade 2, optimiste solaire ; mort fin 2007 sur une mission - détonateur final de la chute de Geto (A2).
 - Nanami.md (W5) - Kento Nanami, promo Tokyo 2006-2009, Ratio Technique (7:3), pragmatique ; binôme de Haibara, survit à A2 ; ère B : ~4 ans salaryman puis prof de 3e année à Tokyo dès avr 2013 ; record 4x Black Flash au front de Tokyo (Parade 2017) ; mentor de Takuma Ino.
@@ -117,16 +117,16 @@ Enseignement personnalisé (une page par promotion à casting fiché ; un chanti
 ### Roadmap/Nisha/
 Description : itinéraires par arc de Nisha, dans l'ordre de la saga. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).
 - Roadmap_A0.md (W8) - Prologue (narré) : naissance des jumeaux 30 jan 1987 -> seuil du conseil Zenin 31 mars 2005 ; ~18 ans en vignettes.
-- Roadmap_A1.md (W6) - Le Transfert : seuil du conseil Zenin 31 mars 2005 -> veille de la rentrée 2006 ; 1 an, six journées jouées.
+- Roadmap_A1.md (W7) - Le Transfert : seuil du conseil Zenin 31 mars 2005 -> veille de la rentrée 2006 ; 1 an, six journées jouées.
 - Roadmap_A2.md (W7) - L'éveil et la chute : rentrée de 2e année 1 avr 2006 -> diplôme hiver 2008 ; ~2 ans, journées jouées aux jalons.
 - Roadmap_B1.md (W3) - La Fondation : lendemain du diplôme, hiver 2008 -> resto à quatre, mars 2013 ; ~5 ans, une année par jalon.
-- Roadmap_B2.md (W6) - Le Trauma : rentrée sans élève, avr 2013 -> post-avortement, automne 2015 ; ~2 ans et demi, 2015 ramassé.
-- Roadmap_B3.md (W1) - Guérison et autre trauma : Yorozu, fin 2015 -> veille de la 1re mission solo de Megumi, juin 2018 ; ~2 ans et demi, seuil de l'ère C.
+- Roadmap_B2.md (W7) - Le Trauma : rentrée sans élève, avr 2013 -> post-avortement, automne 2015 ; ~2 ans et demi, 2015 ramassé.
+- Roadmap_B3.md (W2) - Guérison et autre trauma : Yorozu, fin 2015 -> veille de la 1re mission solo de Megumi, juin 2018 ; ~2 ans et demi, seuil de l'ère C.
 
 ### Roadmap/Yukiko/
 Description : itinéraires par arc de Yukiko, dans l'ordre de la saga.
 - Roadmap_A0.md (W4) - Prologue (narré) : naissance de Yukiko 14 juin 1986 -> dernière nuit au palais 31 mars 2005 ; ~19 ans en vignettes.
-- Roadmap_A1.md (W2) - La Vipère à l'université : rentrée du 1 avr 2005 -> veille de la rentrée 2006 ; 1 an, quatre journées jouées.
+- Roadmap_A1.md (W3) - La Vipère à l'université : rentrée du 1 avr 2005 -> veille de la rentrée 2006 ; 1 an, quatre journées jouées.
 
 > NON INDEXÉS. Les garde-caps (`Roadmap/Nisha/trame_B.md`, `Roadmap/Yukiko/trame_A_B.md`) et `Roadmap/_Chantier_Passe2_EresCD.md` (capture de session Passe 2 ; registre S8 appliqué au build B18, item 18 renvoyé aux roadmaps C/D) : sources de build, jamais fetchées en narration. `Resume.md` (racine JJK/) : résumé autosuffisant jusqu'à juin 2018, porte le futur de toute partie qui démarre en 2005, jamais fetché en narration. `_Implications.md` (racine JJK/) : journal de conception. `Parties/<Partie>/Memoires/` : archives narratives interdites en jeu (sauf ordre OOC explicite), consultées au BUILD seulement par listing direct du dossier. Indexer un dossier le fait paraître fetchable en narration.
 

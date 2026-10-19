@@ -1,6 +1,6 @@
 # Yukiko Kamo
 
-- version : W9
+- version : W10
 
 Fiche NOYAU (OC, niveau fandom). État atemporel / point de départ (1 avr 2005). Couche RP entièrement [DIVERGENCE RP] (OC sans équivalent canon) : balise portée une fois ici, non répétée ligne à ligne. Plot post-départ -> roadmaps Yukiko ; devenir -> Yukiko_chrono_A.md (ère A) et Trajectoire datée en bas de page (ères B+, en attente de scission). Résumé condensé en BIBLE SB5.
 
@@ -116,7 +116,7 @@ Objet maudit, forgé sur mesure pour la princesse Kamo. Détail : cf. BIBLE SB7 
 - LE VECTEUR, par élimination : Mei Mei est une brute ; Ranta, son reflet absolu mais un homme - angle mort total, elle ne voit même pas la similarité ; Naoya, une alliance tacite entre héritiers. Reste Utahime : douce, protectrice, obéissante face aux Hautes Instances, bien à sa place de soutien - là où Yukiko porte le masque d'un simple soutien mais est une trappeuse terrifiante.
 - LE MOTEUR : elle voit en Utahime ce qu'une version d'elle sans la brisure initiale peut donner, et elle veut les deux vies à la fois (cf. Psychologie, moteur de procuration). Utahime, elle, commence à l'aimer parce qu'elle est la seule avec qui "Yuki" soit sincère.
 - FENÊTRE STRUCTURELLE : cohabitation quotidienne de campus limitée à avr 2005 - mars 2006 (Utahime passe en 3e année, purement pratique, dès avr 2006) ; le couple se forme AVANT la fermeture - la distance d'avr 2006 est à gérer, plus à craindre.
-- Ironie en réserve : Nisha croit Utahime rivale auprès de Satoru - malentendu à sens unique NÉ à l'Amicale de sept 2005 (elle les voit se taquiner avant l'épreuve et ne le supporte pas), entretenu sans le savoir par le naturel joueur d'Utahime. La relation avec Yukiko n'est ni cachée ni criée : le malentendu tient par l'aveuglement de Nisha, qui ignore qu'elle piétine le terrain de sa "cousine". Yukiko, elle, comprend la scène mieux que Nisha - aucune jalousie. Le jour où Nisha comprend avec qui est Utahime, le malentendu meurt (cf. Personnages/Nisha.md, Utahime.md).
+- Le malentendu de l'Amicale : Nisha croit Utahime rivale auprès de Satoru - malentendu à sens unique NÉ à l'Amicale de sept 2005 (elle les voit se taquiner avant l'épreuve et ne le supporte pas). Yukiko comprend la scène mieux que Nisha - aucune jalousie. Il MEURT à l'Amicale même : après la défaite de Nisha au J2, les deux amies discutent, chacune confie qui elle aime (Satoru, Utahime), et elles rient comme des idiotes du danger écarté ; Nisha va ensuite s'excuser auprès d'Utahime (cf. Personnages/Nisha.md, Utahime.md).
 
 ### Shoko Ieiri
 - La médecin de Tokyo qui la soigne à l'Amicale de sept 2005 - simple soin (-> Yukiko_chrono_A.md).

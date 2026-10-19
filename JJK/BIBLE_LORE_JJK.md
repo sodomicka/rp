@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : JJK
 - sources primaires : manga Jujutsu Kaisen (Gege Akutami) ; worldbuilding du worldbuilder (OC Nisha Zenin, Yukiko Kamo, Eien, Nozomu)
-- bible_version : B21
+- bible_version : B22
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/JJK/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/JJK/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/JJK/Partie1/`
@@ -27,10 +27,10 @@
   - Lieux - sièges des clans (Chiryu no Kyuden - Kamo ; Juei no Ryochi - Zenin) (2 pages)
   - Power_Scaling - système de puissance (1 page)
   - Pedagogie - carte des enseignements (1), fiches de cours par discipline et par année (7), enseignement personnalisé par promotion (8) (16 pages)
-  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2 ; B3 à écrire), Yukiko/ (A0, A1) (7 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B) et _Chantier_Passe2_EresCD.md (document de travail), sources de build jamais fetchées en narration.
+  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3), Yukiko/ (A0, A1) (8 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B) et _Chantier_Passe2_EresCD.md (document de travail), sources de build jamais fetchées en narration.
   - Resume.md - résumé autosuffisant de l'univers jusqu'à juin 2018, NON indexé au Sommaire, jamais fetché en narration (1 page)
   - _Implications.md - journal de conception, jamais fetché en narration (1 fichier de travail)
-- Total indexé au Sommaire (W33) : 89 pages.
+- Total indexé au Sommaire (W43) : 90 pages.
 
 ## SB1 Cosmogonie et règles du monde
 Périmètre : divergences fondatrices liées à Nisha et Yukiko + règles nécessaires + cosmogonie des trois esprits.
@@ -152,7 +152,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Masamichi Yaga - professeur puis principal à Tokyo, progressiste | cadavres maudits (sommet : doter une création d'une âme), Grade 1, 7 doigts | promo des quatre prodiges, Nisha, Panda | cadavres maudits | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yaga.md
 - Yoshinobu Gakuganji - principal de Kyoto, seul visage public des Hautes Instances, ultra-conservateur | sort musical, Grade Spécial 1, 9 doigts | Naoya, Yukiko (voit le sandbagging et le respecte), Nisha, Mei Mei | sort musical | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Gakuganji.md
 - Mei Mei - mercenaire obsédée par l'argent, prof de 3e année à Kyoto dès avr 2013 | corbeaux, Grade 1 / 7 doigts post-2008 | Ui Ui (frère), Nisha, Gakuganji | corbeaux | canon + [DIVERGENCE RP vs canon] (enseignante). detail: cf. WIKI Personnages/Mei_Mei.md
-- Utahime Iori - professeure à Kyoto (2e année étudiante en 2005), soutien | Zone Interdite Individuelle, Semi-Grade 1 / 5 doigts post-2008 | Yukiko (couple dès nov 2005), Nisha (malentendu à sens unique), Satoru | Zone Interdite Individuelle | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Utahime.md
+- Utahime Iori - professeure à Kyoto (2e année étudiante en 2005), soutien | Zone Interdite Individuelle, Semi-Grade 1 / 5 doigts post-2008 | Yukiko (couple dès nov 2005), Nisha (malentendu-rivalité né et mort à l'Amicale 2005, puis complémentarité d'enseignantes), Satoru | Zone Interdite Individuelle | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Utahime.md
 - Riko Amanai - Plasma Stellaire 2006, 14 ans | perception des fléaux, aucun sort offensif | Kuroi, Gojo/Geto (escorte), Toji (la tue), Tengen | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Riko.md
 - Yu Haibara - promo Tokyo 2006-2009, mort fin 2007 (détonateur final de la chute de Geto) | [INCERTAIN] sort jamais montré, Grade 2 | Nanami, Geto | [INCERTAIN] | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Haibara.md
 - Kento Nanami - promo Tokyo 2006-2009, prof de 3e année à Tokyo dès avr 2013 | Ratio Technique + Rayon Noir, Grade 1, 8 doigts adulte | Haibara, Nisha, Ijichi | Ratio Technique | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nanami.md
