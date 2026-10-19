@@ -1,6 +1,6 @@
 # Satoru Gojo - Chronologie datee, ere B (2008-2018)
 
-- version : W6
+- version : W7
 
 Extension de Personnages/Satoru.md. Contient la TRAJECTOIRE DATEE post-depart de Satoru pour l'ere B (hiver 2008 -> juin 2018). NB : l'ere A de Satoru reste dans Personnages/Satoru.md (Trajectoire datee non scindee a l'epoque) ; scission de l'ere A optionnelle. Strate canon par defaut, telegraphique. Build-side : fetchee a la demande, JAMAIS chargee en narration. Etat : entrees B1 a B3 posees - ere B complete.
 
@@ -28,6 +28,7 @@ Extension de Personnages/Satoru.md. Contient la TRAJECTOIRE DATEE post-depart de
 | juil 2018 (C1_3) | En mission en Chine, portable coupé pour raison de sécurité nationale : injoignable quand ses élèves sont envoyés au centre de détention | absent au pire moment |
 | juil - sept 2018 (C1_4) | Cache Yuji à Saitama et l'entraîne en secret (canon : les films). Attaqué par Jogo (canon, hors POV de Nisha). Mechamaru prélève un de ses cheveux sur la veste de Nisha | mentor clandestin ; cheveu dans la nature |
 | sept 2018 (C1_5) | Amicale à Tokyo : rideau polarisé sur lui et Nisha ; il défait le rideau sur le souffle de Yukiko ; le Violet chasse Hanami | ciblé avec sa femme |
+| 31 oct 2018 (C2_3, C2_5) | Nisha lui dit se rendre au domaine pour un conseil de clan : il ne sait rien de Takatsuki. Envoyé seul à Shibuya, scellé dans la Lisière (canon) | SCELLÉ |
 
 ## Pointeurs
 - Noyau + Trajectoire datee ere A : cf. Personnages/Satoru.md.

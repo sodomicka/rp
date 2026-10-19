@@ -1,13 +1,13 @@
 # Roadmap C1 - Le réceptacle
 
-- version : W1
+- version : W2
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre ; l'arc Junpei et l'attaque de Jogo contre Satoru restent HORS POV
 - échelle temporelle : ~3 mois (juin 2018 -> septembre 2018) ; journées jouées aux temps forts (le doigt, le verdict, le centre de détention, l'Amicale), juillet-septembre en [SNAPSHOTS]
 - borne d'entrée : juin 2018, jour de la 1re mission solo de Megumi (le doigt de Sukuna, à la fac de Yuji, Sendai)
 - borne de sortie : lendemain de l'Amicale de septembre 2018 et de l'attaque d'Hanami -> C2
 - roadmap précédente : cf. WIKI Roadmap/Nisha/Roadmap_B3.md
-- roadmap suivante : cf. WIKI Roadmap/Nisha/Roadmap_C2.md (à écrire)
+- roadmap suivante : cf. WIKI Roadmap/Nisha/Roadmap_C2.md
 
 ## Intention
 L'ère C s'ouvre sur le canon, avec Nisha dedans. Le réceptacle entre dans la famille par la petite porte : un dossier qu'on gave avant de l'exécuter, que Nisha s'interdit d'aimer et finit par cacher sous son toit. Le complot se resserre sans se montrer : Eien tente sa première trahison, les Instances votent la mort d'un gamin, un élève de confiance vole un cheveu. Règle de l'ère : on suit le canon en y implantant Nisha, Yukiko et Nozomu.

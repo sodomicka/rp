@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : JJK
 - sources primaires : manga Jujutsu Kaisen (Gege Akutami) ; worldbuilding du worldbuilder (OC Nisha Zenin, Yukiko Kamo, Eien, Nozomu)
-- bible_version : B23
+- bible_version : B24
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/JJK/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/JJK/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/JJK/Partie1/`
@@ -23,14 +23,14 @@
 - pages wiki rattachées :
   - Cosmogonie - cosmogonie fondatrice (trois esprits + Tengen 4e esprit, trois familles) (1 page)
   - Factions - clans Zenin, Gojo, Kamo ; Hautes Instances ; universités de Tokyo et Kyoto ; Tournoi des Universités Jumelées (7 pages)
-  - Personnages - fiches personnages (58 pages : 48 fiches + 6 chrono - Nisha A/B/C, Satoru B, Naoya B, Yukiko A - + 4 relations - série Nisha : proches, famille, boulot, élèves de Tokyo)
+  - Personnages - fiches personnages (61 pages : 51 fiches + 6 chrono - Nisha A/B/C, Satoru B, Naoya B, Yukiko A - + 4 relations - série Nisha : proches, famille, boulot, élèves de Tokyo)
   - Lieux - sièges des clans (Chiryu no Kyuden - Kamo ; Juei no Ryochi - Zenin) (2 pages)
   - Power_Scaling - système de puissance, repères chiffrés en satellite (2 pages)
   - Pedagogie - carte des enseignements (1), fiches de cours par discipline et par année (7), enseignement personnalisé par promotion (8) (16 pages)
-  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1), Yukiko/ (A0, A1) (9 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B) et _Chantier_Passe2_EresCD.md (document de travail), sources de build jamais fetchées en narration.
-  - Resume.md - résumé autosuffisant de l'univers jusqu'à septembre 2018, NON indexé au Sommaire, jamais fetché en narration (1 page)
+  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2), Yukiko/ (A0, A1) (10 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B) et _Chantier_Passe2_EresCD.md (document de travail), sources de build jamais fetchées en narration.
+  - Resume.md - résumé autosuffisant de l'univers jusqu'au 1er novembre 2018, NON indexé au Sommaire, jamais fetché en narration (1 page)
   - _Implications.md - journal de conception, jamais fetché en narration (1 fichier de travail)
-- Total indexé au Sommaire (W45) : 95 pages.
+- Total indexé au Sommaire (W46) : 99 pages.
 
 ## SB1 Cosmogonie et règles du monde
 Périmètre : divergences fondatrices liées à Nisha et Yukiko + règles nécessaires + cosmogonie des trois esprits.
@@ -130,7 +130,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 
 ## SB5 Personnages
 `Nom - rôle | capacités-clé | relations | sort connu | certitude`
-- Nisha Zenin - protagoniste, OC, jumelle de Naoya (née le 30 jan 1987) | Chronostase + Chronokinésie (parasite Eien), Sphère du Temps Infini ; façade à Tokyo : Chronokinésie présentée comme innée, Chronostase comme son aspect ; Kyoto et Hautes Instances savent tout, Eien crue docile | Naoya (jumeau symbiotique), Eien (parasite : Nisha s'en sait maîtresse, jamais geôlière - amie de façade jusqu'en 2015, souffre-douleur ensuite), Naobito (père), Satoru (rival puis époux) | deux sorts + domaine | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nisha.md (+ chrono_A, chrono_B ; relations : Nisha_relations_proches, _famille, _boulot, _eleves_tokyo)
+- Nisha Zenin - protagoniste, OC, jumelle de Naoya (née le 30 jan 1987), Gojo-Zenin depuis ses noces (2015) | Chronostase + Chronokinésie (parasite Eien), Sphère du Temps Infini ; façade à Tokyo : Chronokinésie présentée comme innée, Chronostase comme son aspect ; Kyoto et Hautes Instances savent tout, Eien crue docile | Naoya (jumeau symbiotique), Eien (parasite : Nisha s'en sait maîtresse, jamais geôlière - amie de façade jusqu'en 2015, souffre-douleur ensuite), Naobito (père), Satoru (rival puis époux) | deux sorts + domaine | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nisha.md (+ chrono_A, chrono_B ; relations : Nisha_relations_proches, _famille, _boulot, _eleves_tokyo)
 - Yukiko Kamo - second OC jouable, princesse Kamo, demi-sœur aînée de Noritoshi (née le 14 juin 1986), promo Kyoto 2005-2008 | Hémotropie (le carquois de Noritoshi), meilleure tisseuse du clan depuis Heian ; 12 doigts réels, façade Grade 2 | Noritoshi (dieu vivant), Utahime (couple dès nov 2005), jumeaux Zenin, Gakuganji | Hémotropie | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yukiko.md (+ chrono_A)
 - Eien - OC, parasite de Nisha, esprit maudit Grade Spécial millénaire, co-architecte du monde | Chronokinésie (cédée à l'hôte), Jardin des Ères Mortes, parasitisme par fœtus | Nisha (hôte : maîtresse qui s'ignore geôlière, amie jouée jusqu'en 2015 ; rapport inversé depuis, les visites), Kenjaku (amante, mille ans) | Chronokinésie | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Eien.md
 - Kenjaku - exorciste millénaire, co-architecte du monde | transfert de cerveau, sceaux | Eien (amant) ; vaisseaux : Noritoshi Kamo (Meiji), Kaori Itadori, Geto | sort de l'hôte courant | canon + [DIVERGENCE RP] (origine Kamo, couple Eien). detail: cf. WIKI Personnages/Kenjaku.md
@@ -158,22 +158,25 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Kento Nanami - promo Tokyo 2006-2009, prof de 3e année à Tokyo dès avr 2013 | Ratio Technique + Rayon Noir, Grade 1, 8 doigts adulte | Haibara, Nisha, Ijichi | Ratio Technique | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nanami.md
 - Kiyotaka Ijichi - promo Tokyo 2006-2009 (ajout RP), manager non combattant | logistique, renseignement, barrières | Nanami/Haibara | barrières | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Ijichi.md
 - Yuki Tsukumo - Grade Spécial électron libre, ancien Plasma Stellaire | Star Rage + RCT, 15 doigts | Geto (lui expose deux voies en août 2007), Tengen | Star Rage | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yuki.md
-- Megumi Fushiguro - fils de Toji (né le 22 déc 2000), adopté hors-Zenin par Nisha et Satoru (2008) | Dix Ombres, éveillé en 2009 | Nisha/Satoru, Tsumiki, Naoya (rivalité de succession latente) | Dix Ombres | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Megumi.md
-- Tsumiki Fushiguro - belle-sœur de Megumi (profane, née 1997), adoptée avec lui (2008) | aucune ; marquée par Kenjaku, Yorozu en dormance 2008-2015 | Megumi, Nisha/Satoru | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Tsumiki.md
+- Megumi Fushiguro - fils de Toji (né le 22 déc 2000), adopté hors-Zenin par Nisha et Satoru (2008), Gojo-Zenin depuis 2015 | Dix Ombres, éveillé en 2009 | Nisha/Satoru, Tsumiki, Naoya (rivalité de succession latente) | Dix Ombres | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Megumi.md
+- Tsumiki Fushiguro - belle-sœur de Megumi (profane, née 1997), adoptée avec lui (2008), Gojo-Zenin depuis 2015 | aucune ; marquée par Kenjaku, Yorozu en dormance 2008-2015 | Megumi, Nisha/Satoru | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Tsumiki.md
 - Akari Nitta - assistant manager sans don (née ~1993), première vraie élève de Nisha (promo Kyoto 2011-2014) | support | Nisha (lien quasi maternel), Arata | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nitta.md
 - Panda - cadavre maudit mutant créé par Yaga et co-amalgamé avec Nisha (2011), "fils" des deux | trois noyaux, corps maudit doté d'une âme | Yaga, Nisha | corps maudit | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Panda.md
 - Ryomen Sukuna - Roi des Fléaux (20 doigts = étalon), humain de Heian devenu esprit maudit suprême | Tranchant, Feu, Sanctuaire Maléfique, RCT ; 200 pour cent dès la naissance | [DIVERGENCE RP] pacte de dormance ; jumeau réincarné en Jin Itadori ; Uraume ; réceptacles Yuji puis Megumi (ère D) | Tranchant + Feu | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Sukuna.md
+- Uraume - suivant de Sukuna depuis Heian, incarné en 2018 dans le corps de Shiori Himi, désigné au masculin | Formation de glace, RCT ; 14 doigts | Sukuna (son roi), Kenjaku (contrat), Nozomu (porteur de la marque, l'ingère en ère D) | Formation de glace | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Uraume.md
+- Mahito - fléau de Grade Spécial du camp de Kenjaku | Façonnage de l'âme, Incarnation de la Perfection ; 13 doigts (oct 2018), ~16 après sa mue | Kenjaku, Yuji (némésis), Muta (le soigne), Nisha (une rencontre, oct 2018 : fuit en lâchant le leurre de Takatsuki) ; absorbé par Kenjaku à Shibuya | Façonnage de l'âme | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Mahito.md
+- Choso - aîné des Peintures Mortes | Manipulation du sang sans limite ; 12 doigts | [DIVERGENCE RP] coconçu par Kenjaku-dans-Noritoshi avec Eien-dans-Nanao ; demi-frère d'Eso, Kechizu et Yuji ; épargne Yuji à Shibuya | Manipulation du sang | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Choso.md
 - Yorozu - exorciste de Heian changée en objet maudit par Kenjaku, en dormance dans Tsumiki (2008-2015) | Construction, Triple Affliction, 16 doigts | Sukuna (obsession), Kenjaku, Nisha (la tue fin 2015) | Construction | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yorozu.md
 - Aoi Todo - élève de Nisha à Kyoto (promo 2016-2019) | Boogie Woogie + taijutsu, Grade 1, 7 doigts | Yuki, Nisha, Noritoshi/Momo | Boogie Woogie | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Todo.md
 - Noritoshi Kamo - l'élu, Prince Kamo (né le 5 juin 1997 [DIVERGENCE RP vs canon : 2000]), élève de Nisha | Hémokinésie pure, Semi-Grade 1, 5 doigts | Yukiko (sœur et carquois), Yasashiku (mère), Todo/Momo | Hémokinésie | canon + [DIVERGENCE RP]. [HOMONYME - À NE PAS CONFONDRE] avec le Noritoshi de Meiji, corps de Kenjaku. detail: cf. WIKI Personnages/Noritoshi_Kamo.md
 - Momo Nishimiya - élève de Nisha (promo 2016-2019), soutien aérien | balai + vent, Grade 2, 4 doigts | Nisha, Todo/Noritoshi | balai + vent | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Momo.md
 - Kasumi Miwa - élève de Kyoto (promo 2017-2020) | kenjutsu, aucun sort inné, Grade 3, 3 doigts | Utahime, Nisha, Mechamaru | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Miwa.md
-- Kokichi Muta (Mechamaru) - élève de Kyoto (promo 2017-2020) ; [DIVERGENCE RP vs canon] survit à Mahito, sauvé par Nisha (ère C) | Restriction Céleste inverse, Puppet Manipulation, ~6 doigts via robot | Miwa, Nisha | Puppet Manipulation | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Mechamaru.md
+- Kokichi Muta (Mechamaru) - élève de Kyoto (promo 2017-2020) ; [DIVERGENCE RP vs canon] taupe de Kenjaku et agent double, survit à Mahito, sauvé par Nisha (oct 2018) ; corps rendu sain par Mahito, Restriction intacte (réserve et portée nationale conservées), Grade Spécial potentiel | Restriction Céleste inverse, Puppet Manipulation, ~6 doigts via robot puis 6 guéri (pic ~12, plafond ~15) | Miwa, Nisha | Puppet Manipulation | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Mechamaru.md
 - Arata Nitta - élève de Kyoto (promo 2018-2021), non combattant doté d'un sort | Pain Killer (fige les blessures) | Akari, Utahime | Pain Killer | canon + [DIVERGENCE RP vs canon] (cadet ici). detail: cf. WIKI Personnages/Arata_Nitta.md
 - Toge Inumaki - élève de Satoru (promo Tokyo 2017-2020) | Paroles Maudites, Grade 2, 5 doigts | Maki et Panda, Satoru | Paroles Maudites | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Toge.md
 - Yuta Okkotsu - élève de Satoru (promo Tokyo 2017-2020), Rika intégrée à sa fiche | réserve colossale + Rika + Copie ; 12 puis 15 doigts | Satoru, Nisha (miroir inverse ; copie la Chronokinésie début 2018) | Copie | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yuta.md
 - Kinji Hakari - élève de Tokyo (promo 2016-2019) | Idle Death Gamble (domaine dès 2016), 8 doigts, hors échelle en Jackpot | Kirara, Kusakabe, Nisha, Hautes Instances (clash) | Idle Death Gamble | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Hakari.md
-- Yuji Itadori - réceptacle de Sukuna (né le 20 mars 2000 [DIVERGENCE RP vs canon : 2003]), élève de Satoru (promo Tokyo 2018-2021), étudiant de fac à Sendai avant | physique hors norme, Poing Divergent, Rayon Noir ; 5 doigts propres | Satoru, Nisha (le dossier devenu gosse), Megumi, Nobara, Todo, Sukuna (Enchain) | aucun sort inné | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yuji.md
+- Yuji Itadori - réceptacle de Sukuna (né le 20 mars 2000 [DIVERGENCE RP vs canon : 2003]), élève de Satoru (promo Tokyo 2018-2021), étudiant de fac à Sendai avant | physique hors norme, Poing Divergent, Rayon Noir ; 5 doigts propres ; 15 doigts de Sukuna digérés à Shibuya, sursis tombé, non exécuté par Nisha | Satoru, Nisha (le dossier devenu gosse), Megumi, Nobara, Todo, Sukuna (Enchain) | aucun sort inné | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yuji.md
 - Nobara Kugisaki - élève de Satoru (née le 7 août 1999 [DIVERGENCE RP vs canon : 2002], promo Tokyo 2018-2021) | Poupée de Paille, Résonance, Grade 3, 4 doigts | Yuji, Megumi, Nisha (respect mutuel) | Poupée de Paille | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nobara.md
 - Kirara Hoshi - élève de Tokyo (promo 2016-2019), non binaire (canon) | Love Rendezvous, 4 doigts | Hakari, Nisha | Love Rendezvous | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Kirara.md
 
@@ -192,8 +195,8 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Carte bleue de Nisha - carte en acier damas anthracite aux veinures violettes (couleurs du clan) | cadeau de Naobito aux 18 ans des jumeaux (30 jan 2005) | fortune personnelle | portée par Nisha | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nisha.md
 - Lunettes maudites de vue occulte - monture imbue d'énergie | offertes par Maki à Tsumiki (2009) | donnent la vue de l'occulte | portées par Tsumiki | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Tsumiki.md
 - Chi no Meiyo - tanto maudit | 1998, forgé du fléau Sakushu Sha piégé par Yukiko | pont : gorge Yukiko de l'énergie absorbée par un rideau | porté par Yukiko | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yukiko.md
-- Lisière du Supplice - objet maudit de grade spécial (sceau) | [DIVERGENCE RP] de la main de Kenjaku | scelle une cible vivante | refermée sur Satoru le 31 oct 2018, ouverte par Yukiko en déc 2018 | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Kenjaku.md
-- Rideau de Takatsuki - piège-sceau à usage unique | de la main de Kenjaku, taillé sur la signature gémellaire Zenin (source : un cheveu de Nisha prélevé par Kenjaku au viol de 2015, révélé par Eien à Takatsuki) | verrouille Nisha et Naoya le 31 oct 2018 ; double fond : épuiser Nisha pour Eien - ÉCHEC | démêlé par Yukiko la nuit même | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Kenjaku.md
+- Lisière du Supplice - objet maudit de grade spécial (sceau) | [DIVERGENCE RP] de la main de Kenjaku | scelle une cible vivante | refermée sur Satoru le 31 oct 2018, ouverte par Yukiko en déc 2018 | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Kenjaku.md, Roadmap/Nisha/Roadmap_C2.md
+- Rideau de Takatsuki - piège-sceau à usage unique | de la main de Kenjaku, taillé sur la signature gémellaire Zenin (source : un cheveu de Nisha prélevé par Kenjaku au viol de 2015, révélé par Eien à Takatsuki) | verrouille Nisha et Naoya le 31 oct 2018 ; double fond : épuiser Nisha pour Eien - ÉCHEC | démêlé par Yukiko la nuit même, Nori à ses côtés | [DIVERGENCE RP]. detail: cf. WIKI Roadmap/Nisha/Roadmap_C2.md, Personnages/Kenjaku.md
 - Rideau de l'Amicale - rideau polarisé à usage unique | patron de Kenjaku (signatures tirées d'un cheveu de Satoru, volé par Mechamaru, et d'un cheveu de Nisha), tissé en tracé alterné par le maître des fléaux boucher | tient Satoru et Nisha dehors pendant l'attaque d'Hanami (sept 2018), effet amoindri | défait sur le souffle de Yukiko | [DIVERGENCE RP]. detail: cf. WIKI Roadmap/Nisha/Roadmap_C1.md
 - Rideau du palais - contre-piège à usage unique | de la main de Yukiko, taillé sur la signature de Kenjaku | enferme Kenjaku et l'assaut ; théâtre de sa mort (déc 2018) | consommé | [DIVERGENCE RP]. detail: chantier, roadmaps C/D à écrire
 - Marque de Nozomu - sceau-prison de l'âme de Nozomu | de la main de Kenjaku (Genroku) | double clé à destination de Sukuna : réveil en MENAÇANT un enfant ou en PROTÉGEANT un enfant | confiée à Uraume | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nozomu.md
@@ -206,7 +209,7 @@ SB8 porte, par mystère ou fil, la définition, le statut et un renvoi. Les dér
 ### Mystères
 `Mystère - hypothèses principales | statut (ouvert / résolu-dans-RP / hors-périmètre)`
 - Sort de Satoru post-2018 - canon : scellé le 31 oct 2018, libéré puis tué par Sukuna le 24 déc 2018. RP : scellé le 31 oct, LIBÉRÉ en déc 2018 par Yukiko ; duel final contre Sukuna-dans-Megumi, survie ou non | ouvert, décision worldbuilder.
-- Présence de Nisha à Shibuya - verrouillée à Takatsuki avec Naoya le 31 oct ; voit Kenjaku-dans-Geto à la fermeture du piège, sans combat | résolu-dans-RP (chantier).
+- Présence de Nisha à Shibuya - verrouillée à Takatsuki avec Naoya le 31 oct ; voit Kenjaku-dans-Geto à la fermeture du piège, sans combat ; arrive à Shibuya après le scellement, croise Yuta, n'exécute pas Yuji | résolu-dans-RP (Roadmap C2).
 - Culte Astral / culte posthume de Geto (ères C/D) | ouvert, à statuer aux roadmaps C/D.
 - Origine ultime de l'énergie occulte (JJK Modulo, 2086) | hors-périmètre.
 
@@ -216,8 +219,8 @@ SB8 porte, par mystère ou fil, la définition, le statut et un renvoi. Les dér
 - T-Matriarcat - état 2005 (clan Kamo gouverné par ses femmes) | DÉTONÉ ère C | chantier.
 - Collier-arsenal de Nisha - A1 (30 jan 2006) | DÉTONÉ en A2_4 | Roadmap A2.
 - Faille d'Eien - A1/A2 | DÉTONÉE en 2015 (B2) | Roadmap B2, WIKI Personnages/Eien.md.
-- T-Sceau (la vente de Satoru) - 2015 (B2) | DÉTONÉ ère C (Takatsuki, 31 oct 2018) | chantier.
-- T-Secret-Naoya - 2015 (B2) | DÉTONÉ ère C ; Satoru ignore toujours, jusqu'à quand : [OUVERT] | chantier.
+- T-Sceau (la vente de Satoru) - 2015 (B2) | DÉTONÉ C2 (Takatsuki et Shibuya, 31 oct 2018) | Roadmap C2.
+- T-Secret-Naoya - 2015 (B2) | DÉTONÉ C2 : cercle Naoya + Yukiko + Nori (Takatsuki) ; Satoru ignore toujours, jusqu'à quand : [OUVERT] | Roadmap C2.
 - T-Yorozu - fin 2015 (B3) | DÉTONÉ juin 2018 (C1_1, l'autel) : le grief d'Eien ÉCHOUE, Sukuna en rit | Roadmap C1.
 - T-Tsumiki - 2008 (B1) | RÉSOLU fin 2015, libérée sans coma [DIVERGENCE RP vs canon] | WIKI Personnages/Tsumiki.md.
 - T-Okaruto - 2010 (B1, l'Okaruto Shinbun de Tsumiki) | DÉTONÉ juin 2018 (C1_1) : le club de Yuji descelle le doigt à rebours des avertissements du blog | Roadmap C1.
@@ -237,4 +240,4 @@ Index détaillé page par page : cf. WIKI JJK/Sommaire.md
 
 ---
 
-FIN_BIBLE_B21
+FIN_BIBLE_B24

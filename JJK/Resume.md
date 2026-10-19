@@ -1,10 +1,10 @@
 # Resume - JJK
 
-- version : W2
+- version : W3
 
 Page = RESUME AUTOSUFFISANT de l'univers et de son histoire, telle qu'etablie (canon + divergences actees). Concue pour etre lue SEULE, hors du systeme BIBLE + WIKI : elle ne renvoie a rien qu'elle ne dise elle-meme. Usage : exporter l'univers vers un projet qui n'a pas la BIBLE.
 
-> NON INDEXEE AU SOMMAIRE (decision worldbuilder, build B15). Meme doctrine que Roadmap/ et Memoires/ : cette page couvre l'histoire jusqu'à septembre 2018, donc le FUTUR de toute partie qui demarre en 2005. Un MJ qui la fetcherait en narration prefigurerait en prose. Document de build et d'export uniquement.
+> NON INDEXEE AU SOMMAIRE (decision worldbuilder, build B15). Meme doctrine que Roadmap/ et Memoires/ : cette page couvre l'histoire jusqu'au 1er novembre 2018, donc le FUTUR de toute partie qui demarre en 2005. Un MJ qui la fetcherait en narration prefigurerait en prose. Document de build et d'export uniquement.
 
 ## 1. Le monde
 
@@ -84,14 +84,22 @@ Nisha juge le gamin dangereux, mais sait qu'à deux, avec Satoru, ils viennent �
 
 En septembre, à l'Amicale de Tokyo, Yuji réapparaît. Les fléaux de Kenjaku attaquent sous un rideau polarisé sur Satoru et Nisha, tiré d'un cheveu de chacun ; Yukiko leur souffle la solution, Hanami s'enfuit, et personne ne meurt. Pendant l'attaque, des doigts de Sukuna et les Peintures Mortes sont volés. Nisha sait seulement qu'elle a été ciblée.
 
-## 5. État du monde (septembre 2018)
+Dans la foulée, au pont de Yasohachi, Yuji et Nobara tuent deux des Peintures Mortes volées, Eso et Kechizu ; leur aîné, Choso, jure vengeance. Akari Nitta, qui les escorte, prévient Nisha par portable avant le rapport officiel. En octobre, Mechamaru appelle Nisha à l'aide : il a vendu des renseignements au camp de Kenjaku contre un corps sain, mais il en a soutiré au passage et veut se racheter. Mahito a tenu parole en façonnant son âme : Muta a un vrai corps, sa Restriction Céleste intacte, et il peut viser le Grade Spécial. Nisha arrive pendant son duel contre Mahito, manque de tuer le fléau, et Mahito lâche en fuyant : « 31 octobre, 16 h... Takatsuki ». C'est un leurre de Kenjaku.
 
-- Satoru Gojo, 23 doigts, numero 1 mondial, plafond de l'echelle. Nisha, 18 doigts, numero 2 depuis 2006. Naoya, 14 doigts, a la tete du Hei. Yuki Tsukumo, 15 doigts, troisieme de facto mais hors du classement officiel.
-- Suguru Geto est mort. Son corps est occupe par KENJAKU depuis fin 2017 - personne ne le sait.
-- Kenjaku detient depuis 2015 la cle du sceau de Satoru, arrachee a sa propre epouse, et un cheveu de chacun des deux. Ce fil n'a pas encore detone.
-- Naoya est le seul depositaire du secret de cette vente.
-- Eien a joué son grief sur l'autel de Sukuna et a échoué ; humiliée, elle rumine.
-- Sukuna est réveillé dans Yuji (environ trois doigts digérés), lié à lui par un serment secret, Enchain, que Yuji a juré d'oublier.
+Nisha croit que Kenjaku veut piéger Satoru là-bas, avec le « comment » qu'elle a vendu en 2015. Pour que Satoru n'en sache rien, elle n'en parle qu'à Naoya et lui dit se rendre au domaine pour un conseil de clan. Le 31 octobre à 16 h, un rideau taillé sur leur signature gémellaire se referme sur les jumeaux. À la fermeture, Nisha voit Geto balafré et comprend qui porte ce corps. Elle ne fait rien, seul moyen de ne pas ressortir vidée au profit d'Eien, qui se venge en lui révélant d'où vient la signature : un cheveu pris en 2015. À la nuit, Muta sent Shibuya par sa portée nationale et prévient Noritoshi. Yukiko démêle le rideau pendant des heures, son frère à ses côtés ; elle comprend que seul le Noritoshi de Meiji a pu le tisser, Nisha raconte la vente, et Nori entend tout.
+
+Pendant ce temps, à Shibuya, Satoru est scellé dans la Lisière du Supplice. Jogo fait avaler dix doigts à Yuji, Sukuna prend le corps et rase le quartier. Nanami meurt face à Mahito, Nobara perd l'œil gauche, Naobito, brûlé par Jogo, mourra dans la nuit. Toji, ressuscité, affronte Megumi et entend son nom : Gojo-Zenin, celui que Nisha et les enfants ont pris aux noces de 2015. Il comprend que son fils est hors des griffes du clan et se tue, serein. Yuji et Todo battent Mahito, que Kenjaku absorbe avant de lancer la Traque Meurtrière et de partir avec la Lisière. Nisha arrive après lui, en même temps que Yuta, rentré sur ordre des Instances pour exécuter Yuji, dont les deux conditions du sursis sont tombées. Elle l'en dissuade et n'exécute pas son protégé. L'arc se clôt au 1er novembre 2018.
+
+## 5. État du monde (1er novembre 2018)
+
+- Satoru Gojo, 23 doigts, numero 1 mondial, plafond de l'echelle, est SCELLÉ dans la Lisière du Supplice depuis le 31 octobre. Nisha, 18 doigts, numero 2 depuis 2006. Naoya, 14 doigts, a la tete du Hei. Yuki Tsukumo, 15 doigts, troisieme de facto mais hors du classement officiel.
+- Suguru Geto est mort. Son corps est occupe par KENJAKU depuis fin 2017 ; Nisha l'a compris à Takatsuki. Kenjaku a absorbé Mahito et lancé la Traque Meurtrière.
+- Kenjaku tenait depuis 2015 la cle du sceau de Satoru, arrachee a sa propre epouse, et un cheveu de chacun des deux ; le fil a détoné à Shibuya.
+- Naoya, Yukiko et Noritoshi sont les seuls depositaires du secret de cette vente. Satoru l'ignore.
+- Eien a échoué deux fois, sur l'autel de Sukuna puis à Takatsuki, où Nisha ne s'est pas laissé vider.
+- Sukuna est réveillé dans Yuji (quinze doigts digérés depuis Shibuya), lié à lui par un serment secret, Enchain, que Yuji a juré d'oublier. Les deux conditions du sursis sont tombées ; Nisha ne l'a pas exécuté.
+- Nanami et Naobito sont morts. Nobara a perdu l'œil gauche. Mechamaru vit, dans un corps sain.
+- Megumi et Tsumiki portent le nom Gojo-Zenin depuis 2015, comme Nisha.
 - Tengen n'a pas fusionne depuis l'echec de 2006.
 
 ## 6. Les divergences majeures avec le canon
@@ -106,6 +114,7 @@ En septembre, à l'Amicale de Tokyo, Yuji réapparaît. Les fléaux de Kenjaku a
 8. Nisha et Mei Mei enseignent a Kyoto, ou Mei Mei est freelance au canon.
 9. L'entree en universite se fait a 18 ans, post-bac, et la scolarite classique est commune a tous.
 10. Le clash de Hakari avec les Hautes Instances a lieu sur le front de Tokyo, pas de Kyoto.
+11. Mechamaru survit à Mahito, guéri dans un corps sain, avec un potentiel de Grade Spécial.
 
 ---
 

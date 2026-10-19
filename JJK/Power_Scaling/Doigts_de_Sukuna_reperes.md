@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Repères chiffrés
 
-- version : W1
+- version : W2
 
 Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème, synergie, partage gémellaire, plafond mondial). Contient les REPÈRES par entité et les courbes de progression A2. Rappel : l'unité est extradiégétique jusqu'en 2018, puis diégétique pour le seul couple et la famille (cf. page mère).
 
@@ -21,6 +21,7 @@ Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème,
 | Toge (2017-2018) | 5 | 7.44 | [DIVERGENCE RP] eleve Tokyo (promo 2017-2020), paroles maudites |
 | Yuji (juin 2018) | 5 | 7.44 | [DIVERGENCE RP] puissance PROPRE hors Sukuna (physique brut, zéro technique) ; les doigts qu'il digère mesurent l'éveil de Sukuna, pas sa force à lui |
 | Mechamaru (2017-2018) | 6 | 9.12 | [DIVERGENCE RP] via robot pilote a distance ; reservoir + portee NATIONALE au-dela (Restriction Celeste inverse) |
+| Mechamaru guéri (oct 2018 ->) | 6 | 9.12 | [DIVERGENCE RP] corps sain, Restriction intacte (seule la contrainte est levée) ; pic ponctuel ~12 en mode Absolu contre Mahito (stock de dix-neuf ans brûlé) ; plafond ~15 (Grade Spécial) à gagner |
 | Ogi | 7 | 11.33 | [DIVERGENCE RP] Grade 1, pilier du Hei |
 | Yaga | 7 | 11.33 | [DIVERGENCE RP] Grade 1, seuil du Special par le savoir-faire (creation d'une ame autonome), pas la puissance |
 | Mei Mei (post-2008) | 7 | 11.33 | [DIVERGENCE RP] Grade 1, niveau Yaga / Ogi |
@@ -35,11 +36,15 @@ Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème,
 | Geto (2005) | 12 | 31.30 | -> 14 (2006), 15 (2007, defection) ; cf. Courbes A2 ci-dessous |
 | Yukiko Kamo (2005, REEL) | 12 | 31.30 | [DIVERGENCE RP] puissance CONDITIONNELLE (piege en place, Chi no Meiyo en pont) ; niveau Satoru / Geto pre-eveil, sous Nisha ; 4 doigts annonces, Grade 2 par ruse ; cf. Personnages/Yukiko.md |
 | Yuta (fin JJK0, 2017) | 12 | 31.30 | [DIVERGENCE RP] avec Rika ; instable et bas a l'arrivee -> 15 (51.35) a Shibuya (ere C) |
+| Choso | 12 | 31.30 | [DIVERGENCE RP] aîné des Peintures Mortes ; au-dessus de Nori et de Yuji à Shibuya |
 | Jogo | 13 | 37.26 | canon : prend Naobito de vitesse, one-shot a Shibuya |
+| Mahito (oct 2018) | 13 | 37.26 | [DIVERGENCE RP] niveau Jogo ; survit à Nisha par la fuite et le Façonnage de l'âme -> ~16 après la mue de Shibuya |
 | Nisha (2005) | 13 | 37.26 | [DIVERGENCE RP] n1 mondiale ; -> courbe A2 jusqu'a 18 ; cf. Courbes A2 ci-dessous |
 | Naoya (adulte) | 14 | 43.94 | [DIVERGENCE RP] |
+| Uraume | 14 | 43.94 | [DIVERGENCE RP] domine Hakari hors Jackpot, pas les monstres de Grade Spécial |
 | Yuki Tsukumo | 15 | 51.35 | [DIVERGENCE RP] Grade Special decroche a l'universite puis quitte le systeme ; hors-classement officiel (de facto n3 mondiale, jamais reconnue) |
 | Yorozu (dans Tsumiki, 2008-2015) | 16 | 59.51 | [DIVERGENCE RP] exorciste Heian en objet maudit (Kenjaku) ; tuee fin 2015 par Nisha (duel spirituel en territoire interieur) |
+| Mahito (mue de Shibuya) | ~16 | ~59.51 | [DIVERGENCE RP] pic juste avant l'absorption par Kenjaku |
 | Toji | 17 | 68.44 | canon, hors-clan invisible, hors classement (non reconnu exorciste) |
 | Geto (gourou, 2015) | 17-18 | 68-78 | vrai Geto vivant |
 | Nisha (adulte) | 18 | 78.15 | [DIVERGENCE RP] apogee atteinte des 2008 |
@@ -72,6 +77,7 @@ Les prodiges montent en continu sur l'arc A2 (pas un saut, sauf l'eveil de Gojo)
 - Geto 2015 : vrai Geto. Kenjaku occupe son corps a partir de fin 2017 (donc "Geto 2015" = le vrai, vivant).
 - Gojo, Toji, Maki (a 0 %), Sukuna : lecture worldbuilder, coherente avec le canon.
 - Yuji, Nobara (juin 2018) : [DIVERGENCE RP], scalings fixés par le worldbuilder (thread C1).
+- Mahito, Choso, Uraume, Mechamaru guéri : [DIVERGENCE RP], scalings fixés par le worldbuilder (thread C2).
 
 ---
 

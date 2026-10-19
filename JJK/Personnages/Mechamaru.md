@@ -1,6 +1,6 @@
 # Kokichi Muta (Mechamaru)
 
-- version : W7
+- version : W8
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e annee a Kyoto (via son robot). Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -44,6 +44,7 @@ Fiches propres : cf. Personnages/Utahime.md, Miwa.md, Nisha.md ; Factions/Clan_K
 
 ## Grade et scaling
 - [DIVERGENCE RP] ~6 doigts exploite (via le robot), sur un reservoir et une portee (nationale) bien au-dela. Integre a la table de Power_Scaling (cf. Power_Scaling/Doigts_de_Sukuna.md).
+- [DIVERGENCE RP] Guéri (oct 2018) : pic ~12 en mode Absolu en brûlant son stock ; ensuite 6, dans un corps neuf jamais entraîné ; plafond ~15 (Grade Spécial) à gagner.
 
 ## Chronologie noyau
 | Date/Ere | Jalon |
@@ -63,11 +64,12 @@ Fiches propres : cf. Personnages/Utahime.md, Miwa.md, Nisha.md ; Factions/Clan_K
 |---|---|---|
 | juil - sept 2018 (C1_4) | Après les cours, remercie Nisha d'une main sur l'épaule, sincère, et prélève sur sa veste un cheveu blanc de SATORU pour Kenjaku. Il veut un vrai corps ; il en aura honte | taupe active ; cheveu livré |
 | sept 2018 (C1_5) | Amicale à Tokyo : affronte Panda (canon). Le rideau polarisé sur le couple sort en partie de son larcin ; aucun mort | - |
+| oct 2018 (C2_2) | Agent double intéressé : a passé serment avec le camp de Kenjaku (renseignements contre un corps sain et la vie sauve des élèves de Kyoto) et glané au passage des infos sur leur camp. Mahito lui rend un corps entier en façonnant son âme, SANS toucher à la Restriction : il n'en perd que la contrainte (réserve innée et portée nationale intactes). Appelle Nisha : il a fait le con, il a soutiré des infos, il veut aider ; avoue le cheveu. Ultimate Mechamaru, mode Absolu, contre Mahito : dix-neuf ans de stock brûlés (pic ~12). Nisha le sauve ; pardon sur place. Ses infos corroborent, sans qu'il le sache, le leurre de Takatsuki | VIVANT, corps sain, à sec (6) ; plafond Grade Spécial (~15) |
+| 31 oct 2018 (C2_4) | À la nuit, sa portée nationale lui fait sentir Shibuya : il comprend le leurre et prévient Nori | sauve les jumeaux par l'alerte |
 
 ## Notes de frontiere
-- [DIVERGENCE RP - spoil ere C, non roadmappe : direction connue, detail volontairement absent] Malgre la confiance nouee avec Nisha, Muta TRAHIRA (taupe, comme au canon). Mais il parviendra a appeler Nisha a l'aide ; elle interviendra a temps pour le SAUVER de Mahito. POINT CAPITAL A PRESERVER : lors de cette intervention, NISHA NE CROISE PAS Kenjaku-dans-Geto. Comme il n'y a aucun mort à l'Amicale, Nisha lui PARDONNERA le cheveu.
-- Ce sauvetage a lieu AVANT Shibuya (nœud Mechamaru, Roadmap C2), pas en périphérie de Shibuya : c'est la première rencontre de Nisha avec Mahito, et le Tchekhov SB8 (« Nisha absente de Shibuya ») tient tel quel. [Note antérieure, « incursion en périphérie de Shibuya » : périmée, alignée au chantier C1.]
-- Le contenu detaille (deal de la taupe, choregraphie du sauvetage) -> Roadmap C2.
+- Nœud Mechamaru (oct 2018) : porté en Trajectoire datée ; déroulé : cf. Roadmap/Nisha/Roadmap_C2.md (C2_2). Nisha n'y croise pas Kenjaku-dans-Geto.
+- [DIVERGENCE RP] Survivant au potentiel de Grade Spécial : comme une Maki qui gagnerait un sort et de l'énergie à foison en gardant la force de Toji. Son RÔLE en ères C/D est à définir (cf. _Implications).
 
 ## Pointeurs
 - Restriction inverse, branche Muta, succession Kamo : cf. Factions/Clan_Kamo.md, Cosmogonie/Trois_Esprits.md.

@@ -1,11 +1,11 @@
 # Tsumiki Fushiguro
 
-- version : W5
+- version : W6
 
 Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = qui est Tsumiki a son entree en scene (identite, nature, psychologie, relations de base) ; son devenir post-2008 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps ere B). Profane : hors-axe combat.
 
 ## Identite
-- Nom : Tsumiki Fushiguro. Canon. Demi-soeur AINEE de Megumi Fushiguro, sans aucun lien de sang (canon : leurs parents respectifs se sont mis en couple ; Toji est le pere de Megumi, pas le sien).
+- Nom : Tsumiki Fushiguro. Canon. [DIVERGENCE RP] Porte le nom GOJO-ZENIN depuis les noces de 2015, avec Nisha et Megumi (elle délaisse le nom de feue sa mère) ; la fiche garde le nom sous lequel elle entre dans le RP. Demi-soeur AINEE de Megumi Fushiguro, sans aucun lien de sang (canon : leurs parents respectifs se sont mis en couple ; Toji est le pere de Megumi, pas le sien).
 - Naissance : 1997. A 11 ans a l'ouverture de l'ere B (2008).
 - Profane : aucune energie occulte propre, aucun sort. Ne percoit l'occulte qu'au travers d'un outil maudit (cf. Physique, lunettes).
 - [DIVERGENCE RP] Adoptee en 2008 par le couple Nisha Zenin / Satoru Gojo, en meme temps que Megumi (cf. Trajectoire datee). Elevee a Saitama, hors de tout moule de clan.
@@ -62,7 +62,7 @@ Fiches propres : cf. Personnages/Nisha.md, Megumi.md, Satoru.md, Maki.md. Ici, s
 | 2008 (B1) | Adoptee avec Megumi par le couple ; emmenagement a Saitama. Eien reconnait la marque de Kenjaku sur elle et jubile en silence (graine T-Tsumiki) | de petite mere precaire a fille adoptee ; levier emotionnel pour Megumi |
 | 2009 (B1) | Recoit de Maki des lunettes maudites : voit desormais l'occulte. Nisha l'emmene au domaine, s'attache sincerement. Megumi sort ses premiers shikigami ; Tsumiki l'encourage et se lie a ses familiers | accede a la vue de l'occulte ; dynamique inversee avec Megumi posee |
 | 2010 (B1) | Lance l'Okaruto Shinbun (13 ans) : blog d'horreur mystique romancant les missions de ses parents, qu'elle tient avec serieux des annees (graine T-Okaruto) | devient un pont occulte/profanes |
-| 2015 (B2) | Noces de Nisha et Satoru - un mariage que les gosses, elle en tete, ont pousse | -- |
+| 2015 (B2) | Noces de Nisha et Satoru - un mariage que les gosses, elle en tete, ont pousse. Prend le nom Gojo-Zenin avec Megumi | Gojo-Zenin |
 | fin 2015 (B3) | LIBERATION. Nisha la fait entrer dans son domaine et livre le combat a deux plans (materiel + territoire interieur de Yorozu) ; l'esprit-germe est TUE, Tsumiki liberee INTACTE, sans coma. Eduquee a la verite occulte et protegee par ses parents n1/n2, elle n'echoue pas au piege qui, dans le canon, la fait basculer | liberee de la dormance ; T-Tsumiki RESOLU |
 | juin 2018 (C1_1) | T-Okaruto DÉTONE : le club d'occultisme de la fac de Yuji, fan du blog, descelle le doigt de Sukuna PARCE QUE ses articles mettent en garde contre les sceaux - des jeunes idiots qui vont contre la consigne. Elle l'apprend par Megumi | son blog a réveillé le Roi des Fléaux, sans le vouloir |
 | juil - sept 2018 (C1_4) | Yuji, mort officiellement, vit caché sous son toit à Saitama : le lecteur rencontre l'autrice | dans le cercle du secret Yuji |

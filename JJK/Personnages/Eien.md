@@ -1,6 +1,6 @@
 # Eien
 
-- version : W14
+- version : W15
 
 OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokinesie). Moitie du couple architecte avec Kenjaku. Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -62,11 +62,11 @@ Tissu relationnel detaille (appellatifs, registres avant/apres 2015, les visites
 | fin 2015 (B3) | Nisha tue YOROZU (liberation de Tsumiki). Aucun lien reel d'Eien a Yorozu - mais la mort ARME T-Yorozu : en ere C, Eien livrera Nisha a Sukuna-dans-Yuji en l'accusant d'avoir tue "sa fidele Yorozu" (la fidele de SUKUNA - pure instrumentalisation) | munition acquise contre Nisha (T-Yorozu ARME -> ere C) |
 | 2015+ (B3) | LES VISITES. Le calcul a RATE : brisee, Nisha ne s'effondre pas en depression ecrasable - elle mue sa tristesse, par Satoru et Naoya, en haine pure du couple d'architectes. Elle descend des lors regulierement dans le Jardin des Eres Mortes pour la TABASSER. Le parasite battu chez lui par son hote : renversement complet, definitif. Eien encaisse, profil bas, et laisse macerer. Registre des sessions : cf. Personnages/Nisha_relations_proches.md | condamnee au statut de souffre-douleur ; punition reguliere subie ; rancoeur qui s'affine (carburant de l'ere C) |
 | juin 2018 (C1_1) | L'AUTEL. Au contact de Yuji, elle touche l'âme de Sukuna et projette son hôte avec elle sur l'autel intérieur ; elle accuse Nisha d'avoir tué « sa fidèle Yorozu » (T-Yorozu DÉTONÉ). Sukuna s'en moque, rit et la tabasse ; Nisha la corrige à son tour. Le grief fabriqué ÉCHOUE | humiliée par deux hôtes au lieu d'un ; rumine, profil bas, dans le Jardin (cf. Roadmap/Nisha/Roadmap_C1.md) |
+| 31 oct 2018 (C2_4) | TAKATSUKI : Nisha ne fait rien, la fenêtre reste close. Eien lui révèle la source de la signature (le cheveu de 2015) | double fond raté |
 
 ## Notes de frontiere (hors de cette fiche)
 - Trahison, complots et denouement (a partir de 2015) : poses en Trajectoire datee a mesure que les arcs sont roadmappes (B2-B3 faits), puis Parties.
 - Mecanique fine de projection entre fors interieurs, timing des evenements : a border en roadmap.
-- Elle SAIT d'où Kenjaku tient la signature de Nisha (le cheveu de 2015, cf. Personnages/Kenjaku.md) et le révélera, enfermée à Takatsuki (31 oct 2018) : -> Roadmap C2.
 - Ce que le clan Gojo a vu et archive de la fin de l'attaque de Nozomu (le role de sa doyenne) : [INCERTAIN - non fixe], cf. Personnages/Nozomu.md.
 
 ---

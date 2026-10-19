@@ -1,6 +1,6 @@
 # Toji Fushiguro
 
-- version : W7
+- version : W8
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (TERMINAL en A2 : mort en 2006).
 
@@ -40,6 +40,7 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 | 2006 (A2_4) | LE PIVOT TOJI. A l'approche de chez Tengen : frappe Gojo (garde relachee) et le tue - Gojo ne reviendra que par l'eveil RCT. Puis tue Riko Amanai (qui venait de choisir de vivre). Geto, pousse par la mort de Riko, l'affronte : son armee de fleaux ne suffit pas face a un anti-exorciste indetectable et surarme (Geto SANS domaine, canon) ; Toji le bat et l'EPARGNE - le tuer libererait d'un coup toute sa horde de fleaux | demontre l'ecart anti-exorciste ; Riko morte, Geto hors combat |
 | 2006 (A2_4) | DUEL contre Nisha, arrivee trop tard (hypersonique) devant chez Tengen, mission deja accomplie. Ses sorts de temps neutralises par la nature anti-exorciste de Toji, son SEUL atout est la vitesse : elle vide le collier (1re detonation des 76 billes de tungstene, kinetique pure qui contourne l'anti-sort ; cf. SB7), le manque de tres peu - mais Toji reprend le dessus en quelques dizaines de secondes. Tabassee par "le chien des Zenin", elle comprend qu'elle n'avait AUCUNE chance | collier detone ; le mepris d'enfance des jumeaux solde ironiquement |
 | 2006 (A2_4, fin) | Satoru, ressuscite et eveille, la sauve in extremis et acheve un Toji mortellement blesse. Mourant, Toji revele a Satoru l'existence de son fils Megumi ET le contrat de vente conditionnel qui le lie au clan Zenin (livrable a l'apparition d'un sort), puis meurt | MORT (terminal en A2) ; Megumi + le contrat reveles a Satoru (graine -> A2_5 / ere B) |
+| 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : ressuscité par la petite-fille d'Ogami, affronte Megumi et lui demande son nom. « Gojo-Zenin » : il comprend, la cousine qu'il a failli tuer, le Gojo qui l'a tué. Son fils est hors des griffes du clan ; il se tue, serein | mort définitive |
 
 ## Posterite documentaire
 [DIVERGENCE RP]
