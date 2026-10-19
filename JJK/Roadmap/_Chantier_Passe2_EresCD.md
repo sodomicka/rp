@@ -2,7 +2,7 @@
 # Capture de session (build 2026-08-24)
 
 ## S0 Statut du document
-- version : W3 (relecture de cohérence du 2026-10-19, après la migration des roadmaps A0-B3 au gabarit v9.0 : A0 Yukiko écrite, Amicale soldée, savoir de Nisha sur Kenjaku borné, échos Miguel et "elle a résisté" ajoutés. W2 : annotations du BIBLE BUILD B18, 2026-08-24 - registre S8 appliqué, S9.1/S10.1/S10.5 soldés - session Nozomu et build)
+- version : W3 (relecture de cohérence du 2026-10-19, après la migration des roadmaps A0-B3 au gabarit v9.0 : A0 Yukiko écrite, Amicale soldée, majorité de Nori recalée au 5 juin 2017, savoir de Nisha sur Kenjaku borné, échos Miguel et "elle a résisté" ajoutés. W2 : annotations du BIBLE BUILD B18, 2026-08-24 - registre S8 appliqué, S9.1/S10.1/S10.5 soldés - session Nozomu et build)
 - Nature : document de TRAVAIL (même régime que _Implications.md). Source d'intégration pour les roadmaps, les fiches et la BIBLE. Jamais fetché en narration. Non indexé au Sommaire.
 - Emplacement : JJK/Roadmap/_Chantier_Passe2_EresCD.md
 - Toutes les décisions ci-dessous sont VALIDÉES par le worldbuilder sauf mention [NON TRANCHÉ], [PROPOSÉ], [IMPLICITE] ou [INTERPRÉTATION].
@@ -24,13 +24,13 @@
 
 ## S3 Ère B - Yukiko (validé)
 - 2008-2015 : gardienne, tutrice et superviseuse de missions de Nori.
-- 5 juin 2015 : majeur, demande à différer sa nomination - veut se montrer digne en ayant fini son cursus (=> héritage visé ~mars 2019, qui tombera en plein chaos post-Shibuya).
 - Utahime : refuge de douceur pour eux deux, en parallèle du clan.
 - Postes (lapsus "Tokyo" corrigé) : Utahime 1res années à KYOTO, Nisha les 2es.
 - Début 2013 : les 3es années sont proposées à Yukiko (par Gakuganji [IMPLICITE]) ; elle ne demande que la promo de son frère (une seule année) ; Nisha refuse ce format ("Mei Mei est achetable mais fiable au moins").
 - AMENDEMENT resto mars 2013 : à QUATRE (Utahime + Nisha + Yukiko + Mei Mei), accompagnées de Ui Ui et Nori. Yukiko était à Kyoto : connaît Mei Mei mieux que Nisha ; l'idée Mei Mei émerge de la discussion à trois (Utahime + Nisha + Yukiko). Yukiko n'a pour argument que la promo de son frère, se fout du reste.
 - Avr 2016 : Nori entre en 1re année (classe d'Utahime). Yukiko spectatrice dans la classe de sa propre copine, sous prétexte d'être la gardienne du futur Patriarche.
 - 2017 : Nori en 2e année chez Nisha ; les deux amies se retrouvent.
+- 5 juin 2017 : majeur (20 ans, majorité japonaise d'avant 2022), demande à différer sa nomination - veut se montrer digne en ayant fini son cursus (=> héritage visé ~mars 2019, qui tombera en plein chaos post-Shibuya).
 - Parade de Geto (24 déc 2017) : Yukiko fait confiance aux camarades de Nori (leader de sa promo malgré l'ingérence de Todo ; 2es années sous Mei Mei) ; elle gère À ELLE SEULE les rideaux de Kyoto, contient et dissimule le massacre des Zenin sur les maîtres des fléaux. Reste de l'année calme.
 - Noces de Nisha (2015) : Yukiko présente avec Nori et Utahime - copine d'une collègue, en amie, PAS en princesse Kamo. Les émissaires Kamo sont là pour raisons diplomatiques, pas eux.
 

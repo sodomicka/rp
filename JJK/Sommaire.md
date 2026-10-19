@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W43
+- version : W44
 
 ## WIKI
 
@@ -41,7 +41,7 @@ Description : fiches personnages du monde.
 - Jinichi.md (W6) - pilier du Hei, frère de Toji, Poings Météores, membre du conseil ; + Nuit des Cent Fleaux (déc 2017).
 - Ogi.md (W6) - frère cadet de Naobito, pilier du Hei, père de Maki/Mai, épéiste ; + Nuit des Cent Fleaux (déc 2017).
 - Ranta.md (W9) - membre du Hei (support des jumeaux), Regard Paralysant : noyau + trajectoire datée (A1).
-- Yukiko.md (W10) - fiche NOYAU de Yukiko Kamo (OC, SECOND OC JOUABLE, princesse Kamo, demi-sœur aînée de Noritoshi, née le 14 juin 1986, promo Kyoto 2005-2008 avec Naoya et Ranta), état <= avr 2005 : Hémotropie (dont le carquois), tissage (pièges dormants, Lucky 7, rideaux entremêlés, record du Dragon 1998), Chi no Meiyo, psychologie (vide d'enfance, masque, la vipère, dévotion-physiologie, règle d'amour, moteur de procuration), statut et relations (Nori, Noriaki, Fubuki, Yasashiku, jumeaux Zenin, Gakuganji, Utahime, Satoru, Shoko), sandbagging Grade 2 / 12 doigts réels ; trajectoire ère A SCINDÉE -> Yukiko_chrono_A.md ; entrées ère B provisoirement en fiche (refus de chaire + resto à quatre 2013, noces 2015, rideaux solo de la Parade 2017).
+- Yukiko.md (W11) - fiche NOYAU de Yukiko Kamo (OC, SECOND OC JOUABLE, princesse Kamo, demi-sœur aînée de Noritoshi, née le 14 juin 1986, promo Kyoto 2005-2008 avec Naoya et Ranta), état <= avr 2005 : Hémotropie (dont le carquois), tissage (pièges dormants, Lucky 7, rideaux entremêlés, record du Dragon 1998), Chi no Meiyo, psychologie (vide d'enfance, masque, la vipère, dévotion-physiologie, règle d'amour, moteur de procuration), statut et relations (Nori, Noriaki, Fubuki, Yasashiku, jumeaux Zenin, Gakuganji, Utahime, Satoru, Shoko), sandbagging Grade 2 / 12 doigts réels ; trajectoire ère A SCINDÉE -> Yukiko_chrono_A.md ; entrées ère B provisoirement en fiche (refus de chaire + resto à quatre 2013, noces 2015, rideaux solo de la Parade 2017).
 - Yukiko_chrono_A.md (W2) - trajectoire datée de Yukiko, ère A (2005-2008) : entrées YA1 (démo Lucky 7 de Nori 1 avr 2005, rentrée, tombée des masques été 2005, Amicale + shogi sept 2005, rapport de Gakuganji automne 2005, couple avec Utahime nov 2005, conjointe princière 1 jan 2006, clôture mars 2006).
 - Noriaki_Fubuki.md (W2) - fiche noyau commune (OC, niveau fandom) : Noriaki, patriarche fantoche sans sort du sang, et Fubuki, épouse morte en 1992 (portrait de fantôme) - père et mère de Yukiko ; état au 1 avr 2005.
 - Yasashiku.md (W2) - fiche noyau (OC, niveau fandom) : concubine de Noriaki, mère de Noritoshi ; "Douceur" = nom de concubine, vrai nom inconnu ; ATTENTION MJ : l'essentiel est un savoir caché, en scène il n'existe que la douceur ; état au 1 avr 2005.
@@ -70,7 +70,7 @@ Description : fiches personnages du monde.
 - Panda.md (W5) - Panda, cadavre maudit mutant créé par Yaga et co-amalgamé avec Nisha (2011) ; trois noyaux (Panda/Gorille/Tricératops caché) ; "fils" de Yaga + Nisha ; étudiant à Tokyo dès 2017 (promo 2017-2020).
 - Yorozu.md (W3) - Yorozu, exorciste de Heian changée en objet maudit par Kenjaku, en dormance dans Tsumiki (2008-2015) ; 16 doigts ; tuée fin 2015 par Nisha (duel spirituel en territoire intérieur) ; fidèle de SUKUNA, aucun lien réel avec Eien.
 - Todo.md (W5) - Aoi Todo, élève de Nisha (2e année 2017-2018, promo Kyoto 2016-2019), Boogie Woogie ; 7 doigts.
-- Noritoshi_Kamo.md (W8) - Noritoshi Kamo, l'ÉLU, Prince Kamo, né le 5 juin 1997 [DIVERGENCE RP vs canon : 2000], bâtard de concubine (Yasashiku), demi-frère cadet de Yukiko ; règle des bâtards suspendue 1997-2001 ; majeur le 5 juin 2015, héritage différé à sa demande ; élève de Nisha (promo 2016-2019), Hémokinésie ; 5 doigts.
+- Noritoshi_Kamo.md (W9) - Noritoshi Kamo, l'ÉLU, Prince Kamo, né le 5 juin 1997 [DIVERGENCE RP vs canon : 2000], bâtard de concubine (Yasashiku), demi-frère cadet de Yukiko ; règle des bâtards suspendue 1997-2001 ; majeur le 5 juin 2017 (20 ans), héritage différé à sa demande ; élève de Nisha (promo 2016-2019), Hémokinésie ; 5 doigts.
 - Momo.md (W5) - Momo Nishimiya, élève de Nisha (promo 2016-2019), soutien aérien (balai) ; œil aérien décisif à la Nuit des Cent Fleaux ; 4 doigts.
 - Miwa.md (W5) - Kasumi Miwa, élève de Kyoto (promo 2017-2020 : 1re année Utahime, 2e année Nisha), sabre ; 3 doigts.
 - Mechamaru.md (W6) - Kokichi Muta (Ultimate Mechamaru), Restriction Céleste inverse, pilote son robot à distance ; promo Kyoto 2017-2020 ; lien de confiance singulier avec Nisha ; 6 doigts via robot.

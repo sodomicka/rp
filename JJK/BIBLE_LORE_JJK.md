@@ -30,7 +30,7 @@
   - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3), Yukiko/ (A0, A1) (8 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B) et _Chantier_Passe2_EresCD.md (document de travail), sources de build jamais fetchées en narration.
   - Resume.md - résumé autosuffisant de l'univers jusqu'à juin 2018, NON indexé au Sommaire, jamais fetché en narration (1 page)
   - _Implications.md - journal de conception, jamais fetché en narration (1 fichier de travail)
-- Total indexé au Sommaire (W43) : 90 pages.
+- Total indexé au Sommaire (W44) : 90 pages.
 
 ## SB1 Cosmogonie et règles du monde
 Périmètre : divergences fondatrices liées à Nisha et Yukiko + règles nécessaires + cosmogonie des trois esprits.
