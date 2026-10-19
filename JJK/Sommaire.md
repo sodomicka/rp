@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W39
+- version : W40
 
 ## WIKI
 
@@ -124,7 +124,7 @@ Description : itinéraires par arc de Nisha, dans l'ordre de la saga. La roadmap
 
 ### Roadmap/Yukiko/
 Description : itinéraires par arc de Yukiko, dans l'ordre de la saga.
-- Roadmap_A0.md (W3) - prologue, 1986-2005.
+- Roadmap_A0.md (W4) - Prologue (narré) : naissance de Yukiko 14 juin 1986 -> dernière nuit au palais 31 mars 2005 ; ~19 ans en vignettes.
 - Roadmap_A1.md (W1) - avr 2005 - mars 2006.
 
 > NON INDEXÉS. Les garde-caps (`Roadmap/Nisha/trame_B.md`, `Roadmap/Yukiko/trame_A_B.md`) et `Roadmap/_Chantier_Passe2_EresCD.md` (capture de session Passe 2 ; registre S8 appliqué au build B18, item 18 renvoyé aux roadmaps C/D) : sources de build, jamais fetchées en narration. `Resume.md` (racine JJK/) : résumé autosuffisant jusqu'à juin 2018, porte le futur de toute partie qui démarre en 2005, jamais fetché en narration. `_Implications.md` (racine JJK/) : journal de conception. `Parties/<Partie>/Memoires/` : archives narratives interdites en jeu (sauf ordre OOC explicite), consultées au BUILD seulement par listing direct du dossier. Indexer un dossier le fait paraître fetchable en narration.
