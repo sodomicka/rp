@@ -65,7 +65,7 @@ Fiche noyau + Trajectoire datée. Canon + RP. Faits canon non balisés ; couche 
 | hiver 2008 (A2_11) | Diplômé de Kyoto ; prend la TÊTE DU HEI (à la sortie de l'université). La doctrine secrète a désormais un relais dans le clan via lui, en miroir des postes d'enseignants de Nisha (Kyoto) et Satoru (Tokyo) | chef du Hei ; solo 12 -> 14 (adulte) ; bascule vers l'ère B |
 
 ## Notes de frontière (hors noyau)
-- Trajectoire datée post-départ, ère B (cultivation des jumelles, oncle adoptif, etc.) : scindée pour le poids -> cf. Personnages/Naoya_chrono_B.md (l'ère A reste ci-dessus dans cette fiche). Au-delà : rivalité Megumi/succession, mort et retour en fléau (canon) -> ère C.
+- Trajectoire datée post-départ, ère B (cultivation des jumelles, oncle adoptif, etc.) : scindée pour le poids -> cf. Personnages/Naoya_chrono_B.md (l'ère A reste ci-dessus dans cette fiche). Au-delà : rivalité Megumi/succession -> ère C.
 - Développement du territoire intérieur ; éventuelle fiche Naoya_adulte -> roadmap.
 - Détail narratif des beats A2 (fin du grief, doctrine secrète) -> Roadmap A2_5-A2_6 et A2_11.
 - Fiches Jinichi, Ogi : cf. Personnages/Jinichi.md, Ogi.md. Cf. aussi Cosmogonie/Trois_Esprits.md, Factions/Clan_Zenin.md, Personnages/Nisha.md.
