@@ -23,7 +23,7 @@ Déclenchement : le worldbuilder demande explicitement la génération du CODEX 
 Prérequis : setup terminé, BIBLE_LORE + WIKI existent, roadmap de départ à jour (conditions de sortie et verrous posés), étape de départ identifiée.
 
 Règles :
-- Fetch SPEC_CODEX obligatoire. **Vérifier d'abord le numéro de version courant** par le listing de `Config/` (§8) : un CODEX V1 buildé sur une SPEC périmée contamine toute la lignée. Dernier connu : `SPEC_CODEX_v8_9.md`.
+- Fetch SPEC_CODEX obligatoire. **Vérifier d'abord le numéro de version courant** par le listing de `Config/` (§8) : un CODEX V1 buildé sur une SPEC périmée contamine toute la lignée. Dernier connu : `SPEC_CODEX_v8_10.md`.
 - Identifier les pages WIKI pertinentes à l'état initial (protagoniste, PNJ en scène, lieu de départ, arc de départ). Fetch sélectif - ne pas charger le wiki complet.
 - ANNEXE_CHRONO > Arcs : pour l'arc de départ, renseigner le renvoi `roadmap:`, l'étape et le jalon de départ. C'est cette roadmap que le premier thread de jeu fetchera.
 - ANNEXE_SAVOIRS : y verser l'ironie dramatique notée au journal d'implications (section "À verser au CODEX V1"), puis solder la section.
