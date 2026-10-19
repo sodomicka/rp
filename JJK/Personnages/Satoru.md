@@ -12,7 +12,7 @@
 
 ## Physique
 - Grand, longiligne. Cheveux blancs, yeux bleu clair (les Six Yeux) - d'un bleu irreel, absurdement bleu et complexe depuis l'eveil de son sort a 4 ans ; d'un bleu ordinaire avant (regle des yeux, cf. Identite).
-- A l'epoque universite : porte un bandeau sur les yeux (canon) pour temperer le flux d'informations des Six Yeux. Apres l'eveil de 2006, passe aux bandages enroules (l'eveil intensifie l'afflux des Six Yeux ; cf. Trajectoire datee).
+- A l'epoque universite, avant l'eveil de 2006 : petites lunettes de soleil rondes (canon, arc Hidden Inventory), AUCUN bandeau. Apres l'eveil face a Toji (2006) : bandages enroules pour temperer l'afflux des Six Yeux, intensifie par l'eveil. A partir du 7 dec 2006 : bandeau, offert par Nisha (cf. ligne suivante et Trajectoire datee).
 - [DIVERGENCE RP] Le bandeau devient le cadeau d'anniversaire que Nisha lui offre chaque 7 decembre (tradition reciproque du collier ; cf. Trajectoire datee et SB7).
 
 ## Sorts
