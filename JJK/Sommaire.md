@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W36
+- version : W37
 
 ## WIKI
 
@@ -118,7 +118,7 @@ Enseignement personnalisé (une page par promotion à casting fiché ; un chanti
 Description : itinéraires par arc de Nisha, dans l'ordre de la saga. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).
 - Roadmap_A0.md (W8) - Prologue (narré) : naissance des jumeaux 30 jan 1987 -> seuil du conseil Zenin 31 mars 2005 ; ~18 ans en vignettes.
 - Roadmap_A1.md (W6) - Le Transfert : seuil du conseil Zenin 31 mars 2005 -> veille de la rentrée 2006 ; 1 an, six journées jouées.
-- Roadmap_A2.md (W6) - 2006-2008.
+- Roadmap_A2.md (W7) - L'éveil et la chute : rentrée de 2e année 1 avr 2006 -> diplôme hiver 2008 ; ~2 ans, journées jouées aux jalons.
 - Roadmap_B1.md (W2) - Fonder, 2008 -> mars 2013.
 - Roadmap_B2.md (W4) - Le trauma, 2013-2015.
 
