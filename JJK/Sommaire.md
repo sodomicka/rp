@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W41
+- version : W42
 
 ## WIKI
 
@@ -120,7 +120,8 @@ Description : itinéraires par arc de Nisha, dans l'ordre de la saga. La roadmap
 - Roadmap_A1.md (W6) - Le Transfert : seuil du conseil Zenin 31 mars 2005 -> veille de la rentrée 2006 ; 1 an, six journées jouées.
 - Roadmap_A2.md (W7) - L'éveil et la chute : rentrée de 2e année 1 avr 2006 -> diplôme hiver 2008 ; ~2 ans, journées jouées aux jalons.
 - Roadmap_B1.md (W3) - La Fondation : lendemain du diplôme, hiver 2008 -> resto à quatre, mars 2013 ; ~5 ans, une année par jalon.
-- Roadmap_B2.md (W5) - Le Trauma : rentrée sans élève, avr 2013 -> post-avortement, automne 2015 ; ~2 ans et demi, 2015 ramassé.
+- Roadmap_B2.md (W6) - Le Trauma : rentrée sans élève, avr 2013 -> post-avortement, automne 2015 ; ~2 ans et demi, 2015 ramassé.
+- Roadmap_B3.md (W1) - Guérison et autre trauma : Yorozu, fin 2015 -> veille de la 1re mission solo de Megumi, juin 2018 ; ~2 ans et demi, seuil de l'ère C.
 
 ### Roadmap/Yukiko/
 Description : itinéraires par arc de Yukiko, dans l'ordre de la saga.
