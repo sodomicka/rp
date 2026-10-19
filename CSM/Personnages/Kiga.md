@@ -1,85 +1,86 @@
 # Kiga
 
-- version : W4
+- version : W5
 
-Entite [CANON + DIVERGENCE RP] - reincarnation de la Cavaliere Famine. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie. Vie anterieure du concept : cf. Personnages/Famine.
+Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Famine. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie. Vie antérieure du concept : cf. Personnages/Famine.
 
-## Identite
+## Identité
 - Nom : Kiga. Sans patronyme - fille de la famille royale, comme Nayuta et Asa.
-- Origine du nom : elle le CHOISIT elle-meme, des qu'elle sait parler, et l'EXIGE. Nom d'Afrique de l'Est qui lui plait, et qui se trouve dire "famine" en japonais. Le trone cede. Nayuta desespere d'avance du manque de subtilite - elle a l'habitude de mieux.
-- Nature : Cavaliere. Incarnation nouvelle du concept de FAMINE (manque, besoin, addiction et dependance ; facette "manque" de la souffrance).
-- Statut : seconde fille adoptee du couple regnant, apres Asa. Destinee au quatuor reforme des Cavalieres (projet).
+- Origine du nom : elle le CHOISIT elle-même, dès qu'elle sait parler, et l'EXIGE. Nom d'Afrique de l'Est qui lui plaît, et qui se trouve dire "famine" en japonais. Le trône cède. Nayuta désespère d'avance du manque de subtilité - elle a l'habitude de mieux.
+- Nature : Cavalière. Incarnation nouvelle du concept de FAMINE (manque, besoin, addiction et dépendance ; facette "manque" de la souffrance).
+- Statut : seconde fille adoptée du couple régnant, après Asa. Destinée au quatuor réformé des Cavalières (projet).
 
-## Place dans la lignee
-- Le CONCEPT est une engeance directe d'Effroi, PREMIERE des Cavalieres des societes. Elle en est la suite, pas une copie.
-- TABLE RASE : aucun contrat, aucun canal, aucune allegeance heritee. Les contrats de Famine se sont eteints avec elle (regle generale, BIBLE SB1).
-- Tete de la lignee des MALADIES - le corps prive de sa sante - maladies vegetales comprises. Cette lignee reste fidele au concept par principe, fidelite qui tiendra tant que Kiga agira en Famine.
-- Les RAVAGEURS (Hanneton, Sauterelle, Cochenille) restent de la lignee du Predateur mais suivent l'ALLEGEANCE de Famine : ils lui reviennent par le meme principe, sans changer de lignee.
-- Eligible aux canaux tisses de Reseau (privilege de la famille Royale, vocation actee de s'etendre au quatuor reforme) - tissage non acquis a ce stade.
+## Place dans la lignée
+- Le CONCEPT est une engeance directe d'Effroi, PREMIÈRE des Cavalières des sociétés. Elle en est la suite, pas une copie.
+- TABLE RASE : aucun contrat, aucun canal, aucune allégeance héritée. Les contrats de Famine se sont éteints avec elle (règle générale, BIBLE SB1).
+- Tête de la lignée des MALADIES - le corps privé de sa santé - maladies végétales comprises. Cette lignée reste fidèle au concept par principe, fidélité qui tiendra tant que Kiga agira en Famine.
+- Les RAVAGEURS (Hanneton, Sauterelle, Cochenille) restent de la lignée du Prédateur mais suivent l'ALLÉGEANCE de Famine : ils lui reviennent par le même principe, sans changer de lignée.
+- Éligible aux canaux tissés de Réseau (privilège de la famille Royale, vocation actée de s'étendre au quatuor réformé) - tissage non acquis à ce stade.
 
 ## Naissance et localisation
-- REGLE ACTEE : le pays de naissance d'une reincarnation suit la PRESENCE de son concept a l'instant t.
-- Pays de naissance : la SOMALIE. Les inondations de 1997 ont ravage les recoltes du Juba et du Shabelle ; la crise alimentaire court sur toute l'annee 1998. Le concept y est chez lui.
-- Nee au printemps 1998, quelques semaines apres la mort de Famine a Tokyo (R7, etape 3) - meme delai que le precedent Guerre / Asa.
-- Localisee en avril 1998 (R7, etape 4) sur SIGNALEMENT DE FIEVRE, fidele engeance de Famine, terree dans un hopital de Mogadiscio pour se nourrir au plus pres de la peur de la fievre de la vallee du Rift : les medecins se plaignent de vertiges autour d'une chambre ou une jeune mere semble epuisee a outrance, comme videe.
-- ENLEVEE par Ange - volontaire pour la mission, son pouvoir resonnant avec celui de la petite, et Nayuta n'ayant plus besoin de gardien (Kishibe est le chien de garde de la dynastie). Il la prend pendant que la mere est placee en soins intensifs et que les infirmieres n'osent plus entrer dans la chambre, et la ramene en volant, avec plus de soin qu'il n'en a jamais mis a rien de ce qu'il a touche. La mere SURVIT au drain ; elle ne saura jamais rien.
-- MEMOIRE : AUCUNE. Pas de bribes, pas de reminiscences. Ce qu'elle sait de sa vie anterieure, on le lui a raconte - savoir transmis, jamais souvenir.
+- RÈGLE ACTÉE : le pays de naissance d'une réincarnation suit la PRÉSENCE de son concept à l'instant t.
+- Pays de naissance : la SOMALIE. Les inondations de 1997 ont ravagé les récoltes du Juba et du Shabelle ; la crise alimentaire court sur toute l'année 1998. Le concept y est chez lui.
+- Née au printemps 1998, quelques semaines après la mort de Famine à Tokyo (R7, étape 3) - même délai que le précédent Guerre / Asa.
+- Localisée en avril 1998 (R7, étape 4) sur SIGNALEMENT DE FIÈVRE, fidèle engeance de Famine, terrée dans un hôpital de Mogadiscio pour se nourrir au plus près de la peur de la fièvre de la vallée du Rift : les médecins se plaignent de vertiges autour d'une chambre où une jeune mère semble épuisée à outrance, comme vidée.
+- ENLEVÉE par Ange - volontaire pour la mission, son pouvoir résonnant avec celui de la petite, et Nayuta n'ayant plus besoin de gardien (Kishibe est le chien de garde de la dynastie). Il la prend pendant que la mère est placée en soins intensifs et que les infirmières n'osent plus entrer dans la chambre, et la ramène en volant, avec plus de soin qu'il n'en a jamais mis à rien de ce qu'il a touché. La mère SURVIT au drain ; elle ne saura jamais rien.
+- MÉMOIRE : AUCUNE. Pas de bribes, pas de réminiscences. Ce qu'elle sait de sa vie antérieure, on le lui a raconté - savoir transmis, jamais souvenir.
 
-## Conditions achetees par Famine
-Clauses obtenues par la Cavaliere lors de sa reddition, en echange du desamorcage de la crise alimentaire mondiale, et tenues par le trone :
-- Des parents toujours presents.
-- Grignotage et calins a volonte.
-- Zero jugement sur ses addictions.
-Famine a paye sa vie pour offrir a sa suivante exactement ce qu'on lui avait toujours refuse a elle. Kiga l'ignore aussi longtemps qu'on ne le lui raconte pas.
+## Conditions achetées par Famine
+Clauses obtenues par la Cavalière lors de sa reddition, en échange du désamorçage de la crise alimentaire mondiale, et tenues par le trône :
+- Des parents toujours présents.
+- Grignotage et câlins à volonté.
+- Zéro jugement sur ses addictions.
+Famine a payé sa vie pour offrir à sa suivante exactement ce qu'on lui avait toujours refusé à elle. Kiga l'ignore aussi longtemps qu'on ne le lui raconte pas.
 
 ## Apparence et croissance
-- Yeux VERTS cercles de jaune - la marque annelee des Cavalieres, aux couleurs de son concept.
-- Peau noire, traits est-africains. Cheveux bruns crepus, qu'elle rassemblera en nuee de tresses fines, d'allure dreadlocks.
+- Yeux VERTS cerclés de jaune - la marque annelée des Cavalières, aux couleurs de son concept.
+- Peau noire, traits est-africains. Cheveux bruns crépus, qu'elle rassemblera en nuée de tresses fines, d'allure dreadlocks.
 - MAIGRE, quoi qu'elle avale. Le manque est inscrit dans le corps : rien ne la remplit jamais, et rien ne se voit de tout ce qu'elle engloutit.
-- Croissance ACCELEREE, propre aux demons reincarnes : environ dix a douze ans d'aspect en une annee (taux commun avec Asa, nee environ trois mois avant elle - ecart negligeable).
-- Gel d'apparence a l'age adulte d'aspect, selon la regle commune aux demons humanoides : hors perimetre R7.
+- Croissance ACCÉLÉRÉE, propre aux démons réincarnés : environ dix à douze ans d'aspect en une année (taux commun avec Asa, née environ trois mois avant elle - écart négligeable).
+- Gel d'apparence à l'âge adulte d'aspect, à DEUX ANS (règle commune à la fratrie réincarnée) : printemps 2000.
 
 ## Pouvoirs
-- DRAIN VITAL NOURRICIER : elle siphonne la vitalite de ce qui l'entoure et s'en nourrit.
-- MONTEE EN ESCALIER. Au berceau, ce n'est pas une capacite mais un SIPHON INCONTROLE, qui tourne sans arret pour alimenter un nourrisson insatiable. Elle ne le dirige pas, ne le sent pas, ne peut pas l'arreter. La maitrise vient avec la croissance, par paliers.
-- Lignee des maladies a disposition, a mesure que le concept se reinstalle.
-- Aucun contrat a sa disposition : elle n'en tient aucun et n'en a pas l'usage a ce stade.
+- DRAIN VITAL NOURRICIER : elle siphonne la vitalité de ce qui l'entoure et s'en nourrit.
+- MONTÉE EN ESCALIER. Au berceau, ce n'est pas une capacité mais un SIPHON INCONTRÔLÉ, qui tourne sans arrêt pour alimenter un nourrisson insatiable. Elle ne le dirige pas, ne le sent pas, ne peut pas l'arrêter. La maîtrise vient avec la croissance, par paliers.
+- Lignée des maladies à disposition, à mesure que le concept se réinstalle.
+- Aucun contrat à sa disposition : elle n'en tient aucun et n'en a pas l'usage à ce stade.
 
 ## Psychologie et manies
-- Elevee en demone, jamais en enfant humaine - meme regime que Nayuta et Asa. On lui raconte qui elle FUT des qu'elle comprend les mots.
-- Besoin de manger EN PERMANENCE. Prend tres vite l'habitude de se deplacer avec un sac plein de nourriture, qu'elle partage volontiers avec ses soeurs. Makoto, Makima et Nayuta ont toujours quelque chose a manger sur eux pour elle - reflexe de maisonnee, jamais presente comme une corvee.
-- Accro aux calins autant qu'a la nourriture, et sans hierarchie entre les deux : ses parents, ses soeurs - et Ange - sont l'autre moitie de son appetit.
-- Cherit ses parents plus que tout.
-- TENSION AVEC ASA, permanente et sans gravite : Kiga engloutit tout sans que rien ne se voie, tandis qu'Asa s'entraine sans relache et voit le moindre grignotage marquer son corps de combattante.
+- Élevée en démone, jamais en enfant humaine - même régime que Nayuta et Asa. On lui raconte qui elle FUT dès qu'elle comprend les mots.
+- Besoin de manger EN PERMANENCE. Prend très vite l'habitude de se déplacer avec un sac plein de nourriture, qu'elle partage volontiers avec ses sœurs. Makoto, Makima et Nayuta ont toujours quelque chose à manger sur eux pour elle - réflexe de maisonnée, jamais présenté comme une corvée.
+- Accro aux câlins autant qu'à la nourriture, et sans hiérarchie entre les deux : ses parents, ses sœurs - et Ange - sont l'autre moitié de son appétit.
+- Chérit ses parents plus que tout.
+- TENSION AVEC ASA, permanente et sans gravité : Kiga engloutit tout sans que rien ne se voie, tandis qu'Asa s'entraîne sans relâche et voit le moindre grignotage marquer son corps de combattante.
 
 ## Relations de base
-- Effroi / Makoto - pere adoptif. Tient envers elle la promesse arrachee a son incarnation precedente.
-- Controle / Makima - mere adoptive.
-- Nayuta - grande soeur. Consternee par son gout des noms sans finesse, complice pour le reste.
-- Asa - soeur ainee de quelques mois, grandie au meme rythme. Binome de fratrie, chamailleries de corps et d'appetit.
-- Famine - son incarnation precedente. Aucune continuite vecue, seulement une continuite de concept - et un pacte paye pour elle.
-- Ange - son ravisseur et son premier porteur. Durant le vol du retour, elle tente par pur reflexe de le drainer ; il riposte avec le juste oppose de son propre pouvoir, et les deux drains se mettent en equilibre. Premier etre a avoir tenu son siphon en respect. Son GARDIEN, de fait, des ce vol (principe des gardiens des Cavalieres) : garde-fou conditionnel, Ange etant loyaliste du Royaume plus que du Roi. CO-DEPENDANCE : elle reclame des calins a tout age a ses parents, a ses soeurs ET a Ange ; aucun ne refuse, Ange moins que quiconque - elle est la seule sensibilite comme la sienne qu'il ne puisse pas drainer malgre lui (son drain ne touche que les humains). La dependance est le champ de son concept, et la condition achetee "zero jugement sur ses addictions" la couvre.
-- Denji, Reze, Aki - membres de la maisonnee et de la Division 4 ; aucun lien privilegie a ce stade.
+- Effroi / Makoto - père adoptif. Tient envers elle la promesse arrachée à son incarnation précédente.
+- Contrôle / Makima - mère adoptive.
+- Nayuta - grande sœur. Consternée par son goût des noms sans finesse, complice pour le reste.
+- Asa - sœur aînée de quelques mois, grandie au même rythme. Binôme de fratrie, chamailleries de corps et d'appétit.
+- Famine - son incarnation précédente. Aucune continuité vécue, seulement une continuité de concept - et un pacte payé pour elle.
+- Ange - son ravisseur et son premier porteur. Durant le vol du retour, elle tente par pur réflexe de le drainer ; il riposte avec le juste opposé de son propre pouvoir, et les deux drains se mettent en équilibre. Premier être à avoir tenu son siphon en respect. Son GARDIEN, de fait, dès ce vol (principe des gardiens des Cavalières) : garde-fou conditionnel, Ange étant loyaliste du Royaume plus que du Roi. CO-DÉPENDANCE : elle réclame des câlins à tout âge à ses parents, à ses sœurs ET à Ange ; aucun ne refuse, Ange moins que quiconque - elle est la seule sensibilité comme la sienne qu'il ne puisse pas drainer malgré lui (son drain ne touche que les humains). La dépendance est le champ de son concept, et la condition achetée "zéro jugement sur ses addictions" la couvre.
+- Denji, Reze, Aki - membres de la maisonnée et de la Division 4 ; aucun lien privilégié à ce stade.
 
-## Histoire (jusqu'au perimetre)
-- Le concept a une histoire ; l'entite n'en a pas encore. Tout ce qui precede sa naissance appartient a Famine (cf. Personnages/Famine).
-- Sa propre histoire commence au printemps 1998, en Somalie, dans une crise alimentaire que son incarnation precedente avait elle-meme amorcee puis desarmee.
+## Histoire (jusqu'au périmètre)
+- Le concept a une histoire ; l'entité n'en a pas encore. Tout ce qui précède sa naissance appartient à Famine (cf. Personnages/Famine).
+- Sa propre histoire commence au printemps 1998, en Somalie, dans une crise alimentaire que son incarnation précédente avait elle-même amorcée puis désarmée.
 
 ## Implications d'arc
-- R7 (La Famine) - ce que l'arc etablit d'elle des sa localisation :
-  - Le trone SAIT ou chercher : la regle de presence du concept oriente la recherche vers les zones de famine.
-  - Les conditions de sa vie sont deja negociees et acceptees AVANT sa naissance.
-  - Le precedent Asa (delai de quelques semaines entre mort et reincarnation) sert de calendrier de recherche.
+- R7 (La Famine) - ce que l'arc établit d'elle dès sa localisation :
+  - Le trône SAIT où chercher : la règle de présence du concept oriente la recherche vers les zones de famine.
+  - Les conditions de sa vie sont déjà négociées et acceptées AVANT sa naissance.
+  - Le précédent Asa (délai de quelques semaines entre mort et réincarnation) sert de calendrier de recherche.
 
-## Trajectoire datee
-(Alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : illimite - revu si trop lourd. Le canon par defaut vit ici ; si une partie diverge, le delta va en Parties/.)
+## Trajectoire datée
+(Alimentée À CHAUD, une entrée par arc roadmappé, jamais anticipée. Plafond d'entrées : illimité - revu si trop lourd. Le canon par défaut vit ici ; si une partie diverge, le delta va en Parties/.)
 
-| Date/ere | Evenement | Delta d'etat |
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| printemps 1998 (R7 - La Famine) | Naissance en Somalie, quelques semaines apres la mort de Famine | Le concept reprend corps ; table rase - aucun contrat, aucune memoire ; siphon vital incontrole des le berceau |
-| avril 1998 (R7 - La Famine) | LOCALISEE sur signalement de Fievre (Mogadiscio) ; ENLEVEE par Ange pendant que sa mere est en soins intensifs ; ramenee en vol au foyer familial, les deux drains en equilibre tout du long ; integree d'emblee, seconde fille adoptee | Passe de nourrisson anonyme a fille du trone ; les conditions achetees par Famine entrent en application ; Ange devient son gardien de fait ; sa famille de naissance ne saura jamais rien |
-| avril 1998 -> mars 1999 (R7 - La Famine) | Croissance acceleree ; education de demone ; choisit et impose son nom ; premiers paliers de maitrise du drain ; installation des habitudes (le sac de nourriture, les calins, la maisonnee qui s'y accorde) | Nom acte ; siphon partiellement maitrise ; place de cadette installee dans la fratrie |
-| fevrier-mars 1999 (R7 - La Famine) | LE CHOIX : elle pese ce qu'elle pourrait avoir ailleurs, et choisit de rester. Pas une habitude - une decision reflechie | La promesse faite a une morte est tenue ; l'arc se ferme sur son consentement |
+| printemps 1998 (R7 - La Famine) | Naissance en Somalie, quelques semaines après la mort de Famine | Le concept reprend corps ; table rase - aucun contrat, aucune mémoire ; siphon vital incontrôlé dès le berceau |
+| avril 1998 (R7 - La Famine) | LOCALISÉE sur signalement de Fièvre (Mogadiscio) ; ENLEVÉE par Ange pendant que sa mère est en soins intensifs ; ramenée en vol au foyer familial, les deux drains en équilibre tout du long ; intégrée d'emblée, seconde fille adoptée | Passe de nourrisson anonyme à fille du trône ; les conditions achetées par Famine entrent en application ; Ange devient son gardien de fait ; sa famille de naissance ne saura jamais rien |
+| avril 1998 -> mars 1999 (R7 - La Famine) | Croissance accélérée ; éducation de démone ; choisit et impose son nom ; premiers paliers de maîtrise du drain ; installation des habitudes (le sac de nourriture, les câlins, la maisonnée qui s'y accorde) | Nom acté ; siphon partiellement maîtrisé ; place de cadette installée dans la fratrie |
+| février-mars 1999 (R7 - La Famine) | LE CHOIX : elle pèse ce qu'elle pourrait avoir ailleurs, et choisit de rester. Pas une habitude - une décision réfléchie | La promesse faite à une morte est tenue ; l'arc se ferme sur son consentement |
+| fin juillet - fin août 1999 (R8 - La Mort) | Présente à la reddition de Mort ; une petite sœur qu'elle ne peut pas câliner tant que Yomi ne maîtrise pas son toucher | Fratrie de quatre ; le manque, pour une fois, sans remède |
 
 ---
 

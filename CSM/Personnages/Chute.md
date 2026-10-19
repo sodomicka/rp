@@ -1,59 +1,60 @@
 # Chute
 
-- version : W2
+- version : W3
 
-Entite [CANON + DIVERGENCE RP]. Fiche NEUTRE : decrit l'ENTITE telle qu'elle existe dans le monde, independamment d'une partie.
+Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie.
 
-## Identite
-- Nom : Chute (demon de la Chute).
-- Nature : Primordiale. Concept a double registre : la chute PHYSIQUE et la chute MENTALE - l'effondrement dans la depression. [CANON]
-- Puissance de tout premier rang parmi les demons ; elle laisse entendre que les peurs animales nourrissent aussi les demons. [CANON]
-- Statut : active, en Enfer depuis toujours. Vassale ambigue du trone d'Effroi.
+## Identité
+- Nom : Chute (démon de la Chute).
+- Nature : Primordiale. Concept à double registre : la chute PHYSIQUE et la chute MENTALE - l'effondrement dans la dépression. [CANON]
+- Puissance de tout premier rang parmi les démons ; elle laisse entendre que les peurs animales nourrissent aussi les démons. [CANON]
+- Statut : active, en Enfer depuis toujours. Vassale ambiguë du trône d'Effroi.
 
-## Place dans la lignee
-- Engeance directe de MORT : premiere des trois Primordiaux qui decoulent de la premiere engeance d'Effroi. Les Primordiaux sont des peurs DE la mort ; la chute est le moyen simple de mourir. [DIVERGENCE RP]
-- Ordre de naissance des Primordiaux : Mort -> Chute -> Tenebres -> Vieillesse. [DIVERGENCE RP]
-- Jamais morte, jamais reincarnee : memoire et identite continues depuis l'aube de l'humanite. [CANON]
-- Exception memorielle : comme les Primordiaux, les quatre Cavalieres et Effroi, elle se souvient des concepts effaces par Tronconneuse. [CANON + DIVERGENCE RP - extension actee au-dela des seules Cavalieres]
+## Place dans la lignée
+- Engeance directe de MORT : première des trois Primordiaux qui découlent de la première engeance d'Effroi. Les Primordiaux sont des peurs DE la mort ; la chute est le moyen simple de mourir. [DIVERGENCE RP]
+- Ordre de naissance des Primordiaux : Mort -> Chute -> Ténèbres -> Vieillesse. [DIVERGENCE RP]
+- Jamais morte, jamais réincarnée : mémoire et identité continues depuis l'aube de l'humanité. [CANON]
+- Exception mémorielle : comme les Primordiaux, les quatre Cavalières et Effroi, elle se souvient des concepts effacés par Tronçonneuse. [CANON + DIVERGENCE RP - extension actée au-delà des seules Cavalières]
 
 ## Apparence
-- Sa forme propre en Enfer n'est pas documentee. [INCERTAIN]
-- Sur Terre, elle s'assemble un avatar de cadavres humains meles - d'abord acephale, elle reclame poliment une tete a ses victimes. [CANON]
-- Forme aboutie : une cheffe cuisiniere feminine, tete desolidarisee du corps, bras multi-articules, ailes en faux. [CANON]
+- Sa forme propre en Enfer n'est pas documentée. [INCERTAIN]
+- Sur Terre, elle s'assemble un avatar de cadavres humains mêlés - d'abord acéphale, elle réclame poliment une tête à ses victimes. [CANON]
+- Forme aboutie : une cheffe cuisinière féminine, tête désolidarisée du corps, bras multi-articulés, ailes en faux. [CANON]
 
 ## Pouvoirs
-- Gravite et anti-gravite : sa seule presence peut deregler la gravitation a l'echelle planetaire ; elle precipite ses cibles vers le ciel ou les ecrase au sol. [CANON]
-- Mecanisme trauma-chute : elle fait revivre a ses victimes leurs traumas pour faire tomber le coeur - plus le coeur sombre, plus haut le corps chute. [CANON]
-- Precipitation en Enfer : fait choir des etres de la Terre a l'Enfer (capacite partagee avec Enfer et Vieillesse). [CANON]
-- Suggestion mentale de masse : impose pensees et injonctions a une foule. [CANON]
-- Invocation de demons depuis l'Enfer. [CANON]
-- Regeneration quasi instantanee, sans cout de sang apparent ; reputee intuable par tout moyen humain actuel. [CANON]
-- Capacites demoniaques standard : contrats contre un prix, regeneration par le sang. [CANON]
-- Ecarte du RP : le rayon d'energie inexplique du canon. [DIVERGENCE RP]
+- Gravité et anti-gravité : sa seule présence peut dérégler la gravitation à l'échelle planétaire ; elle précipite ses cibles vers le ciel ou les écrase au sol. [CANON]
+- Mécanisme trauma-chute : elle fait revivre à ses victimes leurs traumas pour faire tomber le cœur - plus le cœur sombre, plus haut le corps chute. [CANON]
+- Précipitation en Enfer : fait choir des êtres de la Terre à l'Enfer (capacité partagée avec Enfer et Vieillesse). [CANON]
+- Suggestion mentale de masse : impose pensées et injonctions à une foule. [CANON]
+- Invocation de démons depuis l'Enfer. [CANON]
+- Régénération quasi instantanée, sans coût de sang apparent ; réputée intuable par tout moyen humain actuel. [CANON]
+- Capacités démoniaques standard : contrats contre un prix, régénération par le sang. [CANON]
+- Écarté du RP : le rayon d'énergie inexpliqué du canon. [DIVERGENCE RP]
 
 ## Psychologie
-- Persona de cheffe : courtoisie theatrale, protocole de grande cuisine ("Je serai votre chef ce soir"). Evite l'effusion de sang inutile - en apparence. [CANON]
-- Sous le vernis : profondement sadique. Prefere pousser au desespoir et au suicide plutot que tuer de sa main ; ses "plats" se degustent en traumas revecus. [CANON]
-- Politiquement : alignee sur la facade loyale generique - reconnaissance de l'Origine, loyaute affichee au trone, convoitise latente. [DIVERGENCE RP]
+- Persona de cheffe : courtoisie théâtrale, protocole de grande cuisine ("Je serai votre chef ce soir"). Évite l'effusion de sang inutile - en apparence. [CANON]
+- Sous le vernis : profondément sadique. Préfère pousser au désespoir et au suicide plutôt que tuer de sa main ; ses "plats" se dégustent en traumas revécus. [CANON]
+- Politiquement : alignée sur la façade loyale générique - reconnaissance de l'Origine, loyauté affichée au trône, convoitise latente. [DIVERGENCE RP]
 
 ## Relations de base
-- Mort - le concept dont elle decoule directement. Chute sert pourtant le trone, pas Mort : elle sait qu'Effroi est l'Origine. Texture personnelle du lien : non detaillee [INCERTAIN].
-- Effroi / Makoto - suzerain reconnu (l'Origine). Vassalite ambigue : loyaute de facade, convoitise latente du trone.
-- Tenebres, Vieillesse - les autres engeances de Mort ; rivalite latente entre Primordiaux.
-- Enfer - demon-territoire ; partage avec lui (et Vieillesse) la capacite de precipiter des etres en Enfer.
+- Mort - le concept dont elle découle directement. Chute sert pourtant le trône, pas Mort : elle sait qu'Effroi est l'Origine. Texture personnelle du lien : non détaillée [INCERTAIN].
+- Effroi / Makoto - suzerain reconnu (l'Origine). Vassalité ambiguë : loyauté de façade, convoitise latente du trône.
+- Ténèbres, Vieillesse - les autres engeances de Mort ; rivalité latente entre Primordiaux.
+- Enfer - démon-territoire ; partage avec lui (et Vieillesse) la capacité de précipiter des êtres en Enfer.
 
-## Histoire (jusqu'au perimetre)
-- Prehistoire : nait de Mort, premiere de ses trois engeances - la peur du moyen simple de mourir.
-- N'a jamais connu ni la mort ni la reincarnation : la meme Chute depuis l'aube de l'humanite.
-- Reside en Enfer ; reconnait la souverainete d'Effroi en facade.
+## Histoire (jusqu'au périmètre)
+- Préhistoire : naît de Mort, première de ses trois engeances - la peur du moyen simple de mourir.
+- N'a jamais connu ni la mort ni la réincarnation : la même Chute depuis l'aube de l'humanité.
+- Réside en Enfer ; reconnaît la souveraineté d'Effroi en façade.
 
 ## Implications d'arc
-(Vide a la genese - strate alimentee en Passe 2, au fil des roadmaps.)
+(Vide à la genèse - strate alimentée en Passe 2, au fil des roadmaps.)
 
-## Trajectoire datee
-(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
+## Trajectoire datée
+(Vide à la genèse - alimentée À CHAUD, une entrée par arc roadmappé, jamais anticipée. Plafond d'entrées : [À FIXER PAR LE WORLDBUILDER].)
 
-| Date/ere | Evenement | Delta d'etat |
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
+| hiver 1997-1998 (R6 - La Guerre) | SAVOIR MJ : témoin, sans que le Roi la remarque, du désamorçage de Ténèbres dans son domaine ; retient l'humiliation de son cadet et se met à le surveiller | Elle le verra venir en R10, et le tuera elle-même |
 
 FIN_WIKI_PERSONNAGES_CHUTE
