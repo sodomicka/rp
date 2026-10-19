@@ -1,51 +1,100 @@
-# Roadmap_B1
+# Roadmap B1 - La Fondation
 
-- statut : a venir
-- version : W2
+- version : W3
+- statut : à venir ; JOUABLE
+- prota / POV : Nisha Zenin, plein cadre
+- échelle temporelle : ~5 ans (hiver 2008 -> mars 2013) ; départ dense (quelques semaines en 2008), puis une année par jalon, journées jouées aux temps forts, le reste en [SNAPSHOTS]
+- borne d'entrée : lendemain du diplôme, hiver 2008 ; le couple part proposer une tutelle à Megumi
+- borne de sortie : resto à quatre de mars 2013, Mei Mei recrutée -> Roadmap B2
+- roadmap précédente : cf. WIKI Roadmap/Nisha/Roadmap_A2.md
+- roadmap suivante : cf. WIKI Roadmap/Nisha/Roadmap_B2.md
 
-## Conditions de depart
-- Sortie d'A2 (cf. Roadmap_A2, conditions de cloture) : diplome de Nisha a Tokyo, hiver 2008.
-- Etat de Nisha au point de depart (hiver 2008) : n2 mondiale (18 doigts, apogee atteinte) ; Grade Special ; deux sorts (Chronostase innee + Chronokinesie d'Eien) ; domaine (Sphere du Temps Infini) ; collier-arsenal au cou (76 billes de tungstene) ; couple Nisha/Satoru soude ; Eien matee, faille APPROFONDIE par l'attachement (elle a failli mourir par amour en A2) - latente ; prof nommee a Kyoto (poste a prendre) ; instinct de protection/education amorce ; plan Megumi ebauche, vente conditionnelle ANNULEE.
-- Etat de Satoru : n1 mondial (23 doigts), eveille, prof nomme a Tokyo.
-- Etat de Naoya : tete du Hei (post-diplome Kyoto), 14 doigts (adulte).
-- Doctrine secrete "proteger les faibles, servir les forts" : armee dans chaque pole (Naoya au Hei, Nisha a Kyoto, Satoru a Tokyo), clandestine (raillee par le conseil en A2).
-- Trio diplome (Nisha, Satoru, Shoko) ; quatuor brise (Geto en exil, secte fondee) ; Megumi pas encore rencontre, Tsumiki inconnue.
-- Nature : arc CREUX / TRANCHE-DE-VIE - l'arc de la FONDATION du foyer et de la consolidation. Periode creuse de l'exorcisme (peu de menaces, monde au ralenti). Pas d'invariants dramatiques lourds facon A2 ; les jalons INTERNES sont fixes (adoption 2008, eveil de Megumi 2009, pivot 2011, recrutement 2013), mais aucun enjeu existentiel. Densite au DEPART (2008), puis quotidien savoure, un regain au pivot 2011. Le plus doux des arcs.
-- RESPIRATION (intention de jeu) : ici la respiration EST le sujet. Faire VIVRE le foyer de Saitama, les week-ends au domaine, les journees de cours, les soirees entre adultes. Les rares enjeux (eveil de Megumi, conseil) restent a echelle familiale ou clanique, jamais existentielle. Ne pas chercher le drame : chercher la chaleur, l'installation, les liens qui s'epaississent.
-- POV : Nisha, plein cadre.
+## Intention
+Arc CREUX, TRANCHE-DE-VIE : la fondation du foyer et la consolidation, le plus doux de la saga. Période creuse de l'exorcisme (peu de menaces, monde au ralenti). Aucun enjeu existentiel ; les jalons INTERNES sont fixes (adoption 2008, éveil de Megumi 2009, pivot 2011, recrutement 2013) et le joueur ponctue et savoure sans les déplacer. Densité au départ, quotidien ensuite, regain au pivot 2011.
+RESPIRATION : ici la respiration EST le sujet. Faire VIVRE le foyer de Saitama, les week-ends au domaine, les journées de cours, les soirées entre adultes. Les rares enjeux (éveil de Megumi, conseil) restent à échelle familiale ou clanique. Ne pas chercher le drame : chercher la chaleur, l'installation, les liens qui s'épaississent.
 
-## Etapes
-| # | Etape | Lieu | PNJ impliques | Tchekhov lies | Duree | Condition d'avancement |
-|---|---|---|---|---|---|---|
-| B1_1 | La fondation (2008). Le couple Nisha/Satoru, frais diplome et installe dans ses postes, va proposer une TUTELLE a Megumi (fils de Toji, vente conditionnelle deja annulee en A2). Ils tombent sur un appartement d'adultes ou Tsumiki (11 ans, profane) eleve seule son petit frere. Au depart, Tsumiki n'est qu'un LEVIER emotionnel pour amadouer un Megumi renferme ; tres vite, fille a part entiere. ADOPTION des deux, hors-Zenin. Achat dans la foulee de la MAISON DE SAITAMA (deux chambres d'amis, "sait-on jamais"). Premiers temps du foyer : deux surpuissants qui apprennent a etre parents de trois gosses - Megumi mefiant, Tsumiki qui materne, Satoru le clown qui decoince. En sourdine, Eien JUBILE : elle reconnait sur Tsumiki la marque de son amant Kenjaku (piece placee a dessein) ; Nisha ignore pourquoi. | Appartement (ville) ; maison de Saitama ; postes Kyoto/Tokyo (toile de fond) | Nisha, Satoru, Megumi, Tsumiki, Eien (interne) | T-Tsumiki PLANTE (Eien jubile, marque de Kenjaku - ne detone pas) ; cas Megumi -> adoption effective (graine de succession s'arme cote Naoya/Hei) | hiver -> printemps 2008 (qq semaines, DENSE) | Le foyer installe -> l'entree en routine (2009) |
-| B1_2 | Profs de nom et premiers pas (2009). Annee de l'installation. Nisha prend son poste a Kyoto (2e annee ; 5 min de course du domaine), Satoru a Tokyo : profs de NOM, classes quasi vides (periode creuse). PREMIER VRAI WEEK-END AU DOMAINE avec les gosses : Tsumiki (le beat des lunettes) et Megumi decouvrent l'univers Zenin ; Nisha s'attache SINCEREMENT a Tsumiki (profane) et ne tolere AUCUN mepris Zenin envers elle. A Saitama, Megumi sort ses PREMIERS SHIKIGAMI : Nisha et Satoru decouvrent l'eveil de son sort inne (Dix Ombres). Consequence clanique : Megumi est CONVOQUE devant le conseil Zenin (Naobito, Ogi, Jinichi) - la graine de succession passe du latent au concret (un porteur des Dix Ombres hors-clan). Nisha l'entraine "puissant qui protege", hors-moule-Zenin. | universite de Kyoto ; domaine Zenin ; maison de Saitama ; conseil Zenin | Nisha, Satoru, Megumi, Tsumiki, Maki, Mai, Naoya, Naobito/Ogi/Jinichi (conseil) | Eveil du sort de Megumi -> graine de succession ARMEE (-> ere C, testament Naobito) ; beat des lunettes de Tsumiki | 2009 (l'annee) | Routine de foyer installee -> l'annee famille (2010) |
-| B1_3 | Annee famille (2010). L'annee la plus douce : quotidien de Saitama, scolarite des gosses, exorcisme au point mort. TSUMIKI lance l'Okaruto Shinbun (son blog occulte) et montre fierement son PREMIER ARTICLE a Nisha et Satoru. Place ideale pour une SOIREE SHOKO (tete-a-tete ou a trois avec Satoru, nostalgie). Tranche-de-vie pur, zero enjeu. | Maison de Saitama ; (bar/ville pour la soiree Shoko) | Nisha, Satoru, Tsumiki, Megumi, Shoko | T-Okaruto PLANTE (premier article de Tsumiki - ne detone pas) | 2010 (l'annee) | L'approche du pivot 2011 |
-| B1_4 | Le pivot (2011). Le regain de densite au milieu du creux : trois fils convergent. (1) PIVOT JUMELLES : la cultivation porte ses fruits - Naoya les prend en 2c1 hors des cours (pedagogie BOURRUE) pour leur APPRENDRE LA SYMBIOSE, Nisha recadre en douceur un week-end sur deux ; elles partent de tres loin face aux jumeaux nes en symbiose parfaite, mais finissent par assez maitriser le pool partage pour que le partage gemellaire bascule a 40/60 en faveur de Mai (debride les DEUX : Maki lache le lest inexploitable, Mai capte plus ; chiffres cf. fiches Maki/Mai). Les jumeaux passent de l'interet au RESPECT et s'attachent. (2) PANDA : Yaga appelle Nisha - il saurait amalgamer les trois noyaux seul, mais demande le LUXE du temps : dans la Sphere du Temps Infini de Nisha, ils figent les noyaux a la Chronostase (des heures subjectives en 1/24e de seconde reel). Panda nait, FILS DE YAGA + NISHA - il la tient pour sa mere (le noyau Triceratops ne se montre qu'a eux deux) ; deployer le domaine VIDE colossalement Nisha (investissement consenti). (3) Akari NITTA entre a Kyoto (promo 2011-2014, 1re annee chez Utahime). | Domaine Zenin (2c1 jumelles) ; atelier de Yaga + Sphere du Temps Infini (Panda) ; universite de Kyoto (Nitta) | Nisha, Naoya, Maki, Mai, Yaga, Panda, Nitta, Utahime | T-Ames PLANTE (savoir dangereux du transfert/amalgame d'ames, partage Yaga/Nisha pour Panda - ne detone pas) ; pivot jumelles 40/60 (declencheur : 2c1 de Naoya + suivi de Nisha) | 2011 (l'annee) | L'arrivee de Nitta en 2e annee (2012) |
-| B1_5 | La pedagogue (2012). Nisha a enfin une VRAIE journee de cours. Akari Nitta devient son ELEVE (sa 2e annee, 2012-2013) - premiere vraie eleve, un don deja degrossi par sa pedagogie de mere, au potentiel interessant. Comme Nisha a desormais des journees de cours pleines, ancre du RESTO DE MIDI Nisha/Naoya (les jumeaux dejeunent ensemble un jour de cours - dyade centrale, a PARITE avec Satoru ; impossible avant, faute d'eleves). JOURNEE PRIVILEGIEE Nisha/Nitta : Nisha l'invite au domaine et la PROTEGE comme si elle etait sa fille ; le soir, elles filent a Tokyo (Nisha les DEPLACE A MACH 4) voir des COURSES DE RUE (raccord avec le passe custom cars de Nitta). Jumelles consolidees en toile de fond. | universite de Kyoto ; domaine Zenin ; Tokyo (courses de rue) | Nisha, Nitta, Naoya, Maki, Mai | -- (consolidation ; aucun Tchekhov neuf) | 2012 -> debut 2013 | L'approche du resto de cloture (mars 2013) |
-| B1_6 | Cloture : le resto (mars 2013). Nisha et Utahime invitent Mei Mei (freelance mercenaire) : a deux, elles la CONVAINQUENT de prendre la 3e annee a Kyoto (perfectionnement, dernier maillon du cycle) - elle deviendra la prof de Nitta en 2013-2014. Mei Mei accepte. Son petit frere Ui Ui (7 ans), colle a elle, ECOUTE en silence les trois plus grandes exorcistes de Kyoto parler argent et pedagogie. Le cycle a trois maillons (Utahime 1e, Nisha 2e, Mei Mei 3e) est complet. Seuil de l'ere B2. | Restaurant (Kyoto) | Nisha, Utahime, Mei Mei, Ui Ui | -- (recrutement ; cycle complet) | mars 2013 (un dejeuner) | Fin de B1 -> ere B2 |
+## Itinéraire (jalons)
+1. B1_1 - La fondation [quelques semaines, hiver -> printemps 2008 ; DENSE]. Appartement en ville, puis maison de Saitama ; postes de Kyoto et Tokyo en toile de fond. Le couple, frais diplômé, va proposer une TUTELLE à Megumi (fils de Toji, vente déjà annulée en A2). Ils tombent sur un appartement d'adultes où Tsumiki (11 ans, profane) élève seule son petit frère. Pour Nisha, au départ, Tsumiki n'est qu'un LEVIER émotionnel pour amadouer un Megumi renfermé ; très vite, fille à part entière. Satoru, plus humain qu'elle malgré son ascension, ne la voit jamais comme un levier : un Gojo qui rejette la doctrine des clans, face à une Zenin qui s'assume. ADOPTION des deux, hors-Zenin. Achat dans la foulée de la MAISON DE SAITAMA (deux chambres d'amis, "sait-on jamais"). Premiers temps du foyer : deux surpuissants qui apprennent à être parents de deux gosses - Megumi méfiant, Tsumiki qui materne, Satoru le clown qui décoince. En sourdine, Eien JUBILE : elle reconnaît sur Tsumiki la marque de son amant Kenjaku (pièce placée à dessein) ; Nisha ignore pourquoi. À planter : T-Tsumiki (ne détone pas) ; adoption effective, graine de succession qui s'arme côté Naoya/Hei. Clôt sur : le foyer installé, l'entrée en routine.
+2. B1_2 - Profs de nom et premiers pas [l'année 2009]. Université de Kyoto, domaine Zenin, maison de Saitama, chambre du conseil. Nisha prend son poste à Kyoto (2e année ; 5 min de course du domaine), Satoru à Tokyo : profs de NOM, classes quasi vides. Dès sa prise de poste, Nisha institue le RITUEL DES DÉTENTEURS (cf. Personnages/Nisha_chrono_B.md). PREMIER VRAI WEEK-END AU DOMAINE avec les gosses : Tsumiki reçoit de Maki ses lunettes maudites et voit l'occulte ; Megumi découvre l'univers Zenin ; Nisha s'attache SINCÈREMENT à Tsumiki et ne tolère AUCUN mépris Zenin envers la profane. À Saitama, Megumi sort ses PREMIERS SHIKIGAMI : éveil des Dix Ombres. Conséquence clanique : Megumi est CONVOQUÉ devant le conseil (Naobito, Ogi, Jinichi) ; la graine de succession passe du latent au concret, un porteur des Dix Ombres hors-clan. Megumi obtient l'accès aux archives du clan (par Nisha), de droit, par son sort et ce qu'il représente (cf. Factions/Clan_Zenin.md) ; ironie : Nisha, elle, a dû MÉRITER ce droit à l'info, dans un clan qui récompense mais n'offre pas. Nisha l'entraîne "puissant qui protège", hors-moule-Zenin ; Tsumiki l'encourage et se lie à ses familiers. À planter : graine de succession ARMÉE (-> ère C, testament de Naobito). Clôt sur : la routine de foyer installée.
+3. B1_3 - Année famille [l'année 2010]. Maison de Saitama ; un bar ou la ville pour la soirée Shoko. L'année la plus douce : quotidien de Saitama, scolarité des gosses, exorcisme au point mort. TSUMIKI (13 ans) lance l'Okaruto Shinbun, blog d'horreur mystique qui romance les missions de ses parents, et montre fièrement son PREMIER ARTICLE à Nisha et Satoru. Place idéale pour une SOIRÉE SHOKO (tête-à-tête ou à trois avec Satoru, nostalgie). Tranche-de-vie pure, zéro enjeu. À planter : T-Okaruto (ne détone pas). Clôt sur : l'approche du pivot 2011.
+4. B1_4 - Le pivot [l'année 2011]. Domaine Zenin ; atelier de Yaga et Sphère du Temps Infini ; université de Kyoto. Regain de densité, trois fils convergent.
+   - PIVOT JUMELLES : la cultivation porte ses fruits. Naoya les prend en 2c1 hors des cours (pédagogie BOURRUE) pour leur APPRENDRE LA SYMBIOSE, Nisha recadre en douceur un week-end sur deux. Elles partent de très loin face aux jumeaux nés en symbiose parfaite, mais maîtrisent assez le pool partagé pour que le partage gémellaire bascule à 40/60 en faveur de Mai (débride les DEUX ; chiffres : cf. Personnages/Maki.md, Mai.md). Les jumeaux passent de l'intérêt au RESPECT et s'attachent.
+   - PANDA : Yaga appelle Nisha. Il saurait amalgamer les trois noyaux seul, mais veut le LUXE du temps : dans la Sphère, ils figent les noyaux à la Chronostase (des heures subjectives en 1/24e de seconde réel). Panda naît, FILS DE YAGA ET DE NISHA, qu'il tient pour sa mère (le noyau Triceratops ne se montre qu'à eux deux) ; déployer le domaine VIDE colossalement Nisha (investissement consenti).
+   - Akari NITTA entre à Kyoto (promo 2011-2014, 1re année chez Utahime).
+   À planter : T-Âmes, savoir dangereux de l'amalgame d'âmes partagé Yaga/Nisha (ne détone pas). Clôt sur : l'arrivée de Nitta en 2e année.
+5. B1_5 - La pédagogue [2012 -> début 2013]. Université de Kyoto ; domaine Zenin ; Tokyo. Nisha a enfin de VRAIES journées de cours : Nitta devient son ÉLÈVE (2e année, 2012-2013), première vraie élève, un don déjà dégrossi par sa pédagogie de mère ; chantier perso, la patience de liaison, et la DOCTRINE transmise hors programme (cf. Personnages/Nitta.md, Pedagogie/Perso_Kyoto_2011-2014.md). Ancre du RESTO DE MIDI Nisha/Naoya : les jumeaux déjeunent ensemble un jour de cours, impossible avant faute d'élèves. JOURNÉE PRIVILÉGIÉE Nisha/Nitta : Nisha l'invite au domaine et la PROTÈGE comme sa fille ; le soir, elles filent à Tokyo (Nisha les DÉPLACE À MACH 4) voir des COURSES DE RUE (raccord avec le passé custom cars de Nitta). Tsumiki obtient à son tour l'accès aux archives, l'Okaruto ayant gagné sa légitimité journalistique ; le conseil garde un droit de regard sur les articles qui romancent le clan, puisqu'ils puisent dans ce qu'eux seuls savent. Jumelles consolidées en toile de fond. Aucun Tchekhov neuf. Clôt sur : l'approche du resto de clôture.
+6. B1_6 - Clôture : le resto à quatre [un déjeuner, mars 2013]. Restaurant de Kyoto. Utahime, Nisha, Yukiko et Mei Mei (freelance mercenaire) ; Ui Ui (7 ans) et Noritoshi (15 ans) en accompagnants. L'idée Mei Mei émerge de la discussion à trois : Yukiko, kyotoïte, la connaît mieux que Nisha mais n'a pour argument que la promo de son frère. Gakuganji avait d'abord offert la chaire de 3e année à Yukiko, qui n'en voulait que pour l'année de Nori (2018-2019) ; Nisha a ricané, pas de favoritisme pareil. Utahime et Nisha CONVAINQUENT Mei Mei de prendre la 3e année ; elle sera la prof de Nitta en 2013-2014. Ui Ui, collé à sa sœur, ÉCOUTE en silence les trois plus grandes exorcistes de Kyoto et la princesse Kamo parler argent et pédagogie. Le cycle à trois maillons (Utahime 1re, Nisha 2e, Mei Mei 3e) est complet. Clôt sur : fin de B1 -> ère B2.
 
-Fils transversaux (a faire SENTIR entre les jalons, jamais figer en photo) :
-- Routine a deux universites + WEEK-ENDS AU DOMAINE (un sur deux) : retrouvailles des jumeaux, theatre de l'EVOLUTION des jumelles. En B1, on les voit ENSEMBLE (le "Mai seule" est POSTERIEUR a B1 - apres le depart de Maki a Saitama -> B2/B3, ne PAS jouer ici). Un week-end-cle en 2009 reunit Tsumiki (lunettes) et Megumi au domaine.
-- DYADE NISHA/NAOYA, centrale a PARITE avec Satoru : le lien gemellaire reste le socle (resto de midi en 2012, week-ends, complicite). Naoya n'est jamais un second couteau.
-- VIE DE FAMILLE a Saitama : quotidien des trois gosses, Nisha + Satoru en parents (lui le clown, elle la rigueur tendre), montee scolaire et occulte des enfants.
-- SOIREES SHOKO (meilleure amie, lien d'A2 intact) : tete-a-tete alcool fort + clopes, ou a trois avec Satoru (nostalgie du bon vieux temps).
-- Periode creuse de l'exorcisme en toile de fond : peu de menaces, monde au ralenti - ce qui laisse toute la place a la vie.
-- EIEN qui engrange en silence (aucune scene active hors la jubilation 2008) : elle lit l'attachement croissant de Nisha (faille latente, non exploitable) ; paiera en 2015+.
+Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
+- Week-ends au domaine (un sur deux) : retrouvailles des jumeaux, théâtre de l'ÉVOLUTION des jumelles, qu'on voit ENSEMBLE en B1.
+- DYADE NISHA/NAOYA, centrale à PARITÉ avec Satoru : le lien gémellaire reste le socle (resto de midi dès 2012, week-ends, complicité). Naoya n'est jamais un second couteau.
+- Vie de famille à Saitama : le quotidien des gosses, Nisha et Satoru en parents (lui le clown, elle la rigueur tendre), montée scolaire et occulte des enfants.
+- Soirées Shoko (meilleure amie, lien d'A2 intact) : tête-à-tête alcool fort et clopes, ou à trois avec Satoru, nostalgie du bon vieux temps.
+- Période creuse de l'exorcisme en toile de fond, qui laisse toute la place à la vie.
+- Eien engrange en silence (aucune scène active hors la jubilation de 2008) : elle lit l'attachement croissant de Nisha, faille latente, non exploitable.
+- Zones créables : missions légères et rares de Nisha (Kyoto) et de Naoya (Hei), prétextes à tranche-de-vie ; journées de cours à Kyoto (Nitta dès 2012) ; scènes de Saitama (repas, devoirs, disputes d'enfants, Satoru insupportable de bons mots) ; cultivation des jumelles au fil (elles ont 9 à 14 ans sur B1) ; soirées adultes.
 
-Zones creables (a remplir en narration, hors roadmap) :
-- Missions encadrees LEGERES de Nisha (Kyoto) et de Naoya (Hei) - rares (periode creuse), surtout pretextes a tranche-de-vie.
-- Journees de cours a Kyoto (Nitta des 2012 ; Ui Ui assis SUR une table au fond a partir de mars 2013, hors B1 pour l'essentiel).
-- Scenes de Saitama (repas, devoirs, disputes d'enfants, Satoru insupportable de bons mots) et de domaine (week-ends).
-- Cultivation des jumelles au fil (2c1 de Naoya, recadrage de Nisha) - elles ont 9 a 14 ans sur B1.
-- Soirees adultes (Shoko, parfois Satoru).
+## Casting convoqué
+- Nisha Zenin - cf. Personnages/Nisha.md, Nisha_chrono_B.md, Nisha_relations_proches.md, Nisha_relations_famille.md, Nisha_relations_boulot.md
+- Satoru Gojo - le père clown - cf. Personnages/Satoru.md
+- Megumi - adopté, éveil des Dix Ombres - cf. Personnages/Megumi.md
+- Tsumiki - adoptée, lunettes, Okaruto - cf. Personnages/Tsumiki.md
+- Naoya Zenin - tête du Hei, 2c1 des jumelles, resto de midi - cf. Personnages/Naoya.md
+- Maki, Mai Zenin - pivot 40/60 - cf. Personnages/Maki.md, Mai.md
+- Naobito, Ogi, Jinichi - le conseil qui convoque Megumi - cf. Personnages/Naobito.md, Ogi.md, Jinichi.md
+- Shoko Ieiri - soirées - cf. Personnages/Shoko.md
+- Yaga, Panda - naissance de Panda - cf. Personnages/Yaga.md, Panda.md
+- Akari Nitta - 1re vraie élève - cf. Personnages/Nitta.md
+- Utahime Iori - collègue de 1re année, resto - cf. Personnages/Utahime.md
+- Mei Mei, Ui Ui - recrutement - cf. Personnages/Mei_Mei.md
+- Yukiko Kamo, Noritoshi Kamo - resto - cf. Personnages/Yukiko.md, Noritoshi_Kamo.md
+- Gakuganji - principal de Kyoto, la chaire offerte - cf. Personnages/Gakuganji.md
+- Eien - jubilation de 2008, puis silence - cf. Personnages/Eien.md
+
+## Lieux et objets
+- Maison de Saitama - le foyer, deux chambres d'amis - cf. Personnages/Nisha_chrono_B.md
+- Juei no Ryochi - week-ends, conseil - cf. Lieux/Juei_no_Ryochi.md
+- Université de Kyoto - le poste de Nisha - cf. Factions/Universite_Kyoto.md ; pédagogie : cf. Pedagogie/Perso_Kyoto_2011-2014.md
+- Archives du clan Zenin - accès de Megumi (2009) puis de Tsumiki (2012) - cf. Factions/Clan_Zenin.md
+- Lunettes maudites de Tsumiki - don de Maki, 2009 - cf. Personnages/Tsumiki.md
+- Collier de tungstène - cf. Personnages/Nisha.md
+
+## Conditions de sortie
+### Requis
+- Megumi et Tsumiki adoptés, foyer de Saitama fondé.
+- Sort de Megumi éveillé, convocation au conseil passée.
+- Pivot des jumelles à 40/60.
+- Panda né dans la Sphère de Nisha.
+- Nitta formée en 2e année ; Mei Mei recrutée, cycle de Kyoto complet.
+### Interdits
+- Nisha perce la jubilation d'Eien ou la marque sur Tsumiki - casserait la bascule de 2015 (B2) et T-Tsumiki.
+- Yorozu s'éveille, ou Tsumiki est délivrée de la marque - T-Tsumiki se résout fin 2015.
+- Megumi passe sous la coupe du clan - il est élevé hors-Zenin ; la succession se joue à l'ère C.
+- Maki quitte le clan pour Saitama, ou la période "Mai seule" est jouée - c'est 2014 (B2).
+- Nisha et Satoru se marient - les noces sont en 2015 (B2).
+- Le savoir de l'amalgame d'âmes sort du duo Yaga/Nisha - T-Âmes détone à l'ère C.
+- Geto est traqué ou retrouvé - il meurt de la main de Satoru début 2018.
+- La doctrine devient publique dans le clan - clandestine sur toute l'ère B.
+
+## Verrous
+- Jalon 1 (B1_1) : le couple renonce à l'adoption, ou n'adopte que Megumi. Paliers :
+  1. Megumi refuse de partir sans Tsumiki ; Satoru, qui n'a jamais vu en elle un levier, refuse de séparer la fratrie.
+  2. Rappel hors fiction : l'adoption des deux est un invariant de la saga.
+  3. Avertissement du MJ : la suite n'est pas scénarisée et mène à l'avortement du RP.
+  4. Entêtement maintenu : le MJ déclare la fin du RP et ne narre plus dans ce thread ; rejouer = nouveau thread, CODEX d'entrée réutilisé sans modification.
+- Jalon 2 (B1_2) : Nisha laisse le conseil garder Megumi. Paliers :
+  1. Satoru refuse, et l'annulation de la vente obtenue en A2 tient : le gamin est à eux.
+  2. à 4. Rappel hors fiction (invariant), avertissement, fin du RP, comme au jalon 1.
+- Jalon 4 (B1_4) : Nisha refuse son domaine à Yaga. Paliers :
+  1. Yaga insiste : c'est son Magnum Opus, et elle est sa prodige du temps.
+  2. à 4. Rappel hors fiction (Panda est un invariant), avertissement, fin du RP, comme au jalon 1.
 
 ## Bifurcations
-- Aucune. REGLE GLOBALE DU RP : la roadmap ne se scinde en aucun embranchement. Arc creux sans invariants existentiels, mais les jalons internes (adoption 2008, eveil de Megumi 2009, pivot 2011, recrutement 2013) sont fixes ; le joueur ponctue et savoure le quotidien, sans deplacer les jalons.
+- Aucune. Règle globale du RP (jusqu'à contre-ordre du worldbuilder) : aucune roadmap ne se scinde en embranchement.
 
-## Conditions de cloture
-- Fin de B1 : mars 2013, resto de recrutement de Mei Mei.
-- Etat de sortie (seuil B2) : foyer de Saitama fonde et rode (Megumi - sort eveille, en formation hors-Zenin ; Tsumiki - bloggeuse epanouie ; Panda - cree 2011, reconnait Nisha pour mere) ; cycle d'enseignement de Kyoto complet (Utahime 1e, Nisha 2e, Mei Mei 3e) ; Nitta, 1re vraie eleve de Nisha ; jumelles au 1er palier de symbiose (partage 40/60), sous protectorat des jumeaux ; Naoya tete du Hei, graine de succession Megumi ARMEE ; doctrine relayee dans chaque pole ; les TROIS Tchekhov de B1 plantes-non-detones (T-Tsumiki 2008, T-Okaruto 2010, T-Ames 2011) ; faille d'Eien toujours latente, attachement de Nisha au plus haut.
-- Ouvre l'ERE B2 (le trauma) : detail -> a construire en Roadmap_B2.
+## Notes de frontière
+- État de sortie (mars 2013) : foyer de Saitama rodé (Megumi, sort éveillé, formé hors-Zenin ; Tsumiki, blogueuse épanouie ; Panda, né en 2011, reconnaît Nisha pour mère) ; cycle de Kyoto complet ; Nitta, 1re vraie élève de Nisha ; jumelles au 1er palier de symbiose (40/60), sous protectorat, encore ensemble au clan ; Naoya tête du Hei, graine de succession Megumi ARMÉE ; doctrine relayée dans chaque pôle ; T-Tsumiki, T-Okaruto et T-Âmes plantés, non détonés ; faille d'Eien latente, attachement de Nisha au plus haut.
+- Ère B2 (le trauma) : dernier calme, départ de Maki pour Saitama (2014), noces et bascule d'Eien (2015).
 
 ---
-FIN_WIKI_ROADMAP_B1
+FIN_WIKI_ROADMAP_NISHA_B1
