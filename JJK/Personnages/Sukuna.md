@@ -1,6 +1,6 @@
 # Sukuna
 
-- version : W2
+- version : W3
 
 Canon + [DIVERGENCE RP] (origine Masakado x Michizane, jumeau devore, 200 pourcent, pacte, receptacles). Roi des Fleaux, sommet absolu de l'echelle (20 doigts = 100 pourcent, reference du Power_Scaling). Fiche noyau + Trajectoire datee eres C-D, integree des la genese depuis le chantier Passe 2 (fiche neuve : nait complete, sans prejuger de l'application en bloc du registre S8 aux fichiers existants).
 
@@ -48,7 +48,7 @@ Canon + [DIVERGENCE RP] (origine Masakado x Michizane, jumeau devore, 200 pource
 
 ## Relations
 - Le jumeau - devore in utero, jamais ne, jamais nomme ; son ame, reincarnee en Jin Itadori, est le socle du receptacle. Ce que Sukuna en pense : [OUVERT].
-- Uraume - suivant(e) de l'ere Heian, seule loyaute connue ; detient TOUS les doigts originaux restants a l'ere D (cf. Trajectoire). Fiche a creer (registre S8 du chantier).
+- Uraume - suivant de l'ere Heian, seule loyaute connue ; detient TOUS les doigts originaux restants a l'ere D (cf. Trajectoire). Cf. Personnages/Uraume.md.
 - Le couple architecte (Eien + Kenjaku) - partenaires de pacte, rien de plus : des fournisseurs de divertissement. A l'autel (2018), il corrige Eien comme on chasse une mouche.
 - Yorozu - obsession amoureuse A SENS UNIQUE de Yorozu envers lui, depuis Heian ; il s'en moque. "Sa fidele" n'est fidele qu'a ses propres yeux (cf. Personnages/Yorozu.md ; T-Yorozu).
 - Yuji Itadori - receptacle (juin 2018 ->), fils de la reincarnation du jumeau (neveu d'ame de Sukuna), co-signataire du serment Enchain.
@@ -61,7 +61,7 @@ Canon + [DIVERGENCE RP] (origine Masakado x Michizane, jumeau devore, 200 pource
 | juin 2018 (C1_1) | Yuji avale un premier doigt (mission solo de Megumi, fac de Sendai) : réveil dans un réceptacle qui le CONTIENT | 1 doigt ; spectateur amusé |
 | juin 2018, le jour même (C1_1) | L'AUTEL : Nisha force Yuji au contact ; Eien touche son ame et projette les deux femmes dans son esprit. Eien l'accuse d'avoir tue "sa fidele Yorozu" (T-Yorozu detone) - il s'en moque, RIT, tabasse le parasite qui se fait corriger par son hote, les laisse partir : diverti. Le grief fabrique ECHOUE | premiere rencontre Nisha ; Eien humiliee chez lui |
 | juil 2018 (C1_3) | Centre de détention : Yuji lui cède le corps ; il arrache le cœur de son réceptacle et affronte Megumi ; Yuji reprend la main et meurt. Dans le territoire intérieur, serment ENCHAIN conclu : une minute de controle sur demande, interdiction de tuer ou de blesser pendant - et Yuji jure d'OUBLIER. Le contrat garde son propre secret | levier armé (bluff auto-protégé) ; ensuite, arc Junpei et Amicale vécus de l'intérieur (C1_4, C1_5) |
-| 31 oct 2018 (C) | Shibuya : perte de controle - la condition de Gakuganji se realise. Deroule detaille -> roadmap ere C ; volume d'ingestion [IMPLICITE], cale sur le transfert (~15 doigts digeres par Yuji, cf. chantier D6) | receptacle gorge de doigts |
+| 31 oct 2018 (C2_5) | Shibuya : Jogo fait avaler dix doigts à Yuji (15) ; Sukuna prend le corps, tue Jogo, rase le quartier contre Mahoraga invoqué par Megumi (canon). Les deux conditions du sursis tombent (cf. Roadmap/Nisha/Roadmap_C2.md) | 15 doigts ; receptacle gorgé |
 | fin nov - debut dec 2018 (D) | SAITAMA, la fenetre CHOISIE (les deux monstres parentaux verrouilles au palais Kamo) : minute d'Enchain, bluff protege par le serment, menace sur Tsumiki ; Megumi cede son corps - SERMENT DE SAITAMA (protection absolue de Tsumiki contre cession sans resistance, lettre integrale : chantier D7). Transfert : un doigt DE YUJI (chair devenue objet maudit) concentre toute son ame, avale par Megumi. Rien ne reste dans Yuji | change de receptacle ; passager consenti a bord ; lie par la lettre sous toute forme |
 | ere D, post-Saitama | Uraume livre TOUS les doigts originaux restants : Sukuna se complete a 20/20 dans le corps aux Dix Ombres. Sommet absolu de l'echelle, arme anti-Infini incluse | 20 doigts ; cible de toujours acquise |
 | ere D, a venir | Duel final contre la famille - chaque coup porte le sera dans le corps du fils. Issue : [OUVERT, decision worldbuilder] | - |

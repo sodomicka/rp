@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W45
+- version : W46
 
 ## WIKI
 
@@ -31,14 +31,14 @@ Description : fiches personnages du monde.
 - Nisha_chrono_B.md (W8) - trajectoire datée de Nisha, ère B (2008-2018) : entrées B1-B3 (famille de Saitama, resto à quatre 2013, trauma, guérison, Nuit des Cent Fleaux, réparation de Satoru).
 - Nisha_relations_proches.md (W2) - tête de la série relations de Nisha (quatre pages par cercles ; extension de Nisha.md, sections Naoya/Eien condensées au profit de la série) : RÈGLES GÉNÉRALES transversales (vestige du "ma belle" post-2006, la fumeuse) + cercle des PROCHES (dont Naoya - appellatifs, rituels, seul jugement post-2015 - et Eien - deux régimes avant/après la bascule de 2015, putsch de 1997 maquillé).
 - Nisha_relations_famille.md (W3) - relations de Nisha, cercle FAMILLE : le clan par le sang (dont Naobito, Jinichi, Ogi - appellatifs, contentieux, évolutions datées) et la famille choisie du foyer de Saitama (Maki, Panda, Megumi routés ici, pas en _eleves_tokyo).
-- Nisha_chrono_C.md (W1) - trajectoire datée de Nisha, ère C (2018) : entrées C1 (le doigt, le verdict, le centre de détention, le mort caché à Saitama, l'Amicale ciblée).
-- Nisha_relations_boulot.md (W3) - relations de Nisha, cercle BOULOT : collègues des deux universités (dont Gakuganji - le doyen-allié, Utahime - le malentendu soldé à l'Amicale, Mei Mei - du cliché à l'estime) et élèves de Kyoto ; convention locale des indicatifs tactiques.
+- Nisha_chrono_C.md (W2) - trajectoire datée de Nisha, ère C (2018) : entrées C1 (le doigt, le verdict, le centre de détention, le mort caché à Saitama, l'Amicale ciblée) et C2 (l'appel de Muta, le secret à deux, Takatsuki, Shibuya après).
+- Nisha_relations_boulot.md (W4) - relations de Nisha, cercle BOULOT : collègues des deux universités (dont Gakuganji - le doyen-allié, Utahime - le malentendu soldé à l'Amicale, Mei Mei - du cliché à l'estime) et élèves de Kyoto ; convention locale des indicatifs tactiques.
 - Nisha_relations_eleves_tokyo.md (W2) - relations de Nisha, cercle des ÉLÈVES DE TOKYO (protégés de Satoru : dont Yuta - miroir inverse, entre dans le cercle du secret par l'enseignement des deux sorts -, Toge, Hakari) ; Maki, Panda et Megumi vivent en _famille, pas de doublon.
-- Eien.md (W14) - fiche noyau d'Eien (OC, fléau Grade Spécial, parasite de Nisha, co-architecte avec Kenjaku ; apparence sans visage dans le Jardin) ; hôtes documentés dont la doyenne Gojo de Genroku (nœud Nozomu, pacte de la Traque) ; putsch de 1997 maquillé en amitié (Nisha se sait maîtresse, jamais geôlière) ; règle des signatures déclinée et extension de la règle de bascule (l'épuisement occulte comme garde baissée) ; + trajectoire datée ère B (B1-B3 : jubilation 2008, bascule 2015 - ouvre le corps à Kenjaku -, T-Yorozu armé, visites punitives).
-- Kenjaku.md (W12) - fiche noyau de Kenjaku (canon + RP : origine Kamo, amant et co-architecte d'Eien) : forme vraie en for intérieur, intrusion 2015 par Eien qui lui ouvre le corps ; Lisière du Supplice de sa main ; rideau de Takatsuki et son DOUBLE FOND (taillé sur la signature gémellaire, il ne touche pas Eien, le but réel étant d'épuiser Nisha : ÉCHEC) ; scellement de Nozomu, Traque Meurtrière en chantier séculaire ; + trajectoire datée (nœud 2006 : prime sur le Plasma Stellaire via le Culte Astral ; deal de 2015).
-- Naobito.md (W8) - patriarche du clan Zenin (26e chef), Projection, père des jumeaux ; + Nuit des Cent Fleaux (déc 2017, conseil engagé à Kyoto).
+- Eien.md (W15) - fiche noyau d'Eien (OC, fléau Grade Spécial, parasite de Nisha, co-architecte avec Kenjaku ; apparence sans visage dans le Jardin) ; hôtes documentés dont la doyenne Gojo de Genroku (nœud Nozomu, pacte de la Traque) ; putsch de 1997 maquillé en amitié (Nisha se sait maîtresse, jamais geôlière) ; règle des signatures déclinée et extension de la règle de bascule (l'épuisement occulte comme garde baissée) ; + trajectoire datée ère B (B1-B3 : jubilation 2008, bascule 2015 - ouvre le corps à Kenjaku -, T-Yorozu armé, visites punitives).
+- Kenjaku.md (W13) - fiche noyau de Kenjaku (canon + RP : origine Kamo, amant et co-architecte d'Eien) : forme vraie en for intérieur, intrusion 2015 par Eien qui lui ouvre le corps ; Lisière du Supplice de sa main ; rideau de Takatsuki et son DOUBLE FOND (taillé sur la signature gémellaire, il ne touche pas Eien, le but réel étant d'épuiser Nisha : ÉCHEC) ; scellement de Nozomu, Traque Meurtrière en chantier séculaire ; + trajectoire datée (nœud 2006 : prime sur le Plasma Stellaire via le Culte Astral ; deal de 2015).
+- Naobito.md (W9) - patriarche du clan Zenin (26e chef), Projection, père des jumeaux ; + Nuit des Cent Fleaux (déc 2017, conseil engagé à Kyoto).
 - Naoya.md (W18) - jumeau de Nisha, héritier de fait, Projection : noyau + trajectoire datée (A1 + A2) -> Naoya_chrono_B.md.
-- Naoya_chrono_B.md (W5) - trajectoire datée de Naoya, ère B (2008-2018) : entrées B1-B3 (tête du Hei, cultivation des jumelles, gardien du secret, Nuit des Cent Fleaux en symbiose) ; devenir canon (mort, retour en fléau) SUPPRIMÉ.
+- Naoya_chrono_B.md (W6) - trajectoire datée de Naoya, ère B (2008-2018) : entrées B1-B3 (tête du Hei, cultivation des jumelles, gardien du secret, Nuit des Cent Fleaux en symbiose) + ère C provisoire (Takatsuki, mort de Naobito) ; devenir canon (mort, retour en fléau) SUPPRIMÉ.
 - Jinichi.md (W6) - pilier du Hei, frère de Toji, Poings Météores, membre du conseil ; + Nuit des Cent Fleaux (déc 2017).
 - Ogi.md (W6) - frère cadet de Naobito, pilier du Hei, père de Maki/Mai, épéiste ; + Nuit des Cent Fleaux (déc 2017).
 - Ranta.md (W9) - membre du Hei (support des jumeaux), Regard Paralysant : noyau + trajectoire datée (A1).
@@ -48,11 +48,11 @@ Description : fiches personnages du monde.
 - Yasashiku.md (W2) - fiche noyau (OC, niveau fandom) : concubine de Noriaki, mère de Noritoshi ; "Douceur" = nom de concubine, vrai nom inconnu ; ATTENTION MJ : l'essentiel est un savoir caché, en scène il n'existe que la douceur ; état au 1 avr 2005.
 - Chojuro.md (W2) - membre du Hei, antithèse de Jinichi, Bras de Terre.
 - Nobuaki.md (W2) - capitaine de la Kukuru (sans sort inné), épéiste.
-- Maki.md (W12) - fille d'Ogi, jumelle de Mai, Restriction Céleste physique ; trajectoire A2-B3 (refuge Saitama 2014, élève de Satoru à Tokyo 2017).
+- Maki.md (W13) - fille d'Ogi, jumelle de Mai, Restriction Céleste physique ; trajectoire A2-B3 (refuge Saitama 2014, élève de Satoru à Tokyo 2017).
 - Mai.md (W11) - fille d'Ogi, jumelle de Maki, Construction, unité Akashi ; trajectoire A2-B3 (leçon de Nisha 2015 : exploite 8 ; élève d'Utahime 2017 puis de Nisha 2018).
-- Toji.md (W7) - Toji Fushiguro, né Zenin, Tueur d'Exorcistes, Restriction Céleste, père de Megumi.
+- Toji.md (W8) - Toji Fushiguro, né Zenin, Tueur d'Exorcistes, Restriction Céleste, père de Megumi.
 - Satoru.md (W14) - Satoru Gojo, guerrier parfait du clan Gojo, Infini + Six Yeux, rival de Nisha, chef de fait ; statut découvert à l'ÉVEIL DE SON SORT à 4 ans (1990-1991, règle des yeux) et non à la naissance ; symétrie-vaccin en vérité d'usage MJ ; filtre des yeux (lunettes rondes, bandages, bandeau du 7 déc) : noyau + trajectoire datée (A1) -> Satoru_chrono_B.md.
-- Satoru_chrono_B.md (W6) - trajectoire datée de Satoru, ère B (2008-2018) : entrées B1-B3 (prof à Tokyo, famille de Saitama, mort de Geto de ses mains, effondrement et relève).
+- Satoru_chrono_B.md (W7) - trajectoire datée de Satoru, ère B (2008-2018) : entrées B1-B3 (prof à Tokyo, famille de Saitama, mort de Geto de ses mains, effondrement et relève).
 - Tengen.md (W3) - Tengen, 4e esprit vengeur resté de chair, pilier immortel des barrières, immortalité + Plasma Stellaire, lien ancien avec Kenjaku (Merger), nœud de 2006.
 - Geto.md (W11) - Suguru Geto, prodige hors-clan de la promo Tokyo 2005-2008, Manipulation des Esprits Maudits, l'un des deux plus forts avec Gojo, négatif moral de Nisha : noyau + trajectoire datée (A1 + A2 : chantier de Yaga, escorte de Riko, bascule de conviction, les deux gouttes, défection fin 2007) + postérité pédagogique (prévention 2008-2017, histoire récente dès 2018).
 - Shoko.md (W9) - Shoko Ieiri, médecin de la promo des quatre prodiges (Tokyo), RCT appliqué à autrui, Semi-Grade 1 à vie : noyau + trajectoire datée (relève de Satoru 2018).
@@ -62,27 +62,30 @@ Description : fiches personnages du monde.
 - Utahime.md (W11) - Utahime Iori, professeure à Kyoto (élève de 2e année en 2005), Zone Interdite Individuelle, pur soutien : noyau + relations Nisha (malentendu-rivalité à sens unique né et soldé à l'Amicale de sept 2005) et Yukiko (se déclare nov 2005, conjointe princière 1 jan 2006, dans le cercle au périmètre Nori) + trajectoire datée (Amicale et déclaration 2005, resto à quatre 2013, noces 2015, relève 2017, rempart des cadets à la Parade).
 - Riko.md (W2) - Riko Amanai, 14 ans en 2006, Plasma Stellaire désigné pour la fusion de Tengen 2006 ; escortée par Gojo/Geto puis tuée par Toji - détonateur de la chute de Geto (A2, hors-champ POV Nisha).
 - Haibara.md (W3) - Yu Haibara, 1re année Tokyo (promo 2006-2009), Grade 2, optimiste solaire ; mort fin 2007 sur une mission - détonateur final de la chute de Geto (A2).
-- Nanami.md (W6) - Kento Nanami, promo Tokyo 2006-2009, Ratio Technique (7:3), pragmatique ; binôme de Haibara, survit à A2 ; ère B : ~4 ans salaryman puis prof de 3e année à Tokyo dès avr 2013 ; record 4x Black Flash au front de Tokyo (Parade 2017) ; mentor de Takuma Ino.
+- Nanami.md (W7) - Kento Nanami, promo Tokyo 2006-2009, Ratio Technique (7:3), pragmatique ; binôme de Haibara, survit à A2 ; ère B : ~4 ans salaryman puis prof de 3e année à Tokyo dès avr 2013 ; record 4x Black Flash au front de Tokyo (Parade 2017) ; mentor de Takuma Ino.
 - Ijichi.md (W3) - Kiyotaka Ijichi, 1re année Tokyo (promo 2006-2009, ajout RP), voie manager non combattant (logistique, renseignement, barrières) ; survit à A2.
 - Yuki.md (W4) - Yuki Tsukumo, une des quatre Grade Spécial, électron libre hors système, 15 doigts (3e puissance de facto) ; expose à Geto deux voies pour empêcher la naissance des fléaux (août 2007), dont il déduit seul sa 3e voie génocidaire (A2).
-- Megumi.md (W6) - Megumi Fushiguro, fils de Toji adopté hors-Zenin par le couple Nisha/Satoru (2008), porteur des Dix Ombres ; sort éveillé en 2009 ; entre chez Satoru à Tokyo (avr 2018) ; veille de mission solo juin 2018 (seuil ère C) ; accès aux archives Zenin par Nisha ; rivalité de succession latente avec Naoya.
-- Tsumiki.md (W5) - Tsumiki Fushiguro, belle-sœur de Megumi (profane), adoptée avec lui (2008), bloggeuse occulte (Okaruto Shinbun) ; MARQUÉE par Kenjaku, Yorozu en dormance muette - LIBÉRÉE fin 2015 ; accès aux archives Zenin par Nisha, avec droit de regard du conseil sur les articles.
-- Nitta.md (W7) - Akari Nitta, assistant manager sans don (promo Kyoto 2011-2014), 1re vraie élève de Nisha ; ex-délinquante, mécanique, franc-parler, progressiste ; transférée à Tokyo en 2014.
+- Megumi.md (W7) - Megumi Fushiguro, fils de Toji adopté hors-Zenin par le couple Nisha/Satoru (2008), Gojo-Zenin depuis 2015, porteur des Dix Ombres ; sort éveillé en 2009 ; entre chez Satoru à Tokyo (avr 2018) ; veille de mission solo juin 2018 (seuil ère C) ; accès aux archives Zenin par Nisha ; rivalité de succession latente avec Naoya.
+- Tsumiki.md (W6) - Tsumiki Fushiguro, belle-sœur de Megumi (profane), adoptée avec lui (2008), Gojo-Zenin depuis 2015, bloggeuse occulte (Okaruto Shinbun) ; MARQUÉE par Kenjaku, Yorozu en dormance muette - LIBÉRÉE fin 2015 ; accès aux archives Zenin par Nisha, avec droit de regard du conseil sur les articles.
+- Nitta.md (W8) - Akari Nitta, assistant manager sans don (promo Kyoto 2011-2014), 1re vraie élève de Nisha ; ex-délinquante, mécanique, franc-parler, progressiste ; transférée à Tokyo en 2014.
 - Panda.md (W6) - Panda, cadavre maudit mutant créé par Yaga et co-amalgamé avec Nisha (2011) ; trois noyaux (Panda/Gorille/Tricératops caché) ; "fils" de Yaga + Nisha ; étudiant à Tokyo dès 2017 (promo 2017-2020).
 - Yorozu.md (W3) - Yorozu, exorciste de Heian changée en objet maudit par Kenjaku, en dormance dans Tsumiki (2008-2015) ; 16 doigts ; tuée fin 2015 par Nisha (duel spirituel en territoire intérieur) ; fidèle de SUKUNA, aucun lien réel avec Eien.
-- Todo.md (W6) - Aoi Todo, élève de Nisha (2e année 2017-2018, promo Kyoto 2016-2019), Boogie Woogie ; 7 doigts.
-- Noritoshi_Kamo.md (W10) - Noritoshi Kamo, l'ÉLU, Prince Kamo, né le 5 juin 1997 [DIVERGENCE RP vs canon : 2000], bâtard de concubine (Yasashiku), demi-frère cadet de Yukiko ; règle des bâtards suspendue 1997-2001 ; majeur le 5 juin 2015, héritage différé à sa demande jusqu'à son diplôme ; élève de Nisha (promo 2016-2019), Hémokinésie ; 5 doigts.
+- Todo.md (W7) - Aoi Todo, élève de Nisha (2e année 2017-2018, promo Kyoto 2016-2019), Boogie Woogie ; 7 doigts.
+- Noritoshi_Kamo.md (W11) - Noritoshi Kamo, l'ÉLU, Prince Kamo, né le 5 juin 1997 [DIVERGENCE RP vs canon : 2000], bâtard de concubine (Yasashiku), demi-frère cadet de Yukiko ; règle des bâtards suspendue 1997-2001 ; majeur le 5 juin 2015, héritage différé à sa demande jusqu'à son diplôme ; élève de Nisha (promo 2016-2019), Hémokinésie ; 5 doigts.
 - Momo.md (W6) - Momo Nishimiya, élève de Nisha (promo 2016-2019), soutien aérien (balai) ; œil aérien décisif à la Nuit des Cent Fleaux ; 4 doigts.
 - Miwa.md (W6) - Kasumi Miwa, élève de Kyoto (promo 2017-2020 : 1re année Utahime, 2e année Nisha), sabre ; 3 doigts.
-- Mechamaru.md (W7) - Kokichi Muta (Ultimate Mechamaru), Restriction Céleste inverse, pilote son robot à distance ; promo Kyoto 2017-2020 ; lien de confiance singulier avec Nisha ; 6 doigts via robot.
-- Arata_Nitta.md (W3) - Arata Nitta, petit frère d'Akari [DIVERGENCE RP vs canon : aîné au canon], élève de Kyoto (promo 2018-2021) ; hors-axe combat.
+- Mechamaru.md (W8) - Kokichi Muta (Ultimate Mechamaru), Restriction Céleste inverse, pilote son robot à distance ; promo Kyoto 2017-2020 ; lien de confiance singulier avec Nisha ; 6 doigts via robot ; taupe, appel à l'aide et guérison par Mahito (oct 2018) : survit, corps sain, Grade Spécial potentiel.
+- Arata_Nitta.md (W4) - Arata Nitta, petit frère d'Akari [DIVERGENCE RP vs canon : aîné au canon], élève de Kyoto (promo 2018-2021) ; hors-axe combat.
 - Toge.md (W6) - Toge Inumaki, Paroles Maudites, promo Tokyo 2017-2020 (sous Satoru) ; 5 doigts.
-- Yuta.md (W6) - Yuta Okkotsu (Rika intégrée à la fiche), réserve colossale + Copie ; miroir INVERSE de Nisha ; copie la Chronokinésie de Nisha (début 2018) ; part avec Miguel post-JJK0 ; 12 doigts fin JJK0 -> 15 à Shibuya.
+- Yuta.md (W7) - Yuta Okkotsu (Rika intégrée à la fiche), réserve colossale + Copie ; miroir INVERSE de Nisha ; copie la Chronokinésie de Nisha (début 2018) ; part avec Miguel post-JJK0 ; 12 doigts fin JJK0 -> 15 à Shibuya.
 - Hakari.md (W11) - Kinji Hakari, promo Tokyo 2016-2019 (sous Kusakabe), Idle Death Gamble (domaine manifesté dès 2016) ; clash avec un conservateur au front de Tokyo de la Parade -> suspendu début 2018, Gachinko Fight Club ; 8 doigts + Jackpot hors échelle.
-- Yuji.md (W1) - Yuji Itadori, réceptacle de Sukuna (né le 20 mars 2000), promo Tokyo 2018-2021 sous Satoru ; sursis de Nisha, mort simulée, Enchain ; 5 doigts propres.
-- Nobara.md (W1) - Nobara Kugisaki (née le 7 août 1999), promo Tokyo 2018-2021 sous Satoru ; Poupée de Paille, Résonance ; 4 doigts.
+- Yuji.md (W2) - Yuji Itadori, réceptacle de Sukuna (né le 20 mars 2000), promo Tokyo 2018-2021 sous Satoru ; sursis de Nisha, mort simulée, Enchain ; 5 doigts propres ; Shibuya (15 doigts, sursis tombé, non exécuté).
+- Nobara.md (W2) - Nobara Kugisaki (née le 7 août 1999), promo Tokyo 2018-2021 sous Satoru ; Poupée de Paille, Résonance ; 4 doigts.
+- Mahito.md (W1) - Mahito, fléau de Grade Spécial du camp de Kenjaku, Façonnage de l'âme ; nœud Mechamaru (Nisha manque de le tuer, leurre de Takatsuki), Shibuya, absorbé ; 13 -> ~16 doigts.
+- Choso.md (W1) - Choso, aîné des Peintures Mortes, coconçu par Kenjaku-dans-Noritoshi avec Eien-dans-Nanao ; Manipulation du sang ; demi-frère de Yuji ; 12 doigts.
+- Uraume.md (W1) - Uraume, suivant de Sukuna depuis Heian, incarné dans le corps de Shiori Himi ; Formation de glace + RCT ; porteur de la marque de Nozomu ; 14 doigts.
 - Kirara.md (W8) - Kirara Hoshi, promo Tokyo 2016-2019 (sous Kusakabe), Love Rendezvous ; s'éloigne de l'université avec Hakari ; 4 doigts.
-- Sukuna.md (W2) - Ryomen Sukuna, Roi des Fléaux (20 doigts = étalon) : origine (scission du tronc Masakado x Michizane par pur hasard, jumeau dévoré in utero = 200 pour cent), pacte (dormance contre l'apogée, mobile divertissement), jumeau réincarné en Jin Itadori, réceptacles (Yuji par filiation, Megumi visé pour les Dix Ombres), règle des signatures (posée ici), trajectoire datée ères C-D.
+- Sukuna.md (W3) - Ryomen Sukuna, Roi des Fléaux (20 doigts = étalon) : origine (scission du tronc Masakado x Michizane par pur hasard, jumeau dévoré in utero = 200 pour cent), pacte (dormance contre l'apogée, mobile divertissement), jumeau réincarné en Jin Itadori, réceptacles (Yuji par filiation, Megumi visé pour les Dix Ombres), règle des signatures (posée ici), trajectoire datée ères C-D.
 - Nozomu.md (W2) - OC, fléau de Grade Spécial : Nozomu Gojo, enfant de Genroku, guerrier parfait révélé à l'éveil (4 ans) et mort le jour même, revenu en esprit vengeur ; scellé par Kenjaku dans une MARQUE (double clé, remise à Uraume) ; kit (Infini bouclier, 20 doigts, six yeux épars, six bras), domaine Flagellation du Bourreau ; aucune romantisation (règle d'écriture permanente).
 
 ### Lieux/
@@ -93,7 +96,7 @@ Description : lieux du monde.
 ### Power_Scaling/
 Description : système de puissance de l'univers.
 - Doigts_de_Sukuna.md (W13) - unité "doigt de Sukuna", statut in-world, formule non linéaire, table, barème de grade, loi synergie/symbiose, partage gémellaire (curseur 30/70 en 2017), plafond mondial.
-- Doigts_de_Sukuna_reperes.md (W1) - repères chiffrés par entité (casting B3 et C1 intégrés : Yuji 5, Nobara 4 ; Nanami adulte à 8) et courbes A2 2005 -> 2008.
+- Doigts_de_Sukuna_reperes.md (W2) - repères chiffrés par entité (casting B3, C1 et C2 intégrés : Yuji 5, Nobara 4, Mahito 13, Choso 12, Uraume 14, Muta guéri ; Nanami adulte à 8) et courbes A2 2005 -> 2008.
 
 ### Pedagogie/
 Description : enseignements des universités d'exorcisme (cadre, grille, fiches de cours, enseignement personnalisé).
@@ -126,7 +129,8 @@ Description : itinéraires par arc de Nisha, dans l'ordre de la saga. La roadmap
 - Roadmap_B1.md (W3) - La Fondation : lendemain du diplôme, hiver 2008 -> resto à quatre, mars 2013 ; ~5 ans, une année par jalon.
 - Roadmap_B2.md (W7) - Le Trauma : rentrée sans élève, avr 2013 -> post-avortement, automne 2015 ; ~2 ans et demi, 2015 ramassé.
 - Roadmap_B3.md (W3) - Guérison et autre trauma : Yorozu, fin 2015 -> veille de la 1re mission solo de Megumi, juin 2018 ; ~2 ans et demi, seuil de l'ère C.
-- Roadmap_C1.md (W1) - Le réceptacle : 1re mission solo de Megumi, juin 2018 -> lendemain de l'Amicale de Tokyo, sept 2018 ; ~3 mois, journées jouées aux temps forts.
+- Roadmap_C1.md (W2) - Le réceptacle : 1re mission solo de Megumi, juin 2018 -> lendemain de l'Amicale de Tokyo, sept 2018 ; ~3 mois, journées jouées aux temps forts.
+- Roadmap_C2.md (W1) - Takatsuki : lendemain de l'Amicale, sept 2018 -> Shibuya après le scellement, 1er nov 2018 ; ~6 semaines, journées jouées aux temps forts.
 
 ### Roadmap/Yukiko/
 Description : itinéraires par arc de Yukiko, dans l'ordre de la saga.

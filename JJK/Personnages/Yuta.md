@@ -1,6 +1,6 @@
 # Yuta Okkotsu
 
-- version : W6
+- version : W7
 
 Fiche noyau (canon + RP), entite entrant en scene en cours d'annee 2017 (B3) comme eleve de l'universite de Tokyo. Rika integree a cette fiche. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -52,9 +52,10 @@ Fiches propres : cf. Personnages/Satoru.md, Nisha.md. Ici, seul le rapport a Yut
 | 24 dec 2017 (B3_4) | Nuit des Cent Fleaux / JJK0 (cote Tokyo, hors-POV de Nisha) : il comprend son potentiel ; Geto tue par Satoru. | ~12 doigts ; tournant |
 | debut 2018 (B3_5) | POST-mort de Geto : Nisha, desormais CERTAINE que Rika n'est pas une vraie menace, lui enseigne ses sorts temporels -> il COPIE la Chronokinesie, echoue la Chronostase (metabolisme, cout calorique). | acquiert la Chronokinesie copiee |
 | apres JJK0 (fin B3) | Part a l'etranger (Afrique) avec Miguel, en attendant Shibuya. | etat de sortie B3 : absent du Japon |
+| 31 oct - 1 nov 2018 (C2_5) | Rentré d'Afrique en éclair (Chronokinésie copiée) sur ordre des Instances, pour exécuter Yuji. Croise Nisha par hasard à Shibuya : elle l'en dissuade (les Instances auront de quoi se mettre sous la dent, d'autres menaces pressent) | de retour au Japon |
 
 ## Notes de frontiere
-- [ere C, non roadmappe] Retour eclair d'Afrique grace a la Chronokinesie copiee ; a Shibuya il atteint ~15 doigts. Detail -> roadmaps ere C.
+- Retour à Shibuya porté en Trajectoire datée (C2_5). ~15 doigts à son retour ; suite -> C3 et ère D.
 - Detail de JJK0 (revelation sur la nature de Rika, combats du Night Parade) -> Roadmap_B3 (B3_3 / B3_4). La fiche pose la nature et le scaling, pas le deroule.
 
 ## Pointeurs

@@ -1,6 +1,6 @@
 # Kento Nanami
 
-- version : W6
+- version : W7
 
 ## Identite
 - Kento Nanami, 1re annee a l'universite de Tokyo en 2006 (promo 2006-2009). Sous-classe de Gojo, Geto et Shoko.
@@ -45,11 +45,12 @@
 | 2017-2018 (B3) | Referent de 3e annee de Takuma Ino (promo 2015-2018), qu'il diplome en mars 2018 ; Ino passe naturellement sous sa tutelle pleine | mentor d'Ino |
 | avr-juin 2018 (B3) | Rentree : sa classe de 3e annee (promo 2016-2019) est VIDE - Hakari suspendu, Kirara parti(e) avec lui. Champ libre total : tutelle d'Ino, missions de terrain | prof sans classe ; disponible (-> ere C : mentorat de Yuji) |
 | juil - sept 2018 (C1_4) | Prend Yuji, officiellement mort, en MENTORAT (canon) ; arc Junpei, face-à-face avec Mahito. Dans le cercle du secret de fait | mentor de Yuji |
+| 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : brûlé par Jogo, puis tué par Mahito devant Yuji | MORT |
 
 ## Notes de frontiere
 - [DIVERGENCE RP] Datation A2_8 : canon = mort de Haibara en septembre 2007 (juste avant le massacre du village ; Geto entre au village le 18 sept, rapport d'incident le 28 sept). Le RP la repousse a FIN 2007 (apres la fenetre de l'Amicale de septembre, edition 2007 non tenue ; cf. WIKI Factions/Tournoi.md). Aligne avec Geto A2_8 et Haibara A2_8.
 - Nanami SURVIT a A2 : sa trajectoire n'est pas terminale, elle continue en ere B (cf. Trajectoire datee - ere B).
-- Ere C : mentorat de Yuji porte en Trajectoire datee (C1_4) ; Shibuya (31 oct 2018), ou il meurt au canon - probablement hors-RP cote Nisha. Detail -> roadmaps ere C.
+- Ère C : mentorat de Yuji et mort à Shibuya portés en Trajectoire datée (C1_4, C2_5). Nisha l'apprend en arrivant : part de sa culpabilité d'avoir été piégée.
 
 ---
 FIN_WIKI_PERSONNAGES_NANAMI

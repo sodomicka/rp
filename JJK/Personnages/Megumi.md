@@ -1,11 +1,11 @@
 # Megumi Fushiguro
 
-- version : W6
+- version : W7
 
 Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = qui est Megumi a son entree en scene (identite, nature, sort, psychologie, relations) ; son devenir post-2008 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps ere B). Enfant sur tout B1 : scaling de combat non pertinent (potentiel seulement).
 
 ## Identite
-- Nom : Megumi Fushiguro. Canon. Fils biologique de Toji Fushiguro (ne Zenin, Restriction Celeste, Tueur d'Exorcistes).
+- Nom : Megumi Fushiguro. Canon. [DIVERGENCE RP] Porte le nom GOJO-ZENIN depuis les noces de 2015, avec Nisha et Tsumiki ; la fiche garde le nom sous lequel il entre dans le RP. Fils biologique de Toji Fushiguro (ne Zenin, Restriction Celeste, Tueur d'Exorcistes).
 - Naissance : 22 decembre 2000. A 7-8 ans a l'ouverture de l'ere B (2008) ; grandit jusqu'a 12 ans a la cloture de B1 (mars 2013).
 - Demi-frere CADET de Tsumiki Fushiguro, sans aucun lien de sang (cf. fiche Tsumiki).
 - [DIVERGENCE RP] Adopte en 2008 par le couple Nisha Zenin / Satoru Gojo, en meme temps que Tsumiki. Eleve a Saitama, HORS de tout moule de clan Zenin. La vente conditionnelle qui le promettait au clan Zenin (contrat de Toji, arme a l'apparition d'un sort) a ete ANNULEE par le couple en amont (A2_10, avant l'apparition du sort) : c'est cette annulation preventive qui le soustrait au clan malgre la technique Zenin qu'il developpera.
@@ -76,6 +76,8 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya
 | juin 2018 (C1_1) | Blessé face aux fléaux attirés par le doigt ; Yuji avale le doigt pour le sauver. Désespéré face au réceptacle, s'apprête à invoquer MAHORAGA avant même la menace : ses parents arrivent en un dixième de seconde. Choisit de sauver Yuji plutôt que de l'exorciser | a vu ses parents débarquer pour lui ; Mahoraga NON invoqué |
 | juil 2018 (C1_3) | Centre de détention : envoyé avec Yuji et Nobara face à un Grade Spécial par vote des Instances ; père injoignable (Chine), il envoie le SOS à Nisha (« c'est la merde »). Affronte Sukuna dans le corps de Yuji ; voit Yuji mourir, puis sa mère arriver trop tard | blessé ; dans le cercle du secret Yuji |
 | sept 2018 (C1_5) | Amicale à Tokyo (canon) ; attaque d'Hanami | - |
+| sept 2018 (C2_1) | Peintures Mortes, pont de Yasohachi (canon) | - |
+| 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : invoque Mahoraga, que Sukuna abat. Toji, ressuscité, l'affronte, lui demande son nom : « Gojo-Zenin ». Toji comprend et se tue, serein. Megumi le racontera à ses parents | a vu son père biologique ; Mahoraga invoqué |
 
 ## Graines plantees / armees en B1 (a NE PAS detoner avant l'ere prevue)
 - Rivalite de succession Naoya <-> Megumi : s'ARME en B1 (Megumi porte les Dix Ombres, eleve hors clan). Adossee au testament de Naobito : [DIVERGENCE RP] une lettre ou le clan Zenin reconnait le PORTEUR DES DIX OMBRES comme successeur legitime de Naobito - scellee, descellee seulement APRES Shibuya (ere C). Megumi, fils de Toji et porteur des Dix Ombres, en devient le beneficiaire malgre son education hors-clan, en travers de Naoya (heritier de fait). Detonation -> ere C. En B1, rien ne detone : Megumi est un enfant, la lettre dort. (Touche aussi la fiche Naobito -> a integrer au build ere C.)
@@ -84,7 +86,7 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya
 
 ## Notes de frontiere (hors B1)
 - Montee en puissance fine 2009-2018 (repertoire de shikigami domptes, amitie avec les familiers) : detail -> roadmaps B2/B3. Entree a Tokyo et veille de mission solo : integrees en Trajectoire datee.
-- Mahoraga, receptacle parfait, rivalite Naoya detonee : -> C3 (Shibuya) et ere D. Mahoraga frôlé en C1_1, jamais invoqué.
+- Mahoraga invoqué à Shibuya (C2_5). Réceptacle parfait, rivalité Naoya détonée : -> C3 et ère D.
 - Instance jouee (impact d'une partie donnee) : -> Parties/JJK/Partie<n>/ le cas echeant. Cette fiche reste la version neutre.
 
 ## Pointeurs

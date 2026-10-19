@@ -1,6 +1,6 @@
 # Yuji Itadori
 
-- version : W1
+- version : W2
 
 Fiche noyau (canon + RP), entité entrant en scène en juin 2018 (seuil de l'ère C) : réceptacle de Sukuna, élève de Satoru à Tokyo (promo 2018-2021). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -66,9 +66,11 @@ Fiches propres : cf. Personnages/Satoru.md, Megumi.md, Sukuna.md, Nisha.md. Ici,
 | juil 2018 (C1_3) | Centre de détention : face à un Grade Spécial, il cède le corps à Sukuna, qui lui arrache le cœur et affronte Megumi. Mort, puis serment ENCHAIN dans son territoire intérieur ; il revient et l'oublie | mort SIMULÉE ; caché à Saitama |
 | juil - sept 2018 (C1_4) | Entraînement secret (Satoru) ; mentorat de Nanami ; arc Junpei, premier face-à-face avec Mahito (canon) | sur la courbe de Nisha et Satoru : environ trois doigts digérés |
 | sept 2018 (C1_5) | Amicale à Tokyo : réapparition publique. Todo l'adopte en frère ; premier Rayon Noir contre Hanami | vivant aux yeux des Instances ; Rayon Noir débloqué |
+| sept 2018 (C2_1) | Peintures Mortes (canon) : avec Nobara, tue Eso et Kechizu au pont de Yasohachi ; avale un doigt de plus | environ cinq doigts à la veille de Shibuya [CANON SUPPOSÉ] |
+| 31 oct 2018 (C2_5) | Shibuya (canon) : Jogo lui fait avaler dix doigts ; Sukuna prend le corps et rase le quartier. Choso le domine puis l'épargne ; mort de Nanami ; avec Todo, bat Mahito. Les deux conditions du sursis tombent ; Nisha ne l'exécute pas et dissuade Yuta | 15 doigts ; brisé ; sursis tombé, dossier en C3 |
 
 ## Notes de frontière
-- Peintures Mortes, Shibuya (31 oct 2018 : perte de contrôle, ~15 doigts digérés), transfert de Sukuna, Choso : -> roadmaps C2, C3 et ère D.
+- Peintures Mortes et Shibuya : portés en Trajectoire datée (cf. Roadmap/Nisha/Roadmap_C2.md). Nouveau sursis (réunion du secret de Panda), transfert de Sukuna : -> roadmap C3 et ère D.
 
 ## Pointeurs
 - Sukuna, Enchain, filiation : cf. Personnages/Sukuna.md. Lignée Itadori : cf. Cosmogonie/Trois_Esprits.md.

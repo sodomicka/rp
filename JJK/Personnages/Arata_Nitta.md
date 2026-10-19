@@ -1,6 +1,6 @@
 # Arata Nitta
 
-- version : W3
+- version : W4
 
 Fiche noyau (canon + RP), entite entrant en scene tout en fin de B3 (rentree d'avril 2018) comme eleve de 1e annee a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -45,9 +45,10 @@ Fiches propres : cf. Personnages/Nitta.md (Akari), Utahime.md. Ici, seul le rapp
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | avr 2018 (B3_5) | Entre en 1e annee sous Utahime, tout a la fin de B3. | entree en scene au seuil de l'ere C |
+| 31 oct 2018 (C2_5) | Shibuya (canon) : fige la blessure de Nobara, frappée par Mahito ; elle survit | - |
 
 ## Notes de frontiere
-- Devenir post-B3 (role de soutien en ere C) -> roadmaps ere C, non ecrites.
+- Devenir post-C2 -> roadmaps C3 et ère D.
 
 ## Pointeurs
 - Soeur ainee : cf. Personnages/Nitta.md (Akari). Professeure : cf. Personnages/Utahime.md.
