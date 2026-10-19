@@ -1,6 +1,6 @@
 # Eien
 
-- version : W15
+- version : W16
 
 OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokinesie). Moitie du couple architecte avec Kenjaku. Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -63,9 +63,11 @@ Tissu relationnel detaille (appellatifs, registres avant/apres 2015, les visites
 | 2015+ (B3) | LES VISITES. Le calcul a RATE : brisee, Nisha ne s'effondre pas en depression ecrasable - elle mue sa tristesse, par Satoru et Naoya, en haine pure du couple d'architectes. Elle descend des lors regulierement dans le Jardin des Eres Mortes pour la TABASSER. Le parasite battu chez lui par son hote : renversement complet, definitif. Eien encaisse, profil bas, et laisse macerer. Registre des sessions : cf. Personnages/Nisha_relations_proches.md | condamnee au statut de souffre-douleur ; punition reguliere subie ; rancoeur qui s'affine (carburant de l'ere C) |
 | juin 2018 (C1_1) | L'AUTEL. Au contact de Yuji, elle touche l'âme de Sukuna et projette son hôte avec elle sur l'autel intérieur ; elle accuse Nisha d'avoir tué « sa fidèle Yorozu » (T-Yorozu DÉTONÉ). Sukuna s'en moque, rit et la tabasse ; Nisha la corrige à son tour. Le grief fabriqué ÉCHOUE | humiliée par deux hôtes au lieu d'un ; rumine, profil bas, dans le Jardin (cf. Roadmap/Nisha/Roadmap_C1.md) |
 | 31 oct 2018 (C2_4) | TAKATSUKI : Nisha ne fait rien, la fenêtre reste close. Eien lui révèle la source de la signature (le cheveu de 2015) | double fond raté |
+| 1 nov 2018 (C3_4) | Choso, son fils, happé dans le Jardin : devant elle, Nisha lui promet que Kenjaku mourra sous ses yeux impuissants | promesse posée (-> ère D) |
 
 ## Notes de frontiere (hors de cette fiche)
 - Trahison, complots et denouement (a partir de 2015) : poses en Trajectoire datee a mesure que les arcs sont roadmappes (B2-B3 faits), puis Parties.
+- Après la mort de Kenjaku (ère D) : elle sert une dernière fois - Nisha lui offre son corps pour sauver un de ses gamins, ou la « libère » en ne gardant que la Chronostase et son domaine [OUVERT, cf. chantier S6].
 - Mecanique fine de projection entre fors interieurs, timing des evenements : a border en roadmap.
 - Ce que le clan Gojo a vu et archive de la fin de l'attaque de Nozomu (le role de sa doyenne) : [INCERTAIN - non fixe], cf. Personnages/Nozomu.md.
 

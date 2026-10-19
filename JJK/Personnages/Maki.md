@@ -1,6 +1,6 @@
 # Maki Zenin
 
-- version : W13
+- version : W14
 
 Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir). Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (detail -> roadmap).
 
@@ -44,6 +44,7 @@ Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir
 | juil - sept 2018 (C1_4) | Dans le cercle du secret Yuji, caché à Saitama, chez elle | gardienne du secret |
 | sept 2018 (C1_5) | Amicale à Tokyo : de nouveau face à Mai, ÉGALITÉ (30/70 inchangé) ; attaque d'Hanami | égalité tenue |
 | 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : brûlée par Jogo, blessée mais VIVANTE | blessée |
+| 1 nov 2018 (C3_1, C3_4) | Soignée au campement de Shoko, aidée par Nisha. Chez Tengen à midi (canon) | brûlée, debout |
 
 ## Notes de frontiere (hors noyau)
 - Apparence : elle CHANGE post-Shibuya (ere C) - detail hors de cette fiche, -> roadmap ere C.

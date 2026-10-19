@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : JJK
 - sources primaires : manga Jujutsu Kaisen (Gege Akutami) ; worldbuilding du worldbuilder (OC Nisha Zenin, Yukiko Kamo, Eien, Nozomu)
-- bible_version : B24
+- bible_version : B25
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/JJK/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/JJK/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/JJK/Partie1/`
@@ -27,10 +27,10 @@
   - Lieux - sièges des clans (Chiryu no Kyuden - Kamo ; Juei no Ryochi - Zenin) (2 pages)
   - Power_Scaling - système de puissance, repères chiffrés en satellite (2 pages)
   - Pedagogie - carte des enseignements (1), fiches de cours par discipline et par année (7), enseignement personnalisé par promotion (8) (16 pages)
-  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2), Yukiko/ (A0, A1) (10 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B) et _Chantier_Passe2_EresCD.md (document de travail), sources de build jamais fetchées en narration.
-  - Resume.md - résumé autosuffisant de l'univers jusqu'au 1er novembre 2018, NON indexé au Sommaire, jamais fetché en narration (1 page)
+  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2, C3), Yukiko/ (A0, A1) (11 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B) et _Chantier_Passe2_EresCD.md (document de travail), sources de build jamais fetchées en narration.
+  - Resume.md - résumé autosuffisant de l'univers jusqu'au 1er novembre 2018 (fin de l'ère C), NON indexé au Sommaire, jamais fetché en narration (1 page)
   - _Implications.md - journal de conception, jamais fetché en narration (1 fichier de travail)
-- Total indexé au Sommaire (W46) : 99 pages.
+- Total indexé au Sommaire (W47) : 100 pages.
 
 ## SB1 Cosmogonie et règles du monde
 Périmètre : divergences fondatrices liées à Nisha et Yukiko + règles nécessaires + cosmogonie des trois esprits.
@@ -123,7 +123,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Clan Zenin - grande famille patriarcale, jugée à la technique héritée | puissance, pureté du sang, statut | clans Gojo et Kamo (alliance de caste rivale) | profanes, faibles, fléaux | clan de Nisha. Patriarche Naobito ; Projection + Dix Ombres (greffe) ; conseil à 3 sièges (Naobito, Ogi, Jinichi), Hei, Akashi, Kukuru. [DIVERGENCE RP] Archives fermées aux femmes ; secrets : signature gémellaire, anti-domaine, secret d'Eien, désastre de Tenpō. Siège : Juei no Ryochi. Détail : cf. WIKI Factions/Clan_Zenin.md
 - Clan Gojo - grande famille conservatrice, culte du guerrier parfait (Infini + Six Yeux) | primat et poids politique | clans Zenin et Kamo | profanes, faibles, fléaux | clan de Satoru. [DIVERGENCE RP] Seul clan à s'ABSTENIR de la violence infantile - douceur-cicatrice née de Nozomu (Genroku) ; guerrier parfait invisible avant l'éveil (règle des yeux) ; porteurs : Nozomu, le Parfait de Tenpō [nom NON FIXÉ], Satoru. Détail : cf. WIKI Factions/Clan_Gojo.md, Personnages/Nozomu.md
 - Clan Kamo - grande famille vouée à la pureté du sang | préserver la lignée élue (Hémokinésie) | clans Gojo et Zenin | profanes, sangs mêlés, fléaux | clan de Yukiko, second OC jouable. [DIVERGENCE RP] Succession par le sang pur seul, règle des bâtards (cas unique : Noritoshi 1997-2001) ; lignée 2005 : Noriaki, Fubuki (†1992), Yasashiku, Yukiko, Noritoshi ; matriarcat de fait (usage MJ) ; monopole des rideaux fractals et du Dragon ; origine de Kenjaku. Siège : Chiryu no Kyuden ; repas claniques bissextiles Kamo/Zenin chaque 29 fév. Détail : cf. WIKI Factions/Clan_Kamo.md, Personnages/Noriaki_Fubuki.md, Yasashiku.md
-- Hautes Instances - sommet conservateur et sans visage au-dessus des universités | émettre les ordres, préserver l'ordre établi | les trois familles | progressistes, anomalies | plafond institutionnel. Dix membres (5 par université : 3 clans + 2 indépendants), tous Grade Spécial 1, seul visage public : Gakuganji. [DIVERGENCE RP] Pacte fondateur Meiji avec l'État, règlement en neuf articles. Détail : cf. WIKI Factions/Hautes_Instances.md
+- Hautes Instances - sommet conservateur et sans visage au-dessus des universités | émettre les ordres, préserver l'ordre établi | les trois familles | progressistes, anomalies | plafond institutionnel. Dix membres (5 par université : 3 clans + 2 indépendants), tous Grade Spécial 1, seul visage public : Gakuganji. [DIVERGENCE RP] Pacte fondateur Meiji avec l'État, règlement en neuf articles. Kenjaku tient dans l'ombre les deux sièges Kamo ; le 1er nov 2018, Nisha leur arrache sous menace de mort la vie de Yaga, un nouveau sursis pour Yuji, la levée du bannissement de Satoru et quelques jours hors des affaires de clans. Détail : cf. WIKI Factions/Hautes_Instances.md
 - Université d'Exorcisme de Tokyo - université sœur de Kyoto, turf Gojo | former exorcistes et assistant managers | Kyoto, Hautes Instances, Tengen | fléaux, Maîtres des Fléaux | université de Nisha (2005-2008). Corps enseignant : Yaga, puis Satoru (1A) et Kusakabe (2A) dès 2009, Nanami (3A) dès avr 2013 ; pôle omniscient vulgarisé, le plus ouvert. Détail : cf. WIKI Factions/Universite_Tokyo.md
 - Université d'Exorcisme de Kyoto - université sœur, turf Kamo + Zenin | former exorcistes et assistant managers | Tokyo, Hautes Instances, Tengen | fléaux, Maîtres des Fléaux | université de Naoya et Yukiko ; Nisha y enseigne dès 2009. Corps enseignant : Gakuganji, Utahime (1A) et Nisha (2A) dès 2009, Mei Mei (3A) dès avr 2013 ; pôle avancé clanique, conservateur. Détail : cf. WIKI Factions/Universite_Kyoto.md
 - Tournoi des Universités Jumelées (l'Amicale) - échange annuel | émulation, vitrine des étudiants | les deux universités, Hautes Instances | - | confrontation réglée. Format canon (J1 équipe, J2 individuels) ; [DIVERGENCE RP] l'hôte est le vainqueur de l'édition précédente. Détail : cf. WIKI Factions/Tournoi.md
@@ -149,7 +149,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Tengen - quatrième esprit vengeur resté de chair, pilier immortel des barrières | immortalité (fusion tous les ~500 ans avec un Plasma Stellaire), barrières, non combattant | Kenjaku (artisan de son ascension) | immortalité + barrières | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Tengen.md
 - Suguru Geto - prodige hors-clan (né le 11 fév 1987), promo Tokyo 2005-2008, négatif moral de Nisha | Manipulation des Esprits Maudits, 12 doigts en 2005 | Satoru (meilleur ami), Shoko, Nisha | Manipulation des Esprits Maudits | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Geto.md
 - Shoko Ieiri - médecin de la promo des quatre prodiges (née ~1987 [INCERTAIN]) | RCT appliqué à autrui, Semi-Grade 1 à vie, 5 doigts | Nisha (meilleure amie), Satoru/Geto | RCT sur autrui | canon + [DIVERGENCE RP vs canon]. detail: cf. WIKI Personnages/Shoko.md
-- Masamichi Yaga - professeur puis principal à Tokyo, progressiste | cadavres maudits (sommet : doter une création d'une âme), Grade 1, 7 doigts | promo des quatre prodiges, Nisha, Panda | cadavres maudits | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yaga.md
+- Masamichi Yaga - professeur puis principal à Tokyo, progressiste | cadavres maudits (sommet : doter une création d'une âme), Grade 1, 7 doigts | promo des quatre prodiges, Nisha, Panda ; condamné après Shibuya, sauvé par Nisha (1er nov 2018) | cadavres maudits | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yaga.md
 - Yoshinobu Gakuganji - principal de Kyoto, seul visage public des Hautes Instances, ultra-conservateur | sort musical, Grade Spécial 1, 9 doigts | Naoya, Yukiko (voit le sandbagging et le respecte), Nisha, Mei Mei | sort musical | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Gakuganji.md
 - Mei Mei - mercenaire obsédée par l'argent, prof de 3e année à Kyoto dès avr 2013 | corbeaux, Grade 1 / 7 doigts post-2008 | Ui Ui (frère), Nisha, Gakuganji | corbeaux | canon + [DIVERGENCE RP vs canon] (enseignante). detail: cf. WIKI Personnages/Mei_Mei.md
 - Utahime Iori - professeure à Kyoto (2e année étudiante en 2005), soutien | Zone Interdite Individuelle, Semi-Grade 1 / 5 doigts post-2008 | Yukiko (couple dès nov 2005), Nisha (malentendu-rivalité né et mort à l'Amicale 2005, puis complémentarité d'enseignantes), Satoru | Zone Interdite Individuelle | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Utahime.md
@@ -176,7 +176,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Toge Inumaki - élève de Satoru (promo Tokyo 2017-2020) | Paroles Maudites, Grade 2, 5 doigts | Maki et Panda, Satoru | Paroles Maudites | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Toge.md
 - Yuta Okkotsu - élève de Satoru (promo Tokyo 2017-2020), Rika intégrée à sa fiche | réserve colossale + Rika + Copie ; 12 puis 15 doigts | Satoru, Nisha (miroir inverse ; copie la Chronokinésie début 2018) | Copie | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yuta.md
 - Kinji Hakari - élève de Tokyo (promo 2016-2019) | Idle Death Gamble (domaine dès 2016), 8 doigts, hors échelle en Jackpot | Kirara, Kusakabe, Nisha, Hautes Instances (clash) | Idle Death Gamble | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Hakari.md
-- Yuji Itadori - réceptacle de Sukuna (né le 20 mars 2000 [DIVERGENCE RP vs canon : 2003]), élève de Satoru (promo Tokyo 2018-2021), étudiant de fac à Sendai avant | physique hors norme, Poing Divergent, Rayon Noir ; 5 doigts propres ; 15 doigts de Sukuna digérés à Shibuya, sursis tombé, non exécuté par Nisha | Satoru, Nisha (le dossier devenu gosse), Megumi, Nobara, Todo, Sukuna (Enchain) | aucun sort inné | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yuji.md
+- Yuji Itadori - réceptacle de Sukuna (né le 20 mars 2000 [DIVERGENCE RP vs canon : 2003]), élève de Satoru (promo Tokyo 2018-2021), étudiant de fac à Sendai avant | physique hors norme, Poing Divergent, Rayon Noir ; 5 doigts propres ; 15 doigts de Sukuna digérés à Shibuya, sursis tombé, non exécuté par Nisha, nouveau sursis arraché aux Instances (1er nov 2018 : tant qu'il n'avale aucun nouveau doigt avant le retour de Satoru) | Satoru, Nisha (le dossier devenu gosse), Megumi, Nobara, Todo, Sukuna (Enchain) | aucun sort inné | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yuji.md
 - Nobara Kugisaki - élève de Satoru (née le 7 août 1999 [DIVERGENCE RP vs canon : 2002], promo Tokyo 2018-2021) | Poupée de Paille, Résonance, Grade 3, 4 doigts | Yuji, Megumi, Nisha (respect mutuel) | Poupée de Paille | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nobara.md
 - Kirara Hoshi - élève de Tokyo (promo 2016-2019), non binaire (canon) | Love Rendezvous, 4 doigts | Hakari, Nisha | Love Rendezvous | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Kirara.md
 
@@ -209,7 +209,7 @@ SB8 porte, par mystère ou fil, la définition, le statut et un renvoi. Les dér
 ### Mystères
 `Mystère - hypothèses principales | statut (ouvert / résolu-dans-RP / hors-périmètre)`
 - Sort de Satoru post-2018 - canon : scellé le 31 oct 2018, libéré puis tué par Sukuna le 24 déc 2018. RP : scellé le 31 oct, LIBÉRÉ en déc 2018 par Yukiko ; duel final contre Sukuna-dans-Megumi, survie ou non | ouvert, décision worldbuilder.
-- Présence de Nisha à Shibuya - verrouillée à Takatsuki avec Naoya le 31 oct ; voit Kenjaku-dans-Geto à la fermeture du piège, sans combat ; arrive à Shibuya après le scellement, croise Yuta, n'exécute pas Yuji | résolu-dans-RP (Roadmap C2).
+- Présence de Nisha à Shibuya - verrouillée à Takatsuki avec Naoya le 31 oct ; voit Kenjaku-dans-Geto à la fermeture du piège, sans combat ; arrive à Shibuya après le départ de Kenjaku | résolu-dans-RP (Roadmaps C2, C3).
 - Culte Astral / culte posthume de Geto (ères C/D) | ouvert, à statuer aux roadmaps C/D.
 - Origine ultime de l'énergie occulte (JJK Modulo, 2086) | hors-périmètre.
 
@@ -224,9 +224,9 @@ SB8 porte, par mystère ou fil, la définition, le statut et un renvoi. Les dér
 - T-Yorozu - fin 2015 (B3) | DÉTONÉ juin 2018 (C1_1, l'autel) : le grief d'Eien ÉCHOUE, Sukuna en rit | Roadmap C1.
 - T-Tsumiki - 2008 (B1) | RÉSOLU fin 2015, libérée sans coma [DIVERGENCE RP vs canon] | WIKI Personnages/Tsumiki.md.
 - T-Okaruto - 2010 (B1, l'Okaruto Shinbun de Tsumiki) | DÉTONÉ juin 2018 (C1_1) : le club de Yuji descelle le doigt à rebours des avertissements du blog | Roadmap C1.
-- T-Âmes - 2011 (B1, noyaux de Panda) | DÉTONÉ ère C (nov 2018), Yaga VIVANT | chantier.
-- Geto / Yuki ("la bonne question") - août 2007 (A2) | DÉTONÉ ère D | chantier.
-- Nisha vs Yuki - août 2007 (A2) | DÉTONÉ ère D | chantier.
+- T-Âmes - 2011 (B1, noyaux de Panda) | DÉTONÉ C3 (1er nov 2018, salle des Instances, Panda absent), Yaga VIVANT | Roadmap C3.
+- Geto / Yuki ("la bonne question") - août 2007 (A2) | DÉTONÉ C3 (chez Tengen, 1er nov 2018 : la graine de mûre) | Roadmap C3.
+- Nisha vs Yuki - août 2007 (A2) | DÉTONÉ C3 (chez Tengen, 1er nov 2018) | Roadmap C3.
 - Vente conditionnelle de Megumi - A2_4 | RÉSOLUE en A2_10 (adoption hors-Zenin 2008) | Roadmap A2.
 - Coup d'État du clan Zenin - 2006 (A2_6) | DÉTONÉ ère D (mi-nov 2018), Naoya sur le trône | chantier.
 - Amicale non tenue en A2 - A2 | aucune édition jouée, massacre de Geto repoussé à fin 2007 | Roadmap A2.
@@ -240,4 +240,4 @@ Index détaillé page par page : cf. WIKI JJK/Sommaire.md
 
 ---
 
-FIN_BIBLE_B24
+FIN_BIBLE_B25

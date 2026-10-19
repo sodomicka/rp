@@ -1,6 +1,6 @@
 # Choso
 
-- version : W1
+- version : W2
 
 Fiche noyau (canon + RP), entité entrant en scène en ère C (septembre 2018) : aînée des neuf Peintures Mortes, objet maudit incarné. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -28,9 +28,9 @@ Fiche noyau (canon + RP), entité entrant en scène en ère C (septembre 2018) :
 Fiches propres : cf. Personnages/Eien.md, Kenjaku.md, Yuji.md, Noritoshi_Kamo.md, Nisha.md. Ici, seul le rapport à Choso.
 - Eso et Kechizu : ses cadets, tués au pont de Yasohachi par Yuji et Nobara (C2_1).
 - Kenjaku : le père, qu'il ignore être ce corps de Geto ; il le haïra en le comprenant (canon).
-- [DIVERGENCE RP] Eien : la mère biologique. Il la rencontre dans le Jardin des Ères Mortes en ère D (chantier, D1).
+- [DIVERGENCE RP] Eien : la mère biologique. Il la sent en Nisha, puis la rencontre dans le Jardin des Ères Mortes, chez Tengen (C3_2, C3_4).
 - Yuji : demi-frère, d'abord cible, puis frère reconnu.
-- [DIVERGENCE RP] Nisha : en ère D, elle lui PROMET que Kenjaku mourra sous les yeux impuissants d'Eien (chantier, D1). Ils ne se croisent pas avant.
+- [DIVERGENCE RP] Nisha : il sent Eien en elle et veut la tuer ; Yuji l'en dissuade (C3_2). Chez Tengen, elle lui PROMET que Kenjaku mourra sous les yeux impuissants d'Eien (C3_4).
 - [DIVERGENCE RP] Noritoshi Kamo : après le palais, Choso reste au clan Kamo, aux côtés de Nori et Yukiko (chantier, D4).
 
 ## Grade et scaling
@@ -48,9 +48,10 @@ Fiches propres : cf. Personnages/Eien.md, Kenjaku.md, Yuji.md, Noritoshi_Kamo.md
 | sept 2018 (C1_5) | Volé avec les Peintures Mortes pendant l'attaque d'Hanami (canon, hors POV) | - |
 | sept 2018 (C2_1) | Incarné ; Eso et Kechizu tués au pont de Yasohachi ; jure vengeance contre Yuji (hors POV) | vengeance |
 | 31 oct 2018 (C2_5) | Shibuya, hors POV : affronte Yuji, le domine, puis le reconnaît comme frère par des souvenirs fantômes et l'épargne | allié latent de Yuji |
+| 1 nov 2018 (C3_2, C3_4) | Erre avec Yuji. Sent Eien en Nisha et veut la tuer ; Yuji l'en dissuade. Trouve le chemin des Tombeaux en sentant les Peintures Mortes qui y sont stockées (canon). Chez Tengen, happé dans le Jardin en retenant Nisha, face à sa mère, Eien-dans-Nanao : Nisha lui promet la mort de Kenjaku | promesse de Nisha |
 
 ## Notes de frontière
-- Réunion de crise chez Tengen, Jardin des Ères Mortes, palais Kamo, place au clan : -> roadmaps C3 et ère D (chantier, D1 et D4).
+- Palais Kamo, place au clan : -> ère D (chantier, D4).
 - Ce qu'il sait de sa mère avant d'entrer dans le Jardin : [non fixé].
 
 ## Pointeurs

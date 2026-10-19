@@ -1,6 +1,6 @@
 # Kenjaku
 
-- version : W13
+- version : W14
 
 Canon JJK + couche RP (origine Kamo, couple avec Eien). Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -65,6 +65,8 @@ Dans le monde, Kenjaku n'a d'autre apparence que celle de son vaisseau du moment
 | été - sept 2018 (C1_4, C1_5) | Par la taupe Mechamaru, obtient un cheveu de Satoru. Tire des deux cheveux les signatures du couple (Nisha et Satoru, donc aussi Naoya par la règle des jumeaux) et fournit le PATRON d'un rideau polarisé sur les deux, tissé par le maître des fléaux boucher à l'Amicale de Tokyo. Pendant l'attaque d'Hanami, sous le corps de Geto, vole avec Mahito des doigts de Sukuna et les Peintures Mortes (canon). Jamais vu de Nisha | test grandeur nature du rideau anti-couple ; doigts et Peintures Mortes en main (-> C2, Shibuya) |
 | oct 2018 (C2_2) | Par Mahito, fait lâcher à Nisha un LEURRE fabriqué : « 31 octobre, 16 h... Takatsuki ». Il savait qu'elle l'obtiendrait par son élève Muta, dont les infos glanées le corroborent. Reste planqué pendant le nœud : jamais vu de Nisha | Nisha appâtée par sa propre culpabilité |
 | 31 oct 2018 (C2_4, C2_5) | TAKATSUKI : le rideau taillé sur la signature gémellaire se referme sur Nisha et Naoya ; elle l'aperçoit, sous le corps de Geto, à la fermeture. Le double fond (vider Nisha pour Eien) ÉCHOUE. Puis SHIBUYA : scelle Satoru dans la Lisière (~20 h 30 [CANON SUPPOSÉ]), absorbe Mahito, lance la Traque Meurtrière, repart avec Uraume et la Lisière (canon) | Satoru scellé ; Nisha sait qui il porte ; rideau démêlé par Yukiko, qui le perce à jour |
+
+| depuis toujours ; 1 nov 2018 (C3) | [DIVERGENCE RP] Tient dans l'ombre les deux sièges Kamo des Instances et pèse sur les indépendants non claniques ; les sièges Zenin, Gojo et les indépendants proches d'eux lui échappent. Après Shibuya, arrive au palais Kamo avant Yukiko et Nori et prend le trône (hors POV de Nisha, joué côté Yukiko ; détail : chantier S4) | maître du clan Kamo ; Yukiko à son bras droit |
 
 ## Notes de frontiere (hors de cette fiche)
 - Evenements specifiques au RP (sceau de Satoru, denouement, mort de Kenjaku) : posterieurs au point de depart -> roadmap (Passe 2), puis Parties.

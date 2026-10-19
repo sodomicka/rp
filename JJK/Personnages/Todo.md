@@ -1,6 +1,6 @@
 # Aoi Todo
 
-- version : W7
+- version : W8
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -54,10 +54,11 @@ Fiches propres : cf. Personnages/Yuki.md, Nisha.md. Ici, seul le rapport a Todo.
 | dec 2017 (B3_4) | Nuit des Cent Fleaux : les 2e annees confies a Mei Mei ; Todo combat en cogneur, appuye par l'oeil aerien de Momo. | premier grand fait d'armes |
 | avr 2018 (B3_5) | Passe en 3e annee (sous Mei Mei). | -> seuil ere C |
 | sept 2018 (C1_5) | Amicale à Tokyo (3A de Mei Mei) : sur la réponse de Yuji à la question du « type », l'adopte en FRÈRE ; contre Hanami à ses côtés, Rayon Noir (canon) | un frère de cœur |
-| 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : avec Yuji, bat Mahito | - |
+| 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : se tranche la main gauche touchée par Mahito ; avec Yuji, bat Mahito | main gauche perdue |
+| nuit 31 oct - 1 nov 2018 (C3_1) | Au campement de Shibuya : veut aider malgré sa main en moins ; croise Nisha | - |
 
 ## Notes de frontiere
-- Devenir post-C2 -> roadmaps C3 et ère D.
+- Devenir post-C3 -> ère D.
 
 ## Pointeurs
 - Mentor : cf. Personnages/Yuki.md. Professeure : cf. Personnages/Nisha.md. Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
