@@ -18,9 +18,9 @@ Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir
 - Dans la mecanique gemellaire, c'est Mai qui porte le sort inne et la majeure partie de l'energie occulte du duo (cf. pool gemellaire, Personnages/Nisha.md).
 
 ## Grade et scaling
-- Puissance selon le partage gemellaire (curseur a somme constante) : de 1 doigt a l'etat de base (50/50 = Semi-Grade 2) jusqu'a 18 a 100 % d'energie occulte. Pour Mai (sort), plus d'EO = plus de puissance. Table complete : cf. Power_Scaling/Doigts_de_Sukuna.md (partage gemellaire).
+- Puissance selon le partage gemellaire (curseur a somme constante) : de 1 doigt a l'etat de base (50/50 = Semi-Grade 2) jusqu'a 17 a 100 % d'energie occulte. Pour Mai (sort), plus d'EO = plus de puissance. Table complete : cf. Power_Scaling/Doigts_de_Sukuna.md (partage gemellaire).
 - [DIVERGENCE RP] Role de frein gemellaire : tant que Mai vit, le partage bride Maki a l'etat de base. Sa mort liberait le curseur et ferait basculer Maki sur la VOIE TOJI (jusqu'a 18 doigts, corps de monstre) - le danger identifie par les jumeaux en A2_6 (cf. fiche Maki et Trajectoire datee). Le sort le plus fragile du duo porte ainsi l'enjeu le plus lourd.
-- [DIVERGENCE RP] En duo, les jumelles relevent de la loi synergie/symbiose (jumelles -> symbiose s'applique ; cf. Power_Scaling/Doigts_de_Sukuna.md) appliquee a leurs puissances individuelles issues du curseur. Repere d'apogee : repartition 0/100 (chacune a 18 doigts) + syn = sym = 100 % -> Maki+Mai ensemble a ~26.6 doigts (196.94 %), au-dessus du duo Naoya+Nisha (24). Cf. fiche Maki.
+- [DIVERGENCE RP] En duo, les jumelles relevent de la loi synergie/symbiose (jumelles -> symbiose s'applique ; cf. Power_Scaling/Doigts_de_Sukuna.md) appliquee a leurs puissances individuelles issues du curseur. Repere d'apogee : repartition 0/100 (Maki 18, Mai 17) + syn = sym = 100 % -> Maki+Mai ensemble a ~26.6 doigts (196.94 %), au-dessus du duo Naoya+Nisha (24). Cf. fiche Maki.
 - Mecanique du curseur -> roadmap.
 
 ## Place dans le clan
