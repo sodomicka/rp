@@ -1,86 +1,88 @@
 # Chronologie des roadmaps - Makoto / Effroi
 
-- version : W8
-- role : GARDE-CAP de la campagne. Decoupage R0 -> R10 DICTE par le worldbuilder. Grandes lignes seulement : chaque roadmap se detaille a son BUILD (boucle serree de Passe 2) ; les [A POSER] listes ici s'y tranchent.
-- convention de nommage : chaque roadmap porte le nom du DEMON le plus important de son arc.
+- version : W9
+- rôle : GARDE-CAP de la campagne. Découpage R0 -> R10 DICTÉ par le worldbuilder. Grandes lignes seulement : chaque roadmap se détaille à son BUILD (boucle serrée de Passe 2) ; les [À POSER] listés ici s'y tranchent.
+- convention de nommage : chaque roadmap porte le nom du DÉMON le plus important de son arc.
 - prota / POV : Makoto / Effroi.
 
-## Reperes de datation
-- Point de depart du RP : 2 decembre 1984.
-- Nayuta / Autorite : nee ~septembre 1985 (fille biologique, croissance humaine ; 13 ans en 1998).
-- Aki Hayakawa : ne le 4 octobre 1974 - 10 ans a l'attaque de 1984, 14 au signalement de 1989, 15 au huis clos de 1990 (evenements cales avant l'automne), majeur le 4 octobre 1994, hybride du Katana en janvier-fevrier 1998 (gel a 23 ans).
-- Denji : ne en 1979 - 15 ans au Concombre de 1994, 18 au recrutement de ~1997.
-- Reze : nee en 1978 - hybridee en 1988 a 10 ans, gel d'apparence a 19 ans (automne 1997).
-- Contrainte derivee : les anniversaires de Denji et de Reze tombent entre janvier et avril (seule fenetre rendant coherents "18 et 19 ans a l'automne 1997" et "20 et 21 ans en avril 1999").
-- Socle des 3 soeurs : Nayuta est NEE (reproduction sexuee, croissance humaine) ; ses soeurs sont des REINCARNATIONS sur le modele de la Nayuta canon - naissance dans un bebe humain la ou le concept est PRESENT (chasse ciblee), pouvoir des le berceau, yeux a anneaux concentriques, croissance acceleree en courbe qui s'aplatit (~10-12 ans d'apparence vers un an, puis ralentissement jusqu'au gel adulte).
-- ~1997 : evenements canon de la Partie 1 - le RP les traverse et les DEPASSE.
+## Repères de datation
+- Point de départ du RP : 2 décembre 1984.
+- Nayuta / Autorité : née ~septembre 1985 (fille biologique, croissance humaine ; 13 ans en 1998).
+- Aki Hayakawa : né le 4 octobre 1974 - 10 ans à l'attaque de 1984, 14 au signalement de 1989, 15 au huis clos de 1990 (événements calés avant l'automne), majeur le 4 octobre 1994, hybride du Katana en janvier-février 1998 (gel à 23 ans).
+- Denji : né en 1979 - 15 ans au Concombre de 1994, 18 au recrutement de ~1997.
+- Reze : née en 1978 - hybridée en 1988 à 10 ans, gel d'apparence à 19 ans (automne 1997).
+- Contrainte dérivée : les anniversaires de Denji et de Reze tombent entre janvier et avril (seule fenêtre rendant cohérents "18 et 19 ans à l'automne 1997" et "20 et 21 ans en avril 1999").
+- Socle des 3 sœurs : Nayuta est NÉE (reproduction sexuée, croissance humaine) ; ses sœurs sont des RÉINCARNATIONS sur le modèle de la Nayuta canon - naissance dans un bébé humain là où le concept est PRÉSENT (chasse ciblée), pouvoir dès le berceau, yeux à anneaux concentriques, croissance accélérée en courbe qui s'aplatit (~10-12 ans d'apparence vers un an, puis ralentissement jusqu'au gel adulte).
+- ~1997 : événements canon de la Partie 1 - le RP les traverse et les DÉPASSE.
 - R5 : automne 1997. R6 : hiver 1997-1998 (clos avant le printemps 1998). R7 : janvier 1998 -> mars 1999 (clos avant avril 1999, ouverture de R8).
 
-## R0 - La Peur [ECRITE - W2 ; cadrage, non jouable]
-- Bornes : arrivee d'Effroi dans la vie de Makima (matin du 2 dec 1984) -> Makima s'assoit a sa table (bascule R1).
-- Substance : Effroi s'impose comme ineluctable et meilleur manipulateur qu'elle.
-- Demon central : Effroi (la peur).
+## R0 - La Peur [ÉCRITE - W2 ; cadrage, non jouable]
+- Bornes : arrivée d'Effroi dans la vie de Makima (matin du 2 déc 1984) -> Makima s'assoit à sa table (bascule R1).
+- Substance : Effroi s'impose comme inéluctable et meilleur manipulateur qu'elle.
+- Démon central : Effroi (la peur).
 - Fichier : Roadmap_0_La_Peur.md
 
-## R1 - Le Controle [ECRITE - W5 ; jouable]
-- Bornes : diner du 2 dec 1984 -> naissance d'Autorite (~sept 1985).
-- Jalons : contrat et alliance ; mise en place du plan ; Tank scelle (mi-1985) ; naissance d'Autorite.
-- Demon central : Controle (Makima).
+## R1 - Le Contrôle [ÉCRITE - W5 ; jouable]
+- Bornes : dîner du 2 déc 1984 -> naissance d'Autorité (~sept 1985).
+- Jalons : contrat et alliance ; mise en place du plan ; Tank scellé (mi-1985) ; naissance d'Autorité.
+- Démon central : Contrôle (Makima).
 - Fichier : Roadmap_1_Le_Controle.md
 
-## R2 - Le Flingue [ECRITE - W3 ; jouable]
-- Bornes : naissance d'Autorite -> hybridation de Kishibe (1990).
-- Jalons : Reze achetee (1988) ; fragments de Flingue obtenus (25%, 1989) ; defection de Flingue ; Kishibe hybride (1990).
-- Demon central : Flingue.
+## R2 - Le Flingue [ÉCRITE - W3 ; jouable]
+- Bornes : naissance d'Autorité -> hybridation de Kishibe (1990).
+- Jalons : Reze achetée (1988) ; fragments de Flingue obtenus (25%, 1989) ; défection de Flingue ; Kishibe hybridé (1990).
+- Démon central : Flingue.
 - Fichier : Roadmap_2_Le_Flingue.md
 
-## R3 - L'Autorite [ECRITE - W1 ; jouable]
-- Bornes : arrivee d'Aki a la Division 2 (1990, 15 ans) -> recrutement de Denji (~1997, 18 ans).
-- Jalons : huis clos de la revelation (1990, Aki et Himeno) ; le Concombre repere Pochita et se fait tuer (1994) ; doctrine de Nayuta adoptee (satisfaire le gamin plutot que le demon - laisser l'hybridation advenir) ; doctrine de l'obeissance ponderee ; Division 4 planifiee (1994) ; Power recrutee sous ultimatum (1996, affaire Miaouche - dette Chauve-Souris posee) ; massacre de Denji par le Zombie de Mort et hybridation de Chainsaw Man (~1997) ; creation de la Division 4 et recrutement (Nayuta en ancre emotionnelle : chien, puis grand frere) ; retournement du Zombie ; conversation pere-fille (tout finit par se savoir).
-- Demon central : Autorite (Nayuta).
+## R3 - L'Autorité [ÉCRITE - W1 ; jouable]
+- Bornes : arrivée d'Aki à la Division 2 (1990, 15 ans) -> recrutement de Denji (~1997, 18 ans).
+- Jalons : huis clos de la révélation (1990, Aki et Himeno) ; le Concombre repère Pochita et se fait tuer (1994) ; doctrine de Nayuta adoptée (satisfaire le gamin plutôt que le démon - laisser l'hybridation advenir) ; doctrine de l'obéissance pondérée ; Division 4 planifiée (1994) ; Power recrutée sous ultimatum (1996, affaire Miaouche - dette Chauve-Souris posée) ; massacre de Denji par le Zombie de Mort et hybridation de Chainsaw Man (~1997) ; création de la Division 4 et recrutement (Nayuta en ancre émotionnelle : chien, puis grand frère) ; retournement du Zombie ; conversation père-fille (tout finit par se savoir).
+- Démon central : Autorité (Nayuta).
 - Fichier : Roadmap_3_L_Autorite.md
 
-## R4 - La Tronconneuse [ECRITE - W1 ; jouable]
-- Bornes : Katana PLACE chez les yakuza (~1997, dans la foulee de la conversation pere-fille) -> Makoto arrache le coeur de Tetsuo a main nue et reprend Katana.
-- Jalons : placement de Katana chez la branche de Tetsuo (hybridation par Makoto en personne ; serment : service et silence contre l'arme et la survie ; doctrine des opportunites) ; Division 4 au feu, offre a Beam et Princi ; test du duo (mort de la paire Chauve-Souris / Sangsue, dette de Power soldee au rabais) ; mission Eternite (renegat-ne de la lignee de Vieillesse, execute par Denji) ; l'interlude ; attaque de Guerre (mort d'Himeno, d'Arai et des trois anonymes ; Division 1 reduite a quelques veterans) ; deuil orchestre (premiere lecon de la doctrine de la perte) ; raid, duel du train et reprise de Katana.
-- Demon central : Tronconneuse (Chainsaw Man).
+## R4 - La Tronçonneuse [ÉCRITE - W1 ; jouable]
+- Bornes : Katana PLACÉ chez les yakuza (~1997, dans la foulée de la conversation père-fille) -> Makoto arrache le cœur de Tetsuo à main nue et reprend Katana.
+- Jalons : placement de Katana chez la branche de Tetsuo (hybridation par Makoto en personne ; serment : service et silence contre l'arme et la survie ; doctrine des opportunités) ; Division 4 au feu, offre à Beam et Princi ; test du duo (mort de la paire Chauve-Souris / Sangsue, dette de Power soldée au rabais) ; mission Éternité (renégat-né de la lignée de Vieillesse, exécuté par Denji) ; l'interlude ; attaque de Guerre (mort d'Himeno, d'Arai et des trois anonymes ; Division 1 réduite à quelques vétérans) ; deuil orchestré (première leçon de la doctrine de la perte) ; raid, duel du train et reprise de Katana.
+- Démon central : Tronçonneuse (Chainsaw Man).
 - Fichier : Roadmap_4_La_Tronconneuse.md
 
-## R5 - La Bombe [ECRITE - W1 ; jouable]
-- Bornes : fuite organisee vers l'appareil sovietique ("le coeur de Chainsaw Man est a Tokyo") -> Reze integree a la SP (cles du penthouse remises au jeune couple ; la maison aux chambres en plus prise par le couple regnant).
-- Jalons : la fuite ; briefing de Reze par la ligne tissee (clause d'intervention jamais detonee) ; massacre de la 2e division ; bataille planetaire (Typhon deploye puis detruit par Denji et Beam ; ~5% preleves en amont par Makoto) ; MEDIATISATION mondiale (heros public "Chainsaw Man" ; ascension de Makima acceleree) ; refus de Reseau puis faille de Nayuta -> operation Serpent (Reze liberee, contrat de Guerre dissous) ; integration a la Division 4, couple avec Denji ; REVELATIONS a Denji (trois exclusions : Cavalieres, Effacement, plan global).
-- Resolus au build : le massacre de la 2e division est TOLERE par Makoto (pas commande, pas subi) ; division DISSOUTE, zero survivant - Furuno et Kato tombes ; dernier membre historique : Aki, deja en Division 4.
-- Demon central : Bombe (Reze).
+## R5 - La Bombe [ÉCRITE - W1 ; jouable]
+- Bornes : fuite organisée vers l'appareil soviétique ("le cœur de Chainsaw Man est à Tokyo") -> Reze intégrée à la SP (clés du penthouse remises au jeune couple ; la maison aux chambres en plus prise par le couple régnant).
+- Jalons : la fuite ; briefing de Reze par la ligne tissée (clause d'intervention jamais détonée) ; massacre de la 2e division ; bataille planétaire (Typhon déployé puis détruit par Denji et Beam ; ~5% prélevés en amont par Makoto) ; MÉDIATISATION mondiale (héros public "Chainsaw Man" ; ascension de Makima accélérée) ; refus de Réseau puis faille de Nayuta -> opération Serpent (Reze libérée, contrat de Guerre dissous) ; intégration à la Division 4, couple avec Denji ; RÉVÉLATIONS à Denji (trois exclusions : Cavalières, Effacement, plan global).
+- Résolus au build : le massacre de la 2e division est TOLÉRÉ par Makoto (pas commandé, pas subi) ; division DISSOUTE, zéro survivant - Furuno et Kato tombés ; dernier membre historique : Aki, déjà en Division 4.
+- Démon central : Bombe (Reze).
 - Fichier : Roadmap_5_La_Bombe.md
 
-## R6 - La Guerre [ECRITE - W1 ; jouable]
-- Bornes : arrivee des Assassins Internationaux (hiver 1997-1998) -> mort de Guerre a Washington ; chasse aux berceaux lancee.
-- Jalons : dispositif du trone (Denji en appat INFORME ; garde rapprochee volontaire ; Ange reintegre ; demission de Kobeni - briefee au niveau de Denji, l'offre du coeur du Katana refusee) ; bataille de Tokyo (Kishibe et Quanxi font le menage - de nouveau binomes, rivalite pure ; le harem de Quanxi fauche par les fauves ; le Chien soumis par Nayuta) ; frappe de Poupee (clous de Malediction, pacte d'Enfer, pacte de Tenebres jamais consomme) ; descente du Roi en Enfer avec Nayuta - desamorcage de Tenebres (menace de reinitialisation) ; PURGE mondiale de Poupee (premiere activation coordonnee de l'arsenal ; Lance abat le corps principal ; deux heures) ; l'apogee du Bureau ovale (president eviscere, presse massacree) ; DETONATION du sceau de Tank (mue en bras, tabou de la mere brise) ; mise a mort (quatre hybrides + Power debridee ; Pochita prend le dessus, stoppe par Denji ; baliste sur l'helico de presse ; calin de Nayuta - "a bientot, petite soeur" ; Aki executeur ; "Asa" en dernier souffle) ; cloture (Eglise de Chainsaw Man ; Kishibe devore la prothese - cle Flingue 91/9 ; Tank ramasse comprime ; chasse aux berceaux).
-- Resolus au build : sort du Predateur et de sa meute - les huit fauves decimes (sept morts, le Chien capture par Nayuta), le Chasseur se fait oublier ; prothese-Flingue (52%) DEVOREE par Kishibe a la mort de Guerre -> le Gardien a 91% ; les 9% de douilles renegates traquables sans difficulte.
-- Demon central : Guerre. LE CONFLIT EST TOMBE ICI.
+## R6 - La Guerre [ÉCRITE - W1 ; jouable]
+- Bornes : arrivée des Assassins Internationaux (hiver 1997-1998) -> mort de Guerre à Washington ; chasse aux berceaux lancée.
+- Jalons : dispositif du trône (Denji en appât INFORMÉ ; garde rapprochée volontaire ; Ange réintégré ; démission de Kobeni - briefée au niveau de Denji, l'offre du cœur du Katana refusée) ; bataille de Tokyo (Kishibe et Quanxi font le ménage - de nouveau binômes, rivalité pure ; le harem de Quanxi fauché par les fauves ; le Chien soumis par Nayuta) ; frappe de Poupée (clous de Malédiction, pacte d'Enfer, pacte de Ténèbres jamais consommé) ; descente du Roi en Enfer avec Nayuta - désamorçage de Ténèbres (menace de réinitialisation) ; PURGE mondiale de Poupée (première activation coordonnée de l'arsenal ; Lance abat le corps principal ; deux heures) ; l'apogée du Bureau ovale (président éviscéré, presse massacrée) ; DÉTONATION du sceau de Tank (mué en bras, tabou de la mère brisé) ; mise à mort (quatre hybrides + Power débridée ; Pochita prend le dessus, stoppé par Denji ; baliste sur l'hélico de presse ; câlin de Nayuta - "à bientôt, petite sœur" ; Aki exécuteur ; "Asa" en dernier souffle) ; clôture (Église de Chainsaw Man ; Kishibe dévore la prothèse - clé Flingue 91/9 ; Tank ramassé comprimé ; chasse aux berceaux).
+- Résolus au build : sort du Prédateur et de sa meute - les huit fauves décimés (sept morts, le Chien capturé par Nayuta), le Chasseur se fait oublier ; prothèse-Flingue (52%) DÉVORÉE par Kishibe à la mort de Guerre -> le Gardien à 91% ; les 9% de douilles renégates traquables sans difficulté.
+- Démon central : Guerre. LE CONFLIT EST TOMBÉ ICI.
 - Fichier : Roadmap_6_La_Guerre.md
 
-## R7 - La Famine [ECRITE - W3 ; jouable - PEAUFINEE]
-- Bornes : reincarnation de Guerre localisee (janvier 1998) -> le choix de Kiga (fevrier-mars 1999).
-- Jalons : le berceau (Asa localisee par chasse CIBLEE au Kosovo - appel d'un ministre yougoslave ; rachetee - couverture de veuf d'Aki ; adoptee, egale de Nayuta ; Aki DEMANDE et recoit l'hybridation au Katana, gel a 23 ans) ; la guetteuse (Famine reperee vite, laissee regarder des semaines) ; la negociation (ultimatum a commutateur inverse - la crise repose sur des engeances AUTONOMES ; voix au chapitre, conditions acceptees ; crise desarmee ; execution a sa demande, de la main du Roi) ; la rentree (avril 1998 : Denji et Reze en 1e annee de FAC - vie normale + couverture ; Kiga localisee sur signalement de Fievre, enlevee par Ange - son gardien de fait des le vol retour -, integree d'emblee) ; le rangement (Tank descelle et jure a Asa ; Flingue COMPLET - Kishibe 100 ; 5e division levee, Quanxi en tete ; creance d'epouse soldee - donnant-donnant Quanxi-Power ; Makima cheffe de la SP de Tokyo) ; l'Eglise (enquete, couches demelees ; tracts codes - lettres opaques a contre-jour, recul d'un cran - demontes par Nayuta ; piste dans la promo de Denji jusqu'a Kenji, pris pour un simple adepte) ; la revelation (TOTALE - trois exclusions levees ; manifestation de Pochita - muet, dialogue par questions fermees -, tensions puis approbation ; doctrine Pochita CONFIRMEE) ; le vide (Neant demasque, semi-demon, abattu par Denji et Reze, Makoto assistant sans intervenir ; le Feu nomme par le mourant, introuvable ; transformation de masse jamais tiree ; coda : Barem Bridge infiltre l'Eglise en taupe) ; le choix de Kiga (rester - decision reflechie).
-- Resolus au build : executants du climax ; extractions (rachat au Kosovo / enlevement a Mogadiscio) ; conditions de Famine ; principe des gardiens des Cavalieres (Ange pour Kiga, avril 1998) ; doctrine Pochita revisee - ACQUISE en ouverture d'arc, brandie a la negociation, confirmee a l'automne ; code des tracts nihilistes ; taupe Barem en coda ; donnant-donnant Quanxi-Power ; extension genealogique (maladies vegetales -> Famine ; ravageurs -> lignee Predateur, allegeance Famine puis Kiga).
-- Demon central : Famine.
+## R7 - La Famine [ÉCRITE - W3 ; jouable - PEAUFINÉE]
+- Bornes : réincarnation de Guerre localisée (janvier 1998) -> le choix de Kiga (février-mars 1999).
+- Jalons : le berceau (Asa localisée par chasse CIBLÉE au Kosovo - appel d'un ministre yougoslave ; rachetée - couverture de veuf d'Aki ; adoptée, égale de Nayuta ; Aki DEMANDE et reçoit l'hybridation au Katana, gel à 23 ans) ; la guetteuse (Famine repérée vite, laissée regarder des semaines) ; la négociation (ultimatum à commutateur inversé - la crise repose sur des engeances AUTONOMES ; voix au chapitre, conditions acceptées ; crise désarmée ; exécution à sa demande, de la main du Roi) ; la rentrée (avril 1998 : Denji et Reze en 1e année de FAC - vie normale + couverture ; Kiga localisée sur signalement de Fièvre, enlevée par Ange - son gardien de fait dès le vol retour -, intégrée d'emblée) ; le rangement (Tank descellé et juré à Asa ; Flingue COMPLET - Kishibe 100 ; 5e division levée, Quanxi en tête ; créance d'épouse soldée - donnant-donnant Quanxi-Power ; Makima cheffe de la SP de Tokyo) ; l'Église (enquête, couches démêlées ; tracts codés - lettres opaques à contre-jour, recul d'un cran - démontés par Nayuta ; piste dans la promo de Denji jusqu'à Kenji, pris pour un simple adepte) ; la révélation (TOTALE - trois exclusions levées ; manifestation de Pochita - muet, dialogue par questions fermées -, tensions puis approbation ; doctrine Pochita CONFIRMÉE) ; le vide (Néant démasqué, semi-démon, abattu par Denji et Reze, Makoto assistant sans intervenir ; le Feu nommé par le mourant, introuvable ; transformation de masse jamais tirée ; coda : Barem Bridge infiltre l'Église en taupe) ; le choix de Kiga (rester - décision réfléchie).
+- Résolus au build : exécutants du climax ; extractions (rachat au Kosovo / enlèvement à Mogadiscio) ; conditions de Famine ; principe des gardiens des Cavalières (Ange pour Kiga, avril 1998) ; doctrine Pochita révisée - ACQUISE en ouverture d'arc, brandie à la négociation, confirmée à l'automne ; code des tracts nihilistes ; taupe Barem en coda ; donnant-donnant Quanxi-Power ; extension généalogique (maladies végétales -> Famine ; ravageurs -> lignée Prédateur, allégeance Famine puis Kiga).
+- Démon central : Famine.
 - Fichier : Roadmap_7_La_Famine.md
 
-## R8 - [DICTE EN GRANDES LIGNES - A BUILDER]
-- Demon central : Mort.
-- Demarre en avril 1999 : rentree de Denji et Reze en 2e annee de fac (Denji 20 ans, Reze 21 ; couverture de Reze a poser).
-- Matiere dictee (parquee au journal) : revisite de la Partie 2 canon a notre sauce - Eglise de Chainsaw Man, fac, MORT QUI S'INFILTRE parmi eux ; Mort aux commandes de l'Eglise depuis Washington ; le Feu son pion, introuvable (modalites de cavale et de traque a fixer au build) ; transformation de masse ARMEE - detonation pour quelqu'un d'autre ; retour de Kobeni (hybride pressenti : Tank) ; Barem Bridge, taupe dans l'Eglise, instrument de la traque du Feu ; reincarnation de Mort : horizon R8+.
-- Reste au moins : le plan long contre Mort (l'acculer a choisir sa propre reincarnation comme seule issue viable) et l'achevement du quatuor reforme des Cavalieres.
+## R8 - ROADMAPPÉ (cf. Roadmap_8_La_Mort, W4)
+- Jalons actés : retour de Kobeni, hybridée au Tank (mai 1999) ; Barem numéro deux de l'Église ; Mort incognito à la fac (Shino Sato) ; le nom (fin juin, Cataclysme interrogé) ; le Roy d'effrayeur (mi-juillet : forme véritable, contrat de Ténèbres, Chainsaw-Men et Feu fauchés) ; reddition et mort volontaire de Mort (fin juillet) ; naissance de Yomi à Tokyo, troisième adoption, Kobeni gardienne (mi-août -> fin août 1999).
+- Démon central : Mort.
+- Démarre en avril 1999 : rentrée de Denji et Reze en 2e année de fac (Denji 20 ans, Reze 21 ; couverture de Reze à poser).
+- Matière dictée (parquée au journal) : revisite de la Partie 2 canon à notre sauce - Église de Chainsaw Man, fac, MORT QUI S'INFILTRE parmi eux ; Mort aux commandes de l'Église depuis Washington ; le Feu son pion, introuvable (modalités de cavale et de traque à fixer au build) ; transformation de masse ARMÉE - détonation pour quelqu'un d'autre ; retour de Kobeni (hybride pressenti : Tank) ; Barem Bridge, taupe dans l'Église, instrument de la traque du Feu ; réincarnation de Mort : horizon R8+.
+- Reste au moins : le plan long contre Mort (l'acculer à choisir sa propre réincarnation comme seule issue viable) et l'achèvement du quatuor réformé des Cavalières.
 
-## R9 - [DICTE EN GRANDES LIGNES - A BUILDER]
-- Nature : un TEMPS CALME. Les filles grandissent, jusqu'a ce qu'elles soient TOUTES adultes.
-- Reperes : Nayuta (croissance humaine, nee ~septembre 1985) atteint 18 ans en septembre 2003 ; Asa et Kiga (reincarnees) suivent la croissance acceleree en courbe qui s'aplatit, jusqu'au gel adulte.
-- [A POSER] : perimetre de "toutes" (la reincarnation de Mort en fait-elle partie - ce qui suppose le plan long abouti en R8) ; date du gel adulte des reincarnees (courbe non chiffree au-dela d'un an) ; bornes ; demon central.
+## R9 - [DICTÉ EN GRANDES LIGNES - À BUILDER]
+- Nature : un TEMPS CALME. Les filles grandissent, jusqu'à ce qu'elles soient TOUTES adultes.
+- Repères : Nayuta (croissance humaine, née ~septembre 1985) atteint 18 ans en septembre 2003 ; Asa et Kiga (réincarnées) suivent la croissance accélérée en courbe qui s'aplatit, jusqu'au gel adulte.
+- Tranché au build R8 : Yomi fait partie de « toutes » ; gel adulte à DEUX ANS pour la fratrie réincarnée (Asa hiver 1999-2000, Kiga printemps 2000, Yomi fin d'été 2001) ; borne : les 18 ans de Nayuta (septembre 2003).
+- [À POSER] : démon central.
 
-## R10 - [DICTE EN GRANDES LIGNES - A BUILDER] - le finale
+## R10 - [DICTÉ EN GRANDES LIGNES - À BUILDER] - le finale
 - Nature : en finir avec les DERNIERS REBELLES pour imposer un MONOPOLE MONDIAL.
-- Etat final dicte : le couple regnant se nourrit du controle et de l'equilibre de la peur ; juste en dessous, les filles, REINES TACITES du monde, sous le protectorat des deux demons les plus puissants et calculateurs au monde.
-- [A POSER] : liste des derniers rebelles ; articulation du monopole avec la condition des gardiens des Cavalieres (garde-fous armes si le trone devie de l'equilibre) ; bornes ; demon central.
+- État final dicté : le couple régnant se nourrit du contrôle et de l'équilibre de la peur ; juste en dessous, les filles, REINES TACITES du monde, sous le protectorat des deux démons les plus puissants et calculateurs au monde.
+- [À POSER] : liste des derniers rebelles ; articulation du monopole avec la condition des gardiens des Cavalières (garde-fous armés si le trône dévie de l'équilibre) ; bornes ; démon central.
 
 FIN_ROADMAP_MAKOTO_CHRONOLOGIE

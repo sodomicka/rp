@@ -1,6 +1,6 @@
 # Contrôle
 
-- version : W11
+- version : W12
 
 Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie.
 
@@ -96,5 +96,6 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 | ~1997 (R5 - La Bombe) | L'opération Reze : ses CORBEAUX (ses contrats) sont l'ŒIL du trio de commandement - massacre de la 2e division et bataille planétaire suivis à distance, sans jamais paraître. Le massacre, toléré par le trône, devient son MARCHEPIED : deux massacres de la SP en quelques mois discréditent la direction en place, son ascension vers la TÊTE de l'agence s'accélère. Clôture : elle remet au jeune couple d'hybrides les clés de leur penthouse ; avec Makoto, le couple régnant prend une maison plus grande - il leur faudra bientôt des chambres en plus (Guerre finira par mourir, puis se réincarner). | Ascension vers la tête de la SP accélérée ; l'œil-corbeaux du commandement démontré ; foyer agrandi en prévision des réincarnations. |
 | hiver 1997-1998 (R6 - La Guerre) | Le dispositif anti-Assassins tourne sans elle en première ligne (à Tokyo, ses CHIENS épaulent Nayuta dans la soumission du démon Chien). À Washington, elle suit la MISE À MORT de Guerre depuis l'hélicoptère, avec Makoto, Nayuta et Aki ; le trio royal descend achever la Cavalière - l'honneur laissé à Aki. Clôture : elle contacte IMMÉDIATEMENT des hôpitaux à travers le monde, pendant que Makoto exploite son réseau - la CHASSE AUX BERCEAUX est lancée : une gamine aux yeux rouges cerclés de jaune va naître quelque part. | Une Cavalière insoumise de moins ; la chasse aux berceaux ouverte - la maison aux chambres en plus va servir. |
 | 1998 (R7 - La Famine) | SOMMET ATTEINT : cheffe de la Sécurité Publique de Tokyo - l'ascension accélérée par les massacres de ~1997 aboutit ; l'agence entière passe désormais par elle (5e division levée, cf. Factions/Securite_Publique). MÈRE DE TROIS FILLES : l'appel du ministre kosovar lui livre Asa (extraction montée par Aki), la reddition négociée de Famine accouche de Kiga - deux adoptées, élevées en démones comme Nayuta avant elles. | Le sommet humain conquis ; le foyer triplé - la Reine des démons dirige l'agence anti-démons du Japon en y élevant deux Cavalières. |
+| 1999 (R8 - La Mort) | Présente à la reddition de Mort ; NOMME Yomi, comme elle avait nommé Nayuta. Doit attendre pour la toucher, comme tout le monde : pas encore d'immortalité conceptuelle (liée au monopole, à trancher en R10) | Mère de quatre filles ; le quatuor réformé complet |
 
 FIN_WIKI_PERSONNAGES_CONTROLE

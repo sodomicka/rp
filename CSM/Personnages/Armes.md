@@ -1,113 +1,115 @@
 # Armes
 
-- version : W4
+- version : W5
 
-Entites [CANON + DIVERGENCE RP]. Fiche GROUPEE et NEUTRE : decrit les quatre dernieres armes anciennes (Espadon, Lance-flammes, Fouet, Lance) telles qu'elles existent dans le monde, independamment d'une partie. En canon, ces quatre hybrides se designeront plus tard "The Weapons" (P2, hors perimetre). Les armes mineures des sous-lignees convoquees en R6 (Surin, Corde) vivent en section dediee, infra.
+Entités [CANON + DIVERGENCE RP]. Fiche GROUPÉE et NEUTRE : décrit les quatre dernières armes anciennes (Espadon, Lance-flammes, Fouet, Lance) telles qu'elles existent dans le monde, indépendamment d'une partie. En canon, ces quatre hybrides se désigneront plus tard "The Weapons" (P2, hors périmètre). Les armes mineures des sous-lignées convoquées en R6 (Surin, Corde) vivent en section dédiée, infra.
 
-## Identite commune
+## Identité commune
 - Membres : Espadon, Lance-flammes, Fouet, Lance.
-- Nature : demons-armes, engeances de Guerre ; quatre des sept armes anciennes (avec Katana, Bombe, Arc). [CANON + DIVERGENCE RP]
-- Allegeance : non-detonantes, donc fideles au trone d'Effroi - seules les detonantes (Bombe, Flingue, Tank) repondent a Guerre. [DIVERGENCE RP]
-- Statut 1984 : tous quatre HYBRIDES, actifs sur Terre, en traque de Tronconneuse pour le compte du trone, aux cotes de Quanxi (Arc). [DIVERGENCE RP]
-- Statut hiver 1997-1998 : DECLENCHES tous quatre pour la purge mondiale de Poupee (cf. Trajectoire). [DIVERGENCE RP]
+- Nature : démons-armes, engeances de Guerre ; quatre des sept armes anciennes (avec Katana, Bombe, Arc). [CANON + DIVERGENCE RP]
+- Allégeance : non-détonantes, donc fidèles au trône d'Effroi - seules les détonantes (Bombe, Flingue, Tank) répondent à Guerre. [DIVERGENCE RP]
+- Statut 1984 : tous quatre HYBRIDES, actifs sur Terre, en traque de Tronçonneuse pour le compte du trône, aux côtés de Quanxi (Arc). [DIVERGENCE RP]
+- Statut hiver 1997-1998 : DÉCLENCHÉS tous quatre pour la purge mondiale de Poupée (cf. Trajectoire). [DIVERGENCE RP]
 
-## Place dans la lignee
-- Engeances de Guerre, comme TOUTES les armes : la lignee entiere des demons-armes descend de la Cavaliere. [DIVERGENCE RP]
-- Membres des sept armes anciennes, distinctes de Flingue et Tank (engeances recentes et choyees de Guerre). [CANON + DIVERGENCE RP]
-- Naissances indexees sur l'invention de l'arme, etagees de la prehistoire au Moyen Age (detail par entite). [IMPLICITE]
-- Lieu de naissance (Terre ou Enfer) : depend de la datation ouverte du demon Enfer. [IMPLICITE]
+## Place dans la lignée
+- Engeances de Guerre, comme TOUTES les armes : la lignée entière des démons-armes descend de la Cavalière. [DIVERGENCE RP]
+- Membres des sept armes anciennes, distinctes de Flingue et Tank (engeances récentes et choyées de Guerre). [CANON + DIVERGENCE RP]
+- Naissances indexées sur l'invention de l'arme, étagées de la préhistoire au Moyen Âge (détail par entité). [IMPLICITE]
+- Lieu de naissance (Terre ou Enfer) : dépend de la datation ouverte du démon Enfer. [IMPLICITE]
 
 ## Hybridation
-- Les quatre sont hybrides AVANT le massacre de 1983 : ils y combattent deja fusionnes, aux cotes de Quanxi - cinq hybrides du trone dans une bataille d'Enfer. [DIVERGENCE RP]
-- Apres leur fusion, les seuls demons-armes encore purs sont Katana, Bombe, Flingue et Tank. [DIVERGENCE RP]
-- Rattachement presume au programme d'hybridation d'Effroi, dont Quanxi est la premiere. [IMPLICITE]
-- Contenu du programme ACTE : Effroi implante le coeur d'un demon-arme trop bete pour servir seul mais puissant, dans un humain qui lui jure allegeance eternelle ; l'hote fournit l'intelligence qui manque au demon. Les hotes sont mis dans la CONFIDENCE de l'identite Makoto a leur hybridation - toutes de la main d'Effroi (cf. Personnages/Effroi, Identite Makoto). Dates precises et histoires des hotes : differees, sauf Fouet et Lance (cf. infra). [DIVERGENCE RP]
-- Reperes sur les hotes : Espadon = Miri Sugo, Lance-flammes = Barem Bridge [CANON] ; Fouet = une combattante de la Premiere Guerre mondiale, hybridee en 1917 (precise l'hote anonyme canon) [CANON + DIVERGENCE RP] ; Lance = Volodimir, guerrier roumain hybride en 1480 (pose au patch R6 ; hote anonyme en canon - cf. entree Lance) [CANON + DIVERGENCE RP].
-- Motif structurel de leur hybridation : leur betise. L'hote humain apporte l'intelligence que le demon n'a pas. [DIVERGENCE RP]
+- Les quatre sont hybrides AVANT le massacre de 1983 : ils y combattent déjà fusionnés, aux côtés de Quanxi - cinq hybrides du trône dans une bataille d'Enfer. [DIVERGENCE RP]
+- Après leur fusion, les seuls démons-armes encore purs sont Katana, Bombe, Flingue et Tank. [DIVERGENCE RP]
+- Rattachement présumé au programme d'hybridation d'Effroi, dont Quanxi est la première. [IMPLICITE]
+- Contenu du programme ACTÉ : Effroi implante le cœur d'un démon-arme trop bête pour servir seul mais puissant, dans un humain qui lui jure allégeance éternelle ; l'hôte fournit l'intelligence qui manque au démon. Les hôtes sont mis dans la CONFIDENCE de l'identité Makoto à leur hybridation - toutes de la main d'Effroi (cf. Personnages/Effroi, Identité Makoto). Dates précises et histoires des hôtes : différées, sauf Fouet et Lance (cf. infra). [DIVERGENCE RP]
+- Repères sur les hôtes : Espadon = Miri Sugo, Lance-flammes = Barem Bridge [CANON] ; Fouet = une combattante de la Première Guerre mondiale, hybridée en 1917 (précise l'hôte anonyme canon) [CANON + DIVERGENCE RP] ; Lance = Volodimir, guerrier roumain hybridé en 1480 (posé au patch R6 ; hôte anonyme en canon - cf. entrée Lance) [CANON + DIVERGENCE RP].
+- Motif structurel de leur hybridation : leur bêtise. L'hôte humain apporte l'intelligence que le démon n'a pas. [DIVERGENCE RP]
 
-## Immortalite
-- Demons : cycle standard - tue sur Terre, renaissance en Enfer ; tue en Enfer, renaissance sur Terre. [CANON]
-- Hybrides : soustraits au cycle mort-renaissance tant que la fusion tient ; recuperation totale par activation du declencheur, sans sang ; vieillissement quasi nul. [CANON + DIVERGENCE RP]
-- Memoire/allegeance a la reincarnation : sans objet tant que la fusion tient. [IMPLICITE]
+## Immortalité
+- Démons : cycle standard - tué sur Terre, renaissance en Enfer ; tué en Enfer, renaissance sur Terre. [CANON]
+- Hybrides : soustraits au cycle mort-renaissance tant que la fusion tient ; récupération totale par activation du déclencheur, sans sang ; vieillissement quasi nul. [CANON + DIVERGENCE RP]
+- Mémoire/allégeance à la réincarnation : sans objet tant que la fusion tient. [IMPLICITE]
 
 ## Psychologie (commune)
-- Des idiots purs : demons integralement axes sur les degats, zero strategie, zero ambition. [DIVERGENCE RP]
-- Toute leur puissance est dediee a la force physique, rien a l'intelligence. [DIVERGENCE RP]
-- C'est ce deficit qui motive leur hybridation : l'hote humain fournit le cerveau. Detail : histoire pre-1984. [DIVERGENCE RP]
+- Des idiots purs : démons intégralement axés sur les dégâts, zéro stratégie, zéro ambition. [DIVERGENCE RP]
+- Toute leur puissance est dédiée à la force physique, rien à l'intelligence. [DIVERGENCE RP]
+- C'est ce déficit qui motive leur hybridation : l'hôte humain fournit le cerveau. Détail : histoire pré-1984. [DIVERGENCE RP]
 
 ## Les quatre
 
 ### Espadon
-- Concept : la peur des epees longues. Miroir occidental de Katana.
+- Concept : la peur des épées longues. Miroir occidental de Katana.
 - Genre : masculin. [DIVERGENCE RP]
-- Naissance : ere medievale, essor des epees longues. [IMPLICITE]
-- Forme veritable : humanoide elance en chair cuirassee sombre, lames demesurees prolongeant les avant-bras, deux lames craniennes recourbees vers l'arriere en cornes. Le duelliste epure, la ou Katana est le herisse. [DIVERGENCE RP - le demon n'est jamais montre en canon ; design valide par le worldbuilder]
-- Forme hybride : declencheur = degainage sous la main droite ; lames jumelles aux avant-bras, deux longues lames craniennes vers l'arriere. [CANON]
-- Profil de combat : duelliste de contact, coupes decisives. [CANON via l'hybride]
-- Nutrition : stable - l'imaginaire des lames ne s'eteint pas. [DIVERGENCE RP]
+- Naissance : ère médiévale, essor des épées longues. [IMPLICITE]
+- Forme véritable : humanoïde élancé en chair cuirassée sombre, lames démesurées prolongeant les avant-bras, deux lames crâniennes recourbées vers l'arrière en cornes. Le duelliste épuré, là où Katana est le hérissé. [DIVERGENCE RP - le démon n'est jamais montré en canon ; design validé par le worldbuilder]
+- Forme hybride : déclencheur = dégainage sous la main droite ; lames jumelles aux avant-bras, deux longues lames crâniennes vers l'arrière. [CANON]
+- Profil de combat : duelliste de contact, coupes décisives. [CANON via l'hybride]
+- Nutrition : stable - l'imaginaire des lames ne s'éteint pas. [DIVERGENCE RP]
 
 ### Lance-flammes
-- Concept : la peur des armes incendiaires projetees - du feu gregeois au lance-flammes moderne, qui lui donne son nom actuel. [DIVERGENCE RP sur l'etendue du concept]
+- Concept : la peur des armes incendiaires projetées - du feu grégeois au lance-flammes moderne, qui lui donne son nom actuel. [DIVERGENCE RP sur l'étendue du concept]
 - Genre : masculin. [DIVERGENCE RP]
-- Naissance : posterieure aux premieres armes incendiaires projetees (feu gregeois, VIIe siecle). Ancienne malgre son nom moderne. [IMPLICITE]
-- Forme veritable : trapu, tete-bonbonne grillagee suintant le carburant, bras en tuyeres, chair de caoutchouc calcine. [DIVERGENCE RP - design valide par le worldbuilder]
-- Forme hybride : declencheur = valve a la molaire ; bras-lance-flammes, tete en reservoir de carburant. [CANON]
-- Profil de combat : controle de zone, torrents de flammes continus. [CANON via l'hybride]
-- Nutrition : le mieux nourri des quatre - l'imagerie des guerres du XXe siecle a durablement installe la peur de l'arme incendiaire. [DIVERGENCE RP]
+- Naissance : postérieure aux premières armes incendiaires projetées (feu grégeois, VIIe siècle). Ancienne malgré son nom moderne. [IMPLICITE]
+- Forme véritable : trapu, tête-bonbonne grillagée suintant le carburant, bras en tuyères, chair de caoutchouc calciné. [DIVERGENCE RP - design validé par le worldbuilder]
+- Forme hybride : déclencheur = valve à la molaire ; bras-lance-flammes, tête en réservoir de carburant. [CANON]
+- Profil de combat : contrôle de zone, torrents de flammes continus. [CANON via l'hybride]
+- Nutrition : le mieux nourri des quatre - l'imagerie des guerres du XXe siècle a durablement installé la peur de l'arme incendiaire. [DIVERGENCE RP]
 
 ### Fouet
 - Concept : la peur du fouet.
-- Genre : feminin. [DIVERGENCE RP]
-- Naissance : antiquite - le fouet-chatiment est immemorial. [IMPLICITE]
-- Hote (hybridation, 1917) : une combattante de la Premiere Guerre mondiale - la plus jeune hybridation des quatre. [DIVERGENCE RP + CANON]
-- Forme veritable : silhouette feminine longiligne, corps tresse comme du cuir, lanieres organiques deployees depuis le crane et la nuque. [DIVERGENCE RP - design valide par le worldbuilder]
-- Forme hybride : declenchement gestuel (mime du claquement) ; fouet deploye depuis la tete. [CANON]
-- Profil de combat : allonge et polyvalence - le fouet couvre l'attaque et la defense. [CANON via l'hybride]
-- Nutrition : maigre mais jamais eteinte - la memoire du chatiment corporel. [DIVERGENCE RP]
+- Genre : féminin. [DIVERGENCE RP]
+- Naissance : antiquité - le fouet-châtiment est immémorial. [IMPLICITE]
+- Hôte (hybridation, 1917) : une combattante de la Première Guerre mondiale - la plus jeune hybridation des quatre. [DIVERGENCE RP + CANON]
+- Forme véritable : silhouette féminine longiligne, corps tressé comme du cuir, lanières organiques déployées depuis le crâne et la nuque. [DIVERGENCE RP - design validé par le worldbuilder]
+- Forme hybride : déclenchement gestuel (mime du claquement) ; fouet déployé depuis la tête. [CANON]
+- Profil de combat : allonge et polyvalence - le fouet couvre l'attaque et la défense. [CANON via l'hybride]
+- Nutrition : maigre mais jamais éteinte - la mémoire du châtiment corporel. [DIVERGENCE RP]
 
 ### Lance
 - Concept : la peur de la lance.
 - Genre : masculin. [DIVERGENCE RP]
-- Naissance : prehistoire - parmi les doyennes de l'arsenal, avec Arc. [IMPLICITE]
-- Hote (hybridation, 1480) : VOLODIMIR - guerrier roumain, repere par Makoto lors des Guerres ottomanes et hybride en 1480. Apparence (gelee a l'age adulte) : homme assez grand, pas specialement muscle, cheveux blonds courts, lunettes, petit bouc. Territoire attitre : l'EUROPE - son terrain de chasse permanent, d'ou sa presence en URSS a l'hiver 1997-1998. [CANON sur l'apparence de l'hybride, hote anonyme en canon ; DIVERGENCE RP - identite, datation et territoire poses au patch R6]
-- Forme veritable : massif, tete-enclume, bras plaques d'armure sombre, hampes extraites de sa propre chair. [DIVERGENCE RP - design valide par le worldbuilder]
-- Forme hybride : declencheur = lance tiree de la nuque ; tete en enclume, bras cuirasses, generation de lances depuis le corps. [CANON]
+- Naissance : préhistoire - parmi les doyennes de l'arsenal, avec Arc. [IMPLICITE]
+- Hôte (hybridation, 1480) : VOLODIMIR - guerrier roumain, repéré par Makoto lors des Guerres ottomanes et hybridé en 1480. Apparence (gelée à l'âge adulte) : homme assez grand, pas spécialement musclé, cheveux blonds courts, lunettes, petit bouc. Territoire attitré : l'EUROPE - son terrain de chasse permanent, d'où sa présence en URSS à l'hiver 1997-1998. [CANON sur l'apparence de l'hybride, hôte anonyme en canon ; DIVERGENCE RP - identité, datation et territoire posés au patch R6]
+- Forme véritable : massif, tête-enclume, bras plaqués d'armure sombre, hampes extraites de sa propre chair. [DIVERGENCE RP - design validé par le worldbuilder]
+- Forme hybride : déclencheur = lance tirée de la nuque ; tête en enclume, bras cuirassés, génération de lances depuis le corps. [CANON]
 - Profil de combat : frappe directe, simple, perforante. [CANON via l'hybride]
 - Nutrition : maigre mais stable - l'arme la plus universelle de l'histoire humaine garde une trace dans tous les imaginaires. [DIVERGENCE RP]
 
-## Sous-lignees convoquees (armes mineures, R6)
-Les armes engendrent a leur tour (sous-lignees actees au build R6 ; la lignee n'est pas l'allegeance) - deux armes mineures convoquees par les contrats du trio americain des Assassins Internationaux. Manifestation : le coup porte a main vide MATERIALISE l'arme - meme signature que les contrats du trio vaudou. Les contrats sont morts avec le trio (hiver 1997-1998). cf. Systemes/Genealogie, Personnages/Vaudous et Personnages/Assassins_Internationaux.
-- Surin - demon du surin, la lame improvisee ; engeance de MACHETTE. [DIVERGENCE RP - OC]
-- Corde - demon de la corde, la strangulation discrete de l'assassin ; engeance d'AIGUILLE (sa deuxieme avec Poupee). [DIVERGENCE RP - OC]
+## Sous-lignées convoquées (armes mineures, R6)
+Les armes engendrent à leur tour (sous-lignées actées au build R6 ; la lignée n'est pas l'allégeance) - deux armes mineures convoquées par les contrats du trio américain des Assassins Internationaux. Manifestation : le coup porté à main vide MATÉRIALISE l'arme - même signature que les contrats du trio vaudou. Les contrats sont morts avec le trio (hiver 1997-1998). cf. Systemes/Genealogie, Personnages/Vaudous et Personnages/Assassins_Internationaux.
+- Surin - démon du surin, la lame improvisée ; engeance de MACHETTE. [DIVERGENCE RP - OC]
+- Corde - démon de la corde, la strangulation discrète de l'assassin ; engeance d'AIGUILLE (sa deuxième avec Poupée). [DIVERGENCE RP - OC]
 
 ## Pouvoirs communs
-- Capacites demoniaques standard : contrats contre un prix, regeneration par le sang. [CANON]
-- Scaling : nutrition modeste et stable, au niveau du reste de l'arsenal (hors Flingue) ; puissance integralement convertie en force brute. [DIVERGENCE RP]
+- Capacités démoniaques standard : contrats contre un prix, régénération par le sang. [CANON]
+- Scaling : nutrition modeste et stable, au niveau du reste de l'arsenal (hors Flingue) ; puissance intégralement convertie en force brute. [DIVERGENCE RP]
 
-## Histoire (jusqu'au perimetre)
-- Naissances etagees, de la prehistoire (Lance) au Moyen Age (Espadon), au rythme des inventions humaines. [IMPLICITE]
-- Fideles au trone : comme la majorite de l'arsenal, ils servent Effroi et non le concept dont ils decoulent. [DIVERGENCE RP]
-- Avant le massacre : hybridation des quatre (programme d'Effroi). La plus ancienne posee : Lance / Volodimir (1480) ; la plus jeune : Fouet (1917). Autres dates et hotes : differes (Miri Sugo, Barem Bridge). [DIVERGENCE RP]
-- 1983 - le massacre : presents en HYBRIDES dans l'alliance temporaire du trone et des quatre Cavalieres contre Tronconneuse, en Enfer, aux cotes de Quanxi. [DIVERGENCE RP]
-- 1984 : sur Terre, en traque de Tronconneuse - reduite et en fuite depuis le massacre - aux cotes de Quanxi. Objectif de la traque : recuperer l'arme de dissuasion et l'empecher de servir un autre - ou elle-meme (cf. Tronconneuse) ; volet ACTIF de la chasse. [DIVERGENCE RP]
+## Histoire (jusqu'au périmètre)
+- Naissances étagées, de la préhistoire (Lance) au Moyen Âge (Espadon), au rythme des inventions humaines. [IMPLICITE]
+- Fidèles au trône : comme la majorité de l'arsenal, ils servent Effroi et non le concept dont ils découlent. [DIVERGENCE RP]
+- Avant le massacre : hybridation des quatre (programme d'Effroi). La plus ancienne posée : Lance / Volodimir (1480) ; la plus jeune : Fouet (1917). Autres dates et hôtes : différés (Miri Sugo, Barem Bridge). [DIVERGENCE RP]
+- 1983 - le massacre : présents en HYBRIDES dans l'alliance temporaire du trône et des quatre Cavalières contre Tronçonneuse, en Enfer, aux côtés de Quanxi. [DIVERGENCE RP]
+- 1984 : sur Terre, en traque de Tronçonneuse - réduite et en fuite depuis le massacre - aux côtés de Quanxi. Objectif de la traque : récupérer l'arme de dissuasion et l'empêcher de servir un autre - ou elle-même (cf. Tronçonneuse) ; volet ACTIF de la chasse. [DIVERGENCE RP]
 
 ## Relations de base
-- Effroi / Makoto - leur Roi. Obeissance d'outils : ils executent la traque pour le trone.
-- Guerre / Yoru - le concept dont ils decoulent. Ils ne la servent pas : leur fidelite va au trone. MORTE a l'hiver 1997-1998.
-- Arc / Quanxi - cinquieme traqueuse de 1984, veterane du programme (premiere hybride). Articulation entre la traque et son activite mercenaire : resolue au patch R6 (affectation Chine, 1984 - cf. Personnages/Arc).
-- Katana - pair des sept anciennes, reste entier au Royaume ; hote unique (~1997), repris - a l'arsenal, sans hote.
-- Bombe - paire des sept anciennes, detonante rangee sous Guerre (en facade) ; LIBEREE et ralliee ouvertement (~1997).
-- Surin et Corde - armes mineures de leurs sous-lignees (cf. section dediee) ; elles ont servi le camp de Guerre a l'hiver 1997-1998, sans complicite de leurs concepts d'origine.
-- Tronconneuse / Pochita - adversaire du massacre, proie de la traque de 1984 - traque CLOSE par absorption dans le trone (~1997).
+- Effroi / Makoto - leur Roi. Obéissance d'outils : ils exécutent la traque pour le trône.
+- Guerre / Yoru - le concept dont ils découlent. Ils ne la servent pas : leur fidélité va au trône. MORTE à l'hiver 1997-1998.
+- Arc / Quanxi - cinquième traqueuse de 1984, vétérane du programme (première hybride). Articulation entre la traque et son activité mercenaire : résolue au patch R6 (affectation Chine, 1984 - cf. Personnages/Arc).
+- Katana - pair des sept anciennes, reste entier au Royaume ; hôte unique (~1997), repris - à l'arsenal, sans hôte.
+- Bombe - paire des sept anciennes, détonante rangée sous Guerre (en façade) ; LIBÉRÉE et ralliée ouvertement (~1997).
+- Surin et Corde - armes mineures de leurs sous-lignées (cf. section dédiée) ; elles ont servi le camp de Guerre à l'hiver 1997-1998, sans complicité de leurs concepts d'origine.
+- Tronçonneuse / Pochita - adversaire du massacre, proie de la traque de 1984 - traque CLOSE par absorption dans le trône (~1997).
 
 ## Implications d'arc
-- R6 (La Guerre, hiver 1997-1998) - l'arc consomme le differe de l'hote de Lance : Volodimir (identite, datation 1480, territoire Europe) devait etre en place depuis des siecles pour que la purge dispose d'un executeur deja en URSS. Integre au NOYAU (entree Lance).
+- R6 (La Guerre, hiver 1997-1998) - l'arc consomme le différé de l'hôte de Lance : Volodimir (identité, datation 1480, territoire Europe) devait être en place depuis des siècles pour que la purge dispose d'un exécuteur déjà en URSS. Intégré au NOYAU (entrée Lance).
 
-## Trajectoire datee
-(Alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
+## Trajectoire datée
+(Alimentée À CHAUD, une entrée par arc roadmappé, jamais anticipée. Plafond d'entrées : [À FIXER PAR LE WORLDBUILDER].)
 
-| Date/ere | Entite | Evenement | Delta d'etat |
+| Date/ère | Entité | Événement | Delta d'état |
 |---|---|---|---|
-| hiver 1997-1998 (R6 - La Guerre) | Les quatre | La PURGE de Poupee : les quatre hybrides armes DECLENCHES - le volet hybride active en coordination avec la premiere frappe mondiale de l'arsenal de contrats du Roi. Lance / Volodimir, deja dans le pays (l'Europe est son territoire), ABAT le corps principal de la demone en URSS ; l'ordre aux milliers de contrats rase le reste du reseau en deux heures. | Le corps principal de Poupee tombe sous Lance ; la demone reduite a son dernier receptacle (cf. Assassins_Internationaux). Les quatre demontres en force de frappe mondiale du trone. |
+| hiver 1997-1998 (R6 - La Guerre) | Les quatre | La PURGE de Poupée : les quatre hybrides armes DÉCLENCHÉS - le volet hybride activé en coordination avec la première frappe mondiale de l'arsenal de contrats du Roi. Lance / Volodimir, déjà dans le pays (l'Europe est son territoire), ABAT le corps principal de la démone en URSS ; l'ordre aux milliers de contrats rase le reste du réseau en deux heures. | Le corps principal de Poupée tombe sous Lance ; la démone réduite à son dernier réceptacle (cf. Assassins_Internationaux). Les quatre démontrés en force de frappe mondiale du trône. |
+| hiver 1998-1999 (R7 - La Famine) | Lance-flammes / Barem | TAUPE dans l'Église de Chainsaw Man après la chute de la branche nihiliste, sur ordre de Makoto | Infiltré dans un culte intact en apparence |
+| printemps-été 1999 (R8 - La Mort) | Lance-flammes / Barem | Monte au rang de NUMÉRO DEUX, sous un gourou humain de façade contractant du Feu ; l'affinité pour les flammes l'approche de l'entourage du Feu. Apprend les contractants et que la transformation est armée ; SOUPÇONNE Mort. Grillé dans le chaos de la dernière tentative, exfiltré vivant | Taupe brûlée, vivante ; la source qui a mis le trône sur la piste |
 
 FIN_WIKI_PERSONNAGES_ARMES

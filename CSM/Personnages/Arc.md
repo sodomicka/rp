@@ -1,84 +1,84 @@
 # Arc
 
-- version : W7
+- version : W8
 
-Entite double : un DEMON (Arc) ET l'HYBRIDE qui le porte (Quanxi). La fusion est anterieure au perimetre : l'entite agissante est l'hybride ; toute la fiche vit donc ici, en une page. Fiche NEUTRE. [CANON + DIVERGENCE RP]
+Entité double : un DÉMON (Arc) ET l'HYBRIDE qui le porte (Quanxi). La fusion est antérieure au périmètre : l'entité agissante est l'hybride ; toute la fiche vit donc ici, en une page. Fiche NEUTRE. [CANON + DIVERGENCE RP]
 
-## Identite
-- Noms : Arc (le demon) / Quanxi (l'hybride ; humaine japonaise d'origine - une femme samurai -, affectee a la Chine par Effroi en 1984).
-- Concept incarne : la peur des armes de trait en general - arc, arbalete, fleche. [DIVERGENCE RP - le canon flotte entre Bow Devil et Crossbow Devil ; tranche ici]
-- Nature : demon-arme, engeance de Guerre, l'une des sept armes anciennes - fusionne de longue date a Quanxi, premiere hybride du programme d'Effroi. [CANON + DIVERGENCE RP]
-- Statut : actif via Quanxi ; alignes sur le trone d'Effroi, l'un comme l'autre. Publiquement, Quanxi passe pour une humaine anormalement forte, "la Premiere Devil Hunter" - candidature d'heroine mondiale GRILLEE a l'hiver 1997-1998 (la baliste sur la presse, cf. Trajectoire). Depuis le printemps-ete 1998 : TETE de la 5e division de la Securite Publique. [CANON + DIVERGENCE RP]
+## Identité
+- Noms : Arc (le démon) / Quanxi (l'hybride ; humaine japonaise d'origine - une femme samurai -, affectée à la Chine par Effroi en 1984).
+- Concept incarné : la peur des armes de trait en général - arc, arbalète, flèche. [DIVERGENCE RP - le canon flotte entre Bow Devil et Crossbow Devil ; tranché ici]
+- Nature : démon-arme, engeance de Guerre, l'une des sept armes anciennes - fusionné de longue date à Quanxi, première hybride du programme d'Effroi. [CANON + DIVERGENCE RP]
+- Statut : actif via Quanxi ; alignés sur le trône d'Effroi, l'un comme l'autre. Publiquement, Quanxi passe pour une humaine anormalement forte, "la Première Devil Hunter" - candidature d'héroïne mondiale GRILLÉE à l'hiver 1997-1998 (la baliste sur la presse, cf. Trajectoire). Depuis le printemps-été 1998 : TÊTE de la 5e division de la Sécurité Publique. [CANON + DIVERGENCE RP]
 
-## Le demon
-- Engeance de Guerre, comme toutes les armes ; membre des sept armes anciennes, hors detonantes ; fidele au trone d'Effroi. [DIVERGENCE RP]
-- Naissance : non datee. L'arc etant prehistorique, Arc compte plausiblement parmi les plus anciennes des sept armes. [IMPLICITE]
-- Forme demone : jamais montree en canon. [INCERTAIN - non bloquant : l'entite agit en hybride sur tout le perimetre]
-- Dans la fusion, le demon ne s'exprime pas : l'humaine domine (standard des hybrides). [CANON]
+## Le démon
+- Engeance de Guerre, comme toutes les armes ; membre des sept armes anciennes, hors détonantes ; fidèle au trône d'Effroi. [DIVERGENCE RP]
+- Naissance : non datée. L'arc étant préhistorique, Arc compte plausiblement parmi les plus anciennes des sept armes. [IMPLICITE]
+- Forme démone : jamais montrée en canon. [INCERTAIN - non bloquant : l'entité agit en hybride sur tout le périmètre]
+- Dans la fusion, le démon ne s'exprime pas : l'humaine domine (standard des hybrides). [CANON]
 
 ## L'hybride (Quanxi)
-- Humaine, JAPONAISE d'origine (une femme samurai), AFFECTEE a la Chine par Effroi - le Japon grouille deja de ses propres demons. Titre : "la Premiere Devil Hunter". [CANON sur le titre + DIVERGENCE RP - le canon la dit chinoise]
-- Selectionnee par Effroi : PREMIERE de son programme d'hybridation. Contenu du programme ACTE : Effroi implante le coeur d'un demon-arme trop bete pour servir seul mais puissant, dans un humain qui lui jure allegeance eternelle (savoir exclusif a Effroi). Date de sa fusion : 1215 (ere de Kamakura) - plus de sept siecles de chasse au perimetre : le titre de "Premiere Devil Hunter" est litteral. [DIVERGENCE RP]
-- Allegeance : Effroi - elle-meme, pas seulement son demon. Nature du lien : un MARCHE - chasse eternelle (via Arc) contre l'execution de toutes les basses besognes d'Effroi ; sale caractere, elle ronchonne mais livre. Dans la CONFIDENCE de l'identite Makoto depuis sa fusion, comme tous les hybrides de la main d'Effroi (cf. Personnages/Effroi, Identite Makoto). [DIVERGENCE RP]
-- Parcours : chasseuse a la Securite Publique japonaise au XXe siecle, binome de Kishibe - la periode de jeunesse de KISHIBE (annees 1960-70 [IMPLICITE]), elle-meme deja sept fois centenaire ; partie en 1984, affectee a la Chine par Effroi pour la traque de Tronconneuse alors fugitive - avant l'arrivee de Makima. Depuis : mercenaire et assassin, la traque pour mission de fond. [CANON + DIVERGENCE RP]
+- Humaine, JAPONAISE d'origine (une femme samurai), AFFECTÉE à la Chine par Effroi - le Japon grouille déjà de ses propres démons. Titre : "la Première Devil Hunter". [CANON sur le titre + DIVERGENCE RP - le canon la dit chinoise]
+- Sélectionnée par Effroi : PREMIÈRE de son programme d'hybridation. Contenu du programme ACTÉ : Effroi implante le cœur d'un démon-arme trop bête pour servir seul mais puissant, dans un humain qui lui jure allégeance éternelle (savoir exclusif à Effroi). Date de sa fusion : 1215 (ère de Kamakura) - plus de sept siècles de chasse au périmètre : le titre de "Première Devil Hunter" est littéral. [DIVERGENCE RP]
+- Allégeance : Effroi - elle-même, pas seulement son démon. Nature du lien : un MARCHÉ - chasse éternelle (via Arc) contre l'exécution de toutes les basses besognes d'Effroi ; sale caractère, elle ronchonne mais livre. Dans la CONFIDENCE de l'identité Makoto depuis sa fusion, comme tous les hybrides de la main d'Effroi (cf. Personnages/Effroi, Identité Makoto). [DIVERGENCE RP]
+- Parcours : chasseuse à la Sécurité Publique japonaise au XXe siècle, binôme de Kishibe - la période de jeunesse de KISHIBE (années 1960-70 [IMPLICITE]), elle-même déjà sept fois centenaire ; partie en 1984, affectée à la Chine par Effroi pour la traque de Tronçonneuse alors fugitive - avant l'arrivée de Makima. Depuis : mercenaire et assassin, la traque pour mission de fond. [CANON + DIVERGENCE RP]
 - Localisation en 1984 : la Chine (affectation de la traque, cf. Histoire). [DIVERGENCE RP]
 
 ## Apparence
-- Quanxi, forme humaine : grande, cheveux creme noues en queue de cheval, cache-oeil sur l'oeil droit - la fleche de transformation y est logee - oeil valide brun. Tenue type : debardeur noir, large ceinturon blanc, pantalon taille haute, bottes ; jusqu'a trois epees en fourreaux dorsaux, car sa propre vitesse les brise. [CANON]
-- Forme hybride : tete metallique pointue, sans visage, flanquee de deux cornes en forme d'arc ; pointes au cou ; avant-bras mues en gantelets-arbaletes cloutes. [CANON]
+- Quanxi, forme humaine : grande, cheveux crème noués en queue de cheval, cache-œil sur l'œil droit - la flèche de transformation y est logée - œil valide brun. Tenue type : débardeur noir, large ceinturon blanc, pantalon taille haute, bottes ; jusqu'à trois épées en fourreaux dorsaux, car sa propre vitesse les brise. [CANON]
+- Forme hybride : tête métallique pointue, sans visage, flanquée de deux cornes en forme d'arc ; pointes au cou ; avant-bras mués en gantelets-arbalètes cloutés. [CANON]
 
-## Immortalite
-- Quasi immortelle en hybride : survit a la decapitation et pire. Retirer la fleche de son orbite, opere par un tiers sur sa depouille, la ressuscite entiere. Seule mort definitive : la destruction complete du coeur demoniaque. [CANON]
-- Vieillissement : les hybrides ne vieillissent quasiment pas - regle du monde actee ; c'est ce qui autorise sa longevite de "Premiere Devil Hunter". [CANON + decision worldbuilder]
-- Le demon Arc, tant que la fusion tient, est soustrait au cycle standard mort-renaissance. [IMPLICITE]
+## Immortalité
+- Quasi immortelle en hybride : survit à la décapitation et pire. Retirer la flèche de son orbite, opéré par un tiers sur sa dépouille, la ressuscite entière. Seule mort définitive : la destruction complète du cœur démoniaque. [CANON]
+- Vieillissement : les hybrides ne vieillissent quasiment pas - règle du monde actée ; c'est ce qui autorise sa longévité de "Première Devil Hunter". [CANON + décision worldbuilder]
+- Le démon Arc, tant que la fusion tient, est soustrait au cycle standard mort-renaissance. [IMPLICITE]
 
 ## Pouvoirs
-- Forme humaine deja surhumaine : force, vitesse et reflexes hors norme - elle decapite trois hybrides avant qu'aucun ne reagisse, traverse des escouades entieres en un souffle. Premiere hybride connue a montrer ce niveau HORS transformation. [CANON]
-- Maitrise d'armes : epeiste redoutable (epees chinoises portees par lots), experte du corps a corps. [CANON]
-- Forme hybride : volees de fleches par les gantelets-arbaletes - du tir de barrage a la frappe chirurgicale, des trous circulaires nets dans tout ce qu'elle vise. [CANON]
-- Transformation : elle tire la fleche logee dans son orbite droite. [CANON]
-- Regeneration par le sang. [CANON]
+- Forme humaine déjà surhumaine : force, vitesse et réflexes hors norme - elle décapite trois hybrides avant qu'aucun ne réagisse, traverse des escouades entières en un souffle. Première hybride connue à montrer ce niveau HORS transformation. [CANON]
+- Maîtrise d'armes : épéiste redoutable (épées chinoises portées par lots), experte du corps à corps. [CANON]
+- Forme hybride : volées de flèches par les gantelets-arbalètes - du tir de barrage à la frappe chirurgicale, des trous circulaires nets dans tout ce qu'elle vise. [CANON]
+- Transformation : elle tire la flèche logée dans son orbite droite. [CANON]
+- Régénération par le sang. [CANON]
 
 ## Psychologie (Quanxi)
-- Froide, stoique, pragmatique ; aucune emotion superflue, meme dans les situations les plus incongrues. [CANON]
-- Philosophie assumee : "l'ignorance est un bonheur" - elle choisit de ne pas trop savoir pour vivre en paix. [CANON]
-- Attachement reel et protecteur a ses proches ; en canon, elle negocie pour eux plutot que pour elle. [CANON]
+- Froide, stoïque, pragmatique ; aucune émotion superflue, même dans les situations les plus incongrues. [CANON]
+- Philosophie assumée : "l'ignorance est un bonheur" - elle choisit de ne pas trop savoir pour vivre en paix. [CANON]
+- Attachement réel et protecteur à ses proches ; en canon, elle négocie pour eux plutôt que pour elle. [CANON]
 - Aime les femmes. [CANON]
-- Harem de possedees : compagnes AMASSEES AU FIL DES SIECLES - beaucoup d'autres ont precede celles du perimetre ; le harem est un etat permanent de sa longue vie, aux visages changeants. Les quatre attestees vers ~1997 : Long, Pingtsi, Tsugihagi, Cosmo - tuees a l'hiver 1997-1998 (cf. Trajectoire). [CANON sur les quatre + decision worldbuilder sur l'anciennete]
+- Harem de possédées : compagnes AMASSÉES AU FIL DES SIÈCLES - beaucoup d'autres ont précédé celles du périmètre ; le harem est un état permanent de sa longue vie, aux visages changeants. Les quatre attestées vers ~1997 : Long, Pingtsi, Tsugihagi, Cosmo - tuées à l'hiver 1997-1998 (cf. Trajectoire). [CANON sur les quatre + décision worldbuilder sur l'ancienneté]
 
-## Place dans la lignee
-- Arc : engeance de Guerre, parmi les sept armes anciennes ; les detonantes (Bombe, Flingue, Tank) repondent a Guerre, les autres au trone. [DIVERGENCE RP]
-- Quanxi : humaine hors lignee demoniaque - premiere passerelle du programme d'hybridation d'Effroi. [DIVERGENCE RP]
+## Place dans la lignée
+- Arc : engeance de Guerre, parmi les sept armes anciennes ; les détonantes (Bombe, Flingue, Tank) répondent à Guerre, les autres au trône. [DIVERGENCE RP]
+- Quanxi : humaine hors lignée démoniaque - première passerelle du programme d'hybridation d'Effroi. [DIVERGENCE RP]
 
-## Histoire (jusqu'au perimetre)
-- Naissance du demon : non datee, plausiblement parmi les premieres armes [IMPLICITE]. Fidele au trone, comme la majorite de l'arsenal. [DIVERGENCE RP]
-- 1215 (ere de Kamakura) - selection et fusion : une femme samurai choisie par Effroi, premiere de son programme d'hybridation ; le coeur d'Arc devient le sien. Le lien est un MARCHE (chasse eternelle contre les basses besognes du trone). Bien anterieure a toute autre hybridation connue. Circonstances fines de la selection : non posees. [DIVERGENCE RP + INCERTAIN sur les circonstances - non bloquant]
-- XXe siecle : chasseuse a la Securite Publique japonaise, binome de Kishibe - sur la jeunesse de celui-ci (annees 1960-70 [IMPLICITE]). [CANON adapte + DIVERGENCE RP]
-- 1983 - le massacre : Quanxi participe, hybride, dans les rangs du trone contre Tronconneuse, en Enfer - l'une des CINQ hybrides (avec Espadon, Lance-flammes, Fouet, Lance), une humaine au coeur d'une bataille de demons. [DIVERGENCE RP]
-- 1984 - depart de la Securite Publique : affectee a la Chine par Effroi pour traquer Tronconneuse, alors fugitive sur Terre ; depart anterieur a l'arrivee de Makima a l'agence. La traque pour mission de fond, le mercenariat pour metier et couverture ; publiquement "la Premiere Devil Hunter", crainte comme une humaine aux capacites inexplicables. [CANON + DIVERGENCE RP]
+## Histoire (jusqu'au périmètre)
+- Naissance du démon : non datée, plausiblement parmi les premières armes [IMPLICITE]. Fidèle au trône, comme la majorité de l'arsenal. [DIVERGENCE RP]
+- 1215 (ère de Kamakura) - sélection et fusion : une femme samurai choisie par Effroi, première de son programme d'hybridation ; le cœur d'Arc devient le sien. Le lien est un MARCHÉ (chasse éternelle contre les basses besognes du trône). Bien antérieure à toute autre hybridation connue. À leur rencontre, elle tue un samouraï en combat singulier ; le duel convainc Effroi qu'elle sera parfaite pour être sa première hybride, et il prend le nom du mort : Makoto. [DIVERGENCE RP]
+- XXe siècle : chasseuse à la Sécurité Publique japonaise, binôme de Kishibe - sur la jeunesse de celui-ci (années 1960-70 [IMPLICITE]). [CANON adapté + DIVERGENCE RP]
+- 1983 - le massacre : Quanxi participe, hybride, dans les rangs du trône contre Tronçonneuse, en Enfer - l'une des CINQ hybrides (avec Espadon, Lance-flammes, Fouet, Lance), une humaine au cœur d'une bataille de démons. [DIVERGENCE RP]
+- 1984 - départ de la Sécurité Publique : affectée à la Chine par Effroi pour traquer Tronçonneuse, alors fugitive sur Terre ; départ antérieur à l'arrivée de Makima à l'agence. La traque pour mission de fond, le mercenariat pour métier et couverture ; publiquement "la Première Devil Hunter", crainte comme une humaine aux capacités inexplicables. [CANON + DIVERGENCE RP]
 
 ## Relations de base
-- Effroi / Makoto - son roi, en sous-main. Il l'a selectionnee, premiere de son programme d'hybridation. Nature du lien : un marche (chasse eternelle contre les basses besognes du trone). Hiver 1997-1998 : il lui doit au moins une nouvelle epouse (compensation du harem perdu) - creance SOLDEE au printemps-ete 1998 (le donnant-donnant avec Power, cf. Trajectoire) ; registre transactionnel intact jusque dans le deuil.
-- Arc (le demon) - son coeur. Muet dans la fusion ; fidele au trone comme elle.
-- Guerre / Yoru - le concept dont Arc decoule. Texture du rapport : roadmap. Hiver 1997-1998 : Quanxi est l'une des quatre hybrides de sa mise a mort (cf. Trajectoire).
-- Kishibe - ancien binome a la Securite Publique (annees 1960-70, la jeunesse de Kishibe). Depuis 1990, son ex-binome est l'hybride de Flingue, et Quanxi est l'ETALON du tandem Kishibe-Flingue : la plus forte hybride connue, celle qu'ils se sont donne pour objectif commun de depasser. Hiver 1997-1998 : de nouveau binomes de terrain, chacun hybride - rivalite PURE cote Kishibe (l'attirance de jeunesse eteinte ; il a compris qu'elle aime les femmes ; il veut juste etre meilleur qu'elle), et la preuve de son retard servie a Tokyo. [CANON sur le duo et "Premiere Devil Hunter" ; DIVERGENCE RP sur l'objectif et l'etat du lien]
-- Arsenal - Katana, Espadon, Lance-flammes, Fouet et Lance au trone ; les detonantes (Bombe, Flingue, Tank) chez Guerre.
-- Tronconneuse / Pochita - adversaire du massacre de 1983 ; proie de la traque de 1984 (volet actif, motif de son affectation en Chine).
-- Harem de possedees - les compagnes de Quanxi, amassees au fil des siecles ; les quatre du perimetre (Long, Pingtsi, Tsugihagi, Cosmo) tuees a l'hiver 1997-1998 - compensation promise par le Roi et SOLDEE en 1998 : Power, possedee a demeure. cf. Trajectoire.
-- Sang / Power - la compensation trouvee (1998) : sincerement impressionnee par elle a Washington, et soignee par elle en continu pendant la bataille. Le compliment ouvre, la vanite fait le reste - DONNANT-DONNANT installe : Power (que le sexe n'interesse pas) donne du plaisir ; Quanxi rend admiration, cadeaux et chasses. Pas un mariage : une possedee a demeure qui respecte sa puissance. cf. Personnages/Sang. [CANON sur les traits + DIVERGENCE RP]
-- Securite Publique (Japon) - ex-employeur, quitte en 1984 (affectation Chine), avant l'ere Makima.
+- Effroi / Makoto - son roi, en sous-main. Il l'a sélectionnée, première de son programme d'hybridation. Nature du lien : un marché (chasse éternelle contre les basses besognes du trône). Hiver 1997-1998 : il lui doit au moins une nouvelle épouse (compensation du harem perdu) - créance SOLDÉE au printemps-été 1998 (le donnant-donnant avec Power, cf. Trajectoire) ; registre transactionnel intact jusque dans le deuil.
+- Arc (le démon) - son cœur. Muet dans la fusion ; fidèle au trône comme elle.
+- Guerre / Yoru - le concept dont Arc découle. Texture du rapport : roadmap. Hiver 1997-1998 : Quanxi est l'une des quatre hybrides de sa mise à mort (cf. Trajectoire).
+- Kishibe - ancien binôme à la Sécurité Publique (années 1960-70, la jeunesse de Kishibe). Depuis 1990, son ex-binôme est l'hybride de Flingue, et Quanxi est l'ÉTALON du tandem Kishibe-Flingue : la plus forte hybride connue, celle qu'ils se sont donné pour objectif commun de dépasser. Hiver 1997-1998 : de nouveau binômes de terrain, chacun hybride - rivalité PURE côté Kishibe (l'attirance de jeunesse éteinte ; il a compris qu'elle aime les femmes ; il veut juste être meilleur qu'elle), et la preuve de son retard servie à Tokyo. [CANON sur le duo et "Première Devil Hunter" ; DIVERGENCE RP sur l'objectif et l'état du lien]
+- Arsenal - Katana, Espadon, Lance-flammes, Fouet et Lance au trône ; les détonantes (Bombe, Flingue, Tank) chez Guerre.
+- Tronçonneuse / Pochita - adversaire du massacre de 1983 ; proie de la traque de 1984 (volet actif, motif de son affectation en Chine).
+- Harem de possédées - les compagnes de Quanxi, amassées au fil des siècles ; les quatre du périmètre (Long, Pingtsi, Tsugihagi, Cosmo) tuées à l'hiver 1997-1998 - compensation promise par le Roi et SOLDÉE en 1998 : Power, possédée à demeure. cf. Trajectoire.
+- Sang / Power - la compensation trouvée (1998) : sincèrement impressionnée par elle à Washington, et soignée par elle en continu pendant la bataille. Le compliment ouvre, la vanité fait le reste - DONNANT-DONNANT installé : Power (que le sexe n'intéresse pas) donne du plaisir ; Quanxi rend admiration, cadeaux et chasses. Pas un mariage : une possédée à demeure qui respecte sa puissance. cf. Personnages/Sang. [CANON sur les traits + DIVERGENCE RP]
+- Sécurité Publique (Japon) - ex-employeur, quitté en 1984 (affectation Chine), avant l'ère Makima.
 
 ## Implications d'arc
-- R6 (La Guerre, hiver 1997-1998) - l'arc consomme les differes de datation poses a la genese : fusion en 1215 (ere de Kamakura), depart de la Securite Publique en 1984 (affectation Chine pour la traque de Tronconneuse), harem seculaire aux visages changeants. Integres au NOYAU (Identite, L'hybride, Psychologie, Histoire).
+- R6 (La Guerre, hiver 1997-1998) - l'arc consomme les différés de datation posés à la genèse : fusion en 1215 (ère de Kamakura), départ de la Sécurité Publique en 1984 (affectation Chine pour la traque de Tronçonneuse), harem séculaire aux visages changeants. Intégrés au NOYAU (Identité, L'hybride, Psychologie, Histoire).
 
-## Trajectoire datee
-(Vide a la genese - alimentee A CHAUD, une entree par arc roadmappe, jamais anticipee. Plafond d'entrees : [A FIXER PAR LE WORLDBUILDER].)
+## Trajectoire datée
+(Vide à la genèse - alimentée À CHAUD, une entrée par arc roadmappé, jamais anticipée. Plafond d'entrées : [À FIXER PAR LE WORLDBUILDER].)
 
-| Date/ere | Evenement | Delta d'etat |
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| hiver 1997-1998 (R6 - La Guerre) | Convoquee OUVERTEMENT par Makoto pour la defense de Tokyo face aux Assassins Internationaux : elle debarque en pleine bataille et fait le menage la ou Kishibe, deborde, protegeait Denji - la preuve qu'il a encore du retard sur elle. De nouveau en binome avec lui, chacun hybride desormais ; le trio americain fauche a deux, en pleine competition de bodycount. Mais les fauves du Predateur ciblent les plus faibles : lion et loup fauchent ses quatre possedees (Long, Pingtsi, Tsugihagi, Cosmo) - trop lente pour les sauver face au nombre de demons puissants. | Harem MORT ; re-binome avec Kishibe, rivalite pure relancee (cf. Relations). |
-| hiver 1997-1998 (R6 - La Guerre) | La frappe de Poupee tombe dans le relachement des retrouvailles (elle engueulait deja Kishibe) : les clous de Malediction, puis le pacte d'Enfer - expediee en Enfer avec les agents de la SP. La collecte du prix de Tenebres (le tranchage des bras des presents) est interrompue par le Roi en personne. Dans les plaines calmes, elle INCENDIE Effroi : son plan a la con a eu raison de son harem. Makoto promet de lui trouver au moins une nouvelle epouse - si elle en veut plus, elle se debrouillera. Enfer renvoie tout le monde sur Terre. | Rentree entiere ; creance ouverte sur le trone (au moins une epouse promise) - le registre transactionnel de leur marche, intact jusque dans le deuil. |
-| hiver 1997-1998 (R6 - La Guerre) | Washington : l'une des quatre hybrides de la mise a mort de Guerre. Opere en soldate froide et efficace, sans grande destruction - son refus total de preter attention aux humains ne passera pas mieux pour autant. Sur ordre de Makoto, abat l'helico de la presse americaine d'un tir de baliste : l'execution de Guerre restera hors camera. | GRILLEE comme heroine publique - exactement comme prevu par le trone, et elle n'en avait pas besoin ; Chainsaw Man reste le seul heros que le monde retient. |
-| printemps-ete 1998 (R7 - La Famine) | RETOUR au service ouvert : la 5e division levee POUR elle - la graine de l'automne 1997 germee - et elle en prend la TETE. La COUR aupres de Power : sincerement impressionnee a Washington, soignee par elle en continu pendant la bataille, elle ouvre par le compliment - la vanite de la possedee fait le reste ; donnant-donnant installe. CREANCE D'EPOUSE SOLDEE. Sparring occasionnel d'Asa, qui grandit vite et cherche du repondant. | Tete de la 5e division ; une possedee a demeure aupres d'elle ; la dette du Roi eteinte - le registre transactionnel a l'equilibre. |
+| hiver 1997-1998 (R6 - La Guerre) | Convoquée OUVERTEMENT par Makoto pour la défense de Tokyo face aux Assassins Internationaux : elle débarque en pleine bataille et fait le ménage là où Kishibe, débordé, protégeait Denji - la preuve qu'il a encore du retard sur elle. De nouveau en binôme avec lui, chacun hybride désormais ; le trio américain fauché à deux, en pleine compétition de bodycount. Mais les fauves du Prédateur ciblent les plus faibles : lion et loup fauchent ses quatre possédées (Long, Pingtsi, Tsugihagi, Cosmo) - trop lente pour les sauver face au nombre de démons puissants. | Harem MORT ; re-binôme avec Kishibe, rivalité pure relancée (cf. Relations). |
+| hiver 1997-1998 (R6 - La Guerre) | La frappe de Poupée tombe dans le relâchement des retrouvailles (elle engueulait déjà Kishibe) : les clous de Malédiction, puis le pacte d'Enfer - expédiée en Enfer avec les agents de la SP. La collecte du prix de Ténèbres (le tranchage des bras des présents) est interrompue par le Roi en personne. Dans les plaines calmes, elle INCENDIE Effroi : son plan à la con a eu raison de son harem. Makoto promet de lui trouver au moins une nouvelle épouse - si elle en veut plus, elle se débrouillera. Enfer renvoie tout le monde sur Terre. | Rentrée entière ; créance ouverte sur le trône (au moins une épouse promise) - le registre transactionnel de leur marché, intact jusque dans le deuil. |
+| hiver 1997-1998 (R6 - La Guerre) | Washington : l'une des quatre hybrides de la mise à mort de Guerre. Opère en soldate froide et efficace, sans grande destruction - son refus total de prêter attention aux humains ne passera pas mieux pour autant. Sur ordre de Makoto, abat l'hélico de la presse américaine d'un tir de baliste : l'exécution de Guerre restera hors caméra. | GRILLÉE comme héroïne publique - exactement comme prévu par le trône, et elle n'en avait pas besoin ; Chainsaw Man reste le seul héros que le monde retient. |
+| printemps-été 1998 (R7 - La Famine) | RETOUR au service ouvert : la 5e division levée POUR elle - la graine de l'automne 1997 germée - et elle en prend la TÊTE. La COUR auprès de Power : sincèrement impressionnée à Washington, soignée par elle en continu pendant la bataille, elle ouvre par le compliment - la vanité de la possédée fait le reste ; donnant-donnant installé. CRÉANCE D'ÉPOUSE SOLDÉE. Sparring occasionnel d'Asa, qui grandit vite et cherche du répondant. | Tête de la 5e division ; une possédée à demeure auprès d'elle ; la dette du Roi éteinte - le registre transactionnel à l'équilibre. |
 
 FIN_WIKI_PERSONNAGES_ARC

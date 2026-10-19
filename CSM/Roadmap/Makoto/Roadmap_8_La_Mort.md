@@ -1,6 +1,6 @@
 # Roadmap 8 - La Mort
 
-- version : W3
+- version : W4
 - statut : à venir ; JOUABLE
 - prota / POV : Makoto (Effroi)
 - échelle temporelle : ~5 mois, avril 1999 -> fin août 1999
@@ -24,7 +24,7 @@ L'arc de la DERNIÈRE Cavalière insoumise. Mort, nourrie par deux ans de festin
 
 5. LE NOM (fin juin 1999). Barem soupçonne que le Feu obéit à plus haut que lui et que cette main est Mort. Nayuta propose de croiser les sources : Makoto, avec Nayuta, descend en Enfer interroger Cataclysme, sur sa plaine sous le ciel de portes. Le concept dont le Feu découle confirme sans rien cacher que le Feu sert Mort (il le sait, il s'en désintéresse, on ne lui avait jamais demandé). Le trône apprend ce que le joueur sait depuis R6. Il ne sait toujours pas que Mort est Shino. La surveillance se resserre autour de Denji, de Reze et de la fac.
 
-6. JUILLET 1999 - LE ROY D'EFFRAYEUR (mi-juillet, Tokyo). Mort lit le resserrement autour de la fac et se sait démasquée. Dernière tentative, tout jeté d'un coup : le Feu tire la transformation de masse, et les contractants de l'Église deviennent des Chainsaw-Men - le héros public retourné en monstre ; Guillotine, ses pions, ses nuées de corbeaux, ses dernières troupes. Barem, grillé dans le chaos, est exfiltré vivant. Guerre perdue d'avance, mais Tokyo prend cher. Le Roi descend du ciel de Tokyo sous sa FORME VÉRITABLE, la prophétie à la lettre : quasi à l'apogée, nourri par le monopole que les trois Cavalières déjà rangées tiennent en équilibre, il est d'une puissance démesurée. Suspendu dans le ciel, il appelle Ténèbres par contrat et, d'un même souffle, fauche tous les Chainsaw-Men et le Feu : il ne reste d'eux que des ombres au sol. Morts, pas effacés : leur mort nourrit la règle de présence. Les contrats du Feu meurent avec lui - 11e implication personnelle. Guillotine est épargnée (damage control, comme chaque fois qu'il le peut).
+6. JUILLET 1999 - LE ROY D'EFFRAYEUR (mi-juillet, Tokyo). Mort lit le resserrement autour de la fac et se sait démasquée. Dernière tentative, tout jeté d'un coup : le Feu tire la transformation de masse, et les contractants de l'Église deviennent des Chainsaw-Men - le héros public retourné en monstre ; Guillotine, ses pions, ses nuées de corbeaux, ses dernières troupes. Barem, grillé dans le chaos, est exfiltré vivant. Guerre perdue d'avance, mais Tokyo prend cher. Le Roi descend du ciel de Tokyo sous sa FORME VÉRITABLE, la prophétie à la lettre : quasi à l'apogée, nourri par le monopole que les trois Cavalières déjà rangées tiennent en équilibre, il est d'une puissance démesurée. Suspendu dans le ciel, il appelle Ténèbres par contrat, sans contrepartie (privilège du Roi), et, d'un même souffle, fauche tous les Chainsaw-Men et le Feu : il ne reste d'eux que des ombres au sol. Morts, pas effacés : leur mort nourrit la règle de présence. Les contrats du Feu meurent avec lui - 11e implication personnelle. Guillotine est épargnée (damage control, comme chaque fois qu'il le peut).
 
 7. LA REDDITION (fin juillet 1999, sur les ruines). À court de pièces, Mort se présente à visage découvert devant la famille royale au complet (Makoto, Makima, Nayuta, Asa, Kiga). Elle s'avoue vaincue et fait une seule demande : que son entêtement ne soit pas reproché à la suivante. Le trône accepte. Puis elle meurt de sa seule volonté ; personne ne la tue. Ses contrats s'éteignent avec elle, celui qui tenait Guillotine compris : libérée, Guillotine reviendra à la nouvelle Mort par principe de lignée.
 
@@ -63,6 +63,7 @@ L'arc de la DERNIÈRE Cavalière insoumise. Mort, nourrie par deux ans de festin
 ### Requis
 - Kobeni hybridée au Tank (jalon 2).
 - Le trône apprend que le Feu sert Mort, par le croisement des sources (jalon 5).
+- Le Roi appelle le contrat de Ténèbres et fauche d'un seul coup les Chainsaw-Men et le Feu (jalon 6).
 - La dernière tentative est stoppée et le Feu est mort (jalon 6).
 - La demande de Mort est acceptée (jalon 7).
 - Yomi récupérée et adoptée, Kobeni investie gardienne (jalon 8).
@@ -81,6 +82,12 @@ L'arc de la DERNIÈRE Cavalière insoumise. Mort, nourrie par deux ans de festin
   3. Refus maintenu : Kishibe tranche, la dernière Cavalière doit tomber.
   4. Avertissement du MJ : la suite n'est pas scénarisée et mène à l'avortement du RP.
   5. Entêtement maintenu : le MJ déclare la fin du RP et ne narre plus dans ce thread ; rejouer = nouveau thread, CODEX d'entrée réutilisé sans modification.
+- Jalon 6 : appeler le contrat de Ténèbres pour tout faucher d'un coup. Paliers :
+  1. Suggestion implicite dans la narration : tous ces pauvres bougres changés en fanatiques imitant Effacement... Ténèbres serait le contrat idéal pour les faucher d'un coup d'un seul, Feu inclus, et Mort serait alors acculée.
+  2. Refus maintenu : Nayuta le souffle à son père.
+  3. Refus maintenu : Makima le réclame, Tokyo saigne.
+  4. Avertissement du MJ : la suite n'est pas scénarisée et mène à l'avortement du RP.
+  5. Entêtement maintenu : fin du RP (même règle qu'au jalon 5).
 - Jalon 7 : accepter la demande de Mort. Paliers :
   1. Nayuta plaide pour la suivante.
   2. Refus maintenu : Makima rappelle qu'ils aiment chacune de leurs filles, et que la suivante en sera une.

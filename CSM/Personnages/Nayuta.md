@@ -1,6 +1,6 @@
 # Nayuta
 
-- version : W8
+- version : W9
 
 Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'entité telle qu'elle existe dans le monde, indépendamment d'une partie.
 
@@ -8,6 +8,7 @@ Note : à part son ORIGINE (fille biologique, non une réincarnation) et son NOM
 
 ## Identité
 - Noms : Nayuta (nom humain) / Autorité (nom de concept).
+- Origine du nom : MAKIMA le trouve - le nayuta, nombre immense des textes bouddhiques, concept qu'elle juge adapté. [DIVERGENCE RP]
 - Concept : l'autorité PURE - l'obéissance aveugle et sans raison de tout être plus faible. Part cédée par Contrôle (sa mère) à la naissance, avec le statut de Cavalière. [DIVERGENCE RP sur l'origine du concept + CANON sur la nature Controle]
 - Nature : enfant conceptuelle d'Effroi et de Contrôle, née par REPRODUCTION SEXUÉE (voie inédite) ; forme humaine ; Cavalière-héritière. Le vocabulaire familial lui est légitime (fille, enfant, parents) - unique brèche du "pas de sang". [DIVERGENCE RP]
 - Statut : conçue le 2 déc 1984, naît ~sept 1985 (cf. Trajectoire). Destinée à remplacer Contrôle dans le quatuor réformé des Cavalières (projet). [DIVERGENCE RP]
@@ -79,5 +80,7 @@ Note : à part son ORIGINE (fille biologique, non une réincarnation) et son NOM
 | janvier-février 1998 (R7 - La Famine) | LE BERCEAU : du voyage au Kosovo avec ses parents et Aki. À la rencontre, elle veut porter Asa - qui tend les bras vers Aki. Asa adoptée, élevée en ÉGALE d'elle : la petite sœur promise à Washington est arrivée. | Grande sœur ; première fille adoptée au foyer. |
 | avril 1998 -> mars 1999 (R7 - La Famine) | Arrivée de Kiga, ramenée de Somalie par Ange. Quand la petite choisit et EXIGE son nom - qui dit "famine" en japonais -, elle désespère d'avance du manque de subtilité : elle a l'habitude de mieux. Complice pour le reste ; comme ses parents, toujours quelque chose à manger sur elle pour Kiga. | Aînée d'une fratrie à trois. |
 | été-automne 1998 (R7 - La Famine) | TRACTS CODÉS de la branche nihiliste : la SP les tenait depuis des mois sans y voir de code. Elle les démonte en quelques minutes - l'en-tête "LA LUMIÈRE RÉVÈLE LA VÉRITÉ" pris au pied de la lettre, le tract levé à contre-jour, des lettres sans sens, des F partout où l'on attendrait des E, un cran de recul : LE NÉANT EST LE REMÈDE, CONTACTER ADEPTE TANAKA. Ses parents l'ont lu aussi vite, et s'en amusent. (Détail du code : cf. Factions/Eglise_Chainsaw_Man.) | La piste nihiliste s'ouvre par elle : l'héritière lit ce que les humains ratent depuis des mois. |
+| fin juin 1999 (R8 - La Mort) | Propose de croiser les sources ; accompagne son père en Enfer interroger Cataclysme | Le nom de Mort tombe grâce à elle |
+| fin juillet - fin août 1999 (R8 - La Mort) | Présente à la reddition ; troisième petite sœur, Yomi | Aînée d'une fratrie de quatre |
 
 FIN_WIKI_PERSONNAGES_NAYUTA
