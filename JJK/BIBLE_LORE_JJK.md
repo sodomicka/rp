@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : JJK
 - sources primaires : manga Jujutsu Kaisen (Gege Akutami) ; worldbuilding du worldbuilder (OC Nisha Zenin, Yukiko Kamo, Eien, Nozomu)
-- bible_version : B20
+- bible_version : B21
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/JJK/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/JJK/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/JJK/Partie1/`
@@ -58,7 +58,7 @@ Formation et transmission du savoir (détail : cf. WIKI Pedagogie/Resume_Enseign
 - Plafond absolu du savoir enseigné : Eien et Kenjaku absents de tout cours et de toute archive. Le récit fondateur officiel (Tengen fonde l'exorcisme à l'ère Nara) est FAUX ; les onryō enseignés comme folklore. Carte des écarts vérité/enseigné : en fin de chaque fiche de cours (usage MJ).
 
 Cosmogonie - trois esprits vengeurs + Tengen (détail : cf. WIKI Cosmogonie/Trois_Esprits.md) :
-- [DIVERGENCE RP] Les trois grands onryō (Michizane, Masakado, Sutoku) = premiers esprits vengeurs, anciens fléaux ancrés à la période YAMATO, primordiaux. Chacun a béni un humain en lui cédant son sort -> trois premiers exorcistes -> trois clans. (Eien et Kenjaku, issus de ces lignées, ne peuvent pas leur préexister.)
+- [DIVERGENCE RP] Les trois grands onryō (Michizane, Masakado, Sutoku) = premiers esprits vengeurs, anciens esprits maudits ancrés à la période YAMATO, primordiaux. Chacun a béni un humain en lui cédant son sort -> trois premiers exorcistes -> trois clans. (Eien et Kenjaku, issus de ces lignées, ne peuvent pas leur préexister.)
 - [DIVERGENCE RP vs canon] Tengen = quatrième esprit vengeur, indépendant des onryō et resté de chair, ascendé APRÈS eux (à rebours du canon Nara). Kenjaku a vu et aidé son ascension, et en convoite le fruit (le Merger). Détail : cf. WIKI Personnages/Tengen.md.
 - [DIVERGENCE RP] Domaines : Michizane = espace ; Masakado = temps ; Sutoku = liens/sang.
 - [DIVERGENCE RP] Lignées : Sugawara (espace) -> Infini ; branche Gojo = Infini + Six Yeux (clan mineur ex-Sutoku greffé) ; branche Fujiwara -> Okkotsu (Infini perdu ; Yuta = copie). Masakado (temps) -> clan Zenin : Chronokinésie -> Projection (Naobito) -> Chronostase (Nisha) ; greffe Dix Ombres (ex-Sugawara, Mahoraga indomptable). Sutoku (liens) -> clan Kamo : manipulation du sang, credo de pureté ; Kenjaku issu des Kamo ; branche d'adaptation isolée par Kenjaku -> clan Itadori (réceptacle, s'ignore clan) ; Peintures Mortes conçues par Kenjaku-dans-Noritoshi (Meiji), Choso conçu avec Eien-dans-Nanao.
@@ -75,7 +75,8 @@ Divergences (noyau Nisha) :
 ## SB2 Lexique
 `Terme - définition (1 ligne max)`
 - Exorciste - humain capable de manier l'énergie occulte et d'abattre les fléaux.
-- Fléau - entité née de la noirceur humaine, cible de l'exorcisme.
+- Fléau - entité née de la noirceur humaine (émotions négatives), sans âme humaine à l'origine ; cible de l'exorcisme.
+- Esprit maudit - [DIVERGENCE RP] entité tirée d'une ÂME HUMAINE, distincte du fléau : Tengen, les onryō, Eien, Kenjaku, Sukuna, Nozomu, Rika.
 - Profane - humain sans don ni perception de l'occulte.
 - Monde de l'exorcisme - la société occulte : clans, hautes instances, universités.
 - Maîtres des Fléaux - exorcistes dévoyés qui asservissent les fléaux au lieu de les exorciser.
@@ -87,7 +88,7 @@ Divergences (noyau Nisha) :
 - Tournoi des Universités Jumelées (l'Amicale) - échange annuel entre les deux universités.
 - Assistant manager - filière non combattante : logistique, renseignement, rideaux, transport, liaison.
 - Fenêtre (métier de) - guetteur : perçoit les fléaux, ne les combat pas.
-- Composés en "maudit" - entités et objets pétris d'énergie occulte : esprits maudits, cadavres maudits, objets maudits, corps maudit, épée maudite, outils maudits, lunettes maudites, paroles maudites.
+- Composés en "maudit" - entités et objets pétris d'énergie occulte : cadavres maudits, objets maudits, corps maudit, épée maudite, outils maudits, lunettes maudites, paroles maudites.
 - Surchauffe - sort tiré au-delà de sa récupération : il s'affaiblit, rate, puis se coupe.
 - Filet d'énergie - énergie occulte minime sans sort inné, suffisante au tissage et au métier d'assistant manager.
 - Territoire intérieur - monde que tout exorciste porte en lui, où vit son sort ; presque personne ne sait le projeter.
@@ -129,11 +130,11 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 
 ## SB5 Personnages
 `Nom - rôle | capacités-clé | relations | sort connu | certitude`
-- Nisha Zenin - protagoniste, OC, jumelle de Naoya (née le 30 jan 1987) | Chronostase + Chronokinésie (parasite Eien), Sphère du Temps Infini ; façade publique : un seul sort | Naoya (jumeau symbiotique), Eien (parasite : Nisha s'en sait maîtresse, jamais geôlière - amie de façade jusqu'en 2015, souffre-douleur ensuite), Naobito (père), Satoru (rival puis époux) | deux sorts + domaine | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nisha.md (+ chrono_A, chrono_B ; relations : Nisha_relations_proches, _famille, _boulot, _eleves_tokyo)
+- Nisha Zenin - protagoniste, OC, jumelle de Naoya (née le 30 jan 1987) | Chronostase + Chronokinésie (parasite Eien), Sphère du Temps Infini ; façade à Tokyo : Chronokinésie présentée comme innée, Chronostase comme son aspect ; Kyoto et Hautes Instances savent tout, Eien crue docile | Naoya (jumeau symbiotique), Eien (parasite : Nisha s'en sait maîtresse, jamais geôlière - amie de façade jusqu'en 2015, souffre-douleur ensuite), Naobito (père), Satoru (rival puis époux) | deux sorts + domaine | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nisha.md (+ chrono_A, chrono_B ; relations : Nisha_relations_proches, _famille, _boulot, _eleves_tokyo)
 - Yukiko Kamo - second OC jouable, princesse Kamo, demi-sœur aînée de Noritoshi (née le 14 juin 1986), promo Kyoto 2005-2008 | Hémotropie (le carquois de Noritoshi), meilleure tisseuse du clan depuis Heian ; 12 doigts réels, façade Grade 2 | Noritoshi (dieu vivant), Utahime (couple dès nov 2005), jumeaux Zenin, Gakuganji | Hémotropie | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yukiko.md (+ chrono_A)
-- Eien - OC, parasite de Nisha, fléau Grade Spécial millénaire, co-architecte du monde | Chronokinésie (cédée à l'hôte), Jardin des Ères Mortes, parasitisme par fœtus | Nisha (hôte : maîtresse qui s'ignore geôlière, amie jouée jusqu'en 2015 ; rapport inversé depuis, les visites), Kenjaku (amante, mille ans) | Chronokinésie | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Eien.md
+- Eien - OC, parasite de Nisha, esprit maudit Grade Spécial millénaire, co-architecte du monde | Chronokinésie (cédée à l'hôte), Jardin des Ères Mortes, parasitisme par fœtus | Nisha (hôte : maîtresse qui s'ignore geôlière, amie jouée jusqu'en 2015 ; rapport inversé depuis, les visites), Kenjaku (amante, mille ans) | Chronokinésie | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Eien.md
 - Kenjaku - exorciste millénaire, co-architecte du monde | transfert de cerveau, sceaux | Eien (amant) ; vaisseaux : Noritoshi Kamo (Meiji), Kaori Itadori, Geto | sort de l'hôte courant | canon + [DIVERGENCE RP] (origine Kamo, couple Eien). detail: cf. WIKI Personnages/Kenjaku.md
-- Nozomu Gojo - OC, fléau Grade Spécial : guerrier parfait de Genroku mort à l'éveil (4 ans), revenu en esprit vengeur ; scellé dans une marque (SB7) | Infini bouclier, Six Yeux épars, six bras, domaine Flagellation du Bourreau ; 20 doigts ; doctrine : libérer les enfants, punir les parents. RÈGLE D'ÉCRITURE PERMANENTE : aucun détail d'acte sur sa mort, aucune romantisation | clan Gojo, Eien, Kenjaku, Uraume | Infini + Six Yeux | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nozomu.md
+- Nozomu Gojo - OC, esprit maudit Grade Spécial : guerrier parfait de Genroku mort à l'éveil (4 ans), revenu en esprit vengeur ; scellé dans une marque (SB7) | Infini bouclier, Six Yeux épars, six bras, domaine Flagellation du Bourreau ; 20 doigts ; doctrine : libérer les enfants, punir les parents. RÈGLE D'ÉCRITURE PERMANENTE : aucun détail d'acte sur sa mort, aucune romantisation | clan Gojo, Eien, Kenjaku, Uraume | Infini + Six Yeux | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nozomu.md
 - Naobito Zenin - patriarche (26e chef), père des jumeaux (né 1947) | Projection, 12 doigts, Grade Spécial 1 | Naoya/Nisha, Ogi (frère cadet), Jinichi/Toji (neveux) | Projection | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Naobito.md
 - Naoya Zenin - jumeau de Nisha (né le 30 jan 1987), héritier de fait | Projection, 8 doigts à l'université / 14 adulte, résonance gémellaire | Nisha, Naobito | Projection | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Naoya.md (+ chrono_B)
 - Jinichi Zenin - pilier du Hei, membre du conseil | Poings Météores, 10 doigts, Grade Spécial 1 | Toji (frère), Naobito (oncle) | Poings Météores | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Jinichi.md
@@ -161,7 +162,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Tsumiki Fushiguro - belle-sœur de Megumi (profane, née 1997), adoptée avec lui (2008) | aucune ; marquée par Kenjaku, Yorozu en dormance 2008-2015 | Megumi, Nisha/Satoru | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Tsumiki.md
 - Akari Nitta - assistant manager sans don (née ~1993), première vraie élève de Nisha (promo Kyoto 2011-2014) | support | Nisha (lien quasi maternel), Arata | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nitta.md
 - Panda - cadavre maudit mutant créé par Yaga et co-amalgamé avec Nisha (2011), "fils" des deux | trois noyaux, corps maudit doté d'une âme | Yaga, Nisha | corps maudit | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Panda.md
-- Ryomen Sukuna - Roi des Fléaux (20 doigts = étalon), humain de Heian devenu fléau suprême | Tranchant, Feu, Sanctuaire Maléfique, RCT ; 200 pour cent dès la naissance | [DIVERGENCE RP] pacte de dormance ; jumeau réincarné en Jin Itadori ; Uraume ; réceptacles Yuji puis Megumi (ère D) | Tranchant + Feu | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Sukuna.md
+- Ryomen Sukuna - Roi des Fléaux (20 doigts = étalon), humain de Heian devenu esprit maudit suprême | Tranchant, Feu, Sanctuaire Maléfique, RCT ; 200 pour cent dès la naissance | [DIVERGENCE RP] pacte de dormance ; jumeau réincarné en Jin Itadori ; Uraume ; réceptacles Yuji puis Megumi (ère D) | Tranchant + Feu | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Sukuna.md
 - Yorozu - exorciste de Heian changée en objet maudit par Kenjaku, en dormance dans Tsumiki (2008-2015) | Construction, Triple Affliction, 16 doigts | Sukuna (obsession), Kenjaku, Nisha (la tue fin 2015) | Construction | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yorozu.md
 - Aoi Todo - élève de Nisha à Kyoto (promo 2016-2019) | Boogie Woogie + taijutsu, Grade 1, 7 doigts | Yuki, Nisha, Noritoshi/Momo | Boogie Woogie | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Todo.md
 - Noritoshi Kamo - l'élu, Prince Kamo (né le 5 juin 1997 [DIVERGENCE RP vs canon : 2000]), élève de Nisha | Hémokinésie pure, Semi-Grade 1, 5 doigts | Yukiko (sœur et carquois), Yasashiku (mère), Todo/Momo | Hémokinésie | canon + [DIVERGENCE RP]. [HOMONYME - À NE PAS CONFONDRE] avec le Noritoshi de Meiji, corps de Kenjaku. detail: cf. WIKI Personnages/Noritoshi_Kamo.md
@@ -178,6 +179,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 `Lieu - nature | rattachement | fonction narrative | état connu`
 - Chiryu no Kyuden - "le palais du dragon de sang", siège du clan Kamo | Kibune, nord de Kyoto | salle du trône (repas bissextiles, empoisonnement de Fubuki 1992), archives, chambre de Yukiko | état 2005 : Noriaki au trône ; autres ailes NON FIXÉES | [DIVERGENCE RP]. detail: cf. WIKI Lieux/Chiryu_no_Kyuden.md
 - Juei no Ryochi - "le domaine des Dix Ombres", siège du clan Zenin | montagnes à l'est de Kyoto | salle du conseil-dojo, archives façon kura, chambre des jumeaux | état 2005 : résidence des jumeaux jusqu'au départ | canon + [DIVERGENCE RP]. detail: cf. WIKI Lieux/Juei_no_Ryochi.md
+- Tokyo no Akatsuki - restaurant très haut de gamme | Tokyo, hors campus | sur réservation, aucun prix affiché ; se dire Zenin, carte bleue de Nisha à l'appui, ouvre le salon VIP | quartier NON FIXÉ ; pas de fiche (la BIBLE est son foyer) | [DIVERGENCE RP]
 - Autres lieux : build reporté à un thread dédié. Gabarit conservé. Jardin des Ères Mortes : cf. WIKI Personnages/Eien.md ; Tombeaux de l'Étoile : cf. WIKI Personnages/Tengen.md.
 
 ## SB7 Artefacts et objets
@@ -185,7 +187,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Doigts de Sukuna - objets maudits (20) | divisés et créés par Eien + Kenjaku, scellés par des exorcistes ennemis | reliques du Roi des Fléaux, unité de powerscaling | dispersés | [DIVERGENCE RP] sur l'origine. detail: cf. WIKI Power_Scaling/Doigts_de_Sukuna.md
 - Collier de Nisha - 76 billes de tungstène | cadeau de Satoru (30 jan 2006) | batterie cinétique pour la Chronostase | porté par Nisha | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nisha.md
 - Bandeau de Satoru - accessoire de filtrage | cadeau de Nisha (7 déc 2006) | atténue l'excès d'informations des Six Yeux | porté par Satoru | [DIVERGENCE RP] sur l'origine. detail: cf. WIKI Personnages/Satoru.md
-- Carte bleue de Nisha - carte en acier damas | cadeau de Naobito aux 18 ans des jumeaux (30 jan 2005) | fortune personnelle | portée par Nisha | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nisha.md
+- Carte bleue de Nisha - carte en acier damas anthracite aux veinures violettes (couleurs du clan) | cadeau de Naobito aux 18 ans des jumeaux (30 jan 2005) | fortune personnelle | portée par Nisha | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nisha.md
 - Lunettes maudites de vue occulte - monture imbue d'énergie | offertes par Maki à Tsumiki (2009) | donnent la vue de l'occulte | portées par Tsumiki | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Tsumiki.md
 - Chi no Meiyo - tanto maudit | 1998, forgé du fléau Sakushu Sha piégé par Yukiko | pont : gorge Yukiko de l'énergie absorbée par un rideau | porté par Yukiko | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yukiko.md
 - Lisière du Supplice - objet maudit de grade spécial (sceau) | [DIVERGENCE RP] de la main de Kenjaku | scelle une cible vivante | refermée sur Satoru le 31 oct 2018, ouverte par Yukiko en déc 2018 | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Kenjaku.md
@@ -232,4 +234,4 @@ Index détaillé page par page : cf. WIKI JJK/Sommaire.md
 
 ---
 
-FIN_BIBLE_B20
+FIN_BIBLE_B21

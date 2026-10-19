@@ -1,6 +1,6 @@
 # _Implications
 
-- version : W46
+- version : W47
 
 Journal de conception (passes en spirale). Document de TRAVAIL : jamais fetché en narration.
 
@@ -56,6 +56,8 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE
 
 ## Propagations en attente
 
+- Distinction ESPRIT MAUDIT / FLÉAU | transverse | Actée en BIBLE SB2 (esprit maudit = tiré d'une âme humaine : Tengen, onryō, Eien, Kenjaku, Sukuna, Nozomu, Rika). Portée en BIBLE et en Personnages/Nisha.md. Les autres pages qualifient encore ces entités de "fléau" (Eien.md, Kenjaku.md, Nozomu.md, Rika/Yuta, Cosmogonie/Trois_Esprits.md, Power_Scaling, pédagogie, roadmaps...) : corriger à la prochaine relivraison de chacune, en réaccentuant. Le titre canon "Roi des Fléaux" et le nom du sort de Geto restent.
+
 - Roadmap/Nisha/Roadmap_A0 | au prochain passage roadmap | Vérifier les jalons 1997 et 2000 (si rendus en scène) contre l'amendement de spirale Eien-1997 : plus de putsch perçu, vertige expliqué en amitié, motif du grade = alliée inconditionnelle.
 - Nisha_chrono_B.md | à l'occasion | Entrée 2015 : la couleur "double trahison" (chantage + viol par l'amie) peut être reportée au delta d'état à la prochaine relivraison. Enrichissement seulement.
 - Factions/Clan_Gojo.md | à la prochaine relivraison | La parenthèse "(L'âge d'éveil varie ; précédent maison d'un éveil à 4 ans : cf. Personnages/Nozomu.md)" gagne un second point de donnée (Satoru, 4 ans) et peut renvoyer à la règle d'éveil de BIBLE SB1.
@@ -65,9 +67,14 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE
 
 - Factions/Clan_Zenin.md | HORS BUDGET | 12,5k pour un plafond de page de 12k. Scission éventuelle à arbitrer plus tard.
 - Factions/Clan_Zenin.md | périmètre | TENSION : l'accès aux archives de Megumi/Tsumiki est un fait post-2005 dans une page au chapeau "structure atemporelle + point de départ 2005". À solder avec la scission.
+- Personnages/Satoru.md | HORS BUDGET | 14,6k pour un plafond de page de 12k. Scission éventuelle (ère A en chrono_A) à arbitrer plus tard.
 - Personnages/Yukiko.md | fiche protagoniste | 31,2k pour un plafond protagoniste de 30k. Traitement DIFFÉRÉ à la relivraison de son ère B : la trajectoire passera en chrono à ce moment-là.
 
 ## Notes en suspens
+
+- Pedagogie/Energie_Territoires_1eAnnee.md | façade Nisha | TENSION de date : le cours cite Nisha comme cas d'école « dès 2005 » (elle corrige le professeur en amphi), alors que Personnages/Nisha.md pose le cas d'école formel aux rentrées 2008+. Lecture retenue : citée dès 2005, enseignée comme cas d'école à partir de 2008. À confirmer si ça gêne.
+- Tokyo no Akatsuki | BIBLE SB6 | Quartier NON FIXÉ.
+- Cafét du campus de Tokyo | Factions/Universite_Tokyo.md | Emplacement exact NON FIXÉ (près des dortoirs).
 
 - Condition tacite | chantier Yukiko | TENSION de roadmap (pas un Tchekhov sauf décision) : pas le moindre signe de jalousie d'Utahime envers Nori, structurel à vie, jamais dit.
 - Note d'intention (extradiégétique) | transverse | Couple féminin voulu - représentation lesbienne absente de JJK (canon : Kirara/Hakari seul couple LGBT). Versant diégétique : la règle d'amour de Yukiko (fiche, Psychologie).
