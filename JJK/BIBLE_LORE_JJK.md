@@ -80,7 +80,7 @@ Divergences (noyau Nisha) :
 - Profane - humain sans don ni perception de l'occulte.
 - Monde de l'exorcisme - la société occulte : clans, hautes instances, universités.
 - Maîtres des Fléaux - exorcistes dévoyés qui asservissent les fléaux au lieu de les exorciser.
-- Roi des Fléaux - titre de Sukuna, sommet absolu de l'échelle de puissance (20 doigts).
+- Roi des Fléaux - titre de Sukuna, sommet absolu de l'échelle de puissance (20 doigts) ; titre un peu usurpé, Sukuna étant un esprit maudit et non un fléau, mais à son niveau la différence est sémantique.
 - Tueur d'Exorcistes - désignation de Toji Fushiguro, assassin sans énergie occulte.
 - Plasma Stellaire - humaine désignée pour fusionner avec Tengen tous les ~500 ans (canon : Star Plasma Vessel). Riko Amanai (2006), Yuki Tsukumo (ancienne). [HOMONYME - À NE PAS CONFONDRE] avec le "réceptacle" de la lignée Itadori / vaisseau de Sukuna.
 - Culte Astral, la Confrérie du Réceptacle Temporel - secte qui vénère Tengen et refuse toute fusion jugée impure ; commanditaire de la mort de Riko, pilotée en sous-main par Kenjaku.
