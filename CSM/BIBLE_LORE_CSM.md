@@ -1,287 +1,309 @@
 # BIBLE_LORE_CSM
 
-## Table des matieres
-- SB0 Metadonnees
-- SB1 Cosmogonie et regles du monde
+## Table des matières
+- SB0 Métadonnées
+- SB1 Cosmogonie et règles du monde
 - SB2 Lexique
 - SB3 Chronologie
 - SB4 Factions et groupes
 - SB5 Personnages
 - SB6 Lieux
 - SB7 Artefacts et objets
-- SB8 Mysteres ouverts et Tchekhov
+- SB8 Mystères ouverts et Tchekhov
 - SB9 Index - routage
 
-## SB0 Metadonnees
-- univers : CSM - Chainsaw Man, timeline divergente centree sur Effroi
-- focus narratif : 1984 -> horizon ouvert (decoupage R0 -> R10 : R8 Mort, R9 temps calme, R10 finale ; ~1997 = repere des evenements canon de la Partie 1, que le RP traverse et depasse ; R7 clos en mars 1999)
-- sources primaires : manga Chainsaw Man (T. Fujimoto) ; decisions worldbuilder (threads de cadrage, Passes 1 et 2, Histoire globale, 2026)
-- bible_version : B12
+## SB0 Métadonnées
+- univers : CSM - Chainsaw Man, timeline divergente centrée sur Effroi
+- focus narratif : 1984 -> horizon ouvert (découpage R0 -> R10 : R9 temps calme, R10 finale ; ~1997 = repère des événements canon de la Partie 1, que le RP traverse et dépasse ; R8 roadmappé, d'avril à fin août 1999)
+- sources primaires : manga Chainsaw Man (T. Fujimoto) ; décisions worldbuilder (threads de cadrage, Passes 1 et 2, Histoire globale, 2026)
+- bible_version : B13
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/CSM/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/CSM/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/CSM/Partie1/`
 - parties_raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/Parties/CSM/Partie1/`
-- pages wiki rattachees :
+- pages wiki rattachées :
   - (racine) - Sommaire, Resume, journal de travail _Implications (3 pages)
-  - Personnages/ - 39 fiches (dont les creations R7 : Neant, Asa, Kiga, Feu)
-  - Lieux/ - Enfer, entite double lieu+demon (1 page)
+  - Personnages/ - 42 fiches (dont les créations R7 : Néant, Asa, Kiga, Feu ; R8 : Yomi, Cataclysme, Guillotine)
+  - Lieux/ - Enfer, entité double lieu+démon (1 page)
   - Systemes/ - Genealogie, Histoire (2 pages)
   - Factions/ - Securite_Publique, Eglise_Chainsaw_Man (2 pages)
-  - Roadmap/Makoto/ - Chronologie (garde-cap du decoupage R0 -> R10, indexee au Sommaire ; les roadmaps d'arc R0 -> R7 restent des sources de build non indexees)
+  - Roadmap/Makoto/ - Chronologie (garde-cap du découpage R0 -> R10, indexée au Sommaire ; les roadmaps d'arc R0 -> R8 restent des sources de build non indexées)
 
-## SB1 Cosmogonie et regles du monde
+## SB1 Cosmogonie et règles du monde
 
-### Socle canon (conserve)
-- Chaque demon incarne UNE peur humaine nommee. Plus la peur est repandue et profonde, plus le demon est puissant.
-- La peur eprouvee par les demons compte aussi : elle nourrit le demon du concept craint.
-- Les demons recuperent et se renforcent en consommant du sang.
-- Contrat humain-demon : pouvoir contre prix (annees de vie, organes, sang...). Accord des deux parties requis.
-- Cycle : un demon tue sur Terre renait en Enfer ; tue en Enfer, il renait sur Terre.
-- Possede : demon ayant pris possession d'un cadavre humain. Puissance reduite, tete deformee.
-- Hybride : humain fusionne avec un demon-arme. Regeneration quasi totale.
-- Tronconneuse (Pochita) : le demon que les demons craignent. Ce qu'il devore est efface de la realite et des memoires.
+### Socle canon (conservé)
+- Chaque démon incarne UNE peur humaine nommée. Plus la peur est répandue et profonde, plus le démon est puissant.
+- La peur éprouvée par les démons compte aussi : elle nourrit le démon du concept craint.
+- Les démons récupèrent et se renforcent en consommant du sang.
+- Contrat humain-démon : pouvoir contre prix (années de vie, organes, sang...). Accord des deux parties requis.
+- Cycle : un démon tué sur Terre renaît en Enfer ; tué en Enfer, il renaît sur Terre.
+- Possédé : démon ayant pris possession d'un cadavre humain. Puissance réduite, tête déformée.
+- Hybride : humain fusionné avec un démon-arme. Régénération quasi totale.
+- Tronçonneuse (Pochita) : le démon que les démons craignent. Ce qu'il dévore est effacé de la réalité et des mémoires.
 
 ### Cosmogonie Effroi [DIVERGENCE RP - socle du RP]
-- Effroi est le premier demon, l'Originel. Ne de la premiere peur ressentie par le premier humain capable d'en eprouver une. Nom humain : Makoto.
-- Tout concept engendre un autre concept ; toute lignee remonte a Effroi. Vocabulaire familial BANNI pour la genealogie demoniaque (cf. Systemes/Genealogie.md ; seule breche : la reproduction sexuee).
-- Genealogie restructuree : Effroi -> Mort (premiere engeance) -> Chute, Tenebres, Vieillesse (Primordiaux, engeances DE Mort) ; Famine, Guerre, Controle (Cavalieres de societes) et Tronconneuse (Effacement) sont des engeances DIRECTES d'Effroi. Mort cumule Primordiale et Cavaliere. Autres engeances directes anciennes, non titrees : sixieme sens (efface), Cataclysme, Predateur, Sang.
-- Trois formes d'Effroi : VERITABLE (~3 m), REDUITE (~40 cm), HUMAINE (Makoto, 1 m 85). Detail : cf. Personnages/Effroi.md.
-- Regle metabolique : une peur nommee nourrit le demon nomme. Effroi se nourrit de TOUTES les peurs, en ambiance, partout. Croissance en pente douce ; un demon en monopole de peur peut le depasser ponctuellement. Regner par la terreur nourrirait le demon de la peur employee : il exige la devotion.
-- Traits PROPRES vs ARSENAL CONTRACTUEL. Trois traits intrinseques seulement : (1) nutrition par la peur globale ambiante ; (2) TERREUR AU REGARD (reaction de terreur au choix imposee aux etres assez faibles) ; (3) TOUCHER MORTEL (tue au contact qui se pense inferieur ; mort classique, nourrit Mort ; unique pouvoir transmis - a Mort). Tout le reste vient du CONTRAT : MILLIERS de contrats SANS contrepartie, privilege du Roi, Reseau etant son serviteur.
-- Force brute aberrante : sa puissance physique est indexee sur la peur ambiante mondiale - colossale, presque jamais deployee (l'employer nourrirait d'autres demons).
-- Implications personnelles : AUCUNE avant la trahison d'Effacement (1983) ; depuis, il s'implique quand ca le merite - cadence acceleree, delegation en roi millenaire pour le reste. NEUF a date, liste OUVERTE ; liste et detail : cf. Personnages/Effroi.md.
-- Mise a mort par contrat pioche au hasard : quand il tue, il declenche la mort via l'un de ses milliers de contrats, pioche au hasard - la peur du meurtre se disperse au lieu de nourrir un rival.
-- Mortalite conditionnelle : hors du cycle, intuable par toute force EXTERIEURE. Deux sorties seulement : (1) effacement conceptuel par Tronconneuse (suicide conceptuel de l'espece) ; (2) sa propre main - voie scellee SAUF la cle Makima : la sentence du contrat de 1984 (30 s de vulnerabilite absolue si Makoto trahit, executee par Reseau, Makima seule pouvant alors lui ordonner d'en finir). Unique levier externe.
-- Memoire des effaces : Primordiaux, quatre Cavalieres et Effroi se souviennent des concepts effaces par Tronconneuse (le canon ne cite que les Cavalieres ; extension actee).
-- Memoire et allegeance a la reincarnation : cas par cas hors Cavalieres (regle Cavalieres : cf. Reincarnation des Cavalieres, infra).
+- Effroi est le premier démon, l'Originel. Né de la première peur ressentie par le premier humain capable d'en éprouver une. Nom humain : Makoto (pris à un samouraï tué par Quanxi en 1215).
+- Tout concept engendre un autre concept ; toute lignée remonte à Effroi. Vocabulaire familial BANNI pour la généalogie démoniaque (cf. Systemes/Genealogie.md ; seule brèche : la reproduction sexuée).
+- Généalogie restructurée : Effroi -> Mort (première engeance) -> Chute, Ténèbres, Vieillesse (Primordiaux, engeances DE Mort) ; Famine, Guerre, Contrôle (Cavalières de sociétés) et Tronçonneuse (Effacement) sont des engeances DIRECTES d'Effroi. Mort cumule Primordiale et Cavalière. Autres engeances directes anciennes, non titrées : sixième sens (effacé), Cataclysme, Prédateur, Sang.
+- Trois formes d'Effroi : VÉRITABLE (~3 m), RÉDUITE (~40 cm), HUMAINE (Makoto, 1 m 85). Détail : cf. Personnages/Effroi.md.
+- Règle métabolique : une peur nommée nourrit le démon nommé. Effroi se nourrit de TOUTES les peurs, en ambiance, partout. Croissance en pente douce ; un démon en monopole de peur peut le dépasser ponctuellement. Régner par la terreur nourrirait le démon de la peur employée : il exige la dévotion.
+- Traits PROPRES vs ARSENAL CONTRACTUEL. Trois traits intrinsèques seulement : (1) nutrition par la peur globale ambiante ; (2) TERREUR AU REGARD (réaction de terreur au choix imposée aux êtres assez faibles) ; (3) TOUCHER MORTEL (tue au contact qui se pense inférieur ; mort classique, nourrit Mort ; unique pouvoir transmis - à Mort). Tout le reste vient du CONTRAT : MILLIERS de contrats SANS contrepartie, privilège du Roi, Réseau étant son serviteur.
+- Force brute aberrante : sa puissance physique est indexée sur la peur ambiante mondiale - colossale, presque jamais déployée (l'employer nourrirait d'autres démons).
+- Implications personnelles : AUCUNE avant la trahison d'Effacement (1983) ; depuis, il s'implique quand ça le mérite - cadence accélérée, délégation en roi millénaire pour le reste. ONZE à date (10e : le cœur du Tank planté chez Kobeni, mai 1999 ; 11e : la descente du ciel de Tokyo, juillet 1999), liste OUVERTE ; liste et détail : cf. Personnages/Effroi.md.
+- Mise à mort par contrat pioché au hasard : quand il tue, il déclenche la mort via l'un de ses milliers de contrats, pioché au hasard - la peur du meurtre se disperse au lieu de nourrir un rival.
+- Mortalité conditionnelle : hors du cycle, intuable par toute force EXTÉRIEURE. Une seule sortie : l'effacement conceptuel par Tronçonneuse (suicide conceptuel de l'espèce). Sa propre main est scellée. La clé Makima (sentence du contrat de 1984) l'a ouverte un temps ; le couple l'a résiliée d'un commun accord à la naissance de Nayuta (~septembre 1985) : CLOSE.
+- Mémoire des effacés : Primordiaux, quatre Cavalières et Effroi se souviennent des concepts effacés par Tronçonneuse (le canon ne cite que les Cavalières ; extension actée). Passage à la réincarnée : [À TRANCHER] (cf. SB8).
+- Mémoire et allégeance à la réincarnation : cas par cas hors Cavalières (règle Cavalières : cf. Réincarnation des Cavalières, infra).
+
+### Psychologie du couple régnant [DIVERGENCE RP]
+- Pour Makoto, tout le monde est un OUTIL, sauf sa femme et ses filles. Hors ce cercle, toute tendresse qu'il témoigne est ce qu'il calcule que l'autre attend.
+- Possessifs l'un de l'autre dès le soir du contrat, amoureux pendant la grossesse ; à la naissance de Nayuta, ils aiment leur fille plus que le plan. Ils aiment chaque fille autant, par principe autant que par nature de parents des Cavalières.
 
 ### Les quatre facettes de la souffrance [DIVERGENCE RP]
-- Les quatre Cavalieres incarnent quatre faces d'une meme souffrance : Controle (psychologique), Guerre (blessures), Famine (manque), Mort (letalite).
-- Cadre de lecture, non un pouvoir : il structure leurs concepts et leurs frontieres - notamment Famine (le besoin) vs Controle (la volonte asservie).
+- Les quatre Cavalières incarnent quatre faces d'une même souffrance : Contrôle (psychologique), Guerre (blessures), Famine (manque), Mort (létalité).
+- Cadre de lecture, non un pouvoir : il structure leurs concepts et leurs frontières - notamment Famine (le besoin) vs Contrôle (la volonté asservie).
 
 ### Naissance de l'Enfer [DIVERGENCE RP]
-- Avant l'Enfer, tout se passait sur Terre. La peur humaine de l'enfer engendre le demon Enfer ; son territoire devient l'Enfer reel. Depuis, les demons posterieurs naissent en Enfer (cycle bipolaire).
-- L'Enfer est le Royaume d'Effroi ; le demon Enfer est son acces au territoire. Detail : cf. Lieux/Enfer.md.
-- Standard de convocation : par les portes d'Enfer, Effroi convoque ses demons assez forts.
+- Avant l'Enfer, tout se passait sur Terre. La peur humaine de l'enfer engendre le démon Enfer ; son territoire devient l'Enfer réel. Depuis, les démons postérieurs naissent en Enfer (cycle bipolaire).
+- L'Enfer est le Royaume d'Effroi ; le démon Enfer est son accès au territoire. Détail : cf. Lieux/Enfer.md.
+- Standard de convocation : par les portes d'Enfer, Effroi convoque ses démons assez forts.
 
-### Contrats, canaux, Reseau [DIVERGENCE RP]
-- Le mecanisme du contrat DECOULE de Reseau (demon posterieur a l'Enfer). Tout contrat cree un canal telepathique duplex, ouvert a la discretion du DEMON.
-- Contrat demon-demon ASYMETRIQUE : entre deux demons, le plus fort - ou le maitre de Reseau - commande la ligne. La ligne vaut LAISSE et DETECTEUR DE MENSONGE, jamais omniscience.
-- MORT ET CONTRATS : la mort d'un demon EMPORTE ses contrats - jamais ses ENGEANCES, qui sont autonomes (precedent : l'ultimatum de Famine reposait sur ses engeances, pas sur ses contrats). Un contrat ne se ROMPT pas, il DISPARAIT avec son porteur.
-- Extension Serpent : la devoration capte AUSSI le contrat qu'un tiers tient sur la devoree ; cedable, et cede a l'interessee il se dissout (auto-detenu). Captation et cession, JAMAIS rupture ; bornage par rapport de force. Detail : cf. Personnages/Serpent.md.
-- Reseau est le REGENT des canaux ("Pere" des contrats) ; ecoute reelle mais LIMITEE (focalisation, quelques canaux) et MONOPOLISEE par Effroi, qui n'espionne guere (la peur-de-surveillance nourrirait un autre). Il sait remonter sa toile pour designer des cibles mondiales (la purge de Poupee).
-- Carve-out : Reseau obeit en TOUT, sauf l'INVIOLABILITE DES CONTRATS - meme le Roi ne peut lui faire defaire un contrat scelle. C'est ce qui arme les sentences, cle Makima comprise. Teste de l'interieur (automne 1997) : il tient.
-- CANAUX TISSES : canaux de DIALOGUE sans contrat, tisses par Reseau - privilege de la famille Royale (Effroi, Controle, Autorite ; vocation a s'etendre au quatuor reforme). Discretionnaire, impose, tacite jusqu'au premier usage ; DIALOGUE-ONLY (politique du Roi) ; independant des contrats ; emporte par la sentence de Reseau. Jamais tisse vers Denji ni vers les humains hors confidence.
+### Contrats, canaux, Réseau [DIVERGENCE RP]
+- Le mécanisme du contrat DÉCOULE de Réseau (démon postérieur à l'Enfer). Tout contrat crée un canal télépathique duplex, ouvert à la discrétion du DÉMON.
+- Contrat démon-démon ASYMÉTRIQUE : entre deux démons, le plus fort - ou le maître de Réseau - commande la ligne. La ligne vaut LAISSE et DÉTECTEUR DE MENSONGE, jamais omniscience.
+- MORT ET CONTRATS : la mort d'un démon EMPORTE ses contrats - jamais ses ENGEANCES, qui sont autonomes (précédent : l'ultimatum de Famine reposait sur ses engeances, pas sur ses contrats). Un contrat ne se ROMPT pas, il DISPARAÎT avec son porteur. Application R8 : la mort de Mort libère Guillotine ; celle du Feu éteint tous ses contrats (les Chainsaw-Men).
+- Extension Serpent : la dévoration capte AUSSI le contrat qu'un tiers tient sur la dévorée ; cédable, et cédé à l'intéressée il se dissout (auto-détenu). Captation et cession, JAMAIS rupture ; bornage par rapport de force. Détail : cf. Personnages/Serpent.md.
+- Réseau est le RÉGENT des canaux ("Père" des contrats) ; écoute réelle mais LIMITÉE (focalisation, quelques canaux) et MONOPOLISÉE par Effroi, qui n'espionne guère (la peur-de-surveillance nourrirait un autre). Il sait remonter sa toile pour désigner des cibles mondiales (la purge de Poupée).
+- Carve-out : Réseau obéit en TOUT, sauf l'INVIOLABILITÉ DES CONTRATS - même le Roi ne peut lui faire défaire un contrat scellé. C'est ce qui arme les sentences. Testé de l'intérieur (automne 1997) : il tient. Une résiliation voulue par les DEUX parties n'est pas une rupture : c'est une extinction naturelle, carve-out intact (précédent : la clé Makima, close en 1985).
+- CANAUX TISSÉS : canaux de DIALOGUE sans contrat, tissés par Réseau - privilège de la famille Royale (Effroi, Contrôle, Autorité ; vocation à s'étendre au quatuor réformé). Discrétionnaire, imposé, tacite jusqu'au premier usage ; DIALOGUE-ONLY (politique du Roi) ; indépendant des contrats. Jamais tissé vers Denji ni vers les humains hors confidence.
 
-### Effacement (Tronconneuse) [CANON + DIVERGENCE RP]
-- Devorer un concept l'efface de la realite, du passe et des memoires ; le demon efface ne se reincarne PLUS. Un fragment suffit ; en manger un bout affaiblit durablement.
-- Les produits du concept cessent d'exister, le monde s'adapte (moindre resistance). Retour possible uniquement par reinvention des composants ou regurgitation choisie. [CANON]
-- Prise sur l'intuabilite de Mort : l'effacement ne CONTOURNE pas sa regle de mort volontaire ; le plan de Makoto vise a l'ACCULER.
+### Effacement (Tronçonneuse) [CANON + DIVERGENCE RP]
+- Dévorer un concept l'efface de la réalité, du passé et des mémoires ; le démon effacé ne se réincarne PLUS. Un fragment suffit ; en manger un bout affaiblit durablement.
+- Les produits du concept cessent d'exister, le monde s'adapte (moindre résistance). Retour possible uniquement par réinvention des composants ou régurgitation choisie. [CANON]
+- Prise sur l'intuabilité de Mort : l'effacement ne CONTOURNE pas sa règle de mort volontaire ; le plan de Makoto visait à l'ACCULER - abouti en juillet 1999 (reddition, mort volontaire).
 
-### Regles d'hybridation [DIVERGENCE RP + CANON]
-- Les hybrides ne vieillissent quasiment pas ; le demon-arme est soustrait au cycle tant que la fusion tient.
-- Deux motifs, non exclusifs : offrir la quasi-immortalite a un humain juge digne ; combler une LACUNE du demon-arme (un esprit pour les brutes, une bride pour les ingouvernables).
-- Regle transversale : un HOTE ACCORDE a la nature du demon. Deux regimes : coeur PLANTE pour un demon bete (l'hote fournit l'esprit) ; ACCORD DES VOLONTES pour un demon a fort caractere.
-- Deux programmes : celui d'EFFROI (savoir exclusif, Quanxi la premiere) et celui de GUERRE (sovietique, par mimetisme - d'ou Reze). Cas commentes (Bombe, Flingue, Katana, Denji) : cf. fiches.
+### Règles d'hybridation [DIVERGENCE RP + CANON]
+- Les hybrides ne vieillissent quasiment pas ; le démon-arme est soustrait au cycle tant que la fusion tient. Ils vivent éternellement et servent la dynastie (argument servi à Kobeni).
+- Deux motifs, non exclusifs : offrir la quasi-immortalité à un humain jugé digne ; combler une LACUNE du démon-arme (un esprit pour les brutes, une bride pour les ingouvernables).
+- Règle transversale : un HÔTE ACCORDÉ à la nature du démon. Deux régimes : cœur PLANTÉ pour un démon bête (l'hôte fournit l'esprit) ; ACCORD DES VOLONTÉS pour un démon à fort caractère.
+- Deux programmes : celui d'EFFROI (savoir exclusif, Quanxi la première) et celui de GUERRE (soviétique, par mimétisme - d'où Reze). Cas commentés (Bombe, Flingue, Katana, Tank, Denji) : cf. fiches.
 
-### Reincarnation des Cavalieres [DIVERGENCE RP]
-- TABLE RASE absolue : aucune memoire, aucun contrat, aucun canal, aucune allegeance heritee. Ce qu'une reincarnee sait de sa vie anterieure est un savoir TRANSMIS (on le lui raconte), jamais un souvenir.
-- Regle de presence du concept : le pays de naissance suit la PRESENCE du concept a l'instant t (Guerre -> Kosovo ; Famine -> Somalie). La chasse aux berceaux est CIBLEE, pas un tirage au sort. Delai constate : quelques semaines entre mort et renaissance.
-- Marque : yeux a anneaux concentriques des la naissance ; pouvoir manifeste au berceau (reflexe inconscient), maitrise par paliers avec la croissance.
-- Croissance ACCELEREE en courbe qui s'aplatit : ~10-12 ans d'apparence atteints vers UN AN, puis ralentissement progressif jusqu'au gel adulte. Consequence : un ecart de naissance de quelques mois devient negligeable. Nayuta, nee de reproduction sexuee, grandit humainement - hors regle.
-- Lignee fidele PAR PRINCIPE a l'incarnation nouvelle, tant qu'elle agit selon son concept (maladies et ravageurs -> Kiga ; armes -> Asa). Les allegeances personnelles se rejurent (serment de Tank a Asa), jamais ne s'heritent.
+### Réincarnation des Cavalières [DIVERGENCE RP]
+- TABLE RASE absolue : aucune mémoire, aucun contrat, aucun canal, aucune allégeance héritée. Ce qu'une réincarnée sait de sa vie antérieure est un savoir TRANSMIS (on le lui raconte), jamais un souvenir.
+- Règle de présence du concept : le pays de naissance suit la PRÉSENCE du concept à l'instant t (Guerre -> Kosovo ; Famine -> Somalie ; Mort -> Tokyo, qu'elle venait de faucher). La chasse aux berceaux est CIBLÉE, pas un tirage au sort. Délai constaté : quelques semaines entre mort et renaissance.
+- Marque : yeux à anneaux concentriques dès la naissance ; pouvoir manifesté au berceau (réflexe inconscient), maîtrise par paliers avec la croissance.
+- Croissance ACCÉLÉRÉE en courbe qui s'aplatit : ~10-12 ans d'apparence atteints vers UN AN, puis ralentissement jusqu'au gel adulte, à DEUX ANS (Asa hiver 1999-2000, Kiga printemps 2000, Yomi fin d'été 2001). Conséquence : un écart de naissance de quelques mois devient négligeable. Nayuta, née de reproduction sexuée, grandit humainement - hors règle.
+- Apogée de la réincarnée : elle naît avec le monopole que sa vie antérieure vient de nourrir (Yomi : à son apogée dès le berceau, hors pics d'exception de l'ère atomique).
+- Toucher de Yomi : INCONDITIONNEL au berceau, sans la condition d'infériorité ; la condition et le contrôle viennent avec la maîtrise, par paliers. Il passe outre tout dispositif d'immortalité (Makima comprise) : c'est la mort en personne. Seul Effroi la touche sans risque.
+- Lignée fidèle PAR PRINCIPE à l'incarnation nouvelle, tant qu'elle agit selon son concept (maladies et ravageurs -> Kiga ; armes -> Asa ; peurs de la mort -> Yomi). Les allégeances personnelles se rejurent (serment de Tank à Asa, tenu sans servitude aveugle), jamais ne s'héritent.
 
-### Desinteret des lignees [DIVERGENCE RP]
-- Les demons se soucient peu des allegeances et des aventures de leurs engeances ; la possessivite de lignee est un trait de CAVALIERES. La domination d'alpha du Predateur est un POUVOIR (obeissance d'instinct), pas une possessivite - il laisse filer sans combat.
-- Application : Cataclysme SAIT que Feu sert Mort et s'en desinteresse ; n'a rien signale, ne cacherait rien si le trone demandait (source exploitable).
+### Désintérêt des lignées [DIVERGENCE RP]
+- Les démons se soucient peu des allégeances et des aventures de leurs engeances ; la possessivité de lignée est un trait de CAVALIÈRES. La domination d'alpha du Prédateur est un POUVOIR (obéissance d'instinct), pas une possessivité - il laisse filer sans combat.
+- Application : Cataclysme SAVAIT que Feu servait Mort et s'en désintéressait ; interrogé par le trône (juin 1999), il a donné le nom sans rien cacher.
 
-### Notoriete de 1983 [DIVERGENCE RP]
-- La rebellion d'Effacement et sa fuite sont de notoriete demoniaque UNIVERSELLE : tous les demons savent que le Roi a perdu son arme de dissuasion - jamais sa puissance, son autorite ni ses contrats, et nul ne s'y trompe.
+### Notoriété de 1983 [DIVERGENCE RP]
+- La rébellion d'Effacement et sa fuite sont de notoriété démoniaque UNIVERSELLE : tous les démons savent que le Roi a perdu son arme de dissuasion - jamais sa puissance, son autorité ni ses contrats, et nul ne s'y trompe.
 
-### Doctrines du trone [DIVERGENCE RP]
-- Obeissance ponderee : un demon se juge a son obeissance compte tenu de sa puissance, jamais a sa puissance seule.
-- Doctrine des OPPORTUNITES : creer des opportunites chaotiques, restreindre les retombees, saisir les benefices. La doctrine de la perte en decoule (exploiter les pertes qui viennent, jamais les orchestrer). Applications : cf. Personnages/Effroi.md.
-- Doctrine POCHITA REVISEE (acquise janvier 1998, confirmee automne 1998) : ne plus miser sur Pochita hors force majeure - pas fiable, tenu par Denji seulement ; les menaces d'effacement restent BRANDIES en argument (menace creuse).
-- GARDIENS DES CAVALIERES : chaque Cavaliere aura son gardien - Kishibe pour l'empire (1990), Aki pour Asa (1998), Ange pour Kiga (avril 1998, de fait) - garde-fous conditionnels, armes si le trone devie.
+### Doctrines du trône [DIVERGENCE RP]
+- Obéissance pondérée : un démon se juge à son obéissance compte tenu de sa puissance, jamais à sa puissance seule.
+- Doctrine des OPPORTUNITÉS : créer des opportunités chaotiques, restreindre les retombées, saisir les bénéfices. La doctrine de la perte en découle (exploiter les pertes qui viennent, jamais les orchestrer). Applications : cf. Personnages/Effroi.md.
+- Doctrine POCHITA RÉVISÉE (acquise janvier 1998, confirmée automne 1998) : ne plus miser sur Pochita hors force majeure - pas fiable, tenu par Denji seulement ; les menaces d'effacement restent BRANDIES en argument (menace creuse).
+- GARDIENS DES CAVALIÈRES : chaque Cavalière a son gardien - Kishibe pour l'empire (1990), Aki pour Asa (1998), Ange pour Kiga (avril 1998, de fait), Kobeni pour Yomi (fin août 1999) - garde-fous conditionnels, armés si le trône dévie.
 
-### Regle d'apparence [DIVERGENCE RP]
-- Hybrides et demons humanoides GELENT leur vieillissement a l'apparence ADULTE, jamais avant : croissance jusqu'a l'aspect adulte, puis gel.
-- Ancres : Makoto 1 m 85 ; Makima 168 cm [CANON] ; Nayuta 168 cm a l'age adulte - les deux petites face au Roi ; Reze figee a 19 ans (automne 1997) ; Aki fige a 23 ans (1998) ; les reincarnees suivent la croissance acceleree (cf. supra) puis le gel.
+### Horizon R10 [DIVERGENCE RP]
+- L'équilibrage affaiblit Mort réincarnée (plus d'immortalité conceptuelle) ; Ténèbres se nourrit de la puissance prêtée en 1999 et de la peur qu'elle a inspirée. Les deux mis ensemble le poussent au putsch.
+- Immortalité conceptuelle de Makima liée au monopole : à trancher au build R10.
 
-### Identite civile de Chainsaw Man [DIVERGENCE RP]
-- Le monde connait le demon a tete de tronconneuse en uniforme SP, jamais le garcon. L'identite civile de Denji est PROTEGEE ; tells : le cordon sous le t-shirt, le choker de Reze (accessoire commun).
+### Règle d'apparence [DIVERGENCE RP]
+- Hybrides et démons humanoïdes GÈLENT leur vieillissement à l'apparence ADULTE, jamais avant : croissance jusqu'à l'aspect adulte, puis gel.
+- Ancres : Makoto 1 m 85 ; Makima 168 cm [CANON] ; Nayuta 168 cm à l'âge adulte - les deux petites face au Roi ; Reze figée à 19 ans (automne 1997) ; Aki figé à 23 ans (1998) ; la fratrie réincarnée suit la croissance accélérée puis gèle à deux ans.
 
-### Lignees d'armes et de maladies [DIVERGENCE RP]
-- Toutes les armes descendent de Guerre (regle du plancher / de l'outil et de l'arme) ; les maladies - vegetales comprises - descendent de Famine. Detail complet : cf. Systemes/Genealogie.md.
+### Identité civile de Chainsaw Man [DIVERGENCE RP]
+- Le monde connaît le démon à tête de tronçonneuse en uniforme SP, jamais le garçon. L'identité civile de Denji est PROTÉGÉE ; tells : le cordon sous le t-shirt, le choker de Reze (accessoire commun).
+
+### Lignées d'armes et de maladies [DIVERGENCE RP]
+- Toutes les armes descendent de Guerre (règle du plancher / de l'outil et de l'arme) ; les maladies - végétales comprises - descendent de Famine. Détail complet : cf. Systemes/Genealogie.md.
 
 ## SB2 Lexique
-- Effroi - premier demon, incarnation de la peur pure ; nom humain Makoto.
-- Originel - titre d'Effroi, source de toute lignee conceptuelle.
-- Primordiaux - engeances de Mort : Chute, Tenebres, Vieillesse (peurs de la mort).
-- Cavalieres - Mort (cumul), Famine, Guerre, Controle ; le concept survit a l'incarnation (reincarnation : regle SB1).
-- Effacement - nom ancien de Tronconneuse ; peur d'etre efface (demons) + peur de l'oubli + peur des tronconneuses (canal faible).
-- Predateur - "Le Chasseur" ; engeance directe ancienne renegate, tete de la lignee animale ; REPLIE.
-- Cataclysme - engeance directe ancienne fidele (catastrophes naturelles) ; tete de lignee (Typhon, Feu, Mont Hio efface).
-- Feu - engeance de Cataclysme, renegat au service de Mort ; infiltre de l'Eglise, introuvable.
-- Neant - engeance reniee de Tenebres (vide, trous, zero) ; antagoniste de 1998, mort.
-- Typhon - engeance de Cataclysme ; detruit (automne 1997), fragment-graine (~5%) chez le Roi.
-- Branche temporelle - lignee de Vieillesse : Avenir (fidele), Eternite (renegat-ne, mort).
-- Ange - demon de la peur des anges ; FORGERON du trone (armes-ames), gardien de Kiga.
-- Poupee / Santa Claus - demone fragmentee des Assassins Internationaux ; aneantie sauf le pantin-Tolka, captif.
-- Assassins Internationaux - reseau de tueurs de Guerre (hiver 1997-1998) ; ANEANTIS.
-- Eglise de Chainsaw Man - culte mondial de l'heroisme de Chainsaw Man, ne a Washington ; cf. SB4.
-- Transformation de masse - levier du Feu [CANON] : ses contractants muables en copies de Chainsaw Man ; ARMEE, jamais tiree.
-- Malediction - engeance de Mort hors Primordiaux ; NEUTRE ABSOLU (commerce d'esperance de vie).
-- Ravageurs - Hanneton, Sauterelle, Cochenille ; lignee du Predateur, allegeance a Famine puis Kiga.
-- Purge de Poupee - premiere activation mondiale coordonnee de l'arsenal du Roi (deux heures).
-- Cle Makima - sentence du contrat de 1984 : unique levier vers la mort d'Effroi (regle SB1).
-- Canal tisse - canal de dialogue sans contrat, famille Royale (regle SB1).
-- Doctrine des opportunites - creer / restreindre / saisir ; politique du couple regnant.
-- Gardiens des Cavalieres - principe des garde-fous conditionnels (Kishibe, Aki, Ange).
-- Cour - cercle des demons majeurs autour du trone. Royaume - l'Enfer politique d'Effroi.
-- Engeance - demon derive d'un concept parent. Possede - demon dans un cadavre humain. Hybride - humain fusionne a un demon-arme.
-- Terminologie VF - "fiend" BANNI (ecrire Possede) ; Devil Hunter et Chainsaw Man se gardent tels quels.
+- Effroi - premier démon, incarnation de la peur pure ; nom humain Makoto.
+- Originel - titre d'Effroi, source de toute lignée conceptuelle.
+- Primordiaux - engeances de Mort : Chute, Ténèbres, Vieillesse (peurs de la mort).
+- Cavalières - Mort (cumul), Famine, Guerre, Contrôle ; le concept survit à l'incarnation (réincarnation : règle SB1).
+- Effacement - nom ancien de Tronçonneuse ; peur d'être effacé (démons) + peur de l'oubli + peur des tronçonneuses (canal faible).
+- Prédateur - "Le Chasseur" ; engeance directe ancienne renégate, tête de la lignée animale ; REPLIÉ.
+- Cataclysme - engeance directe ancienne fidèle (catastrophes naturelles) ; tête de lignée (Typhon et Feu, morts ; Mont Hio, effacé) ; a donné le nom de Mort au trône (juin 1999).
+- Feu - engeance de Cataclysme, renégat au service de Mort ; MORT (juillet 1999), fauché par le Roi.
+- Néant - engeance reniée de Ténèbres (vide, trous, zéro) ; antagoniste de 1998, mort.
+- Typhon - engeance de Cataclysme ; détruit (automne 1997), fragment-graine (~5%) chez le Roi.
+- Branche temporelle - lignée de Vieillesse : Avenir (fidèle), Éternité (renégat-né, mort).
+- Ange - démon de la peur des anges ; FORGERON du trône (armes-âmes), gardien de Kiga.
+- Poupée / Santa Claus - démone fragmentée des Assassins Internationaux ; anéantie sauf le pantin-Tolka, captif.
+- Assassins Internationaux - réseau de tueurs de Guerre (hiver 1997-1998) ; ANÉANTIS.
+- Église de Chainsaw Man - culte mondial de l'héroïsme de Chainsaw Man, né à Washington ; cf. SB4.
+- Transformation de masse - levier du Feu [CANON] : ses contractants muables en copies de Chainsaw Man ; TIRÉE en juillet 1999, fauchée d'un souffle.
+- Chainsaw-Men - les contractants du Feu changés en copies de Chainsaw Man (juillet 1999) ; morts avec lui.
+- Shino Sato - nom d'incognito de Mort à la fac (printemps-été 1999).
+- Yomi - réincarnation de Mort (Tokyo, fin d'été 1999) ; nom donné par Makima.
+- Guillotine - engeance de Mort, arsenal ; libérée par la mort de Mort, ralliée à Yomi.
+- Malédiction - engeance de Mort hors Primordiaux ; NEUTRE ABSOLU (commerce d'espérance de vie).
+- Ravageurs - Hanneton, Sauterelle, Cochenille ; lignée du Prédateur, allégeance à Famine puis Kiga.
+- Purge de Poupée - première activation mondiale coordonnée de l'arsenal du Roi (deux heures).
+- Roy d'effrayeur - la descente du Roi dans le ciel de Tokyo (mi-juillet 1999), prophétie accomplie à la lettre.
+- Clé Makima - sentence du contrat de 1984 ; CLOSE d'un commun accord en 1985.
+- Canal tissé - canal de dialogue sans contrat, famille Royale (règle SB1).
+- Doctrine des opportunités - créer / restreindre / saisir ; politique du couple régnant.
+- Gardiens des Cavalières - principe des garde-fous conditionnels (Kishibe, Aki, Ange, Kobeni).
+- Cour - cercle des démons majeurs autour du trône. Royaume - l'Enfer politique d'Effroi.
+- Engeance - démon dérivé d'un concept parent. Possédé - démon dans un cadavre humain. Hybride - humain fusionné à un démon-arme.
+- Terminologie VF - "fiend" BANNI (écrire Possédé) ; Devil Hunter et Chainsaw Man se gardent tels quels.
 
 ## SB3 Chronologie
-| Date/Ere | Evenement | Consequence |
+| Date/Ère | Événement | Conséquence |
 |---|---|---|
-| Prehistoire | Premiere peur humaine ; naissance d'Effroi | fondation de l'espece demoniaque |
-| Prehistoire | Mort (premiere engeance) ; puis Chute, Tenebres, Vieillesse | Primordiaux, peurs de la mort |
-| Premieres societes | Famine, puis Guerre, puis Controle ; puis Tronconneuse (Effacement) | Cavalieres de societes ; arme de dissuasion du trone |
-| Ere du Royaume stable [INCERTAIN] | Naissance d'Enfer ; effacement du sixieme sens ; les quatre issues de la vie arrachees a Mort | cycle bipolaire ; Effroi affaibli ; Mort paradoxalement renforcee |
-| IVe s. | Effacement du SOA (lignee de Famine) | - |
-| XIVe s. | Effacement de l'etoile qui brise l'esprit des enfants (Demence) | - |
-| XIXe s. | Effacement de l'eruption du Mont Hio (Cataclysme) ; asservissement d'Ange par Controle | - |
-| 1917 | Fouet hybridee | plus jeune hybridation de la fiche Armes |
-| 1941-1948 | Effacement du lot : Nazisme, Seconde Guerre mondiale, bombe atomique, Holocauste, Syndrome d'Arnolone | Cavalieres ramenees au niveau commun |
-| 1983 | Sida devore ; rebellion d'Effacement ; MASSACRE en Enfer ; fuite de Tronconneuse reduite | seule alliance Effroi + quatre Cavalieres ; traque des 1984 ; notoriete demoniaque universelle |
-| 18 nov 1984 | Attaque mondiale de Flingue (~1,2 M de morts, dont 57 912 au Japon en 26 s) ; obliteration en personne, fragmentation entre gouvernements | monopole massif ; Mort et Guerre renforcees ; Famine eclipsee ; le fragment sovietique (28%) reste conscient |
-| 2 dec 1984 | Diner Effroi-Controle : contrat (sentence mutuelle de 30 s), conception d'Autorite, Controle Reine des demons ; Makoto infiltre a la SP | plan enclenche ; cle Makima armee |
-| mi-1985 | Scellement de Tank (terreur au regard + contrat de maintien, clause de rappel) | Guerre privee de son char ; premier caillou de l'acculement |
-| ~sept 1985 | Naissance d'Autorite (Nayuta) | heritiere destinee au quatuor reforme |
-| ~1985-1986 | Raid de Guerre : vol des fragments US (20%) et URSS (28%) de Flingue | bloc conscient de 48% chez Guerre ; decouverte par le trone en 1987 |
-| 1989 | Rapatriement de 25% de Flingue ; REVELATION (Makoto est Effroi) -> defection de Flingue | Guerre mue ses 48% en prothese muette ; le trone apprend qu'elle detient la description de Makoto |
-| 1990 | Hybridation de Kishibe (contention, rituel par Makoto - 3e implication) ; huis clos de la revelation (Aki 15 ans, Himeno) | le Gardien ne ; deux humains de plus dans la confidence |
-| 1994 | Concombre repere Pochita chez Denji (15 ans) ; doctrine de Nayuta adoptee ; Division 4 planifiee | traque muee en guet rapproche |
-| 1996 | Affaire Miaouche (4e implication : Chauve-Souris ampute) ; Power recrutee sous ultimatum | dette-recompense plantee ; une demone ancienne a la SP |
-| ~1997 | R3 : hybridation Denji-Pochita, FIN DE LA TRAQUE par absorption ; Division 4 creee ; Zombie retourne (5e implication) | Chainsaw Man au service du trone ; restructuration SP |
-| ~1997 | R4 : Katana place puis repris (coeur de Tetsuo arrache a main nue, 6e implication) ; attaque de Guerre (morts d'Himeno, Arai et trois anonymes) ; deuil orchestre | Katana a l'arsenal sans hote ; dette de Denji nourrie ; Kobeni revelee |
-| ~1997 [CANON SUPPOSE] | Debut des evenements canon de la Partie 1 | repere : le RP les traverse et les depasse |
-| automne 1997 | R5 : operation Reze (fuite, massacre de la 2e division TOLERE, bataille planetaire, Typhon detruit) ; MEDIATISATION mondiale ; operation Serpent (Reze liberee) ; revelations a Denji (trois exclusions) | heros public "Chainsaw Man" ; Guerre a court d'intermediaires ; ascension de Makima acceleree |
-| hiver 1997-1998 | R6 : Assassins Internationaux aneantis (bataille de Tokyo, purge mondiale) ; descente en Enfer, Tenebres DESAMORCE (7e implication) ; Washington - Guerre MORTE (Tank detone, Aki executeur, "Asa" en dernier souffle) ; Kishibe devore la prothese (91%) ; Kobeni demissionne dans la confidence ; Eglise de Chainsaw Man nait ; chasse aux berceaux lancee | premiere Cavaliere insoumise tombee ; Poupee captive ; Predateur replie |
-| janv-fev 1998 | R7 : Asa localisee (Kosovo, chasse ciblee) et RACHETEE (couverture d'Aki) ; adoptee, egale de Nayuta ; Aki DEMANDE et recoit l'hybridation au Katana (8e implication, gel a 23 ans) ; doctrine Pochita revisee | premiere fille adoptee ; gardien permanent installe |
-| fev-mars 1998 | R7 : la Guetteuse (Famine laissee regarder) ; la Negociation (ultimatum a commutateur inverse, voix au chapitre, conditions acceptees) ; crise alimentaire desarmee ; execution de Famine A SA DEMANDE par Makoto (9e implication) | derniere Cavaliere insoumise vivante hors Mort morte ; la reddition accouche de Kiga |
-| printemps 1998 | Naissance de Kiga (Somalie) ; avril : signalement de Fievre, enlevement par Ange (drains en equilibre ; gardien de fait), seconde adoption | fratrie a trois |
-| avril 1998 | Rentree de Denji et Reze en 1e annee de fac : vie normale + couverture d'enquete (l'Eglise recrute sur les campus) | enquete d'un an ouverte |
-| printemps-ete 1998 | LE RANGEMENT : Tank descelle, allegeance juree a Asa ; 9% de douilles rapatriees - Flingue COMPLET (Kishibe 100) ; 5e division levee (Quanxi en tete) ; creance d'epouse SOLDEE (donnant-donnant Quanxi-Power) ; Makima CHEFFE de la SP de Tokyo | arsenal complet ; appareil range ; sommet atteint |
-| ete-automne 1998 | Enquete sur l'Eglise : tracts codes de la branche nihiliste demontes par Nayuta ; piste jusqu'a Kenji Tanaka, pris pour un simple adepte | Neant expose sans le savoir |
-| automne 1998 | REVELATION TOTALE a Denji (trois exclusions levees) ; Pochita se MANIFESTE (muet, questions fermees) - tensions puis approbation ; doctrine Pochita CONFIRMEE | confident total ; secret Pochita solde |
-| hiver 1998-1999 | Climax R7 : Neant demasque (semi-demon) et ABATTU par Denji et Reze, Makoto assistant sans intervenir ; branche nihiliste tombee ; le Feu nomme par le mourant, INTROUVABLE ; transformation de masse jamais tiree ; Mort jamais effleuree ; coda : Barem Bridge infiltre l'Eglise en taupe | l'Eglise survit intacte ; levier arme aux mains du Feu ; taupe en place pour la traque ; la grande gagnante silencieuse reste invisible |
-| fev-mars 1999 | Le choix de Kiga : elle pese, et choisit de rester | promesse tenue envers une morte ; R7 clos ; ouverture R8 avril 1999 |
+| Préhistoire | Première peur humaine ; naissance d'Effroi | fondation de l'espèce démoniaque |
+| Préhistoire | Mort (première engeance) ; puis Chute, Ténèbres, Vieillesse | Primordiaux, peurs de la mort |
+| Premières sociétés | Famine, puis Guerre, puis Contrôle ; puis Tronçonneuse (Effacement) | Cavalières de sociétés ; arme de dissuasion du trône |
+| Ère du Royaume stable [INCERTAIN] | Naissance d'Enfer ; effacement du sixième sens ; les quatre issues de la vie arrachées à Mort | cycle bipolaire ; Effroi affaibli ; Mort paradoxalement renforcée |
+| IVe s. | Effacement du SOA (lignée de Famine) | - |
+| 1215 | Quanxi hybridée à Arc ; elle tue en duel le samouraï dont Makoto prend le nom | première hybride du programme |
+| XIVe s. | Effacement de l'étoile qui brise l'esprit des enfants (Démence) | - |
+| XIXe s. | Effacement de l'éruption du Mont Hio (Cataclysme) ; asservissement d'Ange par Contrôle | - |
+| 1917 | Fouet hybridée | plus jeune hybridation de la fiche Armes |
+| 1941-1948 | Effacement du lot : Nazisme, Seconde Guerre mondiale, bombe atomique, Holocauste, Syndrome d'Arnolone | Cavalières ramenées au niveau commun |
+| 1983 | Sida dévoré ; rébellion d'Effacement ; MASSACRE en Enfer ; fuite de Tronçonneuse réduite | seule alliance Effroi + quatre Cavalières ; traque dès 1984 ; notoriété démoniaque universelle |
+| 18 nov 1984 | Attaque mondiale de Flingue (~1,2 M de morts, dont 57 912 au Japon en 26 s) ; oblitération en personne, fragmentation entre gouvernements | monopole massif ; Mort et Guerre renforcées ; Famine éclipsée ; le fragment soviétique (28%) reste conscient |
+| 2 déc 1984 | Dîner Effroi-Contrôle : contrat (sentence mutuelle de 30 s), conception d'Autorité, Contrôle Reine des démons ; Makoto infiltré à la SP | plan enclenché ; clé Makima armée (close en 1985) |
+| mi-1985 | Scellement de Tank (terreur au regard + contrat de maintien, clause de rappel) | Guerre privée de son char ; premier caillou de l'acculement |
+| ~sept 1985 | Naissance d'Autorité (Nayuta) ; le couple, amoureux, résilie le contrat d'un commun accord | héritière destinée au quatuor réformé ; clé Makima CLOSE ; l'acquis demeure (Reine, autorité cédée, alliance) |
+| ~1985-1986 | Raid de Guerre : vol des fragments US (20%) et URSS (28%) de Flingue | bloc conscient de 48% chez Guerre ; découverte par le trône en 1987 |
+| 1989 | Rapatriement de 25% de Flingue ; RÉVÉLATION (Makoto est Effroi) -> défection de Flingue | Guerre mue ses 48% en prothèse muette ; le trône apprend qu'elle détient la description de Makoto |
+| 1990 | Hybridation de Kishibe (contention, rituel par Makoto - 3e implication) ; huis clos de la révélation (Aki 15 ans, Himeno) | le Gardien né ; deux humains de plus dans la confidence |
+| 1994 | Concombre repère Pochita chez Denji (15 ans) ; doctrine de Nayuta adoptée ; Division 4 planifiée | traque muée en guet rapproché |
+| 1996 | Affaire Miaouche (4e implication : Chauve-Souris amputé) ; Power recrutée sous ultimatum | dette-récompense plantée ; une démone ancienne à la SP |
+| ~1997 | R3 : hybridation Denji-Pochita, FIN DE LA TRAQUE par absorption ; Division 4 créée ; Zombie retourné (5e implication) | Chainsaw Man au service du trône ; restructuration SP |
+| ~1997 | R4 : Katana placé puis repris (cœur de Tetsuo arraché à main nue, 6e implication) ; attaque de Guerre (morts d'Himeno, Arai et trois anonymes) ; deuil orchestré | Katana à l'arsenal sans hôte ; dette de Denji nourrie ; Kobeni révélée |
+| ~1997 [CANON SUPPOSÉ] | Début des événements canon de la Partie 1 | repère : le RP les traverse et les dépasse |
+| automne 1997 | R5 : opération Reze (fuite, massacre de la 2e division TOLÉRÉ, bataille planétaire, Typhon détruit) ; MÉDIATISATION mondiale ; opération Serpent (Reze libérée) ; révélations à Denji (trois exclusions) | héros public "Chainsaw Man" ; Guerre à court d'intermédiaires ; ascension de Makima accélérée |
+| hiver 1997-1998 | R6 : Assassins Internationaux anéantis (bataille de Tokyo, purge mondiale) ; descente en Enfer, Ténèbres DÉSAMORCÉ (7e implication) - Chute témoin, non remarquée ; Washington - Guerre MORTE (Tank détoné, Aki exécuteur, "Asa" en dernier souffle) ; Kishibe dévore la prothèse (91%) ; Kobeni démissionne dans la confidence ; Église de Chainsaw Man naît ; chasse aux berceaux lancée | première Cavalière insoumise tombée ; Poupée captive ; Prédateur replié ; Chute se met à surveiller Ténèbres |
+| janv-fév 1998 | R7 : Asa localisée (Kosovo, chasse ciblée) et RACHETÉE (couverture d'Aki) ; adoptée, égale de Nayuta ; Aki DEMANDE et reçoit l'hybridation au Katana (8e implication, gel à 23 ans) ; doctrine Pochita révisée | première fille adoptée ; gardien permanent installé |
+| fév-mars 1998 | R7 : la Guetteuse (Famine laissée regarder) ; la Négociation (ultimatum à commutateur inverse, voix au chapitre, conditions acceptées) ; crise alimentaire désarmée ; exécution de Famine À SA DEMANDE par Makoto (9e implication) | ne reste que Mort, insoumise ; la reddition accouche de Kiga |
+| printemps 1998 | Naissance de Kiga (Somalie) ; avril : signalement de Fièvre, enlèvement par Ange (drains en équilibre ; gardien de fait), seconde adoption | fratrie à trois |
+| avril 1998 | Rentrée de Denji et Reze en 1re année de fac : vie normale + couverture d'enquête (l'Église recrute sur les campus) | enquête d'un an ouverte |
+| printemps-été 1998 | LE RANGEMENT : Tank descellé, allégeance jurée à Asa ; 9% de douilles rapatriées - Flingue COMPLET (Kishibe 100) ; 5e division levée (Quanxi en tête) ; créance d'épouse SOLDÉE (donnant-donnant Quanxi-Power) ; Makima CHEFFE de la SP de Tokyo | arsenal complet ; appareil rangé ; sommet atteint |
+| été-automne 1998 | Enquête sur l'Église : tracts codés de la branche nihiliste démontés par Nayuta ; piste jusqu'à Kenji Tanaka, pris pour un simple adepte | Néant exposé sans le savoir |
+| automne 1998 | RÉVÉLATION TOTALE à Denji (trois exclusions levées) ; Pochita se MANIFESTE (muet, questions fermées) - tensions puis approbation ; doctrine Pochita CONFIRMÉE | confident total ; secret Pochita soldé |
+| hiver 1998-1999 | Climax R7 : Néant démasqué (semi-démon) et ABATTU par Denji et Reze, Makoto assistant sans intervenir ; branche nihiliste tombée ; le Feu nommé par le mourant, INTROUVABLE ; coda : Barem Bridge infiltre l'Église en taupe | l'Église survit intacte ; levier armé aux mains du Feu ; taupe en place |
+| fév-mars 1999 | Le choix de Kiga : elle pèse, et choisit de rester | promesse tenue envers une morte ; R7 clos |
+| avril-mai 1999 | R8 : Denji et Reze en 2e année ; Mort incognito à la fac (Shino Sato) ; Kobeni revient pour un travail et prend le cœur du Tank (10e implication) | Kobeni au niveau de confidence de Denji ; Tank juré à Asa, sans servitude |
+| mai-juin 1999 | Barem numéro deux de l'Église sous un gourou humain de façade, contractant du Feu ; fin juin : Barem soupçonne, Cataclysme interrogé en Enfer donne le nom | Mort démasquée ; surveillance resserrée |
+| mi-juillet 1999 | LE ROY D'EFFRAYEUR : forme véritable dans le ciel de Tokyo ; contrat de Ténèbres appelé sans contrepartie ; Chainsaw-Men et Feu fauchés d'un souffle (11e implication) ; Barem exfiltré, Guillotine épargnée | prophétie à la lettre ; Église décapitée ; leurs morts nourrissent la présence de Mort à Tokyo ; Ténèbres nourri (graine R10) |
+| fin juillet 1999 | Reddition de Mort sur les ruines devant la famille royale ; sa demande acceptée ; mort VOLONTAIRE | plan long abouti ; Guillotine libérée ; plus aucune Cavalière insoumise |
+| mi -> fin août 1999 | Naissance de Yomi à Tokyo (tue sa mère et une infirmière au contact) ; l'hôpital appelle la SP ; Makoto la récupère ; Makima la nomme ; troisième adoption ; Kobeni gardienne, Tank à ses côtés | quatuor réformé COMPLET ; R8 clos |
 
-Recit d'avant 1984 : cf. Systemes/Histoire.md (borne par construction). Histoire etablie jusqu'a mars 1999 : cf. Resume.md.
+Récit d'avant 1984 : cf. Systemes/Histoire.md (borné par construction). Histoire établie jusqu'à fin août 1999 : cf. Resume.md.
 
-Detail des etapes par arc : cf. CSM/Roadmap/Makoto/ - SOURCE DE BUILD UNIQUEMENT (garde-cap : Chronologie.md, R0 -> R10).
-JAMAIS fetchee en narration : la roadmap porte le FUTUR de la saga, un MJ qui la lit prefigure en prose.
-En jeu : le cadrage de l'arc courant vient de la FICHE D'ARC (tronquee a la frontiere) ; le fil long des arcs traverses vient du CODEX ANNEXE_CHRONO.
+Détail des étapes par arc : cf. CSM/Roadmap/Makoto/ - SOURCE DE BUILD UNIQUEMENT (garde-cap : Chronologie.md, R0 -> R10).
+JAMAIS fetchée en narration : la roadmap porte le FUTUR de la saga, un MJ qui la lit préfigure en prose.
+En jeu : le cadrage de l'arc courant vient de la FICHE D'ARC (tronquée à la frontière) ; le fil long des arcs traversés vient du CODEX ANNEXE_CHRONO.
 
 ### Notes
-- La Partie 1 n'est jamais datee en case ; ~1997 est un consensus. 1984 = P1 moins 13 ans (attaque de Flingue, canon).
-- R6 cale a l'hiver 1997-1998, clos avant le printemps 1998. R7 court de janvier 1998 a mars 1999, clos avant avril 1999.
-- Naissances actees : Aki 4 octobre 1974 ; Denji 1979 ; Reze 1978 ; Nayuta ~septembre 1985.
-- Datations Enfer, Cavalieres et postes vaudous volontairement ouvertes : cf. Systemes/Genealogie.md.
+- La Partie 1 n'est jamais datée en case ; ~1997 est un consensus. 1984 = P1 moins 13 ans (attaque de Flingue, canon).
+- R6 calé à l'hiver 1997-1998, clos avant le printemps 1998. R7 court de janvier 1998 à mars 1999. R8 court d'avril à fin août 1999.
+- Naissances actées : Aki 4 octobre 1974 ; Denji 1979 ; Reze 1978 ; Nayuta ~septembre 1985 ; Yomi fin d'été 1999 (Tokyo).
+- Datations Enfer, Cavalières et postes vaudous volontairement ouvertes : cf. Systemes/Genealogie.md.
 
 ## SB4 Factions et groupes
-- Trone d'Effroi (le Royaume) - monarchie conceptuelle | possession par devotion ; Reseau, Enfer, l'essentiel de l'arsenal, canaux tisses, agents doubles | rivale : Mort | dominant ; arsenal demontre en instrument de frappe mondiale (purge de Poupee) ; foyer a trois filles depuis 1998.
-- Primordiaux (Chute, Tenebres, Vieillesse) - engeances de Mort | Chute alignee (facade loyale), Tenebres DESAMORCE (menace de reinitialisation), Vieillesse fidele sans reserve | rivalite latente entre eux.
-- Mort - Primordiale et Cavaliere (cumul) | rivale declaree, guerre froide jamais ouverte | depuis Washington : AUX COMMANDES de l'Eglise de Chainsaw Man via le Feu, insoupconnee de tous, trone compris ; renforcee par R6-R7 | reincarnation : horizon ouvert | detail: cf. WIKI Personnages/Mort.md.
-- Cavalieres - etat | Controle : alliee, Reine des demons, cheffe de la SP (1998) ; Guerre : morte, reincarnee en ASA (au foyer) ; Famine : morte, reincarnee en KIGA (au foyer) | plus AUCUNE Cavaliere insoumise vivante hors Mort ; quatuor reforme en construction (Autorite + trois reincarnations elevees loyales).
-- Demons-armes (engeances de Guerre) - sept anciennes + Flingue et Tank + trio vaudou | majorite au trone ; Flingue COMPLET chez Kishibe (100%) ; Tank descelle, jure a Asa (hote a venir) ; Katana hybride a Aki ; Bombe libre (Reze, Division 4) ; Quanxi tete de la 5e division | detail: cf. fiches Personnages/.
-- Assassins Internationaux - reseau de tueurs de Guerre | ANEANTIS (hiver 1997-1998) ; reliquat : le pantin-Tolka, captif du trone | detail: cf. WIKI Personnages/Assassins_Internationaux.md.
-- Agents doubles - Makoto lui-meme (infiltre a la SP depuis 1984, tete des rapports d'incidents) ; Bombe sortie de la clandestinite (mission close automne 1997).
-- Trio vaudou (Machette, Aiguille, Griffe) - relais terrestres du trone en divinites vaudoues | renseignement, armement des chasseurs | contractants notoires : Kishibe, Aki | detail: cf. WIKI Personnages/Vaudous.md.
-- Securite Publique (Japon) - agence humaine anti-demons [CANON], en verite un fragment du reseau d'Effroi | MAKIMA CHEFFE depuis 1998 (s'en croit seule maitresse) ; cinq divisions a l'organigramme, quatre actives (la 2 reste dissoute) ; cinq hybrides au service (Denji, Reze, Kishibe, Aki, Quanxi) | detail: cf. WIKI Factions/Securite_Publique.md.
-- Eglise de Chainsaw Man - culte mondial de l'HEROISME de Chainsaw Man, ne sur les ruines de Washington | trois couches : adeptes sinceres (la masse) / contractants du FEU (ils croient a une benediction de leur dieu) / branche nihiliste de feu Neant, tombee a l'hiver 1998-1999 | organigramme reel : Mort -> le Feu -> feu Neant ; tete visible Haruka Iseumi, un ancien non nomme [CANON] en case vide | SURVIT a R7, intacte et innocente en apparence ; taupe du trone infiltree a la cloture (Barem Bridge) | detail: cf. WIKI Factions/Eglise_Chainsaw_Man.md.
+- Trône d'Effroi (le Royaume) - monarchie conceptuelle | possession par dévotion ; Réseau, Enfer, l'essentiel de l'arsenal, canaux tissés, agents doubles | dominant ; arsenal démontré en instrument de frappe mondiale (purge de Poupée, Roy d'effrayeur) ; foyer à quatre filles depuis 1999, quatuor réformé COMPLET.
+- Primordiaux (Chute, Ténèbres, Vieillesse) - engeances de Mort | Chute alignée (façade loyale ; surveille Ténèbres depuis R6, savoir MJ), Ténèbres DÉSAMORCÉ puis nourri par le contrat appelé en 1999, Vieillesse fidèle sans réserve | rivalité latente entre eux ; lignée revenue par principe à Yomi.
+- Mort - MORTE de sa volonté (fin juillet 1999), réincarnée en YOMI, au foyer | detail: cf. WIKI Personnages/Mort.md.
+- Cavalières - état | Contrôle : alliée, Reine des démons, cheffe de la SP (1998) ; Guerre : ASA ; Famine : KIGA ; Mort : YOMI (les trois au foyer) | plus AUCUNE Cavalière insoumise ; quatuor réformé COMPLET (Autorité + trois réincarnées élevées loyales).
+- Démons-armes (engeances de Guerre) - sept anciennes + Flingue et Tank + trio vaudou | majorité au trône ; Flingue COMPLET chez Kishibe (100%) ; Tank hybridé à KOBENI (mai 1999), juré à Asa ; Katana hybride à Aki ; Bombe libre (Reze, Division 4) ; Quanxi tête de la 5e division ; Lance-flammes (Barem, exfiltré de l'Église) | detail: cf. fiches Personnages/.
+- Assassins Internationaux - réseau de tueurs de Guerre | ANÉANTIS (hiver 1997-1998) ; reliquat : le pantin-Tolka, captif du trône | detail: cf. WIKI Personnages/Assassins_Internationaux.md.
+- Agents doubles - Makoto lui-même (infiltré à la SP depuis 1984, tête des rapports d'incidents) ; Bombe sortie de la clandestinité (mission close automne 1997) ; Barem (taupe dans l'Église, mission close juillet 1999).
+- Trio vaudou (Machette, Aiguille, Griffe) - relais terrestres du trône en divinités vaudoues | renseignement, armement des chasseurs | contractants notoires : Kishibe, Aki | detail: cf. WIKI Personnages/Vaudous.md.
+- Sécurité Publique (Japon) - agence humaine anti-démons [CANON], en vérité un fragment du réseau d'Effroi | MAKIMA CHEFFE depuis 1998 (s'en croit seule maîtresse) ; cinq divisions à l'organigramme, quatre actives (la 2 reste dissoute) ; six hybrides au service (Denji, Reze, Kishibe, Aki, Quanxi, Kobeni) | detail: cf. WIKI Factions/Securite_Publique.md.
+- Église de Chainsaw Man - culte mondial de l'HÉROÏSME de Chainsaw Man, né sur les ruines de Washington | organigramme réel jusqu'en 1999 : Mort -> le Feu -> feu Néant ; gourou humain de façade, contractant du Feu ; DÉCAPITÉE en juillet 1999 (contractants changés en Chainsaw-Men et fauchés, le Feu mort) ; reste le culte sincère ; devenir posé en R9 | detail: cf. WIKI Factions/Eglise_Chainsaw_Man.md.
 
 ## SB5 Personnages
-Note : l'ENTITE Effroi/Makoto est decrite en fiche (OC promu au lore) ; son INSTANCE jouee vivra en CODEX + Parties/.
+Note : l'ENTITÉ Effroi/Makoto est décrite en fiche (OC promu au lore) ; son INSTANCE jouée vivra en CODEX + Parties/.
 
-- Effroi / Makoto - Originel, roi des demons | immortel (mortalite conditionnelle, cle Makima) ; trois traits propres ; force brute indexee sur la peur mondiale ; NEUF implications personnelles a date (liste ouverte) ; milliers de contrats sans contrepartie ; doctrines du trone (SB1) ; cercle de la confidence de l'identite Makoto | pere de Nayuta, pere adoptif d'Asa et Kiga ; convoitise mutuelle avec Controle ; rivalite avec Mort | actif | [DIVERGENCE RP] | detail: cf. WIKI Personnages/Effroi.md
-- Mort - Primordiale et Cavaliere, premiere engeance | ne meurt que si elle le VEUT ; toucher mortel ; influence passive | rivale du trone ; aux commandes de l'Eglise via le Feu (insoupconnee) ; la grande gagnante silencieuse de 1998 | active | detail: cf. WIKI Personnages/Mort.md
-- Chute - Primordiale | chute physique et mentale | facade loyale | active | detail: cf. WIKI Personnages/Chute.md
-- Tenebres - Primordial | vide sensoriel (sceau d'Effacement, 1983) ; ne mise que sur ses certitudes | DESAMORCE (certitude nouvelle : affaiblir le trone = reinitialisation) ; sait pour Neant et s'en desinteresse | actif | detail: cf. WIKI Personnages/Tenebres.md
-- Vieillesse - Primordial | Monde de Vieillesse ; tete de la branche temporelle (Avenir, Eternite) | seul fidele sans reserve | actif | detail: cf. WIKI Personnages/Vieillesse.md, Avenir.md, Eternite.md
-- Famine / Fami - Cavaliere (manque, besoin, addiction) ; lignee des maladies | MORTE en mars 1998, de la main du Roi, A SA DEMANDE - reddition negociee, conditions achetees pour sa suivante | Trajectoire CLOSE ; reincarnation : KIGA | detail: cf. WIKI Personnages/Famine.md
-- Guerre / Yoru - Cavaliere (armes, blessures) | MORTE a Washington (hiver 1997-1998) ; canaux eteints, Predateur delie | Trajectoire CLOSE ; reincarnation : ASA | detail: cf. WIKI Personnages/Guerre.md
-- Controle / Makima - Cavaliere devenue REINE DES DEMONS (1984) ; domination des inferieurs, centaines de contrats | CHEFFE de la Securite Publique de Tokyo (1998) ; mere de Nayuta, mere adoptive d'Asa et Kiga ; seule detentrice de la cle-sentence | active | [DIVERGENCE RP] | detail: cf. WIKI Personnages/Controle.md
-- Tronconneuse / Effacement (Pochita) - engeance directe, seule capable d'effacer Effroi | absorbee dans le trone (coeur de Chainsaw Man) ; heros public mondial, objet d'un culte | s'est MANIFESTE a l'automne 1998 - muet, dialogue par questions fermees ; tensions puis approbation du plan ; secret Pochita SOLDE | [DIVERGENCE RP] | detail: cf. WIKI Personnages/Tronconneuse.md
-- Autorite / Nayuta - enfant conceptuel d'Effroi et Controle (reproduction sexuee) ; l'autorite pure | heritiere du quatuor reforme ; cellule de commandement de la Division 4 ; grande soeur d'Asa et Kiga ; demonte les tracts codes de Neant en quelques minutes | active | [DIVERGENCE RP] | detail: cf. WIKI Personnages/Nayuta.md
-- Asa - Cavaliere, reincarnation de GUERRE | nee au Kosovo (hiver 1997-1998), rachetee et adoptee (janv-fev 1998) ; hochet-marteau ; croissance acceleree ; accro a la bagarre ; attachee a AKI (son parrain-gardien) ; Tank a son allegeance | active | detail: cf. WIKI Personnages/Asa.md
-- Kiga - Cavaliere, reincarnation de FAMINE | nee en Somalie (printemps 1998), enlevee par Ange (avril), son gardien de fait ; maigre quoi qu'elle avale, siphon vital ; accro bouffe et calins ; conditions achetees par Famine en application ; choisit de RESTER (fev-mars 1999) | active | detail: cf. WIKI Personnages/Kiga.md
-- Reseau - demon mineur (attachement, liens, perte) | "Pere" et regent des contrats ; carve-out d'inviolabilite ; tisseur des canaux tisses ; executeur des sentences ; depositaire originel du secret Makoto | pilier du Royaume | actif | [DIVERGENCE RP - OC] | detail: cf. WIKI Personnages/Reseau.md
-- Ange - demon de la peur des anges, FORGERON du trone (armes-ames) | drain de vie au toucher, humains seulement ; ailes-bouclier | asservi par Controle (XIXe s.) ; devot du Roi, loyaliste du Royaume plus que du Roi ; ex-gardien de Nayuta (1985-1997), GARDIEN de Kiga depuis avril 1998 (co-dependance) | actif, Division 4 | detail: cf. WIKI Personnages/Ange.md
-- Enfer - demon-territoire | Royaume d'Effroi ; standard de convocation ; loyaute demontree (alerte de la frappe de Poupee) | actif | detail: cf. WIKI Lieux/Enfer.md
-- Demons-armes - Katana (hote : AKI, depuis 1998), Arc/Quanxi (tete de la 5e division ; donnant-donnant avec Power), Bombe/Reze (libre, Division 4, couple avec Denji), Flingue (COMPLET, 100% chez Kishibe), Tank (descelle, jure a Asa, en attente d'hote), Armes (Espadon, Lance-flammes - hote Barem Bridge, taupe dans l'Eglise depuis la cloture de R7 -, Fouet, Lance), Vaudous (trio) | detail: cf. fiches WIKI Personnages/
-- Neant - engeance RENIEE de Tenebres (vide, trous, zero) | dissolution locale au toucher ; coquilles humaines (Kenji Tanaka, qui se dit simple adepte) ; semi-demon en forme de combat ; se revait le second Effacement ; source du savoir de l'Eglise sur l'Effacement | MORT (hiver 1998-1999), abattu par Denji et Reze - un trophee de chasse ; renaissance en Enfer selon le cycle | [DIVERGENCE RP - OC] | detail: cf. WIKI Personnages/Neant.md
-- Feu - engeance de Cataclysme, RENEGAT au service de Mort (sciemment) | contracte sous l'identite de Chainsaw Man ; transformation de masse ARMEE, jamais tiree ; patient, lucide, laisse croire | nomme par Neant mourant ; INTROUVABLE | detail: cf. WIKI Personnages/Feu.md
-- Malediction - engeance de Mort hors Primordiaux | neutre absolu, commerce d'esperance de vie | actif | detail: cf. WIKI Personnages/Malediction.md
-- Typhon - engeance de Cataclysme | detruit (automne 1997) ; fragment-graine (~5%) chez le Roi, libre de tout contrat | detail: cf. WIKI Personnages/Typhon.md
-- Kishibe - Devil Hunter d'elite, hybride de Flingue (1990) - le GARDIEN, complet a 100% depuis l'ete 1998 | chef d'escouade Division 4 ; boussole du trone ; gardien de l'empire (garde-fou d'equilibre) ; rivalite pure avec Quanxi | des Cavalieres qu'il visait, ne reste que Mort | actif | detail: cf. WIKI Personnages/Kishibe.md
-- Aki Hayakawa - orphelin de Flingue (ne 4 oct 1974) ; Division 4 ; executeur de Guerre | HYBRIDE du Katana (janv-fev 1998, a sa demande) ; parrain-GARDIEN d'Asa a demeure ; gel a 23 ans ; Avenir toujours dans l'oeil droit ; ame due aux Vaudous reportee a l'infini | actif | detail: cf. WIKI Personnages/Aki.md
-- Arc / Quanxi - premiere hybride du programme d'Effroi (1215), "Premiere Devil Hunter" | TETE de la 5e division (1998) ; harem mort, compensation soldee (Power a demeure) ; grillee en heroine | active | detail: cf. WIKI Personnages/Arc.md
-- Sang / Power - demone ancienne (engeance directe, elle l'ignore) ; incarnation 1996 | Division 4 ; debridee a Washington ; courtisee par Quanxi (donnant-donnant) ; "tranquille" tant qu'elle sert sans vagues | active | detail: cf. WIKI Personnages/Sang.md
-- Himeno - cheffe de la Division 2, mentor d'Aki | MORTE (~1997, corps entier a Ghost) | Trajectoire close | detail: cf. WIKI Personnages/Himeno.md
-- Denji - hybride de Tronconneuse (Chainsaw Man), ne en 1979 | heros public mondial, identite civile protegee ; etudiant (fac, 1998) et enqueteur de l'Eglise ; couple avec Reze | CONFIDENT TOTAL depuis l'automne 1998 (les trois exclusions levees) ; premier adversaire affronte en sachant ce qu'il porte (Neant) | actif | detail: cf. WIKI Personnages/Denji.md
-- Bombe / Reze - hybride libre (nee 1978, figee a 19 ans) | Division 4, garde rapprochee, etudiante-couverture ; co-executrice de Neant | active | detail: cf. WIKI Personnages/Bombe.md
-- Zombie - engeance de Mort | retourne, collection personnelle du couple | actif | detail: cf. WIKI Personnages/Zombie.md
-- Beam - Possede du Requin, engeance de Predateur | devot de Chainsaw Man, sa monture ; Division 4 | actif | detail: cf. WIKI Personnages/Beam.md
-- Chauve-Souris et Sangsue - la paire du Predateur | MORTS (~1997) | Trajectoire close | detail: cf. WIKI Personnages/Chauve_Souris.md
-- Predateur - "Le Chasseur", engeance directe ancienne renegate | meute des huit fauves decimee, alliance morte avec Guerre, ravageurs passes a Kiga | REPLIE, se fait oublier | detail: cf. WIKI Personnages/Predateur.md
+- Effroi / Makoto - Originel, roi des démons | immortel (seule sortie : l'effacement ; clé Makima close en 1985) ; trois traits propres ; force brute indexée sur la peur mondiale ; ONZE implications (liste ouverte) ; milliers de contrats sans contrepartie ; pour lui tout le monde est un outil, sauf sa femme et ses filles | père de Nayuta, père adoptif d'Asa, Kiga et Yomi ; amour du couple depuis 1985 | actif | [DIVERGENCE RP] | detail: cf. WIKI Personnages/Effroi.md
+- Mort - Primordiale et Cavalière, première engeance | MORTE de sa seule volonté (fin juillet 1999), acculée après le Roy d'effrayeur ; une seule demande, que l'entêtement ne soit pas reproché à Yomi | Trajectoire CLOSE ; réincarnation : YOMI | detail: cf. WIKI Personnages/Mort.md
+- Chute - Primordiale | chute physique et mentale | façade loyale ; surveille Ténèbres depuis R6 (savoir MJ) | active | detail: cf. WIKI Personnages/Chute.md
+- Ténèbres - Primordial | vide sensoriel (sceau d'Effacement, 1983) ; ne mise que sur ses certitudes | DÉSAMORCÉ ; contrat appelé par le Roi en juillet 1999, nourri par la puissance prêtée (graine R10) | actif | detail: cf. WIKI Personnages/Tenebres.md
+- Vieillesse - Primordial | Monde de Vieillesse ; tête de la branche temporelle (Avenir, Éternité) | seul fidèle sans réserve | actif | detail: cf. WIKI Personnages/Vieillesse.md, Avenir.md, Eternite.md
+- Famine / Fami - Cavalière du manque | MORTE en mars 1998, de la main du Roi, À SA DEMANDE | Trajectoire CLOSE ; réincarnation : KIGA | detail: cf. WIKI Personnages/Famine.md
+- Guerre / Yoru - Cavalière des armes | MORTE à Washington (hiver 1997-1998) | Trajectoire CLOSE ; réincarnation : ASA | detail: cf. WIKI Personnages/Guerre.md
+- Contrôle / Makima - Cavalière devenue REINE DES DÉMONS (1984) ; domination des inférieurs, centaines de contrats | CHEFFE de la SP de Tokyo (1998) ; mère de Nayuta, mère adoptive d'Asa, Kiga et Yomi (elle nomme Nayuta et Yomi) ; contrat de 1984 résilié d'un commun accord (1985) | active | [DIVERGENCE RP] | detail: cf. WIKI Personnages/Controle.md
+- Tronçonneuse / Effacement (Pochita) - engeance directe, seule capable d'effacer Effroi | absorbée dans le trône (cœur de Chainsaw Man) ; héros public mondial, objet d'un culte | manifesté à l'automne 1998, muet, questions fermées ; secret Pochita SOLDÉ | [DIVERGENCE RP] | detail: cf. WIKI Personnages/Tronconneuse.md
+- Autorité / Nayuta - enfant conceptuel d'Effroi et Contrôle (reproduction sexuée) ; l'autorité pure ; nom donné par Makima | héritière du quatuor réformé ; cellule de commandement de la Division 4 ; grande sœur d'Asa, Kiga et Yomi ; Kishibe son gardien depuis R6 | active | [DIVERGENCE RP] | detail: cf. WIKI Personnages/Nayuta.md
+- Asa - Cavalière, réincarnation de GUERRE | née au Kosovo (hiver 1997-1998), rachetée et adoptée ; hochet-marteau ; accro à la bagarre ; attachée à AKI (parrain-gardien) ; Tank à son allégeance ; gel adulte hiver 1999-2000 | active | detail: cf. WIKI Personnages/Asa.md
+- Kiga - Cavalière, réincarnation de FAMINE | née en Somalie (printemps 1998), enlevée par Ange, son gardien de fait ; siphon vital ; accro bouffe et câlins ; choisit de RESTER (fév-mars 1999) ; gel adulte printemps 2000 | active | detail: cf. WIKI Personnages/Kiga.md
+- Yomi - Cavalière et Primordiale, réincarnation de MORT | née à Tokyo (fin d'été 1999) à son apogée ; toucher mortel inconditionnel au berceau, qui passe outre les immortalités ; seul Effroi la touche ; paranoïa du contact (bonnet, gants) ; gardienne : Kobeni ; gel adulte fin d'été 2001 | active | detail: cf. WIKI Personnages/Yomi.md
+- Réseau - démon mineur (attachement, liens, perte) | "Père" et régent des contrats ; carve-out d'inviolabilité ; tisseur des canaux tissés ; exécuteur des sentences ; dépositaire originel du secret Makoto | pilier du Royaume | actif | [DIVERGENCE RP - OC] | detail: cf. WIKI Personnages/Reseau.md
+- Ange - démon de la peur des anges, FORGERON du trône (armes-âmes) | drain de vie au toucher, humains seulement | asservi par Contrôle (XIXe s.) ; loyaliste du Royaume plus que du Roi ; ex-gardien de Nayuta, GARDIEN de Kiga depuis avril 1998 | actif, Division 4 | detail: cf. WIKI Personnages/Ange.md
+- Enfer - démon-territoire | Royaume d'Effroi ; standard de convocation | actif | detail: cf. WIKI Lieux/Enfer.md
+- Cataclysme - engeance directe ancienne, fidèle | catastrophes naturelles ; désintérêt de lignée ; a donné le nom de Mort (juin 1999) | actif | detail: cf. WIKI Personnages/Cataclysme.md
+- Démons-armes - Katana (hôte : AKI), Arc/Quanxi (tête de la 5e division), Bombe/Reze (libre, Division 4), Flingue (COMPLET chez Kishibe), Tank (hôte : KOBENI depuis mai 1999 ; juré à Asa sans servitude ; garde de Yomi), Armes (Espadon, Lance-flammes - hôte Barem Bridge, numéro deux de l'Église puis exfiltré -, Fouet, Lance), Vaudous (trio) | detail: cf. fiches WIKI Personnages/
+- Kobeni Higashiyama - hybride du Tank (mai 1999) | confidence niveau Denji ; GARDIENNE de Yomi, elle s'y retrouve (deux qui tuent malgré elles) | active | detail: cf. WIKI Personnages/Tank.md
+- Guillotine - engeance de Mort, arsenal | lame, esprit lent | épargnée en juillet 1999, libérée par la mort de Mort, ralliée à Yomi | active | detail: cf. WIKI Personnages/Guillotine.md
+- Néant - engeance RENIÉE de Ténèbres | antagoniste de 1998, source du savoir de l'Église sur l'Effacement | MORT (hiver 1998-1999), abattu par Denji et Reze ; renaissance en Enfer selon le cycle | [DIVERGENCE RP - OC] | detail: cf. WIKI Personnages/Neant.md
+- Feu - engeance de Cataclysme, RENÉGAT au service de Mort | MORT (mi-juillet 1999), fauché par le Roi après avoir tiré la transformation de masse | Trajectoire CLOSE | detail: cf. WIKI Personnages/Feu.md
+- Malédiction - engeance de Mort hors Primordiaux | neutre absolu, commerce d'espérance de vie | actif | detail: cf. WIKI Personnages/Malediction.md
+- Typhon - engeance de Cataclysme | détruit (automne 1997) ; fragment-graine (~5%) chez le Roi | detail: cf. WIKI Personnages/Typhon.md
+- Kishibe - Devil Hunter d'élite, hybride de Flingue (1990) - le GARDIEN, complet à 100% | chef d'escouade Division 4 ; boussole du trône ; gardien de l'empire ; rivalité pure avec Quanxi | plus aucune Cavalière insoumise à viser | actif | detail: cf. WIKI Personnages/Kishibe.md
+- Aki Hayakawa - orphelin de Flingue (né 4 oct 1974) ; Division 4 ; exécuteur de Guerre | HYBRIDE du Katana (1998) ; parrain-GARDIEN d'Asa ; gel à 23 ans ; Avenir dans l'œil droit | actif | detail: cf. WIKI Personnages/Aki.md
+- Arc / Quanxi - première hybride du programme d'Effroi (1215), "Première Devil Hunter" ; a tué le samouraï dont Makoto porte le nom | TÊTE de la 5e division ; Power à demeure | active | detail: cf. WIKI Personnages/Arc.md
+- Sang / Power - démone ancienne (engeance directe, elle l'ignore) ; incarnation 1996 | Division 4 ; courtisée par Quanxi | active | detail: cf. WIKI Personnages/Sang.md
+- Himeno - cheffe de la Division 2, mentor d'Aki | MORTE (~1997) | Trajectoire close | detail: cf. WIKI Personnages/Himeno.md
+- Denji - hybride de Tronçonneuse (Chainsaw Man), né en 1979 | héros public mondial, identité civile protégée ; étudiant (2e année, 1999) ; couple avec Reze ; CONFIDENT TOTAL depuis l'automne 1998 | actif | detail: cf. WIKI Personnages/Denji.md
+- Bombe / Reze - hybride libre (née 1978, figée à 19 ans) | Division 4, garde rapprochée, étudiante-couverture | active | detail: cf. WIKI Personnages/Bombe.md
+- Zombie - engeance de Mort | retourné, collection personnelle du couple | actif | detail: cf. WIKI Personnages/Zombie.md
+- Beam - Possédé du Requin, engeance de Prédateur | dévot de Chainsaw Man, sa monture ; Division 4 | actif | detail: cf. WIKI Personnages/Beam.md
+- Chauve-Souris et Sangsue - la paire du Prédateur | MORTS (~1997) | Trajectoire close | detail: cf. WIKI Personnages/Chauve_Souris.md
+- Prédateur - "Le Chasseur", engeance directe ancienne renégate | meute décimée, alliance morte avec Guerre, ravageurs passés à Kiga | REPLIÉ | detail: cf. WIKI Personnages/Predateur.md
 
 ## SB6 Lieux
-- Terre - plan d'origine des demons | theatre du cycle et de l'histoire humaine | actif
-- Enfer - plan reel ne du demon Enfer ; Royaume d'Effroi ; entite double lieu+demon | lieu de naissance des demons posterieurs ; siege de la Cour ; standard de convocation | actif | detail: cf. WIKI Lieux/Enfer.md
+- Terre - plan d'origine des démons | théâtre du cycle et de l'histoire humaine | actif
+- Enfer - plan réel né du démon Enfer ; Royaume d'Effroi ; entité double lieu+démon | lieu de naissance des démons postérieurs ; siège de la Cour ; standard de convocation | actif | detail: cf. WIKI Lieux/Enfer.md
 
 ## SB7 Artefacts et objets
 `Objet - nature | origine | pouvoir/fonction | localisation connue | certitude`
-- Tracts codes de la branche nihiliste - papier fin, gabarit officiel de l'Eglise | Eglise de Chainsaw Man, branche de Neant (1998) | lettres imprimees recto-verso, OPAQUES a contre-jour, reculees d'un cran : LE NEANT EST LE REMEDE / CONTACTER ADEPTE TANAKA ; en-tete "LA LUMIERE REVELE LA VERITE" ; decalage souffle a la distribution ; manques des mois par la SP, demontes par Nayuta en quelques minutes | saisis par la SP a l'enquete de 1998 | [DIVERGENCE RP] | detail: cf. WIKI Factions/Eglise_Chainsaw_Man.md
+- Tracts codés de la branche nihiliste - papier fin, gabarit officiel de l'Église | Église de Chainsaw Man, branche de Néant (1998) | lettres imprimées recto-verso, OPAQUES à contre-jour, reculées d'un cran : LE NÉANT EST LE REMÈDE / CONTACTER ADEPTE TANAKA ; en-tête "LA LUMIÈRE RÉVÈLE LA VÉRITÉ" ; démontés par Nayuta en quelques minutes | saisis par la SP à l'enquête de 1998 | [DIVERGENCE RP] | detail: cf. WIKI Factions/Eglise_Chainsaw_Man.md
 
-## SB8 Mysteres ouverts et Tchekhov
+## SB8 Mystères ouverts et Tchekhov
 
-### Mysteres
-- Titre de "premiere Reine" de Mort (alliance originelle) - SCELLE, ne pas creuser ; distinct du titre "Reine des demons" de Controle | ouvert (scelle)
-- Datation de la naissance d'Enfer - posterieure aux cinq engeances directes | ouvert
-- Reincarnation de Tronconneuse (memoire) | ouvert [INCERTAIN]
-- Source du savoir des rares adeptes de l'Eglise sur l'Effacement | RESOLU : Neant
-- Quatrieme ancien de l'Eglise de Chainsaw Man - role et identite jamais reveles [CANON] | ouvert (case vide volontaire)
+### Mystères
+- Titre de "première Reine" de Mort (alliance originelle) - SCELLÉ, ne pas creuser ; distinct du titre "Reine des démons" de Contrôle | ouvert (scellé)
+- Datation de la naissance d'Enfer - postérieure aux cinq engeances directes | ouvert
+- Réincarnation de Tronçonneuse (mémoire) | ouvert [INCERTAIN]
+- Mémoire des concepts effacés chez Yomi (passe-t-elle à l'incarnation nouvelle ?) | [À TRANCHER]
+- Quatrième ancien de l'Église de Chainsaw Man - rôle et identité jamais révélés [CANON] | ouvert (case vide volontaire)
 
 ### Tchekhov
-`Fil - plante en | condition de detonation | consequence attendue | statut`
-- Cle Makima (mortalite conditionnelle d'Effroi) - plante 1984 | trahison de Makoto : 30 s, sa propre main sous l'ordre de Controle ; emporte aussi ses canaux tisses | seule voie externe vers la mort du Roi | ARME
-- Equilibre des Gardiens - plante 1990 (Kishibe), etendu 1998 (Aki, Ange) | si le trone devie de l'equilibre, les garde-fous s'arment contre l'empire et la dynastie | prix permanent de la loyaute des gardiens | ARME
-- Ames vaudoues - plante 1984 (Kishibe) et 1990 (Aki) | fil VIDE de ses deux contractants notoires : Kishibe ne raccrochera jamais, l'echeance d'Aki est reportee a l'infini ; les Vaudous s'en accommodent | ouvert (dormant)
-- Lecon de l'arrachage (Denji) - plante ~1997, retro-eclairee | detonation si Denji veut un jour sortir des regles du couple | il sait ce qu'il en coute | ARME
-- Doctrine de la perte (Denji) - suivi permanent | application arc apres arc | le bonheur de Denji bati sur la perte apprise | ouvert (application continue)
-- Fragment de Typhon (~5% chez Makoto) - plante automne 1997 | assurance-vie du demon et levier du trone, reemploi possible | ouvert
-- Poupee captive (le pantin-Tolka) - plante hiver 1997-1998 | dernier fragment, sans contrat actif, soumis par Nayuta | devenir a ecrire | ouvert
-- Predateur replie - plante hiver 1997-1998 | le Chasseur sans meute ni allie, ravageurs perdus | reemploi pour plus tard | ouvert
-- Le Chien de Nayuta - plante hiver 1997-1998 | fauve capture, demon de compagnie de l'heritiere | devenir a ecrire | ouvert
-- Kobeni - partie DANS LA CONFIDENCE (niveau Denji) | retour a l'horizon suivant ; hybride pressenti : TANK | candidate connue, le savoir la fera revenir | ARME
-- Transformation de masse - plante hiver 1997-1998 | levier ARME aux mains du Feu, jamais tire | detonation a venir, pour quelqu'un d'autre | ARME
-- Le Feu en cavale - plante hiver 1998-1999 | nomme par Neant mourant, introuvable ; pion de Mort (savoir MJ strict) | traque a l'horizon suivant | ouvert
-- Taupe Barem - plante a la cloture de R7 (hiver 1998-1999) | traque du Feu | instrument du trone dans l'Eglise | ARME
-- Mort aux commandes de l'Eglise - plante hiver 1997-1998 | savoir MJ strict : personne en scene ne le sait, Makoto compris | la rivale invisible arme son coup | ARME
-- Neant en Enfer - plante hiver 1998-1999 | tue sur Terre, renaissance en Enfer selon le cycle | devenir ouvert | ouvert
-- Division 3 (Seraphim, Dominion, Virtue) - plante 1984 | trois rallies discrets au roster | - | ouvert (muet)
-- Reseau depositaire originel du secret Makoto - plante a l'origine | - | - | ouvert (muet)
-- SOLDES (resolus) : repartition de Flingue (cle FERMEE, Kishibe 100 ; convention : 1 douille ne vaut pas 1%) ; sceau et descellement de Tank (allegeance juree a Asa ; hote a venir) ; Katana sans hote (hote : Aki) ; dette d'attachement de Denji (revelation totale, secret Pochita leve) ; creance d'epouse de Quanxi (Power) ; graine de la 5e division (levee, Quanxi) ; parrainage d'Aki (accorde et consomme) ; images de R5 (consommees).
+`Fil - planté en | condition de détonation | conséquence attendue | statut`
+- Équilibre des Gardiens - planté 1990 (Kishibe), étendu 1998 (Aki, Ange) et 1999 (Kobeni) | si le trône dévie de l'équilibre, les garde-fous s'arment ; en R10 : dégainé, non tiré (un traître en attente provoque la scène) | preuve de la loyauté des gardiens | ARMÉ
+- Chute surveille Ténèbres - planté hiver 1997-1998 (savoir MJ) | Ténèbres complote contre une fille du Roi | Chute le tue elle-même et vient le raconter au Roi, pour se savoir fiable | ARMÉ (R10)
+- Putsch de Ténèbres - planté juillet 1999 | puissance prêtée + affaiblissement de Mort par l'équilibrage | le dernier rebelle se déclare | ARMÉ (R10)
+- Immortalité conceptuelle de Makima - planté 1999 | monopole mondial | à trancher au build R10 | ouvert
+- Âmes vaudoues - planté 1984 (Kishibe) et 1990 (Aki) | fil VIDE de ses deux contractants notoires ; les Vaudous s'en accommodent | ouvert (dormant)
+- Leçon de l'arrachage (Denji) - planté ~1997 | détonation si Denji veut un jour sortir des règles du couple | il sait ce qu'il en coûte | ARMÉ
+- Doctrine de la perte (Denji) - suivi permanent | application arc après arc | le bonheur de Denji bâti sur la perte apprise | ouvert (application continue)
+- Fragment de Typhon (~5% chez Makoto) - planté automne 1997 | assurance-vie du démon et levier du trône, réemploi possible | ouvert
+- Poupée captive (le pantin-Tolka) - planté hiver 1997-1998 | dernier fragment, soumis par Nayuta | devenir à écrire | ouvert
+- Prédateur replié - planté hiver 1997-1998 | le Chasseur sans meute ni allié | réemploi pour plus tard | ouvert
+- Le Chien de Nayuta - planté hiver 1997-1998 | démon de compagnie de l'héritière | devenir à écrire | ouvert
+- Néant en Enfer - planté hiver 1998-1999 | renaissance en Enfer selon le cycle | devenir ouvert | ouvert
+- Division 3 (Seraphim, Dominion, Virtue) - planté 1984 | trois ralliés discrets au roster | - | ouvert (muet)
+- Réseau dépositaire originel du secret Makoto - planté à l'origine | - | - | ouvert (muet)
+- SOLDÉS (résolus) : clé Makima (close d'un commun accord, ~sept 1985) ; plan long d'acculement de Mort (abouti, juillet 1999) ; Mort aux commandes de l'Église (démasquée fin juin, reddition) ; transformation de masse (tirée et fauchée) ; le Feu en cavale (mort) ; taupe Barem (servie, exfiltrée) ; Kobeni (hybridée au Tank, gardienne de Yomi) ; répartition de Flingue (Kishibe 100 ; 1 douille ne vaut pas 1%) ; sceau de Tank (descellé, juré à Asa) ; Katana sans hôte (Aki) ; dette d'attachement de Denji (révélation totale) ; créance d'épouse de Quanxi (Power) ; 5e division (levée) ; parrainage d'Aki ; images de R5 (consommées) ; source du savoir de l'Église sur l'Effacement (Néant).
 
 ## SB9 Index - routage
 
-Index detaille page-par-page : cf. WIKI CSM/Sommaire.md.
-(Inventaire des dossiers : cf. SB0 pages wiki rattachees.)
-Routage des entites groupees : Poupee, le pantin-Tolka, le trio americain et leurs armes de contrat (Corde, Surin) vivent dans Personnages/Assassins_Internationaux.md ; la meute des huit fauves dans Personnages/Predateur.md ; le demon Chien dans Personnages/Nayuta.md ; Fievre et les ravageurs (figurants) dans Systemes/Genealogie.md ; Haruka Iseumi et l'ancien non nomme dans Factions/Eglise_Chainsaw_Man.md ; les rattachements genealogiques dans Systemes/Genealogie.md.
+Index détaillé page-par-page : cf. WIKI CSM/Sommaire.md.
+(Inventaire des dossiers : cf. SB0 pages wiki rattachées.)
+Routage des entités groupées : Poupée, le pantin-Tolka, le trio américain et leurs armes de contrat (Corde, Surin) vivent dans Personnages/Assassins_Internationaux.md ; la meute des huit fauves dans Personnages/Predateur.md ; le démon Chien dans Personnages/Nayuta.md ; Kobeni dans Personnages/Tank.md ; Fièvre et les ravageurs (figurants) dans Systemes/Genealogie.md ; Haruka Iseumi, l'ancien non nommé et le gourou de façade dans Factions/Eglise_Chainsaw_Man.md ; les rattachements généalogiques dans Systemes/Genealogie.md.
 
 ---
 
-FIN_BIBLE_B12
+FIN_BIBLE_B13
