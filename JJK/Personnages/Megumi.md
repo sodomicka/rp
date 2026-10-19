@@ -1,6 +1,6 @@
 # Megumi Fushiguro
 
-- version : W8
+- version : W9
 
 Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = qui est Megumi a son entree en scene (identite, nature, sort, psychologie, relations) ; son devenir post-2008 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps ere B). Enfant sur tout B1 : scaling de combat non pertinent (potentiel seulement).
 
@@ -53,6 +53,7 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya
 ## Place dans le focus
 - Le "futur prodige" du foyer de Saitama : premier fruit concret de la doctrine educative du couple (puissant qui protege, hors-Zenin).
 - Pretendant LATENT a la succession Zenin malgre lui (porte les Dix Ombres, mais eleve hors clan) - tension dormante avec Naoya, a armer sans detoner en B.
+- [DIVERGENCE RP] REFUS CONSTANT du trone : des sa premiere visite au domaine (2009), quand Naobito le lui propose ; le sujet peut revenir en famille, sans pression, et chaque fois il refuse. Nisha lui demande de choisir pour lui-meme, et non pour un clan qui a voulu le racheter comme une marchandise.
 
 ## Grade et scaling
 - En B1 : enfant (7 a 12 ans), debutant ; aucun scaling de combat pertinent.
@@ -71,6 +72,7 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya
 |---|---|---|
 | 2008 (B1) | Adopte avec Tsumiki par le couple ; emmenagement a Saitama, hors-Zenin | d'enfant promis au clan a fils adopte ; soustrait a la vente (deja annulee) |
 | 2009 (B1) | Revele ses premiers shikigami (~8-9 ans) ; entraine "puissant qui protege", jamais une arme. Tsumiki l'encourage et se lie a ses familiers | sort manifeste ; cultivation hors-moule engagee |
+| 2009 (B1_2) | Convoque devant le conseil Zenin ; Naobito lui propose la succession : il REFUSE | premier refus ; designe par dogme malgre tout |
 | avr 2018 (B3) | Entre a l'universite de TOKYO : 1re annee dans la classe de son pere Satoru (promo 2018-2021). Seul 1re annee a la rentree - Yuji Itadori et Nobara Kugisaki n'arrivent qu'en ere C | etudiant exorciste ; eleve de son pere |
 | juin 2018 (B3, cloture ere B) | Veille de sa PREMIERE MISSION SOLO : recuperer une relique de Grade Special dans une fac de Sendai - le doigt de Sukuna, a la fac de Yuji | seuil de l'ere C |
 | juin 2018 (C1_1) | Blessé face aux fléaux attirés par le doigt ; Yuji avale le doigt pour le sauver. Désespéré face au réceptacle, s'apprête à invoquer MAHORAGA avant même la menace : ses parents arrivent en un dixième de seconde. Choisit de sauver Yuji plutôt que de l'exorciser | a vu ses parents débarquer pour lui ; Mahoraga NON invoqué |
@@ -87,7 +89,7 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya
 
 ## Notes de frontiere (hors B1)
 - Montee en puissance fine 2009-2018 (repertoire de shikigami domptes, amitie avec les familiers) : detail -> roadmaps B2/B3. Entree a Tokyo et veille de mission solo : integrees en Trajectoire datee.
-- Mahoraga invoqué à Shibuya (C2_5). Réceptacle parfait, rivalité Naoya détonée (testament ouvert après le 1er novembre 2018) : -> ère D.
+- Mahoraga invoqué à Shibuya (C2_5). Réceptacle parfait -> ère D. Testament lu par Naoya dans la nuit du 31 oct 2018 ; Megumi refuse, Naoya prend le trône par le coup d'État du 1er nov (cf. Roadmap/Nisha/Roadmap_D1.md).
 - Instance jouee (impact d'une partie donnee) : -> Parties/JJK/Partie<n>/ le cas echeant. Cette fiche reste la version neutre.
 
 ## Pointeurs

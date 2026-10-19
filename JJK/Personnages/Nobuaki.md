@@ -1,6 +1,6 @@
 # Nobuaki Zenin
 
-- version : W2
+- version : W3
 
 Fiche noyau (secondaire). Canon + RP. Etat = jusqu'au point de depart (2005). Devenir post-2005 -> roadmap.
 
@@ -26,7 +26,7 @@ Fiche noyau (secondaire). Canon + RP. Etat = jusqu'au point de depart (2005). De
 - Capitaine de la Kukuru (police interne, troupe sans technique).
 
 ## Notes de frontiere (hors noyau)
-- Devenir post-2005 (envoie la Kukuru contre Maki, puis combat aux cotes du Hei, mort gorge arrachee, canon) -> roadmap.
+- Devenir post-2005 : [DIVERGENCE RP] meurt avec la Kukuru au coup d'Etat du 1er nov 2018, dans la melee contre Mai, Ranta et Maki (cf. Roadmap/Nisha/Roadmap_D1.md). Canon : envoie la Kukuru contre Maki, mort gorge arrachee.
 
 ---
 

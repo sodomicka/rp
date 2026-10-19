@@ -1,6 +1,6 @@
 # Chojuro Zenin
 
-- version : W2
+- version : W3
 
 Fiche noyau (secondaire). Canon + RP. Etat = jusqu'au point de depart (2005). Devenir post-2005 -> roadmap.
 
@@ -29,7 +29,7 @@ Fiche noyau (secondaire). Canon + RP. Etat = jusqu'au point de depart (2005). De
 - Membre du Hei.
 
 ## Notes de frontiere (hors noyau)
-- Devenir post-2005 (combat et mort lors du massacre de Maki, gorge arrachee, canon) -> roadmap.
+- Devenir post-2005 : [DIVERGENCE RP] tue par Nisha et Naoya au coup d'Etat du 1er nov 2018, avec le reste du Hei (cf. Roadmap/Nisha/Roadmap_D1.md). Canon : mort au massacre de Maki.
 
 ---
 

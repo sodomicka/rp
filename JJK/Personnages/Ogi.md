@@ -1,6 +1,6 @@
 # Ogi Zenin
 
-- version : W6
+- version : W7
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -48,10 +48,12 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 | printemps 2006 (A2_1bis) | Nargue en personne par Naoya et Nisha sur la loterie genetique du clan : ses filles sont les mauvais numeros (Maki bridee + Restriction Celeste, Mai bridee), Naobito le jackpot (ses jumeaux Naoya/Nisha en symbiose). Encaisse MUET - le Hei, lui compris, ne replique jamais aux jumeaux pour ne pas se faire humilier 2 contre 1 | humiliation publique avalee en silence ; rancoeur intacte |
 | 2006, post-pivot Toji (A2_6) | Siege au conseil (avec Naobito et Jinichi) quand les jumeaux soumettent leur doctrine edulcoree ("revoir nos investissements humains"). RIT - mais sous couvert du conseil : seul, il encaissait la vanne en silence ; adosse aux trois, il se decouvre des dents. La moquerie collective scelle le secret | co-auteur du rejet qui pousse les jumeaux a appliquer la doctrine en douce |
 | 24 dec 2017 (B3) | NUIT DES CENT FLEAUX, Kyoto : alerte par Nisha via Naoya, monte a la vieille ville AVEC LE CONSEIL au complet. Le clan combat aux cotes de l'universite de Kyoto - fleaux ET maitres des fleaux, aucun prisonnier, aucun mort cote universite | pilier du Hei engage au front de Kyoto ; conseil au complet |
+| 31 oct - 1 nov 2018 (C3, hors POV) | Refuse le trone a Naoya malgre le testament (Megumi designe), avec Jinichi | conservateurs contre les jumeaux |
+| 1 nov 2018 (D1) | Apprend en fin de matinee la menace de Nisha aux Instances. Ce qui decide les conservateurs : Nisha a menace les Instances, donc elle est contre eux ; Satoru n'est plus la, il ne reste que l'ancienne prodige devenue mere de famille ; la force des jumeaux, ce sont les faibles a proteger. Lance la PURGE pendant l'absence de Naoya (strategie mal rodee ; Naobito, conscient du niveau de ses jumeaux, ne l'aurait jamais tentee) : Kukuru et Hei contre Mai et Ranta. Croise les jumeaux sans un mot - il sait que ses ennemies sont ses filles. TUE par Maki et Mai | mort |
 
 ## Notes de frontiere (hors noyau)
 - Detail du beat de la Nuit des Cent Fleaux (actions individuelles au front) : cf. Roadmap/Nisha/Roadmap_B3.md (a builder).
-- Devenir post-2005 (complot contre Megumi, tentative d'execution de Maki et Mai) -> roadmap. Sa chute : [DIVERGENCE RP] non plus le massacre canon par Maki, mais le COUP D'ETAT post-Shibuya dont il est l'une des cibles designees, avec Jinichi - retour de la moquerie de 2006 (cf. BIBLE SB8).
+- Sa chute : [DIVERGENCE RP] non plus le massacre canon par Maki seule, mais le COUP D'ETAT du 1er nov 2018 : tue par ses deux filles (cf. Roadmap/Nisha/Roadmap_D1.md, BIBLE SB8).
 - Mecanique gemellaire de Maki/Mai (Restriction Celeste, pool) : cf. fiches Maki/Mai et pool gemellaire (Personnages/Nisha.md).
 
 ---

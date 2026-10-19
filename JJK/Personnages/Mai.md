@@ -1,6 +1,6 @@
 # Mai Zenin
 
-- version : W11
+- version : W12
 
 Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir). Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (detail -> roadmap).
 
@@ -18,9 +18,9 @@ Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir
 - Dans la mecanique gemellaire, c'est Mai qui porte le sort inne et la majeure partie de l'energie occulte du duo (cf. pool gemellaire, Personnages/Nisha.md).
 
 ## Grade et scaling
-- Puissance selon le partage gemellaire (curseur a somme constante) : de 1 doigt a l'etat de base (50/50 = Semi-Grade 2) jusqu'a 18 a 100 % d'energie occulte. Pour Mai (sort), plus d'EO = plus de puissance. Table complete : cf. Power_Scaling/Doigts_de_Sukuna.md (partage gemellaire).
+- Puissance selon le partage gemellaire (curseur a somme constante) : de 1 doigt a l'etat de base (50/50 = Semi-Grade 2) jusqu'a 17 a 100 % d'energie occulte. Pour Mai (sort), plus d'EO = plus de puissance. Table complete : cf. Power_Scaling/Doigts_de_Sukuna.md (partage gemellaire).
 - [DIVERGENCE RP] Role de frein gemellaire : tant que Mai vit, le partage bride Maki a l'etat de base. Sa mort liberait le curseur et ferait basculer Maki sur la VOIE TOJI (jusqu'a 18 doigts, corps de monstre) - le danger identifie par les jumeaux en A2_6 (cf. fiche Maki et Trajectoire datee). Le sort le plus fragile du duo porte ainsi l'enjeu le plus lourd.
-- [DIVERGENCE RP] En duo, les jumelles relevent de la loi synergie/symbiose (jumelles -> symbiose s'applique ; cf. Power_Scaling/Doigts_de_Sukuna.md) appliquee a leurs puissances individuelles issues du curseur. Repere d'apogee : repartition 0/100 (chacune a 18 doigts) + syn = sym = 100 % -> Maki+Mai ensemble a ~26.6 doigts (196.94 %), au-dessus du duo Naoya+Nisha (24). Cf. fiche Maki.
+- [DIVERGENCE RP] En duo, les jumelles relevent de la loi synergie/symbiose (jumelles -> symbiose s'applique ; cf. Power_Scaling/Doigts_de_Sukuna.md) appliquee a leurs puissances individuelles issues du curseur. Repere d'apogee : repartition 0/100 (Maki 18, Mai 17) + syn = sym = 100 % -> Maki+Mai ensemble a ~26.6 doigts (196.94 %), au-dessus du duo Naoya+Nisha (24). Cf. fiche Maki.
 - Mecanique du curseur -> roadmap.
 
 ## Place dans le clan
@@ -43,6 +43,8 @@ Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir
 | 24 dec 2017 (B3_4) | Nuit des Cent Fleaux : consignee a l'universite avec les 1res annees, sous la garde d'Utahime, pendant que le clan et Nisha equarrissent la vieille ville | protegee ; aucun mort de l'universite |
 | avr 2018 (B3) | 2e annee sous NISHA (avec Miwa et Mechamaru) : eleve de la cousine qui la cultive depuis A2. Chantier perso : CONSTRUIRE JUSTE - l'objet minimal qui suffit (cahier des charges impose a chaque exercice : une balle, pas un chargeur ; un point d'appui, pas un mur). Nisha, qui a vu la plus grande constructrice de l'histoire a l'oeuvre, sait a quoi ressemble une Construction sans gaspillage et ne demande rien de moins. En cours a la frontiere (cf. Pedagogie/Perso_Kyoto_2017-2020.md) | eleve de Nisha ; chantier perso : le minimal qui suffit |
 | sept 2018 (C1_5) | Amicale à Tokyo : de nouveau face à Maki, ÉGALITÉ (curseur 30/70 inchangé) ; attaque d'Hanami. Dans le cercle du secret Yuji depuis juillet | égalité tenue |
+| 31 oct 2018 (C2_5, C3_1) | Au domaine Zenin pendant Shibuya, avec le clan. Dans la nuit, Naoya lui parle du testament et la prepare au putsch | dans le secret du coup d'Etat |
+| 1 nov 2018 (D1) | Seule au domaine (Naoya parti a Tokyo avec Nori) : la purge d'Ogi la vise ; elle se bat ferocement avec Ranta contre la Kukuru et une partie du Hei, ACCULEE parce que plus forte, trop prise pour prevenir qui que ce soit. Maki la rejoint ; les jumelles tuent leur pere. Le curseur bascule a ~10/90 en sa faveur : elle ressemble a Yorozu, elle deborde d'energie occulte | 15 doigts (decision worldbuilder, thread D1) ; repart a Tokyo avec Nisha et Maki |
 
 ## Notes de frontiere (hors noyau)
 - Bascules du partage gemellaire et devenir au-dela de B3 (arc canon, lien avec Maki) : -> roadmap / arcs ulterieurs.

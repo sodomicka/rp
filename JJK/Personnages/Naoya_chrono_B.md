@@ -1,6 +1,6 @@
 # Naoya Zenin - Chronologie datee, ere B (2008-2018)
 
-- version : W7
+- version : W8
 
 Extension de Personnages/Naoya.md. Contient la TRAJECTOIRE DATEE post-depart de Naoya pour l'ere B (hiver 2008 -> juin 2018). NB : l'ere A (A1+A2) reste dans Personnages/Naoya.md (Trajectoire datee non scindee a l'epoque) ; scission de l'ere A optionnelle. Strate canon par defaut, telegraphique ; le detail vit dans les roadmaps. Build-side : fetchee a la demande, JAMAIS chargee en narration. Etat : entrees B1 a B3 posees - ere B complete.
 
@@ -15,14 +15,15 @@ Extension de Personnages/Naoya.md. Contient la TRAJECTOIRE DATEE post-depart de 
 | 2015 (B2) | LE PIRE SECRET. Apprend la grossesse-trauma de Nisha : d'abord FOU DE RAGE qu'elle ait vendu Satoru pour une profane (les faibles servent les forts, pas l'inverse), puis il comprend la detresse de sa jumelle. Fait venir un medecin Zenin et lui PROMET l'apocalypse - sa mort et celle de toute sa famille - si le conseil apprend l'avortement (terreur pure, pas un marche). Avortement mene. Devient le SEUL depositaire du secret de la vente (Satoru l'ignore) | loyaute absolue confirmee ; gardien du secret de la vente (T-Secret-Naoya plante -> ere C) |
 | 24 dec 2017 (B3) | NUIT DES CENT FLEAUX, cote Kyoto : prevenu par Nisha, RAPPLIQUE AVEC LE CONSEIL. Massacre en SYMBIOSE avec sa jumelle a la vieille ville - fleaux ET maitres des fleaux, aucun prisonnier (nuance : Tokyo epargne, Kyoto equarrit) | symbiose gemellaire eprouvee en guerre reelle ; le Hei et le conseil aux cotes de l'universite de Kyoto |
 
-## Trajectoire datée - ère C (PROVISOIRE dans cette page, cf. _Implications)
+## Trajectoire datée - ères C et D (PROVISOIRE dans cette page, cf. _Implications)
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
 | juil - sept 2018 (C1_4) | Dans le cercle du secret de Yuji, mort simulée | gardien d'un second secret |
 | oct 2018 (C2_3) | Seul confident de Nisha sur le renseignement « Takatsuki » : régler ça à deux, Satoru à l'écart | complice |
 | 31 oct 2018 (C2_4) | TAKATSUKI : piégé avec sa jumelle (même signature) ; confession d'impuissance entre jumeaux ; démêlés par Yukiko | - |
-| nuit 31 oct - 1 nov 2018 (C2_5, C3_1) | Rentre au domaine préparer la crise à venir : Naobito, brûlé par Jogo à Shibuya, est sur son lit de mort et meurt dans la nuit. Nori, poignardé et exilé, l'appelle (le numéro glissé par Yukiko) : il l'emmène au domaine pour les premiers soins | orphelin de père ; testament non ouvert (-> ère D) |
-| 1 nov 2018 (C3_2, C3_4) | Amène Nori à Tokyo, où Shoko le soigne ; reste dehors pendant la réunion chez Tengen | sauveur de l'élève de sa sœur |
+| nuit 31 oct - 1 nov 2018 (C2_5, C3_1) | Rentre au domaine préparer la crise à venir : Naobito, brûlé par Jogo à Shibuya, meurt dans la nuit. Naoya LIT LE TESTAMENT (Megumi successeur) : refus d'Ogi et de Jinichi, la goutte de trop que les jumeaux attendaient ; il cache sa rage, en parle à Mai, envoie un message à Nisha. Puis Nori, poignardé et exilé, l'appelle (le numéro glissé par Yukiko) : il le ramène discrètement au domaine, le fait soigner et le CACHE (un héritier rival mourant serait du pain béni pour Ogi et Jinichi) | orphelin de père ; putsch préparé |
+| 1 nov 2018 (C3_2, C3_4) | Amène Nori à Tokyo, où Shoko le soigne, laissant Mai seule au domaine, certain que les conservateurs ne se doutent pas du coup d'État ; reste dehors pendant la réunion chez Tengen | sauveur de l'élève de sa sœur |
+| 1 nov 2018, après-midi (D1) | COUP D'ÉTAT. Court jusqu'au domaine (un quart d'heure) avec Nisha et Maki ; croise Ogi sans un mot (il revient aux jumelles) ; massacre en symbiose le reste du Hei (les trois aînés, Chojuro, Jinichi). Les survivants lui prêtent allégeance | PATRIARCHE du clan Zenin ; Ranta à ses côtés ; loyauté des Instances à jauger (Gakuganji acquis à Nisha) |
 
 ## Pointeurs
 - Noyau + Trajectoire datee ere A (A1+A2) : cf. Personnages/Naoya.md.

@@ -1,6 +1,6 @@
 # Ranta Zenin
 
-- version : W9
+- version : W10
 
 Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat = jusqu'au point de depart (2005). Devenir post-2005 -> roadmap.
 
@@ -42,9 +42,10 @@ Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE
 |---|---|---|
 | avr 2005 -> 2008 | Chantier perso de Gakuganji : l'AGRESSIVITE - finir ce que le sort commence (duels ou la cible est deja paralysee par son regard, et ou il ne reste qu'a frapper). ECHEC NET : trois ans de cours perso n'en font pas une arme ; sa devotion aux jumeaux lui tient lieu d'ambition, et sa decence reste entiere (cf. Pedagogie/Perso_Kyoto_2005-2008.md) | chantier perso : echec assume, le trait est stable |
 | sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) J1 : avec Naoya, fait tomber Geto, puis elimine par Gojo ; J2 : se desiste avec Utahime (supports, refusent d'affronter un prodige) | -- |
+| 1 nov 2018 (D1) | Coup d'Etat : cru acquis par les conservateurs, se bat aux cotes de Mai contre la Kukuru et une partie du Hei, les yeux en sang (surmenage du Regard Paralysant) ; accules jusqu'a l'arrivee de Maki. Survit | aux cotes de Naoya patriarche |
 
 ## Notes de frontiere (hors noyau)
-- Devenir post-2005 : la mort canon au massacre de Maki est CADUQUE - le massacre est remplace par le coup d'Etat post-Shibuya, dont Ranta est l'un des ACTEURS aux cotes des deux paires de jumeaux (cf. BIBLE SB8). Son sort ulterieur n'est pas etabli -> roadmap ere C.
+- Devenir post-2005 : la mort canon au massacre de Maki est CADUQUE - le massacre est remplace par le coup d'Etat post-Shibuya, dont Ranta est l'un des ACTEURS aux cotes des deux paires de jumeaux (cf. BIBLE SB8). Survit au coup d'Etat du 1er nov 2018, aux cotes de Naoya (cf. Trajectoire datee, Roadmap/Nisha/Roadmap_D1.md).
 
 ---
 

@@ -1,6 +1,6 @@
 # Nisha Zenin - Relations : famille
 
-- version : W3
+- version : W4
 
 Page relations de Nisha, cercle FAMILLE : le clan (sang) et la famille choisie (le foyer de Saitama). Serie en quatre pages par cercles ; regles generales et convention : cf. Nisha_relations_proches.md.
 
@@ -11,8 +11,8 @@ Page relations de Nisha, cercle FAMILLE : le clan (sang) et la famille choisie (
 - Appellatifs : elle -> lui : Pere. Lui -> elle : Nisha.
 - Registre : elle le vouvoie - respect parfois teinte de mepris (l'hypocrisie des fils aines) ; lui la tutoie et la traite comme une ressource, comme tout le monde.
 - Habitudes : garder le silence en l'observant - elle l'a toujours intrigue.
-- Contentieux : 1991, il a failli la renier puis l'executer (Naoya l'a defendue) ; l'education servante subie (1987-1995) ; le rire de 2006 au conseil (doctrine raillee).
-- Evolution datee : 1991 quasi-execution -> 1995 favorite -> 1997 Grade Special 1 -> 2005 carte bleue + co-decide le transfert -> 2006 raille la doctrine -> dec 2017 conseil au front (Cent Fleaux).
+- Contentieux : 1991, il a failli la renier puis l'executer (Naoya l'a defendue) ; l'education servante subie (1987-1995) ; le rire de 2006 au conseil (doctrine raillee). [DIVERGENCE RP] Les jumeaux le voient comme un TRAITRE au credo du clan, puis au leur : trois aines pistonnes, des forts traites en faibles parce qu'ils ne cadrent pas aux standards ; et son dogme des Dix Ombres (Megumi designe des 2009) contredit le merite qu'il proclame. Indifference mutuelle : elle se moque de son sort autant que lui du sien.
+- Evolution datee : 1991 quasi-execution -> 1995 favorite -> 1997 Grade Special 1 -> 2005 carte bleue + co-decide le transfert -> 2006 raille la doctrine -> dec 2017 conseil au front (Cent Fleaux) -> 31 oct 2018 meurt (Jogo) ; testament lu par Naoya.
 
 ### Jinichi
 - Statut : cousin aine (ne 1975), l'entraineur des jumeaux. Taciturne, loyaliste.
@@ -20,20 +20,20 @@ Page relations de Nisha, cercle FAMILLE : le clan (sang) et la famille choisie (
 - Registre : tutoiement a deux sens, frontal et sans detours.
 - Habitudes : les combats d'enfance (1c2 jusqu'aux unites entieres, 2000) - elle y jure beaucoup, il la reprend continuellement sur son langage : c'est a ses poings de parler, pas a sa langue via des saloperies.
 - Contentieux : 2006, au conseil - il ne rit pas, mais sa certitude ("les jumelles n'egaleront jamais Toji") verrouille le verdict.
-- Evolution datee : 2000 fin de l'entrainement -> 2005 co-decide le transfert -> 2006 verrouille le verdict -> dec 2017 front de Kyoto (ere D : cible du coup d'Etat, cf. BIBLE SB8).
+- Evolution datee : 2000 fin de l'entrainement -> 2005 co-decide le transfert -> 2006 verrouille le verdict -> dec 2017 front de Kyoto -> 1 nov 2018 tue par les jumeaux au coup d'Etat (cf. Roadmap_D1).
 
 ### Ogi
 - Statut : oncle, souffre-douleur des jumeaux. Detestation mutuelle.
 - Appellatifs : elle -> lui : Ogi, mon oncle. Lui -> elle : Ma niece, Nisha.
 - Registre : detestation mutuelle cachee sous la politesse - a ceci pres que lui repond a posteriori, en grommelant dans son coin (jamais en face : le 2c1 des jumeaux l'a dresse au silence).
 - Contentieux : raison 3 du transfert (cesser d'etre humilie) ; le narguage de 2006 (loterie genetique, encaisse muet) ; le rire de 2006 au conseil ; ses filles jetees, que Nisha cultive.
-- Evolution datee : 2005 transfert (soulagement tacite) -> 2006 nargue, puis rieur au conseil -> dec 2017 front de Kyoto (ere D : cible designee du coup d'Etat, cf. BIBLE SB8).
+- Evolution datee : 2005 transfert (soulagement tacite) -> 2006 nargue, puis rieur au conseil -> dec 2017 front de Kyoto -> 1 nov 2018 tue par ses filles au coup d'Etat ; les jumeaux l'ont croise sans un mot (cf. Roadmap_D1).
 
 ### Ranta
 - Statut : support du Hei (aupres de Jinichi et Naoya - pas d'elle : le Hei l'a refusee), devotion totale et non critique aux jumeaux depuis 2002.
 - Appellatifs : elle -> lui : Ranta. Lui -> elle : Madame Zenin, Dame Nisha, Nisha.
 - Registre : il connait sa place, aucune tension. Apres 2006, un seul reproche recurrent de Nisha : il s'excuse trop, se devalue trop.
-- Evolution datee : 2002 repere par Jinichi, devotion posee -> 2005 promo de Naoya a Kyoto -> ere D : acteur du coup d'Etat aux cotes des deux paires de jumeaux (cf. BIBLE SB8).
+- Evolution datee : 2002 repere par Jinichi, devotion posee -> 2005 promo de Naoya a Kyoto -> 1 nov 2018 coup d'Etat : se bat aux cotes de Mai, les yeux en sang ; survit, aux cotes de Naoya patriarche.
 
 ### Maki et Mai - le regime d'avant (commun, jusqu'au protectorat d'A2_6)
 - Appellatifs : elle -> elles : les ratees (troisieme personne, meme en leur presence). Elles -> elle : Madame Zenin.
@@ -45,14 +45,14 @@ Page relations de Nisha, cercle FAMILLE : le clan (sang) et la famille choisie (
 - Registre : mentorat bourru a la maison ; respect mutuel de leur force.
 - Habitudes : des son arrivee a Saitama (2014), Nisha l'entraine un week-end sur deux - ceux ou elle ne va pas au domaine (l'alternance des jumeaux occupe l'autre).
 - Contentieux : le harcelement d'enfance (pre-2006) - jamais solde par des mots : deux bourrines n'en ont pas besoin. Le solde passe par la force - se la prouver a l'entrainement ou dans une bonne baston, et passer a autre chose.
-- Evolution datee : 2006 harcelement puis protectorat -> 2007-2008 attachement -> 2011 respect (pivot 40/60) -> 2014 Saitama, 4e gosse du foyer -> 2017 eleve de Satoru -> dec 2017 defend Tokyo.
+- Evolution datee : 2006 harcelement puis protectorat -> 2007-2008 attachement -> 2011 respect (pivot 40/60) -> 2014 Saitama, 4e gosse du foyer -> 2017 eleve de Satoru -> dec 2017 defend Tokyo -> 1 nov 2018 portee par Nisha jusqu'au domaine (elle n'apprecie pas), coup d'Etat, curseur ~10/90, repart a Tokyo avec elle.
 
 ### Mai (protegee)
 - Statut : cousine, protegee AVANT d'etre eleve (2e annee sous Nisha des avr 2018) - le frein gemellaire, l'enjeu le plus lourd du duo.
 - Appellatifs : elle -> Mai : Mai, l'artilleuse (tactique ; convention : cf. Nisha_relations_boulot.md). Mai -> elle : Nisha, Madame Zenin (registre scolaire - le meme mot qu'avant 2006, retourne en titre de prof).
 - Registre : mentorat d'abord interesse, puis sincere. Mai aime se sentir appreciee - meme, voire surtout, par ses anciens bourreaux : elle y sent qu'elle obtient ce qu'elle merite, la reconnaissance de la plus forte, de la plus Zenin des femmes.
 - Contentieux : le harcelement d'enfance, transmute cote Mai en valeur de la reconnaissance (cf. Registre) ; "Mai seule" au clan des 2014 (Maki partie a Saitama).
-- Evolution datee : 2006 harcelement puis protectorat -> 2011 pivot en sa faveur (plafond 8) -> 2014 seule au clan -> 2015 la lecon de Construction (exploite 3 -> 8) -> 2017 eleve d'Utahime -> avr 2018 eleve de Nisha ("Madame Zenin", nouveau sens).
+- Evolution datee : 2006 harcelement puis protectorat -> 2011 pivot en sa faveur (plafond 8) -> 2014 seule au clan -> 2015 la lecon de Construction (exploite 3 -> 8) -> 2017 eleve d'Utahime -> avr 2018 eleve de Nisha ("Madame Zenin", nouveau sens) -> 1 nov 2018 acculee au domaine, coup d'Etat, curseur ~10/90, part a Tokyo avec Nisha.
 
 ## La famille choisie (Saitama)
 
@@ -61,7 +61,7 @@ Page relations de Nisha, cercle FAMILLE : le clan (sang) et la famille choisie (
 - Appellatifs : elle -> lui : Megumi, fiston, mon fils (ton pedagogique). Lui -> elle : Maman, modame Zenin (taquin), cheffe (quand elle devient severe sans le vouloir).
 - Registre : familial, respect mutuel. Il sait sa mere plus severe que son pere - plus protectrice et moins negligente aussi.
 - Habitudes : fan de ses dessins de gamin ; se moque ensuite (sans blesser) en voyant qu'il garde exactement le meme style en grandissant.
-- Contentieux : la rivalite de succession latente avec Naoya (dormante -> ere C) ; le parallele non-dit Toji/Megumi.
+- Contentieux : la succession - Megumi la refuse depuis sa premiere visite au domaine (2009) ; quand le sujet revient, Nisha lui demande de choisir pour lui-meme, et non pour un clan qui a voulu le racheter comme une marchandise. Le parallele non-dit Toji/Megumi.
 - Evolution datee : 2008 adoption -> 2009 premiers shikigami, cultivation "puissant qui protege" -> avr 2018 entre chez Satoru a Tokyo -> juin 2018 veille de la mission solo (seuil ere C).
 
 ### Tsumiki

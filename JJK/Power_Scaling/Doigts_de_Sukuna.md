@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Power-scaling
 
-- version : W13
+- version : W14
 
 ## Unite
 - Unite de puissance de l'univers = le doigt de Sukuna.
@@ -90,7 +90,7 @@ Reperes d'apogee :
 | Duo | Type | Sommes (%) | P_combo | Doigts |
 |---|---|---|---|---|
 | Satoru + Nisha | non-jumeaux (syn 100) | 139.07 + 78.15 | 238.95 % | ~28.9 |
-| Maki + Mai (curseur 0/100) | jumelles (syn+sym 100) | 78.15 + 78.15 | 196.94 % | ~26.6 |
+| Maki + Mai (curseur 0/100) | jumelles (syn+sym 100) | 78.15 + 68.44 | 184.70 % | ~25.9 |
 | Naoya + Nisha (adulte) | jumeaux (syn+sym 100) | 43.94 + 78.15 | 153.84 % | 24.0 |
 
 Ces combos peuvent franchir le Sukuna brut (> 20 doigts / 100 %) : valeurs theoriques assumees (cf. Table).
@@ -105,10 +105,10 @@ Le pool gemellaire des jumelles d'Ogi se repartit le long d'un curseur a somme c
 | Maki 50 / Mai 50 | 6 | 1 |
 | Maki 40 / Mai 60 | 8 | 8 |
 | Maki 25 / Mai 75 | 12 | 12 |
-| Maki 0 / Mai 100 | 18 | 18 |
+| Maki 0 / Mai 100 | 18 | 17 |
 
 - Pour Maki (Restriction Celeste physique), MOINS d'energie occulte = PLUS de puissance : a 0 % elle atteint le corps de monstre, voie Toji (18). A l'etat de base (50/50) elle est bridee a 6, et plafonnee Grade 4 par blocage politique du clan.
-- Pour Mai (sort de Construction), c'est l'inverse : plus d'energie occulte = plus de puissance ; a 100 % elle culmine a 18. A l'etat de base, Mai = 1 doigt (Semi-Grade 2).
+- Pour Mai (sort de Construction), c'est l'inverse : plus d'energie occulte = plus de puissance ; a 100 % elle culmine a 17. A l'etat de base, Mai = 1 doigt (Semi-Grade 2).
 - Distinction : le curseur fixe les puissances INDIVIDUELLES ; quand les jumelles combattent EN DUO, c'est la loi synergie/symbiose ci-dessus qui combine ces individuels (symbiose, car jumelles). Apogee duo : cf. Reperes d'apogee.
 - [DIVERGENCE RP] Plafond vs exploite. La table ci-dessus donne le PLAFOND fixe par la repartition ; l'EXPLOITE est ce qui sort reellement au combat.
   - Maki (Restriction physique) : exploite = plafond, toujours - c'est du corps, il n'y a pas de sort a maitriser. Tout glissement de curseur se traduit immediatement en puissance.
@@ -120,7 +120,8 @@ Le pool gemellaire des jumelles d'Ogi se repartit le long d'un curseur a somme c
   | 2011 (pivot B1) | 40/60 | 8 | 8 | 3 |
   | 2015 (B3, lecon Yorozu) | 40/60 | 8 | 8 | 8 |
   | avr 2017 (B3_3, entrée de Maki à Tokyo) | 30/70 | ~11 | ~11 | ~11 |
-  Lecture : le curseur glisse en 2011 (50/50 -> 40/60), puis en avril 2017 (40/60 -> 30/70, valeurs interpolées : chacune assume enfin sa voie, le corps pour Maki, la Construction pour Mai). En 2015, c'est la MAITRISE de Mai qui rattrape son plafond (3 -> 8, apres avoir vu Yorozu manier la Construction), pas le curseur. Égalité structurelle : à toute répartition, les jumelles se valent ; d'où leurs égalités aux Amicales 2017 et 2018.
+  | 1 nov 2018 (D1, coup d'État Zenin) | 10/90 | 16 | 15 | 15 |
+  Lecture : le curseur glisse en 2011 (50/50 -> 40/60), puis en avril 2017 (40/60 -> 30/70, valeurs interpolées : chacune assume enfin sa voie, le corps pour Maki, la Construction pour Mai). En 2015, c'est la MAITRISE de Mai qui rattrape son plafond (3 -> 8, apres avoir vu Yorozu manier la Construction), pas le curseur. Égalité structurelle jusqu'à 30/70 : les jumelles se valent, d'où leurs égalités aux Amicales 2017 et 2018. Au-delà, Maki prend un doigt d'avance (16 contre 15 à 10/90, 18 contre 17 à l'apogée).
 - Mecanique du curseur (declencheurs des bascules, enjeux narratifs) -> roadmap.
 
 ## Plafond mondial
