@@ -254,6 +254,7 @@ Types de pages possibles :
 - En dessous de 2 000 : fusionner avec une page voisine.
 - Au-delà de 12 000 : scinder (pages satellites pour une fiche d'entité, cf. ci-dessous ; sous-pages sinon).
 - Exception : pages transcript jusqu'à 16 000 caractères.
+- Exception : roadmaps jusqu'à 15 000 caractères. Document de jeu fetché seul et en entier : y renvoyer le MJ vers d'autres pages coûte plus que les caractères gagnés. Au-delà de 15 000 : signaler, proposer des coupes par gain décroissant, le worldbuilder tranche.
 
 ### Pages satellites d'entité
 

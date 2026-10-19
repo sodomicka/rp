@@ -1,6 +1,6 @@
 # _Implications
 
-- version : W47
+- version : W48
 
 Journal de conception (passes en spirale). Document de TRAVAIL : jamais fetché en narration.
 
@@ -42,12 +42,11 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE
 
 ## À faire - builds et roadmaps
 
-- Roadmaps existantes | gabarit SPEC v9.0 | Nisha A0, A1, A2, B1, B2 et Yukiko A0, A1 sont à l'ancien format. La roadmap est désormais le document de jeu de son arc : à passer au nouveau gabarit (bornes, échelle temporelle, casting convoqué, lieux et objets, requis, interdits inter-roadmaps, verrous, roadmap suivante) à leur prochaine relivraison, en réaccentuant.
-- Roadmap_B3 | Passe 2 | À ÉCRIRE, directement au gabarit v9.0 (jalons posés en trame_B : B3_1 Yorozu 2015, B3_2 le trop tranquille 2016, B3_3 la relève 2017, B3_4 Nuit des Cent Fléaux 24 déc 2017, B3_5 l'autre trauma + clôture juin 2018). Les fiches B3 sont déjà buildées. Déblocages attendus : lignes gelées de Gakuganji et Nitta (24 déc 2017 - Gakuganji se joint à la défense de Kyoto, Nitta tient rideaux et civils côté Tokyo ; NE PAS PORTER AVANT - vaut aussi pour leurs entrées d'évolution datée en Personnages/Nisha_relations_boulot.md) et densification Naobito / Ogi / Jinichi (ligne ère B sobre et identique posée aux trois fiches, à densifier).
-- trame_A_B Yukiko | W3 À FAIRE | Le slowburn s'étant joué en A1, la colonne vertébrale d'A2 est à redéfinir (matière restante : distance des missions d'Utahime en 3e année puis diplômée, échos à Kyoto des séismes de Tokyo 2006-2007, tranche de vie du couple). Jalon Lucky 7 déplacé ; exception au cercle figé (Utahime) ; purge des deux "retcon" restants (terminologie actée : "amendement de spirale").
+- Naobito / Ogi / Jinichi | densification ère B | Roadmap_B3 écrite et Gakuganji/Nitta débloqués ; reste la ligne du 24 déc 2017, sobre et identique aux trois fiches, à densifier (ce que chacun fait cette nuit-là) : rien d'acté, attend le worldbuilder.
+- trame_A_B Yukiko | rework À FAIRE (W3 : réaccentuée, Lucky 7, cercle figé et terminologie déjà soldés) | Le slowburn s'étant joué en A1, la colonne vertébrale d'A2 est à redéfinir (matière restante : distance des missions d'Utahime en 3e année puis diplômée, échos à Kyoto des séismes de Tokyo 2006-2007, tranche de vie du couple).
 - Roadmaps Yukiko | Passe 2 | YA2 à écrire APRÈS le rework de la trame ; ères B ensuite.
 - Yukiko_chrono_B | scission différée | Les entrées d'ère B vivent provisoirement dans la fiche Yukiko. À scinder.
-- Yukiko ère B | rattachements | Refus conditionnel de la chaire (2013) -> rattacher B1 (resto mars 2013). Majorité de Nori + refus du titre (5 juin 2015) -> rattacher B2.
+- Yukiko ère B | rattachements | Refus conditionnel de la chaire (2013) -> rattacher B1 (resto mars 2013). Majorité de Nori + report du titre tant qu'il ne se juge pas assez mûr, jusqu'à son diplôme (5 juin 2015) -> rattacher B2.
 - Roadmaps ères C et D | Passe 2 | À ÉCRIRE. Elles résorbent la section "Faits actés en attente de leur strate" ci-dessus et le chantier Roadmap/_Chantier_Passe2_EresCD.md (item 18 de son registre S8 : trajectoires datées à alimenter).
 - Pedagogie/Perso_Tokyo_2018-2021 | ère C | Page à RELIVRER quand Yuji et Nobara entrent en scène.
 - Fiches noyau Yuji et Nobara | ère C | À BUILDER (différées, décision worldbuilder) : leurs entrées relations vivent en Personnages/Nisha_relations_eleves_tokyo.md, le déroulé attend les roadmaps ère C.
@@ -58,7 +57,7 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE
 
 - Distinction ESPRIT MAUDIT / FLÉAU | transverse | Actée en BIBLE SB2 (esprit maudit = tiré d'une âme humaine : Tengen, onryō, Eien, Kenjaku, Sukuna, Nozomu, Rika). Portée en BIBLE et en Personnages/Nisha.md. Les autres pages qualifient encore ces entités de "fléau" (Eien.md, Kenjaku.md, Nozomu.md, Rika/Yuta, Cosmogonie/Trois_Esprits.md, Power_Scaling, pédagogie, roadmaps...) : corriger à la prochaine relivraison de chacune, en réaccentuant. Le titre canon "Roi des Fléaux" et le nom du sort de Geto restent.
 
-- Roadmap/Nisha/Roadmap_A0 | au prochain passage roadmap | Vérifier les jalons 1997 et 2000 (si rendus en scène) contre l'amendement de spirale Eien-1997 : plus de putsch perçu, vertige expliqué en amitié, motif du grade = alliée inconditionnelle.
+- Personnages/Naobito.md | à la prochaine relivraison | "La fait Grade Spécial 1 en 1997 (elle a maté le fléau Eien)" contredit l'amendement Eien-1997 porté par Roadmap_A0 (motif du grade : le fléau est une alliée inconditionnelle, plus une menace). À aligner (Relations et Chronologie noyau).
 - Nisha_chrono_B.md | à l'occasion | Entrée 2015 : la couleur "double trahison" (chantage + viol par l'amie) peut être reportée au delta d'état à la prochaine relivraison. Enrichissement seulement.
 - Factions/Clan_Gojo.md | à la prochaine relivraison | La parenthèse "(L'âge d'éveil varie ; précédent maison d'un éveil à 4 ans : cf. Personnages/Nozomu.md)" gagne un second point de donnée (Satoru, 4 ans) et peut renvoyer à la règle d'éveil de BIBLE SB1.
 - Personnages/Nisha.md | à l'occasion | La règle des signatures n'est pas portée par sa fiche (Eien et Kenjaku la portent). À doter si le worldbuilder le veut.
