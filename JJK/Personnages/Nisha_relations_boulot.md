@@ -1,6 +1,6 @@
 # Nisha Zenin - Relations : boulot
 
-- version : W2
+- version : W3
 
 Page relations de Nisha, cercle BOULOT : les collègues (les deux universités) et les élèves de Kyoto. Série en quatre pages par cercles ; règles générales et convention : cf. Nisha_relations_proches.md.
 Convention locale : (tactique) = indicatif d'opération, employé en mission.
@@ -79,7 +79,7 @@ Mai, élève de 2e année dès avr 2018, vit en _famille (pas de doublon) ; son 
 - Appellatifs : elle -> lui : jamais Mechamaru - Kokichi, Muta, boîte de conserve / Mechamachin (liberté qu'elle se permet parce qu'elle SAIT, et il le sait), Terminator (tactique). Lui -> elle : Nisha-sensei, Madame Zenin.
 - Registre : le commun, plus la liberté des sobriquets.
 - Habitudes : les longues discussions après les cours.
-- Évolution datée : avr 2017 1A (Utahime, robot), Restriction perçue, confiance nouée -> déc 2017 en retrait -> avr 2018 2A, chantier finesse -> dénouement ère C : cf. Personnages/Mechamaru.md, notes de frontière.
+- Évolution datée : avr 2017 1A (Utahime, robot), Restriction perçue, confiance nouée -> déc 2017 en retrait -> avr 2018 2A, chantier finesse -> été 2018, la main sur l'épaule : il prélève un cheveu de Satoru sur sa veste, pour Kenjaku (C1_4 ; elle n'en sait rien) -> dénouement C2 : cf. Personnages/Mechamaru.md.
 
 ## Pointeurs
 - Fiches propres : Personnages/Gakuganji.md, Utahime.md, Mei_Mei.md, Nanami.md, Ijichi.md, Nitta.md, Todo.md, Noritoshi_Kamo.md, Momo.md, Miwa.md, Mechamaru.md.

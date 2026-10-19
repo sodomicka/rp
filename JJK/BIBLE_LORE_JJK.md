@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : JJK
 - sources primaires : manga Jujutsu Kaisen (Gege Akutami) ; worldbuilding du worldbuilder (OC Nisha Zenin, Yukiko Kamo, Eien, Nozomu)
-- bible_version : B22
+- bible_version : B23
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/JJK/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/JJK/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/JJK/Partie1/`
@@ -23,14 +23,14 @@
 - pages wiki rattachées :
   - Cosmogonie - cosmogonie fondatrice (trois esprits + Tengen 4e esprit, trois familles) (1 page)
   - Factions - clans Zenin, Gojo, Kamo ; Hautes Instances ; universités de Tokyo et Kyoto ; Tournoi des Universités Jumelées (7 pages)
-  - Personnages - fiches personnages (55 pages : 46 fiches + 5 chrono - Nisha A/B, Satoru B, Naoya B, Yukiko A - + 4 relations - série Nisha : proches, famille, boulot, élèves de Tokyo)
+  - Personnages - fiches personnages (58 pages : 48 fiches + 6 chrono - Nisha A/B/C, Satoru B, Naoya B, Yukiko A - + 4 relations - série Nisha : proches, famille, boulot, élèves de Tokyo)
   - Lieux - sièges des clans (Chiryu no Kyuden - Kamo ; Juei no Ryochi - Zenin) (2 pages)
-  - Power_Scaling - système de puissance (1 page)
+  - Power_Scaling - système de puissance, repères chiffrés en satellite (2 pages)
   - Pedagogie - carte des enseignements (1), fiches de cours par discipline et par année (7), enseignement personnalisé par promotion (8) (16 pages)
-  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3), Yukiko/ (A0, A1) (8 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B) et _Chantier_Passe2_EresCD.md (document de travail), sources de build jamais fetchées en narration.
-  - Resume.md - résumé autosuffisant de l'univers jusqu'à juin 2018, NON indexé au Sommaire, jamais fetché en narration (1 page)
+  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1), Yukiko/ (A0, A1) (9 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B) et _Chantier_Passe2_EresCD.md (document de travail), sources de build jamais fetchées en narration.
+  - Resume.md - résumé autosuffisant de l'univers jusqu'à septembre 2018, NON indexé au Sommaire, jamais fetché en narration (1 page)
   - _Implications.md - journal de conception, jamais fetché en narration (1 fichier de travail)
-- Total indexé au Sommaire (W44) : 90 pages.
+- Total indexé au Sommaire (W45) : 95 pages.
 
 ## SB1 Cosmogonie et règles du monde
 Périmètre : divergences fondatrices liées à Nisha et Yukiko + règles nécessaires + cosmogonie des trois esprits.
@@ -173,6 +173,8 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Toge Inumaki - élève de Satoru (promo Tokyo 2017-2020) | Paroles Maudites, Grade 2, 5 doigts | Maki et Panda, Satoru | Paroles Maudites | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Toge.md
 - Yuta Okkotsu - élève de Satoru (promo Tokyo 2017-2020), Rika intégrée à sa fiche | réserve colossale + Rika + Copie ; 12 puis 15 doigts | Satoru, Nisha (miroir inverse ; copie la Chronokinésie début 2018) | Copie | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yuta.md
 - Kinji Hakari - élève de Tokyo (promo 2016-2019) | Idle Death Gamble (domaine dès 2016), 8 doigts, hors échelle en Jackpot | Kirara, Kusakabe, Nisha, Hautes Instances (clash) | Idle Death Gamble | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Hakari.md
+- Yuji Itadori - réceptacle de Sukuna (né le 20 mars 2000 [DIVERGENCE RP vs canon : 2003]), élève de Satoru (promo Tokyo 2018-2021), étudiant de fac à Sendai avant | physique hors norme, Poing Divergent, Rayon Noir ; 5 doigts propres | Satoru, Nisha (le dossier devenu gosse), Megumi, Nobara, Todo, Sukuna (Enchain) | aucun sort inné | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yuji.md
+- Nobara Kugisaki - élève de Satoru (née le 7 août 1999 [DIVERGENCE RP vs canon : 2002], promo Tokyo 2018-2021) | Poupée de Paille, Résonance, Grade 3, 4 doigts | Yuji, Megumi, Nisha (respect mutuel) | Poupée de Paille | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nobara.md
 - Kirara Hoshi - élève de Tokyo (promo 2016-2019), non binaire (canon) | Love Rendezvous, 4 doigts | Hakari, Nisha | Love Rendezvous | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Kirara.md
 
 ## SB6 Lieux
@@ -191,7 +193,8 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Lunettes maudites de vue occulte - monture imbue d'énergie | offertes par Maki à Tsumiki (2009) | donnent la vue de l'occulte | portées par Tsumiki | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Tsumiki.md
 - Chi no Meiyo - tanto maudit | 1998, forgé du fléau Sakushu Sha piégé par Yukiko | pont : gorge Yukiko de l'énergie absorbée par un rideau | porté par Yukiko | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yukiko.md
 - Lisière du Supplice - objet maudit de grade spécial (sceau) | [DIVERGENCE RP] de la main de Kenjaku | scelle une cible vivante | refermée sur Satoru le 31 oct 2018, ouverte par Yukiko en déc 2018 | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Kenjaku.md
-- Rideau de Takatsuki - piège-sceau à usage unique | de la main de Kenjaku, taillé sur la signature gémellaire Zenin (source : [PROPOSÉ : Eien ; NON TRANCHÉ]) | verrouille Nisha et Naoya le 31 oct 2018 ; double fond : épuiser Nisha pour Eien - ÉCHEC | démêlé par Yukiko la nuit même | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Kenjaku.md
+- Rideau de Takatsuki - piège-sceau à usage unique | de la main de Kenjaku, taillé sur la signature gémellaire Zenin (source : un cheveu de Nisha prélevé par Kenjaku au viol de 2015, révélé par Eien à Takatsuki) | verrouille Nisha et Naoya le 31 oct 2018 ; double fond : épuiser Nisha pour Eien - ÉCHEC | démêlé par Yukiko la nuit même | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Kenjaku.md
+- Rideau de l'Amicale - rideau polarisé à usage unique | patron de Kenjaku (signatures tirées d'un cheveu de Satoru, volé par Mechamaru, et d'un cheveu de Nisha), tissé en tracé alterné par le maître des fléaux boucher | tient Satoru et Nisha dehors pendant l'attaque d'Hanami (sept 2018), effet amoindri | défait sur le souffle de Yukiko | [DIVERGENCE RP]. detail: cf. WIKI Roadmap/Nisha/Roadmap_C1.md
 - Rideau du palais - contre-piège à usage unique | de la main de Yukiko, taillé sur la signature de Kenjaku | enferme Kenjaku et l'assaut ; théâtre de sa mort (déc 2018) | consommé | [DIVERGENCE RP]. detail: chantier, roadmaps C/D à écrire
 - Marque de Nozomu - sceau-prison de l'âme de Nozomu | de la main de Kenjaku (Genroku) | double clé à destination de Sukuna : réveil en MENAÇANT un enfant ou en PROTÉGEANT un enfant | confiée à Uraume | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nozomu.md
 - Autres artefacts : à remplir au build ultérieur.
@@ -215,9 +218,9 @@ SB8 porte, par mystère ou fil, la définition, le statut et un renvoi. Les dér
 - Faille d'Eien - A1/A2 | DÉTONÉE en 2015 (B2) | Roadmap B2, WIKI Personnages/Eien.md.
 - T-Sceau (la vente de Satoru) - 2015 (B2) | DÉTONÉ ère C (Takatsuki, 31 oct 2018) | chantier.
 - T-Secret-Naoya - 2015 (B2) | DÉTONÉ ère C ; Satoru ignore toujours, jusqu'à quand : [OUVERT] | chantier.
-- T-Yorozu - fin 2015 (B3) | DÉTONÉ ère C | chantier.
+- T-Yorozu - fin 2015 (B3) | DÉTONÉ juin 2018 (C1_1, l'autel) : le grief d'Eien ÉCHOUE, Sukuna en rit | Roadmap C1.
 - T-Tsumiki - 2008 (B1) | RÉSOLU fin 2015, libérée sans coma [DIVERGENCE RP vs canon] | WIKI Personnages/Tsumiki.md.
-- T-Okaruto - 2010 (B1, l'Okaruto Shinbun de Tsumiki) | OUVERT, condition de détonation [INCERTAIN - non fixée] | roadmap.
+- T-Okaruto - 2010 (B1, l'Okaruto Shinbun de Tsumiki) | DÉTONÉ juin 2018 (C1_1) : le club de Yuji descelle le doigt à rebours des avertissements du blog | Roadmap C1.
 - T-Âmes - 2011 (B1, noyaux de Panda) | DÉTONÉ ère C (nov 2018), Yaga VIVANT | chantier.
 - Geto / Yuki ("la bonne question") - août 2007 (A2) | DÉTONÉ ère D | chantier.
 - Nisha vs Yuki - août 2007 (A2) | DÉTONÉ ère D | chantier.

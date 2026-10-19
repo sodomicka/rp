@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W24
+- version : W25
 
 Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de départ (2005) : identité, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datée post-départ) est scindé par volume pour le poids -> cf. section dédiée en bas de fiche et Personnages/Nisha_chrono_A.md. Tissu relationnel (appellatifs, registres, habitudes, contentieux) : cf. la série Personnages/Nisha_relations_<cercle>.md (proches / famille / boulot / eleves_tokyo).
 
@@ -139,7 +139,7 @@ Apportées par le conseil Zenin (Naobito, Jinichi, Ogi).
 ## Trajectoire datée (scindée par volume)
 - Le devenir post-départ de Nisha (ce qu'elle DEVIENT après 2005) est sorti de cette fiche pour le poids, et réparti par ère :
   - Ère A (post-départ, 2005-2008) : cf. Personnages/Nisha_chrono_A.md.
-  - Ères ultérieures : Personnages/Nisha_chrono_B.md, etc. (à créer le moment venu).
+  - Ères ultérieures : Personnages/Nisha_chrono_B.md, Nisha_chrono_C.md, etc.
 - Convention : noyau (ce qu'elle EST, <= 2005) ici ; trajectoire datée (ce qu'elle DEVIENT, post-2005) dans les Nisha_chrono_<Ere>.md.
 - Build-side, fetchée à la demande ; JAMAIS chargée en narration (la fiche d'arc tronquée tient le contexte de jeu).
 

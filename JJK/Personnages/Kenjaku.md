@@ -1,6 +1,6 @@
 # Kenjaku
 
-- version : W11
+- version : W12
 
 Canon JJK + couche RP (origine Kamo, couple avec Eien). Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -61,13 +61,15 @@ Dans le monde, Kenjaku n'a d'autre apparence que celle de son vaisseau du moment
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | printemps 2006 (A2_3) | NOEUD DU PLASMA STELLAIRE. Via le Culte Astral qu'il pilote en sous-main, finance la prime sur Riko Amanai (Plasma Stellaire 2006) - fonds passes par l'intermediaire Shiu Kong, qui recrute Toji. Kenjaku n'apparait jamais : il agit par secte interposee, comme il le refera. La fusion de Tengen echoue | le Merger reste disponible ; levier sectaire eprouve, modele du culte qu'il reprendra plus tard |
-| 2015 (B2) | Sous un vaisseau anonyme (un fonctionnaire passe-partout, aucun soupcon), co-auteur du deal impose a Nisha possedee par Eien - deal NEGOCIE en personne, sous sa forme vraie, dans la Sphere du Temps Infini ou elle est releguee - entre par Eien, qui lui ouvre le corps (cf. Apparence) : il livre le moyen de debusquer Yorozu (dormante dans Tsumiki) CONTRE le "comment" mener Satoru dans la Lisiere du Supplice (-> sceau de Gojo, Shibuya 2018, ere C). [DIVERGENCE RP] Auteur de la fecondation-trauma du corps de Nisha pendant la possession - sa came a lui (le viol restant l'idee d'Eien, le moyen de briser Nisha). Foetus sans enjeu strategique, avorte par Naoya | obtient la cle du sceau de Gojo ; l'oeuvre du couple architecte avance |
+| 2015 (B2) | Sous un vaisseau anonyme (un fonctionnaire passe-partout, aucun soupcon), co-auteur du deal impose a Nisha possedee par Eien - deal NEGOCIE en personne, sous sa forme vraie, dans la Sphere du Temps Infini ou elle est releguee - entre par Eien, qui lui ouvre le corps (cf. Apparence) : il livre le moyen de debusquer Yorozu (dormante dans Tsumiki) CONTRE le "comment" mener Satoru dans la Lisiere du Supplice (-> sceau de Gojo, Shibuya 2018, ere C). [DIVERGENCE RP] Auteur de la fecondation-trauma du corps de Nisha pendant la possession - sa came a lui (le viol restant l'idee d'Eien, le moyen de briser Nisha). Foetus sans enjeu strategique, avorte par Naoya. [DIVERGENCE RP] Hors caméra, pendant le viol, il PRÉLÈVE un cheveu de Nisha : précaution envers Eien elle-même, une signature en réserve au cas où son alliée échapperait à leur plan | obtient la cle du sceau de Gojo ; l'oeuvre du couple architecte avance ; signature de Nisha en poche |
+| été - sept 2018 (C1_4, C1_5) | Par la taupe Mechamaru, obtient un cheveu de Satoru. Tire des deux cheveux les signatures du couple (Nisha et Satoru, donc aussi Naoya par la règle des jumeaux) et fournit le PATRON d'un rideau polarisé sur les deux, tissé par le maître des fléaux boucher à l'Amicale de Tokyo. Pendant l'attaque d'Hanami, sous le corps de Geto, vole avec Mahito des doigts de Sukuna et les Peintures Mortes (canon). Jamais vu de Nisha | test grandeur nature du rideau anti-couple ; doigts et Peintures Mortes en main (-> C2, Shibuya) |
 
 ## Notes de frontiere (hors de cette fiche)
 - Evenements specifiques au RP (sceau de Satoru, denouement, mort de Kenjaku) : posterieurs au point de depart -> roadmap (Passe 2), puis Parties.
 - Continuite vers le futur culte qu'il reprendra une fois le corps de Geto investi : non datee a ce stade -> roadmap.
 - Yukiko face a la Lisiere (le pari perdu ou gagne) : ere C -> build ere C, cf. _Implications. (L'operation de 2006 via le Culte Astral, jadis annoncee ici, est desormais portee en Trajectoire datee.)
 - Descellement de Nozomu en 2018 (timing, mise en scene) : -> roadmap ere C.
+- Le cheveu de 2015 n'est raconté nulle part en scène : c'est Eien qui en révèle l'origine à Nisha, enfermées à Takatsuki (31 oct 2018) -> Roadmap C2. Source de la signature du rideau de Takatsuki, idem.
 
 ---
 

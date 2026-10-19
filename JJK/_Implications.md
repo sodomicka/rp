@@ -1,6 +1,6 @@
 # _Implications
 
-- version : W48
+- version : W49
 
 Journal de conception (passes en spirale). Document de TRAVAIL : jamais fetché en narration.
 
@@ -32,7 +32,6 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE
 - Takaba | ère D | Son rôle canon (duel Kenjaku) est mort avec Kenjaku au palais : EMPLOI NEUF à définir, fiche à prévoir.
 - Roster de la Traque | ère D | [NON TRANCHÉ] : qui on garde et qui est présent (l'Ange déjà COUPÉE, Higuruma et Uraume conservés) ; composition des "gamins" de part et d'autre [À DÉFINIR à la roadmap].
 - Sukuna / réincarnation du jumeau | ère C/D | Qu'il SACHE toute l'architecture est CANON (ch. 257) ; reste [OUVERT] le quand et le comment dans notre continuité (dite au pacte ? déduite ?). Levier dramaturgique du duel final. Maille dérivée : la renaissance en Jin AU SEIN de la lignée-réceptacle - aiguillage du couple ou coïncidence saisie ? [INCERTAIN, à trancher quand ça comptera].
-- Eien, source de la signature de Takatsuki | ère C | [PROPOSÉ : Eien ; NON TRANCHÉ]. Reporté tel quel en fiche Kenjaku.
 - Panda | ère C | Nombre de doigts à maturité [À DÉFINIR]. En attente du build ère C.
 - Maki | ère C | Son apparence change post-Shibuya (décision worldbuilder, détail non fixé). Note de frontière posée dans sa fiche.
 - Trou PROMO KYOTO 2005-2008 | chantier Yukiko | Yukiko appartient à la promo Kyoto 2005-2008, mais Pedagogie/Perso_Kyoto_2005-2008.md (casting Naoya + Ranta) est antérieure à sa création - son chantier d'enseignement personnalisé sous Gakuganji n'existe pas. Principe VALIDÉ (double étage : chantier de façade public compatible Grade 2 + chantier réel en interne, axe "prise au dépourvu") ; contenu à définir, cohérence avec le sandbagging (que voit et que note un référent qui SAIT ?). Page à relivrer sur DÉCISION worldbuilder. Ne pas combler seul.
@@ -48,8 +47,7 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE
 - Yukiko_chrono_B | scission différée | Les entrées d'ère B vivent provisoirement dans la fiche Yukiko. À scinder.
 - Yukiko ère B | rattachements | Refus conditionnel de la chaire (2013) -> rattacher B1 (resto mars 2013). Majorité de Nori + report du titre tant qu'il ne se juge pas assez mûr, jusqu'à son diplôme (5 juin 2015) -> rattacher B2.
 - Roadmaps ères C et D | Passe 2 | À ÉCRIRE. Elles résorbent la section "Faits actés en attente de leur strate" ci-dessus et le chantier Roadmap/_Chantier_Passe2_EresCD.md (item 18 de son registre S8 : trajectoires datées à alimenter).
-- Pedagogie/Perso_Tokyo_2018-2021 | ère C | Page à RELIVRER quand Yuji et Nobara entrent en scène.
-- Fiches noyau Yuji et Nobara | ère C | À BUILDER (différées, décision worldbuilder) : leurs entrées relations vivent en Personnages/Nisha_relations_eleves_tokyo.md, le déroulé attend les roadmaps ère C.
+- Roadmaps C2 (Takatsuki) et C3 (Le palais) | Passe 2 | À ÉCRIRE après C1 (découpage de l'ère C acté au thread C1 : C1 juin -> sept 2018 ; C2 Peintures Mortes, nœud Mechamaru, Takatsuki ; C3 palais -> réunion de crise de Tokyo).
 - Pattern _relations par cercles | suite | Série Nisha COMPLÈTE et indexée. Yukiko (Utahime, Nori) : DIFFÉRÉE, décision worldbuilder - attend l'avancée de ses roadmaps (rework trame_A_B puis YA2).
 - GRAINE NAOYA | roadmaps Yukiko | Portée en fiches ; le déploiement fin en POV Naoya (Yukiko autant alliée que rivale, il comprend qu'elle le dépasse sûrement) reste À JOUER.
 
@@ -68,6 +66,9 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE
 - Factions/Clan_Zenin.md | périmètre | TENSION : l'accès aux archives de Megumi/Tsumiki est un fait post-2005 dans une page au chapeau "structure atemporelle + point de départ 2005". À solder avec la scission.
 - Personnages/Satoru.md | HORS BUDGET | 14,6k pour un plafond de page de 12k. Scission éventuelle (ère A en chrono_A) à arbitrer plus tard.
 - Personnages/Yukiko.md | fiche protagoniste | 31,2k pour un plafond protagoniste de 30k. Traitement DIFFÉRÉ à la relivraison de son ère B : la trajectoire passera en chrono à ce moment-là.
+- Personnages/Yukiko.md | ère C | Ses entrées d'ère C (C1 : relais des 3es années en juillet 2018, observatrice et souffle du rideau à l'Amicale) ATTENDENT la scission chrono de sa fiche, déjà hors budget. Pas d'ajout avant.
+- Personnages/Satoru_chrono_B.md | périmètre | Ses entrées d'ère C vivent PROVISOIREMENT dans cette page (précédent : Yukiko ère B). À scinder en Satoru_chrono_C quand la page dépassera son budget.
+- Réaccentuation | transverse | Les ajouts depuis le thread C1 sont en français accentué ; une partie des fiches anciennes reste en ASCII. Réaccentuation complète à faire à l'occasion, page par page à chaque relivraison.
 
 ## Notes en suspens
 

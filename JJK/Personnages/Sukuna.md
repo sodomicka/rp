@@ -1,6 +1,6 @@
 # Sukuna
 
-- version : W1
+- version : W2
 
 Canon + [DIVERGENCE RP] (origine Masakado x Michizane, jumeau devore, 200 pourcent, pacte, receptacles). Roi des Fleaux, sommet absolu de l'echelle (20 doigts = 100 pourcent, reference du Power_Scaling). Fiche noyau + Trajectoire datee eres C-D, integree des la genese depuis le chantier Passe 2 (fiche neuve : nait complete, sans prejuger de l'application en bloc du registre S8 aux fichiers existants).
 
@@ -58,9 +58,9 @@ Canon + [DIVERGENCE RP] (origine Masakado x Michizane, jumeau devore, 200 pource
 ## Trajectoire datee - eres C-D (source : chantier Passe 2, S4-S7 ; dates fines a affiner en roadmap)
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
-| juin 2018 (C) | Yuji avale un premier doigt (mission solo de Megumi) : reveil dans un receptacle qui le CONTIENT | 1 doigt ; spectateur amuse |
-| 2018, peu apres (C) | L'AUTEL : Nisha force Yuji au contact ; Eien touche son ame et projette les deux femmes dans son esprit. Eien l'accuse d'avoir tue "sa fidele Yorozu" (T-Yorozu detone) - il s'en moque, RIT, tabasse le parasite qui se fait corriger par son hote, les laisse partir : diverti. Le grief fabrique ECHOUE | premiere rencontre Nisha ; Eien humiliee chez lui |
-| 2018 (C) | Le fil canon se deroule (premiere mort de Yuji, arc Junpei) ; serment ENCHAIN conclu : une minute de controle sur demande, interdiction de tuer ou de blesser pendant - et Yuji jure d'OUBLIER. Le contrat garde son propre secret | levier arme (bluff auto-protege) |
+| juin 2018 (C1_1) | Yuji avale un premier doigt (mission solo de Megumi, fac de Sendai) : réveil dans un réceptacle qui le CONTIENT | 1 doigt ; spectateur amusé |
+| juin 2018, le jour même (C1_1) | L'AUTEL : Nisha force Yuji au contact ; Eien touche son ame et projette les deux femmes dans son esprit. Eien l'accuse d'avoir tue "sa fidele Yorozu" (T-Yorozu detone) - il s'en moque, RIT, tabasse le parasite qui se fait corriger par son hote, les laisse partir : diverti. Le grief fabrique ECHOUE | premiere rencontre Nisha ; Eien humiliee chez lui |
+| juil 2018 (C1_3) | Centre de détention : Yuji lui cède le corps ; il arrache le cœur de son réceptacle et affronte Megumi ; Yuji reprend la main et meurt. Dans le territoire intérieur, serment ENCHAIN conclu : une minute de controle sur demande, interdiction de tuer ou de blesser pendant - et Yuji jure d'OUBLIER. Le contrat garde son propre secret | levier armé (bluff auto-protégé) ; ensuite, arc Junpei et Amicale vécus de l'intérieur (C1_4, C1_5) |
 | 31 oct 2018 (C) | Shibuya : perte de controle - la condition de Gakuganji se realise. Deroule detaille -> roadmap ere C ; volume d'ingestion [IMPLICITE], cale sur le transfert (~15 doigts digeres par Yuji, cf. chantier D6) | receptacle gorge de doigts |
 | fin nov - debut dec 2018 (D) | SAITAMA, la fenetre CHOISIE (les deux monstres parentaux verrouilles au palais Kamo) : minute d'Enchain, bluff protege par le serment, menace sur Tsumiki ; Megumi cede son corps - SERMENT DE SAITAMA (protection absolue de Tsumiki contre cession sans resistance, lettre integrale : chantier D7). Transfert : un doigt DE YUJI (chair devenue objet maudit) concentre toute son ame, avale par Megumi. Rien ne reste dans Yuji | change de receptacle ; passager consenti a bord ; lie par la lettre sous toute forme |
 | ere D, post-Saitama | Uraume livre TOUS les doigts originaux restants : Sukuna se complete a 20/20 dans le corps aux Dix Ombres. Sommet absolu de l'echelle, arme anti-Infini incluse | 20 doigts ; cible de toujours acquise |

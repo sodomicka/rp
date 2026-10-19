@@ -1,6 +1,6 @@
 # Tsumiki Fushiguro
 
-- version : W4
+- version : W5
 
 Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = qui est Tsumiki a son entree en scene (identite, nature, psychologie, relations de base) ; son devenir post-2008 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps ere B). Profane : hors-axe combat.
 
@@ -64,13 +64,15 @@ Fiches propres : cf. Personnages/Nisha.md, Megumi.md, Satoru.md, Maki.md. Ici, s
 | 2010 (B1) | Lance l'Okaruto Shinbun (13 ans) : blog d'horreur mystique romancant les missions de ses parents, qu'elle tient avec serieux des annees (graine T-Okaruto) | devient un pont occulte/profanes |
 | 2015 (B2) | Noces de Nisha et Satoru - un mariage que les gosses, elle en tete, ont pousse | -- |
 | fin 2015 (B3) | LIBERATION. Nisha la fait entrer dans son domaine et livre le combat a deux plans (materiel + territoire interieur de Yorozu) ; l'esprit-germe est TUE, Tsumiki liberee INTACTE, sans coma. Eduquee a la verite occulte et protegee par ses parents n1/n2, elle n'echoue pas au piege qui, dans le canon, la fait basculer | liberee de la dormance ; T-Tsumiki RESOLU |
+| juin 2018 (C1_1) | T-Okaruto DÉTONE : le club d'occultisme de la fac de Yuji, fan du blog, descelle le doigt de Sukuna PARCE QUE ses articles mettent en garde contre les sceaux - des jeunes idiots qui vont contre la consigne. Elle l'apprend par Megumi | son blog a réveillé le Roi des Fléaux, sans le vouloir |
+| juil - sept 2018 (C1_4) | Yuji, mort officiellement, vit caché sous son toit à Saitama : le lecteur rencontre l'autrice | dans le cercle du secret Yuji |
 
 ## Graines plantees en B1 (a NE PAS detoner avant l'ere prevue)
 - T-Tsumiki / Yorozu : plantee 2008, RESOLUE fin 2015 (cf. Trajectoire datee) : Yorozu debusquee et tuee sans avoir jamais pris le dessus. Pas de coma. Detail -> Roadmap_B3 (B3_1) et SB8.
-- T-Okaruto : plantee 2010. Le blog se constitue une audience qui, en ere C, irrigue les promotions 2016+ et donne son origine diegetique au club d'exorcisme du lycee public de Yuji (Yuji inclus, enfant profane lecteur). Detonation ere C.
+- T-Okaruto : plantee 2010. Le blog se constitue une audience qui, en ere C, irrigue les promotions 2016+ et donne son origine diegetique au club d'occultisme de la fac de Yuji (Yuji inclus, enfant profane lecteur). DÉTONÉE en juin 2018 (C1_1, cf. Trajectoire datée).
 
 ## Notes de frontiere (hors de cette fiche)
-- Devenir post-B3 (ere C ; detonation de l'audience de l'Okaruto Shinbun, cf. T-Okaruto) : -> roadmaps ere C, non ecrites.
+- Suite de l'ère C (Shibuya ; Saitama, ère D) : -> roadmaps C2, C3 et ère D.
 - Instance jouee (impact d'une partie donnee) : -> Parties/JJK/Partie<n>/ le cas echeant. Cette fiche reste la version neutre, reutilisable.
 
 ## Pointeurs

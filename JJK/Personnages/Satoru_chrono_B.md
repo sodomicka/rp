@@ -1,6 +1,6 @@
 # Satoru Gojo - Chronologie datee, ere B (2008-2018)
 
-- version : W5
+- version : W6
 
 Extension de Personnages/Satoru.md. Contient la TRAJECTOIRE DATEE post-depart de Satoru pour l'ere B (hiver 2008 -> juin 2018). NB : l'ere A de Satoru reste dans Personnages/Satoru.md (Trajectoire datee non scindee a l'epoque) ; scission de l'ere A optionnelle. Strate canon par defaut, telegraphique. Build-side : fetchee a la demande, JAMAIS chargee en narration. Etat : entrees B1 a B3 posees - ere B complete.
 
@@ -19,12 +19,20 @@ Extension de Personnages/Satoru.md. Contient la TRAJECTOIRE DATEE post-depart de
 | fin 2017 (B3) | Geto refait surface : il vient a Tokyo recruter Yuta (canon JJK0) | le meilleur ami perdu reapparait en ennemi |
 | 24 dec 2017 (B3) | NUIT DES CENT FLEAUX, cote Tokyo/Shinjuku (hors POV Nisha) : Yuta/Rika brisent l'assaut ; Satoru affronte Geto et LE TUE DE SES PROPRES MAINS | a tue Suguru ; le pire geste de sa vie |
 | debut 2018 (B3) | EFFONDREMENT HUMAIN, plusieurs mois : appetit, desir, deconne - tout en berne (le clown s'eteint). RELEVE par la famille - Nisha en premier (miroir de B2 : cette fois c'est elle qui repare), les gosses, les jumelles - et par Shoko | brise puis releve ; symetrie de B2 accomplie |
-| avr-juin 2018 (B3) | Rentree du 1 avr : Megumi entre dans sa classe a Tokyo (1re annee). Chantier convenu avec Nisha : le TERRITOIRE du gamin, qu'il a deja apercu (le Jardin des Ombres). Satoru le FORCE en l'agressant avec la Sphere de l'Espace Infini - seul procede connu au monde, resultat non garanti, et rare car epuisant des deux cotes ; entre deux tentatives, chantier ordinaire, se battre pour GAGNER. CLOTURE ere B : la veille de la 1re mission solo de Megumi (juin 2018) - recuperer une relique de Grade Special pres d'un lycee public (le doigt de Sukuna, lycee de Yuji) | pere-prof de Megumi ; seuil du canon 2018 -> ere C |
+| avr-juin 2018 (B3) | Rentree du 1 avr : Megumi entre dans sa classe a Tokyo (1re annee). Chantier convenu avec Nisha : le TERRITOIRE du gamin, qu'il a deja apercu (le Jardin des Ombres). Satoru le FORCE en l'agressant avec la Sphere de l'Espace Infini - seul procede connu au monde, resultat non garanti, et rare car epuisant des deux cotes ; entre deux tentatives, chantier ordinaire, se battre pour GAGNER. CLOTURE ere B : la veille de la 1re mission solo de Megumi (juin 2018) - recuperer une relique de Grade Special dans une fac de Sendai (le doigt de Sukuna, fac de Yuji) | pere-prof de Megumi ; seuil du canon 2018 -> ere C |
+
+## Trajectoire datée - ère C (PROVISOIRE dans cette page, cf. _Implications)
+| Date/ère | Événement | Delta d'état |
+|---|---|---|
+| juin 2018 (C1_1, C1_2) | Avec Nisha, arrive en un dixième de seconde sur Megumi prêt à invoquer Mahoraga ; teste le contrôle de Yuji (canon). Le prend dans sa classe sous le sursis obtenu par Nisha | professeur du réceptacle |
+| juil 2018 (C1_3) | En mission en Chine, portable coupé pour raison de sécurité nationale : injoignable quand ses élèves sont envoyés au centre de détention | absent au pire moment |
+| juil - sept 2018 (C1_4) | Cache Yuji à Saitama et l'entraîne en secret (canon : les films). Attaqué par Jogo (canon, hors POV de Nisha). Mechamaru prélève un de ses cheveux sur la veste de Nisha | mentor clandestin ; cheveu dans la nature |
+| sept 2018 (C1_5) | Amicale à Tokyo : rideau polarisé sur lui et Nisha ; il défait le rideau sur le souffle de Yukiko ; le Violet chasse Hanami | ciblé avec sa femme |
 
 ## Pointeurs
 - Noyau + Trajectoire datee ere A : cf. Personnages/Satoru.md.
 - Famille de Saitama : cf. Personnages/Nisha.md, Megumi.md, Tsumiki.md.
-- Detail narratif ere B : cf. Roadmap/Nisha/Roadmap_B1.md, Roadmap_B2.md, Roadmap_B3.md.
+- Detail narratif ere B : cf. Roadmap/Nisha/Roadmap_B1.md, Roadmap_B2.md, Roadmap_B3.md. Ère C : Roadmap_C1.md.
 
 ---
 

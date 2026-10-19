@@ -1,6 +1,6 @@
 # Tournoi des Universites Jumelees (l'Amicale de Tokyo/Kyoto)
 
-- version : W5
+- version : W6
 
 Page = institution inter-universites. Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4.
 
@@ -18,6 +18,9 @@ Page = institution inter-universites. Faits canon non balises (niveau etabli) ; 
 - L'echange se tient durant la scolarite de la generation ainee (2005-2008). Editions precises et enjeux narratifs -> roadmap.
 - [DIVERGENCE RP] Premiere edition JOUEE de la saga : 2005, hote Kyoto (hote en tant que vainqueur de l'edition precedente, hors-champ - l'institution est anterieure au RP). Detail (affiches, deroule, resultat) -> Roadmap A1 (etape A1_3). Kyoto remporte cette edition 2005 (Jour 1 decisif) et heberge donc l'edition 2006. [DIVERGENCE RP] Yukiko Kamo (promo 2005-2008) dans l'equipe de Kyoto : mise hors jeu par Satoru au J1, soignee par Shoko, absente du J2 sur blessure - A1_3 a amender (composition de l'equipe de Kyoto a refixer ; cf. Personnages/Yukiko.md).
 - [DIVERGENCE RP] Editions 2006 et 2007 NON TENUES : 2006 (Kyoto hote, vainqueur 2005) - Kyoto refuse de jouer ; 2007 - annulee (contexte trop instable). Motifs et detail -> Roadmap A2.
+- [DIVERGENCE RP] Éditions 2008 à 2016 tenues chaque année, sans détail (hôtes et vainqueurs non fixés).
+- [DIVERGENCE RP] Édition 2017 (sept) : la classe de Nisha (Todo, Noritoshi, Momo) contre celle de Satoru (Maki, Yuta, Panda, Toge) ; Mai, en 1re année à Kyoto, à égalité avec Maki. TOKYO gagne grâce à Yuta et héberge 2018 (cf. Roadmap/Nisha/Roadmap_B3.md).
+- [DIVERGENCE RP] Édition 2018 (sept), hôte TOKYO : retour public de Yuji, que l'on croyait mort ; Maki et Mai encore à égalité ; attaque d'Hanami sous un rideau polarisé sur Satoru et Nisha, défait sur le souffle de Yukiko ; aucun mort. Jour 2 : base-ball (canon). Détail : cf. Roadmap/Nisha/Roadmap_C1.md (C1_5).
 
 ## Place dans le focus
 - Terrain de confrontation reglee entre les promotions des deux universites, donc entre les poles conservateur (Kyoto) et ouvert (Tokyo). Usage dramatique -> roadmap.

@@ -1,6 +1,6 @@
 # Nisha Zenin - Relations : eleves de Tokyo
 
-- version : W1
+- version : W2
 
 Page relations de Nisha, cercle des ELEVES DE TOKYO : les proteges de Satoru. Serie en quatre pages par cercles ; regles generales et convention : cf. Nisha_relations_proches.md.
 Maki et Panda (eleves de Tokyo des 2017) et Megumi (des avr 2018) vivent en _famille : pas de doublon.
@@ -38,15 +38,15 @@ Convention d'ecriture pour Kirara (decision worldbuilder, cf. sa fiche) : point 
 ### Yuji
 - Statut : le receptacle - traite comme elle a traite Riko : un objet humain, un role. La doctrine du dossier : on le gave de doigts jusqu'au presque-trop-fort ou la perte de controle, puis on l'execute. Lui l'aime bien ; elle essaie de ne pas s'attacher, puis finit par adorer sa combativite - et deteste, d'un amour maternel, qu'il se deprecie assez pour etre D'ACCORD avec elle sur son propre sort.
 - Appellatifs : elle -> lui : Itadori, le receptacle, l'hote. Lui -> elle : M'dame Zenin, m'dame Gojo.
-- Reperes : promo Tokyo 2018-2021, entree en scene juin 2018 (seuil ere C). Fiche noyau a builder (differee) ; deroule -> roadmaps ere C.
+- Reperes : promo Tokyo 2018-2021, entree en scene juin 2018 (C1_1). Sursis obtenu par Nisha ; caché à Saitama après sa mort simulée (juil 2018). Fiche noyau : cf. Personnages/Yuji.md ; déroulé : Roadmap/Nisha/Roadmap_C1.md.
 
 ### Nobara
 - Statut : respect mutuel. Nisha reconnait en elle une lionne qui se bat pour meriter PLUS que sa place - et elle aime etonnamment ca.
 - Appellatifs : elle -> Nobara : Kugisaki, Nobara. Nobara -> elle : Madame Zenin, Madame Gojo-Zenin, la plus forte.
-- Reperes : promo Tokyo 2018-2021, entree en scene ere C. Fiche noyau a builder (differee) ; deroule -> roadmaps ere C.
+- Reperes : promo Tokyo 2018-2021, entree en scene juin 2018 (C1_3). Dans le cercle du secret Yuji. Fiche noyau : cf. Personnages/Nobara.md.
 
 ## Pointeurs
-- Fiches propres : Personnages/Yuta.md, Toge.md, Hakari.md, Kirara.md. Yuji et Nobara : fiches noyau a builder (differees).
+- Fiches propres : Personnages/Yuta.md, Toge.md, Hakari.md, Kirara.md. Personnages/Yuji.md, Nobara.md.
 - Pages soeurs : Nisha_relations_proches.md, Nisha_relations_famille.md, Nisha_relations_boulot.md.
 
 ---

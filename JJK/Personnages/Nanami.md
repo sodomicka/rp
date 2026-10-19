@@ -1,6 +1,6 @@
 # Kento Nanami
 
-- version : W5
+- version : W6
 
 ## Identite
 - Kento Nanami, 1re annee a l'universite de Tokyo en 2006 (promo 2006-2009). Sous-classe de Gojo, Geto et Shoko.
@@ -44,11 +44,12 @@
 | 24 dec 2017 (B3_4) | NUIT DES CENT FLEAUX, front de TOKYO : record de QUATRE Rayons Noirs consecutifs contre des fleaux de Grade 1. [DIVERGENCE RP vs canon : le canon situe l'exploit sur le front de Kyoto - ici aucun Tokyoite n'y est envoye, Kyoto est le terrain de chasse des Zenin et des eleves de Nisha ; exploit relocalise a Tokyo, meme nuit] | record 4x Rayon Noir ; Grade 1 confirme au feu |
 | 2017-2018 (B3) | Referent de 3e annee de Takuma Ino (promo 2015-2018), qu'il diplome en mars 2018 ; Ino passe naturellement sous sa tutelle pleine | mentor d'Ino |
 | avr-juin 2018 (B3) | Rentree : sa classe de 3e annee (promo 2016-2019) est VIDE - Hakari suspendu, Kirara parti(e) avec lui. Champ libre total : tutelle d'Ino, missions de terrain | prof sans classe ; disponible (-> ere C : mentorat de Yuji) |
+| juil - sept 2018 (C1_4) | Prend Yuji, officiellement mort, en MENTORAT (canon) ; arc Junpei, face-à-face avec Mahito. Dans le cercle du secret de fait | mentor de Yuji |
 
 ## Notes de frontiere
 - [DIVERGENCE RP] Datation A2_8 : canon = mort de Haibara en septembre 2007 (juste avant le massacre du village ; Geto entre au village le 18 sept, rapport d'incident le 28 sept). Le RP la repousse a FIN 2007 (apres la fenetre de l'Amicale de septembre, edition 2007 non tenue ; cf. WIKI Factions/Tournoi.md). Aligne avec Geto A2_8 et Haibara A2_8.
 - Nanami SURVIT a A2 : sa trajectoire n'est pas terminale, elle continue en ere B (cf. Trajectoire datee - ere B).
-- Ere C (2018+, non roadmappe) : mentorat de Yuji (a partir de juin 2018, canon) ; Shibuya (31 oct 2018), ou il meurt au canon - probablement hors-RP cote Nisha. Detail -> roadmaps ere C.
+- Ere C : mentorat de Yuji porte en Trajectoire datee (C1_4) ; Shibuya (31 oct 2018), ou il meurt au canon - probablement hors-RP cote Nisha. Detail -> roadmaps ere C.
 
 ---
 FIN_WIKI_PERSONNAGES_NANAMI

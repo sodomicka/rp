@@ -1,6 +1,6 @@
 # Yoshinobu Gakuganji
 
-- version : W7
+- version : W8
 
 Page = fiche noyau légère (le gros est couvert par Factions/Hautes_Instances.md et Factions/Universite_Kyoto.md). État atemporel / point de départ 2005. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. Plot futur -> roadmap. Résumé condensé en BIBLE SB5.
 
@@ -63,6 +63,10 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport à 
 | 2009-2013 (B1) | CUMULE le principalat de Kyoto et le poste de professeur de 3e année, comme il l'avait fait pour la promo de Naoya. Utahime tient la 1re année, Nisha la 2e dès 2009 | double charge assumée ; pôle conservateur tenu de bout en bout |
 | mars 2013 (B1) | Accepte la recommandation de Nisha et Utahime : recrute Mei Mei comme professeure de 3e année, quitte à puiser dans les fonds de l'université pour la retenir (cf. Personnages/Mei_Mei.md) | cède la 3e année dès avr 2013, garde le principalat |
 | 24 déc 2017 (B3_4) | Nuit des Cent Fléaux, Kyoto : se joint à la défense de la vieille ville, aux côtés de Nisha et du clan Zenin ; aucun mort de l'université (cf. Roadmap/Nisha/Roadmap_B3.md) | le principal au front, avec le clan |
+| juin 2018 (C1_2) | Convaincu par Nisha, porte aux Instances le SURSIS du réceptacle Yuji Itadori : exécution repoussée à 15 doigts digérés ou à la première perte de contrôle | caution institutionnelle du réceptacle |
+| juil 2018 (C1_3) | Vote des Instances envoyant les trois 1res années de Tokyo face à un Grade Spécial pour que le réceptacle y meure : son avis est MINORITAIRE ; il ne trahit pas son institution, même pour une amie | loyal à l'institution, contre son avis |
+| juil - sept 2018 (C1_4) | Présente ses EXCUSES à Nisha pour le vote : désaccord interne, il ne pouvait rien | lien avec Nisha préservé |
+| sept 2018 (C1_5) | Amicale à Tokyo : Yuji réapparaît ; FURIEUX que Nisha le lui ait caché, il ne donne aucun ordre de tuer (Yukiko ne l'aurait pas toléré pour son frère) | fâché mais loyal |
 
 ## Notes de frontière (reporté hors de cette fiche neutre)
 - Cas Yaga (ère C, nov 2018) : il demande des comptes sur le secret des cadavres maudits avant toute extrémité - issue tranchée au chantier ères C/D (cf. BIBLE SB8, fil T-Âmes), déroulé -> roadmaps ère C. Non énoncé ici. [État antérieur de cette note ("exécution de Yaga") : périmé, aligné sur SB8.]

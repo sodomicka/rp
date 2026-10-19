@@ -2,7 +2,7 @@
 # Capture de session (build 2026-08-24)
 
 ## S0 Statut du document
-- version : W3 (relecture de cohérence du 2026-10-19, après la migration des roadmaps A0-B3 au gabarit v9.0 : A0 Yukiko écrite, Amicale soldée, Nori sur le trône post-Kenjaku (Yukiko au bras droit), report du titre de Nori jusqu'à son diplôme (tant qu'il ne se juge pas assez mûr), savoir de Nisha sur Kenjaku borné, échos Miguel et "elle a résisté" ajoutés. W2 : annotations du BIBLE BUILD B18, 2026-08-24 - registre S8 appliqué, S9.1/S10.1/S10.5 soldés - session Nozomu et build)
+- version : W4 (Roadmap C1 écrite, 2026-10-19 : S9.4, S9.9 et T-Okaruto soldés. W3 : relecture de cohérence du 2026-10-19, après la migration des roadmaps A0-B3 au gabarit v9.0 : A0 Yukiko écrite, Amicale soldée, Nori sur le trône post-Kenjaku (Yukiko au bras droit), report du titre de Nori jusqu'à son diplôme (tant qu'il ne se juge pas assez mûr), savoir de Nisha sur Kenjaku borné, échos Miguel et "elle a résisté" ajoutés. W2 : annotations du BIBLE BUILD B18, 2026-08-24 - registre S8 appliqué, S9.1/S10.1/S10.5 soldés - session Nozomu et build)
 - Nature : document de TRAVAIL (même régime que _Implications.md). Source d'intégration pour les roadmaps, les fiches et la BIBLE. Jamais fetché en narration. Non indexé au Sommaire.
 - Emplacement : JJK/Roadmap/_Chantier_Passe2_EresCD.md
 - Toutes les décisions ci-dessous sont VALIDÉES par le worldbuilder sauf mention [NON TRANCHÉ], [PROPOSÉ], [IMPLICITE] ou [INTERPRÉTATION].
@@ -145,14 +145,14 @@ Squelette temporel (nov-déc 2018) :
 1. OC FLÉAU - SOLDÉ (session Nozomu, 2026-08-24) : décision de principe PRISE, l'OC du camp fléau existe - NOZOMU (cf. Personnages/Nozomu.md et journal _Implications). La piste recommandée d'origine (incarné du Culling Game, âme Heian) est SUPERSÉDÉE par le mécanisme de la MARQUE dédiée (ancrage Uraume conservé ; ère Genroku au lieu de Heian). Analyse d'origine, pour mémoire : (a) pour - asymétrie de casting (chaque camp a son OC) ; (b) contre - le roster aberrant EST la livraison du pacte, un roi seul face à l'apogée promise ; option onryo primordial DÉCONSEILLÉE (non retenue). Vaccin anti-Kubo respecté : le passé le connaissait déjà (Genroku).
 2. Ménagerie de Kenjaku (les milliers de fléaux absorbés de Geto) : morts avec le cerveau au palais, ou relâchés ? [NON TRANCHÉ] NB build B18 : le cadrage d'origine ("menace gratuite sans OC") est périmé dans sa lettre - un OC fléau existe désormais (Nozomu) ; à relire à l'arbitrage.
 3. Modalité de la protection Tsumiki (près de Sukuna / surveillée de loin). [NON TRANCHÉ] NB : semble TRANCHÉ par la formule worldbuilder "sous la garde directe de Sukuna" (garde rapprochée, cf. journal, entrée Marque de Nozomu) - À CONFIRMER.
-4. Source de la signature gémellaire pour le rideau de Takatsuki. [PROPOSÉ : Eien ; NON TRANCHÉ]
+4. SOLDÉ (thread C1, 2026-10-19) - Source de la signature gémellaire pour le rideau de Takatsuki : un cheveu de Nisha prélevé par Kenjaku pendant le viol de 2015, hors caméra, par précaution envers Eien. C'est Eien qui le révèle, enfermée à Takatsuki (cf. Personnages/Kenjaku.md, Roadmap C2).
 5. Sort de Satoru post-libération / issue du duel final contre le corps de Megumi. [OUVERT, décision worldbuilder]
 6. Roster intérieur du rideau du palais (qui exactement combat Kenjaku). [À PRÉCISER à la roadmap]
 7. Hana Kurusu coupée : son incarnation existe-t-elle quand même dans le monde (joueuse lambda) ou n'existe pas du tout ? [NON TRANCHÉ]
 8. Higuruma : rôle conservé, placement exact (points / règles) à fixer à la roadmap.
-9. Édition d'amicale du retour de Yuji (ère C) : à dater (canon à vérifier au build).
+9. SOLDÉ (thread C1) - Amicale de septembre 2018, hôte Tokyo (vainqueur 2017 grâce à Yuta) : cf. Roadmap/Nisha/Roadmap_C1.md (C1_5), Factions/Tournoi.md.
 10. Routage : Parties/JJK/Partie2/ pour le RP Yukiko. [IMPLICITE - à confirmer]
-11. Détonations restantes non adressées : T-Okaruto (condition toujours [INCERTAIN]), collier de Nisha (réappro annuelle en ère C/D ?), T-Âmes (statut final à reporter en SB8).
+11. Détonations restantes non adressées : T-Okaruto SOLDÉ (thread C1 : le club descelle le doigt à rebours des avertissements du blog, C1_1), collier de Nisha (réappro annuelle en ère C/D ?), T-Âmes (statut final à reporter en SB8).
 12. Structure des roadmaps Yukiko : A0 et A1 écrites au gabarit v9.0 (2026-10-19) ; A2 et la suite attendent le rework de la trame (Roadmap/Yukiko/trame_A_B.md) ; découpage des arcs B à C/D toujours en attente d'arbitrage.
 
 ## S10 Prochaines étapes (feuille de route)

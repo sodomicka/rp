@@ -1,6 +1,6 @@
 # Megumi Fushiguro
 
-- version : W5
+- version : W6
 
 Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = qui est Megumi a son entree en scene (identite, nature, sort, psychologie, relations) ; son devenir post-2008 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps ere B). Enfant sur tout B1 : scaling de combat non pertinent (potentiel seulement).
 
@@ -72,16 +72,19 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya
 | 2008 (B1) | Adopte avec Tsumiki par le couple ; emmenagement a Saitama, hors-Zenin | d'enfant promis au clan a fils adopte ; soustrait a la vente (deja annulee) |
 | 2009 (B1) | Revele ses premiers shikigami (~8-9 ans) ; entraine "puissant qui protege", jamais une arme. Tsumiki l'encourage et se lie a ses familiers | sort manifeste ; cultivation hors-moule engagee |
 | avr 2018 (B3) | Entre a l'universite de TOKYO : 1re annee dans la classe de son pere Satoru (promo 2018-2021). Seul 1re annee a la rentree - Yuji Itadori et Nobara Kugisaki n'arrivent qu'en ere C | etudiant exorciste ; eleve de son pere |
-| juin 2018 (B3, cloture ere B) | Veille de sa PREMIERE MISSION SOLO : recuperer une relique de Grade Special pres d'un lycee public - le doigt de Sukuna, au lycee de Yuji | seuil de l'ere C |
+| juin 2018 (B3, cloture ere B) | Veille de sa PREMIERE MISSION SOLO : recuperer une relique de Grade Special dans une fac de Sendai - le doigt de Sukuna, a la fac de Yuji | seuil de l'ere C |
+| juin 2018 (C1_1) | Blessé face aux fléaux attirés par le doigt ; Yuji avale le doigt pour le sauver. Désespéré face au réceptacle, s'apprête à invoquer MAHORAGA avant même la menace : ses parents arrivent en un dixième de seconde. Choisit de sauver Yuji plutôt que de l'exorciser | a vu ses parents débarquer pour lui ; Mahoraga NON invoqué |
+| juil 2018 (C1_3) | Centre de détention : envoyé avec Yuji et Nobara face à un Grade Spécial par vote des Instances ; père injoignable (Chine), il envoie le SOS à Nisha (« c'est la merde »). Affronte Sukuna dans le corps de Yuji ; voit Yuji mourir, puis sa mère arriver trop tard | blessé ; dans le cercle du secret Yuji |
+| sept 2018 (C1_5) | Amicale à Tokyo (canon) ; attaque d'Hanami | - |
 
 ## Graines plantees / armees en B1 (a NE PAS detoner avant l'ere prevue)
 - Rivalite de succession Naoya <-> Megumi : s'ARME en B1 (Megumi porte les Dix Ombres, eleve hors clan). Adossee au testament de Naobito : [DIVERGENCE RP] une lettre ou le clan Zenin reconnait le PORTEUR DES DIX OMBRES comme successeur legitime de Naobito - scellee, descellee seulement APRES Shibuya (ere C). Megumi, fils de Toji et porteur des Dix Ombres, en devient le beneficiaire malgre son education hors-clan, en travers de Naoya (heritier de fait). Detonation -> ere C. En B1, rien ne detone : Megumi est un enfant, la lettre dort. (Touche aussi la fiche Naobito -> a integrer au build ere C.)
 - Potentiel de receptacle (Sukuna 20/20) : donnee de fond, jamais activee en ere B.
-- Premiere mission solo de Megumi (relique de Grade Special pres d'un lycee public = le doigt de Sukuna, lycee de Yuji) : DERNIER battement de l'ere B (juin 2018) -> seuil ere C. Desormais integree en Trajectoire datee.
+- Premiere mission solo de Megumi (relique de Grade Special dans une fac de Sendai = le doigt de Sukuna, fac de Yuji) : DERNIER battement de l'ere B (juin 2018) -> seuil ere C. Desormais integree en Trajectoire datee.
 
 ## Notes de frontiere (hors B1)
 - Montee en puissance fine 2009-2018 (repertoire de shikigami domptes, amitie avec les familiers) : detail -> roadmaps B2/B3. Entree a Tokyo et veille de mission solo : integrees en Trajectoire datee.
-- Mahoraga, receptacle parfait, rivalite Naoya detonee : -> ere C.
+- Mahoraga, receptacle parfait, rivalite Naoya detonee : -> C3 (Shibuya) et ere D. Mahoraga frôlé en C1_1, jamais invoqué.
 - Instance jouee (impact d'une partie donnee) : -> Parties/JJK/Partie<n>/ le cas echeant. Cette fiche reste la version neutre.
 
 ## Pointeurs

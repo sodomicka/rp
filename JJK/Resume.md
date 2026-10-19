@@ -1,10 +1,10 @@
 # Resume - JJK
 
-- version : W1
+- version : W2
 
 Page = RESUME AUTOSUFFISANT de l'univers et de son histoire, telle qu'etablie (canon + divergences actees). Concue pour etre lue SEULE, hors du systeme BIBLE + WIKI : elle ne renvoie a rien qu'elle ne dise elle-meme. Usage : exporter l'univers vers un projet qui n'a pas la BIBLE.
 
-> NON INDEXEE AU SOMMAIRE (decision worldbuilder, build B15). Meme doctrine que Roadmap/ et Memoires/ : cette page couvre l'histoire jusqu'a juin 2018, donc le FUTUR de toute partie qui demarre en 2005. Un MJ qui la fetcherait en narration prefigurerait en prose. Document de build et d'export uniquement.
+> NON INDEXEE AU SOMMAIRE (decision worldbuilder, build B15). Meme doctrine que Roadmap/ et Memoires/ : cette page couvre l'histoire jusqu'à septembre 2018, donc le FUTUR de toute partie qui demarre en 2005. Un MJ qui la fetcherait en narration prefigurerait en prose. Document de build et d'export uniquement.
 
 ## 1. Le monde
 
@@ -78,14 +78,20 @@ Il s'effondre pendant des mois. Cette fois c'est elle qui releve l'autre - miroi
 
 L'ere B se clot en juin 2018, a la veille de la premiere mission solo de Megumi.
 
-## 5. Etat du monde au seuil (juin 2018)
+L'ère C s'ouvre sur cette mission. Dans une fac de Sendai, le club d'occultisme d'un étudiant, Yuji Itadori, descelle un doigt de Sukuna, précisément parce que le blog de Tsumiki, qu'ils adorent, met en garde contre les sceaux. Pour sauver Megumi, Yuji avale le doigt et garde le contrôle : il devient le réceptacle du Roi des Fléaux. Au premier contact, Eien projette Nisha dans l'esprit de Sukuna et l'accuse d'avoir tué « sa fidèle Yorozu » ; Sukuna en rit, tabasse le parasite et les laisse partir. Le grief fabriqué a échoué.
+
+Nisha juge le gamin dangereux, mais sait qu'à deux, avec Satoru, ils viennent à bout d'un Sukuna complet. Elle obtient de Gakuganji un sursis : Yuji sera exécuté à quinze doigts digérés ou à sa première perte de contrôle. Il entre à Tokyo dans la classe de Satoru, avec Megumi et Nobara Kugisaki. En juillet, la majorité des Hautes Instances envoie les trois premières années face à un fléau de Grade Spécial pour que le réceptacle y meure, pendant que Satoru est injoignable en Chine. Yuji meurt, puis revient : sa mort est simulée, et le couple le cache à Saitama, dans un cercle restreint. Pendant ce temps, Mechamaru, l'élève de confiance de Nisha, vole un cheveu de Satoru sur sa veste pour le compte de Kenjaku.
+
+En septembre, à l'Amicale de Tokyo, Yuji réapparaît. Les fléaux de Kenjaku attaquent sous un rideau polarisé sur Satoru et Nisha, tiré d'un cheveu de chacun ; Yukiko leur souffle la solution, Hanami s'enfuit, et personne ne meurt. Pendant l'attaque, des doigts de Sukuna et les Peintures Mortes sont volés. Nisha sait seulement qu'elle a été ciblée.
+
+## 5. État du monde (septembre 2018)
 
 - Satoru Gojo, 23 doigts, numero 1 mondial, plafond de l'echelle. Nisha, 18 doigts, numero 2 depuis 2006. Naoya, 14 doigts, a la tete du Hei. Yuki Tsukumo, 15 doigts, troisieme de facto mais hors du classement officiel.
 - Suguru Geto est mort. Son corps est occupe par KENJAKU depuis fin 2017 - personne ne le sait.
-- Kenjaku detient depuis 2015 la cle du sceau de Satoru, arrachee a sa propre epouse. Ce fil n'a pas encore detone.
+- Kenjaku detient depuis 2015 la cle du sceau de Satoru, arrachee a sa propre epouse, et un cheveu de chacun des deux. Ce fil n'a pas encore detone.
 - Naoya est le seul depositaire du secret de cette vente.
-- Eien, matee et humiliee, prepare son grief : elle accusera Nisha d'avoir tue "sa fidele Yorozu" - un lien qu'elle n'a jamais eu, fabrique pour la livrer a Sukuna.
-- Sukuna dort toujours, reparti en vingt doigts.
+- Eien a joué son grief sur l'autel de Sukuna et a échoué ; humiliée, elle rumine.
+- Sukuna est réveillé dans Yuji (environ trois doigts digérés), lié à lui par un serment secret, Enchain, que Yuji a juré d'oublier.
 - Tengen n'a pas fusionne depuis l'echec de 2006.
 
 ## 6. Les divergences majeures avec le canon
