@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W34
+- version : W35
 
 ## WIKI
 
@@ -26,7 +26,7 @@ Description : factions et groupes du monde.
 
 ### Personnages/
 Description : fiches personnages du monde.
-- Nisha.md (W23) - fiche NOYAU de Nisha Zenin (OC, protagoniste, jumelle de Naoya, née le 30 jan 1987), état <= 2005 : physique détaillé, tenue, objets récurrents (collier, carte bleue), visuel de la Sphère du Temps Infini ; façade (Tokyo : origine des sorts maquillée ; Kyoto et Hautes Instances savent tout) ; trajectoire datée scindée par ère -> Nisha_chrono_A.md, Nisha_chrono_B.md ; relations scindées par cercles -> série Nisha_relations_*.
+- Nisha.md (W24) - fiche NOYAU de Nisha Zenin (OC, protagoniste, jumelle de Naoya, née le 30 jan 1987), état <= 2005 : physique détaillé, tenue, objets récurrents (collier, carte bleue), visuel de la Sphère du Temps Infini ; façade (Tokyo : origine des sorts maquillée ; Kyoto et Hautes Instances savent tout) ; trajectoire datée scindée par ère -> Nisha_chrono_A.md, Nisha_chrono_B.md ; relations scindées par cercles -> série Nisha_relations_*.
 - Nisha_chrono_A.md (W7) - trajectoire datée de Nisha, ère A (2005-2008) : entrées A1 + A2.
 - Nisha_chrono_B.md (W7) - trajectoire datée de Nisha, ère B (2008-2018) : entrées B1-B3 (famille de Saitama, resto à quatre 2013, trauma, guérison, Nuit des Cent Fleaux, réparation de Satoru).
 - Nisha_relations_proches.md (W1) - tête de la série relations de Nisha (quatre pages par cercles ; extension de Nisha.md, sections Naoya/Eien condensées au profit de la série) : RÈGLES GÉNÉRALES transversales (vestige du "ma belle" post-2006, la fumeuse) + cercle des PROCHES (dont Naoya - appellatifs, rituels, seul jugement post-2015 - et Eien - deux régimes avant/après la bascule de 2015, putsch de 1997 maquillé).
