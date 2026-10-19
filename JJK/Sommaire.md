@@ -92,7 +92,8 @@ Description : lieux du monde.
 
 ### Power_Scaling/
 Description : système de puissance de l'univers.
-- Doigts_de_Sukuna.md (W12) - unité "doigt de Sukuna", formule non linéaire, barème de grade, repères chiffrés (casting B3 intégré ; Nanami adulte à 8 doigts), loi synergie/symbiose, partage gémellaire.
+- Doigts_de_Sukuna.md (W13) - unité "doigt de Sukuna", statut in-world, formule non linéaire, table, barème de grade, loi synergie/symbiose, partage gémellaire (curseur 30/70 en 2017), plafond mondial.
+- Doigts_de_Sukuna_reperes.md (W1) - repères chiffrés par entité (casting B3 et C1 intégrés : Yuji 5, Nobara 4 ; Nanami adulte à 8) et courbes A2 2005 -> 2008.
 
 ### Pedagogie/
 Description : enseignements des universités d'exorcisme (cadre, grille, fiches de cours, enseignement personnalisé).

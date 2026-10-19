@@ -25,12 +25,12 @@
   - Factions - clans Zenin, Gojo, Kamo ; Hautes Instances ; universités de Tokyo et Kyoto ; Tournoi des Universités Jumelées (7 pages)
   - Personnages - fiches personnages (58 pages : 48 fiches + 6 chrono - Nisha A/B/C, Satoru B, Naoya B, Yukiko A - + 4 relations - série Nisha : proches, famille, boulot, élèves de Tokyo)
   - Lieux - sièges des clans (Chiryu no Kyuden - Kamo ; Juei no Ryochi - Zenin) (2 pages)
-  - Power_Scaling - système de puissance (1 page)
+  - Power_Scaling - système de puissance, repères chiffrés en satellite (2 pages)
   - Pedagogie - carte des enseignements (1), fiches de cours par discipline et par année (7), enseignement personnalisé par promotion (8) (16 pages)
   - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1), Yukiko/ (A0, A1) (9 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B) et _Chantier_Passe2_EresCD.md (document de travail), sources de build jamais fetchées en narration.
   - Resume.md - résumé autosuffisant de l'univers jusqu'à septembre 2018, NON indexé au Sommaire, jamais fetché en narration (1 page)
   - _Implications.md - journal de conception, jamais fetché en narration (1 fichier de travail)
-- Total indexé au Sommaire (W45) : 94 pages.
+- Total indexé au Sommaire (W45) : 95 pages.
 
 ## SB1 Cosmogonie et règles du monde
 Périmètre : divergences fondatrices liées à Nisha et Yukiko + règles nécessaires + cosmogonie des trois esprits.
