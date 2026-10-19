@@ -71,6 +71,7 @@ Fils transversaux, à faire SENTIR entre les jalons :
 - Nisha rencontre Megumi ou Tsumiki, ou apprend l'existence de Tsumiki - la rencontre et l'adoption sont en B1.
 - Les jumelles quittent le clan - le refuge de Saitama date de 2014 (B2).
 - La doctrine devient publique dans le clan - elle reste clandestine sur toute l'ère B.
+- Nisha et Yuki règlent leur inimitié par les armes - elle détone à l'ère D (BIBLE SB8).
 - Une Amicale se tient en 2006 ou 2007.
 - Nanami ou Ijichi meurent - tous deux sont requis à l'ère B.
 
