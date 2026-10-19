@@ -27,10 +27,10 @@ Fiche noyau (canon + RP), entité entrant en scène en B3 (2017) comme élève d
 - Rigide, grave, hyper-discipliné. Sens aigu du devoir et de la hiérarchie.
 - [DIVERGENCE RP] Double fardeau : ÉLU par son sort pur, mais BÂTARD par sa naissance (né d'une mère qui n'était pas l'épouse du chef). Le credo "la pureté n'a pas de prix" le sacre par le sang et le damne par l'illégitimité.
 - [DIVERGENCE RP] Il porte le nom du PIRE exorciste de l'histoire du clan (le félon Meiji) - sans savoir, comme TOUT LE MONDE, que ce félon était en fait Kenjaku. Le secret n'a jamais été percé : c'est précisément pour cela que l'honneur des Kamo reste si entaché. Noritoshi vit donc avec la honte d'un ancêtre maudit qu'il croit être des siens, et la rage de laver ce nom.
-- [DIVERGENCE RP] Exigence d'accomplissement : à sa majorité (5 juin 2017, 20 ans - majorité japonaise d'avant 2022), le titre lui revient de droit ; il demande LUI-MÊME à être accompli avant de l'accepter, et reste Prince Kamo durant tout son cursus. "Parfait en tout" n'est pas une pression qu'il subit : c'est la sienne.
+- [DIVERGENCE RP] Exigence d'accomplissement : à 21 ans (5 juin 2018), le titre lui revient de droit ; il demande LUI-MÊME à être accompli avant de l'accepter, et reste Prince Kamo durant tout son cursus. "Parfait en tout" n'est pas une pression qu'il subit : c'est la sienne.
 
 ## Statut dans le clan
-- [DIVERGENCE RP] Prince Kamo (enfant du Patriarche). ÉLU au sort pur depuis le 5 juin 2001 -> PUPILLE du chef de clan, formé pour hériter. Majeur depuis le 5 juin 2017 ; héritage différé à sa propre demande. En 2017-2018 : héritier désigné, pas encore chef, Noriaki toujours Patriarche. L'héritier doit être "parfait en tout" (maîtrise, manières, opinions, obéissance, décision).
+- [DIVERGENCE RP] Prince Kamo (enfant du Patriarche). ÉLU au sort pur depuis le 5 juin 2001 -> PUPILLE du chef de clan, formé pour hériter. Titre dû le 5 juin 2018, à 21 ans ; héritage différé à sa propre demande. En 2017-2018 : héritier désigné, pas encore chef, Noriaki toujours Patriarche. L'héritier doit être "parfait en tout" (maîtrise, manières, opinions, obéissance, décision).
 - Gouvernance Kamo : chef + émissaires (pas de conseil), les émissaires pouvant se réunir pour renverser un chef jugé indigne (précédent Meiji). cf. Clan_Kamo.md.
 - [DIVERGENCE RP] EXEMPTÉ de la dureté de formation du clan : trop précieux pour risquer d'être brisé - décision conjointe de Yukiko et de Yasashiku (cf. Factions/Clan_Kamo.md, Formation interne). L'exigence de perfection porte sur la maîtrise et la conduite, jamais sur le corps.
 
@@ -75,9 +75,9 @@ Fiches propres : cf. Personnages/Yukiko.md, Nisha.md, Kenjaku.md ; Factions/Clan
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
 | avr 2017 (B3_3) | Passe en 2e année, élève de Nisha ; capitaine. Chantier perso : L'HONNEUR - tracer sa propre voie sans renier le nom (la leçon, répétée jusqu'à ce qu'elle tienne : même chef, même menace de destitution, il n'est pas condamné à marcher dans les pas de ses ancêtres ; tant qu'il redore le nom des Kamo, la voie est à lui) - doublé du COMMANDEMENT, capitaine responsable du trio sur chaque exercice. Renversement savoureux : la Zenin qui a transcendé son clan par la force apprend au Kamo à s'affranchir du sien par l'honneur (cf. Pedagogie/Perso_Kyoto_2016-2019.md) | trouve un modèle d'affranchissement ; chantier perso : l'honneur et la charge |
-| 5 juin 2017 (B3, 20 ans) | Majeur. Le titre lui revient ; il demande à être accompli avant de l'accepter. Reste Prince. (Rattachement d'arc : cf. _Implications.) | héritage différé à sa demande (visé ~mars 2019) |
 | déc 2017 (B3_4) | Nuit des Cent Fléaux : confié à Mei Mei avec le trio ; combat au sang, appuyé par l'œil aérien de Momo. | premier grand fait d'armes |
 | avr 2018 (B3_5) | Passe en 3e année (sous Mei Mei) ; approche de l'héritage. | -> seuil ère C |
+| 5 juin 2018 (B3_5, 21 ans) | Le titre lui revient ; il demande à être accompli avant de l'accepter. Reste Prince. (Rattachement d'arc : cf. _Implications.) | héritage différé à sa demande (visé ~mars 2019) |
 
 ## Notes de frontière
 - Héritage effectif et devenir post-B3 (3e année, Amicale, ère C) -> roadmaps ère C. Non énoncé ici.

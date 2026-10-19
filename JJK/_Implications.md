@@ -47,7 +47,7 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE
 - trame_A_B Yukiko | W3 À FAIRE | Le slowburn s'étant joué en A1, la colonne vertébrale d'A2 est à redéfinir (matière restante : distance des missions d'Utahime en 3e année puis diplômée, échos à Kyoto des séismes de Tokyo 2006-2007, tranche de vie du couple). Jalon Lucky 7 déplacé ; exception au cercle figé (Utahime) ; purge des deux "retcon" restants (terminologie actée : "amendement de spirale").
 - Roadmaps Yukiko | Passe 2 | YA2 à écrire APRÈS le rework de la trame ; ères B ensuite.
 - Yukiko_chrono_B | scission différée | Les entrées d'ère B vivent provisoirement dans la fiche Yukiko. À scinder.
-- Yukiko ère B | rattachements | Refus conditionnel de la chaire (2013) -> rattacher B1 (resto mars 2013). Majorité de Nori + refus du titre (5 juin 2017, 20 ans : majorité japonaise d'avant 2022) -> rattacher B3.
+- Yukiko ère B | rattachements | Refus conditionnel de la chaire (2013) -> rattacher B1 (resto mars 2013). Titre dû à Nori à 21 ans + report (5 juin 2018) -> rattacher B3.
 - Roadmaps ères C et D | Passe 2 | À ÉCRIRE. Elles résorbent la section "Faits actés en attente de leur strate" ci-dessus et le chantier Roadmap/_Chantier_Passe2_EresCD.md (item 18 de son registre S8 : trajectoires datées à alimenter).
 - Pedagogie/Perso_Tokyo_2018-2021 | ère C | Page à RELIVRER quand Yuji et Nobara entrent en scène.
 - Fiches noyau Yuji et Nobara | ère C | À BUILDER (différées, décision worldbuilder) : leurs entrées relations vivent en Personnages/Nisha_relations_eleves_tokyo.md, le déroulé attend les roadmaps ère C.

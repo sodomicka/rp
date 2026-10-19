@@ -158,7 +158,7 @@ Objet maudit, forgé sur mesure pour la princesse Kamo. Détail : cf. BIBLE SB7 
 - Évolution de l'amitié avec les jumeaux, vie de promo à Kyoto -> roadmaps Yukiko (repas claniques : soldés dans les deux Roadmap_A0).
 - Utahime : amorce et couple SOLDÉS en A1 (cf. Roadmap_A1) ; restent son creux 2007-2009 (diplôme -> chaire) et la vie de couple d'ère B -> roadmaps suivantes. Vues matrimoniales de Noriaki : DISSOUTES (décision worldbuilder) - on ne spécule pas sur l'héritage génétique d'une enfant, et adulte elle n'est plus la plus pure ; aucun obstacle clanique.
 - Une partie de jeu à dater en roadmap Yukiko, non énoncée ici : le jour où Nori la bat. (L'unique partie contre Satoru : SOLDÉE, sept 2005 -> chrono_A.)
-- Majorité de Noritoshi (5 juin 2017, 20 ans) et ce qu'il décide du titre -> roadmap Yukiko d'ère B3 / fiche Noritoshi, hors de cette page.
+- Le titre dû à Noritoshi à 21 ans (5 juin 2018) et ce qu'il en décide -> roadmap Yukiko d'ère B3 / fiche Noritoshi, hors de cette page.
 - 2018-2019 (ère C) : revient à Kyoto en OBSERVATRICE au fond de la classe de 3e année, comme Ui Ui derrière Mei Mei - un œil sur son frère, qu'elle laisse s'épanouir par lui-même ; la grande sœur surprotectrice ne le gêne jamais. Rôle dans l'ère C (Lisière du Supplice) -> build ère C. Non énoncé ici.
 - Savoir d'architecte (usage MJ, ironie -> CODEX) : Kenjaku a des yeux partout et l'a sur son radar depuis sa NAISSANCE, comme mille autres points - paranoïaque absolu. Il sait ce qu'elle vaut et la juge trop obsédée par son clan pour intervenir. Cf. Personnages/Kenjaku.md.
 

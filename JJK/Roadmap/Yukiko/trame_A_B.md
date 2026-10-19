@@ -46,8 +46,8 @@ Densite : A dense en A1 (l'installation, l'Amicale), calme en A2 (le slowburn ES
 ### B3 - L'universite de Nori (avr 2016 -> juin 2018) [PROPOSE]
 - avr 2016. Nori en 1re annee (classe d'Utahime). Yukiko SPECTATRICE dans la classe de sa propre copine, sous pretexte d'etre la gardienne du futur Patriarche.
 - 2017. Nori en 2e annee chez Nisha : les deux amies se retrouvent au quotidien. Nori leader de sa promo malgre l'ingerence de Todo.
-- 5 juin 2017. Nori majeur (20 ans) : demande a DIFFERER sa nomination - se montrer digne en ayant fini son cursus (=> heritage vise ~mars 2019 ; graine ere C, cf. plus bas).
 - 24 dec 2017. PARADE DE GETO : confiance dans la promo de Nori (2es annees sous Mei Mei) ; Yukiko gere A ELLE SEULE les rideaux de Kyoto, contient et DISSIMULE le massacre des Zenin sur les maitres des fleaux. (Renvoi trame_B B3_4 de Nisha ; ajout du role = RETCON porte au chantier S8.)
+- 5 juin 2018. Nori a 21 ans, le titre lui revient : demande a DIFFERER sa nomination - se montrer digne en ayant fini son cursus (=> heritage vise ~mars 2019 ; graine ere C, cf. plus bas).
 - 2018 (jusqu'en juin). Reste de l'annee calme. SEUIL ERE C (deroule -> chantier S4).
 
 ## Fils transversaux et Tchekhov (le delta a planter dans les roadmaps)

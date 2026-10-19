@@ -70,7 +70,7 @@ Description : fiches personnages du monde.
 - Panda.md (W5) - Panda, cadavre maudit mutant créé par Yaga et co-amalgamé avec Nisha (2011) ; trois noyaux (Panda/Gorille/Tricératops caché) ; "fils" de Yaga + Nisha ; étudiant à Tokyo dès 2017 (promo 2017-2020).
 - Yorozu.md (W3) - Yorozu, exorciste de Heian changée en objet maudit par Kenjaku, en dormance dans Tsumiki (2008-2015) ; 16 doigts ; tuée fin 2015 par Nisha (duel spirituel en territoire intérieur) ; fidèle de SUKUNA, aucun lien réel avec Eien.
 - Todo.md (W5) - Aoi Todo, élève de Nisha (2e année 2017-2018, promo Kyoto 2016-2019), Boogie Woogie ; 7 doigts.
-- Noritoshi_Kamo.md (W9) - Noritoshi Kamo, l'ÉLU, Prince Kamo, né le 5 juin 1997 [DIVERGENCE RP vs canon : 2000], bâtard de concubine (Yasashiku), demi-frère cadet de Yukiko ; règle des bâtards suspendue 1997-2001 ; majeur le 5 juin 2017 (20 ans), héritage différé à sa demande ; élève de Nisha (promo 2016-2019), Hémokinésie ; 5 doigts.
+- Noritoshi_Kamo.md (W9) - Noritoshi Kamo, l'ÉLU, Prince Kamo, né le 5 juin 1997 [DIVERGENCE RP vs canon : 2000], bâtard de concubine (Yasashiku), demi-frère cadet de Yukiko ; règle des bâtards suspendue 1997-2001 ; titre dû à 21 ans (5 juin 2018), héritage différé à sa demande ; élève de Nisha (promo 2016-2019), Hémokinésie ; 5 doigts.
 - Momo.md (W5) - Momo Nishimiya, élève de Nisha (promo 2016-2019), soutien aérien (balai) ; œil aérien décisif à la Nuit des Cent Fleaux ; 4 doigts.
 - Miwa.md (W5) - Kasumi Miwa, élève de Kyoto (promo 2017-2020 : 1re année Utahime, 2e année Nisha), sabre ; 3 doigts.
 - Mechamaru.md (W6) - Kokichi Muta (Ultimate Mechamaru), Restriction Céleste inverse, pilote son robot à distance ; promo Kyoto 2017-2020 ; lien de confiance singulier avec Nisha ; 6 doigts via robot.
