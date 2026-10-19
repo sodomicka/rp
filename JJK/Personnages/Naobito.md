@@ -1,6 +1,6 @@
 # Naobito Zenin
 
-- version : W9
+- version : W10
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -60,11 +60,11 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 | printemps 2006 (A2_1bis) | Invoque comme "le jackpot" de la loterie genetique dans la vanne des jumeaux narguant Ogi (ses jumeaux Naoya/Nisha en symbiose, contre les filles bridees du cadet). Reference indirecte - cite, pas necessairement en scene | neant (caracterisation) |
 | 2006, post-pivot Toji (A2_6) | Preside le conseil quand les jumeaux soumettent leur doctrine edulcoree ("Toji etait fort, on l'a cru faible ; dangereux d'en creer un autre, plus rancunier"). RIT - le chef meprise jusqu'a ses propres prodiges ("on n'offre rien chez les Zenin"). Verdict borne : "il n'y aura pas d'autre Toji" | son rejet (avec Ogi et Jinichi) scelle le secret ; les jumeaux basculent en clandestin |
 | 24 dec 2017 (B3) | NUIT DES CENT FLEAUX, Kyoto : alerte par Nisha via Naoya, monte a la vieille ville AVEC LE CONSEIL au complet. Le clan combat aux cotes de l'universite de Kyoto - fleaux ET maitres des fleaux, aucun prisonnier, aucun mort cote universite | patriarche et conseil engages au front de Kyoto, hors du domaine |
-| 31 oct - 1 nov 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : brûlé par Jogo ; MEURT dans la nuit. Naoya le trouve mort en rentrant de Takatsuki | mort ; testament à desceller (-> C3) |
+| 31 oct - 1 nov 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : brûlé par Jogo. Sur son lit de mort au domaine quand Naoya rentre de Takatsuki ; MEURT dans la nuit | mort ; testament non ouvert (-> ère D) |
 
 ## Notes de frontiere (hors noyau)
 - Detail du beat de la Nuit des Cent Fleaux (actions individuelles au front) : cf. Roadmap/Nisha/Roadmap_B3.md (a builder).
-- Mort a Shibuya : portée en Trajectoire datée (C2_5). Testament : -> roadmap C3.
+- Mort a Shibuya : portée en Trajectoire datée (C2_5). Testament : ouvert par Naoya après le 1er novembre 2018 midi -> ère D.
 - Fiches de Naoya, Jinichi, Ogi : cf. Personnages/Naoya.md, Jinichi.md, Ogi.md. Fondation et lignee : cf. Cosmogonie/Trois_Esprits.md et Factions/Clan_Zenin.md.
 
 ---

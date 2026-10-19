@@ -1,6 +1,6 @@
 # Panda
 
-- version : W6
+- version : W7
 
 Fiche noyau (canon + RP), entite NEE au cours de l'arc B1 (2011). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = ce que Panda EST des sa naissance ; son devenir post-2011 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps). Corps maudit en croissance sur tout B1 : scaling de combat non pertinent (a maturite seulement).
 
@@ -64,9 +64,10 @@ Fiches propres : cf. Personnages/Yaga.md, Nisha.md, Maki.md. Ici, seul le rappor
 | 24 dec 2017 (B3_4) | Nuit des Cent Fleaux, cote Tokyo (hors-POV de Nisha) : defend l'universite aux cotes de Maki et Toge (canon JJK0) | premiere vraie guerre |
 | juil - sept 2018 (C1_4) | Dans le cercle du secret Yuji | - |
 | sept 2018 (C1_5) | Amicale à Tokyo : affronte Mechamaru (canon) ; attaque d'Hanami | - |
+| 1 nov 2018 (C3_3) | ABSENT de la salle des Instances, où Nisha et Yaga livrent le secret des corps autonomes | son secret connu des Instances |
 
 ## Graines plantees en B1 (a NE PAS detoner avant l'ere prevue)
-- T-Ames : la naissance de Panda etablit que Nisha PARTAGE le savoir de creer un etre dote d'une ame autonome. Dans le canon, ce secret condamne Yaga (execution post-Shibuya). [DIVERGENCE RP] Nisha herite du meme danger. Detonation -> ere C. cf. fiche Yaga, SB8.
+- T-Ames : la naissance de Panda etablit que Nisha PARTAGE le savoir de creer un etre dote d'une ame autonome. Dans le canon, ce secret condamne Yaga (execution post-Shibuya). [DIVERGENCE RP] Nisha herite du meme danger. DÉTONÉ hors de sa présence (C3_3). cf. fiche Yaga, SB8.
 
 ## Notes de frontiere (hors de cette fiche)
 - Devenir post-B3 (combats d'ere C (Amicale 2018 : cf. Trajectoire datee) ; croissance a maturite) : -> roadmaps ere C, non ecrites. Entree a l'universite et Nuit des Cent Fleaux : integrees en Trajectoire datee.

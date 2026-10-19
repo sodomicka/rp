@@ -1,6 +1,6 @@
 # Hautes Instances
 
-- version : W6
+- version : W7
 
 ## Nature
 - Canon : le sommet conservateur et sans visage du monde de l'exorcisme - elles emettent les ordres (executions comprises), pesent en politique, et sont adossees aux trois grandes familles. Elles tronent AU-DESSUS des deux universites : les universites en derivent (gouvernance), comme elles derivent de Tengen (barrieres). Cf. Personnages/Tengen.md.
@@ -26,6 +26,15 @@
 ## Rapport aux clans
 - [DIVERGENCE RP] Les trois grandes familles arment six des dix sieges : les hautes instances sont donc le BRAS POLITIQUE COMMUN de la caste (Gojo, Kamo, Zenin), pas un contre-pouvoir. Le siege Kamo est tenu par un emissaire (echo de la gouvernance Kamo). Les Zenin de Naobito et Ogi y sont proches de Gakuganji (cf. cinq raisons du transfert de Nisha, Personnages/Nisha.md).
 - [DIVERGENCE RP] REPAS CLANIQUES KAMO/ZENIN : les cinq sieges de Kyoto organisent un repas qui reunit les deux clans de leur turf le 29 FEVRIER - le jour qui n'existe qu'une annee sur quatre (1988, 1992, 1996, 2000, 2004, 2008, ...). Le cycle de quatre ans decoule du calendrier lui-meme ; un jour hors du calendrier ordinaire n'appartient a aucun clan (terrain neutre), et offrir le jour intercalaire au clan du TEMPS est une courtoisie ceremonielle calculee. (2000 etait bien bissextile - regle des 400 ans ; prochaine exception : 2100, hors cadre.) Les Gojo, clan de Tokyo, n'y sont pas. Lieu de rencontre de Yukiko Kamo et des jumeaux Zenin (1992). GAKUGANJI Y EST PRESENT es qualites, en tant que seul visage public du groupe, a fortiori a Kyoto - depuis sa prise de poste, bien avant la naissance de la generation Nisha/Yukiko : toutes les editions jouees ou evoquees sont couvertes. Editions jouees -> roadmaps (Roadmap_A0 Nisha, roadmaps Yukiko). (cf. Factions/Clan_Kamo.md, Clan_Zenin.md, Personnages/Yukiko.md)
+
+## Kenjaku dans les instances [DIVERGENCE RP]
+- Depuis toujours, Kenjaku tient dans l'ombre les deux sieges Kamo et pese sur les independants non claniques. Les sieges Zenin, Gojo et les independants proches d'eux lui echappent - conservateurs quand meme.
+
+## Trajectoire datée
+| Date/ère | Événement | Delta d'état |
+|---|---|---|
+| nuit 31 oct - 1 nov 2018 (C3_2) | Après Shibuya : Satoru déclaré complice et banni (le libérer devient illégal) ; Yaga condamné à mort ; Yuta désigné bourreau de Yuji ; Geto condamné à mort | - |
+| 1 nov 2018, matinée (C3_3) | Convoquées par Nisha, avec Yaga (Panda absent) : le secret des corps autonomes contre la vie de Yaga et un nouveau sursis pour Yuji (tant qu'il n'avale aucun nouveau doigt avant le retour de Satoru, le couple tenant Sukuna pour arrêtable à coup sûr) ; bannissement de Satoru LEVÉ sous menace de mort de toute la salle (Gakuganji et Yaga jubilent) ; hors des affaires de clans pour quelques jours, sous la même menace | mains liées |
 
 ## Place dans le focus
 - Plafond institutionnel au-dessus des protagonistes : elles sanctionnent, ordonnent, temporisent. Conservatrices par nature.

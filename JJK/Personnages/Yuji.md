@@ -1,6 +1,6 @@
 # Yuji Itadori
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entité entrant en scène en juin 2018 (seuil de l'ère C) : réceptacle de Sukuna, élève de Satoru à Tokyo (promo 2018-2021). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -67,10 +67,11 @@ Fiches propres : cf. Personnages/Satoru.md, Megumi.md, Sukuna.md, Nisha.md. Ici,
 | juil - sept 2018 (C1_4) | Entraînement secret (Satoru) ; mentorat de Nanami ; arc Junpei, premier face-à-face avec Mahito (canon) | sur la courbe de Nisha et Satoru : environ trois doigts digérés |
 | sept 2018 (C1_5) | Amicale à Tokyo : réapparition publique. Todo l'adopte en frère ; premier Rayon Noir contre Hanami | vivant aux yeux des Instances ; Rayon Noir débloqué |
 | sept 2018 (C2_1) | Peintures Mortes (canon) : avec Nobara, tue Eso et Kechizu au pont de Yasohachi ; avale un doigt de plus | environ cinq doigts à la veille de Shibuya [CANON SUPPOSÉ] |
-| 31 oct 2018 (C2_5) | Shibuya (canon) : Jogo lui fait avaler dix doigts ; Sukuna prend le corps et rase le quartier. Choso le domine puis l'épargne ; mort de Nanami ; avec Todo, bat Mahito. Les deux conditions du sursis tombent ; Nisha ne l'exécute pas et dissuade Yuta | 15 doigts ; brisé ; sursis tombé, dossier en C3 |
+| 31 oct 2018 (C2_5) | Shibuya (canon) : Jogo lui fait avaler dix doigts ; Sukuna prend le corps et rase le quartier. Choso le domine puis l'épargne ; mort de Nanami ; avec Todo, bat Mahito. Les deux conditions du sursis tombent | 15 doigts ; brisé ; sursis tombé |
+| 1 nov 2018 (C3_2 à C3_4) | Erre avec Choso et exorcise les fléaux lâchés dans Tokyo (canon) ; retrouvé par Nisha et Yuta, dissuade Choso de tuer Nisha ; non exécuté. Nouveau sursis arraché aux Instances par Nisha et Yaga : tant qu'il n'avale aucun nouveau doigt avant le retour de Satoru. Chez Tengen à midi (canon) | sous nouveau sursis |
 
 ## Notes de frontière
-- Peintures Mortes et Shibuya : portés en Trajectoire datée (cf. Roadmap/Nisha/Roadmap_C2.md). Nouveau sursis (réunion du secret de Panda), transfert de Sukuna : -> roadmap C3 et ère D.
+- Peintures Mortes et Shibuya : portés en Trajectoire datée (cf. Roadmap/Nisha/Roadmap_C2.md). Nouveau sursis : porté en Trajectoire datée (cf. Roadmap_C3.md, C3_3) ; Transfert de Sukuna : -> ère D.
 
 ## Pointeurs
 - Sukuna, Enchain, filiation : cf. Personnages/Sukuna.md. Lignée Itadori : cf. Cosmogonie/Trois_Esprits.md.

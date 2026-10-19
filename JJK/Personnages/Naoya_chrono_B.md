@@ -1,6 +1,6 @@
 # Naoya Zenin - Chronologie datee, ere B (2008-2018)
 
-- version : W6
+- version : W7
 
 Extension de Personnages/Naoya.md. Contient la TRAJECTOIRE DATEE post-depart de Naoya pour l'ere B (hiver 2008 -> juin 2018). NB : l'ere A (A1+A2) reste dans Personnages/Naoya.md (Trajectoire datee non scindee a l'epoque) ; scission de l'ere A optionnelle. Strate canon par defaut, telegraphique ; le detail vit dans les roadmaps. Build-side : fetchee a la demande, JAMAIS chargee en narration. Etat : entrees B1 a B3 posees - ere B complete.
 
@@ -21,7 +21,8 @@ Extension de Personnages/Naoya.md. Contient la TRAJECTOIRE DATEE post-depart de 
 | juil - sept 2018 (C1_4) | Dans le cercle du secret de Yuji, mort simulée | gardien d'un second secret |
 | oct 2018 (C2_3) | Seul confident de Nisha sur le renseignement « Takatsuki » : régler ça à deux, Satoru à l'écart | complice |
 | 31 oct 2018 (C2_4) | TAKATSUKI : piégé avec sa jumelle (même signature) ; confession d'impuissance entre jumeaux ; démêlés par Yukiko | - |
-| 1 nov 2018 (C2_5) | Rentre au domaine : Naobito, brûlé par Jogo à Shibuya, est mort dans la nuit ; Maki blessée mais vivante | orphelin de père ; testament à desceller (-> C3) |
+| nuit 31 oct - 1 nov 2018 (C2_5, C3_1) | Rentre au domaine préparer la crise à venir : Naobito, brûlé par Jogo à Shibuya, est sur son lit de mort et meurt dans la nuit. Nori, poignardé et exilé, l'appelle (le numéro glissé par Yukiko) : il l'emmène au domaine pour les premiers soins | orphelin de père ; testament non ouvert (-> ère D) |
+| 1 nov 2018 (C3_2, C3_4) | Amène Nori à Tokyo, où Shoko le soigne ; reste dehors pendant la réunion chez Tengen | sauveur de l'élève de sa sœur |
 
 ## Pointeurs
 - Noyau + Trajectoire datee ere A (A1+A2) : cf. Personnages/Naoya.md.

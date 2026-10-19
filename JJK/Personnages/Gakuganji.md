@@ -1,6 +1,6 @@
 # Yoshinobu Gakuganji
 
-- version : W8
+- version : W9
 
 Page = fiche noyau légère (le gros est couvert par Factions/Hautes_Instances.md et Factions/Universite_Kyoto.md). État atemporel / point de départ 2005. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. Plot futur -> roadmap. Résumé condensé en BIBLE SB5.
 
@@ -67,9 +67,10 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport à 
 | juil 2018 (C1_3) | Vote des Instances envoyant les trois 1res années de Tokyo face à un Grade Spécial pour que le réceptacle y meure : son avis est MINORITAIRE ; il ne trahit pas son institution, même pour une amie | loyal à l'institution, contre son avis |
 | juil - sept 2018 (C1_4) | Présente ses EXCUSES à Nisha pour le vote : désaccord interne, il ne pouvait rien | lien avec Nisha préservé |
 | sept 2018 (C1_5) | Amicale à Tokyo : Yuji réapparaît ; FURIEUX que Nisha le lui ait caché, il ne donne aucun ordre de tuer (Yukiko ne l'aurait pas toléré pour son frère) | fâché mais loyal |
+| 1 nov 2018 (C3_3) | Salle des Instances : mise sa place sur le secret de Yaga et ressort indemne. Menacé de mort comme toute la salle pour la levée du bannissement de Satoru, il JUBILE, avec Yaga : la seule fois où les deux sont du même camp | indemne |
 
 ## Notes de frontière (reporté hors de cette fiche neutre)
-- Cas Yaga (ère C, nov 2018) : il demande des comptes sur le secret des cadavres maudits avant toute extrémité - issue tranchée au chantier ères C/D (cf. BIBLE SB8, fil T-Âmes), déroulé -> roadmaps ère C. Non énoncé ici. [État antérieur de cette note ("exécution de Yaga") : périmé, aligné sur SB8.]
+- Cas Yaga : réglé en salle des Instances, le 1er novembre 2018 (cf. Trajectoire datée et Roadmap/Nisha/Roadmap_C3.md, C3_3) : Yaga vivant.
 - Évolution fine du lien avec Nisha (au-delà de l'état cordial pré-2008 / amical post-2008) -> roadmap.
 
 ## Pointeurs

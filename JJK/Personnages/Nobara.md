@@ -1,6 +1,6 @@
 # Nobara Kugisaki
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entité entrant en scène en juin 2018 (ère C) : élève de Satoru à Tokyo (promo 2018-2021). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -55,6 +55,7 @@ Fiches propres : cf. Personnages/Yuji.md, Megumi.md, Satoru.md, Nisha.md. Ici, s
 | sept 2018 (C1_5) | Amicale à Tokyo ; combat Momo et Mai (canon) | - |
 | sept 2018 (C2_1) | Peintures Mortes (canon) : Résonance contre Eso et Kechizu | - |
 | 31 oct 2018 (C2_5) | Shibuya : Mahito la touche au visage ; Arata Nitta fige la blessure, Shoko prend le relais. [DIVERGENCE RP] Elle survit ; perd l'œil gauche (canon) | mutilée ; convalescence |
+| nuit 31 oct - 1 nov 2018 (C3_1) | Au campement de Shoko ; Nisha aide aux soins | convalescence |
 
 ## Notes de frontière
 - Peintures Mortes et Shibuya : portés en Trajectoire datée. [DIVERGENCE RP] Elle survit à Shibuya et se trouve en convalescence à Saitama en ère D (cf. chantier ères C/D, D5).

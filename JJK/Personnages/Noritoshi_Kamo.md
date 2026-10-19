@@ -1,6 +1,6 @@
 # Noritoshi Kamo
 
-- version : W11
+- version : W12
 
 Fiche noyau (canon + RP), entité entrant en scène en B3 (2017) comme élève de 2e année de Nisha à Kyoto. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -81,9 +81,10 @@ Fiches propres : cf. Personnages/Yukiko.md, Nisha.md, Kenjaku.md ; Factions/Clan
 | avr 2018 (B3_5) | Passe en 3e année (sous Mei Mei) ; héritage toujours différé, diplôme en vue. | -> seuil ère C |
 | sept 2018 (C1_5) | Amicale à Tokyo (3A de Mei Mei), capitaine : contre Yuji (canon) ; attaque d'Hanami | - |
 | 31 oct 2018 (C2_4) | Prévenu par Muta, soutient Yukiko au démêlage de Takatsuki. Entend TOUT : vente de Satoru, Kenjaku, Noritoshi de Meiji | cercle du secret |
+| nuit 31 oct - 1 nov 2018 (C3) | Au palais (hors POV de Nisha, joué côté Yukiko) : poignardé par sa sœur, exilé, le numéro de Naoya glissé dans sa poche. Naoya l'emmène au domaine Zenin, puis à Tokyo, où Shoko le soigne. Chez Tengen, raconte le palais ; Nisha lui explique que sa sœur s'est sacrifiée pour qu'il survive | blessé, exilé ; sait que sa sœur prépare une observation |
 
 ## Notes de frontière
-- Héritage effectif et devenir post-B3 (3e année, Amicale, ère C) -> roadmaps ère C. Non énoncé ici.
+- Héritage effectif : -> ère D (palais, chantier D4). Non énoncé ici.
 
 ## Pointeurs
 - Clan, succession, lignée dirigeante, secret Kenjaku : cf. Factions/Clan_Kamo.md, Personnages/Kenjaku.md.
