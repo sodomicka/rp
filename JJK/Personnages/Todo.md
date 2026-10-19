@@ -1,6 +1,6 @@
 # Aoi Todo
 
-- version : W5
+- version : W6
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -50,8 +50,10 @@ Fiches propres : cf. Personnages/Yuki.md, Nisha.md. Ici, seul le rapport a Todo.
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | avr 2017 (B3_3) | Passe en 2e annee, eleve de Nisha. Beat du "type" -> adopte Nisha en 2e modele. Chantier perso : CANALISER L'INTENSITE - Boogie Woogie au service des AUTRES (repositionner Momo, extraire Noritoshi, briser une garde pour un allie), interdit de frapper le premier : le tacticien passe devant le cogneur (cf. Pedagogie/Perso_Kyoto_2016-2019.md) | trouve sa 2e idole ; chantier perso : le sort sert l'equipe |
+| sept 2017 (B3_3) | Amicale 2017 : dans la classe de Nisha face à celle de Satoru ; Tokyo gagne grâce à Yuta | défaite d'équipe |
 | dec 2017 (B3_4) | Nuit des Cent Fleaux : les 2e annees confies a Mei Mei ; Todo combat en cogneur, appuye par l'oeil aerien de Momo. | premier grand fait d'armes |
 | avr 2018 (B3_5) | Passe en 3e annee (sous Mei Mei). | -> seuil ere C |
+| sept 2018 (C1_5) | Amicale à Tokyo (3A de Mei Mei) : sur la réponse de Yuji à la question du « type », l'adopte en FRÈRE ; contre Hanami à ses côtés, Rayon Noir (canon) | un frère de cœur |
 
 ## Notes de frontiere
 - Devenir post-B3 (3e annee, Amicale, ere C) -> roadmaps ere C (non encore ecrites). Le contenu n'est pas enonce ici.

@@ -1,6 +1,6 @@
 # Maki Zenin
 
-- version : W11
+- version : W12
 
 Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir). Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (detail -> roadmap).
 
@@ -38,7 +38,11 @@ Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir
 | 2011 (B1, pivot jumelles) | Le partage glisse a 40/60 en faveur de Mai : Maki s'allege (EO 50 % -> 40 %), sa Restriction physique se libere d'autant -> exploite 6 -> 8. Les jumeaux passent de l'interet au respect, s'attachent. Declencheur du glissement -> roadmap | s'allege ; 6 -> 8 |
 | 2014 (B2) | Quitte le foyer clanique pour vivre a Saitama chez le couple Nisha/Satoru : elle n'en peut plus du clan (mepris, cap Grade 4, statut d'interne ratee), ni Mai ni Naoya ne la retiennent. [DIVERGENCE RP] Part en MEILLEURS termes que dans le canon - un refuge offert par la famille qui la cultive depuis A2, pas une rupture violente. Reste administrativement Zenin (cap Grade 4) jusqu'a l'ere C. Separee de Mai au quotidien (curseur 40/60 inchange : separation relationnelle, pas mecanique) | vit a Saitama (4e "gosse" du foyer) ; jumelles separees au quotidien |
 | avr 2017 (B3) | Entre a l'universite de TOKYO : 1re annee sous Satoru (promo 2017-2020, avec Yuta, Toge et Panda). Vit deja a Saitama : l'universite prolonge le refuge. Toujours plafonnee Grade 4 par le clan. Devient au passage le CAS VIVANT de la doctrine Restriction Celeste enseignee en amphi a Tokyo - le cours ne dispose plus d'un cas d'ecole anonyme mort, mais d'une eleve assise au premier rang (cf. Pedagogie/Energie_Territoires_1eAnnee.md). Chantier perso de Satoru : SE BATTRE CONTRE CE QU'ELLE NE VOIT PAS - travail a l'aveugle, lunettes retirees, adversaires silencieux, jusqu'a se battre au bruit, a l'air deplace et a l'habitude du terrain : le jour ou les lunettes cassent, il faut deja savoir (cf. Pedagogie/Perso_Tokyo_2017-2020.md). APPARENCE (canon) : grande, athletique ; cheveux vert-noir en queue de cheval haute, frange ; yeux bruns ; lunettes maudites a demi-cadre (sa vue de l'occulte, cf. BIBLE SB7) ; uniforme de Tokyo en version jupe, bottes noires ; arme d'hast (outil maudit) en main | eleve de Satoru ; cadre complet hors-clan ; cas d'ecole incarne ; chantier perso : l'aveugle |
+| avr 2017 (B3_3) | À son entrée à Tokyo, elle assume le corps comme sa voie, Mai la Construction : le curseur glisse de 40/60 à 30/70 en faveur de Mai. Maki s'allège encore (EO 40 % -> 30 %) : exploite 8 -> 11 | ~11 doigts ; l'égale de Mai |
+| sept 2017 (B3_3) | Amicale 2017 : face à Mai, ÉGALITÉ malgré l'écart de style. Tokyo gagne grâce à Yuta et accueillera 2018 | égalité structurelle confirmée |
 | 24 dec 2017 (B3_4) | Nuit des Cent Fleaux, cote Tokyo (hors-POV de Nisha) : defend l'universite aux cotes de Toge et Panda (canon JJK0) | premiere vraie guerre |
+| juil - sept 2018 (C1_4) | Dans le cercle du secret Yuji, caché à Saitama, chez elle | gardienne du secret |
+| sept 2018 (C1_5) | Amicale à Tokyo : de nouveau face à Mai, ÉGALITÉ (30/70 inchangé) ; attaque d'Hanami | égalité tenue |
 
 ## Notes de frontiere (hors noyau)
 - Apparence : elle CHANGE post-Shibuya (ere C) - detail hors de cette fiche, -> roadmap ere C.

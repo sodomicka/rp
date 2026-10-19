@@ -1,6 +1,6 @@
 # Noritoshi Kamo
 
-- version : W9
+- version : W10
 
 Fiche noyau (canon + RP), entité entrant en scène en B3 (2017) comme élève de 2e année de Nisha à Kyoto. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -76,8 +76,10 @@ Fiches propres : cf. Personnages/Yukiko.md, Nisha.md, Kenjaku.md ; Factions/Clan
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
 | avr 2017 (B3_3) | Passe en 2e année, élève de Nisha ; capitaine. Chantier perso : L'HONNEUR - tracer sa propre voie sans renier le nom (la leçon, répétée jusqu'à ce qu'elle tienne : même chef, même menace de destitution, il n'est pas condamné à marcher dans les pas de ses ancêtres ; tant qu'il redore le nom des Kamo, la voie est à lui) - doublé du COMMANDEMENT, capitaine responsable du trio sur chaque exercice. Renversement savoureux : la Zenin qui a transcendé son clan par la force apprend au Kamo à s'affranchir du sien par l'honneur (cf. Pedagogie/Perso_Kyoto_2016-2019.md) | trouve un modèle d'affranchissement ; chantier perso : l'honneur et la charge |
+| sept 2017 (B3_3) | Amicale 2017 : dans la classe de Nisha face à celle de Satoru ; Tokyo gagne grâce à Yuta | défaite d'équipe |
 | déc 2017 (B3_4) | Nuit des Cent Fléaux : confié à Mei Mei avec le trio ; combat au sang, appuyé par l'œil aérien de Momo. | premier grand fait d'armes |
 | avr 2018 (B3_5) | Passe en 3e année (sous Mei Mei) ; héritage toujours différé, diplôme en vue. | -> seuil ère C |
+| sept 2018 (C1_5) | Amicale à Tokyo (3A de Mei Mei), capitaine : contre Yuji (canon) ; attaque d'Hanami | - |
 
 ## Notes de frontière
 - Héritage effectif et devenir post-B3 (3e année, Amicale, ère C) -> roadmaps ère C. Non énoncé ici.

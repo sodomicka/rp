@@ -1,6 +1,6 @@
 # Nisha Zenin - Chronologie datee, ere B (2008-2018)
 
-- version : W7
+- version : W8
 
 Extension de Personnages/Nisha.md (suite de Nisha_chrono_A.md). Contient la TRAJECTOIRE DATEE post-depart de Nisha pour l'ere B (hiver 2008 -> juin 2018). Strate canon par defaut, telegraphique ; le detail vit dans les roadmaps. Build-side : fetchee a la demande, JAMAIS chargee en narration. Le NOYAU reste dans Personnages/Nisha.md. Etat : entrees B1 (2008 -> mars 2013), B2 (2013 -> automne 2015, le trauma) et B3 (2015 -> juin 2018, guerison et autre trauma) posees - ere B complete.
 
@@ -26,7 +26,7 @@ Extension de Personnages/Nisha.md (suite de Nisha_chrono_A.md). Contient la TRAJ
 | debut 2018 (B3) | L'AUTRE TRAUMA : Satoru a tue Suguru de ses propres mains et s'effondre (plusieurs mois). NISHA REPARE - miroir inverse de B2 : cette fois c'est elle qui releve l'autre - avec la famille et Shoko | soignante a son tour ; couple ressoude par la symetrie des dettes |
 | debut 2018 (B3) | SUSPENSION DE HAKARI. Pendant la Parade, sur le front de TOKYO [DIVERGENCE RP vs fanbook : clash situe a Tokyo, pas a Kyoto - le front de Kyoto (n2 mondiale + deux clans majeurs sur place) n'a besoin d'aucun renfort], Hakari s'est embrouille avec un officiel conservateur des Hautes Instances et l'a TABASSE (canon : fanbook + ch. 155) ; suspension prononcee dans la foulee, Kirara le suit par solidarite. Nisha SOUTIENT la sanction depuis Kyoto, par mepris du caprice du gamin. Coherent avec sa ligne : respect des Hautes Instances en institution, et un renversement patiemment prepare - non pas le leur, mais celui des CONSERVATEURS DU CLAN ZENIN, arme depuis le rejet de la doctrine des jumeaux en 2006 (cf. BIBLE SB8, fil du coup d'Etat Zenin). Les instances ne sont dans sa bouche que l'etalon servi a Hakari : voila ce qu'il faudrait avoir la force de renverser avant de se permettre un caprice | position politique clarifiee : legaliste en facade, putschiste patiente |
 | debut 2018 (B3) | ENSEIGNEMENT TEMPOREL a Yuta (eleve de Satoru) : POST-mort de Geto, une fois CERTAINE que Rika n'est pas une vraie menace (miroir Yuta/Rika <-> Nisha/Eien), Nisha lui enseigne le maniement temporel. Il COPIE sa Chronokinesie - pas la Chronostase (metabolisme, cout calorique prohibitif). Avant son depart avec Miguel (post-JJK0) | Chronokinesie copiee chez Yuta (cle du retour eclair d'Afrique, ere C) |
-| avr-juin 2018 (B3) | Rentree du 1 avr : 2e annee 2018-2019 - Mai Zenin, Kokichi Muta (Mechamaru), Kasumi Miwa (promo 2017-2020). LIEN de confiance singulier avec Mechamaru (detail : cf. fiche Mechamaru). Megumi entre chez Satoru a Tokyo. CLOTURE ere B : la veille de la 1re mission solo de Megumi (juin 2018 - le doigt de Sukuna, lycee de Yuji) | prof de sa cousine et de Mechamaru ; seuil ere C |
+| avr-juin 2018 (B3) | Rentree du 1 avr : 2e annee 2018-2019 - Mai Zenin, Kokichi Muta (Mechamaru), Kasumi Miwa (promo 2017-2020). LIEN de confiance singulier avec Mechamaru (detail : cf. fiche Mechamaru). Megumi entre chez Satoru a Tokyo. CLOTURE ere B : la veille de la 1re mission solo de Megumi (juin 2018 - le doigt de Sukuna, fac de Yuji) | prof de sa cousine et de Mechamaru ; seuil ere C |
 
 ## Pointeurs
 - Noyau (identite, sorts, psychologie, chronologie <= 2005) : cf. Personnages/Nisha.md.

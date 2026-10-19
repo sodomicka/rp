@@ -1,6 +1,6 @@
 # Kokichi Muta (Mechamaru)
 
-- version : W6
+- version : W7
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e annee a Kyoto (via son robot). Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -58,10 +58,16 @@ Fiches propres : cf. Personnages/Utahime.md, Miwa.md, Nisha.md ; Factions/Clan_K
 | dec 2017 (B3_4) | Nuit des Cent Fleaux : 1e annee maintenue avec Utahime (en retrait). | protege du gros de la bataille |
 | avr 2018 (B3_5) | Passe en 2e annee (sous Nisha). Chantier perso : la FINESSE - piloter au millimetre (golem desarme, manipulation de fragile a pleine portee ; l'intensite est une evidence, la precision est la seule chose qui manque a un corps qu'on ne voit jamais). En cours a la frontiere (cf. Pedagogie/Perso_Kyoto_2017-2020.md) | chantier perso : le millimetre ; -> seuil ere C |
 
+## Trajectoire datée - ère C (alimentée à chaud arc par arc)
+| Date/ère | Événement | Delta d'état |
+|---|---|---|
+| juil - sept 2018 (C1_4) | Après les cours, remercie Nisha d'une main sur l'épaule, sincère, et prélève sur sa veste un cheveu blanc de SATORU pour Kenjaku. Il veut un vrai corps ; il en aura honte | taupe active ; cheveu livré |
+| sept 2018 (C1_5) | Amicale à Tokyo : affronte Panda (canon). Le rideau polarisé sur le couple sort en partie de son larcin ; aucun mort | - |
+
 ## Notes de frontiere
-- [DIVERGENCE RP - spoil ere C, non roadmappe : direction connue, detail volontairement absent] Malgre la confiance nouee avec Nisha, Muta TRAHIRA (taupe, comme au canon). Mais il parviendra a appeler Nisha a l'aide ; elle interviendra a temps pour le SAUVER de Mahito. POINT CAPITAL A PRESERVER : lors de cette intervention, NISHA NE CROISE PAS Kenjaku-dans-Geto.
-- Cette intervention AFFINE le Tchekhov SB8 ("Nisha absente de Shibuya") : elle n'est pas absente de TOUT Shibuya, elle y fait une incursion ciblee en peripherie, sans atteindre le face-a-face architecte. A reconcilier avec SB8 quand l'ere C sera roadmappee (parque dans _Implications).
-- Le contenu detaille (deal de la taupe, choregraphie du sauvetage) -> roadmaps ere C, non ecrites.
+- [DIVERGENCE RP - spoil ere C, non roadmappe : direction connue, detail volontairement absent] Malgre la confiance nouee avec Nisha, Muta TRAHIRA (taupe, comme au canon). Mais il parviendra a appeler Nisha a l'aide ; elle interviendra a temps pour le SAUVER de Mahito. POINT CAPITAL A PRESERVER : lors de cette intervention, NISHA NE CROISE PAS Kenjaku-dans-Geto. Comme il n'y a aucun mort à l'Amicale, Nisha lui PARDONNERA le cheveu.
+- Ce sauvetage a lieu AVANT Shibuya (nœud Mechamaru, Roadmap C2), pas en périphérie de Shibuya : c'est la première rencontre de Nisha avec Mahito, et le Tchekhov SB8 (« Nisha absente de Shibuya ») tient tel quel. [Note antérieure, « incursion en périphérie de Shibuya » : périmée, alignée au chantier C1.]
+- Le contenu detaille (deal de la taupe, choregraphie du sauvetage) -> Roadmap C2.
 
 ## Pointeurs
 - Restriction inverse, branche Muta, succession Kamo : cf. Factions/Clan_Kamo.md, Cosmogonie/Trois_Esprits.md.

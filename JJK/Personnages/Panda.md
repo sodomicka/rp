@@ -1,6 +1,6 @@
 # Panda
 
-- version : W5
+- version : W6
 
 Fiche noyau (canon + RP), entite NEE au cours de l'arc B1 (2011). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = ce que Panda EST des sa naissance ; son devenir post-2011 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps). Corps maudit en croissance sur tout B1 : scaling de combat non pertinent (a maturite seulement).
 
@@ -60,13 +60,16 @@ Fiches propres : cf. Personnages/Yaga.md, Nisha.md, Maki.md. Ici, seul le rappor
 |---|---|---|
 | 2011 (B1) | Naissance ; ~3 mois plus tard, autonomie energetique acquise. Grandit aupres de ses deux parents (Yaga a Tokyo, Nisha presente) | de creation a etre autonome |
 | avr 2017 (B3) | Entre a l'universite de Tokyo (promo 2017-2020), 1re annee sous Satoru - le fils de Yaga etudiant dans l'universite dont son pere est principal. Chantier perso : la GESTION DU BASCULEMENT - quand changer de noyau, combien ca coute, le Gorille en exception (Satoru annonce le cout de chaque bascule a voix haute, en temps reel, aux Six Yeux ; Gorille interdit passe un seuil de depense : Panda apprend a gagner en Panda). Satoru VOIT les trois noyaux, Triceratops compris, et se TAIT - le fils de sa femme a droit a son secret (cf. Pedagogie/Perso_Tokyo_2017-2020.md) | etudiant ; chantier perso : gagner en Panda ; le secret du 3e noyau tenu par le prof |
+| sept 2017 (B3_3) | Amicale 2017 : dans la classe de Satoru ; Tokyo gagne grâce à Yuta | victoire d'équipe |
 | 24 dec 2017 (B3_4) | Nuit des Cent Fleaux, cote Tokyo (hors-POV de Nisha) : defend l'universite aux cotes de Maki et Toge (canon JJK0) | premiere vraie guerre |
+| juil - sept 2018 (C1_4) | Dans le cercle du secret Yuji | - |
+| sept 2018 (C1_5) | Amicale à Tokyo : affronte Mechamaru (canon) ; attaque d'Hanami | - |
 
 ## Graines plantees en B1 (a NE PAS detoner avant l'ere prevue)
 - T-Ames : la naissance de Panda etablit que Nisha PARTAGE le savoir de creer un etre dote d'une ame autonome. Dans le canon, ce secret condamne Yaga (execution post-Shibuya). [DIVERGENCE RP] Nisha herite du meme danger. Detonation -> ere C. cf. fiche Yaga, SB8.
 
 ## Notes de frontiere (hors de cette fiche)
-- Devenir post-B3 (combats d'ere C - dont Mechamaru a l'Amicale 2018 ; croissance a maturite) : -> roadmaps ere C, non ecrites. Entree a l'universite et Nuit des Cent Fleaux : integrees en Trajectoire datee.
+- Devenir post-B3 (combats d'ere C (Amicale 2018 : cf. Trajectoire datee) ; croissance a maturite) : -> roadmaps ere C, non ecrites. Entree a l'universite et Nuit des Cent Fleaux : integrees en Trajectoire datee.
 - Equivalence chiffree de puissance a maturite : a definir (ere C).
 - Instance jouee : -> Parties/JJK/Partie<n>/ le cas echeant. Cette fiche reste la version neutre.
 

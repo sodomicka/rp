@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Power-scaling
 
-- version : W11
+- version : W12
 
 ## Unite
 - Unite de puissance de l'univers = le doigt de Sukuna.
@@ -76,12 +76,14 @@ Note : Grade Special 1 (rang elite des grandes familles, hors universite d'exorc
 | Yukiko Kamo (2005, ANNONCE) | 4 | 6.24 | [DIVERGENCE RP] Grade 2 officiel, par RUSE : elle se devalue. Valeur reelle plus bas dans la table |
 | Momo (2017-2018) | 4 | 6.24 | [DIVERGENCE RP] eleve de Nisha (promo 2016-2019), soutien aerien (balai) |
 | Kirara (2017-2018) | 4 | 6.24 | [DIVERGENCE RP] eleve Tokyo (promo 2016-2019), soutien / controle (Love Rendezvous) |
+| Nobara (juin 2018) | 4 | 6.24 | [DIVERGENCE RP] élève de Satoru (promo 2018-2021), Grade 3 dont la Résonance frappe au-dessus de son rang |
 | Soldats du Hei (Ranta, Chojuro, Nobuaki) | ~5 | ~7.44 | [DIVERGENCE RP] Semi-Grade 1, plancher du Hei |
 | Shoko | 5 | 7.44 | [DIVERGENCE RP vs canon] Semi-Grade 1 a vie, lecture soin + reserve, hors-axe combat |
 | Mei Mei (2005) | 5 | 7.44 | [DIVERGENCE RP] Semi-Grade 1, etudiante de 3e annee a Kyoto |
 | Utahime (post-2008) | 5 | 7.44 | [DIVERGENCE RP] Semi-Grade 1, lecture soutien, hors-axe combat |
 | Noritoshi Kamo (2017-2018) | 5 | 7.44 | [DIVERGENCE RP] eleve de Nisha (promo 2016-2019), Hemokinesie |
 | Toge (2017-2018) | 5 | 7.44 | [DIVERGENCE RP] eleve Tokyo (promo 2017-2020), paroles maudites |
+| Yuji (juin 2018) | 5 | 7.44 | [DIVERGENCE RP] puissance PROPRE hors Sukuna (physique brut, zéro technique) ; les doigts qu'il digère mesurent l'éveil de Sukuna, pas sa force à lui |
 | Mechamaru (2017-2018) | 6 | 9.12 | [DIVERGENCE RP] via robot pilote a distance ; reservoir + portee NATIONALE au-dela (Restriction Celeste inverse) |
 | Ogi | 7 | 11.33 | [DIVERGENCE RP] Grade 1, pilier du Hei |
 | Yaga | 7 | 11.33 | [DIVERGENCE RP] Grade 1, seuil du Special par le savoir-faire (creation d'une ame autonome), pas la puissance |
@@ -170,7 +172,8 @@ Le pool gemellaire des jumelles d'Ogi se repartit le long d'un curseur a somme c
   | 2008 (debut B1) | 50/50 | 6 | 1 | 1 |
   | 2011 (pivot B1) | 40/60 | 8 | 8 | 3 |
   | 2015 (B3, lecon Yorozu) | 40/60 | 8 | 8 | 8 |
-  Lecture : le curseur glisse UNE fois (50/50 -> 40/60 en 2011) et ne rebouge plus. En 2015, c'est la MAITRISE de Mai qui rattrape son plafond (3 -> 8, apres avoir vu Yorozu manier la Construction), pas le curseur.
+  | avr 2017 (B3_3, entrée de Maki à Tokyo) | 30/70 | ~11 | ~11 | ~11 |
+  Lecture : le curseur glisse en 2011 (50/50 -> 40/60), puis en avril 2017 (40/60 -> 30/70, valeurs interpolées : chacune assume enfin sa voie, le corps pour Maki, la Construction pour Mai). En 2015, c'est la MAITRISE de Mai qui rattrape son plafond (3 -> 8, apres avoir vu Yorozu manier la Construction), pas le curseur. Égalité structurelle : à toute répartition, les jumelles se valent ; d'où leurs égalités aux Amicales 2017 et 2018.
 - Mecanique du curseur (declencheurs des bascules, enjeux narratifs) -> roadmap.
 
 ## Plafond mondial
