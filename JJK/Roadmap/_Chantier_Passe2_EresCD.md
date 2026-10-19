@@ -2,7 +2,7 @@
 # Capture de session (build 2026-08-24)
 
 ## S0 Statut du document
-- version : W3 (relecture de cohérence du 2026-10-19, après la migration des roadmaps A0-B3 au gabarit v9.0 : A0 Yukiko écrite, Amicale soldée, report du titre de Nori sans date (tant qu'il ne se juge pas assez mûr), savoir de Nisha sur Kenjaku borné, échos Miguel et "elle a résisté" ajoutés. W2 : annotations du BIBLE BUILD B18, 2026-08-24 - registre S8 appliqué, S9.1/S10.1/S10.5 soldés - session Nozomu et build)
+- version : W3 (relecture de cohérence du 2026-10-19, après la migration des roadmaps A0-B3 au gabarit v9.0 : A0 Yukiko écrite, Amicale soldée, report du titre de Nori jusqu'à son diplôme (tant qu'il ne se juge pas assez mûr), savoir de Nisha sur Kenjaku borné, échos Miguel et "elle a résisté" ajoutés. W2 : annotations du BIBLE BUILD B18, 2026-08-24 - registre S8 appliqué, S9.1/S10.1/S10.5 soldés - session Nozomu et build)
 - Nature : document de TRAVAIL (même régime que _Implications.md). Source d'intégration pour les roadmaps, les fiches et la BIBLE. Jamais fetché en narration. Non indexé au Sommaire.
 - Emplacement : JJK/Roadmap/_Chantier_Passe2_EresCD.md
 - Toutes les décisions ci-dessous sont VALIDÉES par le worldbuilder sauf mention [NON TRANCHÉ], [PROPOSÉ], [IMPLICITE] ou [INTERPRÉTATION].
@@ -24,7 +24,7 @@
 
 ## S3 Ère B - Yukiko (validé)
 - 2008-2015 : gardienne, tutrice et superviseuse de missions de Nori.
-- 5 juin 2015 : majeur (18 ans), demande à différer sa nomination tant qu'il ne se considère pas assez mûr (aucune date visée : la chaise reste vide jusqu'à ce que Kenjaku la prenne, post-Shibuya).
+- 5 juin 2015 : majeur (18 ans), demande à différer sa nomination tant qu'il ne se considère pas assez mûr - et s'engage à se penser prêt une fois diplômé (=> héritage visé ~mars 2019, en plein chaos post-Shibuya).
 - Utahime : refuge de douceur pour eux deux, en parallèle du clan.
 - Postes (lapsus "Tokyo" corrigé) : Utahime 1res années à KYOTO, Nisha les 2es.
 - Début 2013 : les 3es années sont proposées à Yukiko (par Gakuganji [IMPLICITE]) ; elle ne demande que la promo de son frère (une seule année) ; Nisha refuse ce format ("Mei Mei est achetable mais fiable au moins").
@@ -47,7 +47,7 @@
 - Nisha se rend à Shibuya, arrive APRÈS le scellement, en même temps que Yuta. Kenjaku déjà parti avec la Lisière. Mystère SB8 "Nisha à Shibuya" RÉSOLU : absente de TOUT Shibuya jusqu'au post-scellement, cause Takatsuki.
 - Naoya rentre au domaine : Naobito mort face à Jogo (canon maintenu, graine SB8 jouée), Maki blessée mais vivante, Satoru scellé.
 - Noritoshi laisse sa sœur réfléchir seule ; Yukiko prépare quelque chose de terrible et refuse d'en parler à son frère.
-- Palais Kamo (appui canon ch. 191, prise du clan par Kenjaku = fait canon, mise en scène divergente ; numérotation "25e chef" libre chez nous) : Kenjaku au trône, Noriaki mort au milieu de sa salle (tué par Kenjaku, qui prend le pouvoir qui revenait à Nori, faute qu'il l'ait encore accepté), Yasashiku au siège du bras droit. Il révèle être Noritoshi (Meiji), se réclame plus légitime, demande le bannissement du prince et de la princesse.
+- Palais Kamo (appui canon ch. 191, prise du clan par Kenjaku = fait canon, mise en scène divergente ; numérotation "25e chef" libre chez nous) : Kenjaku au trône, Noriaki mort au milieu de sa salle (tué par Kenjaku, qui prend le pouvoir qui revenait à Nori, quelques mois avant son diplôme), Yasashiku au siège du bras droit. Il révèle être Noritoshi (Meiji), se réclame plus légitime, demande le bannissement du prince et de la princesse.
 - GAMBIT YUKIKO (stratégie de survie face au diable, elle s'adapte) : elle révèle comment la concubine a empoisonné sa mère (T-Fubuki DÉTONE, forme escaladée validée : dénonciation active, Nori présent - il apprend le meurtre ET le silence de sa sœur en une scène) ; propose à Kenjaku sa tête et celle de sa belle-mère (les deux seules à avoir planifié pareille trahison) ; avant le verdict, poignarde Nori au ventre avec Chi no Meiyo - LAME RÉELLE, vraie blessure : Shoko devra être réactive, Naoya rapide - lui glisse une note dans la poche, le déclare exilé et indigne, qu'on le laisse mourir hors du palais, vidé à 90 pour cent de son énergie et blessé (trop insignifiant pour mériter une exécution : le poignard qui sauve). Kenjaku exécute la concubine et offre la chaise à Yukiko, la jugeant digne du clan.
 - La note = le numéro de Naoya. Il vient sauver l'élève de sa sœur.
 - Réunion de crise à Tokyo : Nori comprend par Nisha que Yukiko prépare une OBSERVATION - s'asseoir aux côtés de Kenjaku pour capturer sa signature exacte et faire du palais son lieu de mort, avec un rideau taillé à sa signature (miroir inverse de Takatsuki). Préparation de contre-attaques sur tous les fronts. Le camp Tokyo sait dès cette réunion que Kenjaku porte le corps de Geto.
