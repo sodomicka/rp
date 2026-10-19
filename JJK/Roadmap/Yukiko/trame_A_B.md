@@ -61,7 +61,7 @@ Densite : A dense en A1 (l'installation, l'Amicale), calme en A2 (le slowburn ES
 
 ## Armer mais NE PAS detoner avant juin 2018 (graines ere C)
 - T-Fubuki : la verite sur Yasashiku, arme depuis 1992, munition du gambit du palais.
-- L'heritage differe (diplome, ~mars 2019) : la chaise vide que Kenjaku prendra en plein chaos post-Shibuya.
+- L'heritage differe (diplome, ~mars 2019) : la chaise vide que Kenjaku prendra en plein chaos post-Shibuya (levee post-Kenjaku : Nori accepte le trone avant son diplome, Yukiko a ses cotes au bras droit, cf. chantier D4).
 - La maitrise Dragon + observation de signature : la competence qui tuera Kenjaku (rideau sur mesure du palais).
 - Chi no Meiyo : la lame qui sauvera Nori en le poignardant.
 - Nori l'eleve de Nisha (2017-2018) : le lien qui fera de Naoya son sauveur ("l'eleve de ma soeur").

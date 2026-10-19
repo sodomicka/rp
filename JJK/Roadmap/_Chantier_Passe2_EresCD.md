@@ -2,7 +2,7 @@
 # Capture de session (build 2026-08-24)
 
 ## S0 Statut du document
-- version : W3 (relecture de cohérence du 2026-10-19, après la migration des roadmaps A0-B3 au gabarit v9.0 : A0 Yukiko écrite, Amicale soldée, report du titre de Nori jusqu'à son diplôme (tant qu'il ne se juge pas assez mûr), savoir de Nisha sur Kenjaku borné, échos Miguel et "elle a résisté" ajoutés. W2 : annotations du BIBLE BUILD B18, 2026-08-24 - registre S8 appliqué, S9.1/S10.1/S10.5 soldés - session Nozomu et build)
+- version : W3 (relecture de cohérence du 2026-10-19, après la migration des roadmaps A0-B3 au gabarit v9.0 : A0 Yukiko écrite, Amicale soldée, Nori sur le trône post-Kenjaku (Yukiko au bras droit), report du titre de Nori jusqu'à son diplôme (tant qu'il ne se juge pas assez mûr), savoir de Nisha sur Kenjaku borné, échos Miguel et "elle a résisté" ajoutés. W2 : annotations du BIBLE BUILD B18, 2026-08-24 - registre S8 appliqué, S9.1/S10.1/S10.5 soldés - session Nozomu et build)
 - Nature : document de TRAVAIL (même régime que _Implications.md). Source d'intégration pour les roadmaps, les fiches et la BIBLE. Jamais fetché en narration. Non indexé au Sommaire.
 - Emplacement : JJK/Roadmap/_Chantier_Passe2_EresCD.md
 - Toutes les décisions ci-dessous sont VALIDÉES par le worldbuilder sauf mention [NON TRANCHÉ], [PROPOSÉ], [IMPLICITE] ou [INTERPRÉTATION].
@@ -77,6 +77,7 @@ Squelette temporel (nov-déc 2018) :
 - Retrouvailles : Nori et Choso ont pris le temps de discuter et sont venus à Kyoto - reprendre le clan, sortir Yukiko de son sacrifice patient. Nisha a une Eien à briser pour de bon. Tsukumo veut racheter sa faute en éliminant Geto pour de bon, même si c'est son cadavre.
 - Assaut : Tsukumo entre la première, en solo - elle meurt vite. Puis Yukiko monte LE rideau taillé sur mesure pour Kenjaku (signature capturée par l'observation), enfermant Kenjaku et tous les exorcistes SAUF elle-même (dedans : Nisha, Nori, Choso [IMPLICITE - roster intérieur à préciser à la roadmap]). Kenjaku s'épuise par le Dragon qu'elle maintient, trop occupé par le combat pour briser le rideau ; il finit LE CERVEAU MASSACRÉ par Nisha, sous les cris désespérés d'Eien - silencieuse à jamais après ça. (Promesse de D1 tenue ; miroir inverse parfait : il a piégé les jumeaux par leur signature, il meurt piégé par la sienne.)
 - Scène émouvante Yukiko/Noritoshi : pardon et compréhension.
+- Nori accepte le trône avec dignité, sans attendre son diplôme (sa condition de 2015) : il a la bénédiction de sa prof, de Choso et de sa sœur, et a survécu à plus que la plupart des gens. Il veut Yukiko à ses côtés : elle garde la chaise que Kenjaku lui avait offerte, le siège du bras droit.
 - Choso décide de rester avec eux ; il demande à Nisha de dire à Yuji qu'il est lui aussi le bienvenu dans ce clan qui est aussi le sien - par le plus immonde des exorcistes, qui sera bientôt rayé de l'histoire des Kamo. (Note [HOMONYME] de la BIBLE à BORNER à l'intégration : le secret millénaire est percé fin oct 2018 par Yukiko, puis traité par le clan.)
 - Yukiko passe ensuite DES JOURS à ouvrir la Lisière, Nisha au palais tout du long. Satoru sort. FIN DE LA TRAQUE : la validation de la règle de sortie achetée en points tombe dans la fenêtre de sortie de Satoru - le jeu s'éteint au moment où le monstre revient.
 - Retour à Tokyo : Yuji ne porte plus Sukuna, Megumi a disparu.
