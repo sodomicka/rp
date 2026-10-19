@@ -12,7 +12,7 @@ Convention locale : (tactique) = indicatif d'opération, employé en mission.
 - Appellatifs : elle -> lui : Directeur, Monsieur, Yoshinobu (discussion sincère). Lui -> elle : Jeune Zenin (enfant), puis Professeur Zenin, Nisha (sincère).
 - Registre : vouvoiement réciproque ; tutoiement pour les sujets sincères.
 - Habitudes : discussions sérieuses dans son bureau de directeur, autour d'une coupe de saké.
-- Évolution datée : repas bissextiles d'enfance (il y siège) -> 2005-2008 cordial à distance -> 2009 collègues (elle 2A, lui principal + 3A) -> mars 2013 accepte la reco Mei Mei, puise dans les fonds de l'université.
+- Évolution datée : repas bissextiles d'enfance (il y siège) -> 2005-2008 cordial à distance -> 2009 collègues (elle 2A, lui principal + 3A) -> mars 2013 accepte la reco Mei Mei, puise dans les fonds de l'université -> 24 déc 2017 se joint à la défense de la vieille ville de Kyoto, aux côtés de Nisha et du clan.
 
 ### Utahime
 - Statut : la fausse rivale devenue complémentaire. Malentendu à sens unique né à l'Amicale de sept 2005 (les taquineries avec Satoru sous ses yeux) et mort à l'Amicale même : après sa défaite du J2, Nisha et Yukiko se confient qui elles aiment (Satoru, Utahime) et rient comme des idiotes du danger écarté ; Nisha va ensuite s'excuser auprès d'Utahime. Après 2008 : complémentarité d'enseignantes - la douceur (1A) et la rigueur (2A) ; Nisha finit par trouver sa Zone Interdite très utile.
@@ -48,7 +48,7 @@ Mai, élève de 2e année dès avr 2018, vit en _famille (pas de doublon) ; son 
 - Statut : la première vraie élève (2A 2012-2013, référente) - Nisha étrenne sur elle la pédagogie de mère forgée au foyer. Sans don, première réussite pédagogique : l'élitiste valorise désormais le métier, pas la seule puissance. Post-2014 : la doctrine faite sienne par conviction propre, premier relais hors du cercle Zenin ; le lien, quasi maternel, survit au cursus.
 - Appellatifs : elle -> Nitta : Nitta, Akari, la mécano, ma belle. Nitta -> elle : Nisha-sensei, m'dame Zenin.
 - Registre : sans étiquette - cours et discussions se font pareil, la directe traitée en amie. Relation ATEMPORELLE : identique du cursus à l'âge adulte.
-- Évolution datée : 2011 entrée (1A Utahime) -> 2012-2013 élève + référente, chantier patience de liaison, doctrine reçue -> 2013-2014 3A sous Mei Mei -> 2014 diplôme, part à Tokyo (alignement de mentalités, bascule de motivation).
+- Évolution datée : 2011 entrée (1A Utahime) -> 2012-2013 élève + référente, chantier patience de liaison, doctrine reçue -> 2013-2014 3A sous Mei Mei -> 2014 diplôme, part à Tokyo (alignement de mentalités, bascule de motivation) -> 24 déc 2017 côté Tokyo, tient rideaux et civils, soulagée de n'avoir pas pris part au massacre de Kyoto.
 
 ### Todo
 - Statut : le 2e modèle, et le plus puissant de ses élèves. Il vénère la force, idolâtre la n2 mondiale ; elle canalise son intensité. Beat fondateur du "type" : son type, c'est plus fort qu'elle - or elle est n2, donc le seul plus fort au monde est le n1, son propre époux. Todo ADORE la pirouette. Deux idoles que tout oppose dès lors (Tsukumo l'électron libre, Zenin l'institutionnelle - qui se méprisent).
