@@ -1,10 +1,10 @@
-# SPEC_CODEX v8.9
+# SPEC_CODEX v8.10
 
 Ce fichier définit la forme, les règles de construction et le gabarit du `CODEX_NARRATIF.md`. Le CODEX vit sur le dépôt sous ce nom FIXE, `Parties/{Univers}/Partie<n>/CODEX_NARRATIF.md`, écrase à chaque build : la version porte dans le titre (`# CODEX_NARRATIF_v<N>`) et la balise `FIN_CODEX_V<N>`, l'historique vit dans git. Une seule version sur le dépôt, jamais de copie versionnée à côté.
 Il sert de référence unique en mode CODEX BUILD.
 Le modèle doit produire un CODEX factuel, compact, autosuffisant, sans narration.
 
-Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_CODEX_v8_9.md`.
+Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_CODEX_v8_10.md`.
 Consultation : lue EN ENTIER sur le dépôt (raw) à chaque build, avant toute autre action. Aucune copie embarquée ne fait foi : une SPEC trouvée ailleurs (skill, fichiers de projet) se confronte à celle du dépôt, qui tranche. Seule exception : une SPEC fournie en conversation fait foi pour CE build, signalée en une ligne. Vérifier le numéro de version courant par le listing de `Config/`. Elle porte le process que le CODEX V(N-1) ne contient pas.
 
 ---
@@ -253,7 +253,7 @@ Checklist RAPIDE intégrée à la passe de rédaction (pas une étape cérémoni
 - plafond: <plafond(N)> car. (barème : min(30 000 + 3 000 x (N-1), 90 000))
 - taille au build: <wc -m> car. (<X>% du plafond(N))
 - thread source: <titre du thread de jeu digéré par ce build> | <id de son message racine, lisible par lecture de thread> ("aucun" pour le V1 ou hors projet)
-- spec au build: SPEC_CODEX v8.9 (source: GitHub | fournie en conversation)
+- spec au build: SPEC_CODEX v8.10 (source: GitHub | fournie en conversation)
 - bible_lore: <nom du fichier BIBLE_LORE si présente, sinon "aucune"> (sans numéro de version)
 - dernier sync BIBLE: <B<x> si BIBLE présente, advisory non bloquant ; sinon "n/a">
 - wiki_base: <URL racine du WIKI GitHub si présent, sinon "aucun">
@@ -407,6 +407,10 @@ RECALIBRATION AU BUILD - cette annexe ne se recopie pas d'une version à l'autre
 <Paragraphe 2 : sensorialité privilégiée, images autorisées, densité.>
 
 <Paragraphe 3 : traitement des dialogues, silences, tension de fin.>
+
+Codes de parole (si la partie en a ; cf. cœur Narration §5, Paroles spéciales) :
+- *italique* (traduction sous VO entre guillemets) : <langue, qui la parle, qui la comprend>
+- **gras** (parole intérieure) : <qui parle à qui, qui l'entend>
 
 ---
 

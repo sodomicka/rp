@@ -647,7 +647,7 @@ Le MJ écrit les fichiers mis à jour sur le dépôt (Instructions Wiki §8bis).
 ```
 sodomicka/rp/
   Config/
-    SPEC_CODEX_v8_9.md
+    SPEC_CODEX_v8_10.md
     SPEC_BIBLE_LORE_WIKI_v9_0.md
     (numéros indicatifs : vérifier le listing réel de Config/ avant tout fetch)
   <Univers>/
