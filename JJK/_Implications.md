@@ -1,6 +1,6 @@
 # _Implications
 
-- version : W51
+- version : W52
 
 Journal de conception (passes en spirale). Document de TRAVAIL : jamais fetché en narration.
 
@@ -18,7 +18,6 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE
 - Emboîtement marque / serment | ère D | LECTURE MJ (observation, pas une décision) : la clé allié exige de PROTÉGER un enfant, et par la lettre de Saitama Sukuna protège contractuellement Tsumiki ("ni mon abstention là où je me tiens") - Uraume peut donc la désigner en toute vérité LITTÉRALE. Le littéralisme de la marque (un gamin de 4 ans) et celui du serment (sans juge, la lettre fait loi) s'emboîtent ; T-Assurance-Tsumiki et la marque CONVERGENT sur elle.
 - Bataille finale | ère D | (a) Nisha + Satoru engagent Sukuna-dans-Megumi en 2v1 et MANQUENT DE PEU de sauver leur fils ; (b) Nozomu-dans-Uraume vise PANDA - doctrine au mot près (l'enfant de quelqu'un : fils de Yaga ET de Nisha) ; par instinct maternel, Nisha S'INTERPOSE ; (c) configuration finale : Nisha et ses gamins CONTRE Nozomu // Satoru, ses alliés et ses gamins FACE À Sukuna et ses shikigamis. Enchaînement causal [IMPLICITE - à confirmer] : le "presque" du 2v1 tient à l'irruption de Nozomu. Fonction dramatique : Nozomu justifie rétroactivement le traitement de faveur des enfants Gojo ET transforme un 2v1 gagnant en bataille désespérée.
 - Bataille finale - fronts | ère D | (a) Front Satoru, noyau posé : Hakari, Kirara, Higuruma, Takaba, Yuta, Yuji, "etc." (liste ouverte) - venus sauver le fils. (b) Front Nisha : PUREMENT ses protégés, pas une logique de clan ; Yukiko, Noritoshi, Naoya et Mai délibérément HORS de ce front (leur position pendant la bataille : non fixée). (c) Cadrage thématique acté : la symbolique politique/clanique est DÉPENSÉE à Shibuya - en ère D, la politique c'est fini, on sauve les enfants face au libérateur d'enfants. Asymétrie des fronts VOULUE (le front du prota porte le cœur, le front Satoru le nombre et le spectacle).
-- Testament de Naobito | ère D | Graine de SUCCESSION armée en B1. La lettre (porteur des Dix Ombres = successeur légitime) est ouverte par Naoya APRÈS le 1er novembre 2018 midi (Roadmap_C3 : il ne la découvre qu'après Tengen) -> intégration à la fiche Naobito à l'écriture de l'ère D, avec la friction (beats Ogi, protectorat, adoption hors-Zenin). S'articule au fil "Coup d'État du clan Zenin" (BIBLE SB8).
 - Yukiko | ère C | Lisière - clé de sortie Yukiko, pari de Kenjaku (il gagne ou perd : à trancher au build ère C) ; Yukiko observatrice au fond de la classe de 3e année en 2018-2019 (façon Ui Ui).
 - Repas claniques | roadmaps | 29 fév 2008 = SEULE édition dramatique restante (quelques semaines après le massacre de Geto fin 2007, un mois avant le diplôme de mars 2008) - placement roadmap À DÉCIDER, rétropropagation aux roadmaps de Nisha.
 
@@ -47,7 +46,10 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE
 - Yukiko_chrono_B | scission différée | Les entrées d'ère B vivent provisoirement dans la fiche Yukiko. À scinder.
 - Yukiko ère B | rattachements | Refus conditionnel de la chaire (2013) -> rattacher B1 (resto mars 2013). Majorité de Nori + report du titre tant qu'il ne se juge pas assez mûr, jusqu'à son diplôme (5 juin 2015) -> rattacher B2.
 - Roadmaps ères C et D | Passe 2 | À ÉCRIRE. Elles résorbent la section "Faits actés en attente de leur strate" ci-dessus et le chantier Roadmap/_Chantier_Passe2_EresCD.md (item 18 de son registre S8 : trajectoires datées à alimenter).
-- Roadmap D1 et suivantes | Passe 2 | À ÉCRIRE (C3 écrite au thread C3 ; D1 du chantier résorbée dans C3_4, ère D à renuméroter). Ouverture : les règlements de comptes de clans annoncés par Nisha - testament (Megumi successeur ; refus d'Ogi et de Jinichi ; Naoya prépare Mai et prévient Nisha et Maki), puis le coup d'État Zenin AVANT l'entrée dans les colonies (canon : « Piétiner les roseaux » suit Tengen, armes maudites) ; recrutement de Hakari (canon 10-11 nov, ch. 153-154) ; assaut du palais au signal de Yukiko (D4). Canon à suivre : Hakari vs Kashimo (ch. 186).
+- Roadmaps D2 et suivantes | Passe 2 | À ÉCRIRE (D1 « Piétiner les roseaux » écrite au thread D1 : coup d'État Zenin du 1er nov 2018). Suite : recrutement de Hakari (canon 10-11 nov, ch. 153-154) et entrée dans les colonies ; assaut du palais au signal de Yukiko (D4). Canon à suivre : Hakari vs Kashimo (ch. 186). Le chantier garde l'ancienne numérotation D1-D7 : renuméroter à l'écriture de chaque roadmap.
+- Laisse sur les Instances x palais Kamo | D4 | TENSION de calendrier : Nisha n'a arraché que « quelques jours » sans ingérence dans les affaires des clans (Roadmap_C3), or l'assaut du palais est daté fin nov / début déc. Reste à dire ce qui tient les Instances entre-temps (Gakuganji acquis, Naoya patriarche, Kamo tenus par Kenjaku). Non tranché.
+- SPEC_BIBLE_LORE_WIKI | v9.1 à produire | Le plafond de page de 12k est levé (décision worldbuilder, thread D1) et retiré des instructions Config ; la SPEC v9.0 le porte encore (budgets de page, satellites, plafond d'entrées, Parties/). À retirer à la prochaine version de la SPEC.
+- Hautes Instances Zenin (doyens) | ère D | Représentent le clan auprès des Instances : qui s'adapte au nouveau patriarche et qui se retire = politique de Naoya, à jouer ou à poser plus tard.
 - Yaga | ère D | Dates de création de ses autres corps autonomes (Takeru et d'autres, canon) [À DATER, après 2011].
 - Mechamaru | ères C/D | Survivant guéri au potentiel de Grade Spécial (thread C2) : lui DONNER UN RÔLE (décision worldbuilder). Rien d'acté.
 - Pattern _relations par cercles | suite | Série Nisha COMPLÈTE et indexée. Yukiko (Utahime, Nori) : DIFFÉRÉE, décision worldbuilder - attend l'avancée de ses roadmaps (rework trame_A_B puis YA2).
@@ -64,11 +66,7 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE
 
 ## Dettes de gabarit et de périmètre
 
-- Factions/Clan_Zenin.md | HORS BUDGET | 12,5k pour un plafond de page de 12k. Scission éventuelle à arbitrer plus tard.
-- Factions/Clan_Zenin.md | périmètre | TENSION : l'accès aux archives de Megumi/Tsumiki est un fait post-2005 dans une page au chapeau "structure atemporelle + point de départ 2005". À solder avec la scission.
-- Personnages/Eien.md | fiche pivot | Plafond relevé à 15k (décision worldbuilder, thread C3) : elle sert une dernière fois après la mort de Kenjaku (cf. chantier S6, MERGER).
-- Personnages/Satoru.md | HORS BUDGET | 14,6k pour un plafond de page de 12k. Scission éventuelle (ère A en chrono_A) à arbitrer plus tard.
-- Personnages/Noritoshi_Kamo.md | fiche principale | 12,2k : passe au plafond protagoniste de 30k (décision worldbuilder, thread C2) : frère de Yukiko, personnage principal de son RP à elle.
+- Factions/Clan_Zenin.md | périmètre | TENSION : l'accès aux archives de Megumi/Tsumiki est un fait post-2005 dans une page au chapeau "structure atemporelle + point de départ 2005". À solder à la prochaine relivraison (plafond de 12k levé au thread D1 : plus de scission imposée).
 - Personnages/Yukiko.md | fiche protagoniste | 31,2k pour un plafond protagoniste de 30k. Traitement DIFFÉRÉ à la relivraison de son ère B : la trajectoire passera en chrono à ce moment-là.
 - Personnages/Yukiko.md | ère C | Ses entrées d'ère C (C1 : relais des 3es années en juillet 2018, observatrice et souffle du rideau à l'Amicale) ATTENDENT la scission chrono de sa fiche, déjà hors budget. Pas d'ajout avant. Entrées C2 en attente elles aussi : Takatsuki (31 oct 2018) - prévenue par Nori, démêle pendant des heures un rideau au-dessus de sa capacité de création, déduit le Noritoshi de Meiji, entend la vente. Entrée C3 en attente : le palais (nuit du 31 oct, hors POV de Nisha, joué côté Yukiko) - gambit, Nori poignardé et exilé, elle prend la chaise du bras droit. Les fiches côté Kamo (Noriaki_Fubuki, Yasashiku, Clan_Kamo, Chiryu_no_Kyuden) attendent la roadmap Yukiko qui jouera le palais.
 - Personnages/Satoru_chrono_B.md | périmètre | Ses entrées d'ère C vivent PROVISOIREMENT dans cette page (précédent : Yukiko ère B). À scinder en Satoru_chrono_C quand la page dépassera son budget.

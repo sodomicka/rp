@@ -1,6 +1,6 @@
 # Nisha Zenin - Chronologie datée, ère C (2018)
 
-- version : W3
+- version : W4
 
 Extension de Personnages/Nisha.md (suite de Nisha_chrono_B.md). Contient la TRAJECTOIRE DATÉE de Nisha pour l'ère C (juin 2018 -> fin 2018). Strate canon par défaut, télégraphique ; le détail vit dans les roadmaps. Build-side : fetchée à la demande, JAMAIS chargée en narration. Le NOYAU reste dans Personnages/Nisha.md. État : entrées C1 à C3 (juin -> 1er novembre 2018) posées : ère C complète.
 
@@ -23,7 +23,7 @@ Extension de Personnages/Nisha.md (suite de Nisha_chrono_B.md). Contient la TRAJ
 | 1 nov 2018, midi (C3_4) | TENGEN. Manque d'égorger Tsukumo (la graine de mûre) ; dans le Jardin, promet à Choso que Kenjaku mourra sous les yeux d'Eien ; explique à Nori le sacrifice de sa sœur | T-« la bonne question » et T-Nisha vs Yuki DÉTONÉS ; promesse à Choso |
 
 ## Pointeurs
-- Noyau : cf. Personnages/Nisha.md. Ères précédentes : cf. Personnages/Nisha_chrono_A.md, Nisha_chrono_B.md.
+- Noyau : cf. Personnages/Nisha.md. Ères précédentes : cf. Personnages/Nisha_chrono_A.md, Nisha_chrono_B.md. Ère suivante : cf. Personnages/Nisha_chrono_D.md.
 - Détail narratif : cf. Roadmap/Nisha/Roadmap_C1.md, Roadmap_C2.md, Roadmap_C3.md.
 
 ---

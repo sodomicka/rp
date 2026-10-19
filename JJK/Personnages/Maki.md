@@ -1,6 +1,6 @@
 # Maki Zenin
 
-- version : W14
+- version : W15
 
 Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir). Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (detail -> roadmap).
 
@@ -45,10 +45,11 @@ Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir
 | sept 2018 (C1_5) | Amicale à Tokyo : de nouveau face à Mai, ÉGALITÉ (30/70 inchangé) ; attaque d'Hanami | égalité tenue |
 | 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : brûlée par Jogo, blessée mais VIVANTE | blessée |
 | 1 nov 2018 (C3_1, C3_4) | Soignée au campement de Shoko, aidée par Nisha. Chez Tengen à midi (canon) | brûlée, debout |
+| 1 nov 2018 (D1) | Portee jusqu'au domaine dans les bras de Nisha (elle n'apprecie pas). Fonce dans la melee, plus que jamais decidee a se battre du meme cote que sa soeur ; les jumelles tuent leur pere. Le curseur bascule a ~10/90 : elle ressemble a Toji en energie occulte, presque indetectable | ~15 doigts (aligne sur Mai, comme a chaque palier) ; repart a Tokyo avec Nisha et Mai |
 
 ## Notes de frontiere (hors noyau)
 - Apparence : elle CHANGE post-Shibuya (ere C) - detail hors de cette fiche, -> roadmap ere C.
-- Cap Grade 4 deja pose ; entree a Tokyo integree en Trajectoire datee ; bascules du partage gemellaire au-dela de B3 -> roadmap / arcs ulterieurs. Devenir d'ere C : le massacre canon du clan par Maki est TRANCHE - il est REMPLACE par le coup d'Etat post-Shibuya, purge ciblee des conservateurs menee par les deux paires de jumeaux (Naoya/Nisha, Maki/Mai) et Ranta. Detail et deroule -> roadmap ere C (cf. BIBLE SB8, fil du coup d'Etat Zenin).
+- Cap Grade 4 deja pose ; entree a Tokyo integree en Trajectoire datee ; bascules du partage gemellaire au-dela de B3 -> roadmap / arcs ulterieurs. Le massacre canon du clan par Maki est REMPLACE par le coup d'Etat du 1er nov 2018, mene par les deux paires de jumeaux et Ranta (cf. Roadmap/Nisha/Roadmap_D1.md, BIBLE SB8).
 - B3 cote Mai (lecon Yorozu, exploite 8 des 2015, curseur 40/60 inchange) : cf. fiche Mai. Chiffres : cf. Power_Scaling/Doigts_de_Sukuna.md (Trajectoire ere B).
 - Detail narratif du retournement A2 (harcelement -> refuge) : -> Roadmap A2_6, A2_10. Detail B2 (depart a Saitama) : -> Roadmap_B2 (B2_2). Detail B3 : -> Roadmap_B3.
 - Miroir thematique avec Nisha (Nisha = inversion de Maki) : cf. Personnages/Nisha.md.

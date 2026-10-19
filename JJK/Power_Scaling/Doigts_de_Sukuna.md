@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Power-scaling
 
-- version : W13
+- version : W14
 
 ## Unite
 - Unite de puissance de l'univers = le doigt de Sukuna.
@@ -120,6 +120,7 @@ Le pool gemellaire des jumelles d'Ogi se repartit le long d'un curseur a somme c
   | 2011 (pivot B1) | 40/60 | 8 | 8 | 3 |
   | 2015 (B3, lecon Yorozu) | 40/60 | 8 | 8 | 8 |
   | avr 2017 (B3_3, entrée de Maki à Tokyo) | 30/70 | ~11 | ~11 | ~11 |
+  | 1 nov 2018 (D1, coup d'État Zenin) | 10/90 | ~15 | 15 | 15 |
   Lecture : le curseur glisse en 2011 (50/50 -> 40/60), puis en avril 2017 (40/60 -> 30/70, valeurs interpolées : chacune assume enfin sa voie, le corps pour Maki, la Construction pour Mai). En 2015, c'est la MAITRISE de Mai qui rattrape son plafond (3 -> 8, apres avoir vu Yorozu manier la Construction), pas le curseur. Égalité structurelle : à toute répartition, les jumelles se valent ; d'où leurs égalités aux Amicales 2017 et 2018.
 - Mecanique du curseur (declencheurs des bascules, enjeux narratifs) -> roadmap.
 

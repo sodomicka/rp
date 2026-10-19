@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : JJK
 - sources primaires : manga Jujutsu Kaisen (Gege Akutami) ; worldbuilding du worldbuilder (OC Nisha Zenin, Yukiko Kamo, Eien, Nozomu)
-- bible_version : B25
+- bible_version : B26
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/JJK/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/JJK/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/JJK/Partie1/`
@@ -23,14 +23,14 @@
 - pages wiki rattachées :
   - Cosmogonie - cosmogonie fondatrice (trois esprits + Tengen 4e esprit, trois familles) (1 page)
   - Factions - clans Zenin, Gojo, Kamo ; Hautes Instances ; universités de Tokyo et Kyoto ; Tournoi des Universités Jumelées (7 pages)
-  - Personnages - fiches personnages (61 pages : 51 fiches + 6 chrono - Nisha A/B/C, Satoru B, Naoya B, Yukiko A - + 4 relations - série Nisha : proches, famille, boulot, élèves de Tokyo)
+  - Personnages - fiches personnages (62 pages : 51 fiches + 7 chrono - Nisha A/B/C/D, Satoru B, Naoya B, Yukiko A - + 4 relations - série Nisha : proches, famille, boulot, élèves de Tokyo)
   - Lieux - sièges des clans (Chiryu no Kyuden - Kamo ; Juei no Ryochi - Zenin) (2 pages)
   - Power_Scaling - système de puissance, repères chiffrés en satellite (2 pages)
   - Pedagogie - carte des enseignements (1), fiches de cours par discipline et par année (7), enseignement personnalisé par promotion (8) (16 pages)
-  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2, C3), Yukiko/ (A0, A1) (11 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B) et _Chantier_Passe2_EresCD.md (document de travail), sources de build jamais fetchées en narration.
-  - Resume.md - résumé autosuffisant de l'univers jusqu'au 1er novembre 2018 (fin de l'ère C), NON indexé au Sommaire, jamais fetché en narration (1 page)
+  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2, C3, D1), Yukiko/ (A0, A1) (12 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B) et _Chantier_Passe2_EresCD.md (document de travail), sources de build jamais fetchées en narration.
+  - Resume.md - résumé autosuffisant de l'univers jusqu'au 1er novembre 2018 (fin de l'ère C et coup d'État Zenin qui ouvre l'ère D), NON indexé au Sommaire, jamais fetché en narration (1 page)
   - _Implications.md - journal de conception, jamais fetché en narration (1 fichier de travail)
-- Total indexé au Sommaire (W47) : 100 pages.
+- Total indexé au Sommaire (W48) : 102 pages.
 
 ## SB1 Cosmogonie et règles du monde
 Périmètre : divergences fondatrices liées à Nisha et Yukiko + règles nécessaires + cosmogonie des trois esprits.
@@ -120,7 +120,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 
 ## SB4 Factions et groupes
 `Faction - nature | objectif | alliés | ennemis | statut dans le focus`
-- Clan Zenin - grande famille patriarcale, jugée à la technique héritée | puissance, pureté du sang, statut | clans Gojo et Kamo (alliance de caste rivale) | profanes, faibles, fléaux | clan de Nisha. Patriarche Naobito ; Projection + Dix Ombres (greffe) ; conseil à 3 sièges (Naobito, Ogi, Jinichi), Hei, Akashi, Kukuru. [DIVERGENCE RP] Archives fermées aux femmes ; secrets : signature gémellaire, anti-domaine, secret d'Eien, désastre de Tenpō. Siège : Juei no Ryochi. Détail : cf. WIKI Factions/Clan_Zenin.md
+- Clan Zenin - grande famille patriarcale, jugée à la technique héritée | puissance, pureté du sang, statut | clans Gojo et Kamo (alliance de caste rivale) | profanes, faibles, fléaux | clan de Nisha. Patriarche Naobito (†31 oct 2018), puis NAOYA depuis le coup d'État du 1er nov 2018 (conseil de 2006 tombé en entier ; le testament désignait Megumi, qui refuse) ; Projection + Dix Ombres (greffe) ; conseil à 3 sièges (Naobito, Ogi, Jinichi), Hei, Akashi, Kukuru. [DIVERGENCE RP] Archives fermées aux femmes ; secrets : signature gémellaire, anti-domaine, secret d'Eien, désastre de Tenpō. Siège : Juei no Ryochi. Détail : cf. WIKI Factions/Clan_Zenin.md
 - Clan Gojo - grande famille conservatrice, culte du guerrier parfait (Infini + Six Yeux) | primat et poids politique | clans Zenin et Kamo | profanes, faibles, fléaux | clan de Satoru. [DIVERGENCE RP] Seul clan à s'ABSTENIR de la violence infantile - douceur-cicatrice née de Nozomu (Genroku) ; guerrier parfait invisible avant l'éveil (règle des yeux) ; porteurs : Nozomu, le Parfait de Tenpō [nom NON FIXÉ], Satoru. Détail : cf. WIKI Factions/Clan_Gojo.md, Personnages/Nozomu.md
 - Clan Kamo - grande famille vouée à la pureté du sang | préserver la lignée élue (Hémokinésie) | clans Gojo et Zenin | profanes, sangs mêlés, fléaux | clan de Yukiko, second OC jouable. [DIVERGENCE RP] Succession par le sang pur seul, règle des bâtards (cas unique : Noritoshi 1997-2001) ; lignée 2005 : Noriaki, Fubuki (†1992), Yasashiku, Yukiko, Noritoshi ; matriarcat de fait (usage MJ) ; monopole des rideaux fractals et du Dragon ; origine de Kenjaku. Siège : Chiryu no Kyuden ; repas claniques bissextiles Kamo/Zenin chaque 29 fév. Détail : cf. WIKI Factions/Clan_Kamo.md, Personnages/Noriaki_Fubuki.md, Yasashiku.md
 - Hautes Instances - sommet conservateur et sans visage au-dessus des universités | émettre les ordres, préserver l'ordre établi | les trois familles | progressistes, anomalies | plafond institutionnel. Dix membres (5 par université : 3 clans + 2 indépendants), tous Grade Spécial 1, seul visage public : Gakuganji. [DIVERGENCE RP] Pacte fondateur Meiji avec l'État, règlement en neuf articles. Kenjaku tient dans l'ombre les deux sièges Kamo ; le 1er nov 2018, Nisha leur arrache sous menace de mort la vie de Yaga, un nouveau sursis pour Yuji, la levée du bannissement de Satoru et quelques jours hors des affaires de clans. Détail : cf. WIKI Factions/Hautes_Instances.md
@@ -130,20 +130,20 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 
 ## SB5 Personnages
 `Nom - rôle | capacités-clé | relations | sort connu | certitude`
-- Nisha Zenin - protagoniste, OC, jumelle de Naoya (née le 30 jan 1987), Gojo-Zenin depuis ses noces (2015) | Chronostase + Chronokinésie (parasite Eien), Sphère du Temps Infini ; façade à Tokyo : Chronokinésie présentée comme innée, Chronostase comme son aspect ; Kyoto et Hautes Instances savent tout, Eien crue docile | Naoya (jumeau symbiotique), Eien (parasite : Nisha s'en sait maîtresse, jamais geôlière - amie de façade jusqu'en 2015, souffre-douleur ensuite), Naobito (père), Satoru (rival puis époux) | deux sorts + domaine | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nisha.md (+ chrono_A, chrono_B ; relations : Nisha_relations_proches, _famille, _boulot, _eleves_tokyo)
+- Nisha Zenin - protagoniste, OC, jumelle de Naoya (née le 30 jan 1987), Gojo-Zenin depuis ses noces (2015) | Chronostase + Chronokinésie (parasite Eien), Sphère du Temps Infini ; façade à Tokyo : Chronokinésie présentée comme innée, Chronostase comme son aspect ; Kyoto et Hautes Instances savent tout, Eien crue docile | Naoya (jumeau symbiotique), Eien (parasite : Nisha s'en sait maîtresse, jamais geôlière - amie de façade jusqu'en 2015, souffre-douleur ensuite), Naobito (père), Satoru (rival puis époux) | deux sorts + domaine | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nisha.md (+ chrono_A, chrono_B, chrono_C, chrono_D ; relations : Nisha_relations_proches, _famille, _boulot, _eleves_tokyo)
 - Yukiko Kamo - second OC jouable, princesse Kamo, demi-sœur aînée de Noritoshi (née le 14 juin 1986), promo Kyoto 2005-2008 | Hémotropie (le carquois de Noritoshi), meilleure tisseuse du clan depuis Heian ; 12 doigts réels, façade Grade 2 | Noritoshi (dieu vivant), Utahime (couple dès nov 2005), jumeaux Zenin, Gakuganji | Hémotropie | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yukiko.md (+ chrono_A)
 - Eien - OC, parasite de Nisha, esprit maudit Grade Spécial millénaire, co-architecte du monde | Chronokinésie (cédée à l'hôte), Jardin des Ères Mortes, parasitisme par fœtus | Nisha (hôte : maîtresse qui s'ignore geôlière, amie jouée jusqu'en 2015 ; rapport inversé depuis, les visites), Kenjaku (amante, mille ans) | Chronokinésie | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Eien.md
 - Kenjaku - exorciste millénaire, co-architecte du monde | transfert de cerveau, sceaux | Eien (amant) ; vaisseaux : Noritoshi Kamo (Meiji), Kaori Itadori, Geto | sort de l'hôte courant | canon + [DIVERGENCE RP] (origine Kamo, couple Eien). detail: cf. WIKI Personnages/Kenjaku.md
 - Nozomu Gojo - OC, esprit maudit Grade Spécial : guerrier parfait de Genroku mort à l'éveil (4 ans), revenu en esprit vengeur ; scellé dans une marque (SB7) | Infini bouclier, Six Yeux épars, six bras, domaine Flagellation du Bourreau ; 20 doigts ; doctrine : libérer les enfants, punir les parents. RÈGLE D'ÉCRITURE PERMANENTE : aucun détail d'acte sur sa mort, aucune romantisation | clan Gojo, Eien, Kenjaku, Uraume | Infini + Six Yeux | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nozomu.md
-- Naobito Zenin - patriarche (26e chef), père des jumeaux (né 1947) | Projection, 12 doigts, Grade Spécial 1 | Naoya/Nisha, Ogi (frère cadet), Jinichi/Toji (neveux) | Projection | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Naobito.md
-- Naoya Zenin - jumeau de Nisha (né le 30 jan 1987), héritier de fait | Projection, 8 doigts à l'université / 14 adulte, résonance gémellaire | Nisha, Naobito | Projection | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Naoya.md (+ chrono_B)
-- Jinichi Zenin - pilier du Hei, membre du conseil | Poings Météores, 10 doigts, Grade Spécial 1 | Toji (frère), Naobito (oncle) | Poings Météores | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Jinichi.md
-- Ogi Zenin - frère cadet de Naobito, pilier du Hei, père de Maki/Mai | Bravoure Impérieuse + Pluie de Pétales Épris (anti-domaine), 7 doigts | Maki/Mai, Naobito | épée maudite | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Ogi.md
-- Ranta Zenin - membre du Hei, support des jumeaux (né fin 1986) | Regard Paralysant, Semi-Grade 1 | Naoya/Nisha (dévotion), Jinichi | Regard Paralysant | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Ranta.md
-- Chojuro Zenin - membre du Hei, antithèse de Jinichi | Bras de Terre, Semi-Grade 1 | clan Zenin | Bras de Terre | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Chojuro.md
-- Nobuaki Zenin - capitaine de la Kukuru, sans sort inné | épéiste, Semi-Grade 1 | clan Zenin | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nobuaki.md
-- Maki Zenin - fille d'Ogi, jumelle de Mai (née 1999) | Restriction Céleste physique ; partage gémellaire (6 à 18 doigts selon répartition) | Mai, Ogi | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Maki.md
-- Mai Zenin - fille d'Ogi, jumelle de Maki (née 1999), unité Akashi | Construction ; partage gémellaire (1 à 18 doigts) | Maki, Ogi | Construction | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Mai.md
+- Naobito Zenin - patriarche (26e chef), père des jumeaux (né 1947, †31 oct 2018 ; testament : Megumi) | Projection, 12 doigts, Grade Spécial 1 | Naoya/Nisha, Ogi (frère cadet), Jinichi/Toji (neveux) | Projection | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Naobito.md
+- Naoya Zenin - jumeau de Nisha (né le 30 jan 1987), héritier de fait, patriarche depuis le coup d'État du 1er nov 2018 | Projection, 8 doigts à l'université / 14 adulte, résonance gémellaire | Nisha, Naobito | Projection | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Naoya.md (+ chrono_B)
+- Jinichi Zenin - pilier du Hei, membre du conseil, tué par les jumeaux au coup d'État (1er nov 2018) | Poings Météores, 10 doigts, Grade Spécial 1 | Toji (frère), Naobito (oncle) | Poings Météores | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Jinichi.md
+- Ogi Zenin - frère cadet de Naobito, pilier du Hei, père de Maki/Mai, tué par ses filles au coup d'État (1er nov 2018) | Bravoure Impérieuse + Pluie de Pétales Épris (anti-domaine), 7 doigts | Maki/Mai, Naobito | épée maudite | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Ogi.md
+- Ranta Zenin - membre du Hei, support des jumeaux (né fin 1986), survit au coup d'État aux côtés de Naoya | Regard Paralysant, Semi-Grade 1 | Naoya/Nisha (dévotion), Jinichi | Regard Paralysant | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Ranta.md
+- Chojuro Zenin - membre du Hei, antithèse de Jinichi, †1er nov 2018 (coup d'État) | Bras de Terre, Semi-Grade 1 | clan Zenin | Bras de Terre | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Chojuro.md
+- Nobuaki Zenin - capitaine de la Kukuru, sans sort inné, †1er nov 2018 (coup d'État) | épéiste, Semi-Grade 1 | clan Zenin | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nobuaki.md
+- Maki Zenin - fille d'Ogi, jumelle de Mai (née 1999) | Restriction Céleste physique ; partage gémellaire (6 à 18 doigts selon répartition), fixé à 10/90 au coup d'État du 1er nov 2018 (quasi indétectable, façon Toji) | Mai, Ogi | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Maki.md
+- Mai Zenin - fille d'Ogi, jumelle de Maki (née 1999), unité Akashi | Construction ; partage gémellaire (1 à 18 doigts), fixé à 10/90 au coup d'État (15 doigts, débordante façon Yorozu) | Maki, Ogi | Construction | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Mai.md
 - Toji Fushiguro (né Zenin) - Tueur d'Exorcistes, ex-clan | Restriction Céleste physique, 17 doigts | Jinichi (frère), Megumi (fils) | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Toji.md
 - Satoru Gojo - guerrier parfait du clan Gojo (né le 7 déc 1986), rival puis époux de Nisha | Infini + Six Yeux + RCT + Vide Illimité ; 12 doigts en 2005, 23 après l'éveil de 2006 (plafond mondial) | Nisha, clan Gojo, Geto | Infini + Six Yeux | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Satoru.md (+ chrono_B)
 - Tengen - quatrième esprit vengeur resté de chair, pilier immortel des barrières | immortalité (fusion tous les ~500 ans avec un Plasma Stellaire), barrières, non combattant | Kenjaku (artisan de son ascension) | immortalité + barrières | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Tengen.md
@@ -158,7 +158,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Kento Nanami - promo Tokyo 2006-2009, prof de 3e année à Tokyo dès avr 2013 | Ratio Technique + Rayon Noir, Grade 1, 8 doigts adulte | Haibara, Nisha, Ijichi | Ratio Technique | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nanami.md
 - Kiyotaka Ijichi - promo Tokyo 2006-2009 (ajout RP), manager non combattant | logistique, renseignement, barrières | Nanami/Haibara | barrières | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Ijichi.md
 - Yuki Tsukumo - Grade Spécial électron libre, ancien Plasma Stellaire | Star Rage + RCT, 15 doigts | Geto (lui expose deux voies en août 2007), Tengen | Star Rage | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yuki.md
-- Megumi Fushiguro - fils de Toji (né le 22 déc 2000), adopté hors-Zenin par Nisha et Satoru (2008), Gojo-Zenin depuis 2015 | Dix Ombres, éveillé en 2009 | Nisha/Satoru, Tsumiki, Naoya (rivalité de succession latente) | Dix Ombres | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Megumi.md
+- Megumi Fushiguro - fils de Toji (né le 22 déc 2000), adopté hors-Zenin par Nisha et Satoru (2008), Gojo-Zenin depuis 2015 | Dix Ombres, éveillé en 2009 | Nisha/Satoru, Tsumiki, Naoya (succession : désigné par le testament de Naobito, refuse depuis 2009) | Dix Ombres | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Megumi.md
 - Tsumiki Fushiguro - belle-sœur de Megumi (profane, née 1997), adoptée avec lui (2008), Gojo-Zenin depuis 2015 | aucune ; marquée par Kenjaku, Yorozu en dormance 2008-2015 | Megumi, Nisha/Satoru | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Tsumiki.md
 - Akari Nitta - assistant manager sans don (née ~1993), première vraie élève de Nisha (promo Kyoto 2011-2014) | support | Nisha (lien quasi maternel), Arata | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nitta.md
 - Panda - cadavre maudit mutant créé par Yaga et co-amalgamé avec Nisha (2011), "fils" des deux | trois noyaux, corps maudit doté d'une âme | Yaga, Nisha | corps maudit | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Panda.md
@@ -228,7 +228,7 @@ SB8 porte, par mystère ou fil, la définition, le statut et un renvoi. Les dér
 - Geto / Yuki ("la bonne question") - août 2007 (A2) | DÉTONÉ C3 (chez Tengen, 1er nov 2018 : la graine de mûre) | Roadmap C3.
 - Nisha vs Yuki - août 2007 (A2) | DÉTONÉ C3 (chez Tengen, 1er nov 2018) | Roadmap C3.
 - Vente conditionnelle de Megumi - A2_4 | RÉSOLUE en A2_10 (adoption hors-Zenin 2008) | Roadmap A2.
-- Coup d'État du clan Zenin - 2006 (A2_6) | DÉTONÉ ère D (mi-nov 2018), Naoya sur le trône | chantier.
+- Coup d'État du clan Zenin - 2006 (A2_6) | DÉTONÉ D1 (1er nov 2018, après-midi), Naoya sur le trône | Roadmap D1.
 - Amicale non tenue en A2 - A2 | aucune édition jouée, massacre de Geto repoussé à fin 2007 | Roadmap A2.
 - T-Assurance-Tsumiki - fin nov / début déc 2018 (Serment de Saitama) | ARMÉ ; condition : la lettre peut forcer Sukuna à protéger Tsumiki en plein combat | chantier (D7).
 - T-Marque-Nozomu - Genroku (marque remise à Uraume, cf. SB7) | ARMÉ ; condition : bataille finale, Sukuna refuse, Uraume ingère la marque | journal _Implications, roadmaps D à écrire.
@@ -240,4 +240,4 @@ Index détaillé page par page : cf. WIKI JJK/Sommaire.md
 
 ---
 
-FIN_BIBLE_B25
+FIN_BIBLE_B26

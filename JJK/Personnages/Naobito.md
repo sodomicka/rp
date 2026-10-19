@@ -1,6 +1,6 @@
 # Naobito Zenin
 
-- version : W10
+- version : W11
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart du RP (2005) ; le devenir post-2005 est consigne en Trajectoire datee (telegraphique ; detail -> roadmap).
 
@@ -29,11 +29,14 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 ## Psychologie
 - (canon) Arrogant, misogyne, decadent et alcoolique, mais redoutable.
 - [DIVERGENCE RP] Code dur de l'honneur et de la purete du sang. N'aime personne, pas meme ses enfants ; ne respecte que la puissance.
+- [DIVERGENCE RP] Veut des heritiers puissants, de son sang si possible. Des qu'il entend parler de Megumi (2009), c'est decide : le sort qui symbolise le clan, ce sont les Dix Ombres ; sa propre branche est secondaire et doit les servir. Pur DOGMATISME, a l'oppose du merite que le clan proclame.
 - Ego de patriarche : refuse d'admettre la faiblesse de ses trois fils aines - le reconnaitre serait s'avouer faillible. Plutot que ca, il les case au Hei par nepotisme puis cesse de s'en soucier. Cette hypocrisie de l'ethos "on recompense" est meprisee par Nisha et Naoya.
 
 ## Relations
 - Nisha (fille) : faillit la renier puis l'executer enfant, son sort lu comme celui d'un fleau (1991) ; sauvee par l'eveil de la Chronostase. Devient sa favorite en 1995 (territoire convoite, maitrise a 8 ans). La fait Grade Special 1 en 1997 (elle a mate le fleau Eien). Respect par la puissance, jamais affection.
 - Naoya (fils) : heritier de fait - le seul fils digne, apres trois mediocres. Respecte pour sa force.
+- [DIVERGENCE RP] Les jumeaux l'ont toujours vu comme un TRAITRE au credo du clan, puis au leur : trois aines pistonnes, des forts traites en faibles parce qu'ils ne cadrent pas aux standards du clan. Indifference mutuelle : ils se moquent de son sort autant que lui du leur.
+- Megumi : le porteur des Dix Ombres, successeur designe par dogme (testament). Lui propose la succession des sa premiere visite au domaine (2009) : refus.
 - Trois fils aines (1982 / 1983 / 1985) : meprises en silence, cases au Hei, oublies.
 - Jinichi (neveu) : respecte. C'est Naobito qui le nomme au conseil du clan, aux cotes d'Ogi et de lui-meme.
 - Ogi (frere cadet) : co-membre du conseil. Plus faible que lui, double pour le siege.
@@ -59,12 +62,13 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 |---|---|---|
 | printemps 2006 (A2_1bis) | Invoque comme "le jackpot" de la loterie genetique dans la vanne des jumeaux narguant Ogi (ses jumeaux Naoya/Nisha en symbiose, contre les filles bridees du cadet). Reference indirecte - cite, pas necessairement en scene | neant (caracterisation) |
 | 2006, post-pivot Toji (A2_6) | Preside le conseil quand les jumeaux soumettent leur doctrine edulcoree ("Toji etait fort, on l'a cru faible ; dangereux d'en creer un autre, plus rancunier"). RIT - le chef meprise jusqu'a ses propres prodiges ("on n'offre rien chez les Zenin"). Verdict borne : "il n'y aura pas d'autre Toji" | son rejet (avec Ogi et Jinichi) scelle le secret ; les jumeaux basculent en clandestin |
+| 2009 (B1_2) | Megumi, porteur des Dix Ombres, convoque devant le conseil : Naobito lui propose la succession ; l'enfant refuse | successeur designe par dogme ; testament arme |
 | 24 dec 2017 (B3) | NUIT DES CENT FLEAUX, Kyoto : alerte par Nisha via Naoya, monte a la vieille ville AVEC LE CONSEIL au complet. Le clan combat aux cotes de l'universite de Kyoto - fleaux ET maitres des fleaux, aucun prisonnier, aucun mort cote universite | patriarche et conseil engages au front de Kyoto, hors du domaine |
-| 31 oct - 1 nov 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : brûlé par Jogo. Sur son lit de mort au domaine quand Naoya rentre de Takatsuki ; MEURT dans la nuit | mort ; testament non ouvert (-> ère D) |
+| 31 oct - 1 nov 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : brûlé par Jogo. Sur son lit de mort au domaine quand Naoya rentre de Takatsuki ; MEURT dans la nuit. Naoya lit le testament (Megumi successeur) | mort ; testament lu |
 
 ## Notes de frontiere (hors noyau)
 - Detail du beat de la Nuit des Cent Fleaux (actions individuelles au front) : cf. Roadmap/Nisha/Roadmap_B3.md (a builder).
-- Mort a Shibuya : portée en Trajectoire datée (C2_5). Testament : ouvert par Naoya après le 1er novembre 2018 midi -> ère D.
+- Mort a Shibuya : portée en Trajectoire datée (C2_5). Testament : lu par Naoya la nuit même (31 oct - 1 nov 2018) ; refus d'Ogi et de Jinichi, coup d'Etat : cf. Roadmap/Nisha/Roadmap_D1.md.
 - Fiches de Naoya, Jinichi, Ogi : cf. Personnages/Naoya.md, Jinichi.md, Ogi.md. Fondation et lignee : cf. Cosmogonie/Trois_Esprits.md et Factions/Clan_Zenin.md.
 
 ---

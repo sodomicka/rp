@@ -1,6 +1,6 @@
 # Naoya Zenin
 
-- version : W18
+- version : W19
 
 Fiche noyau + Trajectoire datée. Canon + RP. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. État noyau décrit = jusqu'au point de départ du RP (2005) ; le devenir post-2005 est consigné en Trajectoire datée (télégraphique ; détail -> roadmap).
 
@@ -38,6 +38,7 @@ Fiche noyau + Trajectoire datée. Canon + RP. Faits canon non balisés ; couche 
 - [DIVERGENCE RP] Misogynie issue de la FORCE, pas un calque sur le clan : haine des faibles, pas des femmes. Nisha étant à ses yeux la seule femme digne, elle en devient unique. Adorable avec elle, et avec elle seule.
 - Mariage Gojo : en 2005, il déteste l'idée - non par faille entre les jumeaux (il la tient pour son égale), mais parce qu'elle mérite le meilleur, pas d'être un piège matrimonial tendu à un Gojo. Sur ce seul point, moins misogyne que Nisha elle-même. [DIVERGENCE RP] Son opposition se dissout dès qu'il reconnaît Satoru comme 2e protecteur de Nisha (à la mort de Toji, A2_5) : s'il apprécie l'homme et le voit aussi bon époux que lui est bon frère, alors sa sœur est entre de bonnes mains, et l'union cesse d'être un piège pour devenir un bien. Implicite, jamais rejoué côté A2 ; sous-tend les noces de l'ère B.
 - Mépris des trois demi-frères aînés, casés au Hei par népotisme.
+- [DIVERGENCE RP] Avec Nisha, voit leur père comme un TRAÎTRE au credo du clan, puis au leur (aînés pistonnés, forts traités en faibles hors standards). Indifférence mutuelle : les jumeaux se moquent de son sort autant que lui du leur.
 
 ## Ambition (vision de jeunesse, 2005)
 - [DIVERGENCE RP] Vit dans l'idée qu'il sera un jour patriarche - pour pouvoir donner à Nisha le rang qu'elle mérite. Il ne se voit pas diriger sans elle : elle ne sera peut-être pas matriarche, mais elle aura un rôle. (Vision de jeunesse en 2005 ; cette ambition prend corps en A2 avec la doctrine secrète co-arrêtée avec Nisha -> cf. Trajectoire datée.)
