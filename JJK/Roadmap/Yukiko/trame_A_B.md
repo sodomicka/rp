@@ -40,6 +40,7 @@ Densite : A dense en A1 (l'installation, l'Amicale), calme en A2 (le slowburn ES
 
 ### B2 - Le report (avr 2013 -> mars 2016) [PROPOSE]
 - Ventre creux assume, tranche-de-vie : la garde continue.
+- 5 juin 2015. Nori majeur (18 ans) : demande a DIFFERER sa nomination tant qu'il ne se considere pas assez mur (graine ere C, cf. plus bas).
 - 2015. Noces de Nisha : Yukiko presente avec Nori et Utahime - copine d'une collegue, en amie, PAS en princesse Kamo (les emissaires Kamo relevent de la diplomatie, pas eux). (Renvoi Roadmap_B2 de Nisha ; presence = RETCON porte au chantier S8.)
 - CLOTURE B2 a la veille de la rentree de Nori.
 
@@ -47,7 +48,6 @@ Densite : A dense en A1 (l'installation, l'Amicale), calme en A2 (le slowburn ES
 - avr 2016. Nori en 1re annee (classe d'Utahime). Yukiko SPECTATRICE dans la classe de sa propre copine, sous pretexte d'etre la gardienne du futur Patriarche.
 - 2017. Nori en 2e annee chez Nisha : les deux amies se retrouvent au quotidien. Nori leader de sa promo malgre l'ingerence de Todo.
 - 24 dec 2017. PARADE DE GETO : confiance dans la promo de Nori (2es annees sous Mei Mei) ; Yukiko gere A ELLE SEULE les rideaux de Kyoto, contient et DISSIMULE le massacre des Zenin sur les maitres des fleaux. (Renvoi trame_B B3_4 de Nisha ; ajout du role = RETCON porte au chantier S8.)
-- 5 juin 2018. Nori a 21 ans, le titre lui revient : demande a DIFFERER sa nomination - se montrer digne en ayant fini son cursus (=> heritage vise ~mars 2019 ; graine ere C, cf. plus bas).
 - 2018 (jusqu'en juin). Reste de l'annee calme. SEUIL ERE C (deroule -> chantier S4).
 
 ## Fils transversaux et Tchekhov (le delta a planter dans les roadmaps)
@@ -61,7 +61,7 @@ Densite : A dense en A1 (l'installation, l'Amicale), calme en A2 (le slowburn ES
 
 ## Armer mais NE PAS detoner avant juin 2018 (graines ere C)
 - T-Fubuki : la verite sur Yasashiku, arme depuis 1992, munition du gambit du palais.
-- L'heritage differe (mars 2019) : tombera en plein chaos post-Shibuya - la chaise vide que Kenjaku prendra.
+- L'heritage differe (sans date : tant que Nori ne se juge pas assez mur) : la chaise vide que Kenjaku prendra en plein chaos post-Shibuya.
 - La maitrise Dragon + observation de signature : la competence qui tuera Kenjaku (rideau sur mesure du palais).
 - Chi no Meiyo : la lame qui sauvera Nori en le poignardant.
 - Nori l'eleve de Nisha (2017-2018) : le lien qui fera de Naoya son sauveur ("l'eleve de ma soeur").
