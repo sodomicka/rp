@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Repères chiffrés
 
-- version : W3
+- version : W4
 
 Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème, synergie, partage gémellaire, plafond mondial). Contient les REPÈRES par entité et les courbes de progression A2. Rappel : l'unité est extradiégétique jusqu'en 2018, puis diégétique pour le seul couple et la famille (cf. page mère).
 
@@ -54,7 +54,9 @@ Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème,
 | Geto (gourou, 2015) | 17-18 | 68-78 | vrai Geto vivant |
 | Nisha (adulte) | 18 | 78.15 | [DIVERGENCE RP] apogee atteinte des 2008 |
 | Sukuna (complet) | 20 | 100.00 | reference de l'echelle |
+| Kenjaku (dans Suguru, 2018) | 22 | 125.19 | [DIVERGENCE RP] symbiose parasitique : au-dessus de Nozomu (20), sous Satoru - s'il le valait, il n'aurait pas eu besoin de la Lisière ; tué au palais (D3), épuisé par le rideau de Yukiko, sous les coups des jumeaux (24 en symbiose) |
 | Gojo (post-Toji) | 23 | 139.07 | apogee atteinte tres tot, plafond |
+| Sukuna (dans Megumi, 20/20, ère D) | 27 | 203.54 | [DIVERGENCE RP] symbiose parasitique avec un corps aux Dix Ombres : bien au-delà de Sukuna dans Yuji, même à 20 doigts, car le corps de Yuji a été conçu pour durer et le supporter, pas pour fusionner ; colle à ses 200 pour cent de naissance. Le duo Satoru + Nisha à l'apogée vaut ~28.9 : déroulé du combat final -> D4 |
 
 Assistant managers (Ijichi, Nitta, etc.) : hors-classement combat, Grade 4 symbolique (role logistique, pas de scaling de combat pertinent). Aucun don, aucun sort inne.
 Arata Nitta : hors-axe combat lui aussi, mais PAS un assistant manager - c'est un exorciste non-combattant DOTE d'un sort inne (Pain Killer). Categorie distincte, a ne pas confondre. cf. Personnages/Arata_Nitta.md.

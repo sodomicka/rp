@@ -1,11 +1,11 @@
 # Roadmap D2 - La Traque
 
-- version : W1
+- version : W2
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre ; Tokyo n°1, Sakurajima, Sendai et les Tombeaux de l'Étoile restent HORS POV
-- échelle temporelle : ~deux semaines (1er novembre 2018, soir -> signal de Yukiko, non daté) ; cinq temps joués
+- échelle temporelle : ~une semaine (1er novembre 2018, soir -> 8 novembre, matin) ; cinq temps joués
 - borne d'entrée : 1er novembre 2018, soir, retour chez Tengen après le coup d'État
-- borne de sortie : signal de Yukiko, Nisha sort de Tokyo n°2 -> D3
+- borne de sortie : 8 novembre, matin, Nisha seule survivante de Tokyo n°2, la barrière s'abaisse -> D3
 - roadmap précédente : cf. WIKI Roadmap/Nisha/Roadmap_D1.md
 - roadmap suivante : cf. WIKI Roadmap/Nisha/Roadmap_D3.md (à écrire)
 
@@ -32,25 +32,25 @@ Jouer selon les règles de Kenjaku pour épargner le maximum de gens. Ceux que t
    - Première victime de Nisha à l'arrivée : Charles Bernard. Il est bien en dessous de son niveau, mais il avait de quoi tuer Panda, et ça l'inquiète.
    - Nisha tue vingt joueurs et ajoute la règle du transfert des points à la mort.
    - Clôt sur : le Kogane annonce la règle à tous les joueurs.
-4. **D2_4 - Les noyaux**. Kashimo fait face à Panda, et Nisha arrive.
+4. **D2_4 - Les noyaux** [~5 novembre]. Kashimo fait face à Panda, et Nisha arrive.
    - La sœur, le Tricératops, ne se montre que parce que maman est en vue.
    - Kashimo, à peu près du niveau de Nisha, s'amusait avec Panda : Nisha est le combat qu'il attendait.
    - Il grille contre elle son sort à usage unique, la Bête Mythique Ambre. Il se donne à fond, et Nisha galère à l'avoir.
    - Elle le tue, et ses points lui reviennent par sa propre règle. Elle ajoute la seconde, le transfert consenti.
    - Les trois noyaux de Panda sont intacts.
    - Clôt sur : la mère et ses trois enfants debout.
-5. **D2_5 - Le loyer**. Les autres tueurs ajoutent la règle de neutralité : un loyer de 5 points par jour, transférable.
+5. **D2_5 - Le loyer** [6 -> 8 novembre]. Les autres tueurs ajoutent la règle de neutralité : un loyer de 5 points par jour, transférable.
    - Un neutre sort du jeu et passe la barrière dans les deux sens.
    - Un neutre qui ne paie pas redevient joueur, et une cible à 50 points.
-   - Panda sort, neutre.
+   - Panda sort, neutre, le 6 novembre.
    - Les tueurs du camp (Nisha, Maki, Mai, Yuta, Hakari, Higuruma) ramassent les points qui paient la neutralité de ceux qui veulent sortir.
    - Nisha reste farmer seule, comme Yuta à Sendai, pour payer la neutralité de ceux qui sortent.
-   - Elle finit par vider la colonie. Les hostiles ont tué les innocents : ce n'étaient pas ses faibles, elle n'a rien protégé, et ils avaient eu l'occasion de sortir. Elle tue les hostiles.
-   - Au signal de Yukiko, Megumi, neutre, entre la chercher.
-   - Clôt sur : Nisha sort, neutre -> D3.
+   - Elle finit par vider la colonie, deux jours après la sortie de Panda. Les hostiles ont tué les innocents : ce n'étaient pas ses faibles, elle n'a rien protégé, et ils avaient eu l'occasion de sortir. Elle tue les hostiles.
+   - Quand une colonie n'a plus qu'un survivant, la barrière s'abaisse ; le survivant reste joueur, et doit aller dans une autre colonie pour gagner des points.
+   - Clôt sur : le 8 au matin, Nisha sort, couverte de sang et riche en points -> D3.
 
 Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
-- Satoru absent ; Yukiko seule au palais, le front Kamo attend son signal.
+- Satoru absent ; Yukiko seule au palais, aux côtés de Kenjaku.
 - La caisse commune : chaque mort de Nisha paie une journée de vie à quelqu'un qui ne veut pas tuer.
 - Panda, le fils qu'elle voit le moins, qui vit chez son père.
 
@@ -61,9 +61,8 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 - Kinji Hakari, Kirara Hoshi - le parieur, la loge VIP - cf. Personnages/Hakari.md, Kirara.md
 - Charles Bernard - première victime - non fiché (canon)
 - Yuji, Maki, Mai, Yuta - la répartition - cf. leurs fiches
-- Megumi - vient la chercher au signal - cf. Personnages/Megumi.md
 - Hajime Kashimo - le combat qu'il attendait - cf. Personnages/Kashimo.md
-- Hors champ : Satoru (scellé), Yukiko (palais), Higuruma (Tokyo n°1 : apporte des points pour que Megumi sorte)
+- Hors champ : Satoru (scellé), Yukiko (palais), Megumi (Tokyo n°1, neutre), Higuruma (Tokyo n°1 : apporte des points pour que Megumi sorte)
 
 ## Lieux et objets
 - Tombeaux de l'Étoile - cf. Personnages/Tengen.md
@@ -76,19 +75,20 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 - Règles 1 (transfert à la mort), 2 (transfert consenti) et 3 (neutralité au loyer) en place.
 - Kashimo tué par Nisha ; les trois noyaux de Panda intacts.
 - Hakari recruté, Nisha garante.
-- Panda sorti, neutre.
+- Panda sorti, neutre, le 6.
+- Nisha seule survivante de Tokyo n°2, le 8 au matin.
 ### Interdits
 - Un des gamins de Nisha meurt : elle préfère mourir.
 - Nisha croise Kenjaku ou Uraume.
-- Nisha part pour le palais avant le signal de Yukiko.
+- Nisha sort de Tokyo n°2 avant de l'avoir vidée.
 - Satoru apprend la vente - T-Secret-Naoya, [OUVERT].
 - Quiconque apprend le contenu d'Enchain.
 
 ## Verrous
-- Jalon 5 : Nisha sort avant le signal. Paliers :
+- Jalon 5 : Nisha sort avant d'avoir vidé la colonie. Paliers :
   1. La caisse : sans ses points, les neutres redeviennent des cibles à 50.
-  2. Personne n'est venu la chercher : Megumi n'apporte le signal qu'au moment voulu.
-  3. Rappel hors fiction : le palais attend le signal de Yukiko.
+  2. La barrière ne s'abaisse que sur le dernier survivant.
+  3. Rappel hors fiction : Nisha sort seule survivante, le 8 au matin.
   4. Avertissement du MJ : la suite n'est pas scénarisée et mène à l'avortement du RP.
   5. Entêtement maintenu : le MJ déclare la fin du RP et ne narre plus dans ce thread ; rejouer = nouveau thread, CODEX d'entrée réutilisé sans modification.
 
@@ -96,9 +96,9 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 - Aucune. Règle globale du RP (jusqu'à contre-ordre du worldbuilder) : aucune roadmap ne se scinde en embranchement.
 
 ## Notes de frontière
-- État de sortie : trois règles ajoutées par le camp de Nisha ; Kashimo et Charles Bernard morts, Tokyo n°2 vidée ; Panda neutre, noyaux intacts ; neutres financés par les tueurs ; Nisha sort au signal de Yukiko, Megumi venu la chercher.
+- État de sortie : trois règles ajoutées par le camp de Nisha ; Kashimo et Charles Bernard morts, Tokyo n°2 vidée ; Panda neutre, noyaux intacts ; neutres financés par les tueurs ; Nisha seule survivante, toujours joueuse, sort le 8 au matin.
 - Hors POV : Tokyo n°1 (Hakari, Yuji, Megumi ; Higuruma contre Yuji, sans la règle de transfert ; Hana coupée) ; Sakurajima (Maki et Mai) ; Sendai (Yuta).
-- D3 : le palais au signal de Yukiko ; Saitama pendant le palais, hors POV.
+- D3 : le palais, le 8 au soir ; Saitama le 10, hors POV.
 
 ---
 FIN_WIKI_ROADMAP_NISHA_D2

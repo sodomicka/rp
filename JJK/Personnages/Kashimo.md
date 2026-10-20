@@ -1,6 +1,6 @@
 # Hajime Kashimo
 
-- version : W1
+- version : W2
 
 Fiche noyau (canon + RP), entité entrant en scène en ère D (novembre 2018) : joueur de la Traque Meurtrière. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. Sources canon vérifiées : wiki fandom (Hajime Kashimo, ch. 158, 184-190) + animehunch, deltiasgaming.
 
@@ -40,7 +40,7 @@ Fiches propres : cf. Personnages/Nisha.md, Panda.md, Sukuna.md. Ici, seul le rap
 ## Trajectoire datée - ère D (alimentée à chaud arc par arc)
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
-| nov 2018 (D2_4) | Tokyo n°2 : face à Panda, Nisha arrive. Il trouve enfin l'adversaire digne et grille la Bête Mythique Ambre contre elle ; elle le tue. Par la règle du transfert à la mort (de Nisha), ses points passent à elle. [DIVERGENCE RP vs canon] Ni Hakari ni Sukuna : il ne quitte pas Tokyo n°2 | mort |
+| ~5 nov 2018 (D2_4) | Tokyo n°2 : face à Panda, Nisha arrive. Il trouve enfin l'adversaire digne et grille la Bête Mythique Ambre contre elle ; elle le tue. Par la règle du transfert à la mort (de Nisha), ses points passent à elle. [DIVERGENCE RP vs canon] Ni Hakari ni Sukuna : il ne quitte pas Tokyo n°2 | mort |
 
 ## Notes de frontière
 - [DIVERGENCE RP vs canon] Au canon, Hakari le bat sans le tuer (ch. 186-190), il rejoint le groupe contre la promesse d'un combat contre Sukuna, et meurt face à lui (ch. 237). Chez nous, il sort de la bataille finale.

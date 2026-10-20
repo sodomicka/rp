@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : JJK
 - sources primaires : manga Jujutsu Kaisen (Gege Akutami) ; worldbuilding du worldbuilder (OC Nisha Zenin, Yukiko Kamo, Eien, Nozomu)
-- bible_version : B27
+- bible_version : B28
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/JJK/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/JJK/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/JJK/Partie1/`
@@ -27,10 +27,10 @@
   - Lieux - sièges des clans (Chiryu no Kyuden - Kamo ; Juei no Ryochi - Zenin) (2 pages)
   - Power_Scaling - système de puissance, repères chiffrés en satellite (2 pages)
   - Pedagogie - carte des enseignements (1), fiches de cours par discipline et par année (7), enseignement personnalisé par promotion (8) (16 pages)
-  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2, C3, D1, D2), Yukiko/ (A0, A1) (13 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B) et _Chantier_Passe2_EresCD.md (document de travail), sources de build jamais fetchées en narration.
-  - Resume.md - résumé autosuffisant de l'univers jusqu'à la Traque Meurtrière (novembre 2018 : fin de l'ère C, coup d'État Zenin, Traque côté Nisha), NON indexé au Sommaire, jamais fetché en narration (1 page)
+  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2, C3, D1, D2, D3), Yukiko/ (A0, A1) (14 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B), _Chantier_Passe2_EresCD.md et Yukiko/chantier_yukiko.md (documents de travail), sources de build jamais fetchées en narration.
+  - Resume.md - résumé autosuffisant de l'univers jusqu'au palais Kamo (novembre 2018 : fin de l'ère C, coup d'État Zenin, Traque côté Nisha, mort de Kenjaku), NON indexé au Sommaire, jamais fetché en narration (1 page)
   - _Implications.md - journal de conception, jamais fetché en narration (1 fichier de travail)
-- Total indexé au Sommaire (W49) : 104 pages.
+- Total indexé au Sommaire (W50) : 105 pages.
 
 ## SB1 Cosmogonie et règles du monde
 Périmètre : divergences fondatrices liées à Nisha et Yukiko + règles nécessaires + cosmogonie des trois esprits.
@@ -96,7 +96,7 @@ Divergences (noyau Nisha) :
 - Amplification de Territoire - technique anti-domaine canon, hors programme et jamais expliquée ("les clans ont leurs méthodes").
 - Rayon Noir - (canon : Black Flash) coïncidence de l'impact physique et de l'impact d'énergie, dégâts à la puissance 2,5 ; ne se commande pas.
 - Serment - contrat automatique liant une restriction à un gain ; sans juge, la lettre fait loi, ne se rompt pas.
-- Traque Meurtrière (Culling Game) - jeu à mort instauré par Kenjaku (nov 2018, ère D), règles = SERMENTS AUTOMATISÉS : tuer le maître n'arrête pas le jeu.
+- Traque Meurtrière (Culling Game) - jeu à mort instauré par Kenjaku (nov 2018, ère D), règles = SERMENTS AUTOMATISÉS : tuer le maître n'arrête pas le jeu. [DIVERGENCE RP] Chez nous, elle s'éteint le 8 nov 2018 : à la mort de Kenjaku, ses droits passent à Eien, qui désamorce tout. Une colonie réduite à un survivant abaisse sa barrière ; le survivant reste joueur.
 - Colonie - zone de la Traque fermée par une barrière, coupée du monde (pas de réseau) ; l'entrant est téléporté vers l'un de neuf points guettés.
 - Kogane - shikigami attribué à chaque joueur : interface et arbitre des règles (refuse toute règle à impact majeur et durable).
 - Neutralité - [DIVERGENCE RP] règle ajoutée par le camp de Nisha : loyer de 5 points par jour pour sortir du jeu ; qui ne paie plus redevient une cible à 50 points. Détail des règles du camp : cf. Roadmap/Nisha/Roadmap_D2.md.
@@ -136,7 +136,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Nisha Zenin - protagoniste, OC, jumelle de Naoya (née le 30 jan 1987), Gojo-Zenin depuis ses noces (2015) | Chronostase + Chronokinésie (parasite Eien), Sphère du Temps Infini ; façade à Tokyo : Chronokinésie présentée comme innée, Chronostase comme son aspect ; Kyoto et Hautes Instances savent tout, Eien crue docile | Naoya (jumeau symbiotique), Eien (parasite : Nisha s'en sait maîtresse, jamais geôlière - amie de façade jusqu'en 2015, souffre-douleur ensuite), Naobito (père), Satoru (rival puis époux) | deux sorts + domaine | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nisha.md (+ chrono_A, chrono_B, chrono_C, chrono_D ; relations : Nisha_relations_proches, _famille, _boulot, _eleves_tokyo)
 - Yukiko Kamo - second OC jouable, princesse Kamo, demi-sœur aînée de Noritoshi (née le 14 juin 1986), promo Kyoto 2005-2008 | Hémotropie (le carquois de Noritoshi), meilleure tisseuse du clan depuis Heian ; 12 doigts réels, façade Grade 2 | Noritoshi (dieu vivant), Utahime (couple dès nov 2005), jumeaux Zenin, Gakuganji | Hémotropie | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yukiko.md (+ chrono_A)
 - Eien - OC, parasite de Nisha, esprit maudit Grade Spécial millénaire, co-architecte du monde | Chronokinésie (cédée à l'hôte), Jardin des Ères Mortes, parasitisme par fœtus | Nisha (hôte : maîtresse qui s'ignore geôlière, amie jouée jusqu'en 2015 ; rapport inversé depuis, les visites), Kenjaku (amante, mille ans) | Chronokinésie | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Eien.md
-- Kenjaku - exorciste millénaire, co-architecte du monde | transfert de cerveau, sceaux | Eien (amant) ; vaisseaux : Noritoshi Kamo (Meiji), Kaori Itadori, Geto | sort de l'hôte courant | canon + [DIVERGENCE RP] (origine Kamo, couple Eien). detail: cf. WIKI Personnages/Kenjaku.md
+- Kenjaku - exorciste millénaire, co-architecte du monde | transfert de cerveau, sceaux | Eien (amant) ; vaisseaux : Noritoshi Kamo (Meiji), Kaori Itadori, Geto | sort de l'hôte courant | canon + [DIVERGENCE RP] (origine Kamo, couple Eien ; 22 doigts dans Suguru ; tué par Nisha au palais Kamo le 8 nov 2018). detail: cf. WIKI Personnages/Kenjaku.md
 - Nozomu Gojo - OC, esprit maudit Grade Spécial : guerrier parfait de Genroku mort à l'éveil (4 ans), revenu en esprit vengeur ; scellé dans une marque (SB7) | Infini bouclier, Six Yeux épars, six bras, domaine Flagellation du Bourreau ; 20 doigts ; doctrine : libérer les enfants, punir les parents. RÈGLE D'ÉCRITURE PERMANENTE : aucun détail d'acte sur sa mort, aucune romantisation | clan Gojo, Eien, Kenjaku, Uraume | Infini + Six Yeux | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nozomu.md
 - Naobito Zenin - patriarche (26e chef), père des jumeaux (né 1947, †31 oct 2018 ; testament : Megumi) | Projection, 12 doigts, Grade Spécial 1 | Naoya/Nisha, Ogi (frère cadet), Jinichi/Toji (neveux) | Projection | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Naobito.md
 - Naoya Zenin - jumeau de Nisha (né le 30 jan 1987), héritier de fait, patriarche depuis le coup d'État du 1er nov 2018 | Projection, 8 doigts à l'université / 14 adulte, résonance gémellaire | Nisha, Naobito | Projection | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Naoya.md (+ chrono_B)
@@ -160,7 +160,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Yu Haibara - promo Tokyo 2006-2009, mort fin 2007 (détonateur final de la chute de Geto) | [INCERTAIN] sort jamais montré, Grade 2 | Nanami, Geto | [INCERTAIN] | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Haibara.md
 - Kento Nanami - promo Tokyo 2006-2009, prof de 3e année à Tokyo dès avr 2013 | Ratio Technique + Rayon Noir, Grade 1, 8 doigts adulte | Haibara, Nisha, Ijichi | Ratio Technique | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nanami.md
 - Kiyotaka Ijichi - promo Tokyo 2006-2009 (ajout RP), manager non combattant | logistique, renseignement, barrières | Nanami/Haibara | barrières | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Ijichi.md
-- Yuki Tsukumo - Grade Spécial électron libre, ancien Plasma Stellaire | Star Rage + RCT, 15 doigts | Geto (lui expose deux voies en août 2007), Tengen | Star Rage | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yuki.md
+- Yuki Tsukumo - Grade Spécial électron libre, ancien Plasma Stellaire | Star Rage + RCT, 15 doigts | Geto (lui expose deux voies en août 2007), Tengen | Star Rage | canon + [DIVERGENCE RP] (meurt seule contre Kenjaku le 6 nov 2018). detail: cf. WIKI Personnages/Yuki.md
 - Megumi Fushiguro - fils de Toji (né le 22 déc 2000), adopté hors-Zenin par Nisha et Satoru (2008), Gojo-Zenin depuis 2015 | Dix Ombres, éveillé en 2009 | Nisha/Satoru, Tsumiki, Naoya (succession : désigné par le testament de Naobito, refuse depuis 2009) | Dix Ombres | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Megumi.md
 - Tsumiki Fushiguro - belle-sœur de Megumi (profane, née 1997), adoptée avec lui (2008), Gojo-Zenin depuis 2015 | aucune ; marquée par Kenjaku, Yorozu en dormance 2008-2015 | Megumi, Nisha/Satoru | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Tsumiki.md
 - Akari Nitta - assistant manager sans don (née ~1993), première vraie élève de Nisha (promo Kyoto 2011-2014) | support | Nisha (lien quasi maternel), Arata | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nitta.md
@@ -199,10 +199,10 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Carte bleue de Nisha - carte en acier damas anthracite aux veinures violettes (couleurs du clan) | cadeau de Naobito aux 18 ans des jumeaux (30 jan 2005) | fortune personnelle | portée par Nisha | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nisha.md
 - Lunettes maudites de vue occulte - monture imbue d'énergie | offertes par Maki à Tsumiki (2009) | donnent la vue de l'occulte | portées par Tsumiki | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Tsumiki.md
 - Chi no Meiyo - tanto maudit | 1998, forgé du fléau Sakushu Sha piégé par Yukiko | pont : gorge Yukiko de l'énergie absorbée par un rideau | porté par Yukiko | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yukiko.md
-- Lisière du Supplice - objet maudit de grade spécial (sceau) | [DIVERGENCE RP] de la main de Kenjaku | scelle une cible vivante | refermée sur Satoru le 31 oct 2018, ouverte par Yukiko en déc 2018 | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Kenjaku.md, Roadmap/Nisha/Roadmap_C2.md
+- Lisière du Supplice - objet maudit de grade spécial (sceau) | [DIVERGENCE RP] de la main de Kenjaku | scelle une cible vivante | refermée sur Satoru le 31 oct 2018, ouverte par Yukiko en trois jours (9-11 nov 2018) | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Kenjaku.md, Roadmap/Nisha/Roadmap_C2.md
 - Rideau de Takatsuki - piège-sceau à usage unique | de la main de Kenjaku, taillé sur la signature gémellaire Zenin (source : un cheveu de Nisha prélevé par Kenjaku au viol de 2015, révélé par Eien à Takatsuki) | verrouille Nisha et Naoya le 31 oct 2018 ; double fond : épuiser Nisha pour Eien - ÉCHEC | démêlé par Yukiko la nuit même, Nori à ses côtés | [DIVERGENCE RP]. detail: cf. WIKI Roadmap/Nisha/Roadmap_C2.md, Personnages/Kenjaku.md
 - Rideau de l'Amicale - rideau polarisé à usage unique | patron de Kenjaku (signatures tirées d'un cheveu de Satoru, volé par Mechamaru, et d'un cheveu de Nisha), tissé en tracé alterné par le maître des fléaux boucher | tient Satoru et Nisha dehors pendant l'attaque d'Hanami (sept 2018), effet amoindri | défait sur le souffle de Yukiko | [DIVERGENCE RP]. detail: cf. WIKI Roadmap/Nisha/Roadmap_C1.md
-- Rideau du palais - contre-piège à usage unique | de la main de Yukiko, taillé sur la signature de Kenjaku | enferme Kenjaku et l'assaut ; théâtre de sa mort (déc 2018) | consommé | [DIVERGENCE RP]. detail: chantier, roadmaps C/D à écrire
+- Rideau du palais - contre-piège à usage unique | de la main de Yukiko, tissé avec son sang autour du domaine pendant ses balades, taillé sur la signature de Kenjaku, éteint jusqu'à l'activation | ciblé : tout le monde le traverse, sauf Kenjaku ; théâtre de sa mort (8 nov 2018) | consommé | [DIVERGENCE RP]. detail: cf. WIKI Roadmap/Nisha/Roadmap_D3.md
 - Marque de Nozomu - sceau-prison de l'âme de Nozomu | de la main de Kenjaku (Genroku) | double clé à destination de Sukuna : réveil en MENAÇANT un enfant ou en PROTÉGEANT un enfant | confiée à Uraume | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nozomu.md
 - Autres artefacts : à remplir au build ultérieur.
 
@@ -212,7 +212,7 @@ SB8 porte, par mystère ou fil, la définition, le statut et un renvoi. Les dér
 
 ### Mystères
 `Mystère - hypothèses principales | statut (ouvert / résolu-dans-RP / hors-périmètre)`
-- Sort de Satoru post-2018 - canon : scellé le 31 oct 2018, libéré puis tué par Sukuna le 24 déc 2018. RP : scellé le 31 oct, LIBÉRÉ en déc 2018 par Yukiko ; duel final contre Sukuna-dans-Megumi, survie ou non | ouvert, décision worldbuilder.
+- Sort de Satoru post-2018 - canon : scellé le 31 oct 2018, libéré puis tué par Sukuna le 24 déc 2018. RP : scellé le 31 oct, LIBÉRÉ le 11 nov 2018 par Yukiko ; duel final contre Sukuna-dans-Megumi, survie ou non | ouvert, décision worldbuilder.
 - Présence de Nisha à Shibuya - verrouillée à Takatsuki avec Naoya le 31 oct ; voit Kenjaku-dans-Geto à la fermeture du piège, sans combat ; arrive à Shibuya après le départ de Kenjaku | résolu-dans-RP (Roadmaps C2, C3).
 - Culte Astral / culte posthume de Geto (ères C/D) | ouvert, à statuer aux roadmaps C/D.
 - Origine ultime de l'énergie occulte (JJK Modulo, 2086) | hors-périmètre.
@@ -224,7 +224,7 @@ SB8 porte, par mystère ou fil, la définition, le statut et un renvoi. Les dér
 - Collier-arsenal de Nisha - A1 (30 jan 2006) | DÉTONÉ en A2_4 | Roadmap A2.
 - Faille d'Eien - A1/A2 | DÉTONÉE en 2015 (B2) | Roadmap B2, WIKI Personnages/Eien.md.
 - T-Sceau (la vente de Satoru) - 2015 (B2) | DÉTONÉ C2 (Takatsuki et Shibuya, 31 oct 2018) | Roadmap C2.
-- T-Secret-Naoya - 2015 (B2) | DÉTONÉ C2 : cercle Naoya + Yukiko + Nori (Takatsuki) ; Satoru ignore toujours, jusqu'à quand : [OUVERT] | Roadmap C2.
+- T-Secret-Naoya - 2015 (B2) | DÉTONÉ C2 : cercle Naoya + Yukiko + Nori (Takatsuki) ; Satoru comprend le prix en étant scellé, et Nisha le lui avoue à sa sortie (D3, 11 nov 2018) | Roadmap C2, D3.
 - T-Yorozu - fin 2015 (B3) | DÉTONÉ juin 2018 (C1_1, l'autel) : le grief d'Eien ÉCHOUE, Sukuna en rit | Roadmap C1.
 - T-Tsumiki - 2008 (B1) | RÉSOLU fin 2015, libérée sans coma [DIVERGENCE RP vs canon] | WIKI Personnages/Tsumiki.md.
 - T-Okaruto - 2010 (B1, l'Okaruto Shinbun de Tsumiki) | DÉTONÉ juin 2018 (C1_1) : le club de Yuji descelle le doigt à rebours des avertissements du blog | Roadmap C1.
@@ -234,7 +234,7 @@ SB8 porte, par mystère ou fil, la définition, le statut et un renvoi. Les dér
 - Vente conditionnelle de Megumi - A2_4 | RÉSOLUE en A2_10 (adoption hors-Zenin 2008) | Roadmap A2.
 - Coup d'État du clan Zenin - 2006 (A2_6) | DÉTONÉ D1 (1er nov 2018, après-midi), Naoya sur le trône | Roadmap D1.
 - Amicale non tenue en A2 - A2 | aucune édition jouée, massacre de Geto repoussé à fin 2007 | Roadmap A2.
-- T-Assurance-Tsumiki - fin nov / début déc 2018 (Serment de Saitama) | ARMÉ ; condition : la lettre peut forcer Sukuna à protéger Tsumiki en plein combat | chantier (D7).
+- T-Assurance-Tsumiki - 10 nov 2018 (Serment de Saitama) | ARMÉ ; Tsumiki part avec Sukuna, sous sa garde directe ; condition : la lettre peut forcer Sukuna à protéger Tsumiki en plein combat | chantier (D7).
 - T-Marque-Nozomu - Genroku (marque remise à Uraume, cf. SB7) | ARMÉ ; condition : bataille finale, Sukuna refuse, Uraume ingère la marque | journal _Implications, roadmaps D à écrire.
 
 ## SB9 Index - routage
@@ -244,4 +244,4 @@ Index détaillé page par page : cf. WIKI JJK/Sommaire.md
 
 ---
 
-FIN_BIBLE_B27
+FIN_BIBLE_B28

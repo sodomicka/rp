@@ -1,6 +1,6 @@
 # Uraume
 
-- version : W1
+- version : W2
 
 Fiche noyau (canon + RP), entité entrant en scène en ère C (31 octobre 2018) : suivant de Sukuna depuis l'ère Heian, incarné. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -40,6 +40,7 @@ Fiches propres : cf. Personnages/Sukuna.md, Kenjaku.md, Nozomu.md, Tsumiki.md. I
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
 | 31 oct - 1 nov 2018 (C2_5) | Shibuya, hors POV : paraît aux côtés de Kenjaku après l'absorption de Mahito ; face à Yuki Tsukumo à l'arrivée de celle-ci ; repart avec Kenjaku (canon). Nisha ne le croise pas | entre en scène |
+| 8 - 10 nov 2018 (D3) | Absent du banquet Kamo : attend caché avec les doigts ; après Saitama, rejoint Sukuna et le nourrit des derniers doigts | auprès de son roi |
 
 ## Notes de frontière
 - Ère D (Traque, doigts, marque de Nozomu, bataille finale) : questions ouvertes au journal (domination, forme physique, savoir sur la lettre de Saitama, garde de Tsumiki) -> roadmaps D.

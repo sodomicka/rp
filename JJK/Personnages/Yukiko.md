@@ -1,6 +1,6 @@
 # Yukiko Kamo
 
-- version : W10
+- version : W11
 
 Fiche NOYAU (OC, niveau fandom). État atemporel / point de départ (1 avr 2005). Couche RP entièrement [DIVERGENCE RP] (OC sans équivalent canon) : balise portée une fois ici, non répétée ligne à ligne. Plot post-départ -> roadmaps Yukiko ; devenir -> Yukiko_chrono_A.md (ère A) et Trajectoire datée en bas de page (ères B+, en attente de scission). Résumé condensé en BIBLE SB5.
 
@@ -149,7 +149,7 @@ Objet maudit, forgé sur mesure pour la princesse Kamo. Détail : cf. BIBLE SB7 
 
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
-| début 2013 (ère B, B1 ; cf. _Implications) | Gakuganji lui offre la chaire de 3e année de Kyoto. Elle n'accepte qu'à une condition : seulement l'année où Nori sera en 3e année (2018-2019). Nisha ricane et lui répond qu'elle trouvera une prof qui ne fera pas un favoritisme aussi extrême - ce sera Mei Mei (cf. Factions/Universite_Kyoto.md, Personnages/Mei_Mei.md). Yukiko ne sera jamais prof. | hors du corps enseignant, par condition refusée |
+| début 2013 (ère B, B1 ; cf. Roadmap/Yukiko/chantier_yukiko.md) | Gakuganji lui offre la chaire de 3e année de Kyoto. Elle n'accepte qu'à une condition : seulement l'année où Nori sera en 3e année (2018-2019). Nisha ricane et lui répond qu'elle trouvera une prof qui ne fera pas un favoritisme aussi extrême - ce sera Mei Mei (cf. Factions/Universite_Kyoto.md, Personnages/Mei_Mei.md). Yukiko ne sera jamais prof. | hors du corps enseignant, par condition refusée |
 | mars 2013 (B1) | RESTO À QUATRE (Utahime + Nisha + Yukiko + Mei Mei, Ui Ui et Nori en accompagnants) : kyotoïte, elle connaît Mei Mei mieux que Nisha ; l'idée Mei Mei émerge de la discussion à trois - Yukiko n'a pour argument que la promo de son frère et se fout du reste. Mei Mei prend la 3e année | la chaire trouve preneuse sans elle |
 | 2015 (B2) | Noces de Nisha et Satoru : présente avec Nori et Utahime - la copine d'une collègue, invitée en amie, PAS en princesse Kamo (les émissaires Kamo présents relèvent de la diplomatie, pas eux) | -- |
 | 24 déc 2017 (B3) | NUIT DES CENT FLÉAUX, côté Kyoto : confiance dans la promo de Nori (leader de ses 2es années malgré l'ingérence de Todo, confiés à Mei Mei au combat) ; elle gère À ELLE SEULE les rideaux de Kyoto - contention de la zone et DISSIMULATION du massacre des maîtres des fléaux par les Zenin | fait d'armes invisible ; façade Grade 2 intacte |

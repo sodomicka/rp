@@ -1,6 +1,6 @@
 # Naoya Zenin - Chronologie datee, ere B (2008-2018)
 
-- version : W8
+- version : W9
 
 Extension de Personnages/Naoya.md. Contient la TRAJECTOIRE DATEE post-depart de Naoya pour l'ere B (hiver 2008 -> juin 2018). NB : l'ere A (A1+A2) reste dans Personnages/Naoya.md (Trajectoire datee non scindee a l'epoque) ; scission de l'ere A optionnelle. Strate canon par defaut, telegraphique ; le detail vit dans les roadmaps. Build-side : fetchee a la demande, JAMAIS chargee en narration. Etat : entrees B1 a B3 posees - ere B complete.
 
@@ -24,6 +24,7 @@ Extension de Personnages/Naoya.md. Contient la TRAJECTOIRE DATEE post-depart de 
 | nuit 31 oct - 1 nov 2018 (C2_5, C3_1) | Rentre au domaine préparer la crise à venir : Naobito, brûlé par Jogo à Shibuya, meurt dans la nuit. Naoya LIT LE TESTAMENT (Megumi successeur) : refus d'Ogi et de Jinichi, la goutte de trop que les jumeaux attendaient ; il cache sa rage, en parle à Mai, envoie un message à Nisha. Puis Nori, poignardé et exilé, l'appelle (le numéro glissé par Yukiko) : il le ramène discrètement au domaine, le fait soigner et le CACHE (un héritier rival mourant serait du pain béni pour Ogi et Jinichi) | orphelin de père ; putsch préparé |
 | 1 nov 2018 (C3_2, C3_4) | Amène Nori à Tokyo, où Shoko le soigne, laissant Mai seule au domaine, certain que les conservateurs ne se doutent pas du coup d'État ; reste dehors pendant la réunion chez Tengen | sauveur de l'élève de sa sœur |
 | 1 nov 2018, après-midi (D1) | COUP D'ÉTAT. Court jusqu'au domaine (un quart d'heure) avec Nisha et Maki ; croise Ogi sans un mot (il revient aux jumelles) ; massacre en symbiose le reste du Hei (les trois aînés, Chojuro, Jinichi). Les survivants lui prêtent allégeance | PATRIARCHE du clan Zenin ; Ranta à ses côtés ; loyauté des Instances à jauger (Gakuganji acquis à Nisha) |
+| 7 - 8 nov 2018 (D3) | Apprend le banquet Kamo, convié avec sa jumelle ; le 8 au matin, prévient Nisha. Y vient pour ne pas éveiller de soupçons, et aide sa sœur à éclater Kenjaku : il l'a aidée à avorter en 2015 et retient le nom depuis, il DOIT être là | dette de 2015 soldée |
 
 ## Pointeurs
 - Noyau + Trajectoire datee ere A (A1+A2) : cf. Personnages/Naoya.md.

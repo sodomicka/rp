@@ -1,6 +1,6 @@
 # Panda
 
-- version : W8
+- version : W9
 
 Fiche noyau (canon + RP), entite NEE au cours de l'arc B1 (2011). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = ce que Panda EST des sa naissance ; son devenir post-2011 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps). Corps maudit en croissance sur tout B1 : scaling de combat non pertinent (a maturite seulement).
 
@@ -67,7 +67,7 @@ Fiches propres : cf. Personnages/Yaga.md, Nisha.md, Maki.md. Ici, seul le rappor
 | 1 nov 2018 (C3_3) | ABSENT de la salle des Instances, où Nisha et Yaga livrent le secret des corps autonomes | son secret connu des Instances |
 | 2 nov 2018 (D2_2) | Match arrangé contre Yuji au fight club de Hakari (canon), sa mère aux caméras | - |
 | ~4 nov 2018 (D2_3, D2_4) | Entre dans Tokyo n°2 avec Nisha, séparé d'elle par la téléportation de la barrière. Face à Kashimo (canon : bras arraché) ; la sœur, le Tricératops, ne paraît que lorsque Nisha arrive en vue ; Nisha tue Kashimo. [DIVERGENCE RP vs canon] Les trois noyaux restent intacts | sauvé par sa mère |
-| nov 2018 (D2_5) | Sort du jeu, neutre (loyer de 5 points par jour, payé par les tueurs du camp) | hors de la Traque |
+| 6 nov 2018 (D2_5) | Sort du jeu, neutre (loyer de 5 points par jour, payé par les tueurs du camp) | hors de la Traque |
 
 ## Graines plantees en B1 (a NE PAS detoner avant l'ere prevue)
 - T-Ames : la naissance de Panda etablit que Nisha PARTAGE le savoir de creer un etre dote d'une ame autonome. Dans le canon, ce secret condamne Yaga (execution post-Shibuya). [DIVERGENCE RP] Nisha herite du meme danger. DÉTONÉ hors de sa présence (C3_3). cf. fiche Yaga, SB8.
