@@ -36,7 +36,9 @@
 
 ## État après 2006 [DIVERGENCE RP sur la suite]
 - Au brief de la Traque (C3_4, 1er nov 2018), Tengen le dit lui-même, comme au canon : il est désormais plus fléau qu'humain. C'est vrai indépendamment de Kenjaku.
-- Toujours vivant, et gardien des barrières des écoles. Des Plasmas Stellaires le nourrissent, et conservent le statu quo de son état dégénéré [début À FIXER].
+- Ce sont les deux retards récents, Tsukumo puis Riko, qui l'ont fait dégénérer.
+- Ce qu'est l'assimilation, personne ne le sait, sauf Tengen (comme au canon).
+- Toujours vivant, et gardien des barrières des écoles. Après la guerre : cf. Roadmap/Nisha/D5_Etats_2024.md.
 
 ## Scaling
 - Hors classement de combat : non combattant. Sa puissance n'est pas martiale mais structurelle (barrieres, immortalite). A ne pas ranger sur l'echelle des doigts de Sukuna.

@@ -16,7 +16,7 @@ Fiches groupées propres à la Roadmap D5 (décision du worldbuilder, thread D5)
 - Mei Mei et Ui Ui : ont fondé leur dynastie, avec l'ambition d'en faire un nouveau grand clan.
 - Hakari et Kirara : toujours à la tête de leur fight club.
 - Grades en 2024 : Grade Spécial, Satoru, Nisha, Megumi et Yuta. Les jumelles Maki et Mai sont Grade Spécial 1, affiliées aux clans, et peut-être plus fortes que leur tata Nisha.
-- Tengen : plus fléau qu'humain, mais toujours vivant et gardien des barrières des écoles, nourri par des Plasmas Stellaires qui conservent le statu quo de son état dégénéré (cf. Personnages/Tengen.md).
+- Tengen : plus fléau qu'humain, mais toujours vivant et gardien des barrières des écoles, nourri par des Plasmas Stellaires qui conservent le statu quo de son état dégénéré. Depuis la guerre, ils lui sont amenés en mission sérieuse mais discrète, pour ne pas semer le bordel, et sans aucun problème (cf. Personnages/Tengen.md).
 - Doigts de Sukuna : il les a tous mangés et emportés ; il n'en reste aucun.
 
 ## La maisonnée Gojo-Zenin
