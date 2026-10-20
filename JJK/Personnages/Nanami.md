@@ -1,6 +1,6 @@
 # Kento Nanami
 
-- version : W7
+- version : W8
 
 ## Identite
 - Kento Nanami, 1re annee a l'universite de Tokyo en 2006 (promo 2006-2009). Sous-classe de Gojo, Geto et Shoko.
@@ -46,6 +46,7 @@
 | avr-juin 2018 (B3) | Rentree : sa classe de 3e annee (promo 2016-2019) est VIDE - Hakari suspendu, Kirara parti(e) avec lui. Champ libre total : tutelle d'Ino, missions de terrain | prof sans classe ; disponible (-> ere C : mentorat de Yuji) |
 | juil - sept 2018 (C1_4) | Prend Yuji, officiellement mort, en MENTORAT (canon) ; arc Junpei, face-à-face avec Mahito. Dans le cercle du secret de fait | mentor de Yuji |
 | 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : brûlé par Jogo, puis tué par Mahito devant Yuji | MORT |
+| 14 - 28 nov 2018 (D4-D5, coma de Nisha) | Enterré dans la forêt de l'école de Tokyo, à côté du petit sanctuaire de Suguru et de la tombe de Tsukumo (cf. Personnages/Geto.md) | repose à l'école de Tokyo |
 
 ## Notes de frontiere
 - [DIVERGENCE RP] Datation A2_8 : canon = mort de Haibara en septembre 2007 (juste avant le massacre du village ; Geto entre au village le 18 sept, rapport d'incident le 28 sept). Le RP la repousse a FIN 2007 (apres la fenetre de l'Amicale de septembre, edition 2007 non tenue ; cf. WIKI Factions/Tournoi.md). Aligne avec Geto A2_8 et Haibara A2_8.

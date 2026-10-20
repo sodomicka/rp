@@ -1,6 +1,6 @@
 # Roadmap D3 - Le palais
 
-- version : W1
+- version : W2
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre ; la mort de Tsukumo (6 nov), Saitama (10 nov) et les colonies restent HORS POV
 - échelle temporelle : ~quatre jours (8 novembre 2018, matin -> 12 novembre) ; cinq temps joués
@@ -16,7 +16,7 @@ Le piège de Takatsuki retourné contre son auteur. Kenjaku, sûr de lui, convie
 1. **D3_1 - Les deux messages** [8 novembre, matin]. Tokyo n°2, puis Tombeaux de l'Étoile.
    - Nisha sort couverte de sang, riche en points, toujours joueuse : le réseau revient.
    - Deux messages en même temps, Naoya et Gakuganji : le banquet a lieu le soir même. Maki et Mai sont encore en colonie.
-   - HORS POV, ce qu'ils lui apprennent : le 6, Tsukumo a attaqué Kenjaku seule, une fois Nori assez remis pour garder Tengen avec Choso. La dispute de C3_4 l'avait fait réfléchir : c'était à elle de réparer son erreur avec Suguru. Kenjaku l'a tuée sans trop d'efforts et voulait savourer sa mort ; Yukiko a abrégé ses souffrances. Sa confiance monte : les Grades Spéciaux hors clan ne font pas le poids, et Nisha, qui s'est donnée à fond dans la Traque, pourrait être une alliée par son clan (réputée en désaccord politique franc avec son mari, très conservatrice). Le 7, Yukiko, qui a prouvé sa loyauté en « tuant » son frère, joue l'arrogance et lui propose un banquet de l'élite du monde occulte pour discuter de l'après-fusion de l'humanité. Il y voit la confirmation de sa réussite, même avec Nisha et son jumeau conviés ; l'annonce part aux Instances.
+   - HORS POV, ce qu'ils lui apprennent : le 6, Tsukumo a attaqué Kenjaku seule, une fois Nori assez remis pour garder Tengen avec Choso. La dispute de C3_4 l'avait fait réfléchir : c'était à elle de réparer son erreur avec Suguru. Kenjaku l'a tuée sans trop d'efforts et voulait savourer sa mort ; Yukiko a abrégé ses souffrances. Sa confiance monte : les Grades Spéciaux hors clan ne font pas le poids, et Nisha, qui s'est donnée à fond dans la Traque, pourrait être une alliée par son clan (réputée en désaccord politique franc avec son mari, très conservatrice). Le 7, Yukiko, qui a prouvé sa loyauté en « tuant » son frère, joue l'arrogance et lui propose un banquet de l'élite du monde occulte pour discuter de l'après-fusion de l'humanité. Il y voit la confirmation de sa réussite, même avec Nisha et son jumeau conviés, et, au sommet de sa confiance, confie à Yukiko avoir été l'architecte de la pureté Kamo et des sorts innés des clans (pas au banquet : Choso et Nori, non conviés, y sont) ; l'annonce part aux Instances.
    - Nisha rallie Nori, requinqué, et Choso ; départ pour Kyoto.
    - Clôt sur : en route pour le palais.
 2. **D3_2 - Le banquet** [8 novembre, soir]. Palais Kamo, Kyoto.

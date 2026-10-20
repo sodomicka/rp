@@ -1,6 +1,6 @@
 # Kenjaku
 
-- version : W15
+- version : W16
 
 Canon JJK + couche RP (origine Kamo, couple avec Eien). Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -67,7 +67,7 @@ Dans le monde, Kenjaku n'a d'autre apparence que celle de son vaisseau du moment
 | 31 oct 2018 (C2_4, C2_5) | TAKATSUKI : le rideau taillé sur la signature gémellaire se referme sur Nisha et Naoya ; elle l'aperçoit, sous le corps de Geto, à la fermeture. Le double fond (vider Nisha pour Eien) ÉCHOUE. Puis SHIBUYA : scelle Satoru dans la Lisière (~20 h 30 [CANON SUPPOSÉ]), absorbe Mahito, lance la Traque Meurtrière, repart avec Uraume et la Lisière (canon) | Satoru scellé ; Nisha sait qui il porte ; rideau démêlé par Yukiko, qui le perce à jour |
 
 | depuis toujours ; 1 nov 2018 (C3) | [DIVERGENCE RP] Tient dans l'ombre les deux sièges Kamo des Instances et pèse sur les indépendants non claniques ; les sièges Zenin, Gojo et les indépendants proches d'eux lui échappent. Après Shibuya, arrive au palais Kamo avant Yukiko et Nori et prend le trône (hors POV de Nisha, joué côté Yukiko ; détail : chantier S4) | maître du clan Kamo ; Yukiko à son bras droit |
-| 6 - 8 nov 2018 (D3) | Le 6, tue sans trop d'efforts Yuki Tsukumo venue seule, et veut savourer sa mort ; Yukiko abrège ses souffrances. Sa confiance monte : les Grades Spéciaux hors clan ne font pas le poids, Nisha s'est donnée à fond dans la Traque et pourrait être une alliée par son clan. Le 7, accepte le banquet de l'élite que Yukiko lui propose (l'après-fusion de l'humanité), Nisha et son jumeau conviés. Le 8 au soir, enfermé par le rideau taillé à sa signature, qui ne retient que lui ; épuisé par Yukiko, frappé par les jumeaux, harcelé par Choso et Nori ; Nisha lui éclate le crâne des deux poings, sous les cris d'Eien. Les fléaux qui lui restaient meurent avec lui (il avait lâché le gros de sa ménagerie à la fin de Shibuya, canon) | MORT ; droits de maître du jeu passés à Eien (cf. Eien.md) |
+| 6 - 8 nov 2018 (D3) | Le 6, tue sans trop d'efforts Yuki Tsukumo venue seule, et veut savourer sa mort ; Yukiko abrège ses souffrances. Sa confiance monte : les Grades Spéciaux hors clan ne font pas le poids, Nisha s'est donnée à fond dans la Traque et pourrait être une alliée par son clan. Le 7, accepte le banquet de l'élite que Yukiko lui propose (l'après-fusion de l'humanité), Nisha et son jumeau conviés ; au sommet de sa confiance, il lui confie avoir été l'architecte de la pureté Kamo et des sorts innés des clans. Le 8 au soir, enfermé par le rideau taillé à sa signature, qui ne retient que lui ; épuisé par Yukiko, frappé par les jumeaux, harcelé par Choso et Nori ; Nisha lui éclate le crâne des deux poings, sous les cris d'Eien. Les fléaux qui lui restaient meurent avec lui (il avait lâché le gros de sa ménagerie à la fin de Shibuya, canon) | MORT ; droits de maître du jeu passés à Eien (cf. Eien.md) |
 
 ## Notes de frontiere (hors de cette fiche)
 - Evenements specifiques au RP : sceau de Satoru (Roadmap C2), mort de Kenjaku (Roadmap D3, 8 nov 2018) ; puis Parties.

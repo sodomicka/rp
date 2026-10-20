@@ -1,13 +1,13 @@
 # Roadmap D4 - Shinjuku
 
-- version : W1
+- version : W2
 - statut : à venir ; JOUABLE ; la bataille finale du focus Nisha
 - prota / POV : Nisha Zenin, plein cadre ; le front de Satoru reste HORS POV jusqu'à ce qu'elle le rejoigne
 - échelle temporelle : ~seize jours (12 novembre 2018 -> 28 novembre) ; deux jours de veille, une bataille d'une demi-journée, deux semaines d'inconscience ; cinq temps joués
 - borne d'entrée : 12 novembre 2018, retour vers Tokyo ; Megumi devenu Sukuna, disparu avec Tsumiki sous sa garde directe
 - borne de sortie : 28 novembre 2018, Nisha se réveille à l'école de Tokyo, Satoru et Naoya à son chevet -> D5
 - roadmap précédente : cf. WIKI Roadmap/Nisha/Roadmap_D3.md
-- roadmap suivante : cf. WIKI Roadmap/Nisha/Roadmap_D5.md (à écrire ; conclusion, actée le 20 oct 2026)
+- roadmap suivante : cf. WIKI Roadmap/Nisha/Roadmap_D5.md (conclusion)
 
 ## Intention
 La politique est finie, on sauve les enfants. Sukuna convoque la guerre à Shinjuku ; le couple manque de peu de ramener leur fils, puis le réveil de Nozomu rend la bataille désespérée. Nisha paie tout ce qui lui reste pour qu'aucun de ses gamins ne meure, et le couple ressort de la tête de Sukuna avec Megumi.

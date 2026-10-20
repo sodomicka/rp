@@ -1,6 +1,6 @@
 # _Implications
 
-- version : W56
+- version : W57
 
 Journal de conception (passes en spirale). Document de TRAVAIL : jamais fetché en narration.
 
@@ -14,7 +14,7 @@ Format libre : `<entité/lieu> | <arc ou contexte> | <point à vérifier / doute
 
 Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE SB8 y renvoie. À RÉSORBER dans les roadmaps C/D à leur écriture, puis à retirer d'ici.
 
-- Repas claniques | roadmaps | 29 fév 2008 = SEULE édition dramatique restante (quelques semaines après le massacre de Geto fin 2007, un mois avant le diplôme de mars 2008) - placement roadmap À DÉCIDER, rétropropagation aux roadmaps de Nisha.
+- (vide : le dernier fait en attente, le repas du 29 fév 2008, est posé en A2_11, thread D5.)
 
 ## Questions ouvertes - à trancher
 
@@ -30,7 +30,6 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE
 
 - Naobito / Ogi / Jinichi | densification ère B | Roadmap_B3 écrite et Gakuganji/Nitta débloqués ; reste la ligne du 24 déc 2017, sobre et identique aux trois fiches, à densifier (ce que chacun fait cette nuit-là) : rien d'acté, attend le worldbuilder.
 - Roadmaps ères C et D | Passe 2 | À ÉCRIRE. Elles résorbent la section "Faits actés en attente de leur strate" ci-dessus et le chantier Roadmap/_Chantier_Passe2_EresCD.md (item 18 de son registre S8 : trajectoires datées à alimenter).
-- Roadmap D5 | Passe 2 | À ÉCRIRE : la conclusion, actée au thread D4 (20 oct 2026). Point de départ : le réveil de Nisha, 28 nov 2018 (sortie de Roadmap_D4).
 - Laisse sur les Instances x palais Kamo | D3 | TENSION RÉDUITE : le palais tombe le 8 nov, une semaine après le « quelques jours » sans ingérence arraché par Nisha (Roadmap_C3). Reste à dire, si besoin, ce qui tient les Instances entre-temps (Gakuganji acquis, Naoya patriarche, Kamo tenus par Kenjaku, la Traque). Non tranché.
 - SPEC_BIBLE_LORE_WIKI | v9.1 à produire | Le plafond de page de 12k est levé (décision worldbuilder, thread D1) et retiré des instructions Config ; la SPEC v9.0 le porte encore (budgets de page, satellites, plafond d'entrées, Parties/). À retirer à la prochaine version de la SPEC.
 - Hautes Instances Zenin (doyens) | ère D | Représentent le clan auprès des Instances : qui s'adapte au nouveau patriarche et qui se retire = politique de Naoya, à jouer ou à poser plus tard.

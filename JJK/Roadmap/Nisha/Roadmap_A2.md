@@ -1,6 +1,6 @@
 # Roadmap A2 - L'éveil et la chute
 
-- version : W7
+- version : W8
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre
 - échelle temporelle : ~2 ans (1 avr 2006 -> diplôme, hiver 2008) ; journées jouées aux jalons, routines en [SNAPSHOTS] entre eux
@@ -24,7 +24,7 @@ Arc SEMI-PASSIF, le plus verrouillé de la saga : Riko meurt, Toji meurt, Satoru
 9. A2_8 - Les deux gouttes [fin 2007]. Haibara meurt sur une mission au renseignement faux (Nanami arrive trop tard, Satoru termine) ; le lendemain, Geto massacre un village (112 profanes) pour sauver les sœurs Hasaba (cf. Personnages/Geto.md). [DIVERGENCE RP] Massacre canon du 23 sept 2007 repoussé après le mois de septembre. Clôt sur : la découverte.
 10. A2_9 - La confrontation [fin 2007]. Tokyo. Yaga annonce le massacre. Nisha et Shoko, les deux cyniques, croisent Geto au café et ÉCOUTENT ses raisons sans le suivre - beat terminal de l'opposition Nisha/Geto -, puis alertent Satoru, qui refuse d'entendre, le confronte dans la rue et le laisse partir. Geto fonde sa secte à l'insu de ses anciens amis. Clôt sur : la fin de 3e année.
 11. A2_10 - La décision-enfants [2007 -> début 2008]. Domaine, campus. Le trio se soutient. Nisha s'attache aux jumelles : instinct de PROTECTION et d'éducation (pas de maternité biologique). Avec Naoya, le CONCEPT d'éduquer des gosses "sur le droit chemin" ; premier visage, Megumi : le couple ébauche le plan (après le diplôme, maison à Saitama, adoption hors-Zenin) sans connaître Tsumiki. Nisha NÉGOCIE l'annulation de la vente ("Toji est mort, je m'en charge") ; le clan cède par mépris, ignorant le sort de Megumi et ravi qu'une Zenin joue les mères ("même forte, une femme reste pitoyable, bonne à cuisiner et garder les gamins"). Aucune rencontre ni adoption en A2. Clôt sur : le diplôme.
-12. A2_11 - Clôture [hiver 2008]. Le trio est diplômé, Geto absent. Postes : Nisha prof à Kyoto, Satoru prof à Tokyo, Naoya tête du Hei. La doctrine secrète a un relais dans chaque pôle. Clôt sur : fin d'A2 -> ère B.
+12. A2_11 - Clôture [hiver 2008]. Le trio est diplômé, Geto absent. 29 fév 2008 : repas bissextile ; Nisha ne s'y rend pas, Satoru compte plus que la politique à cet instant. Postes : Nisha prof à Kyoto, Satoru prof à Tokyo, Naoya tête du Hei. La doctrine secrète a un relais dans chaque pôle. Clôt sur : fin d'A2 -> ère B.
 
 Fils transversaux, à faire SENTIR entre les jalons :
 - Week-ends au domaine : théâtre du harcèlement avant A2_6, du protectorat après ; l'empathie de Nisha qui sourd lentement.

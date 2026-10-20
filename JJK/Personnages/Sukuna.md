@@ -1,6 +1,6 @@
 # Sukuna
 
-- version : W5
+- version : W6
 
 Canon + [DIVERGENCE RP] (origine Masakado x Michizane, jumeau devore, 200 pourcent, pacte, receptacles). Roi des Fleaux, sommet absolu de l'echelle (20 doigts = 100 pourcent, reference du Power_Scaling). Fiche noyau + Trajectoire datee eres C-D, integree des la genese depuis le chantier Passe 2 (fiche neuve : nait complete, sans prejuger de l'application en bloc du registre S8 aux fichiers existants).
 
@@ -75,6 +75,7 @@ Canon + [DIVERGENCE RP] (origine Masakado x Michizane, jumeau devore, 200 pource
 
 ## Notes de frontiere
 - Quand et comment Sukuna a appris la reincarnation du jumeau (le fait qu'il SAIT est canon) : SANS OBJET (decision worldbuilder, thread D4).
+- Doigts : il les a tous mangés et les emporte avec lui ; aucun ne lui survit (thread D5).
 - Sort final et deroulement du duel d'ere D : TRANCHES (cf. Roadmap/Nisha/Roadmap_D4.md) - tue par le couple dans son territoire intérieur, 14 nov 2018.
 
 ---

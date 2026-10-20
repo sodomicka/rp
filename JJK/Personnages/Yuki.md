@@ -1,6 +1,6 @@
 # Yuki Tsukumo
 
-- version : W7
+- version : W8
 
 ## Identite
 - Yuki Tsukumo, une des QUATRE seules Grade Special de l'univers. Electron libre integral : elle a decroche son grade a l'universite, puis a claque la porte des institutions. Elle refuse les missions de universite d'exorcisme, meprise les autorites (meme degout que Gojo), vagabonde a l'etranger, a moto - reputee aussi puissante qu'irresponsable.
@@ -33,6 +33,7 @@
 - 1 nov 2018 (C3_4) | Chez Tengen, avec le groupe de Yuji (canon) : Nisha et elle manquent de s'égorger sur la chute de Geto ; la graine de mûre (le mûrier rêvé a donné les ronces de la Parade de 2017). | T-« la bonne question » et T-Nisha vs Yuki DÉTONÉS. -> ère D (palais, chantier D4).
 - nov 2018 (D2) | Reste garder Tengen avec Choso (canon), Nori à leurs côtés, en attendant le palais. | -> palais (D3).
 - 6 nov 2018 (D3, hors POV) | Une fois Nori assez remis pour garder Tengen avec Choso, attaque Kenjaku SEULE, au palais Kamo : la dispute avec Nisha (C3_4) l'a fait réfléchir, c'est à elle de réparer son erreur avec Suguru. Kenjaku la tue sans trop d'efforts et veut savourer sa mort ; Yukiko abrège ses souffrances. | MORTE. Conforte Kenjaku dans son arrogance (-> banquet du 8).
+- 14 - 28 nov 2018 (D4-D5, coma de Nisha) | Enterrée dans la forêt de l'école de Tokyo, à côté du petit sanctuaire de Suguru et de la tombe de Nanami (cf. Personnages/Geto.md). | repose à l'école de Tokyo.
 
 ## Notes de frontiere
 - Yuki SURVIT a A2 (presence limitee a A2_7) : trajectoire non-terminale.
