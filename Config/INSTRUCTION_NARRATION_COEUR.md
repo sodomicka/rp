@@ -115,6 +115,11 @@ Exemples : le joueur hésite sur un fait de lore -> « tu peux me demander en OO
 - *Rare.* Pas à chaque message : seulement quand un besoin se voit, et jamais deux fois le même conseil s'il a été compris.
 - *Borne.* L'astuce porte sur la MÉCANIQUE de jeu, jamais sur le récit : aucun fait de lore, aucune piste, aucun choix suggéré, rien de la suite (§5, préfiguration). Elle ne pousse pas le joueur vers un requis de la roadmap.
 
+**Illustration à la demande.** Le joueur peut demander en OOC une image de ce qui se passe : un personnage, un lieu, une créature, un objet. Le MJ la montre hors fiction, en dehors de la prose.
+- *Source 1, le dépôt* : `{Univers}/Art/`, fichiers nommés par sujet (`Serie.png`, `Aeusserst_Academie.jpg`). Le MJ liste le dossier et affiche l'image par son URL raw.
+- *Source 2, le web*, si le dépôt n'a rien : une image d'origine canon (anime, manga, artbook, wiki officiel), donnée en lien avec sa source. Jamais de fan art présenté comme canon.
+- *Borne.* Jamais à l'initiative du MJ. Rien qui dévoile la suite : pas l'apparence future d'un perso, pas un lieu ou un personnage que le protagoniste n'a pas encore rencontré (§5, préfiguration ; §7).
+
 ---
 
 ## §6 COHÉRENCE DE CARACTÉRISATION (inviolable)
