@@ -1,6 +1,6 @@
 # Eien
 
-- version : W16
+- version : W17
 
 OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokinesie). Moitie du couple architecte avec Kenjaku. Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -64,6 +64,7 @@ Tissu relationnel detaille (appellatifs, registres avant/apres 2015, les visites
 | juin 2018 (C1_1) | L'AUTEL. Au contact de Yuji, elle touche l'âme de Sukuna et projette son hôte avec elle sur l'autel intérieur ; elle accuse Nisha d'avoir tué « sa fidèle Yorozu » (T-Yorozu DÉTONÉ). Sukuna s'en moque, rit et la tabasse ; Nisha la corrige à son tour. Le grief fabriqué ÉCHOUE | humiliée par deux hôtes au lieu d'un ; rumine, profil bas, dans le Jardin (cf. Roadmap/Nisha/Roadmap_C1.md) |
 | 31 oct 2018 (C2_4) | TAKATSUKI : Nisha ne fait rien, la fenêtre reste close. Eien lui révèle la source de la signature (le cheveu de 2015) | double fond raté |
 | 1 nov 2018 (C3_4) | Choso, son fils, happé dans le Jardin : devant elle, Nisha lui promet que Kenjaku mourra sous ses yeux impuissants | promesse posée (-> ère D) |
+| fin de la Traque (D4, posé au thread D2) | Kenjaku mort sous ses yeux, ses droits de maître du jeu lui reviennent : elle DÉSAMORCE tout et la Traque s'éteint. Puis plus rien : brisée, forcée à vivre, elle n'est même pas capable de rejoindre Kenjaku dans la mort | veuve inerte, condamnée à survivre dans son hôte |
 
 ## Notes de frontiere (hors de cette fiche)
 - Trahison, complots et denouement (a partir de 2015) : poses en Trajectoire datee a mesure que les arcs sont roadmappes (B2-B3 faits), puis Parties.
