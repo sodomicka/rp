@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Power-scaling
 
-- version : W14
+- version : W15
 
 ## Unite
 - Unite de puissance de l'univers = le doigt de Sukuna.
@@ -126,7 +126,7 @@ Le pool gemellaire des jumelles d'Ogi se repartit le long d'un curseur a somme c
 
 ## Plafond mondial
 Gojo post-Toji (23 doigts / 139 %) n'est depasse, en 1 contre 1, que par trois etres, dans des conditions particulieres :
-- Sukuna dans Megumi a 20 doigts sur 20 (receptacle parfait).
+- Sukuna dans Megumi a 20 doigts sur 20 (receptacle parfait) : 27 sur l'echelle, symbiose parasitique [DIVERGENCE RP] (cf. reperes). Meme classe theorique : Eien dans Nisha, si elle l'avait emporte. Kenjaku dans Suguru (22) reste SOUS ce plafond.
 - Yuta dans le corps de Satoru adulte.
 - Yuji adulte.
 Note : en DUO, des combinaisons depassent 23 (Maki+Mai, Satoru+Nisha a apogee ; cf. Synergie et symbiose) - mais le plafond mondial vise le 1 contre 1.
