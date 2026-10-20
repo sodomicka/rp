@@ -47,7 +47,7 @@ Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir
 | 1 nov 2018 (C3_1, C3_4) | Soignée au campement de Shoko, aidée par Nisha. Chez Tengen à midi (canon) | brûlée, debout |
 | 1 nov 2018 (D1) | Portee jusqu'au domaine dans les bras de Nisha (elle n'apprecie pas). Fonce dans la melee, plus que jamais decidee a se battre du meme cote que sa soeur ; les jumelles tuent leur pere. Le curseur bascule a ~10/90 : elle ressemble a Toji en energie occulte, presque indetectable | 16 doigts (un de plus que Mai : l'egalite structurelle s'arrete a 30/70) ; repart a Tokyo avec Nisha et Mai |
 | nov 2018 (D2) | Sakurajima avec Mai, seules (hors POV) [DIVERGENCE RP vs canon : Maki y va avec Nori] ; tueuses, ramassent des points pour la neutralité des sortants | - |
-| 10 nov 2018 (D3, hors POV) | Rentrée à Saitama une fois la Traque finie : témoin impuissante, Megumi se vend à Sukuna face à sa « tata » (chantier D5) | - |
+| 10 nov 2018 (D3, hors POV) | Rentrée à Saitama une fois la Traque finie : Megumi se vend à Sukuna face à sa « tata » (chantier D5). Elle attaque Sukuna, qui la stoppe sans répliquer, satisfait de la voir douter de sa puissance ; elle en sort intacte. Appelle Nisha : Tsumiki et Megumi sont partis, elle file au domaine chercher Mai et Naoya pour les récupérer. Nisha refuse et annonce un conseil de guerre avec les deux écoles | intacte ; doute de sa puissance |
 
 ## Notes de frontiere (hors noyau)
 - Apparence : elle CHANGE post-Shibuya (ere C) - detail hors de cette fiche, -> roadmap ere C.

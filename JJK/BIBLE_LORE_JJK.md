@@ -234,7 +234,7 @@ SB8 porte, par mystère ou fil, la définition, le statut et un renvoi. Les dér
 - Vente conditionnelle de Megumi - A2_4 | RÉSOLUE en A2_10 (adoption hors-Zenin 2008) | Roadmap A2.
 - Coup d'État du clan Zenin - 2006 (A2_6) | DÉTONÉ D1 (1er nov 2018, après-midi), Naoya sur le trône | Roadmap D1.
 - Amicale non tenue en A2 - A2 | aucune édition jouée, massacre de Geto repoussé à fin 2007 | Roadmap A2.
-- T-Assurance-Tsumiki - 10 nov 2018 (Serment de Saitama) | ARMÉ ; condition : la lettre peut forcer Sukuna à protéger Tsumiki en plein combat | chantier (D7).
+- T-Assurance-Tsumiki - 10 nov 2018 (Serment de Saitama) | ARMÉ ; Tsumiki part avec Sukuna, sous sa garde directe ; condition : la lettre peut forcer Sukuna à protéger Tsumiki en plein combat | chantier (D7).
 - T-Marque-Nozomu - Genroku (marque remise à Uraume, cf. SB7) | ARMÉ ; condition : bataille finale, Sukuna refuse, Uraume ingère la marque | journal _Implications, roadmaps D à écrire.
 
 ## SB9 Index - routage

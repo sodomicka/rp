@@ -67,7 +67,7 @@ Fiches propres : cf. Personnages/Nisha.md, Megumi.md, Satoru.md, Maki.md. Ici, s
 | juin 2018 (C1_1) | T-Okaruto DÉTONE : le club d'occultisme de la fac de Yuji, fan du blog, descelle le doigt de Sukuna PARCE QUE ses articles mettent en garde contre les sceaux - des jeunes idiots qui vont contre la consigne. Elle l'apprend par Megumi | son blog a réveillé le Roi des Fléaux, sans le vouloir |
 | juil - sept 2018 (C1_4) | Yuji, mort officiellement, vit caché sous son toit à Saitama : le lecteur rencontre l'autrice | dans le cercle du secret Yuji |
 | 1 nov 2018 (C3_4) | Chez Tengen à midi, avec toute la famille, qui cherche comment récupérer son père | - |
-| 10 nov 2018 (D3, hors POV) | Saitama : l'otage. Sukuna la menace sans pouvoir l'égratigner ; Megumi cède son corps à condition qu'il ne la tue jamais (Serment de Saitama, chantier D5-D7). DEUX FOIS RANÇON : 2015 et 2018 | protégée par la lettre ; frère perdu |
+| 10 nov 2018 (D3, hors POV) | Saitama : l'otage. Sukuna la menace sans pouvoir l'égratigner ; Megumi cède son corps à condition qu'il ne la tue jamais (Serment de Saitama, chantier D5-D7). DEUX FOIS RANÇON : 2015 et 2018. Part avec Sukuna, sous sa garde directe | protégée par la lettre ; frère perdu ; aux mains de Sukuna |
 
 ## Graines plantees en B1 (a NE PAS detoner avant l'ere prevue)
 - T-Tsumiki / Yorozu : plantee 2008, RESOLUE fin 2015 (cf. Trajectoire datee) : Yorozu debusquee et tuee sans avoir jamais pris le dessus. Pas de coma. Detail -> Roadmap_B3 (B3_1) et SB8.
