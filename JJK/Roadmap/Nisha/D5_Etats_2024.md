@@ -23,7 +23,7 @@ Fiches groupées propres à la Roadmap D5 (décision du worldbuilder, thread D5)
 ### Kento Gojo-Zenin
 - Fils de Nisha et Satoru, conçu en janvier 2019 (le 30, anniversaire de Nisha), né le 31 octobre 2019 : la date de Shibuya devient un anniversaire. 4 ans au 29 fév 2024.
 - Physique, à 4 ans : cheveux blonds en bataille, mi-longs, des mèches qui lui tombent sur les yeux ; yeux bleus : les Six Yeux, d'un bleu irréel depuis l'éveil de son sort à 4 ans (règle des yeux, cf. Factions/Clan_Gojo.md) ; sourire en coin, malicieux. Tenue : veste noire courte à col montant et boutons métalliques, chemise blanche à col officier, ceinture noire, pantalon noir retroussé, bottines noires.
-- Porte la Chronokinésie : mutation à son tour de ce que porte Nisha, il obtient par hasard le sort le plus Zenin qui soit. Il porte aussi les Six Yeux de son père [DIVERGENCE RP vs canon : un seul porteur des Six Yeux à la fois] : le temps des Zenin et la vue des Gojo dans le même enfant.
+- Porte la Chronokinésie : mutation à son tour de ce que porte Nisha, il obtient par hasard le sort le plus Zenin qui soit. Il porte aussi les Six Yeux de son père [DIVERGENCE RP vs canon : un seul porteur des Six Yeux à la fois].
 
 ## Les enfants partis du nid
 ### Megumi
