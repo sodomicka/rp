@@ -102,6 +102,10 @@ Les passes :
   Règle (Passe 2 uniquement) : on ne diffère NI la création d'une fiche absente, NI l'intégration d'un enrichissement.
 
 - **Clôture de Passe 2 — RELECTURE CROISÉE** (audit de conflits inter-arcs). Relire l'ensemble des fiches pour la cohérence croisée que la boucle ne peut pas attraper seule. Signaler les conflits, le worldbuilder tranche.
+  **Gravité des incohérences.** Chaque incohérence relevée à la relecture croisée porte sa catégorie :
+  - *Majeure* : casse la trame (un arc, la chronologie, un requis ou un interdit entre roadmaps). Bloquante : tranchée avant de poursuivre.
+  - *Moyenne* : contradiction entre pages sans effet sur la trame. Tranchée avant la fin de la passe en cours.
+  - *Mineure* : écart de granularité ou de formulation. Listée au journal d'implications, soldée à la prochaine relivraison de la page.
 - **Passe 3 — Mise en jeu.** SETUP, puis CODEX V1 (MODE SETUP et MODE OUTIL — CODEX V1). Pas de fiche d'arc : le détail de scène n'est pas figé au build, il se met en scène en jeu à partir de la roadmap et des fiches.
 
 JOURNAL D'IMPLICATIONS — bloc-notes léger : `{Univers}/_Implications.md`. Liste de ce qui RESTE À FAIRE, rien d'autre : un point soldé est SUPPRIMÉ, jamais archivé (l'historique vit dans les pages livrées) ; ni historique de builds, ni statut narratif, ni règles permanentes (une règle a un domicile : sa page, la BIBLE ou le SETUP). Rubriques (doutes non tranchés, points à revérifier à la clôture, questions en attente, DETTES DE BUILD à solder, À VERSER AU CODEX V1 — l'ironie dramatique notée pendant le build). Document de TRAVAIL, jamais fetché en narration. Fin : FIN_WIKI__IMPLICATIONS.
