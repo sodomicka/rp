@@ -1,10 +1,11 @@
 # Traque Meurtrière (Culling Game) - leçon de Tengen
 
-- version : W1
+- version : W2
 
 Page = leçon (dossier Pedagogie/), hors cursus des universités : ce que Tengen expose aux Tombeaux de l'Étoile le 1er nov 2018 à midi (C3_4), devant Nisha, Tsumiki, Nori et le groupe du canon. Le MJ s'y tient mot pour mot : rien n'est à inventer. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. Les sections après les huit règles sont à usage MJ : Tengen ne les connaît pas encore.
 
 ## Ce que Tengen expose : la nature du jeu
+- Sur lui-même, comme au canon : sans fusion depuis 2006, il est désormais plus fléau qu'humain (cf. Personnages/Tengen.md).
 - Les règles sont des SERMENTS AUTOMATISÉS : tuer le maître du jeu n'arrête pas la Traque.
 - Colonies : zones fermées par une barrière, coupées du monde (pas de réseau). L'entrant est téléporté vers l'un de neuf points prédéfinis, guettés par des joueurs.
 - [DIVERGENCE RP] Une colonie réduite à un survivant abaisse sa barrière ; le survivant reste joueur et doit gagner ses points dans une autre colonie.

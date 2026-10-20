@@ -133,7 +133,7 @@ Pendant son coma, Suguru est enterré dans un petit sanctuaire de la forêt de l
 13. Kenjaku meurt le 8 novembre 2018 au palais Kamo, de la main de Nisha, et la Traque s'éteint avec lui. Yuki Tsukumo meurt seule contre lui deux jours plus tôt, et Satoru sort de la Lisière le 11.
 14. La bataille finale a lieu à Shinjuku le 14 novembre 2018, convoquée par Sukuna, et non le 24 décembre. Satoru survit, entier, toujours numéro 1 ; Sukuna est tué par le couple dans son propre territoire intérieur, et Megumi est sauvé par ses parents, non par Yuji.
 15. Haruta Shigemo survit à Shibuya et meurt de la main de Nisha dans la Traque. Takaba n'existe pas, et Higuruma ne va pas à la guerre.
-16. Tsumiki, Choso, Yaga et Gojo vivent ; Suguru est enterré à l'école de Tokyo. Nisha et Satoru ont un fils, Kento, et Mai épouse Noritoshi Kamo.
+16. Tsumiki, Choso, Yaga, Gojo et Tengen vivent ; la secte de Suguru se dissout après sa mort, et Satoru et Shoko l'enterrent à l'école de Tokyo. Nisha et Satoru ont un fils, Kento, et Mai épouse Noritoshi Kamo.
 
 ---
 

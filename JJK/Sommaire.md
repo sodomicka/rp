@@ -49,12 +49,12 @@ Description : fiches personnages du monde.
 - Yasashiku.md (W2) - fiche noyau (OC, niveau fandom) : concubine de Noriaki, mère de Noritoshi ; "Douceur" = nom de concubine, vrai nom inconnu ; ATTENTION MJ : l'essentiel est un savoir caché, en scène il n'existe que la douceur ; état au 1 avr 2005.
 - Chojuro.md (W3) - membre du Hei, antithèse de Jinichi, Bras de Terre ; †1er nov 2018 (coup d'État).
 - Nobuaki.md (W3) - capitaine de la Kukuru (sans sort inné), épéiste ; †1er nov 2018 (coup d'État).
-- Maki.md (W18) - fille d'Ogi, jumelle de Mai, Restriction Céleste physique ; trajectoire A2-B3 (refuge Saitama 2014, élève de Satoru à Tokyo 2017 ; coup d'État D1, 10/90, quasi indétectable).
+- Maki.md (W19) - fille d'Ogi, jumelle de Mai, Restriction Céleste physique ; trajectoire A2-B3 (refuge Saitama 2014, élève de Satoru à Tokyo 2017 ; coup d'État D1, 10/90, quasi indétectable).
 - Mai.md (W15) - fille d'Ogi, jumelle de Maki, Construction, unité Akashi ; trajectoire A2-B3 (leçon de Nisha 2015 : exploite 8 ; élève d'Utahime 2017 puis de Nisha 2018 ; acculée au coup d'État, 10/90, part à Tokyo).
 - Toji.md (W8) - Toji Fushiguro, né Zenin, Tueur d'Exorcistes, Restriction Céleste, père de Megumi.
 - Satoru.md (W15) - Satoru Gojo, guerrier parfait du clan Gojo, Infini + Six Yeux, rival de Nisha, chef de fait ; domaine : Sphère de l'Espace Infini (VO Unlimited Void) ; statut découvert à l'ÉVEIL DE SON SORT à 4 ans (1990-1991, règle des yeux) et non à la naissance ; symétrie-vaccin en vérité d'usage MJ ; filtre des yeux (lunettes rondes, bandages, bandeau du 7 déc) : noyau + trajectoire datée (A1) -> Satoru_chrono_B.md.
 - Satoru_chrono_B.md (W10) - trajectoire datée de Satoru, ère B (2008-2018) : entrées B1-B3 (prof à Tokyo, famille de Saitama, mort de Geto de ses mains, effondrement et relève).
-- Tengen.md (W5) - Tengen, 4e esprit vengeur resté de chair, pilier immortel des barrières, immortalité + Plasma Stellaire, lien ancien avec Kenjaku (Merger), nœud de 2006.
+- Tengen.md (W6) - Tengen, 4e esprit vengeur resté de chair, pilier immortel des barrières, immortalité + Plasma Stellaire, lien ancien avec Kenjaku (Merger), nœud de 2006.
 - Geto.md (W12) - Suguru Geto, prodige hors-clan de la promo Tokyo 2005-2008, Manipulation des Esprits Maudits, l'un des deux plus forts avec Gojo, négatif moral de Nisha : noyau + trajectoire datée (A1 + A2 : chantier de Yaga, escorte de Riko, bascule de conviction, les deux gouttes, défection fin 2007 ; sépulture nov 2018 au sanctuaire de la forêt de l'école de Tokyo, Nanami et Tsukumo à côté) + postérité pédagogique (prévention 2008-2017, histoire récente dès 2018).
 - Shoko.md (W11) - Shoko Ieiri, médecin de la promo des quatre prodiges (Tokyo), RCT appliqué à autrui, Semi-Grade 1 à vie : noyau + trajectoire datée (relève de Satoru 2018).
 - Yaga.md (W8) - Masamichi Yaga, professeur à Tokyo (principal en 2009+, prof de 3e année 2009-2013), manipulation de cadavres maudits, progressiste actif, Grade 1 : noyau + trajectoire datée (A1).
@@ -78,7 +78,7 @@ Description : fiches personnages du monde.
 - Mechamaru.md (W9) - Kokichi Muta (Ultimate Mechamaru), Restriction Céleste inverse, pilote son robot à distance ; promo Kyoto 2017-2020 ; lien de confiance singulier avec Nisha ; 6 doigts via robot ; taupe, appel à l'aide et guérison par Mahito (oct 2018) : survit, corps sain, Grade Spécial potentiel.
 - Arata_Nitta.md (W5) - Arata Nitta, petit frère d'Akari [DIVERGENCE RP vs canon : aîné au canon], élève de Kyoto (promo 2018-2021) ; hors-axe combat.
 - Toge.md (W7) - Toge Inumaki, Paroles Maudites, promo Tokyo 2017-2020 (sous Satoru) ; 5 doigts.
-- Yuta.md (W10) - Yuta Okkotsu (Rika intégrée à la fiche), réserve colossale + Copie ; miroir INVERSE de Nisha ; copie la Chronokinésie de Nisha (début 2018) ; part avec Miguel post-JJK0 ; 12 doigts fin JJK0 -> 15 à Shibuya.
+- Yuta.md (W11) - Yuta Okkotsu (Rika intégrée à la fiche), réserve colossale + Copie ; miroir INVERSE de Nisha ; copie la Chronokinésie de Nisha (début 2018) ; part avec Miguel post-JJK0 ; 12 doigts fin JJK0 -> 15 à Shibuya.
 - Hakari.md (W13) - Kinji Hakari, promo Tokyo 2016-2019 (sous Kusakabe), Idle Death Gamble (domaine manifesté dès 2016) ; clash avec un conservateur au front de Tokyo de la Parade -> suspendu début 2018, Gachinko Fight Club ; 8 doigts + Jackpot hors échelle.
 - Yuji.md (W6) - Yuji Itadori, réceptacle de Sukuna (né le 20 mars 2000), promo Tokyo 2018-2021 sous Satoru ; sursis de Nisha, mort simulée, Enchain ; 5 doigts propres ; Shibuya (15 doigts, sursis tombé, non exécuté).
 - Nobara.md (W4) - Nobara Kugisaki (née le 7 août 1999), promo Tokyo 2018-2021 sous Satoru ; Poupée de Paille, Résonance ; 4 doigts.
@@ -88,7 +88,7 @@ Description : fiches personnages du monde.
 - Kashimo.md (W3) - Hajime Kashimo, exorciste d'Edo réincarné, joueur de la Traque ; énergie électrique, Bête Mythique Ambre (usage unique) ; 17 doigts ; 9e règle de la Traque (2 nov) ; tué par Nisha à Tokyo n°2 (D2).
 - Kogane.md (W1) - deux Kogane de la Traque. Celui de Nisha, shikigami de la Traque préprogrammé pour Eien : Kogane classique blanc et gris, horloge fonctionnelle pour visage, queue en sablier ; l'appelle « maîtresse du temps », raffole de la violence ; n'apparaît qu'à la parole, aux points et aux annonces ; du 2 au 8 nov 2018 (D2). Et celui de Kenjaku (canon), qui annonce la fin de la Traque.
 - Kirara.md (W10) - Kirara Hoshi, promo Tokyo 2016-2019 (sous Kusakabe), Love Rendezvous ; s'éloigne de l'université avec Hakari ; 4 doigts.
-- Sukuna.md (W5) - Ryomen Sukuna, Roi des Fléaux (20 doigts = étalon) : origine (scission du tronc Masakado x Michizane par pur hasard, jumeau dévoré in utero = 200 pour cent), pacte (dormance contre l'apogée, mobile divertissement), jumeau réincarné en Jin Itadori, réceptacles (Yuji par filiation, Megumi visé pour les Dix Ombres), règle des signatures (posée ici), trajectoire datée ères C-D (mort à Shinjuku, D4).
+- Sukuna.md (W6) - Ryomen Sukuna, Roi des Fléaux (20 doigts = étalon) : origine (scission du tronc Masakado x Michizane par pur hasard, jumeau dévoré in utero = 200 pour cent), pacte (dormance contre l'apogée, mobile divertissement), jumeau réincarné en Jin Itadori, réceptacles (Yuji par filiation, Megumi visé pour les Dix Ombres), règle des signatures (posée ici), trajectoire datée ères C-D (mort à Shinjuku, D4).
 - Nozomu.md (W3) - OC, fléau de Grade Spécial : Nozomu Gojo, enfant de Genroku, guerrier parfait révélé à l'éveil (4 ans) et mort le jour même, revenu en esprit vengeur ; scellé par Kenjaku dans une MARQUE (double clé, remise à Uraume) ; kit (Infini en armure, rayons d'énergie pure, déplacement niveau Naoya et attaque niveau Nisha, 20 doigts, six yeux épars, six bras), domaine Flagellation du Bourreau ; forme hybride au réveil dans Uraume ; réveil et mort (D4) ; aucune romantisation (règle d'écriture permanente).
 
 ### Lieux/
@@ -115,7 +115,7 @@ Fiches de cours (niveau classique en plein, puis deltas avancé clanique et omni
 - Energie_Territoires_2eAnnee.md (W2) - S1 techniques avancées, S2 territoires.
 
 Leçon hors cursus (à usage MJ, rien à inventer) :
-- Traque_Meurtriere.md (W1) - leçon de Tengen aux Tombeaux (1er nov 2018, C3_4) : nature du jeu et huit règles de Kenjaku ; à usage MJ : règles 9 (Kashimo), 10 et 11 (Nisha), 12 (neutralité), les Kogane, la fin du jeu le 8 nov.
+- Traque_Meurtriere.md (W2) - leçon de Tengen aux Tombeaux (1er nov 2018, C3_4) : nature du jeu et huit règles de Kenjaku ; à usage MJ : règles 9 (Kashimo), 10 et 11 (Nisha), 12 (neutralité), les Kogane, la fin du jeu le 8 nov.
 
 Enseignement personnalisé (une page par promotion à casting fiché ; un chantier par élève, non noté ; section "ce que le professeur n'a pas vu" à usage MJ) :
 - Perso_Tokyo_2005-2008.md (W3) - promo des quatre prodiges (Nisha, Satoru, Geto, Shoko), Yaga sur les trois ans.
@@ -131,13 +131,13 @@ Enseignement personnalisé (une page par promotion à casting fiché ; un chanti
 Description : itinéraires par arc de Nisha, dans l'ordre de la saga. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).
 - Roadmap_A0.md (W8) - Prologue (narré) : naissance des jumeaux 30 jan 1987 -> seuil du conseil Zenin 31 mars 2005 ; ~18 ans en vignettes.
 - Roadmap_A1.md (W7) - Le Transfert : seuil du conseil Zenin 31 mars 2005 -> veille de la rentrée 2006 ; 1 an, six journées jouées.
-- Roadmap_A2.md (W7) - L'éveil et la chute : rentrée de 2e année 1 avr 2006 -> diplôme hiver 2008 ; ~2 ans, journées jouées aux jalons.
+- Roadmap_A2.md (W8) - L'éveil et la chute : rentrée de 2e année 1 avr 2006 -> diplôme hiver 2008 ; ~2 ans, journées jouées aux jalons.
 - Roadmap_B1.md (W5) - La Fondation : lendemain du diplôme, hiver 2008 -> resto à quatre, mars 2013 ; ~5 ans, une année par jalon.
 - Roadmap_B2.md (W7) - Le Trauma : rentrée sans élève, avr 2013 -> post-avortement, automne 2015 ; ~2 ans et demi, 2015 ramassé.
 - Roadmap_B3.md (W4) - Guérison et autre trauma : Yorozu, fin 2015 -> veille de la 1re mission solo de Megumi, juin 2018 ; ~2 ans et demi, seuil de l'ère C.
 - Roadmap_C1.md (W2) - Le réceptacle : 1re mission solo de Megumi, juin 2018 -> lendemain de l'Amicale de Tokyo, sept 2018 ; ~3 mois, journées jouées aux temps forts.
 - Roadmap_C2.md (W3) - Takatsuki : lendemain de l'Amicale, sept 2018 -> départ de Takatsuki pour Shibuya, nuit du 31 oct 2018 ; ~6 semaines, journées jouées aux temps forts.
-- Roadmap_C3.md (W3) - Les conséquences : nuit du 31 oct 2018, Nisha arrive à Shibuya -> fin de la réunion chez Tengen, 1er nov 2018 midi ; ~14 heures, quatre temps joués.
+- Roadmap_C3.md (W4) - Les conséquences : nuit du 31 oct 2018, Nisha arrive à Shibuya -> fin de la réunion chez Tengen, 1er nov 2018 midi ; ~14 heures, quatre temps joués.
 - Roadmap_D1.md (W2) - Piétiner les roseaux : départ de chez Tengen, 1er nov 2018 début d'après-midi -> Nisha repart pour Tokyo avec les jumelles ; quelques heures, quatre temps joués (coup d'État Zenin).
 - Roadmap_D2.md (W3) - La Traque : répartition chez Tengen, 1er nov 2018 au soir -> 8 nov au matin, Nisha seule survivante de Tokyo n°2 ; ~une semaine, cinq temps joués (Hakari, Tokyo n°2 avec Panda, Kashimo, la neutralité au loyer) ; Haruta Shigemo tué par Nisha, ses 100 points paient la 10e règle (transfert à la mort) ; règles 9 à 12 numérotées.
 - Roadmap_D3.md (W2) - Le palais : 8 nov 2018 au matin -> 12 nov ; ~quatre jours, cinq temps joués (les deux messages, le banquet et la mort de Kenjaku, le trône de Nori, la Lisière et la sortie de Satoru, le retour) ; Saitama hors POV.

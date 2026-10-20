@@ -14,7 +14,7 @@ Format libre : `<entité/lieu> | <arc ou contexte> | <point à vérifier / doute
 
 Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE SB8 y renvoie. À RÉSORBER dans les roadmaps C/D à leur écriture, puis à retirer d'ici.
 
-- Repas claniques | roadmaps | 2012 et 2016 posés en ellipse (B1_5, B3_2, thread D5) ; 29 fév 2008 = SEULE édition dramatique restante (quelques semaines après le massacre de Geto fin 2007, un mois avant le diplôme de mars 2008) - placement roadmap À DÉCIDER, rétropropagation aux roadmaps de Nisha.
+- (vide : le dernier fait en attente, le repas du 29 fév 2008, est posé en A2_11, thread D5.)
 
 ## Questions ouvertes - à trancher
 

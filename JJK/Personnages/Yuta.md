@@ -1,6 +1,6 @@
 # Yuta Okkotsu
 
-- version : W10
+- version : W11
 
 Fiche noyau (canon + RP), entite entrant en scene en cours d'annee 2017 (B3) comme eleve de l'universite de Tokyo. Rika integree a cette fiche. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -48,10 +48,11 @@ Fiches propres : cf. Personnages/Satoru.md, Nisha.md. Ici, seul le rapport a Yut
 | Date/ere | Evenement | Delta d'etat |
 |---|---|---|
 | 2017 (B3_3) | Arrive a Tokyo (Satoru). Ne controle pas Rika. Chantier perso : ARRETER DE FUIR RIKA - sortir l'energie de Yuta, pas celle du fleau (canon JJK0 : un sabre dans les mains, des missions avec la promo, se battre AVANT que Rika n'intervienne, jusqu'a ce que la reserve soit la sienne et Rika un appoint). Nisha vient l'ETUDIER en fin de journee (miroir inverse Yuta/Rika <-> Nisha/Eien) - elle observe, n'enseigne pas encore (cf. Pedagogie/Perso_Tokyo_2017-2020.md) | entree en scene ; chantier perso : se battre avant Rika ; sous l'oeil de l'architecte |
+| 2017 (B3_3) | En couple avec Maki, à Tokyo | - |
 | sept 2017 (B3_3) | Amicale 2017 : Tokyo GAGNE grâce à lui et accueillera l'édition 2018 | premier fait d'armes public |
 | 24 dec 2017 (B3_4) | Nuit des Cent Fleaux / JJK0 (cote Tokyo, hors-POV de Nisha) : il comprend son potentiel ; Geto tue par Satoru. | ~12 doigts ; tournant |
 | debut 2018 (B3_5) | POST-mort de Geto : Nisha, desormais CERTAINE que Rika n'est pas une vraie menace, lui enseigne ses sorts temporels -> il COPIE la Chronokinesie, echoue la Chronostase (metabolisme, cout calorique). | acquiert la Chronokinesie copiee |
-| apres JJK0 (fin B3) | Part a l'etranger (Afrique) avec Miguel, en attendant Shibuya. | etat de sortie B3 : absent du Japon |
+| apres JJK0 (fin B3) | Part a l'etranger (Afrique) avec Miguel, en attendant Shibuya. Écrit à Maki depuis le Kenya. | etat de sortie B3 : absent du Japon |
 | aube 1 nov 2018 (C3_2, C3_4) | Rentré d'Afrique en éclair (Chronokinésie copiée) sur ordre des Instances, désigné bourreau de Yuji ; son bang supersonique alerte Nisha. Il lui rapporte les décisions des Instances, ils cherchent Yuji ensemble ; elle l'en dissuade (les Instances auront de quoi se mettre sous la dent, d'autres menaces pressent). Chez Tengen à midi (canon) | de retour au Japon |
 | nov 2018 (D2) | Colonie de Sendai (canon), seul ; tueur, ramasse des points pour la neutralité des sortants | - |
 | 14 nov 2018 (D4) | Shinjuku, front Sukuna, au contact (Rika, Copie, Chronokinésie copiée) | - |
