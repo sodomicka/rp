@@ -27,7 +27,7 @@
   - Lieux - sièges des clans (Chiryu no Kyuden - Kamo ; Juei no Ryochi - Zenin) (2 pages)
   - Power_Scaling - système de puissance, repères chiffrés en satellite (2 pages)
   - Pedagogie - carte des enseignements (1), fiches de cours par discipline et par année (7), enseignement personnalisé par promotion (8) (16 pages)
-  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2, C3, D1, D2, D3), Yukiko/ (A0, A1) (14 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B) et _Chantier_Passe2_EresCD.md (document de travail), sources de build jamais fetchées en narration.
+  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2, C3, D1, D2, D3), Yukiko/ (A0, A1) (14 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B), _Chantier_Passe2_EresCD.md et Yukiko/chantier_yukiko.md (documents de travail), sources de build jamais fetchées en narration.
   - Resume.md - résumé autosuffisant de l'univers jusqu'au palais Kamo (novembre 2018 : fin de l'ère C, coup d'État Zenin, Traque côté Nisha, mort de Kenjaku), NON indexé au Sommaire, jamais fetché en narration (1 page)
   - _Implications.md - journal de conception, jamais fetché en narration (1 fichier de travail)
 - Total indexé au Sommaire (W50) : 105 pages.

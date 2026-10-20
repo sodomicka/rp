@@ -1,6 +1,6 @@
 # Roadmap A1 - La Vipère à l'université
 
-- version : W3
+- version : W4
 - statut : à venir ; JOUABLE
 - prota / POV : Yukiko Kamo, plein cadre
 - échelle temporelle : 1 an (1 avr 2005 -> 31 mars 2006) ; quatre journées jouées (1 avr, J1 et J2 de l'Amicale, 1 jan), deux vignettes (début été, novembre), le reste en [SNAPSHOTS]
@@ -77,7 +77,7 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 
 ## Notes de frontière
 - État de sortie (31 mars 2006) : couple Yukiko/Utahime formé, chambre partagée, conjointe princière posée ; Utahime au périmètre Nori (T-Fubuki exclu) ; équipe de choc rodée ; Instances informées par le rapport de Gakuganji ; dette de septembre au chaud ; plateau fermé pour Satoru ; Lucky 7 autonome chez Nori.
-- A2 (Yukiko) : trame à REDÉFINIR au préalable - le slowburn, prévu comme colonne vertébrale d'A2, s'est joué en A1 (cf. _Implications).
+- A2 (Yukiko) : trame à REDÉFINIR au préalable - le slowburn, prévu comme colonne vertébrale d'A2, s'est joué en A1 (cf. Roadmap/Yukiko/chantier_yukiko.md).
 
 ---
 FIN_WIKI_ROADMAP_YUKIKO_A1

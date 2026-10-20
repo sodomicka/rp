@@ -72,7 +72,7 @@ Dans le monde, Kenjaku n'a d'autre apparence que celle de son vaisseau du moment
 ## Notes de frontiere (hors de cette fiche)
 - Evenements specifiques au RP : sceau de Satoru (Roadmap C2), mort de Kenjaku (Roadmap D3, 8 nov 2018) ; puis Parties.
 - Continuite vers le futur culte qu'il reprendra une fois le corps de Geto investi : non datee a ce stade -> roadmap.
-- Yukiko face a la Lisiere (le pari perdu ou gagne) : ere C -> build ere C, cf. _Implications. (L'operation de 2006 via le Culte Astral, jadis annoncee ici, est desormais portee en Trajectoire datee.)
+- Yukiko face a la Lisiere (le pari perdu ou gagne) : ere C -> build ere C, cf. Roadmap/Yukiko/chantier_yukiko.md. (L'operation de 2006 via le Culte Astral, jadis annoncee ici, est desormais portee en Trajectoire datee.)
 - Descellement de Nozomu en 2018 (timing, mise en scene) : -> roadmap ere C.
 - Le cheveu de 2015 n'est raconté nulle part en scène : c'est Eien qui en révèle l'origine à Nisha, enfermées à Takatsuki (31 oct 2018 ; cf. Roadmap/Nisha/Roadmap_C2.md, C2_4).
 
