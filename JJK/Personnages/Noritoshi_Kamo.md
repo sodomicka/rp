@@ -1,6 +1,6 @@
 # Noritoshi Kamo
 
-- version : W15
+- version : W16
 
 Fiche noyau (canon + RP), entité entrant en scène en B3 (2017) comme élève de 2e année de Nisha à Kyoto. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -84,6 +84,7 @@ Fiches propres : cf. Personnages/Yukiko.md, Nisha.md, Kenjaku.md ; Factions/Clan
 | nuit 31 oct - 1 nov 2018 (C3) | Au palais (hors POV de Nisha, joué côté Yukiko) : poignardé par sa sœur, exilé, le numéro de Naoya glissé dans sa poche. Naoya le ramène en secret au domaine Zenin, l'y fait soigner et le CACHE (un héritier d'un clan rival mourant serait du pain béni pour Ogi et Jinichi), puis l'amène à Tokyo, où Shoko le soigne. Chez Tengen, raconte le palais ; Nisha lui explique que sa sœur s'est sacrifiée pour qu'il survive | blessé, exilé ; sait que sa sœur prépare une observation |
 | nov 2018 (D2) | Aux Tombeaux, avec Choso et Tsukumo qui gardent Tengen : soigné, il se remet surtout de la perte de son énergie occulte (vidé à 90 pour cent par sa sœur) ; prend le temps de discuter avec Choso avant le palais | réserve à reconstituer |
 | 8 - 11 nov 2018 (D3) | Requinqué, part au palais avec Nisha et Choso ; harcèle Kenjaku de tirs à distance. Pardon et compréhension avec Yukiko. Accepte le trône avec dignité, sans attendre son diplôme ; Yukiko garde la chaise du bras droit. Les 9-11, pour une fois, c'est lui qui prend soin d'elle pendant qu'elle ouvre la Lisière | PATRIARCHE du clan Kamo ; sœur à son bras droit |
+| 12 - 14 nov 2018 (D4) | Effort de guerre total : patriarche, il vient, et Yukiko, qui serait restée, suit ses ordres à la lettre. Shinjuku, front Nozomu (Hémokinésie) | - |
 
 ## Notes de frontière
 

@@ -1,6 +1,6 @@
 # Shoko Ieiri
 
-- version : W10
+- version : W11
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -56,6 +56,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 | ~1 jan 2006 | Organise le nouvel an des quatre ; couvre la declaration de Satoru | -- |
 | debut 2018 (B3) | Participe a la RELEVE de Satoru, effondre apres avoir tue Geto de ses propres mains : aux cotes de la famille, la medecin de la promo soigne ce que le RCT ne repare pas | pilier de la releve ; des quatre prodiges, ils restent trois |
 | nuit 31 oct - 1 nov 2018 (C3_1, C3_2) | Campement médical aux abords de Shibuya : soigne Maki, Nobara et les autres, aidée par Nisha ; garde Megumi, que Sukuna a déposé chez elle. À l'aube, soigne Nori, amené par Naoya, après une nuit à soigner trop de monde | la médecin de Shibuya |
+| 14 - 28 nov 2018 (D4) | Shinjuku : soins à l'arrière. Le 28, à l'école de Tokyo, pose une perfusion à Nisha qui se réveille, puis exige qu'on la laisse se reposer | - |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Bascule friction -> amitie avec Nisha, et evolution de la relation -> roadmap.

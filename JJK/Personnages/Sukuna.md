@@ -1,6 +1,6 @@
 # Sukuna
 
-- version : W4
+- version : W5
 
 Canon + [DIVERGENCE RP] (origine Masakado x Michizane, jumeau devore, 200 pourcent, pacte, receptacles). Roi des Fleaux, sommet absolu de l'echelle (20 doigts = 100 pourcent, reference du Power_Scaling). Fiche noyau + Trajectoire datee eres C-D, integree des la genese depuis le chantier Passe 2 (fiche neuve : nait complete, sans prejuger de l'application en bloc du registre S8 aux fichiers existants).
 
@@ -34,7 +34,7 @@ Canon + [DIVERGENCE RP] (origine Masakado x Michizane, jumeau devore, 200 pource
 - La lignee-receptacle Itadori (branche Kamo d'adaptation a l'hote isolee par Kenjaku, cf. Cosmogonie/Trois_Esprits.md) est concue en DOUBLE compatibilite : le CORPS (trait d'adaptation Kamo) + l'AME (la filiation directe du jumeau : le receptacle est concu PAR la reincarnation).
 - Eien piste le cycle de reincarnation du jumeau par ses pouvoirs temporels : c'est ce qui affine le calage de la date du retour (cf. Le pacte).
 - L'ame du jumeau renait en JIN ITADORI, au sein de la lignee-receptacle (canon, ch. 257 ; aiguillage du couple ou coincidence saisie : [INCERTAIN - a trancher quand ca comptera]). Kenjaku-dans-Kaori concoit alors YUJI avec la reincarnation, un doigt scelle en lui a la naissance : fils du jumeau, corps de la lignee d'adaptation - receptacle ideal par FILIATION, pas par signature (un fils ne porte pas l'ame de son pere ; cf. Regle des signatures). Sukuna est l'oncle d'ame de Yuji.
-- Sukuna SAIT tout de cette architecture : canon (il l'expose lui-meme a Uraume en flashback, ch. 257). QUAND et COMMENT il l'a apprise dans notre continuite (dite au pacte ? deduite ?) : [OUVERT] -> roadmap ere C/D.
+- Sukuna SAIT tout de cette architecture : canon (il l'expose lui-meme a Uraume en flashback, ch. 257). QUAND et COMMENT il l'a apprise dans notre continuite : SANS OBJET (decision worldbuilder, thread D4 : sans importance pour le recit).
 
 ## Regle des signatures (transversale, posee ici) [DIVERGENCE RP]
 - La signature occulte suit ce qu'on VISE : chaque ame garde sa signature, attachee a SES sorts.
@@ -64,7 +64,8 @@ Canon + [DIVERGENCE RP] (origine Masakado x Michizane, jumeau devore, 200 pource
 | 31 oct 2018 (C2_5) | Shibuya : Jogo fait avaler dix doigts à Yuji (15) ; Sukuna prend le corps, tue Jogo, rase le quartier contre Mahoraga invoqué par Megumi (canon). Les deux conditions du sursis tombent (cf. Roadmap/Nisha/Roadmap_C2.md) | 15 doigts ; receptacle gorgé |
 | 10 nov 2018 (D3, hors POV) | SAITAMA, la fenetre CHOISIE (Nisha au palais Kamo, Satoru encore dans la Lisiere). L'echec du couple Kenjaku/Eien le fait bouillir : pas la bataille legendaire promise, mais une generation capable de les vaincre, donc la bonne epoque pour sa guerre ; il veut les Dix Ombres, et provoquer le couple au sommet de sa rage. Deroule : minute d'Enchain, bluff protege par le serment, menace sur Tsumiki ; Megumi cede son corps - SERMENT DE SAITAMA (protection absolue de Tsumiki contre cession sans resistance, lettre integrale : chantier D7). Transfert : un doigt DE YUJI (chair devenue objet maudit) concentre toute son ame, avale par Megumi. Rien ne reste dans Yuji. Maki l'attaque : il la stoppe sans repliquer, satisfait de la voir douter de sa puissance. Repart avec Tsumiki, sous sa garde directe | change de receptacle ; passager consenti a bord ; lie par la lettre sous toute forme |
 | ere D, post-Saitama | Uraume livre TOUS les doigts originaux restants : Sukuna se complete a 20/20 dans le corps aux Dix Ombres. Sommet absolu de l'echelle, arme anti-Infini incluse | 20 doigts ; puissance 27 sur l'echelle (symbiose parasitique, cf. Power_Scaling) ; cible de toujours acquise |
-| ere D, a venir | Duel final contre la famille - chaque coup porte le sera dans le corps du fils. Issue : [OUVERT, decision worldbuilder] | - |
+| 10 - 14 nov 2018 (D4, hors POV) | Raconte à Uraume la clause de protection de Tsumiki, devant Tsumiki et Megumi (coincé dedans) ; avoue que menacer Tsumiki, du temps de Yuji, n'était que du bluff. Refuse d'employer la marque de Nozomu | - |
+| 14 nov 2018 (D4_2 à D4_5) | SHINJUKU. Trois jours après la sortie de Satoru, pressé d'essayer son nouveau corps, il ravage Shinjuku pour attirer les exorcistes qu'il sait en préparation de guerre, en plein conseil de guerre. Tsumiki sur un toit, spectatrice. Le 2 contre 1 manque de peu de lui arracher Megumi ; le couple abat Mahoraga. Uraume réveille Nozomu malgré son refus et se sacrifie pour lui : ça l'enrage (le seul envers qui il avait montré du respect, presque de l'affection). Son loup, planqué dans une nuée de lapins, met Yuji à l'agonie. La Sphère de l'Espace-Temps Infini ouvre au couple son territoire intérieur : ils le démontent sous les yeux de Megumi, il meurt de leur main. Le Serment de Saitama n'a jamais rompu | MORT |
 
 ## Notes de certitude
 - Origine (scission Masakado, croisement Michizane, pur hasard), 200 pourcent, double compatibilite du receptacle, regle des signatures : [DIVERGENCE RP], decisions worldbuilder (session Sukuna, 2026-08-24).
@@ -73,8 +74,8 @@ Canon + [DIVERGENCE RP] (origine Masakado x Michizane, jumeau devore, 200 pource
 - Trajectoire C-D : decisions actees au chantier Passe 2 (S4-S7) ; dates fines et deroule de Shibuya -> roadmaps ere C/D.
 
 ## Notes de frontiere
-- Quand et comment Sukuna a appris la reincarnation du jumeau (le fait qu'il SAIT est canon) : [OUVERT].
-- Sort final et deroulement du duel d'ere D : [OUVERT] (cf. chantier S6, decision worldbuilder).
+- Quand et comment Sukuna a appris la reincarnation du jumeau (le fait qu'il SAIT est canon) : SANS OBJET (decision worldbuilder, thread D4).
+- Sort final et deroulement du duel d'ere D : TRANCHES (cf. Roadmap/Nisha/Roadmap_D4.md) - tue par le couple dans son territoire intérieur, 14 nov 2018.
 
 ---
 

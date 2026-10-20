@@ -1,6 +1,6 @@
 # Roadmap D2 - La Traque
 
-- version : W2
+- version : W3
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre ; Tokyo n°1, Sakurajima, Sendai et les Tombeaux de l'Étoile restent HORS POV
 - échelle temporelle : ~une semaine (1er novembre 2018, soir -> 8 novembre, matin) ; cinq temps joués
@@ -25,21 +25,22 @@ Jouer selon les règles de Kenjaku pour épargner le maximum de gens. Ceux que t
    - Elle ne lui parle pas de le rallier. Elle laisse les jeunes le convaincre ; si ça ne marche pas, c'est elle qui le ramène de force.
    - Hakari teste Yuji à coups de poing, puis pose son prix : un garant contre les supérieurs.
    - Nisha s'en porte garante. Elle avait soutenu sa suspension et retourne sa veste pour le bien commun.
+   - Kinji rallié, les Kogane de Nisha et de Yuji apparaissent ensemble pour annoncer la 9e règle, ajoutée par Kashimo depuis Tokyo n°2 : le droit de consulter les infos des autres joueurs (cf. Personnages/Kogane.md, Pedagogie/Traque_Meurtriere.md). Nisha, qui porte Eien, est joueuse d'office.
    - Clôt sur : Hakari dans le groupe.
 3. **D2_3 - Tokyo n°2** [entrée, ~4 novembre]. Nisha et Panda franchissent la barrière et déclarent leur participation.
    - Plus de réseau : la colonie est coupée du monde.
    - La barrière téléporte chaque entrant vers l'un des neuf points prédéfinis de la colonie, guettés par des joueurs qui fondent sur les nouveaux désorientés (narration de Tengen, anime). Nisha et Panda sont séparés.
    - Première victime de Nisha à l'arrivée : Charles Bernard. Il est bien en dessous de son niveau, mais il avait de quoi tuer Panda, et ça l'inquiète.
-   - Nisha tue vingt joueurs et ajoute la règle du transfert des points à la mort.
+   - Nisha tue des joueurs à la chaîne. À 80 points, elle tombe sur un homme acculé par trois exorcistes hostiles, et les massacre sans effort en croyant sauver un innocent (95). Puis elle reconnaît Haruta Shigemo, sur la description de Nitta et Megumi (C3_1) : le tortionnaire. Elle comprend que les innocents sont morts ou déjà partis, qu'il ne reste qu'à tuer ceux qui restent, et que ramasser leurs points serait une bonne idée. Elle prend tout son temps avec lui, sans aucune douceur ; sa mort la porte à 100, qu'elle dépense dans la 10e règle, le transfert des points à la mort.
    - Clôt sur : le Kogane annonce la règle à tous les joueurs.
 4. **D2_4 - Les noyaux** [~5 novembre]. Kashimo fait face à Panda, et Nisha arrive.
    - La sœur, le Tricératops, ne se montre que parce que maman est en vue.
    - Kashimo, à peu près du niveau de Nisha, s'amusait avec Panda : Nisha est le combat qu'il attendait.
    - Il grille contre elle son sort à usage unique, la Bête Mythique Ambre. Il se donne à fond, et Nisha galère à l'avoir.
-   - Elle le tue, et ses points lui reviennent par sa propre règle. Elle ajoute la seconde, le transfert consenti.
+   - Elle le tue, et ses points lui reviennent par sa propre règle. Elle ajoute la 11e, le transfert consenti.
    - Les trois noyaux de Panda sont intacts.
    - Clôt sur : la mère et ses trois enfants debout.
-5. **D2_5 - Le loyer** [6 -> 8 novembre]. Les autres tueurs ajoutent la règle de neutralité : un loyer de 5 points par jour, transférable.
+5. **D2_5 - Le loyer** [6 -> 8 novembre]. Les autres tueurs ajoutent la 12e règle, la neutralité : un loyer de 5 points par jour, transférable.
    - Un neutre sort du jeu et passe la barrière dans les deux sens.
    - Un neutre qui ne paie pas redevient joueur, et une cible à 50 points.
    - Panda sort, neutre, le 6 novembre.
@@ -60,6 +61,7 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 - Tengen, Yuki Tsukumo, Choso, Noritoshi Kamo - la garde de Tengen - cf. leurs fiches
 - Kinji Hakari, Kirara Hoshi - le parieur, la loge VIP - cf. Personnages/Hakari.md, Kirara.md
 - Charles Bernard - première victime - non fiché (canon)
+- Haruta Shigemo - celui qui a failli tuer Nitta et Megumi ; tué par Nisha (D2_3) - non fiché (canon, [DIVERGENCE RP] survie)
 - Yuji, Maki, Mai, Yuta - la répartition - cf. leurs fiches
 - Hajime Kashimo - le combat qu'il attendait - cf. Personnages/Kashimo.md
 - Hors champ : Satoru (scellé), Yukiko (palais), Megumi (Tokyo n°1, neutre), Higuruma (Tokyo n°1 : apporte des points pour que Megumi sorte)
@@ -68,11 +70,11 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 - Tombeaux de l'Étoile - cf. Personnages/Tengen.md
 - Gachinko Fight Club, Tochigi - non fiché
 - Colonie Tokyo n°2 - non fichée
-- Kogane - interface du jeu, non fiché
+- Le Kogane de Nisha - cf. Personnages/Kogane.md ; règles du jeu : cf. Pedagogie/Traque_Meurtriere.md
 
 ## Conditions de sortie
 ### Requis
-- Règles 1 (transfert à la mort), 2 (transfert consenti) et 3 (neutralité au loyer) en place.
+- Règles 10 (transfert à la mort), 11 (transfert consenti) et 12 (neutralité au loyer) en place, après la 9e de Kashimo.
 - Kashimo tué par Nisha ; les trois noyaux de Panda intacts.
 - Hakari recruté, Nisha garante.
 - Panda sorti, neutre, le 6.
@@ -96,6 +98,7 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 - Aucune. Règle globale du RP (jusqu'à contre-ordre du worldbuilder) : aucune roadmap ne se scinde en embranchement.
 
 ## Notes de frontière
+- Haruta Shigemo [DIVERGENCE RP] : au canon, le Sanctuaire Maléfique de Sukuna le coupe en deux à Shibuya. Chez nous, Nanami lui a laissé une seule marque de miracle valide (sur six), qui lui sert à passer pile entre les lames ; il survit jusqu'à Tokyo n°2.
 - État de sortie : trois règles ajoutées par le camp de Nisha ; Kashimo et Charles Bernard morts, Tokyo n°2 vidée ; Panda neutre, noyaux intacts ; neutres financés par les tueurs ; Nisha seule survivante, toujours joueuse, sort le 8 au matin.
 - Hors POV : Tokyo n°1 (Hakari, Yuji, Megumi ; Higuruma contre Yuji, sans la règle de transfert ; Hana coupée) ; Sakurajima (Maki et Mai) ; Sendai (Yuta).
 - D3 : le palais, le 8 au soir ; Saitama le 10, hors POV.

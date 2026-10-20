@@ -1,6 +1,6 @@
 # Satoru Gojo - Chronologie datee, ere B (2008-2018)
 
-- version : W9
+- version : W10
 
 Extension de Personnages/Satoru.md. Contient la TRAJECTOIRE DATEE post-depart de Satoru pour l'ere B (hiver 2008 -> juin 2018). NB : l'ere A de Satoru reste dans Personnages/Satoru.md (Trajectoire datee non scindee a l'epoque) ; scission de l'ere A optionnelle. Strate canon par defaut, telegraphique. Build-side : fetchee a la demande, JAMAIS chargee en narration. Etat : entrees B1 a B3 posees - ere B complete.
 
@@ -31,6 +31,7 @@ Extension de Personnages/Satoru.md. Contient la TRAJECTOIRE DATEE post-depart de
 | 31 oct 2018 (C2_3, C2_5) | Nisha lui dit se rendre au domaine pour un conseil de clan : il ne sait rien de Takatsuki. Envoyé seul à Shibuya, scellé dans la Lisière (canon). Comprend au moment d'être scellé ce que sa femme avait vendu en 2015 : l'un de ses rares points faibles, l'inattention après un choc | SCELLÉ ; sait le prix de la vente |
 | 1 nov 2018 (C3_2, C3_3) | Déclaré complice de Shibuya et BANNI par les Instances dans la nuit (le libérer devient illégal) ; bannissement LEVÉ le matin même sous la menace de Nisha | scellé ; libérable légalement |
 | 11 nov 2018 (D3) | Sort de la Lisière, ouverte par Yukiko au palais Kamo en trois jours. Nisha craque enfin ; il la rassure. Elle lui raconte tout et lui avoue que c'était ça, la vente en échange de Tsumiki : l'aveu confirme ce qu'il avait compris, et donne le pourquoi | LIBRE ; T-Secret-Naoya détoné ; fils pris par Sukuna -> D4 |
+| 12 - 28 nov 2018 (D4) | SHINJUKU. Le 14, avec Nisha (~28,9) contre Sukuna dans Megumi (27) : ils manquent de peu de ramener leur fils et abattent Mahoraga à deux. Le plan de repli prévu pour Mahoraga coupe la guerre en deux : Satoru et Tokyo contre Sukuna et ses shikigamis. Rejoint par Nisha, assaut simultané, par choix : deux Extensions sur le timing d'un Rayon Noir, naissance de la Sphère de l'Espace-Temps Infini ; Sukuna tué dans son territoire intérieur, Megumi libre. Le 28, au chevet de Nisha avec Naoya : tout le monde va bien | survit, ENTIER, toujours numéro 1 |
 
 ## Pointeurs
 - Noyau + Trajectoire datee ere A : cf. Personnages/Satoru.md.

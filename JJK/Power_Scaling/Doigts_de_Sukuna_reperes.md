@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Repères chiffrés
 
-- version : W4
+- version : W5
 
 Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème, synergie, partage gémellaire, plafond mondial). Contient les REPÈRES par entité et les courbes de progression A2. Rappel : l'unité est extradiégétique jusqu'en 2018, puis diégétique pour le seul couple et la famille (cf. page mère).
 
@@ -45,6 +45,7 @@ Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème,
 | Mahito (oct 2018) | 13 | 37.26 | [DIVERGENCE RP] niveau Jogo ; survit à Nisha par la fuite et le Façonnage de l'âme -> ~16 après la mue de Shibuya |
 | Nisha (2005) | 13 | 37.26 | [DIVERGENCE RP] n1 mondiale ; -> courbe A2 jusqu'a 18 ; cf. Courbes A2 ci-dessous |
 | Naoya (adulte) | 14 | 43.94 | [DIVERGENCE RP] |
+| Nisha (post-D4, nov 2018) | 14 | 43.94 | [DIVERGENCE RP] sans la Chronokinésie (morte avec Eien) : Chronostase et domaine seuls ; niveau exceptionnel, alors qu'elle n'est pas encore familière avec son sort inné seul |
 | Uraume | 14 | 43.94 | [DIVERGENCE RP] domine Hakari hors Jackpot, pas les monstres de Grade Spécial |
 | Yuki Tsukumo | 15 | 51.35 | [DIVERGENCE RP] Grade Special decroche a l'universite puis quitte le systeme ; hors-classement officiel (de facto n3 mondiale, jamais reconnue) |
 | Yorozu (dans Tsumiki, 2008-2015) | 16 | 59.51 | [DIVERGENCE RP] exorciste Heian en objet maudit (Kenjaku) ; tuee fin 2015 par Nisha (duel spirituel en territoire interieur) |
@@ -54,9 +55,10 @@ Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème,
 | Geto (gourou, 2015) | 17-18 | 68-78 | vrai Geto vivant |
 | Nisha (adulte) | 18 | 78.15 | [DIVERGENCE RP] apogee atteinte des 2008 |
 | Sukuna (complet) | 20 | 100.00 | reference de l'echelle |
+| Nozomu (réveillé dans Uraume, D4) | 20 | 100.00 | [DIVERGENCE RP] brute absolue ; achevé par les deux paires de jumeaux (D4) |
 | Kenjaku (dans Suguru, 2018) | 22 | 125.19 | [DIVERGENCE RP] symbiose parasitique : au-dessus de Nozomu (20), sous Satoru - s'il le valait, il n'aurait pas eu besoin de la Lisière ; tué au palais (D3), épuisé par le rideau de Yukiko, sous les coups des jumeaux (24 en symbiose) |
 | Gojo (post-Toji) | 23 | 139.07 | apogee atteinte tres tot, plafond |
-| Sukuna (dans Megumi, 20/20, ère D) | 27 | 203.54 | [DIVERGENCE RP] symbiose parasitique avec un corps aux Dix Ombres : bien au-delà de Sukuna dans Yuji, même à 20 doigts, car le corps de Yuji a été conçu pour durer et le supporter, pas pour fusionner ; colle à ses 200 pour cent de naissance. Le duo Satoru + Nisha à l'apogée vaut ~28.9 : déroulé du combat final -> D4 |
+| Sukuna (dans Megumi, 20/20, ère D) | 27 | 203.54 | [DIVERGENCE RP] symbiose parasitique avec un corps aux Dix Ombres : bien au-delà de Sukuna dans Yuji, même à 20 doigts, car le corps de Yuji a été conçu pour durer et le supporter, pas pour fusionner ; colle à ses 200 pour cent de naissance. Le duo Satoru + Nisha à l'apogée vaut ~28.9 ; tué par le couple dans son territoire intérieur (D4) |
 
 Assistant managers (Ijichi, Nitta, etc.) : hors-classement combat, Grade 4 symbolique (role logistique, pas de scaling de combat pertinent). Aucun don, aucun sort inne.
 Arata Nitta : hors-axe combat lui aussi, mais PAS un assistant manager - c'est un exorciste non-combattant DOTE d'un sort inne (Pain Killer). Categorie distincte, a ne pas confondre. cf. Personnages/Arata_Nitta.md.

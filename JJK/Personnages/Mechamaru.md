@@ -1,6 +1,6 @@
 # Kokichi Muta (Mechamaru)
 
-- version : W8
+- version : W9
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e annee a Kyoto (via son robot). Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -66,6 +66,7 @@ Fiches propres : cf. Personnages/Utahime.md, Miwa.md, Nisha.md ; Factions/Clan_K
 | sept 2018 (C1_5) | Amicale à Tokyo : affronte Panda (canon). Le rideau polarisé sur le couple sort en partie de son larcin ; aucun mort | - |
 | oct 2018 (C2_2) | Agent double intéressé : a passé serment avec le camp de Kenjaku (renseignements contre un corps sain et la vie sauve des élèves de Kyoto) et glané au passage des infos sur leur camp. Mahito lui rend un corps entier en façonnant son âme, SANS toucher à la Restriction : il n'en perd que la contrainte (réserve innée et portée nationale intactes). Appelle Nisha : il a fait le con, il a soutiré des infos, il veut aider ; avoue le cheveu. Ultimate Mechamaru, mode Absolu, contre Mahito : dix-neuf ans de stock brûlés (pic ~12). Nisha le sauve ; pardon sur place. Ses infos corroborent, sans qu'il le sache, le leurre de Takatsuki | VIVANT, corps sain, à sec (6) ; plafond Grade Spécial (~15) |
 | 31 oct 2018 (C2_4) | À la nuit, sa portée nationale lui fait sentir Shibuya : il comprend le leurre et prévient Nori | sauve les jumeaux par l'alerte |
+| 14 nov 2018 (D4) | Shinjuku, front Nozomu : soutien à distance (marionnettes, portée nationale) | - |
 
 ## Notes de frontiere
 - Nœud Mechamaru (oct 2018) : porté en Trajectoire datée ; déroulé : cf. Roadmap/Nisha/Roadmap_C2.md (C2_2). Nisha n'y croise pas Kenjaku-dans-Geto.

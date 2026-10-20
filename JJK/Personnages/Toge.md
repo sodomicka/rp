@@ -1,6 +1,6 @@
 # Toge Inumaki
 
-- version : W6
+- version : W7
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 1e annee a Tokyo. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -46,6 +46,8 @@ Fiches propres : cf. Personnages/Maki.md, Panda.md, Nisha.md, Satoru.md. Ici, se
 | sept 2017 (B3_3) | Amicale 2017 : dans la classe de Satoru ; Tokyo gagne grâce à Yuta | victoire d'équipe |
 | dec 2017 (B3_4) | Nuit des Cent Fleaux (cote Tokyo, hors-POV de Nisha) : il participe aux evenements de JJK0 aux cotes des autres 1e annees. | (hors-POV) |
 | sept 2018 (C1_5) | Amicale à Tokyo (2A de Satoru) ; attaque d'Hanami | - |
+| 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : perd le bras gauche | bras gauche perdu |
+| 14 nov 2018 (D4) | Shinjuku, front Sukuna, à distance : Paroles Maudites, d'un seul bras | - |
 
 ## Notes de frontiere
 - Devenir post-C1 (Shibuya, ere C) -> roadmaps C2 et C3.

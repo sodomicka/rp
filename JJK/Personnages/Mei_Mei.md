@@ -1,6 +1,6 @@
 # Mei Mei
 
-- version : W9
+- version : W10
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -64,6 +64,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 | sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) J1 : eliminee par Gojo ; J2 : entre pour l'affiche gagnable (la brute veut une chance de victoire), perd vs Geto | -- |
 | mars 2013 (B1) | Resto A QUATRE avec Utahime, Nisha et Yukiko (Ui Ui et Noritoshi en accompagnants) : l'idee emerge de la discussion a trois - Yukiko, kyotoite, la connait mieux que Nisha mais n'a pour argument que la promo de son frere ; les deux profs la convainquent de prendre la 3e annee a Kyoto (perfectionnement, dernier maillon du cycle). Chaire d'abord offerte par Gakuganji a Yukiko, qui n'en voulait que pour l'annee de son frere (2018-2019) ; Nisha a ricane : pas de favoritisme pareil (cf. Personnages/Yukiko.md) -> devient la prof d'Akari Nitta en 2013-2014 | de freelance mercenaire a professeure de 3e annee a Kyoto ; cycle d'enseignement complete |
 | 24 dec 2017 (B3_4) | Nuit des Cent Fleaux : Nisha lui CONFIE ses 2e annees (Todo, Noritoshi, Momo) - elle les encadre au combat dans la vieille ville (Momo en oeil aerien decisif) | commandante de terrain des cadets ; confiance de Nisha honoree |
+| 14 nov 2018 (D4) | Shinjuku, front Sukuna, à distance : corbeaux ; téléportation d'Ui Ui | - |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Diplome 2006 -> carriere de freelance mercenaire ; passage Grade 1 (7 doigts, post-2008, date non fixee). Embauche a Kyoto desormais datee (mars 2013) -> cf. Trajectoire datee.

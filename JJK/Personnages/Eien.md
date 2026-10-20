@@ -1,6 +1,6 @@
 # Eien
 
-- version : W18
+- version : W19
 
 OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokinesie). Moitie du couple architecte avec Kenjaku. Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
@@ -65,10 +65,11 @@ Tissu relationnel detaille (appellatifs, registres avant/apres 2015, les visites
 | 31 oct 2018 (C2_4) | TAKATSUKI : Nisha ne fait rien, la fenêtre reste close. Eien lui révèle la source de la signature (le cheveu de 2015) | double fond raté |
 | 1 nov 2018 (C3_4) | Choso, son fils, happé dans le Jardin : devant elle, Nisha lui promet que Kenjaku mourra sous ses yeux impuissants | promesse posée (-> ère D) |
 | 8 nov 2018, soir (D3) | Au palais Kamo, Nisha éclate le crâne de Kenjaku sous ses cris impuissants : la promesse de C3_4 est tenue. Kenjaku mort, ses droits de maître du jeu lui reviennent : elle DÉSAMORCE tout et la Traque s'éteint. Puis plus rien : brisée, forcée à vivre, elle n'est même pas capable de rejoindre Kenjaku dans la mort | veuve inerte, condamnée à survivre dans son hôte |
+| 14 nov 2018 (D4_4) | SHINJUKU. Brisée, ne demande qu'à mourir. Nozomu abattu, Nisha la SUPPLIE : elle prend le contrôle du corps, maintenant qu'elle ne le veut plus, ouvre le Jardin des Ères Mortes autour de Yuji et le rembobine. Puis elle meurt, en emportant la Chronokinésie | MORTE |
 
 ## Notes de frontiere (hors de cette fiche)
 - Trahison, complots et denouement (a partir de 2015) : poses en Trajectoire datee a mesure que les arcs sont roadmappes (B2-B3 faits), puis Parties.
-- Après la mort de Kenjaku (ère D) : elle sert une dernière fois - Nisha lui offre son corps pour sauver un de ses gamins, ou la « libère » en ne gardant que la Chronostase et son domaine [OUVERT, cf. chantier S6].
+- Après la mort de Kenjaku (ère D) : TRANCHÉ en D4, les deux voies à la fois. Nisha la supplie de prendre le contrôle pour rembobiner Yuji mourant ; Eien, qui ne demandait qu'à mourir, accepte, ouvre le Jardin autour de lui, puis meurt en emportant la Chronokinésie. Nisha ne garde que la Chronostase et son domaine (14 nov 2018, cf. Roadmap/Nisha/Roadmap_D4.md).
 - Mecanique fine de projection entre fors interieurs, timing des evenements : a border en roadmap.
 - Ce que le clan Gojo a vu et archive de la fin de l'attaque de Nozomu (le role de sa doyenne) : [INCERTAIN - non fixe], cf. Personnages/Nozomu.md.
 

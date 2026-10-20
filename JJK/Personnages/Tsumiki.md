@@ -1,6 +1,6 @@
 # Tsumiki Fushiguro
 
-- version : W8
+- version : W9
 
 Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = qui est Tsumiki a son entree en scene (identite, nature, psychologie, relations de base) ; son devenir post-2008 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps ere B). Profane : hors-axe combat.
 
@@ -68,6 +68,8 @@ Fiches propres : cf. Personnages/Nisha.md, Megumi.md, Satoru.md, Maki.md. Ici, s
 | juil - sept 2018 (C1_4) | Yuji, mort officiellement, vit caché sous son toit à Saitama : le lecteur rencontre l'autrice | dans le cercle du secret Yuji |
 | 1 nov 2018 (C3_4) | Chez Tengen à midi, avec toute la famille, qui cherche comment récupérer son père | - |
 | 10 nov 2018 (D3, hors POV) | Saitama : l'otage. Sukuna la menace sans pouvoir l'égratigner ; Megumi cède son corps à condition qu'il ne la tue jamais (Serment de Saitama, chantier D5-D7). DEUX FOIS RANÇON : 2015 et 2018. Part avec Sukuna, sous sa garde directe | protégée par la lettre ; frère perdu ; aux mains de Sukuna |
+| 10 - 14 nov 2018 (D4, hors POV) | Témoin de la conversation où Sukuna raconte la clause à Uraume ; l'entend avouer que le menacer, du temps de Yuji, n'était que du bluff | - |
+| 14 nov 2018 (D4) | Shinjuku : sur un toit, spectatrice de toute la bataille ; personne ne la menace | - |
 
 ## Graines plantees en B1 (a NE PAS detoner avant l'ere prevue)
 - T-Tsumiki / Yorozu : plantee 2008, RESOLUE fin 2015 (cf. Trajectoire datee) : Yorozu debusquee et tuee sans avoir jamais pris le dessus. Pas de coma. Detail -> Roadmap_B3 (B3_1) et SB8.

@@ -1,6 +1,6 @@
 # Nozomu
 
-- version : W2
+- version : W3
 
 OC. Fleau de Grade Special, esprit vengeur au sens ACADEMIQUE (pas d'ascension cosmogonique : simple fleau coriace, aucun rang aupres des trois onryo ni de Tengen). Ancien enfant du clan Gojo, ere Genroku (1688-1704) ; Guerrier Parfait revele et perdu le meme jour. Scelle par Kenjaku dans une MARQUE dediee (objet maudit contenant son ame), hors mecanisme des incarnes de la Traque ; emploi de la marque -> roadmaps ere C/D. Fiche noyau.
 
@@ -15,6 +15,7 @@ OC. Fleau de Grade Special, esprit vengeur au sens ACADEMIQUE (pas d'ascension c
 - Humain (Genroku) : petit garcon blond aux yeux bleus. Regle des yeux (cf. Factions/Clan_Gojo.md) : bleus ordinaires de la naissance a l'eveil ; a l'eveil, ils deviennent absurdement bleus et complexes.
 - Fleau : corps d'HOMME adulte, sec et noueux, aux muscles cordes et saillants - veines apparentes, rien d'une masse : du cable, pas de la montagne. Crane glabre et allonge. SIX yeux d'un bleu-blanc luisant, disposes AU HASARD sur le visage et le front - un seul a sa place anatomique, l'oeil droit ; l'orbite GAUCHE est vide, un puits noir. Corps couvert d'hematomes et de marques sombres - les coups, portes dans la chair du fleau - et de balafres claires. Haillons d'epoque Edo (haori bleu-gris lacere, ceinture d'etoffe ocre, hakama brun en loques), pieds nus. Bouche ouverte sur un cri. Six bras - trois paires - qui bavent en trainees de mouvement : la vitesse rendue visible. Posture basse, feline, de charge.
 - Symbolique GRAVEE (decision worldbuilder, 2026-08-24) : le corps adulte muscle est la force dont il pense avoir besoin pour liberer les enfants. Les six yeux epars et l'orbite vide disent son sentiment que le don fut a la fois sa malediction et sa liberation : bien place dans l'orbite droite (la liberation), mal place dans la gauche (la malediction - l'orbite vide).
+- [DIVERGENCE RP] Forme au réveil dans Uraume (D4) : un hybride. Le corps et la mise d'Uraume (carré blanc, marques rouges au front, kimono blanc sous un vêtement sombre en lambeaux, hakama violet déchiré, tabi et zori), la peau craquelée de veines violettes ; par-dessus, les marques de Nozomu : six yeux bleu-blanc luisants épars, l'orbite gauche vide, six bras, la bouche ouverte sur un cri. Il ne commande ni la glace ni le RCT d'Uraume.
 
 ## Origine et mort [DIVERGENCE RP]
 - Ere Genroku. Enfant du clan Gojo, ne dans le clan alors LE PLUS CRUEL des trois grandes familles envers ses enfants : formation par la violence, morts d'enfants ordinaires - par les coups, ou de leur propre main.
@@ -46,10 +47,10 @@ OC. Fleau de Grade Special, esprit vengeur au sens ACADEMIQUE (pas d'ascension c
 ## Sorts et capacites
 - Doctrine de scaling (appui extradiegetique, usage MJ) : la mue en fleau ACCOMPLIT le potentiel de l'humain - Nozomu est un Guerrier Parfait inaccompli porte a maturite par la mort. (Precedent canon hors-RP : le fleau de Naoya Zenin, plein potentiel de l'humain.)
 - Kit : BRUTALITE PURE, sans aucun raffinement de clan (mort a 4 ans : Bleu, Rouge, Violet, retournements - jamais appris, la culture Gojo ne lui a rien transmis).
-  - Infini : leve comme un BOUCLIER - usage actif, pas passif. Soumis a la regle canon des domaines (le coup garanti d'une Extension adverse le transperce).
+  - Infini : porté en ARMURE - usage actif, pas passif ; jamais en défensive pure (décision worldbuilder, D4). Soumis a la regle canon des domaines (le coup garanti d'une Extension adverse le transperce).
   - Rayons d'energie occulte PURE - pas une technique de lignee, de la puissance crachee.
-  - Vitesse d'ordre Nisha.
-  - Six Yeux devenus litteralement six yeux ; six bras - trois paires, pour tuer plus efficacement.
+  - Vitesse : DÉPLACEMENT niveau Naoya, ATTAQUE niveau Nisha (décision worldbuilder, D4).
+  - Six Yeux devenus litteralement six yeux, qui voient plus vite que Nisha ne peut bouger ; six bras - trois paires, pour tuer plus efficacement. Aucun autre sort.
 - Scaling : 20 doigts. Egal NUMERIQUE du Roi des Fleaux (Sukuna complet = 20 = 100 pourcent), sous le seul Satoru accompli (23, eveil de 2006). Grade Special.
 
 ## Domaine : Flagellation du Bourreau [DIVERGENCE RP]
@@ -57,6 +58,12 @@ OC. Fleau de Grade Special, esprit vengeur au sens ACADEMIQUE (pas d'ascension c
 - Le domaine EPARGNE les ames pures - sa "bonte", par conception.
 - Angle mort : il LAISSE PASSER les monstres sans remords. Un gamin de 4 ans naif ne concoit pas qu'on puisse avoir fait le mal sans en souffrir : les pires du monde traversent sa justice sans une egratignure.
 - Bilan mecanique (usage MJ) : arme auto-graduee par la conscience de la cible - devastatrice sur les coupables ordinaires, nulle aux deux extremes du spectre moral. L'effet est l'effondrement, pas la mort : l'execution reste a ses mains.
+
+## Trajectoire datée
+| Date/ère | Événement | Delta d'état |
+|---|---|---|
+| ère Genroku | Mort à 4 ans le jour de l'éveil ; manque de détruire le clan ; pacte avec Eien, scellé par Kenjaku dans la marque | scellé |
+| 14 nov 2018 (D4_3, D4_4) | SHINJUKU. Réveillé par Uraume, qui lui désigne Tsumiki comme l'enfant protégée par Sukuna et les étudiants comme les enfants qui souffrent ; écrase Uraume et prend son corps. Vise Panda (l'enfant de Yaga et de Nisha) ; Nisha s'interpose. Sa Flagellation du Bourreau fait s'effondrer Nisha (remords de la vente de 2015), épargne Panda (âme pure), laisse passer Naoya (sans remords pour le Hei), qui sort sa jumelle de l'enceinte. Achevé par les deux paires de jumeaux ensemble, Nisha et Naoya, Maki et Mai | MORT |
 
 ## Relations
 - Le clan Gojo - le bourreau originel, presque detruit par lui ; se blame pour sa mort et a bascule a cause de lui (cf. Factions/Clan_Gojo.md).
@@ -67,9 +74,10 @@ OC. Fleau de Grade Special, esprit vengeur au sens ACADEMIQUE (pas d'ascension c
 ## Notes de certitude
 - Tout le noyau (Genroku, eveil, mort, pacte, marque, kit, domaine, 20 doigts, doctrine, nom, symbolique) : [DIVERGENCE RP], decisions worldbuilder (sessions Nozomu 1 et 2, 2026-08-24).
 - Regle d'ecriture permanente : aucun detail d'acte sur la mort, aucune romantisation de la doctrine.
+- Kit révisé (Infini en armure, vitesses, Six Yeux, aucun autre sort), forme au réveil dans Uraume, réveil et mort : [DIVERGENCE RP], décisions worldbuilder (thread D4, 20 oct 2026).
 
 ## Notes de frontiere
-- Remise de la marque, cles d'activation, reveil et deroule moderne : post-depart, actes en journal (_Implications), en attente de leur strate -> roadmaps ere C/D (Roadmap/ neutre). Rien n'en figure ici avant roadmap.
+- Remise de la marque, cles d'activation, reveil et deroule moderne : joues en D4 (cf. Roadmap/Nisha/Roadmap_D4.md et Trajectoire datee).
 - Designation publique moderne : -> roadmap ere C/D.
 
 ---

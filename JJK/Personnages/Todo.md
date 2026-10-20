@@ -1,6 +1,6 @@
 # Aoi Todo
 
-- version : W8
+- version : W9
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -56,6 +56,7 @@ Fiches propres : cf. Personnages/Yuki.md, Nisha.md. Ici, seul le rapport a Todo.
 | sept 2018 (C1_5) | Amicale à Tokyo (3A de Mei Mei) : sur la réponse de Yuji à la question du « type », l'adopte en FRÈRE ; contre Hanami à ses côtés, Rayon Noir (canon) | un frère de cœur |
 | 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : se tranche la main gauche touchée par Mahito ; avec Yuji, bat Mahito | main gauche perdue |
 | nuit 31 oct - 1 nov 2018 (C3_1) | Au campement de Shibuya : veut aider malgré sa main en moins ; croise Nisha | - |
+| 14 nov 2018 (D4) | Shinjuku, front Sukuna, au contact : Boogie Woogie, malgré sa main gauche en moins | - |
 
 ## Notes de frontiere
 - Devenir post-C3 -> ère D.

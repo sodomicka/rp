@@ -1,6 +1,6 @@
 # Kinji Hakari
 
-- version : W12
+- version : W13
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee a Tokyo, suspendu en cours d'arc. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -58,6 +58,7 @@ Fiches propres : cf. Personnages/Kirara.md, Satoru.md, Nisha.md ; Factions/Haute
 | debut 2018 (B3_5) | Suspension prononcee dans la foulee de la Parade. Nisha approuve, juge la peine trop douce. Lance le Gachinko Fight Club. Hors du systeme, change de tete : blond en brosse, moustache (cf. Physique) - c'est sous cette forme qu'on le revoit ensuite | sort du systeme ; nouvelle tete |
 | 2 nov 2018 (D2_2) | Recrutement (canon, ch. 153-158, avancé de huit jours) : match arrangé Yuji/Panda, Kirara à la porte ; Nisha regarde aux caméras avec lui, accueillie en VIP (il respecte trop sa puissance pour la faire combattre). Yuji le convainc ; son prix, un garant contre les supérieurs : Nisha, qui soutenait sa suspension, s'en porte garante | réintégré au camp |
 | ~4 nov 2018 (D2) | Entre dans la colonie de Yuji et Megumi (hors POV de Nisha) ; tueur, ramasse des points pour la neutralité des sortants. [DIVERGENCE RP vs canon] Ni Charles Bernard ni Kashimo : tués par Nisha à Tokyo n°2 | caisse commune |
+| 14 nov 2018 (D4) | Shinjuku, front Sukuna, au contact (Jackpot) | - |
 
 ## Notes de frontiere
 - Premiere manifestation de son domaine : 2016, en 1re annee sous Satoru (cf. Trajectoire datee). Son cas est cite en cours comme particulier, SANS etre nomme - de meme que son inversion automatique en Jackpot.

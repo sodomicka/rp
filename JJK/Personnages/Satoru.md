@@ -1,6 +1,6 @@
 # Satoru Gojo
 
-- version : W14
+- version : W15
 
 ## Identité
 - Nom : Satoru Gojo. Canon. Le guerrier parfait vivant du clan Gojo.
@@ -36,10 +36,11 @@ Un exorciste = un sort inné en règle générale (canon). Le "cumul" Gojo tient
 ### Tissage (compétence technique, hors sort)
 - [DIVERGENCE RP] TISSEUR 3D PARFAIT : capable du tracé continu qui concilie l'ancre et la polarité, là où l'immense majorité des exorcistes doit sacrifier l'une pour l'autre. Quelques-uns par génération. Chez lui c'est un sous-produit des Six Yeux et du talent brut, pas le fruit d'un travail - ce qui l'agace plus qu'autre chose, le tissage étant à ses yeux un métier d'assistant. Les deux autres tisseurs parfaits connus de la période sont justement des non-combattants (Ijichi, Akari Nitta). Cf. Pedagogie/Detection_Contention_2eAnnee_S1.md.
 
-## Domaine : Vide Illimité (Unlimited Void)
+## Domaine : Sphère de l'Espace Infini (VO : Unlimited Void)
 - Extension de Territoire (canon). Submerge la cible d'un flux infini d'informations qui la fige (surcharge sensorielle absolue).
-- [DIVERGENCE RP] Nom diégétique : Sphère de l'Espace Infini. Satoru l'adopte au cours d'A2, le nom étant soufflé par Nisha en écho à son propre territoire (la Sphère du Temps Infini) - indice cosmologique du jeu de miroir espace/temps entre les deux. "Vide Illimité / Unlimited Void" reste le nom canon de référence (cf. Trajectoire datée).
+- [DIVERGENCE RP] Nom diégétique : Sphère de l'Espace Infini. Satoru l'adopte au cours d'A2, le nom étant soufflé par Nisha en écho à son propre territoire (la Sphère du Temps Infini) - indice cosmologique du jeu de miroir espace/temps entre les deux. « Unlimited Void » reste le nom canon VO de référence ; en français, le domaine se nomme toujours Sphère de l'Espace Infini (pas de traduction littérale du nom VO).
 - État au point de départ (2005) : Satoru CONNAÎT son territoire intérieur, mais ne sait pas encore l'ÉTENDRE (aucun déploiement de domaine en 2005). Il a même eu la flemme de le nommer. Le déploiement effectif et le nom diégétique viennent avec la maîtrise post-éveil (cf. Trajectoire datée).
+- [DIVERGENCE RP] Domaine commun du couple : la Sphère de l'Espace-Temps Infini, née le 14 nov 2018 à Shinjuku (D4). Description et règles : cf. Personnages/Nisha.md, section Domaine.
 
 ## État au point de départ (2005)
 Satoru vaut alors 12 doigts (~31 % de Sukuna), pré-éveil. État globalement CANON : tout le palier supérieur ne se débloque qu'à l'éveil de 2006 (vs Toji).
