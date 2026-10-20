@@ -1,6 +1,6 @@
 # Momo Nishimiya
 
-- version : W6
+- version : W7
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -46,6 +46,7 @@ Fiches propres : cf. Personnages/Nisha.md. Ici, seul le rapport a Momo.
 | dec 2017 (B3_4) | Nuit des Cent Fleaux : oeil aerien decisif appuyant Mei Mei, Todo et Noritoshi. | preuve par les faits de sa valeur |
 | avr 2018 (B3_5) | Passe en 3e annee (sous Mei Mei). | -> seuil ere C |
 | sept 2018 (C1_5) | Amicale à Tokyo (3A de Mei Mei) : contre Nobara (canon) ; attaque d'Hanami | - |
+| 14 nov 2018 (D4) | Shinjuku, front Nozomu : balai, œil aérien | - |
 
 ## Notes de frontiere
 - Devenir post-B3 (3e annee, Amicale, ere C) -> roadmaps ere C. Non enonce ici.

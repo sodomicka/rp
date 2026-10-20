@@ -1,6 +1,6 @@
 # Yuji Itadori
 
-- version : W5
+- version : W6
 
 Fiche noyau (canon + RP), entité entrant en scène en juin 2018 (seuil de l'ère C) : réceptacle de Sukuna, élève de Satoru à Tokyo (promo 2018-2021). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -71,6 +71,7 @@ Fiches propres : cf. Personnages/Satoru.md, Megumi.md, Sukuna.md, Nisha.md. Ici,
 | 1 nov 2018 (C3_2 à C3_4) | Erre avec Choso et exorcise les fléaux lâchés dans Tokyo (canon) ; retrouvé par Nisha et Yuta, dissuade Choso de tuer Nisha ; non exécuté. Nouveau sursis arraché aux Instances par Nisha et Yaga : tant qu'il n'avale aucun nouveau doigt avant le retour de Satoru. Chez Tengen à midi (canon) | sous nouveau sursis |
 | 2 - ~4 nov 2018 (D2) | Match arrangé contre Panda, puis convainc Hakari (canon) ; entre avec Hakari et Megumi dans leur colonie (hors POV de Nisha). Higuruma l'affronte (canon) ; la règle du transfert consenti est celle de Nisha, pas la sienne | - |
 | 10 nov 2018 (D3, hors POV) | Saitama : Sukuna prend sa minute d'Enchain, tranche un doigt de Yuji où il concentre son âme et le fait avaler à Megumi (chantier D5-D6). Rien ne reste en lui | ne porte plus Sukuna ; coincé en dedans pendant la scène, lourd soutien à prévoir |
+| 14 nov 2018 (D4_3, D4_4) | Shinjuku, front de Satoru (Rayon Noir). Chopé à la gorge par le loup de Sukuna, planqué dans une nuée de lapins ; Choso l'apporte mourant à Nisha. Eien, aux commandes du corps, ouvre le Jardin des Ères Mortes autour de lui et le REMBOBINE | mort et rembobiné |
 
 ## Notes de frontière
 - Peintures Mortes et Shibuya : portés en Trajectoire datée (cf. Roadmap/Nisha/Roadmap_C2.md). Nouveau sursis : porté en Trajectoire datée (cf. Roadmap_C3.md, C3_3) ; Transfert de Sukuna : -> ère D.

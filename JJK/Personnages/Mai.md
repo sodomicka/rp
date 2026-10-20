@@ -1,6 +1,6 @@
 # Mai Zenin
 
-- version : W14
+- version : W15
 
 Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir). Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (detail -> roadmap).
 
@@ -47,6 +47,7 @@ Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir
 | 1 nov 2018 (D1) | Seule au domaine (Naoya parti a Tokyo avec Nori) : la purge d'Ogi la vise ; elle se bat ferocement avec Ranta contre la Kukuru et une partie du Hei, ACCULEE parce que plus forte, trop prise pour prevenir qui que ce soit. Maki la rejoint ; les jumelles tuent leur pere. Le curseur bascule a ~10/90 en sa faveur : elle ressemble a Yorozu, elle deborde d'energie occulte | 15 doigts (decision worldbuilder, thread D1) ; repart a Tokyo avec Nisha et Maki |
 | nov 2018 (D2) | Sakurajima avec Maki, seules (hors POV) ; tueuses, ramassent des points pour la neutralité des sortants | - |
 | nov 2018, après le 8 (D3) | Traque finie, rentre au domaine Zenin | - |
+| 12 - 28 nov 2018 (D4) | Effort de guerre total. Shinjuku, front Nozomu, en symbiose avec sa jumelle ; les deux paires de jumeaux achèvent Nozomu. Membre du nouveau conseil Zenin | conseil Zenin |
 
 ## Notes de frontiere (hors noyau)
 - Bascules du partage gemellaire et devenir au-dela de B3 (arc canon, lien avec Maki) : -> roadmap / arcs ulterieurs.

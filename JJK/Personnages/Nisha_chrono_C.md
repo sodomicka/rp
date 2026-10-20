@@ -1,6 +1,6 @@
 # Nisha Zenin - Chronologie datée, ère C (2018)
 
-- version : W4
+- version : W5
 
 Extension de Personnages/Nisha.md (suite de Nisha_chrono_B.md). Contient la TRAJECTOIRE DATÉE de Nisha pour l'ère C (juin 2018 -> fin 2018). Strate canon par défaut, télégraphique ; le détail vit dans les roadmaps. Build-side : fetchée à la demande, JAMAIS chargée en narration. Le NOYAU reste dans Personnages/Nisha.md. État : entrées C1 à C3 (juin -> 1er novembre 2018) posées : ère C complète.
 
@@ -17,7 +17,7 @@ Extension de Personnages/Nisha.md (suite de Nisha_chrono_B.md). Contient la TRAJ
 | oct 2018 (C2_3) | LE SECRET À DEUX. N'en parle qu'à Naoya, pour prendre Kenjaku de court ; à Satoru, le 31 : « un conseil de clan » | Satoru tenu à l'écart |
 | 31 oct 2018 (C2_4) | TAKATSUKI. Piégée avec Naoya ; voit Geto balafré à la fermeture ; ne fait RIEN, et le double fond rate ; Eien lui révèle le cheveu de 2015 ; démêlée par Yukiko, raconte la vente devant Nori | sait que Kenjaku porte Geto ; cercle du secret : Naoya, Yukiko, Nori |
 | 31 oct 2018 (C2_5) | Sortie de Takatsuki, tard dans la nuit : part pour Shibuya (Shibuya joué hors POV) | - |
-| nuit 31 oct - 1 nov 2018 (C3_1) | SHIBUYA, LA NUIT. Arrive après le départ de Kenjaku : Satoru scellé, Nanami mort. Va d'abord à ses gosses : Megumi sain et sauf au campement de Shoko ; apprend que Sukuna l'a soigné parce qu'il « a encore besoin de lui ». Aide Shoko à soigner Maki, Nobara et les autres ; croise Arata, Todo, Momo, Miwa, Utahime | culpabilité d'avoir été piégée ; graine d'effroi (-> Saitama, ère D) |
+| nuit 31 oct - 1 nov 2018 (C3_1) | SHIBUYA, LA NUIT. Arrive après le départ de Kenjaku : Satoru scellé, Nanami mort. Va d'abord à ses gosses : Megumi sain et sauf au campement de Shoko ; apprend que Sukuna l'a soigné parce qu'il « a encore besoin de lui ». Aide Shoko à soigner Maki, Nobara et les autres ; croise Arata, Todo, Momo, Miwa, Utahime Akari Nitta, poignardée par Haruta Shigemo, et Megumi lui décrivent tous deux cette petite merde, qui a failli les tuer. | culpabilité d'avoir été piégée ; graine d'effroi (-> Saitama, ère D) |
 | aube 1 nov 2018 (C3_2) | LE BOURREAU ET LE FRÈRE. Cherche Yuji avec Yuta, qui lui rapporte les décisions des Instances ; Choso sent Eien et veut la tuer, Yuji l'en dissuade ; elle n'exécute pas Yuji (le couple sait ce qu'il vaut en doigts : elle a de la marge). Croise Naoya et Nori blessé au campement | sait que Kenjaku tient le palais Kamo |
 | 1 nov 2018, matinée (C3_3) | LA SALLE DES INSTANCES. Avec Yaga, livre le secret des corps autonomes contre la vie de Yaga et un nouveau sursis pour Yuji (tant qu'il n'avale aucun nouveau doigt avant le retour de Satoru) ; obtient la levée du bannissement de Satoru en menaçant de mort toute la salle ; tient les Instances hors des affaires de clans pour quelques jours, sous la même menace | Instances muselées ; Satoru redevient libérable légalement |
 | 1 nov 2018, midi (C3_4) | TENGEN. Manque d'égorger Tsukumo (la graine de mûre) ; dans le Jardin, promet à Choso que Kenjaku mourra sous les yeux d'Eien ; explique à Nori le sacrifice de sa sœur | T-« la bonne question » et T-Nisha vs Yuki DÉTONÉS ; promesse à Choso |

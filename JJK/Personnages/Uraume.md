@@ -1,6 +1,6 @@
 # Uraume
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entité entrant en scène en ère C (31 octobre 2018) : suivant de Sukuna depuis l'ère Heian, incarné. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -41,6 +41,8 @@ Fiches propres : cf. Personnages/Sukuna.md, Kenjaku.md, Nozomu.md, Tsumiki.md. I
 |---|---|---|
 | 31 oct - 1 nov 2018 (C2_5) | Shibuya, hors POV : paraît aux côtés de Kenjaku après l'absorption de Mahito ; face à Yuki Tsukumo à l'arrivée de celle-ci ; repart avec Kenjaku (canon). Nisha ne le croise pas | entre en scène |
 | 8 - 10 nov 2018 (D3) | Absent du banquet Kamo : attend caché avec les doigts ; après Saitama, rejoint Sukuna et le nourrit des derniers doigts | auprès de son roi |
+| 10 - 14 nov 2018 (D4, hors POV) | Sukuna lui raconte la clause de protection de Tsumiki | connaît la clause |
+| 14 nov 2018 (D4_3, D4_4) | SHINJUKU. Voyant Sukuna galérer et Mahoraga tombé, comprend qu'il faut céder son corps à plus fort : passe outre le refus de son roi, fait sauter le sceau et active Nozomu en lui ; désigne Tsumiki comme l'enfant protégée par Sukuna, les étudiants comme les enfants qui souffrent. Écrasé par Nozomu, qui prend son corps ; il n'en reste pas grand-chose après la frappe combinée des deux paires de jumeaux | MORT |
 
 ## Notes de frontière
 - Ère D (Traque, doigts, marque de Nozomu, bataille finale) : questions ouvertes au journal (domination, forme physique, savoir sur la lettre de Saitama, garde de Tsumiki) -> roadmaps D.

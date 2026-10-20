@@ -1,6 +1,6 @@
 # Yuta Okkotsu
 
-- version : W9
+- version : W10
 
 Fiche noyau (canon + RP), entite entrant en scene en cours d'annee 2017 (B3) comme eleve de l'universite de Tokyo. Rika integree a cette fiche. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -54,6 +54,7 @@ Fiches propres : cf. Personnages/Satoru.md, Nisha.md. Ici, seul le rapport a Yut
 | apres JJK0 (fin B3) | Part a l'etranger (Afrique) avec Miguel, en attendant Shibuya. | etat de sortie B3 : absent du Japon |
 | aube 1 nov 2018 (C3_2, C3_4) | Rentré d'Afrique en éclair (Chronokinésie copiée) sur ordre des Instances, désigné bourreau de Yuji ; son bang supersonique alerte Nisha. Il lui rapporte les décisions des Instances, ils cherchent Yuji ensemble ; elle l'en dissuade (les Instances auront de quoi se mettre sous la dent, d'autres menaces pressent). Chez Tengen à midi (canon) | de retour au Japon |
 | nov 2018 (D2) | Colonie de Sendai (canon), seul ; tueur, ramasse des points pour la neutralité des sortants | - |
+| 14 nov 2018 (D4) | Shinjuku, front Sukuna, au contact (Rika, Copie, Chronokinésie copiée) | - |
 
 ## Notes de frontiere
 - Retour à Shibuya porté en Trajectoire datée (C3_2). ~15 doigts à son retour ; suite -> ère D.

@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W26
+- version : W27
 
 Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de départ (2005) : identité, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datée post-départ) est scindé par volume pour le poids -> cf. section dédiée en bas de fiche et Personnages/Nisha_chrono_A.md. Tissu relationnel (appellatifs, registres, habitudes, contentieux) : cf. la série Personnages/Nisha_relations_<cercle>.md (proches / famille / boulot / eleves_tokyo).
 
@@ -38,6 +38,7 @@ Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de dé
 - Sort du parasite Eien. Nisha l'utilise comme si c'était le sien (parasitisme).
 - Module l'effet du temps sur un objet touché : ralentir ou accélérer. S'applique aussi à son propre corps et à sa conscience.
 - [DIVERGENCE RP] Application cognitive et scribale : conscience et corps accélérés -> lecture et recopiage de textes à une vitesse absurde. C'est à elle que Nisha doit son statut de génie (apprentissage dévorant, archives comprises). PAS de mémoire photographique : elle recopie, elle ne photographie pas.
+- [DIVERGENCE RP] PERDUE le 14 nov 2018 (D4) : Eien meurt en l'emportant. Nisha ne garde que la Chronostase et son domaine, et retombe à 14 doigts (cf. Personnages/Nisha_chrono_D.md).
 - Forme ultime = le gel, débloquée seulement en territoire. Le gel inclut le tir cinétique : il est identique à la Chronostase complète.
 - [DIVERGENCE RP] Accès PLEIN arraché à Eien par l'échec de son putsch de 1997 - échec et putsch INVISIBLES pour Nisha (cf. Chronologie noyau, Personnages/Eien.md).
 
@@ -62,6 +63,13 @@ Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de dé
 - Inversion temporelle : sur son propre corps. Un bras tranché se dé-tranche, une brûlure se dé-brûle. Ce n'est PAS le sort d'inversion (RCT) : c'est une inversion temporelle littérale, au-dessus de la RCT.
 - Coût : vide colossalement ses réserves d'énergie occulte. Ultime recours. Après usage, hors d'état de se battre.
 - [DIVERGENCE RP] Domaine acquis à 8 ans (1995), et FORCÉ : Nisha projetant sa conscience dans le Jardin des Ères Mortes depuis 1991, Eien s'en est servie pour l'agresser à répétition avec son propre territoire, jusqu'à faire éveiller le sien. Motif du parasite : préparer le corps qu'elle comptait prendre à 10 ans. Le procédé est le seul forçage connu au monde (cf. BIBLE SB1) et son résultat n'est jamais garanti - ici, il a trop bien marché. VÉRITÉ MJ : Nisha, elle, a vécu ces agressions comme un entraînement offert par son amie (cf. Nisha_relations_proches.md). Cf. Personnages/Eien.md.
+
+### Domaine commun du couple : Sphère de l'Espace-Temps Infini [DIVERGENCE RP]
+- Née le 14 nov 2018 à Shinjuku (D4), jamais travaillée : Nisha et Satoru veulent agresser Sukuna en même temps, par choix délibéré, et découvrent qu'on peut lancer un domaine mêlé en déployant deux Extensions sur le même timing qu'un Rayon Noir. Bases : la Sphère de l'Espace Infini de Satoru et la Sphère du Temps Infini de Nisha. Attaque ultime du couple.
+- Fonction : elle ouvre au couple le territoire intérieur de la cible (Sukuna dans Megumi).
+- Maîtrise : aucune. C'est une bataille contre le domaine intérieur de la cible, avec la seule garantie de toucher par les tirs cinétiques (Chronostase) ou l'Infini.
+- Visuel : une étendue d'eau violette à l'infini sous un ciel étoilé, rien d'autre.
+- Durée vue de l'extérieur : un vingt-quatrième de seconde. Prix : Nisha s'évanouit une fois la cible vaincue (deux semaines d'inconscience en D4).
 
 ## Pool gémellaire (mécanique)
 [DIVERGENCE RP] Réécriture du partage Maki/Mai. Pas un pool commun "chacun son énergie", mais "chacun sa contribution, chacun tire une moitié".

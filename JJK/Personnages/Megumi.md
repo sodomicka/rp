@@ -1,6 +1,6 @@
 # Megumi Fushiguro
 
-- version : W11
+- version : W12
 
 Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = qui est Megumi a son entree en scene (identite, nature, sort, psychologie, relations) ; son devenir post-2008 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps ere B). Enfant sur tout B1 : scaling de combat non pertinent (potentiel seulement).
 
@@ -79,10 +79,13 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya
 | juil 2018 (C1_3) | Centre de détention : envoyé avec Yuji et Nobara face à un Grade Spécial par vote des Instances ; père injoignable (Chine), il envoie le SOS à Nisha (« c'est la merde »). Affronte Sukuna dans le corps de Yuji ; voit Yuji mourir, puis sa mère arriver trop tard | blessé ; dans le cercle du secret Yuji |
 | sept 2018 (C1_5) | Amicale à Tokyo (canon) ; attaque d'Hanami | - |
 | sept 2018 (C2_1) | Peintures Mortes, pont de Yasohachi (canon) | - |
-| 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : invoque Mahoraga, que Sukuna abat. Toji, ressuscité, l'affronte, lui demande son nom : « Gojo-Zenin ». Toji comprend et se tue, serein. Megumi le racontera à ses parents | a vu son père biologique ; Mahoraga invoqué |
-| nuit 31 oct - 1 nov 2018 (C3_1, C3_4) | Soigné par Sukuna (il « a encore besoin de lui », canon), déposé au campement de Shoko : sain et sauf, il apprend à sa mère que papa est scellé. Chez Tengen à midi (canon) | sain et sauf |
+| 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : blessé par Haruta Shigemo, invoque Mahoraga, que Sukuna abat. Toji, ressuscité, l'affronte, lui demande son nom : « Gojo-Zenin ». Toji comprend et se tue, serein. Megumi le racontera à ses parents | a vu son père biologique ; Mahoraga invoqué |
+| nuit 31 oct - 1 nov 2018 (C3_1, C3_4) | Soigné par Sukuna (il « a encore besoin de lui », canon), déposé au campement de Shoko : sain et sauf, il apprend à sa mère que papa est scellé. Chez Tengen à midi (canon) ; avec Akari Nitta, décrit à sa mère Haruta Shigemo, qui a failli le tuer | sain et sauf |
 | 2 - ~4 nov 2018 (D2) | Recrutement de Hakari (canon) ; entre avec Hakari et Yuji dans leur colonie (hors POV de Nisha). Higuruma lui apporte des points pour sortir, neutre | neutre |
 | 10 nov 2018 (D3, hors POV) | SAITAMA, à la maison avec Maki et Yuji pendant que ses parents sont verrouillés au palais Kamo et dans la Lisière : cède son corps à Sukuna pour protéger Tsumiki (Serment de Saitama, chantier D5-D7) ; disparaît | réceptacle consenti ; disparu -> D4 |
+| 10 - 14 nov 2018 (D4, hors POV) | Passager consenti, coincé dans son corps : témoin de la conversation où Sukuna raconte la clause à Uraume et avoue son bluff | - |
+| 14 nov 2018 (D4_5) | Ne résiste jamais : la protection de Tsumiki tient. Ses parents entrent dans le territoire intérieur de Sukuna par la Sphère de l'Espace-Temps Infini et démontent son squatteur sous ses yeux, comme Nisha l'avait fait pour Tsumiki (Yorozu, 2015) | LIBRE, vivant |
+| 28 nov 2018 (D4_5) | Refuse sa place au nouveau conseil Zenin | hors du conseil |
 
 ## Graines plantees / armees en B1 (a NE PAS detoner avant l'ere prevue)
 - Rivalite de succession Naoya <-> Megumi : s'ARME en B1 (Megumi porte les Dix Ombres, eleve hors clan). Adossee au testament de Naobito : [DIVERGENCE RP] une lettre ou le clan Zenin reconnait le PORTEUR DES DIX OMBRES comme successeur legitime de Naobito - scellee, descellee seulement APRES Shibuya (ere C). Megumi, fils de Toji et porteur des Dix Ombres, en devient le beneficiaire malgre son education hors-clan, en travers de Naoya (heritier de fait). Detonation -> ere C. En B1, rien ne detone : Megumi est un enfant, la lettre dort. (Touche aussi la fiche Naobito -> a integrer au build ere C.)

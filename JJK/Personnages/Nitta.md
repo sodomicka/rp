@@ -1,6 +1,6 @@
 # Akari Nitta
 
-- version : W8
+- version : W9
 
 Fiche noyau (canon + RP), entité entrant en scène au cours de l'arc B1 (2011, entrée à Kyoto). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. État noyau décrit = qui est Nitta à son entrée en scène (identité, nature, psychologie, relations) ; son devenir est consigné en Trajectoire datée (télégraphique ; détail -> roadmaps ère B). Non-combattante (assistant manager) : hors-axe combat.
 
@@ -61,6 +61,9 @@ Fiches propres : cf. Personnages/Nisha.md, Ijichi.md. Ici, seul le rapport à Ni
 | 2014 (B2) | Diplômée, elle QUITTE Kyoto pour Tokyo, où elle devient assistant manager. Motif [DIVERGENCE RP] : ALIGNEMENT DE MENTALITÉS - son profil progressiste (rebelle, franche, libre) ne tient pas au pôle conservateur, elle rejoint le pôle ouvert par affinité. Le motif canon "veiller sur Arata" ne s'applique PAS ici : Arata reste à Kyoto et n'y entrera qu'en 2018. BASCULE DE MOTIVATION : ce n'est plus le frère qui la porte, c'est la doctrine héritée de Nisha ("protéger les faibles, servir les forts") | assistant manager à Tokyo ; Ijichi devient son modèle de métier ; premier relais de la doctrine hors du cercle Zenin |
 | 24 déc 2017 (B3_4) | Nuit des Cent Fléaux, côté Tokyo : protège les rideaux et les civils (Tokyo épargne) et se réjouit de n'avoir pas pris part au massacre de Kyoto (Kyoto équarrit) - payoff de son choix progressiste (cf. Roadmap/Nisha/Roadmap_B3.md) | le choix de Tokyo validé par la nuit |
 | sept 2018 (C2_1) | Escorte le trio de Tokyo aux Peintures Mortes (canon). Surveille le fils de sa prof préférée et envoie à Nisha un rapport officieux par portable, avant le rapport officiel | - |
+| 31 oct 2018 (C2_5) | Shibuya (canon) : Haruta Shigemo la frappe au sternum et la poignarde plusieurs fois ; Nobara le retient, Nanami la met à l'abri ; survit | blessée |
+| nuit 31 oct - 1 nov 2018 (C3_1) | Au campement de Shoko : décrit Haruta à Nisha, avec Megumi | - |
+| 14 nov 2018 (D4) | Shinjuku : barrières et rideaux, en combo avec Ijichi et Yukiko | - |
 
 ## Notes de frontière
 - [DIVERGENCE RP] ARATA À KYOTO : c'est Akari qui l'y pousse (promo 2018-2021), pour qu'il passe par le même cursus qu'elle. Son rejet vise le clanisme de la vieille ville, PAS l'équipe pédagogique de Kyoto, dont elle est fan absolue. Rapport adulte du frère et de la sœur -> ère C.

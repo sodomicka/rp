@@ -1,6 +1,6 @@
 # Kiyotaka Ijichi
 
-- version : W3
+- version : W4
 
 ## Identite
 - Kiyotaka Ijichi, 1re annee a l'universite de Tokyo en 2006 (promo 2006-2009), VOIE MANAGER (assistant). [DIVERGENCE RP] : le canon ne met que Nanami + Haibara en 1re annee 2006 ; Ijichi est un ajout RP - l'illustration que l'universite forme aussi des assistants, pas seulement des combattants.
@@ -29,6 +29,7 @@
 ## Trajectoire datee (A2)
 - 1 avr 2006 (A2_1) | Rentree : il integre Tokyo avec Nanami et Haibara, voie manager ; Nisha le distingue et l'apprecie (humilite + competence en barrieres). | Etabli comme le manager-en-formation de la promo. -> roadmap A2_1.
 - (Reste d'A2 : presence de fond, hors tentpoles.)
+- 14 nov 2018 (D4) | Shinjuku : barrières et rideaux, en combo avec Akari Nitta et Yukiko. | -
 
 ## Notes de frontiere
 - Ijichi SURVIT a A2 : trajectoire non-terminale, elle continue en ere B.

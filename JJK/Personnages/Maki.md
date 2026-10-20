@@ -1,6 +1,6 @@
 # Maki Zenin
 
-- version : W17
+- version : W18
 
 Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir). Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (detail -> roadmap).
 
@@ -43,14 +43,15 @@ Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir
 | 24 dec 2017 (B3_4) | Nuit des Cent Fleaux, cote Tokyo (hors-POV de Nisha) : defend l'universite aux cotes de Toge et Panda (canon JJK0) | premiere vraie guerre |
 | juil - sept 2018 (C1_4) | Dans le cercle du secret Yuji, caché à Saitama, chez elle | gardienne du secret |
 | sept 2018 (C1_5) | Amicale à Tokyo : de nouveau face à Mai, ÉGALITÉ (30/70 inchangé) ; attaque d'Hanami | égalité tenue |
-| 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : brûlée par Jogo, blessée mais VIVANTE | blessée |
+| 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : brûlée par Jogo, blessée mais VIVANTE ; ses brûlures lui laissent le corps couvert de cicatrices (canon) | blessée ; cicatrices |
 | 1 nov 2018 (C3_1, C3_4) | Soignée au campement de Shoko, aidée par Nisha. Chez Tengen à midi (canon) | brûlée, debout |
 | 1 nov 2018 (D1) | Portee jusqu'au domaine dans les bras de Nisha (elle n'apprecie pas). Fonce dans la melee, plus que jamais decidee a se battre du meme cote que sa soeur ; les jumelles tuent leur pere. Le curseur bascule a ~10/90 : elle ressemble a Toji en energie occulte, presque indetectable | 16 doigts (un de plus que Mai : l'egalite structurelle s'arrete a 30/70) ; repart a Tokyo avec Nisha et Mai |
 | nov 2018 (D2) | Sakurajima avec Mai, seules (hors POV) [DIVERGENCE RP vs canon : Maki y va avec Nori] ; tueuses, ramassent des points pour la neutralité des sortants | - |
 | 10 nov 2018 (D3, hors POV) | Rentrée à Saitama une fois la Traque finie : Megumi se vend à Sukuna face à sa « tata » (chantier D5). Elle attaque Sukuna, qui la stoppe sans répliquer, satisfait de la voir douter de sa puissance ; elle en sort intacte. Appelle Nisha : Tsumiki et Megumi sont partis, elle file au domaine chercher Mai et Naoya pour les récupérer. Nisha refuse et annonce un conseil de guerre avec les deux écoles | intacte ; doute de sa puissance |
+| 14 - 28 nov 2018 (D4) | Shinjuku, front Nozomu, en symbiose avec sa jumelle ; les deux paires de jumeaux achèvent Nozomu. Membre du nouveau conseil Zenin | conseil Zenin |
 
 ## Notes de frontiere (hors noyau)
-- Apparence : elle CHANGE post-Shibuya (ere C) - detail hors de cette fiche, -> roadmap ere C.
+- Apparence post-Shibuya : corps couvert de cicatrices de brûlure (Jogo, canon). [DIVERGENCE RP] Depuis le coup d'État (1er nov 2018), une fois à 10 %, elle ressent les fléaux : plus besoin de lunettes (au canon, seulement après la mort de Mai).
 - Cap Grade 4 deja pose ; entree a Tokyo integree en Trajectoire datee ; bascules du partage gemellaire au-dela de B3 -> roadmap / arcs ulterieurs. Le massacre canon du clan par Maki est REMPLACE par le coup d'Etat du 1er nov 2018, mene par les deux paires de jumeaux et Ranta (cf. Roadmap/Nisha/Roadmap_D1.md, BIBLE SB8).
 - B3 cote Mai (lecon Yorozu, exploite 8 des 2015, curseur 40/60 inchange) : cf. fiche Mai. Chiffres : cf. Power_Scaling/Doigts_de_Sukuna.md (Trajectoire ere B).
 - Detail narratif du retournement A2 (harcelement -> refuge) : -> Roadmap A2_6, A2_10. Detail B2 (depart a Saitama) : -> Roadmap_B2 (B2_2). Detail B3 : -> Roadmap_B3.

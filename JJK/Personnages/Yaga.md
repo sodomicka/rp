@@ -1,6 +1,6 @@
 # Masamichi Yaga
 
-- version : W7
+- version : W8
 
 Page = fiche noyau (etat atemporel / point de depart 2005). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Plot futur -> roadmap. Resume condense en BIBLE SB5.
 
@@ -54,7 +54,9 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport a N
 | 2011 (B1) | Naissance de PANDA, son Magnum Opus. Yaga a deja trouve et harmonise les trois ames compatibles et saurait les amalgamer seul ; il appelle Nisha (sa prodige du temps) pour le LUXE du temps. Dans la Sphere du Temps Infini de Nisha, ils passent des heures subjectives (1/24e de seconde reel) : elle fige les noyaux a la Chronostase pour qu'il manie les ames avec finesse et sans la moindre precipitation. Panda nait stable. -> respect mutuel avec Nisha mue en confiance profonde (co-parentalite) ; graine T-Ames (cf. ci-dessous) | cree son chef-d'oeuvre ; lien Nisha approfondi |
 
 | 1 nov 2018 (C3_3) | Condamné à mort par les Instances dans la nuit pour avoir « fomenté » Shibuya. Convoqué par Nisha : ils expliquent à deux le secret des corps autonomes ; il détaille ses autres créations, faites SANS la Chronostase (Takeru, modelé sur le neveu défunt de Kusakabe, et d'autres ; canon) ; Panda est le premier, et le seul qu'il tient pour son fils. Jubile, avec Gakuganji, quand Nisha menace la salle | VIVANT ; T-Ames DÉTONÉ |
+| 6 nov 2018 (D2) | Recoud le bras de Panda, arraché par Kashimo, dès sa sortie de l'arène | - |
 | 11 nov 2018 (D3) | Nisha l'appelle avec Gakuganji, Satoru tout juste sorti : on prépare l'ultime bataille, en essayant de ramener Megumi en vie | au front, côté famille |
+| 12 - 14 nov 2018 (D4) | Conseil de guerre des deux écoles. Shinjuku, front Nozomu : corps maudits. Panda, son fils, première cible de Nozomu | - |
 
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Panda (creation dotee d'une ame autonome, aboutissement de son art) : NE en 2011 avec l'aide de Nisha (cf. Trajectoire datee et fiche Panda). [DIVERGENCE RP] le canon ne date pas sa creation ; ici datee 2011. Camarade de promo 2017-2020.

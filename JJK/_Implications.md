@@ -1,6 +1,6 @@
 # _Implications
 
-- version : W55
+- version : W56
 
 Journal de conception (passes en spirale). Document de TRAVAIL : jamais fetché en narration.
 
@@ -14,23 +14,13 @@ Format libre : `<entité/lieu> | <arc ou contexte> | <point à vérifier / doute
 
 Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE SB8 y renvoie. À RÉSORBER dans les roadmaps C/D à leur écriture, puis à retirer d'ici.
 
-- Marque de Nozomu / Uraume | ère C/D | (a) Kenjaku confie la marque à Uraume à son incarnation (date non fixée), mode d'emploi à destination de Sukuna, DOUBLE CLÉ : si cette ère le laisse sur sa faim - réveiller Nozomu en MENAÇANT un enfant (adversaire de secours) ; si par humilité Sukuna admet que le monde préparé est trop féroce - le réveiller en PROTÉGEANT un enfant et en désignant des cibles à libérer (arme de meute). (b) Ère D : Sukuna REFUSE d'employer la marque ; Uraume l'INGÈRE, désigne Tsumiki comme l'enfant protégée par Sukuna (double rôle, sous la garde directe du Roi) et les étudiants présents comme les enfants qui souffrent de Nisha, Satoru et leurs alliés ; Uraume finit DOMINÉ, ÉCRASÉ par Nozomu. (c) Insertion du réveil : EN PLEINE bataille finale, post-D7 (après serment et complétion 20/20) ; refus de Sukuna et ingestion par Uraume se calent dans ou juste avant cette fenêtre [À CALER à la roadmap].
-- Emboîtement marque / serment | ère D | LECTURE MJ (observation, pas une décision) : la clé allié exige de PROTÉGER un enfant, et par la lettre de Saitama Sukuna protège contractuellement Tsumiki ("ni mon abstention là où je me tiens") - Uraume peut donc la désigner en toute vérité LITTÉRALE. Le littéralisme de la marque (un gamin de 4 ans) et celui du serment (sans juge, la lettre fait loi) s'emboîtent ; T-Assurance-Tsumiki et la marque CONVERGENT sur elle.
-- Bataille finale | ère D | (a) Nisha + Satoru engagent Sukuna-dans-Megumi en 2v1 et MANQUENT DE PEU de sauver leur fils ; (b) Nozomu-dans-Uraume vise PANDA - doctrine au mot près (l'enfant de quelqu'un : fils de Yaga ET de Nisha) ; par instinct maternel, Nisha S'INTERPOSE ; (c) configuration finale : Nisha et ses gamins CONTRE Nozomu // Satoru, ses alliés et ses gamins FACE À Sukuna et ses shikigamis. Enchaînement causal [IMPLICITE - à confirmer] : le "presque" du 2v1 tient à l'irruption de Nozomu. Fonction dramatique : Nozomu justifie rétroactivement le traitement de faveur des enfants Gojo ET transforme un 2v1 gagnant en bataille désespérée.
-- Bataille finale - fronts | ère D | (a) Front Satoru, noyau posé : Hakari, Kirara, Higuruma, Takaba, Yuta, Yuji, "etc." (liste ouverte) - venus sauver le fils. (b) Front Nisha : PUREMENT ses protégés, pas une logique de clan ; Yukiko, Noritoshi, Naoya et Mai délibérément HORS de ce front (leur position pendant la bataille : non fixée). (c) Cadrage thématique acté : la symbolique politique/clanique est DÉPENSÉE à Shibuya - en ère D, la politique c'est fini, on sauve les enfants face au libérateur d'enfants. Asymétrie des fronts VOULUE (le front du prota porte le cœur, le front Satoru le nombre et le spectacle).
 - Repas claniques | roadmaps | 29 fév 2008 = SEULE édition dramatique restante (quelques semaines après le massacre de Geto fin 2007, un mois avant le diplôme de mars 2008) - placement roadmap À DÉCIDER, rétropropagation aux roadmaps de Nisha.
 
 ## Questions ouvertes - à trancher
 
 - Amendement de spirale Eien-1997 | ère B/C | Nisha apprend-elle un jour (2015+) que 1997 fut un putsch et non un don ? [non fixé]. Levier dramatique potentiel des visites.
-- Nozomu x Uraume | ère D | (i) Règle des signatures x domination : Nozomu écrasant Uraume, commande-t-il les DEUX arsenaux (son kit + Ice Formation/RCT), façon Sukuna-dans-Megumi ? (ii) Forme physique au réveil : corps de fléau propre ou corps de Shiori Himi remodelé ? (iii) Savoir d'Uraume sur la lettre de Saitama (désigner Tsumiki suppose de connaître la clause de protection) : canal à fixer.
-- Flagellation du Bourreau | ère D | Face au camp Nisha : qu'est-ce qui compte comme horreur INFLIGÉE chez elle (coup d'État assumé, vente de 2015 arrachée sous possession) ? Panda, corps maudit doté d'une âme, est-il une âme pure épargnée par conception ?
-- Uraume | ère D | Fiche créée (thread C2 : 14 doigts, masculin). Reste ouvert : lien Heian Uraume/Yorozu, grief potentiel RÉEL contre Nisha [PROPOSÉ MJ - non tranché] ; date de la remise de la marque par Kenjaku [non fixée].
-- Takaba | ère D | Son rôle canon (duel Kenjaku) est mort avec Kenjaku au palais : EMPLOI NEUF à définir, fiche à prévoir.
-- Roster de la Traque | ère D | Posé au thread D2 : Kashimo et Charles Bernard tués par Nisha à Tokyo n°2 (Kashimo sort donc de la bataille finale, où le canon l'oppose à Sukuna) ; Higuruma conservé, sans la règle de transfert (devenue celle de Nisha), il apporte des points pour la sortie de Megumi ; Takaba sans emploi fixé. Reste [À DÉFINIR] : composition des "gamins" de part et d'autre à la bataille finale.
-- Higuruma | ère D | Fiche à créer quand une roadmap le convoque en scène (hors POV en D2).
-- Sukuna / réincarnation du jumeau | ère C/D | Qu'il SACHE toute l'architecture est CANON (ch. 257) ; reste [OUVERT] le quand et le comment dans notre continuité (dite au pacte ? déduite ?). Levier dramaturgique du duel final. Maille dérivée : la renaissance en Jin AU SEIN de la lignée-réceptacle - aiguillage du couple ou coïncidence saisie ? [INCERTAIN, à trancher quand ça comptera].
-- Maki | ère C | Son apparence change post-Shibuya (décision worldbuilder, détail non fixé). Note de frontière posée dans sa fiche.
+- Uraume | ère D | Mort à Shinjuku (D4). Reste ouvert, sans urgence : lien Heian Uraume/Yorozu [PROPOSÉ MJ - non tranché] ; date de la remise de la marque par Kenjaku [non fixée].
+- Higuruma | ère D | Gardé dans le lore (la Traque, D2), mais jamais à la guerre (décision worldbuilder, thread D4). Fiche à créer quand une roadmap le convoque en scène.
 - A1_6 / état de sortie A1 | roadmap Nisha | Retouche éventuelle (dette de septembre au bilan) NON actée - "rivalité installée" reste Gojo/Zenin, Kamo n'y entre pas (autre école) ; à re-poser seulement si besoin.
 - Trou dormant | règle des bâtards | (étiquette dormante, ne pas traiter sans besoin) : la règle suppose un éveil - un sort qui ne s'éveille jamais laisse le verdict en suspens indéfiniment. Aucun cas connu.
 
@@ -40,12 +30,11 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE
 
 - Naobito / Ogi / Jinichi | densification ère B | Roadmap_B3 écrite et Gakuganji/Nitta débloqués ; reste la ligne du 24 déc 2017, sobre et identique aux trois fiches, à densifier (ce que chacun fait cette nuit-là) : rien d'acté, attend le worldbuilder.
 - Roadmaps ères C et D | Passe 2 | À ÉCRIRE. Elles résorbent la section "Faits actés en attente de leur strate" ci-dessus et le chantier Roadmap/_Chantier_Passe2_EresCD.md (item 18 de son registre S8 : trajectoires datées à alimenter).
-- Roadmap D4 | Passe 2 | À ÉCRIRE : la bataille finale, jusqu'à la fin du RP. Le chantier garde l'ancienne numérotation (D5 Saitama, D6-D7 mécanique et Serment), dont D4 doit résorber D6-D7 et le déroulé de Saitama.
+- Roadmap D5 | Passe 2 | À ÉCRIRE : la conclusion, actée au thread D4 (20 oct 2026). Point de départ : le réveil de Nisha, 28 nov 2018 (sortie de Roadmap_D4).
 - Laisse sur les Instances x palais Kamo | D3 | TENSION RÉDUITE : le palais tombe le 8 nov, une semaine après le « quelques jours » sans ingérence arraché par Nisha (Roadmap_C3). Reste à dire, si besoin, ce qui tient les Instances entre-temps (Gakuganji acquis, Naoya patriarche, Kamo tenus par Kenjaku, la Traque). Non tranché.
 - SPEC_BIBLE_LORE_WIKI | v9.1 à produire | Le plafond de page de 12k est levé (décision worldbuilder, thread D1) et retiré des instructions Config ; la SPEC v9.0 le porte encore (budgets de page, satellites, plafond d'entrées, Parties/). À retirer à la prochaine version de la SPEC.
 - Hautes Instances Zenin (doyens) | ère D | Représentent le clan auprès des Instances : qui s'adapte au nouveau patriarche et qui se retire = politique de Naoya, à jouer ou à poser plus tard.
 - Yaga | ère D | Dates de création de ses autres corps autonomes (Takeru et d'autres, canon) [À DATER, après 2011].
-- Mechamaru | ères C/D | Survivant guéri au potentiel de Grade Spécial (thread C2) : lui DONNER UN RÔLE (décision worldbuilder). Rien d'acté.
 
 ## Propagations en attente
 

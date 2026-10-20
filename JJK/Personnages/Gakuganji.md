@@ -1,6 +1,6 @@
 # Yoshinobu Gakuganji
 
-- version : W10
+- version : W11
 
 Page = fiche noyau légère (le gros est couvert par Factions/Hautes_Instances.md et Factions/Universite_Kyoto.md). État atemporel / point de départ 2005. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. Plot futur -> roadmap. Résumé condensé en BIBLE SB5.
 
@@ -69,6 +69,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport à 
 | sept 2018 (C1_5) | Amicale à Tokyo : Yuji réapparaît ; FURIEUX que Nisha le lui ait caché, il ne donne aucun ordre de tuer (Yukiko ne l'aurait pas toléré pour son frère) | fâché mais loyal |
 | 1 nov 2018 (C3_3) | Salle des Instances : mise sa place sur le secret de Yaga et ressort indemne. Menacé de mort comme toute la salle pour la levée du bannissement de Satoru, il JUBILE, avec Yaga : la seule fois où les deux sont du même camp | indemne |
 | 7 - 11 nov 2018 (D3) | Reçoit aux Instances l'annonce du banquet Kamo ; le 8 au matin, prévient Nisha en même temps que Naoya. Y vient pour ne pas éveiller de soupçons ; à l'assaut, aide à évacuer les invités. Le 11, Nisha l'appelle avec Yaga pour préparer l'ultime bataille | acquis, au front |
+| 12 - 14 nov 2018 (D4) | Conseil de guerre des deux écoles. Shinjuku, front Sukuna, soutien : son sort musical amplifie le rituel d'Utahime | - |
 
 ## Notes de frontière (reporté hors de cette fiche neutre)
 - Cas Yaga : réglé en salle des Instances, le 1er novembre 2018 (cf. Trajectoire datée et Roadmap/Nisha/Roadmap_C3.md, C3_3) : Yaga vivant.

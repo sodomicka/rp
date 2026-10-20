@@ -1,6 +1,6 @@
 # Hajime Kashimo
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entité entrant en scène en ère D (novembre 2018) : joueur de la Traque Meurtrière. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. Sources canon vérifiées : wiki fandom (Hajime Kashimo, ch. 158, 184-190) + animehunch, deltiasgaming.
 
@@ -40,6 +40,7 @@ Fiches propres : cf. Personnages/Nisha.md, Panda.md, Sukuna.md. Ici, seul le rap
 ## Trajectoire datée - ère D (alimentée à chaud arc par arc)
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
+| 2 nov 2018 (D2_2) | Tokyo n°2 : ajoute la 9e règle de la Traque, le droit de consulter les infos des autres joueurs (cf. Pedagogie/Traque_Meurtriere.md) | 100 points dépensés |
 | ~5 nov 2018 (D2_4) | Tokyo n°2 : face à Panda, Nisha arrive. Il trouve enfin l'adversaire digne et grille la Bête Mythique Ambre contre elle ; elle le tue. Par la règle du transfert à la mort (de Nisha), ses points passent à elle. [DIVERGENCE RP vs canon] Ni Hakari ni Sukuna : il ne quitte pas Tokyo n°2 | mort |
 
 ## Notes de frontière
