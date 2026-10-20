@@ -1,6 +1,6 @@
 # Mai Zenin
 
-- version : W12
+- version : W13
 
 Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir). Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (detail -> roadmap).
 
@@ -45,6 +45,7 @@ Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir
 | sept 2018 (C1_5) | Amicale à Tokyo : de nouveau face à Maki, ÉGALITÉ (curseur 30/70 inchangé) ; attaque d'Hanami. Dans le cercle du secret Yuji depuis juillet | égalité tenue |
 | 31 oct 2018 (C2_5, C3_1) | Au domaine Zenin pendant Shibuya, avec le clan. Dans la nuit, Naoya lui parle du testament et la prepare au putsch | dans le secret du coup d'Etat |
 | 1 nov 2018 (D1) | Seule au domaine (Naoya parti a Tokyo avec Nori) : la purge d'Ogi la vise ; elle se bat ferocement avec Ranta contre la Kukuru et une partie du Hei, ACCULEE parce que plus forte, trop prise pour prevenir qui que ce soit. Maki la rejoint ; les jumelles tuent leur pere. Le curseur bascule a ~10/90 en sa faveur : elle ressemble a Yorozu, elle deborde d'energie occulte | 15 doigts (decision worldbuilder, thread D1) ; repart a Tokyo avec Nisha et Maki |
+| nov 2018 (D2) | Sakurajima avec Maki, seules (hors POV) ; tueuses, ramassent des points pour la neutralité des sortants | - |
 
 ## Notes de frontiere (hors noyau)
 - Bascules du partage gemellaire et devenir au-dela de B3 (arc canon, lien avec Maki) : -> roadmap / arcs ulterieurs.

@@ -1,6 +1,6 @@
 # Tengen
 
-- version : W4
+- version : W5
 
 ## Identite
 - Tengen, l'immortel. Pilier des barrieres du monde de l'exorcisme, non combattant.
@@ -40,7 +40,7 @@
 ## Notes de frontiere (reporte hors de cette fiche neutre)
 - Echec de la fusion de 2006 et evolution de Tengen (forme non-humaine, sur ~11 ans) : etabli mais detail -> roadmap.
 - Plot du couple autour de Tengen (orchestration via le Culte Astral, Merger) -> roadmap.
-- Rencontre Nisha <-> Tengen : seulement APRES Shibuya. Tengen ne "voit" pas Nisha en 2005-2006. Réunion de crise aux Tombeaux de l'Étoile, sous l'université de Tokyo, le 1er novembre 2018 à midi : expose le plan de Kenjaku et la Traque ; il faudra des armes maudites (cf. Roadmap/Nisha/Roadmap_C3.md, C3_4).
+- Rencontre Nisha <-> Tengen : seulement APRES Shibuya. Tengen ne "voit" pas Nisha en 2005-2006. Réunion de crise aux Tombeaux de l'Étoile, sous l'université de Tokyo, le 1er novembre 2018 à midi : expose le plan de Kenjaku et la Traque ; il faudra des armes maudites (cf. Roadmap/Nisha/Roadmap_C3.md, C3_4). Le soir même, répartition des colonies chez lui ; pendant la Traque, gardé par Tsukumo et Choso (canon), Nori s'y remet de sa perte d'énergie occulte (cf. Roadmap/Nisha/Roadmap_D2.md).
 
 ---
 

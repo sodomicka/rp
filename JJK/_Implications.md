@@ -1,6 +1,6 @@
 # _Implications
 
-- version : W52
+- version : W53
 
 Journal de conception (passes en spirale). Document de TRAVAIL : jamais fetché en narration.
 
@@ -29,9 +29,9 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE
 - Ménagerie de Kenjaku | chantier S9.2 | [NON TRANCHÉ] - le cadrage "menace gratuite sans OC" est à relire maintenant qu'un OC fléau existe.
 - Uraume | ère D | Fiche créée (thread C2 : 14 doigts, masculin). Reste ouvert : lien Heian Uraume/Yorozu, grief potentiel RÉEL contre Nisha [PROPOSÉ MJ - non tranché] ; date de la remise de la marque par Kenjaku [non fixée].
 - Takaba | ère D | Son rôle canon (duel Kenjaku) est mort avec Kenjaku au palais : EMPLOI NEUF à définir, fiche à prévoir.
-- Roster de la Traque | ère D | [NON TRANCHÉ] : qui on garde et qui est présent (l'Ange déjà COUPÉE, Higuruma et Uraume conservés) ; composition des "gamins" de part et d'autre [À DÉFINIR à la roadmap].
+- Roster de la Traque | ère D | Posé au thread D2 : Kashimo et Charles Bernard tués par Nisha à Tokyo n°2 (Kashimo sort donc de la bataille finale, où le canon l'oppose à Sukuna) ; Higuruma conservé, sans la règle de transfert (devenue celle de Nisha), il apporte des points pour la sortie de Megumi ; Takaba sans emploi fixé. Reste [À DÉFINIR] : composition des "gamins" de part et d'autre à la bataille finale.
+- Higuruma | ère D | Fiche à créer quand une roadmap le convoque en scène (hors POV en D2).
 - Sukuna / réincarnation du jumeau | ère C/D | Qu'il SACHE toute l'architecture est CANON (ch. 257) ; reste [OUVERT] le quand et le comment dans notre continuité (dite au pacte ? déduite ?). Levier dramaturgique du duel final. Maille dérivée : la renaissance en Jin AU SEIN de la lignée-réceptacle - aiguillage du couple ou coïncidence saisie ? [INCERTAIN, à trancher quand ça comptera].
-- Panda | ère D | Nombre de doigts à maturité [À DÉFINIR] : nécessaire avant Kashimo (canon ch. 184 : il détruit les noyaux Gorille et Tricératops). Tension : le Tricératops ne se montre qu'à Yaga et Nisha (fiche Panda).
 - Maki | ère C | Son apparence change post-Shibuya (décision worldbuilder, détail non fixé). Note de frontière posée dans sa fiche.
 - Trou PROMO KYOTO 2005-2008 | chantier Yukiko | Yukiko appartient à la promo Kyoto 2005-2008, mais Pedagogie/Perso_Kyoto_2005-2008.md (casting Naoya + Ranta) est antérieure à sa création - son chantier d'enseignement personnalisé sous Gakuganji n'existe pas. Principe VALIDÉ (double étage : chantier de façade public compatible Grade 2 + chantier réel en interne, axe "prise au dépourvu") ; contenu à définir, cohérence avec le sandbagging (que voit et que note un référent qui SAIT ?). Page à relivrer sur DÉCISION worldbuilder. Ne pas combler seul.
 - Yukiko | points d'arc ouverts | Le jour où Nori bat Yukiko (fin des jeux, service exclusif) : OUVERT, hors ère A probable. Micro-trou Utahime 2007-2009 : OUVERT. Numéro d'ordre de Noriaki comme chef : [INCERTAIN] ("27e" posé en fiche).
@@ -46,8 +46,10 @@ Seul domicile de ces faits tant que les roadmaps C/D ne sont pas écrites. BIBLE
 - Yukiko_chrono_B | scission différée | Les entrées d'ère B vivent provisoirement dans la fiche Yukiko. À scinder.
 - Yukiko ère B | rattachements | Refus conditionnel de la chaire (2013) -> rattacher B1 (resto mars 2013). Majorité de Nori + report du titre tant qu'il ne se juge pas assez mûr, jusqu'à son diplôme (5 juin 2015) -> rattacher B2.
 - Roadmaps ères C et D | Passe 2 | À ÉCRIRE. Elles résorbent la section "Faits actés en attente de leur strate" ci-dessus et le chantier Roadmap/_Chantier_Passe2_EresCD.md (item 18 de son registre S8 : trajectoires datées à alimenter).
-- Roadmaps D2 et suivantes | Passe 2 | À ÉCRIRE (D1 « Piétiner les roseaux » écrite au thread D1 : coup d'État Zenin du 1er nov 2018). Suite : recrutement de Hakari (canon 10-11 nov, ch. 153-154) et entrée dans les colonies ; assaut du palais au signal de Yukiko (D4). Canon à suivre : Hakari vs Kashimo (ch. 186). Le chantier garde l'ancienne numérotation D1-D7 : renuméroter à l'écriture de chaque roadmap.
-- Laisse sur les Instances x palais Kamo | D4 | TENSION de calendrier : Nisha n'a arraché que « quelques jours » sans ingérence dans les affaires des clans (Roadmap_C3), or l'assaut du palais est daté fin nov / début déc. Reste à dire ce qui tient les Instances entre-temps (Gakuganji acquis, Naoya patriarche, Kamo tenus par Kenjaku). Non tranché.
+- Roadmaps D3 et D4 | Passe 2 | À ÉCRIRE. Découpage acté au thread D2 : D3 le palais (assaut, mort de Kenjaku, Lisière, sortie de Satoru, Saitama hors POV, retour à Tokyo : Yuji sans Sukuna, Megumi disparu) ; D4 la bataille finale, jusqu'à la fin du RP. Le chantier garde l'ancienne numérotation (D4 palais, D5 Saitama, D6-D7 mécanique et Serment).
+- Date du palais | D3 | NON FIXÉE (« peut-être plus tôt » que fin nov, thread D2). Borne : Nisha, seule dans une Tokyo n°2 vidée, perd ses sorts par la règle 8 au bout de 19 jours sans points - le signal doit tomber avant. Recaler Saitama et la sortie de Satoru sur cette date.
+- Fin de la Traque | D3 | ACTÉ au thread D2 : la Traque s'arrête avec la mort de Kenjaku et l'abandon d'Eien (pas de règle de sortie achetée). CONFIRMÉ par Micka : à la mort de Kenjaku, ses droits passent à Eien (clause posthume, chantier S6), qui désamorce tout, puis reste brisée, forcée à vivre, incapable de rejoindre Kenjaku dans la mort (fiche Eien).
+- Laisse sur les Instances x palais Kamo | D3 | TENSION de calendrier : Nisha n'a arraché que « quelques jours » sans ingérence dans les affaires des clans (Roadmap_C3), or la date du palais n'est pas fixée. Reste à dire ce qui tient les Instances entre-temps (Gakuganji acquis, Naoya patriarche, Kamo tenus par Kenjaku, la Traque elle-même). Non tranché.
 - SPEC_BIBLE_LORE_WIKI | v9.1 à produire | Le plafond de page de 12k est levé (décision worldbuilder, thread D1) et retiré des instructions Config ; la SPEC v9.0 le porte encore (budgets de page, satellites, plafond d'entrées, Parties/). À retirer à la prochaine version de la SPEC.
 - Hautes Instances Zenin (doyens) | ère D | Représentent le clan auprès des Instances : qui s'adapte au nouveau patriarche et qui se retire = politique de Naoya, à jouer ou à poser plus tard.
 - Yaga | ère D | Dates de création de ses autres corps autonomes (Takeru et d'autres, canon) [À DATER, après 2011].

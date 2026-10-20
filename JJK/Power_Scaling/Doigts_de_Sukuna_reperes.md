@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Repères chiffrés
 
-- version : W2
+- version : W3
 
 Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème, synergie, partage gémellaire, plafond mondial). Contient les REPÈRES par entité et les courbes de progression A2. Rappel : l'unité est extradiégétique jusqu'en 2018, puis diégétique pour le seul couple et la famille (cf. page mère).
 
@@ -19,6 +19,8 @@ Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème,
 | Utahime (post-2008) | 5 | 7.44 | [DIVERGENCE RP] Semi-Grade 1, lecture soutien, hors-axe combat |
 | Noritoshi Kamo (2017-2018) | 5 | 7.44 | [DIVERGENCE RP] eleve de Nisha (promo 2016-2019), Hemokinesie |
 | Toge (2017-2018) | 5 | 7.44 | [DIVERGENCE RP] eleve Tokyo (promo 2017-2020), paroles maudites |
+| Panda (forme Panda, maturité 2018) | 5 | 7.44 | [DIVERGENCE RP] Semi-Grade 1 ; forme par défaut |
+| Panda (Tricératops) | 6 | 9.12 | [DIVERGENCE RP] plus agile que frappeur ; ne se montre qu'à Yaga et Nisha |
 | Yuji (juin 2018) | 5 | 7.44 | [DIVERGENCE RP] puissance PROPRE hors Sukuna (physique brut, zéro technique) ; les doigts qu'il digère mesurent l'éveil de Sukuna, pas sa force à lui |
 | Mechamaru (2017-2018) | 6 | 9.12 | [DIVERGENCE RP] via robot pilote a distance ; reservoir + portee NATIONALE au-dela (Restriction Celeste inverse) |
 | Mechamaru guéri (oct 2018 ->) | 6 | 9.12 | [DIVERGENCE RP] corps sain, Restriction intacte (seule la contrainte est levée) ; pic ponctuel ~12 en mode Absolu contre Mahito (stock de dix-neuf ans brûlé) ; plafond ~15 (Grade Spécial) à gagner |
@@ -26,11 +28,13 @@ Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème,
 | Yaga | 7 | 11.33 | [DIVERGENCE RP] Grade 1, seuil du Special par le savoir-faire (creation d'une ame autonome), pas la puissance |
 | Mei Mei (post-2008) | 7 | 11.33 | [DIVERGENCE RP] Grade 1, niveau Yaga / Ogi |
 | Todo (2017-2018) | 7 | 11.33 | [DIVERGENCE RP] eleve de Nisha (promo 2016-2019), Boogie Woogie ; sommet de sa generation d'eleves |
+| Panda (Gorille, en pointe) | 7 | 11.33 | [DIVERGENCE RP] Tambour Imparable, très coûteux en énergie |
 | Naoya (2005) | 8 | 14.09 | [DIVERGENCE RP] -> courbe A2 (10/11/12), 14 adulte ; cf. Courbes A2 ci-dessous |
 | Hakari (2017-2018) | 8 | 14.09 | [DIVERGENCE RP] base Grade 1 ; en MODE JACKPOT, ponctuellement HORS-ECHELLE (intuable ~4 min, cf. fiche) |
 | Nanami (adulte, ere B) | 8 | 14.09 | [DIVERGENCE RP] Grade 1 ; prof de 3e annee a Tokyo des avr 2013 ; record 4x Rayon Noir au front de Tokyo (Parade 2017) |
 | Gakuganji | 9 | 17.44 | [DIVERGENCE RP] Grade Special 1 (hors-grading des universites), plus fort que Yaga |
 | Jinichi | 10 | 21.41 | [DIVERGENCE RP] pilier du Hei |
+| Charles Bernard (nov 2018) | 10 | 21.41 | [DIVERGENCE RP] joueur de la Traque, Tokyo n°2 ; bien sous Nisha, de quoi tuer Panda ; première victime de Nisha (D2) |
 | Gojo (2005, pre-Toji) | 12 | 31.30 | -> 14 en 2006 puis 23 a l'eveil ; cf. Courbes A2 ci-dessous |
 | Naobito | 12 | 31.30 | [DIVERGENCE RP] patriarche, Grade Special 1 |
 | Geto (2005) | 12 | 31.30 | -> 14 (2006), 15 (2007, defection) ; cf. Courbes A2 ci-dessous |
@@ -46,6 +50,7 @@ Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème,
 | Yorozu (dans Tsumiki, 2008-2015) | 16 | 59.51 | [DIVERGENCE RP] exorciste Heian en objet maudit (Kenjaku) ; tuee fin 2015 par Nisha (duel spirituel en territoire interieur) |
 | Mahito (mue de Shibuya) | ~16 | ~59.51 | [DIVERGENCE RP] pic juste avant l'absorption par Kenjaku |
 | Toji | 17 | 68.44 | canon, hors-clan invisible, hors classement (non reconnu exorciste) |
+| Kashimo (nov 2018) | 17 | 68.44 | [DIVERGENCE RP] exorciste d'Edo réincarné ; à fond, Bête Mythique Ambre comprise, Nisha galère à l'avoir ; tué par elle (D2) |
 | Geto (gourou, 2015) | 17-18 | 68-78 | vrai Geto vivant |
 | Nisha (adulte) | 18 | 78.15 | [DIVERGENCE RP] apogee atteinte des 2008 |
 | Sukuna (complet) | 20 | 100.00 | reference de l'echelle |
@@ -78,6 +83,7 @@ Les prodiges montent en continu sur l'arc A2 (pas un saut, sauf l'eveil de Gojo)
 - Gojo, Toji, Maki (a 0 %), Sukuna : lecture worldbuilder, coherente avec le canon.
 - Yuji, Nobara (juin 2018) : [DIVERGENCE RP], scalings fixés par le worldbuilder (thread C1).
 - Mahito, Choso, Uraume, Mechamaru guéri : [DIVERGENCE RP], scalings fixés par le worldbuilder (thread C2).
+- Panda à maturité (5 / Tricératops 6 / Gorille 7), Kashimo 17, Charles Bernard 10 : [DIVERGENCE RP], scalings fixés par le worldbuilder (thread D2).
 
 ---
 

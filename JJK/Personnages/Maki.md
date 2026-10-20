@@ -1,6 +1,6 @@
 # Maki Zenin
 
-- version : W15
+- version : W16
 
 Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir). Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (detail -> roadmap).
 
@@ -46,6 +46,7 @@ Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir
 | 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : brûlée par Jogo, blessée mais VIVANTE | blessée |
 | 1 nov 2018 (C3_1, C3_4) | Soignée au campement de Shoko, aidée par Nisha. Chez Tengen à midi (canon) | brûlée, debout |
 | 1 nov 2018 (D1) | Portee jusqu'au domaine dans les bras de Nisha (elle n'apprecie pas). Fonce dans la melee, plus que jamais decidee a se battre du meme cote que sa soeur ; les jumelles tuent leur pere. Le curseur bascule a ~10/90 : elle ressemble a Toji en energie occulte, presque indetectable | 16 doigts (un de plus que Mai : l'egalite structurelle s'arrete a 30/70) ; repart a Tokyo avec Nisha et Mai |
+| nov 2018 (D2) | Sakurajima avec Mai, seules (hors POV) [DIVERGENCE RP vs canon : Maki y va avec Nori] ; tueuses, ramassent des points pour la neutralité des sortants | - |
 
 ## Notes de frontiere (hors noyau)
 - Apparence : elle CHANGE post-Shibuya (ere C) - detail hors de cette fiche, -> roadmap ere C.

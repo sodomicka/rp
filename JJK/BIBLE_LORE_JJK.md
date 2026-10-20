@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : JJK
 - sources primaires : manga Jujutsu Kaisen (Gege Akutami) ; worldbuilding du worldbuilder (OC Nisha Zenin, Yukiko Kamo, Eien, Nozomu)
-- bible_version : B26
+- bible_version : B27
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/JJK/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/JJK/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/JJK/Partie1/`
@@ -23,14 +23,14 @@
 - pages wiki rattachées :
   - Cosmogonie - cosmogonie fondatrice (trois esprits + Tengen 4e esprit, trois familles) (1 page)
   - Factions - clans Zenin, Gojo, Kamo ; Hautes Instances ; universités de Tokyo et Kyoto ; Tournoi des Universités Jumelées (7 pages)
-  - Personnages - fiches personnages (62 pages : 51 fiches + 7 chrono - Nisha A/B/C/D, Satoru B, Naoya B, Yukiko A - + 4 relations - série Nisha : proches, famille, boulot, élèves de Tokyo)
+  - Personnages - fiches personnages (63 pages : 52 fiches + 7 chrono - Nisha A/B/C/D, Satoru B, Naoya B, Yukiko A - + 4 relations - série Nisha : proches, famille, boulot, élèves de Tokyo)
   - Lieux - sièges des clans (Chiryu no Kyuden - Kamo ; Juei no Ryochi - Zenin) (2 pages)
   - Power_Scaling - système de puissance, repères chiffrés en satellite (2 pages)
   - Pedagogie - carte des enseignements (1), fiches de cours par discipline et par année (7), enseignement personnalisé par promotion (8) (16 pages)
-  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2, C3, D1), Yukiko/ (A0, A1) (12 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B) et _Chantier_Passe2_EresCD.md (document de travail), sources de build jamais fetchées en narration.
-  - Resume.md - résumé autosuffisant de l'univers jusqu'au 1er novembre 2018 (fin de l'ère C et coup d'État Zenin qui ouvre l'ère D), NON indexé au Sommaire, jamais fetché en narration (1 page)
+  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2, C3, D1, D2), Yukiko/ (A0, A1) (13 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B) et _Chantier_Passe2_EresCD.md (document de travail), sources de build jamais fetchées en narration.
+  - Resume.md - résumé autosuffisant de l'univers jusqu'à la Traque Meurtrière (novembre 2018 : fin de l'ère C, coup d'État Zenin, Traque côté Nisha), NON indexé au Sommaire, jamais fetché en narration (1 page)
   - _Implications.md - journal de conception, jamais fetché en narration (1 fichier de travail)
-- Total indexé au Sommaire (W48) : 102 pages.
+- Total indexé au Sommaire (W49) : 104 pages.
 
 ## SB1 Cosmogonie et règles du monde
 Périmètre : divergences fondatrices liées à Nisha et Yukiko + règles nécessaires + cosmogonie des trois esprits.
@@ -97,6 +97,9 @@ Divergences (noyau Nisha) :
 - Rayon Noir - (canon : Black Flash) coïncidence de l'impact physique et de l'impact d'énergie, dégâts à la puissance 2,5 ; ne se commande pas.
 - Serment - contrat automatique liant une restriction à un gain ; sans juge, la lettre fait loi, ne se rompt pas.
 - Traque Meurtrière (Culling Game) - jeu à mort instauré par Kenjaku (nov 2018, ère D), règles = SERMENTS AUTOMATISÉS : tuer le maître n'arrête pas le jeu.
+- Colonie - zone de la Traque fermée par une barrière, coupée du monde (pas de réseau) ; l'entrant est téléporté vers l'un de neuf points guettés.
+- Kogane - shikigami attribué à chaque joueur : interface et arbitre des règles (refuse toute règle à impact majeur et durable).
+- Neutralité - [DIVERGENCE RP] règle ajoutée par le camp de Nisha : loyer de 5 points par jour pour sortir du jeu ; qui ne paie plus redevient une cible à 50 points. Détail des règles du camp : cf. Roadmap/Nisha/Roadmap_D2.md.
 - Retournement de sort - injecter l'énergie inversée dans son sort inné en inverse l'effet (cas d'école : le Rouge de Satoru).
 - Tissage - art des rideaux : l'exorciste file son énergie en brins continus ; s'apprend comme un artisanat.
 - Voile - rideau de dissimulation : fige la scène à la fermeture et en renvoie l'image ; traversable.
@@ -161,7 +164,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Megumi Fushiguro - fils de Toji (né le 22 déc 2000), adopté hors-Zenin par Nisha et Satoru (2008), Gojo-Zenin depuis 2015 | Dix Ombres, éveillé en 2009 | Nisha/Satoru, Tsumiki, Naoya (succession : désigné par le testament de Naobito, refuse depuis 2009) | Dix Ombres | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Megumi.md
 - Tsumiki Fushiguro - belle-sœur de Megumi (profane, née 1997), adoptée avec lui (2008), Gojo-Zenin depuis 2015 | aucune ; marquée par Kenjaku, Yorozu en dormance 2008-2015 | Megumi, Nisha/Satoru | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Tsumiki.md
 - Akari Nitta - assistant manager sans don (née ~1993), première vraie élève de Nisha (promo Kyoto 2011-2014) | support | Nisha (lien quasi maternel), Arata | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nitta.md
-- Panda - cadavre maudit mutant créé par Yaga et co-amalgamé avec Nisha (2011), "fils" des deux | trois noyaux, corps maudit doté d'une âme | Yaga, Nisha | corps maudit | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Panda.md
+- Panda - cadavre maudit mutant créé par Yaga et co-amalgamé avec Nisha (2011), "fils" des deux | trois noyaux, corps maudit doté d'une âme ; à maturité 5 doigts (Tricératops 6, Gorille 7), noyaux sauvés de Kashimo par Nisha (D2) | Yaga, Nisha | corps maudit | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Panda.md
 - Ryomen Sukuna - Roi des Fléaux (20 doigts = étalon), humain de Heian devenu esprit maudit suprême | Tranchant, Feu, Sanctuaire Maléfique, RCT ; 200 pour cent dès la naissance | [DIVERGENCE RP] pacte de dormance ; jumeau réincarné en Jin Itadori ; Uraume ; réceptacles Yuji puis Megumi (ère D) | Tranchant + Feu | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Sukuna.md
 - Uraume - suivant de Sukuna depuis Heian, incarné en 2018 dans le corps de Shiori Himi, désigné au masculin | Formation de glace, RCT ; 14 doigts | Sukuna (son roi), Kenjaku (contrat), Nozomu (porteur de la marque, l'ingère en ère D) | Formation de glace | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Uraume.md
 - Mahito - fléau de Grade Spécial du camp de Kenjaku | Façonnage de l'âme, Incarnation de la Perfection ; 13 doigts (oct 2018), ~16 après sa mue | Kenjaku, Yuji (némésis), Muta (le soigne), Nisha (une rencontre, oct 2018 : fuit en lâchant le leurre de Takatsuki) ; absorbé par Kenjaku à Shibuya | Façonnage de l'âme | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Mahito.md
@@ -175,10 +178,11 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Arata Nitta - élève de Kyoto (promo 2018-2021), non combattant doté d'un sort | Pain Killer (fige les blessures) | Akari, Utahime | Pain Killer | canon + [DIVERGENCE RP vs canon] (cadet ici). detail: cf. WIKI Personnages/Arata_Nitta.md
 - Toge Inumaki - élève de Satoru (promo Tokyo 2017-2020) | Paroles Maudites, Grade 2, 5 doigts | Maki et Panda, Satoru | Paroles Maudites | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Toge.md
 - Yuta Okkotsu - élève de Satoru (promo Tokyo 2017-2020), Rika intégrée à sa fiche | réserve colossale + Rika + Copie ; 12 puis 15 doigts | Satoru, Nisha (miroir inverse ; copie la Chronokinésie début 2018) | Copie | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yuta.md
-- Kinji Hakari - élève de Tokyo (promo 2016-2019) | Idle Death Gamble (domaine dès 2016), 8 doigts, hors échelle en Jackpot | Kirara, Kusakabe, Nisha, Hautes Instances (clash) | Idle Death Gamble | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Hakari.md
+- Kinji Hakari - élève de Tokyo (promo 2016-2019) | Idle Death Gamble (domaine dès 2016), 8 doigts, hors échelle en Jackpot | Kirara, Kusakabe, Nisha (garante de son retour, nov 2018), Hautes Instances (clash) | Idle Death Gamble | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Hakari.md
 - Yuji Itadori - réceptacle de Sukuna (né le 20 mars 2000 [DIVERGENCE RP vs canon : 2003]), élève de Satoru (promo Tokyo 2018-2021), étudiant de fac à Sendai avant | physique hors norme, Poing Divergent, Rayon Noir ; 5 doigts propres ; 15 doigts de Sukuna digérés à Shibuya, sursis tombé, non exécuté par Nisha, nouveau sursis arraché aux Instances (1er nov 2018 : tant qu'il n'avale aucun nouveau doigt avant le retour de Satoru) | Satoru, Nisha (le dossier devenu gosse), Megumi, Nobara, Todo, Sukuna (Enchain) | aucun sort inné | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yuji.md
 - Nobara Kugisaki - élève de Satoru (née le 7 août 1999 [DIVERGENCE RP vs canon : 2002], promo Tokyo 2018-2021) | Poupée de Paille, Résonance, Grade 3, 4 doigts | Yuji, Megumi, Nisha (respect mutuel) | Poupée de Paille | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nobara.md
 - Kirara Hoshi - élève de Tokyo (promo 2016-2019), non binaire (canon) | Love Rendezvous, 4 doigts | Hakari, Nisha | Love Rendezvous | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Kirara.md
+- Hajime Kashimo - exorciste d'Edo réincarné, joueur de la Traque (Tokyo n°2) | énergie électrique, Bête Mythique Ambre (usage unique), 17 doigts | Nisha (le combat qu'il attendait ; elle le tue, D2), Panda | Bête Mythique Ambre | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Kashimo.md
 
 ## SB6 Lieux
 `Lieu - nature | rattachement | fonction narrative | état connu`
@@ -240,4 +244,4 @@ Index détaillé page par page : cf. WIKI JJK/Sommaire.md
 
 ---
 
-FIN_BIBLE_B26
+FIN_BIBLE_B27
