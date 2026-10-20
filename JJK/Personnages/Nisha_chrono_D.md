@@ -1,6 +1,6 @@
 # Nisha Zenin - Chronologie datée, ère D (nov 2018 ->)
 
-- version : W4
+- version : W5
 
 Extension de Personnages/Nisha.md (suite de Nisha_chrono_C.md). Contient la TRAJECTOIRE DATÉE de Nisha pour l'ère D (1er novembre 2018, après-midi ->). Strate canon par défaut, télégraphique ; le détail vit dans les roadmaps. Build-side : fetchée à la demande, JAMAIS chargée en narration. Le NOYAU reste dans Personnages/Nisha.md. État : entrées D1 à D4 posées ; alimentée à chaud roadmap par roadmap.
 
@@ -17,6 +17,7 @@ Constante de l'ère D (dictée au thread D2) : aucun de ses gamins ne meurt ; el
 ## Pointeurs
 - Noyau : cf. Personnages/Nisha.md. Ères précédentes : cf. Personnages/Nisha_chrono_A.md, Nisha_chrono_B.md, Nisha_chrono_C.md.
 - Détail narratif : cf. Roadmap/Nisha/Roadmap_D1.md, Roadmap_D2.md, Roadmap_D3.md, Roadmap_D4.md.
+- Après le 28 nov 2018 : la conclusion (Roadmap/Nisha/Roadmap_D5.md) ; ses états de 2019 à 2024 vivent dans Roadmap/Nisha/D5_Etats_2024.md, hors lore, et n'alimentent pas cette page.
 
 ---
 

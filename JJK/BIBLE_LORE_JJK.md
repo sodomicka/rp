@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : JJK
 - sources primaires : manga Jujutsu Kaisen (Gege Akutami) ; worldbuilding du worldbuilder (OC Nisha Zenin, Yukiko Kamo, Eien, Nozomu)
-- bible_version : B29
+- bible_version : B30
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/JJK/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/JJK/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/JJK/Partie1/`
@@ -27,10 +27,10 @@
   - Lieux - sièges des clans (Chiryu no Kyuden - Kamo ; Juei no Ryochi - Zenin) (2 pages)
   - Power_Scaling - système de puissance, repères chiffrés en satellite (2 pages)
   - Pedagogie - carte des enseignements (1), fiches de cours par discipline et par année (7), enseignement personnalisé par promotion (8), leçon de Tengen sur la Traque (1) (17 pages)
-  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2, C3, D1, D2, D3, D4), Yukiko/ (A0, A1) (15 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B), _Chantier_Passe2_EresCD.md et Yukiko/chantier_yukiko.md (documents de travail), sources de build jamais fetchées en narration.
-  - Resume.md - résumé autosuffisant de l'univers jusqu'au réveil de Nisha après Shinjuku (28 novembre 2018 : fin de l'ère C, coup d'État Zenin, Traque côté Nisha, mort de Kenjaku, bataille finale), NON indexé au Sommaire, jamais fetché en narration (1 page)
+  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2, C3, D1, D2, D3, D4, D5), Yukiko/ (A0, A1) (16 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B), _Chantier_Passe2_EresCD.md et Yukiko/chantier_yukiko.md (documents de travail), Nisha/D5_Etats_2024.md (fiches groupées des états 2019-2024, propres à la D5, hors lore neutre), sources de build jamais fetchées en narration.
+  - Resume.md - résumé autosuffisant de l'univers jusqu'au repas bissextile du 29 février 2024 (fin de l'ère C, coup d'État Zenin, Traque côté Nisha, mort de Kenjaku, bataille finale, épilogue de la D5), NON indexé au Sommaire, jamais fetché en narration (1 page)
   - _Implications.md - journal de conception, jamais fetché en narration (1 fichier de travail)
-- Total indexé au Sommaire (W51) : 108 pages.
+- Total indexé au Sommaire (W52) : 109 pages.
 
 ## SB1 Cosmogonie et règles du monde
 Périmètre : divergences fondatrices liées à Nisha et Yukiko + règles nécessaires + cosmogonie des trois esprits.
@@ -138,7 +138,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Nisha Zenin - protagoniste, OC, jumelle de Naoya (née le 30 jan 1987), Gojo-Zenin depuis ses noces (2015) | Chronostase + Chronokinésie (parasite Eien, PERDUE le 14 nov 2018 : 14 doigts ensuite), Sphère du Temps Infini, Sphère de l'Espace-Temps Infini avec Satoru (D4) ; façade à Tokyo : Chronokinésie présentée comme innée, Chronostase comme son aspect ; Kyoto et Hautes Instances savent tout, Eien crue docile | Naoya (jumeau symbiotique), Eien (parasite : Nisha s'en sait maîtresse, jamais geôlière - amie de façade jusqu'en 2015, souffre-douleur ensuite), Naobito (père), Satoru (rival puis époux) | deux sorts + domaine | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nisha.md (+ chrono_A, chrono_B, chrono_C, chrono_D ; relations : Nisha_relations_proches, _famille, _boulot, _eleves_tokyo)
 - Yukiko Kamo - second OC jouable, princesse Kamo, demi-sœur aînée de Noritoshi (née le 14 juin 1986), promo Kyoto 2005-2008 | Hémotropie (le carquois de Noritoshi), meilleure tisseuse du clan depuis Heian ; 12 doigts réels, façade Grade 2 | Noritoshi (dieu vivant), Utahime (couple dès nov 2005), jumeaux Zenin, Gakuganji | Hémotropie | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yukiko.md (+ chrono_A)
 - Eien - OC, parasite de Nisha, esprit maudit Grade Spécial millénaire, co-architecte du monde, †14 nov 2018 (Shinjuku : rembobine Yuji puis meurt en emportant la Chronokinésie) | Chronokinésie (cédée à l'hôte), Jardin des Ères Mortes, parasitisme par fœtus | Nisha (hôte : maîtresse qui s'ignore geôlière, amie jouée jusqu'en 2015 ; rapport inversé depuis, les visites), Kenjaku (amante, mille ans) | Chronokinésie | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Eien.md
-- Kenjaku - exorciste millénaire, co-architecte du monde | transfert de cerveau, sceaux | Eien (amant) ; vaisseaux : Noritoshi Kamo (Meiji), Kaori Itadori, Geto | sort de l'hôte courant | canon + [DIVERGENCE RP] (origine Kamo, couple Eien ; 22 doigts dans Suguru ; tué par Nisha au palais Kamo le 8 nov 2018). detail: cf. WIKI Personnages/Kenjaku.md
+- Kenjaku - exorciste millénaire, co-architecte du monde | transfert de cerveau, sceaux | Eien (amant) ; vaisseaux : Noritoshi Kamo (Meiji), Kaori Itadori, Geto | sort de l'hôte courant | canon + [DIVERGENCE RP] (origine Kamo, couple Eien ; 22 doigts dans Suguru ; confie à Yukiko, le 7 nov 2018, avoir été l'architecte de la pureté Kamo et des sorts innés des clans ; tué par Nisha au palais Kamo le 8 nov 2018). detail: cf. WIKI Personnages/Kenjaku.md
 - Nozomu Gojo - OC, esprit maudit Grade Spécial : guerrier parfait de Genroku mort à l'éveil (4 ans), revenu en esprit vengeur ; scellé dans une marque (SB7) ; réveillé dans Uraume et achevé par les deux paires de jumeaux à Shinjuku (14 nov 2018) | Infini en armure, rayons d'énergie pure, déplacement niveau Naoya et attaque niveau Nisha, Six Yeux épars, six bras, domaine Flagellation du Bourreau ; 20 doigts ; doctrine : libérer les enfants, punir les parents. RÈGLE D'ÉCRITURE PERMANENTE : aucun détail d'acte sur sa mort, aucune romantisation | clan Gojo, Eien, Kenjaku, Uraume | Infini + Six Yeux | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nozomu.md
 - Naobito Zenin - patriarche (26e chef), père des jumeaux (né 1947, †31 oct 2018 ; testament : Megumi) | Projection, 12 doigts, Grade Spécial 1 | Naoya/Nisha, Ogi (frère cadet), Jinichi/Toji (neveux) | Projection | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Naobito.md
 - Naoya Zenin - jumeau de Nisha (né le 30 jan 1987), héritier de fait, patriarche depuis le coup d'État du 1er nov 2018 | Projection, 8 doigts à l'université / 14 adulte, résonance gémellaire | Nisha, Naobito | Projection | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Naoya.md (+ chrono_B)
@@ -152,7 +152,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Toji Fushiguro (né Zenin) - Tueur d'Exorcistes, ex-clan | Restriction Céleste physique, 17 doigts | Jinichi (frère), Megumi (fils) | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Toji.md
 - Satoru Gojo - guerrier parfait du clan Gojo (né le 7 déc 1986), rival puis époux de Nisha | Infini + Six Yeux + RCT + Sphère de l'Espace Infini ; 12 doigts en 2005, 23 après l'éveil de 2006 (plafond mondial) ; survit à Shinjuku, entier, toujours n°1 ; Sphère de l'Espace-Temps Infini avec Nisha (D4) | Nisha, clan Gojo, Geto | Infini + Six Yeux | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Satoru.md (+ chrono_B)
 - Tengen - quatrième esprit vengeur resté de chair, pilier immortel des barrières | immortalité (fusion tous les ~500 ans avec un Plasma Stellaire), barrières, non combattant | Kenjaku (artisan de son ascension) | immortalité + barrières | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Tengen.md
-- Suguru Geto - prodige hors-clan (né le 11 fév 1987), promo Tokyo 2005-2008, négatif moral de Nisha | Manipulation des Esprits Maudits, 12 doigts en 2005 | Satoru (meilleur ami), Shoko, Nisha | Manipulation des Esprits Maudits | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Geto.md
+- Suguru Geto - prodige hors-clan (né le 11 fév 1987), promo Tokyo 2005-2008, négatif moral de Nisha | Manipulation des Esprits Maudits, 12 doigts en 2005 | Satoru (meilleur ami), Shoko, Nisha | Manipulation des Esprits Maudits | canon + [DIVERGENCE RP] (enterré pendant le coma de Nisha, nov 2018, dans un petit sanctuaire de la forêt de l'école de Tokyo, Nanami et Tsukumo à côté). detail: cf. WIKI Personnages/Geto.md
 - Shoko Ieiri - médecin de la promo des quatre prodiges (née ~1987 [INCERTAIN]) | RCT appliqué à autrui, Semi-Grade 1 à vie, 5 doigts | Nisha (meilleure amie), Satoru/Geto | RCT sur autrui | canon + [DIVERGENCE RP vs canon]. detail: cf. WIKI Personnages/Shoko.md
 - Masamichi Yaga - professeur puis principal à Tokyo, progressiste | cadavres maudits (sommet : doter une création d'une âme), Grade 1, 7 doigts | promo des quatre prodiges, Nisha, Panda ; condamné après Shibuya, sauvé par Nisha (1er nov 2018) | cadavres maudits | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yaga.md
 - Yoshinobu Gakuganji - principal de Kyoto, seul visage public des Hautes Instances, ultra-conservateur | sort musical, Grade Spécial 1, 9 doigts | Naoya, Yukiko (voit le sandbagging et le respecte), Nisha, Mei Mei | sort musical | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Gakuganji.md
@@ -246,4 +246,4 @@ Index détaillé page par page : cf. WIKI JJK/Sommaire.md
 
 ---
 
-FIN_BIBLE_B29
+FIN_BIBLE_B30
