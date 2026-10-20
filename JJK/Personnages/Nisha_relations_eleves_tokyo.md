@@ -1,6 +1,6 @@
 # Nisha Zenin - Relations : eleves de Tokyo
 
-- version : W2
+- version : W3
 
 Page relations de Nisha, cercle des ELEVES DE TOKYO : les proteges de Satoru. Serie en quatre pages par cercles ; regles generales et convention : cf. Nisha_relations_proches.md.
 Maki et Panda (eleves de Tokyo des 2017) et Megumi (des avr 2018) vivent en _famille : pas de doublon.
@@ -27,7 +27,7 @@ Convention d'ecriture pour Kirara (decision worldbuilder, cf. sa fiche) : point 
 - Appellatifs : elle -> lui : Hakari, Kinji, le parieur. Lui -> elle : Madame Zenin.
 - Registre : lui la respecte mais DETESTE sa soumission - son appartenance aux instances ; elle reconnait sa force, le respecte par egard envers Satoru, mais n'aime pas son cote parieur.
 - Contentieux : la suspension et sa position publique dessus (approuvee, trop douce a son gout).
-- Evolution datee : avr 2017 2A (Kusakabe) -> 24 dec 2017 le clash de la Parade (hors-POV) -> debut 2018 suspension, Nisha approuve, Gachinko Fight Club (Kirara suit).
+- Evolution datee : avr 2017 2A (Kusakabe) -> 24 dec 2017 le clash de la Parade (hors-POV) -> debut 2018 suspension, Nisha approuve, Gachinko Fight Club (Kirara suit) -> 2 nov 2018 recrutement : elle regarde le match aux cameras, en VIP chez lui, et se porte garante de lui contre les superieurs (D2).
 
 ### Kirara
 - Statut : distante - "l'ombre de Hakari" : les deux sont inseparables et Kirara a la personnalite la moins forte des deux. Ni le genre ni l'orientation n'entrent une seconde en ligne de compte (doctrine 2006 ; cf. Personnages/Nisha.md). Le soutien a la suspension couvre aussi le choix de Kirara de suivre.

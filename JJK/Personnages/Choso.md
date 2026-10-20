@@ -1,6 +1,6 @@
 # Choso
 
-- version : W2
+- version : W3
 
 Fiche noyau (canon + RP), entité entrant en scène en ère C (septembre 2018) : aînée des neuf Peintures Mortes, objet maudit incarné. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -49,6 +49,7 @@ Fiches propres : cf. Personnages/Eien.md, Kenjaku.md, Yuji.md, Noritoshi_Kamo.md
 | sept 2018 (C2_1) | Incarné ; Eso et Kechizu tués au pont de Yasohachi ; jure vengeance contre Yuji (hors POV) | vengeance |
 | 31 oct 2018 (C2_5) | Shibuya, hors POV : affronte Yuji, le domine, puis le reconnaît comme frère par des souvenirs fantômes et l'épargne | allié latent de Yuji |
 | 1 nov 2018 (C3_2, C3_4) | Erre avec Yuji. Sent Eien en Nisha et veut la tuer ; Yuji l'en dissuade. Trouve le chemin des Tombeaux en sentant les Peintures Mortes qui y sont stockées (canon). Chez Tengen, happé dans le Jardin en retenant Nisha, face à sa mère, Eien-dans-Nanao : Nisha lui promet la mort de Kenjaku | promesse de Nisha |
+| nov 2018 (D2) | Garde Tengen avec Tsukumo (canon) et Nori ; prend le temps de discuter avec Nori avant le palais | - |
 
 ## Notes de frontière
 - Palais Kamo, place au clan : -> ère D (chantier, D4).

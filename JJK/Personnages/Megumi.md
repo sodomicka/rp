@@ -1,6 +1,6 @@
 # Megumi Fushiguro
 
-- version : W9
+- version : W10
 
 Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = qui est Megumi a son entree en scene (identite, nature, sort, psychologie, relations) ; son devenir post-2008 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps ere B). Enfant sur tout B1 : scaling de combat non pertinent (potentiel seulement).
 
@@ -81,6 +81,7 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya
 | sept 2018 (C2_1) | Peintures Mortes, pont de Yasohachi (canon) | - |
 | 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : invoque Mahoraga, que Sukuna abat. Toji, ressuscité, l'affronte, lui demande son nom : « Gojo-Zenin ». Toji comprend et se tue, serein. Megumi le racontera à ses parents | a vu son père biologique ; Mahoraga invoqué |
 | nuit 31 oct - 1 nov 2018 (C3_1, C3_4) | Soigné par Sukuna (il « a encore besoin de lui », canon), déposé au campement de Shoko : sain et sauf, il apprend à sa mère que papa est scellé. Chez Tengen à midi (canon) | sain et sauf |
+| 2 - ~4 nov 2018 (D2) | Recrutement de Hakari (canon) ; entre avec Hakari et Yuji dans leur colonie (hors POV de Nisha). Higuruma lui apporte des points pour sortir, neutre. Au signal de Yukiko, entre dans Tokyo n°2 chercher sa mère | neutre ; porte le signal |
 
 ## Graines plantees / armees en B1 (a NE PAS detoner avant l'ere prevue)
 - Rivalite de succession Naoya <-> Megumi : s'ARME en B1 (Megumi porte les Dix Ombres, eleve hors clan). Adossee au testament de Naobito : [DIVERGENCE RP] une lettre ou le clan Zenin reconnait le PORTEUR DES DIX OMBRES comme successeur legitime de Naobito - scellee, descellee seulement APRES Shibuya (ere C). Megumi, fils de Toji et porteur des Dix Ombres, en devient le beneficiaire malgre son education hors-clan, en travers de Naoya (heritier de fait). Detonation -> ere C. En B1, rien ne detone : Megumi est un enfant, la lettre dort. (Touche aussi la fiche Naobito -> a integrer au build ere C.)

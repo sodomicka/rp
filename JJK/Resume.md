@@ -1,10 +1,10 @@
 # Resume - JJK
 
-- version : W5
+- version : W6
 
 Page = RESUME AUTOSUFFISANT de l'univers et de son histoire, telle qu'etablie (canon + divergences actees). Concue pour etre lue SEULE, hors du systeme BIBLE + WIKI : elle ne renvoie a rien qu'elle ne dise elle-meme. Usage : exporter l'univers vers un projet qui n'a pas la BIBLE.
 
-> NON INDEXEE AU SOMMAIRE (decision worldbuilder, build B15). Meme doctrine que Roadmap/ et Memoires/ : cette page couvre l'histoire jusqu'au 1er novembre 2018, donc le FUTUR de toute partie qui demarre en 2005. Un MJ qui la fetcherait en narration prefigurerait en prose. Document de build et d'export uniquement.
+> NON INDEXEE AU SOMMAIRE (decision worldbuilder, build B15). Meme doctrine que Roadmap/ et Memoires/ : cette page couvre l'histoire jusqu'à la Traque Meurtrière (novembre 2018), donc le FUTUR de toute partie qui demarre en 2005. Un MJ qui la fetcherait en narration prefigurerait en prose. Document de build et d'export uniquement.
 
 ## 1. Le monde
 
@@ -94,6 +94,8 @@ Nisha arrive très tard à Shibuya et va d'abord à ses enfants : Megumi est sai
 
 L'ère D s'ouvre le même jour. Les conservateurs Zenin, Ogi et Jinichi en tête, ont refusé le trône à Naoya ; Nisha a menacé les Instances, Satoru est scellé, et ils comprennent qu'un coup se prépare. En début d'après-midi, ils frappent les premiers : l'unité Kukuru et une partie du Hei acculent Mai et Ranta au domaine. Nisha y porte Maki dans ses bras, Naoya court à leurs côtés, et ils arrivent en un quart d'heure. Maki se jette dans la mêlée près de sa sœur ; les jumeaux croisent Ogi sans un mot, laissant ses filles le tuer, et massacrent le reste du Hei, les trois fils aînés de Naobito, Chojuro et Jinichi compris. Les survivants, surtout des serviteurs cachés, prêtent allégeance à Naoya, nouveau patriarche ; Gakuganji est déjà acquis à Nisha. Le partage gémellaire des cousines se fixe presque entièrement, Maki à 10 pour cent, quasi indétectable comme Toji, Mai à 90, débordante d'énergie comme Yorozu. Nisha rentre à Tokyo avec les deux pour la suite de la guerre. Megumi, à qui Naobito offrait la succession dès 2009, refuse toujours.
 
+Le soir même, chez Tengen, le camp se répartit les colonies de la Traque Meurtrière, le jeu à mort de Kenjaku : dix zones fermées par des barrières, coupées du monde, où les joueurs gagnent des points en tuant et peuvent payer 100 points pour ajouter une règle, que l'arbitre refuse si elle a un impact majeur et durable. Le but est de temporiser en jouant selon les règles de Kenjaku, pour épargner le plus de monde. Tsukumo, Choso et Nori, en convalescence, restent garder Tengen. Le 2 novembre, Yuji et Megumi recrutent Kinji Hakari dans son fight club ; Nisha regarde le match aux caméras, en invitée de marque, et se porte garante de lui contre les supérieurs, elle qui avait soutenu sa suspension. Hakari part avec Yuji et Megumi, Maki et Mai prennent Sakurajima, Yuta Sendai, et Nisha entre dans Tokyo n°2 avec Panda. Séparée de lui par la barrière, elle tue vingt joueurs et fait ajouter le transfert des points à la mort ; elle arrive quand Kashimo, exorciste d'Edo réincarné et presque de son niveau, s'en prend à Panda, le tue au terme d'un combat difficile et fait ajouter le transfert consenti. Les autres tueurs du camp ajoutent la neutralité : contre un loyer de 5 points par jour, un joueur sort du jeu, et qui ne paie plus redevient une cible à 50 points. Panda sort ; Nisha reste seule, vide la colonie et paie la neutralité de ceux qui ne veulent pas tuer, jusqu'à ce que Megumi vienne la chercher au signal de Yukiko.
+
 ## 5. État du monde (1er novembre 2018)
 
 - Satoru Gojo, 23 doigts, numero 1 mondial, plafond de l'echelle, est SCELLÉ dans la Lisière du Supplice depuis le 31 octobre. Nisha, 18 doigts, numero 2 depuis 2006. Naoya, 14 doigts, patriarche du clan Zenin depuis le coup d'État du 1er novembre. Yuki Tsukumo, 15 doigts, troisieme de facto mais hors du classement officiel.
@@ -121,6 +123,7 @@ L'ère D s'ouvre le même jour. Les conservateurs Zenin, Ogi et Jinichi en tête
 9. L'entree en universite se fait a 18 ans, post-bac, et la scolarite classique est commune a tous.
 10. Le clash de Hakari avec les Hautes Instances a lieu sur le front de Tokyo, pas de Kyoto.
 11. Mechamaru survit à Mahito, guéri dans un corps sain, avec un potentiel de Grade Spécial.
+12. Dans la Traque, Nisha tue Kashimo à la place du duel avec Hakari, et Panda garde ses trois noyaux. Le camp ajoute ses propres règles : transfert à la mort, transfert consenti, neutralité au loyer.
 
 ---
 

@@ -1,6 +1,6 @@
 # Nisha Zenin - Relations : famille
 
-- version : W4
+- version : W5
 
 Page relations de Nisha, cercle FAMILLE : le clan (sang) et la famille choisie (le foyer de Saitama). Serie en quatre pages par cercles ; regles generales et convention : cf. Nisha_relations_proches.md.
 
@@ -41,7 +41,7 @@ Page relations de Nisha, cercle FAMILLE : le clan (sang) et la famille choisie (
 
 ### Maki (protegee)
 - Statut : cousine, protegee du protectorat de 2006 - l'analogue de Toji dans le clan.
-- Appellatifs : elle -> Maki : Maki, grosse brute, Brutus. Maki -> elle : Nisha.
+- Appellatifs : elle -> Maki : Maki, grosse brute, Brutus. Maki -> elle : tata (une fois sure du protectorat, quelque temps apres 2006 : un role familial plus proche que cousine, avec la difference de generation), Nisha. Maki -> Naoya : tonton.
 - Registre : mentorat bourru a la maison ; respect mutuel de leur force.
 - Habitudes : des son arrivee a Saitama (2014), Nisha l'entraine un week-end sur deux - ceux ou elle ne va pas au domaine (l'alternance des jumeaux occupe l'autre).
 - Contentieux : le harcelement d'enfance (pre-2006) - jamais solde par des mots : deux bourrines n'en ont pas besoin. Le solde passe par la force - se la prouver a l'entrainement ou dans une bonne baston, et passer a autre chose.
@@ -49,7 +49,7 @@ Page relations de Nisha, cercle FAMILLE : le clan (sang) et la famille choisie (
 
 ### Mai (protegee)
 - Statut : cousine, protegee AVANT d'etre eleve (2e annee sous Nisha des avr 2018) - le frein gemellaire, l'enjeu le plus lourd du duo.
-- Appellatifs : elle -> Mai : Mai, l'artilleuse (tactique ; convention : cf. Nisha_relations_boulot.md). Mai -> elle : Nisha, Madame Zenin (registre scolaire - le meme mot qu'avant 2006, retourne en titre de prof).
+- Appellatifs : elle -> Mai : Mai, l'artilleuse (tactique ; convention : cf. Nisha_relations_boulot.md). Mai -> elle : tata (meme regle que Maki), Nisha, Madame Zenin (registre scolaire - le meme mot qu'avant 2006, retourne en titre de prof). Mai -> Naoya : tonton.
 - Registre : mentorat d'abord interesse, puis sincere. Mai aime se sentir appreciee - meme, voire surtout, par ses anciens bourreaux : elle y sent qu'elle obtient ce qu'elle merite, la reconnaissance de la plus forte, de la plus Zenin des femmes.
 - Contentieux : le harcelement d'enfance, transmute cote Mai en valeur de la reconnaissance (cf. Registre) ; "Mai seule" au clan des 2014 (Maki partie a Saitama).
 - Evolution datee : 2006 harcelement puis protectorat -> 2011 pivot en sa faveur (plafond 8) -> 2014 seule au clan -> 2015 la lecon de Construction (exploite 3 -> 8) -> 2017 eleve d'Utahime -> avr 2018 eleve de Nisha ("Madame Zenin", nouveau sens) -> 1 nov 2018 acculee au domaine, coup d'Etat, curseur ~10/90, part a Tokyo avec Nisha.

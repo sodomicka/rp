@@ -1,13 +1,13 @@
 # Roadmap D1 - Piétiner les roseaux
 
-- version : W1
+- version : W2
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre ; la réflexion des conservateurs (fin de matinée) reste HORS POV
 - échelle temporelle : ~quelques heures (1er novembre 2018, début d'après-midi -> fin d'après-midi) ; quatre temps joués, aucun saut
 - borne d'entrée : 1er novembre 2018, début d'après-midi, sortie de la réunion chez Tengen
 - borne de sortie : 1er novembre 2018, Nisha repart pour Tokyo avec les jumelles -> D2
 - roadmap précédente : cf. WIKI Roadmap/Nisha/Roadmap_C3.md
-- roadmap suivante : cf. WIKI Roadmap/Nisha/Roadmap_D2.md (à écrire)
+- roadmap suivante : cf. WIKI Roadmap/Nisha/Roadmap_D2.md
 
 ## Intention
 Le règlement de comptes que Nisha a annoncé aux Instances le matin même. Le clan qui méprise les faibles est exécuté pour avoir failli aux faibles. Les jumeaux n'ont pas à chercher qui aurait pu être loyal : les vieux ont frappé dès qu'ils ont cru voir une faiblesse. Le conseil de 2006 tombe en entier (Naobito par Jogo, Ogi par ses filles, Jinichi par les élèves qu'il a forgés).
