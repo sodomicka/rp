@@ -14,10 +14,10 @@ Jouer selon les règles de Kenjaku pour épargner le maximum de gens. Ceux que t
 
 ## Itinéraire (jalons)
 1. **D2_1 - La répartition** [1er novembre, soir]. Tombeaux de l'Étoile.
-   - Présents : Tengen, Tsukumo, Choso, Nori en convalescence, et la famille.
+   - Présents : Tengen, Tsukumo, Choso, Nori, et la famille. Nori est soigné, mais vidé de son énergie occulte : il se remet surtout de cette perte, et lui ne peut pas se contenter d'un buffet à volonté comme Nisha.
    - Le plan : temporiser en jouant selon les règles de Kenjaku, et créer une règle qui permette de ne pas jouer.
    - Répartition : Nisha et Panda dans Tokyo n°2 ; Hakari, une fois recruté, avec Yuji et Megumi ; Maki et Mai seules à Sakurajima ; Yuta à Sendai.
-   - Tsukumo, Choso et Nori restent garder Tengen (canon).
+   - Tsukumo et Choso restent garder Tengen (canon) ; Nori y reprend des forces.
    - Clôt sur : chacun sait où il va.
 2. **D2_2 - Le parieur** [2 novembre]. Gachinko Fight Club, Tochigi.
    - Panda affronte Yuji dans un match arrangé (canon) ; Kirara garde la porte.

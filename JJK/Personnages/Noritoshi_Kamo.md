@@ -82,7 +82,7 @@ Fiches propres : cf. Personnages/Yukiko.md, Nisha.md, Kenjaku.md ; Factions/Clan
 | sept 2018 (C1_5) | Amicale à Tokyo (3A de Mei Mei), capitaine : contre Yuji (canon) ; attaque d'Hanami | - |
 | 31 oct 2018 (C2_4) | Prévenu par Muta, soutient Yukiko au démêlage de Takatsuki. Entend TOUT : vente de Satoru, Kenjaku, Noritoshi de Meiji | cercle du secret |
 | nuit 31 oct - 1 nov 2018 (C3) | Au palais (hors POV de Nisha, joué côté Yukiko) : poignardé par sa sœur, exilé, le numéro de Naoya glissé dans sa poche. Naoya le ramène en secret au domaine Zenin, l'y fait soigner et le CACHE (un héritier d'un clan rival mourant serait du pain béni pour Ogi et Jinichi), puis l'amène à Tokyo, où Shoko le soigne. Chez Tengen, raconte le palais ; Nisha lui explique que sa sœur s'est sacrifiée pour qu'il survive | blessé, exilé ; sait que sa sœur prépare une observation |
-| nov 2018 (D2) | En convalescence aux Tombeaux, garde Tengen avec Choso et Tsukumo ; prend le temps de discuter avec Choso avant le palais | - |
+| nov 2018 (D2) | Aux Tombeaux, avec Choso et Tsukumo qui gardent Tengen : soigné, il se remet surtout de la perte de son énergie occulte (vidé à 90 pour cent par sa sœur) ; prend le temps de discuter avec Choso avant le palais | réserve à reconstituer |
 
 ## Notes de frontière
 - Héritage effectif : -> ère D (palais, chantier D4). Non énoncé ici.

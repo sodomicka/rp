@@ -31,7 +31,7 @@
 ## Trajectoire datee
 - aout 2007 (A2_7) | Elle vient voir Gojo, tombe sur le couple Nisha/Gojo, sort sa question "type de mec" (reponses en scene -> roadmap) ; puis va parler a Geto : elle lui expose les deux voies, il en deduit seul la troisieme. | Sans le vouloir, elle arme la bascule finale de Geto. -> roadmap A2_7.
 - 1 nov 2018 (C3_4) | Chez Tengen, avec le groupe de Yuji (canon) : Nisha et elle manquent de s'égorger sur la chute de Geto ; la graine de mûre (le mûrier rêvé a donné les ronces de la Parade de 2017). | T-« la bonne question » et T-Nisha vs Yuki DÉTONÉS. -> ère D (palais, chantier D4).
-- nov 2018 (D2) | Reste garder Tengen avec Choso (canon) et Nori, en attendant le palais. | -> palais (D3).
+- nov 2018 (D2) | Reste garder Tengen avec Choso (canon), Nori à leurs côtés, en attendant le palais. | -> palais (D3).
 
 ## Notes de frontiere
 - Yuki SURVIT a A2 (presence limitee a A2_7) : trajectoire non-terminale.
