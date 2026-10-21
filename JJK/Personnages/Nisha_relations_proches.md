@@ -1,6 +1,6 @@
 # Nisha Zenin - Relations : proches
 
-- version : W3
+- version : W4
 
 Page relations de Nisha, cercle des PROCHES. Série en quatre pages par cercles : _proches (celle-ci), _famille (clan + famille choisie), _boulot (collègues + élèves de Kyoto), _eleves_tokyo (protégés de Satoru). Extension de Personnages/Nisha.md (sections relation Naoya/Eien condensées au profit de la série, build W21+). Les RÈGLES GÉNÉRALES transversales ci-dessous valent pour toute la série.
 Convention : les appellatifs listés s'ajoutent aux prénoms, toujours disponibles.
@@ -44,7 +44,7 @@ Deux régimes, avant / après le couple (1 jan 2006).
   - Registre : s'amusent de leurs divergences d'opinion sans jamais chercher à changer l'autre. Soutien inconditionnel.
   - Réputation : Nisha est connue du milieu pour son désaccord politique franc avec son mari - ses idées de toujours, très conservatrices, jusqu'à la doctrine de 2006 (cf. Nisha_chrono_A.md, A2_6). Kenjaku en fait un argument en 2018 : une alliée possible par son clan.
 - Habitudes / rituels : tradition d'anniversaire réciproque - collier le 30 janvier, bandeau le 7 décembre.
-- Contentieux / non-dits : la vente de 2015 - il sait qu'elle a payé pour Tsumiki, pas à quel prix. Il le comprend au moment d'être scellé (31 oct 2018) : elle a donné l'un de ses rares points faibles, l'inattention après un choc. Elle le lui avoue à sa sortie de la Lisière (11 nov 2018, Roadmap D3) : T-Secret-Naoya DÉTONÉ.
+- Contentieux / non-dits : la vente de 2015 - il sait qu'elle a payé pour Tsumiki, pas à quel prix. Il le comprend au moment d'être scellé (31 oct 2018) : elle a donné l'un de ses rares points faibles, l'hésitation sous le choc, que seuls quelques proches peuvent lui causer. Elle le lui avoue à sa sortie de la Lisière (11 nov 2018, Roadmap D3) : T-Secret-Naoya DÉTONÉ.
 - Évolution datée : sept 2005 elle le frappe en tournoi (insulte à Naoya) -> 1 jan 2006 premier baiser (nouvel an de Shoko) -> 2006 Toji : il la sauve, passe n1, elle n2 ; elle lui souffle le nom de son domaine -> déc 2006 premier bandeau -> 2007 le 2c1 avec Geto la rend plus amoureuse -> 2008 adoption + Saitama -> 2015 noces, puis la vente -> début 2018 elle le répare (miroir inverse de B2).
 
 ### Shoko
@@ -60,8 +60,8 @@ Deux régimes, avant / après le couple (1 jan 2006).
 - Appellatifs : elle -> lui : Suguru, Geto, le chef d'orchestre (référence à son sort). Lui -> elle : Nisha, Zenin, la Zenin.
 - Registre : les joutes - les deux jouent de leur désaccord, sa frontalité contre le calme souriant de Geto.
 - Habitudes / rituels : les pauses clopes avec Shoko ; les révisions du soir du quatuor (elle y distribue ses suppléments d'archives).
-- Contentieux : l'avertissement ressourcé de 2006 ("on ne s'attache pas" - il s'attache) ; le café terminal de fin 2007 (les deux cyniques écoutent le monstre sans le suivre, puis elle alerte Satoru) ; sa mort début 2018, par la main de Satoru - qu'elle passe des mois à réparer.
-- Évolution datée : 2005 premier débat tendu (Satoru désamorce) -> 2006 avertissement ironique -> 2007 le 2c1 contre Satoru (synergie 85 %, la plus haute hors jumeaux) -> fin 2007 café + alerte + défection -> début 2018 mort par Satoru, elle répare.
+- Contentieux : l'avertissement ressourcé de 2006 ("on ne s'attache pas" - il s'attache) ; le café terminal de fin 2007 (les deux cyniques écoutent le monstre sans le suivre, puis elle alerte Satoru) ; sa mort le 24 déc 2017 (Nuit des Cent Fléaux), par la main de Satoru - qu'elle passe des mois à réparer.
+- Évolution datée : 2005 premier débat tendu (Satoru désamorce) -> 2006 avertissement ironique -> 2007 le 2c1 contre Satoru (synergie 85 %, la plus haute hors jumeaux) -> fin 2007 café + alerte + défection -> 24 déc 2017 mort par Satoru -> début 2018, elle répare Satoru.
 
 ### Yukiko
 - Statut : amie d'enfance (repas bissextiles), l'unique exception féminine de 2005. La louve et la vipère.

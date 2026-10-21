@@ -1,8 +1,8 @@
 # Nisha Zenin - Chronologie datée, ère A (2005-2008)
 
-- version : W8
+- version : W9
 
-Extension de Personnages/Nisha.md, scindée pour le poids (Nisha = entité la plus dense du casting). Contient la TRAJECTOIRE DATÉE post-départ de Nisha pour l'ère A (1 avr 2005 -> hiver 2008) : ce qu'elle DEVIENT après le point de départ, événement par événement. Strate canon par défaut, télégraphique ; le détail vit dans les roadmaps. Build-side : fetchée à la demande, JAMAIS chargée en narration (la fiche d'arc tronquée tient le contexte de jeu). Le NOYAU (identité, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005) reste dans Personnages/Nisha.md. Ères ultérieures : Nisha_chrono_B.md, etc.
+Extension de Personnages/Nisha.md, scindée pour le poids (Nisha = entité la plus dense du casting). Contient la TRAJECTOIRE DATÉE post-départ de Nisha pour l'ère A (1 avr 2005 -> hiver 2008) : ce qu'elle DEVIENT après le point de départ, événement par événement. Strate canon par défaut, télégraphique ; le détail vit dans les roadmaps. Build-side : fetchée à la demande, JAMAIS chargée en narration (la roadmap et le CODEX tiennent le contexte de jeu). Le NOYAU (identité, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005) reste dans Personnages/Nisha.md. Ères ultérieures : Nisha_chrono_B.md, etc.
 
 ## Trajectoire datée - ère A
 | Date/ère | Événement | Delta d'état |

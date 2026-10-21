@@ -1,13 +1,13 @@
 # Roadmap D2 - La Traque
 
-- version : W3
+- version : W4
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre ; Tokyo n°1, Sakurajima, Sendai et les Tombeaux de l'Étoile restent HORS POV
 - échelle temporelle : ~une semaine (1er novembre 2018, soir -> 8 novembre, matin) ; cinq temps joués
 - borne d'entrée : 1er novembre 2018, soir, retour chez Tengen après le coup d'État
 - borne de sortie : 8 novembre, matin, Nisha seule survivante de Tokyo n°2, la barrière s'abaisse -> D3
 - roadmap précédente : cf. WIKI Roadmap/Nisha/Roadmap_D1.md
-- roadmap suivante : cf. WIKI Roadmap/Nisha/Roadmap_D3.md (à écrire)
+- roadmap suivante : cf. WIKI Roadmap/Nisha/Roadmap_D3.md
 
 ## Intention
 Jouer selon les règles de Kenjaku pour épargner le maximum de gens. Ceux que tuer ne dérange pas raflent les points, et les autres achètent le droit de ne pas jouer. Nisha prend la plus belle part de la besogne, parce qu'elle aime ça. Et elle passe ses premières heures dans la colonie avec le fils qu'elle voit le moins.
@@ -83,7 +83,7 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 - Un des gamins de Nisha meurt : elle préfère mourir.
 - Nisha croise Kenjaku ou Uraume.
 - Nisha sort de Tokyo n°2 avant de l'avoir vidée.
-- Satoru apprend la vente - T-Secret-Naoya, [OUVERT].
+- Nisha avoue la vente à Satoru - T-Secret-Naoya : il l'a comprise seul au scellement, l'aveu n'a lieu qu'à sa sortie (D3_4).
 - Quiconque apprend le contenu d'Enchain.
 
 ## Verrous

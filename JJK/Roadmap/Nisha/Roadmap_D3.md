@@ -1,13 +1,13 @@
 # Roadmap D3 - Le palais
 
-- version : W2
+- version : W3
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre ; la mort de Tsukumo (6 nov), Saitama (10 nov) et les colonies restent HORS POV
 - échelle temporelle : ~quatre jours (8 novembre 2018, matin -> 12 novembre) ; cinq temps joués
 - borne d'entrée : 8 novembre 2018, matin, Nisha seule survivante de Tokyo n°2, la barrière s'abaisse
 - borne de sortie : retour de Nisha et Satoru ; Yuji n'a plus Sukuna ; Megumi et Tsumiki sont partis avec lui -> D4
 - roadmap précédente : cf. WIKI Roadmap/Nisha/Roadmap_D2.md
-- roadmap suivante : cf. WIKI Roadmap/Nisha/Roadmap_D4.md (à écrire)
+- roadmap suivante : cf. WIKI Roadmap/Nisha/Roadmap_D4.md
 
 ## Intention
 Le piège de Takatsuki retourné contre son auteur. Kenjaku, sûr de lui, convie ses ennemis à sa propre table ; Yukiko referme sur lui un rideau taillé à sa signature, et les jumeaux qu'il avait piégés lui éclatent le crâne. Puis le prix : pendant que les deux parents sont verrouillés loin de la maison, Sukuna prend Megumi.
@@ -36,8 +36,8 @@ Le piège de Takatsuki retourné contre son auteur. Kenjaku, sûr de lui, convie
 4. **D3_4 - La Lisière** [9 -> 11 novembre]. Palais Kamo.
    - Yukiko ouvre la Lisière en trois jours complets ; pour une fois, c'est Nori qui prend soin d'elle. Nisha reste au palais tout du long.
    - HORS POV, le 10 : Saitama (cf. Notes de frontière).
-   - Le 10, Maki l'appelle : Tsumiki et Megumi sont partis, elle file au domaine Zenin chercher Mai et Naoya pour aller les récupérer. Nisha refuse : si Sukuna voulait leur faire du mal, ce serait déjà fait. Satoru sera bientôt libre, et elle montera un conseil de guerre avec les deux écoles. Il est trop tard pour rentrer en panique, et Yukiko dit ne plus être très loin : elle reste.
-   - Le 11 au soir, Satoru sort. C'est le moment où Nisha craque enfin. Il la rassure ; elle lui raconte l'énorme bordel, et lui avoue que c'était ça, la vente en échange de Tsumiki (T-Secret-Naoya DÉTONE). Il l'avait compris au moment d'être scellé : sa femme avait donné l'un de ses rares points faibles, l'inattention après un choc ; l'aveu confirme, et donne le pourquoi.
+   - Le 10, Maki l'appelle et lui raconte Saitama, qu'elle a vécu : la minute d'Enchain, Tsumiki menacée, Megumi qui se vend à Sukuna pour la protéger, le Serment de Saitama, elle-même stoppée sans riposte (déroulé et lettre : cf. Personnages/Sukuna.md, ligne D3 et Le Serment de Saitama). Tsumiki et Megumi sont partis, elle file au domaine Zenin chercher Mai et Naoya pour aller les récupérer. Nisha refuse : si Sukuna voulait leur faire du mal, ce serait déjà fait. Satoru sera bientôt libre, et elle montera un conseil de guerre avec les deux écoles. Il est trop tard pour rentrer en panique, et Yukiko dit ne plus être très loin : elle reste.
+   - Le 11 au soir, Satoru sort. C'est le moment où Nisha craque enfin. Il la rassure ; elle lui raconte l'énorme bordel, et lui avoue que c'était ça, la vente en échange de Tsumiki (T-Secret-Naoya DÉTONE). Il l'avait compris au moment d'être scellé : sa femme avait donné l'un de ses rares points faibles, l'hésitation sous le choc, que seuls quelques proches peuvent lui causer ; l'aveu confirme, et donne le pourquoi.
    - Elle appelle Yaga et Gakuganji : on prépare l'ultime bataille, en essayant de ramener le fiston en vie.
    - Clôt sur : la bataille finale se prépare.
 5. **D3_5 - Le retour** [11 -> 12 novembre]. Retour vers Tokyo.
@@ -62,9 +62,9 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 - Hors champ : Yuki Tsukumo (morte le 6), Uraume (caché avec les doigts), Saitama (Sukuna, Megumi, Yuji, Maki, Tsumiki), Mai (rentre au domaine)
 
 ## Lieux et objets
-- Palais Kamo, Kyoto - cf. Factions/Clan_Kamo.md
-- Le rideau du palais - contre-piège à la signature de Kenjaku, tissé au sang de Yukiko, ciblé sur lui seul - non fiché
-- La Lisière du Supplice - non fichée
+- Palais Kamo, Kyoto - cf. Lieux/Chiryu_no_Kyuden.md
+- Le rideau du palais - contre-piège à la signature de Kenjaku, tissé au sang de Yukiko, ciblé sur lui seul - cf. BIBLE SB7
+- La Lisière du Supplice - cf. Personnages/Kenjaku.md
 
 ## Conditions de sortie
 ### Requis
@@ -76,7 +76,7 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 - Nisha quitte le palais avant la sortie de Satoru.
 - Nisha croise Uraume.
 - Quelqu'un d'autre que Nisha porte le coup fatal à Kenjaku.
-- Satoru apprend la vente avant sa sortie de la Lisière - c'est Nisha qui la lui avoue, au jalon 4.
+- Nisha avoue la vente à Satoru avant sa sortie de la Lisière - elle la lui avoue au jalon 4 ; lui l'a comprise seul au scellement.
 - Quiconque apprend le contenu d'Enchain.
 
 ## Verrous
@@ -91,7 +91,7 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 - Aucune. Règle globale du RP (jusqu'à contre-ordre du worldbuilder) : aucune roadmap ne se scinde en embranchement.
 
 ## Notes de frontière
-- Saitama, 10 novembre, HORS POV : Maki (rentrée une fois la Traque finie), Yuji, Megumi et Tsumiki à la maison. Maki en sort intacte : elle attaque Sukuna, qui la stoppe sans répliquer, satisfait de la voir douter de sa puissance. Sukuna repart avec Tsumiki, sous sa garde directe. L'échec de Kenjaku et Eien fait bouillir Sukuna : pas la bataille légendaire promise, mais une génération capable de les vaincre, donc la bonne époque pour sa guerre. Il veut les Dix Ombres et provoquer le couple au sommet de sa rage. Déroulé et Serment : chantier D5 à D7.
+- Saitama, 10 novembre, HORS POV : Maki (rentrée une fois la Traque finie), Yuji, Megumi et Tsumiki à la maison. Maki en sort intacte : elle attaque Sukuna, qui la stoppe sans répliquer, satisfait de la voir douter de sa puissance. Sukuna repart avec Tsumiki, sous sa garde directe. L'échec de Kenjaku et Eien fait bouillir Sukuna : pas la bataille légendaire promise, mais une génération capable de les vaincre, donc la bonne époque pour sa guerre. Il veut les Dix Ombres et provoquer le couple au sommet de sa rage. Déroulé et lettre du Serment : cf. Personnages/Sukuna.md (ligne D3, Le Serment de Saitama) ; Nisha l'apprend par l'appel de Maki (D3_4).
 - Après Saitama : Uraume livre à Sukuna les doigts restants ; Sukuna dans Megumi à 27 doigts -> D4.
 - État de sortie : Kenjaku et Tsukumo morts ; Traque finie ; Eien brisée ; Nori patriarche, Yukiko au bras droit, Choso chez les Kamo ; Satoru libre ; Megumi devenu Sukuna, disparu, Tsumiki sous sa garde directe ; Yuji sans Sukuna.
 - D4 : la bataille finale.

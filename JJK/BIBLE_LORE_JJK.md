@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : JJK
 - sources primaires : manga Jujutsu Kaisen (Gege Akutami) ; worldbuilding du worldbuilder (OC Nisha Zenin, Yukiko Kamo, Eien, Nozomu)
-- bible_version : B30
+- bible_version : B31
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/JJK/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/JJK/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/JJK/Partie1/`
@@ -27,7 +27,7 @@
   - Lieux - sièges des clans (Chiryu no Kyuden - Kamo ; Juei no Ryochi - Zenin) (2 pages)
   - Power_Scaling - système de puissance, repères chiffrés en satellite (2 pages)
   - Pedagogie - carte des enseignements (1), fiches de cours par discipline et par année (7), enseignement personnalisé par promotion (8), leçon de Tengen sur la Traque (1) (17 pages)
-  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2, C3, D1, D2, D3, D4, D5), Yukiko/ (A0, A1) (16 pages indexées). Hors index : trames de garde-cap (Nisha/trame_B, Yukiko/trame_A_B), _Chantier_Passe2_EresCD.md et Yukiko/chantier_yukiko.md (documents de travail), Nisha/D5_Etats_2024.md (fiches groupées des états 2019-2024, propres à la D5, hors lore neutre), sources de build jamais fetchées en narration.
+  - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2, C3, D1, D2, D3, D4, D5), Yukiko/ (A0, A1) (16 pages indexées). Hors index : trame de garde-cap (Yukiko/trame_A_B), _Chantier_Passe2_EresCD.md et Yukiko/chantier_yukiko.md (documents de travail), Nisha/D5_Etats_2024.md (fiches groupées des états 2019-2024, propres à la D5, hors lore neutre), sources de build jamais fetchées en narration.
   - Resume.md - résumé autosuffisant de l'univers jusqu'au repas bissextile du 29 février 2024 (fin de l'ère C, coup d'État Zenin, Traque côté Nisha, mort de Kenjaku, bataille finale, épilogue de la D5), NON indexé au Sommaire, jamais fetché en narration (1 page)
   - _Implications.md - journal de conception, jamais fetché en narration (1 fichier de travail)
 - Total indexé au Sommaire (W52) : 109 pages.
@@ -125,7 +125,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 
 ## SB4 Factions et groupes
 `Faction - nature | objectif | alliés | ennemis | statut dans le focus`
-- Clan Zenin - grande famille patriarcale, jugée à la technique héritée | puissance, pureté du sang, statut | clans Gojo et Kamo (alliance de caste rivale) | profanes, faibles, fléaux | clan de Nisha. Patriarche Naobito (†31 oct 2018), puis NAOYA depuis le coup d'État du 1er nov 2018 (conseil de 2006 tombé en entier ; le testament désignait Megumi, qui refuse) ; Projection + Dix Ombres (greffe) ; conseil à 3 sièges (Naobito, Ogi, Jinichi), remplacé après Shinjuku par Naoya, Nisha, Ranta, Maki et Mai (Megumi refuse), Hei, Akashi, Kukuru. [DIVERGENCE RP] Archives fermées aux femmes ; secrets : signature gémellaire, anti-domaine, secret d'Eien, désastre de Tenpō. Siège : Juei no Ryochi. Détail : cf. WIKI Factions/Clan_Zenin.md
+- Clan Zenin - grande famille patriarcale, jugée à la technique héritée | puissance, pureté du sang, statut | clans Gojo et Kamo (alliance de caste rivale) | profanes, faibles, fléaux | clan de Nisha. Patriarche Naobito (†nuit du 31 oct au 1er nov 2018), puis NAOYA depuis le coup d'État du 1er nov 2018 (conseil de 2006 tombé en entier ; le testament désignait Megumi, qui refuse) ; Projection + Dix Ombres (greffe) ; conseil à 3 sièges (Naobito, Ogi, Jinichi), remplacé après Shinjuku par Naoya, Nisha, Ranta, Maki et Mai (Megumi refuse), Hei, Akashi, Kukuru. [DIVERGENCE RP] Archives fermées aux femmes ; secrets : signature gémellaire, anti-domaine, secret d'Eien, désastre de Tenpō. Siège : Juei no Ryochi. Détail : cf. WIKI Factions/Clan_Zenin.md
 - Clan Gojo - grande famille conservatrice, culte du guerrier parfait (Infini + Six Yeux) | primat et poids politique | clans Zenin et Kamo | profanes, faibles, fléaux | clan de Satoru. [DIVERGENCE RP] Seul clan à s'ABSTENIR de la violence infantile - douceur-cicatrice née de Nozomu (Genroku) ; guerrier parfait invisible avant l'éveil (règle des yeux) ; porteurs : Nozomu, le Parfait de Tenpō [nom NON FIXÉ], Satoru. Détail : cf. WIKI Factions/Clan_Gojo.md, Personnages/Nozomu.md
 - Clan Kamo - grande famille vouée à la pureté du sang | préserver la lignée élue (Hémokinésie) | clans Gojo et Zenin | profanes, sangs mêlés, fléaux | clan de Yukiko, second OC jouable. [DIVERGENCE RP] Succession par le sang pur seul, règle des bâtards (cas unique : Noritoshi 1997-2001) ; lignée 2005 : Noriaki, Fubuki (†1992), Yasashiku, Yukiko, Noritoshi ; matriarcat de fait (usage MJ) ; monopole des rideaux fractals et du Dragon ; origine de Kenjaku. Siège : Chiryu no Kyuden ; repas claniques bissextiles Kamo/Zenin chaque 29 fév. Détail : cf. WIKI Factions/Clan_Kamo.md, Personnages/Noriaki_Fubuki.md, Yasashiku.md
 - Hautes Instances - sommet conservateur et sans visage au-dessus des universités | émettre les ordres, préserver l'ordre établi | les trois familles | progressistes, anomalies | plafond institutionnel. Dix membres (5 par université : 3 clans + 2 indépendants), tous Grade Spécial 1, seul visage public : Gakuganji. [DIVERGENCE RP] Pacte fondateur Meiji avec l'État, règlement en neuf articles. Kenjaku tient dans l'ombre les deux sièges Kamo ; le 1er nov 2018, Nisha leur arrache sous menace de mort la vie de Yaga, un nouveau sursis pour Yuji, la levée du bannissement de Satoru et quelques jours hors des affaires de clans. Détail : cf. WIKI Factions/Hautes_Instances.md
@@ -140,7 +140,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Eien - OC, parasite de Nisha, esprit maudit Grade Spécial millénaire, co-architecte du monde, †14 nov 2018 (Shinjuku : rembobine Yuji puis meurt en emportant la Chronokinésie) | Chronokinésie (cédée à l'hôte), Jardin des Ères Mortes, parasitisme par fœtus | Nisha (hôte : maîtresse qui s'ignore geôlière, amie jouée jusqu'en 2015 ; rapport inversé depuis, les visites), Kenjaku (amante, mille ans) | Chronokinésie | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Eien.md
 - Kenjaku - exorciste millénaire, co-architecte du monde | transfert de cerveau, sceaux | Eien (amant) ; vaisseaux : Noritoshi Kamo (Meiji), Kaori Itadori, Geto | sort de l'hôte courant | canon + [DIVERGENCE RP] (origine Kamo, couple Eien ; 22 doigts dans Suguru ; confie à Yukiko, le 7 nov 2018, avoir été l'architecte de la pureté Kamo et des sorts innés des clans ; tué par Nisha au palais Kamo le 8 nov 2018). detail: cf. WIKI Personnages/Kenjaku.md
 - Nozomu Gojo - OC, esprit maudit Grade Spécial : guerrier parfait de Genroku mort à l'éveil (4 ans), revenu en esprit vengeur ; scellé dans une marque (SB7) ; réveillé dans Uraume et achevé par les deux paires de jumeaux à Shinjuku (14 nov 2018) | Infini en armure, rayons d'énergie pure, déplacement niveau Naoya et attaque niveau Nisha, Six Yeux épars, six bras, domaine Flagellation du Bourreau ; 20 doigts ; doctrine : libérer les enfants, punir les parents. RÈGLE D'ÉCRITURE PERMANENTE : aucun détail d'acte sur sa mort, aucune romantisation | clan Gojo, Eien, Kenjaku, Uraume | Infini + Six Yeux | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nozomu.md
-- Naobito Zenin - patriarche (26e chef), père des jumeaux (né 1947, †31 oct 2018 ; testament : Megumi) | Projection, 12 doigts, Grade Spécial 1 | Naoya/Nisha, Ogi (frère cadet), Jinichi/Toji (neveux) | Projection | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Naobito.md
+- Naobito Zenin - patriarche (26e chef), père des jumeaux (né 1947, †nuit du 31 oct au 1er nov 2018 ; testament : Megumi) | Projection, 12 doigts, Grade Spécial 1 | Naoya/Nisha, Ogi (frère cadet), Jinichi/Toji (neveux) | Projection | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Naobito.md
 - Naoya Zenin - jumeau de Nisha (né le 30 jan 1987), héritier de fait, patriarche depuis le coup d'État du 1er nov 2018 | Projection, 8 doigts à l'université / 14 adulte, résonance gémellaire | Nisha, Naobito | Projection | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Naoya.md (+ chrono_B)
 - Jinichi Zenin - pilier du Hei, membre du conseil, tué par les jumeaux au coup d'État (1er nov 2018) | Poings Météores, 10 doigts, Grade Spécial 1 | Toji (frère), Naobito (oncle) | Poings Météores | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Jinichi.md
 - Ogi Zenin - frère cadet de Naobito, pilier du Hei, père de Maki/Mai, tué par ses filles au coup d'État (1er nov 2018) | Bravoure Impérieuse + Pluie de Pétales Épris (anti-domaine), 7 doigts | Maki/Mai, Naobito | épée maudite | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Ogi.md
@@ -210,7 +210,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 
 ## SB8 Mystères ouverts et Tchekhov
 
-SB8 porte, par mystère ou fil, la définition, le statut et un renvoi. Les déroulés vivent en roadmap, chrono ou chantier. Déroulés des ères C/D : cf. Roadmap/_Chantier_Passe2_EresCD.md, à résorber dans les roadmaps C/D (noté "chantier" ci-dessous).
+SB8 porte, par mystère ou fil, la définition, le statut et un renvoi. Les déroulés vivent en roadmap, en chrono ou en fiche. Le chantier Passe 2 (Roadmap/_Chantier_Passe2_EresCD.md) reste un document de travail, gardé pour le build Yukiko : aucun fil n'y renvoie.
 
 ### Mystères
 `Mystère - hypothèses principales | statut (ouvert / résolu-dans-RP / hors-périmètre)`
@@ -221,8 +221,8 @@ SB8 porte, par mystère ou fil, la définition, le statut et un renvoi. Les dér
 
 ### Tchekhov
 `Fil - planté en | statut | renvoi` (condition de détonation ajoutée pour les fils ouverts quand elle est connue)
-- T-Fubuki - nouvel an 1992 (empoisonnement sur les manigances de Yasashiku, vérité connue de Yukiko seule) | DÉTONÉ ère C | chantier.
-- T-Matriarcat - état 2005 (clan Kamo gouverné par ses femmes) | DÉTONÉ ère C | chantier.
+- T-Fubuki - nouvel an 1992 (empoisonnement sur les manigances de Yasashiku, vérité connue de Yukiko seule) | DÉTONÉ C3 (nuit du 31 oct au 1er nov 2018, salle du trône Kamo : Yukiko dénonce Yasashiku devant Kenjaku et Nori ; Yasashiku exécutée) | WIKI Personnages/Yasashiku.md, Noritoshi_Kamo.md.
+- T-Matriarcat - état 2005 (clan Kamo gouverné par ses femmes) | DÉTONÉ C3 (gambit du palais : Yasashiku exécutée, Yukiko au bras droit de Kenjaku), puis D3 (Nori patriarche, Yukiko au bras droit) | WIKI Factions/Clan_Kamo.md.
 - Collier-arsenal de Nisha - A1 (30 jan 2006) | DÉTONÉ en A2_4 | Roadmap A2.
 - Faille d'Eien - A1/A2 | DÉTONÉE en 2015 (B2) | Roadmap B2, WIKI Personnages/Eien.md.
 - T-Sceau (la vente de Satoru) - 2015 (B2) | DÉTONÉ C2 (Takatsuki et Shibuya, 31 oct 2018) | Roadmap C2.
@@ -236,7 +236,7 @@ SB8 porte, par mystère ou fil, la définition, le statut et un renvoi. Les dér
 - Vente conditionnelle de Megumi - A2_4 | RÉSOLUE en A2_10 (adoption hors-Zenin 2008) | Roadmap A2.
 - Coup d'État du clan Zenin - 2006 (A2_6) | DÉTONÉ D1 (1er nov 2018, après-midi), Naoya sur le trône | Roadmap D1.
 - Amicale non tenue en A2 - A2 | aucune édition jouée, massacre de Geto repoussé à fin 2007 | Roadmap A2.
-- T-Assurance-Tsumiki - 10 nov 2018 (Serment de Saitama) | DÉTONÉ D4 sans être éprouvé : Megumi ne résiste jamais, Tsumiki spectatrice intouchée, protégée jusqu'à la mort de Sukuna | Roadmap D4.
+- T-Assurance-Tsumiki - 10 nov 2018 (Serment de Saitama) | DÉTONÉ D4 sans être éprouvé : Megumi ne résiste jamais, Tsumiki spectatrice intouchée, protégée jusqu'à la mort de Sukuna | Roadmap D4 ; lettre : WIKI Personnages/Sukuna.md.
 - T-Marque-Nozomu - Genroku (marque remise à Uraume, cf. SB7) | DÉTONÉ D4 (14 nov 2018 : Sukuna refuse, Uraume réveille Nozomu) | Roadmap D4.
 
 ## SB9 Index - routage
@@ -246,4 +246,4 @@ Index détaillé page par page : cf. WIKI JJK/Sommaire.md
 
 ---
 
-FIN_BIBLE_B30
+FIN_BIBLE_B31

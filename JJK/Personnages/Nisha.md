@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W27
+- version : W28
 
 Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de départ (2005) : identité, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datée post-départ) est scindé par volume pour le poids -> cf. section dédiée en bas de fiche et Personnages/Nisha_chrono_A.md. Tissu relationnel (appellatifs, registres, habitudes, contentieux) : cf. la série Personnages/Nisha_relations_<cercle>.md (proches / famille / boulot / eleves_tokyo).
 
@@ -58,7 +58,7 @@ Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de dé
 - Création : en 1/24e de seconde, une sphère noire. Écho de la Projection de Naoya (24 images par seconde). Le déploiement est trop bref pour être vu.
 - Vue de l'EXTÉRIEUR : une sphère noire OPAQUE, mate, d'environ trois étages de haut - un vrai domaine, à l'échelle d'un carrefour. Ce n'est pas sa taille qui la rend peu intimidante, c'est sa DURÉE : fugace, elle s'efface avant d'impressionner. Être dedans est une autre affaire.
 - Vue de l'INTÉRIEUR : un dôme violet-noir étoilé, translucide - le monde extérieur se voit à travers la paroi, en GRIS. Sol d'eau violette parcourue d'ondes concentriques. Suspendus dans le dôme, luisant violet pâle : horloges, montres à gousset, pendules, sabliers, cadran solaire, rouages.
-- GESTE de déploiement : une main ouverte, doigts écartés, paume en avant ; l'autre forme un anneau pouce-index, trois doigts tendus, l'anneau placé devant la paume ouverte. Volutes violettes autour des mains.
+- GESTE de déploiement : un « § » formé des deux mains (cf. Art/Sphere_Temps_Geste.png). Chaque main ferme un anneau pouce-index, et les deux anneaux se superposent ; les trois autres doigts de chaque main, tendus et légèrement courbés, dessinent un arc de cercle. Les deux mains se répondent en symétrie de révolution de 180° : les doigts de l'une pointent vers le haut, ceux de l'autre vers le bas, les deux arcs éloignés de part et d'autre des anneaux. Volutes violettes autour des mains.
 - Intérieur : le temps suit sa propre horloge. Nisha y utilise Chronostase et Chronokinésie sans toucher, et débloque l'inversion temporelle.
 - Inversion temporelle : sur son propre corps. Un bras tranché se dé-tranche, une brûlure se dé-brûle. Ce n'est PAS le sort d'inversion (RCT) : c'est une inversion temporelle littérale, au-dessus de la RCT.
 - Coût : vide colossalement ses réserves d'énergie occulte. Ultime recours. Après usage, hors d'état de se battre.
@@ -110,7 +110,7 @@ Fiche propre : cf. Personnages/Naoya.md. Tissu relationnel (appellatifs, registr
 - Femme, donc pas héritière. Mais puissance d'exception.
 - [DIVERGENCE RP] Éducation de servante VÉCUE de la naissance à 8 ans (1987-1995), pas seulement planifiée : elle l'a subie. La maîtrise du territoire à 8 ans (1995) clôt ce statut et la fait favorite.
 - Enfance : Naobito a failli la renier puis l'exécuter (son sort lu comme celui d'un fléau). Naoya l'a défendue. L'éveil de la Chronostase (août 1991) l'a sauvée : un vrai sort Zenin à elle.
-- 1997 (10 ans) : Naobito la fait Grade Spécial 1. Motif : le fléau en elle est une alliée inconditionnelle, plus une menace - donc vraie Zenin, seule femme à l'être.
+- 1997 (10 ans) : Naobito la fait Grade Spécial 1. Motif : il constate seul que le fléau en elle est une alliée inconditionnelle, plus une menace - donc vraie Zenin, seule femme à l'être. La preuve devant le conseil vient en 2000 (cf. Chronologie noyau).
 - Hei refuse : femme = pas digne (conséquence de la misogynie du clan). Akashi refuse par ego (elle se sait digne du Hei).
 - Archives du clan : interdites aux femmes (accès réservé aux héritiers de branches principales - Naoya y a toujours eu accès). [DIVERGENCE RP] Enfant, Nisha s'y INFILTRAIT : Chronokinésie sur sa conscience et sa main pour RECOPIER les textes à une vitesse absurde sans se faire prendre, quitte à digérer les copies a posteriori et à en discuter avec Naoya pour s'assurer d'avoir bien compris. Accès officiel accordé en 2000 (13 ans), par statut de prodige. Cf. Factions/Clan_Zenin.md.
 - Voie choisie : exorcisme freelance avec des membres du clan, où elle fait tout le travail pour prouver sa puissance.
@@ -129,7 +129,7 @@ Fiche propre : cf. Personnages/Naoya.md. Tissu relationnel (appellatifs, registr
 | 30 jan 1987 | Naissance des jumeaux. Naobito déçu d'avoir une fille ; la planifie comme servante de Naoya. |
 | 30 jan 1991 | Eien se révèle à Nisha (4 ans), offre la Chronokinésie. Naobito envisage de la renier ou de l'exécuter. Naoya la défend. |
 | août 1991 | Éveil des innés : Naoya la Projection, Nisha la Chronostase. Eien commence à craindre pour sa suprématie. |
-| 29 fév 1992 | Repas clanique Kamo/Zenin (Hautes Instances de Kyoto, chaque 29 février) : les jumeaux (5 ans) rencontrent Yukiko Kamo (5 ans). Nisha, encore en éducation servante, assise juste à côté de Naoya, qui n'a jamais toléré qu'on la mette ailleurs. (Trois rencontres d'enfance, trois Yukiko - leurres en 1992, masque flairé en 1996, masque tombé en 2000 : cf. Personnages/Yukiko.md.) Éditions suivantes (1996, 2000, 2004) : une au moins -> Roadmap_A0. |
+| 29 fév 1992 | Repas clanique Kamo/Zenin (Hautes Instances de Kyoto, chaque 29 février) : les jumeaux (5 ans) rencontrent Yukiko Kamo (5 ans). Nisha, encore en éducation servante, assise juste à côté de Naoya, qui n'a jamais toléré qu'on la mette ailleurs. (Trois rencontres d'enfance, trois Yukiko - leurres en 1992, masque flairé en 1996, masque tombé en 2000 : cf. Personnages/Yukiko.md.) Éditions suivantes (1996, 2000, 2004) : cf. Roadmap/Nisha/Roadmap_A0.md (fils transversaux). |
 | 1995 | Nisha étend son territoire (Sphère du Temps Infini, 8 ans). Fin du statut servile, devient favorite de Naobito. |
 | 1997 | Putsch d'Eien (10 ans) : tenté, ÉCHOUÉ - INVISIBLE pour Nisha, qui n'en perçoit qu'un vertige et une proximité immense (un instant de cerveau partagé), qu'Eien explique comme le signe de l'âge où elles deviennent vraiment meilleures amies. L'échec ARRACHE à Eien l'accès à ses pouvoirs : Nisha commande désormais pleinement les deux sorts. Faite Grade Spécial 1 - motif : le fléau en elle est une alliée inconditionnelle, plus une menace. |
 | 2000 | Statut de prodige (13 ans) : accès officiel aux archives du clan, jusque-là interdites aux femmes (elle s'y infiltrait). La même année, elle PROUVE au conseil (Naobito, Ogi, Jinichi) que le fléau en elle est une alliée inconditionnelle et ne sera jamais un problème - dossier clos, le clan n'y reviendra pas. |
@@ -149,7 +149,7 @@ Apportées par le conseil Zenin (Naobito, Jinichi, Ogi).
   - Ère A (post-départ, 2005-2008) : cf. Personnages/Nisha_chrono_A.md.
   - Ères ultérieures : Personnages/Nisha_chrono_B.md, Nisha_chrono_C.md, Nisha_chrono_D.md.
 - Convention : noyau (ce qu'elle EST, <= 2005) ici ; trajectoire datée (ce qu'elle DEVIENT, post-2005) dans les Nisha_chrono_<Ere>.md.
-- Build-side, fetchée à la demande ; JAMAIS chargée en narration (la fiche d'arc tronquée tient le contexte de jeu).
+- Build-side, fetchée à la demande ; JAMAIS chargée en narration (la roadmap et le CODEX tiennent le contexte de jeu).
 
 ## Notes de frontière (reporté hors de ce build)
 - Backstory COMPLÈTE détaillée + instance jouée : à venir en Parties/JJK/Partie1/Suivi/ + CODEX (setup / V1).

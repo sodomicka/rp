@@ -1,8 +1,8 @@
 # Yukiko Kamo - Chronologie datée, ère A (2005-2008)
 
-- version : W2
+- version : W3
 
-Extension de Personnages/Yukiko.md, scindée sur le modèle de Nisha_chrono_A. Contient la TRAJECTOIRE DATÉE post-départ de Yukiko pour l'ère A (1 avr 2005 -> mars 2008) : ce qu'elle DEVIENT après le point de départ, événement par événement. Strate canon par défaut, télégraphique ; le détail vit dans les roadmaps. Build-side : fetchée à la demande, JAMAIS chargée en narration (la fiche d'arc tronquée tient le contexte de jeu). Le NOYAU (identité, sort, tissage, psychologie, place dans le clan, chronologie <= mars 2005) reste dans Personnages/Yukiko.md. Ères ultérieures : Yukiko_chrono_B.md (à créer ; en attendant, les entrées d'ère B restent en fiche).
+Extension de Personnages/Yukiko.md, scindée sur le modèle de Nisha_chrono_A. Contient la TRAJECTOIRE DATÉE post-départ de Yukiko pour l'ère A (1 avr 2005 -> mars 2008) : ce qu'elle DEVIENT après le point de départ, événement par événement. Strate canon par défaut, télégraphique ; le détail vit dans les roadmaps. Build-side : fetchée à la demande, JAMAIS chargée en narration (la roadmap et le CODEX tiennent le contexte de jeu). Le NOYAU (identité, sort, tissage, psychologie, place dans le clan, chronologie <= mars 2005) reste dans Personnages/Yukiko.md. Ères ultérieures : Yukiko_chrono_B.md (à créer ; en attendant, les entrées d'ère B restent en fiche).
 
 ## Trajectoire datée - ère A
 | Date/ère | Événement | Delta d'état |

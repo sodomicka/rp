@@ -1,62 +1,62 @@
 # Kirara Hoshi
 
-- version : W10
+- version : W11
 
-Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee a Tokyo. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
+Fiche noyau (canon + RP), entité entrant en scène en B3 (2017) comme élève de 2e année à Tokyo. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
-## Identite
-- Nom : Kirara Hoshi. Canon. Eleve de l'universite de Tokyo.
-- Promo 2016-2019 : 2e annee en 2017-2018 (sous Kusakabe). Petit.e ami.e de Hakari ; s'eloigne de l'universite avec lui apres sa suspension.
-- [canon] Non-binaire : ne se soucie pas des categories de genre.
-- CONVENTION D'ECRITURE (decision worldbuilder) : point median pour Kirara - rendu en ASCII strict par un point simple (petit.e ami.e, pose.e, le.a). Remplace les parentheses des versions anterieures.
+## Identité
+- Nom : Kirara Hoshi. Canon. Élève de l'université de Tokyo.
+- Promo 2016-2019 : 2e année en 2017-2018 (sous Kusakabe). Petit.e ami.e de Hakari ; s'éloigne de l'université avec lui après sa suspension.
+- [canon] Non-binaire : ne se soucie pas des catégories de genre.
+- CONVENTION D'ÉCRITURE (décision worldbuilder) : point médian pour Kirara - rendu par un point simple (petit.e ami.e, posé.e, le.a). Remplace les parenthèses des versions antérieures.
 
 ## Physique
-- Canon, DEUX presentations : AVANT et APRES l'exclusion de Hakari (debut 2018). Rien entre les deux : on ne les revoit qu'apres.
-  - Avant l'exclusion (masculin.e) : cheveux noirs courts, regard cerne et las, uniforme de Tokyo a col officier. Discret.e.
-  - Apres l'exclusion (feminin.e) : longs cheveux noirs a meche bleu turquoise, frange droite ; yeux violets ; piercings au menton, collier ras-du-cou a clous, ongles noirs ; crop-top blanc a epaule denudee sur bretelles fuchsia, pantalon noir evase, ceinture rouge a boucle etoile, chaussettes rouges, bottines noires. Look soigne et affirme.
+- Canon, DEUX présentations : AVANT et APRÈS l'exclusion de Hakari (début 2018). Rien entre les deux : on ne les revoit qu'après.
+  - Avant l'exclusion (masculin.e) : cheveux noirs courts, regard cerné et las, uniforme de Tokyo à col officier. Discret.e.
+  - Après l'exclusion (féminin.e) : longs cheveux noirs à mèche bleu turquoise, frange droite ; yeux violets ; piercings au menton, collier ras-du-cou à clous, ongles noirs ; crop-top blanc à épaule dénudée sur bretelles fuchsia, pantalon noir évasé, ceinture rouge à boucle étoile, chaussettes rouges, bottines noires. Look soigné et affirmé.
 
 ## Sort et style de combat
-- Sort inne : "Love Rendezvous" - manipulation d'attraction / repulsion (logique d'aimants et d'astres) : pose des marqueurs qui attirent ou repoussent et controle les trajectoires. Defensif et evasif, pas offensif. Excellent pour proteger et evacuer.
+- Sort inné : "Love Rendezvous" - manipulation d'attraction / répulsion (logique d'aimants et d'astres) : pose des marqueurs qui attirent ou repoussent et contrôle les trajectoires. Défensif et évasif, pas offensif. Excellent pour protéger et évacuer.
 
 ## Psychologie
-- Cool, pose.e, independant.e. Profondement attache.e a Hakari, au point de le suivre hors du systeme.
+- Cool, posé.e, indépendant.e. Profondément attaché.e à Hakari, au point de le suivre hors du système.
 
 ## Relations
-Fiches propres : cf. Personnages/Hakari.md, Nisha.md. Ici, seul le rapport a Kirara.
+Fiches propres : cf. Personnages/Hakari.md, Nisha.md. Ici, seul le rapport à Kirara.
 
 ### Kinji Hakari - petit.e ami.e
-- Reste a ses cotes apres la suspension (Gachinko Fight Club).
+- Reste à ses côtés après la suspension (Gachinko Fight Club).
 
-### Atsuya Kusakabe - referent de 2e annee (Tokyo)
-- Son professeur referent en 2017-2018. Rien de notable etabli entre eux.
+### Atsuya Kusakabe - référent de 2e année (Tokyo)
+- Son professeur référent en 2017-2018. Rien de notable établi entre eux.
 
 ### Nisha Zenin - distante (par extension de Hakari)
-- [DIVERGENCE RP] Pas de rapport direct marquant ; Nisha le.a voit surtout comme "l'ombre de Hakari" - au sens : les deux sont INSEPARABLES, et Kirara a la personnalite la moins forte des deux. Rien d'autre la-dedans : depuis 2006 Nisha ne classe que par la force, sans dedain pour qui reste a sa place, et le genre ou l'orientation de Kirara n'entrent pas une seconde en ligne de compte (cf. Personnages/Nisha.md, Psychologie ; Nisha_chrono_A.md, 2006). Le soutien de Nisha a la suspension (cf. Hakari) couvre aussi le choix de Kirara de le suivre.
+- [DIVERGENCE RP] Pas de rapport direct marquant ; Nisha le.a voit surtout comme "l'ombre de Hakari" - au sens : les deux sont INSÉPARABLES, et Kirara a la personnalité la moins forte des deux. Rien d'autre là-dedans : depuis 2006 Nisha ne classe que par la force, sans dédain pour qui reste à sa place, et le genre ou l'orientation de Kirara n'entrent pas une seconde en ligne de compte (cf. Personnages/Nisha.md, Psychologie ; Nisha_chrono_A.md, 2006). Le soutien de Nisha à la suspension (cf. Hakari) couvre aussi le choix de Kirara de le suivre.
 
 ## Grade et scaling
-- [DIVERGENCE RP] 4 doigts (soutien / controle). Integre a la table de Power_Scaling (cf. Power_Scaling/Doigts_de_Sukuna.md).
+- [DIVERGENCE RP] 4 doigts (soutien / contrôle). Intégré.e à la table de Power_Scaling (cf. Power_Scaling/Doigts_de_Sukuna.md).
 
 ## Chronologie noyau
-| Date/Ere | Jalon |
+| Date/Ère | Jalon |
 |---|---|
-| 2016 | Entre a l'universite de Tokyo (promo 2016-2019). |
+| 2016 | Entre à l'université de Tokyo (promo 2016-2019). |
 
-## Trajectoire datee - ere B (entree B3 ; alimentee a chaud arc par arc)
-| Date/ere | Evenement | Delta d'etat |
+## Trajectoire datée - ères B à D
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| 2016-2017 (B3) | 1re annee a Tokyo, sous Satoru. Chantier perso : ELARGIR LE PERIMETRE - proteger des gens qu'on n'aime pas (evacuations d'exercice avec des inconnus a charge, Hakari interdit de zone, trajectoires calculees pour d'autres que soi). Etabli ensuite : le perimetre s'est referme sur une personne (cf. Pedagogie/Perso_Tokyo_2016-2019.md) | chantier perso : echec - un seul nom au perimetre |
-| avr 2017 (B3_3) | 2e annee a Tokyo (sous Kusakabe), avec Hakari. | entree en scene |
-| 24 dec 2017 (B3_4) | Nuit des Cent Fleaux (cote Tokyo, hors-POV de Nisha) : role. Detail -> Roadmap_B3. | (hors-POV) |
-| debut 2018 (B3_5) | Hakari suspendu dans la foulee de la Parade ; Kirara s'eloigne de l'universite avec lui (Gachinko Fight Club). Hors du cadre, change de presentation : de masculin.e a feminin.e (cf. Physique) - c'est sous cette forme qu'on le.a revoit ensuite | quitte le cadre universitaire ; nouvelle presentation |
+| 2016-2017 (B3) | 1re année à Tokyo, sous Satoru. Chantier perso : ÉLARGIR LE PÉRIMÈTRE - protéger des gens qu'on n'aime pas (évacuations d'exercice avec des inconnus à charge, Hakari interdit de zone, trajectoires calculées pour d'autres que soi). Établi ensuite : le périmètre s'est refermé sur une personne (cf. Pedagogie/Perso_Tokyo_2016-2019.md) | chantier perso : échec - un seul nom au périmètre |
+| avr 2017 (B3_3) | 2e année à Tokyo (sous Kusakabe), avec Hakari. | entrée en scène |
+| 24 déc 2017 (B3_4) | Nuit des Cent Fléaux (côté Tokyo, hors-POV de Nisha) : rôle. Détail -> Roadmap_B3. | (hors-POV) |
+| début 2018 (B3_5) | Hakari suspendu dans la foulée de la Parade ; Kirara s'éloigne de l'université avec lui (Gachinko Fight Club). Hors du cadre, change de présentation : de masculin.e à féminin.e (cf. Physique) - c'est sous cette forme qu'on le.a revoit ensuite | quitte le cadre universitaire ; nouvelle présentation |
 | 2 nov 2018 (D2_2) | Garde la porte du fight club au recrutement de Hakari (canon) ; reste hors des colonies, relais du groupe (pas de réseau sous les barrières, canon) | relais |
 | 14 nov 2018 (D4) | Shinjuku, front Sukuna, à distance : Love Rendezvous | - |
 
-## Notes de frontiere
-- Devenir post-B3 (ere C) -> roadmaps ere C, non ecrites.
+## Notes de frontière
+- Ère D : portée en Trajectoire datée ; détail -> Roadmap/Nisha/Roadmap_D2.md (D2_2, la loge VIP avec Nisha), Roadmap_D4.md (front Sukuna).
 
 ## Pointeurs
-- Petit.e ami.e : cf. Personnages/Hakari.md. Referent 2e annee : Kusakabe (pas de fiche ; cf. Factions/Universite_Tokyo.md).
-- Universite et promo : cf. Factions/Universite_Tokyo.md. Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
+- Petit.e ami.e : cf. Personnages/Hakari.md. Référent 2e année : Kusakabe (pas de fiche ; cf. Factions/Universite_Tokyo.md).
+- Université et promo : cf. Factions/Universite_Tokyo.md. Scaling : cf. Power_Scaling/Doigts_de_Sukuna.md.
 
 ---
 

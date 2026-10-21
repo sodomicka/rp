@@ -1,79 +1,79 @@
 # Kenjaku
 
-- version : W16
+- version : W17
 
 Canon JJK + couche RP (origine Kamo, couple avec Eien). Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
-## Identite et nature
-- Exorciste maudit millenaire (plus de 1000 ans). Conscience stable sous d'innombrables identites.
-- Sous l'identite de Noritoshi Kamo (ere Meiji), reputation du pire exorciste de l'histoire : experiences sur des humains si vils que les archives en furent detruites.
-- [DIVERGENCE RP] Issu des Kamo a l'origine : de la, sa maitrise des sceaux et le parasitisme qu'il en a developpe.
-- [DIVERGENCE RP] DES YEUX PARTOUT : paranoiaque absolu, il tient mille points sur son radar sans en detailler le reseau. Parmi eux, Yukiko Kamo - depuis sa naissance (1986). Il sait ce qu'elle vaut (la meilleure tisseuse depuis lui-meme) et la juge trop obsedee par son clan pour intervenir. Cf. Personnages/Yukiko.md.
+## Identité et nature
+- Exorciste maudit millénaire (plus de 1000 ans). Conscience stable sous d'innombrables identités.
+- Sous l'identité de Noritoshi Kamo (ère Meiji), réputation du pire exorciste de l'histoire : expériences sur des humains si viles que les archives en furent détruites.
+- [DIVERGENCE RP] Issu des Kamo à l'origine : de là, sa maîtrise des sceaux et le parasitisme qu'il en a développé.
+- [DIVERGENCE RP] DES YEUX PARTOUT : paranoïaque absolu, il tient mille points sur son radar sans en détailler le réseau. Parmi eux, Yukiko Kamo - depuis sa naissance (1986). Il sait ce qu'elle vaut (la meilleure tisseuse depuis lui-même) et la juge trop obsédée par son clan pour intervenir. Cf. Personnages/Yukiko.md.
 
-## Apparence : la forme vraie (en for interieur)
-Dans le monde, Kenjaku n'a d'autre apparence que celle de son vaisseau du moment (cicatrice au front, cf. ci-dessous). Sa forme VRAIE n'apparait que lorsqu'il se projette dans un for interieur.
-- [DIVERGENCE RP] Grand corps masculin, peau grise et luisante, RAPIECE : sutures grossieres partout (bras, torse, cuisses, cou), pieces de chair assemblees, balafres pales - mille ans de vaisseaux cousus ensemble. Une couture horizontale a la base du cou, echo de la cicatrice au front de ses vaisseaux.
-- En guise de chevelure, un CERVEAU A NU : les circonvolutions retombent en meches humides jusqu'aux epaules et masquent les yeux.
-- Sourire enorme, toutes dents dehors.
-- Un haillon brun qui glisse des epaules, un pagne, pieds nus.
-- [DIVERGENCE RP] INTRUSION : Kenjaku peut s'introduire sous cette forme dans le for interieur d'autrui. Instance connue : 2015, la Sphere du Temps Infini ou Eien a relegue Nisha - il s'y invite et y negocie le deal avec elle avant le viol (cf. Trajectoire datee). VECTEUR de l'intrusion : EIEN. Une fois aux commandes du corps, elle l'OUVRE a son amant - le fleau baisse ses propres barrieres pendant que Nisha, prise par surprise, est coincee dans la Sphere. C'est l'asymetrie du couple a l'oeuvre (cf. Relation a Eien) : elle tient le for interieur, lui y entre.
+## Apparence : la forme vraie (en for intérieur)
+Dans le monde, Kenjaku n'a d'autre apparence que celle de son vaisseau du moment (cicatrice au front, cf. ci-dessous). Sa forme VRAIE n'apparaît que lorsqu'il se projette dans un for intérieur.
+- [DIVERGENCE RP] Grand corps masculin, peau grise et luisante, RAPIÉCÉ : sutures grossières partout (bras, torse, cuisses, cou), pièces de chair assemblées, balafres pâles - mille ans de vaisseaux cousus ensemble. Une couture horizontale à la base du cou, écho de la cicatrice au front de ses vaisseaux.
+- En guise de chevelure, un CERVEAU À NU : les circonvolutions retombent en mèches humides jusqu'aux épaules et masquent les yeux.
+- Sourire énorme, toutes dents dehors.
+- Un haillon brun qui glisse des épaules, un pagne, pieds nus.
+- [DIVERGENCE RP] INTRUSION : Kenjaku peut s'introduire sous cette forme dans le for intérieur d'autrui. Instance connue : 2015, la Sphère du Temps Infini où Eien a relégué Nisha - il s'y invite et y négocie le deal avec elle avant le viol (cf. Trajectoire datée). VECTEUR de l'intrusion : EIEN. Une fois aux commandes du corps, elle l'OUVRE à son amant - l'esprit maudit baisse ses propres barrières pendant que Nisha, prise par surprise, est coincée dans la Sphère. C'est l'asymétrie du couple à l'œuvre (cf. Relation à Eien) : elle tient le for intérieur, lui y entre.
 
-## Sort inne : transfert de cerveau
-- Transplante son cerveau dans un autre corps et le controle, en conservant le sort inne de l'hote. Ne fonctionne que sur des humains, pas sur les fleaux.
+## Sort inné : transfert de cerveau
+- Transplante son cerveau dans un autre corps et le contrôle, en conservant le sort inné de l'hôte. Ne fonctionne que sur des humains, pas sur les fléaux.
 - Chaque vaisseau garde une cicatrice horizontale au front.
-- Corps connus (canon) : un corps non identifie (~400 ans avant le present), Noritoshi Kamo (Meiji), Kaori Itadori (mere de Yuji), Suguru Geto (dernier vaisseau, pour la Manipulation des Esprits Maudits).
+- Corps connus (canon) : un corps non identifié (~400 ans avant le présent), Noritoshi Kamo (Meiji), Kaori Itadori (mère de Yuji), Suguru Geto (dernier vaisseau, pour la Manipulation des Esprits Maudits).
 
 ## Objectif
-- Faire evoluer l'humanite au moyen de l'energie occulte. Plan canon : fusion via Tengen (Merger), orchestration du Culling Game.
-- [DIVERGENCE RP] La Traque Meurtriere est un chantier SECULAIRE : le couple la prepare au moins depuis l'ere Genroku, recrutant et scellant ses incarnes au fil des eres. Recrue documentee : NOZOMU (cf. Realisations et Personnages/Nozomu.md).
-- [DIVERGENCE RP] Objectif soude a l'amour pour Eien : un monde ideal pour eux deux. Le curieux cosmique canon est preserve, l'amour greffe par-dessus.
-- [DIVERGENCE RP] Marionnettiste cache de le Culte Astral, la Confrerie du Receptacle Temporel (secte venerant Tengen) : il en tire les ficelles comme l'un de ses leviers vers le Merger. Operations datees liees a ce levier -> roadmap.
+- Faire évoluer l'humanité au moyen de l'énergie occulte. Plan canon : fusion via Tengen (Merger), orchestration du Culling Game.
+- [DIVERGENCE RP] La Traque Meurtrière est un chantier SÉCULAIRE : le couple la prépare au moins depuis l'ère Genroku, recrutant et scellant ses incarnés au fil des ères. Recrue documentée : NOZOMU (cf. Réalisations et Personnages/Nozomu.md).
+- [DIVERGENCE RP] Objectif soudé à l'amour pour Eien : un monde idéal pour eux deux. Le curieux cosmique canon est préservé, l'amour greffé par-dessus.
+- [DIVERGENCE RP] Marionnettiste caché du Culte Astral, la Confrérie du Réceptacle Temporel (secte vénérant Tengen) : il en tire les ficelles comme l'un de ses leviers vers le Merger. Opérations datées liées à ce levier -> roadmap.
 
-## Realisations (canon, relues par le RP)
-- Peintures Mortes : comme Noritoshi, sequestre une femme porteuse d'hybrides, mele le sang Kamo -> Choso, Eso, Kechizu. [DIVERGENCE RP] Choso coconcu avec Eien-dans-Nanao.
-- Yuji Itadori = projet : enfant concu avec Jin Itadori - JIN est le jumeau reincarne de Sukuna (canon, ch. 257, verifie en session ; conflit de versions SOLDE, cf. _Implications) - un doigt de Sukuna scelle en lui a la naissance -> receptacle. Yuji = fils de la reincarnation : le neveu d'ame de Sukuna.
-- [DIVERGENCE RP] SCELLEMENT DE NOZOMU (ere Genroku) : Eien (doyenne Gojo) arrete le fleau et negocie ; Kenjaku le scelle et GRAVE le sceau sur un humain - mecanisme des incarnes de la Traque (canon), porteur anonyme par convention. Sceau programme pour sauter en 2018. Detail : cf. Personnages/Nozomu.md.
+## Réalisations (canon, relues par le RP)
+- Peintures Mortes : comme Noritoshi, séquestre une femme porteuse d'hybrides, mêle le sang Kamo -> Choso, Eso, Kechizu. [DIVERGENCE RP] Choso coconçu avec Eien-dans-Nanao.
+- Yuji Itadori = projet : enfant conçu avec Jin Itadori - JIN est le jumeau réincarné de Sukuna (canon, ch. 257, vérifié en session ; conflit de versions SOLDÉ, cf. _Implications) - un doigt de Sukuna scellé en lui à la naissance -> réceptacle. Yuji = fils de la réincarnation : le neveu d'âme de Sukuna.
+- [DIVERGENCE RP] SCELLEMENT DE NOZOMU (ère Genroku) : Eien (doyenne Gojo) arrête l'esprit maudit et négocie ; Kenjaku le scelle dans une MARQUE dédiée, objet maudit contenant son âme - mécanisme DISTINCT de celui des incarnés de la Traque (sceaux gravés sur des humains, canon). Il garde la marque et son activation, puis la confie à Uraume pour Sukuna (date de la remise non fixée). Sukuna la refuse ; Uraume l'ingère et fait sauter le sceau à Shinjuku, le 14 nov 2018 (D4). Détail : cf. Personnages/Nozomu.md, Uraume.md, BIBLE SB7.
 
-## La Lisiere du Supplice
-[DIVERGENCE RP] sur l'origine (le canon en fait un objet maudit de grade special sans auteur).
-- ELLE EST DE SA MAIN. Deux siecles de tissage pour un objet a USAGE UNIQUE : un rideau ENTREMELE, tisse pour se refermer sur une cible vivante et la sceller.
-- Composition : double Levy d'ordre 11, Gosper d'ordre 9, Koch d'ordre 23. Personne au monde ne la connait hors du couple architecte - les rideaux fractals d'ordre 8 et au-dela sont deja la specialite documentaire des Kamo, et il est alle bien au-dela. Cf. Factions/Clan_Kamo.md, Pedagogie/Detection_Contention_2eAnnee_S1.md.
-- Destination connue du RP : le sceau de Satoru. Le "comment" y mener sa cible est ce qu'il ARRACHE a Nisha en 2015 (cf. Trajectoire datee).
-- LA FAILLE QU'IL CONNAIT : la Lisiere est concue pour ne PAS s'ouvrir de l'interieur - meme un porteur des Six Yeux, s'il en percait l'analyse, y resterait. De l'EXTERIEUR, une seule tisseuse vivante peut la defaire sans en connaitre la composition : Yukiko Kamo. Il le sait, et parie sur son obsession du clan. -> ere C (cf. Pedagogie/Detection_Contention_2eAnnee_S2.md).
+## La Lisière du Supplice
+[DIVERGENCE RP] sur l'origine (le canon en fait un objet maudit de grade spécial sans auteur).
+- ELLE EST DE SA MAIN. Deux siècles de tissage pour un objet à USAGE UNIQUE : un rideau ENTREMÊLÉ, tissé pour se refermer sur une cible vivante et la sceller.
+- Composition : double Levy d'ordre 11, Gosper d'ordre 9, Koch d'ordre 23. Personne au monde ne la connaît hors du couple architecte - les rideaux fractals d'ordre 8 et au-delà sont déjà la spécialité documentaire des Kamo, et il est allé bien au-delà. Cf. Factions/Clan_Kamo.md, Pedagogie/Detection_Contention_2eAnnee_S1.md.
+- Destination connue du RP : le sceau de Satoru. Le "comment" y mener sa cible est ce qu'il ARRACHE à Nisha en 2015 (cf. Trajectoire datée).
+- LA FAILLE QU'IL CONNAÎT : la Lisière est conçue pour ne PAS s'ouvrir de l'intérieur - même un porteur des Six Yeux, s'il en perçait l'analyse, y resterait. De l'EXTÉRIEUR, une seule tisseuse vivante peut la défaire sans en connaître la composition : Yukiko Kamo. Il le sait, et parie sur son obsession du clan. -> ère C (cf. Pedagogie/Detection_Contention_2eAnnee_S2.md).
 
 ## Le rideau de Takatsuki - le double fond
-[DIVERGENCE RP] Objet maudit de grade special, piege-sceau a usage unique, DE SA MAIN : une Lisiere-lite taillee sur la SIGNATURE GEMELLAIRE des jumeaux Zenin (source de la signature : un cheveu de Nisha prélevé par Kenjaku en 2015, cf. Trajectoire datée).
-- [DIVERGENCE RP] REGLE DES SIGNATURES (transversale ; BIBLE SB1 fait foi) : la signature occulte suit ce qu'on VISE - chaque ame garde la sienne, attachee a SES sorts. Nisha et Eien portent donc des signatures DISTINCTES, et le corps en porte deux. Qui commande quoi depend du rapport de DOMINATION, pas de la signature : Nisha resiste, donc Nisha commande les DEUX sorts (Chronostase innee et Chronokinesie d'Eien) et Eien n'en commande AUCUN. Cf. Personnages/Sukuna.md, Nisha.md.
-- CONSEQUENCE : un rideau taille sur la signature des jumeaux ne touche PAS Eien, dont la signature est distincte de celle de son hote. Affaiblir le parasite n'a jamais ete le but.
-- BUT REEL : EPUISER Nisha pour ouvrir la FENETRE d'Eien et qu'elle l'ecrase - echo direct du calcul de 2015 ("lui saura briser Nisha la ou la force a echoue", cf. Personnages/Eien.md).
-- ECHEC : Nisha sait comment ne pas se faire vider de son energie occulte - ne rien faire.
+[DIVERGENCE RP] Objet maudit de grade spécial, piège-sceau à usage unique, DE SA MAIN : une Lisière-lite taillée sur la SIGNATURE GÉMELLAIRE des jumeaux Zenin (source de la signature : un cheveu de Nisha prélevé par Kenjaku en 2015, cf. Trajectoire datée).
+- [DIVERGENCE RP] RÈGLE DES SIGNATURES (transversale ; BIBLE SB1 fait foi) : la signature occulte suit ce qu'on VISE - chaque âme garde la sienne, attachée à SES sorts. Nisha et Eien portent donc des signatures DISTINCTES, et le corps en porte deux. Qui commande quoi dépend du rapport de DOMINATION, pas de la signature : Nisha résiste, donc Nisha commande les DEUX sorts (Chronostase innée et Chronokinésie d'Eien) et Eien n'en commande AUCUN. Cf. Personnages/Sukuna.md, Nisha.md.
+- CONSÉQUENCE : un rideau taillé sur la signature des jumeaux ne touche PAS Eien, dont la signature est distincte de celle de son hôte. Affaiblir le parasite n'a jamais été le but.
+- BUT RÉEL : ÉPUISER Nisha pour ouvrir la FENÊTRE d'Eien et qu'elle l'écrase - écho direct du calcul de 2015 ("lui saura briser Nisha là où la force a échoué", cf. Personnages/Eien.md).
+- ÉCHEC : Nisha sait comment ne pas se faire vider de son énergie occulte - ne rien faire.
 - Déroulé (verrouillage des jumeaux le 31 oct 2018 pendant Shibuya, démêlage par Yukiko la nuit même) : cf. Roadmap/Nisha/Roadmap_C2.md (C2_4).
 
-## Role cosmogonique (avec Eien)
-- [DIVERGENCE RP] Co-architecte des trois familles : forge des techniques, selection du sang, infiltration des clans. Detail : cf. Cosmogonie/Trois_Esprits.md.
-- [DIVERGENCE RP] Deal avec Sukuna : le couple divise / cree les 20 doigts (Eien date le retour) ; contre une dormance negociee, prepare une nouvelle apogee de l'exorcisme. Cree la lignee-receptacle Itadori (-> Yuji).
+## Rôle cosmogonique (avec Eien)
+- [DIVERGENCE RP] Co-architecte des trois familles : forge des techniques, sélection du sang, infiltration des clans. Détail : cf. Cosmogonie/Trois_Esprits.md.
+- [DIVERGENCE RP] Deal avec Sukuna : le couple divise / crée les 20 doigts (Eien date le retour) ; contre une dormance négociée, prépare une nouvelle apogée de l'exorcisme. Crée la lignée-réceptacle Itadori (-> Yuji).
 
-## Relation a Eien
-- [DIVERGENCE RP] Amant d'Eien : amour sincere et symetrique vieux de mille ans. Partenaires d'operation ET de coeur. Cf. Personnages/Eien.md.
-- [DIVERGENCE RP] Asymetrie du couple : Kenjaku est plus puissant qu'Eien, aussi fin - et surtout LIBRE (incarne dans des vaisseaux qu'il choisit, mobile, agit de son propre chef), la ou Eien est bridee par le lien parasitaire (matee par son hote, ne peut basculer que garde baissee). En operation, Eien tient le for interieur de l'hote, Kenjaku agit dans le monde. Cette asymetrie fonde la mecanique de leurs coups (cf. Trajectoire datee, 2015).
+## Relation à Eien
+- [DIVERGENCE RP] Amant d'Eien : amour sincère et symétrique vieux de mille ans. Partenaires d'opération ET de cœur. Cf. Personnages/Eien.md.
+- [DIVERGENCE RP] Asymétrie du couple : Kenjaku est plus puissant qu'Eien, aussi fin - et surtout LIBRE (incarné dans des vaisseaux qu'il choisit, mobile, agit de son propre chef), là où Eien est bridée par le lien parasitaire (matée par son hôte, ne peut basculer que garde baissée). En opération, Eien tient le for intérieur de l'hôte, Kenjaku agit dans le monde. Cette asymétrie fonde la mécanique de leurs coups (cf. Trajectoire datée, 2015).
 
-## Trajectoire datee (alimentee a chaud arc par arc)
-| Date/ere | Evenement | Delta d'etat |
+## Trajectoire datée (alimentée à chaud arc par arc)
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| printemps 2006 (A2_3) | NOEUD DU PLASMA STELLAIRE. Via le Culte Astral qu'il pilote en sous-main, finance la prime sur Riko Amanai (Plasma Stellaire 2006) - fonds passes par l'intermediaire Shiu Kong, qui recrute Toji. Kenjaku n'apparait jamais : il agit par secte interposee, comme il le refera. La fusion de Tengen echoue | le Merger reste disponible ; levier sectaire eprouve, modele du culte qu'il reprendra plus tard |
-| 2015 (B2) | Sous un vaisseau anonyme (un fonctionnaire passe-partout, aucun soupcon), co-auteur du deal impose a Nisha possedee par Eien - deal NEGOCIE en personne, sous sa forme vraie, dans la Sphere du Temps Infini ou elle est releguee - entre par Eien, qui lui ouvre le corps (cf. Apparence) : il livre le moyen de debusquer Yorozu (dormante dans Tsumiki) CONTRE le "comment" mener Satoru dans la Lisiere du Supplice (-> sceau de Gojo, Shibuya 2018, ere C). [DIVERGENCE RP] Auteur de la fecondation-trauma du corps de Nisha pendant la possession - sa came a lui (le viol restant l'idee d'Eien, le moyen de briser Nisha). Foetus sans enjeu strategique, avorte par Naoya. [DIVERGENCE RP] Hors caméra, pendant le viol, il PRÉLÈVE un cheveu de Nisha : précaution envers Eien elle-même, une signature en réserve au cas où son alliée échapperait à leur plan | obtient la cle du sceau de Gojo ; l'oeuvre du couple architecte avance ; signature de Nisha en poche |
+| printemps 2006 (A2_3) | NŒUD DU PLASMA STELLAIRE. Via le Culte Astral qu'il pilote en sous-main, finance la prime sur Riko Amanai (Plasma Stellaire 2006) - fonds passés par l'intermédiaire Shiu Kong, qui recrute Toji. Kenjaku n'apparaît jamais : il agit par secte interposée, comme il le refera. La fusion de Tengen échoue | le Merger reste disponible ; levier sectaire éprouvé, modèle du culte qu'il reprendra plus tard |
+| 2015 (B2) | Sous un vaisseau anonyme (un fonctionnaire passe-partout, aucun soupçon), co-auteur du deal imposé à Nisha possédée par Eien - deal NÉGOCIÉ en personne, sous sa forme vraie, dans la Sphère du Temps Infini où elle est reléguée - entré par Eien, qui lui ouvre le corps (cf. Apparence) : il livre le moyen de débusquer Yorozu (dormante dans Tsumiki) CONTRE le "comment" mener Satoru dans la Lisière du Supplice (-> sceau de Gojo, Shibuya 2018, ère C). [DIVERGENCE RP] Auteur de la fécondation-trauma du corps de Nisha pendant la possession - sa came à lui (le viol restant l'idée d'Eien, le moyen de briser Nisha). Fœtus sans enjeu stratégique, avorté par Naoya. [DIVERGENCE RP] Hors caméra, pendant le viol, il PRÉLÈVE un cheveu de Nisha : précaution envers Eien elle-même, une signature en réserve au cas où son alliée échapperait à leur plan | obtient la clé du sceau de Gojo ; l'œuvre du couple architecte avance ; signature de Nisha en poche |
 | été - sept 2018 (C1_4, C1_5) | Par la taupe Mechamaru, obtient un cheveu de Satoru. Tire des deux cheveux les signatures du couple (Nisha et Satoru, donc aussi Naoya par la règle des jumeaux) et fournit le PATRON d'un rideau polarisé sur les deux, tissé par le maître des fléaux boucher à l'Amicale de Tokyo. Pendant l'attaque d'Hanami, sous le corps de Geto, vole avec Mahito des doigts de Sukuna et les Peintures Mortes (canon). Jamais vu de Nisha | test grandeur nature du rideau anti-couple ; doigts et Peintures Mortes en main (-> C2, Shibuya) |
 | oct 2018 (C2_2) | Par Mahito, fait lâcher à Nisha un LEURRE fabriqué : « 31 octobre, 16 h... Takatsuki ». Il savait qu'elle l'obtiendrait par son élève Muta, dont les infos glanées le corroborent. Reste planqué pendant le nœud : jamais vu de Nisha | Nisha appâtée par sa propre culpabilité |
 | 31 oct 2018 (C2_4, C2_5) | TAKATSUKI : le rideau taillé sur la signature gémellaire se referme sur Nisha et Naoya ; elle l'aperçoit, sous le corps de Geto, à la fermeture. Le double fond (vider Nisha pour Eien) ÉCHOUE. Puis SHIBUYA : scelle Satoru dans la Lisière (~20 h 30 [CANON SUPPOSÉ]), absorbe Mahito, lance la Traque Meurtrière, repart avec Uraume et la Lisière (canon) | Satoru scellé ; Nisha sait qui il porte ; rideau démêlé par Yukiko, qui le perce à jour |
 
-| depuis toujours ; 1 nov 2018 (C3) | [DIVERGENCE RP] Tient dans l'ombre les deux sièges Kamo des Instances et pèse sur les indépendants non claniques ; les sièges Zenin, Gojo et les indépendants proches d'eux lui échappent. Après Shibuya, arrive au palais Kamo avant Yukiko et Nori et prend le trône (hors POV de Nisha, joué côté Yukiko ; détail : chantier S4) | maître du clan Kamo ; Yukiko à son bras droit |
+| depuis toujours ; 1 nov 2018 (C3) | [DIVERGENCE RP] Tient dans l'ombre les deux sièges Kamo des Instances et pèse sur les indépendants non claniques ; les sièges Zenin, Gojo et les indépendants proches d'eux lui échappent. Après Shibuya, arrive au palais Kamo avant Yukiko et Nori, tue Noriaki et prend le trône ; exécute Yasashiku et offre la chaise du bras droit à Yukiko (hors POV de Nisha, joué côté Yukiko ; détail : cf. Factions/Clan_Kamo.md, Personnages/Noritoshi_Kamo.md) | maître du clan Kamo ; Yukiko à son bras droit |
 | 6 - 8 nov 2018 (D3) | Le 6, tue sans trop d'efforts Yuki Tsukumo venue seule, et veut savourer sa mort ; Yukiko abrège ses souffrances. Sa confiance monte : les Grades Spéciaux hors clan ne font pas le poids, Nisha s'est donnée à fond dans la Traque et pourrait être une alliée par son clan. Le 7, accepte le banquet de l'élite que Yukiko lui propose (l'après-fusion de l'humanité), Nisha et son jumeau conviés ; au sommet de sa confiance, il lui confie avoir été l'architecte de la pureté Kamo et des sorts innés des clans. Le 8 au soir, enfermé par le rideau taillé à sa signature, qui ne retient que lui ; épuisé par Yukiko, frappé par les jumeaux, harcelé par Choso et Nori ; Nisha lui éclate le crâne des deux poings, sous les cris d'Eien. Les fléaux qui lui restaient meurent avec lui (il avait lâché le gros de sa ménagerie à la fin de Shibuya, canon) | MORT ; droits de maître du jeu passés à Eien (cf. Eien.md) |
 
-## Notes de frontiere (hors de cette fiche)
-- Evenements specifiques au RP : sceau de Satoru (Roadmap C2), mort de Kenjaku (Roadmap D3, 8 nov 2018) ; puis Parties.
-- Continuite vers le futur culte qu'il reprendra une fois le corps de Geto investi : non datee a ce stade -> roadmap.
-- Yukiko face a la Lisiere (le pari perdu ou gagne) : ere C -> build ere C, cf. Roadmap/Yukiko/chantier_yukiko.md. (L'operation de 2006 via le Culte Astral, jadis annoncee ici, est desormais portee en Trajectoire datee.)
-- Descellement de Nozomu en 2018 (timing, mise en scene) : -> roadmap ere C.
+## Notes de frontière (hors de cette fiche)
+- Événements spécifiques au RP : sceau de Satoru (Roadmap C2), mort de Kenjaku (Roadmap D3, 8 nov 2018) ; puis Parties.
+- Culte : sans suite. La secte de Geto se dissout après sa mort, et le Culte Astral reste sans objet (BIBLE SB8).
+- Yukiko face à la Lisière (le pari) : gagné - elle démêle Takatsuki le 31 oct, puis ouvre la Lisière au palais du 9 au 11 nov 2018 (cf. Roadmap/Nisha/Roadmap_D3.md) ; son vécu propre : cf. Roadmap/Yukiko/chantier_yukiko.md. (L'opération de 2006 via le Culte Astral, jadis annoncée ici, est désormais portée en Trajectoire datée.)
+- Réveil de Nozomu en 2018 : joué en D4 (14 nov, Shinjuku), par Uraume et non par Kenjaku (cf. Réalisations, Personnages/Nozomu.md).
 - Le cheveu de 2015 n'est raconté nulle part en scène : c'est Eien qui en révèle l'origine à Nisha, enfermées à Takatsuki (31 oct 2018 ; cf. Roadmap/Nisha/Roadmap_C2.md, C2_4).
 
 ---
