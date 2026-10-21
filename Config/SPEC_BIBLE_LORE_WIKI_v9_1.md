@@ -1,4 +1,4 @@
-# SPEC_BIBLE_LORE_WIKI v9.0
+# SPEC_BIBLE_LORE_WIKI v9.1
 
 Ce fichier définit la forme, les règles de construction et le gabarit du système BIBLE_LORE + WIKI + Parties :
 - `BIBLE_LORE_{UNIVERS}.md` - index de routage + lore condensé. Vit sur le dépôt, à la racine de `{Univers}/`. Lue EN ENTIER à l'ouverture de chaque thread de build (worldbuilding), avec le Sommaire et le journal d'implications. Pas lue en jeu : en narration, la roadmap en cours et les fiches de l'étape prennent le relais (cf. §10).
@@ -7,7 +7,7 @@ Ce fichier définit la forme, les règles de construction et le gabarit du syst�
 
 Le modèle doit produire des documents factuels, structurés, sans narration, sans interprétation non balisée.
 
-Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_WIKI_v9_0.md`.
+Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_WIKI_v9_1.md`.
 
 ---
 
@@ -250,25 +250,23 @@ Types de pages possibles :
 - Niveaux de certitude identiques : établi / [IMPLICITE] / [INTERPRETATION] / [INCERTAIN] / [DIVERGENCE RP].
 
 ### Budget par page
-- Fourchette : 2 000 à 12 000 caractères (vérification : wc -m).
-- En dessous de 2 000 : fusionner avec une page voisine.
-- Au-delà de 12 000 : scinder (pages satellites pour une fiche d'entité, cf. ci-dessous ; sous-pages sinon).
-- Exception : pages transcript jusqu'à 16 000 caractères.
-- Exception : roadmaps jusqu'à 15 000 caractères. Document de jeu fetché seul et en entier : y renvoyer le MJ vers d'autres pages coûte plus que les caractères gagnés. Au-delà de 15 000 : signaler, proposer des coupes par gain décroissant, le worldbuilder tranche.
+- Plancher : 2 000 caractères (vérification : wc -m). En dessous : fusionner avec une page voisine.
+- PAS DE PLAFOND de page : une page ne se scinde que sur DÉCISION du worldbuilder (lisibilité, ère close), jamais pour tenir un budget ; rien ne se compresse pour tenir un budget.
+- Seule exception : roadmaps jusqu'à 15 000 caractères. Document de jeu fetché seul et en entier : y renvoyer le MJ vers d'autres pages coûte plus que les caractères gagnés. Au-delà de 15 000 : signaler, proposer des coupes par gain décroissant, le worldbuilder tranche.
 
 ### Pages satellites d'entité
 
-Quand une fiche d'entité sature son budget, elle se scinde en pages satellites nommées par volet :
+Quand le worldbuilder décide de scinder une fiche d'entité (lisibilité, ère close), elle se scinde en pages satellites nommées par volet :
 - `<Entite>_chrono_<N>.md` : trajectoire datée par ère (précédent : Nisha_chrono_A/B).
 - `<Entite>_inventaire.md` : objets, arsenal, possessions récurrentes.
 - `<Entite>_relations_<N>.md` : réseau relationnel (règles propres : Satellite relations, ci-dessous).
-La fiche mère garde le NOYAU (identité, mécanique, psychologie) et renvoie vers ses satellites. Un satellite respecte le budget de page standard (12 000) ; sous le plancher de 2 000, il refusionne dans la fiche mère.
+La fiche mère garde le NOYAU (identité, mécanique, psychologie) et renvoie vers ses satellites. Sous le plancher de 2 000, un satellite refusionne dans la fiche mère.
 Un satellite suit sa fiche mère : une fiche de groupe (précédent : Claudia_et_Lucio) a des satellites de groupe ; deux fiches distinctes ne partagent jamais un satellite.
 
 ### Satellite relations
 
 OPTIONNEL. Tous les personnages n'y ont pas droit. Le worldbuilder le décide, le MJ peut le proposer, dans deux cas :
-- la fiche mère sature son budget ;
+- la fiche mère devient difficile à lire ;
 - les relations portent assez de texture pour mériter leur page (adresses qui changent selon l'interlocuteur, régimes avant/après une bascule, rituels), même sans saturation.
 Sans satellite, les relations restent dans la fiche mère, avec les mêmes rubriques, adresses comprises.
 
@@ -312,10 +310,6 @@ Exemple de FORMAT (illustratif, NE PAS inscrire tel quel) :
 - Surnoms / adresses : pour eux, Magnus et Markiona sont le Loup Noir et la Louve Blanche, jamais leurs vrais noms ; exceptions : Alidoro, Roméo et Léa emploient les vrais noms.
 ```
 
-### Dérogation fiche protagoniste
-
-La fiche d'un PROTAGONISTE échappe au plafond de page standard : plafond propre de 30 000 caractères (vérification : wc -m). Même dérogation pour un personnage PIVOT désigné par le worldbuilder, noté en BIBLE SB0. Raison : c'est le document le plus central du WIKI ; la découper pour respecter un budget pensé pour des fiches PNJ multiplierait les fetchs obligatoires. Au-delà de 30k : scinder par pages satellites (ci-dessus), jamais gonfler.
-
 ### Structure interne d'une page
 Pas de gabarit imposé sauf pour les Roadmaps (cf. gabarit ci-dessous). Obligations :
 1. Titre clair en H1, correspondant au nom de la page.
@@ -331,7 +325,7 @@ Règles :
 - CANON PAR DÉFAUT, neutre, réutilisable entre parties (comme les roadmaps).
 - OVERRIDE PAR PARTIES/ : quand une partie diverge, le delta va en Parties/{Univers}/Partie<n>/ et SURCLASSE cette strate pour la partie concernée (routage §7 inchangé).
 - CONSOLIDATION : les pointeurs datés jadis en Notes de frontière (mort canon, éveil, départ...) migrent ici sous forme datée ; Notes de frontière ne garde que les renvois non datés et les hors-périmètre.
-- PLAFOND : par défaut 30 entrées max par fiche. Dérivation : une ligne télégraphique fait ~120 car., 30 lignes ~3 600 car., soit moins du tiers du plafond de page (12 000). Le worldbuilder ajuste par univers ; il ne laisse PAS le champ vide - un placeholder non rempli dans une SPEC est une règle morte, et les Instructions Wiki interdisent explicitement de laisser un [A definir] pour esquiver une question. Au-delà du plafond : compresser ou déporter en roadmap ; dépassement signalé, jamais compressé seul.
+- PLAFOND : par défaut 30 entrées max par fiche. Dérivation : une ligne télégraphique fait ~120 car., 30 lignes ~3 600 car., soit une strate qui reste lisible d'un coup d'œil. Le worldbuilder ajuste par univers ; il ne laisse PAS le champ vide - un placeholder non rempli dans une SPEC est une règle morte, et les Instructions Wiki interdisent explicitement de laisser un [A definir] pour esquiver une question. Au-delà du plafond : compresser ou déporter en roadmap ; dépassement signalé, jamais compressé seul.
 Gabarit :
 ```
 ## Trajectoire datée
@@ -527,7 +521,7 @@ FIN_PARTIES_DECISIONS_<ARC>
 ### Règles
 - Les fiches Suivi/ sont mises à jour entre les sessions via CODEX BUILD (mémoire refroidie) ou BIBLE BUILD. Toute page Parties/ créée ou relivrée est reportée au Sommaire de jeu dans le même build.
 - Les Archives/ sont en écriture seule : une fois archivée, une CHRONO n'est plus modifiée (sauf correction d'erreur).
-- Budget par page : même contrainte que le WIKI (2 000 à 12 000 caractères). EXCEPTION : `Memoires/` (archive narrative, non bornée, hors budget).
+- Budget par page : même contrainte que le WIKI (plancher de 2 000 caractères, pas de plafond). EXCEPTION : `Memoires/` (archive narrative, hors plancher).
 
 ### Fetch
 - Règles, déclencheurs et budgets : cf. Instructions RP §4 (ouverture de thread, déclencheur objectif, TTL). Non dupliqués ici. Le routage passe par le Sommaire de jeu.
@@ -649,7 +643,7 @@ Le MJ écrit les fichiers mis à jour sur le dépôt (Instructions Wiki §8bis).
 sodomicka/rp/
   Config/
     SPEC_CODEX_v8_10.md
-    SPEC_BIBLE_LORE_WIKI_v9_0.md
+    SPEC_BIBLE_LORE_WIKI_v9_1.md
     (numéros indicatifs : vérifier le listing réel de Config/ avant tout fetch)
   <Univers>/
     <Dossier_thematique>/
