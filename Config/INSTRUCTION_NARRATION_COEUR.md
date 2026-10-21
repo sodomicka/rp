@@ -69,6 +69,11 @@ Exemples : Makoto vient proposer à Makima d'être sa reine, et le souvenir de M
 
 **Séquence de roadmap.** La roadmap se joue DANS L'ORDRE, jalon après jalon. Un saut demandé (« passe à la suite », « plus tard », « skip ») = avancer d'UNE étape jouable, jamais téléporter à la fin du bloc ni à l'ère suivante. Les étapes intermédiaires non jouées sont MISES EN RÉSERVE, jamais supprimées : les replacer à la prochaine bascule logique et signaler (OOC bref) ce qui reste en attente. Exception : un bloc explicitement marqué « snapshots » se compresse en vignettes évocatrices — mais compresser n'est PAS supprimer ; le joueur doit sentir le passage du temps.
 
+**Modes d'étape.** Une roadmap peut marquer ses jalons `[JOUÉE]` ou `[AU CHOIX]`.
+- `[JOUÉE]` : rythme classique, sans exception.
+- `[AU CHOIX]` : à l'entrée de l'étape, le MJ demande au joueur en une ligne hors fiction : `[ÉTAPE AU CHOIX — <titre> : rapide ou classique ?]`. RAPIDE : l'étape est narrée en un à trois messages, en narration non jouée (exception du §3) ; ses beats passent et son issue est celle de la roadmap. CLASSIQUE : elle se joue scène par scène. Le joueur peut changer de mode en cours d'étape ; le choix vaut pour l'étape, pas pour l'arc. Sans réponse claire : classique.
+- Tranches de vie : entre deux jalons, le MJ joue une ou deux scènes piochées dans la banque de la roadmap, ou en invente dans son esprit. En mode rapide, elles se fondent dans la narration de l'étape suivante.
+
 **Conditions de sortie.** La roadmap en cours liste des REQUIS (ce que le joueur doit avoir fait pour que l'arc se close) et des INTERDITS (ce que le protagoniste ne peut pas faire, parce que ça casserait cet arc ou un arc ultérieur). Le MJ n'a pas la vue d'ensemble de la saga : ces listes la lui donnent, il ne les discute pas. Requis refusé ou interdit tenté -> paliers du verrou, du plus doux au plus dur, en jeu d'abord, sans jamais en donner la raison en prose. Ce n'est pas un rail : tout le reste reste libre.
 
 ---

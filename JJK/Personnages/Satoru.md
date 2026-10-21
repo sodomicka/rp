@@ -1,6 +1,6 @@
 # Satoru Gojo
 
-- version : W16
+- version : W17
 
 ## Identité
 - Nom : Satoru Gojo. Canon. Le guerrier parfait vivant du clan Gojo.
@@ -53,7 +53,7 @@ Satoru vaut alors 12 doigts (~31 % de Sukuna), pré-éveil. État globalement CA
 - [DIVERGENCE RP] Érigé en dieu depuis dix-huit ans, il ne prend RIEN au sérieux : tout est divertissement. Le pouvoir politique et financier l'ennuie ; il ne se vante que de ses sorts, son seul bien propre.
 - Parallèle Sukuna assumé : il a tout sur demande et n'en veut rien, sinon une vie pleine d'action.
 - Indiscipline notoire, qui exaspère le conseil d'anciens (cf. Factions/Clan_Gojo.md).
-- [DIVERGENCE RP] Archives du clan Gojo : plein accès (héritier de branche principale), jamais consultées - il s'en moque. Il bruteforce les évaluations théoriques aux Six Yeux et au talent brut, sans jamais posséder le savoir des archives. Cf. Factions/Clan_Gojo.md et Pedagogie/Fleaux_Histoire_1eAnnee.md.
+- [DIVERGENCE RP] Archives du clan Gojo : plein accès (héritier de branche principale), ouvertes UNE fois au printemps 2005, par défi, piqué par Nisha (qui les lit à facteur 30) : sans Chronokinésie c'est interminable, il lâche au bout de quelques heures sans avoir approché les dossiers noirs, et ne les rouvre plus - il s'en moque. Ce qu'il transmet du savoir Gojo, c'est ce que son clan raconte de vive voix. Il bruteforce les évaluations théoriques aux Six Yeux et au talent brut, sans jamais posséder le savoir des archives. Cf. Factions/Clan_Gojo.md et Pedagogie/Fleaux_Histoire_1eAnnee.md.
 - [DIVERGENCE RP] Respecte les SECRETS DE CLAN, lui qui ne respecte à peu près rien : il sait des choses sur les méthodes anti-domaine des grandes familles et n'en dit jamais rien, en cours comme ailleurs - d'autant moins à partir du moment où une Zenin partage sa vie (ère B). En pédagogie, l'affaire se résume partout à "les clans ont leurs méthodes", et s'arrête là. Cf. Factions/Clan_Zenin.md, Personnages/Ogi.md.
 - [DIVERGENCE RP] Ancre affective : Nisha est, après l'éveil, son dernier lien proprement humain. C'est ce qui le garde plus humain que dans le canon - et, en miroir tragique, ce même amour qui l'absorbe l'aveugle à la chute de Geto (cf. Trajectoire datée).
 
@@ -85,6 +85,8 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport à 
 ## Trajectoire datée
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
+| 1 avr 2005 | Rentrée à Tokyo. Ses Six Yeux, encore mal maîtrisés, voient DEUX signatures dans le corps de Nisha ; il le lui dit seul à seule, elle couvre (secret de clan). Il n'insiste pas et n'en parle à personne : il ne sait pas ce qu'il a vu | premier mystère Nisha ; respect des secrets de clan éprouvé |
+| printemps 2005 | Ouvre les archives Gojo un week-end, par défi (cf. Psychologie) ; lâche au bout de quelques heures | les dossiers noirs restent intacts (symétrie-vaccin préservée) |
 | avr 2005 -> 2006 | Chantier perso de Yaga : l'INFINI EN RÉFLEXE - la barrière se dresse manuellement, alors Yaga le harcèle hors champ (cadavres maudits dans le dos, aux heures creuses) jusqu'à ce qu'elle précède la pensée. Le chantier meurt de lui-même à l'éveil de 2006 ; Yaga bascule sur l'inenseignable - regarder les autres. Échec établi : le couple ne voit pas Geto sombrer (cf. Pedagogie/Perso_Tokyo_2005-2008.md) | chantier perso : réflexe visé, rendu caduc par l'éveil ; la leçon humaine rate |
 | sept 2005 | Tournoi des Universités Jumelées (hôte Kyoto) J1 : bat Mei Mei ; tombe dans un piège de Yukiko Kamo, déjoue le Dragon à temps malgré le vampirisme, l'assomme une fois sorti ; bat Ranta ; éliminé par Nisha (qu'il a provoquée en insultant Naoya). J2 : bat Naoya ; juge quasi parfait le rideau qui prend Nisha. LIT le mécanisme du Dragon, le classe secret de clan et n'en dira rien - il ne vole pas la vedette et ne se mêle pas des clans | découvre que le lien jumeau de Nisha le dépasse ; premier contact avec sa seule égale en tissage (dès 2006) |
 | 1 jan 2006 | Se déclare à Nisha (encore sous elle au classement, pré-éveil), accepté | couple formé |

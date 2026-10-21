@@ -1,6 +1,6 @@
 # Nisha Zenin - Relations : famille
 
-- version : W6
+- version : W7
 
 Page relations de Nisha, cercle FAMILLE : le clan (sang) et la famille choisie (le foyer de Saitama). Série en quatre pages par cercles ; règles générales et convention : cf. Nisha_relations_proches.md.
 
@@ -83,7 +83,7 @@ Page relations de Nisha, cercle FAMILLE : le clan (sang) et la famille choisie (
 
 ### Yaga
 Deux régimes, avant / après Panda (2011).
-- Statut : le prof devenu co-parent. Friction de la rentrée 2005 (recadrage de la première vanne misogyne, menace sincère du retour à Kyoto) -> respect mutuel par le mécanisme de la prouveuse (il vérifie au lieu de censurer) -> confiance profonde par la co-parentalité (2011).
+- Statut : le prof devenu co-parent. Friction de la rentrée 2005 (recadrage de la première vanne misogyne, menace sincère du retour à Kyoto) -> respect mutuel par le mécanisme de la prouveuse (elle le corrige sur la parole de son clan, sans pièces ; il écoute au lieu de censurer, sans changer son programme) -> confiance profonde par la co-parentalité (2011).
 - PROF (2005+) :
   - Appellatifs : elle -> lui : Sensei, Yaga-sensei. Lui -> elle : Zenin, Nisha.
   - Registre : elle avec respect et arrogance, lui avec respect et épuisement.

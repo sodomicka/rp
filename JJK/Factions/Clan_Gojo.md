@@ -1,6 +1,6 @@
 # Clan Gojo
 
-- version : W8
+- version : W9
 
 Page = faction fondatrice du monde. Faits canon non balisés (niveau établi) ; couche RP balisée [DIVERGENCE RP]. Résumé condensé en BIBLE SB4. État décrit = structure atemporelle + point de départ du RP (2005). Devenir post-2005 (transcendance de Satoru en 2006, suite) -> roadmap, hors de cette page neutre.
 
@@ -49,7 +49,7 @@ Page = faction fondatrice du monde. Faits canon non balisés (niveau établi) ; 
 [DIVERGENCE RP]
 - Mémoire écrite du clan : généalogies, tradition de la filiation Michizane (l'onryo de l'espace, tenu pour héritage documenté) et influence des croisements matrimoniaux sur les sorts. Même niveau de savoir que les archives Zenin et Kamo - mais rien n'en circule hors du clan (aucune mise en commun entre grandes familles). Aucune notion de la greffe des Six Yeux ni des architectes.
 - DOSSIERS NOIRS : le dossier Nozomu (Genroku - l'enfant, l'éveil, la mort, l'attaque de l'esprit vengeur ; ce que les archives retiennent de la FIN de l'attaque : [INCERTAIN - non fixé]) et la vérité du désastre de Tenpo (le guet-apens, le rituel du Patriarche Zenin, les dix morts).
-- Accès réservé aux HÉRITIERS DE BRANCHES PRINCIPALES (règle commune aux trois grandes familles). Satoru y a plein accès - et ne les consulte pas : il s'en moque, ses Six Yeux et son cerveau lui suffisent (cf. Personnages/Satoru.md). Ironie structurelle : l'homme que la douceur a sauvé, et la vérité de son propre clan, dorment dans des rayonnages qu'il ne lira jamais.
+- Accès réservé aux HÉRITIERS DE BRANCHES PRINCIPALES (règle commune aux trois grandes familles). Satoru y a plein accès - et ne les consulte pas : il s'en moque, ses Six Yeux et son cerveau lui suffisent ; une seule tentative, au printemps 2005, par défi, lâchée au bout de quelques heures loin des dossiers noirs (cf. Personnages/Satoru.md). Ironie structurelle : l'homme que la douceur a sauvé, et la vérité de son propre clan, dorment dans des rayonnages qu'il ne lira jamais.
 - Conséquence : au point de départ, ce savoir reste lettre morte (cf. Pedagogie/Fleaux_Histoire_1eAnnee.md, delta clanique).
 
 ## Branches et lignée
