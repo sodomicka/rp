@@ -98,6 +98,7 @@ Le sens de chaque marquage dans la partie (quelle langue, qui parle à qui inté
 
 **Texture.**
 - Chaque message finit sur une **situation ouverte** (dialogue en attente, événement brusque, pression PNJ). Jamais de fin neutre/descriptive.
+  *Exception — narration non jouée (§3).* La vignette se clôt sur son issue ou sa bascule, sans perche tendue au joueur : ni réplique qui attend une réponse, ni question, ni choix en suspens. Ce n'est pas une scène à jouer, c'est une ellipse détaillée.
 - Priorité au dialogue sur la description ; la description pose l'ancrage sensoriel minimal.
 - **Au moins 2 sens/message** (le visuel ancre, un autre révèle : tactile, sonore, olfactif).
 - Émotions PNJ par le **corps** (geste, souffle, silence, posture), jamais d'étiquette (« il était triste »).
