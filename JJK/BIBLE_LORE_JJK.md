@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : JJK
 - sources primaires : manga Jujutsu Kaisen (Gege Akutami) ; worldbuilding du worldbuilder (OC Nisha Zenin, Yukiko Kamo, Eien, Nozomu)
-- bible_version : B31
+- bible_version : B32
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/JJK/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/JJK/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/JJK/Partie1/`
@@ -113,15 +113,45 @@ Divergences (noyau Nisha) :
 ## SB3 Chronologie
 | Date/Ère | Événement | Conséquence |
 |---|---|---|
-| [À remplir - squelette du monde, build ultérieur.] | | |
+| Yamato | Les trois onryō (Michizane, Masakado, Sutoku) bénissent chacun un humain ; Tengen ascende après eux | trois premiers exorcistes, trois clans (cf. SB1) |
+| Heian | Sukuna au sommet ; le couple Eien + Kenjaku divise et crée les 20 doigts, pacte de dormance | doigts dispersés, retour calé sur le jumeau réincarné (Jin Itadori) |
+| Genroku | Nozomu Gojo meurt à l'éveil (4 ans) et revient en esprit vengeur ; Kenjaku le scelle dans une marque, remise à Uraume | douceur-cicatrice du clan Gojo |
+| Meiji | Pacte fondateur État/familles (Hautes Instances) ; Kenjaku-dans-Noritoshi conçoit les Peintures Mortes | universités, règlement en neuf articles |
+| 30 jan 1987 | Naissance des jumeaux Nisha et Naoya Zenin (Nisha aînée de 3 min) | divergence racine |
+| 1991 | Janvier : Eien offre la Chronokinésie ; août : éveil de la Chronostase et de la Projection | Nisha sauvée du reniement |
+| 29 fév 1992 | Premier repas bissextile avec Yukiko ; nouvel an 1992 : Fubuki empoisonnée | amitié Yukiko amorcée ; T-Fubuki planté |
+| 1995 | Domaine de Nisha forcé par Eien (Sphère du Temps Infini) | fin du statut servile, favorite de Naobito |
+| 1997 | Putsch d'Eien, échoué et invisible ; Nisha Grade Spécial 1, freelance ; Naoya au Hei ; naissance de Noritoshi Kamo (5 juin) | Nisha maîtresse des deux sorts |
+| 2000 | Statut de prodige, archives ouvertes à Nisha ; Toji quitte le clan | dossier Eien clos au conseil |
+| 31 mars 2005 | Conseil Zenin : transfert de Nisha à Tokyo | début de l'ère A |
+| 2005-2006 | 1re année à Tokyo ; Amicale de sept 2005 ; couple Nisha/Satoru (1 jan 2006) ; collier (30 jan 2006) | rivalité devenue couple |
+| 2006 | Toji tue Riko, Nisha le combat (A2_4) ; éveil de Satoru ; doctrine secrète des jumeaux | fusion de Tengen ratée |
+| fin 2007 | Mort de Haibara, massacre de Geto, défection | Geto fonde sa secte |
+| hiver 2008 | Diplôme ; Nisha prof à Kyoto, Satoru à Tokyo, Naoya tête du Hei ; adoption de Megumi et Tsumiki (Saitama) | début de l'ère B |
+| 2011 | Panda co-amalgamé par Yaga et Nisha | T-Âmes planté |
+| mars 2013 | Resto à quatre, Mei Mei recrutée à Kyoto | fin de B1 |
+| 2015 | Noces Gojo-Zenin ; bascule d'Eien, viol par Kenjaku, avortement (automne) ; vente du « comment » du sceau | T-Sceau et T-Secret-Naoya plantés |
+| fin 2015 | Nisha tue Yorozu, Tsumiki libérée | début de la guérison |
+| 24 déc 2017 | Nuit des Cent Fléaux : symbiose des jumeaux à Kyoto ; Satoru tue Geto à Tokyo | Kenjaku récupère le corps de Geto (canon) |
+| juin 2018 | Yuji avale un doigt à Sendai ; sursis obtenu par Nisha | début de l'ère C |
+| sept 2018 | Amicale de Tokyo, attaque d'Hanami | fin de C1 |
+| 31 oct 2018 | Takatsuki (jumeaux piégés) ; Shibuya : Satoru scellé, Nanami mort, Naobito mortellement brûlé | ère C au pire |
+| 1er nov 2018 | Salle des Instances (Yaga sauvé), réunion chez Tengen ; coup d'État Zenin, Naoya patriarche | début de l'ère D, Traque lancée |
+| 2-8 nov 2018 | Traque : Nisha à Tokyo n°2, Kashimo tué ; 8 nov : Kenjaku tué au palais Kamo, la Traque s'éteint | Nori patriarche Kamo |
+| 9-11 nov 2018 | Yukiko ouvre la Lisière, Satoru libéré ; Nisha lui avoue la vente | secret de la vente levé |
+| 14 nov 2018 | Shinjuku : Nozomu achevé, Eien meurt en emportant la Chronokinésie, Sukuna tué dans la Sphère de l'Espace-Temps Infini | fin de la guerre |
+| 28 nov 2018 | Réveil de Nisha à l'école de Tokyo, 14 doigts | début de la paix (D5) |
+| 2019-2024 | Diplôme express (mars 2019) ; naissance de Kento (31 oct 2019) ; Nobara prof (2021) ; Megumi dompte Mahoraga (2022) | monde occulte rendu public |
+| 29 fév 2024 | Repas bissextile au palais Kamo, toast de Naoya à Kento | fin de l'histoire de Nisha |
 
 Détail des étapes par arc : cf. JJK/Roadmap/<Prota>/.
 En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRONO) cadrent l'arc ; le fil long des arcs traversés vient du CODEX ANNEXE_CHRONO.
 
 ### Notes
-- Chronologie noyau de Nisha (1987-2005) : cf. WIKI Personnages/Nisha.md.
-- Tableau SB3 : build reporté à un thread dédié. Gabarit conservé.
+- Ères : A = 2005-2008 (université), B = 2008-juin 2018, C = juin-31 oct 2018, D = 1er nov 2018 -> 2024.
+- Chronologie noyau de Nisha (1987-2005) : cf. WIKI Personnages/Nisha.md ; trajectoires datées : chrono_A à chrono_D.
 - Ancrages cosmogoniques (Yamato ; ascension de Tengen post-onryō ; émergence d'Eien et Kenjaku ; Heian à Meiji ; 2006 : fusion ratée) : cf. WIKI Cosmogonie/Trois_Esprits.md.
+- Le tableau condense les roadmaps : en cas d'écart, la roadmap fait foi.
 
 ## SB4 Factions et groupes
 `Faction - nature | objectif | alliés | ennemis | statut dans le focus`
@@ -191,7 +221,13 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Chiryu no Kyuden - "le palais du dragon de sang", siège du clan Kamo | Kibune, nord de Kyoto | salle du trône (repas bissextiles, empoisonnement de Fubuki 1992), archives, chambre de Yukiko | état 2005 : Noriaki au trône ; autres ailes NON FIXÉES | [DIVERGENCE RP]. detail: cf. WIKI Lieux/Chiryu_no_Kyuden.md
 - Juei no Ryochi - "le domaine des Dix Ombres", siège du clan Zenin | montagnes à l'est de Kyoto | salle du conseil-dojo, archives façon kura, chambre des jumeaux | état 2005 : résidence des jumeaux jusqu'au départ | canon + [DIVERGENCE RP]. detail: cf. WIKI Lieux/Juei_no_Ryochi.md
 - Tokyo no Akatsuki - restaurant très haut de gamme | Tokyo, hors campus | sur réservation, aucun prix affiché ; se dire Zenin, carte bleue de Nisha à l'appui, ouvre le salon VIP | quartier NON FIXÉ ; pas de fiche (la BIBLE est son foyer) | [DIVERGENCE RP]
-- Autres lieux : build reporté à un thread dédié. Gabarit conservé. Jardin des Ères Mortes : cf. WIKI Personnages/Eien.md ; Tombeaux de l'Étoile : cf. WIKI Personnages/Tengen.md.
+- Université de Tokyo - campus des écoles | Tokyo | université de Nisha (2005-2008), poste de Satoru ; dessous : Tombeaux de l'Étoile ; forêt : sanctuaire de Suguru, tombes de Nanami et Tsukumo (nov 2018) | en activité en 2024 | canon + [DIVERGENCE RP]. detail: cf. WIKI Factions/Universite_Tokyo.md
+- Université de Kyoto - campus des écoles | Kyoto, à 5 min de course de Juei no Ryochi | poste de Nisha dès 2009 ; hôte de l'Amicale 2005 | en activité en 2024 | canon + [DIVERGENCE RP]. detail: cf. WIKI Factions/Universite_Kyoto.md
+- Tombeaux de l'Étoile - sanctuaire de Tengen | sous l'université de Tokyo | pivot de 2006 (A2_4), leçon de la Traque et répartition (1er nov 2018) | Tengen toujours là | canon. detail: cf. WIKI Personnages/Tengen.md
+- Maison de Saitama - foyer des Gojo-Zenin | Saitama | famille dès 2008, deux chambres d'amis (Maki dès 2014), cachette de Yuji (été 2018) | pas de fiche (domicile : Nisha_chrono_B) | [DIVERGENCE RP]
+- Jardin des Ères Mortes / Sphère du Temps Infini - for intérieur d'Eien / territoire de Nisha | intérieur | dialogues, domaine forcé (1995), deal de 2015, Yorozu (fin 2015) | état après la mort d'Eien NON FIXÉ | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Eien.md, Nisha.md
+- Lieux de l'ère C-D sans fiche (domicile : leur roadmap) : fac de Sendai (C1), centre de détention [CANON SUPPOSÉ : Eishu] (C1), pont de Yasohachi (C2), Takatsuki, entre Kyoto et Osaka (C2), Shibuya et le campement de Shoko (C2-C3), salle des Instances à Tokyo, non fixée (C3), Gachinko Fight Club à Tochigi et colonie Tokyo n°2 (D2), Shinjuku (D4).
+- Lieux créables en jeu : manoir de Hamamatsu (A2, détruit), lieu des noces, lieu de la visite, clinique clandestine (B2).
 
 ## SB7 Artefacts et objets
 `Objet - nature | origine | pouvoir/fonction | localisation connue | certitude`
@@ -246,4 +282,4 @@ Index détaillé page par page : cf. WIKI JJK/Sommaire.md
 
 ---
 
-FIN_BIBLE_B31
+FIN_BIBLE_B32
