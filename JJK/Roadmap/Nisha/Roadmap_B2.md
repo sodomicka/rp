@@ -1,6 +1,6 @@
 # Roadmap B2 - Le Trauma
 
-- version : W7
+- version : W8
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre - SAUF B2_4, où Nisha PERD le cadre (reléguée dans sa propre Sphère intérieure pendant la possession) : POV depuis l'intérieur, trou noir
 - échelle temporelle : ~2 ans et demi (avr 2013 -> automne 2015) ; deux années douces en [SNAPSHOTS] et journées choisies, puis 2015 ramassé autour des noces, de la bascule et de l'avortement
@@ -63,7 +63,7 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 - Nisha vainc Yorozu en B2 - c'est la 1re étape de B3.
 - Nisha apprend que Kenjaku porte le corps de Geto, ou comment ils vont piéger Satoru - elle connaît son nom et sa nature depuis le deal, et a vendu Satoru sans savoir le piège ; casserait Takatsuki et Shibuya (ère C).
 - Nisha commence à tabasser Eien dans le Jardin - les visites commencent en B3, quand la tristesse a mué en haine.
-- Geto est traqué ou retrouvé - il meurt de la main de Satoru début 2018.
+- Geto est traqué ou retrouvé - il meurt de la main de Satoru le 24 décembre 2017 (Nuit des Cent Fléaux).
 - Maki quitte administrativement le clan - le vrai divorce est à l'ère C.
 
 ## Verrous

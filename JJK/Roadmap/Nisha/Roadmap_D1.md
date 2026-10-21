@@ -1,6 +1,6 @@
 # Roadmap D1 - Piétiner les roseaux
 
-- version : W2
+- version : W3
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre ; la réflexion des conservateurs (fin de matinée) reste HORS POV
 - échelle temporelle : ~quelques heures (1er novembre 2018, début d'après-midi -> fin d'après-midi) ; quatre temps joués, aucun saut
@@ -43,9 +43,9 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 ### Interdits
 - Nisha ou Naoya tuent Ogi - c'est aux jumelles.
 - Megumi au domaine, ou Megumi qui accepte le trône - il refuse depuis 2009 et reste hors du clan.
-- Nisha part pour le palais Kamo - au signal de Yukiko seulement (D4 du chantier).
+- Nisha part pour le palais Kamo - au signal de Yukiko seulement (cf. Roadmap_D3.md).
 - Nisha croise Kenjaku ou Uraume.
-- Satoru apprend la vente - T-Secret-Naoya, [OUVERT].
+- Nisha avoue la vente à Satoru - T-Secret-Naoya : il l'a comprise seul au scellement, l'aveu n'a lieu qu'à sa sortie (D3_4).
 
 ## Verrous
 - Jalon 3 (D1_3) : Nisha s'en prend à Ogi. Paliers :
@@ -61,7 +61,7 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 
 ## Notes de frontière
 - État de sortie (1er novembre 2018, fin d'après-midi) : clan Zenin purgé, Naoya patriarche, Ranta à ses côtés ; Mai et Maki à ~10/90, en route pour Tokyo avec Nisha ; Satoru scellé ; Yukiko au palais Kamo.
-- Ère D (D2 et suivantes, à écrire) : recrutement de Hakari (canon ch. 152-158 : Yuji au fight club, Panda en face, Kirara à la porte), entrée dans les colonies ; Kashimo contre Panda (ch. 184) ; assaut du palais au signal de Yukiko.
+- Ère D (D2 et suivantes, cf. Roadmap_D2.md, Roadmap_D3.md) : recrutement de Hakari (canon ch. 152-158 : Yuji au fight club, Panda en face, Kirara à la porte), entrée dans les colonies ; Kashimo contre Panda (ch. 184) ; assaut du palais au signal de Yukiko.
 
 ---
 FIN_WIKI_ROADMAP_NISHA_D1

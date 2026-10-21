@@ -1,6 +1,6 @@
 # Nobara Kugisaki
 
-- version : W4
+- version : W5
 
 Fiche noyau (canon + RP), entité entrant en scène en juin 2018 (ère C) : élève de Satoru à Tokyo (promo 2018-2021). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -59,7 +59,7 @@ Fiches propres : cf. Personnages/Yuji.md, Megumi.md, Satoru.md, Nisha.md. Ici, s
 | 14 nov 2018 (D4) | Revient tard sur le front de Sukuna, borgne, à peine convalescente (comme au canon) | - |
 
 ## Notes de frontière
-- Peintures Mortes et Shibuya : portés en Trajectoire datée. [DIVERGENCE RP] Elle survit à Shibuya et se trouve en convalescence à Saitama en ère D (cf. chantier ères C/D, D5).
+- Peintures Mortes et Shibuya : portés en Trajectoire datée. [DIVERGENCE RP] Elle survit à Shibuya et se trouve en convalescence à Saitama en ère D, puis revient tard sur le front de Sukuna (cf. Trajectoire datée).
 
 ## Pointeurs
 - Promo et chantier : cf. Pedagogie/Perso_Tokyo_2018-2021.md. Université : cf. Factions/Universite_Tokyo.md.

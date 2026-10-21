@@ -1,6 +1,6 @@
 # Kogane
 
-- version : W1
+- version : W2
 
 Fiche noyau. Deux Kogane de la Traque : celui de Nisha [DIVERGENCE RP], son compagnon de toute la Traque, et celui de Kenjaku (canon), qui annonce la fin du jeu. Les Kogane en général (rôle, physique de base) : cf. Pedagogie/Traque_Meurtriere.md.
 
@@ -28,7 +28,7 @@ Fiche noyau. Deux Kogane de la Traque : celui de Nisha [DIVERGENCE RP], son comp
 | 2 nov 2018 (D2_2) | Apparaît avec le Kogane de Yuji, Kinji tout juste rallié après la baston contre Yuji, pour annoncer la 9e règle, ajoutée par Kashimo depuis Tokyo n°2 | compagnon de Nisha |
 | ~4 nov 2018 (D2_3) | Annonce à tous les joueurs la 10e règle, le transfert des points à la mort | - |
 | ~5 nov 2018 (D2_4) | Annonce la 11e règle, le transfert consenti | - |
-| 8 nov 2018 (D2) | Le Kogane de Kenjaku annonce la fin de la Traque ; celui de Nisha disparaît avec le jeu | FIN DU JEU |
+| 8 nov 2018, soir (D3) | Le Kogane de Kenjaku annonce la fin de la Traque ; celui de Nisha disparaît avec le jeu | FIN DU JEU |
 
 ---
 FIN_WIKI_KOGANE

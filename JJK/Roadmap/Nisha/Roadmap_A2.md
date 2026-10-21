@@ -1,6 +1,6 @@
 # Roadmap A2 - L'éveil et la chute
 
-- version : W8
+- version : W9
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre
 - échelle temporelle : ~2 ans (1 avr 2006 -> diplôme, hiver 2008) ; journées jouées aux jalons, routines en [SNAPSHOTS] entre eux
@@ -66,12 +66,12 @@ Fils transversaux, à faire SENTIR entre les jalons :
 - Le trio est diplômé.
 ### Interdits
 - Riko, Toji ou Haibara survivent, ou Nisha bat Toji - invariants canon ; l'éveil de Satoru, la doctrine et la bascule de Geto en dépendent.
-- Nisha retient Geto, le tue ou le livre - il est requis jusqu'à sa mort de la main de Satoru, début 2018 (ère B).
+- Nisha retient Geto, le tue ou le livre - il est requis jusqu'à sa mort de la main de Satoru, le 24 décembre 2017 (Nuit des Cent Fléaux, ère B).
 - Nisha perçoit le jeu d'Eien ou s'en méfie - casserait la bascule de 2015 (B2).
 - Nisha rencontre Megumi ou Tsumiki, ou apprend l'existence de Tsumiki - la rencontre et l'adoption sont en B1.
 - Les jumelles quittent le clan - le refuge de Saitama date de 2014 (B2).
 - La doctrine devient publique dans le clan - elle reste clandestine sur toute l'ère B.
-- Nisha et Yuki règlent leur inimitié par les armes - elle détone à l'ère D (BIBLE SB8).
+- Nisha et Yuki règlent leur inimitié par les armes - la tension reste figée tant qu'elles ne se croisent pas, et détone chez Tengen, en C3_4 (1er nov 2018 ; BIBLE SB8).
 - Une Amicale se tient en 2006 ou 2007.
 - Nanami ou Ijichi meurent - tous deux sont requis à l'ère B.
 

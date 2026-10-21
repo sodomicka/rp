@@ -1,6 +1,6 @@
 # Satoru Gojo
 
-- version : W15
+- version : W16
 
 ## Identité
 - Nom : Satoru Gojo. Canon. Le guerrier parfait vivant du clan Gojo.
@@ -96,12 +96,12 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport à 
 | 7 déc 2006 | Naissance de la tradition d'anniversaire RÉCIPROQUE : Nisha lui offre un vrai bandeau de qualité, en écho au collier du 30 janvier ; renouvelé chaque 7 décembre | le bandeau remplace les bandages enroulés (accessoire diégétique, SB7) |
 | 2006-2007 | Couple avec Nisha trop absorbé l'un par l'autre pour voir Geto sombrer (moteur tragique central : ce qui le garde humain est exactement ce qui lâche Geto) | aveuglement affectif |
 | fin 2007 | Après le massacre du village par Geto : refuse d'entendre ses raisons (là où Nisha et Shoko acceptent d'écouter) et vient le confronter dans la rue (A2_9) ; le laisse partir, incapable de tuer son meilleur ami | perte de Geto consommée (défection) |
-| hiver 2008 | Diplômé avec Nisha et Shoko (Geto absent, en exil) ; devient PROF à l'université de Tokyo (pôle progressiste) | bascule ère B : n1 mondial, enseignant à Tokyo |
+| hiver 2008 | Diplômé avec Nisha et Shoko (Geto absent, en exil) ; nommé PROF à l'université de Tokyo (pôle progressiste), poste effectif à la rentrée 2009 (cf. Satoru_chrono_B.md) | bascule ère B : n1 mondial, enseignant à Tokyo |
 
 ## Notes de frontière (reporté hors de cette fiche neutre)
 - Détail narratif de l'éveil 2006 (déroulé scène par scène du pivot Toji) : -> Roadmap A2_4.
 - Dynamique fine et plot du mariage Nisha-Satoru : -> roadmap / ère B.
-- Branche Fujiwara/Okkotsu et Yuta (retour de l'Infini, copie) : entité future, fiche différée -> cf. Factions/Clan_Gojo.md et Cosmogonie.
+- Branche Fujiwara/Okkotsu et Yuta (retour de l'Infini, copie) : cf. Personnages/Yuta.md, Factions/Clan_Gojo.md et Cosmogonie/Trois_Esprits.md.
 - Trajectoire datée post-départ, ère B (vie d'enseignant, famille de Saitama, etc.) : scindée pour le poids -> cf. Personnages/Satoru_chrono_B.md (l'ère A reste ci-dessus dans cette fiche ; scission de l'ère A optionnelle).
 
 ---

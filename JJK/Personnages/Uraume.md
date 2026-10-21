@@ -1,6 +1,6 @@
 # Uraume
 
-- version : W3
+- version : W4
 
 Fiche noyau (canon + RP), entité entrant en scène en ère C (31 octobre 2018) : suivant de Sukuna depuis l'ère Heian, incarné. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -45,7 +45,7 @@ Fiches propres : cf. Personnages/Sukuna.md, Kenjaku.md, Nozomu.md, Tsumiki.md. I
 | 14 nov 2018 (D4_3, D4_4) | SHINJUKU. Voyant Sukuna galérer et Mahoraga tombé, comprend qu'il faut céder son corps à plus fort : passe outre le refus de son roi, fait sauter le sceau et active Nozomu en lui ; désigne Tsumiki comme l'enfant protégée par Sukuna, les étudiants comme les enfants qui souffrent. Écrasé par Nozomu, qui prend son corps ; il n'en reste pas grand-chose après la frappe combinée des deux paires de jumeaux | MORT |
 
 ## Notes de frontière
-- Ère D (Traque, doigts, marque de Nozomu, bataille finale) : questions ouvertes au journal (domination, forme physique, savoir sur la lettre de Saitama, garde de Tsumiki) -> roadmaps D.
+- Ère D (doigts, marque de Nozomu, bataille finale) : jouée en D3 et D4 (cf. Trajectoire datée, Roadmap/Nisha/Roadmap_D4.md). Reste ouvert au journal : lien Heian avec Yorozu, date de la remise de la marque.
 
 ## Pointeurs
 - Marque de Nozomu : cf. Personnages/Nozomu.md, BIBLE SB7. Doigts : cf. Personnages/Sukuna.md.

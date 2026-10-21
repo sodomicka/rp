@@ -1,80 +1,80 @@
 # Megumi Fushiguro
 
-- version : W12
+- version : W13
 
-Fiche noyau (canon + RP), entite entrant en scene a l'ouverture de l'ere B (2008). Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = qui est Megumi a son entree en scene (identite, nature, sort, psychologie, relations) ; son devenir post-2008 est consigne en Trajectoire datee (telegraphique ; detail -> roadmaps ere B). Enfant sur tout B1 : scaling de combat non pertinent (potentiel seulement).
+Fiche noyau (canon + RP), entité entrant en scène à l'ouverture de l'ère B (2008). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. État noyau décrit = qui est Megumi à son entrée en scène (identité, nature, sort, psychologie, relations) ; son devenir post-2008 est consigné en Trajectoire datée (télégraphique ; détail -> roadmaps). Enfant sur tout B1 : scaling de combat non pertinent (potentiel seulement).
 
-## Identite
-- Nom : Megumi Fushiguro. Canon. [DIVERGENCE RP] Porte le nom GOJO-ZENIN depuis les noces de 2015, avec Nisha et Tsumiki ; la fiche garde le nom sous lequel il entre dans le RP. Fils biologique de Toji Fushiguro (ne Zenin, Restriction Celeste, Tueur d'Exorcistes).
-- Naissance : 22 decembre 2000. A 7-8 ans a l'ouverture de l'ere B (2008) ; grandit jusqu'a 12 ans a la cloture de B1 (mars 2013).
-- Demi-frere CADET de Tsumiki Fushiguro, sans aucun lien de sang (cf. fiche Tsumiki).
-- [DIVERGENCE RP] Adopte en 2008 par le couple Nisha Zenin / Satoru Gojo, en meme temps que Tsumiki. Eleve a Saitama, HORS de tout moule de clan Zenin. La vente conditionnelle qui le promettait au clan Zenin (contrat de Toji, arme a l'apparition d'un sort) a ete ANNULEE par le couple en amont (A2_10, avant l'apparition du sort) : c'est cette annulation preventive qui le soustrait au clan malgre la technique Zenin qu'il developpera.
+## Identité
+- Nom : Megumi Fushiguro. Canon. [DIVERGENCE RP] Porte le nom GOJO-ZENIN depuis les noces de 2015, avec Nisha et Tsumiki ; la fiche garde le nom sous lequel il entre dans le RP. Fils biologique de Toji Fushiguro (né Zenin, Restriction Céleste, Tueur d'Exorcistes).
+- Naissance : 22 décembre 2000. À 7-8 ans à l'ouverture de l'ère B (2008) ; grandit jusqu'à 12 ans à la clôture de B1 (mars 2013).
+- Demi-frère CADET de Tsumiki Fushiguro, sans aucun lien de sang (cf. fiche Tsumiki).
+- [DIVERGENCE RP] Adopté en 2008 par le couple Nisha Zenin / Satoru Gojo, en même temps que Tsumiki. Élevé à Saitama, HORS de tout moule de clan Zenin. La vente conditionnelle qui le promettait au clan Zenin (contrat de Toji, armé à l'apparition d'un sort) a été ANNULÉE par le couple en amont (A2_10, avant l'apparition du sort) : c'est cette annulation préventive qui le soustrait au clan malgré la technique Zenin qu'il développera.
 
 ## Physique
-- Conforme au canon, en plus jeune : cheveux noirs en bataille, yeux sombres, air serieux et ferme deja enfant.
+- Conforme au canon, en plus jeune : cheveux noirs en bataille, yeux sombres, air sérieux et fermé déjà enfant.
 
 ## Sort : Technique des Dix Ombres (Ten Shadows)
-- (canon) Sort inne : invoque et commande des shikigami issus des ombres (Chiens Divins noir et blanc d'abord, puis un bestiaire qui s'enrichit : Crapaud, Nue, Grand Serpent, etc.). Un shikigami vaincu une fois est dompte et rejoint le repertoire.
-- [DIVERGENCE RP] Don de clan greffe : les Dix Ombres sont une greffe ancestrale ex-Sugawara logee dans le clan Zenin (cf. Cosmogonie/Trois_Esprits.md). Megumi le porte par sa lignee paternelle (Toji, ne Zenin) - d'ou la convoitise du clan.
-- Mahoraga (l'invocation indomptable, sommet interdit de la technique) : potentiel lointain, JAMAIS approche en B1 (enfant). Pointeur seulement -> ere C.
-- En B1, Megumi est un debutant : il revele ses premiers shikigami vers 2009 (cf. Trajectoire datee) et apprend a les dompter, sans rien d'avance sur son age.
+- (canon) Sort inné : invoque et commande des shikigami issus des ombres (Chiens Divins noir et blanc d'abord, puis un bestiaire qui s'enrichit : Crapaud, Nue, Grand Serpent, etc.). Un shikigami vaincu une fois est dompté et rejoint le répertoire.
+- [DIVERGENCE RP] Don de clan greffé : les Dix Ombres sont une greffe ancestrale ex-Sugawara logée dans le clan Zenin (cf. Cosmogonie/Trois_Esprits.md). Megumi le porte par sa lignée paternelle (Toji, né Zenin) - d'où la convoitise du clan.
+- Mahoraga (l'invocation indomptable, sommet interdit de la technique) : potentiel lointain, JAMAIS approché en B1 (enfant). Invoqué à Shibuya (C2_5, cf. Trajectoire datée).
+- En B1, Megumi est un débutant : il révèle ses premiers shikigami vers 2009 (cf. Trajectoire datée) et apprend à les dompter, sans rien d'avance sur son âge.
 
-## Territoire interieur : le Jardin des Ombres
+## Territoire intérieur : le Jardin des Ombres
 [DIVERGENCE RP]
-- Megumi a DEJA APERCU son territoire interieur : un espace d'ombres qu'il appelle le Jardin des Ombres. Apercevoir n'est pas deployer - il ne sait pas l'etendre, et rien ne dit qu'il y arrivera.
-- Ses deux parents le savent, et c'est le CHANTIER de sa scolarite universitaire. Deux voies : le FORCAGE (Satoru l'agresse avec la Sphere de l'Espace Infini - seul procede connu au monde, resultat non garanti, rare car epuisant pour les deux ; cf. BIBLE SB1) et, entre deux tentatives, le chantier ordinaire - se battre pour GAGNER, la ou l'instinct du gamin est de survivre et de proteger.
+- Megumi a DÉJÀ APERÇU son territoire intérieur : un espace d'ombres qu'il appelle le Jardin des Ombres. Apercevoir n'est pas déployer - il ne sait pas l'étendre, et rien ne dit qu'il y arrivera.
+- Ses deux parents le savent, et c'est le CHANTIER de sa scolarité universitaire. Deux voies : le FORÇAGE (Satoru l'agresse avec la Sphère de l'Espace Infini - seul procédé connu au monde, résultat non garanti, rare car épuisant pour les deux ; cf. BIBLE SB1) et, entre deux tentatives, le chantier ordinaire - se battre pour GAGNER, là où l'instinct du gamin est de survivre et de protéger.
 - Cf. Personnages/Satoru.md, Pedagogie/Perso_Tokyo_2018-2021.md.
 
 ## Psychologie
-- (canon) Serieux, reserve, taciturne. Sens aigu de la justice, mais selectif - il ne cherche pas a sauver tout le monde, mais "les gens bien" ; aide inegale assumee.
-- [DIVERGENCE RP] La meme ossature morale, mais CULTIVEE POSITIVEMENT et non dans la solitude. Eleve "puissant qui protege", jamais une arme : sa vocation de protecteur est nourrie par une vraie famille au lieu d'etre forgee par l'abandon. Moins ferme et moins isole que son pendant canon.
-- [DIVERGENCE RP] Traite ses shikigami en ETRES, pas en outils - constant avec le canon, mais ici renforce par l'environnement (Tsumiki les traite en compagnons ; le couple ne lui enseigne pas l'instrumentalisation Zenin).
+- (canon) Sérieux, réservé, taciturne. Sens aigu de la justice, mais sélectif - il ne cherche pas à sauver tout le monde, mais "les gens bien" ; aide inégale assumée.
+- [DIVERGENCE RP] La même ossature morale, mais CULTIVÉE POSITIVEMENT et non dans la solitude. Élevé "puissant qui protège", jamais une arme : sa vocation de protecteur est nourrie par une vraie famille au lieu d'être forgée par l'abandon. Moins fermé et moins isolé que son pendant canon.
+- [DIVERGENCE RP] Traite ses shikigami en ÊTRES, pas en outils - constant avec le canon, mais ici renforcé par l'environnement (Tsumiki les traite en compagnons ; le couple ne lui enseigne pas l'instrumentalisation Zenin).
 
 ## Relations
-Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya.md. Ici, seul le rapport a Megumi.
+Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya.md. Ici, seul le rapport à Megumi.
 
-### Tsumiki - demi-soeur (dynamique inversee)
-- [DIVERGENCE RP] Inverse du canon : ce n'est pas lui qui la protege du monde occulte, c'est elle qui l'ENCOURAGE. Tsumiki le motive a peaufiner son sort quand il se revele et se lie d'amitie avec ses shikigami (qu'elle traite en animaux de compagnie une fois domptes). Detail cote Tsumiki : cf. fiche Tsumiki.
-- Au depart (2008), Megumi suit le couple en partie PARCE QUE Tsumiki est adoptee avec lui (elle est le levier emotionnel) ; tres vite, fratrie pleine et aimee.
+### Tsumiki - demi-sœur (dynamique inversée)
+- [DIVERGENCE RP] Inverse du canon : ce n'est pas lui qui la protège du monde occulte, c'est elle qui l'ENCOURAGE. Tsumiki le motive à peaufiner son sort quand il se révèle et se lie d'amitié avec ses shikigami (qu'elle traite en animaux de compagnie une fois domptés). Détail côté Tsumiki : cf. fiche Tsumiki.
+- Au départ (2008), Megumi suit le couple en partie PARCE QUE Tsumiki est adoptée avec lui (elle est le levier émotionnel) ; très vite, fratrie pleine et aimée.
 
-### Nisha - mere
-- [DIVERGENCE RP] Mere qui l'eleve "puissant qui protege", hors logique Zenin. Exigeante (rigueur, ponctualite), mais protectrice. Premier visage concret de la doctrine educative co-arretee avec Naoya (A2_10).
-- [DIVERGENCE RP] C'est PAR ELLE que Megumi obtient l'ACCES AUX ARCHIVES DU CLAN ZENIN, malgre son education hors-clan (Tsumiki l'obtient de meme, avec droit de regard du conseil sur les articles Okaruto). Datation -> roadmap. Cf. Factions/Clan_Zenin.md, Personnages/Tsumiki.md.
+### Nisha - mère
+- [DIVERGENCE RP] Mère qui l'élève "puissant qui protège", hors logique Zenin. Exigeante (rigueur, ponctualité), mais protectrice. Premier visage concret de la doctrine éducative co-arrêtée avec Naoya (A2_10).
+- [DIVERGENCE RP] C'est PAR ELLE que Megumi obtient l'ACCÈS AUX ARCHIVES DU CLAN ZENIN, malgré son éducation hors-clan (Tsumiki l'obtient de même, avec droit de regard du conseil sur les articles Okaruto). Datation -> roadmap. Cf. Factions/Clan_Zenin.md, Personnages/Tsumiki.md.
 
-### Satoru - pere
-- [DIVERGENCE RP] Pere joueur, qui le decoince a force de faire le clown (Megumi enfant trop serieux = cible ideale de ses pitreries). Lien d'affection reel sous le registre ludique.
+### Satoru - père
+- [DIVERGENCE RP] Père joueur, qui le décoince à force de faire le clown (Megumi enfant trop sérieux = cible idéale de ses pitreries). Lien d'affection réel sous le registre ludique.
 
-### Toji - pere biologique (defunt)
-- Pere biologique, mort en 2006 (tue par Satoru eveille, arc A2_4) ; c'est Toji mourant qui revele au couple l'existence de son fils. Megumi n'en garde pas de lien construit (orphelin de pere a 5 ans). Parallele non-dit : Toji et Megumi, meme sang Zenin, destins opposes (l'un rejete et hors-Restriction-doue, l'autre adopte et doue du sort de clan).
+### Toji - père biologique (défunt)
+- Père biologique, mort en 2006 (tué par Satoru éveillé, arc A2_4) ; c'est Toji mourant qui révèle au couple l'existence de son fils. Megumi n'en garde pas de lien construit (orphelin de père à 5 ans). Parallèle non-dit : Toji et Megumi, même sang Zenin, destins opposés (l'un rejeté et hors-Restriction-doué, l'autre adopté et doué du sort de clan). Le revoit ressuscité à Shibuya (C2_5, cf. Trajectoire datée).
 
-### Naoya - oncle adoptif / rivalite latente
-- [DIVERGENCE RP] Naoya (jumeau de Nisha, tete du Hei) : oncle par adoption. Tension de SUCCESSION latente - un enfant hors-clan portant les Dix Ombres face a l'heritier de fait. Graine qui ne fait que s'ARMER en B1 (Megumi est un enfant), detonation -> ere C. Cf. Graines.
+### Naoya - oncle adoptif / rivalité latente
+- [DIVERGENCE RP] Naoya (jumeau de Nisha, tête du Hei) : oncle par adoption. Tension de SUCCESSION latente - un enfant hors-clan portant les Dix Ombres face à l'héritier de fait. Graine qui ne fait que s'ARMER en B1 (Megumi est un enfant) ; détone au testament (C2_5) et se solde par le coup d'État du 1er nov 2018, Megumi refusant le trône (cf. Roadmap/Nisha/Roadmap_D1.md). Cf. Graines.
 
 ## Place dans le focus
-- Le "futur prodige" du foyer de Saitama : premier fruit concret de la doctrine educative du couple (puissant qui protege, hors-Zenin).
-- Pretendant LATENT a la succession Zenin malgre lui (porte les Dix Ombres, mais eleve hors clan) - tension dormante avec Naoya, a armer sans detoner en B.
-- [DIVERGENCE RP] REFUS CONSTANT du trone : des sa premiere visite au domaine (2009), quand Naobito le lui propose ; le sujet peut revenir en famille, sans pression, et chaque fois il refuse. Nisha lui demande de choisir pour lui-meme, et non pour un clan qui a voulu le racheter comme une marchandise.
+- Le "futur prodige" du foyer de Saitama : premier fruit concret de la doctrine éducative du couple (puissant qui protège, hors-Zenin).
+- Prétendant LATENT à la succession Zenin malgré lui (porte les Dix Ombres, mais élevé hors clan) - tension dormante avec Naoya, à armer sans détoner en B.
+- [DIVERGENCE RP] REFUS CONSTANT du trône : dès sa première visite au domaine (2009), quand Naobito le lui propose ; le sujet peut revenir en famille, sans pression, et chaque fois il refuse. Nisha lui demande de choisir pour lui-même, et non pour un clan qui a voulu le racheter comme une marchandise.
 
 ## Grade et scaling
-- En B1 : enfant (7 a 12 ans), debutant ; aucun scaling de combat pertinent.
-- Potentiel (canon, hors B1) : receptacle parfait pour Sukuna - plafond theorique 20 doigts sur 20 (cf. Power_Scaling/Doigts_de_Sukuna.md, Plafond mondial). Donnee de potentiel, sans incidence sur son etat enfant en B1.
+- En B1 : enfant (7 à 12 ans), débutant ; aucun scaling de combat pertinent.
+- Potentiel (canon, hors B1) : réceptacle parfait pour Sukuna - plafond théorique 20 doigts sur 20 (cf. Power_Scaling/Doigts_de_Sukuna.md, Plafond mondial). Donnée de potentiel, sans incidence sur son état enfant en B1.
 
-## Chronologie noyau (jusqu'a l'entree en scene, 2008)
+## Chronologie noyau (jusqu'à l'entrée en scène, 2008)
 | Date | Jalon |
 |---|---|
-| 22 dec 2000 | Naissance. Fils de Toji Fushiguro (ne Zenin). |
+| 22 déc 2000 | Naissance. Fils de Toji Fushiguro (né Zenin). |
 | 2006 | Mort de Toji (A2_4) ; le couple apprend son existence par Toji mourant. |
-| 2007 -> debut 2008 | Le couple ebauche le plan (maison a Saitama, adoption) et fait ANNULER la vente conditionnelle aupres du clan Zenin, avant toute apparition de sort (A2_10). |
-| 2008 | Trouve avec Tsumiki dans un appartement d'adultes ou elle l'eleve seule. Point d'entree en scene (ere B). |
+| 2007 -> début 2008 | Le couple ébauche le plan (maison à Saitama, adoption) et fait ANNULER la vente conditionnelle auprès du clan Zenin, avant toute apparition de sort (A2_10). |
+| 2008 | Trouvé avec Tsumiki dans un appartement d'adultes où elle l'élève seule. Point d'entrée en scène (ère B). |
 
-## Trajectoire datee - ere B (entrees B1-B3 ; alimentee a chaud arc par arc)
-| Date/ere | Evenement | Delta d'etat |
+## Trajectoire datée - ères B à D
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| 2008 (B1) | Adopte avec Tsumiki par le couple ; emmenagement a Saitama, hors-Zenin | d'enfant promis au clan a fils adopte ; soustrait a la vente (deja annulee) |
-| 2009 (B1) | Revele ses premiers shikigami (~8-9 ans) ; entraine "puissant qui protege", jamais une arme. Tsumiki l'encourage et se lie a ses familiers | sort manifeste ; cultivation hors-moule engagee |
-| 2009 (B1_2) | Convoque devant le conseil Zenin ; Naobito lui propose la succession : il REFUSE | premier refus ; designe par dogme malgre tout |
-| avr 2018 (B3) | Entre a l'universite de TOKYO : 1re annee dans la classe de son pere Satoru (promo 2018-2021). Seul 1re annee a la rentree - Yuji Itadori et Nobara Kugisaki n'arrivent qu'en ere C | etudiant exorciste ; eleve de son pere |
-| juin 2018 (B3, cloture ere B) | Veille de sa PREMIERE MISSION SOLO : recuperer une relique de Grade Special dans une fac de Sendai - le doigt de Sukuna, a la fac de Yuji | seuil de l'ere C |
+| 2008 (B1) | Adopté avec Tsumiki par le couple ; emménagement à Saitama, hors-Zenin | d'enfant promis au clan à fils adopté ; soustrait à la vente (déjà annulée) |
+| 2009 (B1) | Révèle ses premiers shikigami (~8-9 ans) ; entraîné "puissant qui protège", jamais une arme. Tsumiki l'encourage et se lie à ses familiers | sort manifesté ; cultivation hors-moule engagée |
+| 2009 (B1_2) | Convoqué devant le conseil Zenin ; Naobito lui propose la succession : il REFUSE | premier refus ; désigné par dogme malgré tout |
+| avr 2018 (B3) | Entre à l'université de TOKYO : 1re année dans la classe de son père Satoru (promo 2018-2021). Seul 1re année à la rentrée - Yuji Itadori et Nobara Kugisaki n'arrivent qu'en ère C | étudiant exorciste ; élève de son père |
+| juin 2018 (B3, clôture ère B) | Veille de sa PREMIÈRE MISSION SOLO : récupérer une relique de Grade Spécial dans une fac de Sendai - le doigt de Sukuna, à la fac de Yuji | seuil de l'ère C |
 | juin 2018 (C1_1) | Blessé face aux fléaux attirés par le doigt ; Yuji avale le doigt pour le sauver. Désespéré face au réceptacle, s'apprête à invoquer MAHORAGA avant même la menace : ses parents arrivent en un dixième de seconde. Choisit de sauver Yuji plutôt que de l'exorciser | a vu ses parents débarquer pour lui ; Mahoraga NON invoqué |
 | juil 2018 (C1_3) | Centre de détention : envoyé avec Yuji et Nobara face à un Grade Spécial par vote des Instances ; père injoignable (Chine), il envoie le SOS à Nisha (« c'est la merde »). Affronte Sukuna dans le corps de Yuji ; voit Yuji mourir, puis sa mère arriver trop tard | blessé ; dans le cercle du secret Yuji |
 | sept 2018 (C1_5) | Amicale à Tokyo (canon) ; attaque d'Hanami | - |
@@ -82,20 +82,20 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya
 | 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : blessé par Haruta Shigemo, invoque Mahoraga, que Sukuna abat. Toji, ressuscité, l'affronte, lui demande son nom : « Gojo-Zenin ». Toji comprend et se tue, serein. Megumi le racontera à ses parents | a vu son père biologique ; Mahoraga invoqué |
 | nuit 31 oct - 1 nov 2018 (C3_1, C3_4) | Soigné par Sukuna (il « a encore besoin de lui », canon), déposé au campement de Shoko : sain et sauf, il apprend à sa mère que papa est scellé. Chez Tengen à midi (canon) ; avec Akari Nitta, décrit à sa mère Haruta Shigemo, qui a failli le tuer | sain et sauf |
 | 2 - ~4 nov 2018 (D2) | Recrutement de Hakari (canon) ; entre avec Hakari et Yuji dans leur colonie (hors POV de Nisha). Higuruma lui apporte des points pour sortir, neutre | neutre |
-| 10 nov 2018 (D3, hors POV) | SAITAMA, à la maison avec Maki et Yuji pendant que ses parents sont verrouillés au palais Kamo et dans la Lisière : cède son corps à Sukuna pour protéger Tsumiki (Serment de Saitama, chantier D5-D7) ; disparaît | réceptacle consenti ; disparu -> D4 |
+| 10 nov 2018 (D3, hors POV) | SAITAMA, à la maison avec Maki et Yuji pendant que ses parents sont verrouillés au palais Kamo et dans la Lisière : cède son corps à Sukuna pour protéger Tsumiki (Serment de Saitama, cf. Personnages/Sukuna.md, Le Serment de Saitama) ; disparaît | réceptacle consenti ; disparu -> D4 |
 | 10 - 14 nov 2018 (D4, hors POV) | Passager consenti, coincé dans son corps : témoin de la conversation où Sukuna raconte la clause à Uraume et avoue son bluff | - |
 | 14 nov 2018 (D4_5) | Ne résiste jamais : la protection de Tsumiki tient. Ses parents entrent dans le territoire intérieur de Sukuna par la Sphère de l'Espace-Temps Infini et démontent son squatteur sous ses yeux, comme Nisha l'avait fait pour Tsumiki (Yorozu, 2015) | LIBRE, vivant |
 | 28 nov 2018 (D4_5) | Refuse sa place au nouveau conseil Zenin | hors du conseil |
 
-## Graines plantees / armees en B1 (a NE PAS detoner avant l'ere prevue)
-- Rivalite de succession Naoya <-> Megumi : s'ARME en B1 (Megumi porte les Dix Ombres, eleve hors clan). Adossee au testament de Naobito : [DIVERGENCE RP] une lettre ou le clan Zenin reconnait le PORTEUR DES DIX OMBRES comme successeur legitime de Naobito - scellee, descellee seulement APRES Shibuya (ere C). Megumi, fils de Toji et porteur des Dix Ombres, en devient le beneficiaire malgre son education hors-clan, en travers de Naoya (heritier de fait). Detonation -> ere C. En B1, rien ne detone : Megumi est un enfant, la lettre dort. (Touche aussi la fiche Naobito -> a integrer au build ere C.)
-- Potentiel de receptacle (Sukuna 20/20) : donnee de fond, jamais activee en ere B.
-- Premiere mission solo de Megumi (relique de Grade Special dans une fac de Sendai = le doigt de Sukuna, fac de Yuji) : DERNIER battement de l'ere B (juin 2018) -> seuil ere C. Desormais integree en Trajectoire datee.
+## Graines plantées / armées en B1 (à NE PAS détoner avant l'ère prévue)
+- Rivalité de succession Naoya <-> Megumi : s'ARME en B1 (Megumi porte les Dix Ombres, élevé hors clan). Adossée au testament de Naobito : [DIVERGENCE RP] une lettre où le clan Zenin reconnaît le PORTEUR DES DIX OMBRES comme successeur légitime de Naobito - scellée, descellée seulement APRÈS Shibuya. Megumi, fils de Toji et porteur des Dix Ombres, en devient le bénéficiaire malgré son éducation hors-clan, en travers de Naoya (héritier de fait). En B1, rien ne détone : Megumi est un enfant, la lettre dort. Détonée : lue par Naoya dans la nuit du 31 oct au 1er nov 2018 (C2_5), soldée par le coup d'État (D1).
+- Potentiel de réceptacle (Sukuna 20/20) : donnée de fond, jamais activée en ère B ; activé par le Serment de Saitama (D3).
+- Première mission solo de Megumi (relique de Grade Spécial dans une fac de Sendai = le doigt de Sukuna, fac de Yuji) : DERNIER battement de l'ère B (juin 2018) -> seuil ère C. Désormais intégrée en Trajectoire datée.
 
-## Notes de frontiere (hors B1)
-- Montee en puissance fine 2009-2018 (repertoire de shikigami domptes, amitie avec les familiers) : detail -> roadmaps B2/B3. Entree a Tokyo et veille de mission solo : integrees en Trajectoire datee.
-- Mahoraga invoqué à Shibuya (C2_5). Réceptacle parfait -> ère D. Testament lu par Naoya dans la nuit du 31 oct 2018 ; Megumi refuse, Naoya prend le trône par le coup d'État du 1er nov (cf. Roadmap/Nisha/Roadmap_D1.md).
-- Instance jouee (impact d'une partie donnee) : -> Parties/JJK/Partie<n>/ le cas echeant. Cette fiche reste la version neutre.
+## Notes de frontière (hors B1)
+- Montée en puissance fine 2009-2018 (répertoire de shikigami domptés, amitié avec les familiers) : détail -> roadmaps B2/B3. Entrée à Tokyo et veille de mission solo : intégrées en Trajectoire datée.
+- Mahoraga invoqué à Shibuya (C2_5). Réceptacle consenti de Sukuna du 10 au 14 nov 2018, puis libéré (cf. Trajectoire datée, Roadmap/Nisha/Roadmap_D4.md). Testament lu par Naoya dans la nuit du 31 oct 2018 ; Megumi refuse, Naoya prend le trône par le coup d'État du 1er nov (cf. Roadmap/Nisha/Roadmap_D1.md).
+- Instance jouée (impact d'une partie donnée) : -> Parties/JJK/Partie<n>/ le cas échéant. Cette fiche reste la version neutre.
 
 ## Pointeurs
 - Famille : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya.md.

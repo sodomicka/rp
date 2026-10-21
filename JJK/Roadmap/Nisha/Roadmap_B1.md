@@ -1,6 +1,6 @@
 # Roadmap B1 - La Fondation
 
-- version : W5
+- version : W6
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre
 - échelle temporelle : ~5 ans (hiver 2008 -> mars 2013) ; départ dense (quelques semaines en 2008), puis une année par jalon, journées jouées aux temps forts, le reste en [SNAPSHOTS]
@@ -73,7 +73,7 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 - Maki quitte le clan pour Saitama, ou la période "Mai seule" est jouée - c'est 2014 (B2).
 - Nisha et Satoru se marient - les noces sont en 2015 (B2).
 - Le savoir de l'amalgame d'âmes sort du duo Yaga/Nisha - T-Âmes détone à l'ère C.
-- Geto est traqué ou retrouvé - il meurt de la main de Satoru début 2018.
+- Geto est traqué ou retrouvé - il meurt de la main de Satoru le 24 décembre 2017 (Nuit des Cent Fléaux).
 - La doctrine devient publique dans le clan - clandestine sur toute l'ère B.
 
 ## Verrous

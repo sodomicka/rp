@@ -1,6 +1,6 @@
 # Traque Meurtrière (Culling Game) - leçon de Tengen
 
-- version : W2
+- version : W3
 
 Page = leçon (dossier Pedagogie/), hors cursus des universités : ce que Tengen expose aux Tombeaux de l'Étoile le 1er nov 2018 à midi (C3_4), devant Nisha, Tsumiki, Nori et le groupe du canon. Le MJ s'y tient mot pour mot : rien n'est à inventer. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. Les sections après les huit règles sont à usage MJ : Tengen ne les connaît pas encore.
 
@@ -44,7 +44,7 @@ Page = leçon (dossier Pedagogie/), hors cursus des universités : ce que Tengen
 | ~4 nov 2018 (D2_3) | 10e règle (Nisha) | transfert à la mort |
 | ~5 nov 2018 (D2_4) | 11e règle (Nisha) | transfert consenti |
 | 6 nov 2018 (D2_5) | 12e règle (camp de Nisha) | neutralité |
-| 8 nov 2018 (D2) | Mort de Kenjaku, la Traque s'éteint ; son Kogane annonce la fin du jeu | FIN DU JEU |
+| 8 nov 2018, soir (D3) | Mort de Kenjaku, la Traque s'éteint ; son Kogane annonce la fin du jeu | FIN DU JEU |
 
 ---
 FIN_WIKI_TRAQUE_MEURTRIERE

@@ -1,6 +1,6 @@
 # Choso
 
-- version : W5
+- version : W6
 
 Fiche noyau (canon + RP), entité entrant en scène en ère C (septembre 2018) : aînée des neuf Peintures Mortes, objet maudit incarné. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -31,7 +31,7 @@ Fiches propres : cf. Personnages/Eien.md, Kenjaku.md, Yuji.md, Noritoshi_Kamo.md
 - [DIVERGENCE RP] Eien : la mère biologique. Il la sent en Nisha, puis la rencontre dans le Jardin des Ères Mortes, chez Tengen (C3_2, C3_4).
 - Yuji : demi-frère, d'abord cible, puis frère reconnu.
 - [DIVERGENCE RP] Nisha : il sent Eien en elle et veut la tuer ; Yuji l'en dissuade (C3_2). Chez Tengen, elle lui PROMET que Kenjaku mourra sous les yeux impuissants d'Eien (C3_4).
-- [DIVERGENCE RP] Noritoshi Kamo : après le palais, Choso reste au clan Kamo, aux côtés de Nori et Yukiko (chantier, D4).
+- [DIVERGENCE RP] Noritoshi Kamo : après le palais, Choso reste au clan Kamo, aux côtés de Nori et Yukiko (cf. Roadmap/Nisha/Roadmap_D3.md).
 
 ## Grade et scaling
 - [DIVERGENCE RP] 12 doigts (niveau Naobito) : au-dessus de Nori (5) et de Yuji à Shibuya. Cf. Power_Scaling/Doigts_de_Sukuna_reperes.md.

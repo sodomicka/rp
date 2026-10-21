@@ -1,96 +1,96 @@
-# Fleaux et histoire - 2e annee
+# Fléaux et histoire - 2e année
 
-- version : W2
+- version : W3
 
-Page = fiche de cours (dossier Pedagogie/). Donne le niveau CLASSIQUE en plein, puis les deltas AVANCE CLANIQUE et OMNISCIENT VULGARISE. La verite du monde vit en Cosmogonie/Trois_Esprits.md et dans les fiches pointees ; l'ecart enseigne/verite est cartographie en fin de page. Cadre general (rythme, bareme, poles) : cf. Pedagogie/Resume_Enseignements.md.
+Page = fiche de cours (dossier Pedagogie/). Donne le niveau CLASSIQUE en plein, puis les deltas AVANCÉ CLANIQUE et OMNISCIENT VULGARISÉ. La vérité du monde vit en Cosmogonie/Trois_Esprits.md et dans les fiches pointées ; l'écart enseigné/vérité est cartographié en fin de page. Cadre général (rythme, barème, pôles) : cf. Pedagogie/Resume_Enseignements.md.
 
 ## Cadre du cours
-- Discipline : Fleaux et histoire. Annee 2 (theorique). Un sujet par semestre.
-- S1 (avril-septembre) : De Meiji a nos jours. S2 (octobre-mars) : Anomalies.
-- Porte par le professeur referent d'annee (polyvalent sur les trois disciplines) : titulaires par epoque, cf. Factions/Universite_Tokyo.md et Universite_Kyoto.md. Post-2009 : a Kyoto, la 2e annee est tenue par NISHA - le delta clanique y coule sans intermediaire ; a Tokyo, par Kusakabe.
-- Bareme : evaluation de fin de semestre (part du 1/3 annuel), volet du grand examen de mars (2/3).
-- Fonction : passer de l'Histoire au present. L'etudiant de 2e annee apprend le monde dans lequel il va exercer (S1), puis tout ce qui deborde ses grilles (S2).
+- Discipline : Fléaux et histoire. Année 2 (théorique). Un sujet par semestre.
+- S1 (avril-septembre) : De Meiji à nos jours. S2 (octobre-mars) : Anomalies.
+- Porté par le professeur référent d'année (polyvalent sur les trois disciplines) : titulaires par époque, cf. Factions/Universite_Tokyo.md et Universite_Kyoto.md. Post-2009 : à Kyoto, la 2e année est tenue par NISHA - le delta clanique y coule sans intermédiaire ; à Tokyo, par Kusakabe.
+- Barème : évaluation de fin de semestre (part du 1/3 annuel), volet du grand examen de mars (2/3).
+- Fonction : passer de l'Histoire au présent. L'étudiant de 2e année apprend le monde dans lequel il va exercer (S1), puis tout ce qui déborde ses grilles (S2).
 
-## S1 - De Meiji a nos jours
+## S1 - De Meiji à nos jours
 
-### Presentation (1er cours)
-Apres l'aube (1A-S1) et l'age d'or (1A-S2), le monde MODERNE : comment l'ordre actuel s'est construit, qui commande, au nom de quoi - et ou l'etudiant se situera dans la chaine.
+### Présentation (1er cours)
+Après l'aube (1A-S1) et l'âge d'or (1A-S2), le monde MODERNE : comment l'ordre actuel s'est construit, qui commande, au nom de quoi - et où l'étudiant se situera dans la chaîne.
 
-### Generalites
-- Meiji, la refondation : le Japon s'ouvre et se modernise ; le monde de l'exorcisme se restructure en parallele, a l'ombre du monde profane.
-- Le pacte fondateur Etat/familles : le gouvernement co-redige avec les trois grandes familles le reglement du monde occulte. Dans les faits, il DELEGUE les pleins pouvoirs sur l'occulte aux grandes familles - via les Hautes Instances qu'elles arment - contre une double garantie : la securite des profanes et le damage control (dissimulation, nettoyage, couverture des incidents). L'Etat ne gouverne pas l'occulte : il le sous-traite.
-- Fondation des universites de Tokyo et de Kyoto (ere Meiji), adossees aux barrieres de Tengen ; heritieres declarees de la doctrine fondatrice (cf. 1A-S1, recit de Nara).
-- Le reglement en neuf articles (Memorandum des devoirs des exorcistes) : 1 Mission (proteger les profanes de l'occulte) ; 2 Hautes Instances (autorite supreme, emission des ordres) ; 3 Universites (formation et rattachement) ; 4 Grades (attribution et revision) ; 5 Chatiments (dont l'execution des exorcistes devoyes) ; 6 Retraite ; 7 Reponse aux menaces ; 8 Secret (dissimulation de l'occulte aux profanes) ; 9 Protection des profanes (interdiction de leur nuire par sort, fleau ou objet). Le cours martele les trois articles operationnels du quotidien : 5, 8, 9.
-- Hautes Instances : dix membres, cinq par universite (trois sieges de clan + deux independants), anonymat de principe - Gakuganji seul visage public ; role : ordres, missions, executions, tutelle des deux universites.
-- Grades et missions (detail annonce en 1A-S1) : attribution des grades par les universites sous tutelle des instances ; doctrine d'appariement (jamais un fleau d'un grade superieur au sien) ; chaine de mission : fenetres (signalement) -> assistant managers (logistique, rideaux, transport) -> exorcistes (execution).
-- Maitres des Fleaux : exorcistes devoyes qui asservissent les fleaux ; doctrine de chasse et d'execution (article 5). Volet PREVENTION, remis a jour chaque annee : face a un Maitre des Fleaux, ne pas engager, signaler, evacuer.
-- Le scandale de Meiji : Noritoshi Kamo, "le sorcier le plus abject de l'Histoire" - les neuf Peintures Mortes, fruits d'experiences sur les grossesses d'une femme receptacle. Sa fin n'est PAS enseignee : le clan Kamo est reste volontairement vague, et le monde a appris a ne pas demander.
-- Geopolitique moderne : trois familles alliees de caste et rivales ; instances qu'elles arment ; universites sous tutelle ; turfs (Tokyo = Gojo, Kyoto = Kamo + Zenin).
-- Histoire recente, par epoque (le sujet vit avec l'actualite) :
-  - Rentrees 2008-2017 : la defection de Suguru Geto (fin 2007, massacre d'un village) est traitee au volet prevention - menace CONTEMPORAINE, consignes et vigilance, pas de recit.
-  - Des la rentree d'avril 2018 : la Nuit des Cent Fleaux (24 dec 2017, assaut coordonne sur Kyoto et Tokyo) et la mort de Geto dans son sillage entrent au programme - moment cle de l'histoire recente de l'exorcisme, verse au volet geopolitique.
+### Généralités
+- Meiji, la refondation : le Japon s'ouvre et se modernise ; le monde de l'exorcisme se restructure en parallèle, à l'ombre du monde profane.
+- Le pacte fondateur État/familles : le gouvernement co-rédige avec les trois grandes familles le règlement du monde occulte. Dans les faits, il DÉLÈGUE les pleins pouvoirs sur l'occulte aux grandes familles - via les Hautes Instances qu'elles arment - contre une double garantie : la sécurité des profanes et le damage control (dissimulation, nettoyage, couverture des incidents). L'État ne gouverne pas l'occulte : il le sous-traite.
+- Fondation des universités de Tokyo et de Kyoto (ère Meiji), adossées aux barrières de Tengen ; héritières déclarées de la doctrine fondatrice (cf. 1A-S1, récit de Nara).
+- Le règlement en neuf articles (Mémorandum des devoirs des exorcistes) : 1 Mission (protéger les profanes de l'occulte) ; 2 Hautes Instances (autorité suprême, émission des ordres) ; 3 Universités (formation et rattachement) ; 4 Grades (attribution et révision) ; 5 Châtiments (dont l'exécution des exorcistes dévoyés) ; 6 Retraite ; 7 Réponse aux menaces ; 8 Secret (dissimulation de l'occulte aux profanes) ; 9 Protection des profanes (interdiction de leur nuire par sort, fléau ou objet). Le cours martèle les trois articles opérationnels du quotidien : 5, 8, 9.
+- Hautes Instances : dix membres, cinq par université (trois sièges de clan + deux indépendants), anonymat de principe - Gakuganji seul visage public ; rôle : ordres, missions, exécutions, tutelle des deux universités.
+- Grades et missions (détail annoncé en 1A-S1) : attribution des grades par les universités sous tutelle des instances ; doctrine d'appariement (jamais un fléau d'un grade supérieur au sien) ; chaîne de mission : fenêtres (signalement) -> assistant managers (logistique, rideaux, transport) -> exorcistes (exécution).
+- Maîtres des Fléaux : exorcistes dévoyés qui asservissent les fléaux ; doctrine de chasse et d'exécution (article 5). Volet PRÉVENTION, remis à jour chaque année : face à un Maître des Fléaux, ne pas engager, signaler, évacuer.
+- Le scandale de Meiji : Noritoshi Kamo, "le sorcier le plus abject de l'Histoire" - les neuf Peintures Mortes, fruits d'expériences sur les grossesses d'une femme réceptacle. Sa fin n'est PAS enseignée : le clan Kamo est resté volontairement vague, et le monde a appris à ne pas demander.
+- Géopolitique moderne : trois familles alliées de caste et rivales ; instances qu'elles arment ; universités sous tutelle ; turfs (Tokyo = Gojo, Kyoto = Kamo + Zenin).
+- Histoire récente, par époque (le sujet vit avec l'actualité) :
+  - Rentrées 2008-2017 : la défection de Suguru Geto (fin 2007, massacre d'un village) est traitée au volet prévention - menace CONTEMPORAINE, consignes et vigilance, pas de récit.
+  - Dès la rentrée d'avril 2018 : la Nuit des Cent Fléaux (24 déc 2017, assaut coordonné sur Kyoto et Tokyo) et la mort de Geto dans son sillage entrent au programme - moment clé de l'histoire récente de l'exorcisme, versé au volet géopolitique.
 
 ### Cas particuliers
-- Les hors-systeme : freelances et mercenaires sans rattachement, toleres car utiles ; cas limite de la tutelle, l'electron libre Grade Special hors classement (ex. contemporain : Yuki Tsukumo).
-- Les non-combattants dans la chaine : assistant managers et fenetres (renvoi Detection 1A-S1) - l'ordre moderne tient autant par eux que par les combattants.
-- Quarantaines d'objets maudits de grade special : qui garde quoi, et pourquoi la reponse n'est jamais publique (renvoi Detection 2A-S2).
+- Les hors-système : freelances et mercenaires sans rattachement, tolérés car utiles ; cas limite de la tutelle, l'électron libre Grade Spécial hors classement (ex. contemporain : Yuki Tsukumo).
+- Les non-combattants dans la chaîne : assistant managers et fenêtres (renvoi Détection 1A-S1) - l'ordre moderne tient autant par eux que par les combattants.
+- Quarantaines d'objets maudits de grade spécial : qui garde quoi, et pourquoi la réponse n'est jamais publique (renvoi Détection 2A-S2).
 
-### Evaluation S1 (septembre)
-Ecrit, restitution pure : questions ciblees (institutions, articles, dates, doctrine), puis dissertation.
+### Évaluation S1 (septembre)
+Écrit, restitution pure : questions ciblées (institutions, articles, dates, doctrine), puis dissertation.
 
 ## S2 - Anomalies
 
-### Presentation (1er cours)
-L'ordre appris au S1 a ses grilles. Le S2 enseigne tout ce qui en deborde - fleaux qui pensent, objets qui durent, morts qui reviennent - et la doctrine pour y survivre.
+### Présentation (1er cours)
+L'ordre appris au S1 a ses grilles. Le S2 enseigne tout ce qui en déborde - fléaux qui pensent, objets qui durent, morts qui reviennent - et la doctrine pour y survivre.
 
-### Generalites
-- Fleaux intelligents : l'intelligence croit avec le grade - aux hauts grades, parole, ruse, strategie. Un fleau qui parle se traite en adversaire pensant, pas en bete.
-- Fleaux a sort : certains fleaux portent des sorts structures, comparables aux sorts innes ; la lecture du sort adverse (Energie 1A-S2) s'applique aussi au non-humain.
-- Objets maudits : genese (concentration de charge, amorcee en 1A-S1), grades, doctrine de quarantaine ; cas d'ecole permanent : les doigts de Sukuna (1A-S2). Confinement et sceaux : Detection 2A-S2.
-- Cadavres maudits : corps artificiels animes d'energie occulte ; art rare de leur creation, usages (combat, service, formation). Doctrine enseignee : un cadavre maudit est un OUTIL, pilote ou programme par son createur - rien de plus.
-- Esprits vengeurs : REALITE RECONNUE - un mort charge d'une rancune assez dense peut se muer en fleau ; rares, souvent puissants, souvent ancres a un lieu ou a une personne. Distinction academique maintenue : les trois grands onryo (Michizane, Masakado, Sutoku) restent, eux, au rayon folklore (cf. 1A-S1) - la categorie est tenue pour vraie, ses figures fondatrices pour mythe.
-- Doctrine des cas hors norme : primaute du signalement sur l'engagement ; protocole Grade Special (evacuation, rideau, appel aux rares qualifies) ; une anomalie se documente avant de se combattre.
+### Généralités
+- Fléaux intelligents : l'intelligence croît avec le grade - aux hauts grades, parole, ruse, stratégie. Un fléau qui parle se traite en adversaire pensant, pas en bête.
+- Fléaux à sort : certains fléaux portent des sorts structurés, comparables aux sorts innés ; la lecture du sort adverse (Énergie 1A-S2) s'applique aussi au non-humain.
+- Objets maudits : genèse (concentration de charge, amorcée en 1A-S1), grades, doctrine de quarantaine ; cas d'école permanent : les doigts de Sukuna (1A-S2). Confinement et sceaux : Détection 2A-S2.
+- Cadavres maudits : corps artificiels animés d'énergie occulte ; art rare de leur création, usages (combat, service, formation). Doctrine enseignée : un cadavre maudit est un OUTIL, piloté ou programmé par son créateur - rien de plus.
+- Esprits vengeurs : RÉALITÉ RECONNUE - un mort chargé d'une rancune assez dense peut se muer en fléau ; rares, souvent puissants, souvent ancrés à un lieu ou à une personne. Distinction académique maintenue : les trois grands onryo (Michizane, Masakado, Sutoku) restent, eux, au rayon folklore (cf. 1A-S1) - la catégorie est tenue pour vraie, ses figures fondatrices pour mythe.
+- Doctrine des cas hors norme : primauté du signalement sur l'engagement ; protocole Grade Spécial (évacuation, rideau, appel aux rares qualifiés) ; une anomalie se documente avant de se combattre.
 
 ### Cas particuliers
-- Panda (des 2017) : cadavre maudit mutant SCOLARISE a Tokyo - existence publique dans le monde etudiant, curiosite vivante du programme ; sa mecanique interne n'est pas enseignee.
-- L'affaire Rika (2017) : un esprit vengeur de grade special attache a un etudiant de Tokyo - lu et enseigne comme LE cas contemporain de la categorie. [Lecture fausse : cf. Verite vs enseigne.]
-- Les cultes occultes : la veneration nourrit (rappel 1A-S1) - des sectes peuvent engraisser un fleau comme on engraisse un dieu.
+- Panda (dès 2017) : cadavre maudit mutant SCOLARISÉ à Tokyo - existence publique dans le monde étudiant, curiosité vivante du programme ; sa mécanique interne n'est pas enseignée.
+- L'affaire Rika (2017) : un esprit vengeur de grade spécial attaché à un étudiant de Tokyo - lu et enseigné comme LE cas contemporain de la catégorie. [Lecture fausse : cf. Vérité vs enseigné.]
+- Les cultes occultes : la vénération nourrit (rappel 1A-S1) - des sectes peuvent engraisser un fléau comme on engraisse un dieu.
 
-### Evaluation S2 (fevrier)
-Meme format que S1, sur les anomalies : questions ciblees, puis dissertation. Restitution pure.
+### Évaluation S2 (février)
+Même format que S1, sur les anomalies : questions ciblées, puis dissertation. Restitution pure.
 
-## Examen de mars - volet Fleaux et histoire
-Restitution a l'echelle de l'annee : questions croisant les deux sujets, puis dissertation de synthese (ex. : "L'ordre moderne est-il arme contre ses anomalies ?"). Pese, avec les volets des deux autres disciplines, dans l'examen global (2/3 de l'annee).
+## Examen de mars - volet Fléaux et histoire
+Restitution à l'échelle de l'année : questions croisant les deux sujets, puis dissertation de synthèse (ex. : "L'ordre moderne est-il armé contre ses anomalies ?"). Pèse, avec les volets des deux autres disciplines, dans l'examen global (2/3 de l'année).
 
-## Delta AVANCE CLANIQUE (pole Kyoto)
-Porteurs : Gakuganji 2005-2008 (promo de Naoya) ; des 2009, Nisha EN PERSONNE (titulaire de la 2e annee) - le delta y est un canal direct, pas une irrigation ; Mei Mei en verification/correction des avril 2013.
-- Institutions de l'interieur : le pacte Etat/familles lu crument - qui tient qui, ce que coute le damage control, ce que les familles achetent avec ; jurisprudence interne des instances (precedents, rapports de force) au-dela de la structure publique. Porteur naturel : Gakuganji, seul visage public des instances, qui enseigne ce qu'il incarne.
-- Politique matrimoniale des trois familles : les echanges d'epouses comme instrument de conservation et de croisement des sorts (prolonge le delta 1A) - la geopolitique par le sang, documentee aux archives Zenin.
-- Meiji cote archives : les archives KAMO detiennent la verite de la fin du Noritoshi de Meiji - seppuku impose par les emissaires - et la GARDENT : un seppuku est une mort d'honneur, on ne l'accorde pas au plus abject ; et le clan refuse tout autant de calomnier un ancetre dont il a respecte la force (exorciste d'exception, stratege remarquable, porteur du sort du sang pur). Resultat : flou volontaire, ni eloge ni infamie. Ce savoir ne circule PAS vers le pole de Kyoto : les archives Zenin butent sur le silence Kamo et documentent le flou COMME flou.
-- Anomalies cote archives : legendes Zenin des dompteurs de shikigami et des scellements (delta 1A-S2) donnant chair aux fleaux a sort ; la "tradition fondatrice" des onryo (delta 1A) rend la categorie des esprits vengeurs plus profonde qu'en amphi.
-- Cadavres maudits : les archives documentent l'art standard ; RIEN sur l'ame autonome - le verrou tient meme ici.
+## Delta AVANCÉ CLANIQUE (pôle Kyoto)
+Porteurs : Gakuganji 2005-2008 (promo de Naoya) ; dès 2009, Nisha EN PERSONNE (titulaire de la 2e année) - le delta y est un canal direct, pas une irrigation ; Mei Mei en vérification/correction dès avril 2013.
+- Institutions de l'intérieur : le pacte État/familles lu crûment - qui tient qui, ce que coûte le damage control, ce que les familles achètent avec ; jurisprudence interne des instances (précédents, rapports de force) au-delà de la structure publique. Porteur naturel : Gakuganji, seul visage public des instances, qui enseigne ce qu'il incarne.
+- Politique matrimoniale des trois familles : les échanges d'épouses comme instrument de conservation et de croisement des sorts (prolonge le delta 1A) - la géopolitique par le sang, documentée aux archives Zenin.
+- Meiji côté archives : les archives KAMO détiennent la vérité de la fin du Noritoshi de Meiji - seppuku imposé par les émissaires - et la GARDENT : un seppuku est une mort d'honneur, on ne l'accorde pas au plus abject ; et le clan refuse tout autant de calomnier un ancêtre dont il a respecté la force (exorciste d'exception, stratège remarquable, porteur du sort du sang pur). Résultat : flou volontaire, ni éloge ni infamie. Ce savoir ne circule PAS vers le pôle de Kyoto : les archives Zenin butent sur le silence Kamo et documentent le flou COMME flou.
+- Anomalies côté archives : légendes Zenin des dompteurs de shikigami et des scellements (delta 1A-S2) donnant chair aux fléaux à sort ; la "tradition fondatrice" des onryo (delta 1A) rend la catégorie des esprits vengeurs plus profonde qu'en amphi.
+- Cadavres maudits : les archives documentent l'art standard ; RIEN sur l'âme autonome - le verrou tient même ici.
 
-## Delta OMNISCIENT VULGARISE (pole Tokyo, des 2009)
-Relais au carre : Satoru tient la 1re annee, pas la 2e - Kusakabe et le personnel ne retransmettent que ce qu'ils ont compris des digressions du maitre. Teinture, pas canal.
-- Meiji : jamais VU -> version officielle integrale, pour Satoru comme pour tous. Le plafond de l'oeil ne remonte pas le temps.
-- Instances : savoir d'EXPERIENCE (il les frequente et les meprise), pas de l'oeil - transmis en anecdotes irreverencieuses, sans valeur d'examen.
-- L'affaire Rika : VUE aux Six Yeux - Satoru tient la mecanique reelle et laisse le contresens academique en l'etat : proteger son eleve vaut mieux qu'une doctrine exacte.
-- 2005-2008 : pole inexistant (classique en plein).
+## Delta OMNISCIENT VULGARISÉ (pôle Tokyo, dès 2009)
+Relais au carré : Satoru tient la 1re année, pas la 2e - Kusakabe et le personnel ne retransmettent que ce qu'ils ont compris des digressions du maître. Teinture, pas canal.
+- Meiji : jamais VU -> version officielle intégrale, pour Satoru comme pour tous. Le plafond de l'œil ne remonte pas le temps.
+- Instances : savoir d'EXPÉRIENCE (il les fréquente et les méprise), pas de l'œil - transmis en anecdotes irrévérencieuses, sans valeur d'examen.
+- L'affaire Rika : VUE aux Six Yeux - Satoru tient la mécanique réelle et laisse le contresens académique en l'état : protéger son élève vaut mieux qu'une doctrine exacte.
+- 2005-2008 : pôle inexistant (classique en plein).
 
-## Verite vs enseigne (carte des ecarts - usage MJ)
-- Pacte Etat/familles : la structure enseignee est vraie ; la lecture crue (delegation contre damage control) reste un savoir de niveau clanique.
-- Noritoshi de Meiji : enseigne = le plus abject, fin non racontee ; archives Kamo = seppuku impose (cache) ; verite entiere = le corps etait porte par KENJAKU - personne, Kamo compris, ne l'a jamais perce. Plafond absolu (cf. Personnages/Kenjaku.md, Factions/Clan_Kamo.md).
-- Peintures Mortes : enseignees comme l'abomination d'un seul homme ; verite : oeuvre du couple architecte (Kenjaku-dans-Noritoshi ; Choso concu avec Eien-dans-Nanao). Hors de tout savoir.
-- Geto : enseigne des avril 2018 comme Maitre des Fleaux MORT a la Nuit des Cent Fleaux ; verite : son corps marche encore, occupe (cf. Personnages/Kenjaku.md). Le cours enseigne la fin d'un homme dont le cadavre est devenu vaisseau.
-- Ame autonome des cadavres maudits : hors programme, tous poles confondus ; detenteurs reels : Yaga et Nisha (T-Ames ; cf. Personnages/Yaga.md, Panda.md).
-- Esprits vengeurs : la categorie enseignee est VRAIE ; le folklore assigne aux trois onryo est FAUX (ils sont reels, cf. 1A) ; et le cas d'ecole moderne est un CONTRESENS - Rika n'est pas l'esprit vengeur de la defunte mais un fleau ne du sort de Yuta, qu'il subit (cf. Personnages/Yuta.md). La doctrine, exacte en general, fabrique elle-meme la mauvaise lecture de son cas le plus celebre. Verite percee seulement dans le cercle proche de l'eleve (fin 2017).
-- Panda : nature publique, noyaux secrets (Yaga, Nisha, Panda lui-meme).
+## Vérité vs enseigné (carte des écarts - usage MJ)
+- Pacte État/familles : la structure enseignée est vraie ; la lecture crue (délégation contre damage control) reste un savoir de niveau clanique.
+- Noritoshi de Meiji : enseigné = le plus abject, fin non racontée ; archives Kamo = seppuku imposé (caché) ; vérité entière = le corps était porté par KENJAKU - personne, Kamo compris, ne l'a jamais percé. Plafond absolu (cf. Personnages/Kenjaku.md, Factions/Clan_Kamo.md).
+- Peintures Mortes : enseignées comme l'abomination d'un seul homme ; vérité : œuvre du couple architecte (Kenjaku-dans-Noritoshi ; Choso conçu avec Eien-dans-Nanao). Hors de tout savoir.
+- Geto : enseigné dès avril 2018 comme Maître des Fléaux MORT à la Nuit des Cent Fléaux ; vérité : son corps marche encore, occupé (cf. Personnages/Kenjaku.md). Le cours enseigne la fin d'un homme dont le cadavre est devenu vaisseau.
+- Âme autonome des cadavres maudits : hors programme, tous pôles confondus ; détenteurs réels : Yaga et Nisha (T-Âmes ; cf. Personnages/Yaga.md, Panda.md).
+- Esprits vengeurs : la catégorie enseignée est VRAIE ; le folklore assigné aux trois onryo est FAUX (ils sont réels, cf. 1A) ; et le cas d'école moderne est un CONTRESENS - Rika n'est pas l'esprit vengeur de la défunte mais un esprit maudit né du sort de Yuta, qu'il subit (cf. Personnages/Yuta.md). La doctrine, exacte en général, fabrique elle-même la mauvaise lecture de son cas le plus célèbre. Vérité percée seulement dans le cercle proche de l'élève (fin 2017).
+- Panda : nature publique, noyaux secrets (Yaga, Nisha, Panda lui-même).
 
 ## Pointeurs
-- Cadre, bareme, poles : Pedagogie/Resume_Enseignements.md. Fiche precedente : Pedagogie/Fleaux_Histoire_1eAnnee.md.
+- Cadre, barème, pôles : Pedagogie/Resume_Enseignements.md. Fiche précédente : Pedagogie/Fleaux_Histoire_1eAnnee.md.
 - Institutions : Factions/Hautes_Instances.md, Universite_Tokyo.md, Universite_Kyoto.md. Clans : Factions/Clan_Kamo.md, Clan_Zenin.md, Clan_Gojo.md.
-- Verites d'architectes : Personnages/Kenjaku.md, Eien.md. Rika : Personnages/Yuta.md. Cadavres maudits : Personnages/Yaga.md, Panda.md.
-- Suite du cursus : Detection_Contention_1eAnnee.md / _2eAnnee.md, Energie_Territoires_1eAnnee.md / _2eAnnee.md, a builder.
+- Vérités d'architectes : Personnages/Kenjaku.md, Eien.md. Rika : Personnages/Yuta.md. Cadavres maudits : Personnages/Yaga.md, Panda.md.
+- Suite du cursus : Detection_Contention_1eAnnee.md / _2eAnnee_S1.md / _2eAnnee_S2.md, Energie_Territoires_1eAnnee.md / _2eAnnee.md.
 
 ---
 

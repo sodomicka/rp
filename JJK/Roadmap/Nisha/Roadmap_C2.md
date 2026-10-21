@@ -1,6 +1,6 @@
 # Roadmap C2 - Takatsuki
 
-- version : W3
+- version : W4
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre ; les Peintures Mortes et tout Shibuya jusqu'au départ de Kenjaku restent HORS POV
 - échelle temporelle : ~6 semaines (septembre 2018 -> nuit du 31 octobre 2018) ; journées jouées aux temps forts (l'appel de Muta, Takatsuki), septembre et octobre en [SNAPSHOTS]
@@ -62,7 +62,7 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 ### Interdits
 - Nisha voit Kenjaku avant la fermeture du piège, ou le combat - elle ne le voit qu'à Takatsuki, sans face-à-face.
 - Nisha tue Mahito - Shibuya en a besoin (Nanami, Nobara, l'absorption).
-- Nisha prévient Satoru, ou Satoru apprend la vente - T-Secret-Naoya, Satoru ignore toujours [OUVERT].
+- Nisha prévient Satoru, ou Satoru apprend la vente - T-Secret-Naoya : il ne la comprend qu'au moment d'être scellé (C2_5), et Nisha ne la lui avoue qu'à sa sortie (D3_4).
 - Nisha force le rideau de Takatsuki ou s'y épuise ; Eien bascule - le double fond doit rater.
 - Nisha entre à Shibuya avant le départ de Kenjaku - mystère SB8, résolu ainsi.
 - Nisha croise Choso, Uraume ou Yuki Tsukumo - C3 et ère D.

@@ -1,77 +1,77 @@
 # Eien
 
-- version : W19
+- version : W20
 
-OC. Fleau de Grade Special, millenaire. Parasite de Nisha (sort cede : Chronokinesie). Moitie du couple architecte avec Kenjaku. Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
+OC. Esprit maudit de Grade Spécial, millénaire. Parasite de Nisha (sort cédé : Chronokinésie). Moitié du couple architecte avec Kenjaku. Fiche noyau (atemporel) ; le plot du RP vit en roadmap / Parties, pas ici.
 
-## Identite et nature
-- [DIVERGENCE RP] OC. Fleau de Grade Special, age millenaire. Desincarnee : a oublie son premier genre et sa premiere identite. Genre apparent variable selon l'hote.
-- [DIVERGENCE RP] Compagne et amante de Kenjaku - amour sincere, symetrique, vieux de mille ans. Deux savants fous desincarnes. But commun : un monde ideal pour eux deux, via la fusion de l'humanite (plan Merger / Tengen, cf. Personnages/Kenjaku.md). L'amour = le pour qui, la fusion = le comment ; les deux soudes.
-- Nom : "Eien" = "eternite" en japonais (romanisation : eien).
+## Identité et nature
+- [DIVERGENCE RP] OC. Esprit maudit de Grade Spécial, âge millénaire (tiré d'une âme humaine, cf. BIBLE SB2). Désincarnée : a oublié son premier genre et sa première identité. Genre apparent variable selon l'hôte.
+- [DIVERGENCE RP] Compagne et amante de Kenjaku - amour sincère, symétrique, vieux de mille ans. Deux savants fous désincarnés. But commun : un monde idéal pour eux deux, via la fusion de l'humanité (plan Merger / Tengen, cf. Personnages/Kenjaku.md). L'amour = le pour qui, la fusion = le comment ; les deux soudés.
+- Nom : "Eien" = "éternité" en japonais (romanisation : eien).
 
-## Apparence (dans le Jardin des Eres Mortes)
-[DIVERGENCE RP] Eien est desincarnee : elle n'a AUCUNE apparence dans le monde. La forme ci-dessous est celle sous laquelle elle se presente a son hote dans le Jardin des Eres Mortes - et dans tout for interieur ou elle se projette.
-- Sous Nisha : silhouette feminine (le genre apparent suit l'hote).
-- Visage ABSENT : un ovale de peau lisse, sans yeux, sans nez, sans bouche. Elle a oublie son premier visage comme son premier genre.
-- Chevelure immense, flottante comme sous un vent qui n'existe pas, BICOLORE : une moitie noire, une moitie blanche. Tous les ages a la fois - atemporelle.
-- Robes archaiques superposees, noires doublees d'or ; bandes d'or aux manches ; ceinture noire a bande d'or. Les pieds ne se voient pas.
+## Apparence (dans le Jardin des Ères Mortes)
+[DIVERGENCE RP] Eien est désincarnée : elle n'a AUCUNE apparence dans le monde. La forme ci-dessous est celle sous laquelle elle se présente à son hôte dans le Jardin des Ères Mortes - et dans tout for intérieur où elle se projette.
+- Sous Nisha : silhouette féminine (le genre apparent suit l'hôte).
+- Visage ABSENT : un ovale de peau lisse, sans yeux, sans nez, sans bouche. Elle a oublié son premier visage comme son premier genre.
+- Chevelure immense, flottante comme sous un vent qui n'existe pas, BICOLORE : une moitié noire, une moitié blanche. Tous les âges à la fois - atemporelle.
+- Robes archaïques superposées, noires doublées d'or ; bandes d'or aux manches ; ceinture noire à bande d'or. Les pieds ne se voient pas.
 - Mains jointes devant elle, posture immobile.
 
-## Sort : la Chronokinesie
-- [DIVERGENCE RP] Sort ancestral du temps (lignee Masakado ; Eien en est issue, bien avant l'ere Heian). C'est ce sort qu'elle cede a ses hotes.
-- Module l'effet du temps sur ce qu'elle touche (ralentir / accelerer), y compris son propre corps et sa conscience.
-- Forme ultime = le gel, debloquable seulement en territoire ; le gel inclut le tir cinetique, donc il EST la Chronostase complete.
-- Ironie centrale : Nisha porte nativement, sans domaine, le sommet qu'Eien n'atteint qu'en territoire (et seulement si elle controlait le corps). Cf. Personnages/Nisha.md.
+## Sort : la Chronokinésie
+- [DIVERGENCE RP] Sort ancestral du temps (lignée Masakado ; Eien en est issue, bien avant l'ère Heian). C'est ce sort qu'elle cède à ses hôtes.
+- Module l'effet du temps sur ce qu'elle touche (ralentir / accélérer), y compris son propre corps et sa conscience.
+- Forme ultime = le gel, débloquable seulement en territoire ; le gel inclut le tir cinétique, donc il EST la Chronostase complète.
+- Ironie centrale : Nisha porte nativement, sans domaine, le sommet qu'Eien n'atteint qu'en territoire (et seulement si elle contrôlait le corps). Cf. Personnages/Nisha.md.
 
-## Territoire : le Jardin des Eres Mortes
-- Extension de Territoire. Foret immense et verdoyante, arbres de tout age (juveniles, sains, morts), traversee d'une riviere de verre mineral noir.
-- Le reflet de la riviere renvoie a un autre age, souvent extreme (nourrisson ou vieillard) : deroute l'adversaire avant la frappe.
-- Dedans : plus besoin de toucher, et le gel se deverrouille.
-- C'est aussi l'espace interieur ou Eien et son hote dialoguent.
-- Regle hote/parasite (canon) : un hote n'accede pas au domaine de son parasite. Nisha ne deploiera jamais le Jardin en combat.
+## Territoire : le Jardin des Ères Mortes
+- Extension de Territoire. Forêt immense et verdoyante, arbres de tout âge (juvéniles, sains, morts), traversée d'une rivière de verre minéral noir.
+- Le reflet de la rivière renvoie à un autre âge, souvent extrême (nourrisson ou vieillard) : déroute l'adversaire avant la frappe.
+- Dedans : plus besoin de toucher, et le gel se déverrouille.
+- C'est aussi l'espace intérieur où Eien et son hôte dialoguent.
+- Règle hôte/parasite (canon) : un hôte n'accède pas au domaine de son parasite. Nisha ne déploiera jamais le Jardin en combat.
 
-## Mode operatoire (parasitisme et longevite)
-- [DIVERGENCE RP] Marque une femme enceinte -> s'implante dans le foetus -> le gorge d'energie occulte pour le rendre viable -> se revele "amie" a 4 ans -> rend l'enfant exceptionnel en lui conferant la Chronokinesie -> a 10 ans, ecrase la conscience de l'hote pour user du sort a pleine puissance.
-- [DIVERGENCE RP] PREPARATION DU CORPS : sur un hote prometteur, Eien n'attend pas passivement l'echeance des 10 ans - elle FORCE l'eveil du territoire interieur en micro-agressant son hote avec le sien. Un corps a domaine est un corps qui vaut la peine d'etre pris. Seul forcage connu au monde (cf. BIBLE SB1, regle des domaines) : agresser quelqu'un qui a DEJA apercu son territoire, avec un autre territoire - resultat non garanti.
-- Prefere habiter des membres discrets des trois grandes familles. Instance documentee : la DOYENNE du clan Gojo a l'ere Genroku (nom du corps [INCERTAIN]) - l'anonymat du conseil Gojo est une couverture ideale pour son gout des membres discrets.
-- Hote a l'ere Meiji : Nanao Kamo, secretaire de Noritoshi Kamo. Sous cette identite, a porte l'un des foetus des Peintures Mortes : Choso (coconcu avec Kenjaku-dans-Noritoshi). Cf. Cosmogonie/Trois_Esprits.md.
+## Mode opératoire (parasitisme et longévité)
+- [DIVERGENCE RP] Marque une femme enceinte -> s'implante dans le fœtus -> le gorge d'énergie occulte pour le rendre viable -> se révèle "amie" à 4 ans -> rend l'enfant exceptionnel en lui conférant la Chronokinésie -> à 10 ans, écrase la conscience de l'hôte pour user du sort à pleine puissance.
+- [DIVERGENCE RP] PRÉPARATION DU CORPS : sur un hôte prometteur, Eien n'attend pas passivement l'échéance des 10 ans - elle FORCE l'éveil du territoire intérieur en micro-agressant son hôte avec le sien. Un corps à domaine est un corps qui vaut la peine d'être pris. Seul forçage connu au monde (cf. BIBLE SB1, règle des domaines) : agresser quelqu'un qui a DÉJÀ aperçu son territoire, avec un autre territoire - résultat non garanti.
+- Préfère habiter des membres discrets des trois grandes familles. Instance documentée : la DOYENNE du clan Gojo à l'ère Genroku (nom du corps [INCERTAIN]) - l'anonymat du conseil Gojo est une couverture idéale pour son goût des membres discrets.
+- Hôte à l'ère Meiji : Nanao Kamo, secrétaire de Noritoshi Kamo. Sous cette identité, a porté l'un des fœtus des Peintures Mortes : Choso (coconçu avec Kenjaku-dans-Noritoshi). Cf. Cosmogonie/Trois_Esprits.md.
 
-## Role cosmogonique (avec Kenjaku)
-- [DIVERGENCE RP] Co-architecte des trois familles avec Kenjaku. Detail : cf. Cosmogonie/Trois_Esprits.md.
-- [DIVERGENCE RP] Deal avec Sukuna : aide a diviser / creer les 20 doigts (pas a les sceller - sceleurs canon = exorcistes ennemis) ; cale, par ses pouvoirs temporels, la date approximative du retour de Sukuna - calage affine en pistant le cycle de reincarnation de l'ame du jumeau devore (cf. Personnages/Sukuna.md).
-- [DIVERGENCE RP] LE NOEUD NOZOMU (ere Genroku) : doyenne Gojo en poste, elle decouvre le Guerrier Parfait de l'ere... en decouvrant le fleau qui vient d'en naitre - trop tard pour le vivant. La frustration du couple face a la rarete extreme du combo a desormais une DATE. Elle ARRETE l'attaque de Nozomu contre le clan (modalites : [non fixe]) et lui propose une place dans la Traque Meurtriere que le couple prepare - deja en chantier a Genroku. Kenjaku scelle. Detail : cf. Personnages/Nozomu.md.
-- [DIVERGENCE RP] Mille ans d'oeuvre commune (sceaux, vaisseaux, Peintures Mortes) : Eien RECONNAIT la signature de Kenjaku - un humain place ou scelle de sa main. Capacite atemporelle (instance datee : jubilation 2008 devant Tsumiki, cf. Trajectoire datee - ere B).
+## Rôle cosmogonique (avec Kenjaku)
+- [DIVERGENCE RP] Co-architecte des trois familles avec Kenjaku. Détail : cf. Cosmogonie/Trois_Esprits.md.
+- [DIVERGENCE RP] Deal avec Sukuna : aide à diviser / créer les 20 doigts (pas à les sceller - sceleurs canon = exorcistes ennemis) ; cale, par ses pouvoirs temporels, la date approximative du retour de Sukuna - calage affiné en pistant le cycle de réincarnation de l'âme du jumeau dévoré (cf. Personnages/Sukuna.md).
+- [DIVERGENCE RP] LE NŒUD NOZOMU (ère Genroku) : doyenne Gojo en poste, elle découvre le Guerrier Parfait de l'ère... en découvrant l'esprit maudit qui vient d'en naître - trop tard pour le vivant. La frustration du couple face à la rareté extrême du combo a désormais une DATE. Elle ARRÊTE l'attaque de Nozomu contre le clan (modalités : [non fixé]) et lui propose une place dans la Traque Meurtrière que le couple prépare - déjà en chantier à Genroku. Kenjaku scelle. Détail : cf. Personnages/Nozomu.md.
+- [DIVERGENCE RP] Mille ans d'œuvre commune (sceaux, vaisseaux, Peintures Mortes) : Eien RECONNAÎT la signature de Kenjaku - un humain placé ou scellé de sa main. Capacité atemporelle (instance datée : jubilation 2008 devant Tsumiki, cf. Trajectoire datée - ère B).
 
-## Relation a Nisha (etat de base)
-Tissu relationnel detaille (appellatifs, registres avant/apres 2015, les visites) : cf. Personnages/Nisha_relations_proches.md.
-- [DIVERGENCE RP] A cible Nisha comme "piste interessante" ; est tombee sur une hote trop prodigieuse pour elle.
-- 1991-1995 : travaille le futur corps. Nisha projette sa conscience dans le Jardin des Eres Mortes des 1991 ; Eien s'en sert pour l'AGRESSER a repetition, jusqu'a l'eveil de la Sphere du Temps Infini en 1995 (8 ans). Elle prepare ce qu'elle compte prendre a 10 ans - et VEND ces agressions a l'hote comme un entrainement offert par son amie. Cf. Personnages/Nisha.md.
-- 1997 (Nisha 10 ans) : putsch tente -> ECHOUE, et l'echec lui ARRACHE l'acces a ses pouvoirs (Nisha commande desormais pleinement les deux sorts). [DIVERGENCE RP] MAQUILLAGE TOTAL : Eien cache sa tentative sous une soumission complete d'amie devouee. Nisha n'a percu qu'un vertige - un instant de cerveau partage - qu'Eien lui explique comme le signe de l'age ou elles deviennent vraiment meilleures amies. Nisha se sait MAITRESSE, ne se sait pas geoliere : elle croit son parasite une amie sincere, et le croira jusqu'en 2015.
-- [DIVERGENCE RP] Depuis l'echec de 1997, Eien ne fait pas que subir : elle NOURRIT un desir de controle obsessionnel sur Nisha, frustration qui macere a bas bruit sous le masque de l'amie devouee (l'hote parfaite, inexploitable de force ; cf. la regle de bascule ci-dessous). Ce desir - dix-huit ans de patience au moment ou il aboutira - est le moteur intime de sa trahison a venir (cf. Notes de frontiere ; roadmaps ere B).
-- [DIVERGENCE RP] Pourquoi elle continue de la renforcer malgre l'echec : elle est COINCEE. Tant qu'elle n'a pas le controle, elle n'a nulle part ou aller - autant que le corps qui la porte soit le meilleur possible. L'espoir se reporte sur Kenjaku : lui saura BRISER Nisha la ou la force a echoue. Ce calcul aboutit en 2015 (cf. Trajectoire datee) - et rate.
-- Regle de bascule (capitale) : Eien ne peut PAS prendre le controle de force. Elle le pourrait si Nisha baissait sa garde (par amour). Faille latente, non exploitee a ce stade - d'autant plus efficace que la garde de Nisha n'a JAMAIS inclus la mefiance envers Eien : on ne se mefie pas d'une amie.
-- [DIVERGENCE RP] REGLE DES SIGNATURES (transversale ; BIBLE SB1 fait foi) : la signature occulte suit ce qu'on VISE - chaque ame garde la sienne, attachee a SES sorts. Nisha et Eien portent donc des signatures DISTINCTES, et le corps en porte deux. Qui commande quoi depend du rapport de DOMINATION, pas de la signature : Nisha resiste, donc Nisha commande les DEUX sorts (Chronostase innee et Chronokinesie d'Eien) et Eien n'en commande AUCUN (acces plein arrache des 1997, a l'echec du putsch). Cf. Personnages/Sukuna.md, Nisha.md.
-- [DIVERGENCE RP] EXTENSION DE LA REGLE DE BASCULE : la garde de Nisha ne tombe pas seulement par l'amour - l'EPUISEMENT OCCULTE est lui aussi une garde baissee. Une Nisha videe de son energie occulte ouvre a Eien la meme fenetre. C'est sur ce levier que Kenjaku batira le rideau de Takatsuki (cf. Personnages/Kenjaku.md, BIBLE SB7) - et il ECHOUE : Nisha sait comment ne pas se faire vider, il suffit de ne rien faire.
-- Le lien a Nisha est parasitaire, pas romantique - l'amante d'Eien, c'est Kenjaku. L'amitie jouee a l'hote est un masque.
+## Relation à Nisha (état de base)
+Tissu relationnel détaillé (appellatifs, registres avant/après 2015, les visites) : cf. Personnages/Nisha_relations_proches.md.
+- [DIVERGENCE RP] A ciblé Nisha comme "piste intéressante" ; est tombée sur une hôte trop prodigieuse pour elle.
+- 1991-1995 : travaille le futur corps. Nisha projette sa conscience dans le Jardin des Ères Mortes dès 1991 ; Eien s'en sert pour l'AGRESSER à répétition, jusqu'à l'éveil de la Sphère du Temps Infini en 1995 (8 ans). Elle prépare ce qu'elle compte prendre à 10 ans - et VEND ces agressions à l'hôte comme un entraînement offert par son amie. Cf. Personnages/Nisha.md.
+- 1997 (Nisha 10 ans) : putsch tenté -> ÉCHOUE, et l'échec lui ARRACHE l'accès à ses pouvoirs (Nisha commande désormais pleinement les deux sorts). [DIVERGENCE RP] MAQUILLAGE TOTAL : Eien cache sa tentative sous une soumission complète d'amie dévouée. Nisha n'a perçu qu'un vertige - un instant de cerveau partagé - qu'Eien lui explique comme le signe de l'âge où elles deviennent vraiment meilleures amies. Nisha se sait MAÎTRESSE, ne se sait pas geôlière : elle croit son parasite une amie sincère, et le croira jusqu'en 2015.
+- [DIVERGENCE RP] Depuis l'échec de 1997, Eien ne fait pas que subir : elle NOURRIT un désir de contrôle obsessionnel sur Nisha, frustration qui macère à bas bruit sous le masque de l'amie dévouée (l'hôte parfaite, inexploitable de force ; cf. la règle de bascule ci-dessous). Ce désir - dix-huit ans de patience au moment où il aboutira - est le moteur intime de sa trahison à venir (cf. Notes de frontière ; roadmaps ère B).
+- [DIVERGENCE RP] Pourquoi elle continue de la renforcer malgré l'échec : elle est COINCÉE. Tant qu'elle n'a pas le contrôle, elle n'a nulle part où aller - autant que le corps qui la porte soit le meilleur possible. L'espoir se reporte sur Kenjaku : lui saura BRISER Nisha là où la force a échoué. Ce calcul aboutit en 2015 (cf. Trajectoire datée) - et rate.
+- Règle de bascule (capitale) : Eien ne peut PAS prendre le contrôle de force. Elle le pourrait si Nisha baissait sa garde (par amour). Faille latente, non exploitée à ce stade - d'autant plus efficace que la garde de Nisha n'a JAMAIS inclus la méfiance envers Eien : on ne se méfie pas d'une amie.
+- [DIVERGENCE RP] RÈGLE DES SIGNATURES (transversale ; BIBLE SB1 fait foi) : la signature occulte suit ce qu'on VISE - chaque âme garde la sienne, attachée à SES sorts. Nisha et Eien portent donc des signatures DISTINCTES, et le corps en porte deux. Qui commande quoi dépend du rapport de DOMINATION, pas de la signature : Nisha résiste, donc Nisha commande les DEUX sorts (Chronostase innée et Chronokinésie d'Eien) et Eien n'en commande AUCUN (accès plein arraché dès 1997, à l'échec du putsch). Cf. Personnages/Sukuna.md, Nisha.md.
+- [DIVERGENCE RP] EXTENSION DE LA RÈGLE DE BASCULE : la garde de Nisha ne tombe pas seulement par l'amour - l'ÉPUISEMENT OCCULTE est lui aussi une garde baissée. Une Nisha vidée de son énergie occulte ouvre à Eien la même fenêtre. C'est sur ce levier que Kenjaku bâtira le rideau de Takatsuki (cf. Personnages/Kenjaku.md, BIBLE SB7) - et il ÉCHOUE : Nisha sait comment ne pas se faire vider, il suffit de ne rien faire.
+- Le lien à Nisha est parasitaire, pas romantique - l'amante d'Eien, c'est Kenjaku. L'amitié jouée à l'hôte est un masque.
 
-## Trajectoire datee - ere B (entrees B1-B3 ; alimentee a chaud arc par arc)
-| Date/ere | Evenement | Delta d'etat |
+## Trajectoire datée - ère B (entrées B1-B3 ; alimentée à chaud arc par arc)
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
-| 2008 (B1) | Le couple adopte Tsumiki ; Eien reconnait sur la gamine la marque de son amant Kenjaku (piece placee a dessein, pas hasard) et JUBILE en silence, sans savoir encore ce qu'elle annonce. Nisha ignore pourquoi (graine T-Tsumiki) | confirmation que Kenjaku oeuvre dans l'entourage immediat de Nisha ; jubilation contenue |
-| 2015 (B2) | LA DETONATION. Dix-huit ans de patience aboutissent : la garde de Nisha tombe (bonheur conjugal post-noces), Eien BASCULE enfin, la POSSEDE et la relegue dans sa propre Sphere du Temps Infini interieure. Puis elle OUVRE leur corps a Kenjaku - baisse ses propres barrieres pendant que Nisha, prise par surprise, est coincee - et le fait entrer en for interieur sous sa forme vraie (cf. Personnages/Kenjaku.md). Avec Kenjaku (libre, dans un vaisseau anonyme), elle impose le deal et fait FECONDER le corps de Nisha (le viol = SON idee, pour la BRISER ; aucun enjeu strategique sur le foetus, avorte ensuite par Naoya). Donne la base de la solution Yorozu (etendre le territoire sur Tsumiki). Pour l'hote, DOUBLE TRAHISON : victime de chantage et violee par celle qu'elle croyait son amie de toujours | a goute le controle absolu ; jubile ; faille consommee (mais l'hote reprend la main) ; rancoeur en germe autour de Yorozu (-> B3, puis T-Yorozu ere C) |
-| fin 2015 (B3) | Nisha tue YOROZU (liberation de Tsumiki). Aucun lien reel d'Eien a Yorozu - mais la mort ARME T-Yorozu : en ere C, Eien livrera Nisha a Sukuna-dans-Yuji en l'accusant d'avoir tue "sa fidele Yorozu" (la fidele de SUKUNA - pure instrumentalisation) | munition acquise contre Nisha (T-Yorozu ARME -> ere C) |
-| 2015+ (B3) | LES VISITES. Le calcul a RATE : brisee, Nisha ne s'effondre pas en depression ecrasable - elle mue sa tristesse, par Satoru et Naoya, en haine pure du couple d'architectes. Elle descend des lors regulierement dans le Jardin des Eres Mortes pour la TABASSER. Le parasite battu chez lui par son hote : renversement complet, definitif. Eien encaisse, profil bas, et laisse macerer. Registre des sessions : cf. Personnages/Nisha_relations_proches.md | condamnee au statut de souffre-douleur ; punition reguliere subie ; rancoeur qui s'affine (carburant de l'ere C) |
+| 2008 (B1) | Le couple adopte Tsumiki ; Eien reconnaît sur la gamine la marque de son amant Kenjaku (pièce placée à dessein, pas hasard) et JUBILE en silence, sans savoir encore ce qu'elle annonce. Nisha ignore pourquoi (graine T-Tsumiki) | confirmation que Kenjaku œuvre dans l'entourage immédiat de Nisha ; jubilation contenue |
+| 2015 (B2) | LA DÉTONATION. Dix-huit ans de patience aboutissent : la garde de Nisha tombe (bonheur conjugal post-noces), Eien BASCULE enfin, la POSSÈDE et la relègue dans sa propre Sphère du Temps Infini intérieure. Puis elle OUVRE leur corps à Kenjaku - baisse ses propres barrières pendant que Nisha, prise par surprise, est coincée - et le fait entrer en for intérieur sous sa forme vraie (cf. Personnages/Kenjaku.md). Avec Kenjaku (libre, dans un vaisseau anonyme), elle impose le deal et fait FÉCONDER le corps de Nisha (le viol = SON idée, pour la BRISER ; aucun enjeu stratégique sur le fœtus, avorté ensuite par Naoya). Donne la base de la solution Yorozu (étendre le territoire sur Tsumiki). Pour l'hôte, DOUBLE TRAHISON : victime de chantage et violée par celle qu'elle croyait son amie de toujours | a goûté le contrôle absolu ; jubile ; faille consommée (mais l'hôte reprend la main) ; rancœur en germe autour de Yorozu (-> B3, puis T-Yorozu ère C) |
+| fin 2015 (B3) | Nisha tue YOROZU (libération de Tsumiki). Aucun lien réel d'Eien à Yorozu - mais la mort ARME T-Yorozu : en ère C, Eien livrera Nisha à Sukuna-dans-Yuji en l'accusant d'avoir tué "sa fidèle Yorozu" (la fidèle de SUKUNA - pure instrumentalisation) | munition acquise contre Nisha (T-Yorozu ARMÉ -> ère C) |
+| 2015+ (B3) | LES VISITES. Le calcul a RATÉ : brisée, Nisha ne s'effondre pas en dépression écrasable - elle mue sa tristesse, par Satoru et Naoya, en haine pure du couple d'architectes. Elle descend dès lors régulièrement dans le Jardin des Ères Mortes pour la TABASSER. Le parasite battu chez lui par son hôte : renversement complet, définitif. Eien encaisse, profil bas, et laisse macérer. Registre des sessions : cf. Personnages/Nisha_relations_proches.md | condamnée au statut de souffre-douleur ; punition régulière subie ; rancœur qui s'affine (carburant de l'ère C) |
 | juin 2018 (C1_1) | L'AUTEL. Au contact de Yuji, elle touche l'âme de Sukuna et projette son hôte avec elle sur l'autel intérieur ; elle accuse Nisha d'avoir tué « sa fidèle Yorozu » (T-Yorozu DÉTONÉ). Sukuna s'en moque, rit et la tabasse ; Nisha la corrige à son tour. Le grief fabriqué ÉCHOUE | humiliée par deux hôtes au lieu d'un ; rumine, profil bas, dans le Jardin (cf. Roadmap/Nisha/Roadmap_C1.md) |
 | 31 oct 2018 (C2_4) | TAKATSUKI : Nisha ne fait rien, la fenêtre reste close. Eien lui révèle la source de la signature (le cheveu de 2015) | double fond raté |
 | 1 nov 2018 (C3_4) | Choso, son fils, happé dans le Jardin : devant elle, Nisha lui promet que Kenjaku mourra sous ses yeux impuissants | promesse posée (-> ère D) |
 | 8 nov 2018, soir (D3) | Au palais Kamo, Nisha éclate le crâne de Kenjaku sous ses cris impuissants : la promesse de C3_4 est tenue. Kenjaku mort, ses droits de maître du jeu lui reviennent : elle DÉSAMORCE tout et la Traque s'éteint. Puis plus rien : brisée, forcée à vivre, elle n'est même pas capable de rejoindre Kenjaku dans la mort | veuve inerte, condamnée à survivre dans son hôte |
 | 14 nov 2018 (D4_4) | SHINJUKU. Brisée, ne demande qu'à mourir. Nozomu abattu, Nisha la SUPPLIE : elle prend le contrôle du corps, maintenant qu'elle ne le veut plus, ouvre le Jardin des Ères Mortes autour de Yuji et le rembobine. Puis elle meurt, en emportant la Chronokinésie | MORTE |
 
-## Notes de frontiere (hors de cette fiche)
-- Trahison, complots et denouement (a partir de 2015) : poses en Trajectoire datee a mesure que les arcs sont roadmappes (B2-B3 faits), puis Parties.
+## Notes de frontière (hors de cette fiche)
+- Trahison, complots et dénouement (à partir de 2015) : posés en Trajectoire datée, de B2 à D4 ; détail de scène dans les roadmaps Nisha B2 à D4.
 - Après la mort de Kenjaku (ère D) : TRANCHÉ en D4, les deux voies à la fois. Nisha la supplie de prendre le contrôle pour rembobiner Yuji mourant ; Eien, qui ne demandait qu'à mourir, accepte, ouvre le Jardin autour de lui, puis meurt en emportant la Chronokinésie. Nisha ne garde que la Chronostase et son domaine (14 nov 2018, cf. Roadmap/Nisha/Roadmap_D4.md).
-- Mecanique fine de projection entre fors interieurs, timing des evenements : a border en roadmap.
-- Ce que le clan Gojo a vu et archive de la fin de l'attaque de Nozomu (le role de sa doyenne) : [INCERTAIN - non fixe], cf. Personnages/Nozomu.md.
+- Mécanique fine de projection entre fors intérieurs, timing des événements : à border en roadmap.
+- Ce que le clan Gojo a vu et archivé de la fin de l'attaque de Nozomu (le rôle de sa doyenne) : [INCERTAIN - non fixé], cf. Personnages/Nozomu.md.
 
 ---
 
