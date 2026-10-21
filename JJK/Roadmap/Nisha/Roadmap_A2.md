@@ -1,6 +1,6 @@
 # Roadmap A2 - L'éveil et la chute
 
-- version : W11
+- version : W12
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre
 - échelle temporelle : ~2 ans (1 avr 2006 -> diplôme, mars 2008) ; huit étapes JOUÉES, treize AU CHOIX (rapide ou classique), tranches de vie libres entre les jalons
@@ -105,7 +105,7 @@ Sans date ni ordre ; seuls les interdits s'appliquent.
 - Riko, Toji ou Haibara survivent, ou Nisha bat Toji - invariants canon ; l'éveil de Satoru, la doctrine et la bascule de Geto en dépendent.
 - Nisha retient Geto, le tue ou le livre - il est requis jusqu'à sa mort de la main de Satoru (Nuit des Cent Fléaux, 24 déc 2017).
 - Nisha perçoit le jeu d'Eien ou s'en méfie - casserait la bascule de 2015 (B2). Aucune scène d'Eien en A2.
-- Satoru apprend ce qu'est la seconde signature de Nisha, ou insiste pour le savoir - éveillé, il la voit mieux, sans savoir ce que c'est, et respecte le secret de clan ; casserait la façade.
+- Satoru révèle Eien à qui que ce soit, ou se méfie d'elle - éveillé, il voit mieux la seconde signature, qu'il sait être Eien depuis le 1er avril 2005 (A1_2), sans lire ses intentions ; casserait la façade et la bascule de 2015 (B2).
 - Satoru rouvre les archives Gojo - il ne l'a fait qu'une fois, au printemps 2005 ; casserait la symétrie-vaccin et le secret de Nozomu (cf. Factions/Clan_Gojo.md).
 - Nisha confie des archives écrites de son clan hors du clan - la prouveuse corrige sur parole, sans pièces.
 - Nisha nomme en cours la règle hôte/parasite ou son propre cas - savoir d'archives, jamais enseigné ; casserait la façade.
