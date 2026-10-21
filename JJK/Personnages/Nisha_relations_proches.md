@@ -14,7 +14,7 @@ Convention : les appellatifs listés s'ajoutent aux prénoms, toujours disponibl
 ### Naoya
 - Statut : jumeau (cadet de 3 minutes), symbiose parfaite. Adorable avec elle, et avec elle seule.
 - Appellatifs : elle -> lui : Nao, mon Nao, Naoya, ma moitié, frérot. Lui -> elle : Nini, Nisha, ma moitié, sœurette.
-- Registre : égaux absolus - sans détours, sans hypocrisie, sans ego, sans jugement. Soutien inconditionnel. Toujours "je t'aime" avant de raccrocher, toujours. Gag rodé : quand l'un dit "petit frère" / "grande sœur", l'autre corrige - "de 3 minutes".
+- Registre : égaux absolus - sans détours, sans hypocrisie, sans ego, sans jugement. Soutien inconditionnel. Toujours "je t'aime" avant de raccrocher, toujours. Gag rodé : quand l'un dit "petit frère" / "grande sœur", l'autre corrige - "de 3 minutes". Une fois en couple (2006), elle lui raconte sa sexualité sans la moindre gêne ; lui grimace, la traite de dégueulasse et promet de mettre le Gojo dans un mur : la franchise crue est leur langue, le frère protecteur sa réponse.
 - Le seul jugement de leur vie : post-2015, quand il ne voit que la vente de Satoru pour sauver Tsumiki (cf. T-Secret-Naoya, BIBLE SB8).
 - Habitudes / rituels : anniversaire du 30 janvier (il cuisine toute la journée, elle lui forge un couteau - don mutuel de sa dignité) ; routine matinale rituelle (bandage, habillage, déjeuner, 1c1 jusqu'à 7h - réduite aux week-ends sur deux dès 2005) ; futon partagé, longues discussions avant de dormir ; appels du soir depuis le transfert.
 - Contentieux / non-dits : le mariage Gojo (2005 : il déteste l'idée - pas une faille, elle mérite mieux qu'être un piège ; dissous en A2_5) ; dès 2015, seul dépositaire de la vente et de l'avortement clandestin.
@@ -43,7 +43,7 @@ Deux régimes, avant / après le couple (1 jan 2006).
   - Appellatifs : elle -> lui : mon cœur, Satoru, mon Satoru, monsieur Gojo-Zenin (post-mariage). Lui -> elle : mon cœur, Nisha, ma Nisha, madame Gojo ou Gojo-Zenin (post-mariage).
   - Registre : s'amusent de leurs divergences d'opinion sans jamais chercher à changer l'autre. Soutien inconditionnel.
   - Réputation : Nisha est connue du milieu pour son désaccord politique franc avec son mari - ses idées de toujours, très conservatrices, jusqu'à la doctrine de 2006 (cf. Nisha_chrono_A.md, A2_6). Kenjaku en fait un argument en 2018 : une alliée possible par son clan.
-- Habitudes / rituels : tradition d'anniversaire réciproque - collier le 30 janvier, bandeau le 7 décembre.
+- Habitudes / rituels : tradition d'anniversaire réciproque - collier le 30 janvier, bandeau le 7 décembre. Rituel des bandages, dès le couple : il défait ceux de sa poitrine le soir et les refait le matin (il la préfère sans) ; le week-end au domaine, la routine matinale reste celle de Naoya. À Saitama (2008+), elle les laisse libres sous son T-shirt.
 - Intimité : un couple avec une sexualité, et deux partenaires très à l'aise à ce sujet. Première nuit le 29 jan 2006, la première fois pour l'un comme pour l'autre. Dès lors, des scènes intimes au choix du joueur, quelques-unes par arc, jamais imposées. Ère B, en deux temps inverses :
   - 2015 (B2), entre le viol et l'avortement : la libido de Satoru intacte, Nisha qui se dérobe et cherche des excuses. Après l'avortement, Satoru la rouvre à la sexualité avec douceur, amour et attention.
   - Après la mort de Geto (déc 2017, B3) : Satoru déprimé, et Nisha qui fait de même pour lui.

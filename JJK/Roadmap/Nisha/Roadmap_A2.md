@@ -53,7 +53,7 @@ Sans date ni ordre ; seuls les interdits s'appliquent.
 - Les concours du triangle meurent à l'éveil : Nisha et Geto perdent ensemble.
 - Une mission à deux Nisha/Geto : la joute sur les profanes, avant A2_5 puis après, quand il la dépasse.
 - Week-ends au domaine : harcèlement avant A2_6, premiers entraînements des jumelles après.
-- Appels du soir avec Naoya : Kyoto, Yukiko et Utahime, Gakuganji, sa propre 3e année.
+- Appels du soir avec Naoya : Kyoto, Yukiko et Utahime, Gakuganji, sa propre 3e année ; elle lui raconte sa vie de couple sans gêne, il grimace et menace le Gojo d'un mur.
 - La nuée de Yaga : le nombre de billes perdues qui baisse.
 - La cafét, cinq portions ; le Tokyo no Akatsuki, de plus en plus rarement à quatre.
 - Une nuit à deux, au dortoir ou ailleurs : le couple a une sexualité, assumée et sans gêne.
@@ -62,7 +62,7 @@ Sans date ni ordre ; seuls les interdits s'appliquent.
 À faire SENTIR entre les jalons, jamais figer en photo :
 - Montée de Satoru après l'éveil : Rouge, Violet, maîtrise du domaine. Jamais clouée en une seule étape.
 - Sort d'Inversion de Nisha, déc 2006 -> été 2007 : leçon d'A2_5 (le domaine la vide) ; sur elle seule, chère en énergie (cf. Personnages/Nisha_chrono_A.md).
-- Couple : sexualité assumée, tous deux très à l'aise. Scènes intimes au choix du joueur, une ou deux sur l'arc, jamais imposées.
+- Couple : sexualité assumée, tous deux très à l'aise. Scènes intimes au choix du joueur, une ou deux sur l'arc, jamais imposées. Rituel des bandages : bandée tous les jours sans exception à l'université, Satoru les défait le soir et les refait le matin.
 - Eien engrange en silence (amour, orgueil blessé), sans pouvoir agir.
 - L'Amicale NE se tient PAS : sept 2006, Kyoto (hôte, vainqueur 2005) refuse de servir de faire-valoir aux prodiges de Tokyo, son effectif ratatiné depuis le diplôme de Mei Mei ; sept 2007, annulée, Tokyo trop instable depuis la mort de Riko.
 - Cours de 2e année : cf. Pedagogie/Fleaux_Histoire_2eAnnee.md, Detection_Contention_2eAnnee_S1.md, _S2.md, Energie_Territoires_2eAnnee.md.

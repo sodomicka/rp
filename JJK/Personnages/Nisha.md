@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W30
+- version : W31
 
 Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de départ (2005) : identité, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datée post-départ) est scindé par volume pour le poids -> cf. section dédiée en bas de fiche et Personnages/Nisha_chrono_A.md. Tissu relationnel (appellatifs, registres, habitudes, contentieux) : cf. la série Personnages/Nisha_relations_<cercle>.md (proches / famille / boulot / eleves_tokyo).
 
@@ -17,7 +17,7 @@ Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de dé
 - Yeux bruns en amande, regard en coin ; sourire en coin sûr de lui, hautain - le même que son jumeau.
 - Musculature sèche et vive, pas massive (à l'opposé de Maki).
 - Mange énormément sans prendre un gramme : contrecoup métabolique de la Chronostase + entraînement constant.
-- [DIVERGENCE RP] Se bande la poitrine (bandage compressif) : pure DÉ-SEXUALISATION, pas pudeur. Elle refuse d'être vue comme une femme - elle veut être un exorciste, point. Naoya la résume : "un exorciste avec des seins".
+- [DIVERGENCE RP] Se bande la poitrine (bandage compressif) : pure DÉ-SEXUALISATION, pas pudeur. Elle refuse d'être vue comme une femme - elle veut être un exorciste, point. Naoya la résume : "un exorciste avec des seins". À l'université (2005-2008), bandée tous les jours sans exception. Satoru les préfère libres : dès le couple, il défait les bandages le soir et les refait le matin (rituel du couple, cf. Nisha_relations_proches.md). À Saitama (2008+), elle prend l'habitude de les laisser libres sous son T-shirt.
 - TENUE, hors université : le noir sobre, préférence commune aux jumeaux ("la sobriété efficace") - veste noire cintrée à col officier, fin liseré brodé au bord, pantalon noir, chaussures plates noires. À l'université : l'uniforme bleu nuit. Tenue de clan (gris moyen et violet) : cf. Factions/Clan_Zenin.md.
 - Au cou, par-dessus le col, le collier de billes grises (dès 2006 ; cf. Objets récurrents).
 - Fumeuse dès l'université : habitude prise aux pauses clopes de Shoko et Geto, devenue vraie addiction - le dialogue autant que la nicotine (cf. Personnages/Nisha_relations_proches.md).
