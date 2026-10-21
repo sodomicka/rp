@@ -1,6 +1,6 @@
 # Clan Zenin
 
-- version : W16
+- version : W17
 
 Page = faction fondatrice du monde. Faits canon non balisés (niveau établi) ; couche RP balisée [DIVERGENCE RP]. Résumé condensé en BIBLE SB4. État décrit = structure atemporelle + point de départ du RP (2005), plus les bascules DURABLES du clan (gouvernance de l'ère D, accès aux archives hors clan), posées en une ligne chacune. Le déroulé daté (morts, coup d'État, scènes) -> roadmap et fiches perso.
 
@@ -46,7 +46,7 @@ Page = faction fondatrice du monde. Faits canon non balisés (niveau établi) ; 
 - Hors tenue de clan, les jumeaux Nisha et Naoya préfèrent le noir sobre ("la sobriété efficace") ; à l'université, l'uniforme bleu nuit. Cf. Personnages/Nisha.md, Personnages/Naoya.md.
 
 ## Convention de nommage
-- [DIVERGENCE RP] Porter un vrai prénom reconnu au sein du clan = reconnaissance pleine (ni servante ni utérus). Les non-reconnues ne sont pas nommées.
+- [DIVERGENCE RP] Porter un vrai prénom reconnu au sein du clan = reconnaissance pleine (ni servante ni utérus). Les non-reconnues ne sont pas nommées. Les fils sont nommés à la naissance ; une fille ne reçoit un prénom que le jour où elle en mérite un, des mains du patriarche (ex. Nisha, nommée par Naobito à l'éveil de la Chronostase, août 1991).
 
 ## Les femmes du clan (trois statuts)
 [DIVERGENCE RP]
