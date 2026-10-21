@@ -53,7 +53,7 @@ Sans date ni ordre ; seuls les interdits s'appliquent.
 - Les concours du triangle meurent à l'éveil : Nisha et Geto perdent ensemble.
 - Une mission à deux Nisha/Geto : la joute sur les profanes, avant A2_5 puis après, quand il la dépasse.
 - Week-ends au domaine : harcèlement avant A2_6, premiers entraînements des jumelles après.
-- Appels du soir avec Naoya : Kyoto, Yukiko et Utahime, Gakuganji, sa propre 3e année ; elle lui raconte sa vie de couple sans gêne, il grimace et menace le Gojo d'un mur.
+- Appels du soir avec Naoya : Kyoto, Yukiko et Utahime, Gakuganji, sa propre 3e année  ; il réclame les ragots du couple, elle les donne crus, il fait mine d'être dégoûté et redemande des détails.
 - La nuée de Yaga : le nombre de billes perdues qui baisse.
 - La cafét, cinq portions ; le Tokyo no Akatsuki, de plus en plus rarement à quatre.
 - Une nuit à deux, au dortoir ou ailleurs : le couple a une sexualité, assumée et sans gêne.

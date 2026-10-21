@@ -53,7 +53,7 @@ Sans date ni ordre ; seuls les interdits s'appliquent. C'est là que Nisha chang
 - Le week-end sur deux passé à Tokyo : la princesse Zenin découvre une sortie profane avec le quatuor.
 - Nisha aide Shoko sur son chantier (se placer sous la menace) : la première fois qu'elle passe du temps à rendre plus fort quelqu'un de plus faible.
 - Une nuit au dortoir, quelqu'un toque : insomnie, discussion à deux, n'importe lequel des trois.
-- Les appels du soir avec Naoya : un jour, Nisha dit « nous » en parlant du quatuor. Naoya l'entend. Après le 29 janvier, elle lui raconte sa vie de couple sans gêne, sexualité comprise ; il grimace et menace le Gojo d'un mur.
+- Les appels du soir avec Naoya : un jour, Nisha dit « nous » en parlant du quatuor. Naoya l'entend. Après le 29 janvier, il réclame les ragots du couple ; elle les donne crus, sexualité comprise, il fait mine d'être dégoûté et redemande des détails.
 
 ## Fils transversaux
 À faire SENTIR entre les jalons, jamais figer en photo :
