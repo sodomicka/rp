@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W29
+- version : W30
 
 Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de départ (2005) : identité, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datée post-départ) est scindé par volume pour le poids -> cf. section dédiée en bas de fiche et Personnages/Nisha_chrono_A.md. Tissu relationnel (appellatifs, registres, habitudes, contentieux) : cf. la série Personnages/Nisha_relations_<cercle>.md (proches / famille / boulot / eleves_tokyo).
 
@@ -43,6 +43,13 @@ Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de dé
 - Forme ultime = le gel, débloquée seulement en territoire. Le gel inclut le tir cinétique : il est identique à la Chronostase complète.
 - [DIVERGENCE RP] Accès PLEIN arraché à Eien par l'échec de son putsch de 1997 - échec et putsch INVISIBLES pour Nisha (cf. Chronologie noyau, Personnages/Eien.md).
 
+### Sort d'Inversion (RCT) - acquis en ère A [DIVERGENCE RP]
+- ABSENT au point de départ (2005) : Nisha n'a pas la RCT jusqu'à A2_5 compris ; contre Toji et dans l'après immédiat, seul son domaine la sauve.
+- Acquis par le TRAVAIL, hors cours, en toile de fond de déc 2006 à l'été 2007 (acquis avant août 2007). Déclencheur : la leçon d'A2_5 - le domaine est un dernier recours qui la vide et la laisse hors d'état, et elle refuse d'en dépendre. Satoru la lui montre et l'explique de travers, Shoko lui en décrit la sensation, la Chronokinésie cognitive lui fait dévorer la théorie. Détail daté : cf. Personnages/Nisha_chrono_A.md.
+- Portée : SUR ELLE SEULE (soigner autrui reste le don de Shoko), sans retournement de sort. Chère en énergie occulte - à rebours de la Chronostase, radine.
+- Survit à la perte de la Chronokinésie (D4) : technique transversale, pas un sort d'Eien.
+- N'ajoute rien au compte en doigts : comprise dans la courbe 15 -> 16 -> 18 (cf. Grade et scaling).
+
 ### Façade publique : deux sorts, une origine maquillée
 - [DIVERGENCE RP] À TOKYO, Nisha montre ses DEUX sorts, mais en maquille l'origine : elle fait passer la Chronokinésie pour son propre sort inné, et la Chronostase pour un simple aspect de la Chronokinésie. Personne à Tokyo ne sait que la Chronokinésie est prêtée par Eien, ni que la Chronostase est son vrai sort inné. Exceptions : Satoru et ses protégés, une fois la confiance établie.
 - [DIVERGENCE RP] À KYOTO, rien n'est caché : l'université de Kyoto et les Hautes Instances, étroitement liées aux Zenin, savent TOUT - les deux sorts, leur vraie origine, Eien comprise. Mais tous croient Eien sous contrôle et amicale, comme le croit Nisha elle-même. Les Hautes Instances ne s'en inquiètent pas : si elles tolèrent Yuta et Rika (sous la pression du couple), une fille que les Zenin ont jugé bon de laisser en vie ne les dérange pas pour son esprit intérieur (cf. Personnages/Eien.md). Le cercle Zenin (Naoya, Naobito, le conseil) sait depuis 1991 ; périmètre du clan : cf. Factions/Clan_Zenin.md.
@@ -61,7 +68,7 @@ Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de dé
 - Vue de l'INTÉRIEUR : un dôme violet-noir étoilé, translucide - le monde extérieur se voit à travers la paroi, en GRIS. Sol d'eau violette parcourue d'ondes concentriques. Suspendus dans le dôme, luisant violet pâle : horloges, montres à gousset, pendules, sabliers, cadran solaire, rouages.
 - GESTE de déploiement : un « § » formé des deux mains (cf. Art/Sphere_Temps_Geste.png). Chaque main ferme un anneau pouce-index, et les deux anneaux se superposent ; les trois autres doigts de chaque main, tendus et légèrement courbés, dessinent un arc de cercle. Les deux mains se répondent en symétrie de révolution de 180° : les doigts de l'une pointent vers le haut, ceux de l'autre vers le bas, les deux arcs éloignés de part et d'autre des anneaux. Volutes violettes autour des mains.
 - Intérieur : le temps suit sa propre horloge. Nisha y utilise Chronostase et Chronokinésie sans toucher, et débloque l'inversion temporelle.
-- Inversion temporelle : sur son propre corps. Un bras tranché se dé-tranche, une brûlure se dé-brûle. Ce n'est PAS le sort d'inversion (RCT) : c'est une inversion temporelle littérale, au-dessus de la RCT.
+- Inversion temporelle : sur son propre corps. Un bras tranché se dé-tranche, une brûlure se dé-brûle. Ce n'est PAS le sort d'inversion (RCT) : c'est une inversion temporelle littérale, au-dessus de la RCT, réservée au territoire. Nisha n'acquiert la RCT, distincte, qu'en ère A (cf. Sorts, Sort d'Inversion).
 - Coût : vide colossalement ses réserves d'énergie occulte. Ultime recours. Après usage, hors d'état de se battre.
 - [DIVERGENCE RP] Domaine acquis à 8 ans (1995), et FORCÉ : Nisha projetant sa conscience dans le Jardin des Ères Mortes depuis 1991, Eien s'en est servie pour l'agresser à répétition avec son propre territoire, jusqu'à faire éveiller le sien. Motif du parasite : préparer le corps qu'elle comptait prendre à 10 ans. Le procédé est le seul forçage connu au monde (cf. BIBLE SB1) et son résultat n'est jamais garanti - ici, il a trop bien marché. VÉRITÉ MJ : Nisha, elle, a vécu ces agressions comme un entraînement offert par son amie (cf. Nisha_relations_proches.md). Cf. Personnages/Eien.md.
 

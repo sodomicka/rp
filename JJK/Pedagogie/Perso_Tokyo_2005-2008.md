@@ -1,6 +1,6 @@
 # Enseignement personnalisé - Tokyo, promo 2005-2008
 
-- version : W3
+- version : W4
 
 Page = fiche d'enseignement personnalisé (dossier Pedagogie/). Une page par promotion à casting fiche ; ne couvre que les années tenues par un professeur du périmètre (ici Yaga, les trois ans). Cadre général (rythme, pôles, enseignement non noté) : cf. Pedagogie/Resume_Enseignements.md.
 
@@ -37,6 +37,7 @@ Page = fiche d'enseignement personnalisé (dossier Pedagogie/). Une page par pro
 ## Ce que le professeur n'a pas vu (usage MJ)
 - Nisha montre ses DEUX sorts, et Yaga corrige les deux : mais il croit la Chronokinésie innée et la Chronostase un de ses aspects. Il ignore que la Chronokinésie est prêtée par un parasite, et que la Chronostase est le vrai sort inné (cf. Personnages/Nisha.md, Eien.md).
 - Le Sort d'Inversion de Satoru est acquis aux portes de la mort, en 2006, hors de tout cours (cf. Personnages/Satoru.md).
+- Celui de Nisha aussi, mais par le travail : de déc 2006 à l'été 2007, sur les explications de travers de Satoru et la sensation décrite par Shoko, après la leçon d'A2_5. Yaga le constate, il ne l'a pas enseigné (cf. Personnages/Nisha_chrono_A.md).
 - La doctrine secrète "protéger les faibles, servir les forts" naît en 2006 entre Nisha et Naoya, au domaine, pas en classe (cf. Nisha_chrono_A.md).
 - Geto : Yaga voit le sort et la technique ; la dérive, il la découvre à la fin - c'est par lui que les faits remontent, trop tard pour le cours (cf. Personnages/Geto.md).
 

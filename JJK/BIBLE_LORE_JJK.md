@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : JJK
 - sources primaires : manga Jujutsu Kaisen (Gege Akutami) ; worldbuilding du worldbuilder (OC Nisha Zenin, Yukiko Kamo, Eien, Nozomu)
-- bible_version : B32
+- bible_version : B33
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/JJK/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/JJK/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/JJK/Partie1/`
@@ -165,7 +165,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 
 ## SB5 Personnages
 `Nom - rôle | capacités-clé | relations | sort connu | certitude`
-- Nisha Zenin - protagoniste, OC, jumelle de Naoya (née le 30 jan 1987), Gojo-Zenin depuis ses noces (2015) | Chronostase + Chronokinésie (parasite Eien, PERDUE le 14 nov 2018 : 14 doigts ensuite), Sphère du Temps Infini, Sphère de l'Espace-Temps Infini avec Satoru (D4) ; façade à Tokyo : Chronokinésie présentée comme innée, Chronostase comme son aspect ; Kyoto et Hautes Instances savent tout, Eien crue docile | Naoya (jumeau symbiotique), Eien (parasite : Nisha s'en sait maîtresse, jamais geôlière - amie de façade jusqu'en 2015, souffre-douleur ensuite), Naobito (père), Satoru (rival puis époux) | deux sorts + domaine | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nisha.md (+ chrono_A, chrono_B, chrono_C, chrono_D ; relations : Nisha_relations_proches, _famille, _boulot, _eleves_tokyo)
+- Nisha Zenin - protagoniste, OC, jumelle de Naoya (née le 30 jan 1987), Gojo-Zenin depuis ses noces (2015) | Chronostase + Chronokinésie (parasite Eien, PERDUE le 14 nov 2018 : 14 doigts ensuite), RCT sur soi (acquise par le travail, déc 2006 - été 2007), Sphère du Temps Infini, Sphère de l'Espace-Temps Infini avec Satoru (D4) ; façade à Tokyo : Chronokinésie présentée comme innée, Chronostase comme son aspect ; Kyoto et Hautes Instances savent tout, Eien crue docile | Naoya (jumeau symbiotique), Eien (parasite : Nisha s'en sait maîtresse, jamais geôlière - amie de façade jusqu'en 2015, souffre-douleur ensuite), Naobito (père), Satoru (rival puis époux) | deux sorts + domaine | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nisha.md (+ chrono_A, chrono_B, chrono_C, chrono_D ; relations : Nisha_relations_proches, _famille, _boulot, _eleves_tokyo)
 - Yukiko Kamo - second OC jouable, princesse Kamo, demi-sœur aînée de Noritoshi (née le 14 juin 1986), promo Kyoto 2005-2008 | Hémotropie (le carquois de Noritoshi), meilleure tisseuse du clan depuis Heian ; 12 doigts réels, façade Grade 2 | Noritoshi (dieu vivant), Utahime (couple dès nov 2005), jumeaux Zenin, Gakuganji | Hémotropie | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yukiko.md (+ chrono_A)
 - Eien - OC, parasite de Nisha, esprit maudit Grade Spécial millénaire, co-architecte du monde, †14 nov 2018 (Shinjuku : rembobine Yuji puis meurt en emportant la Chronokinésie) | Chronokinésie (cédée à l'hôte), Jardin des Ères Mortes, parasitisme par fœtus | Nisha (hôte : maîtresse qui s'ignore geôlière, amie jouée jusqu'en 2015 ; rapport inversé depuis, les visites), Kenjaku (amante, mille ans) | Chronokinésie | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Eien.md
 - Kenjaku - exorciste millénaire, co-architecte du monde | transfert de cerveau, sceaux | Eien (amant) ; vaisseaux : Noritoshi Kamo (Meiji), Kaori Itadori, Geto | sort de l'hôte courant | canon + [DIVERGENCE RP] (origine Kamo, couple Eien ; 22 doigts dans Suguru ; confie à Yukiko, le 7 nov 2018, avoir été l'architecte de la pureté Kamo et des sorts innés des clans ; tué par Nisha au palais Kamo le 8 nov 2018). detail: cf. WIKI Personnages/Kenjaku.md
@@ -282,4 +282,4 @@ Index détaillé page par page : cf. WIKI JJK/Sommaire.md
 
 ---
 
-FIN_BIBLE_B32
+FIN_BIBLE_B33
