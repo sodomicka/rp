@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W57
+- version : W58
 
 ## WIKI
 
@@ -28,7 +28,7 @@ Description : factions et groupes du monde.
 Description : fiches personnages du monde.
 - Nisha.md (W31) - fiche NOYAU de Nisha Zenin (OC, protagoniste, jumelle de Naoya, née le 30 jan 1987 dans l'aile des utérus), état <= 2005 : prénom donné par Naobito (août 1991), physique détaillé, tenue, objets récurrents (collier, carte bleue), Sort d'Inversion (RCT sur soi, acquis en ère A), visuel de la Sphère du Temps Infini, domaine commun du couple (Sphère de l'Espace-Temps Infini, D4) ; perte de la Chronokinésie (D4) ; façade (Tokyo : origine des sorts maquillée ; Kyoto et Hautes Instances savent tout) ; trajectoire datée scindée par ère -> Nisha_chrono_A.md, Nisha_chrono_B.md, Nisha_chrono_C.md, Nisha_chrono_D.md ; relations scindées par cercles -> série Nisha_relations_*.
 - Nisha_chrono_A.md (W12) - trajectoire datée de Nisha, ère A (2005-2008) : entrées A1 + A2 (dont l'acquisition de la RCT, déc 2006 - été 2007).
-- Nisha_chrono_B.md (W8) - trajectoire datée de Nisha, ère B (2008-2018) : entrées B1-B3 (famille de Saitama, resto à quatre 2013, trauma, guérison, Nuit des Cent Fleaux, réparation de Satoru).
+- Nisha_chrono_B.md (W9) - trajectoire datée de Nisha, ère B (2008-2018) : entrées B1-B3 (famille de Saitama, resto à quatre 2013, trauma, vingt semaines de déni, guérison et retour du désir, Nuit des Cent Fleaux, réparation de Satoru).
 - Nisha_relations_proches.md (W5) - tête de la série relations de Nisha (quatre pages par cercles ; extension de Nisha.md, sections Naoya/Eien condensées au profit de la série) : RÈGLES GÉNÉRALES transversales (vestige du "ma belle" post-2006, la fumeuse) + cercle des PROCHES (dont Naoya - appellatifs, rituels, seul jugement post-2015 - et Eien - deux régimes avant/après la bascule de 2015, putsch de 1997 maquillé).
 - Nisha_relations_famille.md (W7) - relations de Nisha, cercle FAMILLE : le clan par le sang (dont Naobito - le traître au crédo -, Jinichi, Ogi - appellatifs, contentieux, évolutions datées jusqu'au coup d'État D1 -) et la famille choisie du foyer de Saitama (Maki, Panda, Megumi routés ici, pas en _eleves_tokyo).
 - Nisha_chrono_C.md (W6) - trajectoire datée de Nisha, ère C (2018) : entrées C1 (le doigt, le verdict, le centre de détention, le mort caché à Saitama, l'Amicale ciblée) C2 (l'appel de Muta, le secret à deux, Takatsuki, départ pour Shibuya) et C3 (Shibuya la nuit, Yuta et Choso, la salle des Instances, Tengen).
@@ -132,9 +132,9 @@ Description : itinéraires par arc de Nisha, dans l'ordre de la saga. La roadmap
 - Roadmap_A0.md (W8) - Prologue (narré) : naissance des jumeaux 30 jan 1987 -> seuil du conseil Zenin 31 mars 2005 ; ~18 ans en vignettes.
 - Roadmap_A1.md (W9) - Le Transfert : seuil du conseil Zenin 31 mars 2005 -> veille de la rentrée 2006 ; 1 an d'immersion, six journées JOUÉES (dont la rentrée entière), sept étapes AU CHOIX (rapide ou classique : chantiers, Golden Week, première mission, été, après l'Amicale, les 19 ans de Satoru, clôture), cours des deux semestres, banque de tranches de vie.
 - Roadmap_A2.md (W11) - L'éveil et la chute : rentrée de 2e année 1 avr 2006 -> diplôme mars 2008 ; ~2 ans d'immersion, huit étapes JOUÉES (Hamamatsu, Toji, l'après, la doctrine, Yuki, les deux gouttes, la confrontation, la décision-enfants), treize AU CHOIX (cours 2A des deux semestres, l'hiver des un an, la 3e année sur le terrain, le nouvel an à trois, clôture), banque de tranches de vie.
-- Roadmap_B1.md (W6) - La Fondation : lendemain du diplôme, hiver 2008 -> resto à quatre, mars 2013 ; ~5 ans, une année par jalon.
-- Roadmap_B2.md (W8) - Le Trauma : rentrée sans élève, avr 2013 -> post-avortement, automne 2015 ; ~2 ans et demi, 2015 ramassé.
-- Roadmap_B3.md (W5) - Guérison et autre trauma : Yorozu, fin 2015 -> veille de la 1re mission solo de Megumi, juin 2018 ; ~2 ans et demi, seuil de l'ère C.
+- Roadmap_B1.md (W7) - La Fondation : lendemain du diplôme, hiver 2008 -> resto à quatre, mars 2013 ; ~5 ans, immersion (modes d'étape, cours de 2e année à Kyoto, Nitta et le rituel, foyer de Saitama, banque de tranches de vie).
+- Roadmap_B2.md (W9) - Le Trauma : rentrée sans élève, avr 2013 -> post-avortement, automne 2015 ; ~2 ans et demi, immersion (classes vides, nuit de noces, les vingt semaines de déni).
+- Roadmap_B3.md (W6) - Guérison et autre trauma : Yorozu, fin 2015 -> veille de la 1re mission solo de Megumi, juin 2018 ; ~2 ans et demi, immersion (retour du désir des deux côtés, relève de 2017 en quatre étapes, rituel de mars 2018), seuil de l'ère C.
 - Roadmap_C1.md (W3) - Le réceptacle : 1re mission solo de Megumi, juin 2018 -> lendemain de l'Amicale de Tokyo, sept 2018 ; ~3 mois, journées jouées aux temps forts.
 - Roadmap_C2.md (W4) - Takatsuki : lendemain de l'Amicale, sept 2018 -> départ de Takatsuki pour Shibuya, nuit du 31 oct 2018 ; ~6 semaines, journées jouées aux temps forts.
 - Roadmap_C3.md (W5) - Les conséquences : nuit du 31 oct 2018, Nisha arrive à Shibuya -> fin de la réunion chez Tengen, 1er nov 2018 midi ; ~14 heures, quatre temps joués.
