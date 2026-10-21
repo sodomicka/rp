@@ -1,13 +1,13 @@
 # Nisha Zenin - Chronologie datée, ère A (2005-2008)
 
-- version : W12
+- version : W13
 
 Extension de Personnages/Nisha.md, scindée pour le poids (Nisha = entité la plus dense du casting). Contient la TRAJECTOIRE DATÉE post-départ de Nisha pour l'ère A (1 avr 2005 -> hiver 2008) : ce qu'elle DEVIENT après le point de départ, événement par événement. Strate canon par défaut, télégraphique ; le détail vit dans les roadmaps. Build-side : fetchée à la demande, JAMAIS chargée en narration (la roadmap et le CODEX tiennent le contexte de jeu). Le NOYAU (identité, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005) reste dans Personnages/Nisha.md. Ères ultérieures : Nisha_chrono_B.md, etc.
 
 ## Trajectoire datée - ère A
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
-| 1 avr 2005 | Transfert à Tokyo (université d'exorcisme), promo des quatre prodiges ; chambre au campus en semaine, domaine un week-end sur deux. Satoru lui dit voir DEUX signatures en elle ; elle couvre (secret de clan) | quotidien jumeaux rompu ; entrée au classement officiel ; façade éprouvée dès le premier jour |
+| 1 avr 2005 | Transfert à Tokyo (université d'exorcisme), promo des quatre prodiges ; chambre au campus en semaine, domaine un week-end sur deux. Satoru lui dit voir DEUX signatures en elle ; plutôt que mentir, elle lui révèle Eien, sous serment de silence | quotidien jumeaux rompu ; entrée au classement officiel ; façade éprouvée dès le premier jour, Satoru seul dans le secret à Tokyo |
 | 2005-2008 (constante) | "La prouveuse" : corrige Yaga en plein cours sur la PAROLE de son clan, sans pièces - les archives écrites ne sortent pas du clan (récit fondateur, onryō, lignées) ; donne le savoir Zenin de vive voix quand le quatuor des prodiges révise le soir. Yaga écoute, apprend deux ou trois choses en se fiant à ses élèves de clans, mais ne change pas son programme | mécanisme de la friction initiale -> respect mutuel avec Yaga (cf. fiche Yaga) ; préfigure son enseignement du delta clanique (prof Kyoto, 2009+) |
 | 2005-2008 (chantier perso) | Chantier de Yaga : la PRÉCISION SUR CIBLES MULTIPLES - formée au clan à tuer du gros à Mach 4 (une cible, un projectile, fin), elle s'emmêle dès qu'il y en a vingt. Nuées de petits cadavres maudits, puissance BRIDÉE : une bille par cible, répartition et économie. À partir du 30 jan 2006, le collier-arsenal de Satoru devient l'instrument de l'exercice - 76 cibles, 76 tirs, zéro perdu. Ironie établie : contre Toji (2006), c'est l'exercice INVERSE qu'elle joue - le collier entier sur UNE cible, manquée de peu (cf. Pedagogie/Perso_Tokyo_2005-2008.md) | chantier perso : l'économie du tir ; le collier passe du bijou à l'instrument de cours |
 | mai-juin 2005 (A1_2quater) | Première mission du quatuor : voit Shoko rester à sa place, bascule vers l'amitié ; première cigarette, aux pauses clopes avec Shoko et Geto | Shoko amie ; l'habitude de la clope naît |

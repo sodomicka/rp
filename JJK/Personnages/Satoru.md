@@ -1,6 +1,6 @@
 # Satoru Gojo
 
-- version : W18
+- version : W19
 
 ## Identité
 - Nom : Satoru Gojo. Canon. Le guerrier parfait vivant du clan Gojo.
@@ -85,7 +85,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport à 
 ## Trajectoire datée
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
-| 1 avr 2005 | Rentrée à Tokyo. Ses Six Yeux, encore mal maîtrisés, voient DEUX signatures dans le corps de Nisha ; il le lui dit seul à seule, elle couvre (secret de clan). Il n'insiste pas et n'en parle à personne : il ne sait pas ce qu'il a vu | premier mystère Nisha ; respect des secrets de clan éprouvé |
+| 1 avr 2005 | Rentrée à Tokyo. Ses Six Yeux, encore mal maîtrisés, voient DEUX signatures dans le corps de Nisha ; il le lui dit seul à seule. Elle lui révèle Eien (la Chronokinésie lui vient d'elle) sous serment de silence ; il tient parole, sans se méfier du parasite | seul à Tokyo dans le secret d'Eien ; respect des secrets de clan éprouvé |
 | printemps 2005 | Ouvre les archives Gojo un week-end, par défi (cf. Psychologie) ; lâche au bout de quelques heures | les dossiers noirs restent intacts (symétrie-vaccin préservée) |
 | avr 2005 -> 2006 | Chantier perso de Yaga : l'INFINI EN RÉFLEXE - la barrière se dresse manuellement, alors Yaga le harcèle hors champ (cadavres maudits dans le dos, aux heures creuses) jusqu'à ce qu'elle précède la pensée. Le chantier meurt de lui-même à l'éveil de 2006 ; Yaga bascule sur l'inenseignable - regarder les autres. Échec établi : le couple ne voit pas Geto sombrer (cf. Pedagogie/Perso_Tokyo_2005-2008.md) | chantier perso : réflexe visé, rendu caduc par l'éveil ; la leçon humaine rate |
 | sept 2005 | Tournoi des Universités Jumelées (hôte Kyoto) J1 : bat Mei Mei ; tombe dans un piège de Yukiko Kamo, déjoue le Dragon à temps malgré le vampirisme, l'assomme une fois sorti ; bat Ranta ; éliminé par Nisha (qu'il a provoquée en insultant Naoya). J2 : bat Naoya ; juge quasi parfait le rideau qui prend Nisha. LIT le mécanisme du Dragon, le classe secret de clan et n'en dira rien - il ne vole pas la vedette et ne se mêle pas des clans | découvre que le lien jumeau de Nisha le dépasse ; premier contact avec sa seule égale en tissage (dès 2006) |

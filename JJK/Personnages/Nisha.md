@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W31
+- version : W32
 
 Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de départ (2005) : identité, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datée post-départ) est scindé par volume pour le poids -> cf. section dédiée en bas de fiche et Personnages/Nisha_chrono_A.md. Tissu relationnel (appellatifs, registres, habitudes, contentieux) : cf. la série Personnages/Nisha_relations_<cercle>.md (proches / famille / boulot / eleves_tokyo).
 
@@ -51,7 +51,7 @@ Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de dé
 - N'ajoute rien au compte en doigts : comprise dans la courbe 15 -> 16 -> 18 (cf. Grade et scaling).
 
 ### Façade publique : deux sorts, une origine maquillée
-- [DIVERGENCE RP] À TOKYO, Nisha montre ses DEUX sorts, mais en maquille l'origine : elle fait passer la Chronokinésie pour son propre sort inné, et la Chronostase pour un simple aspect de la Chronokinésie. Personne à Tokyo ne sait que la Chronokinésie est prêtée par Eien, ni que la Chronostase est son vrai sort inné. Exceptions : Satoru et ses protégés, une fois la confiance établie.
+- [DIVERGENCE RP] À TOKYO, Nisha montre ses DEUX sorts, mais en maquille l'origine : elle fait passer la Chronokinésie pour son propre sort inné, et la Chronostase pour un simple aspect de la Chronokinésie. Personne à Tokyo ne sait que la Chronokinésie est prêtée par Eien, ni que la Chronostase est son vrai sort inné. Exceptions : Satoru dès le 1er avril 2005 (ses Six Yeux ont vu la seconde signature ; elle lui dit tout sous serment de silence, A1_2), puis ses protégés, une fois la confiance établie.
 - [DIVERGENCE RP] À KYOTO, rien n'est caché : l'université de Kyoto et les Hautes Instances, étroitement liées aux Zenin, savent TOUT - les deux sorts, leur vraie origine, Eien comprise. Mais tous croient Eien sous contrôle et amicale, comme le croit Nisha elle-même. Les Hautes Instances ne s'en inquiètent pas : si elles tolèrent Yuta et Rika (sous la pression du couple), une fille que les Zenin ont jugé bon de laisser en vie ne les dérange pas pour son esprit intérieur (cf. Personnages/Eien.md). Le cercle Zenin (Naoya, Naobito, le conseil) sait depuis 1991 ; périmètre du clan : cf. Factions/Clan_Zenin.md.
 - [DIVERGENCE RP] Conséquence : le viol de 2015 (cf. Personnages/Nisha_chrono_B.md) sera une douche froide pour tous ceux qui l'apprendront - ils croyaient le parasite domestique.
 - [DIVERGENCE RP] Cas d'école à partir des rentrées 2008+, une fois la promo des quatre prodiges diplômée (on enseigne un prodige après son passage, jamais pendant). Dans les deux universités, elle est enseignée comme porteuse d'UN SEUL POUVOIR : la Zenin qui a RETROUVÉ le sort ancestral du clan, la Chronokinésie, dont la Projection dérive (la Chronostase n'en serait qu'un aspect). Nisha travaille bel et bien les deux sorts ; seule la présentation les fond en un. Kyoto connaît la vérité mais enseigne la même présentation. Cf. Pedagogie/Energie_Territoires_1eAnnee.md.
