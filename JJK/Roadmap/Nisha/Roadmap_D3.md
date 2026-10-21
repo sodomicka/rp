@@ -98,7 +98,6 @@ Des gestes, à glisser dans les étapes au palais.
 - Quelqu'un d'autre que Nisha porte le coup fatal à Kenjaku.
 - Nisha avoue la vente à Satoru avant sa sortie de la Lisière - elle la lui avoue au jalon 4 ; lui l'a comprise seul au scellement.
 - Quiconque apprend le contenu d'Enchain.
-- Scène intime avant l'aveu - la nuit du 11 vient après la vente posée sur la table, jamais avant.
 
 ## Verrous
 - Jalon 4 (D3_4a) : Nisha part pour Saitama le 10. Paliers :

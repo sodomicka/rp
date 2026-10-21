@@ -105,7 +105,6 @@ Pendant la veille seulement (D4_1).
 - Nisha quitte le front de Nozomu avant sa mort (protège la mort de Nozomu par les jumeaux et le rembobinage).
 - Quelqu'un d'autre que le couple tue Sukuna.
 - La Sphère de l'Espace-Temps Infini est préparée ou répétée avant le jalon 5.
-- Scène intime ailleurs que la veille d'armes, ou pendant la convalescence - Shoko exige du repos.
 
 ## Verrous
 - Jalon 4 (D4_4) : Nisha refuse de supplier Eien. Paliers :
