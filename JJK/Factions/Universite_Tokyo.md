@@ -1,6 +1,6 @@
 # Université d'Exorcisme de Tokyo
 
-- version : W6
+- version : W7
 
 Page = faction du monde (institution). Faits canon non balisés (niveau établi) ; couche RP balisée [DIVERGENCE RP]. Résumé condensé en BIBLE SB4.
 
@@ -23,7 +23,7 @@ Page = faction du monde (institution). Faits canon non balisés (niveau établi)
 [DIVERGENCE RP] sur le suivi de promo et le système "un référent par année" (le canon ne le formalise pas).
 
 ### 2005-2008
-- Masamichi Yaga : seul membre nommé de l'équipe pédagogique. Professeur. Suit la promo des quatre prodiges (Gojo, Geto, Shoko, Nisha) sur les trois années. Canon : en 2006 il est professeur de première année, pas encore principal.
+- Masamichi Yaga : seul membre nommé de l'équipe pédagogique. Professeur. Suit la promo des quatre prodiges (Gojo, Geto, Shoko, Nisha) sur les trois années ; pas encore principal. Professeur des 1res années de la promo 2006-2009 (Nanami, Haibara, Ijichi) : [INCERTAIN], non nommé.
 - Principal de Tokyo à cette date : [INCERTAIN] (le canon ne le nomme pas).
 
 ### 2009-2013

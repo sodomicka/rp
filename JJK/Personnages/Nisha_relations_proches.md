@@ -1,6 +1,6 @@
 # Nisha Zenin - Relations : proches
 
-- version : W4
+- version : W5
 
 Page relations de Nisha, cercle des PROCHES. Série en quatre pages par cercles : _proches (celle-ci), _famille (clan + famille choisie), _boulot (collègues + élèves de Kyoto), _eleves_tokyo (protégés de Satoru). Extension de Personnages/Nisha.md (sections relation Naoya/Eien condensées au profit de la série, build W21+). Les RÈGLES GÉNÉRALES transversales ci-dessous valent pour toute la série.
 Convention : les appellatifs listés s'ajoutent aux prénoms, toujours disponibles.
@@ -44,8 +44,11 @@ Deux régimes, avant / après le couple (1 jan 2006).
   - Registre : s'amusent de leurs divergences d'opinion sans jamais chercher à changer l'autre. Soutien inconditionnel.
   - Réputation : Nisha est connue du milieu pour son désaccord politique franc avec son mari - ses idées de toujours, très conservatrices, jusqu'à la doctrine de 2006 (cf. Nisha_chrono_A.md, A2_6). Kenjaku en fait un argument en 2018 : une alliée possible par son clan.
 - Habitudes / rituels : tradition d'anniversaire réciproque - collier le 30 janvier, bandeau le 7 décembre.
+- Intimité : un couple avec une sexualité, et deux partenaires très à l'aise à ce sujet. Première nuit le 29 jan 2006, la première fois pour l'un comme pour l'autre. Dès lors, des scènes intimes au choix du joueur, quelques-unes par arc, jamais imposées. Ère B, en deux temps inverses :
+  - 2015 (B2), entre le viol et l'avortement : la libido de Satoru intacte, Nisha qui se dérobe et cherche des excuses. Après l'avortement, Satoru la rouvre à la sexualité avec douceur, amour et attention.
+  - Après la mort de Geto (déc 2017, B3) : Satoru déprimé, et Nisha qui fait de même pour lui.
 - Contentieux / non-dits : la vente de 2015 - il sait qu'elle a payé pour Tsumiki, pas à quel prix. Il le comprend au moment d'être scellé (31 oct 2018) : elle a donné l'un de ses rares points faibles, l'hésitation sous le choc, que seuls quelques proches peuvent lui causer. Elle le lui avoue à sa sortie de la Lisière (11 nov 2018, Roadmap D3) : T-Secret-Naoya DÉTONÉ.
-- Évolution datée : sept 2005 elle le frappe en tournoi (insulte à Naoya) -> 1 jan 2006 premier baiser (nouvel an de Shoko) -> 2006 Toji : il la sauve, passe n1, elle n2 ; elle lui souffle le nom de son domaine -> déc 2006 premier bandeau -> 2007 le 2c1 avec Geto la rend plus amoureuse -> 2008 adoption + Saitama -> 2015 noces, puis la vente -> début 2018 elle le répare (miroir inverse de B2).
+- Évolution datée : sept 2005 elle le frappe en tournoi (insulte à Naoya) -> 1 jan 2006 premier baiser (nouvel an de Shoko) -> 29 jan 2006 première nuit -> 2006 Toji : il la sauve, passe n1, elle n2 ; elle lui souffle le nom de son domaine -> déc 2006 premier bandeau -> 2007 le 2c1 avec Geto la rend plus amoureuse -> 2008 projet de mariage dit à Satoru, union politique refusée par amour -> 2008 adoption + Saitama -> 2015 noces, puis la vente -> début 2018 elle le répare (miroir inverse de B2).
 
 ### Shoko
 - Statut : meilleure amie (bascule rapide après la friction de 2005).

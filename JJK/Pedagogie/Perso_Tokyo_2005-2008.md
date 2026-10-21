@@ -1,6 +1,6 @@
 # Enseignement personnalisé - Tokyo, promo 2005-2008
 
-- version : W5
+- version : W6
 
 Page = fiche d'enseignement personnalisé (dossier Pedagogie/). Une page par promotion à casting fiche ; ne couvre que les années tenues par un professeur du périmètre (ici Yaga, les trois ans). Cadre général (rythme, pôles, enseignement non noté) : cf. Pedagogie/Resume_Enseignements.md.
 
@@ -14,7 +14,7 @@ Page = fiche d'enseignement personnalisé (dossier Pedagogie/). Une page par pro
 - Vu par Yaga : formée au clan à tuer de gros fléaux par des tirs à Mach 4 - une cible, un projectile, fin. Dès qu'il y a vingt cibles, elle s'emmêle : trop de puissance par tir, pas assez de tirs.
 - Axe : précision sur cibles MULTIPLES.
 - Processus : Yaga fabrique des NUÉES de petits cadavres maudits autonomes et lui impose la puissance bridée - plus de Mach 4, une bille par cible, répartition et économie. À partir du 30 janvier 2006, le collier-arsenal de Satoru (76 billes de tungstène) devient l'instrument de l'exercice : 76 cibles, 76 tirs, zéro perdu.
-- Résultat : pas de jalon daté dans l'établi. Ce qui est établi est l'exercice INVERSE - contre Toji (2006), elle vide le collier entier sur UNE cible et le manque de peu (cf. Nisha_chrono_A.md).
+- Résultat : contre Toji (2006), elle joue l'exercice INVERSE - le collier entier sur UNE cible, manquée de peu. Au printemps 2007, en 3e année, le chantier se solde : la nuée de 76 cibles, 76 tirs, zéro perdu (cf. Nisha_chrono_A.md, Roadmap A2_7d).
 
 ## Satoru Gojo
 - Vu par Yaga : l'Infini se dresse MANUELLEMENT (cf. Personnages/Satoru.md, [INTERPRETATION]) - un temps de réaction, chez un élève qui ne prend rien au sérieux. On ne le touche pas ; on peut le surprendre.
