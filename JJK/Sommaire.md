@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W54
+- version : W55
 
 ## WIKI
 
@@ -26,8 +26,8 @@ Description : factions et groupes du monde.
 
 ### Personnages/
 Description : fiches personnages du monde.
-- Nisha.md (W29) - fiche NOYAU de Nisha Zenin (OC, protagoniste, jumelle de Naoya, née le 30 jan 1987 dans l'aile des utérus), état <= 2005 : prénom donné par Naobito (août 1991), physique détaillé, tenue, objets récurrents (collier, carte bleue), visuel de la Sphère du Temps Infini, domaine commun du couple (Sphère de l'Espace-Temps Infini, D4) ; perte de la Chronokinésie (D4) ; façade (Tokyo : origine des sorts maquillée ; Kyoto et Hautes Instances savent tout) ; trajectoire datée scindée par ère -> Nisha_chrono_A.md, Nisha_chrono_B.md, Nisha_chrono_C.md, Nisha_chrono_D.md ; relations scindées par cercles -> série Nisha_relations_*.
-- Nisha_chrono_A.md (W9) - trajectoire datée de Nisha, ère A (2005-2008) : entrées A1 + A2.
+- Nisha.md (W30) - fiche NOYAU de Nisha Zenin (OC, protagoniste, jumelle de Naoya, née le 30 jan 1987 dans l'aile des utérus), état <= 2005 : prénom donné par Naobito (août 1991), physique détaillé, tenue, objets récurrents (collier, carte bleue), Sort d'Inversion (RCT sur soi, acquis en ère A), visuel de la Sphère du Temps Infini, domaine commun du couple (Sphère de l'Espace-Temps Infini, D4) ; perte de la Chronokinésie (D4) ; façade (Tokyo : origine des sorts maquillée ; Kyoto et Hautes Instances savent tout) ; trajectoire datée scindée par ère -> Nisha_chrono_A.md, Nisha_chrono_B.md, Nisha_chrono_C.md, Nisha_chrono_D.md ; relations scindées par cercles -> série Nisha_relations_*.
+- Nisha_chrono_A.md (W10) - trajectoire datée de Nisha, ère A (2005-2008) : entrées A1 + A2 (dont l'acquisition de la RCT, déc 2006 - été 2007).
 - Nisha_chrono_B.md (W8) - trajectoire datée de Nisha, ère B (2008-2018) : entrées B1-B3 (famille de Saitama, resto à quatre 2013, trauma, guérison, Nuit des Cent Fleaux, réparation de Satoru).
 - Nisha_relations_proches.md (W4) - tête de la série relations de Nisha (quatre pages par cercles ; extension de Nisha.md, sections Naoya/Eien condensées au profit de la série) : RÈGLES GÉNÉRALES transversales (vestige du "ma belle" post-2006, la fumeuse) + cercle des PROCHES (dont Naoya - appellatifs, rituels, seul jugement post-2015 - et Eien - deux régimes avant/après la bascule de 2015, putsch de 1997 maquillé).
 - Nisha_relations_famille.md (W6) - relations de Nisha, cercle FAMILLE : le clan par le sang (dont Naobito - le traître au crédo -, Jinichi, Ogi - appellatifs, contentieux, évolutions datées jusqu'au coup d'État D1 -) et la famille choisie du foyer de Saitama (Maki, Panda, Megumi routés ici, pas en _eleves_tokyo).
@@ -112,13 +112,13 @@ Fiches de cours (niveau classique en plein, puis deltas avancé clanique et omni
 - Detection_Contention_2eAnnee_S1.md (W4) - rideaux conditionnels et complexes : runes, ancres fractales, chiralité, polarité, briser un rideau adverse, cas particuliers.
 - Detection_Contention_2eAnnee_S2.md (W3) - sceaux, confinement, grandes barrières.
 - Energie_Territoires_1eAnnee.md (W3) - S1 l'énergie occulte, flux et contrôle, S2 sorts innés.
-- Energie_Territoires_2eAnnee.md (W3) - S1 techniques avancées, S2 territoires.
+- Energie_Territoires_2eAnnee.md (W4) - S1 techniques avancées, S2 territoires.
 
 Leçon hors cursus (à usage MJ, rien à inventer) :
 - Traque_Meurtriere.md (W3) - leçon de Tengen aux Tombeaux (1er nov 2018, C3_4) : nature du jeu et huit règles de Kenjaku ; à usage MJ : règles 9 (Kashimo), 10 et 11 (Nisha), 12 (neutralité), les Kogane, la fin du jeu le 8 nov.
 
 Enseignement personnalisé (une page par promotion à casting fiché ; un chantier par élève, non noté ; section "ce que le professeur n'a pas vu" à usage MJ) :
-- Perso_Tokyo_2005-2008.md (W3) - promo des quatre prodiges (Nisha, Satoru, Geto, Shoko), Yaga sur les trois ans.
+- Perso_Tokyo_2005-2008.md (W4) - promo des quatre prodiges (Nisha, Satoru, Geto, Shoko), Yaga sur les trois ans.
 - Perso_Kyoto_2005-2008.md (W3) - promo de Naoya (Naoya, Ranta), Gakuganji sur les trois ans.
 - Perso_Kyoto_2011-2014.md (W2) - Akari Nitta, 2e année sous Nisha (2012-2013).
 - Perso_Kyoto_2016-2019.md (W2) - Todo, Noritoshi Kamo, Momo ; 2e année sous Nisha (2017-2018).
@@ -131,7 +131,7 @@ Enseignement personnalisé (une page par promotion à casting fiché ; un chanti
 Description : itinéraires par arc de Nisha, dans l'ordre de la saga. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).
 - Roadmap_A0.md (W8) - Prologue (narré) : naissance des jumeaux 30 jan 1987 -> seuil du conseil Zenin 31 mars 2005 ; ~18 ans en vignettes.
 - Roadmap_A1.md (W7) - Le Transfert : seuil du conseil Zenin 31 mars 2005 -> veille de la rentrée 2006 ; 1 an, six journées jouées.
-- Roadmap_A2.md (W9) - L'éveil et la chute : rentrée de 2e année 1 avr 2006 -> diplôme hiver 2008 ; ~2 ans, journées jouées aux jalons.
+- Roadmap_A2.md (W10) - L'éveil et la chute : rentrée de 2e année 1 avr 2006 -> diplôme hiver 2008 ; ~2 ans, journées jouées aux jalons.
 - Roadmap_B1.md (W6) - La Fondation : lendemain du diplôme, hiver 2008 -> resto à quatre, mars 2013 ; ~5 ans, une année par jalon.
 - Roadmap_B2.md (W8) - Le Trauma : rentrée sans élève, avr 2013 -> post-avortement, automne 2015 ; ~2 ans et demi, 2015 ramassé.
 - Roadmap_B3.md (W5) - Guérison et autre trauma : Yorozu, fin 2015 -> veille de la 1re mission solo de Megumi, juin 2018 ; ~2 ans et demi, seuil de l'ère C.

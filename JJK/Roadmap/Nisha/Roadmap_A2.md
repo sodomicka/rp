@@ -1,6 +1,6 @@
 # Roadmap A2 - L'éveil et la chute
 
-- version : W9
+- version : W10
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre
 - échelle temporelle : ~2 ans (1 avr 2006 -> diplôme, hiver 2008) ; journées jouées aux jalons, routines en [SNAPSHOTS] entre eux
@@ -29,6 +29,7 @@ Arc SEMI-PASSIF, le plus verrouillé de la saga : Riko meurt, Toji meurt, Satoru
 Fils transversaux, à faire SENTIR entre les jalons :
 - Week-ends au domaine : théâtre du harcèlement avant A2_6, du protectorat après ; l'empathie de Nisha qui sourd lentement.
 - Montée de Satoru après l'éveil : Rouge, Violet, maîtrise du domaine, qu'il nomme SPHÈRE DE L'ESPACE INFINI sur un nom soufflé par Nisha. Jamais clouée en une seule étape.
+- Le Sort d'Inversion de Nisha, de déc 2006 à l'été 2007 : leçon d'A2_5 (le domaine est un dernier recours qui la vide), elle travaille la RCT hors cours - Satoru la lui montre et l'explique de travers, Shoko lui en décrit la sensation. Sur elle seule, chère en énergie. Acquise avant août 2007, jamais clouée en une seule étape (cf. Personnages/Nisha_chrono_A.md).
 - Eien engrange en silence (amour, orgueil blessé), sans pouvoir agir. AUCUNE scène d'Eien en A2.
 - L'Amicale NE se tient PAS en A2, en filigrane : sept 2006, Kyoto (hôte, vainqueur 2005) refuse de servir de faire-valoir aux prodiges de Tokyo couronnés par Satoru, son effectif ratatiné depuis le diplôme de Mei Mei ; sept 2007, annulée - Tokyo trop instable depuis la mort de Riko, Satoru disqualifié d'office, personne n'a la tête à ça.
 - Zones créables : missions encadrées de 2e et 3e année, vie du trio après Geto, joutes Nisha/Geto avant la bascule, premiers pas de la cultivation des jumelles (7 à 9 ans).
@@ -64,7 +65,9 @@ Fils transversaux, à faire SENTIR entre les jalons :
 - Geto a déserté.
 - La vente conditionnelle de Megumi est annulée et le plan de Saitama ébauché.
 - Le trio est diplômé.
+- Nisha possède le Sort d'Inversion (sur soi) au diplôme, acquis avant août 2007.
 ### Interdits
+- Nisha manie la RCT avant ou pendant A2_5 - le domaine est son seul recours contre Toji et dans l'après immédiat, et c'est la leçon qui la pousse à l'apprendre.
 - Riko, Toji ou Haibara survivent, ou Nisha bat Toji - invariants canon ; l'éveil de Satoru, la doctrine et la bascule de Geto en dépendent.
 - Nisha retient Geto, le tue ou le livre - il est requis jusqu'à sa mort de la main de Satoru, le 24 décembre 2017 (Nuit des Cent Fléaux, ère B).
 - Nisha perçoit le jeu d'Eien ou s'en méfie - casserait la bascule de 2015 (B2).
@@ -95,7 +98,7 @@ Fils transversaux, à faire SENTIR entre les jalons :
 - Aucune. Règle globale du RP (jusqu'à contre-ordre du worldbuilder) : aucune roadmap ne se scinde en embranchement.
 
 ## Notes de frontière
-- État de sortie : Satoru n1 (23 doigts), Nisha n2 (18, apogée) ; Geto en exil, secte fondée ; Naoya tête du Hei ; postes de prof (Nisha à Kyoto, Satoru à Tokyo) ; jumelles sous protectorat ; doctrine armée dans chaque pôle ; faille d'Eien approfondie ; plan Megumi ébauché, vente annulée.
+- État de sortie : Satoru n1 (23 doigts), Nisha n2 (18, apogée), RCT sur soi acquise ; Geto en exil, secte fondée ; Naoya tête du Hei ; postes de prof (Nisha à Kyoto, Satoru à Tokyo) ; jumelles sous protectorat ; doctrine armée dans chaque pôle ; faille d'Eien approfondie ; plan Megumi ébauché, vente annulée.
 - Ère B (B1) : rencontre et adoption de Megumi et Tsumiki, famille de Saitama ; bascule d'Eien en 2015.
 
 ---

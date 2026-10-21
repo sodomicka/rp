@@ -1,6 +1,6 @@
 # Énergie et territoires - 2e année
 
-- version : W3
+- version : W4
 
 Page = fiche de cours (dossier Pedagogie/). Donne le niveau CLASSIQUE en plein, puis les deltas AVANCÉ CLANIQUE et OMNISCIENT VULGARISÉ. L'écart enseigné/vérité est cartographié en fin de page. Cadre général (rythme, barème, pôles) : cf. Pedagogie/Resume_Enseignements.md.
 
@@ -37,7 +37,7 @@ Trois sommets, trois avertissements. Le Sort d'Inversion, qu'on ne peut pas appr
 - Record enseigné : quatre Rayons Noirs consécutifs - Kento Nanami, front de Tokyo, Parade de décembre 2017 (cas d'école dès la rentrée 2018). Un prodige sur ce coup, et un Grade 1 pour le reste.
 
 ### Cas particuliers
-- Porteurs du Sort d'Inversion, par époque : Shoko (promo Tokyo 2005-2008, sur autrui) ; Satoru Gojo (sur soi et en retournement, dès 2006) ; dès 2016, un étudiant de Tokyo dont le domaine s'accompagne d'une inversion automatique - cité sans détail, cf. Personnages/Hakari.md.
+- Porteurs du Sort d'Inversion, par époque : Shoko (promo Tokyo 2005-2008, sur autrui) ; Satoru Gojo (sur soi et en retournement, dès 2006) ; Nisha Zenin (sur soi, dès 2007 - cas rare d'acquisition par l'étude, cité à partir des rentrées 2008) ; dès 2016, un étudiant de Tokyo dont le domaine s'accompagne d'une inversion automatique - cité sans détail, cf. Personnages/Hakari.md.
 - Serments célèbres : exercice d'analyse sur des serments documentés - ce qu'ils ont restreint, ce qu'ils ont payé, comment ils ont été retournés. Sans pratique : un serment engage pour de vrai.
 - Le Rayon Noir et le grade : un Grade 2 qui le réussit une fois n'est pas devenu Grade 1. C'est un événement, pas un niveau.
 
