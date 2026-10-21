@@ -1,8 +1,8 @@
-# Satoru Gojo - Chronologie datée, ère B (2008-2018)
+# Satoru Gojo - Chronologie datée, ères B à D (2008-2018)
 
 - version : W11
 
-Extension de Personnages/Satoru.md. Contient la TRAJECTOIRE DATÉE post-départ de Satoru pour l'ère B (hiver 2008 -> juin 2018). NB : l'ère A de Satoru reste dans Personnages/Satoru.md (Trajectoire datée non scindée à l'époque) ; scission de l'ère A optionnelle. Strate canon par défaut, télégraphique. Build-side : fetchée à la demande, JAMAIS chargée en narration. État : entrées B1 à B3 posées - ère B complète.
+Extension de Personnages/Satoru.md. Contient la TRAJECTOIRE DATÉE post-départ de Satoru pour les ères B, C et D (hiver 2008 -> nov 2018). Le nom de page garde le suffixe _B ; pas de scission prévue. NB : l'ère A de Satoru reste dans Personnages/Satoru.md (Trajectoire datée non scindée à l'époque) ; scission de l'ère A optionnelle. Strate canon par défaut, télégraphique. Build-side : fetchée à la demande, JAMAIS chargée en narration. État : ères B, C et D posées.
 
 ## Trajectoire datée - ère B
 | Date/ère | Événement | Delta d'état |
@@ -21,7 +21,7 @@ Extension de Personnages/Satoru.md. Contient la TRAJECTOIRE DATÉE post-départ 
 | début 2018 (B3) | EFFONDREMENT HUMAIN, plusieurs mois : appétit, désir, déconne - tout en berne (le clown s'éteint). RELEVÉ par la famille - Nisha en premier (miroir de B2 : cette fois c'est elle qui répare), les gosses, les jumelles - et par Shoko | brisé puis relevé ; symétrie de B2 accomplie |
 | avr-juin 2018 (B3) | Rentrée du 1 avr : Megumi entre dans sa classe à Tokyo (1re année). Chantier convenu avec Nisha : le TERRITOIRE du gamin, qu'il a déjà aperçu (le Jardin des Ombres). Satoru le FORCE en l'agressant avec la Sphère de l'Espace Infini - seul procédé connu au monde, résultat non garanti, et rare car épuisant des deux côtés ; entre deux tentatives, chantier ordinaire, se battre pour GAGNER. CLÔTURE ère B : la veille de la 1re mission solo de Megumi (juin 2018) - récupérer une relique de Grade Spécial dans une fac de Sendai (le doigt de Sukuna, fac de Yuji) | père-prof de Megumi ; seuil du canon 2018 -> ère C |
 
-## Trajectoire datée - ères C et D (PROVISOIRE dans cette page, cf. _Implications)
+## Trajectoire datée - ères C et D
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
 | juin 2018 (C1_1, C1_2) | Avec Nisha, arrive en un dixième de seconde sur Megumi prêt à invoquer Mahoraga ; teste le contrôle de Yuji (canon). Le prend dans sa classe sous le sursis obtenu par Nisha | professeur du réceptacle |

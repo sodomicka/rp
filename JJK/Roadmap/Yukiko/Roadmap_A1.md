@@ -1,6 +1,6 @@
 # Roadmap A1 - La Vipère à l'université
 
-- version : W4
+- version : W5
 - statut : à venir ; JOUABLE
 - prota / POV : Yukiko Kamo, plein cadre
 - échelle temporelle : 1 an (1 avr 2005 -> 31 mars 2006) ; quatre journées jouées (1 avr, J1 et J2 de l'Amicale, 1 jan), deux vignettes (début été, novembre), le reste en [SNAPSHOTS]
@@ -11,7 +11,7 @@
 - convention : jalons préfixés YA1_ (désambiguïsation vs les A1_ de Nisha)
 
 ## Intention
-Arc SEMI-PASSIF, miroir du A1 de Nisha et premier arc jouable de la saga côté Yukiko : le joueur tranche à l'intérieur de l'arc (décisions internes, ou durables mais mineures, sans impact sur le monde) ; l'issue des invariants reste figée. Les cours de 1re année se JOUENT sur les fiches Pédagogie ; l'enseignement personnalisé de Yukiko (Perso_Kyoto_2005-2008.md) est en build DIFFÉRÉ (principe validé : double étage, cf. _Implications), pointeur sec en attendant.
+Arc SEMI-PASSIF, miroir du A1 de Nisha et premier arc jouable de la saga côté Yukiko : le joueur tranche à l'intérieur de l'arc (décisions internes, ou durables mais mineures, sans impact sur le monde) ; l'issue des invariants reste figée. Les cours de 1re année se JOUENT sur les fiches Pédagogie ; l'enseignement personnalisé de Yukiko (Perso_Kyoto_2005-2008.md) est en build DIFFÉRÉ (principe validé : double étage, cf. Roadmap/Yukiko/chantier_yukiko.md), pointeur sec en attendant.
 
 ## Itinéraire (jalons)
 1. YA1_1 - La démo et la rentrée [1 avr 2005, une journée jouée, puis ~2 mois de routines]. Chiryu no Kyuden (7h), puis université de Kyoto. Yukiko a déjà briefé les serviteurs mandataires pour les nuits de semaine - et Nori (7 ans) la coupe dans ses dispositions : DÉMO du Lucky 7 tracé par cœur, seul, initiative secrète préparée pour la rentrée. Le petit génie libère les nuits de sa gardienne et rend le plan de secours obsolète sous ses yeux ; riche en émotions, la trappeuse peut partir sans crainte. Rentrée à Kyoto : trio reconstitué avec Naoya et Ranta (Naoya en leader, privé de sa jumelle le matin même) ; premier contact avec Gakuganji référent (une "modeste" Grade 2 de plus, pour quelques semaines) ; Utahime croisée en texture (2e année, aucun contact). Logistique : chambre au campus en semaine, palais le week-end, appel à Nori chaque soir - écho des appels du soir de Naoya à Nisha, deux héritiers pendus au téléphone. À planter : Lucky 7 autonome ; sandbagging en régime universitaire ; dévotion-physiologie aménagée, le campus devient soutenable. Clôt sur : le soupçon de Gakuganji qui mûrit.

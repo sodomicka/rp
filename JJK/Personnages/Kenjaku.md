@@ -31,7 +31,7 @@ Dans le monde, Kenjaku n'a d'autre apparence que celle de son vaisseau du moment
 
 ## Réalisations (canon, relues par le RP)
 - Peintures Mortes : comme Noritoshi, séquestre une femme porteuse d'hybrides, mêle le sang Kamo -> Choso, Eso, Kechizu. [DIVERGENCE RP] Choso coconçu avec Eien-dans-Nanao.
-- Yuji Itadori = projet : enfant conçu avec Jin Itadori - JIN est le jumeau réincarné de Sukuna (canon, ch. 257, vérifié en session ; conflit de versions SOLDÉ, cf. _Implications) - un doigt de Sukuna scellé en lui à la naissance -> réceptacle. Yuji = fils de la réincarnation : le neveu d'âme de Sukuna.
+- Yuji Itadori = projet : enfant conçu avec Jin Itadori - JIN est le jumeau réincarné de Sukuna (canon, ch. 257) - un doigt de Sukuna scellé en lui à la naissance -> réceptacle. Yuji = fils de la réincarnation : le neveu d'âme de Sukuna.
 - [DIVERGENCE RP] SCELLEMENT DE NOZOMU (ère Genroku) : Eien (doyenne Gojo) arrête l'esprit maudit et négocie ; Kenjaku le scelle dans une MARQUE dédiée, objet maudit contenant son âme - mécanisme DISTINCT de celui des incarnés de la Traque (sceaux gravés sur des humains, canon). Il garde la marque et son activation, puis la confie à Uraume pour Sukuna (date de la remise non fixée). Sukuna la refuse ; Uraume l'ingère et fait sauter le sceau à Shinjuku, le 14 nov 2018 (D4). Détail : cf. Personnages/Nozomu.md, Uraume.md, BIBLE SB7.
 
 ## La Lisière du Supplice

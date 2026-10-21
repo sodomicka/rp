@@ -1,8 +1,8 @@
-# Naoya Zenin - Chronologie datée, ère B (2008-2018)
+# Naoya Zenin - Chronologie datée, ères B à D (2008-2018)
 
 - version : W11
 
-Extension de Personnages/Naoya.md. Contient la TRAJECTOIRE DATÉE post-départ de Naoya pour l'ère B (hiver 2008 -> juin 2018). NB : l'ère A (A1+A2) reste dans Personnages/Naoya.md (Trajectoire datée non scindée à l'époque) ; scission de l'ère A optionnelle. Strate canon par défaut, télégraphique ; le détail vit dans les roadmaps. Build-side : fetchée à la demande, JAMAIS chargée en narration. État : entrées B1 à B3 posées - ère B complète.
+Extension de Personnages/Naoya.md. Contient la TRAJECTOIRE DATÉE post-départ de Naoya pour les ères B, C et D (hiver 2008 -> nov 2018). Le nom de page garde le suffixe _B ; pas de scission prévue. NB : l'ère A (A1+A2) reste dans Personnages/Naoya.md (Trajectoire datée non scindée à l'époque) ; scission de l'ère A optionnelle. Strate canon par défaut, télégraphique ; le détail vit dans les roadmaps. Build-side : fetchée à la demande, JAMAIS chargée en narration. État : ères B, C et D posées.
 
 ## Trajectoire datée - ère B
 | Date/ère | Événement | Delta d'état |
@@ -15,7 +15,7 @@ Extension de Personnages/Naoya.md. Contient la TRAJECTOIRE DATÉE post-départ d
 | 2015 (B2) | LE PIRE SECRET. Apprend la grossesse-trauma de Nisha : d'abord FOU DE RAGE qu'elle ait vendu Satoru pour une profane (les faibles servent les forts, pas l'inverse), puis il comprend la détresse de sa jumelle. Fait venir un médecin Zenin et lui PROMET l'apocalypse - sa mort et celle de toute sa famille - si le conseil apprend l'avortement (terreur pure, pas un marché). Avortement mené. Devient le SEUL dépositaire du secret de la vente (Satoru l'ignore) | loyauté absolue confirmée ; gardien du secret de la vente (T-Secret-Naoya planté -> ère C) |
 | 24 déc 2017 (B3) | NUIT DES CENT FLÉAUX, côté Kyoto : prévenu par Nisha, RAPPLIQUE AVEC LE CONSEIL. Massacre en SYMBIOSE avec sa jumelle à la vieille ville - fléaux ET maîtres des fléaux, aucun prisonnier (nuance : Tokyo épargne, Kyoto équarrit) | symbiose gémellaire éprouvée en guerre réelle ; le Hei et le conseil aux côtés de l'université de Kyoto |
 
-## Trajectoire datée - ères C et D (PROVISOIRE dans cette page, cf. _Implications)
+## Trajectoire datée - ères C et D
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
 | juil - sept 2018 (C1_4) | Dans le cercle du secret de Yuji, mort simulée | gardien d'un second secret |
