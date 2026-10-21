@@ -1,6 +1,6 @@
 # Juei no Ryochi
 
-- version : W1
+- version : W2
 
 Page = lieu : siege du clan Zenin. La residence existe au canon (reference visuelle : l'episode anime "Pietiner les roseaux" s'y deroule integralement) ; nom, implantation et l'essentiel du detail = [DIVERGENCE RP] (balise portee une fois ici, non repetee ligne a ligne). Etat decrit = structure atemporelle + point de depart du RP (2005). Devenir post-2005 -> roadmaps. Resume condense en BIBLE SB6 (prochain build).
 
@@ -35,6 +35,7 @@ Page = lieu : siege du clan Zenin. La residence existe au canon (reference visue
 ## Aile des uterus, aile des servantes
 - Aile DEDIEE aux uterus : les profanes pures accueillies le temps d'une grossesse - choyees comme un tresor, renvoyees apres l'accouchement, jamais inscrites aux registres (cf. Factions/Clan_Zenin.md, Les femmes du clan).
 - Mitoyenne de l'aile des servantes : reactivite maximale du service, a toute heure.
+- Lieu de naissance des jumeaux Nisha et Naoya (30 jan 1987).
 
 ## Non fixe
 - Quartiers des unites (Hei, Akashi, Kukuru) : presents dans l'enceinte, non detailles.

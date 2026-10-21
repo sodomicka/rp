@@ -1,15 +1,16 @@
 # Nisha Zenin
 
-- version : W28
+- version : W29
 
 Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de départ (2005) : identité, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datée post-départ) est scindé par volume pour le poids -> cf. section dédiée en bas de fiche et Personnages/Nisha_chrono_A.md. Tissu relationnel (appellatifs, registres, habitudes, contentieux) : cf. la série Personnages/Nisha_relations_<cercle>.md (proches / famille / boulot / eleves_tokyo).
 
 ## Identité
 - Nom : Nisha Zenin. OC. Protagoniste.
 - Jumelle de Naoya Zenin (aînée de 3 minutes). Fille de Naobito Zenin.
-- Naissance : 30 janvier 1987. Même cohorte universitaire que Gojo (déc 1986), Geto (fév 1987), Shoko.
+- Naissance : 30 janvier 1987, dans l'aile des utérus du domaine (cf. Lieux/Juei_no_Ryochi.md). Même cohorte universitaire que Gojo (déc 1986), Geto (fév 1987), Shoko.
 - [DIVERGENCE RP] Naoya n'a pas de jumelle dans le canon. Nisha = divergence racine.
 - Seule femme du clan reconnue "vraie Zenin" (ni servante ni utérus), par sa force.
+- [DIVERGENCE RP] PRÉNOM : non nommée à la naissance (convention de nommage, cf. Factions/Clan_Zenin.md). Naobito lui donne le prénom de Nisha quand elle en mérite un, à l'éveil de la Chronostase (août 1991), en la laissant au seau : un nom, pas encore un statut.
 
 ## Physique
 - Double féminin de Naoya : grande, fine, blonde dorée ; cheveux longs et raides, raie au milieu, lâchés jusqu'aux reins.
@@ -126,9 +127,9 @@ Fiche propre : cf. Personnages/Naoya.md. Tissu relationnel (appellatifs, registr
 ## Chronologie noyau (jusqu'au point de départ, 2005)
 | Date | Jalon |
 |---|---|
-| 30 jan 1987 | Naissance des jumeaux. Naobito déçu d'avoir une fille ; la planifie comme servante de Naoya. |
+| 30 jan 1987 | Naissance des jumeaux, aile des utérus. Naoya nommé sur-le-champ, la fille non. Naobito déçu d'avoir une fille ; la planifie comme servante de Naoya. |
 | 30 jan 1991 | Eien se révèle à Nisha (4 ans), offre la Chronokinésie. Naobito envisage de la renier ou de l'exécuter. Naoya la défend. |
-| août 1991 | Éveil des innés : Naoya la Projection, Nisha la Chronostase. Eien commence à craindre pour sa suprématie. |
+| août 1991 | Éveil des innés : Naoya la Projection, Nisha la Chronostase. Naobito lui donne son prénom, Nisha. Eien commence à craindre pour sa suprématie. |
 | 29 fév 1992 | Repas clanique Kamo/Zenin (Hautes Instances de Kyoto, chaque 29 février) : les jumeaux (5 ans) rencontrent Yukiko Kamo (5 ans). Nisha, encore en éducation servante, assise juste à côté de Naoya, qui n'a jamais toléré qu'on la mette ailleurs. (Trois rencontres d'enfance, trois Yukiko - leurres en 1992, masque flairé en 1996, masque tombé en 2000 : cf. Personnages/Yukiko.md.) Éditions suivantes (1996, 2000, 2004) : cf. Roadmap/Nisha/Roadmap_A0.md (fils transversaux). |
 | 1995 | Nisha étend son territoire (Sphère du Temps Infini, 8 ans). Fin du statut servile, devient favorite de Naobito. |
 | 1997 | Putsch d'Eien (10 ans) : tenté, ÉCHOUÉ - INVISIBLE pour Nisha, qui n'en perçoit qu'un vertige et une proximité immense (un instant de cerveau partagé), qu'Eien explique comme le signe de l'âge où elles deviennent vraiment meilleures amies. L'échec ARRACHE à Eien l'accès à ses pouvoirs : Nisha commande désormais pleinement les deux sorts. Faite Grade Spécial 1 - motif : le fléau en elle est une alliée inconditionnelle, plus une menace. |

@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W53
+- version : W54
 
 ## WIKI
 
@@ -16,7 +16,7 @@ Description : cosmogonie fondatrice du monde.
 
 ### Factions/
 Description : factions et groupes du monde.
-- Clan_Zenin.md (W16) - clan Zenin (structure atemporelle, point de départ 2005, bascules durables de l'ère D) : nature et ethos, iconographie (kamon Dix Ombres, gris moyen + violet, tenue d'ancien), lignée dirigeante (arbre), convention de nommage, statuts des femmes, unités (Hei / Akashi / Kukuru), Restriction Céleste dans le clan ; archives (signature gémellaire, dossier Toji, accès post-départ de Megumi et Tsumiki avec droit de regard Okaruto) ; secrets de clan (anti-domaine, secret d'Eien, désastre de Tenpō côté Zenin).
+- Clan_Zenin.md (W17) - clan Zenin (structure atemporelle, point de départ 2005, bascules durables de l'ère D) : nature et ethos, iconographie (kamon Dix Ombres, gris moyen + violet, tenue d'ancien), lignée dirigeante (arbre), convention de nommage, statuts des femmes, unités (Hei / Akashi / Kukuru), Restriction Céleste dans le clan ; archives (signature gémellaire, dossier Toji, accès post-départ de Megumi et Tsumiki avec droit de regard Okaruto) ; secrets de clan (anti-domaine, secret d'Eien, désastre de Tenpō côté Zenin).
 - Clan_Gojo.md (W8) - clan Gojo : iconographie (six tomoe = Six Yeux, blanc + bleu roi, tenue d'ancien), ethos (culte du guerrier parfait, "Le pouvoir sait se montrer quand les temps l'exigent"), gouvernance (conseil d'anciens sous l'autorité du guerrier parfait), branches (Sugawara/Gojo, Fujiwara/Okkotsu), place de Satoru, liens inter-clans ; abstention de la violence infantile - VÉRITÉ DE LA DOUCEUR (cicatrice Nozomu, bascule cruauté -> surprotection, terreur aveugle), mécanique de l'éveil du guerrier parfait (règle des yeux, porteurs connus : Nozomu, le Parfait de Tenpō, Satoru), désastre de Tenpō, dossiers noirs des archives.
 - Clan_Kamo.md (W10) - clan Kamo : ethos et credo, légende fondatrice et nommage (son "yuki" des filles, racine "nori" des garçons), sort élu et succession amendée (indifférence radicale, titres Prince/Princesse, branche secondaire, règle des bâtards), lignée dirigeante 2005 (Noriaki, Fubuki, Yasashiku, Yukiko, Noritoshi) et matriarcat de fait, gouvernance par émissaires (précédent Meiji), ères C-D (Kenjaku maître du clan, gambit de Yukiko, Nori patriarche le 8 nov 2018), iconographie (ensō + goutte, anthracite + rouge, pivoine), archives, rideaux fractals et Dragon (record 1998), faits d'armes (Sakushu Sha), formation interne (carve-out lignée dirigeante), section Noritoshi, branches et greffes, Restriction Céleste (Mechamaru), place dans le focus ; repas bissextiles et siège : pointeurs.
 - Hautes_Instances.md (W7) - les hautes instances : sommet conservateur sans visage au-dessus des universités, 10 membres (5 par université : 3 clans + 2 indépendants), tous Grade Spécial 1, Gakuganji seul visage public ; pacte fondateur État/familles (Meiji, neuf articles) ; organisent les repas claniques bissextiles Kamo/Zenin (29 fév), où Gakuganji siège ès qualités depuis sa prise de poste.
@@ -26,7 +26,7 @@ Description : factions et groupes du monde.
 
 ### Personnages/
 Description : fiches personnages du monde.
-- Nisha.md (W28) - fiche NOYAU de Nisha Zenin (OC, protagoniste, jumelle de Naoya, née le 30 jan 1987), état <= 2005 : physique détaillé, tenue, objets récurrents (collier, carte bleue), visuel de la Sphère du Temps Infini, domaine commun du couple (Sphère de l'Espace-Temps Infini, D4) ; perte de la Chronokinésie (D4) ; façade (Tokyo : origine des sorts maquillée ; Kyoto et Hautes Instances savent tout) ; trajectoire datée scindée par ère -> Nisha_chrono_A.md, Nisha_chrono_B.md, Nisha_chrono_C.md, Nisha_chrono_D.md ; relations scindées par cercles -> série Nisha_relations_*.
+- Nisha.md (W29) - fiche NOYAU de Nisha Zenin (OC, protagoniste, jumelle de Naoya, née le 30 jan 1987 dans l'aile des utérus), état <= 2005 : prénom donné par Naobito (août 1991), physique détaillé, tenue, objets récurrents (collier, carte bleue), visuel de la Sphère du Temps Infini, domaine commun du couple (Sphère de l'Espace-Temps Infini, D4) ; perte de la Chronokinésie (D4) ; façade (Tokyo : origine des sorts maquillée ; Kyoto et Hautes Instances savent tout) ; trajectoire datée scindée par ère -> Nisha_chrono_A.md, Nisha_chrono_B.md, Nisha_chrono_C.md, Nisha_chrono_D.md ; relations scindées par cercles -> série Nisha_relations_*.
 - Nisha_chrono_A.md (W9) - trajectoire datée de Nisha, ère A (2005-2008) : entrées A1 + A2.
 - Nisha_chrono_B.md (W8) - trajectoire datée de Nisha, ère B (2008-2018) : entrées B1-B3 (famille de Saitama, resto à quatre 2013, trauma, guérison, Nuit des Cent Fleaux, réparation de Satoru).
 - Nisha_relations_proches.md (W4) - tête de la série relations de Nisha (quatre pages par cercles ; extension de Nisha.md, sections Naoya/Eien condensées au profit de la série) : RÈGLES GÉNÉRALES transversales (vestige du "ma belle" post-2006, la fumeuse) + cercle des PROCHES (dont Naoya - appellatifs, rituels, seul jugement post-2015 - et Eien - deux régimes avant/après la bascule de 2015, putsch de 1997 maquillé).
@@ -94,7 +94,7 @@ Description : fiches personnages du monde.
 ### Lieux/
 Description : lieux du monde.
 - Chiryu_no_Kyuden.md (W1) - siège du clan Kamo ("le palais du dragon de sang"), Kibune, nord de Kyoto : palais ostentatoire, salle du trône (repas bissextiles ; empoisonnement de Fubuki au nouvel an 1992 ; rencontres d'enfance Yukiko/jumeaux), pavillon des archives, chambre de Yukiko ; ancienneté et plan des autres ailes NON FIXÉS.
-- Juei_no_Ryochi.md (W1) - siège du clan Zenin ("le domaine des Dix Ombres"), montagnes à l'est de Kyoto, mille marches : salle du conseil-dojo, archives façon kura, chambre des jumeaux, aile des utérus ; quartiers des unités et entrepôt d'outils maudits NON FIXÉS.
+- Juei_no_Ryochi.md (W2) - siège du clan Zenin ("le domaine des Dix Ombres"), montagnes à l'est de Kyoto, mille marches : salle du conseil-dojo, archives façon kura, chambre des jumeaux, aile des utérus ; quartiers des unités et entrepôt d'outils maudits NON FIXÉS.
 
 ### Power_Scaling/
 Description : système de puissance de l'univers.

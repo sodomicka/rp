@@ -12,7 +12,7 @@
   note: les tampons OOC (§5) et interdits (§6) utilisent [V<n>], pas la date.
 - codex_version: V2
 - plafond: 33 000 car. (barème : min(30 000 + 3 000 x (N-1), 90 000))
-- taille au build: 18 720 car. (57 % du plafond(N))
+- taille au build: 18 219 car. (55 % du plafond(N))
 - thread source: Partie JJK : prologue A0 | cmsg_01MY5EoYgecDdhQvUijNYPy6FbmTS5fayWfiottDXnP3JD
 - spec au build: SPEC_CODEX v8.10 (source: GitHub)
 - bible_lore: BIBLE_LORE_JJK.md
@@ -31,7 +31,7 @@
 Source vivante de l'INSTANCE jouée : ICI + Parties/Suivi pour la backstory froide. Entité de lore : cf. WIKI Personnages/Nisha.md.
 
 **§3a Invariants (chaud, stables, changent rarement)**
-- Nom / alias : Nisha Zenin. Prénom donné par Naobito à l'éveil de la Chronostase (août 1991). Naoya : Nini, ma moitié, grande sœur. Aînée de 3 minutes.
+- Nom / alias : Nisha Zenin. Prénom donné par Naobito en août 1991 (cf. WIKI Personnages/Nisha.md). Naoya : Nini, ma moitié, grande sœur. Aînée de 3 minutes.
 - Nature corporelle : corps propre, habité par un parasite (Eien) logé depuis le fœtus.
 - Perception par PNJ : standard. Eien sans apparence au monde ; perçue en for intérieur seulement. Naobito sent « deux choses » en posant la paume sur son crâne. Cercle Zenin informé dès 1991.
 - Description physique (2005) : double féminin de Naoya ; grande, fine, blonde dorée, cheveux raides jusqu'aux reins, raie au milieu ; yeux bruns en amande, regard en coin, sourire en coin hautain ; musculature sèche. Poitrine bandée chaque matin (trois tours, épingle sous l'aisselle). Tenue noire sobre, veste à col officier.
@@ -70,8 +70,6 @@ Source vivante de l'INSTANCE jouée : ICI + Parties/Suivi pour la backstory froi
 - [V1] - Registre sexuel : rien de bloqué. Ce qui se narre se narre ; sinon, figure de style. Cœur non narrable : ellipse, reprise aux conséquences. | ANNEXE_STYLE
 - [V1] - Protagoniste unique : Nisha. Yukiko Kamo n'est qu'un PNJ dans cette partie. | ANNEXE_PNJ
 - [V1] - Trame : les roadmaps se jouent telles que prévues. | ANNEXE_CHRONO
-- [V2] - Prénom : Naobito nomme Nisha à l'éveil de la Chronostase (août 1991). Avant, personne ne la nomme. | §3a
-- [V2] - Nisha formatée Zenin jusqu'à « R1 » [INCERTAIN - A1 ?] : le joueur ne la teinte pas. | §3a
 
 ### §6 Interdits accumulés
 - [V1] - Nozomu : sa mort reste hors champ, jamais nommée dans sa nature, jamais détaillée, jamais magnifiée ; sa doctrine n'est jamais romantisée. Même retenue pour toute fin de vie choisie.
@@ -110,9 +108,6 @@ Fiches complètes : cf. WIKI Personnages/<Nom>.md. Ici : voix, rapport à Nisha,
 
 ## [ANNEXE_LORE - buffer divergences fraiches]
 
-- Prénom de Nisha donné par Naobito à l'éveil de la Chronostase, août 1991 (cf. §5). Absent des fiches.
-- Naissance dans l'aile des utérus de Juei no Ryochi (choix MJ, joué).
-- Carte de majorité (30 jan 2005) : acier damas anthracite veiné de violet, kamon gravé ; compte commun aux jumeaux.
 - Jinichi cesse d'entraîner les jumeaux à l'été 2000.
 
 ---
