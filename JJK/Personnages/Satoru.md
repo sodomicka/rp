@@ -1,6 +1,6 @@
 # Satoru Gojo
 
-- version : W17
+- version : W18
 
 ## Identité
 - Nom : Satoru Gojo. Canon. Le guerrier parfait vivant du clan Gojo.
@@ -60,7 +60,7 @@ Satoru vaut alors 12 doigts (~31 % de Sukuna), pré-éveil. État globalement CA
 ## Nisha - relation
 Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport à Nisha.
 - [DIVERGENCE RP] Friction flirteuse - parce qu'il ne prend rien au sérieux, elle y compris. Sauf que, pour la première fois en dix-huit ans de divinité, il tombe sur PLUS FORT que lui : Nisha est plus forte, plus rapide, plus efficace, ironiquement plus disciplinée - et aussi arrogante que lui.
-- Le projet de mariage Nisha-Satoru est une ambition du seul conseil Zenin (cf. Factions/Clan_Gojo.md). Satoru l'IGNORE - et cela ne change rien à son comportement.
+- Le projet de mariage Nisha-Satoru est une ambition du seul conseil Zenin (cf. Factions/Clan_Gojo.md). Satoru l'IGNORE jusqu'à ce que Nisha le lui dise (fév-mars 2008, A2_11) : le couple renonce alors à l'union politique, par amour.
 - [DIVERGENCE RP] Après l'éveil, le rapport de force s'inverse (il passe n1, elle n2) sans rompre le couple : il reste celui qu'elle a devancé, elle reste sa mesure. Tradition d'anniversaire réciproque établie (collier 30 jan / bandeau 7 déc).
 - Dynamique fine et plot du mariage -> roadmap.
 
@@ -90,14 +90,16 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport à 
 | avr 2005 -> 2006 | Chantier perso de Yaga : l'INFINI EN RÉFLEXE - la barrière se dresse manuellement, alors Yaga le harcèle hors champ (cadavres maudits dans le dos, aux heures creuses) jusqu'à ce qu'elle précède la pensée. Le chantier meurt de lui-même à l'éveil de 2006 ; Yaga bascule sur l'inenseignable - regarder les autres. Échec établi : le couple ne voit pas Geto sombrer (cf. Pedagogie/Perso_Tokyo_2005-2008.md) | chantier perso : réflexe visé, rendu caduc par l'éveil ; la leçon humaine rate |
 | sept 2005 | Tournoi des Universités Jumelées (hôte Kyoto) J1 : bat Mei Mei ; tombe dans un piège de Yukiko Kamo, déjoue le Dragon à temps malgré le vampirisme, l'assomme une fois sorti ; bat Ranta ; éliminé par Nisha (qu'il a provoquée en insultant Naoya). J2 : bat Naoya ; juge quasi parfait le rideau qui prend Nisha. LIT le mécanisme du Dragon, le classe secret de clan et n'en dira rien - il ne vole pas la vedette et ne se mêle pas des clans | découvre que le lien jumeau de Nisha le dépasse ; premier contact avec sa seule égale en tissage (dès 2006) |
 | 1 jan 2006 | Se déclare à Nisha (encore sous elle au classement, pré-éveil), accepté | couple formé |
+| 29 jan 2006 | Première nuit avec Nisha, la première fois pour tous les deux | couple consommé |
 | 30 jan 2006 | Offre à Nisha le collier-arsenal (coquetterie déguisée en batterie cinétique) ; premier collier du rituel annuel du 30 janvier | -- |
 | printemps 2006 | Mission boucle (manoir hanté, Hamamatsu) : frime pour Nisha et DÉMOLIT le manoir ; puis escorte du Plasma Stellaire (Riko Amanai) avec Geto, double consigne escorter / effacer (cf. Roadmap A2_2-A2_4) | climb compétitif -> 14 doigts (pré-Toji) |
 | 2006 | PIVOT TOJI (A2_4) : à l'approche de chez Tengen, relâche sa garde -> Toji le frappe et le tue (presque). RESSUSCITÉ par RCT sur son propre cerveau -> ÉVEIL. Sauve Nisha in extremis, achève un Toji mortellement blessé (qui évoque Megumi avant de mourir) | éveil : débloque RCT, Rouge, Violet, Infini passif et permanent, maîtrise des Six Yeux, déploiement du domaine -> 23 doigts ; passe n1 mondial (Nisha -> n2) ; quitte les lunettes rondes pour des bandages enroulés |
 | 2006 (jours suivants) | Sort de l'éveil transfiguré et propulsé au sommet mondial ; veille sur Nisha pendant sa dé-blessure dans son territoire | gardé HUMAIN par Nisha (ancre affective) : reste plus humain que dans le canon |
-| 2006-2008 | Maîtrise post-éveil déployée en toile de fond (jamais un seul beat) : développe le Rouge, le Violet, et l'extension de son domaine, qu'il finit par nommer la SPHÈRE DE L'ESPACE INFINI (nom soufflé par Nisha, écho de la Sphère du Temps Infini) | arsenal Infini complet ; domaine déployable et nommé ; postérité pédagogique : il entrera au programme des rentrées 2008+, une fois la promo diplômée, comme cas d'école du Sort d'Inversion - versant RCT SUR SOI et retournement de sort, en regard de Shoko qui illustre le versant sur autrui (cf. Pedagogie/Energie_Territoires_1eAnnee.md) |
+| 2006-2008 | Maîtrise post-éveil déployée en toile de fond (jamais un seul beat) : développe le Rouge, le Violet, et l'extension de son domaine, qu'il finit par nommer la SPHÈRE DE L'ESPACE INFINI (nom soufflé par Nisha à l'automne 2006, au cours de Territoires, A2_6ter ; écho de la Sphère du Temps Infini) | arsenal Infini complet ; domaine déployable et nommé ; postérité pédagogique : il entrera au programme des rentrées 2008+, une fois la promo diplômée, comme cas d'école du Sort d'Inversion - versant RCT SUR SOI et retournement de sort, en regard de Shoko qui illustre le versant sur autrui (cf. Pedagogie/Energie_Territoires_1eAnnee.md) |
 | 7 déc 2006 | Naissance de la tradition d'anniversaire RÉCIPROQUE : Nisha lui offre un vrai bandeau de qualité, en écho au collier du 30 janvier ; renouvelé chaque 7 décembre | le bandeau remplace les bandages enroulés (accessoire diégétique, SB7) |
 | 2006-2007 | Couple avec Nisha trop absorbé l'un par l'autre pour voir Geto sombrer (moteur tragique central : ce qui le garde humain est exactement ce qui lâche Geto) | aveuglement affectif |
 | fin 2007 | Après le massacre du village par Geto : refuse d'entendre ses raisons (là où Nisha et Shoko acceptent d'écouter) et vient le confronter dans la rue (A2_9) ; le laisse partir, incapable de tuer son meilleur ami | perte de Geto consommée (défection) |
+| fév-mars 2008 (A2_11) | Apprend de Nisha le projet de mariage du conseil Zenin ; le couple renonce à l'union politique par amour (qu'elle ne soit pas une marchandise) | union politique refusée (-> noces d'amour, 2015) |
 | hiver 2008 | Diplômé avec Nisha et Shoko (Geto absent, en exil) ; nommé PROF à l'université de Tokyo (pôle progressiste), poste effectif à la rentrée 2009 (cf. Satoru_chrono_B.md) | bascule ère B : n1 mondial, enseignant à Tokyo |
 
 ## Notes de frontière (reporté hors de cette fiche neutre)

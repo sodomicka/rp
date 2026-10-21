@@ -1,6 +1,6 @@
 # Toji Fushiguro
 
-- version : W8
+- version : W9
 
 Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (TERMINAL en A2 : mort en 2006).
 
@@ -45,7 +45,7 @@ Fiche noyau + Trajectoire datee. Canon + RP. Faits canon non balises ; couche RP
 ## Posterite documentaire
 [DIVERGENCE RP]
 - ARCHIVES ZENIN : le clan conserve le dossier COMPLET de son cas - identite, croisement Gojo x Zenin, absence totale de perception occulte, parade profane. Rien n'en sort. Cf. Factions/Clan_Zenin.md.
-- UNIVERSITES : hors du clan, Toji ne circule que sous forme de CAS D'ECOLE ANONYME. La designation est enseignee, jamais l'identite ni l'affiliation. Deux entrees au programme, posthumes : rentree 2006 en Energie et territoires (1re annee), ou son cas fait BASCULER la doctrine de la Restriction Celeste - d'infirmite lue dans les manuels a corps et instinct decuples en contrepartie du vide ; rentree 2007 en Detection et contention (1re annee), sous la designation du "ZERO ABSOLU" - menace a energie nulle, invisible a toute perception occulte, parade profane obligatoire. Cf. Pedagogie/Energie_Territoires_1eAnnee.md et Pedagogie/Detection_Contention_1eAnnee.md.
+- UNIVERSITES : hors du clan, Toji ne circule que sous forme de CAS D'ECOLE ANONYME. La designation est enseignee, jamais l'identite ni l'affiliation. Deux entrees au programme, posthumes : des le S1 2006, apres sa mort, en Energie et territoires (1re annee), ou son cas fait BASCULER la doctrine de la Restriction Celeste - d'infirmite lue dans les manuels a corps et instinct decuples en contrepartie du vide ; rentree 2007 en Detection et contention (1re annee), sous la designation du "ZERO ABSOLU" - menace a energie nulle, invisible a toute perception occulte, parade profane obligatoire. Cf. Pedagogie/Energie_Territoires_1eAnnee.md et Pedagogie/Detection_Contention_1eAnnee.md.
 - Ironie : le monde enseigne desormais a se defendre de lui sans savoir de qui il parle, et le seul endroit ou son nom est ecrit est le clan qui l'a jete.
 
 ## Notes de frontiere (hors noyau)

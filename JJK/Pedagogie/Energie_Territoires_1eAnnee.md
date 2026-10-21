@@ -1,6 +1,6 @@
 # Énergie et territoires - 1re année
 
-- version : W3
+- version : W4
 
 Page = fiche de cours (dossier Pedagogie/). Donne le niveau CLASSIQUE en plein, puis les deltas AVANCÉ CLANIQUE et OMNISCIENT VULGARISÉ. L'écart enseigné/vérité est cartographié en fin de page. Cadre général (rythme, barème, pôles) : cf. Pedagogie/Resume_Enseignements.md.
 
@@ -27,7 +27,7 @@ Tout humain fabrique de l'énergie occulte et la perd. Les fléaux naissent de c
 
 ### Cas particuliers
 - Les filets : des porteurs d'un filet minimal d'énergie sans sort inné (cf. Detection 1A-S1). Assez pour tisser, voir un peu, soutenir ; pas pour combattre. Voie de la filière manager.
-- Le vide d'énergie - PAR ÉPOQUE. Rentrées pré-2006 : le cas existe dans les manuels comme curiosité - des individus naissent avec un VIDE d'énergie occulte, moins qu'un profane, sans que nul y voie autre chose qu'une infirmité. Dès la rentrée 2006 (cas d'école du Tueur d'Exorcistes, désigné sans nom - cf. Detection 1A-S1) : le vide est admis comme RESTRICTION CÉLESTE - un corps et un instinct décuplés en contrepartie de l'énergie nulle. Doctrine identique dans les deux universités. Dès 2017, cas vivant en amphi à Tokyo : Maki Zenin, 1re année sous Satoru.
+- Le vide d'énergie - PAR ÉPOQUE. Rentrées pré-2006 : le cas existe dans les manuels comme curiosité - des individus naissent avec un VIDE d'énergie occulte, moins qu'un profane, sans que nul y voie autre chose qu'une infirmité. Dès le S1 2006, après sa mort (cas d'école du Tueur d'Exorcistes, désigné sans nom - cf. Detection 1A-S1) : le vide est admis comme RESTRICTION CÉLESTE - un corps et un instinct décuplés en contrepartie de l'énergie nulle. Doctrine identique dans les deux universités. Dès 2017, cas vivant en amphi à Tokyo : Maki Zenin, 1re année sous Satoru.
 - Le rendement parfait : certains sorts ou dons rendent la dépense presque nulle - cas limite cité sans détail en 1re année, le porteur enseignant lui-même à Tokyo post-2009.
 
 ### Évaluation S1 (septembre)
