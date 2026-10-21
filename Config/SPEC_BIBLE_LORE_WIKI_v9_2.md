@@ -1,4 +1,4 @@
-# SPEC_BIBLE_LORE_WIKI v9.1
+# SPEC_BIBLE_LORE_WIKI v9.2
 
 Ce fichier définit la forme, les règles de construction et le gabarit du système BIBLE_LORE + WIKI + Parties :
 - `BIBLE_LORE_{UNIVERS}.md` - index de routage + lore condensé. Vit sur le dépôt, à la racine de `{Univers}/`. Lue EN ENTIER à l'ouverture de chaque thread de build (worldbuilding), avec le Sommaire et le journal d'implications. Pas lue en jeu : en narration, la roadmap en cours et les fiches de l'étape prennent le relais (cf. §10).
@@ -7,7 +7,7 @@ Ce fichier définit la forme, les règles de construction et le gabarit du syst�
 
 Le modèle doit produire des documents factuels, structurés, sans narration, sans interprétation non balisée.
 
-Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_WIKI_v9_1.md`.
+Emplacement : `https://github.com/sodomicka/rp/blob/main/Config/SPEC_BIBLE_LORE_WIKI_v9_2.md`.
 
 ---
 
@@ -252,7 +252,7 @@ Types de pages possibles :
 ### Budget par page
 - Plancher : 2 000 caractères (vérification : wc -m). En dessous : fusionner avec une page voisine.
 - PAS DE PLAFOND de page : une page ne se scinde que sur DÉCISION du worldbuilder (lisibilité, ère close), jamais pour tenir un budget ; rien ne se compresse pour tenir un budget.
-- Seule exception : roadmaps jusqu'à 15 000 caractères. Document de jeu fetché seul et en entier : y renvoyer le MJ vers d'autres pages coûte plus que les caractères gagnés. Au-delà de 15 000 : signaler, proposer des coupes par gain décroissant, le worldbuilder tranche.
+- Seule exception : roadmaps jusqu'à 15 000 caractères, 22 000 pour une roadmap passée en immersion (modes d'étape et tranches de vie, cf. Instructions Wiki §4, passe d'immersion). Document de jeu fetché seul et en entier : y renvoyer le MJ vers d'autres pages coûte plus que les caractères gagnés. Au-delà de 15 000 : signaler, proposer des coupes par gain décroissant, le worldbuilder tranche.
 
 ### Pages satellites d'entité
 
@@ -362,10 +362,14 @@ GRAIN. Le jalon : ce qui arrive, qui est là, où, quand. Le détail de scène (
 <1 à 3 lignes : ce que l'arc doit faire ressentir ou établir>
 
 ## Itinéraire (jalons)
-1. <jalon : ce qui arrive, qui, où, quand>
+1. <jalon> [JOUÉE | AU CHOIX, date] : ce qui arrive, qui, où, quand
 2. <jalon>
 ...
 Bloc couvrant un long laps à rendre en vignettes : marquer `[SNAPSHOTS - <durée chiffrée>]`.
+Modes d'étape (posés à la passe d'immersion) : `[JOUÉE]` = rythme classique ; `[AU CHOIX]` = rapide ou classique au choix du joueur (Instructions RP §3, modes d'étape).
+
+## Tranches de vie
+- <scène de quotidien sans date, une ligne> (optionnel ; posé à la passe d'immersion)
 
 ## Casting convoqué
 - <Nom> - <rôle dans l'arc> - cf. <Type>/<page>   (ou "non fiche" + description d'une ligne)
@@ -643,7 +647,7 @@ Le MJ écrit les fichiers mis à jour sur le dépôt (Instructions Wiki §8bis).
 sodomicka/rp/
   Config/
     SPEC_CODEX_v8_10.md
-    SPEC_BIBLE_LORE_WIKI_v9_1.md
+    SPEC_BIBLE_LORE_WIKI_v9_2.md
     (numéros indicatifs : vérifier le listing réel de Config/ avant tout fetch)
   <Univers>/
     <Dossier_thematique>/

@@ -1,6 +1,6 @@
 # Enseignement personnalisé - Tokyo, promo 2005-2008
 
-- version : W4
+- version : W5
 
 Page = fiche d'enseignement personnalisé (dossier Pedagogie/). Une page par promotion à casting fiche ; ne couvre que les années tenues par un professeur du périmètre (ici Yaga, les trois ans). Cadre général (rythme, pôles, enseignement non noté) : cf. Pedagogie/Resume_Enseignements.md.
 
@@ -8,7 +8,7 @@ Page = fiche d'enseignement personnalisé (dossier Pedagogie/). Une page par pro
 - Promotion des quatre prodiges : Nisha Zenin, Satoru Gojo, Suguru Geto, Shoko Ieiri. Professeur : Masamichi Yaga, qui suit la promo les trois ans (2005-2008). Pôle classique en plein.
 - Principe du cours perso : le professeur regarde l'élève et choisit UN chantier - une faiblesse à combler ou une force à pousser - puis un processus pour y travailler. Non noté. Un élève peut refuser le chantier ; il ne peut pas en choisir un autre.
 - Particularité de cette promo : trois futurs Grades Spéciaux. Yaga est largué sur leurs forces - il n'a rien à leur apprendre de technique - mais une faiblesse se voit de loin, et c'est là que son art (les cadavres maudits, les pantins d'entraînement de l'université) devient un outil.
-- Friction de fond : Nisha "la prouveuse" le corrige en plein cours sur pièces d'archives Zenin ; il vérifie au lieu de censurer, et le respect s'installe (cf. Personnages/Yaga.md, Nisha_chrono_A.md).
+- Friction de fond : Nisha "la prouveuse" le corrige en plein cours sur la parole de son clan, sans pièces (les archives écrites ne sortent pas du clan) ; il écoute au lieu de censurer, apprend deux ou trois choses de ses élèves de clans sans changer son programme, et le respect s'installe (cf. Personnages/Yaga.md, Nisha_chrono_A.md).
 
 ## Nisha Zenin
 - Vu par Yaga : formée au clan à tuer de gros fléaux par des tirs à Mach 4 - une cible, un projectile, fin. Dès qu'il y a vingt cibles, elle s'emmêle : trop de puissance par tir, pas assez de tirs.

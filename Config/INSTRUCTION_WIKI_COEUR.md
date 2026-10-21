@@ -101,6 +101,11 @@ Les passes :
   5. Roadmap N+1, rebelote — jusqu'au bout des roadmaps.
   Règle (Passe 2 uniquement) : on ne diffère NI la création d'une fiche absente, NI l'intégration d'un enrichissement.
 
+- **Fin de Passe 2 — PASSE D'IMMERSION** (avant la relecture croisée). Les roadmaps posées, le MJ les reprend une à une pour les BEATS SECONDAIRES : quotidien, cours, liens qui se font, journées sans enjeu de trame mais qui font exister les personnages entre les jalons. Ces beats sont OPTIONNELS : ils ne portent aucun invariant et ne déplacent aucune issue. Test : un arc qui ne montre que ses moments marquants ne résonne pas dans le suivant. Chaque jalon reçoit alors son MODE (gabarit : SPEC_BIBLE_LORE_WIKI §7) :
+  - `[JOUÉE]` : rythme classique de narration, toujours ; porte les invariants.
+  - `[AU CHOIX]` : à l'entrée de l'étape, le joueur choisit RAPIDE (un à trois messages de narration non jouée, issue figée) ou CLASSIQUE (scène par scène). Les beats secondaires sont AU CHOIX par défaut.
+  - Et la roadmap porte une banque de TRANCHES DE VIE : scènes de quotidien sans date, que le MJ de jeu pioche entre deux jalons.
+  Le MJ propose les beats, le worldbuilder tranche, comme pour tout jalon. Un univers dont la Passe 2 est déjà close passe sa passe d'immersion roadmap par roadmap, à la demande du worldbuilder.
 - **Clôture de Passe 2 — RELECTURE CROISÉE** (audit de conflits inter-arcs). Relire l'ensemble des fiches pour la cohérence croisée que la boucle ne peut pas attraper seule. Signaler les conflits, le worldbuilder tranche.
   **Gravité des incohérences.** Chaque incohérence relevée à la relecture croisée porte sa catégorie :
   - *Majeure* : casse la trame (un arc, la chronologie, un requis ou un interdit entre roadmaps). Bloquante : tranchée avant de poursuivre.
