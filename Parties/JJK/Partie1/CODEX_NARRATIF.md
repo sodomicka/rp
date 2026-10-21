@@ -12,7 +12,7 @@
   note: les tampons OOC (§5) et interdits (§6) utilisent [V<n>], pas la date.
 - codex_version: V2
 - plafond: 33 000 car. (barème : min(30 000 + 3 000 x (N-1), 90 000))
-- taille au build: 18 975 car. (58 % du plafond(N))
+- taille au build: 18 720 car. (57 % du plafond(N))
 - thread source: Partie JJK : prologue A0 | cmsg_01MY5EoYgecDdhQvUijNYPy6FbmTS5fayWfiottDXnP3JD
 - spec au build: SPEC_CODEX v8.10 (source: GitHub)
 - bible_lore: BIBLE_LORE_JJK.md
@@ -71,12 +71,11 @@ Source vivante de l'INSTANCE jouée : ICI + Parties/Suivi pour la backstory froi
 - [V1] - Protagoniste unique : Nisha. Yukiko Kamo n'est qu'un PNJ dans cette partie. | ANNEXE_PNJ
 - [V1] - Trame : les roadmaps se jouent telles que prévues. | ANNEXE_CHRONO
 - [V2] - Prénom : Naobito nomme Nisha à l'éveil de la Chronostase (août 1991). Avant, personne ne la nomme. | §3a
-- [V2] - Narration non jouée (snapshots, ellipses) : le MJ fait parler Nisha dans sa voix, sans déplacer l'issue. Vignette close sur son issue, sans perche. Règle en cours de formalisation (PR #46) ; retirer d'ici une fois fusionnée. | ANNEXE_STYLE
 - [V2] - Nisha formatée Zenin jusqu'à « R1 » [INCERTAIN - A1 ?] : le joueur ne la teinte pas. | §3a
 
 ### §6 Interdits accumulés
 - [V1] - Nozomu : sa mort reste hors champ, jamais nommée dans sa nature, jamais détaillée, jamais magnifiée ; sa doctrine n'est jamais romantisée. Même retenue pour toute fin de vie choisie.
-- [V2] - Tics de narration relevés en A0 : coupe de saké permanente de Naobito (une bouteille, à la limite), futon du soir, train du retour, « rien ne bouge sur son visage », faim de Nisha à chaque vignette. Accessoire ou geste signature : installé, puis rare et varié.
+- [V2] - Tics de narration relevés en A0 : coupe de saké permanente de Naobito (une bouteille, à la limite), futon du soir, train du retour, « rien ne bouge sur son visage », faim de Nisha à chaque vignette. Règle générale : cf. cœur Narration.
 
 ### §7 #SITES_REF
 | Source | URL | Usage |
@@ -187,7 +186,7 @@ Définitions : cf. BIBLE SB8 (non lue en jeu) ; résumé utile ici.
 
 ## [ANNEXE_STYLE - LECTURE OBLIGATOIRE]
 
-Deuxième personne, présent strict. Ouverture de vignette en gras daté (« **31 mars 2005.** Dix-huit ans. »). Phrases courtes en tête, plus longues sur la sensation. A1 change de régime : le joueur joue Nisha aux journées jouées ; le MJ ne décide, ne parle ni ne pense pour elle. Les snapshots entre journées restent narrés (cf. §5).
+Deuxième personne, présent strict. Ouverture de vignette en gras daté (« **31 mars 2005.** Dix-huit ans. »). Phrases courtes en tête, plus longues sur la sensation. A1 change de régime : le joueur joue Nisha aux journées jouées ; le MJ ne décide, ne parle ni ne pense pour elle. Les snapshots entre journées restent narrés, Nisha y parle dans sa voix.
 
 Les Zenin doivent donner la nausée à un regard occidental, sans pathos : la cruauté passe par les corps, les rangs, les noms qu'on donne ou refuse, les gestes de métier sans douceur. La tendresse passe par Naoya seul, en actes. Eien reste douce, toujours ; rien ne trahit sa nature. Sensorialité : bois du domaine, tatami, forge, cuisine, froid de montagne ; for intérieur d'Eien (forêt jeune, vieille et morte, rivière de verre noir) en contrepoint. Tokyo arrive : contraste attendu avec le domaine.
 
