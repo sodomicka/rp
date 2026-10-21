@@ -1,9 +1,9 @@
 # Roadmap D4 - Shinjuku
 
-- version : W2
+- version : W3
 - statut : à venir ; JOUABLE ; la bataille finale du focus Nisha
 - prota / POV : Nisha Zenin, plein cadre ; le front de Satoru reste HORS POV jusqu'à ce qu'elle le rejoigne
-- échelle temporelle : ~seize jours (12 novembre 2018 -> 28 novembre) ; deux jours de veille, une bataille d'une demi-journée, deux semaines d'inconscience ; cinq temps joués
+- échelle temporelle : ~seize jours (12 novembre 2018 -> 28 novembre) ; deux jours de veille, une bataille d'une demi-journée, deux semaines d'inconscience ; quatre étapes JOUÉES, deux AU CHOIX (rapide ou classique)
 - borne d'entrée : 12 novembre 2018, retour vers Tokyo ; Megumi devenu Sukuna, disparu avec Tsumiki sous sa garde directe
 - borne de sortie : 28 novembre 2018, Nisha se réveille à l'école de Tokyo, Satoru et Naoya à son chevet -> D5
 - roadmap précédente : cf. WIKI Roadmap/Nisha/Roadmap_D3.md
@@ -12,27 +12,33 @@
 ## Intention
 La politique est finie, on sauve les enfants. Sukuna convoque la guerre à Shinjuku ; le couple manque de peu de ramener leur fils, puis le réveil de Nozomu rend la bataille désespérée. Nisha paie tout ce qui lui reste pour qu'aucun de ses gamins ne meure, et le couple ressort de la tête de Sukuna avec Megumi.
 
+Avant la guerre, deux jours de veille : la seule respiration de l'arc, où le couple réuni prépare la bataille et passe une dernière nuit ensemble avant d'aller chercher son fils. Après, le réveil : un lit, une perfusion, les deux hommes de sa vie au chevet.
+
+## Modes d'étape
+[JOUÉE] : rythme classique. [AU CHOIX] : le joueur choisit rapide (un à trois messages) ou classique à l'entrée de l'étape. Pendant la veille, des respirations (banque ci-dessous) ; aucune pendant la bataille. Règle complète : cœur de narration §3, modes d'étape.
+
 ## Itinéraire (jalons)
-1. **D4_1 - La veille** [12 -> 13 novembre]. Retour à Tokyo, école de Tokyo.
+1. **D4_1 - La veille** [AU CHOIX, 12 -> 13 novembre]. Retour à Tokyo, école de Tokyo ; maison de Saitama.
    - Nisha et Satoru rentrent ensemble, après l'aveu de la vente.
    - Effort de guerre total : les deux écoles, les Kamo et les Zenin répondent à l'appel.
    - Chacun reçoit son poste. Plan de repli si Mahoraga s'avère trop puissant : séparation en deux groupes, grossièrement Nisha et Kyoto d'un côté, Satoru et Tokyo de l'autre.
    - Le conseil de guerre est fixé au 14 au matin. Objectif : ramener Megumi vivant.
+   - Le soir du 13, la maison de Saitama vidée de ses gosses : scène intime au choix, la veille d'armes. Au matin, il refait ses bandages, serrés pour la guerre.
    - Clôt sur : la veille d'armes.
-2. **D4_2 - Le conseil interrompu** [14 novembre, matin -> midi]. École de Tokyo, puis Shinjuku.
+2. **D4_2 - Le conseil interrompu** [JOUÉE, 14 novembre, matin -> midi]. École de Tokyo, puis Shinjuku.
    - Conseil de guerre des Kamo, des Zenin et des deux écoles.
    - Sukuna ravage Shinjuku pour attirer les exorcistes (mobile : cf. Sukuna.md).
    - Tsumiki sur un toit, spectatrice ; personne ne la menace de toute la bataille.
    - Ijichi, Akari Nitta et Yukiko tirent les barrières et les rideaux.
    - Clôt sur : le 2 contre 1 s'engage vers midi.
-3. **D4_3 - Le réveil de Nozomu** [14 novembre, midi]. Shinjuku.
+3. **D4_3 - Le réveil de Nozomu** [JOUÉE, 14 novembre, midi]. Shinjuku.
    - Le 2 contre 1 : le couple manque de peu de ramener son fils.
    - Sukuna invoque Mahoraga ; le couple le vainc seul.
    - Mahoraga tombé, Uraume cède son corps à plus fort : il réveille Nozomu malgré le refus de Sukuna (cf. Uraume.md, Nozomu.md). Sukuna enrage.
    - Nozomu vise Panda ; Nisha s'interpose.
    - Le plan de repli sert : Nisha et Kyoto contre Nozomu, Satoru et Tokyo contre Sukuna.
    - Clôt sur : deux fronts.
-4. **D4_4 - Le front des jumeaux** [14 novembre, après-midi]. Shinjuku.
+4. **D4_4 - Le front des jumeaux** [JOUÉE, 14 novembre, après-midi]. Shinjuku.
    - Flagellation du Bourreau (cf. Nozomu.md) : Nisha s'effondre ; Naoya la sort de l'enceinte.
    - Les deux paires de jumeaux, Nisha et Naoya, Maki et Mai, achèvent Nozomu ensemble.
    - Sur le front de Satoru, Yuji est chopé à la gorge par le loup de Sukuna, planqué dans une nuée de lapins.
@@ -40,17 +46,31 @@ La politique est finie, on sauve les enfants. Sukuna convoque la guerre à Shinj
    - Nisha supplie Eien. Eien prend le contrôle, maintenant qu'elle ne le veut plus, ouvre le Jardin des Ères Mortes autour de Yuji et le rembobine, puis meurt en emportant la Chronokinésie (cf. Eien.md).
    - Nisha, épuisée, est boostée par Arata ; elle rejoint Satoru à vitesse d'exorciste ordinaire.
    - Clôt sur : Nisha rejoint son mari pour sauver son fils.
-5. **D4_5 - La Sphère** [14 novembre, après-midi -> 28 novembre]. Shinjuku, puis école de Tokyo.
-   - Naissance improvisée de la Sphère de l'Espace-Temps Infini (cf. Satoru.md, Nisha.md) : elle ouvre au couple le territoire intérieur de Sukuna.
-   - Megumi regarde ses parents démonter son squatteur ; Sukuna meurt de la main du couple.
-   - Dehors, un vingt-quatrième de seconde. Nisha s'évanouit.
-   - 28 novembre, école de Tokyo. Satoru et Naoya au chevet, Shoko à la perfusion : tout le monde va bien ; Naoya donne des nouvelles du clan et dit la sentir à son niveau à lui.
-   - La visite familiale. Shoko exige du repos ; il ne reste que Satoru et Naoya.
-   - Clôt sur : -> D5.
+5. **D4_5 - La Sphère** [14 novembre, après-midi -> 28 novembre, en deux étapes]. Shinjuku, puis école de Tokyo.
+   - **D4_5a - Le territoire de Sukuna** [JOUÉE, 14 novembre, après-midi].
+     - Naissance improvisée de la Sphère de l'Espace-Temps Infini (cf. Satoru.md, Nisha.md) : elle ouvre au couple le territoire intérieur de Sukuna.
+     - Megumi regarde ses parents démonter son squatteur ; Sukuna meurt de la main du couple.
+     - Dehors, un vingt-quatrième de seconde. Nisha s'évanouit.
+     - Clôt sur : le noir.
+   - **D4_5b - Le réveil** [AU CHOIX, 28 novembre]. École de Tokyo.
+     - Satoru et Naoya au chevet, Shoko à la perfusion : tout le monde va bien ; Naoya donne des nouvelles du clan (nouveau conseil ; Megumi y refuse sa place) et dit la sentir à son niveau à lui.
+     - La visite familiale : les gosses, un par un, Tsumiki en tête ; Yuji qui pleure, Megumi qui ne pleure pas.
+     - Elle a faim comme jamais. Shoko exige du repos ; il ne reste que Satoru et Naoya.
+     - Clôt sur : -> D5.
 
-Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
+## Respirations (banque du MJ)
+Pendant la veille seulement (D4_1).
+- La cantine de l'école de Tokyo, cinq portions, et des élèves qui la regardent manger.
+- Satoru qui reprend sa place de clown pour les gamins, et qui se tait le soir.
+- La chambre vide de Megumi à Saitama ; celle de Tsumiki, l'ordinateur encore ouvert sur un brouillon de l'Okaruto.
+- Naoya au téléphone, qui demande si « le mari » est rentré entier ; elle répond cru, il fait mine d'être dégoûté.
+- Panda qui demande si sa sœur, le Tricératops, pourra se battre.
+
+## Fils transversaux
+À faire SENTIR entre les jalons, jamais figer en photo :
 - Nisha préfère mourir que de laisser un de ses gamins se faire tuer : chaque prix qu'elle paie est ce choix.
 - Tsumiki puis Megumi : la même libération, à trois ans d'écart.
+- Le couple réuni : bandages refaits par Satoru, une scène intime au choix (la veille d'armes, D4_1).
 
 ## Casting convoqué
 - Nisha Zenin - cf. Personnages/Nisha.md, Nisha_chrono_D.md
@@ -85,6 +105,7 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
 - Nisha quitte le front de Nozomu avant sa mort (protège la mort de Nozomu par les jumeaux et le rembobinage).
 - Quelqu'un d'autre que le couple tue Sukuna.
 - La Sphère de l'Espace-Temps Infini est préparée ou répétée avant le jalon 5.
+- Scène intime ailleurs que la veille d'armes, ou pendant la convalescence - Shoko exige du repos.
 
 ## Verrous
 - Jalon 4 (D4_4) : Nisha refuse de supplier Eien. Paliers :
@@ -93,6 +114,7 @@ Fils transversaux, à faire SENTIR entre les jalons, jamais figer en photo :
   3. Rappel hors fiction : Eien rembobine Yuji et emporte la Chronokinésie.
   4. Avertissement du MJ : la suite n'est pas scénarisée et mène à l'avortement du RP.
   5. Entêtement maintenu : le MJ déclare la fin du RP et ne narre plus dans ce thread ; rejouer = nouveau thread, CODEX d'entrée réutilisé sans modification.
+- Étapes AU CHOIX : aucun verrou ; seuls les interdits s'appliquent.
 
 ## Bifurcations
 - Aucune. Règle globale du RP (jusqu'à contre-ordre du worldbuilder) : aucune roadmap ne se scinde en embranchement.
