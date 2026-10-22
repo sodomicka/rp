@@ -12,7 +12,7 @@
   note: les tampons OOC (§5) et interdits (§6) utilisent [V<n>], pas la date.
 - codex_version: V8
 - plafond: 51 000 car. (barème : min(30 000 + 3 000 x (N-1), 90 000))
-- taille au build: 25763 car. (51 % du plafond(N))
+- taille au build: 25782 car. (51 % du plafond(N))
 - thread source: Partie JJK : A1 les 19 ans de Satoru | cmsg_01MY5EoYgecDdhQvUijNYPy66zWzUthfYJ6K36Gywhfmkz
 - spec au build: SPEC_CODEX v8.10 (source: GitHub)
 - bible_lore: BIBLE_LORE_JJK.md
@@ -65,7 +65,7 @@ Instance : ICI + Parties/Suivi. Entité : cf. WIKI Personnages/Nisha.md.
 - Rapport de force : Nisha n°1 ; Satoru sans Rouge ni domaine.
 - Dernier échange - joueur : « Pourquoi pas. T'entendre me dire bonne nuit avec cette nouvelle intonation, je crois que c'est ce que j'ai besoin d'entendre pour bien dormir... » / Satoru : « Soixante-quatorze. Je l'ai dit, celui-là. Il compte pas. »
 - État-clé minimal : révisions à 9 h ; Nisha lui doit la liste complète de ses défauts.
-- Prochaine bascule amorcée : ellipse de janvier (proposée), puis A1_5 ; cf. ANNEXE_CHRONO > Arcs.
+- Prochaine bascule amorcée : ellipse de janvier (validée, ouvre le thread), puis A1_5 ; cf. ANNEXE_CHRONO > Arcs.
 
 ### §5 OOC actifs
 - [V1] - Registre sexuel : rien de bloqué ; sinon figure de style ; cœur non narrable : ellipse. | ANNEXE_STYLE
@@ -178,7 +178,7 @@ Fiches complètes : cf. WIKI Personnages/<Nom>.md. Ici : voix, rapport à Nisha,
 - 2 - A1 Le Transfert : en cours ; A1_1 à A1_4 clos, couple formé -> arc suivant prévu : A2 (cf. WIKI Roadmap/Nisha/Roadmap_A2.md).
 
 ### Arcs (état courant)
-- A1 Le Transfert - installer Nisha à Tokyo, rivalité puis couple avec Satoru | roadmap: cf. WIKI Roadmap/Nisha/Roadmap_A1.md | etape: 11 | A1_5 L'anniversaire des jumeaux [JOUÉE], nuit du 29 jan 2006 à l'université de Tokyo, puis 30 jan au domaine ; janvier à combler en ellipse (proposée, pas encore validée) | ouvert
+- A1 Le Transfert - installer Nisha à Tokyo, rivalité puis couple avec Satoru | roadmap: cf. WIKI Roadmap/Nisha/Roadmap_A1.md | etape: 11 | A1_5 L'anniversaire des jumeaux [JOUÉE], nuit du 29 jan 2006 à l'université de Tokyo, puis 30 jan au domaine ; janvier en ellipse, validée : le thread suivant s'ouvre dessus | ouvert
 - Divergence active : Geto et Shoko savent Eien (cf. §5) ; la roadmap ne le porte pas encore, le CODEX prime.
 
 ### Mémoire froide
