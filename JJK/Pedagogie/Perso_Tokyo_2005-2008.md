@@ -1,6 +1,6 @@
 # Enseignement personnalisé - Tokyo, promo 2005-2008
 
-- version : W6
+- version : W7
 
 Page = fiche d'enseignement personnalisé (dossier Pedagogie/). Une page par promotion à casting fiche ; ne couvre que les années tenues par un professeur du périmètre (ici Yaga, les trois ans). Cadre général (rythme, pôles, enseignement non noté) : cf. Pedagogie/Resume_Enseignements.md.
 
@@ -23,7 +23,7 @@ Page = fiche d'enseignement personnalisé (dossier Pedagogie/). Une page par pro
 - Résultat : le chantier meurt de lui-même à l'éveil de 2006 - l'Infini n'a plus besoin de lui. Yaga bascule alors sur la seule chose qu'il peut encore lui apprendre, qui n'est pas technique : regarder les autres. Échec établi - le couple Nisha/Satoru, trop absorbé, ne voit pas Geto sombrer en 2006-2007 (cf. Personnages/Satoru.md, Geto.md).
 
 ## Suguru Geto
-- Vu par Yaga : Grade 1 à la rentrée, évalué Grade Spécial au cours du cursus - pas tout à fait hors de portée. Et de la même famille de sorts que lui : la manipulation d'unités. Geto engage ses fléaux un gros à la fois.
+- Vu par Yaga : Grade 1 à la rentrée, évalué Grade Spécial fin juin 2005 avec Nisha et Satoru - pas tout à fait hors de portée. Et de la même famille de sorts que lui : la manipulation d'unités. Geto engage ses fléaux un gros à la fois.
 - Axe : la COMMANDE SIMULTANÉE - tenir plusieurs fléaux en manœuvre coordonnée.
 - Processus : d'artisan à artisan. Les pantins de Yaga en formation contre l'armée de Geto ; manœuvres, relais, encerclements, retraits. Le seul endroit du cursus où Yaga enseigne quelque chose à un futur Spécial.
 - Résultat : septembre 2005, au tournoi, il tombe à deux contre un (Naoya + Ranta) en forêt - avant que le chantier ait produit. Pas d'autre jalon daté. [INTERPRETATION] : l'armée coordonnée que Yaga lui apprend à mener est celle qui sert au massacre de fin 2007 - c'est Yaga lui-même qui découvre les faits (cf. Personnages/Geto.md).

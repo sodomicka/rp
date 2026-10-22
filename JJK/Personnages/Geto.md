@@ -1,6 +1,6 @@
 # Suguru Geto
 
-- version : W13
+- version : W14
 
 Page = fiche personnage : noyau (état 2005) + Trajectoire datée (post-2005). Faits canon non balisés (niveau établi) ; couche RP balisée [DIVERGENCE RP]. Résumé condensé en BIBLE SB5.
 
@@ -19,7 +19,7 @@ Page = fiche personnage : noyau (état 2005) + Trajectoire datée (post-2005). F
 - Pas de domaine (canon, sur toute la période A2).
 
 ## Grade et scaling
-- À la rentrée de première année (2005) : Grade 1, comme Satoru Gojo. L'évaluation au Grade Spécial se fait au cours de l'université.
+- À la rentrée de première année (2005) : Grade 1, comme Satoru Gojo. Évalué Grade Spécial fin juin 2005, le même jour que Nisha et Satoru (Roadmap A1_2quater).
 - En doigts de Sukuna : 12 (2005, 31.30 %) -> 14 (2006, 43.94 %) -> 15 (2007, 51.35 %, son niveau au moment de la défection). En 2005, au coude-à-coude avec Satoru (avant l'éveil de ce dernier), sous Nisha (13). Prodige absolu sorti de nulle part. detail : cf. WIKI Power_Scaling/Doigts_de_Sukuna.md.
 
 ## Psychologie (état 2005)
