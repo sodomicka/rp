@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W32
+- version : W33
 
 Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de départ (2005) : identité, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datée post-départ) est scindé par volume pour le poids -> cf. section dédiée en bas de fiche et Personnages/Nisha_chrono_A.md. Tissu relationnel (appellatifs, registres, habitudes, contentieux) : cf. la série Personnages/Nisha_relations_<cercle>.md (proches / famille / boulot / eleves_tokyo).
 
@@ -126,7 +126,7 @@ Fiche propre : cf. Personnages/Naoya.md. Tissu relationnel (appellatifs, registr
 
 ## Grade et scaling
 - Pré-université : plafonnée Grade Spécial 1 (classement hors université d'exorcisme, rang élite Zenin). Limite administrative, pas de puissance.
-- À l'université (2005) : accède au classement officiel, passe vite Grade Spécial.
+- À l'université (2005) : accède au classement officiel ; évaluée Grade Spécial fin juin 2005, le même jour que Satoru et Geto (A1_2quater).
 - En doigts de Sukuna, progression rapide et continue (pas un saut) : 13 à l'entrée (2005) -> 15 en 2006 -> 16 en 2007 -> 18 à la sortie de l'université (2008). Elle apprend vite au contact de Satoru et la compétition l'empêche de se faire distancer : elle atteint son apogée (18) dès la fin de l'université. Détail et repères : cf. WIKI Power_Scaling/Doigts_de_Sukuna.md.
 - [DIVERGENCE RP] RAYON NOIR : trivial pour elle. Elle n'a jamais pris la peine de compter ses occurrences et le tient pour une frappe de Grade 1 / Spécial comme une autre - même lecture chez Satoru. Leurs Rayons Noirs ne comptent donc pas dans le record officiel : Nanami passe pour un prodige sur ce terrain parce que les deux monstres ne jouent pas. Cf. Personnages/Nanami.md.
 - Trajectoire : numéro 1 mondiale à partir de 2005 (18 ans), jusqu'à la transcendance de Gojo (2006, arc Hidden Inventory). Passe ensuite numéro 2, loin derrière lui (Gojo 23 après son éveil ; elle 15 puis 18).

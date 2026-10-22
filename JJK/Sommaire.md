@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W60
+- version : W61
 
 ## WIKI
 
@@ -26,8 +26,8 @@ Description : factions et groupes du monde.
 
 ### Personnages/
 Description : fiches personnages du monde.
-- Nisha.md (W32) - fiche NOYAU de Nisha Zenin (OC, protagoniste, jumelle de Naoya, née le 30 jan 1987 dans l'aile des utérus), état <= 2005 : prénom donné par Naobito (août 1991), physique détaillé, tenue, objets récurrents (collier, carte bleue), Sort d'Inversion (RCT sur soi, acquis en ère A), visuel de la Sphère du Temps Infini, domaine commun du couple (Sphère de l'Espace-Temps Infini, D4) ; perte de la Chronokinésie (D4) ; façade (Tokyo : origine des sorts maquillée, Satoru dans le secret dès le 1er avr 2005 ; Kyoto et Hautes Instances savent tout) ; trajectoire datée scindée par ère -> Nisha_chrono_A.md, Nisha_chrono_B.md, Nisha_chrono_C.md, Nisha_chrono_D.md ; relations scindées par cercles -> série Nisha_relations_*.
-- Nisha_chrono_A.md (W13) - trajectoire datée de Nisha, ère A (2005-2008) : entrées A1 + A2 (dont l'acquisition de la RCT, déc 2006 - été 2007).
+- Nisha.md (W33) - fiche NOYAU de Nisha Zenin (OC, protagoniste, jumelle de Naoya, née le 30 jan 1987 dans l'aile des utérus), état <= 2005 : prénom donné par Naobito (août 1991), physique détaillé, tenue, objets récurrents (collier, carte bleue), Sort d'Inversion (RCT sur soi, acquis en ère A), visuel de la Sphère du Temps Infini, domaine commun du couple (Sphère de l'Espace-Temps Infini, D4) ; perte de la Chronokinésie (D4) ; façade (Tokyo : origine des sorts maquillée, Satoru dans le secret dès le 1er avr 2005 ; Kyoto et Hautes Instances savent tout) ; trajectoire datée scindée par ère -> Nisha_chrono_A.md, Nisha_chrono_B.md, Nisha_chrono_C.md, Nisha_chrono_D.md ; relations scindées par cercles -> série Nisha_relations_*.
+- Nisha_chrono_A.md (W14) - trajectoire datée de Nisha, ère A (2005-2008) : entrées A1 + A2 (dont l'acquisition de la RCT, déc 2006 - été 2007).
 - Nisha_chrono_B.md (W9) - trajectoire datée de Nisha, ère B (2008-2018) : entrées B1-B3 (famille de Saitama, resto à quatre 2013, trauma, vingt semaines de déni, guérison et retour du désir, Nuit des Cent Fleaux, réparation de Satoru).
 - Nisha_relations_proches.md (W6) - tête de la série relations de Nisha (quatre pages par cercles ; extension de Nisha.md, sections Naoya/Eien condensées au profit de la série) : RÈGLES GÉNÉRALES transversales (vestige du "ma belle" post-2006, la fumeuse) + cercle des PROCHES (dont Naoya - appellatifs, rituels, seul jugement post-2015 - et Eien - deux régimes avant/après la bascule de 2015, putsch de 1997 maquillé).
 - Nisha_relations_famille.md (W7) - relations de Nisha, cercle FAMILLE : le clan par le sang (dont Naobito - le traître au crédo -, Jinichi, Ogi - appellatifs, contentieux, évolutions datées jusqu'au coup d'État D1 -) et la famille choisie du foyer de Saitama (Maki, Panda, Megumi routés ici, pas en _eleves_tokyo).
@@ -52,10 +52,10 @@ Description : fiches personnages du monde.
 - Maki.md (W20) - fille d'Ogi, jumelle de Mai, Restriction Céleste physique ; trajectoire A2-B3 (refuge Saitama 2014, élève de Satoru à Tokyo 2017 ; coup d'État D1, 10/90, quasi indétectable).
 - Mai.md (W15) - fille d'Ogi, jumelle de Maki, Construction, unité Akashi ; trajectoire A2-B3 (leçon de Nisha 2015 : exploite 8 ; élève d'Utahime 2017 puis de Nisha 2018 ; acculée au coup d'État, 10/90, part à Tokyo).
 - Toji.md (W9) - Toji Fushiguro, né Zenin, Tueur d'Exorcistes, Restriction Céleste, père de Megumi.
-- Satoru.md (W19) - Satoru Gojo, guerrier parfait du clan Gojo, Infini + Six Yeux, rival de Nisha, chef de fait ; domaine : Sphère de l'Espace Infini (VO Unlimited Void) ; statut découvert à l'ÉVEIL DE SON SORT à 4 ans (1990-1991, règle des yeux) et non à la naissance ; symétrie-vaccin en vérité d'usage MJ ; filtre des yeux (lunettes rondes, bandages, bandeau du 7 déc) : noyau + trajectoire datée (A1) -> Satoru_chrono_B.md.
+- Satoru.md (W20) - Satoru Gojo, guerrier parfait du clan Gojo, Infini + Six Yeux, rival de Nisha, chef de fait ; domaine : Sphère de l'Espace Infini (VO Unlimited Void) ; statut découvert à l'ÉVEIL DE SON SORT à 4 ans (1990-1991, règle des yeux) et non à la naissance ; symétrie-vaccin en vérité d'usage MJ ; filtre des yeux (lunettes rondes, bandages, bandeau du 7 déc) : noyau + trajectoire datée (A1) -> Satoru_chrono_B.md.
 - Satoru_chrono_B.md (W11) - trajectoire datée de Satoru, ères B à D (2008-2018) : entrées B1-B3 (prof à Tokyo, famille de Saitama, mort de Geto de ses mains, effondrement et relève) + ères C et D (bannissement, Lisière, Shinjuku).
 - Tengen.md (W7) - Tengen, 4e esprit vengeur resté de chair, pilier immortel des barrières, immortalité + Plasma Stellaire, lien ancien avec Kenjaku (Merger), nœud de 2006.
-- Geto.md (W13) - Suguru Geto, prodige hors-clan de la promo Tokyo 2005-2008, Manipulation des Esprits Maudits, l'un des deux plus forts avec Gojo, négatif moral de Nisha : noyau + trajectoire datée (A1 + A2 : chantier de Yaga, escorte de Riko, bascule de conviction, les deux gouttes, défection fin 2007 ; sépulture nov 2018 au sanctuaire de la forêt de l'école de Tokyo, Nanami et Tsukumo à côté) + postérité pédagogique (prévention 2008-2017, histoire récente dès 2018).
+- Geto.md (W14) - Suguru Geto, prodige hors-clan de la promo Tokyo 2005-2008, Manipulation des Esprits Maudits, l'un des deux plus forts avec Gojo, négatif moral de Nisha : noyau + trajectoire datée (A1 + A2 : chantier de Yaga, escorte de Riko, bascule de conviction, les deux gouttes, défection fin 2007 ; sépulture nov 2018 au sanctuaire de la forêt de l'école de Tokyo, Nanami et Tsukumo à côté) + postérité pédagogique (prévention 2008-2017, histoire récente dès 2018).
 - Shoko.md (W12) - Shoko Ieiri, médecin de la promo des quatre prodiges (Tokyo), RCT appliqué à autrui, Semi-Grade 1 à vie : noyau + trajectoire datée (relève de Satoru 2018).
 - Yaga.md (W9) - Masamichi Yaga, professeur à Tokyo (principal en 2009+, prof de 3e année 2009-2013), manipulation de cadavres maudits, progressiste actif, Grade 1 : noyau + trajectoire datée (A1).
 - Gakuganji.md (W11) - Yoshinobu Gakuganji, principal de Kyoto (prof de la promo de Naoya en 2005 ; cumule principalat + 3e année 2009-2013, cède à Mei Mei en avr 2013) et seul visage public des hautes instances, dont il est membre PLEIN, sort musical, Grade Spécial 1, ultra-conservateur ; présent ès qualités aux repas bissextiles ; dispositions d'élèves (Naoya adoré, Ranta trop gentil, Yukiko la plus proche - perce le sandbagging SEUL au printemps 2005 et le respecte, rapport aux Instances automne 2005).
@@ -118,7 +118,7 @@ Leçon hors cursus (à usage MJ, rien à inventer) :
 - Traque_Meurtriere.md (W3) - leçon de Tengen aux Tombeaux (1er nov 2018, C3_4) : nature du jeu et huit règles de Kenjaku ; à usage MJ : règles 9 (Kashimo), 10 et 11 (Nisha), 12 (neutralité), les Kogane, la fin du jeu le 8 nov.
 
 Enseignement personnalisé (une page par promotion à casting fiché ; un chantier par élève, non noté ; section "ce que le professeur n'a pas vu" à usage MJ) :
-- Perso_Tokyo_2005-2008.md (W6) - promo des quatre prodiges (Nisha, Satoru, Geto, Shoko), Yaga sur les trois ans.
+- Perso_Tokyo_2005-2008.md (W7) - promo des quatre prodiges (Nisha, Satoru, Geto, Shoko), Yaga sur les trois ans.
 - Perso_Kyoto_2005-2008.md (W3) - promo de Naoya (Naoya, Ranta), Gakuganji sur les trois ans.
 - Perso_Kyoto_2011-2014.md (W2) - Akari Nitta, 2e année sous Nisha (2012-2013).
 - Perso_Kyoto_2016-2019.md (W2) - Todo, Noritoshi Kamo, Momo ; 2e année sous Nisha (2017-2018).
@@ -130,7 +130,7 @@ Enseignement personnalisé (une page par promotion à casting fiché ; un chanti
 ### Roadmap/Nisha/
 Description : itinéraires par arc de Nisha, dans l'ordre de la saga. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).
 - Roadmap_A0.md (W8) - Prologue (narré) : naissance des jumeaux 30 jan 1987 -> seuil du conseil Zenin 31 mars 2005 ; ~18 ans en vignettes.
-- Roadmap_A1.md (W10) - Le Transfert : seuil du conseil Zenin 31 mars 2005 -> veille de la rentrée 2006 ; 1 an d'immersion, six journées JOUÉES (dont la rentrée entière), sept étapes AU CHOIX (rapide ou classique : chantiers, Golden Week, première mission, été, après l'Amicale, les 19 ans de Satoru, clôture), cours des deux semestres, banque de tranches de vie.
+- Roadmap_A1.md (W11) - Le Transfert : seuil du conseil Zenin 31 mars 2005 -> veille de la rentrée 2006 ; 1 an d'immersion, six journées JOUÉES (dont la rentrée entière), sept étapes AU CHOIX (rapide ou classique : chantiers, Golden Week, première mission, été, après l'Amicale, les 19 ans de Satoru, clôture), cours des deux semestres, banque de tranches de vie.
 - Roadmap_A2.md (W12) - L'éveil et la chute : rentrée de 2e année 1 avr 2006 -> diplôme mars 2008 ; ~2 ans d'immersion, huit étapes JOUÉES (Hamamatsu, Toji, l'après, la doctrine, Yuki, les deux gouttes, la confrontation, la décision-enfants), treize AU CHOIX (cours 2A des deux semestres, l'hiver des un an, la 3e année sur le terrain, le nouvel an à trois, clôture), banque de tranches de vie.
 - Roadmap_B1.md (W7) - La Fondation : lendemain du diplôme, hiver 2008 -> resto à quatre, mars 2013 ; ~5 ans, immersion (modes d'étape, cours de 2e année à Kyoto, Nitta et le rituel, foyer de Saitama, banque de tranches de vie).
 - Roadmap_B2.md (W9) - Le Trauma : rentrée sans élève, avr 2013 -> post-avortement, automne 2015 ; ~2 ans et demi, immersion (classes vides, nuit de noces, les vingt semaines de déni).

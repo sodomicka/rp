@@ -1,6 +1,6 @@
 # Roadmap A1 - Le Transfert
 
-- version : W10
+- version : W11
 - statut : en cours ; JOUABLE
 - prota / POV : Nisha Zenin
 - échelle temporelle : 1 an (31 mars 2005 -> 31 mars 2006) ; six journées JOUÉES, sept étapes AU CHOIX (rapide ou classique), tranches de vie libres entre les jalons
@@ -30,7 +30,7 @@ L'arc est une année d'IMMERSION : c'est en A1 que Nisha apprend à apprécier S
    À planter : friction Shoko ; friction Yaga ; opposition morale Nisha/Geto (joutes récurrentes) ; rivalité Nisha/Satoru (amorce) ; le secret partagé avec Satoru, seul à Tokyo. Clôt sur : la première nuit sans son jumeau.
 3. A1_2bis - Les chantiers [AU CHOIX, mi-avril 2005]. Université de Tokyo. Yaga attribue les chantiers d'enseignement personnalisé (cf. Pedagogie/Perso_Tokyo_2005-2008.md) : Nisha s'emmêle dans la nuée de pantins devant les trois autres ; Satoru se fait surprendre dans le dos (Infini manuel) ; Geto en manœuvre d'unités ; Shoko soigne sous harcèlement. Chacun a vu la faille de l'autre. Piqué par Nisha (la défaite de la rentrée, la lecture à facteur 30), Satoru ouvre les archives Gojo un week-end, par défi : sans Chronokinésie, c'est interminable, il lâche au bout de quelques heures sans avoir approché les dossiers noirs, et ne les rouvrira plus (hors POV de Nisha, sauf s'il le lui raconte). Cours de la quinzaine : Détection S1 (percevoir l'occulte : seuils, résidus, sa propre signature) et Énergie S1 (premier cours : ne pas fuir ; réserve, débit, rendement). À planter : la friction flirteuse lancée pour de bon ; le chantier de Nisha comme humiliation fondatrice. Clôt sur : le premier week-end au domaine.
 4. A1_2ter - La Golden Week [AU CHOIX, fin avril - début mai 2005]. Juei no Ryochi. Premier long retour ; la routine des jumeaux retrouvée, et sa différence. Nisha parle de Satoru plus qu'elle ne le voudrait ; Naoya déteste le projet de mariage (raison 5). Avec lui, elle harcèle les cousines Maki et Mai (6 ans) : parlées à la 3e personne, « ratées », graviers subsoniques dans les mollets (même régime qu'en A2_1bis). Le pari sur Yukiko reste ouvert. À planter : la séparation qui se mesure ; l'âge d'or insouciant au domaine. Clôt sur : le retour à Tokyo.
-5. A1_2quater - La première mission [AU CHOIX, mai-juin 2005]. Zone créable (mission encadrée du quatuor). Geto protège des profanes et joute avec Nisha sur place ; Shoko reste à sa place, trie et soigne sans chercher à se battre : Nisha voit qu'elle connaît sa place, et la bascule se fait. Après la mission, première pause clope à trois : Nisha prend sa première cigarette pour rester dans la conversation. À planter : Shoko devenue une amie ; l'habitude de la clope. Clôt sur : l'été.
+5. A1_2quater - La première mission [AU CHOIX, mai-juin 2005]. Zone créable (mission encadrée du quatuor). Geto protège des profanes et joute avec Nisha sur place ; Shoko reste à sa place, trie et soigne sans chercher à se battre : Nisha voit qu'elle connaît sa place, et la bascule se fait. Après la mission, première pause clope à trois : Nisha prend sa première cigarette pour rester dans la conversation. Fin juin, au vu du printemps, l'université évalue le même jour Nisha, Satoru et Geto au GRADE SPÉCIAL, sous tutelle des Instances : Nisha quitte son plafond de clan (Grade Spécial 1) pour le classement officiel, Satoru et Geto passent du Grade 1 au sommet. Shoko, hors course, les regarde faire ; beat narré dans les deux modes. À planter : Shoko devenue une amie ; l'habitude de la clope ; le trio au sommet du grading avant l'Amicale. Clôt sur : l'été.
 6. A1_2quinquies - L'été [AU CHOIX, juillet-août 2005]. Domaine Zenin, puis Tokyo.
    - Week-end au domaine : Naoya, lié par le pacte de l'équipe de choc de Gakuganji (début de l'été, cf. Roadmap/Yukiko/Roadmap_A1.md, YA1_2), dit seulement qu'il connaît le vrai niveau de Yukiko, que Nisha avait tort, et que Yukiko le lui montrera elle-même un jour. Nisha fait la vaisselle. Rien de plus ne filtre.
    - Le hanabi d'août : feux d'artifice d'été à quatre (lieu créable). Un moment seule avec Satoru, sans aveu ni baiser.
@@ -95,6 +95,7 @@ Sans date ni ordre ; seuls les interdits s'appliquent. C'est là que Nisha chang
 ### Requis
 - Nisha s'installe à Tokyo (transfert accepté, chambre au campus, domaine un week-end sur deux).
 - Shoko est devenue son amie avant l'Amicale ; l'opposition avec Geto s'est muée en joutes.
+- Nisha, Satoru et Geto évalués Grade Spécial ensemble, fin juin 2005, avant l'Amicale.
 - L'Amicale est jouée : Nisha disqualifiée au J1 pour avoir frappé Satoru, battue par Yukiko au J2.
 - Le couple Nisha-Satoru est formé au nouvel an.
 - Nisha a reçu le collier le 30 jan 2006.
