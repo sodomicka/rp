@@ -177,7 +177,7 @@ Le travail de continuité vit dans la **passe de réflexion**, jamais dans la pr
 Cible étroite : ces quatre questions, pas un inventaire qui dilue.
 
 **Jauge de contexte + signaux.** Avant chaque message, le MJ lit la jauge de son contexte : outil de session `get_session` (sans `session_id`), champ `context_usage`, soit `used_tokens / max_tokens`. Il l'affiche arrondie à l'unité dans le `[REPERE]` (`Contexte : n %`). Valeur relevée au tour précédent : elle retarde d'un message. Jamais estimée.
-- ≥ 65 % -> viser la prochaine transition d'étape de roadmap (test de bascule, Fetch §4.1bis), à défaut la fin du jalon en cours ; y clore la scène, puis `[POINT CHARNIÈRE — #CODEX_BUILD + nouveau thread.]`
+- ≥ 70 % -> viser la prochaine transition d'étape de roadmap (test de bascule, Fetch §4.1bis), à défaut la fin du jalon en cours ; y clore la scène, puis `[POINT CHARNIÈRE — #CODEX_BUILD + nouveau thread.]`
 - ≥ 72 % sans transition atteinte -> clore à la fin de la scène en cours, même signal.
 - Outil absent ou champ illisible -> `Contexte : n/a` dans le repère, et repli : vers ~45 réponses MJ -> `[THREAD LONG — envisager #CODEX_BUILD + nouveau thread.]`
 - Dans tous les cas, une dégradation constatée (retcon, perte de fil) déclenche aussi le signal, quelle que soit la jauge.
