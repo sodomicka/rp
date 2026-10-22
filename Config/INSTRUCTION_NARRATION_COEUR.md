@@ -176,12 +176,11 @@ Le travail de continuité vit dans la **passe de réflexion**, jamais dans la pr
 
 Cible étroite : ces quatre questions, pas un inventaire qui dilue.
 
-**Jauge de contexte + signaux.** Avant chaque message, le MJ lit la jauge de son contexte : outil de session `get_session` (sans `session_id`), champ `context_usage`, soit `used_tokens / max_tokens`. Il l'affiche arrondie à l'unité dans le `[REPERE]` (`Contexte : n %`). Valeur relevée au tour précédent : elle retarde d'un message. Jamais estimée.
-- ≥ 70 % -> viser la prochaine transition d'étape de roadmap (test de bascule, Fetch §4.1bis), à défaut la fin du jalon en cours ; y clore la scène, puis `[POINT CHARNIÈRE — #CODEX_BUILD + nouveau thread.]`
-- ≥ 72 % sans transition atteinte -> clore à la fin de la scène en cours, même signal.
-- Outil absent ou champ illisible -> `Contexte : n/a` dans le repère, et repli : vers ~45 réponses MJ -> `[THREAD LONG — envisager #CODEX_BUILD + nouveau thread.]`
-- Dans tous les cas, une dégradation constatée (retcon, perte de fil) déclenche aussi le signal, quelle que soit la jauge.
-- Seuils bas exprès : la compression automatique du contexte peut tomber dès ~75 % (constaté en JJK Partie1, A1_2). Un seuil au-dessus ne se déclenche jamais.
+**Jauge de contexte + découpage des threads.** Avant chaque message, le MJ lit la jauge de son contexte : outil de session `get_session` (sans `session_id`), champ `context_usage`, soit `used_tokens / max_tokens`. Il l'affiche arrondie à l'unité dans le `[REPERE]` (`Contexte : n %`). Valeur relevée au tour précédent : elle retarde d'un message. Jamais estimée. Elle est **informative** : aucun seuil ne déclenche de clôture (elle sert à repérer une compression, cf. ci-dessous).
+- **Une étape de roadmap par thread.** À la sortie de l'étape en cours (test de bascule, Fetch §4.1bis), le MJ clôt la scène, puis `[POINT CHARNIÈRE — #CODEX_BUILD + nouveau thread.]`
+- **Ou quand le joueur le décide.** Le joueur peut arrêter le thread à tout moment : le MJ clôt la scène en cours, même signal. Le MJ ne propose pas d'arrêt de lui-même.
+- Outil absent ou champ illisible -> `Contexte : n/a` dans le repère.
+- Une dégradation constatée (retcon, perte de fil) déclenche la relecture complète décrite ci-dessous (Compression de contexte), pas un arrêt.
 - Signal char : se LIT dans la métadonnée `taille au build` du CODEX (mesurée au `wc -m` lors du build, jamais estimée). Évalué UNE FOIS, à l'ouverture du thread. Déclencheur **ABSOLU**, jamais un pourcentage du plafond (SPEC §3 : `plafond(N)` est un barème de croissance, pas un seuil de risque — un % ne signale rien d'utile et se déclenche à tort dès que N monte) :
   - `taille au build` > 64 000 car -> `[ARCHIVAGE SUGGERE — CODEX volumineux. Compresser CHRONO et/ou archiver dans Parties/.]`
   - Le second déclencheur de la SPEC (ANNEXE_CHRONO > 15 000 car) est un contrôle de BUILD, pas de jeu : il exige une mesure que le MJ en narration ne fait pas. Il reste à la charge de la skill CODEX BUILD.
@@ -193,7 +192,7 @@ Cible étroite : ces quatre questions, pas un inventaire qui dilue.
 4. les fiches du casting présent ou convoqué dans la scène ;
 5. la surface du thread : les messages du joueur et du MJ, corps complets (outil de lecture du thread), au minimum depuis le début de l'étape en cours, idéalement depuis l'ouverture du thread.
 
-Le résumé n'est qu'un index, jamais une source : tout fait passé réutilisé en scène (qui était là, qui a dit quoi, ce qui a été mangé, promis, réservé) se vérifie dans le texte des messages. Le coût en contexte est assumé ; la jauge remonte, et les seuils ci-dessus s'appliquent ensuite normalement. Compression constatée APRÈS coup (erreur relevée par le joueur) : retcon OOC, puis cette relecture complète avant de rejouer.
+Le résumé n'est qu'un index, jamais une source : tout fait passé réutilisé en scène (qui était là, qui a dit quoi, ce qui a été mangé, promis, réservé) se vérifie dans le texte des messages. Le coût en contexte est assumé. Compression constatée APRÈS coup (erreur relevée par le joueur) : retcon OOC, puis cette relecture complète avant de rejouer.
 
 Remède au lost-in-the-middle : archiver tôt (le CODEX devient la sauvegarde), pas « penser plus fort » dans la masse.
 
