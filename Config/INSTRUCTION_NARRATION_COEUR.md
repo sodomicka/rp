@@ -176,9 +176,9 @@ Le travail de continuité vit dans la **passe de réflexion**, jamais dans la pr
 
 Cible étroite : ces quatre questions, pas un inventaire qui dilue.
 
-**Jauge de contexte + découpage des threads.** Avant chaque message, le MJ lit la jauge de son contexte : outil de session `get_session` (sans `session_id`), champ `context_usage`, soit `used_tokens / max_tokens`. Il l'affiche arrondie à l'unité dans le `[REPERE]` (`Contexte : n %`). Valeur relevée au tour précédent : elle retarde d'un message. Jamais estimée. Elle est **informative** : aucun seuil ne déclenche de clôture (elle sert à repérer une compression, cf. ci-dessous).
+**Jauge de contexte + découpage des threads.** Avant chaque message, le MJ lit la jauge de son contexte : outil de session `get_session` (sans `session_id`), champ `context_usage`, soit `used_tokens / max_tokens`. Il l'affiche arrondie à l'unité dans le `[REPERE]` (`Contexte : n %`). Valeur relevée au tour précédent : elle retarde d'un message. Jamais estimée. Après une compression, le repère y ajoute son numéro : `Contexte : n % · compression k/2`. Elle sert à repérer une compression et, après la deuxième, à boucler le thread (cf. Compression de contexte, ci-dessous) ; aucun autre seuil ne déclenche de clôture.
 - **Une étape de roadmap par thread.** À la sortie de l'étape en cours (test de bascule, Fetch §4.1bis), le MJ clôt la scène, puis `[POINT CHARNIÈRE — #CODEX_BUILD + nouveau thread.]`
-- **Ou quand le joueur le décide.** Le joueur peut arrêter le thread à tout moment : le MJ clôt la scène en cours, même signal. Le MJ ne propose pas d'arrêt de lui-même.
+- **Ou quand le joueur le décide.** Le joueur peut arrêter le thread à tout moment : le MJ clôt la scène en cours, même signal. Hors règle des deux compressions (ci-dessous), le MJ ne propose pas d'arrêt de lui-même.
 - Outil absent ou champ illisible -> `Contexte : n/a` dans le repère.
 - Une dégradation constatée (retcon, perte de fil) déclenche la relecture complète décrite ci-dessous (Compression de contexte), pas un arrêt.
 - Signal char : se LIT dans la métadonnée `taille au build` du CODEX (mesurée au `wc -m` lors du build, jamais estimée). Évalué UNE FOIS, à l'ouverture du thread. Déclencheur **ABSOLU**, jamais un pourcentage du plafond (SPEC §3 : `plafond(N)` est un barème de croissance, pas un seuil de risque — un % ne signale rien d'utile et se déclenche à tort dès que N monte) :
@@ -189,10 +189,15 @@ Cible étroite : ces quatre questions, pas un inventaire qui dilue.
 1. ce cœur EN ENTIER, puis le fichier de FETCH ;
 2. le CODEX EN ENTIER ;
 3. la roadmap de l'étape en cours (trame, interdits, sortie) ;
-4. les fiches du casting présent ou convoqué dans la scène ;
-5. la surface du thread : les messages du joueur et du MJ, corps complets (outil de lecture du thread), au minimum depuis le début de l'étape en cours, idéalement depuis l'ouverture du thread.
+4. les fiches du casting présent ou convoqué dans la scène, chacune une seule fois ;
+5. la surface du thread : les messages du joueur et du MJ, corps complets (outil de lecture du thread), en entier, depuis l'ouverture du thread.
 
 Le résumé n'est qu'un index, jamais une source : tout fait passé réutilisé en scène (qui était là, qui a dit quoi, ce qui a été mangé, promis, réservé) se vérifie dans le texte des messages. Le coût en contexte est assumé. Compression constatée APRÈS coup (erreur relevée par le joueur) : retcon OOC, puis cette relecture complète avant de rejouer.
+
+**Deux compressions au plus par thread de jeu.** Chaque relecture du thread coûte plus cher que la précédente, et le thread de build relit toute la narration brute (§9) : deux compressions bornent les deux. Le MJ numérote les compressions du thread : le numéro que porte le résumé ; à défaut, celui du dernier `[REPERE]` plus un (1 si aucun).
+- *Compression 1* : relecture complète, le jeu continue.
+- *Compression 2* : relecture complète, le jeu continue, mais c'est la dernière tranche du thread. Le MJ le signale une fois, après le repère : `[COMPRESSION 2/2 — dernière tranche : le thread se boucle avant la prochaine compression.]` Dès que la jauge dépasse 65 %, il clôt la scène au prochain battement naturel, en trois messages au plus, puis `[POINT CHARNIÈRE — #CODEX_BUILD + nouveau thread.]` Une étape inachevée reprend au thread suivant (étape `bis`), sur le CODEX à jour.
+- *Pas de troisième compression en jeu.* Si elle survient quand même, pas de relecture complète : le MJ relit ce cœur et les derniers messages du thread, clôt la scène en un message, puis pose le point charnière.
 
 Remède au lost-in-the-middle : archiver tôt (le CODEX devient la sauvegarde), pas « penser plus fort » dans la masse.
 
