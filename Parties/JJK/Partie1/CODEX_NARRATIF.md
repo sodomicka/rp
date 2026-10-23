@@ -12,7 +12,7 @@
   note: les tampons OOC (§5) et interdits (§6) utilisent [V<n>], pas la date.
 - codex_version: V10
 - plafond: 57 000 car. (barème : min(30 000 + 3 000 x (N-1), 90 000))
-- taille au build: 27684 car. (49 % du plafond(N))
+- taille au build: 27666 car. (49 % du plafond(N))
 - thread source: Partie JJK : A1 la Clôture | cmsg_01MY5EoYgecDdhQvUijNYPy6WQKGf58FcMYw7WDGtcprkd
 - spec au build: SPEC_CODEX v8.10 (source: GitHub)
 - bible_lore: BIBLE_LORE_JJK.md
@@ -61,7 +61,7 @@ Instance : ICI + Parties/Suivi. Entité : cf. WIKI Personnages/Nisha.md.
 - PNJ présents physiquement : Satoru, Geto, Shoko.
 - Savoir du protagoniste : Satoru sait la promesse à Maki.
 - Savoir caché : cf. [ANNEXE_SAVOIRS].
-- Tension dominante : aucune ; calme avant Hamamatsu.
+- Tension dominante : calme avant Hamamatsu.
 - Rapport de force : Nisha n°1 ; Satoru tient plus longtemps derrière l'Infini.
 - Dernier échange - joueur : *De trois minutes, Nao. De trois minutes. Entraînement ? Même si tu vas me sembler faiblard comparé à mon Satoru...* / Naoya : *Très bien. Dojo. Pas de collier, pas de domaine, et quand tu seras par terre, tu me répéteras qui est faiblard.*
 - État-clé minimal : nuée en cours ; couteau promis à Maki ; Haibara condamné.
@@ -77,7 +77,8 @@ Instance : ICI + Parties/Suivi. Entité : cf. WIKI Personnages/Nisha.md.
 - [V5] - Interdit de roadmap levé : Geto et Shoko savent Eien depuis le 24 mai 2005. | ANNEXE_SAVOIRS
 - [V7] - Archives : seules les pièces (parchemins, rouleaux) restent au clan ; ce que Nisha écrit ou dit de sa main est libre. | ANNEXE_INVENTAIRE
 - [V9] - Forge déléguée par le joueur : le MJ narre les gestes de Nisha en résumé. | ANNEXE_STYLE
-- [V10] - Satoru non éveillé : bien plus lent que Nisha et Naoya en vitesse pure, sans téléportation ; ne se rapproche que par la défense. | §3a, ANNEXE_PNJ
+- [V10] - Satoru non éveillé : plus lent que Nisha et Naoya en vitesse pure, sans téléportation ; ne se rapproche que par la défense. | §3a, ANNEXE_PNJ
+- [V10] - Le patriarche seul nomme les filles Zenin ; Maki et Mai nommées sur le forcing d'Ogi, comme Nisha par Naobito. | ANNEXE_PNJ
 
 ### §6 Interdits accumulés
 - [V1] - Nozomu : mort hors champ, jamais magnifiée ; doctrine jamais romantisée. Idem toute fin de vie choisie.
@@ -91,7 +92,6 @@ Instance : ICI + Parties/Suivi. Entité : cf. WIKI Personnages/Nisha.md.
 - [V7] - Rejouer un battement en deux messages : le refaire en entier, en un seul.
 - [V8] - Inventer un beat ou un fait hors roadmap et fiches.
 - [V9] - Laisser passer une erreur de fait du joueur : la corriger hors fiction.
-- [V10] - Prénom de fille Zenin donné par son père : le patriarche seul nomme ; Maki et Mai : nommeur [INCERTAIN].
 
 ### §7 #SITES_REF
 | Source | URL | Usage |
@@ -139,7 +139,7 @@ Fiches complètes : cf. WIKI Personnages/<Nom>.md. Ici : voix, rapport à Nisha,
 - Université de Tokyo : dortoirs non mixtes, deux étages ; filles de l'autre côté de la cour ; profs face à la cour. Cafét' à 18 h. Distributeur sous l'auvent. Terrain : ancienne rizière derrière le gymnase. Cerisiers dans la cour.
 - Pantins de Yaga : feutre gris et bois clair, taille d'un chat.
 - Domaine : forge adossée à la pente ; salle du conseil servant de dojo (tatami à liserés violets).
-- Harcèlement des jumelles déjà à la Golden Week 2005 (graviers), évoqué en jeu : [INCERTAIN], absent des fiches.
+- Les jumeaux harcèlent Maki et Mai depuis toujours (graviers compris), absent des fiches.
 
 ---
 
