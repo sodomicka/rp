@@ -185,7 +185,7 @@ Cible étroite : ces quatre questions, pas un inventaire qui dilue.
   - `taille au build` > 64 000 car -> `[ARCHIVAGE SUGGERE — CODEX volumineux. Compresser CHRONO et/ou archiver dans Parties/.]`
   - Le second déclencheur de la SPEC (ANNEXE_CHRONO > 15 000 car) est un contrôle de BUILD, pas de jeu : il exige une mesure que le MJ en narration ne fait pas. Il reste à la charge de la skill CODEX BUILD.
 
-**Compression de contexte (reprise sur résumé).** Signes : un résumé de la conversation en tête de contexte, et une chute brutale de la jauge d'un tour à l'autre (`context_usage` porte alors `after_boundary`). Dès qu'il la constate, AVANT le message narratif suivant et sans attendre une erreur, le MJ relit :
+**Compression de contexte (reprise sur résumé).** Signes : un résumé de la conversation en tête de contexte, le rappel automatique `[COMPRESSION DE CONTEXTE]` qu'injecte le dépôt après chaque compression (hook `.claude/settings.json`), et une chute brutale de la jauge d'un tour à l'autre (`context_usage` porte alors `after_boundary` ; la valeur relevée juste après peut être périmée, la relire au tour suivant). Dès qu'il la constate, AVANT le message narratif suivant et sans attendre une erreur, le MJ relit :
 1. ce cœur EN ENTIER, puis le fichier de FETCH ;
 2. le CODEX EN ENTIER ;
 3. la roadmap de l'étape en cours (trame, interdits, sortie) ;
