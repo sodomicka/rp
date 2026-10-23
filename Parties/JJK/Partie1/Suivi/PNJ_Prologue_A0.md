@@ -1,7 +1,7 @@
 # PNJ du prologue A0 - Seconds rôles sortis de scène (Partie1)
 
 - partie : 1
-- version : W1
+- version : W2
 
 Mémoire refroidie : seconds rôles du prologue A0 (1987-2005) qui sortent durablement de scène à l'ouverture d'A1. Froid : fetch à la demande. Fiches de lore : cf. WIKI Personnages/<Nom>.md.
 
@@ -10,7 +10,7 @@ Mémoire refroidie : seconds rôles du prologue A0 (1987-2005) qui sortent durab
 - Pour Nisha : un corps vide, « un mur » à ses sens. Naobito le lui désigne comme « un chien », « un Zenin vide ».
 - Railleries des jumeaux en 1996 puis au départ (2000, 23 ans, sac sur l'épaule, porte principale, mille marches). Il n'a jamais tourné la tête vers eux, pas une fois en treize ans.
 - voix : [INCERTAIN] - n'a jamais parlé en jeu.
-- Statut : hors du clan depuis 2000. Retour prévu en A2 (cf. WIKI Roadmap/Nisha/Roadmap_A2.md). Fil « mépris de Toji » : cf. CODEX ANNEXE_TCHEKHOV.
+- Statut : hors du clan depuis 2000. Mort aux Tombes de Tengen, fin mai 2006 (A2_4) : cf. PARTIES Suivi/Plasma_Stellaire_2006.md.
 
 ## Chojuro Zenin
 - Hei. Encadrant le plus fréquent des missions freelance de Nisha (1997-1999) : parle à l'aller, pendant et au retour ; s'attribue au clan la « supervision » de son travail.

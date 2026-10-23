@@ -1,6 +1,6 @@
 # Nisha Zenin - Chronologie datée, ère A (2005-2008)
 
-- version : W14
+- version : W15
 
 Extension de Personnages/Nisha.md, scindée pour le poids (Nisha = entité la plus dense du casting). Contient la TRAJECTOIRE DATÉE post-départ de Nisha pour l'ère A (1 avr 2005 -> hiver 2008) : ce qu'elle DEVIENT après le point de départ, événement par événement. Strate canon par défaut, télégraphique ; le détail vit dans les roadmaps. Build-side : fetchée à la demande, JAMAIS chargée en narration (la roadmap et le CODEX tiennent le contexte de jeu). Le NOYAU (identité, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005) reste dans Personnages/Nisha.md. Ères ultérieures : Nisha_chrono_B.md, etc.
 
@@ -18,7 +18,7 @@ Extension de Personnages/Nisha.md, scindée pour le poids (Nisha = entité la pl
 | 30 jan 2006 | Anniversaire : reçoit le collier-arsenal de Satoru | acquiert l'artefact (76 billes de tungstène, batterie cinétique pour la Chronostase ; cf. SB7) |
 | 1 avr 2006 (A2_1) | Rentrée 2e année ; croise les 1res années (raille le naïf Haibara, distingue le sérieux Nanami, apprécie l'humble Ijichi) | impressions posées (détail côté fiches juniors) |
 | printemps 2006 (A2_1bis) | Avec Naoya, au domaine (week-end), harcèle les cousines Maki et Mai (7 ans) : parlées à la 3e personne, "ratées", "Ogi aurait dû se faire seppuku", graviers subsoniques dans les mollets ; va narguer Ogi sur la loterie génétique (Ogi muet) | dernier âge d'or insouciant (IRONIE : protectorat en A2_6) |
-| printemps 2006 (A2_2) | Mise à l'écart de la mission du Plasma Stellaire (HI + clan ; prétexte du rideau négligé, fond : les Zenin se moquent de Tengen) ; avertissement froid aux escortes : "Amanai = ressource, on ne s'attache pas" | hors du climax du Plasma Stellaire ; pose sa doctrine de la ressource (IRONIE : Geto s'attache) |
+| printemps 2006 (A2_2) | Mise à l'écart de la mission du Plasma Stellaire : Naobito, via les HI, ne veut pas risquer sa Grade Spécial et attendait un prétexte, que fournit le rideau négligé [DIVERGENCE RP] ; maintien levé à la fin de la mission ; avertissement froid aux escortes : "Amanai = ressource, on ne s'attache pas" | hors du climax du Plasma Stellaire, ce qui ne l'empêche pas de tomber sous Toji (A2_4) ; pose sa doctrine de la ressource (IRONIE : Geto s'attache) |
 | printemps 2006 (A2_3) | Clouée à Tokyo, assiste Shoko (morgue/infirmerie) ; ne suit l'escorte qu'à travers les messages de Satoru | seule fenêtre sur la mission = Satoru |
 | 2006 (A2_4) | Fonce quand l'énergie de Satoru s'éteint ; DUEL contre Toji (seul atout : la vitesse ; vide le collier, 1re détonation des 76 billes ; le manque de peu, perd) ; Gojo éveillé la sauve et achève Toji ; elle voit le cadavre de Riko | n1 -> n2 (Gojo éveillé 23, elle 15) ; double plafond le même jour (rang + combat) ; faille d'Eien APPROFONDIE (a failli mourir par amour) |
 | 2006 (A2_5) | Aux portes de la mort, se DÉ-BLESSE au territoire (inversion temporelle, coût colossal, hors d'état après), Satoru veille | survit |

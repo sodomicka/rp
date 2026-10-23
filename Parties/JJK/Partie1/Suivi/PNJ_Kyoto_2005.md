@@ -1,7 +1,7 @@
 # PNJ de Kyoto (Amicale 2005) - Seconds rôles sortis de scène (Partie1)
 
 - partie : 1
-- version : W1
+- version : W2
 
 Mémoire refroidie : seconds rôles de l'université de Kyoto croisés à l'Amicale (A1_3, début septembre 2005), hors de scène pour la suite d'A1. Yukiko et Ranta restent au CODEX. Froid : fetch à la demande. Fiches de lore : cf. WIKI Personnages/<Nom>.md.
 
@@ -12,11 +12,13 @@ Mémoire refroidie : seconds rôles de l'université de Kyoto croisés à l'Amic
 - J2 : a accepté les excuses de Nisha et les garde : « demande avant de frapper ». Malentendu soldé. A deviné que Yukiko l'a vengée ; Nisha ne lui a pas répondu. Rejoint Yukiko au départ.
 - voix : vive, susceptible, mord ; « Iori. Ou senpai. »
 - Inviolable : ne fait pas de scène.
+- Hamamatsu (mi-mai 2006) : cf. PARTIES Suivi/Plasma_Stellaire_2006.md.
 
 ## Mei Mei
 - Kyoto, mercenaire.
 - J1 : battue par Satoru en forêt. J2 : battue par Geto, abandonne.
 - voix : vénale, pince-sans-rire, tout en tarifs ; « Je ne travaille pas à perte. »
+- Hamamatsu (mi-mai 2006) : cf. PARTIES Suivi/Plasma_Stellaire_2006.md.
 - Cf. WIKI Personnages/Mei_Mei.md.
 
 ## Gakuganji
