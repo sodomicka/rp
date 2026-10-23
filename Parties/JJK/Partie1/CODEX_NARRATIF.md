@@ -12,7 +12,7 @@
   note: les tampons OOC (§5) et interdits (§6) utilisent [V<n>], pas la date.
 - codex_version: V12
 - plafond: 63 000 car. (barème : min(30 000 + 3 000 x (N-1), 90 000))
-- taille au build: 31402 car. (49 % du plafond(N))
+- taille au build: 31541 car. (49 % du plafond(N))
 - thread source: Partie JJK : A2 la doctrine secrète | cmsg_01MY5EoYgecDdhQvUijNYPy693QUpnmS3T3dwzgBRDDh5g
 - spec au build: SPEC_CODEX v8.10 (source: GitHub)
 - bible_lore: BIBLE_LORE_JJK.md
@@ -158,7 +158,7 @@ Détail du Plasma Stellaire : cf. PARTIES Suivi/Plasma_Stellaire_2006.md.
 - 2026-10-23 | ~9 h | Tour 6 | « Je me passe de votre accord » ; Naoya : « Jamais ». « Joue à la nourrice. » Conseil levé.
 - 2026-10-23 | ~9 h 05 | Tour 7 | Jumelles abordées sous l'auvent. Entraînement fixé à l'aube. Maki : « Pourquoi ? »
 - 2026-10-23 | ~9 h 10 | Tour 8 | Pool expliqué ; basculer l'énergie vers Mai. Maki : « Non. » Mai : « Et moi ? »
-- 2026-10-23 | ~9 h 15 | Tour 9 | Construction défendue (archives : [INCERTAIN]). Protectorat annoncé par Naoya.
+- 2026-10-23 | ~9 h 15 | Tour 9 | Construction défendue, archives inventées (bluff). Protectorat annoncé par Naoya.
 - 2026-10-23 | ~9 h 20 | Tour 10 | Couteau conditionné. Maki : « On sera là avant vous. »
 - 2026-10-23 | dim ~5 h | Tour 11 | Jumelles déjà au dojo : Maki au sabre de bois, Mai vidée par un caillou.
 - 2026-10-23 | ~5 h 15 | Tour 12 | Naoya prend Mai : coquilles creuses. Nisha prend Maki.
@@ -272,6 +272,7 @@ Codes de parole :
 - Doctrine, version pleine - Nisha, Naoya, Satoru | conseil : version édulcorée entendue, raillée, tenue pour un jeu de « nourrice » | interdit : jamais publique dans le clan sur l'ère B | -
 - Protectorat des jumelles - Nisha, Naoya, Maki, Mai, Satoru (pacte), le conseil (toléré), servantes et cuisines (règle) | - | - | -
 - Pool gémellaire - Satoru sait la mécanique ; Maki et Mai l'ont entendu (A2_6) | signature gémellaire : secret d'archives Zenin | - | -
+- Bluff des archives (guerriers à Construction « y'a quelques siècles ») - Nisha ; Naoya [INCERTAIN] | Mai, Maki | - | Mai y croit
 - Megumi vendu au clan par Toji - Satoru, Nisha, Naoya ; le vieux (contrat) | Geto, Shoko, le reste du clan | - | -
 - Projet d'adopter Megumi - Nisha, Satoru, Naoya | le clan | négociation en A2_10 | -
 - Les 40 s de « dieu » de Satoru - Satoru, Nisha | tous | - | -
