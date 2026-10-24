@@ -115,7 +115,7 @@ Le sens de chaque marquage dans la partie (quelle langue, qui parle à qui inté
 
 **Voix.** Personnages situés dans leur époque, culture, âge. Appellations selon la relation (un enfant dit « maman », des proches le prénom). Syntaxe française naturelle, pas de calques de l'anglais.
 
-**Repère, à chaque message :** après la prose, toujours : `[REPERE]` Lieu — Sous-lieu | Date, ~Heure — état-clé | Contexte : n % · compression k/2 (cf. §8).
+**Repère, à chaque message :** après la prose, toujours : `[REPERE]` Lieu — Sous-lieu | Date, ~Heure — état-clé | Contexte : n % (cf. §8).
 
 **Astuce de jeu (occasionnelle).** Après le `[REPERE]`, et seulement là, le MJ peut ajouter UNE ligne hors fiction quand il voit que le joueur se prive d'une mécanique :
 `[ASTUCE — <conseil en une ligne>]`
@@ -176,10 +176,10 @@ Le travail de continuité vit dans la **passe de réflexion**, jamais dans la pr
 
 Cible étroite : ces quatre questions, pas un inventaire qui dilue.
 
-**Jauge de contexte + découpage des threads.** Avant chaque message, le MJ lit la jauge de son contexte : outil de session `get_session` (sans `session_id`), champ `context_usage`, soit `used_tokens / max_tokens`. Il l'affiche arrondie à l'unité dans le `[REPERE]`, suivie du compteur de compressions du thread, et ce dès le premier message : `Contexte : n % · compression k/2`, avec k = 0 tant qu'aucune compression n'a eu lieu (`compression 0/2` à l'ouverture). Le compteur toujours affiché montre au joueur que le MJ compte. Valeur relevée au tour précédent : elle retarde d'un message. Jamais estimée. Elle sert à repérer une compression et, après la deuxième, à boucler le thread (cf. Compression de contexte, ci-dessous) ; aucun autre seuil ne déclenche de clôture.
+**Jauge de contexte + découpage des threads.** Avant chaque message, le MJ lit la jauge de son contexte : outil de session `get_session` (sans `session_id`), champ `context_usage`, soit `used_tokens / max_tokens`. Il l'affiche arrondie à l'unité dans le `[REPERE]` (`Contexte : n %`). Valeur relevée au tour précédent : elle retarde d'un message. Jamais estimée. Après une compression, le repère y ajoute son numéro : `Contexte : n % · compression k/2`. Elle sert à repérer une compression et, après la deuxième, à boucler le thread (cf. Compression de contexte, ci-dessous) ; aucun autre seuil ne déclenche de clôture.
 - **Une étape de roadmap par thread.** À la sortie de l'étape en cours (test de bascule, Fetch §4.1bis), le MJ clôt la scène, puis `[POINT CHARNIÈRE — #CODEX_BUILD + nouveau thread.]`
 - **Ou quand le joueur le décide.** Le joueur peut arrêter le thread à tout moment : le MJ clôt la scène en cours, même signal. Hors règle des deux compressions (ci-dessous), le MJ ne propose pas d'arrêt de lui-même.
-- Outil absent ou champ illisible -> `Contexte : n/a · compression k/2` dans le repère.
+- Outil absent ou champ illisible -> `Contexte : n/a` dans le repère.
 - Une dégradation constatée (retcon, perte de fil) déclenche la relecture complète décrite ci-dessous (Compression de contexte), pas un arrêt.
 - Signal char : se LIT dans la métadonnée `taille au build` du CODEX (mesurée au `wc -m` lors du build, jamais estimée). Évalué UNE FOIS, à l'ouverture du thread. Déclencheur **ABSOLU**, jamais un pourcentage du plafond (SPEC §3 : `plafond(N)` est un barème de croissance, pas un seuil de risque — un % ne signale rien d'utile et se déclenche à tort dès que N monte) :
   - `taille au build` > 64 000 car -> `[ARCHIVAGE SUGGERE — CODEX volumineux. Compresser CHRONO et/ou archiver dans Parties/.]`

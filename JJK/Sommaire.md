@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W62
+- version : W61
 
 ## WIKI
 
@@ -52,7 +52,7 @@ Description : fiches personnages du monde.
 - Maki.md (W20) - fille d'Ogi, jumelle de Mai, Restriction Céleste physique ; trajectoire A2-B3 (refuge Saitama 2014, élève de Satoru à Tokyo 2017 ; coup d'État D1, 10/90, quasi indétectable).
 - Mai.md (W15) - fille d'Ogi, jumelle de Maki, Construction, unité Akashi ; trajectoire A2-B3 (leçon de Nisha 2015 : exploite 8 ; élève d'Utahime 2017 puis de Nisha 2018 ; acculée au coup d'État, 10/90, part à Tokyo).
 - Toji.md (W9) - Toji Fushiguro, né Zenin, Tueur d'Exorcistes, Restriction Céleste, père de Megumi.
-- Satoru.md (W21) - Satoru Gojo, guerrier parfait du clan Gojo, Infini + Six Yeux, rival de Nisha, chef de fait ; domaine : Sphère de l'Espace Infini (VO Unlimited Void) ; contraction de l'espace (entraînée à l'époque des bandages ; le mot « téléportation » récusé) ; statut découvert à l'ÉVEIL DE SON SORT à 4 ans (1990-1991, règle des yeux) et non à la naissance ; symétrie-vaccin en vérité d'usage MJ ; filtre des yeux (lunettes rondes, bandages, bandeau du 7 déc) : noyau + trajectoire datée (A1) -> Satoru_chrono_B.md.
+- Satoru.md (W20) - Satoru Gojo, guerrier parfait du clan Gojo, Infini + Six Yeux, rival de Nisha, chef de fait ; domaine : Sphère de l'Espace Infini (VO Unlimited Void) ; statut découvert à l'ÉVEIL DE SON SORT à 4 ans (1990-1991, règle des yeux) et non à la naissance ; symétrie-vaccin en vérité d'usage MJ ; filtre des yeux (lunettes rondes, bandages, bandeau du 7 déc) : noyau + trajectoire datée (A1) -> Satoru_chrono_B.md.
 - Satoru_chrono_B.md (W11) - trajectoire datée de Satoru, ères B à D (2008-2018) : entrées B1-B3 (prof à Tokyo, famille de Saitama, mort de Geto de ses mains, effondrement et relève) + ères C et D (bannissement, Lisière, Shinjuku).
 - Tengen.md (W7) - Tengen, 4e esprit vengeur resté de chair, pilier immortel des barrières, immortalité + Plasma Stellaire, lien ancien avec Kenjaku (Merger), nœud de 2006.
 - Geto.md (W14) - Suguru Geto, prodige hors-clan de la promo Tokyo 2005-2008, Manipulation des Esprits Maudits, l'un des deux plus forts avec Gojo, négatif moral de Nisha : noyau + trajectoire datée (A1 + A2 : chantier de Yaga, escorte de Riko, bascule de conviction, les deux gouttes, défection fin 2007 ; sépulture nov 2018 au sanctuaire de la forêt de l'école de Tokyo, Nanami et Tsukumo à côté) + postérité pédagogique (prévention 2008-2017, histoire récente dès 2018).
