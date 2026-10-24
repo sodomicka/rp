@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W65
+- version : W66
 
 ## WIKI
 
@@ -62,7 +62,7 @@ Description : fiches personnages du monde.
 - Mei_Mei.md (W11) - Mei Mei, exorciste mercenaire (élève à Kyoto en 2005, prof de 3e année à Kyoto dès avr 2013), manipulation de corbeaux, obsédée par l'argent : noyau + trajectoire datée (recrutement au resto à quatre de mars 2013 ; Nuit des Cent Fleaux : commandante des cadets) ; frère Ui Ui (tertiaire rattaché).
 - Utahime.md (W12) - Utahime Iori, professeure à Kyoto (élève de 2e année en 2005), Zone Interdite Individuelle, pur soutien : noyau + relations Nisha (malentendu-rivalité à sens unique né et soldé à l'Amicale de sept 2005) et Yukiko (se déclare nov 2005, conjointe princière 1 jan 2006, dans le cercle au périmètre Nori) + trajectoire datée (Amicale et déclaration 2005, resto à quatre 2013, noces 2015, relève 2017, rempart des cadets à la Parade).
 - Riko.md (W2) - Riko Amanai, 14 ans en 2006, Plasma Stellaire désigné pour la fusion de Tengen 2006 ; escortée par Gojo/Geto puis tuée par Toji - détonateur de la chute de Geto (A2, hors-champ POV Nisha).
-- Haibara.md (W3) - Yu Haibara, 1re année Tokyo (promo 2006-2009), Grade 2, optimiste solaire ; mort fin 2007 sur une mission - détonateur final de la chute de Geto (A2).
+- Haibara.md (W4) - Yu Haibara, 1re année Tokyo (promo 2006-2009), Grade 2 SANS sort inné, optimiste solaire et ambitieux ; mort fin 2007 sur une mission - détonateur final de la chute de Geto (A2).
 - Nanami.md (W8) - Kento Nanami, promo Tokyo 2006-2009, Ratio Technique (7:3), pragmatique ; binôme de Haibara, survit à A2 ; ère B : ~4 ans salaryman puis prof de 3e année à Tokyo dès avr 2013 ; record 4x Black Flash au front de Tokyo (Parade 2017) ; mentor de Takuma Ino.
 - Ijichi.md (W4) - Kiyotaka Ijichi, 1re année Tokyo (promo 2006-2009, ajout RP), voie manager non combattant (logistique, renseignement, barrières) ; survit à A2.
 - Yuki.md (W9) - Yuki Tsukumo, une des quatre Grade Spécial, électron libre hors système, 15 doigts (3e puissance de facto) ; expose à Geto deux voies pour empêcher la naissance des fléaux (août 2007), dont il déduit seul sa 3e voie génocidaire (A2).
