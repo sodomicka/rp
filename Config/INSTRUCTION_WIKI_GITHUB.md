@@ -52,5 +52,6 @@ for seg in html.split('\"rawLines\":')[1:]:
 4. Un nouveau thread ne lit que main : une PR non fusionnée n'existe pas pour lui.
 5. Échec d'écriture : [ECRITURE ECHOUEE - <fichier>], signalé au worldbuilder, jamais contourné.
 6. Fusion : le MJ fusionne lui-même la PR sur main en fin de thread, une fois tout validé.
+7. Exception, le CODEX BUILD : lancé sur l'ordre du joueur seul, il est autonome. Ses livrables s'écrivent, se poussent et se fusionnent sans validation préalable, puis le thread de build lance le thread de jeu suivant (cœur Narration §9).
 
 FIN_INSTRUCTION_WIKI_GITHUB
