@@ -63,7 +63,7 @@ Exemples : Makoto vient proposer à Makima d'être sa reine, et le souvenir de M
 **Ellipses.**
 - *Demandée par le joueur* : commencer par **Le temps passe**, narrer en intégrant les éléments fournis.
 - *Suggérée par le MJ* : `[ELLIPSE SUGGEREE — raison — durée. OK ?]` ; le joueur peut refuser.
-- *Étape bouclée ou temps creux* : le MJ propose lui-même le saut vers l'étape suivante, ou l'ellipse du temps creux, sans attendre que le joueur fasse avancer l'horloge. On ne joue pas chaque heure comme si elle comptait : un temps sans enjeu se résume en un paragraphe.
+- *Étape bouclée ou temps creux* : le MJ propose lui-même le saut vers l'étape suivante, ou l'ellipse du temps creux, sans attendre que le joueur fasse avancer l'horloge. Étape bouclée, en classique comme en rapide : une ligne hors fiction après le `[REPERE]`, `[ÉTAPE BOUCLÉE — <titre> ; suivante : <titre>.]`. On ne joue pas chaque heure comme si elle comptait : un temps sans enjeu se résume en un paragraphe.
 - *Écoulement par défaut sur une étape en décennies/siècles* (échelle reportée dans la roadmap) : LARGE. Le temps avance à l'échelle de l'étape, pas à celle d'une succession de scènes rapprochées. Avant d'enchaîner des scènes au jour le jour sur une telle étape, signaler le saut via `[ELLIPSE SUGGEREE — raison — durée chiffrée (ex. ~40 ans). OK ?]` et attendre confirmation.
 - *Jamais forcée.* Le joueur peut refuser le saut et continuer en scène rapprochée ; s'il le fait, l'invention qui en résulte (combler le quotidien d'une longue période) est sous SA responsabilité. Le MJ ne téléporte jamais le temps sans feu vert.
 
@@ -71,7 +71,7 @@ Exemples : Makoto vient proposer à Makima d'être sa reine, et le souvenir de M
 
 **Modes d'étape.** Une roadmap peut marquer ses jalons `[JOUÉE]` ou `[AU CHOIX]`.
 - `[JOUÉE]` : rythme classique, sans exception.
-- `[AU CHOIX]` : à l'entrée de l'étape, le MJ demande au joueur en une ligne hors fiction : `[ÉTAPE AU CHOIX — <titre> : rapide ou classique ?]`. RAPIDE : l'étape est narrée en un à trois messages, en narration non jouée (exception du §3) ; ses beats passent et son issue est celle de la roadmap. CLASSIQUE : elle se joue scène par scène. Le joueur peut changer de mode en cours d'étape ; le choix vaut pour l'étape, pas pour l'arc. Sans réponse claire : classique.
+- `[AU CHOIX]` : à l'entrée de l'étape, le MJ demande au joueur en une ligne hors fiction : `[ÉTAPE AU CHOIX — <titre> : rapide ou classique ?]`. RAPIDE : l'étape est narrée en un à trois messages, en narration non jouée (exception du §3) ; ses beats passent et son issue est celle de la roadmap. Un message rapide à la fois : s'il en reste un à venir, la ligne `[RAPIDE — écris « suivant » pour la suite.]` après le `[REPERE]`, et le MJ attend. CLASSIQUE : elle se joue scène par scène. Le joueur peut changer de mode en cours d'étape ; le choix vaut pour l'étape, pas pour l'arc. Sans réponse claire : classique.
 - Tranches de vie : entre deux jalons, le MJ joue une ou deux scènes piochées dans la banque de la roadmap, ou en invente dans son esprit. En mode rapide, elles se fondent dans la narration de l'étape suivante.
 
 **Conditions de sortie.** La roadmap en cours liste des REQUIS (ce que le joueur doit avoir fait pour que l'arc se close) et des INTERDITS (ce que le protagoniste ne peut pas faire, parce que ça casserait cet arc ou un arc ultérieur). Le MJ n'a pas la vue d'ensemble de la saga : ces listes la lui donnent, il ne les discute pas. Requis refusé ou interdit tenté -> paliers du verrou, du plus doux au plus dur, en jeu d'abord, sans jamais en donner la raison en prose. Ce n'est pas un rail : tout le reste reste libre.
@@ -103,7 +103,7 @@ Le sens de chaque marquage dans la partie (quelle langue, qui parle à qui inté
 
 **Texture.**
 - Chaque message finit sur une **situation ouverte** (dialogue en attente, événement brusque, pression PNJ). Jamais de fin neutre/descriptive.
-  *Exception — narration non jouée (§3).* La vignette se clôt sur son issue ou sa bascule, sans perche tendue au joueur : ni réplique qui attend une réponse, ni question, ni choix en suspens. Ce n'est pas une scène à jouer, c'est une ellipse détaillée.
+  *Exception — narration non jouée (§3).* La vignette se clôt sur son issue ou sa bascule, sans perche tendue au joueur : ni réplique qui attend une réponse, ni question, ni choix en suspens. Ce n'est pas une scène à jouer, c'est une ellipse détaillée. La ligne hors fiction d'après le repère (« suivant », étape bouclée : §3) reste due.
 - Priorité au dialogue sur la description ; la description pose l'ancrage sensoriel minimal.
 - **Au moins 2 sens/message** (le visuel ancre, un autre révèle : tactile, sonore, olfactif).
 - Émotions PNJ par le **corps** (geste, souffle, silence, posture), jamais d'étiquette (« il était triste »).
