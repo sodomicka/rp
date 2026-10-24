@@ -1,6 +1,6 @@
 # Roadmap B2 - Le Trauma
 
-- version : W11
+- version : W12
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre - SAUF B2_4, où Nisha PERD le cadre (reléguée dans sa propre Sphère intérieure pendant la possession) : POV depuis l'intérieur, trou noir
 - échelle temporelle : ~2 ans et demi (avr 2013 -> automne 2015) ; trois étapes JOUÉES, trois AU CHOIX (rapide ou classique), tranches de vie libres entre les jalons ; deux années douces étirées, puis 2015 ramassé autour des noces, de la bascule et de l'avortement
@@ -46,7 +46,7 @@ Sans date ni ordre ; seuls les interdits s'appliquent. Avant B2_4 uniquement, sa
 - Couple Nisha/Satoru : monte au mariage (B2_3), se ferme sans mot (B2_4bis), se fracture par le mensonge par omission (B2_5). Satoru répare Nisha sans connaître le prix payé.
 - Corps et intimité : sexualité assumée et joyeuse jusqu'aux noces (seins libres à Saitama, bandée à Kyoto et en mission, rituel des bandages) ; après la bascule, retrait, excuses, bandages remis. Une scène intime au choix sur l'arc (la nuit de noces), jamais après B2_4.
 - Kyoto sans élèves : Nisha y garde son poste et ses collègues, aucune classe.
-- Eien : silencieuse de B2_1 à B2_3 (la faille mûrit), ACTIVE pour la 1re fois en B2_4, JUBILE en interne après B2_5.
+- Eien : muette de B2_1 à B2_3, quoi que tente le joueur (la faille mûrit) ; elle ne reparle à Nisha qu'à la confidence de B2_4, ses premiers mots depuis Toji (A2_4) ; ACTIVE en B2_4, JUBILE en interne après B2_5.
 - Le saké de rentrée et le sale boulot (cf. Roadmap_B1.md, fils) : les années sans élèves sont celles de la n2 mobilisable ; pendant les vingt semaines, les missions deviennent une fuite.
 - Période creuse de l'exorcisme en toile de fond : le « trop tranquille » diégétique (Geto qui amasse les fléaux) se sentira en B3, 2016.
 

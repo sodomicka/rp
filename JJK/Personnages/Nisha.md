@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W33
+- version : W34
 
 Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de départ (2005) : identité, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datée post-départ) est scindé par volume pour le poids -> cf. section dédiée en bas de fiche et Personnages/Nisha_chrono_A.md. Tissu relationnel (appellatifs, registres, habitudes, contentieux) : cf. la série Personnages/Nisha_relations_<cercle>.md (proches / famille / boulot / eleves_tokyo).
 
@@ -90,7 +90,7 @@ Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de dé
 Fiche propre et mécanique complète (mode opératoire, règle de bascule et son extension, signatures, hôte/parasite) : cf. WIKI Personnages/Eien.md. Tissu relationnel (appellatifs, registres avant/après 2015, les visites) : cf. Personnages/Nisha_relations_proches.md.
 - Eien : esprit maudit Grade Spécial millénaire (OC), amante de Kenjaku, logée en Nisha depuis le fœtus ; lui a cédé la Chronokinésie.
 - [DIVERGENCE RP] Nisha se sait MAÎTRESSE - elle ne s'est jamais sue geôlière. Le putsch de 1997 (tenté, échoué, pouvoirs arrachés) lui est INVISIBLE : Eien a maquillé son échec en soumission totale et joue l'amie dévouée. Jusqu'en 2015, Nisha la tient sincèrement pour son amie de toujours.
-- [A2] La faille de la garde s'APPROFONDIT à l'arc Toji (2006) : Nisha a failli mourir par amour pour Satoru, et son attachement lui fait baisser durablement la garde. Eien engrange en silence (paiera ~2015+ ; cf. roadmaps ère B).
+- [A2] La faille de la garde s'APPROFONDIT à l'arc Toji (2006) : Nisha a failli mourir par amour pour Satoru, et son attachement lui fait baisser durablement la garde. Eien engrange, muette depuis le nouvel an 2006 : sa seule parole avant 2015 est sa tentative de prise de contrôle face à Toji, interrompue par Satoru (cf. Personnages/Eien.md ; paiera ~2015+, cf. roadmaps ère B).
 - Communication : Nisha et Eien se parlent en se projetant spirituellement dans le territoire d'Eien, le Jardin des Ères Mortes. Règle hôte/parasite (canon) : Nisha ne déploiera jamais le Jardin en combat.
 - Ironie centrale : la forme ultime de la Chronokinésie d'Eien (le gel) est exactement la Chronostase native de Nisha. Hôte parfaite, inexploitable DE FORCE.
 

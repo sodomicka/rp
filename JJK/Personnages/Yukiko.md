@@ -1,6 +1,6 @@
 # Yukiko Kamo
 
-- version : W11
+- version : W12
 
 Fiche NOYAU (OC, niveau fandom). État atemporel / point de départ (1 avr 2005). Couche RP entièrement [DIVERGENCE RP] (OC sans équivalent canon) : balise portée une fois ici, non répétée ligne à ligne. Plot post-départ -> roadmaps Yukiko ; devenir -> Yukiko_chrono_A.md (ère A) et Trajectoire datée en bas de page (ères B+, en attente de scission). Résumé condensé en BIBLE SB5.
 
@@ -98,6 +98,7 @@ Objet maudit, forgé sur mesure pour la princesse Kamo. Détail : cf. BIBLE SB7 
 - L'asymétrie : côté jumeaux, amis depuis 1992 ; côté Yukiko, réel à partir de 2000. Mais 1992 et 1996, inertes sur le moment, sont rétroactivement sa seule archive d'un traitement de PERSONNE : les seuls à ne pas l'avoir traitée en déesse. Symétrie inverse : le vide ne juge pas - elle est la seule, dans toute l'enfance des jumeaux, à leur avoir souri et parlé sans jugement (Ranta étant de la dévotion aveugle, guère mieux) : leur seule relation qui ne soit ni jugement ni dévotion.
 - LECTURE DE SA PUISSANCE PAR LES JUMEAUX (jusqu'en 2005) : ni l'un ni l'autre ne connaît son vrai niveau. Désaccord entre eux, pas une tension : Nisha la croit réellement Grade 2, une héritière qui connaît sa place, simple support trappeuse ; Naoya la soupçonne de bien cacher son jeu. Naoya est fixé au début de l'été 2005 (tombée des masques de Gakuganji), Nisha à l'Amicale de sept 2005.
 - À Kyoto (promo 2005-2008) : TRIO SOUDÉ, Naoya en leader, avec Ranta. Complicité intellectuelle, étudiante - elle ne comble aucune des deux codépendances (Naoya a ses appels du soir et ses week-ends avec Nisha ; Yukiko rentre au domaine dès qu'elle peut) : seule la moitié comble.
+- Début 2008 : les jumeaux lui demandent quelques paires de lunettes maudites pour Maki ; elle les obtient des meilleurs forgerons d'objets maudits du clan (Naoya porte la demande et lui dit pour qui). Cf. Personnages/Maki.md.
 - Éditions rendues : les quatre en Roadmap/Yukiko/Roadmap_A0.md (YA0_2/3/6/7) ; côté Nisha, 2000 et 2004 en vignettes dédiées, 1992 et 1996 en texture (Roadmap/Nisha/Roadmap_A0.md).
 - Nisha : la louve et la vipère. La seule femme que Nisha voit comme consciente de sa place ; elles s'entendent à merveille. État 2005 : amies.
 - Naoya : même promo à Kyoto (2005-2008), ainsi que Ranta. Alliance tacite entre héritiers.

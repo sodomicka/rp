@@ -1,6 +1,6 @@
 # Satoru Gojo
 
-- version : W21
+- version : W22
 
 ## Identité
 - Nom : Satoru Gojo. Canon. Le guerrier parfait vivant du clan Gojo.
@@ -95,7 +95,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport à 
 | 29 jan 2006 | Première nuit avec Nisha, la première fois pour tous les deux | couple consommé |
 | 30 jan 2006 | Offre à Nisha le collier-arsenal (coquetterie déguisée en batterie cinétique) ; premier collier du rituel annuel du 30 janvier | -- |
 | printemps 2006 | Mission boucle (manoir hanté, Hamamatsu) : frime pour Nisha et DÉMOLIT le manoir ; puis escorte du Plasma Stellaire (Riko Amanai) avec Geto, double consigne escorter / effacer (cf. Roadmap A2_2-A2_4) | climb compétitif -> 14 doigts (pré-Toji) |
-| 2006 | PIVOT TOJI (A2_4) : à l'approche de chez Tengen, relâche sa garde -> Toji le frappe et le tue (presque). RESSUSCITÉ par RCT sur son propre cerveau -> ÉVEIL. Sauve Nisha in extremis, achève un Toji mortellement blessé (qui évoque Megumi avant de mourir) | éveil : débloque RCT, Rouge, Violet, Infini passif et permanent, maîtrise des Six Yeux, déploiement du domaine -> 23 doigts ; passe n1 mondial (Nisha -> n2) ; quitte les lunettes rondes pour des bandages enroulés |
+| 2006 | PIVOT TOJI (A2_4) : à l'approche de chez Tengen, relâche sa garde -> Toji le frappe et le tue (presque). RESSUSCITÉ par RCT sur son propre cerveau -> ÉVEIL. Sauve Nisha in extremis (son arrivée interrompt la prise de contrôle qu'Eien amorçait), achève un Toji mortellement blessé (qui évoque Megumi avant de mourir) | éveil : débloque RCT, Rouge, Violet, Infini passif et permanent, maîtrise des Six Yeux, déploiement du domaine -> 23 doigts ; passe n1 mondial (Nisha -> n2) ; quitte les lunettes rondes pour des bandages enroulés |
 | 2006 (jours suivants) | Sort de l'éveil transfiguré et propulsé au sommet mondial ; veille sur Nisha pendant sa dé-blessure dans son territoire | gardé HUMAIN par Nisha (ancre affective) : reste plus humain que dans le canon |
 | 2006-2008 | Maîtrise post-éveil déployée en toile de fond (jamais un seul beat) : développe le Rouge, le Violet, la contraction de l'espace (entraînée dès les bandages) et l'extension de son domaine, qu'il finit par nommer la SPHÈRE DE L'ESPACE INFINI (nom soufflé par Nisha à l'automne 2006, au cours de Territoires, A2_6ter ; écho de la Sphère du Temps Infini) | arsenal Infini complet ; domaine déployable et nommé ; postérité pédagogique : il entrera au programme des rentrées 2008+, une fois la promo diplômée, comme cas d'école du Sort d'Inversion - versant RCT SUR SOI et retournement de sort, en regard de Shoko qui illustre le versant sur autrui (cf. Pedagogie/Energie_Territoires_1eAnnee.md) |
 | 7 déc 2006 | Naissance de la tradition d'anniversaire RÉCIPROQUE : Nisha lui offre un vrai bandeau de qualité, en écho au collier du 30 janvier ; renouvelé chaque 7 décembre | le bandeau remplace les bandages enroulés (accessoire diégétique, SB7) |

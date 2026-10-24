@@ -1,6 +1,6 @@
 # Nisha Zenin - Relations : proches
 
-- version : W6
+- version : W7
 
 Page relations de Nisha, cercle des PROCHES. Série en quatre pages par cercles : _proches (celle-ci), _famille (clan + famille choisie), _boulot (collègues + élèves de Kyoto), _eleves_tokyo (protégés de Satoru). Extension de Personnages/Nisha.md (sections relation Naoya/Eien condensées au profit de la série, build W21+). Les RÈGLES GÉNÉRALES transversales ci-dessous valent pour toute la série.
 Convention : les appellatifs listés s'ajoutent aux prénoms, toujours disponibles.
@@ -26,6 +26,7 @@ Deux régimes, avant / après la bascule de 2015. [DIVERGENCE RP] Nisha ignore l
 - AVANT 2015 :
   - Appellatifs : elle -> Eien : Eien, mon amie. Eien -> elle : douce Nisha, petite étoile, mon amie.
   - Registre : douceur, mentorat, absence de jugement. Pour Nisha, une amie de toujours, une mentore désintéressée ; les micro-agressions d'enfance (forçage du territoire, 1991-1995) lui ont été vendues comme un entraînement offert.
+  - Le silence (1 jan 2006 -> 2015) : muette depuis sa sentence du nouvel an, elle ne répond plus à Nisha, quoi qu'elle tente. Seule exception, face à Toji (2006) : « je peux te sauver », et une prise de contrôle amorcée, interrompue par l'arrivée de Satoru. Elle ne reparle qu'à la confidence de 2015.
 - APRÈS 2015 :
   - Appellatifs : elle -> Eien : connasse, vieille pute. Eien -> elle : tortionnaire, geôlière.
   - Registre des visites (le Jardin, exutoire) : Eien ouvre chaque session sur une arrogance - qui décline session après session jusqu'à disparaître - et ravale vite sa fierté à chaque fois. Elle n'a demandé pitié qu'une seule fois : ça a empiré son traitement. Nisha est vulgaire, punitive ; elle ne descend que pour punir, même sans motif, en pur défouloir.

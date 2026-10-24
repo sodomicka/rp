@@ -1,6 +1,6 @@
 # Roadmap B1 - La Fondation
 
-- version : W9
+- version : W10
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre
 - échelle temporelle : ~5 ans (hiver 2008 -> mars 2013) ; quatre étapes JOUÉES, six AU CHOIX (rapide ou classique), tranches de vie libres entre les jalons ; départ dense (quelques semaines en 2008), puis une année par jalon
@@ -20,7 +20,7 @@ Ici la respiration EST le sujet : le foyer de Saitama, les week-ends au domaine,
 ## Itinéraire (jalons)
 1. B1_1 - La fondation [JOUÉE, quelques semaines, hiver -> printemps 2008]. Appartement en ville, puis maison de Saitama. Le couple, frais diplômé, va proposer une TUTELLE à Megumi (fils de Toji, vente déjà annulée en A2). Ils tombent sur un appartement d'adultes où Tsumiki (11 ans, profane) élève seule son petit frère. Pour Nisha, au départ, Tsumiki n'est qu'un LEVIER émotionnel pour amadouer un Megumi renfermé ; très vite, fille à part entière. Satoru ne la voit jamais comme un levier : un Gojo qui rejette la doctrine des clans, face à une Zenin qui s'assume. ADOPTION des deux, hors-Zenin. Achat de la MAISON DE SAITAMA (deux chambres d'amis, « sait-on jamais »). En sourdine, Eien JUBILE : elle reconnaît sur Tsumiki la marque de son amant Kenjaku ; Nisha ignore pourquoi. À planter : T-Tsumiki (ne détone pas) ; graine de succession côté Naoya/Hei. Clôt sur : l'emménagement.
 2. B1_1bis - La maison [AU CHOIX, printemps -> été 2008]. Maison de Saitama. Deux surpuissants qui apprennent à être parents : Megumi méfiant, Tsumiki qui materne, Satoru le clown qui décoince, Nisha la rigueur tendre. Les cartons, la première rentrée scolaire des gosses, les premiers repas où personne ne sait cuisiner pour quatre (sauf qu'elle mange pour cinq). À la maison, Nisha laisse peu à peu ses seins libres sous son T-shirt : Satoru les préfère sans bandages, et ici personne ne la regarde en exorciste. Scène intime au choix : la première nuit dans la maison à eux. Clôt sur : la rentrée 2009.
-3. B1_2 - Profs de nom et premiers pas [JOUÉE, l'année 2009]. Université de Kyoto, domaine Zenin, maison de Saitama, chambre du conseil. Nisha prend son poste à Kyoto (2e année ; 5 min de course du domaine), Satoru à Tokyo : profs de NOM, classes vides (pour Nisha, aucun élève avant Nitta). PREMIER VRAI WEEK-END AU DOMAINE avec les gosses : Tsumiki reçoit de Maki ses lunettes maudites et voit l'occulte ; Megumi découvre l'univers Zenin ; Nisha ne tolère AUCUN mépris Zenin envers la profane. À Saitama, Megumi sort ses PREMIERS SHIKIGAMI : éveil des Dix Ombres. Megumi est CONVOQUÉ devant le conseil (Naobito, Ogi, Jinichi) ; Naobito lui propose la succession, il refuse (premier refus). Megumi obtient l'accès aux archives du clan, de droit, par son sort (cf. Factions/Clan_Zenin.md) ; ironie : Nisha a dû MÉRITER ce droit. Nisha l'entraîne « puissant qui protège », hors-moule-Zenin. À planter : graine de succession ARMÉE (-> ère C, testament de Naobito). Clôt sur : la routine installée.
+3. B1_2 - Profs de nom et premiers pas [JOUÉE, l'année 2009]. Université de Kyoto, domaine Zenin, maison de Saitama, chambre du conseil. Nisha prend son poste à Kyoto (2e année ; 5 min de course du domaine), Satoru à Tokyo : profs de NOM, classes vides (pour Nisha, aucun élève avant Nitta). PREMIER VRAI WEEK-END AU DOMAINE avec les gosses : Tsumiki reçoit de Maki une des paires de lunettes maudites que les jumeaux ont obtenues des forgerons Kamo via Yukiko (A2_10) et voit l'occulte ; Megumi découvre l'univers Zenin ; Nisha ne tolère AUCUN mépris Zenin envers la profane. À Saitama, Megumi sort ses PREMIERS SHIKIGAMI : éveil des Dix Ombres. Megumi est CONVOQUÉ devant le conseil (Naobito, Ogi, Jinichi) ; Naobito lui propose la succession, il refuse (premier refus). Megumi obtient l'accès aux archives du clan, de droit, par son sort (cf. Factions/Clan_Zenin.md) ; ironie : Nisha a dû MÉRITER ce droit. Nisha l'entraîne « puissant qui protège », hors-moule-Zenin. À planter : graine de succession ARMÉE (-> ère C, testament de Naobito). Clôt sur : la routine installée.
 4. B1_2bis - Une chaire sans élèves, le vrai poste [AU CHOIX, avr 2009 -> mars 2010]. Université de Kyoto. Professeure de 2e année de nom : aucun élève, et il n'y en aura aucun avant Nitta (2012). Nisha bâtit quand même ses cours, en canal direct du pôle clanique (S1 : le pacte État/familles lu crûment, les rideaux complexes avec les constantes affinées que le clan tolère ; S2 : anomalies, sceaux, territoires dits de première main), pour personne, et pose la règle du RITUEL DES DÉTENTEURS : en mars, après la théorie du domaine et jamais avant, la Sphère du Temps Infini déployée en passif devant qui a gagné sa confiance (cf. Factions/Universite_Kyoto.md). Premier SAKÉ DE RENTRÉE (avril 2009) : Gakuganji dit les choses à plat, une chaire de nom et un vrai poste, celui de la n2 mobilisable ; premières missions de sale boulot, dont une première longue à l'étranger. Collègues : les clopes avec Utahime, qui elle a des élèves. Clôt sur : l'année famille.
 5. B1_3 - Année famille [AU CHOIX, l'année 2010]. Maison de Saitama ; un bar pour la soirée Shoko. L'année la plus douce : quotidien de Saitama, scolarité des gosses, exorcisme au point mort. Saké de rentrée d'avril 2010 : toujours personne en 2e année ; les missions de sale boulot, elles, ne tarissent pas avec les fléaux. TSUMIKI (13 ans) lance l'Okaruto Shinbun, blog d'horreur mystique qui romance les missions de ses parents, et montre fièrement son PREMIER ARTICLE. SOIRÉE SHOKO (tête-à-tête ou à trois avec Satoru, nostalgie). À planter : T-Okaruto (ne détone pas). Clôt sur : l'approche du pivot 2011.
 6. B1_4 - Le pivot [JOUÉE, l'année 2011]. Domaine Zenin ; atelier de Yaga et Sphère du Temps Infini ; université de Kyoto. Trois fils convergent.
@@ -58,7 +58,7 @@ Sans date ni ordre ; seuls les interdits s'appliquent.
 - Période creuse de l'exorcisme en toile de fond.
 - LE SAKÉ DE RENTRÉE : chaque début avril, Gakuganji reçoit Nisha dans son bureau, coupe de saké : l'année à venir (élèves ou pas), sa mobilisation comme n2 mondiale, les missions que Kyoto et les Instances lui réservent. Vouvoiement, puis tutoiement quand ça devient sincère (cf. Personnages/Nisha_relations_boulot.md).
 - LE SALE BOULOT : sans élèves, la professeure est d'abord la n2 mobilisable. On l'envoie quand il faut tuer des humains (exorcistes maudits, maîtres de fléaux, trafiquants d'objets maudits) : ça ne la dérange pas. Très rapide, elle intervient au Japon comme à l'étranger, parfois plusieurs jours à l'autre bout du monde ; Satoru n'a pas le monopole des missions lointaines. Cibles et lieux créables ; jamais Geto ni sa secte.
-- Eien engrange en silence (aucune scène active hors la jubilation de 2008).
+- Eien muette : la jubilation de 2008 reste interne ; elle ne répond jamais à Nisha, quoi que tente le joueur, jusqu'à la confidence de B2_4.
 
 ## Casting convoqué
 - Nisha Zenin - cf. Personnages/Nisha.md, Nisha_chrono_B.md, Nisha_relations_proches.md, Nisha_relations_famille.md, Nisha_relations_boulot.md
@@ -83,7 +83,7 @@ Sans date ni ordre ; seuls les interdits s'appliquent.
 - Juei no Ryochi - week-ends, conseil - cf. Lieux/Juei_no_Ryochi.md
 - Université de Kyoto - le poste de Nisha - cf. Factions/Universite_Kyoto.md ; pédagogie : cf. Pedagogie/Perso_Kyoto_2011-2014.md
 - Archives du clan Zenin - accès de Megumi (2009) puis de Tsumiki (2012) - cf. Factions/Clan_Zenin.md
-- Lunettes maudites de Tsumiki - don de Maki, 2009 - cf. Personnages/Tsumiki.md
+- Lunettes maudites de Tsumiki - don de Maki, 2009 (une des paires Kamo d'A2_10) - cf. Personnages/Tsumiki.md
 - Collier de tungstène - cf. Personnages/Nisha.md
 
 ## Conditions de sortie
@@ -95,6 +95,7 @@ Sans date ni ordre ; seuls les interdits s'appliquent.
 - Nitta formée en 2e année ; Mei Mei recrutée, cycle de Kyoto complet.
 ### Interdits
 - Nisha perce la jubilation d'Eien ou la marque sur Tsumiki - casserait la bascule de 2015 (B2) et T-Tsumiki.
+- Eien répond à Nisha ou lui adresse la parole - muette depuis Toji (A2_4) jusqu'à la confidence de B2_4.
 - Yorozu s'éveille, ou Tsumiki est délivrée de la marque - T-Tsumiki se résout fin 2015.
 - Megumi passe sous la coupe du clan - il est élevé hors-Zenin ; la succession se joue à l'ère C.
 - Maki quitte le clan pour Saitama, ou la période « Mai seule » est jouée - c'est 2014 (B2).
