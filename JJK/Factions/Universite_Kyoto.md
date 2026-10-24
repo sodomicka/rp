@@ -1,6 +1,6 @@
 # Universite d'Exorcisme de Kyoto
 
-- version : W8
+- version : W9
 
 Page = faction du monde (institution). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4.
 
@@ -53,6 +53,7 @@ Convention : "annee d'entree - annee de diplome" (cursus de trois ans).
 
 ### Eleve notable
 - Akari Nitta : promo 2011-2014, eleve de Nisha. Sans technique innee (voit a peine les fleaux), formee dans la filiere assistant manager. Soeur ainee d'Arata Nitta. Diplomee de Kyoto, elle devient ensuite assistant manager a Tokyo. Canon : diplomee de Kyoto passee staff a Tokyo. [DIVERGENCE RP] : sa promo et le fait qu'elle ait eu Nisha comme professeure. Motif de son transfert vers Tokyo -> roadmap.
+- Eleves de Nisha (2e annee), liste fermee : Nitta (2012-2013), sa premiere ; puis plus personne jusqu'a la promo de Noritoshi (2017-2018) ; la promo de Mai (2018-2019) ; Arata, presque anecdotique, en ere D. Aucune autre classe : de 2009 a 2012 et de 2013 a 2017, chaire sans eleves.
 
 ## Place dans le focus
 - Universite quittee par la protagoniste en 2005 (transfert vers Tokyo), ou elle revient enseigner apres 2008. Universite de son jumeau Naoya. Enjeux -> roadmap.
