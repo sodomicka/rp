@@ -12,7 +12,7 @@
   note: les tampons OOC (§5) et interdits (§6) utilisent [V<n>], pas la date.
 - codex_version: V13
 - plafond: 66 000 car. (barème : min(30 000 + 3 000 x (N-1), 90 000))
-- taille au build: 29188 car. (44 % du plafond(N))
+- taille au build: 29261 car. (44 % du plafond(N))
 - thread source: Partie JJK : A2, de la fin du S1 à Yuki | cmsg_01MY5EoYgecDdhQvUijNYPy6R479uzkjC7EwiioXxugiFK
 - spec au build: SPEC_CODEX v8.10 (source: GitHub)
 - bible_lore: BIBLE_LORE_JJK.md
@@ -67,7 +67,6 @@ Instance : ICI + Parties/Suivi. Entité : cf. WIKI Personnages/Nisha.md.
 - Prochaine bascule amorcée : A2_9 [JOUÉE] ; cf. ANNEXE_CHRONO > Arcs.
 
 ### §5 OOC actifs
-- [V1] - Registre sexuel : rien de bloqué ; sinon figure de style ; cœur non narrable : ellipse. | ANNEXE_STYLE
 - [V1] - Protagoniste unique : Nisha ; Yukiko n'est qu'un PNJ. | ANNEXE_PNJ
 - [V1] - Trame : les roadmaps se jouent telles que prévues. | ANNEXE_CHRONO
 - [V3-V5] - Le joueur écrit Nisha ; le MJ la retranscrit, ne la fait parler que sur ordre OOC ; rapide : un à trois messages. | ANNEXE_STYLE
@@ -79,6 +78,7 @@ Instance : ICI + Parties/Suivi. Entité : cf. WIKI Personnages/Nisha.md.
 - [V11-V12] - Naobito a tenu Nisha hors du Plasma (avoué) ; quatre billes sur Toji, aucune détruite. | ANNEXE_SAVOIRS
 - [V13] - Nisha respecte les Instances pour leur utilité ; inutiles, poids mort. D'où l'estime réciproque avec Gakuganji. | §3a
 - [V13] - Menace de décimation maintenue. | ANNEXE_TCHEKHOV
+- [V13] - Couple : orgasme réciproque ; si Satoru jouit, Nisha jouit aussi. Il ne prend pas son plaisir seul. | ANNEXE_PNJ
 - [V13] - Profs : Nisha à Kyoto, Satoru à Tokyo, Naoya le sait ; poste en avril 2009. | ANNEXE_SAVOIRS
 
 ### §6 Interdits accumulés
@@ -253,7 +253,7 @@ Deuxième personne, présent strict. Le joueur écrit Nisha à la 1re personne ;
 
 Domaine : gravier, cèdre, fumée de forge, bouillon de bonite. Tokyo : terre mouillée, pins, ginkgos ; morgue à la javel et au formol ; salle des Instances au bois ciré et à l'encens froid. Signatures : caramel et lessive (Satoru), gingembre (Naoya), tabac froid (Shoko), soufre des allumettes (Geto). Chaque PNJ a une humeur d'énergie que Nisha lit. La vitesse se dit par le monde figé ; la douleur organe par organe. Les enfants se disent par le corps.
 
-Dialogues secs, en rafale ; les PNJ ont du répondant (Satoru compte, Naoya fait des têtes, Gakuganji pèse en greffier, Maki en mots seuls). Geto se dit par le calme et le geste différé : la cigarette qui se consume, le bol intact. La dureté de Nisha se narre sans adoucir. L'aveu passe par les chiffres et le geste. Intimité : désir franc, cœur de l'acte en ellipse. SMS horodatés pour le hors-champ. Une comparaison par paragraphe au plus, jamais en « comme on… ». Fins sur une question ou une situation ouverte.
+Dialogues secs, en rafale ; les PNJ ont du répondant (Satoru compte, Naoya fait des têtes, Gakuganji pèse en greffier, Maki en mots seuls). Geto se dit par le calme et le geste différé : la cigarette qui se consume, le bol intact. La dureté de Nisha se narre sans adoucir. L'aveu passe par les chiffres et le geste. Intimité : scènes jouées (cf. cœur Narration, registre sensuel) ; plaisir réciproque, Satoru ne jouit pas seul. SMS horodatés pour le hors-champ. Une comparaison par paragraphe au plus, jamais en « comme on… ». Fins sur une question ou une situation ouverte.
 
 Codes de parole :
 - **NOM :** réplique, en gras, pour tout dialogue.
