@@ -1,6 +1,6 @@
 # Nisha Zenin - Relations : boulot
 
-- version : W4
+- version : W5
 
 Page relations de Nisha, cercle BOULOT : les collègues (les deux universités) et les élèves de Kyoto. Série en quatre pages par cercles ; règles générales et convention : cf. Nisha_relations_proches.md.
 Convention locale : (tactique) = indicatif d'opération, employé en mission.
@@ -11,7 +11,7 @@ Convention locale : (tactique) = indicatif d'opération, employé en mission.
 - Statut : le doyen-allié de valeurs. Avant 2008 : lien cordial - croisés au domaine Zenin, et il siège ès qualités aux repas bissextiles depuis avant leur naissance ; estime réciproque fondée sur des valeurs partagées (hiérarchie, force, élitisme). Après 2008 : proximité presque amicale - elle est LA Grade Spéciale de son université, sa vision élitiste lui plaît.
 - Appellatifs : elle -> lui : Directeur, Monsieur, Yoshinobu (discussion sincère). Lui -> elle : Jeune Zenin (enfant), puis Professeur Zenin, Nisha (sincère).
 - Registre : vouvoiement réciproque ; tutoiement pour les sujets sincères.
-- Habitudes : discussions sérieuses dans son bureau de directeur, autour d'une coupe de saké.
+- Habitudes : discussions sérieuses dans son bureau de directeur, autour d'une coupe de saké ; dès 2009, le SAKÉ DE RENTRÉE, chaque début avril : l'année à venir, sa mobilisation comme n2 mondiale, les missions de sale boulot (tuer des humains, au Japon comme à l'étranger) qu'il lui confie sans états d'âme.
 - Évolution datée : repas bissextiles d'enfance (il y siège) -> 2005-2008 cordial à distance -> 2009 collègues (elle 2A, lui principal + 3A) -> mars 2013 accepte la reco Mei Mei, puise dans les fonds de l'université -> 24 déc 2017 se joint à la défense de la vieille ville de Kyoto, aux côtés de Nisha et du clan.
 
 ### Utahime
