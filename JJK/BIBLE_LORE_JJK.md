@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : JJK
 - sources primaires : manga Jujutsu Kaisen (Gege Akutami) ; worldbuilding du worldbuilder (OC Nisha Zenin, Yukiko Kamo, Eien, Nozomu)
-- bible_version : B34
+- bible_version : B35
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/JJK/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/JJK/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/JJK/Partie1/`
@@ -189,7 +189,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Mei Mei - mercenaire obsédée par l'argent, prof de 3e année à Kyoto dès avr 2013 | corbeaux, Grade 1 / 7 doigts post-2008 | Ui Ui (frère), Nisha, Gakuganji | corbeaux | canon + [DIVERGENCE RP vs canon] (enseignante). detail: cf. WIKI Personnages/Mei_Mei.md
 - Utahime Iori - professeure à Kyoto (2e année étudiante en 2005), soutien | Zone Interdite Individuelle, Semi-Grade 1 / 5 doigts post-2008 | Yukiko (couple dès nov 2005), Nisha (malentendu-rivalité né et mort à l'Amicale 2005, puis complémentarité d'enseignantes), Satoru | Zone Interdite Individuelle | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Utahime.md
 - Riko Amanai - Plasma Stellaire 2006, 14 ans | perception des fléaux, aucun sort offensif | Kuroi, Gojo/Geto (escorte), Toji (la tue), Tengen | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Riko.md
-- Yu Haibara - promo Tokyo 2006-2009, mort fin 2007 (détonateur final de la chute de Geto) | [INCERTAIN] sort jamais montré, Grade 2 | Nanami, Geto | [INCERTAIN] | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Haibara.md
+- Yu Haibara - promo Tokyo 2006-2009, mort fin 2007 (détonateur final de la chute de Geto) | aucun sort inné (exorciste du commun, ambitieux), Grade 2 | Nanami, Geto | aucun | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Haibara.md
 - Kento Nanami - promo Tokyo 2006-2009, prof de 3e année à Tokyo dès avr 2013 | Ratio Technique + Rayon Noir, Grade 1, 8 doigts adulte | Haibara, Nisha, Ijichi | Ratio Technique | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Nanami.md
 - Kiyotaka Ijichi - promo Tokyo 2006-2009 (ajout RP), manager non combattant | logistique, renseignement, barrières | Nanami/Haibara | barrières | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Ijichi.md
 - Yuki Tsukumo - Grade Spécial électron libre, ancien Plasma Stellaire | Star Rage + RCT, 15 doigts | Geto (lui expose deux voies en août 2007), Tengen | Star Rage | canon + [DIVERGENCE RP] (meurt seule contre Kenjaku le 6 nov 2018). detail: cf. WIKI Personnages/Yuki.md
@@ -282,4 +282,4 @@ Index détaillé page par page : cf. WIKI JJK/Sommaire.md
 
 ---
 
-FIN_BIBLE_B34
+FIN_BIBLE_B35

@@ -1,6 +1,6 @@
 # Yu Haibara
 
-- version : W3
+- version : W4
 
 ## Identite
 - Yu Haibara, 1re annee a l'universite de Tokyo en 2006 (promo 2006-2009). Exorciste de Grade 2.
@@ -10,11 +10,11 @@
 
 ## Physique et caractere
 - Physique : jeune homme aux cheveux sombres courts, sourcils fins, grands yeux passionnes ; uniforme de l'universite d'exorcisme, veste raccourcie laissee ouverte.
-- Caractere : optimiste, solaire, enthousiaste - le contrepoint exact du Nanami crispe et monotone. Franc, ne se prend pas la tete, fier de servir, persuade d'etre bon juge de caractere. Du genre a mordre plus gros que sa bouche - ce qui le perdra.
+- Caractere : optimiste, solaire, enthousiaste - le contrepoint exact du Nanami crispe et monotone. Franc, ne se prend pas la tete, fier de servir, persuade d'etre bon juge de caractere. Ambitieux sans le bagage qui va avec (aucun sort inne) : du genre a mordre plus gros que sa bouche - ce qui le perdra.
 
 ## Sort et scaling
-- Sort : [INCERTAIN] - le canon ne montre jamais sa technique innee. A ne pas inventer ; non precise.
-- Grade : Grade 2, ~3-4 doigts. Un exorciste jeune et modeste, pas un prodige. Son admission a Tokyo ne dit rien d'un potentiel superieur : l'universite forme aussi bien des exorcistes que des assistants, et le faible effectif tient a l'ultra-niche du domaine, pas a une selection d'elite. C'est ce qui le condamne face a un fleau Grade 1 mal annonce.
+- Sort : AUCUN sort inne [DIVERGENCE RP, tranche ; le canon ne montre jamais de technique]. Un exorciste du commun, de ceux qui se battent a l'energie occulte brute et aux outils, comme les membres de la Kukuru chez les Zenin (cf. Factions/Clan_Zenin.md). Juste ambitieux.
+- Grade : Grade 2, ~3-4 doigts. Un exorciste jeune et modeste, pas un prodige ; son Grade 2, il le tient sans sort inne. Son admission a Tokyo ne dit rien d'un potentiel superieur : l'universite forme aussi bien des exorcistes que des assistants, et le faible effectif tient a l'ultra-niche du domaine, pas a une selection d'elite. C'est ce qui le condamne face a un fleau Grade 1 mal annonce.
 
 ## Relations
 - Kento Nanami - son binome et meilleur ami de promo ; son optimisme est le miroir inverse du pragmatisme de Nanami. Sa mort desillusionnera durablement Nanami.
