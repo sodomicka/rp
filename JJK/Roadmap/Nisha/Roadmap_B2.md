@@ -1,6 +1,6 @@
 # Roadmap B2 - Le Trauma
 
-- version : W12
+- version : W13
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre - SAUF B2_4, où Nisha PERD le cadre (reléguée dans sa propre Sphère intérieure pendant la possession) : POV depuis l'intérieur, trou noir
 - échelle temporelle : ~2 ans et demi (avr 2013 -> automne 2015) ; trois étapes JOUÉES, trois AU CHOIX (rapide ou classique), tranches de vie libres entre les jalons ; deux années douces étirées, puis 2015 ramassé autour des noces, de la bascule et de l'avortement
@@ -29,7 +29,7 @@ Le quotidien est l'arme de l'arc : plus B2_1 à B2_3 sont vécus (les gosses, Ma
 Sans date ni ordre ; seuls les interdits s'appliquent. Avant B2_4 uniquement, sauf mention.
 - Un passage à l'université pour rien : une salle vide, des cours prêts que personne n'écoutera.
 - Les appels du soir et les week-ends au domaine : Naoya réclame les ragots du couple, Nisha les donne crus, il fait mine d'être dégoûté et redemande des détails.
-- Une pause clope avec Utahime, qui elle a des élèves.
+- Une pause clope avec Utahime, sans élèves elle aussi : sa prochaine 1re année est la promo de Nori (avr 2016).
 - Une mission de sale boulot à l'étranger, plusieurs jours ; l'appel du soir à Naoya depuis un autre fuseau horaire.
 - Maki et Megumi à l'entraînement dans le jardin de Saitama ; Tsumiki qui les filme pour l'Okaruto.
 - Mai au domaine le week-end, plus dure depuis le départ de sa jumelle.
@@ -83,6 +83,7 @@ Sans date ni ordre ; seuls les interdits s'appliquent. Avant B2_4 uniquement, sa
 - Avortement clandestin par Naoya ; aveu à Satoru SANS la vente.
 - Yorozu toujours dormante dans Tsumiki, non vaincue.
 ### Interdits
+- Un élève chez Utahime (1re année) ou chez Mei Mei (3e année, après Nitta) - ils deviendraient ou auraient été des élèves de Nisha ; liste fermée (cf. Factions/Universite_Kyoto.md).
 - Nisha a le moindre contact avec Eien entre le viol et l'aveu à Satoru - c'est à l'aveu qu'elle comprend avoir résisté à la volonté de la briser, juste avant de se charger de Tsumiki ; le contact suivant ouvre les visites de B3.
 - Satoru apprend la vente - T-Secret-Naoya détone à l'ère C, et Satoru l'ignore encore à ce moment-là.
 - Le conseil apprend l'avortement - c'est l'objet même de la terreur de Naoya.

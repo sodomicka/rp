@@ -1,6 +1,6 @@
 # Utahime Iori
 
-- version : W12
+- version : W13
 
 Page = fiche noyau (état atemporel / point de départ 2005). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Résumé condensé en BIBLE SB5.
 
@@ -58,9 +58,11 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport à 
 | sept 2005 | Tournoi des Universités Jumelées (hôte Kyoto). Avant l'épreuve : taquineries avec Satoru, sous les yeux de Nisha. J1 : DÉMONTÉE par Nisha, parfum de jalousie (soignée par Shoko) ; J2 : se désiste avec Ranta (supports face à des prodiges) - et Yukiko la venge en battant Nisha en duel. La vengeance PUBLIQUE lui ouvre les yeux sur ce que la vipère ressent. Nisha vient ensuite s'excuser : le malentendu est mort | prise entre deux feux : démontée par une louve jalouse, vengée par la vipère ; malentendu-rivalité né et soldé à l'Amicale ; le slowburn s'allume |
 | nov 2005 | SE DÉCLARE à Yukiko, voyant qu'elle n'osera jamais d'elle-même (Yukiko à reculons : premier attachement hors-Nori de sa vie). Couple ; chambre partagée sur le campus ; premières venues au palais le week-end. Entre dans le cercle du vrai niveau, au PÉRIMÈTRE NORI (niveau réel, ruse, dévotion) - elle sait et se tait | en couple ; dans le secret, à égalité de fiabilité avec Nori |
 | 1 jan 2006 | Invitée en CONJOINTE PRINCIÈRE à la commémoration de Fubuki (Chiryu no Kyuden) : sincèrement émue, elle console - sans savoir ce que la commémoration recouvre | statut posé au vu du clan Kamo |
+| 2009-2016 (B1-B3) | Prof de 1re année de nom, comme Nisha en 2e : une seule élève sur la période, Akari Nitta (2011-2012). Classes vides sinon (liste fermée, cf. Factions/Universite_Kyoto.md) | chaire quasi vide |
 | mars 2013 (B1) | Resto À QUATRE avec Nisha, Yukiko et Mei Mei (Ui Ui et Noritoshi en accompagnants) : l'idée émerge de la discussion à trois, et avec Nisha elle convainc Mei Mei de prendre la 3e année à Kyoto ; le cycle à trois maillons (Utahime 1re, Nisha 2e, Mei Mei 3e) est enfin complet | -- |
 | 2015 (B2) | Noces de Nisha et Satoru : invitée en amie, aux côtés de Yukiko et Nori - la copine d'une collègue, hors du ballet diplomatique des émissaires Kamo | -- |
-| avr 2017 (B3) | LA RELÈVE : première vraie classe de l'ère - 1re année 2017-2018 : Mai Zenin, Kasumi Miwa, Kokichi Muta (Mechamaru), promo 2017-2020 | classes pleines à nouveau |
+| avr 2016 (B3) | 1re année 2016-2017 : Aoi Todo, Noritoshi Kamo, Momo Nishimiya (promo 2016-2019) - sa première classe depuis Nitta | fin des classes vides |
+| avr 2017 (B3) | LA RELÈVE : 1re année 2017-2018 : Mai Zenin, Kasumi Miwa, Kokichi Muta (Mechamaru), promo 2017-2020 | classes pleines à nouveau |
 | 24 déc 2017 (B3_4) | Nuit des Cent Fléaux : garde les 1res années en sécurité à l'université pendant que Nisha, le clan Zenin et Gakuganji tiennent la vieille ville | rempart des cadets ; aucun mort de l'université |
 | 14 nov 2018 (D4) | Shinjuku, front Sukuna, soutien : rituel Zone Interdite, amplifié par Gakuganji | - |
 
