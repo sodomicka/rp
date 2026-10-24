@@ -1,6 +1,6 @@
 # Satoru Gojo
 
-- version : W21
+- version : W20
 
 ## Identité
 - Nom : Satoru Gojo. Canon. Le guerrier parfait vivant du clan Gojo.
@@ -26,8 +26,6 @@ Un exorciste = un sort inné en règle générale (canon). Le "cumul" Gojo tient
   - Bleu (Cursed Technique Lapse) : convergence, attire et comprime l'espace vers un point.
   - Rouge (Cursed Technique Reversal) : divergence, répulsion violente. Repose sur une sortie d'énergie inversée (canon).
   - Violet (Hollow Purple) : fusion Bleu + Rouge, projectile d'anéantissement.
-- Contraction de l'espace (canon) : il raccourcit l'espace entre lui et sa destination pour s'y porter d'un coup. Il s'y entraîne après l'éveil de 2006, à l'époque où il porte encore les bandages (canon).
-- [DIVERGENCE RP] Il récuse le mot « téléportation », parce que ce n'est pas le terme exact : il contracte l'espace. Il reprend qui l'emploie, et d'autant plus quand c'est Nisha.
 
 ### Six Yeux - don greffé
 - Perception absolue de l'énergie occulte : voit les flux, optimise sa dépense à un coût quasi nul, lit toute technique. Greffe d'un clan mineur ex-Sutoku. Cf. Cosmogonie.
@@ -97,7 +95,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport à 
 | printemps 2006 | Mission boucle (manoir hanté, Hamamatsu) : frime pour Nisha et DÉMOLIT le manoir ; puis escorte du Plasma Stellaire (Riko Amanai) avec Geto, double consigne escorter / effacer (cf. Roadmap A2_2-A2_4) | climb compétitif -> 14 doigts (pré-Toji) |
 | 2006 | PIVOT TOJI (A2_4) : à l'approche de chez Tengen, relâche sa garde -> Toji le frappe et le tue (presque). RESSUSCITÉ par RCT sur son propre cerveau -> ÉVEIL. Sauve Nisha in extremis, achève un Toji mortellement blessé (qui évoque Megumi avant de mourir) | éveil : débloque RCT, Rouge, Violet, Infini passif et permanent, maîtrise des Six Yeux, déploiement du domaine -> 23 doigts ; passe n1 mondial (Nisha -> n2) ; quitte les lunettes rondes pour des bandages enroulés |
 | 2006 (jours suivants) | Sort de l'éveil transfiguré et propulsé au sommet mondial ; veille sur Nisha pendant sa dé-blessure dans son territoire | gardé HUMAIN par Nisha (ancre affective) : reste plus humain que dans le canon |
-| 2006-2008 | Maîtrise post-éveil déployée en toile de fond (jamais un seul beat) : développe le Rouge, le Violet, la contraction de l'espace (entraînée dès l'époque des bandages) et l'extension de son domaine, qu'il finit par nommer la SPHÈRE DE L'ESPACE INFINI (nom soufflé par Nisha à l'automne 2006, au cours de Territoires, A2_6ter ; écho de la Sphère du Temps Infini) | arsenal Infini complet ; domaine déployable et nommé ; postérité pédagogique : il entrera au programme des rentrées 2008+, une fois la promo diplômée, comme cas d'école du Sort d'Inversion - versant RCT SUR SOI et retournement de sort, en regard de Shoko qui illustre le versant sur autrui (cf. Pedagogie/Energie_Territoires_1eAnnee.md) |
+| 2006-2008 | Maîtrise post-éveil déployée en toile de fond (jamais un seul beat) : développe le Rouge, le Violet, et l'extension de son domaine, qu'il finit par nommer la SPHÈRE DE L'ESPACE INFINI (nom soufflé par Nisha à l'automne 2006, au cours de Territoires, A2_6ter ; écho de la Sphère du Temps Infini) | arsenal Infini complet ; domaine déployable et nommé ; postérité pédagogique : il entrera au programme des rentrées 2008+, une fois la promo diplômée, comme cas d'école du Sort d'Inversion - versant RCT SUR SOI et retournement de sort, en regard de Shoko qui illustre le versant sur autrui (cf. Pedagogie/Energie_Territoires_1eAnnee.md) |
 | 7 déc 2006 | Naissance de la tradition d'anniversaire RÉCIPROQUE : Nisha lui offre un vrai bandeau de qualité, en écho au collier du 30 janvier ; renouvelé chaque 7 décembre | le bandeau remplace les bandages enroulés (accessoire diégétique, SB7) |
 | 2006-2007 | Couple avec Nisha trop absorbé l'un par l'autre pour voir Geto sombrer (moteur tragique central : ce qui le garde humain est exactement ce qui lâche Geto) | aveuglement affectif |
 | fin 2007 | Après le massacre du village par Geto : refuse d'entendre ses raisons (là où Nisha et Shoko acceptent d'écouter) et vient le confronter dans la rue (A2_9) ; le laisse partir, incapable de tuer son meilleur ami | perte de Geto consommée (défection) |
