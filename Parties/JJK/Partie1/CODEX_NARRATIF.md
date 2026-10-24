@@ -1,4 +1,4 @@
-# CODEX_NARRATIF_v14
+# CODEX_NARRATIF_v15
 
 ## [CORE - LECTURE OBLIGATOIRE]
 
@@ -7,13 +7,13 @@
 - univers: Jujutsu Kaisen (manga de Gege Akutami)
 - régime: divergence
 - protagoniste: Nisha Zenin
-- date in-world de reprise: fin mars 2008 ; B1_1
+- date in-world de reprise: lun 6 avr 2009, ~7 h 30 ; B1_2
 - date réelle de dernière mise à jour: 2026-10-24
   note: les tampons OOC (§5) et interdits (§6) utilisent [V<n>], pas la date.
-- codex_version: V14
-- plafond: 69 000 car. (barème : min(30 000 + 3 000 x (N-1), 90 000))
-- taille au build: 30979 car. (45 % du plafond(N))
-- thread source: Partie JJK : A2 la confrontation | cmsg_01MY5EoYgecDdhQvUijNYPy6KJXUkv3qNncY3BHUutk7Br
+- codex_version: V15
+- plafond: 72 000 car. (barème : min(30 000 + 3 000 x (N-1), 90 000))
+- taille au build: 33225 car. (46 % du plafond(N))
+- thread source: Partie JJK : B1 la fondation | cmsg_01MY5EoYgecDdhQvUijNYPy65Hs3hTiyLpAMscopWoHsKL
 - spec au build: SPEC_CODEX v8.10 (source: GitHub)
 - bible_lore: BIBLE_LORE_JJK.md
 - dernier sync BIBLE: B34
@@ -25,7 +25,7 @@
 - Clan Zenin : femmes servantes ou utérus ; un vrai prénom vaut reconnaissance pleine.
 - Eien, esprit maudit millénaire logé en elle depuis le fœtus, joue l'amie.
 - Roadmaps de Nisha, de A0 (1987) à D5 (2024), sans embranchement.
-- Ère A close au diplôme (mars 2008) : Geto déserteur, vente de Megumi annulée. B1 : fonder le foyer.
+- Ère A close au diplôme (mars 2008). B1 : foyer de Saitama, Megumi et Tsumiki adoptés avec Satoru.
 
 ### §3 Protagoniste
 Instance : ICI + Parties/Suivi. Entité : cf. WIKI Personnages/Nisha.md.
@@ -33,67 +33,62 @@ Instance : ICI + Parties/Suivi. Entité : cf. WIKI Personnages/Nisha.md.
 **§3a Invariants (chaud, stables, changent rarement)**
 - Nom / alias : Nisha Zenin, prénom donné par Naobito (1991). Naoya : Nini, grande sœur (aînée de 3 min).
 - Nature corporelle : corps propre, habité par Eien.
-- Perception par PNJ : standard. Eien en for intérieur seulement. Six Yeux : deux signatures, chaque sort, ses réserves.
-- Description physique (2008) : double féminin de Naoya ; grande, fine, blonde dorée, cheveux aux reins ; yeux bruns en amande. Poitrine bandée (trois tours, épingle sous l'aisselle).
-- Capacités stables (mars 2008) :
+- Perception par PNJ : standard ; Eien en for intérieur ; Six Yeux : deux signatures, chaque sort, ses réserves.
+- Description physique (2009) : double féminin de Naoya ; grande, fine, blonde dorée, cheveux aux reins ; yeux bruns en amande. Poitrine bandée dehors (trois tours, épingle sous l'aisselle), souvent libre à la maison.
+- Capacités stables (avr 2009) :
   - Chronostase (inné, Zenin) : fige un objet touché, le gorge d'énergie, le tire en projectile, jusqu'à Mach 4 ; coût dérisoire sous Mach 3. Contrecoup : 8 000 à 10 000 kcal par jour. Nuée : 76 billes sur 76 cibles.
   - Chronokinésie (sort d'Eien) : ralentit ou accélère le temps d'un objet touché, de sa conscience, de son corps ; facteur ~20-30. Course : un peu plus de Mach 2. Passager : Mach 0,8 (Shoko), Mach 2 (Satoru). Sait l'heure sans horloge.
   - Sphère du Temps Infini (domaine, 1995) : 1/24e de seconde dehors ; mudra à deux mains ; dedans, coup sûr sans contact, gel au regard. Déploiement : réserves très basses. Inversion temporelle sur son corps : « dé-blesse » toute blessure non mortelle ; réserves à zéro, évanouissement.
   - Sort d'Inversion (acquis seule, juil 2007) : sur elle seule ; coupure refermée en ~30 s ; cher en énergie.
   - Pool gémellaire avec Naoya : moitié chacun, Nisha verse plus ; il sent la vidange de ses réserves.
   - Rayon Noir obtenu. Domaine Simple : 40 s sous Satoru. Forge de maître. Lit l'énergie comme une humeur. Naoya meilleur en technique pure.
-  - Grade Spécial ; n2 ; 18 doigts au diplôme, apogée (cf. WIKI Personnages/Nisha_chrono_A.md).
+  - Grade Spécial ; n2 ; 18 doigts, apogée (cf. WIKI Personnages/Nisha_chrono_A.md).
 - Résumé de backstory : servante de Naoya dès la naissance. Eien amie à 4 ans. Domaine à 8 ans. Putsch d'Eien à 10 ans. Cf. PARTIES Suivi/Nisha_Fiche.md.
-- Valeurs inviolables : la puissance comme seul tri ; Naoya avant tout ; ponctualité ; profanes remplaçables hors mission ; chacun à sa place ; Instances respectées tant qu'utiles. Doctrine « Protéger les faibles, servir les forts », à son échelle.
-- Tics / voix : arrogante, crue, jure. « Père », « Nao », « ma moitié », « Gakuganji-sama », « ma belle » (Shoko), « mon cœur » (Satoru), « mon grand » (juniors). « Y'a deux types de personnes… ». Rougit. Fume.
+- Valeurs inviolables : la puissance comme seul tri ; Naoya avant tout ; ponctualité ; profanes remplaçables, sauf les siens ; chacun à sa place ; Instances respectées tant qu'utiles ; « Protéger les faibles, servir les forts » ; ne ment jamais, tait ce qui n'est pas à elle de dire ; ses enfants ne manquent de rien.
+- Tics / voix : arrogante, crue, jure. « Père », « Nao », « ma moitié », « Gakuganji-sama », « ma belle » (Shoko), « mon cœur » (Satoru), « gamin », « petite » (les gosses). « Y'a deux types de personnes… ». Rougit. Fume.
 
 **§3b État courant (chaud, transitoire, churn par thread)**
-- État physique actuel : intacte ; réserves pleines ; 21 ans ; diplômée (18 mars 2008).
-- État émotionnel actuel : conquérante, apaisée ; Geto perdu, Satoru à porter.
-- Ressources du moment : troisième collier, 75 billes (la 76e dans le mur du conseil).
-- Contraintes actives : façade (cf. ANNEXE_SAVOIRS) ; couple caché au vieux ; menace ouverte.
+- État physique actuel : intacte ; réserves pleines ; 22 ans ; bandée à 5 h par Satoru.
+- État émotionnel actuel : mère de deux, foyer rodé ; premier jour de prof.
+- Ressources du moment : quatrième collier, billes [INCERTAIN].
+- Contraintes actives : façade (cf. ANNEXE_SAVOIRS) ; ce que le vieux sait de la vie commune [INCERTAIN] ; menace ouverte.
 
 ### §4 Reprise et état courant
-- Lieu : Tokyo, université.
-- Sous-lieu : cour.
-- Dernier [REPERE] : Tokyo, université — cour | fin mars 2008, soir — collier à 75 billes ; trio diplômé ; Naoya tête du Hei ; A2 close | Contexte : 76 % · compression 2/2
-- PNJ présents physiquement : aucun.
-- Savoir du protagoniste : vente de Megumi annulée ; Saitama à lancer.
-- Savoir caché : Tsumiki, demi-sœur aînée de Megumi.
-- Tension dominante : fonder le foyer ; Satoru en deuil ; jumelles exposées à Ogi.
+- Lieu : Saitama, maison du foyer.
+- Sous-lieu : impasse, devant le portail.
+- Dernier [REPERE] : Saitama — impasse, devant le portail | lun 6 avr 2009, ~7 h 30 — réserves pleines, quatrième collier au cou ; adoption prononcée ; foyer rodé ; rentrée 2009, premier jour de prof | Contexte : 55 % · compression 2/2
+- PNJ présents physiquement : Satoru, Tsumiki, Megumi, sur le départ.
+- Savoir du protagoniste : 2e année de Kyoto (Gakuganji) ; ignore si sa classe a des élèves ; Megumi sans sort.
+- Savoir caché : aucun élève avant Nitta ; marque sur Tsumiki (cf. ANNEXE_SAVOIRS).
+- Tension dominante : prise de poste ; éveil de Megumi ; premier week-end au domaine avec les gosses.
 - Rapport de force : Satoru n1 (23) ; Nisha n2 (18).
-- Dernier échange - Nisha (narration rapide) : « Trois maisons, Nao. » / Naoya : « On l'a écrit à deux. On l'applique à trois. Je t'aime, Nini. »
-- État-clé minimal : A2 close ; en suspens : mission et lunettes de Maki.
-- Prochaine bascule amorcée : B1_1 [JOUÉE], tutelle proposée à Megumi ; cf. ANNEXE_CHRONO > Arcs.
+- Dernier échange - joueur : « Celle-là me semble bien. », puis « rapide » / Satoru : « Seize pas depuis la chambre de Tsumiki. »
+- État-clé minimal : B1_1 et B1_1bis closes ; adoption en juin 2008.
+- Prochaine bascule amorcée : B1_2 [JOUÉE], l'année 2009 (cf. ANNEXE_CHRONO > Arcs).
 
 ### §5 OOC actifs
-- [V1] - Protagoniste unique : Nisha ; Yukiko n'est qu'un PNJ. | ANNEXE_PNJ
-- [V1] - Trame : les roadmaps se jouent telles que prévues. | ANNEXE_CHRONO
+- [V1] - Protagoniste unique : Nisha ; roadmaps jouées telles que prévues. | ANNEXE_CHRONO
 - [V3-V5] - Le joueur écrit Nisha ; le MJ la retranscrit, ne la fait parler que sur ordre OOC. | ANNEXE_STYLE
-- [V5] - Interdit levé : Geto et Shoko savent Eien. | ANNEXE_SAVOIRS
-- [V7] - Archives : les pièces restent au clan ; ce que Nisha dit est libre. | ANNEXE_INVENTAIRE
 - [V9] - Forge déléguée : narrée en résumé. | ANNEXE_STYLE
 - [V10-V14] - Vitesse : Nisha la plus rapide, Satoru éveillé compris. | §3a
 - [V10] - Le patriarche seul nomme les filles Zenin ; Maki et Mai, sur le forcing d'Ogi. | ANNEXE_PNJ
 - [V11-V12] - Naobito l'a tenue hors du Plasma (avoué) ; quatre billes sur Toji, intactes. | ANNEXE_SAVOIRS
-- [V13] - Menace de décimation maintenue. | ANNEXE_TCHEKHOV
-- [V13] - Couple : orgasme réciproque ; si Satoru jouit, Nisha jouit aussi. Il ne prend pas son plaisir seul. | ANNEXE_PNJ
-- [V14] - Voix fixées par le joueur : Yaga tutoie Nisha ; Satoru récuse « téléportation » ; Jinichi reprend la vulgarité, jamais les menaces. | ANNEXE_PNJ
 - [V14] - Figures de style du joueur intouchables ; un chiffre ou un fait faux se corrige. | ANNEXE_STYLE
+- [V15] - Retcon : Eien n'a parlé qu'une fois, face à Toji (A2_4) ; cf. WIKI Personnages/Eien.md. | ANNEXE_PNJ
+- [V15] - Haibara n'avait pas de sort inné. | ANNEXE_PNJ
 
 ### §6 Interdits accumulés
 - [V1] - Nozomu : mort hors champ, jamais magnifiée ; doctrine jamais romantisée.
-- [V2-V14] - Tics : « comme on… » (récidive V12 à V14) ; « pour une fois » (récidive V14) ; « rien ne bouge / ne passe sur son visage » ; saké de Naobito ; futon du soir ; train du retour ; lunettes de Yaga ; « depuis vos cinq ans » ; faim en fin de scène ; lame ; gouttière ; oreilles rouges ; « bleu impossible » ; souffle au melon ; « sa voix descend » ; « je vais vomir » ; radiateur ; rictus de Naoya ; « huit minutes » ; « sans un mot » ; pli entre les sourcils ; « meilleure chose mangée » ; « sourire en commun depuis le berceau ».
+- [V2-V15] - Tics : « comme on… » (récidive V12 à V15) ; « pour une fois » ; « rien ne bouge / ne passe sur son visage » ; saké de Naobito ; futon du soir ; train du retour ; lunettes de Yaga ; « depuis vos cinq ans » ; faim en fin de scène ; lame ; gouttière ; oreilles rouges ; « bleu impossible » ; souffle au melon ; « sa voix descend » ; « je vais vomir » ; radiateur ; rictus de Naoya ; « huit minutes » ; « sans un mot » ; pli entre les sourcils ; « meilleure chose mangée » ; « sourire en commun depuis le berceau » ; « sa petite énergie » (Megumi) ; « trop grand » (habits des gosses) ; « sans chiffre ni blague ».
 - [V5-V7] - Prêter à Nisha un mot ou un geste absent du message ; contrer par coupures ; issue sans prise ; battement rejoué en deux messages.
-- [V6-V14] - Recopier le « Contexte : % » sans le relire (récidive V14).
-- [V8-V14] - Inventer hors fiches : Geto « courait après » Haibara ; lieu ou réplique passée. Laisser passer une erreur de fait du joueur.
+- [V8-V14] - Inventer hors fiches : lieu ou réplique passée. Laisser passer une erreur de fait du joueur.
 - [V11] - Faux souvenir : Satoru n'a jamais vu les jumeaux à deux.
 - [V13] - Nisha en taxi ; couteau du 30 janvier forgé d'avance (il se forge le jour même).
 - [V13-V14] - PNJ omniscient : Satoru ; Geto et « la misère du monde ».
-- [V13] - Couple exposé devant qui l'ignore (Gakuganji, le vieux) : relever.
-- [V13] - Gakuganji n'approuve pas une menace contre sa salle. Siège Zenin : un doyen.
+- [V13] - Couple exposé devant qui l'ignore (Gakuganji, le vieux) : relever. Gakuganji n'approuve pas une menace contre sa salle ; siège Zenin : un doyen.
 - [V14] - Grades : Grade 4 à Grade 1, puis Spécial ; jamais « grade D ».
-- [V14] - Message d'attente ou hors fiction sur la machinerie (relecture, jauge) : jamais.
+- [V6-V14] - Machinerie : « Contexte : % » recopié sans relecture ; message d'attente ou hors fiction sur la relecture ou la jauge.
+- [V15] - Élèves inventés à Kyoto ; étape bouclée sans annonce ; rapides enchaînés sans « suivant ».
 
 ### §7 #SITES_REF
 | Source | URL | Usage |
@@ -107,42 +102,43 @@ Instance : ICI + Parties/Suivi. Entité : cf. WIKI Personnages/Nisha.md.
 Fiches complètes : cf. WIKI Personnages/<Nom>.md. Ici : voix, rapport à Nisha, inviolable.
 
 ### Actifs
-- Satoru Gojo - diplômé, n1 (23), 21 ans ; prof de 1re année à Tokyo en avril 2009, Yaga « à côté » | voix: fanfaron, rieur, « princesse », « je note » ; compte tout, jours et minutes (« sept cent soixante et onze jours », « onze heures quatorze ») ; voix basse des aveux, sans chiffre ni blague ; bec sucré ; récuse « téléportation », surtout de Nisha : pas le terme exact, il contracte l'espace | EN COUPLE depuis le 31 déc 2005 ; défait la bande le soir, la refait le matin, épingle trop basse ; un collier chaque 30 janvier ; un bandeau chaque 7 décembre (le 2e : « celui-là, j'en prends soin ») ; au lit, veut être « quittes » : cunnilingus d'abord jusqu'à ce qu'elle jouisse, puis la pénétration (missionnaire la première nuit) ; son plaisir à elle avant le sien, puis s'en vante en une phrase ; la première fois, s'est retiré pour finir sur son ventre ; Naoya a eu le récit | canon : s'y entraîne dès les bandages ; seul, oui ; à deux, « je le tiens pas » (nov 2007) ; a laissé partir Geto : « C'était mon meilleur ami. Le seul. T'es pas mon amie, toi, t'es… autre chose » ; « la petite cuillère… je te prends au mot » ; sait la raison 5 depuis le 10 fév 2008 : « Jamais le leur », « Moi, je veux la princesse » ; garde le briquet de Shoko et le fait cliqueter | dernière : « T'es ma rivale de Kyoto » | reste humain par elle ; ne se méfie pas d'Eien
-- Naoya Zenin - jumeau, diplômé de Kyoto, TÊTE DU HEI depuis fin mars 2008 (donné par le vieux, Ogi incliné) | voix: tutoiement, gouaille, tendre avec elle seule ; « Nini », « le vieux », « le Gojo » ; voix d'ordre de mission, posée, nette ; « Je t'aime, Nini », jamais d'au revoir ; réclame les ragots du couple, dégoûté et ravi | moitié ; refait la bande au domaine, épingle juste ; cuisine chaque 30 janvier | veille sur Maki et Mai contre Ogi, dort devant sa porte s'il le faut, Ranta en relais : « S'il en touche une, je lui ouvre l'autre joue. À la main » ; le jour où il prendra le coussin du vieux, Nisha « à côté, pas derrière » (décidé à dix ans) ; devait voir Gakuganji (mission de Maki) et Yukiko (lunettes) le lun 11 fév | dernière : « On l'a écrit à deux. On l'applique à trois » | haine des faibles, pas des femmes ; jamais un mot qui la rabaisse
-- Shoko Ieiri - diplômée | voix: traînante, monosyllabes ; humour sec, constats cliniques | AMIE ; Geto lui a écrit, à elle seule ; garde sa boîte d'allumettes ; « Je lui raconterai quand je voudrai » ; « On a tous continué à lui passer le sel » ; organise les nouvels ans ; photo du diplôme : « Souriez. Ou pas. C'est pour moi » | soirées de B1 | ne se laisse pas atteindre, sauf par Nisha
-- Naobito Zenin - père, 26e patriarche | voix: tutoie, phrases-registre, rire bref du nez ; compte sur ses doigts, sur le genou | « Qu'elle joue les nourrices à Tokyo » (déc 2007) ; menace : « Tu parles en ton nom, tu paieras en ton nom » ; vente annulée par mépris : « Je ne t'offre rien. Je me débarrasse d'un contrat » ; a entendu « Gojo et moi », l'a rangé sans le relever, dit « son Gojo » ; bille au mur : « Elle restera là » ; a donné le Hei à Naoya ; 29 fév : coussin vide, pas desserré les dents | croit les billes éclatées | ne respecte que la puissance
-- Ogi Zenin - oncle, conseil, Hei | voix: muet face aux jumeaux, rire sec ; « ma nièce » | « Même forte, une femme reste pitoyable. Bonne à cuisiner et à garder les gamins » ; joue ouverte par la bille, cicatrice ; s'est incliné devant Naoya | rancunier ; ses filles sous protectorat
-- Jinichi Zenin - cousin, conseil | voix: grave, rare ; clôt ; « Nisha, petite » ; la reprend sur la vulgarité, jamais sur les menaces | sait la vente : « Il a vendu son fils » ; « Si elle paie un jour, elle paiera seule. Ça me suffit » ; a retenu « nos institutions » | « pas d'autre Toji » | loyaliste
-- Gakuganji - principal de Kyoto, membre plein des Instances | voix: vieille, sèche, greffier ; « jeune Zenin » ; SMS secs : « Soyez exacte », « Soyez à l'heure » | estime réciproque, fondée sur l'utilité ; portera l'enquête un an ; « venez d'abord me trouver » ; dans le tirage de la menace (redit au conseil) | 29 fév : a demandé deux fois si elle était malade ; 18 mars : 2e année en avril 2009, son bureau « lundi, neuf heures » | ignore le couple ; patron de Nisha en 2009
-- Masamichi Yaga - professeur titulaire, principal en 2009 | voix: grave, phrases sèches ; « Bien. » ; tutoie Nisha, « Zenin » | « Vous êtes mes élèves, pas les chiens de la salle » ; a lu la déclaration de Geto aux trois et l'a pliée dans sa poche ; dira non si les Instances demandent Geto à Nisha | ignore Eien et les deux sorts | Panda en B1_4
-- Maki Zenin - cousine, 9 ans, sous protectorat | voix: rauque, rare (« Encore. », « Trois. », « Grade 3. ») | sabre de bois d'adulte ; nette sous l'insulte, même quand Mai pleure ; neige aux yeux, de son cru | couteau et mission en suspens (cf. ANNEXE_TCHEKHOV) | cf. WIKI Personnages/Maki.md
-- Mai Zenin - cousine, 9 ans, sous protectorat | voix: petite, trop polie, bégaie ; demande la permission de tout, sucre par sucre | a pris les insultes visant sa sœur, excuses de Nisha reçues ; « V-vas-y, Maki ! » | cf. WIKI Personnages/Mai.md
-- Megumi Fushiguro - fils de Toji, 7 ans, jamais rencontré | voix: renfermé, méfiant (cf. WIKI Personnages/Megumi.md) | vente annulée le 9 fév 2008 ; « Le gosse est à toi » (Naobito) | B1_1 : tutelle proposée
-- Eien - esprit maudit parasite | for intérieur | voix: douceur de mentore, « petite étoile » ; parole intérieure seulement | muette depuis le nouvel an 2006 ; aucune scène en A2 ; engrange | masque intact avant 2015
+- Satoru Gojo - n1 (23), 22 ans ; père adoptif (juin 2008) ; prof de 1re année à Tokyo dès le 6 avr 2009, Yaga « à côté » | voix: fanfaron, rieur, « princesse », « je note » ; compte tout (« huit cent dix-sept jours », 912 pas jusqu'à l'école, 43 dents) ; voix basse des aveux ; bec sucré ; récuse « téléportation » : il contracte l'espace, seul ; à deux, « je le tiens pas » | EN COUPLE depuis le 31 déc 2005 (1 000 jours le 26 sept 2008) ; défait la bande le soir, la refait le matin, épingle trop basse, sauf les matins sans sortie ; un collier chaque 30 janvier, un bandeau chaque 7 décembre ; au lit, veut être « quittes » : cunnilingus d'abord jusqu'à ce qu'elle jouisse, puis la pénétration, elle d'abord ; ne jouit jamais seul ; se vante après, en une phrase | le père clown : Megumi le tutoie « depuis le lacet », Tsumiki rit avec lui ; a rempli les papiers d'école ; « Vous êtes deux, vous restez deux » | a laissé partir Geto : « C'était mon meilleur ami. Le seul » ; union politique refusée : « Jamais le leur » | dernière : refait les bandes le 6 avr 2009, 5 h | reste humain par elle ; ne se méfie pas d'Eien
+- Naoya Zenin - jumeau, TÊTE DU HEI depuis fin mars 2008 | voix: tutoiement, gouaille, tendre avec elle seule ; « Nini », « le vieux », « le Gojo » ; voix d'ordre de mission, posée, nette ; « Je t'aime, Nini », jamais d'au revoir ; réclame les ragots du couple, dégoûté et ravi | moitié ; refait la bande au domaine, épingle juste ; cuisine chaque 30 janvier, et à Saitama un dimanche de 2008 | veille sur Maki et Mai contre Ogi, Ranta en relais ; le jour où il prendra le coussin du vieux, Nisha « à côté, pas derrière » | face à Megumi : regards tenus, « Il a un sort ? » - « Pas encore. » - « Hm. » | dernière : au téléphone, été 2008 : « Un exorciste avec des seins, et maintenant des seins tout court. Je raccroche. » ; il ne raccroche pas | haine des faibles, pas des femmes ; jamais un mot qui la rabaisse
+- Megumi Fushiguro - fils de Toji, 8 ans (22 déc 2008), adopté (juin 2008), 3e année d'école primaire en avr 2009 | voix: sec, exact, trois mots ; « Je sais », « C'est vrai » ; méfiant, pas insolent : il rappelle les termes | sait la vente et son annulation ; montant promis « quand tu seras plus grand » ; « Pas la leur » (éducation Zenin) | voit les fléaux depuis tout petit ; se met devant sa sœur ; énergie brute, sans contour ; sort non éveillé ; énergie occulte, sorts innés, profanes : expliqués le 27 mars 2008 | aime le porc au gingembre, déteste le sucré ; cartable de cuir noir, chambre sur l'érable ; « Je suis rentré » | dernière : 6 onigiri moulés pour Nisha (30 jan 2009) | élevé hors-Zenin ; cf. WIKI Personnages/Megumi.md
+- Tsumiki Fushiguro - demi-sœur aînée de Megumi, 12 ans, profane, adoptée (juin 2008), collégienne en avr 2009 | voix: polie, précise, posée ; compte (pièces, prix) ; cheffe d'équipe ; tutoie depuis « Tu sens la cigarette » | mère partie (cf. ANNEXE_TCHEKHOV) ; « d'habitude, les gens, ils partent » ; « Si vous mentez, c'est lui qui aura mal » | lit et écrit l'horreur : cahier bleu secret ; « si on raconte bien une chose qui fait peur, après elle fait moins peur » | cuisine si elle en a envie, bentos ; bain chaque soir | dernière : page du cerbère offerte (30 jan 2009) ; diplômée du primaire en mars 2009 | marque de Kenjaku à son insu (cf. ANNEXE_SAVOIRS) ; cf. WIKI Personnages/Tsumiki.md
+- Shoko Ieiri - diplômée | voix: traînante, monosyllabes ; humour sec, constats cliniques | AMIE ; Geto lui a écrit, à elle seule ; garde sa boîte d'allumettes ; nouvel an 2009 à Saitama : « le petit dort pas assez » | soirées de B1 | ne se laisse pas atteindre, sauf par Nisha
+- Naobito Zenin - père, 26e patriarche | voix: tutoie, phrases-registre, rire bref du nez ; compte sur ses doigts | « Qu'elle joue les nourrices » ; « Tu parles en ton nom, tu paieras en ton nom » ; vente annulée par mépris : « Le gosse est à toi » ; a entendu « Gojo et moi », dit « son Gojo » ; bille au mur : « Elle restera là » ; a donné le Hei à Naoya | croit les billes éclatées | ne respecte que la puissance
+- Ogi Zenin - oncle, conseil, Hei | voix: muet face aux jumeaux, rire sec ; « ma nièce » | « Même forte, une femme reste pitoyable » ; joue ouverte par la bille ; incliné devant Naoya | rancunier ; ses filles sous protectorat
+- Jinichi Zenin - cousin, conseil | voix: grave, rare ; clôt ; « Nisha, petite » ; la reprend sur la vulgarité, jamais sur les menaces | « Il a vendu son fils » ; « Si elle paie un jour, elle paiera seule » | « pas d'autre Toji » | loyaliste
+- Gakuganji - principal de Kyoto, membre plein des Instances, patron de Nisha dès avr 2009 | voix: vieille, sèche, greffier ; « jeune Zenin » ; SMS secs : « Soyez à l'heure » | estime réciproque, fondée sur l'utilité ; porte l'enquête sur la fenêtre ; « venez d'abord me trouver » ; rendez-vous du lun 24 mars 2008 non joué [INCERTAIN] | ignore le couple
+- Masamichi Yaga - professeur titulaire, principal en 2009 | voix: grave, phrases sèches ; « Bien. » ; tutoie Nisha, « Zenin » | « Vous êtes mes élèves, pas les chiens de la salle » ; dira non si les Instances demandent Geto à Nisha | ignore Eien et les deux sorts | Panda en B1_4
+- Maki Zenin - cousine, 10 ans, sous protectorat | voix: rauque, rare (« Encore. », « Grade 3. ») | lunettes maudites depuis début 2008 (cf. WIKI Personnages/Maki.md) ; nette sous l'insulte ; couteau et mission en suspens (cf. ANNEXE_TCHEKHOV) | appelle Nisha « tata » ; Nisha la voit quitter le clan un jour
+- Mai Zenin - cousine, 10 ans, sous protectorat | voix: petite, trop polie, bégaie | a pris les insultes visant sa sœur, excuses reçues ; appelle Nisha « tata » | cf. WIKI Personnages/Mai.md
+- Eien - esprit maudit parasite | for intérieur | voix: douceur de mentore, « petite étoile » ; parole intérieure seulement | muette depuis le nouvel an 2006, sauf une fois : face à Toji (A2_4), Nisha mourante, elle propose de prendre les commandes en amie, Satoru ressuscité l'interrompt | 27 mars 2008 : chaleur brève et rire retenu quand Tsumiki sort, puis rien ; ne répond pas quand Nisha lui parle | masque intact avant 2015 ; muette jusqu'à B2_4
 
 ### Secondaires
-- Doyen Zenin - siège Zenin des Instances | voix: lente, presque bienveillante ; tutoie Nisha | a raconté la séance au vieux (dîner du 29 nov) | humeur lourde, de clan
-- Yukiko Kamo - princesse Kamo, diplômée de Kyoto | voix: politesse parfaite, douceur moqueuse | confidente sous pacte (cf. ANNEXE_SAVOIRS) ; jeux de stratégie : Nisha lui doit une partie, Naoya trois
+- Doyen Zenin - siège Zenin des Instances | voix: lente, presque bienveillante ; tutoie Nisha | humeur lourde, de clan
+- Yukiko Kamo - princesse Kamo, diplômée de Kyoto | voix: politesse parfaite, douceur moqueuse | confidente sous pacte (cf. ANNEXE_SAVOIRS) ; a obtenu les lunettes de Maki ; jeux : Nisha lui doit une partie, Naoya trois
 - Ranta Zenin - Hei | voix: sincère, timide ; « Dame Nisha » | dévotion ; relais de Naoya auprès des jumelles
-- Figurants : servantes et cuisinier du domaine ; maître d'hôtel de l'Akatsuki ; Instances derrière les paravents.
-- Froid : cf. PARTIES Suivi/PNJ_Kyoto_2005.md, PNJ_Prologue_A0.md, Plasma_Stellaire_2006.md, Tokyo_3e_annee_2007.md, Fin_A2_2007-2008.md.
+- Figurants : servantes et cuisinier du domaine ; femme de ménage du mercredi à Saitama ; maître d'hôtel de l'Akatsuki ; Instances derrière les paravents.
+- Froid : cf. PARTIES Suivi/PNJ_Kyoto_2005.md, PNJ_Prologue_A0.md, Plasma_Stellaire_2006.md, Tokyo_3e_annee_2007.md, Fin_A2_2007-2008.md, Fondation_Saitama_2008-2009.md.
 
 ### Absents / morts
-- Toji, Riko : morts (2006). Kuroi : [INCERTAIN]. Yu Haibara : mort le 27 nov 2007.
+- Toji, Riko : morts (2006). Kuroi : [INCERTAIN]. Yu Haibara : mort le 27 nov 2007, sans sort inné.
 - Suguru Geto : exorciste maudit depuis le lun 3 déc 2007, en exil ; hors scène en B1 (cf. PARTIES Suivi/Fin_A2_2007-2008.md).
 - Nanami, Ijichi : hors scène en B1 (cf. PARTIES Suivi/Tokyo_3e_annee_2007.md).
+- Mère de Tsumiki, Monsieur Boule, patronne du teishoku : cf. PARTIES Suivi/Fondation_Saitama_2008-2009.md.
 - Yuki Tsukumo : hors scène jusqu'en C3. Kenjaku : n'existe pas pour Nisha.
 
 ---
 
 ## [ANNEXE_LORE - buffer divergences fraiches]
 
-- Jinichi cesse d'entraîner les jumeaux à l'été 2000 (absent de sa fiche).
-- Université de Tokyo : dortoirs non mixtes, filles de l'autre côté de la cour, profs face à la cour ; cafét' à 18 h ; distributeur sous l'auvent ; terrain derrière le gymnase ; morgue au sous-sol de l'aile médicale. 3e année : ordres en enveloppe kraft, le lundi.
-- Salle des Instances à Tokyo : étage d'un bâtiment sans enseigne ; dix paravents éclairés ; un coussin face à l'arc.
-- Tokyo no Akatsuki : salon privé sur jardin, proche du campus.
-- Domaine : forge adossée à la pente ; grande salle du conseil servant de dojo.
-- Les jumeaux harcèlent Maki et Mai depuis toujours, absent des fiches.
+- Jinichi cesse d'entraîner les jumeaux à l'été 2000.
+- Domaine : forge adossée à la pente.
+- Tokyo : salle des Instances à l'étage d'un immeuble sans enseigne, dix paravents, un coussin face à l'arc ; Akatsuki, salon privé sur jardin, près du campus ; campus : dortoirs non mixtes, morgue au sous-sol de l'aile médicale.
+- Maison de Saitama : fond d'impasse ; deux étages, muret de pierre sombre, portail de bois, gravier, érable. Étage : Megumi (fenêtre sur l'érable), Tsumiki, salle d'eau, une chambre d'amis, le couple au bout. École primaire à 912 pas ; grand magasin face à la gare.
+- Règles de la maison : coucher 21 h (Megumi), 22 h (Tsumiki) ; lever pas avant 5 h, sauf du vendredi soir au dimanche matin ; dîner à 20 h ; dents matin et soir, bain chaque soir ; ménage le mercredi ; « Assise. Tu manges. »
 
 ---
 
@@ -150,43 +146,41 @@ Fiches complètes : cf. WIKI Personnages/<Nom>.md. Ici : voix, rapport à Nisha,
 
 `Date réelle | Date in-world | Compteur | Événement condensé`
 
-### Thread courant (une ligne par battement) - thread 13, A2_9 à A2_11
-- 2026-10-24 | jeu 29 nov 2007, ~17 h 45 | A2_9, T1 | Infirmerie : Yaga annonce le village, 112 morts, résidus de Geto. Satoru rappelle en vain.
-- 2026-10-24 | ~17 h 50 | A2_9, T2-T3 | Nisha veut traquer et tuer Geto avec Naoya. Satoru : « Personne le touche. » Yaga interdit la traque.
-- 2026-10-24 | ~17 h 55 | A2_9, T4 | « Satoru supportera pas de devoir le tuer. Moi, si. » Yaga dira non aux Instances.
-- 2026-10-24 | ~18 h 05 -> 18 h 10 | A2_9, T5-T6 | Cigarette avec Shoko. SMS de Geto : un kissaten de Shinjuku, elles deux, pas Satoru.
-- 2026-10-24 | ~18 h 20 -> 18 h 40 | A2_9, T7-T9 | Kissaten : « arrêter de ramasser ». Nisha le tuera sur ordre, si Satoru ne la retient pas.
-- 2026-10-24 | ~18 h 55 | A2_9, T10 | Portail : Satoru refuse d'entendre. Nisha le porte à Shinjuku.
-- 2026-10-24 | ~19 h 05 | A2_9, T11-T12 | Passage piéton : Geto offre sa vie. Satoru vise, renonce, refuse que Nisha tue. Geto disparaît.
-- 2026-10-24 | ~19 h 15 -> 22 h 15 | A2_9, T13-T16 | Satoru pleure : « Reste. » Appel à Naoya : jumelles le week-end. Nuit. A2_9 close.
-- 2026-10-24 | 30 nov 2007 -> 30 jan 2008 | A2_9bis (rapide) | 3 déc : Geto exorciste maudit. 7 déc : 2e bandeau. Nouvel an à trois. 30 jan : 3e collier, 16e couteau.
-- 2026-10-24 | sam 9 fév 2008, ~7 h 30 -> 8 h 20 | A2_10, T1-T7 | Domaine : leçon de Maki sous l'insulte. Couteau au premier fléau ; mission Grade 4, lunettes.
-- 2026-10-24 | ~10 h -> 10 h 10 | A2_10, T8-T9 | Conseil : menace close, « en ton nom ».
-- 2026-10-24 | ~10 h 20 | A2_10, T10 | Vente de Megumi annulée par mépris ; « Gojo et moi » entendu.
-- 2026-10-24 | ~10 h 25 -> 10 h 30 | A2_10, T11-T12 | Bille à Mach 4 : joue d'Ogi, mur du conseil. Naoya veillera sur les jumelles.
-- 2026-10-24 | 10 fév -> fin mars 2008 | A2_11 (rapide) | Raison 5 dite, « Jamais le leur ». 29 fév manqué. Diplôme le 18 mars. Naoya tête du Hei.
+### Thread courant (une ligne par battement) - thread 14, B1_1 à B1_1bis
+- 2026-10-24 | jeu 27 mars 2008, ~11 h 30 -> 12 h | B1_1, T1-T7 | Coursive des Fushiguro : Tsumiki, profane, et Megumi. Toji mort, dit ; mère « partie ». « Nulle part sans elle » ; Satoru : « vous restez deux ». Offre : maison, sécurité, maîtrise du sort. Eien remue, muette.
+- 2026-10-24 | ~12 h -> 13 h | B1_1, T8-T12 | Teishoku près de la gare. Nisha « ne ment jamais ». Vente dite à Megumi, et son annulation : « Pas la leur ». Montant promis plus tard. Maison de Saitama, cinq chambres, clés le soir.
+- 2026-10-24 | ~13 h 05 -> 13 h 30 | B1_1, T13-T17 | Supérette : « C'est lui que vous voulez. » - « Je te veux parce que Megumi te veut. » Cahier secret, Monsieur Boule, le cerbère. Tsumiki : « Pas aujourd'hui. » Addition payée.
+- 2026-10-24 | ~13 h 35 -> 14 h 15 | B1_1, T18-T24 | Appartement : deux sacs ; Monsieur Boule épargné ; mot à la mère, clé au cou de Tsumiki. Cour : Megumi « se met devant » ; sort promis pour le soir.
+- 2026-10-24 | après-midi -> ~18 h 30 | B1_1, T25 (ellipse) | Grand magasin de Saitama : cartable de cuir noir, quatre recueils, peluche à dents, traiteur.
+- 2026-10-24 | ~18 h 40 -> 19 h 06 | B1_1, T26-T30 | Clés ; « Je suis rentré. » Quatre règles de la maison. Sorts innés montrés sur un ventilateur : Megumi exorciste, Tsumiki profane.
+- 2026-10-24 | ~19 h 06 -> 19 h 25 | B1_1, T31-T35 | Haibara, poing serré ; Satoru : « À lui, si. » « Vous nous rendez ? » - « Vous. Êtes. Chez. Vous. » Étreinte à quatre, premiers « tu ». Chambres. B1_1 close.
+- 2026-10-24 | 27 mars -> 7 avr 2008 | B1_1bis (rapide), 1/2 | Nuit à quatre au salon. Lit du couple le 3e soir. Tsumiki garde la spatule. Naoya cuisine : « Il a un sort ? » Rentrée du 7 avril.
+- 2026-10-24 | juin 2008 -> lun 6 avr 2009 | B1_1bis (rapide), 2/2 | Adoption début juin. Clé rangée en juillet. 3e bandeau. 30 jan 2009 : 17e couteau, 4e collier. Tsumiki diplômée du primaire. Rentrée 2009. B1_1bis close.
 
-### Thread N-1 (une ligne par scène majeure) - thread 12, A2_6bis à A2_8
-- Juin 2006 -> nov 2007 en rapide : domaine de Satoru nommé ; bandeau ; inversion acquise ; nuée 76/76 ; Yuki.
-- Mort de Haibara (27 nov 2007) ; séance des Instances du 29 nov : menace de décimation, enquête ouverte.
+### Thread N-1 (une ligne par scène majeure) - thread 13, A2_9 à A2_11
+- 29 nov 2007 : village, 112 morts ; Shinjuku, Geto offre sa vie, Satoru renonce ; « Reste. »
+- 30 nov 2007 -> 30 jan 2008 (rapide) : Geto exorciste maudit le 3 déc ; 2e bandeau ; nouvel an à trois ; 3e collier, 16e couteau.
+- 9 fév 2008, domaine : leçon de Maki ; conseil : menace close « en ton nom », vente de Megumi annulée, bille à Mach 4 dans la joue d'Ogi.
+- 10 fév -> fin mars 2008 (rapide) : raison 5, « Jamais le leur » ; diplôme le 18 mars ; Naoya tête du Hei. Lunettes de Maki obtenues via Yukiko (retcon WIKI).
 
 ### Threads antérieurs (une ligne par arc résolu)
 - Thread 1, A0 Prologue (1987-2005) : de servante à n°1 mondiale. Cf. PARTIES Suivi/Nisha_Fiche.md.
 - Threads 2 à 9, A1 et A2_1 (avr 2005 -> avr 2006) : façade, quatuor soudé, Grade Spécial, couple formé.
-- Thread 10, A2_2 à A2_5 : Riko et Toji morts, Satoru éveillé. Cf. PARTIES Suivi/Plasma_Stellaire_2006.md.
+- Thread 10, A2_2 à A2_5 : Riko et Toji morts, Satoru éveillé ; Eien a parlé face à Toji (retcon V15). Cf. PARTIES Suivi/Plasma_Stellaire_2006.md.
 - Thread 11, A2_6 : doctrine raillée au conseil, protectorat des jumelles.
+- Thread 12, A2_6bis à A2_8 (juin 2006 -> nov 2007) : inversion acquise ; Haibara mort ; menace de décimation. Cf. PARTIES Suivi/Tokyo_3e_annee_2007.md.
 
 ### Fil des arcs (mémoire longue - anti-amnésie)
 - 1 - A0 Prologue (1987-2005) : narré, clos au seuil du conseil.
 - 2 - A1 Le Transfert (avr 2005 -> mars 2006) : clos ; façade tenue, quatuor soudé, couple formé.
 - 3 - A2 L'éveil et la chute (avr 2006 -> mars 2008) : clos ; Satoru n1, Geto déserteur, vente de Megumi annulée, union politique refusée, trio diplômé (cf. PARTIES Suivi/Fin_A2_2007-2008.md).
-- 4 - B1 La Fondation : en cours (cf. Arcs) -> arc suivant prévu : B2 (cf. WIKI Roadmap/Nisha/Roadmap_B2.md).
+- 4 - B1 La Fondation : en cours ; foyer de Saitama fondé, adoption prononcée (cf. Arcs) -> arc suivant prévu : B2 (cf. WIKI Roadmap/Nisha/Roadmap_B2.md).
 
 ### Arcs (état courant)
-- B1 La Fondation - foyer de Saitama, adoption, éveil de Megumi, pivot 2011, cycle de Kyoto | roadmap: cf. WIKI Roadmap/Nisha/Roadmap_B1.md | etape: 1 | B1_1 La fondation [JOUÉE], lendemain du diplôme -> printemps 2008 | ouvert
-- A2 close fin mars 2008, au soir, dans la cour de Tokyo ; tous ses requis remplis.
-- En suspens d'A2 : mission Grade 4 de Maki ; lunettes via Yukiko ; rendez-vous de Gakuganji « lundi, neuf heures » (24 mars 2008), tenu ou non [INCERTAIN].
-- Divergences actives : Geto et Shoko savent Eien (cf. §5) ; Amicales 2006 et 2007 non tenues ; vente de Megumi annulée dès A2.
+- B1 La Fondation - foyer de Saitama, adoption, éveil de Megumi, pivot 2011, cycle de Kyoto | roadmap: cf. WIKI Roadmap/Nisha/Roadmap_B1.md | etape: 3 | B1_2 Profs de nom et premiers pas [JOUÉE], l'année 2009, matin du lun 6 avr 2009 | ouvert
+- B1_1 et B1_1bis closes (adoption, emménagement, rentrée 2009) ; requis « adoption des deux, foyer fondé » rempli.
+- En suspens : mission Grade 4 et couteau de Maki, non joués [INCERTAIN] ; rendez-vous de Gakuganji du 24 mars 2008 [INCERTAIN].
+- Divergences actives : Geto et Shoko savent Eien et les deux sorts ; Amicales 2006 et 2007 non tenues ; vente de Megumi annulée dès A2.
 
 ### Mémoire froide
 Index de Parties/ : cf. PARTIES Sommaire_Jeu.md (tenu par le build, fetché à l'ouverture).
@@ -196,18 +190,21 @@ Index de Parties/ : cf. PARTIES Sommaire_Jeu.md (tenu par le build, fetché à l
 ## [ANNEXE_INVENTAIRE - si objet en jeu]
 
 `Objet - localisation | état | porteur | signification narrative`
-- Colliers de tungstène - le troisième (21 ans, fil plus épais) au cou, 75 billes ; les deux premiers : localisation [INCERTAIN] | Nisha | un collier chaque 30 janvier, offert par Satoru ; Naobito croit le premier éclaté
-- Bille du conseil - fichée dans le mur derrière l'estrade, grande salle du domaine | « Elle restera là » (Naobito) | rappel de la puissance de Nisha ; Naoya a reçu le Hei dessous
-- Bandeaux de Satoru - tissage serré, fibres des tenues du Hei, couturier du clan ; deux (7 déc 2006, 7 déc 2007) | Satoru | tradition réciproque du collier
-- Couteaux d'anniversaire (rituel depuis 1993) - vitrine de la chambre des jumeaux | seize ; le 15e, étalon : acier long et fin, damas en vagues, garde de cuir violet ; le 16e : lame courte et épaisse, pour une main qui grandit, « pas pour moi » (Naoya) | Naoya | couteau promis à Maki : condition en ANNEXE_TCHEKHOV
-- Arme maudite de la réserve du clan - à prendre par Naoya « pour lui » | non remise | Maki, pour sa mission
+- Colliers de tungstène - le quatrième (30 jan 2009) au cou, billes [INCERTAIN] ; le troisième (75 billes) et les deux premiers : localisation [INCERTAIN] | Nisha | un collier chaque 30 janvier, offert par Satoru ; Naobito croit le premier éclaté
+- Bille du conseil - fichée dans le mur derrière l'estrade, grande salle du domaine | « Elle restera là » (Naobito) | rappel de la puissance de Nisha
+- Bandeaux de Satoru - tissage serré, fibres des tenues du Hei ; trois (7 déc 2006, 2007, 2008) | Satoru | tradition réciproque du collier
+- Couteaux d'anniversaire (rituel depuis 1993) - vitrine de la chambre des jumeaux | dix-sept ; le 15e, étalon : damas en vagues, garde de cuir violet ; le 16e, lame courte pour une main qui grandit, « pas pour moi » (Naoya) | Naoya | couteau promis à Maki : cf. ANNEXE_TCHEKHOV
+- Arme maudite de la réserve du clan - à prendre par Naoya « pour lui » | non remise [INCERTAIN] | Maki, pour sa mission
 - Sabre de bois d'adulte - dojo du domaine | Maki | sa première arme du clan
-- Boîte d'allumettes de Geto - laissée au kissaten | Shoko | allumée au nouvel an à trois
-- Briquet - offert par Shoko le 7 déc 2007 | Satoru | il ne fume pas
-- Photos - nouvel an 2007, le quatuor ; diplôme du 18 mars 2008, le trio, Nisha au milieu | Shoko | -
-- Carte de majorité - veste de Nisha | Nisha | paie l'Akatsuki, toujours
-- Écrits de Nisha chez Yaga - annexe du S1, marge du S2 | Yaga | savoir de clan sans pièce (cf. §5)
-- Bandes - sur Nisha | Satoru à Tokyo, épingle trop basse ; Naoya au domaine, épingle juste
+- Boîte d'allumettes de Geto | Shoko ; briquet offert par Shoko | Satoru, qui ne fume pas
+- Photos - nouvel an 2007, le quatuor ; diplôme du 18 mars 2008, le trio | Shoko | -
+- Carte de métal (acier damassé, gris et violet) - veste de Nisha | Nisha | paie tout ; jamais de liquide sur elle
+- Écrits de Nisha chez Yaga - annexe du S1, marge du S2 | Yaga | savoir de clan sans pièce
+- Bandes - sur Nisha dehors | Satoru à Saitama, épingle trop basse ; Naoya au domaine, épingle juste
+- Cahier bleu de Tsumiki - chez Tsumiki | histoires d'horreur sur les bêtes que décrit Megumi ; la vieille clé et le lacet de Satoru entre deux pages depuis juil 2008 | Tsumiki | personne ne l'a lu ; pré-Okaruto
+- Page du cerbère - arrachée au cahier, pliée en quatre | Nisha | cadeau du 30 jan 2009
+- Peluche grise à dents de feutre - gagnée à la pince par Satoru | Tsumiki | « pas assez de dents » (Megumi)
+- Cartable de cuir noir | Megumi | l'ancien garde ses T-shirts
 - Souvenirs d'A1 : carte de Grade Spécial, clé de laiton, canette « Traité n° 2 », lunettes du pari | Nisha
 
 ---
@@ -216,26 +213,28 @@ Index de Parties/ : cf. PARTIES Sommaire_Jeu.md (tenu par le build, fetché à l
 
 Définitions : cf. BIBLE SB8 (non lue en jeu) ; résumé utile ici.
 `Fil - statut | dernière interaction`
-- Megumi - armé, B1_1 : vente annulée, « Le gosse est à toi » ; plan : tutelle, maison à Saitama, adoption hors du clan, « puissant qui protège » ; Naobito : un sort du clan resterait « chez une Zenin » | conseil, 9 fév 2008
-- Geto en exil - actif hors champ : exorciste maudit, Grade Spécial, à exécuter ; « Si c'est lui, un jour, ce sera lui » ; en B1, ni traqué ni retrouvé | Shinjuku, 29 nov 2007
-- Exécution de Geto - planté : selon Yaga, les Instances la demanderont à Nisha, et il dira non ; Nisha : oui sur ordre, sauf si Satoru la retient ; Satoru : « Non. Pas toi. » | 29 nov 2007
-- Menace de décimation - armée : si une mort par sous-évaluation survient d'ici fin nov 2010, Nisha tue un membre des Instances au hasard ; juge : elle ; non consignée ; le clan non engagé | conseil, 9 fév 2008
-- Naobito et sa numéro une - actif : « la nourrice » ; bille au mur ; « Gojo et moi » entendu ; coussin vide le 29 fév | 29 fév 2008
-- Ogi et les jumelles - armé : joue ouverte, incliné devant Naoya ; peut se venger sur ses filles ; Naoya veille | galerie, 9 fév 2008
-- Couteau de Maki - armé : condition, son premier fléau ; mission Grade 4 supervisée par Nisha, « le prochain week-end où je viens » ; non jouée | cour, 9 fév 2008
-- Lunettes de Maki - planté : « quelques paires » demandées aux forgerons Kamo via Naoya, qui dit la vérité à Yukiko ; cf. roadmap B1_2 | cour, 9 fév 2008
-- Curseur des jumelles - planté : Maki refuse de basculer vers Mai ; « pas l'instinct de Toji tant qu'elles sont à cinquante-cinquante », entendu de Maki | cour, 9 fév 2008
-- Protectorat de Maki et Mai - actif : Naoya la semaine et le week-end, Ranta en relais | galerie, 9 fév 2008
-- Coussin du vieux - planté : Naoya veut Nisha « à côté, pas derrière » ; coup d'État pensé, tu (« non, rien ») ; au conseil : « J'ai de quoi renverser le clan » | 9 fév 2008
-- Doctrine « Protéger les faibles, servir les forts » - active, clandestine ; un relais par pôle : Naoya au Hei, Nisha à Kyoto, Satoru à Tokyo | appel, fin mars 2008
-- Gakuganji et Nisha - actif : estime sur l'utilité ; enquête portée un an ; patron en avril 2009 ; rendez-vous du lundi en suspens | SMS, 18 mars 2008
-- Enquête sur la fenêtre - ouverte : relevé faux, nom transmis à l'université | couloir, 29 nov 2007
-- Couple Nisha/Satoru - actif ; deux ans au 31 déc 2007 ; union politique refusée (« Jamais le leur ») ; 29 fév offert | Tokyo, 18 mars 2008
-- Pari de l'épousée - planté, public ; Satoru n1 ; condition non remplie | auvent, 31 mars 2006
-- Nisha vs Yuki - plantée : « lâche », « gâchis » ; Yuki : « Plus fort que toi, hein. Je retiens » ; détone chez Tengen (C3_4) | août 2007
+- Sort de Megumi et succession - planté : énergie brute, sort non éveillé ; Naoya, « Il a un sort ? » ; B1_2 : éveil, convocation au conseil, premier refus | dimanche à Saitama, printemps 2008
+- T-Tsumiki - planté : marque de Kenjaku ; Eien jubile en silence ; ne détone pas en B1 | coursive, 27 mars 2008
+- Cahier de Tsumiki - planté : histoires de bêtes (Monsieur Boule, le cerbère) ; prélude de l'Okaruto (B1_3) | 30 jan 2009
+- Mère de Tsumiki - dormant : partie ; mot dans la porte avec le numéro de Satoru, jamais rappelé ; clé rangée en juil 2008 | appartement, 27 mars 2008
+- Lunettes maudites - actif : paires Kamo obtenues via Yukiko début 2008, Maki les porte ; une paire ira à Tsumiki (B1_2) | début 2008
+- Geto en exil - actif hors champ : exorciste maudit, à exécuter ; « Si c'est lui, un jour, ce sera lui » ; en B1, ni traqué ni retrouvé | Shinjuku, 29 nov 2007
+- Exécution de Geto - planté : les Instances la demanderont à Nisha, Yaga dira non ; Nisha : oui sur ordre, sauf si Satoru la retient | 29 nov 2007
+- Menace de décimation - armée, maintenue par le joueur [V13] : si une mort par sous-évaluation survient d'ici fin nov 2010, Nisha tue un membre des Instances au hasard ; juge : elle ; non consignée | conseil, 9 fév 2008
+- Naobito et sa numéro une - actif : « la nourrice » ; bille au mur ; « Gojo et moi » entendu | 29 fév 2008
+- Ogi et les jumelles - armé : joue ouverte ; peut se venger sur ses filles ; Naoya veille | 9 fév 2008
+- Couteau de Maki - armé : condition, son premier fléau ; mission Grade 4 supervisée par Nisha ; non jouée [INCERTAIN] | 9 fév 2008
+- Curseur des jumelles - planté : Maki refuse de basculer vers Mai ; pivot 40/60 en B1_4 | 9 fév 2008
+- Protectorat de Maki et Mai - actif : Naoya, Ranta en relais ; Nisha garde une chambre d'amis pour Maki | Saitama, 27 mars 2008
+- Coussin du vieux - planté : Naoya veut Nisha « à côté, pas derrière » ; coup d'État pensé, tu ; « J'ai de quoi renverser le clan » | 9 fév 2008
+- Doctrine « Protéger les faibles, servir les forts » - active, clandestine ; un relais par pôle : Naoya au Hei, Nisha à Kyoto, Satoru à Tokyo | fin mars 2008
+- Gakuganji et Nisha - actif : estime sur l'utilité ; patron dès avr 2009 | SMS, 18 mars 2008
+- Enquête sur la fenêtre - ouverte : relevé faux, nom transmis ; suite non jouée [INCERTAIN] | 29 nov 2007
+- Couple Nisha/Satoru - actif : vie commune à Saitama ; 1 000 jours le 26 sept 2008 ; union politique refusée | 6 avr 2009
+- Pari de l'épousée - planté, public ; condition non remplie | auvent, 31 mars 2006
+- Nisha vs Yuki - plantée : « lâche », « gâchis » ; détone chez Tengen (C3_4) | août 2007
 - Faille d'Eien (l'amour fait tomber la garde) - approfondie ; Eien engrange | A2_4
-- Désir de contrôle d'Eien - planté ; muette depuis le nouvel an 2006 ; jubile en B1_1 (cf. roadmap) | A2_4
-- Nisha et Yaga - respect ; inversion constatée ; « je dirai non » | infirmerie, 29 nov 2007
+- Désir de contrôle d'Eien - planté : prise de contrôle amorcée face à Toji, interrompue par Satoru ; muette depuis | A2_4
 - Lumière chez les profs - planté ; fenêtre allumée au déploiement du domaine ; qui : [INCERTAIN] | 1er jan 2006
 - Dossier Hamamatsu - planté : vidéo d'un adolescent [INCERTAIN] ; copie au siège Zenin | mi-mai 2006
 - T-Fubuki - planté hors POV | A0
@@ -244,62 +243,65 @@ Définitions : cf. BIBLE SB8 (non lue en jeu) ; résumé utile ici.
 
 ## [ANNEXE_STYLE - LECTURE OBLIGATOIRE]
 
-Deuxième personne, présent strict. Le joueur écrit Nisha à la 1re personne ; le MJ reprend ses gestes à la 2e personne et ses répliques au format dialogue, sans rien ajouter. Une réplique joueur se découpe, chaque morceau fait réagir quelqu'un ; elle peut être coupée, jamais complétée ; ses figures de style restent (cf. §5). Un chiffre ou un fait faux se corrige hors fiction en tête, puis la scène. En rapide, ou pour un savoir-faire délégué, le MJ narre Nisha en résumé, répliques comprises. Un battement rejoué se refait en entier, en un message. Ellipses proposées, accord attendu.
+Deuxième personne, présent strict. Le joueur écrit Nisha à la 1re personne ; le MJ reprend ses gestes à la 2e personne et ses répliques au format dialogue, sans rien ajouter. Une réplique joueur se découpe, chaque morceau fait réagir quelqu'un ; elle peut être coupée, jamais complétée ; ses figures de style restent (cf. §5). Un chiffre ou un fait faux se corrige hors fiction en tête, puis la scène. En rapide, le MJ narre Nisha en résumé, répliques comprises : chronique datée, ouverte par « Le temps passe. ». Un battement rejoué se refait en entier, en un message.
 
-Domaine : gravier, neige, cèdre, fumée de forge, bouillon de bonite. Tokyo : terre mouillée, pins qui gouttent, ginkgos ; infirmerie à l'alcool et au tabac froid ; morgue à la javel. Signatures : caramel et lessive (Satoru), gingembre (Naoya), tabac froid (Shoko), soufre des allumettes (Geto, absent : il revient par la boîte de Shoko). Chaque PNJ a une humeur d'énergie que Nisha lit. La vitesse se dit par le monde figé ; la douleur organe par organe. Les enfants se disent par le corps.
+Saitama : paille des tatamis neufs, peinture fraîche, gravier, érable, riz chaud et dentifrice. Domaine : neige, cèdre, fumée de forge, bouillon de bonite. Signatures : caramel et lessive (Satoru), gingembre (Naoya), tabac froid (Shoko). Nisha lit les humeurs d'énergie ; Tsumiki, profane, n'en offre aucune : on la lit à ses mains, ses comptes, son menton. Les enfants se disent par le corps. La vitesse se dit par le monde figé ; la douleur organe par organe.
 
-Dialogues secs, en rafale ; les PNJ ont du répondant (Satoru compte, Naoya fait des têtes, Gakuganji pèse en greffier, Jinichi rend un verdict, Maki en mots seuls). La dureté de Nisha se narre sans adoucir. L'aveu passe par les chiffres et le geste. Intimité : scènes jouées (cf. cœur Narration, registre sensuel) ; plaisir réciproque, Satoru ne jouit pas seul. SMS horodatés pour le hors-champ. Gestes signatures dosés, une fois par scène : le rire du nez de Naobito, la buée dans les mains de Naoya. Une comparaison par paragraphe au plus, jamais en « comme on… ». Fins sur une question ou une situation ouverte.
+Dialogues secs, en rafale ; les PNJ ont du répondant (Satoru compte et fait le clown, Megumi tranche en trois mots, Tsumiki négocie poliment, Naoya fait des têtes, Gakuganji pèse en greffier). La dureté de Nisha se narre sans adoucir, sa tendresse sans mièvrerie. L'aveu passe par les chiffres et le geste. Intimité : scènes jouées (cf. cœur Narration, registre sensuel) ; plaisir réciproque, Satoru ne jouit pas seul. SMS horodatés pour le hors-champ. Gestes signatures dosés, une fois par scène. Une comparaison par paragraphe au plus, jamais en « comme on… ». Fins sur une question ou une situation ouverte.
 
 Codes de parole :
 - **NOM :** réplique, en gras, pour tout dialogue.
 - *italique* : SMS (horodatés), textes écrits ; aucune langue étrangère prévue.
-- **gras** (parole intérieure) : Nisha et Eien (`**EIEN :** **...**`) ; entendue d'elles seules.
+- **gras** (parole intérieure) : Nisha à Eien (`**NISHA :** **...**`) ; Eien ne répond pas (cf. ANNEXE_PNJ).
 
 ---
 
 ## [ANNEXE_SAVOIRS - si secret, revelation ou asymetrie]
 
 `Secret - qui sait | qui ne sait pas | condition de révélation | conséquence si révélé`
-- Eien logée en Nisha - cercle Zenin ; Kyoto, Instances ; à Tokyo : Satoru, Shoko ; Geto (en exil) | Yaga, les juniors | Nisha a exclu Yaga | casse la façade
-- Deux sorts (Chronostase + Chronokinésie d'Eien) - mêmes sachants | Yaga, Tokyo | - | la façade tombe
+- Eien logée en Nisha - cercle Zenin ; Kyoto, Instances ; Satoru, Shoko ; Geto (en exil) | Yaga, Megumi, Tsumiki | Nisha a exclu Yaga | casse la façade
+- Deux sorts (Chronostase + Chronokinésie d'Eien) - mêmes sachants ; Megumi et Tsumiki savent deux sorts, pas leur origine | Yaga | - | la façade tombe
 - Domaine et dé-blessure - Satoru, Shoko, Geto, Naoya | Yaga [INCERTAIN] | - | -
 - Sort d'Inversion de Nisha - Satoru, Shoko, Yaga (constaté) ; Naoya [INCERTAIN] | - | - | -
 - Le quatuor sait Eien - Satoru, Shoko, Geto | Naoya [INCERTAIN], le clan | - | le clan apprend la consigne brisée
+- Parole d'Eien face à Toji (A2_4) - Nisha : une amie qui voulait la sauver ; Satoru [INCERTAIN] | tous | - | -
 - Billes du collier - Nisha, Naoya, Satoru : ramassées | Naobito les croit éclatées | - | -
 - Doctrine, version pleine - Nisha, Naoya, Satoru | conseil : version raillée | jamais publique dans le clan | -
 - Menace de décimation - les sept présents, Gakuganji, Satoru, Shoko, Naoya ; le conseil Zenin | Yaga [INCERTAIN] | non consignée | -
-- Raisons de Geto (« arrêter de ramasser ») - Nisha, Shoko ; Satoru par le récit du café | Yaga, le clan | - | -
+- Raisons de Geto (« arrêter de ramasser ») - Nisha, Shoko ; Satoru par le récit | Yaga, le clan | - | -
 - Ce que Geto a vu au village - Geto | tous | - | -
 - Ce que Yuki a dit à Geto - Yuki, Geto | Nisha, Satoru, Shoko | - | -
 - Yuki, ancienne Plasma Stellaire - Nisha (dossiers des Instances), Yuki ; Satoru [INCERTAIN] | - | - | -
-- Pool gémellaire - Satoru, Maki et Mai (A2_6) | signature gémellaire : secret d'archives Zenin | - | -
+- Pool gémellaire - Satoru, Maki et Mai | signature gémellaire : secret d'archives Zenin | - | -
 - Bluff des archives (guerriers à Construction) - Nisha ; Naoya [INCERTAIN] | Mai, Maki | - | Mai y croit
 - Hiérarchie du clan selon Nisha - Satoru, Shoko, Geto | Naoya ignore qu'elle l'a dite | - | -
-- Megumi vendu au clan par Toji - Nisha, Satoru, Naoya ; le conseil (Jinichi depuis le 9 fév 2008) | Shoko, le clan | - | -
-- Plan Megumi (tutelle, Saitama, adoption) - Nisha, Satoru, Naoya | le conseil n'a entendu que « sous notre responsabilité » | B1_1 | -
+- Megumi vendu au clan par Toji - Nisha, Satoru, Naoya, le conseil ; Megumi et Tsumiki (27 mars 2008) | Shoko [INCERTAIN], le clan ; montant : Megumi l'ignore | « quand tu seras plus grand » | -
+- Adoption hors-Zenin (juin 2008) - le foyer, Naoya ; Shoko [INCERTAIN] | le conseil n'a entendu que « sous notre responsabilité » ; suite [INCERTAIN] | - | -
 - Mission de Maki et arme de la réserve - Nisha, Naoya, Maki, Mai | Ogi, le clan | - | -
-- Lunettes pour Maki - Nisha, Naoya ; Yukiko par Naoya [INCERTAIN : non joué] | le clan | - | -
-- Qui était Toji - Maki et Mai, depuis le protectorat (A2_6) | - | - | -
+- Lunettes de Maki - jumeaux, Yukiko, Maki | le clan [INCERTAIN] | - | -
+- Qui était Toji - Maki et Mai ; Megumi et Tsumiki (mort, « pas quelqu'un de bien ») | - | - | -
 - Les 40 s de « dieu » de Satoru - Satoru, Nisha | tous | - | -
-- Projet de mariage avec Satoru (raison 5) - conseil, jumeaux, Yukiko ; Satoru depuis le 10 fév 2008 | Gojo, Tokyo ; le conseil ignore le refus | - | -
-- Première nuit et vie intime du couple, détails crus compris - Nisha, Satoru, Naoya (ragots demandés) | les autres | - | -
-- Couple Nisha/Satoru - Satoru, Shoko, Naoya, Tokyo | Naobito (« Gojo et moi » entendu : soupçon [INCERTAIN]), conseil, clan, Gakuganji, Yukiko, jumelles | consigne de Naoya : le vieux ne saura que le sauvetage | Naobito y verrait son plan qui marche
+- Projet de mariage avec Satoru (raison 5) - conseil, jumeaux, Yukiko ; Satoru | Gojo, Tokyo ; le conseil ignore le refus | - | -
+- Vie intime du couple, détails crus compris - Nisha, Satoru, Naoya (ragots demandés) | les autres | - | -
+- Couple Nisha/Satoru - Satoru, Shoko, Naoya, Tokyo, Megumi, Tsumiki | Naobito (« Gojo et moi » entendu : soupçon [INCERTAIN]), conseil, Gakuganji, Yukiko, jumelles | consigne de Naoya : le vieux ne saura que le sauvetage | Naobito y verrait son plan qui marche
+- Cahier de Tsumiki - Tsumiki ; Nisha (existence, page du cerbère) ; Naoya l'a vue y noter ses recettes | Megumi (« surtout pas Megumi ») | - | -
 - Vrai niveau de Yukiko - Yukiko, Gakuganji, Naoya, Ranta ; Nisha, Satoru | Yaga, public | - | -
 - Yukiko tient à Utahime - Yukiko, Nisha | tous | silence juré | -
 - Passé servile, trois frères aînés au Hei - clan ; Satoru, Shoko, Geto sous serment | Yaga, Tokyo | - | -
-- Eien a reparlé (nouvel an 2006) - Nisha seule | tous | - | -
 - Coup d'État pensé (9 fév 2008) - Nisha seule ; Naoya a entendu la phrase se casser | tous | - | -
+- Marque de Kenjaku sur Tsumiki (Yorozu en dormance) - Eien | Nisha, tous | fin 2015 | interdit en B1
 - Forçage du domaine, putsch de 1997, dessein d'Eien, Kenjaku - Eien | Nisha, le clan, le trio | 2015 et au-delà | interdit en B1
 
 ### Ironie dramatique active
-- Eien, l'amie : le joueur sait le parasite ; l'amour est la faille ; elle jubilera sur Tsumiki.
-- Megumi : le joueur sait Tsumiki, 11 ans, et l'adoption des deux ; Nisha ne connaît que le fils de Toji.
+- Eien, l'amie : le joueur sait le parasite, sa jubilation devant Tsumiki et sa tentative d'A2_4 ; l'amour est la faille.
+- Megumi : le joueur sait l'éveil des Dix Ombres (B1_2) ; Nisha ignore s'il a un sort.
+- Élèves : Nisha ignore si sa classe existe ; le joueur sait qu'aucun élève ne viendra avant Nitta (2012).
+- Lunettes : le joueur sait que Maki en donnera une paire à Tsumiki (B1_2).
 - Le couple : le conseil voulait ce mariage ; le couple l'a refusé ; le joueur sait les noces d'amour de 2015.
 - Geto : le joueur sait pourquoi il a tué et comment il finira ; Nisha ignore ce qu'il a vu.
 - Yuki : le joueur sait qu'elle a armé la chute de Geto ; Nisha la méprise pour une autre raison.
 - La décimation : Nisha y tient ; Gakuganji espère qu'elle oubliera.
 - Maki : Jinichi jure « pas d'autre Toji » ; le joueur sait la voie Toji au bout du curseur.
-- Lunettes : le joueur sait que Maki donnera les siennes à Tsumiki (B1_2).
 - Le coussin du vieux : Nisha a pensé le coup d'État et l'a tu ; le joueur sait qu'il viendra.
 
-FIN_CODEX_V14
+FIN_CODEX_V15
