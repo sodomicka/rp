@@ -1,6 +1,6 @@
 # Nisha Zenin - Relations : famille
 
-- version : W7
+- version : W8
 
 Page relations de Nisha, cercle FAMILLE : le clan (sang) et la famille choisie (le foyer de Saitama). Série en quatre pages par cercles ; règles générales et convention : cf. Nisha_relations_proches.md.
 
@@ -45,7 +45,7 @@ Page relations de Nisha, cercle FAMILLE : le clan (sang) et la famille choisie (
 - Registre : mentorat bourru à la maison ; respect mutuel de leur force.
 - Habitudes : dès son arrivée à Saitama (2014), Nisha l'entraîne un week-end sur deux - ceux où elle ne va pas au domaine (l'alternance des jumeaux occupe l'autre).
 - Contentieux : le harcèlement d'enfance (pré-2006) - jamais soldé par des mots : deux bourrines n'en ont pas besoin. Le solde passe par la force - se la prouver à l'entraînement ou dans une bonne baston, et passer à autre chose.
-- Évolution datée : 2006 harcèlement puis protectorat -> 2007-2008 attachement -> 2011 respect (pivot 40/60) -> 2014 Saitama, 4e gosse du foyer -> 2017 élève de Satoru -> déc 2017 défend Tokyo -> 1 nov 2018 portée par Nisha jusqu'au domaine (elle n'apprécie pas), coup d'État, curseur ~10/90, repart à Tokyo avec elle -> 10 nov 2018 l'appelle de Saitama (Megumi et Tsumiki partis) -> 28 nov 2018 au nouveau conseil.
+- Évolution datée : 2006 harcèlement puis protectorat -> 2007-2008 attachement, lunettes maudites offertes par les jumeaux (via Yukiko, début 2008) -> 2011 respect (pivot 40/60) -> 2014 Saitama, 4e gosse du foyer -> 2017 élève de Satoru -> déc 2017 défend Tokyo -> 1 nov 2018 portée par Nisha jusqu'au domaine (elle n'apprécie pas), coup d'État, curseur ~10/90, repart à Tokyo avec elle -> 10 nov 2018 l'appelle de Saitama (Megumi et Tsumiki partis) -> 28 nov 2018 au nouveau conseil.
 
 ### Mai (protégée)
 - Statut : cousine, protégée AVANT d'être élève (2e année sous Nisha dès avr 2018) - le frein gémellaire, l'enjeu le plus lourd du duo.

@@ -1,6 +1,6 @@
 # Tsumiki Fushiguro
 
-- version : W10
+- version : W11
 
 Fiche noyau (canon + RP), entité entrant en scène à l'ouverture de l'ère B (2008). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. État noyau décrit = qui est Tsumiki à son entrée en scène (identité, nature, psychologie, relations de base) ; son devenir post-2008 est consigné en Trajectoire datée (télégraphique ; détail -> roadmaps). Profane : hors-axe combat.
 
@@ -12,7 +12,7 @@ Fiche noyau (canon + RP), entité entrant en scène à l'ouverture de l'ère B (
 
 ## Physique
 - Conforme au canon : jeune fille douce, cheveux noirs, traits avenants. Grandit de 11 à 16 ans sur l'arc B1 (2008-2013).
-- [DIVERGENCE RP] Porte des lunettes maudites à demi-monture, du même style que celles de Maki - imbues d'énergie occulte, elles lui donnent la vue de l'occulte (cf. SB7 et relation Maki). Offertes par Maki en 2009.
+- [DIVERGENCE RP] Porte des lunettes maudites à demi-monture, du même style que celles de Maki - imbues d'énergie occulte, elles lui donnent la vue de l'occulte (cf. SB7 et relation Maki). Offertes par Maki en 2009 : une des paires que les jumeaux Zenin ont obtenues des forgerons Kamo via Yukiko, début 2008 (cf. Personnages/Maki.md).
 
 ## Nature : profane marquée (graine en dormance)
 - Profane intégrale, sans don ni réserve d'énergie occulte. Sa seule "anomalie" est passive et à son insu (ci-dessous).

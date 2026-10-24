@@ -1,6 +1,6 @@
 # Roadmap A2 - L'éveil et la chute
 
-- version : W13
+- version : W14
 - statut : à venir ; JOUABLE
 - prota / POV : Nisha Zenin, plein cadre
 - échelle temporelle : ~2 ans (1 avr 2006 -> diplôme, mars 2008) ; huit étapes JOUÉES, treize AU CHOIX (rapide ou classique), tranches de vie libres entre les jalons
@@ -23,7 +23,7 @@ Deux ans d'IMMERSION, comme l'A1 : les cours de 2e année, la 3e année sur le t
 2. A2_1bis - L'âge d'or [AU CHOIX, une semaine, printemps 2006]. Tokyo puis domaine Zenin. Cours en routine, une mission encadrée sans enjeu, le week-end des jumeaux réunis. Au domaine, Naoya et Nisha HARCÈLENT Maki et Mai (7 ans) et narguent Ogi sur la loterie génétique ; Ogi muet (cf. Personnages/Maki.md, Mai.md, Naoya.md). IRONIE motrice : on crache sur les « ratées » qu'on protégera en A2_6. Clôt sur : la mission boucle.
 3. A2_2 - La mission boucle et la mise à l'écart [JOUÉE, quelques jours, fin du printemps 2006]. Manoir hanté de Hamamatsu (barrière qui replie l'espace). Mei Mei et Utahime piégées ; renfort Nisha, Satoru, Geto, Shoko. Satoru frime et DÉMOLIT le manoir ; Nisha, aînée Zenin chargée du confinement, néglige le RIDEAU -> exposition (ironie : c'est la matière du S1 de Détection). Les Hautes Instances la CLOUENT à Tokyo : [DIVERGENCE RP] c'est Naobito qui, via les Instances, la tient hors de la mission du Plasma Stellaire ; il ne veut pas risquer sa Grade Spécial sur une mission de ce type et attendait le bon prétexte, que le rideau lui fournit. Levé à la fin de la mission (A2_5). Avertissement froid à Satoru et Geto : Amanai est une ressource, on ne s'attache pas. Clôt sur : le départ de l'escorte.
 4. A2_3 - L'escorte, hors-champ [AU CHOIX, fin du printemps 2006]. Canon relaté : Satoru et Geto escortent Riko vers Tengen (Kuroi ; groupe Q, Culte Astral, prime relayée par Shiu Kong qui recrute Toji ; Okinawa ; Nanami et Haibara en soutien ; cf. Personnages/Riko.md, Toji.md). En scène : Nisha assiste Shoko à la morgue et à l'infirmerie, et ne suit la mission que par les messages de Satoru. Clôt sur : le retour à Tokyo.
-5. A2_4 - Le pivot Toji [JOUÉE, une journée, fin du printemps 2006 ; le CŒUR d'A2]. Campus de Tokyo, devant chez Tengen. Toji frappe Satoru, tue Riko (qui venait de choisir de vivre), bat Geto et l'épargne. Nisha sent l'énergie de Satoru s'éteindre, fonce, trouve Toji, mission accomplie. DUEL : son seul atout est la vitesse ; elle vide le collier (76 billes), le manque de très peu ; Toji reprend le dessus en quelques dizaines de secondes. Satoru, ressuscité et ÉVEILLÉ (RCT sur son cerveau), la sauve et achève Toji, qui parle de Megumi avant de mourir. Les billes se ramassent ensuite : le collier reste l'instrument du chantier. À planter : collier DÉTONÉ ; Satoru n1 (23 doigts), Nisha n2 ; faille d'Eien APPROFONDIE. Clôt sur : l'après-éveil.
+5. A2_4 - Le pivot Toji [JOUÉE, une journée, fin du printemps 2006 ; le CŒUR d'A2]. Campus de Tokyo, devant chez Tengen. Toji frappe Satoru, tue Riko (qui venait de choisir de vivre), bat Geto et l'épargne. Nisha sent l'énergie de Satoru s'éteindre, fonce, trouve Toji, mission accomplie. DUEL : son seul atout est la vitesse ; elle vide le collier (76 billes), le manque de très peu ; Toji reprend le dessus en quelques dizaines de secondes. Vidée, désespérée, au seuil de la mort, Nisha entend Eien rompre son silence, la seule fois entre le nouvel an et 2015 : elle peut la sauver, qu'elle la laisse faire - et elle commence à prendre le contrôle. Satoru, ressuscité et ÉVEILLÉ (RCT sur son cerveau), arrive en dieu et l'interrompt : il la sauve et achève Toji, qui parle de Megumi avant de mourir. Les billes se ramassent ensuite : le collier reste l'instrument du chantier. À planter : collier DÉTONÉ ; Satoru n1 (23 doigts), Nisha n2 ; faille d'Eien APPROFONDIE ; tentative d'Eien avortée. Clôt sur : l'après-éveil.
 6. A2_5 - L'après immédiat [JOUÉE, jours suivants]. Territoire de Nisha ; campus. Aux portes de la mort, Nisha se DÉ-BLESSE dans sa Sphère (inversion temporelle, coût colossal), Satoru veille ; gardé humain par elle, il reste plus humain que dans le canon. La liesse de la secte sur le cadavre de Riko fait basculer Geto, d'un coup plus loin que Nisha sur les profanes. Naoya fonce de Kyoto ; premier réflexe : REMERCIER Satoru -> fin du grief. Satoru rapporte ce que Toji a lâché : un fils, Megumi, promis aux Zenin par une vente CONDITIONNELLE (cf. Personnages/Toji.md). Clôt sur : le pivot des jumeaux.
 7. A2_6 - La doctrine secrète [JOUÉE, 2006, après Toji]. Domaine Zenin. Toji n'était pas un raté ; seuls eux deux en symbiose l'auraient contenu, et c'est ce qui guette Maki si Mai mourait (voie Toji). Ils arrêtent « Protéger les faibles, servir les forts » et la SOUMETTENT au conseil sous forme édulcorée : Naobito et Ogi rient, Jinichi concède la théorie sans y croire, verdict « pas d'autre Toji » (cf. Personnages/Naobito.md, Ogi.md, Jinichi.md). La moquerie SCELLE le secret : application clandestine. Ils annoncent aux jumelles leur PROTECTORAT ; Naoya pose un entraînement longtermiste. Corollaire : fin du tri par catégorie chez Nisha (cf. Personnages/Nisha_chrono_A.md). Clôt sur : la fin du S1.
 8. A2_6bis - La fin du S1 [AU CHOIX, juil -> sept 2006]. Université de Tokyo. Retour en classe. Énergie S1, serments : l'hypothèse du « serment de naissance » pour la Restriction Céleste, entendue par celle qui vient d'en perdre un duel. Yaga clôt le chantier de Satoru (l'Infini n'a plus besoin de lui) et ouvre « regarder les autres ». Épreuve pratique : frappes chargées notées sur la coïncidence ; le Rayon Noir, les deux monstres ne le comptent même pas. Évaluations de septembre. De Kyoto : pas d'Amicale 2006. Clôt sur : la rentrée du S2.
@@ -41,7 +41,7 @@ A2_7 - La descente de Geto, en toile de fond [déc 2006 -> automne 2007]. Le cou
 17. A2_8 - Les deux gouttes [JOUÉE, fin 2007]. Morgue de Tokyo : Nisha y est avec Shoko quand le corps de Haibara arrive (mission au renseignement faux ; Nanami arrivé trop tard, Satoru a terminé) ; Nanami et Geto devant le corps [CANON SUPPOSÉ]. Le lendemain, hors-champ, Geto massacre un village (112 profanes) pour sauver les sœurs Hasaba (cf. Personnages/Geto.md). [DIVERGENCE RP] Massacre canon de sept 2007 repoussé. Clôt sur : la découverte.
 18. A2_9 - La confrontation [JOUÉE, fin 2007]. Tokyo. Yaga annonce le massacre. Nisha et Shoko, les deux cyniques, croisent Geto au café et ÉCOUTENT ses raisons sans le suivre - beat terminal de l'opposition Nisha/Geto -, puis alertent Satoru, qui refuse d'entendre, le confronte dans la rue et le laisse partir. Geto fonde sa secte. Clôt sur : l'hiver.
 19. A2_9bis - Le nouvel an à trois [AU CHOIX, 31 déc 2007 -> 30 jan 2008]. Premier nouvel an sans Geto. 30 jan 2008, 21 ans : troisième collier. Clôt sur : le conseil.
-20. A2_10 - La décision-enfants [JOUÉE, début 2008, domaine]. En fil depuis 2007 : Nisha s'attache aux jumelles (PROTECTION et éducation, pas de maternité biologique) ; avec Naoya, le CONCEPT d'éduquer des gosses « sur le droit chemin » ; premier visage, Megumi ; le couple ébauche le plan (maison à Saitama, adoption hors-Zenin) sans connaître Tsumiki. Journée jouée : au conseil, Nisha NÉGOCIE l'annulation de la vente (« Toji est mort, je m'en charge ») ; le clan cède par mépris, ravi qu'une Zenin joue les mères (« même forte, une femme reste pitoyable, bonne à cuisiner et garder les gamins »). Aucune rencontre ni adoption en A2. Clôt sur : le diplôme.
+20. A2_10 - La décision-enfants [JOUÉE, début 2008, domaine]. En fil depuis 2007 : Nisha s'attache aux jumelles (PROTECTION et éducation, pas de maternité biologique) ; avec Naoya, le CONCEPT d'éduquer des gosses « sur le droit chemin » ; premier visage, Megumi ; le couple ébauche le plan (maison à Saitama, adoption hors-Zenin) sans connaître Tsumiki. Journée jouée : au conseil, Nisha NÉGOCIE l'annulation de la vente (« Toji est mort, je m'en charge ») ; le clan cède par mépris, ravi qu'une Zenin joue les mères (« même forte, une femme reste pitoyable, bonne à cuisiner et garder les gamins »). LUNETTES DE MAKI : les jumeaux demandent quelques paires de lunettes maudites à Yukiko, qui a accès aux meilleurs forgerons d'objets maudits par son clan (Naoya porte la demande et lui dit pour qui), et les offrent à Maki ; une paire ira à Tsumiki (B1_2). Aucune rencontre ni adoption en A2. Clôt sur : le diplôme.
 21. A2_11 - Clôture [AU CHOIX, fév -> mars 2008]. Nisha dit à Satoru le projet de mariage du conseil (raison 5) ; ils renoncent à l'union politique par amour : elle ne sera pas une marchandise. 29 fév 2008, repas bissextile : Nisha n'y va pas, Satoru compte plus que la politique. Diplôme, Geto absent. Postes : Nisha prof à Kyoto, Satoru à Tokyo, Naoya tête du Hei ; la doctrine a un relais dans chaque pôle. Clôt sur : fin d'A2 -> ère B.
 
 ## Tranches de vie (banque libre du MJ)
@@ -63,7 +63,7 @@ Sans date ni ordre ; seuls les interdits s'appliquent.
 - Montée de Satoru après l'éveil : Rouge, Violet, maîtrise du domaine. Jamais clouée en une seule étape.
 - Sort d'Inversion de Nisha, déc 2006 -> été 2007 : leçon d'A2_5 (le domaine la vide) ; sur elle seule, chère en énergie (cf. Personnages/Nisha_chrono_A.md).
 - Couple : sexualité assumée, tous deux très à l'aise. Scènes intimes au choix du joueur, une ou deux sur l'arc, jamais imposées. Rituel des bandages : bandée tous les jours sans exception à l'université, Satoru les défait le soir et les refait le matin.
-- Eien engrange en silence (amour, orgueil blessé), sans pouvoir agir.
+- Eien MUETTE depuis le nouvel an : elle ne répond jamais à Nisha, quoi que tente le joueur. Seule exception, sa tentative d'A2_4. Elle engrange (amour, orgueil blessé).
 - L'Amicale NE se tient PAS : sept 2006, Kyoto (hôte, vainqueur 2005) refuse de servir de faire-valoir aux prodiges de Tokyo, son effectif ratatiné depuis le diplôme de Mei Mei ; sept 2007, annulée, Tokyo trop instable depuis la mort de Riko.
 - Cours de 2e année : cf. Pedagogie/Fleaux_Histoire_2eAnnee.md, Detection_Contention_2eAnnee_S1.md, _S2.md, Energie_Territoires_2eAnnee.md.
 
@@ -82,7 +82,7 @@ Sans date ni ordre ; seuls les interdits s'appliquent.
 - Mei Mei, Utahime - piégées à Hamamatsu - cf. Personnages/Mei_Mei.md, Utahime.md
 - Yuki Tsukumo - août 2007 - cf. Personnages/Yuki.md
 - Tengen - hors-champ, destinataire de Riko - cf. Personnages/Tengen.md
-- Eien - absente en scène, engrange - cf. Personnages/Eien.md
+- Eien - muette, hors la tentative d'A2_4 - cf. Personnages/Eien.md
 
 ## Lieux et objets
 - Université de Tokyo - campus, dortoirs, morgue, café - cf. Factions/Universite_Tokyo.md ; cours : fiches 2eAnnee (Pedagogie/) ; chantiers : Pedagogie/Perso_Tokyo_2005-2008.md
@@ -90,10 +90,11 @@ Sans date ni ordre ; seuls les interdits s'appliquent.
 - Manoir de Hamamatsu - non fiché : manoir hanté à barrière spatiale, détruit par Satoru
 - Collier de tungstène - vidé contre Toji, renouvelé chaque 30 janvier - cf. Personnages/Nisha.md
 - Bandeau de Satoru - premier offert le 7 déc 2006 - cf. Personnages/Satoru.md
+- Lunettes maudites de Maki - quelques paires, forgerons Kamo via Yukiko, début 2008 - cf. Personnages/Maki.md
 
 ## Conditions de sortie
 ### Requis
-- Nisha affronte Toji, perd, et passe n2 derrière Satoru éveillé.
+- Nisha affronte Toji, perd, et passe n2 derrière Satoru éveillé ; Eien tente de prendre le contrôle, Satoru l'interrompt.
 - La doctrine est arrêtée, raillée par le conseil, et le protectorat des jumelles annoncé.
 - Geto a déserté.
 - La vente conditionnelle de Megumi est annulée et le plan de Saitama ébauché.
@@ -104,8 +105,8 @@ Sans date ni ordre ; seuls les interdits s'appliquent.
 - Nisha manie la RCT avant ou pendant A2_5, ou commence à l'apprendre avant déc 2006 - le domaine est son seul recours contre Toji, et c'est la leçon qui la pousse à l'apprendre.
 - Riko, Toji ou Haibara survivent, ou Nisha bat Toji - invariants canon ; l'éveil de Satoru, la doctrine et la bascule de Geto en dépendent.
 - Nisha retient Geto, le tue ou le livre - il est requis jusqu'à sa mort de la main de Satoru (Nuit des Cent Fléaux, 24 déc 2017).
-- Nisha perçoit le jeu d'Eien ou s'en méfie - casserait la bascule de 2015 (B2). Aucune scène d'Eien en A2.
-- Satoru révèle Eien à qui que ce soit, ou se méfie d'elle - éveillé, il voit mieux la seconde signature, qu'il sait être Eien depuis le 1er avril 2005 (A1_2), sans lire ses intentions ; casserait la façade et la bascule de 2015 (B2).
+- Nisha perçoit le jeu d'Eien ou s'en méfie - casserait la bascule de 2015 (B2). Hors A2_4, Eien ne dit pas un mot en A2, quoi que tente le joueur ; de sa tentative, Nisha ne retient qu'une amie qui voulait la sauver.
+- Satoru (ou Geto, ou Shoko) révèle Eien hors du quatuor, ou Satoru se méfie d'elle - éveillé, il voit mieux la seconde signature, qu'il sait être Eien depuis le 1er avril 2005 (A1_2), sans lire ses intentions ; casserait la façade et la bascule de 2015 (B2).
 - Satoru rouvre les archives Gojo - il ne l'a fait qu'une fois, au printemps 2005 ; casserait la symétrie-vaccin et le secret de Nozomu (cf. Factions/Clan_Gojo.md).
 - Nisha confie des archives écrites de son clan hors du clan - la prouveuse corrige sur parole, sans pièces.
 - Nisha nomme en cours la règle hôte/parasite ou son propre cas - savoir d'archives, jamais enseigné ; casserait la façade.

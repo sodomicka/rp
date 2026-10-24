@@ -1,6 +1,6 @@
 # Maki Zenin
 
-- version : W20
+- version : W21
 
 Fiche noyau + Trajectoire datée (enrichie de A2 à D4). Canon + RP. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. État noyau décrit = jusqu'au point de départ (2005) ; devenir post-2005 en Trajectoire datée (détail -> roadmap).
 
@@ -11,6 +11,7 @@ Fiche noyau + Trajectoire datée (enrichie de A2 à D4). Canon + RP. Faits canon
 
 ## Physique
 - Enfant en 2005 (6 ans), 7 à 9 ans sur A2. Gamine : cheveux sombres au carré, frange ; regard dur, sourcils froncés - la jumelle qui ne sourit pas. Kimono d'enfant aux couleurs du clan, gris moyen et violet [DIVERGENCE RP vs canon : rouge au canon]. Ne lâche pas la main de Mai.
+- [DIVERGENCE RP] Lunettes maudites à demi-monture dès début 2008 : les jumeaux Zenin en demandent quelques paires à Yukiko Kamo, qui a accès aux meilleurs forgerons d'objets maudits par son clan, et les lui offrent ; elles lui donnent la vue des fléaux. Elle en donne une paire à Tsumiki en 2009 (cf. Personnages/Tsumiki.md).
 - Adolescente (état 2017, cf. Trajectoire datée) : cf. ligne avr 2017.
 
 ## Nature : Restriction Céleste (type physique)

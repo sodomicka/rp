@@ -1,6 +1,6 @@
 # Nisha Zenin
 
-- version : W33
+- version : W34
 
 Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de départ (2005) : identité, sorts, domaine, psychologie, place dans le clan, chronologie <= 2005. Ce qu'elle DEVIENT (Trajectoire datée post-départ) est scindé par volume pour le poids -> cf. section dédiée en bas de fiche et Personnages/Nisha_chrono_A.md. Tissu relationnel (appellatifs, registres, habitudes, contentieux) : cf. la série Personnages/Nisha_relations_<cercle>.md (proches / famille / boulot / eleves_tokyo).
 
@@ -51,7 +51,7 @@ Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de dé
 - N'ajoute rien au compte en doigts : comprise dans la courbe 15 -> 16 -> 18 (cf. Grade et scaling).
 
 ### Façade publique : deux sorts, une origine maquillée
-- [DIVERGENCE RP] À TOKYO, Nisha montre ses DEUX sorts, mais en maquille l'origine : elle fait passer la Chronokinésie pour son propre sort inné, et la Chronostase pour un simple aspect de la Chronokinésie. Personne à Tokyo ne sait que la Chronokinésie est prêtée par Eien, ni que la Chronostase est son vrai sort inné. Exceptions : Satoru dès le 1er avril 2005 (ses Six Yeux ont vu la seconde signature ; elle lui dit tout sous serment de silence, A1_2), puis ses protégés, une fois la confiance établie.
+- [DIVERGENCE RP] À TOKYO, Nisha montre ses DEUX sorts, mais en maquille l'origine : elle fait passer la Chronokinésie pour son propre sort inné, et la Chronostase pour un simple aspect de la Chronokinésie. Hors du quatuor, personne à Tokyo ne sait que la Chronokinésie est prêtée par Eien, ni que la Chronostase est son vrai sort inné. Le quatuor sait TOUT, existence d'Eien comprise : Satoru dès le 1er avril 2005 (ses Six Yeux ont vu la seconde signature ; elle lui dit tout sous serment de silence hors du quatuor, A1_2), Geto et Shoko de sa bouche au fil de la première année (A1). Yaga, lui, n'en sait rien de toute leur scolarité. Puis les protégés de Satoru, une fois la confiance établie.
 - [DIVERGENCE RP] À KYOTO, rien n'est caché : l'université de Kyoto et les Hautes Instances, étroitement liées aux Zenin, savent TOUT - les deux sorts, leur vraie origine, Eien comprise. Mais tous croient Eien sous contrôle et amicale, comme le croit Nisha elle-même. Les Hautes Instances ne s'en inquiètent pas : si elles tolèrent Yuta et Rika (sous la pression du couple), une fille que les Zenin ont jugé bon de laisser en vie ne les dérange pas pour son esprit intérieur (cf. Personnages/Eien.md). Le cercle Zenin (Naoya, Naobito, le conseil) sait depuis 1991 ; périmètre du clan : cf. Factions/Clan_Zenin.md.
 - [DIVERGENCE RP] Conséquence : le viol de 2015 (cf. Personnages/Nisha_chrono_B.md) sera une douche froide pour tous ceux qui l'apprendront - ils croyaient le parasite domestique.
 - [DIVERGENCE RP] Cas d'école à partir des rentrées 2008+, une fois la promo des quatre prodiges diplômée (on enseigne un prodige après son passage, jamais pendant). Dans les deux universités, elle est enseignée comme porteuse d'UN SEUL POUVOIR : la Zenin qui a RETROUVÉ le sort ancestral du clan, la Chronokinésie, dont la Projection dérive (la Chronostase n'en serait qu'un aspect). Nisha travaille bel et bien les deux sorts ; seule la présentation les fond en un. Kyoto connaît la vérité mais enseigne la même présentation. Cf. Pedagogie/Energie_Territoires_1eAnnee.md.
@@ -90,7 +90,7 @@ Fiche NOYAU (OC, protagoniste). État décrit = ce que Nisha EST au point de dé
 Fiche propre et mécanique complète (mode opératoire, règle de bascule et son extension, signatures, hôte/parasite) : cf. WIKI Personnages/Eien.md. Tissu relationnel (appellatifs, registres avant/après 2015, les visites) : cf. Personnages/Nisha_relations_proches.md.
 - Eien : esprit maudit Grade Spécial millénaire (OC), amante de Kenjaku, logée en Nisha depuis le fœtus ; lui a cédé la Chronokinésie.
 - [DIVERGENCE RP] Nisha se sait MAÎTRESSE - elle ne s'est jamais sue geôlière. Le putsch de 1997 (tenté, échoué, pouvoirs arrachés) lui est INVISIBLE : Eien a maquillé son échec en soumission totale et joue l'amie dévouée. Jusqu'en 2015, Nisha la tient sincèrement pour son amie de toujours.
-- [A2] La faille de la garde s'APPROFONDIT à l'arc Toji (2006) : Nisha a failli mourir par amour pour Satoru, et son attachement lui fait baisser durablement la garde. Eien engrange en silence (paiera ~2015+ ; cf. roadmaps ère B).
+- [A2] La faille de la garde s'APPROFONDIT à l'arc Toji (2006) : Nisha a failli mourir par amour pour Satoru, et son attachement lui fait baisser durablement la garde. Eien engrange, muette depuis le nouvel an 2006 : sa seule parole avant 2015 est sa tentative de prise de contrôle face à Toji, interrompue par Satoru (cf. Personnages/Eien.md ; paiera ~2015+, cf. roadmaps ère B).
 - Communication : Nisha et Eien se parlent en se projetant spirituellement dans le territoire d'Eien, le Jardin des Ères Mortes. Règle hôte/parasite (canon) : Nisha ne déploiera jamais le Jardin en combat.
 - Ironie centrale : la forme ultime de la Chronokinésie d'Eien (le gel) est exactement la Chronostase native de Nisha. Hôte parfaite, inexploitable DE FORCE.
 

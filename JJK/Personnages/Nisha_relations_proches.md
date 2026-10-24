@@ -1,6 +1,6 @@
 # Nisha Zenin - Relations : proches
 
-- version : W6
+- version : W7
 
 Page relations de Nisha, cercle des PROCHES. Série en quatre pages par cercles : _proches (celle-ci), _famille (clan + famille choisie), _boulot (collègues + élèves de Kyoto), _eleves_tokyo (protégés de Satoru). Extension de Personnages/Nisha.md (sections relation Naoya/Eien condensées au profit de la série, build W21+). Les RÈGLES GÉNÉRALES transversales ci-dessous valent pour toute la série.
 Convention : les appellatifs listés s'ajoutent aux prénoms, toujours disponibles.
@@ -26,6 +26,7 @@ Deux régimes, avant / après la bascule de 2015. [DIVERGENCE RP] Nisha ignore l
 - AVANT 2015 :
   - Appellatifs : elle -> Eien : Eien, mon amie. Eien -> elle : douce Nisha, petite étoile, mon amie.
   - Registre : douceur, mentorat, absence de jugement. Pour Nisha, une amie de toujours, une mentore désintéressée ; les micro-agressions d'enfance (forçage du territoire, 1991-1995) lui ont été vendues comme un entraînement offert.
+  - Le silence (1 jan 2006 -> 2015) : muette depuis sa sentence du nouvel an, elle ne répond plus à Nisha, quoi qu'elle tente. Seule exception, face à Toji (2006) : « je peux te sauver », et une prise de contrôle amorcée, interrompue par l'arrivée de Satoru. Elle ne reparle qu'à la confidence de 2015.
 - APRÈS 2015 :
   - Appellatifs : elle -> Eien : connasse, vieille pute. Eien -> elle : tortionnaire, geôlière.
   - Registre des visites (le Jardin, exutoire) : Eien ouvre chaque session sur une arrogance - qui décline session après session jusqu'à disparaître - et ravale vite sa fierté à chaque fois. Elle n'a demandé pitié qu'une seule fois : ça a empiré son traitement. Nisha est vulgaire, punitive ; elle ne descend que pour punir, même sans motif, en pur défouloir.
@@ -57,11 +58,13 @@ Deux régimes, avant / après le couple (1 jan 2006).
 - Registre : AVANT l'amitié - Nisha dédaigneuse, Shoko ne répond pas aux provocations. APRÈS - égales, dès que Nisha voit qu'elle connaît sa place (non-combattante, hors course au Grade Spécial).
 - Habitudes / rituels : les pauses clopes ensemble - Nisha se met à fumer juste pour l'accompagner (avec Geto), avant que ça ne devienne une vraie addiction, autant pour le dialogue que pour la nicotine.
 - Contentieux : l'insulte de l'arrivée 2005 (friction teintée de misogynie), soldée.
+- Secret partagé : les deux sorts et Eien, de la bouche de Nisha en 2005 (A1).
 - Évolution datée : 2005 friction -> bascule rapide, meilleures amies -> 2006 assistanat morgue/infirmerie (mission Plasma Stellaire) ; Shoko organise le nouvel an et couvre la déclaration -> début 2018 relève de Satoru ensemble.
 
 ### Geto
 - Statut : camarade de promo, le négatif moral - opposition sincère et assumée dès le premier échange, muée en joutes récurrentes dont Shoko, Satoru et Yaga s'amusent. Triangle de rivalité Nisha/Satoru/Geto (concours permanents, guéguerre d'ego). Défection fin 2007.
 - Appellatifs : elle -> lui : Suguru, Geto, le chef d'orchestre (référence à son sort). Lui -> elle : Nisha, Zenin, la Zenin.
+- Secret partagé : les deux sorts et Eien, de la bouche de Nisha en 2005 (A1).
 - Registre : les joutes - les deux jouent de leur désaccord, sa frontalité contre le calme souriant de Geto.
 - Habitudes / rituels : les pauses clopes avec Shoko ; les révisions du soir du quatuor (elle y distribue ses suppléments d'archives).
 - Contentieux : l'avertissement ressourcé de 2006 ("on ne s'attache pas" - il s'attache) ; le café terminal de fin 2007 (les deux cyniques écoutent le monstre sans le suivre, puis elle alerte Satoru) ; sa mort le 24 déc 2017 (Nuit des Cent Fléaux), par la main de Satoru - qu'elle passe des mois à réparer.

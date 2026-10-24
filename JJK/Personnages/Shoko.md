@@ -1,6 +1,6 @@
 # Shoko Ieiri
 
-- version : W12
+- version : W13
 
 Page = fiche noyau (état atemporel / point de départ 2005). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Résumé condensé en BIBLE SB5.
 
@@ -52,6 +52,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport à 
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
 | avr 2005 -> 2008 | Chantier perso de Yaga, double : le DÉBIT de soin sous pression et le triage (force), SE PLACER (faiblesse) - soigner un pantin blessé pendant que d'autres la harcèlent, choisir où se mettre, quand bouger, quand cesser de soigner pour survivre (cf. Pedagogie/Perso_Tokyo_2005-2008.md) | chantier perso : la médecin apprend à se placer |
+| 2005 (A1, moment libre) | Nisha lui dit tout de ses deux sorts et d'Eien : la Chronokinésie prêtée par le parasite, la Chronostase innée. Secret tenu hors du quatuor (Yaga n'en sait rien) | dans le secret d'Eien |
 | sept 2005 | Tournoi des Universités Jumelées (hôte Kyoto) : non-combattante ; soigne TOUT LE MONDE au fil des deux journées - dont Utahime (démontée par Nisha) et Yukiko Kamo (assommée par Satoru), simples soins (cf. Roadmap_A1 A1_3, Personnages/Yukiko.md) | démonstration de son utilité (5 mois après l'insulte de Nisha) |
 | ~1 jan 2006 | Organise le nouvel an des quatre ; couvre la déclaration de Satoru | -- |
 | début 2018 (B3) | Participe à la RELÈVE de Satoru, effondré après avoir tué Geto de ses propres mains : aux côtés de la famille, la médecin de la promo soigne ce que le RCT ne répare pas | pilier de la relève ; des quatre prodiges, ils restent trois |

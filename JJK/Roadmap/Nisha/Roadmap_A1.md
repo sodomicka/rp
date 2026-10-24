@@ -1,6 +1,6 @@
 # Roadmap A1 - Le Transfert
 
-- version : W11
+- version : W12
 - statut : en cours ; JOUABLE
 - prota / POV : Nisha Zenin
 - échelle temporelle : 1 an (31 mars 2005 -> 31 mars 2006) ; six journées JOUÉES, sept étapes AU CHOIX (rapide ou classique), tranches de vie libres entre les jalons
@@ -23,7 +23,7 @@ L'arc est une année d'IMMERSION : c'est en A1 que Nisha apprend à apprécier S
    - Aube : dernière routine matinale du quotidien (douche séparée, le reste ensemble, 1c1 jusqu'à 7h) ; adieux au seuil des mille marches ; en texture, Nisha et Naoya échangent leurs théories sur Yukiko (Nisha : une Grade 2 qui connaît sa place ; Naoya : elle cache son jeu) - pari : celui qui a tort fait la vaisselle. Course Tokyo-Kyoto (~Mach 2+, sous le seuil économique de la Chronostase).
    - 7h20 Nisha en salle ; 7h30 Geto et Shoko arrivent, honorés d'intégrer une université d'exorcisme ; débat Nisha/Geto sur le sort des faibles, qui dérape sur Shoko (vanne misogyne : une non-combattante qui n'a rien à faire là) ; 8h Yaga recadre - menace SINCÈRE : agir en Kyotoïte = retour à Kyoto - et explique l'unicité de Shoko ; le débat reprend sans misogynie ; 8h10 Satoru arrive en retard, intrigué par Nisha, désamorce d'une vanne.
    - Premier cours (Fléaux et histoire, S1, présentation) : chacun présente son sort ; Nisha pose sa façade (Chronokinésie). Sur le récit fondateur, elle corrige Yaga de SA PAROLE de Zenin, sans pièces : Yaga en prend note sans changer son programme.
-   - Pause de 10h, seul à seule : les Six Yeux, encore mal maîtrisés, ont vu DEUX signatures dans le corps de Nisha, et Satoru le lui dit. Mentir est trop risqué (comment le charmer s'il la croit menteuse ?) : elle lui révèle Eien, un esprit maudit qui passe de corps en corps et prête son sort inné à son hôte ; la Chronokinésie vient d'elle, la Chronostase et le territoire sont à Nisha. Secret des grandes familles : silence exigé, menace à l'appui. Satoru promet et tient parole (ni Geto, ni Shoko, ni Yaga). Il ne voit d'Eien qu'une signature et prend Nisha au mot.
+   - Pause de 10h, seul à seule : les Six Yeux, encore mal maîtrisés, ont vu DEUX signatures dans le corps de Nisha, et Satoru le lui dit. Mentir est trop risqué (comment le charmer s'il la croit menteuse ?) : elle lui révèle Eien, un esprit maudit qui passe de corps en corps et prête son sort inné à son hôte ; la Chronokinésie vient d'elle, la Chronostase et le territoire sont à Nisha. Secret des grandes familles : silence exigé hors du quatuor, menace à l'appui. Satoru promet et tient parole (jamais un mot à Yaga). Il ne voit d'Eien qu'une signature et prend Nisha au mot.
    - Midi : Nisha invite le quatuor au Tokyo no Akatsuki (carte bleue), pour « clarifier sa position ».
    - 13h30, exercices pratiques : Yaga laisse Satoru et Nisha se mesurer. Nisha l'emporte (Satoru ne la bat pas avant A2).
    - Soir : chambre au campus, premier appel à Naoya, qui a vu Yukiko, Ranta et Gakuganji à Kyoto.
@@ -87,7 +87,7 @@ Sans date ni ordre ; seuls les interdits s'appliquent. C'est là que Nisha chang
 - Université de Tokyo - campus, salle de classe, dortoirs, cafét, salle du nouvel an - cf. Factions/Universite_Tokyo.md
 - Tokyo no Akatsuki - le restaurant de la rentrée - cf. BIBLE SB6
 - Université de Kyoto - hôte de l'Amicale - cf. Factions/Universite_Kyoto.md, Factions/Tournoi.md
-- Cours de 1re année - cf. Pedagogie/Fleaux_Histoire_1eAnnee.md, Detection_Contention_1eAnnee.md, Energie_Territoires_1eAnnee.md ; chantiers de Yaga : cf. Pedagogie/Perso_Tokyo_2005-2008.md
+- Cours de 1re année - cf. Fils transversaux ; chantiers de Yaga : cf. Pedagogie/Perso_Tokyo_2005-2008.md
 - Carte bleue de Nisha - entre en usage avec le départ pour Tokyo - cf. Personnages/Nisha.md
 - Collier de tungstène - offert le 30 jan 2006 - cf. Personnages/Nisha.md
 
@@ -95,6 +95,7 @@ Sans date ni ordre ; seuls les interdits s'appliquent. C'est là que Nisha chang
 ### Requis
 - Nisha s'installe à Tokyo (transfert accepté, chambre au campus, domaine un week-end sur deux).
 - Shoko est devenue son amie avant l'Amicale ; l'opposition avec Geto s'est muée en joutes.
+- Geto et Shoko savent tout des deux sorts et d'Eien, par Nisha (moment au choix du joueur).
 - Nisha, Satoru et Geto évalués Grade Spécial ensemble, fin juin 2005, avant l'Amicale.
 - L'Amicale est jouée : Nisha disqualifiée au J1 pour avoir frappé Satoru, battue par Yukiko au J2.
 - Le couple Nisha-Satoru est formé au nouvel an.
@@ -103,7 +104,8 @@ Sans date ni ordre ; seuls les interdits s'appliquent. C'est là que Nisha chang
 - Nisha retourne s'installer à Kyoto ou y étudie - casserait le transfert et toute l'ère A à Tokyo (A2).
 - Satoru bat Nisha ou la dépasse avant A2, en duel comme en exercice - le rang n1 de Nisha ne tombe qu'à l'éveil de Satoru (A2_4).
 - Satoru apprend que le conseil Zenin veut le mariage - casserait le savoir asymétrique du couple ; la dissolution de l'opposition de Naoya se joue en A2_5.
-- Nisha révèle Eien à quelqu'un d'autre que Satoru à Tokyo, ou Satoru le répète - casserait la façade publique et le cas d'école enseigné à partir de 2008 (A2). Satoru sait depuis le 1er avril 2005 et tient parole.
+- Yaga ou un tiers hors du quatuor apprend Eien ou la vraie nature des deux sorts - casserait la façade publique et le cas d'école de 2008 (A2).
+- Eien reparle à Nisha après sa sentence du nouvel an - muette jusqu'à Toji (A2_4), quoi que tente le joueur.
 - Satoru se méfie d'Eien ou lit en elle autre chose qu'une seconde signature - la bascule de 2015 (B2) doit le prendre de court comme les autres.
 - Satoru lit vraiment les archives Gojo, ou en approche les dossiers noirs - casserait la symétrie-vaccin et le secret de Nozomu (cf. Factions/Clan_Gojo.md).
 - Nisha apprend le vrai niveau de Yukiko avant l'Amicale - casserait la dette de septembre (A1_3). Naoya peut lui dire qu'elle avait tort, rien de plus.
@@ -129,11 +131,11 @@ Sans date ni ordre ; seuls les interdits s'appliquent. C'est là que Nisha chang
 - Étapes AU CHOIX et tranches de vie : aucun verrou ; seuls les interdits s'appliquent.
 
 ## Bifurcations
-- Aucune. Règle globale du RP (jusqu'à contre-ordre du worldbuilder) : aucune roadmap ne se scinde en embranchement.
+- Aucune. Règle globale du RP : aucune roadmap ne se scinde en embranchement.
 
 ## Notes de frontière
-- État de sortie (31 mars 2006) : Nisha toujours n1 (13 doigts), Satoru pré-éveil sous elle ; couple formé depuis le 1 jan 2006 ; quatuor Nisha/Satoru/Geto/Shoko soudé ; Nisha fumeuse ; faille d'Eien réarmée, latente ; collier en possession de Nisha ; jumeaux séparés, rituels maintenus.
-- A2 : mission du Plasma Stellaire, retour de Toji en assassin, éveil de Satoru (-> 23 doigts) qui fait passer Nisha n2. Rien de tout cela n'affleure en A1.
+- État de sortie (31 mars 2006) : Nisha toujours n1 (13 doigts), Satoru pré-éveil sous elle ; couple formé depuis le 1 jan 2006 ; quatuor Nisha/Satoru/Geto/Shoko soudé ; Nisha fumeuse ; faille d'Eien réarmée, latente, Eien muette ; collier en possession de Nisha ; jumeaux séparés, rituels maintenus.
+- A2 : mission du Plasma Stellaire, retour de Toji en assassin, éveil de Satoru (-> 23 doigts) qui fait passer Nisha n2.
 - Cadeau réciproque Nisha -> Satoru (le bandeau) : A2, déc 2006.
 - Les mêmes jalons côté Yukiko (équipe de choc de Gakuganji, couple avec Utahime) : Roadmap/Yukiko/Roadmap_A1.md.
 
