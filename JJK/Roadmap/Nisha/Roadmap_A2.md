@@ -106,7 +106,7 @@ Sans date ni ordre ; seuls les interdits s'appliquent.
 - Riko, Toji ou Haibara survivent, ou Nisha bat Toji - invariants canon ; l'éveil de Satoru, la doctrine et la bascule de Geto en dépendent.
 - Nisha retient Geto, le tue ou le livre - il est requis jusqu'à sa mort de la main de Satoru (Nuit des Cent Fléaux, 24 déc 2017).
 - Nisha perçoit le jeu d'Eien ou s'en méfie - casserait la bascule de 2015 (B2). Hors A2_4, Eien ne dit pas un mot en A2, quoi que tente le joueur ; de sa tentative, Nisha ne retient qu'une amie qui voulait la sauver.
-- Satoru révèle Eien à qui que ce soit, ou se méfie d'elle - éveillé, il voit mieux la seconde signature, qu'il sait être Eien depuis le 1er avril 2005 (A1_2), sans lire ses intentions ; casserait la façade et la bascule de 2015 (B2).
+- Satoru (ou Geto, ou Shoko) révèle Eien hors du quatuor, ou Satoru se méfie d'elle - éveillé, il voit mieux la seconde signature, qu'il sait être Eien depuis le 1er avril 2005 (A1_2), sans lire ses intentions ; casserait la façade et la bascule de 2015 (B2).
 - Satoru rouvre les archives Gojo - il ne l'a fait qu'une fois, au printemps 2005 ; casserait la symétrie-vaccin et le secret de Nozomu (cf. Factions/Clan_Gojo.md).
 - Nisha confie des archives écrites de son clan hors du clan - la prouveuse corrige sur parole, sans pièces.
 - Nisha nomme en cours la règle hôte/parasite ou son propre cas - savoir d'archives, jamais enseigné ; casserait la façade.

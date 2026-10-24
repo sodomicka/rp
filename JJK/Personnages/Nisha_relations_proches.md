@@ -58,11 +58,13 @@ Deux régimes, avant / après le couple (1 jan 2006).
 - Registre : AVANT l'amitié - Nisha dédaigneuse, Shoko ne répond pas aux provocations. APRÈS - égales, dès que Nisha voit qu'elle connaît sa place (non-combattante, hors course au Grade Spécial).
 - Habitudes / rituels : les pauses clopes ensemble - Nisha se met à fumer juste pour l'accompagner (avec Geto), avant que ça ne devienne une vraie addiction, autant pour le dialogue que pour la nicotine.
 - Contentieux : l'insulte de l'arrivée 2005 (friction teintée de misogynie), soldée.
+- Secret partagé : les deux sorts et Eien, de la bouche de Nisha en 2005 (A1).
 - Évolution datée : 2005 friction -> bascule rapide, meilleures amies -> 2006 assistanat morgue/infirmerie (mission Plasma Stellaire) ; Shoko organise le nouvel an et couvre la déclaration -> début 2018 relève de Satoru ensemble.
 
 ### Geto
 - Statut : camarade de promo, le négatif moral - opposition sincère et assumée dès le premier échange, muée en joutes récurrentes dont Shoko, Satoru et Yaga s'amusent. Triangle de rivalité Nisha/Satoru/Geto (concours permanents, guéguerre d'ego). Défection fin 2007.
 - Appellatifs : elle -> lui : Suguru, Geto, le chef d'orchestre (référence à son sort). Lui -> elle : Nisha, Zenin, la Zenin.
+- Secret partagé : les deux sorts et Eien, de la bouche de Nisha en 2005 (A1).
 - Registre : les joutes - les deux jouent de leur désaccord, sa frontalité contre le calme souriant de Geto.
 - Habitudes / rituels : les pauses clopes avec Shoko ; les révisions du soir du quatuor (elle y distribue ses suppléments d'archives).
 - Contentieux : l'avertissement ressourcé de 2006 ("on ne s'attache pas" - il s'attache) ; le café terminal de fin 2007 (les deux cyniques écoutent le monstre sans le suivre, puis elle alerte Satoru) ; sa mort le 24 déc 2017 (Nuit des Cent Fléaux), par la main de Satoru - qu'elle passe des mois à réparer.

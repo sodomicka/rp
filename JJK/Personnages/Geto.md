@@ -1,6 +1,6 @@
 # Suguru Geto
 
-- version : W14
+- version : W15
 
 Page = fiche personnage : noyau (état 2005) + Trajectoire datée (post-2005). Faits canon non balisés (niveau établi) ; couche RP balisée [DIVERGENCE RP]. Résumé condensé en BIBLE SB5.
 
@@ -37,6 +37,7 @@ Page = fiche personnage : noyau (état 2005) + Trajectoire datée (post-2005). F
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
 | avr 2005 -> 2007 | Chantier perso de Yaga : la COMMANDE SIMULTANÉE - tenir plusieurs fléaux en manœuvre coordonnée (les pantins de Yaga contre son armée ; d'artisan à artisan, le seul endroit du cursus où Yaga enseigne quelque chose à un futur Spécial). [INTERPRÉTATION] l'armée coordonnée ainsi apprise est celle du massacre de fin 2007 - et c'est Yaga lui-même qui découvre les faits (cf. Pedagogie/Perso_Tokyo_2005-2008.md) | chantier perso : coordination acquise, retournée contre le monde |
+| 2005 (A1, moment libre) | Nisha lui dit tout de ses deux sorts et d'Eien : la Chronokinésie prêtée par le parasite, la Chronostase innée. Secret tenu hors du quatuor (Yaga n'en sait rien) | dans le secret d'Eien |
 | sept 2005 | Tournoi des Universités Jumelées (hôte Kyoto) J1 : tombe à deux (Naoya + Ranta) en forêt ; J2 : bat Mei Mei (entrée pour l'affiche gagnable) | -- |
 | avr 2006 (A2_1) | Rentrée de 2e année ; rencontre les 1res années : Nanami (sérieux, sceptique), Haibara (lumineux), Ijichi | -- |
 | printemps 2006 (A2_2) | Mission boucle (manoir hanté) avec le quatuor ; Nisha les avertit, lui et Satoru : "Amanai n'est pas une fillette, c'est une ressource... on ne s'attache pas" | ironie plantée (il s'attachera) |
