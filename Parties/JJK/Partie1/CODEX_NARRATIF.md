@@ -12,7 +12,7 @@
   note: les tampons OOC (§5) et interdits (§6) utilisent [V<n>], pas la date.
 - codex_version: V13
 - plafond: 66 000 car. (barème : min(30 000 + 3 000 x (N-1), 90 000))
-- taille au build: 29061 car. (44 % du plafond(N))
+- taille au build: 29162 car. (44 % du plafond(N))
 - thread source: Partie JJK : A2, de la fin du S1 à Yuki | cmsg_01MY5EoYgecDdhQvUijNYPy6R479uzkjC7EwiioXxugiFK
 - spec au build: SPEC_CODEX v8.10 (source: GitHub)
 - bible_lore: BIBLE_LORE_JJK.md
@@ -283,6 +283,7 @@ Codes de parole :
 - Projet d'adopter Megumi - Nisha, Satoru, Naoya | le clan | A2_10 | -
 - Les 40 s de « dieu » de Satoru - Satoru, Nisha | tous | - | -
 - Projet de mariage avec Satoru (raison 5) - conseil, jumeaux ; Yukiko | Satoru, Gojo, Tokyo | interdit avant A2_11 | casse le savoir asymétrique
+- Première nuit et vie intime du couple, détails crus compris - Nisha, Satoru, Naoya (ragots demandés) | les autres | - | -
 - Couple Nisha/Satoru - le quatuor, Naoya, Tokyo | Naobito, conseil, clan, Gakuganji, Yukiko, jumelles | consigne de Naoya : le vieux ne saura que le sauvetage | Naobito y verrait son plan qui marche
 - Vrai niveau de Yukiko - Yukiko, Gakuganji, Naoya, Ranta ; Nisha, Satoru | Geto, Yaga, public | - | -
 - Yukiko tient à Utahime - Yukiko, Nisha | tous | silence juré | -
