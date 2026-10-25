@@ -11,6 +11,7 @@ Après une compression de contexte (résumé en tête de contexte, ou rappel aut
 Le résumé dépend du mode du thread.
 
 **Jeu (narration)** : le résumé sert d'INDEX, la mémoire se relit dans le thread et dans les fichiers du dépôt. Il garde, court et exact :
+- en PREMIÈRE ligne du résumé, telle quelle : `RELECTURE §8 NON FAITE — bloquante. Avant toute narration : relire (cœur Narration §8) et poser la ligne [RELECTURE §8 …]. Le dernier message du joueur attend : n'y répondre qu'au tour suivant.` Cette tâche n'est jamais rangée en « étape suivante » ni en « optionnelle » ;
 - l'univers, la partie, l'étape de roadmap en cours ;
 - le numéro de cette compression dans le thread : celui du résumé précédent ou du dernier `[REPERE]`, plus un (1 s'il n'y en a aucun) ;
 - le dernier `[REPERE]` tel quel, le dernier message du joueur et la dernière réponse du MJ mot pour mot ;

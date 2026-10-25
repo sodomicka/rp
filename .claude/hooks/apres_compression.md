@@ -8,6 +8,7 @@ Le contexte vient d'être compressé. AVANT la prochaine réponse, sans attendre
    - le CODEX en entier, puis la roadmap de l'étape en cours ;
    - les fiches du casting présent ou convoqué, chacune une seule fois ;
    - la surface du thread avec l'outil de lecture du thread : messages du joueur et du MJ, corps complets, depuis l'ouverture du thread.
+   Poser alors la ligne hors fiction [RELECTURE §8 — …] et s'arrêter, sans narrer (cœur Narration §8, preuve de relecture).
    Puis appliquer la règle des deux compressions (cœur Narration §8) : numéro de cette compression = celui que porte le résumé ; à défaut, celui du dernier [REPERE] plus un (1 si aucun). À la deuxième, c'est la dernière tranche du thread.
    Jauge : la valeur de context_usage relevée juste après une compression peut être périmée. La relire avant chaque message, jamais la recopier.
 
