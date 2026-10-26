@@ -110,6 +110,7 @@ Validé comme réservoir le 2026-09-22. Un fil n'entre en BIBLE SB8 qu'une fois 
 - Âges donnés à P (12/06/632), avant les anniversaires de 632 : naissances 17/09/602 et 16/12/605. Tout âge ultérieur se recalcule depuis ces dates. Tom Nook : né 30/05/586, anniversaire AVANT P, donc 46 ans sans le -1.
 - Origine du compte : "an 0" écrit par convention ; an 0 ou an 1 non tranché. Sans effet sur les dates posées, décalage d'un an sur les durées "depuis la bascule".
 - "Âge d'or" dans les pages = terme du monde (gloire humaine jusqu'à l'an 0 ; pour les Anthros, propagande humaine). L'ère de travail s'appelle "Âge des enclos" (2026-09-22). Ne pas confondre.
+- Budget toléré (2026-10-26) : Factions/Eglise.md W1 à 1 924 car., sous le plancher. Grossira en passe 2 si les arcs lui donnent de la matière.
 - Budget toléré (2026-09-22) : sous le plancher des 2 000 car., personnages lointains au socle léger : Charlotte, Sébastien, Chef, Pierrot, Sophie (1 300-1 700 car.). Grossiront en passe 2 si les arcs les convoquent ; sinon, fusion possible par portée à la clôture. Daniel et Antoine partagent déjà une fiche.
 - Insulte "zoophilie" retirée (2026-09-22, trop intense) : ne pas la réintroduire. Le mot ne désigne que l'acte d'origine.
 - "Pureté des clans apex" (Viviane, Arthur) : entre-soi trophique (apex entre eux), pas pureté d'espèce. Cohérent avec leur mariage loup x humain et avec SB1 "Loups : pas obsédés par la pureté". Ne pas lire comme une contradiction.
