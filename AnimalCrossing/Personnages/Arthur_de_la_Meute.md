@@ -1,65 +1,65 @@
 # Arthur de la Meute
 
-- version : W1
+- version : W2
 
-## Identite
-- Nom : Arthur de la Meute, ne Fontaine.
-- Espece : humain (Homo sapiens).
-- Age a P : 60 ans. Date de naissance non fixee.
-- Origine : la famille Fontaine, noblesse humaine ; detentrice de la cle de l'origine [IMPLICITE] (cf. BIBLE SB4, Familles nobles).
-- Statut : epoux de Viviane, l'Alpha (cf. Personnages/Viviane_de_la_Meute.md). Siege au Conseil municipal de Lupus (cf. Lieux/Lupus.md). Pere des deux portees (cf. Factions/La_Meute.md).
+## Identité
+- Nom : Arthur de la Meute, né Fontaine.
+- Espèce : humain (Homo sapiens).
+- Âge à P : 60 ans. Date de naissance non fixée.
+- Origine : la famille Fontaine, noblesse humaine, qui tisse des alliances par le mariage dans de nombreuses villes (décision 2026-10-26) ; détentrice de la clé de l'origine [IMPLICITE] (cf. Factions/La_Meute.md).
+- Statut : époux de Viviane, l'Alpha (cf. Personnages/Viviane_de_la_Meute.md). Siège au Conseil municipal de Lupus (cf. Lieux/Lupus.md). Père des deux portées (cf. Factions/La_Meute.md).
 - Domicile : le domaine familial, dans les Hauts de Lupus.
 
 ## Description physique
 - 1 m 85.
 - Cheveux gris, courts.
-- Deux profondes griffures de loup sur la joue gauche, cicatrisees : une par portee (602, 605).
-- Sebastien lui ressemble beaucoup, cheveux noirs en plus.
+- Deux profondes griffures de loup sur la joue gauche, cicatrisées : une par portée (602, 605).
+- Sébastien lui ressemble beaucoup, cheveux noirs en plus.
 
 ## Psychologie
-- Froid, calculateur. Ne vit que pour le business, la purete des clans apex et la Meute.
-- Simple epoux de Viviane au depart, il s'est montre aussi froid et calculateur que le reste de la Meute : cela le rend tres legitime.
-- Confiance et amour aveugles envers son epouse.
-- Remus est pour lui une aberration : il a espere sa mort a la naissance sans rien faire pour, l'a laisse teter et nourrir normalement, puis l'a traite en aberration.
-- Entretient la malediction des pleines lunes par cynisme, pour punir Remus d'etre ne hybride. Il sait qu'elle est fausse.
-- Blanche reste a ses yeux un membre de la Meute : un detour de jeunesse avant le retour dans le rang.
+- Froid, calculateur. Ne vit que pour le business, la pureté des clans apex et la Meute.
+- Simple époux de Viviane au départ, il s'est montré aussi froid et calculateur que le reste de la Meute : cela le rend très légitime.
+- Confiance et amour aveugles envers son épouse.
+- Remus est pour lui une aberration : il a espéré sa mort à la naissance sans rien faire pour, l'a laissé téter et nourrir normalement, puis l'a traité en aberration.
+- Entretient la malédiction des pleines lunes par cynisme, pour punir Remus d'être né hybride. Il sait qu'elle est fausse.
+- Blanche reste à ses yeux un membre de la Meute : un détour de jeunesse avant le retour dans le rang.
 
 ## Affaires
-- Cogere l'empire avec Viviane : ils font tout ensemble (banque Nook, salle des ventes, pegre de Rounard, police de Pont-la-Plaine ; cf. Factions/La_Meute.md).
+- Cogère l'empire avec Viviane : ils font tout ensemble (banque Nook, salle des ventes, pègre de Rounard, police de Pont-la-Plaine ; cf. Factions/La_Meute.md).
 
-## Manies et gouts
+## Manies et goûts
 - Vin rouge.
 - Viande de gibier sapiens.
 
 ## Couple
-- Mariage arrange entre les Fontaine et la Meute, vite vire a l'amour sincere. A P, deux predateurs amoureux.
-- Rituel du couple : chaque fois qu'il feconde Viviane, elle le marque d'une profonde griffure sur la joue gauche. Il la laisse faire.
+- Mariage arrangé entre les Fontaine et la Meute, vite viré à l'amour sincère. À P, deux prédateurs amoureux.
+- Rituel du couple : chaque fois qu'il féconde Viviane, elle le marque d'une profonde griffure sur la joue gauche. Il la laisse faire.
 
-## Histoire jusqu'au point de depart
-- Ne Fontaine, noblesse humaine.
-- Mariage arrange avec Viviane de la Meute ; il prend le nom de la Meute. Amour sincere tres vite.
-- 17/09/602 : portee ainee, premiere griffure.
-- 16/12/605 : portee cadette, seconde griffure. Remus nait hybride : cf. Psychologie.
-- S'impose dans la Meute par sa froideur et son calcul ; siege au Conseil.
-- Avant P : eviction de Tortimer et nomination de Remus a Pont-la-Plaine, decisions de la Meute, donc du couple [IMPLICITE].
+## Histoire jusqu'au point de départ
+- Né Fontaine, noblesse humaine.
+- Mariage arrangé avec Viviane de la Meute, une alliance des Fontaine parmi d'autres ; il prend le nom de la Meute. Amour sincère très vite.
+- 17/09/602 : portée aînée, première griffure.
+- 16/12/605 : portée cadette, seconde griffure. Remus naît hybride : cf. Psychologie.
+- S'impose dans la Meute par sa froideur et son calcul ; siège au Conseil.
+- Avant P : éviction de Tortimer (09/06/632) et nomination de Remus à Pont-la-Plaine. Décisions de la Meute, donc du couple [IMPLICITE] (cf. Personnages/Viviane_de_la_Meute.md).
 
 ## Savoirs
-- Cle de l'origine, par les Fontaine [IMPLICITE] et par la Meute ; transmise a tous ses enfants.
-- Sait la malediction des pleines lunes fausse.
+- Clé de l'origine, par les Fontaine [IMPLICITE] et par la Meute ; transmise à tous ses enfants.
+- Sait la malédiction des pleines lunes fausse.
 
 ## Relations
-- Viviane : son epouse, qu'il aime et croit aveuglement.
-- Ses enfants : cf. Personnages/Viviane_de_la_Meute.md, meme repartition.
-- Remus : l'aberration, exilee a Pont-la-Plaine (cf. Personnages/Remus_de_la_Meute.md).
-- Les Fontaine : sa famille de naissance ; liens actuels non etablis [INCERTAIN].
+- Viviane : son épouse, qu'il aime et croit aveuglément.
+- Ses enfants : cf. Personnages/Viviane_de_la_Meute.md, même répartition.
+- Remus : l'aberration, exilée à Pont-la-Plaine (cf. Personnages/Remus_de_la_Meute.md).
+- Les Fontaine : sa famille de naissance. À P, l'alliance avec la Meute est toujours active.
 
-## Trajectoire datee
-| Date/ere | Evenement | Delta d'etat |
+## Trajectoire datée
+| Date/ère | Événement | Delta d'état |
 |---|---|---|
 
 ## Renvois
 - Famille, domaines, doctrine : Factions/La_Meute.md
-- Epouse : Personnages/Viviane_de_la_Meute.md
+- Épouse : Personnages/Viviane_de_la_Meute.md
 
 ---
 
