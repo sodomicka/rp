@@ -50,7 +50,7 @@
 - 620 : il demande à faire des choses plus morales. Rounard le fout à la porte, puis lui jette une carte de visite Nook Inc.
 - Nook voit en lui un Rounard repenti. Il le forme à l'immobilier, lui décèle un talent pour l'esthétique et la déco intérieure, et le met évaluateur de son empire.
 - 623 : il fait entrer sa nièce Lou chez Nook Immobilier (cf. Personnages/Lou.md). En 628, il vend à Nook le projet de Lou, Paradis sur mesure, comme une filiale de Nook Inc. (cf. Factions/Nook_Inc.md, Lieux/Reserves.md).
-- 625, à 27 ans [PROPOSITION MJ, à valider] : évaluateur à l'agence de Pont-la-Plaine, logé au sous-sol. Max, entré chez Nook vers 630, en devient le gérant, au-dessus de lui (cf. Personnages/Max.md).
+- 625, à 27 ans : évaluateur à l'agence de Pont-la-Plaine, logé au sous-sol. Max, entré chez Nook vers 630, en devient le gérant, au-dessus de lui (cf. Personnages/Max.md).
 - 12/06/632 (P) : Remus de la Meute entre en poste.
 
 ## Savoirs
