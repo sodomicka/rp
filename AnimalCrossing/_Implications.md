@@ -40,6 +40,7 @@ Journal de travail. Jamais fetché en narration. Hors Sommaire. Règle de tenue 
 
 ## Repères pour la passe 2
 
+- MESSAGE DU RECIT (decision 2026-10-26) : l'histoire de Nisha et des Zenin est une histoire de MERITE ; celle de Remus et des de la Meute, une histoire d'AMBITION. Remus est le seul sans grande ambition (sa seule ambition : etre reconnu par sa famille). Tortimer sans le deni : il sait les horreurs du monde et les trouve banales par habitude de naissance ; dissonance cognitive flagrante avec "rejete pour ce qu'il fait, pas pour ce qu'il est", VOULUE. Arc : en protegeant les siens d'horreurs qu'il croyait banales, il se reveille lentement.
 - La dette n'est PAS l'épine dorsale de la trame (le prota a le sang bleu) ; elle reste un mécanisme du monde.
 - Prota masculin ; romance avec Marie probable (couple hétéro). Remus aime qu'on lui résiste ; Marie ne se laisse pas intimider.
 - Lecture MJ du modus operandi : prota = pilier caché de l'envers du canon ; ici, le pilier caché est un paria.
