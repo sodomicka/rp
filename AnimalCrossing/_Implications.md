@@ -72,6 +72,8 @@ Validé comme réservoir le 2026-09-22. Un fil n'entre en BIBLE SB8 qu'une fois 
 
 ## Dettes de build
 
+- FONTAINE (décision 2026-10-26) : famille noble humaine qui tisse des alliances par le mariage dans de nombreuses villes ; alliance avec la Meute toujours active à P. Domicile : Personnages/Arthur_de_la_Meute.md (W2). À reporter au prochain BIBLE BUILD (SB4, Familles nobles) et en La_Meute à sa prochaine relivraison.
+
 - CARTE DE PONT-LA-PLAINE : SOLDÉE (2026-09-28). Image générée figée (Lieux/Pont_la_Plaine.png), plan en mots (Lieux/Pont_la_Plaine_plan.md), tous les domiciles placés. Points laissés ouverts par le plan : où se jouent les cartes l'hiver ; population en chiffre.
 - GARDE-CAP : à produire à l'ouverture de la passe 2, avant la première roadmap : Roadmap/<Prota>/00_Garde_Cap.md (format et rôle : cœur Wiki, ORDRE DE CONSTRUCTION).
 - Noms VF CONFIRMÉS par le calendrier des anniversaires NH en VF (actugaming.net, calendrier-anniversaires-animal-crossing-new-horizons-325677) : Ciboulot, Ginette, Robusto, Rounard, Jacqu'O, Albin, Amiral, Mamiral, Liliane, Lila, Lionel, Méli, Mélo, Tom Nook, Tortimer, Thibou, Céleste, Racine, Layette, Cousette, Risette, Serge, Maret, Chausset, Blaise, Astrid, Charly, Rodolphe, Joe, Resetti, Sarah, Gulliver, Lou, Kéké Laglisse, Loupiot, Wolfgang, Gary. Balises retirées partout (BIBLE B4, Pont_la_Plaine W7, Lupus W6, Reserves W4). Restent non confirmés (hors NH) : Gracie, Niko, Wardell, Tiquette.

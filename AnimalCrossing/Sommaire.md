@@ -1,6 +1,6 @@
 # Sommaire - AnimalCrossing
 
-- version : W33
+- version : W34
 
 ## WIKI
 
@@ -40,7 +40,7 @@ Description : fiches noyau des entités du monde (neutres, réutilisables entre 
 - Remus_de_la_Meute.md (W4) - protagoniste : fils loup-garou de la Meute, maire de Pont-la-Plaine ; identité, domicile (tente Nook à P), physique, tenues et insigne, psychologie, pleines lunes, manies, goûts, histoire jusqu'à P, capacités, savoirs, relations, angles morts
 - Blanche_de_la_Meute.md (W5) - sœur aînée du prota, louve, consultante en finance à Pont-la-Plaine ; sortie du système familial, masque de froideur, seule alliée d'enfance de Remus ; goûts, villa du promontoire sud-est, rapports avec la famille
 - Viviane_de_la_Meute.md (W3) - mère du prota, Alpha de la branche de Lupus ; cogestion de l'empire, couple, rituel des griffures, regard sur Remus et Blanche, court-circuite ses maires (famille d'Amiral envoyée à Tortiland le 01/05/632), Nook écarté de Luppa
-- Arthur_de_la_Meute.md (W1) - père du prota, humain né Fontaine ; époux devenu légitime, cogestion de l'empire, couple, regard sur Remus et Blanche
+- Arthur_de_la_Meute.md (W2) - père du prota, humain né Fontaine ; époux devenu légitime, cogestion de l'empire, couple, regard sur Remus et Blanche
 - Monica_de_la_Meute.md (W1) - sœur aînée du prota, louve rousse ; chargée de com' en tour du monde à moto, danger et prédateurs, abrégeait le harcèlement
 - Henry_de_la_Meute.md (W2) - frère aîné du prota, humain, évêque des Hauts ; seul croyant, vœu de pauvreté, pitié et regret envers Remus
 - Charlotte_de_la_Meute.md (W1) - sœur aînée du prota, humaine, Conseil ; gentil visage de la famille, limite la casse
@@ -50,11 +50,11 @@ Description : fiches noyau des entités du monde (neutres, réutilisables entre 
 - Luppa_de_la_Meute.md (W3) - sœur cadette du prota, louve, salle des ventes ; avare et passionnée, faible pour les artistes, couple avec Gary (Kyle en VO), cour de Tom Nook à ses 18 ans (gênée, en parle à sa mère, Viviane l'écarte)
 - Daniel_et_Antoine_de_la_Meute.md (W3) - frères cadets du prota, humains, banquiers Nook ; fiche commune, naïfs sur le clan, meneurs du harcèlement, Raymond pour subordonné
 - Sophie_de_la_Meute.md (W1) - sœur cadette du prota, humaine, Conseil ; affaires illégales, mariage arrangé en préparation
-- Marie.md (W3) - secrétaire du maire de Pont-la-Plaine, shih tzu, jumelle aînée de Max ; physique, manies, goûts, maison (quartier est), études à Lupus, quatre ans sous Tortimer, loyauté au village, angles morts
+- Marie.md (W4) - secrétaire du maire de Pont-la-Plaine, shih tzu, jumelle aînée de Max ; physique, manies, goûts, maison (quartier est), études à Lupus, quatre ans sous Tortimer, loyauté au village, angles morts
 - Max.md (W2) - jumeau cadet de Marie, shih tzu, cadre Nook ; gérant de l'agence du village, deux jours au siège, chef de Lionel, appartement contre salaire réduit, naïf sur Nook
 - Tom_Nook.md (W4) - patron de Nook Inc., tanuki, 46 ans, né 30/05/586 ; physique, avarice et pragmatisme, autruche, chambre au sous-sol du siège, débuts avec Rounard et échec face à l'hôtel des ventes, départ pour Lupus à 18 ans (604), recommandé à la Meute par Rounard, cour à Luppa écartée par Viviane, Méli et Mélo recueillis à 8 ans (627), boutique d'Amiral rachetée pour eux le 01/05/632, Cousette (lettres de loin en loin), regard sur Remus (hybride comme lui), rapports cordiaux avec Rounard, savoirs, angles morts
 - Meli_et_Melo.md (W4) - fiche commune ; tanukis jumeaux, 13 ans à P (ENFANTS : hors champ sexuel), protégés de Nook, magasin de Pont-la-Plaine ; physique, écho, prix fixes et cœur tendre, cartes, sous-sol à lits superposés, orphelins du Bas, foyer clandestin, sauvette, recueil à 8 ans, boutique indépendante de la famille d'Amiral rachetée le 01/05/632, savoirs (le passé de Nook), angles morts
-- Lionel.md (W4) - évaluateur des intérieurs à Nook Immobilier, loutre, 34 ans, né 06/06/598 ; physique, repenti, esthète, frustré par Max, faux sourire, domicile-vitrine sous l'agence, jeu de l'évaluation, passé avec Rounard et carte de visite, Lou et Paradis sur mesure (filiale), savoirs, angles morts
+- Lionel.md (W5) - évaluateur des intérieurs à Nook Immobilier, loutre, 34 ans, né 06/06/598 ; physique, repenti, esthète, frustré par Max, faux sourire, domicile-vitrine sous l'agence, jeu de l'évaluation, passé avec Rounard et carte de visite, Lou et Paradis sur mesure (filiale), savoirs, angles morts
 - Rounard.md (W3) - pègre de Lupus, renard, 47 ans, né 17/09/584 ; physique et tenue (gants de latex), vengeance d'un renard traité en déchet, canon "cousin", règle des prix, parano et portes de sortie, peigne fin, poules Anthros, dort dans la cale de son bateau, clientes à ristourne, fournisseurs (mafia Crocodile, sans-papiers et endettés), débuts avec Nook, protégé dès la visite de Viviane, Lionel, Walt client de la baie, regards sur Nook, la Meute, Remus
 - Tortimer.md (W4) - ancien maire de Pont-la-Plaine (546-632), tortue, 111 ans, né 31/12/520 ; physique, vrai bon maire, conservateur, jus de fruits, maison en paille à Tortiland, nommé par l'Alpha de 546, fondation du village, village le plus tolérant (Albin), réalisations et financement participatif, éviction du 09/06/632 et ses raisons, préparée à son insu dès le 01/05/632, passation de la broche, regards sur la Meute et Remus, famille d'Amiral, Cornimer en réserve
 - Charly.md (W4) - chauffeur du bus Pont-la-Plaine - Lupus, chat, 32 ans, né 01/02/600 ; physique, écoute sans juger, porte-clés pelote de laine, thermos de café, deux pièces au Milieu de Lupus, marié à Mirza en 627 (sans fiche), employé municipal de Lupus sous la Meute, sur la ligne depuis 624, cinq arrêts, table des cinq rotations, tarif, entretien chez Grizzly, passagers (Agnès, Raymond), savoirs (rien de la Meute), regard sur Remus (respect et crainte de naissance)
