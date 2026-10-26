@@ -50,7 +50,7 @@ Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème,
 | Naoya (adulte) | 14 | 43.94 | [DIVERGENCE RP] |
 | Nisha (post-D4, nov 2018) | 14 | 43.94 | [DIVERGENCE RP] sans la Chronokinésie (morte avec Eien) : Chronostase et domaine seuls ; niveau exceptionnel, alors qu'elle n'est pas encore familière avec son sort inné seul |
 | Uraume | 14 | 43.94 | [DIVERGENCE RP] domine Hakari hors Jackpot, pas les monstres de Grade Spécial |
-| Megumi (2019-2021) | 15 | 51.35 | [DIVERGENCE RP] montée en puissance de l'ère D |
+| Megumi (2019-2021) | 15 | 51.35 | [DIVERGENCE RP] Grade 1 ; attend de maîtriser Mahoraga pour prétendre au Grade Spécial |
 | Yuki Tsukumo | 15 | 51.35 | [DIVERGENCE RP] Grade Special decroche a l'universite puis quitte le systeme ; hors-classement officiel (de facto n3 mondiale, jamais reconnue) |
 | Yorozu (dans Tsumiki, 2008-2015) | 16 | 59.51 | [DIVERGENCE RP] exorciste Heian en objet maudit (Kenjaku) ; tuee fin 2015 par Nisha (duel spirituel en territoire interieur) |
 | Mahito (mue de Shibuya) | ~16 | ~59.51 | [DIVERGENCE RP] pic juste avant l'absorption par Kenjaku |

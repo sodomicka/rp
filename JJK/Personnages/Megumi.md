@@ -54,7 +54,7 @@ Canon sauf balise. Règles de l'ombre : décisions worldbuilder (thread Megumi, 
 ### Mahoraga
 - (canon) Le Général Divin Divergent aux Huit Poignées, Mahoraga : roue d'adaptation (chaque tour l'adapte au phénomène subi, jusqu'à l'immunité et la riposte), épée chargée d'énergie positive, fatale aux fléaux. Invoqué non dompté, il entraîne la cible dans un rituel qui tue tous ses participants : la parade-suicide du porteur.
 - [DIVERGENCE RP] LA RÈGLE DE NISHA, posée la première fois qu'elle lui en parle : Mahoraga seulement si tout est perdu, ni Nisha ni Satoru là, sans retour, et jamais Tsumiki à portée. Elle tient : il s'y apprête à Sendai (C1_1), ses parents arrivent ; il l'invoque à Shibuya (C2_5), ses parents absents ; il s'en abstient à Saitama (D3), Tsumiki présente.
-- Histoire du shikigami : jamais dompté par un porteur Zenin (légende de Tenpō : cf. Factions/Clan_Zenin.md, Clan_Gojo.md). Shibuya : Sukuna, tiers, l'abat - rituel interrompu, Mahoraga retourne aux ombres indompté. [DIVERGENCE RP] Sukuna le dompte dans le corps de Megumi avant Shinjuku ; le couple l'abat le 14 nov 2018 - l'ombre revient, indomptée. 2022 : Megumi le dompte SEUL avec ses shikigami ; ses parents surveillent, dans le rituel, sans frapper ; rideau de Yukiko.
+- Histoire du shikigami : jamais dompté par un porteur Zenin (légende de Tenpō : cf. Factions/Clan_Zenin.md, Clan_Gojo.md). Shibuya : Sukuna, tiers, l'abat - rituel interrompu, Mahoraga retourne aux ombres indompté. [DIVERGENCE RP] Sukuna le dompte dans le corps de Megumi, en rituel et seul, entre le 10 et le 14 nov 2018 ; le couple l'abat le 14 nov 2018 - l'ombre revient, indomptée. 2022 : Megumi le dompte SEUL avec ses shikigami ; ses parents surveillent, dans le rituel, sans frapper ; rideau de Yukiko.
 - [DIVERGENCE RP] Mahoraga dompté : l'obéissance, rien de plus. Il attaque la cible désignée ; sinon, c'est un golem en attente d'ordres.
 
 ## Territoire intérieur et domaine : le Jardin des Ombres
@@ -105,7 +105,7 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya
 | avr 2018 | 6 | Semi-Grade 1 | arsenal à neuf ombres |
 | sept 2018 | 8 | Grade 1 | domaine incomplet (Yasohachi) |
 | oct 2018 | 10 | Grade 1 | domaine abouti avant Shibuya |
-| 2019-2021 | 15 | - | - |
+| 2019-2021 | 15 | Grade 1 | attend de maîtriser Mahoraga pour prétendre au Grade Spécial, par acquit de conscience |
 | 2022 | 23 | Grade Spécial | Mahoraga dompté ; égale le plafond mondial de Satoru sans le dépasser |
 - Potentiel de réceptacle (canon) : réceptacle parfait pour Sukuna - 20 doigts sur 20 (cf. Power_Scaling/Doigts_de_Sukuna.md, Plafond mondial).
 
@@ -129,17 +129,17 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya
 | juin 2018 (C1_1) | Blessé face aux fléaux attirés par le doigt ; Yuji avale le doigt pour le sauver. Désespéré face au réceptacle, s'apprête à invoquer MAHORAGA avant même la menace : ses parents arrivent en un dixième de seconde. Choisit de sauver Yuji plutôt que de l'exorciser | a vu ses parents débarquer pour lui ; Mahoraga NON invoqué |
 | juil 2018 (C1_3) | Centre de détention : envoyé avec Yuji et Nobara face à un Grade Spécial par vote des Instances ; père injoignable (Chine), il envoie le SOS à Nisha (« c'est la merde »). Affronte Sukuna dans le corps de Yuji ; voit Yuji mourir, puis sa mère arriver trop tard | blessé ; dans le cercle du secret Yuji |
 | sept 2018 (C1_5) | Amicale à Tokyo (canon) ; attaque d'Hanami | - |
-| juil 2018 (C1_3) | Centre de détention : le Chien Blanc meurt (canon) ; l'ombre des Chiens reste domptée, en un seul corps - la Totalité | Chiens -> Totalité |
+| juil 2018 (C1_3) | Centre de détention : le Chien Blanc meurt, tué par le porteur de doigts (canon) ; l'ombre des Chiens reste domptée, en un seul corps - la Totalité | Chiens -> Totalité |
 | sept 2018 (C2_1) | Peintures Mortes, pont de Yasohachi (canon) : premier déploiement du Jardin des Ombres, incomplet | domaine incomplet |
 | oct 2018 (avant C2_5) | Le forçage de ses parents aboutit : domaine complet | Jardin des Ombres abouti |
 | 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : blessé par Haruta Shigemo, invoque Mahoraga (règle de Nisha : parents absents), que Sukuna abat - rituel interrompu, Mahoraga indompté ; pas le temps de déployer son domaine abouti. Toji, ressuscité, l'affronte, lui demande son nom : « Gojo-Zenin ». Toji comprend et se tue, serein. Megumi le racontera à ses parents | a vu son père biologique ; Mahoraga invoqué |
 | nuit 31 oct - 1 nov 2018 (C3_1, C3_4) | Soigné par Sukuna (il « a encore besoin de lui », canon), déposé au campement de Shoko : sain et sauf, il apprend à sa mère que papa est scellé. Chez Tengen à midi (canon) ; avec Akari Nitta, décrit à sa mère Haruta Shigemo, qui a failli le tuer | sain et sauf |
 | 2 - ~4 nov 2018 (D2) | Recrutement de Hakari (canon) ; entre avec Hakari et Yuji dans leur colonie (hors POV de Nisha). Higuruma lui apporte des points pour sortir, neutre | neutre |
 | 10 nov 2018 (D3, hors POV) | SAITAMA, à la maison avec Maki et Yuji pendant que ses parents sont verrouillés au palais Kamo et dans la Lisière : cède son corps à Sukuna pour protéger Tsumiki (Serment de Saitama, cf. Personnages/Sukuna.md, Le Serment de Saitama) ; disparaît | réceptacle consenti ; disparu -> D4 |
-| 10 - 14 nov 2018 (D4, hors POV) | Passager consenti, coincé dans son corps : témoin de la conversation où Sukuna raconte la clause à Uraume et avoue son bluff. Sukuna dompte Mahoraga avec les Dix Ombres de Megumi | Mahoraga dompté par Sukuna |
+| 10 - 14 nov 2018 (D4, hors POV) | Passager consenti, coincé dans son corps : témoin de la conversation où Sukuna raconte la clause à Uraume et avoue son bluff. Sukuna dompte Mahoraga avec les Dix Ombres de Megumi, en rituel, seul | Mahoraga dompté par Sukuna |
 | 14 nov 2018 (D4_5) | Ne résiste jamais : la protection de Tsumiki tient. Sukuna se bat avec ses Dix Ombres (Totalité, nuée de lapins, Mahoraga). Ses parents abattent Mahoraga (l'ombre revient, indomptée), puis entrent dans le territoire intérieur de Sukuna par la Sphère de l'Espace-Temps Infini et démontent son squatteur sous ses yeux, comme Nisha l'avait fait pour Tsumiki (Yorozu, 2015) | LIBRE, vivant |
 | 28 nov 2018 (D4_5) | Refuse sa place au nouveau conseil Zenin | hors du conseil |
-| 2019-2021 (D5) | Montée en puissance : 15 doigts | 15 doigts |
+| 2019-2021 (D5) | Montée en puissance : 15 doigts, Grade 1 ; attend de maîtriser Mahoraga pour prétendre au Grade Spécial | 15 doigts |
 | 2022 (D5) | Dompte Mahoraga SEUL avec ses shikigami ; ses parents surveillent dans le rituel sans frapper ; rideau de Yukiko, accord entre clans. Grade Spécial | 23 doigts ; arsenal des dix ombres |
 
 ## Graines plantées / armées en B1 (à NE PAS détoner avant l'ère prévue)
