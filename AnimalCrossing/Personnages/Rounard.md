@@ -5,7 +5,7 @@
 ## Identité
 - Nom : Rounard. Redd en VO ("Crazy Redd", puis "Jolly Redd"), Tsunekichi en VO japonaise.
 - Espèce : renard (Vulpes sapiens ; cf. Systemes/Especes_Taxonomie.md).
-- Naissance : 01/04/585 [PROPOSITION MJ, à valider : aucun anniversaire au canon ; le jour des farces, pour le menteur de la rumeur]. 47 ans à P (632 - 585 = 47 ; l'anniversaire tombe avant le 12/06). Un an de plus que Tom Nook.
+- Naissance : 17/09/584 (aucun anniversaire au canon ; le 17 septembre, journée internationale du renard, décision 2026-10-26). 47 ans à P (632 - 584 - 1 = 47 ; l'anniversaire tombe après le 12/06). Un an de plus que Tom Nook à P.
 - Origine : les bas quartiers de Lupus (cf. Lieux/Lupus.md).
 - Statut à P : la pègre de Lupus. Boutique sans enseigne au fond d'une ruelle du Bas, et le bateau qui la prolonge (cf. Lieux/Lupus.md, Lieux/Reserves.md). Protégé de la Meute, qui a intégré sa contrebande à sa mafia (cf. Factions/La_Meute.md).
 - Seul : aucun associé depuis Nook et Lionel, aucun employé. Il ne compte plus que sur lui-même.
@@ -47,11 +47,11 @@
 - Règle d'approvisionnement : toujours des sans-papiers intraçables ou des endettés de la mafia ; jamais des gens du périmètre de Lupus, jamais des affiliés à des familles nobles. Il enquête très minutieusement sur la provenance.
 
 ## Histoire jusqu'au point de départ
-- 01/04/585 : naît dans les bas quartiers de Lupus. Traité en déchet dès la naissance : un renard.
+- 17/09/584 : naît dans les bas quartiers de Lupus. Traité en déchet dès la naissance : un renard.
 - Jeune, avec Tom Nook : vente à la sauvette, puis des biens de plus en plus précieux ; tentative de rivaliser avec l'hôtel des ventes de la Meute, échec cuisant ; boutique de vente en vrac (cf. Personnages/Tom_Nook.md).
 - Rupture : il veut passer aux marchandises illégales et montre des armes à Nook. Dispute, séparation.
 - Il devient marchand de viande d'Anthro. Six mois plus tard environ, Viviane de la Meute en entend parler et vient le voir. Il lui recommande son ancien associé (cf. Personnages/Tom_Nook.md, Factions/La_Meute.md).
-- Dès cette visite [PROPOSITION MJ, à valider], la Meute le protège et intègre sa contrebande à sa mafia. Il est protégé avant Nook.
+- Dès cette visite, la Meute le protège et intègre sa contrebande à sa mafia. Il est protégé avant Nook.
 - Lionel, jeune, travaille pour lui à l'arnaque à l'assurance. Quand Lionel veut faire des choses plus morales, Rounard le fout à la porte et lui jette une carte de visite Nook Inc. Cas unique : plus aucun associé après ces deux-là (cf. Personnages/Lionel.md).
 - Boutique du Bas, bateau, cale aménagée. Seul.
 - 12/06/632 (P) : Remus de la Meute entre en poste à Pont-la-Plaine.
