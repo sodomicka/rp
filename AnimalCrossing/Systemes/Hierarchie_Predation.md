@@ -1,41 +1,47 @@
 # Hierarchie_Predation
 
-- version : W2
+- version : W3
 
 ## Principe
 - Loi du plus fort.
-- Chaine alimentaire et lutte des classes se confondent : les proies forment les classes populaires.
-- Sous l'apex : hierarchie des predateurs aux predates.
-- Traduction urbaine a Lupus : urbanisme vertical, apex en hauteur, proies en bas.
+- Chaîne alimentaire et lutte des classes se confondent : les proies forment les classes populaires.
+- Sous l'apex : hiérarchie des prédateurs aux prédatés.
+- Traduction urbaine à Lupus : urbanisme vertical, apex en hauteur, proies en bas.
+- Noms de famille : la plupart des gens du commun n'en ont pas. Un nom de famille est une marque de grande famille.
 
 ## Apex
-- Humains : statut herite de leur age d'or, malgre leur rarete.
-- Grands felins.
+- Humains : statut hérité de leur âge d'or, malgré leur rareté.
+- Grands félins.
 - Loups.
 - Crocodiles.
+- Dragons (Draco sapiens), à She Long : la Triade, famille régnante (cf. Personnages/Shino.md ; espèce : Systemes/Especes_Taxonomie.md).
 - Pas de requins : aucun poisson n'est sapiens.
 
-## Elitisme des apex
-- Principe : VOULOIR etre peu nombreux.
-- Grands felins : laissent mourir les plus faibles a la naissance pour ne garder que quelques petits, par mimetisme des apex de l'age d'or, les humains.
-- Crocodiles : selection consanguine "a la Lannister", au mepris de la norme (consanguinite mesuree a la distance evolutive : cf. Systemes/Reproduction_Hybridation.md).
-- Loups : PAS obsedes par la purete. Ils ne jurent que par les affaires et la hierarchie ; un clan accepte des epoux apex, au pire des canides.
+## Élitisme des apex
+- Principe : VOULOIR être peu nombreux.
+- Grands félins : laissent mourir les plus faibles à la naissance pour ne garder que quelques petits, par mimétisme des apex de l'âge d'or, les humains.
+- Crocodiles : sélection consanguine "à la Lannister", au mépris de la norme (consanguinité mesurée à la distance évolutive : cf. Systemes/Reproduction_Hybridation.md).
+- Loups : PAS obsédés par la pureté. Ils ne jurent que par les affaires et la hiérarchie ; un clan accepte des époux apex, au pire des canidés.
 
 ## Crocodiles : l'instinct
 - Instinct de chasseur intact.
-- Quiconque se trouve a portee de gueule LATERALEMENT s'expose a un reflexe de saisie.
-- Le reflexe se contient. Il ressort vite en etat second : rage, fatigue, epuisement, drogue, alcool.
-- D'ou leur reputation : imprevisibles.
+- Quiconque se trouve à portée de gueule LATÉRALEMENT s'expose à un réflexe de saisie.
+- Le réflexe se contient. Il ressort vite en état second : rage, fatigue, épuisement, drogue, alcool.
+- D'où leur réputation : imprévisibles.
 
-## Racisme et sexualite
-- Racisme a tous les niveaux : sexuel, societal.
-- Entre-soi par niveau trophique (carnivores / herbivores ; superpredateurs / predateurs / proies) : surtout vu comme une vieille pensee.
-- Fantasme d'une espece d'un autre niveau de predation : deviance sexuelle pour certains.
-- Animaux de compagnie mammiferes sans raison : choquent surtout "ceux d'en bas", proies et classes populaires.
+## Racisme et sexualité
+- Racisme à tous les niveaux : sexuel, sociétal.
+- Racisme d'espèce : les renards ont mauvaise presse, voleurs et menteurs. Rounard en a fait un programme (cf. Personnages/Rounard.md, Regards du monde).
+- Entre-soi par niveau trophique (carnivores / herbivores ; superprédateurs / prédateurs / proies) : surtout vu comme une vieille pensée.
+- Fantasme d'une espèce d'un autre niveau de prédation : déviance sexuelle pour certains. Exemple : les apex riches de Lupus qui chassent Shino comme une proie exotique (cf. Personnages/Shino.md).
+- Animaux de compagnie mammifères sans raison : choquent surtout "ceux d'en bas", proies et classes populaires.
 
-## Predation d'Anthros
-- Certains predateurs mangent des proies anthropomorphes.
-- Deux filieres : la chasse, et le marche noir (viande d'Anthro ecoulee par Rounard a Lupus, sous protection de la Meute).
+## Prédation d'Anthros
+- Certains prédateurs mangent des proies anthropomorphes.
+- Deux filières : la chasse, et le marché noir (viande d'Anthro écoulée par Rounard à Lupus, sous protection de la Meute).
+- Filière de Rounard : fournisseurs extérieurs, la mafia Crocodile en tête ; toujours des sans-papiers intraçables ou des endettés de la mafia ; jamais du périmètre de Lupus, jamais des affiliés aux familles nobles (cf. Personnages/Rounard.md, Métier).
+- Pourquoi : si le peuple découvrait que les protecteurs mangent les protégés, ce serait la révolution. Toute noblesse du monde l'évite à tout prix.
+- Ordre public : la police de Lupus est à majorité canidée, pile ceux que la Meute a rayés de sa généalogie, et dans sa poche. Un Lupusien qui disparaît, c'est une enquête (cf. Lieux/Lupus.md, Factions/La_Meute.md).
 
 ---
 
