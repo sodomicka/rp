@@ -2,7 +2,7 @@
 
 Journal de travail. Jamais fetché en narration. Hors Sommaire. Règle de tenue : une ligne y vit tant qu'elle n'a PAS de domicile (BIBLE, fiche, roadmap) ou attend une décision. Dès qu'elle en a un, elle sort.
 
-État : passe 1 CLOSE côté BIBLE (B4). Lot de relivraisons des pages endettées SOLDÉ (2026-10-26, quatre paquets). RESTE avant la passe 2 : le BIBLE BUILD B5 (cf. Dettes de build) ; le village d'Albin quand le worldbuilder le donne, sans questionnaire. Ensuite : passe 2 (roadmaps).
+État : passe 1 CLOSE (BIBLE B5, 2026-10-26) : pages endettées soldées en quatre paquets, compressions faites, page Église créée. RESTE : le village d'Albin quand le worldbuilder le donne, sans questionnaire. Prochaine étape : passe 2 (garde-cap, puis roadmaps).
 
 ## En attente de décision worldbuilder
 
@@ -10,7 +10,6 @@ Journal de travail. Jamais fetché en narration. Hors Sommaire. Règle de tenue 
 - DÉFAUTS RÉSIDUELS : les quatre lots sont SOLDÉS (2026-09-23). Plus aucun [INCERTAIN] dans les fiches de ce thread, hors le [IMPLICITE] des savoirs d'Albin (hors secteur).
   - Habitants livrés (2026-09-28), carte figée. BIBLE B4 livrée le même jour.
 - PÂQUES : la Fête des œufs tombe le dimanche de Pâques "comme IRL" (décision 2026-09-23). Le comput ne se transpose pas à l'an 632 : la date de Pâques d'une année donnée se fixe par le worldbuilder quand un arc y va. À P (12/06/632), Pâques 632 est passée ; la prochaine est en 633.
-- Gabarit des Ursus sapiens : TRANCHÉ (2026-09-24) avec Grizzly, mâles adultes autour de 2 m (Grizzly 2 m 00, Remus 1 m 98). Domicile : Personnages/Grizzly_et_Agnes.md ; à porter en Espèces W5 (dette).
 - VILLAGE D'ALBIN : toujours en attente du worldbuilder (nom, situation, allure, gouvernance, choix de la matriarche et de l'étranger). Recueillir quand il le donne, sans questionnaire. Nomenclature réglée (2026-09-24) : la table des Espèces fusionne lapins et lièvres en Lepus sapiens, "lapins et lièvres" dans la fratrie est correct.
 - NOMS DES SILHOUETTES non fixés, par convention "à fixer si un arc y va" : sœur aînée de Chavrina (39 ans, village voisin), fratries d'Axel et de Walt, parents de Walt et de Raymond, ex-femme de Grizzly, parents de Rose, magnat de l'alcool de She Long.
 
@@ -77,11 +76,7 @@ Validé comme réservoir le 2026-09-22. Un fil n'entre en BIBLE SB8 qu'une fois 
 - GARDE-CAP : à produire à l'ouverture de la passe 2, avant la première roadmap : Roadmap/<Prota>/00_Garde_Cap.md (format et rôle : cœur Wiki, ORDRE DE CONSTRUCTION).
 - Noms VF CONFIRMÉS par le calendrier des anniversaires NH en VF (actugaming.net, calendrier-anniversaires-animal-crossing-new-horizons-325677) : Ciboulot, Ginette, Robusto, Rounard, Jacqu'O, Albin, Amiral, Mamiral, Liliane, Lila, Lionel, Méli, Mélo, Tom Nook, Tortimer, Thibou, Céleste, Racine, Layette, Cousette, Risette, Serge, Maret, Chausset, Blaise, Astrid, Charly, Rodolphe, Joe, Resetti, Sarah, Gulliver, Lou, Kéké Laglisse, Loupiot, Wolfgang, Gary. Balises retirées partout (BIBLE B4, Pont_la_Plaine W7, Lupus W6, Reserves W4). Restent non confirmés (hors NH) : Gracie, Niko, Wardell, Tiquette.
 - NOUVELLES DETTES DU THREAD HABITANTS (2026-09-24 à 28) :
-- Faits à domicile provisoire en BIBLE B4 (sans fiche, ou en attente de relivraison de la page qui doit les porter) : piliers Rodolphe, Joe, Resetti (SB5, sans fiche) ; règle de la révolution et allure du Drago canon : MIGRÉES (Hierarchie_Predation W3, Especes_Taxonomie W5), entrées BIBLE SB1 à compresser en notice + renvoi au B5.
-- Au prochain BIBLE BUILD (B5), en plus : créer Factions/Eglise.md à partir de ce que la BIBLE (SB4, Église) en dit déjà, sans rien ajouter (décision 2026-10-26) ; puis Henry_de_la_Meute renvoie vers cette page.
-- Au prochain BIBLE BUILD (B5) : SB5, Rodolphe, Joe, M. Resetti -> "lieu et rôle : à fixer si un arc y va" (décision 2026-10-26) ; SB1 Hiérarchie et SB6 : police canidée et quai privé de Rounard ont désormais domicile (Lupus W6, La_Meute W11, Reserves W4), entrées à compresser en notice + renvoi.
 - NOUVELLES DETTES DU BIBLE BUILD B4 (2026-09-28) :
-  - Henry_de_la_Meute, à sa prochaine relivraison : "L'Église : sa seule allégeance (cf. BIBLE SB4, Église)" renvoie à la BIBLE, retirée en jeu. L'Église n'a pas de domicile WIKI (ni Factions, ni Lore) ; Albin W6 renvoie désormais à la chapelle de Pont_la_Plaine (relevé 2026-10-26).
   - Dette "SB8 munitions : dragons miroir de Remus" : NON appliquée, contraire à la règle "un fil n'entre en SB8 qu'une fois planté par une roadmap". La munition reste au réservoir ; les faits (dragons devenus élite, Remus paria, village d'Albin) sont en SB8 Mystères, Nature des hybrides, sans le fil.
 - Règles de contenu (BIBLE SB1, Cadre de contenu) : à migrer en CODEX V1 à la bascule jeu, la BIBLE étant retirée.
 

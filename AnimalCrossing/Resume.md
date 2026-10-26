@@ -1,6 +1,6 @@
 # Résumé - AnimalCrossing
 
-- version : W5
+- version : W6
 
 ## Le monde tel qu'établi (uchronie)
 
@@ -25,12 +25,12 @@
 
 - Lupus Lupus, dite Lupus, est la Ménagerie de la région, bâtie en coteaux sur la Lykaina, un bras de mer. Les apex vivent en haut, les proies en bas. La ville appartient à la Meute.
 - La Meute est à la fois la noblesse louve de Lupus, une famille - les "de la Meute" - et une mafia. Elle tient le Conseil municipal, qui désigne les maires des villages alentour. Elle possède la banque Nook et la salle des ventes, et protège la pègre.
-- Tom Nook et Rounard, nouveaux bourgeois, sont partis ensemble. Nook a choisi la légalité : immobilier, crédit sans intérêts, monopole de la construction, colonisation des îles par la dette.
+- Tom Nook et Rounard, nouveaux bourgeois, sont partis ensemble : Nook a quitté son village à 18 ans, en 604, et l'a retrouvé au Bas de Lupus. Nook a choisi la légalité : immobilier, crédit sans intérêts, monopole de la construction, colonisation des îles par la dette.
 - Rounard a choisi le marché noir : art volé et contrefait, drogue, armes, viande d'Anthro, Anthros esclaves. La Meute protège les deux et encaisse des deux côtés.
 - La branche de Lupus est menée par Viviane, l'Alpha, louve, et son époux humain Arthur, né Fontaine. Leurs deux portées mixtes comptent douze enfants, loups et humains.
 - Dans la portée cadette naît un hybride vrai, loup et humain : un loup-garou, Remus. Il survit, au grand dam de ses parents, et grandit en paria.
 - La légende lui prête une bestialité de pleine lune. Elle est fausse ; mais traité ainsi, il le devient.
-- Pont-la-Plaine est née en 546, quand l'Alpha de l'époque nomme Tortimer maire. La Meute et ses ouvriers bâtissent le village, sans Nook Inc., qui n'existe pas encore. Le village garde ensuite une "indépendance" toute nominale.
+- Pont-la-Plaine, un village d'environ 300 habitants, surtout des proies, est née en 546, quand l'Alpha de l'époque nomme Tortimer maire. La Meute et ses ouvriers bâtissent le village, sans Nook Inc., qui n'existe pas encore. Le village garde ensuite une "indépendance" toute nominale.
 - Tortimer, une tortue, le dirige de 546 à 632. Sans impôt local, il convainc les habitants de financer eux-mêmes les projets publics : un modèle unique, quand les autres Bergeries taxent. Il en fait le village le plus tolérant de la région.
 - Le 01/05/632, Viviane envoie directement la famille d'Amiral, des kappas qui tenaient la boutique du village, préparer à Tortiland la retraite de Tortimer. Nook rachète leur boutique et la confie à Méli et Mélo, orphelins du Bas qu'il a recueillis à 8 ans.
 - Le 09/06/632, Tortimer est évincé sans avoir été prévenu, puis mis au vert à Tortiland.
@@ -40,6 +40,7 @@
 - Les habitants nommés ont chacun leur histoire. Chavrina, née au village, y devient la seule médecin en 624. Grizzly, un ours divorcé en 626, s'installe avec sa fille Agnès et ouvre le garage en 627. Raymond, chargé de crédit de la banque Nook, s'installe en 627. Rose et Axel ouvrent Groin et Trompe en 629, un restaurant que le village a aidé à financer.
 - Shino arrive en 630 de She Long, une ville lointaine tenue par la Triade. Cette famille de dragons, hybrides devenus élite par consanguinité, a massacré la sienne en 626.
 - Divergences marquantes avec le canon : Charly conduit le bus ; Luppa tient la salle des ventes ; l'archipel de villégiature est réservé aux apex, promu par Paradis sur mesure, filiale de Nook fondée par Lou.
+- L'Église a sa cathédrale dans les Hauts de Lupus, où officie Henry, le seul croyant des de la Meute, et une chapelle au village ; la Meute n'y voit que l'opium du peuple.
 - Jacqu'O est un nom de scène partagé par des nobles humains déguisés, un par village. Albin est un hybride lièvre-humain dans un costume de mascotte, que toute sa fratrie de lapins porte par solidarité. Follet et les bonhommes de neige n'existent pas.
 - Le point de départ est le 12 juin 632 : Remus de la Meute, le fils loup-garou, entre en poste. Il a 26 ans.
 
