@@ -69,6 +69,7 @@ Validé comme réservoir le 2026-09-22. Un fil n'entre en BIBLE SB8 qu'une fois 
 - Tiquette, Céleste, Robusto : arrivent avec les projets publics de Remus (musée agrandi, café, atelier) ; terrains libres réservés près du musée et du magasin.
 - Groin et Trompe : le village a financé un commerce privé (20 %) ; la ristourne de deux ans est finie à P, la dette Nook (60 %) court.
 - Candidats proposés au lot Nook (à valider par le worldbuilder) : Nook fait l'autruche sur ce qu'il sait de la Meute ; Nook n'a pas oublié l'humiliation de Viviane sur Luppa [proposition MJ, rien d'acté] ; Nook et Remus ont le même intérêt à ce que Pont-la-Plaine tourne bien.
+- SHINO ET LE DRAGON (echantillon de ton, decision 2026-10-26, non plante) : Remus, client de chez Shino, la tire des griffes d'un croco insistant dans un bar de Lupus en usant de son nom ; suite de luxe, nuit unique, premieres confessions, retour en amis par le bus de Charly. Des mois plus tard, un emissaire dragon (pion de la Triade en tentative d'expansion sur le territoire de la Meute) est en ville ; Shino, paranoiaque, se confie a Remus. Il la surprotege : Rounard fait valider la cible par Viviane, qui s'en moque et lui lache "enfin un semblant d'un de la Meute" ; le dragon disparait. L'emissaire ne venait pas pour elle. Shino sait seulement que Remus a fait disparaitre le probleme : parallele de Blanche et Olivia, en plus honnete. Pas de represailles de la Triade.
 
 ## Dettes de build
 
