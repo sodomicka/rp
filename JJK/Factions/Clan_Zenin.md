@@ -1,6 +1,6 @@
 # Clan Zenin
 
-- version : W17
+- version : W18
 
 Page = faction fondatrice du monde. Faits canon non balisés (niveau établi) ; couche RP balisée [DIVERGENCE RP]. Résumé condensé en BIBLE SB4. État décrit = structure atemporelle + point de départ du RP (2005), plus les bascules DURABLES du clan (gouvernance de l'ère D, accès aux archives hors clan), posées en une ligne chacune. Le déroulé daté (morts, coup d'État, scènes) -> roadmap et fiches perso.
 
@@ -9,7 +9,7 @@ Page = faction fondatrice du monde. Faits canon non balisés (niveau établi) ; 
 - Traditionaliste et patriarcal à l'extrême. Un membre vaut sa technique héritée : les faibles et les profanes sont matés, écartés ou jetés.
 - Deux lignées de sorts vivent dans le clan :
   - La Projection (investit le temps) : sort natif, lignée directe Masakado/temps. [DIVERGENCE RP] lecture temporelle de la Projection canon (24 images/seconde). Cf. Cosmogonie.
-  - Les Dix Ombres : sort greffé, issu d'un clan ex-Sugawara. Il renferme des shikigami scellés, dont Mahoraga l'indomptable. Cf. Cosmogonie.
+  - Les Dix Ombres : sort greffé, issu d'un clan ex-Sugawara. Dix ombres, dont Mahoraga, indompté de tous les porteurs jusqu'à l'ère D. Cf. Cosmogonie ; mécanique : Personnages/Megumi.md.
 - [DIVERGENCE RP] Règle culturelle cardinale : "on n'offre rien chez les Zenin, on récompense". Pas de droit d'aînesse, pas de don gratuit. Rang, statut et succession se méritent par la force ; l'âge et l'ordre de naissance ne donnent aucun droit.
 
 ## Lignée dirigeante (arbre)

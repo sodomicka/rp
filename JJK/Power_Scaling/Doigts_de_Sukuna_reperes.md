@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Repères chiffrés
 
-- version : W5
+- version : W6
 
 Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème, synergie, partage gémellaire, plafond mondial). Contient les REPÈRES par entité et les courbes de progression A2. Rappel : l'unité est extradiégétique jusqu'en 2018, puis diégétique pour le seul couple et la famille (cf. page mère).
 
@@ -22,6 +22,7 @@ Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème,
 | Panda (forme Panda, maturité 2018) | 5 | 7.44 | [DIVERGENCE RP] Semi-Grade 1 ; forme par défaut |
 | Panda (Tricératops) | 6 | 9.12 | [DIVERGENCE RP] plus agile que frappeur ; ne se montre qu'à Yaga et Nisha |
 | Yuji (juin 2018) | 5 | 7.44 | [DIVERGENCE RP] puissance PROPRE hors Sukuna (physique brut, zéro technique) ; les doigts qu'il digère mesurent l'éveil de Sukuna, pas sa force à lui |
+| Megumi (avr 2018) | 6 | 9.12 | [DIVERGENCE RP] Semi-Grade 1, élève de Satoru (promo 2018-2021) ; neuf ombres domptées, Mahoraga excepté |
 | Mechamaru (2017-2018) | 6 | 9.12 | [DIVERGENCE RP] via robot pilote a distance ; reservoir + portee NATIONALE au-dela (Restriction Celeste inverse) |
 | Mechamaru guéri (oct 2018 ->) | 6 | 9.12 | [DIVERGENCE RP] corps sain, Restriction intacte (seule la contrainte est levée) ; pic ponctuel ~12 en mode Absolu contre Mahito (stock de dix-neuf ans brûlé) ; plafond ~15 (Grade Spécial) à gagner |
 | Ogi | 7 | 11.33 | [DIVERGENCE RP] Grade 1, pilier du Hei |
@@ -29,10 +30,12 @@ Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème,
 | Mei Mei (post-2008) | 7 | 11.33 | [DIVERGENCE RP] Grade 1, niveau Yaga / Ogi |
 | Todo (2017-2018) | 7 | 11.33 | [DIVERGENCE RP] eleve de Nisha (promo 2016-2019), Boogie Woogie ; sommet de sa generation d'eleves |
 | Panda (Gorille, en pointe) | 7 | 11.33 | [DIVERGENCE RP] Tambour Imparable, très coûteux en énergie |
+| Megumi (sept 2018) | 8 | 14.09 | [DIVERGENCE RP] Grade 1 ; domaine incomplet (Yasohachi) |
 | Naoya (2005) | 8 | 14.09 | [DIVERGENCE RP] -> courbe A2 (10/11/12), 14 adulte ; cf. Courbes A2 ci-dessous |
 | Hakari (2017-2018) | 8 | 14.09 | [DIVERGENCE RP] base Grade 1 ; en MODE JACKPOT, ponctuellement HORS-ECHELLE (intuable ~4 min, cf. fiche) |
 | Nanami (adulte, ere B) | 8 | 14.09 | [DIVERGENCE RP] Grade 1 ; prof de 3e annee a Tokyo des avr 2013 ; record 4x Rayon Noir au front de Tokyo (Parade 2017) |
 | Gakuganji | 9 | 17.44 | [DIVERGENCE RP] Grade Special 1 (hors-grading des universites), plus fort que Yaga |
+| Megumi (oct 2018) | 10 | 21.41 | [DIVERGENCE RP] Grade 1 ; Jardin des Ombres abouti avant Shibuya |
 | Jinichi | 10 | 21.41 | [DIVERGENCE RP] pilier du Hei |
 | Charles Bernard (nov 2018) | 10 | 21.41 | [DIVERGENCE RP] joueur de la Traque, Tokyo n°2 ; bien sous Nisha, de quoi tuer Panda ; première victime de Nisha (D2) |
 | Gojo (2005, pre-Toji) | 12 | 31.30 | -> 14 en 2006 puis 23 a l'eveil ; cf. Courbes A2 ci-dessous |
@@ -47,6 +50,7 @@ Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème,
 | Naoya (adulte) | 14 | 43.94 | [DIVERGENCE RP] |
 | Nisha (post-D4, nov 2018) | 14 | 43.94 | [DIVERGENCE RP] sans la Chronokinésie (morte avec Eien) : Chronostase et domaine seuls ; niveau exceptionnel, alors qu'elle n'est pas encore familière avec son sort inné seul |
 | Uraume | 14 | 43.94 | [DIVERGENCE RP] domine Hakari hors Jackpot, pas les monstres de Grade Spécial |
+| Megumi (2019-2021) | 15 | 51.35 | [DIVERGENCE RP] Grade 1 ; attend de maîtriser Mahoraga pour prétendre au Grade Spécial |
 | Yuki Tsukumo | 15 | 51.35 | [DIVERGENCE RP] Grade Special decroche a l'universite puis quitte le systeme ; hors-classement officiel (de facto n3 mondiale, jamais reconnue) |
 | Yorozu (dans Tsumiki, 2008-2015) | 16 | 59.51 | [DIVERGENCE RP] exorciste Heian en objet maudit (Kenjaku) ; tuee fin 2015 par Nisha (duel spirituel en territoire interieur) |
 | Mahito (mue de Shibuya) | ~16 | ~59.51 | [DIVERGENCE RP] pic juste avant l'absorption par Kenjaku |
@@ -57,6 +61,7 @@ Satellite de Power_Scaling/Doigts_de_Sukuna.md (unité, formule, table, barème,
 | Sukuna (complet) | 20 | 100.00 | reference de l'echelle |
 | Nozomu (réveillé dans Uraume, D4) | 20 | 100.00 | [DIVERGENCE RP] brute absolue ; achevé par les deux paires de jumeaux (D4) |
 | Kenjaku (dans Suguru, 2018) | 22 | 125.19 | [DIVERGENCE RP] symbiose parasitique : au-dessus de Nozomu (20), sous Satoru - s'il le valait, il n'aurait pas eu besoin de la Lisière ; tué au palais (D3), épuisé par le rideau de Yukiko, sous les coups des jumeaux (24 en symbiose) |
+| Megumi (2022) | 23 | 139.07 | [DIVERGENCE RP] Grade Spécial, Mahoraga dompté ; égale le plafond mondial sans le dépasser |
 | Gojo (post-Toji) | 23 | 139.07 | apogee atteinte tres tot, plafond |
 | Sukuna (dans Megumi, 20/20, ère D) | 27 | 203.54 | [DIVERGENCE RP] symbiose parasitique avec un corps aux Dix Ombres : bien au-delà de Sukuna dans Yuji, même à 20 doigts, car le corps de Yuji a été conçu pour durer et le supporter, pas pour fusionner ; colle à ses 200 pour cent de naissance. Le duo Satoru + Nisha à l'apogée vaut ~28.9 ; tué par le couple dans son territoire intérieur (D4) |
 

@@ -1,6 +1,6 @@
 # Sommaire - JJK
 
-- version : W67
+- version : W68
 
 ## WIKI
 
@@ -12,11 +12,11 @@
 
 ### Cosmogonie/
 Description : cosmogonie fondatrice du monde.
-- Trois_Esprits.md (W8) - les trois esprits vengeurs (onryō) ancrés à Yamato = premiers esprits maudits, fondation des trois familles ; Tengen = 4e esprit resté de chair, postérieur aux onryō ; greffes inter-clans, pacte avec Sukuna et doctrine MOTEUR vs ÉCHÉANCE de la forge (curiosité d'architectes) ; scission ancienne du tronc Masakado -> Sukuna (200 pour cent gémellaire), couche âme de la lignée Itadori ; Restriction Céleste (règle du don dominant : physique / inverse / focalisé + cas d'égalité).
+- Trois_Esprits.md (W9) - les trois esprits vengeurs (onryō) ancrés à Yamato = premiers esprits maudits, fondation des trois familles ; Tengen = 4e esprit resté de chair, postérieur aux onryō ; greffes inter-clans, pacte avec Sukuna et doctrine MOTEUR vs ÉCHÉANCE de la forge (curiosité d'architectes) ; scission ancienne du tronc Masakado -> Sukuna (200 pour cent gémellaire), couche âme de la lignée Itadori ; Restriction Céleste (règle du don dominant : physique / inverse / focalisé + cas d'égalité).
 
 ### Factions/
 Description : factions et groupes du monde.
-- Clan_Zenin.md (W17) - clan Zenin (structure atemporelle, point de départ 2005, bascules durables de l'ère D) : nature et ethos, iconographie (kamon Dix Ombres, gris moyen + violet, tenue d'ancien), lignée dirigeante (arbre), convention de nommage, statuts des femmes, unités (Hei / Akashi / Kukuru), Restriction Céleste dans le clan ; archives (signature gémellaire, dossier Toji, accès post-départ de Megumi et Tsumiki avec droit de regard Okaruto) ; secrets de clan (anti-domaine, secret d'Eien, désastre de Tenpō côté Zenin).
+- Clan_Zenin.md (W18) - clan Zenin (structure atemporelle, point de départ 2005, bascules durables de l'ère D) : nature et ethos, iconographie (kamon Dix Ombres, gris moyen + violet, tenue d'ancien), lignée dirigeante (arbre), convention de nommage, statuts des femmes, unités (Hei / Akashi / Kukuru), Restriction Céleste dans le clan ; archives (signature gémellaire, dossier Toji, accès post-départ de Megumi et Tsumiki avec droit de regard Okaruto) ; secrets de clan (anti-domaine, secret d'Eien, désastre de Tenpō côté Zenin).
 - Clan_Gojo.md (W9) - clan Gojo : iconographie (six tomoe = Six Yeux, blanc + bleu roi, tenue d'ancien), ethos (culte du guerrier parfait, "Le pouvoir sait se montrer quand les temps l'exigent"), gouvernance (conseil d'anciens sous l'autorité du guerrier parfait), branches (Sugawara/Gojo, Fujiwara/Okkotsu), place de Satoru, liens inter-clans ; abstention de la violence infantile - VÉRITÉ DE LA DOUCEUR (cicatrice Nozomu, bascule cruauté -> surprotection, terreur aveugle), mécanique de l'éveil du guerrier parfait (règle des yeux, porteurs connus : Nozomu, le Parfait de Tenpō, Satoru), désastre de Tenpō, dossiers noirs des archives.
 - Clan_Kamo.md (W10) - clan Kamo : ethos et credo, légende fondatrice et nommage (son "yuki" des filles, racine "nori" des garçons), sort élu et succession amendée (indifférence radicale, titres Prince/Princesse, branche secondaire, règle des bâtards), lignée dirigeante 2005 (Noriaki, Fubuki, Yasashiku, Yukiko, Noritoshi) et matriarcat de fait, gouvernance par émissaires (précédent Meiji), ères C-D (Kenjaku maître du clan, gambit de Yukiko, Nori patriarche le 8 nov 2018), iconographie (ensō + goutte, anthracite + rouge, pivoine), archives, rideaux fractals et Dragon (record 1998), faits d'armes (Sakushu Sha), formation interne (carve-out lignée dirigeante), section Noritoshi, branches et greffes, Restriction Céleste (Mechamaru), place dans le focus ; repas bissextiles et siège : pointeurs.
 - Hautes_Instances.md (W7) - les hautes instances : sommet conservateur sans visage au-dessus des universités, 10 membres (5 par université : 3 clans + 2 indépendants), tous Grade Spécial 1, Gakuganji seul visage public ; pacte fondateur État/familles (Meiji, neuf articles) ; organisent les repas claniques bissextiles Kamo/Zenin (29 fév), où Gakuganji siège ès qualités depuis sa prise de poste.
@@ -66,8 +66,8 @@ Description : fiches personnages du monde.
 - Nanami.md (W8) - Kento Nanami, promo Tokyo 2006-2009, Ratio Technique (7:3), pragmatique ; binôme de Haibara, survit à A2 ; ère B : ~4 ans salaryman puis prof de 3e année à Tokyo dès avr 2013 ; record 4x Black Flash au front de Tokyo (Parade 2017) ; mentor de Takuma Ino.
 - Ijichi.md (W4) - Kiyotaka Ijichi, 1re année Tokyo (promo 2006-2009, ajout RP), voie manager non combattant (logistique, renseignement, barrières) ; survit à A2.
 - Yuki.md (W9) - Yuki Tsukumo, une des quatre Grade Spécial, électron libre hors système, 15 doigts (3e puissance de facto) ; expose à Geto deux voies pour empêcher la naissance des fléaux (août 2007), dont il déduit seul sa 3e voie génocidaire (A2).
-- Megumi.md (W13) - Megumi Fushiguro, fils de Toji adopté hors-Zenin par le couple Nisha/Satoru (2008), Gojo-Zenin depuis 2015, porteur des Dix Ombres ; sort éveillé en 2009 ; entre chez Satoru à Tokyo (avr 2018) ; veille de mission solo juin 2018 (seuil ère C) ; accès aux archives Zenin par Nisha ; succession : refuse depuis l'offre de Naobito (2009), désigné par son testament.
-- Tsumiki.md (W11) - Tsumiki Fushiguro, belle-sœur de Megumi (profane), adoptée avec lui (2008), Gojo-Zenin depuis 2015, bloggeuse occulte (Okaruto Shinbun) ; MARQUÉE par Kenjaku, Yorozu en dormance muette - LIBÉRÉE fin 2015 ; accès aux archives Zenin par Nisha, avec droit de regard du conseil sur les articles.
+- Megumi.md (W14) - Megumi Fushiguro, fils de Toji adopté hors-Zenin par le couple Nisha/Satoru (2008), Gojo-Zenin depuis 2015, porteur des Dix Ombres ; sort éveillé en 2009 ; mécanique complète du sort (bestiaire, règles de l'ombre, stockage, Mahoraga et la règle de Nisha, Jardin des Ombres) et courbe 2018-2022 ; entre chez Satoru à Tokyo (avr 2018) ; veille de mission solo juin 2018 (seuil ère C) ; accès aux archives Zenin par Nisha ; succession : refuse depuis l'offre de Naobito (2009), désigné par son testament.
+- Tsumiki.md (W12) - Tsumiki Fushiguro, belle-sœur de Megumi (profane), adoptée avec lui (2008), Gojo-Zenin depuis 2015, bloggeuse occulte (Okaruto Shinbun) ; MARQUÉE par Kenjaku, Yorozu en dormance muette - LIBÉRÉE fin 2015 ; accès aux archives Zenin par Nisha, avec droit de regard du conseil sur les articles.
 - Nitta.md (W9) - Akari Nitta, assistant manager sans don (promo Kyoto 2011-2014), 1re vraie élève de Nisha ; ex-délinquante, mécanique, franc-parler, progressiste ; transférée à Tokyo en 2014.
 - Panda.md (W11) - Panda, cadavre maudit mutant créé par Yaga et co-amalgamé avec Nisha (2011) ; trois noyaux (Panda/Gorille/Tricératops caché) ; "fils" de Yaga + Nisha ; étudiant à Tokyo dès 2017 (promo 2017-2020) ; à maturité 5/7/6 doigts ; Kashimo en D2, noyaux sauvés par Nisha.
 - Yorozu.md (W4) - Yorozu, exorciste de Heian changée en objet maudit par Kenjaku, en dormance dans Tsumiki (2008-2015) ; 16 doigts ; tuée fin 2015 par Nisha (duel spirituel en territoire intérieur) ; fidèle de SUKUNA, aucun lien réel avec Eien.
@@ -88,7 +88,7 @@ Description : fiches personnages du monde.
 - Kashimo.md (W3) - Hajime Kashimo, exorciste d'Edo réincarné, joueur de la Traque ; énergie électrique, Bête Mythique Ambre (usage unique) ; 17 doigts ; 9e règle de la Traque (2 nov) ; tué par Nisha à Tokyo n°2 (D2).
 - Kogane.md (W2) - deux Kogane de la Traque. Celui de Nisha, shikigami de la Traque préprogrammé pour Eien : Kogane classique blanc et gris, horloge fonctionnelle pour visage, queue en sablier ; l'appelle « maîtresse du temps », raffole de la violence ; n'apparaît qu'à la parole, aux points et aux annonces ; du 2 au 8 nov 2018 (D2). Et celui de Kenjaku (canon), qui annonce la fin de la Traque.
 - Kirara.md (W11) - Kirara Hoshi, promo Tokyo 2016-2019 (sous Kusakabe), Love Rendezvous ; s'éloigne de l'université avec Hakari ; 4 doigts.
-- Sukuna.md (W7) - Ryomen Sukuna, Roi des Fléaux (20 doigts = étalon) : origine (scission du tronc Masakado x Michizane par pur hasard, jumeau dévoré in utero = 200 pour cent), pacte (dormance contre l'apogée, mobile divertissement), jumeau réincarné en Jin Itadori, réceptacles (Yuji par filiation, Megumi visé pour les Dix Ombres), règle des signatures (posée ici), trajectoire datée ères C-D (mort à Shinjuku, D4).
+- Sukuna.md (W8) - Ryomen Sukuna, Roi des Fléaux (20 doigts = étalon) : origine (scission du tronc Masakado x Michizane par pur hasard, jumeau dévoré in utero = 200 pour cent), pacte (dormance contre l'apogée, mobile divertissement), jumeau réincarné en Jin Itadori, réceptacles (Yuji par filiation, Megumi visé pour les Dix Ombres), règle des signatures (posée ici), trajectoire datée ères C-D (mort à Shinjuku, D4).
 - Nozomu.md (W4) - OC, fléau de Grade Spécial : Nozomu Gojo, enfant de Genroku, guerrier parfait révélé à l'éveil (4 ans) et mort le jour même, revenu en esprit vengeur ; scellé par Kenjaku dans une MARQUE (double clé, remise à Uraume) ; kit (Infini en armure, rayons d'énergie pure, déplacement niveau Naoya et attaque niveau Nisha, 20 doigts, six yeux épars, six bras), domaine Flagellation du Bourreau ; forme hybride au réveil dans Uraume ; réveil et mort (D4) ; aucune romantisation (règle d'écriture permanente).
 
 ### Lieux/
@@ -98,8 +98,8 @@ Description : lieux du monde.
 
 ### Power_Scaling/
 Description : système de puissance de l'univers.
-- Doigts_de_Sukuna.md (W15) - unité "doigt de Sukuna", statut in-world, formule non linéaire, table, barème de grade, loi synergie/symbiose, partage gémellaire (curseur 30/70 en 2017), plafond mondial ; palier 10/90 du coup d'État (2018 : 15 doigts).
-- Doigts_de_Sukuna_reperes.md (W5) - repères chiffrés par entité (casting B3, C1, C2, D2 et D3 intégrés : Kenjaku dans Suguru 22, Sukuna dans Megumi 27 ; Yuji 5, Nobara 4, Mahito 13, Choso 12, Uraume 14, Muta guéri, Panda à maturité 5/6/7, Charles Bernard 10, Kashimo 17 ; Nanami adulte à 8 ; D4 : Nozomu 20, Nisha à 14 sans Chronokinésie) et courbes A2 2005 -> 2008.
+- Doigts_de_Sukuna.md (W16) - unité "doigt de Sukuna", statut in-world, formule non linéaire, table, barème de grade, loi synergie/symbiose, partage gémellaire (curseur 30/70 en 2017), plafond mondial ; palier 10/90 du coup d'État (2018 : 15 doigts).
+- Doigts_de_Sukuna_reperes.md (W6) - repères chiffrés par entité (casting B3, C1, C2, D2 et D3 intégrés : Kenjaku dans Suguru 22, Sukuna dans Megumi 27 ; Yuji 5, Nobara 4, Mahito 13, Choso 12, Uraume 14, Muta guéri, Panda à maturité 5/6/7, Charles Bernard 10, Kashimo 17 ; Nanami adulte à 8 ; D4 : Nozomu 20, Nisha à 14 sans Chronokinésie) et courbes A2 2005 -> 2008.
 
 ### Pedagogie/
 Description : enseignements des universités d'exorcisme (cadre, grille, fiches de cours, enseignement personnalisé).
@@ -125,7 +125,7 @@ Enseignement personnalisé (une page par promotion à casting fiché ; un chanti
 - Perso_Kyoto_2017-2020.md (W2) - Miwa, Mechamaru, Mai ; 2e année sous Nisha (dès avril 2018).
 - Perso_Tokyo_2016-2019.md (W2) - Hakari, Kirara ; 1re année sous Satoru (2016-2017).
 - Perso_Tokyo_2017-2020.md (W3) - Maki, Panda, Toge, Yuta ; 1re année sous Satoru (2017-2018).
-- Perso_Tokyo_2018-2021.md (W4) - promo Tokyo 2018-2021 sous Satoru : Megumi (le territoire, se battre pour gagner), Yuji (énergie constante sous l'émotion), Nobara (frapper sans se sacrifier).
+- Perso_Tokyo_2018-2021.md (W5) - promo Tokyo 2018-2021 sous Satoru : Megumi (le territoire, se battre pour gagner), Yuji (énergie constante sous l'émotion), Nobara (frapper sans se sacrifier).
 
 ### Roadmap/Nisha/
 Description : itinéraires par arc de Nisha, dans l'ordre de la saga. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).

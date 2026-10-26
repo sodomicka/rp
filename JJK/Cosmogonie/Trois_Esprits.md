@@ -1,6 +1,6 @@
 # Trois Esprits Vengeurs
 
-- version : W8
+- version : W9
 
 Page = cosmogonie fondatrice du RP (divergence racine). Faits canon non balisés (niveau établi) ; couche RP balisée [DIVERGENCE RP]. Résumé condensé en BIBLE SB1.
 
@@ -27,7 +27,7 @@ Page = cosmogonie fondatrice du RP (divergence racine). Faits canon non balisés
 - [DIVERGENCE RP] Don : la Chronokinésie (modulation du temps). Les Masakado la portent ; Eien en est issue, bien avant l'ère Heian.
 - [DIVERGENCE RP] Chaîne du temps : Chronokinésie ancestrale (Eien) -> Projection (lignée Naobito) -> Chronostase (Nisha). La Projection canon, en images par seconde, est lue ici comme une mutation temporelle de la Chronokinésie.
 - [DIVERGENCE RP] Scission ancienne du tronc : SUKUNA. Une lignée s'est détachée du tronc Masakado si tôt que les archives Zenin n'en portent aucune trace - l'origine commune est inconnue du clan Zenin lui-même (antériorité exacte : [INCERTAIN], pré-Heian). De cette lignée naît à l'ère Heian, par pur hasard de croisement (apport Michizane par l'autre parent : l'espace), Ryomen Sukuna - le tranchant qui coupe l'espace, le jumeau dévoré in utero (les deux moitiés du pool gémellaire : 200 pourcent d'un être normal), le futur Roi des Fléaux. Ni œuvre du couple, ni dessein de clan : le hasard seul. Le savent : lui-même et le couple [IMPLICITE]. Détail : cf. Personnages/Sukuna.md.
-- [DIVERGENCE RP] Greffe : le couple croise les Zenin avec un clan issu des Sugawara, porteur du sort inné de la réserve de l'ombre (Dix Ombres). Muté, il renferme des shikigami scellés par des Zenin surpuissants (Heian à Meiji), dont Mahoraga. Plus personne ne saura le dompter ensuite. (Canon : Dix Ombres = sort hérité des Zenin ; Mahoraga, shikigami jamais dompté.)
+- [DIVERGENCE RP] Greffe : le couple croise les Zenin avec un clan issu des Sugawara, porteur du sort inné de la réserve de l'ombre (Dix Ombres). Muté chez les Zenin, il compte dix ombres, dont Mahoraga, qu'aucun porteur ne dompte avant l'ère D (Sukuna dans le corps de Megumi, nov 2018 ; Megumi lui-même, 2022). Mécanique : cf. Personnages/Megumi.md. (Canon : Dix Ombres = sort hérité des Zenin ; Mahoraga, shikigami jamais dompté par un porteur.)
 
 ## Sutoku - esprit des liens (clan Kamo)
 - [DIVERGENCE RP] Don : la manipulation du sang. Les Sutoku en font un credo de pureté et portent la version pure du sort jusqu'à Noritoshi Kamo. (Canon : manip du sang = technique Kamo ; Noritoshi Kamo né en 2000 - [DIVERGENCE RP] 1997 ici, cf. Personnages/Noritoshi_Kamo.md.)
