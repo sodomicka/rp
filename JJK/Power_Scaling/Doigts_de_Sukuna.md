@@ -1,6 +1,6 @@
 # Doigts de Sukuna - Power-scaling
 
-- version : W15
+- version : W16
 
 ## Unite
 - Unite de puissance de l'univers = le doigt de Sukuna.
@@ -129,6 +129,7 @@ Gojo post-Toji (23 doigts / 139 %) n'est depasse, en 1 contre 1, que par trois e
 - Sukuna dans Megumi a 20 doigts sur 20 (receptacle parfait) : 27 sur l'echelle, symbiose parasitique [DIVERGENCE RP] (cf. reperes). Meme classe theorique : Eien dans Nisha, si elle l'avait emporte. Kenjaku dans Suguru (22) reste SOUS ce plafond.
 - Yuta dans le corps de Satoru adulte.
 - Yuji adulte.
+Note : Megumi l'EGALE en 2022 (23, Mahoraga dompte), sans le depasser [DIVERGENCE RP] (cf. reperes).
 Note : en DUO, des combinaisons depassent 23 (Maki+Mai, Satoru+Nisha a apogee ; cf. Synergie et symbiose) - mais le plafond mondial vise le 1 contre 1.
 
 ## Notes de certitude

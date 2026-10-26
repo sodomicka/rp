@@ -1,6 +1,6 @@
 # Tsumiki Fushiguro
 
-- version : W11
+- version : W12
 
 Fiche noyau (canon + RP), entité entrant en scène à l'ouverture de l'ère B (2008). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. État noyau décrit = qui est Tsumiki à son entrée en scène (identité, nature, psychologie, relations de base) ; son devenir post-2008 est consigné en Trajectoire datée (télégraphique ; détail -> roadmaps). Profane : hors-axe combat.
 
@@ -29,7 +29,7 @@ Fiches propres : cf. Personnages/Nisha.md, Megumi.md, Satoru.md, Maki.md. Ici, s
 
 ### Megumi - demi-frère (divergence majeure)
 - [DIVERGENCE RP] Dynamique INVERSÉE par rapport au canon. Canon : Megumi protège Tsumiki, la tient à l'écart du monde occulte, veut pour elle une vie normale. Ici : éduquée à la vérité occulte, c'est elle qui ENCOURAGE Megumi. Elle le motive à peaufiner son sort inné quand il se révèle (~2009), se lie d'amitié avec ses shikigami.
-- Lors des invocations où Megumi tente de dompter un shikigami au combat, elle reste à l'intérieur (profane, pas de risque inutile) ; une fois la bête apprivoisée, elle la traite en animal de compagnie. Ce qui ne déplaît pas à des fléaux-familiers trop souvent réduits à des armes - même si Megumi, lui aussi, les traite en êtres et non en outils.
+- Lors des invocations où Megumi tente de dompter un shikigami au combat, elle reste à l'intérieur (profane, pas de risque inutile) ; une fois la bête apprivoisée, elle la traite en animal de compagnie. Ce qui ne déplaît pas à des familiers trop souvent réduits à des armes - même si Megumi, lui aussi, les traite en êtres et non en outils.
 - Au départ (2008), Tsumiki est, pour le couple, le LEVIER ÉMOTIONNEL qui décide Megumi à les suivre ; elle devient très vite une fille aimée à part entière.
 
 ### Nisha - mère
