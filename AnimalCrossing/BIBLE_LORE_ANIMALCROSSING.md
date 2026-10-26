@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : Animal Crossing, réécrit en adulte sur une uchronie. Dossier : AnimalCrossing/
 - sources primaires : Animal Crossing - City Folk (Let's Go to the City), New Leaf, New Horizons et Happy Home Paradise ; mentions Wild World, Happy Home Designer. Décisions du worldbuilder (passes 0 et 1). Canon vérifié : guides FR, Nookipedia, Vikidia, Wikipedia ; noms VF : calendrier des anniversaires NH en VF (actugaming.net).
-- bible_version : B4
+- bible_version : B5
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/AnimalCrossing/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/AnimalCrossing/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/AnimalCrossing/Partie1/` (dossier non créé)
@@ -25,7 +25,7 @@
   - Systèmes - espèces, reproduction, hiérarchie, Gyroïdes, économie (5 pages)
   - Lore - uchronie et ères (1 page)
   - Lieux - Lupus, Pont-la-Plaine et son plan, Réserves (4 pages) ; carte et schéma de Pont-la-Plaine (2 images)
-  - Factions - La Meute, Nook Inc. (2 pages)
+  - Factions - La Meute, Nook Inc., Église (3 pages)
   - Personnages - fiches noyau, prota compris (31 pages)
 
 ## SB1 Cosmogonie et règles du monde
@@ -45,9 +45,9 @@
 - Plan de corps commun : forme globale et organes reproducteurs d'Homo ; bipède, regard à l'horizon. Les pieuvres sapiens sont des vertébrés.
 - Nomenclature "Genre sapiens". Loups : Lupus sapiens, "Canis" retiré par leur lobbying. Lapins et lièvres : Lepus sapiens. Table : cf. WIKI Systemes/Especes_Taxonomie.md.
 - Espèces communes, sauf : humains (rares) ; Tanuki, Kappa et Draco (hybrides stabilisés, rares) ; hybrides vrais.
-- Dragons (Draco sapiens) : hybrides Crocodylus x Ambystoma stabilisés par consanguinité volontaire ; apex ; allure du Drago canon. Tiennent She Long (cf. SB4 Triade).
+- Dragons (Draco sapiens) : hybride stabilisé, apex de She Long (cf. SB4 Triade). Détail : cf. WIKI Systemes/Especes_Taxonomie.md.
 - Espèces sans personnage canon (renard, hibou, hérisson, alpaga, taupe, tortue, mouette, dodo...) : toutes communes.
-- Gabarits et longévités posés : Ursus mâles adultes vers 2 m (Grizzly) ; Felis, 1 m 63 classique (Charly) ; tortues bien plus longévives que les Homo (Tortimer, 111 ans à P) ; kappas, 70 ans (mâles) / 80 ans (femelles), 1 m 35 - 1 m 53. Détail : fiches citées en SB5.
+- Gabarits et longévités posés (ours, chats, tortues, kappas...) : cf. WIKI Systemes/Especes_Taxonomie.md, Gabarits.
 
 ### Reproduction
 - Tous les sapiens actuels sont interféconds, mammifères et lignées in vitro confondus. Anthros fertiles.
@@ -70,9 +70,8 @@
 - Racisme à tous les niveaux, sexuel et sociétal. Entre-soi trophique : vu comme une vieille pensée. Renards : réputés voleurs et menteurs.
 - Désirer une espèce d'un autre niveau de prédation : déviance sexuelle pour certains. Fantasme de la proie exotique chez les riches de Lupus (cf. WIKI Personnages/Shino.md).
 - Nom de famille : marque de grande famille. La plupart des gens du commun n'en ont pas.
-- Police de Lupus : majorité de canidés, ceux que la Meute a rayés de sa généalogie ("Canis" retiré). Dans sa poche. Un Lupusien qui disparaît, c'est une enquête.
 - Certains prédateurs mangent des Anthros : chasse, marché noir (Rounard). La Meute en sert aux grandes occasions, sous le nom de "sanglier".
-- Si le peuple découvrait que les protecteurs mangent les protégés : révolution, à éviter pour toute noblesse. D'où une filière extérieure, jamais Lupus ni les familles nobles (cf. WIKI Personnages/Rounard.md).
+- Filière de viande d'Anthro toujours extérieure, jamais Lupus ni les familles nobles : sinon, révolution. Police de Lupus canidée, dans la poche de la Meute. Détail : cf. WIKI Systemes/Hierarchie_Predation.md.
 - Animaux de compagnie mammifères sans raison : existent ; choquent surtout les classes populaires.
 - Détail : cf. WIKI Systemes/Hierarchie_Predation.md.
 
@@ -178,7 +177,7 @@
 | 16/12/605 | Naissance de la portée cadette (26 ans à P) | Remus (seul hybride), Chef, Luppa, Pierrot, Daniel, Antoine, Sophie |
 | 624-630 | Installations à Pont-la-Plaine : Chavrina médecin (624), garage de Grizzly (627), Raymond (627), Groin et Trompe (629), Shino (630) | Habitants nommés à P : cf. WIKI Lieux/Pont_la_Plaine_plan.md |
 | 626 | La Triade massacre la famille de Shino à She Long | Shino laissée partir avec la moitié de la fortune |
-| 627 | Tom Nook recueille Méli et Mélo, 8 ans, orphelins du Bas | Envoyés tenir la boutique de Pont-la-Plaine peu avant P |
+| 627 | Tom Nook recueille Méli et Mélo, 8 ans, orphelins du Bas | Il leur confie la boutique de Pont-la-Plaine le 01/05/632 |
 | 01/05/632 | Nook rachète la boutique de la famille d'Amiral ; Viviane envoie directement la famille à Tortiland préparer la venue de Tortimer | Autorité du maire court-circuitée, cinq semaines avant de le prévenir |
 | 09/06/632 | Tortimer évincé sans avoir été prévenu, mis au vert à Tortiland | Précédent du placard doré |
 | Avant P, après Tortimer | Remus, après des études de politique, désigné maire de Pont-la-Plaine | Placard doré |
@@ -212,7 +211,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Crocodiles nobles - réputés pour leur violence ; gardent les établissements de la Meute. Le gros de la mafia Crocodile est ailleurs : hors focus ; elle fournit la filière de Rounard.
 - Dodo Airlines - compagnie tenue par des dodos (Raphus sapiens) ; aéroport de Lupus ; dessert îles d'escapade, îles mystères, archipel. Autres aéroports ailleurs.
 - Paradis sur mesure - promoteur de l'archipel des apex, FILIALE de Nook Inc. | fondée par Lou, nièce de Lionel, qui l'a vendue à Nook comme filiale. detail: cf. WIKI Personnages/Lou.md, Lieux/Reserves.md
-- Église - institution religieuse. Pour la Meute, opium du peuple : cynisme. Henry de la Meute, évêque de la cathédrale des Hauts ; chapelle à Pont-la-Plaine. Pâques, fête de l'Église : la Fête des œufs lui est associée (Albin). Halloween : fête de toute la région (Jacqu'O).
+- Église - institution religieuse de la région | pour la Meute, opium du peuple | Henry de la Meute, évêque des Hauts ; chapelle à Pont-la-Plaine ; Pâques (Fête des œufs), Halloween. detail: cf. WIKI Factions/Eglise.md
 - Triade - famille de dragons (Draco sapiens), mafia et Conseil de She Long | hors focus | a massacré la famille de Shino en 626, puis l'a laissée partir. detail: cf. WIKI Personnages/Shino.md
 
 ## SB5 Personnages
@@ -239,7 +238,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 
 ### Nook et protégés
 - Tom Nook - patron de Nook Inc., tanuki (Tanuki sapiens, rare), 46 ans | figure publique de la banque Nook | protégé de la Meute, recommandé par Rounard, avec qui il a commencé ; cour à Luppa écartée par Viviane. detail: cf. WIKI Personnages/Tom_Nook.md
-- Méli et Mélo - tanukis jumeaux, 13 ans à P, ENFANTS : hors de tout champ sexuel | orphelins du Bas recueillis par Nook à 8 ans, sans lien de sang ; tiennent la boutique de Pont-la-Plaine. detail: cf. WIKI Personnages/Meli_et_Melo.md
+- Méli et Mélo - tanukis jumeaux, 13 ans à P, ENFANTS : hors de tout champ sexuel | orphelins du Bas recueillis par Nook à 8 ans, sans lien de sang ; tiennent la boutique de Pont-la-Plaine depuis le 01/05/632. detail: cf. WIKI Personnages/Meli_et_Melo.md
 - Rounard - renard (Vulpes sapiens), 47 ans, pègre de Lupus | seul ; gants de latex ; prix fixes ; dort dans la cale de son bateau | protégé de la Meute ; détient la clé. detail: cf. WIKI Personnages/Rounard.md
 - Lionel - loutre, 34 ans, évaluateur des intérieurs à Nook Immobilier (jeu de l'évaluation) | ex-escroc repenti (canon Wild World) ; subordonné de Max, frustré ; loge sous l'agence ; oncle de Lou. detail: cf. WIKI Personnages/Lionel.md
 - Max - shih tzu, jumeau cadet de Marie | gérant de Nook Immobilier à Pont-la-Plaine, lundi et jeudi au siège ; loge à Lupus ; naïf sur Nook. detail: cf. WIKI Personnages/Max.md
@@ -276,13 +275,13 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 ### Fêtes et piliers sans lieu établi
 - Jacqu'O - noble humain, Halloween [DIVERGENCE RP] | nom de scène partagé, un par village ; identité volontairement inconnue, MJ compris | citrouille, cape ; détient la clé | l'"espèce mystérieuse" est une histoire qu'il fait courir. detail: cf. WIKI Personnages/Jacqu_O.md
 - Albin - hybride vrai Lepus sapiens x Homo sapiens, 29 ans, Fête des œufs [DIVERGENCE RP] | yeux de face à l'écart aberrant, hérité du parent lièvre ; costume de mascotte, nie le porter | fratrie de 300+ en même uniforme, répartie sur la région ; seul affecté à Pont-la-Plaine ; ni Pont-la-Plaine ni Lupus ne savent ce qu'il est. detail: cf. WIKI Personnages/Albin.md
-- Rodolphe (renne, Noël) ; Joe (chien, photographe) ; M. Resetti (taupe, fonction canon coupée) : lieu et rôle [INCERTAIN].
+- Rodolphe (renne, Noël) ; Joe (chien, photographe) ; M. Resetti (taupe, fonction canon coupée) : lieu et rôle à fixer si un arc y va.
 
 ## SB6 Lieux
 - Lupus (Lupus Lupus) - Ménagerie, grande ville de la région | aux mains de la Meute ; emblème tête de loup | argent, pouvoir, nuit, vice | coteaux sur la Lykaina : Hauts (Meute, apex, Conseil, cathédrale, siège Nook Inc.), Milieu (place, commerces, salle des ventes, aéroport), Bas (proies, fleuve, Rounard, foyers clandestins d'orphelins). Hôtels de luxe ; taxis de nuit vers Pont-la-Plaine. detail: cf. WIKI Lieux/Lupus.md
-- Boutique de Rounard - tripot sans enseigne au fond d'une ruelle du Bas | pègre | trouver l'adresse, payer l'entrée, payer au prix fort ; arrière-boutique sur confiance, vrai marché noir. Quai privé de Rounard sur la Lykaina, au Bas : son bateau y mouille quand la boutique est ouverte. detail: cf. WIKI Lieux/Lupus.md, Personnages/Rounard.md
+- Boutique de Rounard - tripot sans enseigne au fond d'une ruelle du Bas | pègre | trouver l'adresse, payer l'entrée, payer au prix fort ; arrière-boutique sur confiance, vrai marché noir. Quai privé : cf. Bateau de Rounard. detail: cf. WIKI Lieux/Lupus.md, Personnages/Rounard.md
 - Salle des ventes de Lupus - au Milieu, ouverte jour et nuit | Meute (Luppa) | art, reliques de l'âge d'or, mobilier rare, Gyroïdes spécialisés. detail: cf. WIKI Lieux/Lupus.md
-- Pont-la-Plaine - Bergerie de proies, fondée en 546 ; 20 minutes de route au sud de Lupus | dépend du cercle haut de Lupus | village de Remus, maire aux pleins pouvoirs sous l'aval du Conseil ; le plus tolérant de la région ; seuls apex, Remus et Blanche | carré plat d'environ 1 km, rivière, mairie sur une île. Carte figée : la carte fait foi sur la géographie, le plan sur les attributions. detail: cf. WIKI Lieux/Pont_la_Plaine.md, Pont_la_Plaine_plan.md
+- Pont-la-Plaine - Bergerie de proies, environ 300 Pontois, fondée en 546 ; 20 minutes de route au sud de Lupus | dépend du cercle haut de Lupus | village de Remus, maire aux pleins pouvoirs sous l'aval du Conseil ; le plus tolérant de la région ; seuls apex, Remus et Blanche | carré plat d'environ 1 km, rivière, mairie sur une île. Carte figée : la carte fait foi sur la géographie, le plan sur les attributions. detail: cf. WIKI Lieux/Pont_la_Plaine.md, Pont_la_Plaine_plan.md
   - Accès : bus de Charly (d'arrêt en arrêt, 25 minutes vers Lupus, 30 dans l'autre sens ; cinq rotations ; tarif : cf. WIKI Systemes/Economie.md), taxi de nuit depuis Lupus, quai vers Tortiland. Pas de gare.
 - Lykaina - bras de mer, fleuve salé | traverse Lupus, borde Pont-la-Plaine à l'ouest et au sud (plages) | seule la basse ville de Lupus y a accès.
 - Réserves - îles, une fonction chacune | accès : aéroport de Lupus, quai de Pont-la-Plaine | îles d'escapade (Nook Inc., colonisation par la dette, sans maire), îles mystères (extraction), archipel de villégiature (apex seulement, Paradis sur mesure). detail: cf. WIKI Lieux/Reserves.md
@@ -325,4 +324,4 @@ Index détaillé page-par-page : cf. WIKI AnimalCrossing/Sommaire.md
 
 ---
 
-FIN_BIBLE_B4
+FIN_BIBLE_B5

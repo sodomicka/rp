@@ -1,6 +1,6 @@
 # Sommaire - AnimalCrossing
 
-- version : W32
+- version : W33
 
 ## WIKI
 
@@ -32,6 +32,7 @@ Description : établissements du monde (Ménageries, Bergeries, Réserves).
 ### Factions/
 Description : groupes de pouvoir.
 - La_Meute.md (W11) - noblesse louve, famille et mafia : emblème, Alpha de 546, domaines (dont police de Lupus canidée), famille de la branche de Lupus (parents, deux portées, branches secondaires, parents éloignés), mœurs (clan, Conseil, malédiction, table), regards (église, Marie, Tom Nook)
+- Eglise.md (W1) - institution religieuse : cathédrale des Hauts, chapelle de Pont-la-Plaine, fêtes (Pâques et Fête des œufs, Halloween), Henry évêque, regard cynique de la Meute
 - Nook_Inc.md (W7) - groupe de Tom Nook : modèle de la dette (commerces privés, exception Shino), branches (banque : Raymond), jeu de l'évaluation (Lionel), cadres, Méli et Mélo (boutique rachetée le 01/05/632), liens (Paradis sur mesure, filiale ; Lou, Gratien, Mantin)
 
 ### Personnages/
@@ -41,7 +42,7 @@ Description : fiches noyau des entités du monde (neutres, réutilisables entre 
 - Viviane_de_la_Meute.md (W3) - mère du prota, Alpha de la branche de Lupus ; cogestion de l'empire, couple, rituel des griffures, regard sur Remus et Blanche, court-circuite ses maires (famille d'Amiral envoyée à Tortiland le 01/05/632), Nook écarté de Luppa
 - Arthur_de_la_Meute.md (W1) - père du prota, humain né Fontaine ; époux devenu légitime, cogestion de l'empire, couple, regard sur Remus et Blanche
 - Monica_de_la_Meute.md (W1) - sœur aînée du prota, louve rousse ; chargée de com' en tour du monde à moto, danger et prédateurs, abrégeait le harcèlement
-- Henry_de_la_Meute.md (W1) - frère aîné du prota, humain, évêque des Hauts ; seul croyant, vœu de pauvreté, pitié et regret envers Remus
+- Henry_de_la_Meute.md (W2) - frère aîné du prota, humain, évêque des Hauts ; seul croyant, vœu de pauvreté, pitié et regret envers Remus
 - Charlotte_de_la_Meute.md (W1) - sœur aînée du prota, humaine, Conseil ; gentil visage de la famille, limite la casse
 - Sebastien_de_la_Meute.md (W1) - frère aîné du prota, humain, Conseil ; arrogant mais idiot, fidèle et serviable
 - Chef_de_la_Meute.md (W1) - frère cadet du prota, loup, Conseil ; le calculateur, bourreau d'enfance
