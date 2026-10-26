@@ -73,6 +73,13 @@ Validé comme réservoir le 2026-09-22. Un fil n'entre en BIBLE SB8 qu'une fois 
 ## Dettes de build
 
 - FONTAINE (décision 2026-10-26) : famille noble humaine qui tisse des alliances par le mariage dans de nombreuses villes ; alliance avec la Meute toujours active à P. Domicile : Personnages/Arthur_de_la_Meute.md (W2). À reporter au prochain BIBLE BUILD (SB4, Familles nobles) et en La_Meute à sa prochaine relivraison.
+- GEOGRAPHIE ET ECHELLE (decision 2026-10-26) : nouvelle sous-section a porter en BIBLE SB1 au prochain BIBLE BUILD, texte valide :
+  ### Geographie et echelle
+  - Continents de l'age d'or inchanges ; divergences locales : la Lykaina, bras de mer jusqu'a Lupus ; le microclimat tropical de Tortiland.
+  - Carte retournee a 180 degres depuis l'an 0 : le nord de l'age d'or est le sud actuel, l'est est l'ouest actuel.
+  - Regions : Lupus en ex-Estonie, Pont-la-Plaine au sud, sur la cote de l'ex-golfe de Finlande ; Tortiland dans le golfe ; She Long en ex-Chine. Aucune ville de l'age d'or n'est nommee.
+  - Cultures brassees depuis l'age d'or : un heritage ne suit plus les anciennes frontieres (maquillages herites du Japon chez Shino, folklore chinois chez les dragons).
+  - Echelle : Pont-la-Plaine, 300 habitants ; Lupus, grande ville, 20 000 habitants.
 
 - CARTE DE PONT-LA-PLAINE : SOLDÉE (2026-09-28). Image générée figée (Lieux/Pont_la_Plaine.png), plan en mots (Lieux/Pont_la_Plaine_plan.md), tous les domiciles placés. Points laissés ouverts par le plan : où se jouent les cartes l'hiver ; population en chiffre.
 - GARDE-CAP : à produire à l'ouverture de la passe 2, avant la première roadmap : Roadmap/<Prota>/00_Garde_Cap.md (format et rôle : cœur Wiki, ORDRE DE CONSTRUCTION).
