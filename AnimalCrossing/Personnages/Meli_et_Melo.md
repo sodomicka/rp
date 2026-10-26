@@ -47,7 +47,7 @@
 - Entre 5 et 8 ans : la rue du Bas. Ils pensent d'abord faire des tours de magie de rue, puis deviennent vendeurs à la sauvette.
 - À 8 ans (à partir du 07/06/627) : Tom Nook les recueille. Il s'est revu en eux, lui et Rounard à leurs débuts, et en fait ses protégés, ses "neveux" (cf. Personnages/Tom_Nook.md).
 - Des années à Lupus, formés par Nook.
-- Avant le 01/05/632 [PROPOSITION MJ, à valider] : la Meute annonce à Nook que Remus sera maire de Pont-la-Plaine. Nook leur fait assez confiance pour tenir un magasin, mais il ne les envoie là-bas qu'une fois cette nomination connue, parce qu'il sait Remus bon.
+- Avant le 01/05/632 : la Meute annonce à Nook que Remus sera maire de Pont-la-Plaine. Nook leur fait assez confiance pour tenir un magasin, mais il ne les envoie là-bas qu'une fois cette nomination connue, parce qu'il sait Remus bon.
 - 01/05/632 : Nook rachète, en la payant grassement, la boutique de la famille d'Amiral, indépendante depuis 546 ; elle devient la succursale qu'il leur confie (cf. Personnages/Amiral_et_sa_famille.md).
 - 12/06/632 (P) : Remus entre en poste.
 

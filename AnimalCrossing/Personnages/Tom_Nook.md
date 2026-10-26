@@ -41,7 +41,7 @@
 ## Histoire jusqu'au point de départ
 - 30/05/586 : naît dans un village autre que Pont-la-Plaine (à fixer si un arc y va). Enfance pauvre [IMPLICITE].
 - Enfance : ami de Cousette (hérisson ; couturière à Pont-la-Plaine à P). Ils grimpent sur le toit de l'observatoire du village pour regarder les étoiles (canon).
-- À 18 ans, en 604 [PROPOSITION MJ, à valider] : départ pour Lupus, ambitieux et avide de fortune. Il lâche ses amis, mais continue d'écrire à Cousette, qui voulait préserver son "esprit pur" de la ville ; il lui offre une paire de ciseaux pour son anniversaire (canon).
+- À 18 ans, en 604 : départ pour Lupus, ambitieux et avide de fortune. Il lâche ses amis, mais continue d'écrire à Cousette, qui voulait préserver son "esprit pur" de la ville ; il lui offre une paire de ciseaux pour son anniversaire (canon).
 - À Lupus, avec Rounard (renard) : vente à la sauvette pour subsister, puis des biens de plus en plus précieux.
 - Ils tentent de rivaliser avec l'hôtel des ventes de la Meute (cf. Lieux/Lupus.md) : échec cuisant. C'est la carrière ratée en ville.
 - Réorientation : boutique de vente en vrac, achats banals et rares confondus.
@@ -50,7 +50,7 @@
 - Sous la protection de la Meute, ses affaires grandissent jusqu'au groupe actuel ; la Meute intègre son capital à sa mafia (cf. Factions/Nook_Inc.md, Factions/La_Meute.md). Étapes non datées.
 - À partir du 16/12/623 : l'épisode Luppa (cf. Vie privée).
 - À partir du 07/06/627 : recueille Méli et Mélo, tanukis jumeaux de 8 ans (nés le 07/06/619), alors vendeurs à la sauvette dans la Basse Lupus. Il s'est revu en eux, lui et Rounard à leurs débuts, et en fait ses protégés, présentés à tous comme ses neveux (cf. Personnages/Meli_et_Melo.md).
-- Avant le 01/05/632 [PROPOSITION MJ, à valider] : la Meute lui annonce que Remus sera maire de Pont-la-Plaine. Le sachant bon, il décide d'y envoyer Méli et Mélo.
+- Avant le 01/05/632 : la Meute lui annonce que Remus sera maire de Pont-la-Plaine. Le sachant bon, il décide d'y envoyer Méli et Mélo.
 - 01/05/632 : il rachète, en la payant grassement, la boutique de la famille d'Amiral, indépendante depuis 546, qui devient la succursale de ses neveux (cf. Personnages/Amiral_et_sa_famille.md).
 - 12/06/632 (P) : Remus de la Meute entre en poste à Pont-la-Plaine, où Nook tient le monopole de la construction, le magasin et l'agence (cf. Lieux/Pont_la_Plaine.md).
 
@@ -67,7 +67,7 @@
 - Remus de la Meute : maire de Pont-la-Plaine, où Nook a ses intérêts ; quelqu'un de bien, mieux vaut le savoir loin de Lupus.
 - Rounard : ancien associé des débuts, séparés sur les armes ; c'est pourtant lui qui l'a recommandé à la Meute. À P, rapports cordiaux : Nook rejette le parcours de Rounard depuis la séparation et garde la nostalgie du partenaire rusé et ambitieux. Rounard lui a envoyé Lionel, une carte de visite jetée à la porte (cf. Personnages/Lionel.md).
 - Méli et Mélo : ses protégés, ses "neveux" sans lien de sang, recueillis à 8 ans, 13 ans à P ; ils tiennent le magasin Nook de Pont-la-Plaine. Il leur a dit qu'il avait commencé comme eux, et qu'en les menant à la légalité il leur épargnait une séparation comme la sienne (cf. Personnages/Meli_et_Melo.md).
-- Cousette : amie d'enfance, l'avant-ville et l'avant-Rounard. À P, ils s'écrivent encore de loin en loin ; il ne vient jamais la voir [PROPOSITION MJ, à valider].
+- Cousette : amie d'enfance, l'avant-ville et l'avant-Rounard. À P, ils s'écrivent encore de loin en loin ; il ne vient jamais la voir.
 - Lionel : son évaluateur, un Rounard repenti à ses yeux ; formé par lui à l'immobilier, talent pour la déco (cf. Personnages/Lionel.md).
 - Max : gérant de l'agence de Pont-la-Plaine (cf. Personnages/Max.md).
 

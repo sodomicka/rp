@@ -106,7 +106,7 @@ En clochettes, sauf mention.
 | Coupe (salon de Ginette) | 3 000 |
 | Traversée vers Tortiland | 1 000 |
 | Bus Pont-la-Plaine - Lupus, le trajet (cf. Personnages/Charly.md) | 600 |
-| Taxi de nuit Lupus - Pont-la-Plaine, la course (cf. Personnages/Shino.md) | 8 000 [PROPOSITION MJ, à valider] |
+| Taxi de nuit Lupus - Pont-la-Plaine, la course (cf. Personnages/Shino.md) | 8 000 |
 | Entrée chez Rounard, par visite | 4 000 |
 | Abonnement au jeu de l'évaluation, par mois | 10 000 |
 | Prix du jeu de l'évaluation, par note | 5/10 : 4 000 ; 6/10 : 8 000 ; 7/10 : 12 000 ; 8/10 : 16 000 ; 9/10 : 20 000 ; 10/10 : 24 000 ; rien sous 5 |
