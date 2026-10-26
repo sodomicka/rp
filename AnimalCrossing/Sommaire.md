@@ -1,6 +1,6 @@
 # Sommaire - AnimalCrossing
 
-- version : W28
+- version : W29
 
 ## WIKI
 
@@ -22,16 +22,16 @@ Description : lore structurel et transversal.
 
 ### Lieux/
 Description : établissements du monde (Ménageries, Bergeries, Réserves).
-- Lupus.md (W5) - Ménagerie de la Meute : emblème et insigne des maires, cathédrale, relief, trois niveaux, Conseil, salle des ventes, aéroport, boutique de Rounard
-- Pont_la_Plaine.md (W7) - Bergerie du fils loup-garou : fondation 546, tolérant et banal, géographie (renvoi plan), gouvernance (modèle sans impôt, participatif jusqu'aux commerces privés, tente du maire, éviction de Tortimer), mairie, police, commerces (Groin et Trompe, chez Shino, cabinet, garage, chapelle, école ; Tiquette, Céleste, Robusto pas encore là), habitants (renvoi plan), visiteurs, accès (bus, taxi de nuit, quai)
-- Pont_la_Plaine_plan.md (W1) - page satellite : plan en mots conforme à la carte figée, six quartiers, 35 repères numérotés, table des attributions (qui habite quel toit), distances, points ouverts
+- Lupus.md (W6) - Ménagerie de la Meute : emblème et insigne des maires, relief, trois niveaux, police canidée, Conseil, cathédrale, domaine de la Meute (allure à fixer), hôtels de luxe et taxis de nuit, salle des ventes, aéroport, terminus du bus, quai privé de Rounard, foyers d'orphelins, boutique de Rounard
+- Pont_la_Plaine.md (W8) - Bergerie de Remus : fondation 546, tolérant et banal, environ 300 Pontois (seuls les nommés comptent), géographie (renvoi plan), gouvernance (modèle sans impôt, participatif jusqu'aux commerces privés, tente du maire, éviction de Tortimer), mairie, police, commerces (Groin et Trompe, chez Shino, cabinet, garage, chapelle, école ; Tiquette, Céleste, Robusto pas encore là), habitants (renvoi plan), visiteurs, accès (bus, taxi de nuit, quai)
+- Pont_la_Plaine_plan.md (W2) - page satellite : plan en mots conforme à la carte figée, six quartiers, 35 repères numérotés, table des attributions (qui habite quel toit), distances, points ouverts
 - Pont_la_Plaine.png - CARTE du village, vue aquarelle nord en haut, figée le 2026-09-28 ; fait foi sur la géographie
 - Pont_la_Plaine_plan_schema.png - schéma numéroté de la carte (repères 1-35, zones A-F), support de la page plan
-- Reserves.md (W3) - îles d'escapade, îles mystères, archipel des apex, bateau de Rounard, Tortiland
+- Reserves.md (W4) - îles d'escapade, îles mystères, archipel des apex (Paradis sur mesure, filiale Nook ; Lou, Gratien, Mantin), bateau-domicile de Rounard, Tortiland (exploitée pour la Meute, Tortimer, famille d'Amiral)
 
 ### Factions/
 Description : groupes de pouvoir.
-- La_Meute.md (W10) - noblesse louve, famille et mafia : emblème, domaines, famille de la branche de Lupus (parents, deux portées, branches secondaires, parents éloignés), mœurs (clan, Conseil, malédiction, table), regards (église, Marie, Tom Nook)
+- La_Meute.md (W11) - noblesse louve, famille et mafia : emblème, Alpha de 546, domaines (dont police de Lupus canidée), famille de la branche de Lupus (parents, deux portées, branches secondaires, parents éloignés), mœurs (clan, Conseil, malédiction, table), regards (église, Marie, Tom Nook)
 - Nook_Inc.md (W6) - groupe de Tom Nook : modèle de la dette, branches, jeu de l'évaluation (Lionel), cadres, Méli et Mélo (renvoi fiche), liens (Paradis sur mesure, filiale)
 
 ### Personnages/
