@@ -8,7 +8,7 @@
 - À 20 minutes de route au sud de Lupus Lupus, la Ménagerie dont le village dépend.
 - Fondée en 546 sous Tortimer, à la date de sa nomination : fort investissement des de la Meute et de leurs ouvriers de l'époque, sans Nook Inc., qui n'existe pas encore ; "indépendance" nominale laissée ensuite, le village restant sous le Conseil (cf. Personnages/Tortimer.md).
 - Simple, cliché, banal : pile ce que la Meute veut. Et le village le plus tolérant de la région, peut-être au-delà : l'œuvre de Tortimer. Les deux tiennent (cf. Personnages/Tortimer.md, Personnages/Albin.md).
-- Population surtout de proies, donc de classes populaires (cf. Systemes/Hierarchie_Predation.md) : environ 300 Pontois [PROPOSITION MJ, chiffre à valider]. Seuls les habitants nommés comptent ; les autres sont des silhouettes, et de nouveaux personnages s'ajoutent au fil de l'histoire si besoin (décision 2026-10-26). Seuls apex du village : Remus et Blanche.
+- Population surtout de proies, donc de classes populaires (cf. Systemes/Hierarchie_Predation.md) : environ 300 Pontois (décision 2026-10-26). Seuls les habitants nommés comptent ; les autres sont des silhouettes, et de nouveaux personnages s'ajoutent au fil de l'histoire si besoin. Seuls apex du village : Remus et Blanche.
 - La plupart des Pontois n'ont pas de nom de famille ; un nom de famille est une marque de grande famille.
 
 ## Géographie
