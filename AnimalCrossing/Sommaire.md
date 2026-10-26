@@ -1,6 +1,6 @@
 # Sommaire - AnimalCrossing
 
-- version : W29
+- version : W30
 
 ## WIKI
 
@@ -14,7 +14,7 @@ Description : règles du monde - espèces, reproduction, hiérarchie, Gyroïdes,
 - Reproduction_Hybridation.md (W2) - règle fondatrice (~1/100), deux voies d'origine, interfécondité, portées, hybrides (~1/10 000), stabilisation, consanguinité
 - Hierarchie_Predation.md (W2) - loi du plus fort, apex, élitisme, instinct des crocodiles, racisme et sexualité, prédation d'Anthros
 - Gyroides.md (W4) - nature et regard du monde, commerce, origine (GyroCorp), constitution, fragments et réparation, symbolique
-- Economie.md (W6) - clochette, banque Nook, dette Nook, jeu de l'évaluation, gagne-pain populaire, finances municipales (modèle libre par Bergerie : impôt ailleurs, volontariat à Pont-la-Plaine), monnaies de compagnie, Rounard ; grille des montants (seul domicile des chiffres, bus compris)
+- Economie.md (W7) - clochette, banque Nook, dette Nook (commerces privés : Groin et Trompe ; Shino comptant), jeu de l'évaluation, gagne-pain populaire, finances municipales (modèle libre par Bergerie : impôt ailleurs, volontariat à Pont-la-Plaine), monnaies de compagnie, Rounard ; grille des montants (seul domicile des chiffres, bus et taxi de nuit compris)
 
 ### Lore/
 Description : lore structurel et transversal.
@@ -32,7 +32,7 @@ Description : établissements du monde (Ménageries, Bergeries, Réserves).
 ### Factions/
 Description : groupes de pouvoir.
 - La_Meute.md (W11) - noblesse louve, famille et mafia : emblème, Alpha de 546, domaines (dont police de Lupus canidée), famille de la branche de Lupus (parents, deux portées, branches secondaires, parents éloignés), mœurs (clan, Conseil, malédiction, table), regards (église, Marie, Tom Nook)
-- Nook_Inc.md (W6) - groupe de Tom Nook : modèle de la dette, branches, jeu de l'évaluation (Lionel), cadres, Méli et Mélo (renvoi fiche), liens (Paradis sur mesure, filiale)
+- Nook_Inc.md (W7) - groupe de Tom Nook : modèle de la dette (commerces privés, exception Shino), branches (banque : Raymond), jeu de l'évaluation (Lionel), cadres, Méli et Mélo (boutique rachetée le 01/05/632), liens (Paradis sur mesure, filiale ; Lou, Gratien, Mantin)
 
 ### Personnages/
 Description : fiches noyau des entités du monde (neutres, réutilisables entre parties). Trajectoire datée alimentée à chaud arc par arc.
@@ -50,9 +50,9 @@ Description : fiches noyau des entités du monde (neutres, réutilisables entre 
 - Daniel_et_Antoine_de_la_Meute.md (W2) - frères cadets du prota, humains, banquiers Nook ; fiche commune, naïfs sur le clan, meneurs du harcèlement
 - Sophie_de_la_Meute.md (W1) - sœur cadette du prota, humaine, Conseil ; affaires illégales, mariage arrangé en préparation
 - Marie.md (W3) - secrétaire du maire de Pont-la-Plaine, shih tzu, jumelle aînée de Max ; physique, manies, goûts, maison (quartier est), études à Lupus, quatre ans sous Tortimer, loyauté au village, angles morts
-- Max.md (W1) - jumeau cadet de Marie, shih tzu, cadre Nook ; gérant de l'agence du village, deux jours au siège, appartement contre salaire réduit, naïf sur Nook
-- Tom_Nook.md (W3) - patron de Nook Inc., tanuki, 46 ans, né 30/05/586 ; physique, avarice et pragmatisme, autruche, chambre au sous-sol du siège, débuts avec Rounard et échec face à l'hôtel des ventes, recommandé à la Meute par Rounard, cour à Luppa écartée par Viviane, Méli et Mélo recueillis à 8 ans (627) et envoyés à Pont-la-Plaine peu avant P, Cousette, regard sur Remus (hybride comme lui), rapports cordiaux avec Rounard, savoirs, angles morts
-- Meli_et_Melo.md (W3) - fiche commune ; tanukis jumeaux, 13 ans à P (ENFANTS : hors champ sexuel), protégés de Nook, magasin de Pont-la-Plaine ; physique, écho, prix fixes et cœur tendre, cartes, sous-sol à lits superposés, orphelins du Bas, foyer clandestin, sauvette, recueil à 8 ans, succursale rachetée à la famille d'Amiral, savoirs (le passé de Nook), angles morts
+- Max.md (W2) - jumeau cadet de Marie, shih tzu, cadre Nook ; gérant de l'agence du village, deux jours au siège, chef de Lionel, appartement contre salaire réduit, naïf sur Nook
+- Tom_Nook.md (W4) - patron de Nook Inc., tanuki, 46 ans, né 30/05/586 ; physique, avarice et pragmatisme, autruche, chambre au sous-sol du siège, débuts avec Rounard et échec face à l'hôtel des ventes, départ pour Lupus à 18 ans (604), recommandé à la Meute par Rounard, cour à Luppa écartée par Viviane, Méli et Mélo recueillis à 8 ans (627), boutique d'Amiral rachetée pour eux le 01/05/632, Cousette (lettres de loin en loin), regard sur Remus (hybride comme lui), rapports cordiaux avec Rounard, savoirs, angles morts
+- Meli_et_Melo.md (W4) - fiche commune ; tanukis jumeaux, 13 ans à P (ENFANTS : hors champ sexuel), protégés de Nook, magasin de Pont-la-Plaine ; physique, écho, prix fixes et cœur tendre, cartes, sous-sol à lits superposés, orphelins du Bas, foyer clandestin, sauvette, recueil à 8 ans, boutique indépendante de la famille d'Amiral rachetée le 01/05/632, savoirs (le passé de Nook), angles morts
 - Lionel.md (W4) - évaluateur des intérieurs à Nook Immobilier, loutre, 34 ans, né 06/06/598 ; physique, repenti, esthète, frustré par Max, faux sourire, domicile-vitrine sous l'agence, jeu de l'évaluation, passé avec Rounard et carte de visite, Lou et Paradis sur mesure (filiale), savoirs, angles morts
 - Rounard.md (W2) - pègre de Lupus, renard, 47 ans ; physique et tenue (gants de latex), vengeance d'un renard traité en déchet, canon "cousin", règle des prix, parano et portes de sortie, peigne fin, poules Anthros, dort dans la cale de son bateau, clientes à ristourne, fournisseurs (mafia Crocodile, sans-papiers et endettés), débuts avec Nook, Lionel, regards sur Nook, la Meute, Remus
 - Tortimer.md (W3) - ancien maire de Pont-la-Plaine (546-632), tortue, 111 ans, né 31/12/520 ; physique, vrai bon maire, conservateur, jus de fruits, Tortiland, nommé par l'Alpha de 546, réalisations et financement participatif, éviction du 09/06/632 et ses raisons, passation de la broche, regards sur la Meute et Remus, famille d'Amiral, Cornimer en réserve
