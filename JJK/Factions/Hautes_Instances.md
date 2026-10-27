@@ -1,6 +1,6 @@
 # Hautes Instances
 
-- version : W7
+- version : W8
 
 ## Nature
 - Canon : le sommet conservateur et sans visage du monde de l'exorcisme - elles emettent les ordres (executions comprises), pesent en politique, et sont adossees aux trois grandes familles. Elles tronent AU-DESSUS des deux universites : les universites en derivent (gouvernance), comme elles derivent de Tengen (barrieres). Cf. Personnages/Tengen.md.
@@ -35,6 +35,7 @@
 |---|---|---|
 | nuit 31 oct - 1 nov 2018 (C3_2) | Après Shibuya : Satoru déclaré complice et banni (le libérer devient illégal) ; Yaga condamné à mort ; Yuta désigné bourreau de Yuji ; Geto condamné à mort | - |
 | 1 nov 2018, matinée (C3_3) | Convoquées par Nisha, avec Yaga (Panda absent) : le secret des corps autonomes contre la vie de Yaga et un nouveau sursis pour Yuji (tant qu'il n'avale aucun nouveau doigt avant le retour de Satoru, le couple tenant Sukuna pour arrêtable à coup sûr) ; bannissement de Satoru LEVÉ sous menace de mort de toute la salle (Gakuganji et Yaga jubilent) ; hors des affaires de clans pour quelques jours, sous la même menace | mains liées |
+| 2019 - 2024 (D5) | Elles tiennent toujours, avec un âge moyen de 70 à 80 ans ; certaines règles survivent au nouveau monde, au regret de Nori et de Gakuganji | - |
 
 ## Place dans le focus
 - Plafond institutionnel au-dessus des protagonistes : elles sanctionnent, ordonnent, temporisent. Conservatrices par nature.

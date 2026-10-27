@@ -1,6 +1,6 @@
 # Nobara Kugisaki
 
-- version : W5
+- version : W6
 
 Fiche noyau (canon + RP), entité entrant en scène en juin 2018 (ère C) : élève de Satoru à Tokyo (promo 2018-2021). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -57,6 +57,7 @@ Fiches propres : cf. Personnages/Yuji.md, Megumi.md, Satoru.md, Nisha.md. Ici, s
 | 31 oct 2018 (C2_5) | Shibuya : Mahito la touche au visage ; Arata Nitta fige la blessure, Shoko prend le relais. [DIVERGENCE RP] Elle survit ; perd l'œil gauche (canon) | mutilée ; convalescence |
 | nuit 31 oct - 1 nov 2018 (C3_1) | Au campement de Shoko ; Nisha aide aux soins | convalescence |
 | 14 nov 2018 (D4) | Revient tard sur le front de Sukuna, borgne, à peine convalescente (comme au canon) | - |
+| mars 2021 (D5_1c) | Diplômée ; remplace Yaga à la 3e année de Tokyo | professeure 3A Tokyo |
 
 ## Notes de frontière
 - Peintures Mortes et Shibuya : portés en Trajectoire datée. [DIVERGENCE RP] Elle survit à Shibuya et se trouve en convalescence à Saitama en ère D, puis revient tard sur le front de Sukuna (cf. Trajectoire datée).

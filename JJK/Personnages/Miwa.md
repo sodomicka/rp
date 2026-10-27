@@ -1,6 +1,6 @@
 # Kasumi Miwa
 
-- version : W8
+- version : W9
 
 Fiche noyau (canon + RP), entité entrant en scène en B3 (2017) comme élève de 1re année à Kyoto. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -50,6 +50,8 @@ Fiches propres : cf. Personnages/Utahime.md, Nisha.md. Ici, seul le rapport à M
 | avr 2018 (B3_5) | Passe en 2e année (sous Nisha). Chantier perso : FRAPPER LA PREMIÈRE - son seul avantage dans un échange est le premier coup ; quand elle ne l'a pas, elle n'a rien. Nisha l'attaque à vitesse bridée, Miwa doit avoir dégainé avant l'impact, la Chronostase tenant lieu de chronomètre - la bride se resserre à mesure que le Batto s'affine. En cours à la frontière (cf. Pedagogie/Perso_Kyoto_2017-2020.md) | chantier perso : dégainer d'abord ; -> seuil ère C |
 | sept 2018 (C1_5) | Amicale à Tokyo (2A de Nisha) ; crush sur Satoru, remis à sa place par Nisha (zone créable) ; attaque d'Hanami | - |
 | 14 nov 2018 (D4) | Shinjuku, front Nozomu, au sabre : le premier coup | - |
+| mars 2019 (D5_1c) | Diplôme express (2e année de la guerre) | exorciste pro |
+| 2019 - 2024 (D5) | Contractante affiliée à la Kukuru, sans être devenue Zenin | contractante Kukuru |
 
 ## Notes de frontière
 - Ères C et D : portées en Trajectoire datée ; détail -> Roadmap/Nisha/Roadmap_C1.md (C1_5), Roadmap_C2.md (zones créables : Muta et Miwa face à face, les cours de Kyoto), Roadmap_C3.md (Kyoto à Shibuya), Roadmap_D4.md (front Nozomu).

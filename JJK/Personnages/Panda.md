@@ -1,6 +1,6 @@
 # Panda
 
-- version : W11
+- version : W12
 
 Fiche noyau (canon + RP), entité NÉE au cours de l'arc B1 (2011). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. État noyau décrit = ce que Panda EST dès sa naissance ; son devenir post-2011 est consigné en Trajectoire datée (télégraphique ; détail -> roadmaps). Corps maudit en croissance sur tout B1 : scaling de combat non pertinent (à maturité seulement).
 
@@ -69,6 +69,8 @@ Fiches propres : cf. Personnages/Yaga.md, Nisha.md, Maki.md. Ici, seul le rappor
 | ~4 nov 2018 (D2_3, D2_4) | Entre dans Tokyo n°2 avec Nisha, séparé d'elle par la téléportation de la barrière. Face à Kashimo (canon : bras arraché) ; la sœur, le Tricératops, ne paraît que lorsque Nisha arrive en vue ; Nisha tue Kashimo. [DIVERGENCE RP vs canon] Les trois noyaux restent intacts | sauvé par sa mère |
 | 6 nov 2018 (D2_5) | Sort du jeu, neutre (loyer de 5 points par jour, payé par les tueurs du camp) ; son bras arraché par Kashimo est recousu par son père dès la sortie de l'arène : comme neuf quand Nisha revient de la sienne | hors de la Traque |
 | 14 nov 2018 (D4_3, D4_4) | Shinjuku : première cible de Nozomu (l'enfant de Yaga et de Nisha) ; Nisha s'interpose. Âme pure, épargné par la Flagellation du Bourreau | - |
+| mars 2019 (D5_1c) | Diplôme express (2e année de la guerre) | exorciste pro |
+| 29 fév 2024 (D5_3) | Invité par Nisha au repas Kamo ; il vient | - |
 
 ## Graines plantées en B1 (à NE PAS détoner avant l'ère prévue)
 - T-Âmes : la naissance de Panda établit que Nisha PARTAGE le savoir de créer un être doté d'une âme autonome. Dans le canon, ce secret condamne Yaga (exécution post-Shibuya). [DIVERGENCE RP] Nisha hérite du même danger. DÉTONÉ hors de sa présence (C3_3). cf. fiche Yaga, SB8.

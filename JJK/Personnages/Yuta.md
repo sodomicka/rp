@@ -1,6 +1,6 @@
 # Yuta Okkotsu
 
-- version : W12
+- version : W13
 
 Fiche noyau (canon + RP), entité entrant en scène en cours d'année 2017 (B3) comme élève de l'université de Tokyo. Rika intégrée à cette fiche. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -56,6 +56,8 @@ Fiches propres : cf. Personnages/Satoru.md, Nisha.md. Ici, seul le rapport à Yu
 | aube 1 nov 2018 (C3_2, C3_4) | Rentré d'Afrique en éclair (Chronokinésie copiée) sur ordre des Instances, désigné bourreau de Yuji ; son bang supersonique alerte Nisha. Il lui rapporte les décisions des Instances, ils cherchent Yuji ensemble ; elle l'en dissuade (les Instances auront de quoi se mettre sous la dent, d'autres menaces pressent). Chez Tengen à midi (canon) | de retour au Japon ; ~15 doigts |
 | nov 2018 (D2) | Colonie de Sendai (canon), seul ; tueur, ramasse des points pour la neutralité des sortants | - |
 | 14 nov 2018 (D4) | Shinjuku, front Sukuna, au contact (Rika, Copie, Chronokinésie copiée) | - |
+| mars 2019 (D5_1c) | Diplôme express (2e année de la guerre) | exorciste pro |
+| 2020 - 2024 (D5) | Au repas bissextile de 2020 comme petit ami de Maki. Officiellement reconnu Gojo, greffé à la branche principale par Satoru. Grade Spécial. En 2024, prévoit de demander Maki en mariage ; Nisha lui déconseille de le faire en public | Gojo ; Grade Spécial |
 
 ## Notes de frontière
 - Ères C et D : portées en Trajectoire datée ; détail -> Roadmap/Nisha/Roadmap_C3.md (C3_2, C3_4), Roadmap_D2.md (Sendai, hors POV), Roadmap_D4.md (front Sukuna).

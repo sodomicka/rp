@@ -1,6 +1,6 @@
 # Ranta Zenin
 
-- version : W11
+- version : W12
 
 Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat = jusqu'au point de depart (2005). Devenir post-2005 -> roadmap.
 
@@ -44,6 +44,7 @@ Fiche noyau. Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE
 | sept 2005 | Tournoi des Universites Jumelees (hote Kyoto) J1 : avec Naoya, fait tomber Geto, puis elimine par Gojo ; J2 : se desiste avec Utahime (supports, refusent d'affronter un prodige) | -- |
 | 1 nov 2018 (D1) | Coup d'Etat : cru acquis par les conservateurs, se bat aux cotes de Mai contre la Kukuru et une partie du Hei, les yeux en sang (surmenage du Regard Paralysant) ; accules jusqu'a l'arrivee de Maki. Survit | aux cotes de Naoya patriarche |
 | 14 - 28 nov 2018 (D4) | Shinjuku, front Nozomu : contrôle (Regard Paralysant). Membre du nouveau conseil Zenin | conseil Zenin |
+| 2019 - 2024 (D5) | Dirige le Hei, orienté interventions contre des fléaux d'élite | chef du Hei |
 
 ## Notes de frontiere (hors noyau)
 - Devenir post-2005 : la mort canon au massacre de Maki est CADUQUE - le massacre est remplace par le coup d'Etat post-Shibuya, dont Ranta est l'un des ACTEURS aux cotes des deux paires de jumeaux (cf. BIBLE SB8). Survit au coup d'Etat du 1er nov 2018, aux cotes de Naoya (cf. Trajectoire datee, Roadmap/Nisha/Roadmap_D1.md).

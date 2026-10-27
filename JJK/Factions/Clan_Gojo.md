@@ -1,6 +1,6 @@
 # Clan Gojo
 
-- version : W9
+- version : W10
 
 Page = faction fondatrice du monde. Faits canon non balisés (niveau établi) ; couche RP balisée [DIVERGENCE RP]. Résumé condensé en BIBLE SB4. État décrit = structure atemporelle + point de départ du RP (2005). Devenir post-2005 (transcendance de Satoru en 2006, suite) -> roadmap, hors de cette page neutre.
 
@@ -56,6 +56,7 @@ Page = faction fondatrice du monde. Faits canon non balisés (niveau établi) ; 
 [DIVERGENCE RP] sur la structure ; ancrage canon : Michizane est l'ancêtre commun de Satoru Gojo et de Yuta Okkotsu (JJK 0).
 - Branche principale (Sugawara -> Gojo) : porte le cumul Infini + Six Yeux. Lignée du guerrier parfait.
 - Branche Fujiwara -> Okkotsu : scindée des Sugawara après une mutation rendant l'Infini bénin ; l'Infini y est ensuite PERDU. (Ironie voulue : dans l'Histoire, les Fujiwara firent chuter et exiler Michizane.) Retour tacite de l'Infini sous forme de COPIE avec Yuta Okkotsu (cf. Personnages/Yuta.md). Cf. Cosmogonie.
+- [DIVERGENCE RP] 2019 - 2024 (D5) : Kento Gojo-Zenin, fils de Satoru, porte les Six Yeux en même temps que son père [DIVERGENCE RP vs canon : un seul porteur à la fois] (cf. Personnages/Kento.md). Yuta Okkotsu, officiellement reconnu Gojo, est greffé à la branche principale par Satoru. Aux repas bissextiles, les Gojo siègent en clan dès 2024 (invités en 2016 et en 2020).
 
 ## Place de Satoru dans le clan
 - [DIVERGENCE RP] Satoru n'appartient pas à ses parents : ceux-ci s'effacent. Il appartient au clan - ou plutôt, le clan lui appartient. Il n'est à personne et à tout le monde. Aucun autre Gojo nommé ne compte à côté de lui.

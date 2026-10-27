@@ -1,6 +1,6 @@
 # Satoru Gojo - Chronologie datée, ères B à D (2008-2018)
 
-- version : W11
+- version : W12
 
 Extension de Personnages/Satoru.md. Contient la TRAJECTOIRE DATÉE post-départ de Satoru pour les ères B, C et D (hiver 2008 -> nov 2018). Le nom de page garde le suffixe _B ; pas de scission prévue. NB : l'ère A de Satoru reste dans Personnages/Satoru.md (Trajectoire datée non scindée à l'époque) ; scission de l'ère A optionnelle. Strate canon par défaut, télégraphique. Build-side : fetchée à la demande, JAMAIS chargée en narration. État : ères B, C et D posées.
 
@@ -32,6 +32,7 @@ Extension de Personnages/Satoru.md. Contient la TRAJECTOIRE DATÉE post-départ 
 | 1 nov 2018 (C3_2, C3_3) | Déclaré complice de Shibuya et BANNI par les Instances dans la nuit (le libérer devient illégal) ; bannissement LEVÉ le matin même sous la menace de Nisha | scellé ; libérable légalement |
 | 11 nov 2018 (D3) | Sort de la Lisière, ouverte par Yukiko au palais Kamo en trois jours. Nisha craque enfin ; il la rassure. Elle lui raconte tout et lui avoue que c'était ça, la vente en échange de Tsumiki : il l'a vécu, plus la peine de le lui cacher ; l'aveu confirme ce qu'il avait compris, et donne le pourquoi | LIBRE ; T-Secret-Naoya détoné ; fils pris par Sukuna -> D4 |
 | 12 - 28 nov 2018 (D4) | SHINJUKU. Le 14, le couple (~28,9 en duo) contre Sukuna dans Megumi (27) : ils manquent de peu de ramener leur fils et abattent Mahoraga à deux. Le plan de repli prévu pour Mahoraga coupe la guerre en deux : Satoru et Tokyo contre Sukuna et ses shikigamis. Rejoint par Nisha, assaut simultané, par choix : deux Extensions sur le timing d'un Rayon Noir, naissance de la Sphère de l'Espace-Temps Infini ; Sukuna tué dans son territoire intérieur, Megumi libre. Le 28, au chevet de Nisha avec Naoya : tout le monde va bien | survit, ENTIER, toujours numéro 1 |
+| 2019 - 2024 (D5) | Tient toujours la 1re année à Tokyo. Kento naît le 31 oct 2019 ; à ses 4 ans, les Six Yeux du fils s'allument, et Satoru lui apprend à gérer le flux. Repas bissextile de 2020 : encore invité, en époux de Nisha. Entre 2020 et 2024 [date non fixée], greffe Yuta à la branche principale Gojo. 2022 : surveille avec Nisha le domptage de Mahoraga. Repas de 2024 : les Gojo siègent en clan | père ; Grade Spécial |
 
 ## Pointeurs
 - Noyau + Trajectoire datée ère A : cf. Personnages/Satoru.md.

@@ -1,6 +1,6 @@
 # Résumé - JJK
 
-- version : W11
+- version : W12
 
 Page = RÉSUMÉ AUTOSUFFISANT de l'univers et de son histoire, telle qu'établie (canon + divergences actées). Conçue pour être lue SEULE, hors du système BIBLE + WIKI : elle ne renvoie à rien qu'elle ne dise elle-même. Usage : exporter l'univers vers un projet qui n'a pas la BIBLE.
 

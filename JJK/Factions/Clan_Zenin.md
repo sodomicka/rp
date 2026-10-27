@@ -1,6 +1,6 @@
 # Clan Zenin
 
-- version : W18
+- version : W19
 
 Page = faction fondatrice du monde. Faits canon non balisés (niveau établi) ; couche RP balisée [DIVERGENCE RP]. Résumé condensé en BIBLE SB4. État décrit = structure atemporelle + point de départ du RP (2005), plus les bascules DURABLES du clan (gouvernance de l'ère D, accès aux archives hors clan), posées en une ligne chacune. Le déroulé daté (morts, coup d'État, scènes) -> roadmap et fiches perso.
 
@@ -34,6 +34,7 @@ Page = faction fondatrice du monde. Faits canon non balisés (niveau établi) ; 
 [DIVERGENCE RP] Argument de légitimité concurrent : une lecture traditionaliste veut que le siège revienne au PORTEUR DES DIX OMBRES, le sort greffé valant emblématiquement pour la maison entière. Argument dormant tant qu'aucun porteur ne vit dans le clan - il ne coûte rien de le brandir quand il ne désigne personne. Iconographie du clan : cf. section Iconographie et tenue ci-dessous (le kamon figure les Dix Ombres).
 
 [DIVERGENCE RP] Ère D : le coup d'État du 1er nov 2018 met fin au conseil Naobito-Ogi-Jinichi (Naoya patriarche). Après Shinjuku (D4), nouveau conseil : Naoya, Nisha, Ranta, Maki et Mai. Megumi, porteur des Dix Ombres, refuse d'y siéger.
+[DIVERGENCE RP] 2019 - 2024 (D5) : Kyoto devient le terrain de chasse du clan ; seuls les Grade Spécial sont laissés aux pros hors clan. La Kukuru (Maki) est orientée vers les fléaux de Grade 3 au plus, le Hei (Ranta) vers l'élite ; Momo et Miwa y sont contractantes, sans devenir Zenin. Mai épouse le patriarche Kamo (2019). Le 29 fév 2024, Naoya fait tomber la moitié conservatrice du credo : il ne reste que « les forts protègent les faibles ».
 
 ## Iconographie et tenue
 [DIVERGENCE RP] (le canon ne fixe ni kamon ni tenue propre au clan).
