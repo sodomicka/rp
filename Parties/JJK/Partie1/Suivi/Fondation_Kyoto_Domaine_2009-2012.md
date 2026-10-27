@@ -1,7 +1,7 @@
 # La fondation, suite : éveil, chaire vide, pivot (B1_2 à B1_4) - Mémoire refroidie (Partie1)
 
 - partie : 1
-- version : W1
+- version : W2
 
 Mémoire refroidie : les scènes closes du sam 11 avr 2009 au lun 2 avr 2012 (B1_2, B1_2bis, B1_3, B1_4), et ce qui sort durablement de scène : cibles des missions, soirée Shoko, détail des leçons et de la naissance de Panda. Ce qui reste vivant (Megumi et ses chiens, promesse sur Mahoraga, jumelles à 40/60, Panda, Nitta, accord avec Yaga) est au CODEX. Froid : fetch à la demande. Fiches de lore : cf. WIKI Personnages/<Nom>.md.
 
@@ -38,7 +38,18 @@ Mémoire refroidie : les scènes closes du sam 11 avr 2009 au lun 2 avr 2012 (B1
 - Avril 2011 : Nitta entre en 1re année chez Utahime.
 - Mar 12 juil 2011, naissance de Panda : appel de Yaga (~20 h 45), Mach 0,9, bureau-atelier au bâtiment de la direction de Tokyo. Accord (cf. CODEX). Sphère déployée ; trois noyaux figés d'un coup, cousus en ~3 h subjectives ; principe : trois noyaux qui se regardent, trois bâtons. Premiers mots : « …C'est violet. » ; « T'as les mains qui sentent la colle. » Tricératops puis Gorilla se montrent ; réserves à sec, une horloge du dôme s'arrête ; rupture. Appel de Naoya (« J'ai un gamin de plus ») ; Panda : « BONSOIR. C'EST QUI, LE FRÈRE ? » Cinq canettes, des pains au melon du distributeur. Satoru par contraction : « Trois. Ils sont trois là-dedans, et ils tiennent tout seuls. » Panda : « Il a la main qui sent le bonbon aussi. » - « Félicitations, Directeur. » Satoru ramène Nisha sur son dos.
 - Sept 2011 : Panda au domaine, haori trop grand ; Mai crie, Maki lui tend un sabre de bois, Naoya : « Hm » ; Megumi et lui font courir les chiens ; Tsumiki ouvre un carnet pour lui.
-- Repères : 7 déc 2011, 6e bandeau ; 30 jan 2012, 19e couteau, 6e collier ; 29 fév 2012, échecs payés à Yukiko, perdus en vingt-deux coups, Naoya en perd trois.
+- Repères : 7 déc 2011, 6e bandeau ; 30 jan 2012, 19e couteau, 6e collier.
+
+## Le repas bissextile (mer 29 fév 2012, Kibune) - retcon joué au CODEX V18
+- Chiryu no Kyuden dans la brume : piliers laqués rouge, toits anthracite, érables rouges en hiver, marbre noir, pivoine coupée et encens.
+- Satoru reste à Saitama : « Les clans, c'est vos histoires, princesse. Moi, je garde la maison. » Utahime absente.
+- Megumi et Tsumiki en kimono gris au liseré violet ; Tsumiki a demandé si une profane pouvait entrer chez les Kamo, et repassé son kimono elle-même.
+- Salle du trône : Noriaki sous ses dragons, Yasashiku à l'assise consort ; Naobito, Naoya, Ogi en face ; Gakuganji entre les deux clans. Un serviteur envoie Tsumiki au rang des accompagnants ; Nisha : « Elle mange avec moi. » Un coussin apparaît entre elle et Megumi ; Ogi serre la mâchoire.
+- Yukiko arrive la dernière (kimono anthracite aux pivoines éteintes, obi rouge sang, tanto dans l'obi), revue pour la première fois depuis 2005 : « Tu as raté un repas. Dans ce palais, on appelle ça une offense. » - « J'avais mieux à faire. » - « On m'a dit beaucoup de choses. » Elle ne dit pas qui.
+- Noritoshi, 14 ans, catogan, visage grave : salue Nisha à la juste profondeur ; à Megumi : « Les Dix Ombres. On en parle, chez nous. » ; le coussin refusé : « Ils ont voulu m'acheter. » Il s'incline aussi devant Tsumiki, à la même profondeur ; murmure côté Kamo ; Yukiko regarde son frère, pas poliment.
+- Repas : Naobito parle de « ton Gojo » sans être repris ; Gakuganji pèse les deux patriarches.
+- Cousinade au pavillon du jardin : échecs payés à Yukiko, perdus en vingt-deux coups (piège posé au 6e, vu au 19e) ; Naoya en perd trois et jure au troisième. Nori sort un shogi pour Megumi, qui perd, demande les règles, redemande. Tsumiki compte les coups des deux tables.
+- Retour de nuit : Megumi a un pion de shogi de Nori, « pour la prochaine fois ».
 
 ---
 FIN_PARTIES_SUIVI_FONDATION_KYOTO_DOMAINE

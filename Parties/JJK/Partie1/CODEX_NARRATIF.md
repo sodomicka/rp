@@ -12,7 +12,7 @@
   note: les tampons OOC (§5) et interdits (§6) utilisent [V<n>], pas la date.
 - codex_version: V18
 - plafond: 81 000 car. (barème : min(30 000 + 3 000 x (N-1), 90 000))
-- taille au build: 37302 car. (46 % du plafond(N))
+- taille au build: 38004 car. (47 % du plafond(N))
 - thread source: Partie JJK : B1 la pédagogue | cmsg_01MY5EoYgecDdhQvUijNYPy6NgnusmLNpkuC3s6WkijMrf
 - spec au build: SPEC_CODEX v8.10 (source: GitHub)
 - bible_lore: BIBLE_LORE_JJK.md
@@ -74,7 +74,7 @@ Instance : ICI + Parties/Suivi. Entité : cf. WIKI Personnages/Nisha.md.
 - [V11-V12] - Naobito l'a tenue hors du Plasma ; quatre billes sur Toji, intactes. | SAVOIRS
 - [V14-V18] - Figures du joueur dans son sens ; fait faux corrigé ; faute MJ éditée en place ; calcul juste jamais commenté. | STYLE
 - [V17] - « Nisha n'a rien à cacher » : couple dit librement. Après relecture de compression, narrer sans redemande. | SAVOIRS
-- [V18] - Rentrée : premier jour ouvré d'avril (lun 2 avr 2012, pas le 9). Dix Ombres : chantier du joueur ; en jeu, fiche Megumi seule. | CHRONO, PNJ
+- [V18] - Rentrée : premier jour ouvré d'avril (lun 2 avr 2012, pas le 9). Repas bissextile du 29 fév 2012 joué en retcon (cf. CHRONO). Dix Ombres : chantier du joueur ; en jeu, fiche Megumi seule. | CHRONO, PNJ
 
 ### §6 Interdits accumulés
 - [V1] - Nozomu : mort hors champ, jamais magnifiée ; doctrine jamais romantisée.
@@ -117,7 +117,8 @@ Fiches complètes : cf. WIKI Personnages/<Nom>.md. Ici : voix, rapport à Nisha,
 
 ### Secondaires
 - Doyen Zenin - siège Zenin des Instances | voix: lente, presque bienveillante ; tutoie Nisha | humeur lourde, de clan
-- Yukiko Kamo - princesse Kamo, promo de Naoya | voix: politesse parfaite, douceur moqueuse | confidente sous pacte (cf. ANNEXE_SAVOIRS) ; seule avec Ijichi au-dessus de Nitta, pour Nisha
+- Yukiko Kamo - princesse Kamo, promo de Naoya | voix: politesse parfaite, douceur moqueuse | confidente sous pacte (cf. ANNEXE_SAVOIRS) ; revue le 29 fév 2012, première fois depuis 2005 : « Tu as raté un repas… On m'a dit beaucoup de choses » ; seule avec Ijichi au-dessus de Nitta, pour Nisha
+- Noritoshi Kamo - frère de Yukiko, 14 ans (2012), catogan | voix: grave, sérieuse, questions nettes | s'incline devant Tsumiki comme devant Megumi ; shogi avec Megumi
 - Ranta Zenin - Hei | voix: sincère, timide ; « Dame Nisha » | relais de Naoya auprès des jumelles ; le prochain Zenin « trop doux » ; regarde l'eau des jardins le soir
 - Vieux jardinier du domaine - jardins du nord-ouest | voix: fine, usée, accent de Kyoto | doux, sourit à Nitta
 - Propriétaire de la R33 - Tatsumi, trentaine, combinaison de mécano | voix: gouailleuse, bon prince | a offert à Nitta le volant d'un prochain run ; croit Nisha « la grande sœur »
@@ -164,6 +165,7 @@ Fiches complètes : cf. WIKI Personnages/<Nom>.md. Ici : voix, rapport à Nisha,
 - avr -> juil 2009 : lunettes de Tsumiki ; couple dit à Naobito ; éveil des chiens ; premier refus de Megumi, promesse sur Mahoraga ; leçons du samedi.
 - avr 2009 -> 2011 (rapide) : sale boulot, cours écrits pour personne, Okaruto lancé, soirée Shoko.
 - 2011 : 2c1 de Naoya, pivot des jumelles à 40/60 ; accord avec Yaga, Panda né ; Nitta en 1re année.
+- mer 29 fév 2012 (retcon [V18]) : repas bissextile à Kibune ; Megumi et Tsumiki à table (« Elle mange avec moi »), Satoru resté à Saitama ; Nori salue les deux gosses, shogi avec Megumi ; échecs perdus en vingt-deux coups.
 - lun 2 avr 2012 : saké de rentrée, Nitta inscrite et défendue par Gakuganji.
 
 ### Threads antérieurs (une ligne par arc résolu)
@@ -218,7 +220,8 @@ Index de Parties/ : cf. PARTIES Sommaire_Jeu.md (tenu par le build, fetché à l
 - Carnets de Tsumiki - cahier bleu (vieille clé, lacet de Satoru) ; carnet des temps des chiens ; carnet de l'Okaruto : onze pages d'archives, page « dimanche, pente de la forge », « si Megumi gagne », une ligne cachée [INCERTAIN] | Tsumiki
 - Okaruto Shinbun - blog d'horreur de Tsumiki | 23 histoires, aucun nom | Tsumiki | T-Okaruto
 - Page du cerbère - pliée en quatre | Nisha | cadeau du 30 jan 2009
-- Caillou gris de l'érable ; peluche grise à dents de feutre | Megumi ; Tsumiki
+- Caillou gris de l'érable ; pion de shogi de Nori (« pour la prochaine fois ») | Megumi
+- Peluche grise à dents de feutre | Tsumiki
 - Souvenirs d'A1 : carte de Grade Spécial, clé de laiton, canette « Traité n° 2 », lunettes du pari | Nisha
 
 ---
@@ -233,6 +236,7 @@ Définitions : cf. BIBLE SB8 (non lue en jeu) ; résumé utile ici.
 - Récits dus à Naoya - ouverts : Panda (« PROMIS ») ; la journée Nitta (« Tout ») | 30 juin 2012
 - Nitta - active : patience payée (60 min) ; doctrine reçue ; reste le S2, la mission « ne pas bouger », l'examen de mars ; passeport à faire ; Tokyo en 2014 | 30 juin 2012
 - Rituel des détenteurs - planté : Sphère montrée en mars, après la théorie du domaine ; Nitta en mars 2013 | mars 2010
+- Nori et Megumi - planté : shogi, pion « pour la prochaine fois » | Kibune, 29 fév 2012
 - Garage de Tatsumi - planté : premier samedi du mois ; Nitta au volant d'un run, « entière » | 30 juin 2012
 - T-Tsumiki - planté : marque de Kenjaku ; Eien jubile en silence ; ne détone pas en B1 | 27 mars 2008
 - T-Okaruto - planté : archives ouvertes ; ce qui parle de la maison, remis à Naobito en main propre ; refusé, brûlé à la forge ; ce qu'elle voit de Megumi relève de Megumi | 16 juin 2012
