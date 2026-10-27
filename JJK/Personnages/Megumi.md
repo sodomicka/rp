@@ -1,6 +1,6 @@
 # Megumi Fushiguro
 
-- version : W14
+- version : W15
 
 Fiche noyau (canon + RP), entité entrant en scène à l'ouverture de l'ère B (2008). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. État noyau décrit = qui est Megumi à son entrée en scène (identité, nature, sort, psychologie, relations) ; son devenir post-2008 est consigné en Trajectoire datée (télégraphique ; détail -> roadmaps). Enfant sur tout B1 : scaling de combat non pertinent (potentiel seulement).
 
@@ -140,7 +140,9 @@ Fiches propres : cf. Personnages/Tsumiki.md, Nisha.md, Satoru.md, Toji.md, Naoya
 | 14 nov 2018 (D4_5) | Ne résiste jamais : la protection de Tsumiki tient. Sukuna se bat avec ses Dix Ombres (Totalité, nuée de lapins, Mahoraga). Ses parents abattent Mahoraga (l'ombre revient, indomptée), puis entrent dans le territoire intérieur de Sukuna par la Sphère de l'Espace-Temps Infini et démontent son squatteur sous ses yeux, comme Nisha l'avait fait pour Tsumiki (Yorozu, 2015) | LIBRE, vivant |
 | 28 nov 2018 (D4_5) | Refuse sa place au nouveau conseil Zenin | hors du conseil |
 | 2019-2021 (D5) | Montée en puissance : 15 doigts, Grade 1 ; attend de maîtriser Mahoraga pour prétendre au Grade Spécial | 15 doigts |
+| mars 2021 (D5_1c) | Diplômé, après ses deux années restantes | exorciste pro |
 | 2022 (D5) | Dompte Mahoraga SEUL avec ses shikigami ; ses parents surveillent dans le rituel sans frapper ; rideau de Yukiko, accord entre clans. Grade Spécial | 23 doigts ; arsenal des dix ombres |
+| 2019 - 2024 (D5) | Hors clan. Se fout royalement de l'amour. En 2024, Nisha lui dit combien elle est fière d'avoir un fils au niveau de Satoru | - |
 
 ## Graines plantées / armées en B1 (à NE PAS détoner avant l'ère prévue)
 - Rivalité de succession Naoya <-> Megumi : s'ARME en B1 (Megumi porte les Dix Ombres, élevé hors clan). Adossée au testament de Naobito : [DIVERGENCE RP] une lettre où le clan Zenin reconnaît le PORTEUR DES DIX OMBRES comme successeur légitime de Naobito - scellée, descellée seulement APRÈS Shibuya. Megumi, fils de Toji et porteur des Dix Ombres, en devient le bénéficiaire malgré son éducation hors-clan, en travers de Naoya (héritier de fait). En B1, rien ne détone : Megumi est un enfant, la lettre dort. Détonée : lue par Naoya dans la nuit du 31 oct au 1er nov 2018 (C2_5), soldée par le coup d'État (D1).

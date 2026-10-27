@@ -1,6 +1,6 @@
 # Choso
 
-- version : W6
+- version : W7
 
 Fiche noyau (canon + RP), entité entrant en scène en ère C (septembre 2018) : aînée des neuf Peintures Mortes, objet maudit incarné. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -52,6 +52,8 @@ Fiches propres : cf. Personnages/Eien.md, Kenjaku.md, Yuji.md, Noritoshi_Kamo.md
 | nov 2018 (D2) | Garde Tengen avec Tsukumo (canon), Nori à leurs côtés ; prend le temps de discuter avec Nori avant le palais | - |
 | 8 nov 2018 (D3) | Au palais avec Nisha et Nori ; harcèle Kenjaku à distance et le voit mourir (promesse de Nisha tenue). Reste avec les Kamo, et charge Nisha de dire à Yuji qu'il est lui aussi le bienvenu dans ce clan | au clan Kamo |
 | 14 nov 2018 (D4_4) | Shinjuku : sang à distance, couvre les deux fronts. Apporte à Nisha son frère Yuji mourant, que sa mère Eien rembobine dans son Jardin avant de mourir | - |
+| 2020 (D5_1c) | Avec Yukiko et Nori, juge son frère Yuji le plus à même de porter les six dernières Peintures Mortes, ses propres frères | - |
+| 2019 - 2024 (D5) | Voyage de par le monde avec Yuji ; insiste pour qu'il vienne au repas Kamo de 2024 | - |
 
 ## Notes de frontière
 - Ce qu'il sait de sa mère avant d'entrer dans le Jardin : [non fixé].

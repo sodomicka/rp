@@ -1,6 +1,6 @@
 # Tengen
 
-- version : W7
+- version : W8
 
 ## Identité
 - Tengen, l'immortel. Pilier des barrières du monde de l'exorcisme, non combattant.
@@ -39,6 +39,7 @@
 - Ce sont les deux retards récents, Tsukumo puis Riko, qui l'ont fait dégénérer.
 - Ce qu'est l'assimilation, personne ne le sait, sauf Tengen (comme au canon).
 - Toujours vivant au 28 nov 2018, et gardien des barrières des écoles.
+- Depuis la guerre (D5) : plus fléau qu'humain, mais toujours vivant et gardien des barrières des écoles, nourri par des Plasmas Stellaires qui conservent le statu quo de son état dégénéré. Ils lui sont amenés en mission sérieuse mais discrète, sans aucun problème.
 
 ## Scaling
 - Hors classement de combat : non combattant. Sa puissance n'est pas martiale mais structurelle (barrières, immortalité). À ne pas ranger sur l'échelle des doigts de Sukuna.

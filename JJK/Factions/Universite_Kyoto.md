@@ -1,6 +1,6 @@
 # Universite d'Exorcisme de Kyoto
 
-- version : W10
+- version : W11
 
 Page = faction du monde (institution). Faits canon non balises (niveau etabli) ; couche RP balisee [DIVERGENCE RP]. Resume condense en BIBLE SB4.
 
@@ -30,6 +30,7 @@ Page = faction du monde (institution). Faits canon non balises (niveau etabli) ;
 - Nisha Zenin : professeure de deuxieme annee.
 - Mei Mei : professeure de troisieme annee des la rentree avr 2013, recrutee au resto a quatre Utahime/Nisha/Yukiko/Mei Mei (mars 2013, Ui Ui et Noritoshi en accompagnants ; l'idee emerge de la discussion a trois) - chaire d'abord offerte par Gakuganji a Yukiko Kamo, qui n'acceptait que pour l'annee ou son frere serait en 3e annee (2018-2019) ; Nisha a ricane et cherche une prof sans favoritisme aussi extreme (cf. Personnages/Yukiko.md). En 2018-2019, Yukiko assiste au fond de la classe en observatrice, comme Ui Ui. Meme rentree que le decumul de Yaga a Tokyo (-> Nanami ; cf. Factions/Universite_Tokyo.md). [DIVERGENCE RP vs canon] (Mei Mei est une exorciste freelance dans le canon, pas une enseignante).
 
+- Ère D5 : diplôme express de mars 2019. Mei Mei démissionne, Muta reprend la 3e année ; Nisha tient toujours la 2e année.
 ## Rituel des detenteurs de domaine
 [DIVERGENCE RP]
 - Pratique des professeurs qui possedent une Extension de Territoire : ils MONTRENT leur territoire aux eleves qui ont gagne leur confiance - deploye en passif, sans frapper. A Kyoto, Nisha le fait a la FIN DE LA 2e ANNEE, la sienne (Sphere du Temps Infini).

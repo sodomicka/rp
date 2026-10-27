@@ -1,6 +1,6 @@
 # Mai Zenin
 
-- version : W15
+- version : W16
 
 Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir). Canon + RP. Faits canon non balises ; couche RP balisee [DIVERGENCE RP]. Etat noyau decrit = jusqu'au point de depart (2005) ; devenir post-2005 en Trajectoire datee (detail -> roadmap).
 
@@ -48,6 +48,9 @@ Fiche noyau + Trajectoire datee (enrichie A2, B2 et B3 ; arcs ulterieurs a venir
 | nov 2018 (D2) | Sakurajima avec Maki, seules (hors POV) ; tueuses, ramassent des points pour la neutralité des sortants | - |
 | nov 2018, après le 8 (D3) | Traque finie, rentre au domaine Zenin | - |
 | 12 - 28 nov 2018 (D4) | Effort de guerre total. Shinjuku, front Nozomu, en symbiose avec sa jumelle ; les deux paires de jumeaux achèvent Nozomu. Membre du nouveau conseil Zenin | conseil Zenin |
+| mars 2019 (D5_1c) | Diplôme express (2e année de la guerre) | exorciste pro |
+| 2019 (D5_1c) | Nori lui demande timidement d'être sa concubine ; elle le tabasse presque : « épouse ou rien ». Date de mariage bloquée en trois semaines ; elle le raconte encore en 2024 | Mai Kamo-Zenin ; épouse du patriarche Kamo |
+| 2019 - 2024 (D5) | Grade Spécial 1, affiliée aux clans ; peut-être plus forte que sa « tata » Nisha | Grade Spécial 1 |
 
 ## Notes de frontiere (hors noyau)
 - Bascules du partage gemellaire et devenir au-dela de B3 (arc canon, lien avec Maki) : -> roadmap / arcs ulterieurs.

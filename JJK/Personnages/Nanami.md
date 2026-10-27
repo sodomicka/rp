@@ -1,6 +1,6 @@
 # Kento Nanami
 
-- version : W8
+- version : W9
 
 ## Identite
 - Kento Nanami, 1re annee a l'universite de Tokyo en 2006 (promo 2006-2009). Sous-classe de Gojo, Geto et Shoko.
@@ -26,6 +26,8 @@
 - Kiyotaka Ijichi - camarade de promo ([DIVERGENCE RP]).
 - [DIVERGENCE RP] Nisha Zenin - ils s'entendent bien. Contrairement au naif Haibara qu'elle raille, Nisha respecte la lucidite de Nanami : selon elle, son serieux aurait mieux trouve sa place a Kyoto (le pole conservateur). Elle admire surtout sa PONCTUALITE, etant elle-meme intraitable la-dessus. Respect mutuel, sans moquerie ni ironie.
 - [DIVERGENCE RP] Takuma Ino - son eleve de 3e annee (2017-2018), diplome en mars 2018, qui passe ensuite sous sa tutelle pleine (canon : Ino se reclame de Nanami apres son diplome ; la scolarite est une structuration RP, cf. Factions/Universite_Tokyo.md).
+- [DIVERGENCE RP] Satoru, adulte : Satoru l'adore ; Nanami l'aime bien et le respecte, sans réciprocité franche.
+- [DIVERGENCE RP] Postérité : Nisha et Satoru donnent son prénom à leur fils, Kento Gojo-Zenin (2019). [HOMONYME - À NE PAS CONFONDRE] Cf. Personnages/Kento.md.
 
 ## Etat au point de depart (1 avr 2006)
 - Vivant, 1re annee a la rentree de Tokyo, deja serieux et pragmatique. Grade 2. N'a connu ni Okinawa ni la perte de Haibara ; sa desillusion n'est qu'en germe.

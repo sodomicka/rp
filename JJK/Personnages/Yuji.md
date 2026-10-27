@@ -1,6 +1,6 @@
 # Yuji Itadori
 
-- version : W7
+- version : W8
 
 Fiche noyau (canon + RP), entité entrant en scène en juin 2018 (seuil de l'ère C) : réceptacle de Sukuna, élève de Satoru à Tokyo (promo 2018-2021). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -72,6 +72,9 @@ Fiches propres : cf. Personnages/Satoru.md, Megumi.md, Sukuna.md, Nisha.md. Ici,
 | 2 - ~4 nov 2018 (D2) | Match arrangé contre Panda, puis convainc Hakari (canon) ; entre avec Hakari et Megumi dans leur colonie (hors POV de Nisha). Higuruma l'affronte (canon) ; la règle du transfert consenti est celle de Nisha, pas la sienne | - |
 | 10 nov 2018 (D3, hors POV) | Saitama : Sukuna prend sa minute d'Enchain, tranche un doigt de Yuji où il concentre son âme et le fait avaler à Megumi (cf. Personnages/Sukuna.md). Rien ne reste en lui | ne porte plus Sukuna ; coincé en dedans pendant la scène, lourd soutien à prévoir |
 | 14 nov 2018 (D4_3, D4_4) | Shinjuku, front de Satoru (Rayon Noir). Chopé à la gorge par le loup de Sukuna, planqué dans une nuée de lapins ; Choso l'apporte mourant à Nisha. Eien, aux commandes du corps, ouvre le Jardin des Ères Mortes autour de lui et le REMBOBINE | mort et rembobiné |
+| 2020 (D5_1c) | Sur le jugement de Choso, Yukiko et Nori, avale les six dernières Peintures Mortes : seul capable de les manger sans que son âme soit écrasée, il les emportera à sa mort. Manipulation du sang ; son corps vieillira au ralenti, comme celui de Choso, sans que personne le sache encore | Manipulation du sang ; vieillissement au ralenti |
+| mars 2021 (D5_1c) | Diplômé, après ses deux années restantes, avec une évaluation de grade en respect de ses actes | exorciste pro |
+| 2019 - 2024 (D5) | Voyage de par le monde avec Choso pour mieux comprendre l'exorcisme. Garde le nom d'Itadori, par respect pour son grand-père, pour qui tout a commencé. Au repas Kamo de 2024 parce que Choso a insisté | - |
 
 ## Notes de frontière
 - Peintures Mortes et Shibuya : portés en Trajectoire datée (cf. Roadmap/Nisha/Roadmap_C2.md). Nouveau sursis : porté en Trajectoire datée (cf. Roadmap_C3.md, C3_3) ; Transfert de Sukuna : -> ère D.

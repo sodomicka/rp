@@ -1,6 +1,6 @@
 # Utahime Iori
 
-- version : W13
+- version : W14
 
 Page = fiche noyau (état atemporel / point de départ 2005). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Résumé condensé en BIBLE SB5.
 
@@ -65,6 +65,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport à 
 | avr 2017 (B3) | LA RELÈVE : 1re année 2017-2018 : Mai Zenin, Kasumi Miwa, Kokichi Muta (Mechamaru), promo 2017-2020 | classes pleines à nouveau |
 | 24 déc 2017 (B3_4) | Nuit des Cent Fléaux : garde les 1res années en sécurité à l'université pendant que Nisha, le clan Zenin et Gakuganji tiennent la vieille ville | rempart des cadets ; aucun mort de l'université |
 | 14 nov 2018 (D4) | Shinjuku, front Sukuna, soutien : rituel Zone Interdite, amplifié par Gakuganji | - |
+| 2019 - 2024 (D5) | Toujours en couple avec Yukiko | - |
 
 ## Notes de frontière (reporté hors de cette fiche neutre)
 - Diplôme 2007 ; carrière ; passage Semi-Grade 1 ; prof de 1re année à Kyoto (post-2008) -> roadmap / cf. Factions/Universite_Kyoto.md.

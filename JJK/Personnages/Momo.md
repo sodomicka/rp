@@ -1,6 +1,6 @@
 # Momo Nishimiya
 
-- version : W8
+- version : W9
 
 Fiche noyau (canon + RP), entité entrant en scène en B3 (2017) comme élève de 2e année de Nisha à Kyoto. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -47,6 +47,8 @@ Fiches propres : cf. Personnages/Nisha.md. Ici, seul le rapport à Momo.
 | avr 2018 (B3_5) | Passe en 3e année (sous Mei Mei). | -> seuil ère C |
 | sept 2018 (C1_5) | Amicale à Tokyo (3A de Mei Mei) : contre Nobara (canon) ; attaque d'Hanami | - |
 | 14 nov 2018 (D4) | Shinjuku, front Nozomu : balai, œil aérien | - |
+| mars 2019 (D5_1c) | Diplômée (promo 2016-2019) | exorciste pro |
+| 2019 - 2024 (D5) | Contractante affiliée à la Kukuru, sans être devenue Zenin | contractante Kukuru |
 
 ## Notes de frontière
 - Ères C et D : portées en Trajectoire datée ; détail -> Roadmap/Nisha/Roadmap_C1.md (C1_5), Roadmap_C3.md (Kyoto à Shibuya), Roadmap_D4.md (front Nozomu).

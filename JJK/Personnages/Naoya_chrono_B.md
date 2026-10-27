@@ -1,6 +1,6 @@
 # Naoya Zenin - Chronologie datée, ères B à D (2008-2018)
 
-- version : W11
+- version : W12
 
 Extension de Personnages/Naoya.md. Contient la TRAJECTOIRE DATÉE post-départ de Naoya pour les ères B, C et D (hiver 2008 -> nov 2018). Le nom de page garde le suffixe _B ; pas de scission prévue. NB : l'ère A (A1+A2) reste dans Personnages/Naoya.md (Trajectoire datée non scindée à l'époque) ; scission de l'ère A optionnelle. Strate canon par défaut, télégraphique ; le détail vit dans les roadmaps. Build-side : fetchée à la demande, JAMAIS chargée en narration. État : ères B, C et D posées.
 
@@ -26,6 +26,7 @@ Extension de Personnages/Naoya.md. Contient la TRAJECTOIRE DATÉE post-départ d
 | 1 nov 2018, après-midi (D1) | COUP D'ÉTAT. Court jusqu'au domaine (un quart d'heure) avec Nisha et Maki ; croise Ogi sans un mot (il revient aux jumelles) ; massacre en symbiose le reste du Hei (les trois aînés, Chojuro, Jinichi). Les survivants lui prêtent allégeance | PATRIARCHE du clan Zenin ; Ranta à ses côtés ; loyauté des Instances à jauger (Gakuganji acquis à Nisha) |
 | 7 - 8 nov 2018 (D3) | Apprend le banquet Kamo, convié avec sa jumelle ; le 8 au matin, prévient Nisha. Y vient pour ne pas éveiller de soupçons, et aide sa sœur à éclater Kenjaku : il l'a aidée à avorter en 2015 et retient le nom depuis, il DOIT être là | dette de 2015 soldée |
 | 12 - 28 nov 2018 (D4) | Effort de guerre total, front Nozomu avec sa jumelle. Sans remords pour le Hei, traverse la Flagellation du Bourreau sans une égratignure, attrape Nisha effondrée et la sort de l'enceinte. Avec Nisha, Maki et Mai, les deux paires de jumeaux achèvent Nozomu. Le 28, au chevet de Nisha avec Satoru : le clan est stable, nouveau conseil (Naoya, Nisha, Ranta, Maki, Mai ; Megumi a refusé) ; il la sent moins forte, à son niveau à lui, et lui dit qu'il lui faudra du temps pour s'habituer à la Chronostase seule | patriarche ; nouveau conseil |
+| 2019 - 2024 (D5) | Patriarche, seul et content de l'être : aucun amour potentiel ne lui convient (Shoko la moins pire malgré ses origines roturières ; Mei Mei sa hantise, nouvelle noble cupide et calculatrice). Il n'a jamais pu aimer que deux choses : sa jumelle et le clan. Kyoto devient le terrain de chasse du clan. Le 29 fév 2024, porte un toast à son neveu Kento et fait tomber la moitié conservatrice du credo (« les faibles servent les forts ») | credo réduit à : les forts protègent les faibles |
 
 ## Pointeurs
 - Noyau + Trajectoire datée ère A (A1+A2) : cf. Personnages/Naoya.md.

@@ -1,6 +1,6 @@
 # Tsumiki Fushiguro
 
-- version : W12
+- version : W13
 
 Fiche noyau (canon + RP), entité entrant en scène à l'ouverture de l'ère B (2008). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. État noyau décrit = qui est Tsumiki à son entrée en scène (identité, nature, psychologie, relations de base) ; son devenir post-2008 est consigné en Trajectoire datée (télégraphique ; détail -> roadmaps). Profane : hors-axe combat.
 
@@ -70,6 +70,7 @@ Fiches propres : cf. Personnages/Nisha.md, Megumi.md, Satoru.md, Maki.md. Ici, s
 | 10 nov 2018 (D3, hors POV) | Saitama : l'otage. Sukuna la menace sans pouvoir l'égratigner ; Megumi cède son corps à condition qu'il ne la tue jamais (Serment de Saitama, cf. Personnages/Sukuna.md, Le Serment de Saitama). DEUX FOIS RANÇON : 2015 et 2018. Part avec Sukuna, sous sa garde directe | protégée par la lettre ; frère perdu ; aux mains de Sukuna |
 | 10 - 14 nov 2018 (D4, hors POV) | Témoin de la conversation où Sukuna raconte la clause à Uraume ; l'entend avouer que le menacer, du temps de Yuji, n'était que du bluff | - |
 | 14 nov 2018 (D4) | Shinjuku : sur un toit, spectatrice de toute la bataille ; personne ne la menace | - |
+| 2019 - 2024 (D5) | Dirige l'Okaruto Shinbun, l'upgrade de son blog, monté grâce aux fonds des clans de ses parents : un journal tokyoïte des infos du monde occulte, destiné à tous, damage control pour les clans, et l'envie de donner de vraies infos plutôt que de la propagande. Sait que des humains avertis essoufflent la naissance des fléaux puissants. Se fout royalement de l'amour | directrice de journal |
 
 ## Graines plantées en B1 (à NE PAS détoner avant l'ère prévue)
 - T-Tsumiki / Yorozu : plantée 2008, RÉSOLUE fin 2015 (cf. Trajectoire datée) : Yorozu débusquée et tuée sans avoir jamais pris le dessus. Pas de coma. Détail -> Roadmap_B3 (B3_1) et SB8.

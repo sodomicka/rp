@@ -1,6 +1,6 @@
 # Akari Nitta
 
-- version : W9
+- version : W10
 
 Fiche noyau (canon + RP), entité entrant en scène au cours de l'arc B1 (2011, entrée à Kyoto). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. État noyau décrit = qui est Nitta à son entrée en scène (identité, nature, psychologie, relations) ; son devenir est consigné en Trajectoire datée (télégraphique ; détail -> roadmaps ère B). Non-combattante (assistant manager) : hors-axe combat.
 
@@ -64,6 +64,7 @@ Fiches propres : cf. Personnages/Nisha.md, Ijichi.md. Ici, seul le rapport à Ni
 | 31 oct 2018 (C2_5) | Shibuya (canon) : Haruta Shigemo la frappe au sternum et la poignarde plusieurs fois ; Nobara le retient, Nanami la met à l'abri ; survit | blessée |
 | nuit 31 oct - 1 nov 2018 (C3_1) | Au campement de Shoko : décrit Haruta à Nisha, avec Megumi | - |
 | 14 nov 2018 (D4) | Shinjuku : barrières et rideaux, en combo avec Ijichi et Yukiko | - |
+| mars 2021 (D5_1c) | Succède à Yaga au principalat de Tokyo, avec Ijichi | principale de Tokyo (co) |
 
 ## Notes de frontière
 - [DIVERGENCE RP] ARATA À KYOTO : c'est Akari qui l'y pousse (promo 2018-2021), pour qu'il passe par le même cursus qu'elle. Son rejet vise le clanisme de la vieille ville, PAS l'équipe pédagogique de Kyoto, dont elle est fan absolue. Rapport adulte du frère et de la sœur -> ère C.

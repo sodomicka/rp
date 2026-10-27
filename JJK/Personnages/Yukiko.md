@@ -1,6 +1,6 @@
 # Yukiko Kamo
 
-- version : W12
+- version : W13
 
 Fiche NOYAU (OC, niveau fandom). État atemporel / point de départ (1 avr 2005). Couche RP entièrement [DIVERGENCE RP] (OC sans équivalent canon) : balise portée une fois ici, non répétée ligne à ligne. Plot post-départ -> roadmaps Yukiko ; devenir -> Yukiko_chrono_A.md (ère A) et Trajectoire datée en bas de page (ères B+, en attente de scission). Résumé condensé en BIBLE SB5.
 
@@ -154,6 +154,9 @@ Objet maudit, forgé sur mesure pour la princesse Kamo. Détail : cf. BIBLE SB7 
 | mars 2013 (B1) | RESTO À QUATRE (Utahime + Nisha + Yukiko + Mei Mei, Ui Ui et Nori en accompagnants) : kyotoïte, elle connaît Mei Mei mieux que Nisha ; l'idée Mei Mei émerge de la discussion à trois - Yukiko n'a pour argument que la promo de son frère et se fout du reste. Mei Mei prend la 3e année | la chaire trouve preneuse sans elle |
 | 2015 (B2) | Noces de Nisha et Satoru : présente avec Nori et Utahime - la copine d'une collègue, invitée en amie, PAS en princesse Kamo (les émissaires Kamo présents relèvent de la diplomatie, pas eux) | -- |
 | 24 déc 2017 (B3) | NUIT DES CENT FLÉAUX, côté Kyoto : confiance dans la promo de Nori (leader de ses 2es années malgré l'ingérence de Todo, confiés à Mei Mei au combat) ; elle gère À ELLE SEULE les rideaux de Kyoto - contention de la zone et DISSIMULATION du massacre des maîtres des fléaux par les Zenin | fait d'armes invisible ; façade Grade 2 intacte |
+| 2020 (D5_1c) | Avec Choso et Nori, juge Yuji le plus à même de porter les six dernières Peintures Mortes | - |
+| 2022 (D5_1c) | Monte le rideau du domptage de Mahoraga par Megumi, comme un accord entre clans | - |
+| 2019 - 2024 (D5) | Toujours en couple avec Utahime. Nisha négocie encore pour la faire entrer à la fac | - |
 
 ## Notes de frontière (reporté hors de cette fiche neutre)
 - Évolution de l'amitié avec les jumeaux, vie de promo à Kyoto -> roadmaps Yukiko (repas claniques : soldés dans les deux Roadmap_A0).

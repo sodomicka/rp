@@ -1,6 +1,6 @@
 # Clan Kamo
 
-- version : W10
+- version : W11
 
 Page = faction fondatrice du monde. Faits canon non balisés (niveau établi) ; couche RP balisée [DIVERGENCE RP]. Résumé condensé en BIBLE SB4. État décrit = structure atemporelle + point de départ du RP (2005). Le devenir du clan en 2018 tient en une section (Ères C-D) ; le détail vit dans les roadmaps.
 
@@ -52,6 +52,7 @@ Page = faction fondatrice du monde. Faits canon non balisés (niveau établi) ; 
 - Nuit du 31 oct au 1er nov 2018 (C3, hors POV de Nisha) : après Shibuya, Kenjaku arrive au palais avant Yukiko et Nori, TUE Noriaki et prend le trône, Yasashiku au siège du bras droit. Il se révèle être le Noritoshi de Meiji, se réclame plus légitime et demande le bannissement du prince et de la princesse. Gambit de Yukiko : elle dénonce l'empoisonnement de Fubuki par Yasashiku (T-Fubuki DÉTONE), offre à Kenjaku deux têtes, celle de Yasashiku et la sienne, puis poignarde Nori et l'exile. Kenjaku EXÉCUTE Yasashiku et offre la chaise du bras droit à Yukiko (T-Matriarcat DÉTONE). Ce que Nori en voit et raconte : cf. Personnages/Noritoshi_Kamo.md, ligne C3.
 - 1er - 8 nov 2018 : Kenjaku maître du clan, Yukiko à son bras droit ; Nori en exil, soigné chez les Zenin puis à Tokyo, gardien de Tengen pendant la Traque. Le 6, Yuki Tsukumo attaque Kenjaku seule au palais et meurt.
 - 8 nov 2018 (D3) : au banquet du palais, Kenjaku est tué (Yukiko l'épuise, les jumeaux Zenin frappent, Nori et Choso le harcèlent à distance ; cf. Roadmap/Nisha/Roadmap_D3.md). NORI devient PATRIARCHE, Yukiko reste au bras droit ; Choso rejoint le clan et fait dire à Yuji qu'il y est le bienvenu.
+- 2019 - 2024 (D5) : Nori épouse Mai Zenin (2019). Choso vit au clan ; Yuji y est le bienvenu et garde le nom d'Itadori. En 2020, les six dernières Peintures Mortes quittent les Tombeaux : Yuji les avale, sur le jugement de Choso, Yukiko et Nori. Le palais reçoit le repas bissextile de 2024, les trois clans à la même table.
 - Le palais : cf. Lieux/Chiryu_no_Kyuden.md. Le reste de l'état du clan (gouvernance de Nori, émissaires, sièges des Instances) est à étoffer côté Yukiko.
 
 ## Iconographie et tenue

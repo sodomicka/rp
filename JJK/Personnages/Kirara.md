@@ -1,6 +1,6 @@
 # Kirara Hoshi
 
-- version : W11
+- version : W12
 
 Fiche noyau (canon + RP), entité entrant en scène en B3 (2017) comme élève de 2e année à Tokyo. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -50,6 +50,7 @@ Fiches propres : cf. Personnages/Hakari.md, Nisha.md. Ici, seul le rapport à Ki
 | début 2018 (B3_5) | Hakari suspendu dans la foulée de la Parade ; Kirara s'éloigne de l'université avec lui (Gachinko Fight Club). Hors du cadre, change de présentation : de masculin.e à féminin.e (cf. Physique) - c'est sous cette forme qu'on le.a revoit ensuite | quitte le cadre universitaire ; nouvelle présentation |
 | 2 nov 2018 (D2_2) | Garde la porte du fight club au recrutement de Hakari (canon) ; reste hors des colonies, relais du groupe (pas de réseau sous les barrières, canon) | relais |
 | 14 nov 2018 (D4) | Shinjuku, front Sukuna, à distance : Love Rendezvous | - |
+| 2019 - 2024 (D5) | Toujours à la tête du fight club, avec Hakari | - |
 
 ## Notes de frontière
 - Ère D : portée en Trajectoire datée ; détail -> Roadmap/Nisha/Roadmap_D2.md (D2_2, la loge VIP avec Nisha), Roadmap_D4.md (front Sukuna).

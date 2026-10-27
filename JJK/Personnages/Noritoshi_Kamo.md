@@ -1,6 +1,6 @@
 # Noritoshi Kamo
 
-- version : W17
+- version : W18
 
 Fiche noyau (canon + RP), entité entrant en scène en B3 (2017) comme élève de 2e année de Nisha à Kyoto. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -85,6 +85,10 @@ Fiches propres : cf. Personnages/Yukiko.md, Nisha.md, Kenjaku.md ; Factions/Clan
 | nov 2018 (D2) | Aux Tombeaux, avec Choso et Tsukumo qui gardent Tengen : soigné, il se remet surtout de la perte de son énergie occulte (vidé à 90 pour cent par sa sœur) ; prend le temps de discuter avec Choso avant le palais | réserve à reconstituer |
 | 8 - 11 nov 2018 (D3) | Requinqué, part au palais avec Nisha et Choso ; harcèle Kenjaku de tirs à distance. Pardon et compréhension avec Yukiko. Accepte le trône avec dignité, sans attendre son diplôme ; Yukiko garde la chaise du bras droit. Les 9-11, pour une fois, c'est lui qui prend soin d'elle pendant qu'elle ouvre la Lisière | PATRIARCHE du clan Kamo ; sœur à son bras droit |
 | 12 - 14 nov 2018 (D4) | Effort de guerre total : patriarche, il vient, et Yukiko, qui serait restée, suit ses ordres à la lettre. Shinjuku, front Nozomu (Hémokinésie) | - |
+| mars 2019 (D5_1c) | Diplômé (promo 2016-2019). Épouse Mai, après la demande de concubinage ratée | marié |
+| 2020 (D5_1c) | Avec Choso et Yukiko, juge Yuji le plus à même de porter les six dernières Peintures Mortes | Peintures disparues du clan |
+| 2022 (D5_1c) | Le rideau de Yukiko pour le domptage de Mahoraga se fait comme un accord entre clans | - |
+| 29 fév 2024 (D5_3) | Hôte du repas bissextile. Lecture du nouvel équilibre : Megumi, hors clan, égale Satoru, ce qui décentralise le pouvoir. Déplore avec Gakuganji les Instances qui tiennent malgré tout | - |
 
 ## Notes de frontière
 

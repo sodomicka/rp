@@ -1,6 +1,6 @@
 # Masamichi Yaga
 
-- version : W9
+- version : W10
 
 Page = fiche noyau (état atemporel / point de départ 2005). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. Plot futur -> roadmap. Résumé condensé en BIBLE SB5.
 
@@ -56,6 +56,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport à 
 | 6 nov 2018 (D2) | Recoud le bras de Panda, arraché par Kashimo, dès sa sortie de l'arène | - |
 | 11 nov 2018 (D3) | Nisha l'appelle avec Gakuganji, Satoru tout juste sorti : on prépare l'ultime bataille, en essayant de ramener Megumi en vie | au front, côté famille |
 | 12 - 14 nov 2018 (D4) | Conseil de guerre des deux écoles. Shinjuku, front Nozomu : corps maudits. Panda, son fils, première cible de Nozomu | - |
+| avr 2019 - mars 2021 (D5_1c) | Reprend la 3e année de Nanami à Tokyo ; prend sa retraite quand Nobara le remplace. Crée toujours plus de peluches douées d'âmes véritables, pour offrir une seconde chance à ceux partis trop tôt. Décline poliment l'invitation de 2024 | retraité |
 
 ## Notes de frontière (reporté hors de cette fiche neutre)
 - Panda (création dotée d'une âme autonome, aboutissement de son art) : NÉ en 2011 avec l'aide de Nisha (cf. Trajectoire datée et fiche Panda). [DIVERGENCE RP] le canon ne date pas sa création ; ici datée 2011. Camarade de promo 2017-2020.

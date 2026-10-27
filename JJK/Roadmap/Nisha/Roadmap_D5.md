@@ -1,6 +1,6 @@
 # Roadmap D5 - La paix
 
-- version : W2
+- version : W3
 - statut : à venir ; JOUABLE par morceaux : un prologue narré (style roman), la conception de Kento JOUÉE, cinq ans narrés, puis une soirée JOUÉE ; conclusion du focus Nisha
 - prota / POV : Nisha Zenin, plein cadre
 - échelle temporelle : ~cinq ans et trois mois (28 novembre 2018 -> 29 février 2024) ; l'hiver 2018-2019 joué autour de la conception de Kento, cinq ans narrés, puis une soirée jouée
@@ -8,7 +8,7 @@
 - borne de sortie : 29 février 2024, soir, le toast de Naoya à son neveu au palais Kamo ; fin de l'histoire de Nisha
 - roadmap précédente : cf. WIKI Roadmap/Nisha/Roadmap_D4.md
 - roadmap suivante : aucune (une roadmap d'outro des années plus tard reste à décider à part)
-- états 2024 de l'univers et du casting : cf. Roadmap/Nisha/D5_Etats_2024.md (fiches groupées propres à la D5, hors lore neutre)
+- états 2019-2024 de l'univers et du casting : portés dans les trajectoires datées des fiches et des factions (Kento : cf. Personnages/Kento.md)
 
 ## Intention
 Ce que la guerre a acheté. D'abord le choix du couple : après des années à aimer comme les leurs des enfants recueillis au bord du gouffre, Nisha et Satoru veulent penser à l'après et concevoir un enfant à eux, né dans la paix. Puis cinq ans racontés comme un roman, et une seule soirée : le repas bissextile de 2024, où les trois clans dînent à la même table. Nisha passe d'une conversation à l'autre et mesure le monde qu'elle a aidé à faire naître, jusqu'au toast de son jumeau, qui renverse le credo Zenin.
@@ -40,6 +40,7 @@ D5_1a et D5_1c : narrés, non jouables. D5_1b : [JOUÉE]. D5_2 : [AU CHOIX] (rap
      - Kento naît le 31 octobre 2019.
      - La rentrée d'avril 2019 : Nisha retrouve une classe de 2e année à Kyoto, dans un monde où les profanes savent ; le rituel des bandages a repris sa place, seins libres à la maison.
      - 29 février 2020 : repas bissextile ; Maki y emmène Yuta comme petit ami, Satoru y vient toujours en époux de Nisha, et tout le monde trouve absurde que les deux représentants des Gojo soient des invités et non un clan.
+     - 2020 : les six dernières Peintures Mortes, gardées aux Tombeaux de Tengen depuis Meiji, doivent disparaître. Choso, Yukiko et Nori jugent Yuji le plus à même de les porter : il est le seul à pouvoir les avaler sans que son âme soit écrasée, et elles partiront avec lui à sa mort. Yuji les mange et gagne la Manipulation du sang. Son corps vieillira désormais au ralenti, comme celui de Choso, mais personne ne le sait encore.
      - Yuta, officiellement reconnu Gojo, est greffé à la branche principale par Satoru.
      - 2022 : Megumi, passé Grade Spécial, dompte Mahoraga sous la supervision de ses parents, dans un rideau monté par Yukiko, comme un accord entre clans.
      - Nisha remonte à 17 doigts : elle réapprend à bouger comme avant en se propulsant, en tout ou en partie, par Chronostase ; seul son esprit ne peut plus être accéléré.
@@ -74,8 +75,8 @@ D5_1a et D5_1c : narrés, non jouables. D5_1b : [JOUÉE]. D5_2 : [AU CHOIX] (rap
 - Kento, conçu un 30 janvier et né un 31 octobre : la date de Shibuya devient un anniversaire.
 
 ## Casting convoqué
-- Nisha Zenin - 17 doigts - cf. Personnages/Nisha.md, D5_Etats_2024.md
-- Satoru Gojo, Kento - la maisonnée - cf. D5_Etats_2024.md
+- Nisha Zenin - 17 doigts - cf. Personnages/Nisha.md, Nisha_chrono_D.md
+- Satoru Gojo, Kento - la maisonnée - cf. Personnages/Satoru_chrono_B.md, Kento.md
 - Kamo : Yukiko, Utahime, Noritoshi, Mai (Kamo-Zenin), Yuji, Choso
 - Zenin : Naoya, Megumi, Tsumiki, Ranta, Maki
 - Gojo : Yuta
@@ -101,7 +102,7 @@ D5_1a et D5_1c : narrés, non jouables. D5_1b : [JOUÉE]. D5_2 : [AU CHOIX] (rap
 - Aucune. Règle globale du RP (jusqu'à contre-ordre du worldbuilder) : aucune roadmap ne se scinde en embranchement.
 
 ## Notes de frontière
-- Les états 2024 (couples, unités, postes, puissance) vivent dans D5_Etats_2024.md et pas dans les fiches neutres : rien de 2019 à 2024 n'entre au lore, sauf les enterrements de novembre 2018.
+- Les états 2019-2024 (couples, unités, postes, puissance) sont canoniques : ils vivent dans les trajectoires datées des fiches et des factions.
 - État de sortie : fin de l'histoire de Nisha.
 
 ---

@@ -1,6 +1,6 @@
 # Nisha Zenin - Relations : boulot
 
-- version : W5
+- version : W6
 
 Page relations de Nisha, cercle BOULOT : les collègues (les deux universités) et les élèves de Kyoto. Série en quatre pages par cercles ; règles générales et convention : cf. Nisha_relations_proches.md.
 Convention locale : (tactique) = indicatif d'opération, employé en mission.
@@ -34,6 +34,7 @@ Convention locale : (tactique) = indicatif d'opération, employé en mission.
 - Appellatifs : elle -> lui : Nanami, Kento. Lui -> elle : Zenin, Nisha.
 - Registre : ton professionnel ; chacun aime la rigueur de l'autre - et ils sont d'accord sur le manque de sérieux de Satoru.
 - Évolution datée : avr 2006 rentrée, distingué dès l'arrivée -> 2009 il quitte le métier, elle part enseigner à Kyoto -> avr 2013 retour, prof 3A à Tokyo (même rentrée que Mei Mei à Kyoto) -> 24 déc 2017 fronts séparés (lui Tokyo, 4x Rayon Noir ; elle Kyoto).
+- « Respect » : le mot le plus fort de leur jargon pour dire « ami hors famille ». Ils l'ont, et c'est rare. Son prénom passe à Kento, le fils de Nisha (2019 ; cf. Personnages/Kento.md).
 
 ### Ijichi et Kusakabe
 - Statut : connaissances, collègues de Tokyo - rien de plus. Ijichi : le manager sans prétention qu'elle apprécie (rigueur, prodige du tissage ; cf. Personnages/Ijichi.md). Kusakabe : prof de 2e année à Tokyo dès 2009 (son homologue de chaire), maître du Domaine Simple.

@@ -1,6 +1,6 @@
 # Maki Zenin
 
-- version : W21
+- version : W22
 
 Fiche noyau + Trajectoire datée (enrichie de A2 à D4). Canon + RP. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP]. État noyau décrit = jusqu'au point de départ (2005) ; devenir post-2005 en Trajectoire datée (détail -> roadmap).
 
@@ -52,6 +52,8 @@ Fiche noyau + Trajectoire datée (enrichie de A2 à D4). Canon + RP. Faits canon
 | nov 2018 (D2) | Sakurajima avec Mai, seules (hors POV) [DIVERGENCE RP vs canon : Maki y va avec Nori] ; tueuses, ramassent des points pour la neutralité des sortants | - |
 | 10 nov 2018 (D3, hors POV) | Rentrée à Saitama une fois la Traque finie : Megumi se vend à Sukuna face à sa « tata » (Serment de Saitama, cf. Personnages/Sukuna.md, Le Serment de Saitama). Elle attaque Sukuna, qui la stoppe sans répliquer, satisfait de la voir douter de sa puissance ; elle en sort intacte. Appelle Nisha : Tsumiki et Megumi sont partis, elle file au domaine chercher Mai et Naoya pour les récupérer. Nisha refuse et annonce un conseil de guerre avec les deux écoles | intacte ; doute de sa puissance |
 | 14 - 28 nov 2018 (D4) | Shinjuku, front Nozomu, en symbiose avec sa jumelle ; les deux paires de jumeaux achèvent Nozomu. Membre du nouveau conseil Zenin | conseil Zenin |
+| mars 2019 (D5_1c) | Diplôme express (2e année de la guerre) | exorciste pro |
+| 2019 - 2024 (D5) | Grade Spécial 1, affiliée au clan ; peut-être plus forte que sa « tata » Nisha. Dirige la Kukuru, orientée interventions contre des fléaux de Grade 3 au plus. Repas bissextile de 2020 : y emmène Yuta comme petit ami. En 2024, Yuta prépare sa demande | Grade Spécial 1 ; cheffe de la Kukuru |
 
 ## Notes de frontière (hors noyau)
 - Apparence post-Shibuya : corps couvert de cicatrices de brûlure (Jogo, canon). [DIVERGENCE RP] Depuis le coup d'État (1er nov 2018), une fois à 10 %, elle ressent les fléaux : plus besoin de lunettes (au canon, seulement après la mort de Mai).

@@ -1,6 +1,6 @@
 # Mei Mei
 
-- version : W11
+- version : W12
 
 Page = fiche noyau (état atemporel / point de départ 2005). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP] ou [DIVERGENCE RP vs canon]. Plot futur -> roadmap. Résumé condensé en BIBLE SB5.
 
@@ -67,6 +67,7 @@ Fiche propre de Nisha : cf. WIKI Personnages/Nisha.md. Ici, seul son rapport à 
 | juil 2018 (C1_3) | Nisha, partie en urgence au centre de détention, lui confie sa classe | - |
 | sept 2018 (C1_5) | Amicale à Tokyo : accompagne ses 3A (Todo, Noritoshi, Momo) | - |
 | 14 nov 2018 (D4) | Shinjuku, front Sukuna, à distance : corbeaux ; téléportation d'Ui Ui | - |
+| 2019 (D5_1c) | Démissionne de Kyoto après le diplôme express : son pari gagnant sur la défaite de Satoru à Shibuya l'a hissée juste derrière les trois clans en fortune. Fonde avec Ui Ui sa dynastie, avec l'ambition d'en faire un nouveau grand clan | nouvelle noble |
 
 ## Notes de frontière (reporté hors de cette fiche neutre)
 - Diplôme 2006 -> carrière de freelance mercenaire ; passage Grade 1 (7 doigts, post-2008, date non fixée). Embauche à Kyoto désormais datée (mars 2013) -> cf. Trajectoire datée.

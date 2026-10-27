@@ -1,6 +1,6 @@
 # Université d'Exorcisme de Tokyo
 
-- version : W7
+- version : W8
 
 Page = faction du monde (institution). Faits canon non balisés (niveau établi) ; couche RP balisée [DIVERGENCE RP]. Résumé condensé en BIBLE SB4.
 
@@ -38,6 +38,7 @@ Page = faction du monde (institution). Faits canon non balisés (niveau établi)
 - Atsuya Kusakabe : professeur de deuxième année.
 - Kento Nanami : professeur de troisième année dès la rentrée d'avr 2013, à son retour du salariat (~4 ans hors de l'exorcisme après son diplôme de 2009). Même rentrée que le décumul de Kyoto (Gakuganji -> Mei Mei ; cf. Factions/Universite_Kyoto.md). [DIVERGENCE RP vs canon] (au canon il revient exorciste de terrain, pas enseignant).
 - Kiyotaka Ijichi et Akari Nitta : assistant managers (Nitta en poste après son diplôme de Kyoto, 2014).
+- Ère D5 : diplôme express de mars 2019. Yaga reprend la 3e année de Nanami (avr 2019) ; en mars 2021, Nobara le remplace, il prend sa retraite, et Ijichi et Akari Nitta lui succèdent ensemble au principalat. Satoru tient toujours la 1re année, Kusakabe enseigne toujours, Shoko reste l'infirmière du campus.
 
 ## Rituel des détenteurs de domaine
 [DIVERGENCE RP]

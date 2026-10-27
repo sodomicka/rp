@@ -1,6 +1,6 @@
 # Aoi Todo
 
-- version : W9
+- version : W10
 
 Fiche noyau (canon + RP), entite entrant en scene en B3 (2017) comme eleve de 2e annee de Nisha a Kyoto. Faits canon non balises ; couche RP balisee [DIVERGENCE RP].
 
@@ -57,6 +57,8 @@ Fiches propres : cf. Personnages/Yuki.md, Nisha.md. Ici, seul le rapport a Todo.
 | 31 oct 2018 (C2_5) | Shibuya (canon, hors POV de Nisha) : se tranche la main gauche touchée par Mahito ; avec Yuji, bat Mahito | main gauche perdue |
 | nuit 31 oct - 1 nov 2018 (C3_1) | Au campement de Shibuya : veut aider malgré sa main en moins ; croise Nisha | - |
 | 14 nov 2018 (D4) | Shinjuku, front Sukuna, au contact : Boogie Woogie, malgré sa main gauche en moins | - |
+| mars 2019 (D5_1c) | Diplômé (promo 2016-2019) | exorciste pro |
+| 2019 - 2024 (D5) | Parti seul de par le monde, dans les pas de Yuki | - |
 
 ## Notes de frontiere
 - Devenir post-C3 -> ère D.
