@@ -1,6 +1,6 @@
 # Chute
 
-- version : W4
+- version : W5
 
 Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie.
 
@@ -34,12 +34,12 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 ## Psychologie
 - Persona de cheffe : courtoisie théâtrale, protocole de grande cuisine ("Je serai votre chef ce soir"). Évite l'effusion de sang inutile - en apparence. [CANON]
 - Sous le vernis : profondément sadique. Préfère pousser au désespoir et au suicide plutôt que tuer de sa main ; ses "plats" se dégustent en traumas revécus. [CANON]
-- Politiquement : alignée sur la façade loyale générique - reconnaissance de l'Origine, loyauté affichée au trône, convoitise latente. [DIVERGENCE RP]
+- Politiquement : alignée sur la façade loyale générique - reconnaissance de l'Origine, loyauté affichée au trône, convoitise latente. [DIVERGENCE RP] Depuis le printemps 2004 : loyauté PROUVÉE en acte (l'exécution de Ténèbres) ; la convoitise du trône demeure. [DIVERGENCE RP]
 
 ## Relations de base
 - Mort - le concept dont elle découle directement. Chute sert pourtant le trône, pas Mort : elle sait qu'Effroi est l'Origine. Texture personnelle du lien : non détaillée [INCERTAIN].
 - Effroi / Makoto - suzerain reconnu (l'Origine). Vassalité ambiguë : loyauté de façade, convoitise latente du trône.
-- Ténèbres, Vieillesse - les autres engeances de Mort ; rivalité latente entre Primordiaux.
+- Ténèbres, Vieillesse - les autres engeances de Mort ; rivalité latente entre Primordiaux. Ténèbres : elle le surveille depuis l'hiver 1997-1998 et l'exécute au printemps 2004.
 - Enfer - démon-territoire ; partage avec lui (et Vieillesse) la capacité de précipiter des êtres en Enfer.
 
 ## Histoire (jusqu'au périmètre)
@@ -57,5 +57,8 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 |---|---|---|
 | hiver 1997-1998 (R6 - La Guerre) | SAVOIR MJ : témoin, sans que le Roi la remarque, du désamorçage de Ténèbres dans son domaine ; retient l'humiliation de son cadet et se met à le surveiller | Elle le verra venir en R10, et le tuera elle-même |
 | automne 1999 (R9 - La Vieillesse) | À l'hommage de la lignée, façade loyale. SAVOIR MJ : surveille toujours Ténèbres | - |
+| automne 2003 - printemps 2004 (R10 - Les Ténèbres) | SAVOIR MJ : voit venir le coup de Ténèbres contre Yomi | - |
+| printemps 2004 (R10 - Les Ténèbres) | Exécute Ténèbres de sa main, devant la Cour | Le dernier rebelle tombé de sa main |
+| printemps 2004 (R10 - Les Ténèbres) | Vient raconter ses exploits au Roi : elle le surveillait depuis 1997-1998, elle veut se savoir fiable | Loyauté prouvée en acte ; convoitise intacte |
 
 FIN_WIKI_PERSONNAGES_CHUTE

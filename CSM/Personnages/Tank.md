@@ -1,6 +1,6 @@
 # Tank
 
-- version : W8
+- version : W9
 
 Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie.
 
@@ -67,5 +67,6 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 | mai 1999 (R8 - La Mort) | Cœur planté dans KOBENI par Makoto en personne (10e implication) ; régime du cœur planté - la brute fournit le corps, l'hôte l'esprit. Premier poste auprès d'Asa | Hôte trouvé ; serment à Asa maintenu sans servitude |
 | fin août 1999 (R8 - La Mort) | En discutant avec Kobeni, ils s'accordent pour protéger Yomi | Garde de la nouvelle Mort, sans rien renier envers Asa |
 | 1999-2003 (R9 - La Vieillesse) | Kobeni et Tank gardent Yomi jusqu'à l'âge adulte | - |
+| printemps 2004 (R10 - Les Ténèbres) | Gardienne de la cible, la seule que Ténèbres attendait : avec les trois autres gardiens, Kobeni et Tank le dominent et le tiennent en respect | Toucher une princesse, c'est toucher le trône entier |
 
 FIN_WIKI_PERSONNAGES_TANK

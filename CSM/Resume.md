@@ -1,8 +1,8 @@
 # Résumé
 
-- version : W5
+- version : W6
 
-Rôle : résumé de l'histoire de l'univers telle qu'établie (canon + divergences actées), de la première peur à la clôture de R9 (septembre 2003). Nourri par la BIBLE (SB3) et les roadmaps ; le détail par arc vit dans Roadmap/Makoto/.
+Rôle : résumé de l'histoire de l'univers telle qu'établie (canon + divergences actées), de la première peur à la clôture de R10 (fin 2004), fin du RP. Nourri par la BIBLE (SB3) et les roadmaps ; le détail par arc vit dans Roadmap/Makoto/.
 
 ## Aux origines
 La première peur ressentie par le premier humain fait naître Effroi, l'Originel : tout concept démoniaque descendra de lui. Il engendre Mort, sa première engeance, dont dérivent les trois autres Primordiaux (Chute, Ténèbres, Vieillesse). Aux premières sociétés naissent les Cavalières - Famine, puis Guerre, puis Contrôle - puis Tronçonneuse (Effacement), l'arme de dissuasion du trône. Mort, première Reine d'Effroi, rompt avec lui : impasse entre deux immortels, guerre froide depuis. La peur humaine de l'enfer engendre le démon Enfer ; son territoire devient l'Enfer réel, Royaume d'Effroi, où naissent désormais les démons. Effroi règne par la dévotion, tisse des milliers de contrats sans contrepartie (Réseau, père des contrats, est son serviteur), crée les premiers Devil Hunters sous les traits de Makoto et lance son programme d'hybridation - Quanxi, fusionnée à Arc en 1215, en est la première.
@@ -36,6 +36,9 @@ En avril, Denji et Reze entrent en deuxième année ; Mort, qui n'avait jamais p
 
 ## 1999-2003 - la Vieillesse
 Le temps calme. Plus aucune Cavalière insoumise : le trône respire, et quatre filles grandissent. Makoto est le seul à pouvoir porter Yomi. À l'automne, la lignée des peurs de la mort vient la reconnaître à la Cour, Malédiction s'inclinant sans rien jurer ; dans le même temps, Barem, numéro deux survivant d'une Église décapitée, en prend la tête pour le trône sans que personne ne le soupçonne. Asa puis Kiga deviennent adultes et se figent (hiver 1999-2000, printemps 2000), et Réseau tisse leurs canaux. À l'été 2000, Vieillesse offre de rajeunir les filles et de se nourrir de l'âge qu'elles ne prendraient pas : elles refusent en bloc, et le refus de Yomi, une enfant de la mort qui veut vieillir, lui arrache son respect. À son premier anniversaire, Yomi peut enfin être touchée, et Kiga la serre dans ses bras la première ; elle est adulte un an plus tard. Denji et Reze, diplômés en mars 2002, reviennent à plein temps à la Sécurité Publique. En septembre 2003, Nayuta a dix-huit ans et se fige à son tour : R9 se clôt sur quatre filles adultes. Le Roi tient le monopole de toutes les peurs, Yomi celui de la mort ; ni Makima ni les autres filles ne tiennent encore le leur, et c'est voulu.
+
+## 2003-2004 - les Ténèbres
+Le finale. À l'automne 2003, les quatre filles prennent leur place de reines tacites, chacune sur son champ ; en équilibre avec ses sœurs, Yomi perd le monopole de sa naissance, et avec lui l'immortalité conceptuelle. Ténèbres, nourri en silence depuis 1999, voit le siège de Cavalière de Mort à sa portée. Au printemps 2004, il surgit du noir contre Yomi, en pleine nuit à Tokyo : il croyait ne trouver que Kobeni et le Tank, il trouve les quatre gardiens - Kishibe, Aki, Ange, qui brûle des âmes gardées pour Kiga, et Kobeni - qui le dominent sans que les filles lèvent le petit doigt. Makoto appelle Enfer, qui transporte tout ce monde devant la Cour ; Chute, qui le surveillait depuis 1997-1998, l'exécute de sa main, puis vient le raconter au Roi pour se savoir fiable. Ténèbres renaît sur Terre, réinitialisé. Plus aucun rebelle : Makima tient le monopole du contrôle des peurs, Effroi celui de l'équilibre, et quatre filles tiennent le monde sous leur protectorat. Fin du RP.
 
 ---
 

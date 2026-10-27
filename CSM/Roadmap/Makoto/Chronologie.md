@@ -1,6 +1,6 @@
 # Chronologie des roadmaps - Makoto / Effroi
 
-- version : W10
+- version : W11
 - rôle : GARDE-CAP de la campagne. Découpage R0 -> R10 DICTÉ par le worldbuilder. Grandes lignes seulement : chaque roadmap se détaille à son BUILD (boucle serrée de Passe 2) ; les [À POSER] listés ici s'y tranchent.
 - convention de nommage : chaque roadmap porte le nom du DÉMON le plus important de son arc.
 - prota / POV : Makoto / Effroi.
@@ -74,16 +74,18 @@
 - Matière dictée (parquée au journal) : revisite de la Partie 2 canon à notre sauce - Église de Chainsaw Man, fac, MORT QUI S'INFILTRE parmi eux ; Mort aux commandes de l'Église depuis Washington ; le Feu son pion, introuvable (modalités de cavale et de traque à fixer au build) ; transformation de masse ARMÉE - détonation pour quelqu'un d'autre ; retour de Kobeni (hybride pressenti : Tank) ; Barem Bridge, taupe dans l'Église, instrument de la traque du Feu ; réincarnation de Mort : horizon R8+.
 - Reste au moins : le plan long contre Mort (l'acculer à choisir sa propre réincarnation comme seule issue viable) et l'achèvement du quatuor réformé des Cavalières.
 
-## R9 - La Vieillesse [ÉCRITE - W1 ; jouable]
+## R9 - La Vieillesse [ÉCRITE - W2 ; jouable]
 - Bornes : Yomi adoptée, quatuor complet (fin août 1999) -> les 18 ans de Nayuta (septembre 2003), les quatre filles adultes et figées.
 - Jalons : la maison à quatre ; l'hommage de la lignée de Mort à Yomi (automne 1999, à la Cour) ; l'Église reprise par le trône, Barem à sa tête ; les gels d'Asa (hiver 1999-2000) et de Kiga (printemps 2000), canaux tissés à chaque gel ; l'offre de Vieillesse - rajeunir les filles et se nourrir de l'âge non pris -, refusée en bloc (été 2000) ; le premier contact, Kiga la première (fin d'été 2000) ; le gel de Yomi (fin d'été 2001) ; les diplômes de Denji et Reze, retour à la SP (mars-avril 2002) ; la majorité de Nayuta, gel à 18 ans (septembre 2003).
 - Résolus au build : démon central Vieillesse ; mémoire des concepts effacés NON transmise aux réincarnées ; monopole et immortalité (Effroi le tient, Makima pas encore, Yomi seule des filles) ; Barem à la tête de l'Église, couverture intacte ; aucun Tchekhov majeur ne bouge.
 - Démon central : Vieillesse.
 - Fichier : Roadmap_9_La_Vieillesse.md
 
-## R10 - [DICTÉ EN GRANDES LIGNES - À BUILDER] - le finale
-- Nature : en finir avec les DERNIERS REBELLES pour imposer un MONOPOLE MONDIAL.
-- État final dicté : le couple régnant se nourrit du contrôle et de l'équilibre de la peur ; juste en dessous, les filles, REINES TACITES du monde, sous le protectorat des deux démons les plus puissants et calculateurs au monde.
-- [À POSER] : liste des derniers rebelles ; articulation du monopole avec la condition des gardiens des Cavalières (garde-fous armés si le trône dévie de l'équilibre) ; bornes ; démon central.
+## R10 - Les Ténèbres [ÉCRITE - W1 ; jouable] - le finale
+- Bornes : les quatre filles adultes et figées (septembre 2003) -> le couple en monopole, les filles reines tacites (fin 2004). Fin du RP ; un spin-off suivra.
+- Jalons : les reines tacites (automne 2003 : Yomi, en équilibre avec ses sœurs, perd monopole et immortalité conceptuelle) ; le monde à l'équilibre (snapshots) ; la tentative (printemps 2004, Tokyo, de nuit : Ténèbres contre Yomi, dominé par les QUATRE gardiens - Kishibe, Aki, Ange, Kobeni -, les filles ne bougent pas ; Enfer, appelé par Makoto, transporte tout le monde devant la Cour) ; l'exécution (Chute, devant la Cour ; Ténèbres renaît sur Terre, réinitialisé) ; le récit de Chute au Roi ; le monopole (Makima : le contrôle des peurs ; Effroi : l'équilibre) ; coda.
+- Résolus au build : Ténèbres SEUL dernier rebelle (le siège de Cavalière de Mort lui semble accessible) ; Prédateur RÉSERVÉ au spin-off ; aucun Tchekhov dormant fermé ; Ange entame la réserve d'âmes qu'il garde pour Kiga (amour platonique réciproque) ; Ténèbres réinitialisé ne se souvient pas des concepts effacés.
+- Démon central : Ténèbres.
+- Fichier : Roadmap_10_Les_Tenebres.md
 
 FIN_ROADMAP_MAKOTO_CHRONOLOGIE
