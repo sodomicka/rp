@@ -141,7 +141,7 @@ Divergences (noyau Nisha) :
 | 9-11 nov 2018 | Yukiko ouvre la Lisière, Satoru libéré ; Nisha lui avoue la vente | secret de la vente levé |
 | 14 nov 2018 | Shinjuku : Nozomu achevé, Eien meurt en emportant la Chronokinésie, Sukuna tué dans la Sphère de l'Espace-Temps Infini | fin de la guerre |
 | 28 nov 2018 | Réveil de Nisha à l'école de Tokyo, 14 doigts | début de la paix (D5) |
-| 2019-2024 | Diplôme express (mars 2019) ; naissance de Kento (31 oct 2019) ; Nobara prof (2021) ; Megumi dompte Mahoraga (2022) | monde occulte rendu public |
+| 2019-2024 | Diplôme express (mars 2019) ; naissance de Kento (31 oct 2019) ; Yuji avale les dernières Peintures Mortes (2020) ; Nobara prof (2021) ; Megumi dompte Mahoraga (2022) | monde occulte rendu public |
 | 29 fév 2024 | Repas bissextile au palais Kamo, toast de Naoya à Kento | fin de l'histoire de Nisha |
 
 Détail des étapes par arc : cf. JJK/Roadmap/<Prota>/.

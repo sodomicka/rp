@@ -1,6 +1,6 @@
 # Roadmap D5 - La paix
 
-- version : W2
+- version : W3
 - statut : à venir ; JOUABLE par morceaux : un prologue narré (style roman), la conception de Kento JOUÉE, cinq ans narrés, puis une soirée JOUÉE ; conclusion du focus Nisha
 - prota / POV : Nisha Zenin, plein cadre
 - échelle temporelle : ~cinq ans et trois mois (28 novembre 2018 -> 29 février 2024) ; l'hiver 2018-2019 joué autour de la conception de Kento, cinq ans narrés, puis une soirée jouée
@@ -40,6 +40,7 @@ D5_1a et D5_1c : narrés, non jouables. D5_1b : [JOUÉE]. D5_2 : [AU CHOIX] (rap
      - Kento naît le 31 octobre 2019.
      - La rentrée d'avril 2019 : Nisha retrouve une classe de 2e année à Kyoto, dans un monde où les profanes savent ; le rituel des bandages a repris sa place, seins libres à la maison.
      - 29 février 2020 : repas bissextile ; Maki y emmène Yuta comme petit ami, Satoru y vient toujours en époux de Nisha, et tout le monde trouve absurde que les deux représentants des Gojo soient des invités et non un clan.
+     - 2020 : les six dernières Peintures Mortes, gardées aux Tombeaux de Tengen depuis Meiji, doivent disparaître. Choso, Yukiko et Nori jugent Yuji le plus à même de les porter : il est le seul à pouvoir les avaler sans que son âme soit écrasée, et elles partiront avec lui à sa mort. Yuji les mange et gagne la Manipulation du sang. Son corps vieillira désormais au ralenti, comme celui de Choso, mais personne ne le sait encore.
      - Yuta, officiellement reconnu Gojo, est greffé à la branche principale par Satoru.
      - 2022 : Megumi, passé Grade Spécial, dompte Mahoraga sous la supervision de ses parents, dans un rideau monté par Yukiko, comme un accord entre clans.
      - Nisha remonte à 17 doigts : elle réapprend à bouger comme avant en se propulsant, en tout ou en partie, par Chronostase ; seul son esprit ne peut plus être accéléré.

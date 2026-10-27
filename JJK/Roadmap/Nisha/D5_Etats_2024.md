@@ -1,6 +1,6 @@
 # D5 - États 2024 (fiches groupées)
 
-- version : W1
+- version : W2
 
 Fiches groupées propres à la Roadmap D5 (décision du worldbuilder, thread D5) : ce que l'univers et le casting sont devenus entre le réveil de Nisha (28 nov 2018) et le repas bissextile du 29 fév 2024. Ces faits n'entrent PAS dans les fiches neutres : ils ne valent que pour la D5. Seule exception, portée au lore : les enterrements de novembre 2018 (cf. Personnages/Geto.md). Hors Sommaire, comme les garde-caps ; la Roadmap D5 y renvoie.
 
@@ -61,6 +61,7 @@ Fiches groupées propres à la Roadmap D5 (décision du worldbuilder, thread D5)
 ### Yuji et Choso
 - Yuji au repas chez les Kamo, Choso ayant insisté. Il garde le nom d'Itadori, par respect pour son grand-père, pour qui tout a commencé.
 - Voyagent de par le monde pour mieux comprendre l'exorcisme.
+- Yuji porte les six dernières Peintures Mortes, avalées en 2020 sur le jugement de Choso, Yukiko et Nori : Manipulation du sang, et un vieillissement au ralenti dont personne ne se doute encore.
 
 ## Gojo
 ### Yuta
