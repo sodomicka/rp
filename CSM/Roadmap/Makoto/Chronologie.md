@@ -1,6 +1,6 @@
 # Chronologie des roadmaps - Makoto / Effroi
 
-- version : W9
+- version : W10
 - rôle : GARDE-CAP de la campagne. Découpage R0 -> R10 DICTÉ par le worldbuilder. Grandes lignes seulement : chaque roadmap se détaille à son BUILD (boucle serrée de Passe 2) ; les [À POSER] listés ici s'y tranchent.
 - convention de nommage : chaque roadmap porte le nom du DÉMON le plus important de son arc.
 - prota / POV : Makoto / Effroi.
@@ -67,18 +67,19 @@
 - Démon central : Famine.
 - Fichier : Roadmap_7_La_Famine.md
 
-## R8 - ROADMAPPÉ (cf. Roadmap_8_La_Mort, W4)
+## R8 - La Mort [ÉCRITE - W4 ; jouable]
 - Jalons actés : retour de Kobeni, hybridée au Tank (mai 1999) ; Barem numéro deux de l'Église ; Mort incognito à la fac (Shino Sato) ; le nom (fin juin, Cataclysme interrogé) ; le Roy d'effrayeur (mi-juillet : forme véritable, contrat de Ténèbres, Chainsaw-Men et Feu fauchés) ; reddition et mort volontaire de Mort (fin juillet) ; naissance de Yomi à Tokyo, troisième adoption, Kobeni gardienne (mi-août -> fin août 1999).
 - Démon central : Mort.
 - Démarre en avril 1999 : rentrée de Denji et Reze en 2e année de fac (Denji 20 ans, Reze 21 ; couverture de Reze à poser).
 - Matière dictée (parquée au journal) : revisite de la Partie 2 canon à notre sauce - Église de Chainsaw Man, fac, MORT QUI S'INFILTRE parmi eux ; Mort aux commandes de l'Église depuis Washington ; le Feu son pion, introuvable (modalités de cavale et de traque à fixer au build) ; transformation de masse ARMÉE - détonation pour quelqu'un d'autre ; retour de Kobeni (hybride pressenti : Tank) ; Barem Bridge, taupe dans l'Église, instrument de la traque du Feu ; réincarnation de Mort : horizon R8+.
 - Reste au moins : le plan long contre Mort (l'acculer à choisir sa propre réincarnation comme seule issue viable) et l'achèvement du quatuor réformé des Cavalières.
 
-## R9 - [DICTÉ EN GRANDES LIGNES - À BUILDER]
-- Nature : un TEMPS CALME. Les filles grandissent, jusqu'à ce qu'elles soient TOUTES adultes.
-- Repères : Nayuta (croissance humaine, née ~septembre 1985) atteint 18 ans en septembre 2003 ; Asa et Kiga (réincarnées) suivent la croissance accélérée en courbe qui s'aplatit, jusqu'au gel adulte.
-- Tranché au build R8 : Yomi fait partie de « toutes » ; gel adulte à DEUX ANS pour la fratrie réincarnée (Asa hiver 1999-2000, Kiga printemps 2000, Yomi fin d'été 2001) ; borne : les 18 ans de Nayuta (septembre 2003).
-- [À POSER] : démon central.
+## R9 - La Vieillesse [ÉCRITE - W1 ; jouable]
+- Bornes : Yomi adoptée, quatuor complet (fin août 1999) -> les 18 ans de Nayuta (septembre 2003), les quatre filles adultes et figées.
+- Jalons : la maison à quatre ; l'hommage de la lignée de Mort à Yomi (automne 1999, à la Cour) ; l'Église reprise par le trône, Barem à sa tête ; les gels d'Asa (hiver 1999-2000) et de Kiga (printemps 2000), canaux tissés à chaque gel ; l'offre de Vieillesse - rajeunir les filles et se nourrir de l'âge non pris -, refusée en bloc (été 2000) ; le premier contact, Kiga la première (fin d'été 2000) ; le gel de Yomi (fin d'été 2001) ; les diplômes de Denji et Reze, retour à la SP (mars-avril 2002) ; la majorité de Nayuta, gel à 18 ans (septembre 2003).
+- Résolus au build : démon central Vieillesse ; mémoire des concepts effacés NON transmise aux réincarnées ; monopole et immortalité (Effroi le tient, Makima pas encore, Yomi seule des filles) ; Barem à la tête de l'Église, couverture intacte ; aucun Tchekhov majeur ne bouge.
+- Démon central : Vieillesse.
+- Fichier : Roadmap_9_La_Vieillesse.md
 
 ## R10 - [DICTÉ EN GRANDES LIGNES - À BUILDER] - le finale
 - Nature : en finir avec les DERNIERS REBELLES pour imposer un MONOPOLE MONDIAL.

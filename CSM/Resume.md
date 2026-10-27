@@ -1,8 +1,8 @@
 # Résumé
 
-- version : W4
+- version : W5
 
-Rôle : résumé de l'histoire de l'univers telle qu'établie (canon + divergences actées), de la première peur à la clôture de R8 (fin août 1999). Nourri par la BIBLE (SB3) et les roadmaps ; le détail par arc vit dans Roadmap/Makoto/.
+Rôle : résumé de l'histoire de l'univers telle qu'établie (canon + divergences actées), de la première peur à la clôture de R9 (septembre 2003). Nourri par la BIBLE (SB3) et les roadmaps ; le détail par arc vit dans Roadmap/Makoto/.
 
 ## Aux origines
 La première peur ressentie par le premier humain fait naître Effroi, l'Originel : tout concept démoniaque descendra de lui. Il engendre Mort, sa première engeance, dont dérivent les trois autres Primordiaux (Chute, Ténèbres, Vieillesse). Aux premières sociétés naissent les Cavalières - Famine, puis Guerre, puis Contrôle - puis Tronçonneuse (Effacement), l'arme de dissuasion du trône. Mort, première Reine d'Effroi, rompt avec lui : impasse entre deux immortels, guerre froide depuis. La peur humaine de l'enfer engendre le démon Enfer ; son territoire devient l'Enfer réel, Royaume d'Effroi, où naissent désormais les démons. Effroi règne par la dévotion, tisse des milliers de contrats sans contrepartie (Réseau, père des contrats, est son serviteur), crée les premiers Devil Hunters sous les traits de Makoto et lance son programme d'hybridation - Quanxi, fusionnée à Arc en 1215, en est la première.
@@ -33,6 +33,9 @@ Asa, réincarnation de Guerre, naît au Kosovo et est rachetée (janvier-févrie
 
 ## 1999 - la Mort
 En avril, Denji et Reze entrent en deuxième année ; Mort, qui n'avait jamais paru, s'infiltre à la fac sous le nom de Shino Sato, verres teintés et gants en toute saison. Kobeni revient d'elle-même chercher du travail et prend le cœur du Tank : les hybrides vivent éternellement et servent la dynastie ; le char, juré à Asa, garde son serment sans servitude. Dans l'Église, Barem monte au rang de numéro deux sous un gourou de façade, contractant du Feu. Fin juin, Barem soupçonne ; interrogé en Enfer, Cataclysme donne le nom de Mort. Mi-juillet, le Feu tire la transformation de masse : les contractants de l'Église deviennent des Chainsaw-Men. Le Roi descend du ciel de Tokyo sous sa forme véritable, appelle Ténèbres par contrat et les fauche d'un souffle, le Feu avec eux - il n'en reste que des ombres ; Barem est exfiltré, Guillotine épargnée. Fin juillet, Mort se rend sur les ruines devant toute la famille royale, fait une seule demande - que son entêtement ne soit pas reproché à celle qui viendra - et meurt de sa volonté. Quelques semaines plus tard, un hôpital de Tokyo appelle la Sécurité Publique : un nourrisson y a tué sa mère et une infirmière d'un simple contact. Makoto, seul à pouvoir la toucher, la sort de sa couveuse ; Makima la nomme Yomi ; Kobeni devient sa gardienne, le Tank à ses côtés. R8 se clôt sur un quatuor réformé complet.
+
+## 1999-2003 - la Vieillesse
+Le temps calme. Plus aucune Cavalière insoumise : le trône respire, et quatre filles grandissent. Makoto est le seul à pouvoir porter Yomi. À l'automne, la lignée des peurs de la mort vient la reconnaître à la Cour, Malédiction s'inclinant sans rien jurer ; dans le même temps, Barem, numéro deux survivant d'une Église décapitée, en prend la tête pour le trône sans que personne ne le soupçonne. Asa puis Kiga deviennent adultes et se figent (hiver 1999-2000, printemps 2000), et Réseau tisse leurs canaux. À l'été 2000, Vieillesse offre de rajeunir les filles et de se nourrir de l'âge qu'elles ne prendraient pas : elles refusent en bloc, et le refus de Yomi, une enfant de la mort qui veut vieillir, lui arrache son respect. À son premier anniversaire, Yomi peut enfin être touchée, et Kiga la serre dans ses bras la première ; elle est adulte un an plus tard. Denji et Reze, diplômés en mars 2002, reviennent à plein temps à la Sécurité Publique. En septembre 2003, Nayuta a dix-huit ans et se fige à son tour : R9 se clôt sur quatre filles adultes. Le Roi tient le monopole de toutes les peurs, Yomi celui de la mort ; ni Makima ni les autres filles ne tiennent encore le leur, et c'est voulu.
 
 ---
 

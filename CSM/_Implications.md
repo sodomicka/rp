@@ -1,28 +1,29 @@
 # _Implications - CSM
 
-- version : W44
+- version : W45
 
 Document de TRAVAIL. Jamais fetché en narration. Allégé : les arbitrages résolus et les tâches faites sont PURGÉS (leur trace vivante est en BIBLE + fiches + Systemes/). Ne restent ici que le vivant - dettes, questions ouvertes, chantiers.
 
-> ÉTAT : BIBLE B13 livrée (build R8, ré-accentuée) ; Sommaire W31 ; Resume.md W4 ; Chronologie W9. Roadmap R8 W4 au gabarit v9.0 (première au nouveau format), JOUABLE. Lot R8 livré : Yomi W1, Cataclysme W2, Guillotine W1 (nouvelles au Sommaire) + 19 pages relivrées et la Chronologie W9. PROCHAIN (thread neuf) : roadmap R9 (temps calme), puis R10 (finale) -> clôture Passe 2 (relecture croisée inter-arcs, mise au gabarit v9.0 des roadmaps R0 -> R7) -> Passe 3 -> CODEX V1 -> SETUP.
+> ÉTAT : BIBLE B14 livrée (build R9) ; Sommaire W32 (roadmaps R0 -> R9 désormais INDEXÉES, garde-cap Chronologie W10 désindexé, conformément à la SPEC v9.2) ; Resume.md W5. Roadmap R9 La Vieillesse W1, JOUABLE, modes et tranches de vie posés d'emblée. Lot R9 : 19 pages relivrées, aucune créée. PROCHAIN (thread neuf) : roadmap R10 (finale) -> clôture Passe 2 (passe d'immersion R0 -> R8, relecture croisée, mise au gabarit v9.x des roadmaps R0 -> R7) -> Passe 3 (SETUP, CODEX V1).
 
 ## DOCTRINE - ce qui va en roadmap et ce qui n'y va pas
 - La roadmap est un outil MJ au POV du prota (Makoto). Les faits que Makoto IGNORE n'y deviennent pas des étapes.
 - Mais le MJ doit connaître l'état VRAI du monde pour jouer les antagonistes : ces faits vivent dans les FICHES et dans le CASTING de la roadmap (hors scène), jamais en étapes.
 - L'ironie dramatique voulue (le joueur sait ce que Makoto ignore) vit en CODEX / ANNEXE_SAVOIRS.
-- Corollaire Trajectoires (rappel SPEC) : la Trajectoire datée d'une fiche ne s'alimente qu'APRÈS le build de l'arc qui la produit. Les faits R8 dictés (cf. D18-D19) restent PARQUÉS ici jusqu'au build R8.
+- Corollaire Trajectoires (rappel SPEC) : la Trajectoire datée d'une fiche ne s'alimente qu'APRÈS le build de l'arc qui la produit.
 
 ## Décisions dictées en attente de leur arc (parquées)
 - D22 - Ange, GARDIEN de Kiga (principe des gardiens des Cavalières) ; loyaliste du ROYAUME plus que du Roi - gardiennat de définition commune (garde-fou conditionnel). Texture : CO-DÉPENDANCE (câlins ; la seule sensibilité comme la sienne qu'il ne puisse pas drainer malgré lui ; écrin : la dépendance est le champ de Famine, couverte par la condition "zéro jugement sur ses addictions"). Investiture DATÉE : avril 1998, de fait, au vol retour (roadmap R7 W3). Ange.md et Kiga.md à jour (W4). Liste des gardiens à date : Kishibe (l'empire, 1990), Aki (Asa, 1998), Ange (Kiga, 1998), Kobeni (Yomi, fin août 1999).
-- D23 - Pochita ne PARLE pas (mutique, conforme à Tronconneuse.md) mais il est TRÈS EXPRESSIF. À la manifestation de l'automne 1998, le dialogue avec le Roi passe par des QUESTIONS FERMÉES : les coups d'avance de Makoto lui font poser les bonnes questions, Pochita n'a plus qu'à répondre oui ou non. Roadmap R7 à jour (W3). Formulation encore à corriger partout où il "parle à son ancien Roi" : Tronconneuse.md (Relations + Trajectoire), Denji.md (Relations + Trajectoire), Effroi.md (Trajectoire).
+- D23 - Pochita ne PARLE pas (mutique, conforme à Tronconneuse.md) mais il est TRÈS EXPRESSIF. À la manifestation de l'automne 1998, le dialogue avec le Roi passe par des QUESTIONS FERMÉES : les coups d'avance de Makoto lui font poser les bonnes questions, Pochita n'a plus qu'à répondre oui ou non. Roadmap R7 à jour (W3). Formulation encore à corriger là où il "parle à son ancien Roi" : Tronconneuse.md (Relations + Trajectoire ; fiche à réaccentuer). Denji.md et Effroi.md : faits.
 
-- D24 - R9 et R10 dictés en grandes lignes (garde-cap et [À POSER] : cf. Chronologie, sections R9 et R10). R9 = temps calme, les filles grandissent jusqu'à être toutes adultes. R10 = finale : en finir avec les derniers rebelles, monopole mondial ; le couple se nourrit du contrôle et de l'équilibre de la peur, les filles reines tacites juste en dessous, sous leur protectorat. Candidats "derniers rebelles" au lore (proposition, non tranchée) : Prédateur (renégat replié), le Feu si R8 ne le clôt pas, Ténèbres (désamorcé, jamais fidèle), Chute (façade loyale). Point de vigilance : le Tchekhov des gardiens (garde-fous armés si le trône dévie de l'équilibre) croise directement le monopole de R10 - dormant ou détonant, à trancher au build R10.
+- D24 - R10 dicté en grandes lignes (garde-cap et [À POSER] : cf. Chronologie, section R10). R10 = finale : en finir avec les derniers rebelles, monopole mondial ; le couple se nourrit du contrôle et de l'équilibre de la peur, les filles reines tacites juste en dessous, sous leur protectorat. Candidats "derniers rebelles" au lore (proposition, non tranchée) : Prédateur (renégat replié), le Feu si R8 ne le clôt pas, Ténèbres (désamorcé, jamais fidèle), Chute (façade loyale). Point de vigilance : le Tchekhov des gardiens (garde-fous armés si le trône dévie de l'équilibre) croise directement le monopole de R10 - dormant ou détonant, à trancher au build R10.
 
 - D25 - Cadrage R8 (roadmap W4). Avril -> fin août 1999, POV Makoto, JOUABLE. Mort incognito à la fac sous le nom de SHINO SATO (verres teintés, gants en toute saison ; savoir MJ strict jusqu'au jalon 5). Kobeni revient d'elle-même pour un travail et prend le cœur du Tank (10e implication). Barem numéro deux sous un gourou humain de façade, contractant du Feu. Le Roi descend du ciel de Tokyo en forme véritable, appelle Ténèbres par contrat sans contrepartie et fauche Chainsaw-Men et Feu (11e implication). Reddition devant toute la famille royale, demande, mort volontaire. Yomi naît à Tokyo, Kobeni gardienne. Aucune bifurcation. Faits servis en BIBLE B13 et fiches ; D18, D19 et D21 purgées.
 - D26 - Gardiens en R10 : dégainés, non tirés. Un traître en attente provoque la scène, qui prouve leur loyauté. Parqué : quel traître.
 - D27 - Chute et Ténèbres (R10). Ténèbres complote contre une fille du Roi ; Chute le tue elle-même. Plant rétro-posé en R6 (savoir MJ) : Chute, témoin non remarquée du désamorçage, retient l'humiliation de son cadet et se met à le surveiller. Parqué : quelle fille, et si Ténèbres renaît réinitialisé.
 - D28 - Chute vient raconter ses exploits au Roi en R10 : elle veut se savoir fiable. Loyauté prouvée en acte, motif mêlé (la convoitise du trône demeure).
 - D29 - Rupture du contrat de 1984. Possessifs dès le soir du contrat, amoureux pendant la grossesse ; à la naissance de Nayuta (~sept 1985), le couple résilie d'un commun accord. Extinction voulue par les deux parties, carve-out intact. L'acquis demeure (Reine, autorité cédée, alliance). Clé Makima CLOSE : seule sortie restante pour Effroi, l'effacement par Tronçonneuse. Trait de Makoto : tout le monde est un outil, sauf sa femme et ses filles ; ils aiment chaque fille autant.
+- D31 - Cadrage R9 (roadmap W1). Fin août 1999 -> septembre 2003, démon central Vieillesse. Faits servis en fiches et BIBLE B14 (hommage de la lignée, Église reprise par Barem, gels et canaux tissés, offre de rajeunissement refusée en bloc, premier contact de Kiga, diplômes de Denji et Reze, Nayuta figée à 18 ans ; monopole et immortalité ; mémoire des effacés non transmise). Parqué R10 : Vieillesse respecte Yomi depuis l'été 2000 ; Barem tient l'Église.
 - D30 - Affinages R8 : Barem exfiltré vivant ; Guillotine épargnée, libérée par la mort de Mort, ralliée à Yomi par lignée ; Chainsaw-Men et Feu MORTS, pas effacés (leur mort nourrit la règle de présence, d'où Tokyo) ; l'appel à Ténèbres est OBLIGATOIRE (verrou du jalon 6) ; Makima nomme Nayuta et Yomi ; le nom Makoto vient d'un samouraï tué par Quanxi en 1215.
 
 ## Règles nouvelles du build R8 (actées, détail en BIBLE SB1)
@@ -36,18 +37,12 @@ Document de TRAVAIL. Jamais fetché en narration. Allégé : les arbitrages rés
 ## Dettes de fiches (à servir au prochain passage sur chaque fiche)
 - Mort.md : "deux Cavalieres a terre en dix-huit mois" -> correction actée (cf. pile R7, Intention) ; toujours présent dans la ligne post-R6, à corriger au prochain passage.
 - Guerre.md et Flingue.md : "mue en bras" à écrire "mué en bras" à leur relivraison (ASCII).
-- Yomi.md : [À TRANCHER] la mémoire des concepts effacés passe-t-elle à l'incarnation nouvelle ? (BIBLE SB8.)
-- Aki.md et Securite_Publique.md : restes de "observation jusqu'a la majorite (1995)" -> majorité le 4 octobre 1994.
 - Katana.md : Relations de base dit encore "Tetsuo - son hote unique" ; Aki est hôte depuis 1998 (Identité et Trajectoire déjà à jour).
 - Predateur.md : le raid des fragments de Flingue y est daté 1987 -> ~1985-1986 (1987 = DÉCOUVERTE du vol par le trône ; cf. Flingue.md, BIBLE SB3).
-- Plafond de Trajectoire : harmoniser sur "illimité - revu si trop lourd" (décision actée) - placeholders restants dans Famine, Arc, Katana, Bombe, Ténèbres, Prédateur, Vaudous ; ligne absente dans Sang et Denji (Nayuta et Ange harmonisés).
-- Noms d'arcs : Effroi.md et Controle.md nomment R1 "Le Contrat" et R2 "Le Gardien" ; le garde-cap et les fichiers disent "Le Contrôle" / "Le Flingue". Cosmétique, à aligner.
+- Plafond de Trajectoire : harmoniser sur "illimité - revu si trop lourd" (décision actée) - placeholders restants dans Famine, Arc, Katana, Prédateur, Vaudous ; ligne absente dans Sang.
 - Balises datées d'une version ("actee au build RN", "(W<n>)", "(D<n>)") encore présentes dans plusieurs fiches : à purger au prochain passage sur chacune (règle actée : plus aucune balise datée d'une version dans les fichiers livrés).
 - Guerre.md : Reze "nee 1981" (Implications d'arc R2 + Trajectoire 1988) -> 1978 (D20 ; Bombe.md et BIBLE déjà à jour).
 - Tronconneuse.md : Relations - Beam et Princi "aujourd'hui captifs de Controle" -> périmé depuis R4 (libérés, Division 4, servent de gré).
-- Effroi.md : Relations - Famine encore "insoumise" (-> morte en mars 1998 de sa main, à sa demande ; réincarnation : Kiga) ; Réseau "seul depositaire du secret Makoto" (-> dépositaire ORIGINEL, le cercle s'est élargi).
-- Propagation D22 - liste des gardiens des Cavalières : Effroi.md (Psychologie) -> Kishibe (l'empire), Aki (Asa), Ange (Kiga), Kobeni (Yomi) - à vérifier à la relecture croisée. (Ange.md, Kiga.md, Yomi.md, BIBLE B13 : faits.)
-- Propagation D22 - loyauté d'Ange : Factions/Securite_Publique.md (tableau de la Division 3) dit "loyaliste inconditionnel du Roi" -> loyaliste du Royaume plus que du Roi. (Ange.md : fait.)
 - Propagation D23 : cf. D23 (quatre fichiers).
 - Ange.md (Scaling + Relations Sécurité Publique) : "Kishibe dirige la Division 1, Ange est en Division 3 - unites distinctes" est périmé depuis l'hiver 1997-1998 (Kishibe chef d'escouade Division 4 selon la BIBLE ; Ange réintégré en Division 4). À TRANCHER : dater la note (état 1984) ou la corriger.
 - Doctrine Pochita révisée - datation ACTÉE : acquise en ouverture de R7 (janvier 1998), brandie à la négociation de mars, CONFIRMÉE par la manifestation d'automne 1998. BIBLE B12 et Resume W2 : faits. À vérifier et aligner à la relecture croisée : Effroi.md, Tronconneuse.md, Denji.md (Trajectoires).
@@ -55,7 +50,7 @@ Document de TRAVAIL. Jamais fetché en narration. Allégé : les arbitrages rés
 
 ## Dette SPEC
 - Plafonds de page ACTÉS : 8k par défaut ; 15k pour les fiches de CAVALIÈRES (Mort, Famine, Guerre, Contrôle, Nayuta, Asa, Kiga - et les incarnations à venir) ; 20k pour le protagoniste (Effroi). Tolérances individuelles : Néant 9k (OC), Ange 10k.
-- Scission en satellites à planifier : Effroi.md (~30,7k > 20k), Guerre.md (~17,2k > 15k), Controle.md (~16,9k > 15k), Securite_Publique.md (~16,8k > 8k). Chantier de fiches séparé, hors builds courants.
+- Scission en satellites à planifier : Effroi.md (~33,8k > 20k), Guerre.md (~17,2k > 15k), Controle.md (~18,3k > 15k), Securite_Publique.md (~17,7k > 8k) ; au-delà du plafond aussi, relevés au build R9 : Nayuta.md (~15,3k > 15k), Bombe.md (~15,1k), Denji.md (~14,4k), Kishibe.md (~14,1k), Armes.md (~12,6k), Aki.md (~11,9k), Predateur.md (~11,7k), Reseau.md (~10k). Chantier de fiches séparé, hors builds courants.
 
 ## Dette CODEX - ANNEXE_SAVOIRS (à servir au CODEX V1)
 - Ironie R1 : pendant R1, le couple analyse les douilles et planifie l'hybridation EN CROYANT Flingue inerte et dispersé - il ne l'est pas, et il parle à Guerre pendant que celle-ci monte son raid. Le JOUEUR le sait, Makoto non. Refermée en 1989 (aveux de Flingue).
@@ -79,8 +74,7 @@ Document de TRAVAIL. Jamais fetché en narration. Allégé : les arbitrages rés
 - Statut cosmologique des âmes : non développé, non bloquant.
 - Ancrage temporel du reniement de Néant par Ténèbres : ouvert, antérieur aux roadmaps (les fiches livrées le laissent ouvert à dessein).
 - Adresse de la Maison de Tokyo de l'Église (imprimée sur les tracts) : détail de scène, Passe 3.
-- Roadmaps CSM hors GABARIT ROADMAP de la SPEC (S7) : itinéraire en prose numérotée au lieu de la table Étapes (# | Étape | Lieu | PNJ impliqués | Tchekhov liés | Durée | Condition d'avancement), sans sections Conditions de départ / Bifurcations / Conditions de clôture, fin FIN_ROADMAP_MAKOTO_<N> au lieu de FIN_WIKI_ROADMAP_<ARC>. La Passe 3 lit les colonnes Durée et Condition d'avancement : à trancher avant la Passe 3 (mise au gabarit, ou dérogation actée). Le build R8 a posé le modèle (gabarit v9.0, R8 W4) : la mise au gabarit de R0 -> R7 devient un chantier de clôture de Passe 2.
-- Chronologie.md indexée au Sommaire alors qu'elle porte tout le futur de la saga (R1 -> R10, depuis un départ au 2 déc 1984) : fetchable en narration, même risque de préfiguration que les roadmaps (que la SPEC désindexe pour cette raison). À trancher : désindexer, ou garder avec un garde-fou explicite.
+- Roadmaps R0 -> R7 hors GABARIT ROADMAP de la SPEC (S7) : itinéraire en prose numérotée au lieu de la table Étapes (# | Étape | Lieu | PNJ impliqués | Tchekhov liés | Durée | Condition d'avancement), sans sections Conditions de départ / Bifurcations / Conditions de clôture, fin FIN_ROADMAP_MAKOTO_<N> au lieu de FIN_WIKI_ROADMAP_<ARC>. La Passe 3 lit les colonnes Durée et Condition d'avancement : à trancher avant la Passe 3 (mise au gabarit, ou dérogation actée). Le build R8 a posé le modèle (gabarit v9.0, R8 W4) : la mise au gabarit de R0 -> R7 devient un chantier de clôture de Passe 2.
 - Naissance de Poupée ("récente"), datations de Corde, Surin et des huit fauves : non datées, non bloquantes.
 - Canaux tissés - autres formes (obéissance et autres régimes avec Réseau) : à peaufiner plus tard (différé worldbuilder).
 
@@ -89,9 +83,9 @@ Document de TRAVAIL. Jamais fetché en narration. Allégé : les arbitrages rés
 
 ## Thread Passe 2 - état
 - POV joué : Makoto / Effroi. Point de départ : 2 décembre 1984.
-- Roadmaps dans Roadmap/Makoto/ : R0 La Peur (W2), R1 Le Contrôle (W6), R2 Le Flingue (W3), R3 L'Autorité (W1), R4 La Tronçonneuse (W1), R5 La Bombe (W1), R6 La Guerre (W2), R7 La Famine (W3, PEAUFINÉE), R8 La Mort (W4, gabarit v9.0) - ÉCRITES ; restent R9 (temps calme) et R10 (finale) ; Chronologie W9 = garde-cap R0 -> R10.
-- BIBLE B13 ; 47 pages indexées (42 Personnages, 1 Lieux, 2 Systèmes, 2 Factions) + racine (Sommaire W31, Resume W4, _Implications W44) ; roadmaps non indexées.
-- SÉQUENCE restante : (1) roadmap R9 (temps calme) ; (2) roadmap R10 (finale) ; (3) clôture Passe 2 (relecture croisée inter-arcs, mise au gabarit v9.0 des roadmaps R0 -> R7) ; (4) Passe 3 (découpage en arcs + fiches d'arc) ; (5) CODEX V1 ; (6) SETUP.
+- Roadmaps dans Roadmap/Makoto/, indexées au Sommaire : R0 La Peur (W2), R1 Le Contrôle (W6), R2 Le Flingue (W3), R3 L'Autorité (W1), R4 La Tronçonneuse (W1), R5 La Bombe (W1), R6 La Guerre (W2), R7 La Famine (W3), R8 La Mort (W5), R9 La Vieillesse (W1) - ÉCRITES ; reste R10 (finale) ; Chronologie W10 = garde-cap R0 -> R10, non indexé.
+- BIBLE B14 ; 47 pages indexées (42 Personnages, 1 Lieux, 2 Systèmes, 2 Factions) + 10 roadmaps + racine (Sommaire W32, Resume W5, _Implications W45).
+- SÉQUENCE restante : (1) roadmap R10 (finale) ; (2) clôture Passe 2 (passe d'immersion R0 -> R8, relecture croisée inter-arcs, mise au gabarit v9.x des roadmaps R0 -> R7) ; (3) Passe 3 (SETUP, CODEX V1).
 - LEÇON (à garder) : confronter systématiquement la BIBLE aux FICHES avant de "résoudre" un chiffrage - une erreur née en roadmap avait été recopiée par un bible build au lieu d'être détectée.
 - LEÇON (à garder) : vérifier le Sommaire et la Généalogie AVANT de poser une filiation.
 - LEÇON (à garder) : ne jamais DÉDUIRE une convention d'un exemple chiffré. En cas de doute comptable, demander.

@@ -1,13 +1,13 @@
 # Roadmap 8 - La Mort
 
-- version : W4
+- version : W5
 - statut : à venir ; JOUABLE
 - prota / POV : Makoto (Effroi)
 - échelle temporelle : ~5 mois, avril 1999 -> fin août 1999
 - borne d'entrée : rentrée de 2e année de fac de Denji et Reze (avril 1999) ; Barem Bridge infiltré dans l'Église de Chainsaw Man depuis la clôture de R7 ; le Feu, nommé par Néant mourant, reste introuvable ; Mort hors scène, insoupçonnée
 - borne de sortie : Yomi, réincarnation de Mort, adoptée ; Kobeni investie gardienne ; le quatuor réformé est complet -> R9
 - roadmap précédente : cf. WIKI Roadmap/Makoto/Roadmap_7_La_Famine.md
-- roadmap suivante : cf. WIKI Roadmap/Makoto/Roadmap_9 (à écrire, temps calme)
+- roadmap suivante : cf. WIKI Roadmap/Makoto/Roadmap_9_La_Vieillesse.md
 
 ## Intention
 L'arc de la DERNIÈRE Cavalière insoumise. Mort, nourrie par deux ans de festin (Washington, Famine, la crise alimentaire frôlée), sort du hors-scène et vient en personne, incognito, à la fac de Denji et Reze. La prophétie de Nostradamus (Centuries X.72 : « Du ciel viendra un grand Roy d'effrayeur », septième mois de 1999) donne l'horloge : quand le nom tombe, Mort jette tout, Tokyo paie, et le grand roi d'effroi descend. Mort ne veut pas mourir ; à court de pièces, elle s'avoue vaincue et meurt de sa seule volonté - la seule Cavalière qu'on n'exécute pas. Le plan de 1984 est clos.
