@@ -14,9 +14,9 @@
 
 ## SB0 Métadonnées
 - univers : CSM - Chainsaw Man, timeline divergente centrée sur Effroi
-- focus narratif : 1984 -> horizon ouvert (découpage R0 -> R10 : R9 temps calme, R10 finale ; ~1997 = repère des événements canon de la Partie 1, que le RP traverse et dépasse ; R8 et R9 roadmappés, d'avril 1999 à septembre 2003)
+- focus narratif : 2 décembre 1984 -> fin 2004 (découpage R0 -> R10, toutes roadmappées : R9 temps calme, R10 finale ; ~1997 = repère des événements canon de la Partie 1, que le RP traverse et dépasse). Un spin-off suivra le RP.
 - sources primaires : manga Chainsaw Man (T. Fujimoto) ; décisions worldbuilder (threads de cadrage, Passes 1 et 2, Histoire globale, 2026)
-- bible_version : B14
+- bible_version : B15
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/CSM/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/CSM/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/CSM/Partie1/`
@@ -27,7 +27,7 @@
   - Lieux/ - Enfer, entité double lieu+démon (1 page)
   - Systemes/ - Genealogie, Histoire (2 pages)
   - Factions/ - Securite_Publique, Eglise_Chainsaw_Man (2 pages)
-  - Roadmap/Makoto/ - roadmaps d'arc R0 -> R9, indexées au Sommaire (la roadmap en cours est le document de jeu de son arc) ; garde-cap Chronologie.md NON indexé (source de build)
+  - Roadmap/Makoto/ - roadmaps d'arc R0 -> R10, indexées au Sommaire (la roadmap en cours est le document de jeu de son arc) ; garde-cap Chronologie.md NON indexé (source de build)
 
 ## SB1 Cosmogonie et règles du monde
 
@@ -51,8 +51,8 @@
 - Force brute aberrante : sa puissance physique est indexée sur la peur ambiante mondiale - colossale, presque jamais déployée (l'employer nourrirait d'autres démons).
 - Implications personnelles : AUCUNE avant la trahison d'Effacement (1983) ; depuis, il s'implique quand ça le mérite - cadence accélérée, délégation en roi millénaire pour le reste. ONZE à date (10e : le cœur du Tank planté chez Kobeni, mai 1999 ; 11e : la descente du ciel de Tokyo, juillet 1999), liste OUVERTE ; liste et détail : cf. Personnages/Effroi.md.
 - Mise à mort par contrat pioché au hasard : quand il tue, il déclenche la mort via l'un de ses milliers de contrats, pioché au hasard - la peur du meurtre se disperse au lieu de nourrir un rival.
-- Mortalité conditionnelle : son MONOPOLE (toutes les peurs) le rend immortel - hors du cycle, intuable par toute force EXTÉRIEURE. Une seule sortie : l'effacement conceptuel par Tronçonneuse (suicide conceptuel de l'espèce). Sa propre main est scellée. La clé Makima (sentence du contrat de 1984) l'a ouverte un temps ; le couple l'a résiliée d'un commun accord à la naissance de Nayuta (~septembre 1985) : CLOSE.
-- Mémoire des effacés : Primordiaux, quatre Cavalières et Effroi se souviennent des concepts effacés par Tronçonneuse (le canon ne cite que les Cavalières ; extension actée). Ne passe PAS à la réincarnée (table rase absolue) : vaut pour Asa, Kiga et Yomi.
+- Mortalité conditionnelle : son MONOPOLE (toutes les peurs ; depuis 2004, l'ÉQUILIBRE) le rend immortel - hors du cycle, intuable par toute force EXTÉRIEURE. Une seule sortie : l'effacement conceptuel par Tronçonneuse (suicide conceptuel de l'espèce). Sa propre main est scellée. La clé Makima (sentence du contrat de 1984) l'a ouverte un temps ; le couple l'a résiliée d'un commun accord à la naissance de Nayuta (~septembre 1985) : CLOSE.
+- Mémoire des effacés : Primordiaux, quatre Cavalières et Effroi se souviennent des concepts effacés par Tronçonneuse (le canon ne cite que les Cavalières ; extension actée). Ne passe PAS à ce qui renaît (table rase absolue) : vaut pour Asa, Kiga et Yomi, et pour Ténèbres réinitialisé (2004).
 - Mémoire et allégeance à la réincarnation : cas par cas hors Cavalières (règle Cavalières : cf. Réincarnation des Cavalières, infra).
 
 ### Psychologie du couple régnant [DIVERGENCE RP]
@@ -94,8 +94,8 @@
 - Marque : yeux à anneaux concentriques dès la naissance ; pouvoir manifesté au berceau (réflexe inconscient), maîtrise par paliers avec la croissance.
 - Croissance ACCÉLÉRÉE en courbe qui s'aplatit : ~10-12 ans d'apparence atteints vers UN AN, puis ralentissement jusqu'au gel adulte, à DEUX ANS (Asa hiver 1999-2000, Kiga printemps 2000, Yomi fin d'été 2001). Conséquence : un écart de naissance de quelques mois devient négligeable. Nayuta, née de reproduction sexuée, grandit humainement - hors règle.
 - Apogée de la réincarnée : elle naît avec le monopole que sa vie antérieure vient de nourrir (Yomi : à son apogée dès le berceau, hors pics d'exception de l'ère atomique).
-- Toucher de Yomi : INCONDITIONNEL au berceau, sans la condition d'infériorité ; la condition et le contrôle viennent avec la maîtrise, par paliers. Il passe outre tout dispositif d'immortalité (Makima comprise) : c'est la mort en personne. Seul Effroi la touche sans risque (son monopole). Premier palier à son premier anniversaire (fin d'été 2000) : la condition d'infériorité s'installe ; contrôle total à son gel (fin d'été 2001).
-- Monopole et immortalité : le monopole d'une peur rend immortel. Effroi tient le sien (toutes les peurs) ; Makima n'a pas encore le sien, issu du contrôle des peurs (à trancher au build R10). Parmi les filles, seule Yomi en tient un, née à l'apogée ; ses sœurs n'aspirent pas à se battre pour le monopole - c'est le principe même du plan de 1984.
+- Toucher de Yomi : INCONDITIONNEL au berceau, sans la condition d'infériorité ; la condition et le contrôle viennent avec la maîtrise, par paliers. Il passe outre tout dispositif d'immortalité : c'est la mort en personne. Seuls les tenants d'un monopole la touchent sans risque (Effroi ; Makima depuis 2004). Premier palier à son premier anniversaire (fin d'été 2000) : la condition d'infériorité s'installe ; contrôle total à son gel (fin d'été 2001).
+- Monopole et immortalité : le monopole d'une peur rend immortel. Depuis 2004, le couple tient les deux seuls monopoles : Effroi l'ÉQUILIBRE (le seul monopole visé par le plan de 1984), Makima le CONTRÔLE DES PEURS (Reine et démone du Contrôle ; immortalité conceptuelle). Yomi, née à l'apogée avec le monopole de la mort, le perd à l'automne 2003 en prenant sa place en équilibre avec ses sœurs : plus d'immortalité conceptuelle, son verrou de mort volontaire tombe. Les filles n'aspirent pas à se battre pour le monopole - c'est le principe même du plan de 1984.
 - Lignée fidèle PAR PRINCIPE à l'incarnation nouvelle, tant qu'elle agit selon son concept (maladies et ravageurs -> Kiga ; armes -> Asa ; peurs de la mort -> Yomi). Les allégeances personnelles se rejurent (serment de Tank à Asa, tenu sans servitude aveugle), jamais ne s'héritent.
 
 ### Désintérêt des lignées [DIVERGENCE RP]
@@ -111,9 +111,9 @@
 - Doctrine POCHITA RÉVISÉE (acquise janvier 1998, confirmée automne 1998) : ne plus miser sur Pochita hors force majeure - pas fiable, tenu par Denji seulement ; les menaces d'effacement restent BRANDIES en argument (menace creuse).
 - GARDIENS DES CAVALIÈRES : chaque Cavalière a son gardien - Kishibe pour l'empire (1990), Aki pour Asa (1998), Ange pour Kiga (avril 1998, de fait), Kobeni pour Yomi (fin août 1999) - garde-fous conditionnels, armés si le trône dévie.
 
-### Horizon R10 [DIVERGENCE RP]
-- L'équilibrage affaiblit Mort réincarnée (plus d'immortalité conceptuelle) ; Ténèbres se nourrit de la puissance prêtée en 1999 et de la peur qu'elle a inspirée. Les deux mis ensemble le poussent au putsch.
-- Immortalité conceptuelle de Makima liée au monopole : à trancher au build R10.
+### Reines tacites [DIVERGENCE RP]
+- Depuis l'automne 2003, les quatre filles tiennent chacune son champ en équilibre (Nayuta l'autorité, Asa les armes, Kiga le manque, Yomi les peurs de la mort) : reines TACITES du monde, sans titre, sous le protectorat du couple régnant.
+- Toucher une princesse, c'est toucher le trône entier : les quatre gardiens répondent ensemble (printemps 2004).
 
 ### Règle d'apparence [DIVERGENCE RP]
 - Hybrides et démons humanoïdes GÈLENT leur vieillissement à l'apparence ADULTE, jamais avant : croissance jusqu'à l'aspect adulte, puis gel.
@@ -129,6 +129,7 @@
 - Effroi - premier démon, incarnation de la peur pure ; nom humain Makoto.
 - Originel - titre d'Effroi, source de toute lignée conceptuelle.
 - Primordiaux - engeances de Mort : Chute, Ténèbres, Vieillesse (peurs de la mort).
+- Reines tacites - les quatre filles du couple, chacune sur son champ en équilibre, depuis l'automne 2003 ; sans titre, sous protectorat.
 - Vieillesse - Primordial de la peur de vieillir, fidèle sans réserve ; offre le rajeunissement aux filles (été 2000), refusé en bloc ; respecte Yomi depuis.
 - Rajeunissement - pouvoir de Vieillesse, l'inverse de son toucher : il ôte des années et se nourrit de l'âge non pris.
 - Cavalières - Mort (cumul), Famine, Guerre, Contrôle ; le concept survit à l'incarnation (réincarnation : règle SB1).
@@ -209,6 +210,9 @@
 | fin d'été 2001 | Gel adulte de Yomi, contrôle total, canal tissé | fratrie réincarnée adulte |
 | mars -> avril 2002 | Denji et Reze diplômés, retour à plein temps à la SP | fin de la couverture étudiante |
 | septembre 2003 | Nayuta a 18 ans et gèle | quatre filles adultes et figées ; R9 clos |
+| automne 2003 | R10 : les quatre filles reines tacites ; Yomi, en équilibre avec ses sœurs, perd monopole et immortalité conceptuelle | le siège de Cavalière de Mort semble accessible à Ténèbres |
+| printemps 2004 | Ténèbres contre Yomi (Tokyo, de nuit), dominé par les quatre gardiens ; Enfer transporte tout le monde devant la Cour ; Chute l'exécute, puis vient le raconter au Roi | dernier rebelle tombé ; Ténèbres renaît sur Terre, réinitialisé ; loyauté de Chute prouvée |
+| 2004 -> fin 2004 | Monopoles du couple : Makima le contrôle des peurs, Effroi l'équilibre ; coda | R10 clos ; fin du RP |
 
 Récit d'avant 1984 : cf. Systemes/Histoire.md (borné par construction). Histoire établie jusqu'à fin août 1999 : cf. Resume.md.
 
@@ -216,13 +220,13 @@ Détail des étapes par arc : cf. CSM/Roadmap/Makoto/ (indexées au Sommaire). E
 
 ### Notes
 - La Partie 1 n'est jamais datée en case ; ~1997 est un consensus. 1984 = P1 moins 13 ans (attaque de Flingue, canon).
-- R6 calé à l'hiver 1997-1998, clos avant le printemps 1998. R7 court de janvier 1998 à mars 1999. R8 court d'avril à fin août 1999. R9 court de fin août 1999 à septembre 2003.
+- R6 calé à l'hiver 1997-1998, clos avant le printemps 1998. R7 court de janvier 1998 à mars 1999. R8 court d'avril à fin août 1999. R9 court de fin août 1999 à septembre 2003. R10 court de septembre 2003 à fin 2004.
 - Naissances actées : Aki 4 octobre 1974 ; Denji 1979 ; Reze 1978 ; Nayuta ~septembre 1985 ; Yomi fin d'été 1999 (Tokyo).
 - Datations Enfer, Cavalières et postes vaudous volontairement ouvertes : cf. Systemes/Genealogie.md.
 
 ## SB4 Factions et groupes
-- Trône d'Effroi (le Royaume) - monarchie conceptuelle | possession par dévotion ; Réseau, Enfer, l'essentiel de l'arsenal, canaux tissés, agents doubles | dominant ; arsenal démontré en instrument de frappe mondiale (purge de Poupée, Roy d'effrayeur) ; foyer à quatre filles depuis 1999, quatuor réformé COMPLET ; les quatre adultes et figées en septembre 2003 ; canaux tissés étendus aux réincarnées.
-- Primordiaux (Chute, Ténèbres, Vieillesse) - engeances de Mort | Chute alignée (façade loyale ; surveille Ténèbres depuis R6, savoir MJ), Ténèbres DÉSAMORCÉ puis nourri par le contrat appelé en 1999, Vieillesse fidèle sans réserve | rivalité latente entre eux ; lignée revenue par principe à Yomi.
+- Trône d'Effroi (le Royaume) - monarchie conceptuelle | possession par dévotion ; Réseau, Enfer, l'essentiel de l'arsenal, canaux tissés, agents doubles | dominant ; arsenal démontré en instrument de frappe mondiale (purge de Poupée, Roy d'effrayeur) ; foyer à quatre filles depuis 1999, quatuor réformé COMPLET ; les quatre adultes et figées en septembre 2003, reines tacites depuis l'automne 2003 ; canaux tissés étendus aux réincarnées ; MONOPOLE du couple depuis 2004 (Effroi l'équilibre, Makima le contrôle des peurs), plus aucun rebelle.
+- Primordiaux (Chute, Ténèbres, Vieillesse) - engeances de Mort | Chute à la loyauté PROUVÉE (exécute Ténèbres, 2004 ; convoitise intacte), Ténèbres traître exécuté puis RÉINITIALISÉ (2004), Vieillesse fidèle sans réserve | lignée revenue par principe à Yomi.
 - Mort - MORTE de sa volonté (fin juillet 1999), réincarnée en YOMI, au foyer | detail: cf. WIKI Personnages/Mort.md.
 - Cavalières - état | Contrôle : alliée, Reine des démons, cheffe de la SP (1998) ; Guerre : ASA ; Famine : KIGA ; Mort : YOMI (les trois au foyer) | plus AUCUNE Cavalière insoumise ; quatuor réformé COMPLET (Autorité + trois réincarnées élevées loyales).
 - Démons-armes (engeances de Guerre) - sept anciennes + Flingue et Tank + trio vaudou | majorité au trône ; Flingue COMPLET chez Kishibe (100%) ; Tank hybridé à KOBENI (mai 1999), juré à Asa ; Katana hybride à Aki ; Bombe libre (Reze, Division 4) ; Quanxi tête de la 5e division ; Lance-flammes (Barem, exfiltré de l'Église) | detail: cf. fiches Personnages/.
@@ -235,21 +239,21 @@ Détail des étapes par arc : cf. CSM/Roadmap/Makoto/ (indexées au Sommaire). E
 ## SB5 Personnages
 Note : l'ENTITÉ Effroi/Makoto est décrite en fiche (OC promu au lore) ; son INSTANCE jouée vivra en CODEX + Parties/.
 
-- Effroi / Makoto - Originel, roi des démons | immortel (seule sortie : l'effacement ; clé Makima close en 1985) ; trois traits propres ; force brute indexée sur la peur mondiale ; ONZE implications (liste ouverte) ; milliers de contrats sans contrepartie ; pour lui tout le monde est un outil, sauf sa femme et ses filles | père de Nayuta, père adoptif d'Asa, Kiga et Yomi ; amour du couple depuis 1985 | actif | [DIVERGENCE RP] | detail: cf. WIKI Personnages/Effroi.md
+- Effroi / Makoto - Originel, roi des démons | immortel (seule sortie : l'effacement ; clé Makima close en 1985) ; monopole de l'équilibre depuis 2004 ; trois traits propres ; force brute indexée sur la peur mondiale ; ONZE implications (liste ouverte) ; milliers de contrats sans contrepartie ; pour lui tout le monde est un outil, sauf sa femme et ses filles | père de Nayuta, père adoptif d'Asa, Kiga et Yomi ; amour du couple depuis 1985 | actif | [DIVERGENCE RP] | detail: cf. WIKI Personnages/Effroi.md
 - Mort - Primordiale et Cavalière, première engeance | MORTE de sa seule volonté (fin juillet 1999), acculée après le Roy d'effrayeur ; une seule demande, que l'entêtement ne soit pas reproché à Yomi | Trajectoire CLOSE ; réincarnation : YOMI | detail: cf. WIKI Personnages/Mort.md
-- Chute - Primordiale | chute physique et mentale | façade loyale ; surveille Ténèbres depuis R6 (savoir MJ) | active | detail: cf. WIKI Personnages/Chute.md
-- Ténèbres - Primordial | vide sensoriel (sceau d'Effacement, 1983) ; ne mise que sur ses certitudes | DÉSAMORCÉ ; contrat appelé par le Roi en juillet 1999, nourri par la puissance prêtée (graine R10) | actif | detail: cf. WIKI Personnages/Tenebres.md
+- Chute - Primordiale | chute physique et mentale | surveillait Ténèbres depuis R6 ; l'EXÉCUTE devant la Cour (printemps 2004) et vient le raconter au Roi - loyauté prouvée, convoitise intacte | active | detail: cf. WIKI Personnages/Chute.md
+- Ténèbres - Primordial | vide sensoriel (sceau d'Effacement, 1983) ; ne mise que sur ses certitudes | dernier rebelle : tente de renverser Yomi (printemps 2004), dominé par les quatre gardiens, exécuté par Chute ; renaît sur Terre RÉINITIALISÉ, devenir ouvert | detail: cf. WIKI Personnages/Tenebres.md
 - Vieillesse - Primordial | Monde de Vieillesse ; tête de la branche temporelle (Avenir, Éternité) ; rajeunissement [DIVERGENCE RP] | seul fidèle sans réserve ; hommage à Yomi par loyauté, respect depuis son refus (été 2000) | actif | detail: cf. WIKI Personnages/Vieillesse.md, Avenir.md, Eternite.md
 - Famine / Fami - Cavalière du manque | MORTE en mars 1998, de la main du Roi, À SA DEMANDE | Trajectoire CLOSE ; réincarnation : KIGA | detail: cf. WIKI Personnages/Famine.md
 - Guerre / Yoru - Cavalière des armes | MORTE à Washington (hiver 1997-1998) | Trajectoire CLOSE ; réincarnation : ASA | detail: cf. WIKI Personnages/Guerre.md
-- Contrôle / Makima - Cavalière devenue REINE DES DÉMONS (1984) ; domination des inférieurs, centaines de contrats | CHEFFE de la SP de Tokyo (1998) ; mère de Nayuta, mère adoptive d'Asa, Kiga et Yomi (elle nomme Nayuta et Yomi) ; contrat de 1984 résilié d'un commun accord (1985) | active | [DIVERGENCE RP] | detail: cf. WIKI Personnages/Controle.md
+- Contrôle / Makima - Cavalière devenue REINE DES DÉMONS (1984) ; domination des inférieurs, centaines de contrats | CHEFFE de la SP de Tokyo (1998) ; mère de Nayuta, mère adoptive d'Asa, Kiga et Yomi (elle nomme Nayuta et Yomi) ; contrat de 1984 résilié d'un commun accord (1985) ; MONOPOLE du contrôle des peurs depuis 2004 (immortalité conceptuelle) | active | [DIVERGENCE RP] | detail: cf. WIKI Personnages/Controle.md
 - Tronçonneuse / Effacement (Pochita) - engeance directe, seule capable d'effacer Effroi | absorbée dans le trône (cœur de Chainsaw Man) ; héros public mondial, objet d'un culte | manifesté à l'automne 1998, muet, questions fermées ; secret Pochita SOLDÉ | [DIVERGENCE RP] | detail: cf. WIKI Personnages/Tronconneuse.md
 - Autorité / Nayuta - enfant conceptuel d'Effroi et Contrôle (reproduction sexuée) ; l'autorité pure ; nom donné par Makima | héritière du quatuor réformé ; cellule de commandement de la Division 4 ; grande sœur d'Asa, Kiga et Yomi ; Kishibe son gardien depuis R6 ; gel à 18 ans (septembre 2003) | active | [DIVERGENCE RP] | detail: cf. WIKI Personnages/Nayuta.md
 - Asa - Cavalière, réincarnation de GUERRE | née au Kosovo (hiver 1997-1998), rachetée et adoptée ; hochet-marteau ; accro à la bagarre ; attachée à AKI (parrain-gardien) ; Tank à son allégeance ; adulte et figée (hiver 1999-2000), canal tissé | active | detail: cf. WIKI Personnages/Asa.md
 - Kiga - Cavalière, réincarnation de FAMINE | née en Somalie (printemps 1998), enlevée par Ange, son gardien de fait ; siphon vital ; accro bouffe et câlins ; choisit de RESTER (fév-mars 1999) ; adulte et figée (printemps 2000), canal tissé ; première à toucher Yomi | active | detail: cf. WIKI Personnages/Kiga.md
-- Yomi - Cavalière et Primordiale, réincarnation de MORT | née à Tokyo (fin d'été 1999) à son apogée ; toucher mortel inconditionnel au berceau, qui passe outre les immortalités ; seul Effroi la touche ; paranoïa du contact (bonnet, gants) ; gardienne : Kobeni ; premier palier fin d'été 2000, adulte et figée fin d'été 2001, contrôle total ; respectée de Vieillesse | active | detail: cf. WIKI Personnages/Yomi.md
+- Yomi - Cavalière et Primordiale, réincarnation de MORT | née à Tokyo (fin d'été 1999) à son apogée ; toucher mortel inconditionnel au berceau, qui passe outre les immortalités ; paranoïa du contact (bonnet, gants) ; gardienne : Kobeni ; premier palier fin d'été 2000, adulte et figée fin d'été 2001, contrôle total ; respectée de Vieillesse ; monopole perdu dans l'équilibre (automne 2003), cible de Ténèbres (2004) | active | detail: cf. WIKI Personnages/Yomi.md
 - Réseau - démon mineur (attachement, liens, perte) | "Père" et régent des contrats ; carve-out d'inviolabilité ; tisseur des canaux tissés ; exécuteur des sentences ; dépositaire originel du secret Makoto | pilier du Royaume | actif | [DIVERGENCE RP - OC] | detail: cf. WIKI Personnages/Reseau.md
-- Ange - démon de la peur des anges, FORGERON du trône (armes-âmes) | drain de vie au toucher, humains seulement | asservi par Contrôle (XIXe s.) ; loyaliste du Royaume plus que du Roi ; ex-gardien de Nayuta, GARDIEN de Kiga depuis avril 1998 | actif, Division 4 | detail: cf. WIKI Personnages/Ange.md
+- Ange - démon de la peur des anges, FORGERON du trône (armes-âmes) | drain de vie au toucher, humains seulement | asservi par Contrôle (XIXe s.) ; loyaliste du Royaume plus que du Roi ; ex-gardien de Nayuta, GARDIEN de Kiga depuis avril 1998 (amour platonique réciproque ; réserve d'âmes gardée pour elle, entamée contre Ténèbres en 2004) | actif, Division 4 | detail: cf. WIKI Personnages/Ange.md
 - Enfer - démon-territoire | Royaume d'Effroi ; standard de convocation | actif | detail: cf. WIKI Lieux/Enfer.md
 - Cataclysme - engeance directe ancienne, fidèle | catastrophes naturelles ; désintérêt de lignée ; a donné le nom de Mort (juin 1999) | actif | detail: cf. WIKI Personnages/Cataclysme.md
 - Démons-armes - Katana (hôte : AKI), Arc/Quanxi (tête de la 5e division), Bombe/Reze (libre, Division 4), Flingue (COMPLET chez Kishibe), Tank (hôte : KOBENI depuis mai 1999 ; juré à Asa sans servitude ; garde de Yomi), Armes (Espadon, Lance-flammes - hôte Barem Bridge, à la tête de l'Église depuis l'automne 1999 -, Fouet, Lance), Vaudous (trio) | detail: cf. fiches WIKI Personnages/
@@ -289,21 +293,19 @@ Note : l'ENTITÉ Effroi/Makoto est décrite en fiche (OC promu au lore) ; son IN
 
 ### Tchekhov
 `Fil - planté en | condition de détonation | conséquence attendue | statut`
-- Équilibre des Gardiens - planté 1990 (Kishibe), étendu 1998 (Aki, Ange) et 1999 (Kobeni) | si le trône dévie de l'équilibre, les garde-fous s'arment ; en R10 : dégainé, non tiré (un traître en attente provoque la scène) | preuve de la loyauté des gardiens | ARMÉ
-- Chute surveille Ténèbres - planté hiver 1997-1998 (savoir MJ) | Ténèbres complote contre une fille du Roi | Chute le tue elle-même et vient le raconter au Roi, pour se savoir fiable | ARMÉ (R10)
-- Putsch de Ténèbres - planté juillet 1999 | puissance prêtée + affaiblissement de Mort par l'équilibrage | le dernier rebelle se déclare | ARMÉ (R10)
-- Immortalité conceptuelle de Makima - planté 1999 | monopole issu du contrôle des peurs | à trancher au build R10 | ouvert
+- Équilibre des Gardiens - planté 1990 (Kishibe), étendu 1998 (Aki, Ange) et 1999 (Kobeni) | si le trône dévie de l'équilibre, les garde-fous s'arment | les quatre ont répondu ENSEMBLE contre Ténèbres (2004) ; la condition elle-même demeure | ARMÉ
 - Âmes vaudoues - planté 1984 (Kishibe) et 1990 (Aki) | fil VIDE de ses deux contractants notoires ; les Vaudous s'en accommodent | ouvert (dormant)
 - Leçon de l'arrachage (Denji) - planté ~1997 | détonation si Denji veut un jour sortir des règles du couple | il sait ce qu'il en coûte | ARMÉ
 - Doctrine de la perte (Denji) - suivi permanent | application arc après arc | le bonheur de Denji bâti sur la perte apprise | ouvert (application continue)
 - Fragment de Typhon (~5% chez Makoto) - planté automne 1997 | assurance-vie du démon et levier du trône, réemploi possible | ouvert
 - Poupée captive (le pantin-Tolka) - planté hiver 1997-1998 | dernier fragment, soumis par Nayuta | devenir à écrire | ouvert
-- Prédateur replié - planté hiver 1997-1998 | le Chasseur sans meute ni allié | réemploi pour plus tard | ouvert
+- Prédateur replié - planté hiver 1997-1998 | le Chasseur sans meute ni allié | réservé au spin-off | ouvert
+- Ténèbres réinitialisé - planté printemps 2004 | renaît sur Terre, mémoire effacée | devenir ouvert | ouvert
 - Le Chien de Nayuta - planté hiver 1997-1998 | démon de compagnie de l'héritière | devenir à écrire | ouvert
 - Néant en Enfer - planté hiver 1998-1999 | renaissance en Enfer selon le cycle | devenir ouvert | ouvert
 - Division 3 (Seraphim, Dominion, Virtue) - planté 1984 | trois ralliés discrets au roster | - | ouvert (muet)
 - Réseau dépositaire originel du secret Makoto - planté à l'origine | - | - | ouvert (muet)
-- SOLDÉS (résolus) : clé Makima (close d'un commun accord, ~sept 1985) ; plan long d'acculement de Mort (abouti, juillet 1999) ; Mort aux commandes de l'Église (démasquée fin juin, reddition) ; transformation de masse (tirée et fauchée) ; le Feu en cavale (mort) ; taupe Barem (servie, exfiltrée) ; Kobeni (hybridée au Tank, gardienne de Yomi) ; répartition de Flingue (Kishibe 100 ; 1 douille ne vaut pas 1%) ; sceau de Tank (descellé, juré à Asa) ; Katana sans hôte (Aki) ; dette d'attachement de Denji (révélation totale) ; créance d'épouse de Quanxi (Power) ; 5e division (levée) ; parrainage d'Aki ; images de R5 (consommées) ; source du savoir de l'Église sur l'Effacement (Néant).
+- SOLDÉS (résolus) : putsch de Ténèbres (dominé par les gardiens, exécuté par Chute, 2004) ; surveillance de Chute (détonée) ; immortalité conceptuelle de Makima (monopole du contrôle des peurs, 2004) ; clé Makima (close d'un commun accord, ~sept 1985) ; plan long d'acculement de Mort (abouti, juillet 1999) ; Mort aux commandes de l'Église (démasquée fin juin, reddition) ; transformation de masse (tirée et fauchée) ; le Feu en cavale (mort) ; taupe Barem (servie, exfiltrée) ; Kobeni (hybridée au Tank, gardienne de Yomi) ; répartition de Flingue (Kishibe 100 ; 1 douille ne vaut pas 1%) ; sceau de Tank (descellé, juré à Asa) ; Katana sans hôte (Aki) ; dette d'attachement de Denji (révélation totale) ; créance d'épouse de Quanxi (Power) ; 5e division (levée) ; parrainage d'Aki ; images de R5 (consommées) ; source du savoir de l'Église sur l'Effacement (Néant).
 
 ## SB9 Index - routage
 
@@ -313,4 +315,4 @@ Routage des entités groupées : Poupée, le pantin-Tolka, le trio américain et
 
 ---
 
-FIN_BIBLE_B14
+FIN_BIBLE_B15

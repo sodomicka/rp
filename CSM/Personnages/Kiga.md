@@ -1,6 +1,6 @@
 # Kiga
 
-- version : W6
+- version : W7
 
 Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Famine. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie. Vie antérieure du concept : cf. Personnages/Famine.
 
@@ -58,7 +58,7 @@ Famine a payé sa vie pour offrir à sa suivante exactement ce qu'on lui avait t
 - Nayuta - grande sœur. Consternée par son goût des noms sans finesse, complice pour le reste.
 - Asa - sœur aînée de quelques mois, grandie au même rythme. Binôme de fratrie, chamailleries de corps et d'appétit.
 - Famine - son incarnation précédente. Aucune continuité vécue, seulement une continuité de concept - et un pacte payé pour elle.
-- Ange - son ravisseur et son premier porteur. Durant le vol du retour, elle tente par pur réflexe de le drainer ; il riposte avec le juste opposé de son propre pouvoir, et les deux drains se mettent en équilibre. Premier être à avoir tenu son siphon en respect. Son GARDIEN, de fait, dès ce vol (principe des gardiens des Cavalières) : garde-fou conditionnel, Ange étant loyaliste du Royaume plus que du Roi. CO-DÉPENDANCE : elle réclame des câlins à tout âge à ses parents, à ses sœurs ET à Ange ; aucun ne refuse, Ange moins que quiconque - elle est la seule sensibilité comme la sienne qu'il ne puisse pas drainer malgré lui (son drain ne touche que les humains). La dépendance est le champ de son concept, et la condition achetée "zéro jugement sur ses addictions" la couvre.
+- Ange - son ravisseur et son premier porteur. Durant le vol du retour, elle tente par pur réflexe de le drainer ; il riposte avec le juste opposé de son propre pouvoir, et les deux drains se mettent en équilibre. Premier être à avoir tenu son siphon en respect. Son GARDIEN, de fait, dès ce vol (principe des gardiens des Cavalières) : garde-fou conditionnel, Ange étant loyaliste du Royaume plus que du Roi. CO-DÉPENDANCE : elle réclame des câlins à tout âge à ses parents, à ses sœurs ET à Ange ; aucun ne refuse, Ange moins que quiconque - elle est la seule sensibilité comme la sienne qu'il ne puisse pas drainer malgré lui (son drain ne touche que les humains). Un AMOUR platonique et réciproque : il garde pour elle une réserve d'âmes, entamée au printemps 2004 contre Ténèbres. La dépendance est le champ de son concept, et la condition achetée "zéro jugement sur ses addictions" la couvre.
 - Denji, Reze, Aki - membres de la maisonnée et de la Division 4 ; aucun lien privilégié à ce stade.
 
 ## Histoire (jusqu'au périmètre)
@@ -84,6 +84,7 @@ Famine a payé sa vie pour offrir à sa suivante exactement ce qu'on lui avait t
 | printemps 2000 (R9 - La Vieillesse) | Gel adulte ; Réseau tisse son canal | Adulte et figée ; titulaire d'un canal tissé |
 | été 2000 (R9 - La Vieillesse) | Doute devant l'offre de Vieillesse ; ses parents lui disent qu'elle n'en a pas besoin ; refuse avec ses sœurs | - |
 | fin d'été 2000 (R9 - La Vieillesse) | Première à serrer Yomi dans ses bras | Le manque, enfin, comblé |
+| automne 2003 (R10 - Les Ténèbres) | Reine tacite sur son champ, le manque | En équilibre avec ses sœurs |
 
 ---
 

@@ -1,6 +1,6 @@
 # Asa
 
-- version : W6
+- version : W7
 
 Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Guerre. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie. Vie antérieure du concept : cf. Personnages/Guerre.
 
@@ -78,6 +78,7 @@ Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Guerre. Fiche 
 | fin juillet - fin août 1999 (R8 - La Mort) | Présente à la reddition de Mort ; troisième sœur, Yomi | Fratrie de quatre |
 | hiver 1999-2000 (R9 - La Vieillesse) | Gel adulte ; Réseau tisse son canal | Adulte et figée ; titulaire d'un canal tissé |
 | été 2000 (R9 - La Vieillesse) | Refuse le rajeunissement offert par Vieillesse : elle veut être au sommet de sa forme physique | - |
+| automne 2003 (R10 - Les Ténèbres) | Reine tacite sur son champ, les armes | En équilibre avec ses sœurs |
 
 ---
 

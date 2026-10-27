@@ -1,6 +1,6 @@
 # Ténèbres
 
-- version : W6
+- version : W7
 
 Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie.
 
@@ -8,12 +8,12 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 - Nom : Ténèbres (démon des Ténèbres).
 - Nature : Primordial. Concept : la peur du noir et, par extension, de l'inconnu - de ce qui se cache dedans. [CANON]
 - Genre indéterminé. [CANON]
-- Statut : actif, en Enfer. Vassal d'Effroi par respect du plus fort - vassalité conditionnelle (cf. Psychologie). DÉSAMORCÉ à l'hiver 1997-1998 : sous menace de RÉINITIALISATION, soumission jouée en acte (cf. Trajectoire).
+- Statut : actif, en Enfer. Vassal d'Effroi par respect du plus fort - vassalité conditionnelle (cf. Psychologie). DÉSAMORCÉ à l'hiver 1997-1998 : sous menace de RÉINITIALISATION, soumission jouée en acte (cf. Trajectoire). Printemps 2004 : traître déclaré contre Yomi, exécuté par Chute devant la Cour ; renaît sur Terre, RÉINITIALISÉ (cf. Trajectoire).
 
 ## Place dans la lignée
 - Engeance directe de Mort, troisième des Primordiaux (Mort -> Chute -> Ténèbres -> Vieillesse) : la peur des monstres qui jaillissent du noir pour tuer. [DIVERGENCE RP]
-- Jamais mort, jamais réincarné : mémoire et identité continues depuis l'aube de l'humanité. [CANON]
-- Exception mémorielle : comme les Primordiaux, les quatre Cavalières et Effroi, il se souvient des concepts effacés par Tronçonneuse. [CANON + DIVERGENCE RP - extension actée au-delà des seules Cavalières]
+- Jamais mort ni réincarné avant le printemps 2004 : mémoire et identité continues depuis l'aube de l'humanité jusqu'à son exécution. [CANON + DIVERGENCE RP]
+- Exception mémorielle : comme les Primordiaux, les quatre Cavalières et Effroi, il se souvient des concepts effacés par Tronçonneuse. [CANON + DIVERGENCE RP - extension actée au-delà des seules Cavalières] Perdue à sa réinitialisation (printemps 2004) : le Ténèbres qui renaît ne s'en souvient pas - table rase pour tout ce qui renaît. [DIVERGENCE RP]
 
 ## Apparence
 - Assemblage de corps humains émaciés : deux corps en guise de jambes, quatre en torse, chacun un visage mutilé différemment (bouche verticale sans yeux ; yeux ouverts et bouche cousue ; bouche ouverte et yeux cousus ; sans yeux, expression sombre). [CANON]
@@ -44,8 +44,9 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 ## Relations de base
 - Effroi / Makoto - suzerain respecté par certitude de sa supériorité. Vassalité conditionnelle ; épée de Damoclès connue du trône depuis la préhistoire - RETOMBÉE à l'hiver 1997-1998 : pacte de Santa Claus jamais consommé, collecte interrompue par le Roi en personne, menace de réinitialisation, livraison du dernier réceptacle de Poupée en gage. DÉSAMORCÉ.
 - Mort - le concept dont il découle. Ambitions voisines (le silence du monde), aucune alliance : il est certain qu'Effroi la surpasse.
-- Chute - autre engeance de Mort ; rivalité latente entre Primordiaux.
+- Chute - autre engeance de Mort ; rivalité latente entre Primordiaux. Elle le surveille depuis l'hiver 1997-1998 (savoir MJ) et l'EXÉCUTE au printemps 2004.
 - Vieillesse - autre engeance de Mort ; rivalité latente entre Primordiaux.
+- Yomi - la réincarnation de Mort, tête de sa lignée ; il tente de la renverser pour lui voler son rang de Cavalière (printemps 2004).
 - Poupée / Santa Claus - cocontractante du pacte de l'hiver 1997-1998, jamais consommé ; il a fini geôlier puis livreur de son dernier réceptacle. cf. Personnages/Assassins_Internationaux.
 
 ## Histoire (jusqu'au périmètre)
@@ -69,5 +70,8 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 | 1998 - hiver 1998-1999 (R7 - La Famine) | Hors scène. Son engeance reniée, NÉANT (peur du vide, des trous, du zéro - "un raté", renié de longue date), monte une secte sous l'Église de Chainsaw Man, se fait démasquer et meurt : Ténèbres le SAIT et s'en désintéresse d'un bout à l'autre - les démons se soucient peu des allégeances et des aventures de leurs engeances. | Rien ne bouge pour lui ; un raté de sa lignée rayé du monde (renaissance en Enfer selon le cycle). cf. Personnages/Neant. |
 | mi-juillet 1999 (R8 - La Mort) | Appelé par contrat, sans contrepartie (privilège du Roi) : prête son ombre pour faucher d'un souffle les Chainsaw-Men et le Feu | Se nourrit de la puissance prêtée et de la peur inspirée ; joint à l'affaiblissement de Mort par l'équilibrage, graine de son putsch (R10, savoir MJ) |
 | automne 1999 (R9 - La Vieillesse) | À l'hommage de la lignée, façade loyale. SAVOIR MJ : se nourrit en silence de la puissance prêtée | Graine du putsch qui mûrit |
+| automne 2003 - printemps 2004 (R10 - Les Ténèbres) | SAVOIR MJ : Yomi, en équilibre avec ses sœurs, n'a plus de monopole ni d'immortalité conceptuelle ; le siège de Cavalière de Mort lui semble accessible ; il prépare son coup | La graine du putsch éclôt |
+| printemps 2004 (R10 - Les Ténèbres) | Surgit du noir contre Yomi, en pleine nuit à Tokyo, pour lui voler son rang de Cavalière. Croyait ne trouver que Kobeni et Tank : les QUATRE gardiens (Kishibe, Aki, Ange, Kobeni) le dominent et le tiennent en respect. Enfer, appelé par Makoto, le transporte devant la Cour | Traître déclaré, captif |
+| printemps 2004 (R10 - Les Ténèbres) | Exécuté par Chute devant la Cour ; tué en Enfer, il renaît sur Terre, réinitialisé | Mémoire effacée, concepts effacés compris ; la menace de 1997-1998 accomplie par une autre main ; devenir ouvert |
 
 FIN_WIKI_PERSONNAGES_TENEBRES

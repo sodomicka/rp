@@ -1,6 +1,6 @@
 # Yomi
 
-- version : W2
+- version : W3
 
 Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Mort. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie. Vie antérieure du concept : cf. Personnages/Mort.
 
@@ -37,11 +37,11 @@ Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Mort. Fiche NE
 - Gel d'apparence à l'âge adulte d'aspect, à DEUX ANS : fin d'été 2001. (Règle commune à la fratrie réincarnée.)
 
 ## Pouvoirs
-- À SON APOGÉE DÈS LA NAISSANCE. Elle naît avec le monopole de peur mortelle que sa vie antérieure vient de nourrir en fauchant Tokyo. Sommet absolu hors pics d'exception (l'ère des armes atomiques et autres hécatombes de ce calibre).
-- Verrou unique, hérité du concept : elle ne peut mourir QUE SI ELLE LE SOUHAITE. Elle EST la mort.
+- À SON APOGÉE DÈS LA NAISSANCE. Elle naît avec le monopole de peur mortelle que sa vie antérieure vient de nourrir en fauchant Tokyo. Sommet absolu hors pics d'exception (l'ère des armes atomiques et autres hécatombes de ce calibre). Depuis l'automne 2003 : en équilibre avec ses sœurs, elle ne dispose plus du monopole, ni de l'immortalité conceptuelle qui en découlait.
+- Verrou unique, hérité du concept : elle ne peut mourir QUE SI ELLE LE SOUHAITE. Elle EST la mort. Ce verrou TOMBE avec le monopole (automne 2003) : c'est l'immortalité conceptuelle qu'elle perd, et ce qui rend son siège accessible à Ténèbres.
 - TOUCHER MORTEL. Au berceau, il est INCONDITIONNEL : il tue tout ce qui touche sa peau, humain ou démon, sans la condition de l'infériorité. Ce n'est pas une capacité, c'est un réflexe qu'elle ne sent pas et ne peut pas arrêter. La condition (la cible qui se pense inférieure) et le contrôle viennent avec la MAÎTRISE, par paliers - même montée en escalier que le siphon de Kiga.
 - Ce toucher PASSE OUTRE les dispositifs d'immortalité : c'est la mort en personne, pas une blessure parmi d'autres. Le dispositif de Makima (blessures mortelles reportées sur des humains via contrat) ne la protège pas.
-- Seul Effroi la touche sans risque : son MONOPOLE (toutes les peurs) le rend immortel. Makima n'a pas encore le sien, issu du contrôle des peurs. Parmi les filles, seule Yomi tient un monopole ; ses sœurs n'aspirent pas à se battre pour le leur - c'est le principe même du plan de 1984. Sans monopole, elles ne sont protégées que par la condition, une fois installée.
+- Seuls les tenants d'un MONOPOLE la touchent sans risque : Effroi (l'équilibre), et Makima depuis 2004 (le contrôle des peurs). Jusqu'à l'automne 2003, seule Yomi tient un monopole parmi les filles ; ses sœurs n'aspirent pas à se battre pour le leur - c'est le principe même du plan de 1984. Sans monopole, elles ne sont protégées que par la condition, une fois installée.
 - Le reste du concept (pions, nuées de corbeaux, apparition de court) se réinstalle à mesure qu'elle grandit. Aucun contrat à sa disposition à ce stade.
 
 ## Psychologie et manies
@@ -75,6 +75,8 @@ Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Mort. Fiche NE
 | été 2000 (R9 - La Vieillesse) | Refuse le rajeunissement offert par Vieillesse : elle associe l'enfance au manque de contrôle et ne veut pas rester petite | Vieillesse, surpris, la respecte |
 | fin d'été 2000 (R9 - La Vieillesse) | Premier palier de maîtrise : la condition d'infériorité s'installe sur son toucher ; Kiga la serre dans ses bras la première | Touchable par qui ne se pense pas inférieur |
 | fin d'été 2001 (R9 - La Vieillesse) | Gel adulte ; contrôle total du toucher ; Réseau tisse son canal | Adulte et figée ; paranoïa du contact maintenue |
+| automne 2003 (R10 - Les Ténèbres) | Reine tacite sur son champ, les peurs de la mort ; en équilibre avec ses sœurs | Perd le monopole de sa naissance et l'immortalité conceptuelle (le verrou de la mort volontaire tombe) |
+| printemps 2004 (R10 - Les Ténèbres) | Cible de Ténèbres, en pleine nuit à Tokyo ; ne lève pas le petit doigt, les quatre gardiens le dominent | Son rang tient sans qu'elle ait à le défendre |
 
 ---
 

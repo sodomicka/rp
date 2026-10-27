@@ -1,6 +1,6 @@
 # Kishibe
 
-- version : W9
+- version : W10
 
 Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie. Personnage canon ; le caractérisant est intégré, la datation et les rattachements RP sont balisés.
 
@@ -61,5 +61,6 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 | hiver 1997-1998 (R6 - La Guerre) | Washington : l'un des quatre hybrides de la mise à mort de Guerre ; participe largement à la destruction de la ville (avec Power et Reze), en pleine conscience du regain nourricier de la Cavalière. L'exécution passée, il ARRACHE le bras-prothèse de la morte et le DÉVORE comme un animal sauvage - aucun rite, juste la complétude de son hybridation. | 91% de Flingue chez le Gardien ; les dernières douilles (9%, chez des renégats) traquables sans difficulté. La première des trois Cavalières qu'il vise est tombée - restent Famine et Mort. |
 | printemps-été 1998 (R7 - La Famine) | LE RANGEMENT : guidé par sa boussole intérieure (Flingue sent ses douilles), il rapatrie les 9% renégats - FLINGUE COMPLET, entier pour la première fois depuis le 18 novembre 1984 ; l'impatience du démon, recyclée vers sa propre complétude depuis 1990, est SOLDÉE. Quanxi de retour à demeure (tête de la 5e division) : la rivalité s'installe au quotidien. Principe des GARDIENS DES CAVALIÈRES acté par le trône : chaque Cavalière aura le sien - lui pour l'empire (1990), Aki pour Asa (1998) - garde-fous conditionnels, armés si le trône dévie. Sparring régulier d'Asa, qui grandit à vitesse accélérée et prend goût à la bagarre contre lui. | Le Gardien COMPLET, 100% ; "chien de garde de la dynastie". Mars 1998 : Famine tombe - de la main du Roi, à sa demande, pas de la sienne. Des Cavalières qu'il visait, ne reste que MORT. |
 | 1999 (R8 - La Mort) | La dernière Cavalière qu'il visait tombe, de sa propre volonté | Il ne lui reste que son rôle de gardien de l'empire |
+| printemps 2004 (R10 - Les Ténèbres) | Constamment aux aguets, sur place immédiatement : avec les trois autres gardiens, il domine Ténèbres, venu pour Yomi, et le tient en respect | Toucher une princesse, c'est toucher le trône entier |
 
 FIN_WIKI_PERSONNAGES_KISHIBE

@@ -1,6 +1,6 @@
 # Contrôle
 
-- version : W13
+- version : W14
 
 Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie.
 
@@ -25,6 +25,7 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 - Comme toutes les Cavalières, elle se réincarne RÉINITIALISÉE (mémoire et personnalité remises à zéro). [CANON]
 - Exception mémorielle : les Primordiaux, les quatre Cavalières et Effroi se souviennent des concepts effacés par Tronçonneuse. [CANON + DIVERGENCE RP - le canon ne cite que les Cavalières ; extension actée aux Primordiaux et au Roi]
 - Réincarnation future (hors périmètre, post-Partie 1 canon) : non inscrite.
+- Depuis 2004 : MONOPOLE du CONTRÔLE DES PEURS, en tant que Reine et démone du Contrôle - immortalité conceptuelle, en plus de son dispositif de contrats. Effroi, lui, se nourrit de l'équilibre. Le toucher de Yomi ne l'atteint plus. [DIVERGENCE RP]
 
 ## Pouvoirs
 - Domination : contrôle total de quiconque elle juge SUBJECTIVEMENT inférieur à elle - humains, possédés, démons, animaux. Obéissance absolue ; mémoire et personnalité modifiables à volonté. [CANON]
@@ -98,5 +99,6 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 | 1998 (R7 - La Famine) | SOMMET ATTEINT : cheffe de la Sécurité Publique de Tokyo - l'ascension accélérée par les massacres de ~1997 aboutit ; l'agence entière passe désormais par elle (5e division levée, cf. Factions/Securite_Publique). MÈRE DE TROIS FILLES : l'appel du ministre kosovar lui livre Asa (extraction montée par Aki), la reddition négociée de Famine accouche de Kiga - deux adoptées, élevées en démones comme Nayuta avant elles. | Le sommet humain conquis ; le foyer triplé - la Reine des démons dirige l'agence anti-démons du Japon en y élevant deux Cavalières. |
 | 1999 (R8 - La Mort) | Présente à la reddition de Mort ; NOMME Yomi, comme elle avait nommé Nayuta. Doit attendre pour la toucher, comme tout le monde : pas encore d'immortalité conceptuelle (liée au monopole, à trancher en R10) | Mère de quatre filles ; le quatuor réformé complet |
 | 1999-2003 (R9 - La Vieillesse) | Élève quatre filles jusqu'à l'âge adulte ; à l'offre de Vieillesse, dit à Kiga qu'elle n'en a pas besoin | Les quatre filles adultes et figées en septembre 2003 |
+| 2003-2004 (R10 - Les Ténèbres) | Co-régente du monde à l'équilibre ; Ténèbres tombé, plus aucun rebelle : elle prend le monopole du contrôle des peurs | Immortalité conceptuelle ; mère de quatre reines tacites |
 
 FIN_WIKI_PERSONNAGES_CONTROLE

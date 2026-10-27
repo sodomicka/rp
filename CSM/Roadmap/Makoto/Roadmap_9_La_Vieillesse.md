@@ -1,13 +1,13 @@
 # Roadmap 9 - La Vieillesse
 
-- version : W1
+- version : W2
 - statut : à venir ; JOUABLE
 - prota / POV : Makoto (Effroi)
 - échelle temporelle : ~4 ans, fin août 1999 -> septembre 2003 (2003 - 1999 = 4) ; deux longs blocs en snapshots
 - borne d'entrée : Yomi adoptée, Kobeni investie gardienne, quatuor réformé complet ; l'Église décapitée ; Tokyo meurtri par la dernière tentative de Mort
 - borne de sortie : les 18 ans de Nayuta (septembre 2003) ; les quatre filles sont adultes et figées -> R10
 - roadmap précédente : cf. WIKI Roadmap/Makoto/Roadmap_8_La_Mort.md
-- roadmap suivante : cf. WIKI Roadmap/Makoto/Roadmap_10 (à écrire, le finale)
+- roadmap suivante : cf. WIKI Roadmap/Makoto/Roadmap_10_Les_Tenebres.md
 
 ## Intention
 Le temps calme. Plus aucune Cavalière insoumise : le trône respire, et quatre gamines grandissent trop vite. Le cœur de l'arc, c'est d'accepter que ses enfants deviennent adultes. Vieillesse, le Primordial qui méprise la jeunesse, offre de les garder petites ; ce sont elles qui refusent.

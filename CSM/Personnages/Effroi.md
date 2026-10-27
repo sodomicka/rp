@@ -1,6 +1,6 @@
 # Effroi
 
-- version : W14
+- version : W15
 
 Entité [DIVERGENCE RP] - OC promu au lore (Originel structurant la cosmogonie CSM). Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie. L'INSTANCE jouée vit en CODEX + Parties/.
 
@@ -14,6 +14,7 @@ Entité [DIVERGENCE RP] - OC promu au lore (Originel structurant la cosmogonie C
 - Né de la toute première peur ressentie par le premier humain capable d'en éprouver une. Aucun démon ne le précède.
 - Se nourrit de TOUTES les peurs, partout, en somme ambiante mondiale - jamais d'un concept unique. La peur pure est trop conceptuelle pour un canal dédié : pas de dévotion "directe", seulement l'ambiance.
 - Croissance en pente douce, dépendante d'une infinité de facteurs. Conséquence : un démon en monopole d'une peur massive peut ponctuellement le dépasser en puissance brute.
+- Depuis 2004 : monopole de l'ÉQUILIBRE, seul monopole visé par le plan de 1984 ; Makima tient celui du contrôle des peurs. [DIVERGENCE RP]
 - Règne par la DÉVOTION exigée, jamais par la terreur (régner par la peur nourrirait le démon de cette peur, pas lui).
 - Hors du cycle mort-renaissance. Intuable par toute force extérieure ; seulement affaiblissable.
 - Mortalité conditionnelle - deux sorties concevables, et deux seulement :
@@ -128,5 +129,6 @@ Attributs et savoirs (ni traits propres, ni contrats) :
 | mi-juillet 1999 (R8 - La Mort) | LE ROY D'EFFRAYEUR : descend du ciel de Tokyo sous sa forme véritable, quasi à l'apogée (monopole des trois Cavalières rangées en équilibre) ; appelle Ténèbres par contrat sans contrepartie et fauche d'un souffle les Chainsaw-Men et le Feu - n'en restent que des ombres ; épargne Guillotine | 11e implication ; la prophétie à la lettre ; Ténèbres nourri par la puissance prêtée (graine R10) |
 | fin juillet - fin août 1999 (R8 - La Mort) | Reddition de Mort acceptée ; récupère Yomi à l'hôpital, seul à pouvoir la toucher ; troisième adoption | Le plan de 1984 est clos : quatuor réformé complet |
 | 1999-2003 (R9 - La Vieillesse) | LE TEMPS CALME : seul à porter Yomi jusqu'à son premier palier ; reçoit l'hommage de la lignée de Mort ; place Barem à la tête de l'Église ; à l'offre de Vieillesse, dit à Kiga qu'elle n'en a pas besoin | Les quatre filles adultes ; l'Église tenue de l'intérieur |
+| 2003-2004 (R10 - Les Ténèbres) | LE FINALE : ne lève pas la main contre le dernier rebelle ; appelle Enfer pour transporter gardiens et captif devant la Cour ; reçoit le récit de Chute ; plus aucun rebelle | Monopole de l'équilibre ; le couple au sommet, les filles reines tacites sous son protectorat |
 
 FIN_WIKI_PERSONNAGES_EFFROI

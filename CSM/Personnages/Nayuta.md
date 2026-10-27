@@ -1,6 +1,6 @@
 # Nayuta
 
-- version : W10
+- version : W11
 
 Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'entité telle qu'elle existe dans le monde, indépendamment d'une partie.
 
@@ -84,5 +84,6 @@ Note : à part son ORIGINE (fille biologique, non une réincarnation) et son NOM
 | fin juillet - fin août 1999 (R8 - La Mort) | Présente à la reddition ; troisième petite sœur, Yomi | Aînée d'une fratrie de quatre |
 | été 2000 (R9 - La Vieillesse) | Refuse le rajeunissement offert par Vieillesse : elle veut un corps qui ne laisse pas entendre qu'elle est une enfant | - |
 | septembre 2003 (R9 - La Vieillesse) | 18 ans ; gel à l'apparence adulte | Dernière adulte de la fratrie |
+| automne 2003 (R10 - Les Ténèbres) | Reine tacite sur son champ, l'autorité | En équilibre avec ses sœurs |
 
 FIN_WIKI_PERSONNAGES_NAYUTA
