@@ -1,6 +1,6 @@
 # Nayuta
 
-- version : W9
+- version : W10
 
 Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'entité telle qu'elle existe dans le monde, indépendamment d'une partie.
 
@@ -16,7 +16,7 @@ Note : à part son ORIGINE (fille biologique, non une réincarnation) et son NOM
 ## Divergence vs canon
 - En canon, Nayuta est la RÉINCARNATION du démon du Contrôle (après la mort de Makima), trouvée enfant en Chine par Kishibe. Ici : NON - elle est la fille BIOLOGIQUE d'Effroi et de Contrôle, un être neuf. [DIVERGENCE RP]
 - Son concept se nomme Autorité (la part pure cédée), non Contrôle. Tout le reste - apparence, caractère, pouvoirs - suit le canon. [DIVERGENCE RP]
-- Ses trois sœurs (équivalent divergent des trois sœurs de la Nayuta canon - Mort, Famine, Guerre) : des RÉINCARNATIONS adoptées, chacune en fiche propre - Asa (Guerre) et Kiga (Famine) sont arrivées en 1998 ; la troisième, réincarnation de Mort, reste un horizon. [DIVERGENCE RP]
+- Ses trois sœurs (équivalent divergent des trois sœurs de la Nayuta canon - Mort, Famine, Guerre) : des RÉINCARNATIONS adoptées, chacune en fiche propre - Asa (Guerre) et Kiga (Famine) sont arrivées en 1998, Yomi (Mort) à la fin de l'été 1999. [DIVERGENCE RP]
 
 ## Apparence
 - ENFANT : cheveux noirs courts (mi-nuque), une longue mèche couvrant l'œil GAUCHE, un petit grain de beauté sous l'œil gauche. [CANON]
@@ -26,7 +26,7 @@ Note : à part son ORIGINE (fille biologique, non une réincarnation) et son NOM
 
 ## Immortalité
 - Capacités démoniaques standard : réincarnation, régénération par le sang, contrats. [CANON]
-- Née humaine (repro sexuée) : gel de vieillissement à l'apparence adulte (cf. BIBLE SB1) - en R2 elle grandit normalement. [DIVERGENCE RP]
+- Née humaine (repro sexuée) : gel de vieillissement à l'apparence adulte, à 18 ans (septembre 2003 ; cf. BIBLE SB1) - en R2 elle grandit normalement. [DIVERGENCE RP]
 
 ## Pouvoirs [CANON, cadre par la BIBLE]
 - Autorité pure / domination : elle impose l'obéissance aveugle à tout être qu'elle juge plus faible. En canon, cela passe par des CHAÎNES projetées des doigts dans la tête de la cible - elle en réécrit les actes, la perception, la mémoire ; elle peut retourner un rôle (transformer quelqu'un en "chien"), altérer un goût, effacer un souvenir. [CANON]
@@ -54,7 +54,7 @@ Note : à part son ORIGINE (fille biologique, non une réincarnation) et son NOM
 - Le pantin-Tolka (Poupée) - dernier réceptacle de la démone Poupée, livré par Ténèbres et SOUMIS par son autorité (hiver 1997-1998) ; prisonnier littéral du trône, devenir ouvert. cf. Personnages/Assassins_Internationaux. [DIVERGENCE RP]
 - Asa - première petite sœur, adoptée en janvier-février 1998 et élevée en ÉGALE ; la "petite sœur" promise à Guerre mourante. cf. Personnages/Asa. [DIVERGENCE RP]
 - Kiga - seconde petite sœur (avril 1998) ; consternée par son goût des noms sans finesse, complice pour le reste ; toujours de quoi manger sur elle pour la petite. cf. Personnages/Kiga. [DIVERGENCE RP]
-- La troisième sœur (réincarnation de Mort) - horizon ouvert. [DIVERGENCE RP]
+- Yomi - troisième petite sœur (fin d'été 1999), réincarnation de Mort. cf. Personnages/Yomi. [DIVERGENCE RP]
 - Kishibe - présent à sa naissance : il s'agenouille sous son premier ordre. Plus tard son TROISIÈME MAÎTRE - la justice, à l'école de la gouvernance (1990-94, cf. Trajectoire). [DIVERGENCE RP]
 - Denji - le "grand frère" arrimé au foyer (~1997) : recruté avec elle en ancre émotionnelle ; depuis les révélations, il sait ce qu'elle est - et elle aime être traitée en petite sœur. cf. Trajectoire. [DIVERGENCE RP]
 
@@ -82,5 +82,7 @@ Note : à part son ORIGINE (fille biologique, non une réincarnation) et son NOM
 | été-automne 1998 (R7 - La Famine) | TRACTS CODÉS de la branche nihiliste : la SP les tenait depuis des mois sans y voir de code. Elle les démonte en quelques minutes - l'en-tête "LA LUMIÈRE RÉVÈLE LA VÉRITÉ" pris au pied de la lettre, le tract levé à contre-jour, des lettres sans sens, des F partout où l'on attendrait des E, un cran de recul : LE NÉANT EST LE REMÈDE, CONTACTER ADEPTE TANAKA. Ses parents l'ont lu aussi vite, et s'en amusent. (Détail du code : cf. Factions/Eglise_Chainsaw_Man.) | La piste nihiliste s'ouvre par elle : l'héritière lit ce que les humains ratent depuis des mois. |
 | fin juin 1999 (R8 - La Mort) | Propose de croiser les sources ; accompagne son père en Enfer interroger Cataclysme | Le nom de Mort tombe grâce à elle |
 | fin juillet - fin août 1999 (R8 - La Mort) | Présente à la reddition ; troisième petite sœur, Yomi | Aînée d'une fratrie de quatre |
+| été 2000 (R9 - La Vieillesse) | Refuse le rajeunissement offert par Vieillesse : elle veut un corps qui ne laisse pas entendre qu'elle est une enfant | - |
+| septembre 2003 (R9 - La Vieillesse) | 18 ans ; gel à l'apparence adulte | Dernière adulte de la fratrie |
 
 FIN_WIKI_PERSONNAGES_NAYUTA

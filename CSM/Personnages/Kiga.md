@@ -1,6 +1,6 @@
 # Kiga
 
-- version : W5
+- version : W6
 
 Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Famine. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie. Vie antérieure du concept : cf. Personnages/Famine.
 
@@ -15,7 +15,7 @@ Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Famine. Fiche 
 - TABLE RASE : aucun contrat, aucun canal, aucune allégeance héritée. Les contrats de Famine se sont éteints avec elle (règle générale, BIBLE SB1).
 - Tête de la lignée des MALADIES - le corps privé de sa santé - maladies végétales comprises. Cette lignée reste fidèle au concept par principe, fidélité qui tiendra tant que Kiga agira en Famine.
 - Les RAVAGEURS (Hanneton, Sauterelle, Cochenille) restent de la lignée du Prédateur mais suivent l'ALLÉGEANCE de Famine : ils lui reviennent par le même principe, sans changer de lignée.
-- Éligible aux canaux tissés de Réseau (privilège de la famille Royale, vocation actée de s'étendre au quatuor réformé) - tissage non acquis à ce stade.
+- Éligible aux canaux tissés de Réseau (privilège de la famille Royale, étendu au quatuor réformé) - canal tissé à son gel adulte (printemps 2000).
 
 ## Naissance et localisation
 - RÈGLE ACTÉE : le pays de naissance d'une réincarnation suit la PRÉSENCE de son concept à l'instant t.
@@ -23,7 +23,7 @@ Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Famine. Fiche 
 - Née au printemps 1998, quelques semaines après la mort de Famine à Tokyo (R7, étape 3) - même délai que le précédent Guerre / Asa.
 - Localisée en avril 1998 (R7, étape 4) sur SIGNALEMENT DE FIÈVRE, fidèle engeance de Famine, terrée dans un hôpital de Mogadiscio pour se nourrir au plus près de la peur de la fièvre de la vallée du Rift : les médecins se plaignent de vertiges autour d'une chambre où une jeune mère semble épuisée à outrance, comme vidée.
 - ENLEVÉE par Ange - volontaire pour la mission, son pouvoir résonnant avec celui de la petite, et Nayuta n'ayant plus besoin de gardien (Kishibe est le chien de garde de la dynastie). Il la prend pendant que la mère est placée en soins intensifs et que les infirmières n'osent plus entrer dans la chambre, et la ramène en volant, avec plus de soin qu'il n'en a jamais mis à rien de ce qu'il a touché. La mère SURVIT au drain ; elle ne saura jamais rien.
-- MÉMOIRE : AUCUNE. Pas de bribes, pas de réminiscences. Ce qu'elle sait de sa vie antérieure, on le lui a raconté - savoir transmis, jamais souvenir.
+- MÉMOIRE : AUCUNE. Pas de bribes, pas de réminiscences. Ce qu'elle sait de sa vie antérieure, on le lui a raconté - savoir transmis, jamais souvenir. La mémoire des concepts effacés ne passe pas non plus (BIBLE SB1).
 
 ## Conditions achetées par Famine
 Clauses obtenues par la Cavalière lors de sa reddition, en échange du désamorçage de la crise alimentaire mondiale, et tenues par le trône :
@@ -81,6 +81,9 @@ Famine a payé sa vie pour offrir à sa suivante exactement ce qu'on lui avait t
 | avril 1998 -> mars 1999 (R7 - La Famine) | Croissance accélérée ; éducation de démone ; choisit et impose son nom ; premiers paliers de maîtrise du drain ; installation des habitudes (le sac de nourriture, les câlins, la maisonnée qui s'y accorde) | Nom acté ; siphon partiellement maîtrisé ; place de cadette installée dans la fratrie |
 | février-mars 1999 (R7 - La Famine) | LE CHOIX : elle pèse ce qu'elle pourrait avoir ailleurs, et choisit de rester. Pas une habitude - une décision réfléchie | La promesse faite à une morte est tenue ; l'arc se ferme sur son consentement |
 | fin juillet - fin août 1999 (R8 - La Mort) | Présente à la reddition de Mort ; une petite sœur qu'elle ne peut pas câliner tant que Yomi ne maîtrise pas son toucher | Fratrie de quatre ; le manque, pour une fois, sans remède |
+| printemps 2000 (R9 - La Vieillesse) | Gel adulte ; Réseau tisse son canal | Adulte et figée ; titulaire d'un canal tissé |
+| été 2000 (R9 - La Vieillesse) | Doute devant l'offre de Vieillesse ; ses parents lui disent qu'elle n'en a pas besoin ; refuse avec ses sœurs | - |
+| fin d'été 2000 (R9 - La Vieillesse) | Première à serrer Yomi dans ses bras | Le manque, enfin, comblé |
 
 ---
 

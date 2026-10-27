@@ -1,6 +1,6 @@
 # Yomi
 
-- version : W1
+- version : W2
 
 Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Mort. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie. Vie antérieure du concept : cf. Personnages/Mort.
 
@@ -14,7 +14,7 @@ Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Mort. Fiche NE
 - Le CONCEPT est la première engeance d'Effroi, née à la préhistoire. Elle en est la suite, pas une copie.
 - TABLE RASE : aucun contrat, aucun canal, aucune allégeance héritée. Les contrats de Mort se sont éteints avec elle (règle générale, BIBLE SB1) - le contrat qui tenait Guillotine compris.
 - Tête de la lignée des peurs de la mort : les Primordiaux (Chute, Ténèbres, Vieillesse), Zombie, Malédiction, l'arsenal (Guillotine). Cette lignée lui revient par principe, fidélité au concept qui tiendra tant que Yomi agira en Mort. Les Primordiaux déjà vassaux du trône le restent ; c'est désormais aussi la maison de leur concept-mère.
-- Éligible aux canaux tissés de Réseau (privilège de la famille Royale, vocation actée de s'étendre au quatuor réformé) - tissage non acquis à ce stade.
+- Éligible aux canaux tissés de Réseau (privilège de la famille Royale, étendu au quatuor réformé) - canal tissé à son gel adulte (fin d'été 2001).
 
 ## Naissance et localisation
 - RÈGLE ACTÉE : le pays de naissance d'une réincarnation suit la PRÉSENCE de son concept à l'instant t.
@@ -26,7 +26,7 @@ Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Mort. Fiche NE
   - Une infirmière meurt en voulant rassurer le bébé, qui n'a pas versé une larme. Elle a respiré sans crier ; elle a tué sans réfléchir, parce que c'est un bébé.
   - Un médecin enfile des gants : il survit. Le contact peau contre peau est la clé.
   - Combinaisons hazmat pour le personnel, quarantaine : le bébé seul au milieu d'une chambre, dans sa couveuse. Un boulot pour la Sécurité publique, d'où l'appel.
-- MÉMOIRE : AUCUNE de sa vie antérieure. Ce qu'elle sait de Mort, on le lui raconte - savoir transmis, jamais souvenir. [A TRANCHER : la mémoire des concepts effacés, propre aux Primordiaux et aux Cavalières, passe-t-elle à l'incarnation nouvelle ?]
+- MÉMOIRE : AUCUNE de sa vie antérieure. Ce qu'elle sait de Mort, on le lui raconte - savoir transmis, jamais souvenir. La mémoire des concepts effacés NE PASSE PAS à l'incarnation nouvelle : table rase absolue (règle commune à la fratrie réincarnée, BIBLE SB1).
 
 ## Apparence et croissance
 - Yeux NOIRS cerclés de ROSE - l'inverse exact de sa vie antérieure (roses cerclés de noir). Première engeance conceptuelle d'Effroi, elle porte dans les yeux le noir de ceux de Makoto.
@@ -41,7 +41,7 @@ Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Mort. Fiche NE
 - Verrou unique, hérité du concept : elle ne peut mourir QUE SI ELLE LE SOUHAITE. Elle EST la mort.
 - TOUCHER MORTEL. Au berceau, il est INCONDITIONNEL : il tue tout ce qui touche sa peau, humain ou démon, sans la condition de l'infériorité. Ce n'est pas une capacité, c'est un réflexe qu'elle ne sent pas et ne peut pas arrêter. La condition (la cible qui se pense inférieure) et le contrôle viennent avec la MAÎTRISE, par paliers - même montée en escalier que le siphon de Kiga.
 - Ce toucher PASSE OUTRE les dispositifs d'immortalité : c'est la mort en personne, pas une blessure parmi d'autres. Le dispositif de Makima (blessures mortelles reportées sur des humains via contrat) ne la protège pas.
-- Seul Effroi la touche sans risque : intuable par toute force extérieure, hors du cycle.
+- Seul Effroi la touche sans risque : son MONOPOLE (toutes les peurs) le rend immortel. Makima n'a pas encore le sien, issu du contrôle des peurs. Parmi les filles, seule Yomi tient un monopole ; ses sœurs n'aspirent pas à se battre pour le leur - c'est le principe même du plan de 1984. Sans monopole, elles ne sont protégées que par la condition, une fois installée.
 - Le reste du concept (pions, nuées de corbeaux, apparition de court) se réinstalle à mesure qu'elle grandit. Aucun contrat à sa disposition à ce stade.
 
 ## Psychologie et manies
@@ -71,6 +71,10 @@ Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Mort. Fiche NE
 |---|---|---|
 | fin d'été 1999 (R8 - La Mort) | Naissance à Tokyo, quelques semaines après la mort volontaire de Mort ; tue sa mère et une infirmière au contact ; quarantaine en couveuse | Le concept reprend corps à son apogée ; table rase - aucun contrat, aucune mémoire ; toucher mortel inconditionnel dès le berceau |
 | fin d'été 1999 (R8 - La Mort) | L'hôpital appelle la Sécurité publique ; Makoto la récupère, seul à pouvoir la toucher ; Makima la nomme ; troisième adoption ; Kobeni investie gardienne | Passe de nourrisson en quarantaine à fille du trône ; le quatuor réformé est complet |
+| automne 1999 (R9 - La Vieillesse) | Hommage de la lignée des peurs de la mort, à la Cour, dans les bras de Makoto ; Malédiction s'incline sans jurer | Lignée reconnue |
+| été 2000 (R9 - La Vieillesse) | Refuse le rajeunissement offert par Vieillesse : elle associe l'enfance au manque de contrôle et ne veut pas rester petite | Vieillesse, surpris, la respecte |
+| fin d'été 2000 (R9 - La Vieillesse) | Premier palier de maîtrise : la condition d'infériorité s'installe sur son toucher ; Kiga la serre dans ses bras la première | Touchable par qui ne se pense pas inférieur |
+| fin d'été 2001 (R9 - La Vieillesse) | Gel adulte ; contrôle total du toucher ; Réseau tisse son canal | Adulte et figée ; paranoïa du contact maintenue |
 
 ---
 

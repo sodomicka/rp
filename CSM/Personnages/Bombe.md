@@ -1,6 +1,6 @@
 # Bombe
 
-- version : W7
+- version : W8
 
 Entité double : le DÉMON (Bombe) et l'HYBRIDE humaine qui le portera (Reze). Fiche NEUTRE : décrit l'entité telle qu'elle existe dans le monde, indépendamment d'une partie. [CANON + DIVERGENCE RP]
 
@@ -20,7 +20,7 @@ Particularité vs Arc/Quanxi : ici la fusion est POSTÉRIEURE au point de dépar
 - Naissance : postérieure à l'invention des explosifs. [IMPLICITE]
 
 ## L'hybride (Reze)
-- Humaine, enfant-arme du programme soviétique de Guerre (l'URSS). Née en 1978 - datation ÉDITÉE au chantier fiches R7 (D20) ; 6 ans au point de départ, 10 ans à l'hybridation (1988), 19 ans au gel d'apparence (automne 1997). [CANON pour l'origine soviétique + DIVERGENCE RP pour l'âge - le canon ne la date pas]
+- Humaine, enfant-arme du programme soviétique de Guerre (l'URSS). Née en 1978 - datation ÉDITÉE ; 6 ans au point de départ, 10 ans à l'hybridation (1988), 19 ans au gel d'apparence (automne 1997). [CANON pour l'origine soviétique + DIVERGENCE RP pour l'âge - le canon ne la date pas]
 - Élevée et dressée dès l'enfance comme une arme vivante ; les "années de souffrance" (R2) sont sa weaponisation soviétique. [CANON + DIVERGENCE RP]
 - Surnom : "Bomb Girl". Sa mission canon d'origine (voler le cœur de la Tronçonneuse pour l'URSS) ne s'applique PAS telle quelle dans cette timeline : sa mission est celle d'Effroi (cf. Trajectoire 1988). [CANON + DIVERGENCE RP]
 - Âme réelle sous la façade : une soif de liberté et d'amour - vivre une vie normale, aimer et être aimée. Point commun avec Bombe, et base de leur accord à venir. [CANON]
@@ -82,7 +82,7 @@ Particularité vs Arc/Quanxi : ici la fusion est POSTÉRIEURE au point de dépar
 - R2 exige qu'au point de départ : Bombe soit DÉJÀ en place comme agent double au cœur de la sphère de Guerre (sinon pas d'espionne à hybrider en 1988) ; Reze soit DÉJÀ née et dans le programme soviétique ; le désir d'amour partagé soit DÉJÀ présent (c'est le levier qui rend l'accord de 1988 possible). Points couverts par le NOYAU.
 
 ## Trajectoire datée
-(Alimentée À CHAUD, une entrée par arc roadmappé, jamais anticipée. Plafond d'entrées : [À FIXER PAR LE WORLDBUILDER].)
+(Alimentée À CHAUD, une entrée par arc roadmappé, jamais anticipée. Plafond d'entrées : illimité - revu si trop lourd.)
 
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
@@ -92,5 +92,6 @@ Particularité vs Arc/Quanxi : ici la fusion est POSTÉRIEURE au point de dépar
 | avril 1998 - hiver 1998-1999 (R7 - La Famine) | Première année de fac aux côtés de Denji : vie normale voulue ET couverture d'enquête ; GARDE RAPPROCHÉE du vaisseau toute l'année. En civil, une fille normale - seul le choker (accessoire commun) habille le tell. | Étudiante-garde du corps ; la double vie du couple tient une année entière. |
 | hiver 1998-1999 (R7 - La Famine) | CLIMAX : avec Denji, elle abat Néant démasqué, sous les yeux de Makoto venu assister en personne. | Co-exécutrice de l'antagoniste de l'arc. |
 | avril-juillet 1999 (R8 - La Mort) | 2e année de fac aux côtés de Denji, couverture inchangée ; côtoie Shino Sato sans le savoir. En première ligne contre les Chainsaw-Men | Étudiante-garde du corps, au contact de Mort sans le savoir |
+| mars -> avril 2002 (R9 - La Vieillesse) | Diplômée au bout de quatre ans de fac ; retour à plein temps à la Sécurité publique | Fin de la couverture étudiante |
 
 FIN_WIKI_PERSONNAGES_BOMBE

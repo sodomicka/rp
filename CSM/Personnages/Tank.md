@@ -1,6 +1,6 @@
 # Tank
 
-- version : W7
+- version : W8
 
 Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie.
 
@@ -66,5 +66,6 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 | printemps-été 1998 (R7 - La Famine) | DESCELLÉ par le trône (le rangement) ; il jure ALLÉGEANCE à Asa, la future Guerre - la promesse arrachée à sa capture (R6), tenue. Aucun canal, aucun contrat : un serment, fait à un bébé qui grandit à vue d'œil. | Déplié, rangé, juré : l'arme de la mère au service de la fille. Devenir d'hôte hors périmètre. |
 | mai 1999 (R8 - La Mort) | Cœur planté dans KOBENI par Makoto en personne (10e implication) ; régime du cœur planté - la brute fournit le corps, l'hôte l'esprit. Premier poste auprès d'Asa | Hôte trouvé ; serment à Asa maintenu sans servitude |
 | fin août 1999 (R8 - La Mort) | En discutant avec Kobeni, ils s'accordent pour protéger Yomi | Garde de la nouvelle Mort, sans rien renier envers Asa |
+| 1999-2003 (R9 - La Vieillesse) | Kobeni et Tank gardent Yomi jusqu'à l'âge adulte | - |
 
 FIN_WIKI_PERSONNAGES_TANK

@@ -1,6 +1,6 @@
 # Guillotine
 
-- version : W1
+- version : W2
 
 Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'entité telle qu'elle existe dans le monde, indépendamment d'une partie.
 
@@ -45,10 +45,11 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'entité telle qu'elle 
 - R8 (La Mort) - au point de départ, elle est DÉJÀ sous contrat de Mort et à sa disposition.
 
 ## Trajectoire datée
-(Alimentée À CHAUD, une entrée par arc roadmappé, jamais anticipée. Le canon par défaut vit ici ; si une partie diverge, le delta va en Parties/.)
+(Alimentée À CHAUD, une entrée par arc roadmappé, jamais anticipée. Plafond d'entrées : illimité - revu si trop lourd. Le canon par défaut vit ici ; si une partie diverge, le delta va en Parties/.)
 
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
 | juillet 1999 (R8 - La Mort) | Jetée par Mort dans sa dernière tentative contre Tokyo. | SURVIT : Makoto l'épargne (damage control, comme chaque fois qu'il le peut). Le contrat meurt avec Mort et la libère ; par le principe de lignée, elle se rallie à la nouvelle Mort. |
+| automne 1999 (R9 - La Vieillesse) | À l'hommage de la lignée, ralliée à Yomi | - |
 
 FIN_WIKI_PERSONNAGES_GUILLOTINE

@@ -1,6 +1,6 @@
 # Armes
 
-- version : W5
+- version : W6
 
 Entités [CANON + DIVERGENCE RP]. Fiche GROUPÉE et NEUTRE : décrit les quatre dernières armes anciennes (Espadon, Lance-flammes, Fouet, Lance) telles qu'elles existent dans le monde, indépendamment d'une partie. En canon, ces quatre hybrides se désigneront plus tard "The Weapons" (P2, hors périmètre). Les armes mineures des sous-lignées convoquées en R6 (Surin, Corde) vivent en section dédiée, infra.
 
@@ -104,12 +104,13 @@ Les armes engendrent à leur tour (sous-lignées actées au build R6 ; la ligné
 - R6 (La Guerre, hiver 1997-1998) - l'arc consomme le différé de l'hôte de Lance : Volodimir (identité, datation 1480, territoire Europe) devait être en place depuis des siècles pour que la purge dispose d'un exécuteur déjà en URSS. Intégré au NOYAU (entrée Lance).
 
 ## Trajectoire datée
-(Alimentée À CHAUD, une entrée par arc roadmappé, jamais anticipée. Plafond d'entrées : [À FIXER PAR LE WORLDBUILDER].)
+(Alimentée À CHAUD, une entrée par arc roadmappé, jamais anticipée. Plafond d'entrées : illimité - revu si trop lourd.)
 
 | Date/ère | Entité | Événement | Delta d'état |
 |---|---|---|---|
 | hiver 1997-1998 (R6 - La Guerre) | Les quatre | La PURGE de Poupée : les quatre hybrides armes DÉCLENCHÉS - le volet hybride activé en coordination avec la première frappe mondiale de l'arsenal de contrats du Roi. Lance / Volodimir, déjà dans le pays (l'Europe est son territoire), ABAT le corps principal de la démone en URSS ; l'ordre aux milliers de contrats rase le reste du réseau en deux heures. | Le corps principal de Poupée tombe sous Lance ; la démone réduite à son dernier réceptacle (cf. Assassins_Internationaux). Les quatre démontrés en force de frappe mondiale du trône. |
 | hiver 1998-1999 (R7 - La Famine) | Lance-flammes / Barem | TAUPE dans l'Église de Chainsaw Man après la chute de la branche nihiliste, sur ordre de Makoto | Infiltré dans un culte intact en apparence |
 | printemps-été 1999 (R8 - La Mort) | Lance-flammes / Barem | Monte au rang de NUMÉRO DEUX, sous un gourou humain de façade contractant du Feu ; l'affinité pour les flammes l'approche de l'entourage du Feu. Apprend les contractants et que la transformation est armée ; SOUPÇONNE Mort. Grillé dans le chaos de la dernière tentative, exfiltré vivant | Taupe brûlée, vivante ; la source qui a mis le trône sur la piste |
+| automne 1999 (R9 - La Vieillesse) | Lance-flammes / Barem | Prend la tête de l'Église sur ordre du trône ; couverture intacte, ceux qui l'avaient grillé sont morts | Agent du trône à la tête du culte |
 
 FIN_WIKI_PERSONNAGES_ARMES

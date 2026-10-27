@@ -1,13 +1,13 @@
 # Eglise_Chainsaw_Man
 
-- version : W3
+- version : W4
 
 Entité [CANON + DIVERGENCE RP] - fiche FACTIONS. Fiche NEUTRE portant l'ÉTAT VRAI du monde (doctrine actée : les fiches disent le vrai ; l'ironie dramatique - qui sait quoi - vit en CODEX / ANNEXE_SAVOIRS).
 
 ## Identité
 - Nom d'usage : l'Église de Chainsaw Man. Fondée sous une bannière plus pompeuse façon "société pour la paix mondiale" ; le monde a imposé le nom court.
 - Nature : culte de l'HÉROÏSME de Chainsaw Man, né sur les ruines de Washington (hiver 1997-1998, R6).
-- Statut : actif, en croissance continue sur tout le périmètre. SURVIT à R7 : le culte sincère est légal et populaire, et démanteler l'église de son propre héros serait un contresens politique - seule la branche nihiliste tombe.
+- Statut : actif, en croissance continue sur tout le périmètre. SURVIT à R7 : le culte sincère est légal et populaire, et démanteler l'église de son propre héros serait un contresens politique - seule la branche nihiliste tombe. Décapitée en juillet 1999 (contractants changés en Chainsaw-Men et fauchés, le Feu mort), elle est REPRISE EN MAIN par le trône à l'automne 1999 : Barem Bridge à sa tête, insoupçonné.
 
 ## Doctrine et culte
 - Vénère le héros public : le démon à tête de tronçonneuse en uniforme de la Sécurité Publique, sauveur de Tokyo et de Washington. L'identité civile du vaisseau (Denji) est inconnue du culte comme du monde.
@@ -40,12 +40,18 @@ Entité [CANON + DIVERGENCE RP] - fiche FACTIONS. Fiche NEUTRE portant l'ÉTAT V
 - Messages : paragraphe 1, MFOFBOUFTUMFSFNFEF -> LE NÉANT EST LE REMÈDE ; paragraphe 2, DPOUBDUFSBEFQUFUBOBLB -> CONTACTER ADEPTE TANAKA. Les recrues demandent l'adepte Tanaka à la Maison de Tokyo : Kenji Tanaka - Néant - s'y présente en simple adepte, un pion parmi d'autres.
 - Décryptage : la SP a tenu ces tracts des mois sans jamais les lever vers la lumière. Nayuta les démonte en quelques minutes : elle prend l'en-tête au pied de la lettre, lève le tract à contre-jour, lit des lettres sans sens, voit des F partout où l'on attendrait des E, et recule d'un cran. Ses parents l'ont lu aussi vite.
 
-## Organigramme réel (état vrai)
+## Organigramme réel (état vrai, jusqu'en juillet 1999)
 - MORT - aux commandes depuis Washington, jamais en scène, jamais soupçonnée. Au périmètre, PERSONNE ne le sait, Makoto compris.
 - LE FEU - recruteur-contracteur, infiltré dès la naissance du culte sur consigne de Mort ; masqué sous l'identité de Chainsaw Man auprès des contractants. Nommé par Néant mourant à l'hiver 1998-1999 ; introuvable ensuite.
 - NÉANT (mort hiver 1998-1999) - chef de la branche nihiliste, persuadé jusqu'au bout de commander le Feu ; se présente aux recrues en simple ADEPTE. Le pion du pion.
 - TÊTE VISIBLE [CANON transposé] : HARUKA ISEUMI - jeune aspirant Devil Hunter, sincère, fondateur-vitrine du culte côté Japon. Mis en avant par l'appareil de Mort sans rien savoir des étages au-dessus : son rôle est d'attirer du monde, rien d'autre.
 - UN ANCIEN NON NOMMÉ [CANON] - quatrième figure de l'état-major, rôle et identité jamais révélés. Case volontairement laissée vide.
+
+## Organigramme réel depuis l'automne 1999 (reprise par le trône)
+- BAREM BRIDGE (hybride de Lance-flammes, cf. Personnages/Armes) - à la tête du culte sur ordre du trône. Pour les fidèles et pour le monde, il est le numéro deux qui a survécu au massacre : ceux qui l'avaient grillé (le Feu, ses contractants, le gourou de façade) sont tous morts, sa couverture tient.
+- HARUKA ISEUMI - reste la vitrine, sincère et ignorante ; Barem dirige derrière lui.
+- L'ANCIEN NON NOMMÉ - toujours une case vide.
+- Lecture du trône : doctrine des opportunités - une église dont le héros est l'arme du trône, c'est de la dévotion captée. Qui la tient derrière Barem ne se révèle pas.
 
 ## Rapport au trône (périmètre R7)
 - Enquête de la Division 4 sur l'année 1998 : les couches se démêlent une à une - adeptes sincères mis hors de cause, contrats vers un démon non identifié chez certains membres, tracts codés remontant à la branche nihiliste (décryptage : Nayuta, en quelques minutes - cf. Tracts codés) ; la piste mène à Kenji Tanaka, pris pour un petit recruteur humain.
@@ -59,9 +65,10 @@ Entité [CANON + DIVERGENCE RP] - fiche FACTIONS. Fiche NEUTRE portant l'ÉTAT V
 |---|---|---|
 | hiver 1997-1998 (R6) | Naissance sur les ruines de Washington, autour de l'héroïsme du sauveur. Mort s'en saisit dès l'origine, via le Feu ; Néant s'y terre avec ses nihilistes | Culte-outil dès sa fondation - trois couches en place |
 | 1998 (R7 - La Famine) | Essaimage mondial ; antenne japonaise (tracts, campus, Maison de Tokyo) ; tracts codés de la branche nihiliste ; contrats du Feu posés en masse sous l'identité de Chainsaw Man ; enquête de la Division 4 toute l'année | Croissance ; levier de la transformation de masse armé, jamais tiré |
-| hiver 1998-1999 (R7 - La Famine) | Chute de la branche nihiliste (mort de Néant) ; le Feu nommé et introuvable ; le culte sincère traverse le scandale sans dommage | L'Église survit, intacte en apparence ; le levier reste ARMÉ aux mains du Feu - détonation attendue en R8 |
+| hiver 1998-1999 (R7 - La Famine) | Chute de la branche nihiliste (mort de Néant) ; le Feu nommé et introuvable ; le culte sincère traverse le scandale sans dommage | L'Église survit, intacte en apparence ; le levier reste ARMÉ aux mains du Feu |
 | printemps-été 1999 (R8 - La Mort) | Barem numéro deux sous un gourou humain de façade, contractant du Feu ; Mort pilote en personne depuis la fac | Le culte tenu de l'intérieur par les deux camps |
-| mi-juillet 1999 (R8 - La Mort) | Les contractants du Feu changés en Chainsaw-Men, fauchés d'un souffle par le Roi | L'Église décapitée et saignée ; son devenir se pose en R9 |
+| mi-juillet 1999 (R8 - La Mort) | Les contractants du Feu changés en Chainsaw-Men, fauchés d'un souffle par le Roi | L'Église décapitée et saignée |
+| automne 1999 -> 2000 (R9 - La Vieillesse) | Barem, numéro deux survivant du massacre, prend la tête sur ordre du trône ; Haruka Iseumi reste la vitrine | Reprise en main par le trône, insoupçonnée |
 
 ---
 
