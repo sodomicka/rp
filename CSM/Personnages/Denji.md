@@ -1,13 +1,13 @@
 # Denji
 
-- version : W6
+- version : W7
 
 Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie. Personnage canon ; le caractérisant est intégré, la datation et les rattachements RP sont balisés.
 
 ## Identité
 - Nom : Denji (aucun nom de famille donné par le canon - absent il reste). [CANON muet]
 - Nature : humain (1979 - ~1997) ; HYBRIDE de Tronçonneuse depuis ~1997 - Chainsaw Man. [CANON]
-- Naissance : 1979 - choix du worldbuilder, ÉDITÉ au chantier fiches R7 (D20 : +3 ans pour rendre narrable la vie de couple, les deux majeurs). 15 ans en 1994 (le Concombre), 18 au recrutement (~1997 ; le canon le dit 16 au début de la Partie 1). [DIVERGENCE RP sur l'âge]
+- Naissance : 1979 - choix du worldbuilder, ÉDITÉ (+3 ans pour rendre narrable la vie de couple, les deux majeurs). 15 ans en 1994 (le Concombre), 18 au recrutement (~1997 ; le canon le dit 16 au début de la Partie 1). [DIVERGENCE RP sur l'âge]
 - Statut : chasseur de démons clandestin pour les yakuza (jusqu'à ~1997) -> Devil Hunter de la Sécurité Publique, affecté DIRECTEMENT à la 4e Division Spéciale, créée POUR lui - planifiée dès 1994. HÉROS PUBLIC MONDIAL depuis la médiatisation (automne 1997) ; depuis l'hiver 1997-1998, objet d'un CULTE naissant (l'Église de Chainsaw Man). [CANON sur la Division 4 ; DIVERGENCE RP sur le tempo]
 
 ## Apparence
@@ -36,7 +36,7 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 - ~1997 : trahison des yakuza (contrats auprès de démons fidèles à Mort) ; massacre par le Zombie de Mort ; fusion avec Pochita - il devient son cœur. Contrat de fusion : "vis une vie normale et montre-moi tes rêves" - et derrière la formule, le vrai but de l'un comme de l'autre : être HEUREUX. Recrutement par la Sécurité Publique dans la foulée (cf. Trajectoire). [CANON sur la trame et le contrat ; DIVERGENCE RP sur le cadre]
 
 ## Relations de base
-- Pochita / Tronçonneuse - son chien, son sauveur, son cœur. Le doute grandissait depuis l'hiver 1997-1998 (son cœur avait pris le dessus en plein combat) ; SOLDÉ à l'automne 1998 - Pochita se MANIFESTE et parle à son ancien Roi devant lui, tensions puis approbation du plan (cf. Trajectoire). cf. Personnages/Tronconneuse. [CANON + DIVERGENCE RP]
+- Pochita / Tronçonneuse - son chien, son sauveur, son cœur. Le doute grandissait depuis l'hiver 1997-1998 (son cœur avait pris le dessus en plein combat) ; SOLDÉ à l'automne 1998 - Pochita se MANIFESTE devant lui, muet - son ancien Roi l'interroge par questions fermées, tensions puis approbation du plan (cf. Trajectoire). cf. Personnages/Tronconneuse. [CANON + DIVERGENCE RP]
 - Nayuta / Autorité - l'ancre émotionnelle du recrutement : elle lui propose d'être son chien, puis son grand frère. Depuis les révélations (~1997), il SAIT ce qu'elle est - et il la traite en petite sœur, ce qu'elle aime. cf. Personnages/Nayuta. [DIVERGENCE RP]
 - Makoto / Effroi et Makima / Contrôle - ses recruteurs-bienfaiteurs. Depuis les révélations (~1997), il SAIT qui ils sont - le roi des démons, la démone son épouse - et a accepté : "tout ça, c'est pour mon bonheur". Les trois exclusions (Cavalières, Effacement, plan global) ont été LEVÉES à l'automne 1998 - révélation TOTALE, loyauté prouvée à Washington : il sait tout. Stratégie du couple : se rendre INDISPENSABLES - et, côté Makoto, lui apprendre la PERTE pour qu'il chérisse tout ce qu'on lui offre et ceux qui l'offrent. Aucun canal tissé vers lui (cf. Personnages/Reseau). [DIVERGENCE RP]
 - Reze / Bombe - son premier amour : la barmaid de la couverture, l'ennemie de la bataille planétaire, puis la compagne - le couple se noue après sa libération, penthouse commun (~1997). Il connaît l'opération de bout en bout (révélations). cf. Personnages/Bombe. [CANON adapté + DIVERGENCE RP]
@@ -49,7 +49,7 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 - R3 (L'Autorité, 1990-1997) - l'arc le construit en creux : repéré en 1994 (Concombre), laisser-faire délibéré du trône (doctrine Nayuta : attendre l'épreuve, la déclencher au besoin), planification de la Division 4 dès 1994, épreuve venue d'elle-même (~1997), hybridation, recrutement en clôture d'arc.
 
 ## Trajectoire datée
-(Alimentée À CHAUD, une entrée par arc roadmappé, jamais anticipée. Le canon par défaut vit ici ; si une partie diverge, le delta va en Parties/.)
+(Alimentée À CHAUD, une entrée par arc roadmappé, jamais anticipée. Plafond d'entrées : illimité - revu si trop lourd. Le canon par défaut vit ici ; si une partie diverge, le delta va en Parties/.)
 
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
@@ -61,8 +61,9 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 | hiver 1997-1998 (R6 - La Guerre) | Washington, la mise à mort de Guerre : il s'efforce d'abord de SAUVER DES VIES ; quand Guerre rase tout et que Power passe aux banques de sang, il veut juste finir au plus vite et se donne à fond. POCHITA PREND LE DESSUS et manque de dévorer Guerre - Denji le stoppe, fidèle au plan de Makoto (livrer Guerre au couple), sauvant sans le mesurer la possibilité même de sa réincarnation. Coup presque final : il la met à terre en lui tranchant les deux bras (la prothèse-Flingue et Tank) ; le trio royal achève, Aki exécute. Washington rasée devient le symbole de SA puissance : seul à avoir tenté de sauver des vies, il est le héros que le monde retient - le plus fort et le plus brave. Naissance de l'ÉGLISE DE CHAINSAW MAN : culte de l'héroïsme, et de rares adeptes d'un pouvoir qu'il ignore posséder (l'Effacement). | Une Cavalière à terre de sa main. Ses doutes sur la vraie nature de Pochita en sortent PLUS FORTS - résidu "secret Pochita" NOURRI. Un culte mondial est né autour de lui, dont une frange vénère ce qu'on lui cache. |
 | avril 1998 (R7 - La Famine) | RENTRÉE : première année de fac avec Reze - vie normale voulue ET couverture d'enquête (l'Église recrute sur les campus). La double vie du héros public : en cours, un garçon normal - seul le cordon sous le t-shirt pourrait le trahir. | Étudiant-enquêteur ; l'identité civile tient. |
 | été-automne 1998 (R7 - La Famine) | L'enquête démêle les couches de l'Église ; la piste du recrutement tombe dans SA promo - le culte vient recruter son propre dieu sans le savoir. | La branche nihiliste à portée de main. |
-| automne 1998 (R7 - La Famine) | LA RÉVÉLATION TOTALE : Makoto dit TOUT - Cavalières, Effacement, plan global ; les trois exclusions de R5 LEVÉES (loyauté prouvée à Washington : il a ramené Pochita, le démon mêlé à son âme). POCHITA SE MANIFESTE et parle à son ancien Roi - tensions, puis approbation du plan. Le secret Pochita est SOLDÉ : Denji sait désormais qu'il porte l'unique voie d'effacement du Roi - juste à temps pour affronter celui qui veut la déclencher. | Confident TOTAL du plan ; dette d'attachement sans plus aucun résidu ; ses doutes sur Pochita soldés. |
+| automne 1998 (R7 - La Famine) | LA RÉVÉLATION TOTALE : Makoto dit TOUT - Cavalières, Effacement, plan global ; les trois exclusions de R5 LEVÉES (loyauté prouvée à Washington : il a ramené Pochita, le démon mêlé à son âme). POCHITA SE MANIFESTE, muet ; son ancien Roi l'interroge par questions fermées - tensions, puis approbation du plan. Le secret Pochita est SOLDÉ : Denji sait désormais qu'il porte l'unique voie d'effacement du Roi - juste à temps pour affronter celui qui veut la déclencher. | Confident TOTAL du plan ; dette d'attachement sans plus aucun résidu ; ses doutes sur Pochita soldés. |
 | hiver 1998-1999 (R7 - La Famine) | CLIMAX : avec Reze, il abat Néant démasqué (semi-démon à la dissolution de contact), Makoto venu ASSISTER en personne, sans intervenir. Néant meurt en comprenant qu'il n'était qu'un trophée de chasse pour l'hybride de l'Effacement. | Premier adversaire affronté en SACHANT ce qu'il porte. |
 | avril-juillet 1999 (R8 - La Mort) | 2e année de fac avec Reze ; côtoie Shino Sato sans savoir qui elle est. En première ligne contre les Chainsaw-Men à la dernière tentative ; Pochita ne dévore rien | Le héros public voit son image retournée en monstre |
+| mars -> avril 2002 (R9 - La Vieillesse) | Diplômé au bout de quatre ans de fac ; retour à plein temps à la Sécurité publique | Fin de la couverture étudiante |
 
 FIN_WIKI_PERSONNAGES_DENJI

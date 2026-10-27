@@ -1,6 +1,6 @@
 # Ténèbres
 
-- version : W5
+- version : W6
 
 Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie.
 
@@ -59,7 +59,7 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 (Vide à la genèse - strate alimentée en Passe 2, au fil des roadmaps.)
 
 ## Trajectoire datée
-(Vide à la genèse - alimentée À CHAUD, une entrée par arc roadmappé, jamais anticipée. Plafond d'entrées : [À FIXER PAR LE WORLDBUILDER].)
+(Alimentée À CHAUD, une entrée par arc roadmappé, jamais anticipée. Plafond d'entrées : illimité - revu si trop lourd.)
 
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
@@ -68,5 +68,6 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 | hiver 1997-1998 (R6 - La Guerre) | SAVOIR MJ : menacé et forcé de livrer le fragment sous les yeux de l'héritière, il en garde une rancune muette | Racine du complot de R10 |
 | 1998 - hiver 1998-1999 (R7 - La Famine) | Hors scène. Son engeance reniée, NÉANT (peur du vide, des trous, du zéro - "un raté", renié de longue date), monte une secte sous l'Église de Chainsaw Man, se fait démasquer et meurt : Ténèbres le SAIT et s'en désintéresse d'un bout à l'autre - les démons se soucient peu des allégeances et des aventures de leurs engeances. | Rien ne bouge pour lui ; un raté de sa lignée rayé du monde (renaissance en Enfer selon le cycle). cf. Personnages/Neant. |
 | mi-juillet 1999 (R8 - La Mort) | Appelé par contrat, sans contrepartie (privilège du Roi) : prête son ombre pour faucher d'un souffle les Chainsaw-Men et le Feu | Se nourrit de la puissance prêtée et de la peur inspirée ; joint à l'affaiblissement de Mort par l'équilibrage, graine de son putsch (R10, savoir MJ) |
+| automne 1999 (R9 - La Vieillesse) | À l'hommage de la lignée, façade loyale. SAVOIR MJ : se nourrit en silence de la puissance prêtée | Graine du putsch qui mûrit |
 
 FIN_WIKI_PERSONNAGES_TENEBRES

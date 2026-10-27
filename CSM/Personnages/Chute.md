@@ -1,6 +1,6 @@
 # Chute
 
-- version : W3
+- version : W4
 
 Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie.
 
@@ -51,10 +51,11 @@ Entité [CANON + DIVERGENCE RP]. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle 
 (Vide à la genèse - strate alimentée en Passe 2, au fil des roadmaps.)
 
 ## Trajectoire datée
-(Vide à la genèse - alimentée À CHAUD, une entrée par arc roadmappé, jamais anticipée. Plafond d'entrées : [À FIXER PAR LE WORLDBUILDER].)
+(Alimentée À CHAUD, une entrée par arc roadmappé, jamais anticipée. Plafond d'entrées : illimité - revu si trop lourd.)
 
 | Date/ère | Événement | Delta d'état |
 |---|---|---|
 | hiver 1997-1998 (R6 - La Guerre) | SAVOIR MJ : témoin, sans que le Roi la remarque, du désamorçage de Ténèbres dans son domaine ; retient l'humiliation de son cadet et se met à le surveiller | Elle le verra venir en R10, et le tuera elle-même |
+| automne 1999 (R9 - La Vieillesse) | À l'hommage de la lignée, façade loyale. SAVOIR MJ : surveille toujours Ténèbres | - |
 
 FIN_WIKI_PERSONNAGES_CHUTE

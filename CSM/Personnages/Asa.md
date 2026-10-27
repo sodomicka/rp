@@ -1,6 +1,6 @@
 # Asa
 
-- version : W5
+- version : W6
 
 Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Guerre. Fiche NEUTRE : décrit l'ENTITÉ telle qu'elle existe dans le monde, indépendamment d'une partie. Vie antérieure du concept : cf. Personnages/Guerre.
 
@@ -14,7 +14,7 @@ Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Guerre. Fiche 
 - Le CONCEPT est une engeance directe d'Effroi, deuxième des Cavalières des sociétés. La mort de son incarnation précédente n'a pas touché au concept : elle en est la suite, pas une copie.
 - TABLE RASE : aucun contrat, aucun canal, aucune allégeance héritée. Les contrats de Guerre se sont éteints avec elle (règle générale, BIBLE SB1) ; sa réincarnation repart de zéro.
 - Tête de la lignée de TOUTES LES ARMES. Comme la lignée des maladies pour Famine, la lignée des armes reste fidèle au concept par principe - fidélité qui tiendra tant qu'Asa agira en Guerre. Précédent immédiat : Tank, ramassé par le trône en R6, a juré allégeance à la future Guerre avant même sa naissance.
-- Éligible aux canaux tissés de Réseau (privilège de la famille Royale, vocation actée de s'étendre au quatuor réformé) - tissage non acquis à ce stade.
+- Éligible aux canaux tissés de Réseau (privilège de la famille Royale, étendu au quatuor réformé) - canal tissé à son gel adulte (hiver 1999-2000).
 
 ## Naissance et localisation
 - RÈGLE ACTÉE : le pays de naissance d'une réincarnation suit la PRÉSENCE de son concept à l'instant t. On ne cherche pas un berceau au hasard - on cherche Guerre sur une carte des guerres.
@@ -23,7 +23,7 @@ Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Guerre. Fiche 
 - Localisée en janvier-février 1998 (R7, étape 1) : un ministre yougoslave appelle Makima - dans une clinique de campagne, une gamine aux yeux cerclés vient de changer son hochet en marteau, éclatant du matériel médical.
 - EXTRACTION PAR RACHAT. Le trio royal se rend au Kosovo en avion, accompagné d'Aki, qui a préparé un plan pour sa filleule et prend les choses en main : il se présente en jeune veuf ayant perdu femme et fille, touristes à Washington, et demande à adopter la leur. Il présente une somme démesurée de dinars yougoslaves, convertis à l'avance. Le couple accepte, honteux. La famille biologique est VIVANTE - et l'a vendue.
 - À la rencontre, Nayuta veut la porter ; Asa tend les bras vers AKI. Il la porte tout le trajet du retour, plus sérieux dans son travail que jamais, pas même mal à l'aise face à un nourrisson : il la sait être Guerre.
-- MÉMOIRE : AUCUNE. Pas de bribes, pas de réminiscences, rien. Ce qu'elle sait de sa vie antérieure, on le lui a raconté - savoir transmis, jamais souvenir.
+- MÉMOIRE : AUCUNE. Pas de bribes, pas de réminiscences, rien. Ce qu'elle sait de sa vie antérieure, on le lui a raconté - savoir transmis, jamais souvenir. La mémoire des concepts effacés ne passe pas non plus (BIBLE SB1).
 
 ## Apparence et croissance
 - Caucasienne, cheveux châtains.
@@ -76,6 +76,8 @@ Entité [CANON + DIVERGENCE RP] - réincarnation de la Cavalière Guerre. Fiche 
 | avril 1998 -> mars 1999 (R7 - La Famine) | Croissance accélérée (environ dix à douze ans d'aspect en un an) ; éducation de démone ; arrivée de Kiga en seconde sœur ; entraînements contre les hybrides de la maison | Corps et caractère de combattante installés ; fratrie à trois |
 | mai 1999 (R8 - La Mort) | Kobeni et le Tank, à qui le char est juré, prennent leur premier poste auprès d'elle | Le serment de Tank incarné ; une arme de plus à ses côtés |
 | fin juillet - fin août 1999 (R8 - La Mort) | Présente à la reddition de Mort ; troisième sœur, Yomi | Fratrie de quatre |
+| hiver 1999-2000 (R9 - La Vieillesse) | Gel adulte ; Réseau tisse son canal | Adulte et figée ; titulaire d'un canal tissé |
+| été 2000 (R9 - La Vieillesse) | Refuse le rajeunissement offert par Vieillesse : elle veut être au sommet de sa forme physique | - |
 
 ---
 
