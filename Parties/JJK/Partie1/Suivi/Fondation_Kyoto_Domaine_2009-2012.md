@@ -1,7 +1,7 @@
 # La fondation, suite : éveil, chaire vide, pivot (B1_2 à B1_4) - Mémoire refroidie (Partie1)
 
 - partie : 1
-- version : W2
+- version : W3
 
 Mémoire refroidie : les scènes closes du sam 11 avr 2009 au lun 2 avr 2012 (B1_2, B1_2bis, B1_3, B1_4), et ce qui sort durablement de scène : cibles des missions, soirée Shoko, détail des leçons et de la naissance de Panda. Ce qui reste vivant (Megumi et ses chiens, promesse sur Mahoraga, jumelles à 40/60, Panda, Nitta, accord avec Yaga) est au CODEX. Froid : fetch à la demande. Fiches de lore : cf. WIKI Personnages/<Nom>.md.
 
@@ -38,7 +38,7 @@ Mémoire refroidie : les scènes closes du sam 11 avr 2009 au lun 2 avr 2012 (B1
 - Avril 2011 : Nitta entre en 1re année chez Utahime.
 - Mar 12 juil 2011, naissance de Panda : appel de Yaga (~20 h 45), Mach 0,9, bureau-atelier au bâtiment de la direction de Tokyo. Accord (cf. CODEX). Sphère déployée ; trois noyaux figés d'un coup, cousus en ~3 h subjectives ; principe : trois noyaux qui se regardent, trois bâtons. Premiers mots : « …C'est violet. » ; « T'as les mains qui sentent la colle. » Tricératops puis Gorilla se montrent ; réserves à sec, une horloge du dôme s'arrête ; rupture. Appel de Naoya (« J'ai un gamin de plus ») ; Panda : « BONSOIR. C'EST QUI, LE FRÈRE ? » Cinq canettes, des pains au melon du distributeur. Satoru par contraction : « Trois. Ils sont trois là-dedans, et ils tiennent tout seuls. » Panda : « Il a la main qui sent le bonbon aussi. » - « Félicitations, Directeur. » Satoru ramène Nisha sur son dos.
 - Sept 2011 : Panda au domaine, haori trop grand ; Mai crie, Maki lui tend un sabre de bois, Naoya : « Hm » ; Megumi et lui font courir les chiens ; Tsumiki ouvre un carnet pour lui.
-- Repères : 7 déc 2011, 6e bandeau ; 30 jan 2012, 19e couteau, 6e collier.
+- Repères : 30 jan 2011, 19e couteau, 6e collier (hors champ) ; 7 déc 2011, 6e bandeau ; 30 jan 2012, 20e couteau, 7e collier (recompté [V19]).
 
 ## Le repas bissextile (mer 29 fév 2012, Kibune) - retcon joué au CODEX V18
 - Chiryu no Kyuden dans la brume : piliers laqués rouge, toits anthracite, érables rouges en hiver, marbre noir, pivoine coupée et encens.
