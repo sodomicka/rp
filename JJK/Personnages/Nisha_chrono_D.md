@@ -1,6 +1,6 @@
 # Nisha Zenin - Chronologie datée, ère D (nov 2018 ->)
 
-- version : W7
+- version : W8
 
 Extension de Personnages/Nisha.md (suite de Nisha_chrono_C.md). Contient la TRAJECTOIRE DATÉE de Nisha pour l'ère D (1er novembre 2018, après-midi ->). Strate canon par défaut, télégraphique ; le détail vit dans les roadmaps. Build-side : fetchée à la demande, JAMAIS chargée en narration. Le NOYAU reste dans Personnages/Nisha.md. État : entrées D1 à D5 posées ; alimentée à chaud roadmap par roadmap.
 
@@ -17,6 +17,7 @@ Constante de l'ère D (dictée au thread D2) : aucun de ses gamins ne meurt ; el
 | avr 2019 (D5_1c) | Retrouve une classe de 2e année à Kyoto, dans un monde où les profanes savent ; le rituel des bandages reprend sa place | prof 2A Kyoto |
 | 31 oct 2019 (D5_1c) | Naissance de Kento (cf. Personnages/Kento.md) | mère |
 | 2019 - 2024 (D5_1c) | Remonte à 17 doigts : réapprend à bouger comme avant en se propulsant, en tout ou en partie, par Chronostase ; seul son esprit ne peut plus être accéléré. Grade Spécial. Négocie, encore et toujours, l'entrée de Yukiko à la fac | 17 doigts |
+| ère D (nov 2018 - 2024) | Le sale boulot pour le compte des Instances continue (cf. chrono_B), sous un ACCORD TACITE du couple : elle exécute les humains, Satoru seulement les fléaux, sauf force majeure. Devient OFFICIELLEMENT l'exorciste qui a tué le plus d'exorcistes depuis qu'on compte (après Heian), un titre peu reluisant. Le savent : les Hautes Instances et les milieux de l'occultisme, et ses proies ; le grand public l'ignore | record d'après Heian |
 | 2022 (D5_1c) | Avec Satoru, surveille le domptage de Mahoraga par Megumi, sans frapper | - |
 | 29 fév 2024 (D5_3, D5_4) | Repas bissextile au palais Kamo, les Gojo en clan ; passe d'un convive à l'autre ; toast de Naoya à Kento | fin de l'histoire de Nisha |
 
