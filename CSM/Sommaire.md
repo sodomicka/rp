@@ -1,6 +1,6 @@
 # Sommaire - CSM
 
-- version : W33
+- version : W34
 
 BIBLE : BIBLE_LORE_CSM.md, racine de CSM/, B15
 
@@ -12,7 +12,7 @@ BIBLE : BIBLE_LORE_CSM.md, racine de CSM/, B15
 ### (racine)
 Description : index, résumé et journal de travail.
 - Resume.md (W6) - résumé de l'histoire établie, des origines à fin 2004
-- _Implications.md (W46) - journal de travail du build (jamais fetché en narration)
+- _Implications.md (W47) - journal de travail du build (jamais fetché en narration)
 
 ### Roadmap/Makoto/
 Description : itinéraires par arc de la campagne Makoto, dans l'ordre de la saga. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).
@@ -29,6 +29,7 @@ Description : itinéraires par arc de la campagne Makoto, dans l'ordre de la sag
 - Roadmap_10_Les_Tenebres.md (W1) - septembre 2003 -> fin 2004 (~15 mois), le finale
 
 > NON INDEXÉ. Le garde-cap `Roadmap/Makoto/Chronologie.md` (découpage R0 -> R10) : source de build, jamais fetché en narration.
+> NON INDEXÉ. Le garde-cap du spin-off `Roadmap/Dread_Reincarnated/00_Garde_Cap.md` : source de build, jamais fetché en narration.
 
 ### Personnages/
 Description : fiches d'entités neutres (NOYAU + Trajectoire datée).

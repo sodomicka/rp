@@ -1,6 +1,6 @@
 # _Implications - CSM
 
-- version : W46
+- version : W47
 
 Document de TRAVAIL. Jamais fetché en narration. Allégé : les arbitrages résolus et les tâches faites sont PURGÉS (leur trace vivante est en BIBLE + fiches + Systemes/). Ne restent ici que le vivant - dettes, questions ouvertes, chantiers.
 
@@ -37,6 +37,18 @@ Document de TRAVAIL. Jamais fetché en narration. Allégé : les arbitrages rés
 - Ange.md (Scaling + Relations Sécurité Publique) : "Kishibe dirige la Division 1, Ange est en Division 3 - unites distinctes" est périmé depuis l'hiver 1997-1998 (Kishibe chef d'escouade Division 4 selon la BIBLE ; Ange réintégré en Division 4). À TRANCHER : dater la note (état 1984) ou la corriger.
 - Doctrine Pochita révisée - datation ACTÉE : acquise en ouverture de R7 (janvier 1998), brandie à la négociation de mars, CONFIRMÉE par la manifestation d'automne 1998. BIBLE B12 et Resume W2 : faits. À vérifier et aligner à la relecture croisée : Effroi.md, Denji.md (Trajectoires) ; Tronconneuse.md alignée (W10).
 - Doublon Personnages/Genealogie.md (non indexé, périmé) : suppression par le worldbuilder.
+
+## Spin-off - graines à vérifier à la clôture de Passe 2
+Spin-off « Chainsaw Man: Dread Reincarnated », cadré en grandes lignes (garde-cap : `Roadmap/Dread_Reincarnated/00_Garde_Cap.md`, non indexé). La relecture croisée passe ces points en revue ; chaque correction de fiche ou de BIBLE se montre avant d'être écrite.
+1. **Effroi.md (Mortalité) et BIBLE SB1** : « sa propre main, voie scellée » à reformuler. Le monopole empêche d'être TUÉ, pas de MOURIR ; sa mort de sa main n'est retenue que par sa volonté, comme Mort. Corriger aussi « hors du cycle » : hors du cycle tant qu'il ne choisit pas de mourir.
+2. **BIBLE SB1 (mémoire à la renaissance)** : préciser le cas d'Effroi (nature et instinct gardés, mémoire personnelle perdue) à côté de la table rase de Ténèbres réinitialisé. Vérifier que rien dans R0 à R10 ne pose une règle qui l'interdit.
+3. **Ange.md** : la fiche dit « loyal au Royaume plus qu'au Roi ». Décision spin-off : loyal à Kiga avant tout. À reformuler (la fiche et la BIBLE SB5), sans casser son gardiennat de garde-fou.
+4. **Primordiaux** : la BIBLE pose leur fidélité de principe à Yomi et Vieillesse « fidèle sans réserve ». Leur trahison doit être plantée : Chute a déjà sa convoitise intacte ; il manque une graine pour Vieillesse (la soif d'un règne sans la bride de la dynastie). À placer en R9 ou R10, sans fermer quoi que ce soit.
+5. **Gardiens** : le Tchekhov « Équilibre des Gardiens » doit rester ARMÉ à la fin de R10 (c'est le cas). Vérifier qu'aucune scène de R10 ne le présente comme soldé ni ne le tourne contre le trône avant l'heure.
+6. **Pochita / Denji, Bombe / Reze** : les deux doubles consciences existent (Pochita manifesté en 1998 ; accord des volontés Reze-Bombe). Vérifier que R7 à R10 laissent place à un désaccord possible entre chaque moitié. L'effacement d'Effroi au prix exorbitant est déjà posé (SB1).
+7. **Filles « infaillibles »** : R9 et R10 doivent montrer qu'elles gèrent mieux que leurs parents (snapshots du monde à l'équilibre). Le déclencheur étant après la fin du RP, R10 n'a rien à planter ; vérifier seulement que l'effacement de 1941-1948 (Armes-Nucléaires, engeance de Guerre) et la règle de retour par réinvention sont cohérents dans Guerre.md, Genealogie.md, Tronconneuse.md et la BIBLE.
+8. **Prédateur, Ténèbres réinitialisé** : rester ouverts, aucun contact en R10 (déjà verrouillé pour le Prédateur).
+9. **Prologue en miroir de R0** : relever dans R0 les motifs à refléter (point de vue, cadrage).
 
 ## Dette CODEX - ANNEXE_SAVOIRS (à servir au CODEX V1)
 - Ironie R1 : pendant R1, le couple analyse les douilles et planifie l'hybridation EN CROYANT Flingue inerte et dispersé - il ne l'est pas, et il parle à Guerre pendant que celle-ci monte son raid. Le JOUEUR le sait, Makoto non. Refermée en 1989 (aveux de Flingue).
