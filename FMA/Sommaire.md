@@ -1,6 +1,6 @@
 # Sommaire - FMA
 
-- version : W7
+- version : W8
 
 ## WIKI
 
@@ -49,10 +49,10 @@ Description : fiches neutres canon des entités qui pèsent sur le RP, plus la p
 
 ### Roadmap/Rhea/
 Description : itinéraires par arc, dans l'ordre de la saga, par perspective de la protagoniste. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).
-- Roadmap0_La_Porte.md (W1) - 1903, générateur d'origine : rituel, Porte, péage, secours Pinako. Linéaire, VERROUILLÉ (ne détone jamais)
-- Roadmap1_Grandir_A_Resembool.md (W1) - 1903-1908 en vignettes : adoption, sœur Winry, amitiés Elric, tempérament figé, automail
-- Roadmap2_Ishval_La_Nouvelle.md (W1) - 1909 : la nouvelle des parents, les jumelles, naissance de l'antimilitarisme, retour des frères, ce qu'Izumi sait
-- Roadmap3_Transmutation_Elric_Et_Mustang.md (W2) - 1910 -> mi-1911 : transmutation cachée des Elric, fracture, visite Mustang (repérage sur place), année d'atelier, départ d'Ed. Ouvre la Trajectoire datée de Rhea
+- Roadmap0_La_Porte.md (W2) - 1903, ~2 semaines : générateur d'origine, du rituel à l'arrivée à Resembool (Porte, péage, secours Pinako). Linéaire, VERROUILLÉ (ne détone jamais)
+- Roadmap1_Grandir_A_Resembool.md (W2) - 1903 -> fin 1908, ~5 ans en vignettes : de l'arrivée à Resembool au silence des parents partis en 1907 (adoption, sœur Winry, amitiés Elric, tempérament figé, automail)
+- Roadmap2_Ishval_La_Nouvelle.md (W2) - 1909, ~1 an : du départ des frères chez Izumi à leur retour (la nouvelle des parents, les jumelles, naissance de l'antimilitarisme, ce qu'Izumi sait)
+- Roadmap3_Transmutation_Elric_Et_Mustang.md (W3) - 1910 -> mi-1911, ~1 an et demi : transmutation cachée des Elric, fracture, visite Mustang (repérage sur place), année d'atelier, départ d'Ed. Ouvre la Trajectoire datée de Rhea
 - (roadmaps R4 à R14 - à construire en boucle serrée, Passe 2 en cours)
 
 > NON INDEXÉS. Le garde-cap (`Roadmap/Rhea/00_Garde_Cap.md`) : source de build, jamais fetché en narration. `Parties/<Partie>/Memoires/` : archives narratives interdites en jeu (sauf ordre OOC explicite), consultées au BUILD seulement par listing direct du dossier. Indexer un dossier le fait paraître fetchable en narration. Cf. SPEC_CODEX 4ter, livrable 3.

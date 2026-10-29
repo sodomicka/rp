@@ -1,40 +1,82 @@
-# Roadmap3_Transmutation_Elric_Et_Mustang
+# Roadmap 3 - La transmutation des Elric + recrutement Mustang
 
-- statut : a venir
-- version : W2 (rework post-confrontation episode 2 ; remplace W1)
-- perimetre : 1910 -> mi-1911 (Rhea 12-13 ans)
+- version : W3
+- statut : à venir ; JOUABLE
+- prota / POV : Rhea (12 -> 13 ans), POV strict
+- échelle temporelle : ~1 an et demi (1910 -> mi-1911) : la nuit de la transmutation, la visite en un jour, quelques jours de décision, un an d'atelier, quelques jours de fin de rééducation
+- borne d'entrée : suite de Roadmap 2. 1910, Rhea a 12 ans. Les frères sont rentrés d'Izumi (1909), le deuil des parents est passé. Le trio Rockbell et les Elric sont à Resembool.
+  - Clivage du savoir à l'ouverture : les Elric savent que Rhea transmute sans cercle (depuis l'enfance) mais ignorent TOUT de son propre 1903 et de sa lésion (cortex orbitofrontal). Le noyau Rockbell, lui, sait.
+  - Notoriété villageoise : QUE la gamine Rockbell transmute sans cercle depuis toujours est un fait connu du bourg (elle transmute à ciel ouvert depuis l'enfance). Le POURQUOI (1903 : transmutation, Porte, lésion) reste verrouillé chez les Rockbell - rien n'en fuit.
+  - Grades à la visite (canon ép. 2) : Mustang est lieutenant-colonel, Hawkeye sous-lieutenant (colonel / premier lieutenant seulement en 1914).
+- borne de sortie : mi-1911, la fracture est posée, Rhea a coupé les ponts (silence verbal total - elle a soigné l'automail d'Ed un an sans jamais lui parler), Ed part pour Central -> Roadmap 4. Acquis à la sortie :
+  - détestation à double tranchant (les frères + elle-même) ;
+  - nœud Rhea/Al noué (anti-Alan + attirance tue), resserré par l'info de Winry (pas de compensation = pas préparé : lecture de Rhea ; le mécanisme réel reste celui de BIBLE SB1 / fiche Alphonse, qu'elle ignore) ;
+  - refus violent de Mustang et de l'appareil ;
+  - année d'atelier vécue ;
+  - repérage armé : Mustang a repéré la troisième sans-cercle SUR PLACE (rumeur de village - le fait, jamais le pourquoi - + démonstration involontaire à l'atelier). Ne plus jamais écrire « il avait eu vent avant la visite » ;
+  - première entrée de la Trajectoire datée de Rhea (la strate s'ouvre à 1910-1911).
+- roadmap précédente : cf. WIKI Roadmap/Rhea/Roadmap2_Ishval_La_Nouvelle.md
+- roadmap suivante : Roadmap 4 - L'examen et le départ (à écrire)
 
-## Conditions de depart
-- Suite de Roadmap2 : 1910, Rhea a 12 ans. Les freres sont rentres d'Izumi (1909), le deuil des parents est passe. Le trio soeurs et les Elric sont a Resembool.
-- POV Rhea strict.
-- Clivage du savoir a l'ouverture : les Elric savent que Rhea transmute sans cercle (depuis l'enfance) mais ignorent TOUT de son propre 1903 et de sa lesion (OFC). Le noyau Rockbell, lui, sait.
-- Notoriete villageoise : QUE la gamine Rockbell transmute sans cercle depuis toujours est un fait connu du bourg (elle transmute a ciel ouvert depuis l'enfance). Le POURQUOI (1903 : transmutation, Porte, lesion) reste verrouille chez les Rockbell - rien n'en fuit.
-- Grades a la visite (canon ep. 2) : Mustang est lieutenant-colonel, Hawkeye sous-lieutenant (colonel / premier lieutenant seulement en 1914).
+## Intention
+Ses deux amis rejouent son propre 1903 sous son nez, sans la prévenir : Rhea achève la chose sans ciller, coupe les ponts et naît la fracture qui durera jusqu'en 1914. Dans la foulée, l'armée vient recruter sur son terrain, et repère la troisième sans-cercle.
 
-## Etapes
-Arc a scenes fortes : elles se JOUENT. Durees par ligne.
+## Itinéraire (jalons)
+1. La nuit, sans la prévenir [une nuit, 1910] : maison Elric. Ed et Al tentent de ramener Trisha, en cachette. Rhea est hors de la boucle : ses deux amis rejouent son propre 1903 sous son nez (le noyau Rockbell savait ce qu'elle a vécu ; les frères, non). Tchekhov : transmutation cachée des Elric (détone) ; parallèle deuil-transmutation. Avance quand la transmutation rate.
+2. Elle trouve la scène, l'achève et éclate - un seul souffle [instantané] : maison Elric. Première sur place : la-chose-qui-n'est-pas-Trisha, Al disparu (âme scellée dans l'armure), Ed mutilé (jambe = péage de la Porte ; bras = sacrifié pour sceller l'âme d'Al). Elle reconnaît la chose - elle en a produit une, jadis - et l'achève au pic de béton SANS CILLER. Renversement glaçant : en 1903 elle était la gamine prostrée et c'est Pinako qui avait dû achever sa masse à elle ; ici c'est Rhea qui porte le coup - affect cassé, intime de cette horreur. Dans le même mouvement, la détestation à double tranchant : les frères (l'avoir fait sans elle, sans la prévenir) ET elle-même (n'avoir rien vu venir, elle qui savait). Al cristallise la plaie : à elle il manquait une âme pour ramener Alan, lui n'est plus qu'une âme - l'anti-Alan, insupportable, et sa douceur l'attire quand même. Le nœud Rhea/Al naît ici. Elle NE LEUR LÂCHE RIEN de son 1903 : elle explose et décide de ne plus jamais leur parler. Le pic de béton reste planté au travers du cercle, ensanglanté - la trace que Mustang lira. Tchekhov : transmutation cachée (détone) ; nœud Rhea/Al ; parallèle deuil-transmutation. Avance quand Rhea coupe les ponts.
+3. La visite, recadrée canon ép. 2 [un jour] : bourg, maison Elric, maison Rockbell. Le lieutenant-colonel Mustang arrive à Resembool avec la sous-lieutenant Hawkeye, en repérage de recrues pour le programme des Alchimistes d'État. Au bourg, la rumeur tombe : des gamins alchimistes, dont la gamine Rockbell qui transmute sans cercle depuis toujours. Maison Elric vide -> sous-sol : les restes ensanglantés d'un cercle de transmutation humaine, ET le pic de béton encore couvert de sang dressé au travers - une troisième main est passée là. Il cherche le survivant -> maison Rockbell : Ed alité, mutilé ; venu sermonner, Mustang bascule dans la stupeur en découvrant l'armure (Al) ; l'offre (l'État, ses ressources, un moyen de retrouver leurs corps) ; objection frontale de Pinako (canon : elle a vu et enterré la chose que les gamins ont transmutée, et le sermonne de vouloir les replonger là-dedans). C'est en recrutant Ed que celui-ci mentionne l'alchimiste de l'atelier, « de mauvaise humeur ». Dehors, échange Winry/Riza (canon) : à Winry qui proteste qu'on lui a déjà pris ses parents et qu'on veut maintenant prendre Ed et Al, Riza répond que le choix appartient aux frères seuls, que personne ne les forcera - et qu'elle-même s'est engagée pour protéger quelqu'un. Tchekhov : statut de sacrifice de Rhea (rumeur récoltée). Avance quand Mustang met le cap sur l'atelier.
+4. L'atelier - la terrible erreur [même jour] : atelier Rockbell. Mustang vient faire la même offre à Rhea sur SON terrain, là où elle peut s'armer. Ricanement de Pinako, qui connaît par cœur l'impulsivité de sa petite-fille. Explosion : Rhea l'inonde de jurons, l'insulte de « génocidaire », attrape des chutes d'automail et les transmute en armes de lancer sous ses yeux - confirmation directe de la rumeur -, ramenée au jour où on lui a annoncé que Sarah et Yuri étaient morts sur le front. Winry s'interpose, l'empêche de lancer, calme sa sœur, puis demande aux militaires de partir. Sur la route du départ : beat canon sur Ed (Riza : des yeux pleins de défaite ; Roy : il y a vu du feu), puis beat Rhea - Roy repart persuadé qu'elle a trop perdu par la guerre pour un jour les rejoindre ; Riza lui oppose qu'elle n'a pas vu une bête sauvage, mais une gamine qui aura envie de faire bouger les choses. Tchekhov : statut de sacrifice de Rhea (démonstration vue - ARMÉ). Avance quand Mustang et Riza sont repartis.
+5. La décision [quelques jours] : maison Rockbell. La visite déclenche (canon) : Ed choisit l'automail pour avancer. Pinako annonce trois ans de rééducation ; Ed jure d'y arriver en un an. Cap : l'examen d'État. Avance quand l'opération est acceptée.
+6. L'année d'atelier [un an, fin 1910 -> 1911] : atelier Rockbell. Pose de l'automail (Winry, Pinako), puis rééducation. Rhea, perfectionniste obsessive, déteste œuvrer pour un futur Alchimiste d'État - mais Pinako a accepté le boulot, alors elle se donne à fond : elle soigne l'automail sans adresser un mot au « client », du cœur à l'ouvrage un peu malgré elle. Isolement pour éviter les Elric : elle vient chercher à manger à la cuisine au lieu de se mettre à table, s'enferme à l'atelier, s'endort sur l'établi ; Winry la porte tant bien que mal jusqu'à leur chambre pour dormir ensemble. Tchekhov : nœud Rhea/Al (tension à distance). Avance quand la rééducation est achevée.
+7. Fin de rééducation [quelques jours, mi-1911] : maison Rockbell, atelier. Le défi d'un an est tenu : Ed opérationnel. Il révèle le sans-cercle à Al, en privé (canon) ; Al ne voit même pas de quelle Porte il parle - il n'a rien. Rhea l'apprend de la bouche de Winry, jamais par elle-même (nuit partagée). Sa lecture (rationalisation de Rhea, PAS règle du monde) : Al a payé le prix sans même la compensation - preuve qu'il s'y est plongé sans y être préparé, encore moins qu'elle à 5 ans. Le nœud Rhea/Al se resserre. Ed part pour Central viser l'examen d'État. Tchekhov : nœud Rhea/Al (resserré par l'info de Winry). Avance au départ d'Ed pour Central -> clôt R3.
 
-| # | Etape | Lieu | PNJ impliques | Tchekhov lies | Duree | Condition d'avancement |
-|---|---|---|---|---|---|---|
-| 1 | La nuit, sans la prevenir. Ed et Al tentent de ramener Trisha, en cachette. Rhea est hors de la boucle : ses deux amis rejouent son propre 1903 sous son nez (le noyau Rockbell savait ce qu'elle a vecu ; les freres, non) | maison Elric | Ed, Al | transmutation cachee des Elric (detone) ; parallele deuil-transmutation | une nuit | la transmutation rate |
-| 2 | Elle trouve la scene, l'acheve et eclate - un seul souffle. Premiere sur place : la-chose-qui-n'est-pas-Trisha, Al disparu (ame scellee dans l'armure), Ed mutile (jambe = peage de la Porte ; bras = sacrifie pour sceller l'ame d'Al). Elle reconnait la chose - elle en a produit une, jadis - et l'acheve au pic de beton SANS CILLER. Renversement glacant : en 1903 elle etait la gamine prostree et c'est Pinako qui avait du achever sa masse a elle ; ici c'est Rhea qui porte le coup - affect casse, intime de cette horreur. Dans le meme mouvement, la detestation a double tranchant : les freres (l'avoir fait sans elle, sans la prevenir) ET elle-meme (n'avoir rien vu venir, elle qui savait). Al cristallise la plaie : a elle il manquait une ame pour ramener Alan, lui n'est plus qu'une ame - l'anti-Alan, insupportable, et sa douceur l'attire quand meme. Le noeud Rhea/Al nait ici. Elle NE LEUR LACHE RIEN de son 1903 : elle explose et decide de ne plus jamais leur parler. Le pic de beton reste plante au travers du cercle, ensanglante - la trace que Mustang lira | maison Elric | Ed (mutile), Al (armure), la-chose-qui-n'est-pas-Trisha | transmutation cachee (detone) ; noeud Rhea/Al ; parallele deuil-transmutation | instantane (meme souffle) | Rhea coupe les ponts |
-| 3 | La visite (recadree canon ep. 2). Le lieutenant-colonel Mustang arrive a Resembool avec la sous-lieutenant Hawkeye, en reperage de recrues pour le programme des Alchimistes d'Etat. Au bourg, la rumeur tombe : des gamins alchimistes, dont la gamine Rockbell qui transmute sans cercle depuis toujours. Maison Elric vide -> sous-sol : les restes ensanglantes d'un cercle de transmutation humaine, ET le pic de beton encore couvert de sang dresse au travers - une troisieme main est passee la. Il cherche le survivant -> maison Rockbell : Ed alite, mutile ; venu sermonner, Mustang bascule dans la stupeur en decouvrant l'armure (Al) ; l'offre (l'Etat, ses ressources, un moyen de retrouver leurs corps) ; objection frontale de Pinako (canon : elle a vu et enterre la chose que les gamins ont transmutee, et le sermonne de vouloir les replonger la-dedans). C'est en recrutant Ed que celui-ci mentionne l'alchimiste de l'atelier, "de mauvaise humeur". Dehors, echange Winry/Riza (canon) : a Winry qui proteste qu'on lui a deja pris ses parents et qu'on veut maintenant prendre Ed et Al, Riza repond que le choix appartient aux freres seuls, que personne ne les forcera - et qu'elle-meme s'est engagee pour proteger quelqu'un | bourg / maison Elric / maison Rockbell | Mustang, Riza, Ed, Al, Pinako, Winry | statut de sacrifice de Rhea (rumeur recoltee) | un jour | Mustang met le cap sur l'atelier |
-| 4 | L'atelier - la terrible erreur. Mustang vient faire la meme offre a Rhea sur SON terrain, la ou elle peut s'armer. Ricanement de Pinako, qui connait par coeur l'impulsivite de sa petite-fille. Explosion : Rhea l'inonde de jurons, l'insulte de "genocidaire", attrape des chutes d'automail et les transmute en armes de lancer sous ses yeux - confirmation directe de la rumeur -, ramenee au jour ou on lui a annonce que Sarah et Yuri etaient morts sur le front. Winry s'interpose, l'empeche de lancer, calme sa soeur, puis demande aux militaires de partir. Sur la route du depart : beat canon sur Ed (Riza : des yeux pleins de defaite ; Roy : il y a vu du feu), puis beat Rhea - Roy repart persuade qu'elle a trop perdu par la guerre pour un jour les rejoindre ; Riza lui oppose qu'elle n'a pas vu une bete sauvage, mais une gamine qui aura envie de faire bouger les choses | atelier Rockbell | Mustang, Riza, Rhea, Winry, Pinako | statut de sacrifice de Rhea (demonstration vue - Tchekhov ARME) | meme jour | Mustang et Riza repartis |
-| 5 | La decision. La visite declenche (canon) : Ed choisit l'automail pour avancer. Pinako annonce trois ans de reeducation ; Ed jure d'y arriver en un an. Cap : l'examen d'Etat | maison Rockbell | Ed, Al, Pinako, Winry | - | quelques jours | operation acceptee |
-| 6 | L'annee d'atelier. Pose de l'automail (Winry, Pinako), puis reeducation. Rhea, perfectionniste obsessive, deteste oeuvrer pour un futur Alchimiste d'Etat - mais Pinako a accepte le boulot, alors elle se donne a fond : elle soigne l'automail sans adresser un mot au "client", du coeur a l'ouvrage un peu malgre elle. Isolement pour eviter les Elric : elle vient chercher a manger a la cuisine au lieu de se mettre a table, s'enferme a l'atelier, s'endort sur l'etabli ; Winry la porte tant bien que mal jusqu'a leur chambre pour dormir ensemble | atelier Rockbell | Ed (le "client"), Winry, Pinako, Al | noeud Rhea/Al (tension a distance) | un an (fin 1910 -> 1911) | reeducation achevee |
-| 7 | Fin de reeducation. Le defi d'un an est tenu : Ed operationnel. Il revele le sans-cercle a Al, en prive (canon) ; Al ne voit meme pas de quelle Porte il parle - il n'a rien. Rhea l'apprend de la bouche de Winry, jamais par elle-meme (nuit partagee). Sa lecture (rationalisation de Rhea, PAS regle du monde) : Al a paye le prix sans meme la compensation - preuve qu'il s'y est plonge sans y etre prepare, encore moins qu'elle a 5 ans. Le noeud Rhea/Al se resserre. Ed part pour Central viser l'examen d'Etat | maison Rockbell / atelier | Ed, Al, Winry | noeud Rhea/Al (resserre par l'info-Winry) | quelques jours | Ed part pour Central -> clot R3 |
+## Casting convoqué
+- Rhea - POV, 12 -> 13 ans - cf. Personnages/Rhea.md
+- Edward Elric - transmutation ratée, mutilé (jambe + bras), choisit l'automail, défi d'un an, part pour Central - cf. Personnages/Edward_Elric.md
+- Alphonse Elric - âme scellée dans l'armure, anti-Alan, sans sans-cercle - cf. Personnages/Alphonse_Elric.md
+- Winry Rockbell - échange avec Riza, empêche le lancer, pose l'automail, porte Rhea jusqu'au lit, lui apprend l'info sur Al - cf. Personnages/Winry_Rockbell.md
+- Pinako Rockbell - objecte à Mustang, ricane à l'atelier, accepte le boulot, annonce trois ans de rééducation - cf. Personnages/Pinako_Rockbell.md
+- Roy Mustang - lieutenant-colonel, repérage de recrues, offre aux deux sans-cercle - cf. Personnages/Roy_Mustang.md
+- Riza Hawkeye - sous-lieutenant, échange avec Winry, lecture de Rhea face à Roy - cf. Personnages/Riza_Hawkeye.md
+- La-chose-qui-n'est-pas-Trisha - non fiche : produit de la transmutation ratée, achevée par Rhea au pic de béton.
+- Les gens du bourg - non fiche : porteurs de la rumeur (la gamine Rockbell transmute sans cercle).
+
+## Lieux et objets
+- Resembool : bourg, maison Elric (sous-sol au cercle), maison Rockbell, atelier Rockbell - cf. Lieux/Resembool.md
+- Central City - destination d'Ed à la sortie, hors-champ - non fiche (BIBLE SB6 seulement).
+- Cercle de transmutation humaine des Elric - non fiche : au sous-sol de la maison Elric, ensanglanté ; lu par Mustang.
+- Pic de béton - non fiche : arme avec laquelle Rhea achève la chose ; reste planté au travers du cercle, ensanglanté - la trace d'une troisième main.
+- Armure d'Al - réceptacle de son âme - cf. Personnages/Alphonse_Elric.md
+- Chutes d'automail - non fiche : transmutées en armes de lancer sous les yeux de Mustang (démonstration).
+- Automail d'Ed - posé et soigné à l'atelier pendant l'année - cf. Systemes/Automail.md
+
+## Conditions de sortie
+### Requis
+- Rhea a coupé les ponts avec les frères (jalon 2) et tient le silence verbal tout l'arc.
+- Mustang a vu la démonstration sans cercle à l'atelier (jalon 4) : le repérage est armé.
+- Rhea a refusé l'offre de Mustang (jalon 4).
+- L'automail d'Ed est soigné jusqu'à la fin de la rééducation (jalon 6).
+### Interdits
+- Révéler aux Elric son 1903 ou sa lésion - casserait la révélation actée pour 1914 (charnière) : la fracture se joue sans que Rhea s'explique.
+- Révéler à Mustang ou à Riza le pourquoi du sans-cercle - le fait est de notoriété locale, le pourquoi reste verrouillé chez les Rockbell.
+- Lancer les armes sur Mustang ou Riza - casserait le jalon 4 (Winry empêche le lancer) et les arcs canon où ils reviennent.
+- Rejoindre l'armée ou accepter l'offre - casserait le refus de l'appareil, racine de l'antimilitarisme sur toute la saga.
+- Adresser la parole à Ed pendant l'année d'atelier - casserait le silence total qui court jusqu'en 1914.
+- Apprendre par elle-même l'absence de sans-cercle chez Al - elle l'apprend de Winry, jamais par elle-même (décision actée).
+- Avouer son attirance pour Al - casserait le nœud Rhea/Al, avoué seulement à la fin du périmètre.
+
+## Verrous
+- [À TRANCHER] Aucun verrou posé à ce jour.
 
 ## Bifurcations
 - Aucune.
 
-## Conditions de cloture
-- mi-1911 : la fracture est posee, Rhea a coupe les ponts (silence verbal total - elle a soigne son automail un an sans jamais lui parler), Ed part pour Central -> ouvre Roadmap4 (examen d'Etat, montre d'argent, incendie de la maison Elric, depart des freres pour les premieres missions).
-- Acquis structurels : detestation a double tranchant (freres + elle-meme) ; noeud Rhea/Al noue (anti-Alan + attirance tue), resserre par l'info-Winry (pas de compensation = pas prepare - lecture de Rhea, le mecanisme reel restant celui de SB1 / fiche Alphonse, qu'elle ignore) ; refus violent de Mustang et de l'appareil ; annee d'atelier vecue. Premiere entree de la Trajectoire datee de Rhea (la strate s'ouvre a 1910-1911).
-- REPERAGE (Tchekhov arme) : Mustang repere la troisieme sans-cercle SUR PLACE - rumeur de village (le fait, jamais le pourquoi) + demonstration involontaire a l'atelier. Ne plus jamais ecrire "il avait eu vent avant la visite".
-- IRONIE (cadrage MJ / savoir du joueur, hors prose) : Rhea traite Mustang de "genocidaire" sans savoir que lui ET Riza ont hai Ishval et portent, d'un autre bord, la meme plaie qu'elle. Enrichie des deux lignes de Riza ("engagee pour proteger quelqu'un" ; "pas une bete sauvage - une gamine qui aura envie de faire bouger les choses"). A verser en CODEX ANNEXE_SAVOIRS a la bascule jeu.
-- FRONTIERE (cadrage MJ, hors prose - ne jamais faire fuiter en narration) : l'examen d'Etat, la montre d'argent, l'incendie de la maison Elric (acte : post-examen) et le depart des freres appartiennent a Roadmap4. La revelation du 1903 de Rhea (transmutation + lesion) est reportee a 1914 -> charniere ; jusque-la, les Elric ignorent tout.
-- Implication a trancher en Roadmap12 : le reperage est desormais ETAYE (Mustang a VU la demonstration) - que devient l'info cote armee (rapport ecrit ? bouche cousue ?). Ca gratte le "Rhea hors radar de Pere par defaut".
-- Tchekhov : transmutation cachee des Elric (detone ici) ; noeud Rhea/Al (avoue seulement a la fin) ; parallele deuil-transmutation ; statut de sacrifice de Rhea (reperee sur place, 1910).
+## Notes de frontière
+- L'examen d'État, la montre d'argent, l'incendie de la maison Elric (acté : après l'examen) et le départ des frères appartiennent à Roadmap 4. Cadrage MJ, hors prose : ne jamais faire fuiter en narration.
+- La révélation du 1903 de Rhea (transmutation + lésion) aux Elric est reportée à 1914, à la charnière ; jusque-là, les Elric ignorent tout.
+- Repérage étayé : que devient l'info côté armée (rapport écrit ? bouche cousue ?) se tranche en Roadmap 12. Par défaut, Rhea reste hors radar de Père.
+- Ironie (savoir du joueur, hors prose) : Rhea traite Mustang de « génocidaire » sans savoir que lui ET Riza ont haï Ishval et portent, d'un autre bord, la même plaie qu'elle. Enrichie des deux lignes de Riza (« engagée pour protéger quelqu'un » ; « pas une bête sauvage - une gamine qui aura envie de faire bouger les choses »). À verser en CODEX ANNEXE_SAVOIRS à la bascule jeu.
+- Tchekhov : transmutation cachée des Elric (détone ici) ; nœud Rhea/Al (avoué seulement à la fin) ; parallèle deuil-transmutation ; statut de sacrifice de Rhea (repérée sur place, 1910).
 
 ---
-FIN_WIKI_ROADMAP_3_TRANSMUTATION_ELRIC_ET_MUSTANG
+FIN_WIKI_ROADMAP_RHEA_3

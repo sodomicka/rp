@@ -1,35 +1,69 @@
-# Roadmap2_Ishval_La_Nouvelle
+# Roadmap 2 - Ishval, la nouvelle
 
-- statut : a venir
-- version : W1
+- version : W2
+- statut : à venir ; JOUABLE
+- prota / POV : Rhea (10 -> 11 ans), POV strict : on ne quitte jamais Resembool
+- échelle temporelle : ~1 an (début 1909 -> fin 1909) ; le liant (départ des frères, mois d'absence) se compresse, les scènes fortes (l'annonce, le feu, le retour) se jouent
+- borne d'entrée : suite de Roadmap 1. Fin 1908, Rhea a 10 ans ; Sarah et Yuri sont absents depuis leur dernier départ de 1907, aucune nouvelle n'est parvenue.
+  - Cadrage MJ (jamais joué) : Sarah et Yuri sont tués à Ishval en 1908, hors-récit total. Le MJ le sait ; Rhea ne le vivra que par la nouvelle, en 1909.
+- borne de sortie : fin 1909, la mort est sue, le deuil traversé, les frères rentrés -> Roadmap 3. Acquis à la sortie :
+  - les sœurs sont désormais « jumelles » (fusion scellée dans le deuil, plus fort que le deuil d'Alan) ;
+  - ANTIMILITARISME né (conséquence, pas un beat) - racine concrète, pas abstraite : le soldat-gamin, simple postier, venu solder la mort de ses parents avec de l'argent, sans un mot sur le fait qu'ils étaient là pour SAUVER (les deux camps) quand les Alchimistes d'État venaient ôter des vies - l'institution qui tue et qui paie ;
+  - apogée de l'admiration de Rhea pour Al ;
+  - Rhea a formulé sa philosophie du pouvoir : la transmutation sans cercle n'est pas un don mais la compensation d'un deuil ;
+  - clivage du savoir : le noyau Rockbell et désormais Izumi (via les frères) savent qu'une gamine transmute sans cercle ; Izumi en devine le prix (elle a payé le sien).
+- roadmap précédente : cf. WIKI Roadmap/Rhea/Roadmap1_Grandir_A_Resembool.md
+- roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md
 
-## Conditions de depart
-- Suite de Roadmap1 : fin 1908, Rhea a 10 ans, les parents (Sarah et Yuri) sont absents depuis leur dernier depart de 1907, aucune nouvelle n'est parvenue.
-- POV Rhea strict : on ne quitte jamais Resembool. Ishval n'est jamais montre.
-- CADRAGE MJ (jamais joue) : Sarah et Yuri sont tues a Ishval en 1908, hors-recit total. Le MJ le sait ; Rhea ne le vivra que par la nouvelle, en 1909.
+## Intention
+Le deuil des parents, vécu de Resembool sans jamais voir Ishval : les deux sœurs deviennent jumelles, et l'antimilitarisme de Rhea naît d'une image concrète, un gamin en uniforme venu solder des morts avec une enveloppe d'argent.
 
-## Etapes
-Arc a scenes fortes (l'annonce, le feu, le retour) : elles se JOUENT. Le liant (depart des freres, mois d'absence) se compresse. Durees par ligne.
+## Itinéraire (jalons)
+1. Le départ des frères [début 1909, compressible] : Resembool ; Dublith hors-champ. Ed (10 ans) et Al (9 ans) partent s'entraîner ~6 mois chez Izumi à Dublith. Les amis d'enfance s'en vont, insouciants ; Resembool se vide d'eux. Tchekhov : transmutation sans cercle connue des Elric ; penchant Al. Avance quand les frères sont partis.
+2. L'absence [quelques mois, compressible] : Resembool. Le trio se resserre : Rhea, Winry, Pinako. Le quotidien de l'atelier, sans les garçons. Avance quand la nouvelle arrive.
+3. L'annonce [une nuit] : maison Rockbell. Les filles dorment ; elles entendent Pinako hausser le ton - ce qui n'arrive jamais sérieusement - et pas d'Ed pour chahuter mamie : anormal. Intriguées, elles descendent. Un soldat lambda, la vingtaine, de corvée de courrier, tend une enveloppe (l'indemnité). Pinako la jette au sol : « l'argent ne me rendra pas mon fils. » Rhea comprend dans l'instant. Et elle se connaît : avec son zéro filtre, c'est ELLE qui risque de jeter la vérité crûment à Winry, sans le moindre ménagement. Elle ne veut pas que sa sœur l'apprenne comme ça. Alors elle la serre fort contre elle, pleure, et se mord l'intérieur de la joue jusqu'au sang - se mutiler pour se forcer, ELLE, à se taire. Puis Winry comprend seule. Le germe de l'antimilitarisme est déjà là, dans l'image obscène d'un gamin en uniforme venu solder des morts avec une enveloppe d'argent. Tchekhov : Scar / parents (planté, tueur tu). Avance quand la vérité est sue.
+4. La naissance des jumelles [au cœur de l'annonce] : maison Rockbell. Dans le partage de la douleur la plus vive, les deux sœurs deviennent jumelles - plus fort que pour Alan, car Rhea est hypersensible au deuil depuis 1903. Avance quand le lien est scellé.
+5. Pinako au coin du feu [un soir] : maison Rockbell. Pinako a tenu debout en façade devant les filles ; sa digue ne lâche que seule, plus tard. Un soir, elle pleure près du feu. Rhea vient réclamer l'histoire du soir, tombe sur mamie en larmes, reste dix minutes sans se faire remarquer ; Winry est restée dans la chambre ; Rhea, plantée dans le couloir, est incapable de trancher entre son rituel et mamie qui pleure, ni de savoir comment réagir.
+6. Le retour des frères [un jour] : Resembool. Ed et Al rentrent gonflés de leur entraînement, pressés d'annoncer à Rhea que leur Maître transmute aussi sans cercle. Ils trouvent les deux sœurs collées, travaillant tristement un automail ensemble : ils comprennent tout de suite. Winry raconte calmement, puis Rhea prend le relais - crise, les mots se bousculent, elle craque et s'effondre dans les bras de sa jumelle, qui la calme. Ed se vante de réagir avec plus d'empathie, lui ; Al lui colle une patate en plein visage ; Ed s'excuse aussitôt. Apogée de l'admiration de Rhea pour Al - celui qui sait quand se taire, et qui engueule son grand frère pour ça. Tchekhov : penchant Al (apogée) ; transmutation sans cercle connue des Elric. Avance quand les retrouvailles sont faites.
+7. Ce qu'Izumi sait [quelques jours après] : Resembool. L'incident oublié (deux minutes pour Rhea, quelques jours pour Ed), les frères racontent ce qu'Izumi sait faire - et qu'elle a semblé dévastée en apprenant qu'une gamine transmute aussi sans cercle, ce qu'ils n'ont pas compris. Rhea tranche : rien à comprendre. Ce n'est pas un don de savoir faire ça, c'est la moindre compensation pour un truc que personne ne devrait jamais vivre. Tchekhov : parallèle deuil-transmutation (Izumi / Rhea, amorcé à distance).
 
-| # | Etape | Lieu | PNJ impliques | Tchekhov lies | Duree | Condition d'avancement |
-|---|---|---|---|---|---|---|
-| 1 | Le depart des freres. Ed (10 ans) et Al (9 ans) partent s'entrainer ~6 mois chez Izumi a Dublith. Les amis d'enfance s'en vont, insouciants ; Resembool se vide d'eux | Resembool (Dublith hors-champ) | Ed, Al | transmutation sans cercle connue des Elric ; penchant Al | debut 1909, compressible | les freres partis pour ~6 mois |
-| 2 | L'absence. Le trio se resserre : Rhea, Winry, Pinako. Le quotidien de l'atelier, sans les garcons | Resembool | Winry, Pinako | - | quelques mois, compressible | la nouvelle arrive |
-| 3 | L'annonce. Les filles dorment ; elles entendent Pinako hausser le ton - ce qui n'arrive jamais serieusement - et pas de Ed pour chahuter mamie : anormal. Intriguees, elles descendent. Un soldat lambda, la vingtaine, de corvee de courrier, tend une enveloppe (l'indemnite). Pinako la jette au sol : "l'argent ne me rendra pas mon fils." Rhea comprend dans l'instant. Et elle se connait : avec son zero-filtre, c'est ELLE qui risque de jeter la verite crument a Winry, sans le moindre menagement. Elle ne veut pas que sa soeur l'apprenne comme ca. Alors elle la serre fort contre elle, pleure, et se mord l'interieur de la joue jusqu'au sang - se mutiler pour se forcer, ELLE, a se taire. Puis Winry comprend seule. Le germe de l'anti-militarisme est deja la, dans l'image obscene d'un gamin en uniforme venu solder des morts avec une enveloppe d'argent | maison Rockbell | Pinako, Winry, le soldat | Scar / parents (plante, tueur tu) | une nuit | la verite est sue |
-| 4 | La naissance des jumelles. Dans le partage de la douleur la plus vive, les deux soeurs deviennent jumelles - plus fort que pour Alan, car Rhea est hypersensible au deuil depuis 1903 | maison Rockbell | Winry | - | au coeur de l'annonce | lien scelle |
-| 5 | Pinako au coin du feu. Pinako a tenu debout en facade devant les filles ; sa digue ne lache que seule, plus tard. Un soir, elle pleure pres du feu. Rhea vient reclamer l'histoire du soir, tombe sur mamie en larmes, reste dix minutes sans se faire remarquer ; Winry est restee dans la chambre ; Rhea plantee dans le couloir, incapable de trancher entre son rituel et mamie qui pleure, ni de savoir comment reagir | maison Rockbell | Pinako | - | un soir | - |
-| 6 | Le retour des freres. Ed et Al rentrent gonfles de leur entrainement, presses d'annoncer a Rhea que leur Maitre transmute aussi sans cercle. Ils trouvent les deux soeurs collees, travaillant tristement un automail ensemble : ils comprennent tout de suite. Winry raconte calmement, puis Rhea prend le relais - crise, les mots se bousculent, elle craque et s'effondre dans les bras de sa jumelle, qui la calme. Ed se vante de reagir avec plus d'empathie, lui ; Al lui colle une patate en plein visage ; Ed s'excuse aussitot. Apogee de l'admiration de Rhea pour Al - celui qui sait quand se taire, et qui engueule son grand frere pour ca | Resembool | Ed, Al, Winry | penchant Al (apogee) ; transmutation sans cercle connue des Elric | un jour | retrouvailles faites |
-| 7 | Ce qu'Izumi sait. L'incident oublie (deux minutes pour Rhea, quelques jours pour Ed), les freres racontent ce qu'Izumi sait faire - et qu'elle a semble devastee en apprenant qu'une gamine transmute aussi sans cercle, ce qu'ils n'ont pas compris. Rhea tranche : rien a comprendre. Ce n'est pas un don de savoir faire ca, c'est la moindre compensation pour un truc que personne ne devrait jamais vivre | Resembool | Ed, Al | parallele deuil-transmutation (Izumi / Rhea, amorce a distance) | quelques jours apres | - |
+## Casting convoqué
+- Rhea - POV, 10 -> 11 ans - cf. Personnages/Rhea.md
+- Winry Rockbell - sœur, puis jumelle - cf. Personnages/Winry_Rockbell.md
+- Pinako Rockbell - reçoit la nouvelle, jette l'enveloppe, pleure seule au coin du feu - cf. Personnages/Pinako_Rockbell.md
+- Edward Elric - part chez Izumi, rentre, maladresse d'empathie - cf. Personnages/Edward_Elric.md
+- Alphonse Elric - part chez Izumi, rentre, recadre son frère (apogée de l'admiration de Rhea) - cf. Personnages/Alphonse_Elric.md
+- Izumi Curtis - hors-champ, connue par le récit des frères - cf. Personnages/Izumi_Curtis.md
+- Sarah et Yuri Rockbell - morts hors-récit (1908), présents par la nouvelle - cf. Personnages/Sarah_Rockbell.md, Personnages/Yuri_Rockbell.md
+- Le soldat - non fiche : soldat lambda, la vingtaine, de corvée de courrier, porteur de l'indemnité.
+
+## Lieux et objets
+- Resembool : maison Rockbell, atelier Rockbell - seul décor de l'arc - cf. Lieux/Resembool.md
+- Dublith - destination hors-champ des frères, foyer d'Izumi - non fiche (BIBLE SB6 seulement).
+- Ishval - lieu de la mort des parents, jamais montré - cf. Lieux/Ishval.md
+- L'enveloppe de l'indemnité - non fiche : argent de l'armée pour la mort des parents, jetée au sol par Pinako.
+
+## Conditions de sortie
+### Requis
+- La vérité sur la mort des parents est sue des deux sœurs (jalon 3).
+- Les retrouvailles avec les frères sont faites (jalon 6).
+### Interdits
+- Quitter Resembool ou voir Ishval - casserait le POV strict de l'arc.
+- Apprendre l'identité du tueur des parents - casserait le Tchekhov Scar / parents, qui détone en Roadmap 6 (1914).
+- Révéler aux Elric son 1903 ou sa lésion - casserait la révélation actée pour 1914 (charnière) et la fracture de Roadmap 3, qui se joue sans qu'elle s'explique.
+- Avouer son penchant pour Al - casserait le nœud Rhea/Al, avoué seulement à la fin du périmètre.
+
+## Verrous
+- [À TRANCHER] Aucun verrou posé à ce jour.
 
 ## Bifurcations
-- Aucune. Progression lineaire.
+- Aucune. Progression linéaire.
 
-## Conditions de cloture
-- Fin 1909 : la mort est sue, le deuil traverse, les freres rentres -> ouvre Roadmap3 (la transmutation des Elric + recrutement Mustang, 1910).
-- Acquis structurels : les soeurs sont desormais "jumelles" (fusion scellee dans le deuil, plus fort que le deuil d'Alan) ; ANTI-MILITARISME ne (consequence, pas un beat) - racine concrete, pas abstraite : le soldat-gamin simple postier venu solder la mort de ses parents avec de l'argent, sans un mot sur le fait qu'ils etaient la pour SAUVER (les deux camps) quand les alchimistes d'Etat venaient oter des vies - l'institution qui tue et qui paie ; apogee de l'admiration Rhea -> Al ; Rhea a formule sa philosophie du pouvoir - la transmutation sans cercle n'est pas un don mais la compensation d'un deuil.
-- Clivage du savoir : le noyau Rockbell et desormais Izumi (via les freres) savent qu'une gamine transmute sans cercle ; Izumi en devine le prix (elle a paye le sien).
-- FRONTIERE (troncature) : Scar jamais nomme (identite du tueur tue jusqu'en 1914) ; Ishval jamais montre ; la mort des parents jamais jouee (hors-recit) ; le miroir deuil-transmutation Rhea / Izumi n'est pas encore explicite pour Rhea - il se revelera a la rencontre (Roadmap9).
-- Tchekhov actifs a la sortie : Scar / parents (plante, detone Roadmap6) ; parallele deuil-transmutation (Izumi / Rhea, amorce a distance, culmine Roadmap9) ; penchant Al (apogee ici, avoue seulement a la fin) ; transmutation sans cercle connue des Elric et d'Izumi.
+## Notes de frontière
+- Scar n'est jamais nommé : l'identité du tueur reste tue jusqu'en 1914 (Roadmap 6).
+- La mort des parents n'est jamais jouée (hors-récit).
+- Le miroir deuil-transmutation Rhea / Izumi n'est pas encore explicite pour Rhea : il se révèle à la rencontre (Roadmap 9).
+- Tchekhov actifs à la sortie : Scar / parents (planté, détone Roadmap 6) ; parallèle deuil-transmutation (Izumi / Rhea, amorcé à distance, culmine Roadmap 9) ; penchant Al (apogée ici, avoué seulement à la fin) ; transmutation sans cercle connue des Elric et d'Izumi.
 
 ---
-FIN_WIKI_ROADMAP_2_ISHVAL_LA_NOUVELLE
+FIN_WIKI_ROADMAP_RHEA_2
