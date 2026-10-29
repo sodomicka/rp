@@ -27,7 +27,7 @@
   - Factions - armée et conspiration (2 pages)
   - Lieux - géographie narrative (3 pages)
   - Personnages - fiches neutres canon + protagoniste OC (16 pages)
-  - Roadmap/Rhea - index-cap + roadmaps détaillées, perspective Rhea (5 pages)
+  - Roadmap/Rhea - garde-cap + roadmaps détaillées, perspective Rhea (5 pages)
 - focus narratif : est d'Amestris autour de Resembool, avant et pendant la trame canon. Protagoniste OC (Rhea) : prix cognitif de la Vérité + relecture antimilitariste des événements. Instance jouée en CODEX + Parties/.
 
 ## SB1 Cosmogonie et règles du monde
@@ -95,7 +95,7 @@ Détail des étapes par arc : cf. FMA/Roadmap/Rhea/.
 En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRONO) cadrent l'arc ; le fil long des arcs traversés vient du CODEX ANNEXE_CHRONO.
 
 ### Notes
-- Cap des roadmaps (15, R0 à R14, Porte 1903 -> retour à Resembool 1915) : cf. WIKI Roadmap/Rhea/Chronologie.md. État d'avancement du chantier : cf. _Implications.md.
+- Cap des roadmaps (15, R0 à R14, Porte 1903 -> retour à Resembool 1915) : cf. WIKI Roadmap/Rhea/00_Garde_Cap.md. État d'avancement du chantier : cf. _Implications.md.
 - Incendie de la maison Elric : 1911, APRÈS l'examen d'État (examen -> incendie -> départ pour la quête). Décision worldbuilder actée en R3. Ordre canon exact [INCERTAIN] (l'incendie n'apparaît pas dans l'ép. 2).
 - [INCERTAIN] Numéro de l'ordre d'extermination d'Ishval : "3066" ou "306" selon les sources. Non tranché.
 - Parents Rockbell (Sarah, Yuri) : missions humanitaires ponctuelles depuis 1901 ; présents à l'arrivée de Rhea (1903) ; dernier départ 1907 ; tués par Scar 1908 ; nouvelle reçue à Resembool 1909.
@@ -153,7 +153,7 @@ Règle : définition + statut + renvoi. Les déroulés vivent en roadmap / fiche
 ### Mystères
 - Identité réelle de Bradley et des homonculus - connue du lecteur, ignorée du peuple | ouvert (révélation progressive dans le canon). cf. WIKI Factions/Homonculus.md
 - Cercle de transmutation national et Jour Promis - connu du lecteur | ouvert. cf. WIKI Lieux/Amestris.md
-- Statut de sacrifice de Rhea - Porte ouverte (1903) = hitobashira valable ; hors radar de Père par défaut ; repérage côté armée ARMÉ (Mustang, 1910) | ouvert - à trancher en R12 (que devient l'info côté armée). cf. fil Tchekhov ci-dessous ; WIKI Roadmap/Rhea/Chronologie.md
+- Statut de sacrifice de Rhea - Porte ouverte (1903) = hitobashira valable ; hors radar de Père par défaut ; repérage côté armée ARMÉ (Mustang, 1910) | ouvert - à trancher en R12 (que devient l'info côté armée). cf. fil Tchekhov ci-dessous ; WIKI Roadmap/Rhea/00_Garde_Cap.md
 - Incident du village natal de Rhea - générateur d'origine | hors-périmètre : NE DÉTONE JAMAIS (décision worldbuilder ; seul Alan subsiste de cette origine). cf. WIKI Roadmap/Rhea/Roadmap0_La_Porte.md
 
 ### Tchekhov

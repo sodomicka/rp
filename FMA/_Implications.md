@@ -20,6 +20,8 @@ pas les re-litiger. JAMAIS fetché en narration.
 - ROADMAPS INDEXÉES AU SOMMAIRE. La règle v8.2 "roadmaps non indexées en jeu"
   est ABANDONNÉE (décision worldbuilder, build B2), et la doctrine actuelle
   indexe les roadmaps par défaut. NE PAS ré-introduire la note "non indexées".
+  Seul le garde-cap (ex-Chronologie.md, renommé 00_Garde_Cap.md en B7) est
+  hors Sommaire, conformément à la doctrine.
 - Village natal de Rhea : GÉNÉRATEUR D'ORIGINE, ne détone jamais (ni nom du
   village, ni nom du père, aucune conséquence qui fuit). Seul Alan (frère cadet,
   mort 1903) subsiste de cette origine. Contrainte dure, pas un fil à armer.
@@ -57,7 +59,7 @@ pas les re-litiger. JAMAIS fetché en narration.
   incendie (post-examen), Al rejoint Ed - R4 SE TERMINE à la montre obtenue
   et aux premières missions. Le froid 1911-1914 est une ELLIPSE sans roadmap ;
   le retour des frères avec la piste Cornello migre à l'ouverture de la
-  charnière. Cap (Chronologie.md) recalé en ce sens.
+  charnière. Garde-cap (00_Garde_Cap.md) recalé en ce sens.
 - REPÉRAGE SANS-CERCLE SUR PLACE (rework R3, acté) : plus jamais "eu vent
   avant la visite". Deux vecteurs : rumeur de village (le FAIT que la gamine
   Rockbell transmute sans cercle depuis toujours est de notoriété locale ;
@@ -78,7 +80,7 @@ pas les re-litiger. JAMAIS fetché en narration.
 - PAS DE CHANGELOG DANS LES PAGES (build B6, décision worldbuilder) : une page
   porte une seule métadonnée, sa version ; l'historique vit dans git. Ne pas
   réintroduire de bloc "statut / R<N> : ...".
-- ÂGE SUR LA TRAME (build B6) : Chronologie.md corrigée - "16 ans du début à
+- ÂGE SUR LA TRAME (build B6) : garde-cap corrigé - "16 ans du début à
   la fin" -> 16 à l'entrée (1914), 17 au Jour Promis (printemps 1915).
 - Resume.md (W1, build B6) : résumé de l'histoire établie, à mettre à jour
   à chaque BIBLE BUILD. NON indexé au Sommaire (retiré en B7, mode BIBLE).
@@ -112,7 +114,7 @@ pas les re-litiger. JAMAIS fetché en narration.
   porte R<N> en interne, indexée (R<N>) au Sommaire pour ne pas déclencher le
   canari. À standardiser (tout en W<N> ou acter un préfixe par entité) si besoin.
 - Âge de Rhea sur la trame : 16 ans à l'entrée (1914), 17 au Jour Promis
-  (printemps 1915, elle naît le 30 janvier). Cohérent BIBLE <-> Chronologie ;
+  (printemps 1915, elle naît le 30 janvier). Cohérent BIBLE <-> garde-cap ;
   ne pas ré-écrire "16 ans sur toute la trame".
 - Strates sur fiches canon : Izumi porte une section Implications d'arc ;
   Riza, Winry et Mustang portent désormais des éléments datés 1910-1911 dans

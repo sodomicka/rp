@@ -45,18 +45,17 @@ Description : fiches neutres canon des entités qui pèsent sur le RP, plus la p
 - Bradley_Wrath.md (W1) - Généralissime et homonculus Wrath
 - Pere.md (W1) - homonculus originel, maître de la conspiration
 - Izumi_Curtis.md (W2) - maîtresse des Elric (1909), miroir thématique du deuil-transmutation ; sait dès 1909 qu'une gamine transmute sans cercle
-- Rhea.md (R6) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (démarre 1910) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
+- Rhea.md (R7) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (démarre 1910) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
 
 ### Roadmap/Rhea/
 Description : itinéraires par arc, dans l'ordre de la saga, par perspective de la protagoniste. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).
-- Chronologie.md (W1) - index-cap des 15 roadmaps (Porte 1903 -> retour à Resembool 1915) ; repères d'âge, points de vigilance
 - Roadmap0_La_Porte.md (W1) - 1903, générateur d'origine : rituel, Porte, péage, secours Pinako. Linéaire, VERROUILLÉ (ne détone jamais)
 - Roadmap1_Grandir_A_Resembool.md (W1) - 1903-1908 en vignettes : adoption, sœur Winry, amitiés Elric, tempérament figé, automail
 - Roadmap2_Ishval_La_Nouvelle.md (W1) - 1909 : la nouvelle des parents, les jumelles, naissance de l'antimilitarisme, retour des frères, ce qu'Izumi sait
 - Roadmap3_Transmutation_Elric_Et_Mustang.md (W2) - 1910 -> mi-1911 : transmutation cachée des Elric, fracture, visite Mustang (repérage sur place), année d'atelier, départ d'Ed. Ouvre la Trajectoire datée de Rhea
 - (roadmaps R4 à R14 - à construire en boucle serrée, Passe 2 en cours)
 
-> MÉMOIRES NON INDEXÉES. `Parties/<Partie>/Memoires/` n'est pas listé ici : indexer un dossier le fait paraître fetchable en narration. Les Mémoires sont des archives narratives cumulatives, interdites en jeu (sauf ordre OOC explicite) et consultées au BUILD seulement, par listing direct du dossier. Cf. SPEC_CODEX 4ter, livrable 3.
+> NON INDEXÉS. Le garde-cap (`Roadmap/Rhea/00_Garde_Cap.md`) : source de build, jamais fetché en narration. `Parties/<Partie>/Memoires/` : archives narratives interdites en jeu (sauf ordre OOC explicite), consultées au BUILD seulement par listing direct du dossier. Indexer un dossier le fait paraître fetchable en narration. Cf. SPEC_CODEX 4ter, livrable 3.
 
 ## PARTIES (Partie1)
 
