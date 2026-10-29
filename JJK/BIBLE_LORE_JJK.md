@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : JJK
 - sources primaires : manga Jujutsu Kaisen (Gege Akutami) ; worldbuilding du worldbuilder (OC Nisha Zenin, Yukiko Kamo, Eien, Nozomu)
-- bible_version : B38
+- bible_version : B39
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/JJK/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/JJK/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/JJK/Partie1/`
@@ -30,7 +30,7 @@
   - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2, C3, D1, D2, D3, D4, D5), Yukiko/ (A0, A1) (16 pages indexées). Hors index : trame de garde-cap (Yukiko/trame_A_B), _Chantier_Passe2_EresCD.md et Yukiko/chantier_yukiko.md (documents de travail) : sources de build jamais fetchées en narration.
   - Resume.md - résumé autosuffisant de l'univers jusqu'au repas bissextile du 29 février 2024 (fin de l'ère C, coup d'État Zenin, Traque côté Nisha, mort de Kenjaku, bataille finale, épilogue de la D5), NON indexé au Sommaire, jamais fetché en narration (1 page)
   - _Implications.md - journal de conception, jamais fetché en narration (1 fichier de travail)
-- Total indexé au Sommaire (W69) : 110 pages.
+- Total indexé au Sommaire (W71) : 110 pages.
 
 ## SB1 Cosmogonie et règles du monde
 Périmètre : divergences fondatrices liées à Nisha et Yukiko + règles nécessaires + cosmogonie des trois esprits.
@@ -269,7 +269,7 @@ SB8 porte, par mystère ou fil, la définition, le statut et un renvoi. Les dér
 - T-Okaruto - 2010 (B1, l'Okaruto Shinbun de Tsumiki) | DÉTONÉ juin 2018 (C1_1) : le club de Yuji descelle le doigt à rebours des avertissements du blog | Roadmap C1.
 - T-Âmes - 2011 (B1, noyaux de Panda) | DÉTONÉ C3 (1er nov 2018, salle des Instances, Panda absent), Yaga VIVANT | Roadmap C3.
 - Geto / Yuki ("la bonne question") - août 2007 (A2) | DÉTONÉ C3 (chez Tengen, 1er nov 2018 : la graine de mûre) | Roadmap C3.
-- Nisha vs Yuki - août 2007 (A2) | DÉTONÉ C3 (chez Tengen, 1er nov 2018) | Roadmap C3.
+- Nisha vs Yuki - août 2007 (A2) ; chargé B3_3a (avr 2017 : dans la question de Todo, Nisha reconnaît Yuki et comprend le cheminement de Geto) | DÉTONÉ C3 (chez Tengen, 1er nov 2018) | Roadmap B3, C3.
 - Vente conditionnelle de Megumi - A2_4 | RÉSOLUE en A2_10 (adoption hors-Zenin 2008) | Roadmap A2.
 - Coup d'État du clan Zenin - 2006 (A2_6) | DÉTONÉ D1 (1er nov 2018, après-midi), Naoya sur le trône | Roadmap D1.
 - Amicale non tenue en A2 - A2 | aucune édition jouée, massacre de Geto repoussé à fin 2007 | Roadmap A2.
@@ -283,4 +283,4 @@ Index détaillé page par page : cf. WIKI JJK/Sommaire.md
 
 ---
 
-FIN_BIBLE_B38
+FIN_BIBLE_B39

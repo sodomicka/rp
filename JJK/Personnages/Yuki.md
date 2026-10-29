@@ -1,6 +1,6 @@
 # Yuki Tsukumo
 
-- version : W9
+- version : W10
 
 ## Identité
 - Yuki Tsukumo, une des QUATRE seules Grade Spécial de l'univers. Électron libre intégral : elle a décroché son grade à l'université, puis a claqué la porte des institutions. Elle refuse les missions de l'université d'exorcisme, méprise les autorités (même dégoût que Gojo), vagabonde à l'étranger, à moto - réputée aussi puissante qu'irresponsable.
@@ -20,7 +20,7 @@
 - Scaling : 15 doigts (~51 %), Grade Spécial. HORS-CLASSEMENT officiel (a quitté le système) ; de facto 3e (Gojo 23 > Nisha 16 en 2007 > Yuki 15 > le reste).
 
 ## Relations
-- [DIVERGENCE RP] Nisha Zenin - GROSSES TENSIONS, aucun respect. Sur l'axe "que faire des fléaux", elles forment un triangle avec Geto : Yuki (régler à la racine, sans génocide), Geto (exterminer les profanes), Nisha (cynique : les profanes, mal nécessaire et gagne-pain). Pire : Nisha se complaît dans un système (le clan) encore plus pourri que celui que Yuki rejette. Deux insolentes, mais pas pour les mêmes raisons - Nisha se pense (se sait ?) au-dessus, quand Yuki s'interdit de juger. La phrase qui scelle leur dynamique, signée Nisha : "Ah... La ressource qui s'est pensée femme au point de tenter de le devenir... Tu es assez forte pour le faire, mais aussi assez naïve pour penser qu'ils te laisseront faire, Plasma Stellaire." (Elle la réduit à sa désignation de vessel et raille son idéalisme comme une naïveté.) La tension reste figée tant qu'elles ne se croisent pas ; elles ne se recroisent qu'une fois, chez Tengen (C3_4).
+- [DIVERGENCE RP] Nisha Zenin - GROSSES TENSIONS, aucun respect. Sur l'axe "que faire des fléaux", elles forment un triangle avec Geto : Yuki (régler à la racine, sans génocide), Geto (exterminer les profanes), Nisha (cynique : les profanes, mal nécessaire et gagne-pain). Pire : Nisha se complaît dans un système (le clan) encore plus pourri que celui que Yuki rejette. Deux insolentes, mais pas pour les mêmes raisons - Nisha se pense (se sait ?) au-dessus, quand Yuki s'interdit de juger. La phrase qui scelle leur dynamique, signée Nisha : "Ah... La ressource qui s'est pensée femme au point de tenter de le devenir... Tu es assez forte pour le faire, mais aussi assez naïve pour penser qu'ils te laisseront faire, Plasma Stellaire." (Elle la réduit à sa désignation de vessel et raille son idéalisme comme une naïveté.) Avril 2017 (B3_3a, Yuki hors scène) : dans la question du « type » que lui pose Todo, Nisha reconnaît Tsukumo ; Todo lui raconte la philosophie de sa maîtresse, et Nisha comprend le cheminement de pensée de Suguru. Elle n'a pas les mots échangés en août 2007, elle a la logique : c'est le fond de son accusation chez Tengen. La tension reste figée tant qu'elles ne se croisent pas ; elles ne se recroisent qu'une fois, chez Tengen (C3_4).
 - Suguru Geto - elle lui pose, en 2007, "la bonne question" (les deux voies) ; il en tire seul le génocide. [TCHEKHOV] Elle est, sans l'avoir voulu, à la source de sa chute ; DÉTONÉ chez Tengen (C3_4, cf. Trajectoire datée).
 - Satoru Gojo - même mépris des institutions ; en A2_7 elle vient le voir et tombe sur le couple.
 - Aoi Todo - son protégé (formation brutale), héritier de son tic "c'est quoi ton type ?".
@@ -30,6 +30,7 @@
 
 ## Trajectoire datée
 - août 2007 (A2_7) | Elle vient voir Gojo, tombe sur le couple Nisha/Gojo, sort sa question "type de mec" (réponses en scène -> roadmap) ; puis va parler à Geto : elle lui expose les deux voies, il en déduit seul la troisième. | Sans le vouloir, elle arme la bascule finale de Geto. -> roadmap A2_7.
+- avr 2017 (B3_3a, hors scène) | Par la bouche de Todo, son protégé devenu élève de Nisha : Nisha reconnaît son tic dans la question du « type », entend sa philosophie et comprend le cheminement de Suguru. | T-Nisha vs Yuki chargé (-> C3_4). -> Roadmap B3.
 - 1 nov 2018 (C3_4) | Chez Tengen, avec le groupe de Yuji (canon) : Nisha et elle manquent de s'égorger sur la chute de Geto ; la graine de mûre (le mûrier rêvé a donné les ronces de la Parade de 2017). | T-« la bonne question » et T-Nisha vs Yuki DÉTONÉS. -> palais (Roadmap D3).
 - nov 2018 (D2) | Reste garder Tengen avec Choso (canon), Nori à leurs côtés, en attendant le palais. | -> palais (D3).
 - 6 nov 2018 (D3, hors POV) | Une fois Nori assez remis pour garder Tengen avec Choso, attaque Kenjaku SEULE, au palais Kamo : la dispute avec Nisha (C3_4) l'a fait réfléchir, c'est à elle de réparer son erreur avec Suguru. Kenjaku la tue sans trop d'efforts et veut savourer sa mort ; Yukiko abrège ses souffrances. | MORTE. Conforte Kenjaku dans son arrogance (-> banquet du 8).
@@ -37,7 +38,7 @@
 
 ## Notes de frontière
 - Présente en A2_7, puis de C3_4 à sa mort (D3) : trajectoire terminale.
-- [TCHEKHOV] Nisha la tient pour RESPONSABLE de tout le désastre Geto + Kenjaku-dans-Geto (la "bonne question") : DÉTONÉ chez Tengen (C3_4).
+- [TCHEKHOV] Nisha la tient pour RESPONSABLE de tout le désastre Geto + Kenjaku-dans-Geto (la "bonne question") : chargé en avril 2017 (B3_3a, par Todo), DÉTONÉ chez Tengen (C3_4).
 - Mort (canon) : elle meurt contre Kenjaku pendant la Traque, poussant Star Rage jusqu'au trou noir. Chez nous [DIVERGENCE RP] : seule contre lui, sans y parvenir, le 6 nov 2018 (cf. Trajectoire).
 - Calage de son statut d'ancien Plasma Stellaire dans le cycle ~500 ans / Kenjaku -> à préciser (cosmogonie).
 
