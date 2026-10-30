@@ -6,12 +6,12 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B8 (Roadmap 4, 2026-10-30)
+- dernière mise à jour : BIBLE B10 (Roadmap 5, 2026-10-30)
 
 ## État d'avancement du chantier
-- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R4 (1903 -> 1914 ;
-  R0-R2 en W2, R3 en W4, R4 en W1, toutes au gabarit SPEC v9.2 §7). R5 à R14
-  restent à écrire en boucle serrée. Passe d'immersion (modes d'étape,
+- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R5 (1903 -> Liore
+  1914, au gabarit SPEC v9.2 §7). R6 à R14 restent à écrire en boucle
+  serrée. Passe d'immersion (modes d'étape,
   tranches de vie) non faite sur R0-R4.
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
   En jeu, la roadmap en cours est un document de jeu (SPEC v9.2 §7).
@@ -106,11 +106,23 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Resume.md (W1, build B6) : résumé de l'histoire établie, à mettre à jour
   à chaque BIBLE BUILD. NON indexé au Sommaire (retiré en B7, mode BIBLE).
 
+- CANON COMME RAIL (décision worldbuilder, R5) : les roadmaps canon
+  s'écrivent depuis la connaissance du canon Brotherhood/manga, sans
+  revisionnage. Exigence : narrable et cohérent entre roadmaps, pas copie
+  parfaite. Ne poser au worldbuilder que les questions essentielles.
+- ALCHIMIE DEVANT UN TÉMOIN CANON = CHOIX DU JOUEUR (worldbuilder, R5) :
+  pas une question de build. La roadmap pose seulement les conséquences
+  par défaut (Liore : Cornello meurt sans parler, rien ne remonte aux
+  homonculus).
+
 ## Points ouverts (à trancher en Passe 2, roadmap par roadmap)
 - Statut de sacrifice de Rhea (Roadmap 12) : repérage désormais ÉTAYÉ
   (Mustang a VU la démonstration en 1910). Que devient l'info côté armée
   (rapport écrit ? bouche cousue ?). À trancher en écrivant Roadmap 12.
   Par défaut : hors radar de Père.
+- R6 : en canon, Scar détruit le bras d'Ed et les frères rentrent à
+  Resembool pour que Winry le refasse. Avec Rhea dans le trio, le retour
+  reste-t-il nécessaire ? À cadrer en R6. Lieu canon probable : East City.
 - Contentieux Scar double avec Winry (Roadmap 6) : divergence assumée vs canon,
   à cadrer au moment d'écrire la roadmap.
 - Réconciliation Rhea/Al : FRAÎCHE et fragile au départ de 1914 (R4), consolidée

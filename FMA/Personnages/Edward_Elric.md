@@ -1,6 +1,6 @@
 # Edward Elric
 
-- version : W3
+- version : W4
 
 ## Identité
 
@@ -48,6 +48,7 @@ Quête : restaurer leurs corps via la Pierre philosophale.
 Ami d'enfance de la protagoniste (elle est un peu plus âgée). En 1910, Ed et Al cachent leur transmutation à tous, y compris à la protagoniste : source de rage pour elle. Détail : cf. Personnages/Rhea.md.
 - 1911-1914 (R4) : revient ponctuellement à Resembool pour l'entretien de son automail ; Rhea le soigne sans lui adresser un mot.
 - 1914 (R4) : revenu avec l'automail amoché et une piste sur la Pierre (Liore), c'est lui qui rompt trois ans de silence pour recruter Rhea - le plus dur à convaincre, poussé par Al et Winry. Apprend alors le 1903 de Rhea.
+- 1914 (R5) : à Liore, démasque Cornello avec Rhea dans le trio ; la Pierre se révèle fausse. Rhea consolide son automail après le combat.
 
 ## Sort connu (canon)
 
