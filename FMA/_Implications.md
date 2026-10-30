@@ -6,13 +6,13 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B7 (mise en forme SPEC v9.2, 2026-10-29)
+- dernière mise à jour : BIBLE B8 (Roadmap 4, 2026-10-30)
 
 ## État d'avancement du chantier
-- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R3 (1903 -> mi-1911 ;
-  R0-R2 en W2, R3 en W3, toutes au gabarit SPEC v9.2 §7). R4 à R14 restent à
-  écrire en boucle serrée. Passe d'immersion (modes d'étape, tranches de vie)
-  non faite sur R0-R3.
+- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R4 (1903 -> 1914 ;
+  R0-R2 en W2, R3 en W4, R4 en W1, toutes au gabarit SPEC v9.2 §7). R5 à R14
+  restent à écrire en boucle serrée. Passe d'immersion (modes d'étape,
+  tranches de vie) non faite sur R0-R4.
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
   En jeu, la roadmap en cours est un document de jeu (SPEC v9.2 §7).
 - Passe 3 (SETUP puis CODEX V1) : non entamée. Pas de fiche d'arc (doctrine
@@ -28,13 +28,14 @@ pas les re-litiger. JAMAIS fetché en narration.
   village, ni nom du père, aucune conséquence qui fuit). Seul Alan (frère cadet,
   mort 1903) subsiste de cette origine. Contrainte dure, pas un fil à armer.
 - RÉVÉLATION DU 1903 DE RHEA (transmutation + lésion) aux Elric : REPORTÉE À
-  1914 (charnière). Actée en R3 (frontière). Jusque-là, les Elric ignorent
+  1914 (R4, au retour des frères). Actée en R3 (frontière). Jusque-là, les Elric ignorent
   TOUT ; la fracture de 1910 se joue SANS que Rhea s'explique. Ne jamais faire
   fuiter avant.
 - Chronologie recalée au build B3 (patch A) : apprentissage Izumi = 1909
   (Ed 10 ans, Al 9 ans, six mois, retour fin 1909) ; incendie de la maison
   Elric = 1911, APRÈS l'examen d'État (examen -> incendie -> départ pour la
-  quête). Divergence assumée vs canon sur l'ordre incendie/examen.
+  quête). Probablement conforme au canon (3 octobre 1911, date gravée
+  dans la montre d'Ed [CANON SUPPOSÉ], build B8).
 - MÉTHODE ÉPISODE PAR ÉPISODE (décision worldbuilder, build B4) : les pages
   épisodes du wiki fandom sont une source de vérification riche (synopsis
   détaillés, chapitres manga adaptés). À DÉROULER au fil des roadmaps via le
@@ -57,11 +58,17 @@ pas les re-litiger. JAMAIS fetché en narration.
 - DÉCOUPE R3/R4 (rework R3, acté) : R3 = 1910 -> mi-1911, se clôt sur le
   départ d'Ed pour Central (visite Mustang recadrée canon, décision automail
   déclenchée par la visite, défi d'un an, année d'atelier, fin de
-  rééducation). R4 = 1911 : examen (hors-champ POV Rhea), montre d'argent,
-  incendie (post-examen), Al rejoint Ed - R4 SE TERMINE à la montre obtenue
-  et aux premières missions. Le froid 1911-1914 est une ELLIPSE sans roadmap ;
-  le retour des frères avec la piste Cornello migre à l'ouverture de la
-  charnière. Garde-cap (00_Garde_Cap.md) recalé en ce sens.
+  rééducation).
+- R4 PORTE LA CHARNIÈRE (fusion, décision worldbuilder, build B8) : R4 =
+  automne 1911 -> 1914 (examen, incendie, quai, froid en SNAPSHOTS, retour
+  des frères, révélation du 1903, départ). Arrêt juste avant le départ pour
+  Liore. Plus de charnière séparée : 15 roadmaps = R0-R4 pré-canon + R5-R14.
+- R4 - CADRAGE ACTÉ (build B8) : Ed rompt le silence, le plus dur à
+  convaincre, poussé par Al et Winry ; Winry et Pinako convainquent Rhea
+  (Rush Valley, où elle ne tiendrait pas, ou stagner) - elle part pour ne
+  pas brider le rêve de Winry. Révélation du 1903 REQUISE en R4, seule la
+  manière se joue en jeu (Rhea en flux, ou Winry qui raconte). Winry RESTE
+  à Resembool (canon : rejoint à Central R6, Rush Valley R8).
 - REPÉRAGE SANS-CERCLE SUR PLACE (rework R3, acté) : plus jamais "eu vent
   avant la visite". Deux vecteurs : rumeur de village (le FAIT que la gamine
   Rockbell transmute sans cercle depuis toujours est de notoriété locale ;
@@ -94,7 +101,7 @@ pas les re-litiger. JAMAIS fetché en narration.
   Par défaut : hors radar de Père.
 - Contentieux Scar double avec Winry (Roadmap 6) : divergence assumée vs canon,
   à cadrer au moment d'écrire la roadmap.
-- Réconciliation Rhea/Al : FRAÎCHE et fragile à la charnière (1914), consolidée
+- Réconciliation Rhea/Al : FRAÎCHE et fragile au départ de 1914 (R4), consolidée
   au fil du canon. Vérifier la cohérence quand les roadmaps 5-14 seront écrites.
 
 ## À verser au CODEX à la bascule jeu

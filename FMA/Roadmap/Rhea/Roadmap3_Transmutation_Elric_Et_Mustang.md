@@ -1,6 +1,6 @@
 # Roadmap 3 - La transmutation des Elric + recrutement Mustang
 
-- version : W3
+- version : W4
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (12 -> 13 ans), POV strict
 - échelle temporelle : ~1 an et demi (1910 -> mi-1911) : la nuit de la transmutation, la visite en un jour, quelques jours de décision, un an d'atelier, quelques jours de fin de rééducation
@@ -16,7 +16,7 @@
   - repérage armé : Mustang a repéré la troisième sans-cercle SUR PLACE (rumeur de village - le fait, jamais le pourquoi - + démonstration involontaire à l'atelier). Ne plus jamais écrire « il avait eu vent avant la visite » ;
   - première entrée de la Trajectoire datée de Rhea (la strate s'ouvre à 1910-1911).
 - roadmap précédente : cf. WIKI Roadmap/Rhea/Roadmap2_Ishval_La_Nouvelle.md
-- roadmap suivante : Roadmap 4 - L'examen et le départ (à écrire)
+- roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md
 
 ## Intention
 Ses deux amis rejouent son propre 1903 sous son nez, sans la prévenir : Rhea achève la chose sans ciller, coupe les ponts : c'est la fracture qui durera jusqu'en 1914. Dans la foulée, l'armée vient recruter sur son terrain, et repère la troisième sans-cercle.
@@ -57,7 +57,7 @@ Ses deux amis rejouent son propre 1903 sous son nez, sans la prévenir : Rhea ac
 - Rhea a refusé l'offre de Mustang (jalon 4).
 - L'automail d'Ed est soigné jusqu'à la fin de la rééducation (jalon 6).
 ### Interdits
-- Révéler aux Elric son 1903 ou sa lésion - casserait la révélation actée pour 1914 (charnière) : la fracture se joue sans que Rhea s'explique.
+- Révéler aux Elric son 1903 ou sa lésion - casserait la révélation actée pour 1914 (Roadmap 4) : la fracture se joue sans que Rhea s'explique.
 - Révéler à Mustang ou à Riza le pourquoi du sans-cercle - le fait est de notoriété locale, le pourquoi reste verrouillé chez les Rockbell.
 - Lancer les armes sur Mustang ou Riza - casserait le jalon 4 (Winry empêche le lancer) et les arcs canon où ils reviennent.
 - Rejoindre l'armée ou accepter l'offre - casserait le refus de l'appareil, racine de l'antimilitarisme sur toute la saga.
@@ -82,7 +82,7 @@ Ses deux amis rejouent son propre 1903 sous son nez, sans la prévenir : Rhea ac
 
 ## Notes de frontière
 - L'examen d'État, la montre d'argent, l'incendie de la maison Elric (acté : après l'examen) et le départ des frères appartiennent à Roadmap 4. Cadrage MJ, hors prose : ne jamais faire fuiter en narration.
-- La révélation du 1903 de Rhea (transmutation + lésion) aux Elric est reportée à 1914, à la charnière ; jusque-là, les Elric ignorent tout.
+- La révélation du 1903 de Rhea (transmutation + lésion) aux Elric est reportée à 1914, au retour des frères (Roadmap 4) ; jusque-là, les Elric ignorent tout.
 - Repérage étayé : que devient l'info côté armée (rapport écrit ? bouche cousue ?) se tranche en Roadmap 12. Par défaut, Rhea reste hors radar de Père.
 - Ironie (savoir du joueur, hors prose) : Rhea traite Mustang de « génocidaire » sans savoir que lui ET Riza ont haï Ishval et portent, d'un autre bord, la même plaie qu'elle. Enrichie des deux lignes de Riza (« engagée pour protéger quelqu'un » ; « pas une bête sauvage - une gamine qui aura envie de faire bouger les choses »). À verser en CODEX ANNEXE_SAVOIRS à la bascule jeu.
 - Tchekhov : transmutation cachée des Elric (détone ici) ; nœud Rhea/Al (avoué seulement à la fin) ; parallèle deuil-transmutation ; statut de sacrifice de Rhea (repérée sur place, 1910).
