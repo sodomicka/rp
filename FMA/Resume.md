@@ -1,6 +1,6 @@
 # Résumé - FMA
 
-- version : W12
+- version : W13
 
 Résumé de l'histoire telle qu'établie pour ce RP : canon Brotherhood condensé, trajectoire de la protagoniste OC (Rhea) et divergences actées. Faits seuls, pas de déroulé : le détail vit dans les roadmaps et les fiches.
 
@@ -28,7 +28,7 @@ Résumé de l'histoire telle qu'établie pour ce RP : canon Brotherhood condens�
 - 1914 - Le Nord : Briggs (R11). À la planque de Knox, Gluttony se transforme ; Rhea part avec Knox, Mustang blessé et Lan Fan. Ed, Ling et Envy avalés, Al mené à Père : ils reviennent par le repaire sous Central. Ed rapporte la Porte ouverte sur lui-même avec une Pierre, le corps d'Al vu devant elle, Père au visage de Hohenheim, Ling devenu Greed, Envy à l'origine d'Ishval, et Bradley qui garde Ed dans l'armée en menaçant Winry. Riza raconte Ishval à Ed et Rhea : Mustang et elle attendent d'être jugés. L'équipe de Mustang est dispersée ; dîner chez les Bradley (Selim, en vérité Pride). Au Nord, Olivier Armstrong tient Briggs ; Sloth surgit du sol ; le tunnel révèle le cercle national. Kimblee, l'Alchimiste écarlate, amène Winry ; l'automail de grand froid se forge à quatre mains. À Baschool, Winry confronte Scar avec Rhea, puis lui pardonne ; la ruse de l'enlèvement emmène les deux sœurs avec Scar, May, Marcoh et Yoki dans les galeries.
 - 1914-1915 - Convergence (R12). Dans les galeries de Baschool, Rhea démonte Al trouvé dans la neige et le remonte au bidonville du Nord ; Ed, empalé dans la mine par l'explosion de Kimblee, referme sa plaie sur sa propre vie et disparaît. May déchiffre les notes du frère de Scar : le cercle national et un contre-cercle. Envy tombe dans le piège de May et Marcoh, réduit à sa forme vraie et emporté vers Xing. À Liore reconstruite, Hohenheim raconte Xerxès, Père, le Jour Promis et les cinq sacrifices : Rhea se sait sacrifice valable. Mustang, lui, n'a jamais rien écrit sur elle en 1910. Retour à Resembool avec Winry ; 17 ans ; Ed vivant, allié à Greed-Ling, Lan Fan à l'automail de Pinako, automail au carbone. Winry refuse de fuir ; Rhea repart avec Ed. Au bidonville aux abords de Central, Pride et Gluttony : Gluttony dévoré, Al enfermé avec Pride sous un dôme de Hohenheim. À l'aube, les groupes d'Ed et de Scar se rejoignent.
 - 1915 - Le Jour Promis (R13). Rhea entre sous Central avec Ed et Scar ; les soldats-mannequins déferlent. Envy, recomposé, avoue Hughes ; Mustang le brûle, Ed, Riza et Scar le retiennent ; Envy se suicide. Le cercle du médecin aux dents d'or aspire les sacrifices. Si Rhea est « repérée », elle est le cinquième, et Mustang garde la vue ; sinon Pride force Mustang à ouvrir la Porte, il devient aveugle. Ross revient avec des armes, Kimblee, Sloth, Fu et Buccaneer meurent. À l'éclipse, Père aspire le pays et avale Dieu ; le contre-cercle de Hohenheim et le cercle du frère de Scar le défont, Scar tue Bradley. À la surface, Al, sans-cercle retrouvé, échange son âme contre le bras d'Ed ; Greed carbonise Père, Ed le renvoie à la Porte.
-- 1915 - retour à Resembool (R14, cap seulement). Ed renonce à sa Porte pour ramener Al ; bouclage Monsieur Lapinou / Cliquetis.
+- 1915 - Retour à Resembool (R14). Ed refuse la vie de Hohenheim et paie le retour d'Al avec sa Porte : plus d'alchimie, Al revient dans son corps. Hohenheim meurt sur la tombe de Trisha. À l'hôpital de Central, Winry dit à Rhea l'éclipse ; Marcoh apporte une Pierre pour les jambes de Havoc, puis pour les yeux de Mustang s'il est aveugle ; au chevet de Mustang, Rhea peut apprendre qu'il l'a tue dans son rapport de 1910. Scar part rebâtir Ishval, Ling et May rentrent à Xing, Pride est confié à Mme Bradley. Retour à Resembool : Rhea avoue à Al, qui ne la repousse pas ; la première nuit, Monsieur Lapinou reste à Winry, Cliquetis à Rhea. Fin du périmètre joué.
 
 ## Divergences actées vs canon
 
@@ -45,6 +45,7 @@ Résumé de l'histoire telle qu'établie pour ce RP : canon Brotherhood condens�
 - R11 : Rhea part avec Knox au lieu de suivre les frères, entend le récit d'Ishval de Riza, dîne chez les Bradley, vit Briggs et Baschool, et part avec Winry dans la ruse de l'enlèvement ; Winry peut savoir qu'elle est otage avant Briggs.
 - R12 : Rhea dans le groupe de Scar puis à Liore, remonte l'armure d'Al, apprend son statut de sacrifice par Hohenheim, à Resembool au retour d'Ed, au bidonville et au dôme. Mustang n'a jamais rapporté le sans-cercle de Rhea (1910).
 - R13 : Rhea dans le groupe d'Ed le Jour Promis, à la mort d'Envy ; cinquième sacrifice possible à la place de Mustang, qui garde alors la vue.
+- R14 : Mustang voyant (« repérée ») : la Pierre de Marcoh va à Havoc seul. Rhea peut apprendre le silence de Mustang. Aveu de Rhea à Al. L'épilogue canon (Ed à l'ouest, Al à l'est) reste hors périmètre.
 - Alphonse : conforme au canon (aucun souvenir de la Porte, pas de sans-cercle avant le Jour Promis ; souvenirs de 1910 rendus à Dublith).
 
 ---

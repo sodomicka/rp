@@ -1,6 +1,6 @@
 # Winry Rockbell
 
-- version : W12
+- version : W13
 
 ## Identité
 
@@ -93,6 +93,7 @@ Sororité fusionnelle avec la protagoniste (jumelles après 1909). Winry connaî
 - 1914 (R11) : otage de Bradley pour tenir Ed, sans le savoir d'abord ; Rhea ne lui ment pas (appel au choix du joueur, sinon elle l'apprend à Briggs). Amenée à Briggs par Kimblee ; retrouvailles avec Rhea, Monsieur Lapinou avec elle s'il a été rapporté. Refait l'automail d'Ed pour le froid, Rhea au métal. À Baschool, confronte Scar avec Rhea à ses côtés, puis lui pardonne (ses parents l'auraient fait) ; invente la ruse de l'enlèvement et part avec le groupe de Scar, Rhea avec elle.
 - 1914-1915 (R12) : dans les galeries puis au bidonville du Nord avec Rhea ; Liore ; raccompagnée à Resembool par des soldats de Briggs, Rhea avec elle. Les 17 ans de Rhea. Retrouve Ed vivant ; refuse de fuir à l'étranger ; renforce son automail au carbone, Rhea au métal. Apprend de Rhea qu'elle est un sacrifice valable. Dernier rituel avec Monsieur Lapinou ; reste à Resembool, Rhea repart avec Ed (cinquième séparation). Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : hors POV, à Resembool avec Monsieur Lapinou ; son âme prise et rendue à l'éclipse. Rhea l'apprend en R14. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
+- 1915 (R14) : vient à Central avec Pinako [CANON SUPPOSÉ] ; sixièmes retrouvailles, pleure sur Al ; dit à Rhea l'éclipse (son âme prise et rendue). Lâche le bâillon : l'aveu de Rhea à Al. Retour à Resembool ; rituel de sommeil retrouvé, Monsieur Lapinou reste à elle, Cliquetis à Rhea. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 
 ## Sort connu (canon)
 

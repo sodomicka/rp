@@ -1,6 +1,6 @@
 # Edward Elric
 
-- version : W12
+- version : W13
 
 ## Identité
 
@@ -57,6 +57,7 @@ Ami d'enfance de la protagoniste (elle est un peu plus âgée). En 1910, Ed et A
 - 1914 (R11) : avalé par Gluttony avec Ling et Envy ; ouvre la Porte sur lui-même avec la Pierre d'Envy pour sortir, voit le corps d'Al ; au repaire de Père, alchimie bloquée ; Bradley refuse sa démission et tient Winry en otage. Rapporte tout à Rhea. Rend son pistolet à Riza (récit d'Ishval). Briggs : automail gelé, Olivier, le tunnel-cercle ; Kimblee l'envoie traquer Scar ; couvre la ruse de Baschool auprès de Kimblee. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
 - 1914-1915 (R12) : poursuit Kimblee dans la mine de Baschool, empalé au fond d'un puits ; referme la plaie en payant avec sa propre durée de vie, emporté par Darius et Heinkel ; échappe à l'armée, s'allie à Greed-Ling. Rhea le croit mort jusqu'à Resembool. À Resembool, dit à Winry de fuir, automail renforcé au carbone par Winry et Rhea ; repart avec Rhea. Au bidonville, rend à Hohenheim les derniers mots de Trisha ; coupe la lumière contre Pride. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : entre sous Central avec Rhea et Scar ; arrête Mustang devant Envy ; aspiré par le cercle du docteur, sacrifice ; contre Pride (l'âme de Kimblee), le réduit à un nourrisson ; perd son bras d'automail, rendu par l'échange d'Al ; troue la poitrine de Père. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
+- 1915 (R14) : refuse la vie de Hohenheim, paie le retour d'Al avec sa Porte : plus d'alchimie. Bras de chair, jambe d'automail (Rhea l'entretient au métal). Hôpital de Central, retour à Resembool. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 
 ## Sort connu (canon)
 

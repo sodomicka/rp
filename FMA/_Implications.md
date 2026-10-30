@@ -6,13 +6,13 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B18 (Roadmap 13, 2026-10-30)
+- dernière mise à jour : BIBLE B19 (Roadmap 14, 2026-10-30)
 
 ## État d'avancement du chantier
-- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R13 (1903 -> chute
-  de Père, printemps 1915, au gabarit SPEC v9.2 §7). R14 reste à écrire en
-  boucle serrée. Passe d'immersion (modes d'étape,
-  tranches de vie) non faite sur R0-R4.
+- Passe 2 : TOUTES les roadmaps ÉCRITES, R0 à R14 (1903 -> retour à
+  Resembool, printemps 1915, au gabarit SPEC v9.2 §7). Restent avant la
+  Passe 3 : passe d'immersion (modes d'étape, tranches de vie) sur R0-R4,
+  puis RELECTURE CROISÉE de clôture (cœur §4).
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
   En jeu, la roadmap en cours est un document de jeu (SPEC v9.2 §7).
 - Passe 3 (SETUP puis CODEX V1) : non entamée. Pas de fiche d'arc (doctrine
@@ -261,19 +261,40 @@ pas les re-litiger. JAMAIS fetché en narration.
   [CANON SUPPOSÉ]. Point ouvert soldé.
   SILENCE DE MUSTANG : ne détone pas en R13 ; détonable en R14.
   AVEU À AL : toujours interdit en R13, même à l'échange (R14).
+- R14 - RETOUR À RESEMBOOL (mode usine, canon ép. 63 fin et 64, Wikipedia
+  partiel : résumés seulement). Quelques semaines. Borne de sortie : la
+  première nuit dans la chambre des sœurs ; fin du périmètre, aucune
+  roadmap suivante. Épilogue canon (Ed à l'ouest, Al à l'est, mariage)
+  HORS PÉRIMÈTRE.
+  ED : refuse la vie de Hohenheim, paie avec sa Porte. Verrou : Rhea
+  n'offre ni sa Porte ni son œil à sa place.
+  NŒUD RHEA/AL - DÉTONÉ : la bascule de 1910 venait de l'armure
+  (anti-Alan) ; corps rendu = la valeur rebascule (COF, pas de moyenne).
+  Aveu REQUIS à Resembool, moment au choix, registre frontal. Réponse
+  d'Al : il ne la repousse pas (tranché en mode usine sur les Bases
+  Romance 1920 du dépôt, qui les montrent mariés ; la forme se joue).
+  MONSIEUR LAPINOU - BOUCLÉ (lore worldbuilder) : reste à Winry, Rhea ne
+  le reprend pas ; Cliquetis reste à Rhea ; les deux dans le lit du
+  rituel. Écho possible de la tarte (R1) en tranche de vie.
+  SILENCE DE MUSTANG : détone au chevet (jalon 5, AU CHOIX : y aller ou
+  non), par Mustang lui-même, à plat. Sinon ironie au CODEX. « Repérée » :
+  personne ne sait qu'il lui doit ses yeux.
+  PIERRE DE MARCOH : « hors radar », Havoc puis Mustang (canon) ;
+  « repérée », Havoc seul [INTERPRÉTATION]. INTERDIT : la Pierre pour
+  l'œil ou le cortex de Rhea (le péage est à elle ; Bases Romance 1920 :
+  inchangée).
+  SCAR : soigné en secret, Ishval ; pas de pardon dit par défaut, la
+  reconstruction = réparation dans la durée.
+  WINRY : vient à Central avec Pinako [CANON SUPPOSÉ] ; dit l'éclipse.
+  HOHENHEIM : mort sur la tombe de Trisha, trouvé par Pinako [CANON
+  SUPPOSÉ].
 
 ## Points ouverts (à trancher en Passe 2, roadmap par roadmap)
-- Scar : allié d'Ed sous Central, tue Bradley (R13). Survie et Ishval
-  (ép. 64) : R14 ; ce que Rhea en fait suit l'état de la partie.
-- Ce que Scar retient de Rhea : la seconde sans-cercle (si R6), et qu'elle
-  est aussi une fille des Rockbell seulement si elle le dit (R10). À
-  reprendre aux roadmaps où il recroise le trio.
-- Réconciliation Rhea/Al : FRAÎCHE et fragile au départ de 1914 (R4), consolidée
-  au fil du canon. Vérifier la cohérence quand les roadmaps 5-14 seront écrites.
-- Savoir de Rhea sur le silence de Mustang (1910) : non détoné en R13 ;
-  à décider en écrivant R14 (après-guerre, Mustang voyant ou aveugle).
-- R14 : Pierre de Marcoh pour Mustang et Havoc (ép. 64) sans objet si
-  Mustang a gardé la vue ; la roadmap porte les deux états.
+- Réconciliation Rhea/Al (R4 -> R14) : vérifier à la relecture croisée que
+  la carte d'Al et la dissonance anti-Alan progressent sans saut d'une
+  roadmap à l'autre jusqu'à l'aveu (R14).
+- Al et le sans-cercle après le retour de son corps (R14) : [INCERTAIN],
+  sans effet sur la trame jouée.
 
 ## À verser au CODEX à la bascule jeu
 - IRONIE Mustang/Riza (R3, 1910) : Rhea traite Mustang de "génocidaire" sans
@@ -315,6 +336,9 @@ pas les re-litiger. JAMAIS fetché en narration.
 - IRONIE Winry (R13) : son âme est prise et rendue à l'éclipse pendant que
   Rhea se bat sous Central ; Rhea l'ignore jusqu'en R14.
   -> CODEX ANNEXE_SAVOIRS.
+- IRONIE Mustang (R14, « repérée ») : il n'a rien à recouvrer, il voit ; la Pierre
+  de Marcoh va à Havoc seul, et personne ne sait pourquoi. Le silence de
+  1910, s'il n'est pas dit au chevet, reste au CODEX. -> CODEX ANNEXE_SAVOIRS.
 - IRONIE Gluttony (R10) : l'anosmique face au nez absolu ; le captif ligoté
   va avaler Ed et Ling quelques minutes plus tard. -> CODEX ANNEXE_SAVOIRS.
 
@@ -327,7 +351,7 @@ pas les re-litiger. JAMAIS fetché en narration.
 ## Dettes de build
 - Budget roadmap : R12 = ~18 800 caractères (plafond 15 000), comme R11
   (~22 800). Compressions possibles sur décision du worldbuilder. R13 tient
-  le plafond (~11 900).
+  le plafond (~11 900), R14 aussi (~10 900).
 
 ## Points de forme à revérifier à la clôture
 - Âge de Rhea sur la trame : 16 ans à l'entrée (1914), 17 au Jour Promis
