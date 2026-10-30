@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : JJK
 - sources primaires : manga Jujutsu Kaisen (Gege Akutami) ; worldbuilding du worldbuilder (OC Nisha Zenin, Yukiko Kamo, Eien, Nozomu)
-- bible_version : B38
+- bible_version : B39
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/JJK/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/JJK/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/JJK/Partie1/`
@@ -30,7 +30,7 @@
   - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2, C3, D1, D2, D3, D4, D5), Yukiko/ (A0, A1) (16 pages indexées). Hors index : trame de garde-cap (Yukiko/trame_A_B), _Chantier_Passe2_EresCD.md et Yukiko/chantier_yukiko.md (documents de travail) : sources de build jamais fetchées en narration.
   - Resume.md - résumé autosuffisant de l'univers jusqu'au repas bissextile du 29 février 2024 (fin de l'ère C, coup d'État Zenin, Traque côté Nisha, mort de Kenjaku, bataille finale, épilogue de la D5), NON indexé au Sommaire, jamais fetché en narration (1 page)
   - _Implications.md - journal de conception, jamais fetché en narration (1 fichier de travail)
-- Total indexé au Sommaire (W69) : 110 pages.
+- Total indexé au Sommaire (W71) : 110 pages.
 
 ## SB1 Cosmogonie et règles du monde
 Périmètre : divergences fondatrices liées à Nisha et Yukiko + règles nécessaires + cosmogonie des trois esprits.
@@ -161,7 +161,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Hautes Instances - sommet conservateur et sans visage au-dessus des universités | émettre les ordres, préserver l'ordre établi | les trois familles | progressistes, anomalies | plafond institutionnel. Dix membres (5 par université : 3 clans + 2 indépendants), tous Grade Spécial 1, seul visage public : Gakuganji. [DIVERGENCE RP] Pacte fondateur Meiji avec l'État, règlement en neuf articles. Kenjaku tient dans l'ombre les deux sièges Kamo ; le 1er nov 2018, Nisha leur arrache sous menace de mort la vie de Yaga, un nouveau sursis pour Yuji, la levée du bannissement de Satoru et quelques jours hors des affaires de clans. Détail : cf. WIKI Factions/Hautes_Instances.md
 - Université d'Exorcisme de Tokyo - université sœur de Kyoto, turf Gojo | former exorcistes et assistant managers | Kyoto, Hautes Instances, Tengen | fléaux, Maîtres des Fléaux | université de Nisha (2005-2008). Corps enseignant : Yaga, puis Satoru (1A) et Kusakabe (2A) dès 2009, Nanami (3A) dès avr 2013 ; pôle omniscient vulgarisé, le plus ouvert. Détail : cf. WIKI Factions/Universite_Tokyo.md
 - Université d'Exorcisme de Kyoto - université sœur, turf Kamo + Zenin | former exorcistes et assistant managers | Tokyo, Hautes Instances, Tengen | fléaux, Maîtres des Fléaux | université de Naoya et Yukiko ; Nisha y enseigne dès 2009. Corps enseignant : Gakuganji, Utahime (1A) et Nisha (2A) dès 2009, Mei Mei (3A) dès avr 2013 ; pôle avancé clanique, conservateur. Détail : cf. WIKI Factions/Universite_Kyoto.md
-- Tournoi des Universités Jumelées (l'Amicale) - échange annuel | émulation, vitrine des étudiants | les deux universités, Hautes Instances | - | confrontation réglée. Format canon (J1 équipe, J2 individuels) ; [DIVERGENCE RP] l'hôte est le vainqueur de l'édition précédente. Détail : cf. WIKI Factions/Tournoi.md
+- Tournoi des Universités Jumelées (l'Amicale) - échange annuel | émulation, vitrine des étudiants | les deux universités, Hautes Instances | - | confrontation réglée. Format canon (J1 équipe, J2 individuels) ; [DIVERGENCE RP] l'hôte est le vainqueur de l'édition précédente ; aucune édition de 2006 à 2016 : 2005 reste la dernière tenue jusqu'à celle de 2017, accueillie par Kyoto. Détail : cf. WIKI Factions/Tournoi.md
 
 ## SB5 Personnages
 `Nom - rôle | capacités-clé | relations | sort connu | certitude`
@@ -223,7 +223,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Juei no Ryochi - "le domaine des Dix Ombres", siège du clan Zenin | montagnes à l'est de Kyoto | salle du conseil-dojo, archives façon kura, chambre des jumeaux | état 2005 : résidence des jumeaux jusqu'au départ | canon + [DIVERGENCE RP]. detail: cf. WIKI Lieux/Juei_no_Ryochi.md
 - Tokyo no Akatsuki - restaurant très haut de gamme | Tokyo, hors campus | sur réservation, aucun prix affiché ; se dire Zenin, carte bleue de Nisha à l'appui, ouvre le salon VIP | quartier NON FIXÉ ; pas de fiche (la BIBLE est son foyer) | [DIVERGENCE RP]
 - Université de Tokyo - campus des écoles | Tokyo | université de Nisha (2005-2008), poste de Satoru ; dessous : Tombeaux de l'Étoile ; forêt : sanctuaire de Suguru, tombes de Nanami et Tsukumo (nov 2018) | en activité en 2024 | canon + [DIVERGENCE RP]. detail: cf. WIKI Factions/Universite_Tokyo.md
-- Université de Kyoto - campus des écoles | Kyoto, à 5 min de course de Juei no Ryochi | poste de Nisha dès 2009 ; hôte de l'Amicale 2005 | en activité en 2024 | canon + [DIVERGENCE RP]. detail: cf. WIKI Factions/Universite_Kyoto.md
+- Université de Kyoto - campus des écoles | Kyoto, à 5 min de course de Juei no Ryochi | poste de Nisha dès 2009 ; hôte des Amicales 2005 et 2017 | en activité en 2024 | canon + [DIVERGENCE RP]. detail: cf. WIKI Factions/Universite_Kyoto.md
 - Tombeaux de l'Étoile - sanctuaire de Tengen | sous l'université de Tokyo | pivot de 2006 (A2_4), leçon de la Traque et répartition (1er nov 2018) | Tengen toujours là | canon. detail: cf. WIKI Personnages/Tengen.md
 - Maison de Saitama - foyer des Gojo-Zenin | Saitama | famille dès 2008, deux chambres d'amis (Maki dès 2014), cachette de Yuji (été 2018) | pas de fiche (domicile : Nisha_chrono_B) | [DIVERGENCE RP]
 - Jardin des Ères Mortes / Sphère du Temps Infini - for intérieur d'Eien / territoire de Nisha | intérieur | dialogues, domaine forcé (1995), deal de 2015, Yorozu (fin 2015) | état après la mort d'Eien NON FIXÉ | [DIVERGENCE RP]. detail: cf. WIKI Personnages/Eien.md, Nisha.md
@@ -269,7 +269,7 @@ SB8 porte, par mystère ou fil, la définition, le statut et un renvoi. Les dér
 - T-Okaruto - 2010 (B1, l'Okaruto Shinbun de Tsumiki) | DÉTONÉ juin 2018 (C1_1) : le club de Yuji descelle le doigt à rebours des avertissements du blog | Roadmap C1.
 - T-Âmes - 2011 (B1, noyaux de Panda) | DÉTONÉ C3 (1er nov 2018, salle des Instances, Panda absent), Yaga VIVANT | Roadmap C3.
 - Geto / Yuki ("la bonne question") - août 2007 (A2) | DÉTONÉ C3 (chez Tengen, 1er nov 2018 : la graine de mûre) | Roadmap C3.
-- Nisha vs Yuki - août 2007 (A2) | DÉTONÉ C3 (chez Tengen, 1er nov 2018) | Roadmap C3.
+- Nisha vs Yuki - août 2007 (A2) ; chargé B3_3a (avr 2017 : dans la question de Todo, Nisha reconnaît Yuki et comprend le cheminement de Geto) | DÉTONÉ C3 (chez Tengen, 1er nov 2018) | Roadmap B3, C3.
 - Vente conditionnelle de Megumi - A2_4 | RÉSOLUE en A2_10 (adoption hors-Zenin 2008) | Roadmap A2.
 - Coup d'État du clan Zenin - 2006 (A2_6) | DÉTONÉ D1 (1er nov 2018, après-midi), Naoya sur le trône | Roadmap D1.
 - Amicale non tenue en A2 - A2 | aucune édition jouée, massacre de Geto repoussé à fin 2007 | Roadmap A2.
@@ -283,4 +283,4 @@ Index détaillé page par page : cf. WIKI JJK/Sommaire.md
 
 ---
 
-FIN_BIBLE_B38
+FIN_BIBLE_B39

@@ -1,6 +1,6 @@
 # Suguru Geto
 
-- version : W15
+- version : W16
 
 Page = fiche personnage : noyau (état 2005) + Trajectoire datée (post-2005). Faits canon non balisés (niveau établi) ; couche RP balisée [DIVERGENCE RP]. Résumé condensé en BIBLE SB5.
 
@@ -66,7 +66,7 @@ Page = fiche personnage : noyau (état 2005) + Trajectoire datée (post-2005). F
 - Détail narratif de la descente et de la défection : -> Roadmap A2_1 à A2_9. Mort : Roadmap/Nisha/Roadmap_B3.md (B3_4, hors POV).
 - Secte dissoute à sa mort ; le Culte Astral reste sans suite (BIBLE SB8).
 - Son corps comme vaisseau de Kenjaku (après sa mort, le 24 déc 2017, jusqu'à la mort de Kenjaku le 8 nov 2018) : ancré côté Kenjaku (cf. WIKI Personnages/Kenjaku.md).
-- TCHEKHOV « la bonne question » (BIBLE SB8) : Geto a tiré le massacre de la question que Yuki lui avait posée. DÉTONÉ chez Tengen le 1er nov 2018 (C3_4) : Nisha et Yuki manquent de s'égorger sur la cause de sa chute (cf. Personnages/Yuki.md).
+- TCHEKHOV « la bonne question » (BIBLE SB8) : Geto a tiré le massacre de la question que Yuki lui avait posée. DÉTONÉ chez Tengen le 1er nov 2018 (C3_4) : Nisha et Yuki manquent de s'égorger sur la cause de sa chute (cf. Personnages/Yuki.md). Nisha en tient la logique depuis avril 2017 (B3_3a) : Todo, élève de Yuki, lui raconte la philosophie de sa maîtresse, et elle comprend son cheminement de pensée ; les mots échangés en août 2007, elle ne les a pas.
 
 ## Pointeurs
 - Promo et université : cf. WIKI Factions/Universite_Tokyo.md.

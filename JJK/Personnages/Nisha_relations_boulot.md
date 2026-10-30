@@ -1,6 +1,6 @@
 # Nisha Zenin - Relations : boulot
 
-- version : W6
+- version : W7
 
 Page relations de Nisha, cercle BOULOT : les collègues (les deux universités) et les élèves de Kyoto. Série en quatre pages par cercles ; règles générales et convention : cf. Nisha_relations_proches.md.
 Convention locale : (tactique) = indicatif d'opération, employé en mission.
@@ -52,11 +52,11 @@ Mai, élève de 2e année dès avr 2018, vit en _famille (pas de doublon) ; son 
 - Évolution datée : 2011 entrée (1A Utahime) -> 2012-2013 élève + référente, chantier patience de liaison, doctrine reçue -> 2013-2014 3A sous Mei Mei -> 2014 diplôme, part à Tokyo (alignement de mentalités, bascule de motivation) -> 24 déc 2017 côté Tokyo, tient rideaux et civils, soulagée de n'avoir pas pris part au massacre de Kyoto.
 
 ### Todo
-- Statut : le 2e modèle, et le plus puissant de ses élèves. Il vénère la force, idolâtre la n2 mondiale ; elle canalise son intensité. Beat fondateur du "type" : son type, c'est plus fort qu'elle - or elle est n2, donc le seul plus fort au monde est le n1, son propre époux. Todo ADORE la pirouette. Deux idoles que tout oppose dès lors (Tsukumo l'électron libre, Zenin l'institutionnelle - qui se méprisent).
+- Statut : le 2e modèle, et le plus puissant de ses élèves. Il vénère la force, idolâtre la n2 mondiale ; elle canalise son intensité. Beat fondateur du "type" : son type, c'est plus fort qu'elle - or elle est n2, donc le seul plus fort au monde est le n1, son propre époux. Todo ADORE la pirouette. Deux idoles que tout oppose dès lors (Tsukumo l'électron libre, Zenin l'institutionnelle - qui se méprisent). Dans la question, Nisha reconnaît Tsukumo ; Todo lui raconte la philosophie de sa maîtresse, et elle comprend par lui le cheminement de pensée de Suguru (cf. Personnages/Yuki.md).
 - Appellatifs : elle -> Todo : Todo, Aoi, mon prodige, le tank (tactique). Todo -> elle : Nisha-sensei, Madame Zenin.
 - Registre : respect mutuel bourru, détendu.
 - Habitudes : le binôme de crise - quand une mission se complique, Nisha prend le relais des deux autres et ça part en binôme avec Boogie Woogie.
-- Évolution datée : avr 2017 2A, beat du type, chantier canaliser l'intensité (le sort au service des autres, interdit de frapper le premier) -> déc 2017 Cent Fléaux sous Mei Mei, cogneur appuyé par l'œil de Momo -> avr 2018 3A.
+- Évolution datée : avr 2017 2A, beat du type (Tsukumo reconnue, la chute de Suguru comprise), chantier canaliser l'intensité (le sort au service des autres, interdit de frapper le premier) -> déc 2017 Cent Fléaux sous Mei Mei, cogneur appuyé par l'œil de Momo -> avr 2018 3A.
 
 ### Noritoshi
 - Statut : l'élève-héritier, la leçon d'honneur. Leçon-clé : même chef, même sous menace de destitution, il n'est pas condamné à marcher dans les pas de ses ancêtres - tant qu'il redore le nom, la voie est à lui. Renversement savoureux : la Zenin qui a transcendé son clan par la force apprend au Kamo à s'affranchir du sien par l'honneur. L'élève est le frère de son amie d'enfance (Yukiko : cf. _proches).
