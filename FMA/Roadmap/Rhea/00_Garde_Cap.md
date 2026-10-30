@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W10
+- version : W11
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -144,13 +144,23 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
 - Tchekhov : Scar / parents DÉTONÉ. Monsieur Lapinou peut revenir à Winry.
 
 ### Roadmap 11 - Le Nord : Briggs
-- [À RECALER EN R11] Le canon ép. 23 (fin, Gluttony se transforme) à 29
-  (Gluttony avale Ed et Ling, le repaire de Père, Ling devient Greed) tombe
-  entre R10 et Briggs : à placer en écrivant R11.
-- Olivier Mira Armstrong ; Kimblee ; Sloth ; le tunnel-cercle national.
+- Canon ép. 23 (fin) à 39 : Gluttony se transforme, Rhea part avec Knox ;
+  les frères avalés reviennent par le repaire de Père (hors POV) : Père,
+  Ling devenu Greed, le corps d'Al devant la Porte, Envy a allumé Ishval,
+  Winry otage de Bradley ; récit d'Ishval par Riza (ironie de 1910 détonée) ;
+  équipe de Mustang dispersée ; dîner chez les Bradley (Selim) ; Briggs :
+  Olivier, Miles, Sloth, le tunnel-cercle national ; Kimblee amène Winry ;
+  Baschool : Winry pardonne à Scar, la ruse de l'enlèvement, Rhea part avec
+  Winry dans les galeries. Écrite (W1).
+- Tchekhov : statut de sacrifice (témoins : Gluttony, Bradley, Selim, Sloth,
+  Kimblee) ; ironie Mustang/Riza DÉTONÉE ; Scar / parents : pardon de Winry.
 
 ### Roadmap 12 - Convergence
-- rassemblement des sacrifices ; retournements ; préparatifs du Jour Promis.
+- Canon ép. 40 à ~50 [À RECALER EN R12] : le bidonville ishval, Ed empalé
+  par Kimblee (hors POV de Rhea, restée avec Winry), Hohenheim, Pride et Al,
+  mort de Kimblee, retour vers Central, préparatifs du Jour Promis.
+  Père cherche un cinquième sacrifice (ép. 39) : si Rhea est « repérée »,
+  elle est candidate.
 - Point de décision majeur : STATUT DE SACRIFICE de Rhea. Père la repère-t-il ?
   (Porte ouverte depuis 1903 : hitobashira valable. Par défaut : hors radar.
   Repérage ÉTAYÉ côté armée depuis 1910 : Mustang a VU la démonstration.)
@@ -168,8 +178,8 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   1910 (rumeur de village + démonstration à l'atelier) - que devient l'info
   côté armée (rapport écrit ? bouche cousue ?). Par défaut : hors radar de Père.
 - Contentieux Scar : DÉTONÉ en R10, aux deux sœurs ensemble. Pardon de Winry
-  (canon ép. 38-39) et ce que Rhea fait de Scar : à cadrer quand il recroise
-  le trio.
+  posé en R11 (Baschool) ; Rhea n'est pas tenue de pardonner (réparation dans
+  la durée) : la suite avec Scar se joue en R12-R13.
 - Réconciliation Rhea/Al : FRAÎCHE au départ (charnière), consolidée au fil du canon.
 - [INCERTAIN] Numéro de l'ordre d'extermination d'Ishval (3066 / 306) : non tranché.
 

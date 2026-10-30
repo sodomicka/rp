@@ -1,6 +1,6 @@
 # Greed
 
-- version : W1
+- version : W2
 
 ## Identité
 
@@ -61,6 +61,7 @@ croit tenir par Al (une âme dans une armure).
   elle peut s'attaquer au bouclier de carbone (son domaine). Ignore le
   pourquoi de son sans-cercle ; s'il la voit transmuter, rien ne remonte
   (refondu par Père). Détail : cf. Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md.
+- 1914 (R11) : renaît dans le corps de Ling au repaire de Père (hors POV) ; Rhea l'apprend par Ed. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
 
 ## Sort connu (canon)
 

@@ -1,6 +1,6 @@
 # Tim Marcoh
 
-- version : W1
+- version : W2
 
 ## Identité
 
@@ -51,6 +51,7 @@ sans lui dire ce qu'elles contiennent.
   savoir). S'il entend le nom Rockbell, il sait que Sarah et Yuri sont
   morts à Ishval, pas par qui [cadrage MJ]. Détail : cf.
   Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md.
+- 1914 (R11) : captif des homonculus, enlevé par Scar, à qui il avoue Ishval ; défiguré pour ne pas être reconnu ; étudie l'alkahestrie avec May. Retrouvé par Rhea à Baschool, visage changé. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
 
 ## Sort connu (canon)
 

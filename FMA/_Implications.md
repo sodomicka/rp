@@ -6,11 +6,11 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B15 (Roadmap 10, 2026-10-30)
+- dernière mise à jour : BIBLE B16 (Roadmap 11, 2026-10-30)
 
 ## État d'avancement du chantier
-- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R10 (1903 -> révélation de
-  Bradley à Central 1914, au gabarit SPEC v9.2 §7). R11 à R14 restent à écrire
+- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R11 (1903 -> galeries de
+  Baschool, fin 1914, au gabarit SPEC v9.2 §7). R12 à R14 restent à écrire
   en boucle serrée. Passe d'immersion (modes d'étape,
   tranches de vie) non faite sur R0-R4.
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
@@ -185,22 +185,46 @@ pas les re-litiger. JAMAIS fetché en narration.
   BRADLEY HOMONCULUS : Rhea l'apprend par Ling, à la planque (ép. 23).
   Statut : sans-cercle devant Gluttony (planque) = « repérée ».
   Winry repart seule pour Rush Valley (ép. 23) ; Rhea reste (pacte R4).
+- R11 - LE NORD : BRIGGS (mode usine, canon ép. 23 fin -> 39 vérifié sur
+  Wikipedia). Borne de sortie : les galeries de Baschool, fin de l'ép. 39.
+  R12 reprend à l'ép. 40.
+  RHEA PART AVEC KNOX (verrou) quand Gluttony se transforme : jamais avalée,
+  jamais au repaire de Père. Elle apprend tout du récit d'Ed (Père, Greed-
+  Ling, corps d'Al, Envy et Ishval, Winry otage).
+  WINRY OTAGE : Rhea ne ment pas ; l'appeler est AU CHOIX (lignes écoutées,
+  Bradley n'apprend rien ; Kimblee vient la chercher quand même). Pas de
+  verrou.
+  RÉCIT DE RIZA (ép. 30) : Rhea présente par défaut. L'ironie Mustang/Riza de
+  1910 DÉTONE en R11 (reste une ironie pour R3-R10 au CODEX).
+  DÎNER CHEZ LES BRADLEY (ép. 32) : Rhea à table ; attaque verrouillée ;
+  Selim = Pride inconnu d'elle.
+  STATUT DE SACRIFICE : témoins qui font « repérée » en R11 : Gluttony,
+  Bradley, Selim, Sloth, Kimblee [INTERPRÉTATION pour Kimblee, humain au
+  service de Père]. Déjà « repérée » : Bradley la nomme avec Winry, Kimblee
+  la connaît, Père la compte parmi ses candidats à l'ép. 39 (il cherche un
+  cinquième sacrifice). Suite : R12.
+  BRIGGS : Olivier ne propose rien à Rhea ; l'automail gelé d'Ed se refait à
+  quatre mains (Winry, Rhea au métal).
+  PARDON DE SCAR : celui de Winry (ép. 39). Rhea n'est pas tenue de pardonner
+  (tempérament : réparation dans la durée, pas excuses) ; par défaut, elle ne
+  dit pas « je pardonne ». Scar sait qu'elle est aussi une fille des Rockbell
+  si elle ou Winry le dit.
+  LA RUSE : Rhea part avec Winry dans l'« enlèvement » (par défaut) ; Ed et
+  Al restent chez Kimblee. Ed empalé (ép. 41) hors de son POV en R12.
+  LAN FAN refuse l'automail (canon ép. 31) ; l'offre Rockbell reste ouverte.
 
 ## Points ouverts (à trancher en Passe 2, roadmap par roadmap)
 - Statut de sacrifice de Rhea (Roadmap 12) : repérage désormais ÉTAYÉ
   (Mustang a VU la démonstration en 1910). Que devient l'info côté armée
   (rapport écrit ? bouche cousue ?). À trancher en écrivant Roadmap 12.
   Par défaut : hors radar de Père.
-- Placement des ép. 23 (fin) à 29 (ventre de Gluttony, repaire de Père,
-  Ling devient Greed) : entre R10 et Briggs, à trancher en écrivant R11.
-- Scar après la détonation : ce que Rhea fait de lui (tueur de ses parents,
-  produit de l'armée, de Kimblee) quand il recroise le trio ; pardon de
-  Winry (canon ép. 38-39). Kimblee nommé devant Rhea en R10 : sa rencontre
-  (R11) en hérite.
+- Scar après Baschool : Rhea voyage avec lui et Winry (début R12). Ce
+  qu'elle en fait au fil de R12-R13 suit l'état de la partie (pardon ou
+  non) ; Scar tue Bradley au Jour Promis.
 - Ross : vivante, en Xing ; son retour (canon, trame suivante) et ce que
   Rhea en sait déjà (R10) : à vérifier en écrivant la roadmap concernée.
-- Lan Fan : automail chez les Rockbell [CANON SUPPOSÉ] ; Rhea peut le
-  proposer en R10. À vérifier en R11.
+- Lan Fan : refuse l'automail en R11 (canon ép. 31) ; automail plus tard
+  [CANON SUPPOSÉ : atelier Rockbell, moment]. À vérifier en R12.
 - Al et le sans-cercle : souvenirs de 1910 rendus en R9 (ép. 14) ; le
   sans-cercle vient plus tard [INCERTAIN : moment]. À vérifier au fil des
   roadmaps suivantes ; la lecture anti-Al de Rhea en dépend.
@@ -209,6 +233,10 @@ pas les re-litiger. JAMAIS fetché en narration.
   reprendre aux roadmaps où il recroise le trio.
 - Réconciliation Rhea/Al : FRAÎCHE et fragile au départ de 1914 (R4), consolidée
   au fil du canon. Vérifier la cohérence quand les roadmaps 5-14 seront écrites.
+- Statut de sacrifice en R12 : si « repérée », Rhea candidate au cinquième
+  sacrifice que Père cherche (ép. 39). À trancher en écrivant R12.
+- Anniversaire des 17 ans (30 janvier 1915) : tombe en R11 ou R12
+  [INCERTAIN : date interne de Briggs].
 
 ## À verser au CODEX à la bascule jeu
 - IRONIE Mustang/Riza (R3, 1910) : Rhea traite Mustang de "génocidaire" sans
@@ -236,6 +264,10 @@ pas les re-litiger. JAMAIS fetché en narration.
 - IRONIE Mustang (R10) : Rhea le voit « brûler » Ross, ce qui confirme son
   « génocidaire » de 1910 ; c'est une mise en scène pour la sauver.
   -> CODEX ANNEXE_SAVOIRS.
+- IRONIE Selim (R11) : le gamin poli du dîner est Pride, le premier
+  homonculus ; Rhea ne le saura pas en R11. -> CODEX ANNEXE_SAVOIRS.
+- IRONIE Mustang/Riza : vaut pour R3-R10 seulement ; détonée en R11 par le
+  récit de Riza.
 - IRONIE Gluttony (R10) : l'anosmique face au nez absolu ; le captif ligoté
   va avaler Ed et Ling quelques minutes plus tard. -> CODEX ANNEXE_SAVOIRS.
 

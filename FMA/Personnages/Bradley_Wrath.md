@@ -1,6 +1,6 @@
 # King Bradley (Wrath)
 
-- version : W4
+- version : W5
 
 ## Identité
 
@@ -47,6 +47,7 @@ Incarnation suprême du militarisme que la protagoniste hait - et, sans qu'elle 
 - 1914 (R7) : à deux mètres d'elle, dans la chambre d'hôpital d'Ed : l'homme qui a signé l'ordre d'extermination d'Ishval. Il rit des insolences. Si elle transmute sans cercle devant lui, l'information remonte à Père (statut de sacrifice : « repérée » pour la partie, Roadmap 12). Attaque verrouillée. Détail : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md.
 - 1914 (R9) : mène le raid du Devil's Nest ; Rhea, tenue dehors, le voit de loin. Elle apprend par Al qu'il a tué les chimères en personne, pas qu'il est un homonculus. Même règle qu'en R7 : sans-cercle sous ses yeux = « repérée ». Détail : cf. Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md.
 - 1914 (R10) : hors POV, traque Lan Fan et Ling pendant le piège à Scar. À la planque de Knox, Ling révèle devant Rhea qu'il est un homonculus : elle l'apprend là. Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
+- 1914 (R11) : se dit Wrath aux frères, refuse la démission d'Ed et tient Winry en otage ; si Rhea est déjà « repérée », il la nomme aussi. Reçoit les frères chez lui avec Selim (Pride) et Mme Bradley, Rhea à table : sans-cercle sous ses yeux = « repérée » ; attaque verrouillée. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
 
 ## Sort connu (canon)
 

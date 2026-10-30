@@ -1,6 +1,6 @@
 # Winry Rockbell
 
-- version : W9
+- version : W10
 
 ## Identité
 
@@ -90,6 +90,7 @@ Sororité fusionnelle avec la protagoniste (jumelles après 1909). Winry connaî
   Repart seule pour Rush Valley, ses clients ; Monsieur Lapinou avec elle si
   Rhea l'a fait rapporter de Resembool. Le pardon à Scar vient plus tard
   (canon ép. 38-39).
+- 1914 (R11) : otage de Bradley pour tenir Ed, sans le savoir d'abord ; Rhea ne lui ment pas (appel au choix du joueur, sinon elle l'apprend à Briggs). Amenée à Briggs par Kimblee ; retrouvailles avec Rhea, Monsieur Lapinou avec elle s'il a été rapporté. Refait l'automail d'Ed pour le froid, Rhea au métal. À Baschool, confronte Scar avec Rhea à ses côtés, puis lui pardonne (ses parents l'auraient fait) ; invente la ruse de l'enlèvement et part avec le groupe de Scar, Rhea avec elle.
 
 ## Sort connu (canon)
 
