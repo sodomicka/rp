@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W11
+- version : W12
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -156,31 +156,43 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   Kimblee) ; ironie Mustang/Riza DÉTONÉE ; Scar / parents : pardon de Winry.
 
 ### Roadmap 12 - Convergence
-- Canon ép. 40 à ~50 [À RECALER EN R12] : le bidonville ishval, Ed empalé
-  par Kimblee (hors POV de Rhea, restée avec Winry), Hohenheim, Pride et Al,
-  mort de Kimblee, retour vers Central, préparatifs du Jour Promis.
-  Père cherche un cinquième sacrifice (ép. 39) : si Rhea est « repérée »,
-  elle est candidate.
-- Point de décision majeur : STATUT DE SACRIFICE de Rhea. Père la repère-t-il ?
-  (Porte ouverte depuis 1903 : hitobashira valable. Par défaut : hors radar.
-  Repérage ÉTAYÉ côté armée depuis 1910 : Mustang a VU la démonstration.)
+- Canon ép. 40 à 49 (début), hiver 1914-1915 -> aube du Jour Promis : galeries
+  de Baschool, Al démonté et remonté par Rhea ; Ed empalé par Kimblee (hors
+  POV, Rhea le croit mort) ; notes du frère de Scar (cercle national,
+  contre-cercle) ; piège à Envy, réduit et emporté par May ; Liore
+  reconstruite, Rose, Hohenheim (Jour Promis, sacrifices : Rhea apprend
+  qu'elle en est un) ; retour à Resembool avec Winry, 17 ans de Rhea ; Ed
+  vivant, Greed-Ling, Lan Fan à l'automail de Pinako, automail au carbone ;
+  Winry refuse de fuir, Rhea repart avec Ed ; bidonville aux abords de
+  Central : Pride et Gluttony, Gluttony dévoré, Al sous le dôme avec Pride ;
+  groupes d'Ed et de Scar réunis à l'aube. Écrite (W1).
+- STATUT DE SACRIFICE TRANCHÉ : Mustang n'a rien écrit en 1910 (« hors
+  radar » par défaut). « Repérée » (témoin homonculus ou Kimblee, choix du
+  joueur) : Rhea est le cinquième sacrifice de Père au Jour Promis, à la
+  place de Mustang, qui garde la vue.
 
 ### Roadmap 13 - Le Jour Promis
-- éclipse solaire ; chute de Père (printemps 1915).
+- Canon ép. 49 (suite) à 63 : coup d'État de Mustang (Ross revenue, Havoc),
+  souterrains et soldats-mannequins, mort de Kimblee, Envy brûlé par Mustang,
+  Sloth tué par les Armstrong, Bradley tué par Scar, les sacrifices au cœur
+  du cercle, l'éclipse, contre-cercles (Hohenheim, Scar), chute de Père.
+  Point de décision : le cinquième sacrifice suit le statut hérité de R12.
 
 ### Roadmap 14 - Retour à Resembool
-- Ed sacrifie son alchimie ; Al recouvre son corps ; bouclage Monsieur Lapinou / Cliquetis.
+- Canon ép. 63 (fin) et 64 : Ed sacrifie son alchimie, Al recouvre son corps ;
+  après-guerre ; retour à Resembool, bouclage Monsieur Lapinou / Cliquetis.
 
 ---
 
 ## Points de vigilance (à trancher en écrivant les roadmaps concernées)
-- Statut de sacrifice de Rhea (Roadmap 12) : repérage ÉTAYÉ par Mustang en
-  1910 (rumeur de village + démonstration à l'atelier) - que devient l'info
-  côté armée (rapport écrit ? bouche cousue ?). Par défaut : hors radar de Père.
+- Statut de sacrifice de Rhea : TRANCHÉ en R12 (Mustang n'a rien écrit ;
+  « repérée » = cinquième sacrifice à la place de Mustang). Déroulé en R13.
 - Contentieux Scar : DÉTONÉ en R10, aux deux sœurs ensemble. Pardon de Winry
   posé en R11 (Baschool) ; Rhea n'est pas tenue de pardonner (réparation dans
-  la durée) : la suite avec Scar se joue en R12-R13.
+  la durée) : la suite avec Scar se joue en R12-R13 (il rejoint Ed à l'aube du Jour Promis).
 - Réconciliation Rhea/Al : FRAÎCHE au départ (charnière), consolidée au fil du canon.
+- Densité de R13 : ~15 épisodes en une journée de jeu ; à écrire d'un bloc, une
+  scission en deux roadmaps ne se fait que sur décision du worldbuilder.
 - [INCERTAIN] Numéro de l'ordre d'extermination d'Ishval (3066 / 306) : non tranché.
 
 FIN_GARDE_CAP_RHEA

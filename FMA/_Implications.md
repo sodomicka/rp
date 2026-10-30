@@ -6,12 +6,12 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B16 (Roadmap 11, 2026-10-30)
+- dernière mise à jour : BIBLE B17 (Roadmap 12, 2026-10-30)
 
 ## État d'avancement du chantier
-- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R11 (1903 -> galeries de
-  Baschool, fin 1914, au gabarit SPEC v9.2 §7). R12 à R14 restent à écrire
-  en boucle serrée. Passe d'immersion (modes d'étape,
+- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R12 (1903 -> aube du
+  Jour Promis, printemps 1915, au gabarit SPEC v9.2 §7). R13 et R14 restent
+  à écrire en boucle serrée. Passe d'immersion (modes d'étape,
   tranches de vie) non faite sur R0-R4.
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
   En jeu, la roadmap en cours est un document de jeu (SPEC v9.2 §7).
@@ -212,19 +212,42 @@ pas les re-litiger. JAMAIS fetché en narration.
   LA RUSE : Rhea part avec Winry dans l'« enlèvement » (par défaut) ; Ed et
   Al restent chez Kimblee. Ed empalé (ép. 41) hors de son POV en R12.
   LAN FAN refuse l'automail (canon ép. 31) ; l'offre Rockbell reste ouverte.
+- R12 - CONVERGENCE (mode usine, canon ép. 39-52 vérifié sur Wikipedia).
+  Couvre ép. 40 -> 49 (début) : borne de sortie à l'aube du Jour Promis,
+  groupes d'Ed et de Scar réunis. R13 = ép. 49 (suite) -> 63 ; R14 = fin 63
+  et 64. ~3 mois (hiver -> printemps 1915) : les 17 ans de Rhea tombent en
+  R12, entre Liore et Resembool.
+  STATUT DE SACRIFICE - TRANCHÉ : Mustang n'a RIEN ÉCRIT en 1910 (son
+  rapport ne porte qu'Edward ; il tait une civile de 12 ans qui le traitait
+  de génocidaire, pour ne pas la livrer à la machine qu'il veut réformer).
+  L'armée n'a rien, Père non plus : « hors radar » par défaut. Rhea l'ignore
+  (ironie au CODEX). « Repérée » (témoin homonculus ou Kimblee, R7-R12,
+  choix du joueur) : Rhea est le CINQUIÈME SACRIFICE de Père au Jour Promis,
+  à la place de Mustang, qui n'est pas forcé d'ouvrir la Porte et garde la
+  vue ; en R12, les homonculus la veulent vivante. « Hors radar » : canon
+  (Mustang cinquième) ; elle devient « repérée » si elle transmute sans
+  cercle devant un homonculus le Jour Promis (détail : R13).
+  Témoins R12 : Envy (remonte à sa libération, R13), Gluttony, Pride. Greed
+  (dans Ling) : rien ne remonte [INTERPRÉTATION].
+  RHEA SE SAIT SACRIFICE : Hohenheim à Liore (Jour Promis, cinq sacrifices) ;
+  il reconnaît une survivante de la Porte, ne sait rien du 1903, ne la
+  dénonce pas. Elle le dit à Winry (ne ment pas).
+  ITINÉRAIRE : Rhea avec Winry (galeries, bidonville du Nord, Liore), démonte
+  et remonte Al (sceau intouché) ; piège à Envy, verrou : ne pas le tuer ;
+  raccompagne Winry à Resembool (verrou : Al le demande, Winry otage) ; Ed
+  vivant, Greed-Ling, Lan Fan à l'automail de PINAKO [CANON SUPPOSÉ] ;
+  automail au carbone à quatre mains ; Winry refuse de fuir et RESTE à
+  Resembool ; Rhea repart avec Ed (verrou : pacte R4), cinquième séparation,
+  Monsieur Lapinou à Resembool. Bidonville : Pride (Rhea apprend que Selim
+  est Pride), Gluttony dévoré ; dôme de Hohenheim sur Al et Pride (verrou :
+  ne pas l'empêcher). Kimblee hors POV, croisement interdit en R12.
 
 ## Points ouverts (à trancher en Passe 2, roadmap par roadmap)
-- Statut de sacrifice de Rhea (Roadmap 12) : repérage désormais ÉTAYÉ
-  (Mustang a VU la démonstration en 1910). Que devient l'info côté armée
-  (rapport écrit ? bouche cousue ?). À trancher en écrivant Roadmap 12.
-  Par défaut : hors radar de Père.
-- Scar après Baschool : Rhea voyage avec lui et Winry (début R12). Ce
-  qu'elle en fait au fil de R12-R13 suit l'état de la partie (pardon ou
-  non) ; Scar tue Bradley au Jour Promis.
-- Ross : vivante, en Xing ; son retour (canon, trame suivante) et ce que
-  Rhea en sait déjà (R10) : à vérifier en écrivant la roadmap concernée.
-- Lan Fan : refuse l'automail en R11 (canon ép. 31) ; automail plus tard
-  [CANON SUPPOSÉ : atelier Rockbell, moment]. À vérifier en R12.
+- Scar : quitte le groupe en R12 (Ishvals recrutés), le retrouve à l'aube du
+  Jour Promis. Ce que Rhea en fait en R13 suit l'état de la partie ; Scar
+  tue Bradley au Jour Promis.
+- Ross : vivante, revient le Jour Promis avec des armes pour Mustang (canon
+  ép. 50) : R13. Rhea la sait vivante depuis R10.
 - Al et le sans-cercle : souvenirs de 1910 rendus en R9 (ép. 14) ; le
   sans-cercle vient plus tard [INCERTAIN : moment]. À vérifier au fil des
   roadmaps suivantes ; la lecture anti-Al de Rhea en dépend.
@@ -233,10 +256,11 @@ pas les re-litiger. JAMAIS fetché en narration.
   reprendre aux roadmaps où il recroise le trio.
 - Réconciliation Rhea/Al : FRAÎCHE et fragile au départ de 1914 (R4), consolidée
   au fil du canon. Vérifier la cohérence quand les roadmaps 5-14 seront écrites.
-- Statut de sacrifice en R12 : si « repérée », Rhea candidate au cinquième
-  sacrifice que Père cherche (ép. 39). À trancher en écrivant R12.
-- Anniversaire des 17 ans (30 janvier 1915) : tombe en R11 ou R12
-  [INCERTAIN : date interne de Briggs].
+- R13 : dérouler le cinquième sacrifice selon le statut hérité (Rhea
+  « repérée » menée à Père, Mustang épargné ; ou canon). Densité : ~15
+  épisodes ; scission seulement sur décision du worldbuilder.
+- Savoir de Rhea sur le silence de Mustang (1910) : peut détoner en R13,
+  face à lui ; à décider en écrivant R13.
 
 ## À verser au CODEX à la bascule jeu
 - IRONIE Mustang/Riza (R3, 1910) : Rhea traite Mustang de "génocidaire" sans
@@ -268,6 +292,10 @@ pas les re-litiger. JAMAIS fetché en narration.
   homonculus ; Rhea ne le saura pas en R11. -> CODEX ANNEXE_SAVOIRS.
 - IRONIE Mustang/Riza : vaut pour R3-R10 seulement ; détonée en R11 par le
   récit de Riza.
+- IRONIE Mustang (R12, vaut depuis 1910) : le « génocidaire » a tu son
+  sans-cercle dans son rapport ; c'est lui qui la tient hors radar depuis
+  quatre ans. -> CODEX ANNEXE_SAVOIRS.
+- IRONIE Selim (R11) : détonée en R12 (Pride au bidonville).
 - IRONIE Gluttony (R10) : l'anosmique face au nez absolu ; le captif ligoté
   va avaler Ed et Ling quelques minutes plus tard. -> CODEX ANNEXE_SAVOIRS.
 
@@ -276,6 +304,15 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Année exacte de destruction de Xerxès (~400 ans avant la trame).
 - Ascendance drachmane possible de Yuri Rockbell.
 - Nom de jeune fille d'Izumi (Harnet) : non confirmé.
+
+## Dettes de build
+- Pere.md (W1) et Factions/Homonculus.md (W1), encore en ASCII, non
+  relivrés en B17 : le statut tranché en R12 et la fiche Envy (renvoi
+  depuis Homonculus) s'y verseront à leur prochaine relivraison,
+  réaccentuation comprise. Rien de faux en attendant (Père : « inconnue au
+  départ par défaut »).
+- Budget roadmap : R12 = ~18 800 caractères (plafond 15 000), comme R11
+  (~22 800). Compressions possibles sur décision du worldbuilder.
 
 ## Points de forme à revérifier à la clôture
 - Âge de Rhea sur la trame : 16 ans à l'entrée (1914), 17 au Jour Promis

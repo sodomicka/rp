@@ -1,6 +1,6 @@
 # May Chang
 
-- version : W1
+- version : W2
 
 ## Identité
 
@@ -33,6 +33,7 @@ Traverse le désert avec Shao Mei. À Central, Scar la sauve ; elle s'attache à
 ## Rapport à la protagoniste
 
 - 1914 (R11) : arrive blessée, cachée dans l'armure d'Al, à l'abri de Knox. Sa médecine travaille le vivant : Rhea s'en tient à distance. Peut voir en Rhea une seconde sans-cercle, sans le pourquoi ; rien ne remonte. Retrouvée à Baschool avec Marcoh et Yoki. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
+- 1914-1915 (R12) : déchiffre les notes du frère de Scar en superposant les pages : le cercle national et un contre-cercle d'alkahestrie. Pose les pièges qui prennent Envy ; part vers l'Est avec lui dans un bocal. Rien ne remonte de ce qu'elle voit de Rhea. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 
 ## Sort connu (canon)
 

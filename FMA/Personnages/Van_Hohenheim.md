@@ -1,6 +1,6 @@
 # Van Hohenheim
 
-- version : W2
+- version : W3
 
 ## Identité
 Père d'Edward et Alphonse. Compagnon absent de Trisha. Alchimiste légendaire.
@@ -37,6 +37,7 @@ Quitte le foyer vers 1903 pour contrer le plan de Père (raison ignorée de sa f
 ## Rapport à la protagoniste
 Aucun lien direct établi au point de départ (Hohenheim est absent de Resembool depuis ~1903). Détail éventuel : cf. Personnages/Rhea.md et Parties/.
 - 1914 (R10) : hors POV. Rhea, restée à Central, ne le croise pas ; elle apprend par Ed son passage et ce qu'il a dit de la chose de 1910. Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
+- 1914-1915 (R12) : rencontré à Liore. Raconte à Al, Rhea présente : Xerxès, Père né de son sang, le Jour Promis, les cinq sacrifices. Reconnaît en Rhea une survivante de la Porte (sans-cercle, orbite), sans rien savoir du 1903 ; ne la dénonce pas. Au bidonville, apprend d'Ed les derniers mots de Trisha ; enferme Al et Pride sous un dôme de terre. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 
 ## Sort connu (canon)
 L'un des cinq sacrifices du Jour Promis ; son contre-cercle sauve les âmes d'Amestris.

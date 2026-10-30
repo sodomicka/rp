@@ -1,6 +1,6 @@
 # Ling Yao
 
-- version : W3
+- version : W4
 
 ## Identité
 
@@ -61,6 +61,7 @@ illégalement ; échoue à Rush Valley.
   devant Rhea que le Généralissime est un homonculus. Détail : cf.
   Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 - 1914 (R11) : avalé par Gluttony avec Ed ; au repaire de Père, reçoit la Pierre de Greed, qui prend son corps (hors POV). Rhea l'apprend d'Ed ; Lan Fan reçoit son message. Lan Fan et Fu refusent l'automail pour l'instant ; Rhea peut avoir proposé l'atelier Rockbell. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
+- 1914-1915 (R12) : Greed, maître du corps, s'allie à Ed ; Ling affleure par moments. À Resembool, Lan Fan porte l'automail de Pinako [CANON SUPPOSÉ]. Au bidonville, Ling reprend la main contre Gluttony ; Lan Fan le déchiquette. Greed part seul vers Central à l'aube. Rien ne remonte de ce qu'il voit de Rhea [INTERPRÉTATION : Greed a rompu avec Père]. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 
 ## Sort connu (canon)
 

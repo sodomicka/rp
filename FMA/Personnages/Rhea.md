@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W18
+- version : W19
 
 ## Identité
 
@@ -294,9 +294,11 @@ pour elle.]
 OC : pas de sort canon fixe. [selon RP] Par défaut, le périmètre joué la mène
 de l'enfance à la chute de Père puis au retour à Resembool.
 Son statut de sacrifice potentiel (Porte ouverte dès 1903, hitobashira valable)
-reste ouvert : hors radar de Père par défaut, MAIS Mustang l'a repérée SUR
-PLACE en 1910 (rumeur de village + démonstration à l'atelier, R3) - que
-devient l'info côté armée, à trancher en Roadmap 12.
+est tranché en Roadmap 12 : Mustang l'a repérée sur place en 1910 (R3) mais
+n'a rien écrit, l'armée n'a rien ; « hors radar » par défaut. « Repérée » si
+elle a transmuté sans cercle devant un homonculus ou Kimblee (delta
+Parties/) : elle est alors le cinquième sacrifice de Père au Jour Promis, à
+la place de Mustang (R13).
 
 ## Implications d'arc
 
@@ -319,6 +321,11 @@ Alimentées à chaud, arc par arc (Passe 2) :
 - Winry otage (R11, 1914) : dès le retour d'Ed, Rhea sait que sa sœur tient
   Ed en laisse pour Bradley. Elle ne ment pas à Winry : l'appeler est au
   choix du joueur, sinon Winry l'apprend à Briggs.
+- Silence de Mustang (fixé en R12, vaut depuis 1910) : son rapport de 1910
+  ne porte qu'Edward ; il a tu la troisième sans-cercle. Rhea l'ignore.
+- Statut de sacrifice (R12, 1915) : Hohenheim lui apprend ce qu'est un
+  sacrifice ; elle sait en être un valable, pas si Père la connaît. Elle le
+  dit à Winry.
 
 ## Trajectoire datée (post-1903)
 
@@ -461,7 +468,21 @@ partie.
   Winry lui pardonne, Rhea non, ou à sa manière. Scar « enlève » les deux
   sœurs ; elle s'enfonce avec Winry dans les galeries, vers le fort, sous le
   blizzard ; les frères restent chez Kimblee.
-- (suite à alimenter roadmap par roadmap : R12 et au-delà)
+- 1914-1915 (R12) - Convergence. Dans les galeries, elle démonte Al trouvé dans
+  la neige, puis le remonte au bidonville du Nord ; Ed disparu au fond d'une
+  mine, pas de corps. May déchiffre les notes du frère de Scar : le cercle
+  national, un contre-cercle. Le piège à Envy : l'homonculus qui a allumé
+  Ishval finit ver dans un bocal ; elle ne l'écrase pas. À Liore
+  reconstruite, Rose n'attend plus personne ; Hohenheim, Pierre vivante au
+  visage de Père, dit le Jour Promis et les cinq sacrifices : la nuit
+  d'Alan a fait d'elle une clé du plan. Elle raccompagne Winry à Resembool ;
+  17 ans. Ed vivant, refermé sur sa propre vie, Greed dans Ling, Lan Fan à
+  l'automail de Pinako. Automail au carbone à quatre mains ; elle dit à
+  Winry ce qu'elle est ; dernier rituel avec Monsieur Lapinou, cinquième
+  séparation. Au bidonville, dans le noir, Pride pilote l'armure qu'elle a
+  refaite ; le gamin du dîner est Pride ; Gluttony dévoré. Al choisit le
+  dôme de terre avec Pride. À l'aube, avec Scar et Ed, aux portes de Central.
+- (suite à alimenter roadmap par roadmap : R13 et au-delà)
 
 ## Renvois
 

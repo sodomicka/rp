@@ -1,6 +1,6 @@
 # Pinako Rockbell
 
-- version : W2
+- version : W3
 
 ## Identité
 Matriarche de la famille Rockbell, de Resembool.
@@ -40,6 +40,7 @@ Figure parentale de substitution : élève Winry seule après la mort des parent
 ## Rapport à la protagoniste
 Pinako est la sauveuse et la figure fondatrice de la protagoniste : elle la trouve, achève la masse, la recueille, la fait taire au village, l'élève. Détail : cf. Personnages/Rhea.md et Parties/.
 - 1914 (R10) : Rhea, restée à Central, peut l'appeler pendant le séjour d'Ed à Resembool et lui demander de faire rapporter Monsieur Lapinou, pour Winry (au choix du joueur). Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
+- 1915 (R12) : a posé un automail à Lan Fan [CANON SUPPOSÉ] ; accueille Ed, Darius, Heinkel et Greed-Ling, puis Winry et Rhea. Prépare le sac de Rhea au départ (verrou). Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 
 ## Sort connu (canon)
 Survit à la trame. Reste à Resembool, matriarche du foyer reconstruit.

@@ -1,6 +1,6 @@
 # Scar
 
-- version : W5
+- version : W6
 
 ## Identité
 
@@ -48,6 +48,7 @@ TCHEKHOV MAJEUR : Scar a tué les parents adoptifs de la protagoniste (Sarah et 
 - 1914 (R6) : face-à-face SANS révélation. Rhea le voit tuer et détruire ; elle sait qu'il est ishval et tueur d'Alchimistes d'État, et peut l'approuver avant de le voir frapper. Ni elle ni lui ne savent le lien Rockbell. Sans montre, elle est pour lui un obstacle, pas une cible ; s'il la voit transmuter sans cercle, il retient un visage. Détail : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md.
 - 1914 (R10) : DÉTONATION. Revenu à Central, il mord au piège des frères ; Rhea et Winry entendent Ed l'interroger sur les médecins Rockbell, à la même seconde. Winry le braque ; il raconte (Kimblee, le bras du frère, le réveil, les deux médecins). Ed s'interpose ; il fuit avec May Chang. S'il l'a vue en R6, il reconnaît la seconde sans-cercle ; qu'elle est aussi une fille des Rockbell, il ne le sait que si elle le dit. Rhea ne peut pas le tuer (verrou : il tue Bradley au Jour Promis). Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 - 1914 (R11) : suit May au repaire de Père ; Ed lui apprend qu'Envy a déclenché la guerre d'Ishval. Fait avouer Marcoh, le défigure, part au Nord chercher les notes de son frère ; combat Kimblee. À Baschool, cloué par les chimères de Kimblee, maîtrisé par les frères, confronté par Winry avec Rhea à ses côtés : il sait alors qu'elles sont deux filles des Rockbell si l'une le dit. Winry lui pardonne ; Rhea, au choix du joueur, sans le tuer (verrou). « Enlève » les sœurs pour la ruse. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
+- 1914-1915 (R12) : mène le groupe des galeries au bidonville du Nord ; les notes de son frère déchiffrées par May (cercle national, contre-cercle) ; piège à Envy, qu'il confie à May. Se sépare du groupe, recrute des Ishvals ; retrouve Ed à l'aube du Jour Promis, Rhea avec lui. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 
 ## Sort connu (canon)
 
