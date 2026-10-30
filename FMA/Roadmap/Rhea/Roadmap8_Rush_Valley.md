@@ -1,6 +1,6 @@
 # Roadmap 8 - Rush Valley
 
-- version : W1
+- version : W2
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : ~3 jours (1914) [CANON SUPPOSÉ : durées internes] : l'arrivée et le vol de la montre (jour 1), la montagne de Dominic et la nuit d'orage (jours 1-2), la séparation (jour 2 ou 3)
@@ -16,7 +16,7 @@
   - Winry a vu la date gravée dans la montre d'Ed ; Ed ignore qu'elle l'a vue (sauf si Rhea le lui dit) ;
   - Rhea a assisté à une naissance : un corps qui arrive avec son âme.
 - roadmap précédente : cf. WIKI Roadmap/Rhea/Roadmap7_Laboratoire_5.md
-- roadmap suivante : Roadmap 9 - Dublith : Izumi et Greed (à écrire)
+- roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md
 
 ## Intention
 La respiration sororale entre le charnier de Central et la maîtresse de Dublith. Rush Valley est le rêve de Winry et le cauchemar de Rhea : la foule, le métal partout, des mécaniciens qui veulent voir. Winry s'y épanouit, et Rhea mesure ce qu'elle a accepté en 1914 : sa sœur sera heureuse sans elle. Une voleuse aux jambes d'acier, un vieux maître qui refuse tout le monde, une montre qui porte la date de l'incendie. Et, dans la nuit d'orage, une naissance : l'inverse exact de 1903, un corps qui arrive avec une âme, que personne n'a eu à appeler.

@@ -1,6 +1,6 @@
 # Rush Valley
 
-- version : W1
+- version : W2
 
 ## Nature
 
@@ -29,8 +29,10 @@ inclus.
 - 1914 (ép. 11) : arrivée d'Ed, Al et Winry ; vol de la montre d'Ed par
   Paninya ; Winry refusée par Dominic ; naissance du petit-fils de Dominic
   des mains de Winry ; Winry reste chez Garfiel.
-- 1914 (ép. 15 [CANON SUPPOSÉ : numéro]) : retour des frères depuis
-  Dublith ; arrivée de Ling Yao et de sa garde (Roadmap 9).
+- 1914 (ép. 15) : retour des frères depuis Dublith ; Winry répare le bras
+  d'Ed ; Ling Yao, affamé, nourri par les frères ; Lan Fan et Fu les
+  attaquent, la ville est saccagée puis réparée par l'alchimie ; Winry part
+  avec eux pour Central (Roadmap 9).
 
 ## Ambiance
 
@@ -51,8 +53,9 @@ retrouve en revenant de Dublith (R9).
 
 - Automail : cf. Systemes/Automail.md
 - Habitants : cf. Personnages/Paninya.md, Dominic_LeCoulte.md
+- Ling Yao et sa garde : cf. Personnages/Ling_Yao.md
 - Winry : cf. Personnages/Winry_Rockbell.md
-- 1914 : cf. Roadmap/Rhea/Roadmap8_Rush_Valley.md
+- 1914 : cf. Roadmap/Rhea/Roadmap8_Rush_Valley.md, Roadmap9_Dublith_Izumi_Et_Greed.md
 
 ---
 

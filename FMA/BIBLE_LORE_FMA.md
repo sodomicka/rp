@@ -16,7 +16,7 @@
 - univers : Fullmetal Alchemist (branche manga / Brotherhood, continuité Arakawa)
 - sources primaires : manga Arakawa + anime Brotherhood (2009). Canon local prime sur 2003.
 - site_ref canon (Brotherhood, épisode par épisode) : `https://fma.fandom.com/wiki/Episode_<N>_(2009_Anime)` (N = 1 à 64 ; chaque page liste les chapitres manga adaptés). Secours : `https://fma.fandom.com/wiki/List_of_Fullmetal_Alchemist_episodes` ou recherche web. VÉRIFICATION uniquement : ni théories fans, ni copie de texte. Méthode de déroulement : cf. _Implications.md.
-- bible_version : B13
+- bible_version : B14
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/FMA/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/FMA/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/FMA/Partie1/`
@@ -25,9 +25,9 @@
   - (racine) - Résumé de l'histoire établie : Resume.md (1 page)
   - Systemes - moteur du monde : alchimie, Vérité, Pierre, automail (4 pages)
   - Factions - armée et conspiration (2 pages)
-  - Lieux - géographie narrative (4 pages)
-  - Personnages - fiches neutres canon + protagoniste OC (25 pages)
-  - Roadmap/Rhea - garde-cap + roadmaps détaillées, perspective Rhea (10 pages)
+  - Lieux - géographie narrative (5 pages)
+  - Personnages - fiches neutres canon + protagoniste OC (27 pages)
+  - Roadmap/Rhea - garde-cap + roadmaps détaillées, perspective Rhea (11 pages)
 - focus narratif : est d'Amestris autour de Resembool, avant et pendant la trame canon. Protagoniste OC (Rhea) : prix cognitif de la Vérité + relecture antimilitariste des événements. Instance jouée en CODEX + Parties/.
 
 ## SB1 Cosmogonie et règles du monde
@@ -41,7 +41,7 @@
 - Péages canon : Ed (jambe = péage de la Porte ; bras = prix séparé du scellement d'Al), Al (corps entier), Izumi (organes), Mustang (vue).
 - Le péage peut toucher les fonctions cognitives : cas du RP (Rhea : œil droit + cortex orbitofrontal). Cohérent avec le péage-désir, pas une contradiction. detail: cf. WIKI Personnages/Rhea.md
 - Survivre à la Porte confère : transmutation sans cercle (le corps devient le cercle, claquement de mains) + aperçu du savoir, À CONDITION d'en garder le souvenir.
-- Contre-exemple canon (ép. 2) : Alphonse, corps entier prélevé, revient SANS souvenir de la Porte -> PAS de sans-cercle. Il recouvre la capacité tard dans la trame ([INCERTAIN] : moment exact). La transmutation humaine reste impossible même après.
+- Contre-exemple canon (ép. 2) : Alphonse, corps entier prélevé, revient SANS souvenir de la Porte -> PAS de sans-cercle. Le sang de Martel lui rend ses souvenirs de la nuit de 1910 (ép. 14), pas le savoir de la Porte. Il recouvre la capacité plus tard ([INCERTAIN] : moment exact). La transmutation humaine reste impossible même après.
 - Sacrifice humain = alchimiste ayant ouvert la Porte et survécu. Convoité par les homonculus : cinq requis pour le Jour Promis.
 - Pierre philosophale : condensat d'âmes humaines. Amplifie l'alchimie, paie le péage à la place de l'alchimiste, alimente les homonculus. Fabrication = meurtre de masse.
 - Homonculus : êtres artificiels à cœur-Pierre, quasi immortels ; régénèrent tant que les âmes durent, meurent une fois la Pierre épuisée.
@@ -93,7 +93,8 @@
 | 1914 | East City : Tucker et Nina ; Scar tue Tucker, brise le bras d'Ed et l'armure d'Al ; retour à Resembool | Rhea face à Scar sans savoir qu'il a tué ses parents. cf. WIKI Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md |
 | 1914 | Central : notes de Marcoh décodées, Laboratoire 5 ; Winry à Central ; Bradley au chevet d'Ed ; départ vers le Sud ; Maes Hughes tué par Envy au même moment | La Pierre = vies humaines ; enquête de Mustang. cf. WIKI Roadmap/Rhea/Roadmap7_Laboratoire_5.md |
 | 1914 | Rush Valley : Paninya vole la montre d'Ed (Winry y voit la date de l'incendie) ; Winry accouche la belle-fille de Dominic ; Winry reste chez Garfiel | Rhea repart sans Winry vers Dublith. cf. WIKI Roadmap/Rhea/Roadmap8_Rush_Valley.md |
-| 1914 | Trame principale (Dublith, retour à Central, le Nord) | cf. WIKI Roadmap/Rhea/00_Garde_Cap.md |
+| 1914 | Dublith : Izumi devine la transmutation des frères ; Greed enlève Al ; raid de Bradley, Greed capturé, le sang de Martel rend à Al ses souvenirs de 1910 ; retour à Rush Valley, Ling Yao ; départ pour Central avec Winry | Miroir Izumi/Rhea. cf. WIKI Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md |
+| 1914 | Trame principale (retour à Central, le Nord) | cf. WIKI Roadmap/Rhea/00_Garde_Cap.md |
 | printemps 1915 | Jour Promis (éclipse solaire) | Culmination du plan de Père |
 
 Détail des étapes par arc : cf. FMA/Roadmap/Rhea/.
@@ -135,7 +136,9 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Maria Ross et Denny Brosh - sous-lieutenant et sergent, gardes du corps des Elric à Central | soldats | Ross accusée du meurtre de Hughes, sauvée par Mustang | survivent | établi. detail: cf. WIKI Personnages/Maria_Ross_Et_Denny_Brosh.md
 - Barry le Boucher - tueur en série, âme scellée dans une armure (Laboratoire 5) | couperet | miroir inversé d'Al, plante le doute sur son âme | détruit par Lust (1914) | établi. detail: cf. WIKI Personnages/Barry_Le_Boucher.md
 - Rose Thomas - fidèle de Léto à Liore | - | fiancé mort, promesse de résurrection de Cornello : miroir du 1903 de Rhea | reste à Liore | établi. detail: cf. WIKI Personnages/Rose_Thomas.md
-- Izumi Curtis - maîtresse alchimiste | alchimie large sans cercle, arts martiaux | mentor des Elric (1909), miroir du deuil-transmutation ; sait dès 1909 qu'une gamine transmute sans cercle | survit | établi. detail: cf. WIKI Personnages/Izumi_Curtis.md
+- Izumi Curtis - maîtresse alchimiste | alchimie large sans cercle, arts martiaux | mentor des Elric (1909), miroir du deuil-transmutation ; devine le prix du sans-cercle de Rhea, rencontrée à Dublith (R9) | survit | établi. detail: cf. WIKI Personnages/Izumi_Curtis.md
+- Greed - homonculus déserteur, Devil's Nest de Dublith | Bouclier ultime (peau de carbone) | bande de chimères humaines (Martel, Dolcetto, Roa, Bido) ; enlève Al | capturé par Bradley, refondu par Père (1914), renaît dans Ling | établi. detail: cf. WIKI Personnages/Greed.md
+- Ling Yao - prince de Xing | arts martiaux, perception du chi | garde Lan Fan et Fu ; cherche l'immortalité pour le trône | futur réceptacle de Greed, survit, empereur | établi. detail: cf. WIKI Personnages/Ling_Yao.md
 - Alan - frère cadet de Rhea, mort avant l'adoption | - | seul élément rescapé de l'origine de Rhea (le village natal, lui, ne détone jamais) | mort en 1903 à 4 ans (pneumopathie à l'amiante) | OC. detail: cf. WIKI Personnages/Rhea.md
 - Paninya - pickpocket de Rush Valley | jambes d'automail armées (canon, lame) | protégée de Dominic, amie de Winry | cesse de voler, survit | établi. detail: cf. WIKI Personnages/Paninya.md
 - Dominic LeCoulte - maître d'automail reclus de Rush Valley | automail armé | fils Ridel, belle-fille Satella ; redoute Pinako ; refuse Winry, l'envoie chez Garfiel | survit | établi. detail: cf. WIKI Personnages/Dominic_LeCoulte.md
@@ -150,8 +153,8 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Liore - ville du désert de l'Est, culte de Léto | Est d'Amestris | première ville canon (R5), faux prophète Cornello | bascule après le départ des Elric. detail: cf. WIKI Roadmap/Rhea/Roadmap5_Liore.md
 - East City - ville de garnison de l'Est | Est d'Amestris | QG de Mustang ; Tucker, première attaque de Scar (R6) | - . detail: cf. WIKI Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md
 - Central City - capitale | centre du pays | siège du pouvoir et de Père ; bibliothèque, Laboratoire 5, maison des Hughes (R7) | - . detail: cf. WIKI Roadmap/Rhea/Roadmap7_Laboratoire_5.md
-- Rush Valley - ville de l'automail | Sud, sur la ligne de Dublith | rêve de Winry, foule pour Rhea ; Winry y reste chez Garfiel (R8) | - . detail: cf. WIKI Lieux/Rush_Valley.md
-- Dublith - ville du Sud | - | foyer d'Izumi Curtis, lieu d'apprentissage des Elric (1909) | - . [détail à la demande]
+- Rush Valley - ville de l'automail | Sud, sur la ligne de Dublith | rêve de Winry, foule pour Rhea ; Winry y reste chez Garfiel (R8), en repart pour Central après Ling Yao (R9) | - . detail: cf. WIKI Lieux/Rush_Valley.md
+- Dublith - ville du Sud | au bout de la ligne de Rush Valley | foyer d'Izumi Curtis (boucherie), apprentissage des Elric (1909), Devil's Nest de Greed (R9) | repaire rasé (1914). detail: cf. WIKI Lieux/Dublith.md
 
 ## SB7 Artefacts et objets
 - Pierre philosophale - condensat d'âmes | fabrication par meurtre de masse | amplifie, paie le péage, cœur des homonculus | plusieurs exemplaires | établi. detail: cf. WIKI Systemes/Pierre_Philosophale.md
@@ -179,8 +182,8 @@ Format : Fil - planté en | condition de détonation | conséquence attendue | s
 - Transmutation cachée des Elric - planté 1910 | détonée sur place (R3) | fracture Rhea/Elric 1910-1914, détestation à double tranchant | DÉTONÉ. déroulé : cf. WIKI Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md, Personnages/Rhea.md (Trajectoire datée)
 - Révélation du 1903 de Rhea aux Elric - planté 1910 (fracture jouée sans qu'elle s'explique) | détonée en 1914, au retour des frères, avant le départ (R4) | compréhension rétroactive de la fracture, cale la réconciliation | DÉTONÉ. déroulé : cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md
 - Nœud Rhea/Al - planté dès l'enfance (apogée 1909), noué 1910 (Al = anti-Alan, dissonance sans résolution) | avoué seulement à la fin du périmètre | tension intime traversante | armé. cf. WIKI Personnages/Rhea.md (Relations, Trajectoire datée)
-- Statut de sacrifice de Rhea - planté 1903 (Porte ouverte) ; armé 1910 (repérage Mustang sur place : rumeur + démonstration) ; Liore 1914 : rien ne remonte aux homonculus (Cornello meurt sans parler) ; East City 1914 : Scar, Armstrong, Hughes peuvent la voir, rien ne remonte ; Central 1914 : homonculus hors POV au Laboratoire 5 ; transmuter devant Bradley (choix du joueur) la ferait « repérée » ; Rush Valley 1914 : aucun homonculus, rien ne remonte | repérage par Père / les homonculus | intérêt de la conspiration, danger | armé. cf. mystère ci-dessus
-- Parallèle deuil-transmutation - planté 1903 ; amorcé à distance avec Izumi (1909) | mise en regard directe avec Izumi et les Elric (culmine R9) | résonance thématique : une alchimiste qui a payé la Vérité pour un être aimé | planté. cf. WIKI Personnages/Izumi_Curtis.md
+- Statut de sacrifice de Rhea - planté 1903 (Porte ouverte) ; armé 1910 (repérage Mustang sur place : rumeur + démonstration) ; Liore 1914 : rien ne remonte aux homonculus (Cornello meurt sans parler) ; East City 1914 : Scar, Armstrong, Hughes peuvent la voir, rien ne remonte ; Central 1914 : homonculus hors POV au Laboratoire 5 ; transmuter devant Bradley (choix du joueur) la ferait « repérée » ; Rush Valley 1914 : aucun homonculus, rien ne remonte ; Dublith 1914 : Greed (refondu, rien ne remonte), Bradley au raid (même règle qu'en R7) | repérage par Père / les homonculus | intérêt de la conspiration, danger | armé. cf. mystère ci-dessus
+- Parallèle deuil-transmutation - DÉTONÉ (Dublith, R9 : rencontre Izumi/Rhea). déroulé : cf. WIKI Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md
 
 ## SB9 Index - routage
 
@@ -189,4 +192,4 @@ Index détaillé page-par-page : cf. WIKI FMA/Sommaire.md
 
 ---
 
-FIN_BIBLE_B13
+FIN_BIBLE_B14

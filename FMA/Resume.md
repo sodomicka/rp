@@ -1,6 +1,6 @@
 # Résumé - FMA
 
-- version : W7
+- version : W8
 
 Résumé de l'histoire telle qu'établie pour ce RP : canon Brotherhood condensé, trajectoire de la protagoniste OC (Rhea) et divergences actées. Faits seuls, pas de déroulé : le détail vit dans les roadmaps et les fiches.
 
@@ -23,7 +23,8 @@ Résumé de l'histoire telle qu'établie pour ce RP : canon Brotherhood condens�
 - 1914 - East City et Scar (R6). Mustang revu, sans nouvelle offre. Shou Tucker fond sa fille Nina et le chien Alexander en chimère ; Rhea, à qui Nina s'était attachée, revoit la chose de 1903 avec une âme en plus. Mustang dit qu'un Alchimiste d'État doit être prêt à tuer. Scar, tueur ishval d'Alchimistes d'État, tue Tucker et la chimère, brise le bras d'Ed et l'armure d'Al puis fuit ; personne ne sait encore qu'il a tué Sarah et Yuri. Rhea refait l'armure d'Al dans la nuit, et la carte d'Al prend sa première ligne. Armstrong les escorte ; Marcoh, médecin déserteur, montre sa Pierre incomplète et indique Central. À Resembool, Rhea forge avec Winry le nouveau bras d'Ed, puis repart une seconde fois.
 - 1914 - Central et le Laboratoire 5 (R7). Sheska recopie de tête les notes de Marcoh ; décodées, elles disent que la Pierre est faite de vies humaines. La nuit du Laboratoire 5, Rhea reste dehors avec Al face à Barry le Boucher, âme de tueur scellée dans une armure, qui fait douter Al d'être une âme ; Ed seul croise les homonculus. Winry vient à Central réparer le bras d'Ed, et Rhea ne sait pas lui mentir sur ce qu'Ed veut taire. Anniversaire d'Elicia chez les Hughes ; visite du Généralissime au chevet d'Ed. Le trio part vers le Sud avec Winry ; Hughes est tué par Envy au même moment, à l'insu de tous.
 - 1914 - Rush Valley (R8). La ville du rêve de Winry, la pire foule pour Rhea. Paninya, pickpocket aux jambes d'automail, vole la montre d'Ed ; Dominic LeCoulte, son auteur, refuse Winry comme apprentie. Winry voit gravée dans la montre la date de l'incendie et le dit à Rhea. Pendant un orage, Winry accouche la belle-fille de Dominic ; Rhea voit un corps arriver avec son âme. Dominic envoie Winry chez Garfiel : elle reste, Rhea repart vers Dublith avec les frères.
-- 1914-1915 - relecture du canon (R9 à R14, cap seulement). Rhea traverse la trame Brotherhood aux côtés des frères, d'East City au Jour Promis, puis retour à Resembool (bouclage Monsieur Lapinou / Cliquetis). Points de décision réservés : identité du tueur des parents (R10, canon ép. 18-22, contentieux double avec Winry) ; face à Izumi (R9, miroir deuil-transmutation) ; statut de sacrifice (R12 : hors radar de Père par défaut, repérage étayé côté armée depuis 1910).
+- 1914 - Dublith : Izumi et Greed (R9). Chez les Curtis, Izumi devine la transmutation des frères et avoue la sienne (son enfant mort-né). Elle reconnaît Rhea à l'orbite vide : la première personne que Rhea lit sans carte, qui sait son prix sans aveu. Al est enlevé par les chimères humaines de Greed, homonculus déserteur ; Ed l'affronte, Izumi intervient. Le Généralissime mène le raid en personne, Rhea tenue dehors ; Greed est capturé, Bradley tue les chimères, et le sang de Martel rend à Al ses souvenirs de la nuit de 1910. Retour à Rush Valley : Winry retrouvée, Ling Yao, prince de Xing, et sa garde Lan Fan et Fu. Winry part avec le trio pour Central.
+- 1914-1915 - relecture du canon (R10 à R14, cap seulement). Rhea traverse la suite de la trame Brotherhood aux côtés des frères jusqu'au Jour Promis, puis retour à Resembool (bouclage Monsieur Lapinou / Cliquetis). Points de décision réservés : identité du tueur des parents (R10, canon ép. 18-22, contentieux double avec Winry) ; statut de sacrifice (R12 : hors radar de Père par défaut, repérage étayé côté armée depuis 1910).
 
 ## Divergences actées vs canon
 
@@ -35,7 +36,8 @@ Résumé de l'histoire telle qu'établie pour ce RP : canon Brotherhood condens�
 - Rhea accompagne les frères dès 1914 ; Winry lui forge Cliquetis, elle laisse Monsieur Lapinou. Winry, elle, reste à Resembool comme en canon.
 - R7 : Rhea au Laboratoire 5 (dehors, avec Al), à l'anniversaire d'Elicia et face à Bradley ; Winry peut apprendre la vérité de la Pierre par elle avant le canon (choix du joueur).
 - R8 : Rhea à Rush Valley et à l'accouchement ; Dominic voit dans le bras d'Ed le métal d'une alchimiste, sans offre.
-- Alphonse : conforme au canon (aucun souvenir de la Porte, pas de sans-cercle avant tard dans la trame).
+- R9 : Rhea à Dublith, face à Izumi (seule exception hors Elric et Rockbell au secret du 1903, par déduction) et au Devil's Nest ; elle peut réparer Rush Valley avec les frères.
+- Alphonse : conforme au canon (aucun souvenir de la Porte, pas de sans-cercle avant tard dans la trame ; souvenirs de 1910 rendus à Dublith).
 
 ---
 
