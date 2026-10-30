@@ -4,7 +4,7 @@ Premier tour de chaque thread : lire EN ENTIER le cœur du mode, puis appliquer 
 Mode ambigu : demander.
 
 Après une compression de contexte (résumé en tête de contexte, ou rappel automatique `[COMPRESSION DE CONTEXTE]`) : avant toute réponse, relire EN ENTIER le cœur du mode en cours.
-- Jeu : dérouler la relecture complète du cœur Narration §8 (CODEX, roadmap, fiches du casting présent, surface du thread en corps complets depuis son ouverture), puis appliquer sa règle des deux compressions. Le résumé est un index, jamais une source.
+- Jeu : dérouler la relecture complète du cœur Narration §8 (CODEX, Sommaire et Sommaire de jeu, roadmap, fiches du casting présent, surface du thread en corps complets depuis son ouverture), puis appliquer sa règle des deux compressions. Le résumé est un index, jamais une source.
 - Worldbuild : le résumé classique porte le travail en cours ; un fichier se vérifie dans le dépôt avant d'être modifié.
 
 ## Compact Instructions
