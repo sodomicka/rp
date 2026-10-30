@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W11
+- version : W12
 
 ## Identité
 
@@ -373,7 +373,14 @@ partie.
   sommeil, pour qu'elle ne soit pas seule (projection de son propre besoin).
   Départ avec les
   frères : réconciliation fraîche et fragile, plaie anti-Alan intacte.
-- (suite à alimenter roadmap par roadmap : R5 et au-delà)
+- 1914 (R5) - Liore. Premier voyage hors de Resembool depuis 1903, sans
+  Winry. Première crise loin d'elle : Al applique la carte de Winry, ça ne
+  prend pas (gantelet froid, pas de battement, pas Winry) ; Cliquetis tient
+  le relais, imparfait. Face à Rose, qui attend le retour de son fiancé
+  mort, Rhea voit son propre 1903 sans en livrer le pourquoi. Ed démasque
+  Cornello, la Pierre est fausse : la quête devient concrète. Rien des
+  homonculus ne lui parvient. Al commence à l'observer pour son compte.
+- (suite à alimenter roadmap par roadmap : R6 et au-delà)
 
 ## Renvois
 

@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W4
+- version : W5
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -97,9 +97,12 @@ Toute la trame : 1914 -> printemps 1915. Rhea a 16 ans à l'entrée (1914), 17 a
 Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915).
 
 ### Roadmap 5 - Liore
-- Cornello et la fausse Pierre ; première épreuve de Cliquetis loin de Winry.
+- Cornello et la fausse Pierre ; première épreuve de Cliquetis loin de Winry ;
+  Rose en miroir du 1903 ; la carte de Winry échoue, Al commence la sienne.
+  Écrite (W1).
 
-### Roadmap 6 - Central : Tucker, Nina, première lame de Scar
+### Roadmap 6 - East City : Tucker, Nina, première lame de Scar
+- [À RECALER EN R6] Lieu canon probable : East City (QG de Mustang), pas Central.
 - Hughes, Armstrong, Sheska ; Shou Tucker et Nina ; Scar apparaît et frappe.
 - Tchekhov : Scar / parents DÉTONÉ (Rhea face au tueur ; contentieux double avec Winry).
 

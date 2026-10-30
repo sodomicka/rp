@@ -1,6 +1,6 @@
 # Sommaire - FMA
 
-- version : W11
+- version : W12
 
 ## WIKI
 
@@ -34,8 +34,8 @@ Description : fiches neutres canon des entités qui pèsent sur le RP, plus la p
 - Winry_Rockbell.md (W4) - mécanicienne prodige, sœur fusionnelle de la protagoniste
 - Sarah_Rockbell.md (W1) - chirurgienne, mère adoptive de la protagoniste, morte à Ishval
 - Yuri_Rockbell.md (W1) - chirurgien, père adoptif de la protagoniste, mort à Ishval
-- Edward_Elric.md (W3) - Fullmetal Alchemist, ami d'enfance, transmutation cachée de 1910, recrute Rhea en 1914
-- Alphonse_Elric.md (W4) - âme scellée dans l'armure, ami d'enfance ; PAS de sans-cercle (aucun souvenir de la Porte)
+- Edward_Elric.md (W4) - Fullmetal Alchemist, ami d'enfance, transmutation cachée de 1910, recrute Rhea en 1914
+- Alphonse_Elric.md (W5) - âme scellée dans l'armure, ami d'enfance ; PAS de sans-cercle (aucun souvenir de la Porte)
 - Trisha_Elric.md (W1) - mère Elric, morte en 1904, parallèle thématique
 - Van_Hohenheim.md (W1) - Pierre vivante, père absent des Elric
 - Roy_Mustang.md (W2) - Flame Alchemist, héros d'Ishval, supérieur d'Ed ; visite de 1910
@@ -44,8 +44,9 @@ Description : fiches neutres canon des entités qui pèsent sur le RP, plus la p
 - Scar.md (W1) - vengeur ishval, tueur des parents Rockbell (Tchekhov majeur)
 - Bradley_Wrath.md (W1) - Généralissime et homonculus Wrath
 - Pere.md (W1) - homonculus originel, maître de la conspiration
+- Rose_Thomas.md (W1) - fidèle de Léto à Liore, fiancé mort, miroir du 1903 de la protagoniste (R5)
 - Izumi_Curtis.md (W2) - maîtresse des Elric (1909), miroir thématique du deuil-transmutation ; sait dès 1909 qu'une gamine transmute sans cercle
-- Rhea.md (W11) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (1910 -> départ de 1914) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises, agoraphobie, pudeur a posteriori), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
+- Rhea.md (W12) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (1910 -> Liore 1914) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises, agoraphobie, pudeur a posteriori), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
 
 ### Roadmap/Rhea/
 Description : itinéraires par arc, dans l'ordre de la saga, par perspective de la protagoniste. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).
@@ -54,7 +55,8 @@ Description : itinéraires par arc, dans l'ordre de la saga, par perspective de 
 - Roadmap2_Ishval_La_Nouvelle.md (W2) - 1909, ~1 an : du départ des frères chez Izumi à leur retour (la nouvelle des parents, les jumelles, naissance de l'antimilitarisme, ce qu'Izumi sait)
 - Roadmap3_Transmutation_Elric_Et_Mustang.md (W4) - 1910 -> mi-1911, ~1 an et demi : transmutation cachée des Elric, fracture, visite Mustang (repérage sur place), année d'atelier, départ d'Ed. Ouvre la Trajectoire datée de Rhea
 - Roadmap4_L_Examen_Et_Le_Depart.md (W3) - automne 1911 -> 1914, ~2 ans et demi : examen et incendie, froid en snapshots, retour des frères, révélation du 1903, Al proposé comme appui (carte de Winry), Cliquetis et Monsieur Lapinou, départ avec les Elric (arrêt avant Liore)
-- (roadmaps R5 à R14 - à construire en boucle serrée, Passe 2 en cours)
+- Roadmap5_Liore.md (W1) - 1914, ~1 semaine : premier voyage sans Winry, Liore et Cornello, Rose en miroir du 1903, fausse Pierre, échec de la carte de Winry, Cliquetis éprouvé (hors POV : Lust et Gluttony)
+- (roadmaps R6 à R14 - à construire en boucle serrée, Passe 2 en cours)
 
 > NON INDEXÉS. Le garde-cap (`Roadmap/Rhea/00_Garde_Cap.md`) : source de build, jamais fetché en narration. `Parties/<Partie>/Memoires/` : archives narratives interdites en jeu (sauf ordre OOC explicite), consultées au BUILD seulement par listing direct du dossier. Indexer un dossier le fait paraître fetchable en narration. Cf. SPEC_CODEX 4ter, livrable 3.
 

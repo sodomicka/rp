@@ -1,6 +1,6 @@
 # Alphonse Elric
 
-- version : W4
+- version : W5
 
 ## Identité
 
@@ -42,6 +42,7 @@ Quête : récupérer son corps.
 
 Ami d'enfance de la protagoniste. En 1910, il cache avec Ed la transmutation à tous, elle comprise. Détail : cf. Personnages/Rhea.md.
 - 1914 (R4) : pousse Ed, avec Winry, à recruter Rhea (consolidation du métal de son armure en route, jamais le sceau). Apprend alors le 1903 de Rhea. Proposé par Winry comme appui de Rhea, reçoit sa carte (papier des habitudes de Winry avec sa sœur) : faite pour Winry, elle ne prendra pas - il devra se construire la sienne. Pour elle, il reste l'anti-Alan : la réconciliation est fraîche et fragile.
+- 1914 (R5) : à Liore, applique la carte de Winry à la première crise de Rhea loin d'elle ; ça ne prend pas (gantelet d'acier, pas de chaleur, pas Winry). Constate que la carte répertorie ce qui marche avec Winry, et commence à observer Rhea pour se construire la sienne.
 
 ## Sort connu (canon)
 
