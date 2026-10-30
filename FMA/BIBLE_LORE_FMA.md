@@ -16,7 +16,7 @@
 - univers : Fullmetal Alchemist (branche manga / Brotherhood, continuité Arakawa)
 - sources primaires : manga Arakawa + anime Brotherhood (2009). Canon local prime sur 2003.
 - site_ref canon (Brotherhood, épisode par épisode) : `https://fma.fandom.com/wiki/Episode_<N>_(2009_Anime)` (N = 1 à 64 ; chaque page liste les chapitres manga adaptés). Secours : `https://fma.fandom.com/wiki/List_of_Fullmetal_Alchemist_episodes` ou recherche web. VÉRIFICATION uniquement : ni théories fans, ni copie de texte. Méthode de déroulement : cf. _Implications.md.
-- bible_version : B18
+- bible_version : B19
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/FMA/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/FMA/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/FMA/Partie1/`
@@ -27,7 +27,7 @@
   - Factions - armée et conspiration (2 pages)
   - Lieux - géographie narrative (5 pages)
   - Personnages - fiches neutres canon + protagoniste OC (34 pages)
-  - Roadmap/Rhea - garde-cap + roadmaps détaillées, perspective Rhea (15 pages)
+  - Roadmap/Rhea - garde-cap + roadmaps détaillées, perspective Rhea (16 pages)
 - focus narratif : est d'Amestris autour de Resembool, avant et pendant la trame canon. Protagoniste OC (Rhea) : prix cognitif de la Vérité + relecture antimilitariste des événements. Instance jouée en CODEX + Parties/.
 
 ## SB1 Cosmogonie et règles du monde
@@ -99,6 +99,7 @@
 | 1914-1915 | Galeries de Baschool ; Ed empalé par Kimblee ; Envy réduit par May et Marcoh ; Liore, Hohenheim révèle le Jour Promis et les sacrifices ; Resembool (Ed vivant, Greed-Ling) ; Gluttony dévoré par Pride, Al et Pride sous le dôme | Rhea se sait sacrifice valable ; aube du Jour Promis. cf. WIKI Roadmap/Rhea/Roadmap12_Convergence.md |
 | 30 janvier 1915 | 17 ans de Rhea | Entre Liore et Resembool (R12) |
 | printemps 1915 | Jour Promis : coup d'État de Mustang, soldats-mannequins ; morts de Kimblee, Envy, Sloth, Fu, Bradley ; cinq sacrifices et éclipse, Père absorbe Dieu ; contre-cercles de Hohenheim et de Scar ; Al échange son âme contre le bras d'Ed ; Greed meurt, Père renvoyé à la Porte | Cinquième sacrifice : Mustang, aveugle (canon) ou Rhea « repérée » (Mustang voyant). cf. WIKI Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md |
+| printemps 1915 | Ed paie le retour d'Al avec sa Porte (plus d'alchimie) ; Hohenheim meurt sur la tombe de Trisha ; hôpital de Central, Pierre de Marcoh (Havoc, Mustang) ; retour à Resembool | Al dans son corps ; aveu de Rhea à Al ; fin du périmètre joué. cf. WIKI Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md |
 
 Détail des étapes par arc : cf. FMA/Roadmap/Rhea/.
 En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRONO) cadrent l'arc ; le fil long des arcs traversés vient du CODEX ANNEXE_CHRONO.
@@ -122,11 +123,11 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Winry Rockbell - mécanicienne prodige | automail, chirurgie amateur | fille Rockbell, sœur fusionnelle de Rhea, future épouse d'Ed | survit | établi. detail: cf. WIKI Personnages/Winry_Rockbell.md
 - Sarah Rockbell - chirurgienne de guerre | médecine | mère adoptive de Rhea | tuée par Scar (1908) | établi. detail: cf. WIKI Personnages/Sarah_Rockbell.md
 - Yuri Rockbell - chirurgien de guerre | médecine | père adoptif de Rhea | tué par Scar (1908) | établi. detail: cf. WIKI Personnages/Yuri_Rockbell.md
-- Edward Elric - Fullmetal Alchemist | transmutation sans cercle, automail-lame, combat | ami d'enfance de Rhea | survit, sacrifie son alchimie | établi. detail: cf. WIKI Personnages/Edward_Elric.md
-- Alphonse Elric - âme scellée dans une armure | alchimie au cercle (aucun souvenir de la Porte : PAS de sans-cercle avant le Jour Promis), combat | ami d'enfance de Rhea ; échange son âme contre le bras d'Ed (R13) | survit, recouvre son corps (R14) | établi. detail: cf. WIKI Personnages/Alphonse_Elric.md
+- Edward Elric - Fullmetal Alchemist | transmutation sans cercle, automail-lame, combat | ami d'enfance de Rhea | survit, paie le retour d'Al avec sa Porte (R14) | établi. detail: cf. WIKI Personnages/Edward_Elric.md
+- Alphonse Elric - âme scellée dans une armure | alchimie au cercle (aucun souvenir de la Porte : PAS de sans-cercle avant le Jour Promis), combat | ami d'enfance de Rhea ; échange son âme contre le bras d'Ed (R13) ; reçoit l'aveu de Rhea (R14) | survit, recouvre son corps (R14) | établi. detail: cf. WIKI Personnages/Alphonse_Elric.md
 - Trisha Elric - mère Elric | - | parallèle thématique (deuil-transmutation) | morte en 1904 | établi. detail: cf. WIKI Personnages/Trisha_Elric.md
-- Van Hohenheim - Pierre vivante, père absent | alchimie sans cercle, immortalité | adversaire de Père ; dit à Rhea qu'elle est un sacrifice valable (R12) | meurt après le Jour Promis | établi. detail: cf. WIKI Personnages/Van_Hohenheim.md
-- Roy Mustang - Flame Alchemist, colonel | alchimie de flamme | supérieur d'Ed, héros d'Ishval ; a tu le sans-cercle de Rhea en 1910 | perd la vue (canon) ou la garde si Rhea est le cinquième sacrifice (R13), survit | établi. detail: cf. WIKI Personnages/Roy_Mustang.md
+- Van Hohenheim - Pierre vivante, père absent | alchimie sans cercle, immortalité | adversaire de Père ; dit à Rhea qu'elle est un sacrifice valable (R12) | meurt sur la tombe de Trisha (R14) | établi. detail: cf. WIKI Personnages/Van_Hohenheim.md
+- Roy Mustang - Flame Alchemist, colonel | alchimie de flamme | supérieur d'Ed, héros d'Ishval ; a tu le sans-cercle de Rhea en 1910 | perd la vue (canon, rendue par la Pierre de Marcoh après Havoc, R14) ou la garde si Rhea est le cinquième sacrifice (R13) ; silence de 1910 détonable (R14), survit | établi. detail: cf. WIKI Personnages/Roy_Mustang.md
 - Riza Hawkeye - premier lieutenant, tireuse d'élite | tir de précision | adjointe et conscience de Mustang | survit | établi. detail: cf. WIKI Personnages/Riza_Hawkeye.md
 - Maes Hughes - renseignement militaire | analyse, lancer de couteaux | figure bienveillante, ami de Mustang | tué par Envy (1914) | établi. detail: cf. WIKI Personnages/Maes_Hughes.md
 - Scar - vengeur ishval | alchimie de destruction (bras droit) | tueur des parents adoptifs de Rhea, démasqué devant Rhea et Winry (R10) | survit, reconstruit Ishval | établi. detail: cf. WIKI Personnages/Scar.md
@@ -156,7 +157,7 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 
 ## SB6 Lieux
 - Amestris - pays-caserne / cercle national | cadre du RP | décor de l'antimilitarisme et ironie de fond | expansion achevée. detail: cf. WIKI Lieux/Amestris.md
-- Resembool - bourg rural de l'Est | région Est, près d'East City | foyer d'adoption de Rhea | paisible. detail: cf. WIKI Lieux/Resembool.md
+- Resembool - bourg rural de l'Est | région Est, près d'East City | foyer d'adoption de Rhea, retour final (R14) | paisible. detail: cf. WIKI Lieux/Resembool.md
 - Ishval - région génocidée de l'Est | Est d'Amestris | racine de l'antimilitarisme, point de sang du cercle | dévastée (1909). detail: cf. WIKI Lieux/Ishval.md
 - Village natal de Rhea - petit village minier à ~2 jours de Resembool | non nommé (effacé de sa mémoire) | lieu de l'incident fondateur ; ne détone jamais | quitté dès 1903. detail: cf. WIKI Roadmap/Rhea/Roadmap0_La_Porte.md, Personnages/Rhea.md
 - Xerxès - nation détruite ~400 ans avant | désert de l'Est, au-delà d'Ishval | berceau de Père, refuge de rescapés | ruines. detail: cf. WIKI Lieux/Ishval.md
@@ -175,8 +176,8 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Bras droit de Scar - bras greffé de son frère | alchimie de destruction | détruit la matière sans reconstruire | porté par Scar | établi. detail: cf. WIKI Personnages/Scar.md
 - Array d'alchimie de flamme - tatouage dans le dos de Riza | œuvre de Berthold Hawkeye | seul enregistrement complet de l'alchimie de flamme | brûlé en partie plus tard | établi. detail: cf. WIKI Personnages/Riza_Hawkeye.md
 - Grimoire d'alchimie du père de Rhea - traité complet incluant la théorie de la transmutation humaine | atelier du père mineur | source de la transmutation de 1903 | perdu/détruit avec le village | OC. detail: cf. WIKI Roadmap/Rhea/Roadmap0_La_Porte.md
-- Monsieur Lapinou - peluche du frère cadet de Rhea (Alan) | récupérée au départ du village natal (1903) | souvenir de quand elle aimait Alan, devenu rituel de sommeil avec Winry | laissé à Winry au départ de 1914, part du rituel pour qu'elle ne soit pas seule ; peut lui être rapporté (R10) ; à Resembool avec Winry avant le Jour Promis (R12) ; jamais repris par Rhea | OC. detail: cf. WIKI Personnages/Rhea.md
-- Cliquetis - galet de métal sans arête (pour ne pas blesser Rhea en crise) | forgé par Winry en une nuit avant le départ de 1914 | roulette reproduisant le rythme cardiaque de Rhea endormie ; relais anti-crise en l'absence de Winry | emporté par Rhea avec le Fullmetal | OC. detail: cf. WIKI Personnages/Rhea.md
+- Monsieur Lapinou - peluche du frère cadet de Rhea (Alan) | récupérée au départ du village natal (1903) | souvenir de quand elle aimait Alan, devenu rituel de sommeil avec Winry | laissé à Winry au départ de 1914, part du rituel pour qu'elle ne soit pas seule ; peut lui être rapporté (R10) ; à Resembool avec Winry avant le Jour Promis (R12) ; reste à Winry au retour (R14), jamais repris par Rhea | OC. detail: cf. WIKI Personnages/Rhea.md
+- Cliquetis - galet de métal sans arête (pour ne pas blesser Rhea en crise) | forgé par Winry en une nuit avant le départ de 1914 | roulette reproduisant le rythme cardiaque de Rhea endormie ; relais anti-crise en l'absence de Winry | emporté par Rhea avec le Fullmetal, reste à elle (R14) | OC. detail: cf. WIKI Personnages/Rhea.md
 - Cache-œil en cuir - couvre l'orbite droite vide de Rhea | cousu par Winry (bandage de Pinako à l'origine) | dissimule la plaie du péage cognitif | porté par Rhea | OC. detail: cf. WIKI Personnages/Rhea.md
 
 ## SB8 Mystères ouverts et Tchekhov
@@ -193,9 +194,9 @@ Format : Fil - planté en | condition de détonation | conséquence attendue | s
 - Scar / parents Rockbell - DÉTONÉ (Central, R10 : Rhea et Winry apprennent ensemble ; Winry pardonne à Baschool, R11). déroulé : cf. WIKI Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md, Roadmap11_Le_Nord_Briggs.md
 - Transmutation cachée des Elric - planté 1910 | détonée sur place (R3) | fracture Rhea/Elric 1910-1914, détestation à double tranchant | DÉTONÉ. déroulé : cf. WIKI Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md, Personnages/Rhea.md (Trajectoire datée)
 - Révélation du 1903 de Rhea aux Elric - planté 1910 (fracture jouée sans qu'elle s'explique) | détonée en 1914, au retour des frères, avant le départ (R4) | compréhension rétroactive de la fracture, cale la réconciliation | DÉTONÉ. déroulé : cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md
-- Nœud Rhea/Al - planté dès l'enfance (apogée 1909), noué 1910 (Al = anti-Alan, dissonance sans résolution) ; Al échange son âme au Jour Promis sans un mot d'elle (R13) | avoué seulement à la fin du périmètre (R14) | tension intime traversante | armé. cf. WIKI Personnages/Rhea.md (Relations, Trajectoire datée)
+- Nœud Rhea/Al - DÉTONÉ (R14 : corps d'Al rendu, la valeur rebascule, aveu ; Al ne la repousse pas). déroulé : cf. WIKI Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md
 - Statut de sacrifice de Rhea - DÉTONÉ (Jour Promis, R13) selon l'état de la partie : Rhea cinquième sacrifice et Mustang voyant, ou Mustang aveugle (canon). déroulé : cf. WIKI Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md
-- Silence de Mustang (1910) - fixé en R12, ignoré de Rhea | ne détone pas en R13 ; R14 au plus tôt | armé. cf. WIKI Personnages/Roy_Mustang.md
+- Silence de Mustang (1910) - fixé en R12, ignoré de Rhea | détone en R14 si Rhea va à son chevet (choix du joueur), sinon ironie au CODEX | armé jusqu'au jalon 5 de R14. cf. WIKI Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md
 - Ironie Mustang/Riza (1910 : « génocidaire ») - DÉTONÉ (R11 : Riza raconte Ishval). déroulé : cf. WIKI Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md
 - Parallèle deuil-transmutation - DÉTONÉ (Dublith, R9 : rencontre Izumi/Rhea). déroulé : cf. WIKI Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md
 
@@ -206,4 +207,4 @@ Index détaillé page-par-page : cf. WIKI FMA/Sommaire.md
 
 ---
 
-FIN_BIBLE_B18
+FIN_BIBLE_B19

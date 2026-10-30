@@ -1,6 +1,6 @@
 # Roy Mustang
 
-- version : W7
+- version : W8
 
 ## Identité
 
@@ -48,6 +48,7 @@ Depuis 1910 (R3) : cible directe et concrète - il a essuyé l'explosion en pers
 - 1914 (R11) : blessé, évacué par Knox avec Rhea dans la voiture. Surprend la conspiration du haut commandement ; Bradley disperse son équipe et prend Riza comme assistante. Les 520 cens d'Ed. Par le récit de Riza, Rhea apprend qu'il hait ce qu'il a fait à Ishval et veut devenir généralissime pour protéger les gens : l'ironie de 1910 détone. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
 - 1914-1915 (R12) : hors POV. Révèle Selim à Olivier, prépare son coup d'État, prend Mme Bradley en otage à l'aube. Implication fixée en R12 : en 1910, son rapport ne porte qu'Edward ; il a tu la troisième sans-cercle, pour ne pas livrer une civile de 12 ans à la machine qu'il veut réformer. L'armée n'a rien sur Rhea ; elle l'ignore. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : coup d'État ; dégage le groupe d'Ed sous Central, brûle Envy devant Rhea, arrêté par Ed, Riza et Scar. « Hors radar » : forcé par Pride à la transmutation humaine, perd la vue (canon). « Repérée » : Rhea est le cinquième sacrifice, il garde la vue sans savoir qu'il le lui doit. Son silence de 1910 ne détone pas en R13. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
+- 1915 (R14) : hôpital de Central. « Hors radar » : exige la Pierre de Marcoh pour Havoc d'abord, puis recouvre la vue ; part rebâtir Ishval. « Repérée » : voyant, la Pierre va à Havoc seul. Si Rhea vient à son chevet (choix du joueur), il lui dit à plat que son rapport de 1910 ne portait qu'Edward : le silence détone. Il ignore le 1903 et, « repérée », qu'il lui doit ses yeux. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 
 ## Sort connu (canon)
 

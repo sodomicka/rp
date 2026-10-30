@@ -1,6 +1,6 @@
 # Alphonse Elric
 
-- version : W13
+- version : W14
 
 ## Identité
 
@@ -24,7 +24,7 @@ Grand cœur, protecteur, patient.
 Alchimiste habile (formé avec Ed par Izumi), au CERCLE : il trace ou dessine ses cercles de transmutation.
 PAS de transmutation sans cercle : la Porte a prélevé son corps entier, mais son âme est revenue SANS AUCUN souvenir d'elle - quand Ed lui parle de la Porte après sa rééducation, Al ne voit pas de quoi il s'agit (canon, ép. 2). Sans souvenir du savoir, pas de sans-cercle.
 1914 (ép. 14, Dublith) : le sang de Martel, versé sur son sceau, lui rend ses souvenirs de la nuit de 1910 (Ed donnant son bras pour le sceller) - pas le savoir de la Porte : il trace toujours ses cercles.
-[INCERTAIN] En canon il recouvre le sans-cercle plus tard dans la trame ; moment et mécanisme exacts à vérifier épisode par épisode (cf. BIBLE SB0, site_ref).
+1915 : recouvre le sans-cercle en repassant la Porte comme sacrifice, le Jour Promis (ép. 59) [CANON SUPPOSÉ]. Corps rendu par la Porte d'Ed (R14) : garde sa propre Porte [INCERTAIN : sans-cercle conservé].
 Formidable au corps-à-corps (arts martiaux d'Izumi) ; son armure en fait un adversaire redoutable.
 
 ## Histoire (jusqu'au point de départ du RP)
@@ -52,6 +52,7 @@ Ami d'enfance de la protagoniste. En 1910, il cache avec Ed la transmutation à 
 - 1914 (R11) : se fait mener à Père par Gluttony ; ramène May Chang à l'abri de Knox, où Rhea l'attend. Apprend d'Ed que son corps attend devant la Porte : pour Rhea, l'anti-Alan bouge sans se résoudre (Al a un corps à reprendre, Alan n'en avait plus). Briggs, le tunnel ; séparé d'Ed par Kimblee ; épargne les chimères à Baschool ; reste pour couvrir la ruse, puis part dans le blizzard (hors POV). Toujours pas de sans-cercle.
 - 1914-1915 (R12) : trouvé dans la neige, l'âme tirée vers son corps ; démonté pour être porté, remonté par Rhea (sceau intouché). Pertes de conscience de plus en plus fréquentes. À Liore, apprend de Hohenheim Xerxès, Père et le Jour Promis, Rhea présente ; reste avec lui et fait passer l'alerte. Pris par Gluttony et Pride, piloté par Pride contre le groupe ; se laisse saisir pour que Hohenheim l'enferme avec Pride sous un dôme de terre. Toujours pas de sans-cercle. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : contre Pride et Kimblee (hors POV), sacrifice ; à la Porte, voit son corps et en revient avec le sans-cercle [CANON SUPPOSÉ] ; échange son âme contre le bras d'Ed avec May, l'armure reste vide. Rhea ne peut ni l'empêcher ni lui avouer quoi que ce soit. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
+- 1915 (R14) : revient dans son corps de 1910 par la Porte d'Ed, décharné ; réapprend à manger et à dormir à l'hôpital de Central ; rentre à Resembool. Pour Rhea, il n'est plus l'anti-Alan : la valeur rebascule, elle avoue ; il ne la repousse pas, la forme se joue. Garde sa Porte [INCERTAIN : sans-cercle]. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 
 ## Sort connu (canon)
 

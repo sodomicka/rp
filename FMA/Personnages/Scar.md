@@ -1,6 +1,6 @@
 # Scar
 
-- version : W7
+- version : W8
 
 ## Identité
 
@@ -50,6 +50,7 @@ TCHEKHOV MAJEUR : Scar a tué les parents adoptifs de la protagoniste (Sarah et 
 - 1914 (R11) : suit May au repaire de Père ; Ed lui apprend qu'Envy a déclenché la guerre d'Ishval. Fait avouer Marcoh, le défigure, part au Nord chercher les notes de son frère ; combat Kimblee. À Baschool, cloué par les chimères de Kimblee, maîtrisé par les frères, confronté par Winry avec Rhea à ses côtés : il sait alors qu'elles sont deux filles des Rockbell si l'une le dit. Winry lui pardonne ; Rhea, au choix du joueur, sans le tuer (verrou). « Enlève » les sœurs pour la ruse. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
 - 1914-1915 (R12) : mène le groupe des galeries au bidonville du Nord ; les notes de son frère déchiffrées par May (cercle national, contre-cercle) ; piège à Envy, qu'il confie à May. Se sépare du groupe, recrute des Ishvals ; retrouve Ed à l'aube du Jour Promis, Rhea avec lui. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : entre sous Central avec Ed et Rhea ; retient Mustang devant Envy ; remonte affronter Bradley, le tue au soleil et lance le cercle de son frère : l'alchimie revient. Le pardon reste celui de Winry. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
+- 1915 (R14) : blessé, soigné en secret par les hommes d'Olivier (hors POV) ; part rebâtir Ishval. Rhea ne le revoit pas par défaut : la reconstruction est la réparation dans la durée que son tempérament peut entendre, sans pardon dit. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 
 ## Sort connu (canon)
 

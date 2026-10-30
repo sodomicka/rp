@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W20
+- version : W21
 
 ## Identité
 
@@ -287,12 +287,14 @@ et emporte Cliquetis - est un battement de Roadmap 4 (cf. Trajectoire datée) :
 une part du rituel de sommeil laissée à Winry, pour qu'elle ne soit pas seule
 elle non plus - Rhea projette sur Winry son propre besoin. Monsieur Lapinou
 reste à Winry : Rhea peut le lui faire rapporter (R10), jamais le reprendre
-pour elle.]
+pour elle. Au retour à Resembool (R14), rien ne change de mains : Monsieur
+Lapinou reste à Winry, Cliquetis à Rhea, les deux dans le lit du rituel.]
 
 ## Sort (périmètre du RP)
 
 OC : pas de sort canon fixe. [selon RP] Par défaut, le périmètre joué la mène
-de l'enfance à la chute de Père puis au retour à Resembool.
+de l'enfance à la chute de Père puis au retour à Resembool (R14, fin du
+périmètre : la première nuit dans la chambre des sœurs).
 Son statut de sacrifice potentiel (Porte ouverte dès 1903, hitobashira valable)
 est tranché en Roadmap 12 : Mustang l'a repérée sur place en 1910 (R3) mais
 n'a rien écrit, l'armée n'a rien ; « hors radar » par défaut. « Repérée » si
@@ -331,6 +333,10 @@ Alimentées à chaud, arc par arc (Passe 2) :
 - Jour Promis (R13, 1915) : sacrifice ne veut pas dire nouveau péage ; elle
   a payé en 1903, Père s'en sert comme clé. Le silence de Mustang ne détone
   pas en R13 (R14 au plus tôt).
+- Retour (R14, 1915) : le corps d'Al rendu, l'anti-Alan n'a plus d'objet ;
+  la valeur de 1910 rebascule, l'aveu suit. Le silence de Mustang ne lui
+  parvient que si elle va à son chevet (choix du joueur). Refuse la Pierre
+  pour son œil : le péage reste à elle.
 
 ## Trajectoire datée (post-1903)
 
@@ -499,7 +505,19 @@ partie.
   la pierre ; Al, sans-cercle retrouvé, échange son âme contre le bras d'Ed.
   Greed s'éteint, Ed renvoie Père à la Porte. L'armure qu'elle a refaite
   est vide ; rien n'a été dit.
-- (suite à alimenter : R14)
+- 1915 (R14) - Retour à Resembool. Dans la cour, Ed refuse la vie de
+  Hohenheim et paie avec sa Porte : la compensation, ce qu'elle tenait pour
+  le minimum dû, suffit à ramener Al. Al revient nu et décharné dans son
+  corps : plus l'anti-Alan, la valeur de 1910 rebascule d'un coup, sans
+  Winry pour bâillonner. Hôpital de Central, foule de couloirs, la jambe
+  d'Ed entretenue au métal ; Winry arrive et dit l'éclipse (son âme prise
+  et rendue). Au chevet de Mustang, si elle y va : son rapport de 1910 ne
+  portait qu'Edward. La Pierre de Marcoh pour Havoc (et pour les yeux de
+  Mustang, « hors radar ») ; elle la refuse pour son œil. Retour en train ;
+  Hohenheim mort sur la tombe de Trisha. À Resembool, l'aveu à Al, frontal,
+  au pire moment ; il ne la repousse pas. Première nuit : rituel de
+  sommeil, Monsieur Lapinou reste à Winry, Cliquetis à elle. Fin du
+  périmètre joué.
 
 ## Renvois
 
