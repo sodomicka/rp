@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W3
+- version : W4
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -86,7 +86,7 @@ build seulement : jamais indexé au Sommaire, jamais fetché en narration.
   la Pierre (Liore) ; Ed rompt le silence, le plus dur à convaincre, poussé
   par Al et Winry ; Winry et Pinako convainquent Rhea (Rush Valley ou
   stagner, non) - elle part pour ne pas brider le rêve de Winry ; révélation
-  du 1903 aux Elric (requise, manière au jeu) ; Cliquetis forgé, Lapinou
+  du 1903 aux Elric (requise, manière au jeu) ; Cliquetis forgé, Monsieur Lapinou
   laissé ; départ, réconciliation FRAÎCHE et FRAGILE. Arrêt juste avant le
   départ pour Liore. Ouvre Roadmap 5.
 
@@ -128,7 +128,7 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
 - éclipse solaire ; chute de Père (printemps 1915).
 
 ### Roadmap 14 - Retour à Resembool
-- Ed sacrifie son alchimie ; Al recouvre son corps ; bouclage Lapinou / Cliquetis.
+- Ed sacrifie son alchimie ; Al recouvre son corps ; bouclage Monsieur Lapinou / Cliquetis.
 
 ---
 

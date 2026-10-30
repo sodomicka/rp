@@ -1,6 +1,6 @@
 # Roadmap 4 - L'examen et le départ
 
-- version : W2
+- version : W3
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (13 -> 16 ans), POV strict
 - échelle temporelle : ~2 ans et demi (automne 1911 -> 1914) : quelques jours en 1911 (la nouvelle, l'incendie, le quai), une ellipse de ~2 ans et demi en vignettes, quelques jours en 1914 (le retour, la proposition, la veille, le départ)
@@ -34,7 +34,7 @@ Trois ans de froid, puis le dégel forcé. Rhea regarde les frères brûler leur
 7. Le conseil de famille [même séjour] : maison Rockbell. Winry et Pinako la convainquent. Trois issues sur la table : Rush Valley, où Rhea ne tiendrait pas et où elle limiterait Winry dans son rêve ; stagner à Resembool ; partir et progresser pour être utile à sa sœur. Rhea accepte la séparation temporaire parce qu'elle refuse de brider Winry. Winry pose sa vraie demande : que sa sœur apprenne à compter sur d'autres qu'elle. Rhea refuse qu'un inconnu vienne l'aider, en boucle, à plat. Winry propose Al : pas un inconnu (et elle sait, par leurs complots du soir, ce qu'elle fait). Rhea accepte sans intégrer : Al est tour à tour un outil, comme Cliquetis, et l'anti-Alan - les deux évaluations alternent, jamais fondues (COF). Tchekhov : nœud Rhea/Al. Avance quand Rhea accepte de partir et d'avoir Al pour appui.
 8. La révélation [avant le départ, moment au choix du jeu] : maison Rockbell. Le 1903 de Rhea (transmutation, Porte, péage, lésion) parvient aux Elric. Requise avant le départ ; la manière se joue en jeu : Rhea en flux sous le stress (pudeur a posteriori : regret et autoflagellation après coup), ou Winry qui raconte si c'est trop pour Rhea. Rétroactivement, la fracture de 1910 s'éclaire pour les frères. Tchekhov : révélation du 1903 aux Elric (détone) ; parallèle deuil-transmutation. Avance quand les Elric savent.
 9. La passation [avant le départ, après la révélation] : maison Rockbell. Winry donne à Al sa carte de Rhea : un papier où elle répertorie ses habitudes avec sa sœur (pression de main = abort du filtre, questions à plat sur le second degré, enlacement en crise, ce qui la fait déraper). Elle n'a de sens qu'une fois le 1903 et la lésion révélés. Cadrage MJ, hors prose : la carte ne peut pas marcher - elle répertorie ce qui marche avec Winry, et ce que Rhea aime, c'est que ce soit avec Winry ; Al devra se construire la sienne. Tchekhov : nœud Rhea/Al. Avance quand Al a la carte.
-10. La veille [la dernière nuit] : chambre des sœurs. Winry forge Cliquetis en une nuit : galet de métal sans arête, roulette au rythme cardiaque de Rhea endormie. Rhea lui laisse Monsieur Lapinou. Avance au matin.
+10. La veille [la dernière nuit] : chambre des sœurs. Winry forge Cliquetis en une nuit : galet de métal sans arête, roulette au rythme cardiaque de Rhea endormie. Rhea lui laisse Monsieur Lapinou : une part de leur rituel de sommeil, pour que Winry ne soit pas seule elle non plus - Rhea projette sur sa sœur son propre besoin. Avance au matin.
 11. Le seuil [le départ] : maison Rockbell, gare. Rhea quitte Resembool avec le Fullmetal et Al. Réconciliation fraîche et fragile. Arrêt juste avant le départ pour Liore -> clôt R4.
 
 ## Casting convoqué
@@ -63,7 +63,7 @@ Trois ans de froid, puis le dégel forcé. Rhea regarde les frères brûler leur
 - Rhea accepte de partir avec les frères (jalon 7).
 - Le 1903 de Rhea est su des Elric avant le départ (jalon 8), par elle ou par Winry.
 - Rhea accepte Al pour appui (jalon 7) et Winry lui remet sa carte de Rhea (jalon 9).
-- Lapinou reste à Winry, Cliquetis part avec Rhea (jalon 10).
+- Monsieur Lapinou reste à Winry, Cliquetis part avec Rhea (jalon 10).
 ### Interdits
 - Adresser la parole aux frères avant le retour de 1914 - casserait le froid 1911-1914 et la rupture du silence par Ed.
 - Révéler le 1903 avant le retour de 1914 - casserait la révélation calée au retour de 1914 (jalon 8).
