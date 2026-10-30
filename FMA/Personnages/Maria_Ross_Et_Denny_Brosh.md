@@ -1,6 +1,6 @@
 # Maria Ross et Denny Brosh
 
-- version : W2
+- version : W3
 
 ## Identité
 
@@ -56,6 +56,7 @@ l'explosion, récupèrent Ed inconscient et sauvent Al. Gardent l'hôpital.
   pour Xing avec Fu par les ruines de Xerxès ; Rhea le sait par Ed, sous le
   secret (elle peut le dire à Winry, à personne d'autre). Détail : cf.
   Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
+- 1915 (R13) : Ross revient avec des armes pour Mustang (hors POV) ; Rhea la sait vivante, le secret tombe. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 
 ## Sort connu (canon)
 

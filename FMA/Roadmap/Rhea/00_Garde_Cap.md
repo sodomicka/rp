@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W12
+- version : W13
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -172,27 +172,31 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   place de Mustang, qui garde la vue.
 
 ### Roadmap 13 - Le Jour Promis
-- Canon ép. 49 (suite) à 63 : coup d'État de Mustang (Ross revenue, Havoc),
-  souterrains et soldats-mannequins, mort de Kimblee, Envy brûlé par Mustang,
-  Sloth tué par les Armstrong, Bradley tué par Scar, les sacrifices au cœur
-  du cercle, l'éclipse, contre-cercles (Hohenheim, Scar), chute de Père.
-  Point de décision : le cinquième sacrifice suit le statut hérité de R12.
+- Canon ép. 49 (suite) à 63, une journée : Rhea sous Central avec Ed et
+  Scar, soldats-mannequins ; Mustang brûle Envy, qui se suicide ; le cercle
+  du docteur aspire les sacrifices ; « repérée », Rhea est le cinquième,
+  Mustang garde la vue ; « hors radar », Pride force Mustang (aveugle),
+  sauf si Rhea se montre avant ; l'éclipse, Père et Dieu ; contre-cercles
+  de Hohenheim et de Scar, Scar tue Bradley ; à la surface, Al (sans-cercle
+  retrouvé) échange son âme contre le bras d'Ed ; Greed carbonise Père, Ed
+  le renvoie à la Porte. Borne : l'armure d'Al vide. Écrite (W1).
+- Tchekhov : statut de sacrifice DÉTONÉ ; silence de Mustang reporté en R14.
 
 ### Roadmap 14 - Retour à Resembool
 - Canon ép. 63 (fin) et 64 : Ed sacrifie son alchimie, Al recouvre son corps ;
-  après-guerre ; retour à Resembool, bouclage Monsieur Lapinou / Cliquetis.
+  Hohenheim meurt à Resembool ; après-guerre (Mustang, la Pierre de Marcoh et
+  Havoc : sans objet si Mustang a gardé la vue) ; retour à Resembool, bouclage
+  Monsieur Lapinou / Cliquetis ; aveu à Al ; silence de Mustang (1910)
+  détonable. Une seule roadmap pour les deux états du statut.
 
 ---
 
 ## Points de vigilance (à trancher en écrivant les roadmaps concernées)
-- Statut de sacrifice de Rhea : TRANCHÉ en R12 (Mustang n'a rien écrit ;
-  « repérée » = cinquième sacrifice à la place de Mustang). Déroulé en R13.
+- Statut de sacrifice de Rhea : TRANCHÉ en R12, DÉTONÉ en R13.
 - Contentieux Scar : DÉTONÉ en R10, aux deux sœurs ensemble. Pardon de Winry
   posé en R11 (Baschool) ; Rhea n'est pas tenue de pardonner (réparation dans
   la durée) : la suite avec Scar se joue en R12-R13 (il rejoint Ed à l'aube du Jour Promis).
 - Réconciliation Rhea/Al : FRAÎCHE au départ (charnière), consolidée au fil du canon.
-- Densité de R13 : ~15 épisodes en une journée de jeu ; à écrire d'un bloc, une
-  scission en deux roadmaps ne se fait que sur décision du worldbuilder.
 - [INCERTAIN] Numéro de l'ordre d'extermination d'Ishval (3066 / 306) : non tranché.
 
 FIN_GARDE_CAP_RHEA

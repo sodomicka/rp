@@ -1,6 +1,6 @@
 # Alphonse Elric
 
-- version : W12
+- version : W13
 
 ## Identité
 
@@ -51,6 +51,7 @@ Ami d'enfance de la protagoniste. En 1910, il cache avec Ed la transmutation à 
 - 1914 (R10) : seul relais de Rhea pendant l'absence d'Ed ; la laisse avec Winry pour rejoindre l'équipe de Mustang contre Barry (Laboratoire 3, hors POV de Rhea). Apprend d'Ed que la chose de 1910 n'était pas Trisha. Au piège, bloque Rhea si elle veut tuer Scar, puis le suit. Toujours pas de sans-cercle.
 - 1914 (R11) : se fait mener à Père par Gluttony ; ramène May Chang à l'abri de Knox, où Rhea l'attend. Apprend d'Ed que son corps attend devant la Porte : pour Rhea, l'anti-Alan bouge sans se résoudre (Al a un corps à reprendre, Alan n'en avait plus). Briggs, le tunnel ; séparé d'Ed par Kimblee ; épargne les chimères à Baschool ; reste pour couvrir la ruse, puis part dans le blizzard (hors POV). Toujours pas de sans-cercle.
 - 1914-1915 (R12) : trouvé dans la neige, l'âme tirée vers son corps ; démonté pour être porté, remonté par Rhea (sceau intouché). Pertes de conscience de plus en plus fréquentes. À Liore, apprend de Hohenheim Xerxès, Père et le Jour Promis, Rhea présente ; reste avec lui et fait passer l'alerte. Pris par Gluttony et Pride, piloté par Pride contre le groupe ; se laisse saisir pour que Hohenheim l'enferme avec Pride sous un dôme de terre. Toujours pas de sans-cercle. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
+- 1915 (R13) : contre Pride et Kimblee (hors POV), sacrifice ; à la Porte, voit son corps et en revient avec le sans-cercle [CANON SUPPOSÉ] ; échange son âme contre le bras d'Ed avec May, l'armure reste vide. Rhea ne peut ni l'empêcher ni lui avouer quoi que ce soit. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 
 ## Sort connu (canon)
 

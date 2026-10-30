@@ -1,6 +1,6 @@
 # Ling Yao
 
-- version : W4
+- version : W5
 
 ## Identité
 
@@ -62,6 +62,7 @@ illégalement ; échoue à Rush Valley.
   Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 - 1914 (R11) : avalé par Gluttony avec Ed ; au repaire de Père, reçoit la Pierre de Greed, qui prend son corps (hors POV). Rhea l'apprend d'Ed ; Lan Fan reçoit son message. Lan Fan et Fu refusent l'automail pour l'instant ; Rhea peut avoir proposé l'atelier Rockbell. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
 - 1914-1915 (R12) : Greed, maître du corps, s'allie à Ed ; Ling affleure par moments. À Resembool, Lan Fan porte l'automail de Pinako [CANON SUPPOSÉ]. Au bidonville, Ling reprend la main contre Gluttony ; Lan Fan le déchiquette. Greed part seul vers Central à l'aube. Rien ne remonte de ce qu'il voit de Rhea [INTERPRÉTATION : Greed a rompu avec Père]. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
+- 1915 (R13) : Fu meurt contre Bradley (hors POV), Ling crève l'Œil ultime ; Greed quitte son corps et meurt en carbonisant Père. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 
 ## Sort connu (canon)
 

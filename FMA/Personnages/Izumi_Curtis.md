@@ -1,6 +1,6 @@
 # Izumi Curtis
 
-- version : W3
+- version : W4
 
 ## Identité
 
@@ -64,6 +64,7 @@ ressusciter un être aimé, et qui en paie encore le prix.
   confirmer ou non ; Izumi n'en dit rien à personne. Ne la prend pas comme
   élève (une leçon au plus). Détail : cf. Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md,
   Personnages/Rhea.md.
+- 1915 (R13) : tue Sloth avec les Armstrong (hors POV), aspirée par le cercle du docteur, sacrifice. « Repérée », Rhea est clouée à côté d'elle à l'éclipse. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 
 ## Trajectoire datée
 

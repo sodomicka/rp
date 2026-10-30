@@ -1,6 +1,6 @@
 # Edward Elric
 
-- version : W11
+- version : W12
 
 ## Identité
 
@@ -56,6 +56,7 @@ Ami d'enfance de la protagoniste (elle est un peu plus âgée). En 1910, Ed et A
 - 1914 (R10) : apprend la mort de Hughes, s'en accuse devant Gracia. Témoin du « meurtre » de Ross par Mustang ; Armstrong l'emmène seul à Resembool : Ross vivante aux ruines de Xerxès ; des réfugiés ishvals lui apprennent que Scar a tué les Rockbell ; Hohenheim ; l'exhumation (la chose n'était pas Trisha). De retour, dit Ross vivante à Al et Rhea sous le sceau du secret, tait Scar à Winry donc à Rhea. Tend le piège à Scar, l'interroge sur les Rockbell devant les deux sœurs, désarme Winry. Apprend de Ling que Bradley est un homonculus.
 - 1914 (R11) : avalé par Gluttony avec Ling et Envy ; ouvre la Porte sur lui-même avec la Pierre d'Envy pour sortir, voit le corps d'Al ; au repaire de Père, alchimie bloquée ; Bradley refuse sa démission et tient Winry en otage. Rapporte tout à Rhea. Rend son pistolet à Riza (récit d'Ishval). Briggs : automail gelé, Olivier, le tunnel-cercle ; Kimblee l'envoie traquer Scar ; couvre la ruse de Baschool auprès de Kimblee. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
 - 1914-1915 (R12) : poursuit Kimblee dans la mine de Baschool, empalé au fond d'un puits ; referme la plaie en payant avec sa propre durée de vie, emporté par Darius et Heinkel ; échappe à l'armée, s'allie à Greed-Ling. Rhea le croit mort jusqu'à Resembool. À Resembool, dit à Winry de fuir, automail renforcé au carbone par Winry et Rhea ; repart avec Rhea. Au bidonville, rend à Hohenheim les derniers mots de Trisha ; coupe la lumière contre Pride. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
+- 1915 (R13) : entre sous Central avec Rhea et Scar ; arrête Mustang devant Envy ; aspiré par le cercle du docteur, sacrifice ; contre Pride (l'âme de Kimblee), le réduit à un nourrisson ; perd son bras d'automail, rendu par l'échange d'Al ; troue la poitrine de Père. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 
 ## Sort connu (canon)
 
