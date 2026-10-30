@@ -1,6 +1,6 @@
 # Rhea
 
-- version : R8
+- version : R9
 
 ## Identité
 
@@ -275,7 +275,7 @@ elle a transformé un "à bientôt" en tombe. Angle du RP : relecture des
   1903. Relais anti-crise quand Winry n'est pas là.
 - Cache-œil en cuir - cousu par Winry (bandage de Pinako à l'origine).
 [L'échange Lapinou / Cliquetis au départ de 1914 - Rhea laisse Lapinou à Winry
-et emporte Cliquetis - est le battement de la charnière.]
+et emporte Cliquetis - est un battement de Roadmap 4 (cf. Trajectoire datée).]
 
 ## Sort (périmètre du RP)
 
@@ -298,9 +298,9 @@ Alimentées à chaud, arc par arc (Passe 2) :
   sans cercle est connu du bourg depuis l'enfance (elle transmute à ciel
   ouvert). Le POURQUOI (1903) ne fuit jamais : verrouillé chez les Rockbell.
   C'est cette rumeur que Mustang récolte en 1910.
-- Révélation du 1903 aux Elric : REPORTÉE À 1914 (charnière) - décision actée.
-  Jusque-là, silence total de Rhea sur son passé envers eux, y compris pendant
-  la fracture de 1910.
+- Révélation du 1903 aux Elric : 1914, au retour des frères (R4), avant le
+  départ - jamais avant. Jusque-là, silence total de Rhea sur son passé envers
+  eux, y compris pendant la fracture de 1910 et le froid 1911-1914.
 
 ## Trajectoire datée (post-1903)
 
@@ -338,7 +338,27 @@ partie.
   elle-même. Sa lecture (rationalisation, pas règle du monde) : Al a payé le
   prix sans même la compensation - preuve qu'il s'y est plongé sans y être
   préparé. Le nœud Rhea/Al se resserre. Ed part pour Central.
-- (suite à alimenter roadmap par roadmap : R4 et au-delà)
+- automne 1911 (R4) - L'examen et l'incendie. Ed revient de Central Alchimiste
+  d'État, montre d'argent en poche : un ami d'enfance devenu arme de l'armée
+  qui a tué Sarah et Yuri. Rhea regarde avec Winry et Pinako les frères brûler
+  leur maison (le sous-sol de 1910 part avec), puis les voit partir du quai
+  sans un mot d'adieu.
+- fin 1911 -> 1914 (R4) - Le froid. Silence total, aucun pardon. Ed revient
+  ponctuellement pour l'entretien de l'automail : Rhea bosse dessus en silence,
+  à contrecœur. Winry entraîne le filtre prothétique. Winry rêve de Rush
+  Valley ; Rhea sait qu'elle n'y tiendrait pas (foule). Elle progresse sur le
+  métal mais stagne : Resembool n'a plus rien à lui apprendre.
+- 1914 (R4) - Le dégel. Les frères reviennent, automail d'Ed amoché ; Rhea le
+  répare en silence. Ed rompt le silence, le plus dur à convaincre, poussé par
+  Al et Winry : piste solide sur la Pierre (Liore), besoin d'elle (réparation
+  en route, consolidation du métal de l'armure d'Al, jamais le sceau). Winry et
+  Pinako la convainquent : Rush Valley ou stagner, non ; partir et progresser
+  pour être utile à sa sœur, oui. Elle accepte la séparation temporaire pour
+  ne pas brider le rêve de Winry. Le 1903 parvient aux Elric (par elle en
+  flux, ou par Winry) : la fracture de 1910 s'éclaire pour eux. Winry forge
+  Cliquetis en une nuit ; Rhea lui laisse Monsieur Lapinou. Départ avec les
+  frères : réconciliation fraîche et fragile, plaie anti-Alan intacte.
+- (suite à alimenter roadmap par roadmap : R5 et au-delà)
 
 ## Renvois
 

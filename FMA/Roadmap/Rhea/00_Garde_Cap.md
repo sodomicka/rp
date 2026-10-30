@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W2
+- version : W3
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -10,7 +10,7 @@ build seulement : jamais indexé au Sommaire, jamais fetché en narration.
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - protagoniste : Rhea (OC), née le 30 janvier 1898
 - périmètre joué : enfance (dès la Porte) -> trame canon -> chute de Père -> retour à Resembool
-- total : 15 roadmaps (5 pré-canon + charnière + 10 canon)
+- total : 15 roadmaps (5 pré-canon, dont R4 qui porte la charnière + 10 canon)
 - routage détail : chaque roadmap -> FMA/Roadmap/Rhea/Roadmap<N>_<titre>.md (à construire en boucle serrée)
 
 ## Repères d'âge
@@ -75,29 +75,20 @@ build seulement : jamais indexé au Sommaire, jamais fetché en narration.
   de la bouche de Winry. Se clôt sur le départ d'Ed pour Central.
 - Tchekhov : transmutation cachée des Elric DÉTONÉ ; repérage sans-cercle ARMÉ.
 
-### Roadmap 4 - L'examen et le départ
-- date : 1911 (13 ans)
+### Roadmap 4 - L'examen et le départ (porte la charnière)
+- date : automne 1911 -> 1914 (13 -> 16 ans)
 - contenu : examen d'État d'Ed à Central (hors-champ POV Rhea : la nouvelle,
-  puis le retour avec la montre) ; plus jeune Alchimiste d'État ; incendie
-  de la maison Elric (acté : après l'examen) ; Al le rejoint. Se termine à
-  Ed qui obtient sa montre d'argent et Al qui le rejoint pour les premières
-  missions.
-- après R4 : le froid 1911-1914 (silence total, aucun pardon) est une
-  ELLIPSE - pas de roadmap dédiée ; on saute à la charnière.
-
----
-
-## CHARNIÈRE - seuil du canon
-- date : 1914 (16 ans)
-- contenu : quatre ans de froid en ellipse (1911-1914) ; les frères
-  reviennent avec la piste Cornello (le "prêtre à miracles" de Liore) et
-  recrutent Rhea eux-mêmes ; Winry la pousse ("ça te ferait du bien de
-  voyager") ; Winry et Pinako la convainquent ; réconciliation FRAÎCHE et
-  FRAGILE (la plaie anti-Alan demeure) ; besoin concret des frères
-  (réparation d'automail en champ par alchimie ; consolidation du métal de
-  l'armure d'Al, jamais le sceau) ; échange des deux objets (Rhea laisse
-  Monsieur Lapinou à Winry, emporte Cliquetis) ; départ avec le Fullmetal.
-  Ouvre Roadmap 5.
+  puis le retour avec la montre) ; incendie de la maison Elric (3 octobre
+  1911 [CANON SUPPOSÉ]), Rhea témoin ; départ des frères du quai sans un mot.
+  Le froid 1911-1914 en SNAPSHOTS : Ed revient pour l'entretien, Rhea bosse en
+  silence à contrecœur ; Winry entraîne le filtre et rêve de Rush Valley ;
+  Rhea stagne. 1914 : retour des frères, automail amoché ; piste solide sur
+  la Pierre (Liore) ; Ed rompt le silence, le plus dur à convaincre, poussé
+  par Al et Winry ; Winry et Pinako convainquent Rhea (Rush Valley ou
+  stagner, non) - elle part pour ne pas brider le rêve de Winry ; révélation
+  du 1903 aux Elric (requise, manière au jeu) ; Cliquetis forgé, Lapinou
+  laissé ; départ, réconciliation FRAÎCHE et FRAGILE. Arrêt juste avant le
+  départ pour Liore. Ouvre Roadmap 5.
 
 ---
 

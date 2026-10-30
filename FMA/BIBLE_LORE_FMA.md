@@ -16,7 +16,7 @@
 - univers : Fullmetal Alchemist (branche manga / Brotherhood, continuité Arakawa)
 - sources primaires : manga Arakawa + anime Brotherhood (2009). Canon local prime sur 2003.
 - site_ref canon (Brotherhood, épisode par épisode) : `https://fma.fandom.com/wiki/Episode_<N>_(2009_Anime)` (N = 1 à 64 ; chaque page liste les chapitres manga adaptés). Secours : `https://fma.fandom.com/wiki/List_of_Fullmetal_Alchemist_episodes` ou recherche web. VÉRIFICATION uniquement : ni théories fans, ni copie de texte. Méthode de déroulement : cf. _Implications.md.
-- bible_version : B7
+- bible_version : B8
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/FMA/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/FMA/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/FMA/Partie1/`
@@ -27,7 +27,7 @@
   - Factions - armée et conspiration (2 pages)
   - Lieux - géographie narrative (3 pages)
   - Personnages - fiches neutres canon + protagoniste OC (16 pages)
-  - Roadmap/Rhea - garde-cap + roadmaps détaillées, perspective Rhea (5 pages)
+  - Roadmap/Rhea - garde-cap + roadmaps détaillées, perspective Rhea (6 pages)
 - focus narratif : est d'Amestris autour de Resembool, avant et pendant la trame canon. Protagoniste OC (Rhea) : prix cognitif de la Vérité + relecture antimilitariste des événements. Instance jouée en CODEX + Parties/.
 
 ## SB1 Cosmogonie et règles du monde
@@ -87,7 +87,8 @@
 | 1909 | Apprentissage des Elric chez Izumi Curtis à Dublith (Ed 10 ans, Al 9 ans, six mois) | Retour fin 1909 ; Izumi sait par eux qu'une gamine transmute sans cercle |
 | 1909 | Nouvelle des Rockbell à Resembool ; dévastation d'Ishval | Deuil de Winry et de Rhea ; naissance de l'antimilitarisme de Rhea |
 | 1910 | Transmutation humaine ratée des Elric (de nuit, sans prévenir Rhea) ; visite de recrutement de Mustang à Resembool | Ed perd jambe (péage) et bras (scellement d'Al) ; Al perd son corps ; Rhea achève la chose et coupe les ponts ; Mustang repère la troisième sans-cercle sur place ; décision d'automail (défi d'Ed : un an). cf. WIKI Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md |
-| 1911 | Fin de rééducation d'Ed (défi tenu) ; examen d'État (12 ans) ; incendie de la maison Elric ; départ pour la quête | Plus jeune Alchimiste d'État ; silence Rhea/Elric jusqu'en 1914 |
+| 1911 | Fin de rééducation d'Ed (défi tenu) ; examen d'État (12 ans) ; incendie de la maison Elric (3 octobre [CANON SUPPOSÉ]) ; départ pour la quête | Plus jeune Alchimiste d'État ; silence Rhea/Elric jusqu'en 1914. cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md |
+| 1914 | Retour des frères à Resembool ; révélation du 1903 de Rhea aux Elric ; Rhea part avec eux vers Liore | Réconciliation fraîche et fragile. cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md |
 | 1914 | Trame principale ; mort de Maes Hughes (Envy) | Enquête de Mustang |
 | printemps 1915 | Jour Promis (éclipse solaire) | Culmination du plan de Père |
 
@@ -96,7 +97,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 
 ### Notes
 - Cap des roadmaps (15, R0 à R14, Porte 1903 -> retour à Resembool 1915) : cf. WIKI Roadmap/Rhea/00_Garde_Cap.md. État d'avancement du chantier : cf. _Implications.md.
-- Incendie de la maison Elric : 1911, APRÈS l'examen d'État (examen -> incendie -> départ pour la quête). Décision worldbuilder actée en R3. Ordre canon exact [INCERTAIN] (l'incendie n'apparaît pas dans l'ép. 2).
+- Incendie de la maison Elric : 1911, APRÈS l'examen d'État (examen -> incendie -> départ pour la quête), le 3 octobre [CANON SUPPOSÉ : date gravée dans la montre d'Ed] - séquence probablement canon, à vérifier.
 - [INCERTAIN] Numéro de l'ordre d'extermination d'Ishval : "3066" ou "306" selon les sources. Non tranché.
 - Parents Rockbell (Sarah, Yuri) : missions humanitaires ponctuelles depuis 1901 ; présents à l'arrivée de Rhea (1903) ; dernier départ 1907 ; tués par Scar 1908 ; nouvelle reçue à Resembool 1909.
 - Année exacte de destruction de Xerxès : [INCERTAIN] (~400 ans avant la trame).
@@ -160,7 +161,7 @@ Règle : définition + statut + renvoi. Les déroulés vivent en roadmap / fiche
 Format : Fil - planté en | condition de détonation | conséquence attendue | statut
 - Scar / parents Rockbell - planté 1908 (morts) | Rhea apprend l'identité du tueur (canon : 1914, R6) | confrontation, même contentieux que Winry | planté. cf. WIKI Personnages/Scar.md
 - Transmutation cachée des Elric - planté 1910 | détonée sur place (R3) | fracture Rhea/Elric 1910-1914, détestation à double tranchant | DÉTONÉ. déroulé : cf. WIKI Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md, Personnages/Rhea.md (Trajectoire datée)
-- Révélation du 1903 de Rhea aux Elric - planté 1910 (fracture jouée sans qu'elle s'explique) | charnière 1914, jamais avant (décision actée) | compréhension rétroactive de la fracture, cale la réconciliation | planté. cf. WIKI Personnages/Rhea.md (Implications d'arc)
+- Révélation du 1903 de Rhea aux Elric - planté 1910 (fracture jouée sans qu'elle s'explique) | détonée en 1914, au retour des frères, avant le départ (R4) | compréhension rétroactive de la fracture, cale la réconciliation | DÉTONÉ. déroulé : cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md
 - Nœud Rhea/Al - planté dès l'enfance (apogée 1909), noué 1910 (Al = anti-Alan, dissonance sans résolution) | avoué seulement à la fin du périmètre | tension intime traversante | armé. cf. WIKI Personnages/Rhea.md (Relations, Trajectoire datée)
 - Statut de sacrifice de Rhea - planté 1903 (Porte ouverte) ; armé 1910 (repérage Mustang sur place : rumeur + démonstration) | repérage par Père / les homonculus | intérêt de la conspiration, danger | armé. cf. mystère ci-dessus
 - Parallèle deuil-transmutation - planté 1903 ; amorcé à distance avec Izumi (1909) | mise en regard directe avec Izumi et les Elric (culmine R9) | résonance thématique : une alchimiste qui a payé la Vérité pour un être aimé | planté. cf. WIKI Personnages/Izumi_Curtis.md
@@ -172,4 +173,4 @@ Index détaillé page-par-page : cf. WIKI FMA/Sommaire.md
 
 ---
 
-FIN_BIBLE_B7
+FIN_BIBLE_B8
