@@ -1,6 +1,6 @@
 # Sommaire - FMA
 
-- version : W7
+- version : W8
 
 ## WIKI
 
@@ -45,7 +45,7 @@ Description : fiches neutres canon des entités qui pèsent sur le RP, plus la p
 - Bradley_Wrath.md (W1) - Généralissime et homonculus Wrath
 - Pere.md (W1) - homonculus originel, maître de la conspiration
 - Izumi_Curtis.md (W2) - maîtresse des Elric (1909), miroir thématique du deuil-transmutation ; sait dès 1909 qu'une gamine transmute sans cercle
-- Rhea.md (R7) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (démarre 1910) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
+- Rhea.md (R8) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (démarre 1910) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises, agoraphobie, pudeur a posteriori), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
 
 ### Roadmap/Rhea/
 Description : itinéraires par arc, dans l'ordre de la saga, par perspective de la protagoniste. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).

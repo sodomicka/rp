@@ -1,6 +1,6 @@
 # Rhea
 
-- version : R7
+- version : R8
 
 ## Identité
 
@@ -147,6 +147,21 @@ Zone franche Rockbell :
 - Dépendance à Winry accrue après la nouvelle de la mort des parents (1909).
 - Revers : la confiance est son mode le plus dangereux socialement - plus
   elle est bien, plus ça fuit (cf. Crises, format flux).
+
+Agoraphobie (foule) : angoisse réelle en foule, pas seulement fatigue.
+- Mécanique : multi-interlocuteurs + situations inédites = filtre saturé en
+  quelques minutes ; elle sait que ça va déraper sans pouvoir l'empêcher
+  (conscience sans correction) ; émotion non calibrée (x1000) -> montée
+  d'angoisse. Issue : fuite, ou crise (format cascade).
+- Origine : dès l'enfance à Resembool. Elle associe la foule aux crises :
+  cercle vicieux (foule -> crise -> peur de la foule).
+- Parades : Winry en bouclier, sorties courtes, lieux connus. Aucune gêne en
+  zone franche Rockbell.
+
+Pudeur a posteriori : la pudeur existe, mais en différé. Cadre calme, sans
+crise : elle ne se livre honnêtement qu'aux gens de confiance. Cadre qui ne
+s'y prête pas (stress, fatigue, foule : filtre lâché) : moulin à paroles,
+tout sort, et la pudeur n'arrive qu'après, en regret (autoflagellation).
 
 Tempérament binaire : peu de nuances entre adoration et détestation. Incapable
 de rancune sur une broutille - jamais plus de cinq secondes. Mais sur ce qui
