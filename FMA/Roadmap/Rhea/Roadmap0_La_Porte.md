@@ -1,6 +1,6 @@
 # Roadmap 0 - La Porte
 
-- version : W2
+- version : W3
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (5 ans, née le 30 janvier 1898), POV unique
 - échelle temporelle : ~10 jours à ~2 semaines (1903) : rituel instantané, ~1 semaine prostrée face à la masse, ~1 jour d'alerte, quelques heures à quelques jours de secours, ~2 jours de route
@@ -64,7 +64,7 @@ Générateur d'origine : poser le prix que la Vérité fait payer à une enfant 
 
 ## Notes de frontière
 - Le tempérament issu du péage ne se fige qu'en Roadmap 1.
-- Hors-périmètre définitif : le village et le père ne détonent jamais. Seul Alan subsiste de cette origine, par son nom et par Lapinou.
+- Hors-périmètre définitif : le village et le père ne détonent jamais. Seul Alan subsiste de cette origine, par son nom et par Monsieur Lapinou.
 
 ---
 FIN_WIKI_ROADMAP_RHEA_0

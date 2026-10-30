@@ -1,6 +1,6 @@
 # Roadmap 1 - Grandir à Resembool
 
-- version : W2
+- version : W3
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (5 -> 10 ans), POV unique
 - échelle temporelle : ~5 ans (1903 -> fin 1908), en vignettes ; durée de chaque vignette au jalon
@@ -25,7 +25,7 @@ Faire grandir Rhea dans une famille : la sœur, les amis d'enfance, l'atelier. L
 1. Sauvetage et le câlin [quelques semaines, 1903] : maison Rockbell. Sarah et Yuri, glacés : dans l'orbite vide, le cortex orbitofrontal n'est plus là - ils comprennent la lésion. Renutrition, soin de l'orbite (Pinako). Winry vient faire un câlin « comme si ça pouvait aider » - et ça aide : sa fonction de béquille est déjà là. Avance quand Rhea est stabilisée et recueillie.
 2. La sœur [continu, dès 1903] : maison Rockbell. Fusion avec Winry : elles dorment ensemble, Winry mémorise le rythme cardiaque de Rhea endormie (graine de Cliquetis), sait tout du passé, devient la structure (tri des pensées, parole posée). Cache-œil en cuir + tresses. « Maman/papa » en moins d'un mois. Avance quand le lien de sœur est établi.
 3. Le chevalier d'acier [ponctuel, 1903-1904] : voisinage Elric, atelier. Ed refuse de croire qu'elle transmute sans cercle ; les deux frères répètent « c'est pas possible », Winry vante sa sœur. Rhea va chercher une plaque à l'atelier et forge un petit chevalier en acier pour Al. Bouche bée ; elle rougit comme une tomate. Tchekhov : transmutation sans cercle connue des Elric ; penchant Al (planté). Avance quand l'amitié est nouée.
-4. La tarte chez Trisha [ponctuel, avant le printemps 1904] : maison Elric, avec Trisha, Ed, Al, Winry. Tarte aux pommes ; première maladresse ambulante : elle lâche qu'Alan aimait les pommes, elle les poires - Alan « juste » son frère mort de 4 ans, mais elle a une sœur vivante maintenant, alors contente quand même. Tchekhov : parallèle deuil-transmutation.
+4. La tarte chez Trisha [ponctuel, avant le printemps 1904] : maison Elric, avec Trisha, Ed, Al, Winry. Tarte aux pommes ; première maladresse ambulante, en banalité crue, comme une anecdote : son truc à elle, c'est plutôt les poires ; les pommes, c'était Alan ; Alan, c'était son frère ; il est mort, mais il ne lui manque plus, parce que maintenant elle a Winry, et Winry, elle l'aime plus. Tchekhov : parallèle deuil-transmutation.
 5. Les fleurs [ponctuel, avant le printemps 1904] : Resembool. Ed et Al accélèrent la pousse de fleurs ; elle déteste (trop organique) puis rit aux éclats. Refuse d'essayer : « on fait pas des automails en tulipes. » Elle tolère l'organique des autres, jamais le sien. Tchekhov : trauma de l'organique.
 6. Mort de Trisha [printemps 1904] : maison Elric, Resembool. Épidémie, malgré Pinako. Rhea tente de se projeter dans le deuil des frères via ce qu'elle ressentait pour Alan - maladroite. Ed s'énerve, les frères ignorant son affect cassé. Pardon rapide, mais l'ambiance a changé. Tchekhov : parallèle deuil-transmutation ; fracture de 1910 (préfiguration). Avance quand Trisha est enterrée et les Elric orphelins.
 7. Le tempérament se fige [~5 ans, 1903-1908] : les séquelles du cortex orbitofrontal durcissent en base stable : zéro empathie, impulsivité, zéro filtre, éponge à affection. Binaire adoration/détestation, zéro rancune sur les broutilles, plaie durable sur le grave. Winry = béquille permanente.

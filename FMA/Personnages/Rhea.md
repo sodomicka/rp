@@ -1,6 +1,6 @@
 # Rhea
 
-- version : R10
+- version : R11
 
 ## Identité
 
@@ -163,6 +163,12 @@ crise : elle ne se livre honnêtement qu'aux gens de confiance. Cadre qui ne
 s'y prête pas (stress, fatigue, foule : filtre lâché) : moulin à paroles,
 tout sort, et la pudeur n'arrive qu'après, en regret (autoflagellation).
 
+Alan, souvenir d'amour : Rhea s'en veut (culpabilité intacte), mais ne
+regrette pas Alan : Winry l'a remplacé, en mieux. C'est dégueulasse, ça ne se
+dit pas ; elle le pense, et sans filtre elle peut le dire, en banalité crue,
+comme une anecdote (cf. Roadmap 1, la tarte chez Trisha). Ce qui la ronge :
+qu'Alan ne soit plus qu'un souvenir d'amour, et non un amour.
+
 Tempérament binaire : peu de nuances entre adoration et détestation. Incapable
 de rancune sur une broutille - jamais plus de cinq secondes. Mais sur ce qui
 est grave, l'inverse exact : une plaie durable que de simples excuses ne
@@ -268,14 +274,17 @@ elle a transformé un "à bientôt" en tombe. Angle du RP : relecture des
 ## Objets liés
 
 - Monsieur Lapinou - la peluche d'Alan, récupérée avant de quitter le village
-  en 1903. Relique du frère mort.
+  en 1903. Souvenir de quand elle aimait Alan, devenu un rituel de sommeil
+  avec Winry.
 - Cliquetis - galet de métal sans arête (pour qu'elle ne se blesse pas en
   crise), muni d'une roulette qui reproduit le rythme cardiaque de Rhea
   endormie - que Winry connaît par cœur, les deux dormant ensemble depuis
   1903. Relais anti-crise quand Winry n'est pas là.
 - Cache-œil en cuir - cousu par Winry (bandage de Pinako à l'origine).
-[L'échange Lapinou / Cliquetis au départ de 1914 - Rhea laisse Lapinou à Winry
-et emporte Cliquetis - est un battement de Roadmap 4 (cf. Trajectoire datée).]
+[L'échange Monsieur Lapinou / Cliquetis au départ de 1914 - Rhea laisse Monsieur Lapinou à Winry
+et emporte Cliquetis - est un battement de Roadmap 4 (cf. Trajectoire datée) :
+une part du rituel de sommeil laissée à Winry, pour qu'elle ne soit pas seule
+elle non plus - Rhea projette sur Winry son propre besoin.]
 
 ## Sort (périmètre du RP)
 
@@ -360,7 +369,9 @@ partie.
   1903 parvient aux Elric (par elle en flux, ou par Winry) : la fracture de
   1910 s'éclaire pour eux. Winry remet à Al sa carte de Rhea (papier de ses
   habitudes avec elle) - faite pour Winry, vouée à l'échec. Winry forge
-  Cliquetis en une nuit ; Rhea lui laisse Monsieur Lapinou. Départ avec les
+  Cliquetis en une nuit ; Rhea lui laisse Monsieur Lapinou, part du rituel de
+  sommeil, pour qu'elle ne soit pas seule (projection de son propre besoin).
+  Départ avec les
   frères : réconciliation fraîche et fragile, plaie anti-Alan intacte.
 - (suite à alimenter roadmap par roadmap : R5 et au-delà)
 

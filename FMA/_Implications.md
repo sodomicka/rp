@@ -75,6 +75,12 @@ pas les re-litiger. JAMAIS fetché en narration.
   marcher - ce que Rhea aime, c'est que ce soit avec Winry : Al devra se
   construire la sienne (R5+). Rhea l'accepte sans intégration (outil /
   anti-Alan en alternance, COF).
+- ALAN SANS REGRET (décision worldbuilder) : Rhea s'en veut mais ne
+  regrette pas Alan, remplacé en mieux par Winry ; elle peut le dire (R1,
+  la tarte chez Trisha). Ce qui la ronge : un souvenir d'amour, plus un
+  amour. Monsieur Lapinou = souvenir de cet amour devenu rituel de sommeil
+  avec Winry (plus « ancre affective ») ; laissé à Winry en 1914 pour
+  qu'elle ne soit pas seule. Toujours écrire « Monsieur Lapinou » en entier.
 - REPÉRAGE SANS-CERCLE SUR PLACE (rework R3, acté) : plus jamais "eu vent
   avant la visite". Deux vecteurs : rumeur de village (le FAIT que la gamine
   Rockbell transmute sans cercle depuis toujours est de notoriété locale ;

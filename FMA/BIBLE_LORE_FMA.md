@@ -16,7 +16,7 @@
 - univers : Fullmetal Alchemist (branche manga / Brotherhood, continuité Arakawa)
 - sources primaires : manga Arakawa + anime Brotherhood (2009). Canon local prime sur 2003.
 - site_ref canon (Brotherhood, épisode par épisode) : `https://fma.fandom.com/wiki/Episode_<N>_(2009_Anime)` (N = 1 à 64 ; chaque page liste les chapitres manga adaptés). Secours : `https://fma.fandom.com/wiki/List_of_Fullmetal_Alchemist_episodes` ou recherche web. VÉRIFICATION uniquement : ni théories fans, ni copie de texte. Méthode de déroulement : cf. _Implications.md.
-- bible_version : B8
+- bible_version : B9
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/FMA/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/FMA/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/FMA/Partie1/`
@@ -144,7 +144,7 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Bras droit de Scar - bras greffé de son frère | alchimie de destruction | détruit la matière sans reconstruire | porté par Scar | établi. detail: cf. WIKI Personnages/Scar.md
 - Array d'alchimie de flamme - tatouage dans le dos de Riza | œuvre de Berthold Hawkeye | seul enregistrement complet de l'alchimie de flamme | brûlé en partie plus tard | établi. detail: cf. WIKI Personnages/Riza_Hawkeye.md
 - Grimoire d'alchimie du père de Rhea - traité complet incluant la théorie de la transmutation humaine | atelier du père mineur | source de la transmutation de 1903 | perdu/détruit avec le village | OC. detail: cf. WIKI Roadmap/Rhea/Roadmap0_La_Porte.md
-- Monsieur Lapinou - peluche du frère cadet de Rhea (Alan) | récupérée au départ du village natal (1903) | relique du frère mort, ancre affective de Rhea | laissée à Winry au départ de 1914 | OC. detail: cf. WIKI Personnages/Rhea.md
+- Monsieur Lapinou - peluche du frère cadet de Rhea (Alan) | récupérée au départ du village natal (1903) | souvenir de quand elle aimait Alan, devenu rituel de sommeil avec Winry | laissé à Winry au départ de 1914, part du rituel pour qu'elle ne soit pas seule | OC. detail: cf. WIKI Personnages/Rhea.md
 - Cliquetis - galet de métal sans arête (pour ne pas blesser Rhea en crise) | forgé par Winry en une nuit avant le départ de 1914 | roulette reproduisant le rythme cardiaque de Rhea endormie ; relais anti-crise en l'absence de Winry | emporté par Rhea avec le Fullmetal | OC. detail: cf. WIKI Personnages/Rhea.md
 - Cache-œil en cuir - couvre l'orbite droite vide de Rhea | cousu par Winry (bandage de Pinako à l'origine) | dissimule la plaie du péage cognitif | porté par Rhea | OC. detail: cf. WIKI Personnages/Rhea.md
 
@@ -173,4 +173,4 @@ Index détaillé page-par-page : cf. WIKI FMA/Sommaire.md
 
 ---
 
-FIN_BIBLE_B8
+FIN_BIBLE_B9

@@ -1,6 +1,6 @@
 # Sommaire - FMA
 
-- version : W10
+- version : W11
 
 ## WIKI
 
@@ -45,15 +45,15 @@ Description : fiches neutres canon des entités qui pèsent sur le RP, plus la p
 - Bradley_Wrath.md (W1) - Généralissime et homonculus Wrath
 - Pere.md (W1) - homonculus originel, maître de la conspiration
 - Izumi_Curtis.md (W2) - maîtresse des Elric (1909), miroir thématique du deuil-transmutation ; sait dès 1909 qu'une gamine transmute sans cercle
-- Rhea.md (R10) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (1910 -> départ de 1914) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises, agoraphobie, pudeur a posteriori), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
+- Rhea.md (R11) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (1910 -> départ de 1914) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises, agoraphobie, pudeur a posteriori), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
 
 ### Roadmap/Rhea/
 Description : itinéraires par arc, dans l'ordre de la saga, par perspective de la protagoniste. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).
-- Roadmap0_La_Porte.md (W2) - 1903, ~2 semaines : générateur d'origine, du rituel à l'arrivée à Resembool (Porte, péage, secours Pinako). Linéaire, VERROUILLÉ (ne détone jamais)
-- Roadmap1_Grandir_A_Resembool.md (W2) - 1903 -> fin 1908, ~5 ans en vignettes : de l'arrivée à Resembool au silence des parents partis en 1907 (adoption, sœur Winry, amitiés Elric, tempérament figé, automail)
+- Roadmap0_La_Porte.md (W3) - 1903, ~2 semaines : générateur d'origine, du rituel à l'arrivée à Resembool (Porte, péage, secours Pinako). Linéaire, VERROUILLÉ (ne détone jamais)
+- Roadmap1_Grandir_A_Resembool.md (W3) - 1903 -> fin 1908, ~5 ans en vignettes : de l'arrivée à Resembool au silence des parents partis en 1907 (adoption, sœur Winry, amitiés Elric, tempérament figé, automail)
 - Roadmap2_Ishval_La_Nouvelle.md (W2) - 1909, ~1 an : du départ des frères chez Izumi à leur retour (la nouvelle des parents, les jumelles, naissance de l'antimilitarisme, ce qu'Izumi sait)
 - Roadmap3_Transmutation_Elric_Et_Mustang.md (W4) - 1910 -> mi-1911, ~1 an et demi : transmutation cachée des Elric, fracture, visite Mustang (repérage sur place), année d'atelier, départ d'Ed. Ouvre la Trajectoire datée de Rhea
-- Roadmap4_L_Examen_Et_Le_Depart.md (W2) - automne 1911 -> 1914, ~2 ans et demi : examen et incendie, froid en snapshots, retour des frères, révélation du 1903, Al proposé comme appui (carte de Winry), Cliquetis et Lapinou, départ avec les Elric (arrêt avant Liore)
+- Roadmap4_L_Examen_Et_Le_Depart.md (W3) - automne 1911 -> 1914, ~2 ans et demi : examen et incendie, froid en snapshots, retour des frères, révélation du 1903, Al proposé comme appui (carte de Winry), Cliquetis et Monsieur Lapinou, départ avec les Elric (arrêt avant Liore)
 - (roadmaps R5 à R14 - à construire en boucle serrée, Passe 2 en cours)
 
 > NON INDEXÉS. Le garde-cap (`Roadmap/Rhea/00_Garde_Cap.md`) : source de build, jamais fetché en narration. `Parties/<Partie>/Memoires/` : archives narratives interdites en jeu (sauf ordre OOC explicite), consultées au BUILD seulement par listing direct du dossier. Indexer un dossier le fait paraître fetchable en narration. Cf. SPEC_CODEX 4ter, livrable 3.
