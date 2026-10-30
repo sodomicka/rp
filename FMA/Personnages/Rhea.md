@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W12
+- version : W13
 
 ## Identité
 
@@ -380,7 +380,21 @@ partie.
   mort, Rhea voit son propre 1903 sans en livrer le pourquoi. Ed démasque
   Cornello, la Pierre est fausse : la quête devient concrète. Rien des
   homonculus ne lui parvient. Al commence à l'observer pour son compte.
-- (suite à alimenter roadmap par roadmap : R6 et au-delà)
+- 1914 (R6) - East City et Scar. Retrouvailles froides avec Mustang et
+  Riza ; pas de nouvelle offre. Chez Tucker, Nina et Alexander s'attachent
+  à elle ; Tucker les fond en chimère : la chose de 1903 et de 1910, mais
+  avec une âme qui parle. Elle ne les achève pas. Mustang dit devant elle
+  qu'un Alchimiste d'État doit être prêt à tuer. Scar tue Tucker et la
+  chimère, puis détruit sous la pluie le bras d'Ed et l'armure d'Al : elle
+  sait qu'il est ishval et tueur d'Alchimistes d'État, ignore qu'il a tué
+  Sarah et Yuri. Elle reconstruit l'armure d'Al dans la nuit, sceau
+  intouché ; Al note ce qui marche sans Winry (le travail du métal) :
+  première ligne de sa propre carte. Dans le train, Armstrong ; chez
+  Marcoh, une Pierre incomplète qui ne ressemble à aucun minéral. Retour à
+  Resembool : retrouvailles avec Winry, rituel de sommeil retrouvé, bras
+  d'Ed forgé à quatre mains. Armstrong loge chez les Rockbell et pleure
+  Ishval. Second départ, vers Central ; Winry reste.
+- (suite à alimenter roadmap par roadmap : R7 et au-delà)
 
 ## Renvois
 

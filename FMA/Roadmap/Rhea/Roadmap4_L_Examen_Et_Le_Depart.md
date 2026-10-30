@@ -1,6 +1,6 @@
 # Roadmap 4 - L'examen et le départ
 
-- version : W3
+- version : W4
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (13 -> 16 ans), POV strict
 - échelle temporelle : ~2 ans et demi (automne 1911 -> 1914) : quelques jours en 1911 (la nouvelle, l'incendie, le quai), une ellipse de ~2 ans et demi en vignettes, quelques jours en 1914 (le retour, la proposition, la veille, le départ)
@@ -13,7 +13,7 @@
   - Monsieur Lapinou est resté à Winry, Cliquetis part avec Rhea ;
   - Rhea part pour progresser et être utile à sa sœur, sans lâcher son antimilitarisme.
 - roadmap précédente : cf. WIKI Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md
-- roadmap suivante : Roadmap 5 - Liore (à écrire)
+- roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap5_Liore.md
 
 ## Intention
 Trois ans de froid, puis le dégel forcé. Rhea regarde les frères brûler leur maison et partir sans un mot, puis elle stagne à Resembool pendant que Winry rêve plus grand. Quand ils reviennent avec une piste, c'est sa sœur qui la pousse dehors : Rhea part pour ne pas la retenir.

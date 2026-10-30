@@ -6,11 +6,11 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B10 (Roadmap 5, 2026-10-30)
+- dernière mise à jour : BIBLE B11 (Roadmap 6, 2026-10-30)
 
 ## État d'avancement du chantier
-- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R5 (1903 -> Liore
-  1914, au gabarit SPEC v9.2 §7). R6 à R14 restent à écrire en boucle
+- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R6 (1903 -> East City
+  1914, au gabarit SPEC v9.2 §7). R7 à R14 restent à écrire en boucle
   serrée. Passe d'immersion (modes d'étape,
   tranches de vie) non faite sur R0-R4.
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
@@ -114,17 +114,35 @@ pas les re-litiger. JAMAIS fetché en narration.
   pas une question de build. La roadmap pose seulement les conséquences
   par défaut (Liore : Cornello meurt sans parler, rien ne remonte aux
   homonculus).
+- R6 - RETOUR À RESEMBOOL MAINTENU (tranché en mode usine, R6) : Rhea forge
+  le métal mais un bras d'automail complet exige l'atelier Rockbell et le
+  raccord nerveux (Winry, Pinako). Elle refait l'armure d'Al sur place
+  (sceau intouché) ; le bras d'Ed se forge à quatre mains à Resembool.
+- R6 - SCAR / PARENTS NON DÉTONÉ (tranché en mode usine, R6, canon comme
+  rail) : le garde-cap disait « détoné en R6 » sur une prémisse canon
+  fausse. En canon, personne ne relie Scar aux Rockbell à East City : Ed
+  l'apprend à Resembool par des réfugiés ishvals (ép. 18), Winry à Central
+  en entendant Ed interroger Scar (ép. 22). R6 = face-à-face sans
+  révélation ; détonation avec Winry, roadmap à fixer. Rhea ne ment pas à
+  Winry : si elle apprend la première, elle le lui dit.
+- R6 - NINA VERROUILLÉE : Rhea n'achève ni Nina ni Tucker (Scar les tue).
+  Différence avec 1910 : la chimère a une âme et parle.
 
 ## Points ouverts (à trancher en Passe 2, roadmap par roadmap)
 - Statut de sacrifice de Rhea (Roadmap 12) : repérage désormais ÉTAYÉ
   (Mustang a VU la démonstration en 1910). Que devient l'info côté armée
   (rapport écrit ? bouche cousue ?). À trancher en écrivant Roadmap 12.
   Par défaut : hors radar de Père.
-- R6 : en canon, Scar détruit le bras d'Ed et les frères rentrent à
-  Resembool pour que Winry le refasse. Avec Rhea dans le trio, le retour
-  reste-t-il nécessaire ? À cadrer en R6. Lieu canon probable : East City.
-- Contentieux Scar double avec Winry (Roadmap 6) : divergence assumée vs canon,
-  à cadrer au moment d'écrire la roadmap.
+- RECALAGE R7-R10 (à faire en écrivant R7) : l'ordre canon met la mort de
+  Hughes (ép. 10) AVANT Rush Valley (ép. 11) et Dublith (ép. 12-14) ;
+  Winry est appelée à Central dès l'ép. 9. Le garde-cap (R8 Rush Valley,
+  R9 Dublith, R10 Hughes) ne suit pas cet ordre : balise posée au garde-cap.
+- Détonation Scar / parents : roadmap à fixer (celle qui porte les
+  ép. 18-22). Ed apprend d'abord (Resembool, ép. 18) : Rhea est-elle avec
+  lui ? Si oui, elle ne peut pas le cacher à Winry (cf. décision R6).
+- Ce que Scar retient de Rhea (si elle a transmuté devant lui en R6) : un
+  visage de seconde sans-cercle, sans nom. À reprendre aux roadmaps où il
+  recroise le trio.
 - Réconciliation Rhea/Al : FRAÎCHE et fragile au départ de 1914 (R4), consolidée
   au fil du canon. Vérifier la cohérence quand les roadmaps 5-14 seront écrites.
 
@@ -135,6 +153,11 @@ pas les re-litiger. JAMAIS fetché en narration.
   "engagée pour protéger quelqu'un" (à Winry) et "pas une bête sauvage -
   une gamine qui aura envie de faire bouger les choses" (à Roy). Savoir du
   joueur, hors prose -> CODEX ANNEXE_SAVOIRS au moment du CODEX V1.
+- IRONIE Scar (R6, 1914) : Rhea peut applaudir un tueur d'Alchimistes
+  d'État, puis le voir briser Ed et Al, sans savoir qu'il a tué Sarah et
+  Yuri - ni lui qu'elle est leur fille. -> CODEX ANNEXE_SAVOIRS.
+- IRONIE Armstrong (R6) : l'Alchimiste d'État logé chez les Rockbell est
+  celui qui a refusé de continuer à Ishval.
 
 ## [INCERTAIN] laissés volontairement en suspens (ne pas armer)
 - Numéro de l'ordre d'extermination d'Ishval : "3066" ou "306". Non tranché.

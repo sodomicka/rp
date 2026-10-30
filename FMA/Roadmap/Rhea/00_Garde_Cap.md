@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W5
+- version : W6
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -101,13 +101,23 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   Rose en miroir du 1903 ; la carte de Winry échoue, Al commence la sienne.
   Écrite (W1).
 
-### Roadmap 6 - East City : Tucker, Nina, première lame de Scar
-- [À RECALER EN R6] Lieu canon probable : East City (QG de Mustang), pas Central.
-- Hughes, Armstrong, Sheska ; Shou Tucker et Nina ; Scar apparaît et frappe.
-- Tchekhov : Scar / parents DÉTONÉ (Rhea face au tueur ; contentieux double avec Winry).
+### Roadmap 6 - East City et Scar
+- East City (QG de Mustang) : Shou Tucker et Nina ; Scar tue Tucker, détruit
+  le bras d'Ed et l'armure d'Al (reconstruite par Rhea) ; Hughes, Armstrong ;
+  train avec Armstrong, Marcoh et sa Pierre incomplète ; retour à Resembool
+  (bras d'Ed forgé avec Winry), second départ vers Central. Écrite (W1).
+- Tchekhov : Scar / parents ARMÉ, pas détoné : face-à-face sans révélation
+  (canon : Ed apprend ép. 18, Winry ép. 22). Sheska passe en R7.
 
 ### Roadmap 7 - Laboratoire 5
-- âmes scellées (miroir d'Al) ; Lust et Envy ; la vérité de la Pierre philosophale.
+- Central : bibliothèque brûlée, Sheska, notes de Marcoh décodées (la Pierre
+  = vies humaines) ; Ross et Brosh ; Laboratoire 5, âmes scellées (miroir
+  d'Al) ; Lust et Envy ; Winry appelée à Central (canon ép. 9).
+- [À RECALER EN R7-R10] Ordre canon : Hughes meurt ép. 10, AVANT Rush Valley
+  (ép. 11) et Dublith (ép. 12-14) ; le découpage R8-R10 ci-dessous ne suit
+  pas cet ordre. Détonation Scar / parents : ép. 18 (Ed, Resembool, réfugiés
+  ishvals) puis ép. 22 (Winry, Central) - placer dans la roadmap qui porte
+  ces épisodes, contentieux double avec Winry.
 
 ### Roadmap 8 - Rush Valley
 - Winry rejoint ; Ling Yao et Xing ; respiration sororale ; automail.
@@ -139,7 +149,10 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
 - Statut de sacrifice de Rhea (Roadmap 12) : repérage ÉTAYÉ par Mustang en
   1910 (rumeur de village + démonstration à l'atelier) - que devient l'info
   côté armée (rapport écrit ? bouche cousue ?). Par défaut : hors radar de Père.
-- Contentieux Scar double avec Winry (Roadmap 6) : divergence assumée vs canon.
+- Contentieux Scar double avec Winry : face-à-face R6 sans révélation ;
+  détonation avec Winry (canon ép. 18-22), roadmap à fixer au recalage R7-R10.
+  Rhea ne peut pas mentir à Winry (carte) : si elle apprend avant Winry, elle
+  le lui dira.
 - Réconciliation Rhea/Al : FRAÎCHE au départ (charnière), consolidée au fil du canon.
 - [INCERTAIN] Numéro de l'ordre d'extermination d'Ishval (3066 / 306) : non tranché.
 

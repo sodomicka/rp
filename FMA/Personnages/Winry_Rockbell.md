@@ -1,6 +1,6 @@
 # Winry Rockbell
 
-- version : W4
+- version : W5
 
 ## Identité
 
@@ -38,7 +38,7 @@ Savoir chirurgical notable pour son âge (famille de chirurgiens), sans formatio
 ## Fils narratifs (neutres)
 
 - Prise en otage implicite par les homonculus pour contraindre les Elric (canon, trame principale).
-- Apprend tard que Scar a tué ses parents (1914 dans le canon).
+- Apprend tard que Scar a tué ses parents (1914, canon : entend Ed interroger Scar à Central, ép. 22 ; Ed le savait depuis l'ép. 18).
 - 1910 : échange avec Riza pendant la visite de Mustang (canon) - proteste
   qu'on lui a déjà pris ses parents ; Riza répond que le choix appartient aux
   frères seuls, et qu'elle s'est engagée pour protéger quelqu'un.
@@ -62,6 +62,11 @@ Sororité fusionnelle avec la protagoniste (jumelles après 1909). Winry connaî
   remet sa carte de Rhea (papier de ses habitudes avec sa sœur). Forge Cliquetis en
   une nuit ; garde Monsieur Lapinou. Reste à Resembool (canon : elle ne
   rejoint les frères qu'à Central, puis Rush Valley).
+- 1914 (R6) : retrouvailles à Resembool, après Scar. Refait le bras d'Ed
+  avec Pinako, sur un métal forgé avec Rhea ; rituel de sommeil retrouvé
+  avec Monsieur Lapinou. Apprend que sa carte n'a pas pris et que Cliquetis
+  a tenu ; passe le relais à Al. Entend parler d'un tueur ishval sans faire
+  le lien avec ses parents. Reste à Resembool au second départ.
 
 ## Sort connu (canon)
 
@@ -75,6 +80,7 @@ Survit à la trame. Épouse Edward. Poursuit sa carrière d'ingénieure d'automa
 - Scar : cf. Personnages/Scar.md
 - 1910-1911 : cf. Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md
 - 1911-1914 : cf. Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md
+- 1914, Resembool après Scar : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md
 
 ---
 

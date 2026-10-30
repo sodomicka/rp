@@ -1,6 +1,6 @@
 # Roadmap 5 - Liore
 
-- version : W1
+- version : W2
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : ~1 semaine (1914) : le voyage depuis Resembool, ~2 jours à Liore, le départ
@@ -14,7 +14,7 @@
   - Rhea a vu Ed toucher la Pierre du doigt et la perdre : la quête n'est plus une abstraction ;
   - rien des homonculus n'est parvenu à Rhea.
 - roadmap précédente : cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md
-- roadmap suivante : Roadmap 6 (à écrire)
+- roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md
 
 ## Intention
 Première sortie du monde connu, sans Winry. Liore met Rhea face à une ville entière qui veut ce qu'elle a fait en 1903, et face à une Rose qui attend son mort. La carte de Winry échoue dès la première crise : Al découvre qu'il ne peut pas être Winry, Rhea découvre ce que vaut Cliquetis seul.
@@ -58,7 +58,7 @@ Première sortie du monde connu, sans Winry. Liore met Rhea face à une ville en
 - Voir Lust ou Gluttony, ou apprendre la mort de Cornello - les homonculus restent hors du savoir de Rhea, et elle hors de leur radar (statut de sacrifice : Roadmap 12).
 - Apprendre la vraie nature de la Pierre philosophale (âmes humaines) - réservé au Laboratoire 5 (Roadmap 7) ; à Liore on sait seulement qu'elle est fausse.
 - Révéler le pourquoi du sans-cercle (le 1903) à Rose, à Cornello ou à quiconque hors Elric et Rockbell - le pourquoi reste verrouillé.
-- Croiser Scar ou apprendre l'identité du tueur de Sarah et Yuri - réservé à Roadmap 6.
+- Croiser Scar - réservé à Roadmap 6 ; l'identité du tueur de Sarah et Yuri vient plus tard encore.
 - Rester à Liore - la ville bascule après le départ (Envy sous les traits de Cornello) ; Rhea n'en sait rien en R5.
 - Rejoindre l'armée ou se lier au statut d'Alchimiste d'État - antimilitarisme sur toute la saga.
 - Revoir Winry - elle rejoint les frères plus tard (Roadmap 6 au plus tôt).

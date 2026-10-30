@@ -1,6 +1,6 @@
 # Résumé - FMA
 
-- version : W4
+- version : W5
 
 Résumé de l'histoire telle qu'établie pour ce RP : canon Brotherhood condensé, trajectoire de la protagoniste OC (Rhea) et divergences actées. Faits seuls, pas de déroulé : le détail vit dans les roadmaps et les fiches.
 
@@ -20,14 +20,16 @@ Résumé de l'histoire telle qu'établie pour ce RP : canon Brotherhood condens�
 - 1910-1911 - la fracture (R3). Ed et Al tentent de ramener Trisha sans la prévenir. Rhea trouve la scène la première et achève la chose au pic de béton sans ciller ; elle explose contre les frères et contre elle-même, ne dit rien de son 1903 et coupe les ponts. Al devient l'anti-Alan (à elle il manquait une âme, lui n'est plus qu'une âme) : l'attirance meurt, reste une dissonance sans résolution. Mustang recrute Ed puis commet l'erreur de faire la même offre à Rhea dans l'atelier : jurons, « génocidaire », chutes d'automail transmutées en armes sous ses yeux, Winry s'interpose et congédie les militaires. Mustang a repéré la troisième sans-cercle (rumeur de village + démonstration). Ed choisit l'automail et tient son défi d'un an ; Rhea soigne sa prothèse sans lui adresser un mot. Al n'a pas le sans-cercle (aucun souvenir de la Porte) ; Rhea l'apprend par Winry. Ed part pour Central.
 - 1911-1914 - l'examen et le départ (R4). Ed revient Alchimiste d'État, montre d'argent en poche ; Rhea regarde les frères brûler leur maison et les voit partir sans un mot. Le froid dure deux ans et demi : Ed revient pour l'entretien de son automail, Rhea le soigne en silence ; Winry entraîne son filtre et rêve de Rush Valley ; Rhea stagne. En 1914, les frères reviennent, automail amoché, avec une piste solide sur la Pierre (Liore). Ed rompt le silence, poussé par Al et Winry. Winry et Pinako convainquent Rhea de partir : elle ne tiendrait pas à Rush Valley et refuse de brider le rêve de sa sœur. Son 1903 parvient enfin aux Elric. Winry lui forge Cliquetis (galet au rythme de son cœur) ; Rhea lui laisse Monsieur Lapinou et part avec les frères. Réconciliation fraîche et fragile.
 - 1914 - Liore (R5). Premier voyage de Rhea hors de Resembool depuis 1903, sans Winry. Première crise loin d'elle : Al applique la carte de Winry, ça ne prend pas ; Cliquetis tient le relais, mal. Rose attend que Cornello lui rende son fiancé mort : Rhea y voit son propre 1903, sans en dire le pourquoi. Ed démasque Cornello, la Pierre est fausse. Al commence à se construire sa propre carte de Rhea.
-- 1914-1915 - relecture du canon (R6 à R14, cap seulement). Rhea traverse la trame Brotherhood aux côtés des frères, d'East City au Jour Promis, puis retour à Resembool (bouclage Monsieur Lapinou / Cliquetis). Points de décision réservés : face à Scar (R6, contentieux double avec Winry) ; face à Izumi (R9, miroir deuil-transmutation) ; statut de sacrifice (R12 : hors radar de Père par défaut, repérage étayé côté armée depuis 1910).
+- 1914 - East City et Scar (R6). Mustang revu, sans nouvelle offre. Shou Tucker fond sa fille Nina et le chien Alexander en chimère ; Rhea, à qui Nina s'était attachée, revoit la chose de 1903 avec une âme en plus. Mustang dit qu'un Alchimiste d'État doit être prêt à tuer. Scar, tueur ishval d'Alchimistes d'État, tue Tucker et la chimère, brise le bras d'Ed et l'armure d'Al puis fuit ; personne ne sait encore qu'il a tué Sarah et Yuri. Rhea refait l'armure d'Al dans la nuit, et la carte d'Al prend sa première ligne. Armstrong les escorte ; Marcoh, médecin déserteur, montre sa Pierre incomplète et indique Central. À Resembool, Rhea forge avec Winry le nouveau bras d'Ed, puis repart une seconde fois.
+- 1914-1915 - relecture du canon (R7 à R14, cap seulement). Rhea traverse la trame Brotherhood aux côtés des frères, d'East City au Jour Promis, puis retour à Resembool (bouclage Monsieur Lapinou / Cliquetis). Points de décision réservés : identité du tueur des parents (canon ép. 18-22, contentieux double avec Winry) ; face à Izumi (R9, miroir deuil-transmutation) ; statut de sacrifice (R12 : hors radar de Père par défaut, repérage étayé côté armée depuis 1910).
 
 ## Divergences actées vs canon
 
 - Protagoniste OC : Rhea, troisième survivante de la Porte à Resembool, péage cognitif (œil droit + cortex orbitofrontal). Extension cohérente du péage-désir, pas une contradiction.
 - Mustang repère sur place une troisième alchimiste sans cercle en 1910 (rumeur de village + démonstration à l'atelier). Que devient l'info côté armée : à trancher en R12.
 - Les frères repassent à Resembool en 1914, avant Liore, pour recruter Rhea (le canon ne les y ramène pas avant).
-- Contentieux Scar / parents Rockbell double : Winry ET Rhea (R6).
+- Contentieux Scar / parents Rockbell double : Winry ET Rhea. Premier face-à-face en R6, sans révélation (conforme au canon) ; détonation avec Winry plus tard.
+- R6 : Rhea reconstruit l'armure d'Al dès East City (en canon, Ed la refait à Resembool) ; le bras d'Ed est forgé avec elle.
 - Rhea accompagne les frères dès 1914 ; Winry lui forge Cliquetis, elle laisse Monsieur Lapinou. Winry, elle, reste à Resembool comme en canon.
 - Alphonse : conforme au canon (aucun souvenir de la Porte, pas de sans-cercle avant tard dans la trame).
 

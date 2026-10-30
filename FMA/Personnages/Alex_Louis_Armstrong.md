@@ -1,0 +1,73 @@
+# Alex Louis Armstrong
+
+- version : W1
+
+## Identité
+
+Major de l'armée d'Amestris, Alchimiste d'État : le Strong Arm Alchemist
+(l'Alchimiste au bras puissant). Héritier de la grande famille Armstrong,
+lignée militaire et alchimique de Central. Frère cadet d'Olivier Mira
+Armstrong (commandante de Briggs).
+
+## Physique
+
+Colosse chauve, musculature hors norme, une seule mèche blonde sur le front,
+moustache en crocs. Uniforme souvent tombé sur un torse nu. Gantelets de
+combat à cercle de transmutation gravé.
+
+## Personnalité
+
+Sentimental et démonstratif : pleure à chaudes larmes, étreint à broyer les
+côtes, exhibe ses muscles à tout propos. Bienveillant, protecteur, loyal.
+Sous le comique, une conscience : il porte Ishval comme une faute
+personnelle. Tient aux « techniques transmises dans la famille Armstrong
+depuis des générations ».
+
+## Capacités
+
+Alchimie de la pierre et du minéral par les gantelets : un coup de poing
+transmute le sol, le mur ou la roche en projectiles et en piques. Art
+martial familial ; force physique colossale. Cercle requis (gravé sur les
+gantelets) : pas de sans-cercle.
+
+## Histoire (jusqu'au point de départ du RP)
+
+Guerre d'Ishval : déployé comme Alchimiste d'État ; incapable de continuer
+le massacre, il est renvoyé du front [CANON SUPPOSÉ : rapatrié pour
+avoir refusé de poursuivre]. En garde une honte et une compassion durables envers les
+Ishvals.
+1914 : envoyé avec Hughes, sur ordre du Généralissime, traquer le tueur
+d'Alchimistes d'État dans l'Est.
+
+## Relations (neutres)
+
+- Edward et Alphonse Elric - les prend sous son aile ; escorte, puis allié.
+- Roy Mustang, Maes Hughes - camarades ; confiance mutuelle.
+- Olivier Mira Armstrong - sœur aînée redoutée, qui le juge faible.
+- Scar - adversaire direct à East City (1914).
+
+## Rapport à la protagoniste
+
+- 1914 (R6) : premier Alchimiste d'État que Rhea voit pleurer Ishval. Il
+  combat Scar sous ses yeux, escorte le trio jusqu'à Resembool et loge chez
+  les Rockbell : un militaire dans la maison, comme Mustang en 1910, mais
+  qui a refusé de continuer. Son domaine (la pierre) touche celui de Rhea
+  (le minéral). Il la voit peut-être transmuter sans cercle ; son rapport
+  porte sur Scar (statut de sacrifice : Roadmap 12). Détail : cf.
+  Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md.
+
+## Sort connu (canon)
+
+Allié des Elric et de Mustang jusqu'au Jour Promis. Combat Sloth avec sa
+sœur, Izumi et Sig. Survit.
+
+## Renvois
+
+- Armée, Alchimistes d'État : cf. Factions/Armee_Amestris.md
+- Ishval : cf. Lieux/Ishval.md
+- Scar : cf. Personnages/Scar.md
+- 1914 : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md
+
+---
+
+FIN_WIKI_PERSONNAGES_ALEX_LOUIS_ARMSTRONG
