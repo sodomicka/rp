@@ -1,6 +1,6 @@
 # Winry Rockbell
 
-- version : W3
+- version : W4
 
 ## Identité
 
@@ -57,7 +57,9 @@ Sororité fusionnelle avec la protagoniste (jumelles après 1909). Winry connaî
   abort). Rêve de Rush Valley ; Rhea sait qu'elle n'y tiendrait pas.
 - 1914 (R4) : pousse Ed à recruter Rhea, puis convainc Rhea de partir avec
   Pinako (Rush Valley ou stagner, non ; progresser, oui). Relais possible de
-  la révélation du 1903 aux Elric si c'est trop pour Rhea. Forge Cliquetis en
+  la révélation du 1903 aux Elric si c'est trop pour Rhea. Lui demande
+  d'apprendre à compter sur d'autres qu'elle, propose Al comme appui et lui
+  remet sa carte de Rhea (papier de ses habitudes avec sa sœur). Forge Cliquetis en
   une nuit ; garde Monsieur Lapinou. Reste à Resembool (canon : elle ne
   rejoint les frères qu'à Central, puis Rush Valley).
 

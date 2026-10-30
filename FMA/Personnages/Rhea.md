@@ -1,6 +1,6 @@
 # Rhea
 
-- version : R9
+- version : R10
 
 ## Identité
 
@@ -354,8 +354,12 @@ partie.
   en route, consolidation du métal de l'armure d'Al, jamais le sceau). Winry et
   Pinako la convainquent : Rush Valley ou stagner, non ; partir et progresser
   pour être utile à sa sœur, oui. Elle accepte la séparation temporaire pour
-  ne pas brider le rêve de Winry. Le 1903 parvient aux Elric (par elle en
-  flux, ou par Winry) : la fracture de 1910 s'éclaire pour eux. Winry forge
+  ne pas brider le rêve de Winry. Winry lui demande d'apprendre à compter sur
+  d'autres qu'elle ; Rhea refuse tout inconnu ; Winry propose Al, accepté
+  sans intégration (outil comme Cliquetis / anti-Alan, en alternance). Le
+  1903 parvient aux Elric (par elle en flux, ou par Winry) : la fracture de
+  1910 s'éclaire pour eux. Winry remet à Al sa carte de Rhea (papier de ses
+  habitudes avec elle) - faite pour Winry, vouée à l'échec. Winry forge
   Cliquetis en une nuit ; Rhea lui laisse Monsieur Lapinou. Départ avec les
   frères : réconciliation fraîche et fragile, plaie anti-Alan intacte.
 - (suite à alimenter roadmap par roadmap : R5 et au-delà)
