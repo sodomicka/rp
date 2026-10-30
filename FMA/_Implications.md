@@ -10,7 +10,9 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 ## État d'avancement du chantier
 - Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R3 (1903 -> mi-1911 ;
-  R0-R2 en W1, R3 en W2). R4 à R14 restent à écrire en boucle serrée.
+  R0-R2 en W2, R3 en W3, toutes au gabarit SPEC v9.2 §7). R4 à R14 restent à
+  écrire en boucle serrée. Passe d'immersion (modes d'étape, tranches de vie)
+  non faite sur R0-R3.
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
   En jeu, la roadmap en cours est un document de jeu (SPEC v9.2 §7).
 - Passe 3 (SETUP puis CODEX V1) : non entamée. Pas de fiche d'arc (doctrine
