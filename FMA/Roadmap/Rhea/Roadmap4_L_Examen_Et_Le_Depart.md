@@ -1,6 +1,6 @@
 # Roadmap 4 - L'examen et le départ
 
-- version : W1
+- version : W2
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (13 -> 16 ans), POV strict
 - échelle temporelle : ~2 ans et demi (automne 1911 -> 1914) : quelques jours en 1911 (la nouvelle, l'incendie, le quai), une ellipse de ~2 ans et demi en vignettes, quelques jours en 1914 (le retour, la proposition, la veille, le départ)
@@ -31,16 +31,17 @@ Trois ans de froid, puis le dégel forcé. Rhea regarde les frères brûler leur
    Avance au retour des frères en 1914.
 5. Le retour [1914, quelques jours] : maison Rockbell, atelier. Les frères reviennent : l'automail d'Ed est amoché. Rhea le répare, toujours en silence. Avance quand l'automail est réparé.
 6. La proposition [même séjour] : maison Rockbell. Les frères ont une piste solide sur la Pierre philosophale (rumeur de Liore : un prêtre à miracles) et ont besoin de Rhea : réparer l'automail en route, par alchimie, et consolider le métal de l'armure d'Al (jamais le sceau). C'est Ed qui rompt le silence, le plus dur à convaincre, poussé par Al et par Winry. Avance quand l'offre est posée.
-7. Le conseil de famille [même séjour] : maison Rockbell. Winry et Pinako la convainquent. Trois issues sur la table : Rush Valley, où Rhea ne tiendrait pas et où elle limiterait Winry dans son rêve ; stagner à Resembool ; partir et progresser pour être utile à sa sœur. Rhea accepte la séparation temporaire parce qu'elle refuse de brider Winry. Avance quand Rhea accepte.
+7. Le conseil de famille [même séjour] : maison Rockbell. Winry et Pinako la convainquent. Trois issues sur la table : Rush Valley, où Rhea ne tiendrait pas et où elle limiterait Winry dans son rêve ; stagner à Resembool ; partir et progresser pour être utile à sa sœur. Rhea accepte la séparation temporaire parce qu'elle refuse de brider Winry. Winry pose sa vraie demande : que sa sœur apprenne à compter sur d'autres qu'elle. Rhea refuse qu'un inconnu vienne l'aider, en boucle, à plat. Winry propose Al : pas un inconnu (et elle sait, par leurs complots du soir, ce qu'elle fait). Rhea accepte sans intégrer : Al est tour à tour un outil, comme Cliquetis, et l'anti-Alan - les deux évaluations alternent, jamais fondues (COF). Tchekhov : nœud Rhea/Al. Avance quand Rhea accepte de partir et d'avoir Al pour appui.
 8. La révélation [avant le départ, moment au choix du jeu] : maison Rockbell. Le 1903 de Rhea (transmutation, Porte, péage, lésion) parvient aux Elric. Requise avant le départ ; la manière se joue en jeu : Rhea en flux sous le stress (pudeur a posteriori : regret et autoflagellation après coup), ou Winry qui raconte si c'est trop pour Rhea. Rétroactivement, la fracture de 1910 s'éclaire pour les frères. Tchekhov : révélation du 1903 aux Elric (détone) ; parallèle deuil-transmutation. Avance quand les Elric savent.
-9. La veille [la dernière nuit] : chambre des sœurs. Winry forge Cliquetis en une nuit : galet de métal sans arête, roulette au rythme cardiaque de Rhea endormie. Rhea lui laisse Monsieur Lapinou. Avance au matin.
-10. Le seuil [le départ] : maison Rockbell, gare. Rhea quitte Resembool avec le Fullmetal et Al. Réconciliation fraîche et fragile. Arrêt juste avant le départ pour Liore -> clôt R4.
+9. La passation [avant le départ, après la révélation] : maison Rockbell. Winry donne à Al sa carte de Rhea : un papier où elle répertorie ses habitudes avec sa sœur (pression de main = abort du filtre, questions à plat sur le second degré, enlacement en crise, ce qui la fait déraper). Elle n'a de sens qu'une fois le 1903 et la lésion révélés. Cadrage MJ, hors prose : la carte ne peut pas marcher - elle répertorie ce qui marche avec Winry, et ce que Rhea aime, c'est que ce soit avec Winry ; Al devra se construire la sienne. Tchekhov : nœud Rhea/Al. Avance quand Al a la carte.
+10. La veille [la dernière nuit] : chambre des sœurs. Winry forge Cliquetis en une nuit : galet de métal sans arête, roulette au rythme cardiaque de Rhea endormie. Rhea lui laisse Monsieur Lapinou. Avance au matin.
+11. Le seuil [le départ] : maison Rockbell, gare. Rhea quitte Resembool avec le Fullmetal et Al. Réconciliation fraîche et fragile. Arrêt juste avant le départ pour Liore -> clôt R4.
 
 ## Casting convoqué
 - Rhea - POV, 13 -> 16 ans - cf. Personnages/Rhea.md
 - Edward Elric - examen, montre, incendie, entretien muet, retour amoché ; rompt le silence, le plus dur à convaincre - cf. Personnages/Edward_Elric.md
-- Alphonse Elric - incendie, départ ; pousse Ed à recruter Rhea - cf. Personnages/Alphonse_Elric.md
-- Winry Rockbell - entraîne le filtre, rêve de Rush Valley, pousse Ed et Rhea, relais possible de la révélation, forge Cliquetis - cf. Personnages/Winry_Rockbell.md
+- Alphonse Elric - incendie, départ ; pousse Ed à recruter Rhea ; proposé par Winry comme appui, reçoit sa carte de Rhea - cf. Personnages/Alphonse_Elric.md
+- Winry Rockbell - entraîne le filtre, rêve de Rush Valley, pousse Ed et Rhea, relais possible de la révélation, demande à Rhea de compter sur d'autres qu'elle, propose Al et lui remet sa carte, forge Cliquetis - cf. Personnages/Winry_Rockbell.md
 - Pinako Rockbell - témoin de l'incendie, convainc Rhea avec Winry - cf. Personnages/Pinako_Rockbell.md
 
 ## Lieux et objets
@@ -51,6 +52,7 @@ Trois ans de froid, puis le dégel forcé. Rhea regarde les frères brûler leur
 - Montre d'argent d'Alchimiste d'État - rapportée par Ed - cf. BIBLE SB7.
 - Automail d'Ed - entretenu en silence, réparé au retour - cf. Systemes/Automail.md
 - Armure d'Al - métal à consolider, jamais le sceau - cf. Personnages/Alphonse_Elric.md
+- Carte de Rhea (papier de Winry) - non fiche : les habitudes de Winry avec sa sœur, remises à Al ; vouée à l'échec, faite pour Winry.
 - Cliquetis - forgé par Winry la veille du départ - cf. Personnages/Rhea.md
 - Monsieur Lapinou - laissé à Winry - cf. Personnages/Rhea.md
 
@@ -60,7 +62,8 @@ Trois ans de froid, puis le dégel forcé. Rhea regarde les frères brûler leur
 - Ed rompt le silence le premier (jalon 6).
 - Rhea accepte de partir avec les frères (jalon 7).
 - Le 1903 de Rhea est su des Elric avant le départ (jalon 8), par elle ou par Winry.
-- Lapinou reste à Winry, Cliquetis part avec Rhea (jalon 9).
+- Rhea accepte Al pour appui (jalon 7) et Winry lui remet sa carte de Rhea (jalon 9).
+- Lapinou reste à Winry, Cliquetis part avec Rhea (jalon 10).
 ### Interdits
 - Adresser la parole aux frères avant le retour de 1914 - casserait le froid 1911-1914 et la rupture du silence par Ed.
 - Révéler le 1903 avant le retour de 1914 - casserait la révélation calée au retour de 1914 (jalon 8).
@@ -90,6 +93,7 @@ Trois ans de froid, puis le dégel forcé. Rhea regarde les frères brûler leur
 - Liore, Cornello et la fausse Pierre appartiennent à Roadmap 5 : la R4 s'arrête avant le départ pour la première ville canon.
 - Rush Valley reste un rêve de Winry : elle y arrive avec les Elric en Roadmap 8.
 - Statut de sacrifice de Rhea : repérée par Mustang en 1910 ; que devient l'info côté armée se tranche en Roadmap 12. Par défaut, hors radar de Père.
+- La carte de Winry échoue en route (Roadmap 5 et suivantes) : Al l'applique, ça ne prend pas, il doit se construire sa propre carte de Rhea. Conséquences sur la relation Rhea/Al ; le déroulé appartient aux roadmaps suivantes.
 - Tchekhov : révélation du 1903 aux Elric (détone ici) ; nœud Rhea/Al (avoué seulement à la fin) ; parallèle deuil-transmutation ; statut de sacrifice de Rhea (armé, dormant).
 
 ---

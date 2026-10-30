@@ -69,6 +69,12 @@ pas les re-litiger. JAMAIS fetché en narration.
   pas brider le rêve de Winry. Révélation du 1903 REQUISE en R4, seule la
   manière se joue en jeu (Rhea en flux, ou Winry qui raconte). Winry RESTE
   à Resembool (canon : rejoint à Central R6, Rush Valley R8).
+- AL, APPUI DE RHEA (décision worldbuilder, R4 W2) : Winry demande à Rhea
+  de compter sur d'autres qu'elle (refus de l'inconnu, cf. Shaun/Glassman),
+  propose Al et lui remet sa carte de Rhea (papier). La carte NE PEUT PAS
+  marcher - ce que Rhea aime, c'est que ce soit avec Winry : Al devra se
+  construire la sienne (R5+). Rhea l'accepte sans intégration (outil /
+  anti-Alan en alternance, COF).
 - REPÉRAGE SANS-CERCLE SUR PLACE (rework R3, acté) : plus jamais "eu vent
   avant la visite". Deux vecteurs : rumeur de village (le FAIT que la gamine
   Rockbell transmute sans cercle depuis toujours est de notoriété locale ;
