@@ -1,6 +1,6 @@
 # Roy Mustang
 
-- version : W3
+- version : W4
 
 ## Identité
 
@@ -44,6 +44,7 @@ Guerre d'Ishval : déployé comme arme d'extermination ; traumatisme et culpabil
 Officier de l'armée que la protagoniste déteste, et héros d'Ishval - la guerre qui lui prend ses parents. Cible potentielle de son antimilitarisme.
 Depuis 1910 (R3) : cible directe et concrète - il a essuyé l'explosion en personne, et reparti avec sa lecture (« trop perdu par la guerre »). Détail : cf. Personnages/Rhea.md et Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md.
 - 1914 (R6) : retrouvailles au QG de l'Est, quatre ans après. Il ne refait pas son offre. Oriente les frères vers Tucker ; devant Rhea, dit à Ed qu'un Alchimiste d'État doit être prêt à tuer quand l'armée l'exige. Impuissant sous la pluie face à Scar ; raconte Ishval aux frères, Rhea présente. Ce qu'il fait de son repérage reste suspendu à Roadmap 12. Détail : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md.
+- 1914 (R10) : muté à Central, enquête sur la mort de Hughes. Dit aux frères que Hughes a pris sa retraite. « Brûle » Ross sous les yeux de Rhea (mise en scène : Ross part pour Xing) et rappelle à Ed sa place de soldat. Détruit Lust au Laboratoire 3 (hors POV), blessé ; brouille les rapports pendant le piège à Scar ; présent à la planque de Knox quand Ling démasque Bradley. Rhea apprend d'Ed, sous le secret, que Ross est vivante. Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 
 ## Sort connu (canon)
 
@@ -57,6 +58,7 @@ Tue Lust. Survit ; promu, poursuit la réforme de l'armée.
 - Riza, Hughes : cf. Personnages/Riza_Hawkeye.md, Maes_Hughes.md
 - Armée : cf. Factions/Armee_Amestris.md
 - 1914, East City : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md
+- 1914, Central : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md
 
 ---
 

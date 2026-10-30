@@ -1,56 +1,54 @@
 # Pinako Rockbell
 
-- version : W1
+- version : W2
 
-## Identite
-
+## Identité
 Matriarche de la famille Rockbell, de Resembool.
-Grand-mere paternelle de Winry, mere de Yuri, belle-mere de Sarah.
-Chirurgienne et forgeronne d'armes ; ingenieure d'automail eminente, fondatrice presumee de Rockbell Automail.
-Surnom de jeunesse : la "Leopardess of Resembool" (ingenieure reputee).
-Voisine et amie de longue date des Elric (connait Hohenheim depuis les annees 1860).
+Grand-mère paternelle de Winry, mère de Yuri, belle-mère de Sarah.
+Chirurgienne et forgeronne d'armes ; ingénieure d'automail éminente, fondatrice présumée de Rockbell Automail.
+Surnom de jeunesse : la « Leopardess of Resembool » (ingénieure réputée).
+Voisine et amie de longue date des Elric (connaît Hohenheim depuis les années 1860).
 
-## Physique et age
+## Physique et âge
+Petite, âgée, silhouette menue mais poigne solide. Fume la pipe.
+Née vers 1830 [INCERTAIN sur l'année exacte ; apparaît sur des photos de Resembool dès 1866].
+Fils Yuri né en 1873.
 
-Petite, agee, silhouette menue mais poigne solide. Fume la pipe.
-Nee vers 1830 [INCERTAIN sur l'annee exacte ; apparait sur des photos de Resembool des 1866].
-Fils Yuri ne en 1873.
+## Personnalité
+Franche, directe, sans détour ; dit aux gens ce qu'elle pense, surtout à Ed et Al quand ils fautent.
+Accueillante : recueille presque quiconque passe sa porte. Cœur solide sous la rudesse.
+Autorité morale du bourg : c'est sa parole qui fait taire ou apaise.
+Passé joyeux (fêtarde, compagne de boisson de Hohenheim jeune).
 
-## Personnalite
-
-Franche, directe, sans detour ; dit aux gens ce qu'elle pense, surtout a Ed et Al quand ils fautent.
-Accueillante : recueille presque quiconque passe sa porte. Coeur solide sous la rudesse.
-Autorite morale du bourg : c'est sa parole qui fait taire ou apaise.
-Passe joyeux (fetarde, compagnon de boisson de Hohenheim jeune).
-
-## Role et capacites
-
-Ingenieure d'automail de premier plan (laisse volontiers Winry travailler sur l'automail d'Ed).
+## Rôle et capacités
+Ingénieure d'automail de premier plan (laisse volontiers Winry travailler sur l'automail d'Ed).
 Chirurgienne : pose d'automail, soins.
-Figure parentale de substitution : eleve Winry seule apres la mort des parents Rockbell, et fait office d'adulte reference pour Ed et Al apres la mort de Trisha.
+Figure parentale de substitution : élève Winry seule après la mort des parents Rockbell, et fait office d'adulte référence pour Ed et Al après la mort de Trisha.
 
 ## Relations (neutres)
-
-- Winry - petite-fille, seule parente de sang restante ; l'eleve et la forme a l'automail.
+- Winry - petite-fille, seule parente de sang restante ; l'élève et la forme à l'automail.
 - Yuri et Sarah - fils et belle-fille, chirurgiens partis au front d'Ishval (cf. leurs fiches).
-- Ed et Al - "petits-enfants" de coeur ; base arriere quand ils reviennent a Resembool ; banter constant avec Ed.
-- Hohenheim - vieil ami ; c'est elle qui l'a presente a Trisha dans les annees 1890.
-- Trisha Elric - amie ; l'a assistee pour la naissance d'Ed et Al ; l'a soignee jusqu'a sa mort en 1904.
-- Izumi Curtis - c'est Pinako qui, revelant que les Elric n'ont plus de parents, decide Izumi a les prendre comme eleves.
+- Ed et Al - « petits-enfants » de cœur ; base arrière quand ils reviennent à Resembool ; banter constant avec Ed.
+- Hohenheim - vieil ami ; c'est elle qui l'a présenté à Trisha dans les années 1890.
+- Trisha Elric - amie ; l'a assistée pour la naissance d'Ed et Al ; l'a soignée jusqu'à sa mort en 1904.
+- Izumi Curtis - c'est Pinako qui, révélant que les Elric n'ont plus de parents, décide Izumi à les prendre comme élèves.
 
-## Rapport a la protagoniste
+## Fils narratifs (neutres, canon)
+- 1910 : enterre la chose que les Elric ont transmutée.
+- 1914 (ép. 19-20) : Hohenheim revient à Resembool, se recueille sur la tombe de Trisha, boit avec elle et lui dit que la chose n'était peut-être pas Trisha ; il repart en annonçant un malheur pour Amestris. Elle aide Ed à exhumer la chose : ce n'était pas Trisha.
 
-Pinako est la sauveuse et la figure fondatrice de la protagoniste : elle la trouve, l'acheve la masse, la recueille, la fait taire au village, l'eleve. Detail : cf. Personnages/Rhea.md et Parties/.
+## Rapport à la protagoniste
+Pinako est la sauveuse et la figure fondatrice de la protagoniste : elle la trouve, achève la masse, la recueille, la fait taire au village, l'élève. Détail : cf. Personnages/Rhea.md et Parties/.
+- 1914 (R10) : Rhea, restée à Central, peut l'appeler pendant le séjour d'Ed à Resembool et lui demander de faire rapporter Monsieur Lapinou, pour Winry (au choix du joueur). Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 
 ## Sort connu (canon)
-
-Survit a la trame. Reste a Resembool, matriarche du foyer reconstruit.
+Survit à la trame. Reste à Resembool, matriarche du foyer reconstruit.
 
 ## Renvois
-
 - Automail : cf. Systemes/Automail.md
 - Famille : cf. Personnages/Winry_Rockbell.md, Sarah_Rockbell.md, Yuri_Rockbell.md
 - Elric : cf. Personnages/Edward_Elric.md, Alphonse_Elric.md, Trisha_Elric.md, Van_Hohenheim.md
+- 1914, Resembool : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md
 
 ---
 

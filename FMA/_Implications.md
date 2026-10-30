@@ -6,11 +6,11 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B14 (Roadmap 9, 2026-10-30)
+- dernière mise à jour : BIBLE B15 (Roadmap 10, 2026-10-30)
 
 ## État d'avancement du chantier
-- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R9 (1903 -> départ de Rush
-  Valley pour Central 1914, au gabarit SPEC v9.2 §7). R10 à R14 restent à écrire
+- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R10 (1903 -> révélation de
+  Bradley à Central 1914, au gabarit SPEC v9.2 §7). R11 à R14 restent à écrire
   en boucle serrée. Passe d'immersion (modes d'étape,
   tranches de vie) non faite sur R0-R4.
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
@@ -162,27 +162,51 @@ pas les re-litiger. JAMAIS fetché en narration.
   trio pour Central (canon ép. 15) ; rituel de sommeil sans Monsieur
   Lapinou, toujours à Resembool. Le garde-cap disait « Bradley se dévoile
   en rasant le repaire » : recalé (dévoilement hors POV).
+- R10 - CENTRAL : HUGHES ET SCAR (mode usine, canon ép. 16-23 vérifié sur
+  Wikipedia). R10 couvre jusqu'à la révélation de Ling à la planque de
+  Knox (ép. 23) ; la transformation de Gluttony ouvre R11.
+  RHEA RESTE À CENTRAL pendant le voyage d'Ed à Resembool (verrou) :
+  Armstrong n'emmène qu'Ed (couverture du plan de Mustang), Winry reste à
+  Central, Rhea reste avec Winry. Conséquence : Ed seul apprend à Xerxès
+  (ép. 18) et se tait devant Winry, donc devant Rhea ; les DEUX SŒURS
+  apprennent ENSEMBLE, à la même seconde, au piège à Scar (ép. 22). La
+  règle « Rhea ne ment pas à Winry » tient sans casser l'ép. 22. Ni Rhea ni
+  Winry ne tuent Scar (verrou). Rhea n'entre pas au Laboratoire 3 (Lust,
+  Gluttony hors POV).
+  ROSS VIVANTE : Ed le confie à Al et Rhea sous le sceau du secret à son
+  retour ; Rhea peut le dire à Winry, à personne d'autre.
+  LA CHOSE DE 1910 N'ÉTAIT PAS TRISHA (Ed, Hohenheim, l'exhumation) : rien
+  ne change pour Rhea, qui l'a toujours dit ; la chose de 1903 n'était pas
+  Alan non plus. Hohenheim n'est pas croisé.
+  MONSIEUR LAPINOU : reste à Winry (lore R4). Rhea peut demander par
+  téléphone à Pinako qu'Ed le rapporte, POUR WINRY ; il repart alors avec
+  elle à Rush Valley. Rhea ne le reprend jamais pour elle. Par défaut, il
+  reste à Resembool. R14 (bouclage) suit l'état de la partie.
+  BRADLEY HOMONCULUS : Rhea l'apprend par Ling, à la planque (ép. 23).
+  Statut : sans-cercle devant Gluttony (planque) = « repérée ».
+  Winry repart seule pour Rush Valley (ép. 23) ; Rhea reste (pacte R4).
 
 ## Points ouverts (à trancher en Passe 2, roadmap par roadmap)
 - Statut de sacrifice de Rhea (Roadmap 12) : repérage désormais ÉTAYÉ
   (Mustang a VU la démonstration en 1910). Que devient l'info côté armée
   (rapport écrit ? bouche cousue ?). À trancher en écrivant Roadmap 12.
   Par défaut : hors radar de Père.
-- Détonation Scar / parents : Roadmap 10 (ép. 18-22). Ed apprend d'abord
-  (Resembool, ép. 18) : Rhea est-elle avec lui ? Si oui, elle ne peut pas
-  le cacher à Winry (cf. décision R6). À trancher en écrivant R10.
-- Placement des ép. 23-29 (Ling devient Greed, ventre de Gluttony, repaire
-  de Père) : entre R10 et Briggs, à trancher en écrivant R11.
+- Placement des ép. 23 (fin) à 29 (ventre de Gluttony, repaire de Père,
+  Ling devient Greed) : entre R10 et Briggs, à trancher en écrivant R11.
+- Scar après la détonation : ce que Rhea fait de lui (tueur de ses parents,
+  produit de l'armée, de Kimblee) quand il recroise le trio ; pardon de
+  Winry (canon ép. 38-39). Kimblee nommé devant Rhea en R10 : sa rencontre
+  (R11) en hérite.
+- Ross : vivante, en Xing ; son retour (canon, trame suivante) et ce que
+  Rhea en sait déjà (R10) : à vérifier en écrivant la roadmap concernée.
+- Lan Fan : automail chez les Rockbell [CANON SUPPOSÉ] ; Rhea peut le
+  proposer en R10. À vérifier en R11.
 - Al et le sans-cercle : souvenirs de 1910 rendus en R9 (ép. 14) ; le
   sans-cercle vient plus tard [INCERTAIN : moment]. À vérifier au fil des
   roadmaps suivantes ; la lecture anti-Al de Rhea en dépend.
-- Quand Rhea apprend que Bradley est un homonculus : à placer selon le
-  canon en écrivant R10 ou R11.
-- Monsieur Lapinou toujours à Resembool : la Roadmap 10 passe à Resembool
-  (ép. 18) ; le récupérer ou non, à trancher en écrivant R10.
-- Ce que Scar retient de Rhea (si elle a transmuté devant lui en R6) : un
-  visage de seconde sans-cercle, sans nom. À reprendre aux roadmaps où il
-  recroise le trio.
+- Ce que Scar retient de Rhea : la seconde sans-cercle (si R6), et qu'elle
+  est aussi une fille des Rockbell seulement si elle le dit (R10). À
+  reprendre aux roadmaps où il recroise le trio.
 - Réconciliation Rhea/Al : FRAÎCHE et fragile au départ de 1914 (R4), consolidée
   au fil du canon. Vérifier la cohérence quand les roadmaps 5-14 seront écrites.
 
@@ -209,6 +233,11 @@ pas les re-litiger. JAMAIS fetché en narration.
 - IRONIE Greed (R9) : l'homonculus qui veut l'immortalité est refondu par
   Père, et renaîtra dans Ling, que Rhea nourrit à Rush Valley.
   -> CODEX ANNEXE_SAVOIRS.
+- IRONIE Mustang (R10) : Rhea le voit « brûler » Ross, ce qui confirme son
+  « génocidaire » de 1910 ; c'est une mise en scène pour la sauver.
+  -> CODEX ANNEXE_SAVOIRS.
+- IRONIE Gluttony (R10) : l'anosmique face au nez absolu ; le captif ligoté
+  va avaler Ed et Ling quelques minutes plus tard. -> CODEX ANNEXE_SAVOIRS.
 
 ## [INCERTAIN] laissés volontairement en suspens (ne pas armer)
 - Numéro de l'ordre d'extermination d'Ishval : "3066" ou "306". Non tranché.

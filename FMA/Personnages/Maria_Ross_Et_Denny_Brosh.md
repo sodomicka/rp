@@ -1,6 +1,6 @@
 # Maria Ross et Denny Brosh
 
-- version : W1
+- version : W2
 
 ## Identité
 
@@ -51,6 +51,11 @@ l'explosion, récupèrent Ed inconscient et sauvent Al. Gardent l'hôpital.
   compagnie avec les Elric la nuit du Laboratoire 5. Ils savent au plus
   qu'elle transmute sans cercle, jamais pourquoi. Détail : cf.
   Roadmap/Rhea/Roadmap7_Laboratoire_5.md.
+- 1914 (R10) : Ross apprend au trio la mort de Hughes ; arrêtée, évadée par
+  Barry, « brûlée » par Mustang sous les yeux de Rhea. Vivante, elle part
+  pour Xing avec Fu par les ruines de Xerxès ; Rhea le sait par Ed, sous le
+  secret (elle peut le dire à Winry, à personne d'autre). Détail : cf.
+  Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 
 ## Sort connu (canon)
 
@@ -65,7 +70,7 @@ l'explosion, récupèrent Ed inconscient et sauvent Al. Gardent l'hôpital.
 - Armée : cf. Factions/Armee_Amestris.md
 - Armstrong : cf. Personnages/Alex_Louis_Armstrong.md
 - Hughes : cf. Personnages/Maes_Hughes.md
-- 1914 : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md
+- 1914 : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md, Roadmap10_Central_Hughes_Et_Scar.md
 
 ---
 

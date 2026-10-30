@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W16
+- version : W17
 
 ## Identité
 
@@ -267,7 +267,8 @@ travail, mais elle a une vraie tête.
 ## Antimilitarisme
 
 Racine : la mort de Sarah et Yuri, tués à Ishval (par Scar, 1908 ; nouvelle
-reçue à Resembool en 1909). L'armée n'a pas pris à Rhea des gens déjà lointains :
+reçue à Resembool en 1909 ; l'identité du tueur ne lui parvient qu'en 1914,
+R10, en même temps qu'à Winry). L'armée n'a pas pris à Rhea des gens déjà lointains :
 elle a transformé un "à bientôt" en tombe. Angle du RP : relecture des
 événements canon par ses yeux.
 
@@ -284,7 +285,9 @@ elle a transformé un "à bientôt" en tombe. Angle du RP : relecture des
 [L'échange Monsieur Lapinou / Cliquetis au départ de 1914 - Rhea laisse Monsieur Lapinou à Winry
 et emporte Cliquetis - est un battement de Roadmap 4 (cf. Trajectoire datée) :
 une part du rituel de sommeil laissée à Winry, pour qu'elle ne soit pas seule
-elle non plus - Rhea projette sur Winry son propre besoin.]
+elle non plus - Rhea projette sur Winry son propre besoin. Monsieur Lapinou
+reste à Winry : Rhea peut le lui faire rapporter (R10), jamais le reprendre
+pour elle.]
 
 ## Sort (périmètre du RP)
 
@@ -430,7 +433,17 @@ partie.
   Retour à Rush Valley : Winry retrouvée, rituel de sommeil sans Monsieur
   Lapinou ; Ling Yao, Lan Fan et Fu ; la ville saccagée puis réparée.
   Départ pour Central avec Ed, Al, Winry, et Ling dans leur sillage.
-- (suite à alimenter roadmap par roadmap : R10 et au-delà)
+- 1914 (R10) - Central : Hughes et Scar. Mustang parle de retraite ; Ross
+  dit le meurtre de Hughes ; chez Gracia, Elicia orpheline de père. Elle voit
+  Mustang « brûler » Ross ; Ed, parti seul à Resembool, revient avec deux
+  vérités : Ross vit (secret), et la chose de 1910 n'était pas Trisha - ce
+  qu'elle a toujours su. Sans Ed, Al seul relais. Au piège tendu à Scar,
+  elle entend avec Winry, à la même seconde, qu'il a tué Sarah et Yuri ; son
+  récit (Kimblee, le bras du frère) ; Ed le savait depuis Resembool. Winry
+  repart seule pour Rush Valley (quatrième séparation), Monsieur Lapinou
+  avec elle si Rhea l'a fait rapporter. Chez Knox, Ling révèle que le
+  Généralissime est un homonculus.
+- (suite à alimenter roadmap par roadmap : R11 et au-delà)
 
 ## Renvois
 

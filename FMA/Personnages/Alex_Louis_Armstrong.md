@@ -1,6 +1,6 @@
 # Alex Louis Armstrong
 
-- version : W2
+- version : W3
 
 ## Identité
 
@@ -59,6 +59,9 @@ d'Alchimistes d'État dans l'Est.
   interdit de poursuivre après le décodage des notes de Marcoh ; désobéi la
   nuit du Laboratoire 5. Garde l'hôpital. Détail : cf.
   Roadmap/Rhea/Roadmap7_Laboratoire_5.md.
+- 1914 (R10) : après le « meurtre » de Ross, embarque Ed seul pour
+  Resembool (couverture du plan de Mustang) ; refuse Rhea dans le voyage.
+  Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 
 ## Sort connu (canon)
 
@@ -70,7 +73,7 @@ sœur, Izumi et Sig. Survit.
 - Armée, Alchimistes d'État : cf. Factions/Armee_Amestris.md
 - Ishval : cf. Lieux/Ishval.md
 - Scar : cf. Personnages/Scar.md
-- 1914 : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md, Roadmap7_Laboratoire_5.md
+- 1914 : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md, Roadmap7_Laboratoire_5.md, Roadmap10_Central_Hughes_Et_Scar.md
 
 ---
 

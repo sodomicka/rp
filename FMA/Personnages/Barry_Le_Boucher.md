@@ -1,6 +1,6 @@
 # Barry le Boucher
 
-- version : W1
+- version : W2
 
 ## Identité
 
@@ -51,6 +51,9 @@ souvenirs ont pu être fabriqués par Ed. Fuit après l'explosion.
   côtés d'Al. Il retient la gamine au cache-œil ; s'il la voit transmuter
   sans cercle, rien ne remonte. Détail : cf.
   Roadmap/Rhea/Roadmap7_Laboratoire_5.md.
+- 1914 (R10) : fait évader Ross, retient les frères (et Rhea) dans la nuit ;
+  meurt au Laboratoire 3, hors de son regard ; elle l'apprend par Al. Détail :
+  cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 
 ## Sort connu (canon)
 
@@ -62,7 +65,7 @@ meurt peu après (ép. 19) [CANON SUPPOSÉ : détail de la double fin].
 
 - Âme scellée, sceau de sang : cf. Systemes/La_Verite_Et_La_Porte.md, Personnages/Alphonse_Elric.md
 - Homonculus, Laboratoire 5 : cf. Factions/Homonculus.md
-- 1914 : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md
+- 1914 : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md, Roadmap10_Central_Hughes_Et_Scar.md
 
 ---
 

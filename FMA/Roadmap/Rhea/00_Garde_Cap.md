@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W9
+- version : W10
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -134,21 +134,19 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   Central avec Winry. Écrite (W1).
 
 ### Roadmap 10 - Central : Hughes et Scar
-- Canon ép. 16-22 : Ed apprend la mort de Hughes (Ross, Gracia) ; Ross
-  accusée, évadée par Barry, « exécutée » par Mustang ; Resembool et les
-  ruines de Xerxès, où Ed apprend que Scar a tué les Rockbell (ép. 18) ;
-  Laboratoire 3, mort de Lust ; Hohenheim sur la tombe de Trisha ; piège à
-  Scar, Winry apprend en entendant Ed (ép. 22).
-- Point de décision : DÉTONATION Scar / parents. Rhea va-t-elle à Resembool
-  avec Ed (ép. 18, sa maison) ? Si oui, elle apprend avant Winry et ne peut
-  pas le lui cacher (carte) : Winry saurait avant l'ép. 22. À trancher en
-  écrivant R10.
-- Mort de Hughes : apprise en R10 (canon ép. 16), pas avant.
+- Canon ép. 16-23 : mort de Hughes apprise (Ross, Gracia) ; Ross accusée,
+  évadée par Barry, « brûlée » par Mustang ; Ed seul à Resembool (Xerxès,
+  Scar et les Rockbell, Hohenheim, l'exhumation : la chose n'était pas
+  Trisha), Rhea reste à Central avec Al et Winry ; Lust détruite hors POV ;
+  piège à Scar : Rhea et Winry apprennent ENSEMBLE (ép. 22) ; Winry repart
+  pour Rush Valley ; chez Knox, Ling révèle que Bradley est un homonculus.
+  Écrite (W1).
+- Tchekhov : Scar / parents DÉTONÉ. Monsieur Lapinou peut revenir à Winry.
 
 ### Roadmap 11 - Le Nord : Briggs
-- [À RECALER EN R11] Le canon ép. 23-29 (Ling devient Greed, Gluttony avale
-  Ed et Ling, le repaire de Père) tombe entre R10 et Briggs : à placer en
-  écrivant R11.
+- [À RECALER EN R11] Le canon ép. 23 (fin, Gluttony se transforme) à 29
+  (Gluttony avale Ed et Ling, le repaire de Père, Ling devient Greed) tombe
+  entre R10 et Briggs : à placer en écrivant R11.
 - Olivier Mira Armstrong ; Kimblee ; Sloth ; le tunnel-cercle national.
 
 ### Roadmap 12 - Convergence
@@ -169,10 +167,9 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
 - Statut de sacrifice de Rhea (Roadmap 12) : repérage ÉTAYÉ par Mustang en
   1910 (rumeur de village + démonstration à l'atelier) - que devient l'info
   côté armée (rapport écrit ? bouche cousue ?). Par défaut : hors radar de Père.
-- Contentieux Scar double avec Winry : face-à-face R6 sans révélation ;
-  détonation avec Winry en R10 (canon ép. 18-22).
-  Rhea ne peut pas mentir à Winry (carte) : si elle apprend avant Winry, elle
-  le lui dira.
+- Contentieux Scar : DÉTONÉ en R10, aux deux sœurs ensemble. Pardon de Winry
+  (canon ép. 38-39) et ce que Rhea fait de Scar : à cadrer quand il recroise
+  le trio.
 - Réconciliation Rhea/Al : FRAÎCHE au départ (charnière), consolidée au fil du canon.
 - [INCERTAIN] Numéro de l'ordre d'extermination d'Ishval (3066 / 306) : non tranché.
 

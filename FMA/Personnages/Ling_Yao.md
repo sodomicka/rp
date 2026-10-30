@@ -1,6 +1,6 @@
 # Ling Yao
 
-- version : W1
+- version : W2
 
 ## Identité
 
@@ -54,6 +54,12 @@ illégalement ; échoue à Rush Valley.
   Rhea transmuter sans cercle : curiosité, sans suite sur la trame ; rien
   ne remonte. Ignore le pourquoi. Suit le trio vers Central. Détail : cf.
   Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md.
+- 1914 (R10) : arrêté à Central comme immigré clandestin, libéré par Barry.
+  Allié du piège à Scar pour l'immortalité ; capture Gluttony. Lan Fan se
+  tranche le bras pour semer Bradley, soignée chez le docteur Knox ; Fu
+  escorte Ross vers Xing. À la planque, Ling, qui sent le flux, révèle
+  devant Rhea que le Généralissime est un homonculus. Détail : cf.
+  Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 
 ## Sort connu (canon)
 
@@ -66,6 +72,7 @@ Pierre. Lan Fan survit (automail).
 - Greed : cf. Personnages/Greed.md
 - Alkahestrie : BIBLE SB2
 - Rush Valley : cf. Lieux/Rush_Valley.md
+- 1914, Central : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md
 
 ---
 

@@ -1,6 +1,6 @@
 # Scar
 
-- version : W3
+- version : W4
 
 ## Identité
 
@@ -46,7 +46,7 @@ Devient tueur d'Alchimistes d'État.
 
 TCHEKHOV MAJEUR : Scar a tué les parents adoptifs de la protagoniste (Sarah et Yuri). Même contentieux que Winry. Croisement attendu (comme Winry dans le canon). Détail : cf. Personnages/Rhea.md et roadmaps.
 - 1914 (R6) : face-à-face SANS révélation. Rhea le voit tuer et détruire ; elle sait qu'il est ishval et tueur d'Alchimistes d'État, et peut l'approuver avant de le voir frapper. Ni elle ni lui ne savent le lien Rockbell. Sans montre, elle est pour lui un obstacle, pas une cible ; s'il la voit transmuter sans cercle, il retient un visage. Détail : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md.
-- Détonation (Rhea apprend) : réservée à la roadmap qui porte les ép. 18-22 du canon, à cadrer avec Winry (contentieux double).
+- 1914 (R10) : DÉTONATION. Revenu à Central, il mord au piège des frères ; Rhea et Winry entendent Ed l'interroger sur les médecins Rockbell, à la même seconde. Winry le braque ; il raconte (Kimblee, le bras du frère, le réveil, les deux médecins). Ed s'interpose ; il fuit avec May Chang. S'il l'a vue en R6, il reconnaît la seconde sans-cercle ; qu'elle est aussi une fille des Rockbell, il ne le sait que si elle le dit. Rhea ne peut pas le tuer (verrou : il tue Bradley au Jour Promis). Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 
 ## Sort connu (canon)
 
@@ -59,6 +59,7 @@ Survit ; œuvre à la reconstruction d'Ishval.
 - Rockbell : cf. Personnages/Sarah_Rockbell.md, Yuri_Rockbell.md, Winry_Rockbell.md
 - Wrath : cf. Personnages/Bradley_Wrath.md, Factions/Homonculus.md
 - 1914, East City : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md
+- 1914, Central, la détonation : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md
 
 ---
 
