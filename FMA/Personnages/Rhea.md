@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W14
+- version : W15
 
 ## Identité
 
@@ -406,7 +406,16 @@ partie.
   âme, est la seule à pouvoir en témoigner (une ligne de plus sur la carte
   d'Al). Le Généralissime à deux mètres. Départ vers le Sud avec Ed, Al et
   Winry (Rush Valley, Dublith) ; Hughes meurt hors de son regard.
-- (suite à alimenter roadmap par roadmap : R8 et au-delà)
+- 1914 (R8) - Rush Valley. La ville du rêve de Winry : foule, ateliers,
+  métal partout, agoraphobie au plus haut ; Winry en bouclier, Al pour
+  ouvrir la foule. Paninya vole la montre d'Ed ; Dominic LeCoulte refuse
+  Winry et sursaute au nom Rockbell. Winry voit dans la montre la date de
+  l'incendie et le dit à Rhea, qui y était. Nuit d'orage : Winry accouche
+  Satella ; Rhea, sans toucher l'organique, voit un corps arriver avec son
+  âme, l'inverse de 1903. Winry reste chez Garfiel, sans Monsieur Lapinou :
+  troisième séparation, la première loin de Resembool. Rhea repart vers
+  Dublith avec Ed et Al, Cliquetis et la carte d'Al pour seul relais.
+- (suite à alimenter roadmap par roadmap : R9 et au-delà)
 
 ## Renvois
 
@@ -416,7 +425,7 @@ partie.
 - Elric : cf. Personnages/Edward_Elric.md, Alphonse_Elric.md
 - Miroirs deuil-transmutation : cf. Personnages/Izumi_Curtis.md, Trisha_Elric.md
 - Scar : cf. Personnages/Scar.md
-- Lieux : cf. Lieux/Resembool.md, Ishval.md
+- Lieux : cf. Lieux/Resembool.md, Ishval.md, Rush_Valley.md
 - Grimoire du père : cf. BIBLE SB7
 
 ---

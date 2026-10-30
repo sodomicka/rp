@@ -1,6 +1,6 @@
 # Sommaire - FMA
 
-- version : W14
+- version : W15
 
 ## WIKI
 
@@ -27,15 +27,16 @@ Description : géographie narrative du RP.
 - Amestris.md (W1) - pays-cercle, divisions, expansion, secret du cercle national, régime
 - Ishval.md (W1) - génocide, peuple, Scar, Xerxès/désert, morts Rockbell
 - Resembool.md (W1) - bourg des Rockbell/Elric, événements-clés, foyer d'adoption de la protagoniste
+- Rush_Valley.md (W1) - ville de l'automail, atelier de Garfiel (Winry y reste), maison des LeCoulte (R8)
 
 ### Personnages/
 Description : fiches neutres canon des entités qui pèsent sur le RP, plus la protagoniste OC.
 - Pinako_Rockbell.md (W1) - matriarche, sauveuse et figure fondatrice de la protagoniste
-- Winry_Rockbell.md (W6) - mécanicienne prodige, sœur fusionnelle de la protagoniste
+- Winry_Rockbell.md (W7) - mécanicienne prodige, sœur fusionnelle de la protagoniste
 - Sarah_Rockbell.md (W1) - chirurgienne, mère adoptive de la protagoniste, morte à Ishval
 - Yuri_Rockbell.md (W1) - chirurgien, père adoptif de la protagoniste, mort à Ishval
-- Edward_Elric.md (W6) - Fullmetal Alchemist, ami d'enfance, transmutation cachée de 1910, recrute Rhea en 1914 ; bras brisé par Scar (R6), Laboratoire 5 (R7)
-- Alphonse_Elric.md (W7) - âme scellée dans l'armure, ami d'enfance ; PAS de sans-cercle (aucun souvenir de la Porte) ; doute d'être une âme (R7)
+- Edward_Elric.md (W7) - Fullmetal Alchemist, ami d'enfance, transmutation cachée de 1910, recrute Rhea en 1914 ; bras brisé par Scar (R6), Laboratoire 5 (R7), montre volée à Rush Valley (R8)
+- Alphonse_Elric.md (W8) - âme scellée dans l'armure, ami d'enfance ; PAS de sans-cercle (aucun souvenir de la Porte) ; doute d'être une âme (R7)
 - Trisha_Elric.md (W1) - mère Elric, morte en 1904, parallèle thématique
 - Van_Hohenheim.md (W1) - Pierre vivante, père absent des Elric
 - Roy_Mustang.md (W3) - Flame Alchemist, héros d'Ishval, supérieur d'Ed ; visite de 1910, retrouvailles d'East City (R6)
@@ -51,8 +52,10 @@ Description : fiches neutres canon des entités qui pèsent sur le RP, plus la p
 - Sheska.md (W1) - ex-employée de la bibliothèque, mémoire totale, recopie les notes de Marcoh (R7)
 - Maria_Ross_Et_Denny_Brosh.md (W1) - gardes du corps des Elric à Central (R7) ; Ross accusée du meurtre de Hughes
 - Barry_Le_Boucher.md (W1) - tueur en série, âme scellée dans une armure, miroir inversé d'Al (R7)
+- Paninya.md (W1) - pickpocket aux jambes d'automail de Rush Valley, vole la montre d'Ed (R8)
+- Dominic_LeCoulte.md (W1) - maître d'automail reclus, refuse Winry, famille LeCoulte, l'accouchement (R8)
 - Izumi_Curtis.md (W2) - maîtresse des Elric (1909), miroir thématique du deuil-transmutation ; sait dès 1909 qu'une gamine transmute sans cercle
-- Rhea.md (W14) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (1910 -> Central 1914) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises, agoraphobie, pudeur a posteriori), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
+- Rhea.md (W15) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (1910 -> Rush Valley 1914) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises, agoraphobie, pudeur a posteriori), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
 
 ### Roadmap/Rhea/
 Description : itinéraires par arc, dans l'ordre de la saga, par perspective de la protagoniste. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).
@@ -63,8 +66,9 @@ Description : itinéraires par arc, dans l'ordre de la saga, par perspective de 
 - Roadmap4_L_Examen_Et_Le_Depart.md (W4) - automne 1911 -> 1914, ~2 ans et demi : examen et incendie, froid en snapshots, retour des frères, révélation du 1903, Al proposé comme appui (carte de Winry), Cliquetis et Monsieur Lapinou, départ avec les Elric (arrêt avant Liore)
 - Roadmap5_Liore.md (W2) - 1914, ~1 semaine : premier voyage sans Winry, Liore et Cornello, Rose en miroir du 1903, fausse Pierre, échec de la carte de Winry, Cliquetis éprouvé (hors POV : Lust et Gluttony)
 - Roadmap6_East_City_Et_Scar.md (W2) - 1914, ~2 semaines : Mustang revu, Tucker et Nina, Scar brise Ed et Al (sans révélation sur les Rockbell), armure d'Al refaite par Rhea, Armstrong, Marcoh, retour à Resembool et second départ
-- Roadmap7_Laboratoire_5.md (W1) - 1914, ~3 semaines : Central, notes de Marcoh (la Pierre = vies humaines), Laboratoire 5 (Rhea dehors avec Al, Barry), Winry à Central, anniversaire d'Elicia, doute d'Al, visite de Bradley, départ vers le Sud (hors POV : mort de Hughes)
-- (roadmaps R8 à R14 - à construire en boucle serrée, Passe 2 en cours)
+- Roadmap7_Laboratoire_5.md (W2) - 1914, ~3 semaines : Central, notes de Marcoh (la Pierre = vies humaines), Laboratoire 5 (Rhea dehors avec Al, Barry), Winry à Central, anniversaire d'Elicia, doute d'Al, visite de Bradley, départ vers le Sud (hors POV : mort de Hughes)
+- Roadmap8_Rush_Valley.md (W1) - 1914, ~3 jours : la ville du rêve de Winry, foule pour Rhea, Paninya et la montre (la date de l'incendie), Dominic refuse Winry, accouchement pendant l'orage, Winry reste chez Garfiel ; Rhea repart vers Dublith
+- (roadmaps R9 à R14 - à construire en boucle serrée, Passe 2 en cours)
 
 > NON INDEXÉS. Le garde-cap (`Roadmap/Rhea/00_Garde_Cap.md`) : source de build, jamais fetché en narration. `Parties/<Partie>/Memoires/` : archives narratives interdites en jeu (sauf ordre OOC explicite), consultées au BUILD seulement par listing direct du dossier. Indexer un dossier le fait paraître fetchable en narration. Cf. SPEC_CODEX 4ter, livrable 3.
 

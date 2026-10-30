@@ -6,11 +6,11 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B12 (Roadmap 7, 2026-10-30)
+- dernière mise à jour : BIBLE B13 (Roadmap 8, 2026-10-30)
 
 ## État d'avancement du chantier
-- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R7 (1903 -> départ de Central
-  1914, au gabarit SPEC v9.2 §7). R8 à R14 restent à écrire en boucle
+- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R8 (1903 -> départ de Rush
+  Valley 1914, au gabarit SPEC v9.2 §7). R9 à R14 restent à écrire en boucle
   serrée. Passe d'immersion (modes d'étape,
   tranches de vie) non faite sur R0-R4.
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
@@ -142,6 +142,14 @@ pas les re-litiger. JAMAIS fetché en narration.
 - R7 - RHEA NE MENT PAS À WINRY (mode usine) : le secret du Laboratoire 5
   qu'Ed veut taire, Rhea le dit ou dit qu'il existe, au choix du joueur.
   Par défaut, Winry se tait devant les frères ; rien ne bouge sur la trame.
+- R8 - RUSH VALLEY (mode usine, canon ép. 11 vérifié sur Wikipedia) : Rhea
+  repart vers Dublith avec les frères, Winry reste chez Garfiel (verrou :
+  pacte de R4). Dominic ne propose rien à Rhea (aucune rivalité entre les
+  sœurs, jusque dans le métier). Winry voit la date de la montre et le dit
+  à Rhea ; Ed l'ignore par défaut. Accouchement : Rhea ne touche pas
+  l'organique. Monsieur Lapinou reste à Resembool : rituel de sommeil
+  suspendu jusqu'au retour à Rush Valley (R9). Aucun homonculus, rien ne
+  remonte ; le statut « repérée » éventuel de R7 ne bouge pas.
 
 ## Points ouverts (à trancher en Passe 2, roadmap par roadmap)
 - Statut de sacrifice de Rhea (Roadmap 12) : repérage désormais ÉTAYÉ
@@ -175,6 +183,8 @@ pas les re-litiger. JAMAIS fetché en narration.
   celui qui a refusé de continuer à Ishval.
 - IRONIE Hughes (R7) : tué par Envy le jour où le trio quitte Central ;
   Rhea l'apprend en R10. -> CODEX ANNEXE_SAVOIRS.
+- IRONIE Hughes (R8) : Rhea assiste à une naissance pendant que Central
+  enterre Hughes [CANON SUPPOSÉ : simultanéité]. -> CODEX ANNEXE_SAVOIRS.
 - IRONIE Bradley (R7) : le chef de l'armée qu'elle hait est aussi un
   homonculus ; elle l'a eu à deux mètres. -> CODEX ANNEXE_SAVOIRS.
 

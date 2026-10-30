@@ -1,6 +1,6 @@
 # Roadmap 7 - Laboratoire 5
 
-- version : W1
+- version : W2
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : ~3 semaines (1914) [CANON SUPPOSÉ : durées internes] : ~1 semaine de copie et de décodage, la nuit du Laboratoire 5, ~10 jours d'hôpital (arrivée de Winry, anniversaire d'Elicia, visite du Généralissime), le départ de Central
@@ -15,7 +15,7 @@
   - Rhea a rencontré Hughes chez lui, avec Gracia et Elicia, et vu le Généralissime de près ;
   - Winry voyage avec le trio, pour la première fois depuis 1914.
 - roadmap précédente : cf. WIKI Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md
-- roadmap suivante : Roadmap 8 - Rush Valley (à écrire)
+- roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap8_Rush_Valley.md
 
 ## Intention
 L'arc où la Pierre change de nature : ce n'est plus un espoir, c'est un charnier. Rhea l'avait senti chez Marcoh (aucun minéral connu) ; les notes le disent. Puis le Laboratoire 5 lui met sous les yeux une âme sans corps qui tue, et fait douter Al d'être une âme tout court : Rhea, qui a vu deux choses sans âme, est la seule à savoir faire la différence. Winry revient, et Rhea ne sait pas lui mentir. En fond, Hughes : un militaire qui aime sa famille, et qui ne survit pas au départ du trio.
