@@ -191,11 +191,12 @@ Cible étroite : ces cinq questions, pas un inventaire qui dilue.
 **Compression de contexte (reprise sur résumé).** Signes : un résumé de la conversation en tête de contexte, le rappel automatique `[COMPRESSION DE CONTEXTE]` qu'injecte le dépôt après chaque compression (hook `.claude/settings.json`), et une chute brutale de la jauge d'un tour à l'autre (`context_usage` porte alors `after_boundary` ; la valeur relevée juste après peut être périmée, la relire au tour suivant). Dès qu'il la constate, AVANT le message narratif suivant et sans attendre une erreur, le MJ relit :
 1. ce cœur EN ENTIER, puis le fichier de FETCH ;
 2. le CODEX EN ENTIER ;
-3. la roadmap de l'étape en cours (trame, interdits, sortie) ;
-4. les fiches du casting présent ou convoqué dans la scène, chacune une seule fois ;
-5. la surface du thread : les messages du joueur et du MJ, corps complets (outil de lecture du thread), en entier, depuis l'ouverture du thread.
+3. le Sommaire et le Sommaire de jeu (index du WIKI et de la mémoire de la partie, socle gardé tout le thread : §1) ;
+4. la roadmap de l'étape en cours (trame, interdits, sortie) ;
+5. les fiches du casting présent ou convoqué dans la scène, chacune une seule fois ;
+6. la surface du thread : les messages du joueur et du MJ, corps complets (outil de lecture du thread), en entier, depuis l'ouverture du thread.
 
-**Preuve de relecture.** Le premier message après une compression ne narre pas. Une fois la relecture faite, et seulement alors, il pose une ligne hors fiction et s'arrête : `[RELECTURE §8 — cœur, fetch, CODEX, roadmap <page>, fiches <noms>, thread depuis l'ouverture · compression k/2]`. La narration reprend au message suivant du joueur. Sans cette ligne, la relecture n'a pas eu lieu : la narration qui suit est fautive (retcon OOC, relecture, puis rejeu).
+**Preuve de relecture.** Le premier message après une compression ne narre pas. Une fois la relecture faite, et seulement alors, il pose une ligne hors fiction et s'arrête : `[RELECTURE §8 — cœur, fetch, CODEX, Sommaires, roadmap <page>, fiches <noms>, thread depuis l'ouverture · compression k/2]`. La narration reprend au message suivant du joueur. Sans cette ligne, la relecture n'a pas eu lieu : la narration qui suit est fautive (retcon OOC, relecture, puis rejeu).
 
 Le résumé n'est qu'un index, jamais une source : tout fait passé réutilisé en scène (qui était là, qui a dit quoi, ce qui a été mangé, promis, réservé) se vérifie dans le texte des messages. Le coût en contexte est assumé. Compression constatée APRÈS coup (erreur relevée par le joueur) : retcon OOC, puis cette relecture complète avant de rejouer.
 
