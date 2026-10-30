@@ -1,6 +1,6 @@
 # Alex Louis Armstrong
 
-- version : W1
+- version : W2
 
 ## Identité
 
@@ -55,6 +55,10 @@ d'Alchimistes d'État dans l'Est.
   (le minéral). Il la voit peut-être transmuter sans cercle ; son rapport
   porte sur Scar (statut de sacrifice : Roadmap 12). Détail : cf.
   Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md.
+- 1914 (R7) : escorte le trio à Central, confie les frères à Ross et Brosh,
+  interdit de poursuivre après le décodage des notes de Marcoh ; désobéi la
+  nuit du Laboratoire 5. Garde l'hôpital. Détail : cf.
+  Roadmap/Rhea/Roadmap7_Laboratoire_5.md.
 
 ## Sort connu (canon)
 
@@ -66,7 +70,7 @@ sœur, Izumi et Sig. Survit.
 - Armée, Alchimistes d'État : cf. Factions/Armee_Amestris.md
 - Ishval : cf. Lieux/Ishval.md
 - Scar : cf. Personnages/Scar.md
-- 1914 : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md
+- 1914 : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md, Roadmap7_Laboratoire_5.md
 
 ---
 

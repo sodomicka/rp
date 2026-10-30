@@ -16,7 +16,7 @@
 - univers : Fullmetal Alchemist (branche manga / Brotherhood, continuité Arakawa)
 - sources primaires : manga Arakawa + anime Brotherhood (2009). Canon local prime sur 2003.
 - site_ref canon (Brotherhood, épisode par épisode) : `https://fma.fandom.com/wiki/Episode_<N>_(2009_Anime)` (N = 1 à 64 ; chaque page liste les chapitres manga adaptés). Secours : `https://fma.fandom.com/wiki/List_of_Fullmetal_Alchemist_episodes` ou recherche web. VÉRIFICATION uniquement : ni théories fans, ni copie de texte. Méthode de déroulement : cf. _Implications.md.
-- bible_version : B11
+- bible_version : B12
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/FMA/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/FMA/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/FMA/Partie1/`
@@ -26,8 +26,8 @@
   - Systemes - moteur du monde : alchimie, Vérité, Pierre, automail (4 pages)
   - Factions - armée et conspiration (2 pages)
   - Lieux - géographie narrative (3 pages)
-  - Personnages - fiches neutres canon + protagoniste OC (20 pages)
-  - Roadmap/Rhea - garde-cap + roadmaps détaillées, perspective Rhea (8 pages)
+  - Personnages - fiches neutres canon + protagoniste OC (23 pages)
+  - Roadmap/Rhea - garde-cap + roadmaps détaillées, perspective Rhea (9 pages)
 - focus narratif : est d'Amestris autour de Resembool, avant et pendant la trame canon. Protagoniste OC (Rhea) : prix cognitif de la Vérité + relecture antimilitariste des événements. Instance jouée en CODEX + Parties/.
 
 ## SB1 Cosmogonie et règles du monde
@@ -91,7 +91,8 @@
 | 1914 | Retour des frères à Resembool ; révélation du 1903 de Rhea aux Elric ; Rhea part avec eux vers Liore | Réconciliation fraîche et fragile. cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md |
 | 1914 | Liore : Ed démasque Cornello, fausse Pierre ; Cornello tué par Lust et Gluttony (hors POV Rhea) | Première ville canon ; carte de Winry en échec. cf. WIKI Roadmap/Rhea/Roadmap5_Liore.md |
 | 1914 | East City : Tucker et Nina ; Scar tue Tucker, brise le bras d'Ed et l'armure d'Al ; retour à Resembool | Rhea face à Scar sans savoir qu'il a tué ses parents. cf. WIKI Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md |
-| 1914 | Trame principale ; mort de Maes Hughes (Envy) | Enquête de Mustang |
+| 1914 | Central : notes de Marcoh décodées, Laboratoire 5 ; Winry à Central ; Bradley au chevet d'Ed ; départ vers le Sud ; Maes Hughes tué par Envy au même moment | La Pierre = vies humaines ; enquête de Mustang. cf. WIKI Roadmap/Rhea/Roadmap7_Laboratoire_5.md |
+| 1914 | Trame principale (Rush Valley, Dublith, retour à Central, le Nord) | cf. WIKI Roadmap/Rhea/00_Garde_Cap.md |
 | printemps 1915 | Jour Promis (éclipse solaire) | Culmination du plan de Père |
 
 Détail des étapes par arc : cf. FMA/Roadmap/Rhea/.
@@ -129,6 +130,9 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Alex Louis Armstrong - Strong Arm Alchemist, major | alchimie de la pierre (gantelets), force colossale | escorte des Elric, ancien d'Ishval qui a refusé de continuer | survit | établi. detail: cf. WIKI Personnages/Alex_Louis_Armstrong.md
 - Shou Tucker - Alchimiste d'État chimériste, East City | chimères | a fondu sa fille Nina et le chien Alexander | tué par Scar (1914) | établi. detail: cf. WIKI Personnages/Shou_Tucker.md
 - Tim Marcoh - ancien Crystal Alchemist, médecin déserteur d'Ishval | recherche sur la Pierre, Pierre incomplète | donne à Ed l'indice de Central | survit | établi. detail: cf. WIKI Personnages/Tim_Marcoh.md
+- Sheska - ex-employée de la bibliothèque de Central, mémoire totale | recopie de tête les notes de Marcoh | embauchée ensuite par Hughes | survit | établi. detail: cf. WIKI Personnages/Sheska.md
+- Maria Ross et Denny Brosh - sous-lieutenant et sergent, gardes du corps des Elric à Central | soldats | Ross accusée du meurtre de Hughes, sauvée par Mustang | survivent | établi. detail: cf. WIKI Personnages/Maria_Ross_Et_Denny_Brosh.md
+- Barry le Boucher - tueur en série, âme scellée dans une armure (Laboratoire 5) | couperet | miroir inversé d'Al, plante le doute sur son âme | détruit par Lust (1914) | établi. detail: cf. WIKI Personnages/Barry_Le_Boucher.md
 - Rose Thomas - fidèle de Léto à Liore | - | fiancé mort, promesse de résurrection de Cornello : miroir du 1903 de Rhea | reste à Liore | établi. detail: cf. WIKI Personnages/Rose_Thomas.md
 - Izumi Curtis - maîtresse alchimiste | alchimie large sans cercle, arts martiaux | mentor des Elric (1909), miroir du deuil-transmutation ; sait dès 1909 qu'une gamine transmute sans cercle | survit | établi. detail: cf. WIKI Personnages/Izumi_Curtis.md
 - Alan - frère cadet de Rhea, mort avant l'adoption | - | seul élément rescapé de l'origine de Rhea (le village natal, lui, ne détone jamais) | mort en 1903 à 4 ans (pneumopathie à l'amiante) | OC. detail: cf. WIKI Personnages/Rhea.md
@@ -142,7 +146,7 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Xerxès - nation détruite ~400 ans avant | désert de l'Est, au-delà d'Ishval | berceau de Père, refuge de rescapés | ruines. detail: cf. WIKI Lieux/Ishval.md
 - Liore - ville du désert de l'Est, culte de Léto | Est d'Amestris | première ville canon (R5), faux prophète Cornello | bascule après le départ des Elric. detail: cf. WIKI Roadmap/Rhea/Roadmap5_Liore.md
 - East City - ville de garnison de l'Est | Est d'Amestris | QG de Mustang ; Tucker, première attaque de Scar (R6) | - . detail: cf. WIKI Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md
-- Central City - capitale | centre du pays | siège du pouvoir et de Père | - . [détail à la demande]
+- Central City - capitale | centre du pays | siège du pouvoir et de Père ; bibliothèque, Laboratoire 5, maison des Hughes (R7) | - . detail: cf. WIKI Roadmap/Rhea/Roadmap7_Laboratoire_5.md
 - Dublith - ville du Sud | - | foyer d'Izumi Curtis, lieu d'apprentissage des Elric (1909) | - . [détail à la demande]
 
 ## SB7 Artefacts et objets
@@ -167,11 +171,11 @@ Règle : définition + statut + renvoi. Les déroulés vivent en roadmap / fiche
 
 ### Tchekhov
 Format : Fil - planté en | condition de détonation | conséquence attendue | statut
-- Scar / parents Rockbell - planté 1908 (morts) ; armé 1914 (R6 : face-à-face à East City, sans révélation) | Rhea apprend l'identité du tueur (canon : Ed ép. 18, Winry ép. 22 ; roadmap à fixer) | confrontation, même contentieux que Winry | armé. cf. WIKI Personnages/Scar.md
+- Scar / parents Rockbell - planté 1908 (morts) ; armé 1914 (R6 : face-à-face à East City, sans révélation) | Rhea apprend l'identité du tueur (canon : Ed ép. 18, Winry ép. 22 ; Roadmap 10) | confrontation, même contentieux que Winry | armé. cf. WIKI Personnages/Scar.md
 - Transmutation cachée des Elric - planté 1910 | détonée sur place (R3) | fracture Rhea/Elric 1910-1914, détestation à double tranchant | DÉTONÉ. déroulé : cf. WIKI Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md, Personnages/Rhea.md (Trajectoire datée)
 - Révélation du 1903 de Rhea aux Elric - planté 1910 (fracture jouée sans qu'elle s'explique) | détonée en 1914, au retour des frères, avant le départ (R4) | compréhension rétroactive de la fracture, cale la réconciliation | DÉTONÉ. déroulé : cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md
 - Nœud Rhea/Al - planté dès l'enfance (apogée 1909), noué 1910 (Al = anti-Alan, dissonance sans résolution) | avoué seulement à la fin du périmètre | tension intime traversante | armé. cf. WIKI Personnages/Rhea.md (Relations, Trajectoire datée)
-- Statut de sacrifice de Rhea - planté 1903 (Porte ouverte) ; armé 1910 (repérage Mustang sur place : rumeur + démonstration) ; Liore 1914 : rien ne remonte aux homonculus (Cornello meurt sans parler) ; East City 1914 : Scar, Armstrong, Hughes peuvent la voir, rien ne remonte | repérage par Père / les homonculus | intérêt de la conspiration, danger | armé. cf. mystère ci-dessus
+- Statut de sacrifice de Rhea - planté 1903 (Porte ouverte) ; armé 1910 (repérage Mustang sur place : rumeur + démonstration) ; Liore 1914 : rien ne remonte aux homonculus (Cornello meurt sans parler) ; East City 1914 : Scar, Armstrong, Hughes peuvent la voir, rien ne remonte ; Central 1914 : homonculus hors POV au Laboratoire 5 ; transmuter devant Bradley (choix du joueur) la ferait « repérée » | repérage par Père / les homonculus | intérêt de la conspiration, danger | armé. cf. mystère ci-dessus
 - Parallèle deuil-transmutation - planté 1903 ; amorcé à distance avec Izumi (1909) | mise en regard directe avec Izumi et les Elric (culmine R9) | résonance thématique : une alchimiste qui a payé la Vérité pour un être aimé | planté. cf. WIKI Personnages/Izumi_Curtis.md
 
 ## SB9 Index - routage
@@ -181,4 +185,4 @@ Index détaillé page-par-page : cf. WIKI FMA/Sommaire.md
 
 ---
 
-FIN_BIBLE_B11
+FIN_BIBLE_B12

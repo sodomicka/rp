@@ -1,56 +1,60 @@
 # King Bradley (Wrath)
 
-- version : W1
+- version : W2
 
-## Identite
+## Identité
 
-Generalissime (Fuhrer) d'Amestris, chef supreme de l'armee. Heros de guerre en apparence.
-En realite : l'homonculus Wrath (Colere), cree par Pere. Pere adoptif de Selim (Pride).
-Nomme commandant en chef vers 1894.
+Généralissime (Führer) d'Amestris, chef suprême de l'armée. Héros de guerre en apparence.
+En réalité : l'homonculus Wrath (Colère), créé par Père. Père adoptif de Selim (Pride).
+Nommé commandant en chef vers 1894.
 
 ## Physique
 
-Homme d'age mur, moustache, cheveux noirs grisonnants. Bandeau sur l'oeil gauche (cache l'Oeil ultime marque de l'Ouroboros, pas une cicatrice).
-Vieillit (contrairement aux autres homonculus) : ne d'un humain injecte de Pierre.
+Homme d'âge mûr, moustache, cheveux noirs grisonnants. Bandeau sur l'œil gauche (cache l'Œil ultime marqué de l'Ouroboros, pas une cicatrice).
+Vieillit (contrairement aux autres homonculus) : né d'un humain injecté de Pierre.
 
-## Personnalite
+## Personnalité
 
-Reserve, courtois, maitre de lui - a l'oppose ironique de son nom (Wrath maitrise sa colere).
-Impitoyable, meprise l'humanite (voit les humains comme des faibles).
-[etabli] Capable d'attachement : aime reellement sa femme. Accepte sa mort avec un calme presque serein.
+En public : jovial, paternel, plaisantin ; visite les blessés, rit des insolences.
+Dessous : réservé, courtois, maître de lui - à l'opposé ironique de son nom (Wrath maîtrise sa colère).
+Impitoyable, méprise l'humanité (voit les humains comme des faibles).
+[établi] Capable d'attachement : aime réellement sa femme. Accepte sa mort avec un calme presque serein.
 
-## Capacites
+## Capacités
 
-Oeil ultime : lit les mouvements de l'adversaire, anticipation quasi parfaite. Epeiste hors pair.
-Homonculus : regeneration (Pierre-coeur), force et vitesse superieures. Mortel malgre le vieillissement.
-Autorite absolue sur l'armee et les Alchimistes d'Etat (leur seul patron).
+Œil ultime : lit les mouvements de l'adversaire, anticipation quasi parfaite. Épéiste hors pair.
+Homonculus : régénération (Pierre-cœur), force et vitesse supérieures. Mortel malgré le vieillissement.
+Autorité absolue sur l'armée et les Alchimistes d'État (leur seul patron).
 
-## Histoire (jusqu'au point de depart du RP)
+## Histoire (jusqu'au point de départ du RP)
 
-Projet militaire : des orphelins entraines pour devenir Fuhrer ; injectes de Pierre distillee. La plupart meurent. Le douzieme sujet survit -> devient Wrath, nomme King Bradley.
-Installe comme Generalissime pour servir le plan de Pere.
+Projet militaire : des orphelins entraînés pour devenir Führer ; injectés de Pierre distillée. La plupart meurent. Le douzième sujet survit -> devient Wrath, nommé King Bradley.
+Installé comme Généralissime pour servir le plan de Père.
 Signe l'ordre d'extermination d'Ishval (1908).
+1914 : envoie Armstrong et Hughes traquer Scar dans l'Est. Rend visite à Ed à l'hôpital militaire de Central après le Laboratoire 5 ; met les frères en garde contre l'armée, sans rien dire de lui.
 
 ## Relations (neutres)
 
-- Pere - createur, maitre.
-- Selim (Pride) - "fils" adoptif, en realite l'aine des homonculus.
-- Son epouse - humaine ; attachement reel.
+- Père - créateur, maître.
+- Selim (Pride) - « fils » adoptif, en réalité l'aîné des homonculus.
+- Son épouse - humaine ; attachement réel.
 - Les autres homonculus - fratrie.
 
-## Rapport a la protagoniste
+## Rapport à la protagoniste
 
-Incarnation supreme du militarisme que la protagoniste hait - et, sans qu'elle le sache, un homonculus au coeur de la conspiration. Detail : cf. Personnages/Rhea.md.
+Incarnation suprême du militarisme que la protagoniste hait - et, sans qu'elle le sache, un homonculus au cœur de la conspiration.
+- 1914 (R7) : à deux mètres d'elle, dans la chambre d'hôpital d'Ed : l'homme qui a signé l'ordre d'extermination d'Ishval. Il rit des insolences. Si elle transmute sans cercle devant lui, l'information remonte à Père (statut de sacrifice : « repérée » pour la partie, Roadmap 12). Attaque verrouillée. Détail : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md.
 
 ## Sort connu (canon)
 
-Vaincu par Scar le Jour Promis (ironie : tue par un survivant de son genocide). Meurt apaise.
+Vaincu par Scar le Jour Promis (ironie : tué par un survivant de son génocide). Meurt apaisé.
 
 ## Renvois
 
-- Homonculus, Pere : cf. Factions/Homonculus.md, Personnages/Pere.md
-- Armee : cf. Factions/Armee_Amestris.md
+- Homonculus, Père : cf. Factions/Homonculus.md, Personnages/Pere.md
+- Armée : cf. Factions/Armee_Amestris.md
 - Ishval, Scar : cf. Lieux/Ishval.md, Personnages/Scar.md
+- 1914 : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md
 
 ---
 

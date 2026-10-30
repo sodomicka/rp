@@ -1,57 +1,66 @@
 # Maes Hughes
 
-- version : W1
+- version : W2
 
-## Identite
+## Identité
 
-Lieutenant-colonel de l'armee d'Amestris, division du renseignement.
-Meilleur ami de Roy Mustang (depuis l'academie militaire). Mari de Gracia, pere d'Elicia.
-Ne en 1885.
+Lieutenant-colonel de l'armée d'Amestris, division du renseignement.
+Meilleur ami de Roy Mustang (depuis l'académie militaire). Mari de Gracia, père d'Elicia.
+Né en 1885.
 
 ## Physique
 
 Cheveux noirs, lunettes, barbe naissante. Uniforme militaire.
 
-## Personnalite
+## Personnalité
 
-Chaleureux, comique, exuberant. Passe son temps a vanter sa fille et sa famille (photos a l'appui).
-Contrepoint lumineux a l'humeur sombre de Mustang.
-Fin lecteur des emotions d'autrui ; genereux, toujours pret a conseiller ou heberger.
-Sous la legerete : allie strategique precieux, acces au renseignement classifie.
+Chaleureux, comique, exubérant. Passe son temps à vanter sa fille et sa famille (photos à l'appui).
+Contrepoint lumineux à l'humeur sombre de Mustang.
+Fin lecteur des émotions d'autrui ; généreux, toujours prêt à conseiller ou héberger.
+Sous la légèreté : allié stratégique précieux, accès au renseignement classifié.
 
-## Capacites
+## Capacités
 
 Renseignement militaire, analyse, recoupement d'informations.
 Combattant capable : expert du lancer de couteaux.
 
-## Histoire (jusqu'au point de depart du RP)
+## Histoire (jusqu'au point de départ du RP)
 
-Academie militaire avec Mustang ; amitie scellee. Guerre d'Ishval (veteran, comme Mustang).
-Naissance d'Elicia (~1911, le jour de l'examen d'Etat d'Ed dans le canon).
+Académie militaire avec Mustang ; amitié scellée. Guerre d'Ishval (vétéran, comme Mustang).
+Naissance d'Elicia (~1911, le jour de l'examen d'État d'Ed dans le canon).
+1914 : à East City pour la traque de Scar, avec Armstrong. Puis à Central : héberge les Elric et Winry pour l'anniversaire d'Elicia (3 ans) ; recoupe Liore, le Laboratoire 5 et Ishval, et comprend que l'armée est tenue de l'intérieur.
+
+## Famille
+
+- Gracia Hughes - épouse ; douce, accueillante, cuisinière (tarte).
+- Elicia Hughes - fille, 3 ans en 1914 ; s'attache vite aux visiteurs.
 
 ## Relations (neutres)
 
-- Roy Mustang - meilleur ami, dedans et dehors de l'armee ; soutien de son ambition.
-- Gracia - epouse. Elicia - fille adoree.
-- Ed, Al, Winry - affection reciproque ; il les aide et les heberge.
+- Roy Mustang - meilleur ami, dedans et dehors de l'armée ; soutien de son ambition.
+- Gracia, Elicia - cf. Famille.
+- Ed, Al, Winry - affection réciproque ; il les aide et les héberge.
+- Sheska - qu'il embauche aux archives pour sa mémoire.
 
 ## Fil narratif (neutre)
 
-En enquetant sur la conspiration (Pierre, histoire militaire), il decouvre le controle des homonculus sur le pays. Tue par Envy (deguise en Gracia) avant de pouvoir alerter Mustang. Sa mort relance l'enquete de Mustang.
+En enquêtant sur la conspiration (Pierre, Laboratoire 5, histoire militaire), il découvre le contrôle des homonculus sur le pays. Blessé par Lust, il appelle Mustang d'une cabine téléphonique ; Envy, sous les traits de Ross puis de Gracia, le tue avant qu'il parle. Sa mort relance l'enquête de Mustang.
 
-## Rapport a la protagoniste
+## Rapport à la protagoniste
 
-Officier de l'armee, mais figure bienveillante et familiale. Rapport a definir selon la trajectoire (croisement possible via les Elric). Detail : cf. Personnages/Rhea.md et roadmaps.
+- 1914 (R6) : arrive à East City pour la traque de Scar ; peut voir Rhea transmuter sans cercle (son rapport porte sur Scar).
+- 1914 (R7) : la reçoit chez lui avec les Elric et Winry pour l'anniversaire d'Elicia. Un militaire vétéran d'Ishval qui aime sa famille : l'antimilitarisme de Rhea n'a pas de case pour lui. Elicia s'attache à elle. Ne sait pas pourquoi elle transmute sans cercle et ne pose pas la question. Tué le jour du départ du trio, hors de son regard. Détail : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md.
 
 ## Sort connu (canon)
 
-Assassine par Envy (trame principale, 1914). Promu a titre posthume.
+Assassiné par Envy à Central (1914, canon ép. 10), au moment où les Elric quittent Central pour le Sud. Promu général de brigade à titre posthume. Ed l'apprend à son retour à Central (canon ép. 16).
 
 ## Renvois
 
 - Homonculus, Envy : cf. Factions/Homonculus.md
 - Mustang : cf. Personnages/Roy_Mustang.md
-- Armee : cf. Factions/Armee_Amestris.md
+- Armée : cf. Factions/Armee_Amestris.md
+- 1914 : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md, Roadmap7_Laboratoire_5.md
 
 ---
 

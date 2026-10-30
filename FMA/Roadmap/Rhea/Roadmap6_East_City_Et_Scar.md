@@ -1,6 +1,6 @@
 # Roadmap 6 - East City et Scar
 
-- version : W1
+- version : W2
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : ~2 semaines (1914) : quelques jours à East City (Tucker, puis Scar), le train avec Armstrong et l'arrêt chez Marcoh, ~3 jours à Resembool [CANON SUPPOSÉ : durée de la réparation], le départ vers Central
@@ -15,7 +15,7 @@
   - l'armure d'Al et le nouveau bras d'Ed portent la main de Rhea ;
   - Rhea a revu Winry, puis l'a quittée de nouveau ; Winry reste à Resembool.
 - roadmap précédente : cf. WIKI Roadmap/Rhea/Roadmap5_Liore.md
-- roadmap suivante : Roadmap 7 - Laboratoire 5 (à écrire)
+- roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap7_Laboratoire_5.md
 
 ## Intention
 Le premier arc où l'armée a un visage, et le premier où la mort frappe tout près. Tucker montre à Rhea l'alchimie organique dans ce qu'elle a de pire, sur une enfant qui parle encore. Puis Scar surgit : un Ishval qui tue des Alchimistes d'État, la cible que Rhea déteste elle-même, et qui brise sous ses yeux le bras d'Ed et l'armure d'Al. Personne ne sait encore qu'il a tué Sarah et Yuri : l'ironie dramatique est entière. Le retour à Resembool offre les retrouvailles avec Winry, et oblige Rhea à repartir une seconde fois.
