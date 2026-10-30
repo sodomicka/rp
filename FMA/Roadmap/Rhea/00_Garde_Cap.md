@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W8
+- version : W9
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -125,12 +125,13 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   repart avec les frères vers Dublith. Respiration sororale. Écrite (W1).
 
 ### Roadmap 9 - Dublith : Izumi et Greed
-- Canon ép. 12-15 : Izumi revue (miroir deuil-transmutation, culmine ici) ;
-  Devil's Nest, Greed, chimères ; Bradley se dévoile (Wrath) en rasant le
-  repaire ; le sang de Martel rend à Al ses souvenirs de la nuit de 1910 ;
-  retour à Rush Valley, Ling Yao, Lan Fan et Fu ; départ pour Central avec
-  Winry. Retrouvailles avec Winry à Rush Valley : rituel de sommeil
-  suspendu depuis R8 (Monsieur Lapinou à Resembool).
+- Canon ép. 12-15 : Izumi revue (miroir deuil-transmutation, culmine ici ;
+  exception au verrou du 1903, elle l'a deviné) ; Devil's Nest, Greed,
+  chimères, Al enlevé ; raid de Bradley (Wrath ne se dévoile qu'à Greed,
+  hors POV ; Rhea dehors) ; le sang de Martel rend à Al ses souvenirs de la
+  nuit de 1910, pas le sans-cercle ; retour à Rush Valley, Winry retrouvée
+  (rituel sans Monsieur Lapinou), Ling Yao, Lan Fan et Fu ; départ pour
+  Central avec Winry. Écrite (W1).
 
 ### Roadmap 10 - Central : Hughes et Scar
 - Canon ép. 16-22 : Ed apprend la mort de Hughes (Ross, Gracia) ; Ross

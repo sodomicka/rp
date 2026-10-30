@@ -1,0 +1,72 @@
+# Ling Yao
+
+- version : W1
+
+## Identité
+
+Douzième prince de l'empire de Xing, à l'est du désert. Quinze ans en
+1914 [CANON SUPPOSÉ]. Le clan Yao est l'un des quelque cinquante clans qui
+se disputent la succession de l'empereur malade : Ling traverse le désert
+pour rapporter le secret de l'immortalité (la Pierre philosophale) et
+gagner le trône.
+
+## Physique
+
+Jeune homme mince, cheveux noirs mi-longs noués, yeux plissés en
+permanence (sourire constant). Vêtements xingois.
+
+## Personnalité
+
+Désarmant, d'apparence insouciante, glouton (il s'écroule affamé à Rush
+Valley). Sous le masque : calculateur, sérieux, prêt à tout pour son
+clan. Conception du roi : un roi est fait pour son peuple. Loyauté
+réciproque avec sa garde.
+
+## Capacités
+
+Arts martiaux, épée. Sent le « flux » (le chi) : il perçoit la présence
+des êtres vivants et la multitude d'âmes d'un homonculus. Étudie
+l'alkahestrie sans la pratiquer en combat.
+
+## Sa garde
+
+- Lan Fan - jeune femme du clan Yao, garde du corps de Ling depuis
+  l'enfance. Masquée, kunai et dagues, rapide. Perdra son bras gauche
+  plus tard (trame suivante).
+- Fu - grand-père de Lan Fan, vieux garde masqué, maître de combat.
+  Meurt plus tard dans la trame.
+
+## Histoire (jusqu'au point de départ du RP)
+
+Traverse le désert de l'Est avec Lan Fan et Fu. Arrive en Amestris
+illégalement ; échoue à Rush Valley.
+
+## Relations (neutres)
+
+- Lan Fan et Fu - garde, quasi-famille.
+- Edward et Alphonse - rivaux puis alliés.
+- May Chang - princesse d'un clan rival de Xing (trame suivante).
+
+## Rapport à la protagoniste
+
+- 1914 (R9) : affamé à Rush Valley, nourri par le trio ; sa garde attaque
+  les frères pour la Pierre, la ville est saccagée puis réparée. Peut voir
+  Rhea transmuter sans cercle : curiosité, sans suite sur la trame ; rien
+  ne remonte. Ignore le pourquoi. Suit le trio vers Central. Détail : cf.
+  Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md.
+
+## Sort connu (canon)
+
+Devient le réceptacle de Greed (trame suivante), partage son corps avec
+lui jusqu'au Jour Promis. Survit et devient empereur de Xing avec une
+Pierre. Lan Fan survit (automail).
+
+## Renvois
+
+- Greed : cf. Personnages/Greed.md
+- Alkahestrie : BIBLE SB2
+- Rush Valley : cf. Lieux/Rush_Valley.md
+
+---
+
+FIN_WIKI_PERSONNAGES_LING_YAO

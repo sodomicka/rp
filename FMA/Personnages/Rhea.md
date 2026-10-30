@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W15
+- version : W16
 
 ## Identité
 
@@ -253,9 +253,9 @@ travail, mais elle a une vraie tête.
   ressemblent, la rate là où elles divergent (mère/sœur, adulte/enfant de
   5 ans, Sig/Winry) - plaquage par défaut, corrigé sèchement par Izumi,
   mise à jour une correction à la fois. Seule autorité morale audible :
-  rapport d'expérience, pas sermon. [Relation prospective : rencontre
-  directe encore à jouer - parallèle deuil-transmutation, culmine
-  Roadmap 9.]
+  rapport d'expérience, pas sermon. Rencontrée en 1914 (R9, cf.
+  Trajectoire datée) : seule exception hors Elric et Rockbell au verrou
+  du 1903 - elle l'a deviné, Rhea n'a rien à confesser.
 - Registre amoureux (générique) : la séduction implicite est illisible (elle
   ne remarque rien) OU la valeur bascule et c'est la déclaration frontale,
   sans préambule, au pire moment. Sincérité absolue, zéro jeu, zéro agenda -
@@ -310,6 +310,9 @@ Alimentées à chaud, arc par arc (Passe 2) :
 - Révélation du 1903 aux Elric : 1914, au retour des frères (R4), avant le
   départ - jamais avant. Jusque-là, silence total de Rhea sur son passé envers
   eux, y compris pendant la fracture de 1910 et le froid 1911-1914.
+- Izumi (R9, 1914) : seule personne hors Elric et Rockbell qui connaît le
+  prix du sans-cercle de Rhea - par déduction depuis 1909, pas par aveu.
+  Rhea peut le confirmer ; Izumi n'en dit rien à personne.
 
 ## Trajectoire datée (post-1903)
 
@@ -415,7 +418,19 @@ partie.
   âme, l'inverse de 1903. Winry reste chez Garfiel, sans Monsieur Lapinou :
   troisième séparation, la première loin de Resembool. Rhea repart vers
   Dublith avec Ed et Al, Cliquetis et la carte d'Al pour seul relais.
-- (suite à alimenter roadmap par roadmap : R9 et au-delà)
+- 1914 (R9) - Dublith : Izumi et Greed. Chez les Curtis, Izumi la
+  reconnaît à l'orbite vide. Elle voit Izumi deviner la transmutation des
+  frères et avouer la sienne (un enfant mort-né, des organes). Seule à
+  seule : la première personne lisible sans carte ; Rhea lâche sa mécanique
+  cassée, Izumi corrige ses plaquages à plat. Pas d'apprentissage. Al
+  enlevé par les chimères de Greed : des humains greffés de bêtes qui
+  parlent. Au raid, dehors : le Généralissime vient tuer en personne ;
+  elle ignore ce qu'il est. Le sang de Martel rend à Al la nuit de 1910 :
+  il est une âme, celle qui manquait à Alan, toujours sans sans-cercle.
+  Retour à Rush Valley : Winry retrouvée, rituel de sommeil sans Monsieur
+  Lapinou ; Ling Yao, Lan Fan et Fu ; la ville saccagée puis réparée.
+  Départ pour Central avec Ed, Al, Winry, et Ling dans leur sillage.
+- (suite à alimenter roadmap par roadmap : R10 et au-delà)
 
 ## Renvois
 
@@ -425,7 +440,7 @@ partie.
 - Elric : cf. Personnages/Edward_Elric.md, Alphonse_Elric.md
 - Miroirs deuil-transmutation : cf. Personnages/Izumi_Curtis.md, Trisha_Elric.md
 - Scar : cf. Personnages/Scar.md
-- Lieux : cf. Lieux/Resembool.md, Ishval.md, Rush_Valley.md
+- Lieux : cf. Lieux/Resembool.md, Ishval.md, Rush_Valley.md, Dublith.md
 - Grimoire du père : cf. BIBLE SB7
 
 ---

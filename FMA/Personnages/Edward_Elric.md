@@ -1,6 +1,6 @@
 # Edward Elric
 
-- version : W7
+- version : W8
 
 ## Identité
 
@@ -52,6 +52,7 @@ Ami d'enfance de la protagoniste (elle est un peu plus âgée). En 1910, Ed et A
 - 1914 (R6) : à East City, démasque Tucker ; Scar détruit son bras. Vérifie le sceau pendant que Rhea reconstruit l'armure d'Al. Reçoit de Marcoh l'indice de la bibliothèque de Central. À Resembool, son nouveau bras est forgé par Winry et Rhea.
 - 1914 (R7) : à Central, décode les notes de Marcoh (la Pierre = vies humaines) ; entre seul au Laboratoire 5 pendant que Rhea et Al restent dehors ; hospitalisé, appelle Winry. Exige qu'on taise le laboratoire à Winry - ce que Rhea ne sait pas faire. Se bat avec Al dans la cour de l'hôpital et se réconcilie. Part pour Dublith avec Al, Winry et Rhea.
 - 1914 (R8) : à Rush Valley, Paninya lui vole sa montre d'Alchimiste d'État ; Winry y voit la date de l'incendie gravée, sans le lui dire (Rhea peut le lui lâcher, au choix du joueur). Laisse Winry chez Garfiel et repart vers Dublith avec Al et Rhea.
+- 1914 (R9) : à Dublith, Izumi devine la transmutation et avoue la sienne ; les frères deviennent ses égaux. Affronte Greed au Devil's Nest (Rhea avec lui), transmute son bouclier ; retenu dehors par Armstrong pendant le raid de Bradley. À Rush Valley, Winry répare son bras ; rencontre Ling Yao, combat Lan Fan et Fu, répare la ville. Part pour Central avec Al, Winry et Rhea.
 
 ## Sort connu (canon)
 
@@ -66,6 +67,7 @@ Survit ; sacrifie son alchimie pour rendre son corps à Al. Épouse Winry.
 - 1911-1914 : cf. Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md
 - 1914, Liore, East City et Central : cf. Roadmap/Rhea/Roadmap5_Liore.md, Roadmap6_East_City_Et_Scar.md, Roadmap7_Laboratoire_5.md
 - 1914, Rush Valley : cf. Roadmap/Rhea/Roadmap8_Rush_Valley.md
+- 1914, Dublith et retour à Rush Valley : cf. Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md
 
 ---
 

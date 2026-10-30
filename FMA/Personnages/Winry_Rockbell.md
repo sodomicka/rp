@@ -1,6 +1,6 @@
 # Winry Rockbell
 
-- version : W7
+- version : W8
 
 ## Identité
 
@@ -79,6 +79,10 @@ Sororité fusionnelle avec la protagoniste (jumelles après 1909). Winry connaî
   Satella pendant l'orage, avec Paninya. Dominic l'envoie chez Garfiel :
   elle reste à Rush Valley, sans Monsieur Lapinou (resté à Resembool), et
   laisse Rhea repartir avec les frères.
+- 1914 (R9) : à Rush Valley, chez Garfiel, retrouve le trio revenu de
+  Dublith (quatrième retrouvailles) ; rituel de sommeil sans Monsieur
+  Lapinou. Répare le bras d'Ed, avec Rhea au métal. Ling Yao et sa garde.
+  Part avec le trio pour Central (canon ép. 15).
 
 ## Sort connu (canon)
 
@@ -94,7 +98,7 @@ Survit à la trame. Épouse Edward. Poursuit sa carrière d'ingénieure d'automa
 - 1911-1914 : cf. Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md
 - 1914, Resembool après Scar : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md
 - 1914, Central : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md
-- 1914, Rush Valley : cf. Roadmap/Rhea/Roadmap8_Rush_Valley.md, Lieux/Rush_Valley.md
+- 1914, Rush Valley : cf. Roadmap/Rhea/Roadmap8_Rush_Valley.md, Roadmap9_Dublith_Izumi_Et_Greed.md, Lieux/Rush_Valley.md
 
 ---
 

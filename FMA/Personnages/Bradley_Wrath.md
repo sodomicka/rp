@@ -1,6 +1,6 @@
 # King Bradley (Wrath)
 
-- version : W2
+- version : W3
 
 ## Identité
 
@@ -31,7 +31,8 @@ Autorité absolue sur l'armée et les Alchimistes d'État (leur seul patron).
 Projet militaire : des orphelins entraînés pour devenir Führer ; injectés de Pierre distillée. La plupart meurent. Le douzième sujet survit -> devient Wrath, nommé King Bradley.
 Installé comme Généralissime pour servir le plan de Père.
 Signe l'ordre d'extermination d'Ishval (1908).
-1914 : envoie Armstrong et Hughes traquer Scar dans l'Est. Rend visite à Ed à l'hôpital militaire de Central après le Laboratoire 5 ; met les frères en garde contre l'armée, sans rien dire de lui.
+1914 : envoie Armstrong et Hughes traquer Scar dans l'Est.
+1914 (ép. 14) : mène en personne le raid du Devil's Nest à Dublith ; vainc Greed sous terre et se dévoile à lui (Wrath) ; tue Roa, Dolcetto et Martel (à travers l'armure d'Al). Rend visite à Ed à l'hôpital militaire de Central après le Laboratoire 5 ; met les frères en garde contre l'armée, sans rien dire de lui.
 
 ## Relations (neutres)
 
@@ -44,6 +45,7 @@ Signe l'ordre d'extermination d'Ishval (1908).
 
 Incarnation suprême du militarisme que la protagoniste hait - et, sans qu'elle le sache, un homonculus au cœur de la conspiration.
 - 1914 (R7) : à deux mètres d'elle, dans la chambre d'hôpital d'Ed : l'homme qui a signé l'ordre d'extermination d'Ishval. Il rit des insolences. Si elle transmute sans cercle devant lui, l'information remonte à Père (statut de sacrifice : « repérée » pour la partie, Roadmap 12). Attaque verrouillée. Détail : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md.
+- 1914 (R9) : mène le raid du Devil's Nest ; Rhea, tenue dehors, le voit de loin. Elle apprend par Al qu'il a tué les chimères en personne, pas qu'il est un homonculus. Même règle qu'en R7 : sans-cercle sous ses yeux = « repérée ». Détail : cf. Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md.
 
 ## Sort connu (canon)
 
@@ -54,7 +56,8 @@ Vaincu par Scar le Jour Promis (ironie : tué par un survivant de son génocide)
 - Homonculus, Père : cf. Factions/Homonculus.md, Personnages/Pere.md
 - Armée : cf. Factions/Armee_Amestris.md
 - Ishval, Scar : cf. Lieux/Ishval.md, Personnages/Scar.md
-- 1914 : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md
+- 1914 : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md, Roadmap9_Dublith_Izumi_Et_Greed.md
+- Greed : cf. Personnages/Greed.md
 
 ---
 

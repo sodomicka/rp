@@ -6,12 +6,12 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B13 (Roadmap 8, 2026-10-30)
+- dernière mise à jour : BIBLE B14 (Roadmap 9, 2026-10-30)
 
 ## État d'avancement du chantier
-- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R8 (1903 -> départ de Rush
-  Valley 1914, au gabarit SPEC v9.2 §7). R9 à R14 restent à écrire en boucle
-  serrée. Passe d'immersion (modes d'étape,
+- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R9 (1903 -> départ de Rush
+  Valley pour Central 1914, au gabarit SPEC v9.2 §7). R10 à R14 restent à écrire
+  en boucle serrée. Passe d'immersion (modes d'étape,
   tranches de vie) non faite sur R0-R4.
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
   En jeu, la roadmap en cours est un document de jeu (SPEC v9.2 §7).
@@ -150,6 +150,18 @@ pas les re-litiger. JAMAIS fetché en narration.
   l'organique. Monsieur Lapinou reste à Resembool : rituel de sommeil
   suspendu jusqu'au retour à Rush Valley (R9). Aucun homonculus, rien ne
   remonte ; le statut « repérée » éventuel de R7 ne bouge pas.
+- R9 - DUBLITH (mode usine, canon ép. 12-15 vérifié sur Wikipedia) :
+  Izumi = EXCEPTION au verrou du 1903 (elle l'a deviné en 1909 ; Rhea peut
+  confirmer, Izumi se tait). Pas d'apprentissage pour Rhea (une leçon au
+  plus). Rhea avec Ed au Devil's Nest, DEHORS pendant le raid (verrou) :
+  elle voit Bradley de loin, apprend par Al qu'il a tué les chimères, PAS
+  qu'il est un homonculus (Wrath ne se dévoile qu'à Greed, hors POV).
+  Sans-cercle devant Greed : rien ne remonte (refondu par Père)
+  [INTERPRÉTATION] ; devant Bradley : « repérée », comme en R7. Le sang de
+  Martel rend à Al la nuit de 1910, PAS le sans-cercle. Winry part avec le
+  trio pour Central (canon ép. 15) ; rituel de sommeil sans Monsieur
+  Lapinou, toujours à Resembool. Le garde-cap disait « Bradley se dévoile
+  en rasant le repaire » : recalé (dévoilement hors POV).
 
 ## Points ouverts (à trancher en Passe 2, roadmap par roadmap)
 - Statut de sacrifice de Rhea (Roadmap 12) : repérage désormais ÉTAYÉ
@@ -161,8 +173,13 @@ pas les re-litiger. JAMAIS fetché en narration.
   le cacher à Winry (cf. décision R6). À trancher en écrivant R10.
 - Placement des ép. 23-29 (Ling devient Greed, ventre de Gluttony, repaire
   de Père) : entre R10 et Briggs, à trancher en écrivant R11.
-- Al et la Porte : ép. 14, le sang de Martel lui rend ses souvenirs (nuit de
-  1910) ; le sans-cercle vient plus tard [INCERTAIN : moment]. À poser en R9.
+- Al et le sans-cercle : souvenirs de 1910 rendus en R9 (ép. 14) ; le
+  sans-cercle vient plus tard [INCERTAIN : moment]. À vérifier au fil des
+  roadmaps suivantes ; la lecture anti-Al de Rhea en dépend.
+- Quand Rhea apprend que Bradley est un homonculus : à placer selon le
+  canon en écrivant R10 ou R11.
+- Monsieur Lapinou toujours à Resembool : la Roadmap 10 passe à Resembool
+  (ép. 18) ; le récupérer ou non, à trancher en écrivant R10.
 - Ce que Scar retient de Rhea (si elle a transmuté devant lui en R6) : un
   visage de seconde sans-cercle, sans nom. À reprendre aux roadmaps où il
   recroise le trio.
@@ -187,6 +204,11 @@ pas les re-litiger. JAMAIS fetché en narration.
   enterre Hughes [CANON SUPPOSÉ : simultanéité]. -> CODEX ANNEXE_SAVOIRS.
 - IRONIE Bradley (R7) : le chef de l'armée qu'elle hait est aussi un
   homonculus ; elle l'a eu à deux mètres. -> CODEX ANNEXE_SAVOIRS.
+- IRONIE Bradley (R9) : au Devil's Nest, il se dévoile à Greed à quelques
+  mètres sous les pieds de Rhea. -> CODEX ANNEXE_SAVOIRS.
+- IRONIE Greed (R9) : l'homonculus qui veut l'immortalité est refondu par
+  Père, et renaîtra dans Ling, que Rhea nourrit à Rush Valley.
+  -> CODEX ANNEXE_SAVOIRS.
 
 ## [INCERTAIN] laissés volontairement en suspens (ne pas armer)
 - Numéro de l'ordre d'extermination d'Ishval : "3066" ou "306". Non tranché.
