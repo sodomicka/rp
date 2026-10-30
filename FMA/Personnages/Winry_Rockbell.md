@@ -1,6 +1,6 @@
 # Winry Rockbell
 
-- version : W6
+- version : W7
 
 ## Identité
 
@@ -73,6 +73,12 @@ Sororité fusionnelle avec la protagoniste (jumelles après 1909). Winry connaî
   ment pas : elle peut savoir pour la Pierre avant le canon (au choix du
   joueur), et se tait alors devant les frères. Part avec le trio vers Rush
   Valley, la ville de son rêve.
+- 1914 (R8) : Rush Valley. Refusée deux fois par Dominic LeCoulte ;
+  convainc Paninya de cesser de voler ; voit la date de l'incendie gravée
+  dans la montre d'Ed, se tait devant lui, le dit à Rhea. Accouche
+  Satella pendant l'orage, avec Paninya. Dominic l'envoie chez Garfiel :
+  elle reste à Rush Valley, sans Monsieur Lapinou (resté à Resembool), et
+  laisse Rhea repartir avec les frères.
 
 ## Sort connu (canon)
 
@@ -88,6 +94,7 @@ Survit à la trame. Épouse Edward. Poursuit sa carrière d'ingénieure d'automa
 - 1911-1914 : cf. Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md
 - 1914, Resembool après Scar : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md
 - 1914, Central : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md
+- 1914, Rush Valley : cf. Roadmap/Rhea/Roadmap8_Rush_Valley.md, Lieux/Rush_Valley.md
 
 ---
 

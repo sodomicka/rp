@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W7
+- version : W8
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -119,16 +119,18 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
 
 ### Roadmap 8 - Rush Valley
 - Canon ép. 11 : la ville de l'automail, rêve de Winry, foule pour Rhea ;
-  Paninya et la montre d'Ed (la date de l'incendie) ; Winry refusée par
-  Dominic, l'accouchement ; les frères repartent vers Dublith.
-  Respiration sororale ; Winry reste à Rush Valley.
+  Paninya et la montre d'Ed (Winry voit la date de l'incendie et le dit à
+  Rhea) ; Winry refusée par Dominic, l'accouchement pendant l'orage (Rhea
+  voit une âme arriver dans un corps) ; Winry reste chez Garfiel ; Rhea
+  repart avec les frères vers Dublith. Respiration sororale. Écrite (W1).
 
 ### Roadmap 9 - Dublith : Izumi et Greed
 - Canon ép. 12-15 : Izumi revue (miroir deuil-transmutation, culmine ici) ;
   Devil's Nest, Greed, chimères ; Bradley se dévoile (Wrath) en rasant le
   repaire ; le sang de Martel rend à Al ses souvenirs de la nuit de 1910 ;
   retour à Rush Valley, Ling Yao, Lan Fan et Fu ; départ pour Central avec
-  Winry.
+  Winry. Retrouvailles avec Winry à Rush Valley : rituel de sommeil
+  suspendu depuis R8 (Monsieur Lapinou à Resembool).
 
 ### Roadmap 10 - Central : Hughes et Scar
 - Canon ép. 16-22 : Ed apprend la mort de Hughes (Ross, Gracia) ; Ross

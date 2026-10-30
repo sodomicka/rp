@@ -16,7 +16,7 @@
 - univers : Fullmetal Alchemist (branche manga / Brotherhood, continuité Arakawa)
 - sources primaires : manga Arakawa + anime Brotherhood (2009). Canon local prime sur 2003.
 - site_ref canon (Brotherhood, épisode par épisode) : `https://fma.fandom.com/wiki/Episode_<N>_(2009_Anime)` (N = 1 à 64 ; chaque page liste les chapitres manga adaptés). Secours : `https://fma.fandom.com/wiki/List_of_Fullmetal_Alchemist_episodes` ou recherche web. VÉRIFICATION uniquement : ni théories fans, ni copie de texte. Méthode de déroulement : cf. _Implications.md.
-- bible_version : B12
+- bible_version : B13
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/FMA/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/FMA/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/FMA/Partie1/`
@@ -25,9 +25,9 @@
   - (racine) - Résumé de l'histoire établie : Resume.md (1 page)
   - Systemes - moteur du monde : alchimie, Vérité, Pierre, automail (4 pages)
   - Factions - armée et conspiration (2 pages)
-  - Lieux - géographie narrative (3 pages)
-  - Personnages - fiches neutres canon + protagoniste OC (23 pages)
-  - Roadmap/Rhea - garde-cap + roadmaps détaillées, perspective Rhea (9 pages)
+  - Lieux - géographie narrative (4 pages)
+  - Personnages - fiches neutres canon + protagoniste OC (25 pages)
+  - Roadmap/Rhea - garde-cap + roadmaps détaillées, perspective Rhea (10 pages)
 - focus narratif : est d'Amestris autour de Resembool, avant et pendant la trame canon. Protagoniste OC (Rhea) : prix cognitif de la Vérité + relecture antimilitariste des événements. Instance jouée en CODEX + Parties/.
 
 ## SB1 Cosmogonie et règles du monde
@@ -92,7 +92,8 @@
 | 1914 | Liore : Ed démasque Cornello, fausse Pierre ; Cornello tué par Lust et Gluttony (hors POV Rhea) | Première ville canon ; carte de Winry en échec. cf. WIKI Roadmap/Rhea/Roadmap5_Liore.md |
 | 1914 | East City : Tucker et Nina ; Scar tue Tucker, brise le bras d'Ed et l'armure d'Al ; retour à Resembool | Rhea face à Scar sans savoir qu'il a tué ses parents. cf. WIKI Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md |
 | 1914 | Central : notes de Marcoh décodées, Laboratoire 5 ; Winry à Central ; Bradley au chevet d'Ed ; départ vers le Sud ; Maes Hughes tué par Envy au même moment | La Pierre = vies humaines ; enquête de Mustang. cf. WIKI Roadmap/Rhea/Roadmap7_Laboratoire_5.md |
-| 1914 | Trame principale (Rush Valley, Dublith, retour à Central, le Nord) | cf. WIKI Roadmap/Rhea/00_Garde_Cap.md |
+| 1914 | Rush Valley : Paninya vole la montre d'Ed (Winry y voit la date de l'incendie) ; Winry accouche la belle-fille de Dominic ; Winry reste chez Garfiel | Rhea repart sans Winry vers Dublith. cf. WIKI Roadmap/Rhea/Roadmap8_Rush_Valley.md |
+| 1914 | Trame principale (Dublith, retour à Central, le Nord) | cf. WIKI Roadmap/Rhea/00_Garde_Cap.md |
 | printemps 1915 | Jour Promis (éclipse solaire) | Culmination du plan de Père |
 
 Détail des étapes par arc : cf. FMA/Roadmap/Rhea/.
@@ -100,7 +101,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 
 ### Notes
 - Cap des roadmaps (15, R0 à R14, Porte 1903 -> retour à Resembool 1915) : cf. WIKI Roadmap/Rhea/00_Garde_Cap.md. État d'avancement du chantier : cf. _Implications.md.
-- Incendie de la maison Elric : 1911, APRÈS l'examen d'État (examen -> incendie -> départ pour la quête), le 3 octobre [CANON SUPPOSÉ : date gravée dans la montre d'Ed] - séquence probablement canon, à vérifier.
+- Incendie de la maison Elric : 1911, APRÈS l'examen d'État (examen -> incendie -> départ pour la quête). La montre d'Ed porte la date gravée (vérifié ép. 11 : Winry la voit à Rush Valley) ; le 3 octobre reste [CANON SUPPOSÉ : texte exact].
 - [INCERTAIN] Numéro de l'ordre d'extermination d'Ishval : "3066" ou "306" selon les sources. Non tranché.
 - Parents Rockbell (Sarah, Yuri) : missions humanitaires ponctuelles depuis 1901 ; présents à l'arrivée de Rhea (1903) ; dernier départ 1907 ; tués par Scar 1908 ; nouvelle reçue à Resembool 1909.
 - Année exacte de destruction de Xerxès : [INCERTAIN] (~400 ans avant la trame).
@@ -136,6 +137,8 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Rose Thomas - fidèle de Léto à Liore | - | fiancé mort, promesse de résurrection de Cornello : miroir du 1903 de Rhea | reste à Liore | établi. detail: cf. WIKI Personnages/Rose_Thomas.md
 - Izumi Curtis - maîtresse alchimiste | alchimie large sans cercle, arts martiaux | mentor des Elric (1909), miroir du deuil-transmutation ; sait dès 1909 qu'une gamine transmute sans cercle | survit | établi. detail: cf. WIKI Personnages/Izumi_Curtis.md
 - Alan - frère cadet de Rhea, mort avant l'adoption | - | seul élément rescapé de l'origine de Rhea (le village natal, lui, ne détone jamais) | mort en 1903 à 4 ans (pneumopathie à l'amiante) | OC. detail: cf. WIKI Personnages/Rhea.md
+- Paninya - pickpocket de Rush Valley | jambes d'automail armées (canon, lame) | protégée de Dominic, amie de Winry | cesse de voler, survit | établi. detail: cf. WIKI Personnages/Paninya.md
+- Dominic LeCoulte - maître d'automail reclus de Rush Valley | automail armé | fils Ridel, belle-fille Satella ; redoute Pinako ; refuse Winry, l'envoie chez Garfiel | survit | établi. detail: cf. WIKI Personnages/Dominic_LeCoulte.md
 - Rhea - protagoniste OC, alchimiste sans cercle (minéral/métal), péage cognitif (œil droit + cortex orbitofrontal), antimilitariste | instance jouée : CODEX | fille adoptive Rockbell, sœur fusionnelle de Winry, amie d'enfance des Elric (fracture 1910-1914), sœur d'Alan (défunt) | [selon RP] | OC. detail: cf. WIKI Personnages/Rhea.md
 
 ## SB6 Lieux
@@ -147,12 +150,13 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Liore - ville du désert de l'Est, culte de Léto | Est d'Amestris | première ville canon (R5), faux prophète Cornello | bascule après le départ des Elric. detail: cf. WIKI Roadmap/Rhea/Roadmap5_Liore.md
 - East City - ville de garnison de l'Est | Est d'Amestris | QG de Mustang ; Tucker, première attaque de Scar (R6) | - . detail: cf. WIKI Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md
 - Central City - capitale | centre du pays | siège du pouvoir et de Père ; bibliothèque, Laboratoire 5, maison des Hughes (R7) | - . detail: cf. WIKI Roadmap/Rhea/Roadmap7_Laboratoire_5.md
+- Rush Valley - ville de l'automail | Sud, sur la ligne de Dublith | rêve de Winry, foule pour Rhea ; Winry y reste chez Garfiel (R8) | - . detail: cf. WIKI Lieux/Rush_Valley.md
 - Dublith - ville du Sud | - | foyer d'Izumi Curtis, lieu d'apprentissage des Elric (1909) | - . [détail à la demande]
 
 ## SB7 Artefacts et objets
 - Pierre philosophale - condensat d'âmes | fabrication par meurtre de masse | amplifie, paie le péage, cœur des homonculus | plusieurs exemplaires | établi. detail: cf. WIKI Systemes/Pierre_Philosophale.md
 - Automail - prothèse nerveuse mécanique | technologie civile d'Amestris | remplace un membre, transmutable si métal | répandu | établi. detail: cf. WIKI Systemes/Automail.md
-- Montre d'argent d'Alchimiste d'État - identifiant + amplificateur symbolique | délivrée à l'examen | marque le statut d'arme d'État | portée par les Alchimistes d'État | établi.
+- Montre d'argent d'Alchimiste d'État - identifiant + amplificateur symbolique | délivrée à l'examen | marque le statut d'arme d'État ; celle d'Ed porte gravée la date de l'incendie (vue par Winry, R8) | portée par les Alchimistes d'État | établi.
 - Bras droit de Scar - bras greffé de son frère | alchimie de destruction | détruit la matière sans reconstruire | porté par Scar | établi. detail: cf. WIKI Personnages/Scar.md
 - Array d'alchimie de flamme - tatouage dans le dos de Riza | œuvre de Berthold Hawkeye | seul enregistrement complet de l'alchimie de flamme | brûlé en partie plus tard | établi. detail: cf. WIKI Personnages/Riza_Hawkeye.md
 - Grimoire d'alchimie du père de Rhea - traité complet incluant la théorie de la transmutation humaine | atelier du père mineur | source de la transmutation de 1903 | perdu/détruit avec le village | OC. detail: cf. WIKI Roadmap/Rhea/Roadmap0_La_Porte.md
@@ -175,7 +179,7 @@ Format : Fil - planté en | condition de détonation | conséquence attendue | s
 - Transmutation cachée des Elric - planté 1910 | détonée sur place (R3) | fracture Rhea/Elric 1910-1914, détestation à double tranchant | DÉTONÉ. déroulé : cf. WIKI Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md, Personnages/Rhea.md (Trajectoire datée)
 - Révélation du 1903 de Rhea aux Elric - planté 1910 (fracture jouée sans qu'elle s'explique) | détonée en 1914, au retour des frères, avant le départ (R4) | compréhension rétroactive de la fracture, cale la réconciliation | DÉTONÉ. déroulé : cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md
 - Nœud Rhea/Al - planté dès l'enfance (apogée 1909), noué 1910 (Al = anti-Alan, dissonance sans résolution) | avoué seulement à la fin du périmètre | tension intime traversante | armé. cf. WIKI Personnages/Rhea.md (Relations, Trajectoire datée)
-- Statut de sacrifice de Rhea - planté 1903 (Porte ouverte) ; armé 1910 (repérage Mustang sur place : rumeur + démonstration) ; Liore 1914 : rien ne remonte aux homonculus (Cornello meurt sans parler) ; East City 1914 : Scar, Armstrong, Hughes peuvent la voir, rien ne remonte ; Central 1914 : homonculus hors POV au Laboratoire 5 ; transmuter devant Bradley (choix du joueur) la ferait « repérée » | repérage par Père / les homonculus | intérêt de la conspiration, danger | armé. cf. mystère ci-dessus
+- Statut de sacrifice de Rhea - planté 1903 (Porte ouverte) ; armé 1910 (repérage Mustang sur place : rumeur + démonstration) ; Liore 1914 : rien ne remonte aux homonculus (Cornello meurt sans parler) ; East City 1914 : Scar, Armstrong, Hughes peuvent la voir, rien ne remonte ; Central 1914 : homonculus hors POV au Laboratoire 5 ; transmuter devant Bradley (choix du joueur) la ferait « repérée » ; Rush Valley 1914 : aucun homonculus, rien ne remonte | repérage par Père / les homonculus | intérêt de la conspiration, danger | armé. cf. mystère ci-dessus
 - Parallèle deuil-transmutation - planté 1903 ; amorcé à distance avec Izumi (1909) | mise en regard directe avec Izumi et les Elric (culmine R9) | résonance thématique : une alchimiste qui a payé la Vérité pour un être aimé | planté. cf. WIKI Personnages/Izumi_Curtis.md
 
 ## SB9 Index - routage
@@ -185,4 +189,4 @@ Index détaillé page-par-page : cf. WIKI FMA/Sommaire.md
 
 ---
 
-FIN_BIBLE_B12
+FIN_BIBLE_B13
