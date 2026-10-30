@@ -1,6 +1,6 @@
 # Roadmap 10 - Central : Hughes et Scar
 
-- version : W1
+- version : W2
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : ~2 semaines (1914) [CANON SUPPOSÉ : durées internes] : ~3 jours (Hughes, Ross), ~5 jours sans Ed, ~3 jours de traque de Scar, le piège, le lendemain (Winry, la planque)
@@ -19,7 +19,7 @@
   - Winry est repartie seule pour Rush Valley ; Rhea reste avec les frères ;
   - Rhea sait que Bradley est un homonculus.
 - roadmap précédente : cf. WIKI Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md
-- roadmap suivante : Roadmap 11 - Le Nord : Briggs (à écrire)
+- roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md
 
 ## Intention
 L'arc des deuils qu'on rattrape. Hughes est mort pendant qu'elle était dans le train ; Ross brûle sous ses yeux, de la main du « génocidaire » de 1910, mise en scène. La chose de 1910 n'était pas Trisha, ce que Rhea a toujours dit. Puis le tueur ishval qu'elle a pu applaudir à East City raconte les deux médecins : les sœurs apprennent à la même seconde. Winry repart seule ; le chef de l'armée n'est pas humain.

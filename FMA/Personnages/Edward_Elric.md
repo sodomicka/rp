@@ -1,6 +1,6 @@
 # Edward Elric
 
-- version : W9
+- version : W10
 
 ## Identité
 
@@ -54,6 +54,7 @@ Ami d'enfance de la protagoniste (elle est un peu plus âgée). En 1910, Ed et A
 - 1914 (R8) : à Rush Valley, Paninya lui vole sa montre d'Alchimiste d'État ; Winry y voit la date de l'incendie gravée, sans le lui dire (Rhea peut le lui lâcher, au choix du joueur). Laisse Winry chez Garfiel et repart vers Dublith avec Al et Rhea.
 - 1914 (R9) : à Dublith, Izumi devine la transmutation et avoue la sienne ; les frères deviennent ses égaux. Affronte Greed au Devil's Nest (Rhea avec lui), transmute son bouclier ; retenu dehors par Armstrong pendant le raid de Bradley. À Rush Valley, Winry répare son bras ; rencontre Ling Yao, combat Lan Fan et Fu, répare la ville. Part pour Central avec Al, Winry et Rhea.
 - 1914 (R10) : apprend la mort de Hughes, s'en accuse devant Gracia. Témoin du « meurtre » de Ross par Mustang ; Armstrong l'emmène seul à Resembool : Ross vivante aux ruines de Xerxès ; des réfugiés ishvals lui apprennent que Scar a tué les Rockbell ; Hohenheim ; l'exhumation (la chose n'était pas Trisha). De retour, dit Ross vivante à Al et Rhea sous le sceau du secret, tait Scar à Winry donc à Rhea. Tend le piège à Scar, l'interroge sur les Rockbell devant les deux sœurs, désarme Winry. Apprend de Ling que Bradley est un homonculus.
+- 1914 (R11) : avalé par Gluttony avec Ling et Envy ; ouvre la Porte sur lui-même avec la Pierre d'Envy pour sortir, voit le corps d'Al ; au repaire de Père, alchimie bloquée ; Bradley refuse sa démission et tient Winry en otage. Rapporte tout à Rhea. Rend son pistolet à Riza (récit d'Ishval). Briggs : automail gelé, Olivier, le tunnel-cercle ; Kimblee l'envoie traquer Scar ; couvre la ruse de Baschool auprès de Kimblee. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
 
 ## Sort connu (canon)
 

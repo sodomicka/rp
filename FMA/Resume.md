@@ -1,6 +1,6 @@
 # Résumé - FMA
 
-- version : W9
+- version : W10
 
 Résumé de l'histoire telle qu'établie pour ce RP : canon Brotherhood condensé, trajectoire de la protagoniste OC (Rhea) et divergences actées. Faits seuls, pas de déroulé : le détail vit dans les roadmaps et les fiches.
 
@@ -25,7 +25,8 @@ Résumé de l'histoire telle qu'établie pour ce RP : canon Brotherhood condens�
 - 1914 - Rush Valley (R8). La ville du rêve de Winry, la pire foule pour Rhea. Paninya, pickpocket aux jambes d'automail, vole la montre d'Ed ; Dominic LeCoulte, son auteur, refuse Winry comme apprentie. Winry voit gravée dans la montre la date de l'incendie et le dit à Rhea. Pendant un orage, Winry accouche la belle-fille de Dominic ; Rhea voit un corps arriver avec son âme. Dominic envoie Winry chez Garfiel : elle reste, Rhea repart vers Dublith avec les frères.
 - 1914 - Dublith : Izumi et Greed (R9). Chez les Curtis, Izumi devine la transmutation des frères et avoue la sienne (son enfant mort-né). Elle reconnaît Rhea à l'orbite vide : la première personne que Rhea lit sans carte, qui sait son prix sans aveu. Al est enlevé par les chimères humaines de Greed, homonculus déserteur ; Ed l'affronte, Izumi intervient. Le Généralissime mène le raid en personne, Rhea tenue dehors ; Greed est capturé, Bradley tue les chimères, et le sang de Martel rend à Al ses souvenirs de la nuit de 1910. Retour à Rush Valley : Winry retrouvée, Ling Yao, prince de Xing, et sa garde Lan Fan et Fu. Winry part avec le trio pour Central.
 - 1914 - Central : Hughes et Scar (R10). Mustang parle de retraite, Ross dit le meurtre de Hughes ; deuil chez Gracia. Ross, accusée, évadée par Barry, est « brûlée » par Mustang sous les yeux de Rhea : mise en scène, elle part pour Xing. Ed, emmené seul à Resembool, revient en sachant Ross vivante (il le confie à Al et Rhea) et que la chose de 1910 n'était pas Trisha. Al seul relais de Rhea. Au piège tendu à Scar, Rhea et Winry entendent ensemble qu'il a tué Sarah et Yuri, et son récit (Kimblee, le bras de son frère) ; Ed le savait. Scar fuit avec May Chang. Winry repart seule pour Rush Valley ; chez le docteur Knox, Ling révèle que Bradley est un homonculus.
-- 1914-1915 - relecture du canon (R11 à R14, cap seulement). Rhea traverse la suite de la trame Brotherhood aux côtés des frères jusqu'au Jour Promis, puis retour à Resembool (bouclage Monsieur Lapinou / Cliquetis). Point de décision réservé : statut de sacrifice (R12 : hors radar de Père par défaut, repérage étayé côté armée depuis 1910).
+- 1914 - Le Nord : Briggs (R11). À la planque de Knox, Gluttony se transforme ; Rhea part avec Knox, Mustang blessé et Lan Fan. Ed, Ling et Envy avalés, Al mené à Père : ils reviennent par le repaire sous Central. Ed rapporte la Porte ouverte sur lui-même avec une Pierre, le corps d'Al vu devant elle, Père au visage de Hohenheim, Ling devenu Greed, Envy à l'origine d'Ishval, et Bradley qui garde Ed dans l'armée en menaçant Winry. Riza raconte Ishval à Ed et Rhea : Mustang et elle attendent d'être jugés. L'équipe de Mustang est dispersée ; dîner chez les Bradley (Selim, en vérité Pride). Au Nord, Olivier Armstrong tient Briggs ; Sloth surgit du sol ; le tunnel révèle le cercle national. Kimblee, l'Alchimiste écarlate, amène Winry ; l'automail de grand froid se forge à quatre mains. À Baschool, Winry confronte Scar avec Rhea, puis lui pardonne ; la ruse de l'enlèvement emmène les deux sœurs avec Scar, May, Marcoh et Yoki dans les galeries.
+- 1914-1915 - relecture du canon (R12 à R14, cap seulement). Rhea traverse la suite de la trame Brotherhood aux côtés des frères jusqu'au Jour Promis, puis retour à Resembool (bouclage Monsieur Lapinou / Cliquetis). Point de décision réservé : statut de sacrifice (R12 : hors radar de Père par défaut, repérage étayé côté armée depuis 1910).
 
 ## Divergences actées vs canon
 
@@ -39,6 +40,7 @@ Résumé de l'histoire telle qu'établie pour ce RP : canon Brotherhood condens�
 - R8 : Rhea à Rush Valley et à l'accouchement ; Dominic voit dans le bras d'Ed le métal d'une alchimiste, sans offre.
 - R9 : Rhea à Dublith, face à Izumi (seule exception hors Elric et Rockbell au secret du 1903, par déduction) et au Devil's Nest ; elle peut réparer Rush Valley avec les frères.
 - R10 : Rhea reste à Central pendant le voyage d'Ed à Resembool ; elle apprend avec Winry, à la même seconde, l'identité du tueur de leurs parents ; elle sait Ross vivante ; Monsieur Lapinou peut être rapporté à Winry.
+- R11 : Rhea part avec Knox au lieu de suivre les frères, entend le récit d'Ishval de Riza, dîne chez les Bradley, vit Briggs et Baschool, et part avec Winry dans la ruse de l'enlèvement ; Winry peut savoir qu'elle est otage avant Briggs.
 - Alphonse : conforme au canon (aucun souvenir de la Porte, pas de sans-cercle avant tard dans la trame ; souvenirs de 1910 rendus à Dublith).
 
 ---

@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W17
+- version : W18
 
 ## Identité
 
@@ -316,6 +316,9 @@ Alimentées à chaud, arc par arc (Passe 2) :
 - Izumi (R9, 1914) : seule personne hors Elric et Rockbell qui connaît le
   prix du sans-cercle de Rhea - par déduction depuis 1909, pas par aveu.
   Rhea peut le confirmer ; Izumi n'en dit rien à personne.
+- Winry otage (R11, 1914) : dès le retour d'Ed, Rhea sait que sa sœur tient
+  Ed en laisse pour Bradley. Elle ne ment pas à Winry : l'appeler est au
+  choix du joueur, sinon Winry l'apprend à Briggs.
 
 ## Trajectoire datée (post-1903)
 
@@ -443,7 +446,22 @@ partie.
   repart seule pour Rush Valley (quatrième séparation), Monsieur Lapinou
   avec elle si Rhea l'a fait rapporter. Chez Knox, Ling révèle que le
   Généralissime est un homonculus.
-- (suite à alimenter roadmap par roadmap : R11 et au-delà)
+- 1914 (R11) - Le Nord : Briggs. Gluttony se change en gouffre ; elle part avec
+  Knox, Mustang blessé et Lan Fan amputée dans la voiture. Un à deux jours sans
+  Winry, sans Ed, sans Al : Cliquetis seul. Al revient avec May Chang, puis
+  Ed : la Porte ouverte sur lui-même avec une Pierre, le corps d'Al vu devant
+  elle, Père sous Central au visage de Hohenheim, Ling habité par Greed, Envy
+  qui a allumé Ishval, Winry otage de Bradley pour tenir Ed. Chez Riza, le
+  récit d'Ishval : le « génocidaire » de 1910 hait ce qu'il a fait et attend
+  d'être jugé. À la table des Bradley, l'homonculus passe le sel ; Selim est
+  poli. Au Nord, l'automail d'Ed gèle ; Olivier, Miles l'Ishval en uniforme,
+  Sloth ; le tunnel : le pays est un cercle, Ishval un point de sang, l'armée
+  le pinceau. Kimblee amène Winry : retrouvailles, l'automail de grand froid à
+  quatre mains. À Baschool, second face-à-face avec Scar, en connaissance ;
+  Winry lui pardonne, Rhea non, ou à sa manière. Scar « enlève » les deux
+  sœurs ; elle s'enfonce avec Winry dans les galeries, vers le fort, sous le
+  blizzard ; les frères restent chez Kimblee.
+- (suite à alimenter roadmap par roadmap : R12 et au-delà)
 
 ## Renvois
 
@@ -453,7 +471,7 @@ partie.
 - Elric : cf. Personnages/Edward_Elric.md, Alphonse_Elric.md
 - Miroirs deuil-transmutation : cf. Personnages/Izumi_Curtis.md, Trisha_Elric.md
 - Scar : cf. Personnages/Scar.md
-- Lieux : cf. Lieux/Resembool.md, Ishval.md, Rush_Valley.md, Dublith.md
+- Lieux : cf. Lieux/Resembool.md, Ishval.md, Rush_Valley.md, Dublith.md, Amestris.md (cercle national, R11)
 - Grimoire du père : cf. BIBLE SB7
 
 ---

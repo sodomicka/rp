@@ -1,6 +1,6 @@
 # Ling Yao
 
-- version : W2
+- version : W3
 
 ## Identité
 
@@ -60,6 +60,7 @@ illégalement ; échoue à Rush Valley.
   escorte Ross vers Xing. À la planque, Ling, qui sent le flux, révèle
   devant Rhea que le Généralissime est un homonculus. Détail : cf.
   Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
+- 1914 (R11) : avalé par Gluttony avec Ed ; au repaire de Père, reçoit la Pierre de Greed, qui prend son corps (hors POV). Rhea l'apprend d'Ed ; Lan Fan reçoit son message. Lan Fan et Fu refusent l'automail pour l'instant ; Rhea peut avoir proposé l'atelier Rockbell. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
 
 ## Sort connu (canon)
 
