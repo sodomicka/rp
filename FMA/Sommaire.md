@@ -4,7 +4,7 @@
 
 ## WIKI
 
-> Chaque entrée porte la version `(W<N>)` de la page : inventaire de versions. Un écart entre ce W<N> et celui écrit dans la page elle-même signale une copie périmée (canari, non bloquant). Préfixe usuel W<N> ; la fiche Rhea porte un préfixe propre (R<N>) - le principe reste : le tag du Sommaire matche le tag interne de la page.
+> Chaque entrée porte la version `(W<N>)` de la page : inventaire de versions. Un écart entre ce W<N> et celui écrit dans la page elle-même signale une copie périmée (canari, non bloquant).
 >
 > QUI LIT LE CANARI. Deux lecteurs, deux moments :
 > - EN NARRATION, à chaque page fetchée : le MJ compare le `W<N>` de la page au `W<N>` de son entrée au Sommaire. Écart -> `[VERSION DECALEE - <page> : Sommaire W<x>, page W<y>]` en OOC bref, NON BLOQUANT. Arbitrage : la PAGE fait foi (c'est le fichier réel ; le Sommaire n'est qu'un index). Cf. Instructions RP §4.2ter.
@@ -45,7 +45,7 @@ Description : fiches neutres canon des entités qui pèsent sur le RP, plus la p
 - Bradley_Wrath.md (W1) - Généralissime et homonculus Wrath
 - Pere.md (W1) - homonculus originel, maître de la conspiration
 - Izumi_Curtis.md (W2) - maîtresse des Elric (1909), miroir thématique du deuil-transmutation ; sait dès 1909 qu'une gamine transmute sans cercle
-- Rhea.md (R11) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (1910 -> départ de 1914) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises, agoraphobie, pudeur a posteriori), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
+- Rhea.md (W11) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (1910 -> départ de 1914) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises, agoraphobie, pudeur a posteriori), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
 
 ### Roadmap/Rhea/
 Description : itinéraires par arc, dans l'ordre de la saga, par perspective de la protagoniste. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).
