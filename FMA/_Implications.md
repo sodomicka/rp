@@ -6,11 +6,11 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B11 (Roadmap 6, 2026-10-30)
+- dernière mise à jour : BIBLE B12 (Roadmap 7, 2026-10-30)
 
 ## État d'avancement du chantier
-- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R6 (1903 -> East City
-  1914, au gabarit SPEC v9.2 §7). R7 à R14 restent à écrire en boucle
+- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R7 (1903 -> départ de Central
+  1914, au gabarit SPEC v9.2 §7). R8 à R14 restent à écrire en boucle
   serrée. Passe d'immersion (modes d'étape,
   tranches de vie) non faite sur R0-R4.
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
@@ -127,19 +127,34 @@ pas les re-litiger. JAMAIS fetché en narration.
   Winry : si elle apprend la première, elle le lui dit.
 - R6 - NINA VERROUILLÉE : Rhea n'achève ni Nina ni Tucker (Scar les tue).
   Différence avec 1910 : la chimère a une âme et parle.
+- RECALAGE R7-R10 (tranché en mode usine, R7, canon ép. 7-22 vérifié sur
+  Wikipedia) : R7 = ép. 7-10 (Central, Laboratoire 5, Winry, départ ; Hughes
+  tué hors POV au départ) ; R8 = Rush Valley (ép. 11) ; R9 = Dublith (ép.
+  12-15, retour à Rush Valley et Ling) ; R10 = Central : Hughes et Scar
+  (ép. 16-22, détonation Scar / parents). Ép. 23-29 à placer en écrivant R11.
+- R7 - RHEA DEHORS AU LABORATOIRE 5 (mode usine) : avec Al, face à Barry ;
+  jamais dedans (verrou), aucun homonculus vu. Protège le statut de
+  sacrifice.
+- R7 - SANS-CERCLE DEVANT BRADLEY (mode usine, dans la ligne de « alchimie
+  devant un témoin = choix du joueur ») : Wrath est un homonculus, l'info
+  remonte à Père ; statut « repérée » pour la partie (delta Parties/),
+  hérité par R12. Devant les autres témoins de R7 : rien ne remonte.
+- R7 - RHEA NE MENT PAS À WINRY (mode usine) : le secret du Laboratoire 5
+  qu'Ed veut taire, Rhea le dit ou dit qu'il existe, au choix du joueur.
+  Par défaut, Winry se tait devant les frères ; rien ne bouge sur la trame.
 
 ## Points ouverts (à trancher en Passe 2, roadmap par roadmap)
 - Statut de sacrifice de Rhea (Roadmap 12) : repérage désormais ÉTAYÉ
   (Mustang a VU la démonstration en 1910). Que devient l'info côté armée
   (rapport écrit ? bouche cousue ?). À trancher en écrivant Roadmap 12.
   Par défaut : hors radar de Père.
-- RECALAGE R7-R10 (à faire en écrivant R7) : l'ordre canon met la mort de
-  Hughes (ép. 10) AVANT Rush Valley (ép. 11) et Dublith (ép. 12-14) ;
-  Winry est appelée à Central dès l'ép. 9. Le garde-cap (R8 Rush Valley,
-  R9 Dublith, R10 Hughes) ne suit pas cet ordre : balise posée au garde-cap.
-- Détonation Scar / parents : roadmap à fixer (celle qui porte les
-  ép. 18-22). Ed apprend d'abord (Resembool, ép. 18) : Rhea est-elle avec
-  lui ? Si oui, elle ne peut pas le cacher à Winry (cf. décision R6).
+- Détonation Scar / parents : Roadmap 10 (ép. 18-22). Ed apprend d'abord
+  (Resembool, ép. 18) : Rhea est-elle avec lui ? Si oui, elle ne peut pas
+  le cacher à Winry (cf. décision R6). À trancher en écrivant R10.
+- Placement des ép. 23-29 (Ling devient Greed, ventre de Gluttony, repaire
+  de Père) : entre R10 et Briggs, à trancher en écrivant R11.
+- Al et la Porte : ép. 14, le sang de Martel lui rend ses souvenirs (nuit de
+  1910) ; le sans-cercle vient plus tard [INCERTAIN : moment]. À poser en R9.
 - Ce que Scar retient de Rhea (si elle a transmuté devant lui en R6) : un
   visage de seconde sans-cercle, sans nom. À reprendre aux roadmaps où il
   recroise le trio.
@@ -158,6 +173,10 @@ pas les re-litiger. JAMAIS fetché en narration.
   Yuri - ni lui qu'elle est leur fille. -> CODEX ANNEXE_SAVOIRS.
 - IRONIE Armstrong (R6) : l'Alchimiste d'État logé chez les Rockbell est
   celui qui a refusé de continuer à Ishval.
+- IRONIE Hughes (R7) : tué par Envy le jour où le trio quitte Central ;
+  Rhea l'apprend en R10. -> CODEX ANNEXE_SAVOIRS.
+- IRONIE Bradley (R7) : le chef de l'armée qu'elle hait est aussi un
+  homonculus ; elle l'a eu à deux mètres. -> CODEX ANNEXE_SAVOIRS.
 
 ## [INCERTAIN] laissés volontairement en suspens (ne pas armer)
 - Numéro de l'ordre d'extermination d'Ishval : "3066" ou "306". Non tranché.

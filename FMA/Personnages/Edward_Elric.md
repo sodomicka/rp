@@ -1,6 +1,6 @@
 # Edward Elric
 
-- version : W5
+- version : W6
 
 ## Identité
 
@@ -50,6 +50,7 @@ Ami d'enfance de la protagoniste (elle est un peu plus âgée). En 1910, Ed et A
 - 1914 (R4) : revenu avec l'automail amoché et une piste sur la Pierre (Liore), c'est lui qui rompt trois ans de silence pour recruter Rhea - le plus dur à convaincre, poussé par Al et Winry. Apprend alors le 1903 de Rhea.
 - 1914 (R5) : à Liore, démasque Cornello avec Rhea dans le trio ; la Pierre se révèle fausse. Rhea consolide son automail après le combat.
 - 1914 (R6) : à East City, démasque Tucker ; Scar détruit son bras. Vérifie le sceau pendant que Rhea reconstruit l'armure d'Al. Reçoit de Marcoh l'indice de la bibliothèque de Central. À Resembool, son nouveau bras est forgé par Winry et Rhea.
+- 1914 (R7) : à Central, décode les notes de Marcoh (la Pierre = vies humaines) ; entre seul au Laboratoire 5 pendant que Rhea et Al restent dehors ; hospitalisé, appelle Winry. Exige qu'on taise le laboratoire à Winry - ce que Rhea ne sait pas faire. Se bat avec Al dans la cour de l'hôpital et se réconcilie. Part pour Dublith avec Al, Winry et Rhea.
 
 ## Sort connu (canon)
 
@@ -62,7 +63,7 @@ Survit ; sacrifie son alchimie pour rendre son corps à Al. Épouse Winry.
 - Famille : cf. Personnages/Alphonse_Elric.md, Trisha_Elric.md, Van_Hohenheim.md
 - Izumi, Mustang : cf. Personnages/Izumi_Curtis.md, Roy_Mustang.md
 - 1911-1914 : cf. Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md
-- 1914, Liore et East City : cf. Roadmap/Rhea/Roadmap5_Liore.md, Roadmap6_East_City_Et_Scar.md
+- 1914, Liore, East City et Central : cf. Roadmap/Rhea/Roadmap5_Liore.md, Roadmap6_East_City_Et_Scar.md, Roadmap7_Laboratoire_5.md
 
 ---
 

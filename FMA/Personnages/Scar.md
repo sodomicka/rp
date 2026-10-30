@@ -1,6 +1,6 @@
 # Scar
 
-- version : W2
+- version : W3
 
 ## Identité
 
@@ -39,6 +39,7 @@ Devient tueur d'Alchimistes d'État.
 ## Fils narratifs (neutres, canon)
 
 - 1914, East City : tue le général de brigade Basque Grand, puis Shou Tucker et la chimère Nina ; détruit le bras d'Ed et l'armure d'Al sous la pluie ; affronte Armstrong, fuit par les égouts.
+- 1914, après East City : affronte Lust et Gluttony dans les égouts [CANON SUPPOSÉ : lieu] (explosion) ; blessé, recueilli et soigné par des réfugiés ishvals (hors POV de Rhea, R7).
 - Qui l'apprend : Ed apprend qu'il a tué les Rockbell de réfugiés ishvals, à Resembool (ép. 18) ; Winry entend Ed interroger Scar à ce sujet, à Central, et le braque d'une arme (ép. 22) ; Scar raconte alors le réveil et les deux médecins. Plus tard, elle choisit de le pardonner (ép. 38-39).
 
 ## Rapport à la protagoniste

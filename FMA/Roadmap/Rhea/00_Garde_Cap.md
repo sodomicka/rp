@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W6
+- version : W7
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -110,25 +110,42 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   (canon : Ed apprend ép. 18, Winry ép. 22). Sheska passe en R7.
 
 ### Roadmap 7 - Laboratoire 5
-- Central : bibliothèque brûlée, Sheska, notes de Marcoh décodées (la Pierre
-  = vies humaines) ; Ross et Brosh ; Laboratoire 5, âmes scellées (miroir
-  d'Al) ; Lust et Envy ; Winry appelée à Central (canon ép. 9).
-- [À RECALER EN R7-R10] Ordre canon : Hughes meurt ép. 10, AVANT Rush Valley
-  (ép. 11) et Dublith (ép. 12-14) ; le découpage R8-R10 ci-dessous ne suit
-  pas cet ordre. Détonation Scar / parents : ép. 18 (Ed, Resembool, réfugiés
-  ishvals) puis ép. 22 (Winry, Central) - placer dans la roadmap qui porte
-  ces épisodes, contentieux double avec Winry.
+- Central (canon ép. 7-10) : bibliothèque brûlée, Sheska, notes de Marcoh
+  décodées (la Pierre = vies humaines) ; Ross et Brosh ; Laboratoire 5
+  (Rhea dehors avec Al, face à Barry ; homonculus hors POV) ; Winry appelée
+  à Central ; anniversaire d'Elicia chez les Hughes ; doute d'Al et combat
+  des frères ; visite de Bradley ; départ vers le Sud avec Winry. Hughes
+  tué hors POV au même moment. Écrite (W1).
 
 ### Roadmap 8 - Rush Valley
-- Winry rejoint ; Ling Yao et Xing ; respiration sororale ; automail.
+- Canon ép. 11 : la ville de l'automail, rêve de Winry, foule pour Rhea ;
+  Paninya et la montre d'Ed (la date de l'incendie) ; Winry refusée par
+  Dominic, l'accouchement ; les frères repartent vers Dublith.
+  Respiration sororale ; Winry reste à Rush Valley.
 
 ### Roadmap 9 - Dublith : Izumi et Greed
-- Izumi revue (miroir deuil-transmutation) ; Devil's Nest ; Greed ; Bradley se révèle.
+- Canon ép. 12-15 : Izumi revue (miroir deuil-transmutation, culmine ici) ;
+  Devil's Nest, Greed, chimères ; Bradley se dévoile (Wrath) en rasant le
+  repaire ; le sang de Martel rend à Al ses souvenirs de la nuit de 1910 ;
+  retour à Rush Valley, Ling Yao, Lan Fan et Fu ; départ pour Central avec
+  Winry.
 
-### Roadmap 10 - Mort de Hughes
-- Envy tue Hughes ; l'enquête de Mustang court en fil de fond ; l'étau se resserre.
+### Roadmap 10 - Central : Hughes et Scar
+- Canon ép. 16-22 : Ed apprend la mort de Hughes (Ross, Gracia) ; Ross
+  accusée, évadée par Barry, « exécutée » par Mustang ; Resembool et les
+  ruines de Xerxès, où Ed apprend que Scar a tué les Rockbell (ép. 18) ;
+  Laboratoire 3, mort de Lust ; Hohenheim sur la tombe de Trisha ; piège à
+  Scar, Winry apprend en entendant Ed (ép. 22).
+- Point de décision : DÉTONATION Scar / parents. Rhea va-t-elle à Resembool
+  avec Ed (ép. 18, sa maison) ? Si oui, elle apprend avant Winry et ne peut
+  pas le lui cacher (carte) : Winry saurait avant l'ép. 22. À trancher en
+  écrivant R10.
+- Mort de Hughes : apprise en R10 (canon ép. 16), pas avant.
 
 ### Roadmap 11 - Le Nord : Briggs
+- [À RECALER EN R11] Le canon ép. 23-29 (Ling devient Greed, Gluttony avale
+  Ed et Ling, le repaire de Père) tombe entre R10 et Briggs : à placer en
+  écrivant R11.
 - Olivier Mira Armstrong ; Kimblee ; Sloth ; le tunnel-cercle national.
 
 ### Roadmap 12 - Convergence
@@ -150,7 +167,7 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   1910 (rumeur de village + démonstration à l'atelier) - que devient l'info
   côté armée (rapport écrit ? bouche cousue ?). Par défaut : hors radar de Père.
 - Contentieux Scar double avec Winry : face-à-face R6 sans révélation ;
-  détonation avec Winry (canon ép. 18-22), roadmap à fixer au recalage R7-R10.
+  détonation avec Winry en R10 (canon ép. 18-22).
   Rhea ne peut pas mentir à Winry (carte) : si elle apprend avant Winry, elle
   le lui dira.
 - Réconciliation Rhea/Al : FRAÎCHE au départ (charnière), consolidée au fil du canon.

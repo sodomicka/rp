@@ -1,6 +1,6 @@
 # Winry Rockbell
 
-- version : W5
+- version : W6
 
 ## Identité
 
@@ -67,6 +67,12 @@ Sororité fusionnelle avec la protagoniste (jumelles après 1909). Winry connaî
   avec Monsieur Lapinou. Apprend que sa carte n'a pas pris et que Cliquetis
   a tenu ; passe le relais à Al. Entend parler d'un tueur ishval sans faire
   le lien avec ses parents. Reste à Resembool au second départ.
+- 1914 (R7) : appelée à Central par Ed (bras cassé au Laboratoire 5) ;
+  répare la mécanique, Rhea au métal si besoin. Anniversaire d'Elicia chez
+  les Hughes : se plaint que les frères ne lui disent rien. Rhea ne lui
+  ment pas : elle peut savoir pour la Pierre avant le canon (au choix du
+  joueur), et se tait alors devant les frères. Part avec le trio vers Rush
+  Valley, la ville de son rêve.
 
 ## Sort connu (canon)
 
@@ -81,6 +87,7 @@ Survit à la trame. Épouse Edward. Poursuit sa carrière d'ingénieure d'automa
 - 1910-1911 : cf. Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md
 - 1911-1914 : cf. Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md
 - 1914, Resembool après Scar : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md
+- 1914, Central : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md
 
 ---
 

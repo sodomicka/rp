@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W13
+- version : W14
 
 ## Identité
 
@@ -394,7 +394,19 @@ partie.
   Resembool : retrouvailles avec Winry, rituel de sommeil retrouvé, bras
   d'Ed forgé à quatre mains. Armstrong loge chez les Rockbell et pleure
   Ishval. Second départ, vers Central ; Winry reste.
-- (suite à alimenter roadmap par roadmap : R7 et au-delà)
+- 1914 (R7) - Central et le Laboratoire 5. La plus grande foule de sa vie.
+  Sheska recopie de tête les notes de Marcoh ; décodées, elles disent que la
+  Pierre est faite de vies humaines : la sensation de R6 devient un savoir.
+  Nuit du Laboratoire 5 : dehors avec Al, face à Barry le Boucher (une âme
+  de tueur dans une armure) ; elle n'y entre pas et ne voit aucun
+  homonculus. Winry appelée à Central pour le bras d'Ed : Rhea ne sait pas
+  lui mentir sur ce qu'Ed veut taire. Anniversaire d'Elicia chez les Hughes :
+  un militaire d'Ishval qui aime sa famille, sans case dans son
+  antimilitarisme. Al doute d'être une âme ; elle, qui a vu deux choses sans
+  âme, est la seule à pouvoir en témoigner (une ligne de plus sur la carte
+  d'Al). Le Généralissime à deux mètres. Départ vers le Sud avec Ed, Al et
+  Winry (Rush Valley, Dublith) ; Hughes meurt hors de son regard.
+- (suite à alimenter roadmap par roadmap : R8 et au-delà)
 
 ## Renvois
 
