@@ -60,7 +60,7 @@ Faire grandir Rhea dans une famille : la sœur, les amis d'enfance, l'atelier. L
 - Transmuter de l'organique elle-même - casserait le trauma de l'organique, verrouillé à la sortie de l'arc.
 
 ## Verrous
-- [À TRANCHER] Aucun verrou posé à ce jour.
+- Aucun. Arc linéaire : les interdits suffisent.
 
 ## Bifurcations
 - Aucune. Progression linéaire (tranche de vie).

@@ -54,7 +54,7 @@ Le deuil des parents, vécu de Resembool sans jamais voir Ishval : les deux sœu
 - Avouer son penchant pour Al - casserait le nœud Rhea/Al, avoué seulement à la fin du périmètre.
 
 ## Verrous
-- [À TRANCHER] Aucun verrou posé à ce jour.
+- Aucun. Arc linéaire : les interdits suffisent.
 
 ## Bifurcations
 - Aucune. Progression linéaire.

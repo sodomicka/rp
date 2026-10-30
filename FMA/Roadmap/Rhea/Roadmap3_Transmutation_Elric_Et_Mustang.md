@@ -19,7 +19,7 @@
 - roadmap suivante : Roadmap 4 - L'examen et le départ (à écrire)
 
 ## Intention
-Ses deux amis rejouent son propre 1903 sous son nez, sans la prévenir : Rhea achève la chose sans ciller, coupe les ponts et naît la fracture qui durera jusqu'en 1914. Dans la foulée, l'armée vient recruter sur son terrain, et repère la troisième sans-cercle.
+Ses deux amis rejouent son propre 1903 sous son nez, sans la prévenir : Rhea achève la chose sans ciller, coupe les ponts : c'est la fracture qui durera jusqu'en 1914. Dans la foulée, l'armée vient recruter sur son terrain, et repère la troisième sans-cercle.
 
 ## Itinéraire (jalons)
 1. La nuit, sans la prévenir [une nuit, 1910] : maison Elric. Ed et Al tentent de ramener Trisha, en cachette. Rhea est hors de la boucle : ses deux amis rejouent son propre 1903 sous son nez (le noyau Rockbell savait ce qu'elle a vécu ; les frères, non). Tchekhov : transmutation cachée des Elric (détone) ; parallèle deuil-transmutation. Avance quand la transmutation rate.
@@ -66,7 +66,16 @@ Ses deux amis rejouent son propre 1903 sous son nez, sans la prévenir : Rhea ac
 - Avouer son attirance pour Al - casserait le nœud Rhea/Al, avoué seulement à la fin du périmètre.
 
 ## Verrous
-- [À TRANCHER] Aucun verrou posé à ce jour.
+- Jalon 4 : le refus de l'offre de Mustang. Paliers :
+  1. Winry s'interpose.
+  2. Refus maintenu : Pinako tranche, en tutrice.
+  3. Refus maintenu : avertissement du MJ : la suite n'est pas scénarisée et mène à l'avortement du RP.
+  4. Entêtement maintenu : le MJ déclare la fin du RP et ne narre plus dans ce thread ; rejouer = nouveau thread, CODEX d'entrée réutilisé sans modification.
+- Jalons 2 à 7 : le silence total envers les Elric, et le 1903 jamais révélé. Paliers :
+  1. Winry l'éloigne.
+  2. Refus maintenu : Pinako rappelle que ce secret est celui des Rockbell.
+  3. Refus maintenu : avertissement du MJ : la suite n'est pas scénarisée et mène à l'avortement du RP.
+  4. Entêtement maintenu : le MJ déclare la fin du RP et ne narre plus dans ce thread ; rejouer = nouveau thread, CODEX d'entrée réutilisé sans modification.
 
 ## Bifurcations
 - Aucune.

@@ -57,7 +57,7 @@ Générateur d'origine : poser le prix que la Vérité fait payer à une enfant 
 - Transmuter sans cercle - la capacité est acquise mais dormante à 5 ans, sur toute la durée de R0.
 
 ## Verrous
-- [À TRANCHER] Aucun verrou posé à ce jour.
+- Aucun. Arc linéaire : les interdits suffisent.
 
 ## Bifurcations
 - Aucune. R0 est le générateur d'origine : linéaire et verrouillé.
