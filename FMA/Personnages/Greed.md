@@ -1,6 +1,6 @@
 # Greed
 
-- version : W2
+- version : W3
 
 ## Identité
 
@@ -62,6 +62,7 @@ croit tenir par Al (une âme dans une armure).
   pourquoi de son sans-cercle ; s'il la voit transmuter, rien ne remonte
   (refondu par Père). Détail : cf. Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md.
 - 1914 (R11) : renaît dans le corps de Ling au repaire de Père (hors POV) ; Rhea l'apprend par Ed. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
+- 1914-1915 (R12) : dans Ling, tue Bido sans le reconnaître, retrouve ses souvenirs de Dublith, affronte Bradley (hors POV) ; s'allie à Ed, à Resembool avec Rhea. Rien ne remonte. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 
 ## Sort connu (canon)
 

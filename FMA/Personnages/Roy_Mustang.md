@@ -1,6 +1,6 @@
 # Roy Mustang
 
-- version : W5
+- version : W6
 
 ## Identité
 
@@ -30,7 +30,7 @@ Commandant et stratège remarquable.
 
 Apprenti de Berthold Hawkeye (maître de l'alchimie de flamme). L'array complet est tatoué dans le dos de Riza.
 Guerre d'Ishval : déployé comme arme d'extermination ; traumatisme et culpabilité fondateurs de son ambition réformatrice.
-1910 : repérage de recrues à Resembool (lieutenant-colonel, avec la sous-lieutenant Hawkeye). Rumeur du bourg : la gamine Rockbell transmute sans cercle depuis toujours. Découvre dans le sous-sol Elric les restes ensanglantés d'un cercle de transmutation humaine ET un pic de béton dressé au travers, encore couvert de sang - une troisième main. Trouve Edward mutilé chez les Rockbell ; venu sermonner, bascule dans la stupeur (l'armure-Al) et fait son offre, malgré l'objection frontale de Pinako. Commet l'erreur d'aller faire la même offre à Rhea sur son terrain, l'atelier : jurons, « génocidaire », chutes d'automail transmutées en armes sous ses yeux, Winry s'interpose. Repart persuadé que Rhea a trop perdu par la guerre pour un jour les rejoindre ; Riza lui oppose qu'elle n'a pas vu une bête sauvage, mais une gamine qui aura envie de faire bouger les choses. Bilan de visite : une troisième alchimiste sans cercle repérée (rumeur + démonstration).
+1910 : repérage de recrues à Resembool (lieutenant-colonel, avec la sous-lieutenant Hawkeye). Rumeur du bourg : la gamine Rockbell transmute sans cercle depuis toujours. Découvre dans le sous-sol Elric les restes ensanglantés d'un cercle de transmutation humaine ET un pic de béton dressé au travers, encore couvert de sang - une troisième main. Trouve Edward mutilé chez les Rockbell ; venu sermonner, bascule dans la stupeur (l'armure-Al) et fait son offre, malgré l'objection frontale de Pinako. Commet l'erreur d'aller faire la même offre à Rhea sur son terrain, l'atelier : jurons, « génocidaire », chutes d'automail transmutées en armes sous ses yeux, Winry s'interpose. Repart persuadé que Rhea a trop perdu par la guerre pour un jour les rejoindre ; Riza lui oppose qu'elle n'a pas vu une bête sauvage, mais une gamine qui aura envie de faire bouger les choses. Bilan de visite : une troisième alchimiste sans cercle repérée (rumeur + démonstration), qu'il ne met pas dans son rapport (cf. R12).
 
 ## Relations (neutres)
 
@@ -46,6 +46,7 @@ Depuis 1910 (R3) : cible directe et concrète - il a essuyé l'explosion en pers
 - 1914 (R6) : retrouvailles au QG de l'Est, quatre ans après. Il ne refait pas son offre. Oriente les frères vers Tucker ; devant Rhea, dit à Ed qu'un Alchimiste d'État doit être prêt à tuer quand l'armée l'exige. Impuissant sous la pluie face à Scar ; raconte Ishval aux frères, Rhea présente. Ce qu'il fait de son repérage reste suspendu à Roadmap 12. Détail : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md.
 - 1914 (R10) : muté à Central, enquête sur la mort de Hughes. Dit aux frères que Hughes a pris sa retraite. « Brûle » Ross sous les yeux de Rhea (mise en scène : Ross part pour Xing) et rappelle à Ed sa place de soldat. Détruit Lust au Laboratoire 3 (hors POV), blessé ; brouille les rapports pendant le piège à Scar ; présent à la planque de Knox quand Ling démasque Bradley. Rhea apprend d'Ed, sous le secret, que Ross est vivante. Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 - 1914 (R11) : blessé, évacué par Knox avec Rhea dans la voiture. Surprend la conspiration du haut commandement ; Bradley disperse son équipe et prend Riza comme assistante. Les 520 cens d'Ed. Par le récit de Riza, Rhea apprend qu'il hait ce qu'il a fait à Ishval et veut devenir généralissime pour protéger les gens : l'ironie de 1910 détone. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
+- 1914-1915 (R12) : hors POV. Révèle Selim à Olivier, prépare son coup d'État, prend Mme Bradley en otage à l'aube. Implication fixée en R12 : en 1910, son rapport ne porte qu'Edward ; il a tu la troisième sans-cercle, pour ne pas livrer une civile de 12 ans à la machine qu'il veut réformer. L'armée n'a rien sur Rhea ; elle l'ignore. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 
 ## Sort connu (canon)
 

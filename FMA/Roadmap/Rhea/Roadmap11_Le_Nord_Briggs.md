@@ -1,6 +1,6 @@
 # Roadmap 11 - Le Nord : Briggs
 
-- version : W1
+- version : W2
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : ~1 mois (fin 1914) [CANON SUPPOSÉ : durées internes] : ~1 semaine à Central (Gluttony, le retour des frères, Riza, le départ des subordonnés de Mustang, la maison du Généralissime), ~2 jours de train et de montagne, ~2 semaines à Briggs (Olivier, Sloth, le tunnel, Kimblee et Winry), ~2 jours à Baschool. [INCERTAIN] Les 17 ans de Rhea (30 janvier 1915) tombent en R11 ou en R12 : la date interne de Briggs n'est pas fixée.
@@ -22,7 +22,7 @@
   - Rhea a croisé Kimblee, l'Alchimiste écarlate du récit de Scar ;
   - Rhea a vu Winry pardonner à Scar ; ce qu'elle-même en fait est joué.
 - roadmap précédente : cf. WIKI Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md
-- roadmap suivante : Roadmap 12 - Convergence (à écrire)
+- roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap12_Convergence.md
 
 ## Intention
 L'arc où l'ennemi prend sa forme vraie. Les frères tombent dans une fausse Porte et reviennent par en dessous, avec un père sous la capitale, un prince habité et un chef d'État qui prend Winry en otage. Riza raconte la guerre qui a tué Sarah et Yuri, du côté de ceux qui l'ont faite et qui s'en veulent. Au Nord, un tunnel montre que le pays entier est un cercle tracé dans le sang, l'armée qu'elle hait en tient le pinceau. Puis Kimblee amène Winry, et Winry, devant le tueur de leurs parents, choisit de pardonner. Rhea n'a pas à suivre.

@@ -1,6 +1,6 @@
 # Résumé - FMA
 
-- version : W10
+- version : W11
 
 Résumé de l'histoire telle qu'établie pour ce RP : canon Brotherhood condensé, trajectoire de la protagoniste OC (Rhea) et divergences actées. Faits seuls, pas de déroulé : le détail vit dans les roadmaps et les fiches.
 
@@ -26,12 +26,13 @@ Résumé de l'histoire telle qu'établie pour ce RP : canon Brotherhood condens�
 - 1914 - Dublith : Izumi et Greed (R9). Chez les Curtis, Izumi devine la transmutation des frères et avoue la sienne (son enfant mort-né). Elle reconnaît Rhea à l'orbite vide : la première personne que Rhea lit sans carte, qui sait son prix sans aveu. Al est enlevé par les chimères humaines de Greed, homonculus déserteur ; Ed l'affronte, Izumi intervient. Le Généralissime mène le raid en personne, Rhea tenue dehors ; Greed est capturé, Bradley tue les chimères, et le sang de Martel rend à Al ses souvenirs de la nuit de 1910. Retour à Rush Valley : Winry retrouvée, Ling Yao, prince de Xing, et sa garde Lan Fan et Fu. Winry part avec le trio pour Central.
 - 1914 - Central : Hughes et Scar (R10). Mustang parle de retraite, Ross dit le meurtre de Hughes ; deuil chez Gracia. Ross, accusée, évadée par Barry, est « brûlée » par Mustang sous les yeux de Rhea : mise en scène, elle part pour Xing. Ed, emmené seul à Resembool, revient en sachant Ross vivante (il le confie à Al et Rhea) et que la chose de 1910 n'était pas Trisha. Al seul relais de Rhea. Au piège tendu à Scar, Rhea et Winry entendent ensemble qu'il a tué Sarah et Yuri, et son récit (Kimblee, le bras de son frère) ; Ed le savait. Scar fuit avec May Chang. Winry repart seule pour Rush Valley ; chez le docteur Knox, Ling révèle que Bradley est un homonculus.
 - 1914 - Le Nord : Briggs (R11). À la planque de Knox, Gluttony se transforme ; Rhea part avec Knox, Mustang blessé et Lan Fan. Ed, Ling et Envy avalés, Al mené à Père : ils reviennent par le repaire sous Central. Ed rapporte la Porte ouverte sur lui-même avec une Pierre, le corps d'Al vu devant elle, Père au visage de Hohenheim, Ling devenu Greed, Envy à l'origine d'Ishval, et Bradley qui garde Ed dans l'armée en menaçant Winry. Riza raconte Ishval à Ed et Rhea : Mustang et elle attendent d'être jugés. L'équipe de Mustang est dispersée ; dîner chez les Bradley (Selim, en vérité Pride). Au Nord, Olivier Armstrong tient Briggs ; Sloth surgit du sol ; le tunnel révèle le cercle national. Kimblee, l'Alchimiste écarlate, amène Winry ; l'automail de grand froid se forge à quatre mains. À Baschool, Winry confronte Scar avec Rhea, puis lui pardonne ; la ruse de l'enlèvement emmène les deux sœurs avec Scar, May, Marcoh et Yoki dans les galeries.
-- 1914-1915 - relecture du canon (R12 à R14, cap seulement). Rhea traverse la suite de la trame Brotherhood aux côtés des frères jusqu'au Jour Promis, puis retour à Resembool (bouclage Monsieur Lapinou / Cliquetis). Point de décision réservé : statut de sacrifice (R12 : hors radar de Père par défaut, repérage étayé côté armée depuis 1910).
+- 1914-1915 - Convergence (R12). Dans les galeries de Baschool, Rhea démonte Al trouvé dans la neige et le remonte au bidonville du Nord ; Ed, empalé dans la mine par l'explosion de Kimblee, referme sa plaie sur sa propre vie et disparaît. May déchiffre les notes du frère de Scar : le cercle national et un contre-cercle. Envy tombe dans le piège de May et Marcoh, réduit à sa forme vraie et emporté vers Xing. À Liore reconstruite, Hohenheim raconte Xerxès, Père, le Jour Promis et les cinq sacrifices : Rhea se sait sacrifice valable. Mustang, lui, n'a jamais rien écrit sur elle en 1910. Retour à Resembool avec Winry ; 17 ans ; Ed vivant, allié à Greed-Ling, Lan Fan à l'automail de Pinako, automail au carbone. Winry refuse de fuir ; Rhea repart avec Ed. Au bidonville aux abords de Central, Pride et Gluttony : Gluttony dévoré, Al enfermé avec Pride sous un dôme de Hohenheim. À l'aube, les groupes d'Ed et de Scar se rejoignent.
+- 1915 - relecture du canon (R13 et R14, cap seulement). Le Jour Promis, puis retour à Resembool (bouclage Monsieur Lapinou / Cliquetis). Le cinquième sacrifice suit le statut de Rhea : Mustang (« hors radar », canon) ou Rhea (« repérée »).
 
 ## Divergences actées vs canon
 
 - Protagoniste OC : Rhea, troisième survivante de la Porte à Resembool, péage cognitif (œil droit + cortex orbitofrontal). Extension cohérente du péage-désir, pas une contradiction.
-- Mustang repère sur place une troisième alchimiste sans cercle en 1910 (rumeur de village + démonstration à l'atelier). Que devient l'info côté armée : à trancher en R12.
+- Mustang repère sur place une troisième alchimiste sans cercle en 1910 (rumeur de village + démonstration à l'atelier). Il ne le met pas dans son rapport : l'armée n'a rien (tranché en R12).
 - Les frères repassent à Resembool en 1914, avant Liore, pour recruter Rhea (le canon ne les y ramène pas avant).
 - Contentieux Scar / parents Rockbell double : Winry ET Rhea. Premier face-à-face en R6, sans révélation (conforme au canon) ; détonation avec Winry plus tard.
 - R6 : Rhea reconstruit l'armure d'Al dès East City (en canon, Ed la refait à Resembool) ; le bras d'Ed est forgé avec elle.
@@ -41,6 +42,7 @@ Résumé de l'histoire telle qu'établie pour ce RP : canon Brotherhood condens�
 - R9 : Rhea à Dublith, face à Izumi (seule exception hors Elric et Rockbell au secret du 1903, par déduction) et au Devil's Nest ; elle peut réparer Rush Valley avec les frères.
 - R10 : Rhea reste à Central pendant le voyage d'Ed à Resembool ; elle apprend avec Winry, à la même seconde, l'identité du tueur de leurs parents ; elle sait Ross vivante ; Monsieur Lapinou peut être rapporté à Winry.
 - R11 : Rhea part avec Knox au lieu de suivre les frères, entend le récit d'Ishval de Riza, dîne chez les Bradley, vit Briggs et Baschool, et part avec Winry dans la ruse de l'enlèvement ; Winry peut savoir qu'elle est otage avant Briggs.
+- R12 : Rhea dans le groupe de Scar puis à Liore, remonte l'armure d'Al, apprend son statut de sacrifice par Hohenheim, à Resembool au retour d'Ed, au bidonville et au dôme. Mustang n'a jamais rapporté le sans-cercle de Rhea (1910).
 - Alphonse : conforme au canon (aucun souvenir de la Porte, pas de sans-cercle avant tard dans la trame ; souvenirs de 1910 rendus à Dublith).
 
 ---

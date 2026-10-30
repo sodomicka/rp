@@ -1,6 +1,6 @@
 # Tim Marcoh
 
-- version : W2
+- version : W3
 
 ## Identité
 
@@ -52,6 +52,7 @@ sans lui dire ce qu'elles contiennent.
   morts à Ishval, pas par qui [cadrage MJ]. Détail : cf.
   Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md.
 - 1914 (R11) : captif des homonculus, enlevé par Scar, à qui il avoue Ishval ; défiguré pour ne pas être reconnu ; étudie l'alkahestrie avec May. Retrouvé par Rhea à Baschool, visage changé. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
+- 1914-1915 (R12) : appât du piège à Envy ; avalé par la bête, il brise sa Pierre de l'intérieur. Pour Rhea : le fabricant de Pierres qui en détruit une. Part de son côté. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 
 ## Sort connu (canon)
 
