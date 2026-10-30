@@ -1,6 +1,6 @@
 # Riza Hawkeye
 
-- version : W2 (rework R3 : visite de Resembool 1910 integree)
+- version : W2
 
 ## Identite
 

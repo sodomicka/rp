@@ -1,6 +1,6 @@
 # Rhea
 
-- version : R11
+- version : W11
 
 ## Identité
 

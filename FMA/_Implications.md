@@ -131,9 +131,6 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Nom de jeune fille d'Izumi (Harnet) : non confirmé.
 
 ## Points de forme à revérifier à la clôture
-- Versioning des fiches : la plupart des pages sont taguées W<N> ; la fiche Rhea
-  porte R<N> en interne, indexée (R<N>) au Sommaire pour ne pas déclencher le
-  canari. À standardiser (tout en W<N> ou acter un préfixe par entité) si besoin.
 - Âge de Rhea sur la trame : 16 ans à l'entrée (1914), 17 au Jour Promis
   (printemps 1915, elle naît le 30 janvier). Cohérent BIBLE <-> garde-cap ;
   ne pas ré-écrire "16 ans sur toute la trame".
