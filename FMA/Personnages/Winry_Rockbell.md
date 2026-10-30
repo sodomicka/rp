@@ -1,6 +1,6 @@
 # Winry Rockbell
 
-- version : W8
+- version : W9
 
 ## Identité
 
@@ -83,6 +83,13 @@ Sororité fusionnelle avec la protagoniste (jumelles après 1909). Winry connaî
   Dublith (quatrième retrouvailles) ; rituel de sommeil sans Monsieur
   Lapinou. Répare le bras d'Ed, avec Rhea au métal. Ling Yao et sa garde.
   Part avec le trio pour Central (canon ép. 15).
+- 1914 (R10) : chez Gracia avant les frères, pour le deuil de Hughes. Reste
+  à Central avec Rhea pendant qu'Ed va à Resembool. Au piège tendu à Scar,
+  apprend avec Rhea, à la même seconde, qu'il a tué ses parents ; le braque,
+  Ed la désarme. Les frères lui expliquent tout (la Pierre, les homonculus).
+  Repart seule pour Rush Valley, ses clients ; Monsieur Lapinou avec elle si
+  Rhea l'a fait rapporter de Resembool. Le pardon à Scar vient plus tard
+  (canon ép. 38-39).
 
 ## Sort connu (canon)
 
@@ -99,6 +106,7 @@ Survit à la trame. Épouse Edward. Poursuit sa carrière d'ingénieure d'automa
 - 1914, Resembool après Scar : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md
 - 1914, Central : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md
 - 1914, Rush Valley : cf. Roadmap/Rhea/Roadmap8_Rush_Valley.md, Roadmap9_Dublith_Izumi_Et_Greed.md, Lieux/Rush_Valley.md
+- 1914, Central, Scar : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md
 
 ---
 

@@ -1,6 +1,6 @@
 # Maes Hughes
 
-- version : W2
+- version : W3
 
 ## Identité
 
@@ -50,6 +50,7 @@ En enquêtant sur la conspiration (Pierre, Laboratoire 5, histoire militaire), i
 
 - 1914 (R6) : arrive à East City pour la traque de Scar ; peut voir Rhea transmuter sans cercle (son rapport porte sur Scar).
 - 1914 (R7) : la reçoit chez lui avec les Elric et Winry pour l'anniversaire d'Elicia. Un militaire vétéran d'Ishval qui aime sa famille : l'antimilitarisme de Rhea n'a pas de case pour lui. Elicia s'attache à elle. Ne sait pas pourquoi elle transmute sans cercle et ne pose pas la question. Tué le jour du départ du trio, hors de son regard. Détail : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md.
+- 1914 (R10) : Rhea apprend sa mort à son retour à Central (Ross), après que Mustang a parlé de retraite. Chez Gracia, avec Winry : Gracia retient ses larmes, Elicia orpheline de père. Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 
 ## Sort connu (canon)
 
@@ -60,7 +61,7 @@ Assassiné par Envy à Central (1914, canon ép. 10), au moment où les Elric qu
 - Homonculus, Envy : cf. Factions/Homonculus.md
 - Mustang : cf. Personnages/Roy_Mustang.md
 - Armée : cf. Factions/Armee_Amestris.md
-- 1914 : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md, Roadmap7_Laboratoire_5.md
+- 1914 : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md, Roadmap7_Laboratoire_5.md, Roadmap10_Central_Hughes_Et_Scar.md
 
 ---
 

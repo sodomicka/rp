@@ -16,7 +16,7 @@
 - univers : Fullmetal Alchemist (branche manga / Brotherhood, continuité Arakawa)
 - sources primaires : manga Arakawa + anime Brotherhood (2009). Canon local prime sur 2003.
 - site_ref canon (Brotherhood, épisode par épisode) : `https://fma.fandom.com/wiki/Episode_<N>_(2009_Anime)` (N = 1 à 64 ; chaque page liste les chapitres manga adaptés). Secours : `https://fma.fandom.com/wiki/List_of_Fullmetal_Alchemist_episodes` ou recherche web. VÉRIFICATION uniquement : ni théories fans, ni copie de texte. Méthode de déroulement : cf. _Implications.md.
-- bible_version : B14
+- bible_version : B15
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/FMA/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/FMA/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/FMA/Partie1/`
@@ -26,8 +26,8 @@
   - Systemes - moteur du monde : alchimie, Vérité, Pierre, automail (4 pages)
   - Factions - armée et conspiration (2 pages)
   - Lieux - géographie narrative (5 pages)
-  - Personnages - fiches neutres canon + protagoniste OC (27 pages)
-  - Roadmap/Rhea - garde-cap + roadmaps détaillées, perspective Rhea (11 pages)
+  - Personnages - fiches neutres canon + protagoniste OC (28 pages)
+  - Roadmap/Rhea - garde-cap + roadmaps détaillées, perspective Rhea (12 pages)
 - focus narratif : est d'Amestris autour de Resembool, avant et pendant la trame canon. Protagoniste OC (Rhea) : prix cognitif de la Vérité + relecture antimilitariste des événements. Instance jouée en CODEX + Parties/.
 
 ## SB1 Cosmogonie et règles du monde
@@ -94,7 +94,8 @@
 | 1914 | Central : notes de Marcoh décodées, Laboratoire 5 ; Winry à Central ; Bradley au chevet d'Ed ; départ vers le Sud ; Maes Hughes tué par Envy au même moment | La Pierre = vies humaines ; enquête de Mustang. cf. WIKI Roadmap/Rhea/Roadmap7_Laboratoire_5.md |
 | 1914 | Rush Valley : Paninya vole la montre d'Ed (Winry y voit la date de l'incendie) ; Winry accouche la belle-fille de Dominic ; Winry reste chez Garfiel | Rhea repart sans Winry vers Dublith. cf. WIKI Roadmap/Rhea/Roadmap8_Rush_Valley.md |
 | 1914 | Dublith : Izumi devine la transmutation des frères ; Greed enlève Al ; raid de Bradley, Greed capturé, le sang de Martel rend à Al ses souvenirs de 1910 ; retour à Rush Valley, Ling Yao ; départ pour Central avec Winry | Miroir Izumi/Rhea. cf. WIKI Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md |
-| 1914 | Trame principale (retour à Central, le Nord) | cf. WIKI Roadmap/Rhea/00_Garde_Cap.md |
+| 1914 | Central : Ed apprend la mort de Hughes ; Mustang simule l'exécution de Ross ; Lust détruite (Laboratoire 3) ; Hohenheim à Resembool, la chose de 1910 n'était pas Trisha ; Rhea et Winry apprennent ensemble que Scar a tué Sarah et Yuri ; Winry repart pour Rush Valley ; Ling révèle que Bradley est un homonculus | Contentieux Scar détoné. cf. WIKI Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md |
+| 1914 | Trame principale (Gluttony, le Nord) | cf. WIKI Roadmap/Rhea/00_Garde_Cap.md |
 | printemps 1915 | Jour Promis (éclipse solaire) | Culmination du plan de Père |
 
 Détail des étapes par arc : cf. FMA/Roadmap/Rhea/.
@@ -126,9 +127,10 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Roy Mustang - Flame Alchemist, colonel | alchimie de flamme | supérieur d'Ed, héros d'Ishval | perd la vue, survit | établi. detail: cf. WIKI Personnages/Roy_Mustang.md
 - Riza Hawkeye - premier lieutenant, tireuse d'élite | tir de précision | adjointe et conscience de Mustang | survit | établi. detail: cf. WIKI Personnages/Riza_Hawkeye.md
 - Maes Hughes - renseignement militaire | analyse, lancer de couteaux | figure bienveillante, ami de Mustang | tué par Envy (1914) | établi. detail: cf. WIKI Personnages/Maes_Hughes.md
-- Scar - vengeur ishval | alchimie de destruction (bras droit) | tueur des parents adoptifs de Rhea (Tchekhov) | survit, reconstruit Ishval | établi. detail: cf. WIKI Personnages/Scar.md
+- Scar - vengeur ishval | alchimie de destruction (bras droit) | tueur des parents adoptifs de Rhea, démasqué devant Rhea et Winry (R10) | survit, reconstruit Ishval | établi. detail: cf. WIKI Personnages/Scar.md
 - King Bradley (Wrath) - Généralissime, homonculus | Œil ultime, épée | maître de l'armée, pion de Père | vaincu par Scar (Jour Promis) | établi. detail: cf. WIKI Personnages/Bradley_Wrath.md
 - Père - homonculus originel | Pierre colossale, alchimie sans cercle | maître de la conspiration | vaincu au Jour Promis | établi. detail: cf. WIKI Personnages/Pere.md
+- Gluttony - homonculus Gourmandise | avale tout, odorat, fausse Porte | compagnon de Lust ; captif de Ling (R10) | dévoré par Pride | établi. detail: cf. WIKI Personnages/Gluttony.md
 - Alex Louis Armstrong - Strong Arm Alchemist, major | alchimie de la pierre (gantelets), force colossale | escorte des Elric, ancien d'Ishval qui a refusé de continuer | survit | établi. detail: cf. WIKI Personnages/Alex_Louis_Armstrong.md
 - Shou Tucker - Alchimiste d'État chimériste, East City | chimères | a fondu sa fille Nina et le chien Alexander | tué par Scar (1914) | établi. detail: cf. WIKI Personnages/Shou_Tucker.md
 - Tim Marcoh - ancien Crystal Alchemist, médecin déserteur d'Ishval | recherche sur la Pierre, Pierre incomplète | donne à Ed l'indice de Central | survit | établi. detail: cf. WIKI Personnages/Tim_Marcoh.md
@@ -152,7 +154,7 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Xerxès - nation détruite ~400 ans avant | désert de l'Est, au-delà d'Ishval | berceau de Père, refuge de rescapés | ruines. detail: cf. WIKI Lieux/Ishval.md
 - Liore - ville du désert de l'Est, culte de Léto | Est d'Amestris | première ville canon (R5), faux prophète Cornello | bascule après le départ des Elric. detail: cf. WIKI Roadmap/Rhea/Roadmap5_Liore.md
 - East City - ville de garnison de l'Est | Est d'Amestris | QG de Mustang ; Tucker, première attaque de Scar (R6) | - . detail: cf. WIKI Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md
-- Central City - capitale | centre du pays | siège du pouvoir et de Père ; bibliothèque, Laboratoire 5, maison des Hughes (R7) | - . detail: cf. WIKI Roadmap/Rhea/Roadmap7_Laboratoire_5.md
+- Central City - capitale | centre du pays | siège du pouvoir et de Père ; bibliothèque, Laboratoire 5, maison des Hughes (R7) ; deuil de Hughes, piège à Scar, planque de Knox (R10) | - . detail: cf. WIKI Roadmap/Rhea/Roadmap7_Laboratoire_5.md, Roadmap10_Central_Hughes_Et_Scar.md
 - Rush Valley - ville de l'automail | Sud, sur la ligne de Dublith | rêve de Winry, foule pour Rhea ; Winry y reste chez Garfiel (R8), en repart pour Central après Ling Yao (R9) | - . detail: cf. WIKI Lieux/Rush_Valley.md
 - Dublith - ville du Sud | au bout de la ligne de Rush Valley | foyer d'Izumi Curtis (boucherie), apprentissage des Elric (1909), Devil's Nest de Greed (R9) | repaire rasé (1914). detail: cf. WIKI Lieux/Dublith.md
 
@@ -163,7 +165,7 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Bras droit de Scar - bras greffé de son frère | alchimie de destruction | détruit la matière sans reconstruire | porté par Scar | établi. detail: cf. WIKI Personnages/Scar.md
 - Array d'alchimie de flamme - tatouage dans le dos de Riza | œuvre de Berthold Hawkeye | seul enregistrement complet de l'alchimie de flamme | brûlé en partie plus tard | établi. detail: cf. WIKI Personnages/Riza_Hawkeye.md
 - Grimoire d'alchimie du père de Rhea - traité complet incluant la théorie de la transmutation humaine | atelier du père mineur | source de la transmutation de 1903 | perdu/détruit avec le village | OC. detail: cf. WIKI Roadmap/Rhea/Roadmap0_La_Porte.md
-- Monsieur Lapinou - peluche du frère cadet de Rhea (Alan) | récupérée au départ du village natal (1903) | souvenir de quand elle aimait Alan, devenu rituel de sommeil avec Winry | laissé à Winry au départ de 1914, part du rituel pour qu'elle ne soit pas seule | OC. detail: cf. WIKI Personnages/Rhea.md
+- Monsieur Lapinou - peluche du frère cadet de Rhea (Alan) | récupérée au départ du village natal (1903) | souvenir de quand elle aimait Alan, devenu rituel de sommeil avec Winry | laissé à Winry au départ de 1914, part du rituel pour qu'elle ne soit pas seule ; peut lui être rapporté de Resembool (R10), jamais repris par Rhea | OC. detail: cf. WIKI Personnages/Rhea.md
 - Cliquetis - galet de métal sans arête (pour ne pas blesser Rhea en crise) | forgé par Winry en une nuit avant le départ de 1914 | roulette reproduisant le rythme cardiaque de Rhea endormie ; relais anti-crise en l'absence de Winry | emporté par Rhea avec le Fullmetal | OC. detail: cf. WIKI Personnages/Rhea.md
 - Cache-œil en cuir - couvre l'orbite droite vide de Rhea | cousu par Winry (bandage de Pinako à l'origine) | dissimule la plaie du péage cognitif | porté par Rhea | OC. detail: cf. WIKI Personnages/Rhea.md
 
@@ -171,18 +173,18 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 Règle : définition + statut + renvoi. Les déroulés vivent en roadmap / fiche.
 
 ### Mystères
-- Identité réelle de Bradley et des homonculus - connue du lecteur, ignorée du peuple | ouvert (révélation progressive dans le canon). cf. WIKI Factions/Homonculus.md
+- Identité réelle de Bradley et des homonculus - connue du lecteur, ignorée du peuple | ouvert (révélation progressive) ; Rhea apprend par Ling que Bradley est un homonculus (R10). cf. WIKI Factions/Homonculus.md
 - Cercle de transmutation national et Jour Promis - connu du lecteur | ouvert. cf. WIKI Lieux/Amestris.md
 - Statut de sacrifice de Rhea - Porte ouverte (1903) = hitobashira valable ; hors radar de Père par défaut ; repérage côté armée ARMÉ (Mustang, 1910) | ouvert - à trancher en R12 (que devient l'info côté armée). cf. fil Tchekhov ci-dessous ; WIKI Roadmap/Rhea/00_Garde_Cap.md
 - Incident du village natal de Rhea - générateur d'origine | hors-périmètre : NE DÉTONE JAMAIS (décision worldbuilder ; seul Alan subsiste de cette origine). cf. WIKI Roadmap/Rhea/Roadmap0_La_Porte.md
 
 ### Tchekhov
 Format : Fil - planté en | condition de détonation | conséquence attendue | statut
-- Scar / parents Rockbell - planté 1908 (morts) ; armé 1914 (R6 : face-à-face à East City, sans révélation) | Rhea apprend l'identité du tueur (canon : Ed ép. 18, Winry ép. 22 ; Roadmap 10) | confrontation, même contentieux que Winry | armé. cf. WIKI Personnages/Scar.md
+- Scar / parents Rockbell - DÉTONÉ (Central, R10 : Rhea et Winry apprennent ensemble ; le pardon de Winry reste à venir, canon ép. 38-39). déroulé : cf. WIKI Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md
 - Transmutation cachée des Elric - planté 1910 | détonée sur place (R3) | fracture Rhea/Elric 1910-1914, détestation à double tranchant | DÉTONÉ. déroulé : cf. WIKI Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md, Personnages/Rhea.md (Trajectoire datée)
 - Révélation du 1903 de Rhea aux Elric - planté 1910 (fracture jouée sans qu'elle s'explique) | détonée en 1914, au retour des frères, avant le départ (R4) | compréhension rétroactive de la fracture, cale la réconciliation | DÉTONÉ. déroulé : cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md
 - Nœud Rhea/Al - planté dès l'enfance (apogée 1909), noué 1910 (Al = anti-Alan, dissonance sans résolution) | avoué seulement à la fin du périmètre | tension intime traversante | armé. cf. WIKI Personnages/Rhea.md (Relations, Trajectoire datée)
-- Statut de sacrifice de Rhea - planté 1903 (Porte ouverte) ; armé 1910 (repérage Mustang sur place : rumeur + démonstration) ; Liore 1914 : rien ne remonte aux homonculus (Cornello meurt sans parler) ; East City 1914 : Scar, Armstrong, Hughes peuvent la voir, rien ne remonte ; Central 1914 : homonculus hors POV au Laboratoire 5 ; transmuter devant Bradley (choix du joueur) la ferait « repérée » ; Rush Valley 1914 : aucun homonculus, rien ne remonte ; Dublith 1914 : Greed (refondu, rien ne remonte), Bradley au raid (même règle qu'en R7) | repérage par Père / les homonculus | intérêt de la conspiration, danger | armé. cf. mystère ci-dessus
+- Statut de sacrifice de Rhea - planté 1903 (Porte ouverte) ; armé 1910 (repérage Mustang sur place : rumeur + démonstration) ; Liore 1914 : rien ne remonte aux homonculus (Cornello meurt sans parler) ; East City 1914 : Scar, Armstrong, Hughes peuvent la voir, rien ne remonte ; Central 1914 : homonculus hors POV au Laboratoire 5 ; transmuter devant Bradley (choix du joueur) la ferait « repérée » ; Rush Valley 1914 : aucun homonculus, rien ne remonte ; Dublith 1914 : Greed (refondu, rien ne remonte), Bradley au raid (même règle qu'en R7) ; Central 1914 (R10) : Lust hors POV, transmuter devant Gluttony (planque) la ferait « repérée » | repérage par Père / les homonculus | intérêt de la conspiration, danger | armé. cf. mystère ci-dessus
 - Parallèle deuil-transmutation - DÉTONÉ (Dublith, R9 : rencontre Izumi/Rhea). déroulé : cf. WIKI Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md
 
 ## SB9 Index - routage
@@ -192,4 +194,4 @@ Index détaillé page-par-page : cf. WIKI FMA/Sommaire.md
 
 ---
 
-FIN_BIBLE_B14
+FIN_BIBLE_B15

@@ -1,6 +1,6 @@
 # Roadmap 9 - Dublith : Izumi et Greed
 
-- version : W1
+- version : W2
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : ~10 jours (1914) [CANON SUPPOSÉ : durées internes] : ~4 jours à Dublith chez les Curtis, l'enlèvement d'Al et le raid du Devil's Nest (une nuit et un jour), le trajet de retour, ~3 jours à Rush Valley (Ling, la garde, la ville réparée), le départ pour Central
@@ -17,7 +17,7 @@
   - Rhea sait que le Généralissime en personne a mené le raid et tué les chimères ; elle ignore qu'il est un homonculus ;
   - Rhea connaît Ling Yao, Lan Fan et Fu ; Winry voyage de nouveau avec le trio, rituel de sommeil retrouvé.
 - roadmap précédente : cf. WIKI Roadmap/Rhea/Roadmap8_Rush_Valley.md
-- roadmap suivante : Roadmap 10 - Central : Hughes et Scar (à écrire)
+- roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md
 
 ## Intention
 Le miroir trouve son reflet. Depuis 1909, Izumi sait qu'une gamine paie quelque part ce qu'elle a payé ; en 1914, elles se voient. Pour Rhea, c'est la seule rencontre sans carte : Izumi a fait ce qu'elle a fait, pour un enfant, et en crache encore le sang. Puis Dublith tourne au charnier : des humains greffés de bêtes, un homonculus qui veut l'immortalité, et le Généralissime qui vient tout raser en personne. Dans le sang d'une chimère, Al retrouve la nuit de 1910 : la preuve qu'il est une âme, tombée pile sur la plaie anti-Alan. Retour à Rush Valley, et à Winry.
