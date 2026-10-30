@@ -1,6 +1,6 @@
 # Roadmap 2 - Ishval, la nouvelle
 
-- version : W2
+- version : W3
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (10 -> 11 ans), POV strict : on ne quitte jamais Resembool
 - échelle temporelle : ~1 an (début 1909 -> fin 1909) ; le liant (départ des frères, mois d'absence) se compresse, les scènes fortes (l'annonce, le feu, le retour) se jouent
@@ -49,7 +49,7 @@ Le deuil des parents, vécu de Resembool sans jamais voir Ishval : les deux sœu
 - Les retrouvailles avec les frères sont faites (jalon 6).
 ### Interdits
 - Quitter Resembool ou voir Ishval - casserait le POV strict de l'arc.
-- Apprendre l'identité du tueur des parents - casserait le Tchekhov Scar / parents, qui détone en Roadmap 6 (1914).
+- Apprendre l'identité du tueur des parents - casserait le Tchekhov Scar / parents, qui détone en 1914, plus tard que la première rencontre avec Scar (Roadmap 6, face-à-face sans révélation).
 - Révéler aux Elric son 1903 ou sa lésion - casserait la révélation actée pour 1914 (charnière) et la fracture de Roadmap 3, qui se joue sans qu'elle s'explique.
 - Avouer son penchant pour Al - casserait le nœud Rhea/Al, avoué seulement à la fin du périmètre.
 
@@ -60,10 +60,10 @@ Le deuil des parents, vécu de Resembool sans jamais voir Ishval : les deux sœu
 - Aucune. Progression linéaire.
 
 ## Notes de frontière
-- Scar n'est jamais nommé : l'identité du tueur reste tue jusqu'en 1914 (Roadmap 6).
+- Scar n'est jamais nommé : l'identité du tueur reste tue jusqu'à sa détonation (1914, après Roadmap 6 : canon ép. 18-22).
 - La mort des parents n'est jamais jouée (hors-récit).
 - Le miroir deuil-transmutation Rhea / Izumi n'est pas encore explicite pour Rhea : il se révèle à la rencontre (Roadmap 9).
-- Tchekhov actifs à la sortie : Scar / parents (planté, détone Roadmap 6) ; parallèle deuil-transmutation (Izumi / Rhea, amorcé à distance, culmine Roadmap 9) ; penchant Al (apogée ici, avoué seulement à la fin) ; transmutation sans cercle connue des Elric et d'Izumi.
+- Tchekhov actifs à la sortie : Scar / parents (planté ; face-à-face en Roadmap 6, détonation plus tard) ; parallèle deuil-transmutation (Izumi / Rhea, amorcé à distance, culmine Roadmap 9) ; penchant Al (apogée ici, avoué seulement à la fin) ; transmutation sans cercle connue des Elric et d'Izumi.
 
 ---
 FIN_WIKI_ROADMAP_RHEA_2

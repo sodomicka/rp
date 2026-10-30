@@ -1,6 +1,6 @@
 # Alphonse Elric
 
-- version : W5
+- version : W6
 
 ## Identité
 
@@ -43,6 +43,7 @@ Quête : récupérer son corps.
 Ami d'enfance de la protagoniste. En 1910, il cache avec Ed la transmutation à tous, elle comprise. Détail : cf. Personnages/Rhea.md.
 - 1914 (R4) : pousse Ed, avec Winry, à recruter Rhea (consolidation du métal de son armure en route, jamais le sceau). Apprend alors le 1903 de Rhea. Proposé par Winry comme appui de Rhea, reçoit sa carte (papier des habitudes de Winry avec sa sœur) : faite pour Winry, elle ne prendra pas - il devra se construire la sienne. Pour elle, il reste l'anti-Alan : la réconciliation est fraîche et fragile.
 - 1914 (R5) : à Liore, applique la carte de Winry à la première crise de Rhea loin d'elle ; ça ne prend pas (gantelet d'acier, pas de chaleur, pas Winry). Constate que la carte répertorie ce qui marche avec Winry, et commence à observer Rhea pour se construire la sienne.
+- 1914 (R6) : armure détruite par Scar à East City ; Rhea la reconstruit dans la nuit, sans toucher au sceau. En la regardant travailler, il note ce qui marche sans Winry (le travail du métal la calme) : première ligne qui prend sur sa propre carte. À Resembool, Winry lui passe le relais pour de bon.
 
 ## Sort connu (canon)
 
@@ -54,7 +55,7 @@ Recouvre son corps humain (affaibli) grâce au sacrifice d'alchimie d'Ed.
 - Alchimie, Porte, âme scellée : cf. Systemes/Alchimie.md, La_Verite_Et_La_Porte.md
 - Famille : cf. Personnages/Edward_Elric.md, Trisha_Elric.md, Van_Hohenheim.md
 - Izumi : cf. Personnages/Izumi_Curtis.md
-- 1914 : cf. Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md
+- 1914 : cf. Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md, Roadmap5_Liore.md, Roadmap6_East_City_Et_Scar.md
 
 ---
 
