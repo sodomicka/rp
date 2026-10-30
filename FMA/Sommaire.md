@@ -1,6 +1,6 @@
 # Sommaire - FMA
 
-- version : W19
+- version : W20
 
 ## WIKI
 
@@ -20,7 +20,7 @@ Description : moteur du monde - alchimie, Vérité, Pierre, prothèse.
 ### Factions/
 Description : forces en présence - armée et conspiration.
 - Armee_Amestris.md (W1) - stratocratie, structure, Alchimistes d'État, Généralissime, fonction antimilitariste
-- Homonculus.md (W1) - Père, les sept péchés, cœur-Pierre, Jour Promis, sacrifices
+- Homonculus.md (W2) - Père, les sept péchés, cœur-Pierre, Jour Promis, sacrifices ; statut de la protagoniste (R12-R13)
 
 ### Lieux/
 Description : géographie narrative du RP.
@@ -33,39 +33,39 @@ Description : géographie narrative du RP.
 ### Personnages/
 Description : fiches neutres canon des entités qui pèsent sur le RP, plus la protagoniste OC.
 - Pinako_Rockbell.md (W3) - matriarche, sauveuse et figure fondatrice de la protagoniste ; l'exhumation avec Ed (R10, hors POV) ; automail de Lan Fan, Resembool avant le Jour Promis (R12)
-- Winry_Rockbell.md (W11) - mécanicienne prodige, sœur fusionnelle de la protagoniste ; apprend avec elle que Scar a tué ses parents (R10) ; otage de Bradley, amenée à Briggs par Kimblee, pardonne à Scar (R11) ; Liore, refuse de fuir, reste à Resembool (R12)
+- Winry_Rockbell.md (W12) - mécanicienne prodige, sœur fusionnelle de la protagoniste ; apprend avec elle que Scar a tué ses parents (R10) ; otage de Bradley, amenée à Briggs par Kimblee, pardonne à Scar (R11) ; Liore, refuse de fuir, reste à Resembool (R12) ; âme prise et rendue à l'éclipse, hors POV (R13)
 - Sarah_Rockbell.md (W1) - chirurgienne, mère adoptive de la protagoniste, morte à Ishval
 - Yuri_Rockbell.md (W1) - chirurgien, père adoptif de la protagoniste, mort à Ishval
-- Edward_Elric.md (W11) - Fullmetal Alchemist, ami d'enfance, transmutation cachée de 1910, recrute Rhea en 1914 ; bras brisé par Scar (R6), Laboratoire 5 (R7), montre volée à Rush Valley (R8), Greed et Ling (R9), Resembool et le piège à Scar (R10), ventre de Gluttony, Père, otage par Winry, Briggs (R11) ; empalé dans la mine, Resembool, automail au carbone, bidonville (R12)
-- Alphonse_Elric.md (W12) - âme scellée dans l'armure, ami d'enfance ; PAS de sans-cercle (aucun souvenir de la Porte) ; doute d'être une âme (R7) ; souvenirs de 1910 rendus par le sang de Martel (R9) ; seul relais de Rhea sans Ed (R10) ; son corps vu devant la Porte par Ed (R11) ; démonté et remonté par Rhea, Hohenheim, enfermé avec Pride sous le dôme (R12)
+- Edward_Elric.md (W12) - Fullmetal Alchemist, ami d'enfance, transmutation cachée de 1910, recrute Rhea en 1914 ; bras brisé par Scar (R6), Laboratoire 5 (R7), montre volée à Rush Valley (R8), Greed et Ling (R9), Resembool et le piège à Scar (R10), ventre de Gluttony, Père, otage par Winry, Briggs (R11) ; empalé dans la mine, Resembool, automail au carbone, bidonville (R12) ; sacrifice, Pride, le poing contre Père (R13)
+- Alphonse_Elric.md (W13) - âme scellée dans l'armure, ami d'enfance ; PAS de sans-cercle (aucun souvenir de la Porte) ; doute d'être une âme (R7) ; souvenirs de 1910 rendus par le sang de Martel (R9) ; seul relais de Rhea sans Ed (R10) ; son corps vu devant la Porte par Ed (R11) ; démonté et remonté par Rhea, Hohenheim, enfermé avec Pride sous le dôme (R12) ; sans-cercle retrouvé, échange son âme contre le bras d'Ed (R13)
 - Trisha_Elric.md (W1) - mère Elric, morte en 1904, parallèle thématique
-- Van_Hohenheim.md (W3) - Pierre vivante, père absent des Elric ; sur la tombe de Trisha (R10, hors POV) ; Liore, Jour Promis et sacrifices dits à Al et Rhea, le dôme (R12)
-- Roy_Mustang.md (W6) - Flame Alchemist, héros d'Ishval, supérieur d'Ed ; visite de 1910, retrouvailles d'East City (R6), le feu sur Ross et Lust (R10), équipe dispersée (R11) ; rapport de 1910 sans Rhea (R12)
-- Riza_Hawkeye.md (W3) - tireuse d'élite, conscience de Mustang ; visite de 1910 ; assistante-otage de Bradley, raconte Ishval à Ed et Rhea (R11)
+- Van_Hohenheim.md (W4) - Pierre vivante, père absent des Elric ; sur la tombe de Trisha (R10, hors POV) ; Liore, Jour Promis et sacrifices dits à Al et Rhea, le dôme (R12) ; absorbé, contre-cercle (R13)
+- Roy_Mustang.md (W7) - Flame Alchemist, héros d'Ishval, supérieur d'Ed ; visite de 1910, retrouvailles d'East City (R6), le feu sur Ross et Lust (R10), équipe dispersée (R11) ; rapport de 1910 sans Rhea (R12) ; coup d'État, Envy, aveugle ou voyant selon le statut de Rhea (R13)
+- Riza_Hawkeye.md (W4) - tireuse d'élite, conscience de Mustang ; visite de 1910 ; assistante-otage de Bradley, raconte Ishval à Ed et Rhea (R11) ; Envy, gorge tranchée ou indemne selon le statut (R13)
 - Maes_Hughes.md (W3) - renseignement, figure bienveillante, famille (Gracia, Elicia) ; tué par Envy au départ du trio (R7), deuil appris (R10)
-- Scar.md (W6) - vengeur ishval, tueur des parents Rockbell ; face-à-face sans révélation (R6), détonation devant Rhea et Winry (R10), pardon de Winry à Baschool (R11) ; notes de son frère, piège à Envy, Ishvals recrutés (R12)
-- Bradley_Wrath.md (W5) - Généralissime et homonculus Wrath ; visite d'hôpital (R7), raid du Devil's Nest (R9) ; renaît dans Ling (R11, hors POV), démasqué par Ling (R10), otage Winry et dîner chez lui (R11)
-- Pere.md (W1) - homonculus originel, maître de la conspiration
+- Scar.md (W7) - vengeur ishval, tueur des parents Rockbell ; face-à-face sans révélation (R6), détonation devant Rhea et Winry (R10), pardon de Winry à Baschool (R11) ; notes de son frère, piège à Envy, Ishvals recrutés (R12) ; Envy, tue Bradley, cercle de son frère (R13)
+- Bradley_Wrath.md (W6) - Généralissime et homonculus Wrath ; visite d'hôpital (R7), raid du Devil's Nest (R9) ; renaît dans Ling (R11, hors POV), démasqué par Ling (R10), otage Winry et dîner chez lui (R11) ; reprend le QG, tué par Scar (R13)
+- Pere.md (W2) - homonculus originel, maître de la conspiration ; statut de la protagoniste tranché ; le Jour Promis, renvoyé à la Porte (R13)
 - Gluttony.md (W3) - homonculus Gourmandise, compagnon de Lust, fausse Porte ; captif à la planque de Knox (R10), avale Ed et Ling (R11) ; dévoré par Pride (R12)
-- Envy.md (W1) - homonculus métamorphe, a allumé Ishval, tué Hughes ; piège de May et Marcoh, réduit à sa forme vraie (R12)
-- Sloth.md (W1) - homonculus Paresse, creuse le tunnel-cercle ; surgit à Briggs (R11)
-- Selim_Bradley_Pride.md (W2) - fils adoptif de Bradley, en vérité Pride, premier homonculus ; le dîner (R11) ; pilote Al, dévore Gluttony, sous le dôme (R12)
+- Envy.md (W2) - homonculus métamorphe, a allumé Ishval, tué Hughes ; piège de May et Marcoh, réduit à sa forme vraie (R12) ; recomposé, brûlé par Mustang, se suicide (R13)
+- Sloth.md (W2) - homonculus Paresse, creuse le tunnel-cercle ; surgit à Briggs (R11) ; tué par les Armstrong (R13)
+- Selim_Bradley_Pride.md (W3) - fils adoptif de Bradley, en vérité Pride, premier homonculus ; le dîner (R11) ; pilote Al, dévore Gluttony, sous le dôme (R12) ; absorbe Kimblee, force Mustang ou emmène Rhea, nourrisson (R13)
 - Rose_Thomas.md (W2) - fidèle de Léto à Liore, fiancé mort, miroir du 1903 de la protagoniste (R5) ; Liore reconstruite (R12)
-- Alex_Louis_Armstrong.md (W4) - Strong Arm Alchemist, ancien d'Ishval qui a refusé de continuer, escorte des Elric (R6-R7), emmène Ed à Resembool (R10), lettre pour sa sœur (R11)
-- Olivier_Mira_Armstrong.md (W1) - générale de Briggs, sœur aînée d'Alex ; Sloth, le tunnel-cercle (R11)
-- Solf_J_Kimblee.md (W2) - Alchimiste écarlate, a fait de Scar ce qu'il est ; amène Winry à Briggs (R11) ; la mine de Baschool, hors POV (R12)
-- May_Chang.md (W2) - princesse alkahestriste de Xing, alliée de Scar, panda Shao Mei (R11) ; déchiffre le contre-cercle, emporte Envy (R12)
+- Alex_Louis_Armstrong.md (W5) - Strong Arm Alchemist, ancien d'Ishval qui a refusé de continuer, escorte des Elric (R6-R7), emmène Ed à Resembool (R10), lettre pour sa sœur (R11) ; Sloth, la surface contre Père (R13)
+- Olivier_Mira_Armstrong.md (W2) - générale de Briggs, sœur aînée d'Alex ; Sloth, le tunnel-cercle (R11) ; coup au QG, Sloth (R13)
+- Solf_J_Kimblee.md (W3) - Alchimiste écarlate, a fait de Scar ce qu'il est ; amène Winry à Briggs (R11) ; la mine de Baschool, hors POV (R12) ; tué par Heinkel, absorbé par Pride, hors POV (R13)
+- May_Chang.md (W3) - princesse alkahestriste de Xing, alliée de Scar, panda Shao Mei (R11) ; déchiffre le contre-cercle, emporte Envy (R12) ; Envy, Riza, l'échange d'Al (R13)
 - Shou_Tucker.md (W1) - chimériste d'East City, Nina et Alexander fondus en chimère, tué par Scar (R6)
-- Tim_Marcoh.md (W3) - médecin déserteur d'Ishval, Pierre incomplète, indice de la bibliothèque de Central (R6) ; captif, enlevé et défiguré par Scar (R11) ; brise la Pierre d'Envy (R12)
+- Tim_Marcoh.md (W4) - médecin déserteur d'Ishval, Pierre incomplète, indice de la bibliothèque de Central (R6) ; captif, enlevé et défiguré par Scar (R11) ; brise la Pierre d'Envy (R12) ; soigne Heinkel, hors POV (R13)
 - Sheska.md (W1) - ex-employée de la bibliothèque, mémoire totale, recopie les notes de Marcoh (R7)
-- Maria_Ross_Et_Denny_Brosh.md (W2) - gardes du corps des Elric à Central (R7) ; Ross accusée du meurtre de Hughes, « brûlée » par Mustang, vivante (R10)
+- Maria_Ross_Et_Denny_Brosh.md (W3) - gardes du corps des Elric à Central (R7) ; Ross accusée du meurtre de Hughes, « brûlée » par Mustang, vivante (R10) ; Ross revient avec des armes (R13)
 - Barry_Le_Boucher.md (W2) - tueur en série, âme scellée dans une armure, miroir inversé d'Al (R7) ; évasion de Ross, mort au Laboratoire 3 (R10)
 - Paninya.md (W1) - pickpocket aux jambes d'automail de Rush Valley, vole la montre d'Ed (R8)
 - Dominic_LeCoulte.md (W1) - maître d'automail reclus, refuse Winry, famille LeCoulte, l'accouchement (R8)
-- Izumi_Curtis.md (W3) - maîtresse des Elric (1909), miroir thématique du deuil-transmutation ; sait dès 1909 qu'une gamine transmute sans cercle ; rencontre Rhea à Dublith (R9)
-- Greed.md (W3) - homonculus déserteur, Bouclier ultime, sa bande de chimères (Martel, Dolcetto, Roa, Bido) ; raid du Devil's Nest (R9) ; allié d'Ed dans Ling (R12)
-- Ling_Yao.md (W4) - prince de Xing en quête d'immortalité, sa garde Lan Fan et Fu ; Rush Valley (R9) ; piège à Scar, capture de Gluttony, démasque Bradley (R10) ; devient Greed (R11, hors POV) ; Greed allié d'Ed, Lan Fan à l'automail (R12)
-- Rhea.md (W19) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (1910 -> aube du Jour Promis, printemps 1915) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises, agoraphobie, pudeur a posteriori), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
+- Izumi_Curtis.md (W4) - maîtresse des Elric (1909), miroir thématique du deuil-transmutation ; sait dès 1909 qu'une gamine transmute sans cercle ; rencontre Rhea à Dublith (R9) ; sacrifice au Jour Promis (R13)
+- Greed.md (W4) - homonculus déserteur, Bouclier ultime, sa bande de chimères (Martel, Dolcetto, Roa, Bido) ; raid du Devil's Nest (R9) ; allié d'Ed dans Ling (R12) ; carbonise Père, s'éteint (R13)
+- Ling_Yao.md (W5) - prince de Xing en quête d'immortalité, sa garde Lan Fan et Fu ; Rush Valley (R9) ; piège à Scar, capture de Gluttony, démasque Bradley (R10) ; devient Greed (R11, hors POV) ; Greed allié d'Ed, Lan Fan à l'automail (R12) ; mort de Fu, Greed le quitte (R13)
+- Rhea.md (W20) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (1910 -> Jour Promis, printemps 1915) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises, agoraphobie, pudeur a posteriori), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
 
 ### Roadmap/Rhea/
 Description : itinéraires par arc, dans l'ordre de la saga, par perspective de la protagoniste. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).
@@ -81,8 +81,9 @@ Description : itinéraires par arc, dans l'ordre de la saga, par perspective de 
 - Roadmap9_Dublith_Izumi_Et_Greed.md (W3) - 1914, ~10 jours : Izumi (aveu des frères, le miroir sans carte), Al enlevé par les chimères de Greed, raid de Bradley (Rhea dehors), le sang de Martel rend à Al la nuit de 1910 ; retour à Rush Valley, Winry, Ling Yao, Lan Fan et Fu ; départ pour Central
 - Roadmap10_Central_Hughes_Et_Scar.md (W2) - 1914, ~2 semaines : retour à Central, mort de Hughes (Gracia, Elicia), Ross « brûlée » par Mustang, Ed seul à Resembool (hors POV : Xerxès, Hohenheim, l'exhumation), la chose de 1910 n'était pas Trisha, piège à Scar : Rhea et Winry apprennent ensemble qu'il a tué leurs parents ; Winry repart pour Rush Valley ; Ling démasque Bradley
 - Roadmap11_Le_Nord_Briggs.md (W2) - fin 1914, ~1 mois : Gluttony se transforme (Rhea part avec Knox), les frères reviennent du repaire de Père (Ling devenu Greed, corps d'Al vu, Envy et Ishval, Winry otage), Riza raconte Ishval, dîner chez les Bradley, Briggs (Olivier, Sloth, le tunnel-cercle), Kimblee amène Winry, Baschool : Winry pardonne à Scar, Rhea part avec elle dans les galeries
-- Roadmap12_Convergence.md (W1) - hiver 1914 -> printemps 1915, ~3 mois : Al démonté et remonté, Ed disparu dans la mine, notes du frère de Scar (contre-cercle), piège à Envy, Liore et Hohenheim (Rhea apprend qu'elle est un sacrifice valable), 17 ans, Resembool (Ed vivant, Greed-Ling, carbone, Winry reste), bidonville : Pride et Gluttony, Al sous le dôme ; aube du Jour Promis
-- (roadmaps R13 et R14 - à construire en boucle serrée, Passe 2 en cours)
+- Roadmap12_Convergence.md (W2) - hiver 1914 -> printemps 1915, ~3 mois : Al démonté et remonté, Ed disparu dans la mine, notes du frère de Scar (contre-cercle), piège à Envy, Liore et Hohenheim (Rhea apprend qu'elle est un sacrifice valable), 17 ans, Resembool (Ed vivant, Greed-Ling, carbone, Winry reste), bidonville : Pride et Gluttony, Al sous le dôme ; aube du Jour Promis
+- Roadmap13_Le_Jour_Promis.md (W1) - printemps 1915, une journée : sous Central avec Ed et Scar (soldats-mannequins), mort d'Envy devant Mustang, le cercle du docteur, le cinquième sacrifice (Mustang aveugle, ou Rhea « repérée » et Mustang voyant), l'éclipse, Père et Dieu, Scar tue Bradley, l'échange d'Al, Père renvoyé à la Porte
+- (roadmap R14 - à construire en boucle serrée, Passe 2 en cours)
 
 > NON INDEXÉS. Le garde-cap (`Roadmap/Rhea/00_Garde_Cap.md`) : source de build, jamais fetché en narration. `Parties/<Partie>/Memoires/` : archives narratives interdites en jeu (sauf ordre OOC explicite), consultées au BUILD seulement par listing direct du dossier. Indexer un dossier le fait paraître fetchable en narration. Cf. SPEC_CODEX 4ter, livrable 3.
 

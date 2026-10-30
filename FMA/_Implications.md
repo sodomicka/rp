@@ -6,12 +6,12 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B17 (Roadmap 12, 2026-10-30)
+- dernière mise à jour : BIBLE B18 (Roadmap 13, 2026-10-30)
 
 ## État d'avancement du chantier
-- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R12 (1903 -> aube du
-  Jour Promis, printemps 1915, au gabarit SPEC v9.2 §7). R13 et R14 restent
-  à écrire en boucle serrée. Passe d'immersion (modes d'étape,
+- Passe 2 en cours. Roadmaps détaillées ÉCRITES : R0 à R13 (1903 -> chute
+  de Père, printemps 1915, au gabarit SPEC v9.2 §7). R14 reste à écrire en
+  boucle serrée. Passe d'immersion (modes d'étape,
   tranches de vie) non faite sur R0-R4.
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
   En jeu, la roadmap en cours est un document de jeu (SPEC v9.2 §7).
@@ -241,26 +241,39 @@ pas les re-litiger. JAMAIS fetché en narration.
   Monsieur Lapinou à Resembool. Bidonville : Pride (Rhea apprend que Selim
   est Pride), Gluttony dévoré ; dôme de Hohenheim sur Al et Pride (verrou :
   ne pas l'empêcher). Kimblee hors POV, croisement interdit en R12.
+- R13 - LE JOUR PROMIS (mode usine, canon ép. 49-63 vérifié sur Wikipedia).
+  Une journée. Borne de sortie : Père renvoyé à la Porte, l'armure d'Al
+  vide (ép. 63, avant le choix d'Ed) ; R14 = fin 63 et 64.
+  ITINÉRAIRE : Rhea avec Ed, Scar, Darius, Jerso, Zampano sous Central
+  (Laboratoire 3, soldats-mannequins) ; présente à la mort d'Envy (verrou :
+  ne pas le tuer) ; ni Pride, ni Kimblee, ni Bradley (hors POV) ; à la
+  surface contre Père ; échange d'Al verrouillé.
+  CINQUIÈME SACRIFICE : le cercle du docteur aux dents d'or prend les
+  sacrifices connus de Père [INTERPRÉTATION]. « Repérée » : Rhea aspirée
+  avec Ed, Al et Izumi ; Père a ses cinq ; le docteur ne force pas
+  Mustang, Riza n'est pas égorgée, Mustang garde la vue. « Hors radar » :
+  Rhea reste avec Darius, Jerso, Zampano, rejoint May devant le docteur ;
+  BASCULE au choix du joueur : sans-cercle devant Pride ou Bradley avant
+  la transmutation forcée = Pride l'emmène, Mustang épargné. Après, plus
+  de bascule. Envy (jalon 2) meurt sans revoir Père : rien ne remonte.
+  Sacrifice ≠ nouveau péage : elle a payé en 1903.
+  AL ET LE SANS-CERCLE : recouvré en repassant la Porte (ép. 59)
+  [CANON SUPPOSÉ]. Point ouvert soldé.
+  SILENCE DE MUSTANG : ne détone pas en R13 ; détonable en R14.
+  AVEU À AL : toujours interdit en R13, même à l'échange (R14).
 
 ## Points ouverts (à trancher en Passe 2, roadmap par roadmap)
-- Scar : quitte le groupe en R12 (Ishvals recrutés), le retrouve à l'aube du
-  Jour Promis. Ce que Rhea en fait en R13 suit l'état de la partie ; Scar
-  tue Bradley au Jour Promis.
-- Ross : vivante, revient le Jour Promis avec des armes pour Mustang (canon
-  ép. 50) : R13. Rhea la sait vivante depuis R10.
-- Al et le sans-cercle : souvenirs de 1910 rendus en R9 (ép. 14) ; le
-  sans-cercle vient plus tard [INCERTAIN : moment]. À vérifier au fil des
-  roadmaps suivantes ; la lecture anti-Al de Rhea en dépend.
+- Scar : allié d'Ed sous Central, tue Bradley (R13). Survie et Ishval
+  (ép. 64) : R14 ; ce que Rhea en fait suit l'état de la partie.
 - Ce que Scar retient de Rhea : la seconde sans-cercle (si R6), et qu'elle
   est aussi une fille des Rockbell seulement si elle le dit (R10). À
   reprendre aux roadmaps où il recroise le trio.
 - Réconciliation Rhea/Al : FRAÎCHE et fragile au départ de 1914 (R4), consolidée
   au fil du canon. Vérifier la cohérence quand les roadmaps 5-14 seront écrites.
-- R13 : dérouler le cinquième sacrifice selon le statut hérité (Rhea
-  « repérée » menée à Père, Mustang épargné ; ou canon). Densité : ~15
-  épisodes ; scission seulement sur décision du worldbuilder.
-- Savoir de Rhea sur le silence de Mustang (1910) : peut détoner en R13,
-  face à lui ; à décider en écrivant R13.
+- Savoir de Rhea sur le silence de Mustang (1910) : non détoné en R13 ;
+  à décider en écrivant R14 (après-guerre, Mustang voyant ou aveugle).
+- R14 : Pierre de Marcoh pour Mustang et Havoc (ép. 64) sans objet si
+  Mustang a gardé la vue ; la roadmap porte les deux états.
 
 ## À verser au CODEX à la bascule jeu
 - IRONIE Mustang/Riza (R3, 1910) : Rhea traite Mustang de "génocidaire" sans
@@ -296,6 +309,12 @@ pas les re-litiger. JAMAIS fetché en narration.
   sans-cercle dans son rapport ; c'est lui qui la tient hors radar depuis
   quatre ans. -> CODEX ANNEXE_SAVOIRS.
 - IRONIE Selim (R11) : détonée en R12 (Pride au bidonville).
+- IRONIE Mustang (R13, « repérée ») : il garde la vue parce que celle qu'il
+  a tue en 1910 a été repérée ailleurs ; aucun des deux ne le sait.
+  -> CODEX ANNEXE_SAVOIRS.
+- IRONIE Winry (R13) : son âme est prise et rendue à l'éclipse pendant que
+  Rhea se bat sous Central ; Rhea l'ignore jusqu'en R14.
+  -> CODEX ANNEXE_SAVOIRS.
 - IRONIE Gluttony (R10) : l'anosmique face au nez absolu ; le captif ligoté
   va avaler Ed et Ling quelques minutes plus tard. -> CODEX ANNEXE_SAVOIRS.
 
@@ -306,13 +325,9 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Nom de jeune fille d'Izumi (Harnet) : non confirmé.
 
 ## Dettes de build
-- Pere.md (W1) et Factions/Homonculus.md (W1), encore en ASCII, non
-  relivrés en B17 : le statut tranché en R12 et la fiche Envy (renvoi
-  depuis Homonculus) s'y verseront à leur prochaine relivraison,
-  réaccentuation comprise. Rien de faux en attendant (Père : « inconnue au
-  départ par défaut »).
 - Budget roadmap : R12 = ~18 800 caractères (plafond 15 000), comme R11
-  (~22 800). Compressions possibles sur décision du worldbuilder.
+  (~22 800). Compressions possibles sur décision du worldbuilder. R13 tient
+  le plafond (~11 900).
 
 ## Points de forme à revérifier à la clôture
 - Âge de Rhea sur la trame : 16 ans à l'entrée (1914), 17 au Jour Promis

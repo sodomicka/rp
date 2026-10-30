@@ -1,6 +1,6 @@
 # Solf J. Kimblee
 
-- version : W2
+- version : W3
 
 ## Identité
 
@@ -34,6 +34,7 @@ Ishval : reçoit la Pierre fabriquée par Marcoh et en fait une arme ; l'explosi
 - 1914 (R10) : un nom dans le récit de Scar, l'Alchimiste d'État qui a fait de lui ce qu'il est.
 - 1914 (R11) : arrive à Briggs avec Winry, otage, sous les yeux de Rhea. L'Alchimiste d'État à l'état pur, aimable. S'il la voit transmuter sans cercle, l'information remonte à Père (statut « repérée », Roadmap 12) [INTERPRÉTATION]. Attaque verrouillée. Fait sauter le terrain à Baschool avec Winry dedans. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
 - 1914-1915 (R12) : hors POV de Rhea. Fait sauter la mine de Baschool, Ed empalé ; Pride lui confie le cratère de sang de Briggs ; manœuvre Drachma. Croisement interdit. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
+- 1915 (R13) : hors POV. Libère Pride, tué par Heinkel, absorbé par Pride ; son âme aide Ed contre Pride. Jamais croisé par Rhea. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 
 ## Sort connu (canon)
 

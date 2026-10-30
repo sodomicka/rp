@@ -1,6 +1,6 @@
 # Roadmap 12 - Convergence
 
-- version : W1
+- version : W2
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 puis 17 ans), POV strict
 - échelle temporelle : ~3 mois (hiver 1914-1915 -> veille du Jour Promis, printemps 1915) [CANON SUPPOSÉ : durées internes] : ~1 semaine dans le Nord (galeries, notes du frère de Scar, piège à Envy), ~1 semaine de route et à Liore, plusieurs semaines à Resembool et en attente, ~2 jours aux abords de Central. Les 17 ans de Rhea (30 janvier 1915) tombent dans cette roadmap, entre Liore et Resembool [INCERTAIN : date exacte du séjour].
@@ -19,7 +19,7 @@
   - Rhea sait que Selim est Pride (vu au bidonville) [CANON SUPPOSÉ : forme sous laquelle Pride paraît] ;
   - Rhea a quitté Winry une cinquième fois, Monsieur Lapinou laissé à Resembool.
 - roadmap précédente : cf. WIKI Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md
-- roadmap suivante : Roadmap 13 - Le Jour Promis (à écrire)
+- roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md
 
 ## Intention
 L'arc où l'on apprend le prix d'avoir survécu. Un étranger qui porte le visage de Père explique que ceux qui ont vu la Porte sont des clés : Rhea en est une depuis ses 5 ans, et le pire jour de sa vie fait d'elle une pièce du plan. Elle croise l'homonculus qui a allumé Ishval, réduit à un ver dans un bocal, et ne peut pas l'écraser. Ed revient d'entre les morts, refermé sur sa propre vie. À Resembool, Winry refuse de fuir ; Rhea repart quand même, parce que c'est le pacte. Puis Al choisit le noir avec un homonculus pour que les autres passent. L'armure qu'elle a refaite de ses mains reste sous la terre.

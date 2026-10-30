@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W19
+- version : W20
 
 ## Identité
 
@@ -298,7 +298,9 @@ est tranché en Roadmap 12 : Mustang l'a repérée sur place en 1910 (R3) mais
 n'a rien écrit, l'armée n'a rien ; « hors radar » par défaut. « Repérée » si
 elle a transmuté sans cercle devant un homonculus ou Kimblee (delta
 Parties/) : elle est alors le cinquième sacrifice de Père au Jour Promis, à
-la place de Mustang (R13).
+la place de Mustang, qui garde la vue (déroulé en R13 ; la bascule reste
+possible le Jour Promis, devant Pride ou Bradley, jusqu'à la transmutation
+forcée de Mustang).
 
 ## Implications d'arc
 
@@ -326,6 +328,9 @@ Alimentées à chaud, arc par arc (Passe 2) :
 - Statut de sacrifice (R12, 1915) : Hohenheim lui apprend ce qu'est un
   sacrifice ; elle sait en être un valable, pas si Père la connaît. Elle le
   dit à Winry.
+- Jour Promis (R13, 1915) : sacrifice ne veut pas dire nouveau péage ; elle
+  a payé en 1903, Père s'en sert comme clé. Le silence de Mustang ne détone
+  pas en R13 (R14 au plus tôt).
 
 ## Trajectoire datée (post-1903)
 
@@ -482,7 +487,19 @@ partie.
   séparation. Au bidonville, dans le noir, Pride pilote l'armure qu'elle a
   refaite ; le gamin du dîner est Pride ; Gluttony dévoré. Al choisit le
   dôme de terre avec Pride. À l'aube, avec Scar et Ed, aux portes de Central.
-- (suite à alimenter roadmap par roadmap : R13 et au-delà)
+- 1915 (R13) - Le Jour Promis. Sous Central avec Ed et Scar, les
+  soldats-mannequins, l'armée de Père en chair grise. Mustang brûle Envy ;
+  Ed, Riza et Scar le retiennent ; Envy arrache sa Pierre. Ross vivante,
+  le secret tombe. Le cercle du docteur aspire Ed, Al et Izumi : « repérée »,
+  elle aussi, cinquième sacrifice, clouée à l'éclipse à côté d'Izumi,
+  Mustang garde la vue ; « hors radar », elle voit Riza égorgée, May qui
+  soigne, Pride qui force Mustang, qui perd la vue (sauf si elle se montre
+  avant). Père avale Dieu, l'alchimie s'éteint puis revient avec le cercle
+  du frère de Scar ; Bradley meurt. À la surface, elle se bat au métal et à
+  la pierre ; Al, sans-cercle retrouvé, échange son âme contre le bras d'Ed.
+  Greed s'éteint, Ed renvoie Père à la Porte. L'armure qu'elle a refaite
+  est vide ; rien n'a été dit.
+- (suite à alimenter : R14)
 
 ## Renvois
 

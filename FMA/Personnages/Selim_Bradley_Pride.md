@@ -1,6 +1,6 @@
 # Selim Bradley (Pride)
 
-- version : W2
+- version : W3
 
 ## Identité
 
@@ -33,6 +33,7 @@ Créé le premier. Placé enfant dans la maison des Bradley ; Mme Bradley ignore
 
 - 1914 (R11) : le gamin poli qui invite les frères chez lui ; Rhea à la table des Bradley ignore ce qu'il est. S'il la voit transmuter sans cercle, l'information remonte à Père (statut « repérée », Roadmap 12). Attaque verrouillée. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
 - 1914-1915 (R12) : démasqué par Riza (hors POV). Prend Al avec Gluttony et le pilote contre le groupe ; Rhea apprend que le gamin du dîner est Pride. Dévore Gluttony ; enfermé avec Al sous le dôme de Hohenheim. Témoin qui fait « repérée » ; la veut vivante si elle l'est. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
+- 1915 (R13) : libéré du dôme par Kimblee, l'absorbe ; « hors radar », force Mustang à la transmutation humaine, ou emmène Rhea s'il la voit transmuter sans cercle avant ; réduit à un nourrisson par Ed (hors POV). Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 
 ## Sort connu (canon)
 

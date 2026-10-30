@@ -1,6 +1,6 @@
 # Sloth
 
-- version : W1
+- version : W2
 
 ## Identité
 
@@ -30,6 +30,7 @@ Créé par Père avec les autres péchés. Creuse le tunnel qui relie les points
 ## Rapport à la protagoniste
 
 - 1914 (R11) : surgit à Briggs sous ses yeux. S'il la voit transmuter sans cercle, l'information remonte à Père (statut « repérée », Roadmap 12). Son tunnel lui apprend que le pays est un cercle. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
+- 1915 (R13) : hors POV. Tué par Alex et Olivier Armstrong, Izumi et Sig. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 
 ## Sort connu (canon)
 
