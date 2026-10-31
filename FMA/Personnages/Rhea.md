@@ -326,7 +326,7 @@ Alimentées à chaud, arc par arc (Passe 2) :
   Rhea peut le confirmer ; Izumi n'en dit rien à personne.
 - Winry otage (R11a, 1914) : dès le retour d'Ed, Rhea sait que sa sœur tient
   Ed en laisse pour Bradley. Elle ne ment pas à Winry : l'appeler est au
-  choix du joueur, sinon Winry l'apprend à Briggs.
+  choix du joueur ; sinon, à Briggs, elle le lui dit si Winry demande.
 - Silence de Mustang (fixé en R12, vaut depuis 1910) : son rapport de 1910
   ne porte qu'Edward ; il a tu la troisième sans-cercle pour lui laisser le
   calme qu'elle voulait. Rhea l'ignore.

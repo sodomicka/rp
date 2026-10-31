@@ -9,7 +9,7 @@
   - Rhea sait : Hughes assassiné ; Ross vivante si Ed le lui a dit (secret) ; la chose de 1910 n'était pas Trisha ; Scar a tué Sarah et Yuri (avec Winry) ; Bradley est un homonculus.
   - Nœud Rhea/Al : Al sait qu'il est une âme et transmute sans cercle (R9) ; seul relais pendant l'absence d'Ed, et son sceau peut lâcher (R10).
   - Objets : Cliquetis avec Rhea ; Monsieur Lapinou à Resembool, avec Winry.
-  - Winry à Resembool, seule (quatrième séparation).
+  - Winry rentrée à Resembool, seule (quatrième séparation) ; elle sera de retour à Rush Valley quand les frères partiront au Nord (ép. 33).
   - Statut de sacrifice : « hors radar » par défaut ; « repérée » si Rhea a transmuté sans cercle devant Bradley (R7, R9, R10) ou Gluttony (R10) (delta Parties/).
 - borne de sortie : la gare de Central, au départ du train du Nord, avec les frères, pour Briggs (May partie vers le Nord, la lettre d'Armstrong pour sa sœur) -> Roadmap 11b. Acquis à la sortie :
   - Rhea sait que Père existe, sous Central, au visage de Hohenheim, et qu'il a bloqué l'alchimie des frères (récit d'Ed) ;
@@ -47,7 +47,7 @@ Toutes en présence de Rhea ; aucune ne montre un homonculus hors du jalon 1 et 
 - Rhea - POV, 16 ans - cf. Personnages/Rhea.md
 - Edward Elric - avalé, revient par la Porte, tenu par Winry - cf. Personnages/Edward_Elric.md
 - Alphonse Elric - mené à Père, ramène May - cf. Personnages/Alphonse_Elric.md
-- Winry Rockbell - otage sans le savoir, à Resembool (appel au choix) - cf. Personnages/Winry_Rockbell.md
+- Winry Rockbell - otage sans le savoir, à Resembool puis Rush Valley (appel au choix) - cf. Personnages/Winry_Rockbell.md
 - Roy Mustang - blessé dans la voiture, son équipe dispersée, 520 cens - cf. Personnages/Roy_Mustang.md
 - Riza Hawkeye - la voiture, raconte Ishval - cf. Personnages/Riza_Hawkeye.md
 - Ling Yao, Lan Fan, Fu - Ling avalé ; Lan Fan amputée, le message ; Fu revenu de Xing, refuse l'automail - cf. Personnages/Ling_Yao.md
@@ -100,7 +100,7 @@ Toutes en présence de Rhea ; aucune ne montre un homonculus hors du jalon 1 et 
 
 ## Notes de frontière
 - Statut de sacrifice : sans-cercle devant un homonculus ou devant Kimblee = « repérée » pour la partie (delta Parties/), à condition que le témoin ait le temps d'en faire rapport à Père (décision worldbuilder) ; Roadmap 11b en hérite. Témoins concernés : Gluttony (jalon 1, avant qu'il se déchire : il mène Al à Père dans la nuit), Bradley et Selim (jalon 6). Devant Knox, Lan Fan, Fu, Riza, May ou Armstrong : rien ne remonte. Déjà « repérée » à l'entrée : Ed rapporte au jalon 3 que Bradley l'a nommée aussi (« la demoiselle Rockbell, l'autre »).
-- Winry otage (jalon 3) : Rhea le sait dès le retour d'Ed. Elle ne ment pas à Winry. L'appeler à Resembool est au choix du joueur : les lignes sont écoutées, Bradley n'apprend rien qu'il ne sache ; Winry sait alors avant Briggs, et Kimblee vient la chercher quand même (R11b). Sans appel : Winry l'apprend à Briggs, par Rhea ou par Ed.
+- Winry otage (jalon 3) : Rhea le sait dès le retour d'Ed. Elle ne ment pas à Winry. L'appeler (à Resembool, ou à Rush Valley chez Garfiel) est au choix du joueur : les lignes sont écoutées, Bradley n'apprend rien qu'il ne sache ; Winry sait alors avant Briggs, et Kimblee vient la chercher quand même (R11b). Sans appel : les pages ne disent jamais que Winry l'apprend (ép. 37) ; à Briggs, Rhea le lui dit si elle demande, ou si Rhea le juge.
 - Ce qu'Ed rapporte (jalon 3) : Ed n'a fait revenir personne, il s'est transmuté lui-même pour passer la Porte, payé par les âmes d'une Pierre. Pour Rhea, qui sait la Pierre faite de vies (R7), c'est au choix du joueur ; rien ne bouge sur la trame. Le corps d'Al devant la Porte : l'anti-Alan bouge (Al a encore un corps à reprendre ; Alan n'en a plus) sans se résoudre.
 - Envy et Ishval (jalon 3) : Ed l'apprend dans le ventre de Gluttony et le dit à Scar devant Père. Rhea l'apprend d'Ed. L'armée a fait le reste : la haine ne change pas de cible, elle en gagne une.
 - Riza (jalon 4) : en canon, Ed y va seul (ép. 30). Rhea l'accompagne (divergence assumée) ; le joueur peut la laisser chez Knox, Ed lui raconte alors à plat. DÉTONE l'ironie Mustang/Riza de 1910 (« génocidaire »). Riza ne sait rien du 1903. Les pages ne disent ni l'ordre d'extermination signé ni une phrase sur un jugement à venir : ne pas les mettre dans sa bouche.

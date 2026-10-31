@@ -441,9 +441,11 @@ pas les re-litiger. JAMAIS fetché en narration.
 - SANS-CERCLE D'AL (reprise R9) : R11b, R12, R13 et R14 disent
   encore « pas avant la Roadmap 13 (ép. 59) » ; à recaler à leur reprise
   (R10 et R11a faits).
-- WINRY À RESEMBOOL (reprise R10) : R11b et R12 disent « Winry à Rush Valley » et « Monsieur Lapinou avec
-  elle s'il a été rapporté (R10) » ; à recaler à leur reprise, d'où
-  Kimblee la fait venir à vérifier au canon de Briggs.
+- WINRY APRÈS CENTRAL (reprises R10-R11a) : elle rentre à Resembool
+  (ch. 45, 48), puis est de nouveau à Rush Valley quand les frères partent
+  au Nord (ép. 33) ; Kimblee la cueille au pied de la montagne (ch. 70).
+  Monsieur Lapinou reste à Resembool. R12 dit encore « Monsieur Lapinou
+  avec Winry s'il a été rapporté (R10) » : à recaler à sa reprise.
 - Budget roadmap : R11 coupée en R11a et R11b, chacune sous le plafond.
   R12 (~19 000 caractères, plafond 15 000) : léger dépassement TOLÉRÉ
   (décision worldbuilder, 2026-10-31).
