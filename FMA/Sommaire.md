@@ -1,6 +1,6 @@
 # Sommaire - FMA
 
-- version : W22
+- version : W23
 
 ## WIKI
 
@@ -69,11 +69,11 @@ Description : fiches neutres canon des entités qui pèsent sur le RP, plus la p
 
 ### Roadmap/Rhea/
 Description : itinéraires par arc, dans l'ordre de la saga, par perspective de la protagoniste. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).
-- Roadmap0_La_Porte.md (W3) - 1903, ~2 semaines : générateur d'origine, du rituel à l'arrivée à Resembool (Porte, péage, secours Pinako). Linéaire, VERROUILLÉ (ne détone jamais)
-- Roadmap1_Grandir_A_Resembool.md (W3) - 1903 -> fin 1908, ~5 ans en vignettes : de l'arrivée à Resembool au silence des parents partis en 1907 (adoption, sœur Winry, amitiés Elric, tempérament figé, automail)
-- Roadmap2_Ishval_La_Nouvelle.md (W3) - 1909, ~1 an : du départ des frères chez Izumi à leur retour (la nouvelle des parents, les jumelles, naissance de l'antimilitarisme, ce qu'Izumi sait)
-- Roadmap3_Transmutation_Elric_Et_Mustang.md (W4) - 1910 -> mi-1911, ~1 an et demi : transmutation cachée des Elric, fracture, visite Mustang (repérage sur place), année d'atelier, départ d'Ed. Ouvre la Trajectoire datée de Rhea
-- Roadmap4_L_Examen_Et_Le_Depart.md (W5) - automne 1911 -> 1914, ~2 ans et demi : examen et incendie, froid en snapshots, retour des frères, révélation du 1903, Al proposé comme appui (carte de Winry), Cliquetis et Monsieur Lapinou, départ avec les Elric (arrêt avant Liore)
+- Roadmap0_La_Porte.md (W4) - 1903, ~2 semaines : générateur d'origine, du rituel à l'arrivée à Resembool (Porte, péage, secours Pinako). Linéaire, VERROUILLÉ (ne détone jamais) ; modes d'étape, tranches de vie de la route
+- Roadmap1_Grandir_A_Resembool.md (W4) - 1903 -> fin 1908, ~5 ans en vignettes : de l'arrivée à Resembool au silence des parents partis en 1907 (adoption, sœur Winry, amitiés Elric, tempérament figé, automail) ; modes d'étape, zone franche et foule, tranches de vie
+- Roadmap2_Ishval_La_Nouvelle.md (W4) - 1909, ~1 an : du départ des frères chez Izumi à leur retour (la nouvelle des parents, les jumelles, naissance de l'antimilitarisme, ce qu'Izumi sait) ; modes d'étape, les jumelles à l'atelier, tranches de vie
+- Roadmap3_Transmutation_Elric_Et_Mustang.md (W5) - 1910 -> mi-1911, ~1 an et demi : transmutation cachée des Elric, fracture, visite Mustang (repérage sur place), année d'atelier, départ d'Ed. Ouvre la Trajectoire datée de Rhea ; modes d'étape, tranches de vie de l'année d'atelier
+- Roadmap4_L_Examen_Et_Le_Depart.md (W6) - automne 1911 -> 1914, ~2 ans et demi : examen et incendie, froid en snapshots, retour des frères, révélation du 1903, Al proposé comme appui (carte de Winry), Cliquetis et Monsieur Lapinou, départ avec les Elric (arrêt avant Liore) ; modes d'étape, tranches de vie du froid et du séjour de 1914
 - Roadmap5_Liore.md (W2) - 1914, ~1 semaine : premier voyage sans Winry, Liore et Cornello, Rose en miroir du 1903, fausse Pierre, échec de la carte de Winry, Cliquetis éprouvé (hors POV : Lust et Gluttony)
 - Roadmap6_East_City_Et_Scar.md (W2) - 1914, ~2 semaines : Mustang revu, Tucker et Nina, Scar brise Ed et Al (sans révélation sur les Rockbell), armure d'Al refaite par Rhea, Armstrong, Marcoh, retour à Resembool et second départ
 - Roadmap7_Laboratoire_5.md (W3) - 1914, ~3 semaines : Central, notes de Marcoh (la Pierre = vies humaines), Laboratoire 5 (Rhea dehors avec Al, Barry), Winry à Central, anniversaire d'Elicia, doute d'Al, visite de Bradley, départ vers le Sud (hors POV : mort de Hughes)
