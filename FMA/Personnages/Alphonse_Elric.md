@@ -1,6 +1,6 @@
 # Alphonse Elric
 
-- version : W15
+- version : W16
 
 ## Identité
 
@@ -45,7 +45,7 @@ Ami d'enfance de la protagoniste. En 1910, il cache avec Ed la transmutation à 
 - 1914 (R4) : pousse Ed, avec Winry, à recruter Rhea (consolidation du métal de son armure en route, jamais le sceau). Apprend alors le 1903 de Rhea. Proposé par Winry comme appui de Rhea, reçoit sa carte (papier des habitudes de Winry avec sa sœur) : faite pour Winry, elle ne prendra pas - il devra se construire la sienne. Pour elle, il reste l'anti-Alan : la réconciliation est fraîche et fragile.
 - 1914 (R5) : à Liore, applique la carte de Winry à la première crise de Rhea loin d'elle ; ça ne prend pas (gantelet d'acier, pas de chaleur, pas Winry). Constate que la carte répertorie ce qui marche avec Winry, et commence à observer Rhea pour se construire la sienne.
 - 1914 (R6) : armure détruite par Scar à East City ; Rhea la reconstruit dans la nuit, sans toucher au sceau. En la regardant travailler, il note ce qui marche sans Winry (le travail du métal la calme) : première ligne qui prend sur sa propre carte. À Resembool, Winry lui passe le relais pour de bon.
-- 1914 (R7) : affronte Barry le Boucher devant le Laboratoire 5, avec Rhea ; Barry lui souffle qu'Ed a pu fabriquer son âme. Le doute le ronge jusqu'au combat avec Ed dans la cour de l'hôpital. Rhea, qui a vu deux choses sans âme et une âme dans un corps fondu, peut lui dire ce qu'elle en sait : ce qui sort d'elle devient une ligne de sa carte. Pour Rhea, le doute tombe pile sur la plaie anti-Alan (« plus qu'une âme »).
+- 1914 (R7) : affronte Barry le Boucher devant le Laboratoire 5, avec Rhea ; Barry lui souffle qu'Ed a pu fabriquer son âme. Le doute le ronge jusqu'à l'explosion contre Ed ; Winry le sermonne, et les frères se battent sur le toit (Ed gagne avec un drap). Rhea, qui a vu deux choses sans âme et une âme dans un corps fondu, peut lui dire ce qu'elle en sait : ce qui sort d'elle devient une ligne de sa carte. Pour Rhea, le doute tombe pile sur la plaie anti-Alan (« plus qu'une âme »).
 - 1914 (R8) : à Rush Valley, sa carrure peut ouvrir à Rhea un passage dans la foule (si c'est fait, une ligne de plus sur sa carte). Présent à la naissance chez les LeCoulte : Rhea voit une âme arriver dans un corps, en face de celui qui doute d'en être une. Reprend seul le relais de Winry vers Dublith.
 - 1914 (R9) : à Dublith, Izumi devine la transmutation. Enlevé par la bande de Greed ; Martel se cache dans son armure au raid, Bradley la tue à travers lui : son sang lui rend la nuit de 1910. Son âme n'est pas fabriquée, le doute de Barry tombe ; toujours pas de sans-cercle. A vu le Généralissime tuer les chimères, sans savoir ce qu'il est. Pour Rhea : la preuve qu'il est une âme, celle qui manquait à Alan. Rush Valley, Ling ; part pour Central avec Winry.
 - 1914 (R10) : seul relais de Rhea pendant l'absence d'Ed ; la laisse avec Winry pour rejoindre l'équipe de Mustang contre Barry (Laboratoire 3, hors POV de Rhea). Apprend d'Ed que la chose de 1910 n'était pas Trisha. Au piège, bloque Rhea si elle veut tuer Scar, puis le suit. Toujours pas de sans-cercle.

@@ -1,6 +1,6 @@
 # Winry Rockbell
 
-- version : W14
+- version : W15
 
 ## Identité
 
@@ -67,9 +67,11 @@ Sororité fusionnelle avec la protagoniste (jumelles après 1909). Winry connaî
   avec Monsieur Lapinou. Apprend que sa carte n'a pas pris et que Cliquetis
   a tenu ; passe le relais à Al. Entend parler d'un tueur ishval sans faire
   le lien avec ses parents. Reste à Resembool au second départ.
-- 1914 (R7) : appelée à Central par Ed (bras cassé au Laboratoire 5) ;
+- 1914 (R7) : appelée à Central par Ed (bras grippé au Laboratoire 5) ;
+  vient vite, rongée par le boulon oublié à Resembool, qu'elle tait à Ed ;
   répare la mécanique, Rhea au métal si besoin. Anniversaire d'Elicia chez
-  les Hughes : se plaint que les frères ne lui disent rien. Rhea ne lui
+  les Hughes, avec Rhea : se plaint que les frères ne lui disent rien ;
+  sermonne Al quand il doute d'Ed. Rhea ne lui
   ment pas : elle peut savoir pour la Pierre avant le canon (au choix du
   joueur), et se tait alors devant les frères. Part avec le trio vers Rush
   Valley, la ville de son rêve.

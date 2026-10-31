@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W23
+- version : W24
 
 ## Identité
 
@@ -429,14 +429,15 @@ partie.
   Sheska recopie de tête les notes de Marcoh ; décodées, elles disent que la
   Pierre est faite de vies humaines : la sensation de R6 devient un savoir.
   Nuit du Laboratoire 5 : dehors avec Al, face à Barry le Boucher (une âme
-  de tueur dans une armure) ; elle n'y entre pas et ne voit aucun
-  homonculus. Winry appelée à Central pour le bras d'Ed : Rhea ne sait pas
-  lui mentir sur ce qu'Ed veut taire. Anniversaire d'Elicia chez les Hughes :
+  de tueur dans une armure) ; elle n'y entre pas ; d'Ed ramené par la brèche,
+  elle ne voit qu'une silhouette. Winry appelée à Central pour le bras d'Ed : Rhea ne sait pas
+  lui mentir sur ce qu'Ed veut taire. Anniversaire d'Elicia chez les Hughes, avec Winry :
   un militaire d'Ishval qui aime sa famille, sans case dans son
   antimilitarisme. Al doute d'être une âme ; elle, qui a vu deux choses sans
   âme, est la seule à pouvoir en témoigner (une ligne de plus sur la carte
-  d'Al). Le Généralissime à deux mètres. Départ vers le Sud avec Ed, Al et
-  Winry (Rush Valley, Dublith) ; Hughes meurt hors de son regard.
+  d'Al). Le Généralissime à deux mètres. Hughes meurt le soir même, hors de
+  son regard. Départ vers le Sud quelques jours plus tard avec Ed, Al et
+  Winry (Rush Valley, Dublith), sans rien en savoir.
 - 1914 (R8) - Rush Valley. La ville du rêve de Winry : foule, ateliers,
   métal partout, agoraphobie au plus haut ; Winry en bouclier, Al pour
   ouvrir la foule. Paninya vole la montre d'Ed ; Dominic LeCoulte refuse
