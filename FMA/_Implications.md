@@ -6,14 +6,17 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B20 + passe d'immersion R0-R4 (Sommaire W23, 2026-10-31)
+- dernière mise à jour : BIBLE B21 + reprise R5 (Sommaire W24, 2026-10-31)
 
 ## État d'avancement du chantier
 - Passe 2 : TOUTES les roadmaps ÉCRITES, R0 à R14 (1903 -> retour à
   Resembool, printemps 1915, au gabarit SPEC v9.2 §7).
-- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R4
-  (Sommaire W23). État réel des autres roadmaps, relevé le 2026-10-31 :
-  R5 à R8 n'ont ni modes d'étape ni tranches de vie ; R9 n'a que deux
+- REPRISE R5-R14 EN SÉRIE (worldbuilder, 2026-10-31) : une roadmap à la
+  fois, canon revérifié épisode par épisode, modes d'étape et tranches de
+  vie posés, POV unique de Rhea ; une PR par roadmap. Faite : R5 (W3).
+- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R5
+  (Sommaire W24). État réel des autres roadmaps, relevé le 2026-10-31 :
+  R6 à R8 n'ont ni modes d'étape ni tranches de vie ; R9 n'a que deux
   AU CHOIX ponctuels (2 jalons sur 11) ; R10 a des modes sur 4 jalons
   sur 9, R11a sur 5 sur 6 ; R11b, R12 et R13 ont tous leurs modes. Aucune
   de R5 à R13 n'a de tranches de vie ; seule R14 est complète.
@@ -111,14 +114,31 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Resume.md (W1, build B6) : résumé de l'histoire établie, à mettre à jour
   à chaque BIBLE BUILD. NON indexé au Sommaire (retiré en B7, mode BIBLE).
 
-- CANON COMME RAIL (décision worldbuilder, R5) : les roadmaps canon
-  s'écrivent depuis la connaissance du canon Brotherhood/manga, sans
-  revisionnage. Exigence : narrable et cohérent entre roadmaps, pas copie
-  parfaite. Ne poser au worldbuilder que les questions essentielles.
+- CANON COMME RAIL (décision worldbuilder, R5) : exigence narrable et
+  cohérent entre roadmaps, pas copie parfaite. Ne poser au worldbuilder que
+  les questions essentielles. MAIS rien ne s'écrit de mémoire (reprise
+  R5-R14, 2026-10-31) : chaque fait se vérifie sur les pages épisode et
+  chapitre. Source qui répond depuis l'environnement de build :
+  `https://daddyjim.com/fullmetal-alchemist/episode/Episode-<N>-2009-Anime`
+  (miroir des pages fandom ; chapitres :
+  `.../manga-chapter/Chapter-<N>-<Titre>`, personnages :
+  `.../character/<Nom>`). fma.fandom.com et Wikipedia sont bloqués.
+- ORDRE BROTHERHOOD (garde-cap) : la série de 2009 fait le rail. Les ch. 3
+  et 4 du manga (Youswell, le train de Bald) n'y sont pas adaptés (listes
+  des ép. 1 à 7 vérifiées) : hors rail. En cas d'écart manga/anime sur un
+  détail, la roadmap garde ce que les deux partagent, ou suit Brotherhood.
 - ALCHIMIE DEVANT UN TÉMOIN CANON = CHOIX DU JOUEUR (worldbuilder, R5) :
   pas une question de build. La roadmap pose seulement les conséquences
   par défaut (Liore : Cornello meurt sans parler, rien ne remonte aux
   homonculus).
+- R5 - LIORE (reprise, canon ép. 2-4 et ch. 1-5 vérifiés) : le train
+  arrive à l'aube (ép. 2) ; Rose obtient l'audience par Cray et tire sur
+  Ed sur ordre de Cornello (casque d'Al) ; Al et Rose montent le
+  haut-parleur dehors pendant qu'Ed fait parler Cornello : Rhea choisit sa
+  place (défaut : avec Ed) ; la ville prend le temple d'assaut la même
+  nuit. Le géant de Cornello (ajout anime) n'est pas retenu. La mort de
+  Cornello sort des jalons (cadrage MJ, purge de clôture) ; Lust et
+  Gluttony sortent du casting.
 - R6 - RETOUR À RESEMBOOL MAINTENU (tranché en mode usine, R6) : Rhea forge
   le métal mais un bras d'automail complet exige l'atelier Rockbell et le
   raccord nerveux (Winry, Pinako). Elle refait l'armure d'Al sur place
