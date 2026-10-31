@@ -18,7 +18,7 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R12
   (Sommaire W32). État réel des autres roadmaps, relevé le 2026-10-31 :
   R13 a tous ses modes, mais pas de banque de
-  tranches de vie ; elle n'a de tranches de vie ; seule R14 est complète.
+  tranches de vie ; seule R14 est complète.
 - Reste avant la Passe 3 : RELECTURE CROISÉE de clôture (cœur §4).
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
   En jeu, la roadmap en cours est un document de jeu (SPEC v9.2 §7).
