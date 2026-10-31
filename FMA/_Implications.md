@@ -14,9 +14,9 @@ pas les re-litiger. JAMAIS fetché en narration.
 - REPRISE R5-R14 EN SÉRIE (worldbuilder, 2026-10-31) : une roadmap à la
   fois, canon revérifié épisode par épisode, modes d'étape et tranches de
   vie posés, POV unique de Rhea ; une PR par roadmap, fusionnée au fil de
-  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4), R8 (W4), R9 (W4), R10 (W4), R11a (W2), R11b (W2), R12 (W4), R13 (W3).
-- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R13
-  (Sommaire W33). État réel des autres roadmaps, relevé le 2026-10-31 :
+  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4), R8 (W4), R9 (W4), R10 (W4), R11a (W2), R11b (W2), R12 (W4), R13 (W3), R14 (W3).
+- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R14
+  (Sommaire W34). État réel des autres roadmaps, relevé le 2026-10-31 :
   R14 est complète depuis la Passe d'immersion.
 - Reste avant la Passe 3 : RELECTURE CROISÉE de clôture (cœur §4).
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
@@ -219,6 +219,14 @@ pas les re-litiger. JAMAIS fetché en narration.
   trio pour Central (canon ép. 15) ; rituel de sommeil sans Monsieur
   Lapinou, toujours à Resembool. Le garde-cap disait « Bradley se dévoile
   en rasant le repaire » : recalé (dévoilement hors POV).
+- R14 - REPRISE (canon ép. 63-64 vérifiés) : Ling offre la Pierre, Ed
+  refuse, et refuse la vie de Hohenheim ; « s'y met lui-même comme matière »
+  : non sourcé, retiré. Al rouvre les yeux au soleil (« décharné » gardé en
+  [CANON SUPPOSÉ]). Ed rend Pride nourrisson à Mme Bradley à la nuit ;
+  Olivier et Miles soignent Scar chez les Armstrong ; Ed refuse de partir
+  sans Al ; Winry sort en courant ; PINAKO a trouvé Hohenheim à l'aube.
+  L'éclipse dite par Winry : non sourcée, [CANON SUPPOSÉ]. FIN DE LA
+  REPRISE R5-R14 EN SÉRIE.
 - R13 - REPRISE (canon ép. 50-63 vérifiés) : entrée à Kanama, le matin.
   Le groupe passe par le Laboratoire 3 et se scinde (qui va où : non
   sourcé). Barry au seuil du repaire, le mannequin qui dit « maman »
@@ -472,9 +480,7 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Nom de jeune fille d'Izumi (Harnet) : non confirmé.
 
 ## Dettes de build
-- SANS-CERCLE D'AL (reprise R9) : R14 dit
-  encore « pas avant la Roadmap 13 (ép. 59) » ; à recaler à leur reprise
-  (R10 à R13 faits).
+- SANS-CERCLE D'AL (reprise R9) : recalé de R10 à R14 (soldé).
 - WINRY APRÈS CENTRAL (reprises R10-R11a) : elle rentre à Resembool
   (ch. 45, 48), puis est de nouveau à Rush Valley quand les frères partent
   au Nord (ép. 33) ; Kimblee la cueille au pied de la montagne (ch. 70).
