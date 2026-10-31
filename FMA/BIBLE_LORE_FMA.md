@@ -16,7 +16,7 @@
 - univers : Fullmetal Alchemist (branche manga / Brotherhood, continuité Arakawa)
 - sources primaires : manga Arakawa + anime Brotherhood (2009). Canon local prime sur 2003.
 - site_ref canon (Brotherhood, épisode par épisode) : `https://fma.fandom.com/wiki/Episode_<N>_(2009_Anime)` (N = 1 à 64 ; chaque page liste les chapitres manga adaptés). Secours : `https://fma.fandom.com/wiki/List_of_Fullmetal_Alchemist_episodes`, ou le miroir `https://daddyjim.com/fullmetal-alchemist/episode/Episode-<N>-2009-Anime` (pages chapitre : `.../manga-chapter/`, personnages : `.../character/`), ou recherche web. VÉRIFICATION uniquement : ni théories fans, ni copie de texte. Méthode de déroulement : cf. _Implications.md.
-- bible_version : B22
+- bible_version : B23
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/FMA/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/FMA/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/FMA/Partie1/`
@@ -95,7 +95,7 @@
 | 1914 | Central : notes de Marcoh décodées, Laboratoire 5 ; Winry à Central ; Bradley au chevet d'Ed ; Maes Hughes tué par Envy le soir même ; départ vers le Sud pendant son enterrement | La Pierre = vies humaines ; enquête de Mustang. cf. WIKI Roadmap/Rhea/Roadmap7_Laboratoire_5.md |
 | 1914 | Rush Valley : Paninya vole la montre d'Ed (Winry y voit la date de l'incendie) ; Winry accouche la belle-fille de Dominic ; Winry reste chez Garfiel | Rhea repart sans Winry vers Dublith. cf. WIKI Roadmap/Rhea/Roadmap8_Rush_Valley.md |
 | 1914 | Dublith : Izumi devine la transmutation des frères ; Greed enlève Al ; raid de Bradley, Greed capturé, le sang de Martel rend à Al ses souvenirs de 1910 ; retour à Rush Valley, Ling Yao ; départ pour Central avec Winry | Miroir Izumi/Rhea. cf. WIKI Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md |
-| 1914 | Central : Ed apprend la mort de Hughes ; Mustang simule l'exécution de Ross ; Lust détruite (Laboratoire 3) ; Hohenheim à Resembool, la chose de 1910 n'était pas Trisha ; Rhea et Winry apprennent ensemble que Scar a tué Sarah et Yuri ; Winry repart pour Rush Valley ; Ling révèle que Bradley est un homonculus | Contentieux Scar détoné. cf. WIKI Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md |
+| 1914 | Central : Ed apprend la mort de Hughes ; Mustang simule l'exécution de Ross ; Lust détruite (Laboratoire 3) ; Hohenheim à Resembool, la chose de 1910 n'était pas Trisha ; Rhea et Winry apprennent ensemble que Scar a tué Sarah et Yuri ; Bradley au chevet de Winry ; Winry repart pour Resembool ; Ling révèle que Bradley est un homonculus | Contentieux Scar détoné. cf. WIKI Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md |
 | 1914 | Gluttony avale Ed et Ling ; repaire de Père sous Central, Ling devient Greed, Bradley tient Winry en otage ; Riza raconte Ishval ; dîner chez les Bradley | Rhea sait Père, Winry otage. cf. WIKI Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md |
 | 1914 | Briggs : Olivier, Sloth, le tunnel-cercle national ; Kimblee amène Winry ; Baschool : la ruse de l'enlèvement, Winry pardonne à Scar | Rhea sait le cercle national. cf. WIKI Roadmap/Rhea/Roadmap11b_Le_Nord_Briggs.md |
 | 1914-1915 | Galeries de Baschool ; Ed empalé par Kimblee ; Envy réduit par May et Marcoh ; Liore, Hohenheim révèle le Jour Promis et les sacrifices ; Resembool (Ed vivant, Greed-Ling) ; Gluttony dévoré par Pride, Al et Pride sous le dôme | Rhea se sait sacrifice valable ; aube du Jour Promis. cf. WIKI Roadmap/Rhea/Roadmap12_Convergence.md |
@@ -178,7 +178,7 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Bras droit de Scar - bras greffé de son frère | alchimie de destruction | détruit la matière sans reconstruire | porté par Scar | établi. detail: cf. WIKI Personnages/Scar.md
 - Array d'alchimie de flamme - tatouage dans le dos de Riza | œuvre de Berthold Hawkeye | seul enregistrement complet de l'alchimie de flamme | brûlé en partie plus tard | établi. detail: cf. WIKI Personnages/Riza_Hawkeye.md
 - Grimoire d'alchimie du père de Rhea - traité complet incluant la théorie de la transmutation humaine | atelier du père mineur | source de la transmutation de 1903 | perdu/détruit avec le village | OC. detail: cf. WIKI Roadmap/Rhea/Roadmap0_La_Porte.md
-- Monsieur Lapinou - peluche du frère cadet de Rhea (Alan) | récupérée au départ du village natal (1903) | souvenir de quand elle aimait Alan, devenu rituel de sommeil avec Winry | laissé à Winry au départ de 1914, part du rituel pour qu'elle ne soit pas seule ; peut lui être rapporté (R10) ; à Resembool avec Winry avant le Jour Promis (R12) ; reste à Winry au retour (R14), jamais repris par Rhea | OC. detail: cf. WIKI Personnages/Rhea.md
+- Monsieur Lapinou - peluche du frère cadet de Rhea (Alan) | récupérée au départ du village natal (1903) | souvenir de quand elle aimait Alan, devenu rituel de sommeil avec Winry | laissé à Winry au départ de 1914, part du rituel pour qu'elle ne soit pas seule ; Winry le retrouve à Resembool (R10) ; à Resembool avec Winry avant le Jour Promis (R12) ; reste à Winry au retour (R14), jamais repris par Rhea | OC. detail: cf. WIKI Personnages/Rhea.md
 - Cliquetis - galet de métal sans arête (pour ne pas blesser Rhea en crise) | forgé par Winry en une nuit avant le départ de 1914 | roulette reproduisant le rythme cardiaque de Rhea endormie ; relais anti-crise en l'absence de Winry | emporté par Rhea avec le Fullmetal, reste à elle (R14) | OC. detail: cf. WIKI Personnages/Rhea.md
 - Cache-œil en cuir - couvre l'orbite droite vide de Rhea | cousu par Winry (bandage de Pinako à l'origine) | dissimule la plaie du péage cognitif | porté par Rhea | OC. detail: cf. WIKI Personnages/Rhea.md
 
@@ -209,4 +209,4 @@ Index détaillé page-par-page : cf. WIKI FMA/Sommaire.md
 
 ---
 
-FIN_BIBLE_B22
+FIN_BIBLE_B23

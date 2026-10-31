@@ -1,6 +1,6 @@
 # Barry le Boucher
 
-- version : W2
+- version : W3
 
 ## Identité
 
@@ -51,7 +51,7 @@ souvenirs ont pu être fabriqués par Ed. Fuit après l'explosion.
   côtés d'Al. Il retient la gamine au cache-œil ; s'il la voit transmuter
   sans cercle, rien ne remonte. Détail : cf.
   Roadmap/Rhea/Roadmap7_Laboratoire_5.md.
-- 1914 (R10) : fait évader Ross, retient les frères (et Rhea) dans la nuit ;
+- 1914 (R10) : fait évader Ross (et Ling), croise les frères (et Rhea) dans la nuit ;
   meurt au Laboratoire 3, hors de son regard ; elle l'apprend par Al. Détail :
   cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 

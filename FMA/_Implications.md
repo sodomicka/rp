@@ -15,10 +15,9 @@ pas les re-litiger. JAMAIS fetché en narration.
   fois, canon revérifié épisode par épisode, modes d'étape et tranches de
   vie posés, POV unique de Rhea ; une PR par roadmap, fusionnée au fil de
   l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4), R8 (W4), R9 (W4).
-- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R9
-  (Sommaire W28). État réel des autres roadmaps, relevé le 2026-10-31 :
-  R10 a des modes sur 4 jalons
-  sur 9, R11a sur 5 sur 6 ; R11b, R12 et R13 ont tous leurs modes. Aucune
+- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R10
+  (Sommaire W29). État réel des autres roadmaps, relevé le 2026-10-31 :
+  R11a a des modes sur 5 jalons sur 6 ; R11b, R12 et R13 ont tous leurs modes. Aucune
   de R5 à R13 n'a de tranches de vie ; seule R14 est complète.
 - Reste avant la Passe 3 : RELECTURE CROISÉE de clôture (cœur §4).
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
@@ -221,6 +220,16 @@ pas les re-litiger. JAMAIS fetché en narration.
   trio pour Central (canon ép. 15) ; rituel de sommeil sans Monsieur
   Lapinou, toujours à Resembool. Le garde-cap disait « Bradley se dévoile
   en rasant le repaire » : recalé (dévoilement hors POV).
+- R10 - REPRISE (canon ép. 16-27 et ch. 35-53 vérifiés ; ch. 34 illisible
+  sur le miroir) : ordre Brotherhood pour les aveux (Ross dit Hughes, puis
+  le feu) ; Winry chez Gracia par le journal (ch. 36) ; Armstrong menotte Ed
+  à l'hôtel ; Al part avec Ling, revient le bras arraché, et son sceau peut
+  lâcher (ép. 20, ch. 43) ; Ed dit Scar à Al seul (ch. 45) ; Winry et Rhea
+  sur la tombe de Hughes, puis au combat (ch. 46) ; Bradley au chevet de
+  Winry (ch. 48, nouveau jalon) ; Winry repart pour RESEMBOOL, pas Rush
+  Valley (ch. 45 et 48) : l'option « faire rapporter Monsieur Lapinou »
+  tombe, il l'attend là-bas. Mustang « de l'hôpital » : non sourcé, retiré.
+  Que Ed dise Ross vivante à Al : non sourcé, gardé en [CANON SUPPOSÉ].
 - R10 - CENTRAL : HUGHES ET SCAR (mode usine, canon ép. 16-23 vérifié sur
   Wikipedia). R10 couvre jusqu'à la révélation de Ling à la planque de
   Knox (ép. 23) ; la transformation de Gluttony ouvre R11.
@@ -418,8 +427,13 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Nom de jeune fille d'Izumi (Harnet) : non confirmé.
 
 ## Dettes de build
-- SANS-CERCLE D'AL (reprise R9) : R10, R11a, R11b, R12, R13 et R14 disent
-  encore « pas avant la Roadmap 13 (ép. 59) » ; à recaler à leur reprise.
+- SANS-CERCLE D'AL (reprise R9) : R11a, R11b, R12, R13 et R14 disent
+  encore « pas avant la Roadmap 13 (ép. 59) » ; à recaler à leur reprise
+  (R10 fait).
+- WINRY À RESEMBOOL (reprise R10) : R11a, R11b et R12, et la fiche Winry
+  (R11a-R11b), disent « Winry à Rush Valley » et « Monsieur Lapinou avec
+  elle s'il a été rapporté (R10) » ; à recaler à leur reprise, d'où
+  Kimblee la fait venir à vérifier au canon de Briggs.
 - Budget roadmap : R11 coupée en R11a et R11b, chacune sous le plafond.
   R12 (~19 000 caractères, plafond 15 000) : léger dépassement TOLÉRÉ
   (décision worldbuilder, 2026-10-31).

@@ -1,6 +1,6 @@
 # Pinako Rockbell
 
-- version : W5
+- version : W6
 
 ## Identité
 Matriarche de la famille Rockbell, de Resembool.
@@ -39,7 +39,7 @@ Figure parentale de substitution : élève Winry seule après la mort des parent
 
 ## Rapport à la protagoniste
 Pinako est la sauveuse et la figure fondatrice de la protagoniste : elle la trouve, achève la masse, la recueille, la fait taire au village, l'élève. Détail : cf. Personnages/Rhea.md et Parties/.
-- 1914 (R10) : Rhea, restée à Central, peut l'appeler pendant le séjour d'Ed à Resembool et lui demander de faire rapporter Monsieur Lapinou, pour Winry (au choix du joueur). Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
+- 1914 (R10) : hors POV, exhume avec Ed la chose de 1910 (cheveux noirs : pas Trisha) et lui remet le message de Trisha pour Hohenheim ; Rhea l'apprend par Ed. Winry rentre ensuite à Resembool, chez elle. Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 - 1915 (R12) : accueille Ed, Darius, Heinkel et Greed-Ling, puis Winry et Rhea. Prépare le sac de Rhea au départ (verrou). Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R14) : reste à Resembool avec Winry ; annonce la mort de Hohenheim sur la tombe de Trisha (qui l'a trouvé n'est pas dit) ; rouvre la maison au retour des frères et de Rhea. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 

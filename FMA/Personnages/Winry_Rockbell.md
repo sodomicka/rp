@@ -1,6 +1,6 @@
 # Winry Rockbell
 
-- version : W16
+- version : W17
 
 ## Identité
 
@@ -88,11 +88,12 @@ Sororité fusionnelle avec la protagoniste (jumelles après 1909). Winry connaî
   Part avec le trio pour Central (canon ép. 15).
 - 1914 (R10) : chez Gracia avant les frères, pour le deuil de Hughes. Reste
   à Central avec Rhea pendant qu'Ed va à Resembool. Au piège tendu à Scar,
-  apprend avec Rhea, à la même seconde, qu'il a tué ses parents ; le braque,
-  Ed la désarme. Les frères lui expliquent tout (la Pierre, les homonculus).
-  Repart seule pour Rush Valley, ses clients ; Monsieur Lapinou avec elle si
-  Rhea l'a fait rapporter de Resembool. Le pardon à Scar vient plus tard
-  (canon ép. 38-39).
+  apprend avec Rhea, à la même seconde, qu'il a tué ses parents ; le braque ;
+  Ed l'amène à lâcher l'arme (ses mains sont faites pour donner la vie).
+  Bradley lui tient compagnie, Rhea présente ; un appel de Garfiel, et elle
+  repart seule pour Resembool (ch. 45, 48), où l'attend Monsieur Lapinou.
+  Sur le quai, Ed lui promet des larmes de joie. Le pardon à Scar vient à
+  Baschool (R11b).
 - 1914 (R11a-R11b) : otage de Bradley pour tenir Ed, sans le savoir d'abord ; Rhea ne lui ment pas (appel au choix du joueur, sinon elle l'apprend à Briggs). Amenée à Briggs par Kimblee ; retrouvailles avec Rhea, Monsieur Lapinou avec elle s'il a été rapporté. Refait l'automail d'Ed pour le froid, Rhea au métal. À Baschool, confronte Scar avec Rhea à ses côtés, invente la ruse de l'enlèvement à l'explosion de Kimblee et part avec le groupe de Scar, Rhea avec elle ; dans la planque, lui pardonne (ses parents l'auraient fait).
 - 1914-1915 (R12) : dans les galeries puis au bidonville du Nord avec Rhea ; Liore ; raccompagnée à Resembool par des soldats de Briggs, Rhea avec elle. Les 17 ans de Rhea. Retrouve Ed vivant ; refuse de fuir à l'étranger ; renforce son automail au carbone, Rhea au métal. Apprend de Rhea qu'elle est un sacrifice valable. Dernier rituel avec Monsieur Lapinou ; reste à Resembool, Rhea repart avec Ed (cinquième séparation). Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : hors POV, à Resembool avec Monsieur Lapinou ; son âme prise et rendue à l'éclipse. Rhea l'apprend en R14. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
