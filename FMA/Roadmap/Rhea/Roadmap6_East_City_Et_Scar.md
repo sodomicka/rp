@@ -1,6 +1,6 @@
 # Roadmap 6 - East City et Scar
 
-- version : W3
+- version : W4
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : une à deux semaines (1914) : quelques jours à East City (le canon dit « les jours suivants » chez Tucker, sans les chiffrer), la pluie le lendemain du meurtre de Tucker, le train avec Armstrong et l'arrêt chez Marcoh, trois jours à Resembool (ch. 9), le départ à l'aube vers Central
@@ -104,7 +104,6 @@ Toutes en présence de Rhea ; aucune ne relie Scar aux Rockbell.
 - Ironie dramatique (cadrage MJ, hors prose) : Scar tue des Alchimistes d'État, cible que Rhea déteste ; elle peut l'approuver avant de le voir frapper. Il a tué Sarah et Yuri, ce que ni Rhea ni Winry ne savent. Armstrong, logé chez les Rockbell, a été incapable de continuer à Ishval ; Rhea l'ignore, rien ne le lui dit en R6. À verser au CODEX.
 - Sans-cercle de Rhea devant Scar (jalon 7, au choix du joueur) : Scar ne vise que les Alchimistes d'État ; sans montre, elle est un obstacle, pas une cible, et il frappe l'obstacle. Il retient le visage d'une seconde sans-cercle, rien de plus. Mustang, Riza et Armstrong la voient : leur rapport porte sur Scar. Ce que l'armée retient de Rhea reste suspendu à Roadmap 12 ; rien ne remonte aux homonculus.
 - Marcoh a admiré Sarah et Yuri comme médecins (cf. Personnages/Sarah_Rockbell.md). Si le nom Rockbell est dit, il sait qu'ils sont morts à Ishval, pas par qui [cadrage MJ].
-- Hors POV (cadrage MJ, jamais narré ; purge de clôture) : Basque Grand tué de nuit à Central (ép. 4) ; le manga fait tuer par Scar le soldat venu chercher les frères sous la pluie, Brotherhood non : non retenu ; à Liore, Envy sous les traits de Cornello, Cray dévoré par Gluttony (ép. 5) ; Lust attend Marcoh chez lui après le passage du trio (ép. 6). Le manga met aussi Lust dans le train ; Brotherhood coupe cette filature : non retenue.
 - Divergences assumées vs canon : Rhea reconstruit l'armure d'Al dès East City (en canon, Ed la refait à Resembool, ch. 9) ; le bras d'Ed est forgé à quatre mains. Le boulon oublié par Winry dans le nouveau bras (ch. 9) reste canon : il se découvre après le départ, Rhea n'en sait rien.
 - Tchekhov : Scar / parents ARMÉ (face-à-face sans révélation) ; nœud Rhea/Al (armé, la carte d'Al prend une ligne) ; statut de sacrifice (dormant, hors radar).
 

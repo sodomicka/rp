@@ -1,11 +1,11 @@
 # Roadmap 2 - Ishval, la nouvelle
 
-- version : W4
+- version : W5
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (10 -> 11 ans), POV strict : on ne quitte jamais Resembool
 - échelle temporelle : ~1 an (début 1909 -> fin 1909) ; le liant (départ des frères, mois d'absence) se compresse, les scènes fortes (l'annonce, le feu, le retour) se jouent
 - borne d'entrée : suite de Roadmap 1. Fin 1908, Rhea a 10 ans ; Sarah et Yuri sont absents depuis leur dernier départ de 1907, aucune nouvelle n'est parvenue.
-  - Cadrage MJ (jamais joué) : Sarah et Yuri sont tués à Ishval en 1908, hors-récit total. Le MJ le sait ; Rhea ne le vivra que par la nouvelle, en 1909.
+  - Sarah et Yuri sont morts à Ishval en 1908 ; Rhea l'apprend par la nouvelle, en 1909.
 - borne de sortie : fin 1909, la mort est sue, le deuil traversé, les frères rentrés -> Roadmap 3. Acquis à la sortie :
   - les sœurs sont désormais « jumelles » (fusion scellée dans le deuil, plus fort que le deuil d'Alan) ;
   - ANTIMILITARISME né (conséquence, pas un beat) - racine concrète, pas abstraite : le soldat-gamin, simple postier, venu solder la mort de ses parents avec de l'argent, sans un mot sur le fait qu'ils étaient là pour SAUVER (les deux camps) quand les Alchimistes d'État venaient ôter des vies - l'institution qui tue et qui paie ;

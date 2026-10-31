@@ -1,6 +1,6 @@
 # Roadmap 4 - L'examen et le départ
 
-- version : W6
+- version : W7
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (13 -> 16 ans), POV strict
 - échelle temporelle : ~2 ans et demi (automne 1911 -> 1914) : quelques jours en 1911 (la nouvelle, l'incendie, le quai), une ellipse de ~2 ans et demi en vignettes, quelques jours en 1914 (le retour, la proposition, la veille, le départ)
@@ -81,9 +81,9 @@ Le froid (1911-1914) : rien qui rompe le silence. Le séjour de 1914 : jusqu'au 
 - Révéler le 1903 avant le retour de 1914 - casserait la révélation calée au retour de 1914 (jalon 8).
 - Révéler le pourquoi du sans-cercle à quiconque hors Elric et Rockbell - le pourquoi reste verrouillé.
 - Rejoindre l'armée ou se lier au statut d'Alchimiste d'État - casserait l'antimilitarisme sur toute la saga ; Rhea suit les frères, pas l'appareil.
-- Partir pour Rush Valley ou y envoyer Winry en 1914 - Winry y arrive avec les Elric, en canon (Roadmap 8), et les rejoint d'abord à Central (Roadmap 6).
+- Partir pour Rush Valley ou y envoyer Winry en 1914 - Winry y arrive avec les Elric, en canon (Roadmap 8), et les rejoint d'abord à Central (Roadmap 7).
 - Apprendre la vraie nature de la Pierre philosophale - réservé au Laboratoire 5 (Roadmap 7).
-- Apprendre l'identité du tueur de Sarah et Yuri - réservé à Roadmap 6.
+- Apprendre l'identité du tueur de Sarah et Yuri - réservé à Roadmap 10.
 - Avouer son attirance pour Al - casserait le nœud Rhea/Al, avoué seulement à la fin du périmètre.
 
 ## Verrous
@@ -104,7 +104,7 @@ Le froid (1911-1914) : rien qui rompe le silence. Le séjour de 1914 : jusqu'au 
 ## Notes de frontière
 - Liore, Cornello et la fausse Pierre appartiennent à Roadmap 5 : la R4 s'arrête avant le départ pour la première ville canon.
 - Rush Valley reste un rêve de Winry : elle y arrive avec les Elric en Roadmap 8.
-- Statut de sacrifice de Rhea : repérée par Mustang en 1910 ; que devient l'info côté armée se tranche en Roadmap 12. Par défaut, hors radar de Père.
+- Statut de sacrifice de Rhea : repérée par Mustang en 1910 ; côté armée, tranché en Roadmap 12 : Mustang l'a tue dans son rapport. Par défaut, hors radar de Père ; Rhea n'en sait rien.
 - La carte de Winry échoue en route (Roadmap 5 et suivantes) : Al l'applique, ça ne prend pas, il doit se construire sa propre carte de Rhea. Conséquences sur la relation Rhea/Al ; le déroulé appartient aux roadmaps suivantes.
 - Tchekhov : révélation du 1903 aux Elric (détone ici) ; nœud Rhea/Al (avoué seulement à la fin) ; parallèle deuil-transmutation ; statut de sacrifice de Rhea (armé, dormant).
 

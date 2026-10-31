@@ -1,6 +1,6 @@
 # Roadmap 9 - Dublith : Izumi et Greed
 
-- version : W4
+- version : W5
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : une à deux semaines (1914 ; aucune durée dans les pages ép. 12-15 ni ch. 20-33) : quelques jours à Dublith chez les Curtis, l'enlèvement d'Al et le raid du Devil's Nest, le trajet de retour, Rush Valley (Ling, la garde, la ville réparée), le départ pour Central
@@ -115,7 +115,6 @@ Toutes en présence de Rhea ; aucune ne laisse filer Hughes.
 - Ling et le sans-cercle : il cherche l'immortalité, pas les alchimistes ; il peut s'intéresser par curiosité aux deux sans-cercle du trio, sans suite sur la trame.
 - Les chimères (jalon 5) : d'anciens soldats gravement blessés, greffés de bêtes par l'armée, qui parlent et pensent : Nina sans la fonte. Rhea ne les achève pas ; Bradley s'en charge.
 - La lésion devant Izumi : Izumi crache du sang depuis sa Porte ; Rhea a perdu l'œil et l'aimer. Deux péages qui durent.
-- Hors POV (cadrage MJ, jamais narré ; purge de clôture) : dans les galeries, Bradley tue Roa et Dolcetto, puis Martel à travers l'armure d'Al, et prend Greed en dévoilant l'ouroboros de son œil ; sous Central, Père refond Greed et le boit. Mustang obtient sa mutation à Central (Grumman) ; Scar tue Comanche, l'Alchimiste d'argent, May Chang le soigne, Yoki le conduit vers Central ; Riza prend Barry. Bido survit, son sort n'est pas dit.
 - Monsieur Lapinou : toujours à Resembool ; rien à trancher en R9 (Resembool en Roadmap 10).
 - Divergence assumée vs canon : Rhea à Dublith, chez Izumi et au Devil's Nest ; elle peut réparer Rush Valley avec Al.
 - Tchekhov : parallèle deuil-transmutation DÉTONÉ (Izumi) ; nœud Rhea/Al (la nuit de 1910, Al est une âme, et il a la compensation) ; Scar / parents ARMÉ (rien en R9) ; statut de sacrifice (dormant, sauf transmutation devant Bradley).

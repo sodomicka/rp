@@ -1,6 +1,6 @@
 # Gluttony
 
-- version : W5
+- version : W6
 
 ## Identité
 
@@ -21,7 +21,7 @@ Avale tout : la matière disparaît dans sa bouche, qu'il étire jusqu'à englou
 ## Histoire (jusqu'au point de départ du RP)
 
 Créé par Père, en même temps que les autres péchés. Sert la conspiration dans l'ombre, avec Lust : élimine ce qui gêne et dévore les preuves.
-1914 : à Liore, dévore Cornello tué par Lust ; affronte Scar dans les égouts de Central avec Lust ; attaque Riza pendant la traque du corps de Barry (Laboratoire 3), repoussé par Mustang. Lust meurt cette nuit-là. Traque Scar et Lan Fan pendant le piège de Central, à l'odeur ; capturé par Ling, ligoté de câbles d'acier, emmené à la planque du docteur Knox.
+1914 : à Liore, dévore Cornello tué par Lust ; affronte Scar dans les égouts d'East City avec Lust (ép. 7) ; attaque Riza pendant la traque du corps de Barry (Laboratoire 3), repoussé par Mustang. Lust meurt cette nuit-là. Traque Scar et Lan Fan pendant le piège de Central, à l'odeur ; capturé par Ling, ligoté de câbles d'acier, emmené à la planque du docteur Knox.
 
 ## Relations (neutres)
 
