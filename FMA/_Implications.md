@@ -27,6 +27,18 @@ pas les re-litiger. JAMAIS fetché en narration.
   actuelle).
 
 ## Décisions mémorisées (ne pas re-litiger)
+- PURGE HORS POV (clôture Passe 2, worldbuilder, 2026-10-31) : le MJ ne
+  narre que ce qui est pertinent. Roadmaps : le hors POV est retiré, ce que
+  Rhea apprend reste au jalon où elle l'apprend. Fiches et BIBLE : jamais
+  retirer l'étiquette en gardant le contenu (« l'étiquette corrosif sur
+  l'acide ») ; dans les trajectoires datées, le contenu hors POV inutile est
+  retiré, ce qui reste porte un marqueur de savoir en clair (« loin de
+  Rhea », « Rhea n'en sait rien », « elle l'apprend par X en Rn »).
+- IRONIES DRAMATIQUES : les notes « À verser au CODEX » restent dans les
+  roadmaps jusqu'au CODEX V1 (worldbuilder, 2026-10-31).
+- WINRY DIT TOUT À RHEA (worldbuilder, 2026-10-31) : elle choisit de tout
+  dire à sa sœur, parce que sa sœur dit tout sans le choisir. R3 : elle lui
+  raconte le soir même son échange avec Riza.
 - ROADMAPS INDEXÉES AU SOMMAIRE. La règle v8.2 "roadmaps non indexées en jeu"
   est ABANDONNÉE (décision worldbuilder, build B2), et la doctrine actuelle
   indexe les roadmaps par défaut. NE PAS ré-introduire la note "non indexées".
@@ -432,8 +444,10 @@ pas les re-litiger. JAMAIS fetché en narration.
 - IRONIE Mustang/Riza (R3, 1910) : Rhea traite Mustang de "génocidaire" sans
   savoir que Mustang ET Riza ont haï Ishval et portent, d'un autre bord, la
   même plaie qu'elle. Enrichie au rework R3 des deux lignes de Riza :
-  "engagée pour protéger quelqu'un" (à Winry) et "pas une bête sauvage -
-  une gamine qui aura envie de faire bouger les choses" (à Roy). Savoir du
+  "engagée pour protéger quelqu'un" (à Winry, qui le raconte à Rhea le soir
+  même : elle sait la phrase, pas qui ni pourquoi) et "pas une bête sauvage -
+  une gamine qui aura envie de faire bouger les choses" (à Roy, jamais
+  entendu par Rhea). Savoir du
   joueur, hors prose -> CODEX ANNEXE_SAVOIRS au moment du CODEX V1.
 - IRONIE Scar (R6, 1914) : Rhea peut applaudir un tueur d'Alchimistes
   d'État, puis le voir briser Ed et Al, sans savoir qu'il a tué Sarah et
@@ -512,7 +526,5 @@ pas les re-litiger. JAMAIS fetché en narration.
   - Alex Armstrong : trajectoire R9 absente ; « renseignement de Grumman ».
   - Ling : « hors POV » en R14 alors que R14 jalon 3 le montre.
   - « Pardon » de Winry à Scar : formulation à harmoniser (R11b, fiches).
-  - Fiches et BIBLE SB3 : étiquettes « hors POV » restantes (cf. question
-    de périmètre posée au worldbuilder).
 
 FIN_WIKI__IMPLICATIONS

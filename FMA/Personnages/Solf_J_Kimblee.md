@@ -1,6 +1,6 @@
 # Solf J. Kimblee
 
-- version : W6
+- version : W7
 
 ## Identité
 
@@ -33,8 +33,8 @@ Ishval : reçoit la Pierre fabriquée par Marcoh et en fait une arme ; l'explosi
 
 - 1914 (R10) : un nom dans le récit de Scar, l'Alchimiste d'État qui a fait de lui ce qu'il est.
 - 1914 (R11b) : arrive à Briggs avec Winry, otage, sous les yeux de Rhea ; transmet à Ed les trois ordres du Généralissime (Scar, Marcoh, le cratère de sang de Briggs). L'Alchimiste d'État à l'état pur, aimable. S'il la voit transmuter sans cercle, l'information remonte à Père (statut « repérée », Roadmap 12 ; Kimblee compte comme témoin, décision worldbuilder). Attaque verrouillée. Fait sauter le bâtiment de Baschool avec Winry dedans. Détail : cf. Roadmap/Rhea/Roadmap11b_Le_Nord_Briggs.md.
-- 1914-1915 (R12) : hors POV de Rhea. Fait sauter la mine de Baschool, Ed empalé ; Pride lui confie le cratère de sang de Briggs ; manœuvre Drachma. Croisement interdit. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
-- 1915 (R13) : hors POV. Perce le dôme de Pride, brisé par Heinkel, absorbé par Pride ; son âme aide Ed contre Pride. Jamais croisé par Rhea. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
+- 1914-1915 (R12) : la mine de Baschool saute, Ed disparaît : Rhea le croit mort. Croisement interdit. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
+- 1915 (R13) : jamais croisé par Rhea ; mort au Jour Promis. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 
 ## Sort connu (canon)
 
