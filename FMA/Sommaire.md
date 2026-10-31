@@ -1,6 +1,6 @@
 # Sommaire - FMA
 
-- version : W30
+- version : W31
 
 ## WIKI
 
@@ -33,7 +33,7 @@ Description : géographie narrative du RP.
 ### Personnages/
 Description : fiches neutres canon des entités qui pèsent sur le RP, plus la protagoniste OC.
 - Pinako_Rockbell.md (W6) - matriarche, sauveuse et figure fondatrice de la protagoniste ; l'exhumation avec Ed (R10, hors POV) ; Resembool avant le Jour Promis (R12) ; annonce la mort de Hohenheim, la maison rouverte (R14)
-- Winry_Rockbell.md (W18) - mécanicienne prodige, sœur fusionnelle de la protagoniste ; apprend avec elle que Scar a tué ses parents, rentre à Resembool (R10) ; otage de Bradley (R11a), amenée à Briggs par Kimblee, la ruse de l'enlèvement, pardonne à Scar (R11b) ; Liore, refuse de fuir, reste à Resembool (R12) ; âme prise et rendue à l'éclipse, hors POV (R13) ; accueille les frères à Resembool, l'éclipse dite, Monsieur Lapinou reste à elle (R14)
+- Winry_Rockbell.md (W19) - mécanicienne prodige, sœur fusionnelle de la protagoniste ; apprend avec elle que Scar a tué ses parents, rentre à Resembool (R10) ; otage de Bradley (R11a), amenée à Briggs par Kimblee, la ruse de l'enlèvement, pardonne à Scar (R11b) ; Liore, refuse de fuir, reste à Resembool (R12) ; âme prise et rendue à l'éclipse, hors POV (R13) ; accueille les frères à Resembool, l'éclipse dite, Monsieur Lapinou reste à elle (R14)
 - Sarah_Rockbell.md (W1) - chirurgienne, mère adoptive de la protagoniste, morte à Ishval
 - Yuri_Rockbell.md (W1) - chirurgien, père adoptif de la protagoniste, mort à Ishval
 - Edward_Elric.md (W16) - Fullmetal Alchemist, ami d'enfance, transmutation cachée de 1910, recrute Rhea en 1914 ; bras brisé par Scar (R6), Laboratoire 5 (R7), montre volée à Rush Valley (R8), Greed et Ling (R9), Resembool et le piège à Scar (R10), ventre de Gluttony, Père, otage par Winry, Briggs (R11a-R11b) ; empalé dans la mine, Resembool, automail au carbone, bidonville (R12) ; sacrifice, Pride, le poing contre Père (R13) ; paie le retour d'Al avec sa Porte, sans alchimie (R14)
@@ -43,7 +43,7 @@ Description : fiches neutres canon des entités qui pèsent sur le RP, plus la p
 - Roy_Mustang.md (W12) - Flame Alchemist, héros d'Ishval, supérieur d'Ed ; visite de 1910, retrouvailles d'East City (R6), le feu sur Ross et Lust (R10), équipe dispersée (R11a) ; rapport de 1910 sans Rhea, pour lui laisser son calme (R12) ; coup d'État, Envy, aveugle ou voyant selon le statut de Rhea (R13) ; hôpital, Pierre de Marcoh, silence de 1910 détonable (R14)
 - Riza_Hawkeye.md (W8) - tireuse d'élite, conscience de Mustang ; visite de 1910 ; assistante-otage de Bradley, raconte Ishval à Ed et Rhea (R11a) ; Envy, gorge tranchée ou indemne selon le statut (R13) ; chevet de Mustang (R14)
 - Maes_Hughes.md (W6) - renseignement, figure bienveillante, famille (Gracia, Elicia) ; tué par Envy le soir de la visite de Bradley (R7), deuil appris (R10)
-- Scar.md (W11) - vengeur ishval, tueur des parents Rockbell ; face-à-face sans révélation (R6), détonation devant Rhea et Winry (R10), pardon de Winry à Baschool (R11a-R11b) ; notes de son frère, piège à Envy, Ishvals recrutés (R12) ; Envy, tue Bradley, cercle de son frère (R13) ; soigné en secret, Ishval (R14)
+- Scar.md (W12) - vengeur ishval, tueur des parents Rockbell ; face-à-face sans révélation (R6), détonation devant Rhea et Winry (R10), pardon de Winry à Baschool (R11a-R11b) ; notes de son frère, piège à Envy, Ishvals recrutés (R12) ; Envy, tue Bradley, cercle de son frère (R13) ; soigné en secret, Ishval (R14)
 - Bradley_Wrath.md (W8) - Généralissime et homonculus Wrath ; visite d'hôpital (R7), raid du Devil's Nest (R9) ; au chevet de Winry, démasqué par Ling (R10) ; otage Winry et dîner chez lui (R11a) ; reprend le QG, tué par Scar (R13)
 - Pere.md (W3) - homonculus originel, maître de la conspiration ; statut de la protagoniste tranché ; le Jour Promis, renvoyé à la Porte (R13)
 - Gluttony.md (W4) - homonculus Gourmandise, compagnon de Lust, fausse Porte ; captif à la planque de Knox (R10), avale Ed et Ling (R11a) ; dévoré par Pride (R12)
@@ -53,7 +53,7 @@ Description : fiches neutres canon des entités qui pèsent sur le RP, plus la p
 - Rose_Thomas.md (W3) - fidèle de Léto à Liore, fiancé Cain mort, tire sur ordre de Cornello, miroir du 1903 de la protagoniste (R5) ; Liore reconstruite (R12)
 - Alex_Louis_Armstrong.md (W8) - Strong Arm Alchemist, ancien d'Ishval qui a refusé de continuer, escorte des Elric (R6-R7), emmène Ed à Resembool (R10), lettre pour sa sœur (R11a) ; Sloth, la surface contre Père (R13)
 - Olivier_Mira_Armstrong.md (W3) - générale de Briggs, sœur aînée d'Alex ; Sloth, le tunnel-cercle (R11b) ; coup au QG, Sloth (R13)
-- Solf_J_Kimblee.md (W4) - Alchimiste écarlate, a fait de Scar ce qu'il est ; amène Winry à Briggs (R11b) ; la mine de Baschool, hors POV (R12) ; tué par Heinkel, absorbé par Pride, hors POV (R13)
+- Solf_J_Kimblee.md (W5) - Alchimiste écarlate, a fait de Scar ce qu'il est ; amène Winry à Briggs (R11b) ; la mine de Baschool, hors POV (R12) ; tué par Heinkel, absorbé par Pride, hors POV (R13)
 - May_Chang.md (W6) - princesse alkahestriste de Xing, alliée de Scar, panda Shao Mei (R11a-R11b) ; déchiffre le contre-cercle, emporte Envy (R12) ; Envy, Riza, l'échange d'Al (R13) ; retour à Xing (R14)
 - Shou_Tucker.md (W1) - chimériste d'East City, Nina et Alexander fondus en chimère, tué par Scar (R6)
 - Tim_Marcoh.md (W7) - médecin déserteur d'Ishval, Pierre incomplète, indice de la bibliothèque de Central (R6) ; captif, enlevé et défiguré par Scar (R11a-R11b) ; brise la Pierre d'Envy (R12) ; soigne Heinkel, hors POV (R13) ; la Pierre pour Havoc et Mustang (R14)
@@ -65,7 +65,7 @@ Description : fiches neutres canon des entités qui pèsent sur le RP, plus la p
 - Izumi_Curtis.md (W4) - maîtresse des Elric (1909), miroir thématique du deuil-transmutation ; sait dès 1909 qu'une gamine transmute sans cercle ; rencontre Rhea à Dublith (R9) ; sacrifice au Jour Promis (R13)
 - Greed.md (W5) - homonculus déserteur, Bouclier ultime, sa bande de chimères (Martel, Dolcetto, Roa, Bido) ; raid du Devil's Nest (R9) ; allié d'Ed dans Ling (R12) ; carbonise Père, s'éteint (R13)
 - Ling_Yao.md (W9) - prince de Xing en quête d'immortalité, sa garde Lan Fan et Fu ; Rush Valley (R9) ; piège à Scar, capture de Gluttony, démasque Bradley (R10) ; devient Greed (R11a, hors POV) ; Greed allié d'Ed, Lan Fan revenue avec un automail (R12) ; mort de Fu, Greed le quitte (R13) ; retour à Xing, futur empereur (R14)
-- Rhea.md (W28) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (1910 -> retour à Resembool, printemps 1915) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises, agoraphobie, pudeur a posteriori), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
+- Rhea.md (W29) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (1910 -> retour à Resembool, printemps 1915) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises, agoraphobie, pudeur a posteriori), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
 
 ### Roadmap/Rhea/
 Description : itinéraires par arc, dans l'ordre de la saga, par perspective de la protagoniste. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).
@@ -81,7 +81,7 @@ Description : itinéraires par arc, dans l'ordre de la saga, par perspective de 
 - Roadmap9_Dublith_Izumi_Et_Greed.md (W4) - 1914, une à deux semaines : Izumi (le chien de l'armée, l'aveu des frères et le sien, le miroir sans carte), Al enlevé par les chimères de Greed, raid de Bradley (Rhea tenue dehors avec Ed), le sang de Martel rend à Al 1910 et la Porte ; retour à Rush Valley, Winry, Ling Yao, Lan Fan et Fu, Al répare la ville sans cercle ; départ pour Central ; modes d'étape, tranches de vie
 - Roadmap10_Central_Hughes_Et_Scar.md (W4) - 1914, environ deux semaines : retour à Central, mort de Hughes (Gracia, Elicia), Ross « brûlée » par Mustang, Ed seul à Resembool, le sceau d'Al qui peut lâcher, la chose de 1910 n'était pas Trisha, piège à Scar : Rhea et Winry apprennent ensemble qu'il a tué leurs parents ; Bradley au chevet de Winry, qui rentre à Resembool ; Ling démasque Bradley ; modes d'étape et tranches de vie
 - Roadmap11a_Central_La_Fausse_Porte.md (W2) - fin 1914, environ une semaine : Gluttony se déchire (Rhea part avec Knox), les frères reviennent du repaire de Père (Ling devenu Greed, corps d'Al vu, Envy et Ishval, Winry otage), Riza raconte Ishval, 520 cens, dîner chez les Bradley ; départ pour le Nord ; modes d'étape et tranches de vie
-- Roadmap11b_Le_Nord_Briggs.md (W1) - fin 1914, ~3 semaines : Briggs (Olivier, Sloth, le tunnel-cercle), Kimblee amène Winry, Baschool : la ruse de l'enlèvement, Winry pardonne à Scar, Rhea part avec elle dans les galeries
+- Roadmap11b_Le_Nord_Briggs.md (W2) - fin 1914, quelques semaines : Briggs (Olivier, Sloth, le tunnel-cercle), Kimblee amène Winry, Baschool : la ruse de l'enlèvement, Winry panse les plaies de Scar, Rhea part avec elle dans les galeries ; modes d'étape et tranches de vie
 - Roadmap12_Convergence.md (W3) - hiver 1914 -> printemps 1915, ~3 mois : Al démonté et remonté, Ed disparu dans la mine, notes du frère de Scar (contre-cercle), piège à Envy, Liore et Hohenheim (Rhea apprend qu'elle est un sacrifice valable), 17 ans, Resembool (Ed vivant, Greed-Ling, carbone, Winry reste), bidonville : Selim est Pride, Gluttony dévoré, Al sous le dôme ; aube du Jour Promis
 - Roadmap13_Le_Jour_Promis.md (W2) - printemps 1915, une journée : sous Central avec Ed et Scar (soldats-mannequins), mort d'Envy devant Mustang, le cercle du docteur, le cinquième sacrifice (Mustang aveugle, ou Rhea « repérée » et Mustang voyant), l'éclipse, Père et Dieu, Scar tue Bradley, l'échange d'Al, Père renvoyé à la Porte
 - Roadmap14_Retour_A_Resembool.md (W2) - printemps 1915, ~quelques semaines : Ed paie avec sa Porte, Al dans son corps, Hohenheim mort, hôpital de Central (chevet de Mustang, silence de 1910 détonable, Pierre de Marcoh), retour à Resembool (Winry, l'éclipse), déclaration réciproque Rhea/Al, première nuit : Monsieur Lapinou reste à Winry. Fin du périmètre

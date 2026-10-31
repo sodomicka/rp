@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W28
+- version : W29
 
 ## Identité
 
@@ -480,12 +480,12 @@ partie.
   récit d'Ishval : les vies qu'elle a prises sont sa responsabilité, et le
   « génocidaire » de 1910 en a fait un vœu. À la table des Bradley, l'homonculus passe le sel ; Selim est
   poli.
-- 1914 (R11b) - Le Nord : Briggs. Au Nord, l'automail d'Ed gèle ; Olivier, Miles l'Ishval en uniforme,
+- 1914 (R11b) - Le Nord : Briggs. Au Nord, l'automail d'Ed se grippe ; Olivier, Miles l'Ishval en uniforme,
   Sloth ; le tunnel : le pays est un cercle, Ishval un point de sang, l'armée
   le pinceau. Kimblee amène Winry : retrouvailles, l'automail de grand froid à
   quatre mains. À Baschool, second face-à-face avec Scar, en connaissance ;
   Kimblee fait sauter le terrain, et Scar « enlève » les deux sœurs, la ruse
-  de Winry ; les frères restent chez Kimblee. Winry lui pardonne, Rhea non,
+  de Winry ; les frères restent chez Kimblee. Winry panse ses plaies ; Rhea non,
   ou à sa manière. Elle s'enfonce avec Winry dans les galeries, vers le fort,
   sous le blizzard.
 - 1914-1915 (R12) - Convergence. Dans les galeries, elle démonte Al trouvé dans
