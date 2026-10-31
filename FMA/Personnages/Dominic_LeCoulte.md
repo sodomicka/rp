@@ -1,6 +1,6 @@
 # Dominic LeCoulte
 
-- version : W2
+- version : W3
 
 ## Identité
 
@@ -38,7 +38,7 @@ Carrière ancienne à Rush Valley [INCERTAIN : durée]. Croise Pinako à une
 - Satella LeCoulte - belle-fille, enceinte au
   début de la trame ; accouche d'un garçon pendant un orage, des mains de
   Winry (canon ép. 11).
-- Le nouveau-né - petit-fils de Dominic [INCERTAIN : prénom].
+- Le nouveau-né - petit-fils de Dominic, Pitora (prénom donné par la page personnage du wiki, absent des résumés de l'ép. 11 et du ch. 19).
 
 ## Relations (neutres)
 
