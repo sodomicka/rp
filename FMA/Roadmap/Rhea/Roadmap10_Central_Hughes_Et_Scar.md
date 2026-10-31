@@ -1,6 +1,6 @@
 # Roadmap 10 - Central : Hughes et Scar
 
-- version : W2
+- version : W3
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : ~2 semaines (1914) [CANON SUPPOSÉ : durées internes] : ~3 jours (Hughes, Ross), ~5 jours sans Ed, ~3 jours de traque de Scar, le piège, le lendemain (Winry, la planque)
@@ -11,7 +11,7 @@
   - Hughes est mort depuis le départ de R7 ; personne du trio ne le sait.
   - Scar : ishval, tueur d'Alchimistes d'État (R6) ; personne ne sait qu'il a tué Sarah et Yuri.
   - Statut de sacrifice : « hors radar » par défaut ; « repérée » si Rhea a transmuté devant Bradley (R7 ou R9, delta Parties/).
-- borne de sortie : à la planque du docteur Knox, Ling révèle que le Généralissime est un homonculus ; Gluttony y est ligoté -> Roadmap 11. Acquis à la sortie :
+- borne de sortie : à la planque du docteur Knox, Ling révèle que le Généralissime est un homonculus ; Gluttony y est ligoté -> Roadmap 11a. Acquis à la sortie :
   - Rhea sait que Hughes a été assassiné, et a vu Gracia et Elicia en deuil ;
   - Rhea a vu Mustang « brûler » Ross, puis appris d'Ed qu'elle est vivante (secret) ;
   - Rhea sait par Ed que la chose de 1910 n'était pas Trisha ;
@@ -19,7 +19,7 @@
   - Winry est repartie seule pour Rush Valley ; Rhea reste avec les frères ;
   - Rhea sait que Bradley est un homonculus.
 - roadmap précédente : cf. WIKI Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md
-- roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md
+- roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md
 
 ## Intention
 L'arc des deuils qu'on rattrape. Hughes est mort pendant qu'elle était dans le train ; Ross brûle sous ses yeux, de la main du « génocidaire » de 1910, mise en scène. La chose de 1910 n'était pas Trisha, ce que Rhea a toujours dit. Puis le tueur ishval qu'elle a pu applaudir à East City raconte les deux médecins : les sœurs apprennent à la même seconde. Winry repart seule ; le chef de l'armée n'est pas humain.
@@ -51,9 +51,9 @@ L'arc des deuils qu'on rattrape. Hughes est mort pendant qu'elle était dans le 
 - Gluttony - homonculus, captif à la planque - cf. Personnages/Gluttony.md
 - Pinako Rockbell - au téléphone (au choix), l'exhumation hors POV - cf. Personnages/Pinako_Rockbell.md
 - Hors POV : Hohenheim - cf. Personnages/Van_Hohenheim.md ; Lust, Envy, Bradley - cf. Factions/Homonculus.md ; Fu - cf. Personnages/Ling_Yao.md ; équipe Mustang (Breda, Havoc, Fuery, Falman), colonel Douglas - non fiche
-- May Chang et Shao Mei - princesse xingoise alkahestriste et son panda ; hors POV - non fiche (Roadmap 11)
+- May Chang et Shao Mei - princesse xingoise alkahestriste et son panda ; hors POV - non fiche (Roadmap 11a)
 - Docteur Knox - médecin légiste, ancien d'Ishval, soigne Lan Fan - non fiche
-- Solf J. Kimblee - nommé dans le récit de Scar seulement - non fiche (Roadmap 11)
+- Solf J. Kimblee - nommé dans le récit de Scar seulement - non fiche (Roadmap 11b)
 
 ## Lieux et objets
 - Central City - capitale - non fiche (BIBLE SB6).
@@ -77,7 +77,7 @@ L'arc des deuils qu'on rattrape. Hughes est mort pendant qu'elle était dans le 
 - Apprendre, ou laisser Winry apprendre, que Scar a tué Sarah et Yuri avant le jalon 7.
 - Tuer Scar, ou laisser Winry tirer - Scar tue Bradley au Jour Promis ; Winry le pardonne plus tard (canon ép. 38-39) ; cf. Verrous.
 - Empêcher la fuite de Scar avec May - Scar et May portent la trame suivante.
-- Tuer ou libérer Gluttony - il avale Ed et Ling (Roadmap 11).
+- Tuer ou libérer Gluttony - il avale Ed et Ling (Roadmap 11a).
 - Révéler que Ross est vivante à qui que ce soit hors Winry - plan de Mustang ; Ross revient plus tard (trame suivante).
 - Rencontrer Hohenheim - réservé aux roadmaps suivantes.
 - Partir avec Winry pour Rush Valley - pacte de R4, Rhea progresse avec les frères ; cf. Verrous.
@@ -85,7 +85,7 @@ L'arc des deuils qu'on rattrape. Hughes est mort pendant qu'elle était dans le 
 - Révéler le 1903 hors Elric, Rockbell et Izumi - verrou du pourquoi.
 - Rejoindre l'armée ou passer l'examen d'État - antimilitarisme sur toute la saga.
 - Avouer son attirance pour Al - nœud avoué seulement à la fin du périmètre.
-- Qu'Al obtienne le sans-cercle - [INCERTAIN : moment canon], pas en R10.
+- Qu'Al obtienne le sans-cercle - pas avant la Roadmap 13 (ép. 59).
 
 ## Verrous
 - Jalon 3 : rester à Central. Paliers :
@@ -119,9 +119,9 @@ L'arc des deuils qu'on rattrape. Hughes est mort pendant qu'elle était dans le 
 - Ross vivante (jalon 5) : Ed le dit à Al et Rhea sous le sceau du secret ; Rhea peut le dire à Winry (elle ne lui ment pas), à personne d'autre.
 - Monsieur Lapinou (jalons 4-5, 8) : il est à Winry, part du rituel de sommeil laissée pour qu'elle ne soit pas seule (R4). Rhea peut demander par téléphone à Pinako qu'Ed le rapporte, pour Winry : il repart alors avec elle à Rush Valley. Rhea ne le reprend jamais pour elle. Sans demande : il reste à Resembool.
 - La chose de 1910 (jalon 5) : rien ne change pour Rhea (« une âme ne se remplace pas », depuis 1903) ; le soulagement des frères est la scène. La chose de 1903 n'était pas Alan non plus : elle l'a toujours su.
-- Sans-cercle devant un témoin (au choix du joueur) : devant Gracia, Ross, Barry, Ling, Lan Fan, l'équipe de Mustang, Knox ou Scar, rien ne remonte aux homonculus. Devant Gluttony (planque) : l'information remonte à Père, statut « repérée » pour la partie (delta Parties/), Roadmap 12 en hérite. Déjà « repérée » : rien de plus.
-- Lan Fan : automail Rockbell plus tard [CANON SUPPOSÉ] ; Rhea peut le proposer.
-- Kimblee : un nom d'Alchimiste d'État sur la blessure de Scar (Roadmap 11).
+- Sans-cercle devant un témoin (au choix du joueur) : devant Gracia, Ross, Barry, Ling, Lan Fan, l'équipe de Mustang, Knox ou Scar, rien ne remonte aux homonculus. Devant Gluttony (planque) : il retourne à Père dès sa libération (R11a), l'information remonte, statut « repérée » pour la partie (delta Parties/), Roadmap 12 en hérite. Déjà « repérée » : rien de plus.
+- Lan Fan : elle portera un automail plus tard (vu en Roadmap 12) ; Rhea peut proposer l'atelier Rockbell.
+- Kimblee : un nom d'Alchimiste d'État sur la blessure de Scar (Roadmap 11b).
 - Divergence assumée vs canon : Rhea au deuil, au feu de Mustang, au piège ; elle sait Ross vivante.
 - Tchekhov : Scar / parents DÉTONÉ ; Bradley révélé ; statut de sacrifice (dormant, sauf Gluttony) ; nœud Rhea/Al (Al seul relais sans Ed).
 

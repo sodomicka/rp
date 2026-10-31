@@ -1,6 +1,6 @@
 # Greed
 
-- version : W4
+- version : W5
 
 ## Identité
 
@@ -60,8 +60,8 @@ croit tenir par Al (une âme dans une armure).
   d'homonculus contre la transmutation humaine. Rhea au repaire avec Ed :
   elle peut s'attaquer au bouclier de carbone (son domaine). Ignore le
   pourquoi de son sans-cercle ; s'il la voit transmuter, rien ne remonte
-  (refondu par Père). Détail : cf. Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md.
-- 1914 (R11) : renaît dans le corps de Ling au repaire de Père (hors POV) ; Rhea l'apprend par Ed. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
+  (il refuse l'offre de Père et se fait refondre sans marchander, ép. 14). Détail : cf. Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md.
+- 1914 (R11a) : renaît dans le corps de Ling au repaire de Père (hors POV) ; Rhea l'apprend par Ed. Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md.
 - 1914-1915 (R12) : dans Ling, tue Bido sans le reconnaître, retrouve ses souvenirs de Dublith, affronte Bradley (hors POV) ; s'allie à Ed, à Resembool avec Rhea. Rien ne remonte. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : tient la porte du QG, carbonise Père en quittant Ling et s'éteint, sous les yeux de Rhea. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 

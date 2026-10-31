@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W14
+- version : W15
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -10,7 +10,7 @@ build seulement : jamais indexé au Sommaire, jamais fetché en narration.
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - protagoniste : Rhea (OC), née le 30 janvier 1898
 - périmètre joué : enfance (dès la Porte) -> trame canon -> chute de Père -> retour à Resembool
-- total : 15 roadmaps (5 pré-canon, dont R4 qui porte la charnière + 10 canon)
+- total : 16 roadmaps (5 pré-canon, dont R4 qui porte la charnière + 11 canon, R11 coupée en R11a et R11b)
 - routage détail : chaque roadmap -> FMA/Roadmap/Rhea/Roadmap<N>_<titre>.md (à construire en boucle serrée)
 
 ## Repères d'âge
@@ -79,7 +79,7 @@ build seulement : jamais indexé au Sommaire, jamais fetché en narration.
 - date : automne 1911 -> 1914 (13 -> 16 ans)
 - contenu : examen d'État d'Ed à Central (hors-champ POV Rhea : la nouvelle,
   puis le retour avec la montre) ; incendie de la maison Elric (3 octobre
-  1911 [CANON SUPPOSÉ]), Rhea témoin ; départ des frères du quai sans un mot.
+  1911), Rhea témoin ; départ des frères du quai sans un mot.
   Le froid 1911-1914 en SNAPSHOTS : Ed revient pour l'entretien, Rhea bosse en
   silence à contrecœur ; Winry entraîne le filtre et rêve de Rush Valley ;
   Rhea stagne. 1914 : retour des frères, automail amoché ; piste solide sur
@@ -143,17 +143,23 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   Écrite (W1).
 - Tchekhov : Scar / parents DÉTONÉ. Monsieur Lapinou peut revenir à Winry.
 
-### Roadmap 11 - Le Nord : Briggs
-- Canon ép. 23 (fin) à 39 : Gluttony se transforme, Rhea part avec Knox ;
+### Roadmap 11 - coupée en deux (décision worldbuilder, budget)
+#### Roadmap 11a - Central : la fausse Porte
+- Canon ép. 23 (fin) à 32 : Gluttony se transforme, Rhea part avec Knox ;
   les frères avalés reviennent par le repaire de Père (hors POV) : Père,
   Ling devenu Greed, le corps d'Al devant la Porte, Envy a allumé Ishval,
   Winry otage de Bradley ; récit d'Ishval par Riza (ironie de 1910 détonée) ;
-  équipe de Mustang dispersée ; dîner chez les Bradley (Selim) ; Briggs :
-  Olivier, Miles, Sloth, le tunnel-cercle national ; Kimblee amène Winry ;
-  Baschool : Winry pardonne à Scar, la ruse de l'enlèvement, Rhea part avec
-  Winry dans les galeries. Écrite (W1).
-- Tchekhov : statut de sacrifice (témoins : Gluttony, Bradley, Selim, Sloth,
-  Kimblee) ; ironie Mustang/Riza DÉTONÉE ; Scar / parents : pardon de Winry.
+  équipe de Mustang dispersée ; dîner chez les Bradley (Selim) ; départ pour
+  le Nord. Écrite (W1).
+- Tchekhov : statut de sacrifice (témoins : Gluttony, Bradley, Selim) ;
+  ironie Mustang/Riza DÉTONÉE.
+#### Roadmap 11b - Le Nord : Briggs
+- Canon ép. 33 à 39 : Briggs : Olivier, Miles, Sloth, le tunnel-cercle
+  national ; Kimblee amène Winry ; Baschool : la ruse de l'enlèvement (idée
+  de Winry), Winry pardonne à Scar, Rhea part avec Winry dans les galeries.
+  Écrite (W1).
+- Tchekhov : statut de sacrifice (témoins : Sloth, Kimblee) ; Scar /
+  parents : pardon de Winry.
 
 ### Roadmap 12 - Convergence
 - Canon ép. 40 à 49 (début), hiver 1914-1915 -> aube du Jour Promis : galeries
@@ -162,19 +168,22 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   contre-cercle) ; piège à Envy, réduit et emporté par May ; Liore
   reconstruite, Rose, Hohenheim (Jour Promis, sacrifices : Rhea apprend
   qu'elle en est un) ; retour à Resembool avec Winry, 17 ans de Rhea ; Ed
-  vivant, Greed-Ling, Lan Fan à l'automail de Pinako, automail au carbone ;
+  vivant, Greed-Ling, automail au carbone ;
   Winry refuse de fuir, Rhea repart avec Ed ; bidonville aux abords de
-  Central : Pride et Gluttony, Gluttony dévoré, Al sous le dôme avec Pride ;
+  Central : Selim est Pride, Lan Fan à l'automail, Gluttony dévoré, Al sous
+  le dôme avec Pride ;
   groupes d'Ed et de Scar réunis à l'aube. Écrite (W1).
-- STATUT DE SACRIFICE TRANCHÉ : Mustang n'a rien écrit en 1910 (« hors
-  radar » par défaut). « Repérée » (témoin homonculus ou Kimblee, choix du
+- STATUT DE SACRIFICE TRANCHÉ : Mustang ne l'a pas citée en 1910, pour lui
+  laisser son calme (« hors radar » par défaut). « Repérée » (témoin
+  homonculus ou Kimblee qui a le temps d'en faire rapport à Père, choix du
   joueur) : Rhea est le cinquième sacrifice de Père au Jour Promis, à la
   place de Mustang, qui garde la vue.
 
 ### Roadmap 13 - Le Jour Promis
 - Canon ép. 49 (suite) à 63, une journée : Rhea sous Central avec Ed et
   Scar, soldats-mannequins ; Mustang brûle Envy, qui se suicide ; le cercle
-  du docteur aspire les sacrifices ; « repérée », Rhea est le cinquième,
+  du docteur fait passer les sacrifices par leur Porte ; « repérée », la
+  Vérité prend Rhea aussi, elle est le cinquième,
   Mustang garde la vue ; « hors radar », Pride force Mustang (aveugle),
   sauf si Rhea se montre avant ; l'éclipse, Père et Dieu ; contre-cercles
   de Hohenheim et de Scar, Scar tue Bradley ; à la surface, Al (sans-cercle
@@ -186,11 +195,11 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
 - Canon ép. 63 (fin) et 64 : Ed sacrifie son alchimie, Al recouvre son corps ;
   Hohenheim meurt à Resembool ; après-guerre (Mustang, la Pierre de Marcoh et
   Havoc : sans objet si Mustang a gardé la vue) ; retour à Resembool, bouclage
-  Monsieur Lapinou / Cliquetis ; aveu à Al ; silence de Mustang (1910)
+  Monsieur Lapinou / Cliquetis ; déclaration Rhea/Al ; silence de Mustang (1910)
   détonable. Une seule roadmap pour les deux états du statut. Écrite (W1) :
-  hôpital de Central (Winry, l'éclipse ; chevet de Mustang au choix, Pierre
-  de Marcoh), retour en train, Hohenheim mort ; corps d'Al = fin de
-  l'anti-Alan, aveu requis, Al ne la repousse pas ; première nuit, Monsieur
+  hôpital de Central (chevet de Mustang au choix, Pierre de Marcoh), retour
+  à Resembool (Winry, l'éclipse ; Hohenheim mort) ; corps d'Al = fin de
+  l'anti-Alan ; l'un des deux se déclare, c'est réciproque, Al dit oui ; première nuit, Monsieur
   Lapinou reste à Winry, Cliquetis à Rhea. Fin du périmètre.
 - Tchekhov : nœud Rhea/Al DÉTONÉ ; silence de Mustang détoné au chevet ou
   laissé au CODEX.

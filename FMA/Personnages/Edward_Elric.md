@@ -1,6 +1,6 @@
 # Edward Elric
 
-- version : W13
+- version : W14
 
 ## Identité
 
@@ -31,7 +31,7 @@ Corps compact et musclé (entraînement spartiate d'Izumi : « entraîner le cor
 
 Père parti tôt. Mort de Trisha (1904). Apprentissage chez Izumi Curtis (1909, six mois).
 1910 : transmutation humaine ratée de Trisha avec Al -> perd la jambe gauche ; scelle l'âme d'Al dans une armure au prix de son bras droit.
-1911 : examen d'État (12 ans) ; incendie de la maison familiale (3 octobre 1911 [CANON SUPPOSÉ], date gravée dans sa montre) et départ pour la quête APRÈS l'examen.
+1911 : examen d'État (12 ans) ; incendie de la maison familiale (3 octobre 1911 ; gravé dans sa montre : « N'oublie pas 3 Oct. 11 ») et départ pour la quête APRÈS l'examen.
 Quête : restaurer leurs corps via la Pierre philosophale.
 
 ## Relations (neutres)
@@ -54,7 +54,7 @@ Ami d'enfance de la protagoniste (elle est un peu plus âgée). En 1910, Ed et A
 - 1914 (R8) : à Rush Valley, Paninya lui vole sa montre d'Alchimiste d'État ; Winry y voit la date de l'incendie gravée, sans le lui dire (Rhea peut le lui lâcher, au choix du joueur). Laisse Winry chez Garfiel et repart vers Dublith avec Al et Rhea.
 - 1914 (R9) : à Dublith, Izumi devine la transmutation et avoue la sienne ; les frères deviennent ses égaux. Affronte Greed au Devil's Nest (Rhea avec lui), transmute son bouclier ; retenu dehors par Armstrong pendant le raid de Bradley. À Rush Valley, Winry répare son bras ; rencontre Ling Yao, combat Lan Fan et Fu, répare la ville. Part pour Central avec Al, Winry et Rhea.
 - 1914 (R10) : apprend la mort de Hughes, s'en accuse devant Gracia. Témoin du « meurtre » de Ross par Mustang ; Armstrong l'emmène seul à Resembool : Ross vivante aux ruines de Xerxès ; des réfugiés ishvals lui apprennent que Scar a tué les Rockbell ; Hohenheim ; l'exhumation (la chose n'était pas Trisha). De retour, dit Ross vivante à Al et Rhea sous le sceau du secret, tait Scar à Winry donc à Rhea. Tend le piège à Scar, l'interroge sur les Rockbell devant les deux sœurs, désarme Winry. Apprend de Ling que Bradley est un homonculus.
-- 1914 (R11) : avalé par Gluttony avec Ling et Envy ; ouvre la Porte sur lui-même avec la Pierre d'Envy pour sortir, voit le corps d'Al ; au repaire de Père, alchimie bloquée ; Bradley refuse sa démission et tient Winry en otage. Rapporte tout à Rhea. Rend son pistolet à Riza (récit d'Ishval). Briggs : automail gelé, Olivier, le tunnel-cercle ; Kimblee l'envoie traquer Scar ; couvre la ruse de Baschool auprès de Kimblee. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
+- 1914 (R11a-R11b) : avalé par Gluttony avec Ling et Envy ; ouvre la Porte sur lui-même avec la Pierre d'Envy pour sortir, voit le corps d'Al ; au repaire de Père, alchimie bloquée ; Bradley refuse sa démission et tient Winry en otage. Rapporte tout à Rhea. Rend son pistolet à Riza (récit d'Ishval). Briggs : automail gelé, Olivier, le tunnel-cercle ; Kimblee l'envoie traquer Scar ; couvre la ruse de Baschool auprès de Kimblee. Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md, Roadmap11b_Le_Nord_Briggs.md.
 - 1914-1915 (R12) : poursuit Kimblee dans la mine de Baschool, empalé au fond d'un puits ; referme la plaie en payant avec sa propre durée de vie, emporté par Darius et Heinkel ; échappe à l'armée, s'allie à Greed-Ling. Rhea le croit mort jusqu'à Resembool. À Resembool, dit à Winry de fuir, automail renforcé au carbone par Winry et Rhea ; repart avec Rhea. Au bidonville, rend à Hohenheim les derniers mots de Trisha ; coupe la lumière contre Pride. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : entre sous Central avec Rhea et Scar ; arrête Mustang devant Envy ; aspiré par le cercle du docteur, sacrifice ; contre Pride (l'âme de Kimblee), le réduit à un nourrisson ; perd son bras d'automail, rendu par l'échange d'Al ; troue la poitrine de Père. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 - 1915 (R14) : refuse la vie de Hohenheim, paie le retour d'Al avec sa Porte : plus d'alchimie. Bras de chair, jambe d'automail (Rhea l'entretient au métal). Hôpital de Central, retour à Resembool. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.

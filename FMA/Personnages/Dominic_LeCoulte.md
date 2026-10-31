@@ -1,12 +1,12 @@
 # Dominic LeCoulte
 
-- version : W1
+- version : W2
 
 ## Identité
 
 Maître ingénieur d'automail de Rush Valley, l'un des meilleurs du pays.
 Vieillard reclus, installé dans la montagne hors de la ville, avec son
-fils Ridel et sa belle-fille Satella [CANON SUPPOSÉ : prénom]. Refuse tout
+fils Ridel et sa belle-fille Satella. Refuse tout
 apprenti.
 
 ## Physique
@@ -35,7 +35,7 @@ Carrière ancienne à Rush Valley [INCERTAIN : durée]. Croise Pinako à une
 ## Famille
 
 - Ridel LeCoulte - son fils, fabricant d'automail à Rush Valley.
-- Satella LeCoulte [CANON SUPPOSÉ : prénom] - belle-fille, enceinte au
+- Satella LeCoulte - belle-fille, enceinte au
   début de la trame ; accouche d'un garçon pendant un orage, des mains de
   Winry (canon ép. 11).
 - Le nouveau-né - petit-fils de Dominic [INCERTAIN : prénom].

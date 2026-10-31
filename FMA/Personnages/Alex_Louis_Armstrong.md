@@ -1,6 +1,6 @@
 # Alex Louis Armstrong
 
-- version : W5
+- version : W6
 
 ## Identité
 
@@ -62,7 +62,7 @@ d'Alchimistes d'État dans l'Est.
 - 1914 (R10) : après le « meurtre » de Ross, embarque Ed seul pour
   Resembool (couverture du plan de Mustang) ; refuse Rhea dans le voyage.
   Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
-- 1914 (R11) : apprend de Mustang ce qu'est Bradley ; transmet aux frères le renseignement de Grumman sur May et une lettre pour sa sœur Olivier, à Briggs. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
+- 1914 (R11a) : apprend de Mustang ce qu'est Bradley ; transmet aux frères le renseignement de Grumman sur May et une lettre pour sa sœur Olivier, à Briggs. Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md.
 - 1915 (R13) : tue Sloth avec sa sœur, Izumi et Sig (hors POV) ; à la surface contre Père, avec Rhea. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 
 ## Sort connu (canon)

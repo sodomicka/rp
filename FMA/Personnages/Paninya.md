@@ -1,6 +1,6 @@
 # Paninya
 
-- version : W1
+- version : W2
 
 ## Identité
 
@@ -29,8 +29,8 @@ Dominic). Pickpocket habile. Pas d'alchimie.
 
 ## Histoire (jusqu'au point de départ du RP)
 
-A perdu ses deux jambes enfant dans un accident de train [CANON SUPPOSÉ :
-parents morts dans l'accident]. Dominic lui a fait ses automails pour rien.
+A perdu ses deux jambes enfant dans un accident de train, où ses parents
+sont morts. Dominic lui a fait ses automails pour rien.
 Elle vole les touristes pour le rembourser ; Dominic refuse l'argent volé.
 
 ## Relations (neutres)

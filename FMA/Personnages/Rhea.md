@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W21
+- version : W22
 
 ## Identité
 
@@ -296,11 +296,13 @@ OC : pas de sort canon fixe. [selon RP] Par défaut, le périmètre joué la mè
 de l'enfance à la chute de Père puis au retour à Resembool (R14, fin du
 périmètre : la première nuit dans la chambre des sœurs).
 Son statut de sacrifice potentiel (Porte ouverte dès 1903, hitobashira valable)
-est tranché en Roadmap 12 : Mustang l'a repérée sur place en 1910 (R3) mais
-n'a rien écrit, l'armée n'a rien ; « hors radar » par défaut. « Repérée » si
-elle a transmuté sans cercle devant un homonculus ou Kimblee (delta
-Parties/) : elle est alors le cinquième sacrifice de Père au Jour Promis, à
-la place de Mustang, qui garde la vue (déroulé en R13 ; la bascule reste
+est tranché en Roadmap 12 : Mustang l'a repérée sur place en 1910 (R3) ; il
+l'a vue vouloir une vie sans problèmes, loin de l'armée, et ne l'a pas citée
+dans son rapport pour lui rendre ce calme. L'armée n'a rien ; « hors radar »
+par défaut. « Repérée » si elle a transmuté sans cercle devant un homonculus
+ou Kimblee qui a eu le temps d'en faire rapport à Père (delta Parties/) :
+elle est alors le cinquième sacrifice de Père au Jour Promis, prise par la
+Vérité comme les autres, à la place de Mustang, qui garde la vue (déroulé en R13 ; la bascule reste
 possible le Jour Promis, devant Pride ou Bradley, jusqu'à la transmutation
 forcée de Mustang).
 
@@ -322,11 +324,12 @@ Alimentées à chaud, arc par arc (Passe 2) :
 - Izumi (R9, 1914) : seule personne hors Elric et Rockbell qui connaît le
   prix du sans-cercle de Rhea - par déduction depuis 1909, pas par aveu.
   Rhea peut le confirmer ; Izumi n'en dit rien à personne.
-- Winry otage (R11, 1914) : dès le retour d'Ed, Rhea sait que sa sœur tient
+- Winry otage (R11a, 1914) : dès le retour d'Ed, Rhea sait que sa sœur tient
   Ed en laisse pour Bradley. Elle ne ment pas à Winry : l'appeler est au
   choix du joueur, sinon Winry l'apprend à Briggs.
 - Silence de Mustang (fixé en R12, vaut depuis 1910) : son rapport de 1910
-  ne porte qu'Edward ; il a tu la troisième sans-cercle. Rhea l'ignore.
+  ne porte qu'Edward ; il a tu la troisième sans-cercle pour lui laisser le
+  calme qu'elle voulait. Rhea l'ignore.
 - Statut de sacrifice (R12, 1915) : Hohenheim lui apprend ce qu'est un
   sacrifice ; elle sait en être un valable, pas si Père la connaît. Elle le
   dit à Winry.
@@ -334,7 +337,8 @@ Alimentées à chaud, arc par arc (Passe 2) :
   a payé en 1903, Père s'en sert comme clé. Le silence de Mustang ne détone
   pas en R13 (R14 au plus tôt).
 - Retour (R14, 1915) : le corps d'Al rendu, l'anti-Alan n'a plus d'objet ;
-  la valeur de 1910 rebascule, l'aveu suit. Le silence de Mustang ne lui
+  la valeur de 1910 rebascule ; à Resembool, l'un des deux se déclare (Al
+  dit toujours oui ; s'il n'entend rien d'elle, il se déclare lui-même). Le silence de Mustang ne lui
   parvient que si elle va à son chevet (choix du joueur). Refuse la Pierre
   pour son œil : le péage reste à elle.
 
@@ -464,7 +468,7 @@ partie.
   repart seule pour Rush Valley (quatrième séparation), Monsieur Lapinou
   avec elle si Rhea l'a fait rapporter. Chez Knox, Ling révèle que le
   Généralissime est un homonculus.
-- 1914 (R11) - Le Nord : Briggs. Gluttony se change en gouffre ; elle part avec
+- 1914 (R11a) - Central : la fausse Porte. Gluttony se change en gouffre ; elle part avec
   Knox, Mustang blessé et Lan Fan amputée dans la voiture. Un à deux jours sans
   Winry, sans Ed, sans Al : Cliquetis seul. Al revient avec May Chang, puis
   Ed : la Porte ouverte sur lui-même avec une Pierre, le corps d'Al vu devant
@@ -472,13 +476,15 @@ partie.
   qui a allumé Ishval, Winry otage de Bradley pour tenir Ed. Chez Riza, le
   récit d'Ishval : le « génocidaire » de 1910 hait ce qu'il a fait et attend
   d'être jugé. À la table des Bradley, l'homonculus passe le sel ; Selim est
-  poli. Au Nord, l'automail d'Ed gèle ; Olivier, Miles l'Ishval en uniforme,
+  poli.
+- 1914 (R11b) - Le Nord : Briggs. Au Nord, l'automail d'Ed gèle ; Olivier, Miles l'Ishval en uniforme,
   Sloth ; le tunnel : le pays est un cercle, Ishval un point de sang, l'armée
   le pinceau. Kimblee amène Winry : retrouvailles, l'automail de grand froid à
   quatre mains. À Baschool, second face-à-face avec Scar, en connaissance ;
-  Winry lui pardonne, Rhea non, ou à sa manière. Scar « enlève » les deux
-  sœurs ; elle s'enfonce avec Winry dans les galeries, vers le fort, sous le
-  blizzard ; les frères restent chez Kimblee.
+  Kimblee fait sauter le terrain, et Scar « enlève » les deux sœurs, la ruse
+  de Winry ; les frères restent chez Kimblee. Winry lui pardonne, Rhea non,
+  ou à sa manière. Elle s'enfonce avec Winry dans les galeries, vers le fort,
+  sous le blizzard.
 - 1914-1915 (R12) - Convergence. Dans les galeries, elle démonte Al trouvé dans
   la neige, puis le remonte au bidonville du Nord ; Ed disparu au fond d'une
   mine, pas de corps. May déchiffre les notes du frère de Scar : le cercle
@@ -487,17 +493,18 @@ partie.
   reconstruite, Rose n'attend plus personne ; Hohenheim, Pierre vivante au
   visage de Père, dit le Jour Promis et les cinq sacrifices : la nuit
   d'Alan a fait d'elle une clé du plan. Elle raccompagne Winry à Resembool ;
-  17 ans. Ed vivant, refermé sur sa propre vie, Greed dans Ling, Lan Fan à
-  l'automail de Pinako. Automail au carbone à quatre mains ; elle dit à
+  17 ans. Ed vivant, refermé sur sa propre vie, installé avec Greed-Ling
+  dans la chambre de Winry. Automail au carbone à quatre mains ; elle dit à
   Winry ce qu'elle est ; dernier rituel avec Monsieur Lapinou, cinquième
   séparation. Au bidonville, dans le noir, Pride pilote l'armure qu'elle a
-  refaite ; le gamin du dîner est Pride ; Gluttony dévoré. Al choisit le
+  refaite ; Selim est là, le gamin du dîner est Pride ; Lan Fan revient avec
+  un automail ; Gluttony dévoré. Al choisit le
   dôme de terre avec Pride. À l'aube, avec Scar et Ed, aux portes de Central.
 - 1915 (R13) - Le Jour Promis. Sous Central avec Ed et Scar, les
   soldats-mannequins, l'armée de Père en chair grise. Mustang brûle Envy ;
   Ed, Riza et Scar le retiennent ; Envy arrache sa Pierre. Ross vivante,
-  le secret tombe. Le cercle du docteur aspire Ed, Al et Izumi : « repérée »,
-  elle aussi, cinquième sacrifice, clouée à l'éclipse à côté d'Izumi,
+  le secret tombe. Le cercle du docteur prend Ed, Al et Izumi à travers leur
+  Porte : « repérée », la Vérité la prend aussi, cinquième sacrifice, clouée à l'éclipse à côté d'Izumi,
   Mustang garde la vue ; « hors radar », elle voit Riza égorgée, May qui
   soigne, Pride qui force Mustang, qui perd la vue (sauf si elle se montre
   avant). Père avale Dieu, l'alchimie s'éteint puis revient avec le cercle
@@ -510,12 +517,13 @@ partie.
   le minimum dû, suffit à ramener Al. Al revient nu et décharné dans son
   corps : plus l'anti-Alan, la valeur de 1910 rebascule d'un coup, sans
   Winry pour bâillonner. Hôpital de Central, foule de couloirs, la jambe
-  d'Ed entretenue au métal ; Winry arrive et dit l'éclipse (son âme prise
-  et rendue). Au chevet de Mustang, si elle y va : son rapport de 1910 ne
-  portait qu'Edward. La Pierre de Marcoh pour Havoc (et pour les yeux de
+  d'Ed entretenue au métal. Au chevet de Mustang, si elle y va : son rapport
+  de 1910 ne portait qu'Edward, il lui a laissé son calme. La Pierre de Marcoh pour Havoc (et pour les yeux de
   Mustang, « hors radar ») ; elle la refuse pour son œil. Retour en train ;
-  Hohenheim mort sur la tombe de Trisha. À Resembool, l'aveu à Al, frontal,
-  au pire moment ; il ne la repousse pas. Première nuit : rituel de
+  Winry les attend à Resembool et dit l'éclipse (son âme prise et rendue) ;
+  Pinako dit Hohenheim mort sur la tombe de Trisha. À Resembool, l'un des
+  deux se déclare : Rhea, frontale, au pire moment, ou Al, timidement ; Al
+  dit oui, la réponse de Rhea se joue. Première nuit : rituel de
   sommeil, Monsieur Lapinou reste à Winry, Cliquetis à elle. Fin du
   périmètre joué.
 
@@ -527,7 +535,7 @@ partie.
 - Elric : cf. Personnages/Edward_Elric.md, Alphonse_Elric.md
 - Miroirs deuil-transmutation : cf. Personnages/Izumi_Curtis.md, Trisha_Elric.md
 - Scar : cf. Personnages/Scar.md
-- Lieux : cf. Lieux/Resembool.md, Ishval.md, Rush_Valley.md, Dublith.md, Amestris.md (cercle national, R11)
+- Lieux : cf. Lieux/Resembool.md, Ishval.md, Rush_Valley.md, Dublith.md, Amestris.md (cercle national, R11b)
 - Grimoire du père : cf. BIBLE SB7
 
 ---

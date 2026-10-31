@@ -1,13 +1,13 @@
 # Sheska
 
-- version : W1
+- version : W2
 
 ## Identité
 
 Ancienne employée de la première annexe de la bibliothèque nationale de
 Central, renvoyée parce qu'elle lisait au lieu de travailler. Rat de
-bibliothèque à mémoire totale. Vit avec sa mère, malade [CANON SUPPOSÉ :
-hospitalisée ; Sheska ne peut pas payer ses soins]. Âge : jeune adulte
+bibliothèque à mémoire totale. Vit avec sa mère, malade,
+hospitalisée ; Sheska ne peut pas payer ses soins (Ed paiera). Âge : jeune adulte
 [INCERTAIN : âge exact].
 
 ## Physique

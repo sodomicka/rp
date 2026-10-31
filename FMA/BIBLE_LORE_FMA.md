@@ -16,7 +16,7 @@
 - univers : Fullmetal Alchemist (branche manga / Brotherhood, continuité Arakawa)
 - sources primaires : manga Arakawa + anime Brotherhood (2009). Canon local prime sur 2003.
 - site_ref canon (Brotherhood, épisode par épisode) : `https://fma.fandom.com/wiki/Episode_<N>_(2009_Anime)` (N = 1 à 64 ; chaque page liste les chapitres manga adaptés). Secours : `https://fma.fandom.com/wiki/List_of_Fullmetal_Alchemist_episodes` ou recherche web. VÉRIFICATION uniquement : ni théories fans, ni copie de texte. Méthode de déroulement : cf. _Implications.md.
-- bible_version : B19
+- bible_version : B20
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/FMA/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/FMA/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/FMA/Partie1/`
@@ -27,7 +27,7 @@
   - Factions - armée et conspiration (2 pages)
   - Lieux - géographie narrative (5 pages)
   - Personnages - fiches neutres canon + protagoniste OC (34 pages)
-  - Roadmap/Rhea - garde-cap + roadmaps détaillées, perspective Rhea (16 pages)
+  - Roadmap/Rhea - garde-cap + roadmaps détaillées, perspective Rhea (17 pages)
 - focus narratif : est d'Amestris autour de Resembool, avant et pendant la trame canon. Protagoniste OC (Rhea) : prix cognitif de la Vérité + relecture antimilitariste des événements. Instance jouée en CODEX + Parties/.
 
 ## SB1 Cosmogonie et règles du monde
@@ -41,6 +41,7 @@
 - Péages canon : Ed (jambe = péage de la Porte ; bras = prix séparé du scellement d'Al), Al (corps entier), Izumi (organes), Mustang (vue).
 - Le péage peut toucher les fonctions cognitives : cas du RP (Rhea : œil droit + cortex orbitofrontal). Cohérent avec le péage-désir, pas une contradiction. detail: cf. WIKI Personnages/Rhea.md
 - Survivre à la Porte confère : transmutation sans cercle (le corps devient le cercle, claquement de mains) + aperçu du savoir, À CONDITION d'en garder le souvenir.
+- C'est l'ÂME qui porte la Vérité vue : métal ou chair, peu importe (décision worldbuilder). Al, qui retrouve la Porte à l'ép. 59, garde le sans-cercle dans son corps rendu (R14).
 - Contre-exemple canon (ép. 2) : Alphonse, corps entier prélevé, revient SANS souvenir de la Porte -> PAS de sans-cercle. Le sang de Martel lui rend ses souvenirs de la nuit de 1910 (ép. 14), pas le savoir de la Porte. Il recouvre la capacité en repassant la Porte comme sacrifice, le Jour Promis (ép. 59) [CANON SUPPOSÉ]. La transmutation humaine reste impossible même après.
 - Sacrifice humain = alchimiste ayant ouvert la Porte et survécu. Convoité par les homonculus : cinq requis pour le Jour Promis.
 - Pierre philosophale : condensat d'âmes humaines. Amplifie l'alchimie, paie le péage à la place de l'alchimiste, alimente les homonculus. Fabrication = meurtre de masse.
@@ -87,7 +88,7 @@
 | 1909 | Apprentissage des Elric chez Izumi Curtis à Dublith (Ed 10 ans, Al 9 ans, six mois) | Retour fin 1909 ; Izumi sait par eux qu'une gamine transmute sans cercle |
 | 1909 | Nouvelle des Rockbell à Resembool ; dévastation d'Ishval | Deuil de Winry et de Rhea ; naissance de l'antimilitarisme de Rhea |
 | 1910 | Transmutation humaine ratée des Elric (de nuit, sans prévenir Rhea) ; visite de recrutement de Mustang à Resembool | Ed perd jambe (péage) et bras (scellement d'Al) ; Al perd son corps ; Rhea achève la chose et coupe les ponts ; Mustang repère la troisième sans-cercle sur place ; décision d'automail (défi d'Ed : un an). cf. WIKI Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md |
-| 1911 | Fin de rééducation d'Ed (défi tenu) ; examen d'État (12 ans) ; incendie de la maison Elric (3 octobre [CANON SUPPOSÉ]) ; départ pour la quête | Plus jeune Alchimiste d'État ; silence Rhea/Elric jusqu'en 1914. cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md |
+| 1911 | Fin de rééducation d'Ed (défi tenu) ; examen d'État (12 ans) ; incendie de la maison Elric (3 octobre) ; départ pour la quête | Plus jeune Alchimiste d'État ; silence Rhea/Elric jusqu'en 1914. cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md |
 | 1914 | Retour des frères à Resembool ; révélation du 1903 de Rhea aux Elric ; Rhea part avec eux vers Liore | Réconciliation fraîche et fragile. cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md |
 | 1914 | Liore : Ed démasque Cornello, fausse Pierre ; Cornello tué par Lust et Gluttony (hors POV Rhea) | Première ville canon ; carte de Winry en échec. cf. WIKI Roadmap/Rhea/Roadmap5_Liore.md |
 | 1914 | East City : Tucker et Nina ; Scar tue Tucker, brise le bras d'Ed et l'armure d'Al ; retour à Resembool | Rhea face à Scar sans savoir qu'il a tué ses parents. cf. WIKI Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md |
@@ -95,18 +96,19 @@
 | 1914 | Rush Valley : Paninya vole la montre d'Ed (Winry y voit la date de l'incendie) ; Winry accouche la belle-fille de Dominic ; Winry reste chez Garfiel | Rhea repart sans Winry vers Dublith. cf. WIKI Roadmap/Rhea/Roadmap8_Rush_Valley.md |
 | 1914 | Dublith : Izumi devine la transmutation des frères ; Greed enlève Al ; raid de Bradley, Greed capturé, le sang de Martel rend à Al ses souvenirs de 1910 ; retour à Rush Valley, Ling Yao ; départ pour Central avec Winry | Miroir Izumi/Rhea. cf. WIKI Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md |
 | 1914 | Central : Ed apprend la mort de Hughes ; Mustang simule l'exécution de Ross ; Lust détruite (Laboratoire 3) ; Hohenheim à Resembool, la chose de 1910 n'était pas Trisha ; Rhea et Winry apprennent ensemble que Scar a tué Sarah et Yuri ; Winry repart pour Rush Valley ; Ling révèle que Bradley est un homonculus | Contentieux Scar détoné. cf. WIKI Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md |
-| 1914 | Gluttony avale Ed et Ling ; repaire de Père sous Central, Ling devient Greed, Bradley tient Winry en otage ; Riza raconte Ishval ; Briggs : Olivier, Sloth, le tunnel-cercle national ; Kimblee amène Winry ; Baschool : Winry pardonne à Scar | Rhea sait Père, le cercle national, Winry otage. cf. WIKI Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md |
+| 1914 | Gluttony avale Ed et Ling ; repaire de Père sous Central, Ling devient Greed, Bradley tient Winry en otage ; Riza raconte Ishval ; dîner chez les Bradley | Rhea sait Père, Winry otage. cf. WIKI Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md |
+| 1914 | Briggs : Olivier, Sloth, le tunnel-cercle national ; Kimblee amène Winry ; Baschool : la ruse de l'enlèvement, Winry pardonne à Scar | Rhea sait le cercle national. cf. WIKI Roadmap/Rhea/Roadmap11b_Le_Nord_Briggs.md |
 | 1914-1915 | Galeries de Baschool ; Ed empalé par Kimblee ; Envy réduit par May et Marcoh ; Liore, Hohenheim révèle le Jour Promis et les sacrifices ; Resembool (Ed vivant, Greed-Ling) ; Gluttony dévoré par Pride, Al et Pride sous le dôme | Rhea se sait sacrifice valable ; aube du Jour Promis. cf. WIKI Roadmap/Rhea/Roadmap12_Convergence.md |
 | 30 janvier 1915 | 17 ans de Rhea | Entre Liore et Resembool (R12) |
 | printemps 1915 | Jour Promis : coup d'État de Mustang, soldats-mannequins ; morts de Kimblee, Envy, Sloth, Fu, Bradley ; cinq sacrifices et éclipse, Père absorbe Dieu ; contre-cercles de Hohenheim et de Scar ; Al échange son âme contre le bras d'Ed ; Greed meurt, Père renvoyé à la Porte | Cinquième sacrifice : Mustang, aveugle (canon) ou Rhea « repérée » (Mustang voyant). cf. WIKI Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md |
-| printemps 1915 | Ed paie le retour d'Al avec sa Porte (plus d'alchimie) ; Hohenheim meurt sur la tombe de Trisha ; hôpital de Central, Pierre de Marcoh (Havoc, Mustang) ; retour à Resembool | Al dans son corps ; aveu de Rhea à Al ; fin du périmètre joué. cf. WIKI Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md |
+| printemps 1915 | Ed paie le retour d'Al avec sa Porte (plus d'alchimie) ; Hohenheim meurt sur la tombe de Trisha ; hôpital de Central, Pierre de Marcoh (Havoc, Mustang) ; retour à Resembool | Al dans son corps ; déclaration réciproque entre Rhea et Al ; fin du périmètre joué. cf. WIKI Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md |
 
 Détail des étapes par arc : cf. FMA/Roadmap/Rhea/.
 En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRONO) cadrent l'arc ; le fil long des arcs traversés vient du CODEX ANNEXE_CHRONO.
 
 ### Notes
-- Cap des roadmaps (15, R0 à R14, Porte 1903 -> retour à Resembool 1915) : cf. WIKI Roadmap/Rhea/00_Garde_Cap.md. État d'avancement du chantier : cf. _Implications.md.
-- Incendie de la maison Elric : 1911, APRÈS l'examen d'État (examen -> incendie -> départ pour la quête). La montre d'Ed porte la date gravée (vérifié ép. 11 : Winry la voit à Rush Valley) ; le 3 octobre reste [CANON SUPPOSÉ : texte exact].
+- Cap des roadmaps (16, R0 à R14 dont R11a et R11b, Porte 1903 -> retour à Resembool 1915) : cf. WIKI Roadmap/Rhea/00_Garde_Cap.md. État d'avancement du chantier : cf. _Implications.md.
+- Incendie de la maison Elric : 1911, APRÈS l'examen d'État (examen -> incendie -> départ pour la quête). La montre d'Ed porte, gravé à l'intérieur, « N'oublie pas 3 Oct. 11 » (vu par Winry à Rush Valley, ép. 11).
 - [INCERTAIN] Numéro de l'ordre d'extermination d'Ishval : "3066" ou "306" selon les sources. Non tranché.
 - Parents Rockbell (Sarah, Yuri) : missions humanitaires ponctuelles depuis 1901 ; présents à l'arrivée de Rhea (1903) ; dernier départ 1907 ; tués par Scar 1908 ; nouvelle reçue à Resembool 1909.
 - Année exacte de destruction de Xerxès : [INCERTAIN] (~400 ans avant la trame).
@@ -124,7 +126,7 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Sarah Rockbell - chirurgienne de guerre | médecine | mère adoptive de Rhea | tuée par Scar (1908) | établi. detail: cf. WIKI Personnages/Sarah_Rockbell.md
 - Yuri Rockbell - chirurgien de guerre | médecine | père adoptif de Rhea | tué par Scar (1908) | établi. detail: cf. WIKI Personnages/Yuri_Rockbell.md
 - Edward Elric - Fullmetal Alchemist | transmutation sans cercle, automail-lame, combat | ami d'enfance de Rhea | survit, paie le retour d'Al avec sa Porte (R14) | établi. detail: cf. WIKI Personnages/Edward_Elric.md
-- Alphonse Elric - âme scellée dans une armure | alchimie au cercle (aucun souvenir de la Porte : PAS de sans-cercle avant le Jour Promis), combat | ami d'enfance de Rhea ; échange son âme contre le bras d'Ed (R13) ; reçoit l'aveu de Rhea (R14) | survit, recouvre son corps (R14) | établi. detail: cf. WIKI Personnages/Alphonse_Elric.md
+- Alphonse Elric - âme scellée dans une armure | alchimie au cercle (aucun souvenir de la Porte : PAS de sans-cercle avant le Jour Promis), combat | ami d'enfance de Rhea ; échange son âme contre le bras d'Ed (R13) ; déclaration réciproque avec Rhea (R14) | survit, recouvre son corps, garde l'alchimie (R14) | établi. detail: cf. WIKI Personnages/Alphonse_Elric.md
 - Trisha Elric - mère Elric | - | parallèle thématique (deuil-transmutation) | morte en 1904 | établi. detail: cf. WIKI Personnages/Trisha_Elric.md
 - Van Hohenheim - Pierre vivante, père absent | alchimie sans cercle, immortalité | adversaire de Père ; dit à Rhea qu'elle est un sacrifice valable (R12) | meurt sur la tombe de Trisha (R14) | établi. detail: cf. WIKI Personnages/Van_Hohenheim.md
 - Roy Mustang - Flame Alchemist, colonel | alchimie de flamme | supérieur d'Ed, héros d'Ishval ; a tu le sans-cercle de Rhea en 1910 | perd la vue (canon, rendue par la Pierre de Marcoh après Havoc, R14) ou la garde si Rhea est le cinquième sacrifice (R13) ; silence de 1910 détonable (R14), survit | établi. detail: cf. WIKI Personnages/Roy_Mustang.md
@@ -133,13 +135,13 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Scar - vengeur ishval | alchimie de destruction (bras droit) | tueur des parents adoptifs de Rhea, démasqué devant Rhea et Winry (R10) | survit, reconstruit Ishval | établi. detail: cf. WIKI Personnages/Scar.md
 - King Bradley (Wrath) - Généralissime, homonculus | Œil ultime, épée | maître de l'armée, pion de Père | vaincu par Scar (Jour Promis) | établi. detail: cf. WIKI Personnages/Bradley_Wrath.md
 - Père - homonculus originel | Pierre colossale, alchimie sans cercle | maître de la conspiration ; Rhea cinquième sacrifice si « repérée » (R13) | renvoyé à la Porte au Jour Promis | établi. detail: cf. WIKI Personnages/Pere.md
-- Gluttony - homonculus Gourmandise | avale tout, odorat, fausse Porte | compagnon de Lust ; captif de Ling (R10), avale Ed et Ling (R11) | dévoré par Pride (R12) | établi. detail: cf. WIKI Personnages/Gluttony.md
+- Gluttony - homonculus Gourmandise | avale tout, odorat, fausse Porte | compagnon de Lust ; captif de Ling (R10), avale Ed et Ling (R11a) | dévoré par Pride (R12) | établi. detail: cf. WIKI Personnages/Gluttony.md
 - Envy - homonculus Envie | métamorphe, forme de bête, forme vraie de ver | a allumé Ishval (1901), tué Hughes ; réduit par May et Marcoh devant Rhea (R12) | se suicide devant Mustang (Jour Promis) | établi. detail: cf. WIKI Personnages/Envy.md
-- Sloth - homonculus Paresse | force colossale, creuse le tunnel-cercle | surgit à Briggs (R11) | tué par les Armstrong (Jour Promis) | établi. detail: cf. WIKI Personnages/Sloth.md
-- Selim Bradley (Pride) - fils adoptif de Bradley, premier homonculus | ombres, absorption | reçoit les frères et Rhea à dîner (R11) ; pilote Al, dévore Gluttony, sous le dôme (R12) | vaincu par Ed, réduit à un nourrisson | établi. detail: cf. WIKI Personnages/Selim_Bradley_Pride.md
-- Solf J. Kimblee - Alchimiste écarlate | explosions, Pierres | a fait de Scar ce qu'il est (Ishval) ; amène Winry à Briggs (R11) | absorbé par Pride | établi. detail: cf. WIKI Personnages/Solf_J_Kimblee.md
+- Sloth - homonculus Paresse | force colossale, creuse le tunnel-cercle | surgit à Briggs (R11b) | tué par les Armstrong (Jour Promis) | établi. detail: cf. WIKI Personnages/Sloth.md
+- Selim Bradley (Pride) - fils adoptif de Bradley, premier homonculus | ombres, absorption | reçoit les frères et Rhea à dîner (R11a) ; pilote Al, dévore Gluttony, sous le dôme (R12) | vaincu par Ed, réduit à un nourrisson | établi. detail: cf. WIKI Personnages/Selim_Bradley_Pride.md
+- Solf J. Kimblee - Alchimiste écarlate | explosions, Pierres | a fait de Scar ce qu'il est (Ishval) ; amène Winry à Briggs (R11b) | absorbé par Pride | établi. detail: cf. WIKI Personnages/Solf_J_Kimblee.md
 - May Chang - princesse alkahestriste de Xing | alkahestrie (flux, soin, distance) | alliée de Scar, panda Shao Mei | rentre à Xing | établi. detail: cf. WIKI Personnages/May_Chang.md
-- Olivier Mira Armstrong - générale, commandante de Briggs | sabre, commandement | sœur aînée d'Alex ; reçoit le trio (R11) | survit | établi. detail: cf. WIKI Personnages/Olivier_Mira_Armstrong.md
+- Olivier Mira Armstrong - générale, commandante de Briggs | sabre, commandement | sœur aînée d'Alex ; reçoit le trio (R11b) | survit | établi. detail: cf. WIKI Personnages/Olivier_Mira_Armstrong.md
 - Alex Louis Armstrong - Strong Arm Alchemist, major | alchimie de la pierre (gantelets), force colossale | escorte des Elric, ancien d'Ishval qui a refusé de continuer | survit | établi. detail: cf. WIKI Personnages/Alex_Louis_Armstrong.md
 - Shou Tucker - Alchimiste d'État chimériste, East City | chimères | a fondu sa fille Nina et le chien Alexander | tué par Scar (1914) | établi. detail: cf. WIKI Personnages/Shou_Tucker.md
 - Tim Marcoh - ancien Crystal Alchemist, médecin déserteur d'Ishval | recherche sur la Pierre, Pierre incomplète | donne à Ed l'indice de Central | survit | établi. detail: cf. WIKI Personnages/Tim_Marcoh.md
@@ -163,11 +165,11 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Xerxès - nation détruite ~400 ans avant | désert de l'Est, au-delà d'Ishval | berceau de Père, refuge de rescapés | ruines. detail: cf. WIKI Lieux/Ishval.md
 - Liore - ville du désert de l'Est, culte de Léto | Est d'Amestris | première ville canon (R5), faux prophète Cornello ; reconstruite, Hohenheim y attend (R12) | bascule après le départ des Elric, puis se rebâtit. detail: cf. WIKI Roadmap/Rhea/Roadmap5_Liore.md, Roadmap12_Convergence.md
 - East City - ville de garnison de l'Est | Est d'Amestris | QG de Mustang ; Tucker, première attaque de Scar (R6) | - . detail: cf. WIKI Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md
-- Central City - capitale | centre du pays | siège du pouvoir et de Père ; bibliothèque, Laboratoire 5, maison des Hughes (R7) ; deuil de Hughes, piège à Scar, planque de Knox (R10) ; repaire de Père sous le QG, maison des Bradley (R11) ; souterrains, repaire et cour du QG au Jour Promis (R13) | QG à moitié soufflé (1915). detail: cf. WIKI Roadmap/Rhea/Roadmap7_Laboratoire_5.md, Roadmap10_Central_Hughes_Et_Scar.md, Roadmap11_Le_Nord_Briggs.md, Roadmap13_Le_Jour_Promis.md
+- Central City - capitale | centre du pays | siège du pouvoir et de Père ; bibliothèque, Laboratoire 5, maison des Hughes (R7) ; deuil de Hughes, piège à Scar, planque de Knox (R10) ; repaire de Père sous le QG, maison des Bradley (R11a) ; souterrains, repaire et cour du QG au Jour Promis (R13) | QG à moitié soufflé (1915). detail: cf. WIKI Roadmap/Rhea/Roadmap7_Laboratoire_5.md, Roadmap10_Central_Hughes_Et_Scar.md, Roadmap11a_Central_La_Fausse_Porte.md, Roadmap13_Le_Jour_Promis.md
 - Rush Valley - ville de l'automail | Sud, sur la ligne de Dublith | rêve de Winry, foule pour Rhea ; Winry y reste chez Garfiel (R8), en repart pour Central après Ling Yao (R9) | - . detail: cf. WIKI Lieux/Rush_Valley.md
 - Dublith - ville du Sud | au bout de la ligne de Rush Valley | foyer d'Izumi Curtis (boucherie), apprentissage des Elric (1909), Devil's Nest de Greed (R9) | repaire rasé (1914). detail: cf. WIKI Lieux/Dublith.md
-- Forteresse de Briggs - mur du Nord face à Drachma | montagnes du Nord | garnison d'Olivier, Sloth et le tunnel-cercle (R11) | passée aux Alchimistes d'État de Central (fin R11). detail: cf. WIKI Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md
-- Baschool - ville minière du Nord | près de Briggs | traque de Scar, pardon de Winry (R11) | - . detail: cf. WIKI Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md
+- Forteresse de Briggs - mur du Nord face à Drachma | montagnes du Nord | garnison d'Olivier, Sloth et le tunnel-cercle (R11b) | passée aux Alchimistes d'État de Central (fin R11b). detail: cf. WIKI Roadmap/Rhea/Roadmap11b_Le_Nord_Briggs.md
+- Baschool - ville minière du Nord | près de Briggs | traque de Scar, la ruse, pardon de Winry (R11b) | - . detail: cf. WIKI Roadmap/Rhea/Roadmap11b_Le_Nord_Briggs.md
 
 ## SB7 Artefacts et objets
 - Pierre philosophale - condensat d'âmes | fabrication par meurtre de masse | amplifie, paie le péage, cœur des homonculus | plusieurs exemplaires | établi. detail: cf. WIKI Systemes/Pierre_Philosophale.md
@@ -184,20 +186,20 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 Règle : définition + statut + renvoi. Les déroulés vivent en roadmap / fiche.
 
 ### Mystères
-- Identité réelle de Bradley et des homonculus - connue du lecteur, ignorée du peuple | ouvert (révélation progressive) ; Rhea apprend par Ling que Bradley est un homonculus (R10), par Ed l'existence de Père (R11), voit Pride au bidonville (R12). cf. WIKI Factions/Homonculus.md
-- Cercle de transmutation national et Jour Promis - Rhea apprend le cercle au tunnel de Briggs (R11), le contre-cercle et le Jour Promis (R12) | RÉSOLU au Jour Promis (R13) : le cercle aspire le pays, les contre-cercles de Hohenheim et de Scar le défont. cf. WIKI Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md
-- Statut de sacrifice de Rhea - Porte ouverte (1903) = hitobashira valable | RÉSOLU en R13 : « repérée » = cinquième sacrifice, Mustang voyant ; « hors radar » = canon, bascule possible devant Pride ou Bradley avant la transmutation de Mustang. cf. WIKI Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md
+- Identité réelle de Bradley et des homonculus - connue du lecteur, ignorée du peuple | ouvert (révélation progressive) ; Rhea apprend par Ling que Bradley est un homonculus (R10), par Ed l'existence de Père (R11a), voit Pride au bidonville (R12). cf. WIKI Factions/Homonculus.md
+- Cercle de transmutation national et Jour Promis - Rhea apprend le cercle au tunnel de Briggs (R11b), le contre-cercle et le Jour Promis (R12) | RÉSOLU au Jour Promis (R13) : le cercle aspire le pays, les contre-cercles de Hohenheim et de Scar le défont. cf. WIKI Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md
+- Statut de sacrifice de Rhea - Porte ouverte (1903) = hitobashira valable | RÉSOLU en R13 : « repérée » (témoin homonculus ou Kimblee qui a le temps d'en faire rapport à Père) = cinquième sacrifice, pris par la Vérité, Mustang voyant ; « hors radar » = canon, bascule possible devant Pride ou Bradley avant la transmutation de Mustang. cf. WIKI Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md
 - Incident du village natal de Rhea - générateur d'origine | hors-périmètre : NE DÉTONE JAMAIS (décision worldbuilder ; seul Alan subsiste de cette origine). cf. WIKI Roadmap/Rhea/Roadmap0_La_Porte.md
 
 ### Tchekhov
 Format : Fil - planté en | condition de détonation | conséquence attendue | statut
-- Scar / parents Rockbell - DÉTONÉ (Central, R10 : Rhea et Winry apprennent ensemble ; Winry pardonne à Baschool, R11). déroulé : cf. WIKI Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md, Roadmap11_Le_Nord_Briggs.md
+- Scar / parents Rockbell - DÉTONÉ (Central, R10 : Rhea et Winry apprennent ensemble ; Winry pardonne à Baschool, R11b). déroulé : cf. WIKI Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md, Roadmap11b_Le_Nord_Briggs.md
 - Transmutation cachée des Elric - planté 1910 | détonée sur place (R3) | fracture Rhea/Elric 1910-1914, détestation à double tranchant | DÉTONÉ. déroulé : cf. WIKI Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md, Personnages/Rhea.md (Trajectoire datée)
 - Révélation du 1903 de Rhea aux Elric - planté 1910 (fracture jouée sans qu'elle s'explique) | détonée en 1914, au retour des frères, avant le départ (R4) | compréhension rétroactive de la fracture, cale la réconciliation | DÉTONÉ. déroulé : cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md
-- Nœud Rhea/Al - DÉTONÉ (R14 : corps d'Al rendu, la valeur rebascule, aveu ; Al ne la repousse pas). déroulé : cf. WIKI Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md
+- Nœud Rhea/Al - DÉTONÉ (R14 : corps d'Al rendu, la valeur rebascule ; l'un des deux se déclare, c'est réciproque, Al dit oui ; la réponse de Rhea se joue). déroulé : cf. WIKI Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md
 - Statut de sacrifice de Rhea - DÉTONÉ (Jour Promis, R13) selon l'état de la partie : Rhea cinquième sacrifice et Mustang voyant, ou Mustang aveugle (canon). déroulé : cf. WIKI Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md
-- Silence de Mustang (1910) - fixé en R12, ignoré de Rhea | détone en R14 si Rhea va à son chevet (choix du joueur), sinon ironie au CODEX | armé jusqu'au jalon 5 de R14. cf. WIKI Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md
-- Ironie Mustang/Riza (1910 : « génocidaire ») - DÉTONÉ (R11 : Riza raconte Ishval). déroulé : cf. WIKI Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md
+- Silence de Mustang (1910) - fixé en R12, ignoré de Rhea | détone en R14 si Rhea va à son chevet (choix du joueur), sinon ironie au CODEX | armé jusqu'au jalon 4 de R14. cf. WIKI Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md
+- Ironie Mustang/Riza (1910 : « génocidaire ») - DÉTONÉ (R11a : Riza raconte Ishval). déroulé : cf. WIKI Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md
 - Parallèle deuil-transmutation - DÉTONÉ (Dublith, R9 : rencontre Izumi/Rhea). déroulé : cf. WIKI Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md
 
 ## SB9 Index - routage
@@ -207,4 +209,4 @@ Index détaillé page-par-page : cf. WIKI FMA/Sommaire.md
 
 ---
 
-FIN_BIBLE_B19
+FIN_BIBLE_B20

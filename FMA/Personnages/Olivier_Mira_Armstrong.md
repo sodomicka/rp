@@ -1,6 +1,6 @@
 # Olivier Mira Armstrong
 
-- version : W2
+- version : W3
 
 ## Identité
 
@@ -30,7 +30,7 @@ Tient Briggs depuis des années contre Drachma. Méprise son frère cadet, trop 
 
 ## Rapport à la protagoniste
 
-- 1914 (R11) : une générale qui garde une frontière, méprise Central et juge chacun sur son utilité ; une armée que Rhea ne sait pas ranger. Ne lui propose rien ; la fait travailler au métal si elle le veut. La fait arrêter avec les frères. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
+- 1914 (R11b) : une générale qui garde une frontière, méprise Central et juge chacun sur son utilité ; une armée que Rhea ne sait pas ranger. Ne lui propose rien ; la fait travailler au métal si elle le veut. La fait arrêter avec les frères. Détail : cf. Roadmap/Rhea/Roadmap11b_Le_Nord_Briggs.md.
 - 1915 (R13) : coup d'État au QG, tue Gardiner, tue Sloth avec Alex (hors POV) ; Briggs contre Père à la surface. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 
 ## Sort connu (canon)
