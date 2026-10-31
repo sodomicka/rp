@@ -1,18 +1,17 @@
 # Shou Tucker
 
-- version : W1
+- version : W2
 
 ## Identité
 
 Alchimiste d'État d'East City, spécialiste des chimères : le Sewing-Life
-Alchemist (titre officiel ; équivalent français [INCERTAIN]). Père de Nina,
+Alchemist (titre officiel, gardé en VO dans ce RP). Père de Nina,
 maître du grand chien Alexander. Sa femme a « quitté la maison », dit-il.
 Fiche commune avec sa fille Nina, qui n'existe dans le récit que par lui.
 
 ## Physique
 
-Homme maigre, lunettes, air doux et fatigué. Nina : petite fille de
-quelques ans [INCERTAIN : âge exact], deux tresses, joyeuse. Alexander :
+Homme maigre, lunettes, air doux et fatigué. Nina : petite fille de cinq ans, deux tresses, joyeuse. Alexander :
 très grand chien blanc, affectueux.
 
 ## Personnalité

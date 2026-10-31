@@ -1,12 +1,12 @@
 # Izumi Curtis
 
-- version : W5
+- version : W6
 
 ## Identité
 
 Maîtresse alchimiste et artiste martiale, de Dublith (sud d'Amestris). Tient une boucherie avec son mari Sig.
 Maîtresse d'alchimie et de combat des frères Elric (six mois d'apprentissage, 1909).
-Nom de jeune fille : Harnet [INCERTAIN]. Née vers 1877.
+Nom de jeune fille : Harnet. 35-36 ans en 1914, donc née vers 1878.
 
 ## Physique
 

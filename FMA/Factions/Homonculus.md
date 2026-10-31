@@ -1,6 +1,6 @@
 # Homonculus
 
-- version : W3
+- version : W4
 
 ## Nature
 
@@ -29,7 +29,7 @@ Père a purgé son âme de sept vices, chacun incarné en un homonculus (fragmen
 - Greed (Avarice) - Bouclier ultime (peau de carbone durci). Le seul à s'être rebellé contre Père. Cf. Personnages/Greed.md.
 - Sloth (Paresse) - colosse. Force et vitesse extrêmes. Creuse le tunnel-cercle sous Amestris. Cf. Personnages/Sloth.md.
 
-Note : les noms sont souvent ironiques (Wrath maîtrise sa colère, Sloth se surmène, etc.). [INTERPRÉTATION] Reflète l'incompréhension de l'humain par Père.
+Note : les noms sont souvent ironiques (Wrath maîtrise sa colère, Sloth se surmène, etc.).
 
 ## Objectif et méthode
 

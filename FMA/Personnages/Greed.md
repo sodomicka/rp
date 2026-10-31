@@ -1,12 +1,12 @@
 # Greed
 
-- version : W6
+- version : W7
 
 ## Identité
 
 L'homonculus Greed (Avarice), fragment de Père. Le seul de la fratrie à
-avoir déserté : il a quitté Père il y a environ un siècle [CANON SUPPOSÉ :
-durée] et vit à sa guise. En 1914, il tient le Devil's Nest, un bar
+avoir déserté : âgé d'environ deux cents ans, il a quitté Père il y a
+longtemps (le canon ne dit pas quand) et vit à sa guise. En 1914, il tient le Devil's Nest, un bar
 mal famé de Dublith, avec une bande de chimères humaines.
 
 ## Physique
@@ -39,8 +39,9 @@ pensent et prennent forme humaine à volonté.
   son sang touche le sceau d'Al (ép. 14).
 - Dolcetto - homme-chien, épéiste, flair aiguisé. Tué au raid (ép. 14).
 - Roa - homme-bœuf, colosse au marteau. Tué au raid (ép. 14).
-- Bido - homme-lézard, timoré. Survit au raid [CANON SUPPOSÉ : rôle
-  ultérieur].
+- Bido - homme-lézard, timoré. Seul survivant du raid ; rejoint plus tard
+  Greed renaissant dans Ling, qui ne le reconnaît pas et le transperce
+  (ch. 81, ép. 44), loin de Rhea.
 
 ## Histoire (jusqu'au point de départ du RP)
 

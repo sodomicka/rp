@@ -1,14 +1,14 @@
 # Dublith
 
-- version : W1
+- version : W2
 
 ## Nature
 
 Ville du Sud d'Amestris, au bout de la ligne qui passe par Rush Valley.
 Ville commerçante ordinaire, avec ses bas quartiers. Foyer d'Izumi et
 Sig Curtis. Lieu d'apprentissage des frères Elric (1909, six mois), et
-d'un épisode de leur formation : un mois de survie sur une île voisine
-[CANON SUPPOSÉ : situation exacte de l'île].
+d'un épisode de leur formation : un mois de survie sur Yock, une île
+voisine (le canon ne la situe pas plus précisément).
 
 ## Lieux notables
 

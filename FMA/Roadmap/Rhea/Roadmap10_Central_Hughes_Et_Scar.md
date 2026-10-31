@@ -1,6 +1,6 @@
 # Roadmap 10 - Central : Hughes et Scar
 
-- version : W5
+- version : W6
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : environ deux semaines (1914 ; aucune durée dans les pages ép. 16-24 ni ch. 35-48) : l'arrivée et le deuil, la nuit du feu, l'absence d'Ed (Al au Laboratoire 3, sans Rhea), son retour, les jours du piège, le départ de Winry, la planque
@@ -86,7 +86,7 @@ Toutes en présence de Rhea ; aucune ne dévoile Scar avant le jalon 7.
 - Partir à Resembool avec Ed - la révélation sur Scar se fait aux deux sœurs ensemble (jalon 7) ; cf. Verrous.
 - Suivre Al au Laboratoire 3, voir Lust ou Gluttony à l'œuvre - Rhea ne voit aucun homonculus au Laboratoire 3 ; protège le statut de sacrifice (Roadmap 12) ; cf. Verrous.
 - Apprendre, ou laisser Winry apprendre, que Scar a tué Sarah et Yuri avant le jalon 7.
-- Tuer Scar, ou laisser Winry tirer - Scar tue Bradley au Jour Promis ; Winry lui pardonne à Baschool (R11b) ; cf. Verrous.
+- Tuer Scar, ou laisser Winry tirer - Scar tue Bradley au Jour Promis ; Winry panse ses plaies à Baschool (R11b) ; cf. Verrous.
 - Retenir Scar - il fuit, couvert par May Chang ; Scar et May portent la trame suivante.
 - Tuer ou libérer Gluttony - il avale Ed et Ling (Roadmap 11a).
 - Révéler que Ross est vivante à qui que ce soit hors Winry - plan de Mustang ; Ross revient avec des armes (Roadmap 13).
@@ -128,7 +128,7 @@ Toutes en présence de Rhea ; aucune ne dévoile Scar avant le jalon 7.
 - Scar / parents (jalons 6-7) : DÉTONÉ, aux deux sœurs à la même seconde. Ed l'apprend à Xerxès (ch. 41, ép. 18) et le dit à Al hors de la présence de Winry (ch. 45) ; il le tait aussi à Rhea, qui ne ment pas à Winry. Si le joueur garde Rhea dans la pièce au jalon 6, Ed attend qu'elle sorte. Ce que Rhea fait de Scar (tueur de ses parents, produit de l'armée qu'elle hait, de Kimblee) et d'Ed qui savait : au choix du joueur ; le trio ne se brise pas.
 - Ed et le pistolet (jalon 7) : le manga le fait rendre l'arme par Winry à force de mots (ch. 47), l'anime fait Ed s'interposer et dire la phrase des mains (ép. 22). Les deux tiennent ensemble.
 - Scar et Rhea : s'il l'a vue en R6, il reconnaît la seconde sans-cercle. Qu'elle est aussi une fille des Rockbell, il ne le sait que si elle le dit.
-- Ross vivante (jalon 5) : Ed la voit vivante à Xerxès ; elle part pour Xing avec Fu et une petite escorte (ch. 41). Les pages ne disent pas s'il le dit à Al. Par défaut, il le dit à Al et Rhea sous le sceau du secret [CANON SUPPOSÉ] ; Rhea peut le dire à Winry (elle ne lui ment pas), à personne d'autre. Knox, qui a couvert la mise en scène (ch. 42), le sait aussi.
+- Ross vivante (jalon 5) : Ed la voit vivante à Xerxès ; elle part pour Xing avec Fu et une petite escorte (ch. 41). Les pages ne disent pas s'il le dit à Al. Dans ce RP, il le dit à Al et Rhea sous le sceau du secret (décision de build) ; Rhea peut le dire à Winry (elle ne lui ment pas), à personne d'autre. Knox, qui a couvert la mise en scène (ch. 42), le sait aussi.
 - Winry repart pour Resembool (jalons 6, 8) : les ch. 45 et 48 disent Resembool, même si c'est Garfiel qui appelle. Monsieur Lapinou y est déjà : il la retrouve là.
 - Bradley au chevet (jalon 8) : le ch. 48 ne dit ni le lieu ni ses mots. Il est aimable, écoute, parle de Scar. Rhea ne sait pas encore ; le joueur, si.
 - La chose de 1910 (jalon 5) : rien ne change pour Rhea (« une âme ne se remplace pas », depuis 1903) ; le soulagement des frères est la scène. La chose de 1903 n'était pas Alan non plus : elle l'a toujours su.

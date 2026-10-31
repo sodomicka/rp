@@ -1,6 +1,6 @@
 # Tim Marcoh
 
-- version : W10
+- version : W11
 
 ## Identité
 
@@ -17,7 +17,7 @@ Tenue civile de médecin de campagne.
 ## Personnalité
 
 Médecin dans l'âme, rongé par la culpabilité. Craintif, prompt à la
-défensive (arme au poing quand il se croit démasqué [INCERTAIN : absent des résumés de l'ép. 6 et du ch. 8]), mais honnête au fond.
+défensive (il croit au pire quand les Elric le coincent, ép. 6), mais honnête au fond.
 Préfère soigner en silence que servir de nouveau.
 
 ## Capacités

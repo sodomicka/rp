@@ -1,6 +1,6 @@
 # Roadmap 11b - Le Nord : Briggs
 
-- version : W3
+- version : W4
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : quelques semaines (fin 1914 ; aucune durée dans les pages ép. 33-40 ni ch. 64-80) : le train et la montagne, Briggs (Olivier, Sloth, le tunnel, Kimblee et Winry), Baschool. Les 17 ans de Rhea (30 janvier 1915) tombent en Roadmap 12.
@@ -98,6 +98,7 @@ Toutes en présence de Rhea ; aucune ne montre un homonculus hors de Sloth et de
 - Statut de sacrifice : sans-cercle devant un homonculus ou devant Kimblee = « repérée » pour la partie (delta Parties/), à condition que le témoin ait le temps d'en faire rapport à Père (décision worldbuilder) ; Roadmap 12 en hérite. Témoins concernés : Sloth (jalon 2 : il retourne à son tunnel, qui mène à Central), Kimblee (jalons 4 à 6 : il sert Père et rend compte à Pride ; compté comme témoin, décision worldbuilder). Devant Olivier, Miles, Buccaneer, Falman, May, Yoki, Marcoh, Scar ou les chimères : rien ne remonte. Kimblee la connaît par son nom à Briggs. « Repérée », elle figure parmi les candidats de Père ; ce qu'il en fait : Roadmap 12.
 - Winry otage : les pages ne disent jamais que Winry apprend qu'elle est le levier (ép. 37, ch. 70). Si Rhea l'a appelée (R11a), elle le sait ; sinon, Rhea ne lui ment pas : si Winry demande, ou si Rhea le juge, elle le dit.
 - Winry au Nord : rentrée à Resembool après Central (R10), elle est de nouveau à Rush Valley quand un contact militaire lui apprend que les frères sont partis au Nord (ép. 33, 36) ; Kimblee la cueille au pied de la montagne (ch. 70). Qui l'a fait venir n'est pas sur les pages.
+- Al (ép. 39) : en route, il est tiré devant la Porte et entrevoit son vrai corps, décharné ; il craint que son âme commence à rejeter l'armure. Les pages ne montrent aucune perte de conscience. Ce qu'il en dit à Rhea se joue (elle connaît le risque du sceau depuis R10).
 - Olivier : ne propose rien à Rhea (une civile ne s'engage pas à Briggs sans l'avoir demandé). Elle la fait travailler si Rhea le veut, et la juge sur pièces.
 - Miles : un Ishval officier, qui sert dans le système pour changer le regard sur les siens (ép. 39) : le mot de Riza en 1910 (« une gamine qui aura envie de faire bouger les choses ») avec un autre visage. Rhea n'a pas à le relier.
 - Scar (jalons 5-6) : le second face-à-face des filles Rockbell. Il apprend que Rhea est aussi leur fille si elle le dit ou si Winry dit « nos parents ». Le geste est celui de Winry (ép. 39) ; la page ne lui met aucun mot dans la bouche. Rhea n'a ni à le pardonner ni à s'y opposer : sur ce qui est grave, des excuses ne soldent rien, seule une réparation dans la durée compte (cf. Personnages/Rhea.md) ; par défaut, elle ne dit pas « je pardonne ». La ruse : Rhea part avec Winry, Scar « enlève » les deux sœurs ; elle peut rester avec les frères si le joueur insiste, Winry part alors seule avec le groupe de Scar.

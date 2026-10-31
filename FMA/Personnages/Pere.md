@@ -1,6 +1,6 @@
 # Père
 
-- version : W3
+- version : W4
 
 ## Identité
 
@@ -17,7 +17,7 @@ Vraie forme évoluée : masse humanoïde noire couverte d'yeux (proche de la for
 ## Personnalité
 
 Froid, arrogant, calculateur. Méprise les émotions humaines qu'il tient pour des imperfections.
-[INTERPRÉTATION] N'a pas grandi en 400 ans, à l'inverse de Hohenheim : parasite les autres au lieu d'évoluer.
+À la fin, la Vérité le lui dit (ép. 63) : il a échoué faute d'avoir cru en lui-même, à voler la force des autres et à courir après l'idée de Dieu.
 Obsédé par la « perfection » et l'accession au rang de « Dieu ».
 
 ## Capacités

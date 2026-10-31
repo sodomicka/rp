@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W22
+- version : W23
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -160,7 +160,7 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   l'enlèvement (idée de Winry), Winry panse les plaies de Scar, Rhea part
   avec Winry dans les galeries. Reprise (W3).
 - Tchekhov : statut de sacrifice (témoins : Sloth, Kimblee) ; Scar /
-  parents : pardon de Winry.
+  parents : Winry panse les plaies de Scar.
 
 ### Roadmap 12 - Convergence
 - Canon ép. 41-49, hiver 1914-1915 -> veille du Jour Promis : galeries de
@@ -207,10 +207,9 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
 
 ## Points de vigilance (à trancher en écrivant les roadmaps concernées)
 - Statut de sacrifice de Rhea : TRANCHÉ en R12, DÉTONÉ en R13.
-- Contentieux Scar : DÉTONÉ en R10, aux deux sœurs ensemble. Pardon de Winry
-  posé en R11 (Baschool) ; Rhea n'est pas tenue de pardonner (réparation dans
+- Contentieux Scar : DÉTONÉ en R10, aux deux sœurs ensemble. Geste de Winry
+  posé en R11b (Baschool : elle panse ses plaies, sans mot de pardon) ; Rhea n'est pas tenue de pardonner (réparation dans
   la durée) : la suite avec Scar se joue en R12-R13 (il rejoint Ed à Kanama, la veille du Jour Promis).
 - Réconciliation Rhea/Al : FRAÎCHE au départ (charnière), consolidée au fil du canon.
-- [INCERTAIN] Numéro de l'ordre d'extermination d'Ishval (3066 / 306) : non tranché.
 
 FIN_GARDE_CAP_RHEA

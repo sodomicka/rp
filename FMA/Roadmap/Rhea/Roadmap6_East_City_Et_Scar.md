@@ -1,6 +1,6 @@
 # Roadmap 6 - East City et Scar
 
-- version : W4
+- version : W5
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : une à deux semaines (1914) : quelques jours à East City (le canon dit « les jours suivants » chez Tucker, sans les chiffrer), la pluie le lendemain du meurtre de Tucker, le train avec Armstrong et l'arrêt chez Marcoh, trois jours à Resembool (ch. 9), le départ à l'aube vers Central
@@ -61,7 +61,7 @@ Toutes en présence de Rhea ; aucune ne relie Scar aux Rockbell.
 ## Lieux et objets
 - East City - ville de garnison de l'Est, QG de Mustang - non fiche (BIBLE SB6).
 - Maison et laboratoire de Tucker - dans East City.
-- Village de Marcoh - village de l'Est sur la ligne de Resembool, non nommé [INCERTAIN].
+- Village de Marcoh - village de l'Est sur la ligne de Resembool ; Marcoh y soigne sous le nom de « docteur Mauro » (ép. 6). Le village n'est pas nommé à l'écran : le MJ ne le nomme pas.
 - Resembool, maison et atelier Rockbell, tombe de Trisha - cf. Lieux/Resembool.md
 - Bras d'automail d'Ed - détruit par Scar, refait par Winry et Pinako sur un métal forgé avec Rhea - cf. Systemes/Automail.md
 - Armure d'Al - détruite puis reconstruite par Rhea, sceau intouché - cf. Personnages/Alphonse_Elric.md

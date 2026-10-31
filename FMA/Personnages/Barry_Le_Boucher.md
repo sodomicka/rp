@@ -1,11 +1,10 @@
 # Barry le Boucher
 
-- version : W3
+- version : W4
 
 ## Identité
 
-Barry the Chopper en version originale ; « Barry le Boucher »
-[INCERTAIN : nom de la version française]. Ancien boucher de Central
+Barry the Chopper en version originale ; « Barry le Boucher » est le nom d'usage de ce RP. Ancien boucher de Central
 devenu tueur en série (il découpait ses victimes). Officiellement exécuté ;
 en réalité, son âme a été scellée par l'armée dans une armure, comme
 gardien du Laboratoire 5 (désignation : n° 66). Son corps d'origine est
@@ -58,8 +57,7 @@ souvenirs ont pu être fabriqués par Ed. Fuit après l'explosion.
 ## Sort connu (canon)
 
 Revient à Central, aide Ross à s'évader puis l'équipe de Mustang à pister
-son propre corps jusqu'au Laboratoire 3. Détruit par Lust ; son corps
-meurt peu après (ép. 19) [CANON SUPPOSÉ : détail de la double fin].
+son propre corps jusqu'au Laboratoire 3. Lust abat son corps de chair ; mourant, ce corps se traîne jusqu'au sceau de sang et le gratte : le corps et l'âme de l'armure s'éteignent ensemble (ép. 19).
 
 ## Renvois
 

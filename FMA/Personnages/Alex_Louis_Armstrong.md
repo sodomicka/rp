@@ -1,6 +1,6 @@
 # Alex Louis Armstrong
 
-- version : W9
+- version : W10
 
 ## Identité
 
@@ -32,10 +32,10 @@ gantelets) : pas de sans-cercle.
 
 ## Histoire (jusqu'au point de départ du RP)
 
-Guerre d'Ishval : déployé comme Alchimiste d'État ; incapable de continuer
-le massacre, il est renvoyé du front [CANON SUPPOSÉ : rapatrié pour
-avoir refusé de poursuivre]. En garde une honte et une compassion durables envers les
-Ishvals.
+Guerre d'Ishval : déployé comme Alchimiste d'État ; incapable de commettre
+les atrocités de la campagne. En garde une honte durable, moins d'avoir
+failli aux ordres que de s'être tu sur leur cruauté, et une compassion
+envers les Ishvals. Son refus de tuer lui a coûté des promotions.
 1914 : envoyé avec Hughes, sur ordre du Généralissime, traquer le tueur
 d'Alchimistes d'État dans l'Est.
 
@@ -59,11 +59,15 @@ d'Alchimistes d'État dans l'Est.
   interdit de poursuivre après le décodage des notes de Marcoh ; désobéi la
   nuit du Laboratoire 5. Garde l'hôpital. Détail : cf.
   Roadmap/Rhea/Roadmap7_Laboratoire_5.md.
+- 1914 (R9) : escorte Bradley au raid du Devil's Nest ; reconnaît en Roa un
+  ancien camarade d'Ishval ; ouvre l'armure d'Al pour en sortir le corps de
+  Martel. Rhea, tenue dehors, le voit passer. Détail : cf.
+  Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md.
 - 1914 (R10) : après le « meurtre » de Ross, menotte Ed à l'hôtel et
   l'embarque seul pour Resembool, « réparer l'automail » (couverture du plan
   de Mustang, puis Xerxès) ; refuse Rhea dans le voyage.
   Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
-- 1914 (R11a) : apprend de Mustang ce qu'est Bradley ; transmet aux frères le renseignement de Grumman sur May et une lettre pour sa sœur Olivier, à Briggs. Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md.
+- 1914 (R11a) : glisse aux frères que May est partie vers le Nord et leur remet une lettre scellée pour sa sœur Olivier, à Briggs (ép. 32, ch. 64). Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md.
 - 1915 (R13) : tue Sloth avec sa sœur, loin de Rhea ; à la surface contre Père, avec Rhea. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 
 ## Sort connu (canon)

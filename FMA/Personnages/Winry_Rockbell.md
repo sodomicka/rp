@@ -1,6 +1,6 @@
 # Winry Rockbell
 
-- version : W21
+- version : W22
 
 ## Identité
 
@@ -93,8 +93,8 @@ Sororité fusionnelle avec la protagoniste (jumelles après 1909). Winry connaî
   Ed l'amène à lâcher l'arme (ses mains sont faites pour donner la vie).
   Bradley lui tient compagnie, Rhea présente ; un appel de Garfiel, et elle
   repart seule pour Resembool (ch. 45, 48), où l'attend Monsieur Lapinou.
-  Sur le quai, Ed lui promet des larmes de joie. Le pardon à Scar vient à
-  Baschool (R11b).
+  Sur le quai, Ed lui promet des larmes de joie. Le geste envers Scar vient à
+  Baschool (R11b) : elle panse ses plaies.
 - 1914 (R11a-R11b) : otage de Bradley pour tenir Ed, sans le savoir d'abord, à Resembool puis de nouveau à Rush Valley (ép. 33) ; Rhea ne lui ment pas (appel au choix du joueur, sinon Rhea le lui dit à Briggs si elle demande ; les pages ne disent pas qu'elle l'apprend). Cueillie au pied de la montagne et amenée à Briggs par Kimblee (ch. 70) ; retrouvailles avec Rhea. Refait l'automail d'Ed pour le froid, Rhea au métal. À Baschool, confronte Scar avec Rhea à ses côtés, invente la ruse de l'enlèvement à l'explosion de Kimblee et part avec le groupe de Scar, Rhea avec elle ; dans la planque, panse ses plaies, ce qu'auraient fait ses parents (ép. 39).
 - 1914-1915 (R12) : dans les galeries, la maison abandonnée, puis Asbec, refuge ishval, avec Rhea ; Liore, où Rose lui prête des vêtements. Les 17 ans de Rhea. Un train de Briggs la ramène à Resembool la veille du Jour Promis, cachée dans une citerne ; retrouve Ed vivant ; à son conseil de fuir le pays, s'emporte et exige qu'il revienne avec ses deux frères entiers ; règle son bras, Rhea au métal. Apprend de Rhea qu'elle est un sacrifice valable. Dernier rituel avec Monsieur Lapinou ; reste à Resembool, Rhea repart avec Ed la nuit même (cinquième séparation). Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : à Resembool avec Monsieur Lapinou, loin de Rhea. Ce qu'elle a vécu à l'éclipse (son âme prise et rendue), elle le dit à Rhea en R14. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.

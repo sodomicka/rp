@@ -1,17 +1,17 @@
 # Rose Thomas
 
-- version : W4
+- version : W5
 
 ## Identité
 
 Jeune femme de Liore, ville du désert de l'Est. Fidèle du culte de Léto, le
-dieu-soleil, tel que le prêche le père Cornello. Âge : [INCERTAIN] (jeune
-adulte, à peu près l'âge des Elric ou un peu plus en 1914).
+dieu-soleil, tel que le prêche le père Cornello. Âge : 17-18 ans en 1914,
+un peu plus que les Elric.
 
 ## Physique
 
-Cheveux bruns, mèche rose sur le devant [INCERTAIN : couleur exacte de la
-mèche]. Tenue simple de ville du désert. Rien qui la distingue d'une
+Cheveux noirs, mèche rouge sombre sur le devant (couleurs de Brotherhood,
+qui fait le rail ; rose pastel dans les couleurs d'Arakawa). Tenue simple de ville du désert. Rien qui la distingue d'une
 habitante de Liore, sinon sa ferveur.
 
 ## Personnalité

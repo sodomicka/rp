@@ -1,6 +1,6 @@
 # Dominic LeCoulte
 
-- version : W3
+- version : W4
 
 ## Identité
 
@@ -11,15 +11,15 @@ apprenti.
 
 ## Physique
 
-Vieil homme massif et bourru, moustache épaisse [CANON SUPPOSÉ]. Mains
-d'artisan.
+Vieux mécanicien bourru, à l'abord revêche. Mains d'artisan.
 
 ## Personnalité
 
 Grincheux, avare de mots, intransigeant sur l'usage de ses pièces : il
 refuse de vendre un bras de combattant à qui n'en a pas besoin. Cœur
 caché : a fait les jambes de Paninya pour rien et refuse son argent volé.
-A connu Pinako Rockbell (« la Panthère de Resembool ») et en garde une
+A connu Pinako Rockbell (« la Panthère de Resembool », Pantheress of
+Resembool en VO) et en garde une
 peur comique : le nom Rockbell le fait sursauter.
 
 ## Capacités
@@ -29,8 +29,8 @@ une jambe, réalisé chez Paninya). Pas d'alchimie.
 
 ## Histoire (jusqu'au point de départ du RP)
 
-Carrière ancienne à Rush Valley [INCERTAIN : durée]. Croise Pinako à une
-époque non précisée. Équipe Paninya après son accident de train.
+Carrière ancienne à Rush Valley (le canon n'en donne pas la durée). Croise
+Pinako à une époque non précisée. Équipe Paninya après son accident de train.
 
 ## Famille
 

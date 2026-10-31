@@ -1,6 +1,6 @@
 # Sheska
 
-- version : W2
+- version : W3
 
 ## Identité
 
@@ -8,7 +8,7 @@ Ancienne employée de la première annexe de la bibliothèque nationale de
 Central, renvoyée parce qu'elle lisait au lieu de travailler. Rat de
 bibliothèque à mémoire totale. Vit avec sa mère, malade,
 hospitalisée ; Sheska ne peut pas payer ses soins (Ed paiera). Âge : jeune adulte
-[INCERTAIN : âge exact].
+(le canon ne le chiffre pas).
 
 ## Physique
 
@@ -32,7 +32,8 @@ Copiste rapide (quelques jours pour l'ensemble des notes de Marcoh).
 ## Histoire (jusqu'au point de départ du RP)
 
 A lu, avant l'incendie de la première annexe, les recherches de Tim Marcoh
-classées là ; renvoyée avant ou autour de l'incendie [INCERTAIN].
+classées là ; renvoyée pour avoir lu au lieu de travailler ; le canon ne situe pas ce
+renvoi par rapport à l'incendie, et la trame n'en dépend pas.
 1914 : retrouvée par les Elric (sur indication de Ross et Brosh), recopie
 de tête les notes de Marcoh. Ed la paie de sa poche, assez pour les soins
 de sa mère.
