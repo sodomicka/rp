@@ -438,10 +438,6 @@ pas les re-litiger. JAMAIS fetché en narration.
   la tombe de Trisha (ép. 63) ; Pinako l'annonce, qui l'a trouvé n'est pas
   dit.
 
-## Questions en attente du worldbuilder
-- Beats d'école optionnels en R1 et R2 : rédigés, à valider par le
-  worldbuilder avant fusion.
-
 ## À verser au CODEX à la bascule jeu
 - IRONIE Mustang/Riza (R3, 1910) : Rhea traite Mustang de "génocidaire" sans
   savoir que Mustang ET Riza ont haï Ishval et portent, d'un autre bord, la
