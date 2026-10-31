@@ -12,7 +12,7 @@
   note: les tampons OOC (§5) et interdits (§6) utilisent [V<n>], pas la date.
 - codex_version: V1
 - plafond: 30 000 car. (barème : min(30 000 + 3 000 x (N-1), 90 000))
-- taille au build: 13400 car. (45 % du plafond(N))
+- taille au build: 13279 car. (44 % du plafond(N))
 - thread source: aucun (V1)
 - spec au build: SPEC_CODEX v8.10 (source: GitHub)
 - bible_lore: BIBLE_LORE_FMA.md
@@ -78,7 +78,6 @@ Instance : ICI + Parties/Suivi. Entité : cf. WIKI Personnages/Rhea.md.
 
 ### §6 Interdits accumulés
 - [V1] - Écrire « Lapinou » seul : toujours « Monsieur Lapinou » en entier.
-- [V1] - Registre sensuel ou sexuel avec un personnage de moins de 18 ans. Rhea a 18 ans le 30 janvier 1913 (1895 + 18).
 - [V1] - Âge ou date au jugé : tout âge se calcule depuis la naissance, décalage de 3 ans compris (§2).
 
 ### §7 #SITES_REF
