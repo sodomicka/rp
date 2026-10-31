@@ -31,7 +31,7 @@ Corps compact et musclé (entraînement spartiate d'Izumi : « entraîner le cor
 
 Père parti tôt. Mort de Trisha (1904). Apprentissage chez Izumi Curtis (1909, six mois).
 1910 : transmutation humaine ratée de Trisha avec Al -> perd la jambe gauche ; scelle l'âme d'Al dans une armure au prix de son bras droit.
-1911 : examen d'État (12 ans) ; incendie de la maison familiale (3 octobre 1911 [CANON SUPPOSÉ], date gravée dans sa montre) et départ pour la quête APRÈS l'examen.
+1911 : examen d'État (12 ans) ; incendie de la maison familiale (3 octobre 1911 ; gravé dans sa montre : « N'oublie pas 3 Oct. 11 ») et départ pour la quête APRÈS l'examen.
 Quête : restaurer leurs corps via la Pierre philosophale.
 
 ## Relations (neutres)

@@ -12,7 +12,7 @@
   - Rhea a vu Père, l'éclipse, et le pays-cercle se refermer puis se rouvrir ;
   - Bradley, Envy, Sloth, Kimblee et Greed morts ; Pride réduit à un nourrisson (hors POV) ;
   - Mustang aveugle (canon) ou voyant (Rhea cinquième sacrifice) ;
-  - Al a retrouvé le sans-cercle avant de disparaître [CANON SUPPOSÉ : claquement de mains après la Porte de l'ép. 59].
+  - Al a retrouvé le sans-cercle avant de disparaître (claquement de mains après la Porte de l'ép. 59).
 - roadmap précédente : cf. WIKI Roadmap/Rhea/Roadmap12_Convergence.md
 - roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md, une seule roadmap pour les deux états de la Bifurcation.
 
@@ -90,7 +90,7 @@ Le jour où la machine qu'elle hait montre ce qu'elle est : un cercle, et des so
 - Témoins du Jour Promis : Pride et Bradley au jalon 4H (bascule possible) ; Envy au jalon 2 meurt sans revoir Père : pas le temps d'en faire rapport, rien ne remonte (règle de R12). Après la transmutation de Mustang, Père a ses cinq : plus de bascule.
 - Silence de Mustang (1910) : ne détone pas en R13, il n'a ni le temps ni l'envie de s'en vanter. Ironie au CODEX ; « repérée », elle lui rend la vue sans le savoir. Détonation possible en R14.
 - Mustang voyant : il combat Père sans Riza pour viser ; le reste suit le canon.
-- Al : à la Porte (ép. 59), il voit son corps et en revient avec le sans-cercle [CANON SUPPOSÉ]. Pour Rhea, il a enfin la compensation, et il la rend aussitôt avec son âme. Le nœud est au plus tendu, rien ne se dit.
+- Al : à la Porte (ép. 59), il voit son corps et en revient avec le sans-cercle. Pour Rhea, il a enfin la compensation, et il la rend aussitôt avec son âme. Le nœud est au plus tendu, rien ne se dit.
 - Winry : hors POV, son âme est prise et rendue à l'éclipse ; Rhea ne le sait qu'en R14.
 - Sans alchimie (jalon 6) : Rhea est une fille borgne et anosmique dans un champ de bataille ; Cliquetis dans la poche.
 - Scar : allié d'Ed dans les tunnels, puis seul face à Bradley. Le pardon reste celui de Winry.

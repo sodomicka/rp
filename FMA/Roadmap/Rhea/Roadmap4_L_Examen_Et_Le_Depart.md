@@ -1,6 +1,6 @@
 # Roadmap 4 - L'examen et le départ
 
-- version : W4
+- version : W5
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (13 -> 16 ans), POV strict
 - échelle temporelle : ~2 ans et demi (automne 1911 -> 1914) : quelques jours en 1911 (la nouvelle, l'incendie, le quai), une ellipse de ~2 ans et demi en vignettes, quelques jours en 1914 (le retour, la proposition, la veille, le départ)
@@ -20,7 +20,7 @@ Trois ans de froid, puis le dégel forcé. Rhea regarde les frères brûler leur
 
 ## Itinéraire (jalons)
 1. La nouvelle [automne 1911] : maison Rockbell. Ed a réussi l'examen d'État à Central : plus jeune Alchimiste d'État de l'histoire, le Fullmetal. Examen hors-champ POV Rhea : la nouvelle arrive, puis Ed revient avec sa montre d'argent. Pour Rhea, un ami d'enfance vient de devenir une arme de l'armée qui a tué Sarah et Yuri. Avance au retour d'Ed à Resembool.
-2. L'incendie [une nuit, 3 octobre 1911 [CANON SUPPOSÉ]] : maison Elric. Ed et Al brûlent leur maison pour ne plus pouvoir revenir en arrière. Rhea regarde avec Winry et Pinako. Le sous-sol où elle a achevé la-chose-qui-n'est-pas-Trisha part en fumée avec le reste. Silence maintenu. Avance quand la maison est consumée.
+2. L'incendie [une nuit, 3 octobre 1911] : maison Elric. Ed et Al brûlent leur maison pour ne plus pouvoir revenir en arrière. Rhea regarde avec Winry et Pinako. Le sous-sol où elle a achevé la-chose-qui-n'est-pas-Trisha part en fumée avec le reste. Silence maintenu. Avance quand la maison est consumée.
 3. Le quai [le lendemain] : gare de Resembool. Les frères partent pour leurs premières missions. Pas un mot d'adieu de Rhea. Avance au départ du train -> ouvre l'ellipse.
 4. Le froid [SNAPSHOTS - ~2 ans et demi, fin 1911 -> 1914] : Resembool. Vignettes :
    - Ed revient ponctuellement pour l'entretien de son automail ; Rhea bosse dessus en silence, à contrecœur, toujours sans un mot au « client ».

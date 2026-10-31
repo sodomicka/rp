@@ -79,7 +79,7 @@ build seulement : jamais indexé au Sommaire, jamais fetché en narration.
 - date : automne 1911 -> 1914 (13 -> 16 ans)
 - contenu : examen d'État d'Ed à Central (hors-champ POV Rhea : la nouvelle,
   puis le retour avec la montre) ; incendie de la maison Elric (3 octobre
-  1911 [CANON SUPPOSÉ]), Rhea témoin ; départ des frères du quai sans un mot.
+  1911), Rhea témoin ; départ des frères du quai sans un mot.
   Le froid 1911-1914 en SNAPSHOTS : Ed revient pour l'entretien, Rhea bosse en
   silence à contrecœur ; Winry entraîne le filtre et rêve de Rush Valley ;
   Rhea stagne. 1914 : retour des frères, automail amoché ; piste solide sur

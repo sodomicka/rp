@@ -41,6 +41,7 @@
 - Péages canon : Ed (jambe = péage de la Porte ; bras = prix séparé du scellement d'Al), Al (corps entier), Izumi (organes), Mustang (vue).
 - Le péage peut toucher les fonctions cognitives : cas du RP (Rhea : œil droit + cortex orbitofrontal). Cohérent avec le péage-désir, pas une contradiction. detail: cf. WIKI Personnages/Rhea.md
 - Survivre à la Porte confère : transmutation sans cercle (le corps devient le cercle, claquement de mains) + aperçu du savoir, À CONDITION d'en garder le souvenir.
+- C'est l'ÂME qui porte la Vérité vue : métal ou chair, peu importe (décision worldbuilder). Al, qui retrouve la Porte à l'ép. 59, garde le sans-cercle dans son corps rendu (R14).
 - Contre-exemple canon (ép. 2) : Alphonse, corps entier prélevé, revient SANS souvenir de la Porte -> PAS de sans-cercle. Le sang de Martel lui rend ses souvenirs de la nuit de 1910 (ép. 14), pas le savoir de la Porte. Il recouvre la capacité en repassant la Porte comme sacrifice, le Jour Promis (ép. 59) [CANON SUPPOSÉ]. La transmutation humaine reste impossible même après.
 - Sacrifice humain = alchimiste ayant ouvert la Porte et survécu. Convoité par les homonculus : cinq requis pour le Jour Promis.
 - Pierre philosophale : condensat d'âmes humaines. Amplifie l'alchimie, paie le péage à la place de l'alchimiste, alimente les homonculus. Fabrication = meurtre de masse.
@@ -87,7 +88,7 @@
 | 1909 | Apprentissage des Elric chez Izumi Curtis à Dublith (Ed 10 ans, Al 9 ans, six mois) | Retour fin 1909 ; Izumi sait par eux qu'une gamine transmute sans cercle |
 | 1909 | Nouvelle des Rockbell à Resembool ; dévastation d'Ishval | Deuil de Winry et de Rhea ; naissance de l'antimilitarisme de Rhea |
 | 1910 | Transmutation humaine ratée des Elric (de nuit, sans prévenir Rhea) ; visite de recrutement de Mustang à Resembool | Ed perd jambe (péage) et bras (scellement d'Al) ; Al perd son corps ; Rhea achève la chose et coupe les ponts ; Mustang repère la troisième sans-cercle sur place ; décision d'automail (défi d'Ed : un an). cf. WIKI Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md |
-| 1911 | Fin de rééducation d'Ed (défi tenu) ; examen d'État (12 ans) ; incendie de la maison Elric (3 octobre [CANON SUPPOSÉ]) ; départ pour la quête | Plus jeune Alchimiste d'État ; silence Rhea/Elric jusqu'en 1914. cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md |
+| 1911 | Fin de rééducation d'Ed (défi tenu) ; examen d'État (12 ans) ; incendie de la maison Elric (3 octobre) ; départ pour la quête | Plus jeune Alchimiste d'État ; silence Rhea/Elric jusqu'en 1914. cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md |
 | 1914 | Retour des frères à Resembool ; révélation du 1903 de Rhea aux Elric ; Rhea part avec eux vers Liore | Réconciliation fraîche et fragile. cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md |
 | 1914 | Liore : Ed démasque Cornello, fausse Pierre ; Cornello tué par Lust et Gluttony (hors POV Rhea) | Première ville canon ; carte de Winry en échec. cf. WIKI Roadmap/Rhea/Roadmap5_Liore.md |
 | 1914 | East City : Tucker et Nina ; Scar tue Tucker, brise le bras d'Ed et l'armure d'Al ; retour à Resembool | Rhea face à Scar sans savoir qu'il a tué ses parents. cf. WIKI Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md |
@@ -107,7 +108,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 
 ### Notes
 - Cap des roadmaps (16, R0 à R14 dont R11a et R11b, Porte 1903 -> retour à Resembool 1915) : cf. WIKI Roadmap/Rhea/00_Garde_Cap.md. État d'avancement du chantier : cf. _Implications.md.
-- Incendie de la maison Elric : 1911, APRÈS l'examen d'État (examen -> incendie -> départ pour la quête). La montre d'Ed porte la date gravée (vérifié ép. 11 : Winry la voit à Rush Valley) ; le 3 octobre reste [CANON SUPPOSÉ : texte exact].
+- Incendie de la maison Elric : 1911, APRÈS l'examen d'État (examen -> incendie -> départ pour la quête). La montre d'Ed porte, gravé à l'intérieur, « N'oublie pas 3 Oct. 11 » (vu par Winry à Rush Valley, ép. 11).
 - [INCERTAIN] Numéro de l'ordre d'extermination d'Ishval : "3066" ou "306" selon les sources. Non tranché.
 - Parents Rockbell (Sarah, Yuri) : missions humanitaires ponctuelles depuis 1901 ; présents à l'arrivée de Rhea (1903) ; dernier départ 1907 ; tués par Scar 1908 ; nouvelle reçue à Resembool 1909.
 - Année exacte de destruction de Xerxès : [INCERTAIN] (~400 ans avant la trame).

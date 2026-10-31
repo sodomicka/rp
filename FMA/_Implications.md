@@ -34,8 +34,8 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Chronologie recalée au build B3 (patch A) : apprentissage Izumi = 1909
   (Ed 10 ans, Al 9 ans, six mois, retour fin 1909) ; incendie de la maison
   Elric = 1911, APRÈS l'examen d'État (examen -> incendie -> départ pour la
-  quête). Probablement conforme au canon (3 octobre 1911, date gravée
-  dans la montre d'Ed [CANON SUPPOSÉ], build B8).
+  quête). Montre d'Ed : gravé « N'oublie pas 3 Oct. 11 » (worldbuilder,
+  2026-10-31).
 - MÉTHODE ÉPISODE PAR ÉPISODE (décision worldbuilder, build B4) : les pages
   épisodes du wiki fandom sont une source de vérification riche (synopsis
   détaillés, chapitres manga adaptés). À DÉROULER au fil des roadmaps via le
@@ -300,14 +300,11 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Réconciliation Rhea/Al (R4 -> R14) : vérifier à la relecture croisée que
   la carte d'Al et la dissonance anti-Alan progressent sans saut d'une
   roadmap à l'autre jusqu'à la déclaration (R14).
-- Al et le claquement de mains après le retour de son corps (R14) :
-  [INCERTAIN], sans effet sur la trame jouée (il garde l'alchimie, tranché).
-- [CANON SUPPOSÉ] laissés en l'état (worldbuilder, 2026-10-31 : non
-  confirmables sans fandom, bloqué depuis l'environnement) : texte gravé
-  dans la montre (3 octobre 1911), claquement de mains d'Al après l'ép. 59,
-  lieu de réapparition du corps d'Al (cour du QG), enterrement de Hughes
-  pendant l'accouchement (R8), parents de Paninya, prénom Satella, mère de
-  Sheska, durées internes des arcs, lieux non nommés.
+- [CANON SUPPOSÉ] restants : durées internes des arcs, lieux non nommés
+  (cales de build). Soldés le 2026-10-31 par le worldbuilder : montre,
+  claquement d'Al (l'âme porte la Vérité, métal ou chair), corps d'Al dans
+  la cour du QG, Hughes/accouchement en [INTERPRÉTATION], Paninya, Satella,
+  Sheska.
 
 ## À verser au CODEX à la bascule jeu
 - IRONIE Mustang/Riza (R3, 1910) : Rhea traite Mustang de "génocidaire" sans
