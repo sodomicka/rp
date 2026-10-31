@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W24
+- version : W25
 
 ## Identité
 
@@ -442,7 +442,7 @@ partie.
   métal partout, agoraphobie au plus haut ; Winry en bouclier, Al pour
   ouvrir la foule. Paninya vole la montre d'Ed ; Dominic LeCoulte refuse
   Winry et sursaute au nom Rockbell. Winry voit dans la montre la date de
-  l'incendie et le dit à Rhea, qui y était. Nuit d'orage : Winry accouche
+  l'incendie, le dit à Rhea, qui y était, puis l'avoue à Ed. Nuit d'orage : Winry accouche
   Satella ; Rhea, sans toucher l'organique, voit un corps arriver avec son
   âme, l'inverse de 1903. Winry reste chez Garfiel, sans Monsieur Lapinou :
   troisième séparation, la première loin de Resembool. Rhea repart vers

@@ -1,6 +1,6 @@
 # Sommaire - FMA
 
-- version : W26
+- version : W27
 
 ## WIKI
 
@@ -33,10 +33,10 @@ Description : géographie narrative du RP.
 ### Personnages/
 Description : fiches neutres canon des entités qui pèsent sur le RP, plus la protagoniste OC.
 - Pinako_Rockbell.md (W5) - matriarche, sauveuse et figure fondatrice de la protagoniste ; l'exhumation avec Ed (R10, hors POV) ; Resembool avant le Jour Promis (R12) ; annonce la mort de Hohenheim, la maison rouverte (R14)
-- Winry_Rockbell.md (W15) - mécanicienne prodige, sœur fusionnelle de la protagoniste ; apprend avec elle que Scar a tué ses parents (R10) ; otage de Bradley (R11a), amenée à Briggs par Kimblee, la ruse de l'enlèvement, pardonne à Scar (R11b) ; Liore, refuse de fuir, reste à Resembool (R12) ; âme prise et rendue à l'éclipse, hors POV (R13) ; accueille les frères à Resembool, l'éclipse dite, Monsieur Lapinou reste à elle (R14)
+- Winry_Rockbell.md (W16) - mécanicienne prodige, sœur fusionnelle de la protagoniste ; apprend avec elle que Scar a tué ses parents (R10) ; otage de Bradley (R11a), amenée à Briggs par Kimblee, la ruse de l'enlèvement, pardonne à Scar (R11b) ; Liore, refuse de fuir, reste à Resembool (R12) ; âme prise et rendue à l'éclipse, hors POV (R13) ; accueille les frères à Resembool, l'éclipse dite, Monsieur Lapinou reste à elle (R14)
 - Sarah_Rockbell.md (W1) - chirurgienne, mère adoptive de la protagoniste, morte à Ishval
 - Yuri_Rockbell.md (W1) - chirurgien, père adoptif de la protagoniste, mort à Ishval
-- Edward_Elric.md (W14) - Fullmetal Alchemist, ami d'enfance, transmutation cachée de 1910, recrute Rhea en 1914 ; bras brisé par Scar (R6), Laboratoire 5 (R7), montre volée à Rush Valley (R8), Greed et Ling (R9), Resembool et le piège à Scar (R10), ventre de Gluttony, Père, otage par Winry, Briggs (R11a-R11b) ; empalé dans la mine, Resembool, automail au carbone, bidonville (R12) ; sacrifice, Pride, le poing contre Père (R13) ; paie le retour d'Al avec sa Porte, sans alchimie (R14)
+- Edward_Elric.md (W15) - Fullmetal Alchemist, ami d'enfance, transmutation cachée de 1910, recrute Rhea en 1914 ; bras brisé par Scar (R6), Laboratoire 5 (R7), montre volée à Rush Valley (R8), Greed et Ling (R9), Resembool et le piège à Scar (R10), ventre de Gluttony, Père, otage par Winry, Briggs (R11a-R11b) ; empalé dans la mine, Resembool, automail au carbone, bidonville (R12) ; sacrifice, Pride, le poing contre Père (R13) ; paie le retour d'Al avec sa Porte, sans alchimie (R14)
 - Alphonse_Elric.md (W16) - âme scellée dans l'armure, ami d'enfance ; PAS de sans-cercle (aucun souvenir de la Porte) ; doute d'être une âme (R7) ; souvenirs de 1910 rendus par le sang de Martel (R9) ; seul relais de Rhea sans Ed (R10) ; son corps vu devant la Porte par Ed (R11a) ; démonté et remonté par Rhea, Hohenheim, enfermé avec Pride sous le dôme (R12) ; sans-cercle retrouvé, échange son âme contre le bras d'Ed (R13) ; corps rendu, garde l'alchimie et le sans-cercle, la déclaration réciproque avec Rhea (R14)
 - Trisha_Elric.md (W1) - mère Elric, morte en 1904, parallèle thématique
 - Van_Hohenheim.md (W5) - Pierre vivante, père absent des Elric ; sur la tombe de Trisha (R10, hors POV) ; Liore, Jour Promis et sacrifices dits à Al et Rhea, le dôme (R12) ; absorbé, contre-cercle (R13) ; offre refusée, mort sur la tombe de Trisha (R14)
@@ -61,11 +61,11 @@ Description : fiches neutres canon des entités qui pèsent sur le RP, plus la p
 - Maria_Ross_Et_Denny_Brosh.md (W3) - gardes du corps des Elric à Central (R7) ; Ross accusée du meurtre de Hughes, « brûlée » par Mustang, vivante (R10) ; Ross revient avec des armes (R13)
 - Barry_Le_Boucher.md (W2) - tueur en série, âme scellée dans une armure, miroir inversé d'Al (R7) ; évasion de Ross, mort au Laboratoire 3 (R10)
 - Paninya.md (W2) - pickpocket aux jambes d'automail de Rush Valley, vole la montre d'Ed (R8)
-- Dominic_LeCoulte.md (W2) - maître d'automail reclus, refuse Winry, famille LeCoulte, l'accouchement (R8)
+- Dominic_LeCoulte.md (W3) - maître d'automail reclus, refuse Winry, famille LeCoulte, l'accouchement (R8)
 - Izumi_Curtis.md (W4) - maîtresse des Elric (1909), miroir thématique du deuil-transmutation ; sait dès 1909 qu'une gamine transmute sans cercle ; rencontre Rhea à Dublith (R9) ; sacrifice au Jour Promis (R13)
 - Greed.md (W5) - homonculus déserteur, Bouclier ultime, sa bande de chimères (Martel, Dolcetto, Roa, Bido) ; raid du Devil's Nest (R9) ; allié d'Ed dans Ling (R12) ; carbonise Père, s'éteint (R13)
 - Ling_Yao.md (W7) - prince de Xing en quête d'immortalité, sa garde Lan Fan et Fu ; Rush Valley (R9) ; piège à Scar, capture de Gluttony, démasque Bradley (R10) ; devient Greed (R11a, hors POV) ; Greed allié d'Ed, Lan Fan revenue avec un automail (R12) ; mort de Fu, Greed le quitte (R13) ; retour à Xing, futur empereur (R14)
-- Rhea.md (W24) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (1910 -> retour à Resembool, printemps 1915) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises, agoraphobie, pudeur a posteriori), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
+- Rhea.md (W25) - protagoniste OC ; noyau 1903-1909 + Implications d'arc et Trajectoire datée (1910 -> retour à Resembool, printemps 1915) ; syndrome COF bilatéral détaillé (empathie, filtre prothétique, littéralité, anosmie, crises, agoraphobie, pudeur a posteriori), nœud Rhea/Al en dissonance, antimilitarisme, famille Rockbell + frère Alan (défunt)
 
 ### Roadmap/Rhea/
 Description : itinéraires par arc, dans l'ordre de la saga, par perspective de la protagoniste. La roadmap en cours est fetchée à l'ouverture de chaque thread de jeu (désignée par le CODEX).
@@ -77,7 +77,7 @@ Description : itinéraires par arc, dans l'ordre de la saga, par perspective de 
 - Roadmap5_Liore.md (W3) - 1914, quelques jours : premier voyage sans Winry, Liore et Cornello, Rose en miroir du 1903, l'audience et le casque d'Al, le haut-parleur, fausse Pierre, la ville se soulève, échec de la carte de Winry, Cliquetis éprouvé ; modes d'étape, l'appel, tranches de vie du voyage
 - Roadmap6_East_City_Et_Scar.md (W3) - 1914, une à deux semaines : Mustang revu, Tucker et Nina, Scar sous la pluie brise Ed et Al (sans révélation sur les Rockbell), Mustang raconte Ishval et sa part, armure d'Al refaite par Rhea, Armstrong, Marcoh et sa Pierre incomplète, trois jours à Resembool et second départ ; modes d'étape, la tombe de Trisha, tranches de vie
 - Roadmap7_Laboratoire_5.md (W4) - 1914, ~3 semaines : Central, Sheska et les notes de Marcoh (la Pierre = vies humaines), Laboratoire 5 (Rhea dehors avec Al, Barry), Winry et le boulon, anniversaire d'Elicia avec Winry, doute d'Al et combat sur le toit, visite de Bradley, départ vers le Sud ; modes d'étape, tranches de vie
-- Roadmap8_Rush_Valley.md (W3) - 1914, ~3 jours : la ville du rêve de Winry, foule pour Rhea, Paninya et la montre (la date de l'incendie), Dominic refuse Winry, accouchement pendant l'orage, Winry reste chez Garfiel ; Rhea repart vers Dublith
+- Roadmap8_Rush_Valley.md (W4) - 1914, deux jours environ : la ville du rêve de Winry, foule pour Rhea, Paninya et la montre (la date de l'incendie, avouée à Ed), Dominic refuse Winry, le pont foudroyé, accouchement pendant l'orage, Winry reste et sera confiée à Garfiel ; Rhea repart vers Dublith ; modes d'étape, tranches de vie
 - Roadmap9_Dublith_Izumi_Et_Greed.md (W3) - 1914, ~10 jours : Izumi (aveu des frères, le miroir sans carte), Al enlevé par les chimères de Greed, raid de Bradley (Rhea dehors), le sang de Martel rend à Al la nuit de 1910 ; retour à Rush Valley, Winry, Ling Yao, Lan Fan et Fu ; départ pour Central
 - Roadmap10_Central_Hughes_Et_Scar.md (W3) - 1914, ~2 semaines : retour à Central, mort de Hughes (Gracia, Elicia), Ross « brûlée » par Mustang, Ed seul à Resembool (hors POV : Xerxès, Hohenheim, l'exhumation), la chose de 1910 n'était pas Trisha, piège à Scar : Rhea et Winry apprennent ensemble qu'il a tué leurs parents ; Winry repart pour Rush Valley ; Ling démasque Bradley
 - Roadmap11a_Central_La_Fausse_Porte.md (W1) - fin 1914, ~1 semaine : Gluttony se transforme (Rhea part avec Knox), les frères reviennent du repaire de Père (Ling devenu Greed, corps d'Al vu, Envy et Ishval, Winry otage), Riza raconte Ishval, 520 cens, dîner chez les Bradley ; départ pour le Nord

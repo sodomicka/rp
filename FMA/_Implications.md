@@ -6,7 +6,7 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B21 + reprise R5-R7 (Sommaire W26, 2026-10-31)
+- dernière mise à jour : BIBLE B21 + reprise R5-R8 (Sommaire W27, 2026-10-31)
 
 ## État d'avancement du chantier
 - Passe 2 : TOUTES les roadmaps ÉCRITES, R0 à R14 (1903 -> retour à
@@ -14,10 +14,10 @@ pas les re-litiger. JAMAIS fetché en narration.
 - REPRISE R5-R14 EN SÉRIE (worldbuilder, 2026-10-31) : une roadmap à la
   fois, canon revérifié épisode par épisode, modes d'étape et tranches de
   vie posés, POV unique de Rhea ; une PR par roadmap, fusionnée au fil de
-  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4).
-- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R7
-  (Sommaire W26). État réel des autres roadmaps, relevé le 2026-10-31 :
-  R8 n'a ni modes d'étape ni tranches de vie ; R9 n'a que deux
+  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4), R8 (W4).
+- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R8
+  (Sommaire W27). État réel des autres roadmaps, relevé le 2026-10-31 :
+  R9 n'a que deux
   AU CHOIX ponctuels (2 jalons sur 11) ; R10 a des modes sur 4 jalons
   sur 9, R11a sur 5 sur 6 ; R11b, R12 et R13 ont tous leurs modes. Aucune
   de R5 à R13 n'a de tranches de vie ; seule R14 est complète.
@@ -188,11 +188,18 @@ pas les re-litiger. JAMAIS fetché en narration.
 - R7 - RHEA NE MENT PAS À WINRY (mode usine) : le secret du Laboratoire 5
   qu'Ed veut taire, Rhea le dit ou dit qu'il existe, au choix du joueur.
   Par défaut, Winry se tait devant les frères ; rien ne bouge sur la trame.
+- R8 - REPRISE (canon ép. 11 et ch. 17-19 vérifiés) : WINRY AVOUE À ED
+  qu'elle a lu la gravure (ch. 19) ; il ne l'a jamais montrée à Al. Le
+  défaut « Ed l'ignore » ci-dessous est caduc. Le pont de corde vers la
+  ville est foudroyé, l'alchimie ne le refait pas ; Paninya s'effondre à la
+  vue du sang ; Ed et Al prient dehors ; un garçon. Garfiel nommé par la
+  page de Dominic seulement. L'ironie « naissance pendant l'enterrement »
+  est fausse : l'enterrement a lieu pendant le train du Sud (ch. 16).
 - R8 - RUSH VALLEY (mode usine, canon ép. 11 vérifié sur Wikipedia) : Rhea
   repart vers Dublith avec les frères, Winry reste chez Garfiel (verrou :
   pacte de R4). Dominic ne propose rien à Rhea (aucune rivalité entre les
   sœurs, jusque dans le métier). Winry voit la date de la montre et le dit
-  à Rhea ; Ed l'ignore par défaut. Accouchement : Rhea ne touche pas
+  à Rhea (puis l'avoue à Ed, cf. reprise). Accouchement : Rhea ne touche pas
   l'organique. Monsieur Lapinou reste à Resembool : rituel de sommeil
   suspendu jusqu'au retour à Rush Valley (R9). Aucun homonculus, rien ne
   remonte ; le statut « repérée » éventuel de R7 ne bouge pas.

@@ -1,6 +1,6 @@
 # Winry Rockbell
 
-- version : W15
+- version : W16
 
 ## Identité
 
@@ -77,7 +77,8 @@ Sororité fusionnelle avec la protagoniste (jumelles après 1909). Winry connaî
   Valley, la ville de son rêve.
 - 1914 (R8) : Rush Valley. Refusée deux fois par Dominic LeCoulte ;
   convainc Paninya de cesser de voler ; voit la date de l'incendie gravée
-  dans la montre d'Ed, se tait devant lui, le dit à Rhea. Accouche
+  dans la montre d'Ed, le dit à Rhea, puis l'avoue à Ed, qui ne l'a
+  jamais montrée à Al. Accouche
   Satella pendant l'orage, avec Paninya. Dominic l'envoie chez Garfiel :
   elle reste à Rush Valley, sans Monsieur Lapinou (resté à Resembool), et
   laisse Rhea repartir avec les frères.
