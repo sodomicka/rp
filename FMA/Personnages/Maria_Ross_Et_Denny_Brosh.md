@@ -1,6 +1,6 @@
 # Maria Ross et Denny Brosh
 
-- version : W3
+- version : W4
 
 ## Identité
 
@@ -53,8 +53,9 @@ l'explosion, récupèrent Ed inconscient et sauvent Al. Gardent l'hôpital.
   Roadmap/Rhea/Roadmap7_Laboratoire_5.md.
 - 1914 (R10) : Ross apprend au trio la mort de Hughes ; arrêtée, évadée par
   Barry, « brûlée » par Mustang sous les yeux de Rhea. Vivante, elle part
-  pour Xing avec Fu par les ruines de Xerxès ; Rhea le sait par Ed, sous le
-  secret (elle peut le dire à Winry, à personne d'autre). Détail : cf.
+  pour Xing avec Fu et une petite escorte, par les ruines de Xerxès (ch. 41) ;
+  Rhea peut le savoir par Ed, sous le secret [CANON SUPPOSÉ] (elle peut le
+  dire à Winry, à personne d'autre). Détail : cf.
   Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 - 1915 (R13) : Ross revient avec des armes pour Mustang (hors POV) ; Rhea la sait vivante, le secret tombe. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 

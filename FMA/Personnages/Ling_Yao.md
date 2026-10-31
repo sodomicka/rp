@@ -1,6 +1,6 @@
 # Ling Yao
 
-- version : W7
+- version : W8
 
 ## Identité
 
@@ -55,9 +55,9 @@ illégalement ; échoue à Rush Valley.
   ne remonte. Ignore le pourquoi. Suit le trio vers Central. Détail : cf.
   Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md.
 - 1914 (R10) : arrêté à Central comme immigré clandestin, libéré par Barry.
-  Allié du piège à Scar pour l'immortalité ; capture Gluttony. Lan Fan se
+  Squatte l'hôtel du trio pendant l'absence d'Ed, dit à Al qu'il est fils de l'empereur ; mis dehors pour l'ardoise. Allié du piège à Scar pour l'immortalité ; capture Gluttony. Lan Fan se
   tranche le bras pour semer Bradley, soignée chez le docteur Knox ; Fu
-  escorte Ross vers Xing. À la planque, Ling, qui sent le flux, révèle
+  escorte Ross vers Xing (ch. 41). À la planque, Ling, qui sent le flux, révèle
   devant Rhea que le Généralissime est un homonculus. Détail : cf.
   Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 - 1914 (R11a) : avalé par Gluttony avec Ed ; au repaire de Père, reçoit la Pierre de Greed, qui prend son corps (hors POV). Rhea l'apprend d'Ed ; Lan Fan reçoit son message. Lan Fan et Fu refusent l'automail pour l'instant ; Rhea peut avoir proposé l'atelier Rockbell. Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md.

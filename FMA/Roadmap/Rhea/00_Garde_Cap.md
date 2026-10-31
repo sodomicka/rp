@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W15
+- version : W16
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -134,14 +134,15 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   Central avec Winry. Écrite (W1).
 
 ### Roadmap 10 - Central : Hughes et Scar
-- Canon ép. 16-23 : mort de Hughes apprise (Ross, Gracia) ; Ross accusée,
-  évadée par Barry, « brûlée » par Mustang ; Ed seul à Resembool (Xerxès,
-  Scar et les Rockbell, Hohenheim, l'exhumation : la chose n'était pas
-  Trisha), Rhea reste à Central avec Al et Winry ; Lust détruite hors POV ;
-  piège à Scar : Rhea et Winry apprennent ENSEMBLE (ép. 22) ; Winry repart
-  pour Rush Valley ; chez Knox, Ling révèle que Bradley est un homonculus.
-  Écrite (W1).
-- Tchekhov : Scar / parents DÉTONÉ. Monsieur Lapinou peut revenir à Winry.
+- Canon ép. 16-24 et ch. 35-48 : mort de Hughes apprise (Ross, Gracia) ; Ross
+  accusée, évadée par Barry, « brûlée » par Mustang ; Ed seul à Resembool
+  (Xerxès, Scar et les Rockbell, Hohenheim, l'exhumation : la chose n'était
+  pas Trisha), Rhea reste à Central avec Al et Winry ; le sceau d'Al peut
+  lâcher ; Lust détruite hors POV ; piège à Scar : Rhea et Winry apprennent
+  ENSEMBLE (ép. 22, ch. 46) ; Bradley au chevet de Winry, qui repart pour
+  Resembool (ch. 48) ; à la planque, Ling révèle que Bradley est un
+  homonculus. Reprise (W4).
+- Tchekhov : Scar / parents DÉTONÉ. Monsieur Lapinou attend Winry à Resembool.
 
 ### Roadmap 11 - coupée en deux (décision worldbuilder, budget)
 #### Roadmap 11a - Central : la fausse Porte

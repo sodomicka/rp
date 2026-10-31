@@ -1,6 +1,6 @@
 # Alex Louis Armstrong
 
-- version : W7
+- version : W8
 
 ## Identité
 
@@ -59,8 +59,9 @@ d'Alchimistes d'État dans l'Est.
   interdit de poursuivre après le décodage des notes de Marcoh ; désobéi la
   nuit du Laboratoire 5. Garde l'hôpital. Détail : cf.
   Roadmap/Rhea/Roadmap7_Laboratoire_5.md.
-- 1914 (R10) : après le « meurtre » de Ross, embarque Ed seul pour
-  Resembool (couverture du plan de Mustang) ; refuse Rhea dans le voyage.
+- 1914 (R10) : après le « meurtre » de Ross, menotte Ed à l'hôtel et
+  l'embarque seul pour Resembool, « réparer l'automail » (couverture du plan
+  de Mustang, puis Xerxès) ; refuse Rhea dans le voyage.
   Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 - 1914 (R11a) : apprend de Mustang ce qu'est Bradley ; transmet aux frères le renseignement de Grumman sur May et une lettre pour sa sœur Olivier, à Briggs. Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md.
 - 1915 (R13) : tue Sloth avec sa sœur, Izumi et Sig (hors POV) ; à la surface contre Père, avec Rhea. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.

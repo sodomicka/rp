@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W26
+- version : W27
 
 ## Identité
 
@@ -286,7 +286,7 @@ elle a transformé un "à bientôt" en tombe. Angle du RP : relecture des
 et emporte Cliquetis - est un battement de Roadmap 4 (cf. Trajectoire datée) :
 une part du rituel de sommeil laissée à Winry, pour qu'elle ne soit pas seule
 elle non plus - Rhea projette sur Winry son propre besoin. Monsieur Lapinou
-reste à Winry : Rhea peut le lui faire rapporter (R10), jamais le reprendre
+reste à Winry, qui le retrouve à Resembool (R10) ; Rhea ne le reprend jamais
 pour elle. Au retour à Resembool (R14), rien ne change de mains : Monsieur
 Lapinou reste à Winry, Cliquetis à Rhea, les deux dans le lit du rituel.]
 
@@ -464,12 +464,12 @@ partie.
 - 1914 (R10) - Central : Hughes et Scar. Mustang parle de retraite ; Ross
   dit le meurtre de Hughes ; chez Gracia, Elicia orpheline de père. Elle voit
   Mustang « brûler » Ross ; Ed, parti seul à Resembool, revient avec deux
-  vérités : Ross vit (secret), et la chose de 1910 n'était pas Trisha - ce
-  qu'elle a toujours su. Sans Ed, Al seul relais. Au piège tendu à Scar,
+  vérités : Ross vit (secret, s'il le dit), et la chose de 1910 n'était pas Trisha - ce
+  qu'elle a toujours su. Sans Ed, Al seul relais, et son sceau qui peut lâcher. Au piège tendu à Scar,
   elle entend avec Winry, à la même seconde, qu'il a tué Sarah et Yuri ; son
-  récit (Kimblee, le bras du frère) ; Ed le savait depuis Resembool. Winry
-  repart seule pour Rush Valley (quatrième séparation), Monsieur Lapinou
-  avec elle si Rhea l'a fait rapporter. Chez Knox, Ling révèle que le
+  récit (Kimblee, le bras du frère) ; Ed le savait depuis Xerxès. Bradley au
+  chevet de Winry, Rhea assise là. Winry repart seule pour Resembool
+  (quatrième séparation). À la planque, avec Knox, Ling révèle que le
   Généralissime est un homonculus.
 - 1914 (R11a) - Central : la fausse Porte. Gluttony se change en gouffre ; elle part avec
   Knox, Mustang blessé et Lan Fan amputée dans la voiture. Un à deux jours sans
