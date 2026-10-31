@@ -1,6 +1,6 @@
 # Roadmap 6 - East City et Scar
 
-- version : W5
+- version : W6
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (19 ans), POV strict
 - échelle temporelle : une à deux semaines (1914) : quelques jours à East City (le canon dit « les jours suivants » chez Tucker, sans les chiffrer), la pluie le lendemain du meurtre de Tucker, le train avec Armstrong et l'arrêt chez Marcoh, trois jours à Resembool (ch. 9), le départ à l'aube vers Central
@@ -32,17 +32,8 @@ Le premier arc où l'armée a un visage, et le premier où la mort frappe tout p
 9. L'armure d'Al [la nuit, JOUÉE] : chambre ou atelier de fortune. Rhea reconstruit l'armure d'Al, plaque par plaque, sans toucher au sceau (Ed vérifie le sceau). Le métal la calme : rien d'organique, rien à ressentir, un travail. Al la regarde travailler et note ce qui marche sans Winry : première ligne qui prend sur sa propre carte. Le bras d'Ed, lui, ne se répare pas en route : il faut l'atelier Rockbell et le raccord nerveux. Avance au départ.
 10. Le train et Marcoh [jour suivant, JOUÉE] : départ d'East City, Hughes les salue ; l'armée refuse de laisser les frères rentrer sans garde tant que Scar court, et Armstrong est le seul officier libre et volontaire. Train vers l'Est rural. À un arrêt, Armstrong reconnaît le docteur Tim Marcoh, ancien Alchimiste d'État déserteur après Ishval, qui fuit en le voyant. Ed les fait descendre. Au village, on le connaît sous un faux nom, comme le médecin qui soigne tout le monde. Acculé, Marcoh craint l'arrestation, puis avoue : ses recherches ont servi un massacre, et c'était la Pierre philosophale. Il montre une fiole de matière rouge, une Pierre incomplète, et refuse ses notes. Ed refuse de prendre ce qui soigne le village ; Armstrong décide de ne pas le signaler. Au train suivant, Marcoh glisse à Ed un mot : la première annexe de la Bibliothèque nationale de Central. Rhea, spécialiste du minéral, voit la Pierre incomplète : elle ne ressemble à aucun minéral connu (sensation, jamais savoir). Avance à la gare de Resembool.
 11. Winry [Resembool, trois jours, JOUÉE] : maison Rockbell. Retrouvailles. Winry corrige Ed pour avoir détruit son meilleur bras ; Pinako dit la jambe à refaire pour sa croissance ; les deux en trois jours. Rhea forge le métal avec Winry : les deux sœurs perfectionnistes. Les nuits : le rituel de sommeil revient, avec Monsieur Lapinou. Winry apprend de Rhea et d'Al que sa carte n'a pas pris, et que Cliquetis a tenu ; elle passe le relais à Al pour de bon. Pendant qu'Ed est à la tombe de Trisha (jalon 11bis), Pinako raconte à Armstrong la nuit de 1910, l'amitié avec le père des Elric, et Sarah et Yuri tués au front d'Ishval comme médecins : personne ne fait le lien avec Scar. Pose du bras et de la jambe, douloureuse (raccord nerveux) ; les frères se battent pour essayer leurs corps ; souper à la maison Rockbell. Avance quand le bras est posé.
-11bis. La tombe [Resembool, AU CHOIX] : sur une jambe de prêt, Ed monte à la tombe de Trisha, sur l'idée d'Al. Rhea l'accompagne ou reste à l'atelier. Beat optionnel. Avance au retour.
+11bis. La tombe [Resembool, AU CHOIX] : sur une jambe de prêt, Ed monte à la tombe de Trisha, sur l'idée d'Al. Rhea l'accompagne ou reste à l'atelier. Avance au retour.
 12. Le second départ [à l'aube, JOUÉE] : gare de Resembool. Les frères repartent pour Central avec Armstrong, vers les recherches de Marcoh. Pinako les invite à revenir pour un vrai repas ; Winry salue de la fenêtre de sa chambre. Rhea repart avec eux : la séparation, déjà vécue une fois, n'est pas plus facile. Monsieur Lapinou reste à Winry, Cliquetis part (par défaut ; le joueur peut renégocier l'échange). Winry reste à Resembool. Clôt R6 -> Roadmap 7.
-
-## Tranches de vie
-Toutes en présence de Rhea ; aucune ne relie Scar aux Rockbell.
-- Au QG : la main dans la poche, sur Cliquetis, pendant que les uniformes passent.
-- Chez Tucker, avant le jalon 4 : la bibliothèque ; Rhea lit les traités du minéral et du métal, ne touche aucun livre de chimères.
-- Chez Tucker, avant le jalon 4 : Alexander pose la tête sur ses genoux ; Nina veut toucher ses tresses.
-- Resembool : les deux sœurs à l'atelier la nuit, sur le métal du bras, sans un mot de trop.
-- Resembool : Armstrong fait les corvées de la maison ; le bois à fendre, Rhea ne le touche pas.
-- Resembool, au souper : Ed rêve tout haut d'un jour sans réparations d'automail ; Al remercie les Rockbell à voix basse.
 
 ## Casting convoqué
 - Rhea - POV, 19 ans ; face à Nina, à Scar et à l'armée - cf. Personnages/Rhea.md

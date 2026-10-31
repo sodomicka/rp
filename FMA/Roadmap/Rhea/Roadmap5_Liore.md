@@ -1,6 +1,6 @@
 # Roadmap 5 - Liore
 
-- version : W5
+- version : W6
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (19 ans), POV strict
 - échelle temporelle : quelques jours (1914) : le train depuis Resembool (durée non chiffrée au canon ; arrivée à Liore à l'aube, ép. 2), une journée et une nuit à Liore (arrivée, miracle, Rose, audience, haut-parleur, soulèvement), le départ. Le canon ne date ni le voyage ni le départ.
@@ -21,7 +21,6 @@ Première sortie du monde connu, sans Winry. Liore met Rhea face à une ville en
 
 ## Itinéraire (jalons)
 1. Le train [1914, le voyage, AU CHOIX] : gares, compartiments. Premier voyage de Rhea loin de Resembool depuis 1900. Gares bondées : l'agoraphobie se lève, Ed et Al n'ont aucune parade. Al ouvre la carte de Winry (pression de main = abort) : la main est un gantelet d'acier, froid, et ce n'est pas Winry. Les nuits sans le rituel de sommeil : Cliquetis à l'oreille. Le train arrive à Liore à l'aube (ép. 2). Avance à l'arrivée.
-1bis. L'appel [une gare, AU CHOIX] : cabine d'une gare de correspondance. Rhea peut appeler la maison Rockbell. La voix de Winry passe, sa main ne passe pas : le téléphone ne tient pas lieu de rituel. Beat optionnel, aucune issue déplacée. Avance au départ du train.
 2. La ville du Soleil [jour 1, AU CHOIX] : Liore, ville du désert de l'Est. Des radios partout diffusent le prêche du père Cornello, prophète du dieu-soleil Léto, qui promet l'immortalité et le retour des morts. Les frères interrogent les habitants ; une bousculade les force à se déclarer alchimistes, et Ed Alchimiste d'État, le Fullmetal. Rhea prend le sermon au premier degré et démolit à voix haute l'incohérence factuelle (des morts qui reviennent, l'échange équivalent bafoué). Le prêche en boucle use son filtre. Avance au miracle.
 3. Le miracle [jour 1, JOUÉE] : parvis du temple de Léto, foule de fidèles. Cornello accomplit un miracle en public. Ed y reconnaît une transmutation ordinaire qui contourne les lois de l'alchimie : la Pierre, peut-être. Rhea, spécialiste du minéral, regarde la bague du prêtre. La foule sature le filtre : première crise loin de Winry. Al applique la carte (enlacement en crise) : l'armure est dure, froide, sans battement de cœur ; ça ne prend pas. Cliquetis fait le relais, mal. Avance quand la crise retombe.
 4. Rose [jour 1, JOUÉE] : temple de Léto. Rose Thomas, fidèle de Cornello, a perdu son fiancé Cain dans un accident ; Cornello lui a promis que Léto le lui rendrait. Elle raille la foi d'Ed dans la science. Pour Rhea, Rose attend exactement ce qu'elle a fait en 1900, et ce qui en sort. Zéro filtre : elle peut lui dire que ça ne revient pas, ça revient en chose. Le pourquoi (son 1900) ne sort pas : verrou. Rose obtient aux frères une audience par Cray, le second de Cornello. Avance quand l'audience est accordée.
@@ -31,15 +30,6 @@ Première sortie du monde connu, sans Winry. Liore met Rhea face à une ville en
 8. La ville se soulève [la nuit, AU CHOIX] : temple, puis rues de Liore. Les habitants furieux prennent le temple d'assaut. Cornello a disparu. Pour Rhea, une foule en colère, des cris, des portes enfoncées : sortir de là, Al en bouclier, Cliquetis serré. Rhea consolide l'armure d'Al et l'automail d'Ed une fois à l'abri (son rôle dans le trio, jamais le sceau). Avance à l'aube.
 9. Relève-toi [le lendemain, JOUÉE] : Liore. Rose braque Ed, sûre qu'il a menti sur la Pierre ; il redit que la résurrection est impossible. Elle s'effondre ; Ed la renvoie à ses propres jambes : se relever et avancer seule. Rhea regarde Rose comme elle-même à 5 ans, sans la consoler (pas d'empathie affective). Avance quand Rose est laissée à elle-même.
 10. La route [départ, JOUÉE] : gare de Liore. Bilan de la carte : Al constate qu'elle répertorie ce qui marche avec Winry, et que Rhea attend Winry derrière chaque geste. Il commence à observer Rhea pour son compte : sa propre carte, première ligne. Rhea, elle, alterne toujours outil et anti-Alan. Départ vers East City : Ed doit son rapport à Mustang. Clôt R5 -> Roadmap 6.
-
-## Tranches de vie
-Toutes en présence de Rhea ; aucune ne touche à Cornello après sa disparition ni au pourquoi du sans-cercle.
-- Le train, la nuit : Ed dort, Al ne dort pas (il ne peut pas) ; il veille pendant que Rhea fait rouler Cliquetis. Elle peut demander à plat ce qu'il fait de ses nuits.
-- Le train : Ed mange pour deux, Al ne mange pas ; Rhea le constate sans détour.
-- Le désert par la fenêtre : le sable dans les articulations de l'automail d'Ed ; Rhea nettoie, Ed râle.
-- Liore : les radios sur chaque comptoir, le même prêche partout ; Rhea compte les postes pour tenir le bruit.
-- Une auberge : une chambre à trois ; qui dort où se règle à plat, Al à la porte.
-- Après le jalon 4 ou le jalon 10 : Al relit la carte de Winry et barre une ligne ; Rhea le voit faire.
 
 ## Casting convoqué
 - Rhea - POV, 19 ans ; première crise loin de Winry, Cliquetis éprouvé - cf. Personnages/Rhea.md
@@ -72,7 +62,7 @@ Toutes en présence de Rhea ; aucune ne touche à Cornello après sa disparition
 - Croiser Scar - réservé à Roadmap 6 ; l'identité du tueur de Sarah et Yuri vient plus tard encore.
 - Rester à Liore après le départ des frères - Rhea suit le trio ; ce que devient la ville ne lui parvient pas avant Roadmap 12.
 - Rejoindre l'armée ou se lier au statut d'Alchimiste d'État - antimilitarisme sur toute la saga.
-- Revoir Winry - Rhea la retrouve à Resembool en Roadmap 6 ; le téléphone (jalon 1bis) reste une voix.
+- Revoir Winry - Rhea la retrouve à Resembool en Roadmap 6.
 - Que la carte de Winry réussisse, ou qu'Al remplace Winry - Al se construit sa carte sur la durée (R5 et suivantes).
 - Avouer son attirance pour Al - nœud avoué seulement à la fin du périmètre.
 

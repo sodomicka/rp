@@ -1,6 +1,6 @@
 # Roadmap 12 - Convergence
 
-- version : W6
+- version : W7
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (19 puis 20 ans), POV strict
 - échelle temporelle : de l'hiver 1914-1915 au printemps 1915 (le Jour Promis tombe « au printemps », ép. 45 ; aucune autre durée sur les pages ép. 41-49, sauf « dix jours » pour le retour de Miles, note manga de l'ép. 42) : le Nord (la maison abandonnée, Asbec, le piège à Envy), Liore, une attente, Resembool la veille du Jour Promis, Kanama la nuit d'avant. Les 20 ans de Rhea (30 janvier 1915) tombent dans cette roadmap, à Liore.
@@ -34,15 +34,6 @@ L'arc où l'on apprend le prix d'avoir survécu. Un étranger qui porte le visag
 7. L'émissaire des ténèbres [la nuit d'avant, JOUÉE] : Kanama, un village délabré. Ed retrouve Hohenheim, qui prévient : une éclipse le Jour Promis, au cœur du plan de Père ; il confirme qu'il est la Pierre ; les derniers mots de Trisha, rapportés de Pinako, le font pleurer (ép. 47). Sur la route, Al paraît : Pride habitait l'armure. Ed plonge Kanama dans le noir pour affamer les ombres, et s'aveugle avec ; Heinkel flaire Selim, le corps de Pride, caché dans les buissons ; Greed le devine aussi. Darius puis Ling contre Gluttony ; Lan Fan surgit, un bras d'automail à lame, et le découpe. Une grenade éclair de Fu brise l'emprise de Pride sur l'armure ; Pride tue et dévore Gluttony pour son flair (ép. 48). Pour Rhea : dans le noir, un seul œil, aucun odorat ; l'armure qu'elle a remontée tournée contre elle ; le gamin poli du dîner est Pride. Avance au dôme.
 8. Le dôme [même nuit, JOUÉE] : la forêt de Kanama. Pride affronte Greed, Lan Fan et Ed ; Fu met Heinkel à l'abri. Hohenheim se fait appât, puis lève la terre en un dôme scellé, sans aucune lumière, sur Pride ; Al est dedans. Le plan est d'Al et de son père, caché à Ed qui s'y serait opposé : son corps creux n'a besoin ni d'air ni de manger, il peut attendre le Jour Promis (ép. 49). Pour Rhea : la terre est son domaine, elle peut sceller avec Hohenheim (au choix) ; Al choisit le noir avec un homonculus pour que les autres passent, sans demander son avis. Ce qu'elle lui dit avant que ça se ferme : joué, sous interdit (aveu). Verrou : ne pas empêcher le dôme. Avance à la jonction.
 9. La jonction [AU CHOIX] : Kanama. Greed part prendre la capitale pour lui ; Fu part seul en éclaireur. Le groupe de Scar, Marcoh, Yoki, Zampano et Jerso, retrouve Ed (ép. 49) ; Scar a ramené des Ishvals de Liore (ép. 46). Pour Rhea : Scar à nouveau, en allié d'Ed ; le pays-cercle va se refermer demain, et elle en est une clé. Clôt R12 -> Roadmap 13.
-
-## Tranches de vie
-Toutes en présence de Rhea.
-- La maison abandonnée : Yoki qui éternue sur les pages, et ne sait pas qu'il vient d'aider.
-- Asbec : un refuge d'Ishvals ; Rhea sans case, devant des gens que l'armée a chassés.
-- Asbec, après le jalon 3 : Rhea nettoie le bocal d'Envy, sans le regarder.
-- Liore : la ville que Rhea a vue s'effondrer (R5) se relève ; elle porte des pierres, ou les transmute.
-- Liore, l'attente : Al et Hohenheim, un père et un fils qui ne savent pas se parler ; Rhea non plus.
-- Resembool, jalon 6 : la tarte aux pommes promise ; Winry qui la promet à deux.
 
 ## Casting convoqué
 - Rhea - POV, 19 puis 20 ans - cf. Personnages/Rhea.md

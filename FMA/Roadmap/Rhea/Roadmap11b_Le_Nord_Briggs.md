@@ -1,6 +1,6 @@
 # Roadmap 11b - Le Nord : Briggs
 
-- version : W4
+- version : W5
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (19 ans), POV strict
 - échelle temporelle : quelques semaines (fin 1914 ; aucune durée dans les pages ép. 33-40 ni ch. 64-80) : le train et la montagne, Briggs (Olivier, Sloth, le tunnel, Kimblee et Winry), Baschool. Les 17 ans de Rhea (30 janvier 1915) tombent en Roadmap 12.
@@ -28,15 +28,6 @@ Au Nord, un tunnel montre que le pays entier est un cercle tracé dans le sang, 
 4. Kimblee et Winry [JOUÉE] : la cellule des frères, à Briggs. Kimblee, l'Alchimiste écarlate, amène Winry, cueillie au pied de la montagne (ch. 70), pour régler l'automail d'Ed au froid, et la tenir comme levier (ép. 36). Retrouvailles des sœurs, sous ses yeux. Winry pose à Ed un automail plus léger pour le grand froid, Rhea au métal : quatre mains, comme en R6. Kimblee transmet à Ed les trois ordres du Généralissime : trouver Scar, trouver Marcoh, et graver à Briggs un cratère de sang comme à Ishval ; Ed refuse le cratère (ép. 37). Al reste isolé au cachot, gardé par Zampano et Jerso, et comprend que Winry est le levier. Winry exige d'entretenir les nouveaux membres, par fierté de mécanicienne ; Kimblee la laisse venir. Pour Rhea : le nom du récit de Scar a un visage aimable ; l'Alchimiste d'État à l'état pur. Ne pas mentir à Winry. Verrou : ne pas attaquer Kimblee. Rituel de sommeil à Briggs. Avance à Baschool.
 5. Baschool [AU CHOIX pour la traque, JOUÉE à partir de Scar] : Baschool, ville minière du Nord. Miles envoie des équipes ; Darius et Heinkel, chimères, se joignent aux Elric. May tombe par hasard sur leur cachette ; Marcoh, le visage refait par chirurgie, et Yoki arrivent (ép. 38). Scar affronte Jerso et Zampano ; Ed change en glace la salive de Jerso ; Scar ne peut plus détruire l'automail d'Ed, durci par le froid. Une explosion déchire le bâtiment : Scar reparaît sur le toit, Winry en otage. Ed bloque Kimblee pour que Scar fuie (ép. 39). La ruse est de Winry : passer pour l'otage de Scar, pour que sa disparition ne trahisse rien devant Kimblee ; Scar accepte, contre une liberté provisoire (ch. 73). Rhea part avec Winry (par défaut) ; Ed et Al restent du côté de Kimblee. Pour Rhea : Kimblee a fait sauter le bâtiment avec Winry dedans. Avance à la planque.
 6. Les bandages [la nuit suivante, JOUÉE] : un bâtiment de Baschool, puis les galeries de mine. Scar refuse de s'excuser pour Ishval et reconnaît à Winry le droit de le haïr ; elle panse ses plaies en silence, parce que c'est ce qu'auraient fait ses parents (ép. 39). Al s'interpose pour épargner Jerso et Zampano, en montrant son armure vide : l'alchimie ou l'alkahestrie pourront peut-être un jour les rendre. Yoki propose les galeries de mine ; Miles propose d'abriter Scar, May, Winry et Marcoh au fort. Pour Rhea : un geste qu'elle ne peut ni comprendre de l'intérieur, ni imiter ; elle connaît Winry par cœur, pas ce choix-là. Ce qu'elle fait de Scar : au choix du joueur, sous verrou (le tuer). Le groupe s'enfonce dans les galeries vers le fort ; le blizzard tombe. Clôt R11b -> Roadmap 12.
-
-## Tranches de vie
-Toutes en présence de Rhea ; aucune ne montre un homonculus hors de Sloth et de Kimblee.
-- Le train du Nord : Rhea, qui n'a jamais vu de neige tenir, et l'automail d'Ed qui craque.
-- Briggs : le mess, les soldats taillés pour le froid ; on ne se plaint pas.
-- Briggs : Falman et les glaçons, une corvée de plus ; Rhea sait faire tomber la glace sans pioche.
-- Cellule, après le jalon 4 : le rituel de sommeil sur une couchette de prison, Winry et Rhea, Ed qui fait semblant de dormir.
-- Baschool : Darius et Heinkel, chimères qui parlent ; Rhea compte ce qu'il reste d'humain.
-- Les galeries : Yoki qui se lamente, May et Shao Mei, Marcoh au visage neuf.
 
 ## Casting convoqué
 - Rhea - POV, 19 ans - cf. Personnages/Rhea.md

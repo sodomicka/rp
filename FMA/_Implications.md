@@ -6,7 +6,7 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : solde des points ouverts avant le jeu (BIBLE B27, Sommaire W36, 2026-10-31)
+- dernière mise à jour : étapes optionnelles limitées à R0-R4 et R14 (BIBLE B27, Sommaire W37, 2026-10-31)
 
 ## État d'avancement du chantier
 - Passe 2 : TOUTES les roadmaps ÉCRITES, R0 à R14 (1900 -> retour à
@@ -15,8 +15,9 @@ pas les re-litiger. JAMAIS fetché en narration.
   fois, canon revérifié épisode par épisode, modes d'étape et tranches de
   vie posés, POV unique de Rhea ; une PR par roadmap, fusionnée au fil de
   l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4), R8 (W4), R9 (W4), R10 (W4), R11a (W2), R11b (W2), R12 (W4), R13 (W3), R14 (W3).
-- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R14
-  (Sommaire W34).
+- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R4 et
+  R14. R5-R13 suivent le canon seul : modes d'étape uniquement (Sommaire
+  W37).
 - RELECTURE CROISÉE de clôture (cœur §4) : faite le 2026-10-31. Aucune
   incohérence majeure ; moyennes soldées dans la même livraison ; purge des
   mentions « hors POV » faite sur R0-R14. Mineures soldées le 2026-10-31.
@@ -29,6 +30,16 @@ pas les re-litiger. JAMAIS fetché en narration.
   actuelle).
 
 ## Décisions mémorisées (ne pas re-litiger)
+- ÉTAPES OPTIONNELLES : R0-R4 ET R14 SEULEMENT (worldbuilder, 2026-10-31 ;
+  contrainte propre à ce RP, pas une règle universelle du cœur) : beats
+  secondaires inventés et banques de tranches de vie ne se posent qu'en R0 à
+  R4 et en R14. De R5 à R13, on suit les beats canon : rien d'inventé n'y
+  est ajouté, seuls les jalons tirés du canon y figurent (ex. R6 11bis, la
+  tombe de Trisha, ép. 6 ; R10 3bis et 4bis, ch. 37 et ép. 20). Les modes
+  d'étape y restent. Nettoyage fait en W37 : R5 jalon 1bis (l'appel) et R9
+  ancien jalon 8 (adieux à Izumi et Sig) retirés, banques de tranches de vie
+  de R5-R13 retirées, leurs moments canon versés dans les jalons (R8, R10,
+  R13).
 - PURGE HORS POV (clôture Passe 2, worldbuilder, 2026-10-31) : le MJ ne
   narre que ce qui est pertinent. Roadmaps : le hors POV est retiré, ce que
   Rhea apprend reste au jalon où elle l'apprend. Fiches et BIBLE : jamais
