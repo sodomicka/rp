@@ -6,13 +6,18 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B20 (questions ouvertes R5-R14 tranchées, 2026-10-31)
+- dernière mise à jour : BIBLE B20 + passe d'immersion R0-R4 (Sommaire W23, 2026-10-31)
 
 ## État d'avancement du chantier
 - Passe 2 : TOUTES les roadmaps ÉCRITES, R0 à R14 (1903 -> retour à
-  Resembool, printemps 1915, au gabarit SPEC v9.2 §7). Restent avant la
-  Passe 3 : passe d'immersion (modes d'étape, tranches de vie) sur R0-R4,
-  puis RELECTURE CROISÉE de clôture (cœur §4).
+  Resembool, printemps 1915, au gabarit SPEC v9.2 §7).
+- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R4
+  (Sommaire W23). État réel des autres roadmaps, relevé le 2026-10-31 :
+  R5 à R8 n'ont ni modes d'étape ni tranches de vie ; R9 n'a que deux
+  AU CHOIX ponctuels (2 jalons sur 11) ; R10 a des modes sur 4 jalons
+  sur 9, R11a sur 5 sur 6 ; R11b, R12 et R13 ont tous leurs modes. Aucune
+  de R5 à R13 n'a de tranches de vie ; seule R14 est complète.
+- Reste avant la Passe 3 : RELECTURE CROISÉE de clôture (cœur §4).
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
   En jeu, la roadmap en cours est un document de jeu (SPEC v9.2 §7).
 - Passe 3 (SETUP puis CODEX V1) : non entamée. Pas de fiche d'arc (doctrine

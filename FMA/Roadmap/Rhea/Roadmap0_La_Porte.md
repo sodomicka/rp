@@ -1,6 +1,6 @@
 # Roadmap 0 - La Porte
 
-- version : W3
+- version : W4
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (5 ans, née le 30 janvier 1898), POV unique
 - échelle temporelle : ~10 jours à ~2 semaines (1903) : rituel instantané, ~1 semaine prostrée face à la masse, ~1 jour d'alerte, quelques heures à quelques jours de secours, ~2 jours de route
@@ -22,12 +22,20 @@
 Générateur d'origine : poser le prix que la Vérité fait payer à une enfant de 5 ans pour avoir voulu voir et aimer un mort, et l'horreur de la-chose-qui-n'est-pas-Alan, d'où découle tout le personnage. Linéaire et verrouillé : la scène se joue, le fil ne détone jamais.
 
 ## Itinéraire (jalons)
-1. Les mains sur le cercle [1903, instantané] : le rituel de transmutation humaine s'active dans la chaumière. Tchekhov : statut de sacrifice (planté). Avance quand le cercle prend.
-2. La Porte et la Vérité [hors-temps] : aperçu du savoir ; péage infligé - punie pour avoir voulu VOIR et AIMER un mort (œil droit + cortex orbitofrontal). Tchekhov : statut de sacrifice ; parallèle deuil-transmutation. Avance quand la Vérité prélève le péage et renvoie.
-3. Retour de flamme [~1 semaine] : réveil dans le sang face à une masse difforme gémissante - pas Alan. 3 jours sans traverser la pièce ni boire, ~1 semaine sans manger. Tchekhov : parallèle deuil-transmutation. Avance à l'épuisement extrême, quand l'alerte est donnée.
-4. L'alerte [~1 jour] : le propriétaire (loyer impayé) découvre la scène et ameute le village, terrifié. Chaumière, puis village. Avance quand Pinako, de passage, est prévenue.
-5. Le secours [quelques heures à quelques jours] : Pinako (venue poser des automails à des mineurs) prend la petite, l'hydrate, la nourrit ; elle achève la masse hors du regard de Rhea. Avance quand la masse est achevée et Rhea transportable.
-6. Le départ [~2 jours] : Rhea quitte le village pour Resembool avec Pinako ; elle emporte Monsieur Lapinou (peluche d'Alan) ; la mémoire du village et du père s'efface. Avance à l'arrivée à Resembool -> Roadmap 1.
+1. Les mains sur le cercle [1903, instantané, JOUÉE] : le rituel de transmutation humaine s'active dans la chaumière. Tchekhov : statut de sacrifice (planté). Avance quand le cercle prend.
+2. La Porte et la Vérité [hors-temps, JOUÉE] : aperçu du savoir ; péage infligé - punie pour avoir voulu VOIR et AIMER un mort (œil droit + cortex orbitofrontal). Tchekhov : statut de sacrifice ; parallèle deuil-transmutation. Avance quand la Vérité prélève le péage et renvoie.
+3. Retour de flamme [~1 semaine, JOUÉE] : réveil dans le sang face à une masse difforme gémissante - pas Alan. 3 jours sans traverser la pièce ni boire, ~1 semaine sans manger. Tchekhov : parallèle deuil-transmutation. Avance à l'épuisement extrême, quand l'alerte est donnée.
+4. L'alerte [~1 jour, AU CHOIX] : le propriétaire (loyer impayé) découvre la scène et ameute le village, terrifié. Chaumière, puis village. Avance quand Pinako, de passage, est prévenue.
+5. Le secours [quelques heures à quelques jours, JOUÉE] : Pinako (venue poser des automails à des mineurs) prend la petite, l'hydrate, la nourrit ; elle achève la masse hors du regard de Rhea. Avance quand la masse est achevée et Rhea transportable.
+6. Le départ [~2 jours, AU CHOIX] : Rhea quitte le village pour Resembool avec Pinako ; elle emporte Monsieur Lapinou (peluche d'Alan) ; la mémoire du village et du père s'efface. Avance à l'arrivée à Resembool -> Roadmap 1.
+
+## Tranches de vie
+Entre les jalons 5 et 6 seulement : avant, Rhea est seule face à la masse, rien ne se pioche.
+- Pinako lui fait boire l'eau à petites gorgées, une à la fois, et ne la presse pas.
+- On veut lui prendre Monsieur Lapinou pour la laver : elle ne le lâche pas, on la lave avec.
+- Pinako tente de démêler le sac de nœuds de ses cheveux, puis renonce : la tresse viendra avec Winry (Roadmap 1).
+- Sur la route, Pinako parle de Resembool et d'une petite fille de son âge qui vit chez elle ; Rhea ne répond pas.
+- Première nuit hors de la chaumière : elle ne dort que la peluche contre elle.
 
 ## Casting convoqué
 - Rhea - POV, 5 ans - cf. Personnages/Rhea.md
