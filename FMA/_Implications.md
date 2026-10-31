@@ -6,7 +6,7 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : étapes optionnelles limitées à R0-R4 et R14 (BIBLE B27, Sommaire W37, 2026-10-31)
+- dernière mise à jour : Passe 3, SETUP et CODEX V1 (BIBLE B27, Sommaire W38, 2026-10-31)
 
 ## État d'avancement du chantier
 - Passe 2 : TOUTES les roadmaps ÉCRITES, R0 à R14 (1900 -> retour à
@@ -26,8 +26,10 @@ pas les re-litiger. JAMAIS fetché en narration.
   chapitre et personnage) ou retirées ; pages ASCII réaccentuées.
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
   En jeu, la roadmap en cours est un document de jeu (SPEC v9.2 §7).
-- Passe 3 (SETUP puis CODEX V1) : non entamée. Pas de fiche d'arc (doctrine
-  actuelle).
+- Passe 3 (SETUP puis CODEX V1) : faite le 2026-10-31. Parties/FMA/Partie1/ :
+  CODEX_NARRATIF V1, Sommaire_Jeu W1, Suivi/Rhea_Fiche W1. Départ : R0
+  jalon 1. Ironies versées en CODEX ANNEXE_SAVOIRS. Suite : premier thread
+  de jeu.
 
 ## Décisions mémorisées (ne pas re-litiger)
 - ÉTAPES OPTIONNELLES : R0-R4 ET R14 SEULEMENT (worldbuilder, 2026-10-31 ;
@@ -47,8 +49,6 @@ pas les re-litiger. JAMAIS fetché en narration.
   l'acide ») ; dans les trajectoires datées, le contenu hors POV inutile est
   retiré, ce qui reste porte un marqueur de savoir en clair (« loin de
   Rhea », « Rhea n'en sait rien », « elle l'apprend par X en Rn »).
-- IRONIES DRAMATIQUES : les notes « À verser au CODEX » restent dans les
-  roadmaps jusqu'au CODEX V1 (worldbuilder, 2026-10-31).
 - WINRY DIT TOUT À RHEA (worldbuilder, 2026-10-31) : elle choisit de tout
   dire à sa sœur, parce que sa sœur dit tout sans le choisir. R3 : elle lui
   raconte le soir même son échange avec Riza.
@@ -448,53 +448,5 @@ pas les re-litiger. JAMAIS fetché en narration.
   Resembool (ép. 64) et y dit l'éclipse. HOHENHEIM : mort à genoux devant
   la tombe de Trisha (ép. 63) ; Pinako l'annonce, qui l'a trouvé n'est pas
   dit.
-
-## À verser au CODEX à la bascule jeu
-- IRONIE Mustang/Riza (R3, 1910) : Rhea traite Mustang de "génocidaire" sans
-  savoir que Mustang ET Riza ont haï Ishval et portent, d'un autre bord, la
-  même plaie qu'elle. Enrichie au rework R3 des deux lignes de Riza :
-  "engagée pour protéger quelqu'un" (à Winry, qui le raconte à Rhea le soir
-  même : elle sait la phrase, pas qui ni pourquoi) et "pas une bête sauvage -
-  une gamine qui aura envie de faire bouger les choses" (à Roy, jamais
-  entendu par Rhea). Savoir du
-  joueur, hors prose -> CODEX ANNEXE_SAVOIRS au moment du CODEX V1.
-- IRONIE Scar (R6, 1914) : Rhea peut applaudir un tueur d'Alchimistes
-  d'État, puis le voir briser Ed et Al, sans savoir qu'il a tué Sarah et
-  Yuri - ni lui qu'elle est leur fille. -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Armstrong (R6) : l'Alchimiste d'État logé chez les Rockbell est
-  celui qui a été incapable de continuer à Ishval ; rien ne le dit à Rhea
-  en R6. -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Hughes (R7) : tué par Envy le soir de la visite de Bradley ; le
-  trio part vers le Sud pendant son enterrement (ch. 16) sans le savoir ;
-  Rhea l'apprend en R10. -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Bradley (R7) : le chef de l'armée qu'elle hait est aussi un
-  homonculus ; elle l'a eu à deux mètres. -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Bradley (R9) : au Devil's Nest, il se dévoile à Greed à quelques
-  mètres sous les pieds de Rhea. -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Greed (R9) : l'homonculus qui veut l'immortalité est refondu par
-  Père, et renaîtra dans Ling, que Rhea nourrit à Rush Valley.
-  -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Mustang (R10) : Rhea le voit « brûler » Ross, ce qui confirme son
-  « génocidaire » de 1910 ; c'est une mise en scène pour la sauver.
-  -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Selim (R11a) : le gamin poli du dîner est Pride, le premier
-  homonculus ; Rhea ne le saura pas avant R12. -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Mustang/Riza : vaut pour R3-R10 seulement ; détonée en R11a par le
-  récit de Riza.
-- IRONIE Mustang (R12, vaut depuis 1910) : le « génocidaire » a tu son
-  sans-cercle dans son rapport ; c'est lui qui la tient hors radar depuis
-  quatre ans. -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Selim (R11a) : détonée en R12 (Pride au bidonville).
-- IRONIE Mustang (R13, « repérée ») : il garde la vue parce que celle qu'il
-  a tue en 1910 a été repérée ailleurs ; aucun des deux ne le sait.
-  -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Winry (R13) : son âme est prise et rendue à l'éclipse pendant que
-  Rhea se bat sous Central ; Rhea l'ignore jusqu'en R14.
-  -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Mustang (R14, « repérée ») : il n'a rien à recouvrer, il voit ; la Pierre
-  de Marcoh va à Havoc seul, et personne ne sait pourquoi. Le silence de
-  1910, s'il n'est pas dit au chevet, reste au CODEX. -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Gluttony (R10) : l'anosmique face au nez absolu ; le captif ligoté
-  va avaler Ed et Ling quelques minutes plus tard. -> CODEX ANNEXE_SAVOIRS.
 
 FIN_WIKI__IMPLICATIONS
