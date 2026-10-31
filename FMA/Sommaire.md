@@ -1,6 +1,6 @@
 # Sommaire - FMA
 
-- version : W37
+- version : W38
 
 ## WIKI
 
@@ -90,19 +90,7 @@ Description : itinéraires par arc, dans l'ordre de la saga, par perspective de 
 
 ## PARTIES (Partie1)
 
-> Structure à venir : les fichiers de Parties/FMA/Partie1/ se génèrent au CODEX V1 (fin de pipeline). Rien à indexer pour l'instant.
-
-### Suivi/
-Description : fiches de suivi des personnages affectés par la narration (dont fiche protagoniste, backstory complète).
-- (à venir - CODEX V1)
-
-### Archives/
-Description : chronologie archivée, arcs clos.
-- (à venir)
-
-### Decisions/
-Description : bifurcations prises dans ce RP par rapport aux roadmaps.
-- (à venir)
+> Non indexées ici. La mémoire de la Partie1 s'indexe dans son Sommaire de jeu : `Parties/FMA/Partie1/Sommaire_Jeu.md` (CODEX V1, fetché à l'ouverture de chaque thread de jeu).
 
 ---
 
