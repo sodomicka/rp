@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W18
+- version : W19
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -163,17 +163,15 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   parents : pardon de Winry.
 
 ### Roadmap 12 - Convergence
-- Canon ép. 40 à 49 (début), hiver 1914-1915 -> aube du Jour Promis : galeries
-  de Baschool, Al démonté et remonté par Rhea ; Ed empalé par Kimblee (hors
+- Canon ép. 41-49, hiver 1914-1915 -> veille du Jour Promis : galeries de
+  Baschool, Al démonté et remonté par Rhea ; Ed empalé par Kimblee (hors
   POV, Rhea le croit mort) ; notes du frère de Scar (cercle national,
-  contre-cercle) ; piège à Envy, réduit et emporté par May ; Liore
-  reconstruite, Rose, Hohenheim (Jour Promis, sacrifices : Rhea apprend
-  qu'elle en est un) ; retour à Resembool avec Winry, 17 ans de Rhea ; Ed
-  vivant, Greed-Ling, automail au carbone ;
-  Winry refuse de fuir, Rhea repart avec Ed ; bidonville aux abords de
-  Central : Selim est Pride, Lan Fan à l'automail, Gluttony dévoré, Al sous
-  le dôme avec Pride ;
-  groupes d'Ed et de Scar réunis à l'aube. Écrite (W1).
+  contre-cercle) ; piège à Envy à Asbec, réduit et emporté par May ; Liore,
+  Rose, Hohenheim (Pierre vivante ; les sacrifices : Rhea apprend qu'elle en
+  est un, décision worldbuilder) ; 17 ans de Rhea ; Resembool la veille du
+  Jour Promis : Ed vivant, Greed-Ling ; Winry refuse de fuir, Rhea repart
+  avec Ed ; Kanama : Selim est Pride, Lan Fan à l'automail, Gluttony dévoré,
+  Al sous le dôme avec Pride ; groupes d'Ed et de Scar réunis. Reprise (W4).
 - STATUT DE SACRIFICE TRANCHÉ : Mustang ne l'a pas citée en 1910, pour lui
   laisser son calme (« hors radar » par défaut). « Repérée » (témoin
   homonculus ou Kimblee qui a le temps d'en faire rapport à Père, choix du
@@ -211,7 +209,7 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
 - Statut de sacrifice de Rhea : TRANCHÉ en R12, DÉTONÉ en R13.
 - Contentieux Scar : DÉTONÉ en R10, aux deux sœurs ensemble. Pardon de Winry
   posé en R11 (Baschool) ; Rhea n'est pas tenue de pardonner (réparation dans
-  la durée) : la suite avec Scar se joue en R12-R13 (il rejoint Ed à l'aube du Jour Promis).
+  la durée) : la suite avec Scar se joue en R12-R13 (il rejoint Ed à Kanama, la veille du Jour Promis).
 - Réconciliation Rhea/Al : FRAÎCHE au départ (charnière), consolidée au fil du canon.
 - [INCERTAIN] Numéro de l'ordre d'extermination d'Ishval (3066 / 306) : non tranché.
 

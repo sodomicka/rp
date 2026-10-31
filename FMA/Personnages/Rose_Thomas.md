@@ -1,6 +1,6 @@
 # Rose Thomas
 
-- version : W3
+- version : W4
 
 ## Identité
 
@@ -47,7 +47,7 @@ miracle. Elle prie et attend.
   comme elle-même à 5 ans, sans pouvoir la consoler (pas d'empathie
   affective) et sans lui dire pourquoi elle sait (le pourquoi reste verrouillé
   hors Elric et Rockbell). Détail : cf. Roadmap/Rhea/Roadmap5_Liore.md.
-- 1914-1915 (R12) : rebâtit Liore. N'attend plus personne : elle a choisi de vivre avec ses morts morts, ce que Rhea n'a pas fait à 5 ans. Ne sait rien du 1903. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
+- 1914-1915 (R12) : à Liore, que Hohenheim rebâtit ; prête des vêtements à Winry. N'attend plus personne : elle a choisi de vivre avec ses morts morts, ce que Rhea n'a pas fait à 5 ans. Ne sait rien du 1903. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 
 ## Sort connu (canon)
 

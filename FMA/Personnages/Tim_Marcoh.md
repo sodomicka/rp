@@ -1,6 +1,6 @@
 # Tim Marcoh
 
-- version : W7
+- version : W8
 
 ## Identité
 
@@ -52,7 +52,7 @@ sans lui dire ce qu'elles contiennent.
   morts à Ishval, pas par qui [cadrage MJ]. Détail : cf.
   Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md.
 - 1914 (R11a-R11b) : captif des homonculus, enlevé par Scar, à qui il avoue Ishval ; défiguré pour ne pas être reconnu ; étudie l'alkahestrie avec May. Retrouvé par Rhea à Baschool, visage changé. Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md, Roadmap11b_Le_Nord_Briggs.md.
-- 1914-1915 (R12) : appât du piège à Envy ; avalé par la bête, il brise sa Pierre de l'intérieur. Pour Rhea : le fabricant de Pierres qui en détruit une. Part de son côté. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
+- 1914-1915 (R12) : appât du piège à Envy à Asbec ; tourne contre la Pierre d'Envy le cercle tatoué dans sa paume (ép. 43). Pour Rhea : le fabricant de Pierres qui en détruit une. Part avec Scar changer Amestris de l'intérieur ; rejoint Ed à Kanama. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : hors POV. Soigne Heinkel, qui tue Kimblee. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 - 1915 (R14) : apporte sa Pierre à l'hôpital : Havoc d'abord, puis les yeux de Mustang (« hors radar ») ; Havoc seul (« repérée », Mustang voyant). Refusée pour l'œil de Rhea (interdit). Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 

@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W29
+- version : W30
 
 ## Identité
 
@@ -488,21 +488,19 @@ partie.
   de Winry ; les frères restent chez Kimblee. Winry panse ses plaies ; Rhea non,
   ou à sa manière. Elle s'enfonce avec Winry dans les galeries, vers le fort,
   sous le blizzard.
-- 1914-1915 (R12) - Convergence. Dans les galeries, elle démonte Al trouvé dans
-  la neige, puis le remonte au bidonville du Nord ; Ed disparu au fond d'une
-  mine, pas de corps. May déchiffre les notes du frère de Scar : le cercle
-  national, un contre-cercle. Le piège à Envy : l'homonculus qui a allumé
-  Ishval finit ver dans un bocal ; elle ne l'écrase pas. À Liore
-  reconstruite, Rose n'attend plus personne ; Hohenheim, Pierre vivante au
-  visage de Père, dit le Jour Promis et les cinq sacrifices : la nuit
-  d'Alan a fait d'elle une clé du plan. Elle raccompagne Winry à Resembool ;
-  17 ans. Ed vivant, refermé sur sa propre vie, installé avec Greed-Ling
-  dans la chambre de Winry. Automail au carbone à quatre mains ; elle dit à
-  Winry ce qu'elle est ; dernier rituel avec Monsieur Lapinou, cinquième
-  séparation. Au bidonville, dans le noir, Pride pilote l'armure qu'elle a
-  refaite ; Selim est là, le gamin du dîner est Pride ; Lan Fan revient avec
-  un automail ; Gluttony dévoré. Al choisit le
-  dôme de terre avec Pride. À l'aube, avec Scar et Ed, aux portes de Central.
+- 1914-1915 (R12) - Convergence. Dans les galeries, Ed resté dans la mine ;
+  elle démonte et remonte Al dans une maison abandonnée. May retourne les
+  notes du frère de Scar : le cercle national, un contre-cercle. À Asbec, le
+  piège à Envy : l'homonculus qui a allumé Ishval finit limace dans un bocal,
+  et dit qu'Ed a disparu ; elle ne l'écrase pas. À Liore, Rose a choisi de
+  vivre ; Hohenheim, Pierre vivante au visage de Père, lui dit les sacrifices :
+  la nuit d'Alan a fait d'elle une clé du plan. 17 ans. La veille du Jour
+  Promis, à Resembool, Ed vivant, refermé sur sa propre vie, avec Greed-Ling ;
+  elle dit à Winry ce qu'elle est ; dernier rituel avec Monsieur Lapinou,
+  cinquième séparation, elle repart la nuit même. À Kanama, dans le noir,
+  Pride pilote l'armure qu'elle a remontée ; Selim est là, le gamin du dîner
+  est Pride ; Lan Fan revient avec un automail ; Gluttony dévoré. Al choisit
+  le dôme de terre avec Pride. Puis Scar rejoint Ed.
 - 1915 (R13) - Le Jour Promis. Sous Central avec Ed et Scar, les
   soldats-mannequins, l'armée de Père en chair grise. Mustang brûle Envy ;
   Ed, Riza et Scar le retiennent ; Envy arrache sa Pierre. Ross vivante,
