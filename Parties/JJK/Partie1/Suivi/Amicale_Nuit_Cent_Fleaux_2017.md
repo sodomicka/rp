@@ -1,7 +1,7 @@
 # L'Amicale, le S2 et la Nuit des Cent Fléaux (sept -> 25 déc 2017) - Mémoire refroidie (Partie1)
 
 - partie : 1
-- version : W1
+- version : W2
 
 Mémoire refroidie : les scènes closes de l'Amicale 2017 au lendemain de la Nuit des Cent Fléaux. B3_3c (l'Amicale, classique ; Jour 1 au thread 20, soirée et Jour 2 au thread 21), B3_3d (le S2, en rapide), B3_4 (la Nuit des Cent Fléaux, côté Kyoto, jouée), ouverture de B3_5a (le 25 déc). Sortent durablement de scène : l'arène et le registre de l'Amicale, les maîtres de fléaux de Kyoto et leurs bêtes, le délégué des Instances frappé à Shinjuku, Hakari et Kirara (suspendus de fait, hors du système). Ce qui reste vivant (deuil de Satoru, corps de Suguru, Rika et la clause, ring de Hakari, trio de Kyoto) est au CODEX. Froid : fetch à la demande. Fiches de lore : cf. WIKI Personnages/<Nom>.md, Factions/Tournoi.md.
 
@@ -17,7 +17,7 @@ Mémoire refroidie : les scènes closes de l'Amicale 2017 au lendemain de la Nui
 ## Soir et nuit du Jour 1, Saitama
 - ~20 h, cuisine : Satoru, « un compliment par dessert ». Nisha : « Si Rika pointe le bout de son nez, je l'exécute », devant les gosses ; Satoru : « J'ai signé la même clause que toi » ; desserts offerts (mont-blanc, gâteau au fromage, deux dorayakis), « table rase ».
 - Momo face à Okkotsu ? Satoru : Yuta recousu par Shoko, dort au dortoir avec Maki, spectateur au Jour 2. « Problème réglé » : Momo se désistera.
-- ~21 h, chambre : excuses de Nisha (« C'est à moi de les protéger », « T'es un bon prof ») ; Satoru : « t'as senti Rika avant moi », premier compliment. Soixante-neuf (dans sa bouche), puis elle dessus, l'autre chemin (en elle, jamais là où elle peut être fécondée) ; « Quittes », « Une minute quarante », « Toujours moi ? ».
+- ~21 h, chambre : excuses de Nisha (« C'est à moi de les protéger », « T'es un bon prof ») ; Satoru : « t'as senti Rika avant moi », premier compliment. Soixante-neuf (dans sa bouche), puis elle dessus, l'autre chemin (en elle, jamais là où elle peut être fécondée) ; « Quittes », « Une minute quarante ». (Retcon OOC du V23 : pas de « Toujours moi ? » ici, demandé une seule fois, en fév 2016.)
 
 ## B3_3c L'Amicale, Jour 2 (hors comptage)
 - ~9 h, arène (ovale de terre battue, gradins de bois) : Kyoto à l'est, Tokyo à l'ouest ; Yuta et Maki en haut des gradins. Hakari : son type, « Celle qui reste quand tout le monde est parti ». Todo : « La règle tient aussi en duel ? » ; Nisha : « tant que c'est soignable par Ieiri ».
