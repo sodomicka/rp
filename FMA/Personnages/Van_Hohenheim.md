@@ -1,6 +1,6 @@
 # Van Hohenheim
 
-- version : W5
+- version : W6
 
 ## Identité
 Père d'Edward et Alphonse. Compagnon absent de Trisha. Alchimiste légendaire.
@@ -37,7 +37,7 @@ Quitte le foyer vers 1903 pour contrer le plan de Père (raison ignorée de sa f
 ## Rapport à la protagoniste
 Aucun lien direct établi au point de départ (Hohenheim est absent de Resembool depuis ~1903). Détail éventuel : cf. Personnages/Rhea.md et Parties/.
 - 1914 (R10) : hors POV. Rhea, restée à Central, ne le croise pas ; elle apprend par Ed son passage et ce qu'il a dit de la chose de 1910. Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
-- 1914-1915 (R12) : rencontré à Liore. Raconte à Al, Rhea présente : Xerxès, Père né de son sang, le Jour Promis, les cinq sacrifices. Reconnaît en Rhea une survivante de la Porte (sans-cercle, orbite), sans rien savoir du 1903 ; ne la dénonce pas. Au bidonville, apprend d'Ed les derniers mots de Trisha ; enferme Al et Pride sous un dôme de terre. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
+- 1914-1915 (R12) : rencontré à Liore, qu'il rebâtit. Avoue à Al, Rhea présente, qu'il est une Pierre vivante, que Père est fait à son image et que Pride garde le tunnel (ép. 44) ; leur dit aussi les sacrifices (décision worldbuilder). Reconnaît en Rhea une survivante de la Porte (sans-cercle, orbite), sans rien savoir du 1903 ; ne la dénonce pas. À Kanama, dit l'éclipse à Ed et pleure les derniers mots de Trisha ; lève le dôme de terre sur Pride, Al dedans. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : affronte Père seul, absorbé ; le contre-cercle de ses fragments de Pierre arrache les âmes à Père ; encaisse pour les autres à la surface. Rhea le voit enchâssé dans Père si elle est au repaire. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 - 1915 (R14) : offre à Ed sa vie pour ramener Al, refusée ; s'éloigne sans un mot ; meurt apaisé sur la tombe de Trisha, hors POV. Rhea l'apprend de Pinako. Rien ne remonte de ce qu'il savait d'elle. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 

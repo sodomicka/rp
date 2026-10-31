@@ -1,6 +1,6 @@
 # Gluttony
 
-- version : W4
+- version : W5
 
 ## Identité
 
@@ -34,7 +34,7 @@ Créé par Père, en même temps que les autres péchés. Sert la conspiration d
 
 - 1914 (R10) : premier homonculus que Rhea voit de près, ligoté à la planque du docteur Knox. Il sent tout le monde ; l'anosmique face au nez absolu. Si elle transmute sans cercle devant lui, l'information remonte à Père (statut de sacrifice : « repérée », Roadmap 12). Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 - 1914 (R11a) : se transforme à la planque au nom de Mustang ; Rhea part avec Knox. Avale Ed, Ling et Envy, mène Al à Père (hors POV), qui reprend sa Pierre. Sans-cercle devant lui avant la transformation : « repérée ». Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md.
-- 1915 (R12) : prend Al avec Pride ; au bidonville, déchiqueté par Lan Fan, puis dévoré par Pride, qui gagne son flair. Témoin qui fait « repérée ». Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
+- 1915 (R12) : prend Al dans le train avec Pride ; à Kanama, contre Darius et Ling, découpé par Lan Fan, puis dévoré par Pride, qui gagne son flair. Témoin qui fait « repérée ». Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 
 ## Sort connu (canon)
 

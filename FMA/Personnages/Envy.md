@@ -1,6 +1,6 @@
 # Envy
 
-- version : W3
+- version : W4
 
 ## Identité
 
@@ -32,7 +32,7 @@ Créé par Père avec les autres péchés. 1901 : sous l'uniforme amestrien, tir
 ## Rapport à la protagoniste
 
 - 1914 (R11a) : Rhea apprend d'Ed qu'il a allumé Ishval, donc la guerre qui a tué Sarah et Yuri.
-- 1914 (R12) : tombe dans le piège de May et Marcoh au bidonville du Nord ; Rhea le voit en bête, puis réduit à sa forme vraie, emporté par May. Verrou : elle ne le tue pas. S'il la voit transmuter sans cercle, l'information remonte à Père quand il est libéré (statut « repérée »). Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
+- 1914 (R12) : tombe dans le piège de May, Marcoh et des chimères à Asbec ; Rhea le voit en bête, puis réduit à une limace dans un bocal, emporté par May ; il leur apprend qu'Ed a disparu dans la mine. Verrou : elle ne le tue pas. Il ne revoit jamais Père : un sans-cercle devant lui ne fait rien remonter. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : libéré, recomposé de soldats-mannequins ; avoue Hughes, brûlé par Mustang devant Rhea ; arrache sa Pierre et meurt. Verrou : Rhea ne le tue pas. Il ne revoit jamais Père entre le bocal et sa mort : un sans-cercle devant lui, en R12 comme en R13, ne fait rien remonter (règle : un témoin compte s'il a le temps d'en faire rapport). Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 
 ## Sort connu (canon)

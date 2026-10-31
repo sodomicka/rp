@@ -16,7 +16,7 @@
 - univers : Fullmetal Alchemist (branche manga / Brotherhood, continuité Arakawa)
 - sources primaires : manga Arakawa + anime Brotherhood (2009). Canon local prime sur 2003.
 - site_ref canon (Brotherhood, épisode par épisode) : `https://fma.fandom.com/wiki/Episode_<N>_(2009_Anime)` (N = 1 à 64 ; chaque page liste les chapitres manga adaptés). Secours : `https://fma.fandom.com/wiki/List_of_Fullmetal_Alchemist_episodes`, ou le miroir `https://daddyjim.com/fullmetal-alchemist/episode/Episode-<N>-2009-Anime` (pages chapitre : `.../manga-chapter/`, personnages : `.../character/`), ou recherche web. VÉRIFICATION uniquement : ni théories fans, ni copie de texte. Méthode de déroulement : cf. _Implications.md.
-- bible_version : B23
+- bible_version : B24
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/FMA/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/FMA/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/FMA/Partie1/`
@@ -99,7 +99,7 @@
 | 1914 | Gluttony avale Ed et Ling ; repaire de Père sous Central, Ling devient Greed, Bradley tient Winry en otage ; Riza raconte Ishval ; dîner chez les Bradley | Rhea sait Père, Winry otage. cf. WIKI Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md |
 | 1914 | Briggs : Olivier, Sloth, le tunnel-cercle national ; Kimblee amène Winry ; Baschool : la ruse de l'enlèvement, Winry pardonne à Scar | Rhea sait le cercle national. cf. WIKI Roadmap/Rhea/Roadmap11b_Le_Nord_Briggs.md |
 | 1914-1915 | Galeries de Baschool ; Ed empalé par Kimblee ; Envy réduit par May et Marcoh ; Liore, Hohenheim révèle le Jour Promis et les sacrifices ; Resembool (Ed vivant, Greed-Ling) ; Gluttony dévoré par Pride, Al et Pride sous le dôme | Rhea se sait sacrifice valable ; aube du Jour Promis. cf. WIKI Roadmap/Rhea/Roadmap12_Convergence.md |
-| 30 janvier 1915 | 17 ans de Rhea | Entre Liore et Resembool (R12) |
+| 30 janvier 1915 | 17 ans de Rhea | Entre Asbec et Resembool (R12) [INCERTAIN : lieu] |
 | printemps 1915 | Jour Promis : coup d'État de Mustang, soldats-mannequins ; morts de Kimblee, Envy, Sloth, Fu, Bradley ; cinq sacrifices et éclipse, Père absorbe Dieu ; contre-cercles de Hohenheim et de Scar ; Al échange son âme contre le bras d'Ed ; Greed meurt, Père renvoyé à la Porte | Cinquième sacrifice : Mustang, aveugle (canon) ou Rhea « repérée » (Mustang voyant). cf. WIKI Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md |
 | printemps 1915 | Ed paie le retour d'Al avec sa Porte (plus d'alchimie) ; Hohenheim meurt sur la tombe de Trisha ; hôpital de Central, Pierre de Marcoh (Havoc, Mustang) ; retour à Resembool | Al dans son corps ; déclaration réciproque entre Rhea et Al ; fin du périmètre joué. cf. WIKI Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md |
 
@@ -186,7 +186,7 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 Règle : définition + statut + renvoi. Les déroulés vivent en roadmap / fiche.
 
 ### Mystères
-- Identité réelle de Bradley et des homonculus - connue du lecteur, ignorée du peuple | ouvert (révélation progressive) ; Rhea apprend par Ling que Bradley est un homonculus (R10), par Ed l'existence de Père (R11a), voit Pride au bidonville (R12). cf. WIKI Factions/Homonculus.md
+- Identité réelle de Bradley et des homonculus - connue du lecteur, ignorée du peuple | ouvert (révélation progressive) ; Rhea apprend par Ling que Bradley est un homonculus (R10), par Ed l'existence de Père (R11a), voit Pride à Kanama (R12). cf. WIKI Factions/Homonculus.md
 - Cercle de transmutation national et Jour Promis - Rhea apprend le cercle au tunnel de Briggs (R11b), le contre-cercle et le Jour Promis (R12) | RÉSOLU au Jour Promis (R13) : le cercle aspire le pays, les contre-cercles de Hohenheim et de Scar le défont. cf. WIKI Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md
 - Statut de sacrifice de Rhea - Porte ouverte (1903) = hitobashira valable | RÉSOLU en R13 : « repérée » (témoin homonculus ou Kimblee qui a le temps d'en faire rapport à Père) = cinquième sacrifice, pris par la Vérité, Mustang voyant ; « hors radar » = canon, bascule possible devant Pride ou Bradley avant la transmutation de Mustang. cf. WIKI Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md
 - Incident du village natal de Rhea - générateur d'origine | hors-périmètre : NE DÉTONE JAMAIS (décision worldbuilder ; seul Alan subsiste de cette origine). cf. WIKI Roadmap/Rhea/Roadmap0_La_Porte.md
@@ -209,4 +209,4 @@ Index détaillé page-par-page : cf. WIKI FMA/Sommaire.md
 
 ---
 
-FIN_BIBLE_B23
+FIN_BIBLE_B24

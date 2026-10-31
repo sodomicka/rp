@@ -1,6 +1,6 @@
 # Selim Bradley (Pride)
 
-- version : W5
+- version : W6
 
 ## Identité
 
@@ -32,7 +32,7 @@ Créé le premier. Placé enfant dans la maison des Bradley ; Mme Bradley ignore
 ## Rapport à la protagoniste
 
 - 1914 (R11a) : le gamin poli qui invite les frères chez lui ; Rhea à la table des Bradley ignore ce qu'il est. S'il la voit transmuter sans cercle, l'information remonte à Père (statut « repérée », Roadmap 12). Attaque verrouillée. Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md.
-- 1914-1915 (R12) : démasqué par Riza (hors POV). Prend Al avec Gluttony et le pilote contre le groupe ; Rhea apprend que le gamin du dîner est Pride. Dévore Gluttony ; enfermé avec Al sous le dôme de Hohenheim. Témoin qui fait « repérée » ; la veut vivante si elle l'est. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
+- 1914-1915 (R12) : démasqué par Riza (hors POV). Prend Al dans le train avec Gluttony et le pilote à Kanama ; Rhea apprend que le gamin du dîner est Pride. Dévore Gluttony ; enfermé avec Al sous le dôme de Hohenheim. Témoin qui fait « repérée » ; la veut vivante si elle l'est. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : libéré du dôme par Kimblee, l'absorbe ; « hors radar », force Mustang à la transmutation humaine, ou emmène Rhea s'il la voit transmuter sans cercle avant ; réduit à un nourrisson par Ed (hors POV). Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 - 1915 (R14) : nourrisson, confié à Mme Bradley sous surveillance (hors POV). Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 
