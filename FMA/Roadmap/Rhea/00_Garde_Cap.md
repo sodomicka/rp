@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W17
+- version : W18
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -155,10 +155,10 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
 - Tchekhov : statut de sacrifice (témoins : Gluttony, Bradley, Selim) ;
   ironie Mustang/Riza DÉTONÉE.
 #### Roadmap 11b - Le Nord : Briggs
-- Canon ép. 33 à 39 : Briggs : Olivier, Miles, Sloth, le tunnel-cercle
-  national ; Kimblee amène Winry ; Baschool : la ruse de l'enlèvement (idée
-  de Winry), Winry pardonne à Scar, Rhea part avec Winry dans les galeries.
-  Écrite (W1).
+- Canon ép. 33-40 et ch. 64-80 : Briggs : Olivier, Miles, Sloth, le
+  tunnel-cercle national ; Kimblee amène Winry ; Baschool : la ruse de
+  l'enlèvement (idée de Winry), Winry panse les plaies de Scar, Rhea part
+  avec Winry dans les galeries. Reprise (W2).
 - Tchekhov : statut de sacrifice (témoins : Sloth, Kimblee) ; Scar /
   parents : pardon de Winry.
 

@@ -14,11 +14,11 @@ pas les re-litiger. JAMAIS fetché en narration.
 - REPRISE R5-R14 EN SÉRIE (worldbuilder, 2026-10-31) : une roadmap à la
   fois, canon revérifié épisode par épisode, modes d'étape et tranches de
   vie posés, POV unique de Rhea ; une PR par roadmap, fusionnée au fil de
-  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4), R8 (W4), R9 (W4), R10 (W4), R11a (W2).
-- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R11a
-  (Sommaire W30). État réel des autres roadmaps, relevé le 2026-10-31 :
-  R11b, R12 et R13 ont tous leurs modes. Aucune
-  de R11b à R13 n'a de tranches de vie ; seule R14 est complète.
+  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4), R8 (W4), R9 (W4), R10 (W4), R11a (W2), R11b (W2).
+- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R11b
+  (Sommaire W31). État réel des autres roadmaps, relevé le 2026-10-31 :
+  R12 et R13 ont tous leurs modes. Aucune
+  de R12 à R13 n'a de tranches de vie ; seule R14 est complète.
 - Reste avant la Passe 3 : RELECTURE CROISÉE de clôture (cœur §4).
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
   En jeu, la roadmap en cours est un document de jeu (SPEC v9.2 §7).
@@ -220,6 +220,17 @@ pas les re-litiger. JAMAIS fetché en narration.
   trio pour Central (canon ép. 15) ; rituel de sommeil sans Monsieur
   Lapinou, toujours à Resembool. Le garde-cap disait « Bradley se dévoile
   en rasant le repaire » : recalé (dévoilement hors POV).
+- R11b - REPRISE (canon ép. 33-40 vérifiés ; ch. 64-80 surtout des
+  ébauches sur le miroir, ch. 70 et 73 lus) : Sloth n'est pas « gelé » :
+  le carburant spécial lui ôte ses forces dans le blizzard, un tir de canon
+  le jette dehors, il hiberne (ép. 35) ; « Ed dit que sa constitution
+  ressemble à un humain » non sourcé, retiré. Winry vient de RUSH VALLEY,
+  cueillie au pied de la montagne (ép. 33, ch. 70). « Winry cachée dans
+  l'armure d'Al » : sur aucune page, retiré. Darius et Heinkel se joignent
+  aux Elric à Baschool (ép. 38). Le « pardon » : la page ne dit aucun mot,
+  Winry panse les plaies de Scar parce que ses parents l'auraient fait ;
+  Scar refuse de s'excuser (ép. 39). Miles PROPOSE le fort. Les pages ne
+  disent jamais que Winry apprend qu'elle est otage. Durées retirées.
 - R11a - REPRISE (canon ép. 24-32 et ch. 49-64 vérifiés ; ch. 56, 58, 59
   et 63 sans résumé sur le miroir) : la voiture de Knox emporte Mustang,
   Riza, Knox et Lan Fan (ch. 49) ; l'attente se fait à la MAISON de Knox
@@ -438,9 +449,9 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Nom de jeune fille d'Izumi (Harnet) : non confirmé.
 
 ## Dettes de build
-- SANS-CERCLE D'AL (reprise R9) : R11b, R12, R13 et R14 disent
+- SANS-CERCLE D'AL (reprise R9) : R12, R13 et R14 disent
   encore « pas avant la Roadmap 13 (ép. 59) » ; à recaler à leur reprise
-  (R10 et R11a faits).
+  (R10, R11a et R11b faits).
 - WINRY APRÈS CENTRAL (reprises R10-R11a) : elle rentre à Resembool
   (ch. 45, 48), puis est de nouveau à Rush Valley quand les frères partent
   au Nord (ép. 33) ; Kimblee la cueille au pied de la montagne (ch. 70).
