@@ -1,6 +1,6 @@
 # Mahito
 
-- version : W1
+- version : W2
 
 Fiche noyau (canon + RP), entité entrant en scène en ère C (2018) : fléau de Grade Spécial du camp de Kenjaku. Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -33,7 +33,7 @@ Fiches propres : cf. Personnages/Kenjaku.md, Yuji.md, Nanami.md, Nobara.md, Mech
 - Junpei Yoshino : lycéen qu'il manipule puis tue (arc Junpei, C1_4, canon).
 - Yuji Itadori : rival et némésis.
 - Kokichi Muta : partenaire de serment qu'il soigne puis veut tuer.
-- [DIVERGENCE RP] Nisha Zenin : une seule rencontre, le nœud Mechamaru (octobre 2018), où elle manque de le tuer. Il lui lâche en fuyant le leurre fabriqué par Kenjaku : « 31 octobre, 16 h... Takatsuki ».
+- [DIVERGENCE RP] Nisha Zenin : une seule rencontre, le nœud Mechamaru (octobre 2018), où elle manque de le tuer ; il fuit sans rien lui dire. Le leurre fabriqué par Kenjaku (« 31 octobre, 16 h... Takatsuki »), il l'a laissé échapper devant Muta, qui le porte à Nisha en le croyant bon.
 
 ## Grade et scaling
 - [DIVERGENCE RP] 13 doigts en octobre 2018 (niveau Jogo). Survit à Nisha (18) par la fuite et par son sort. Environ 16 après la mue de Shibuya, juste avant l'absorption. Cf. Power_Scaling/Doigts_de_Sukuna_reperes.md.
@@ -49,7 +49,7 @@ Fiches propres : cf. Personnages/Kenjaku.md, Yuji.md, Nanami.md, Nobara.md, Mech
 |---|---|---|
 | juil - sept 2018 (C1_4) | Arc Junpei : manipule et tue Junpei ; premier face-à-face avec Yuji et Nanami (canon, hors POV de Nisha) | Yuji en ligne de mire |
 | sept 2018 (C1_5) | Amicale à Tokyo : avec Kenjaku-dans-Geto, vole des doigts de Sukuna et les Peintures Mortes (canon, hors POV) | - |
-| oct 2018 (C2_2) | Tient le serment de Muta : lui rend un corps sain en façonnant son âme, sans toucher à la Restriction. Affronte l'Ultimate Mechamaru. Nisha arrive, manque de le tuer ; il fuit en lâchant le leurre de Takatsuki | survit ; leurre livré |
+| oct 2018 (C2_2) | Tient le serment de Muta : lui rend un corps sain en façonnant son âme, sans toucher à la Restriction ; pendant le façonnage, laisse échapper devant Muta le leurre de Takatsuki. Affronte l'Ultimate Mechamaru. Nisha arrive, manque de le tuer ; il fuit. Il savait semer un leurre, pas servir d'appât : Kenjaku l'a jeté face à Nisha sans le prévenir | survit ; leurre semé chez Muta ; outil de Kenjaku |
 | 31 oct 2018 (C2_5) | Shibuya (hors POV) : tue Nanami, frappe Nobara au visage ; mue face à Yuji ; battu par Yuji et Todo, absorbé par Kenjaku | ~16 doigts au pic ; absorbé |
 
 ## Notes de frontière

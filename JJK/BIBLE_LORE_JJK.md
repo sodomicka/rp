@@ -15,7 +15,7 @@
 ## SB0 Métadonnées
 - univers : JJK
 - sources primaires : manga Jujutsu Kaisen (Gege Akutami) ; worldbuilding du worldbuilder (OC Nisha Zenin, Yukiko Kamo, Eien, Nozomu)
-- bible_version : B39
+- bible_version : B40
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/JJK/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/JJK/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/JJK/Partie1/`
@@ -28,9 +28,9 @@
   - Power_Scaling - système de puissance, repères chiffrés en satellite (2 pages)
   - Pedagogie - carte des enseignements (1), fiches de cours par discipline et par année (7), enseignement personnalisé par promotion (8), leçon de Tengen sur la Traque (1) (17 pages)
   - Roadmap - itinéraires par arc : Nisha/ (A0, A1, A2, B1, B2, B3, C1, C2, C3, D1, D2, D3, D4, D5), Yukiko/ (A0, A1) (16 pages indexées). Hors index : trame de garde-cap (Yukiko/trame_A_B), _Chantier_Passe2_EresCD.md et Yukiko/chantier_yukiko.md (documents de travail) : sources de build jamais fetchées en narration.
-  - Resume.md - résumé autosuffisant de l'univers jusqu'au repas bissextile du 29 février 2024 (fin de l'ère C, coup d'État Zenin, Traque côté Nisha, mort de Kenjaku, bataille finale, épilogue de la D5), NON indexé au Sommaire, jamais fetché en narration (1 page)
+  - Résumés par protagoniste jouable, à la racine : Resume_Nisha.md (de la naissance de Nisha, 30 janvier 1987, au repas bissextile du 29 février 2024 qui conclut son histoire) ; Resume_Yukiko.md à venir. NON indexés au Sommaire, jamais fetchés en narration (1 page)
   - _Implications.md - journal de conception, jamais fetché en narration (1 fichier de travail)
-- Total indexé au Sommaire (W71) : 110 pages.
+- Total indexé au Sommaire (W72) : 110 pages.
 
 ## SB1 Cosmogonie et règles du monde
 Périmètre : divergences fondatrices liées à Nisha et Yukiko + règles nécessaires + cosmogonie des trois esprits.
@@ -200,7 +200,7 @@ En jeu : la roadmap en cours et son étape (désignées par le CODEX ANNEXE_CHRO
 - Panda - cadavre maudit mutant créé par Yaga et co-amalgamé avec Nisha (2011), "fils" des deux | trois noyaux, corps maudit doté d'une âme ; à maturité 5 doigts (Tricératops 6, Gorille 7), noyaux sauvés de Kashimo par Nisha (D2) | Yaga, Nisha | corps maudit | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Panda.md
 - Ryomen Sukuna - Roi des Fléaux (20 doigts = étalon), humain de Heian devenu esprit maudit suprême | Tranchant, Feu, Sanctuaire Maléfique, RCT ; 200 pour cent dès la naissance | [DIVERGENCE RP] pacte de dormance ; jumeau réincarné en Jin Itadori ; Uraume ; réceptacles Yuji puis Megumi (ère D) ; tué par le couple dans son territoire intérieur (Shinjuku, 14 nov 2018) | Tranchant + Feu | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Sukuna.md
 - Uraume - suivant de Sukuna depuis Heian, incarné en 2018 dans le corps de Shiori Himi, désigné au masculin | Formation de glace, RCT ; 14 doigts | Sukuna (son roi), Kenjaku (contrat), Nozomu (porteur de la marque : le réveille et meurt écrasé, Shinjuku, 14 nov 2018) | Formation de glace | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Uraume.md
-- Mahito - fléau de Grade Spécial du camp de Kenjaku | Façonnage de l'âme, Incarnation de la Perfection ; 13 doigts (oct 2018), ~16 après sa mue | Kenjaku, Yuji (némésis), Muta (le soigne), Nisha (une rencontre, oct 2018 : fuit en lâchant le leurre de Takatsuki) ; absorbé par Kenjaku à Shibuya | Façonnage de l'âme | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Mahito.md
+- Mahito - fléau de Grade Spécial du camp de Kenjaku | Façonnage de l'âme, Incarnation de la Perfection ; 13 doigts (oct 2018), ~16 après sa mue | Kenjaku, Yuji (némésis), Muta (le soigne et lui laisse échapper le leurre de Takatsuki, que Muta porte à Nisha), Nisha (une rencontre, oct 2018 : il fuit) ; absorbé par Kenjaku à Shibuya | Façonnage de l'âme | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Mahito.md
 - Choso - aîné des Peintures Mortes | Manipulation du sang sans limite ; 12 doigts | [DIVERGENCE RP] coconçu par Kenjaku-dans-Noritoshi avec Eien-dans-Nanao ; demi-frère d'Eso, Kechizu et Yuji ; épargne Yuji à Shibuya | Manipulation du sang | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Choso.md
 - Yorozu - exorciste de Heian changée en objet maudit par Kenjaku, en dormance dans Tsumiki (2008-2015) | Construction, Triple Affliction, 16 doigts | Sukuna (obsession), Kenjaku, Nisha (la tue fin 2015) | Construction | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Yorozu.md
 - Aoi Todo - élève de Nisha à Kyoto (promo 2016-2019) | Boogie Woogie + taijutsu, Grade 1, 7 doigts | Yuki, Nisha, Noritoshi/Momo | Boogie Woogie | canon + [DIVERGENCE RP]. detail: cf. WIKI Personnages/Todo.md
@@ -283,4 +283,4 @@ Index détaillé page par page : cf. WIKI JJK/Sommaire.md
 
 ---
 
-FIN_BIBLE_B39
+FIN_BIBLE_B40
