@@ -1,6 +1,6 @@
 # Winry Rockbell
 
-- version : W17
+- version : W18
 
 ## Identité
 
@@ -94,7 +94,7 @@ Sororité fusionnelle avec la protagoniste (jumelles après 1909). Winry connaî
   repart seule pour Resembool (ch. 45, 48), où l'attend Monsieur Lapinou.
   Sur le quai, Ed lui promet des larmes de joie. Le pardon à Scar vient à
   Baschool (R11b).
-- 1914 (R11a-R11b) : otage de Bradley pour tenir Ed, sans le savoir d'abord ; Rhea ne lui ment pas (appel au choix du joueur, sinon elle l'apprend à Briggs). Amenée à Briggs par Kimblee ; retrouvailles avec Rhea, Monsieur Lapinou avec elle s'il a été rapporté. Refait l'automail d'Ed pour le froid, Rhea au métal. À Baschool, confronte Scar avec Rhea à ses côtés, invente la ruse de l'enlèvement à l'explosion de Kimblee et part avec le groupe de Scar, Rhea avec elle ; dans la planque, lui pardonne (ses parents l'auraient fait).
+- 1914 (R11a-R11b) : otage de Bradley pour tenir Ed, sans le savoir d'abord, à Resembool puis de nouveau à Rush Valley (ép. 33) ; Rhea ne lui ment pas (appel au choix du joueur, sinon elle l'apprend à Briggs). Amenée à Briggs par Kimblee ; retrouvailles avec Rhea. Refait l'automail d'Ed pour le froid, Rhea au métal. À Baschool, confronte Scar avec Rhea à ses côtés, invente la ruse de l'enlèvement à l'explosion de Kimblee et part avec le groupe de Scar, Rhea avec elle ; dans la planque, lui pardonne (ses parents l'auraient fait).
 - 1914-1915 (R12) : dans les galeries puis au bidonville du Nord avec Rhea ; Liore ; raccompagnée à Resembool par des soldats de Briggs, Rhea avec elle. Les 17 ans de Rhea. Retrouve Ed vivant ; refuse de fuir à l'étranger ; renforce son automail au carbone, Rhea au métal. Apprend de Rhea qu'elle est un sacrifice valable. Dernier rituel avec Monsieur Lapinou ; reste à Resembool, Rhea repart avec Ed (cinquième séparation). Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : hors POV, à Resembool avec Monsieur Lapinou ; son âme prise et rendue à l'éclipse. Rhea l'apprend en R14. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 - 1915 (R14) : attend à Resembool et y accueille les frères et Rhea (canon ép. 64) ; sixièmes retrouvailles, pleure sur Al ; dit à Rhea l'éclipse (son âme prise et rendue). Lâche le bâillon si Rhea se déclare à Al ; rituel de sommeil retrouvé, Monsieur Lapinou reste à elle, Cliquetis à Rhea. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.

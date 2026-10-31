@@ -14,11 +14,11 @@ pas les re-litiger. JAMAIS fetché en narration.
 - REPRISE R5-R14 EN SÉRIE (worldbuilder, 2026-10-31) : une roadmap à la
   fois, canon revérifié épisode par épisode, modes d'étape et tranches de
   vie posés, POV unique de Rhea ; une PR par roadmap, fusionnée au fil de
-  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4), R8 (W4), R9 (W4), R10 (W4).
-- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R10
-  (Sommaire W29). État réel des autres roadmaps, relevé le 2026-10-31 :
-  R11a a des modes sur 5 jalons sur 6 ; R11b, R12 et R13 ont tous leurs modes. Aucune
-  de R11a à R13 n'a de tranches de vie ; seule R14 est complète.
+  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4), R8 (W4), R9 (W4), R10 (W4), R11a (W2).
+- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R11a
+  (Sommaire W30). État réel des autres roadmaps, relevé le 2026-10-31 :
+  R11b, R12 et R13 ont tous leurs modes. Aucune
+  de R11b à R13 n'a de tranches de vie ; seule R14 est complète.
 - Reste avant la Passe 3 : RELECTURE CROISÉE de clôture (cœur §4).
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
   En jeu, la roadmap en cours est un document de jeu (SPEC v9.2 §7).
@@ -220,6 +220,17 @@ pas les re-litiger. JAMAIS fetché en narration.
   trio pour Central (canon ép. 15) ; rituel de sommeil sans Monsieur
   Lapinou, toujours à Resembool. Le garde-cap disait « Bradley se dévoile
   en rasant le repaire » : recalé (dévoilement hors POV).
+- R11a - REPRISE (canon ép. 24-32 et ch. 49-64 vérifiés ; ch. 56, 58, 59
+  et 63 sans résumé sur le miroir) : la voiture de Knox emporte Mustang,
+  Riza, Knox et Lan Fan (ch. 49) ; l'attente se fait à la MAISON de Knox
+  (ch. 50), plus « abri [CANON SUPPOSÉ] ». Bradley menace Winry devant
+  Mustang et plante son sabre dans l'armure d'Al, May dedans (ép. 29) ; le
+  message de Greed est un tissu xingois. Riza : Ed vient SEUL en canon
+  (ép. 30), Rhea l'accompagne (divergence) ; « l'ordre signé par Bradley »
+  et « à la paix nous serons jugés » ne sont sur aucune page : retirés. Fu
+  refuse l'automail des Rockbell, mécanicien inconnu (ép. 31). Le dîner
+  chez les Bradley est propre à l'anime (gardé, ordre Brotherhood). Jalon 7
+  ajouté (le train du Nord).
 - R10 - REPRISE (canon ép. 16-27 et ch. 35-53 vérifiés ; ch. 34 illisible
   sur le miroir) : ordre Brotherhood pour les aveux (Ross dit Hughes, puis
   le feu) ; Winry chez Gracia par le journal (ch. 36) ; Armstrong menotte Ed
@@ -427,13 +438,14 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Nom de jeune fille d'Izumi (Harnet) : non confirmé.
 
 ## Dettes de build
-- SANS-CERCLE D'AL (reprise R9) : R11a, R11b, R12, R13 et R14 disent
+- SANS-CERCLE D'AL (reprise R9) : R11b, R12, R13 et R14 disent
   encore « pas avant la Roadmap 13 (ép. 59) » ; à recaler à leur reprise
-  (R10 fait).
-- WINRY À RESEMBOOL (reprise R10) : R11a, R11b et R12, et la fiche Winry
-  (R11a-R11b), disent « Winry à Rush Valley » et « Monsieur Lapinou avec
-  elle s'il a été rapporté (R10) » ; à recaler à leur reprise, d'où
-  Kimblee la fait venir à vérifier au canon de Briggs.
+  (R10 et R11a faits).
+- WINRY APRÈS CENTRAL (reprises R10-R11a) : elle rentre à Resembool
+  (ch. 45, 48), puis est de nouveau à Rush Valley quand les frères partent
+  au Nord (ép. 33) ; Kimblee la cueille au pied de la montagne (ch. 70).
+  Monsieur Lapinou reste à Resembool. R12 dit encore « Monsieur Lapinou
+  avec Winry s'il a été rapporté (R10) » : à recaler à sa reprise.
 - Budget roadmap : R11 coupée en R11a et R11b, chacune sous le plafond.
   R12 (~19 000 caractères, plafond 15 000) : léger dépassement TOLÉRÉ
   (décision worldbuilder, 2026-10-31).

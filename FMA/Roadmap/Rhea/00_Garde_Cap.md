@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W16
+- version : W17
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -146,12 +146,12 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
 
 ### Roadmap 11 - coupée en deux (décision worldbuilder, budget)
 #### Roadmap 11a - Central : la fausse Porte
-- Canon ép. 23 (fin) à 32 : Gluttony se transforme, Rhea part avec Knox ;
+- Canon ép. 24-32 et ch. 49-64 : Gluttony se transforme, Rhea part avec Knox ;
   les frères avalés reviennent par le repaire de Père (hors POV) : Père,
   Ling devenu Greed, le corps d'Al devant la Porte, Envy a allumé Ishval,
   Winry otage de Bradley ; récit d'Ishval par Riza (ironie de 1910 détonée) ;
   équipe de Mustang dispersée ; dîner chez les Bradley (Selim) ; départ pour
-  le Nord. Écrite (W1).
+  le Nord. Reprise (W2).
 - Tchekhov : statut de sacrifice (témoins : Gluttony, Bradley, Selim) ;
   ironie Mustang/Riza DÉTONÉE.
 #### Roadmap 11b - Le Nord : Briggs

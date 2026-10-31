@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W27
+- version : W28
 
 ## Identité
 
@@ -326,7 +326,7 @@ Alimentées à chaud, arc par arc (Passe 2) :
   Rhea peut le confirmer ; Izumi n'en dit rien à personne.
 - Winry otage (R11a, 1914) : dès le retour d'Ed, Rhea sait que sa sœur tient
   Ed en laisse pour Bradley. Elle ne ment pas à Winry : l'appeler est au
-  choix du joueur, sinon Winry l'apprend à Briggs.
+  choix du joueur ; sinon, à Briggs, elle le lui dit si Winry demande.
 - Silence de Mustang (fixé en R12, vaut depuis 1910) : son rapport de 1910
   ne porte qu'Edward ; il a tu la troisième sans-cercle pour lui laisser le
   calme qu'elle voulait. Rhea l'ignore.
@@ -472,13 +472,13 @@ partie.
   (quatrième séparation). À la planque, avec Knox, Ling révèle que le
   Généralissime est un homonculus.
 - 1914 (R11a) - Central : la fausse Porte. Gluttony se change en gouffre ; elle part avec
-  Knox, Mustang blessé et Lan Fan amputée dans la voiture. Un à deux jours sans
+  Knox, Mustang blessé et Lan Fan amputée dans la voiture. L'attente chez Knox, sans
   Winry, sans Ed, sans Al : Cliquetis seul. Al revient avec May Chang, puis
   Ed : la Porte ouverte sur lui-même avec une Pierre, le corps d'Al vu devant
   elle, Père sous Central au visage de Hohenheim, Ling habité par Greed, Envy
   qui a allumé Ishval, Winry otage de Bradley pour tenir Ed. Chez Riza, le
-  récit d'Ishval : le « génocidaire » de 1910 hait ce qu'il a fait et attend
-  d'être jugé. À la table des Bradley, l'homonculus passe le sel ; Selim est
+  récit d'Ishval : les vies qu'elle a prises sont sa responsabilité, et le
+  « génocidaire » de 1910 en a fait un vœu. À la table des Bradley, l'homonculus passe le sel ; Selim est
   poli.
 - 1914 (R11b) - Le Nord : Briggs. Au Nord, l'automail d'Ed gèle ; Olivier, Miles l'Ishval en uniforme,
   Sloth ; le tunnel : le pays est un cercle, Ishval un point de sang, l'armée
