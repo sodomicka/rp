@@ -1,6 +1,6 @@
 # Roy Mustang
 
-- version : W9
+- version : W10
 
 ## Identité
 
@@ -43,7 +43,7 @@ Guerre d'Ishval : déployé comme arme d'extermination ; traumatisme et culpabil
 
 Officier de l'armée que la protagoniste déteste, et héros d'Ishval - la guerre qui lui prend ses parents. Cible potentielle de son antimilitarisme.
 Depuis 1910 (R3) : cible directe et concrète - il a essuyé l'explosion en personne, et reparti avec sa lecture (« trop perdu par la guerre »). Détail : cf. Personnages/Rhea.md et Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md.
-- 1914 (R6) : retrouvailles au QG de l'Est, quatre ans après. Il ne refait pas son offre. Oriente les frères vers Tucker ; devant Rhea, dit à Ed qu'un Alchimiste d'État doit être prêt à tuer quand l'armée l'exige. Impuissant sous la pluie face à Scar ; raconte Ishval aux frères, Rhea présente. Ce qu'il fait de son repérage reste suspendu à Roadmap 12. Détail : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md.
+- 1914 (R6) : retrouvailles au QG de l'Est, quatre ans après. Il ne refait pas son offre. Oriente les frères vers Tucker. Impuissant sous la pluie face à Scar ; raconte Ishval aux frères, Rhea présente, et sa propre part dans l'extermination (ch. 7). Ce qu'il fait de son repérage reste suspendu à Roadmap 12. Détail : cf. Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md.
 - 1914 (R10) : muté à Central, enquête sur la mort de Hughes. Dit aux frères que Hughes a pris sa retraite. « Brûle » Ross sous les yeux de Rhea (mise en scène : Ross part pour Xing) et rappelle à Ed sa place de soldat. Détruit Lust au Laboratoire 3 (hors POV), blessé ; brouille les rapports pendant le piège à Scar ; présent à la planque de Knox quand Ling démasque Bradley. Rhea apprend d'Ed, sous le secret, que Ross est vivante. Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 - 1914 (R11a) : blessé, évacué par Knox avec Rhea dans la voiture. Surprend la conspiration du haut commandement ; Bradley disperse son équipe et prend Riza comme assistante. Les 520 cens d'Ed. Par le récit de Riza, Rhea apprend qu'il hait ce qu'il a fait à Ishval et veut devenir généralissime pour protéger les gens : l'ironie de 1910 détone. Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md.
 - 1914-1915 (R12) : hors POV. Révèle Selim à Olivier, prépare son coup d'État, prend Mme Bradley en otage à l'aube. Implication fixée en R12 : en 1910, son rapport ne porte qu'Edward ; il a tu la troisième sans-cercle : il a vu une civile de 12 ans qui voulait une vie sans problèmes, loin de l'armée, et lui a rendu ce calme (décision worldbuilder). L'armée n'a rien sur Rhea ; elle l'ignore. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.

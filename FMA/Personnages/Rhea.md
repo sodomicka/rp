@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W22
+- version : W23
 
 ## Identité
 
@@ -414,17 +414,17 @@ partie.
 - 1914 (R6) - East City et Scar. Retrouvailles froides avec Mustang et
   Riza ; pas de nouvelle offre. Chez Tucker, Nina et Alexander s'attachent
   à elle ; Tucker les fond en chimère : la chose de 1903 et de 1910, mais
-  avec une âme qui parle. Elle ne les achève pas. Mustang dit devant elle
-  qu'un Alchimiste d'État doit être prêt à tuer. Scar tue Tucker et la
-  chimère, puis détruit sous la pluie le bras d'Ed et l'armure d'Al : elle
+  avec une âme qui parle. Elle ne les achève pas. Scar tue Tucker et la
+  chimère ; elle l'apprend par Riza, puis le voit détruire sous la pluie le bras d'Ed et l'armure d'Al : elle
   sait qu'il est ishval et tueur d'Alchimistes d'État, ignore qu'il a tué
-  Sarah et Yuri. Elle reconstruit l'armure d'Al dans la nuit, sceau
+  Sarah et Yuri. Mustang raconte Ishval devant elle, et sa propre part
+  dans l'extermination. Elle reconstruit l'armure d'Al dans la nuit, sceau
   intouché ; Al note ce qui marche sans Winry (le travail du métal) :
   première ligne de sa propre carte. Dans le train, Armstrong ; chez
   Marcoh, une Pierre incomplète qui ne ressemble à aucun minéral. Retour à
   Resembool : retrouvailles avec Winry, rituel de sommeil retrouvé, bras
-  d'Ed forgé à quatre mains. Armstrong loge chez les Rockbell et pleure
-  Ishval. Second départ, vers Central ; Winry reste.
+  d'Ed forgé à quatre mains. Armstrong loge chez les Rockbell ; ce qu'il a
+  refusé à Ishval, elle l'ignore. Second départ, vers Central ; Winry reste.
 - 1914 (R7) - Central et le Laboratoire 5. La plus grande foule de sa vie.
   Sheska recopie de tête les notes de Marcoh ; décodées, elles disent que la
   Pierre est faite de vies humaines : la sensation de R6 devient un savoir.
