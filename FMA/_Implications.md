@@ -14,11 +14,11 @@ pas les re-litiger. JAMAIS fetché en narration.
 - REPRISE R5-R14 EN SÉRIE (worldbuilder, 2026-10-31) : une roadmap à la
   fois, canon revérifié épisode par épisode, modes d'étape et tranches de
   vie posés, POV unique de Rhea ; une PR par roadmap, fusionnée au fil de
-  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4), R8 (W4), R9 (W4).
+  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4), R8 (W4), R9 (W4), R10 (W4).
 - Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R10
   (Sommaire W29). État réel des autres roadmaps, relevé le 2026-10-31 :
   R11a a des modes sur 5 jalons sur 6 ; R11b, R12 et R13 ont tous leurs modes. Aucune
-  de R5 à R13 n'a de tranches de vie ; seule R14 est complète.
+  de R11a à R13 n'a de tranches de vie ; seule R14 est complète.
 - Reste avant la Passe 3 : RELECTURE CROISÉE de clôture (cœur §4).
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
   En jeu, la roadmap en cours est un document de jeu (SPEC v9.2 §7).
