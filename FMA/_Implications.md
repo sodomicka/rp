@@ -6,7 +6,7 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B21 + reprise R5-R6 (Sommaire W25, 2026-10-31)
+- dernière mise à jour : BIBLE B21 + reprise R5-R7 (Sommaire W26, 2026-10-31)
 
 ## État d'avancement du chantier
 - Passe 2 : TOUTES les roadmaps ÉCRITES, R0 à R14 (1903 -> retour à
@@ -14,10 +14,10 @@ pas les re-litiger. JAMAIS fetché en narration.
 - REPRISE R5-R14 EN SÉRIE (worldbuilder, 2026-10-31) : une roadmap à la
   fois, canon revérifié épisode par épisode, modes d'étape et tranches de
   vie posés, POV unique de Rhea ; une PR par roadmap, fusionnée au fil de
-  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3).
-- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R6
-  (Sommaire W25). État réel des autres roadmaps, relevé le 2026-10-31 :
-  R7 et R8 n'ont ni modes d'étape ni tranches de vie ; R9 n'a que deux
+  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4).
+- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R7
+  (Sommaire W26). État réel des autres roadmaps, relevé le 2026-10-31 :
+  R8 n'a ni modes d'étape ni tranches de vie ; R9 n'a que deux
   AU CHOIX ponctuels (2 jalons sur 11) ; R10 a des modes sur 4 jalons
   sur 9, R11a sur 5 sur 6 ; R11b, R12 et R13 ont tous leurs modes. Aucune
   de R5 à R13 n'a de tranches de vie ; seule R14 est complète.
@@ -169,6 +169,15 @@ pas les re-litiger. JAMAIS fetché en narration.
   tué hors POV au départ) ; R8 = Rush Valley (ép. 11) ; R9 = Dublith (ép.
   12-15, retour à Rush Valley et Ling) ; R10 = Central : Hughes et Scar
   (ép. 16-22, détonation Scar / parents). Ép. 23-29 à placer en écrivant R11.
+- R7 - CENTRAL (reprise, canon ép. 7-10 et ch. 10-16 vérifiés) : copie en
+  cinq jours, décodage en une dizaine ; Ross et Brosh blessent Barry ; Ed
+  sort de la brèche sur l'épaule d'Envy (forme non précisée) : Rhea ne voit
+  qu'une silhouette, sans-cercle devant elle = « repérée » (Envy vit jusqu'au
+  Jour Promis). Winry tait le boulon oublié. L'anniversaire se fait SANS les
+  Elric (Hughes, Winry, Gracia, Elicia) : Rhea suit Winry. Combat des frères
+  sur le toit. Bradley trouve Hughes et Armstrong au chevet. HUGHES MEURT LE
+  SOIR DE LA VISITE DE BRADLEY (ch. 15), pas au départ : le trio part
+  quelques jours plus tard, pendant l'enterrement (ch. 16), sans le savoir.
 - R7 - RHEA DEHORS AU LABORATOIRE 5 (mode usine) : avec Al, face à Barry ;
   jamais dedans (verrou), aucun homonculus vu. Protège le statut de
   sacrifice.
@@ -356,10 +365,9 @@ pas les re-litiger. JAMAIS fetché en narration.
 - IRONIE Armstrong (R6) : l'Alchimiste d'État logé chez les Rockbell est
   celui qui a été incapable de continuer à Ishval ; rien ne le dit à Rhea
   en R6. -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Hughes (R7) : tué par Envy le jour où le trio quitte Central ;
+- IRONIE Hughes (R7) : tué par Envy le soir de la visite de Bradley ; le
+  trio part vers le Sud pendant son enterrement (ch. 16) sans le savoir ;
   Rhea l'apprend en R10. -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Hughes (R8) : Rhea assiste à une naissance pendant que Central
-  enterre Hughes [CANON SUPPOSÉ : simultanéité]. -> CODEX ANNEXE_SAVOIRS.
 - IRONIE Bradley (R7) : le chef de l'armée qu'elle hait est aussi un
   homonculus ; elle l'a eu à deux mètres. -> CODEX ANNEXE_SAVOIRS.
 - IRONIE Bradley (R9) : au Devil's Nest, il se dévoile à Greed à quelques
