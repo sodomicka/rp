@@ -1,6 +1,6 @@
 # Sommaire - FMA
 
-- version : W23
+- version : W24
 
 ## WIKI
 
@@ -50,7 +50,7 @@ Description : fiches neutres canon des entités qui pèsent sur le RP, plus la p
 - Envy.md (W3) - homonculus métamorphe, a allumé Ishval, tué Hughes ; piège de May et Marcoh, réduit à sa forme vraie (R12) ; recomposé, brûlé par Mustang, se suicide (R13)
 - Sloth.md (W3) - homonculus Paresse, creuse le tunnel-cercle ; surgit à Briggs (R11b) ; tué par les Armstrong (R13)
 - Selim_Bradley_Pride.md (W5) - fils adoptif de Bradley, en vérité Pride, premier homonculus ; le dîner (R11a) ; pilote Al, dévore Gluttony, sous le dôme (R12) ; absorbe Kimblee, force Mustang ou emmène Rhea, nourrisson (R13) ; confié à Mme Bradley (R14)
-- Rose_Thomas.md (W2) - fidèle de Léto à Liore, fiancé mort, miroir du 1903 de la protagoniste (R5) ; Liore reconstruite (R12)
+- Rose_Thomas.md (W3) - fidèle de Léto à Liore, fiancé Cain mort, tire sur ordre de Cornello, miroir du 1903 de la protagoniste (R5) ; Liore reconstruite (R12)
 - Alex_Louis_Armstrong.md (W6) - Strong Arm Alchemist, ancien d'Ishval qui a refusé de continuer, escorte des Elric (R6-R7), emmène Ed à Resembool (R10), lettre pour sa sœur (R11a) ; Sloth, la surface contre Père (R13)
 - Olivier_Mira_Armstrong.md (W3) - générale de Briggs, sœur aînée d'Alex ; Sloth, le tunnel-cercle (R11b) ; coup au QG, Sloth (R13)
 - Solf_J_Kimblee.md (W4) - Alchimiste écarlate, a fait de Scar ce qu'il est ; amène Winry à Briggs (R11b) ; la mine de Baschool, hors POV (R12) ; tué par Heinkel, absorbé par Pride, hors POV (R13)
@@ -74,7 +74,7 @@ Description : itinéraires par arc, dans l'ordre de la saga, par perspective de 
 - Roadmap2_Ishval_La_Nouvelle.md (W4) - 1909, ~1 an : du départ des frères chez Izumi à leur retour (la nouvelle des parents, les jumelles, naissance de l'antimilitarisme, ce qu'Izumi sait) ; modes d'étape, les jumelles à l'atelier, tranches de vie
 - Roadmap3_Transmutation_Elric_Et_Mustang.md (W5) - 1910 -> mi-1911, ~1 an et demi : transmutation cachée des Elric, fracture, visite Mustang (repérage sur place), année d'atelier, départ d'Ed. Ouvre la Trajectoire datée de Rhea ; modes d'étape, tranches de vie de l'année d'atelier
 - Roadmap4_L_Examen_Et_Le_Depart.md (W6) - automne 1911 -> 1914, ~2 ans et demi : examen et incendie, froid en snapshots, retour des frères, révélation du 1903, Al proposé comme appui (carte de Winry), Cliquetis et Monsieur Lapinou, départ avec les Elric (arrêt avant Liore) ; modes d'étape, tranches de vie du froid et du séjour de 1914
-- Roadmap5_Liore.md (W2) - 1914, ~1 semaine : premier voyage sans Winry, Liore et Cornello, Rose en miroir du 1903, fausse Pierre, échec de la carte de Winry, Cliquetis éprouvé (hors POV : Lust et Gluttony)
+- Roadmap5_Liore.md (W3) - 1914, quelques jours : premier voyage sans Winry, Liore et Cornello, Rose en miroir du 1903, l'audience et le casque d'Al, le haut-parleur, fausse Pierre, la ville se soulève, échec de la carte de Winry, Cliquetis éprouvé ; modes d'étape, l'appel, tranches de vie du voyage
 - Roadmap6_East_City_Et_Scar.md (W2) - 1914, ~2 semaines : Mustang revu, Tucker et Nina, Scar brise Ed et Al (sans révélation sur les Rockbell), armure d'Al refaite par Rhea, Armstrong, Marcoh, retour à Resembool et second départ
 - Roadmap7_Laboratoire_5.md (W3) - 1914, ~3 semaines : Central, notes de Marcoh (la Pierre = vies humaines), Laboratoire 5 (Rhea dehors avec Al, Barry), Winry à Central, anniversaire d'Elicia, doute d'Al, visite de Bradley, départ vers le Sud (hors POV : mort de Hughes)
 - Roadmap8_Rush_Valley.md (W3) - 1914, ~3 jours : la ville du rêve de Winry, foule pour Rhea, Paninya et la montre (la date de l'incendie), Dominic refuse Winry, accouchement pendant l'orage, Winry reste chez Garfiel ; Rhea repart vers Dublith

@@ -1,6 +1,6 @@
 # Rose Thomas
 
-- version : W2
+- version : W3
 
 ## Identité
 
@@ -25,7 +25,7 @@ d'abord : elle veut la Pierre, pas la vérité.
 
 ## Histoire (jusqu'au point de départ du RP)
 
-Son fiancé, Cain, est mort avant 1914 [INCERTAIN : circonstances exactes].
+Son fiancé, Cain, est mort avant 1914, dans un accident.
 Cornello lui a promis qu'à force de foi, Léto le lui rendrait : une
 résurrection, autrement dit une transmutation humaine présentée comme un
 miracle. Elle prie et attend.
@@ -34,8 +34,11 @@ miracle. Elle prie et attend.
 
 - Cornello - prophète de Léto ; elle le croit, il l'exploite.
 - Cain - fiancé défunt ; l'objet de son attente.
-- Edward et Alphonse Elric - étrangers qu'elle guide à Liore ; Ed lui ôte
-  sa promesse et la renvoie à ses propres jambes.
+- Cray - second de Cornello, par qui elle obtient l'audience des Elric.
+- Edward et Alphonse Elric - étrangers qu'elle guide à Liore ; sur ordre de
+  Cornello, elle tire sur Ed et fait sauter le casque d'Al (ép. 3) ; Al lui
+  raconte leur histoire ; Ed lui ôte sa promesse et la renvoie à ses propres
+  jambes.
 
 ## Rapport à la protagoniste
 
@@ -50,8 +53,10 @@ miracle. Elle prie et attend.
 
 Reste à Liore après la chute de Cornello. Liore bascule ensuite dans le
 soulèvement (Envy sous les traits de Cornello) puis l'occupation militaire.
-Elle réapparaît plus tard dans la trame [INCERTAIN : moment et rôle exacts,
-à poser dans la roadmap concernée].
+Elle mène ensuite la reconstruction de Liore, aidée par Hohenheim, qui ne
+lui dit pas qu'il est le père des Elric. Le Jour Promis, son âme est prise
+par le cercle de Père avec celles du pays, puis rendue grâce au contre-cercle
+de Hohenheim.
 
 ## Renvois
 
