@@ -1,6 +1,6 @@
 # Homonculus
 
-- version : W2
+- version : W3
 
 ## Nature
 
@@ -41,7 +41,7 @@ L'armée amestrienne est leur force-pantin (cf. Factions/Armee_Amestris.md). Le 
 ## Fonction narrative pour ce RP
 
 La conspiration EST l'État militaire que la protagoniste déteste : son antimilitarisme vise, sans le savoir, la façade d'un complot.
-Une alchimiste ayant vu la Porte dès 1903 est un sacrifice valable. Statut (tranché en R12) : « hors radar » par défaut, Mustang n'ayant rien écrit en 1910 ; « repérée » si elle transmute sans cercle devant un homonculus ou Kimblee, et alors cinquième sacrifice au Jour Promis à la place de Mustang (R13). Cf. Personnages/Rhea.md, Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md et Parties/.
+Une alchimiste ayant vu la Porte dès 1903 est un sacrifice valable. Statut (tranché en R12) : « hors radar » par défaut, Mustang ne l'ayant pas citée en 1910 ; « repérée » si elle transmute sans cercle devant un homonculus ou Kimblee qui a le temps d'en faire rapport à Père, et alors cinquième sacrifice au Jour Promis à la place de Mustang (R13). Cf. Personnages/Rhea.md, Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md et Parties/.
 
 ## Renvois
 

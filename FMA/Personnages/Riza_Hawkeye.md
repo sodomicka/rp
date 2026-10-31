@@ -1,6 +1,6 @@
 # Riza Hawkeye
 
-- version : W5
+- version : W6
 
 ## Identité
 
@@ -42,7 +42,7 @@ Guerre d'Ishval : tireuse d'élite remarquée (« l'Œil du faucon ») ; traumat
 Militaire de carrière - donc, a priori, une figure que la protagoniste antimilitariste rejette. Nuance : Riza déteste elle aussi ce qu'a été Ishval. Cf. Personnages/Rhea.md et roadmaps.
 - 1910 (R3, atelier Rockbell) : seule du duo à lire en Rhea autre chose qu'une cause perdue (« une gamine qui aura envie de faire bouger les choses »). Rhea ignore alors que Riza porte, d'un autre bord, la même plaie d'Ishval.
 - 1914 (R10) : présente au Laboratoire 3 (hors POV) et à la planque de Knox, où elle ramène Ling et Gluttony.
-- 1914 (R11) : devenue l'assistante de Bradley, son otage. Ed lui rend son pistolet ; Rhea avec lui, elle raconte Ishval (son père, l'ordre signé par Bradley, Kimblee, le vœu de Mustang) et dit qu'à la paix ils seront jugés pour leurs crimes. L'ironie de 1910 détone. Découvre ensuite, hors POV, que Selim est Pride. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
+- 1914 (R11a) : devenue l'assistante de Bradley, son otage. Ed lui rend son pistolet ; Rhea avec lui, elle raconte Ishval (son père, l'ordre signé par Bradley, Kimblee, le vœu de Mustang) et dit qu'à la paix ils seront jugés pour leurs crimes. L'ironie de 1910 détone. Découvre ensuite, hors POV, que Selim est Pride. Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md.
 - 1915 (R13) : met Mustang en joue devant Envy, sous les yeux de Rhea. « Hors radar » : gorge tranchée sur ordre du docteur, sauvée par May (Rhea ne touche pas l'organique). « Repérée » : indemne. Guide le feu de Mustang aveugle (canon) contre Père. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 - 1915 (R14) : au chevet de Mustang, présente si Rhea vient et que le silence de 1910 détone. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 
@@ -57,7 +57,7 @@ Le Jour Promis, les antagonistes tentent de la tuer pour forcer Mustang. Survit 
 - Ishval : cf. Lieux/Ishval.md
 - Armée : cf. Factions/Armee_Amestris.md
 - Visite de 1910 : cf. Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md
-- 1914 : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md
+- 1914 : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md
 
 ---
 

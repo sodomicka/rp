@@ -1,6 +1,6 @@
 # Roadmap 9 - Dublith : Izumi et Greed
 
-- version : W2
+- version : W3
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : ~10 jours (1914) [CANON SUPPOSÉ : durées internes] : ~4 jours à Dublith chez les Curtis, l'enlèvement d'Al et le raid du Devil's Nest (une nuit et un jour), le trajet de retour, ~3 jours à Rush Valley (Ling, la garde, la ville réparée), le départ pour Central
@@ -80,7 +80,7 @@ Le miroir trouve son reflet. Depuis 1909, Izumi sait qu'une gamine paie quelque 
 - Que Winry reste à Rush Valley - elle part pour Central avec le trio (canon ép. 15).
 - Rejoindre l'armée ou passer l'examen d'État - antimilitarisme sur toute la saga.
 - Avouer son attirance pour Al - nœud avoué seulement à la fin du périmètre.
-- Qu'Al obtienne le sans-cercle - ses souvenirs de 1910 reviennent, pas le savoir de la Porte [INCERTAIN : moment canon du sans-cercle].
+- Qu'Al obtienne le sans-cercle - ses souvenirs de 1910 reviennent, pas le savoir de la Porte ; le sans-cercle, pas avant la Roadmap 13 (ép. 59).
 
 ## Verrous
 - Jalon 6 : rester dehors pendant le raid. Paliers :
@@ -99,7 +99,7 @@ Le miroir trouve son reflet. Depuis 1909, Izumi sait qu'une gamine paie quelque 
 
 ## Notes de frontière
 - Izumi et le 1903 (jalon 3) : Izumi est l'exception au verrou. Elle n'apprend rien, elle a deviné en 1909 ; le confirmer, raconter Alan ou se taire : au choix du joueur. Conséquence par défaut : Izumi garde tout pour elle, rien ne fuit. Elle reste une autorité audible (rapport d'expérience, pas sermon).
-- Sans-cercle devant un témoin (au choix du joueur) : devant Sig, la bande de Greed, Armstrong, Ling, Lan Fan, Fu ou la foule de Rush Valley, rien ne remonte aux homonculus. Devant Greed : déserteur, refondu par Père sans en rien rapporter [INTERPRÉTATION], rien ne remonte. Devant Bradley (au raid) : l'information remonte à Père, statut « repérée » pour la partie (delta Parties/), Roadmap 12 en hérite. Déjà « repérée » (R7) : rien de plus.
+- Sans-cercle devant un témoin (au choix du joueur) : devant Sig, la bande de Greed, Armstrong, Ling, Lan Fan, Fu ou la foule de Rush Valley, rien ne remonte aux homonculus. Devant Greed : déserteur, il refuse l'offre de Père de revenir et se fait refondre sans marchander (canon ép. 14 ; décision worldbuilder : il ne vend rien), rien ne remonte. Devant Bradley (au raid) : l'information remonte à Père, statut « repérée » pour la partie (delta Parties/), Roadmap 12 en hérite. Déjà « repérée » (R7) : rien de plus.
 - Ling et le sans-cercle : il cherche l'immortalité, pas les alchimistes ; il peut s'y intéresser par curiosité, sans suite sur la trame.
 - Les chimères (jalon 5) : des humains greffés de bêtes par l'armée (anciens soldats), qui parlent et pensent : Nina sans la fonte. Rhea ne les achève pas ; Bradley s'en charge.
 - Al et la Porte : ses souvenirs de la nuit de 1910 reviennent, pas le sans-cercle (Al trace toujours ses cercles). La lecture de Rhea (« il n'a même pas la compensation ») tient toujours.

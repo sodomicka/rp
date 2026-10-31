@@ -1,6 +1,6 @@
 # Tim Marcoh
 
-- version : W5
+- version : W6
 
 ## Identité
 
@@ -51,15 +51,15 @@ sans lui dire ce qu'elles contiennent.
   savoir). S'il entend le nom Rockbell, il sait que Sarah et Yuri sont
   morts à Ishval, pas par qui [cadrage MJ]. Détail : cf.
   Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md.
-- 1914 (R11) : captif des homonculus, enlevé par Scar, à qui il avoue Ishval ; défiguré pour ne pas être reconnu ; étudie l'alkahestrie avec May. Retrouvé par Rhea à Baschool, visage changé. Détail : cf. Roadmap/Rhea/Roadmap11_Le_Nord_Briggs.md.
+- 1914 (R11a-R11b) : captif des homonculus, enlevé par Scar, à qui il avoue Ishval ; défiguré pour ne pas être reconnu ; étudie l'alkahestrie avec May. Retrouvé par Rhea à Baschool, visage changé. Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md, Roadmap11b_Le_Nord_Briggs.md.
 - 1914-1915 (R12) : appât du piège à Envy ; avalé par la bête, il brise sa Pierre de l'intérieur. Pour Rhea : le fabricant de Pierres qui en détruit une. Part de son côté. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : hors POV. Soigne Heinkel, qui tue Kimblee. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
-- 1915 (R14) : apporte sa Pierre à l'hôpital : Havoc d'abord, puis les yeux de Mustang (« hors radar ») ; Havoc seul (« repérée ») [INTERPRÉTATION]. Refusée pour l'œil de Rhea (interdit). Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
+- 1915 (R14) : apporte sa Pierre à l'hôpital : Havoc d'abord, puis les yeux de Mustang (« hors radar ») ; Havoc seul (« repérée », Mustang voyant). Refusée pour l'œil de Rhea (interdit). Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 
 ## Sort connu (canon)
 
 Capturé ensuite par les homonculus, contraint de servir leur plan ;
-défiguré [CANON SUPPOSÉ : par Envy]. Se range plus tard aux côtés de Scar. Survit ; soigne
+défiguré par Scar, pour qu'on ne le reconnaisse pas (canon ép. 31). Se range plus tard aux côtés de Scar. Survit ; soigne
 la vue de Mustang avec une Pierre après le Jour Promis.
 
 ## Renvois

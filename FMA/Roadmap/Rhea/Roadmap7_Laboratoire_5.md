@@ -1,6 +1,6 @@
 # Roadmap 7 - Laboratoire 5
 
-- version : W2
+- version : W3
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : ~3 semaines (1914) [CANON SUPPOSÉ : durées internes] : ~1 semaine de copie et de décodage, la nuit du Laboratoire 5, ~10 jours d'hôpital (arrivée de Winry, anniversaire d'Elicia, visite du Généralissime), le départ de Central
@@ -97,7 +97,7 @@ L'arc où la Pierre change de nature : ce n'est plus un espoir, c'est un charnie
 ## Notes de frontière
 - Ironie dramatique (cadrage MJ, hors prose) : Hughes meurt le jour du départ, pendant que Rhea est dans le train ; Bradley, qu'elle hait comme chef de l'armée, est aussi un homonculus. À verser au CODEX.
 - Winry et le secret (jalon 6) : Rhea ne ment pas à Winry ; lui cacher, c'est se rendre inconnue à sa jumelle. Ed demande le silence. Tout dire, ou dire qu'il y a un secret qu'Ed lui interdit de lâcher : au choix du joueur. Conséquence par défaut si Winry sait : elle se tait devant les frères, et rien ne bouge sur la trame (en canon, elle apprend tout à Central, Roadmap 10).
-- Sans-cercle devant un témoin (au choix du joueur) : devant Barry, Ross, Brosh, Sheska ou Hughes, rien ne remonte. Devant Bradley : Wrath est un homonculus, l'information remonte à Père ; pour la partie, le statut de sacrifice de Rhea passe de « hors radar » à « repérée » (delta en Parties/), et Roadmap 12 en hérite.
+- Sans-cercle devant un témoin (au choix du joueur) : devant Barry, Ross, Brosh, Sheska ou Hughes, rien ne remonte. Devant Bradley : Wrath est un homonculus et a tout le temps d'en faire rapport (condition worldbuilder : un témoin ne compte que s'il peut rapporter à Père), l'information remonte ; pour la partie, le statut de sacrifice de Rhea passe de « hors radar » à « repérée » (delta en Parties/), et Roadmap 12 en hérite.
 - Barry et Al : une âme dans une armure qui ne demande qu'à tuer, miroir inversé d'Al ; il voit Rhea, retient la gamine au cache-œil.
 - Ross et Brosh : affectés aux frères jusqu'au départ. Ross sera accusée du meurtre de Hughes (Roadmap 10).
 - Scar après East City : hors POV ; recueilli par des réfugiés ishvals.

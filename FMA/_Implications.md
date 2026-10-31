@@ -6,7 +6,7 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B19 (Roadmap 14, 2026-10-30)
+- dernière mise à jour : BIBLE B20 (questions ouvertes R5-R14 tranchées, 2026-10-31)
 
 ## État d'avancement du chantier
 - Passe 2 : TOUTES les roadmaps ÉCRITES, R0 à R14 (1903 -> retour à
@@ -185,82 +185,84 @@ pas les re-litiger. JAMAIS fetché en narration.
   BRADLEY HOMONCULUS : Rhea l'apprend par Ling, à la planque (ép. 23).
   Statut : sans-cercle devant Gluttony (planque) = « repérée ».
   Winry repart seule pour Rush Valley (ép. 23) ; Rhea reste (pacte R4).
-- R11 - LE NORD : BRIGGS (mode usine, canon ép. 23 fin -> 39 vérifié sur
-  Wikipedia). Borne de sortie : les galeries de Baschool, fin de l'ép. 39.
-  R12 reprend à l'ép. 40.
-  RHEA PART AVEC KNOX (verrou) quand Gluttony se transforme : jamais avalée,
-  jamais au repaire de Père. Elle apprend tout du récit d'Ed (Père, Greed-
-  Ling, corps d'Al, Envy et Ishval, Winry otage).
-  WINRY OTAGE : Rhea ne ment pas ; l'appeler est AU CHOIX (lignes écoutées,
-  Bradley n'apprend rien ; Kimblee vient la chercher quand même). Pas de
-  verrou.
-  RÉCIT DE RIZA (ép. 30) : Rhea présente par défaut. L'ironie Mustang/Riza de
-  1910 DÉTONE en R11 (reste une ironie pour R3-R10 au CODEX).
-  DÎNER CHEZ LES BRADLEY (ép. 32) : Rhea à table ; attaque verrouillée ;
-  Selim = Pride inconnu d'elle.
-  STATUT DE SACRIFICE : témoins qui font « repérée » en R11 : Gluttony,
-  Bradley, Selim, Sloth, Kimblee [INTERPRÉTATION pour Kimblee, humain au
-  service de Père]. Déjà « repérée » : Bradley la nomme avec Winry, Kimblee
-  la connaît, Père la compte parmi ses candidats à l'ép. 39 (il cherche un
-  cinquième sacrifice). Suite : R12.
-  BRIGGS : Olivier ne propose rien à Rhea ; l'automail gelé d'Ed se refait à
-  quatre mains (Winry, Rhea au métal).
-  PARDON DE SCAR : celui de Winry (ép. 39). Rhea n'est pas tenue de pardonner
-  (tempérament : réparation dans la durée, pas excuses) ; par défaut, elle ne
-  dit pas « je pardonne ». Scar sait qu'elle est aussi une fille des Rockbell
-  si elle ou Winry le dit.
-  LA RUSE : Rhea part avec Winry dans l'« enlèvement » (par défaut) ; Ed et
-  Al restent chez Kimblee. Ed empalé (ép. 41) hors de son POV en R12.
-  LAN FAN refuse l'automail (canon ép. 31) ; l'offre Rockbell reste ouverte.
+- R11 COUPÉE EN DEUX (décision worldbuilder, 2026-10-31, budget) :
+  R11a - Central : la fausse Porte (ép. 23 fin -> 32) et R11b - Le Nord :
+  Briggs (ép. 33 -> 39). Canon revérifié épisode par épisode (Wikipedia,
+  résumés otakuauthor). R12 reprend à l'ép. 40.
+  R11a : RHEA PART AVEC KNOX (verrou) quand Gluttony se transforme : jamais
+  avalée, jamais au repaire de Père. Elle apprend tout du récit d'Ed (Père,
+  Greed-Ling, corps d'Al, Envy et Ishval, Winry otage). WINRY OTAGE : Rhea
+  ne ment pas ; l'appeler est AU CHOIX. RÉCIT DE RIZA (ép. 30) : Rhea
+  présente par défaut ; l'ironie Mustang/Riza de 1910 DÉTONE en R11a.
+  DÎNER CHEZ LES BRADLEY (ép. 32) : Rhea à table ; attaque verrouillée.
+  LAN FAN et Fu refusent l'automail (ép. 31).
+  R11b : BRIGGS : Olivier ne propose rien à Rhea ; l'automail gelé d'Ed se
+  refait à quatre mains. BASCHOOL : Winry vient cachée dans l'armure d'Al
+  (ép. 38) ; à l'explosion de Kimblee, LA RUSE est l'idée de Winry (ép. 39) ;
+  Rhea part avec elle (par défaut) ; Ed et Al restent chez Kimblee. PARDON
+  DE SCAR : celui de Winry, dans la planque (ép. 39) ; Rhea n'est pas tenue
+  de pardonner ; par défaut, elle ne dit pas « je pardonne ».
+  STATUT : témoins R11a = Gluttony, Bradley, Selim ; R11b = Sloth, Kimblee
+  (Kimblee compte, décision worldbuilder).
 - R12 - CONVERGENCE (mode usine, canon ép. 39-52 vérifié sur Wikipedia).
   Couvre ép. 40 -> 49 (début) : borne de sortie à l'aube du Jour Promis,
   groupes d'Ed et de Scar réunis. R13 = ép. 49 (suite) -> 63 ; R14 = fin 63
   et 64. ~3 mois (hiver -> printemps 1915) : les 17 ans de Rhea tombent en
   R12, entre Liore et Resembool.
-  STATUT DE SACRIFICE - TRANCHÉ : Mustang n'a RIEN ÉCRIT en 1910 (son
-  rapport ne porte qu'Edward ; il tait une civile de 12 ans qui le traitait
-  de génocidaire, pour ne pas la livrer à la machine qu'il veut réformer).
+  STATUT DE SACRIFICE - TRANCHÉ (worldbuilder, 2026-10-31) : Mustang sait,
+  mais ne la cite pas en 1910 : il l'a vue vouloir une vie sans problèmes,
+  loin de l'armée (qu'elle n'a rejointe qu'indirectement, mécanicienne
+  d'Ed), et lui rend ce calme. Son rapport ne porte qu'Edward.
   L'armée n'a rien, Père non plus : « hors radar » par défaut. Rhea l'ignore
   (ironie au CODEX). « Repérée » (témoin homonculus ou Kimblee, R7-R12,
-  choix du joueur) : Rhea est le CINQUIÈME SACRIFICE de Père au Jour Promis,
+  choix du joueur, À CONDITION que le témoin ait le temps d'en faire
+  rapport à Père : condition suivie sur tout le jeu, deux branches écrites
+  jusqu'au bout) : Rhea est le CINQUIÈME SACRIFICE de Père au Jour Promis,
   à la place de Mustang, qui n'est pas forcé d'ouvrir la Porte et garde la
   vue ; en R12, les homonculus la veulent vivante. « Hors radar » : canon
   (Mustang cinquième) ; elle devient « repérée » si elle transmute sans
   cercle devant un homonculus le Jour Promis (détail : R13).
-  Témoins R12 : Envy (remonte à sa libération, R13), Gluttony, Pride. Greed
-  (dans Ling) : rien ne remonte [INTERPRÉTATION].
+  Témoins R12 : Gluttony, Pride. Envy : NON, il ne revoit jamais Père
+  avant sa mort (R13). Greed (R9 puis dans Ling) : rien ne remonte, il ne
+  marchande pas avec Père (worldbuilder ; canon ép. 14 : il refuse l'offre
+  et se fait refondre).
   RHEA SE SAIT SACRIFICE : Hohenheim à Liore (Jour Promis, cinq sacrifices) ;
   il reconnaît une survivante de la Porte, ne sait rien du 1903, ne la
   dénonce pas. Elle le dit à Winry (ne ment pas).
   ITINÉRAIRE : Rhea avec Winry (galeries, bidonville du Nord, Liore), démonte
   et remonte Al (sceau intouché) ; piège à Envy, verrou : ne pas le tuer ;
   raccompagne Winry à Resembool (verrou : Al le demande, Winry otage) ; Ed
-  vivant, Greed-Ling, Lan Fan à l'automail de PINAKO [CANON SUPPOSÉ] ;
+  vivant, installé dans la chambre de Winry avec Greed-Ling (ép. 46) ; Lan
+  Fan n'est pas à Resembool, elle revient au bidonville avec un automail
+  (ép. 47), sans que Rhea sache qui l'a posé ;
   automail au carbone à quatre mains ; Winry refuse de fuir et RESTE à
   Resembool ; Rhea repart avec Ed (verrou : pacte R4), cinquième séparation,
-  Monsieur Lapinou à Resembool. Bidonville : Pride (Rhea apprend que Selim
-  est Pride), Gluttony dévoré ; dôme de Hohenheim sur Al et Pride (verrou :
+  Monsieur Lapinou à Resembool. Bidonville : Selim en chair, Pride en
+  ombres (ép. 48 vérifié : Rhea apprend que Selim est Pride), Gluttony dévoré ; dôme de Hohenheim sur Al et Pride (verrou :
   ne pas l'empêcher). Kimblee hors POV, croisement interdit en R12.
 - R13 - LE JOUR PROMIS (mode usine, canon ép. 49-63 vérifié sur Wikipedia).
   Une journée. Borne de sortie : Père renvoyé à la Porte, l'armure d'Al
   vide (ép. 63, avant le choix d'Ed) ; R14 = fin 63 et 64.
-  ITINÉRAIRE : Rhea avec Ed, Scar, Darius, Jerso, Zampano sous Central
-  (Laboratoire 3, soldats-mannequins) ; présente à la mort d'Envy (verrou :
+  ITINÉRAIRE (revérifié ép. 52-59) : Rhea avec Ed, Scar, Darius, Jerso,
+  Zampano sous Central (Laboratoire 3, soldats-mannequins), puis avec Ed,
+  Scar, Mustang et Riza ; présente à la mort d'Envy (verrou :
   ne pas le tuer) ; ni Pride, ni Kimblee, ni Bradley (hors POV) ; à la
   surface contre Père ; échange d'Al verrouillé.
-  CINQUIÈME SACRIFICE : le cercle du docteur aux dents d'or prend les
-  sacrifices connus de Père [INTERPRÉTATION]. « Repérée » : Rhea aspirée
-  avec Ed, Al et Izumi ; Père a ses cinq ; le docteur ne force pas
-  Mustang, Riza n'est pas égorgée, Mustang garde la vue. « Hors radar » :
-  Rhea reste avec Darius, Jerso, Zampano, rejoint May devant le docteur ;
+  CINQUIÈME SACRIFICE : le cercle du docteur aux dents d'or fait passer Ed,
+  Al et Izumi par leur Porte jusqu'à Père (ép. 57). « Repérée » : elle a
+  ouvert la Porte, la Vérité la prend comme eux (worldbuilder) ; Père a ses
+  cinq ; Mustang n'est pas forcé, Riza n'est pas égorgée, Mustang garde la
+  vue. « Hors radar » : Rhea reste avec Mustang, Riza et Scar ; Riza
+  égorgée, Mustang refuse, Darius, Jerso, Zampano et May arrivent, Pride
+  force Mustang à travers la Porte (ép. 58-59) ;
   BASCULE au choix du joueur : sans-cercle devant Pride ou Bradley avant
   la transmutation forcée = Pride l'emmène, Mustang épargné. Après, plus
   de bascule. Envy (jalon 2) meurt sans revoir Père : rien ne remonte.
   Sacrifice ≠ nouveau péage : elle a payé en 1903.
   AL ET LE SANS-CERCLE : recouvré en repassant la Porte (ép. 59)
-  [CANON SUPPOSÉ]. Point ouvert soldé.
+  [CANON SUPPOSÉ : non confirmé par les résumés lus].
   SILENCE DE MUSTANG : ne détone pas en R13 ; détonable en R14.
-  AVEU À AL : toujours interdit en R13, même à l'échange (R14).
+  DÉCLARATION RHEA/AL : toujours interdite en R13, même à l'échange (R14).
 - R14 - RETOUR À RESEMBOOL (mode usine, canon ép. 63 fin et 64, Wikipedia
   partiel : résumés seulement). Quelques semaines. Borne de sortie : la
   première nuit dans la chambre des sœurs ; fin du périmètre, aucune
@@ -270,31 +272,42 @@ pas les re-litiger. JAMAIS fetché en narration.
   n'offre ni sa Porte ni son œil à sa place.
   NŒUD RHEA/AL - DÉTONÉ : la bascule de 1910 venait de l'armure
   (anti-Alan) ; corps rendu = la valeur rebascule (COF, pas de moyenne).
-  Aveu REQUIS à Resembool, moment au choix, registre frontal. Réponse
-  d'Al : il ne la repousse pas (tranché en mode usine sur les Bases
-  Romance 1920 du dépôt, qui les montrent mariés ; la forme se joue).
+  DÉCLARATION REQUISE à Resembool, de l'un ou de l'autre (worldbuilder,
+  2026-10-31) : c'est réciproque, Al tient à prendre soin d'elle depuis
+  1914 et dit toujours oui ; le choix de Rhea est au joueur ; si le joueur
+  ne parle pas de l'amour de Rhea, ou ne le réveille pas, Al se déclare
+  timidement, sûr de se prendre un râteau. Cohérent avec les Bases Romance
+  1920 (mariés). AL GARDE L'ALCHIMIE (worldbuilder ; ép. 64 : il part
+  étudier l'alkahestrie) ; Rhea et Al restent les alchimistes du foyer.
   MONSIEUR LAPINOU - BOUCLÉ (lore worldbuilder) : reste à Winry, Rhea ne
   le reprend pas ; Cliquetis reste à Rhea ; les deux dans le lit du
   rituel. Écho possible de la tarte (R1) en tranche de vie.
-  SILENCE DE MUSTANG : détone au chevet (jalon 5, AU CHOIX : y aller ou
+  SILENCE DE MUSTANG : détone au chevet (jalon 4, AU CHOIX : y aller ou
   non), par Mustang lui-même, à plat. Sinon ironie au CODEX. « Repérée » :
   personne ne sait qu'il lui doit ses yeux.
   PIERRE DE MARCOH : « hors radar », Havoc puis Mustang (canon) ;
-  « repérée », Havoc seul [INTERPRÉTATION]. INTERDIT : la Pierre pour
+  « repérée », Havoc seul (Mustang voyant). INTERDIT : la Pierre pour
   l'œil ou le cortex de Rhea (le péage est à elle ; Bases Romance 1920 :
   inchangée).
   SCAR : soigné en secret, Ishval ; pas de pardon dit par défaut, la
   reconstruction = réparation dans la durée.
-  WINRY : vient à Central avec Pinako [CANON SUPPOSÉ] ; dit l'éclipse.
-  HOHENHEIM : mort sur la tombe de Trisha, trouvé par Pinako [CANON
-  SUPPOSÉ].
+  WINRY : n'est pas à Central ; elle accueille les frères et Rhea à
+  Resembool (ép. 64) et y dit l'éclipse. HOHENHEIM : mort à genoux devant
+  la tombe de Trisha (ép. 63) ; Pinako l'annonce, qui l'a trouvé n'est pas
+  dit.
 
 ## Points ouverts (à trancher en Passe 2, roadmap par roadmap)
 - Réconciliation Rhea/Al (R4 -> R14) : vérifier à la relecture croisée que
   la carte d'Al et la dissonance anti-Alan progressent sans saut d'une
-  roadmap à l'autre jusqu'à l'aveu (R14).
-- Al et le sans-cercle après le retour de son corps (R14) : [INCERTAIN],
-  sans effet sur la trame jouée.
+  roadmap à l'autre jusqu'à la déclaration (R14).
+- Al et le claquement de mains après le retour de son corps (R14) :
+  [INCERTAIN], sans effet sur la trame jouée (il garde l'alchimie, tranché).
+- [CANON SUPPOSÉ] laissés en l'état (worldbuilder, 2026-10-31 : non
+  confirmables sans fandom, bloqué depuis l'environnement) : texte gravé
+  dans la montre (3 octobre 1911), claquement de mains d'Al après l'ép. 59,
+  lieu de réapparition du corps d'Al (cour du QG), enterrement de Hughes
+  pendant l'accouchement (R8), parents de Paninya, prénom Satella, mère de
+  Sheska, durées internes des arcs, lieux non nommés.
 
 ## À verser au CODEX à la bascule jeu
 - IRONIE Mustang/Riza (R3, 1910) : Rhea traite Mustang de "génocidaire" sans
@@ -322,14 +335,14 @@ pas les re-litiger. JAMAIS fetché en narration.
 - IRONIE Mustang (R10) : Rhea le voit « brûler » Ross, ce qui confirme son
   « génocidaire » de 1910 ; c'est une mise en scène pour la sauver.
   -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Selim (R11) : le gamin poli du dîner est Pride, le premier
-  homonculus ; Rhea ne le saura pas en R11. -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Mustang/Riza : vaut pour R3-R10 seulement ; détonée en R11 par le
+- IRONIE Selim (R11a) : le gamin poli du dîner est Pride, le premier
+  homonculus ; Rhea ne le saura pas avant R12. -> CODEX ANNEXE_SAVOIRS.
+- IRONIE Mustang/Riza : vaut pour R3-R10 seulement ; détonée en R11a par le
   récit de Riza.
 - IRONIE Mustang (R12, vaut depuis 1910) : le « génocidaire » a tu son
   sans-cercle dans son rapport ; c'est lui qui la tient hors radar depuis
   quatre ans. -> CODEX ANNEXE_SAVOIRS.
-- IRONIE Selim (R11) : détonée en R12 (Pride au bidonville).
+- IRONIE Selim (R11a) : détonée en R12 (Pride au bidonville).
 - IRONIE Mustang (R13, « repérée ») : il garde la vue parce que celle qu'il
   a tue en 1910 a été repérée ailleurs ; aucun des deux ne le sait.
   -> CODEX ANNEXE_SAVOIRS.
@@ -349,9 +362,14 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Nom de jeune fille d'Izumi (Harnet) : non confirmé.
 
 ## Dettes de build
-- Budget roadmap : R12 = ~18 800 caractères (plafond 15 000), comme R11
-  (~22 800). Compressions possibles sur décision du worldbuilder. R13 tient
-  le plafond (~11 900), R14 aussi (~10 900).
+- Budget roadmap : R11 coupée en R11a et R11b, chacune sous le plafond.
+  R12 (~19 000 caractères, plafond 15 000) : léger dépassement TOLÉRÉ
+  (décision worldbuilder, 2026-10-31).
+- CLÔTURE DE PASSE 2 : retirer de toutes les roadmaps les mentions « hors
+  POV » (notions de build : le MJ de jeu ne voit que ce que Rhea vit et
+  apprend ; ce qu'elle apprend plus tard reste écrit au moment où elle
+  l'apprend). Décision worldbuilder, 2026-10-31 ; règle posée au cœur
+  (Clôture de Passe 2).
 
 ## Points de forme à revérifier à la clôture
 - Âge de Rhea sur la trame : 16 ans à l'entrée (1914), 17 au Jour Promis
