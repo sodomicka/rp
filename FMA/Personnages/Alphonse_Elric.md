@@ -1,6 +1,6 @@
 # Alphonse Elric
 
-- version : W20
+- version : W21
 
 ## Identité
 
@@ -51,7 +51,7 @@ Ami d'enfance de la protagoniste. En 1910, il cache avec Ed la transmutation à 
 - 1914 (R10) : seul relais de Rhea pendant l'absence d'Ed ; la laisse avec Winry pour partir avec Ling contre Barry (Laboratoire 3, hors POV de Rhea : il y voit Lust et protège Riza d'un sans-cercle, ch. 39) ; revient le bras gauche arraché. Dit devant Winry et Rhea que son âme et l'armure peuvent se rejeter (ép. 20). Apprend d'Ed que la chose de 1910 n'était pas Trisha, et que Scar a tué les Rockbell (ch. 45). Au piège, repousse Scar ; bloque Rhea si elle veut le tuer.
 - 1914 (R11a-R11b) : se fait mener à Père par Gluttony ; Bradley plante son sabre dans l'armure, May cachée dedans ; ramène May Chang et le message de Greed pour Lan Fan à la maison de Knox, où Rhea l'attend. Apprend d'Ed que son corps attend devant la Porte : pour Rhea, l'anti-Alan bouge sans se résoudre (Al a un corps à reprendre, Alan n'en avait plus). Briggs, le tunnel ; séparé d'Ed par Kimblee ; épargne les chimères à Baschool ; reste pour couvrir la ruse, puis part dans le blizzard (hors POV).
 - 1914-1915 (R12) : rattrape le groupe après avoir fait le tour de la montagne ; armure démontée et remontée par Rhea (sceau intouché ; pertes de conscience [CANON SUPPOSÉ]). À Asbec, May lui explique la veine du dragon. À Liore, Hohenheim lui avoue être une Pierre vivante, Père fait à son image ; reste avec lui. Pris dans le train par Gluttony et Pride, piloté par Pride à Kanama ; le dôme de terre est son plan avec son père, caché à Ed : son corps creux peut attendre le Jour Promis sous la terre avec Pride. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
-- 1915 (R13) : contre Pride et Kimblee (hors POV), sacrifice ; à la Porte, voit son corps et en revient avec le sans-cercle ; échange son âme contre le bras d'Ed avec May, l'armure reste vide. Rhea ne peut ni l'empêcher ni lui avouer quoi que ce soit. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
+- 1915 (R13) : contre Pride et Kimblee (hors POV), sacrifice ; à la Porte, voit son corps affaibli et choisit de rester dans l'armure pour se battre (ép. 59) ; échange son âme contre le bras d'Ed avec May, l'armure reste vide. Rhea ne peut ni l'empêcher ni lui avouer quoi que ce soit. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 - 1915 (R14) : revient dans son corps de 1910 par la Porte d'Ed, décharné ; réapprend à manger et à dormir à l'hôpital de Central ; rentre à Resembool. Pour Rhea, il n'est plus l'anti-Alan : la valeur rebascule. C'est réciproque (décision worldbuilder) : il a pris soin d'elle depuis 1914 et dit toujours oui ; si elle ne dit rien, il se déclare lui-même, timidement, sûr de se prendre un râteau. Garde sa Porte et l'alchimie, sans cercle. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 
 ## Sort connu (canon)

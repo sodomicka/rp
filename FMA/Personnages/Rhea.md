@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W30
+- version : W31
 
 ## Identité
 
@@ -506,11 +506,11 @@ partie.
   Ed, Riza et Scar le retiennent ; Envy arrache sa Pierre. Ross vivante,
   le secret tombe. Le cercle du docteur prend Ed, Al et Izumi à travers leur
   Porte : « repérée », la Vérité la prend aussi, cinquième sacrifice, clouée à l'éclipse à côté d'Izumi,
-  Mustang garde la vue ; « hors radar », elle voit Riza égorgée, May qui
-  soigne, Pride qui force Mustang, qui perd la vue (sauf si elle se montre
+  Mustang garde la vue ; « hors radar », elle voit Riza blessée à mort, May qui
+  arrête le sang, Pride qui force Mustang, qui perd la vue (sauf si elle se montre
   avant). Père avale Dieu, l'alchimie s'éteint puis revient avec le cercle
   du frère de Scar ; Bradley meurt. À la surface, elle se bat au métal et à
-  la pierre ; Al, sans-cercle retrouvé, échange son âme contre le bras d'Ed.
+  la pierre ; Al, resté dans l'armure, échange son âme contre le bras d'Ed.
   Greed s'éteint, Ed renvoie Père à la Porte. L'armure qu'elle a refaite
   est vide ; rien n'a été dit.
 - 1915 (R14) - Retour à Resembool. Dans la cour, Ed refuse la vie de

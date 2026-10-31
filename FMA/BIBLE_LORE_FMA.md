@@ -16,7 +16,7 @@
 - univers : Fullmetal Alchemist (branche manga / Brotherhood, continuité Arakawa)
 - sources primaires : manga Arakawa + anime Brotherhood (2009). Canon local prime sur 2003.
 - site_ref canon (Brotherhood, épisode par épisode) : `https://fma.fandom.com/wiki/Episode_<N>_(2009_Anime)` (N = 1 à 64 ; chaque page liste les chapitres manga adaptés). Secours : `https://fma.fandom.com/wiki/List_of_Fullmetal_Alchemist_episodes`, ou le miroir `https://daddyjim.com/fullmetal-alchemist/episode/Episode-<N>-2009-Anime` (pages chapitre : `.../manga-chapter/`, personnages : `.../character/`), ou recherche web. VÉRIFICATION uniquement : ni théories fans, ni copie de texte. Méthode de déroulement : cf. _Implications.md.
-- bible_version : B24
+- bible_version : B25
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/FMA/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/FMA/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/FMA/Partie1/`
@@ -126,7 +126,7 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Sarah Rockbell - chirurgienne de guerre | médecine | mère adoptive de Rhea | tuée par Scar (1908) | établi. detail: cf. WIKI Personnages/Sarah_Rockbell.md
 - Yuri Rockbell - chirurgien de guerre | médecine | père adoptif de Rhea | tué par Scar (1908) | établi. detail: cf. WIKI Personnages/Yuri_Rockbell.md
 - Edward Elric - Fullmetal Alchemist | transmutation sans cercle, automail-lame, combat | ami d'enfance de Rhea | survit, paie le retour d'Al avec sa Porte (R14) | établi. detail: cf. WIKI Personnages/Edward_Elric.md
-- Alphonse Elric - âme scellée dans une armure | alchimie au cercle jusqu'en 1914 (aucun souvenir de la Porte), sans-cercle dès Rush Valley (R9), combat | ami d'enfance de Rhea ; échange son âme contre le bras d'Ed (R13) ; déclaration réciproque avec Rhea (R14) | survit, recouvre son corps, garde l'alchimie (R14) | établi. detail: cf. WIKI Personnages/Alphonse_Elric.md
+- Alphonse Elric - âme scellée dans une armure | alchimie au cercle jusqu'en 1914 (aucun souvenir de la Porte), sans-cercle dès Rush Valley (R9), combat | ami d'enfance de Rhea ; choisit l'armure à la Porte, puis échange son âme contre le bras d'Ed (R13) ; déclaration réciproque avec Rhea (R14) | survit, recouvre son corps, garde l'alchimie (R14) | établi. detail: cf. WIKI Personnages/Alphonse_Elric.md
 - Trisha Elric - mère Elric | - | parallèle thématique (deuil-transmutation) | morte en 1904 | établi. detail: cf. WIKI Personnages/Trisha_Elric.md
 - Van Hohenheim - Pierre vivante, père absent | alchimie sans cercle, immortalité | adversaire de Père ; dit à Rhea qu'elle est un sacrifice valable (R12) | meurt sur la tombe de Trisha (R14) | établi. detail: cf. WIKI Personnages/Van_Hohenheim.md
 - Roy Mustang - Flame Alchemist, colonel | alchimie de flamme | supérieur d'Ed, héros d'Ishval ; a tu le sans-cercle de Rhea en 1910 | perd la vue (canon, rendue par la Pierre de Marcoh après Havoc, R14) ou la garde si Rhea est le cinquième sacrifice (R13) ; silence de 1910 détonable (R14), survit | établi. detail: cf. WIKI Personnages/Roy_Mustang.md
@@ -209,4 +209,4 @@ Index détaillé page-par-page : cf. WIKI FMA/Sommaire.md
 
 ---
 
-FIN_BIBLE_B24
+FIN_BIBLE_B25
