@@ -16,7 +16,7 @@
 - univers : Fullmetal Alchemist (branche manga / Brotherhood, continuité Arakawa)
 - sources primaires : manga Arakawa + anime Brotherhood (2009). Canon local prime sur 2003.
 - site_ref canon (Brotherhood, épisode par épisode) : `https://fma.fandom.com/wiki/Episode_<N>_(2009_Anime)` (N = 1 à 64 ; chaque page liste les chapitres manga adaptés). Secours : `https://fma.fandom.com/wiki/List_of_Fullmetal_Alchemist_episodes`, ou le miroir `https://daddyjim.com/fullmetal-alchemist/episode/Episode-<N>-2009-Anime` (pages chapitre : `.../manga-chapter/`, personnages : `.../character/`), ou recherche web. VÉRIFICATION uniquement : ni théories fans, ni copie de texte. Méthode de déroulement : cf. _Implications.md.
-- bible_version : B21
+- bible_version : B22
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/FMA/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/FMA/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/FMA/Partie1/`
@@ -41,8 +41,8 @@
 - Péages canon : Ed (jambe = péage de la Porte ; bras = prix séparé du scellement d'Al), Al (corps entier), Izumi (organes), Mustang (vue).
 - Le péage peut toucher les fonctions cognitives : cas du RP (Rhea : œil droit + cortex orbitofrontal). Cohérent avec le péage-désir, pas une contradiction. detail: cf. WIKI Personnages/Rhea.md
 - Survivre à la Porte confère : transmutation sans cercle (le corps devient le cercle, claquement de mains) + aperçu du savoir, À CONDITION d'en garder le souvenir.
-- C'est l'ÂME qui porte la Vérité vue : métal ou chair, peu importe (décision worldbuilder). Al, qui retrouve la Porte à l'ép. 59, garde le sans-cercle dans son corps rendu (R14).
-- Contre-exemple canon (ép. 2) : Alphonse, corps entier prélevé, revient SANS souvenir de la Porte -> PAS de sans-cercle. Le sang de Martel lui rend ses souvenirs de la nuit de 1910 (ép. 14), pas le savoir de la Porte. Il recouvre la capacité en repassant la Porte comme sacrifice, le Jour Promis (ép. 59) [CANON SUPPOSÉ]. La transmutation humaine reste impossible même après.
+- C'est l'ÂME qui porte la Vérité vue : métal ou chair, peu importe (décision worldbuilder). Al, sans-cercle depuis Rush Valley (R9), le garde dans son corps rendu (R14).
+- Contre-exemple canon (ép. 2) : Alphonse, corps entier prélevé, revient SANS souvenir de la Porte -> PAS de sans-cercle de 1910 à 1914. Le sang de Martel lui rend la nuit de 1910 et son passage à la Porte (ép. 14, ch. 30) ; il transmute sans cercle pour la première fois à Rush Valley (ép. 15, ch. 33). La transmutation humaine reste impossible même après.
 - Sacrifice humain = alchimiste ayant ouvert la Porte et survécu. Convoité par les homonculus : cinq requis pour le Jour Promis.
 - Pierre philosophale : condensat d'âmes humaines. Amplifie l'alchimie, paie le péage à la place de l'alchimiste, alimente les homonculus. Fabrication = meurtre de masse.
 - Homonculus : êtres artificiels à cœur-Pierre, quasi immortels ; régénèrent tant que les âmes durent, meurent une fois la Pierre épuisée.
@@ -126,7 +126,7 @@ Format : Nom - rôle | capacités-clé | relations | sort connu | certitude
 - Sarah Rockbell - chirurgienne de guerre | médecine | mère adoptive de Rhea | tuée par Scar (1908) | établi. detail: cf. WIKI Personnages/Sarah_Rockbell.md
 - Yuri Rockbell - chirurgien de guerre | médecine | père adoptif de Rhea | tué par Scar (1908) | établi. detail: cf. WIKI Personnages/Yuri_Rockbell.md
 - Edward Elric - Fullmetal Alchemist | transmutation sans cercle, automail-lame, combat | ami d'enfance de Rhea | survit, paie le retour d'Al avec sa Porte (R14) | établi. detail: cf. WIKI Personnages/Edward_Elric.md
-- Alphonse Elric - âme scellée dans une armure | alchimie au cercle (aucun souvenir de la Porte : PAS de sans-cercle avant le Jour Promis), combat | ami d'enfance de Rhea ; échange son âme contre le bras d'Ed (R13) ; déclaration réciproque avec Rhea (R14) | survit, recouvre son corps, garde l'alchimie (R14) | établi. detail: cf. WIKI Personnages/Alphonse_Elric.md
+- Alphonse Elric - âme scellée dans une armure | alchimie au cercle jusqu'en 1914 (aucun souvenir de la Porte), sans-cercle dès Rush Valley (R9), combat | ami d'enfance de Rhea ; échange son âme contre le bras d'Ed (R13) ; déclaration réciproque avec Rhea (R14) | survit, recouvre son corps, garde l'alchimie (R14) | établi. detail: cf. WIKI Personnages/Alphonse_Elric.md
 - Trisha Elric - mère Elric | - | parallèle thématique (deuil-transmutation) | morte en 1904 | établi. detail: cf. WIKI Personnages/Trisha_Elric.md
 - Van Hohenheim - Pierre vivante, père absent | alchimie sans cercle, immortalité | adversaire de Père ; dit à Rhea qu'elle est un sacrifice valable (R12) | meurt sur la tombe de Trisha (R14) | établi. detail: cf. WIKI Personnages/Van_Hohenheim.md
 - Roy Mustang - Flame Alchemist, colonel | alchimie de flamme | supérieur d'Ed, héros d'Ishval ; a tu le sans-cercle de Rhea en 1910 | perd la vue (canon, rendue par la Pierre de Marcoh après Havoc, R14) ou la garde si Rhea est le cinquième sacrifice (R13) ; silence de 1910 détonable (R14), survit | établi. detail: cf. WIKI Personnages/Roy_Mustang.md
@@ -209,4 +209,4 @@ Index détaillé page-par-page : cf. WIKI FMA/Sommaire.md
 
 ---
 
-FIN_BIBLE_B21
+FIN_BIBLE_B22

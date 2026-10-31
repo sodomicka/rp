@@ -6,7 +6,7 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B21 + reprise R5-R8 (Sommaire W27, 2026-10-31)
+- dernière mise à jour : BIBLE B21 + reprise R5-R9 (BIBLE B22, Sommaire W28, 2026-10-31)
 
 ## État d'avancement du chantier
 - Passe 2 : TOUTES les roadmaps ÉCRITES, R0 à R14 (1903 -> retour à
@@ -14,11 +14,10 @@ pas les re-litiger. JAMAIS fetché en narration.
 - REPRISE R5-R14 EN SÉRIE (worldbuilder, 2026-10-31) : une roadmap à la
   fois, canon revérifié épisode par épisode, modes d'étape et tranches de
   vie posés, POV unique de Rhea ; une PR par roadmap, fusionnée au fil de
-  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4), R8 (W4).
-- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R8
-  (Sommaire W27). État réel des autres roadmaps, relevé le 2026-10-31 :
-  R9 n'a que deux
-  AU CHOIX ponctuels (2 jalons sur 11) ; R10 a des modes sur 4 jalons
+  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4), R8 (W4), R9 (W4).
+- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R9
+  (Sommaire W28). État réel des autres roadmaps, relevé le 2026-10-31 :
+  R10 a des modes sur 4 jalons
   sur 9, R11a sur 5 sur 6 ; R11b, R12 et R13 ont tous leurs modes. Aucune
   de R5 à R13 n'a de tranches de vie ; seule R14 est complète.
 - Reste avant la Passe 3 : RELECTURE CROISÉE de clôture (cœur §4).
@@ -50,12 +49,12 @@ pas les re-litiger. JAMAIS fetché en narration.
   détaillés, chapitres manga adaptés). À DÉROULER au fil des roadmaps via le
   site_ref posé en BIBLE SB0 (format type, N = 1 à 64). Vérification canon
   uniquement, jamais d'import de théories fans ni de copie de texte.
-- ALPHONSE NE TRANSMUTE PAS SANS CERCLE (correction canon actée, build B4) :
-  la Porte a pris son corps entier mais son âme est revenue sans aucun souvenir
-  d'elle (vérifié ép. 2 : quand Ed lui en parle, Al ne voit pas de quoi il
-  s'agit). Pas de souvenir -> pas de sans-cercle. Il recouvre la capacité tard
-  dans la trame ([INCERTAIN] : moment exact à vérifier). Corrigé en BIBLE
-  SB1/SB5 + fiche Alphonse W2. NE PAS ré-attribuer le sans-cercle à Al.
+- ALPHONSE ET LE SANS-CERCLE (B4 corrigé à la reprise R9, canon ch. 30 et
+  33, ép. 14-15) : pas de sans-cercle de 1910 à 1914, son âme est revenue
+  sans souvenir de la Porte (ép. 2). Le sang de Martel lui rend la nuit de
+  1910 ET son passage à la Porte ; il transmute sans cercle pour la première
+  fois à Rush Valley (R9). Ne plus écrire « pas de sans-cercle avant le
+  Jour Promis ».
 - NŒUD RHEA/AL - CADRAGE ACTÉ (worldbuilder, build B4) : ce que Rhea méprise,
   ce n'est PAS la compensation (le sans-cercle est le minimum dû - sa
   philosophie, R2), c'est que ces abrutis aient PAYÉ LE PRIX tout court.
@@ -203,6 +202,13 @@ pas les re-litiger. JAMAIS fetché en narration.
   l'organique. Monsieur Lapinou reste à Resembool : rituel de sommeil
   suspendu jusqu'au retour à Rush Valley (R9). Aucun homonculus, rien ne
   remonte ; le statut « repérée » éventuel de R7 ne bouge pas.
+- R9 - REPRISE (canon ép. 12-15 et ch. 20-33 vérifiés) : Izumi rosse les
+  frères pour l'armée, voit le sans-cercle d'Ed, puis avoue le lendemain ;
+  l'île et le renvoi d'apprentissage (Sig : « égaux ») ; Ed va seul au Devil's
+  Nest (Rhea le suit, divergence) ; la troupe saisit Ed (Rhea avec lui) ;
+  Bradley interroge Ed après le raid (témoin pour le statut) ; Al répare
+  Rush Valley SANS CERCLE (ch. 33). Les « ~10 jours » et « la foule qui
+  applaudit » n'étaient pas sourcés : retirés.
 - R9 - DUBLITH (mode usine, canon ép. 12-15 vérifié sur Wikipedia) :
   Izumi = EXCEPTION au verrou du 1903 (elle l'a deviné en 1909 ; Rhea peut
   confirmer, Izumi se tait). Pas d'apprentissage pour Rhea (une leçon au
@@ -211,7 +217,7 @@ pas les re-litiger. JAMAIS fetché en narration.
   qu'il est un homonculus (Wrath ne se dévoile qu'à Greed, hors POV).
   Sans-cercle devant Greed : rien ne remonte (refondu par Père)
   [INTERPRÉTATION] ; devant Bradley : « repérée », comme en R7. Le sang de
-  Martel rend à Al la nuit de 1910, PAS le sans-cercle. Winry part avec le
+  Martel rend à Al la nuit de 1910 (et la Porte, cf. reprise). Winry part avec le
   trio pour Central (canon ép. 15) ; rituel de sommeil sans Monsieur
   Lapinou, toujours à Resembool. Le garde-cap disait « Bradley se dévoile
   en rasant le repaire » : recalé (dévoilement hors POV).
@@ -412,6 +418,8 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Nom de jeune fille d'Izumi (Harnet) : non confirmé.
 
 ## Dettes de build
+- SANS-CERCLE D'AL (reprise R9) : R10, R11a, R11b, R12, R13 et R14 disent
+  encore « pas avant la Roadmap 13 (ép. 59) » ; à recaler à leur reprise.
 - Budget roadmap : R11 coupée en R11a et R11b, chacune sous le plafond.
   R12 (~19 000 caractères, plafond 15 000) : léger dépassement TOLÉRÉ
   (décision worldbuilder, 2026-10-31).

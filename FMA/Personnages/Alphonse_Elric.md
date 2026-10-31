@@ -1,6 +1,6 @@
 # Alphonse Elric
 
-- version : W16
+- version : W17
 
 ## Identité
 
@@ -22,9 +22,9 @@ Grand cœur, protecteur, patient.
 ## Capacités
 
 Alchimiste habile (formé avec Ed par Izumi), au CERCLE : il trace ou dessine ses cercles de transmutation.
-PAS de transmutation sans cercle : la Porte a prélevé son corps entier, mais son âme est revenue SANS AUCUN souvenir d'elle - quand Ed lui parle de la Porte après sa rééducation, Al ne voit pas de quoi il s'agit (canon, ép. 2). Sans souvenir du savoir, pas de sans-cercle.
-1914 (ép. 14, Dublith) : le sang de Martel, versé sur son sceau, lui rend ses souvenirs de la nuit de 1910 (Ed donnant son bras pour le sceller) - pas le savoir de la Porte : il trace toujours ses cercles.
-1915 : recouvre le sans-cercle en repassant la Porte comme sacrifice, le Jour Promis (ép. 59). Corps rendu par la Porte d'Ed (R14) : garde sa propre Porte et l'alchimie (part étudier l'alkahestrie, ép. 64) et le sans-cercle : c'est son âme qui a vu la Vérité, métal ou chair (décision worldbuilder).
+PAS de transmutation sans cercle de 1910 à 1914 : la Porte a prélevé son corps entier, mais son âme est revenue SANS AUCUN souvenir d'elle - quand Ed lui parle de la Porte après sa rééducation, Al ne voit pas de quoi il s'agit (canon, ép. 2). Sans souvenir du savoir, pas de sans-cercle.
+1914 (ép. 14, ch. 30, Dublith) : le sang de Martel, versé sur son sceau, lui rend ses souvenirs de la nuit de 1910 et de son passage à la Porte. Il transmute sans cercle pour la première fois à Rush Valley, en réparant la ville après le combat contre Fu (ép. 15, ch. 33) ; Ed en blêmit. Particularité : même avant, il pouvait activer un cercle tracé rien qu'en se tenant dessus, sans le toucher (page personnage du wiki).
+1915 : le Jour Promis, sacrifice, il repasse par la Porte (ép. 59). Corps rendu par la Porte d'Ed (R14) : garde sa propre Porte et l'alchimie (part étudier l'alkahestrie, ép. 64) et le sans-cercle : c'est son âme qui a vu la Vérité, métal ou chair (décision worldbuilder).
 Formidable au corps-à-corps (arts martiaux d'Izumi) ; son armure en fait un adversaire redoutable.
 
 ## Histoire (jusqu'au point de départ du RP)
@@ -47,7 +47,7 @@ Ami d'enfance de la protagoniste. En 1910, il cache avec Ed la transmutation à 
 - 1914 (R6) : armure détruite par Scar à East City ; Rhea la reconstruit dans la nuit, sans toucher au sceau. En la regardant travailler, il note ce qui marche sans Winry (le travail du métal la calme) : première ligne qui prend sur sa propre carte. À Resembool, Winry lui passe le relais pour de bon.
 - 1914 (R7) : affronte Barry le Boucher devant le Laboratoire 5, avec Rhea ; Barry lui souffle qu'Ed a pu fabriquer son âme. Le doute le ronge jusqu'à l'explosion contre Ed ; Winry le sermonne, et les frères se battent sur le toit (Ed gagne avec un drap). Rhea, qui a vu deux choses sans âme et une âme dans un corps fondu, peut lui dire ce qu'elle en sait : ce qui sort d'elle devient une ligne de sa carte. Pour Rhea, le doute tombe pile sur la plaie anti-Alan (« plus qu'une âme »).
 - 1914 (R8) : à Rush Valley, sa carrure peut ouvrir à Rhea un passage dans la foule (si c'est fait, une ligne de plus sur sa carte). Présent à la naissance chez les LeCoulte : Rhea voit une âme arriver dans un corps, en face de celui qui doute d'en être une. Reprend seul le relais de Winry vers Dublith.
-- 1914 (R9) : à Dublith, Izumi devine la transmutation. Enlevé par la bande de Greed ; Martel se cache dans son armure au raid, Bradley la tue à travers lui : son sang lui rend la nuit de 1910. Son âme n'est pas fabriquée, le doute de Barry tombe ; toujours pas de sans-cercle. A vu le Généralissime tuer les chimères, sans savoir ce qu'il est. Pour Rhea : la preuve qu'il est une âme, celle qui manquait à Alan. Rush Valley, Ling ; part pour Central avec Winry.
+- 1914 (R9) : à Dublith, Izumi devine la transmutation. Enlevé par la bande de Greed ; Martel se cache dans son armure au raid, Bradley la tue à travers lui : son sang lui rend la nuit de 1910 et la Porte. Son âme n'est pas fabriquée, le doute de Barry tombe. Bradley l'interroge avec Ed sur le lien entre l'armure et le bras. A vu le Généralissime tuer les chimères, sans savoir ce qu'il est. Pour Rhea : la preuve qu'il est une âme, celle qui manquait à Alan. Rush Valley : contre Fu avec Paninya, puis il répare la ville SANS CERCLE, pour la première fois, sous les yeux de Rhea : sa lecture « il n'a même pas la compensation » tombe. Ling ; part pour Central avec Winry.
 - 1914 (R10) : seul relais de Rhea pendant l'absence d'Ed ; la laisse avec Winry pour rejoindre l'équipe de Mustang contre Barry (Laboratoire 3, hors POV de Rhea). Apprend d'Ed que la chose de 1910 n'était pas Trisha. Au piège, bloque Rhea si elle veut tuer Scar, puis le suit. Toujours pas de sans-cercle.
 - 1914 (R11a-R11b) : se fait mener à Père par Gluttony ; ramène May Chang à l'abri de Knox, où Rhea l'attend. Apprend d'Ed que son corps attend devant la Porte : pour Rhea, l'anti-Alan bouge sans se résoudre (Al a un corps à reprendre, Alan n'en avait plus). Briggs, le tunnel ; séparé d'Ed par Kimblee ; épargne les chimères à Baschool ; reste pour couvrir la ruse, puis part dans le blizzard (hors POV). Toujours pas de sans-cercle.
 - 1914-1915 (R12) : trouvé dans la neige, l'âme tirée vers son corps ; démonté pour être porté, remonté par Rhea (sceau intouché). Pertes de conscience de plus en plus fréquentes. À Liore, apprend de Hohenheim Xerxès, Père et le Jour Promis, Rhea présente ; reste avec lui et fait passer l'alerte. Pris par Gluttony et Pride, piloté par Pride contre le groupe ; se laisse saisir pour que Hohenheim l'enferme avec Pride sous un dôme de terre. Toujours pas de sans-cercle. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
