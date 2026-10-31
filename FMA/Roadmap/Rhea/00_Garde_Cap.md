@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W19
+- version : W20
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -179,15 +179,15 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   place de Mustang, qui garde la vue.
 
 ### Roadmap 13 - Le Jour Promis
-- Canon ép. 49 (suite) à 63, une journée : Rhea sous Central avec Ed et
+- Canon ép. 50-63, une journée : Rhea sous Central avec Ed et
   Scar, soldats-mannequins ; Mustang brûle Envy, qui se suicide ; le cercle
   du docteur fait passer les sacrifices par leur Porte ; « repérée », la
   Vérité prend Rhea aussi, elle est le cinquième,
   Mustang garde la vue ; « hors radar », Pride force Mustang (aveugle),
   sauf si Rhea se montre avant ; l'éclipse, Père et Dieu ; contre-cercles
-  de Hohenheim et de Scar, Scar tue Bradley ; à la surface, Al (sans-cercle
-  retrouvé) échange son âme contre le bras d'Ed ; Greed carbonise Père, Ed
-  le renvoie à la Porte. Borne : l'armure d'Al vide. Écrite (W1).
+  de Hohenheim et de Scar, Scar tue Bradley ; à la surface, Al (resté dans
+  l'armure à la Porte) échange son âme contre le bras d'Ed ; Greed carbonise Père, Ed
+  le renvoie à la Porte. Borne : l'armure d'Al vide. Reprise (W3).
 - Tchekhov : statut de sacrifice DÉTONÉ ; silence de Mustang reporté en R14.
 
 ### Roadmap 14 - Retour à Resembool

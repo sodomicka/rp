@@ -14,11 +14,10 @@ pas les re-litiger. JAMAIS fetché en narration.
 - REPRISE R5-R14 EN SÉRIE (worldbuilder, 2026-10-31) : une roadmap à la
   fois, canon revérifié épisode par épisode, modes d'étape et tranches de
   vie posés, POV unique de Rhea ; une PR par roadmap, fusionnée au fil de
-  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4), R8 (W4), R9 (W4), R10 (W4), R11a (W2), R11b (W2), R12 (W4).
-- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R12
-  (Sommaire W32). État réel des autres roadmaps, relevé le 2026-10-31 :
-  R13 a tous ses modes, mais pas de banque de
-  tranches de vie ; seule R14 est complète.
+  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4), R8 (W4), R9 (W4), R10 (W4), R11a (W2), R11b (W2), R12 (W4), R13 (W3).
+- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R13
+  (Sommaire W33). État réel des autres roadmaps, relevé le 2026-10-31 :
+  R14 est complète depuis la Passe d'immersion.
 - Reste avant la Passe 3 : RELECTURE CROISÉE de clôture (cœur §4).
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
   En jeu, la roadmap en cours est un document de jeu (SPEC v9.2 §7).
@@ -220,6 +219,17 @@ pas les re-litiger. JAMAIS fetché en narration.
   trio pour Central (canon ép. 15) ; rituel de sommeil sans Monsieur
   Lapinou, toujours à Resembool. Le garde-cap disait « Bradley se dévoile
   en rasant le repaire » : recalé (dévoilement hors POV).
+- R13 - REPRISE (canon ép. 50-63 vérifiés) : entrée à Kanama, le matin.
+  Le groupe passe par le Laboratoire 3 et se scinde (qui va où : non
+  sourcé). Barry au seuil du repaire, le mannequin qui dit « maman »
+  (ép. 51). Envy libéré quand le bocal de May se brise, avalé par un
+  mannequin ; Mustang envoie Ed et Scar devant, Riza reste (ép. 53-54).
+  Kimblee PERCE le dôme (« libère Pride » retiré), Heinkel le brise, Pride
+  l'absorbe. Riza « blessée à mort », pas « égorgée » ; Mustang refuse
+  (ép. 59, contre l'ép. 58). Al, à la Porte, choisit l'ARMURE plutôt qu'un
+  corps trop faible (ép. 59) ; « revient avec le sans-cercle » retiré (il
+  l'a depuis R9). Aucune heure sur les pages : « matin », « mi-journée »,
+  « après-midi » retirés.
 - R12 - REPRISE (canon ép. 41-49 vérifiés) : Al n'est pas « trouvé dans la
   neige » : il rattrape le groupe et son armure est remontée dans une
   maison abandonnée (ép. 41-42) ; les pertes de conscience ne sont pas sur
@@ -462,11 +472,9 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Nom de jeune fille d'Izumi (Harnet) : non confirmé.
 
 ## Dettes de build
-- SANS-CERCLE D'AL (reprise R9) : R13 et R14 disent
+- SANS-CERCLE D'AL (reprise R9) : R14 dit
   encore « pas avant la Roadmap 13 (ép. 59) » ; à recaler à leur reprise
-  (R10 à R12 faits).
-- ENTRÉE DE R13 (reprise R12) : R13 part de « l'aube aux abords de
-  Central » ; R12 finit à Kanama, la veille. À recaler à la reprise R13.
+  (R10 à R13 faits).
 - WINRY APRÈS CENTRAL (reprises R10-R11a) : elle rentre à Resembool
   (ch. 45, 48), puis est de nouveau à Rush Valley quand les frères partent
   au Nord (ép. 33) ; Kimblee la cueille au pied de la montagne (ch. 70).
