@@ -1,6 +1,6 @@
 # Roadmap 0 - La Porte
 
-- version : W4
+- version : W5
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (5 ans, née le 30 janvier 1898), POV unique
 - échelle temporelle : ~10 jours à ~2 semaines (1903) : rituel instantané, ~1 semaine prostrée face à la masse, ~1 jour d'alerte, quelques heures à quelques jours de secours, ~2 jours de route
@@ -13,7 +13,7 @@
   - péage cognitif posé (œil droit + cortex orbitofrontal) ; le tempérament (zéro empathie, impulsivité, zéro filtre, éponge à affection) ne se FIGE qu'en Roadmap 1 ;
   - transmutation sans cercle acquise (survivante de la Porte), dormante à 5 ans ;
   - trauma de l'alchimie organique amorcé ;
-  - Monsieur Lapinou devient l'ancre affective ;
+  - Monsieur Lapinou, souvenir d'Alan, emporté du village (il devient le rituel de sommeil avec Winry en Roadmap 1) ;
   - mémoire du village et nom du père effacés.
 - roadmap précédente : aucune - premier arc
 - roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap1_Grandir_A_Resembool.md
@@ -51,7 +51,7 @@ Entre les jalons 5 et 6 seulement : avant, Rhea est seule face à la masse, rien
 - Chaumière-atelier du village natal - non fiche : lieu du rituel, dans un village minier à ~2 jours de Resembool, jamais nommé.
 - La Porte de la Vérité - lieu du péage - cf. Systemes/La_Verite_Et_La_Porte.md
 - Grimoire du père - non fiche : traité d'alchimie incluant la théorie de la transmutation humaine, purement théorique ; source du rituel ; perdu ou détruit avec le village.
-- Monsieur Lapinou - peluche d'Alan, emportée au départ, ancre affective - cf. Personnages/Rhea.md
+- Monsieur Lapinou - peluche d'Alan, emportée au départ, souvenir d'un amour - cf. Personnages/Rhea.md
 - Resembool - destination, foyer d'adoption - cf. Lieux/Resembool.md
 
 ## Conditions de sortie

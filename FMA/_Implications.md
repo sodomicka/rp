@@ -6,7 +6,7 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B21 + reprise R5-R9 (BIBLE B22, Sommaire W28, 2026-10-31)
+- dernière mise à jour : relecture croisée de clôture de Passe 2 (Sommaire W35, 2026-10-31)
 
 ## État d'avancement du chantier
 - Passe 2 : TOUTES les roadmaps ÉCRITES, R0 à R14 (1903 -> retour à
@@ -18,7 +18,9 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R14
   (Sommaire W34). État réel des autres roadmaps, relevé le 2026-10-31 :
   R14 est complète depuis la Passe d'immersion.
-- Reste avant la Passe 3 : RELECTURE CROISÉE de clôture (cœur §4).
+- RELECTURE CROISÉE de clôture (cœur §4) : faite le 2026-10-31. Aucune
+  incohérence majeure ; moyennes soldées dans la même livraison ; purge des
+  mentions « hors POV » faite sur R0-R14. Mineures : cf. Points de forme.
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
   En jeu, la roadmap en cours est un document de jeu (SPEC v9.2 §7).
 - Passe 3 (SETUP puis CODEX V1) : non entamée. Pas de fiche d'arc (doctrine
@@ -163,7 +165,7 @@ pas les re-litiger. JAMAIS fetché en narration.
   Différence avec 1910 : la chimère a une âme et parle.
 - RECALAGE R7-R10 (tranché en mode usine, R7, canon ép. 7-22 vérifié sur
   Wikipedia) : R7 = ép. 7-10 (Central, Laboratoire 5, Winry, départ ; Hughes
-  tué hors POV au départ) ; R8 = Rush Valley (ép. 11) ; R9 = Dublith (ép.
+  tué le soir de la visite de Bradley, recalé à la reprise R7) ; R8 = Rush Valley (ép. 11) ; R9 = Dublith (ép.
   12-15, retour à Rush Valley et Ling) ; R10 = Central : Hughes et Scar
   (ép. 16-22, détonation Scar / parents). Ép. 23-29 à placer en écrivant R11.
 - R7 - CENTRAL (reprise, canon ép. 7-10 et ch. 10-16 vérifiés) : copie en
@@ -301,11 +303,13 @@ pas les re-litiger. JAMAIS fetché en narration.
   Alan non plus. Hohenheim n'est pas croisé.
   MONSIEUR LAPINOU : reste à Winry (lore R4). Rhea peut demander par
   téléphone à Pinako qu'Ed le rapporte, POUR WINRY ; il repart alors avec
-  elle à Rush Valley. Rhea ne le reprend jamais pour elle. Par défaut, il
+  elle à Rush Valley (recalé à la reprise R10 : Winry rentre à Resembool,
+  ch. 48, et Monsieur Lapinou y reste). Rhea ne le reprend jamais pour elle. Par défaut, il
   reste à Resembool. R14 (bouclage) suit l'état de la partie.
   BRADLEY HOMONCULUS : Rhea l'apprend par Ling, à la planque (ép. 23).
   Statut : sans-cercle devant Gluttony (planque) = « repérée ».
-  Winry repart seule pour Rush Valley (ép. 23) ; Rhea reste (pacte R4).
+  Winry repart pour Resembool (ch. 48, recalé à la reprise R10) ; Rhea
+  reste (pacte R4).
 - R11 COUPÉE EN DEUX (décision worldbuilder, 2026-10-31, budget) :
   R11a - Central : la fausse Porte (ép. 23 fin -> 32) et R11b - Le Nord :
   Briggs (ép. 33 -> 39). Canon revérifié épisode par épisode (Wikipedia,
@@ -318,8 +322,8 @@ pas les re-litiger. JAMAIS fetché en narration.
   DÎNER CHEZ LES BRADLEY (ép. 32) : Rhea à table ; attaque verrouillée.
   LAN FAN et Fu refusent l'automail (ép. 31).
   R11b : BRIGGS : Olivier ne propose rien à Rhea ; l'automail gelé d'Ed se
-  refait à quatre mains. BASCHOOL : Winry vient cachée dans l'armure d'Al
-  (ép. 38) ; à l'explosion de Kimblee, LA RUSE est l'idée de Winry (ép. 39) ;
+  refait à quatre mains. BASCHOOL : (Winry cachée dans l'armure d'Al : retiré
+  à la reprise R11b) ; à l'explosion de Kimblee, LA RUSE est l'idée de Winry (ép. 39) ;
   Rhea part avec elle (par défaut) ; Ed et Al restent chez Kimblee. PARDON
   DE SCAR : celui de Winry, dans la planque (ép. 39) ; Rhea n'est pas tenue
   de pardonner ; par défaut, elle ne dit pas « je pardonne ».
@@ -374,14 +378,14 @@ pas les re-litiger. JAMAIS fetché en narration.
   ouvert la Porte, la Vérité la prend comme eux (worldbuilder) ; Père a ses
   cinq ; Mustang n'est pas forcé, Riza n'est pas égorgée, Mustang garde la
   vue. « Hors radar » : Rhea reste avec Mustang, Riza et Scar ; Riza
-  égorgée, Mustang refuse, Darius, Jerso, Zampano et May arrivent, Pride
+  blessée à mort (reprise R13 : la page ne dit pas la gorge), Mustang refuse, Darius, Jerso, Zampano et May arrivent, Pride
   force Mustang à travers la Porte (ép. 58-59) ;
   BASCULE au choix du joueur : sans-cercle devant Pride ou Bradley avant
   la transmutation forcée = Pride l'emmène, Mustang épargné. Après, plus
   de bascule. Envy (jalon 2) meurt sans revoir Père : rien ne remonte.
   Sacrifice ≠ nouveau péage : elle a payé en 1903.
-  AL ET LE SANS-CERCLE : recouvré en repassant la Porte (ép. 59)
-  [CANON SUPPOSÉ : non confirmé par les résumés lus].
+  AL ET LE SANS-CERCLE : retiré ; acquis à Rush Valley (reprise R9), il le
+  garde jusqu'en R14 (décision worldbuilder).
   SILENCE DE MUSTANG : ne détone pas en R13 ; détonable en R14.
   DÉCLARATION RHEA/AL : toujours interdite en R13, même à l'échange (R14).
 - R14 - RETOUR À RESEMBOOL (mode usine, canon ép. 63 fin et 64, Wikipedia
@@ -418,9 +422,6 @@ pas les re-litiger. JAMAIS fetché en narration.
   dit.
 
 ## Points ouverts (à trancher en Passe 2, roadmap par roadmap)
-- Réconciliation Rhea/Al (R4 -> R14) : vérifier à la relecture croisée que
-  la carte d'Al et la dissonance anti-Alan progressent sans saut d'une
-  roadmap à l'autre jusqu'à la déclaration (R14).
 - [CANON SUPPOSÉ] restants : durées internes des arcs, lieux non nommés
   (cales de build). Soldés le 2026-10-31 par le worldbuilder : montre,
   claquement d'Al (l'âme porte la Vérité, métal ou chair), corps d'Al dans
@@ -480,19 +481,9 @@ pas les re-litiger. JAMAIS fetché en narration.
 - Nom de jeune fille d'Izumi (Harnet) : non confirmé.
 
 ## Dettes de build
-- SANS-CERCLE D'AL (reprise R9) : recalé de R10 à R14 (soldé).
-- WINRY APRÈS CENTRAL (reprises R10-R11a) : elle rentre à Resembool
-  (ch. 45, 48), puis est de nouveau à Rush Valley quand les frères partent
-  au Nord (ép. 33) ; Kimblee la cueille au pied de la montagne (ch. 70).
-  Monsieur Lapinou reste à Resembool (R12 recalée).
 - Budget roadmap : R11 coupée en R11a et R11b, chacune sous le plafond.
-  R12 (~19 000 caractères, plafond 15 000) : léger dépassement TOLÉRÉ
-  (décision worldbuilder, 2026-10-31).
-- CLÔTURE DE PASSE 2 : retirer de toutes les roadmaps les mentions « hors
-  POV » (notions de build : le MJ de jeu ne voit que ce que Rhea vit et
-  apprend ; ce qu'elle apprend plus tard reste écrit au moment où elle
-  l'apprend). Décision worldbuilder, 2026-10-31 ; règle posée au cœur
-  (Clôture de Passe 2).
+  Toutes les roadmaps sous 19 000 caractères, sous le plafond de 22 000
+  d'une roadmap passée en immersion (SPEC v9.2 §7) : rien à tolérer.
 
 ## Points de forme à revérifier à la clôture
 - Âge de Rhea sur la trame : 16 ans à l'entrée (1914), 17 au Jour Promis
@@ -504,7 +495,24 @@ pas les re-litiger. JAMAIS fetché en narration.
   (W1) n'ont ni Implications d'arc ni Trajectoire datée explicites (le "Sort
   connu" couvre le canon par défaut). Harmonisation du gabarit à trancher par
   le worldbuilder si besoin.
-- Accents (règle d'or §3.4) : BIBLE, Sommaire et ce journal réaccentués en B7.
-  Les autres pages FMA restent en ASCII jusqu'à leur prochaine relivraison.
+- Accents (règle d'or §3.4) : BIBLE, Sommaire et ce journal réaccentués en B7 ;
+  Lieux/Ishval.md réaccentuée en W2. Les autres pages en ASCII (Systemes/*,
+  Factions/Armee_Amestris, Lieux/Amestris et Dublith, Sarah et Yuri Rockbell)
+  le restent jusqu'à leur prochaine relivraison.
+- Mineures de la relecture croisée (2026-10-31), à solder à la prochaine
+  livraison de la page :
+  - Pinako : « Leopardess » vs « Panthère de Resembool » ; phrase R14 sans
+    sujet (« l'a trouvé »).
+  - Paninya : « promet de veiller sur Winry » absent de R8.
+  - Dominic : refuse Winry « deux fois » (R8 n'en montre qu'un refus).
+  - Resume : Tucker rangé sous « Central » (il est à East City, R6).
+  - Lieux/Resembool : départ des parents « date non fixée » (1907) ;
+    « incendie… avant le départ pour Central » à recaler sur R4.
+  - Sarah, Yuri : « front au paroxysme » vs missions depuis 1901.
+  - Alex Armstrong : trajectoire R9 absente ; « renseignement de Grumman ».
+  - Ling : « hors POV » en R14 alors que R14 jalon 3 le montre.
+  - « Pardon » de Winry à Scar : formulation à harmoniser (R11b, fiches).
+  - Fiches et BIBLE SB3 : étiquettes « hors POV » restantes (cf. question
+    de périmètre posée au worldbuilder).
 
 FIN_WIKI__IMPLICATIONS

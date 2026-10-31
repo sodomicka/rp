@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W21
+- version : W22
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -99,13 +99,13 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
 ### Roadmap 5 - Liore
 - Cornello et la fausse Pierre ; première épreuve de Cliquetis loin de Winry ;
   Rose en miroir du 1903 ; la carte de Winry échoue, Al commence la sienne.
-  Écrite (W1).
+  Reprise (W4).
 
 ### Roadmap 6 - East City et Scar
 - East City (QG de Mustang) : Shou Tucker et Nina ; Scar tue Tucker, détruit
   le bras d'Ed et l'armure d'Al (reconstruite par Rhea) ; Hughes, Armstrong ;
   train avec Armstrong, Marcoh et sa Pierre incomplète ; retour à Resembool
-  (bras d'Ed forgé avec Winry), second départ vers Central. Écrite (W1).
+  (bras d'Ed forgé avec Winry), second départ vers Central. Reprise (W4).
 - Tchekhov : Scar / parents ARMÉ, pas détoné : face-à-face sans révélation
   (canon : Ed apprend ép. 18, Winry ép. 22). Sheska passe en R7.
 
@@ -114,24 +114,24 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   décodées (la Pierre = vies humaines) ; Ross et Brosh ; Laboratoire 5
   (Rhea dehors avec Al, face à Barry ; homonculus hors POV) ; Winry appelée
   à Central ; anniversaire d'Elicia chez les Hughes ; doute d'Al et combat
-  des frères ; visite de Bradley ; départ vers le Sud avec Winry. Hughes
-  tué hors POV au même moment. Écrite (W1).
+  des frères ; visite de Bradley (Hughes tué le soir même, appris en R10) ;
+  départ vers le Sud avec Winry. Reprise (W5).
 
 ### Roadmap 8 - Rush Valley
 - Canon ép. 11 : la ville de l'automail, rêve de Winry, foule pour Rhea ;
   Paninya et la montre d'Ed (Winry voit la date de l'incendie et le dit à
   Rhea) ; Winry refusée par Dominic, l'accouchement pendant l'orage (Rhea
   voit une âme arriver dans un corps) ; Winry reste chez Garfiel ; Rhea
-  repart avec les frères vers Dublith. Respiration sororale. Écrite (W1).
+  repart avec les frères vers Dublith. Respiration sororale. Reprise (W4).
 
 ### Roadmap 9 - Dublith : Izumi et Greed
 - Canon ép. 12-15 : Izumi revue (miroir deuil-transmutation, culmine ici ;
   exception au verrou du 1903, elle l'a deviné) ; Devil's Nest, Greed,
   chimères, Al enlevé ; raid de Bradley (Wrath ne se dévoile qu'à Greed,
   hors POV ; Rhea dehors) ; le sang de Martel rend à Al ses souvenirs de la
-  nuit de 1910, pas le sans-cercle ; retour à Rush Valley, Winry retrouvée
+  nuit de 1910 et de la Porte, d'où son premier sans-cercle à Rush Valley ; retour à Rush Valley, Winry retrouvée
   (rituel sans Monsieur Lapinou), Ling Yao, Lan Fan et Fu ; départ pour
-  Central avec Winry. Écrite (W1).
+  Central avec Winry. Reprise (W5).
 
 ### Roadmap 10 - Central : Hughes et Scar
 - Canon ép. 16-24 et ch. 35-48 : mort de Hughes apprise (Ross, Gracia) ; Ross
@@ -141,7 +141,7 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   lâcher ; Lust détruite hors POV ; piège à Scar : Rhea et Winry apprennent
   ENSEMBLE (ép. 22, ch. 46) ; Bradley au chevet de Winry, qui repart pour
   Resembool (ch. 48) ; à la planque, Ling révèle que Bradley est un
-  homonculus. Reprise (W4).
+  homonculus. Reprise (W5).
 - Tchekhov : Scar / parents DÉTONÉ. Monsieur Lapinou attend Winry à Resembool.
 
 ### Roadmap 11 - coupée en deux (décision worldbuilder, budget)
@@ -151,14 +151,14 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   Ling devenu Greed, le corps d'Al devant la Porte, Envy a allumé Ishval,
   Winry otage de Bradley ; récit d'Ishval par Riza (ironie de 1910 détonée) ;
   équipe de Mustang dispersée ; dîner chez les Bradley (Selim) ; départ pour
-  le Nord. Reprise (W2).
+  le Nord. Reprise (W3).
 - Tchekhov : statut de sacrifice (témoins : Gluttony, Bradley, Selim) ;
   ironie Mustang/Riza DÉTONÉE.
 #### Roadmap 11b - Le Nord : Briggs
 - Canon ép. 33-40 et ch. 64-80 : Briggs : Olivier, Miles, Sloth, le
   tunnel-cercle national ; Kimblee amène Winry ; Baschool : la ruse de
   l'enlèvement (idée de Winry), Winry panse les plaies de Scar, Rhea part
-  avec Winry dans les galeries. Reprise (W2).
+  avec Winry dans les galeries. Reprise (W3).
 - Tchekhov : statut de sacrifice (témoins : Sloth, Kimblee) ; Scar /
   parents : pardon de Winry.
 
@@ -171,7 +171,7 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   est un, décision worldbuilder) ; 17 ans de Rhea ; Resembool la veille du
   Jour Promis : Ed vivant, Greed-Ling ; Winry refuse de fuir, Rhea repart
   avec Ed ; Kanama : Selim est Pride, Lan Fan à l'automail, Gluttony dévoré,
-  Al sous le dôme avec Pride ; groupes d'Ed et de Scar réunis. Reprise (W4).
+  Al sous le dôme avec Pride ; groupes d'Ed et de Scar réunis. Reprise (W5).
 - STATUT DE SACRIFICE TRANCHÉ : Mustang ne l'a pas citée en 1910, pour lui
   laisser son calme (« hors radar » par défaut). « Repérée » (témoin
   homonculus ou Kimblee qui a le temps d'en faire rapport à Père, choix du
@@ -187,7 +187,7 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   sauf si Rhea se montre avant ; l'éclipse, Père et Dieu ; contre-cercles
   de Hohenheim et de Scar, Scar tue Bradley ; à la surface, Al (resté dans
   l'armure à la Porte) échange son âme contre le bras d'Ed ; Greed carbonise Père, Ed
-  le renvoie à la Porte. Borne : l'armure d'Al vide. Reprise (W3).
+  le renvoie à la Porte. Borne : l'armure d'Al vide. Reprise (W4).
 - Tchekhov : statut de sacrifice DÉTONÉ ; silence de Mustang reporté en R14.
 
 ### Roadmap 14 - Retour à Resembool
@@ -195,7 +195,7 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   Hohenheim meurt à Resembool ; après-guerre (Mustang, la Pierre de Marcoh et
   Havoc : sans objet si Mustang a gardé la vue) ; retour à Resembool, bouclage
   Monsieur Lapinou / Cliquetis ; déclaration Rhea/Al ; silence de Mustang (1910)
-  détonable. Une seule roadmap pour les deux états du statut. Reprise (W3) :
+  détonable. Une seule roadmap pour les deux états du statut. Reprise (W4) :
   hôpital de Central (chevet de Mustang au choix, Pierre de Marcoh), retour
   à Resembool (Winry, l'éclipse ; Hohenheim mort) ; corps d'Al = fin de
   l'anti-Alan ; l'un des deux se déclare, c'est réciproque, Al dit oui ; première nuit, Monsieur

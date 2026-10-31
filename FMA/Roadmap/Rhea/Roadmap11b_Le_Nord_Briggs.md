@@ -1,6 +1,6 @@
 # Roadmap 11b - Le Nord : Briggs
 
-- version : W2
+- version : W3
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : quelques semaines (fin 1914 ; aucune durée dans les pages ép. 33-40 ni ch. 64-80) : le train et la montagne, Briggs (Olivier, Sloth, le tunnel, Kimblee et Winry), Baschool. Les 17 ans de Rhea (30 janvier 1915) tombent en Roadmap 12.
@@ -95,7 +95,7 @@ Toutes en présence de Rhea ; aucune ne montre un homonculus hors de Sloth et de
 - Aucune.
 
 ## Notes de frontière
-- Statut de sacrifice : sans-cercle devant un homonculus ou devant Kimblee = « repérée » pour la partie (delta Parties/), à condition que le témoin ait le temps d'en faire rapport à Père (décision worldbuilder) ; Roadmap 12 en hérite. Témoins concernés : Sloth (jalon 2 : il retourne à son tunnel, qui mène à Central), Kimblee (jalons 4 à 6 : il sert Père et rend compte à Pride ; compté comme témoin, décision worldbuilder). Devant Olivier, Miles, Buccaneer, Falman, May, Yoki, Marcoh, Scar ou les chimères : rien ne remonte. Kimblee la connaît par son nom à Briggs. Au compte de Père (hors POV), elle figure parmi les candidats si elle est « repérée » ; ce que Père en fait : Roadmap 12.
+- Statut de sacrifice : sans-cercle devant un homonculus ou devant Kimblee = « repérée » pour la partie (delta Parties/), à condition que le témoin ait le temps d'en faire rapport à Père (décision worldbuilder) ; Roadmap 12 en hérite. Témoins concernés : Sloth (jalon 2 : il retourne à son tunnel, qui mène à Central), Kimblee (jalons 4 à 6 : il sert Père et rend compte à Pride ; compté comme témoin, décision worldbuilder). Devant Olivier, Miles, Buccaneer, Falman, May, Yoki, Marcoh, Scar ou les chimères : rien ne remonte. Kimblee la connaît par son nom à Briggs. « Repérée », elle figure parmi les candidats de Père ; ce qu'il en fait : Roadmap 12.
 - Winry otage : les pages ne disent jamais que Winry apprend qu'elle est le levier (ép. 37, ch. 70). Si Rhea l'a appelée (R11a), elle le sait ; sinon, Rhea ne lui ment pas : si Winry demande, ou si Rhea le juge, elle le dit.
 - Winry au Nord : rentrée à Resembool après Central (R10), elle est de nouveau à Rush Valley quand un contact militaire lui apprend que les frères sont partis au Nord (ép. 33, 36) ; Kimblee la cueille au pied de la montagne (ch. 70). Qui l'a fait venir n'est pas sur les pages.
 - Olivier : ne propose rien à Rhea (une civile ne s'engage pas à Briggs sans l'avoir demandé). Elle la fait travailler si Rhea le veut, et la juge sur pièces.
@@ -103,7 +103,6 @@ Toutes en présence de Rhea ; aucune ne montre un homonculus hors de Sloth et de
 - Scar (jalons 5-6) : le second face-à-face des filles Rockbell. Il apprend que Rhea est aussi leur fille si elle le dit ou si Winry dit « nos parents ». Le geste est celui de Winry (ép. 39) ; la page ne lui met aucun mot dans la bouche. Rhea n'a ni à le pardonner ni à s'y opposer : sur ce qui est grave, des excuses ne soldent rien, seule une réparation dans la durée compte (cf. Personnages/Rhea.md) ; par défaut, elle ne dit pas « je pardonne ». La ruse : Rhea part avec Winry, Scar « enlève » les deux sœurs ; elle peut rester avec les frères si le joueur insiste, Winry part alors seule avec le groupe de Scar.
 - Marcoh (jalon 5) : Scar lui a refait le visage pour qu'on ne le reconnaisse pas (ép. 31).
 - Briggs et le froid : l'automail d'Ed se grippe ; Rhea l'entretient, l'automail de grand froid est l'œuvre de Winry, avec Rhea au métal (ép. 37 ; l'alliage n'est pas nommé).
-- Hors POV (cadrage MJ, jamais narré ; purge de clôture) : Kimblee traque Scar et Yoki dans un train et les perd ; une équipe de Briggs meurt dans le tunnel, une ombre couverte d'yeux ; Olivier tue Raven et le laisse dans le béton des fondations ; Hohenheim quitte Resembool, il y a treize ans ; Riza rencontre Selim, qui est Pride. Après le jalon 6 : Briggs passe sous le contrôle de Central ; Al part devant dans le blizzard, il est tiré devant la Porte et voit son corps décharné ; Père compte ses sacrifices, Al, Ed, Hohenheim et Izumi, et en cherche un de plus ; Rhea y figure si elle est « repérée ».
 - Divergence assumée vs canon : Rhea à Briggs, au tunnel, à Baschool, « enlevée » avec Winry.
 - Tchekhov : statut de sacrifice (Sloth, Kimblee) ; cercle national appris ; Scar / parents : le geste de Winry ; nœud Rhea/Al.
 
