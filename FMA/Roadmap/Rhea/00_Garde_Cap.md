@@ -1,6 +1,6 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W20
+- version : W21
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
 Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
@@ -195,7 +195,7 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   Hohenheim meurt à Resembool ; après-guerre (Mustang, la Pierre de Marcoh et
   Havoc : sans objet si Mustang a gardé la vue) ; retour à Resembool, bouclage
   Monsieur Lapinou / Cliquetis ; déclaration Rhea/Al ; silence de Mustang (1910)
-  détonable. Une seule roadmap pour les deux états du statut. Écrite (W1) :
+  détonable. Une seule roadmap pour les deux états du statut. Reprise (W3) :
   hôpital de Central (chevet de Mustang au choix, Pierre de Marcoh), retour
   à Resembool (Winry, l'éclipse ; Hohenheim mort) ; corps d'Al = fin de
   l'anti-Alan ; l'un des deux se déclare, c'est réciproque, Al dit oui ; première nuit, Monsieur
