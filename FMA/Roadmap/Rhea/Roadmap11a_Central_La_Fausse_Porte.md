@@ -1,6 +1,6 @@
 # Roadmap 11a - Central : la fausse Porte
 
-- version : W4
+- version : W5
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (19 ans), POV strict
 - échelle temporelle : environ une semaine (fin 1914 ; aucune durée dans les pages ép. 24-32 ni ch. 49-64) : la nuit de Gluttony, l'attente chez Knox, le retour des frères, Riza, la dispersion de l'équipe de Mustang, le dîner chez les Bradley, le train du Nord. Les 17 ans de Rhea (30 janvier 1915) tombent en Roadmap 12.
@@ -33,15 +33,6 @@ L'arc où l'ennemi prend sa forme vraie. Les frères tombent dans une fausse Por
 5. 520 cens [AU CHOIX] : Central, maison de Knox. May a filé de chez Knox. L'équipe de Mustang part : Breda à l'Ouest, Fuery au Sud, Falman au Nord ; Riza vide le bureau de Mustang et reste auprès de Bradley. Rappelé aux 520 cens empruntés, Ed décide de garder la dette jusqu'à ce que Mustang soit généralissime (ép. 31). Fu revient d'avoir mené Ross à Xing ; il sermonne Lan Fan et pleure sur sa petite-fille. Il refuse l'automail des Rockbell et choisit un mécanicien inconnu, puisque l'ennemi a vu son visage. Rhea peut proposer l'atelier : refus. Les frères se demandent comment May et Scar transmutaient sous le blocage de Père : il faut trouver May. Avance à la bibliothèque.
 6. Le fils du Généralissime [JOUÉE] : bibliothèque de Central, puis maison des Bradley. Armstrong glisse aux frères que May est partie vers le Nord et leur donne une lettre scellée pour sa sœur, la générale Olivier Mira Armstrong, à Briggs (ép. 32, ch. 64). Selim Bradley, le fils adoptif, salue Ed et les invite ; Mme Bradley les reçoit ; le Généralissime rentre et s'assoit, mari et père aimant (ép. 32, scène propre à l'anime). Rhea est avec les frères (par défaut). Pour Rhea : la table d'un homonculus qu'elle sait tel, sa femme qui ne sait rien, un gamin poli ; l'homme qui a refusé la vie du chef ishval passe le sel. Zéro filtre dans la pire des pièces : ce qui sort est au choix du joueur, sous verrou (attaque). Selim est Pride : personne ne le sait. Avance à la gare.
 7. Le train du Nord [AU CHOIX] : gare de Central. Les frères et Rhea montent dans le train du Nord. Clôt R11a -> Roadmap 11b.
-
-## Tranches de vie
-Toutes en présence de Rhea ; aucune ne montre un homonculus hors du jalon 1 et du dîner.
-- Maison de Knox, jalon 2 : Knox, légiste, qui recoud des vivants ; Rhea compte ses instruments de métal et ne regarde pas le reste.
-- Maison de Knox : Shao Mei, panda minuscule, sur l'épaule de May ; May qui la regarde, elle, comme une seconde sans-cercle.
-- Après le jalon 3 : Ed sous la douche, puis affalé ; Al assis à côté, sans pouvoir dormir, Rhea de l'autre côté.
-- Chez Riza : Hayate, et un appartement trop rangé.
-- Bibliothèque, jalon 6 : les frères cherchent la bête de May ; Rhea lit sur les métaux du froid.
-- Avant le train : manteaux, gants ; Rhea graisse le bras d'Ed pour le froid, sans pouvoir changer l'acier.
 
 ## Casting convoqué
 - Rhea - POV, 19 ans - cf. Personnages/Rhea.md

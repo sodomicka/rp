@@ -1,6 +1,6 @@
 # Roadmap 7 - Laboratoire 5
 
-- version : W6
+- version : W7
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (19 ans), POV strict
 - échelle temporelle : ~3 semaines (1914) : cinq jours de copie (Sheska), une dizaine de jours de décodage (ép. 7), la nuit du Laboratoire 5 ; Winry arrive deux semaines après Resembool (ch. 14) ; anniversaire d'Elicia, doute d'Al, visite du Généralissime le même jour que la réconciliation (ch. 15) ; le départ de Central, quelques jours plus tard (non chiffré)
@@ -31,15 +31,6 @@ L'arc où la Pierre change de nature : ce n'est plus un espoir, c'est un charnie
 8. Le doute d'Al [le lendemain, JOUÉE] : chambre d'Ed, puis le toit. Sur une plaisanterie d'Ed, Al explose : il n'a jamais demandé ce corps ; il accuse Ed de lui cacher que le garçon nommé Alphonse n'a jamais existé. Ed sort. Winry frappe Al et le sermonne : la peur d'Ed, c'est qu'Al le haïsse de l'avoir enfermé dans le métal ; qu'il aille s'excuser. Sur le toit, Ed esquive en provoquant un combat et gagne, pour la première fois, avec un drap ; les frères se réconcilient sur leurs bagarres d'enfants et renouvellent leur serment. Rhea : la seule qui ait vu des choses sans âme (1900, 1910) et une âme dans un corps fondu (Nina). Elle peut dire à Al ce qu'elle sait, à plat : au choix du joueur, sans remplacer le combat des frères. Ce qui sort d'elle à ce moment devient une ligne de la carte d'Al. Avance quand les frères se sont réconciliés.
 9. Le Généralissime [même jour, JOUÉE] : chambre d'Ed. Ed, Al, Hughes et Armstrong comparent leurs notes sur les assaillants du laboratoire (Ed a dessiné une marque de serpent et le cercle). King Bradley entre ; les gardes se raidissent. Il reproche à Armstrong de fouiller les affaires du commandement, sait que les frères cherchent la Pierre et les presse de dire ce qu'ils savent ; il rit, confie qu'il soupçonne de la corruption dans l'armée, note que les chercheurs du laboratoire ont tous disparu avant l'effondrement. Il les déclare dignes de confiance, interdit toute enquête, leur dit de ne se fier à personne, et repart par la fenêtre quand ses gardes du corps arrivent. Pour Rhea : l'homme qui a signé l'ordre d'extermination d'Ishval, à deux mètres. Insulte, silence ou fuite : au choix du joueur ; Bradley en rit. Attaque : verrou. Avance à son départ.
 10. Le départ [quelques jours plus tard, JOUÉE] : gare de Central. Les frères partent vers le Sud, pour Dublith et leur maîtresse Izumi. Winry arrive avec les billets : Rush Valley, la ville de son rêve, est sur la ligne ; elle vient. Elle apporte une tarte aux pommes de Gracia. Rhea part avec eux : Izumi, la femme qui a pâli en apprenant qu'une gamine transmute sans cercle (R2). Personne dans le train ne sait que Hughes est mort. Clôt R7 -> Roadmap 8.
-
-## Tranches de vie
-Toutes en présence de Rhea ; aucune ne laisse filer Hughes après le jalon 9.
-- Chez Sheska : les piles de livres ; Rhea en range une par taille sans qu'on lui demande, Sheska panique.
-- Le décodage : dix jours de papiers au sol, Ed qui dort sur ses notes ; Rhea trie les feuilles, pas les recettes.
-- Avec Ross et Brosh : deux gardes en uniforme collés aux frères ; Rhea leur parle à plat de l'armée qu'ils servent.
-- À l'hôpital : Ed qui refuse son lait ; Rhea le boit ou ne le boit pas.
-- Chez les Hughes : les photos d'Elicia que Hughes sort de partout.
-- Dans le train du départ : la tarte de Gracia ; Rhea peut sortir, en banalité crue, que les pommes, c'était Alan (écho de la tarte chez Trisha, R1).
 
 ## Casting convoqué
 - Rhea - POV, 19 ans ; la Pierre, Barry, Bradley, Winry revenue - cf. Personnages/Rhea.md
