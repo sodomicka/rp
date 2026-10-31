@@ -11,7 +11,7 @@ Format libre : `<entité/lieu> | <arc ou contexte> | <point à vérifier / doute
 ## Yukiko
 
 - Yukiko | tout | Ses points en attente (entrées de fiche C1-D4, scissions, rattachements, points d'arc ouverts, trame et roadmaps, côté Kamo de Clan_Kamo) vivent dans Roadmap/Yukiko/chantier_yukiko.md. Le chantier Passe 2 (Roadmap/_Chantier_Passe2_EresCD.md) reste un document de travail pour ce build.
-- Yukiko | résumé | Écrire JJK/Resume_Yukiko.md en temps voulu (un résumé par protagoniste jouable ; l'ancien Resume.md global est supprimé). Côté Config : INSTRUCTION_WIKI_BIBLE prescrit encore un `{Univers}/Resume.md` unique, à adapter si la règle « un résumé par prota » doit valoir partout.
+- Yukiko | résumé | Écrire JJK/Resume_Yukiko.md en temps voulu (un résumé par protagoniste jouable ; l'ancien Resume.md global est supprimé).
 - Note d'intention (extradiégétique) | transverse | Couple féminin voulu - représentation lesbienne absente de JJK (canon : Kirara/Hakari seul couple LGBT). Versant diégétique : la règle d'amour de Yukiko (fiche, Psychologie).
 ## Ère E (JJK Modulo, 2086)
 
