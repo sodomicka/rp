@@ -1,6 +1,6 @@
 # Resembool
 
-- version : W2
+- version : W3
 
 ## Nature
 
@@ -16,15 +16,16 @@ Lieu de nombreux événements-clés de la série.
 ## Événements-clés canon
 
 - Mort de Trisha Elric (1904, épidémie).
-- Départ des parents Rockbell pour le front d'Ishval [date exacte non fixée par le canon ; paroxysme de la guerre, cf. Lieux/Ishval.md].
+- Missions des parents Rockbell au front d'Ishval depuis 1901, entre deux retours ; dernier départ en 1907 (dates fixées par le RP, le canon ne les donne pas).
 - Nouvelle de la mort des Rockbell parvenue au bourg (1909).
-- Transmutation humaine ratée des frères Elric (1910), puis incendie de leur maison avant le départ pour Central.
+- Transmutation humaine ratée des frères Elric (1910).
+- Examen d'État d'Ed, puis incendie de la maison Elric (3 octobre 1911) et départ des frères pour leur quête (cf. Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md).
 - 1914 : Hohenheim se recueille sur la tombe de Trisha ; exhumation de la chose de 1910 (ce n'était pas Trisha).
 - 1915 : le Jour Promis, les âmes du bourg prises et rendues à l'éclipse ; Hohenheim meurt sur la tombe de Trisha ; retour des frères, Al dans son corps.
 
 ## Fonction narrative pour ce RP
 
-Foyer d'adoption de la protagoniste : Pinako l'a recueillie (~1903-1904) après l'incident de son village natal (cf. Personnages/Rhea.md).
+Foyer d'adoption de la protagoniste : Pinako l'a recueillie (1900) après l'incident de son village natal (cf. Personnages/Rhea.md).
 La protagoniste grandit ici comme sœur de Winry, enfant de Sarah et Yuri, petite-fille de Pinako, amie des Elric.
 Village de la protagoniste (natal) : distinct de Resembool, à ~deux jours de marche. Petit village minier, sans nom retenu (effacé de la mémoire de la protagoniste). Cf. Personnages/Rhea.md et Parties/.
 Point de départ et d'arrivée du périmètre joué : la maison Rockbell est la base de chaque retour (R6, R12) ; la chambre des deux sœurs clôt la saga (R14, la première nuit de retour, Monsieur Lapinou et Cliquetis). Cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.

@@ -1,10 +1,10 @@
 # Rhea
 
-- version : W31
+- version : W32
 
 ## Identité
 
-Fille adoptive Rockbell, de Resembool. Née le 30 janvier 1898 (un an de plus
+Fille adoptive Rockbell, de Resembool. Née le 30 janvier 1895 (un an de plus
 qu'Edward et Winry, deux de plus qu'Alphonse).
 Alchimiste sans cercle, spécialiste du minéral et surtout du métal.
 Porte le nom Rockbell par adoption : son patronyme d'origine a été effacé par
@@ -22,9 +22,9 @@ papa"). Ne subsistent qu'Alan et la-chose-qui-n'est-pas-Alan.
   l'incident.
 - Mère : morte depuis longtemps, sans importance.
 - Frère : Alan, 4 ans. Pneumopathie induite par l'amiante, malade depuis ses
-  ~2 ans. Rhea l'a soutenu et soigné pendant deux ans. Mort en 1903.
+  ~2 ans. Rhea l'a soutenu et soigné pendant deux ans. Mort en 1900.
 
-Incident fondateur (1903, 5 ans) - GÉNÉRATEUR D'ORIGINE, jamais un fil armé :
+Incident fondateur (1900, 5 ans) - GÉNÉRATEUR D'ORIGINE, jamais un fil armé :
 Alan mort l'avant-veille, son corps sous une couverture. Rhea trouve le
 grimoire du père (incluant la théorie de la transmutation humaine, purement
 théorique) et tente le rituel. Projetée face à la Vérité, elle est punie pour
@@ -46,7 +46,7 @@ L'isolement est de son fait, pas un abandon.
 
 ## Physique
 
-1m75 en fin de croissance (à 16 ans, en 1914), grande pour son âge - elle
+1m75 en fin de croissance (à 19 ans, en 1914), grande pour son âge - elle
 dépasse tout le monde tôt, ce qui vaut des mini-engueulades à Edward.
 Cheveux longs et noirs. Winry a pris l'habitude de les lui tresser, par pure
 nécessité mécanique : Rhea est très maladroite et se les coince sans arrêt
@@ -64,7 +64,7 @@ compensation.
 Silhouette fine et athlétique : un corps de forgeronne alchimiste, taillé pour
 porter du lourd, pas pour battre le fer (l'alchimie fait la frappe). Moins
 musclée que Winry - sans le moindre enjeu entre elles.
-À l'incident de 1903, avant Resembool : sac de nœuds sur la tête, entièrement
+À l'incident de 1900, avant Resembool : sac de nœuds sur la tête, entièrement
 négligée, effacée derrière Alan pendant des mois. La tresse propre, c'est
 l'après-Winry.
 
@@ -77,7 +77,7 @@ base neuro stable :
   pas). Empathie cognitive "froide" intacte : elle peut comprendre, jamais
   ressentir pour l'autre. Ses émotions à ELLE sont intactes et NON
   calibrées : tout x1000. Exception Winry : pas de l'empathie exercée, une
-  carte apprise par cœur sur onze ans - extension d'elle-même, pas autrui.
+  carte apprise par cœur sur quatorze ans - extension d'elle-même, pas autrui.
 - Ultra-impulsive.
 - Aucun filtre organique entre la pensée et la parole ; zéro tact. Seule
   parade : le filtre prothétique (ci-dessous).
@@ -108,7 +108,7 @@ Filtre prothétique :
   court-circuite en une demi-seconde, filtre frais ou pas.
 - Règles par catégories : les situations inédites passent entre les mailles
   (peut réussir une soirée puis sortir une horreur non couverte).
-- Construit à l'adolescence (~11-14 ans), Winry entraîneuse (signal
+- Construit à l'adolescence (de 1911 à 1914, R4), Winry entraîneuse (signal
   externe - pression de main = abort - intériorisé peu à peu). Avant : roue
   libre totale.
 - Une bonne journée est une PERFORMANCE, pas une guérison. Elle rentre
@@ -205,7 +205,7 @@ ses propres créations qu'envers celles de l'autre.
 Trauma sur l'alchimie ORGANIQUE : elle refuse de transmuter le vivant, jusqu'à
 ne pas vouloir toucher du bois. Le minéral et le métal, eux, ne déclenchent
 rien - elle en transmute à longueur de journée sans broncher.
-Brillante, pas seulement chanceuse : en 1903 le grimoire a fait le gros du
+Brillante, pas seulement chanceuse : en 1900 le grimoire a fait le gros du
 travail, mais elle a une vraie tête.
 
 ## Relations (de base)
@@ -245,7 +245,7 @@ travail, mais elle a une vraie tête.
 - Izumi Curtis - la seule personne lisible SANS carte : pattern matching
   auto-référentiel ("elle a fait ce que j'ai fait, payé comme j'ai payé"),
   aucune simulation requise. Être connue sans avoir à confesser : compatible
-  avec l'évitement du 1903 (la zone reste fermée, l'info circule quand
+  avec l'évitement du 1900 (la zone reste fermée, l'info circule quand
   même). Izumi parle explicite, sans détours ni sous-entendus - elle sait
   que l'implicite tombe dans l'oreille d'une sourde. Séquence type :
   révélation du sans-cercle d'Izumi -> compréhension immédiate de Rhea ->
@@ -255,7 +255,7 @@ travail, mais elle a une vraie tête.
   mise à jour une correction à la fois. Seule autorité morale audible :
   rapport d'expérience, pas sermon. Rencontrée en 1914 (R9, cf.
   Trajectoire datée) : seule exception hors Elric et Rockbell au verrou
-  du 1903 - elle l'a deviné, Rhea n'a rien à confesser.
+  du 1900 - elle l'a deviné, Rhea n'a rien à confesser.
 - Registre amoureux (générique) : la séduction implicite est illisible (elle
   ne remarque rien) OU la valeur bascule et c'est la déclaration frontale,
   sans préambule, au pire moment. Sincérité absolue, zéro jeu, zéro agenda -
@@ -275,12 +275,12 @@ elle a transformé un "à bientôt" en tombe. Angle du RP : relecture des
 ## Objets liés
 
 - Monsieur Lapinou - la peluche d'Alan, récupérée avant de quitter le village
-  en 1903. Souvenir de quand elle aimait Alan, devenu un rituel de sommeil
+  en 1900. Souvenir de quand elle aimait Alan, devenu un rituel de sommeil
   avec Winry.
 - Cliquetis - galet de métal sans arête (pour qu'elle ne se blesse pas en
   crise), muni d'une roulette qui reproduit le rythme cardiaque de Rhea
   endormie - que Winry connaît par cœur, les deux dormant ensemble depuis
-  1903. Relais anti-crise quand Winry n'est pas là.
+  1900. Relais anti-crise quand Winry n'est pas là.
 - Cache-œil en cuir - cousu par Winry (bandage de Pinako à l'origine).
 [L'échange Monsieur Lapinou / Cliquetis au départ de 1914 - Rhea laisse Monsieur Lapinou à Winry
 et emporte Cliquetis - est un battement de Roadmap 4 (cf. Trajectoire datée) :
@@ -295,7 +295,7 @@ Lapinou reste à Winry, Cliquetis à Rhea, les deux dans le lit du rituel.]
 OC : pas de sort canon fixe. [selon RP] Par défaut, le périmètre joué la mène
 de l'enfance à la chute de Père puis au retour à Resembool (R14, fin du
 périmètre : la première nuit dans la chambre des sœurs).
-Son statut de sacrifice potentiel (Porte ouverte dès 1903, hitobashira valable)
+Son statut de sacrifice potentiel (Porte ouverte dès 1900, hitobashira valable)
 est tranché en Roadmap 12 : Mustang l'a repérée sur place en 1910 (R3) ; il
 l'a vue vouloir une vie sans problèmes, loin de l'armée, et ne l'a pas citée
 dans son rapport pour lui rendre ce calme. L'armée n'a rien ; « hors radar »
@@ -310,15 +310,15 @@ forcée de Mustang).
 
 Alimentées à chaud, arc par arc (Passe 2) :
 - Clivage du savoir (posé en R1, verrouillé en R3) : les Elric savent depuis
-  l'enfance qu'elle transmute sans cercle (le chevalier d'acier, 1903-1904),
-  mais ignorent TOUT de son 1903 (transmutation, lésion). Le noyau Rockbell,
+  l'enfance qu'elle transmute sans cercle (le chevalier d'acier, 1900-1904),
+  mais ignorent TOUT de son 1900 (transmutation, lésion). Le noyau Rockbell,
   lui, sait tout. Izumi sait dès 1909, par les frères, qu'une gamine transmute
   sans cercle - et en devine le prix (cf. Personnages/Izumi_Curtis.md).
 - Notoriété villageoise (verrouillée en R3) : le FAIT que Rhea transmute
   sans cercle est connu du bourg depuis l'enfance (elle transmute à ciel
-  ouvert). Le POURQUOI (1903) ne fuit jamais : verrouillé chez les Rockbell.
+  ouvert). Le POURQUOI (1900) ne fuit jamais : verrouillé chez les Rockbell.
   C'est cette rumeur que Mustang récolte en 1910.
-- Révélation du 1903 aux Elric : 1914, au retour des frères (R4), avant le
+- Révélation du 1900 aux Elric : 1914, au retour des frères (R4), avant le
   départ - jamais avant. Jusque-là, silence total de Rhea sur son passé envers
   eux, y compris pendant la fracture de 1910 et le froid 1911-1914.
 - Izumi (R9, 1914) : seule personne hors Elric et Rockbell qui connaît le
@@ -334,7 +334,7 @@ Alimentées à chaud, arc par arc (Passe 2) :
   sacrifice ; elle sait en être un valable, pas si Père la connaît. Elle le
   dit à Winry.
 - Jour Promis (R13, 1915) : sacrifice ne veut pas dire nouveau péage ; elle
-  a payé en 1903, Père s'en sert comme clé. Le silence de Mustang ne détone
+  a payé en 1900, Père s'en sert comme clé. Le silence de Mustang ne détone
   pas en R13 (R14 au plus tôt).
 - Retour (R14, 1915) : le corps d'Al rendu, l'anti-Alan n'a plus d'objet ;
   la valeur de 1910 rebascule ; à Resembool, l'un des deux se déclare (Al
@@ -342,22 +342,22 @@ Alimentées à chaud, arc par arc (Passe 2) :
   parvient que si elle va à son chevet (choix du joueur). Refuse la Pierre
   pour son œil : le péage reste à elle.
 
-## Trajectoire datée (post-1903)
+## Trajectoire datée (post-1900)
 
-Démarre 1910 (1903-1909 = noyau ci-dessus). Forme télégraphique, datée. Quand
+Démarre 1910 (1900-1909 = noyau ci-dessus). Forme télégraphique, datée. Quand
 un RP diverge, le delta va en Parties/ et surclasse cette strate pour cette
 partie.
 - 1910 (R3) - La nuit des Elric. Ed et Al tentent de ramener Trisha, en cachette,
   sans la prévenir. Rhea, première sur place, reconnaît la chose (elle en a
   produit une, jadis) et l'achève au pic de béton sans ciller - renversement de
-  1903, où c'était Pinako qui achevait la sienne. Détestation à double
+  1900, où c'était Pinako qui achevait la sienne. Détestation à double
   tranchant : les frères (l'avoir fait sans elle) ET elle-même (n'avoir rien vu
   venir). Naissance du nœud Rhea/Al (Al devient l'anti-Alan) : bascule de
   valeur - l'attirance meurt avec l'armure. Reste une dissonance sans
   résolution : le gamin sympa, toujours bienveillant, ET l'abruti qui a
   perdu son corps en tentant ce qu'elle déteste le plus au monde. Pas de
   moyenne possible (COF) : les deux évaluations coexistent à plat et
-  alternent selon l'input du moment. Elle ne lâche RIEN de son 1903 et
+  alternent selon l'input du moment. Elle ne lâche RIEN de son 1900 et
   coupe les ponts. Début du silence total envers les Elric (jusqu'en 1914).
 - 1910 (R3) - Le refus Mustang. Mustang, en repérage de recrues, recrute Ed
   chez les Rockbell puis commet l'erreur de venir faire la même offre à Rhea
@@ -397,23 +397,23 @@ partie.
   ne pas brider le rêve de Winry. Winry lui demande d'apprendre à compter sur
   d'autres qu'elle ; Rhea refuse tout inconnu ; Winry propose Al, accepté
   sans intégration (outil comme Cliquetis / anti-Alan, en alternance). Le
-  1903 parvient aux Elric (par elle en flux, ou par Winry) : la fracture de
+  1900 parvient aux Elric (par elle en flux, ou par Winry) : la fracture de
   1910 s'éclaire pour eux. Winry remet à Al sa carte de Rhea (papier de ses
   habitudes avec elle) - faite pour Winry, vouée à l'échec. Winry forge
   Cliquetis en une nuit ; Rhea lui laisse Monsieur Lapinou, part du rituel de
   sommeil, pour qu'elle ne soit pas seule (projection de son propre besoin).
   Départ avec les
   frères : réconciliation fraîche et fragile, plaie anti-Alan intacte.
-- 1914 (R5) - Liore. Premier voyage hors de Resembool depuis 1903, sans
+- 1914 (R5) - Liore. Premier voyage hors de Resembool depuis 1900, sans
   Winry. Première crise loin d'elle : Al applique la carte de Winry, ça ne
   prend pas (gantelet froid, pas de battement, pas Winry) ; Cliquetis tient
   le relais, imparfait. Face à Rose, qui attend le retour de son fiancé
-  mort, Rhea voit son propre 1903 sans en livrer le pourquoi. Ed démasque
+  mort, Rhea voit son propre 1900 sans en livrer le pourquoi. Ed démasque
   Cornello, la Pierre est fausse : la quête devient concrète. Rien des
   homonculus ne lui parvient. Al commence à l'observer pour son compte.
 - 1914 (R6) - East City et Scar. Retrouvailles froides avec Mustang et
   Riza ; pas de nouvelle offre. Chez Tucker, Nina et Alexander s'attachent
-  à elle ; Tucker les fond en chimère : la chose de 1903 et de 1910, mais
+  à elle ; Tucker les fond en chimère : la chose de 1900 et de 1910, mais
   avec une âme qui parle. Elle ne les achève pas. Scar tue Tucker et la
   chimère ; elle l'apprend par Riza, puis le voit détruire sous la pluie le bras d'Ed et l'armure d'Al : elle
   sait qu'il est ishval et tueur d'Alchimistes d'État, ignore qu'il a tué
@@ -444,7 +444,7 @@ partie.
   Winry et sursaute au nom Rockbell. Winry voit dans la montre la date de
   l'incendie, le dit à Rhea, qui y était, puis l'avoue à Ed. Nuit d'orage : Winry accouche
   Satella ; Rhea, sans toucher l'organique, voit un corps arriver avec son
-  âme, l'inverse de 1903. Winry reste chez Garfiel, sans Monsieur Lapinou :
+  âme, l'inverse de 1900. Winry reste chez Garfiel, sans Monsieur Lapinou :
   troisième séparation, la première loin de Resembool. Rhea repart vers
   Dublith avec Ed et Al, Cliquetis et la carte d'Al pour seul relais.
 - 1914 (R9) - Dublith : Izumi et Greed. Chez les Curtis, Izumi rosse les
@@ -494,7 +494,7 @@ partie.
   piège à Envy : l'homonculus qui a allumé Ishval finit limace dans un bocal,
   et dit qu'Ed a disparu ; elle ne l'écrase pas. À Liore, Rose a choisi de
   vivre ; Hohenheim, Pierre vivante au visage de Père, lui dit les sacrifices :
-  la nuit d'Alan a fait d'elle une clé du plan. 17 ans. La veille du Jour
+  la nuit d'Alan a fait d'elle une clé du plan. 20 ans. La veille du Jour
   Promis, à Resembool, Ed vivant, refermé sur sa propre vie, avec Greed-Ling ;
   elle dit à Winry ce qu'elle est ; dernier rituel avec Monsieur Lapinou,
   cinquième séparation, elle repart la nuit même. À Kanama, dans le noir,

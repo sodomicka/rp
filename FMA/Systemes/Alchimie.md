@@ -1,60 +1,63 @@
 # Alchimie
 
-- version : W1
+- version : W2
 
-## Definition
+## Définition
 
-Science de la comprehension, deconstruction et reconstruction de la matiere.
-Manipule et transforme la matiere via l'energie naturelle. Ne peut rien creer a partir de rien.
+Science de la compréhension, de la déconstruction et de la reconstruction de la matière.
+Manipule et transforme la matière grâce à l'énergie naturelle. Ne peut rien créer à partir de rien.
 
-## Loi de l'echange equivalent
+## Loi de l'échange équivalent
 
-Principe fondateur : pour obtenir quelque chose, une chose de valeur egale doit etre perdue.
-Aucune creation ex nihilo. Conservation de la masse et des composants.
-[INTERPRETATION] Le canon revele tard que l'energie reelle des transmutations provient de mouvements tectoniques de la croute terrestre, pas d'un simple troc matiere-contre-matiere. L'echange equivalent reste la loi vecue par les alchimistes d'Amestris.
+Principe fondateur : pour obtenir quelque chose, une chose de valeur égale doit être perdue.
+Aucune création ex nihilo. Conservation de la masse et des composants.
 
-## Sequence de transmutation
+## Source de l'énergie
 
-Trois etapes obligatoires :
-1. Comprehension - saisir la structure atomique/moleculaire du materiau, le flux d'energie interne.
-2. Deconstruction - briser la structure physique en etat malleable.
-3. Reconstruction - reformer la matiere en une nouvelle forme.
+L'énergie des transmutations vient de la terre. En Amestris, Père fait écran à cette énergie : sans le savoir, les alchimistes amestriens puisent dans les âmes de Xerxès scellées en lui (révélé tard). L'échange équivalent reste la loi vécue par les alchimistes d'Amestris.
 
-Echec de comprehension ou perte de concentration -> Retour de flamme (rebound) : energie instable, blessure grave ou mort.
+## Séquence de transmutation
+
+Trois étapes obligatoires :
+1. Compréhension - saisir la structure atomique et moléculaire du matériau, le flux d'énergie interne.
+2. Déconstruction - briser la structure physique en un état malléable.
+3. Reconstruction - reformer la matière en une nouvelle forme.
+
+Échec de compréhension ou perte de concentration -> Retour de flamme (rebound) : énergie instable, blessure grave ou mort.
 
 ## Cercle de transmutation
 
-Diagramme geometrique qui canalise l'energie et definit la nature de la transmutation.
-Requis par defaut pour transmuter. Le cercle represente le flux d'energie ; les motifs (runes) definissent l'effet.
+Diagramme géométrique qui canalise l'énergie et définit la nature de la transmutation.
+Requis par défaut pour transmuter. Le cercle représente le flux d'énergie ; les motifs (runes) définissent l'effet.
 ~400 ans de recherche alchimique en Amestris ont enrichi les runes : combinaisons, convergences, nouvelles voies.
 Un tableau de transmutation (array) non cyclique peut amplifier la phase de destruction ou de reconstruction (ex. bras de Scar).
 
-## Specialisations et domaines
+## Spécialisations et domaines
 
-Un alchimiste comprend d'autant mieux un materiau qu'il le connait.
-La maitrise varie par domaine : mineral, metal, organique, etc. Un alchimiste peut exceller sur un materiau et etre mediocre sur un autre.
-Alchimie de combat : transmutation d'armes, de terrain, de prothese (ex. lame tiree de l'automail).
+Un alchimiste comprend d'autant mieux un matériau qu'il le connaît.
+La maîtrise varie par domaine : minéral, métal, organique, etc. Un alchimiste peut exceller sur un matériau et être médiocre sur un autre.
+Alchimie de combat : transmutation d'armes, de terrain, de prothèse (ex. lame tirée de l'automail).
 
 ## Tabou : transmutation humaine
 
 Interdit absolu de l'alchimie.
-Fondement : une ame humaine a une valeur infinie ; rien de fini ne peut l'egaler. L'equation ne s'equilibre jamais.
-Toute tentative echoue et provoque un Retour de flamme majeur : l'alchimiste est traine devant la Porte (cf. La_Verite_Et_La_Porte.md).
-Le produit d'une transmutation humaine ratee est une masse difforme sans ame, qui meurt en quelques jours.
-Une Pierre philosophale permet de contourner le Retour de flamme, car elle paie le cout avec les ames qu'elle contient (cf. Pierre_Philosophale.md).
+Fondement : une âme humaine a une valeur infinie ; rien de fini ne peut l'égaler. L'équation ne s'équilibre jamais.
+Toute tentative échoue et provoque un Retour de flamme majeur : l'alchimiste est traîné devant la Porte (cf. La_Verite_Et_La_Porte.md).
+Le produit d'une transmutation humaine ratée est une masse difforme sans âme, qui meurt en quelques jours.
+Une Pierre philosophale permet de contourner le Retour de flamme, car elle paie le coût avec les âmes qu'elle contient (cf. Pierre_Philosophale.md).
 
 ## Transmutation sans cercle
 
-Possible uniquement apres avoir vu la Porte et survecu (cf. La_Verite_Et_La_Porte.md).
-L'alchimiste acquiert la connaissance du monde et devient lui-meme le cercle : il joint ses mains pour former un flux circulaire, puis transmute par claquement de mains.
-Ne dispense pas de la comprehension : il faut toujours connaitre les composants du materiau.
-La transmutation humaine, elle, reste hors de portee meme apres la Porte : personne ne peut ressusciter un mort.
+Possible uniquement après avoir vu la Porte et survécu (cf. La_Verite_Et_La_Porte.md).
+L'alchimiste acquiert la connaissance du monde et devient lui-même le cercle : il joint ses mains pour former un flux circulaire, puis transmute par claquement de mains.
+Ne dispense pas de la compréhension : il faut toujours connaître les composants du matériau.
+La transmutation humaine, elle, reste hors de portée même après la Porte : personne ne peut ressusciter un mort.
 
 ## Renvois
 
-- Le peage de la Porte et ses cas connus : cf. La_Verite_Et_La_Porte.md
-- Amplification par les ames : cf. Pierre_Philosophale.md
-- Prothese transmutable : cf. Automail.md
+- Le péage de la Porte et ses cas connus : cf. La_Verite_Et_La_Porte.md
+- Amplification par les âmes : cf. Pierre_Philosophale.md
+- Prothèse transmutable : cf. Automail.md
 
 ---
 

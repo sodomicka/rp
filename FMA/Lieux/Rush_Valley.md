@@ -1,6 +1,6 @@
 # Rush Valley
 
-- version : W2
+- version : W3
 
 ## Nature
 
@@ -17,7 +17,7 @@ inclus.
 - Rue principale et ateliers - boutiques d'automail en enfilade, foule
   permanente.
 - Atelier de Garfiel - mécanicien de Rush Valley, grand gaillard musclé aux
-  manières précieuses [CANON SUPPOSÉ]. Accueille Winry en apprentissage à
+  manières précieuses, généreux, dévoué à son métier. Accueille Winry en apprentissage à
   la demande de Dominic (canon ép. 11). Domicile de travail de Winry pour
   la suite de la trame.
 - Maison des LeCoulte - dans la montagne, hors de la ville, reliée par un

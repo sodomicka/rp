@@ -1,11 +1,11 @@
 # Roadmap 8 - Rush Valley
 
-- version : W4
+- version : W5
 - statut : à venir ; JOUABLE
-- prota / POV : Rhea (16 ans), POV strict
+- prota / POV : Rhea (19 ans), POV strict
 - échelle temporelle : deux jours environ (1914 ; le canon ne chiffre rien) : l'arrivée, le vol de la montre et la montagne de Dominic (jour 1), la nuit d'orage, la séparation au train de Dublith (lendemain)
-- borne d'entrée : suite de Roadmap 7. 1914, Rhea a 16 ans. Elle descend vers le Sud en train avec Ed, Al et Winry ; Rush Valley est sur la route de Dublith.
-  - Clivage du savoir : les Elric savent le 1903 de Rhea et sa lésion. Winry sait tout ; elle peut savoir pour la Pierre et le Laboratoire 5 (choix du joueur en R7). Personne hors Elric et Rockbell ne sait pourquoi Rhea transmute sans cercle.
+- borne d'entrée : suite de Roadmap 7. 1914, Rhea a 19 ans. Elle descend vers le Sud en train avec Ed, Al et Winry ; Rush Valley est sur la route de Dublith.
+  - Clivage du savoir : les Elric savent le 1900 de Rhea et sa lésion. Winry sait tout ; elle peut savoir pour la Pierre et le Laboratoire 5 (choix du joueur en R7). Personne hors Elric et Rockbell ne sait pourquoi Rhea transmute sans cercle.
   - Nœud Rhea/Al : la carte d'Al a deux lignes (le métal la calme ; ce qu'elle lui a dit, ou non, de l'âme en R7).
   - Objets : Cliquetis avec Rhea ; Monsieur Lapinou à Resembool. Le bras d'Ed porte le métal de Rhea et la mécanique refaite par Winry à Central.
   - Hughes est mort à Central avant le départ, et enterré pendant le voyage ; personne dans le train ne le sait.
@@ -19,7 +19,7 @@
 - roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md
 
 ## Intention
-La respiration sororale entre le charnier de Central et la maîtresse de Dublith. Rush Valley est le rêve de Winry et le cauchemar de Rhea : la foule, le métal partout, des mécaniciens qui veulent voir. Winry s'y épanouit, et Rhea mesure ce qu'elle a accepté en 1914 : sa sœur sera heureuse sans elle. Une voleuse aux jambes d'acier, un vieux maître qui refuse tout le monde, une montre qui porte la date de l'incendie. Et, dans la nuit d'orage, une naissance : l'inverse exact de 1903, un corps qui arrive avec une âme, que personne n'a eu à appeler.
+La respiration sororale entre le charnier de Central et la maîtresse de Dublith. Rush Valley est le rêve de Winry et le cauchemar de Rhea : la foule, le métal partout, des mécaniciens qui veulent voir. Winry s'y épanouit, et Rhea mesure ce qu'elle a accepté en 1914 : sa sœur sera heureuse sans elle. Une voleuse aux jambes d'acier, un vieux maître qui refuse tout le monde, une montre qui porte la date de l'incendie. Et, dans la nuit d'orage, une naissance : l'inverse exact de 1900, un corps qui arrive avec une âme, que personne n'a eu à appeler.
 
 ## Itinéraire (jalons)
 1. Rush Valley [jour 1, AU CHOIX] : gare, rue principale. La ville de l'automail, née du boom de la guerre d'Ishval : boutiques et ateliers à perte de vue. Winry en extase. Les mécaniciens s'attroupent autour d'Ed et le déshabillent pour voir ses membres. Pour Rhea : foule, bruit, métal ; agoraphobie au plus haut, Winry en bouclier comme à Resembool. Al peut lui ouvrir un passage (sa carrure écarte la foule) : s'il le fait, une ligne de plus sur sa carte. Transmuter en public : au choix du joueur ; conséquence par défaut ci-dessous (Notes de frontière). Avance quand la montre d'Ed a disparu dans la cohue.
@@ -27,7 +27,7 @@ La respiration sororale entre le charnier de Central et la maîtresse de Dublith
 3. Dominic [jour 1, JOUÉE] : maison des LeCoulte, retirée dans la montagne au-dessus de Rush Valley (il y tire son fer et y fuit le bruit), reliée à la ville par un pont de corde. Dominic LeCoulte, vieux maître bourru, auteur des jambes de Paninya. Il loue le bras d'Ed, mais trouve ces membres lourds pour un garçon qui grandit. Winry demande à devenir son apprentie : refus net, il ne prend pas d'élèves, et il les met dehors. Ridel, son fils, et Satella, enceinte. Une averse retient tout le monde. Le nom de Pinako le fait trembler (manga ; l'anime l'adoucit) ; Rhea porte le même nom. Dominic ne propose rien à personne. Avance quand Winry et Paninya se parlent.
 4. La date [jour 1, sous la pluie, JOUÉE] : chez les LeCoulte. Paninya raconte : ses jambes et ses parents perdus enfant dans un accident de train ; Dominic l'a trouvée au fond du désespoir et lui a fait ses jambes pour rien, en refusant d'être remboursé ; elle vole pour payer quand même. Winry lui dit de gagner cet argent honnêtement, comme Dominic a été honnête. Paninya rend la montre. Winry force le scellement et lit la gravure : « N'oublie pas 3 Oct. 11 », le jour où les frères ont brûlé leur maison. Rhea était à l'incendie (R4) : la date est aussi la sienne. Winry le lui dit, elle ne lui cache rien. Puis Winry avoue à Ed qu'elle a regardé ; il s'emporte, puis cède : il ne l'a jamais montrée à Al. Lecture de Rhea : la montre de l'armée qu'elle hait porte la date d'une promesse qu'elle comprend. Avance quand Satella s'effondre.
 5. L'orage [la nuit, JOUÉE] : maison des LeCoulte, le pont. Satella entre en travail. Dominic part chercher le médecin et revient aussitôt : la foudre a frappé le pont de corde. Ed, Al et Winry descendent avec lui tenter une réparation par alchimie : le ravin est trop large, l'eau trop rapide (Rhea n'y fait pas mieux). Dominic part par le long chemin. Winry décide d'accoucher Satella elle-même pour arrêter la panique ; Paninya proteste, Ed dit de faire confiance à une fille de médecins ; Ridel tient sa femme ; Paninya, qui ne supporte pas le sang, s'effondre. Ed et Al attendent dehors et prient. Rhea ne touche pas l'organique (trauma) : elle tient ce qui est en métal, ou tient Winry, ou attend dehors avec les frères. L'enfant, un garçon, naît vivant ; Dominic revient avec le médecin, qui salue le travail de Winry. Rhea devant le nouveau-né : un corps qui arrive avec son âme, sans cercle et sans péage. Le prendre ou non, et ce qui sort d'elle : au choix du joueur. Avance au matin.
-6. La séparation [le lendemain, JOUÉE] : chez les LeCoulte, puis gare. Winry reste à Rush Valley pour apprendre l'automail et redemander à Dominic. Il se radoucit : il lui présentera un autre maître, Garfiel, et elle pourra le regarder travailler quand elle viendra voir son petit-fils. Course jusqu'à la gare derrière le train de Dublith ; Winry les accompagne au quai, promet de voler ses techniques à Dominic. Troisième séparation depuis 1914 (R4, R6), la première loin de Resembool : Winry seule dans une ville étrangère, sans Monsieur Lapinou ; Rhea sans Winry, avec Cliquetis et la carte d'Al. Rhea repart avec Ed et Al vers Dublith. Clôt R8 -> Roadmap 9.
+6. La séparation [le lendemain, JOUÉE] : chez les LeCoulte, puis gare. Winry reste à Rush Valley pour apprendre l'automail et redemande à Dominic. Second refus, radouci (ch. 19) : il lui présentera un autre maître, Garfiel, et elle pourra le regarder travailler quand elle viendra voir son petit-fils. Course jusqu'à la gare derrière le train de Dublith ; Winry les accompagne au quai, promet de voler ses techniques à Dominic. Troisième séparation depuis 1914 (R4, R6), la première loin de Resembool : Winry seule dans une ville étrangère, sans Monsieur Lapinou ; Rhea sans Winry, avec Cliquetis et la carte d'Al. Rhea repart avec Ed et Al vers Dublith. Clôt R8 -> Roadmap 9.
 
 ## Tranches de vie
 Toutes en présence de Rhea ; aucune ne laisse filer Hughes.
@@ -40,7 +40,7 @@ Toutes en présence de Rhea ; aucune ne laisse filer Hughes.
 - À la gare : les avis de recherche de Scar et d'autres (ép. 11) ; Rhea regarde le visage du tueur d'East City.
 
 ## Casting convoqué
-- Rhea - POV, 16 ans ; la foule, la montre, la naissance, la séparation - cf. Personnages/Rhea.md
+- Rhea - POV, 19 ans ; la foule, la montre, la naissance, la séparation - cf. Personnages/Rhea.md
 - Winry Rockbell - le rêve réalisé, l'accouchement, reste chez Garfiel - cf. Personnages/Winry_Rockbell.md
 - Edward Elric - la montre volée ; apprend que Winry a vu la date - cf. Personnages/Edward_Elric.md
 - Alphonse Elric - poursuite et cage de fer, bouclier dans la foule (option) - cf. Personnages/Alphonse_Elric.md
@@ -73,7 +73,7 @@ Toutes en présence de Rhea ; aucune ne laisse filer Hughes.
 - Apprendre, ou laisser Winry apprendre, que Scar a tué Sarah et Yuri - Roadmap 10.
 - Rencontrer Izumi, Ling Yao, Lan Fan, Fu ou Greed - Roadmap 9.
 - Transmuter de l'organique, y compris pour l'accouchement - trauma de Rhea, stable.
-- Révéler le pourquoi du sans-cercle (le 1903) à Paninya, Dominic, Ridel, Satella ou Garfiel - verrouillé hors Elric et Rockbell.
+- Révéler le pourquoi du sans-cercle (le 1900) à Paninya, Dominic, Ridel, Satella ou Garfiel - verrouillé hors Elric et Rockbell.
 - Rejoindre l'armée ou passer l'examen d'État - antimilitarisme sur toute la saga.
 - Avouer son attirance pour Al - nœud avoué seulement à la fin du périmètre.
 

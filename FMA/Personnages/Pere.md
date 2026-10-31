@@ -1,6 +1,6 @@
 # Père
 
-- version : W3
+- version : W4
 
 ## Identité
 
@@ -17,7 +17,7 @@ Vraie forme évoluée : masse humanoïde noire couverte d'yeux (proche de la for
 ## Personnalité
 
 Froid, arrogant, calculateur. Méprise les émotions humaines qu'il tient pour des imperfections.
-[INTERPRÉTATION] N'a pas grandi en 400 ans, à l'inverse de Hohenheim : parasite les autres au lieu d'évoluer.
+À la fin, la Vérité le lui dit (ép. 63) : il a échoué faute d'avoir cru en lui-même, à voler la force des autres et à courir après l'idée de Dieu.
 Obsédé par la « perfection » et l'accession au rang de « Dieu ».
 
 ## Capacités
@@ -44,7 +44,7 @@ Le Jour Promis : convertir les 50 millions d'Amestriens en Pierre géante, force
 
 ## Rapport à la protagoniste
 
-Le vrai maître derrière l'armée que hait la protagoniste. Une alchimiste ayant vu la Porte dès 1903 est un sacrifice valable à ses yeux.
+Le vrai maître derrière l'armée que hait la protagoniste. Une alchimiste ayant vu la Porte dès 1900 est un sacrifice valable à ses yeux.
 - Statut (tranché en R12) : Mustang ne l'a pas citée en 1910, Père ne la connaît pas par défaut (« hors radar »). « Repérée » si elle a transmuté sans cercle devant un homonculus ou Kimblee qui a eu le temps de lui en faire rapport (delta Parties/) ; le Jour Promis, la Vérité la lui amène comme les autres sacrifices. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : « repérée », Rhea est son cinquième sacrifice, aspirée avec Ed et Izumi, clouée à l'éclipse ; Mustang n'est pas forcé. « Hors radar » : Mustang est le cinquième (canon), Rhea le voit à son repaire puis à la surface. Absorbe Dieu, perd les âmes au contre-cercle de Hohenheim, renvoyé à la Porte par le poing d'Ed. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 

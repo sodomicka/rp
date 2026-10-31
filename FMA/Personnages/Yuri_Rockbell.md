@@ -1,44 +1,44 @@
 # Yuri Rockbell
 
-- version : W1
+- version : W2
 
-## Identite
+## Identité
 
-Chirurgien, fils de Pinako, epoux de Sarah, pere de Winry.
-De Resembool. Amestrien. [INCERTAIN] Ascendance possiblement drachmane (prenom d'origine slave).
-Ne en 1873.
+Chirurgien, fils de Pinako, époux de Sarah, père de Winry.
+De Resembool. Amestrien.
+Né en 1870.
 
-## Personnalite
+## Personnalité
 
-Idealiste actif : preche l'action plutot que la bonne conscience passive.
-[citation, paraphrase] Assume l'accusation d'hypocrisie : agir, meme imparfaitement, vaut mieux que la vertu inerte.
-Devoue a ses patients au point de rester en zone de guerre malgre le danger et la penurie.
+Idéaliste actif : prêche l'action plutôt que la bonne conscience passive.
+[citation, paraphrase] Assume l'accusation d'hypocrisie : agir, même imparfaitement, vaut mieux que la vertu inerte.
+Dévoué à ses patients au point de rester en zone de guerre malgré le danger et la pénurie.
 
-## Role et capacites
+## Rôle et capacités
 
-Chirurgien de guerre en duo avec Sarah. Tres reconnu dans la region de Kanda a Ishval.
-Soigne les blesses des deux camps. Salue par ses pairs comme un modele medical.
+Chirurgien de guerre en duo avec Sarah. Très reconnu dans la région de Kanda à Ishval.
+Soigne les blessés des deux camps. Salué par ses pairs comme un modèle médical.
 [omake] Maniaque d'automail, comme sa femme et sa fille.
 
 ## Relations (neutres)
 
-- Sarah - epouse, collegue, morte avec lui.
-- Winry - fille, laissee a Pinako.
-- Pinako - mere.
+- Sarah - épouse, collègue, morte avec lui.
+- Winry - fille, laissée à Pinako.
+- Pinako - mère.
 
 ## Sort connu (canon)
 
-Part au front d'Ishval au paroxysme de la guerre [date exacte non fixee par le canon].
-Tue en 1908 par Scar, en meme temps que Sarah. Se jette devant sa femme pour la proteger, en vain.
-Nouvelle parvenue a Resembool en 1909.
+Missions au front d'Ishval avec Sarah, entre deux retours à Resembool, depuis 1901 ; dernier départ en 1907 (le canon ne date pas leur départ : dates fixées par le RP).
+Tué en 1908 par Scar, en même temps que Sarah. Se jette devant sa femme pour la protéger, en vain.
+Nouvelle parvenue à Resembool en 1909.
 
-## Rapport a la protagoniste
+## Rapport à la protagoniste
 
-Figure paternelle : la protagoniste l'appelle "papa" (attachement rapide apres son adoption). Sa mort nourrit l'anti-militarisme de la protagoniste. Detail : cf. Personnages/Rhea.md.
+Figure paternelle : la protagoniste l'appelle « papa » (attachement rapide après son adoption). Sa mort nourrit l'antimilitarisme de la protagoniste. Détail : cf. Personnages/Rhea.md.
 
 ## Renvois
 
-- Ishval, le genocide : cf. Lieux/Ishval.md
+- Ishval, le génocide : cf. Lieux/Ishval.md
 - Famille : cf. Personnages/Sarah_Rockbell.md, Winry_Rockbell.md, Pinako_Rockbell.md
 - Scar : cf. Personnages/Scar.md
 

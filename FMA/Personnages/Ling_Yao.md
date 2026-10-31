@@ -1,11 +1,10 @@
 # Ling Yao
 
-- version : W11
+- version : W12
 
 ## Identité
 
-Douzième prince de l'empire de Xing, à l'est du désert. Quinze ans en
-1914 [CANON SUPPOSÉ]. Le clan Yao est l'un des quelque cinquante clans qui
+Douzième prince de l'empire de Xing, à l'est du désert. Quinze ans en 1914. Le clan Yao est l'un des quelque cinquante clans qui
 se disputent la succession de l'empereur malade : Ling traverse le désert
 pour rapporter le secret de l'immortalité (la Pierre philosophale) et
 gagner le trône.

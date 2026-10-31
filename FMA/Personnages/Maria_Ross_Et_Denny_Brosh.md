@@ -1,6 +1,6 @@
 # Maria Ross et Denny Brosh
 
-- version : W5
+- version : W6
 
 ## Identité
 
@@ -12,10 +12,10 @@ n'existent dans le récit qu'en binôme jusqu'à l'affaire Hughes.
 
 ## Physique
 
-- Ross : cheveux noirs courts, grain de beauté sous l'œil gauche, uniforme
+- Ross : cheveux sombres coupés court, grain de beauté sous l'œil gauche, uniforme
   impeccable, port droit.
-- Brosh : grand, cheveux clairs courts [INCERTAIN : couleur exacte], air
-  bonhomme.
+- Brosh : grand, coiffure qui rappelle celle d'Ed jusqu'à la mèche dressée,
+  air bonhomme.
 
 ## Personnalité
 
@@ -54,8 +54,8 @@ l'explosion, récupèrent Ed inconscient et sauvent Al. Gardent l'hôpital.
 - 1914 (R10) : Ross apprend au trio la mort de Hughes ; arrêtée, évadée par
   Barry, « brûlée » par Mustang sous les yeux de Rhea. Vivante, elle part
   pour Xing avec Fu et une petite escorte, par les ruines de Xerxès (ch. 41) ;
-  Rhea peut le savoir par Ed, sous le secret [CANON SUPPOSÉ] (elle peut le
-  dire à Winry, à personne d'autre). Détail : cf.
+  les pages ne disent pas si Ed le confie ; dans ce RP, il le dit à Al et
+  Rhea sous le secret (elle peut le dire à Winry, à personne d'autre). Détail : cf.
   Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 - 1915 (R13) : Rhea ne la voit pas ; elle la sait vivante, et devant Envy le secret tombe. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 

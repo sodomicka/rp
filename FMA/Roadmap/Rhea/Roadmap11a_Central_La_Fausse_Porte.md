@@ -1,11 +1,11 @@
 # Roadmap 11a - Central : la fausse Porte
 
-- version : W3
+- version : W4
 - statut : à venir ; JOUABLE
-- prota / POV : Rhea (16 ans), POV strict
+- prota / POV : Rhea (19 ans), POV strict
 - échelle temporelle : environ une semaine (fin 1914 ; aucune durée dans les pages ép. 24-32 ni ch. 49-64) : la nuit de Gluttony, l'attente chez Knox, le retour des frères, Riza, la dispersion de l'équipe de Mustang, le dîner chez les Bradley, le train du Nord. Les 17 ans de Rhea (30 janvier 1915) tombent en Roadmap 12.
 - borne d'entrée : suite de Roadmap 10. La planque hors de la ville, le soir où Ling révèle que le Généralissime est un homonculus. Gluttony ligoté de câbles d'acier ; Lan Fan amputée ; Mustang, Riza et Knox présents.
-  - Clivage du savoir : le 1903 connu des seuls Elric, Rockbell et Izumi.
+  - Clivage du savoir : le 1900 connu des seuls Elric, Rockbell et Izumi.
   - Rhea sait : Hughes assassiné ; Ross vivante si Ed le lui a dit (secret) ; la chose de 1910 n'était pas Trisha ; Scar a tué Sarah et Yuri (avec Winry) ; Bradley est un homonculus.
   - Nœud Rhea/Al : Al sait qu'il est une âme et transmute sans cercle (R9) ; seul relais pendant l'absence d'Ed, et son sceau peut lâcher (R10).
   - Objets : Cliquetis avec Rhea ; Monsieur Lapinou à Resembool, avec Winry.
@@ -44,7 +44,7 @@ Toutes en présence de Rhea ; aucune ne montre un homonculus hors du jalon 1 et 
 - Avant le train : manteaux, gants ; Rhea graisse le bras d'Ed pour le froid, sans pouvoir changer l'acier.
 
 ## Casting convoqué
-- Rhea - POV, 16 ans - cf. Personnages/Rhea.md
+- Rhea - POV, 19 ans - cf. Personnages/Rhea.md
 - Edward Elric - avalé, revient par la Porte, tenu par Winry - cf. Personnages/Edward_Elric.md
 - Alphonse Elric - mené à Père, ramène May - cf. Personnages/Alphonse_Elric.md
 - Winry Rockbell - otage sans le savoir, à Resembool puis Rush Valley (appel au choix) - cf. Personnages/Winry_Rockbell.md
@@ -78,7 +78,7 @@ Toutes en présence de Rhea ; aucune ne montre un homonculus hors du jalon 1 et 
 - Révéler que Ross est vivante hors Winry - plan de Mustang.
 - Rencontrer Hohenheim - réservé à la Roadmap 12.
 - Transmuter de l'organique, toucher au bras de Lan Fan ou aux blessures de May - trauma stable.
-- Révéler le 1903 hors Elric, Rockbell et Izumi - verrou du pourquoi (May, Riza, Knox compris).
+- Révéler le 1900 hors Elric, Rockbell et Izumi - verrou du pourquoi (May, Riza, Knox compris).
 - Rejoindre l'armée ou passer l'examen d'État - antimilitarisme sur toute la saga.
 - Avouer son attirance pour Al - nœud avoué seulement à la fin du périmètre.
 - Reprendre Monsieur Lapinou pour elle - il est à Winry.
@@ -103,7 +103,7 @@ Toutes en présence de Rhea ; aucune ne montre un homonculus hors du jalon 1 et 
 - Winry otage (jalon 3) : Rhea le sait dès le retour d'Ed. Elle ne ment pas à Winry. L'appeler (à Resembool, ou à Rush Valley chez Garfiel) est au choix du joueur : les lignes sont écoutées, Bradley n'apprend rien qu'il ne sache ; Winry sait alors avant Briggs, et Kimblee vient la chercher quand même (R11b). Sans appel : les pages ne disent jamais que Winry l'apprend (ép. 37) ; à Briggs, Rhea le lui dit si elle demande, ou si Rhea le juge.
 - Ce qu'Ed rapporte (jalon 3) : Ed n'a fait revenir personne, il s'est transmuté lui-même pour passer la Porte, payé par les âmes d'une Pierre. Pour Rhea, qui sait la Pierre faite de vies (R7), c'est au choix du joueur ; rien ne bouge sur la trame. Le corps d'Al devant la Porte : l'anti-Alan bouge (Al a encore un corps à reprendre ; Alan n'en a plus) sans se résoudre.
 - Envy et Ishval (jalon 3) : Ed l'apprend dans le ventre de Gluttony et le dit à Scar devant Père. Rhea l'apprend d'Ed. L'armée a fait le reste : la haine ne change pas de cible, elle en gagne une.
-- Riza (jalon 4) : en canon, Ed y va seul (ép. 30). Rhea l'accompagne (divergence assumée) ; le joueur peut la laisser chez Knox, Ed lui raconte alors à plat. DÉTONE l'ironie Mustang/Riza de 1910 (« génocidaire »). Riza ne sait rien du 1903. Les pages ne disent ni l'ordre d'extermination signé ni une phrase sur un jugement à venir : ne pas les mettre dans sa bouche.
+- Riza (jalon 4) : en canon, Ed y va seul (ép. 30). Rhea l'accompagne (divergence assumée) ; le joueur peut la laisser chez Knox, Ed lui raconte alors à plat. DÉTONE l'ironie Mustang/Riza de 1910 (« génocidaire »). Riza ne sait rien du 1900. Les pages ne disent ni l'ordre d'extermination signé ni une phrase sur un jugement à venir : ne pas les mettre dans sa bouche.
 - Le dîner (jalon 6) : propre à l'anime ; le manga ne fait jamais asseoir Bradley à la table de famille (notes de l'ép. 32). Ordre Brotherhood : on le garde.
 - Lan Fan (jalon 5) : elle porte un automail en Roadmap 12, d'un mécanicien inconnu. Rhea peut avoir proposé l'atelier Rockbell ; Fu a dit non.
 - May Chang : l'alkahestrie est une médecine du flux, le vivant d'abord : Rhea s'en tient à distance. May voit en Rhea une seconde sans-cercle, sans le pourquoi ; rien ne remonte. Les frères la cherchent pour savoir comment elle transmute malgré Père.

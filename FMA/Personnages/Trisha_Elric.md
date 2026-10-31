@@ -1,47 +1,47 @@
 # Trisha Elric
 
-- version : W1
+- version : W2
 
-## Identite
+## Identité
 
-Mere d'Edward et Alphonse. Compagne de Van Hohenheim (union arrangee par l'amitie de Pinako).
-Jeune femme de Resembool. Nee vers 1878.
+Mère d'Edward et Alphonse. Compagne de Van Hohenheim (union arrangée par l'amitié de Pinako).
+Jeune femme de Resembool. Née vers 1875.
 
-## Personnalite
+## Personnalité
 
 Douce, aimante, patiente. Figure maternelle chaleureuse.
-Attend le retour de Hohenheim sans amertume affichee ; garde espoir.
+Attend le retour de Hohenheim sans amertume affichée ; garde espoir.
 
-## Role
+## Rôle
 
-Mere aimee des freres Elric ; son deces est le trauma fondateur de leur quete.
-[IMPLICITE] N'est pas alchimiste ; foyer modeste tenu seule apres le depart de Hohenheim.
+Mère aimée des frères Elric ; son décès est le trauma fondateur de leur quête.
+[IMPLICITE] N'est pas alchimiste ; foyer modeste tenu seule après le départ de Hohenheim.
 
 ## Histoire (canon)
 
-Union avec Hohenheim dans les annees 1890 (presentee par Pinako).
-Naissance d'Ed (1899) et Al (1900), accouchements assistes par Pinako.
-Hohenheim quitte le foyer (vers 1903, pour contrer le plan de Pere).
-Tombe malade peu apres ; meurt au printemps 1904 d'une epidemie, malgre les soins de Pinako. Laisse Ed et Al orphelins.
+Union avec Hohenheim dans les années 1890 (présentée par Pinako).
+Naissance d'Ed (1896) et Al (1897), accouchements assistés par Pinako.
+Hohenheim quitte le foyer (vers 1900, pour contrer le plan de Père).
+Tombe malade peu après ; meurt au printemps 1904 d'une épidémie, malgré les soins de Pinako. Laisse Ed et Al orphelins.
 
-## Consequence narrative
+## Conséquence narrative
 
-Sa mort pousse Ed et Al a tenter la transmutation humaine (1910) : catalyseur de toute la serie.
-Le produit rate de cette transmutation n'est PAS Trisha (masse sans ame).
+Sa mort pousse Ed et Al à tenter la transmutation humaine (1910) : catalyseur de toute la série.
+Le produit raté de cette transmutation n'est PAS Trisha (masse sans âme).
 
 ## Relations (neutres)
 
 - Edward, Alphonse - fils.
 - Van Hohenheim - compagnon, absent.
-- Pinako - amie proche, soutien jusqu'a la fin.
+- Pinako - amie proche, soutien jusqu'à la fin.
 
-## Rapport a la protagoniste
+## Rapport à la protagoniste
 
-Aucun lien direct etabli (Trisha meurt en 1904, peu apres l'arrivee de la protagoniste a Resembool). Parallele thematique fort : la protagoniste achevera plus tard "la-chose-qui-n'est-pas-Trisha" en 1910. Detail : cf. Personnages/Rhea.md.
+Voisine pendant moins d'un an : la protagoniste arrive à Resembool en 1900, Trisha meurt au printemps 1904. La tarte aux pommes chez elle, puis sa mort, où la protagoniste se projette maladroitement dans le deuil des frères (R1, cf. Roadmap/Rhea/Roadmap1_Grandir_A_Resembool.md). Parallèle thématique fort : la protagoniste achèvera plus tard « la-chose-qui-n'est-pas-Trisha » en 1910. Détail : cf. Personnages/Rhea.md.
 
 ## Sort connu
 
-Morte en 1904. Enterree a Resembool.
+Morte en 1904. Enterrée à Resembool.
 
 ## Renvois
 

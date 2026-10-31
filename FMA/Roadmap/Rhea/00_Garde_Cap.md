@@ -1,33 +1,33 @@
 # Garde-cap - Roadmaps de Rhea
 
-- version : W22
+- version : W23
 
 Ligne directrice de la Passe 2. Liste et contenu résumé de chaque roadmap, de la
-Porte de la Vérité (1903) au retour à Resembool (1915). Prévisionnel : quand une
+Porte de la Vérité (1900) au retour à Resembool (1915). Prévisionnel : quand une
 roadmap s'en écarte, la roadmap fait foi et le garde-cap se recale. Source de
 build seulement : jamais indexé au Sommaire, jamais fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
-- protagoniste : Rhea (OC), née le 30 janvier 1898
+- protagoniste : Rhea (OC), née le 30 janvier 1895
 - périmètre joué : enfance (dès la Porte) -> trame canon -> chute de Père -> retour à Resembool
 - total : 16 roadmaps (5 pré-canon, dont R4 qui porte la charnière + 11 canon, R11 coupée en R11a et R11b)
 - routage détail : chaque roadmap -> FMA/Roadmap/Rhea/Roadmap<N>_<titre>.md (à construire en boucle serrée)
 
 ## Repères d'âge
-- 1898 (30 jan) : naissance
-- 1903 : 5 ans (incident fondateur)
-- 1908-1909 : 10-11 ans (Ishval, la nouvelle)
-- 1910 : 12 ans (transmutation des Elric, recrutement Mustang)
-- 1911 : 13 ans (fin de rééducation d'Ed, examen d'État, départ des frères)
-- 1914 : 16 ans (charnière, entrée dans la trame canon)
-- printemps 1915 : 17 ans (Jour Promis)
+- 1895 (30 jan) : naissance
+- 1900 : 5 ans (incident fondateur)
+- 1908-1909 : 13-14 ans (Ishval, la nouvelle)
+- 1910 : 15 ans (transmutation des Elric, recrutement Mustang)
+- 1911 : 16 ans (fin de rééducation d'Ed, examen d'État, départ des frères)
+- 1914 : 19 ans (charnière, entrée dans la trame canon)
+- printemps 1915 : 20 ans (Jour Promis)
 
 ---
 
 ## PRÉ-CANON (contenu original)
 
 ### Roadmap 0 - La Porte
-- date : 1903 (~5 ans)
+- date : 1900 (~5 ans)
 - contenu : Alan mort l'avant-veille sous la couverture ; père mort 3 mois
   avant (éboulement) ; le grimoire paternel ; une semaine à réunir les
   ingrédients ; le rituel ; la Vérité ; péage (œil droit + cortex
@@ -39,7 +39,7 @@ build seulement : jamais indexé au Sommaire, jamais fetché en narration.
 - jalon d'ouverture : les mains de Rhea sur le cercle.
 
 ### Roadmap 1 - Grandir à Resembool
-- date : 1903-1908 (5 -> 10 ans)
+- date : 1900-1908 (5 -> 13 ans)
 - contenu : adoption Rockbell ; Winry sœur fusionnelle (dorment ensemble,
   Winry sait tout) ; bandage de Pinako puis cache-œil en cuir de Winry ;
   tresses (maladresse : cheveux coincés dans les automails) ; apprentissage
@@ -49,14 +49,14 @@ build seulement : jamais indexé au Sommaire, jamais fetché en narration.
   zéro filtre, éponge à affection) ; amitiés Ed et Al.
 
 ### Roadmap 2 - Ishval, la nouvelle
-- date : 1908-1909 (10 -> 11 ans)
+- date : 1908-1909 (13 -> 14 ans)
 - contenu : la mission de 1907 de Sarah et Yuri s'éternise ; ils sont tués
   par Scar en 1908 ; la nouvelle parvient à Resembool en 1909 ; deuil vécu
   avec Winry ; racine de l'antimilitarisme.
 - Tchekhov : Scar / parents Rockbell PLANTÉ (identité du tueur inconnue des filles).
 
 ### Roadmap 3 - La transmutation des Elric + recrutement Mustang
-- date : 1910 -> mi-1911 (12-13 ans)
+- date : 1910 -> mi-1911 (15-16 ans)
 - contenu : Ed et Al tentent la transmutation humaine sans prévenir Rhea
   (le noyau Rockbell savait, pas les Elric) ; Rhea est la première à trouver
   la-chose-qui-n'est-pas-Trisha et l'achève au pic de béton, sans ciller ;
@@ -76,7 +76,7 @@ build seulement : jamais indexé au Sommaire, jamais fetché en narration.
 - Tchekhov : transmutation cachée des Elric DÉTONÉ ; repérage sans-cercle ARMÉ.
 
 ### Roadmap 4 - L'examen et le départ (porte la charnière)
-- date : automne 1911 -> 1914 (13 -> 16 ans)
+- date : automne 1911 -> 1914 (16 -> 19 ans)
 - contenu : examen d'État d'Ed à Central (hors-champ POV Rhea : la nouvelle,
   puis le retour avec la montre) ; incendie de la maison Elric (3 octobre
   1911), Rhea témoin ; départ des frères du quai sans un mot.
@@ -86,19 +86,19 @@ build seulement : jamais indexé au Sommaire, jamais fetché en narration.
   la Pierre (Liore) ; Ed rompt le silence, le plus dur à convaincre, poussé
   par Al et Winry ; Winry et Pinako convainquent Rhea (Rush Valley ou
   stagner, non) - elle part pour ne pas brider le rêve de Winry ; révélation
-  du 1903 aux Elric (requise, manière au jeu) ; Cliquetis forgé, Monsieur Lapinou
+  du 1900 aux Elric (requise, manière au jeu) ; Cliquetis forgé, Monsieur Lapinou
   laissé ; départ, réconciliation FRAÎCHE et FRAGILE. Arrêt juste avant le
   départ pour Liore. Ouvre Roadmap 5.
 
 ---
 
 ## CANON (relecture par Rhea) - ordre Brotherhood
-Toute la trame : 1914 -> printemps 1915. Rhea a 16 ans à l'entrée (1914), 17 au
-Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915).
+Toute la trame : 1914 -> printemps 1915. Rhea a 19 ans à l'entrée (1914), 20 au
+Jour Promis (née le 30 janvier 1895, elle passe 20 ans avant le printemps 1915).
 
 ### Roadmap 5 - Liore
 - Cornello et la fausse Pierre ; première épreuve de Cliquetis loin de Winry ;
-  Rose en miroir du 1903 ; la carte de Winry échoue, Al commence la sienne.
+  Rose en miroir du 1900 ; la carte de Winry échoue, Al commence la sienne.
   Reprise (W4).
 
 ### Roadmap 6 - East City et Scar
@@ -126,7 +126,7 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
 
 ### Roadmap 9 - Dublith : Izumi et Greed
 - Canon ép. 12-15 : Izumi revue (miroir deuil-transmutation, culmine ici ;
-  exception au verrou du 1903, elle l'a deviné) ; Devil's Nest, Greed,
+  exception au verrou du 1900, elle l'a deviné) ; Devil's Nest, Greed,
   chimères, Al enlevé ; raid de Bradley (Wrath ne se dévoile qu'à Greed,
   hors POV ; Rhea dehors) ; le sang de Martel rend à Al ses souvenirs de la
   nuit de 1910 et de la Porte, d'où son premier sans-cercle à Rush Valley ; retour à Rush Valley, Winry retrouvée
@@ -160,7 +160,7 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   l'enlèvement (idée de Winry), Winry panse les plaies de Scar, Rhea part
   avec Winry dans les galeries. Reprise (W3).
 - Tchekhov : statut de sacrifice (témoins : Sloth, Kimblee) ; Scar /
-  parents : pardon de Winry.
+  parents : Winry panse les plaies de Scar.
 
 ### Roadmap 12 - Convergence
 - Canon ép. 41-49, hiver 1914-1915 -> veille du Jour Promis : galeries de
@@ -168,7 +168,7 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
   POV, Rhea le croit mort) ; notes du frère de Scar (cercle national,
   contre-cercle) ; piège à Envy à Asbec, réduit et emporté par May ; Liore,
   Rose, Hohenheim (Pierre vivante ; les sacrifices : Rhea apprend qu'elle en
-  est un, décision worldbuilder) ; 17 ans de Rhea ; Resembool la veille du
+  est un, décision worldbuilder) ; 20 ans de Rhea (Liore) ; Resembool la veille du
   Jour Promis : Ed vivant, Greed-Ling ; Winry refuse de fuir, Rhea repart
   avec Ed ; Kanama : Selim est Pride, Lan Fan à l'automail, Gluttony dévoré,
   Al sous le dôme avec Pride ; groupes d'Ed et de Scar réunis. Reprise (W5).
@@ -207,10 +207,9 @@ Jour Promis (née le 30 janvier 1898, elle passe 17 ans avant le printemps 1915)
 
 ## Points de vigilance (à trancher en écrivant les roadmaps concernées)
 - Statut de sacrifice de Rhea : TRANCHÉ en R12, DÉTONÉ en R13.
-- Contentieux Scar : DÉTONÉ en R10, aux deux sœurs ensemble. Pardon de Winry
-  posé en R11 (Baschool) ; Rhea n'est pas tenue de pardonner (réparation dans
+- Contentieux Scar : DÉTONÉ en R10, aux deux sœurs ensemble. Geste de Winry
+  posé en R11b (Baschool : elle panse ses plaies, sans mot de pardon) ; Rhea n'est pas tenue de pardonner (réparation dans
   la durée) : la suite avec Scar se joue en R12-R13 (il rejoint Ed à Kanama, la veille du Jour Promis).
 - Réconciliation Rhea/Al : FRAÎCHE au départ (charnière), consolidée au fil du canon.
-- [INCERTAIN] Numéro de l'ordre d'extermination d'Ishval (3066 / 306) : non tranché.
 
 FIN_GARDE_CAP_RHEA

@@ -1,11 +1,11 @@
 # Roadmap 10 - Central : Hughes et Scar
 
-- version : W5
+- version : W6
 - statut : à venir ; JOUABLE
-- prota / POV : Rhea (16 ans), POV strict
+- prota / POV : Rhea (19 ans), POV strict
 - échelle temporelle : environ deux semaines (1914 ; aucune durée dans les pages ép. 16-24 ni ch. 35-48) : l'arrivée et le deuil, la nuit du feu, l'absence d'Ed (Al au Laboratoire 3, sans Rhea), son retour, les jours du piège, le départ de Winry, la planque
-- borne d'entrée : suite de Roadmap 9. 1914, Rhea a 16 ans. Elle arrive à Central avec Ed, Al et Winry ; Ling Yao est dans le même train.
-  - Clivage du savoir : le 1903 connu des seuls Elric, Rockbell et Izumi.
+- borne d'entrée : suite de Roadmap 9. 1914, Rhea a 19 ans. Elle arrive à Central avec Ed, Al et Winry ; Ling Yao est dans le même train.
+  - Clivage du savoir : le 1900 connu des seuls Elric, Rockbell et Izumi.
   - Nœud Rhea/Al : Al sait qu'il est une âme et transmute sans cercle depuis Rush Valley (R9) ; la carte qu'il a de Rhea s'étoffe.
   - Objets : Cliquetis avec Rhea ; Monsieur Lapinou à Resembool.
   - Hughes est mort depuis le départ de R7 ; personne du trio ne le sait.
@@ -49,7 +49,7 @@ Toutes en présence de Rhea ; aucune ne dévoile Scar avant le jalon 7.
 - Hôpital : Havoc, qui ne sent plus ses jambes ; Mustang dans le lit voisin (visite au choix).
 
 ## Casting convoqué
-- Rhea - POV, 16 ans - cf. Personnages/Rhea.md
+- Rhea - POV, 19 ans - cf. Personnages/Rhea.md
 - Edward Elric - le deuil, son retour de Resembool, le piège - cf. Personnages/Edward_Elric.md
 - Alphonse Elric - relais sans Ed, le sceau, le piège - cf. Personnages/Alphonse_Elric.md
 - Winry Rockbell - chez Gracia, apprend pour Scar, repart pour Resembool - cf. Personnages/Winry_Rockbell.md
@@ -86,14 +86,14 @@ Toutes en présence de Rhea ; aucune ne dévoile Scar avant le jalon 7.
 - Partir à Resembool avec Ed - la révélation sur Scar se fait aux deux sœurs ensemble (jalon 7) ; cf. Verrous.
 - Suivre Al au Laboratoire 3, voir Lust ou Gluttony à l'œuvre - Rhea ne voit aucun homonculus au Laboratoire 3 ; protège le statut de sacrifice (Roadmap 12) ; cf. Verrous.
 - Apprendre, ou laisser Winry apprendre, que Scar a tué Sarah et Yuri avant le jalon 7.
-- Tuer Scar, ou laisser Winry tirer - Scar tue Bradley au Jour Promis ; Winry lui pardonne à Baschool (R11b) ; cf. Verrous.
+- Tuer Scar, ou laisser Winry tirer - Scar tue Bradley au Jour Promis ; Winry panse ses plaies à Baschool (R11b) ; cf. Verrous.
 - Retenir Scar - il fuit, couvert par May Chang ; Scar et May portent la trame suivante.
 - Tuer ou libérer Gluttony - il avale Ed et Ling (Roadmap 11a).
 - Révéler que Ross est vivante à qui que ce soit hors Winry - plan de Mustang ; Ross revient avec des armes (Roadmap 13).
 - Rencontrer Hohenheim - réservé aux roadmaps suivantes.
 - Partir avec Winry pour Resembool - pacte de R4, Rhea progresse avec les frères ; cf. Verrous.
 - Transmuter de l'organique, toucher au bras de Lan Fan - trauma stable.
-- Révéler le 1903 hors Elric, Rockbell et Izumi - verrou du pourquoi.
+- Révéler le 1900 hors Elric, Rockbell et Izumi - verrou du pourquoi.
 - Rejoindre l'armée ou passer l'examen d'État - antimilitarisme sur toute la saga.
 - Avouer son attirance pour Al - nœud avoué seulement à la fin du périmètre.
 
@@ -128,10 +128,10 @@ Toutes en présence de Rhea ; aucune ne dévoile Scar avant le jalon 7.
 - Scar / parents (jalons 6-7) : DÉTONÉ, aux deux sœurs à la même seconde. Ed l'apprend à Xerxès (ch. 41, ép. 18) et le dit à Al hors de la présence de Winry (ch. 45) ; il le tait aussi à Rhea, qui ne ment pas à Winry. Si le joueur garde Rhea dans la pièce au jalon 6, Ed attend qu'elle sorte. Ce que Rhea fait de Scar (tueur de ses parents, produit de l'armée qu'elle hait, de Kimblee) et d'Ed qui savait : au choix du joueur ; le trio ne se brise pas.
 - Ed et le pistolet (jalon 7) : le manga le fait rendre l'arme par Winry à force de mots (ch. 47), l'anime fait Ed s'interposer et dire la phrase des mains (ép. 22). Les deux tiennent ensemble.
 - Scar et Rhea : s'il l'a vue en R6, il reconnaît la seconde sans-cercle. Qu'elle est aussi une fille des Rockbell, il ne le sait que si elle le dit.
-- Ross vivante (jalon 5) : Ed la voit vivante à Xerxès ; elle part pour Xing avec Fu et une petite escorte (ch. 41). Les pages ne disent pas s'il le dit à Al. Par défaut, il le dit à Al et Rhea sous le sceau du secret [CANON SUPPOSÉ] ; Rhea peut le dire à Winry (elle ne lui ment pas), à personne d'autre. Knox, qui a couvert la mise en scène (ch. 42), le sait aussi.
+- Ross vivante (jalon 5) : Ed la voit vivante à Xerxès ; elle part pour Xing avec Fu et une petite escorte (ch. 41). Les pages ne disent pas s'il le dit à Al. Dans ce RP, il le dit à Al et Rhea sous le sceau du secret (décision de build) ; Rhea peut le dire à Winry (elle ne lui ment pas), à personne d'autre. Knox, qui a couvert la mise en scène (ch. 42), le sait aussi.
 - Winry repart pour Resembool (jalons 6, 8) : les ch. 45 et 48 disent Resembool, même si c'est Garfiel qui appelle. Monsieur Lapinou y est déjà : il la retrouve là.
 - Bradley au chevet (jalon 8) : le ch. 48 ne dit ni le lieu ni ses mots. Il est aimable, écoute, parle de Scar. Rhea ne sait pas encore ; le joueur, si.
-- La chose de 1910 (jalon 5) : rien ne change pour Rhea (« une âme ne se remplace pas », depuis 1903) ; le soulagement des frères est la scène. La chose de 1903 n'était pas Alan non plus : elle l'a toujours su.
+- La chose de 1910 (jalon 5) : rien ne change pour Rhea (« une âme ne se remplace pas », depuis 1900) ; le soulagement des frères est la scène. La chose de 1900 n'était pas Alan non plus : elle l'a toujours su.
 - Al sans cercle (jalon 4) : au Laboratoire 3, il protège Riza par un sans-cercle (ch. 39), loin de Rhea : elle n'en sait que ce qu'il en raconte, au choix.
 - Sans-cercle devant un témoin (au choix du joueur) : devant Gracia, Ross, Barry, Ling, Lan Fan, l'équipe de Mustang, Knox ou Scar, rien ne remonte aux homonculus. Devant Bradley (jalon 8) ou Gluttony (jalon 9) : l'information remonte à Père, statut « repérée » pour la partie (delta Parties/), Roadmap 12 en hérite. Déjà « repérée » : rien de plus.
 - Lan Fan : elle portera un automail plus tard (Roadmap 12) ; Rhea peut proposer l'atelier Rockbell.

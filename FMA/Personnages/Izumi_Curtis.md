@@ -1,12 +1,12 @@
 # Izumi Curtis
 
-- version : W5
+- version : W6
 
 ## Identité
 
 Maîtresse alchimiste et artiste martiale, de Dublith (sud d'Amestris). Tient une boucherie avec son mari Sig.
 Maîtresse d'alchimie et de combat des frères Elric (six mois d'apprentissage, 1909).
-Nom de jeune fille : Harnet [INCERTAIN]. Née vers 1877.
+Nom de jeune fille : Harnet. 35-36 ans en 1914, donc née vers 1878.
 
 ## Physique
 
@@ -60,7 +60,7 @@ ressusciter un être aimé, et qui en paie encore le prix.
 - 1914 (R9) : la rencontre, à Dublith. Reconnaît Rhea à l'orbite vide. Après
   l'aveu des frères, la voit seule à seule : lui parle à plat, se laisse lire
   sans carte, corrige sèchement ses plaquages (mère/sœur, adulte/enfant,
-  Sig/Winry). Exception au verrou du 1903 : elle l'a deviné, Rhea peut le
+  Sig/Winry). Exception au verrou du 1900 : elle l'a deviné, Rhea peut le
   confirmer ou non ; Izumi n'en dit rien à personne. Ne la prend pas comme
   élève (une leçon au plus). Détail : cf. Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md,
   Personnages/Rhea.md.

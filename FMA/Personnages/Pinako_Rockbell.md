@@ -1,18 +1,18 @@
 # Pinako Rockbell
 
-- version : W9
+- version : W10
 
 ## Identité
 Matriarche de la famille Rockbell, de Resembool.
 Grand-mère paternelle de Winry, mère de Yuri, belle-mère de Sarah.
 Chirurgienne et forgeronne d'armes ; ingénieure d'automail éminente, fondatrice présumée de Rockbell Automail.
-Surnom de jeunesse : la « Leopardess of Resembool » (ingénieure réputée).
+Surnom de jeunesse : « la Panthère de Resembool » (Pantheress ou Leopardess of Resembool en VO), ingénieure réputée ; Dominic LeCoulte l'appelle encore ainsi.
 Voisine et amie de longue date des Elric (connaît Hohenheim depuis les années 1860).
 
 ## Physique et âge
 Petite, âgée, silhouette menue mais poigne solide. Fume la pipe.
-Née vers 1830 [INCERTAIN sur l'année exacte ; apparaît sur des photos de Resembool dès 1866].
-Fils Yuri né en 1873.
+Âge jamais donné par le canon : déjà adulte sur des photos de Resembool de 1866, où elle trinque avec Hohenheim.
+Fils Yuri né en 1870.
 
 ## Personnalité
 Franche, directe, sans détour ; dit aux gens ce qu'elle pense, surtout à Ed et Al quand ils fautent.
@@ -41,7 +41,7 @@ Figure parentale de substitution : élève Winry seule après la mort des parent
 Pinako est la sauveuse et la figure fondatrice de la protagoniste : elle la trouve, achève la masse, la recueille, la fait taire au village, l'élève. Détail : cf. Personnages/Rhea.md et Parties/.
 - 1914 (R10) : loin de Rhea, exhume avec Ed la chose de 1910 (cheveux noirs : pas Trisha) et lui remet le message de Trisha pour Hohenheim ; Rhea l'apprend par Ed. Winry rentre ensuite à Resembool, chez elle. Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 - 1915 (R12) : la veille du Jour Promis, Ed, Darius, Heinkel et Greed-Ling sont chez elle quand Winry et Rhea arrivent. Prépare le sac de Rhea au départ (verrou). Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
-- 1915 (R14) : reste à Resembool avec Winry ; l'a trouvé à l'aube, mort sur la tombe de Trisha (ép. 63), et l'annonce ; rouvre la maison au retour des frères et de Rhea. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
+- 1915 (R14) : reste à Resembool avec Winry ; trouve Hohenheim à l'aube, mort sur la tombe de Trisha (ép. 63), et l'annonce ; rouvre la maison au retour des frères et de Rhea. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 
 ## Sort connu (canon)
 Survit à la trame. Reste à Resembool, matriarche du foyer reconstruit.

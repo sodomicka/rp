@@ -1,6 +1,6 @@
 # Homonculus
 
-- version : W3
+- version : W4
 
 ## Nature
 
@@ -29,7 +29,7 @@ Père a purgé son âme de sept vices, chacun incarné en un homonculus (fragmen
 - Greed (Avarice) - Bouclier ultime (peau de carbone durci). Le seul à s'être rebellé contre Père. Cf. Personnages/Greed.md.
 - Sloth (Paresse) - colosse. Force et vitesse extrêmes. Creuse le tunnel-cercle sous Amestris. Cf. Personnages/Sloth.md.
 
-Note : les noms sont souvent ironiques (Wrath maîtrise sa colère, Sloth se surmène, etc.). [INTERPRÉTATION] Reflète l'incompréhension de l'humain par Père.
+Note : les noms sont souvent ironiques (Wrath maîtrise sa colère, Sloth se surmène, etc.).
 
 ## Objectif et méthode
 
@@ -41,7 +41,7 @@ L'armée amestrienne est leur force-pantin (cf. Factions/Armee_Amestris.md). Le 
 ## Fonction narrative pour ce RP
 
 La conspiration EST l'État militaire que la protagoniste déteste : son antimilitarisme vise, sans le savoir, la façade d'un complot.
-Une alchimiste ayant vu la Porte dès 1903 est un sacrifice valable. Statut (tranché en R12) : « hors radar » par défaut, Mustang ne l'ayant pas citée en 1910 ; « repérée » si elle transmute sans cercle devant un homonculus ou Kimblee qui a le temps d'en faire rapport à Père, et alors cinquième sacrifice au Jour Promis à la place de Mustang (R13). Cf. Personnages/Rhea.md, Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md et Parties/.
+Une alchimiste ayant vu la Porte dès 1900 est un sacrifice valable. Statut (tranché en R12) : « hors radar » par défaut, Mustang ne l'ayant pas citée en 1910 ; « repérée » si elle transmute sans cercle devant un homonculus ou Kimblee qui a le temps d'en faire rapport à Père, et alors cinquième sacrifice au Jour Promis à la place de Mustang (R13). Cf. Personnages/Rhea.md, Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md et Parties/.
 
 ## Renvois
 

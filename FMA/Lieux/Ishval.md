@@ -1,6 +1,6 @@
 # Ishval
 
-- version : W2
+- version : W3
 
 ## Nature
 
@@ -13,7 +13,7 @@ Rejette l'alchimie comme un sacrilège (pervertir la création d'Ishvala). Tensi
 Déclenchement (1901) : un soldat amestrien tue par balle une enfant ishvale. Émeutes, massacres, guerre.
 [établi, révélé tard] Le tireur était Envy, sous l'uniforme amestrien (cf. Personnages/Envy.md) ; Rhea l'apprend d'Ed en Roadmap 11a.
 La guerre dure sept ans (1901-1908), s'étend à tout l'Est.
-1908 : le Généralissime Bradley signe un ordre d'extermination [INCERTAIN sur le numéro : "3066" ou "306" selon les sources]. Les Alchimistes d'État sont déployés au front comme force d'extermination.
+1908 : le Généralissime Bradley signe l'ordre d'extermination n° 3066 (ép. 30). Les Alchimistes d'État sont déployés au front comme force d'extermination.
 1909 : la région est dévastée, la population massacrée. Les rares survivants finissent dans des bidonvilles, moins que des citoyens de seconde zone.
 
 ## Fonction réelle (révélée tard)

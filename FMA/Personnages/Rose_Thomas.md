@@ -1,17 +1,17 @@
 # Rose Thomas
 
-- version : W4
+- version : W5
 
 ## Identité
 
 Jeune femme de Liore, ville du désert de l'Est. Fidèle du culte de Léto, le
-dieu-soleil, tel que le prêche le père Cornello. Âge : [INCERTAIN] (jeune
-adulte, à peu près l'âge des Elric ou un peu plus en 1914).
+dieu-soleil, tel que le prêche le père Cornello. Âge : 17-18 ans en 1914,
+l'âge des Elric.
 
 ## Physique
 
-Cheveux bruns, mèche rose sur le devant [INCERTAIN : couleur exacte de la
-mèche]. Tenue simple de ville du désert. Rien qui la distingue d'une
+Cheveux noirs, mèche rouge sombre sur le devant (couleurs de Brotherhood,
+qui fait le rail ; rose pastel dans les couleurs d'Arakawa). Tenue simple de ville du désert. Rien qui la distingue d'une
 habitante de Liore, sinon sa ferveur.
 
 ## Personnalité
@@ -42,12 +42,12 @@ miracle. Elle prie et attend.
 
 ## Rapport à la protagoniste
 
-- 1914 (R5) : miroir du 1903 de Rhea. Rose attend ce que Rhea a fait à 5 ans,
+- 1914 (R5) : miroir du 1900 de Rhea. Rose attend ce que Rhea a fait à 5 ans,
   et Rhea sait ce qui en sort : une chose, pas un retour. Rhea la regarde
   comme elle-même à 5 ans, sans pouvoir la consoler (pas d'empathie
   affective) et sans lui dire pourquoi elle sait (le pourquoi reste verrouillé
   hors Elric et Rockbell). Détail : cf. Roadmap/Rhea/Roadmap5_Liore.md.
-- 1914-1915 (R12) : à Liore, que Hohenheim rebâtit ; prête des vêtements à Winry. N'attend plus personne : elle a choisi de vivre avec ses morts morts, ce que Rhea n'a pas fait à 5 ans. Ne sait rien du 1903. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
+- 1914-1915 (R12) : à Liore, que Hohenheim rebâtit ; prête des vêtements à Winry. N'attend plus personne : elle a choisi de vivre avec ses morts morts, ce que Rhea n'a pas fait à 5 ans. Ne sait rien du 1900. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 
 ## Sort connu (canon)
 

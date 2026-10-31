@@ -1,6 +1,6 @@
 # Van Hohenheim
 
-- version : W8
+- version : W9
 
 ## Identité
 Père d'Edward et Alphonse. Compagnon absent de Trisha. Alchimiste légendaire.
@@ -23,7 +23,7 @@ A créé en secret un contre-cercle à l'échelle du pays pour renverser le plan
 ## Histoire (jusqu'au point de départ du RP)
 Xerxès : sa goutte de sang matérialise l'homonculus originel ; la cité est transmutée en Pierre, lui rendant l'immortalité.
 Errance de siècles. Présenté par Pinako à Trisha (années 1890) ; naissance d'Ed et Al.
-Quitte le foyer vers 1903 pour contrer le plan de Père (raison ignorée de sa famille) : perçu comme un père lâche.
+Quitte le foyer vers 1900 pour contrer le plan de Père (raison ignorée de sa famille) : perçu comme un père lâche.
 
 ## Fils narratifs (neutres, canon)
 - 1914 (ép. 19-20) : revient à Resembool, sur la tombe de Trisha ; s'y heurte à Ed. Dit à Pinako que la chose transmutée en 1910 n'était peut-être pas Trisha ; repart le lendemain en annonçant un malheur pour Amestris.
@@ -35,9 +35,9 @@ Quitte le foyer vers 1903 pour contrer le plan de Père (raison ignorée de sa f
 - Père - l'homonculus né de son sang ; adversaire ultime.
 
 ## Rapport à la protagoniste
-Aucun lien direct établi au point de départ (Hohenheim est absent de Resembool depuis ~1903). Détail éventuel : cf. Personnages/Rhea.md et Parties/.
+Aucun lien direct établi au point de départ (Hohenheim est absent de Resembool depuis ~1900). Détail éventuel : cf. Personnages/Rhea.md et Parties/.
 - 1914 (R10) : Rhea, restée à Central, ne le croise pas ; elle apprend par Ed son passage et ce qu'il a dit de la chose de 1910. Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
-- 1914-1915 (R12) : rencontré à Liore, qu'il rebâtit. Avoue à Al, Rhea présente, qu'il est une Pierre vivante, que Père est fait à son image et que Pride garde le tunnel (ép. 44) ; leur dit aussi les sacrifices (décision worldbuilder). Reconnaît en Rhea une survivante de la Porte (sans-cercle, orbite), sans rien savoir du 1903 ; ne la dénonce pas. À Kanama, dit l'éclipse à Ed et pleure les derniers mots de Trisha ; lève le dôme de terre sur Pride, Al dedans. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
+- 1914-1915 (R12) : rencontré à Liore, qu'il rebâtit. Avoue à Al, Rhea présente, qu'il est une Pierre vivante, que Père est fait à son image et que Pride garde le tunnel (ép. 44) ; leur dit aussi les sacrifices (décision worldbuilder). Reconnaît en Rhea une survivante de la Porte (sans-cercle, orbite), sans rien savoir du 1900 ; ne la dénonce pas. À Kanama, dit l'éclipse à Ed et pleure les derniers mots de Trisha ; lève le dôme de terre sur Pride, Al dedans. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : affronte Père seul, absorbé ; le contre-cercle de ses fragments de Pierre arrache les âmes à Père ; encaisse pour les autres à la surface. Rhea le voit enchâssé dans Père si elle est au repaire. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 - 1915 (R14) : offre à Ed sa vie déclinante pour ramener Al, refusée, comme la Pierre de Ling ; s'éloigne sans un mot ; meurt apaisé sur la tombe de Trisha, loin de Rhea ; Pinako le trouve à l'aube et le lui dit à Resembool. Rien ne remonte de ce qu'il savait d'elle. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 

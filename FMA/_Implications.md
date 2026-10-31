@@ -6,21 +6,23 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : relecture croisée de clôture de Passe 2 (Sommaire W35, 2026-10-31)
+- dernière mise à jour : solde des points ouverts avant le jeu (BIBLE B27, Sommaire W36, 2026-10-31)
 
 ## État d'avancement du chantier
-- Passe 2 : TOUTES les roadmaps ÉCRITES, R0 à R14 (1903 -> retour à
+- Passe 2 : TOUTES les roadmaps ÉCRITES, R0 à R14 (1900 -> retour à
   Resembool, printemps 1915, au gabarit SPEC v9.2 §7).
 - REPRISE R5-R14 EN SÉRIE (worldbuilder, 2026-10-31) : une roadmap à la
   fois, canon revérifié épisode par épisode, modes d'étape et tranches de
   vie posés, POV unique de Rhea ; une PR par roadmap, fusionnée au fil de
   l'eau (worldbuilder). Faites : R5 (W3), R6 (W3), R7 (W4), R8 (W4), R9 (W4), R10 (W4), R11a (W2), R11b (W2), R12 (W4), R13 (W3), R14 (W3).
 - Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R14
-  (Sommaire W34). État réel des autres roadmaps, relevé le 2026-10-31 :
-  R14 est complète depuis la Passe d'immersion.
+  (Sommaire W34).
 - RELECTURE CROISÉE de clôture (cœur §4) : faite le 2026-10-31. Aucune
   incohérence majeure ; moyennes soldées dans la même livraison ; purge des
-  mentions « hors POV » faite sur R0-R14. Mineures : cf. Points de forme.
+  mentions « hors POV » faite sur R0-R14. Mineures soldées le 2026-10-31.
+- SOLDE AVANT LE JEU (2026-10-31) : marques [INCERTAIN], [CANON SUPPOSÉ]
+  et [INTERPRÉTATION] tranchées au canon (miroir daddyjim, pages épisode,
+  chapitre et personnage) ou retirées ; pages ASCII réaccentuées.
 - En thread de build : fetcher la roadmap de l'arc en cours en début de thread.
   En jeu, la roadmap en cours est un document de jeu (SPEC v9.2 §7).
 - Passe 3 (SETUP puis CODEX V1) : non entamée. Pas de fiche d'arc (doctrine
@@ -46,13 +48,13 @@ pas les re-litiger. JAMAIS fetché en narration.
   hors Sommaire, conformément à la doctrine.
 - Village natal de Rhea : GÉNÉRATEUR D'ORIGINE, ne détone jamais (ni nom du
   village, ni nom du père, aucune conséquence qui fuit). Seul Alan (frère cadet,
-  mort 1903) subsiste de cette origine. Contrainte dure, pas un fil à armer.
-- RÉVÉLATION DU 1903 DE RHEA (transmutation + lésion) aux Elric : REPORTÉE À
+  mort 1900) subsiste de cette origine. Contrainte dure, pas un fil à armer.
+- RÉVÉLATION DU 1900 DE RHEA (transmutation + lésion) aux Elric : REPORTÉE À
   1914 (R4, au retour des frères). Actée en R3 (frontière). Jusque-là, les Elric ignorent
   TOUT ; la fracture de 1910 se joue SANS que Rhea s'explique. Ne jamais faire
   fuiter avant.
 - Chronologie recalée au build B3 (patch A) : apprentissage Izumi = 1909
-  (Ed 10 ans, Al 9 ans, six mois, retour fin 1909) ; incendie de la maison
+  (Ed 13 ans, Al 12 ans, six mois, retour fin 1909) ; incendie de la maison
   Elric = 1911, APRÈS l'examen d'État (examen -> incendie -> départ pour la
   quête). Montre d'Ed : gravé « N'oublie pas 3 Oct. 11 » (worldbuilder,
   2026-10-31).
@@ -72,7 +74,7 @@ pas les re-litiger. JAMAIS fetché en narration.
   philosophie, R2), c'est que ces abrutis aient PAYÉ LE PRIX tout court.
   Et Al n'en sort même pas avec la compensation : dans la lecture de Rhea,
   preuve qu'il s'est plongé dedans sans y être préparé - encore moins qu'elle
-  en 1903, à 5 ans. Consigné comme LECTURE DE RHEA (sa rationalisation), pas
+  en 1900, à 5 ans. Consigné comme LECTURE DE RHEA (sa rationalisation), pas
   comme règle du monde : le mécanisme réel (aucun souvenir de la Porte) reste
   celui de SB1 / fiche Alphonse, et Rhea l'ignore.
 - DÉCOUPE R3/R4 (rework R3, acté) : R3 = 1910 -> mi-1911, se clôt sur le
@@ -81,12 +83,12 @@ pas les re-litiger. JAMAIS fetché en narration.
   rééducation).
 - R4 PORTE LA CHARNIÈRE (fusion, décision worldbuilder, build B8) : R4 =
   automne 1911 -> 1914 (examen, incendie, quai, froid en SNAPSHOTS, retour
-  des frères, révélation du 1903, départ). Arrêt juste avant le départ pour
+  des frères, révélation du 1900, départ). Arrêt juste avant le départ pour
   Liore. Plus de charnière séparée : 15 roadmaps = R0-R4 pré-canon + R5-R14.
 - R4 - CADRAGE ACTÉ (build B8) : Ed rompt le silence, le plus dur à
   convaincre, poussé par Al et Winry ; Winry et Pinako convainquent Rhea
   (Rush Valley, où elle ne tiendrait pas, ou stagner) - elle part pour ne
-  pas brider le rêve de Winry. Révélation du 1903 REQUISE en R4, seule la
+  pas brider le rêve de Winry. Révélation du 1900 REQUISE en R4, seule la
   manière se joue en jeu (Rhea en flux, ou Winry qui raconte). Winry RESTE
   à Resembool (canon : rejoint à Central R6, Rush Valley R8).
 - AL, APPUI DE RHEA (décision worldbuilder, R4 W2) : Winry demande à Rhea
@@ -104,7 +106,7 @@ pas les re-litiger. JAMAIS fetché en narration.
 - REPÉRAGE SANS-CERCLE SUR PLACE (rework R3, acté) : plus jamais "eu vent
   avant la visite". Deux vecteurs : rumeur de village (le FAIT que la gamine
   Rockbell transmute sans cercle depuis toujours est de notoriété locale ;
-  le POURQUOI 1903 reste verrouillé chez les Rockbell) + démonstration à
+  le POURQUOI 1900 reste verrouillé chez les Rockbell) + démonstration à
   l'atelier (Rhea transmute des chutes d'automail en armes de lancer sous
   les yeux de Mustang ; Winry s'interpose et empêche le lancer). BIBLE
   SB3/SB8 recalées en ce sens.
@@ -122,7 +124,8 @@ pas les re-litiger. JAMAIS fetché en narration.
   porte une seule métadonnée, sa version ; l'historique vit dans git. Ne pas
   réintroduire de bloc "statut / R<N> : ...".
 - ÂGE SUR LA TRAME (build B6) : garde-cap corrigé - "16 ans du début à
-  la fin" -> 16 à l'entrée (1914), 17 au Jour Promis (printemps 1915).
+  la fin" -> 19 à l'entrée (1914), 20 au Jour Promis (printemps 1915),
+  après le décalage d'âge (cf. BIBLE SB3, Notes).
 - Resume.md (W1, build B6) : résumé de l'histoire établie, à mettre à jour
   à chaque BIBLE BUILD. NON indexé au Sommaire (retiré en B7, mode BIBLE).
 
@@ -159,7 +162,7 @@ pas les re-litiger. JAMAIS fetché en narration.
   tuer » n'est pas dans les résumés : retirée (ch. 5 : Ed admet que sa voie
   pourra exiger la cruauté). Armstrong : son refus à Ishval n'est dit dans
   aucune page de l'arc : ironie MJ, pas un fait narré. Marcoh « arme au
-  poing » non confirmé : [INCERTAIN] sur sa fiche. Lust dans le train
+  poing » non confirmé : retiré de sa fiche (ép. 6 : il croit au pire). Lust dans le train
   (manga) coupée par Brotherhood : non retenue. Trois jours à Resembool
   (ch. 9).
 - R6 - RETOUR À RESEMBOOL MAINTENU (tranché en mode usine, R6) : Rhea forge
@@ -222,24 +225,25 @@ pas les re-litiger. JAMAIS fetché en narration.
   Rush Valley SANS CERCLE (ch. 33). Les « ~10 jours » et « la foule qui
   applaudit » n'étaient pas sourcés : retirés.
 - R9 - DUBLITH (mode usine, canon ép. 12-15 vérifié sur Wikipedia) :
-  Izumi = EXCEPTION au verrou du 1903 (elle l'a deviné en 1909 ; Rhea peut
+  Izumi = EXCEPTION au verrou du 1900 (elle l'a deviné en 1909 ; Rhea peut
   confirmer, Izumi se tait). Pas d'apprentissage pour Rhea (une leçon au
   plus). Rhea avec Ed au Devil's Nest, DEHORS pendant le raid (verrou) :
   elle voit Bradley de loin, apprend par Al qu'il a tué les chimères, PAS
   qu'il est un homonculus (Wrath ne se dévoile qu'à Greed, hors POV).
-  Sans-cercle devant Greed : rien ne remonte (refondu par Père)
-  [INTERPRÉTATION] ; devant Bradley : « repérée », comme en R7. Le sang de
+  Sans-cercle devant Greed : rien ne remonte (refondu par Père ;
+  décision worldbuilder, cf. R12) ; devant Bradley : « repérée », comme en R7. Le sang de
   Martel rend à Al la nuit de 1910 (et la Porte, cf. reprise). Winry part avec le
   trio pour Central (canon ép. 15) ; rituel de sommeil sans Monsieur
   Lapinou, toujours à Resembool. Le garde-cap disait « Bradley se dévoile
   en rasant le repaire » : recalé (dévoilement hors POV).
 - R14 - REPRISE (canon ép. 63-64 vérifiés) : Ling offre la Pierre, Ed
   refuse, et refuse la vie de Hohenheim ; « s'y met lui-même comme matière »
-  : non sourcé, retiré. Al rouvre les yeux au soleil (« décharné » gardé en
-  [CANON SUPPOSÉ]). Ed rend Pride nourrisson à Mme Bradley à la nuit ;
+  : non sourcé, retiré. Al rouvre les yeux au soleil (« décharné » confirmé par
+  l'ép. 39). Ed rend Pride nourrisson à Mme Bradley à la nuit ;
   Olivier et Miles soignent Scar chez les Armstrong ; Ed refuse de partir
   sans Al ; Winry sort en courant ; PINAKO a trouvé Hohenheim à l'aube.
-  L'éclipse dite par Winry : non sourcée, [CANON SUPPOSÉ]. FIN DE LA
+  L'éclipse dite par Winry : ses mots se jouent ; tout Amestris garde
+  la conscience confuse d'une angoisse indicible (ép. 61). FIN DE LA
   REPRISE R5-R14 EN SÉRIE.
 - R13 - REPRISE (canon ép. 50-63 vérifiés) : entrée à Kanama, le matin.
   Le groupe passe par le Laboratoire 3 et se scinde (qui va où : non
@@ -255,7 +259,8 @@ pas les re-litiger. JAMAIS fetché en narration.
 - R12 - REPRISE (canon ép. 41-49 vérifiés) : Al n'est pas « trouvé dans la
   neige » : il rattrape le groupe et son armure est remontée dans une
   maison abandonnée (ép. 41-42) ; les pertes de conscience ne sont pas sur
-  les pages [CANON SUPPOSÉ]. Le contre-cercle vient de pages retournées par
+  les pages ép. 39-49 : le MJ n'en invente pas (l'âme tirée vers le corps
+  est à l'ép. 39, R11b). Le contre-cercle vient de pages retournées par
   l'éternuement de Yoki. Le piège à Envy a lieu à ASBEC, refuge ishval ;
   Envy dit qu'Ed a disparu. Hohenheim à Liore (ép. 44) : Pierre vivante,
   Père à son image, Pride au tunnel ; les sacrifices dits à Rhea sont une
@@ -279,7 +284,7 @@ pas les re-litiger. JAMAIS fetché en narration.
 - R11a - REPRISE (canon ép. 24-32 et ch. 49-64 vérifiés ; ch. 56, 58, 59
   et 63 sans résumé sur le miroir) : la voiture de Knox emporte Mustang,
   Riza, Knox et Lan Fan (ch. 49) ; l'attente se fait à la MAISON de Knox
-  (ch. 50), plus « abri [CANON SUPPOSÉ] ». Bradley menace Winry devant
+  (ch. 50), plus « abri ». Bradley menace Winry devant
   Mustang et plante son sabre dans l'armure d'Al, May dedans (ép. 29) ; le
   message de Greed est un tissu xingois. Riza : Ed vient SEUL en canon
   (ép. 30), Rhea l'accompagne (divergence) ; « l'ordre signé par Bradley »
@@ -296,7 +301,7 @@ pas les re-litiger. JAMAIS fetché en narration.
   Winry (ch. 48, nouveau jalon) ; Winry repart pour RESEMBOOL, pas Rush
   Valley (ch. 45 et 48) : l'option « faire rapporter Monsieur Lapinou »
   tombe, il l'attend là-bas. Mustang « de l'hôpital » : non sourcé, retiré.
-  Que Ed dise Ross vivante à Al : non sourcé, gardé en [CANON SUPPOSÉ].
+  Que Ed dise Ross vivante à Al : non sourcé, décision de build.
 - R10 - CENTRAL : HUGHES ET SCAR (mode usine, canon ép. 16-23 vérifié sur
   Wikipedia). R10 couvre jusqu'à la révélation de Ling à la planque de
   Knox (ép. 23) ; la transformation de Gluttony ouvre R11.
@@ -311,7 +316,7 @@ pas les re-litiger. JAMAIS fetché en narration.
   ROSS VIVANTE : Ed le confie à Al et Rhea sous le sceau du secret à son
   retour ; Rhea peut le dire à Winry, à personne d'autre.
   LA CHOSE DE 1910 N'ÉTAIT PAS TRISHA (Ed, Hohenheim, l'exhumation) : rien
-  ne change pour Rhea, qui l'a toujours dit ; la chose de 1903 n'était pas
+  ne change pour Rhea, qui l'a toujours dit ; la chose de 1900 n'était pas
   Alan non plus. Hohenheim n'est pas croisé.
   MONSIEUR LAPINOU : reste à Winry (lore R4). Rhea peut demander par
   téléphone à Pinako qu'Ed le rapporte, POUR WINRY ; il repart alors avec
@@ -344,8 +349,8 @@ pas les re-litiger. JAMAIS fetché en narration.
 - R12 - CONVERGENCE (mode usine, canon ép. 39-52 vérifié sur Wikipedia).
   Couvre ép. 40 -> 49 (début) : borne de sortie à l'aube du Jour Promis,
   groupes d'Ed et de Scar réunis. R13 = ép. 49 (suite) -> 63 ; R14 = fin 63
-  et 64. ~3 mois (hiver -> printemps 1915) : les 17 ans de Rhea tombent en
-  R12, entre Liore et Resembool.
+  et 64. ~3 mois (hiver -> printemps 1915) : les 20 ans de Rhea tombent en
+  R12, à Liore.
   STATUT DE SACRIFICE - TRANCHÉ (worldbuilder, 2026-10-31) : Mustang sait,
   mais ne la cite pas en 1910 : il l'a vue vouloir une vie sans problèmes,
   loin de l'armée (qu'elle n'a rejointe qu'indirectement, mécanicienne
@@ -364,7 +369,7 @@ pas les re-litiger. JAMAIS fetché en narration.
   marchande pas avec Père (worldbuilder ; canon ép. 14 : il refuse l'offre
   et se fait refondre).
   RHEA SE SAIT SACRIFICE : Hohenheim à Liore (Jour Promis, cinq sacrifices) ;
-  il reconnaît une survivante de la Porte, ne sait rien du 1903, ne la
+  il reconnaît une survivante de la Porte, ne sait rien du 1900, ne la
   dénonce pas. Elle le dit à Winry (ne ment pas).
   ITINÉRAIRE : Rhea avec Winry (galeries, bidonville du Nord, Liore), démonte
   et remonte Al (sceau intouché) ; piège à Envy, verrou : ne pas le tuer ;
@@ -395,7 +400,7 @@ pas les re-litiger. JAMAIS fetché en narration.
   BASCULE au choix du joueur : sans-cercle devant Pride ou Bradley avant
   la transmutation forcée = Pride l'emmène, Mustang épargné. Après, plus
   de bascule. Envy (jalon 2) meurt sans revoir Père : rien ne remonte.
-  Sacrifice ≠ nouveau péage : elle a payé en 1903.
+  Sacrifice ≠ nouveau péage : elle a payé en 1900.
   AL ET LE SANS-CERCLE : retiré ; acquis à Rush Valley (reprise R9), il le
   garde jusqu'en R14 (décision worldbuilder).
   SILENCE DE MUSTANG : ne détone pas en R13 ; détonable en R14.
@@ -432,13 +437,6 @@ pas les re-litiger. JAMAIS fetché en narration.
   Resembool (ép. 64) et y dit l'éclipse. HOHENHEIM : mort à genoux devant
   la tombe de Trisha (ép. 63) ; Pinako l'annonce, qui l'a trouvé n'est pas
   dit.
-
-## Points ouverts (à trancher en Passe 2, roadmap par roadmap)
-- [CANON SUPPOSÉ] restants : durées internes des arcs, lieux non nommés
-  (cales de build). Soldés le 2026-10-31 par le worldbuilder : montre,
-  claquement d'Al (l'âme porte la Vérité, métal ou chair), corps d'Al dans
-  la cour du QG, Hughes/accouchement en [INTERPRÉTATION], Paninya, Satella,
-  Sheska.
 
 ## À verser au CODEX à la bascule jeu
 - IRONIE Mustang/Riza (R3, 1910) : Rhea traite Mustang de "génocidaire" sans
@@ -487,44 +485,5 @@ pas les re-litiger. JAMAIS fetché en narration.
   1910, s'il n'est pas dit au chevet, reste au CODEX. -> CODEX ANNEXE_SAVOIRS.
 - IRONIE Gluttony (R10) : l'anosmique face au nez absolu ; le captif ligoté
   va avaler Ed et Ling quelques minutes plus tard. -> CODEX ANNEXE_SAVOIRS.
-
-## [INCERTAIN] laissés volontairement en suspens (ne pas armer)
-- Numéro de l'ordre d'extermination d'Ishval : "3066" ou "306". Non tranché.
-- Année exacte de destruction de Xerxès (~400 ans avant la trame).
-- Ascendance drachmane possible de Yuri Rockbell.
-- Nom de jeune fille d'Izumi (Harnet) : non confirmé.
-
-## Dettes de build
-- Budget roadmap : R11 coupée en R11a et R11b, chacune sous le plafond.
-  Toutes les roadmaps sous 19 000 caractères, sous le plafond de 22 000
-  d'une roadmap passée en immersion (SPEC v9.2 §7) : rien à tolérer.
-
-## Points de forme à revérifier à la clôture
-- Âge de Rhea sur la trame : 16 ans à l'entrée (1914), 17 au Jour Promis
-  (printemps 1915, elle naît le 30 janvier). Cohérent BIBLE <-> garde-cap ;
-  ne pas ré-écrire "16 ans sur toute la trame".
-- Strates sur fiches canon : Izumi porte une section Implications d'arc ;
-  Riza, Winry et Mustang portent désormais des éléments datés 1910-1911 dans
-  Histoire / Rapport à la protagoniste (rework R3). Les autres fiches canon
-  (W1) n'ont ni Implications d'arc ni Trajectoire datée explicites (le "Sort
-  connu" couvre le canon par défaut). Harmonisation du gabarit à trancher par
-  le worldbuilder si besoin.
-- Accents (règle d'or §3.4) : BIBLE, Sommaire et ce journal réaccentués en B7 ;
-  Lieux/Ishval.md réaccentuée en W2. Les autres pages en ASCII (Systemes/*,
-  Factions/Armee_Amestris, Lieux/Amestris et Dublith, Sarah et Yuri Rockbell)
-  le restent jusqu'à leur prochaine relivraison.
-- Mineures de la relecture croisée (2026-10-31), à solder à la prochaine
-  livraison de la page :
-  - Pinako : « Leopardess » vs « Panthère de Resembool » ; phrase R14 sans
-    sujet (« l'a trouvé »).
-  - Paninya : « promet de veiller sur Winry » absent de R8.
-  - Dominic : refuse Winry « deux fois » (R8 n'en montre qu'un refus).
-  - Resume : Tucker rangé sous « Central » (il est à East City, R6).
-  - Lieux/Resembool : départ des parents « date non fixée » (1907) ;
-    « incendie… avant le départ pour Central » à recaler sur R4.
-  - Sarah, Yuri : « front au paroxysme » vs missions depuis 1901.
-  - Alex Armstrong : trajectoire R9 absente ; « renseignement de Grumman ».
-  - Ling : « hors POV » en R14 alors que R14 jalon 3 le montre.
-  - « Pardon » de Winry à Scar : formulation à harmoniser (R11b, fiches).
 
 FIN_WIKI__IMPLICATIONS

@@ -1,10 +1,10 @@
 # May Chang
 
-- version : W8
+- version : W9
 
 ## Identité
 
-Princesse du clan Chang, le plus faible des clans de Xing en lice pour la succession impériale. Adolescente [CANON SUPPOSÉ : ~15 ans]. Alkahestriste. Comme Ling, elle traverse le désert pour rapporter le secret de l'immortalité et sauver son clan.
+Princesse du clan Chang, le plus faible des clans de Xing en lice pour la succession impériale. Une enfant, entre onze et quatorze ans (le canon ne la chiffre pas). Alkahestriste. Comme Ling, elle traverse le désert pour rapporter le secret de l'immortalité et sauver son clan.
 
 ## Physique
 

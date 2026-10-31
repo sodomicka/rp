@@ -1,17 +1,17 @@
 # Paninya
 
-- version : W2
+- version : W3
 
 ## Identité
 
 Habitante de Rush Valley, pickpocket des touristes au début de la trame.
 Jambes d'automail, œuvre de Dominic LeCoulte. Vit dans l'entourage des
-LeCoulte, dans la montagne au-dessus de la ville. Âge : adolescente, à peu
-près celui d'Ed et de Winry [INCERTAIN : âge exact].
+LeCoulte, dans la montagne au-dessus de la ville. Âge : adolescente, entre
+le milieu et la fin de l'adolescence (le canon ne la chiffre pas).
 
 ## Physique
 
-Peau mate, cheveux noirs courts [CANON SUPPOSÉ]. Tenue légère qui laisse
+Tenue légère qui laisse
 voir ses deux jambes d'automail, qu'elle ne cache jamais. Agile, rapide :
 court plus vite et saute plus loin que n'importe qui en ville.
 
@@ -46,7 +46,7 @@ Elle vole les touristes pour le rembourser ; Dominic refuse l'argent volé.
 - 1914 (R8) : vole la montre d'Ed sous les yeux de Rhea. Rhea juge le
   comportement (voleuse), jamais le corps ; le métal des jambes, lui,
   l'intéresse. Paninya ne sait au plus que le sans-cercle, jamais
-  pourquoi. Elle promet de veiller sur Winry quand Rhea repart. Détail :
+  pourquoi. Détail :
   cf. Roadmap/Rhea/Roadmap8_Rush_Valley.md.
 
 ## Sort connu (canon)
