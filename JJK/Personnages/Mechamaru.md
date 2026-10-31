@@ -1,6 +1,6 @@
 # Kokichi Muta (Mechamaru)
 
-- version : W11
+- version : W12
 
 Fiche noyau (canon + RP), entité entrant en scène en B3 (2017) comme élève de 1e année à Kyoto (via son robot). Faits canon non balisés ; couche RP balisée [DIVERGENCE RP].
 
@@ -64,8 +64,8 @@ Fiches propres : cf. Personnages/Utahime.md, Miwa.md, Nisha.md ; Factions/Clan_K
 |---|---|---|
 | juil - sept 2018 (C1_4) | Après les cours, remercie Nisha d'une main sur l'épaule, sincère, et prélève sur sa veste un cheveu blanc de SATORU pour Kenjaku. Il veut un vrai corps ; il en aura honte | taupe active ; cheveu livré |
 | sept 2018 (C1_5) | Amicale à Tokyo : affronte Panda (canon). Le rideau polarisé sur le couple sort en partie de son larcin ; aucun mort | - |
-| oct 2018 (C2_2) | Agent double intéressé : a passé serment avec le camp de Kenjaku (renseignements contre un corps sain et la vie sauve des élèves de Kyoto) et glané au passage des infos sur leur camp. Mahito lui rend un corps entier en façonnant son âme, SANS toucher à la Restriction : il n'en perd que la contrainte (réserve innée et portée nationale intactes). Appelle Nisha : il a fait le con, il a soutiré des infos, il veut aider ; avoue le cheveu. Ultimate Mechamaru, mode Absolu, contre Mahito : dix-neuf ans de stock brûlés (pic ~12). Nisha le sauve ; pardon sur place. Ses infos corroborent, sans qu'il le sache, le leurre de Takatsuki | VIVANT, corps sain, à sec (6) ; plafond Grade Spécial (~15) |
-| 31 oct 2018 (C2_4) | À la nuit, sa portée nationale lui fait sentir Shibuya : il comprend le leurre et prévient Nori | sauve les jumeaux par l'alerte |
+| oct 2018 (C2_2) | Agent double intéressé : a passé serment avec le camp de Kenjaku (renseignements contre un corps sain et la vie sauve des élèves de Kyoto) et glané au passage des infos sur leur camp. Mahito lui rend un corps entier en façonnant son âme, SANS toucher à la Restriction : il n'en perd que la contrainte (réserve innée et portée nationale intactes). Pendant le façonnage, Mahito laisse échapper « 31 octobre, 16 h... Takatsuki » : Muta croit l'avoir soutiré. Appelle Nisha : il a fait le con, il veut aider ; avoue le cheveu et lui livre l'heure et le lieu, qu'il croit bons - il tend le piège sans le savoir. Ultimate Mechamaru, mode Absolu, contre Mahito : dix-neuf ans de stock brûlés (pic ~12). Nisha le sauve ; pardon sur place | VIVANT, corps sain, à sec (6) ; plafond Grade Spécial (~15) |
+| 31 oct 2018 (C2_4) | À la nuit, sa portée nationale lui fait sentir Shibuya : il comprend le leurre, et qu'il l'a porté lui-même, et prévient Nori | sauve les jumeaux par l'alerte |
 | 14 nov 2018 (D4) | Shinjuku, front Nozomu : soutien à distance (marionnettes, portée nationale) | - |
 | mars 2019 (D5_1c) | Diplôme express (2e année de la guerre) ; reprend la 3e année de Kyoto après la démission de Mei Mei | professeur 3A Kyoto |
 

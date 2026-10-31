@@ -1,6 +1,6 @@
 # Nisha Zenin - Chronologie datée, ère C (2018)
 
-- version : W6
+- version : W7
 
 Extension de Personnages/Nisha.md (suite de Nisha_chrono_B.md). Contient la TRAJECTOIRE DATÉE de Nisha pour l'ère C (juin 2018 -> fin 2018). Strate canon par défaut, télégraphique ; le détail vit dans les roadmaps. Build-side : fetchée à la demande, JAMAIS chargée en narration. Le NOYAU reste dans Personnages/Nisha.md. État : entrées C1 à C3 (juin -> 1er novembre 2018) posées : ère C complète.
 
@@ -13,7 +13,7 @@ Extension de Personnages/Nisha.md (suite de Nisha_chrono_B.md). Contient la TRAJ
 | juil - sept 2018 (C1_4) | LE MORT CACHÉ. Loge Yuji à Saitama ; cercle du secret : le couple, Megumi, Nobara, Maki, Mai, Naoya, Panda, de fait Shoko et Nanami. Reçoit les excuses de Gakuganji. Mechamaru la remercie, une main sur l'épaule, et lui vole un cheveu de Satoru sans qu'elle le sache | le dossier devient un gosse sous son toit |
 | sept 2018 (C1_5) | L'AMICALE, à Tokyo. Gakuganji furieux du secret, sans ordre de tuer. Rideau polarisé sur elle et Satoru : les deux plus forts du monde galèrent au-dehors ; Yukiko feint de bloquer et leur souffle la solution. Aucun mort | se sait CIBLÉE, sans savoir par qui ; pas de paranoïa |
 | sept 2018 (C2_1) | Peintures Mortes (hors POV) : rapport officieux d'Akari par portable avant le rapport officiel ; courbe de Yuji remise à jour | - |
-| oct 2018 (C2_2) | L'APPEL DE MUTA. Il avoue la taupe et le cheveu, elle le sauve de Mahito, qu'elle manque de tuer, et lui pardonne. Mahito lui lâche « 31 octobre, 16 h... Takatsuki » : un leurre | 1re rencontre avec Mahito ; croit tenir le piège de Satoru |
+| oct 2018 (C2_2) | L'APPEL DE MUTA. Il avoue la taupe et le cheveu, et lui livre « 31 octobre, 16 h... Takatsuki », soutiré à Mahito croit-il : un leurre de Kenjaku. Elle le sauve de Mahito, qu'elle manque de tuer, et lui pardonne | 1re rencontre avec Mahito ; croit tenir le piège de Satoru |
 | oct 2018 (C2_3) | LE SECRET À DEUX. N'en parle qu'à Naoya, pour prendre Kenjaku de court ; à Satoru, le 31 : « un conseil de clan » | Satoru tenu à l'écart |
 | 31 oct 2018 (C2_4) | TAKATSUKI. Piégée avec Naoya ; voit Geto balafré à la fermeture ; ne fait RIEN, et le double fond rate ; Eien lui révèle le cheveu de 2015 ; démêlée par Yukiko, raconte la vente devant Nori | sait que Kenjaku porte Geto ; cercle du secret : Naoya, Yukiko, Nori |
 | 31 oct 2018 (C2_5) | Sortie de Takatsuki, tard dans la nuit : part pour Shibuya (Shibuya joué hors POV) | - |
