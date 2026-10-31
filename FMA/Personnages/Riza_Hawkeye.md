@@ -1,6 +1,6 @@
 # Riza Hawkeye
 
-- version : W9
+- version : W10
 
 ## Identité
 
@@ -41,8 +41,8 @@ Guerre d'Ishval : tireuse d'élite remarquée (« l'Œil du faucon ») ; traumat
 
 Militaire de carrière - donc, a priori, une figure que la protagoniste antimilitariste rejette. Nuance : Riza déteste elle aussi ce qu'a été Ishval. Cf. Personnages/Rhea.md et roadmaps.
 - 1910 (R3, atelier Rockbell) : seule du duo à lire en Rhea autre chose qu'une cause perdue (« une gamine qui aura envie de faire bouger les choses »). Rhea ignore alors que Riza porte, d'un autre bord, la même plaie d'Ishval.
-- 1914 (R10) : accueille le trio à la gare ; présente au Laboratoire 3 (hors POV) ; envoie avec Mustang de faux signalements pendant le piège ; ramène Gluttony à la planque.
-- 1914 (R11a) : dans la voiture de Knox avec Mustang et Rhea. Reste à Central auprès de Bradley, son otage. Ed lui rend son pistolet ; Rhea avec lui (divergence : en canon Ed vient seul, ép. 30), elle dit que les vies qu'elle a prises sont sa responsabilité et raconte Ishval (son père et le tatouage, Kimblee, Marcoh, le chef ishval refusé par Bradley, sa demande de servir sous Mustang). L'ironie de 1910 détone. Découvre ensuite, hors POV, que Selim est Pride. Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md.
+- 1914 (R10) : accueille le trio à la gare ; au Laboratoire 3 avec Al, loin de Rhea ; envoie avec Mustang de faux signalements pendant le piège ; ramène Gluttony à la planque.
+- 1914 (R11a) : dans la voiture de Knox avec Mustang et Rhea. Reste à Central auprès de Bradley, son otage. Ed lui rend son pistolet ; Rhea avec lui (divergence : en canon Ed vient seul, ép. 30), elle dit que les vies qu'elle a prises sont sa responsabilité et raconte Ishval (son père et le tatouage, Kimblee, Marcoh, le chef ishval refusé par Bradley, sa demande de servir sous Mustang). L'ironie de 1910 détone. Découvre ensuite, loin de Rhea, que Selim est Pride ; Rhea l'apprend en R12. Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md.
 - 1915 (R13) : met Mustang en joue devant Envy, sous les yeux de Rhea. « Hors radar » : blessée à mort par un rebut du docteur, son sang arrêté par May (ép. 58-59) (Rhea ne touche pas l'organique). « Repérée » : indemne. Guide le feu de Mustang aveugle (canon) contre Père. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 - 1915 (R14) : au chevet de Mustang, présente si Rhea vient et que le silence de 1910 détone. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 

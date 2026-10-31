@@ -1,6 +1,6 @@
 # Gluttony
 
-- version : W5
+- version : W6
 
 ## Identité
 
@@ -21,7 +21,7 @@ Avale tout : la matière disparaît dans sa bouche, qu'il étire jusqu'à englou
 ## Histoire (jusqu'au point de départ du RP)
 
 Créé par Père, en même temps que les autres péchés. Sert la conspiration dans l'ombre, avec Lust : élimine ce qui gêne et dévore les preuves.
-1914 : à Liore, dévore Cornello tué par Lust ; affronte Scar dans les égouts de Central avec Lust ; attaque Riza pendant la traque du corps de Barry (Laboratoire 3), repoussé par Mustang. Lust meurt cette nuit-là. Traque Scar et Lan Fan pendant le piège de Central, à l'odeur ; capturé par Ling, ligoté de câbles d'acier, emmené à la planque du docteur Knox.
+1914 : à Liore, dévore Cornello tué par Lust ; affronte Scar dans les égouts d'East City avec Lust (ép. 7) ; attaque Riza pendant la traque du corps de Barry (Laboratoire 3), repoussé par Mustang. Lust meurt cette nuit-là. Traque Scar et Lan Fan pendant le piège de Central, à l'odeur ; capturé par Ling, ligoté de câbles d'acier, emmené à la planque du docteur Knox.
 
 ## Relations (neutres)
 
@@ -33,7 +33,7 @@ Créé par Père, en même temps que les autres péchés. Sert la conspiration d
 ## Rapport à la protagoniste
 
 - 1914 (R10) : premier homonculus que Rhea voit de près, ligoté à la planque du docteur Knox. Il sent tout le monde ; l'anosmique face au nez absolu. Si elle transmute sans cercle devant lui, l'information remonte à Père (statut de sacrifice : « repérée », Roadmap 12). Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
-- 1914 (R11a) : se transforme à la planque au nom de Mustang ; Rhea part avec Knox. Avale Ed, Ling et Envy, mène Al à Père (hors POV), qui reprend sa Pierre. Sans-cercle devant lui avant la transformation : « repérée ». Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md.
+- 1914 (R11a) : se transforme à la planque au nom de Mustang ; Rhea part avec Knox. Avale Ed, Ling et Envy, loin de Rhea : elle l'apprend au retour des frères. Sans-cercle devant lui avant la transformation : « repérée ». Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md.
 - 1915 (R12) : prend Al dans le train avec Pride ; à Kanama, contre Darius et Ling, découpé par Lan Fan, puis dévoré par Pride, qui gagne son flair. Témoin qui fait « repérée ». Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 
 ## Sort connu (canon)

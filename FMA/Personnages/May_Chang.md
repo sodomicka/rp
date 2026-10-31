@@ -1,6 +1,6 @@
 # May Chang
 
-- version : W7
+- version : W8
 
 ## Identité
 
@@ -35,7 +35,7 @@ Traverse le désert avec Shao Mei. À Central, Scar la sauve ; elle s'attache à
 - 1914 (R11a-R11b) : arrive cachée dans l'armure d'Al, à la maison de Knox ; manque de se battre avec Lan Fan, puis file vers le Nord. Sa médecine travaille le vivant : Rhea s'en tient à distance. Peut voir en Rhea une seconde sans-cercle, sans le pourquoi ; rien ne remonte. Retrouvée à Baschool avec Marcoh et Yoki. Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md, Roadmap11b_Le_Nord_Briggs.md.
 - 1914-1915 (R12) : rassemble les notes du frère de Scar (« l'or », « l'immortalité ») : le cercle national ; l'éternuement de Yoki retourne des pages, et à l'envers elles donnent un contre-cercle d'alkahestrie (ép. 42). À Asbec, prend Envy au piège avec Marcoh et les chimères ; Scar lui confie le bocal et la presse de rentrer à Xing. Rien ne remonte de ce qu'elle voit de Rhea. Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
 - 1915 (R13) : attire Envy ; « hors radar », arrête le sang de Riza avec Rhea à ses côtés ; affronte Père ; aide Al à échanger son âme contre le bras d'Ed. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
-- 1915 (R14) : repart pour Xing avec Ling (hors POV). Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
+- 1915 (R14) : les guerriers de Xing rentrent chez eux. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 
 ## Sort connu (canon)
 

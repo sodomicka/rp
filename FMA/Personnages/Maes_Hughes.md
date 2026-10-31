@@ -1,6 +1,6 @@
 # Maes Hughes
 
-- version : W6
+- version : W7
 
 ## Identité
 
@@ -49,12 +49,12 @@ En enquêtant sur la conspiration (Pierre, Laboratoire 5, histoire militaire), i
 ## Rapport à la protagoniste
 
 - 1914 (R6) : vient de Central à East City avec Armstrong pour la traque de Scar ; examine les meurtres de chez Tucker ; absent de la pluie ; salue le départ du trio pour Resembool.
-- 1914 (R7) : embauche Sheska ; emmène Winry, et Rhea avec elle, aux courses puis chez lui pour l'anniversaire d'Elicia (trois ans) ; les Elric restent à l'hôpital. Présent à la visite de Bradley. Un militaire vétéran d'Ishval qui aime sa famille : l'antimilitarisme de Rhea n'a pas de case pour lui. Elicia s'attache à elle. Ne sait pas pourquoi elle transmute sans cercle et ne pose pas la question. Tué le jour du départ du trio, hors de son regard. Détail : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md.
+- 1914 (R7) : embauche Sheska ; emmène Winry, et Rhea avec elle, aux courses puis chez lui pour l'anniversaire d'Elicia (trois ans) ; les Elric restent à l'hôpital. Présent à la visite de Bradley. Un militaire vétéran d'Ishval qui aime sa famille : l'antimilitarisme de Rhea n'a pas de case pour lui. Elicia s'attache à elle. Ne sait pas pourquoi elle transmute sans cercle et ne pose pas la question. Tué le soir même de la visite de Bradley, loin d'elle ; le trio part vers le Sud pendant qu'on l'enterre (ch. 15-16), et Rhea l'apprend au retour à Central (R10). Détail : cf. Roadmap/Rhea/Roadmap7_Laboratoire_5.md.
 - 1914 (R10) : Rhea apprend sa mort à son retour à Central (Ross), après que Mustang a parlé de retraite. Chez Gracia, où Winry est arrivée par le journal : les frères disent qu'il est mort en cherchant la Pierre pour eux, Gracia refuse qu'ils renoncent ; Elicia orpheline de père. Plus tard, la tombe, avec Winry, Gracia et Elicia. Détail : cf. Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
 
 ## Sort connu (canon)
 
-Assassiné par Envy à Central (1914, canon ép. 10), au moment où les Elric quittent Central pour le Sud. Promu général de brigade à titre posthume. Ed l'apprend à son retour à Central (canon ép. 16).
+Assassiné par Envy à Central (1914, canon ép. 10, ch. 15), le soir de la visite de Bradley ; enterré pendant que les Elric descendent vers le Sud (ch. 16). Promu général de brigade à titre posthume. Ed l'apprend à son retour à Central (canon ép. 16).
 
 ## Renvois
 

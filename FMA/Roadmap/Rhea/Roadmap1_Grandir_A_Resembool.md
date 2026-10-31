@@ -1,6 +1,6 @@
 # Roadmap 1 - Grandir à Resembool
 
-- version : W4
+- version : W5
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (5 -> 10 ans), POV unique
 - échelle temporelle : ~5 ans (1903 -> fin 1908), en vignettes ; durée de chaque vignette au jalon
@@ -79,7 +79,7 @@ Faire grandir Rhea dans une famille : la sœur, les amis d'enfance, l'atelier. L
 
 ## Notes de frontière
 - R1 ne joue NI la mort de Sarah et Yuri (1908, hors-champ à Ishval), NI la nouvelle (1909) : Rhea reste dans l'insu total. Tout cela appartient à Roadmap 2.
-- Tchekhov actifs à la sortie : transmutation sans cercle connue des Elric ; parallèle deuil-transmutation ; penchant Al ; Scar / parents (amorcé par le départ de 1907, détonation en Roadmap 2 puis Roadmap 6).
+- Tchekhov actifs à la sortie : transmutation sans cercle connue des Elric ; parallèle deuil-transmutation ; penchant Al ; Scar / parents (amorcé par le départ de 1907, armé en Roadmap 6, détonation en Roadmap 10).
 - Cliquetis n'existe pas encore : seul son socle (le rythme cardiaque mémorisé par Winry) se pose ici.
 
 ---

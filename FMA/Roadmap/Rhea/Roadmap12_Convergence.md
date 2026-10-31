@@ -1,6 +1,6 @@
 # Roadmap 12 - Convergence
 
-- version : W4
+- version : W5
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 puis 17 ans), POV strict
 - échelle temporelle : de l'hiver 1914-1915 au printemps 1915 (le Jour Promis tombe « au printemps », ép. 45 ; aucune autre durée sur les pages ép. 41-49, sauf « dix jours » pour le retour de Miles, note manga de l'ép. 42) : le Nord (la maison abandonnée, Asbec, le piège à Envy), Liore, une attente, Resembool la veille du Jour Promis, Kanama la nuit d'avant. Les 17 ans de Rhea (30 janvier 1915) tombent dans cette roadmap, entre Asbec et Resembool [INCERTAIN : où].
@@ -129,7 +129,6 @@ Toutes en présence de Rhea.
 - Lan Fan (jalon 7) : elle revient avec un bras d'automail, d'un mécanicien inconnu (R11a). Rhea peut juger le métal, pas le raccord nerveux.
 - Pride (jalons 7-8) : Rhea voit que Selim, le gamin du dîner, est un homonculus. Le dôme le tient jusqu'en R13.
 - Scar : le geste de Winry reste le sien ; Rhea voyage avec lui jusqu'au jalon 3 et le retrouve au jalon 9.
-- Hors POV (cadrage MJ, jamais narré ; purge de clôture) : à Briggs, Ed veut capturer Kimblee, un mannequin d'armure en leurre ; Darius et Heinkel ; Kimblee fait sauter la mine avec la Pierre cachée dans sa bouche ; Darius et Heinkel emportent Ed chez un médecin. Pride envoie Kimblee graver le cratère de sang à Briggs ; Drachma attaque et échoue ; Olivier voit les soldats-mannequins. Darius vide le compte d'Ed, Ed s'évade de la clinique ; Bido meurt sous les griffes de Greed, qui attaque Bradley ; Olivier prend la tête des Armstrong ; Ed devient l'homme de main de Greed chez Mustang. Al est pris dans le train par Gluttony et Pride ; la voiture de Bradley saute sur un pont ; Mustang et Olivier, le bouquet ; Madame Christmas ; l'équipe de Mustang enlève Mme Bradley.
 - Divergence assumée vs canon : Rhea avec le groupe de Scar puis à Liore, remonte l'armure d'Al, apprend son statut par Hohenheim, à Resembool la veille du Jour Promis, à Kanama et au dôme.
 - Tchekhov : statut de sacrifice (règle posée, état hérité par R13) ; nœud Rhea/Al ; Scar.
 

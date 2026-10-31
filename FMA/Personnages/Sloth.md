@@ -1,6 +1,6 @@
 # Sloth
 
-- version : W3
+- version : W4
 
 ## Identité
 
@@ -16,11 +16,11 @@ Tout lui est pénible, à commencer par parler. Obéit sans réfléchir et creus
 
 ## Capacités
 
-Force colossale, peau presque invulnérable, régénération d'homonculus (cœur-Pierre). Sa vitesse, la plus grande des homonculus, ne se révèle que plus tard. Constitution proche de celle d'un humain : le froid l'immobilise.
+Force colossale, peau presque invulnérable, régénération d'homonculus (cœur-Pierre). Sa vitesse, la plus grande des homonculus, ne se révèle que plus tard.
 
 ## Histoire (jusqu'au point de départ du RP)
 
-Créé par Père avec les autres péchés. Creuse le tunnel qui relie les points de sang du cercle national. 1914 : surgit sous Briggs ; la garnison l'arrose de carburant et le pousse dehors pour qu'il gèle ; capturé, puis rendu au tunnel sur ordre du général Raven.
+Créé par Père avec les autres péchés. Creuse le tunnel qui relie les points de sang du cercle national. 1914 : surgit sous Briggs ; les chars le poussent dans un monte-charge, la garnison l'arrose d'un carburant spécial qui, dans le blizzard, lui ôte ses forces, et un tir de canon le jette hors de la porte : il hiberne (ép. 34-35) ; rendu au tunnel sur ordre du général Raven, qui le fait passer pour une chimère d'un projet secret (ép. 36).
 
 ## Relations (neutres)
 
@@ -30,7 +30,7 @@ Créé par Père avec les autres péchés. Creuse le tunnel qui relie les points
 ## Rapport à la protagoniste
 
 - 1914 (R11b) : surgit à Briggs sous ses yeux. S'il la voit transmuter sans cercle, l'information remonte à Père (statut « repérée », Roadmap 12). Son tunnel lui apprend que le pays est un cercle. Détail : cf. Roadmap/Rhea/Roadmap11b_Le_Nord_Briggs.md.
-- 1915 (R13) : hors POV. Tué par Alex et Olivier Armstrong, Izumi et Sig. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
+- 1915 (R13) : mort au Jour Promis, loin de Rhea ; elle le sait mort. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 
 ## Sort connu (canon)
 

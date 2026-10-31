@@ -16,7 +16,7 @@
 - univers : Fullmetal Alchemist (branche manga / Brotherhood, continuité Arakawa)
 - sources primaires : manga Arakawa + anime Brotherhood (2009). Canon local prime sur 2003.
 - site_ref canon (Brotherhood, épisode par épisode) : `https://fma.fandom.com/wiki/Episode_<N>_(2009_Anime)` (N = 1 à 64 ; chaque page liste les chapitres manga adaptés). Secours : `https://fma.fandom.com/wiki/List_of_Fullmetal_Alchemist_episodes`, ou le miroir `https://daddyjim.com/fullmetal-alchemist/episode/Episode-<N>-2009-Anime` (pages chapitre : `.../manga-chapter/`, personnages : `.../character/`), ou recherche web. VÉRIFICATION uniquement : ni théories fans, ni copie de texte. Méthode de déroulement : cf. _Implications.md.
-- bible_version : B25
+- bible_version : B26
 - wiki_base : `https://github.com/sodomicka/rp/blob/main/FMA/`
 - raw_base : `https://raw.githubusercontent.com/sodomicka/rp/main/FMA/`
 - parties_base : `https://github.com/sodomicka/rp/blob/main/Parties/FMA/Partie1/`
@@ -90,7 +90,7 @@
 | 1910 | Transmutation humaine ratée des Elric (de nuit, sans prévenir Rhea) ; visite de recrutement de Mustang à Resembool | Ed perd jambe (péage) et bras (scellement d'Al) ; Al perd son corps ; Rhea achève la chose et coupe les ponts ; Mustang repère la troisième sans-cercle sur place ; décision d'automail (défi d'Ed : un an). cf. WIKI Roadmap/Rhea/Roadmap3_Transmutation_Elric_Et_Mustang.md |
 | 1911 | Fin de rééducation d'Ed (défi tenu) ; examen d'État (12 ans) ; incendie de la maison Elric (3 octobre) ; départ pour la quête | Plus jeune Alchimiste d'État ; silence Rhea/Elric jusqu'en 1914. cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md |
 | 1914 | Retour des frères à Resembool ; révélation du 1903 de Rhea aux Elric ; Rhea part avec eux vers Liore | Réconciliation fraîche et fragile. cf. WIKI Roadmap/Rhea/Roadmap4_L_Examen_Et_Le_Depart.md |
-| 1914 | Liore : Ed démasque Cornello, fausse Pierre, la ville se soulève ; Cornello tué par Lust et Gluttony (hors POV Rhea) | Première ville canon ; carte de Winry en échec. cf. WIKI Roadmap/Rhea/Roadmap5_Liore.md |
+| 1914 | Liore : Ed démasque Cornello, fausse Pierre, la ville se soulève ; Cornello tué par Lust et Gluttony (Rhea n'en sait rien : il disparaît) | Première ville canon ; carte de Winry en échec. cf. WIKI Roadmap/Rhea/Roadmap5_Liore.md |
 | 1914 | East City : Tucker et Nina ; Scar tue Tucker, brise le bras d'Ed et l'armure d'Al ; retour à Resembool | Rhea face à Scar sans savoir qu'il a tué ses parents. cf. WIKI Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md |
 | 1914 | Central : notes de Marcoh décodées, Laboratoire 5 ; Winry à Central ; Bradley au chevet d'Ed ; Maes Hughes tué par Envy le soir même ; départ vers le Sud pendant son enterrement | La Pierre = vies humaines ; enquête de Mustang. cf. WIKI Roadmap/Rhea/Roadmap7_Laboratoire_5.md |
 | 1914 | Rush Valley : Paninya vole la montre d'Ed (Winry y voit la date de l'incendie) ; Winry accouche la belle-fille de Dominic ; Winry reste chez Garfiel | Rhea repart sans Winry vers Dublith. cf. WIKI Roadmap/Rhea/Roadmap8_Rush_Valley.md |
@@ -209,4 +209,4 @@ Index détaillé page-par-page : cf. WIKI FMA/Sommaire.md
 
 ---
 
-FIN_BIBLE_B25
+FIN_BIBLE_B26

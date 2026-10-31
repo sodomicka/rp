@@ -1,9 +1,9 @@
 # Roadmap 10 - Central : Hughes et Scar
 
-- version : W4
+- version : W5
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
-- échelle temporelle : environ deux semaines (1914 ; aucune durée dans les pages ép. 16-24 ni ch. 35-48) : l'arrivée et le deuil, la nuit du feu, l'absence d'Ed (Laboratoire 3 hors POV), son retour, les jours du piège, le départ de Winry, la planque
+- échelle temporelle : environ deux semaines (1914 ; aucune durée dans les pages ép. 16-24 ni ch. 35-48) : l'arrivée et le deuil, la nuit du feu, l'absence d'Ed (Al au Laboratoire 3, sans Rhea), son retour, les jours du piège, le départ de Winry, la planque
 - borne d'entrée : suite de Roadmap 9. 1914, Rhea a 16 ans. Elle arrive à Central avec Ed, Al et Winry ; Ling Yao est dans le même train.
   - Clivage du savoir : le 1903 connu des seuls Elric, Rockbell et Izumi.
   - Nœud Rhea/Al : Al sait qu'il est une âme et transmute sans cercle depuis Rush Valley (R9) ; la carte qu'il a de Rhea s'étoffe.
@@ -50,7 +50,7 @@ Toutes en présence de Rhea ; aucune ne dévoile Scar avant le jalon 7.
 
 ## Casting convoqué
 - Rhea - POV, 16 ans - cf. Personnages/Rhea.md
-- Edward Elric - le deuil, Resembool hors POV, le piège - cf. Personnages/Edward_Elric.md
+- Edward Elric - le deuil, son retour de Resembool, le piège - cf. Personnages/Edward_Elric.md
 - Alphonse Elric - relais sans Ed, le sceau, le piège - cf. Personnages/Alphonse_Elric.md
 - Winry Rockbell - chez Gracia, apprend pour Scar, repart pour Resembool - cf. Personnages/Winry_Rockbell.md
 - Roy Mustang - la « retraite », le feu sur Ross, la planque - cf. Personnages/Roy_Mustang.md
@@ -84,10 +84,10 @@ Toutes en présence de Rhea ; aucune ne dévoile Scar avant le jalon 7.
 - Ling révèle que Bradley est un homonculus (jalon 9).
 ### Interdits
 - Partir à Resembool avec Ed - la révélation sur Scar se fait aux deux sœurs ensemble (jalon 7) ; cf. Verrous.
-- Suivre Al au Laboratoire 3, voir Lust ou Gluttony à l'œuvre - homonculus hors POV ; protège le statut de sacrifice (Roadmap 12) ; cf. Verrous.
+- Suivre Al au Laboratoire 3, voir Lust ou Gluttony à l'œuvre - Rhea ne voit aucun homonculus au Laboratoire 3 ; protège le statut de sacrifice (Roadmap 12) ; cf. Verrous.
 - Apprendre, ou laisser Winry apprendre, que Scar a tué Sarah et Yuri avant le jalon 7.
 - Tuer Scar, ou laisser Winry tirer - Scar tue Bradley au Jour Promis ; Winry lui pardonne à Baschool (R11b) ; cf. Verrous.
-- Retenir Scar - May Chang le couvre, hors POV ; Scar et May portent la trame suivante.
+- Retenir Scar - il fuit, couvert par May Chang ; Scar et May portent la trame suivante.
 - Tuer ou libérer Gluttony - il avale Ed et Ling (Roadmap 11a).
 - Révéler que Ross est vivante à qui que ce soit hors Winry - plan de Mustang ; Ross revient avec des armes (Roadmap 13).
 - Rencontrer Hohenheim - réservé aux roadmaps suivantes.
@@ -132,10 +132,9 @@ Toutes en présence de Rhea ; aucune ne dévoile Scar avant le jalon 7.
 - Winry repart pour Resembool (jalons 6, 8) : les ch. 45 et 48 disent Resembool, même si c'est Garfiel qui appelle. Monsieur Lapinou y est déjà : il la retrouve là.
 - Bradley au chevet (jalon 8) : le ch. 48 ne dit ni le lieu ni ses mots. Il est aimable, écoute, parle de Scar. Rhea ne sait pas encore ; le joueur, si.
 - La chose de 1910 (jalon 5) : rien ne change pour Rhea (« une âme ne se remplace pas », depuis 1903) ; le soulagement des frères est la scène. La chose de 1903 n'était pas Alan non plus : elle l'a toujours su.
-- Al sans cercle (jalon 4) : au Laboratoire 3, il protège Riza par un sans-cercle (ch. 39), hors POV. Ce qu'il en raconte est au choix.
+- Al sans cercle (jalon 4) : au Laboratoire 3, il protège Riza par un sans-cercle (ch. 39), loin de Rhea : elle n'en sait que ce qu'il en raconte, au choix.
 - Sans-cercle devant un témoin (au choix du joueur) : devant Gracia, Ross, Barry, Ling, Lan Fan, l'équipe de Mustang, Knox ou Scar, rien ne remonte aux homonculus. Devant Bradley (jalon 8) ou Gluttony (jalon 9) : l'information remonte à Père, statut « repérée » pour la partie (delta Parties/), Roadmap 12 en hérite. Déjà « repérée » : rien de plus.
 - Lan Fan : elle portera un automail plus tard (Roadmap 12) ; Rhea peut proposer l'atelier Rockbell.
-- Hors POV (cadrage MJ, jamais narré ; purge de clôture) : Armstrong et Breda mènent Ed par Resembool jusqu'à Xerxès avec Han et Fu ; les Ishvals de Shan lui disent les médecins et le tatouage de leur tueur ; Hohenheim sur la tombe de Trisha, l'exhumation avec Pinako. À Central, Barry et son corps, Lust qui empale Havoc et Mustang, Lust brûlée jusqu'à ce que sa Pierre s'épuise, Bradley qui regarde ; Envy enlève Marcoh. Le jour du piège : Bradley taille Lan Fan, qui se tranche le bras et le noue à un chien ; Ling fait sauter Gluttony à la grenade, Ed le ligote d'un câble de rail ; Riza tire dans la jambe de Scar ; May Chang et Shao Mei couvrent sa fuite.
 - Kimblee : un nom d'Alchimiste d'État sur la blessure de Scar (Roadmap 11b).
 - Divergence assumée vs canon : Rhea au deuil, au feu de Mustang, sur la tombe de Hughes, au chevet de Winry face à Bradley ; elle peut savoir Ross vivante.
 - Tchekhov : Scar / parents DÉTONÉ ; Bradley révélé ; statut de sacrifice (dormant, sauf Bradley et Gluttony) ; nœud Rhea/Al (Al seul relais sans Ed, le sceau qui peut lâcher).

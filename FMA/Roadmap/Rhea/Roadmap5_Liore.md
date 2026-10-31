@@ -1,6 +1,6 @@
 # Roadmap 5 - Liore
 
-- version : W3
+- version : W4
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : quelques jours (1914) : le train depuis Resembool (durée non chiffrée au canon ; arrivée à Liore à l'aube, ép. 2), une journée et une nuit à Liore (arrivée, miracle, Rose, audience, haut-parleur, soulèvement), le départ. Le canon ne date ni le voyage ni le départ.
@@ -88,7 +88,6 @@ Toutes en présence de Rhea ; aucune ne touche à Cornello après sa disparition
 
 ## Notes de frontière
 - Ordre Brotherhood : les chapitres 3 et 4 du manga (la ville minière de Youswell, l'attaque du train de Bald) ne sont pas adaptés dans la série de 2009 ; ils restent hors rail, et l'ép. 4 enchaîne Liore sur le rapport à Mustang à East City. East City, Mustang, Tucker et Nina, Scar appartiennent à Roadmap 6. Mustang a vu Rhea en 1910 : leurs retrouvailles se jouent en R6.
-- Hors POV (cadrage MJ, jamais narré ; purge de clôture) : Cornello s'enfuit vers une salle cachée et y meurt, tué par Lust, dévoré par Gluttony ; Liore bascule ensuite (Envy sous les traits de Cornello). Ce que Rhea en apprend vient en Roadmap 12, à Liore reconstruite.
 - Sans-cercle de Rhea devant Cornello (jalon 5, au choix du joueur) : Cornello comprend qu'elle aussi a vu la Porte, comme pour Ed. Il meurt dans la nuit sans en parler : rien ne remonte aux homonculus, le statut de sacrifice reste hors radar.
 - La carte de Winry : échec posé ici ; la carte d'Al se construit au fil des roadmaps suivantes.
 - Tchekhov : nœud Rhea/Al (armé) ; statut de sacrifice de Rhea (dormant, hors radar) ; parallèle deuil-transmutation (Rose en miroir, amorce).

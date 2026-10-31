@@ -1,6 +1,6 @@
 # Ling Yao
 
-- version : W10
+- version : W11
 
 ## Identité
 
@@ -60,10 +60,10 @@ illégalement ; échoue à Rush Valley.
   escorte Ross vers Xing (ch. 41). À la planque, Ling, qui sent le flux, révèle
   devant Rhea que le Généralissime est un homonculus. Détail : cf.
   Roadmap/Rhea/Roadmap10_Central_Hughes_Et_Scar.md.
-- 1914 (R11a) : avalé par Gluttony avec Ed ; au repaire de Père, reçoit la Pierre de Greed, qui prend son corps (hors POV). Rhea l'apprend d'Ed ; Lan Fan lit son message, un tissu écrit en xingois que Greed a remis aux frères. Fu, revenu de Xing, refuse l'automail des Rockbell et choisit un mécanicien inconnu, l'ennemi ayant vu le visage de Lan Fan (ép. 31) ; Rhea peut avoir proposé l'atelier. Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md.
+- 1914 (R11a) : avalé par Gluttony avec Ed ; au repaire de Père, reçoit la Pierre de Greed, qui prend son corps : Rhea l'apprend d'Ed ; Lan Fan lit son message, un tissu écrit en xingois que Greed a remis aux frères. Fu, revenu de Xing, refuse l'automail des Rockbell et choisit un mécanicien inconnu, l'ennemi ayant vu le visage de Lan Fan (ép. 31) ; Rhea peut avoir proposé l'atelier. Détail : cf. Roadmap/Rhea/Roadmap11a_Central_La_Fausse_Porte.md.
 - 1914-1915 (R12) : Greed, maître du corps, prend Ed comme homme de main ; Ling affleure par moments. À Kanama, Lan Fan revient avec un bras d'automail ; Ling reprend la main contre Gluttony ; Lan Fan le découpe. Greed part prendre la capitale. Rien ne remonte de ce qu'il voit de Rhea : Greed a rompu avec Père (décision worldbuilder). Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
-- 1915 (R13) : Fu meurt contre Bradley (hors POV), Ling crève l'Œil ultime ; Greed quitte son corps et meurt en carbonisant Père. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
-- 1915 (R14) : repart pour Xing avec Lan Fan et May, futur empereur (hors POV). Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
+- 1915 (R13) : Fu meurt contre Bradley, loin de Rhea ; Greed quitte le corps de Ling et meurt en carbonisant Père, sous ses yeux. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
+- 1915 (R14) : jure à l'hôpital de protéger le clan Chang et d'enterrer Fu ; rentre à Xing. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 
 ## Sort connu (canon)
 

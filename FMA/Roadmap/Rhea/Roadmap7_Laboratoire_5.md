@@ -1,6 +1,6 @@
 # Roadmap 7 - Laboratoire 5
 
-- version : W4
+- version : W5
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : ~3 semaines (1914) : cinq jours de copie (Sheska), une dizaine de jours de décodage (ép. 7), la nuit du Laboratoire 5 ; Winry arrive deux semaines après Resembool (ch. 14) ; anniversaire d'Elicia, doute d'Al, visite du Généralissime le même jour que la réconciliation (ch. 15) ; le départ de Central, quelques jours plus tard (non chiffré)
@@ -104,7 +104,6 @@ Toutes en présence de Rhea ; aucune ne laisse filer Hughes après le jalon 9.
 
 ## Notes de frontière
 - Ironie dramatique (cadrage MJ, hors prose) : Hughes meurt le soir même de la visite de Bradley (ch. 15), et Central l'enterre pendant que le trio descend vers le Sud (ch. 16) ; Bradley, qu'elle hait comme chef de l'armée, est aussi un homonculus. À verser au CODEX.
-- Hors POV (cadrage MJ, jamais narré ; purge de clôture) : dedans, Ed contre le n° 48 (Slicer, deux frères dans une armure), puis Lust et Envy, qui tuent les Slicer et protègent Ed, sacrifice désigné ; Envy l'assomme. La silhouette qui sort Ed par la brèche est Envy (forme non précisée par les sources) ; Lust part sans être vue. Lust a brûlé la bibliothèque ; Scar affronte Gluttony dans les égouts et disparaît, recueilli par des réfugiés ishvals. Le soir du jalon 9, Hughes relie Liore à Ishval, échappe à Lust aux archives et meurt à une cabine téléphonique, tué par Envy sous les traits de Ross puis de Gracia.
 - Winry et le secret (jalon 6) : Rhea ne ment pas à Winry ; lui cacher, c'est se rendre inconnue à sa jumelle. Ed demande le silence. Tout dire, ou dire qu'il y a un secret qu'Ed lui interdit de lâcher : au choix du joueur. Conséquence par défaut si Winry sait : elle se tait devant les frères, et rien ne bouge sur la trame (en canon, elle apprend tout à Central, Roadmap 10).
 - Sans-cercle devant un témoin (au choix du joueur) : devant Barry, Ross, Brosh, Sheska ou Hughes, rien ne remonte. Devant la silhouette qui sort Ed du laboratoire (Envy, qui vit jusqu'au Jour Promis et a le temps d'en faire rapport) : même règle que Bradley, « repérée ». Devant Bradley : Wrath est un homonculus et a tout le temps d'en faire rapport (condition worldbuilder : un témoin ne compte que s'il peut rapporter à Père), l'information remonte ; pour la partie, le statut de sacrifice de Rhea passe de « hors radar » à « repérée » (delta en Parties/), et Roadmap 12 en hérite.
 - Barry et Al : une âme dans une armure qui ne demande qu'à tuer, miroir inversé d'Al ; il voit Rhea, retient la gamine au cache-œil.

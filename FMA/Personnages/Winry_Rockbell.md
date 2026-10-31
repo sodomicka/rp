@@ -1,6 +1,6 @@
 # Winry Rockbell
 
-- version : W20
+- version : W21
 
 ## Identité
 
@@ -45,10 +45,11 @@ Savoir chirurgical notable pour son âge (famille de chirurgiens), sans formatio
 
 ## Rapport à la protagoniste
 
-Sororité fusionnelle avec la protagoniste (jumelles après 1909). Winry connaît TOUT du passé de la protagoniste. Détail : cf. Personnages/Rhea.md.
+Sororité fusionnelle avec la protagoniste (jumelles après 1909). Winry connaît TOUT du passé de la protagoniste. Elle lui dit tout, elle aussi : elle choisit de tout dire à sa sœur, parce que sa sœur dit tout sans le choisir (décision worldbuilder). Détail : cf. Personnages/Rhea.md.
 - 1910 (R3) : seule à pouvoir désamorcer Rhea en pleine explosion - s'interpose
   entre elle et Mustang à l'atelier, l'empêche de lancer ses armes improvisées
-  (chutes d'automail transmutées), calme sa sœur, puis congédie les militaires.
+  (chutes d'automail transmutées), calme sa sœur, puis congédie les militaires. Le soir, lui raconte la
+  visite, dont son échange avec Riza.
 - 1910-1911 (année d'atelier) : quand Rhea s'endort sur l'établi, Winry la
   porte tant bien que mal jusqu'à leur chambre pour dormir ensemble.
 - Relais d'information : c'est par Winry que Rhea apprend, à la fin de la
@@ -96,7 +97,7 @@ Sororité fusionnelle avec la protagoniste (jumelles après 1909). Winry connaî
   Baschool (R11b).
 - 1914 (R11a-R11b) : otage de Bradley pour tenir Ed, sans le savoir d'abord, à Resembool puis de nouveau à Rush Valley (ép. 33) ; Rhea ne lui ment pas (appel au choix du joueur, sinon Rhea le lui dit à Briggs si elle demande ; les pages ne disent pas qu'elle l'apprend). Cueillie au pied de la montagne et amenée à Briggs par Kimblee (ch. 70) ; retrouvailles avec Rhea. Refait l'automail d'Ed pour le froid, Rhea au métal. À Baschool, confronte Scar avec Rhea à ses côtés, invente la ruse de l'enlèvement à l'explosion de Kimblee et part avec le groupe de Scar, Rhea avec elle ; dans la planque, panse ses plaies, ce qu'auraient fait ses parents (ép. 39).
 - 1914-1915 (R12) : dans les galeries, la maison abandonnée, puis Asbec, refuge ishval, avec Rhea ; Liore, où Rose lui prête des vêtements. Les 17 ans de Rhea. Un train de Briggs la ramène à Resembool la veille du Jour Promis, cachée dans une citerne ; retrouve Ed vivant ; à son conseil de fuir le pays, s'emporte et exige qu'il revienne avec ses deux frères entiers ; règle son bras, Rhea au métal. Apprend de Rhea qu'elle est un sacrifice valable. Dernier rituel avec Monsieur Lapinou ; reste à Resembool, Rhea repart avec Ed la nuit même (cinquième séparation). Détail : cf. Roadmap/Rhea/Roadmap12_Convergence.md.
-- 1915 (R13) : hors POV, à Resembool avec Monsieur Lapinou ; son âme prise et rendue à l'éclipse. Rhea l'apprend en R14. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
+- 1915 (R13) : à Resembool avec Monsieur Lapinou, loin de Rhea. Ce qu'elle a vécu à l'éclipse (son âme prise et rendue), elle le dit à Rhea en R14. Détail : cf. Roadmap/Rhea/Roadmap13_Le_Jour_Promis.md.
 - 1915 (R14) : attend à Resembool et y accueille les frères et Rhea (canon ép. 64) ; sixièmes retrouvailles, pleure sur Al ; dit à Rhea l'éclipse (son âme prise et rendue). Lâche le bâillon si Rhea se déclare à Al ; rituel de sommeil retrouvé, Monsieur Lapinou reste à elle, Cliquetis à Rhea. Détail : cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.
 
 ## Sort connu (canon)

@@ -1,6 +1,6 @@
 # Roadmap 11a - Central : la fausse Porte
 
-- version : W2
+- version : W3
 - statut : à venir ; JOUABLE
 - prota / POV : Rhea (16 ans), POV strict
 - échelle temporelle : environ une semaine (fin 1914 ; aucune durée dans les pages ép. 24-32 ni ch. 49-64) : la nuit de Gluttony, l'attente chez Knox, le retour des frères, Riza, la dispersion de l'équipe de Mustang, le dîner chez les Bradley, le train du Nord. Les 17 ans de Rhea (30 janvier 1915) tombent en Roadmap 12.
@@ -72,7 +72,7 @@ Toutes en présence de Rhea ; aucune ne montre un homonculus hors du jalon 1 et 
 - Le dîner chez les Bradley (jalon 6).
 - Rhea part au Nord avec les frères (jalon 7).
 ### Interdits
-- Suivre les frères contre Gluttony, être avalée, entrer au repaire de Père, voir Père ou Envy - homonculus hors POV ; cf. Verrous.
+- Suivre les frères contre Gluttony, être avalée, entrer au repaire de Père, voir Père ou Envy - Rhea ne voit ni Père ni le repaire ; cf. Verrous.
 - Attaquer Bradley ou Selim chez eux - Wrath vit jusqu'au Jour Promis (tué par Scar) ; cf. Verrous.
 - Retenir May - elle part vers le Nord ; les frères la suivent.
 - Révéler que Ross est vivante hors Winry - plan de Mustang.
@@ -107,7 +107,6 @@ Toutes en présence de Rhea ; aucune ne montre un homonculus hors du jalon 1 et 
 - Le dîner (jalon 6) : propre à l'anime ; le manga ne fait jamais asseoir Bradley à la table de famille (notes de l'ép. 32). Ordre Brotherhood : on le garde.
 - Lan Fan (jalon 5) : elle porte un automail en Roadmap 12, d'un mécanicien inconnu. Rhea peut avoir proposé l'atelier Rockbell ; Fu a dit non.
 - May Chang : l'alkahestrie est une médecine du flux, le vivant d'abord : Rhea s'en tient à distance. May voit en Rhea une seconde sans-cercle, sans le pourquoi ; rien ne remonte. Les frères la cherchent pour savoir comment elle transmute malgré Père.
-- Hors POV (cadrage MJ, jamais narré ; purge de clôture) : Mustang entre au QG et plaisante devant le général Raven sur un Généralissime homonculus ; le haut commandement l'attend. Envy, en chien, ordonne à Gluttony d'épargner les Elric et de tuer Ling ; Gluttony avale Ed, Ling et Envy ; Al suit Gluttony jusqu'à Père. Dans le ventre, Envy avoue Ishval ; Ed ouvre la Porte. Sous Central : Père guérit les frères, bloque leur alchimie, verse la Pierre dans Ling, qui cède à Greed ; Scar et May surgissent, May fuit dans l'armure d'Al. Scar trouve Marcoh dans sa cellule, qui avoue ; Kimblee, libéré par Envy, une Pierre neuve ; Scar défigure Marcoh et part au Nord. Mustang et Grumman, déguisé, sur la tombe de Hughes.
 - Divergence assumée vs canon : Rhea dans la voiture de Knox, au retour des frères, chez Riza, à la table des Bradley.
 - Tchekhov : statut de sacrifice (Gluttony, Bradley, Selim) ; ironie Mustang/Riza détonée ; nœud Rhea/Al (le corps d'Al existe).
 
