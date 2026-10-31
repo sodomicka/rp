@@ -1,6 +1,6 @@
 # Alex Louis Armstrong
 
-- version : W6
+- version : W7
 
 ## Identité
 
@@ -48,10 +48,10 @@ d'Alchimistes d'État dans l'Est.
 
 ## Rapport à la protagoniste
 
-- 1914 (R6) : premier Alchimiste d'État que Rhea voit pleurer Ishval. Il
-  combat Scar sous ses yeux, escorte le trio jusqu'à Resembool et loge chez
-  les Rockbell : un militaire dans la maison, comme Mustang en 1910, mais
-  qui a refusé de continuer. Son domaine (la pierre) touche celui de Rhea
+- 1914 (R6) : venu de Central traquer Scar, il le combat sous les yeux de
+  Rhea, escorte le trio jusqu'à Resembool et loge chez les Rockbell, où il
+  fait les corvées : un militaire dans la maison, comme Mustang en 1910. Ce
+  qu'il a refusé à Ishval, rien ne le dit à Rhea en R6 (ironie). Son domaine (la pierre) touche celui de Rhea
   (le minéral). Il la voit peut-être transmuter sans cercle ; son rapport
   porte sur Scar (statut de sacrifice : Roadmap 12). Détail : cf.
   Roadmap/Rhea/Roadmap6_East_City_Et_Scar.md.

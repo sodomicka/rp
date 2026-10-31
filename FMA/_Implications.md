@@ -6,17 +6,18 @@ pas les re-litiger. JAMAIS fetché en narration.
 
 - univers : FMA (branche manga / Brotherhood, continuité Arakawa)
 - tenu depuis : build BIBLE B2 (amorce Passe 2)
-- dernière mise à jour : BIBLE B21 + reprise R5 (Sommaire W24, 2026-10-31)
+- dernière mise à jour : BIBLE B21 + reprise R5-R6 (Sommaire W25, 2026-10-31)
 
 ## État d'avancement du chantier
 - Passe 2 : TOUTES les roadmaps ÉCRITES, R0 à R14 (1903 -> retour à
   Resembool, printemps 1915, au gabarit SPEC v9.2 §7).
 - REPRISE R5-R14 EN SÉRIE (worldbuilder, 2026-10-31) : une roadmap à la
   fois, canon revérifié épisode par épisode, modes d'étape et tranches de
-  vie posés, POV unique de Rhea ; une PR par roadmap. Faite : R5 (W3).
-- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R5
-  (Sommaire W24). État réel des autres roadmaps, relevé le 2026-10-31 :
-  R6 à R8 n'ont ni modes d'étape ni tranches de vie ; R9 n'a que deux
+  vie posés, POV unique de Rhea ; une PR par roadmap, fusionnée au fil de
+  l'eau (worldbuilder). Faites : R5 (W3), R6 (W3).
+- Passe d'immersion (modes d'étape, tranches de vie) : faite sur R0-R6
+  (Sommaire W25). État réel des autres roadmaps, relevé le 2026-10-31 :
+  R7 et R8 n'ont ni modes d'étape ni tranches de vie ; R9 n'a que deux
   AU CHOIX ponctuels (2 jalons sur 11) ; R10 a des modes sur 4 jalons
   sur 9, R11a sur 5 sur 6 ; R11b, R12 et R13 ont tous leurs modes. Aucune
   de R5 à R13 n'a de tranches de vie ; seule R14 est complète.
@@ -139,6 +140,17 @@ pas les re-litiger. JAMAIS fetché en narration.
   nuit. Le géant de Cornello (ajout anime) n'est pas retenu. La mort de
   Cornello sort des jalons (cadrage MJ, purge de clôture) ; Lust et
   Gluttony sortent du casting.
+- R6 - EAST CITY (reprise, canon ép. 4-6 et ch. 5-9 vérifiés) : Basque
+  Grand tué à Central (ép. 4) ; la mort de Tucker apprise par Riza au QG,
+  Hughes et Armstrong venus de Central ; Hughes absent de la pluie ; Scar
+  identifié ishval par le tir de Riza (lunettes) ; Mustang raconte Ishval
+  et sa part (ch. 7). La réplique « un Alchimiste d'État doit être prêt à
+  tuer » n'est pas dans les résumés : retirée (ch. 5 : Ed admet que sa voie
+  pourra exiger la cruauté). Armstrong : son refus à Ishval n'est dit dans
+  aucune page de l'arc : ironie MJ, pas un fait narré. Marcoh « arme au
+  poing » non confirmé : [INCERTAIN] sur sa fiche. Lust dans le train
+  (manga) coupée par Brotherhood : non retenue. Trois jours à Resembool
+  (ch. 9).
 - R6 - RETOUR À RESEMBOOL MAINTENU (tranché en mode usine, R6) : Rhea forge
   le métal mais un bras d'automail complet exige l'atelier Rockbell et le
   raccord nerveux (Winry, Pinako). Elle refait l'armure d'Al sur place
@@ -342,7 +354,8 @@ pas les re-litiger. JAMAIS fetché en narration.
   d'État, puis le voir briser Ed et Al, sans savoir qu'il a tué Sarah et
   Yuri - ni lui qu'elle est leur fille. -> CODEX ANNEXE_SAVOIRS.
 - IRONIE Armstrong (R6) : l'Alchimiste d'État logé chez les Rockbell est
-  celui qui a refusé de continuer à Ishval.
+  celui qui a été incapable de continuer à Ishval ; rien ne le dit à Rhea
+  en R6. -> CODEX ANNEXE_SAVOIRS.
 - IRONIE Hughes (R7) : tué par Envy le jour où le trio quitte Central ;
   Rhea l'apprend en R10. -> CODEX ANNEXE_SAVOIRS.
 - IRONIE Hughes (R8) : Rhea assiste à une naissance pendant que Central
