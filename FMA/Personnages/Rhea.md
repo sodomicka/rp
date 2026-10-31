@@ -1,6 +1,6 @@
 # Rhea
 
-- version : W25
+- version : W26
 
 ## Identité
 
@@ -447,17 +447,19 @@ partie.
   âme, l'inverse de 1903. Winry reste chez Garfiel, sans Monsieur Lapinou :
   troisième séparation, la première loin de Resembool. Rhea repart vers
   Dublith avec Ed et Al, Cliquetis et la carte d'Al pour seul relais.
-- 1914 (R9) - Dublith : Izumi et Greed. Chez les Curtis, Izumi la
-  reconnaît à l'orbite vide. Elle voit Izumi deviner la transmutation des
+- 1914 (R9) - Dublith : Izumi et Greed. Chez les Curtis, Izumi rosse les
+  frères (Ed chien de l'armée) et la reconnaît à l'orbite vide. Elle voit Izumi deviner la transmutation des
   frères et avouer la sienne (un enfant mort-né, des organes). Seule à
   seule : la première personne lisible sans carte ; Rhea lâche sa mécanique
   cassée, Izumi corrige ses plaquages à plat. Pas d'apprentissage. Al
   enlevé par les chimères de Greed : des humains greffés de bêtes qui
-  parlent. Au raid, dehors : le Généralissime vient tuer en personne ;
-  elle ignore ce qu'il est. Le sang de Martel rend à Al la nuit de 1910 :
-  il est une âme, celle qui manquait à Alan, toujours sans sans-cercle.
+  parlent. Au raid, tenue dehors avec Ed : le Généralissime vient tuer en
+  personne, puis interroge Ed ; elle ignore ce qu'il est. Le sang de Martel
+  rend à Al la nuit de 1910 et la Porte : il est une âme, celle qui manquait
+  à Alan.
   Retour à Rush Valley : Winry retrouvée, rituel de sommeil sans Monsieur
-  Lapinou ; Ling Yao, Lan Fan et Fu ; la ville saccagée puis réparée.
+  Lapinou ; Ling Yao, Lan Fan et Fu ; la ville saccagée, puis réparée par Al
+  SANS CERCLE : il a la compensation, et sa lecture de 1911 tombe.
   Départ pour Central avec Ed, Al, Winry, et Ling dans leur sillage.
 - 1914 (R10) - Central : Hughes et Scar. Mustang parle de retraite ; Ross
   dit le meurtre de Hughes ; chez Gracia, Elicia orpheline de père. Elle voit
