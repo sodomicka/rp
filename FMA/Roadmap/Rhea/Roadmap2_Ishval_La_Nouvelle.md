@@ -1,10 +1,10 @@
 # Roadmap 2 - Ishval, la nouvelle
 
-- version : W5
+- version : W6
 - statut : à venir ; JOUABLE
-- prota / POV : Rhea (10 -> 11 ans), POV strict : on ne quitte jamais Resembool
+- prota / POV : Rhea (13 -> 14 ans), POV strict : on ne quitte jamais Resembool
 - échelle temporelle : ~1 an (début 1909 -> fin 1909) ; le liant (départ des frères, mois d'absence) se compresse, les scènes fortes (l'annonce, le feu, le retour) se jouent
-- borne d'entrée : suite de Roadmap 1. Fin 1908, Rhea a 10 ans ; Sarah et Yuri sont absents depuis leur dernier départ de 1907, aucune nouvelle n'est parvenue.
+- borne d'entrée : suite de Roadmap 1. Fin 1908, Rhea a 13 ans ; Sarah et Yuri sont absents depuis leur dernier départ de 1907, aucune nouvelle n'est parvenue.
   - Sarah et Yuri sont morts à Ishval en 1908 ; Rhea l'apprend par la nouvelle, en 1909.
 - borne de sortie : fin 1909, la mort est sue, le deuil traversé, les frères rentrés -> Roadmap 3. Acquis à la sortie :
   - les sœurs sont désormais « jumelles » (fusion scellée dans le deuil, plus fort que le deuil d'Alan) ;
@@ -19,10 +19,11 @@
 Le deuil des parents, vécu de Resembool sans jamais voir Ishval : les deux sœurs deviennent jumelles, et l'antimilitarisme de Rhea naît d'une image concrète, un gamin en uniforme venu solder des morts avec une enveloppe d'argent.
 
 ## Itinéraire (jalons)
-1. Le départ des frères [début 1909, compressible, AU CHOIX] : Resembool ; Dublith hors-champ. Ed (10 ans) et Al (9 ans) partent s'entraîner ~6 mois chez Izumi à Dublith. Les amis d'enfance s'en vont, insouciants ; Resembool se vide d'eux. Tchekhov : transmutation sans cercle connue des Elric ; penchant Al. Avance quand les frères sont partis.
+1. Le départ des frères [début 1909, compressible, AU CHOIX] : Resembool ; Dublith hors-champ. Ed (13 ans) et Al (12 ans) partent s'entraîner ~6 mois chez Izumi à Dublith. Les amis d'enfance s'en vont, insouciants ; Resembool se vide d'eux. Tchekhov : transmutation sans cercle connue des Elric ; penchant Al. Avance quand les frères sont partis.
 2. L'absence [quelques mois, compressible, AU CHOIX] : Resembool. Le trio se resserre : Rhea, Winry, Pinako. Le quotidien de l'atelier, sans les garçons. Avance quand la nouvelle arrive.
+2bis. L'école sans les garçons [1909, AU CHOIX] : l'école du bourg. Ed parti, la classe perd son rival et son bouclier : Winry fait bouclier seule. Après la nouvelle (jalon 3), les sœurs manquent l'école ensemble les premiers jours : Rhea n'y va pas sans Winry, et Winry n'y va pas. Avance avec l'absence.
 3. L'annonce [une nuit, JOUÉE] : maison Rockbell. Les filles dorment ; elles entendent Pinako hausser le ton - ce qui n'arrive jamais sérieusement - et pas d'Ed pour chahuter mamie : anormal. Intriguées, elles descendent. Un soldat lambda, la vingtaine, de corvée de courrier, tend une enveloppe (l'indemnité). Pinako la jette au sol : « l'argent ne me rendra pas mon fils. » Rhea comprend dans l'instant. Et elle se connaît : avec son zéro filtre, c'est ELLE qui risque de jeter la vérité crûment à Winry, sans le moindre ménagement. Elle ne veut pas que sa sœur l'apprenne comme ça. Alors elle la serre fort contre elle, pleure, et se mord l'intérieur de la joue jusqu'au sang - se mutiler pour se forcer, ELLE, à se taire. Puis Winry comprend seule. Le germe de l'antimilitarisme est déjà là, dans l'image obscène d'un gamin en uniforme venu solder des morts avec une enveloppe d'argent. Tchekhov : Scar / parents (planté, tueur tu). Avance quand la vérité est sue.
-4. La naissance des jumelles [au cœur de l'annonce, JOUÉE] : maison Rockbell. Dans le partage de la douleur la plus vive, les deux sœurs deviennent jumelles - plus fort que pour Alan, car Rhea est hypersensible au deuil depuis 1903. Avance quand le lien est scellé.
+4. La naissance des jumelles [au cœur de l'annonce, JOUÉE] : maison Rockbell. Dans le partage de la douleur la plus vive, les deux sœurs deviennent jumelles - plus fort que pour Alan, car Rhea est hypersensible au deuil depuis 1900. Avance quand le lien est scellé.
 5. Pinako au coin du feu [un soir, JOUÉE] : maison Rockbell. Pinako a tenu debout en façade devant les filles ; sa digue ne lâche que seule, plus tard. Un soir, elle pleure près du feu. Rhea vient réclamer l'histoire du soir, tombe sur mamie en larmes, reste dix minutes sans se faire remarquer ; Winry est restée dans la chambre ; Rhea, plantée dans le couloir, est incapable de trancher entre son rituel et mamie qui pleure, ni de savoir comment réagir.
 5bis. Les jumelles à l'atelier [quelques mois, AU CHOIX] : atelier Rockbell. Le deuil se travaille à quatre mains : les deux sœurs ne se quittent plus, la dépendance de Rhea à Winry s'accroît. C'est ainsi que les frères les trouvent au jalon 6. Avance au retour des frères.
 6. Le retour des frères [un jour, JOUÉE] : Resembool. Ed et Al rentrent gonflés de leur entraînement, pressés d'annoncer à Rhea que leur Maître transmute aussi sans cercle. Ils trouvent les deux sœurs collées, travaillant tristement un automail ensemble : ils comprennent tout de suite. Winry raconte calmement, puis Rhea prend le relais - crise, les mots se bousculent, elle craque et s'effondre dans les bras de sa jumelle, qui la calme. Ed se vante de réagir avec plus d'empathie, lui ; Al lui colle une patate en plein visage ; Ed s'excuse aussitôt. Apogée de l'admiration de Rhea pour Al - celui qui sait quand se taire, et qui engueule son grand frère pour ça. Tchekhov : penchant Al (apogée) ; transmutation sans cercle connue des Elric. Avance quand les retrouvailles sont faites.
@@ -32,10 +33,11 @@ Le deuil des parents, vécu de Resembool sans jamais voir Ishval : les deux sœu
 - Avant la nouvelle : l'atelier à trois, sans les garçons ; personne pour chahuter mamie.
 - Après la nouvelle, un uniforme croisé au bourg : Rhea se fige et le fixe trop longtemps ; Winry la tire par la main.
 - Les nuits d'après : Rhea se réveille en crise ; Winry coupe par le corps, explique après ; Monsieur Lapinou entre elles.
+- École, après la nouvelle : un camarade dit « tes parents » à Winry ; Rhea répond à sa place, trop fort, trop vrai.
 - Le soir, Pinako fume la pipe dehors ; les deux sœurs s'assoient de part et d'autre, sans rien dire.
 
 ## Casting convoqué
-- Rhea - POV, 10 -> 11 ans - cf. Personnages/Rhea.md
+- Rhea - POV, 13 -> 14 ans - cf. Personnages/Rhea.md
 - Winry Rockbell - sœur, puis jumelle - cf. Personnages/Winry_Rockbell.md
 - Pinako Rockbell - reçoit la nouvelle, jette l'enveloppe, pleure seule au coin du feu - cf. Personnages/Pinako_Rockbell.md
 - Edward Elric - part chez Izumi, rentre, maladresse d'empathie - cf. Personnages/Edward_Elric.md
@@ -57,7 +59,7 @@ Le deuil des parents, vécu de Resembool sans jamais voir Ishval : les deux sœu
 ### Interdits
 - Quitter Resembool ou voir Ishval - casserait le POV strict de l'arc.
 - Apprendre l'identité du tueur des parents - casserait le Tchekhov Scar / parents, qui détone en 1914, plus tard que la première rencontre avec Scar (Roadmap 6, face-à-face sans révélation).
-- Révéler aux Elric son 1903 ou sa lésion - casserait la révélation actée pour 1914 (charnière) et la fracture de Roadmap 3, qui se joue sans qu'elle s'explique.
+- Révéler aux Elric son 1900 ou sa lésion - casserait la révélation actée pour 1914 (charnière) et la fracture de Roadmap 3, qui se joue sans qu'elle s'explique.
 - Avouer son penchant pour Al - casserait le nœud Rhea/Al, avoué seulement à la fin du périmètre.
 
 ## Verrous

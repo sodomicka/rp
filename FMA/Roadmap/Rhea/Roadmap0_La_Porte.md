@@ -1,10 +1,10 @@
 # Roadmap 0 - La Porte
 
-- version : W5
+- version : W6
 - statut : à venir ; JOUABLE
-- prota / POV : Rhea (5 ans, née le 30 janvier 1898), POV unique
-- échelle temporelle : ~10 jours à ~2 semaines (1903) : rituel instantané, ~1 semaine prostrée face à la masse, ~1 jour d'alerte, quelques heures à quelques jours de secours, ~2 jours de route
-- borne d'entrée : in medias res, les mains de Rhea sur le cercle, seule dans la chaumière du village natal (1903). Le « avant » est acquis, posé par bribes, jamais rejoué :
+- prota / POV : Rhea (5 ans, née le 30 janvier 1895), POV unique
+- échelle temporelle : ~10 jours à ~2 semaines (1900) : rituel instantané, ~1 semaine prostrée face à la masse, ~1 jour d'alerte, quelques heures à quelques jours de secours, ~2 jours de route
+- borne d'entrée : in medias res, les mains de Rhea sur le cercle, seule dans la chaumière du village natal (1900). Le « avant » est acquis, posé par bribes, jamais rejoué :
   - village minier à ~2 jours de marche de Resembool, jamais nommé ;
   - le père (mineur veuf, féru d'alchimie) est mort ~3 mois plus tôt dans un éboulement ; Alan, frère cadet (4 ans), est mort de l'amiante l'avant-veille, son corps repose sous une couverture ;
   - isolement de son propre fait : durant ces 3 mois, des villageois ont proposé de l'aide, Rhea n'a jamais ouvert la porte. Ce n'est pas un abandon du village ;
@@ -22,7 +22,7 @@
 Générateur d'origine : poser le prix que la Vérité fait payer à une enfant de 5 ans pour avoir voulu voir et aimer un mort, et l'horreur de la-chose-qui-n'est-pas-Alan, d'où découle tout le personnage. Linéaire et verrouillé : la scène se joue, le fil ne détone jamais.
 
 ## Itinéraire (jalons)
-1. Les mains sur le cercle [1903, instantané, JOUÉE] : le rituel de transmutation humaine s'active dans la chaumière. Tchekhov : statut de sacrifice (planté). Avance quand le cercle prend.
+1. Les mains sur le cercle [1900, instantané, JOUÉE] : le rituel de transmutation humaine s'active dans la chaumière. Tchekhov : statut de sacrifice (planté). Avance quand le cercle prend.
 2. La Porte et la Vérité [hors-temps, JOUÉE] : aperçu du savoir ; péage infligé - punie pour avoir voulu VOIR et AIMER un mort (œil droit + cortex orbitofrontal). Tchekhov : statut de sacrifice ; parallèle deuil-transmutation. Avance quand la Vérité prélève le péage et renvoie.
 3. Retour de flamme [~1 semaine, JOUÉE] : réveil dans le sang face à une masse difforme gémissante - pas Alan. 3 jours sans traverser la pièce ni boire, ~1 semaine sans manger. Tchekhov : parallèle deuil-transmutation. Avance à l'épuisement extrême, quand l'alerte est donnée.
 4. L'alerte [~1 jour, AU CHOIX] : le propriétaire (loyer impayé) découvre la scène et ameute le village, terrifié. Chaumière, puis village. Avance quand Pinako, de passage, est prévenue.
@@ -60,7 +60,7 @@ Entre les jalons 5 et 6 seulement : avant, Rhea est seule face à la masse, rien
 - Monsieur Lapinou est emporté.
 ### Interdits
 - Nommer le village, nommer le père, laisser fuir une ascendance - casserait le générateur d'origine, qui ne détone jamais (décision worldbuilder, toute la saga).
-- Assister à l'achèvement de la masse - casserait le hors-champ de R0 et le renversement de Roadmap 3 (en 1910, c'est Rhea qui porte le coup qu'elle n'a pas vu porter en 1903).
+- Assister à l'achèvement de la masse - casserait le hors-champ de R0 et le renversement de Roadmap 3 (en 1910, c'est Rhea qui porte le coup qu'elle n'a pas vu porter en 1900).
 - Laisser subsister une créature, une rumeur ou une conséquence du village - même décision : Pinako musèle le village, rien n'en ressort.
 - Transmuter sans cercle - la capacité est acquise mais dormante à 5 ans, sur toute la durée de R0.
 

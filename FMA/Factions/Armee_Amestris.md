@@ -39,7 +39,7 @@ Force de maintien de l'ordre dans les villes. Pas de grades militaires apparents
 ## Fonction narrative pour ce RP
 
 Cible principale de l'antimilitarisme de la protagoniste (cf. Personnages/Rhea.md).
-Appareil qui a rendu la protagoniste orpheline une seconde fois (guerre d'Ishval, parents Rockbell) et qui recrute les enfants-soldats alchimistes (Ed à 12 ans).
+Appareil qui a rendu la protagoniste orpheline une seconde fois (guerre d'Ishval, parents Rockbell) et qui recrute les enfants-soldats alchimistes (Ed à 15 ans).
 
 ## Renvois
 

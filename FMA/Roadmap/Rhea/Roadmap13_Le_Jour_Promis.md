@@ -2,7 +2,7 @@
 
 - version : W5
 - statut : à venir ; JOUABLE
-- prota / POV : Rhea (17 ans), POV strict
+- prota / POV : Rhea (20 ans), POV strict
 - échelle temporelle : une journée (printemps 1915), éclipse comprise ; les pages ép. 50-63 ne donnent aucune heure, seulement l'éclipse qui commence, s'approfondit, passe, et la nuit qui tombe à la fin. Rien ne s'ellipse : le temps file d'un combat à l'autre.
 - borne d'entrée : suite de Roadmap 12. Kanama, le matin du Jour Promis : groupes d'Ed et de Scar réunis ; Al sous le dôme avec Pride ; Winry à Resembool avec Pinako.
   - Rhea sait : le Jour Promis, l'éclipse, les cinq sacrifices, qu'elle en est un valable (pas si Père la connaît) ; le contre-cercle ; Selim = Pride ; Ross vivante si Ed le lui a dit.
@@ -39,7 +39,7 @@ Une journée sans pause : ce sont des respirations, pas des scènes.
 - Sans alchimie (jalon 6) : Cliquetis dans la poche, la roulette qu'on fait tourner du pouce.
 
 ## Casting convoqué
-- Rhea - POV, 17 ans - cf. Personnages/Rhea.md
+- Rhea - POV, 20 ans - cf. Personnages/Rhea.md
 - Edward Elric - sacrifice, Pride, le poing - cf. Personnages/Edward_Elric.md
 - Alphonse Elric - sacrifice, reste dans l'armure, l'échange - cf. Personnages/Alphonse_Elric.md
 - Roy Mustang, Riza Hawkeye - le coup, Envy, le cinquième - cf. Personnages/Roy_Mustang.md, Riza_Hawkeye.md
@@ -75,7 +75,7 @@ Une journée sans pause : ce sont des respirations, pas des scènes.
 - Combattre Pride avec Ed, croiser Kimblee - Ed reste seul contre Pride (jalon 6).
 - Rejoindre l'armée, même rebelle - antimilitarisme ; elle se bat à côté, pas dedans.
 - Avouer son attirance pour Al - fin du périmètre (R14).
-- Révéler le 1903 hors Elric, Rockbell, Izumi - verrou du pourquoi.
+- Révéler le 1900 hors Elric, Rockbell, Izumi - verrou du pourquoi.
 - Reprendre Monsieur Lapinou - il est à Winry.
 
 ## Verrous
@@ -94,7 +94,7 @@ Une journée sans pause : ce sont des respirations, pas des scènes.
 - Embranchement, jalons 3-4 : « repérée » (héritée, ou acquise au jalon 4H) -> Rhea cinquième sacrifice, Mustang garde la vue, Riza indemne. « Hors radar » -> canon : Mustang aveugle. Une seule Roadmap 14 porte les deux états.
 
 ## Notes de frontière
-- Statut, règle de R12 appliquée : « repérée » = Rhea parmi les sacrifices, les homonculus la veulent vivante. Elle a ouvert la Porte : la Vérité la prend et la ramène à Père comme les autres sacrifices (décision worldbuilder). Sacrifice ne veut pas dire nouveau péage : elle a déjà payé en 1903 ; Père l'utilise comme clé.
+- Statut, règle de R12 appliquée : « repérée » = Rhea parmi les sacrifices, les homonculus la veulent vivante. Elle a ouvert la Porte : la Vérité la prend et la ramène à Père comme les autres sacrifices (décision worldbuilder). Sacrifice ne veut pas dire nouveau péage : elle a déjà payé en 1900 ; Père l'utilise comme clé.
 - Témoins du Jour Promis : Pride et Bradley au jalon 4H (bascule possible) ; Envy au jalon 2 meurt sans revoir Père : pas le temps d'en faire rapport, rien ne remonte (règle de R12). Après la transmutation de Mustang, Père a ses cinq : plus de bascule.
 - Silence de Mustang (1910) : ne détone pas en R13, il n'a ni le temps ni l'envie de s'en vanter. Ironie au CODEX ; « repérée », elle lui rend la vue sans le savoir. Détonation possible en R14.
 - Mustang voyant : il combat Père sans Riza pour viser ; le reste suit le canon.

@@ -48,7 +48,7 @@ chez lui. Tué avec la chimère, la nuit même, par Scar.
 ## Rapport à la protagoniste
 
 - 1914 (R6) : l'alchimie du vivant dans ce qu'elle a de pire, sur une
-  enfant. Pour Rhea, la chimère rappelle la chose de 1903 et celle de 1910,
+  enfant. Pour Rhea, la chimère rappelle la chose de 1900 et celle de 1910,
   à une différence près : Nina a encore une âme et appelle Ed « grand
   frère ». Nina et Alexander s'attachent à Rhea comme jadis Alan et Winry.
   Rhea ne tue ni Tucker ni la chimère (verrou). Détail : cf.

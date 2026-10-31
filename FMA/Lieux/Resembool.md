@@ -25,7 +25,7 @@ Lieu de nombreux événements-clés de la série.
 
 ## Fonction narrative pour ce RP
 
-Foyer d'adoption de la protagoniste : Pinako l'a recueillie (~1903-1904) après l'incident de son village natal (cf. Personnages/Rhea.md).
+Foyer d'adoption de la protagoniste : Pinako l'a recueillie (1900) après l'incident de son village natal (cf. Personnages/Rhea.md).
 La protagoniste grandit ici comme sœur de Winry, enfant de Sarah et Yuri, petite-fille de Pinako, amie des Elric.
 Village de la protagoniste (natal) : distinct de Resembool, à ~deux jours de marche. Petit village minier, sans nom retenu (effacé de la mémoire de la protagoniste). Cf. Personnages/Rhea.md et Parties/.
 Point de départ et d'arrivée du périmètre joué : la maison Rockbell est la base de chaque retour (R6, R12) ; la chambre des deux sœurs clôt la saga (R14, la première nuit de retour, Monsieur Lapinou et Cliquetis). Cf. Roadmap/Rhea/Roadmap14_Retour_A_Resembool.md.

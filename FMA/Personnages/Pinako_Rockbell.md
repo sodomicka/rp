@@ -12,7 +12,7 @@ Voisine et amie de longue date des Elric (connaît Hohenheim depuis les années 
 ## Physique et âge
 Petite, âgée, silhouette menue mais poigne solide. Fume la pipe.
 Âge jamais donné par le canon : déjà adulte sur des photos de Resembool de 1866, où elle trinque avec Hohenheim.
-Fils Yuri né en 1873.
+Fils Yuri né en 1870.
 
 ## Personnalité
 Franche, directe, sans détour ; dit aux gens ce qu'elle pense, surtout à Ed et Al quand ils fautent.

@@ -1,11 +1,11 @@
 # Edward Elric
 
-- version : W18
+- version : W19
 
 ## Identité
 
 Fils aîné de Trisha Elric et Van Hohenheim, de Resembool. Frère aîné d'Alphonse.
-Né en 1899. Plus jeune Alchimiste d'État de l'histoire (examen à 12 ans, en 1911).
+Né en 1896. Plus jeune Alchimiste d'État de l'histoire (examen à 15 ans, en 1911 ; 12 ans dans le canon).
 Titre : le Fullmetal Alchemist (Alchimiste d'acier). Surnoms moqueurs sur sa petite taille.
 
 ## Physique
@@ -31,7 +31,7 @@ Corps compact et musclé (entraînement spartiate d'Izumi : « entraîner le cor
 
 Père parti tôt. Mort de Trisha (1904). Apprentissage chez Izumi Curtis (1909, six mois).
 1910 : transmutation humaine ratée de Trisha avec Al -> perd la jambe gauche ; scelle l'âme d'Al dans une armure au prix de son bras droit.
-1911 : examen d'État (12 ans) ; incendie de la maison familiale (3 octobre 1911 ; gravé dans sa montre : « N'oublie pas 3 Oct. 11 ») et départ pour la quête APRÈS l'examen.
+1911 : examen d'État (15 ans) ; incendie de la maison familiale (3 octobre 1911 ; gravé dans sa montre : « N'oublie pas 3 Oct. 11 ») et départ pour la quête APRÈS l'examen.
 Quête : restaurer leurs corps via la Pierre philosophale.
 
 ## Relations (neutres)
@@ -47,7 +47,7 @@ Quête : restaurer leurs corps via la Pierre philosophale.
 
 Ami d'enfance de la protagoniste (elle est un peu plus âgée). En 1910, Ed et Al cachent leur transmutation à tous, y compris à la protagoniste : source de rage pour elle. Détail : cf. Personnages/Rhea.md.
 - 1911-1914 (R4) : revient ponctuellement à Resembool pour l'entretien de son automail ; Rhea le soigne sans lui adresser un mot.
-- 1914 (R4) : revenu avec l'automail amoché et une piste sur la Pierre (Liore), c'est lui qui rompt trois ans de silence pour recruter Rhea - le plus dur à convaincre, poussé par Al et Winry. Apprend alors le 1903 de Rhea.
+- 1914 (R4) : revenu avec l'automail amoché et une piste sur la Pierre (Liore), c'est lui qui rompt trois ans de silence pour recruter Rhea - le plus dur à convaincre, poussé par Al et Winry. Apprend alors le 1900 de Rhea.
 - 1914 (R5) : à Liore, démasque Cornello avec Rhea dans le trio ; la Pierre se révèle fausse. Rhea consolide son automail après le combat.
 - 1914 (R6) : à East City, démasque Tucker ; Scar détruit son bras. Vérifie le sceau pendant que Rhea reconstruit l'armure d'Al. Reçoit de Marcoh l'indice de la bibliothèque de Central. À Resembool, son nouveau bras est forgé par Winry et Rhea.
 - 1914 (R7) : à Central, décode les notes de Marcoh (la Pierre = vies humaines) ; entre seul au Laboratoire 5 pendant que Rhea et Al restent dehors ; hospitalisé, appelle Winry. Exige qu'on taise le laboratoire à Winry - ce que Rhea ne sait pas faire. Se bat avec Al sur le toit de l'hôpital et se réconcilie. Part pour Dublith avec Al, Winry et Rhea.

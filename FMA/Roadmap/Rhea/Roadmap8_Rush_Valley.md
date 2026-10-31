@@ -2,10 +2,10 @@
 
 - version : W5
 - statut : à venir ; JOUABLE
-- prota / POV : Rhea (16 ans), POV strict
+- prota / POV : Rhea (19 ans), POV strict
 - échelle temporelle : deux jours environ (1914 ; le canon ne chiffre rien) : l'arrivée, le vol de la montre et la montagne de Dominic (jour 1), la nuit d'orage, la séparation au train de Dublith (lendemain)
-- borne d'entrée : suite de Roadmap 7. 1914, Rhea a 16 ans. Elle descend vers le Sud en train avec Ed, Al et Winry ; Rush Valley est sur la route de Dublith.
-  - Clivage du savoir : les Elric savent le 1903 de Rhea et sa lésion. Winry sait tout ; elle peut savoir pour la Pierre et le Laboratoire 5 (choix du joueur en R7). Personne hors Elric et Rockbell ne sait pourquoi Rhea transmute sans cercle.
+- borne d'entrée : suite de Roadmap 7. 1914, Rhea a 19 ans. Elle descend vers le Sud en train avec Ed, Al et Winry ; Rush Valley est sur la route de Dublith.
+  - Clivage du savoir : les Elric savent le 1900 de Rhea et sa lésion. Winry sait tout ; elle peut savoir pour la Pierre et le Laboratoire 5 (choix du joueur en R7). Personne hors Elric et Rockbell ne sait pourquoi Rhea transmute sans cercle.
   - Nœud Rhea/Al : la carte d'Al a deux lignes (le métal la calme ; ce qu'elle lui a dit, ou non, de l'âme en R7).
   - Objets : Cliquetis avec Rhea ; Monsieur Lapinou à Resembool. Le bras d'Ed porte le métal de Rhea et la mécanique refaite par Winry à Central.
   - Hughes est mort à Central avant le départ, et enterré pendant le voyage ; personne dans le train ne le sait.
@@ -19,7 +19,7 @@
 - roadmap suivante : cf. WIKI Roadmap/Rhea/Roadmap9_Dublith_Izumi_Et_Greed.md
 
 ## Intention
-La respiration sororale entre le charnier de Central et la maîtresse de Dublith. Rush Valley est le rêve de Winry et le cauchemar de Rhea : la foule, le métal partout, des mécaniciens qui veulent voir. Winry s'y épanouit, et Rhea mesure ce qu'elle a accepté en 1914 : sa sœur sera heureuse sans elle. Une voleuse aux jambes d'acier, un vieux maître qui refuse tout le monde, une montre qui porte la date de l'incendie. Et, dans la nuit d'orage, une naissance : l'inverse exact de 1903, un corps qui arrive avec une âme, que personne n'a eu à appeler.
+La respiration sororale entre le charnier de Central et la maîtresse de Dublith. Rush Valley est le rêve de Winry et le cauchemar de Rhea : la foule, le métal partout, des mécaniciens qui veulent voir. Winry s'y épanouit, et Rhea mesure ce qu'elle a accepté en 1914 : sa sœur sera heureuse sans elle. Une voleuse aux jambes d'acier, un vieux maître qui refuse tout le monde, une montre qui porte la date de l'incendie. Et, dans la nuit d'orage, une naissance : l'inverse exact de 1900, un corps qui arrive avec une âme, que personne n'a eu à appeler.
 
 ## Itinéraire (jalons)
 1. Rush Valley [jour 1, AU CHOIX] : gare, rue principale. La ville de l'automail, née du boom de la guerre d'Ishval : boutiques et ateliers à perte de vue. Winry en extase. Les mécaniciens s'attroupent autour d'Ed et le déshabillent pour voir ses membres. Pour Rhea : foule, bruit, métal ; agoraphobie au plus haut, Winry en bouclier comme à Resembool. Al peut lui ouvrir un passage (sa carrure écarte la foule) : s'il le fait, une ligne de plus sur sa carte. Transmuter en public : au choix du joueur ; conséquence par défaut ci-dessous (Notes de frontière). Avance quand la montre d'Ed a disparu dans la cohue.
@@ -40,7 +40,7 @@ Toutes en présence de Rhea ; aucune ne laisse filer Hughes.
 - À la gare : les avis de recherche de Scar et d'autres (ép. 11) ; Rhea regarde le visage du tueur d'East City.
 
 ## Casting convoqué
-- Rhea - POV, 16 ans ; la foule, la montre, la naissance, la séparation - cf. Personnages/Rhea.md
+- Rhea - POV, 19 ans ; la foule, la montre, la naissance, la séparation - cf. Personnages/Rhea.md
 - Winry Rockbell - le rêve réalisé, l'accouchement, reste chez Garfiel - cf. Personnages/Winry_Rockbell.md
 - Edward Elric - la montre volée ; apprend que Winry a vu la date - cf. Personnages/Edward_Elric.md
 - Alphonse Elric - poursuite et cage de fer, bouclier dans la foule (option) - cf. Personnages/Alphonse_Elric.md
@@ -73,7 +73,7 @@ Toutes en présence de Rhea ; aucune ne laisse filer Hughes.
 - Apprendre, ou laisser Winry apprendre, que Scar a tué Sarah et Yuri - Roadmap 10.
 - Rencontrer Izumi, Ling Yao, Lan Fan, Fu ou Greed - Roadmap 9.
 - Transmuter de l'organique, y compris pour l'accouchement - trauma de Rhea, stable.
-- Révéler le pourquoi du sans-cercle (le 1903) à Paninya, Dominic, Ridel, Satella ou Garfiel - verrouillé hors Elric et Rockbell.
+- Révéler le pourquoi du sans-cercle (le 1900) à Paninya, Dominic, Ridel, Satella ou Garfiel - verrouillé hors Elric et Rockbell.
 - Rejoindre l'armée ou passer l'examen d'État - antimilitarisme sur toute la saga.
 - Avouer son attirance pour Al - nœud avoué seulement à la fin du périmètre.
 

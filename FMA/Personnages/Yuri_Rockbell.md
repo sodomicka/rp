@@ -6,7 +6,7 @@
 
 Chirurgien, fils de Pinako, époux de Sarah, père de Winry.
 De Resembool. Amestrien.
-Né en 1873.
+Né en 1870.
 
 ## Personnalité
 

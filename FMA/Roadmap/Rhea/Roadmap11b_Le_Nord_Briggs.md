@@ -2,10 +2,10 @@
 
 - version : W4
 - statut : à venir ; JOUABLE
-- prota / POV : Rhea (16 ans), POV strict
+- prota / POV : Rhea (19 ans), POV strict
 - échelle temporelle : quelques semaines (fin 1914 ; aucune durée dans les pages ép. 33-40 ni ch. 64-80) : le train et la montagne, Briggs (Olivier, Sloth, le tunnel, Kimblee et Winry), Baschool. Les 17 ans de Rhea (30 janvier 1915) tombent en Roadmap 12.
 - borne d'entrée : suite de Roadmap 11a. La gare de Central, le train du Nord, avec les frères, pour Briggs.
-  - Clivage du savoir : le 1903 connu des seuls Elric, Rockbell et Izumi.
+  - Clivage du savoir : le 1900 connu des seuls Elric, Rockbell et Izumi.
   - Rhea sait : Hughes assassiné ; Ross vivante si Ed le lui a dit (secret) ; Scar a tué Sarah et Yuri ; Bradley est un homonculus ; Père sous Central ; Ling habité par Greed ; le corps d'Al devant la Porte ; Envy a allumé Ishval ; Winry otage de Bradley ; le récit d'Ishval de Riza.
   - Nœud Rhea/Al : Al transmute sans cercle (R9) ; il a un corps à reprendre, Alan n'en avait plus.
   - Objets : Cliquetis avec Rhea ; Monsieur Lapinou à Resembool.
@@ -39,7 +39,7 @@ Toutes en présence de Rhea ; aucune ne montre un homonculus hors de Sloth et de
 - Les galeries : Yoki qui se lamente, May et Shao Mei, Marcoh au visage neuf.
 
 ## Casting convoqué
-- Rhea - POV, 16 ans - cf. Personnages/Rhea.md
+- Rhea - POV, 19 ans - cf. Personnages/Rhea.md
 - Edward Elric - tenu par Winry, Briggs, Baschool - cf. Personnages/Edward_Elric.md
 - Alphonse Elric - isolé au cachot, épargne les chimères - cf. Personnages/Alphonse_Elric.md
 - Winry Rockbell - amenée à Briggs par Kimblee, la ruse, soigne Scar - cf. Personnages/Winry_Rockbell.md
@@ -74,7 +74,7 @@ Toutes en présence de Rhea ; aucune ne montre un homonculus hors de Sloth et de
 - Révéler que Ross est vivante hors Winry - plan de Mustang.
 - Rencontrer Hohenheim - réservé à la Roadmap 12.
 - Transmuter de l'organique, toucher aux blessures de May ou de Scar - trauma stable.
-- Révéler le 1903 hors Elric, Rockbell et Izumi - verrou du pourquoi (Scar, May, Olivier, Kimblee compris).
+- Révéler le 1900 hors Elric, Rockbell et Izumi - verrou du pourquoi (Scar, May, Olivier, Kimblee compris).
 - Rejoindre l'armée, s'engager à Briggs ou passer l'examen d'État - antimilitarisme sur toute la saga.
 - Avouer son attirance pour Al - nœud avoué seulement à la fin du périmètre.
 - Reprendre Monsieur Lapinou pour elle - il est à Winry.

@@ -9,7 +9,7 @@ pas les re-litiger. JAMAIS fetché en narration.
 - dernière mise à jour : solde des points ouverts avant le jeu (BIBLE B27, Sommaire W36, 2026-10-31)
 
 ## État d'avancement du chantier
-- Passe 2 : TOUTES les roadmaps ÉCRITES, R0 à R14 (1903 -> retour à
+- Passe 2 : TOUTES les roadmaps ÉCRITES, R0 à R14 (1900 -> retour à
   Resembool, printemps 1915, au gabarit SPEC v9.2 §7).
 - REPRISE R5-R14 EN SÉRIE (worldbuilder, 2026-10-31) : une roadmap à la
   fois, canon revérifié épisode par épisode, modes d'étape et tranches de
@@ -48,13 +48,13 @@ pas les re-litiger. JAMAIS fetché en narration.
   hors Sommaire, conformément à la doctrine.
 - Village natal de Rhea : GÉNÉRATEUR D'ORIGINE, ne détone jamais (ni nom du
   village, ni nom du père, aucune conséquence qui fuit). Seul Alan (frère cadet,
-  mort 1903) subsiste de cette origine. Contrainte dure, pas un fil à armer.
-- RÉVÉLATION DU 1903 DE RHEA (transmutation + lésion) aux Elric : REPORTÉE À
+  mort 1900) subsiste de cette origine. Contrainte dure, pas un fil à armer.
+- RÉVÉLATION DU 1900 DE RHEA (transmutation + lésion) aux Elric : REPORTÉE À
   1914 (R4, au retour des frères). Actée en R3 (frontière). Jusque-là, les Elric ignorent
   TOUT ; la fracture de 1910 se joue SANS que Rhea s'explique. Ne jamais faire
   fuiter avant.
 - Chronologie recalée au build B3 (patch A) : apprentissage Izumi = 1909
-  (Ed 10 ans, Al 9 ans, six mois, retour fin 1909) ; incendie de la maison
+  (Ed 13 ans, Al 12 ans, six mois, retour fin 1909) ; incendie de la maison
   Elric = 1911, APRÈS l'examen d'État (examen -> incendie -> départ pour la
   quête). Montre d'Ed : gravé « N'oublie pas 3 Oct. 11 » (worldbuilder,
   2026-10-31).
@@ -74,7 +74,7 @@ pas les re-litiger. JAMAIS fetché en narration.
   philosophie, R2), c'est que ces abrutis aient PAYÉ LE PRIX tout court.
   Et Al n'en sort même pas avec la compensation : dans la lecture de Rhea,
   preuve qu'il s'est plongé dedans sans y être préparé - encore moins qu'elle
-  en 1903, à 5 ans. Consigné comme LECTURE DE RHEA (sa rationalisation), pas
+  en 1900, à 5 ans. Consigné comme LECTURE DE RHEA (sa rationalisation), pas
   comme règle du monde : le mécanisme réel (aucun souvenir de la Porte) reste
   celui de SB1 / fiche Alphonse, et Rhea l'ignore.
 - DÉCOUPE R3/R4 (rework R3, acté) : R3 = 1910 -> mi-1911, se clôt sur le
@@ -83,12 +83,12 @@ pas les re-litiger. JAMAIS fetché en narration.
   rééducation).
 - R4 PORTE LA CHARNIÈRE (fusion, décision worldbuilder, build B8) : R4 =
   automne 1911 -> 1914 (examen, incendie, quai, froid en SNAPSHOTS, retour
-  des frères, révélation du 1903, départ). Arrêt juste avant le départ pour
+  des frères, révélation du 1900, départ). Arrêt juste avant le départ pour
   Liore. Plus de charnière séparée : 15 roadmaps = R0-R4 pré-canon + R5-R14.
 - R4 - CADRAGE ACTÉ (build B8) : Ed rompt le silence, le plus dur à
   convaincre, poussé par Al et Winry ; Winry et Pinako convainquent Rhea
   (Rush Valley, où elle ne tiendrait pas, ou stagner) - elle part pour ne
-  pas brider le rêve de Winry. Révélation du 1903 REQUISE en R4, seule la
+  pas brider le rêve de Winry. Révélation du 1900 REQUISE en R4, seule la
   manière se joue en jeu (Rhea en flux, ou Winry qui raconte). Winry RESTE
   à Resembool (canon : rejoint à Central R6, Rush Valley R8).
 - AL, APPUI DE RHEA (décision worldbuilder, R4 W2) : Winry demande à Rhea
@@ -106,7 +106,7 @@ pas les re-litiger. JAMAIS fetché en narration.
 - REPÉRAGE SANS-CERCLE SUR PLACE (rework R3, acté) : plus jamais "eu vent
   avant la visite". Deux vecteurs : rumeur de village (le FAIT que la gamine
   Rockbell transmute sans cercle depuis toujours est de notoriété locale ;
-  le POURQUOI 1903 reste verrouillé chez les Rockbell) + démonstration à
+  le POURQUOI 1900 reste verrouillé chez les Rockbell) + démonstration à
   l'atelier (Rhea transmute des chutes d'automail en armes de lancer sous
   les yeux de Mustang ; Winry s'interpose et empêche le lancer). BIBLE
   SB3/SB8 recalées en ce sens.
@@ -124,7 +124,8 @@ pas les re-litiger. JAMAIS fetché en narration.
   porte une seule métadonnée, sa version ; l'historique vit dans git. Ne pas
   réintroduire de bloc "statut / R<N> : ...".
 - ÂGE SUR LA TRAME (build B6) : garde-cap corrigé - "16 ans du début à
-  la fin" -> 16 à l'entrée (1914), 17 au Jour Promis (printemps 1915).
+  la fin" -> 19 à l'entrée (1914), 20 au Jour Promis (printemps 1915),
+  après le décalage d'âge (cf. BIBLE SB3, Notes).
 - Resume.md (W1, build B6) : résumé de l'histoire établie, à mettre à jour
   à chaque BIBLE BUILD. NON indexé au Sommaire (retiré en B7, mode BIBLE).
 
@@ -224,7 +225,7 @@ pas les re-litiger. JAMAIS fetché en narration.
   Rush Valley SANS CERCLE (ch. 33). Les « ~10 jours » et « la foule qui
   applaudit » n'étaient pas sourcés : retirés.
 - R9 - DUBLITH (mode usine, canon ép. 12-15 vérifié sur Wikipedia) :
-  Izumi = EXCEPTION au verrou du 1903 (elle l'a deviné en 1909 ; Rhea peut
+  Izumi = EXCEPTION au verrou du 1900 (elle l'a deviné en 1909 ; Rhea peut
   confirmer, Izumi se tait). Pas d'apprentissage pour Rhea (une leçon au
   plus). Rhea avec Ed au Devil's Nest, DEHORS pendant le raid (verrou) :
   elle voit Bradley de loin, apprend par Al qu'il a tué les chimères, PAS
@@ -315,7 +316,7 @@ pas les re-litiger. JAMAIS fetché en narration.
   ROSS VIVANTE : Ed le confie à Al et Rhea sous le sceau du secret à son
   retour ; Rhea peut le dire à Winry, à personne d'autre.
   LA CHOSE DE 1910 N'ÉTAIT PAS TRISHA (Ed, Hohenheim, l'exhumation) : rien
-  ne change pour Rhea, qui l'a toujours dit ; la chose de 1903 n'était pas
+  ne change pour Rhea, qui l'a toujours dit ; la chose de 1900 n'était pas
   Alan non plus. Hohenheim n'est pas croisé.
   MONSIEUR LAPINOU : reste à Winry (lore R4). Rhea peut demander par
   téléphone à Pinako qu'Ed le rapporte, POUR WINRY ; il repart alors avec
@@ -348,8 +349,8 @@ pas les re-litiger. JAMAIS fetché en narration.
 - R12 - CONVERGENCE (mode usine, canon ép. 39-52 vérifié sur Wikipedia).
   Couvre ép. 40 -> 49 (début) : borne de sortie à l'aube du Jour Promis,
   groupes d'Ed et de Scar réunis. R13 = ép. 49 (suite) -> 63 ; R14 = fin 63
-  et 64. ~3 mois (hiver -> printemps 1915) : les 17 ans de Rhea tombent en
-  R12, entre Liore et Resembool.
+  et 64. ~3 mois (hiver -> printemps 1915) : les 20 ans de Rhea tombent en
+  R12, à Liore.
   STATUT DE SACRIFICE - TRANCHÉ (worldbuilder, 2026-10-31) : Mustang sait,
   mais ne la cite pas en 1910 : il l'a vue vouloir une vie sans problèmes,
   loin de l'armée (qu'elle n'a rejointe qu'indirectement, mécanicienne
@@ -368,7 +369,7 @@ pas les re-litiger. JAMAIS fetché en narration.
   marchande pas avec Père (worldbuilder ; canon ép. 14 : il refuse l'offre
   et se fait refondre).
   RHEA SE SAIT SACRIFICE : Hohenheim à Liore (Jour Promis, cinq sacrifices) ;
-  il reconnaît une survivante de la Porte, ne sait rien du 1903, ne la
+  il reconnaît une survivante de la Porte, ne sait rien du 1900, ne la
   dénonce pas. Elle le dit à Winry (ne ment pas).
   ITINÉRAIRE : Rhea avec Winry (galeries, bidonville du Nord, Liore), démonte
   et remonte Al (sceau intouché) ; piège à Envy, verrou : ne pas le tuer ;
@@ -399,7 +400,7 @@ pas les re-litiger. JAMAIS fetché en narration.
   BASCULE au choix du joueur : sans-cercle devant Pride ou Bradley avant
   la transmutation forcée = Pride l'emmène, Mustang épargné. Après, plus
   de bascule. Envy (jalon 2) meurt sans revoir Père : rien ne remonte.
-  Sacrifice ≠ nouveau péage : elle a payé en 1903.
+  Sacrifice ≠ nouveau péage : elle a payé en 1900.
   AL ET LE SANS-CERCLE : retiré ; acquis à Rush Valley (reprise R9), il le
   garde jusqu'en R14 (décision worldbuilder).
   SILENCE DE MUSTANG : ne détone pas en R13 ; détonable en R14.
@@ -438,11 +439,8 @@ pas les re-litiger. JAMAIS fetché en narration.
   dit.
 
 ## Questions en attente du worldbuilder
-- Q1. Lieu des 17 ans de Rhea (30 janvier 1915, R12 jalon 5) : Liore ou en
-  route. Défaut proposé : Liore.
-- Q2. Gabarit des fiches canon : les entrées datées vivent sous « Rapport à
-  la protagoniste » (seules Izumi et Rhea ont une section « Trajectoire
-  datée »). Défaut proposé : garder tel quel.
+- Beats d'école optionnels en R1 et R2 : rédigés, à valider par le
+  worldbuilder avant fusion.
 
 ## À verser au CODEX à la bascule jeu
 - IRONIE Mustang/Riza (R3, 1910) : Rhea traite Mustang de "génocidaire" sans

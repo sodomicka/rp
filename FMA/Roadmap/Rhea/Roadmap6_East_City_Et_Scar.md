@@ -2,10 +2,10 @@
 
 - version : W5
 - statut : à venir ; JOUABLE
-- prota / POV : Rhea (16 ans), POV strict
+- prota / POV : Rhea (19 ans), POV strict
 - échelle temporelle : une à deux semaines (1914) : quelques jours à East City (le canon dit « les jours suivants » chez Tucker, sans les chiffrer), la pluie le lendemain du meurtre de Tucker, le train avec Armstrong et l'arrêt chez Marcoh, trois jours à Resembool (ch. 9), le départ à l'aube vers Central
-- borne d'entrée : suite de Roadmap 5. 1914, Rhea a 16 ans. Elle arrive à East City avec Ed et Al, au retour de Liore ; Ed doit faire son rapport au QG de Mustang.
-  - Clivage du savoir : les Elric savent le 1903 de Rhea et sa lésion. Mustang (et Riza) savent depuis 1910 qu'elle transmute sans cercle, jamais pourquoi.
+- borne d'entrée : suite de Roadmap 5. 1914, Rhea a 19 ans. Elle arrive à East City avec Ed et Al, au retour de Liore ; Ed doit faire son rapport au QG de Mustang.
+  - Clivage du savoir : les Elric savent le 1900 de Rhea et sa lésion. Mustang (et Riza) savent depuis 1910 qu'elle transmute sans cercle, jamais pourquoi.
   - Nœud Rhea/Al : réconciliation fraîche ; la carte de Winry a échoué, Al observe Rhea pour son compte.
   - Objets : Cliquetis avec Rhea ; Monsieur Lapinou à Resembool, avec Winry.
   - Sarah et Yuri : morts à Ishval, tueur inconnu de Rhea et de Winry (cf. Roadmap 2).
@@ -24,7 +24,7 @@ Le premier arc où l'armée a un visage, et le premier où la mort frappe tout p
 1. East City [jour 1, AU CHOIX] : gare, rues, QG de l'Est. Ville de garnison, uniformes partout : l'agoraphobie de Rhea y trouve sa pire version (foule + armée). Avance à l'arrivée au QG.
 2. Le QG de Mustang [jour 1, JOUÉE] : bureau du colonel Mustang. Ed fait son rapport sur Liore et demande qui, dans l'alchimie du vivant, pourrait l'aider à rendre leur corps aux frères. Retrouvailles avec Mustang (et Riza, son adjointe), quatre ans après l'atelier (1910). Mustang ne refait pas son offre ; son arsenal rhétorique tombe toujours dans le vide. Rhea entre ou attend dehors : au choix du joueur. Mustang oriente les frères vers Shou Tucker, Alchimiste d'État chimériste : sa première chimère parlait, et ne disait que vouloir mourir. Avance au départ chez Tucker.
 3. La maison Tucker [les jours suivants, AU CHOIX] : maison de Tucker, bibliothèque. Le sous-lieutenant Havoc les escorte et rappelle que l'évaluation annuelle de Tucker approche : son titre et ses crédits en dépendent. Tucker ouvre sa bibliothèque ; sa fille Nina, petite et joyeuse, et le grand chien Alexander. Les frères étudient, jouent avec Nina pendant que Tucker s'enferme. Rhea : chimères = alchimie du vivant, son trauma (elle ne touche rien dans le laboratoire). Nina et Alexander s'accrochent à elle sans rien demander, comme Winry et Alan jadis (éponge à affection). Avance au soir où la maison est silencieuse.
-4. La chimère [un soir, JOUÉE] : laboratoire de Tucker, maison obscure. Tucker présente une nouvelle chimère qui parle ; elle dit « grand frère ». Ed comprend : Nina et Alexander, comme sa première chimère venait de sa femme disparue. Tucker lui renvoie sa propre transmutation humaine. Pour Rhea, c'est la chose de 1903 et de 1910, sauf que celle-ci a encore une âme et appelle Ed. Ed frappe Tucker avec son automail ; Al l'arrête. Rhea face à la chimère et à Tucker : verrou (cf. Verrous). Tucker est gardé chez lui par des soldats. Avance à l'arrestation.
+4. La chimère [un soir, JOUÉE] : laboratoire de Tucker, maison obscure. Tucker présente une nouvelle chimère qui parle ; elle dit « grand frère ». Ed comprend : Nina et Alexander, comme sa première chimère venait de sa femme disparue. Tucker lui renvoie sa propre transmutation humaine. Pour Rhea, c'est la chose de 1900 et de 1910, sauf que celle-ci a encore une âme et appelle Ed. Ed frappe Tucker avec son automail ; Al l'arrête. Rhea face à la chimère et à Tucker : verrou (cf. Verrous). Tucker est gardé chez lui par des soldats. Avance à l'arrestation.
 5. Le rapport [même soir, AU CHOIX] : QG ou rue. Ed rapporte l'horreur à Mustang et admet que sa voie d'Alchimiste d'État l'exposera à pire, et pourra un jour exiger la cruauté ; il décide d'avancer quand même. Rhea l'entend dire par Ed, devant un colonel. Avance au lendemain.
 6. La nouvelle [lendemain, AU CHOIX] : QG de l'Est. Riza apprend aux frères que Tucker, menacé de radiation et de cour martiale, a été tué dans la nuit avec la chimère, et les gardes avec eux. Hughes et Armstrong, venus de Central, examinent les meurtres : la manière est celle d'un homme qu'ils traquent, marqué au front d'une cicatrice en croix, qui a déjà tué des Alchimistes d'État dans tout le pays, le général de brigade Basque Grand parmi eux. Avance quand les frères sortent.
 7. La pluie [même jour, JOUÉE] : une rue d'East City, sous la pluie. Les frères restent assis sous la pluie, avec Rhea. Scar les trouve. Fuite ratée : Scar éventre l'armure d'Al (le sceau tient) et réduit en morceaux le bras d'automail d'Ed. Ed lui offre sa vie contre celle d'Al ; Al le supplie de fuir. Rhea combat ou non : au choix du joueur (conséquences : cf. Notes de frontière). Mustang et ses hommes encerclent Scar ; Scar dit être l'instrument d'un châtiment divin ; la flamme de Mustang ne sert à rien sous la pluie, Riza le tire en arrière. Armstrong frappe, comprend que Scar ne fait que la moitié de l'alchimie (il détruit, ne reconstruit pas). Un tir de Riza fait sauter ses lunettes : yeux rouges, un Ishval. Scar éventre la chaussée et fuit par les égouts. Al frappe Ed pour avoir offert sa vie. Crise probable de Rhea : Winry absente, Al en morceaux, Cliquetis seul. Avance quand Scar a fui.
@@ -45,7 +45,7 @@ Toutes en présence de Rhea ; aucune ne relie Scar aux Rockbell.
 - Resembool, au souper : Ed rêve tout haut d'un jour sans réparations d'automail ; Al remercie les Rockbell à voix basse.
 
 ## Casting convoqué
-- Rhea - POV, 16 ans ; face à Nina, à Scar et à l'armée - cf. Personnages/Rhea.md
+- Rhea - POV, 19 ans ; face à Nina, à Scar et à l'armée - cf. Personnages/Rhea.md
 - Edward Elric - rapport à Mustang, Tucker, perd son bras face à Scar, reçoit l'indice de Marcoh - cf. Personnages/Edward_Elric.md
 - Alphonse Elric - armure détruite par Scar, reconstruite par Rhea ; sa propre carte prend une première ligne - cf. Personnages/Alphonse_Elric.md
 - Roy Mustang - retrouvailles avec Rhea, oriente vers Tucker, inutile sous la pluie, raconte Ishval et sa part - cf. Personnages/Roy_Mustang.md
@@ -83,7 +83,7 @@ Toutes en présence de Rhea ; aucune ne relie Scar aux Rockbell.
 - Tuer Tucker ou achever Nina - Scar les tue (canon) ; cf. Verrous.
 - Apprendre la vraie nature de la Pierre philosophale (âmes humaines) - réservé aux notes de Marcoh décodées à Central (Roadmap 7).
 - Apprendre ce que devient Liore - Roadmap 12.
-- Révéler le pourquoi du sans-cercle (le 1903) à Mustang, Riza, Hughes, Armstrong, Havoc, Tucker ou Marcoh - verrouillé hors Elric et Rockbell.
+- Révéler le pourquoi du sans-cercle (le 1900) à Mustang, Riza, Hughes, Armstrong, Havoc, Tucker ou Marcoh - verrouillé hors Elric et Rockbell.
 - Rejoindre l'armée, passer l'examen d'État ou accepter une offre de Mustang - antimilitarisme sur toute la saga.
 - Rester à Resembool, ou que Winry parte avec le trio - Winry rejoint à Central (Roadmap 7).
 - Que la carte de Winry réussisse, ou qu'Al remplace Winry - sa carte avance d'une ligne, pas plus.
