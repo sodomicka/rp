@@ -11,10 +11,10 @@ Mode outil exclusif. Ce skill ne fait QU'une chose : produire les livrables du C
 
 Le thread de build est un thread de MACHINERIE. Le joueur n'y met pas les pieds : il a donné l'ordre (« codex build ») dans le thread de jeu, et c'est tout. Le build se boucle seul, de bout en bout, sans rien lui demander :
 
-1. lire les entrées (§1), builder les trois livrables (§2), passer l'audit (SPEC §7) ;
+1. lire les entrées (§1), builder les trois livrables (§2), passer l'audit (SPEC §7), puis l'audit de provenance (§5) ;
 2. écrire sur une branche, ouvrir la pull request, la FUSIONNER sur main soi-même, sans validation préalable (`Config/INSTRUCTION_WIKI_GITHUB.md` §8bis, point 7) ;
 3. une fois la fusion faite, LANCER AUTOMATIQUEMENT le thread de jeu suivant : demander au coordinateur du projet d'ouvrir un nouveau thread de jeu sur l'univers et la partie buildés, qui repartira du CODEX fusionné sur main (cœur Narration §0) ;
-4. poster un seul message de fin dans le thread de build (version du CODEX, étape de reprise, PR fusionnée, thread de jeu lancé, éventuel bloc « À FORMALISER ») et résoudre le thread.
+4. poster un seul message de fin dans le thread de build (version du CODEX, étape de reprise, PR fusionnée, thread de jeu lancé, éventuel bloc « À FORMALISER », dérives du MJ relevées par l'audit de provenance) et résoudre le thread.
 
 Jamais de question au joueur dans ce thread. Un doute se tranche seul, au plus probable, et se marque `[INCERTAIN]` dans le livrable. Seuls deux cas arrêtent la machine : réseau ou dépôt inaccessible (`[FETCH ECHOUE]`, `[ECRITURE ECHOUEE]`), et dépassement du plafond dur. Dans ces deux cas seulement, le build le signale au coordinateur, qui prévient le joueur dans le chat du projet, et ne lance pas le thread de jeu.
 
@@ -49,7 +49,10 @@ Sommaire WIKI et fiches restent vérifiables, en lecture seule, SEULEMENT si une
 
 ## 3. Hiérarchie de résolution au build
 
-`OOC joueur explicite > Narration brute (ce qui s'est passé) > CODEX V(n-1) (état antérieur) > BIBLE (lore statique)`.
+Deux échelles, selon ce qu'on écrit.
+
+- **ÉVÉNEMENTS** (ce qui a eu lieu en scène, daté : actes, répliques, décisions, blessures, objets donnés) : `OOC joueur explicite > Narration brute > CODEX V(n-1) > BIBLE`. La narration est la vérité de ce qui s'est passé.
+- **TRAITS** (ce qui prétend durer : corps, sens, péage, capacités et limites, voix et tics, façon de nommer un proche, valeurs, règles de comportement ; PJ comme PNJ) : `OOC joueur explicite > texte écrit par le joueur > fiche WIKI, BIBLE ou Parties/Suivi > canon vérifié (#SITES_REF) > rien`. La prose du MJ n'est PAS une source de trait : c'est une interprétation de ces sources, qui a pu dériver. Un trait que seule la prose du MJ porte ne se promeut pas.
 
 Le CODEX NE CRÉE AUCUN FAIT : il reformule, regroupe, compresse ce qui est dans les entrées. Information absente, floue ou contradictoire -> `[INCERTAIN]`.
 
@@ -57,11 +60,39 @@ Le CODEX NE CRÉE AUCUN FAIT : il reformule, regroupe, compresse ce qui est dans
 
 La SPEC porte le barème de plafond croissant (`plafond(N) = min(30 000 + 3 000 x (N-1), 90 000)`), des budgets-cibles par section et un ordre de rédaction par poids. Rédiger les grosses sections (§3a, §4 ; au cumulatif CHRONO, PNJ) D'ABORD et DIRECTEMENT à leur cible (~5 % sous le plafond). Une seule mesure `wc -m` en fin de build, reportée dans `taille au build`. Section qui déborde : UNE passe de coupe franche, une seule re-mesure, jamais de micro-coupes re-mesurées. Seul le dépassement du PLAFOND DUR se signale au joueur, via le coordinateur (cf. Thread machinerie).
 
+## 3ter. Ne jamais figer un moment en règle
+
+Modes de panne visés (CODEX V1 et V2 de FMA) : une fiche mal lue, et un épisode de scène recopié en vérité intemporelle. Al, enfant, dit « Frère » : c'est le vocabulaire d'un gamin à un âge donné, le build en a fait sa voix pour toujours. Le MJ narre par dérive une main brûlée : le build en a fait un invariant de Rhea. Puis la correction a posé la règle inverse (« toujours grand frère »), soit la même erreur dans l'autre sens. Cinq règles :
+
+1. **Ce qui vient du jeu est par défaut un ÉVÉNEMENT daté**, pas un trait. Un mot, une réplique, un geste observés en scène s'écrivent avec leur date ou l'âge du personnage (« 1904, Al 7 ans : dit « Frère » à Ed »), ou descendent en Mémoire narrative s'ils ne portent rien. Jamais au présent générique (« voix : « Frère » »).
+2. **Les personnages grandissent.** Une observation datée vaut pour son âge et sa situation : vocabulaire d'enfant, heure du coucher, taille, peur, surnom, croyance d'enfant (« l'acier ne rouille pas »). Le MJ de jeu la fait vieillir avec l'âge, la fiche (Trajectoire datée) et la roadmap, sans que le joueur ait à le préciser ; le CODEX ne la prolonge pas. Test avant d'écrire une ligne au présent : « est-ce encore vrai dans cinq ans de jeu, sans que personne ne le dise ? » Si la réponse dépend de l'âge, de la situation ou de l'humeur, la ligne est datée, pas un trait.
+3. **Un trait au présent cite une source de l'échelle des traits (§3), lue dans CE build.** Vaut pour §3a, les champs voix et relation d'ANNEXE_PNJ et les contraintes de perception d'ANNEXE_STYLE. Pour un PNJ canon, la voix renvoie d'abord à sa fiche (`voix: cf. WIKI Personnages/X.md`), puis, au besoin, aux observations datées propres au RP. Une manière de parler d'un perso canon (façon de nommer un proche, réplique fétiche) ne s'écrit qu'appuyée sur la fiche ou sur le canon vérifié ; sinon elle ne s'écrit pas.
+4. **Lire avant de transcrire.** Une phrase de fiche se lit dans son paragraphe et sous son titre, pas isolée : « elle ne sent ni le métal chaud » sous « Anosmie » parle d'odorat, point. Puis on vérifie la cause : une conséquence que la cause ne peut pas produire signale la mauvaise lecture (une perte de l'odorat n'ôte pas la sensation de chaleur au toucher). Doute réel après ces deux tests : la ligne reprend la phrase de la fiche telle quelle, sans interprétation.
+5. **Transcrire sans changer de sens.** Un trait tiré d'une fiche garde ses qualificatifs. Compresser n'autorise pas à élargir : un mot à deux lectures se lève en nommant le sens (« sentir » : odorat ou toucher ; « ne touche pas le bois » : le transmuter ou le tenir en main). Test : un MJ qui n'a pas lu la fiche ne peut pas lire la ligne autrement que la fiche. Contre-exemple : « ne sent ni le métal chaud » (paragraphe Anosmie de la fiche) compressé en « ne sent ni le chaud » a été lu comme une perte du toucher.
+
+## 3quater. Corriger sans contre-règle
+
+Une erreur de CODEX se corrige à la ligne : on rétablit ce que dit la source, ou on supprime la ligne. On n'ajoute ni la règle inverse ni un interdit §6 : ce serait figer un autre moment. §6 ne reçoit que les pièges que le JOUEUR a nommés en OOC.
+
+Pas de boucle de confirmation : une ligne du CODEX V(n-1) que la narration a reprise ensuite n'en sort pas confirmée, puisque le MJ l'avait lue dans le CODEX. Les traits hérités repassent l'audit de provenance (§5) comme les nouveaux.
+
 ## 4. Promotion et frontière de périmètre
 
-- Capacité ou fait DURABLE démontré en jeu et absent du calque stable -> promu en §3a (Capacités) avec son détail complet (SPEC 4bis), pour ne pas être re-dérivé à chaque thread.
+- Capacité ou fait DURABLE démontré en jeu et absent du calque stable -> promu en §3a (Capacités) avec son détail complet (SPEC 4bis), pour ne pas être re-dérivé à chaque thread. « Durable » s'établit sur l'échelle des traits (§3) : posé par le joueur (ses actions, ses OOC) ou par une fiche, jamais par la seule prose du MJ, et passé au test des cinq ans (§3ter, point 2).
 - Fait relevant du lore permanent (BIBLE/WIKI), ou correction de roadmap ou de fiche que le jeu révèle : NE PAS l'écrire ici. Le signaler en fin de build sous un bloc **"À FORMALISER EN BIBLE/WIKI BUILD : ..."**.
 - Roadmaps et fiches : LECTURE SEULE. Le CODEX tient l'état d'arc (roadmap, étape, jalon) et pointe la roadmap via `roadmap:`, jamais il ne la réécrit.
+
+## 5. Audit de provenance (avant fusion)
+
+Passé après l'audit SPEC §7, avant d'ouvrir la pull request. Fetch OBLIGATOIRE, dérogation assumée au fetch conditionnel (SPEC 4bis) : la fiche WIKI du protagoniste, `Parties/{Univers}/Partie<n>/Suivi/<Prota>_Fiche.md`, et les fiches des PNJ d'ANNEXE_PNJ > Actifs ; le canon via #SITES_REF pour toute manière de parler d'un perso canon que sa fiche ne porte pas. Ce sont les fiches que le thread de jeu a déjà lues : quelques fetchs, pas une fouille.
+
+1. **Source.** Chaque ligne de trait (§3a, voix et relation des PNJ, perception en ANNEXE_STYLE) a sa source : fiche (section), canon (page), joueur (date du message ou de l'OOC). Sans source, elle devient une observation datée (§3ter, point 1) ou elle sort.
+2. **Fidélité.** Aucune ligne de trait ne contredit ni n'élargit sa source : relire la phrase de la fiche, pas son souvenir (§3ter, points 4 et 5).
+3. **Temporalité.** Aucune observation liée à un âge ou à une situation n'est écrite au présent générique (§3ter, point 2).
+4. **Diff des traits V(n-1) -> V(n).** Toute ligne de trait ajoutée ou modifiée est justifiée par une source neuve (OOC, texte du joueur, fiche relivrée). Un trait qui change sans ça est une dérive : revenir à la source.
+5. **Dérive du MJ en scène.** Un événement narré contre un trait sourcé (le MJ a joué contre la fiche) reste dans la CHRONO s'il a eu lieu, mais ne remonte ni en §3a ni en état courant ; le message de fin le signale (« dérive MJ relevée : … »), sans interdit.
+
+Le registre (ligne de trait -> source) va dans le corps de la pull request, pas dans le CODEX : zéro caractère de plus en jeu, traçable dans git. Un trait sans source ne bloque pas la machine : il sort ou se date, et le build continue.
 
 ## Garde-fou de contexte
 
