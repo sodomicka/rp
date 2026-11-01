@@ -1,7 +1,7 @@
 # Enfance à Resembool - Scènes closes de R1 (Partie1)
 
 - partie : 1
-- version : W2
+- version : W3
 
 Mémoire refroidie : arc R1 joué (1900 -> fin 1908). Scènes closes et seconds rôles sortis de scène (Trisha, école, foire). Le casting vivant (Pinako, Winry, Ed, Al, Sarah, Yuri) reste au CODEX. Froid : fetch à la demande. Roadmap : cf. WIKI Roadmap/Rhea/Roadmap1_Grandir_A_Resembool.md.
 
@@ -15,7 +15,7 @@ Mémoire refroidie : arc R1 joué (1900 -> fin 1908). Scènes closes et seconds 
 
 ## Le chevalier d'acier (fin de l'été 1900)
 - Avant : un fil de cuivre refermé en anneau sans cercle, à l'atelier ; Pinako : « Pas devant les clients. »
-- Visite de Trisha (panier d'œufs), Ed (4 ans) et Al (3 ans). « C'est pas possible. » Cylindre d'acier sur le perron. « Je touche à tout sauf à l'organique. » Pinako coupe la question d'Ed sur l'organique et donne une plaque mince.
+- Visite de Trisha (panier d'œufs), Ed (4 ans) et Al (3 ans). « C'est pas possible. » Cylindre d'acier sur le perron. « Je touche à tout sauf à l'organique. » puis, à Winry : « Et le bois, et le cuir » : d'où sa place à l'atelier. Pinako coupe la question d'Ed sur l'organique et donne une plaque mince.
 - « Les sœurs Rockbell. » Al paie de son meilleur caillou à ricochets. Suie de cheminée ; Pinako corrige (l'acier rouille ; le coton est organique : ne prélever que la suie). « Chut, nabot » (cf. CODEX §5). Chevalier : casque à visière, épée-aiguille, doigts, caillou en bouclier. Rhea rougit sous le regard d'Al ; Al dit son nom pour la première fois. Ed : « DEMAIN, TU M'APPRENDS LES SAUCISSES ! ET JE SUIS PAS UN NABOT ! »
 
 ## L'école (rentrée 1902)
@@ -44,7 +44,7 @@ Mémoire refroidie : arc R1 joué (1900 -> fin 1908). Scènes closes et seconds 
 - 11 ans : dépasse Ed ; « grande perche » / « minus » ; dispute éteinte en cinq secondes. Première place disputée à Ed, jamais le prix de conduite ; une heure au coin pour avoir corrigé une date et une addition.
 - Hans Weber (13 ans) jette le chevalier d'Al dans l'abreuvoir de la place ; Rhea le repêche ; excuses et caramel refusés ; deux ans sans un mot.
 - Pinces de forge à 12 ans (une paire pour Pinako). Histoire du soir de Pinako, réclamée chaque soir.
-- Atelier à 10 ans : bras de berger démonté, remonté, restauré par transmutation. Établi de Yuri. Émulation avec Winry (ressort « trop beau », charnière qui grince). Mèche prise dans un genou à 11 ans : natte nouée de fil de fer. Métal qui chauffe, huile qui fume : elle ne les sent pas venir (anosmie), Pinako crie avant (le thread a narré une insensibilité au chaud : corrigée en OOC, toucher intact). Crin : recule au mur. Fin 1907 : le berger demande à Rhea combien il doit.
+- Atelier à 10 ans : bras de berger démonté, remonté, restauré par transmutation. Établi de Yuri. Émulation avec Winry (ressort « trop beau », charnière qui grince). Mèche prise dans un genou à 11 ans : natte nouée de fil de fer. Métal qui chauffe, huile qui fume : elle n'en sent pas l'odeur (anosmie), Pinako crie avant elle. Sangles cousues par Winry ; manches d'outils de son établi refaits en acier. Fin 1907 : le berger demande à Rhea combien il doit.
 - Parents : missions depuis 1901 (« un blessé n'a pas de camp ») ; Rhea court à chaque retour, ne pleure à aucun départ. Lecture des traités de Yuri (os et articulations).
 - Printemps 1907, dernier départ : « Des filles, vous en avez que deux » ; Yuri confie le boîtier de montre ; Sarah promet des lettres ; charrette du facteur, le pont.
 - Montre réparée à l'été 1907 ; deux lettres (fin du printemps, été 1907 : chameau vexé, mouton à lunettes) ; plus rien en 1908.
