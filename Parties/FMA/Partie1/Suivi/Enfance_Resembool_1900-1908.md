@@ -1,7 +1,7 @@
 # Enfance à Resembool - Scènes closes de R1 (Partie1)
 
 - partie : 1
-- version : W1
+- version : W2
 
 Mémoire refroidie : arc R1 joué (1900 -> fin 1908). Scènes closes et seconds rôles sortis de scène (Trisha, école, foire). Le casting vivant (Pinako, Winry, Ed, Al, Sarah, Yuri) reste au CODEX. Froid : fetch à la demande. Roadmap : cf. WIKI Roadmap/Rhea/Roadmap1_Grandir_A_Resembool.md.
 
@@ -44,7 +44,7 @@ Mémoire refroidie : arc R1 joué (1900 -> fin 1908). Scènes closes et seconds 
 - 11 ans : dépasse Ed ; « grande perche » / « minus » ; dispute éteinte en cinq secondes. Première place disputée à Ed, jamais le prix de conduite ; une heure au coin pour avoir corrigé une date et une addition.
 - Hans Weber (13 ans) jette le chevalier d'Al dans l'abreuvoir de la place ; Rhea le repêche ; excuses et caramel refusés ; deux ans sans un mot.
 - Pinces de forge à 12 ans (une paire pour Pinako). Histoire du soir de Pinako, réclamée chaque soir.
-- Atelier à 10 ans : bras de berger démonté, remonté, restauré par transmutation. Établi de Yuri. Émulation avec Winry (ressort « trop beau », charnière qui grince). Mèche prise dans un genou à 11 ans : natte nouée de fil de fer. Brûlures. Crin : recule au mur. Fin 1907 : le berger demande à Rhea combien il doit.
+- Atelier à 10 ans : bras de berger démonté, remonté, restauré par transmutation. Établi de Yuri. Émulation avec Winry (ressort « trop beau », charnière qui grince). Mèche prise dans un genou à 11 ans : natte nouée de fil de fer. Métal qui chauffe, huile qui fume : elle ne les sent pas venir (anosmie), Pinako crie avant (le thread a narré une insensibilité au chaud : corrigée en OOC, toucher intact). Crin : recule au mur. Fin 1907 : le berger demande à Rhea combien il doit.
 - Parents : missions depuis 1901 (« un blessé n'a pas de camp ») ; Rhea court à chaque retour, ne pleure à aucun départ. Lecture des traités de Yuri (os et articulations).
 - Printemps 1907, dernier départ : « Des filles, vous en avez que deux » ; Yuri confie le boîtier de montre ; Sarah promet des lettres ; charrette du facteur, le pont.
 - Montre réparée à l'été 1907 ; deux lettres (fin du printemps, été 1907 : chameau vexé, mouton à lunettes) ; plus rien en 1908.

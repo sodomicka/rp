@@ -12,7 +12,7 @@
   note: les tampons OOC (§5) et interdits (§6) utilisent [V<n>], pas la date.
 - codex_version: V2
 - plafond: 33 000 car. (barème : min(30 000 + 3 000 x (N-1), 90 000))
-- taille au build: 20121 car. (61 % du plafond(N))
+- taille au build: 20259 car. (61 % du plafond(N))
 - thread source: Jouer le RP FMA de Rhea | cmsg_01FNgXXHrS15J5LmDntmDXLj1xZhqkSJYESEENQPot4WyE
 - spec au build: SPEC_CODEX v8.10 (source: GitHub)
 - bible_lore: BIBLE_LORE_FMA.md
@@ -39,7 +39,7 @@ Instance : ICI + Parties/Suivi. Entité : cf. WIKI Personnages/Rhea.md.
 - Péage (1900, définitif) :
   - vision monoculaire : la profondeur trompe, elle rate un objet d'un pouce puis corrige ; ça s'améliore ;
   - cortex orbitofrontal bilatéral : syndrome complet, détail cf. WIKI Personnages/Rhea.md (Personnalité) ;
-  - anosmie ; goût réduit aux textures et au sucré/salé ; ne sent ni le chaud, ni le brûlé : se brûle à l'atelier, un autre crie avant elle.
+  - anosmie : aucune odeur d'huile qui brûle, de gaz, de métal qui chauffe ; Winry ou Pinako crient avant elle. Goût : textures, sucré/salé. Toucher intact (chaud, froid).
 - Capacités stables :
   - Sans-cercle par claquement de mains, acquis à la Porte. Révélé en 1900 (anneau de cuivre), connu des Elric et du bourg.
   - Domaine : minéral, surtout le métal, au-dessus d'Ed. Pièces ultra-fines : ressorts plus fins qu'un cheveu, engrenages serrés, rivets.
@@ -52,20 +52,20 @@ Instance : ICI + Parties/Suivi. Entité : cf. WIKI Personnages/Rhea.md.
 - Tics / voix : littérale, sans filtre, questions à plat ; ricane, rit à contretemps. Crise : flux ou cascade en tirets (cf. ANNEXE_STYLE). Se mord l'intérieur de la joue après coup. Colères de cinq secondes ; plaie durable sur le grave. Règles apprises : ne pas parler du 1900 aux Elric ; pas de sans-cercle devant les clients.
 
 **§3b État courant (chaud, transitoire, churn par thread)**
-- État physique actuel : 13 ans (1908 - 1895), 14 le 30 janvier 1909 ; en bonne santé ; marques de brûlure aux paumes possibles.
+- État physique actuel : 13 ans (1908 - 1895), 14 le 30 janvier 1909 ; en bonne santé.
 - État émotionnel actuel : attend le retour des parents ; deux lettres en 1907, plus rien depuis.
 - Ressources du moment : son établi à l'atelier (celui de Yuri) ; Winry à sa gauche ; Monsieur Lapinou ; la montre (cf. ANNEXE_INVENTAIRE).
-- Contraintes actives : aucun filtre prothétique (il se construit de 1911 à 1914) ; agoraphobie installée.
+- Contraintes actives : aucun filtre prothétique (1911-1914) ; agoraphobie installée.
 
 ### §4 Reprise et état courant
 - Lieu : Resembool.
 - Sous-lieu : maison et atelier Rockbell.
 - Dernier [REPERE] : Resembool — maison Rockbell | fin 1908 (Rhea 13 ans) — montre réparée et posée dans la chambre des parents ; deux lettres en 1907, puis plus rien ; les frères parlent d'un maître au sud | Contexte : 64 % · compression 1/2
 - PNJ présents physiquement : Pinako, Winry ; Ed et Al dînent trois soirs sur quatre.
-- Savoir du protagoniste : parents en mission à Ishval depuis le printemps 1907, courrier lent selon Pinako ; les frères parlent d'alchimie et d'un maître au sud.
+- Savoir du protagoniste : parents à Ishval depuis le printemps 1907, « courrier lent » (Pinako) ; les frères parlent d'un maître au sud.
 - Savoir caché : Sarah et Yuri sont morts à Ishval en 1908 (cf. ANNEXE_SAVOIRS).
 - Tension dominante : le silence d'Ishval ; Pinako fume plus longtemps sur le perron.
-- Rapport de force : foyer intact en apparence ; rien ne peut changer la nouvelle.
+- Rapport de force : foyer intact en apparence.
 - Dernier échange - joueur : « Ellipse OK » / MJ : ellipse sans réplique jusqu'à fin 1908 ; dernière réplique, Pinako : « Bon. Il y a un genou à finir pour jeudi. Et toi, Rhea, ta montre ne va pas se réparer toute seule. »
 - État-clé minimal : R1 bouclée ; le thread suivant ouvre sur la question de mode de R2 jalon 1.
 - Prochaine bascule amorcée : R2 jalon 1, Le départ des frères [AU CHOIX], début 1909. Mode non choisi : poser `[ÉTAPE AU CHOIX — Le départ des frères : rapide ou classique ?]`.
@@ -82,6 +82,8 @@ Instance : ICI + Parties/Suivi. Entité : cf. WIKI Personnages/Rhea.md.
 - [V1] - Écrire « Lapinou » seul : toujours « Monsieur Lapinou » en entier.
 - [V1] - Âge ou date au jugé : tout âge se calcule depuis la naissance, décalage de 3 ans compris (§2).
 - [V1] - Rendre les tirets de crise du joueur en points de suspension.
+- [V2] - Faire dire « Frère » à Al : toujours « grand frère ».
+- [V2] - Étendre l'anosmie au toucher : elle sent chaud et froid.
 - [V1] - Laisser passer le lien œil-goût ou œil-deuil devant les Elric sans couverture en jeu (version « fièvre », cf. ANNEXE_SAVOIRS).
 
 ### §7 #SITES_REF
@@ -101,7 +103,7 @@ Canon non modifié : cf. WIKI. R2 : casting cf. WIKI Roadmap/Rhea/Roadmap2_Ishva
 - Pinako Rockbell - grand-mère, tutrice, atelier | 1908 : seule adulte, fume le soir sur le perron | voix: sèche, courte, « ma grande », humour pince-sans-rire, autorité sans cri (« Edward Elric. ») ; corrige à plat, ne gronde pas | « mamie », adorée | a forgé avec Rhea la règle « pas devant les clients » | ne dit rien de son inquiétude pour Ishval.
 - Winry Rockbell - sœur, 12 ans fin 1908 | voix: franche, vive, « Les sœurs Rockbell », poings sur les hanches ; devant les autres, parle vite pour couvrir | béquille permanente : main serrée sous la table, pied contre la cheville, traduit, enlace en crise | tresse la natte, sait le 1900, connaît par cœur le rythme cardiaque de Rhea endormie | range les lettres des parents dans une boîte à biscuits.
 - Edward Elric - ami d'enfance, 12 ans fin 1908, plus petit que Winry | voix: braillard, défi, « QUI T'APPELLES… », colère qui retombe si on l'ignore ; rival de classe | relation : pardon scellé sur la tombe de Trisha, promesse de « faire le tri » (le méchant exprès, il le garde) | soupçonne un lien œil-goût, croit la fièvre | parle d'un maître au sud.
-- Alphonse Elric - ami d'enfance, 11 ans fin 1908 | voix: douce, « Frère », se tait au bon moment ; recadre Ed | marche au pas de Rhea, l'attend à la grille ; garde le chevalier d'acier (caillou au bras) | promesse de « trier » ses paroles | grandit vite, rattrape Ed.
+- Alphonse Elric - ami d'enfance, 11 ans fin 1908 | voix: douce, appelle Ed « grand frère » (canon VF), se tait au bon moment ; recadre Ed | marche au pas de Rhea, l'attend à la grille ; garde le chevalier d'acier (caillou au bras) | promesse de « trier » ses paroles | grandit vite, rattrape Ed.
 
 ### Secondaires
 - Sarah Rockbell - mère, chirurgienne, mission à Ishval depuis 1907 | voix: douce et ferme, « ma puce » | « maman » | a posé la zone franche ; morte en 1908 à l'insu de Rhea (cf. SAVOIRS).
@@ -196,7 +198,7 @@ Définitions et déroulés : cf. BIBLE SB8 et la roadmap en cours.
 
 Point de vue de Rhea, sans écart : la caméra ne quitte jamais ce qu'elle voit, entend, touche. Prose sobre, phrases courtes, paragraphes d'un battement. L'émotion des autres passe par leur corps ; ses faux pas se lisent dans leur silence, jamais dans une étiquette. L'humour naît de sa littéralité.
 
-Jamais d'odeur dans ce qu'elle perçoit : le second sens est le toucher, le son ou le goût (sucré, salé, texture). Vision d'un seul œil. Le chaud ne l'alerte pas.
+Jamais d'odeur dans ce qu'elle perçoit : le second sens est le toucher, le son ou le goût (sucré, salé, texture). Vision d'un seul œil. Toucher intact : chaud et froid se sentent au contact ; ce qui manque, c'est l'odeur qui prévient.
 
 Crise : parole saccadée, en tirets tels que le joueur les écrit (« j'veux pas boire- mais j'ai soif- »), jamais en points de suspension (OOC joueur). Le corps seul la régule : contact, pression ; on explique après.
 
